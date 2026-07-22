@@ -20,7 +20,12 @@ async function main() {
     console.warn('[graph] no articles.json yet — run sync first. Skipping.');
     return;
   }
-  const { articles } = JSON.parse(await readFile(IN, 'utf8'));
+  // Publication gate: sensitive (3R+1) content stays off the public graph until
+  // reviewed + published. Mirrors isPublishable() in src/lib/content.ts.
+  const { articles: allArticles } = JSON.parse(await readFile(IN, 'utf8'));
+  const articles = allArticles.filter(
+    (a) => !a.sensitivity || a.sensitivity === 'none' || (a.status === 'published' && a.reviewer),
+  );
 
   // One node per canonical article; prefer the ms source for display.
   const byKey = new Map();

@@ -18,8 +18,22 @@ export function readingTime(article: Article): number {
 }
 
 /** All article entries across every language. */
+// PUBLICATION GATE. Sensitive (3R+1) content may never appear on the public
+// site until a human reviewer has signed it off and it is marked published —
+// this is the 3R+1 hard rule, enforced at the build layer so it cannot be
+// bypassed by a stray link or a listing. Everything downstream (pages, routes,
+// nav, search index, sitemap, RSS, llms.txt) flows through allArticles(), so
+// filtering here removes it from the whole published surface at once.
+// Non-sensitive drafts are still published (disclosed as AI-drafted per-article).
+export function isPublishable(a: Article): boolean {
+  if (a.data.sensitivity && a.data.sensitivity !== 'none') {
+    return a.data.status === 'published' && Boolean(a.data.reviewer);
+  }
+  return true;
+}
+
 export async function allArticles(): Promise<Article[]> {
-  return getCollection('knowledge');
+  return (await getCollection('knowledge')).filter(isPublishable);
 }
 
 /**
