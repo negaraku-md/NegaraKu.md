@@ -1,0 +1,9 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import RandomRedirect from '@/components/RandomRedirect.astro';
+const locale = 'zh';
+---
+
+<BaseLayout locale={locale} title="随机" path="/random">
+  <RandomRedirect locale={locale} />
+</BaseLayout>

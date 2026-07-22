@@ -1,0 +1,82 @@
+---
+import type { Locale } from '@/lib/categories';
+import { localePath } from '@/lib/i18n';
+
+interface Props {
+  locale: Locale;
+}
+const { locale } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+// Illustrative figures — replace with sourced data.gov.my / DOSM values.
+const metrics = [
+  { label: L('Keluasan', 'Area', '面积'), value: '330,803 km²', note: L('ke-66 dunia', '66th globally', '全球第 66') },
+  { label: L('Penduduk', 'Population', '人口'), value: '~34 juta', note: L('~2026', '~2026', '~2026') },
+  { label: L('KDNK per kapita (PPP)', 'GDP per capita (PPP)', '人均 GDP（PPP）'), value: '~US$37,000', note: L('anggaran', 'estimate', '估计') },
+  { label: L('Jangka hayat', 'Life expectancy', '预期寿命'), value: '~76 tahun', note: '' },
+  { label: L('Bahasa hidup', 'Living languages', '现存语言'), value: '130+', note: '' },
+  { label: L('Tapak Warisan UNESCO', 'UNESCO World Heritage', 'UNESCO 世界遗产'), value: '4', note: L('2 budaya, 2 semula jadi', '2 cultural, 2 natural', '2 文化，2 自然') },
+];
+
+const shares = [
+  { label: L('Getah asli (dunia)', 'Natural rubber (world)', '天然橡胶（全球）'), pct: 35 },
+  { label: L('Minyak sawit (dunia)', 'Palm oil (world)', '棕油（全球）'), pct: 24 },
+  { label: L('Semikonduktor pembungkusan (dunia)', 'Semiconductor packaging (world)', '半导体封装（全球）'), pct: 13 },
+];
+---
+
+<section class="container head">
+  <h1>{L('Data Malaysia', 'Malaysia Data', '马来西亚数据')}</h1>
+  <p class="lead">{L('Malaysia dalam angka. Nilai ilustrasi — gantikan dengan data rasmi dari data.gov.my / DOSM.', 'Malaysia in numbers. Figures illustrative — replace with official data from data.gov.my / DOSM.', '数字中的马来西亚。数据仅作示例——请替换为 data.gov.my / DOSM 的官方数据。')}</p>
+</section>
+
+<section class="container block">
+  <h2>{L('Malaysia berbanding dunia', 'Malaysia vs the world', '马来西亚与世界')}</h2>
+  <div class="grid">
+    {metrics.map((m) => (
+      <div class="card metric">
+        <b>{m.value}</b>
+        <span class="ml">{m.label}</span>
+        {m.note && <span class="mn">{m.note}</span>}
+      </div>
+    ))}
+  </div>
+</section>
+
+<section class="container block">
+  <h2>{L('Bahagian global terpilih', 'Selected global shares', '部分全球份额')}</h2>
+  <div class="bars">
+    {shares.map((s) => (
+      <div class="bar-row">
+        <span class="bl">{s.label}</span>
+        <span class="track"><span class="fill" style={`width:${s.pct}%`} /></span>
+        <span class="bv">{s.pct}%</span>
+      </div>
+    ))}
+  </div>
+</section>
+
+<section class="container block links">
+  <a class="btn btn-ghost" href={localePath('/companies', locale)}>{L('Syarikat', 'Companies', '企业')} →</a>
+  <a class="btn btn-ghost" href={localePath('/map', locale)}>{L('Peta Negeri', 'States Map', '州属地图')} →</a>
+  <a class="btn btn-ghost" href={localePath('/graph', locale)}>{L('Graf', 'Graph', '图谱')} →</a>
+  <a class="btn btn-ghost" href="https://data.gov.my" rel="noopener">data.gov.my ↗</a>
+</section>
+
+<style>
+  .head { padding-block: 2.5rem 1rem; }
+  .lead { color: var(--ink-soft); max-width: 62ch; }
+  .block { margin-top: 2.5rem; }
+  .block > h2 { font-size: 1.4rem; margin-bottom: 1rem; }
+  .metric b { display: block; font-family: var(--font-title); font-size: 1.6rem; color: var(--gold); }
+  .ml { display: block; color: var(--ink-soft); font-size: 0.92rem; margin-top: 0.2rem; }
+  .mn { display: block; color: var(--muted); font-size: 0.78rem; }
+  .bars { display: grid; gap: 0.75rem; max-width: 42rem; }
+  .bar-row { display: grid; grid-template-columns: 1fr 8rem auto; gap: 0.75rem; align-items: center; }
+  .bl { font-size: 0.9rem; color: var(--ink-soft); }
+  .track { height: 10px; background: var(--surface-2); border-radius: 999px; overflow: hidden; }
+  .fill { display: block; height: 100%; background: var(--gold); }
+  .bv { font-weight: 700; color: var(--gold); }
+  .links { display: flex; flex-wrap: wrap; gap: 0.6rem; padding-bottom: 3rem; }
+  @media (max-width: 560px) { .bar-row { grid-template-columns: 1fr 5rem auto; } }
+</style>

@@ -1,0 +1,87 @@
+---
+import type { MarkdownHeading } from 'astro';
+import type { Locale } from '@/lib/categories';
+
+interface Props {
+  headings: MarkdownHeading[];
+  locale: Locale;
+}
+const { headings, locale } = Astro.props;
+// Only show H2/H3 in the contents rail.
+const toc = headings.filter((h) => h.depth === 2 || h.depth === 3);
+const label = locale === 'zh' ? '目录' : locale === 'en' ? 'Contents' : 'Kandungan';
+---
+
+{
+  toc.length > 1 && (
+    <nav class="toc" aria-label={label}>
+      <p class="toc-title">{label}</p>
+      <ul>
+        {toc.map((h) => (
+          <li class:list={[`d${h.depth}`]}>
+            <a href={`#${h.slug}`}>{h.text}</a>
+          </li>
+        ))}
+      </ul>
+    </nav>
+  )
+}
+
+<style>
+  .toc-title {
+    font-family: var(--font-interface);
+    font-size: 0.72rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--muted);
+    margin: 0 0 0.5rem;
+  }
+  .toc ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    border-left: 1px solid var(--line);
+  }
+  .toc li {
+    margin: 0;
+  }
+  .toc li.d3 {
+    padding-inline-start: 0.8rem;
+  }
+  .toc a {
+    display: block;
+    padding: 0.28rem 0 0.28rem 0.8rem;
+    margin-left: -1px;
+    border-left: 2px solid transparent;
+    color: var(--ink-soft);
+    text-decoration: none;
+    font-size: 0.88rem;
+    line-height: 1.35;
+  }
+  .toc a:hover,
+  .toc a.active {
+    color: var(--gold);
+    border-left-color: var(--gold);
+  }
+</style>
+
+<script>
+  // Highlight the current section in the TOC as the reader scrolls.
+  const links = Array.from(document.querySelectorAll<HTMLAnchorElement>('.toc a'));
+  if (links.length) {
+    const map = new Map<string, HTMLAnchorElement>();
+    links.forEach((l) => map.set(decodeURIComponent(l.hash.slice(1)), l));
+    const obs = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((e) => {
+          if (e.isIntersecting) {
+            links.forEach((l) => l.classList.remove('active'));
+            map.get(e.target.id)?.classList.add('active');
+          }
+        });
+      },
+      { rootMargin: '-92px 0px -70% 0px' },
+    );
+    document.querySelectorAll('main h2[id], main h3[id]').forEach((h) => obs.observe(h));
+  }
+</script>

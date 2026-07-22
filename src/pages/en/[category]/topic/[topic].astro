@@ -1,0 +1,26 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import TopicView from '@/components/TopicView.astro';
+import { getCategory } from '@/lib/categories';
+import { subcatLabel } from '@/lib/subcategories';
+import { topicPaths } from '@/lib/paths';
+import type { Article } from '@/lib/content';
+
+export async function getStaticPaths() {
+  return topicPaths('en');
+}
+
+const locale = 'en';
+const { categoryId, topic, articles } = Astro.props as { categoryId: string; topic: string; articles: Article[] };
+const cat = getCategory(categoryId)!;
+const label = subcatLabel(topic, locale);
+---
+
+<BaseLayout
+  locale={locale}
+  title={`${label} — ${cat.name[locale]}`}
+  description={cat.blurb[locale]}
+  path={`/${categoryId}/topic/${topic}`}
+>
+  <TopicView locale={locale} categoryId={categoryId} topic={topic} articles={articles} />
+</BaseLayout>

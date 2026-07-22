@@ -1,0 +1,37 @@
+# build output
+dist/
+.astro/
+
+# generated content (SSOT lives in knowledge/)
+src/content/
+
+# generated api artifacts
+public/api/
+
+# generated open-graph images
+public/og/
+
+# deps
+node_modules/
+
+# env / logs
+.env
+.env.*
+*.log
+npm-debug.log*
+
+# os / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# stray research downloads / crash dumps (not project files)
+/*.pdf
+/cat.json
+*.stackdump

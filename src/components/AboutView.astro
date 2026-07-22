@@ -1,0 +1,113 @@
+---
+import type { Locale } from '@/lib/categories';
+import { getDashboard } from '@/lib/apidata';
+import { localePath } from '@/lib/i18n';
+
+interface Props {
+  locale: Locale;
+}
+const { locale } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const d = getDashboard();
+
+const timeline = [
+  { date: '2026-07', text: L('NegaraKu.md dilancarkan sebagai projek sumber terbuka.', 'NegaraKu.md launches as an open-source project.', 'NegaraKu.md 作为开源项目启动。') },
+  { date: '2026', text: L('Kandungan awal dijana AI dan disemak komuniti dalam 3 bahasa.', 'Initial content AI-drafted and community-reviewed in 3 languages.', '初始内容由 AI 起草并经社区以三种语言审阅。') },
+];
+
+const faqs = [
+  {
+    q: L('Apa bezanya dengan Wikipedia?', 'How is this different from Wikipedia?', '与维基百科有何不同？'),
+    a: L('NegaraKu.md ialah naratif yang dikurasi dalam Markdown, direka untuk manusia dan AI, dengan satu sumber kebenaran di GitHub.', 'NegaraKu.md is curated narrative in Markdown, designed for humans and AI, with a single source of truth on GitHub.', 'NegaraKu.md 是以 Markdown 撰写、面向人类与 AI 的策展叙事，事实来源统一存于 GitHub。'),
+  },
+  {
+    q: L('Bagaimana kualiti dijamin?', 'How is quality ensured?', '如何保证质量？'),
+    a: L('Setiap artikel dipetik sumbernya dan melalui tangga status draf → disemak → disahkan, dengan pengimbas kesihatan automatik.', 'Every article is cited and moves through a draft → reviewed → verified ladder, with an automated health scanner.', '每篇文章都注明来源，并经过草稿→审阅→核实的流程，配有自动健康扫描。'),
+  },
+  {
+    q: L('Bagaimana isu sensitif dikendalikan?', 'How are sensitive topics handled?', '如何处理敏感话题？'),
+    a: L('Topik sensitif (kaum, agama, politik) mesti berpandukan sumber, ditulis neutral, dan disemak sebelum diterbitkan.', 'Sensitive topics (race, religion, politics) must be sourced, neutral, and reviewed before publishing.', '敏感话题（种族、宗教、政治）必须注明来源、保持中立，并在发布前审阅。'),
+  },
+  {
+    q: L('Bolehkah AI menggunakan kandungan ini?', 'Can AI use this content?', 'AI 可以使用这些内容吗？'),
+    a: L('Ya — melalui llms.txt, Markdown mentah, dan pelayan MCP. Lihat halaman AI / MCP.', 'Yes — via llms.txt, raw Markdown, and the MCP server. See the AI / MCP page.', '可以——通过 llms.txt、原始 Markdown 与 MCP 服务器。请见 AI / MCP 页面。'),
+  },
+  {
+    q: L('Apakah lesennya?', 'What is the license?', '采用什么许可？'),
+    a: L('Kandungan di bawah CC BY-SA 4.0; kod di bawah MIT.', 'Content under CC BY-SA 4.0; code under MIT.', '内容采用 CC BY-SA 4.0，代码采用 MIT。'),
+  },
+];
+---
+
+<section class="container prose head">
+  <h1>{L('Tentang NegaraKu.md', 'About NegaraKu.md', '关于 NegaraKu.md')}</h1>
+  <p class="lead">{L('Pangkalan pengetahuan sumber terbuka dan mesra-AI tentang Malaysia — satu sumber kebenaran yang dikurasi, dipetik, dan boleh disunting komuniti.', 'An open-source, AI-friendly knowledge base about Malaysia — a curated, cited, community-editable single source of truth.', '关于马来西亚的开源、AI 友好知识库——经策展、注明来源、可由社区编辑的单一事实来源。')}</p>
+</section>
+
+<section class="container stats-row">
+  <div><b>{d.totals.articles}</b><span>{L('artikel', 'articles', '文章')}</span></div>
+  <div><b>{d.totals.categories}</b><span>{L('kategori', 'categories', '分类')}</span></div>
+  <div><b>3</b><span>{L('bahasa', 'languages', '语言')}</span></div>
+  <div><b>{d.totals.reviewedPct}%</b><span>{L('disemak', 'reviewed', '已审阅')}</span></div>
+</section>
+
+<section class="container two">
+  <div class="prose">
+    <h2>{L('Kisah kami', 'Our story', '我们的故事')}</h2>
+    <p>{L('NegaraKu.md dibina atas konsep "satu sumber kebenaran". Nama diambil daripada lagu kebangsaan Malaysia. Matlamatnya: menjadikan pengetahuan tentang Malaysia mudah dibaca manusia dan model bahasa besar.', 'NegaraKu.md is built on the idea of a single source of truth. Its name comes from Malaysia\'s national anthem. The goal: make knowledge about Malaysia easy for both people and large language models to read.', 'NegaraKu.md 建立在“单一事实来源”理念之上，名字取自马来西亚国歌。目标：让关于马来西亚的知识既便于人类阅读，也便于大型语言模型使用。')}</p>
+  </div>
+  <div>
+    <h2>{L('Garis masa', 'Timeline', '时间线')}</h2>
+    <ul class="timeline">
+      {timeline.map((m) => <li><span class="tl-date">{m.date}</span><span>{m.text}</span></li>)}
+    </ul>
+  </div>
+</section>
+
+<section class="container faq-wrap">
+  <h2>{L('Soalan lazim', 'FAQ', '常见问题')}</h2>
+  {
+    faqs.map((f) => (
+      <details class="faq">
+        <summary>{f.q}</summary>
+        <p>{f.a}</p>
+      </details>
+    ))
+  }
+</section>
+
+<section class="container sponsor-block">
+  <div class="sponsor-card">
+    <p class="stag">{L('Penaja', 'Sponsor', '赞助')}</p>
+    <p class="sbody">{L('NegaraKu.md ditaja oleh', 'NegaraKu.md is sponsored by', 'NegaraKu.md 由')}
+      <a href="https://www.1company.com" rel="noopener"><span class="oneco">1company.com</span></a>{L('.', '.', ' 赞助。')}</p>
+    <p class="muted">{L('Sokongan mereka memastikan projek ini kekal terbuka dan percuma.', 'Their support keeps this project open and free.', '他们的支持让本项目保持开放与免费。')}</p>
+  </div>
+  <p class="cta"><a class="btn btn-primary" href={localePath('/contribute', locale)}>{L('Sumbang kepada NegaraKu.md', 'Contribute to NegaraKu.md', '为 NegaraKu.md 做贡献')}</a></p>
+</section>
+
+<style>
+  .head { padding-block: 2.5rem 0.5rem; }
+  .lead { font-size: 1.15rem; color: var(--ink-soft); }
+  .stats-row { display: grid; grid-template-columns: repeat(auto-fit, minmax(7rem, 1fr)); gap: 1rem; margin-top: 1rem; }
+  .stats-row div { border: 1px solid var(--line); border-top: 2px solid var(--gold); border-radius: 12px; padding: 1rem; background: var(--surface); }
+  .stats-row b { display: block; font-family: var(--font-title); font-size: 1.8rem; color: var(--gold); }
+  .stats-row span { color: var(--muted); font-size: 0.85rem; }
+  .two { display: grid; grid-template-columns: 1fr 1fr; gap: 2.5rem; margin-top: 2.5rem; }
+  .timeline { list-style: none; padding: 0; margin: 0; }
+  .timeline li { display: grid; grid-template-columns: 5rem 1fr; gap: 0.75rem; padding: 0.5rem 0; border-left: 2px solid var(--gold); padding-left: 1rem; }
+  .tl-date { color: var(--gold); font-weight: 700; font-size: 0.85rem; }
+  .faq-wrap { margin-top: 2.5rem; max-width: var(--container-prose); }
+  .faq-wrap > h2 { font-size: 1.5rem; }
+  .faq { border: 1px solid var(--line); border-radius: 10px; padding: 0.4rem 1rem; margin: 0.5rem 0; background: var(--surface); }
+  .faq summary { cursor: pointer; font-weight: 700; padding: 0.5rem 0; }
+  .faq p { color: var(--ink-soft); margin: 0 0 0.6rem; }
+  .sponsor-block { margin-top: 3rem; padding-bottom: 3rem; }
+  .sponsor-card { border: 1px solid var(--line); border-top: 2px solid var(--gold); border-radius: 12px; padding: 1.5rem; background: var(--surface); }
+  .stag { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); margin: 0 0 0.4rem; }
+  .sbody { font-size: 1.1rem; margin: 0 0 0.4rem; }
+  .sbody a { color: var(--gold); text-decoration: none; font-weight: 700; }
+  .muted { color: var(--muted); }
+  .cta { margin-top: 1.5rem; }
+  @media (max-width: 800px) { .two { grid-template-columns: 1fr; gap: 1.5rem; } }
+</style>

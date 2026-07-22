@@ -1,0 +1,400 @@
+---
+import type { Locale } from '@/lib/categories';
+import { CATEGORIES, PILLARS, categoriesInPillar } from '@/lib/categories';
+import type { Article } from '@/lib/content';
+import { readingTime } from '@/lib/content';
+import { t, localePath } from '@/lib/i18n';
+import { REPO } from '@/lib/site';
+import { getDashboard, getGitInfo } from '@/lib/apidata';
+import CategoryGrid from './CategoryGrid.astro';
+import ArticleCard from './ArticleCard.astro';
+
+interface Props {
+  locale: Locale;
+  essentials: Article[];
+  all: Article[];
+  counts: Record<string, number>;
+  total: number;
+}
+const { locale, essentials, all, counts, total } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const dash = getDashboard();
+const git = getGitInfo();
+
+// Distinctive facts, not factbook figures. Each is verified: Peninsular + Borneo
+// split by the South China Sea; Taman Negara ~130M yrs (older than the Amazon);
+// one of Conservation International's 17 megadiverse nations; and the world's only
+// rotating elective monarchy — 9 hereditary rulers, a new Agong every 5 years.
+const stats = [
+  { icon: '🗺️', value: '2', unit: { ms: 'daratan, satu negara', en: 'lands, one nation', zh: '两地一国' } },
+  { icon: '🌳', value: '130M', unit: { ms: 'tahun usia hutan hujan', en: 'yr-old rainforest', zh: '年古老雨林' } },
+  { icon: '🐅', value: '1 / 17', unit: { ms: 'negara megadiversiti', en: 'megadiverse nations', zh: '超级生物多样国' } },
+  { icon: '👑', value: '9 → 1', unit: { ms: 'sultan, satu raja bergilir', en: 'sultans, one rotating king', zh: '位苏丹轮任元首' } },
+];
+
+const whyCards = [
+  { icon: '🎯', title: L('Dikurasi', 'Curated', '策展'), desc: L('Naratif terpilih, bukan timbunan data.', 'Selected narratives, not a data dump.', '精选叙事，而非数据堆砌。') },
+  { icon: '🤖', title: L('Mesra-AI', 'AI-friendly', 'AI 友好'), desc: L('Markdown, llms.txt, MCP, .md mentah.', 'Markdown, llms.txt, MCP, raw .md.', 'Markdown、llms.txt、MCP、原始 .md。') },
+  { icon: '🌍', title: L('Pelbagai bahasa', 'Multilingual', '多语言'), desc: L('Bahasa Malaysia, Inggeris, Cina.', 'Malay, English, Chinese.', '马来语、英语、中文。') },
+  { icon: '📖', title: L('Terbuka', 'Open', '开放'), desc: L('Boleh disunting komuniti di GitHub.', 'Community-editable on GitHub.', '可在 GitHub 由社区编辑。') },
+];
+
+const totalMinutes = essentials.reduce((s, a) => s + readingTime(a), 0);
+const catCount = categoriesInPillar('understand').length;
+
+// 4-part editorial narrative → category groups.
+const pick = (cats: string[], n: number) => all.filter((a) => cats.includes(a.data.category)).slice(0, n);
+const parts = [
+  { num: 'I', title: L('Rupa negara ini', 'What this country looks like', '这个国家的样貌'), items: pick(['states'], 4) },
+  { num: 'II', title: L('Bagaimana ia terbentuk', 'How it came to be', '它如何形成'), items: pick(['malaysia'], 4) },
+  { num: 'III', title: L('Kehidupan rakyatnya', 'How its people live', '人民的生活'), items: pick(['arts-culture'], 4) },
+  { num: 'IV', title: L('Ke mana ia menuju', 'Where it is heading', '它的走向'), items: pick(['economy', 'government', 'law'], 4) },
+];
+
+const testimonials = [
+  L('Akhirnya, satu tempat untuk memahami Malaysia sepenuhnya.', 'Finally, one place to understand Malaysia fully.', '终于有一个全面了解马来西亚的地方。'),
+  L('Sempurna untuk memberi konteks Malaysia kepada AI saya.', 'Perfect for giving my AI real Malaysian context.', '非常适合为我的 AI 提供真实的马来西亚背景。'),
+  L('Dikurasi dengan teliti dan dipetik sumbernya — boleh dipercayai.', 'Carefully curated and cited — trustworthy.', '精心策展且注明来源——值得信赖。'),
+  L('Saya suka boleh baca versi Markdown mentah.', 'I love that I can read the raw Markdown.', '我喜欢能直接读到原始 Markdown。'),
+];
+const vitalsList = Object.values(dash.vitals);
+---
+
+<section class="hero">
+  <div class="container hero-inner">
+    <h1 class="wordmark">NegaraKu<span class="dot">.md</span></h1>
+    <p class="tagline">{t('home.hero.title', locale)}</p>
+    <p class="sub sub1">{L('Pangkalan pengetahuan Malaysia yang lengkap — sumber terbuka dan mesra-AI', 'An open-source, AI-friendly complete knowledge base of Malaysia', '开源、AI-friendly 的马来西亚完整知识库')}</p>
+    <p class="sub sub2">{L('Dibina dari pelbagai perspektif, mengetengahkan Malaysia kepada dunia', 'Built from diverse perspectives, curating Malaysia for the world', '从多元观点建构，为全世界呈现马来西亚')}</p>
+    <form class="hsearch" action={localePath('/search', locale)} method="get" role="search">
+      <span aria-hidden="true">🔍</span>
+      <input
+        type="search"
+        name="q"
+        placeholder={L('Tanya apa sahaja tentang Malaysia…', 'Ask anything about Malaysia…', '搜索任何关于马来西亚的内容…')}
+        aria-label={L('Cari', 'Search', '搜索')}
+      />
+      <button type="submit">{L('Cari', 'Search', '搜索')}</button>
+    </form>
+
+    <div class="cta">
+      <a class="btn btn-primary" href={localePath('/explore', locale)}>{L('Mula Terokai', 'Start Exploring', '开始探索')} →</a>
+      <a class="btn btn-ghost gh" href={REPO} rel="noopener">
+        <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
+        Star on GitHub
+      </a>
+    </div>
+    <dl class="stats">
+      {stats.map((s) => (
+        <div class="stat">
+          <span class="sicon" aria-hidden="true">{s.icon}</span>
+          <dt>{s.value}</dt>
+          <dd>{s.unit[locale]}</dd>
+        </div>
+      ))}
+    </dl>
+  </div>
+</section>
+
+<section class="container block">
+  <h2 class="ways-title">{L('Apa yang membawa anda ke sini?', 'What brings you here?', '您为何而来？')}</h2>
+  <div class="pillars">
+    {PILLARS.map((p) => (
+      <a class="card pillar" href={localePath(`/${p.id}`, locale)} style={`--c:${p.id === 'business' ? 'var(--gold)' : p.id === 'living' ? '#38BDF8' : '#A78BFA'}`}>
+        <span class="picon" aria-hidden="true">{p.icon}</span>
+        <b>{p.name[locale]}</b>
+        <span class="pdesc">{p.tagline[locale]}</span>
+        <span class="pgo">{L('Terokai', 'Explore', '探索')} →</span>
+      </a>
+    ))}
+  </div>
+</section>
+
+<section id="cover-story" class="container block cover">
+  <div class="cover-inner">
+    <h2>{L('Bagaimana memahami Malaysia?', 'How to understand Malaysia?', '如何理解马来西亚？')}</h2>
+    <p>{L('Malaysia ialah sebuah negara seluas 330,803 km², namun menyimpan kerencaman seluruh dunia — berbilang kaum, agama dan bahasa, terbentang dari Semenanjung ke Borneo.', 'Malaysia is a country of just 330,803 km², yet it holds the complexity of the entire world — many peoples, faiths and languages, stretching from the Peninsula to Borneo.', '马来西亚是一个面积仅 330,803 平方公里的国家，却承载着整个世界的复杂——多元的族群、宗教与语言，从半岛延伸到婆罗洲。')}</p>
+    <p>{L('Selama berabad-abad, setiap orang yang menjejak tanah ini melihat Malaysia yang berbeza dengan mata yang berbeza.', 'For centuries, everyone who set foot on this land has seen a different Malaysia through different eyes.', '数百年来，每一个踏上这片土地的人，都用不同的眼睛看见不同的马来西亚。')}</p>
+    <a class="btn btn-primary" href="#reading-path">{L('Mula membaca', 'Start reading', '开始阅读')} →</a>
+  </div>
+</section>
+
+{
+  essentials.length > 0 && (
+    <section id="reading-path" class="container block">
+      <div class="sec-head">
+        <h2>{t('home.essentials', locale)}</h2>
+        <span class="total">⏱️ {L('Jumlah', 'Total', '共')} {totalMinutes} {L('minit', 'minutes', '分钟')} · {essentials.length} {L('artikel', 'articles', '篇')}</span>
+      </div>
+      <div class="grid">{essentials.map((a) => <ArticleCard article={a} locale={locale} />)}</div>
+    </section>
+  )
+}
+
+<section class="container block">
+  <h2>{t('home.why.title', locale)}</h2>
+  <div class="why-grid">
+    {whyCards.map((w) => (
+      <div class="card">
+        <span class="dicon" aria-hidden="true">{w.icon}</span>
+        <b>{w.title}</b>
+        <p>{w.desc}</p>
+      </div>
+    ))}
+  </div>
+</section>
+
+{
+  vitalsList.length > 0 && (
+    <section class="container block organism">
+      <div class="org-copy">
+        <p class="kicker2">🫀 {L('Organisma hidup', 'A living organism', '活的有机体')}</p>
+        <h2>{L('NegaraKu.md bernafas', 'NegaraKu.md breathes', 'NegaraKu.md 在呼吸')}</h2>
+        <p>{L('Pangkalan ini tumbuh, disemak, dan diterjemah — tanda vitalnya dikira setiap binaan.', 'This base grows, gets reviewed, and translated — its vitals computed every build.', '这个知识库不断成长、审阅与翻译——其生命体征每次构建时计算。')}</p>
+        <a class="btn btn-ghost" href={localePath('/dashboard', locale)}>{t('nav.dashboard', locale)} →</a>
+      </div>
+      <div class="org-vitals">
+        {vitalsList.map((v) => (
+          <div class="ov">
+            <div class="ov-score" style={`--v:${v.score}`}><span>{v.score}</span></div>
+            <span class="ov-name">{v.label[locale]}</span>
+          </div>
+        ))}
+      </div>
+    </section>
+  )
+}
+
+<section class="container block">
+  <h2>{L('Malaysia dalam empat bahagian', 'Malaysia in four parts', '四个部分，读懂马来西亚')}</h2>
+  <div class="narrative">
+    {parts.map((p) => (
+      <div class="part">
+        <p class="pnum">{p.num}</p>
+        <h3>{p.title}</h3>
+        <ul>
+          {p.items.map((a) => (
+            <li><a href={localePath(`/${a.data.category}/${a.data.slug}`, locale)}>{a.data.title}</a></li>
+          ))}
+        </ul>
+      </div>
+    ))}
+  </div>
+</section>
+
+<section id="categories" class="container block">
+  <h2 class="all-cats-title">{L('Terokai semua topik', 'Explore every topic', '探索全部主题')}</h2>
+  {PILLARS.map((p) => {
+    const pillarTotal = categoriesInPillar(p.id).reduce((s, c) => s + (counts[c.id] ?? 0), 0);
+    return (
+      <div class="pillar-group">
+        <div class="sec-head">
+          <h3>{p.icon} {p.name[locale]}</h3>
+          <a class="see-all" href={localePath(`/${p.id}`, locale)}>
+            {categoriesInPillar(p.id).length} {L('topik', 'topics', '主题')} · {pillarTotal} {L('artikel', 'articles', '篇')} →
+          </a>
+        </div>
+        <p class="pillar-tagline">{p.tagline[locale]}</p>
+        <CategoryGrid locale={locale} counts={counts} pillar={p.id} />
+      </div>
+    );
+  })}
+</section>
+
+<section class="container block">
+  <div class="live">
+    <div class="live-counters">
+      <div><b>{dash.totals.articles}</b><span>{L('artikel', 'articles', '文章')}</span></div>
+      <div><b>{dash.totals.reviewedPct}%</b><span>{L('disemak', 'reviewed', '已审阅')}</span></div>
+      <div><b>{dash.totals.categories}</b><span>{L('kategori', 'categories', '分类')}</span></div>
+    </div>
+    <div class="live-feed">
+      <h3>{L('Kemas kini terkini', 'Recent updates', '近期更新')}</h3>
+      {
+        git.commits.length ? (
+          <ul>{git.commits.slice(0, 4).map((c) => <li><code>{c.hash}</code> {c.subject}</li>)}</ul>
+        ) : (
+          <p class="muted">{L('Suapan commit muncul selepas disiarkan ke GitHub.', 'The commit feed appears once published to GitHub.', '发布到 GitHub 后显示提交记录。')}</p>
+        )
+      }
+      <a href={localePath('/changelog', locale)}>{t('nav.changelog', locale)} →</a>
+    </div>
+  </div>
+</section>
+
+<section class="container block">
+  <div class="feedback">
+    <div class="marquee" aria-hidden="false">
+      {[...testimonials, ...testimonials].map((q) => <span class="quote">“{q}”</span>)}
+    </div>
+  </div>
+</section>
+
+<section class="container block">
+  <form class="newsletter" action="https://formspree.io/f/your-id" method="post">
+    <div>
+      <h2>{L('Ikuti perkembangan', 'Stay updated', '保持关注')}</h2>
+      <p>{L('Berita ringkas tentang artikel baharu. Tiada spam.', 'Occasional notes on new articles. No spam.', '偶尔发送新文章通知。绝无垃圾邮件。')}</p>
+    </div>
+    <div class="nl-row">
+      <input type="email" name="email" required placeholder={L('e-mel anda', 'your email', '你的邮箱')} />
+      <button type="submit">{L('Langgan', 'Subscribe', '订阅')}</button>
+    </div>
+  </form>
+</section>
+
+<style>
+  .hero {
+    background:
+      radial-gradient(900px 480px at 50% -12%, color-mix(in srgb, var(--gold) 10%, transparent), transparent),
+      radial-gradient(1100px 500px at 50% 0%, var(--surface-2), transparent);
+    padding-block: 5.5rem 4rem;
+    border-bottom: 1px solid var(--line);
+    text-align: center;
+  }
+  .hero-inner { display: flex; flex-direction: column; align-items: center; }
+  .wordmark {
+    font-family: var(--font-title);
+    font-weight: 900;
+    font-size: clamp(2.8rem, 11vw, 7rem);
+    letter-spacing: -0.04em;
+    line-height: 0.95;
+    margin: 0;
+    color: var(--ink);
+  }
+  .wordmark .dot { color: var(--gold); }
+  .tagline {
+    font-family: var(--font-title);
+    font-weight: 800;
+    font-size: clamp(1.4rem, 3.6vw, 2.2rem);
+    line-height: 1.15;
+    margin: 1.1rem 0 0.5rem;
+    color: var(--ink);
+    max-width: 22ch;
+  }
+  .sub { font-size: 1.15rem; max-width: 48ch; margin: 0.15rem auto; line-height: 1.5; }
+  .sub1 { color: var(--muted); margin-top: 0.5rem; }
+  .sub2 { color: var(--ink); font-weight: 700; margin-bottom: 1.9rem; }
+  .hsearch {
+    display: flex; align-items: center; gap: 0.6rem;
+    width: 100%; max-width: 40rem; margin: 0 auto 1.4rem;
+    background: var(--surface-2); border: 1px solid var(--line); border-radius: 999px;
+    padding: 0.7rem 0.7rem 0.7rem 1.2rem;
+  }
+  .hsearch:focus-within { border-color: var(--gold); }
+  .hsearch input {
+    flex: 1; background: none; border: 0; color: var(--ink); font: inherit; font-size: 1rem; outline: none;
+  }
+  .hsearch button {
+    border: 0; border-radius: 999px; background: var(--gold); color: #000;
+    font-weight: 800; font-size: 0.9rem; padding: 0.5rem 1.1rem; cursor: pointer;
+  }
+  .cta { display: flex; gap: 0.75rem; flex-wrap: wrap; justify-content: center; }
+  .gh { align-items: center; gap: 0.5rem; }
+  .stats {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1.15rem;
+    margin: 4rem auto 0;
+    width: 100%;
+    max-width: 60rem;
+  }
+  @media (max-width: 640px) {
+    .stats { grid-template-columns: repeat(2, 1fr); gap: 0.85rem; margin-top: 3rem; }
+  }
+  .stat {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.4rem;
+    border: 1px solid var(--line);
+    border-radius: 16px;
+    background: color-mix(in srgb, var(--surface) 55%, transparent);
+    padding: 1.75rem 1rem;
+    transition: border-color 0.15s ease, transform 0.15s ease;
+  }
+  .stat:hover { border-color: color-mix(in srgb, var(--gold) 55%, var(--line)); transform: translateY(-2px); }
+  .sicon { font-size: 1.9rem; line-height: 1; }
+  .stats dt { font-family: var(--font-title); font-weight: 800; font-size: clamp(1.9rem, 3.6vw, 2.5rem); line-height: 1; color: var(--gold); }
+  .stats dd { margin: 0; color: var(--muted); font-size: 0.9rem; }
+
+  .block { margin-top: 3rem; }
+  .block > h2 { font-size: 1.6rem; margin-bottom: 1.1rem; }
+  .sec-head { display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 1.1rem; }
+  .sec-head h2 { margin: 0; font-size: 1.6rem; }
+  .sec-head h3 { margin: 0; font-size: 1.3rem; font-family: var(--font-title); }
+  .total { color: var(--muted); font-size: 0.9rem; }
+
+  .all-cats-title { font-size: 1.9rem; margin-bottom: 1.8rem; }
+  .pillar-group { margin-bottom: 2.6rem; }
+  .pillar-group .sec-head { margin-bottom: 0.35rem; }
+  .pillar-tagline { color: var(--ink-soft); font-size: 0.95rem; margin: 0 0 1.1rem; }
+
+  .why-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr)); gap: 1rem; }
+  .why-grid .card { display: flex; flex-direction: column; gap: 0.3rem; }
+  .dicon { font-size: 1.6rem; }
+  .why-grid b { font-family: var(--font-title); }
+  .why-grid p { color: var(--ink-soft); font-size: 0.9rem; margin: 0; }
+
+  .ways-title { text-align: center; margin-bottom: 1.4rem; font-size: 1.6rem; }
+  .pillars { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; }
+  .pillar { display: flex; flex-direction: column; gap: 0.5rem; padding: 1.9rem 1.6rem; border-top-width: 3px; border-top-color: var(--c); }
+  .pillar .picon { font-size: 2.2rem; }
+  .pillar b { font-family: var(--font-title); font-size: 1.35rem; }
+  .pillar .pdesc { color: var(--ink-soft); font-size: 0.95rem; flex: 1; }
+  .pillar .pgo { color: var(--c); font-weight: 700; font-size: 0.9rem; }
+  @media (max-width: 800px) { .pillars { grid-template-columns: 1fr; } }
+  .see-all { color: var(--gold); text-decoration: none; font-weight: 600; font-size: 0.9rem; white-space: nowrap; }
+
+  .cover { scroll-margin-top: calc(var(--nav-height) + 1rem); }
+  .cover-inner { max-width: 46rem; margin-inline: auto; text-align: center; padding-block: 1rem; }
+  .cover-inner h2 { font-size: clamp(1.7rem, 4vw, 2.4rem); margin: 0 0 1rem; }
+  .cover-inner p { font-size: 1.2rem; line-height: 1.7; color: var(--ink-soft); margin: 0 0 0.8rem; }
+  .cover-inner .btn { margin-top: 1rem; }
+
+  .organism { display: grid; grid-template-columns: 1fr 1.2fr; gap: 2rem; align-items: center; background: var(--surface); border: 1px solid var(--line); border-radius: 16px; padding: 2rem; }
+  .kicker2 { color: var(--gold); font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; font-size: 0.78rem; margin: 0 0 0.3rem; }
+  .org-copy h2 { margin: 0 0 0.5rem; }
+  .org-copy p { color: var(--ink-soft); }
+  .org-vitals { display: grid; grid-template-columns: repeat(auto-fit, minmax(6rem, 1fr)); gap: 1rem; }
+  .ov { text-align: center; }
+  .ov-score { --v: 0; width: 68px; height: 68px; margin: 0 auto 0.4rem; border-radius: 50%; display: grid; place-items: center;
+    background: radial-gradient(closest-side, var(--surface) 68%, transparent 69%), conic-gradient(var(--gold) calc(var(--v) * 1%), var(--line) 0); }
+  .ov-score span { font-family: var(--font-title); font-weight: 800; }
+  .ov-name { font-size: 0.78rem; color: var(--ink-soft); }
+
+  .narrative { display: grid; grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr)); gap: 1.5rem; }
+  .part { border-top: 2px solid var(--gold); padding-top: 0.8rem; }
+  .pnum { font-family: var(--font-title); font-weight: 900; color: var(--gold); font-size: 1.4rem; margin: 0; }
+  .part h3 { margin: 0.2rem 0 0.6rem; font-size: 1.05rem; }
+  .part ul { list-style: none; padding: 0; margin: 0; display: grid; gap: 0.35rem; }
+  .part a { color: var(--ink-soft); text-decoration: none; font-size: 0.92rem; }
+  .part a:hover { color: var(--gold); }
+
+  .live { display: grid; grid-template-columns: auto 1fr; gap: 2rem; border: 1px solid var(--line); border-radius: 16px; padding: 1.5rem; }
+  .live-counters { display: grid; gap: 0.75rem; align-content: start; }
+  .live-counters b { font-family: var(--font-title); font-size: 1.6rem; color: var(--gold); }
+  .live-counters span { color: var(--muted); font-size: 0.8rem; margin-left: 0.4rem; }
+  .live-feed h3 { margin: 0 0 0.5rem; font-size: 1rem; }
+  .live-feed ul { list-style: none; padding: 0; margin: 0 0 0.5rem; font-size: 0.9rem; }
+  .live-feed code { color: var(--gold); }
+  .muted { color: var(--muted); }
+
+  .feedback { overflow: hidden; border-block: 1px solid var(--line); padding: 1.25rem 0; }
+  .marquee { display: flex; gap: 2rem; width: max-content; animation: scroll 40s linear infinite; }
+  .quote { color: var(--ink-soft); font-style: italic; white-space: nowrap; }
+  @keyframes scroll { to { transform: translateX(-50%); } }
+  @media (prefers-reduced-motion: reduce) { .marquee { animation: none; flex-wrap: wrap; width: auto; } }
+
+  .newsletter { display: flex; justify-content: space-between; align-items: center; gap: 1.5rem; flex-wrap: wrap; background: var(--surface); border: 1px solid var(--line); border-radius: 16px; padding: 1.75rem; }
+  .newsletter h2 { margin: 0 0 0.3rem; font-size: 1.3rem; }
+  .newsletter p { margin: 0; color: var(--ink-soft); }
+  .nl-row { display: flex; gap: 0.5rem; }
+  .nl-row input { padding: 0.65rem 1rem; border-radius: 10px; border: 1px solid var(--line); background: var(--bg); color: var(--ink); }
+  .nl-row button { padding: 0.65rem 1.2rem; border-radius: 10px; border: 0; background: var(--gold); color: #000; font-weight: 700; cursor: pointer; }
+
+  @media (max-width: 800px) {
+    .organism, .live, .newsletter { grid-template-columns: 1fr; }
+    .live { grid-template-columns: 1fr; }
+  }
+</style>

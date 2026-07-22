@@ -1,0 +1,94 @@
+/* Design tokens for NegaraKu.md.
+   Applies the 1company brand system (STD-BRD-001): true-black canvas,
+   gold #FFC000 as accent only, Montserrat + Lato, dark-fintech tokens.
+   NOTE: the brand guideline's architecture table currently marks negaraku.md
+   as "deliberately NOT 1company-branded"; this theme intentionally overrides
+   that per the brand custodian's decision (guideline to be updated to match). */
+:root {
+  /* Brand accent */
+  --gold: #ffc000;
+  --gold-600: #e0a800;
+
+  /* Dark-fintech surfaces */
+  --outer: #030305;
+  --bg: #07070a;
+  --surface: #111118;
+  --surface-2: #18181f;
+  --line: #2a2a35;
+
+  /* Text ramp */
+  --ink: #f4f4f8;
+  --ink-soft: #c0c0d0;
+  --muted: #9a9ab8;
+
+  /* Data-viz accents (1company digital palette) */
+  --amber: #f5a623;
+  --green: #10b981;
+  --red: #f43f5e;
+  --blue: #6366f1;
+  --purple: #a78bfa;
+
+  /* Semantic aliases (kept so existing rules resolve) */
+  --accent: var(--gold);
+  --accent-contrast: #000000;
+  --bg-soft: var(--surface);
+  --bg-navy-tint: var(--surface-2);
+  --navy: var(--surface-2); /* legacy alias → dark surface */
+
+  /* Typography — 1company: Montserrat headings, Lato body. */
+  --font-title: 'Montserrat', 'Arial', sans-serif; /* headings + wordmark */
+  --font-reading: 'Lato', 'Calibri', -apple-system, BlinkMacSystemFont, 'Segoe UI',
+    Roboto, 'Helvetica Neue', Arial, 'Noto Sans SC', 'Microsoft YaHei', sans-serif;
+  --font-interface: var(--font-reading); /* nav / buttons / meta */
+  /* Legacy aliases */
+  --font-serif: var(--font-title);
+  --font-sans: var(--font-reading);
+
+  /* Type-scale tokens */
+  --title-subsection-size: clamp(1.3rem, 2.4vw, 1.7rem);
+  --title-minor-size: 1.1rem;
+  --title-line-height: 1.2;
+  --title-letter-spacing: 0;
+  --reader-size-scale: 1;
+
+  /* Layout — container widths */
+  --container-prose: 800px; /* narrative reading */
+  --container-article: 1280px; /* article + sidebar */
+  --container-wide: 1380px; /* hubs / grids / header / footer */
+  --maxw: var(--container-wide);
+  --maxw-prose: var(--container-prose);
+  --space-page-x: clamp(1rem, 2vw, 2rem);
+  --space-4: 1.5rem;
+  --space-5: 2rem;
+  --space-6: 2.5rem;
+  --space-7: 3rem;
+  --space-8: 4rem;
+  --radius: 12px;
+  --radius-sm: 8px;
+  --radius-chip: 16px;
+  --shadow: 0 1px 2px rgba(0, 0, 0, 0.4), 0 12px 32px rgba(0, 0, 0, 0.45);
+  --shadow-soft: 0 8px 30px rgba(0, 0, 0, 0.35);
+  --shadow-card: 0 16px 40px rgba(0, 0, 0, 0.45);
+  --space: 1rem;
+  --nav-height: 72px;
+  color-scheme: dark;
+}
+
+/* Opt-in light reading mode (dark stays the default 1company canvas).
+   Gold is darkened so links/text stay legible on white; fills keep black text. */
+:root[data-theme='light'] {
+  --outer: #eef0f4;
+  --bg: #ffffff;
+  --surface: #ffffff;
+  --surface-2: #f4f5fa;
+  --line: rgba(15, 23, 42, 0.12);
+  --ink: #14161c;
+  --ink-soft: #3d4250;
+  --muted: #5b6472;
+  --gold: #9a7400;
+  --gold-600: #7f5f00;
+  --shadow: 0 1px 2px rgba(15, 23, 42, 0.06), 0 12px 32px rgba(15, 23, 42, 0.08);
+  --shadow-soft: 0 8px 30px rgba(15, 23, 42, 0.06);
+  --shadow-card: 0 16px 40px rgba(15, 23, 42, 0.08);
+  color-scheme: light;
+}

@@ -1,0 +1,632 @@
+---
+import { render } from 'astro:content';
+import type { Locale } from '@/lib/categories';
+import { getCategory, getPillar, getPillarDef } from '@/lib/categories';
+import { type Article, relatedArticles, readingTime, articlesForLocale } from '@/lib/content';
+import { localePath } from '@/lib/i18n';
+import { REPO } from '@/lib/site';
+import { subcatLabel } from '@/lib/subcategories';
+import TrustBadge from './TrustBadge.astro';
+import FeedbackBar from './FeedbackBar.astro';
+
+// THE THREE-LAYER ARTICLE.
+//   Layer 1  the 30-second answer      — what AI assistants extract and cite
+//   Layer 2  practical understanding   — the article body
+//   Layer 3  depth: sources, history   — provenance and context
+// Two writing modes share this template: `practical` (answer-first) and
+// `narrative` (story-led). The difference is voice and framing, not structure —
+// even a story opens with an orienting answer.
+
+interface Props {
+  locale: Locale;
+  article: Article;
+}
+const { locale, article } = Astro.props;
+const d = article.data;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+const cat = getCategory(d.category);
+const path = `/${d.category}/${d.slug}`;
+const { Content, headings } = await render(article);
+const related = await relatedArticles(article, locale);
+const mins = readingTime(article);
+const pillar = getPillar(d.category);
+const pillarDef = pillar ? getPillarDef(pillar) : undefined;
+const isBusiness = pillar === 'doing-business';
+const sensitive = d.sensitivity !== 'none';
+
+const fmt = (dt: Date | null | undefined) =>
+  dt
+    ? new Date(dt).toLocaleDateString(
+        locale === 'zh' ? 'zh-CN' : locale === 'ms' ? 'ms-MY' : 'en-GB',
+        { day: 'numeric', month: 'short', year: 'numeric' },
+      )
+    : '—';
+
+const toc = headings.filter((h) => h.depth === 2);
+
+// Sibling navigation within the topic (subcategory). A reader who finishes an
+// article should be able to move sideways to the next thing in the same topic,
+// not just up the breadcrumb. Order matches the topic page listing.
+const topicSlug = d.subcategory[0];
+const topicLabel = topicSlug ? subcatLabel(topicSlug, locale) : null;
+const topicHref = topicSlug ? localePath(`/${d.category}/topic/${topicSlug}`, locale) : null;
+let siblings: Article[] = [];
+if (topicSlug) {
+  const all = await articlesForLocale(locale);
+  siblings = all.filter((a) => a.data.category === d.category && a.data.subcategory.includes(topicSlug));
+}
+const sIdx = siblings.findIndex((a) => a.data.slug === d.slug);
+const prev = sIdx > 0 ? siblings[sIdx - 1] : null;
+const next = sIdx >= 0 && sIdx < siblings.length - 1 ? siblings[sIdx + 1] : null;
+const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, locale);
+---
+
+<header class="art-hero">
+  <div class="container">
+    <p class="crumb">
+      <a href={localePath('/', locale)}>{L('Laman Utama', 'Home', '首页')}</a> /
+      {pillarDef && (
+        <>
+          <a href={localePath(`/${pillar}`, locale)}>{pillarDef.name[locale]}</a> {' / '}
+        </>
+      )}
+      <a href={localePath(`/${d.category}`, locale)}>{cat?.name[locale] ?? d.category}</a>
+      {d.subcategory[0] && (
+        <>
+          {' / '}
+          <a href={localePath(`/${d.category}/topic/${d.subcategory[0]}`, locale)}>
+            {subcatLabel(d.subcategory[0], locale)}
+          </a>
+        </>
+      )}
+    </p>
+
+    <div class="badges">
+      <span class="pill mode">
+        {
+          d.mode === 'narrative'
+            ? L('📜 Naratif', '📜 Narrative', '📜 叙事')
+            : L('🧭 Praktikal', '🧭 Practical', '🧭 实用')
+        }
+      </span>
+      <TrustBadge
+        locale={locale}
+        status={d.status}
+        sensitivity={d.sensitivity}
+        translationStatus={d.translationStatus}
+      />
+      <span class="pill">{mins} {L('min baca', 'min read', '分钟阅读')}</span>
+    </div>
+
+    <h1>{d.title}</h1>
+    <p class="lede">{d.summary}</p>
+  </div>
+</header>
+
+<article class="art container">
+
+  {
+    sensitive && (
+      <div class="sens">
+        <b>🔒 {L('Kandungan sensitif', 'Sensitive content', '敏感内容')}</b>
+        <p>
+          {L(
+            'Topik ini tergolong dalam kategori sensitif dan memerlukan semakan manusia sebelum diterbitkan sepenuhnya. Ia dibentangkan secara deskriptif dan neutral sahaja.',
+            'This topic falls under a sensitive category and requires human review before full publication. It is presented descriptively and neutrally only.',
+            '本主题属于敏感类别，需经人工审阅后方可正式发布。内容仅作中立、描述性呈现。',
+          )}
+        </p>
+      </div>
+    )
+  }
+
+  <div class="layout">
+    <div class="main">
+      {
+        d.answer && (
+          <section class="layer l1">
+            <header>
+              <span>{L('Jawapan pantas', '30-second answer', '30秒速答')}</span>
+              <span>
+                {L('Disemak', 'Reviewed', '审阅于')} {fmt(d.reviewed)}
+              </span>
+            </header>
+            <div class="lb">
+              <p class="answer">{d.answer}</p>
+              {d.keyTakeaways.length > 0 && (
+                <ul class="kt">
+                  {d.keyTakeaways.map((k) => (
+                    <li>{k}</li>
+                  ))}
+                </ul>
+              )}
+              {d.appliesTo && (
+                <p class="applies">
+                  <b>{L('Untuk siapa:', 'Who this applies to:', '适用对象：')}</b> {d.appliesTo}
+                </p>
+              )}
+            </div>
+          </section>
+        )
+      }
+
+      {
+        toc.length > 0 && (
+          <details class="toc-mobile">
+            <summary>{L('Dalam halaman ini', 'On this page', '本页内容')}</summary>
+            <nav>
+              {toc.map((h) => (
+                <a href={`#${h.slug}`}>{h.text}</a>
+              ))}
+            </nav>
+          </details>
+        )
+      }
+
+      <section class="layer">
+        <header>
+          <span>{L('Penjelasan penuh', 'Full explanation', '完整说明')}</span>
+          <span>≈{mins} {L('min', 'min', '分钟')}</span>
+        </header>
+        <div class="lb prose"><Content /></div>
+      </section>
+
+      {
+        d.faq.length > 0 && (
+          <section class="layer">
+            <header>
+              <span>{L('Soalan lazim', 'Frequently asked', '常见问题')}</span>
+              <span>{d.faq.length}</span>
+            </header>
+            <div class="lb faqs">
+              {d.faq.map((f) => (
+                <details>
+                  <summary>{f.q}</summary>
+                  <p>{f.a}</p>
+                </details>
+              ))}
+            </div>
+          </section>
+        )
+      }
+
+      {
+        /* Sits at the end of the *content* — after the body and FAQ, before Layer 3.
+           Layer 3 (sources, verification flags, revision log) is trust apparatus rather
+           than reading, and "Related knowledge" further down is a navigation block that
+           readers click away from, so anything below it is effectively unseen. Kept
+           visually separate per the editorial standard, and suppressed entirely on
+           sensitive content. */
+        isBusiness && !sensitive && (
+          <aside class="cta">
+            <header><span>{L('Ditaja', 'Sponsored', '赞助')}</span></header>
+            <div class="cta-body">
+              <b>{L('Perlukan bantuan profesional?', 'Need professional help?', '需要专业协助？')}</b>
+              <p>
+                <span class="oneco brand">1company.com</span>{L(
+                  ' menyediakan perkhidmatan penubuhan syarikat, setiausaha syarikat, perakaunan, audit dan cukai di Malaysia.',
+                  ' provides incorporation, company secretarial, accounting, audit and tax services in Malaysia.',
+                  ' 提供马来西亚公司注册、公司秘书、会计、审计与税务服务。',
+                )}
+              </p>
+              <a class="go" href="https://www.1company.com" rel="noopener">
+                {L('Ketahui lebih lanjut', 'Learn more', '了解更多')} →
+              </a>
+            </div>
+          </aside>
+        )
+      }
+
+      <section class="layer">
+        <header>
+          <span>{L('Sumber & sejarah', 'Sources & history', '来源与历史')}</span>
+          <span>{d.sources.length} {L('sumber', 'sources', '来源')}</span>
+        </header>
+        <div class="lb">
+          {
+            d.verificationNeeded.length > 0 && (
+              <div class="verify">
+                <b>
+                  ⚑ {L('Menunggu pengesahan pakar', 'Awaiting expert verification', '待专家核实')}
+                </b>
+                <p>
+                  {L(
+                    'Perkara berikut sengaja tidak dinyatakan atau diterangkan secara umum sahaja sehingga disahkan oleh pakar bidang:',
+                    'The following are deliberately unstated or described only qualitatively until confirmed by a subject-matter expert:',
+                    '以下内容在专家确认前，刻意未予明示或仅作定性描述：',
+                  )}
+                </p>
+                <ul>
+                  {d.verificationNeeded.map((v) => (
+                    <li>{v}</li>
+                  ))}
+                </ul>
+              </div>
+            )
+          }
+          <h3>{L('Sumber', 'Sources', '来源')}</h3>
+          {
+            d.sources.length > 0 ? (
+              <ol class="src">
+                {d.sources.map((s) => (
+                  <li>
+                    {s.url ? (
+                      <a href={s.url} rel="noopener">
+                        {s.title}
+                      </a>
+                    ) : (
+                      s.title
+                    )}
+                    {s.publisher && <span class="pub"> — {s.publisher}</span>}
+                  </li>
+                ))}
+              </ol>
+            ) : (
+              <p class="muted">{L('Tiada sumber lagi.', 'No sources yet.', '暂无来源。')}</p>
+            )
+          }
+
+          {
+            d.revisions.length > 0 && (
+              <div>
+                <h3>{L('Sejarah perubahan', 'Change history', '修订历史')}</h3>
+                <div class="tblwrap">
+                  <table>
+                    <thead>
+                      <tr>
+                        <th>{L('Versi', 'Version', '版本')}</th>
+                        <th>{L('Tarikh', 'Date', '日期')}</th>
+                        <th>{L('Perubahan', 'Change', '变更')}</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      {d.revisions.map((r) => (
+                        <tr>
+                          <td>{r.version}</td>
+                          <td>{fmt(r.date)}</td>
+                          <td>{r.change}</td>
+                        </tr>
+                      ))}
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+            )
+          }
+        </div>
+      </section>
+
+      {
+        topicSlug && (prev || next) && (
+          <section class="layer">
+            <header>
+              <span>{L('Lagi dalam', 'More in', '更多内容：')} {topicLabel}</span>
+              <a class="more-topic" href={topicHref}>
+                {L('Lihat semua', 'View all', '查看全部')} {siblings.length} →
+              </a>
+            </header>
+            <div class="lb pager">
+              {prev ? (
+                <a class="pg" href={aHref(prev)}>
+                  <span class="dir">← {L('Sebelum', 'Previous', '上一篇')}</span>
+                  <b>{prev.data.title}</b>
+                </a>
+              ) : (
+                <span class="pg empty" />
+              )}
+              {next ? (
+                <a class="pg next" href={aHref(next)}>
+                  <span class="dir">{L('Seterusnya', 'Next', '下一篇')} →</span>
+                  <b>{next.data.title}</b>
+                </a>
+              ) : (
+                <span class="pg empty" />
+              )}
+            </div>
+          </section>
+        )
+      }
+
+      {
+        related.length > 0 && (
+          <section class="rel">
+            <header><span>{L('Pengetahuan berkaitan', 'Related knowledge', '相关知识')}</span></header>
+            <div class="rel-body">
+              <div class="rgrid">
+                {related.map((r) => (
+                  <a href={localePath(`/${r.data.category}/${r.data.slug}`, locale)}>
+                    <b>{r.data.title}</b>
+                    <span>{r.data.summary}</span>
+                  </a>
+                ))}
+              </div>
+            </div>
+          </section>
+        )
+      }
+
+      <FeedbackBar
+        locale={locale}
+        topicId={d.topicId}
+        title={d.title}
+        version={d.version}
+        path={path}
+      />
+
+    </div>
+
+    <aside class="side">
+      {
+        toc.length > 0 && (
+          <nav class="toc">
+            <b>{L('Dalam halaman ini', 'On this page', '本页内容')}</b>
+            {toc.map((h) => (
+              <a href={`#${h.slug}`}>{h.text}</a>
+            ))}
+          </nav>
+        )
+      }
+
+      <div class="trust">
+        <b>{L('Kepercayaan & asal usul', 'Trust & provenance', '可信度与来源')}</b>
+        <div class="r">
+          <span>{L('Status', 'Status', '状态')}</span>
+          <TrustBadge locale={locale} status={d.status} compact />
+        </div>
+        <div class="r"><span>{L('Versi', 'Version', '版本')}</span><span>{d.version}</span></div>
+        <div class="r"><span>{L('Dikemas kini', 'Updated', '更新于')}</span><span>{fmt(d.updated)}</span></div>
+        <div class="r"><span>{L('Disemak', 'Reviewed', '审阅于')}</span><span>{fmt(d.reviewed)}</span></div>
+        <div class="r"><span>{L('Semakan seterusnya', 'Next review', '下次审阅')}</span><span>{fmt(d.reviewDue)}</span></div>
+        <div class="r"><span>{L('Disemak oleh', 'Reviewed by', '审阅人')}</span><span>{d.reviewer ?? '—'}</span></div>
+        <div class="r">
+          <span>{L('Ditulis', 'Written', '撰写方式')}</span>
+          <span>{d.aiAssisted ? L('Dibantu AI', 'AI-assisted', 'AI 辅助') : L('Manusia', 'Human', '人工')}</span>
+        </div>
+        <div class="r"><span>{L('Bahasa induk', 'Master language', '主语言')}</span><span>{d.masterLanguage.toUpperCase()}</span></div>
+        <div class="r"><span>{L('Sumber', 'Sources', '来源')}</span><span>{d.sources.length}</span></div>
+      </div>
+
+      <div class="side-box">
+        <b>{L('Sunting & sumber', 'Edit & source', '编辑与源码')}</b>
+        <a class="edit" href={`${REPO}/blob/main/knowledge/${d.category}/${d.slug}.md`} rel="noopener">
+          {L('Sunting di GitHub', 'Edit on GitHub', '在 GitHub 编辑')} ↗
+        </a>
+        <a class="edit" href={localePath(path, locale) + '.md'}>
+          {L('Markdown mentah', 'Raw Markdown', '原始 Markdown')} ↗
+        </a>
+      </div>
+    </aside>
+  </div>
+</article>
+
+<style>
+  .art-hero {
+    background:
+      radial-gradient(680px 320px at 15% -30%, color-mix(in srgb, var(--gold) 11%, transparent), transparent),
+      radial-gradient(900px 360px at 55% -20%, var(--surface-2), transparent);
+    border-bottom: 1px solid var(--line);
+    padding: 2.4rem 0 2rem;
+    margin-bottom: 0;
+  }
+  .art { padding-block: 2rem 4rem; }
+  .crumb { font-size: 0.84rem; color: var(--muted); margin: 0 0 1rem; }
+  .crumb a { color: var(--muted); text-decoration: none; }
+  .crumb a:hover { color: var(--gold); }
+  .crumb span { color: var(--ink-soft); }
+  .badges { display: flex; gap: 0.4rem; flex-wrap: wrap; align-items: center; margin-bottom: 1rem; }
+  .pill {
+    font-size: 0.68rem; font-weight: 700; border-radius: 999px; padding: 0.1rem 0.5rem;
+    border: 1px solid var(--line); background: var(--surface-2); color: var(--ink-soft);
+  }
+  .pill.tier { color: var(--gold); border-color: color-mix(in srgb, var(--gold) 45%, var(--line)); background: color-mix(in srgb, var(--gold) 9%, transparent); }
+  .pill.mode { color: #60a5fa; border-color: rgba(96, 165, 250, 0.35); background: rgba(96, 165, 250, 0.1); }
+  .art-hero h1 { margin: 0 0 0.55rem; font-family: var(--font-title); font-weight: 800; font-size: clamp(1.7rem, 3.4vw, 2.5rem); line-height: 1.12; max-width: 22ch; }
+  .lede { color: var(--ink-soft); font-size: 1.08rem; max-width: 65ch; margin: 0; }
+
+  .sens {
+    border: 1px solid rgba(248, 113, 113, 0.4); background: rgba(248, 113, 113, 0.07);
+    border-radius: 12px; padding: 0.85rem 1rem; margin-bottom: 1.4rem;
+  }
+  .sens b { color: #f87171; font-family: var(--font-title); font-size: 0.95rem; }
+  .sens p { margin: 0.35rem 0 0; color: var(--ink-soft); font-size: 0.88rem; }
+
+  .layout { display: grid; grid-template-columns: minmax(0, 1fr) 260px; gap: 2.2rem; align-items: start; }
+
+  /* Neutral is the default section header. Gold is reserved for the 30-second
+     answer (.l1) and the sponsor block (.cta) so it means "the one thing" again. */
+  .layer { border: 1px solid var(--line); border-radius: 12px; margin-bottom: 1.2rem; overflow: hidden; }
+  .layer > header {
+    display: flex; justify-content: space-between; align-items: center; gap: 0.5rem;
+    padding: 0.45rem 0.95rem; font-size: 0.67rem; font-weight: 800; letter-spacing: 0.1em;
+    text-transform: uppercase; color: var(--muted); background: var(--surface-2);
+    border-bottom: 1px solid var(--line);
+  }
+  .layer .lb { padding: 1.1rem; }
+  .l1 { border-color: color-mix(in srgb, var(--gold) 42%, transparent); }
+  .l1 > header { color: var(--gold); background: color-mix(in srgb, var(--gold) 9%, transparent); }
+  .answer { font-size: 1.06rem; line-height: 1.65; margin: 0; }
+  .kt { margin: 0.9rem 0 0; padding-left: 1.15rem; }
+  .kt li { margin: 0.3rem 0; font-size: 0.94rem; }
+  .applies {
+    margin: 0.9rem 0 0; background: var(--surface-2); border-radius: 9px;
+    padding: 0.6rem 0.8rem; font-size: 0.88rem; color: var(--ink-soft);
+  }
+  .applies b { color: var(--ink); }
+
+  .prose :global(h2) { margin: 1.6rem 0 0.6rem; }
+  .prose :global(h3) { margin: 1.2rem 0 0.5rem; }
+  .prose :global(p) { margin: 0.7rem 0; }
+  .prose :global(table) { width: 100%; border-collapse: collapse; font-size: 0.9rem; margin: 1rem 0; display: block; overflow-x: auto; }
+  .prose :global(th), .prose :global(td) { text-align: left; padding: 0.5rem 0.7rem; border-bottom: 1px solid var(--line); }
+  .prose :global(th) { color: var(--muted); font-size: 0.74rem; text-transform: uppercase; letter-spacing: 0.06em; }
+  .prose :global(blockquote) {
+    border-left: 3px solid var(--gold); margin: 1.2rem 0; padding: 0.3rem 0 0.3rem 1rem;
+    font-style: italic; color: var(--ink);
+  }
+  .prose :global(ol), .prose :global(ul) { padding-left: 1.3rem; }
+  .prose :global(li) { margin: 0.3rem 0; }
+
+  .faqs details {
+    border: 1px solid var(--line); border-radius: 10px; background: var(--surface-2);
+    padding: 0.55rem 0.85rem; margin-bottom: 0.5rem;
+  }
+  .faqs summary {
+    cursor: pointer; font-family: var(--font-title); font-weight: 700;
+    font-size: 0.94rem; list-style: none;
+  }
+  .faqs summary::-webkit-details-marker { display: none; }
+  .faqs summary::before { content: '＋ '; color: var(--gold); font-weight: 800; }
+  .faqs details[open] summary::before { content: '－ '; }
+  .faqs p { margin: 0.5rem 0 0.2rem; color: var(--ink-soft); font-size: 0.89rem; line-height: 1.6; }
+
+  .verify {
+    border: 1px solid rgba(251, 191, 36, 0.4); background: rgba(251, 191, 36, 0.07);
+    border-radius: 10px; padding: 0.75rem 0.9rem; margin-bottom: 1.2rem;
+  }
+  .verify b { color: #fbbf24; font-family: var(--font-title); font-size: 0.9rem; }
+  .verify p { margin: 0.3rem 0 0.4rem; color: var(--ink-soft); font-size: 0.85rem; }
+  .verify ul { margin: 0; padding-left: 1.1rem; color: var(--ink-soft); font-size: 0.85rem; }
+  .verify li { margin: 0.2rem 0; }
+
+  .src { padding-left: 1.2rem; margin: 0.4rem 0 1.2rem; font-size: 0.89rem; }
+  .src a { color: var(--gold); }
+  .pub { color: var(--muted); }
+  h3 { font-size: 1rem; margin: 0 0 0.4rem; }
+  .muted { color: var(--muted); font-size: 0.88rem; }
+  .tblwrap { overflow-x: auto; border: 1px solid var(--line); border-radius: 10px; }
+  .tblwrap table { width: 100%; border-collapse: collapse; font-size: 0.86rem; }
+  .tblwrap th, .tblwrap td { text-align: left; padding: 0.5rem 0.7rem; border-bottom: 1px solid var(--line); }
+  .tblwrap th { color: var(--muted); font-size: 0.7rem; text-transform: uppercase; background: var(--surface-2); }
+
+  .rel {
+    margin-top: 1.2rem;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 12px; overflow: hidden;
+  }
+  .rel > header {
+    padding: 0.45rem 0.95rem; font-size: 0.67rem; font-weight: 800; letter-spacing: 0.1em;
+    text-transform: uppercase; color: var(--muted); background: var(--surface-2);
+    border-bottom: 1px solid var(--line);
+  }
+  .rel-body { padding: 1.1rem 0.95rem; }
+  .rgrid { display: grid; grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); gap: 0.7rem; }
+  .rgrid a {
+    display: flex; flex-direction: column; gap: 0.22rem; padding: 0.8rem 0.95rem;
+    background: var(--surface); border: 1px solid var(--line); border-radius: 11px;
+    text-decoration: none; color: inherit;
+  }
+  .rgrid a:hover { border-color: color-mix(in srgb, var(--gold) 45%, var(--line)); }
+  .rgrid b { font-family: var(--font-title); font-size: 0.94rem; }
+  .rgrid span { color: var(--ink-soft); font-size: 0.84rem; }
+
+  .cta {
+    /* Symmetric margin: this used to be the last block on the page so it only needed
+       a top gap. Now it sits between the FAQ and Sources & history, and a commercial
+       block butting straight into the trust layer reads as part of it. Slightly wider
+       than the 1.2rem section rhythm so it stays visually detached from both sides. */
+    display: block; margin: 1.6rem 0; padding: 0; border-radius: 12px; overflow: hidden;
+    border: 1px solid color-mix(in srgb, var(--gold) 42%, transparent);
+  }
+  .cta > header {
+    padding: 0.45rem 0.95rem; font-size: 0.67rem; font-weight: 800; letter-spacing: 0.1em;
+    text-transform: uppercase; color: var(--gold); background: color-mix(in srgb, var(--gold) 9%, transparent);
+    border-bottom: 1px solid var(--line);
+  }
+  .cta-body { padding: 1.1rem 0.95rem; }
+  .cta b { display: block; font-family: var(--font-title); font-size: 1.02rem; margin: 0 0 0.3rem; }
+  .cta p { margin: 0 0 0.6rem; color: var(--ink-soft); font-size: 0.88rem; }
+  /* The 1company.com wordmark stays gold and lowercase (.oneco brand guard). */
+  .cta .brand { color: var(--gold); font-weight: 700; }
+  .cta .go { color: var(--gold); font-weight: 800; font-size: 0.86rem; }
+
+  .side { position: sticky; top: 5rem; display: flex; flex-direction: column; gap: 0.8rem; }
+  .toc, .trust, .side-box {
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 12px; overflow: hidden; padding: 0;
+  }
+  .trust { font-size: 0.82rem; }
+  .toc b, .trust b, .side-box b {
+    display: block; margin: 0;
+    padding: 0.45rem 0.95rem;
+    font-size: 0.67rem; font-weight: 800; letter-spacing: 0.1em; text-transform: uppercase;
+    color: var(--muted); background: var(--surface-2);
+    border-bottom: 1px solid var(--line);
+  }
+  .toc a { display: block; font-size: 0.85rem; color: var(--ink-soft); padding: 0.2rem 0.95rem; text-decoration: none; }
+  .toc a:first-of-type { padding-top: 0.6rem; }
+  .toc a:last-of-type { padding-bottom: 0.6rem; }
+  .toc a:hover { color: var(--gold); }
+  .trust .r { display: flex; justify-content: space-between; gap: 0.6rem; padding: 0.3rem 0.95rem; border-bottom: 1px dashed var(--line); }
+  .trust .r:first-of-type { padding-top: 0.6rem; }
+  .trust .r:last-child { border-bottom: 0; padding-bottom: 0.6rem; }
+  .trust .r span:first-child { color: var(--muted); }
+  .edit { display: block; font-size: 0.82rem; color: var(--ink-soft); padding: 0.35rem 0.95rem; text-decoration-color: color-mix(in srgb, var(--ink-soft) 55%, transparent); }
+  .edit:first-of-type { padding-top: 0.6rem; }
+  .edit:last-of-type { padding-bottom: 0.6rem; }
+  .edit:hover { color: var(--gold); }
+
+  /* Topic pager — prev/next within the topic. */
+  .more-topic { color: var(--gold); font-weight: 800; font-size: 0.67rem; letter-spacing: 0.06em; text-decoration: none; }
+  .pager { display: grid; grid-template-columns: 1fr 1fr; gap: 0.7rem; }
+  .pg {
+    display: flex; flex-direction: column; gap: 0.25rem;
+    padding: 0.85rem 1rem; border: 1px solid var(--line); border-radius: 10px;
+    background: var(--surface-2); text-decoration: none; color: inherit;
+    transition: border-color 0.15s;
+  }
+  .pg:hover { border-color: color-mix(in srgb, var(--gold) 55%, var(--line)); }
+  .pg.next { text-align: right; }
+  .pg .dir { color: var(--gold); font-size: 0.74rem; font-weight: 700; }
+  .pg b { font-family: var(--font-title); font-size: 0.94rem; color: var(--ink); }
+  .pg.empty { border: 0; background: none; }
+
+  /* Heading anchors — hover a section heading to grab a deep link. */
+  .prose :global(h2), .prose :global(h3) { position: relative; }
+  .prose :global(.hanchor) {
+    position: absolute; left: -1.1rem; top: 0; width: 1.1rem;
+    color: var(--gold); text-decoration: none; opacity: 0;
+    font-weight: 700; transition: opacity 0.12s;
+  }
+  .prose :global(h2:hover) .hanchor, .prose :global(h3:hover) .hanchor { opacity: 0.7; }
+  .prose :global(.hanchor:hover) { opacity: 1; }
+
+  /* Mobile-only table of contents, near the top instead of buried at the foot. */
+  .toc-mobile { display: none; }
+
+  @media (max-width: 900px) {
+    .layout { grid-template-columns: minmax(0, 1fr); }
+    .side { position: static; }
+    .side .toc { display: none; }
+    .pager { grid-template-columns: 1fr; }
+    .toc-mobile {
+      display: block; margin-bottom: 1.2rem;
+      border: 1px solid var(--line);
+      border-radius: 12px; overflow: hidden; background: var(--surface);
+    }
+    .toc-mobile > summary {
+      list-style: none; cursor: pointer;
+      padding: 0.55rem 0.95rem; font-size: 0.72rem; font-weight: 800;
+      letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted);
+      background: var(--surface-2);
+    }
+    .toc-mobile > summary::after { content: ' ▾'; }
+    .toc-mobile[open] > summary::after { content: ' ▴'; }
+    .toc-mobile nav { padding: 0.5rem 0.95rem 0.8rem; display: flex; flex-direction: column; }
+    .toc-mobile a { color: var(--ink-soft); text-decoration: none; font-size: 0.9rem; padding: 0.3rem 0; }
+    .toc-mobile a:hover { color: var(--gold); }
+  }
+</style>
+<script>
+  // Give each section heading a copyable deep-link anchor.
+  for (const h of document.querySelectorAll<HTMLElement>('.prose h2[id], .prose h3[id]')) {
+    const a = document.createElement('a');
+    a.className = 'hanchor';
+    a.href = '#' + h.id;
+    a.textContent = '#';
+    a.setAttribute('aria-label', 'Link to this section');
+    h.prepend(a);
+  }
+</script>

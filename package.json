@@ -1,0 +1,38 @@
+{
+  "name": "negaraku-md",
+  "type": "module",
+  "version": "0.1.0",
+  "description": "An open-source, AI-friendly knowledge base about Malaysia.",
+  "license": "MIT",
+  "scripts": {
+    "sync": "node scripts/sync.mjs",
+    "build:graph": "node scripts/build-graph.mjs",
+    "postinstall": "node scripts/sync.mjs",
+    "predev": "node scripts/sync.mjs && node scripts/build-graph.mjs && node scripts/build-git-info.mjs && node scripts/build-changelog.mjs && node scripts/build-dashboard.mjs",
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build:og": "node scripts/build-og.mjs",
+    "build:data": "node scripts/build-git-info.mjs && node scripts/build-changelog.mjs && node scripts/build-dashboard.mjs",
+    "prebuild": "node scripts/sync.mjs && node scripts/build-graph.mjs && node scripts/build-og.mjs && node scripts/build-git-info.mjs && node scripts/build-changelog.mjs && node scripts/build-dashboard.mjs",
+    "build": "astro build && pagefind --site dist",
+    "preview": "astro preview",
+    "astro": "astro",
+    "translate": "node scripts/translate.mjs",
+    "health": "python scripts/health/scan.py",
+    "post:fb": "node scripts/post-to-facebook.mjs"
+  },
+  "dependencies": {
+    "@astrojs/mdx": "^4.2.0",
+    "@astrojs/rss": "^4.0.11",
+    "@astrojs/sitemap": "^3.2.1",
+    "astro": "^5.6.0",
+    "d3": "^7.9.0",
+    "gray-matter": "^4.0.3"
+  },
+  "devDependencies": {
+    "pagefind": "^1.3.0"
+  },
+  "optionalDependencies": {
+    "sharp": "^0.33.5"
+  }
+}

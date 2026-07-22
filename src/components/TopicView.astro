@@ -1,0 +1,209 @@
+---
+import type { Locale } from '@/lib/categories';
+import { getCategory, getPillar, getPillarDef } from '@/lib/categories';
+import { type Article, articlesForLocale } from '@/lib/content';
+import { subcatLabel, orderedSubcats } from '@/lib/subcategories';
+import { localePath } from '@/lib/i18n';
+import TrustBadge from './TrustBadge.astro';
+
+// TOPIC (subcategory) page — the level between a category and an article.
+// A reader has narrowed to one task area (e.g. Corporate Tax) and wants every
+// article in it, nothing else. Follows the same hero + section-box standard as
+// the article page.
+
+interface Props {
+  locale: Locale;
+  categoryId: string;
+  topic: string;
+  articles: Article[];
+}
+const { locale, categoryId, topic, articles } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+const cat = getCategory(categoryId)!;
+const pillar = getPillar(categoryId);
+const pillarDef = pillar ? getPillarDef(pillar) : undefined;
+const label = subcatLabel(topic, locale);
+const href = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, locale);
+
+// Sibling topics — move sideways across the category without going back up.
+const catArticles = (await articlesForLocale(locale)).filter((a) => a.data.category === categoryId);
+const topics = orderedSubcats(categoryId, catArticles.flatMap((a) => a.data.subcategory));
+const tIdx = topics.indexOf(topic);
+const prevTopic = tIdx > 0 ? topics[tIdx - 1] : null;
+const nextTopic = tIdx >= 0 && tIdx < topics.length - 1 ? topics[tIdx + 1] : null;
+const otherTopics = topics.filter((t) => t !== topic);
+const topicHref = (t: string) => localePath(`/${categoryId}/topic/${t}`, locale);
+const countIn = (t: string) => catArticles.filter((a) => a.data.subcategory.includes(t)).length;
+---
+
+<header class="art-hero">
+  <div class="container">
+    <p class="crumb">
+      <a href={localePath('/', locale)}>{L('Laman Utama', 'Home', '首页')}</a> /
+      {pillarDef && (
+        <>
+          <a href={localePath(`/${pillar}`, locale)}>{pillarDef.name[locale]}</a> {' / '}
+        </>
+      )}
+      <a href={localePath(`/${categoryId}`, locale)}>{cat.name[locale]}</a> /
+      <span>{label}</span>
+    </p>
+    <div class="badges">
+      <span class="pill tier">{cat.icon} {cat.name[locale]}</span>
+      <span class="pill">{articles.length} {L('artikel', 'articles', '篇')}</span>
+    </div>
+    <h1>{label}</h1>
+    <p class="lede">
+      {L(`Setiap artikel dalam ${label}.`, `Every article in ${label}.`, `${label}的全部文章。`)}
+    </p>
+
+    <form class="csearch" action={localePath('/search', locale)} method="get" role="search">
+      <span aria-hidden="true">🔍</span>
+      <input
+        type="search"
+        name="q"
+        placeholder={L(`Cari dalam ${label}…`, `Search in ${label}…`, `搜索${label}…`)}
+        aria-label={L('Cari dalam topik ini', 'Search in this topic', '在此主题中搜索')}
+      />
+    </form>
+  </div>
+</header>
+
+<div class="container tpage">
+  <section class="tsec">
+    <header>
+      <span>{label}</span>
+      <span>{articles.length}</span>
+    </header>
+    <div class="tsec-body">
+      <ul>
+        {
+          articles.map((a) => (
+            <li>
+              <div class="row1">
+                <a class="t-title" href={href(a)}>
+                  {a.data.title}
+                </a>
+                <TrustBadge locale={locale} status={a.data.status} sensitivity={a.data.sensitivity} compact />
+              </div>
+              <p class="t-sum">{a.data.summary}</p>
+            </li>
+          ))
+        }
+      </ul>
+    </div>
+  </section>
+
+  {
+    otherTopics.length > 0 && (
+      <section class="tsec">
+        <header>
+          <span>{L('Topik lain dalam', 'Other topics in', '其他主题：')} {cat.name[locale]}</span>
+          <span>{topics.length}</span>
+        </header>
+        <div class="tsec-body">
+          {(prevTopic || nextTopic) && (
+            <div class="tpager">
+              {prevTopic ? (
+                <a class="tpg" href={topicHref(prevTopic)}>
+                  <span class="dir">← {L('Sebelum', 'Previous', '上一主题')}</span>
+                  <b>{subcatLabel(prevTopic, locale)}</b>
+                </a>
+              ) : (
+                <span class="tpg empty" />
+              )}
+              {nextTopic ? (
+                <a class="tpg next" href={topicHref(nextTopic)}>
+                  <span class="dir">{L('Seterusnya', 'Next', '下一主题')} →</span>
+                  <b>{subcatLabel(nextTopic, locale)}</b>
+                </a>
+              ) : (
+                <span class="tpg empty" />
+              )}
+            </div>
+          )}
+          <div class="tchips">
+            {otherTopics.map((t) => (
+              <a class="tchip" href={topicHref(t)}>
+                {subcatLabel(t, locale)} <span class="n">{countIn(t)}</span>
+              </a>
+            ))}
+          </div>
+        </div>
+      </section>
+    )
+  }
+</div>
+
+<style>
+  .csearch {
+    display: flex; align-items: center; gap: 0.6rem; max-width: 34rem;
+    background: var(--surface-2); border: 1px solid var(--line); border-radius: 999px;
+    padding: 0.62rem 1.1rem; margin-top: 1.2rem;
+  }
+  .csearch input { flex: 1; background: none; border: 0; color: var(--ink); font: inherit; font-size: 0.95rem; outline: none; }
+  .csearch:focus-within { border-color: var(--gold); }
+  .tsec + .tsec { margin-top: 1.2rem; }
+  .tpager { display: grid; grid-template-columns: 1fr 1fr; gap: 0.7rem; margin-bottom: 0.9rem; }
+  .tpg {
+    display: flex; flex-direction: column; gap: 0.25rem; padding: 0.8rem 1rem;
+    border: 1px solid var(--line); border-radius: 10px; background: var(--surface-2);
+    text-decoration: none; color: inherit; transition: border-color 0.15s;
+  }
+  .tpg:hover { border-color: color-mix(in srgb, var(--gold) 55%, var(--line)); }
+  .tpg.next { text-align: right; }
+  .tpg .dir { color: var(--gold); font-size: 0.74rem; font-weight: 700; }
+  .tpg b { font-family: var(--font-title); font-size: 0.96rem; color: var(--ink); }
+  .tpg.empty { border: 0; background: none; }
+  .tchips { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+  .tchip {
+    font-size: 0.84rem; color: var(--ink-soft); text-decoration: none;
+    border: 1px solid var(--line); border-radius: 999px; padding: 0.32rem 0.8rem; background: var(--surface-2);
+    transition: border-color 0.15s;
+  }
+  .tchip:hover { border-color: color-mix(in srgb, var(--gold) 55%, var(--line)); color: var(--ink); }
+  .tchip .n { color: var(--gold); font-weight: 700; font-size: 0.76rem; }
+  @media (max-width: 640px) { .tpager { grid-template-columns: 1fr; } }
+
+  .art-hero {
+    background:
+      radial-gradient(680px 320px at 15% -30%, color-mix(in srgb, var(--gold) 11%, transparent), transparent),
+      radial-gradient(900px 360px at 55% -20%, var(--surface-2), transparent);
+    border-bottom: 1px solid var(--line);
+    padding: 2.4rem 0 2rem;
+  }
+  .crumb { font-size: 0.84rem; color: var(--muted); margin: 0 0 1rem; }
+  .crumb a { color: var(--muted); text-decoration: none; }
+  .crumb a:hover { color: var(--gold); }
+  .crumb span { color: var(--ink-soft); }
+  .badges { display: flex; gap: 0.4rem; flex-wrap: wrap; align-items: center; margin-bottom: 1rem; }
+  .pill {
+    font-size: 0.68rem; font-weight: 700; border-radius: 999px; padding: 0.1rem 0.5rem;
+    border: 1px solid var(--line); background: var(--surface-2); color: var(--ink-soft);
+  }
+  .pill.tier { color: var(--gold); border-color: color-mix(in srgb, var(--gold) 45%, var(--line)); background: color-mix(in srgb, var(--gold) 9%, transparent); }
+  .art-hero h1 { margin: 0 0 0.55rem; font-family: var(--font-title); font-weight: 800; font-size: clamp(1.7rem, 3.4vw, 2.5rem); line-height: 1.12; }
+  .lede { color: var(--ink-soft); font-size: 1.08rem; max-width: 65ch; margin: 0; }
+
+  .tpage { padding-block: 2rem 4rem; }
+  .tsec {
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 12px; overflow: hidden;
+  }
+  .tsec > header {
+    display: flex; justify-content: space-between; align-items: center; gap: 0.5rem;
+    padding: 0.45rem 0.95rem; font-size: 0.67rem; font-weight: 800; letter-spacing: 0.1em;
+    text-transform: uppercase; color: var(--muted); background: var(--surface-2);
+    border-bottom: 1px solid var(--line);
+  }
+  .tsec-body { padding: 0.4rem 0.95rem 0.9rem; }
+  .tsec ul { list-style: none; margin: 0; padding: 0; }
+  .tsec li { padding: 0.85rem 0; border-bottom: 1px solid var(--line); }
+  .tsec li:last-child { border-bottom: 0; }
+  .row1 { display: flex; gap: 0.6rem; align-items: center; flex-wrap: wrap; }
+  .t-title { font-family: var(--font-title); font-size: 1.02rem; color: var(--ink); text-decoration: none; font-weight: 700; }
+  .t-title:hover { color: var(--gold); }
+  .t-sum { margin: 0.3rem 0 0; color: var(--ink-soft); font-size: 0.9rem; line-height: 1.55; max-width: 78ch; }
+</style>

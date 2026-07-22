@@ -1,0 +1,73 @@
+---
+import type { Locale } from '@/lib/categories';
+import { getCategory } from '@/lib/categories';
+import { getChangelog } from '@/lib/apidata';
+import { REPO } from '@/lib/site';
+
+interface Props {
+  locale: Locale;
+}
+const { locale } = Astro.props;
+const c = getChangelog();
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const typeLabel: Record<string, string> = {
+  feature: L('Ciri', 'Features', '功能'),
+  fix: L('Pembetulan', 'Fixes', '修复'),
+  content: L('Kandungan', 'Content', '内容'),
+  translate: L('Terjemahan', 'Translation', '翻译'),
+  chore: L('Penyelenggaraan', 'Maintenance', '维护'),
+};
+---
+
+<section class="container head">
+  <h1>{L('Log Perubahan', 'Changelog', '更新日志')}</h1>
+  <p class="lead">
+    {c.total} {L('kemas kini', 'updates', '次更新')}
+    {c.source === 'manifest' && <span class="note"> · {L('daripada tarikh artikel (sejarah git akan menggantikannya selepas disiarkan)', 'from article dates (git history replaces this once published)', '来自文章日期（发布后将由 git 历史取代）')}</span>}
+  </p>
+  <div class="tally">
+    {Object.entries(c.tally).map(([k, n]) => <span class="chip">{typeLabel[k] ?? k}: {n}</span>)}
+  </div>
+</section>
+
+<section class="container list">
+  {
+    c.days.map((day) => (
+      <div class="day">
+        <h2 id={`day-${day.date}`}>{day.date} <span class="count">{day.count}</span></h2>
+        <ul>
+          {day.items.map((it) => (
+            <li>
+              <span class="icon">{it.icon}</span>
+              <span class="subj">
+                {it.titleI18n
+                  ? `${it.titleI18n[locale]}（${getCategory(it.category)?.name[locale] ?? it.category}）`
+                  : it.subject}
+                {it.hash && (
+                  <a class="sha" href={`${REPO}/commit/${it.hash}`} rel="noopener">{it.hash}</a>
+                )}
+              </span>
+            </li>
+          ))}
+        </ul>
+      </div>
+    ))
+  }
+</section>
+
+<style>
+  .head { padding-block: 2.5rem 1rem; }
+  .lead { color: var(--ink-soft); }
+  .note { color: var(--muted); font-size: 0.85rem; }
+  .tally { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-top: 0.75rem; }
+  .chip { font-size: 0.78rem; border: 1px solid var(--line); border-radius: 999px; padding: 0.15rem 0.6rem; color: var(--ink-soft); }
+  .list { padding-bottom: 3rem; }
+  .day { margin-top: 1.75rem; }
+  .day h2 { font-size: 1.1rem; border-bottom: 1px solid var(--line); padding-bottom: 0.4rem; }
+  .count { color: var(--muted); font-size: 0.8rem; font-family: var(--font-interface); }
+  .day ul { list-style: none; padding: 0; margin: 0.5rem 0 0; }
+  .day li { display: flex; gap: 0.6rem; padding: 0.35rem 0; align-items: baseline; }
+  .icon { flex-shrink: 0; }
+  .subj { color: var(--ink-soft); }
+  .sha { margin-left: 0.5rem; font-family: monospace; font-size: 0.8rem; color: var(--gold); text-decoration: none; }
+</style>

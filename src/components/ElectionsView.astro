@@ -1,0 +1,96 @@
+---
+import type { Locale } from '@/lib/categories';
+import { articlesInCategory } from '@/lib/content';
+import { localePath } from '@/lib/i18n';
+
+interface Props {
+  locale: Locale;
+}
+const { locale } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+// Indicative target — GE16 must be held by early 2028. Adjust when dissolution is announced.
+const target = '2027-11-19';
+const politics = await articlesInCategory('politics', locale);
+
+const facts = [
+  { n: '222', t: L('kerusi Dewan Rakyat', 'Dewan Rakyat seats', '国会下议院席位') },
+  { n: 'FPTP', t: L('sistem undi majoriti mudah', 'first-past-the-post', '简单多数制') },
+  { n: '18', t: L('umur mengundi', 'voting age', '投票年龄') },
+  { n: '5', t: L('tahun penggal maksimum', 'year max term', '年最长任期') },
+];
+---
+
+<section class="container head">
+  <p class="kicker">🗳️ {L('Pusat Pilihan Raya', 'Elections Hub', '选举中心')}</p>
+  <h1>{L('Pilihan Raya Umum Malaysia', 'Malaysian General Election', '马来西亚大选')}</h1>
+  <p class="lead">{L('Panduan tak-berpihak tentang sistem pilihan raya Malaysia. Kiraan detik adalah anggaran.', 'A non-partisan guide to Malaysia\'s electoral system. The countdown is indicative.', '关于马来西亚选举制度的中立指南。倒计时为估计值。')}</p>
+  <div class="countdown" data-target={target}>
+    <div><b id="cd-days">–</b><span>{L('hari', 'days', '天')}</span></div>
+    <div><b id="cd-hrs">–</b><span>{L('jam', 'hours', '小时')}</span></div>
+    <div><b id="cd-min">–</b><span>{L('minit', 'minutes', '分钟')}</span></div>
+  </div>
+  <p class="muted">{L('Sasaran anggaran', 'Indicative target', '估计目标')}: {target}</p>
+</section>
+
+<section class="container block">
+  <div class="facts">
+    {facts.map((f) => <div class="card"><b>{f.n}</b><span>{f.t}</span></div>)}
+  </div>
+</section>
+
+<section class="container block two">
+  <div class="prose">
+    <h2>{L('Bagaimana ia berfungsi', 'How it works', '如何运作')}</h2>
+    <p>{L('Malaysia mengamalkan sistem "first-past-the-post": calon dengan undi terbanyak dalam setiap kawasan menang kerusi. Parti/gabungan dengan majoriti kerusi Dewan Rakyat membentuk kerajaan, dan pemimpinnya menjadi Perdana Menteri.', 'Malaysia uses first-past-the-post: the candidate with the most votes in each constituency wins the seat. The party/coalition with a majority of Dewan Rakyat seats forms the government, and its leader becomes Prime Minister.', '马来西亚采用简单多数制：各选区得票最多者胜出。取得国会下议院多数席位的政党/联盟组建政府，其领袖出任首相。')}</p>
+    <p>{L('Suruhanjaya Pilihan Raya (SPR) mengendalikan pilihan raya.', 'The Election Commission (SPR) administers elections.', '选举委员会（SPR）负责组织选举。')}</p>
+  </div>
+  <div>
+    <h2>{L('Bacaan asas', 'Foundational reading', '基础阅读')}</h2>
+    <ul class="reads">
+      {politics.map((a) => <li><a href={localePath(`/${a.data.category}/${a.data.slug}`, locale)}>{a.data.title}</a></li>)}
+    </ul>
+    <h2 style="margin-top:1.5rem">{L('Alat sivik', 'Civic tools', '公民工具')}</h2>
+    <ul class="reads">
+      <li><a href="https://www.spr.gov.my" rel="noopener">SPR — Suruhanjaya Pilihan Raya ↗</a></li>
+      <li><a href="https://undi.info" rel="noopener">Undi.info ↗</a></li>
+    </ul>
+  </div>
+</section>
+
+<script>
+  const el = document.querySelector<HTMLElement>('.countdown');
+  if (el?.dataset.target) {
+    const target = new Date(el.dataset.target + 'T00:00:00').getTime();
+    const tick = () => {
+      const diff = Math.max(0, target - Date.now());
+      const d = Math.floor(diff / 86400000);
+      const h = Math.floor((diff % 86400000) / 3600000);
+      const m = Math.floor((diff % 3600000) / 60000);
+      const set = (id: string, v: number) => { const n = document.getElementById(id); if (n) n.textContent = String(v); };
+      set('cd-days', d); set('cd-hrs', h); set('cd-min', m);
+    };
+    tick();
+    setInterval(tick, 30000);
+  }
+</script>
+
+<style>
+  .head { padding-block: 2.5rem 1rem; }
+  .kicker { color: var(--gold); font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; font-size: 0.8rem; margin: 0 0 0.3rem; }
+  .lead { color: var(--ink-soft); max-width: 62ch; }
+  .countdown { display: flex; gap: 1rem; margin-top: 1.25rem; }
+  .countdown div { border: 1px solid var(--line); border-top: 2px solid var(--gold); border-radius: 12px; padding: 0.8rem 1.2rem; text-align: center; background: var(--surface); min-width: 84px; }
+  .countdown b { display: block; font-family: var(--font-title); font-size: 2rem; color: var(--gold); }
+  .countdown span { color: var(--muted); font-size: 0.8rem; }
+  .muted { color: var(--muted); font-size: 0.82rem; }
+  .block { margin-top: 2.5rem; }
+  .facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(8rem, 1fr)); gap: 1rem; }
+  .facts b { display: block; font-family: var(--font-title); font-size: 1.5rem; color: var(--gold); }
+  .facts span { color: var(--ink-soft); font-size: 0.85rem; }
+  .two { display: grid; grid-template-columns: 1fr 1fr; gap: 2.5rem; padding-bottom: 3rem; }
+  .two h2 { font-size: 1.3rem; }
+  .reads { list-style: none; padding: 0; margin: 0; display: grid; gap: 0.4rem; }
+  .reads a { color: var(--ink-soft); text-decoration: none; }
+  .reads a:hover { color: var(--gold); }
+  @media (max-width: 800px) { .two { grid-template-columns: 1fr; gap: 1.5rem; } }
+</style>

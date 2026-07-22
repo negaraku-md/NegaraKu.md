@@ -1,0 +1,86 @@
+---
+import type { Locale } from '@/lib/categories';
+import { t, localePath } from '@/lib/i18n';
+
+interface Props {
+  locale: Locale;
+}
+const { locale } = Astro.props;
+const year = 2026;
+---
+
+<footer class="site-footer">
+  <div class="container inner">
+    <div>
+      <p class="name">NegaraKu<span class="dot">.md</span></p>
+      <p class="tagline">{t('site.tagline', locale)}</p>
+      <p class="sponsor">
+        {t('footer.sponsoredBy', locale)}
+        <a href="https://www.1company.com" rel="noopener"><span class="oneco">1company.com</span></a>
+      </p>
+    </div>
+    <nav class="links" aria-label="Footer">
+      <a href={localePath('/about', locale)}>{t('nav.about', locale)}</a>
+      <a href={localePath('/contribute', locale)}>{t('nav.contribute', locale)}</a>
+      <a href="https://github.com/negaraku-md/negaraku.md">GitHub</a>
+      <a href="/llms.txt">llms.txt</a>
+    </nav>
+  </div>
+  <div class="container legal">
+    <p>© {year} NegaraKu.md · {t('footer.license', locale)}</p>
+  </div>
+</footer>
+
+<style>
+  .site-footer {
+    margin-top: 4rem;
+    border-top: 1px solid var(--line);
+    background: var(--bg-soft);
+    padding-block: 2rem 1.5rem;
+  }
+  .inner {
+    display: flex;
+    justify-content: space-between;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+  }
+  .name {
+    font-family: var(--font-serif);
+    font-weight: 700;
+    font-size: 1.1rem;
+    margin: 0;
+  }
+  .name .dot {
+    color: var(--gold);
+  }
+  .tagline {
+    color: var(--muted);
+    margin: 0.2rem 0 0;
+    font-size: 0.92rem;
+  }
+  .sponsor {
+    margin: 0.55rem 0 0;
+    font-size: 0.9rem;
+    color: var(--ink-soft);
+  }
+  .sponsor a {
+    color: var(--gold);
+    font-weight: 700;
+  }
+  .links {
+    display: flex;
+    gap: 1.1rem;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  .links a {
+    color: var(--ink-soft);
+    text-decoration-color: color-mix(in srgb, var(--ink-soft) 55%, transparent);
+    font-size: 0.92rem;
+  }
+  .legal {
+    margin-top: 1.25rem;
+    color: var(--muted);
+    font-size: 0.82rem;
+  }
+</style>

@@ -1,0 +1,28 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import { localePath } from '@/lib/i18n';
+const locale = 'ms';
+---
+
+<BaseLayout locale={locale} title="404" description="Halaman tidak dijumpai" path="/404">
+  <section class="container notfound">
+    <p class="big">404</p>
+    <h1>Halaman tidak dijumpai</h1>
+    <p>Maaf, kandungan yang anda cari tiada di sini.</p>
+    <p><a class="btn btn-primary" href={localePath('/', locale)}>Kembali ke laman utama</a></p>
+  </section>
+</BaseLayout>
+
+<style>
+  .notfound {
+    text-align: center;
+    padding-block: 5rem;
+  }
+  .big {
+    font-family: var(--font-serif);
+    font-size: 5rem;
+    font-weight: 700;
+    color: var(--gold);
+    margin: 0;
+  }
+</style>

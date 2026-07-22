@@ -1,0 +1,153 @@
+---
+import type { Locale, Category } from '@/lib/categories';
+import type { Article } from '@/lib/content';
+import { orderedSubcats, subcatLabel } from '@/lib/subcategories';
+import { localePath } from '@/lib/i18n';
+import TrustBadge from '../TrustBadge.astro';
+
+// REFERENCE / DIRECTORY archetype.
+// Laws and agencies are structured records, not prose cards. A table is
+// scannable and maps directly onto the knowledge graph, so typed relations
+// are surfaced inline rather than hidden in the article body.
+
+interface Props {
+  locale: Locale;
+  category: Category;
+  articles: Article[];
+}
+const { locale, category, articles } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const href = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, locale);
+
+const groups = orderedSubcats(
+  category.id,
+  articles.flatMap((a) => a.data.subcategory),
+);
+
+/** Pull the "administered by" edge for the table column. */
+const adminOf = (a: Article) =>
+  a.data.relations.find((r) => r.rel === 'administered-by')?.to ?? '—';
+const govOf = (a: Article) =>
+  a.data.relations
+    .filter((r) => r.rel === 'governs' || r.rel === 'affects')
+    .map((r) => r.to)
+    .join(' · ') || '—';
+---
+
+<section class="container block">
+  <div class="filters">
+    <span class="f on">{L('Semua', 'All', '全部')} ({articles.length})</span>
+    {groups.map((g) => <span class="f">{subcatLabel(g, locale)}</span>)}
+  </div>
+
+  <div class="tblwrap">
+    <table>
+      <thead>
+        <tr>
+          <th>{L('Rekod', 'Record', '记录')}</th>
+          <th>{L('Ditadbir oleh', 'Administered by', '主管机构')}</th>
+          <th>{L('Memberi kesan', 'Affects', '影响对象')}</th>
+          <th>{L('Status', 'Status', '状态')}</th>
+        </tr>
+      </thead>
+      <tbody>
+        {
+          articles.map((a) => (
+            <tr>
+              <td>
+                <a href={href(a)}>
+                  <b>{a.data.entity ?? a.data.title}</b>
+                </a>
+                <span class="sub">{a.data.summary}</span>
+              </td>
+              <td class="mono">{adminOf(a)}</td>
+              <td class="mono">{govOf(a)}</td>
+              <td>
+                <TrustBadge
+                  locale={locale}
+                  status={a.data.status}
+                  sensitivity={a.data.sensitivity}
+                  compact
+                />
+              </td>
+            </tr>
+          ))
+        }
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<style>
+  .filters {
+    display: flex;
+    gap: 0.4rem;
+    flex-wrap: wrap;
+    margin-bottom: 1.2rem;
+  }
+  .f {
+    font-size: 0.78rem;
+    font-weight: 700;
+    border-radius: 999px;
+    padding: 0.24rem 0.7rem;
+    border: 1px solid var(--line);
+    background: var(--surface);
+    color: var(--ink-soft);
+  }
+  .f.on {
+    background: var(--gold);
+    color: #000;
+    border-color: var(--gold);
+  }
+  .tblwrap {
+    overflow-x: auto;
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    background: var(--surface);
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.88rem;
+  }
+  th,
+  td {
+    text-align: left;
+    padding: 0.7rem 0.9rem;
+    border-bottom: 1px solid var(--line);
+    vertical-align: top;
+  }
+  tr:last-child td {
+    border-bottom: 0;
+  }
+  th {
+    color: var(--muted);
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-weight: 800;
+    background: var(--surface-2);
+  }
+  td a {
+    color: var(--ink);
+    text-decoration: none;
+  }
+  td a:hover b {
+    color: var(--gold);
+  }
+  td b {
+    font-family: var(--font-title);
+    font-size: 0.95rem;
+  }
+  .sub {
+    display: block;
+    color: var(--muted);
+    font-size: 0.79rem;
+    margin-top: 0.15rem;
+    max-width: 46ch;
+  }
+  .mono {
+    color: var(--ink-soft);
+    font-size: 0.83rem;
+  }
+</style>

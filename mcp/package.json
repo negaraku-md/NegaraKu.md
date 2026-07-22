@@ -1,0 +1,16 @@
+{
+  "name": "negaraku-md-mcp",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "description": "MCP server exposing the negaraku.md knowledge base to AI clients.",
+  "bin": { "negaraku-md-mcp": "server.mjs" },
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "gray-matter": "^4.0.3",
+    "zod": "^3.23.8"
+  }
+}

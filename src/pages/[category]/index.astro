@@ -1,0 +1,26 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import CategoryView from '@/components/CategoryView.astro';
+import { getCategory } from '@/lib/categories';
+import { categoryPaths } from '@/lib/paths';
+import { articlesInCategory } from '@/lib/content';
+
+export function getStaticPaths() {
+  return categoryPaths();
+}
+
+const locale = 'ms';
+const { category } = Astro.params;
+const cat = getCategory(category!);
+if (!cat) return Astro.rewrite('/404');
+const articles = await articlesInCategory(category!, locale);
+---
+
+<BaseLayout
+  locale={locale}
+  title={cat.name[locale]}
+  description={cat.blurb[locale]}
+  path={`/${category}`}
+>
+  <CategoryView locale={locale} category={cat} articles={articles} />
+</BaseLayout>

@@ -1,0 +1,73 @@
+---
+import type { Locale } from '@/lib/categories';
+import { t } from '@/lib/i18n';
+
+interface Props {
+  locale: Locale;
+}
+const { locale } = Astro.props;
+const placeholder =
+  locale === 'zh' ? '搜索马来西亚…' : locale === 'en' ? 'Search Malaysia…' : 'Cari Malaysia…';
+---
+
+<section class="container search">
+  <h1>{t('nav.search', locale)}</h1>
+  <div id="search" data-placeholder={placeholder}></div>
+  <noscript>
+    <p>{locale === 'zh' ? '搜索需要 JavaScript。' : locale === 'en' ? 'Search requires JavaScript.' : 'Carian memerlukan JavaScript.'}</p>
+  </noscript>
+</section>
+
+<link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
+<!-- Pagefind UI is generated into /pagefind/ during `npm run build`.
+     Loaded inline so the bundler does not try to resolve the runtime asset. -->
+<script is:inline>
+  (function () {
+    var el = document.getElementById('search');
+    if (!el) return;
+    var s = document.createElement('script');
+    s.src = '/pagefind/pagefind-ui.js';
+    s.onload = function () {
+      new window.PagefindUI({
+        element: '#search',
+        showSubResults: true,
+        showImages: false,
+        placeholder: el.dataset.placeholder,
+      });
+      // Prefill from ?q= (used by Explore/Latest hot-keyword links).
+      try {
+        var q = new URLSearchParams(location.search).get('q');
+        if (q) {
+          var input = el.querySelector('input');
+          if (input) {
+            input.value = q;
+            input.dispatchEvent(new Event('input', { bubbles: true }));
+          }
+        }
+      } catch (e) {}
+    };
+    s.onerror = function () {
+      el.innerHTML =
+        '<p style="color:var(--muted)">Search index is generated at build time. Run <code>npm run build</code> then <code>npm run preview</code>.</p>';
+    };
+    document.head.appendChild(s);
+  })();
+</script>
+
+<style>
+  .search {
+    padding-block: 2.5rem;
+    min-height: 60vh;
+  }
+  .search h1 {
+    margin-bottom: 1.25rem;
+  }
+  :global(:root) {
+    --pagefind-ui-primary: var(--gold);
+    --pagefind-ui-text: var(--ink);
+    --pagefind-ui-background: var(--surface);
+    --pagefind-ui-border: var(--line);
+    --pagefind-ui-border-radius: 10px;
+    --pagefind-ui-font: var(--font-sans);
+  }
+</style>

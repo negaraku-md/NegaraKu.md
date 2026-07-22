@@ -1,0 +1,14 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import ComplianceCalendarView from '@/components/ComplianceCalendarView.astro';
+const locale = 'ms';
+---
+
+<BaseLayout
+  locale={locale}
+  title="Compliance Calendar"
+  description="Statutory obligations for a Malaysian company, as dated deadlines from your incorporation date."
+  path="/compliance-calendar"
+>
+  <ComplianceCalendarView locale={locale} />
+</BaseLayout>

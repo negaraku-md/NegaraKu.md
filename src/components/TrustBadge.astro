@@ -1,0 +1,132 @@
+---
+import type { Locale } from '@/lib/categories';
+
+// The honesty layer. Because most content is AI-drafted and published before
+// human review, every surface that lists or renders an article states exactly
+// what it is. Nothing borrows credibility it hasn't earned.
+
+interface Props {
+  locale: Locale;
+  status?: string;
+  sensitivity?: string;
+  tier?: string;
+  translationStatus?: string;
+  /** Compact = icon + short word, for dense lists. */
+  compact?: boolean;
+}
+const {
+  locale,
+  status = 'draft',
+  sensitivity = 'none',
+  tier,
+  translationStatus,
+  compact = false,
+} = Astro.props;
+
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+const statusMap: Record<string, { cls: string; icon: string; label: string; full: string }> = {
+  published: {
+    cls: 'ok',
+    icon: '✓',
+    label: L('Disemak', 'Reviewed', '已审阅'),
+    full: L('Disemak oleh manusia', 'Human-reviewed', '经人工审阅'),
+  },
+  reviewed: {
+    cls: 'ok',
+    icon: '✓',
+    label: L('Disemak', 'Reviewed', '已审阅'),
+    full: L('Disemak oleh manusia', 'Human-reviewed', '经人工审阅'),
+  },
+  'in-review': {
+    cls: 'info',
+    icon: '◐',
+    label: L('Dalam semakan', 'In review', '审阅中'),
+    full: L('Sedang disemak', 'Under review', '正在审阅中'),
+  },
+  draft: {
+    cls: 'warn',
+    icon: '⚠',
+    label: L('Draf AI', 'AI draft', 'AI 草稿'),
+    full: L(
+      'Draf AI — belum disemak manusia',
+      'AI-drafted — not yet human-reviewed',
+      'AI 草稿——尚未经人工审阅',
+    ),
+  },
+};
+
+const sensitivityLabels: Record<string, string> = {
+  race: L('Sensitif — kaum', 'Sensitive — race', '敏感——种族'),
+  religion: L('Sensitif — agama', 'Sensitive — religion', '敏感——宗教'),
+  royalty: L('Sensitif — institusi diraja', 'Sensitive — royalty', '敏感——王室'),
+  constitution: L('Sensitif — perlembagaan', 'Sensitive — constitution', '敏感——宪法'),
+  elections: L('Sensitif — pilihan raya', 'Sensitive — elections', '敏感——选举'),
+  security: L('Sensitif — keselamatan', 'Sensitive — security', '敏感——安全'),
+  health: L('Sensitif — kesihatan', 'Sensitive — health', '敏感——健康'),
+  'legal-proceedings': L('Sensitif — perundangan', 'Sensitive — legal', '敏感——法律程序'),
+};
+
+const transMap: Record<string, { cls: string; icon: string; label: string }> = {
+  stale: { cls: 'info', icon: '↻', label: L('Terjemahan lapuk', 'Translation stale', '翻译已过期') },
+  pending: { cls: 'info', icon: '↻', label: L('Terjemahan belum siap', 'Translation pending', '翻译待处理') },
+};
+
+const s = statusMap[status] ?? statusMap.draft;
+const sens = sensitivity !== 'none' ? sensitivityLabels[sensitivity] : null;
+const trans = translationStatus ? transMap[translationStatus] : null;
+---
+
+<span class="tb-row">
+  {tier && <span class="tb">{L('Tahap', 'Tier', '层级')} {tier}</span>}
+  {
+    sens && (
+      <span class="tb risk" title={L('Perlu semakan manusia', 'Requires human review', '需人工审阅')}>
+        🔒 {compact ? L('Sensitif', 'Sensitive', '敏感') : sens}
+      </span>
+    )
+  }
+  <span class={`tb ${s.cls}`}>{s.icon} {compact ? s.label : s.full}</span>
+  {trans && <span class={`tb ${trans.cls}`}>{trans.icon} {trans.label}</span>}
+</span>
+
+<style>
+  .tb-row {
+    display: inline-flex;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+    align-items: center;
+  }
+  .tb {
+    font-family: var(--font-sans);
+    font-size: 0.68rem;
+    font-weight: 700;
+    line-height: 1.5;
+    border-radius: 999px;
+    padding: 0.1rem 0.5rem;
+    border: 1px solid var(--line);
+    background: var(--surface-2);
+    color: var(--ink-soft);
+    white-space: nowrap;
+  }
+  .tb.ok {
+    color: #4ade80;
+    border-color: rgba(74, 222, 128, 0.35);
+    background: rgba(74, 222, 128, 0.1);
+  }
+  .tb.warn {
+    color: #fbbf24;
+    border-color: rgba(251, 191, 36, 0.35);
+    background: rgba(251, 191, 36, 0.1);
+  }
+  .tb.risk {
+    color: #f87171;
+    border-color: rgba(248, 113, 113, 0.4);
+    background: rgba(248, 113, 113, 0.1);
+  }
+  .tb.info {
+    color: #60a5fa;
+    border-color: rgba(96, 165, 250, 0.35);
+    background: rgba(96, 165, 250, 0.1);
+  }
+</style>

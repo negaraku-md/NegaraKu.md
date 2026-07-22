@@ -1,0 +1,151 @@
+---
+import '@/styles/global.css';
+import Header from '@/components/Header.astro';
+import Footer from '@/components/Footer.astro';
+import HeadInlineScripts from '@/components/HeadInlineScripts.astro';
+import type { Locale } from '@/lib/categories';
+import { t, LOCALES, localePath } from '@/lib/i18n';
+
+interface Props {
+  locale: Locale;
+  title: string;
+  description?: string;
+  /** Path without locale prefix, for canonical + language alternates. */
+  path?: string;
+  /** Optional JSON-LD injected into the head (object or array of objects). */
+  jsonLd?: Record<string, unknown> | Record<string, unknown>[];
+  ogType?: string;
+  /** When set, advertises a raw-Markdown alternate of this page for AI agents. */
+  mdHref?: string;
+  /** Localized search keywords for this page (meta keywords). */
+  keywords?: string;
+  /** Curiosity-led title for social shares. Falls back to the page title. */
+  socialTitle?: string;
+}
+
+const {
+  locale,
+  title,
+  description = t('site.tagline', locale),
+  path = '/',
+  jsonLd,
+  ogType = 'website',
+  mdHref,
+  keywords,
+  socialTitle,
+} = Astro.props;
+
+// Point AI agents at the machine index for THIS language.
+const llmsHref = localePath('/llms.txt', locale);
+
+const site = Astro.site ?? new URL('https://negaraku.md');
+// Append the brand only when it fits inside Google's ~60-char display budget.
+// Otherwise the suffix truncates the part that actually earns the click.
+const BRAND = ' — NegaraKu.md';
+const fullTitle =
+  title === 'NegaraKu.md'
+    ? title
+    : (title + BRAND).length <= 60
+      ? title + BRAND
+      : title;
+const canonical = new URL(localePath(path, locale), site).toString();
+const htmlLang = locale === 'zh' ? 'zh-Hans' : locale === 'ms' ? 'ms-MY' : 'en';
+---
+
+<!doctype html>
+<html lang={htmlLang}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#07070a" />
+    <HeadInlineScripts />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    {keywords && <meta name="keywords" content={keywords} />}
+    <meta
+      name="robots"
+      content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+    />
+    <link rel="canonical" href={canonical} />
+
+    {/* AI-agent discovery: machine index (this language) + optional raw-Markdown. */}
+    <link rel="alternate" type="text/plain" title="llms.txt (AI index)" href={llmsHref} />
+    {mdHref && <link rel="alternate" type="text/markdown" title="Raw Markdown" href={mdHref} />}
+
+    {/* hreflang alternates */}
+    {
+      LOCALES.map((l) => (
+        <link
+          rel="alternate"
+          hreflang={l === 'zh' ? 'zh-Hans' : l === 'ms' ? 'ms-MY' : 'en'}
+          href={new URL(localePath(path, l), site).toString()}
+        />
+      ))
+    }
+    <link rel="alternate" hreflang="x-default" href={new URL(localePath(path, 'ms'), site).toString()} />
+
+    {/* Open Graph / Twitter (drives Facebook + social link previews) */}
+    <meta property="og:type" content={ogType} />
+    <meta property="og:site_name" content="NegaraKu.md" />
+    <meta property="og:title" content={socialTitle ?? fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:locale" content={htmlLang.replace('-', '_')} />
+    <meta property="og:image" content={new URL('/og/default.png', site).toString()} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="NegaraKu.md — knowledge base about Malaysia" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:image" content={new URL('/og/default.png', site).toString()} />
+
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="alternate" type="application/rss+xml" title="negaraku.md" href="/rss.xml" />
+
+    {/* Fonts — loaded non-render-blocking so the page shows immediately with the
+        system-font fallback and upgrades when the web fonts arrive. */}
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800;900&family=Lato:wght@400;700&family=Noto+Sans+SC:wght@400;500;700&display=swap"
+      media="print"
+      onload="this.media='all'"
+    />
+    <noscript>
+      <link
+        rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800;900&family=Lato:wght@400;700&family=Noto+Sans+SC:wght@400;500;700&display=swap"
+      />
+    </noscript>
+
+    {jsonLd && <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />}
+  </head>
+  <body>
+    <a class="skip-link" href="#main">{t('a11y.skip', locale)}</a>
+    <Header locale={locale} path={path} />
+    <main id="main">
+      <slot />
+    </main>
+    <Footer locale={locale} />
+
+    <script>
+      // Open every external link in a new tab (with safe rel). Internal
+      // links (same host, relative paths, #anchors) keep their default behaviour.
+      for (const a of document.querySelectorAll('a[href]')) {
+        const href = a.getAttribute('href');
+        if (!href) continue;
+        try {
+          const url = new URL(href, location.href);
+          const isHttp = url.protocol === 'http:' || url.protocol === 'https:';
+          if (isHttp && url.host !== location.host) {
+            a.setAttribute('target', '_blank');
+            const rel = new Set((a.getAttribute('rel') || '').split(/\s+/).filter(Boolean));
+            rel.add('noopener');
+            rel.add('noreferrer');
+            a.setAttribute('rel', [...rel].join(' '));
+          }
+        } catch {}
+      }
+    </script>
+  </body>
+</html>

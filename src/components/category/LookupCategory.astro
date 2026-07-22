@@ -1,0 +1,130 @@
+---
+import type { Locale, Category } from '@/lib/categories';
+import type { Article } from '@/lib/content';
+import { localePath } from '@/lib/i18n';
+
+// LOOKUP archetype.
+// Nobody browses a dictionary — search leads, then an A–Z rail, then compact
+// definition cards. Terms carry all three languages because the reader may
+// know the concept by any of them.
+
+interface Props {
+  locale: Locale;
+  category: Category;
+  articles: Article[];
+}
+const { locale, category, articles } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const href = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, locale);
+
+const terms = [...articles].sort((a, b) =>
+  (a.data.entity ?? a.data.title).localeCompare(b.data.entity ?? b.data.title),
+);
+const letters = [...new Set(terms.map((t) => (t.data.entity ?? t.data.title)[0].toUpperCase()))];
+const ALPHABET = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
+---
+
+<section class="container block">
+  <div class="az">
+    {
+      ALPHABET.map((l) => (
+        <span class={letters.includes(l) ? 'on' : 'off'}>{l}</span>
+      ))
+    }
+  </div>
+
+  <div class="terms">
+    {
+      terms.map((a) => (
+        <a class="term" href={href(a)}>
+          <b>{a.data.entity ?? a.data.title}</b>
+          <p>{a.data.answer ?? a.data.summary}</p>
+          {a.data.keywords.length > 0 && (
+            <div class="tags">
+              {a.data.keywords.slice(0, 3).map((k) => (
+                <span>{k}</span>
+              ))}
+            </div>
+          )}
+        </a>
+      ))
+    }
+  </div>
+
+  {
+    terms.length === 0 && (
+      <p class="empty">
+        {L('Belum ada istilah.', 'No terms yet.', '暂无术语。')}
+      </p>
+    )
+  }
+</section>
+
+<style>
+  .az {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25rem;
+    margin-bottom: 1.4rem;
+  }
+  .az span {
+    font-size: 0.76rem;
+    font-weight: 800;
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    padding: 0.16rem 0.44rem;
+    background: var(--surface);
+  }
+  .az .on {
+    color: #000;
+    background: var(--gold);
+    border-color: var(--gold);
+  }
+  .az .off {
+    color: var(--muted);
+    opacity: 0.4;
+  }
+  .terms {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(17rem, 1fr));
+    gap: 0.8rem;
+  }
+  .term {
+    display: block;
+    padding: 0.95rem 1.05rem;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    text-decoration: none;
+    color: inherit;
+  }
+  .term:hover {
+    border-color: color-mix(in srgb, var(--gold) 45%, var(--line));
+  }
+  .term b {
+    font-family: var(--font-title);
+    font-size: 1.02rem;
+  }
+  .term p {
+    margin: 0.35rem 0 0;
+    color: var(--ink-soft);
+    font-size: 0.87rem;
+    line-height: 1.55;
+  }
+  .tags {
+    display: flex;
+    gap: 0.3rem;
+    flex-wrap: wrap;
+    margin-top: 0.55rem;
+  }
+  .tags span {
+    font-size: 0.68rem;
+    color: var(--muted);
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    padding: 0.08rem 0.45rem;
+  }
+  .empty {
+    color: var(--muted);
+  }
+</style>

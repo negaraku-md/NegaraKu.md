@@ -1,0 +1,8 @@
+import type { APIRoute } from 'astro';
+import { buildLlmsFull } from '@/lib/llms';
+
+// The entire Bahasa Malaysia corpus concatenated, for LLM ingestion.
+export const GET: APIRoute = async () =>
+  new Response(await buildLlmsFull('ms'), {
+    headers: { 'Content-Type': 'text/plain; charset=utf-8' },
+  });

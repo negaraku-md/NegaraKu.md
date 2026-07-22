@@ -1,0 +1,156 @@
+---
+import type { Locale } from '@/lib/categories';
+import { getCategory } from '@/lib/categories';
+import { getDashboard, getGitInfo } from '@/lib/apidata';
+import { t } from '@/lib/i18n';
+
+interface Props {
+  locale: Locale;
+}
+const { locale } = Astro.props;
+const d = getDashboard();
+const git = getGitInfo();
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+const vitalName = (v: { label: { ms: string; en: string; zh: string } }) => v.label[locale];
+const tierColor = (s: number) =>
+  s >= 80 ? 'var(--green)' : s >= 50 ? 'var(--gold)' : s >= 25 ? 'var(--amber)' : 'var(--red)';
+---
+
+<section class="container head">
+  <p class="kicker">🫀 {L('Organisma Digital', 'Digital Organism', '数字有机体')}</p>
+  <h1>{t('nav.dashboard', locale)}</h1>
+  <p class="lead">{L('Tanda vital pangkalan pengetahuan NegaraKu.md, dikira setiap binaan.', 'Vital signs of the NegaraKu.md knowledge base, computed every build.', 'NegaraKu.md 知识库的生命体征，每次构建时计算。')}</p>
+</section>
+
+<section class="container">
+  <div class="counters">
+    <div><b>{d.totals.articles}</b><span>{L('artikel', 'articles', '文章')}</span></div>
+    <div><b>{d.totals.categories}</b><span>{L('kategori', 'categories', '分类')}</span></div>
+    <div><b>{d.totals.languages}</b><span>{L('bahasa', 'languages', '语言')}</span></div>
+    <div><b>{d.totals.reviewedPct}%</b><span>{L('disemak', 'reviewed', '已审阅')}</span></div>
+  </div>
+</section>
+
+<section class="container block">
+  <h2>{L('Organ vital', 'Vital organs', '生命器官')}</h2>
+  <div class="vitals">
+    {
+      Object.values(d.vitals).map((v) => (
+        <div class="vital card">
+          <div class="ring" style={`--v:${v.score};--c:${tierColor(v.score)}`}>
+            <span>{v.score}</span>
+          </div>
+          <p class="vname">{vitalName(v)}</p>
+          <p class="vdetail">{v.detail[locale]}</p>
+        </div>
+      ))
+    }
+  </div>
+</section>
+
+<section class="container block cols">
+  <div>
+    <h2>{L('Liputan terjemahan', 'Translation coverage', '翻译覆盖率')}</h2>
+    {
+      Object.entries(d.perLangCoverage).map(([lang, c]) => (
+        <div class="bar-row">
+          <span class="bl">{lang.toUpperCase()}</span>
+          <span class="track"><span class="fill" style={`width:${c.pct}%`} /></span>
+          <span class="bv">{c.pct}% ({c.have}/{c.total})</span>
+        </div>
+      ))
+    }
+    <h2 style="margin-top:2rem">{L('Status kandungan', 'Content status', '内容状态')}</h2>
+    <div class="chips">
+      {Object.entries(d.statusDist).map(([s, n]) => <span class="badge" data-status={s}>{t(`status.${s}`, locale)}: {n}</span>)}
+    </div>
+  </div>
+  <div>
+    <h2>{L('Aktiviti terkini', 'Recent activity', '近期动态')}</h2>
+    {
+      git.commits.length ? (
+        <ul class="commits">
+          {git.commits.slice(0, 8).map((c) => (
+            <li>
+              <code>{c.hash}</code> {c.subject}
+              <span class="cmeta"> — {c.author}, {c.date}</span>
+            </li>
+          ))}
+        </ul>
+      ) : (
+        <p class="muted">{L('Suapan commit akan muncul selepas repositori disiarkan ke GitHub.', 'The commit feed will appear once the repo is published to GitHub.', '仓库发布到 GitHub 后将显示提交记录。')}</p>
+      )
+    }
+  </div>
+</section>
+
+<section class="container block">
+  <h2>{L('Daftar artikel', 'Article registry', '文章登记')}</h2>
+  <div class="table-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th>{L('Tajuk', 'Title', '标题')}</th>
+          <th>{L('Kategori', 'Category', '分类')}</th>
+          <th>{L('Status', 'Status', '状态')}</th>
+          <th>{L('Perkataan', 'Words', '字数')}</th>
+          <th>{L('Rujukan', 'Sources', '来源')}</th>
+          <th>{L('Bahasa', 'Langs', '语言')}</th>
+        </tr>
+      </thead>
+      <tbody>
+        {
+          d.registry.map((r) => (
+            <tr>
+              <td>{r.title[locale]}</td>
+              <td>{getCategory(r.category)?.name[locale] ?? r.category}</td>
+              <td><span class="badge" data-status={r.status}>{t(`status.${r.status}`, locale)}</span></td>
+              <td>{r.words}</td>
+              <td>{r.sources}</td>
+              <td>{r.langs.join(', ')}</td>
+            </tr>
+          ))
+        }
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<style>
+  .head { padding-block: 2.5rem 1rem; }
+  .kicker { color: var(--gold); font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; font-size: 0.8rem; margin: 0 0 0.4rem; }
+  .lead { color: var(--ink-soft); max-width: 60ch; }
+  .block { margin-top: 2.5rem; }
+  .block > h2 { font-size: 1.4rem; margin-bottom: 1rem; }
+  .counters { display: grid; grid-template-columns: repeat(auto-fit, minmax(8rem, 1fr)); gap: 1rem; }
+  .counters div { border: 1px solid var(--line); border-top: 2px solid var(--gold); border-radius: 12px; padding: 1rem; background: var(--surface); }
+  .counters b { display: block; font-family: var(--font-title); font-size: 1.9rem; color: var(--gold); }
+  .counters span { color: var(--muted); font-size: 0.85rem; }
+  .vitals { display: grid; grid-template-columns: repeat(auto-fit, minmax(9rem, 1fr)); gap: 1rem; }
+  .vital { text-align: center; }
+  .ring { --v: 0; width: 84px; height: 84px; margin: 0 auto 0.6rem; border-radius: 50%; display: grid; place-items: center;
+    background: radial-gradient(closest-side, var(--surface) 68%, transparent 69%),
+      conic-gradient(var(--c) calc(var(--v) * 1%), var(--line) 0); }
+  .ring span { font-family: var(--font-title); font-weight: 800; font-size: 1.2rem; }
+  .vname { font-weight: 700; margin: 0; }
+  .vdetail { color: var(--muted); font-size: 0.82rem; margin: 0.15rem 0 0; }
+  .cols { display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; }
+  .bar-row { display: grid; grid-template-columns: 3rem 1fr auto; gap: 0.6rem; align-items: center; margin: 0.5rem 0; }
+  .bl { font-weight: 700; font-size: 0.8rem; }
+  .track { height: 8px; background: var(--surface-2); border-radius: 999px; overflow: hidden; }
+  .fill { display: block; height: 100%; background: var(--gold); }
+  .bv { font-size: 0.8rem; color: var(--muted); }
+  .chips { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+  .commits { list-style: none; padding: 0; margin: 0; font-size: 0.9rem; }
+  .commits li { padding: 0.4rem 0; border-bottom: 1px solid var(--line); }
+  .commits code { color: var(--gold); }
+  .cmeta { color: var(--muted); }
+  .muted { color: var(--muted); }
+  .table-wrap { overflow-x: auto; border: 1px solid var(--line); border-radius: 12px; }
+  table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
+  th, td { text-align: left; padding: 0.6rem 0.8rem; border-bottom: 1px solid var(--line); white-space: nowrap; }
+  th { font-family: var(--font-interface); font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.04em; color: var(--muted); }
+  td:first-child { white-space: normal; min-width: 14rem; }
+  @media (max-width: 800px) { .cols { grid-template-columns: 1fr; } }
+</style>

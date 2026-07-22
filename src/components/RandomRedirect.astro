@@ -1,0 +1,49 @@
+---
+import type { Locale } from '@/lib/categories';
+import { articlesForLocale } from '@/lib/content';
+import { localePath } from '@/lib/i18n';
+
+interface Props {
+  locale: Locale;
+}
+const { locale } = Astro.props;
+const items = await articlesForLocale(locale);
+const hrefs = items
+  .filter((a) => a.data.category !== 'about')
+  .map((a) => localePath(`/${a.data.category}/${a.data.slug}`, locale));
+const fallback = localePath('/', locale);
+---
+
+<section class="container wrap">
+  <p class="spin" aria-hidden="true">🎲</p>
+  <p>{locale === 'zh' ? '正在挑选一篇文章…' : locale === 'en' ? 'Picking an article…' : 'Memilih artikel…'}</p>
+  <p class="fallback"><a href={fallback}>{locale === 'zh' ? '返回首页' : locale === 'en' ? 'Back home' : 'Kembali'}</a></p>
+</section>
+
+<script define:vars={{ hrefs, fallback }}>
+  const list = hrefs && hrefs.length ? hrefs : [fallback];
+  const to = list[Math.floor(Math.random() * list.length)];
+  location.replace(to);
+</script>
+
+<style>
+  .wrap {
+    text-align: center;
+    padding-block: 5rem;
+    min-height: 50vh;
+  }
+  .spin {
+    font-size: 3rem;
+    margin: 0 0 0.5rem;
+    animation: roll 1s ease-in-out infinite;
+  }
+  @keyframes roll {
+    50% {
+      transform: rotate(180deg) scale(1.1);
+    }
+  }
+  .fallback {
+    color: var(--muted);
+    margin-top: 1rem;
+  }
+</style>

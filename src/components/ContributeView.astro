@@ -1,0 +1,85 @@
+---
+import type { Locale } from '@/lib/categories';
+import { CATEGORIES } from '@/lib/categories';
+import { REPO } from '@/lib/site';
+
+interface Props {
+  locale: Locale;
+}
+const { locale } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+const methods = [
+  { icon: '📝', title: L('Isi borang', 'Fill the form', '填写表单'), desc: L('Tiada akaun diperlukan. Hantar pengetahuan anda di bawah.', 'No account needed. Submit your knowledge below.', '无需账户。在下方提交你的知识。') },
+  { icon: '🔀', title: L('GitHub Fork & PR', 'GitHub Fork & PR', 'GitHub 复刻与 PR'), desc: L('Tambah fail Markdown dan buka pull request.', 'Add a Markdown file and open a pull request.', '添加 Markdown 文件并提交 pull request。') },
+  { icon: '🤖', title: L('Dipandu AI', 'AI-guided', 'AI 引导'), desc: L('Tampal gesaan di bawah ke dalam ChatGPT / Claude.', 'Paste the prompt below into ChatGPT / Claude.', '将下方提示词粘贴到 ChatGPT / Claude。') },
+];
+
+const aiPrompt = L(
+  'Bantu saya menulis artikel untuk NegaraKu.md tentang [TOPIK]. Gunakan Markdown, nada neutral, sertakan sumber yang boleh disahkan, dan ikut skema frontmatter di CONTRIBUTING.md.',
+  'Help me write an article for NegaraKu.md about [TOPIC]. Use Markdown, a neutral tone, include verifiable sources, and follow the frontmatter schema in CONTRIBUTING.md.',
+  '帮我为 NegaraKu.md 撰写一篇关于[主题]的文章。使用 Markdown、中立语气、附上可核实的来源，并遵循 CONTRIBUTING.md 的 frontmatter 规范。',
+);
+---
+
+<section class="container prose head">
+  <h1>{L('Sumbang kepada NegaraKu.md', 'Contribute to NegaraKu.md', '为 NegaraKu.md 做贡献')}</h1>
+  <p class="lead">{L('NegaraKu.md dibina oleh komuniti. Pilih cara anda:', 'NegaraKu.md is built by the community. Choose your way:', 'NegaraKu.md 由社区共建。选择你的方式：')}</p>
+</section>
+
+<section class="container">
+  <div class="methods">
+    {methods.map((m) => (
+      <div class="card">
+        <span class="mi" aria-hidden="true">{m.icon}</span>
+        <b>{m.title}</b>
+        <p>{m.desc}</p>
+      </div>
+    ))}
+  </div>
+</section>
+
+<section class="container two">
+  <div>
+    <h2>{L('Kongsi pengetahuan anda', 'Share your knowledge', '分享你的知识')}</h2>
+    <form class="cform" action="https://formspree.io/f/your-id" method="post">
+      <label>{L('Topik', 'Topic', '主题')}<input name="topic" required /></label>
+      <label>{L('Kategori', 'Category', '分类')}
+        <select name="category">
+          {CATEGORIES.filter((c) => c.id !== 'about').map((c) => <option value={c.id}>{c.name[locale]}</option>)}
+        </select>
+      </label>
+      <label>{L('Pengetahuan / kandungan', 'Knowledge / content', '知识 / 内容')}<textarea name="content" rows="5" required></textarea></label>
+      <label>{L('Sumber rujukan', 'Reference source', '参考来源')}<input name="source" placeholder="https://…" /></label>
+      <label>{L('Nama (pilihan)', 'Name (optional)', '姓名（可选）')}<input name="name" /></label>
+      <button type="submit" class="btn btn-primary">{L('Hantar', 'Submit', '提交')}</button>
+      <p class="muted">{L('Penyerahan tanpa nama dibenarkan.', 'Anonymous submissions are allowed.', '允许匿名提交。')}</p>
+    </form>
+  </div>
+  <div>
+    <h2>{L('Gesaan dipandu AI', 'AI-guided prompt', 'AI 引导提示词')}</h2>
+    <pre class="prompt"><code>{aiPrompt}</code></pre>
+    <p><a class="btn btn-ghost" href={`${REPO}/blob/main/CONTRIBUTING.md`} rel="noopener">{L('Panduan sumbangan penuh', 'Full contribution guide', '完整贡献指南')}</a></p>
+    <p><a class="btn btn-ghost" href={REPO} rel="noopener">{L('Buka di GitHub', 'Open on GitHub', '在 GitHub 上打开')}</a></p>
+    <p class="muted">{L('Lihat juga garis panduan editorial untuk topik sensitif.', 'See also the editorial guidelines for sensitive topics.', '敏感话题另见编辑方针。')}</p>
+  </div>
+</section>
+
+<style>
+  .head { padding-block: 2.5rem 0.5rem; }
+  .lead { font-size: 1.15rem; color: var(--ink-soft); }
+  .methods { display: grid; grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr)); gap: 1rem; }
+  .mi { font-size: 1.6rem; }
+  .methods b { display: block; font-family: var(--font-title); margin: 0.3rem 0; }
+  .methods p { color: var(--ink-soft); font-size: 0.9rem; margin: 0; }
+  .two { display: grid; grid-template-columns: 1fr 1fr; gap: 2.5rem; margin-top: 2.5rem; padding-bottom: 3rem; }
+  .two h2 { font-size: 1.3rem; }
+  .cform { display: grid; gap: 0.9rem; }
+  .cform label { display: grid; gap: 0.3rem; font-size: 0.85rem; font-weight: 600; color: var(--ink-soft); }
+  .cform input, .cform select, .cform textarea { padding: 0.6rem 0.8rem; border-radius: 8px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); font: inherit; font-weight: 400; }
+  .cform button { justify-self: start; }
+  .prompt { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 1rem; white-space: pre-wrap; }
+  .muted { color: var(--muted); font-size: 0.88rem; }
+  .two .btn { margin: 0.3rem 0.5rem 0.3rem 0; }
+  @media (max-width: 800px) { .two { grid-template-columns: 1fr; gap: 1.5rem; } }
+</style>

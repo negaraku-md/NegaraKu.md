@@ -1,0 +1,247 @@
+SUBSTANTIVE COLLISIONS (59) — different characters, same term
+======================================================================
+
+adjusted income
+   调整收入                     batches 18
+   调整后收入                    batches 21
+
+alternate / substitute director
+   替代董事／代任董事                batches 04
+   候补／替代董事                  batches 11
+
+approval-in-principle letter
+   原则性批准函                   batches 20
+   原则上批准函                   batches 21
+
+approved accounting standards
+   核准会计准则                   batches 01
+   获批准的会计准则                 batches 14
+
+backwages
+   补发薪金                     batches 15
+   欠薪                       batches 17
+
+badges of trade
+   交易特征                     batches 18
+   营业标记                     batches 19
+
+balancing charge
+   结算课税                     batches 07,19
+   结余课税                     batches 03
+
+beneficial ownership
+   实益拥有权                    batches 14
+   受益所有权                    batches 23
+
+capital reduction
+   削减资本                     batches 12
+   资本削减                     batches 14
+
+certificate of residence
+   居民身份证明书                  batches 18
+   税务居民证明                   batches 22
+
+chargeable gain
+   应课税收益                    batches 18
+   应课税盈利                    batches 21
+
+collector (of stamp duties)
+   收税官                      batches 21
+   征收官                      batches 22
+
+composite licence
+   复合执照                     batches 04
+   综合执照                     batches 05
+   综合执照（lesen komposit）     batches 08
+
+compound (a fine)
+   复合                       batches 05
+   罚金                       batches 10
+
+conclusive evidence
+   确证                       batches 11
+   决定性证据                    batches 13
+
+consideration
+   约因                       batches 05
+   代价                       batches 22
+
+consolidated e-invoice
+   综合电子发票                   batches 20,21
+   合并式电子发票                  batches 02
+   合并电子发票                   batches 18
+   汇总电子发票                   batches 19
+
+constituent entity
+   组成实体                     batches 18
+   成员实体                     batches 19
+
+contract of service / contract for service
+   contract of service（受雇服务合约）／contract for service（承揽服务合约） batches 15
+   服务合约／服务提供合约              batches 19
+
+cut-off
+   截止点                      batches 01
+   截期                       batches 03
+
+data controller
+   资料控制者                    batches 05
+   数据控制者                    batches 08
+
+data processor
+   资料处理者                    batches 05
+   数据处理者                    batches 08
+
+data protection officer (dpo)
+   资料保护主任（DPO）              batches 05
+   数据保护主任（DPO）              batches 08
+
+data subject
+   资料当事人                    batches 05
+   数据主体                     batches 08
+
+declaration of solvency
+   偿债能力声明                   batches 04,05,08
+   偿付能力申报／偿付能力声明            batches 09
+
+domestic top-up tax
+   国内补足税                    batches 05,08
+   Domestic Top-Up Tax      batches 07
+   国内补充税                    batches 22
+
+expatriate
+   外籍人士                     batches 06
+   外籍专才                     batches 17
+
+expatriate services division (esd)
+   外籍人士服务组（ESD）             batches 06,15
+   Expatriate Services Division（ESD） batches 23
+
+extension of time
+   展期                       batches 01
+   延长时限                     batches 22
+
+extension of time (eot)
+   延期                       batches 12
+   延长工期                     batches 21
+
+floating charge
+   浮动押记                     batches 05
+   浮动抵押                     batches 13
+
+hypermarket / superstore / departmental store / specialty store
+   霸级市场／大型商店／百货公司／专卖店       batches 06
+   霸级市场／超级商场／百货公司／专卖店       batches 08
+
+industrial building allowance
+   工业楼宇减免                   batches 05,07
+   工业建筑减免                   batches 21
+
+initial allowance / annual allowance
+   初期减免／年度减免                batches 02
+   初始减免／年度减免                batches 18
+
+letter of undertaking
+   承诺书                      batches 06,15
+   Letter of Undertaking    batches 23
+
+limitation period
+   时效期间                     batches 05
+   时效期限                     batches 07
+
+lodge / lodgement
+   提交                       batches 01,10,11
+   呈报                       batches 14
+
+modified nexus approach
+   修订后的关联法                  batches 05
+   修订关联法                    batches 08
+
+nominee director
+   代名董事                     batches 04,12
+   挂名董事                     batches 09
+
+officer (of a company)
+   高职人员                     batches 02,03,12,13,14
+   高级职员                     batches 05,09,11
+
+personal data breach
+   个人资料外泄                   batches 05
+   个人数据泄漏                   batches 08
+
+planning permission
+   规划批准                     batches 05
+   规划准证                     batches 08
+
+practice directive / practice note
+   未翻译                      batches 10
+   Practice Directive／Practice Note batches 23
+
+premise licence
+   店面执照                     batches 05
+   场所执照                     batches 06
+
+public entertainer
+   公众艺人                     batches 18,20,22
+   公众表演者                    batches 19
+
+qualifying capital expenditure
+   合格资本开支                   batches 07
+   合资格资本开支                  batches 20
+
+register of charges
+   抵押登记册                    batches 03,13
+   押记登记册                    batches 10,14
+
+regular and systematic monitoring
+   定期与系统性监测                 batches 05
+   经常性与系统性监察                batches 08
+
+restraint of trade
+   贸易限制                     batches 05
+   限制营业                     batches 15
+
+retention period
+   保存期                      batches 01
+   保留期                      batches 02
+
+scheme of arrangement
+   债务重整方案                   batches 04
+   安排方案                     batches 05
+
+self-billed e-invoice
+   自开电子发票                   batches 19,20,21
+   自开票电子发票                  batches 01
+
+sensitive personal data
+   敏感个人资料                   batches 05
+   敏感个人数据                   batches 08
+
+special commissioners
+   Special Commissioners    batches 18
+   特别专员                     batches 21
+
+statement of affairs
+   事务状况说明书                  batches 05
+   事务状况报表                   batches 08
+
+statement of capital
+   资本报表                     batches 10
+   资本陈述                     batches 13
+
+tax clearance
+   税务清缴证明                   batches 15
+   税务清关                     batches 19
+
+true and fair view
+   真实公允的观点                  batches 01
+   真实与公允反映                  batches 07
+   真实与公允的观点                 batches 12
+
+undischarged bankrupt
+   未获解除的破产者                 batches 03
+   未获解除破产令的破产人              batches 04
+
+
+COSMETIC (19) — differ only by acronym/punctuation, no ruling needed
+   aggregate income · annual general meeting (agm) · assets under management (aum) · bumiputera · capital gains tax (cgt) · digital nomad · director general (of labour) · directors' report · exempt private company (epc) · requisition (of a meeting) · return of allotment · share premium account · solvency statement · special resolution · statutory declaration · takaful · trading stock · treasury shares · written resolution

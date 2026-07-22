@@ -1,0 +1,287 @@
+---
+import type { Locale } from '@/lib/categories';
+import { articlesForLocale } from '@/lib/content';
+import { localePath } from '@/lib/i18n';
+
+// THE COMPLIANCE CALENDAR.
+//
+// The visitor problem this solves: statutory duties start the day a company is
+// incorporated, nobody sends a reminder, and the deadlines are scattered across
+// dozens of articles. No reader can assemble their own calendar from prose.
+//
+// Every obligation here is pulled from the `obligations` block of a real
+// article, so the calendar can never drift from the knowledge base — and every
+// row links back to the article that explains it.
+
+interface Props {
+  locale: Locale;
+}
+const { locale } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+const articles = await articlesForLocale(locale);
+
+type Row = {
+  what: string;
+  trigger: string;
+  withinDays?: number;
+  due: string;
+  authority: string;
+  statute?: string;
+  consequence?: string;
+  source: string;
+  href: string;
+};
+
+const rows: Row[] = [];
+for (const a of articles) {
+  for (const o of a.data.obligations) {
+    rows.push({
+      ...o,
+      source: a.data.title,
+      href: localePath(`/${a.data.category}/${a.data.slug}`, locale),
+    });
+  }
+}
+
+// De-duplicate. The same duty is described by more than one article and the
+// wording differs each time ("Lodge your annual return" vs "Lodge the annual
+// return with SSM"), so text matching is not enough. Two obligations sharing a
+// trigger, window and authority ARE the same duty — keep the richest version,
+// preferring one that cites a statute and names the consequence.
+const STOP = new Set([
+  'a', 'an', 'the', 'your', 'of', 'to', 'with', 'for', 'and', 'or', 'any',
+  'from', 'on', 'in', 'at', 'as', 'by', 'ssm', 'lhdn', 'rmcd',
+]);
+/** Significant words of an obligation, so wording differences don't matter but
+ *  genuinely different duties stay distinct. */
+const fingerprint = (s: string) =>
+  [
+    ...new Set(
+      s
+        .toLowerCase()
+        .replace(/[^a-z\s]/g, ' ')
+        .split(/\s+/)
+        .filter((w) => w.length > 2 && !STOP.has(w)),
+    ),
+  ]
+    .sort()
+    .join('-');
+
+// The statute IS the duty's identity. Two articles describing "appoint the first
+// company secretary" and "appoint a licensed company secretary" both cite s.236(2)
+// and are one obligation — but their wording differs enough that a word-fingerprint
+// keeps them apart. Key on the citation where we have one; fall back to the
+// fingerprint only for the handful of duties with no statute recorded.
+// Articles cite the same provision at different precision — "s.236" and "s.236(2)",
+// or "s.46", "s.46(1) and (2)" and "s.46(3)". Strip subsection parentheses so those
+// collapse. Genuinely different subsections almost always differ in trigger or
+// deadline too, which stay in the key, so this does not over-merge in practice.
+const citation = (s?: string) =>
+  (s ?? '')
+    .toLowerCase()
+    .replace(/\((?:\d+[a-z]?|[a-z])\)/g, '')   // drop (2), (1), (a), (3C) …
+    .replace(/\band\b|\s+/g, '');
+
+const byDuty = new Map<string, Row>();
+for (const r of rows) {
+  const id = r.statute ? `s:${citation(r.statute)}` : `w:${fingerprint(r.what)}`;
+  const key = `${r.trigger}|${r.withinDays ?? 'na'}|${id}`;
+  const existing = byDuty.get(key);
+  // Keep the richest description: one that cites a statute, names the consequence,
+  // and — between two equals — explains the duty in more words.
+  const richness = (x: Row) =>
+    (x.statute ? 4 : 0) + (x.consequence ? 2 : 0) + (x.what.length > 60 ? 1 : 0);
+  if (!existing || richness(r) > richness(existing)) byDuty.set(key, r);
+}
+const unique = [...byDuty.values()];
+
+// Order by urgency: soonest deadline first, ongoing duties last.
+const order = { incorporation: 0, anniversary: 1, change: 2, 'financial-year-end': 3, ongoing: 4 };
+unique.sort((a, b) => {
+  const t = (order[a.trigger as keyof typeof order] ?? 9) - (order[b.trigger as keyof typeof order] ?? 9);
+  return t !== 0 ? t : (a.withinDays ?? 999) - (b.withinDays ?? 999);
+});
+
+const triggerLabel: Record<string, string> = {
+  incorporation: L('Selepas penubuhan', 'After incorporation', '公司成立后'),
+  anniversary: L('Setiap ulang tahun', 'Every anniversary', '每年周年'),
+  change: L('Apabila berlaku perubahan', 'When something changes', '发生变动时'),
+  'financial-year-end': L('Akhir tahun kewangan', 'Financial year end', '财政年结'),
+  ongoing: L('Berterusan', 'Ongoing', '持续义务'),
+};
+const groups = [...new Set(unique.map((r) => r.trigger))];
+---
+
+<section class="container block">
+  <p class="eyebrow">{L('Alat', 'Tool', '工具')}</p>
+  <h1>{L('Kalendar Pematuhan', 'Compliance Calendar', '合规日历')}</h1>
+  <p class="lede">
+    {L(
+      'Kewajipan berkanun bermula pada hari syarikat anda ditubuhkan — dan tiada siapa akan mengingatkan anda. Masukkan tarikh penubuhan untuk melihat tarikh akhir sebenar anda.',
+      'Statutory duties start the day your company is incorporated — and nobody sends a reminder. Enter your incorporation date to see your actual deadlines.',
+      '法定义务从公司成立当天开始——而且没有人会提醒你。输入成立日期，查看你的实际截止日期。',
+    )}
+  </p>
+
+  <div class="datebar">
+    <label for="inc">{L('Tarikh penubuhan', 'Incorporation date', '公司成立日期')}</label>
+    <input type="date" id="inc" />
+    <button id="clear" type="button">{L('Kosongkan', 'Clear', '清除')}</button>
+  </div>
+
+  {
+    groups.map((g) => (
+      <div class="group">
+        <h2>{triggerLabel[g] ?? g}</h2>
+        <div class="tblwrap">
+          <table>
+            <colgroup>
+              <col class="c-duty" /><col class="c-due" /><col class="c-your" /><col class="c-auth" />
+            </colgroup>
+            <thead>
+              <tr>
+                <th>{L('Kewajipan', 'Obligation', '义务')}</th>
+                <th>{L('Tarikh akhir', 'Deadline', '截止')}</th>
+                <th class="due-col">{L('Tarikh anda', 'Your date', '你的日期')}</th>
+                <th>{L('Kepada', 'Owed to', '主管机构')}</th>
+              </tr>
+            </thead>
+            <tbody>
+              {unique
+                .filter((r) => r.trigger === g)
+                .map((r) => (
+                  <tr data-within={r.withinDays ?? ''} data-trigger={r.trigger}>
+                    <td>
+                      <a href={r.href}>{r.what}</a>
+                      {r.statute && <span class="stat">{r.statute}</span>}
+                      {r.consequence && <span class="cons">⚠ {r.consequence}</span>}
+                    </td>
+                    <td class="deadline">{r.due}</td>
+                    <td class="due-col computed">—</td>
+                    <td class="auth">{r.authority}</td>
+                  </tr>
+                ))}
+            </tbody>
+          </table>
+        </div>
+      </div>
+    ))
+  }
+
+  <p class="note">
+    {L(
+      'Setiap kewajipan di sini diambil terus daripada artikel yang menerangkannya — klik untuk butiran penuh. Ini panduan umum, bukan nasihat profesional.',
+      'Every obligation here is pulled directly from the article that explains it — click through for the full detail. This is general guidance, not professional advice.',
+      '此处每项义务均直接取自解释它的文章——点击查看完整说明。本内容为一般指引，非专业意见。',
+    )}
+  </p>
+</section>
+
+<script>
+  const input = document.getElementById('inc') as HTMLInputElement | null;
+  const clear = document.getElementById('clear');
+  const KEY = 'negaraku:incorporation-date';
+
+  const fmt = (d: Date) =>
+    d.toLocaleDateString(document.documentElement.lang || 'en', {
+      day: 'numeric',
+      month: 'short',
+      year: 'numeric',
+    });
+
+  function paint(value: string) {
+    const base = value ? new Date(value) : null;
+    document.querySelectorAll<HTMLTableRowElement>('tr[data-trigger]').forEach((tr) => {
+      const cell = tr.querySelector<HTMLElement>('.computed');
+      if (!cell) return;
+      const within = tr.dataset.within ? Number(tr.dataset.within) : null;
+      if (!base || within === null || Number.isNaN(base.getTime())) {
+        cell.textContent = '—';
+        cell.removeAttribute('data-soon');
+        return;
+      }
+      const due = new Date(base);
+      // Anniversary duties recur — show the next one that hasn't passed.
+      if (tr.dataset.trigger === 'anniversary') {
+        const now = new Date();
+        due.setFullYear(base.getFullYear());
+        while (due < now) due.setFullYear(due.getFullYear() + 1);
+      }
+      due.setDate(due.getDate() + within);
+      cell.textContent = fmt(due);
+      const days = Math.ceil((due.getTime() - Date.now()) / 86400000);
+      cell.dataset.soon = days < 0 ? 'past' : days <= 30 ? 'soon' : 'ok';
+    });
+  }
+
+  input?.addEventListener('change', () => {
+    try { localStorage.setItem(KEY, input.value); } catch {}
+    paint(input.value);
+  });
+  clear?.addEventListener('click', () => {
+    if (!input) return;
+    input.value = '';
+    try { localStorage.removeItem(KEY); } catch {}
+    paint('');
+  });
+
+  try {
+    const saved = localStorage.getItem(KEY);
+    if (saved && input) { input.value = saved; paint(saved); }
+  } catch {}
+</script>
+
+<style>
+  .eyebrow { font-size: 0.72rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); font-weight: 700; margin: 0 0 0.4rem; }
+  h1 { margin: 0 0 0.5rem; }
+  .lede { color: var(--ink-soft); max-width: 62ch; margin: 0 0 1.6rem; }
+
+  .datebar {
+    display: flex; align-items: center; gap: 0.7rem; flex-wrap: wrap;
+    background: var(--surface); border: 1px solid var(--line);
+    border-left: 3px solid var(--gold); border-radius: 12px;
+    padding: 0.9rem 1.1rem; margin-bottom: 2rem;
+  }
+  .datebar label { font-family: var(--font-title); font-weight: 700; font-size: 0.92rem; }
+  .datebar input {
+    background: var(--surface-2); border: 1px solid var(--line); border-radius: 8px;
+    color: var(--ink); font: inherit; padding: 0.35rem 0.6rem;
+  }
+  .datebar input:focus { outline: none; border-color: var(--gold); }
+  .datebar button {
+    background: transparent; border: 1px solid var(--line); border-radius: 999px;
+    color: var(--ink-soft); font: inherit; font-size: 0.82rem; padding: 0.3rem 0.75rem; cursor: pointer;
+  }
+  .datebar button:hover { border-color: var(--gold); color: var(--ink); }
+
+  .group { margin-bottom: 2rem; }
+  .group h2 { font-size: 1.15rem; margin: 0 0 0.7rem; }
+  .tblwrap { overflow-x: auto; border: 1px solid var(--line); border-radius: 12px; background: var(--surface); }
+  /* Fixed layout, or the browser hands most of the width to whichever column has
+     the longest unbroken run of text — which was starving the obligation column
+     (the one people actually read) down to ~130px. Below the min-width the
+     wrapper scrolls instead of crushing columns further. */
+  table { width: 100%; min-width: 720px; table-layout: fixed; border-collapse: collapse; font-size: 0.88rem; }
+  col.c-duty { width: 46%; }
+  col.c-due { width: 26%; }
+  col.c-your { width: 14%; }
+  col.c-auth { width: 14%; }
+  th, td { text-align: left; padding: 0.65rem 0.85rem; border-bottom: 1px solid var(--line); vertical-align: top; }
+  tr:last-child td { border-bottom: 0; }
+  th { color: var(--muted); font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.07em; font-weight: 800; background: var(--surface-2); }
+  td a { color: var(--ink); text-decoration: none; font-weight: 600; }
+  td a:hover { color: var(--gold); }
+  .stat { display: block; color: var(--muted); font-size: 0.76rem; margin-top: 0.15rem; }
+  .cons { display: block; color: #fbbf24; font-size: 0.76rem; margin-top: 0.2rem; }
+  /* Deadlines are prose ("within 3 months from the date of commencement of
+     operations, where the first basis period is not less than 6 months"), not
+     short dates — nowrap made this the widest column on the page. */
+  .deadline { color: var(--ink-soft); }
+  .auth { color: var(--ink-soft); }
+  .computed { font-variant-numeric: tabular-nums; white-space: nowrap; color: var(--muted); }
+  .computed[data-soon='ok'] { color: #4ade80; font-weight: 700; }
+  .computed[data-soon='soon'] { color: #fbbf24; font-weight: 700; }
+  .computed[data-soon='past'] { color: #f87171; font-weight: 700; }
+  .note { color: var(--muted); font-size: 0.83rem; max-width: 68ch; }
+</style>

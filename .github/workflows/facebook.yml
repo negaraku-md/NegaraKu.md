@@ -1,0 +1,53 @@
+name: Post new articles to Facebook
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'knowledge/**/*.md'
+  workflow_dispatch:
+    inputs:
+      files:
+        description: 'Space-separated knowledge/*.md paths to post (manual run)'
+        required: false
+
+permissions:
+  contents: read
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2 # need the previous commit to diff added files
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+
+      - name: Determine newly added articles
+        id: added
+        run: |
+          if [ -n "${{ github.event.inputs.files }}" ]; then
+            FILES="${{ github.event.inputs.files }}"
+          else
+            BEFORE='${{ github.event.before }}'
+            if [ -z "$BEFORE" ] || [ "$BEFORE" = "0000000000000000000000000000000000000000" ]; then
+              BEFORE="$(git rev-parse HEAD~1 2>/dev/null || echo HEAD)"
+            fi
+            FILES="$(git diff --name-only --diff-filter=A "$BEFORE" "${{ github.sha }}" -- 'knowledge/**/*.md' | tr '\n' ' ')"
+          fi
+          echo "files=$FILES" >> "$GITHUB_OUTPUT"
+          echo "Added: $FILES"
+
+      - name: Post to Facebook
+        if: ${{ steps.added.outputs.files != '' }}
+        env:
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+          SITE_URL: https://negaraku.md
+        run: node scripts/post-to-facebook.mjs ${{ steps.added.outputs.files }}

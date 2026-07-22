@@ -1,0 +1,16 @@
+---
+// Runs before first paint to apply the reader's saved theme + text size,
+// preventing a flash. Must stay inline (not bundled/deferred).
+---
+
+<script is:inline>
+  (function () {
+    try {
+      var d = document.documentElement;
+      var theme = localStorage.getItem('nk-theme');
+      if (theme === 'light' || theme === 'dark') d.setAttribute('data-theme', theme);
+      var size = localStorage.getItem('nk-text-size');
+      if (size === 'large' || size === 'xlarge') d.setAttribute('data-text-size', size);
+    } catch (e) {}
+  })();
+</script>

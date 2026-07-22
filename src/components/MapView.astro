@@ -1,0 +1,86 @@
+---
+import type { Locale } from '@/lib/categories';
+import { STATES } from '@/lib/states';
+import { articlesInCategory } from '@/lib/content';
+import { localePath } from '@/lib/i18n';
+
+interface Props {
+  locale: Locale;
+}
+const { locale } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+const stateArticles = await articlesInCategory('states', locale);
+const hasArticle = new Set(stateArticles.map((a) => a.data.slug));
+const linkFor = (slug: string) => localePath(`/states/${slug}`, locale);
+---
+
+<section class="container head">
+  <h1>{L('Peta Negeri', 'States Map', '州属地图')}</h1>
+  <p class="lead">{L('13 negeri dan 3 wilayah persekutuan. Klik untuk membaca. (Susun atur skema, bukan geografi tepat.)', '13 states and 3 federal territories. Click to read. (Schematic layout, not an exact projection.)', '13 个州与 3 个联邦直辖区。点击阅读。（示意布局，非精确投影。）')}</p>
+  <div class="legend">
+    <span><i class="dot on"></i> {L('Ada artikel', 'Has article', '有文章')}</span>
+    <span><i class="dot"></i> {L('Belum ditulis', 'Not written yet', '尚未撰写')}</span>
+  </div>
+</section>
+
+<section class="container">
+  <div class="cartogram">
+    {
+      STATES.map((s) => (
+        <a
+          class:list={['tile', { has: hasArticle.has(s.slug), ft: s.ft }]}
+          style={`grid-column:${s.col + 1};grid-row:${s.row + 1}`}
+          href={hasArticle.has(s.slug) ? linkFor(s.slug) : localePath('/contribute', locale)}
+          data-region={s.region}
+          title={s.name[locale]}
+        >
+          <span class="code">{s.code}</span>
+          <span class="nm">{s.name[locale]}</span>
+        </a>
+      ))
+    }
+    <div class="lbl semenanjung">{L('Semenanjung', 'Peninsula', '半岛')}</div>
+    <div class="lbl borneo">{L('Borneo', 'Borneo', '婆罗洲')}</div>
+  </div>
+</section>
+
+<style>
+  .head { padding-block: 2.5rem 1rem; }
+  .lead { color: var(--ink-soft); max-width: 62ch; }
+  .legend { display: flex; gap: 1.25rem; margin-top: 0.75rem; color: var(--muted); font-size: 0.85rem; }
+  .dot { display: inline-block; width: 10px; height: 10px; border-radius: 2px; background: var(--surface-2); border: 1px solid var(--line); vertical-align: middle; }
+  .dot.on { background: var(--gold); border-color: var(--gold); }
+  .cartogram {
+    display: grid;
+    grid-template-columns: repeat(7, minmax(0, 1fr));
+    grid-auto-rows: 64px;
+    gap: 8px;
+    max-width: 780px;
+    margin: 1rem auto 3rem;
+    position: relative;
+  }
+  .tile {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 2px;
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    background: var(--surface);
+    color: var(--ink-soft);
+    text-decoration: none;
+    padding: 4px 6px;
+    text-align: center;
+    transition: transform 0.12s, border-color 0.12s;
+  }
+  .tile:hover { transform: translateY(-2px); border-color: var(--gold); }
+  .tile.has { background: color-mix(in srgb, var(--gold) 14%, var(--surface)); border-color: color-mix(in srgb, var(--gold) 45%, var(--line)); }
+  .tile.ft { border-style: dashed; }
+  .code { font-family: var(--font-title); font-weight: 800; font-size: 0.85rem; color: var(--gold); }
+  .nm { font-size: 0.62rem; line-height: 1.1; color: var(--ink-soft); }
+  .lbl { align-self: end; font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); }
+  .lbl.semenanjung { grid-column: 1 / 4; grid-row: 7; }
+  .lbl.borneo { grid-column: 5 / 8; grid-row: 7; }
+  @media (max-width: 560px) { .cartogram { grid-auto-rows: 52px; } .nm { display: none; } }
+</style>

@@ -1,0 +1,16 @@
+# Reviewers authorised to sign off negaraku.md content.
+#
+# A named reviewer on an article renders a green "Human-reviewed" badge to every
+# visitor. That badge is the foundation of the site's trust model, so the name
+# behind it has to be a real person who actually read the article and stands
+# behind it.
+#
+# One name per line, exactly as it should appear in an article's `reviewer:`
+# field. Any reviewer name not listed here is an ERROR in `npm run health`.
+#
+# This list is intentionally EMPTY: no reviewer has been onboarded yet, so no
+# article may currently claim human review. AI drafts stay `status: draft`,
+# `reviewer: null`, and the badge says so honestly.
+#
+# Sensitive content (3R+1: race, religion, royalty, constitution) can never be
+# published without a name from this list.

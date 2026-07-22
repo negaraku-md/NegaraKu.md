@@ -1,0 +1,70 @@
+---
+import type { Locale, Pillar } from '@/lib/categories';
+import { CATEGORIES, categoriesInPillar } from '@/lib/categories';
+import { localePath } from '@/lib/i18n';
+
+interface Props {
+  locale: Locale;
+  counts?: Record<string, number>;
+  /** Limit the grid to one pillar's categories. */
+  pillar?: Pillar;
+}
+const { locale, counts = {}, pillar } = Astro.props;
+const cats = pillar
+  ? categoriesInPillar(pillar)
+  : CATEGORIES.filter((c) => c.id !== 'about');
+---
+
+<div class="grid cat-grid">
+  {
+    cats.map((c) => (
+      <a class="card cat-card" href={localePath(`/${c.id}`, locale)}>
+        <span class="icon" aria-hidden="true">{c.icon}</span>
+        <span class="body">
+          <span class="name">
+            {c.name[locale]}
+            {counts[c.id] ? <span class="count">{counts[c.id]}</span> : null}
+          </span>
+          <span class="blurb">{c.blurb[locale]}</span>
+        </span>
+      </a>
+    ))
+  }
+</div>
+
+<style>
+  .cat-card {
+    display: flex;
+    gap: 0.85rem;
+    align-items: flex-start;
+  }
+  .icon {
+    font-size: 1.6rem;
+    line-height: 1;
+  }
+  .body {
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+  }
+  .name {
+    font-family: var(--font-serif);
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+  }
+  .count {
+    font-family: var(--font-sans);
+    font-size: 0.7rem;
+    font-weight: 700;
+    color: var(--gold);
+    background: color-mix(in srgb, var(--gold) 12%, var(--surface-2));
+    border-radius: 999px;
+    padding: 0.05rem 0.45rem;
+  }
+  .blurb {
+    color: var(--ink-soft);
+    font-size: 0.9rem;
+  }
+</style>

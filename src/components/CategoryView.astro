@@ -1,0 +1,186 @@
+---
+import type { Locale, Category } from '@/lib/categories';
+import { getArchetype, getPillar, getPillarDef, categoriesInPillar } from '@/lib/categories';
+import type { Article } from '@/lib/content';
+import { localePath } from '@/lib/i18n';
+
+import ServiceCategory from './category/ServiceCategory.astro';
+import NarrativeCategory from './category/NarrativeCategory.astro';
+import PlaceCategory from './category/PlaceCategory.astro';
+import ReferenceCategory from './category/ReferenceCategory.astro';
+import LookupCategory from './category/LookupCategory.astro';
+import DataCategory from './category/DataCategory.astro';
+
+// Category pages share one skeleton — purpose line, scoped search, then an
+// ARCHETYPE BODY that changes with the kind of knowledge the category holds.
+// Readers learn the pattern once; only the middle differs.
+
+interface Props {
+  locale: Locale;
+  category: Category;
+  articles: Article[];
+}
+const { locale, category, articles } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+const arch = getArchetype(category.archetype)!;
+const pillar = getPillar(category.id);
+const pillarDef = pillar ? getPillarDef(pillar) : undefined;
+const siblingCats = pillar ? categoriesInPillar(pillar).filter((c) => c.id !== category.id) : [];
+
+const Body = {
+  service: ServiceCategory,
+  narrative: NarrativeCategory,
+  place: PlaceCategory,
+  reference: ReferenceCategory,
+  lookup: LookupCategory,
+  data: DataCategory,
+}[category.archetype];
+---
+
+<section class="container block cat-hero">
+  <p class="crumb">
+    <a href={localePath('/', locale)}>{L('Laman Utama', 'Home', '首页')}</a> /
+    {pillarDef && (
+      <>
+        <a href={localePath(`/${pillar}`, locale)}>{pillarDef.name[locale]}</a> {' / '}
+      </>
+    )}
+    <span>{category.name[locale]}</span>
+  </p>
+  <div class="row">
+    <span class="chip gold">{arch.icon} {arch.name[locale]}</span>
+    <span class="chip">{articles.length} {L('artikel', 'articles', '篇')}</span>
+  </div>
+  <h1>{category.icon} {category.name[locale]}</h1>
+  <p class="lede">{category.blurb[locale]}</p>
+
+  <form class="csearch" action={localePath('/search', locale)} method="get" role="search">
+    <span aria-hidden="true">🔍</span>
+    <input
+      type="search"
+      name="q"
+      placeholder={L(
+        `Tanya tentang ${category.name.ms}…`,
+        `Ask anything about ${category.name.en}…`,
+        `搜索${category.name.zh}…`,
+      )}
+      aria-label={L('Cari dalam kategori ini', 'Search in this category', '在此分类中搜索')}
+    />
+  </form>
+
+  {
+    siblingCats.length > 0 && pillarDef && (
+      <nav class="sib" aria-label={L('Kategori lain', 'Other categories', '其他分类')}>
+        <span class="sib-lbl">
+          {L('Lagi dalam', 'More in', '更多：')} {pillarDef.name[locale]}:
+        </span>
+        {siblingCats.map((c) => (
+          <a class="sib-chip" href={localePath(`/${c.id}`, locale)}>
+            {c.icon} {c.name[locale]}
+          </a>
+        ))}
+      </nav>
+    )
+  }
+</section>
+
+<Body locale={locale} category={category} articles={articles} />
+
+<style>
+  .cat-hero {
+    padding-top: 2.2rem;
+  }
+  .crumb {
+    font-size: 0.84rem;
+    color: var(--muted);
+    margin: 0 0 0.6rem;
+  }
+  .crumb a {
+    color: var(--muted);
+    text-decoration: none;
+  }
+  .crumb a:hover {
+    color: var(--gold);
+  }
+  .crumb span {
+    color: var(--ink-soft);
+  }
+  .row {
+    display: flex;
+    gap: 0.4rem;
+    flex-wrap: wrap;
+    margin-bottom: 0.7rem;
+  }
+  .chip {
+    font-size: 0.7rem;
+    font-weight: 700;
+    border-radius: 999px;
+    padding: 0.14rem 0.6rem;
+    border: 1px solid var(--line);
+    background: var(--surface-2);
+    color: var(--ink-soft);
+  }
+  .chip.gold {
+    color: var(--gold);
+    border-color: color-mix(in srgb, var(--gold) 40%, transparent);
+    background: color-mix(in srgb, var(--gold) 10%, transparent);
+  }
+  h1 {
+    margin: 0 0 0.4rem;
+  }
+  .lede {
+    color: var(--ink-soft);
+    max-width: 62ch;
+    margin: 0;
+  }
+  .csearch {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    max-width: 34rem;
+    margin-top: 1.3rem;
+    background: var(--surface-2);
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    padding: 0.62rem 1.1rem;
+  }
+  .csearch input {
+    flex: 1;
+    background: none;
+    border: 0;
+    color: var(--ink);
+    font: inherit;
+    font-size: 0.95rem;
+    outline: none;
+  }
+  .csearch:focus-within {
+    border-color: var(--gold);
+  }
+  .sib {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-top: 1.1rem;
+  }
+  .sib-lbl {
+    font-size: 0.8rem;
+    color: var(--muted);
+    font-weight: 700;
+  }
+  .sib-chip {
+    font-size: 0.82rem;
+    color: var(--ink-soft);
+    text-decoration: none;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    padding: 0.3rem 0.75rem;
+    background: var(--surface);
+    transition: border-color 0.15s;
+  }
+  .sib-chip:hover {
+    border-color: color-mix(in srgb, var(--gold) 55%, var(--line));
+    color: var(--ink);
+  }
+</style>

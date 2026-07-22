@@ -1,0 +1,102 @@
+---
+import type { Locale } from '@/lib/categories';
+import { getCategory, CATEGORIES } from '@/lib/categories';
+import { articlesForLocale, readingTime } from '@/lib/content';
+import { localePath } from '@/lib/i18n';
+
+interface Props {
+  locale: Locale;
+}
+const { locale } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+const items = await articlesForLocale(locale);
+const counts: Record<string, number> = {};
+for (const a of items) counts[a.data.category] = (counts[a.data.category] ?? 0) + 1;
+
+// Group by updated date (reverse chron).
+const byDate = new Map<string, typeof items>();
+for (const a of items) {
+  const date = a.data.updated.toISOString().slice(0, 10);
+  if (!byDate.has(date)) byDate.set(date, []);
+  byDate.get(date)!.push(a);
+}
+const days = [...byDate.entries()].sort((a, b) => (a[0] < b[0] ? 1 : -1));
+const cats = CATEGORIES.filter((c) => counts[c.id]);
+---
+
+<section class="container head">
+  <h1>{L('Terkini', 'Latest', '最新')}</h1>
+  <p class="lead">{items.length} {L('artikel disusun mengikut tarikh kemas kini', 'articles by last-updated date', '篇文章按更新日期排列')}</p>
+</section>
+
+<section class="container">
+  <div class="filters" role="group" aria-label="Filter">
+    <button type="button" class="fbtn active" data-cat="all">{L('Semua', 'All', '全部')} <b>{items.length}</b></button>
+    {cats.map((c) => (
+      <button type="button" class="fbtn" data-cat={c.id}>{c.icon} {c.name[locale]} <b>{counts[c.id]}</b></button>
+    ))}
+  </div>
+
+  <div class="days">
+    {
+      days.map(([date, arts]) => (
+        <div class="day" data-cats={arts.map((a) => a.data.category).join(' ')}>
+          <h2>{date}</h2>
+          <ul>
+            {arts.map((a) => (
+              <li data-cat={a.data.category}>
+                <a href={localePath(`/${a.data.category}/${a.data.slug}`, locale)}>
+                  <span class="li-cat">{getCategory(a.data.category)?.icon} {getCategory(a.data.category)?.name[locale]}</span>
+                  <span class="li-title">{a.data.title}</span>
+                  <span class="li-sum">{a.data.summary}</span>
+                  <span class="li-meta">⏱️ {readingTime(a)} {L('min', 'min', '分钟')}</span>
+                </a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      ))
+    }
+  </div>
+</section>
+
+<script>
+  const btns = Array.from(document.querySelectorAll<HTMLButtonElement>('.fbtn'));
+  const items = Array.from(document.querySelectorAll<HTMLElement>('.day li'));
+  const days = Array.from(document.querySelectorAll<HTMLElement>('.day'));
+  btns.forEach((b) =>
+    b.addEventListener('click', () => {
+      btns.forEach((x) => x.classList.remove('active'));
+      b.classList.add('active');
+      const cat = b.dataset.cat;
+      items.forEach((li) => {
+        li.style.display = cat === 'all' || li.dataset.cat === cat ? '' : 'none';
+      });
+      // Hide day groups that have no visible items.
+      days.forEach((d) => {
+        const anyVisible = Array.from(d.querySelectorAll<HTMLElement>('li')).some((li) => li.style.display !== 'none');
+        d.style.display = anyVisible ? '' : 'none';
+      });
+    }),
+  );
+</script>
+
+<style>
+  .head { padding-block: 2.5rem 1rem; }
+  .lead { color: var(--ink-soft); }
+  .filters { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-bottom: 1.5rem; }
+  .fbtn { font-family: var(--font-interface); font-size: 0.82rem; font-weight: 600; border: 1px solid var(--line); background: var(--surface); color: var(--ink-soft); border-radius: 999px; padding: 0.3rem 0.7rem; cursor: pointer; }
+  .fbtn b { color: var(--muted); font-weight: 700; }
+  .fbtn.active { background: var(--gold); color: #000; border-color: var(--gold); }
+  .fbtn.active b { color: #000; }
+  .day { margin-bottom: 1.75rem; }
+  .day h2 { font-size: 1rem; color: var(--muted); border-bottom: 1px solid var(--line); padding-bottom: 0.35rem; }
+  .day ul { list-style: none; padding: 0; margin: 0.75rem 0 0; display: grid; gap: 0.75rem; }
+  .day a { display: grid; gap: 0.15rem; text-decoration: none; border: 1px solid var(--line); border-left: 2px solid var(--gold); border-radius: 10px; padding: 0.8rem 1rem; color: inherit; }
+  .day a:hover { background: var(--surface); }
+  .li-cat { font-size: 0.75rem; color: var(--muted); font-weight: 600; }
+  .li-title { font-family: var(--font-title); font-weight: 700; font-size: 1.05rem; }
+  .li-sum { color: var(--ink-soft); font-size: 0.92rem; }
+  .li-meta { color: var(--muted); font-size: 0.8rem; }
+</style>
