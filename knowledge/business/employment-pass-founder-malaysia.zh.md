@@ -66,9 +66,11 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "55c7c72a565b9b9a"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-07-22
+reviewDue: 2027-07-22
 version: "0.2"
 revisions:
   - version: "0.1"

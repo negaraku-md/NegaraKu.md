@@ -41,10 +41,11 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "5e1dbba3146e2529"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
-reviewDue: 2027-01-31
+reviewer: "ashton-tan"
+reviewed: 2026-07-22
+reviewDue: 2027-07-22
 version: "0.3"
 sensitivity: "none"
 revisions:
