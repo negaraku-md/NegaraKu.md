@@ -49,7 +49,12 @@ const fmt = (dt: Date | null | undefined) =>
 // so the timeline is populated on every article without a per-file backfill.
 const isReviewed = d.status === 'reviewed' || d.status === 'published';
 const isPublished = d.status === 'published';
-const draftBy = d.author ?? (d.aiAssisted ? L('Dibantu AI', 'AI-assisted', 'AI 辅助') : L('Manusia', 'Human', '人工'));
+// AI-drafted pages disclose "AI-assisted" (the honest provenance); only when a
+// human actually wrote it do we credit the `author` name. The schema's generic
+// "NegaraKu.md Editorial" default must not masquerade as a human author here.
+const draftBy = d.aiAssisted
+  ? L('Dibantu AI', 'AI-assisted', 'AI 辅助')
+  : (d.author ?? L('Manusia', 'Human', '人工'));
 const lifecycle = [
   {
     key: 'drafted',
@@ -73,6 +78,22 @@ const lifecycle = [
     done: isPublished,
   },
 ];
+
+// Section-header icons. All monochrome (stroke: currentColor → the muted header
+// colour), so they aid scanning without spending any of the semantic palette.
+const svg = (inner: string) =>
+  `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${inner}</svg>`;
+const ICON = {
+  answer: svg('<polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/>'),
+  explanation: svg('<path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/>'),
+  faq: svg('<circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><line x1="12" y1="17" x2="12.01" y2="17"/>'),
+  sponsored: svg('<polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/>'),
+  sources: svg('<path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/>'),
+  related: svg('<path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/>'),
+  toc: svg('<line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/><line x1="8" y1="18" x2="21" y2="18"/><line x1="3" y1="6" x2="3.01" y2="6"/><line x1="3" y1="12" x2="3.01" y2="12"/><line x1="3" y1="18" x2="3.01" y2="18"/>'),
+  trust: svg('<path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><path d="M9 12l2 2 4-4"/>'),
+  edit: svg('<polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/>'),
+};
 
 const toc = headings.filter((h) => h.depth === 2);
 
@@ -158,7 +179,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
         d.answer && (
           <section class="layer l1">
             <header>
-              <span>{L('Jawapan pantas', '30-second answer', '30秒速答')}</span>
+              <span class="sec-h"><span class="ico" set:html={ICON.answer} />{L('Jawapan pantas', '30-second answer', '30秒速答')}</span>
               <span>
                 {L('Disemak', 'Reviewed', '审阅于')} {fmt(d.reviewed)}
               </span>
@@ -197,7 +218,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
 
       <section class="layer">
         <header>
-          <span>{L('Penjelasan penuh', 'Full explanation', '完整说明')}</span>
+          <span class="sec-h"><span class="ico" set:html={ICON.explanation} />{L('Penjelasan penuh', 'Full explanation', '完整说明')}</span>
           <span>≈{mins} {L('min', 'min', '分钟')}</span>
         </header>
         <div class="lb prose"><Content /></div>
@@ -207,7 +228,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
         d.faq.length > 0 && (
           <section class="layer">
             <header>
-              <span>{L('Soalan lazim', 'Frequently asked', '常见问题')}</span>
+              <span class="sec-h"><span class="ico" set:html={ICON.faq} />{L('Soalan lazim', 'Frequently asked', '常见问题')}</span>
               <span>{d.faq.length}</span>
             </header>
             <div class="lb faqs">
@@ -231,7 +252,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
            sensitive content. */
         isBusiness && !sensitive && (
           <aside class="cta">
-            <header><span>{L('Ditaja', 'Sponsored', '赞助')}</span></header>
+            <header><span class="sec-h"><span class="ico" set:html={ICON.sponsored} />{L('Ditaja', 'Sponsored', '赞助')}</span></header>
             <div class="cta-body">
               <b>{L('Perlukan bantuan profesional?', 'Need professional help?', '需要专业协助？')}</b>
               <p>
@@ -251,7 +272,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
 
       <section class="layer">
         <header>
-          <span>{L('Sumber & sejarah', 'Sources & history', '来源与历史')}</span>
+          <span class="sec-h"><span class="ico" set:html={ICON.sources} />{L('Sumber & sejarah', 'Sources & history', '来源与历史')}</span>
           <span>{d.sources.length} {L('sumber', 'sources', '来源')}</span>
         </header>
         <div class="lb">
@@ -362,7 +383,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
       {
         related.length > 0 && (
           <section class="rel">
-            <header><span>{L('Pengetahuan berkaitan', 'Related knowledge', '相关知识')}</span></header>
+            <header><span class="sec-h"><span class="ico" set:html={ICON.related} />{L('Pengetahuan berkaitan', 'Related knowledge', '相关知识')}</span></header>
             <div class="rel-body">
               <div class="rgrid">
                 {related.map((r) => (
@@ -391,7 +412,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
       {
         toc.length > 0 && (
           <nav class="toc">
-            <b>{L('Dalam halaman ini', 'On this page', '本页内容')}</b>
+            <b><span class="ico" set:html={ICON.toc} />{L('Dalam halaman ini', 'On this page', '本页内容')}</b>
             {toc.map((h) => (
               <a href={`#${h.slug}`}>{h.text}</a>
             ))}
@@ -400,7 +421,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
       }
 
       <div class="trust">
-        <b>{L('Kepercayaan & asal usul', 'Trust & provenance', '可信度与来源')}</b>
+        <b><span class="ico" set:html={ICON.trust} />{L('Kepercayaan & asal usul', 'Trust & provenance', '可信度与来源')}</b>
         <div class="r r-status">
           <span>{L('Status', 'Status', '状态')}</span>
           <TrustBadge locale={locale} status={d.status} compact />
@@ -437,7 +458,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
       </div>
 
       <div class="side-box">
-        <b>{L('Sunting & sumber', 'Edit & source', '编辑与源码')}</b>
+        <b><span class="ico" set:html={ICON.edit} />{L('Sunting & sumber', 'Edit & source', '编辑与源码')}</b>
         <a class="edit" href={`${REPO}/blob/main/knowledge/${d.category}/${d.slug}.md`} rel="noopener">
           {L('Sunting di GitHub', 'Edit on GitHub', '在 GitHub 编辑')} ↗
         </a>
@@ -491,6 +512,10 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
     text-transform: uppercase; color: var(--muted); background: var(--surface-2);
     border-bottom: 1px solid var(--line);
   }
+  /* Section-header label + leading icon. Monochrome, inherits header colour. */
+  .sec-h { display: inline-flex; align-items: center; gap: 0.42rem; }
+  .ico { display: inline-flex; flex: none; }
+  .ico :global(svg) { width: 13px; height: 13px; opacity: 0.75; }
   .layer .lb { padding: 1.1rem; }
   .l1 { border-color: color-mix(in srgb, var(--gold) 42%, transparent); }
   .l1 > header { color: var(--gold); background: color-mix(in srgb, var(--gold) 9%, transparent); }
@@ -598,7 +623,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
   }
   .trust { font-size: 0.82rem; }
   .toc b, .trust b, .side-box b {
-    display: block; margin: 0;
+    display: flex; align-items: center; gap: 0.42rem; margin: 0;
     padding: 0.45rem 0.95rem;
     font-size: 0.67rem; font-weight: 800; letter-spacing: 0.1em; text-transform: uppercase;
     color: var(--muted); background: var(--surface-2);
