@@ -53,22 +53,64 @@ const tierColor = (s: number) =>
   <div>
     <h2>{L('Liputan terjemahan', 'Translation coverage', '翻译覆盖率')}</h2>
     {
-      Object.entries(d.perLangCoverage).map(([lang, c]) => (
-        <div class="bar-row">
-          <span class="bl">
-            {lang.toUpperCase()}
-            {c.master && <em class="master">{L('induk', 'master', '主语言')}</em>}
-          </span>
-          <span class="track"><span class={`fill${c.master ? ' is-master' : ''}`} style={`width:${c.pct}%`} /></span>
-          <span class="bv">
-            {c.master ? L('sumber', 'source', '源文') : `${c.pct}%`} ({c.have}/{c.total})
-          </span>
-        </div>
-      ))
+      Object.entries(d.perLangCoverage).map(([lang, c]) => {
+        const sourceOnly = c.target === 0 && c.source > 0;
+        return (
+          <div class="bar-row">
+            <span class="bl">
+              {lang.toUpperCase()}
+              {c.source > 0 && (
+                <em class="master">
+                  {sourceOnly
+                    ? L('induk', 'master', '主语言')
+                    : L(`${c.source} induk`, `${c.source} master`, `${c.source} 主语言`)}
+                </em>
+              )}
+            </span>
+            <span class="track">
+              <span
+                class={`fill${sourceOnly ? ' is-master' : ''}`}
+                style={`width:${sourceOnly ? 100 : c.pct}%`}
+              />
+            </span>
+            <span class="bv">
+              {sourceOnly
+                ? `${L('sumber', 'source', '源文')} (${c.source})`
+                : `${c.pct}% (${c.translated}/${c.target})`}
+            </span>
+          </div>
+        );
+      })
     }
-    <h2 style="margin-top:2rem">{L('Status kandungan', 'Content status', '内容状态')}</h2>
-    <div class="chips">
-      {Object.entries(d.statusDist).map(([s, n]) => <span class="badge" data-status={s}>{t(`status.${s}`, locale)}: {n}</span>)}
+    <h2 style="margin-top:2rem">{L('Kitaran hayat mengikut bahasa', 'Lifecycle by language', '各语言生命周期')}</h2>
+    <p class="hint">
+      {L(
+        'Setiap artikel — dalam mana-mana bahasa induknya — bergerak melalui kitaran hayatnya sendiri.',
+        'Each article — in whatever its master language — moves through its own lifecycle.',
+        '每篇文章（无论其主语言为何）都各自经历自己的生命周期。',
+      )}
+    </p>
+    <div class="tblwrap">
+      <table class="matrix">
+        <thead>
+          <tr>
+            <th>{L('Bahasa', 'Language', '语言')}</th>
+            {d.lifecycle.map((s) => <th>{t(`status.${s}`, locale)}</th>)}
+            <th>{L('Jumlah', 'Total', '合计')}</th>
+          </tr>
+        </thead>
+        <tbody>
+          {Object.entries(d.statusByLang).map(([lang, row]) => (
+            <tr>
+              <th class="lang">{lang.toUpperCase()}</th>
+              {d.lifecycle.map((s) => (
+                <td class={row[s] ? '' : 'zero'} data-status={s}>{row[s]}</td>
+              ))}
+              <td class="tot">{row.total}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
     </div>
   </div>
   <div>
@@ -153,6 +195,23 @@ const tierColor = (s: number) =>
      reads differently from a real coverage bar. */
   .fill.is-master { background: color-mix(in srgb, var(--gold) 40%, var(--surface-2)); }
   .bv { font-size: 0.8rem; color: var(--muted); }
+
+  .hint { font-size: 0.8rem; color: var(--muted); margin: 0 0 0.7rem; }
+  .tblwrap { overflow-x: auto; }
+  .matrix { width: 100%; border-collapse: collapse; font-size: 0.85rem; }
+  .matrix th, .matrix td { padding: 0.4rem 0.6rem; text-align: right; white-space: nowrap; }
+  .matrix thead th { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--muted); border-bottom: 1px solid var(--line); }
+  .matrix thead th:first-child, .matrix tbody th.lang { text-align: left; }
+  .matrix tbody th.lang { font-weight: 800; color: var(--ink); }
+  .matrix tbody tr:not(:last-child) td, .matrix tbody tr:not(:last-child) th { border-bottom: 1px dashed var(--line); }
+  .matrix td { font-variant-numeric: tabular-nums; color: var(--ink); }
+  .matrix td.zero { color: color-mix(in srgb, var(--muted) 55%, transparent); }
+  .matrix td.tot { font-weight: 800; }
+  .matrix td[data-status='published'] { color: #4ade80; }
+  .matrix td[data-status='reviewed'] { color: #4ade80; }
+  .matrix td[data-status='in-review'] { color: #60a5fa; }
+  .matrix td[data-status='draft'] { color: #fbbf24; }
+  .matrix td.zero[data-status] { color: color-mix(in srgb, var(--muted) 55%, transparent); }
   .chips { display: flex; flex-wrap: wrap; gap: 0.4rem; }
   .commits { list-style: none; padding: 0; margin: 0; font-size: 0.9rem; }
   .commits li { padding: 0.4rem 0; border-bottom: 1px solid var(--line); }

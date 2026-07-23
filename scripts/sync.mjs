@@ -91,6 +91,9 @@ async function main() {
       category: data.category ?? folder,
       subcategory: data.subcategory ?? [],
       lang: data.lang ?? 'ms',
+      // Master/source language is declared per article (a translation points
+      // back to its source), so downstream never assumes a single site master.
+      masterLanguage: data.masterLanguage ?? data.lang ?? 'ms',
       slug: data.slug ?? null,
       summary: data.summary ?? '',
       status: data.status ?? 'draft',

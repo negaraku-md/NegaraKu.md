@@ -46,18 +46,17 @@ async function main() {
   const base = [...canonical.values()];
   const total = base.length;
 
-  // Which language is the master/source? The one present for the most topics.
-  // Translation coverage is measured against the OTHER locales — the master is
-  // the source, so counting it as a 100% "translation" would flatter the number
-  // and hide that a locale (e.g. ms) may have no content at all.
-  const langHave = {};
-  for (const l of SITE_LANGS) {
-    let has = 0;
-    for (const key of canonical.keys()) if (langsByKey.get(key)?.has(l)) has++;
-    langHave[l] = has;
+  // Master/source language is declared PER ARTICLE (a translation names its own
+  // source), so we never assume one site-wide master. Each topic's master decides
+  // what counts as "source" vs. a translation slot that still needs filling.
+  const masterByKey = new Map();
+  for (const a of articles) {
+    // Prefer the master file itself (lang === masterLanguage); otherwise any
+    // entry, since a topic's translations all declare the same master.
+    if (!masterByKey.has(a.key) || a.lang === a.masterLanguage) {
+      masterByKey.set(a.key, a.masterLanguage ?? a.lang);
+    }
   }
-  const MASTER_LANG = SITE_LANGS.reduce((m, l) => (langHave[l] > langHave[m] ? l : m), SITE_LANGS[0]);
-  const TARGET_LANGS = SITE_LANGS.filter((l) => l !== MASTER_LANG);
 
   const perCategory = {};
   let reviewed = 0;
@@ -78,12 +77,15 @@ async function main() {
     if (a.sources > 0) citedOk++;
   }
 
-  // Translation coverage: fraction of (article × target-lang) slots filled.
+  // Translation coverage: each topic needs a translation in every locale except
+  // its own master. The master (source) is not a translation slot.
   let slots = 0;
   let filled = 0;
   for (const key of canonical.keys()) {
     const langs = langsByKey.get(key);
-    for (const l of TARGET_LANGS) {
+    const master = masterByKey.get(key);
+    for (const l of SITE_LANGS) {
+      if (l === master) continue;
       slots++;
       if (langs.has(l)) filled++;
     }
@@ -120,16 +122,46 @@ async function main() {
     },
   };
 
-  // Show every locale the site serves — including the master (100%) and any
-  // locale with zero content — so the real gaps are visible, not hidden.
+  // Per locale, split topics into: source (this locale is the topic's master),
+  // translated (present but not the master) and still-needed. Coverage % is over
+  // topics that actually NEED this locale as a translation — never over the whole
+  // corpus, which would count source articles as free translations.
   const perLangCoverage = {};
   for (const l of SITE_LANGS) {
+    let source = 0;
+    let translated = 0;
+    for (const key of canonical.keys()) {
+      const isMaster = masterByKey.get(key) === l;
+      const present = langsByKey.get(key)?.has(l);
+      if (isMaster) source++;
+      else if (present) translated++;
+    }
+    const target = total - source; // topics that need this locale as a translation
     perLangCoverage[l] = {
-      have: langHave[l],
+      have: source + translated,
       total,
-      pct: pct(langHave[l], total),
-      master: l === MASTER_LANG,
+      source,
+      target,
+      translated,
+      pct: target ? pct(translated, target) : 100,
     };
+  }
+
+  // Two-dimensional lifecycle view: every article file has its OWN language and
+  // its OWN status, so a translation moves through draft → published on its own
+  // clock, independent of the master. Count files per (language × status) so the
+  // dashboard shows both dimensions instead of only the master's status.
+  const LIFECYCLE = ['draft', 'in-review', 'reviewed', 'published'];
+  const statusByLang = {};
+  for (const l of SITE_LANGS) {
+    statusByLang[l] = { total: 0 };
+    for (const s of LIFECYCLE) statusByLang[l][s] = 0;
+  }
+  for (const a of articles) {
+    const row = statusByLang[a.lang];
+    if (!row) continue;
+    row[a.status] = (row[a.status] ?? 0) + 1;
+    row.total++;
   }
 
   const dashboard = {
@@ -142,6 +174,8 @@ async function main() {
     },
     vitals,
     statusDist,
+    statusByLang,
+    lifecycle: LIFECYCLE,
     perCategory,
     perLangCoverage,
     registry: base
