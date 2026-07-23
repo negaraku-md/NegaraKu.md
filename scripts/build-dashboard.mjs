@@ -25,27 +25,6 @@ async function main() {
     (a) => !a.sensitivity || a.sensitivity === 'none' || (a.status === 'published' && a.reviewer),
   );
 
-  // One canonical article per key, plus per-language titles for the registry.
-  // Prefer the ms source, but fall back to whatever language exists — an
-  // English-only corpus is still a corpus. The old `lang === 'ms'` filter had
-  // no fallback, so once the corpus grew in English the dashboard silently
-  // reported zero articles, zero categories and an empty registry while
-  // `files` still counted 312.
-  const canonical = new Map();
-  const rank = (x) => (x.lang === 'ms' ? 2 : 1);
-  const langsByKey = new Map();
-  const titlesByKey = new Map();
-  for (const a of articles) {
-    if (!langsByKey.has(a.key)) langsByKey.set(a.key, new Set());
-    langsByKey.get(a.key).add(a.lang);
-    if (!titlesByKey.has(a.key)) titlesByKey.set(a.key, {});
-    titlesByKey.get(a.key)[a.lang] = a.title;
-    const prev = canonical.get(a.key);
-    if (!prev || rank(a) > rank(prev)) canonical.set(a.key, a);
-  }
-  const base = [...canonical.values()];
-  const total = base.length;
-
   // Master/source language is declared PER ARTICLE (a translation names its own
   // source), so we never assume one site-wide master. Each topic's master decides
   // what counts as "source" vs. a translation slot that still needs filling.
@@ -57,6 +36,28 @@ async function main() {
       masterByKey.set(a.key, a.masterLanguage ?? a.lang);
     }
   }
+
+  // One canonical article per key = the topic's MASTER (its authoritative version),
+  // plus per-language titles for the registry. Corpus-level stats (status,
+  // reviewed %, citations) must reflect the master, NOT a freshly-added draft
+  // translation. The old rule preferred `ms`, so the whole dashboard read as
+  // "mostly draft / 3% reviewed" the instant MS draft translations landed, even
+  // though every English master stayed published — the figures stopped tallying
+  // with the language×lifecycle matrix, which counts files as-is.
+  const canonical = new Map();
+  const langsByKey = new Map();
+  const titlesByKey = new Map();
+  for (const a of articles) {
+    if (!langsByKey.has(a.key)) langsByKey.set(a.key, new Set());
+    langsByKey.get(a.key).add(a.lang);
+    if (!titlesByKey.has(a.key)) titlesByKey.set(a.key, {});
+    titlesByKey.get(a.key)[a.lang] = a.title;
+    const prev = canonical.get(a.key);
+    const rank = (x) => (x.lang === (masterByKey.get(x.key) ?? 'ms') ? 2 : 1);
+    if (!prev || rank(a) > rank(prev)) canonical.set(a.key, a);
+  }
+  const base = [...canonical.values()];
+  const total = base.length;
 
   const perCategory = {};
   let reviewed = 0;
