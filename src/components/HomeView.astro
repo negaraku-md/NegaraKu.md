@@ -253,28 +253,34 @@ const vitalsList = Object.values(dash.vitals);
     text-align: center;
   }
   .hero-inner { display: flex; flex-direction: column; align-items: center; }
+  /* Hero typography matched to taiwan.md (same 118% root, so rem maps 1:1):
+     wordmark clamp(2rem,11vw,6rem)/lh1; subtitle 2.8rem/lh1.2; desc 1rem/lh1.75;
+     lead 1.3rem/lh1.8. Spacing: wordmark→subtitle 1.5rem, subtitle→body 2rem. */
   .wordmark {
     font-family: var(--font-title);
     font-weight: 900;
-    font-size: clamp(2.8rem, 11vw, 7rem);
-    letter-spacing: -0.04em;
-    line-height: 0.95;
-    margin: 0;
+    font-size: clamp(2rem, 11vw, 6rem);
+    letter-spacing: -0.025em;
+    line-height: 1;
+    margin: 0 0 1.5rem;
     color: var(--ink);
   }
   .wordmark .dot { color: var(--gold); }
   .tagline {
     font-family: var(--font-title);
     font-weight: 800;
-    font-size: clamp(1.4rem, 3.6vw, 2.2rem);
-    line-height: 1.15;
-    margin: 1.1rem 0 0.5rem;
+    font-size: clamp(1.6rem, 4.2vw, 2.8rem);
+    line-height: 1.2;
+    margin: 0 0 2rem;
     color: var(--ink);
     max-width: 22ch;
   }
-  .sub { font-size: 1.15rem; max-width: 48ch; margin: 0.15rem auto; line-height: 1.5; }
-  .sub1 { color: var(--muted); margin-top: 0.5rem; }
-  .sub2 { color: var(--ink); font-weight: 700; margin-bottom: 1.9rem; }
+  .sub { max-width: 48ch; margin: 0.15rem auto; }
+  .sub1 { font-size: 1rem; line-height: 1.75; font-weight: 400; color: var(--muted); }
+  .sub2 {
+    font-size: 1.3rem; line-height: 1.8; font-weight: 500;
+    letter-spacing: 0.02em; color: var(--ink); margin: 0.5rem auto 1.9rem;
+  }
   .hsearch {
     display: flex; align-items: center; gap: 0.6rem;
     width: 100%; max-width: 40rem; margin: 0 auto 1.4rem;
