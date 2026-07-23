@@ -34,6 +34,17 @@ const pillar = getPillar(d.category);
 const pillarDef = pillar ? getPillarDef(pillar) : undefined;
 const isBusiness = pillar === 'doing-business';
 const sensitive = d.sensitivity !== 'none';
+const SENS_LABEL: Record<string, string> = {
+  race: L('Kaum', 'Race', '种族'),
+  religion: L('Agama', 'Religion', '宗教'),
+  royalty: L('Institusi diraja', 'Royalty', '王室'),
+  constitution: L('Perlembagaan', 'Constitution', '宪法'),
+  elections: L('Pilihan raya', 'Elections', '选举'),
+  security: L('Keselamatan', 'Security', '安全'),
+  health: L('Kesihatan', 'Health', '健康'),
+  'legal-proceedings': L('Perundangan', 'Legal', '法律程序'),
+};
+const sensLabel = sensitive ? (SENS_LABEL[d.sensitivity] ?? L('Sensitif', 'Sensitive', '敏感')) : null;
 
 const fmt = (dt: Date | null | undefined) =>
   dt
@@ -104,9 +115,22 @@ const topicSlug = d.subcategory[0];
 const topicLabel = topicSlug ? subcatLabel(topicSlug, locale) : null;
 const topicHref = topicSlug ? localePath(`/${d.category}/topic/${topicSlug}`, locale) : null;
 let siblings: Article[] = [];
-if (topicSlug) {
+// Label + link for the pager's "More in …" header. Defaults to the topic;
+// falls back to the category when the article is alone in its topic.
+let groupLabel = topicLabel;
+let groupHref = topicHref;
+{
   const all = await articlesForLocale(locale);
-  siblings = all.filter((a) => a.data.category === d.category && a.data.subcategory.includes(topicSlug));
+  if (topicSlug) {
+    siblings = all.filter((a) => a.data.category === d.category && a.data.subcategory.includes(topicSlug));
+  }
+  // A lone article in its topic has no Prev/Next, leaving a dead-end page.
+  // Fall back to the parent category so every article still points onward.
+  if (siblings.length < 2) {
+    siblings = all.filter((a) => a.data.category === d.category);
+    groupLabel = cat?.name[locale] ?? d.category;
+    groupHref = localePath(`/${d.category}`, locale);
+  }
 }
 const sIdx = siblings.findIndex((a) => a.data.slug === d.slug);
 const prev = sIdx > 0 ? siblings[sIdx - 1] : null;
@@ -350,11 +374,11 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
       </section>
 
       {
-        topicSlug && (prev || next) && (
+        (prev || next) && (
           <section class="layer">
             <header>
-              <span>{L('Lagi dalam', 'More in', '更多内容：')} {topicLabel}</span>
-              <a class="more-topic" href={topicHref}>
+              <span>{L('Lagi dalam', 'More in', '更多内容：')} {groupLabel}</span>
+              <a class="more-topic" href={groupHref}>
                 {L('Lihat semua', 'View all', '查看全部')} {siblings.length} →
               </a>
             </header>
@@ -425,6 +449,16 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
         <div class="r r-status">
           <span>{L('Status', 'Status', '状态')}</span>
           <TrustBadge locale={locale} status={d.status} compact />
+        </div>
+        <div class="r r-sens">
+          <span>{L('Klasifikasi', 'Classification', '分类')}</span>
+          {
+            sensitive ? (
+              <span class="sens-tag">🔒 {sensLabel}</span>
+            ) : (
+              <span class="muted">{L('Umum', 'General', '一般')}</span>
+            )
+          }
         </div>
 
         <ol class="chain">
@@ -637,6 +671,8 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
   .trust .r-status { padding-top: 0.6rem; }
   .trust .r:last-child { border-bottom: 0; padding-bottom: 0.6rem; }
   .trust .r span:first-child { color: var(--muted); }
+  .trust .sens-tag { color: #f87171; font-weight: 700; }
+  .trust .r-sens .muted { color: var(--muted); }
 
   /* Chain of custody — Drafted → Reviewed → Published timeline. */
   .chain {
