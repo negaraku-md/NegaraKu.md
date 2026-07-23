@@ -19,9 +19,9 @@ keyTakeaways:
 appliesTo: "创办人、投资者，以及任何正在决定马来西亚商业架构的人。"
 
 lang: "zh"
-masterLanguage: "en"
+masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "7978442621dea6ab"
+sourceContentHash: "ba35930a62b0d001"
 
 status: "published"
 aiAssisted: true

@@ -4,33 +4,31 @@ title: "Sdn Bhd"
 slug: "sdn-bhd"
 category: "glossary"
 subcategory: ["corporate"]
-summary: "Sendirian Berhad — Malaysia's private limited company structure, the most common vehicle for operating a business with limited liability."
+summary: "Sendirian Berhad — struktur syarikat sendirian berhad Malaysia, wahana paling lazim untuk menjalankan perniagaan dengan liabiliti terhad."
 
 tier: "4"
 mode: "practical"
 contentType: "glossary"
 
-answer: "Sdn Bhd (Sendirian Berhad) is Malaysia's private limited company structure — a separate legal entity from its owners, offering limited liability. It is the standard vehicle for operating a business in Malaysia, requiring at least one resident director, one shareholder, and a licensed company secretary."
+answer: "Sdn Bhd (Sendirian Berhad) ialah struktur syarikat sendirian berhad Malaysia — entiti undang-undang yang berasingan daripada pemiliknya, menawarkan liabiliti terhad. Ia merupakan wahana standard untuk menjalankan perniagaan di Malaysia, memerlukan sekurang-kurangnya seorang pengarah pemastautin, seorang pemegang saham, dan seorang setiausaha syarikat berlesen."
 keyTakeaways:
-  - "Stands for Sendirian Berhad, meaning 'private limited'"
-  - "A separate legal entity, distinct from a sole proprietorship or partnership"
-  - "Requires at least one director ordinarily resident in Malaysia"
-  - "Governed by the Companies Act 2016 and registered with SSM"
-appliesTo: "Founders, investors and anyone deciding on a business structure in Malaysia."
+  - "Singkatan bagi Sendirian Berhad, bermaksud 'sendirian, berhad'"
+  - "Entiti undang-undang berasingan, berbeza daripada pemilikan tunggal atau perkongsian"
+  - "Memerlukan sekurang-kurangnya seorang pengarah yang bermastautin biasa di Malaysia"
+  - "Dikawal oleh Akta Syarikat 2016 dan didaftarkan dengan SSM"
+appliesTo: "Pengasas, pelabur dan sesiapa yang sedang menentukan struktur perniagaan di Malaysia."
 
-lang: "en"
-masterLanguage: "en"
+lang: "ms"
+masterLanguage: "ms"
 translationStatus: "master"
 
-status: "published"
+status: "draft"
 aiAssisted: true
-reviewer: "ashton-tan"
-reviewed: 2026-07-22
-reviewDue: 2027-07-22
+reviewer: null
 version: "0.1"
 sensitivity: "none"
 
-updated: 2026-07-10
+updated: 2026-07-23
 sources:
   - title: "Companies Commission of Malaysia (SSM)"
     url: "https://www.ssm.com.my/"
@@ -40,30 +38,32 @@ entity: "Sdn Bhd"
 relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["companies-act-2016", "register-sdn-bhd", "ssm", "paid-up-capital"]
-keywords: ["Sdn Bhd", "Sendirian Berhad", "Malaysia private limited company", "company structure Malaysia"]
+keywords: ["Sdn Bhd", "Sendirian Berhad", "syarikat sendirian berhad Malaysia", "struktur syarikat Malaysia"]
 ---
 
 **Bahasa Malaysia:** Sendirian Berhad · **English:** Private Limited Company · **中文:** 私人有限公司
 
-Sdn Bhd, short for Sendirian Berhad, is the standard private limited company
-structure in Malaysia. It is a separate legal person from its shareholders
-and directors — meaning the company itself can own property, sign contracts,
-sue and be sued, and its shareholders' liability is generally limited to the
-amount they have paid or agreed to pay for their shares.
+Sdn Bhd, singkatan bagi Sendirian Berhad, ialah struktur syarikat sendirian
+berhad standard di Malaysia. Ia merupakan orang di sisi undang-undang yang
+berasingan daripada pemegang saham dan pengarahnya — bermakna syarikat itu
+sendiri boleh memiliki harta, menandatangani kontrak, mendakwa dan didakwa,
+manakala liabiliti pemegang sahamnya secara amnya terhad kepada jumlah yang
+telah mereka bayar atau bersetuju untuk membayar bagi saham mereka.
 
-## In practice
+## Dalam amalan
 
-A Sdn Bhd is the default choice for founders who want liability protection,
-plan to raise investment, or expect to hire employees, in contrast to a sole
-proprietorship or conventional partnership where the owner is personally
-liable for business debts. Incorporating one requires at least one director
-ordinarily resident in Malaysia, at least one shareholder, and a licensed
-company secretary appointed within 30 days of incorporation. Once
-incorporated, a Sdn Bhd takes on recurring compliance obligations — annual
-returns, statutory registers, and often an audit — that a sole proprietorship
-does not carry.
+Sdn Bhd ialah pilihan lalai bagi pengasas yang mahukan perlindungan liabiliti,
+merancang untuk mendapatkan pelaburan, atau menjangka mengambil pekerja —
+berbanding pemilikan tunggal atau perkongsian konvensional di mana pemilik
+bertanggungjawab secara peribadi terhadap hutang perniagaan. Memperbadankan
+sebuah Sdn Bhd memerlukan sekurang-kurangnya seorang pengarah yang bermastautin
+biasa di Malaysia, sekurang-kurangnya seorang pemegang saham, dan seorang
+setiausaha syarikat berlesen yang dilantik dalam tempoh 30 hari selepas
+pemerbadanan. Setelah diperbadankan, sesebuah Sdn Bhd memikul kewajipan
+pematuhan berulang — penyata tahunan, daftar berkanun, dan selalunya audit —
+yang tidak ditanggung oleh pemilikan tunggal.
 
-## Related terms
+## Istilah berkaitan
 
-- [Paid-up Capital](/en/glossary/paid-up-capital)
-- [Annual Return](/en/glossary/annual-return)
+- [Modal Berbayar](/glossary/paid-up-capital)
+- [Penyata Tahunan](/glossary/annual-return)
