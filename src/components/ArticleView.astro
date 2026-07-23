@@ -43,6 +43,37 @@ const fmt = (dt: Date | null | undefined) =>
       )
     : '—';
 
+// Chain of custody: a Drafted → Reviewed → Published lifecycle, each stage with
+// a date and an actor. New `created`/`author`/`published`/`publishedBy` fields
+// take precedence; otherwise the stage is derived from the data we already keep
+// so the timeline is populated on every article without a per-file backfill.
+const isReviewed = d.status === 'reviewed' || d.status === 'published';
+const isPublished = d.status === 'published';
+const draftBy = d.author ?? (d.aiAssisted ? L('Dibantu AI', 'AI-assisted', 'AI 辅助') : L('Manusia', 'Human', '人工'));
+const lifecycle = [
+  {
+    key: 'drafted',
+    label: L('Dirangka', 'Drafted', '起草'),
+    date: d.created ?? d.updated,
+    by: draftBy,
+    done: true,
+  },
+  {
+    key: 'reviewed',
+    label: L('Disemak', 'Reviewed', '审阅'),
+    date: isReviewed ? d.reviewed : null,
+    by: isReviewed ? d.reviewer : null,
+    done: isReviewed,
+  },
+  {
+    key: 'published',
+    label: L('Diterbitkan', 'Published', '发布'),
+    date: isPublished ? (d.published ?? d.reviewed) : null,
+    by: isPublished ? (d.publishedBy ?? d.reviewer) : null,
+    done: isPublished,
+  },
+];
+
 const toc = headings.filter((h) => h.depth === 2);
 
 // Sibling navigation within the topic (subcategory). A reader who finishes an
@@ -370,19 +401,37 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
 
       <div class="trust">
         <b>{L('Kepercayaan & asal usul', 'Trust & provenance', '可信度与来源')}</b>
-        <div class="r">
+        <div class="r r-status">
           <span>{L('Status', 'Status', '状态')}</span>
           <TrustBadge locale={locale} status={d.status} compact />
         </div>
-        <div class="r"><span>{L('Versi', 'Version', '版本')}</span><span>{d.version}</span></div>
-        <div class="r"><span>{L('Dikemas kini', 'Updated', '更新于')}</span><span>{fmt(d.updated)}</span></div>
-        <div class="r"><span>{L('Disemak', 'Reviewed', '审阅于')}</span><span>{fmt(d.reviewed)}</span></div>
-        <div class="r"><span>{L('Semakan seterusnya', 'Next review', '下次审阅')}</span><span>{fmt(d.reviewDue)}</span></div>
-        <div class="r"><span>{L('Disemak oleh', 'Reviewed by', '审阅人')}</span><span>{d.reviewer ?? '—'}</span></div>
-        <div class="r">
-          <span>{L('Ditulis', 'Written', '撰写方式')}</span>
-          <span>{d.aiAssisted ? L('Dibantu AI', 'AI-assisted', 'AI 辅助') : L('Manusia', 'Human', '人工')}</span>
+
+        <ol class="chain">
+          {
+            lifecycle.map((s) => (
+              <li class={s.done ? 'ch done' : 'ch pending'} data-stage={s.key}>
+                <span class="ch-dot" aria-hidden="true" />
+                <span class="ch-label">{s.label}</span>
+                <span class="ch-meta">
+                  {s.done ? (
+                    <>
+                      <span class="ch-date">{fmt(s.date)}</span>
+                      <span class="ch-by">{s.by ?? '—'}</span>
+                    </>
+                  ) : (
+                    <span class="ch-date">{L('Belum lagi', 'Not yet', '尚未')}</span>
+                  )}
+                </span>
+              </li>
+            ))
+          }
+        </ol>
+
+        <div class="r r-next">
+          <span>{L('Semakan seterusnya', 'Next review', '下次审阅')}</span>
+          <span>{fmt(d.reviewDue)}</span>
         </div>
+        <div class="r"><span>{L('Versi', 'Version', '版本')}</span><span>{d.version}</span></div>
         <div class="r"><span>{L('Bahasa induk', 'Master language', '主语言')}</span><span>{d.masterLanguage.toUpperCase()}</span></div>
         <div class="r"><span>{L('Sumber', 'Sources', '来源')}</span><span>{d.sources.length}</span></div>
       </div>
@@ -560,9 +609,42 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
   .toc a:last-of-type { padding-bottom: 0.6rem; }
   .toc a:hover { color: var(--gold); }
   .trust .r { display: flex; justify-content: space-between; gap: 0.6rem; padding: 0.3rem 0.95rem; border-bottom: 1px dashed var(--line); }
-  .trust .r:first-of-type { padding-top: 0.6rem; }
+  .trust .r-status { padding-top: 0.6rem; }
   .trust .r:last-child { border-bottom: 0; padding-bottom: 0.6rem; }
   .trust .r span:first-child { color: var(--muted); }
+
+  /* Chain of custody — Drafted → Reviewed → Published timeline. */
+  .chain {
+    list-style: none; margin: 0; padding: 0.7rem 0.95rem 0.5rem;
+    border-bottom: 1px dashed var(--line);
+  }
+  .chain .ch {
+    position: relative; padding: 0 0 0.9rem 1.15rem;
+    line-height: 1.35;
+  }
+  .chain .ch:last-child { padding-bottom: 0; }
+  /* Connector line running through the dots. */
+  .chain .ch::before {
+    content: ''; position: absolute; left: 4px; top: 0.72rem; bottom: -0.15rem;
+    width: 2px; background: var(--line);
+  }
+  .chain .ch:last-child::before { display: none; }
+  .chain .ch-dot {
+    position: absolute; left: 0; top: 0.32rem;
+    width: 10px; height: 10px; border-radius: 50%;
+    background: var(--surface); border: 2px solid var(--line); box-sizing: border-box;
+  }
+  .chain .ch.done .ch-dot { background: #4ade80; border-color: #4ade80; }
+  .chain .ch.done::before { background: color-mix(in srgb, #4ade80 45%, var(--line)); }
+  .chain .ch-label {
+    display: block; font-size: 0.7rem; font-weight: 800;
+    letter-spacing: 0.06em; text-transform: uppercase; color: var(--ink-soft);
+  }
+  .chain .ch.pending .ch-label { color: var(--muted); }
+  .chain .ch-meta { display: flex; justify-content: space-between; gap: 0.5rem; margin-top: 0.1rem; }
+  .chain .ch-date { color: var(--ink); font-variant-numeric: tabular-nums; }
+  .chain .ch.pending .ch-date { color: var(--muted); font-style: italic; }
+  .chain .ch-by { color: var(--muted); }
   .edit { display: block; font-size: 0.82rem; color: var(--ink-soft); padding: 0.35rem 0.95rem; text-decoration-color: color-mix(in srgb, var(--ink-soft) 55%, transparent); }
   .edit:first-of-type { padding-top: 0.6rem; }
   .edit:last-of-type { padding-bottom: 0.6rem; }

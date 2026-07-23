@@ -159,8 +159,14 @@ const knowledge = defineCollection({
     status: z.enum(['draft', 'in-review', 'reviewed', 'published']).default('draft'),
     /** True when the text was AI-drafted — disclosed on the page. */
     aiAssisted: z.boolean().default(true),
+    /** Chain of custody — Drafted stage. */
+    created: z.coerce.date().nullable().optional(),
+    author: z.string().nullable().default(null),
     reviewer: z.string().nullable().default(null),
     reviewed: z.coerce.date().nullable().optional(),
+    /** Chain of custody — Published stage. */
+    published: z.coerce.date().nullable().optional(),
+    publishedBy: z.string().nullable().default(null),
     /** When this page should next be checked — drives the freshness queue. */
     reviewDue: z.coerce.date().nullable().optional(),
     version: z.string().default('0.1'),
