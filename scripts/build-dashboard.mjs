@@ -203,10 +203,27 @@ async function main() {
     statusByLang,
     perCategory,
     perLangCoverage,
+    // Reader-facing "what's new": the most recently updated articles, linkable.
+    // Replaces a raw git-commit feed (hashes + dev messages) that meant nothing
+    // to a reader.
+    recentlyUpdated: [...base]
+      .filter((a) => a.updated)
+      .sort((x, y) => (x.updated < y.updated ? 1 : x.updated > y.updated ? -1 : 0))
+      .slice(0, 8)
+      .map((a) => {
+        const ttl = titlesByKey.get(a.key) ?? {};
+        return {
+          slug: a.slug,
+          category: a.category,
+          title: { ms: a.title, en: ttl.en ?? a.title, zh: ttl.zh ?? a.title },
+          updated: a.updated,
+        };
+      }),
     registry: base
       .map((a) => {
         const ttl = titlesByKey.get(a.key) ?? {};
         return {
+          slug: a.slug,
           title: { ms: a.title, en: ttl.en ?? a.title, zh: ttl.zh ?? a.title },
           category: a.category,
           status: a.status,

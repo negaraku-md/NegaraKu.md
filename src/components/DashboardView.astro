@@ -3,15 +3,14 @@ import type { Locale } from '@/lib/categories';
 import { getCategory, getPillar, PILLARS } from '@/lib/categories';
 import { subcatLabel } from '@/lib/subcategories';
 import { allArticles } from '@/lib/content';
-import { getDashboard, getGitInfo } from '@/lib/apidata';
-import { t } from '@/lib/i18n';
+import { getDashboard } from '@/lib/apidata';
+import { t, localePath } from '@/lib/i18n';
 
 interface Props {
   locale: Locale;
 }
 const { locale } = Astro.props;
 const d = getDashboard();
-const git = getGitInfo();
 const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 // Knowledge structure — the article's own IA: Section (pillar) → Category → Topic.
@@ -78,7 +77,24 @@ const tierColor = (s: number) =>
     <div><b>{d.totals.articles}</b><span>{L('artikel', 'articles', '文章')}</span></div>
     <div><b>{d.totals.categories}</b><span>{L('kategori', 'categories', '分类')}</span></div>
     <div><b>{d.totals.languages}</b><span>{L('bahasa', 'languages', '语言')}</span></div>
-    <div><b>{d.totals.reviewedPct}%</b><span>{L('disemak', 'reviewed', '已审阅')}</span></div>
+    <div class="pub-cell">
+      <span class="pub-head">{L('Diterbitkan', 'Published', '已发布')}</span>
+      <div class="pub-grid">
+        {
+          ['en', 'ms', 'zh'].map((l) => {
+            const r = d.statusByLang[l];
+            const pct = r.total ? Math.round((r.published / r.total) * 100) : 0;
+            return (
+              <div>
+                <span class="pl">{l.toUpperCase()}</span>
+                <b>{r.published}</b>
+                <span class="pp">{pct}%</span>
+              </div>
+            );
+          })
+        }
+      </div>
+    </div>
   </div>
 </section>
 
@@ -101,32 +117,23 @@ const tierColor = (s: number) =>
 
 <section class="container block cols">
   <div>
-    <h2>{L('Liputan terjemahan', 'Translation coverage', '翻译覆盖率')}</h2>
+    <h2>{L('Liputan diterbitkan', 'Published coverage', '已发布覆盖率')}</h2>
+    <p class="hint">
+      {L(
+        'Bahagian daripada 312 topik yang sudah diterbitkan (langsung boleh dibaca) dalam setiap bahasa.',
+        'Share of the 312 topics that are published — live for a reader — in each language.',
+        '312 个主题中，各语言已发布（读者可直接阅读）的比例。',
+      )}
+    </p>
     {
-      Object.entries(d.perLangCoverage).map(([lang, c]) => {
-        const sourceOnly = c.target === 0 && c.source > 0;
+      Object.entries(d.statusByLang).map(([lang, r]) => {
+        const pct = r.total ? Math.round((r.published / r.total) * 100) : 0;
         return (
           <div class="bar-row">
-            <span class="bl">
-              {lang.toUpperCase()}
-              {c.source > 0 && (
-                <em class="master">
-                  {sourceOnly
-                    ? L('induk', 'master', '主语言')
-                    : L(`${c.source} induk`, `${c.source} master`, `${c.source} 主语言`)}
-                </em>
-              )}
-            </span>
-            <span class="track">
-              <span
-                class={`fill${sourceOnly ? ' is-master' : ''}`}
-                style={`width:${sourceOnly ? 100 : c.pct}%`}
-              />
-            </span>
+            <span class="bl">{lang.toUpperCase()}</span>
+            <span class="track"><span class="fill" style={`width:${pct}%`} /></span>
             <span class="bv">
-              {sourceOnly
-                ? `${L('sumber', 'source', '源文')} (${c.source})`
-                : `${c.pct}% (${c.translated}/${c.target})`}
+              {pct}% ({r.published}/{r.total})
             </span>
           </div>
         );
@@ -185,21 +192,15 @@ const tierColor = (s: number) =>
     </p>
   </div>
   <div>
-    <h2>{L('Aktiviti terkini', 'Recent activity', '近期动态')}</h2>
-    {
-      git.commits.length ? (
-        <ul class="commits">
-          {git.commits.slice(0, 8).map((c) => (
-            <li>
-              <code>{c.hash}</code> {c.subject}
-              <span class="cmeta"> — {c.author}, {c.date}</span>
-            </li>
-          ))}
-        </ul>
-      ) : (
-        <p class="muted">{L('Suapan commit akan muncul selepas repositori disiarkan ke GitHub.', 'The commit feed will appear once the repo is published to GitHub.', '仓库发布到 GitHub 后将显示提交记录。')}</p>
-      )
-    }
+    <h2>{L('Kemas kini terkini', 'Recently updated', '最近更新')}</h2>
+    <ul class="recent">
+      {d.recentlyUpdated.map((a) => (
+        <li>
+          <a href={localePath(`/${a.category}/${a.slug}`, locale)}>{a.title[locale]}</a>
+          <span class="cmeta">{getCategory(a.category)?.name[locale] ?? a.category} · {a.updated}</span>
+        </li>
+      ))}
+    </ul>
   </div>
 </section>
 
@@ -280,9 +281,17 @@ const tierColor = (s: number) =>
   .block { margin-top: 2.5rem; }
   .block > h2 { font-size: 1.4rem; margin-bottom: 1rem; }
   .counters { display: grid; grid-template-columns: repeat(auto-fit, minmax(8rem, 1fr)); gap: 1rem; }
-  .counters div { border: 1px solid var(--line); border-top: 2px solid var(--gold); border-radius: 12px; padding: 1rem; background: var(--surface); }
-  .counters b { display: block; font-family: var(--font-title); font-size: 1.9rem; color: var(--gold); }
-  .counters span { color: var(--muted); font-size: 0.85rem; }
+  .counters > div { border: 1px solid var(--line); border-top: 2px solid var(--gold); border-radius: 12px; padding: 1rem; background: var(--surface); }
+  .counters > div > b { display: block; font-family: var(--font-title); font-size: 1.9rem; color: var(--gold); }
+  .counters > div > span { color: var(--muted); font-size: 0.85rem; }
+
+  /* Published-by-language cell — replaces the meaningless "reviewed %". */
+  .pub-cell .pub-head { color: var(--muted); font-size: 0.85rem; }
+  .pub-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.4rem; margin-top: 0.5rem; }
+  .pub-grid > div { text-align: center; }
+  .pub-grid .pl { display: block; font-size: 0.72rem; font-weight: 800; letter-spacing: 0.05em; color: var(--ink-soft); }
+  .pub-grid b { display: block; font-family: var(--font-title); font-size: 1.5rem; color: var(--gold); line-height: 1.1; }
+  .pub-grid .pp { display: block; font-size: 0.72rem; color: var(--muted); font-variant-numeric: tabular-nums; }
   .vitals { display: grid; grid-template-columns: repeat(auto-fit, minmax(9rem, 1fr)); gap: 1rem; }
   .vital { text-align: center; }
   .ring { --v: 0; width: 84px; height: 84px; margin: 0 auto 0.6rem; border-radius: 50%; display: grid; place-items: center;
@@ -365,9 +374,12 @@ const tierColor = (s: number) =>
   .ia-topics li:last-child { border-bottom: 0; }
   .ia-topics .ia-count { color: var(--muted); background: none; padding: 0 0.2rem; font-weight: 700; }
   .chips { display: flex; flex-wrap: wrap; gap: 0.4rem; }
-  .commits { list-style: none; padding: 0; margin: 0; font-size: 0.9rem; }
-  .commits li { padding: 0.4rem 0; border-bottom: 1px solid var(--line); }
-  .commits code { color: var(--gold); }
+  .recent { list-style: none; padding: 0; margin: 0; font-size: 0.9rem; }
+  .recent li { padding: 0.45rem 0; border-bottom: 1px solid var(--line); }
+  .recent li:last-child { border-bottom: 0; }
+  .recent a { display: block; color: var(--ink); text-decoration: none; font-weight: 600; }
+  .recent a:hover { color: var(--gold); text-decoration: underline; }
+  .recent .cmeta { display: block; color: var(--muted); font-size: 0.78rem; margin-top: 0.1rem; }
   .cmeta { color: var(--muted); }
   .muted { color: var(--muted); }
   .table-wrap { overflow-x: auto; border: 1px solid var(--line); border-radius: 12px; }
