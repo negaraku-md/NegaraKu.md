@@ -25,7 +25,6 @@ status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-07-22
-reviewDue: 2027-07-22
 version: "0.1"
 sensitivity: "none"
 updated: 2026-07-10

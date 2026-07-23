@@ -482,10 +482,14 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
           }
         </ol>
 
-        <div class="r r-next">
-          <span>{L('Semakan seterusnya', 'Next review', '下次审阅')}</span>
-          <span>{fmt(d.reviewDue)}</span>
-        </div>
+        {
+          d.reviewDue && (
+            <div class="r r-next">
+              <span>{L('Semakan seterusnya', 'Next review', '下次审阅')}</span>
+              <span>{fmt(d.reviewDue)}</span>
+            </div>
+          )
+        }
         <div class="r"><span>{L('Versi', 'Version', '版本')}</span><span>{d.version}</span></div>
         <div class="r"><span>{L('Bahasa induk', 'Master language', '主语言')}</span><span>{d.masterLanguage.toUpperCase()}</span></div>
         <div class="r"><span>{L('Sumber', 'Sources', '来源')}</span><span>{d.sources.length}</span></div>
