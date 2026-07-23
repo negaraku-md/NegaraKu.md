@@ -33,9 +33,9 @@ verificationNeeded:
   - "Confirm Selangor's population and its share of national GDP against the latest DOSM releases before publication."
 
 lang: "zh"
-masterLanguage: "en"
+masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "b942f2ba3da53ce8"
+sourceContentHash: "43d4735ca0a0e692"
 
 status: "published"
 aiAssisted: true

@@ -4,42 +4,41 @@ title: "Selangor"
 slug: "selangor"
 category: "states"
 subcategory: ["peninsular"]
-summary: "Malaysia's most populous and most industrialized state — the manufacturing, logistics and tech engine that surrounds the federal capital."
+summary: "Negeri yang paling ramai penduduk dan paling maju perindustrian di Malaysia — jentera pembuatan, logistik dan teknologi yang mengelilingi ibu negara persekutuan."
 
 tier: "3"
 mode: "practical"
 contentType: "place"
 
-answer: "Selangor is Malaysia's most populous state and its largest contributor to national GDP. Wrapped around Kuala Lumpur and Putrajaya, it hosts Port Klang, KLIA and the Cyberjaya tech corridor, making it the country's principal hub for manufacturing, logistics, trade and services."
+answer: "Selangor ialah negeri yang paling ramai penduduk di Malaysia dan penyumbang terbesar kepada KDNK negara. Mengelilingi Kuala Lumpur dan Putrajaya, negeri ini menempatkan Pelabuhan Klang, KLIA dan koridor teknologi Cyberjaya, menjadikannya hab utama negara bagi pembuatan, logistik, perdagangan dan perkhidmatan."
 keyTakeaways:
-  - "State capital is Shah Alam; the royal seat is the historic port town of Klang"
-  - "Population is around 7 million, the largest of any Malaysian state"
-  - "Largest single-state contributor to Malaysia's GDP, led by manufacturing and services"
-  - "Home to Port Klang (Malaysia's busiest port) and KLIA/KLIA2 in Sepang"
-  - "Cyberjaya and Petaling Jaya anchor the state's technology and corporate sectors"
-appliesTo: "Businesses evaluating manufacturing or logistics locations, and readers wanting an overview of Malaysia's economic core state."
+  - "Ibu negeri ialah Shah Alam; manakala takhta diraja terletak di bandar pelabuhan bersejarah, Klang"
+  - "Penduduk sekitar 7 juta, yang teramai antara semua negeri di Malaysia"
+  - "Penyumbang tunggal terbesar kepada KDNK Malaysia, diterajui oleh pembuatan dan perkhidmatan"
+  - "Menempatkan Pelabuhan Klang (pelabuhan tersibuk di Malaysia) serta KLIA/KLIA2 di Sepang"
+  - "Cyberjaya dan Petaling Jaya menjadi tonggak sektor teknologi dan korporat negeri ini"
+appliesTo: "Perniagaan yang menilai lokasi pembuatan atau logistik, serta pembaca yang mahukan gambaran keseluruhan tentang negeri teras ekonomi Malaysia."
 
 faq:
-  - q: "Is Kuala Lumpur part of Selangor?"
-    a: "Not since 1974. Kuala Lumpur was ceded from Selangor and became a Federal Territory, and Putrajaya was later carved out on the same basis. Selangor now surrounds both without containing either, which is why the Klang Valley spans three separate administrations."
-  - q: "Where are KLIA and Port Klang, administratively?"
-    a: "Both are in Selangor. Kuala Lumpur International Airport and KLIA2 sit in the Sepang district; Port Klang is on the state's west coast. Despite the airport's name, neither facility is inside the Federal Territory of Kuala Lumpur."
-  - q: "What does MSC status in Cyberjaya actually give a company?"
-    a: "Cyberjaya is a designated MSC Malaysia location, and qualifying technology and services companies granted MSC status can access specific tax and regulatory incentives. Status is granted on application against current criteria administered federally, so confirm the present conditions rather than relying on historic descriptions of the scheme."
-  - q: "Why do companies pick Selangor over Kuala Lumpur?"
-    a: "Land and industrial space cost less, the port and airport are inside the state, and free industrial zones and licensed manufacturing warehouses around Klang, Shah Alam and Bangi suit import and export operations. The trade-off is road congestion, which has to be built into logistics planning."
+  - q: "Adakah Kuala Lumpur sebahagian daripada Selangor?"
+    a: "Tidak lagi sejak 1974. Kuala Lumpur diserahkan daripada Selangor dan menjadi Wilayah Persekutuan, dan Putrajaya kemudiannya diukir atas dasar yang sama. Selangor kini mengelilingi kedua-duanya tanpa mengandungi mana-mana satu pun, itulah sebabnya Lembah Klang merentangi tiga pentadbiran yang berasingan."
+  - q: "Di manakah KLIA dan Pelabuhan Klang, dari segi pentadbiran?"
+    a: "Kedua-duanya berada di Selangor. Lapangan Terbang Antarabangsa Kuala Lumpur dan KLIA2 terletak di daerah Sepang; Pelabuhan Klang pula di pantai barat negeri. Walaupun lapangan terbang itu dinamakan sempena Kuala Lumpur, kedua-dua kemudahan itu tidak berada di dalam Wilayah Persekutuan Kuala Lumpur."
+  - q: "Apakah sebenarnya yang diberikan oleh status MSC di Cyberjaya kepada sesebuah syarikat?"
+    a: "Cyberjaya ialah lokasi MSC Malaysia yang ditetapkan, dan syarikat teknologi serta perkhidmatan yang layak dan diberikan status MSC boleh mengakses insentif cukai dan pengawalseliaan tertentu. Status diberikan atas permohonan berdasarkan kriteria semasa yang ditadbir di peringkat persekutuan, jadi sahkan syarat semasa dan bukan bergantung pada penerangan lama tentang skim tersebut."
+  - q: "Mengapa syarikat memilih Selangor berbanding Kuala Lumpur?"
+    a: "Kos tanah dan ruang perindustrian lebih rendah, pelabuhan dan lapangan terbang berada di dalam negeri, dan zon perindustrian bebas serta gudang pembuatan berlesen di sekitar Klang, Shah Alam dan Bangi sesuai untuk operasi import dan eksport. Tolak ansurnya ialah kesesakan jalan raya, yang perlu diambil kira dalam perancangan logistik."
 
 verificationNeeded:
   - "Confirm Selangor's population and its share of national GDP against the latest DOSM releases before publication."
 
-lang: "en"
-masterLanguage: "en"
+lang: "ms"
+masterLanguage: "ms"
 translationStatus: "master"
 
-status: "published"
+status: "draft"
 aiAssisted: true
-reviewer: "ashton-tan"
-reviewed: 2026-07-22
+reviewer: null
 version: "0.2"
 revisions:
   - version: "0.1"
@@ -52,7 +51,7 @@ revisions:
     reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-20
+updated: 2026-07-23
 sources:
   - title: "OpenDOSM — official statistics data catalogue"
     url: "https://open.dosm.gov.my/data-catalogue"
@@ -69,69 +68,74 @@ relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "kuala-lumpur" }
 related: []
-keywords: ["Selangor Malaysia", "Shah Alam", "Port Klang", "Cyberjaya", "Klang Valley economy"]
+keywords: ["Selangor Malaysia", "Shah Alam", "Pelabuhan Klang", "Cyberjaya", "ekonomi Lembah Klang"]
 ---
 
-Selangor is the state that Malaysia's economy quietly runs on. It fully encircles the
-federal capital Kuala Lumpur and the administrative capital Putrajaya, and together
-they form the Klang Valley — the country's largest urban and industrial conurbation.
+Selangor ialah negeri yang menjadi tempat bergantung ekonomi Malaysia secara senyap.
+Ia mengelilingi sepenuhnya ibu negara persekutuan Kuala Lumpur dan ibu negara
+pentadbiran Putrajaya, dan bersama-sama ketiga-tiganya membentuk Lembah Klang —
+konurbasi bandar dan perindustrian terbesar di negara ini.
 
-## Key facts
+## Fakta utama
 
 | | |
 | --- | --- |
-| Capital | Shah Alam |
-| Royal capital | Klang |
-| Population | Around 7 million |
-| Head of state | Sultan of Selangor |
-| Key industries | Manufacturing, logistics & trade, technology, finance |
+| Ibu negeri | Shah Alam |
+| Ibu negeri diraja | Klang |
+| Penduduk | Sekitar 7 juta |
+| Ketua negeri | Sultan Selangor |
+| Industri utama | Pembuatan, logistik & perdagangan, teknologi, kewangan |
 
-## Geography
+## Geografi
 
-Selangor sits on the west coast of Peninsular Malaysia, facing the Strait of Malacca,
-and forms a horseshoe around the two federal territories of Kuala Lumpur and
-Putrajaya. Its coastline holds Port Klang, the country's busiest port, while inland
-districts range from dense urban centres like Petaling Jaya and Shah Alam to
-agricultural and forested areas further from the Klang Valley core. The state borders
-Perak to the north, Pahang to the east, and Negeri Sembilan to the south.
+Selangor terletak di pantai barat Semenanjung Malaysia, menghadap Selat Melaka, dan
+membentuk ladam kuda di sekeliling dua wilayah persekutuan, Kuala Lumpur dan
+Putrajaya. Garis pantainya menempatkan Pelabuhan Klang, pelabuhan tersibuk di negara
+ini, manakala daerah pedalamannya terentang daripada pusat bandar padat seperti
+Petaling Jaya dan Shah Alam hingga kawasan pertanian dan berhutan yang lebih jauh
+daripada teras Lembah Klang. Negeri ini bersempadan dengan Perak di utara, Pahang di
+timur, dan Negeri Sembilan di selatan.
 
-## Economy
+## Ekonomi
 
-Selangor is Malaysia's largest state economy by output, and its industrial base is the
-most diversified in the country. Manufacturing clusters around Shah Alam, Klang and
-Petaling Jaya cover electronics, automotive parts, consumer goods and pharmaceuticals.
-Port Klang handles the bulk of Malaysia's containerised trade, and Kuala Lumpur
-International Airport (KLIA) and KLIA2, both located in Sepang district within
-Selangor, anchor the state's role in aviation and air freight. Cyberjaya, developed as
-part of the Multimedia Super Corridor, has grown into a technology and shared-services
-hub, while Petaling Jaya and Subang Jaya host a dense concentration of corporate
-regional offices. Services, wholesale and retail trade, and financial activities
-round out an economy that consistently accounts for the largest single share of
-Malaysia's GDP among the states.
+Selangor ialah ekonomi negeri terbesar di Malaysia dari segi pengeluaran, dan asas
+perindustriannya yang paling pelbagai di negara ini. Kluster pembuatan di sekitar
+Shah Alam, Klang dan Petaling Jaya meliputi elektronik, alat ganti automotif, barangan
+pengguna dan farmaseutikal. Pelabuhan Klang mengendalikan sebahagian besar perdagangan
+kontena Malaysia, dan Lapangan Terbang Antarabangsa Kuala Lumpur (KLIA) serta KLIA2,
+kedua-duanya terletak di daerah Sepang dalam Selangor, menjadi tonggak peranan negeri
+ini dalam penerbangan dan pengangkutan udara. Cyberjaya, yang dibangunkan sebagai
+sebahagian daripada Koridor Raya Multimedia, telah berkembang menjadi hab teknologi
+dan perkhidmatan berkongsi, manakala Petaling Jaya dan Subang Jaya menempatkan
+tumpuan padat pejabat serantau korporat. Perkhidmatan, perdagangan borong dan runcit,
+serta aktiviti kewangan melengkapkan sebuah ekonomi yang secara konsisten menyumbang
+bahagian tunggal terbesar KDNK Malaysia antara semua negeri.
 
-## Doing business here
+## Menjalankan perniagaan di sini
 
-Selangor's appeal for business rests on scale and connectivity: it offers the biggest
-consumer market outside Kuala Lumpur proper, direct access to the country's main port
-and airport, and industrial land at lower cost than the capital. Free industrial
-zones and licensed manufacturing warehouses around Klang, Shah Alam and Bangi support
-import/export-oriented operations. Cyberjaya's MSC-status designation gives
-qualifying technology and services companies specific tax and regulatory incentives,
-while Selangor's state investment agency works alongside federal bodies such as
-MIDA on incentive applications. Talent supply benefits from proximity to Kuala
-Lumpur's labour market and to universities across the Klang Valley. The main
-trade-off is congestion — Selangor's road network carries some of the heaviest
-traffic in the country, so logistics planning around Port Klang and KLIA needs to
-account for peak-hour delays.
+Daya tarikan Selangor untuk perniagaan bergantung pada skala dan ketersambungan: ia
+menawarkan pasaran pengguna terbesar di luar Kuala Lumpur sendiri, akses terus ke
+pelabuhan dan lapangan terbang utama negara, dan tanah perindustrian pada kos yang
+lebih rendah daripada ibu negara. Zon perindustrian bebas dan gudang pembuatan
+berlesen di sekitar Klang, Shah Alam dan Bangi menyokong operasi berorientasikan
+import/eksport. Penetapan status MSC Cyberjaya memberikan syarikat teknologi dan
+perkhidmatan yang layak insentif cukai dan pengawalseliaan tertentu, manakala agensi
+pelaburan negeri Selangor bekerjasama dengan badan persekutuan seperti MIDA dalam
+permohonan insentif. Bekalan bakat mendapat manfaat daripada kedudukannya yang hampir
+dengan pasaran buruh Kuala Lumpur dan universiti di seluruh Lembah Klang. Tolak ansur
+utamanya ialah kesesakan — rangkaian jalan raya Selangor menanggung antara trafik
+tersibuk di negara ini, jadi perancangan logistik di sekitar Pelabuhan Klang dan KLIA
+perlu mengambil kira kelewatan waktu puncak.
 
-## Notable places
+## Tempat menarik
 
-Batu Caves, the Hindu shrine and limestone cave complex in Gombak, is one of
-Malaysia's most visited religious and tourist sites. Shah Alam is home to the Sultan
-Salahuddin Abdul Aziz Mosque, one of the largest mosques in Southeast Asia and known
-locally as the Blue Mosque. Sunway City in Petaling Jaya combines a theme park,
-shopping mall, university and medical centre in a single integrated township. Klang,
-the state's royal town, retains a historic core alongside its modern port operations
-and is well known for its Little India enclave and street food. Further north,
-Kuala Selangor is known for its riverside firefly colonies and nature reserves,
-offering a contrast to the state's industrial heartland.
+Batu Caves, kuil Hindu dan kompleks gua batu kapur di Gombak, ialah salah satu tapak
+keagamaan dan pelancongan yang paling ramai dikunjungi di Malaysia. Shah Alam
+menempatkan Masjid Sultan Salahuddin Abdul Aziz, salah satu masjid terbesar di Asia
+Tenggara dan dikenali penduduk tempatan sebagai Masjid Biru. Sunway City di Petaling
+Jaya menggabungkan taman tema, pusat beli-belah, universiti dan pusat perubatan dalam
+satu perbandaran bersepadu. Klang, bandar diraja negeri ini, mengekalkan teras
+bersejarah di samping operasi pelabuhan modennya dan terkenal dengan enklaf Little
+India serta makanan jalanannya. Lebih ke utara, Kuala Selangor terkenal dengan koloni
+kelip-kelip di tepi sungai dan rizab alam semula jadi, menawarkan kontras kepada
+jantung perindustrian negeri ini.

@@ -4,42 +4,41 @@ title: "Kuala Lumpur"
 slug: "kuala-lumpur"
 category: "states"
 subcategory: ["peninsular"]
-summary: "Malaysia's national capital and financial centre — a federal territory built around the Petronas Twin Towers, Bursa Malaysia and the country's densest concentration of corporate headquarters."
+summary: "Ibu negara dan pusat kewangan Malaysia — sebuah wilayah persekutuan yang dibina di sekitar Menara Berkembar Petronas, Bursa Malaysia dan tumpuan ibu pejabat korporat paling padat di negara ini."
 
 tier: "3"
 mode: "practical"
 contentType: "place"
 
-answer: "Kuala Lumpur is Malaysia's national capital and a federal territory, not a state, administered directly by the federal government. Despite covering only around 243 square kilometres, it is the country's financial and corporate centre, home to Bursa Malaysia, most bank headquarters, and the Petronas Twin Towers."
+answer: "Kuala Lumpur ialah ibu negara Malaysia dan sebuah wilayah persekutuan, bukan sebuah negeri, yang ditadbir terus oleh kerajaan persekutuan. Walaupun keluasannya hanya sekitar 243 kilometer persegi, ia merupakan pusat kewangan dan korporat negara, tempat letaknya Bursa Malaysia, kebanyakan ibu pejabat bank, dan Menara Berkembar Petronas."
 keyTakeaways:
-  - "A federal territory, not a state — administered by the federal government, not a Sultan or Governor"
-  - "City population is around 2 million; the wider Klang Valley conurbation exceeds 8 million"
-  - "Highest GDP per capita of any region in Malaysia despite its small land area"
-  - "Home to Bursa Malaysia and the head offices of most major Malaysian banks and corporations"
-  - "Petronas Twin Towers and KL Tower are the city's best-known landmarks"
-appliesTo: "Businesses considering a Kuala Lumpur headquarters, and readers wanting to understand the capital's role relative to the states around it."
+  - "Sebuah wilayah persekutuan, bukan negeri — ditadbir oleh kerajaan persekutuan, bukan oleh Sultan atau Yang di-Pertua Negeri"
+  - "Penduduk bandar sekitar 2 juta; kawasan konurbasi Lembah Klang yang lebih luas melebihi 8 juta"
+  - "KDNK per kapita tertinggi berbanding mana-mana wilayah lain di Malaysia walaupun keluasan tanahnya kecil"
+  - "Tempat letaknya Bursa Malaysia serta ibu pejabat kebanyakan bank dan syarikat besar Malaysia"
+  - "Menara Berkembar Petronas dan Menara KL ialah mercu tanda kota ini yang paling terkenal"
+appliesTo: "Perniagaan yang mempertimbangkan ibu pejabat di Kuala Lumpur, dan pembaca yang ingin memahami peranan ibu negara berbanding negeri-negeri di sekelilingnya."
 
 faq:
-  - q: "Is Kuala Lumpur a state?"
-    a: "No. Kuala Lumpur is a Federal Territory, ceded from Selangor and administered by the federal government rather than by a state ruler and elected state assembly. Local government is exercised by Kuala Lumpur City Hall, whose Mayor is federally appointed rather than elected."
-  - q: "What is the difference between Kuala Lumpur, Putrajaya and the Klang Valley?"
-    a: "Kuala Lumpur is the national capital and commercial centre. Putrajaya is a separate Federal Territory built to house the federal administration, to which most government functions moved from 1999. The Klang Valley is not an administrative unit at all — it is the conurbation spanning Kuala Lumpur, Putrajaya and the surrounding Selangor districts."
-  - q: "Do I have to register my company in Kuala Lumpur to list on Bursa Malaysia?"
-    a: "No. Registration with SSM is national, not city-based, and a company registered anywhere in Malaysia can list. The practical pull of a Kuala Lumpur address is proximity to the exchange, the banks, the advisers and the federal regulators, not a legal requirement."
-  - q: "Why do so many companies keep a KL address but operate elsewhere?"
-    a: "Prime office rent in areas such as KLCC is the highest in the country. A common pattern is a registered or representative office in Kuala Lumpur with back-office and operational functions in Petaling Jaya, Cyberjaya or elsewhere in Selangor, where space costs less."
+  - q: "Adakah Kuala Lumpur sebuah negeri?"
+    a: "Tidak. Kuala Lumpur ialah Wilayah Persekutuan, diserahkan daripada Selangor dan ditadbir oleh kerajaan persekutuan, bukan oleh pemerintah negeri dan dewan undangan negeri yang dipilih. Kerajaan tempatan dijalankan oleh Dewan Bandaraya Kuala Lumpur, yang Datuk Bandarnya dilantik oleh kerajaan persekutuan dan bukan dipilih."
+  - q: "Apakah perbezaan antara Kuala Lumpur, Putrajaya dan Lembah Klang?"
+    a: "Kuala Lumpur ialah ibu negara dan pusat komersial. Putrajaya ialah Wilayah Persekutuan berasingan yang dibina untuk menempatkan pentadbiran persekutuan, tempat sebahagian besar fungsi kerajaan berpindah mulai 1999. Lembah Klang pula bukan sebuah unit pentadbiran langsung — ia ialah konurbasi yang merentangi Kuala Lumpur, Putrajaya dan daerah-daerah Selangor di sekelilingnya."
+  - q: "Adakah saya perlu mendaftarkan syarikat saya di Kuala Lumpur untuk tersenarai di Bursa Malaysia?"
+    a: "Tidak. Pendaftaran dengan SSM adalah secara kebangsaan, bukan berdasarkan bandar, dan syarikat yang didaftarkan di mana-mana sahaja di Malaysia boleh tersenarai. Tarikan praktikal alamat Kuala Lumpur ialah kehampirannya dengan bursa, bank, penasihat dan pengawal selia persekutuan, bukan satu keperluan undang-undang."
+  - q: "Mengapa begitu banyak syarikat mengekalkan alamat KL tetapi beroperasi di tempat lain?"
+    a: "Sewa pejabat premium di kawasan seperti KLCC ialah yang tertinggi di negara ini. Corak yang lazim ialah pejabat berdaftar atau perwakilan di Kuala Lumpur dengan fungsi sokongan pentadbiran dan operasi di Petaling Jaya, Cyberjaya atau di tempat lain di Selangor, tempat kos ruang lebih murah."
 
 verificationNeeded:
   - "Confirm the Kuala Lumpur and Greater Kuala Lumpur population figures, and the GDP per capita ranking, against the latest DOSM releases before publication."
 
-lang: "en"
-masterLanguage: "en"
+lang: "ms"
+masterLanguage: "ms"
 translationStatus: "master"
 
-status: "published"
+status: "draft"
 aiAssisted: true
-reviewer: "ashton-tan"
-reviewed: 2026-07-22
+reviewer: null
 version: "0.3"
 revisions:
   - version: "0.1"
@@ -56,7 +55,7 @@ revisions:
     reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-20
+updated: 2026-07-23
 sources:
   - title: "OpenDOSM — official statistics data catalogue"
     url: "https://open.dosm.gov.my/data-catalogue"
@@ -73,69 +72,71 @@ relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "selangor" }
 related: []
-keywords: ["Kuala Lumpur", "KL federal territory", "Bursa Malaysia", "Petronas Twin Towers", "Klang Valley"]
+keywords: ["Kuala Lumpur", "KL wilayah persekutuan", "Bursa Malaysia", "Menara Berkembar Petronas", "Lembah Klang"]
 ---
 
-Kuala Lumpur is Malaysia's national capital, but constitutionally it is not a state —
-it is a Federal Territory, carved out of Selangor in 1974 and administered directly
-by the federal government rather than by a state ruler or elected state assembly.
+Kuala Lumpur ialah ibu negara Malaysia, tetapi dari segi perlembagaan ia bukan sebuah
+negeri — ia ialah Wilayah Persekutuan, yang diukir daripada Selangor pada 1974 dan
+ditadbir terus oleh kerajaan persekutuan dan bukan oleh pemerintah negeri atau dewan
+undangan negeri yang dipilih.
 
-## Key facts
+## Fakta utama
 
 | | |
 | --- | --- |
-| Capital | Kuala Lumpur (the national capital itself) |
-| Population | Around 2 million (city); over 8 million across Greater KL |
-| Head of state | Federal Territory — administered by the federal government |
-| Key industries | Finance & banking, corporate headquarters, professional services, tourism |
+| Ibu negeri | Kuala Lumpur (ibu negara itu sendiri) |
+| Penduduk | Sekitar 2 juta (bandar); melebihi 8 juta merentangi Greater KL |
+| Ketua negeri | Wilayah Persekutuan — ditadbir oleh kerajaan persekutuan |
+| Industri utama | Kewangan & perbankan, ibu pejabat korporat, perkhidmatan profesional, pelancongan |
 
-## Geography
+## Geografi
 
-Kuala Lumpur is a small, entirely urban enclave surrounded on all sides by the state
-of Selangor, sitting near the confluence of the Klang and Gombak rivers — the
-meeting point that gives the city its name, meaning "muddy confluence." At roughly
-243 square kilometres, it is by far the smallest territory covered in this series,
-but its built-up area merges seamlessly into neighbouring Selangor towns such as
-Petaling Jaya, Subang Jaya and Shah Alam to form the wider Klang Valley conurbation.
-Administrative government functions largely moved to the purpose-built federal
-territory of Putrajaya from 1999 onward, leaving Kuala Lumpur to concentrate on its
-role as commercial and financial capital.
+Kuala Lumpur ialah sebuah enklaf kecil yang sepenuhnya berbentuk bandar, dikelilingi di
+segenap penjuru oleh negeri Selangor, terletak berhampiran pertemuan Sungai Klang dan
+Sungai Gombak — titik pertemuan yang memberikan kota ini namanya, yang bermaksud
+"pertemuan sungai berlumpur." Pada keluasan kira-kira 243 kilometer persegi, ia setakat
+ini merupakan wilayah terkecil yang dibahaskan dalam siri ini, tetapi kawasan
+bangunannya bergabung lancar dengan bandar-bandar Selangor bersebelahan seperti Petaling
+Jaya, Subang Jaya dan Shah Alam untuk membentuk konurbasi Lembah Klang yang lebih luas.
+Fungsi pentadbiran kerajaan sebahagian besarnya berpindah ke wilayah persekutuan yang
+dibina khas, Putrajaya, mulai 1999 dan seterusnya, meninggalkan Kuala Lumpur untuk
+menumpukan peranannya sebagai ibu negara komersial dan kewangan.
 
-## Economy
+## Ekonomi
 
-Kuala Lumpur generates the highest GDP per capita of any part of Malaysia, driven
-almost entirely by services rather than industry. Bursa Malaysia, the national stock
-exchange, is based in the city, alongside the head offices of nearly all major
-Malaysian banks, insurers and public-listed conglomerates. The Golden Triangle area
-(KLCC, Bukit Bintang and the surrounding blocks) holds the country's most expensive
-office space and its densest concentration of multinational regional headquarters.
-Tourism, retail and the meetings, incentives, conventions and exhibitions (MICE)
-industry are also major contributors, supported by KL Convention Centre and a large
-hotel base. Because the city's land area is fixed and largely built out, growth
-increasingly spills into neighbouring Selangor, which is why the two territories are
-best understood as a single integrated economy.
+Kuala Lumpur menjana KDNK per kapita tertinggi berbanding mana-mana bahagian Malaysia,
+didorong hampir sepenuhnya oleh perkhidmatan dan bukan perindustrian. Bursa Malaysia,
+bursa saham kebangsaan, berpangkalan di kota ini, di samping ibu pejabat hampir semua
+bank, syarikat insurans dan konglomerat tersenarai awam utama Malaysia. Kawasan Segi Tiga
+Emas (KLCC, Bukit Bintang dan blok-blok di sekelilingnya) memiliki ruang pejabat paling
+mahal di negara ini dan tumpuan ibu pejabat serantau multinasional yang paling padat.
+Pelancongan, peruncitan serta industri mesyuarat, insentif, konvensyen dan pameran (MICE)
+juga penyumbang utama, disokong oleh Pusat Konvensyen Kuala Lumpur dan asas hotel yang
+besar. Oleh sebab keluasan tanah kota ini tetap dan sebahagian besarnya telah dibangunkan
+sepenuhnya, pertumbuhan semakin melimpah ke Selangor yang bersebelahan, dan inilah
+sebabnya kedua-dua wilayah ini paling tepat difahami sebagai satu ekonomi bersepadu.
 
-## Doing business here
+## Menjalankan perniagaan di sini
 
-A Kuala Lumpur address carries prestige and proximity to decision-makers, professional
-services firms, and the capital markets — most companies seeking a listing on Bursa
-Malaysia or a banking relationship with a major local lender will do so through a KL
-presence. Office rents in prime areas such as KLCC are the highest in the country,
-which pushes many back-office and operational functions to Petaling Jaya, Cyberjaya
-or other parts of Selangor while keeping a registered or representative office in
-KL itself. Company registration, licensing with SSM, and most federal regulatory
-bodies are headquartered in or near the city, simplifying in-person dealings with
-agencies. Traffic congestion and high property costs are the main friction points for
-firms operating here.
+Alamat Kuala Lumpur membawa prestij dan kehampiran dengan pembuat keputusan, firma
+perkhidmatan profesional, dan pasaran modal — kebanyakan syarikat yang mahu tersenarai di
+Bursa Malaysia atau menjalin hubungan perbankan dengan pemberi pinjaman tempatan utama
+akan berbuat demikian melalui kehadiran di KL. Sewa pejabat di kawasan premium seperti
+KLCC ialah yang tertinggi di negara ini, yang menolak banyak fungsi sokongan pentadbiran
+dan operasi ke Petaling Jaya, Cyberjaya atau bahagian lain Selangor sambil mengekalkan
+pejabat berdaftar atau perwakilan di KL itu sendiri. Pendaftaran syarikat, pelesenan
+dengan SSM, dan kebanyakan badan pengawal selia persekutuan beribu pejabat di dalam atau
+berhampiran kota ini, memudahkan urusan bersemuka dengan agensi. Kesesakan lalu lintas dan
+kos hartanah yang tinggi ialah titik geseran utama bagi firma yang beroperasi di sini.
 
-## Notable places
+## Tempat menarik
 
-The Petronas Twin Towers, once the tallest buildings in the world, remain the city's
-defining landmark alongside the KLCC park and shopping precinct. The Kuala Lumpur
-Tower (Menara KL) offers panoramic views from a hill overlooking the city centre.
-Merdeka Square (Dataran Merdeka), where Malaysia's independence was proclaimed in
-1957, sits alongside colonial-era buildings including the Sultan Abdul Samad
-Building. Petaling Street and the surrounding Chinatown district, and the
-Masjid Jamek area at the historic river confluence, offer a older, denser contrast to
-the glass towers of the Golden Triangle. Bukit Bintang remains the city's main
-retail and nightlife district.
+Menara Berkembar Petronas, yang pernah menjadi bangunan tertinggi di dunia, kekal sebagai
+mercu tanda tersendiri kota ini di samping taman dan kawasan membeli-belah KLCC. Menara
+Kuala Lumpur (Menara KL) menawarkan pemandangan panorama dari sebuah bukit yang menghadap
+pusat bandar. Dataran Merdeka, tempat kemerdekaan Malaysia diisytiharkan pada 1957,
+terletak bersebelahan bangunan era penjajah termasuk Bangunan Sultan Abdul Samad. Petaling
+Street dan daerah Chinatown di sekelilingnya, serta kawasan Masjid Jamek di pertemuan
+sungai bersejarah, menawarkan kontras yang lebih tua dan lebih padat kepada menara kaca
+Segi Tiga Emas. Bukit Bintang kekal sebagai daerah peruncitan dan kehidupan malam utama
+kota ini.

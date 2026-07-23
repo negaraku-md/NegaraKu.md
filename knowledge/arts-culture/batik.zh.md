@@ -29,9 +29,9 @@ faq:
     a: "峇迪衬衫是男性可接受的正式服装，在官方场合、婚礼与外交场合上穿着，用以取代西装领带。政府部门设有指定的峇迪日，使它保持在日常流通之中，而不只限于礼仪用途。"
 
 lang: "zh"
-masterLanguage: "en"
+masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "117b15d1b6a65752"
+sourceContentHash: "239aa5ec5e035842"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

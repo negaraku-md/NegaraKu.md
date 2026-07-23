@@ -4,33 +4,31 @@ title: "EPF"
 slug: "epf"
 category: "glossary"
 subcategory: ["employment"]
-summary: "The Employees Provident Fund — Malaysia's mandatory retirement savings scheme, funded by employer and employee contributions."
+summary: "Kumpulan Wang Simpanan Pekerja — skim simpanan persaraan wajib Malaysia, dibiayai oleh caruman majikan dan pekerja."
 
 tier: "4"
 mode: "practical"
 contentType: "glossary"
 
-answer: "EPF (Employees Provident Fund, KWSP) is Malaysia's mandatory retirement savings scheme. Employers and employees both contribute a percentage of monthly wages into the employee's EPF account, which accrues annual dividends and can generally be withdrawn from age 55, with earlier partial withdrawals permitted for specific purposes such as housing or medical needs."
+answer: "EPF (Employees Provident Fund, KWSP) ialah skim simpanan persaraan wajib Malaysia. Majikan dan pekerja kedua-duanya mencarum satu peratusan daripada gaji bulanan ke dalam akaun EPF pekerja, yang memperoleh dividen tahunan dan umumnya boleh dikeluarkan mulai umur 55 tahun, dengan pengeluaran separa lebih awal dibenarkan untuk tujuan tertentu seperti perumahan atau keperluan perubatan."
 keyTakeaways:
-  - "Mandatory for most private-sector employees and their employers"
-  - "Both employer and employee contribute a percentage of monthly wages"
-  - "Funds earn an annual dividend declared by EPF"
-  - "Full withdrawal is generally permitted from age 55, with conditional partial withdrawals earlier"
-appliesTo: "Employers, HR teams and employees seeking to understand Malaysia's retirement savings framework."
+  - "Wajib bagi kebanyakan pekerja sektor swasta dan majikan mereka"
+  - "Majikan dan pekerja kedua-duanya mencarum satu peratusan daripada gaji bulanan"
+  - "Simpanan memperoleh dividen tahunan yang diisytiharkan oleh EPF"
+  - "Pengeluaran penuh umumnya dibenarkan mulai umur 55 tahun, dengan pengeluaran separa bersyarat lebih awal"
+appliesTo: "Majikan, pasukan HR dan pekerja yang ingin memahami rangka kerja simpanan persaraan Malaysia."
 
-lang: "en"
-masterLanguage: "en"
+lang: "ms"
+masterLanguage: "ms"
 translationStatus: "master"
 
-status: "published"
+status: "draft"
 aiAssisted: true
-reviewer: "ashton-tan"
-reviewed: 2026-07-22
-reviewDue: 2027-07-22
+reviewer: null
 version: "0.1"
 sensitivity: "none"
 
-updated: 2026-07-10
+updated: 2026-07-23
 sources:
   - title: "Employees Provident Fund (KWSP)"
     url: "https://www.kwsp.gov.my/"
@@ -40,30 +38,30 @@ entity: "EPF"
 relations:
   - { rel: "related-to", to: "employment-act-1955" }
 related: ["employment-act-1955"]
-keywords: ["EPF Malaysia", "KWSP", "Employees Provident Fund", "Malaysia retirement savings"]
+keywords: ["EPF Malaysia", "KWSP", "Kumpulan Wang Simpanan Pekerja", "simpanan persaraan Malaysia"]
 ---
 
 **Bahasa Malaysia:** Kumpulan Wang Simpanan Pekerja (KWSP) · **English:** Employees Provident Fund (EPF) · **中文:** 雇员公积金
 
-EPF, known locally as KWSP, is Malaysia's national retirement savings scheme.
-Employers are required to deduct and contribute a percentage of an eligible
-employee's monthly wages into that employee's individual EPF account, on top
-of the employer's own contribution — meaning the balance grows from both
-sides of the employment relationship, plus annual dividends declared by EPF
-on the accumulated savings.
+EPF, yang dikenali di dalam negara sebagai KWSP, ialah skim simpanan
+persaraan kebangsaan Malaysia. Majikan dikehendaki memotong dan mencarum
+satu peratusan daripada gaji bulanan pekerja yang layak ke dalam akaun EPF
+individu pekerja tersebut, di samping caruman majikan sendiri — bermakna
+baki bertambah daripada kedua-dua belah hubungan pekerjaan, ditambah dividen
+tahunan yang diisytiharkan oleh EPF ke atas simpanan terkumpul.
 
-## In practice
+## Dalam praktik
 
-Contribution rates differ by employee category (for example, age band and
-citizenship status) and are set out in EPF's contribution schedules, which
-are updated from time to time. Savings are held in separate accounts within
-a member's EPF account, generally intended for retirement, housing and
-healthcare needs. Full withdrawal is normally available from age 55, while
-conditional partial withdrawals — for purposes such as buying a home,
-medical treatment, or education — are permitted earlier under specific
-schemes. Employers who fail to remit EPF contributions on time are subject
-to penalties and enforcement action.
+Kadar caruman berbeza mengikut kategori pekerja (contohnya kumpulan umur dan
+status kewarganegaraan) dan ditetapkan dalam jadual caruman EPF, yang dikemas
+kini dari semasa ke semasa. Simpanan disimpan dalam akaun berasingan di dalam
+akaun EPF ahli, umumnya bertujuan untuk keperluan persaraan, perumahan dan
+penjagaan kesihatan. Pengeluaran penuh biasanya boleh dibuat mulai umur 55
+tahun, manakala pengeluaran separa bersyarat — untuk tujuan seperti membeli
+rumah, rawatan perubatan, atau pendidikan — dibenarkan lebih awal di bawah
+skim tertentu. Majikan yang gagal mengemukakan caruman EPF tepat pada masanya
+tertakluk kepada penalti dan tindakan penguatkuasaan.
 
-## Related terms
+## Istilah berkaitan
 
-- [Employment Act 1955](/en/law/employment-act-1955)
+- [Employment Act 1955](/law/employment-act-1955)

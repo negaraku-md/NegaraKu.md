@@ -18,9 +18,9 @@ keyTakeaways:
   - "约在 15 世纪淡出记载，被大城王朝势力范围等后继政体所吸收"
 appliesTo: "好奇马六甲之前的马来半岛上有过什么，以及那段早期历史有多少是真正定论、多少仍在争论中的读者。"
 lang: "zh"
-masterLanguage: "en"
+masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "e3048a42c502ced2"
+sourceContentHash: "d58cdfad35ba7fed"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

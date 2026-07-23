@@ -4,37 +4,36 @@ title: "Batik: The Craft That Draws With Wax Instead of Dye"
 slug: "batik"
 category: "arts-culture"
 subcategory: ["crafts"]
-summary: "Malaysian batik — centred in Kelantan and Terengganu, known for hand-drawn canting work and bold floral block prints — is a wax-resist textile craft that turned into everyday and formal national dress."
+summary: "Batik Malaysia — berpusat di Kelantan dan Terengganu, terkenal dengan kerja canting lukisan tangan dan corak blok bunga yang berani — ialah kraf tekstil rintangan lilin yang bertukar menjadi pakaian kebangsaan harian dan rasmi."
 tier: "3"
 mode: "narrative"
 contentType: "guide"
 sensitivity: "none"
-answer: "Batik is a wax-resist dyeing technique for cloth, and in Malaysia it is most closely associated with the east coast states of Kelantan and Terengganu, where it developed a distinct style — brighter colours, larger floral and geometric motifs, and lighter fabrics suited to the tropics — compared with the more figurative Javanese tradition. It matters because it moved from craft workshop to national wardrobe: batik shirts are formal wear for Malaysian men, and government offices designate batik-wearing days."
+answer: "Batik ialah teknik pencelupan rintangan lilin pada kain, dan di Malaysia ia paling rapat dikaitkan dengan negeri-negeri pantai timur Kelantan dan Terengganu, tempat ia membentuk gaya tersendiri — warna lebih cerah, motif bunga dan geometri yang lebih besar, serta fabrik lebih ringan yang sesuai dengan iklim tropika — berbanding tradisi Jawa yang lebih figuratif. Ia penting kerana ia berpindah daripada bengkel kraf ke almari pakaian kebangsaan: kemeja batik ialah pakaian rasmi untuk lelaki Malaysia, dan pejabat kerajaan menetapkan hari memakai batik."
 keyTakeaways:
-  - "Batik uses hot wax applied to cloth to resist dye, building up pattern and colour in stages"
-  - "Malaysian batik is centred in Kelantan and Terengganu, and favours floral and geometric motifs over the figurative designs common in Javanese batik"
-  - "Two main techniques are used: batik canting (hand-drawn with a wax pen) and batik blok (wax stamped with copper blocks)"
-  - "Batik shirts are formal attire for Malaysian men and are worn as official dress in government and diplomatic settings"
-  - "Malaysian batik is a distinct regional tradition from Indonesian batik, which UNESCO recognised separately as intangible cultural heritage in 2009"
-appliesTo: "Anyone shopping for, wearing, or trying to understand the origins of Malaysian batik, and how it differs from Indonesian batik."
+  - "Batik menggunakan lilin panas yang disapu pada kain untuk merintang pencelup, membina corak dan warna secara berperingkat"
+  - "Batik Malaysia berpusat di Kelantan dan Terengganu, dan lebih gemarkan motif bunga serta geometri berbanding reka bentuk figuratif yang lazim dalam batik Jawa"
+  - "Dua teknik utama digunakan: batik canting (dilukis tangan dengan pen lilin) dan batik blok (lilin dicap dengan blok tembaga)"
+  - "Kemeja batik ialah pakaian rasmi untuk lelaki Malaysia dan dipakai sebagai pakaian rasmi dalam suasana kerajaan dan diplomatik"
+  - "Batik Malaysia ialah tradisi serantau yang tersendiri daripada batik Indonesia, yang diiktiraf berasingan oleh UNESCO sebagai warisan budaya tidak ketara pada 2009"
+appliesTo: "Sesiapa yang membeli-belah, memakai, atau cuba memahami asal usul batik Malaysia, dan bagaimana ia berbeza daripada batik Indonesia."
 
 faq:
-  - q: "What is the difference between batik canting and batik blok?"
-    a: "Canting is freehand: the artisan draws the wax design directly onto the cloth with a small copper pen, which allows fine lines and one-off compositions. Blok, also called batik terap, presses carved copper stamps dipped in wax onto the cloth in repeating patterns, which is faster and better suited to production runs. Much commercial batik combines both."
-  - q: "Is Malaysian batik UNESCO-listed?"
-    a: "No. UNESCO inscribed Indonesian batik on its Representative List of the Intangible Cultural Heritage of Humanity in 2009. That inscription covers the Indonesian tradition. Malaysian batik is a related but separate regional tradition with its own production centres and stylistic conventions, and it does not carry that listing."
-  - q: "How can I tell Malaysian batik from Javanese batik?"
-    a: "Look at motif and scale. Malaysian east coast batik favours larger floral, leaf and geometric motifs and generally avoids human and animal figures. Javanese batik includes finer and more figurative designs. Malaysian batik also tends toward lighter fabrics such as cotton, silk and chiffon."
-  - q: "When is batik worn in Malaysia?"
-    a: "Batik shirts are accepted formal wear for men, worn at official functions, weddings and diplomatic occasions in place of a suit and tie. Government offices designate batik-wearing days, which keeps it in routine circulation rather than confined to ceremonial use."
+  - q: "Apakah perbezaan antara batik canting dan batik blok?"
+    a: "Canting bersifat bebas tangan: tukang melukis reka bentuk lilin terus pada kain dengan pen tembaga kecil, yang membolehkan garisan halus dan gubahan yang unik. Blok, juga dipanggil batik terap, menekan cap tembaga berukir yang dicelup lilin pada kain dalam corak berulang, yang lebih pantas dan lebih sesuai untuk pengeluaran berskala. Kebanyakan batik komersial menggabungkan kedua-duanya."
+  - q: "Adakah batik Malaysia tersenarai dalam UNESCO?"
+    a: "Tidak. UNESCO menyenaraikan batik Indonesia dalam Senarai Perwakilan Warisan Budaya Tidak Ketara Kemanusiaan pada 2009. Penyenaraian itu meliputi tradisi Indonesia. Batik Malaysia ialah tradisi serantau yang berkaitan tetapi berasingan dengan pusat pengeluaran dan konvensyen gayanya sendiri, dan ia tidak membawa penyenaraian tersebut."
+  - q: "Bagaimana saya boleh membezakan batik Malaysia daripada batik Jawa?"
+    a: "Lihat pada motif dan skalanya. Batik pantai timur Malaysia lebih gemarkan motif bunga, daun dan geometri yang lebih besar dan umumnya mengelakkan figura manusia dan haiwan. Batik Jawa merangkumi reka bentuk yang lebih halus dan lebih figuratif. Batik Malaysia juga cenderung kepada fabrik lebih ringan seperti kapas, sutera dan cifon."
+  - q: "Bilakah batik dipakai di Malaysia?"
+    a: "Kemeja batik ialah pakaian rasmi yang diterima untuk lelaki, dipakai pada majlis rasmi, majlis perkahwinan dan acara diplomatik menggantikan sut dan tali leher. Pejabat kerajaan menetapkan hari memakai batik, yang mengekalkannya dalam peredaran rutin dan tidak terhad kepada kegunaan istiadat semata-mata."
 
-lang: "en"
-masterLanguage: "en"
+lang: "ms"
+masterLanguage: "ms"
 translationStatus: "master"
-status: "published"
+status: "draft"
 aiAssisted: true
-reviewer: "ashton-tan"
-reviewed: 2026-07-22
+reviewer: null
 version: "0.2"
 revisions:
   - version: "0.1"
@@ -46,7 +45,7 @@ revisions:
     change: "Re-tiered from Tier 2 to an honest Tier 3 — the article is 674 body words and the topic does not support 1,000 to 2,000 without padding. Added FAQ, replaced the generic Tourism Malaysia citation with Kraftangan Malaysia, the Department of Museums and the UNESCO inscription record."
     reviewer: null
 
-updated: 2026-07-20
+updated: 2026-07-23
 sources:
   - title: "Perbadanan Kemajuan Kraftangan Malaysia (Malaysian Handicraft Development Corporation)"
     url: "https://www.kraftangan.gov.my/"
@@ -62,31 +61,31 @@ relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "wayang-kulit" }
 related: ["wayang-kulit"]
-keywords: ["Malaysian batik", "batik canting", "Kelantan Terengganu batik", "batik shirt formal wear", "wax-resist textile"]
+keywords: ["batik Malaysia", "batik canting", "batik Kelantan Terengganu", "kemeja batik pakaian rasmi", "tekstil rintangan lilin"]
 ---
 
-A length of plain white cloth goes onto a frame. A craftsperson dips a small copper pen — a canting, its spout no wider than a pencil tip — into a pot of melted wax, and begins drawing directly onto the fabric: not with pigment, but with wax that will refuse to take colour. Only after the wax has cooled and hardened does the cloth go into a dye bath. Wherever the wax sits, the dye can't reach — and when the wax is later boiled off, what's left is a pattern drawn not in colour, but in the absence of it.
+Sehelai kain putih polos diletakkan pada bingkai. Seorang tukang mencelup pen tembaga kecil — sebuah canting, muncungnya tidak lebih lebar daripada hujung pensel — ke dalam periuk lilin cair, lalu mula melukis terus pada fabrik: bukan dengan pigmen, tetapi dengan lilin yang akan enggan menerima warna. Hanya setelah lilin menyejuk dan mengeras barulah kain itu dimasukkan ke dalam takungan pencelup. Di mana lilin berada, pencelup tidak dapat sampai — dan apabila lilin kemudiannya direbus keluar, apa yang tinggal ialah corak yang dilukis bukan dengan warna, tetapi dengan ketiadaannya.
 
-That inversion — designing by blocking, not by applying — is the whole trick of batik, and Malaysia's east coast, above all Kelantan and Terengganu, has been practising it for generations.
+Pembalikan itu — mereka bentuk dengan menyekat, bukan dengan menyapu — ialah keseluruhan rahsia batik, dan pantai timur Malaysia, teristimewanya Kelantan dan Terengganu, telah mengamalkannya turun-temurun.
 
-## Two ways to draw with wax
+## Dua cara melukis dengan lilin
 
-Malaysian batik makers work in two main modes. Batik canting is the slower, more prized method: an artisan freehands the wax design directly onto the cloth using the canting pen, which allows fine curling lines and one-of-a-kind compositions. Batik blok (or batik terap) uses carved copper stamps dipped in wax and pressed onto the cloth in repeating patterns — faster, more consistent, and better suited to producing cloth at commercial scale. Most batik sold today blends the two: block-stamped outlines finished with hand-applied colour detail, a compromise between artisanal texture and workable production speed.
+Pembuat batik Malaysia bekerja dalam dua mod utama. Batik canting ialah kaedah yang lebih perlahan dan lebih dihargai: seorang tukang melukis reka bentuk lilin secara bebas tangan terus pada kain menggunakan pen canting, yang membolehkan garisan berkeluk halus dan gubahan yang unik. Batik blok (atau batik terap) menggunakan cap tembaga berukir yang dicelup lilin dan ditekan pada kain dalam corak berulang — lebih pantas, lebih konsisten, dan lebih sesuai untuk menghasilkan kain pada skala komersial. Kebanyakan batik yang dijual hari ini menggabungkan kedua-duanya: garis luar yang dicap blok disiapkan dengan butiran warna yang disapu tangan, satu kompromi antara tekstur seni tukang dan kelajuan pengeluaran yang praktikal.
 
-## A different palette from Java's
+## Palet berbeza daripada Jawa
 
-Batik did not originate in Malaysia — the wax-resist technique has deep roots in the wider Indonesian-Malay archipelago, and Javanese batik is the tradition most people picture when they hear the word. But the Malaysian east coast developed its own visible dialect of the craft: brighter, often warmer colour palettes; larger-scale floral, leaf and geometric motifs; and a general avoidance of the human and animal figures that appear in some Javanese court batik, reflecting local Islamic sensibilities around figurative imagery. Malaysian batik also tends to favour lighter fabrics — cotton, silk, chiffon — suited to a hot, humid climate, whereas some Javanese batik traditions historically used heavier cloth intended for court and ceremonial use.
+Batik tidak berasal dari Malaysia — teknik rintangan lilin berakar umbi dalam kepulauan Indonesia-Melayu yang lebih luas, dan batik Jawa ialah tradisi yang paling terbayang oleh kebanyakan orang apabila mereka mendengar perkataan itu. Tetapi pantai timur Malaysia membentuk dialeknya sendiri yang jelas dalam kraf ini: palet warna yang lebih cerah dan sering lebih hangat; motif bunga, daun dan geometri berskala lebih besar; serta secara umumnya mengelakkan figura manusia dan haiwan yang muncul dalam sesetengah batik istana Jawa, mencerminkan kepekaan Islam tempatan terhadap imej figuratif. Batik Malaysia juga cenderung memilih fabrik lebih ringan — kapas, sutera, cifon — yang sesuai dengan iklim panas dan lembap, sedangkan sesetengah tradisi batik Jawa dari segi sejarah menggunakan kain lebih tebal yang ditujukan untuk kegunaan istana dan istiadat.
 
-> The wax never touches the final colour you see — it only ever decides where the colour is not allowed to go.
+> Lilin tidak pernah menyentuh warna akhir yang anda lihat — ia hanya menentukan di mana warna itu tidak dibenarkan pergi.
 
-## From workshop cloth to national dress
+## Daripada kain bengkel ke pakaian kebangsaan
 
-Batik's real trajectory in Malaysia is less about textile technique and more about what it came to symbolise. Somewhere in the twentieth century, batik moved from being primarily women's sarong and kain fabric into men's tailored shirts — untucked, short-sleeved, worn buttoned to the collar — that became accepted as formal wear. Government offices in Malaysia now designate specific batik-wearing days, and batik shirts are standard attire at official functions, weddings, and Friday prayers in many workplaces, alongside Western suits rather than beneath them. Few textile crafts anywhere have made that particular jump — from artisan workshop output to a nation's substitute for the necktie.
+Lintasan sebenar batik di Malaysia kurang tentang teknik tekstil dan lebih tentang apa yang ia lambangkan. Di suatu ketika dalam abad kedua puluh, batik berpindah daripada asalnya kain sarung dan kain wanita kepada kemeja lelaki yang dijahit — tidak diselitkan ke dalam seluar, berlengan pendek, dibutang hingga ke kolar — yang diterima sebagai pakaian rasmi. Pejabat kerajaan di Malaysia kini menetapkan hari-hari memakai batik tertentu, dan kemeja batik ialah pakaian standard pada majlis rasmi, majlis perkahwinan, dan solat Jumaat di banyak tempat kerja, seiring dengan sut Barat dan bukannya di bawahnya. Sedikit sahaja kraf tekstil di mana-mana pun yang telah membuat lonjakan tertentu itu — daripada hasil bengkel tukang kepada pengganti tali leher bagi sesebuah negara.
 
-## Not to be confused with its neighbour
+## Jangan dikelirukan dengan jirannya
 
-It is worth being precise here: in 2009, UNESCO inscribed Indonesian batik on its Representative List of the Intangible Cultural Heritage of Humanity — a recognition of the Indonesian, specifically Javanese-centred, tradition and its associated symbolism and rituals. Malaysian batik is a related but distinct regional tradition, with its own centres of production, guild histories and stylistic conventions in Kelantan and Terengganu; conflating the two, or assuming Malaysian batik carries the same UNESCO listing, understates what is a genuinely separate craft lineage worth recognising on its own terms.
+Wajar untuk bersikap tepat di sini: pada 2009, UNESCO menyenaraikan batik Indonesia dalam Senarai Perwakilan Warisan Budaya Tidak Ketara Kemanusiaan — satu pengiktirafan terhadap tradisi Indonesia, khususnya yang berpusatkan Jawa, dan simbolisme serta ritual yang berkaitan dengannya. Batik Malaysia ialah tradisi serantau yang berkaitan tetapi tersendiri, dengan pusat pengeluaran, sejarah persatuan tukang dan konvensyen gayanya sendiri di Kelantan dan Terengganu; mencampuradukkan kedua-duanya, atau menganggap batik Malaysia turut membawa penyenaraian UNESCO yang sama, memperkecilkan apa yang sebenarnya merupakan salasilah kraf yang benar-benar berasingan dan wajar diiktiraf atas terma tersendirinya.
 
-## Why it still matters
+## Mengapa ia masih penting
 
-Batik is one of the few traditional Malaysian crafts that never had to be revived, because it never really stopped being used — it simply moved from sarongs to shirts and stayed in daily rotation. That continuity makes Kelantan and Terengganu's batik workshops a working craft economy rather than a museum piece: apprentices still learn the canting by hand, dye recipes are still guarded family knowledge, and the cloth still shows up at weddings, in parliament, and in ordinary Friday wardrobes. A wax pen drawing lines that colour can't cross turned, over a century, into one of the most recognisable pieces of Malaysian visual identity.
+Batik ialah salah satu daripada sedikit kraf tradisional Malaysia yang tidak pernah perlu dihidupkan semula, kerana ia sebenarnya tidak pernah berhenti digunakan — ia hanya berpindah daripada sarung ke kemeja dan kekal dalam peredaran harian. Kesinambungan itu menjadikan bengkel batik Kelantan dan Terengganu sebagai ekonomi kraf yang berfungsi dan bukannya bahan pameran muzium: perantis masih belajar canting dengan tangan, resipi pencelup masih menjadi pengetahuan keluarga yang dipelihara, dan kain itu masih muncul di majlis perkahwinan, di parlimen, dan dalam almari pakaian Jumaat yang biasa. Sebatang pen lilin yang melukis garisan yang warna tidak dapat lintasi telah bertukar, dalam masa seabad, menjadi salah satu bahagian identiti visual Malaysia yang paling mudah dikenali.

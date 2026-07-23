@@ -5,28 +5,27 @@ seoTitle: "Langkasuka: Malaysia's Oldest Recorded Kingdom"
 slug: "langkasuka"
 category: "malaysia"
 subcategory: ["early-kingdoms"]
-summary: "A Hindu-Buddhist kingdom on the upper Malay Peninsula, known mainly through Chinese dynastic annals, that predates every Malay sultanate by a thousand years — and whose exact capital is still argued over."
+summary: "Sebuah kerajaan Hindu-Buddha di utara Semenanjung Tanah Melayu, dikenali terutamanya melalui babad dinasti China, yang wujud seribu tahun lebih awal daripada mana-mana kesultanan Melayu — dan lokasi ibu kotanya masih dipertikaikan sehingga kini."
 tier: "3"
 mode: "narrative"
 contentType: "guide"
-answer: "Langkasuka was an early Hindu-Buddhist kingdom on the upper Malay Peninsula, first recorded in Chinese sources from around the 5th–6th century CE and referenced for roughly a thousand years afterward. It matters because it is one of the earliest known organised states in the region that became Malaysia — evidence that peninsula trade, statecraft and Indian-influenced culture existed centuries before Melaka or Islam arrived."
+answer: "Langkasuka ialah sebuah kerajaan Hindu-Buddha awal di utara Semenanjung Tanah Melayu, mula-mula dicatatkan dalam sumber China sekitar abad ke-5 hingga ke-6 Masihi dan dirujuk selama kira-kira seribu tahun selepas itu. Ia penting kerana merupakan salah satu negeri terancang paling awal yang diketahui di rantau yang kemudiannya menjadi Malaysia — bukti bahawa perdagangan, seni pemerintahan dan budaya berpengaruh India di semenanjung sudah wujud beberapa abad sebelum Melaka atau Islam tiba."
 keyTakeaways:
-  - "Known mainly from Chinese dynastic records, which call it 'Lang-ya-xiu' and describe an established royal court"
-  - "Most historians place its heartland in the Kedah–Pattani corridor of the upper peninsula, though the exact capital is unresolved"
-  - "Practiced Hindu-Buddhist religion, centuries before Islam reached the peninsula"
-  - "Exploited the narrow neck of the peninsula as an overland portage route between the Indian Ocean and the South China Sea"
-  - "Faded from record by roughly the 15th century, absorbed into successor polities such as Ayutthaya's sphere of influence"
-appliesTo: "Readers curious about what existed on the Malay Peninsula before Melaka, and how much of that early history is genuinely settled versus still debated."
-lang: "en"
-masterLanguage: "en"
+  - "Dikenali terutamanya daripada catatan dinasti China, yang menyebutnya 'Lang-ya-xiu' dan menggambarkan sebuah istana diraja yang mantap"
+  - "Kebanyakan ahli sejarah meletakkan wilayah terasnya di koridor Kedah–Pattani di utara semenanjung, walaupun lokasi tepat ibu kotanya belum diputuskan"
+  - "Mengamalkan agama Hindu-Buddha, beberapa abad sebelum Islam sampai ke semenanjung"
+  - "Memanfaatkan genting tanah yang sempit di semenanjung sebagai laluan angkut darat antara Lautan Hindi dengan Laut China Selatan"
+  - "Lenyap daripada catatan menjelang kira-kira abad ke-15, terserap ke dalam negeri pewaris seperti lingkungan pengaruh Ayutthaya"
+appliesTo: "Pembaca yang ingin tahu apa yang wujud di Semenanjung Tanah Melayu sebelum Melaka, dan sejauh mana sejarah awal itu benar-benar muktamad berbanding masih diperdebatkan."
+lang: "ms"
+masterLanguage: "ms"
 translationStatus: "master"
-status: "published"
+status: "draft"
 aiAssisted: true
-reviewer: "ashton-tan"
-reviewed: 2026-07-22
+reviewer: null
 version: "0.1"
 sensitivity: "none"
-updated: 2026-07-10
+updated: 2026-07-23
 sources:
   - title: "Langkasuka"
     url: "https://www.britannica.com/place/Langkasuka"
@@ -36,33 +35,33 @@ sources:
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "melaka-sultanate" }
-keywords: ["Langkasuka", "early Malay kingdoms", "Kedah ancient history", "Lang-ya-xiu", "pre-Islamic Malaysia"]
+keywords: ["Langkasuka", "kerajaan Melayu awal", "sejarah purba Kedah", "Lang-ya-xiu", "Malaysia pra-Islam"]
 ---
 
-In the seventh century, a Chinese court historian compiling the Book of Liang wrote down what earlier envoys had reported about a kingdom far to the south: a walled city, a king who rode an elephant, a court where officials bowed with hands folded before their sovereign. The historian called the place "Lang-ya-xiu." He was almost certainly describing Langkasuka — and that sentence, buried in a dynastic history compiled for entirely different purposes, is one of the only detailed descriptions of the place that survives anywhere.
+Pada abad ketujuh, seorang ahli sejarah istana China yang menyusun Kitab Liang mencatatkan apa yang telah dilaporkan oleh utusan terdahulu tentang sebuah kerajaan jauh di selatan: sebuah kota berdinding, seorang raja yang menunggang gajah, sebuah istana tempat para pegawai tunduk dengan tangan bertangkup di hadapan rajanya. Ahli sejarah itu menamakan tempat itu "Lang-ya-xiu." Hampir pasti dia sedang menggambarkan Langkasuka — dan ayat itu, terkubur dalam sebuah sejarah dinasti yang disusun untuk tujuan yang sama sekali berbeza, ialah salah satu daripada segelintir gambaran terperinci tentang tempat ini yang masih terselamat di mana-mana jua.
 
-This is the strange position Langkasuka occupies in the history of the Malay Peninsula: everyone agrees it existed, official Chinese envoys visited it, sent tribute missions confirming it, and it lasted for the better part of a millennium — and yet no one can point to a confirmed royal palace or a definitively excavated capital and say "here." Malaysia's early history, before the fifteenth century, survives mostly in other people's paperwork.
+Inilah kedudukan ganjil yang diduduki Langkasuka dalam sejarah Semenanjung Tanah Melayu: semua orang bersetuju ia pernah wujud, utusan rasmi China pernah melawatnya, misi ufti mengesahkannya, dan ia bertahan hampir seribu tahun lamanya — namun tiada siapa yang boleh menunjuk kepada sebuah istana diraja yang disahkan atau sebuah ibu kota yang benar-benar digali lalu berkata "di sinilah." Sejarah awal Malaysia, sebelum abad kelima belas, kebanyakannya terselamat dalam dokumen orang lain.
 
-## A kingdom known through someone else's archive
+## Sebuah kerajaan yang dikenali melalui arkib orang lain
 
-Chinese records mention diplomatic contact with Langkasuka as early as the 5th or 6th century CE, describing an established, functioning kingdom rather than a new one — meaning its actual founding predates the written record by an unknown stretch of time. Tribute missions to the Chinese court continued intermittently for centuries. Beyond China, later Malay and Javanese texts also carry references to a place called Langkasuka, treating it as a real, known kingdom rather than a legend.
+Catatan China menyebut hubungan diplomatik dengan Langkasuka seawal abad ke-5 atau ke-6 Masihi, menggambarkan sebuah kerajaan yang sudah mantap dan berfungsi, bukannya baharu — bermakna penubuhan sebenarnya mendahului catatan bertulis itu untuk suatu jangka masa yang tidak diketahui. Misi ufti ke istana China berterusan secara berselang-seli selama beberapa abad. Selain China, teks Melayu dan Jawa kemudiannya turut membawa rujukan kepada sebuah tempat bernama Langkasuka, memperlakukannya sebagai sebuah kerajaan yang nyata dan diketahui, bukan sebagai legenda.
 
-What these fragments describe, patched together, is a Hindu-Buddhist court culture — Indian religious and administrative influence layered onto a Southeast Asian trading kingdom, the same pattern seen at Funan, Champa and later Srivijaya. Langkasuka's kings, whatever their names in their own language, ruled in the idiom of Indic kingship: elephants, court ritual, Sanskrit-derived titles.
+Apa yang digambarkan oleh serpihan-serpihan ini, setelah dicantumkan, ialah sebuah budaya istana Hindu-Buddha — pengaruh keagamaan dan pentadbiran India yang tersalut pada sebuah kerajaan perdagangan Asia Tenggara, corak yang sama seperti yang dilihat di Funan, Champa dan kemudiannya Srivijaya. Raja-raja Langkasuka, apa jua nama mereka dalam bahasa sendiri, memerintah menurut ungkapan kedaulatan Indik: gajah, ritual istana, gelaran berasaskan Sanskrit.
 
-## Where, exactly?
+## Di mana, sebenarnya?
 
-Most historians locate Langkasuka's core territory in the upper Malay Peninsula, in the general vicinity of modern Kedah and Pattani — a stretch of coast on both the Andaman Sea and Gulf of Thailand sides that let a kingdom control traffic crossing the peninsula's narrow neck without ships needing to sail all the way around to the Strait of Melaka. Candidate sites for the actual capital have been proposed in both southern Thailand (near Pattani) and northern Malaysia (Kedah), and the debate has not been definitively settled by archaeology. This is normal for the period: a "capital" in a riverine trading kingdom could shift, and inscriptions naming it precisely are rare or absent.
+Kebanyakan ahli sejarah meletakkan wilayah teras Langkasuka di utara Semenanjung Tanah Melayu, di sekitar kawasan Kedah dan Pattani moden — sebentang pantai di kedua-dua belah Laut Andaman dan Teluk Thailand yang membolehkan sesebuah kerajaan mengawal lalu lintas yang melintasi genting tanah sempit di semenanjung tanpa kapal perlu belayar mengelilinginya sehingga ke Selat Melaka. Tapak calon bagi ibu kota sebenar telah dicadangkan di kedua-dua selatan Thailand (berhampiran Pattani) dan utara Malaysia (Kedah), dan perdebatan itu belum diselesaikan secara muktamad oleh arkeologi. Ini biasa bagi zaman itu: sebuah "ibu kota" dalam sesebuah kerajaan perdagangan tepian sungai boleh berpindah, dan inskripsi yang menamakannya dengan tepat adalah jarang atau tiada.
 
-> The kingdom's court is described in someone else's language, in someone else's archive, in a script its own people may not have used — which is exactly why historians still argue about where its throne room stood.
+> Istana kerajaan ini digambarkan dalam bahasa orang lain, dalam arkib orang lain, dalam tulisan yang mungkin tidak pernah digunakan oleh rakyatnya sendiri — dan itulah sebabnya para ahli sejarah masih berdebat tentang di mana letaknya balai singgahsananya.
 
-## Portage, not just ports
+## Laluan angkut, bukan sekadar pelabuhan
 
-Langkasuka's location mattered for the same reason Melaka's did later: geography that saved ships time. Rather than sailing the long way around the peninsula through the Strait of Melaka, goods and sometimes ships' crews could cross the narrow neck of land overland, cutting weeks off a journey between the Indian Ocean and the South China Sea. A kingdom that controlled that portage route, and could guarantee safe passage across it, earned income and influence without needing to be a maritime superpower itself.
+Lokasi Langkasuka penting atas sebab yang sama seperti lokasi Melaka kemudiannya: geografi yang menjimatkan masa kapal. Daripada belayar jauh mengelilingi semenanjung menerusi Selat Melaka, barangan dan kadangkala anak kapal boleh melintasi genting tanah yang sempit itu menerusi darat, memendekkan perjalanan antara Lautan Hindi dengan Laut China Selatan sebanyak beberapa minggu. Sebuah kerajaan yang mengawal laluan angkut itu, dan boleh menjamin laluan yang selamat merentasinya, memperoleh pendapatan dan pengaruh tanpa perlu menjadi kuasa besar maritim itu sendiri.
 
-## Fading from the record
+## Lenyap daripada catatan
 
-Langkasuka's presence in outside records thins out from around the twelfth century onward and effectively disappears by the fifteenth, as the region's political weight shifted decisively toward maritime entrepôts — first Srivijaya's network, then Melaka — and as Siamese-speaking polities including Ayutthaya extended influence over the upper peninsula. There was no single dramatic conquest recorded; the kingdom's name simply stops appearing, the common fate of many early Southeast Asian states whose successor states absorbed their territory and, eventually, their memory.
+Kehadiran Langkasuka dalam catatan luar mula menipis dari sekitar abad kedua belas dan hilang secara berkesan menjelang abad kelima belas, apabila keberatan politik rantau ini beralih secara muktamad ke arah pelabuhan entrepot maritim — mula-mula rangkaian Srivijaya, kemudian Melaka — dan apabila negeri berbahasa Siam termasuk Ayutthaya meluaskan pengaruh ke atas utara semenanjung. Tiada satu penaklukan dramatik pun yang dicatatkan; nama kerajaan itu sekadar berhenti muncul, nasib lazim bagi banyak negeri awal Asia Tenggara yang wilayahnya, dan akhirnya ingatan tentangnya, terserap oleh negeri pewaris mereka.
 
-## Why it still matters
+## Mengapa ia masih penting
 
-Langkasuka is a useful corrective to any history of Malaysia that starts the clock at Melaka in 1400. Organised kingship, long-distance trade and Indian religious influence were already centuries old on the peninsula by the time Parameswara arrived — Langkasuka is the clearest documented example. It also models something worth carrying into how the rest of Malaysian early history is read: the written record is frequently a Chinese envoy's report, not a local inscription, and treating "Langkasuka existed" and "we know exactly where its capital was" as two different levels of certainty is the honest way to hold this period of history.
+Langkasuka ialah sebuah pembetulan yang berguna bagi mana-mana sejarah Malaysia yang memulakan jamnya di Melaka pada tahun 1400. Kedaulatan yang terancang, perdagangan jarak jauh dan pengaruh keagamaan India sudah pun berusia beberapa abad di semenanjung menjelang kedatangan Parameswara — Langkasuka ialah contoh terdokumentasi yang paling jelas. Ia juga menjadi model bagi sesuatu yang wajar dibawa ke dalam cara membaca selebihnya sejarah awal Malaysia: catatan bertulis kerap kali merupakan laporan seorang utusan China, bukan inskripsi tempatan, dan memperlakukan "Langkasuka pernah wujud" dan "kita tahu dengan tepat di mana ibu kotanya" sebagai dua tahap kepastian yang berbeza ialah cara yang jujur untuk mengingati zaman sejarah ini.

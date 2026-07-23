@@ -4,42 +4,41 @@ title: "Johor"
 slug: "johor"
 category: "states"
 subcategory: ["peninsular"]
-summary: "Malaysia's southern gateway to Singapore — a manufacturing, petrochemical and property powerhouse built around Johor Bahru, the Causeway, and the Iskandar Malaysia development corridor."
+summary: "Pintu gerbang selatan Malaysia ke Singapura — sebuah pusat kuasa pembuatan, petrokimia dan hartanah yang dibina sekitar Johor Bahru, Tambak Johor, dan koridor pembangunan Iskandar Malaysia."
 
 tier: "3"
 mode: "practical"
 contentType: "place"
 
-answer: "Johor is Peninsular Malaysia's southernmost state, bordering Singapore across the Johor-Singapore Causeway. Its economy spans manufacturing, petrochemicals at Pengerang, palm oil agriculture, and the Iskandar Malaysia development corridor, with deep economic integration into Singapore's economy through daily cross-border commuting and trade."
+answer: "Johor ialah negeri paling selatan di Semenanjung Malaysia, bersempadan dengan Singapura menerusi Tambak Johor-Singapura. Ekonominya merangkumi pembuatan, petrokimia di Pengerang, pertanian minyak sawit, dan koridor pembangunan Iskandar Malaysia, dengan integrasi ekonomi yang mendalam ke dalam ekonomi Singapura melalui pergerakan ulang-alik dan perdagangan rentas sempadan setiap hari."
 keyTakeaways:
-  - "State capital is Johor Bahru; the royal capital is the historic town of Muar"
-  - "Population is around 4 million, one of the largest among peninsular states"
-  - "Borders Singapore via the Causeway and the Second Link, among the world's busiest land border crossings"
-  - "Home to the Pengerang Integrated Petroleum Complex and the Iskandar Malaysia development corridor"
-  - "Tanjung Pelepas is one of the world's busiest container transshipment ports"
-appliesTo: "Businesses evaluating cross-border operations with Singapore, and investors considering manufacturing or property in southern Peninsular Malaysia."
+  - "Ibu negeri ialah Johor Bahru; ibu negeri diraja pula ialah pekan bersejarah Muar"
+  - "Penduduk berjumlah kira-kira 4 juta, antara yang terbesar dalam kalangan negeri-negeri di semenanjung"
+  - "Bersempadan dengan Singapura menerusi Tambak dan Laluan Kedua (Second Link), antara lintasan sempadan darat tersibuk di dunia"
+  - "Menempatkan Kompleks Petroleum Bersepadu Pengerang dan koridor pembangunan Iskandar Malaysia"
+  - "Tanjung Pelepas ialah antara pelabuhan pemindahan kontena (transhipment) tersibuk di dunia"
+appliesTo: "Perniagaan yang menilai operasi rentas sempadan dengan Singapura, dan pelabur yang mempertimbangkan pembuatan atau hartanah di selatan Semenanjung Malaysia."
 
 faq:
-  - q: "Is Johor Bahru the capital of Johor?"
-    a: "Johor Bahru is the state capital and administrative centre. Muar holds the separate status of royal town (Bandar Diraja). The two roles are distinct, which is why some references name different cities."
-  - q: "How do goods and workers cross between Johor and Singapore?"
-    a: "Two land links carry the traffic — the Johor-Singapore Causeway at Johor Bahru and the Second Link (Tuas) further west — supplemented by sea and air routes. Both crossings are heavily congested at commuting peaks, so cross-border logistics need to be scheduled around them."
-  - q: "What is the Johor-Singapore Special Economic Zone?"
-    a: "An arrangement agreed between the Malaysian and Singaporean governments to deepen economic integration across the strait, aimed at streamlining the cross-border movement of goods, services and skilled workers. Confirm current scope, incentives and qualifying criteria with the Johor state government and MIDA before relying on it."
-  - q: "Why do manufacturers locate in Johor rather than Singapore?"
-    a: "Cost. Land and labour are substantially cheaper than in Singapore while remaining within reach of Singapore's port, airport and customer base. That trade-off is the core of the Iskandar Malaysia investment case."
+  - q: "Adakah Johor Bahru ibu negeri Johor?"
+    a: "Johor Bahru ialah ibu negeri dan pusat pentadbiran. Muar pula memegang status berasingan sebagai bandar diraja (Bandar Diraja). Kedua-dua peranan ini berbeza, dan inilah sebabnya sesetengah rujukan menyebut bandar yang berlainan."
+  - q: "Bagaimanakah barangan dan pekerja melintas antara Johor dan Singapura?"
+    a: "Dua laluan darat menampung lalu lintas ini — Tambak Johor-Singapura di Johor Bahru dan Laluan Kedua (Tuas) lebih ke barat — ditambah dengan laluan laut dan udara. Kedua-dua lintasan mengalami kesesakan teruk pada waktu puncak ulang-alik, jadi logistik rentas sempadan perlu dijadualkan mengikutnya."
+  - q: "Apakah Zon Ekonomi Khas Johor-Singapura?"
+    a: "Satu pengaturan yang dipersetujui antara kerajaan Malaysia dan Singapura untuk memperdalam integrasi ekonomi merentasi selat, bertujuan menyelaraskan pergerakan rentas sempadan barangan, perkhidmatan dan pekerja mahir. Sahkan skop semasa, insentif dan kriteria kelayakan dengan kerajaan negeri Johor dan MIDA sebelum bergantung padanya."
+  - q: "Mengapakah pengeluar memilih Johor berbanding Singapura?"
+    a: "Kos. Tanah dan buruh jauh lebih murah berbanding di Singapura sambil masih berada dalam capaian pelabuhan, lapangan terbang dan pangkalan pelanggan Singapura. Pertukaran nilai (trade-off) inilah teras hujah pelaburan Iskandar Malaysia."
 
 verificationNeeded:
   - "Confirm Johor's current population against the latest DOSM state population release before publication."
 
-lang: "en"
-masterLanguage: "en"
+lang: "ms"
+masterLanguage: "ms"
 translationStatus: "master"
 
-status: "published"
+status: "draft"
 aiAssisted: true
-reviewer: "ashton-tan"
-reviewed: 2026-07-22
+reviewer: null
 version: "0.2"
 revisions:
   - version: "0.1"
@@ -52,7 +51,7 @@ revisions:
     reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-20
+updated: 2026-07-23
 sources:
   - title: "OpenDOSM — official statistics data catalogue"
     url: "https://open.dosm.gov.my/data-catalogue"
@@ -70,70 +69,74 @@ relations:
   - { rel: "related-to", to: "kuala-lumpur" }
   - { rel: "related-to", to: "melaka-sultanate" }
 related: []
-keywords: ["Johor Malaysia", "Johor Bahru", "Iskandar Malaysia", "Pengerang petrochemical", "Johor Singapore Causeway"]
+keywords: ["Johor Malaysia", "Johor Bahru", "Iskandar Malaysia", "petrokimia Pengerang", "Tambak Johor Singapura"]
 ---
 
-Johor's economy is defined by its neighbour. As the peninsula's southernmost state,
-it sits directly across the Strait of Johor from Singapore, and that proximity
-shapes everything from its labour market to its property development strategy.
+Ekonomi Johor ditakrifkan oleh jirannya. Sebagai negeri paling selatan di
+semenanjung, ia terletak betul-betul bertentangan dengan Singapura di seberang
+Selat Johor, dan kehampiran itu membentuk segala-galanya daripada pasaran buruhnya
+hinggalah strategi pembangunan hartanahnya.
 
-## Key facts
+## Fakta utama
 
 | | |
 | --- | --- |
-| Capital | Johor Bahru |
-| Royal capital | Muar |
-| Population | Around 4 million |
-| Head of state | Sultan of Johor |
-| Key industries | Manufacturing, petrochemicals, agriculture (palm oil), logistics & cross-border trade, property development |
+| Ibu negeri | Johor Bahru |
+| Ibu negeri diraja | Muar |
+| Penduduk | Kira-kira 4 juta |
+| Ketua negeri | Sultan Johor |
+| Industri utama | Pembuatan, petrokimia, pertanian (minyak sawit), logistik & perdagangan rentas sempadan, pembangunan hartanah |
 
-## Geography
+## Geografi
 
-Johor occupies the southern tip of Peninsular Malaysia, bordered by Pahang to the
-north, Malacca and Negeri Sembilan to the northwest, and separated from Singapore by
-the narrow Strait of Johor. It is one of the largest peninsular states by land area,
-with a coastline on both the South China Sea to the east and the Strait of Malacca
-to the west. Johor Bahru, the state capital, sits at the southern tip directly
-opposite Singapore, connected by the Johor-Singapore Causeway and the Second Link
-expressway crossing further west.
+Johor menduduki hujung selatan Semenanjung Malaysia, bersempadan dengan Pahang di
+utara, Melaka dan Negeri Sembilan di barat laut, dan dipisahkan daripada Singapura
+oleh Selat Johor yang sempit. Ia merupakan antara negeri terbesar di semenanjung dari
+segi keluasan tanah, dengan garis pantai di kedua-dua Laut China Selatan di sebelah
+timur dan Selat Melaka di sebelah barat. Johor Bahru, ibu negeri, terletak di hujung
+selatan betul-betul bertentangan dengan Singapura, dihubungkan oleh Tambak
+Johor-Singapura dan lintasan lebuh raya Laluan Kedua lebih ke barat.
 
-## Economy
+## Ekonomi
 
-Johor's economy combines heavy industry, agriculture and a uniquely close economic
-relationship with Singapore. The Pengerang Integrated Petroleum Complex, anchored by
-the RAPID refinery project, has made the state a major petrochemical processing and
-storage hub. Port of Tanjung Pelepas ranks among the world's busiest container
-transshipment ports, competing directly with Singapore's port for regional cargo.
-Palm oil and rubber plantations remain significant in Johor's rural economy, while
-manufacturing spans electronics, machinery and food processing. The Iskandar Malaysia
-development corridor, launched in the 2000s around Johor Bahru, has driven large-scale
-property, education and tourism investment, including projects such as Legoland
-Malaysia and Forest City. Hundreds of thousands of Malaysians commute daily across
-the Causeway to work in Singapore, making labour flows between the two territories a
-defining feature of the state's economy.
+Ekonomi Johor menggabungkan industri berat, pertanian dan hubungan ekonomi yang amat
+rapat dengan Singapura secara unik. Kompleks Petroleum Bersepadu Pengerang, yang
+ditunjangi oleh projek penapisan RAPID, telah menjadikan negeri ini sebuah hab
+pemprosesan dan penyimpanan petrokimia yang utama. Pelabuhan Tanjung Pelepas
+tersenarai antara pelabuhan pemindahan kontena (transhipment) tersibuk di dunia,
+bersaing secara langsung dengan pelabuhan Singapura untuk kargo serantau. Ladang
+minyak sawit dan getah kekal penting dalam ekonomi luar bandar Johor, manakala
+pembuatan merangkumi elektronik, jentera dan pemprosesan makanan. Koridor pembangunan
+Iskandar Malaysia, yang dilancarkan pada tahun 2000-an sekitar Johor Bahru, telah
+memacu pelaburan hartanah, pendidikan dan pelancongan berskala besar, termasuk projek
+seperti Legoland Malaysia dan Forest City. Ratusan ribu rakyat Malaysia berulang-alik
+setiap hari merentasi Tambak untuk bekerja di Singapura, menjadikan aliran buruh
+antara kedua-dua wilayah suatu ciri utama ekonomi negeri ini.
 
-## Doing business here
+## Menjalankan perniagaan di sini
 
-Johor's pitch to investors rests on lower costs than Singapore combined with direct
-access to the Singapore market and its logistics network. The Johor-Singapore
-Special Economic Zone arrangement, agreed between the two governments, aims to
-deepen this integration further by streamlining cross-border movement of goods,
-services and skilled workers. Iskandar Malaysia offers specific investment
-incentives for manufacturing, logistics, creative industries and education projects
-within its designated zones, administered alongside federal incentives from MIDA.
-Businesses serving the Singapore market often locate distribution or light
-manufacturing in Johor to take advantage of lower land and labour costs while
-remaining within reach of Singapore's port and airport. The main operational
-consideration is the Causeway itself, which experiences heavy congestion at peak
-commuting hours and requires planning for cross-border logistics timing.
+Tawaran Johor kepada pelabur bersandar pada kos yang lebih rendah berbanding Singapura
+digabungkan dengan capaian langsung ke pasaran Singapura dan rangkaian logistiknya.
+Pengaturan Zon Ekonomi Khas Johor-Singapura, yang dipersetujui antara kedua-dua
+kerajaan, bertujuan memperdalam lagi integrasi ini dengan menyelaraskan pergerakan
+rentas sempadan barangan, perkhidmatan dan pekerja mahir. Iskandar Malaysia menawarkan
+insentif pelaburan khusus untuk projek pembuatan, logistik, industri kreatif dan
+pendidikan dalam zon-zon yang ditetapkannya, ditadbir bersama-sama insentif persekutuan
+daripada MIDA. Perniagaan yang berkhidmat kepada pasaran Singapura kerap menempatkan
+pengedaran atau pembuatan ringan di Johor untuk memanfaatkan kos tanah dan buruh yang
+lebih rendah sambil masih berada dalam capaian pelabuhan dan lapangan terbang Singapura.
+Pertimbangan operasi yang utama ialah Tambak itu sendiri, yang mengalami kesesakan teruk
+pada waktu puncak ulang-alik dan memerlukan perancangan bagi penjadualan masa logistik
+rentas sempadan.
 
-## Notable places
+## Tempat menarik
 
-Johor Bahru's waterfront and the historic Sultan Ibrahim Building anchor the city
-centre, while Bukit Serene Palace remains an official royal residence. Muar, the
-state's royal town, is known locally as Bandar Maharani and retains a well-preserved
-colonial-era shophouse district. Desaru, on the east coast, is a beach resort area
-popular with both domestic and Singaporean visitors, while Kukup Island is known for
-its stilt-house fishing village and seafood. Legoland Malaysia and the broader
-Iskandar Puteri development represent the state's push into tourism and integrated
-township development.
+Persisiran air Johor Bahru dan Bangunan Sultan Ibrahim yang bersejarah menjadi tumpuan
+pusat bandar, manakala Istana Bukit Serene kekal sebagai kediaman rasmi diraja. Muar,
+bandar diraja negeri ini, dikenali secara tempatan sebagai Bandar Maharani dan
+mengekalkan kawasan rumah kedai era penjajahan yang terpelihara dengan baik. Desaru, di
+pantai timur, ialah kawasan peranginan pantai yang popular dalam kalangan pengunjung
+tempatan dan Singapura, manakala Pulau Kukup terkenal dengan perkampungan nelayan rumah
+pancang dan makanan lautnya. Legoland Malaysia dan pembangunan Iskandar Puteri yang
+lebih luas mewakili usaha negeri ini ke arah pelancongan dan pembangunan perbandaran
+bersepadu.

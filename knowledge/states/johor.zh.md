@@ -33,9 +33,9 @@ verificationNeeded:
   - "Confirm Johor's current population against the latest DOSM state population release before publication."
 
 lang: "zh"
-masterLanguage: "en"
+masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "4af796118f328b87"
+sourceContentHash: "f075aca9f39a2a6a"
 
 status: "published"
 aiAssisted: true

@@ -4,42 +4,41 @@ title: "Penang"
 slug: "penang"
 category: "states"
 subcategory: ["peninsular"]
-summary: "Malaysia's electronics manufacturing powerhouse and a UNESCO World Heritage city — an island-and-mainland state built on semiconductors, ports and tourism."
+summary: "Gergasi pembuatan elektronik Malaysia dan sebuah bandar Warisan Dunia UNESCO — sebuah negeri pulau-dan-tanah besar yang dibina atas semikonduktor, pelabuhan dan pelancongan."
 
 tier: "3"
 mode: "practical"
 contentType: "place"
 
-answer: "Penang is a northwest coastal state made up of Penang Island and the mainland Seberang Perai, known globally as a semiconductor and electronics manufacturing hub centred on the Bayan Lepas Free Industrial Zone. Its capital, George Town, is a UNESCO World Heritage Site and one of Malaysia's leading tourism destinations."
+answer: "Pulau Pinang ialah sebuah negeri pantai barat laut yang terdiri daripada Pulau Pinang dan Seberang Perai di tanah besar, terkenal di seluruh dunia sebagai hab pembuatan semikonduktor dan elektronik yang berpusat di Zon Perindustrian Bebas Bayan Lepas. Ibu negerinya, George Town, ialah Tapak Warisan Dunia UNESCO dan salah satu destinasi pelancongan utama Malaysia."
 keyTakeaways:
-  - "Capital is George Town, a UNESCO World Heritage Site since 2008"
-  - "Population is around 1.7 million across the island and mainland Seberang Perai"
-  - "One of the world's major electronics and semiconductor manufacturing hubs, home to Intel, AMD, Bosch and others"
-  - "Headed by a Yang di-Pertua Negeri (Governor) rather than a hereditary ruler"
-  - "Tourism and heritage conservation are major economic contributors alongside manufacturing"
-appliesTo: "Manufacturers evaluating an electronics or semiconductor investment location, and readers interested in Malaysia's heritage tourism."
+  - "Ibu negerinya ialah George Town, Tapak Warisan Dunia UNESCO sejak 2008"
+  - "Penduduknya kira-kira 1.7 juta merangkumi pulau dan Seberang Perai di tanah besar"
+  - "Salah satu hab pembuatan elektronik dan semikonduktor utama dunia, menempatkan Intel, AMD, Bosch dan lain-lain"
+  - "Diketuai oleh Yang di-Pertua Negeri (Gabenor) dan bukan pemerintah warisan turun-temurun"
+  - "Pelancongan dan pemuliharaan warisan merupakan penyumbang ekonomi utama di samping pembuatan"
+appliesTo: "Pengeluar yang menilai lokasi pelaburan elektronik atau semikonduktor, dan pembaca yang berminat dengan pelancongan warisan Malaysia."
 
 faq:
-  - q: "What exactly is UNESCO-listed in Penang?"
-    a: "George Town, inscribed in 2008 as part of the joint World Heritage property Melaka and George Town, Historic Cities of the Straits of Malacca. The listing covers the historic urban core and its buildings, not the whole state or the island."
-  - q: "Does the heritage listing affect businesses in George Town?"
-    a: "Yes, inside the inscribed zone and its buffer. Conservation rules constrain alteration, signage and redevelopment of listed and contributory buildings. Anyone taking premises in the historic core should confirm the applicable conservation guidelines with the local authority before committing to a fit-out."
-  - q: "Who is Penang's head of state?"
-    a: "A Yang di-Pertua Negeri, or Governor, appointed by the Yang di-Pertuan Agong. Penang has no hereditary ruler, which distinguishes it from the nine states that do. Melaka, Sabah and Sarawak are in the same position."
-  - q: "Why did the electronics industry concentrate in Penang?"
-    a: "The Bayan Lepas Free Industrial Zone, established in the 1970s, brought early foreign electronics investment. Five decades of that investment built a skilled engineering workforce and a dense local supply chain of component makers, testers and logistics providers, and it is that ecosystem, more than any single incentive, that keeps new investment coming."
+  - q: "Apakah sebenarnya yang disenaraikan UNESCO di Pulau Pinang?"
+    a: "George Town, yang diwartakan pada 2008 sebagai sebahagian daripada harta Warisan Dunia bersama Melaka dan George Town, Bandar Bersejarah Selat Melaka. Penyenaraian ini merangkumi teras bandar bersejarah dan bangunannya, bukan keseluruhan negeri atau pulau."
+  - q: "Adakah penyenaraian warisan itu menjejaskan perniagaan di George Town?"
+    a: "Ya, di dalam zon yang diwartakan dan zon penampannya. Peraturan pemuliharaan mengehadkan pengubahsuaian, papan tanda dan pembinaan semula bangunan tersenarai dan bangunan penyumbang. Sesiapa yang mengambil premis di teras bersejarah harus mengesahkan garis panduan pemuliharaan yang berkaitan dengan pihak berkuasa tempatan sebelum memuktamadkan kerja ubah suai."
+  - q: "Siapakah ketua negeri Pulau Pinang?"
+    a: "Seorang Yang di-Pertua Negeri, atau Gabenor, yang dilantik oleh Yang di-Pertuan Agong. Pulau Pinang tidak mempunyai pemerintah warisan turun-temurun, yang membezakannya daripada sembilan negeri yang mempunyainya. Melaka, Sabah dan Sarawak berada dalam kedudukan yang sama."
+  - q: "Mengapakah industri elektronik tertumpu di Pulau Pinang?"
+    a: "Zon Perindustrian Bebas Bayan Lepas, yang ditubuhkan pada 1970-an, membawa pelaburan elektronik asing yang awal. Lima dekad pelaburan itu membina tenaga kerja kejuruteraan mahir dan rantaian bekalan tempatan yang padat terdiri daripada pembuat komponen, penguji dan penyedia logistik, dan ekosistem itulah, lebih daripada mana-mana insentif tunggal, yang mengekalkan kemasukan pelaburan baharu."
 
 verificationNeeded:
   - "Confirm Penang's current population against the latest DOSM state population release before publication."
 
-lang: "en"
-masterLanguage: "en"
+lang: "ms"
+masterLanguage: "ms"
 translationStatus: "master"
 
-status: "published"
+status: "draft"
 aiAssisted: true
-reviewer: "ashton-tan"
-reviewed: 2026-07-22
+reviewer: null
 version: "0.2"
 revisions:
   - version: "0.1"
@@ -52,7 +51,7 @@ revisions:
     reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-20
+updated: 2026-07-23
 sources:
   - title: "Melaka and George Town, Historic Cities of the Straits of Malacca"
     url: "https://whc.unesco.org/en/list/1223"
@@ -73,66 +72,70 @@ relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "kuala-lumpur" }
 related: []
-keywords: ["Penang Malaysia", "George Town UNESCO", "Bayan Lepas", "Penang electronics", "silicon valley of the east"]
+keywords: ["Pulau Pinang", "George Town UNESCO", "Bayan Lepas", "elektronik Pulau Pinang", "lembah silikon timur"]
 ---
 
-Penang punches well above its size. It is one of Malaysia's smallest states by land
-area, yet it is also one of the country's most important manufacturing economies and
-one of its most visited tourism destinations.
+Pulau Pinang jauh lebih berpengaruh berbanding saiznya. Ia merupakan salah satu
+negeri terkecil di Malaysia dari segi keluasan tanah, namun ia juga merupakan salah
+satu ekonomi pembuatan terpenting negara dan salah satu destinasi pelancongan yang
+paling ramai dikunjungi.
 
-## Key facts
+## Fakta utama
 
 | | |
 | --- | --- |
-| Capital | George Town |
-| Population | Around 1.7 million |
-| Head of state | Yang di-Pertua Negeri (Governor) |
-| Key industries | Electronics & semiconductor manufacturing, tourism, ports & logistics |
+| Ibu negeri | George Town |
+| Penduduk | Kira-kira 1.7 juta |
+| Ketua negeri | Yang di-Pertua Negeri (Gabenor) |
+| Industri utama | Pembuatan elektronik & semikonduktor, pelancongan, pelabuhan & logistik |
 
-## Geography
+## Geografi
 
-Penang consists of two parts: Penang Island, where George Town and most of the
-tourism economy sit, and Seberang Perai on the mainland, connected to the island by
-the Penang Bridge, the Second Penang Bridge, and a passenger ferry service. The
-state sits on the northwest coast of Peninsular Malaysia facing the Strait of
-Malacca, bordering Kedah to the north and east. Its position along one of the
-world's busiest shipping lanes has shaped its economy since the British East India
-Company established a trading post at George Town in 1786.
+Pulau Pinang terdiri daripada dua bahagian: Pulau Pinang, tempat George Town dan
+sebahagian besar ekonomi pelancongan terletak, dan Seberang Perai di tanah besar,
+yang dihubungkan ke pulau oleh Jambatan Pulau Pinang, Jambatan Kedua Pulau Pinang,
+dan perkhidmatan feri penumpang. Negeri ini terletak di pantai barat laut Semenanjung
+Malaysia menghadap Selat Melaka, bersempadan dengan Kedah di utara dan timur.
+Kedudukannya di sepanjang salah satu laluan perkapalan tersibuk di dunia telah
+membentuk ekonominya sejak Syarikat Hindia Timur British menubuhkan pos perdagangan
+di George Town pada 1786.
 
-## Economy
+## Ekonomi
 
-Penang is often described as the "Silicon Valley of the East." The Bayan Lepas Free
-Industrial Zone, established in the 1970s, hosts assembly, testing and increasingly
-design operations for global semiconductor and electronics firms including Intel,
-AMD, Bosch and Dell, alongside a dense ecosystem of local supply-chain companies.
-Electrical and electronics products make up the bulk of the state's exports, and
-Penang consistently ranks among the top states for GDP per capita outside the
-Klang Valley. Tourism is the second pillar of the economy, anchored by George Town's
-heritage status, its food culture, and beach resorts along the island's northern
-coast. Port and logistics activity, centred on Penang Port, supports both the
-manufacturing and trade sectors.
+Pulau Pinang sering digambarkan sebagai "Lembah Silikon Timur." Zon Perindustrian
+Bebas Bayan Lepas, yang ditubuhkan pada 1970-an, menempatkan operasi pemasangan,
+pengujian dan semakin banyak reka bentuk untuk firma semikonduktor dan elektronik
+global termasuk Intel, AMD, Bosch dan Dell, di samping ekosistem padat syarikat
+rantaian bekalan tempatan. Produk elektrik dan elektronik membentuk sebahagian besar
+eksport negeri ini, dan Pulau Pinang secara konsisten berada dalam kalangan negeri
+teratas dari segi KDNK per kapita di luar Lembah Klang. Pelancongan ialah tiang kedua
+ekonomi, disokong oleh status warisan George Town, budaya makanannya, dan resort
+pantai di sepanjang pantai utara pulau. Aktiviti pelabuhan dan logistik, yang berpusat
+di Pelabuhan Pulau Pinang, menyokong kedua-dua sektor pembuatan dan perdagangan.
 
-## Doing business here
+## Menjalankan perniagaan di sini
 
-Penang's main draw for manufacturers is a mature, skilled engineering workforce built
-up over five decades of electronics investment, combined with an established supply
-chain of component makers, testers and logistics providers. InvestPenang, the state
-investment promotion agency, works alongside federal bodies such as MIDA to support
-new manufacturing projects, and free industrial zone status at Bayan Lepas gives
-qualifying export-oriented manufacturers duty exemptions on inputs. Industrial land
-and skilled labour are more constrained on the island itself, pushing newer
-investment toward Seberang Perai and neighbouring Kedah's Kulim Hi-Tech Park.
-Beyond manufacturing, George Town's heritage designation brings conservation rules
-that businesses in the historic core need to work within, alongside a strong
-hospitality and F&B sector serving both tourists and residents.
+Daya tarikan utama Pulau Pinang bagi pengeluar ialah tenaga kerja kejuruteraan yang
+matang dan mahir yang terbina selama lima dekad pelaburan elektronik, digabungkan
+dengan rantaian bekalan mapan terdiri daripada pembuat komponen, penguji dan penyedia
+logistik. InvestPenang, agensi promosi pelaburan negeri, bekerjasama dengan badan
+persekutuan seperti MIDA untuk menyokong projek pembuatan baharu, dan status zon
+perindustrian bebas di Bayan Lepas memberi pengeluar berorientasikan eksport yang
+layak pengecualian duti ke atas input. Tanah perindustrian dan buruh mahir lebih
+terhad di pulau itu sendiri, menolak pelaburan yang lebih baharu ke arah Seberang
+Perai dan Kulim Hi-Tech Park di Kedah yang berjiran. Selain pembuatan, penetapan
+warisan George Town membawa peraturan pemuliharaan yang perlu dipatuhi oleh perniagaan
+di teras bersejarah, di samping sektor hospitaliti dan F&B yang kukuh yang melayani
+kedua-dua pelancong dan penduduk.
 
-## Notable places
+## Tempat menarik
 
-George Town's UNESCO-listed core mixes British colonial architecture, Chinese
-clan jetties, and Peranakan shophouses, and is known for a street-art scene and one
-of Malaysia's most celebrated food cultures. Penang Hill offers a funicular ride to
-cooler elevations above the city, while Kek Lok Si Temple is one of the largest
-Buddhist temple complexes in Southeast Asia. Batu Ferringhi's beaches anchor the
-island's resort tourism, and Gurney Drive is a well-known waterfront dining and
-retail strip. The Penang Bridge and Second Penang Bridge, connecting the island to
-the mainland, are themselves notable infrastructure landmarks.
+Teras George Town yang tersenarai UNESCO menggabungkan seni bina kolonial British,
+jeti keluarga Cina, dan rumah kedai Peranakan, dan terkenal dengan seni jalanan serta
+salah satu budaya makanan yang paling terkenal di Malaysia. Bukit Bendera menawarkan
+perjalanan kereta kabel funikular ke kawasan tanah tinggi yang lebih sejuk di atas
+bandar, manakala Tokong Kek Lok Si ialah salah satu kompleks tokong Buddha terbesar di
+Asia Tenggara. Pantai Batu Feringgi menyokong pelancongan resort pulau ini, dan Gurney
+Drive ialah kawasan makan dan runcit tepi laut yang terkenal. Jambatan Pulau Pinang dan
+Jambatan Kedua Pulau Pinang, yang menghubungkan pulau ke tanah besar, merupakan mercu
+tanda infrastruktur yang menarik itu sendiri.
