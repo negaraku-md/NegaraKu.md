@@ -148,21 +148,46 @@ async function main() {
     };
   }
 
-  // Two-dimensional lifecycle view: every article file has its OWN language and
-  // its OWN status, so a translation moves through draft → published on its own
-  // clock, independent of the master. Count files per (language × status) so the
-  // dashboard shows both dimensions instead of only the master's status.
-  const LIFECYCLE = ['draft', 'in-review', 'reviewed', 'published'];
+  // Editorial lifecycle matrix. Counts EVERY file — including drafts still gated
+  // out of the public build — so pending work is visible, not hidden. Per language
+  // it splits master vs. translation, tracks the review lifecycle, and reports what
+  // is still outstanding (Total − Published = work not yet live). Uses allArticles
+  // (ungated) on purpose: this is the ops view of the whole corpus.
   const statusByLang = {};
   for (const l of SITE_LANGS) {
-    statusByLang[l] = { total: 0 };
-    for (const s of LIFECYCLE) statusByLang[l][s] = 0;
+    statusByLang[l] = {
+      total: 0,
+      master: 0,
+      translate: 0,
+      draftMaster: 0,
+      draftTranslate: 0,
+      draft: 0,
+      'in-review': 0,
+      reviewed: 0,
+      published: 0,
+      outstanding: 0,
+    };
   }
-  for (const a of articles) {
+  for (const a of allArticles) {
     const row = statusByLang[a.lang];
     if (!row) continue;
-    row[a.status] = (row[a.status] ?? 0) + 1;
     row.total++;
+    const isMaster = a.lang === (a.masterLanguage ?? a.lang);
+    if (isMaster) row.master++;
+    else row.translate++;
+    const s = a.status;
+    if (s === 'in-review' || s === 'reviewed' || s === 'published') {
+      row[s]++;
+    } else {
+      // draft (or any unknown) — split by origin so we can see original vs translated
+      row.draft++;
+      if (isMaster) row.draftMaster++;
+      else row.draftTranslate++;
+    }
+  }
+  for (const l of SITE_LANGS) {
+    const r = statusByLang[l];
+    r.outstanding = r.total - r.published; // still needs to reach "published"
   }
 
   const dashboard = {
@@ -176,7 +201,6 @@ async function main() {
     vitals,
     statusDist,
     statusByLang,
-    lifecycle: LIFECYCLE,
     perCategory,
     perLangCoverage,
     registry: base

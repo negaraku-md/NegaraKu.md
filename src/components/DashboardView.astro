@@ -144,24 +144,45 @@ const tierColor = (s: number) =>
       <table class="matrix">
         <thead>
           <tr>
-            <th>{L('Bahasa', 'Language', '语言')}</th>
-            {d.lifecycle.map((s) => <th>{t(`status.${s}`, locale)}</th>)}
-            <th>{L('Jumlah', 'Total', '合计')}</th>
+            <th rowspan="2">{L('Bahasa', 'Language', '语言')}</th>
+            <th rowspan="2">{L('Jumlah', 'Total', '合计')}</th>
+            <th colspan="2" class="grp">{L('Asal usul', 'Origin', '来源')}</th>
+            <th colspan="4" class="grp">{L('Kitaran hayat', 'Lifecycle', '生命周期')}</th>
+            <th rowspan="2">{L('Belum selesai', 'Outstanding', '未完成')}</th>
+          </tr>
+          <tr>
+            <th class="sub">{L('Induk', 'Master', '主语言')}</th>
+            <th class="sub">{L('Terjemahan', 'Translate', '翻译')}</th>
+            <th class="sub">{t('status.draft', locale)}</th>
+            <th class="sub">{t('status.in-review', locale)}</th>
+            <th class="sub">{t('status.reviewed', locale)}</th>
+            <th class="sub">{t('status.published', locale)}</th>
           </tr>
         </thead>
         <tbody>
           {Object.entries(d.statusByLang).map(([lang, row]) => (
             <tr>
               <th class="lang">{lang.toUpperCase()}</th>
-              {d.lifecycle.map((s) => (
-                <td class={row[s] ? '' : 'zero'} data-status={s}>{row[s]}</td>
-              ))}
               <td class="tot">{row.total}</td>
+              <td class={row.master ? '' : 'zero'}>{row.master}</td>
+              <td class={row.translate ? '' : 'zero'}>{row.translate}</td>
+              <td class={row.draft ? '' : 'zero'} data-status="draft">{row.draft}</td>
+              <td class={row['in-review'] ? '' : 'zero'} data-status="in-review">{row['in-review']}</td>
+              <td class={row.reviewed ? '' : 'zero'} data-status="reviewed">{row.reviewed}</td>
+              <td class={row.published ? '' : 'zero'} data-status="published">{row.published}</td>
+              <td class={row.outstanding ? 'out' : 'out zero'}>{row.outstanding}</td>
             </tr>
           ))}
         </tbody>
       </table>
     </div>
+    <p class="hint">
+      {L(
+        'Termasuk draf yang belum diterbitkan (cth. topik sensitif menunggu semakan). Belum selesai = Jumlah − Diterbitkan.',
+        'Includes unpublished drafts (e.g. sensitive topics awaiting review). Outstanding = Total − Published.',
+        '包含尚未发布的草稿（如待审阅的敏感主题）。未完成 = 合计 − 已发布。',
+      )}
+    </p>
   </div>
   <div>
     <h2>{L('Aktiviti terkini', 'Recent activity', '近期动态')}</h2>
@@ -295,6 +316,14 @@ const tierColor = (s: number) =>
   .matrix td { font-variant-numeric: tabular-nums; color: var(--ink); }
   .matrix td.zero { color: color-mix(in srgb, var(--muted) 55%, transparent); }
   .matrix td.tot { font-weight: 800; }
+  .matrix thead th.grp {
+    text-align: center; border-bottom: 1px solid var(--line);
+    color: var(--ink-soft); border-left: 1px solid var(--line);
+  }
+  .matrix thead th.sub { font-weight: 700; }
+  .matrix thead th.sub:nth-child(1), .matrix thead th.sub:nth-child(3) { border-left: 1px solid var(--line); }
+  .matrix td.out { font-weight: 800; color: #fbbf24; }
+  .matrix td.out.zero { color: #4ade80; }
   .matrix td[data-status='published'] { color: #4ade80; }
   .matrix td[data-status='reviewed'] { color: #4ade80; }
   .matrix td[data-status='in-review'] { color: #60a5fa; }
