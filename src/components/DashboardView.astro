@@ -55,9 +55,14 @@ const tierColor = (s: number) =>
     {
       Object.entries(d.perLangCoverage).map(([lang, c]) => (
         <div class="bar-row">
-          <span class="bl">{lang.toUpperCase()}</span>
-          <span class="track"><span class="fill" style={`width:${c.pct}%`} /></span>
-          <span class="bv">{c.pct}% ({c.have}/{c.total})</span>
+          <span class="bl">
+            {lang.toUpperCase()}
+            {c.master && <em class="master">{L('induk', 'master', '主语言')}</em>}
+          </span>
+          <span class="track"><span class={`fill${c.master ? ' is-master' : ''}`} style={`width:${c.pct}%`} /></span>
+          <span class="bv">
+            {c.master ? L('sumber', 'source', '源文') : `${c.pct}%`} ({c.have}/{c.total})
+          </span>
         </div>
       ))
     }
@@ -136,10 +141,17 @@ const tierColor = (s: number) =>
   .vname { font-weight: 700; margin: 0; }
   .vdetail { color: var(--muted); font-size: 0.82rem; margin: 0.15rem 0 0; }
   .cols { display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; }
-  .bar-row { display: grid; grid-template-columns: 3rem 1fr auto; gap: 0.6rem; align-items: center; margin: 0.5rem 0; }
-  .bl { font-weight: 700; font-size: 0.8rem; }
+  .bar-row { display: grid; grid-template-columns: 4rem 1fr auto; gap: 0.6rem; align-items: center; margin: 0.5rem 0; }
+  .bl { font-weight: 700; font-size: 0.8rem; display: flex; flex-direction: column; line-height: 1.2; }
+  .bl .master {
+    font-style: normal; font-weight: 700; font-size: 0.58rem;
+    letter-spacing: 0.05em; text-transform: uppercase; color: var(--muted);
+  }
   .track { height: 8px; background: var(--surface-2); border-radius: 999px; overflow: hidden; }
   .fill { display: block; height: 100%; background: var(--gold); }
+  /* The master language is the source, not a translation metric — muted so it
+     reads differently from a real coverage bar. */
+  .fill.is-master { background: color-mix(in srgb, var(--gold) 40%, var(--surface-2)); }
   .bv { font-size: 0.8rem; color: var(--muted); }
   .chips { display: flex; flex-wrap: wrap; gap: 0.4rem; }
   .commits { list-style: none; padding: 0; margin: 0; font-size: 0.9rem; }
