@@ -92,8 +92,8 @@ obligations:                   # ONLY if this article describes a dated statutor
     statute: "Companies Act 2016, s.68"
     consequence: "Fine and possible strike-off"
 
-lang: "en"
-masterLanguage: "en"
+lang: "en"           # this file's language
+masterLanguage: "en" # the article's authoritative language — choose per docs/MASTER-LANGUAGE.md (ms | en | zh), NOT always en
 translationStatus: "master"
 
 status: "draft"                # ALWAYS. Never "reviewed" or "published".
