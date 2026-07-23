@@ -1,6 +1,8 @@
 ---
 import type { Locale } from '@/lib/categories';
-import { getCategory } from '@/lib/categories';
+import { getCategory, getPillar, PILLARS } from '@/lib/categories';
+import { subcatLabel } from '@/lib/subcategories';
+import { allArticles } from '@/lib/content';
 import { getDashboard, getGitInfo } from '@/lib/apidata';
 import { t } from '@/lib/i18n';
 
@@ -11,6 +13,54 @@ const { locale } = Astro.props;
 const d = getDashboard();
 const git = getGitInfo();
 const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+// Knowledge structure — the article's own IA: Section (pillar) → Category → Topic.
+// Counted over canonical topics (one per category/slug), so translations don't
+// double-count. Same publication gate as the rest of the dashboard.
+type TopicNode = { count: number; published: number };
+type CatNode = { total: number; published: number; topics: Map<string, TopicNode> };
+type SecNode = { total: number; published: number; cats: Map<string, CatNode> };
+const iaTree = new Map<string, SecNode>();
+const seenTopics = new Set<string>();
+for (const a of await allArticles()) {
+  const uid = `${a.data.category}/${a.data.slug}`;
+  if (seenTopics.has(uid)) continue;
+  seenTopics.add(uid);
+  const pillar = getPillar(a.data.category) ?? 'understand';
+  const topic = a.data.subcategory[0] ?? '—';
+  const pub = a.data.status === 'published';
+  const sec = iaTree.get(pillar) ?? { total: 0, published: 0, cats: new Map() };
+  sec.total++;
+  if (pub) sec.published++;
+  const cat = sec.cats.get(a.data.category) ?? { total: 0, published: 0, topics: new Map() };
+  cat.total++;
+  if (pub) cat.published++;
+  const tn = cat.topics.get(topic) ?? { count: 0, published: 0 };
+  tn.count++;
+  if (pub) tn.published++;
+  cat.topics.set(topic, tn);
+  sec.cats.set(a.data.category, cat);
+  iaTree.set(pillar, sec);
+}
+const iaSections = PILLARS.map((pd) => {
+  const sec = iaTree.get(pd.id);
+  if (!sec) return null;
+  return {
+    id: pd.id,
+    name: pd.name[locale],
+    icon: pd.icon,
+    total: sec.total,
+    cats: [...sec.cats.entries()]
+      .sort((x, y) => y[1].total - x[1].total)
+      .map(([cid, c]) => ({
+        name: getCategory(cid)?.name[locale] ?? cid,
+        total: c.total,
+        topics: [...c.topics.entries()]
+          .sort((x, y) => y[1].count - x[1].count)
+          .map(([tid, tn]) => ({ label: tid === '—' ? '—' : subcatLabel(tid, locale), count: tn.count })),
+      })),
+  };
+}).filter((s): s is NonNullable<typeof s> => s !== null);
 
 const vitalName = (v: { label: { ms: string; en: string; zh: string } }) => v.label[locale];
 const tierColor = (s: number) =>
@@ -133,6 +183,44 @@ const tierColor = (s: number) =>
 </section>
 
 <section class="container block">
+  <h2>{L('Struktur pengetahuan', 'Knowledge structure', '知识结构')}</h2>
+  <p class="hint">
+    {L('Seksyen → Kategori → Topik', 'Section → Category → Topic', '版块 → 分类 → 主题')}
+  </p>
+  <div class="ia">
+    {
+      iaSections.map((s) => (
+        <details class="ia-sec" open>
+          <summary>
+            <span class="ia-ico">{s.icon}</span>
+            <span class="ia-name">{s.name}</span>
+            <span class="ia-count">{s.total}</span>
+          </summary>
+          <div class="ia-body">
+            {s.cats.map((c) => (
+              <details class="ia-cat">
+                <summary>
+                  <span class="ia-name">{c.name}</span>
+                  <span class="ia-count">{c.total}</span>
+                </summary>
+                <ul class="ia-topics">
+                  {c.topics.map((tp) => (
+                    <li>
+                      <span>{tp.label}</span>
+                      <span class="ia-count">{tp.count}</span>
+                    </li>
+                  ))}
+                </ul>
+              </details>
+            ))}
+          </div>
+        </details>
+      ))
+    }
+  </div>
+</section>
+
+<section class="container block">
   <h2>{L('Daftar artikel', 'Article registry', '文章登记')}</h2>
   <div class="table-wrap">
     <table>
@@ -212,6 +300,41 @@ const tierColor = (s: number) =>
   .matrix td[data-status='in-review'] { color: #60a5fa; }
   .matrix td[data-status='draft'] { color: #fbbf24; }
   .matrix td.zero[data-status] { color: color-mix(in srgb, var(--muted) 55%, transparent); }
+
+  /* Knowledge structure — Section → Category → Topic rollup. */
+  .ia { display: grid; gap: 0.6rem; }
+  .ia-sec { border: 1px solid var(--line); border-radius: 12px; background: var(--surface); overflow: hidden; }
+  .ia-sec > summary {
+    display: flex; align-items: center; gap: 0.6rem; cursor: pointer; list-style: none;
+    padding: 0.7rem 0.95rem; font-weight: 800; background: var(--surface-2);
+  }
+  .ia-sec > summary::-webkit-details-marker { display: none; }
+  .ia-ico { font-size: 1.05rem; }
+  .ia-name { flex: 1; }
+  .ia-count {
+    font-variant-numeric: tabular-nums; font-weight: 800; color: var(--gold);
+    background: color-mix(in srgb, var(--gold) 12%, transparent);
+    border-radius: 999px; padding: 0.05rem 0.55rem; font-size: 0.8rem;
+  }
+  .ia-body { padding: 0.4rem 0.6rem 0.7rem; }
+  .ia-cat { border-bottom: 1px dashed var(--line); }
+  .ia-cat:last-child { border-bottom: 0; }
+  .ia-cat > summary {
+    display: flex; align-items: center; gap: 0.6rem; cursor: pointer; list-style: none;
+    padding: 0.5rem 0.35rem; font-weight: 700; font-size: 0.92rem;
+  }
+  .ia-cat > summary::-webkit-details-marker { display: none; }
+  .ia-cat > summary::before { content: '▸'; color: var(--muted); font-size: 0.8rem; transition: transform 0.15s; }
+  .ia-cat[open] > summary::before { transform: rotate(90deg); }
+  .ia-cat .ia-count { color: var(--ink-soft); background: var(--surface-2); font-weight: 700; }
+  .ia-topics { list-style: none; margin: 0.1rem 0 0.5rem; padding: 0 0.35rem 0 1.4rem; }
+  .ia-topics li {
+    display: flex; align-items: center; justify-content: space-between; gap: 0.6rem;
+    padding: 0.25rem 0; font-size: 0.85rem; color: var(--ink-soft);
+    border-bottom: 1px dashed color-mix(in srgb, var(--line) 55%, transparent);
+  }
+  .ia-topics li:last-child { border-bottom: 0; }
+  .ia-topics .ia-count { color: var(--muted); background: none; padding: 0 0.2rem; font-weight: 700; }
   .chips { display: flex; flex-wrap: wrap; gap: 0.4rem; }
   .commits { list-style: none; padding: 0; margin: 0; font-size: 0.9rem; }
   .commits li { padding: 0.4rem 0; border-bottom: 1px solid var(--line); }
