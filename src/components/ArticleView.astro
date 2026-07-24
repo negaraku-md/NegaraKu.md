@@ -592,19 +592,28 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
   /* Neutral is the default section header. Gold is reserved for the 30-second
      answer (.l1) and the sponsor block (.cta) so it means "the one thing" again. */
   .layer { border: 1px solid var(--line); border-radius: 12px; margin-bottom: 1.2rem; overflow: hidden; }
+  /* Tier-1 BODY section header: an open editorial header (transparent, a touch
+     larger, with a neutral left tick) — deliberately unlike the sidebar cards'
+     filled chip headers, so the two title levels read apart. */
   .layer > header {
     display: flex; justify-content: space-between; align-items: center; gap: 0.5rem;
-    padding: 0.45rem 0.95rem; font-size: 0.67rem; font-weight: 800; letter-spacing: 0.1em;
-    text-transform: uppercase; color: var(--muted); background: var(--surface-2);
+    padding: 0.5rem 0.95rem; font-size: 0.72rem; font-weight: 800; letter-spacing: 0.09em;
+    text-transform: uppercase; color: var(--ink-soft); background: transparent;
     border-bottom: 1px solid var(--line);
   }
   /* Section-header label + leading icon. Monochrome, inherits header colour. */
-  .sec-h { display: inline-flex; align-items: center; gap: 0.42rem; }
+  .sec-h { display: inline-flex; align-items: center; gap: 0.42rem; position: relative; padding-left: 0.62rem; }
+  .sec-h::before {
+    content: ''; position: absolute; left: 0; top: 50%; transform: translateY(-50%);
+    width: 3px; height: 0.95em; border-radius: 2px; background: var(--muted);
+  }
   .ico { display: inline-flex; flex: none; }
   .ico :global(svg) { width: 13px; height: 13px; opacity: 0.75; }
   .layer .lb { padding: 1.1rem; }
   .l1 { border-color: color-mix(in srgb, var(--gold) 42%, transparent); }
   .l1 > header { color: var(--gold); background: color-mix(in srgb, var(--gold) 9%, transparent); }
+  /* Gold headers (answer, sponsor) keep the accent tick in their own colour. */
+  .l1 > header .sec-h::before, .cta > header .sec-h::before { background: currentColor; opacity: 0.7; }
   .answer { font-size: 1.06rem; line-height: 1.65; margin: 0; }
   .kt { margin: 0.9rem 0 0; padding-left: 1.15rem; }
   .kt li { margin: 0.3rem 0; font-size: 0.94rem; }
@@ -725,9 +734,16 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
   .trust .r span:first-child { color: var(--muted); }
   .trust .sens-tag { color: #f87171; font-weight: 700; }
   .trust .r-sens .muted { color: var(--muted); }
-  /* Label sitting directly above the custody timeline (no divider between them). */
-  .trust .r-custody-head { border-bottom: 0; padding: 0.5rem 0.95rem 0.15rem; }
-  .trust .r-custody-head .vnote { font-size: 0.72rem; font-style: italic; }
+  /* Tier-3 GROUP label (Custody, Visitors): an uppercase micro-header that opens
+     a sub-list, distinct from the sentence-case leaf rows (Status, Version…). */
+  .trust .r-custody-head {
+    border-bottom: 0; border-top: 1px solid var(--line);
+    margin-top: 0.35rem; padding: 0.55rem 0.95rem 0.2rem;
+  }
+  .trust .r-custody-head span:first-child {
+    font-size: 0.62rem; font-weight: 800; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted);
+  }
+  .trust .r-custody-head .vnote { font-size: 0.68rem; font-style: italic; text-transform: none; letter-spacing: 0; }
   .trust .r-visit span:first-child { padding-left: 0.2rem; }
   .trust .r-visit .vval { color: var(--ink); font-weight: 700; font-variant-numeric: tabular-nums; }
   .trust .r-visit .vval[title] { cursor: help; text-decoration: underline dotted color-mix(in srgb, var(--muted) 60%, transparent); text-underline-offset: 3px; }
