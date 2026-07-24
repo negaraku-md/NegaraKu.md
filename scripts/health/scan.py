@@ -9,6 +9,15 @@ and reports on the health of the knowledge base:
   * broken `related` links (pointing at slugs that do not exist)
   * translation coverage (ms articles lacking en / zh)
 
+It also scans content that is NOT an article, so the lifecycle does not stop at
+the edge of knowledge/ (see docs/CONTENT-MODEL.md):
+
+  * datasets: a "sourced" claim must cite a source and an asOf date; an
+    unverified/schematic one must explain itself to the reader; labels must
+    exist in all three languages
+  * a rendered <DataProvenance dataset="…"> must point at a declared dataset
+  * UI strings must exist in all three languages
+
 Exit code is non-zero when ERROR-level issues are found and --strict is set,
 so it can gate CI.
 
@@ -87,6 +96,82 @@ def load_articles() -> list[dict]:
     if not MANIFEST.exists():
         sys.exit(f"[health] manifest not found at {MANIFEST}. Run `npm run sync` first.")
     return json.loads(MANIFEST.read_text(encoding="utf-8")).get("articles", [])
+
+
+PROVENANCE_FILE = ROOT / "src" / "lib" / "provenance.ts"
+I18N_FILE = ROOT / "src" / "lib" / "i18n.ts"
+COMPONENTS_DIR = ROOT / "src" / "components"
+LOCALES = ("ms", "en", "zh")
+
+
+def scan_content() -> list[dict]:
+    """Health of content that is NOT an article.
+
+    The lifecycle used to stop at the edge of knowledge/: datasets, UI strings
+    and page copy reached readers with nothing enforcing sources or translation
+    parity. These checks make the content model enforceable rather than
+    aspirational — an ungoverned dataset now fails the build instead of quietly
+    shipping.
+    """
+    findings: list[dict] = []
+
+    def add(level, code, path, msg):
+        findings.append({"level": level, "code": code, "path": path, "title": "", "message": msg})
+
+    # --- datasets -----------------------------------------------------------
+    declared: dict[str, str] = {}
+    if PROVENANCE_FILE.exists():
+        text = PROVENANCE_FILE.read_text(encoding="utf-8")
+        block = text.split("DATASETS", 1)[-1]
+        # Each entry:  key: { ... },  — capture the body up to the matching depth-1 close.
+        for m in re.finditer(r"^  ([a-z][\w-]*):\s*\{(.*?)^  \},", block, re.S | re.M):
+            key, body = m.group(1), m.group(2)
+            rel = "src/lib/provenance.ts"
+            verification = (re.search(r"verification:\s*'([a-z]+)'", body) or [None, ""])[1]
+            declared[key] = verification
+
+            label = re.search(r"label:\s*\{(.*?)\}", body, re.S)
+            missing = [l for l in LOCALES if not label or not re.search(rf"\b{l}\s*:", label.group(1))]
+            if missing:
+                add("ERROR", "dataset-label-lang", rel,
+                    f"dataset '{key}' label missing language(s): {', '.join(missing)}")
+
+            if verification == "sourced":
+                # A "sourced" claim must be checkable, or the badge lies.
+                if "source:" not in body:
+                    add("ERROR", "dataset-no-source", rel,
+                        f"dataset '{key}' is marked sourced but cites no source")
+                if "asOf:" not in body:
+                    add("ERROR", "dataset-no-asof", rel,
+                        f"dataset '{key}' is marked sourced but has no asOf date")
+            elif verification in ("unverified", "schematic"):
+                # The reader must be told WHY it is not sourced.
+                if "note:" not in body:
+                    add("WARN", "dataset-no-note", rel,
+                        f"dataset '{key}' is {verification} but gives the reader no explanatory note")
+            else:
+                add("ERROR", "dataset-verification", rel,
+                    f"dataset '{key}' has no valid verification (sourced|unverified|schematic)")
+
+    # Every <DataProvenance dataset="X" /> must point at a declared dataset.
+    if COMPONENTS_DIR.exists():
+        for comp in COMPONENTS_DIR.glob("*.astro"):
+            for used in re.findall(r'<DataProvenance[^>]*dataset="([^"]+)"', comp.read_text(encoding="utf-8")):
+                if used not in declared:
+                    add("ERROR", "dataset-undeclared", f"src/components/{comp.name}",
+                        f"renders provenance for '{used}', which is not declared in provenance.ts")
+
+    # --- UI strings ---------------------------------------------------------
+    if I18N_FILE.exists():
+        text = I18N_FILE.read_text(encoding="utf-8")
+        for m in re.finditer(r"'([\w.\-]+)':\s*\{([^{}]*)\}", text):
+            key, body = m.group(1), m.group(2)
+            missing = [l for l in LOCALES if not re.search(rf"\b{l}\s*:", body)]
+            if missing:
+                add("ERROR", "ui-string-lang", "src/lib/i18n.ts",
+                    f"UI string '{key}' missing language(s): {', '.join(missing)}")
+
+    return findings
 
 
 def scan(articles: list[dict]) -> list[dict]:
@@ -255,7 +340,7 @@ def main() -> None:
     args = ap.parse_args()
 
     articles = load_articles()
-    findings = scan(articles)
+    findings = scan(articles) + scan_content()
 
     if args.json:
         print(json.dumps({"count": len(articles), "findings": findings}, indent=2, ensure_ascii=False))
