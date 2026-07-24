@@ -1,0 +1,60 @@
+name: Suggestion → needs-update
+
+# Closes the correction loop. A reader's "Report an error" / "Suggest an
+# improvement" on an article files a prefilled issue; this flags that article
+# `needs-update` so it shows honestly to every reader and lands in the
+# dashboard's Outstanding worklist — without a maintainer having to notice.
+#
+# `topic-request` is deliberately excluded: it asks for a NEW article, so there
+# is nothing to flag.
+
+on:
+  issues:
+    types: [opened, labeled]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  flag:
+    if: >-
+      contains(github.event.issue.labels.*.name, 'correction') ||
+      contains(github.event.issue.labels.*.name, 'improvement')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Flag the reported article
+        id: flag
+        env:
+          # UNTRUSTED input — anyone can open an issue. Passed as an env var so
+          # it is never interpolated into the shell, and parsed against strict
+          # patterns by the script.
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: node scripts/flag-needs-update.mjs
+
+      - name: Commit the status change
+        if: steps.flag.outputs.changed == 'true'
+        env:
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add knowledge
+          git commit -m "Flag article needs-update (reported in #${ISSUE_NUMBER})"
+          git push
+
+      - name: Thank the reporter
+        if: steps.flag.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: |
+          gh issue comment "$ISSUE_NUMBER" --body "Thanks — the article is now marked **needs update**, so every reader sees that while we work on it.
+
+          When the fix lands, add yourself to the article's \`revisions[]\` as the \`contributor\` so you are credited in its public change history."
