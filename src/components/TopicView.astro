@@ -4,8 +4,8 @@ import { getCategory, getPillar, getPillarDef, categoriesInPillar, PILLARS } fro
 import { type Article, articlesForLocale } from '@/lib/content';
 import { subcatLabel, orderedSubcats } from '@/lib/subcategories';
 import { localePath } from '@/lib/i18n';
-import TrustBadge from './TrustBadge.astro';
 import PageHero from './PageHero.astro';
+import ArticleList from './ArticleList.astro';
 
 // TOPIC (subcategory) page — the level between a category and an article.
 // A reader has narrowed to one task area (e.g. Corporate Tax) and wants every
@@ -25,7 +25,6 @@ const cat = getCategory(categoryId)!;
 const pillar = getPillar(categoryId);
 const pillarDef = pillar ? getPillarDef(pillar) : undefined;
 const label = subcatLabel(topic, locale);
-const href = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, locale);
 
 // Sibling topics — move sideways across the category without going back up.
 const catArticles = (await articlesForLocale(locale)).filter((a) => a.data.category === categoryId);
@@ -56,31 +55,9 @@ const countIn = (t: string) => catArticles.filter((a) => a.data.subcategory.incl
   ]}
 />
 
-<div class="container tpage">
-  <section class="tsec">
-    <header>
-      <span>{label}</span>
-      <span>{articles.length}</span>
-    </header>
-    <div class="tsec-body">
-      <ul>
-        {
-          articles.map((a) => (
-            <li>
-              <div class="row1">
-                <a class="t-title" href={href(a)}>
-                  {a.data.title}
-                </a>
-                <TrustBadge locale={locale} status={a.data.status} sensitivity={a.data.sensitivity} compact />
-              </div>
-              <p class="t-sum">{a.data.summary}</p>
-            </li>
-          ))
-        }
-      </ul>
-    </div>
-  </section>
+<ArticleList locale={locale} articles={articles} filters={[]} />
 
+<div class="container tpage">
   {
     otherTopics.length > 0 && (
       <section class="tsec">
@@ -158,11 +135,4 @@ const countIn = (t: string) => catArticles.filter((a) => a.data.subcategory.incl
     border-bottom: 1px solid var(--line);
   }
   .tsec-body { padding: 0.4rem 0.95rem 0.9rem; }
-  .tsec ul { list-style: none; margin: 0; padding: 0; }
-  .tsec li { padding: 0.85rem 0; border-bottom: 1px solid var(--line); }
-  .tsec li:last-child { border-bottom: 0; }
-  .row1 { display: flex; gap: 0.6rem; align-items: center; flex-wrap: wrap; }
-  .t-title { font-family: var(--font-title); font-size: 1.02rem; color: var(--ink); text-decoration: none; font-weight: 700; }
-  .t-title:hover { color: var(--gold); }
-  .t-sum { margin: 0.3rem 0 0; color: var(--ink-soft); font-size: 0.9rem; line-height: 1.55; max-width: 78ch; }
 </style>
