@@ -25,11 +25,38 @@ export function readingTime(article: Article): number {
 // nav, search index, sitemap, RSS, llms.txt) flows through allArticles(), so
 // filtering here removes it from the whole published surface at once.
 // Non-sensitive drafts are still published (disclosed as AI-drafted per-article).
+/**
+ * Statuses where the reader still sees the article. An update cycle
+ * (needs-update → in-update) must NOT unpublish a working page: the current
+ * version stays live while the next one is prepared.
+ */
+export const LIVE_STATUSES = ['published', 'needs-update', 'in-update'] as const;
+export function isLive(status: string): boolean {
+  return (LIVE_STATUSES as readonly string[]).includes(status);
+}
+
 export function isPublishable(a: Article): boolean {
+  // Archived = retired (repealed / superseded). Kept in the repo for provenance,
+  // but never served.
+  if (a.data.status === 'archived') return false;
   if (a.data.sensitivity && a.data.sensitivity !== 'none') {
-    return a.data.status === 'published' && Boolean(a.data.reviewer);
+    return isLive(a.data.status) && Boolean(a.data.reviewer);
   }
   return true;
+}
+
+/**
+ * The status to SHOW. `needs-update` is derived, never stored: a published
+ * article whose reviewDue has passed is overdue by definition, so computing it
+ * keeps the freshness claim tied to the freshness fact (and the flag itself can
+ * never go stale). An explicit stored status always wins.
+ */
+export function effectiveStatus(a: Article, now: Date = new Date()): string {
+  const s = a.data.status;
+  if (s === 'published' && a.data.reviewDue && new Date(a.data.reviewDue) < now) {
+    return 'needs-update';
+  }
+  return s;
 }
 
 export async function allArticles(): Promise<Article[]> {

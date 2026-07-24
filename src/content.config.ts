@@ -156,7 +156,33 @@ const knowledge = defineCollection({
       .default('master'),
 
     // ---- trust & governance ------------------------------------------
-    status: z.enum(['draft', 'in-review', 'reviewed', 'published']).default('draft'),
+    /**
+     * Editorial lifecycle. It is a LOOP, not a line — published content cycles
+     * back through update and re-review, and only `archived` is terminal:
+     *
+     *   draft → in-review → reviewed → published
+     *                                     ↓  (reviewDue passed, or a correction
+     *                               needs-update    is suggested)
+     *                                     ↓
+     *                                in-update  → in-review → published (version++)
+     *
+     *   published → archived   (repealed / superseded — retired from the site)
+     *
+     * `needs-update` and `in-update` are LIVE states: the reader keeps seeing the
+     * current version while the next one is prepared. Never send a published
+     * article back to `draft` — that would unpublish a working page mid-edit.
+     */
+    status: z
+      .enum([
+        'draft',
+        'in-review',
+        'reviewed',
+        'published',
+        'needs-update',
+        'in-update',
+        'archived',
+      ])
+      .default('draft'),
     /** True when the text was AI-drafted — disclosed on the page. */
     aiAssisted: z.boolean().default(true),
     reviewer: z.string().nullable().default(null),

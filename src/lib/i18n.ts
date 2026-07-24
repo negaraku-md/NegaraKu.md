@@ -91,6 +91,9 @@ const STRINGS = {
   'status.reviewed': { ms: 'Disemak', en: 'Reviewed', zh: '已审阅' },
   'status.published': { ms: 'Diterbitkan', en: 'Published', zh: '已发布' },
   'status.verified': { ms: 'Disahkan', en: 'Verified', zh: '已核实' },
+  'status.needs-update': { ms: 'Perlu Kemas Kini', en: 'Needs update', zh: '需更新' },
+  'status.in-update': { ms: 'Sedang Dikemas Kini', en: 'Being updated', zh: '更新中' },
+  'status.archived': { ms: 'Diarkibkan', en: 'Archived', zh: '已归档' },
   'footer.license': {
     ms: 'Kandungan di bawah CC BY-SA 4.0. Kod di bawah lesen MIT.',
     en: 'Content under CC BY-SA 4.0. Code under the MIT license.',

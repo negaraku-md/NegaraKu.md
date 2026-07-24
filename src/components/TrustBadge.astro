@@ -44,6 +44,38 @@ const statusMap: Record<string, { cls: string; icon: string; label: string; full
     label: L('Dalam semakan', 'In review', '审阅中'),
     full: L('Sedang disemak', 'Under review', '正在审阅中'),
   },
+  // Update cycle — the article is still live, but flagged rather than shown as
+  // a clean green "Published" it no longer deserves.
+  'needs-update': {
+    cls: 'warn',
+    icon: '⏳',
+    label: L('Perlu kemas kini', 'Needs update', '需更新'),
+    full: L(
+      'Semakan tertunggak — mungkin sudah lapuk',
+      'Review overdue — may be out of date',
+      '审阅已逾期——内容可能已过时',
+    ),
+  },
+  'in-update': {
+    cls: 'info',
+    icon: '✎',
+    label: L('Dikemas kini', 'Being updated', '更新中'),
+    full: L(
+      'Versi baharu sedang disediakan',
+      'A new version is being prepared',
+      '正在准备新版本',
+    ),
+  },
+  archived: {
+    cls: 'muted',
+    icon: '⧉',
+    label: L('Diarkibkan', 'Archived', '已归档'),
+    full: L(
+      'Diarkibkan — digantikan atau dimansuhkan',
+      'Archived — superseded or repealed',
+      '已归档——已被取代或废止',
+    ),
+  },
   draft: {
     cls: 'warn',
     icon: '⚠',
