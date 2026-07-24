@@ -17,16 +17,11 @@ export const NAV: NavMenu[] = [
   { label: 'nav.understand', href: '/understand' },
   { label: 'nav.living', href: '/living' },
   { label: 'nav.business', href: '/doing-business' },
-  {
-    label: 'nav.explore',
-    items: [
-      { label: 'nav.latest', href: '/latest' },
-      { label: 'nav.graph', href: '/graph' },
-      { label: 'nav.map', href: '/map' },
-      { label: 'nav.terminology', href: '/terminology' },
-      { label: 'nav.random', href: '/random' },
-    ],
-  },
+  // Explore is a destination, not a dropdown: the /explore page already gathers
+  // search, categories and featured reading. Latest, Graph, Map, Terminology and
+  // Random were removed from the menu pending redevelopment — the pages still
+  // build and remain reachable by URL.
+  { label: 'nav.explore', href: '/explore' },
   {
     label: 'nav.more',
     items: [

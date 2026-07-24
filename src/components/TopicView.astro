@@ -58,15 +58,6 @@ const countIn = (t: string) => catArticles.filter((a) => a.data.subcategory.incl
       {L(`Setiap artikel dalam ${label}.`, `Every article in ${label}.`, `${label}的全部文章。`)}
     </p>
 
-    <form class="csearch" action={localePath('/search', locale)} method="get" role="search">
-      <span aria-hidden="true">🔍</span>
-      <input
-        type="search"
-        name="q"
-        placeholder={L(`Cari dalam ${label}…`, `Search in ${label}…`, `搜索${label}…`)}
-        aria-label={L('Cari dalam topik ini', 'Search in this topic', '在此主题中搜索')}
-      />
-    </form>
   </div>
 </header>
 
@@ -137,13 +128,6 @@ const countIn = (t: string) => catArticles.filter((a) => a.data.subcategory.incl
 </div>
 
 <style>
-  .csearch {
-    display: flex; align-items: center; gap: 0.6rem; max-width: 34rem;
-    background: var(--surface-2); border: 1px solid var(--line); border-radius: 999px;
-    padding: 0.62rem 1.1rem; margin-top: 1.2rem;
-  }
-  .csearch input { flex: 1; background: none; border: 0; color: var(--ink); font: inherit; font-size: 0.95rem; outline: none; }
-  .csearch:focus-within { border-color: var(--gold); }
   .tsec + .tsec { margin-top: 1.2rem; }
   .tpager { display: grid; grid-template-columns: 1fr 1fr; gap: 0.7rem; margin-bottom: 0.9rem; }
   .tpg {

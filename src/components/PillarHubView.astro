@@ -41,16 +41,6 @@ const artHref = (a: (typeof items)[number]) => localePath(`/${a.data.category}/$
     <h1>{def.name[locale]}</h1>
     <p class="lede">{def.tagline[locale]}</p>
 
-    <form class="csearch" action={localePath('/search', locale)} method="get" role="search">
-      <span aria-hidden="true">🔍</span>
-      <input
-        type="search"
-        name="q"
-        placeholder={L(`Cari dalam ${def.name.ms}…`, `Search in ${def.name.en}…`, `搜索${def.name.zh}…`)}
-        aria-label={L('Cari dalam seksyen ini', 'Search in this section', '在本板块中搜索')}
-      />
-    </form>
-
     <nav class="sib" aria-label={L('Seksyen lain', 'Other sections', '其他板块')}>
       {
         siblings.map((p) => (
@@ -131,13 +121,6 @@ const artHref = (a: (typeof items)[number]) => localePath(`/${a.data.category}/$
   .pill.tier { color: var(--gold); border-color: color-mix(in srgb, var(--gold) 45%, var(--line)); background: color-mix(in srgb, var(--gold) 9%, transparent); }
   .art-hero h1 { margin: 0 0 0.55rem; font-family: var(--font-title); font-weight: 800; font-size: clamp(1.9rem, 4vw, 2.8rem); line-height: 1.1; }
   .lede { color: var(--ink-soft); font-size: 1.1rem; max-width: 60ch; margin: 0 0 1.3rem; }
-  .csearch {
-    display: flex; align-items: center; gap: 0.6rem; max-width: 34rem;
-    background: var(--surface-2); border: 1px solid var(--line); border-radius: 999px;
-    padding: 0.62rem 1.1rem;
-  }
-  .csearch input { flex: 1; background: none; border: 0; color: var(--ink); font: inherit; font-size: 0.95rem; outline: none; }
-  .csearch:focus-within { border-color: var(--gold); }
   .sib { display: flex; gap: 0.5rem; flex-wrap: wrap; margin-top: 1.1rem; }
   .sib-chip {
     font-size: 0.82rem; color: var(--ink-soft); text-decoration: none;

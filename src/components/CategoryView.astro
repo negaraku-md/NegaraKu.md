@@ -55,20 +55,6 @@ const Body = {
   <h1>{category.icon} {category.name[locale]}</h1>
   <p class="lede">{category.blurb[locale]}</p>
 
-  <form class="csearch" action={localePath('/search', locale)} method="get" role="search">
-    <span aria-hidden="true">🔍</span>
-    <input
-      type="search"
-      name="q"
-      placeholder={L(
-        `Tanya tentang ${category.name.ms}…`,
-        `Ask anything about ${category.name.en}…`,
-        `搜索${category.name.zh}…`,
-      )}
-      aria-label={L('Cari dalam kategori ini', 'Search in this category', '在此分类中搜索')}
-    />
-  </form>
-
   {
     siblingCats.length > 0 && pillarDef && (
       <nav class="sib" aria-label={L('Kategori lain', 'Other categories', '其他分类')}>
@@ -133,29 +119,6 @@ const Body = {
     color: var(--ink-soft);
     max-width: 62ch;
     margin: 0;
-  }
-  .csearch {
-    display: flex;
-    align-items: center;
-    gap: 0.6rem;
-    max-width: 34rem;
-    margin-top: 1.3rem;
-    background: var(--surface-2);
-    border: 1px solid var(--line);
-    border-radius: 999px;
-    padding: 0.62rem 1.1rem;
-  }
-  .csearch input {
-    flex: 1;
-    background: none;
-    border: 0;
-    color: var(--ink);
-    font: inherit;
-    font-size: 0.95rem;
-    outline: none;
-  }
-  .csearch:focus-within {
-    border-color: var(--gold);
   }
   .sib {
     display: flex;
