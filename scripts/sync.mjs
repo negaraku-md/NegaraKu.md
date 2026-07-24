@@ -100,6 +100,15 @@ async function main() {
       updated: data.updated ? new Date(data.updated).toISOString().slice(0, 10) : null,
       sources: (data.sources ?? []).length,
       related: data.related ?? [],
+      // Public change history — who did what, when. contributor/reviewer are
+      // null until a human is named (articles start as AI drafts).
+      revisions: (data.revisions ?? []).map((r) => ({
+        version: r.version ?? null,
+        date: r.date ? new Date(r.date).toISOString().slice(0, 10) : null,
+        change: r.change ?? '',
+        contributor: r.contributor ?? null,
+        reviewer: r.reviewer ?? null,
+      })),
       words,
     });
   }

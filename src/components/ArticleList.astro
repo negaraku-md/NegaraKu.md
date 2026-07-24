@@ -66,6 +66,14 @@ const rows = articles.map((a) => {
     min: readingTime(a),
     conn,
     upd: d.updated ? new Date(d.updated).toISOString().slice(0, 10) : '',
+    // Public change history: date · who · what. contributor is null until a
+    // human is credited, so fall back to an honest "AI draft" label.
+    hist: (d.revisions ?? []).map((r) => ({
+      date: r.date ? new Date(r.date).toISOString().slice(0, 10) : '',
+      who: r.contributor || null,
+      rev: r.reviewer || null,
+      change: r.change || '',
+    })),
   };
 });
 
@@ -196,6 +204,9 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
     sources: L('sumber', 'sources', '来源'),
     linked: L('pautan', 'links', '关联'),
     updated: L('Dikemas kini', 'Updated', '更新'),
+    history: L('Sejarah', 'History', '历史'),
+    aiDraft: L('Draf AI', 'AI draft', 'AI 草稿'),
+    reviewedBy: L('disemak oleh', 'reviewed by', '审阅者'),
     nextReview: L('Semakan seterusnya', 'Next review', '下次审阅'),
   })}
 ></script>
@@ -234,6 +245,20 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
     draft: 'warn', 'needs-update': 'warn', archived: 'muted',
   };
 
+  // Public change history — newest first: date · who · what changed.
+  // "who" falls back to an honest "AI draft" when no human is credited yet.
+  function histHtml(hist) {
+    if (!hist || !hist.length) return '';
+    const esc = (s) => String(s).replace(/[<>&]/g, (c) => ({ '<': '&lt;', '>': '&gt;', '&': '&amp;' }[c]));
+    const rows = [...hist].sort((a, b) => (a.date < b.date ? 1 : -1)).map((h) => {
+      const who = h.who ? esc(h.who) : `<span class="ai">${I18N.aiDraft}</span>`;
+      const rev = h.rev ? ` · ${I18N.reviewedBy} <b>${esc(h.rev)}</b>` : '';
+      const change = h.change ? ` — ${esc(h.change)}` : '';
+      return `<li><time>${h.date}</time><span class="hw">${who}</span>${rev}<span class="hc">${change}</span></li>`;
+    }).join('');
+    return `<div class="ahist"><span class="hlabel">${I18N.history}</span><ul>${rows}</ul></div>`;
+  }
+
   function render() {
     const data = filtered().sort(cmp);
     const total = data.length;
@@ -262,8 +287,8 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
             <span class="chip">${r.src} ${I18N.sources}</span>
             <span class="chip">${r.conn} ${I18N.linked}</span>
             <span class="chip">${r.min} ${I18N.min}</span>
-            <span class="chip dim">${I18N.updated} ${r.upd}</span>
           </div>
+          ${histHtml(r.hist)}
         </article>`).join('');
     }
 
@@ -369,6 +394,23 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
   .acards :global(.mlink) { color: var(--gold); font-weight: 800; text-decoration: none; }
   .acards :global(.mlink:hover) { text-decoration: underline; }
   .acards :global(.langs .off) { color: color-mix(in srgb, var(--muted) 45%, transparent); }
+
+  /* Change history — one line per revision, newest first. */
+  .acards :global(.ahist) {
+    display: flex; gap: 0.7rem; margin-top: 0.85rem; padding-top: 0.7rem;
+    border-top: 1px dashed var(--line); font-size: 0.76rem;
+  }
+  .acards :global(.ahist .hlabel) {
+    flex: none; font-size: 0.62rem; font-weight: 800; text-transform: uppercase;
+    letter-spacing: 0.08em; color: var(--muted); padding-top: 0.12rem;
+  }
+  .acards :global(.ahist ul) { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 0.2rem; }
+  .acards :global(.ahist li) { color: var(--ink-soft); }
+  .acards :global(.ahist time) { color: var(--muted); font-variant-numeric: tabular-nums; margin-right: 0.5rem; }
+  .acards :global(.ahist .hw) { color: var(--ink); font-weight: 700; }
+  .acards :global(.ahist .ai) { color: var(--muted); font-weight: 600; font-style: italic; }
+  .acards :global(.ahist b) { color: var(--gold); font-weight: 700; }
+  .acards :global(.ahist .hc) { color: var(--muted); }
 
   .pager { display: flex; flex-wrap: wrap; gap: 0.8rem; justify-content: space-between; align-items: center; margin-top: 1rem; font-size: 0.85rem; }
   .pager-top { margin-top: 0; margin-bottom: 1.1rem; padding-bottom: 1rem; border-bottom: 1px solid var(--line); }
