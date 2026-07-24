@@ -22,9 +22,7 @@ const items = await articlesForLocale(locale);
 const inPillar = items.filter((a) => getPillar(a.data.category) === pillar);
 const counts: Record<string, number> = {};
 for (const a of inPillar) counts[a.data.category] = (counts[a.data.category] ?? 0) + 1;
-const featured = inPillar.filter((a) => a.data.tier === '1').slice(0, 6);
 const catHref = (id: string) => localePath(`/${id}`, locale);
-const artHref = (a: (typeof items)[number]) => localePath(`/${a.data.category}/${a.data.slug}`, locale);
 ---
 
 <header class="art-hero">
@@ -77,26 +75,6 @@ const artHref = (a: (typeof items)[number]) => localePath(`/${a.data.category}/$
     </div>
   </section>
 
-  {
-    featured.length > 0 && (
-      <section class="psec">
-        <header>
-          <span>{L('Mula di sini', 'Start here', '从这里开始')}</span>
-          <span>{L('Panduan utama', 'Flagship guides', '核心指南')}</span>
-        </header>
-        <div class="psec-body">
-          <div class="feat-grid">
-            {featured.map((a) => (
-              <a class="feat" href={artHref(a)}>
-                <b>{a.data.title}</b>
-                <span>{a.data.summary}</span>
-              </a>
-            ))}
-          </div>
-        </div>
-      </section>
-    )
-  }
 </div>
 
 <style>
@@ -154,21 +132,17 @@ const artHref = (a: (typeof items)[number]) => localePath(`/${a.data.category}/$
   }
   .psec-body { padding: 1.1rem; }
 
-  .cat-grid, .feat-grid { display: grid; gap: 0.8rem; }
+  .cat-grid { display: grid; gap: 0.8rem; }
   .cat-grid { grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); }
-  .feat-grid { grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr)); }
-  .cat-card, .feat {
+  .cat-card {
     background: var(--surface-2); border: 1px solid var(--line); border-radius: 10px;
     text-decoration: none; color: inherit; transition: border-color 0.15s, transform 0.15s;
+    display: flex; gap: 0.7rem; align-items: flex-start; padding: 0.95rem 1rem;
   }
-  .cat-card:hover, .feat:hover { border-color: color-mix(in srgb, var(--gold) 55%, var(--line)); transform: translateY(-2px); }
-  .cat-card { display: flex; gap: 0.7rem; align-items: flex-start; padding: 0.95rem 1rem; }
+  .cat-card:hover { border-color: color-mix(in srgb, var(--gold) 55%, var(--line)); transform: translateY(-2px); }
   .cat-card .ci { font-size: 1.4rem; line-height: 1; }
   .cat-card .cb { display: flex; flex-direction: column; gap: 0.2rem; }
   .cat-card b { font-family: var(--font-title); font-size: 1rem; display: flex; align-items: center; gap: 0.4rem; }
   .cat-card .cc { font-size: 0.7rem; font-weight: 800; color: var(--gold); }
   .cat-card .cd { color: var(--ink-soft); font-size: 0.85rem; line-height: 1.5; }
-  .feat { display: flex; flex-direction: column; gap: 0.3rem; padding: 0.95rem 1rem; border-left: 3px solid var(--gold); border-radius: 0 10px 10px 0; }
-  .feat b { font-family: var(--font-title); font-size: 0.98rem; }
-  .feat span { color: var(--ink-soft); font-size: 0.85rem; line-height: 1.5; }
 </style>

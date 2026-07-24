@@ -125,9 +125,9 @@ export const PILLARS: PillarDef[] = [
     icon: '📖',
     name: { ms: 'Kenali Malaysia', en: 'Understand Malaysia', zh: '认识马来西亚' },
     tagline: {
-      ms: 'Sejarah, kerajaan, undang-undang, ekonomi dan budaya sebuah negara majmuk.',
-      en: 'History, government, law, economy and culture of a plural nation.',
-      zh: '一个多元国度的历史、政府、法律、经济与文化。',
+      ms: 'Bagaimana Malaysia terbentuk, bagaimana ia ditadbir, dan apa yang menyatukan sebuah negara majmuk.',
+      en: 'How Malaysia came to be, how it is governed, and what holds a plural nation together.',
+      zh: '马来西亚如何形成、如何治理，以及是什么维系着这个多元国度。',
     },
   },
   {
@@ -135,9 +135,9 @@ export const PILLARS: PillarDef[] = [
     icon: '🏠',
     name: { ms: 'Hidup di Malaysia', en: 'Living in Malaysia', zh: '在马来西亚生活' },
     tagline: {
-      ms: 'Perkhidmatan kerajaan, kesihatan, pendidikan, pengangkutan dan hartanah.',
-      en: 'Government services, healthcare, education, transport and property.',
-      zh: '政府服务、医疗、教育、交通与房地产。',
+      ms: 'Panduan praktikal untuk kehidupan harian — perkhidmatan awam, kesihatan, pendidikan, pengangkutan dan tempat tinggal.',
+      en: 'Practical guidance for daily life — public services, healthcare, schooling, getting around and finding a home.',
+      zh: '日常生活的实用指南——公共服务、医疗、教育、出行与安居。',
     },
   },
   {
@@ -145,9 +145,9 @@ export const PILLARS: PillarDef[] = [
     icon: '💼',
     name: { ms: 'Berniaga di Malaysia', en: 'Doing Business in Malaysia', zh: '在马来西亚经商' },
     tagline: {
-      ms: 'Penubuhan, cukai, perakaunan, audit dan pematuhan untuk perniagaan.',
-      en: 'Formation, tax, accounting, audit and compliance for business.',
-      zh: '公司设立、税务、会计、审计与合规。',
+      ms: 'Apa yang diperlukan untuk memulakan, mengendali dan mematuhi peraturan perniagaan — daripada pemerbadanan hingga cukai.',
+      en: 'What it takes to start, run and stay compliant as a business — from incorporation to tax.',
+      zh: '创业、经营与合规所需的一切——从公司注册到税务。',
     },
   },
 ];
