@@ -63,8 +63,8 @@ const vitalsList = Object.values(dash.vitals);
 <section class="hero">
   <div class="container hero-inner">
     <div class="hero-lead">
-      <p class="eyebrow">NegaraKu<span class="dot">.md</span></p>
-      <h1 class="headline">{t('home.hero.title', locale)}</h1>
+      <h1 class="headline">NegaraKu<span class="dot">.md</span></h1>
+      <p class="pitch-lead">{t('home.hero.title', locale)}</p>
       <p class="pitch">
         {L(
           'Pangkalan pengetahuan Malaysia yang lengkap — sumber terbuka, mesra-AI, dibina dari pelbagai perspektif untuk mengetengahkan Malaysia kepada dunia.',
@@ -274,17 +274,17 @@ const vitalsList = Object.values(dash.vitals);
     display: grid; grid-template-columns: 1.1fr 0.9fr; gap: 3rem; align-items: center;
     padding-bottom: 3rem;
   }
-  .eyebrow {
-    font-family: var(--font-title); font-weight: 800; font-size: 0.85rem;
-    letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); margin: 0 0 1rem;
-  }
-  .eyebrow .dot { color: var(--gold); }
   .headline {
     font-family: var(--font-title); font-weight: 900;
-    font-size: clamp(2.1rem, 4.6vw, 3.4rem); line-height: 1.08; letter-spacing: -0.02em;
-    margin: 0 0 1.1rem; color: var(--ink); max-width: 15ch;
+    font-size: clamp(2.4rem, 6vw, 4rem); line-height: 1; letter-spacing: -0.03em;
+    margin: 0 0 0.9rem; color: var(--ink);
   }
-  .pitch { font-size: 1.1rem; line-height: 1.7; color: var(--ink-soft); max-width: 52ch; margin: 0 0 1.7rem; }
+  .headline .dot { color: var(--gold); }
+  .pitch-lead {
+    font-family: var(--font-title); font-weight: 700; font-size: clamp(1.3rem, 2.6vw, 1.7rem);
+    line-height: 1.2; color: var(--ink); margin: 0 0 0.8rem;
+  }
+  .pitch { font-size: 1.05rem; line-height: 1.7; color: var(--ink-soft); max-width: 52ch; margin: 0 0 1.7rem; }
   .hsearch {
     display: flex; align-items: center; gap: 0.6rem; width: 100%; max-width: 34rem; margin: 0 0 1.2rem;
     background: var(--surface-2); border: 1px solid var(--line); border-radius: 999px;

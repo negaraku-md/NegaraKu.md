@@ -277,35 +277,44 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
   }
   .filters input:focus, .filters select:focus { outline: none; border-color: var(--gold); }
 
-  /* Card per article — all 10 fields readable without horizontal scroll. */
-  .acards { display: flex; flex-direction: column; gap: 0.6rem; }
-  .acard {
-    border: 1px solid var(--line); border-radius: 12px; background: var(--surface);
-    padding: 0.85rem 1rem;
+  /* Card per article. The cards are built client-side (innerHTML), so their
+     styles must be :global — Astro's scoped selectors never reach JS-injected
+     DOM. Namespaced under the scoped .acards container so nothing leaks. */
+  .acards { display: flex; flex-direction: column; gap: 0.7rem; }
+  .acards :global(.acard) {
+    border: 1px solid var(--line); border-left: 3px solid color-mix(in srgb, var(--gold) 55%, var(--line));
+    border-radius: 12px; background: var(--surface);
+    padding: 1rem 1.15rem; transition: border-color 0.15s ease, background 0.15s ease;
   }
-  .acard:hover { border-color: color-mix(in srgb, var(--gold) 40%, var(--line)); }
-  .atitle { display: inline-block; font-family: var(--font-title); font-weight: 700; font-size: 1.02rem; color: var(--ink); text-decoration: none; }
-  .atitle:hover { color: var(--gold); text-decoration: underline; }
-  .apath { margin: 0.25rem 0 0.55rem; font-size: 0.8rem; color: var(--muted); }
-  .apath span { color: var(--ink-soft); }
-  .achips { display: flex; flex-wrap: wrap; align-items: center; gap: 0.4rem; }
-  .chip {
-    font-size: 0.74rem; color: var(--ink-soft); border: 1px solid var(--line);
-    background: var(--surface-2); border-radius: 999px; padding: 0.12rem 0.55rem;
+  .acards :global(.acard:hover) {
+    border-color: color-mix(in srgb, var(--gold) 50%, var(--line));
+    border-left-color: var(--gold); background: var(--surface-2);
   }
-  .chip b { color: var(--gold); font-weight: 800; }
-  .chip.dim { color: var(--muted); }
-  .empty { text-align: center; color: var(--muted); padding: 2.5rem; border: 1px dashed var(--line); border-radius: 12px; }
-  .st { font-size: 0.72rem; font-weight: 800; border-radius: 999px; padding: 0.12rem 0.55rem; border: 1px solid var(--line); }
-  .st.ok { color: #4ade80; border-color: rgba(74,222,128,.35); background: rgba(74,222,128,.1); }
-  .st.warn { color: #fbbf24; border-color: rgba(251,191,36,.35); background: rgba(251,191,36,.1); }
-  .st.info { color: #60a5fa; border-color: rgba(96,165,250,.35); background: rgba(96,165,250,.1); }
-  .st.muted { color: var(--muted); }
-  .langs.chip { padding-right: 0.35rem; }
-  .langs a, .langs span { font-size: 0.7rem; font-weight: 800; margin-left: 0.15rem; text-decoration: none; }
-  .langs a.on { color: var(--gold); }
-  .langs a.on:hover { text-decoration: underline; }
-  .langs .off { color: color-mix(in srgb, var(--muted) 45%, transparent); }
+  .acards :global(.atitle) {
+    font-family: var(--font-title); font-weight: 700; font-size: 1.05rem; line-height: 1.35;
+    color: var(--ink); text-decoration: none;
+  }
+  .acards :global(.acard:hover .atitle) { color: var(--gold); }
+  .acards :global(.apath) { margin: 0.3rem 0 0.75rem; font-size: 0.8rem; color: var(--muted); }
+  .acards :global(.apath span) { color: var(--ink-soft); }
+  .acards :global(.achips) { display: flex; flex-wrap: wrap; align-items: center; gap: 0.45rem; }
+  .acards :global(.chip) {
+    font-size: 0.73rem; color: var(--ink-soft); border: 1px solid var(--line);
+    background: var(--surface-2); border-radius: 999px; padding: 0.16rem 0.6rem; white-space: nowrap;
+  }
+  .acards :global(.chip b) { color: var(--gold); font-weight: 800; }
+  .acards :global(.chip.dim) { color: var(--muted); border-style: dashed; }
+  .acards :global(.empty) { text-align: center; color: var(--muted); padding: 2.5rem; border: 1px dashed var(--line); border-radius: 12px; }
+  .acards :global(.st) { font-size: 0.72rem; font-weight: 800; border-radius: 999px; padding: 0.16rem 0.6rem; border: 1px solid var(--line); }
+  .acards :global(.st.ok) { color: #4ade80; border-color: rgba(74,222,128,.35); background: rgba(74,222,128,.12); }
+  .acards :global(.st.warn) { color: #fbbf24; border-color: rgba(251,191,36,.35); background: rgba(251,191,36,.12); }
+  .acards :global(.st.info) { color: #60a5fa; border-color: rgba(96,165,250,.35); background: rgba(96,165,250,.12); }
+  .acards :global(.st.muted) { color: var(--muted); }
+  .acards :global(.langs.chip) { display: inline-flex; gap: 0.35rem; padding: 0.16rem 0.6rem; }
+  .acards :global(.langs a), .acards :global(.langs span) { font-size: 0.7rem; font-weight: 800; text-decoration: none; }
+  .acards :global(.langs a.on) { color: var(--gold); }
+  .acards :global(.langs a.on:hover) { text-decoration: underline; }
+  .acards :global(.langs .off) { color: color-mix(in srgb, var(--muted) 45%, transparent); }
 
   .pager { display: flex; flex-wrap: wrap; gap: 0.8rem; justify-content: space-between; align-items: center; margin-top: 1rem; font-size: 0.85rem; }
   .pg-size { display: flex; align-items: center; gap: 0.8rem; color: var(--muted); }
