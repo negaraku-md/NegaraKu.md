@@ -85,7 +85,9 @@ for (const a of items) {
 </div>
 
 <style>
-  .hub-groups { padding-block: 2rem 1rem; display: flex; flex-direction: column; gap: 1.2rem; }
+  /* 1.2rem is the standard gap between content groups (matches the article
+     page's .layer spacing), so TOPICS→CATEGORIES→SECTIONS are evenly spaced. */
+  .hub-groups { padding-block: 1.2rem 1rem; display: flex; flex-direction: column; gap: 1.2rem; }
   .psec {
     background: var(--surface);
     border: 1px solid var(--line);
