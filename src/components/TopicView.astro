@@ -26,15 +26,9 @@ const pillar = getPillar(categoryId);
 const pillarDef = pillar ? getPillarDef(pillar) : undefined;
 const label = subcatLabel(topic, locale);
 
-// Sibling topics — move sideways across the category without going back up.
+// Sibling topics in this category — used for the hero's Topics stat.
 const catArticles = (await articlesForLocale(locale)).filter((a) => a.data.category === categoryId);
 const topics = orderedSubcats(categoryId, catArticles.flatMap((a) => a.data.subcategory));
-const tIdx = topics.indexOf(topic);
-const prevTopic = tIdx > 0 ? topics[tIdx - 1] : null;
-const nextTopic = tIdx >= 0 && tIdx < topics.length - 1 ? topics[tIdx + 1] : null;
-const otherTopics = topics.filter((t) => t !== topic);
-const topicHref = (t: string) => localePath(`/${categoryId}/topic/${t}`, locale);
-const countIn = (t: string) => catArticles.filter((a) => a.data.subcategory.includes(t)).length;
 ---
 
 <PageHero
@@ -56,83 +50,3 @@ const countIn = (t: string) => catArticles.filter((a) => a.data.subcategory.incl
 />
 
 <ArticleList locale={locale} articles={articles} filters={[]} />
-
-<div class="container tpage">
-  {
-    otherTopics.length > 0 && (
-      <section class="tsec">
-        <header>
-          <span>{L('Topik lain dalam', 'Other topics in', '其他主题：')} {cat.name[locale]}</span>
-          <span>{topics.length}</span>
-        </header>
-        <div class="tsec-body">
-          {(prevTopic || nextTopic) && (
-            <div class="tpager">
-              {prevTopic ? (
-                <a class="tpg" href={topicHref(prevTopic)}>
-                  <span class="dir">← {L('Sebelum', 'Previous', '上一主题')}</span>
-                  <b>{subcatLabel(prevTopic, locale)}</b>
-                </a>
-              ) : (
-                <span class="tpg empty" />
-              )}
-              {nextTopic ? (
-                <a class="tpg next" href={topicHref(nextTopic)}>
-                  <span class="dir">{L('Seterusnya', 'Next', '下一主题')} →</span>
-                  <b>{subcatLabel(nextTopic, locale)}</b>
-                </a>
-              ) : (
-                <span class="tpg empty" />
-              )}
-            </div>
-          )}
-          <div class="tchips">
-            {otherTopics.map((t) => (
-              <a class="tchip" href={topicHref(t)}>
-                {subcatLabel(t, locale)} <span class="n">{countIn(t)}</span>
-              </a>
-            ))}
-          </div>
-        </div>
-      </section>
-    )
-  }
-</div>
-
-<style>
-  .tsec + .tsec { margin-top: 1.2rem; }
-  .tpager { display: grid; grid-template-columns: 1fr 1fr; gap: 0.7rem; margin-bottom: 0.9rem; }
-  .tpg {
-    display: flex; flex-direction: column; gap: 0.25rem; padding: 0.8rem 1rem;
-    border: 1px solid var(--line); border-radius: 10px; background: var(--surface-2);
-    text-decoration: none; color: inherit; transition: border-color 0.15s;
-  }
-  .tpg:hover { border-color: color-mix(in srgb, var(--gold) 55%, var(--line)); }
-  .tpg.next { text-align: right; }
-  .tpg .dir { color: var(--gold); font-size: 0.74rem; font-weight: 700; }
-  .tpg b { font-family: var(--font-title); font-size: 0.96rem; color: var(--ink); }
-  .tpg.empty { border: 0; background: none; }
-  .tchips { display: flex; flex-wrap: wrap; gap: 0.5rem; }
-  .tchip {
-    font-size: 0.84rem; color: var(--ink-soft); text-decoration: none;
-    border: 1px solid var(--line); border-radius: 999px; padding: 0.32rem 0.8rem; background: var(--surface-2);
-    transition: border-color 0.15s;
-  }
-  .tchip:hover { border-color: color-mix(in srgb, var(--gold) 55%, var(--line)); color: var(--ink); }
-  .tchip .n { color: var(--gold); font-weight: 700; font-size: 0.76rem; }
-  @media (max-width: 640px) { .tpager { grid-template-columns: 1fr; } }
-
-  .tpage { padding-block: 2rem 4rem; }
-  .tsec {
-    background: var(--surface);
-    border: 1px solid var(--line);
-    border-radius: 12px; overflow: hidden;
-  }
-  .tsec > header {
-    display: flex; justify-content: space-between; align-items: center; gap: 0.5rem;
-    padding: 0.45rem 0.95rem; font-size: 0.67rem; font-weight: 800; letter-spacing: 0.1em;
-    text-transform: uppercase; color: var(--muted); background: var(--surface-2);
-    border-bottom: 1px solid var(--line);
-  }
-  .tsec-body { padding: 0.4rem 0.95rem 0.9rem; }
-</style>
