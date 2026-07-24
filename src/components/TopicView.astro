@@ -1,6 +1,6 @@
 ---
 import type { Locale } from '@/lib/categories';
-import { getCategory, getPillar, getPillarDef } from '@/lib/categories';
+import { getCategory, getPillar, getPillarDef, categoriesInPillar, PILLARS } from '@/lib/categories';
 import { type Article, articlesForLocale } from '@/lib/content';
 import { subcatLabel, orderedSubcats } from '@/lib/subcategories';
 import { localePath } from '@/lib/i18n';
@@ -48,7 +48,12 @@ const countIn = (t: string) => catArticles.filter((a) => a.data.subcategory.incl
   ]}
   title={label}
   desc={L(`Setiap artikel dalam ${label}.`, `Every article in ${label}.`, `${label}的全部文章。`)}
-  stats={[{ value: articles.length, label: L('artikel', 'articles', '文章') }]}
+  stats={[
+    { value: PILLARS.length, label: L('seksyen', 'sections', '版块') },
+    { value: pillar ? categoriesInPillar(pillar).length : 0, label: L('kategori', 'categories', '分类') },
+    { value: topics.length, label: L('topik', 'topics', '主题') },
+    { value: articles.length, label: L('artikel', 'articles', '文章') },
+  ]}
 />
 
 <div class="container tpage">
