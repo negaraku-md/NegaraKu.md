@@ -305,6 +305,38 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
 
   function go(page) { state.page = page; render(); }
 
+  // Cascading filters: Categories are constrained by the chosen Section, and
+  // Topics by the chosen Section + Category. Option lists are derived from the
+  // rows themselves so they always match what's actually available.
+  const F_CAT = $('f-cat'), F_TOP = $('f-top');
+  const PH_CAT = F_CAT ? F_CAT.options[0].textContent : '';
+  const PH_TOP = F_TOP ? F_TOP.options[0].textContent : '';
+
+  function uniqueBy(pred, idKey, labelKey) {
+    const seen = new Map();
+    for (const r of rows) {
+      if (!pred(r)) continue;
+      if (r[idKey] && !seen.has(r[idKey])) seen.set(r[idKey], r[labelKey]);
+    }
+    return [...seen.entries()].sort((a, b) => (String(a[1]).toLowerCase() < String(b[1]).toLowerCase() ? -1 : 1));
+  }
+
+  function fillSelect(el, opts, placeholder, current) {
+    if (!el) return current;
+    const valid = opts.some(([id]) => id === current);
+    el.innerHTML = `<option value="">${placeholder}</option>` +
+      opts.map(([id, label]) => `<option value="${id}">${label}</option>`).join('');
+    el.value = valid ? current : '';
+    return valid ? current : '';
+  }
+
+  function syncFilters() {
+    const cats = uniqueBy((r) => !state.sec || r.secId === state.sec, 'catId', 'cat');
+    state.cat = fillSelect(F_CAT, cats, PH_CAT, state.cat);
+    const tops = uniqueBy((r) => (!state.sec || r.secId === state.sec) && (!state.cat || r.catId === state.cat), 'topId', 'top');
+    state.top = fillSelect(F_TOP, tops, PH_TOP, state.top);
+  }
+
   document.querySelectorAll('.tab').forEach((btn) => {
     btn.addEventListener('click', () => {
       document.querySelectorAll('.tab').forEach((x) => x.classList.remove('on'));
@@ -313,8 +345,8 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
     });
   });
   on('f-q', 'input', (e) => { state.q = e.target.value.trim().toLowerCase(); state.page = 1; render(); });
-  on('f-sec', 'change', (e) => { state.sec = e.target.value; state.page = 1; render(); });
-  on('f-cat', 'change', (e) => { state.cat = e.target.value; state.page = 1; render(); });
+  on('f-sec', 'change', (e) => { state.sec = e.target.value; state.page = 1; syncFilters(); render(); });
+  on('f-cat', 'change', (e) => { state.cat = e.target.value; state.page = 1; syncFilters(); render(); });
   on('f-top', 'change', (e) => { state.top = e.target.value; state.page = 1; render(); });
   on('f-status', 'change', (e) => { state.st = e.target.value; state.page = 1; render(); });
   onAll('pg-size-sel', 'change', (e) => { state.size = +e.target.value; state.page = 1; render(); });
