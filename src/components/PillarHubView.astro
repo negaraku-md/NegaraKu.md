@@ -35,8 +35,8 @@ const catHref = (id: string) => localePath(`/${id}`, locale);
   title={def.name[locale]}
   desc={def.tagline[locale]}
   stats={[
-    { value: cats.length, label: L('kategori', 'categories', '分类') },
     { value: PILLARS.length, label: L('seksyen', 'sections', '版块') },
+    { value: cats.length, label: L('kategori', 'categories', '分类') },
     { value: topicCount, label: L('topik', 'topics', '主题') },
     { value: inPillar.length, label: L('artikel', 'articles', '文章') },
   ]}
