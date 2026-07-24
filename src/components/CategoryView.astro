@@ -4,6 +4,7 @@ import { getArchetype, getPillar, getPillarDef, categoriesInPillar, PILLARS } fr
 import type { Article } from '@/lib/content';
 import { localePath } from '@/lib/i18n';
 import PageHero from './PageHero.astro';
+import HubGroups from './HubGroups.astro';
 
 import ServiceCategory from './category/ServiceCategory.astro';
 import NarrativeCategory from './category/NarrativeCategory.astro';
@@ -60,3 +61,5 @@ const Body = {
 />
 
 <Body locale={locale} category={category} articles={articles} />
+
+{pillar && <HubGroups locale={locale} pillar={pillar} activeCategory={category.id} />}
