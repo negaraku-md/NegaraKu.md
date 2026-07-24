@@ -47,7 +47,15 @@ const rows = canonical.map((a) => {
 const cats = [...new Map(rows.map((r) => [r.catId, r.cat])).entries()].sort((a, b) =>
   a[1] < b[1] ? -1 : 1,
 );
-const STATUSES = ['draft', 'in-review', 'reviewed', 'published', 'needs-update', 'in-update', 'archived'];
+// Statuses actually present on THIS locale's page, in lifecycle order, with counts.
+// The list shows one row per topic (this locale's version), so e.g. the English
+// page is all "published" while the Malay page carries the drafts. Offering a
+// status that cannot match — like Draft on the English page — is what made the
+// filter look broken, so only real statuses appear.
+const LIFECYCLE = ['draft', 'in-review', 'reviewed', 'published', 'needs-update', 'in-update', 'archived'];
+const statusCounts: Record<string, number> = {};
+for (const r of rows) statusCounts[r.st] = (statusCounts[r.st] ?? 0) + 1;
+const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
 ---
 
 <section class="container head">
@@ -81,7 +89,9 @@ const STATUSES = ['draft', 'in-review', 'reviewed', 'published', 'needs-update',
       </select>
       <select id="f-status">
         <option value="">{L('Semua status', 'All statuses', '所有状态')}</option>
-        {STATUSES.map((s) => <option value={s}>{t(`status.${s}`, locale)}</option>)}
+        {presentStatuses.map((s) => (
+          <option value={s}>{t(`status.${s}`, locale)} ({statusCounts[s]})</option>
+        ))}
       </select>
       <select id="f-lang">
         <option value="">{L('Semua bahasa', 'All languages', '所有语言')}</option>
@@ -139,7 +149,7 @@ const STATUSES = ['draft', 'in-review', 'reviewed', 'published', 'needs-update',
   type="application/json"
   id="articles-i18n"
   set:html={JSON.stringify({
-    status: Object.fromEntries(STATUSES.map((s) => [s, t(`status.${s}`, locale)])),
+    status: Object.fromEntries(LIFECYCLE.map((s) => [s, t(`status.${s}`, locale)])),
     showing: L('{a}–{b} drpd {n}', '{a}–{b} of {n}', '第 {a}–{b} 项，共 {n}'),
     empty: L('Tiada artikel sepadan.', 'No matching articles.', '没有匹配的文章。'),
     min: L('min', 'min', '分'),
