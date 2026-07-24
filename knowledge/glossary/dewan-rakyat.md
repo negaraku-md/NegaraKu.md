@@ -10,11 +10,11 @@ tier: "S"
 mode: "practical"
 contentType: "glossary"
 
-answer: "Dewan Rakyat ialah salah satu daripada dua Majlis Parlimen Malaysia dan satu-satunya yang keseluruhan ahlinya dipilih melalui pilihan raya. Perkara 46 Perlembagaan Persekutuan memperuntukkan bahawa Dewan Rakyat terdiri daripada 222 orang ahli dipilih — 209 daripada 13 Negeri dan 13 daripada Wilayah Persekutuan Kuala Lumpur, Labuan dan Putrajaya. Setiap ahli mewakili satu bahagian pilihan raya. Perkara 47 menetapkan kelayakan asas: warganegara yang bermastautin di Persekutuan dan berumur tidak kurang daripada 18 tahun, susulan pindaan oleh Akta A1603. Melainkan dibubarkan terlebih dahulu, Parlimen berterusan selama lima tahun dari tarikh mesyuarat pertamanya dan selepas itu terbubar secara automatik di bawah Perkara 55(3)."
+answer: "Dewan Rakyat ialah salah satu daripada dua Majlis Parlimen Malaysia dan satu-satunya yang keseluruhan ahlinya dipilih melalui pilihan raya. Perkara 46 Perlembagaan Persekutuan memperuntukkan bahawa Dewan Rakyat terdiri daripada 222 orang ahli dipilih — 209 daripada 13 Negeri dan 13 daripada Wilayah Persekutuan Kuala Lumpur, Labuan dan Putrajaya. Setiap ahli mewakili satu bahagian pilihan raya. Perkara 47 menetapkan kelayakan asas: warganegara yang bermastautin di Persekutuan dan berumur tidak kurang daripada 18 tahun, susulan pindaan oleh Akta A1603 yang berkuat kuasa pada 11 September 2019. Melainkan dibubarkan terlebih dahulu, Parlimen berterusan selama lima tahun dari tarikh mesyuarat pertamanya dan selepas itu terbubar secara automatik di bawah Perkara 55(3)."
 keyTakeaways:
   - "Perkara 46: Dewan Rakyat terdiri daripada 222 ahli dipilih — 209 dari Negeri-Negeri dan 13 dari Wilayah Persekutuan"
   - "Perkara 47(b): umur minimum untuk menjadi ahli Dewan Rakyat ialah 18 tahun, hasil pindaan Akta A1603 (berbanding 30 tahun bagi Dewan Negara di bawah Perkara 47(a))"
-  - "Perkara 55(3): Parlimen berterusan lima tahun dari mesyuarat pertamanya, kemudian terbubar; Perkara 55(4) menetapkan pilihan raya umum dalam 60 hari"
+  - "Perkara 55(3): Parlimen berterusan lima tahun dari mesyuarat pertamanya, kemudian terbubar; Perkara 55(4) menetapkan pilihan raya umum dalam 60 hari dan Parlimen dipanggil semula dalam 120 hari"
   - "Perkara 57: Yang di-Pertua boleh dipilih daripada kalangan ahli atau daripada orang yang layak menjadi ahli; dua Timbalan Yang di-Pertua mesti daripada kalangan ahli"
   - "Perkara 67 dan 68: Rang Undang-Undang kewangan tidak boleh dimulakan di Dewan Negara, dan Dewan Negara hanya boleh melengahkan Rang Undang-Undang wang selama sebulan"
 appliesTo: "Pelajar, guru, wartawan, penyelidik dasar dan sesiapa yang perlu memahami struktur perlembagaan Dewan Rakyat — komposisi, kelayakan, tempoh penggal dan kuasa yang diperuntukkan kepadanya."
@@ -22,10 +22,8 @@ appliesTo: "Pelajar, guru, wartawan, penyelidik dasar dan sesiapa yang perlu mem
 seoTitle: "Dewan Rakyat: fungsi, komposisi dan tempoh mengikut Perlembagaan"
 
 verificationNeeded:
-  - "Teks yang dirujuk ialah cetakan semula Perlembagaan Persekutuan sebagaimana pada 15 Oktober 2020. Pindaan yang berkuat kuasa selepas tarikh itu — termasuk Akta Perlembagaan (Pindaan) 2019 [Akta A1603] dan Akta Perlembagaan (Pindaan) (No. 3) 2022 [Akta A1663] yang disenaraikan di Portal Perundangan Persekutuan — tidak terkandung dalam cetakan semula tersebut. Semak teks terkini di lom.agc.gov.my sebelum bergantung pada mana-mana peruntukan."
-  - "Umur minimum 18 tahun dalam Perkara 47(b) berpunca daripada Akta A1603, yang menggantikan 'dua puluh satu tahun' dengan 'lapan belas tahun'. Cetakan semula 2020 masih memaparkan teks lama; sahkan tarikh kuat kuasa dan teks semasa di lom.agc.gov.my."
-  - "Sejarah kenaikan bilangan kerusi Dewan Rakyat (Parlimen pertama hingga 222) tidak dinyatakan dengan angka dalam artikel ini kerana ia belum disahkan terhadap catatan pindaan rasmi bagi Perkara 46. Jangan tambah angka sejarah tanpa rujukan Akta pindaan yang tepat."
-  - "Teks Bahasa Melayu Perlembagaan Persekutuan ialah terjemahan oleh Jabatan Peguam Negara. Melainkan jika dan sehingga ditetapkan sahih di bawah Perkara 160b, teks Bahasa Inggeris ialah teks yang sahih."
+  - "Teks yang dirujuk ialah cetakan semula Perlembagaan Persekutuan sebagaimana pada 15 Oktober 2020. Pindaan yang berkuat kuasa selepas tarikh itu — termasuk Akta Perlembagaan (Pindaan) (No. 3) 2022 [Akta A1663] yang disenaraikan di Portal Perundangan Persekutuan — tidak terkandung dalam cetakan semula tersebut. Semak teks terkini di lom.agc.gov.my sebelum bergantung pada mana-mana peruntukan."
+  - "Teks Bahasa Melayu Perlembagaan Persekutuan ialah terjemahan oleh Jabatan Peguam Negara. Melainkan jika dan sehingga ditetapkan sahih di bawah Perkara 160B, teks Bahasa Inggeris ialah teks yang sahih."
   - "Bilangan kerusi mengikut Negeri dalam Perkara 46(2) boleh berubah melalui pindaan Perlembagaan berikutan kajian semula persempadanan; sahkan terhadap cetakan semula terkini."
 
 lang: "ms"
@@ -35,7 +33,7 @@ translationStatus: "master"
 status: "draft"
 aiAssisted: true
 reviewer: null
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: "2026-07-24"
@@ -46,39 +44,43 @@ revisions:
     change: "Audit sumber: angka sejarah bilangan kerusi (Parlimen pertama, kenaikan berperingkat) dibuang kerana tiada sumber rasmi dalam frontmatter; Akta A1603 ditambah sebagai sumber bagi umur 18 tahun dalam Perkara 47(b); pembetulan rujukan Perkara 59 (sumpah, bukan mengambil kerusi) dan Perkara 48(3)."
     reason: "Setiap angka mesti boleh dijejaki kepada sumber rasmi yang disenaraikan."
     reviewer: null
+  - version: "0.3"
+    date: "2026-07-24"
+    change: "Pengesahan penuh terhadap teks Cetakan Semula 2020 (versi BM dan EN) di lom.agc.gov.my. Pembetulan: cetakan semula itu SUDAH memuatkan Akta A1603 — Perkara 47(b) berbunyi 'lapan belas tahun' (A1603 berkuat kuasa 11-09-2019, sebelum tarikh cetakan). Sejarah bilangan kerusi ditambah semula dengan sandaran catatan pindaan rasmi (Hari Merdeka: 100 ahli, Dewan pertama 104; Akta A1260 berkuat kuasa 19-01-2006: 219 kepada 222). Pautan silang diselaraskan ke format /en/ dan senarai sumber dikemas kini kepada URL yang disahkan."
+    reason: "Angka dan dakwaan mesti sepadan dengan teks rasmi, bukan andaian tentang teks rasmi."
+    reviewer: null
 sensitivity: "constitution"
 
 updated: 2026-07-24
 sources:
-  - title: "Perlembagaan Persekutuan (Cetakan Semula sebagaimana pada 15 Oktober 2020) — Perkara 43, 46, 47, 48, 52, 54, 55, 57, 59, 62, 67, 68"
-    url: "https://bhess.jpm.gov.my/wp-content/uploads/2024/06/Perlembagaan-Persekutuan-Cetakan-Semula-2020-1.pdf"
-    publisher: "Jabatan Peguam Negara"
+  - title: "Perlembagaan Persekutuan (Cetakan Semula sebagaimana pada 15 Oktober 2020) — Perkara 43, 46, 47, 48, 52, 54, 55, 57, 59, 62, 67, 68 dan catatan pindaan"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/MY/Perlembagaan%20Persekutuan%20(Cetakan%20Semula%202020).pdf"
+    publisher: "Jabatan Peguam Negara Malaysia"
     date: "2020-10-15"
   - title: "Federal Constitution (Reprint as at 15 October 2020)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
-    publisher: "Jabatan Peguam Negara"
+    publisher: "Jabatan Peguam Negara Malaysia"
     date: "2020-10-15"
+  - title: "Portal Perundangan Persekutuan — Perlembagaan Persekutuan"
+    url: "https://lom.agc.gov.my/federal-constitution.php"
+    publisher: "Jabatan Peguam Negara Malaysia"
   - title: "Maklumat Umum Dewan Rakyat"
     url: "https://www.parlimen.gov.my/maklumat-umum.html?uweb=dr"
     publisher: "Parlimen Malaysia"
-  - title: "Glosari Parlimen — Dewan Rakyat, Ahli Parlimen, Penggal, Prorog"
-    url: "https://www.parlimen.gov.my/glosari1.html?lang=bm"
-    publisher: "Parlimen Malaysia"
+  - title: "Akta A1603 — Akta Perlembagaan (Pindaan) 2019 (pindaan Perkara 47(b): 'dua puluh satu tahun' kepada 'lapan belas tahun', berkuat kuasa 11-09-2019)"
+    url: "https://lom.agc.gov.my/act-detail.php?act=A1603&lang=BM"
+    publisher: "Jabatan Peguam Negara Malaysia"
   - title: "Akta A1663 — Akta Perlembagaan (Pindaan) (No. 3) 2022"
     url: "https://lom.agc.gov.my/act-detail.php?act=A1663&lang=BM"
-    publisher: "Jabatan Peguam Negara"
-  - title: "Akta A1603 — Akta Perlembagaan (Pindaan) 2019 (pindaan Perkara 47(b): 'dua puluh satu tahun' kepada 'lapan belas tahun')"
-    url: "https://lom.agc.gov.my/act-detail.php?act=A1603&lang=BM"
-    publisher: "Jabatan Peguam Negara"
-    date: "2019-09-10"
+    publisher: "Jabatan Peguam Negara Malaysia"
 
 entity: "Dewan Rakyat"
 relations:
   - { rel: "part-of", to: "parliament" }
-  - { rel: "related-to", to: "federal-constitution" }
-  - { rel: "related-to", to: "akta" }
-  - { rel: "related-to", to: "warta-kerajaan" }
-related: ["parliament", "federal-constitution", "akta", "warta-kerajaan"]
+  - { rel: "compares-with", to: "dewan-negara" }
+  - { rel: "explained-in", to: "federal-constitution" }
+  - { rel: "related-to", to: "yang-di-pertuan-agong" }
+related: ["parliament", "dewan-negara", "federal-constitution", "how-a-bill-becomes-law", "yang-di-pertuan-agong"]
 keywords: ["Dewan Rakyat", "Ahli Parlimen", "Perkara 46", "Perkara 55", "222 kerusi", "Yang di-Pertua Dewan Rakyat", "penggal Parlimen", "Rang Undang-Undang wang"]
 ---
 
@@ -122,15 +124,19 @@ Negeri-Negeri** dan **13 ahli dari Wilayah-Wilayah Persekutuan**.
 | Pahang | 14 | Terengganu | 8 |
 | Pulau Pinang | 13 | | |
 
-Bagi Wilayah Persekutuan, Perkara 46(2)(b) memperuntukkan **11 kerusi bagi Kuala
-Lumpur, satu bagi Labuan dan satu bagi Putrajaya**.
+Bagi [Wilayah Persekutuan](/en/glossary/wilayah-persekutuan), Perkara 46(2)(b)
+memperuntukkan **11 kerusi bagi Kuala Lumpur, satu bagi Labuan dan satu bagi
+Putrajaya**.
 
-Angka-angka ini bukan warisan sejak Merdeka. Dewan Rakyat yang pertama jauh lebih
-kecil daripada yang ada hari ini, dan bilangan kerusi telah dinaikkan beberapa
-kali sejak itu. Setiap kenaikan berlaku melalui **pindaan Perlembagaan** berikutan
-kajian semula persempadanan — bukan melalui keputusan pentadbiran. Senarai Akta
-pindaan bagi Perkara 46 boleh disemak pada catatan cetakan semula Perlembagaan dan
-di Portal Perundangan Persekutuan.
+Angka-angka ini bukan warisan sejak Merdeka. Catatan pindaan yang dicetak pada
+Perkara 46 dalam cetakan semula rasmi menunjukkan bahawa pada Hari Merdeka,
+Perkara itu memperuntukkan **seratus orang ahli dipilih** — kecuali Dewan Rakyat
+yang pertama, yang terdiri daripada **104 orang**. Jumlah hari ini pula datang
+daripada **Akta A1260**, berkuat kuasa 19 Januari 2006, yang menggantikan
+perkataan *"dua ratus sembilan belas"* dengan *"dua ratus dua puluh dua"* —
+kenaikan tiga kerusi, kesemuanya bagi Sarawak (28 kepada 31). Setiap perubahan
+di antara dua titik itu juga berlaku melalui **pindaan Perlembagaan** berikutan
+kajian semula persempadanan, bukan melalui keputusan pentadbiran.
 
 ## Siapa yang layak menjadi ahli
 
@@ -139,22 +145,23 @@ bermastautin di Persekutuan** layak menjadi ahli Dewan Rakyat jika berumur tidak
 kurang daripada **18 tahun** — melainkan dia hilang kelayakan di bawah
 Perlembagaan atau undang-undang yang dibuat menurut Perkara 48.
 
-Angka 18 itu baharu. Akta A1603 (Akta Perlembagaan (Pindaan) 2019) menggantikan
-perkataan *"dua puluh satu tahun"* dengan *"lapan belas tahun"* dalam
-Perkara 47(b). Cetakan semula 15 Oktober 2020 masih memaparkan teks lama, jadi
-mana-mana salinan Perlembagaan yang lebih awal daripada pindaan itu akan
-menunjukkan angka yang berbeza.
+Angka 18 itu baharu. **Akta A1603** (Akta Perlembagaan (Pindaan) 2019), yang
+berkuat kuasa pada 11 September 2019, menggantikan perkataan *"dua puluh satu
+tahun"* dengan *"lapan belas tahun"* dalam Perkara 47(b). Cetakan semula
+15 Oktober 2020 sudah memuatkan pindaan ini — mana-mana salinan Perlembagaan
+sebelum tarikh kuat kuasa itu akan menunjukkan angka lama.
 
-Bandingkan dengan Dewan Negara: Perkara 47(a) menetapkan umur minimum 30 tahun di
-sana. Perbezaan umur itu adalah satu-satunya perbezaan kelayakan asas antara
-kedua-dua Majlis dalam Perkara 47.
+Bandingkan dengan [Dewan Negara](/en/glossary/dewan-negara): Perkara 47(a)
+menetapkan umur minimum 30 tahun di sana. Perbezaan umur itu adalah
+satu-satunya perbezaan kelayakan asas antara kedua-dua Majlis dalam Perkara 47.
 
 Selepas dipilih, Perkara 59(1) mewajibkan setiap ahli **mengangkat dan
 menandatangani sumpah** mengikut bentuk dalam Jadual Keenam sebelum mengambil
 kerusinya. Seorang ahli boleh mengambil bahagian dalam pemilihan Yang di-Pertua
-sebelum bersumpah, tetapi jika sumpah itu tidak diangkat dalam tempoh enam bulan
-dari mesyuarat pertama Dewan selepas pemilihannya — atau tempoh lebih panjang yang
-dibenarkan Dewan — kerusi itu menjadi kosong.
+sebelum bersumpah, tetapi Perkara 59(2) menetapkan: jika ahli itu tidak
+mengambil kerusinya dalam tempoh enam bulan dari tarikh Dewan mula bersidang
+selepas pemilihannya — atau tempoh lebih panjang yang dibenarkan Dewan —
+kerusinya menjadi kosong.
 
 ## Kehilangan kelayakan
 
@@ -172,10 +179,11 @@ mana-mana satu Majlis Parlimen:
   membuat akuan taat setia kepada negara luar.
 
 Kehilangan kelayakan di bawah dua sebab yang berkaitan penyata perbelanjaan dan
-sabitan boleh dibatalkan oleh Yang di-Pertuan Agong; jika tidak, ia terhenti
-selepas **lima tahun** (Perkara 48(3)). Perkara 48(4) pula menangguhkan kuat
-kuasa kehilangan kelayakan akibat sabitan selama 14 hari, dan lebih lama lagi
-jika rayuan atau petisyen pengampunan difailkan.
+sabitan boleh dibatalkan oleh
+[Yang di-Pertuan Agong](/en/glossary/yang-di-pertuan-agong); jika tidak, ia
+terhenti selepas **lima tahun** (Perkara 48(3)). Perkara 48(4) pula menangguhkan
+kuat kuasa kehilangan kelayakan akibat sabitan selama 14 hari, dan lebih lama
+lagi jika rayuan atau petisyen pengampunan difailkan.
 
 Perkara 48(6) menambah satu peruntukan khusus Dewan Rakyat: seseorang yang
 **melepaskan keahliannya** hilang kelayakan menjadi ahli Dewan Rakyat selama
@@ -213,7 +221,7 @@ Yang di-Pertua boleh dipilih daripada kalangan ahli Dewan Rakyat **atau**
 daripada seseorang yang layak dipilih menjadi ahli. Dua Timbalan Yang di-Pertua
 pula mesti daripada kalangan ahli.
 
-Jika seseorang yang bukan ahli dipilih sebagai Yang di-Pertua, Perkara 57(1a)
+Jika seseorang yang bukan ahli dipilih sebagai Yang di-Pertua, Perkara 57(1A)
 menjadikannya ahli Dewan Rakyat **sebagai tambahan** kepada 222 ahli dipilih —
 tetapi dengan syarat nyata bahawa dia tidak berhak mengundi atas apa-apa perkara
 di hadapan Dewan.
@@ -228,7 +236,8 @@ perlu untuk mengelakkan undi sama banyak.
 ## Kuasa yang khusus pada Dewan Rakyat
 
 Tiga peruntukan memberikan Dewan Rakyat kedudukan yang berbeza daripada Dewan
-Negara dalam proses perundangan dan pentadbiran.
+Negara dalam [proses perundangan](/en/law/how-a-bill-becomes-law) dan
+pentadbiran.
 
 **Rang Undang-Undang kewangan.** Perkara 67(1) memperuntukkan bahawa Rang
 Undang-Undang yang mengenakan cukai, membebankan Kumpulan Wang Disatukan atau
@@ -260,19 +269,21 @@ Parlimen.
   Perkara 54(1) menyekat pengisian kekosongan luar jangka pada penghujung
   penggal, kecuali dalam keadaan yang dinyatakan.
 - **Menganggap Yang di-Pertua semestinya seorang Ahli Parlimen.** Perkara 57(1)
-  membenarkan orang yang bukan ahli dipilih, tertakluk pada Perkara 57(1a).
-- **Merujuk cetakan semula lama sebagai teks semasa.** Cetakan semula 15 Oktober
-  2020 tidak mengandungi pindaan yang berkuat kuasa selepasnya; Portal Perundangan
-  Persekutuan menyenaraikan pindaan seperti Akta A1603 (umur 18 tahun dalam
-  Perkara 47) dan Akta A1663.
+  membenarkan orang yang bukan ahli dipilih, tertakluk pada Perkara 57(1A).
+- **Merujuk cetakan lama sebagai teks semasa.** Cetakan semula 15 Oktober 2020
+  memuatkan pindaan yang berkuat kuasa sehingga tarikh itu — termasuk umur
+  18 tahun daripada Akta A1603 — tetapi tidak pindaan yang datang kemudian,
+  seperti Akta A1663 (2022). Teks terkini sentiasa di Portal Perundangan
+  Persekutuan.
 
 ## Istilah berkaitan
 
-- [Parlimen Malaysia](/government/parliament)
-- [Perlembagaan Persekutuan](/law/federal-constitution)
-- [Akta](/glossary/akta)
-- [Warta Kerajaan](/glossary/warta-kerajaan)
-- [Wilayah Persekutuan](/glossary/wilayah-persekutuan)
+- [Parlimen Malaysia](/en/government/parliament)
+- [Dewan Negara](/en/glossary/dewan-negara)
+- [Perlembagaan Persekutuan](/en/law/federal-constitution)
+- [Bagaimana rang undang-undang menjadi undang-undang](/en/law/how-a-bill-becomes-law)
+- [Yang di-Pertuan Agong](/en/glossary/yang-di-pertuan-agong)
+- [Wilayah Persekutuan](/en/glossary/wilayah-persekutuan)
 
 ## What's next
 
@@ -281,3 +292,16 @@ tarikh pembubaran, atau siapa yang boleh menjadi Yang di-Pertua — cari nombor
 Perkara yang menyokongnya, kemudian sahkan Perkara itu terhadap teks semasa di
 `lom.agc.gov.my`. Perlembagaan telah dipinda berpuluh kali, dan cetakan semula
 yang beredar dalam talian selalunya lebih lama daripada yang disangka.
+
+Untuk melihat bagaimana 222 kerusi ini bekerjasama dengan dewan yang satu lagi
+dalam meluluskan undang-undang, teruskan ke
+[Parlimen Malaysia](/en/government/parliament) dan
+[Dewan Negara](/en/glossary/dewan-negara).
+
+---
+
+*Artikel ini dikelaskan sebagai sensitif (3R+1: perkara perlembagaan) di bawah
+dasar editorial NegaraKu.md. Ia ditulis secara deskriptif semata-mata — meliputi
+struktur dan fungsi sahaja — dan kekal sebagai draf sehingga disemak oleh
+manusia. Setiap angka disahkan pada teks Perlembagaan Persekutuan (Cetakan
+Semula 2020, versi Bahasa Melayu dan Bahasa Inggeris) di lom.agc.gov.my.*

@@ -290,8 +290,9 @@ dengan pecahan berikut (ribu orang):
 | Warganegara lain | 25.9 |
 | Bukan warganegara | 111.0 |
 
-Angka ini ialah anggaran semasa DOSM, bukan kiraan banci. Banci Malaysia 2020
-merekodkan 2,131,427 orang.
+Angka ini ialah anggaran semasa DOSM, bukan kiraan banci. Kiraan Banci
+Malaysia 2020 adalah lebih rendah dan diterbitkan berasingan oleh DOSM; rujuk
+penerbitan banci rasmi untuk angka tepat.
 
 ## Salah faham yang biasa
 

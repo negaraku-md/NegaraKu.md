@@ -24,7 +24,7 @@ appliesTo: "Sesiapa yang ingin memahami secara deskriptif apa yang sebenarnya di
 
 faq:
   - q: "Adakah rakyat mengundi Perdana Menteri secara langsung?"
-    a: "Tidak. Kertas undi pilihan raya umum menamakan calon bagi satu kawasan pilihan raya Dewan Rakyat. Perkara 46(1) Perlembagaan Persekutuan menetapkan Dewan Rakyat terdiri daripada 222 orang ahli yang dipilih. Jawatan Perdana Menteri diisi selepas itu di bawah Perkara 43(2)(a), apabila Yang di-Pertuan Agong melantik seorang ahli Dewan Rakyat yang pada hemat Baginda mungkin mendapat kepercayaan majoriti ahli Dewan itu."
+    a: "Tidak. Kertas undi pilihan raya umum menamakan calon bagi satu kawasan pilihan raya Dewan Rakyat. Perkara 46(1) Perlembagaan Persekutuan menetapkan Dewan Rakyat terdiri daripada dua ratus dua puluh dua orang ahli dipilih. Jawatan Perdana Menteri diisi selepas itu di bawah Perkara 43(2)(a), apabila Yang di-Pertuan Agong melantik seorang ahli Dewan Rakyat yang pada hemat Baginda mungkin mendapat kepercayaan majoriti ahli Dewan itu."
   - q: "Bolehkah seorang senator dilantik menjadi Menteri?"
     a: "Boleh. Perkara 43(2)(b) membenarkan Menteri dilantik daripada kalangan ahli mana-mana satu Majlis Parlimen, iaitu Dewan Rakyat atau Dewan Negara. Namun syarat itu lebih ketat bagi Perdana Menteri: Perkara 43(2)(a) menghendaki beliau seorang ahli Dewan Rakyat secara khusus."
   - q: "Apakah yang berlaku jika Perdana Menteri tidak lagi mendapat kepercayaan majoriti?"
@@ -33,7 +33,7 @@ faq:
     a: "Di Malaysia ia tertulis. Perkara 43(3) Perlembagaan Persekutuan menyatakan secara nyata bahawa Jemaah Menteri hendaklah bertanggungjawab secara bersama kepada Parlimen. Ini menjadikannya kewajipan perlembagaan yang bertulis, bukan semata-mata amalan yang diwarisi."
 
 verificationNeeded:
-  - "Sahkan status semasa mana-mana rang undang-undang pindaan Perlembagaan berkaitan tempoh jawatan Perdana Menteri terhadap rekod rasmi Parlimen dan Warta. Perlembagaan sebagaimana yang dicetak semula pada 15 Oktober 2020 — teks rasmi yang digunakan dalam rencana ini — tidak mengandungi apa-apa had bilangan penggal bagi Perdana Menteri, dan tiada pindaan yang berkuat kuasa dapat disahkan pada tarikh penulisan."
+  - "Sahkan status semasa mana-mana rang undang-undang pindaan Perlembagaan berkaitan tempoh jawatan Perdana Menteri terhadap rekod rasmi Parlimen dan Warta. Cetakan semula rasmi sebagaimana pada 15 Oktober 2020 — teks yang digunakan dalam rencana ini — tidak mengandungi apa-apa had tempoh bagi Perdana Menteri, dan tiada pindaan yang berkuat kuasa dapat disahkan di sumber rasmi pada tarikh penulisan."
   - "Sahkan jumlah keahlian Jemaah Menteri dan senarai kementerian semasa terhadap penerbitan rasmi Jabatan Perdana Menteri — Perlembagaan tidak menetapkan bilangan Menteri."
 
 lang: "ms"
@@ -47,32 +47,30 @@ version: "0.1"
 revisions:
   - version: "0.1"
     date: "2026-07-24"
-    change: "Draf awal. Setiap peruntukan yang dinyatakan — Perkara 38(3), 39, 40, 43, 43A, 43B, 43C, 46(1), 55, 61, 62(3) dan 159(3) — disahkan perkataan demi perkataan terhadap teks Bahasa Malaysia dalam cetakan semula rasmi Perlembagaan Persekutuan setakat 15 Oktober 2020 yang diterbitkan oleh Jabatan Peguam Negara. Perkara yang tidak dapat disahkan diletakkan dalam verificationNeeded dan tidak diterbitkan."
+    change: "Draf awal. Setiap peruntukan yang dinyatakan — Perkara 38(3), 39, 40, 43, 43A, 43B, 43C, 46(1), 55, 61, 62(3) dan 159(3) — disahkan perkataan demi perkataan terhadap teks Bahasa Malaysia dalam cetakan semula rasmi Perlembagaan Persekutuan sebagaimana pada 15 Oktober 2020, diterbitkan oleh Pesuruhjaya Penyemak Undang-Undang di portal Jabatan Peguam Negara. Perkara yang tidak dapat disahkan diletakkan dalam verificationNeeded dan tidak diterbitkan."
     reviewer: null
 
 updated: 2026-07-24
 sources:
-  - title: "Perlembagaan Persekutuan (Cetakan Semula setakat 15 Oktober 2020)"
-    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
+  - title: "Perlembagaan Persekutuan (Cetakan Semula — sebagaimana pada 15 Oktober 2020)"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/MY/Perlembagaan%20Persekutuan%20(Cetakan%20Semula%202020).pdf"
     publisher: "Pesuruhjaya Penyemak Undang-Undang, Malaysia / Jabatan Peguam Negara"
     date: "2020"
-  - title: "Laws of Malaysia — portal rasmi undang-undang Malaysia"
-    url: "https://lom.agc.gov.my/"
+  - title: "Laws of Malaysia — portal rasmi perundangan persekutuan (Federal Constitution)"
+    url: "https://lom.agc.gov.my/federal-constitution.php"
     publisher: "Jabatan Peguam Negara Malaysia"
   - title: "Portal Rasmi Parlimen Malaysia"
-    url: "https://www.parlimen.gov.my/index.php?lang=en"
-    publisher: "Parlimen Malaysia"
-  - title: "Senarai Ahli — Dewan Rakyat"
-    url: "https://www.parlimen.gov.my/ahli-dewan.html?uweb=dr&lang=en"
+    url: "https://www.parlimen.gov.my/"
     publisher: "Parlimen Malaysia"
 
 entity: "Jemaah Menteri Malaysia"
 relations:
   - { rel: "part-of", to: "malaysia" }
-  - { rel: "related-to", to: "federal-constitution" }
-  - { rel: "related-to", to: "parliament" }
   - { rel: "explained-in", to: "federal-constitution" }
-related: ["federal-constitution", "parliament", "macc-sprm"]
+  - { rel: "related-to", to: "parliament" }
+  - { rel: "related-to", to: "yang-di-pertuan-agong" }
+  - { rel: "related-to", to: "dewan-rakyat" }
+related: ["federal-constitution", "parliament", "dewan-rakyat", "dewan-negara", "yang-di-pertuan-agong"]
 keywords: ["Jemaah Menteri", "Kabinet Malaysia", "Perdana Menteri Malaysia", "Perkara 43 Perlembagaan Persekutuan", "kepercayaan majoriti Dewan Rakyat", "tanggungjawab bersama", "Yang di-Pertuan Agong", "Perkara 40(2)"]
 ---
 
@@ -94,7 +92,7 @@ kerusi.
 | Siapa melantik Menteri lain | Yang di-Pertuan Agong atas nasihat Perdana Menteri, Perkara 43(2)(b) |
 | Dari mana Menteri diambil | Ahli mana-mana satu Majlis Parlimen — Dewan Rakyat atau Dewan Negara |
 | Tanggungjawab | Secara bersama kepada Parlimen, Perkara 43(3) |
-| Keahlian Dewan Rakyat | 222 ahli yang dipilih, Perkara 46(1) |
+| Keahlian Dewan Rakyat | Dua ratus dua puluh dua orang ahli dipilih, Perkara 46(1) |
 | Sumpah | Sumpah jawatan, taat setia dan simpan rahsia dalam Jadual Keenam, Perkara 43(6) |
 | Ambang pindaan | Dua pertiga jumlah bilangan ahli setiap Dewan, Perkara 159(3) |
 
@@ -102,7 +100,8 @@ kerusi.
 
 Perkara 39 meletakkan hak kuasa eksekutif Persekutuan pada Yang di-Pertuan Agong. Kuasa
 itu boleh dijalankan oleh Baginda sendiri, atau oleh Jemaah Menteri, atau oleh mana-mana
-Menteri yang diberi kuasa oleh Jemaah Menteri.
+Menteri yang diberi kuasa oleh Jemaah Menteri — dan Parlimen boleh, melalui undang-undang,
+memberikan fungsi eksekutif kepada orang lain.
 
 Perkara 43(1) kemudian menghendaki Yang di-Pertuan Agong melantik suatu Jemaah Menteri
 **untuk menasihatinya dalam penjalanan fungsinya**. Itulah rumusan yang digunakan oleh
@@ -112,12 +111,13 @@ eksekutif.
 Perkara 40(1) melengkapkan gelung itu. Pada menjalankan fungsinya di bawah Perlembagaan
 atau undang-undang persekutuan, Yang di-Pertuan Agong hendaklah bertindak mengikut
 nasihat Jemaah Menteri atau nasihat seseorang Menteri yang bertindak di bawah kuasa am
-Jemaah Menteri, kecuali sebagaimana yang diperuntukkan sebaliknya oleh Perlembagaan.
-Perkara yang sama memberi Baginda hak, atas permintaannya, kepada apa-apa maklumat
-mengenai kerajaan Persekutuan yang boleh didapati oleh Jemaah Menteri.
+Jemaah Menteri, kecuali sebagaimana yang diperuntukkan selainnya oleh Perlembagaan.
+Perkara yang sama memberi Baginda hak, atas permintaannya, untuk mendapat apa-apa
+maklumat berkenaan dengan pemerintahan Persekutuan yang boleh didapati oleh Jemaah
+Menteri.
 
 Perkara 40(1A), yang dimasukkan oleh Akta A885 dan berkuat kuasa mulai 24 Jun 1994,
-menyatakannya dengan lebih tegas: apabila Yang di-Pertuan Agong hendaklah bertindak
+menyatakannya dengan lebih tegas: apabila Yang di-Pertuan Agong dikehendaki bertindak
 mengikut nasihat, atas nasihat, atau selepas menimbangkan nasihat, Baginda **hendaklah
 menerima dan bertindak mengikut nasihat itu**.
 
@@ -140,8 +140,9 @@ melalui penaturalisasian, atau melalui pendaftaran di bawah Perkara 17, tidak bo
 dilantik menjadi Perdana Menteri. Catatan rasmi pada cetakan semula merekodkan bahawa
 Perkara 17 itu sendiri telah dimansuhkan oleh Akta 14/1962 mulai 1 Julai 1963.
 
-Perkara 46(1) menetapkan Dewan Rakyat terdiri daripada 222 orang ahli yang dipilih.
-Majoriti bagi sebuah dewan seramai 222 orang bermakna sekurang-kurangnya 112 orang ahli.
+Perkara 46(1) menetapkan [Dewan Rakyat](/en/government/dewan-rakyat) terdiri daripada
+dua ratus dua puluh dua orang ahli dipilih. Majoriti bagi sebuah dewan seramai 222 orang
+bermakna sekurang-kurangnya 112 orang ahli.
 
 ### Apa yang Perkara 43 tidak nyatakan
 
@@ -164,7 +165,7 @@ ahli mana-mana satu Majlis Parlimen.
 
 Perhatikan dua perbezaan daripada pelantikan Perdana Menteri. Pelantikan Menteri lain
 dibuat **atas nasihat**, bukan menurut budi bicara. Dan kolam calonnya lebih luas: ahli
-Dewan Negara juga layak.
+[Dewan Negara](/en/government/dewan-negara) juga layak.
 
 Perkara 43(2) mengandungi satu proviso bagi keadaan Parlimen terbubar. Jika sesuatu
 pelantikan dibuat semasa Parlimen terbubar, seseorang yang menjadi ahli Dewan Rakyat yang
@@ -174,9 +175,9 @@ ialah ahli Dewan Rakyat yang baharu itu; dan dalam apa-apa hal lain, beliau iala
 ada Dewan Rakyat atau Dewan Negara.
 
 Setelah dilantik, Perkara 61(1) memberi setiap anggota Jemaah Menteri hak mengambil
-bahagian dalam prosiding Dewan yang satu lagi, sebagai tambahan kepada haknya sebagai ahli
-Dewannya sendiri. Perkara 61(3) menjelaskan hadnya: hak itu tidak membenarkan sesiapa
-mengundi dalam Dewan yang dia bukan ahlinya.
+bahagian dalam prosiding Majlis Parlimen yang satu lagi, sebagai tambahan kepada haknya
+sebagai ahli Majlisnya sendiri. Perkara 61(3) menjelaskan hadnya: hak itu tidak
+membenarkan sesiapa yang bukan ahli sesuatu Majlis mengundi di dalam Majlis itu.
 
 ## Tanggungjawab bersama bukan sekadar konvensyen
 
@@ -192,9 +193,10 @@ Jemaah Menteri kepada kedudukan seorang Perdana Menteri — bukan kepada prestas
 individu Menteri.
 
 Perkara 38(3) menunjukkan tanggungjawab bersama itu daripada sudut yang berbeza. Apabila
-Majlis Raja-Raja berbincang tentang perkara dasar negara, Yang di-Pertuan Agong hendaklah
-disertai oleh Perdana Menteri, dan perbincangan itu termasuk antara fungsi yang dijalankan
-oleh Yang di-Pertuan Agong mengikut nasihat Jemaah Menteri.
+[Majlis Raja-Raja](/en/government/majlis-raja-raja) menimbang teliti perkara mengenai
+dasar negara, Yang di-Pertuan Agong hendaklah disertai oleh Perdana Menteri, dan
+penimbangtelitian itu adalah antara fungsi yang dijalankan oleh Yang di-Pertuan Agong
+mengikut nasihat Jemaah Menteri.
 
 ## Apabila kepercayaan majoriti tidak lagi ada
 
@@ -215,11 +217,12 @@ di-Pertuan Agong **menurut budi bicara Baginda**:
 Perkara 40(2) menutup dengan frasa "dan dalam apa-apa hal lain yang disebut dalam
 Perlembagaan ini", jadi senarai tersebut bukan senarai tertutup.
 
-Jika pembubaran berlaku, Perkara 55 mengambil alih pemasaan. Parlimen berterusan selama
-lima tahun dari tarikh mesyuarat pertamanya melainkan dibubarkan lebih awal. Apabila
-Parlimen dibubarkan, pilihan raya umum hendaklah diadakan dalam tempoh enam puluh hari
-dari tarikh pembubaran, dan Parlimen hendaklah dipanggil bermesyuarat pada tarikh tidak
-lewat daripada seratus dua puluh hari dari tarikh itu.
+Jika pembubaran berlaku, Perkara 55 mengambil alih pemasaan. Melainkan jika dibubarkan
+terlebih dahulu, Parlimen terus berjalan selama lima tahun dari tarikh mesyuarat
+pertamanya dan selepas itu terbubar. Apabila Parlimen bubar, suatu pilihan raya umum
+hendaklah diadakan dalam tempoh enam puluh hari dari tarikh ia bubar, dan Parlimen
+hendaklah dipanggil bermesyuarat pada suatu tarikh yang tidak lewat daripada satu ratus
+dua puluh hari dari tarikh itu.
 
 ## Tempoh jawatan, sumpah dan saraan
 
@@ -298,13 +301,14 @@ dalam teks Perlembagaan.
 ## Mengubah mana-mana peruntukan ini
 
 Peruntukan dalam Perkara 43 tidak boleh dipinda melalui undang-undang biasa. Perkara
-62(3) membenarkan setiap Dewan mengambil keputusan dengan majoriti mudah ahli yang
-mengundi, tetapi peruntukan itu sendiri tertakluk kepada Perkara 159(3).
+62(3) membenarkan setiap Majlis Parlimen membuat keputusannya mengikut majoriti biasa
+ahli-ahli yang mengundi, tetapi fasal itu sendiri dinyatakan tertakluk kepada, antara
+lain, Perkara 159(3).
 
 Perkara 159(3) menghendaki sesuatu rang undang-undang bagi membuat apa-apa pindaan kepada
-Perlembagaan tidak diluluskan dalam mana-mana satu Dewan Parlimen melainkan ia telah
-disokong pada Bacaan Kedua dan Bacaan Ketiga oleh undi **tidak kurang daripada dua pertiga
-jumlah bilangan ahli Dewan itu**.
+Perlembagaan tidak diluluskan di dalam mana-mana satu Majlis Parlimen melainkan jika ia
+telah disokong pada Bacaan Kali Kedua dan Kali Ketiga dengan undi sebanyak **tidak kurang
+daripada dua pertiga daripada jumlah bilangan ahli Majlis Parlimen itu**.
 
 Ambang itu dikira daripada jumlah keahlian, bukan daripada bilangan yang hadir mengundi.
 
@@ -312,21 +316,25 @@ Ambang itu dikira daripada jumlah keahlian, bukan daripada bilangan yang hadir m
 
 - Baca [Perlembagaan Persekutuan](/en/law/federal-constitution) untuk struktur penuh
   dokumen yang mengandungi Perkara 39 hingga 43C.
-- Baca [Parlimen Malaysia](/en/government/parliament) untuk memahami Dewan yang kepadanya
-  Jemaah Menteri bertanggungjawab secara bersama, dan bagaimana rang undang-undang menjadi
-  Akta.
-- Bagi contoh pelantikan berkanun yang dibuat atas nasihat Perdana Menteri di luar Jemaah
-  Menteri, lihat [SPRM](/en/government/macc-sprm), yang Ketua Pesuruhjayanya dilantik oleh
-  Yang di-Pertuan Agong atas nasihat Perdana Menteri di bawah seksyen 5 Akta 694.
+- Baca [Yang di-Pertuan Agong](/en/government/yang-di-pertuan-agong) untuk sisi satu lagi
+  hubungan ini — fungsi mengikut nasihat berbanding fungsi budi bicara di bawah Perkara 40.
+- Baca [Dewan Rakyat](/en/government/dewan-rakyat) dan
+  [Dewan Negara](/en/government/dewan-negara) untuk memahami dua Majlis yang daripadanya
+  Jemaah Menteri dibentuk, dan [Parlimen Malaysia](/en/government/parliament) untuk
+  institusi yang kepadanya Jemaah Menteri bertanggungjawab secara bersama.
+- Baca [bagaimana rang undang-undang menjadi undang-undang](/en/law/how-a-bill-becomes-law)
+  untuk laluan perundangan yang dipandu oleh eksekutif melalui kedua-dua Majlis.
 - Untuk teks berkuat kuasa, rujuk cetakan semula Perlembagaan Persekutuan di portal
-  Laws of Malaysia, `lom.agc.gov.my`, dan semak sama ada cetakan semula yang lebih baharu
-  telah diterbitkan.
+  Laws of Malaysia, `lom.agc.gov.my`. Perhatikan nota pada muka hadapan cetakan semula
+  Bahasa Malaysia itu sendiri: teks itu terjemahan oleh Jabatan Peguam Negara, dan
+  melainkan jika dan sehingga ditetapkan sahih di bawah Perkara 160B, ia bukan
+  perundangan. Semak juga sama ada cetakan semula yang lebih baharu telah diterbitkan.
 
 ---
 
 *Rencana ini dikelaskan sebagai sensitif (3R+1: perkara perlembagaan) di bawah dasar
 editorial NegaraKu.md. Ia ditulis untuk bersifat deskriptif semata-mata — meliputi teks
 dan struktur perlembagaan sahaja, tanpa merujuk mana-mana individu, parti atau kerajaan —
-dan disimpan sebagai draf sementara menunggu kelulusan manusia sebelum penerbitan. Perkara
+dan disimpan sebagai draf sementara menunggu semakan manusia sebelum penerbitan. Perkara
 yang tidak dapat disahkan terhadap sumber rasmi disenaraikan dalam `verificationNeeded`
-dan bukan diterbitkan.*
+dan tidak diterbitkan.*

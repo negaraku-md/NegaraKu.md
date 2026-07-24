@@ -29,7 +29,7 @@ faq:
   - q: "Who does MACC report to?"
     a: "Under section 11(2) of Act 694 the Chief Commissioner makes an annual report on the Commission's activities to the Special Committee on Corruption. The Special Committee in turn reports annually to the Prime Minister, who under section 14(5) must lay a copy of that report before each House of Parliament."
   - q: "Does MACC have jurisdiction over private companies?"
-    a: "Yes. Section 17A, inserted by Act A1567 and in force from 1 June 2020, makes a commercial organisation liable where a person associated with it corruptly gives or offers gratification to obtain or retain business. Separately, the Act's definition of 'public body' in section 3 reaches companies and subsidiaries in which a public body has controlling power or interest."
+    a: "Yes. Section 17A, introduced by the 2018 amendment (Act A1567) and in force from 1 June 2020, makes a commercial organisation liable where a person associated with it corruptly gives or offers gratification to obtain or retain business. Separately, the Act's definition of 'public body' in section 3 reaches companies and subsidiaries in which a public body has controlling power or interest."
 
 lang: "en"
 masterLanguage: "en"
@@ -42,17 +42,23 @@ version: "0.1"
 revisions:
   - version: "0.1"
     date: "2026-07-24"
-    change: "Initial draft. Statutory basis, officer powers and the five-body oversight architecture verified against the AGC reprint of Act 694 as at 1 January 2022 and MACC's own check-and-balance pages."
+    change: "Initial draft. Statutory basis, officer powers and the five-body oversight architecture verified against the Commissioner of Law Revision reprint of Act 694 and MACC's own check-and-balance, panel and section 17A pages."
     reviewer: null
 
 updated: 2026-07-24
 sources:
-  - title: "Act 694 — Malaysian Anti-Corruption Commission Act 2009 (Reprint as at 1 January 2022)"
+  - title: "Act 694 — Malaysian Anti-Corruption Commission Act 2009 (Reprint)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1695068_BI/Act%20694%20(1.1.2022).pdf"
     publisher: "Commissioner of Law Revision, Malaysia / Attorney General's Chambers"
     date: "2022"
   - title: "Check and Balance Mechanism — MACC's five external oversight bodies"
     url: "https://www.sprm.gov.my/index.php?page_id=75&articleid=414&language=en"
+    publisher: "Suruhanjaya Pencegahan Rasuah Malaysia (MACC)"
+  - title: "Anti-Corruption Advisory Board (ACAB)"
+    url: "https://www.sprm.gov.my/index.php?page_id=75&articleid=416&language=en"
+    publisher: "Suruhanjaya Pencegahan Rasuah Malaysia (MACC)"
+  - title: "Special Committee on Corruption"
+    url: "https://www.sprm.gov.my/index.php?page_id=75&articleid=415&language=en"
     publisher: "Suruhanjaya Pencegahan Rasuah Malaysia (MACC)"
   - title: "Panel Penilaian Operasi (Operations Review Panel)"
     url: "https://www.sprm.gov.my/index.php?id=21&page_id=75&articleid=419"
@@ -60,6 +66,10 @@ sources:
   - title: "Panel Perundingan dan Pencegahan Rasuah (Consultation and Corruption Prevention Panel)"
     url: "https://www.sprm.gov.my/index.php?id=21&page_id=75&articleid=418"
     publisher: "Suruhanjaya Pencegahan Rasuah Malaysia (MACC)"
+  - title: "Section 17A Malaysian Anti-Corruption Commission (MACC) Act Enforced On 1st June 2020"
+    url: "https://www.sprm.gov.my/index.php?page_id=103&contentid=669&cat=CN&language=en"
+    publisher: "Suruhanjaya Pencegahan Rasuah Malaysia (MACC)"
+    date: "2020-06-01"
 
 entity: "MACC"
 relations:
@@ -86,7 +96,7 @@ statutorily entitled to look over their shoulder?
 | Commencement | 1 January 2009 |
 | Predecessor | Anti-Corruption Agency, under the Anti-Corruption Act 1997 (repealed by section 73) |
 | Head of agency | Chief Commissioner, appointed under section 5 |
-| Latest amendment in the reprint | Act A1567, in force 1 October 2018, except section 4 (1 June 2020) |
+| Notable amendment | Act A1567 (2018), which added the section 17A corporate liability offence, in force 1 June 2020 |
 | Website | `sprm.gov.my` |
 
 The Act's stated objects, in section 2, are to promote integrity and accountability
@@ -95,27 +105,27 @@ accountable anti-corruption body", and to educate the public about corruption.
 
 ## What its officers are empowered to do
 
-Section 7 sets out seven functions, and they split into two very different halves.
+Section 7 sets out the Commission's functions, and they split into two very different
+halves.
 
 **Enforcement:** receive and consider reports of offences under the Act, and detect
 and investigate suspected offences, attempts and conspiracies.
 
 **Prevention and education:** examine the practices, systems and procedures of public
 bodies to secure their revision where they are conducive to corruption; advise heads
-of public bodies; advise any person on request; educate the public; and enlist public
-support against corruption.
+of public bodies; educate the public; and enlist public support against corruption.
 
-The powers behind the enforcement half are police powers. Under section 10, an officer
-of the Commission has, for the purposes of the Act, all the powers and immunities of a
-police officer appointed under the Police Act 1967 — with an internal rank ladder
-mapping onto police ranks, so that a Superintendent and above holds the powers of an
-ASP and above.
+The powers behind the enforcement half are police powers. Under section 10(1), an
+officer of the Commission has, for the purposes of the Act, all the powers and
+immunities of a police officer appointed under the Police Act 1967 — with an internal
+rank ladder mapping onto police ranks, so that under section 10(2) a Superintendent
+and above holds the powers of an Assistant Superintendent of Police and above.
 
 Part V then adds specific statutory tools: examination of persons, search and seizure,
 seizure of movable and immovable property, orders to financial institutions, surrender
-of travel documents, and — under section 43, on the authority of the Public Prosecutor
-or a Commissioner-rank officer so authorised — interception of postal articles and
-telecommunications.
+of travel documents, and — under section 43, by the Public Prosecutor or a
+Commissioner-rank officer authorised by the Public Prosecutor — interception of postal
+articles and telecommunications.
 
 What MACC does not hold is the charging decision. Section 58 reserves that to the
 Public Prosecutor, and section 59 sends the case to the Sessions Court unless the
@@ -129,11 +139,11 @@ they do not have the same legal footing.
 
 | Body | Basis | Appointed by | Core function |
 | --- | --- | --- | --- |
-| Anti-Corruption Advisory Board (LPPR) | Section 13, Act 694 | Yang di-Pertuan Agong on the PM's advice; at least seven members plus the Chief Commissioner ex-officio | Advise on policy and strategy; scrutinise and endorse the Commission's proposals and resource needs; scrutinise the annual report before it goes to the Special Committee |
-| Special Committee on Corruption (JKMR) | Section 14, Act 694 | Yang di-Pertuan Agong; seven parliamentarians from both Houses, none a member of the administration | Advise the Prime Minister; examine the Commission's annual report and the Advisory Board's comments; seek clarification on both |
-| Complaints Committee (JKA) | Section 15, Act 694 | The Minister; not more than five members | Monitor how the Commission handles complaints of non-criminal misconduct by its own officers; identify weaknesses in work procedures |
-| Operations Review Panel (PPO) | Administrative order | The Prime Minister | Review investigation statistics, cases running beyond 12 months, and closed cases; recommend reinvestigation where the explanation is unsatisfactory |
-| Consultation and Corruption Prevention Panel (PPPR) | Administrative order | The Prime Minister | Advise on inspection, consultation, public education and integrity-strengthening work in both sectors |
+| Anti-Corruption Advisory Board (ACAB) | Section 13, Act 694 | Yang di-Pertuan Agong on the PM's advice; at least seven members plus the Chief Commissioner ex-officio | Advise on policy and strategy; scrutinise and endorse the Commission's proposals and resource needs; scrutinise the annual report before it goes to the Special Committee |
+| Special Committee on Corruption (SCC) | Section 14, Act 694 | Yang di-Pertuan Agong; seven parliamentarians from both Houses, none a member of the administration | Advise the Prime Minister; examine the Commission's annual report and the Advisory Board's comments; seek clarification on both |
+| Complaints Committee (CC) | Section 15, Act 694 | The Minister; not more than five members | Monitor how the Commission handles complaints of non-criminal misconduct by its own officers; identify weaknesses in work procedures |
+| Operations Review Panel (ORP) | Administrative order | The Prime Minister | Review investigation statistics, cases running beyond 12 months and suspects on bail beyond six months, and closed cases; recommend that a case be reviewed where the explanation is unsatisfactory |
+| Consultation and Corruption Prevention Panel (CCPP) | Administrative order | The Prime Minister | Advise on inspection, consultation, public education and integrity-strengthening work in both sectors |
 
 Three points make this architecture more than a list.
 
@@ -149,10 +159,9 @@ overlap.
 
 **Two of the five have no statutory footing.** MACC's own check-and-balance page states
 plainly that the Advisory Board, Special Committee and Complaints Committee are formed
-"through the provision of the law" while the Operations Review Panel and the
-Consultation and Corruption Prevention Panel are established through administrative
-order. That distinction matters for anyone asking what could be changed without
-amending the Act.
+through the provision of law while the Operations Review Panel and the Consultation
+and Corruption Prevention Panel are established through administrative order. That
+distinction matters for anyone asking what could be changed without amending the Act.
 
 ## Terms and turnover
 
@@ -166,19 +175,20 @@ distinction in the professions.
 
 Act 694 is not confined to civil servants. Section 3 defines "public body" broadly
 enough to capture local authorities, statutory authorities, registered societies,
-co-operatives, trade unions and any company or subsidiary in which such a body has
-controlling power or interest — which is why the Act reaches much of the
-[GLC](/en/glossary/glc) landscape.
+co-operatives, trade unions and — under paragraph (k) — any company or subsidiary in
+which such a body has controlling power or interest, which is why the Act reaches much
+of the [GLC](/en/glossary/glc) landscape.
 
-Section 17A, inserted by Act A1567 and in force from 1 June 2020, goes further: a
-commercial organisation itself commits an offence where a person associated with it
-corruptly offers gratification to obtain or retain business. Companies registered with
+Section 17A, introduced by the 2018 amendment and in force from 1 June 2020, goes
+further: a commercial organisation itself commits an offence where a person associated
+with it corruptly gives or offers gratification to obtain or retain business, subject
+to an "adequate procedures" defence. Companies registered with
 [SSM](/en/government/ssm) sit squarely within that provision.
 
 ## What's next
 
-- Read the statute itself in the AGC reprint linked in the sources — the section
-  numbering used above matches that text.
+- Read the statute itself in the Commissioner of Law Revision reprint linked in the
+  sources — the section numbering used above matches that text.
 - For the constitutional backdrop to appointments by the Yang di-Pertuan Agong on the
   Prime Minister's advice, see the [Federal Constitution](/en/law/federal-constitution).
 - For the parliamentary side of the reporting chain, see

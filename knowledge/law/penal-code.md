@@ -41,7 +41,7 @@ version: "0.1"
 revisions:
   - version: "0.1"
     date: "2026-07-24"
-    change: "Initial draft. Structure, chapter list, section-numbering caveats and section 2/4/5/40 wording taken from the AGC reprint of Act 574; amendment scope taken from the text of Act 846."
+    change: "Initial draft. Structure, chapter list, section-numbering caveats and section 2/4/5/40 wording taken from the AGC reprint of Act 574; amendment scope and section 302 wording taken from the text of Act 846; reprint timeline from the AGC principal-Act record."
     reviewer: null
 
 updated: 2026-07-24
@@ -71,8 +71,9 @@ sources:
 entity: "Penal Code"
 relations:
   - { rel: "related-to", to: "federal-constitution" }
+  - { rel: "related-to", to: "court-hierarchy" }
   - { rel: "related-to", to: "macc-sprm" }
-related: ["federal-constitution", "macc-sprm"]
+related: ["federal-constitution", "court-hierarchy", "macc-sprm"]
 keywords: ["Penal Code", "Act 574", "Malaysia criminal law", "Indian Penal Code", "Criminal Procedure Code Act 593", "Act 846"]
 ---
 
@@ -132,8 +133,8 @@ to every offence in the Code. Chapters VI to XXII carry the offence definitions.
 | IX–XI | Offences by and against public servants; contempts of lawful authority; false evidence and offences against public justice |
 | XII–XIII | Coin and Government stamps; weights and measures |
 | XIV–XV | Public health, safety, convenience, decency and morals; religion |
-| XVI | Offences affecting the human body — the largest chapter, from section 299 |
-| XVII | Offences against property, from section 378 |
+| XVI | Offences affecting the human body, from section 299 (culpable homicide) |
+| XVII | Offences against property, from section 378 (theft) |
 | XVIII–XX | Documents, currency and bank notes; criminal breach of contracts of service; marriage |
 | XXI–XXII | Defamation; criminal intimidation, insult and annoyance |
 | XXIII | Attempts, a single section |
@@ -175,7 +176,9 @@ Its closest partner is the **Criminal Procedure Code (Act 593)**, which supplies
 procedure the Code does not: arrest, charge, trial, bail and sentence. The First
 Schedule to the CPC tabulates Penal Code offences section by section, together with
 their punishments — which is why the Abolition of Mandatory Death Penalty Act 2023
-had to amend both the Code and that Schedule to make one change stick.
+had to amend both the Code and that Schedule to make one change stick. Which court
+actually hears a given charge is a question for the
+[court hierarchy](/en/law/court-hierarchy).
 
 Extraterritorial reach is narrow and specific. Section 4 extends the Code beyond
 Malaysia only for **Chapters VI, VIA and VIB** — offences against the State,
@@ -184,14 +187,15 @@ section lists.
 
 Chapter IX still contains the gratification offences by public servants at sections
 161 to 165; the modern anti-corruption enforcement regime is covered separately in
-[MACC](/en/government/macc-sprm). The Code is federal law made by Parliament, within
-the framework set by the [Federal Constitution](/en/law/federal-constitution).
+[MACC](/en/government/macc-sprm). The Code is federal law made by Parliament — see
+[how a bill becomes law](/en/law/how-a-bill-becomes-law) — within the framework set
+by the [Federal Constitution](/en/law/federal-constitution).
 
 ## The 2023 death-penalty amendments
 
 The **Abolition of Mandatory Death Penalty Act 2023 (Act 846)** received Royal Assent
 on 9 June 2023, was gazetted on 16 June 2023, and came into operation on
-**4 July 2023**.
+**4 July 2023** by P.U. (B) 229/2023.
 
 It is a single amending Act touching seven statutes at once — the Penal Code, the
 Firearms (Increased Penalties) Act 1971 (Act 37), the Arms Act 1960 (Act 206), the
@@ -209,10 +213,11 @@ sentenced to death.
 
 ## Reading the right text
 
-The AGC's Act 574 timeline records reprints in February 2018, October 2018, November
-2022 and July 2023, and further amendments in September 2024 and March 2025. Any
-consolidated text dated before 4 July 2023 predates the death-penalty reforms, and
-the widely circulated 1 October 2018 reprint predates them by nearly five years.
+The AGC's Act 574 timeline records reprints as at 1 January 2002, 1 January 2006,
+1 October 2009, 1 October 2018, 30 November 2022 (online) and 4 July 2023, with
+further amendments in August 2023, September 2024 and March 2025. Any consolidated
+text dated before 4 July 2023 predates the death-penalty reforms, and the widely
+circulated 1 October 2018 reprint predates them by nearly five years.
 
 For any live question, check the current version on the AGC's Laws of Malaysia
 portal rather than a cached PDF.

@@ -6,7 +6,7 @@ slug: "portuguese-melaka-1511"
 category: "malaysia"
 subcategory: ["colonial"]
 summary: "Kota Melaka bertahan sepuluh hari sahaja terhadap Portugis, tetapi kota yang sama menahan Belanda selama tujuh bulan seratus tiga puluh tahun kemudian. Beza antara dua angka itu menerangkan hampir keseluruhan peristiwa 1511 — dan menjelaskan ke mana keturunan diraja Melaka berpindah selepasnya."
-tier: "2"
+tier: "S"
 mode: "narrative"
 contentType: "guide"
 answer: "Kota Melaka jatuh kepada angkatan Portugis pimpinan Afonso de Albuquerque pada 24 Ogos 1511, selepas kepungan selama sepuluh hari yang bermula dengan ketibaannya pada 10 Ogos. Kejatuhan yang pantas itu bukan sekadar soal kelemahan politik: kubu pertahanan Melaka ketika itu ialah kota berdinding kayu, sedangkan Portugis datang dengan angkatan laut dan meriam. Portugis kemudian memerintah Melaka selama 130 tahun, dan keturunan diraja Melaka menyambung semula pemerintahan Melayu di Johor Lama pada tahun 1528."
@@ -24,13 +24,17 @@ translationStatus: "master"
 status: "draft"
 aiAssisted: true
 reviewer: null
-version: "0.1"
+version: "0.2"
 revisions:
   - version: "0.1"
     date: "2026-07-24"
     change: "Draf awal. Setiap tarikh, ukuran dan tempoh disahkan pada portal rasmi Kerajaan Negeri Melaka, Arkib Negara Malaysia dan portal rasmi Kerajaan Negeri Johor. Angka armada Portugis 1511 dan laluan perpindahan istana antara 1511 hingga 1528 sengaja tidak disiarkan kerana tidak dapat disahkan pada sumber rasmi."
     reviewer: null
-sensitivity: "none"
+  - version: "0.2"
+    date: "2026-07-24"
+    change: "Audit sumber. Diklasifikasi semula daripada Tier 2 kepada Tier S dengan sensitiviti royalty — artikel ini membincangkan kesinambungan keturunan diraja Melaka ke dalam Kesultanan Johor, mengikut preseden artikel melaka-sultanate. Dibuang dakwaan yang tidak disahkan pada sumber tersenarai: kubu A' Famosa dibina di atas runtuhan masjid dan istana (tiada pada halaman Arkib Negara — diganti dengan fakta yang disahkan: kubu siap di kaki Bukit St. Paul), perpindahan ibu negeri ke Batu Sawar selepas 1587 (tiada pada portal Johor), dan butiran jambatan tarik merentasi sungai."
+    reviewer: null
+sensitivity: "royalty"
 updated: 2026-07-24
 sources:
   - title: "Sejarah Melaka"
@@ -107,7 +111,7 @@ Perhatikan apa yang Albuquerque lakukan sebaik sahaja kota itu jatuh. Menurut Ar
 
 - Tembok batu setinggi 3.6 meter, setebal 2.4 meter
 - Lapan menara pengawas setinggi 18 hingga 24 meter
-- Empat pintu masuk, dengan jambatan tarik merentasi sungai
+- Empat pintu masuk, dengan jambatan tarik
 - 60 pengawal bersenjata di sekeliling perimeter
 - Dibina dengan tenaga 300 hingga 400 orang buruh hamba
 
@@ -130,13 +134,13 @@ Melaka kaya kerana ia terbuka. Kekayaan itu datang daripada menjadi pelabuhan en
 
 > Sebuah pelabuhan yang bergantung pada keterbukaan tidak boleh dibina seperti sebuah kubu. Melaka menguasai Selat itu selama seratus tahun tanpa perlu menjadi kubu — sehingga seseorang datang yang tidak mahu berniaga.
 
-## Kubu Portugis dibina daripada Melaka lama
+## Kubu Portugis berdiri di kaki bukit istana
 
-Butiran ini merangkumkan keseluruhan peralihan itu dalam satu ayat.
+Butiran ini merangkumkan keseluruhan peralihan itu dalam satu gambaran.
 
-A' Famosa tidak dibina di tempat kosong. Menurut Arkib Negara, kubu Portugis itu dibina **di atas runtuhan kota Melaka**, menggunakan bahan-bahan di sekitarnya termasuk runtuhan masjid dan istana.
+Menurut Arkib Negara, istana Kesultanan terletak di atas bukit yang kini dikenali sebagai Bukit St. Paul — dahulunya Bukit Melaka — dan dipercayai merupakan istana yang indah seperti yang digambarkan dalam Sejarah Melayu karangan Tun Seri Lanang.
 
-Istana Kesultanan itu sendiri terletak di atas Bukit Melaka — kini dikenali sebagai Bukit St. Paul — dan digambarkan dalam Sejarah Melayu karangan Tun Seri Lanang sebagai sebuah istana yang indah. Bukit yang sama menjadi teras kubu Portugis.
+Kubu Portugis itu pula, catat Arkib Negara, siap tersergam kukuh **di kaki bukit yang sama**. Bukit yang pernah menjadi kedudukan istana Melayu kini dinaungi tembok batu Eropah.
 
 Dan kubu itu pun akhirnya tidak kekal. Pada 1806, komander British William Farquhar merobohkannya untuk menghalang Belanda menduduki semula, meninggalkan hanya serpihan pintu gerbang dan tembok yang kita lihat hari ini.
 
@@ -163,7 +167,7 @@ Apa yang berlaku selepas itu menunjukkan bahawa pelajaran 1511 telah diambil:
 
 Kali ini kubu itu batu, bukan kayu — dan Portugis memerlukan empat percubaan serta bala bantuan dari Goa untuk menembusinya.
 
-Selepas 1587, ibu negeri berpindah ke Batu Sawar. Portal Kerajaan Negeri Johor mencatatkan ibu negeri Johor berpindah sebanyak kira-kira 20 kali di sepanjang Sungai Johor sebelum akhirnya menetap di Kepulauan Riau. Dinasti keturunan Melaka itu memerintah sehingga tahun 1699, apabila pentadbiran negeri beralih kepada Dinasti Bendahara.
+Selepas 1587, ibu negeri terus berpindah. Portal Kerajaan Negeri Johor mencatatkan ibu negeri Johor berpindah sebanyak 20 kali di sepanjang Sungai Johor sebelum akhirnya menetap di Kepulauan Riau. Dinasti keturunan Melaka itu memerintah sehingga tahun 1699, apabila pentadbiran negeri beralih kepada Dinasti Bendahara.
 
 Ertinya: garis keturunan istana [Kesultanan Melayu Melaka](/en/malaysia/melaka-sultanate) bertahan 188 tahun lagi selepas kota Melaka sendiri hilang.
 

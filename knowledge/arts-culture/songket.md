@@ -50,11 +50,11 @@ sources:
   - title: "Songket — Representative List of the Intangible Cultural Heritage of Humanity"
     url: "https://ich.unesco.org/en/RL/songket-01505"
     publisher: "UNESCO"
-    date: "2021-12-15"
+    date: "2021-12"
   - title: "Decision of the Intergovernmental Committee: 16.COM 8.B.22 — Songket (Malaysia)"
     url: "https://ich.unesco.org/en/decisions/16.COM/8.B.22"
     publisher: "UNESCO"
-    date: "2021-12-15"
+    date: "2021-12"
   - title: "Songket — Warisan Budaya Tidak Ketara"
     url: "https://www.heritage.gov.my/en/vi-songket.html"
     publisher: "Jabatan Warisan Negara"
@@ -114,6 +114,6 @@ Motifnya mengambil bentuk geometri serta unsur alam seperti bunga, burung dan se
 
 ## Apa seterusnya
 
-Songket disenaraikan dalam Senarai Perwakilan Warisan Budaya Tidak Ketara Kemanusiaan UNESCO pada 15 Disember 2021, dan hari ini ia bukan sekadar pakaian istiadat: Jabatan Warisan Negara mencatatkan songket kini digunakan juga pada langsir, alas meja, beg tangan dan barangan kraf.
+Songket disenaraikan dalam Senarai Perwakilan Warisan Budaya Tidak Ketara Kemanusiaan UNESCO pada Disember 2021, dan hari ini ia bukan sekadar pakaian istiadat: Jabatan Warisan Negara mencatatkan songket kini digunakan juga pada langsir, alas meja, beg tangan dan barangan kraf.
 
 Jika anda ingin menilai sehelai songket, mulakan dengan satu soalan yang lebih baik daripada "berapa harganya": berapa banyak permukaan kain ini yang bercorak, dan berapa lama ia mengambil masa untuk ditenun. Rekod rasmi penyenaraian UNESCO dan laman Jabatan Warisan Negara ialah titik permulaan untuk mengesahkan asal usul dan teknik sebelum membeli.

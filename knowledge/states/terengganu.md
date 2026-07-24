@@ -12,7 +12,7 @@ mode: "practical"
 contentType: "place"
 sensitivity: "royalty"
 
-answer: "Terengganu ialah negeri di Pantai Timur Semenanjung Malaysia dengan ibu negeri Kuala Terengganu, diketuai oleh Sultan Terengganu sebagai Ketua Negeri. Penduduknya dianggarkan 1.25 juta orang pada 2025 dan KDNK negerinya RM40.6 bilion (harga malar 2015), iaitu 2.3 peratus daripada KDNK negara. Walaupun negeri ini dikenali sebagai negeri minyak dan gas, pengeluaran petroleum luar pesisir tidak dikira dalam KDNK negeri oleh DOSM — ia dibukukan di bawah kategori 'Supra' yang tidak boleh diagihkan kepada mana-mana negeri. Di Kuala Berang, Hulu Terengganu pula terletak tapak penemuan Batu Bersurat Terengganu, bertarikh 702H/1303M mengikut rekod Jabatan Muzium Malaysia, dan disenaraikan dalam Daftar Antarabangsa Memory of the World UNESCO pada 2009 sebagai bukti tulisan Jawi terawal di dunia Melayu Asia Tenggara."
+answer: "Terengganu ialah negeri di Pantai Timur Semenanjung Malaysia dengan ibu negeri Kuala Terengganu, diketuai oleh Sultan Terengganu sebagai Ketua Negeri. Penduduknya dianggarkan 1.25 juta orang pada 2025 dan KDNK negerinya RM40.6 bilion (harga malar 2015), iaitu 2.3 peratus daripada KDNK negara. Walaupun negeri ini dikenali sebagai negeri minyak dan gas, pengeluaran petroleum luar pesisir tidak dikira dalam KDNK negeri oleh DOSM — ia dibukukan di bawah kategori 'Supra' yang tidak boleh diagihkan kepada mana-mana negeri. Di Kuala Berang, Hulu Terengganu pula terletak tapak penemuan Batu Bersurat Terengganu, bertarikh 702 Hijrah (1303M) mengikut dokumen pencalonan yang diserahkan Malaysia kepada UNESCO, dan disenaraikan dalam Daftar Antarabangsa Memory of the World UNESCO pada 2009 sebagai bukti tulisan Jawi terawal di dunia Melayu Asia Tenggara."
 
 keyTakeaways:
   - "Ibu negeri dan pusat pentadbiran ialah Kuala Terengganu (Wisma Darul Iman); ia menerima taraf bandaraya pada 1 Januari 2008 sebagai 'Bandaraya Warisan Pesisir Air'"
@@ -32,7 +32,7 @@ faq:
   - q: "Siapakah Sultan Terengganu?"
     a: "Sultan Terengganu ialah Ketua Negeri Terengganu. Urusan baginda dikendalikan oleh Pejabat Kebawah Duli Yang Maha Mulia Sultan Terengganu, beralamat di Istana Syarqiyyah, Kuala Terengganu. Portal rasmi pejabat itu tidak menyenaraikan nama peribadi baginda di halaman utamanya; rujuk portal tersebut untuk gelaran penuh dan protokol semasa."
   - q: "Di manakah Batu Bersurat Terengganu sekarang?"
-    a: "Artifak asal disimpan di Muzium Negeri Terengganu, seperti yang dinyatakan dalam kredit imej Daftar Memory of the World UNESCO. Tapak penemuannya di Kampung Buloh Batu Bersurat, Kuala Berang, Hulu Terengganu ditandai dengan Memorial Batu Bersurat, sebuah premis muzium negeri yang tersenarai dalam direktori Jabatan Muzium Malaysia."
+    a: "Artifak asal dipamerkan di galeri Muzium Negeri Terengganu di Bukit Losong, Kuala Terengganu, seperti dinyatakan dalam dokumen pencalonan Memory of the World UNESCO; penjaganya ialah Lembaga Muzium Negeri Terengganu. Tapak penemuannya di Kuala Berang, Hulu Terengganu ditandai dengan Memorial Batu Bersurat, sebuah premis muzium yang tersenarai dalam direktori Jabatan Muzium Malaysia."
   - q: "Apakah itu Wang Ihsan?"
     a: "Bayaran daripada Kerajaan Persekutuan kepada Terengganu dan Kelantan berkaitan hasil petroleum. Kenyataan Kementerian Kewangan menegaskan bahawa Wang Ihsan bukan pemberian Kerajaan Persekutuan yang termaktub dalam undang-undang, iaitu ia bukan hak yang diperuntukkan oleh statut."
 
@@ -128,16 +128,18 @@ Artikel ini menerangkan kedua-duanya, berserta angka rasmi negeri.
 Batu Bersurat Terengganu ialah batu bersurat yang membawa perisytiharan seorang
 pemerintah, ditulis dalam bahasa Melayu menggunakan abjad Arab — iaitu Jawi.
 
-Jabatan Muzium Malaysia merekodkan tarikh inskripsi itu sebagai **702H/1303M**.
-UNESCO, dalam Daftar Antarabangsa Memory of the World, memerihalkannya sebagai
-bukti terawal tulisan Jawi di dunia Melayu Islam Asia Tenggara, dan
-menyenaraikannya pada **2009** setelah dicalonkan pada 2008.
+Dokumen pencalonan Memory of the World yang diserahkan Malaysia kepada UNESCO
+merekodkan inskripsi itu sebagai tulisan Melayu dalam skrip Jawi, bertarikh
+**702 Hijrah (1303M)**. UNESCO memerihalkannya sebagai bukti terawal tulisan
+Jawi di dunia Melayu Islam Asia Tenggara, dan menyenaraikannya pada **2009**
+setelah dicalonkan pada 2008.
 
-Tapak penemuannya ialah Kampung Buloh Batu Bersurat di Kuala Berang, Hulu
-Terengganu. Di situ berdiri Memorial Batu Bersurat, sebuah premis muzium negeri
-yang tersenarai dalam direktori Jabatan Muzium Malaysia dan dibuka setiap hari
-dari 9.00 pagi hingga 5.00 petang. Artifak asalnya pula disimpan di Muzium
-Negeri Terengganu.
+Tapak penemuannya ialah Kuala Berang di Hulu Terengganu — dokumen pencalonan
+itu turut mencatatkan Kuala Berang sebagai pusat perdagangan maritim era
+tersebut. Di situ berdiri Memorial Batu Bersurat, sebuah premis muzium yang
+tersenarai dalam direktori Jabatan Muzium Malaysia. Artifak asalnya pula
+dipamerkan di galeri Muzium Negeri Terengganu di Bukit Losong, Kuala
+Terengganu, di bawah jagaan Lembaga Muzium Negeri Terengganu.
 
 Kenapa ia penting? Kerana ia meletakkan satu titik tarikh yang boleh disentuh
 pada peralihan besar dalam sejarah tulisan Melayu — daripada aksara berasaskan
@@ -147,10 +149,10 @@ Melaka](/en/malaysia/melaka-sultanate), berdiri di belakang tarikh itu.
 
 Satu nota kejujuran: rujukan awam memberikan tahun penemuan yang berbeza-beza,
 dan catatan tarikh pada batu itu sendiri telah lama menjadi bahan perbahasan
-akademik. Yang boleh disahkan pada sumber rasmi ialah tapak penemuan, tarikh
-702H/1303M seperti direkodkan Jabatan Muzium Malaysia, dan penyenaraian UNESCO
-2009. Untuk rekod penemuan yang terperinci, Muzium Negeri Terengganu ialah
-rujukan yang sepatutnya.
+akademik. Yang boleh disahkan pada sumber rasmi ialah tapak penemuan di Kuala
+Berang, tarikh 702 Hijrah (1303M) seperti direkodkan dalam dokumen pencalonan
+UNESCO, dan penyenaraian Memory of the World pada 2009. Untuk rekod penemuan
+yang terperinci, Muzium Negeri Terengganu ialah rujukan yang sepatutnya.
 
 ## Geografi dan pentadbiran
 

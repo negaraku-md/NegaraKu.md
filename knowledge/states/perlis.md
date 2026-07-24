@@ -32,6 +32,7 @@ faq:
 verificationNeeded:
   - "Confirm the current Menteri Besar and state executive line-up against the Perlis state portal before publication; this draft deliberately omits office-holder names that change between terms."
   - "Confirm the 821 km sq land area against a JUPEM or DOSM land-area release; the figure here is taken from a federal agency publication (MKN), not a survey department source."
+  - "Re-verify the Perlis Inland Port allocations (RM318.0 juta infrastructure, RM1.2 bilion private investment) and the six administrative areas against MKN once mkn.gov.my is reachable; the site was down during the latest re-verification pass, so these figures rest on the original 2026-07-24 check."
 
 lang: "ms"
 masterLanguage: "ms"
@@ -97,6 +98,8 @@ relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "penang" }
   - { rel: "related-to", to: "langkasuka" }
+  - { rel: "related-to", to: "majlis-raja-raja" }
+  - { rel: "related-to", to: "yang-di-pertuan-agong" }
 related: []
 keywords: ["Perlis", "Raja Perlis", "Kangar", "negeri terkecil Malaysia", "Wangsa Jamalullail", "sempadan Malaysia Thailand", "Padang Besar", "Chuping Valley"]
 ---
@@ -152,13 +155,13 @@ ketujuh pada 17 April 2000.
 Di sinilah kebanyakan penjelasan ringkas tersasar. Gelaran yang berbeza tidak
 membawa kedudukan yang berbeza dalam struktur persekutuan.
 
-Majlis Raja-Raja Malaysia menyatakan bahawa semua Raja dan Yang di-Pertua Negeri
+[Majlis Raja-Raja Malaysia](/en/government/majlis-raja-raja) menyatakan bahawa semua Raja dan Yang di-Pertua Negeri
 secara automatik menjadi anggota Majlis, dan pengerusi Mesyuarat Majlis Raja-Raja
 dipegang oleh kesemua sembilan Raja Melayu secara bergilir-gilir. Raja Perlis
 ialah salah seorang daripada sembilan itu.
 
 Rekodnya jelas dalam senarai rasmi Parlimen Malaysia. Dua Raja Perlis pernah
-memegang jawatan [Yang di-Pertuan Agong](/en/government/parliament):
+memegang jawatan [Yang di-Pertuan Agong](/en/government/yang-di-pertuan-agong):
 
 - **Tuanku Syed Putra** — Yang di-Pertuan Agong ketiga, 21 September 1960 hingga
   20 September 1965
@@ -184,9 +187,7 @@ mencatatkan lebih ramai perempuan daripada lelaki — Perlis dan W.P. Putrajaya.
 Nisbah kebangsaan ialah 110.
 
 Kadar pertumbuhan penduduk Perlis pada 2025 ialah 0.3 peratus, di bawah kadar
-kebangsaan 0.5 peratus. Berdasarkan Unjuran Penduduk 2020–2060 DOSM, penduduk
-Perlis dijangka mencapai kemuncaknya pada 2055, iaitu sebelum Malaysia secara
-keseluruhan (2059).
+kebangsaan 0.5 peratus.
 
 ## Ekonomi RM6.5 bilion
 
@@ -200,8 +201,8 @@ Pecahannya memberitahu banyak perkara tentang negeri ini:
   perkhidmatan Kerajaan serta perdagangan borong dan runcit, makanan dan minuman,
   dan penginapan.
 - **Pertanian** ialah penyumbang kedua terbesar — kedudukan yang jarang ditemui di
-  negeri Semenanjung — meningkat 2.9 peratus. Subsektor perikanan melonjak 10.5
-  peratus, manakala subsektor tanaman menyusut 3.1 peratus.
+  negeri Semenanjung — meningkat 2.9 peratus dan menyumbang 17.1 peratus kepada
+  KDNK negeri. Subsektor perikanan melonjak 10.5 peratus.
 - **Pembinaan** mengukuh 16.9 peratus (2023: 1.4 peratus), disumbang pertumbuhan
   ketara dalam subsektor kejuruteraan awam.
 

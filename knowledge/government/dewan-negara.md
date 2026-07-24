@@ -54,9 +54,9 @@ sources:
 entity: "Dewan Negara"
 relations:
   - { rel: "part-of", to: "parliament" }
-  - { rel: "governs", to: "federal-constitution" }
-  - { rel: "related-to", to: "federal-constitution" }
-related: ["parliament", "federal-constitution"]
+  - { rel: "explained-in", to: "federal-constitution" }
+  - { rel: "compares-with", to: "dewan-rakyat" }
+related: ["parliament", "federal-constitution", "dewan-rakyat", "yang-di-pertuan-agong"]
 keywords: ["Dewan Negara", "Senat Malaysia", "senator Malaysia", "Perkara 45 Perlembagaan Persekutuan", "Perkara 68", "Jadual Ketujuh", "pelantikan senator", "kuasa menangguh"]
 ---
 
@@ -149,6 +149,6 @@ Suruhanjaya Reid, yang merangka Perlembagaan pada 1957, memang menjangkakan kuas
 
 ## Apa seterusnya
 
-Untuk melihat kedudukan Dewan Negara dalam keseluruhan struktur perundangan persekutuan, termasuk pembahagian kuasa antara Parlimen dan Dewan Undangan Negeri, rujuk [Parlimen Malaysia](/en/government/parliament). Untuk teks dan struktur dokumen yang menjadi punca segala kuasa yang diterangkan di atas, rujuk [Perlembagaan Persekutuan](/en/law/federal-constitution).
+Rakan imbangnya di dewan rendah — komposisi 222 kerusi, jam lima tahun dan kuasa kewangan yang dipegangnya seorang diri — diterangkan dalam [Dewan Rakyat](/en/government/dewan-rakyat). Untuk melihat kedudukan Dewan Negara dalam keseluruhan struktur perundangan persekutuan, termasuk pembahagian kuasa antara Parlimen dan Dewan Undangan Negeri, rujuk [Parlimen Malaysia](/en/government/parliament). Peranan perkenan diraja di bawah Perkara 66 dihuraikan dalam [Yang di-Pertuan Agong](/en/government/yang-di-pertuan-agong). Untuk teks dan struktur dokumen yang menjadi punca segala kuasa yang diterangkan di atas, rujuk [Perlembagaan Persekutuan](/en/law/federal-constitution).
 
 Senarai senator semasa, tarikh mesyuarat dan Peraturan Mesyuarat Dewan Negara diterbitkan di portal rasmi [Parlimen Malaysia](https://www.parlimen.gov.my/maklumat-umum.html?uweb=dn). Teks Perlembagaan yang dirujuk sepanjang artikel ini boleh dimuat turun daripada [Portal Perundangan Persekutuan](https://lom.agc.gov.my/federal-constitution.php) Jabatan Peguam Negara.

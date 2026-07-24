@@ -14,7 +14,8 @@ sensitivity: "none"
 answer: "DOSM (Jabatan Perangkaan Malaysia, the Department of Statistics Malaysia) is the federal department that produces Malaysia's official statistics under the Statistics Act 1965 (Act 415). It releases over 300 publications a year — GDP, the Consumer Price Index, labour force, external trade, industrial production and more — and publishes every release date in advance through its Advance Release Calendar at dosm.gov.my/portal-main/arc, with the underlying data free to download from open.dosm.gov.my."
 keyTakeaways:
   - "Operates under the Statistics Act 1965 (Act 415) — royal assent 22 June 1965, in force 16 August 1965, revised edition 1989"
-  - "Headed by the Chief Statistician Malaysia (Ketua Perangkawan Malaysia)"
+  - "A federal department under the Ministry of Economy, headed by the Chief Statistician Malaysia (Ketua Perangkawan Malaysia)"
+  - "Began in 1949 as the Bureau of Statistics under the Statistics Ordinance 1949; renamed in 1965"
   - "Publishes an Advance Release Calendar naming the exact date of every 2026 publication, downloadable as CSV, Parquet, iCalendar or a subscribable Google Calendar"
   - "Flagship series: GDP (quarterly), CPI, labour force, external trade, IPI, PPI and Malaysian Economic Indicators (monthly)"
   - "Advance GDP estimates land roughly four weeks before the full quarterly GDP release"
@@ -30,7 +31,7 @@ faq:
   - q: "Is DOSM data free to reuse?"
     a: "Datasets published through OpenDOSM carry a Creative Commons Attribution 4.0 International (CC BY 4.0) licence, so you may reuse them with attribution. Check the licence note on the individual dataset page, since some datasets on data.gov.my originate from other agencies."
   - q: "Which ministry does DOSM sit under?"
-    a: "DOSM is a federal government department, not a statutory body. Ministerial portfolios in Malaysia are reorganised periodically and the Chief Statistician post changed hands in July 2026, so confirm the current parent ministry and officeholder on dosm.gov.my before relying on either in a formal document."
+    a: "DOSM is a federal government department listed under the Ministry of Economy in the ministry's official agencies directory. Ministerial portfolios in Malaysia are reorganised periodically, so confirm the current arrangement on ekonomi.gov.my or dosm.gov.my before relying on it in a formal document."
 
 lang: "en"
 masterLanguage: "en"
@@ -43,7 +44,7 @@ version: "0.1"
 revisions:
   - version: "0.1"
     date: "2026-07-24"
-    change: "Initial draft. Statutory basis verified at AGC Laws of Malaysia; publication inventory, release-calendar mechanics and July 2026 release dates verified at dosm.gov.my and open.dosm.gov.my."
+    change: "Initial draft. Statutory basis verified at AGC Laws of Malaysia; 1949 origin and ministry parentage verified at dosm.gov.my and ekonomi.gov.my; publication inventory, release-calendar mechanics and July 2026 release dates verified at dosm.gov.my and open.dosm.gov.my."
     reviewer: null
 
 updated: 2026-07-24
@@ -68,9 +69,12 @@ sources:
     url: "https://www.dosm.gov.my/portal-main/release-content/advance-gross-domestic-product-gdp-estimates-q22026"
     publisher: "Department of Statistics Malaysia"
     date: "2026-07-17"
-  - title: "Directory"
-    url: "https://www.dosm.gov.my/portal-main/directory/"
+  - title: "Background, Role & Function"
+    url: "https://www.dosm.gov.my/portal-main/article/background-role-function/"
     publisher: "Department of Statistics Malaysia"
+  - title: "Agensi di bawah Kementerian Ekonomi / Ministry of Economy's Agencies"
+    url: "https://ekonomi.gov.my/en/department-profile/organisation/ministry-economys-agencies"
+    publisher: "Ministry of Economy"
   - title: "Data Catalogue"
     url: "https://open.dosm.gov.my/data-catalogue"
     publisher: "OpenDOSM, Department of Statistics Malaysia"
@@ -99,20 +103,22 @@ check them.
 | --- | --- |
 | Full name | Jabatan Perangkaan Malaysia / Department of Statistics Malaysia |
 | Type | Federal government department |
+| Parent ministry | Ministry of Economy |
 | Enabling statute | Statistics Act 1965 (Act 415), revised edition 1989 |
 | Royal assent / in force | 22 June 1965 / 16 August 1965 |
 | Head of department | Chief Statistician Malaysia (Ketua Perangkawan Malaysia) |
 | Headquarters | Block C6 & C7, Complex C, Federal Government Administrative Centre, 62514 Putrajaya |
 | Websites | `dosm.gov.my` (portal), `open.dosm.gov.my` (open data) |
 
-The Act traces back further than 1965: it renamed the Bureau of Statistics
-established under the Statistics Ordinance 1949. It was amended in 1975, given a
-revised edition on 28 December 1989 as Act 415, and reprinted in 2001 and 2006.
+The department traces back further than 1965: it began in 1949 as the Bureau of
+Statistics under the Statistics Ordinance 1949, then limited to external trade and
+estate agriculture, and took its present name in 1965 under the new Act. The Act
+itself was amended in 1975, given a revised edition on 28 December 1989 as Act
+415, and reprinted in 2001 and 2006. DOSM maintains a state office in every state.
 
 ## The flagship series
 
-DOSM releases over 300 publications a year, and its portal archive runs to more
-than 3,000. These are the ones most often cited:
+DOSM releases over 300 publications a year. These are the ones most often cited:
 
 | Series | Frequency | Explained here |
 | --- | --- | --- |
@@ -132,9 +138,10 @@ population and demography, small area statistics, and ad hoc releases.
 
 ## How to know a figure before it is news
 
-This is the part most people miss. **DOSM publishes its release dates a year in
-advance.** The Advance Release Calendar is maintained by the Strategic
-Communication Division and lists every scheduled publication with its release date.
+This is the part most people miss. **DOSM publishes its release dates in
+advance.** The Advance Release Calendar lists every scheduled publication with its
+release date, and a press statement goes to the media on the day of release with a
+specified embargo time.
 
 It is not only a web page. The same content is a structured dataset (`arc_dosm`)
 carrying publication ID, release timestamp, English and Malay titles, category,

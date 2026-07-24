@@ -15,16 +15,15 @@ keyTakeaways:
   - "70 kerusi: 26 dipilih oleh Dewan Undangan Negeri, 44 dilantik oleh Yang di-Pertuan Agong (termasuk 4 bagi Wilayah Persekutuan)"
   - "Dewan Rakyat pula terdiri daripada 222 ahli yang dipilih dalam pilihan raya (Perkara 46)"
   - "Tempoh jawatan senator tiga tahun, tidak tersentuh dengan pembubaran Parlimen, maksimum dua penggal (Perkara 45(3) dan 45(3A))"
-  - "Umur minimum ahli Dewan Negara 30 tahun (Perkara 47(a)) — lebih tinggi daripada syarat umur bagi Dewan Rakyat dalam Perkara 47(b)"
+  - "Umur minimum ahli Dewan Negara 30 tahun (Perkara 47(a)), berbanding 18 tahun bagi Dewan Rakyat (Perkara 47(b), selepas pindaan Akta A1603)"
   - "Rang undang-undang cukai dan perbelanjaan tidak boleh dibawa masuk di Dewan Negara (Perkara 67(1))"
-  - "Perkara 68 mengehadkan kuasa Dewan Negara kepada penangguhan — sebulan bagi rang undang-undang wang, dan satu sesi bagi rang undang-undang lain"
+  - "Perkara 68 mengehadkan kuasa Dewan Negara kepada penangguhan — sebulan bagi rang undang-undang wang, dan setahun bagi rang undang-undang lain (Perkara 68(2))"
 appliesTo: "Pelajar, wartawan, pegawai kerajaan dan sesiapa yang perlu membezakan Dewan Negara daripada Dewan Rakyat dan memahami cara senator dipilih atau dilantik."
 
 verificationNeeded:
-  - "Umur minimum ahli Dewan Rakyat di bawah Perkara 47(b) sengaja TIDAK diterbitkan sebagai angka dalam artikel ini. Cetakan Semula 2020 yang disenaraikan sebagai sumber di sini mendahului permulaan kuat kuasa Akta Perlembagaan (Pindaan) 2019 [Akta A1603], jadi angka dalam cetakan itu bukan angka semasa. Sahkan terhadap teks terkini di lom.agc.gov.my berserta perintah permulaan kuat kuasanya sebelum menerbitkan sebarang angka."
-  - "Teks yang dirujuk ialah cetakan semula Perlembagaan Persekutuan sebagaimana pada 15 Oktober 2020. Pindaan yang berkuat kuasa selepas tarikh itu tidak terkandung di dalamnya. Semak Perkara 45, 47, 54, 67 dan 68 terhadap teks terkini di lom.agc.gov.my sebelum bergantung pada mana-mana peruntukan."
+  - "Angka 18 tahun bagi Perkara 47(b) diterbitkan berdasarkan teks Perlembagaan Persekutuan yang dihoskan di lom.agc.gov.my, yang memaparkan perkataan 'eighteen years old' (menggabungkan pindaan Akta A1603). Sahkan tarikh permulaan kuat kuasa pindaan itu terhadap perintah permulaan kuat kuasa rasmi sebelum bergantung padanya untuk tujuan perundangan."
+  - "Teks yang dirujuk ialah cetakan semula Perlembagaan Persekutuan sebagaimana pada 15 Oktober 2020 yang dihoskan di lom.agc.gov.my. Pindaan yang berkuat kuasa selepas tarikh cetakan itu mungkin tidak terkandung di dalamnya. Semak Perkara 45, 47, 54, 67 dan 68 terhadap teks terkini di lom.agc.gov.my sebelum bergantung pada mana-mana peruntukan."
   - "Teks Bahasa Melayu Perlembagaan Persekutuan ialah terjemahan oleh Jabatan Peguam Negara. Melainkan jika dan sehingga ditetapkan sahih di bawah Perkara 160b, teks Bahasa Inggeris ialah teks yang sahih."
-  - "Urutan pindaan pada Perkara 45(1)(b) (enam belas, dua puluh dua, tiga puluh dua, empat puluh) diambil daripada catatan pindaan yang tercetak pada Perkara itu. Tahun dan nombor Akta pindaan sengaja tidak diterbitkan sehingga disahkan terhadap senarai pindaan rasmi dalam cetakan semula."
 
 lang: "ms"
 masterLanguage: "ms"
@@ -38,6 +37,10 @@ revisions:
   - version: "0.1"
     date: "2026-07-24"
     change: "Draf awal. Setiap angka yang diterbitkan disemak terhadap teks Perlembagaan Persekutuan (Cetakan Semula 2020) versi Bahasa Melayu dan Bahasa Inggeris di portal Jabatan Peguam Negara — Perkara 40, 43, 44, 45, 46, 47, 54, 56, 66, 67, 68 dan Jadual Ketujuh. Angka yang tidak dapat disandarkan pada cetakan semula itu digugurkan dan dinyatakan secara kualitatif; lihat verificationNeeded."
+    reviewer: null
+  - version: "0.2"
+    date: "2026-07-24"
+    change: "Semakan sumber penuh: angka 70/26/44 dan tempoh tiga tahun (maksimum dua penggal) disahkan semula pada halaman Maklumat Umum Dewan Negara di portal rasmi Parlimen Malaysia; Perkara 45, 46, 47, 54, 55, 56, 67, 68 dan Jadual Ketujuh disahkan pada teks Perlembagaan yang dihoskan di lom.agc.gov.my. Umur 18 tahun bagi Dewan Rakyat kini diterbitkan (teks rasmi memaparkan 'eighteen years old'). Nombor Akta pindaan bagi Perkara 45(1)(b) — Akta 26/1963, Akta 19/1964, Akta A442 — diterbitkan daripada catatan pindaan dalam cetakan semula rasmi. Nuansa Perkara 54(3) ditambah: tempoh 60 hari tidak terpakai bagi kekosongan senator yang dipilih oleh Negeri. Pautan silang kepada artikel Dewan Rakyat, Yang di-Pertuan Agong dan proses rang undang-undang ditambah."
     reviewer: null
 sensitivity: "constitution"
 
@@ -60,19 +63,29 @@ sources:
   - title: "Portal Rasmi Parlimen Malaysia"
     url: "https://www.parlimen.gov.my/index.php?lang=bm"
     publisher: "Parlimen Malaysia"
+  - title: "Maklumat Umum — Dewan Negara"
+    url: "https://www.parlimen.gov.my/maklumat-umum.html?uweb=dn&lang=bm"
+    publisher: "Parlimen Malaysia"
+  - title: "Akta A1603 — Akta Perlembagaan (Pindaan) 2019 (pindaan umur dalam Perkara 47(b))"
+    url: "https://lom.agc.gov.my/act-detail.php?act=A1603&lang=BM"
+    publisher: "Jabatan Peguam Negara Malaysia"
+    date: "2019-09-10"
 
 entity: "Dewan Negara"
 relations:
   - { rel: "part-of", to: "parliament" }
   - { rel: "explained-in", to: "federal-constitution" }
+  - { rel: "compares-with", to: "dewan-rakyat" }
+  - { rel: "related-to", to: "yang-di-pertuan-agong" }
   - { rel: "related-to", to: "wilayah-persekutuan" }
-related: ["parliament", "federal-constitution", "wilayah-persekutuan"]
+related: ["parliament", "federal-constitution", "dewan-rakyat", "yang-di-pertuan-agong", "wilayah-persekutuan"]
 keywords: ["Dewan Negara", "Senat Malaysia", "senator Malaysia", "perbezaan Dewan Negara Dewan Rakyat", "Perkara 45 Perlembagaan Persekutuan", "lantikan senator"]
 ---
 
 **Bahasa Malaysia:** Dewan Negara · **English:** Senate · **中文:** 上议院
 
-Apabila Parlimen dibubarkan, kesemua 222 kerusi Dewan Rakyat menjadi kosong dan
+Apabila Parlimen dibubarkan, kesemua 222 kerusi
+[Dewan Rakyat](/en/glossary/dewan-rakyat) menjadi kosong dan
 setiap ahlinya perlu bertanding semula. Tujuh puluh ahli Dewan Negara tidak.
 Tempoh jawatan mereka, menurut Perkara 45(3) Perlembagaan Persekutuan,
 "tidaklah tersentuh dengan pembubaran Parlimen".
@@ -89,7 +102,7 @@ Majlis: Dewan Negara dan Dewan Rakyat.
 
 Ahlinya digelar **Senator**. Tiada seorang pun daripada mereka dipilih oleh
 pengundi biasa. Mereka sama ada **dipilih oleh Dewan Undangan Negeri** atau
-**dilantik oleh Yang di-Pertuan Agong**.
+**dilantik oleh [Yang di-Pertuan Agong](/en/glossary/yang-di-pertuan-agong)**.
 
 ## Dewan Negara lawan Dewan Rakyat
 
@@ -98,10 +111,13 @@ pengundi biasa. Mereka sama ada **dipilih oleh Dewan Undangan Negeri** atau
 | Peruntukan | Perkara 45 | Perkara 46 |
 | Bilangan ahli | 70 | 222 |
 | Cara masuk | Dipilih oleh DUN atau dilantik oleh Yang di-Pertuan Agong | Dipilih oleh pengundi dalam kawasan pilihan raya persekutuan |
-| Umur minimum | 30 tahun (Perkara 47(a)) | Lebih rendah — ditetapkan dalam Perkara 47(b) |
+| Umur minimum | 30 tahun (Perkara 47(a)) | 18 tahun (Perkara 47(b), selepas pindaan Akta A1603) |
 | Tempoh | Tiga tahun, maksimum dua penggal | Sehingga Parlimen dibubarkan |
 | Kesan pembubaran Parlimen | Tempoh jawatan tidak tersentuh | Semua kerusi menjadi kosong |
 | Pegawai pengerusi | Yang di-Pertua Dewan Negara | Yang di-Pertua Dewan Rakyat |
+
+Huraian penuh tentang dewan yang satu lagi ada dalam artikel
+[Dewan Rakyat](/en/glossary/dewan-rakyat).
 
 Satu lagi perbezaan yang mudah terlepas pandang: Perkara 43(2)(a) menghendaki
 Perdana Menteri seorang **ahli Dewan Rakyat**, tetapi Perkara 43(2)(b)
@@ -168,7 +184,9 @@ kuasa budi bicara yang dikecualikan itu.
 - **Kekosongan:** hendaklah diisi dalam tempoh **60 hari** dari tarikh Yang
   di-Pertua Dewan Negara memastikan ada kekosongan (Perkara 54(1)). Kegagalan
   berbuat demikian dalam tempoh itu tidak menidaksahkan lantikan yang dibuat
-  kemudian.
+  kemudian. Satu pengecualian penting: Perkara 54(3) menetapkan bahawa tempoh
+  60 hari itu **tidak terpakai** bagi kekosongan senator yang dipilih oleh
+  Negeri mengikut Jadual Ketujuh.
 - **Pegawai pengerusi:** Dewan Negara memilih sendiri Yang di-Pertua dan Timbalan
   Yang di-Pertua daripada kalangan ahlinya, dan tidak boleh menjalankan apa-apa
   urusan lain semasa jawatan Yang di-Pertua kosong (Perkara 56(1)).
@@ -202,6 +220,10 @@ Perkara 68(4) menetapkan bahawa rang undang-undang yang dipersembahkan melalui
 laluan ini hendaklah membawa perakuan Yang di-Pertua Dewan Rakyat, dan perakuan
 itu muktamad serta tidak boleh dipersoalkan di mana-mana mahkamah.
 
+Laluan penuh sesuatu rang undang-undang — dari bacaan pertama hingga perkenan
+diraja dan pewartaan — dihuraikan dalam artikel
+[Bagaimana rang undang-undang menjadi undang-undang](/en/law/how-a-bill-becomes-law).
+
 ## Kesilapan lazim
 
 - **"Senator dilantik oleh Perdana Menteri."** Perlembagaan menyebut lantikan
@@ -219,8 +241,9 @@ itu muktamad serta tidak boleh dipersoalkan di mana-mana mahkamah.
   Parlimen.
 - **"Bilangan 70 itu ditetapkan selama-lamanya."** Catatan pindaan yang tercetak
   pada Perkara 45(1)(b) menunjukkan bilangan ahli lantikan pernah berbunyi enam
-  belas, kemudian dua puluh dua, kemudian tiga puluh dua, sebelum dipinda kepada
-  empat puluh.
+  belas, kemudian dua puluh dua (Akta 26/1963), kemudian tiga puluh dua
+  (Akta 19/1964), sebelum dipinda kepada empat puluh (Akta A442, berkuat kuasa
+  31 Disember 1978).
 
 ## Perlembagaan membenarkan susunan ini diubah
 
@@ -237,11 +260,13 @@ tiada satu pun daripada tiga pilihan itu telah dilaksanakan.
 
 ## Istilah berkaitan
 
+- [Dewan Rakyat](/en/glossary/dewan-rakyat)
+- [Yang di-Pertuan Agong](/en/glossary/yang-di-pertuan-agong)
 - [Parlimen Malaysia](/en/government/parliament)
 - [Perlembagaan Persekutuan](/en/law/federal-constitution)
 - [Wilayah Persekutuan](/en/glossary/wilayah-persekutuan)
 
-## Apa seterusnya
+## What's next
 
 Jika anda perlu mengesahkan mana-mana angka di atas, pergi terus kepada sumber
 utamanya: teks Perlembagaan Persekutuan di Portal Perundangan Persekutuan
@@ -250,9 +275,9 @@ artikel ini datang daripada teks tersebut.
 
 Untuk memahami apa yang berlaku kepada sesuatu rang undang-undang selepas
 kedua-dua Majlis meluluskannya, teruskan ke artikel
+[Bagaimana rang undang-undang menjadi undang-undang](/en/law/how-a-bill-becomes-law);
+untuk gambaran institusi yang lebih luas, lihat
 [Parlimen Malaysia](/en/government/parliament).
-
----
 
 *Artikel ini dikelaskan sebagai sensitif (3R+1: perkara perlembagaan) di bawah
 dasar editorial NegaraKu.md. Ia ditulis secara deskriptif semata-mata — meliputi

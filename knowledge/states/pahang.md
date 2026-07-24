@@ -226,16 +226,17 @@ tumbuhan, lebih 300 spesies burung, 250 spesies ikan air tawar dan 200 spesies
 mamalia.
 
 Di dalamnya terletak **Gunung Tahan setinggi 2,187 meter**, puncak tertinggi di
-Semenanjung Malaysia. Jabatan PERHILITAN mencatatkan dua laluan pendakian —
-dari Kuala Tahan dan dari Sungai Relau — dan pendakian dari Kuala Tahan
-lazimnya mengambil kira-kira tujuh hari.
+Semenanjung Malaysia. Jabatan PERHILITAN menyenaraikan dua pakej laluan
+pendakian tujuh hari enam malam — dari Kuala Tahan naik dan turun semula ke
+Kuala Tahan, atau dari Kuala Tahan turun ke Kuala Juram di Merapoh — dan
+mensyaratkan pemandu gunung bagi setiap kumpulan.
 
 | Perkara | Butiran |
 | --- | --- |
 | Pintu masuk utama | Kuala Tahan, daerah Jerantut |
 | Jarak dari pekan Jerantut | Kira-kira 68 km |
 | Pengurusan taman | Jabatan PERHILITAN |
-| Ciri terkenal | Laluan kanopi sepanjang kira-kira 450 meter |
+| Ciri terkenal | Laluan kanopi tergantung kira-kira 45 meter di atas tanah |
 
 Kepentingan Taman Negara bukan sekadar pelancongan. Ia satu-satunya blok hutan
 hujan dataran rendah bersaiz besar yang dilindungi secara berterusan sejak

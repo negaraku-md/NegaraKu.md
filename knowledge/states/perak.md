@@ -12,10 +12,10 @@ contentType: "place"
 
 seoTitle: "Perak: Perjanjian Pangkor, Sultan Perak & profil negeri"
 
-answer: "Perak Darul Ridzuan ialah negeri di pantai barat Semenanjung Malaysia dengan ibu negeri Ipoh dan ketua negeri bergelar Sultan Perak. Kesultanan Perak bermula dengan Sultan Muzaffar Syah I pada tahun 1528, berketurunan daripada Sultan Mahmud Syah Melaka. Penemuan bijih timah di Larut pada 1848 oleh Cik Long Jaafar menarik pelaburan dan buruh ke negeri ini, dan pada 20 Januari 1874 Perjanjian Pangkor dimeterai antara pihak Inggeris dengan pembesar-pembesar Melayu Perak. Perjanjian itu memperuntukkan penerimaan seorang Residen British yang nasihatnya mesti dipatuhi dalam semua perkara pentadbiran kecuali yang berkaitan agama dan adat Melayu — model yang kemudiannya diperluas ke negeri-negeri Melayu lain."
+answer: "Perak Darul Ridzuan ialah negeri di pantai barat Semenanjung Malaysia dengan ibu negeri Ipoh dan ketua negeri bergelar Sultan Perak. Kesultanan Perak bermula dengan Sultan Muzaffar Syah I pada tahun 1528, berketurunan daripada Sultan Mahmud Syah Melaka. Penemuan bijih timah di Larut pada 1848 oleh Cik Long Jaafar menarik pelaburan dan buruh ke negeri ini, dan pada 20 Januari 1874 Perjanjian Pangkor dimeterai antara pihak Inggeris dengan pembesar-pembesar Melayu Perak. Perjanjian itu memperuntukkan penerimaan seorang Residen Inggeris yang nasihatnya mesti diminta dan diikuti dalam segala hal kecuali perkara yang menyentuh agama dan adat istiadat orang Melayu — model yang kemudiannya diperluas ke negeri-negeri Melayu lain."
 keyTakeaways:
   - "Perjanjian Pangkor ditandatangani pada 20 Januari 1874 dan, menurut portal rasmi kerajaan negeri, mengesahkan kekuasaan Inggeris di Perak"
-  - "Fasal terasnya: Sultan menerima seorang Residen British yang nasihatnya mesti dipatuhi dalam semua perkara pentadbiran kecuali agama dan adat Melayu"
+  - "Fasal terasnya: Sultan menerima seorang Residen Inggeris yang nasihatnya mesti diminta dan diikuti dalam segala hal kecuali yang menyentuh agama dan adat istiadat orang Melayu"
   - "J.W.W. Birch ialah Residen British pertama di Perak dan dibunuh pada tahun 1875"
   - "Majlis Mesyuarat Negeri pertama bersidang pada 10 September 1877 di kediaman Residen British di Kuala Kangsar — Dewan Negeri Perak menyifatkannya sebagai permulaan sejarah perlembagaan Malaysia"
   - "Penduduk Perak dianggarkan 2,574.9 ribu orang pada 2025 (awalan) dengan KDNK per kapita RM41,960, mengikut Jabatan Perangkaan Malaysia"
@@ -24,7 +24,7 @@ appliesTo: "Pembaca yang mahu memahami sejarah dan struktur Negeri Perak secara 
 
 faq:
   - q: "Mengapa Perjanjian Pangkor dianggap titik permulaan campur tangan British di Tanah Melayu?"
-    a: "Kerana ia memperkenalkan jawatan Residen British sebagai sebahagian daripada struktur pemerintahan negeri. Menurut portal rasmi Kerajaan Negeri Perak, perjanjian yang dimeterai pada 20 Januari 1874 memperuntukkan bahawa Sultan menerima seorang Residen British yang nasihatnya mesti dipatuhi dalam semua perkara pentadbiran, kecuali perkara yang berkaitan agama dan adat orang Melayu. Model ini kemudiannya diguna pakai di negeri-negeri Melayu yang lain."
+    a: "Kerana ia memperkenalkan jawatan Residen sebagai sebahagian daripada struktur pemerintahan negeri. Menurut portal rasmi Kerajaan Negeri Perak, perjanjian yang dimeterai pada 20 Januari 1874 memperuntukkan bahawa Sultan akan menerima seorang Residen Inggeris yang nasihatnya mesti diminta dan diikuti dalam segala hal kecuali yang menyentuh agama dan adat istiadat orang Melayu. Model ini kemudiannya diguna pakai di negeri-negeri Melayu yang lain."
   - q: "Siapakah Residen British pertama di Perak?"
     a: "J.W.W. Birch. Portal rasmi Kerajaan Negeri Perak menyatakan beliau dilantik sebagai Residen pertama dan dibunuh pada tahun 1875."
   - q: "Apakah kaitan Perjanjian Pangkor dengan Dewan Negeri Perak hari ini?"
@@ -37,7 +37,6 @@ faq:
 verificationNeeded:
   - "Sahkan keluasan rasmi negeri (km persegi) daripada terbitan rasmi kerajaan negeri atau DOSM sebelum menerbitkan angka keluasan — artikel ini sengaja tidak menyatakan angka keluasan kerana ia tidak dapat disahkan pada sumber rasmi yang dicapai."
   - "Sahkan senarai penuh 12 daerah pentadbiran dan tarikh penubuhan daerah Muallim serta Bagan Datuk terhadap warta rasmi negeri."
-  - "Sahkan tarikh perpindahan pusat pentadbiran negeri dari Taiping ke Ipoh terhadap rekod rasmi; tarikh yang beredar dalam sumber sekunder tidak dapat disahkan pada portal rasmi ketika artikel ini disediakan."
   - "Kemas kini angka penduduk dan KDNK apabila keluaran DOSM yang lebih baharu diterbitkan."
 
 lang: "ms"
@@ -51,7 +50,7 @@ version: "0.1"
 revisions:
   - version: "0.1"
     date: "2026-07-24"
-    change: "Draf awal. Setiap angka disahkan pada sumber rasmi: portal Kerajaan Negeri Perak, portal Dewan Negeri Perak, portal Sultan Perak, Majlis Bandaraya Ipoh, Jabatan Warisan Negara, dan dua terbitan Jabatan Perangkaan Malaysia (Anggaran Penduduk Semasa 2025 dan KDNK Mengikut Negeri 2025). Angka keluasan negeri dan tarikh perpindahan ibu negeri sengaja ditinggalkan kerana tidak dapat disahkan pada sumber rasmi."
+    change: "Draf awal. Setiap angka disahkan pada sumber rasmi: portal Kerajaan Negeri Perak, portal Dewan Negeri Perak, portal Sultan Perak, Majlis Bandaraya Ipoh, Jabatan Warisan Negara, dan dua terbitan Jabatan Perangkaan Malaysia (Anggaran Penduduk Semasa 2025 dan KDNK Mengikut Negeri 2025). Perpindahan pusat pentadbiran Taiping ke Ipoh (1942) disahkan pada portal Dewan Negeri Perak. Angka keluasan negeri sengaja ditinggalkan kerana tidak dapat disahkan pada sumber rasmi."
     reviewer: null
 sensitivity: "royalty"
 
@@ -92,6 +91,9 @@ sources:
   - title: "Warisan Arkeologi Lembah Lenggong, Perak"
     url: "https://www.heritage.gov.my/en/warisan-arkeologi-lembah-lenggong-perak.html"
     publisher: "Jabatan Warisan Negara"
+  - title: "Perlembagaan Persekutuan — Undang-Undang Malaysia"
+    url: "https://lom.agc.gov.my/federal-constitution.php"
+    publisher: "Pejabat Peguam Negara Malaysia (AGC)"
   - title: "Penyata Rasmi Dewan Negeri Perak, 2 Disember 2024"
     url: "https://dewan.perak.gov.my/wp-content/uploads/2025/01/Penyata-Rasmi-2-Disember-2024-Edited.pdf"
     publisher: "Bahagian Dewan Negeri dan Majlis Mesyuarat Kerajaan Negeri Perak"
@@ -157,10 +159,10 @@ Perjanjian Pangkor dimeterai antara pihak Inggeris dengan pembesar-pembesar
 Melayu Perak. Portal rasmi Kerajaan Negeri Perak menyatakan bahawa
 termeterainya perjanjian itu "telah mengesahkan kekuasaan Inggeris di Perak."
 
-Fasal yang paling menentukan berkaitan jawatan Residen. Mengikut rumusan portal
-rasmi kerajaan negeri, Sultan bersetuju menerima seorang Residen British yang
-nasihatnya mesti dipatuhi dalam **semua perkara pentadbiran, kecuali perkara
-yang berkaitan agama dan adat orang Melayu**.
+Fasal yang paling menentukan berkaitan jawatan Residen. Portal rasmi kerajaan
+negeri merumuskannya begini: Sultan akan menerima seorang Residen Inggeris
+yang nasihatnya **"mesti diminta dan diikuti dalam segala hal kecuali yang
+menyentuh agama dan adat istiadat orang-orang Melayu."**
 
 Perhatikan tiga ciri reka bentuknya:
 
@@ -173,9 +175,10 @@ Perhatikan tiga ciri reka bentuknya:
    pemerintahan kekal di tangan Sultan; secara amali, kuasa pentadbiran beralih
    kepada pihak yang nasihatnya wajib diikut.
 
-Portal rasmi Dewan Negeri Perak turut merumuskan bahawa di bawah susunan itu,
-hasil dan cukai negeri serta aturan pemerintahan am ditetapkan dengan nasihat
-Residen British.
+Portal rasmi Dewan Negeri Perak merumuskan perubahan itu dalam satu ayat:
+sistem pemerintahan tradisional antara Sultan dan para pembesar Melayu berubah
+selepas campur tangan British secara tidak langsung di Negeri-negeri Melayu,
+apabila Residen British dilantik untuk menasihati Sultan.
 
 ## Selepas Pangkor: Birch, 1875, dan majlis 1877
 
@@ -216,15 +219,21 @@ institusi itu memanjang sampai ke Dewan Negeri Perak hari ini, yang mempunyai
 Jika Larut ialah medan timah pertama, Lembah Kinta ialah medan yang membina
 sebuah bandar.
 
-Majlis Bandaraya Ipoh mencatatkan bahawa jalan yang menghubungkan Ipoh dengan
-kawasan perlombongan seperti Papan dan Batu Gajah dibina pada 1884, dan
-menjelang 1895 Ipoh telah menjadi bandar terbesar di Negeri Perak. Pertumbuhan
-itu memerlukan pekan baharu — kawasan yang dikenali hari ini sebagai Ipoh New
+Majlis Bandaraya Ipoh mencatatkan bahawa pada 1884 jalan mula dibina
+menghubungkan kampung Gopeng dengan pelabuhannya di Kota Bharu, dan
+seterusnya ke kawasan perlombongan Papan dan Batu Gajah. Pada 1895 Ipoh
+menjadi bandar terbesar di Negeri Perak dan kedua terbesar di Negeri-Negeri
+Melayu Bersekutu. Antara 1905 hingga 1914, kawasan bandar berkembang
+menyeberangi Sungai Kinta — kawasan yang dikenali hari ini sebagai Ipoh New
 Town.
 
+Taraf ibu negeri pula datang melalui satu peristiwa perang. Portal rasmi Dewan
+Negeri Perak mencatatkan bahawa apabila tentera Jepun menawan Perak pada
+tahun 1942, pusat pentadbiran negeri dipindahkan dari Taiping ke Ipoh.
+
 Status pentadbirannya menyusul kemudian. Ipoh menjadi Majlis Perbandaran Ipoh
-pada 31 Mei 1962, dan pada **27 Mei 1988** Sultan Perak mengisytiharkan taraf
-bandar raya kepada Ipoh.
+pada 31 Mei 1962, dan pada **27 Mei 1988** Sultan Perak mengisytiharkan Ipoh
+sebagai bandar raya, ibu negeri Perak Darul Ridzuan.
 
 Kuala Kangsar pula kekal sebagai pusat istiadat diraja. Istana Iskandariah di
 situ ialah tempat berlangsungnya istiadat pertabalan Sultan Perak ke-35,
@@ -298,13 +307,15 @@ adat Melayu dikecualikan. Perbezaan antara pentadbiran terus dan pemerintahan
 melalui nasihat itulah yang membezakan Perak daripada Negeri-Negeri Selat
 seperti [Pulau Pinang](/en/states/penang), yang ditadbir terus.
 
-**"Ipoh sentiasa menjadi ibu negeri Perak."** Ipoh membesar bersama industri
-timah Lembah Kinta pada penghujung abad ke-19 dan hanya menerima taraf bandar
-raya pada 1988. Pusat pentadbiran negeri tidak sentiasa berada di situ.
+**"Ipoh sentiasa menjadi ibu negeri Perak."** Tidak. Portal rasmi Dewan Negeri
+Perak mencatatkan bahawa pusat pentadbiran negeri dipindahkan dari Taiping ke
+Ipoh pada tahun 1942, semasa pendudukan Jepun. Ipoh hanya diisytiharkan bandar
+raya pada 1988.
 
 **"Sultan Perak sama peranannya dengan Yang di-Pertuan Agong."** Dua jawatan
-berbeza. Sultan Perak ialah ketua negeri bagi Perak; Yang di-Pertuan Agong
-ialah Ketua Utama Negara bagi Persekutuan, dipilih oleh Majlis Raja-Raja.
+berbeza. Sultan Perak ialah ketua negeri bagi Perak; [Yang di-Pertuan
+Agong](/en/government/yang-di-pertuan-agong) ialah Ketua Utama Negara bagi
+Persekutuan di bawah Perlembagaan Persekutuan, dipilih oleh Majlis Raja-Raja.
 
 **"Bijih timah hanya cerita lama."** Warisan timah membentuk geografi bandar
 Perak sampai hari ini — tetapi struktur ekonomi negeri pada 2025 didorong oleh

@@ -38,7 +38,7 @@ version: "0.1"
 revisions:
   - version: "0.1"
     date: "2026-07-24"
-    change: "Draf awal."
+    change: "Draf awal. Setiap petikan perlembagaan — takrif Perkara 160(2), Perkara 1, 70 dan 71(5), serta seksyen 1, 2, 19A, 19B, 20, 22 dan 23 Jadual Kelapan — disemak kata demi kata terhadap Perlembagaan Persekutuan (Cetakan Semula 2020) di portal Jabatan Peguam Negara; tarikh gelaran Premier Sarawak (diluluskan 15 Februari 2022, berkuat kuasa 1 Mac 2022) disemak terhadap portal rasmi Kerajaan Sarawak; senarai negeri beraja dan tanpa raja disemak terhadap portal MyGovernment. Nada dikekalkan deskriptif sepenuhnya."
     reviewer: null
 sensitivity: "royalty"
 
@@ -71,6 +71,8 @@ related: ["federal-constitution", "parliament", "sarawak", "selangor", "penang",
 keywords: ["Menteri Besar", "Ketua Menteri", "Premier Sarawak", "ketua kerajaan negeri", "Yang di-Pertua Negeri", "Majlis Mesyuarat Kerajaan", "Exco negeri", "Jadual Kelapan", "Dewan Undangan Negeri", "pelantikan Menteri Besar"]
 ---
 
+**Bahasa Malaysia:** Menteri Besar / Ketua Menteri · **English:** Menteri Besar / Chief Minister (head of a state government) · **中文:** 州务大臣 / 首席部长
+
 Tiga belas negeri. Satu jawatan. Tiga gelaran berbeza.
 
 Orang yang mengetuai kerajaan Selangor dipanggil Menteri Besar. Orang yang menjalankan tugas yang sama di Pulau Pinang dipanggil Ketua Menteri. Di Sarawak, gelarannya Premier. Perbezaan itu bukan soal saiz negeri, bilangan penduduk atau kuasa — ia berpunca daripada satu perkara sahaja: sama ada negeri itu mempunyai Raja.
@@ -102,11 +104,11 @@ Empat negeri tanpa Raja disenaraikan secara jelas dalam tajuk seksyen 19a Jadual
 
 Jawapannya terletak dalam sejarah pembentukan Persekutuan, dan ia masih boleh dibaca dalam Perlembagaan itu sendiri.
 
-Perkara 1(2) sebagaimana yang terdapat pada Hari Merdeka menyenaraikan Johor, Kedah, Kelantan, Negeri Sembilan, Pahang, Perak, Perlis, Selangor dan Terengganu sebagai negeri "yang dahulunya dikenali sebagai Negeri-Negeri Melayu", manakala Melaka dan Pulau Pinang disebut sebagai negeri "yang dahulunya dikenali sebagai Negeri-Negeri Selat". Sembilan negeri pertama itu membawa masuk institusi Raja mereka ke dalam Persekutuan. Melaka dan Pulau Pinang tidak mempunyainya.
+Perkara 1(2) sebagaimana yang terdapat pada Hari Merdeka menyenaraikan Johor, Kedah, Kelantan, Negeri Sembilan, Pahang, Perak, Perlis, Selangor dan Terengganu sebagai negeri "yang dahulunya dikenali sebagai Negeri-Negeri Melayu", manakala Melaka dan Pulau Pinang disebut sebagai negeri "yang dahulunya dikenali sebagai Negeri-Negeri Selat Melaka dan Pulau Pinang". Sembilan negeri pertama itu membawa masuk institusi Raja mereka ke dalam Persekutuan. Melaka dan Pulau Pinang tidak mempunyainya.
 
 Sabah dan Sarawak menyertai Persekutuan kemudian, dan juga tidak mempunyai Raja. Perkara 1(2) yang berkuat kuasa hari ini menyenaraikan kesemua 13 negeri dalam satu senarai tunggal mengikut abjad — tetapi pembahagian struktur itu kekal dalam Jadual Kelapan.
 
-Baca lebih lanjut dalam [Perlembagaan Persekutuan](/law/federal-constitution) dan [Pembentukan Malaysia 1963](/malaysia/formation-of-malaysia-1963).
+Baca lebih lanjut dalam [Perlembagaan Persekutuan](/en/law/federal-constitution) dan [Pembentukan Malaysia 1963](/en/malaysia/formation-of-malaysia-1963).
 
 ## Proses pelantikan di negeri beraja
 
@@ -154,7 +156,7 @@ Dewan Undangan Negeri Sarawak meluluskan beberapa pindaan kepada Perlembagaan Ne
 
 Pindaan itu tidak memerlukan pindaan Perlembagaan Persekutuan, kerana takrif dalam Perkara 160(2) sudah pun merangkumi yang dipertua Majlis Mesyuarat Kerajaan "tidak kira dengan gelaran apa jua dia dikenali". Peruntukan Perlembagaan Persekutuan yang menyebut "Ketua Menteri" — termasuk seksyen 19a mengenai perundingan sebelum pelantikan Yang di-Pertua Negeri — terus terpakai kepada pemegang jawatan itu.
 
-Latar negeri: [Sarawak](/states/sarawak).
+Latar negeri: [Sarawak](/en/states/sarawak).
 
 ## Pengecualian Perlis dalam teks Perlembagaan
 
@@ -170,16 +172,16 @@ Perbezaan itu bukan kosmetik. Seksyen 20 Bahagian II — versi gantian bagi seks
 
 **"Yang di-Pertua Negeri ialah jawatan seumur hidup seperti Raja."** Tidak. Seksyen 19a(2) menetapkan tempoh empat tahun, boleh diperbaharui melalui pelantikan semula oleh Yang di-Pertuan Agong.
 
-**"Ketua Menteri Wilayah Persekutuan."** Tiada jawatan sedemikian. Kuala Lumpur, Labuan dan Putrajaya ialah Wilayah Persekutuan, bukan negeri, dan tidak mempunyai Dewan Undangan Negeri. Lihat [Wilayah Persekutuan](/glossary/wilayah-persekutuan).
+**"Ketua Menteri Wilayah Persekutuan."** Tiada jawatan sedemikian. Kuala Lumpur, Labuan dan Putrajaya ialah Wilayah Persekutuan, bukan negeri, dan tidak mempunyai Dewan Undangan Negeri. Lihat [Wilayah Persekutuan](/en/glossary/wilayah-persekutuan).
 
 **"Perlembagaan negeri boleh dipinda sesuka hati."** Perkara 71(4) memperuntukkan bahawa jika Perlembagaan sesuatu Negeri tidak mengandungi peruntukan perlu dalam Bahagian I Jadual Kelapan, atau mengandungi peruntukan yang tidak selaras dengannya, Parlimen boleh melalui undang-undang membuat peruntukan bagi menguatkuasakan peruntukan perlu itu di dalam Negeri berkenaan.
 
 ## Bacaan berkaitan
 
-- [Perlembagaan Persekutuan](/law/federal-constitution) — struktur, jadual dan peruntukan asas
-- [Parlimen Malaysia](/government/parliament) — badan perundangan peringkat persekutuan, untuk perbandingan dengan Dewan Undangan Negeri
-- [Warta Kerajaan](/glossary/warta-kerajaan) — mengapa pindaan perlembagaan negeri perlu diwartakan sebelum berkuat kuasa
-- [Sarawak](/states/sarawak), [Selangor](/states/selangor), [Pulau Pinang](/states/penang) — latar negeri
+- [Perlembagaan Persekutuan](/en/law/federal-constitution) — struktur, jadual dan peruntukan asas
+- [Parlimen Malaysia](/en/government/parliament) — badan perundangan peringkat persekutuan, untuk perbandingan dengan Dewan Undangan Negeri
+- [Warta Kerajaan](/en/glossary/warta-kerajaan) — mengapa pindaan perlembagaan negeri perlu diwartakan sebelum berkuat kuasa
+- [Sarawak](/en/states/sarawak), [Selangor](/en/states/selangor), [Pulau Pinang](/en/states/penang) — latar negeri
 
 ## Apa seterusnya
 
