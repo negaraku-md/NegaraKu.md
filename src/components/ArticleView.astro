@@ -6,6 +6,7 @@ import { type Article, relatedArticles, readingTime, articlesForLocale } from '@
 import { localePath } from '@/lib/i18n';
 import { REPO } from '@/lib/site';
 import { subcatLabel } from '@/lib/subcategories';
+import { resolveSponsor } from '@/lib/sponsors';
 import TrustBadge from './TrustBadge.astro';
 import FeedbackBar from './FeedbackBar.astro';
 
@@ -34,6 +35,9 @@ const pillar = getPillar(d.category);
 const pillarDef = pillar ? getPillarDef(pillar) : undefined;
 const isBusiness = pillar === 'doing-business';
 const sensitive = d.sensitivity !== 'none';
+// Sponsorship is data (src/lib/sponsors.ts): explicit article sponsor wins, else
+// the pillar default. Sensitive content is never sponsored.
+const sponsor = resolveSponsor(d.sponsor, pillar, sensitive);
 const SENS_LABEL: Record<string, string> = {
   race: L('Kaum', 'Race', '种族'),
   religion: L('Agama', 'Religion', '宗教'),
@@ -274,20 +278,17 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
            readers click away from, so anything below it is effectively unseen. Kept
            visually separate per the editorial standard, and suppressed entirely on
            sensitive content. */
-        isBusiness && !sensitive && (
+        sponsor && (
           <aside class="cta">
             <header><span class="sec-h"><span class="ico" set:html={ICON.sponsored} />{L('Ditaja', 'Sponsored', '赞助')}</span></header>
             <div class="cta-body">
-              <b>{L('Perlukan bantuan profesional?', 'Need professional help?', '需要专业协助？')}</b>
+              <b>{sponsor.heading[locale]}</b>
               <p>
-                <span class="oneco brand">1company.com</span>{L(
-                  ' menyediakan perkhidmatan penubuhan syarikat, setiausaha syarikat, perakaunan, audit dan cukai di Malaysia.',
-                  ' provides incorporation, company secretarial, accounting, audit and tax services in Malaysia.',
-                  ' 提供马来西亚公司注册、公司秘书、会计、审计与税务服务。',
-                )}
+                <span class="oneco brand">{sponsor.name}</span>
+                {sponsor.blurb[locale]}
               </p>
-              <a class="go" href="https://www.1company.com" rel="noopener">
-                {L('Ketahui lebih lanjut', 'Learn more', '了解更多')} →
+              <a class="go" href={sponsor.url} rel="noopener sponsored">
+                {sponsor.cta[locale]} →
               </a>
             </div>
           </aside>

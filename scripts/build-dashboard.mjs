@@ -197,7 +197,49 @@ async function main() {
     r.outstanding = r.total - r.published; // still needs to reach "published"
   }
 
+  // Content types beyond the article. The dashboard reported "312 articles" as
+  // if that were the corpus; datasets, taxonomy copy and UI strings reach readers
+  // too. Counting them here means ungoverned content cannot hide by being
+  // uncounted (see docs/CONTENT-MODEL.md).
+  const readSrc = async (rel) => {
+    const f = path.join(ROOT, rel);
+    return existsSync(f) ? await readFile(f, 'utf8') : '';
+  };
+  const provText = await readSrc('src/lib/provenance.ts');
+  // Split on the DECLARATION, not any mention — `DATASETS` also appears in
+  // getProvenance() below it, and .pop() there matched an empty tail, which
+  // reported "0 datasets, fully governed". A census that counts nothing must
+  // never read as clean.
+  const datasetVerifications = [
+    ...(provText.split('export const DATASETS')[1] ?? '').matchAll(/verification:\s*'([a-z]+)'/g),
+  ].map((m) => m[1]);
+  const byVerification = datasetVerifications.reduce((acc, v) => {
+    acc[v] = (acc[v] ?? 0) + 1;
+    return acc;
+  }, {});
+  const uiStrings = [...(await readSrc('src/lib/i18n.ts')).matchAll(/'[\w.\-]+':\s*\{[^{}]*\}/g)].length;
+
+  const contentTypes = [
+    { id: 'article', count: total, files: allArticles.length, governance: 'full' },
+    {
+      id: 'dataset',
+      count: datasetVerifications.length,
+      files: datasetVerifications.length,
+      // Only "fully governed" when there is something to govern AND all of it
+      // is sourced. Zero datasets is a parse failure, not a clean bill.
+      governance:
+        datasetVerifications.length > 0 &&
+        (byVerification.sourced ?? 0) === datasetVerifications.length
+          ? 'full'
+          : 'partial',
+      detail: byVerification,
+    },
+    { id: 'taxonomy', count: categoriesCovered, files: categoriesCovered, governance: 'none' },
+    { id: 'ui', count: uiStrings, files: uiStrings, governance: 'none' },
+  ];
+
   const dashboard = {
+    contentTypes,
     totals: {
       articles: total,
       files: articles.length,

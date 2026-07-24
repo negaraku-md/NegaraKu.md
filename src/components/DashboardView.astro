@@ -184,6 +184,60 @@ const tierColor = (s: number) =>
 </section>
 
 <section class="container block">
+  <h2>{L('Jenis kandungan', 'Content types', '内容类型')}</h2>
+  <p class="hint">
+    {L(
+      'Artikel hanyalah satu jenis kandungan. Yang lain juga sampai kepada pembaca — dikira di sini supaya tiada yang tersembunyi kerana tidak dikira.',
+      'An article is only one content type. The others reach readers too — counted here so nothing hides by being uncounted.',
+      '文章只是内容类型之一。其他内容同样面向读者——在此计数，避免因未被统计而隐形。',
+    )}
+  </p>
+  <div class="tblwrap">
+    <table class="matrix">
+      <thead>
+        <tr>
+          <th>{L('Jenis', 'Type', '类型')}</th>
+          <th>{L('Bilangan', 'Count', '数量')}</th>
+          <th>{L('Kitaran hayat', 'Lifecycle', '生命周期')}</th>
+        </tr>
+      </thead>
+      <tbody>
+        {
+          d.contentTypes.map((c) => {
+            const name = {
+              article: L('Artikel', 'Article', '文章'),
+              dataset: L('Set data', 'Dataset', '数据集'),
+              taxonomy: L('Taksonomi', 'Taxonomy copy', '分类文案'),
+              ui: L('Teks antara muka', 'UI strings', '界面文本'),
+            }[c.id] ?? c.id;
+            const gov = {
+              full: { t: L('Penuh', 'Full', '完整'), cls: 'published' },
+              partial: { t: L('Separa', 'Partial', '部分'), cls: 'in-review' },
+              none: { t: L('Tiada', 'None', '无'), cls: 'draft' },
+            }[c.governance];
+            return (
+              <tr>
+                <th class="lang">{name}</th>
+                <td class="tot">{c.count}</td>
+                <td data-status={gov.cls}>
+                  {gov.t}
+                  {c.detail && (
+                    <span class="ct-detail">
+                      {' '}
+                      ({Object.entries(c.detail).map(([k, n]) => `${n} ${k}`).join(', ')})
+                    </span>
+                  )}
+                </td>
+              </tr>
+            );
+          })
+        }
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="container block">
   <h2>{L('Struktur pengetahuan', 'Knowledge structure', '知识结构')}</h2>
   <p class="hint">
     {L('Seksyen → Kategori → Topik', 'Section → Category → Topic', '版块 → 分类 → 主题')}
@@ -319,6 +373,7 @@ const tierColor = (s: number) =>
   .matrix thead th.sub:nth-child(1), .matrix thead th.sub:nth-child(3) { border-left: 1px solid var(--line); }
   .matrix td.out { font-weight: 800; color: #fbbf24; }
   .matrix td.out.zero { color: #4ade80; }
+  .matrix .ct-detail { color: var(--muted); font-weight: 400; font-size: 0.78rem; }
   .matrix td.out a { color: inherit; text-decoration: underline; text-underline-offset: 2px; }
   .matrix td.out a:hover { color: var(--gold); }
 

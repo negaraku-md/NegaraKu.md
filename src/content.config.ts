@@ -235,6 +235,11 @@ const knowledge = defineCollection({
     // ---- misc ---------------------------------------------------------
     hero: z.string().optional(),
     featured: z.boolean().default(false),
+    /**
+     * Sponsor id from src/lib/sponsors.ts. Omit to inherit the pillar default;
+     * set "none" to opt this article out. Sensitive content is never sponsored.
+     */
+    sponsor: z.string().nullable().default(null),
     author: z.string().default('NegaraKu.md Editorial'),
   }),
 });
