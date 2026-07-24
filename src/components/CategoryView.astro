@@ -1,6 +1,6 @@
 ---
 import type { Locale, Category } from '@/lib/categories';
-import { getArchetype, getPillar, getPillarDef } from '@/lib/categories';
+import { getArchetype, getPillar, getPillarDef, categoriesInPillar, PILLARS } from '@/lib/categories';
 import type { Article } from '@/lib/content';
 import { localePath } from '@/lib/i18n';
 import PageHero from './PageHero.astro';
@@ -28,6 +28,9 @@ const arch = getArchetype(category.archetype)!;
 const pillar = getPillar(category.id);
 const pillarDef = pillar ? getPillarDef(pillar) : undefined;
 const topicCount = new Set(articles.flatMap((a) => a.data.subcategory)).size;
+// Follow the section-page hero: Sections (site total) · Categories (siblings in
+// this section) · Topics · Articles.
+const catCount = pillar ? categoriesInPillar(pillar).length : 0;
 
 const Body = {
   service: ServiceCategory,
@@ -49,8 +52,10 @@ const Body = {
   title={category.name[locale]}
   desc={category.blurb[locale]}
   stats={[
-    { value: articles.length, label: L('artikel', 'articles', '文章') },
+    { value: PILLARS.length, label: L('seksyen', 'sections', '版块') },
+    { value: catCount, label: L('kategori', 'categories', '分类') },
     { value: topicCount, label: L('topik', 'topics', '主题') },
+    { value: articles.length, label: L('artikel', 'articles', '文章') },
   ]}
 />
 
