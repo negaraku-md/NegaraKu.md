@@ -560,6 +560,8 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
 
   .pager { display: flex; flex-wrap: wrap; gap: 0.8rem; justify-content: space-between; align-items: center; margin-top: 1rem; font-size: 0.85rem; }
   .pager-top { margin-top: 0; margin-bottom: 1.1rem; padding-bottom: 1rem; border-bottom: 1px solid var(--line); }
+  /* Close the list with a matching rule, so it's bracketed top and bottom. */
+  .pager:not(.pager-top) { padding-top: 1rem; border-top: 1px solid var(--line); }
   .pg-size { display: flex; align-items: center; gap: 0.8rem; color: var(--muted); }
   .pg-size select { font: inherit; margin-left: 0.3rem; padding: 0.2rem 0.4rem; border-radius: 6px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); }
   .pg-nav { display: flex; align-items: center; gap: 0.3rem; }
