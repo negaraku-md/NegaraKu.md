@@ -1,5 +1,6 @@
 ---
 import type { Locale } from '@/lib/categories';
+import { getPillar } from '@/lib/categories';
 import { articlesForLocale } from '@/lib/content';
 import { localePath } from '@/lib/i18n';
 import PageHero from './PageHero.astro';
@@ -15,6 +16,9 @@ const { locale } = Astro.props;
 const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 const canonical = await articlesForLocale(locale);
+const secCount = new Set(canonical.map((a) => getPillar(a.data.category)).filter(Boolean)).size;
+const catCount = new Set(canonical.map((a) => a.data.category)).size;
+const topCount = new Set(canonical.flatMap((a) => (a.data.subcategory ?? []).map((s) => `${a.data.category}/${s}`))).size;
 ---
 
 <PageHero
@@ -29,7 +33,12 @@ const canonical = await articlesForLocale(locale);
     'Browse the whole knowledge base — sort, filter and search.',
     '浏览整个知识库——排序、筛选与搜索。',
   )}
-  stats={[{ value: canonical.length, label: L('artikel', 'articles', '文章') }]}
+  stats={[
+    { value: canonical.length, label: L('artikel', 'articles', '文章') },
+    { value: secCount, label: L('seksyen', 'sections', '版块') },
+    { value: catCount, label: L('kategori', 'categories', '分类') },
+    { value: topCount, label: L('topik', 'topics', '主题') },
+  ]}
 />
 
 <ArticleList locale={locale} articles={canonical} filters={['sec', 'cat', 'top', 'status']} />
