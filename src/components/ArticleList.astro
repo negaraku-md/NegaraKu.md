@@ -82,48 +82,53 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
 
 <section class="container block art-list">
   <div class="art-toolbar">
-    <div class="tabs" role="tablist">
-      <button class="tab on" data-sort="upd" data-dir="desc">{L('Terkini', 'Latest', '最新')}</button>
-      <button class="tab" data-sort="t" data-dir="asc">{L('A–Z', 'A–Z', 'A–Z')}</button>
-      <button class="tab" data-sort="src" data-dir="desc">{L('Paling banyak sumber', 'Most sourced', '来源最多')}</button>
-      <button class="tab" data-sort="conn" data-dir="desc">{L('Paling terhubung', 'Most linked', '关联最多')}</button>
+    {
+      (secs.length > 1 || cats.length > 1 || tops.length > 1 || presentStatuses.length > 1) && (
+        <div class="tb-line">
+          <span class="tb-label">{L('Tapis', 'Filter', '筛选')}</span>
+          <div class="controls">
+            {has('sec') && secs.length > 1 && (
+              <select id="f-sec">
+                <option value="">{L('Semua seksyen', 'All sections', '所有版块')}</option>
+                {secs.map(([id, name]) => <option value={id}>{name}</option>)}
+              </select>
+            )}
+            {has('cat') && cats.length > 1 && (
+              <select id="f-cat">
+                <option value="">{L('Semua kategori', 'All categories', '所有分类')}</option>
+                {cats.map(([id, name]) => <option value={id}>{name}</option>)}
+              </select>
+            )}
+            {has('top') && tops.length > 1 && (
+              <select id="f-top">
+                <option value="">{L('Semua topik', 'All topics', '所有主题')}</option>
+                {tops.map(([id, name]) => <option value={id}>{name}</option>)}
+              </select>
+            )}
+            {has('status') && presentStatuses.length > 1 && (
+              <select id="f-status">
+                <option value="">{L('Semua status', 'All statuses', '所有状态')}</option>
+                {presentStatuses.map((s) => (
+                  <option value={s}>{t(`status.${s}`, locale)} ({statusCounts[s]})</option>
+                ))}
+              </select>
+            )}
+          </div>
+        </div>
+      )
+    }
+    <div class="tb-line">
+      <span class="tb-label">{L('Isih', 'Sort', '排序')}</span>
+      <div class="tabs" role="tablist">
+        <button class="tab on" data-sort="upd" data-dir="desc">{L('Terkini', 'Latest', '最新')}</button>
+        <button class="tab" data-sort="t" data-dir="asc">{L('A–Z', 'A–Z', 'A–Z')}</button>
+        <button class="tab" data-sort="src" data-dir="desc">{L('Paling banyak sumber', 'Most sourced', '来源最多')}</button>
+        <button class="tab" data-sort="conn" data-dir="desc">{L('Paling terhubung', 'Most linked', '关联最多')}</button>
+      </div>
     </div>
-    <div class="filters">
+    <div class="tb-line">
+      <span class="tb-label">{L('Cari', 'Search', '搜索')}</span>
       <input id="f-q" type="search" placeholder={L('Cari tajuk…', 'Search titles…', '搜索标题…')} />
-      {
-        has('sec') && secs.length > 1 && (
-          <select id="f-sec">
-            <option value="">{L('Semua seksyen', 'All sections', '所有版块')}</option>
-            {secs.map(([id, name]) => <option value={id}>{name}</option>)}
-          </select>
-        )
-      }
-      {
-        has('cat') && cats.length > 1 && (
-          <select id="f-cat">
-            <option value="">{L('Semua kategori', 'All categories', '所有分类')}</option>
-            {cats.map(([id, name]) => <option value={id}>{name}</option>)}
-          </select>
-        )
-      }
-      {
-        has('top') && tops.length > 1 && (
-          <select id="f-top">
-            <option value="">{L('Semua topik', 'All topics', '所有主题')}</option>
-            {tops.map(([id, name]) => <option value={id}>{name}</option>)}
-          </select>
-        )
-      }
-      {
-        has('status') && presentStatuses.length > 1 && (
-          <select id="f-status">
-            <option value="">{L('Semua status', 'All statuses', '所有状态')}</option>
-            {presentStatuses.map((s) => (
-              <option value={s}>{t(`status.${s}`, locale)} ({statusCounts[s]})</option>
-            ))}
-          </select>
-        )
-      }
     </div>
   </div>
 
@@ -272,20 +277,30 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
 </script>
 
 <style>
-  .art-toolbar { display: flex; flex-wrap: wrap; gap: 0.8rem; justify-content: space-between; align-items: center; margin-bottom: 1rem; }
-  .tabs { display: flex; gap: 0.35rem; flex-wrap: wrap; }
+  /* Three stacked lines: Filter, Sort, Search — each labelled, with breathing room. */
+  .art-toolbar {
+    display: flex; flex-direction: column; gap: 1.1rem;
+    margin-bottom: 1.6rem; padding-bottom: 1.3rem; border-bottom: 1px solid var(--line);
+  }
+  .tb-line { display: flex; align-items: center; gap: 1rem; flex-wrap: wrap; }
+  .tb-label {
+    flex: none; min-width: 3.5rem; font-size: 0.68rem; font-weight: 800;
+    text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted);
+  }
+  .controls { display: flex; gap: 0.5rem; flex-wrap: wrap; }
+  .tabs { display: flex; gap: 0.4rem; flex-wrap: wrap; }
   .tab {
-    font-size: 0.82rem; font-weight: 700; padding: 0.35rem 0.75rem; border-radius: 999px;
+    font-size: 0.82rem; font-weight: 700; padding: 0.4rem 0.8rem; border-radius: 999px;
     border: 1px solid var(--line); background: var(--surface); color: var(--ink-soft); cursor: pointer;
   }
   .tab:hover { border-color: color-mix(in srgb, var(--gold) 45%, var(--line)); }
   .tab.on { color: #000; background: var(--gold); border-color: var(--gold); }
-  .filters { display: flex; gap: 0.4rem; flex-wrap: wrap; }
-  .filters input, .filters select {
-    font: inherit; font-size: 0.85rem; padding: 0.35rem 0.6rem; border-radius: 8px;
+  .controls select, .tb-line input[type='search'] {
+    font: inherit; font-size: 0.85rem; padding: 0.45rem 0.7rem; border-radius: 8px;
     border: 1px solid var(--line); background: var(--surface); color: var(--ink);
   }
-  .filters input:focus, .filters select:focus { outline: none; border-color: var(--gold); }
+  .tb-line input[type='search'] { min-width: min(26rem, 100%); flex: 1; max-width: 30rem; }
+  .controls select:focus, .tb-line input[type='search']:focus { outline: none; border-color: var(--gold); }
 
   .acards { display: flex; flex-direction: column; gap: 0.7rem; }
   .acards :global(.acard) {

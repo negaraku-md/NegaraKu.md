@@ -1,6 +1,6 @@
 ---
 import type { Locale, Category } from '@/lib/categories';
-import { getArchetype, getPillar, getPillarDef, categoriesInPillar } from '@/lib/categories';
+import { getArchetype, getPillar, getPillarDef } from '@/lib/categories';
 import type { Article } from '@/lib/content';
 import { localePath } from '@/lib/i18n';
 import PageHero from './PageHero.astro';
@@ -27,7 +27,7 @@ const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale
 const arch = getArchetype(category.archetype)!;
 const pillar = getPillar(category.id);
 const pillarDef = pillar ? getPillarDef(pillar) : undefined;
-const siblingCats = pillar ? categoriesInPillar(pillar).filter((c) => c.id !== category.id) : [];
+const topicCount = new Set(articles.flatMap((a) => a.data.subcategory)).size;
 
 const Body = {
   service: ServiceCategory,
@@ -48,51 +48,10 @@ const Body = {
   ]}
   title={category.name[locale]}
   desc={category.blurb[locale]}
-  stats={[{ value: articles.length, label: L('artikel', 'articles', '文章') }]}
+  stats={[
+    { value: articles.length, label: L('artikel', 'articles', '文章') },
+    { value: topicCount, label: L('topik', 'topics', '主题') },
+  ]}
 />
 
-{
-  siblingCats.length > 0 && pillarDef && (
-    <nav class="sib container" aria-label={L('Kategori lain', 'Other categories', '其他分类')}>
-      <span class="sib-lbl">
-        {L('Lagi dalam', 'More in', '更多：')} {pillarDef.name[locale]}:
-      </span>
-      {siblingCats.map((c) => (
-        <a class="sib-chip" href={localePath(`/${c.id}`, locale)}>
-          {c.icon} {c.name[locale]}
-        </a>
-      ))}
-    </nav>
-  )
-}
-
 <Body locale={locale} category={category} articles={articles} />
-
-<style>
-  .sib {
-    display: flex;
-    gap: 0.5rem;
-    flex-wrap: wrap;
-    align-items: center;
-    margin-top: 1.4rem;
-  }
-  .sib-lbl {
-    font-size: 0.8rem;
-    color: var(--muted);
-    font-weight: 700;
-  }
-  .sib-chip {
-    font-size: 0.82rem;
-    color: var(--ink-soft);
-    text-decoration: none;
-    border: 1px solid var(--line);
-    border-radius: 999px;
-    padding: 0.3rem 0.75rem;
-    background: var(--surface);
-    transition: border-color 0.15s;
-  }
-  .sib-chip:hover {
-    border-color: color-mix(in srgb, var(--gold) 55%, var(--line));
-    color: var(--ink);
-  }
-</style>
