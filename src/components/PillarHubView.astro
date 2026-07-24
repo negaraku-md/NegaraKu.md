@@ -116,6 +116,8 @@ for (const a of items) {
   /* Group title in bright ink (not gold — brand is already gold-heavy) so each
      group (Categories, Sections) stands out against the muted header by contrast. */
   .psec > header span:first-child { color: var(--ink); }
+  /* Group count: larger and legible, not the tiny letter-spaced header size. */
+  .psec > header span:last-child { font-size: 0.95rem; letter-spacing: 0; color: var(--ink-soft); font-variant-numeric: tabular-nums; }
   .psec-body { padding: 1.1rem; }
 
   .cat-grid { display: grid; gap: 0.8rem; }
