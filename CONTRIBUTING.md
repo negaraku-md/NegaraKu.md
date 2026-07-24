@@ -40,9 +40,58 @@ related: ["another-slug"]     # canonical slugs → graph edges
   especially for sensitive topics (race, religion, monarchy, politics).
 - **Curate, don't dump.** Prefer a well-written narrative over raw data.
 
-## Review status ladder
+## Article lifecycle
 
-`draft` → `reviewed` (a maintainer checked sources) → `verified` (independently corroborated).
+The status of an article is a **loop**, not a line. Only `archived` is terminal.
+
+```
+draft → in-review → reviewed → published
+                                   │
+             reviewDue passed, OR a reader suggests a correction
+                                   ▼
+                             needs-update      ← still LIVE for readers
+                                   ▼
+                              in-update        ← still LIVE for readers
+                                   ▼
+                              in-review → published   (version 0.1 → 0.2)
+
+published → archived    (repealed or superseded — retired from the site)
+```
+
+Two rules matter:
+
+- **Never send a published article back to `draft`.** `needs-update` and `in-update`
+  are live states: the reader keeps seeing the current version while the next one is
+  prepared. Dropping it to `draft` would unpublish a working page mid-edit.
+- **`needs-update` is derived, not typed.** A published article whose `reviewDue` has
+  passed is overdue by definition, so the site computes it. You don't set it by hand.
+
+When you land a change, bump `version` and add a `revisions[]` entry recording what
+changed and **who** changed it (`contributor`). That entry is rendered in the article's
+public change history — it is how you get credit.
+
+## Who can review
+
+Anyone may suggest or submit. Only a name listed in
+[`scripts/health/reviewers.txt`](scripts/health/reviewers.txt) may sign off an article
+— that name is shown to every visitor as the human behind the review. Sensitive
+(3R+1) content can never be published without one. See that file for how reviewers
+are onboarded.
+
+## Licensing — what you grant
+
+This repository is **dual-licensed**, and contributing means agreeing to both:
+
+| What | Licence |
+| --- | --- |
+| Article content under `knowledge/` | [CC BY-SA 4.0](LICENSE-CONTENT) |
+| Site source code | [MIT](LICENSE) |
+
+**ShareAlike matters:** anything you contribute to `knowledge/` — and anything anyone
+builds on it — stays under CC BY-SA 4.0. You keep authorship credit; you grant everyone
+the right to reuse and adapt with attribution. Do not paste in text you did not write
+or that is not compatibly licensed. Quoting a statute or an official source is fine and
+expected — cite it.
 
 ## Local checks before a PR
 

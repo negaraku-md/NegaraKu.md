@@ -354,6 +354,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
                         <th>{L('Versi', 'Version', '版本')}</th>
                         <th>{L('Tarikh', 'Date', '日期')}</th>
                         <th>{L('Perubahan', 'Change', '变更')}</th>
+                        <th>{L('Oleh', 'By', '修订者')}</th>
                       </tr>
                     </thead>
                     <tbody>
@@ -362,6 +363,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
                           <td>{r.version}</td>
                           <td>{fmt(r.date)}</td>
                           <td>{r.change}</td>
+                          <td>{r.contributor ?? r.reviewer ?? '—'}</td>
                         </tr>
                       ))}
                     </tbody>

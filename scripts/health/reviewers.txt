@@ -8,10 +8,43 @@
 # One name per line, exactly as it should appear in an article's `reviewer:`
 # field. Any reviewer name not listed here is an ERROR in `npm run health`.
 #
-# This list is intentionally EMPTY: no reviewer has been onboarded yet, so no
-# article may currently claim human review. AI drafts stay `status: draft`,
-# `reviewer: null`, and the badge says so honestly.
-#
 # Sensitive content (3R+1: race, religion, royalty, constitution) can never be
 # published without a name from this list.
+#
+# ---------------------------------------------------------------------------
+# HOW SOMEONE BECOMES A REVIEWER
+# ---------------------------------------------------------------------------
+#
+# Anyone may suggest or submit an edit. Being listed here is different: it is
+# the authority to make the site assert, publicly, that a human vouches for a
+# page. It is earned, not requested.
+#
+# Criteria — all four:
+#
+#   1. TRACK RECORD.   A meaningful history of accepted contributions in this
+#                      repo. Enough that their judgement is known, not assumed.
+#   2. SOURCING.       Demonstrated habit of citing primary sources (the Act,
+#                      the regulator's own publication) rather than secondary
+#                      commentary — and of saying "unverified" when it is.
+#   3. DOMAIN FOOTING. Real standing in the area they will sign off. Tax, law
+#                      and accounting pages need someone who works in them.
+#                      Reviewing is scoped: being listed does not mean being
+#                      qualified for every category.
+#   4. NEUTRALITY.     Understands the editorial guidelines and the 3R+1 rule,
+#                      and can hold a neutral, descriptive line on contested
+#                      subjects.
+#
+# Process:
+#
+#   a. An existing maintainer nominates them (or they ask, and a maintainer
+#      sponsors it) via a PR adding the name to this file.
+#   b. The PR states WHICH categories they are signing off for, and why they
+#      meet the four criteria above.
+#   c. A maintainer merges. Adding a name is a reviewed change like any other.
+#
+# Removal: a reviewer who is inactive, or who signs off content that does not
+# hold up, is removed by the same route — a PR deleting the line. Their past
+# sign-offs stay in the article history; the record is not rewritten.
+#
+# ---------------------------------------------------------------------------
 ashton-tan

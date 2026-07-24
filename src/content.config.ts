@@ -35,6 +35,12 @@ const revisionSchema = z.object({
   version: z.string(),
   date: z.coerce.date(),
   change: z.string(),
+  /**
+   * Who made or proposed this change. In an open project credit is the currency,
+   * so the contributor — including a reader who reported the error — is named in
+   * the article's public change history, not just in git.
+   */
+  contributor: z.string().nullable().default(null),
   reviewer: z.string().nullable().default(null),
   /** Why it changed — e.g. "Budget 2027 rate change". */
   reason: z.string().optional(),
