@@ -53,7 +53,79 @@ Anyone may *propose* a restricted change in a PR — the restriction is on who m
 
 ---
 
+## Contribution scopes
+
+Articles are the most visible surface, not the only one. Each scope below is a real
+place to contribute, with where it lives and who may merge changes to it.
+
+Label issues and PRs with the scope (`scope:article`, `scope:category`, …) so work
+can be found by the kind of person who wants to do it.
+
+### A. Content — the knowledge itself
+
+| Scope | Covers | Lives in |
+| --- | --- | --- |
+| **`scope:article`** | One page: facts, sources, clarity, translations, freshness | `knowledge/**` |
+| **`scope:topic`** | A cluster of articles: what belongs in it, what is missing, which article is the way in, when to split or merge | `subcategory` fields + `src/lib/subcategories.ts` |
+| **`scope:category`** | A subject area: its name, blurb, icon, which topics sit in it, and its landing page | `src/lib/categories.ts` + `src/pages/[category]` |
+| **`scope:section`** | The three pillars — Understand / Living / Doing Business: framing, tagline, which categories belong, and the "start here" path | `PILLARS` in `src/lib/categories.ts` |
+| **`scope:taxonomy`** | How knowledge connects: graph edges, `relations`, `related`, entities, and the rules for choosing them | `relations`/`related` fields, `scripts/build-graph.mjs` |
+| **`scope:terminology`** | The MS and ZH termbases, term rulings, consistency across 900+ files | `docs/plan/GLOSSARY-*.md` |
+
+**Coverage work is a first-class contribution.** "This category has no article on X"
+is as valuable as writing X — it is how the corpus finds its own gaps.
+
+### B. Product — the vehicle
+
+| Scope | Covers | Lives in |
+| --- | --- | --- |
+| **`scope:feature`** | Site capabilities and tools: search, graph, map, explore, compliance calendar, converters, checklists | `src/pages/**`, `src/components/**` |
+| **`scope:interface`** | Reader UX and **all three languages of UI copy**, navigation, reading settings | `src/lib/i18n.ts`, `src/lib/nav.ts`, components |
+| **`scope:design`** | Visual work **within the locked 1company brand** (true black, gold `#FFC000`, Montserrat/Lato) | `src/styles/**`, `scripts/build-og.mjs` |
+| **`scope:data`** | Curated datasets behind the hubs — states, companies, terminology, stats | `src/lib/states.ts`, `companies.ts`, `terminology.ts` |
+| **`scope:ai`** | Machine readability: `llms.txt`, raw Markdown endpoints, structured data, the MCP server, AEO/GEO | `src/lib/llms.ts`, `raw.ts`, `seo.ts`, `src/pages/llms*.ts` |
+| **`scope:infra`** | Build pipeline, CI, deploy, performance, **accessibility**, the health scanner | `scripts/**`, `.github/workflows/**` |
+
+### C. Project — the commons
+
+| Scope | Covers | Lives in |
+| --- | --- | --- |
+| **`scope:docs`** | Contributor and editorial documentation, onboarding | `docs/**`, `CONTRIBUTING.md` |
+| **`scope:community`** | Triage, deduping issues, answering questions, welcoming newcomers, outreach | Issues / Discussions |
+| **`scope:governance`** | Editorial guidelines, translation spec, reviewer criteria, the 3R+1 policy itself | `docs/editorial-guidelines.md`, `reviewers.txt` |
+
+### Who may merge, by scope
+
+Most scopes follow the normal rule: anyone proposes, a maintainer merges. Three carry
+extra weight:
+
+- **`scope:governance`** — changing the editorial rules or the 3R+1 policy is a
+  maintainer decision, and reviewer-list changes need the `reviewers.txt` process.
+- **`scope:design`** — the 1company brand is locked. Propose within it; do not
+  restyle the wordmark, palette or typefaces.
+- **`scope:ai`** — changes here affect how every AI system reads the corpus. Correctness
+  matters more than cleverness.
+
+### Open design work
+
+These are unresolved and genuinely open to proposals:
+
+| Where | Question | Scope |
+| --- | --- | --- |
+| Article page | How should **Related Knowledge** be chosen and ordered? | `scope:taxonomy` |
+| Category page | "What do you want to do?" — task-oriented entry | `scope:category` |
+| Category page | "Quick answers" — the short-question layer | `scope:category` |
+| Category page | "Tools & checklists" | `scope:category` + `scope:feature` |
+| Section page | "Start here" — the way into a pillar | `scope:section` |
+| Article page | The 👍/👎 vote currently writes only to `localStorage` — give it a real destination or remove it | `scope:feature` |
+
+---
+
 ## The task catalogue
+
+The most common tasks in detail. These sit mostly in `scope:article`, plus
+terminology and code — the other scopes above are newer ground and deliberately
+less prescribed, because how to do them well is still being worked out.
 
 ### 1. Feedback — report a problem
 **Who:** anyone, no account needed to read; a GitHub account to file.

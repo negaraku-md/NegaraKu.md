@@ -72,10 +72,17 @@ public change history — it is how you get credit.
 
 ## What you can contribute
 
-Nine kinds of contribution, from reporting a wrong number to writing a full article —
-with the role needed for each and what "done" looks like — are defined in
-[docs/CONTRIBUTOR-MODULE.md](docs/CONTRIBUTOR-MODULE.md). The largest open need right
-now is **translation**; see the dashboard's Outstanding column.
+Far more than articles. [docs/CONTRIBUTOR-MODULE.md](docs/CONTRIBUTOR-MODULE.md)
+defines **fifteen contribution scopes** across three families — content (article,
+topic, category, section, taxonomy, terminology), product (feature, interface,
+design, data, AI-readability, infrastructure) and the commons (docs, community,
+governance) — with where each lives, who may merge it, and what "done" means.
+
+Two good ways in:
+
+- **Translation** is the largest open need — see the dashboard's Outstanding column.
+- **Coverage gaps** ("this category has no article on X") are a first-class
+  contribution; you do not have to write it to report it.
 
 ## Who can review
 
