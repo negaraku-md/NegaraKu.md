@@ -297,7 +297,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
           <div class="acard-meta">
             <div class="meta-row">
               <span class="hlabel">${I18N.pathLabel}</span>
-              <p class="apath"><span>${r.sec}</span> › <span>${r.cat}</span> › <span>${r.top}</span></p>
+              <p class="apath"><span>${r.sec}</span><span class="sep">›</span><span>${r.cat}</span><span class="sep">›</span><span>${r.top}</span></p>
             </div>
             <div class="meta-row">
               <span class="hlabel">${I18N.detailsLabel}</span>
@@ -452,6 +452,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
   .acards :global(.acard:hover .atitle) { color: var(--gold); }
   .acards :global(.apath) { margin: 0; flex: 1; min-width: 0; padding-top: 0.2rem; font-size: 0.8rem; color: var(--muted); }
   .acards :global(.apath span) { color: var(--ink-soft); }
+  .acards :global(.apath .sep) { margin: 0 0.5rem; color: var(--muted); opacity: 0.55; font-size: 0.9rem; }
   .acards :global(.achips) { flex: 1; min-width: 0; display: flex; flex-wrap: wrap; align-items: center; gap: 0.45rem; }
   .acards :global(.chip) {
     font-size: 0.73rem; color: var(--ink-soft); border: 1px solid var(--line);
