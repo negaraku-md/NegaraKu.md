@@ -70,6 +70,13 @@ When you land a change, bump `version` and add a `revisions[]` entry recording w
 changed and **who** changed it (`contributor`). That entry is rendered in the article's
 public change history — it is how you get credit.
 
+## What you can contribute
+
+Nine kinds of contribution, from reporting a wrong number to writing a full article —
+with the role needed for each and what "done" looks like — are defined in
+[docs/CONTRIBUTOR-MODULE.md](docs/CONTRIBUTOR-MODULE.md). The largest open need right
+now is **translation**; see the dashboard's Outstanding column.
+
 ## Who can review
 
 Anyone may suggest or submit. Only a name listed in
