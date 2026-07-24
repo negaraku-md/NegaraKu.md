@@ -1,6 +1,6 @@
 ---
 import type { Locale, Pillar } from '@/lib/categories';
-import { getPillarDef, categoriesInPillar, PILLARS, getPillar } from '@/lib/categories';
+import { getPillarDef, categoriesInPillar, getPillar } from '@/lib/categories';
 import { articlesForLocale } from '@/lib/content';
 import { localePath } from '@/lib/i18n';
 
@@ -23,7 +23,6 @@ const inPillar = items.filter((a) => getPillar(a.data.category) === pillar);
 const counts: Record<string, number> = {};
 for (const a of inPillar) counts[a.data.category] = (counts[a.data.category] ?? 0) + 1;
 const featured = inPillar.filter((a) => a.data.tier === '1').slice(0, 6);
-const siblings = PILLARS.filter((p) => p.id !== pillar);
 const catHref = (id: string) => localePath(`/${id}`, locale);
 const artHref = (a: (typeof items)[number]) => localePath(`/${a.data.category}/${a.data.slug}`, locale);
 ---
@@ -33,23 +32,22 @@ const artHref = (a: (typeof items)[number]) => localePath(`/${a.data.category}/$
     <p class="crumb">
       <a href={localePath('/', locale)}>{L('Laman Utama', 'Home', '首页')}</a> / <span>{def.name[locale]}</span>
     </p>
-    <div class="badges">
-      <span class="pill tier">{def.icon} {def.name[locale]}</span>
-      <span class="pill">{inPillar.length} {L('artikel', 'articles', '篇')}</span>
-      <span class="pill">{cats.length} {L('kategori', 'categories', '分类')}</span>
+    <div class="hero-box">
+      <div class="hero-main">
+        <h1>{def.icon} {def.name[locale]}</h1>
+        <p class="lede">{def.tagline[locale]}</p>
+      </div>
+      <div class="hero-stats">
+        <div class="stat">
+          <b>{inPillar.length}</b>
+          <span>{L('artikel', 'articles', '文章')}</span>
+        </div>
+        <div class="stat">
+          <b>{cats.length}</b>
+          <span>{L('kategori', 'categories', '分类')}</span>
+        </div>
+      </div>
     </div>
-    <h1>{def.name[locale]}</h1>
-    <p class="lede">{def.tagline[locale]}</p>
-
-    <nav class="sib" aria-label={L('Seksyen lain', 'Other sections', '其他板块')}>
-      {
-        siblings.map((p) => (
-          <a class="sib-chip" href={localePath(`/${p.id}`, locale)}>
-            {p.icon} {p.name[locale]} →
-          </a>
-        ))
-      }
-    </nav>
   </div>
 </header>
 
@@ -119,15 +117,28 @@ const artHref = (a: (typeof items)[number]) => localePath(`/${a.data.category}/$
     border: 1px solid var(--line); background: var(--surface-2); color: var(--ink-soft);
   }
   .pill.tier { color: var(--gold); border-color: color-mix(in srgb, var(--gold) 45%, var(--line)); background: color-mix(in srgb, var(--gold) 9%, transparent); }
-  .art-hero h1 { margin: 0 0 0.55rem; font-family: var(--font-title); font-weight: 800; font-size: clamp(1.9rem, 4vw, 2.8rem); line-height: 1.1; }
-  .lede { color: var(--ink-soft); font-size: 1.1rem; max-width: 60ch; margin: 0 0 1.3rem; }
-  .sib { display: flex; gap: 0.5rem; flex-wrap: wrap; margin-top: 1.1rem; }
-  .sib-chip {
-    font-size: 0.82rem; color: var(--ink-soft); text-decoration: none;
-    border: 1px solid var(--line); border-radius: 999px; padding: 0.3rem 0.8rem; background: var(--surface);
-    transition: border-color 0.15s;
+  /* Boxed hero — a card, matching the section-box / counter-card standard.
+     Two columns: title + tagline left, article/category counts right, so the
+     box is filled and compact rather than a tall empty band. */
+  .hero-box {
+    display: flex; align-items: center; justify-content: space-between; gap: 1.5rem 2.5rem;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-top: 2px solid var(--gold);
+    border-radius: 16px;
+    padding: 1.3rem 1.7rem;
   }
-  .sib-chip:hover { border-color: color-mix(in srgb, var(--gold) 55%, var(--line)); color: var(--ink); }
+  .hero-main { min-width: 0; }
+  .art-hero h1 { margin: 0 0 0.4rem; font-family: var(--font-title); font-weight: 800; font-size: clamp(1.7rem, 3.6vw, 2.5rem); line-height: 1.12; }
+  .lede { color: var(--ink-soft); font-size: 1.05rem; max-width: 56ch; margin: 0; }
+  .hero-stats { display: flex; gap: 1.6rem; flex: none; }
+  .stat { text-align: center; }
+  .stat b { display: block; font-family: var(--font-title); font-weight: 800; font-size: 1.9rem; line-height: 1; color: var(--gold); }
+  .stat span { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--muted); }
+  @media (max-width: 640px) {
+    .hero-box { flex-direction: column; align-items: flex-start; }
+    .hero-stats { gap: 1.8rem; }
+  }
 
   .pillar-body { padding-block: 2rem 4rem; display: flex; flex-direction: column; gap: 1.2rem; }
   .psec {

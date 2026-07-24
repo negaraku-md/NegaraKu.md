@@ -45,35 +45,7 @@ export const DATASETS: Record<string, Provenance> = {
       en: 'Market-capitalisation and revenue figures are approximate seed values for illustration only — not yet verified against Bursa Malaysia. Do not rely on them for any decision.',
       zh: '市值与营收数字仅为示意性初始数据，尚未对照马交所核实。请勿作为任何决策依据。',
     },
-  },
-  states: {
-    label: {
-      ms: 'Negeri dan Wilayah Persekutuan',
-      en: 'States and Federal Territories',
-      zh: '各州与联邦直辖区',
-    },
-    // Names and codes are factual; the map grid is a deliberate abstraction.
-    verification: 'schematic',
-    note: {
-      ms: 'Peta ialah kartogram bergaya (grid), bukan unjuran geografi yang tepat. Nama dan kod negeri adalah tepat.',
-      en: 'The map is a stylised grid cartogram, not an accurate geographic projection. State names and codes are accurate.',
-      zh: '地图为风格化网格示意图，并非精确地理投影。州名与代码准确。',
-    },
-  },
-  terminology: {
-    label: {
-      ms: 'Istilah harian Malaysia',
-      en: 'Malaysian everyday terminology',
-      zh: '马来西亚日常用语',
-    },
-    verification: 'unverified',
-    reviewer: null,
-    note: {
-      ms: 'Senarai permulaan yang kecil dan belum disemak oleh pakar bahasa. Padanan “baku” adalah cadangan, bukan ketetapan DBP.',
-      en: 'A small starter list, not yet reviewed by a language specialist. The “standard” equivalents are suggestions, not DBP rulings.',
-      zh: '这是尚未经语言专家审阅的初始小型列表。所谓“标准”对应词为建议，并非国家语文局的裁定。',
-    },
-  },
+  },
 };
 
 export function getProvenance(id: string): Provenance | undefined {

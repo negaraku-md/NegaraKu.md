@@ -58,7 +58,6 @@ const filterCats = CATEGORIES.filter((c) => latestCatIds.has(c.id));
   <form class="search" action={localePath('/search', locale)} method="get">
     <input type="search" name="q" placeholder={L('Cari Malaysia — orang, tempat, peristiwa…', 'Search Malaysia — people, places, events…', '搜索马来西亚 — 人物、地点、事件…')} />
     <button type="submit">{t('nav.search', locale)}</button>
-    <a class="dice" href={localePath('/random', locale)} title={L('Kejutkan saya', 'Surprise me', '给我惊喜')}>🎲</a>
   </form>
   {hot.length > 0 && (
     <div class="hot">

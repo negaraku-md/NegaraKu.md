@@ -5,7 +5,7 @@
 //   1. parses every knowledge/**/*.md frontmatter,
 //   2. warns about schema problems (missing required fields), and
 //   3. writes public/api/articles.json — the data contract used by
-//      build-graph.mjs, the health scanner, and AI endpoints.
+//      build-dashboard.mjs, the health scanner, and AI endpoints.
 //
 // Runs automatically on postinstall / predev / prebuild.
 
