@@ -52,40 +52,43 @@ const { crumb, title, desc, stats } = Astro.props;
 </header>
 
 <style>
+  /* Matches the home hero: same gold-tinted gradient, big left headline, and
+     the same stat-box treatment on the right. Adds a breadcrumb (inner pages
+     need it; the home page doesn't). */
   .page-hero {
     background:
-      radial-gradient(700px 420px at 12% -20%, color-mix(in srgb, var(--gold) 12%, transparent), transparent),
-      radial-gradient(1100px 500px at 60% -30%, var(--surface-2), transparent);
+      radial-gradient(700px 420px at 12% -10%, color-mix(in srgb, var(--gold) 12%, transparent), transparent),
+      radial-gradient(1100px 500px at 60% -20%, var(--surface-2), transparent);
     border-bottom: 1px solid var(--line);
-    padding-block: 2.6rem 2.4rem;
+    padding-block: 3.4rem 3rem;
   }
   .hero-inner {
-    display: grid; grid-template-columns: 1fr auto; gap: 1.5rem 3rem; align-items: center;
+    display: grid; grid-template-columns: 1.1fr 0.9fr; gap: 2rem 3rem; align-items: center;
   }
   .hero-lead { min-width: 0; }
-  .crumb { font-size: 0.84rem; color: var(--muted); margin: 0 0 0.9rem; }
+  .crumb { font-size: 0.84rem; color: var(--muted); margin: 0 0 1rem; }
   .crumb a { color: var(--muted); text-decoration: none; }
   .crumb a:hover { color: var(--gold); }
   .crumb .cur { color: var(--ink-soft); }
   .crumb .sep { color: var(--muted); }
   .headline {
-    font-family: var(--font-title); font-weight: 900; letter-spacing: -0.025em;
-    font-size: clamp(1.9rem, 4.4vw, 3rem); line-height: 1.05; margin: 0 0 0.7rem; color: var(--ink);
+    font-family: var(--font-title); font-weight: 900; letter-spacing: -0.03em;
+    font-size: clamp(2.4rem, 5.5vw, 3.6rem); line-height: 1.03; margin: 0 0 0.9rem; color: var(--ink);
   }
-  .pitch { color: var(--ink-soft); font-size: 1.05rem; line-height: 1.6; max-width: 60ch; margin: 0; }
+  .pitch { color: var(--ink-soft); font-size: 1.1rem; line-height: 1.6; max-width: 52ch; margin: 0; }
 
-  .stats { display: flex; gap: 1rem; margin: 0; flex: none; }
+  .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(7rem, 1fr)); gap: 1rem; margin: 0; }
   .stat {
-    display: flex; flex-direction: column; align-items: flex-start; gap: 0.3rem;
-    border: 1px solid var(--line); border-radius: 14px;
-    background: color-mix(in srgb, var(--surface) 60%, transparent);
-    padding: 1.1rem 1.3rem; min-width: 6.5rem;
+    display: flex; flex-direction: column; align-items: flex-start; gap: 0.35rem;
+    border: 1px solid var(--line); border-radius: 16px;
+    background: color-mix(in srgb, var(--surface) 55%, transparent);
+    padding: 1.4rem 1.3rem;
   }
-  .stats dt { font-family: var(--font-title); font-weight: 800; font-size: clamp(1.6rem, 2.8vw, 2.1rem); line-height: 1; color: var(--gold); }
+  .stats dt { font-family: var(--font-title); font-weight: 800; font-size: clamp(1.7rem, 3vw, 2.3rem); line-height: 1; color: var(--gold); }
   .stats dd { margin: 0; color: var(--muted); font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.04em; }
 
-  @media (max-width: 720px) {
+  @media (max-width: 820px) {
     .hero-inner { grid-template-columns: 1fr; }
-    .stats { flex-wrap: wrap; }
+    .stats { grid-template-columns: repeat(auto-fit, minmax(8rem, 1fr)); }
   }
 </style>
