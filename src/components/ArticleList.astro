@@ -265,19 +265,20 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
   const esc = (s) => String(s).replace(/[<>&]/g, (c) => ({ '<': '&lt;', '>': '&gt;', '&': '&amp;' }[c]));
   const STAGE = { draft: I18N.stageDrafted, reviewed: I18N.stageReviewed, published: I18N.stagePublished };
 
-  // Chain of custody: each lifecycle status and who is accountable for it.
-  // Unknown human actor → "AI draft" (draft step) or "—"; not-yet-reached → pending.
+  // Chain of custody as a progress track: a dot per lifecycle step (filled when
+  // reached, hollow when pending) with the accountable actor + date. Unknown
+  // human actor → "AI draft" (draft) or nothing (later steps); unreached → pending.
   function custodyHtml(cust) {
     if (!cust || !cust.length) return '';
     const items = cust.map((c) => {
-      let who;
-      if (!c.reached) who = `<span class="pend">${I18N.pending}</span>`;
-      else if (c.who) who = `<b>${esc(c.who)}</b>`;
-      else who = c.key === 'draft' ? `<span class="ai">${I18N.aiDraft}</span>` : `<span class="pend">—</span>`;
+      let actor = '';
+      if (!c.reached) actor = `<span class="pend">${I18N.pending}</span>`;
+      else if (c.who) actor = `<span class="who">${esc(c.who)}</span>`;
+      else if (c.key === 'draft') actor = `<span class="ai">${I18N.aiDraft}</span>`;
       const date = c.reached && c.date ? `<time>${c.date}</time>` : '';
-      return `<li class="${c.reached ? '' : 'off'}"><span class="stg">${STAGE[c.key]}</span>${who}${date}</li>`;
+      return `<li class="${c.reached ? 'done' : 'todo'}"><span class="dot"></span><span class="stg">${STAGE[c.key]}</span>${actor}${date}</li>`;
     }).join('');
-    return `<div class="meta-row custody"><span class="hlabel">${I18N.custodyLabel}</span><ul>${items}</ul></div>`;
+    return `<div class="meta-row custody"><span class="hlabel">${I18N.custodyLabel}</span><ol class="steps">${items}</ol></div>`;
   }
 
   function render() {
@@ -483,18 +484,27 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
   }
   .acards :global(.meta-row.custody) { padding-top: 0.6rem; border-top: 1px dashed var(--line); }
 
-  /* Custody chain — one item per lifecycle status, who is accountable + when. */
-  .acards :global(.custody ul) { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 0.4rem 1.4rem; font-size: 0.76rem; }
-  .acards :global(.custody li) { display: inline-flex; align-items: baseline; gap: 0.4rem; color: var(--ink-soft); }
-  .acards :global(.custody li.off) { opacity: 0.55; }
-  .acards :global(.custody .stg) {
-    font-size: 0.6rem; font-weight: 800; text-transform: uppercase; letter-spacing: 0.06em;
-    color: var(--muted); min-width: 4.6rem;
+  /* Custody as a progress track: dot per step (filled=done, hollow=pending),
+     actor + date, with › connectors showing the drafted→reviewed→published flow. */
+  .acards :global(.custody .steps) {
+    list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap;
+    align-items: center; gap: 0.3rem 0.7rem; font-size: 0.76rem;
   }
-  .acards :global(.custody time) { color: var(--muted); font-variant-numeric: tabular-nums; }
-  .acards :global(.custody .ai) { color: var(--muted); font-weight: 600; font-style: italic; }
+  .acards :global(.custody .steps li) { display: inline-flex; align-items: center; gap: 0.4rem; color: var(--ink-soft); }
+  .acards :global(.custody .steps li:not(:last-child))::after {
+    content: '›'; margin-left: 0.4rem; color: var(--muted); opacity: 0.55; font-size: 0.9rem;
+  }
+  .acards :global(.custody li.todo) { opacity: 0.6; }
+  .acards :global(.custody .dot) { width: 0.5rem; height: 0.5rem; border-radius: 50%; flex: none; }
+  .acards :global(.custody li.done .dot) { background: var(--gold); }
+  .acards :global(.custody li.todo .dot) { background: transparent; border: 1px solid var(--muted); }
+  .acards :global(.custody .stg) {
+    font-size: 0.6rem; font-weight: 800; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted);
+  }
+  .acards :global(.custody .who) { color: var(--gold); font-weight: 700; }
+  .acards :global(.custody .ai) { color: var(--muted); font-style: italic; }
   .acards :global(.custody .pend) { color: var(--muted); font-style: italic; }
-  .acards :global(.custody b) { color: var(--gold); font-weight: 700; }
+  .acards :global(.custody time) { color: var(--muted); font-variant-numeric: tabular-nums; }
 
   .pager { display: flex; flex-wrap: wrap; gap: 0.8rem; justify-content: space-between; align-items: center; margin-top: 1rem; font-size: 0.85rem; }
   .pager-top { margin-top: 0; margin-bottom: 1.1rem; padding-bottom: 1rem; border-bottom: 1px solid var(--line); }
