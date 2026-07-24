@@ -5,6 +5,17 @@ import { getCategory, getPillar, getPillarDef, PILLARS } from '@/lib/categories'
 import { allArticles, effectiveStatus, readingTime } from '@/lib/content';
 import { subcatLabel } from '@/lib/subcategories';
 import { localePath, t } from '@/lib/i18n';
+import { readFileSync } from 'node:fs';
+
+// Optional visitor analytics, keyed by "category/slug" → { readers, google, ai }.
+// Absent until an analytics provider is wired up (see docs) — the VISITORS row
+// then shows "not tracked yet" rather than inventing numbers.
+let analytics: Record<string, { readers?: number; google?: number; ai?: number }> = {};
+try {
+  analytics = JSON.parse(readFileSync('public/api/analytics.json', 'utf8'));
+} catch {
+  analytics = {};
+}
 
 // Reusable article card-list: sort tabs, filters, paginated cards. Used on the
 // All Articles page and, pre-scoped, on section / category / topic pages — one
@@ -82,6 +93,7 @@ const rows = articles.map((a) => {
     conn,
     upd: d.updated ? new Date(d.updated).toISOString().slice(0, 10) : '',
     custody,
+    views: analytics[key] ?? null,
   };
 });
 
@@ -216,6 +228,10 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
     pathLabel: L('Laluan', 'Path', '路径'),
     detailsLabel: L('Butiran', 'Details', '详情'),
     custodyLabel: L('Jagaan', 'Custody', '保管'),
+    visitorsLabel: L('Pelawat', 'Visitors', '访客'),
+    vReaders: L('Pembaca', 'Readers', '读者'),
+    vAI: L('AI', 'AI', 'AI'),
+    notTracked: L('belum dijejak', 'not tracked yet', '尚未追踪'),
     aiDraft: L('Dibantu AI', 'AI-assisted', 'AI 辅助'),
     pending: L('belum', 'pending', '待处理'),
     stageDrafted: L('Dirangka', 'Drafted', '起草'),
@@ -278,6 +294,16 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
     return `<div class="meta-row custody"><span class="hlabel">${I18N.custodyLabel}</span><ol class="steps">${items}</ol></div>`;
   }
 
+  // Visitor analytics: Readers / Google / AI. No data source yet → each metric
+  // shows "—" and the row is tagged "not tracked yet" (never invented numbers).
+  function visitorsHtml(v) {
+    const num = (n) => (n == null ? '<b class="vn dash">—</b>' : `<b class="vn">${Number(n).toLocaleString()}</b>`);
+    const metric = (label, n) => `<span class="vm"><span class="vlbl">${label}</span>${num(n)}</span>`;
+    const note = v ? '' : `<span class="pend">${I18N.notTracked}</span>`;
+    return `<div class="meta-row visitors"><span class="hlabel">${I18N.visitorsLabel}</span>` +
+      `<div class="vwrap">${metric(I18N.vReaders, v?.readers)}${metric('Google', v?.google)}${metric(I18N.vAI, v?.ai)}${note}</div></div>`;
+  }
+
   function render() {
     const data = filtered().sort(cmp);
     const total = data.length;
@@ -315,6 +341,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
               </div>
             </div>
             ${custodyHtml(r.custody)}
+            ${visitorsHtml(r.views)}
           </div>
         </article>`).join('');
     }
@@ -506,6 +533,16 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
   .acards :global(.custody .ai) { color: var(--muted); font-style: italic; }
   .acards :global(.custody .pend) { color: var(--muted); font-style: italic; }
   .acards :global(.custody time) { color: var(--muted); font-variant-numeric: tabular-nums; }
+
+  /* Visitor analytics — Readers / Google / AI. Placeholder until data exists. */
+  .acards :global(.visitors .vwrap) { display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.3rem 1.4rem; font-size: 0.76rem; }
+  .acards :global(.visitors .vm) { display: inline-flex; align-items: baseline; gap: 0.4rem; }
+  .acards :global(.visitors .vlbl) {
+    font-size: 0.6rem; font-weight: 800; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted);
+  }
+  .acards :global(.visitors .vn) { color: var(--ink); font-weight: 700; font-variant-numeric: tabular-nums; }
+  .acards :global(.visitors .vn.dash) { color: var(--muted); font-weight: 600; }
+  .acards :global(.visitors .pend) { color: var(--muted); font-style: italic; }
 
   .pager { display: flex; flex-wrap: wrap; gap: 0.8rem; justify-content: space-between; align-items: center; margin-top: 1rem; font-size: 0.85rem; }
   .pager-top { margin-top: 0; margin-bottom: 1.1rem; padding-bottom: 1rem; border-bottom: 1px solid var(--line); }
