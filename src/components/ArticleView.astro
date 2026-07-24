@@ -9,6 +9,18 @@ import { subcatLabel } from '@/lib/subcategories';
 import { resolveSponsor } from '@/lib/sponsors';
 import TrustBadge from './TrustBadge.astro';
 import FeedbackBar from './FeedbackBar.astro';
+import { readFileSync } from 'node:fs';
+
+// Visitor analytics (see docs/ANALYTICS.md): three buckets — human readers,
+// search-engine crawlers, AI crawlers — tracked per named bot, summarised here.
+// Absent until an edge-logging layer is wired up → "not tracked yet".
+type Bucket = number | { total: number; byBot?: Record<string, number> };
+let analytics: Record<string, { readers?: number; search?: Bucket; ai?: Bucket }> = {};
+try {
+  analytics = JSON.parse(readFileSync('public/api/analytics.json', 'utf8'));
+} catch {
+  analytics = {};
+}
 
 // THE THREE-LAYER ARTICLE.
 //   Layer 1  the 30-second answer      — what AI assistants extract and cite
@@ -38,6 +50,19 @@ const sensitive = d.sensitivity !== 'none';
 // Sponsorship is data (src/lib/sponsors.ts): explicit article sponsor wins, else
 // the pillar default. Sensitive content is never sponsored.
 const sponsor = resolveSponsor(d.sponsor, pillar, sensitive);
+
+// Visitor buckets for this article, summarised (per-bot detail → hover title).
+const views = analytics[`${d.category}/${d.slug}`] ?? null;
+const bTotal = (x?: Bucket) => (x == null ? null : typeof x === 'object' ? x.total : x);
+const bBreak = (x?: Bucket) =>
+  x && typeof x === 'object' && x.byBot
+    ? Object.entries(x.byBot).map(([k, n]) => `${k}: ${n.toLocaleString()}`).join(' · ')
+    : '';
+const visitorRows = [
+  { label: L('Pembaca', 'Readers', '读者'), x: views?.readers as Bucket | undefined },
+  { label: L('Enjin carian', 'Search', '搜索引擎'), x: views?.search },
+  { label: 'AI', x: views?.ai },
+];
 const SENS_LABEL: Record<string, string> = {
   race: L('Kaum', 'Race', '种族'),
   religion: L('Agama', 'Religion', '宗教'),
@@ -499,6 +524,21 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
         <div class="r"><span>{L('Versi', 'Version', '版本')}</span><span>{d.version}</span></div>
         <div class="r"><span>{L('Bahasa induk', 'Master language', '主语言')}</span><span>{d.masterLanguage.toUpperCase()}</span></div>
         <div class="r"><span>{L('Sumber', 'Sources', '来源')}</span><span>{d.sources.length}</span></div>
+
+        <div class="r r-custody-head">
+          <span>{L('Pelawat', 'Visitors', '访客')}</span>
+          {!views && <span class="muted vnote">{L('belum dijejak', 'not tracked yet', '尚未追踪')}</span>}
+        </div>
+        {
+          visitorRows.map((vr) => (
+            <div class="r r-visit">
+              <span>{vr.label}</span>
+              <span class="vval" title={bBreak(vr.x) || undefined}>
+                {bTotal(vr.x) == null ? '—' : bTotal(vr.x)!.toLocaleString()}
+              </span>
+            </div>
+          ))
+        }
       </div>
 
       <div class="side-box">
@@ -687,6 +727,10 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
   .trust .r-sens .muted { color: var(--muted); }
   /* Label sitting directly above the custody timeline (no divider between them). */
   .trust .r-custody-head { border-bottom: 0; padding: 0.5rem 0.95rem 0.15rem; }
+  .trust .r-custody-head .vnote { font-size: 0.72rem; font-style: italic; }
+  .trust .r-visit span:first-child { padding-left: 0.2rem; }
+  .trust .r-visit .vval { color: var(--ink); font-weight: 700; font-variant-numeric: tabular-nums; }
+  .trust .r-visit .vval[title] { cursor: help; text-decoration: underline dotted color-mix(in srgb, var(--muted) 60%, transparent); text-underline-offset: 3px; }
 
   /* Chain of custody — Drafted → Reviewed → Published timeline. */
   .chain {
