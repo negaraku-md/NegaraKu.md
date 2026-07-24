@@ -112,7 +112,7 @@ export const SUBCATEGORY_LABELS: Record<string, Record<Locale, string>> = {
   trade: { ms: 'Perdagangan', en: 'Trade', zh: '贸易' },
   'monetary-policy': { ms: 'Dasar Monetari', en: 'Monetary policy', zh: '货币政策' },
   policy: { ms: 'Dasar', en: 'Policy', zh: '政策' },
-  institutions: { ms: 'Institusi', en: 'Institutions', zh: '机构' },
+  // `institutions` is already defined under government above — shared label.
 };
 
 /** Display order per category. Anything unlisted sorts to the end. */
