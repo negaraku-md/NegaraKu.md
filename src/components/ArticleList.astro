@@ -132,29 +132,53 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
     </div>
   </div>
 
-  <div class="acards" id="alist-body"></div>
-
-  <div class="pager" id="pager">
+  <div class="pager pager-top">
     <div class="pg-size">
       <label>{L('Baris', 'Rows', '每页')}
-        <select id="pg-size">
+        <select class="pg-size-sel">
           <option>25</option>
           <option>50</option>
           <option>100</option>
         </select>
       </label>
-      <span id="pg-count" class="pg-count"></span>
+      <span class="pg-count"></span>
     </div>
     <div class="pg-nav">
-      <button id="pg-first" title={L('Pertama', 'First', '首页')}>«</button>
-      <button id="pg-prev" title={L('Sebelum', 'Prev', '上一页')}>‹</button>
+      <button class="pg-first" title={L('Pertama', 'First', '首页')}>«</button>
+      <button class="pg-prev" title={L('Sebelum', 'Prev', '上一页')}>‹</button>
       <span class="pg-of">
         {L('Halaman', 'Page', '第')}
-        <input id="pg-no" type="number" min="1" value="1" />
-        / <span id="pg-total">1</span>
+        <input class="pg-no" type="number" min="1" value="1" />
+        / <span class="pg-total">1</span>
       </span>
-      <button id="pg-next" title={L('Seterusnya', 'Next', '下一页')}>›</button>
-      <button id="pg-last" title={L('Akhir', 'Last', '末页')}>»</button>
+      <button class="pg-next" title={L('Seterusnya', 'Next', '下一页')}>›</button>
+      <button class="pg-last" title={L('Akhir', 'Last', '末页')}>»</button>
+    </div>
+  </div>
+
+  <div class="acards" id="alist-body"></div>
+
+  <div class="pager">
+    <div class="pg-size">
+      <label>{L('Baris', 'Rows', '每页')}
+        <select class="pg-size-sel">
+          <option>25</option>
+          <option>50</option>
+          <option>100</option>
+        </select>
+      </label>
+      <span class="pg-count"></span>
+    </div>
+    <div class="pg-nav">
+      <button class="pg-first" title={L('Pertama', 'First', '首页')}>«</button>
+      <button class="pg-prev" title={L('Sebelum', 'Prev', '上一页')}>‹</button>
+      <span class="pg-of">
+        {L('Halaman', 'Page', '第')}
+        <input class="pg-no" type="number" min="1" value="1" />
+        / <span class="pg-total">1</span>
+      </span>
+      <button class="pg-next" title={L('Seterusnya', 'Next', '下一页')}>›</button>
+      <button class="pg-last" title={L('Akhir', 'Last', '末页')}>»</button>
     </div>
   </div>
 </section>
@@ -170,6 +194,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
     min: L('min baca', 'min read', '分钟'),
     master: L('Induk', 'Master', '主语言'),
     sources: L('sumber', 'sources', '来源'),
+    linked: L('pautan', 'links', '关联'),
     updated: L('Dikemas kini', 'Updated', '更新'),
     nextReview: L('Semakan seterusnya', 'Next review', '下次审阅'),
   })}
@@ -180,6 +205,8 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
   const I18N = JSON.parse(document.getElementById('articles-i18n')?.textContent || '{}');
   const $ = (id) => document.getElementById(id);
   const on = (id, ev, fn) => { const el = $(id); if (el) el.addEventListener(ev, fn); };
+  const $$ = (cls) => Array.from(document.querySelectorAll('.' + cls));
+  const onAll = (cls, ev, fn) => $$(cls).forEach((el) => el.addEventListener(ev, fn));
 
   const state = { sort: 'upd', dir: 'desc', q: '', sec: '', cat: '', top: '', st: '', page: 1, size: 25 };
 
@@ -233,6 +260,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
               ? `<a class="on" href="${langHref(l, r.p)}" title="${r.t} — ${l.toUpperCase()}">${l.toUpperCase()}</a>`
               : `<span class="off">${l.toUpperCase()}</span>`).join('')}</span>
             <span class="chip">${r.src} ${I18N.sources}</span>
+            <span class="chip">${r.conn} ${I18N.linked}</span>
             <span class="chip">${r.min} ${I18N.min}</span>
             <span class="chip dim">${I18N.updated} ${r.upd}</span>
           </div>
@@ -241,12 +269,13 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
 
     const a = total ? start + 1 : 0;
     const b = Math.min(start + state.size, total);
-    $('pg-count').textContent = I18N.showing.replace('{a}', a).replace('{b}', b).replace('{n}', total);
-    $('pg-total').textContent = pages;
-    $('pg-no').value = state.page;
-    $('pg-no').max = pages;
-    $('pg-first').disabled = $('pg-prev').disabled = state.page <= 1;
-    $('pg-next').disabled = $('pg-last').disabled = state.page >= pages;
+    const countTxt = I18N.showing.replace('{a}', a).replace('{b}', b).replace('{n}', total);
+    $$('pg-count').forEach((el) => (el.textContent = countTxt));
+    $$('pg-total').forEach((el) => (el.textContent = pages));
+    $$('pg-no').forEach((el) => { el.value = state.page; el.max = pages; });
+    $$('pg-size-sel').forEach((el) => (el.value = String(state.size)));
+    [...$$('pg-first'), ...$$('pg-prev')].forEach((el) => (el.disabled = state.page <= 1));
+    [...$$('pg-next'), ...$$('pg-last')].forEach((el) => (el.disabled = state.page >= pages));
   }
 
   function go(page) { state.page = page; render(); }
@@ -263,12 +292,12 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
   on('f-cat', 'change', (e) => { state.cat = e.target.value; state.page = 1; render(); });
   on('f-top', 'change', (e) => { state.top = e.target.value; state.page = 1; render(); });
   on('f-status', 'change', (e) => { state.st = e.target.value; state.page = 1; render(); });
-  on('pg-size', 'change', (e) => { state.size = +e.target.value; state.page = 1; render(); });
-  on('pg-first', 'click', () => go(1));
-  on('pg-prev', 'click', () => go(state.page - 1));
-  on('pg-next', 'click', () => go(state.page + 1));
-  on('pg-last', 'click', () => go(Math.ceil(filtered().length / state.size)));
-  on('pg-no', 'change', (e) => {
+  onAll('pg-size-sel', 'change', (e) => { state.size = +e.target.value; state.page = 1; render(); });
+  onAll('pg-first', 'click', () => go(1));
+  onAll('pg-prev', 'click', () => go(state.page - 1));
+  onAll('pg-next', 'click', () => go(state.page + 1));
+  onAll('pg-last', 'click', () => go(Math.ceil(filtered().length / state.size)));
+  onAll('pg-no', 'change', (e) => {
     const n = Math.max(1, Math.min(+e.target.value || 1, Math.ceil(filtered().length / state.size)));
     go(n);
   });
@@ -342,6 +371,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
   .acards :global(.langs .off) { color: color-mix(in srgb, var(--muted) 45%, transparent); }
 
   .pager { display: flex; flex-wrap: wrap; gap: 0.8rem; justify-content: space-between; align-items: center; margin-top: 1rem; font-size: 0.85rem; }
+  .pager-top { margin-top: 0; margin-bottom: 1.1rem; padding-bottom: 1rem; border-bottom: 1px solid var(--line); }
   .pg-size { display: flex; align-items: center; gap: 0.8rem; color: var(--muted); }
   .pg-size select { font: inherit; margin-left: 0.3rem; padding: 0.2rem 0.4rem; border-radius: 6px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); }
   .pg-nav { display: flex; align-items: center; gap: 0.3rem; }
