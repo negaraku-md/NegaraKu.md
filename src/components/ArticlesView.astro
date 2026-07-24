@@ -1,7 +1,8 @@
 ---
 import type { Locale } from '@/lib/categories';
-import { getCategory } from '@/lib/categories';
+import { getCategory, getPillar, getPillarDef, PILLARS } from '@/lib/categories';
 import { articlesForLocale, allArticles, effectiveStatus, readingTime } from '@/lib/content';
+import { subcatLabel } from '@/lib/subcategories';
 import { localePath, t } from '@/lib/i18n';
 
 // Articles index — a browsable, sortable, paginated list of the whole corpus.
@@ -28,12 +29,18 @@ const rows = canonical.map((a) => {
   const d = a.data;
   const key = `${d.category}/${d.slug}`;
   const conn = (d.related?.length ?? 0) + (d.relations?.length ?? 0);
+  const pillar = getPillar(d.category);
+  const topic = d.subcategory?.[0];
   return {
     t: d.title,
     h: localePath(`/${d.category}/${d.slug}`, locale),
     p: `/${d.category}/${d.slug}`, // locale-agnostic; client builds per-language links
+    sec: pillar ? getPillarDef(pillar)?.name[locale] ?? pillar : '—',
+    secId: pillar ?? '',
     cat: getCategory(d.category)?.name[locale] ?? d.category,
     catId: d.category,
+    top: topic ? subcatLabel(topic, locale) : '—',
+    ml: (d.masterLanguage ?? d.lang ?? 'ms').toUpperCase(),
     st: effectiveStatus(a),
     langs: [...(langsByKey.get(key) ?? [])].sort(),
     src: d.sources?.length ?? 0,
@@ -43,6 +50,11 @@ const rows = canonical.map((a) => {
   };
 });
 
+// Sections (pillars) present, in canonical pillar order.
+const secs = PILLARS.filter((p) => rows.some((r) => r.secId === p.id)).map((p) => [
+  p.id,
+  p.name[locale],
+]);
 // Distinct categories for the filter, label-sorted.
 const cats = [...new Map(rows.map((r) => [r.catId, r.cat])).entries()].sort((a, b) =>
   a[1] < b[1] ? -1 : 1,
@@ -83,6 +95,10 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
     </div>
     <div class="filters">
       <input id="f-q" type="search" placeholder={L('Cari tajuk…', 'Search titles…', '搜索标题…')} />
+      <select id="f-sec">
+        <option value="">{L('Semua seksyen', 'All sections', '所有版块')}</option>
+        {secs.map(([id, name]) => <option value={id}>{name}</option>)}
+      </select>
       <select id="f-cat">
         <option value="">{L('Semua kategori', 'All categories', '所有分类')}</option>
         {cats.map(([id, name]) => <option value={id}>{name}</option>)}
@@ -96,22 +112,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
     </div>
   </div>
 
-  <div class="tblwrap">
-    <table class="alist">
-      <thead>
-        <tr>
-          <th class="sortable" data-sort="t">{L('Tajuk', 'Title', '标题')}</th>
-          <th class="sortable" data-sort="cat">{L('Kategori', 'Category', '分类')}</th>
-          <th class="sortable" data-sort="st">{L('Status', 'Status', '状态')}</th>
-          <th>{L('Bahasa', 'Languages', '语言')}</th>
-          <th class="sortable num" data-sort="src">{L('Sumber', 'Sources', '来源')}</th>
-          <th class="sortable num" data-sort="min">{L('Baca', 'Read', '阅读')}</th>
-          <th class="sortable num" data-sort="upd">{L('Dikemas kini', 'Updated', '更新')}</th>
-        </tr>
-      </thead>
-      <tbody id="alist-body"></tbody>
-    </table>
-  </div>
+  <div class="acards" id="alist-body"></div>
 
   <div class="pager" id="pager">
     <div class="pg-size">
@@ -146,7 +147,10 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
     status: Object.fromEntries(LIFECYCLE.map((s) => [s, t(`status.${s}`, locale)])),
     showing: L('{a}–{b} drpd {n}', '{a}–{b} of {n}', '第 {a}–{b} 项，共 {n}'),
     empty: L('Tiada artikel sepadan.', 'No matching articles.', '没有匹配的文章。'),
-    min: L('min', 'min', '分'),
+    min: L('min baca', 'min read', '分钟'),
+    master: L('Induk', 'Master', '主语言'),
+    sources: L('sumber', 'sources', '来源'),
+    updated: L('Dikemas kini', 'Updated', '更新'),
   })}
 ></script>
 
@@ -155,7 +159,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
   const I18N = JSON.parse(document.getElementById('articles-i18n')?.textContent || '{}');
   const $ = (id) => document.getElementById(id);
 
-  const state = { sort: 'upd', dir: 'desc', q: '', cat: '', st: '', page: 1, size: 25 };
+  const state = { sort: 'upd', dir: 'desc', q: '', sec: '', cat: '', st: '', page: 1, size: 25 };
 
   const cmp = (a, b) => {
     const k = state.sort;
@@ -169,6 +173,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
   function filtered() {
     return rows.filter((r) =>
       (!state.q || r.t.toLowerCase().includes(state.q)) &&
+      (!state.sec || r.secId === state.sec) &&
       (!state.cat || r.catId === state.cat) &&
       (!state.st || r.st === state.st),
     );
@@ -189,21 +194,24 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
 
     const body = $('alist-body');
     if (!slice.length) {
-      body.innerHTML = `<tr><td colspan="7" class="empty">${I18N.empty}</td></tr>`;
+      body.innerHTML = `<p class="empty">${I18N.empty}</p>`;
     } else {
       const langHref = (l, p) => (l === 'ms' ? p : `/${l}${p}`);
       body.innerHTML = slice.map((r) => `
-        <tr>
-          <td><a href="${r.h}">${r.t}</a></td>
-          <td>${r.cat}</td>
-          <td><span class="st ${STATUS_CLASS[r.st] || 'muted'}">${I18N.status[r.st] || r.st}</span></td>
-          <td class="langs">${['ms','en','zh'].map((l) => r.langs.includes(l)
-            ? `<a class="on" href="${langHref(l, r.p)}" title="${r.t} — ${l.toUpperCase()}">${l.toUpperCase()}</a>`
-            : `<span class="off">${l.toUpperCase()}</span>`).join('')}</td>
-          <td class="num">${r.src}</td>
-          <td class="num">${r.min} ${I18N.min}</td>
-          <td class="num">${r.upd}</td>
-        </tr>`).join('');
+        <article class="acard">
+          <a class="atitle" href="${r.h}">${r.t}</a>
+          <p class="apath"><span>${r.sec}</span> › <span>${r.cat}</span> › <span>${r.top}</span></p>
+          <div class="achips">
+            <span class="st ${STATUS_CLASS[r.st] || 'muted'}">${I18N.status[r.st] || r.st}</span>
+            <span class="chip">${I18N.master}: <b>${r.ml}</b></span>
+            <span class="chip langs">${['ms','en','zh'].map((l) => r.langs.includes(l)
+              ? `<a class="on" href="${langHref(l, r.p)}" title="${r.t} — ${l.toUpperCase()}">${l.toUpperCase()}</a>`
+              : `<span class="off">${l.toUpperCase()}</span>`).join('')}</span>
+            <span class="chip">${r.src} ${I18N.sources}</span>
+            <span class="chip">${r.min} ${I18N.min}</span>
+            <span class="chip dim">${I18N.updated} ${r.upd}</span>
+          </div>
+        </article>`).join('');
     }
 
     const a = total ? start + 1 : 0;
@@ -226,18 +234,9 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
       state.sort = btn.dataset.sort; state.dir = btn.dataset.dir; state.page = 1; render();
     });
   });
-  // Sortable headers (toggle direction on repeat)
-  document.querySelectorAll('th.sortable').forEach((th) => {
-    th.addEventListener('click', () => {
-      const k = th.dataset.sort;
-      if (state.sort === k) state.dir = state.dir === 'asc' ? 'desc' : 'asc';
-      else { state.sort = k; state.dir = k === 'upd' || k === 'src' ? 'desc' : 'asc'; }
-      document.querySelectorAll('.tab').forEach((x) => x.classList.remove('on'));
-      state.page = 1; render();
-    });
-  });
   // Filters
   $('f-q').addEventListener('input', (e) => { state.q = e.target.value.trim().toLowerCase(); state.page = 1; render(); });
+  $('f-sec').addEventListener('change', (e) => { state.sec = e.target.value; state.page = 1; render(); });
   $('f-cat').addEventListener('change', (e) => { state.cat = e.target.value; state.page = 1; render(); });
   $('f-status').addEventListener('change', (e) => { state.st = e.target.value; state.page = 1; render(); });
   // Pagination
@@ -278,24 +277,32 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
   }
   .filters input:focus, .filters select:focus { outline: none; border-color: var(--gold); }
 
-  .tblwrap { overflow-x: auto; border: 1px solid var(--line); border-radius: 12px; }
-  .alist { width: 100%; border-collapse: collapse; font-size: 0.88rem; }
-  .alist th, .alist td { text-align: left; padding: 0.6rem 0.8rem; border-bottom: 1px solid var(--line); white-space: nowrap; }
-  .alist thead th { font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.04em; color: var(--muted); background: var(--surface-2); }
-  .alist th.sortable { cursor: pointer; user-select: none; }
-  .alist th.sortable:hover { color: var(--gold); }
-  .alist th.num, .alist td.num { text-align: right; font-variant-numeric: tabular-nums; }
-  .alist tbody tr:hover { background: var(--surface); }
-  .alist td:first-child { white-space: normal; min-width: 18rem; }
-  .alist td a { color: var(--ink); text-decoration: none; font-weight: 600; }
-  .alist td a:hover { color: var(--gold); text-decoration: underline; }
-  .alist td.empty { text-align: center; color: var(--muted); padding: 2rem; }
-  .st { font-size: 0.7rem; font-weight: 800; border-radius: 999px; padding: 0.08rem 0.45rem; border: 1px solid var(--line); }
+  /* Card per article — all 10 fields readable without horizontal scroll. */
+  .acards { display: flex; flex-direction: column; gap: 0.6rem; }
+  .acard {
+    border: 1px solid var(--line); border-radius: 12px; background: var(--surface);
+    padding: 0.85rem 1rem;
+  }
+  .acard:hover { border-color: color-mix(in srgb, var(--gold) 40%, var(--line)); }
+  .atitle { display: inline-block; font-family: var(--font-title); font-weight: 700; font-size: 1.02rem; color: var(--ink); text-decoration: none; }
+  .atitle:hover { color: var(--gold); text-decoration: underline; }
+  .apath { margin: 0.25rem 0 0.55rem; font-size: 0.8rem; color: var(--muted); }
+  .apath span { color: var(--ink-soft); }
+  .achips { display: flex; flex-wrap: wrap; align-items: center; gap: 0.4rem; }
+  .chip {
+    font-size: 0.74rem; color: var(--ink-soft); border: 1px solid var(--line);
+    background: var(--surface-2); border-radius: 999px; padding: 0.12rem 0.55rem;
+  }
+  .chip b { color: var(--gold); font-weight: 800; }
+  .chip.dim { color: var(--muted); }
+  .empty { text-align: center; color: var(--muted); padding: 2.5rem; border: 1px dashed var(--line); border-radius: 12px; }
+  .st { font-size: 0.72rem; font-weight: 800; border-radius: 999px; padding: 0.12rem 0.55rem; border: 1px solid var(--line); }
   .st.ok { color: #4ade80; border-color: rgba(74,222,128,.35); background: rgba(74,222,128,.1); }
   .st.warn { color: #fbbf24; border-color: rgba(251,191,36,.35); background: rgba(251,191,36,.1); }
   .st.info { color: #60a5fa; border-color: rgba(96,165,250,.35); background: rgba(96,165,250,.1); }
   .st.muted { color: var(--muted); }
-  .langs span, .langs a { font-size: 0.66rem; font-weight: 800; margin-right: 0.2rem; text-decoration: none; }
+  .langs.chip { padding-right: 0.35rem; }
+  .langs a, .langs span { font-size: 0.7rem; font-weight: 800; margin-left: 0.15rem; text-decoration: none; }
   .langs a.on { color: var(--gold); }
   .langs a.on:hover { text-decoration: underline; }
   .langs .off { color: color-mix(in srgb, var(--muted) 45%, transparent); }
