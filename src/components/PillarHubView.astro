@@ -23,6 +23,9 @@ const items = await articlesForLocale(locale);
 const inPillar = items.filter((a) => getPillar(a.data.category) === pillar);
 const counts: Record<string, number> = {};
 for (const a of inPillar) counts[a.data.category] = (counts[a.data.category] ?? 0) + 1;
+const topicCount = new Set(
+  inPillar.flatMap((a) => (a.data.subcategory ?? []).map((s) => `${a.data.category}/${s}`)),
+).size;
 const catHref = (id: string) => localePath(`/${id}`, locale);
 ---
 
@@ -32,8 +35,9 @@ const catHref = (id: string) => localePath(`/${id}`, locale);
   title={def.name[locale]}
   desc={def.tagline[locale]}
   stats={[
-    { value: inPillar.length, label: L('artikel', 'articles', '文章') },
     { value: cats.length, label: L('kategori', 'categories', '分类') },
+    { value: topicCount, label: L('topik', 'topics', '主题') },
+    { value: inPillar.length, label: L('artikel', 'articles', '文章') },
   ]}
 />
 
