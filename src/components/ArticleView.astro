@@ -47,6 +47,9 @@ const pillar = getPillar(d.category);
 const pillarDef = pillar ? getPillarDef(pillar) : undefined;
 const isBusiness = pillar === 'doing-business';
 const sensitive = d.sensitivity !== 'none';
+// A sensitive article that is already live gets a calmer, accurate notice — not
+// the "requires review before publication" warning, which only fits pre-live states.
+const sensitiveLive = sensitive && (d.status === 'published' || d.status === 'reviewed');
 // Sponsorship is data (src/lib/sponsors.ts): explicit article sponsor wins, else
 // the pillar default. Sensitive content is never sponsored.
 const sponsor = resolveSponsor(d.sponsor, pillar, sensitive);
@@ -213,14 +216,20 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
 
   {
     sensitive && (
-      <div class="sens">
+      <div class={sensitiveLive ? 'sens sens-live' : 'sens'}>
         <b>🔒 {L('Kandungan sensitif', 'Sensitive content', '敏感内容')}</b>
         <p>
-          {L(
-            'Topik ini tergolong dalam kategori sensitif dan memerlukan semakan manusia sebelum diterbitkan sepenuhnya. Ia dibentangkan secara deskriptif dan neutral sahaja.',
-            'This topic falls under a sensitive category and requires human review before full publication. It is presented descriptively and neutrally only.',
-            '本主题属于敏感类别，需经人工审阅后方可正式发布。内容仅作中立、描述性呈现。',
-          )}
+          {sensitiveLive
+            ? L(
+                'Topik ini tergolong dalam kategori sensitif dan dibentangkan secara deskriptif dan neutral sahaja.',
+                'This topic falls under a sensitive category and is presented descriptively and neutrally.',
+                '本主题属于敏感类别，内容仅作中立、描述性呈现。',
+              )
+            : L(
+                'Topik ini tergolong dalam kategori sensitif dan memerlukan semakan manusia sebelum diterbitkan sepenuhnya. Ia dibentangkan secara deskriptif dan neutral sahaja.',
+                'This topic falls under a sensitive category and requires human review before full publication. It is presented descriptively and neutrally only.',
+                '本主题属于敏感类别，需经人工审阅后方可正式发布。内容仅作中立、描述性呈现。',
+              )}
         </p>
       </div>
     )
@@ -586,6 +595,9 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
   }
   .sens b { color: #f87171; font-family: var(--font-title); font-size: 0.95rem; }
   .sens p { margin: 0.35rem 0 0; color: var(--ink-soft); font-size: 0.88rem; }
+  /* Live sensitive content: neutral notice, not an alarm (no red). */
+  .sens-live { border-color: var(--line); background: var(--surface-2); }
+  .sens-live b { color: var(--ink); }
 
   .layout { display: grid; grid-template-columns: minmax(0, 1fr) 260px; gap: 2.2rem; align-items: start; }
 
