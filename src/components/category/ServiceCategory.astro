@@ -51,3 +51,30 @@ const inSub = (s: string) => articles.filter((a) => a.data.subcategory.includes(
     </div>
   </div>
 </section>
+
+<style>
+  /* Section box + topic cards. This block was accidentally truncated when the
+     other archetype sections were removed; restored to the neutral section-box
+     standard used across the site. */
+  .catsec {
+    background: var(--surface); border: 1px solid var(--line);
+    border-radius: 12px; overflow: hidden;
+  }
+  .catsec > header {
+    display: flex; justify-content: space-between; align-items: center; gap: 0.5rem;
+    padding: 0.45rem 0.95rem; font-size: 0.67rem; font-weight: 800; letter-spacing: 0.1em;
+    text-transform: uppercase; color: var(--muted); background: var(--surface-2);
+    border-bottom: 1px solid var(--line);
+  }
+  .catsec-body { padding: 1.1rem; }
+  .topic-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); gap: 0.8rem; }
+  .topic-card {
+    display: flex; flex-direction: column; gap: 0.25rem;
+    background: var(--surface-2); border: 1px solid var(--line); border-radius: 10px;
+    padding: 0.9rem 1rem; text-decoration: none; color: inherit;
+    transition: border-color 0.15s ease, transform 0.15s ease;
+  }
+  .topic-card:hover { border-color: color-mix(in srgb, var(--gold) 55%, var(--line)); transform: translateY(-2px); }
+  .topic-card b { font-family: var(--font-title); font-size: 1rem; color: var(--ink); }
+  .tc-count { color: var(--muted); font-size: 0.85rem; }
+</style>
