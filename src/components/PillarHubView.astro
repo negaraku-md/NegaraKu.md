@@ -29,7 +29,7 @@ const catHref = (id: string) => localePath(`/${id}`, locale);
 <PageHero
   locale={locale}
   crumb={[{ label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) }, { label: def.name[locale] }]}
-  title={`${def.icon} ${def.name[locale]}`}
+  title={def.name[locale]}
   desc={def.tagline[locale]}
   stats={[
     { value: inPillar.length, label: L('artikel', 'articles', '文章') },

@@ -48,7 +48,8 @@ const cols = [
         <p class="nl-sub">{L('Berita ringkas tentang artikel baharu. Tiada spam.', 'Occasional notes on new articles. No spam.', '偶尔发送新文章通知。绝无垃圾邮件。')}</p>
       </div>
       <div class="nl-row">
-        <input type="email" name="email" required placeholder={L('e-mel anda', 'your email', '你的邮箱')} />
+        <input type="text" name="name" required placeholder={L('nama anda', 'your name', '你的姓名')} aria-label={L('Nama', 'Name', '姓名')} />
+        <input type="email" name="email" required placeholder={L('e-mel anda', 'your email', '你的邮箱')} aria-label={L('E-mel', 'Email', '邮箱')} />
         <button type="submit">{L('Langgan', 'Subscribe', '订阅')}</button>
       </div>
     </form>

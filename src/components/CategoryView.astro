@@ -46,7 +46,7 @@ const Body = {
     ...(pillarDef ? [{ label: pillarDef.name[locale], href: localePath(`/${pillar}`, locale) }] : []),
     { label: category.name[locale] },
   ]}
-  title={`${category.icon} ${category.name[locale]}`}
+  title={category.name[locale]}
   desc={category.blurb[locale]}
   stats={[{ value: articles.length, label: L('artikel', 'articles', '文章') }]}
 />
