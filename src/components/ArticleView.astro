@@ -464,6 +464,9 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
           }
         </div>
 
+        <div class="r r-custody-head">
+          <span>{L('Jagaan', 'Custody', '保管')}</span>
+        </div>
         <ol class="chain">
           {
             lifecycle.map((s) => (
@@ -680,6 +683,8 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
   .trust .r span:first-child { color: var(--muted); }
   .trust .sens-tag { color: #f87171; font-weight: 700; }
   .trust .r-sens .muted { color: var(--muted); }
+  /* Label sitting directly above the custody timeline (no divider between them). */
+  .trust .r-custody-head { border-bottom: 0; padding: 0.5rem 0.95rem 0.15rem; }
 
   /* Chain of custody — Drafted → Reviewed → Published timeline. */
   .chain {
