@@ -159,6 +159,15 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
       </div>
     </div>
     <div class="tb-line">
+      <span class="tb-label">{L('Papar', 'Display', '显示')}</span>
+      <div class="tabs">
+        <button class="tgl on" type="button" data-row="path">{L('Laluan', 'Path', '路径')}</button>
+        <button class="tgl on" type="button" data-row="details">{L('Butiran', 'Details', '详情')}</button>
+        <button class="tgl on" type="button" data-row="custody">{L('Jagaan', 'Custody', '保管')}</button>
+        <button class="tgl on" type="button" data-row="visitors">{L('Pelawat', 'Visitors', '访客')}</button>
+      </div>
+    </div>
+    <div class="tb-line">
       <span class="tb-label">{L('Cari', 'Search', '搜索')}</span>
       <input id="f-q" type="search" placeholder={L('Cari tajuk…', 'Search titles…', '搜索标题…')} />
     </div>
@@ -255,6 +264,13 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
 
   const state = { sort: 'upd', dir: 'desc', q: '', sec: '', cat: '', top: '', st: '', page: 1, size: 25 };
 
+  // Which card meta-rows the reader has switched off. Rows are omitted from the
+  // markup (not just hidden) so the dividers between rows stay correct.
+  const ROWS_KEY = 'nk-card-rows-hidden';
+  let hiddenRows = new Set();
+  try { hiddenRows = new Set(JSON.parse(localStorage.getItem(ROWS_KEY) || '[]')); } catch { /* ignore */ }
+  const showRow = (r) => !hiddenRows.has(r);
+
   const cmp = (a, b) => {
     const k = state.sort;
     let av = a[k], bv = b[k];
@@ -332,10 +348,12 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
         <article class="acard">
           <a class="atitle" href="${r.h}">${r.t}</a>
           <div class="acard-meta">
+            ${!showRow('path') ? '' : `
             <div class="meta-row">
               <span class="hlabel">${I18N.pathLabel}</span>
               <p class="apath"><span>${r.sec}</span><span class="sep">›</span><span>${r.cat}</span><span class="sep">›</span><span>${r.top}</span></p>
-            </div>
+            </div>`}
+            ${!showRow('details') ? '' : `
             <div class="meta-row">
               <span class="hlabel">${I18N.detailsLabel}</span>
               <div class="achips">
@@ -350,9 +368,9 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
                 <span class="chip">${r.conn} ${I18N.linked}</span>
                 <span class="chip">${r.min} ${I18N.min}</span>
               </div>
-            </div>
-            ${custodyHtml(r.custody)}
-            ${visitorsHtml(r.views)}
+            </div>`}
+            ${showRow('custody') ? custodyHtml(r.custody) : ''}
+            ${showRow('visitors') ? visitorsHtml(r.views) : ''}
           </div>
         </article>`).join('');
     }
@@ -411,6 +429,21 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
       state.sort = btn.dataset.sort; state.dir = btn.dataset.dir; state.page = 1; render();
     });
   });
+  // Display toggles: switch a card meta-row on/off and remember the choice.
+  function syncRowToggles() {
+    document.querySelectorAll('[data-row]').forEach((b) => b.classList.toggle('on', showRow(b.dataset.row)));
+  }
+  document.querySelectorAll('[data-row]').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      const r = btn.dataset.row;
+      if (hiddenRows.has(r)) hiddenRows.delete(r); else hiddenRows.add(r);
+      try { localStorage.setItem(ROWS_KEY, JSON.stringify([...hiddenRows])); } catch { /* ignore */ }
+      syncRowToggles();
+      render();
+    });
+  });
+  syncRowToggles();
+
   on('f-q', 'input', (e) => { state.q = e.target.value.trim().toLowerCase(); state.page = 1; render(); });
   on('f-sec', 'change', (e) => { state.sec = e.target.value; state.page = 1; syncFilters(); render(); });
   on('f-cat', 'change', (e) => { state.cat = e.target.value; state.page = 1; syncFilters(); render(); });
@@ -460,6 +493,16 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
   }
   .tab:hover { border-color: color-mix(in srgb, var(--gold) 45%, var(--line)); }
   .tab.on { color: #000; background: var(--gold); border-color: var(--gold); }
+  /* Display toggles — same pill, but "on" is an outline (not a sort selection). */
+  .tgl {
+    font-size: 0.82rem; font-weight: 700; padding: 0.4rem 0.8rem; border-radius: 999px;
+    border: 1px dashed var(--line); background: transparent; color: var(--muted); cursor: pointer;
+  }
+  .tgl:hover { border-color: color-mix(in srgb, var(--gold) 45%, var(--line)); color: var(--ink-soft); }
+  .tgl.on {
+    border-style: solid; border-color: color-mix(in srgb, var(--gold) 55%, var(--line));
+    background: color-mix(in srgb, var(--gold) 10%, transparent); color: var(--ink);
+  }
   .controls select, .tb-line input[type='search'] {
     font: inherit; font-size: 0.85rem; padding: 0.45rem 0.7rem; border-radius: 8px;
     border: 1px solid var(--line); background: var(--surface); color: var(--ink);
