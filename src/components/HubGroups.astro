@@ -66,6 +66,8 @@ const topicCount = (t: string) => catArticles.filter((a) => a.data.subcategory.i
     )
   }
 
+  {topics.length > 0 && <hr class="gsep" />}
+
   <section class="psec">
     <header>
       <span>{L('Kategori', 'Categories', '分类')}</span>
@@ -92,6 +94,8 @@ const topicCount = (t: string) => catArticles.filter((a) => a.data.subcategory.i
       </div>
     </div>
   </section>
+
+  <hr class="gsep" />
 
   <section class="psec">
     <header>
@@ -125,6 +129,9 @@ const topicCount = (t: string) => catArticles.filter((a) => a.data.subcategory.i
   /* Outer spacing comes from the global .block rhythm; this only sets the gap
      between the groups it contains. */
   .hub-groups { display: flex; flex-direction: column; gap: var(--space-group); }
+  /* Separator between groups. A real element (not a pseudo-element) because the
+     group boxes use overflow:hidden, which would clip one drawn outside them. */
+  .gsep { width: 100%; margin: 0; border: 0; border-top: 1px solid var(--line); }
   .psec {
     background: var(--surface);
     border: 1px solid var(--line);
