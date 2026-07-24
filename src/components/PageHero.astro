@@ -1,0 +1,91 @@
+---
+import type { Locale } from '@/lib/categories';
+
+// Shared page hero for every non-home page (section, category, topic, articles).
+// Follows the HOME hero language: a big left-aligned headline on the gold-tinted
+// gradient, with stat figures as boxes on the right — not a bordered card — so
+// the whole site's heroes read as one family.
+
+export interface Crumb {
+  label: string;
+  href?: string;
+}
+interface Props {
+  locale: Locale;
+  crumb: Crumb[];
+  title: string;
+  desc?: string;
+  stats?: { value: string | number; label: string }[];
+}
+const { crumb, title, desc, stats } = Astro.props;
+---
+
+<header class="page-hero">
+  <div class="container hero-inner">
+    <div class="hero-lead">
+      <p class="crumb">
+        {
+          crumb.map((c, i) => (
+            <>
+              {i > 0 && <span class="sep"> / </span>}
+              {c.href ? <a href={c.href}>{c.label}</a> : <span class="cur">{c.label}</span>}
+            </>
+          ))
+        }
+      </p>
+      <h1 class="headline">{title}</h1>
+      {desc && <p class="pitch">{desc}</p>}
+    </div>
+    {
+      stats && stats.length > 0 && (
+        <dl class="stats">
+          {stats.map((s) => (
+            <div class="stat">
+              <dt>{s.value}</dt>
+              <dd>{s.label}</dd>
+            </div>
+          ))}
+        </dl>
+      )
+    }
+  </div>
+</header>
+
+<style>
+  .page-hero {
+    background:
+      radial-gradient(700px 420px at 12% -20%, color-mix(in srgb, var(--gold) 12%, transparent), transparent),
+      radial-gradient(1100px 500px at 60% -30%, var(--surface-2), transparent);
+    border-bottom: 1px solid var(--line);
+    padding-block: 2.6rem 2.4rem;
+  }
+  .hero-inner {
+    display: grid; grid-template-columns: 1fr auto; gap: 1.5rem 3rem; align-items: center;
+  }
+  .hero-lead { min-width: 0; }
+  .crumb { font-size: 0.84rem; color: var(--muted); margin: 0 0 0.9rem; }
+  .crumb a { color: var(--muted); text-decoration: none; }
+  .crumb a:hover { color: var(--gold); }
+  .crumb .cur { color: var(--ink-soft); }
+  .crumb .sep { color: var(--muted); }
+  .headline {
+    font-family: var(--font-title); font-weight: 900; letter-spacing: -0.025em;
+    font-size: clamp(1.9rem, 4.4vw, 3rem); line-height: 1.05; margin: 0 0 0.7rem; color: var(--ink);
+  }
+  .pitch { color: var(--ink-soft); font-size: 1.05rem; line-height: 1.6; max-width: 60ch; margin: 0; }
+
+  .stats { display: flex; gap: 1rem; margin: 0; flex: none; }
+  .stat {
+    display: flex; flex-direction: column; align-items: flex-start; gap: 0.3rem;
+    border: 1px solid var(--line); border-radius: 14px;
+    background: color-mix(in srgb, var(--surface) 60%, transparent);
+    padding: 1.1rem 1.3rem; min-width: 6.5rem;
+  }
+  .stats dt { font-family: var(--font-title); font-weight: 800; font-size: clamp(1.6rem, 2.8vw, 2.1rem); line-height: 1; color: var(--gold); }
+  .stats dd { margin: 0; color: var(--muted); font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.04em; }
+
+  @media (max-width: 720px) {
+    .hero-inner { grid-template-columns: 1fr; }
+    .stats { flex-wrap: wrap; }
+  }
+</style>

@@ -3,6 +3,7 @@ import type { Locale, Category } from '@/lib/categories';
 import { getArchetype, getPillar, getPillarDef, categoriesInPillar } from '@/lib/categories';
 import type { Article } from '@/lib/content';
 import { localePath } from '@/lib/i18n';
+import PageHero from './PageHero.astro';
 
 import ServiceCategory from './category/ServiceCategory.astro';
 import NarrativeCategory from './category/NarrativeCategory.astro';
@@ -38,94 +39,42 @@ const Body = {
 }[category.archetype];
 ---
 
-<section class="container block cat-hero">
-  <p class="crumb">
-    <a href={localePath('/', locale)}>{L('Laman Utama', 'Home', '首页')}</a> /
-    {pillarDef && (
-      <>
-        <a href={localePath(`/${pillar}`, locale)}>{pillarDef.name[locale]}</a> {' / '}
-      </>
-    )}
-    <span>{category.name[locale]}</span>
-  </p>
-  <div class="row">
-    <span class="chip gold">{arch.icon} {arch.name[locale]}</span>
-    <span class="chip">{articles.length} {L('artikel', 'articles', '篇')}</span>
-  </div>
-  <h1>{category.icon} {category.name[locale]}</h1>
-  <p class="lede">{category.blurb[locale]}</p>
+<PageHero
+  locale={locale}
+  crumb={[
+    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
+    ...(pillarDef ? [{ label: pillarDef.name[locale], href: localePath(`/${pillar}`, locale) }] : []),
+    { label: category.name[locale] },
+  ]}
+  title={`${category.icon} ${category.name[locale]}`}
+  desc={category.blurb[locale]}
+  stats={[{ value: articles.length, label: L('artikel', 'articles', '文章') }]}
+/>
 
-  {
-    siblingCats.length > 0 && pillarDef && (
-      <nav class="sib" aria-label={L('Kategori lain', 'Other categories', '其他分类')}>
-        <span class="sib-lbl">
-          {L('Lagi dalam', 'More in', '更多：')} {pillarDef.name[locale]}:
-        </span>
-        {siblingCats.map((c) => (
-          <a class="sib-chip" href={localePath(`/${c.id}`, locale)}>
-            {c.icon} {c.name[locale]}
-          </a>
-        ))}
-      </nav>
-    )
-  }
-</section>
+{
+  siblingCats.length > 0 && pillarDef && (
+    <nav class="sib container" aria-label={L('Kategori lain', 'Other categories', '其他分类')}>
+      <span class="sib-lbl">
+        {L('Lagi dalam', 'More in', '更多：')} {pillarDef.name[locale]}:
+      </span>
+      {siblingCats.map((c) => (
+        <a class="sib-chip" href={localePath(`/${c.id}`, locale)}>
+          {c.icon} {c.name[locale]}
+        </a>
+      ))}
+    </nav>
+  )
+}
 
 <Body locale={locale} category={category} articles={articles} />
 
 <style>
-  .cat-hero {
-    padding-top: 2.2rem;
-  }
-  .crumb {
-    font-size: 0.84rem;
-    color: var(--muted);
-    margin: 0 0 0.6rem;
-  }
-  .crumb a {
-    color: var(--muted);
-    text-decoration: none;
-  }
-  .crumb a:hover {
-    color: var(--gold);
-  }
-  .crumb span {
-    color: var(--ink-soft);
-  }
-  .row {
-    display: flex;
-    gap: 0.4rem;
-    flex-wrap: wrap;
-    margin-bottom: 0.7rem;
-  }
-  .chip {
-    font-size: 0.7rem;
-    font-weight: 700;
-    border-radius: 999px;
-    padding: 0.14rem 0.6rem;
-    border: 1px solid var(--line);
-    background: var(--surface-2);
-    color: var(--ink-soft);
-  }
-  .chip.gold {
-    color: var(--gold);
-    border-color: color-mix(in srgb, var(--gold) 40%, transparent);
-    background: color-mix(in srgb, var(--gold) 10%, transparent);
-  }
-  h1 {
-    margin: 0 0 0.4rem;
-  }
-  .lede {
-    color: var(--ink-soft);
-    max-width: 62ch;
-    margin: 0;
-  }
   .sib {
     display: flex;
     gap: 0.5rem;
     flex-wrap: wrap;
     align-items: center;
-    margin-top: 1.1rem;
+    margin-top: 1.4rem;
   }
   .sib-lbl {
     font-size: 0.8rem;

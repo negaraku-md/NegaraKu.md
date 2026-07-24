@@ -1,25 +1,19 @@
 ---
 import type { Locale } from '@/lib/categories';
-import { CATEGORIES, PILLARS, categoriesInPillar } from '@/lib/categories';
-import type { Article } from '@/lib/content';
-import { readingTime } from '@/lib/content';
+import { PILLARS } from '@/lib/categories';
 import { t, localePath } from '@/lib/i18n';
 import { REPO } from '@/lib/site';
-import { getDashboard, getGitInfo } from '@/lib/apidata';
-import CategoryGrid from './CategoryGrid.astro';
-import ArticleCard from './ArticleCard.astro';
 
 interface Props {
   locale: Locale;
-  essentials: Article[];
-  all: Article[];
-  counts: Record<string, number>;
-  total: number;
+  // Accepted for route compatibility; the trimmed home page no longer uses them.
+  essentials?: unknown;
+  all?: unknown;
+  counts?: unknown;
+  total?: unknown;
 }
-const { locale, essentials, all, counts, total } = Astro.props;
+const { locale } = Astro.props;
 const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
-const dash = getDashboard();
-const git = getGitInfo();
 
 // Distinctive facts, not factbook figures. Each is verified: Peninsular + Borneo
 // split by the South China Sea; Taman Negara ~130M yrs (older than the Amazon);
@@ -31,33 +25,6 @@ const stats = [
   { icon: '🐅', value: '1 / 17', unit: { ms: 'negara megadiversiti', en: 'megadiverse nations', zh: '超级生物多样国' } },
   { icon: '👑', value: '9 → 1', unit: { ms: 'sultan, satu raja bergilir', en: 'sultans, one rotating king', zh: '位苏丹轮任元首' } },
 ];
-
-const whyCards = [
-  { icon: '🎯', title: L('Dikurasi', 'Curated', '策展'), desc: L('Naratif terpilih, bukan timbunan data.', 'Selected narratives, not a data dump.', '精选叙事，而非数据堆砌。') },
-  { icon: '🤖', title: L('Mesra-AI', 'AI-friendly', 'AI 友好'), desc: L('Markdown, llms.txt, MCP, .md mentah.', 'Markdown, llms.txt, MCP, raw .md.', 'Markdown、llms.txt、MCP、原始 .md。') },
-  { icon: '🌍', title: L('Pelbagai bahasa', 'Multilingual', '多语言'), desc: L('Bahasa Malaysia, Inggeris, Cina.', 'Malay, English, Chinese.', '马来语、英语、中文。') },
-  { icon: '📖', title: L('Terbuka', 'Open', '开放'), desc: L('Boleh disunting komuniti di GitHub.', 'Community-editable on GitHub.', '可在 GitHub 由社区编辑。') },
-];
-
-const totalMinutes = essentials.reduce((s, a) => s + readingTime(a), 0);
-const catCount = categoriesInPillar('understand').length;
-
-// 4-part editorial narrative → category groups.
-const pick = (cats: string[], n: number) => all.filter((a) => cats.includes(a.data.category)).slice(0, n);
-const parts = [
-  { num: 'I', title: L('Rupa negara ini', 'What this country looks like', '这个国家的样貌'), items: pick(['states'], 4) },
-  { num: 'II', title: L('Bagaimana ia terbentuk', 'How it came to be', '它如何形成'), items: pick(['malaysia'], 4) },
-  { num: 'III', title: L('Kehidupan rakyatnya', 'How its people live', '人民的生活'), items: pick(['arts-culture'], 4) },
-  { num: 'IV', title: L('Ke mana ia menuju', 'Where it is heading', '它的走向'), items: pick(['economy', 'government', 'law'], 4) },
-];
-
-const testimonials = [
-  L('Akhirnya, satu tempat untuk memahami Malaysia sepenuhnya.', 'Finally, one place to understand Malaysia fully.', '终于有一个全面了解马来西亚的地方。'),
-  L('Sempurna untuk memberi konteks Malaysia kepada AI saya.', 'Perfect for giving my AI real Malaysian context.', '非常适合为我的 AI 提供真实的马来西亚背景。'),
-  L('Dikurasi dengan teliti dan dipetik sumbernya — boleh dipercayai.', 'Carefully curated and cited — trustworthy.', '精心策展且注明来源——值得信赖。'),
-  L('Saya suka boleh baca versi Markdown mentah.', 'I love that I can read the raw Markdown.', '我喜欢能直接读到原始 Markdown。'),
-];
-const vitalsList = Object.values(dash.vitals);
 ---
 
 <section class="hero">
@@ -101,15 +68,6 @@ const vitalsList = Object.values(dash.vitals);
       ))}
     </dl>
   </div>
-
-  <nav class="hero-anchors container" aria-label={L('Pautan pantas', 'Quick links', '快速链接')}>
-    <a href={localePath('/explore', locale)}>{L('Terokai', 'Explore', '探索')}</a>
-    <a href={localePath('/understand', locale)}>{L('Kenali', 'Understand', '认识')}</a>
-    <a href={localePath('/living', locale)}>{L('Hidup', 'Living', '生活')}</a>
-    <a href={localePath('/doing-business', locale)}>{L('Berniaga', 'Business', '经商')}</a>
-    <a href={localePath('/articles', locale)}>{L('Semua Artikel', 'All Articles', '所有文章')}</a>
-    <a href={localePath('/contribute', locale)}>{L('Sumbang', 'Contribute', '贡献')}</a>
-  </nav>
 </section>
 
 <section class="container block">
@@ -124,139 +82,6 @@ const vitalsList = Object.values(dash.vitals);
       </a>
     ))}
   </div>
-</section>
-
-<section id="cover-story" class="container block cover">
-  <div class="cover-inner">
-    <h2>{L('Bagaimana memahami Malaysia?', 'How to understand Malaysia?', '如何理解马来西亚？')}</h2>
-    <p>{L('Malaysia ialah sebuah negara seluas 330,803 km², namun menyimpan kerencaman seluruh dunia — berbilang kaum, agama dan bahasa, terbentang dari Semenanjung ke Borneo.', 'Malaysia is a country of just 330,803 km², yet it holds the complexity of the entire world — many peoples, faiths and languages, stretching from the Peninsula to Borneo.', '马来西亚是一个面积仅 330,803 平方公里的国家，却承载着整个世界的复杂——多元的族群、宗教与语言，从半岛延伸到婆罗洲。')}</p>
-    <p>{L('Selama berabad-abad, setiap orang yang menjejak tanah ini melihat Malaysia yang berbeza dengan mata yang berbeza.', 'For centuries, everyone who set foot on this land has seen a different Malaysia through different eyes.', '数百年来，每一个踏上这片土地的人，都用不同的眼睛看见不同的马来西亚。')}</p>
-    <a class="btn btn-primary" href="#reading-path">{L('Mula membaca', 'Start reading', '开始阅读')} →</a>
-  </div>
-</section>
-
-{
-  essentials.length > 0 && (
-    <section id="reading-path" class="container block">
-      <div class="sec-head">
-        <h2>{t('home.essentials', locale)}</h2>
-        <span class="total">⏱️ {L('Jumlah', 'Total', '共')} {totalMinutes} {L('minit', 'minutes', '分钟')} · {essentials.length} {L('artikel', 'articles', '篇')}</span>
-      </div>
-      <div class="grid">{essentials.map((a) => <ArticleCard article={a} locale={locale} />)}</div>
-    </section>
-  )
-}
-
-<section class="container block">
-  <h2>{t('home.why.title', locale)}</h2>
-  <div class="why-grid">
-    {whyCards.map((w) => (
-      <div class="card">
-        <span class="dicon" aria-hidden="true">{w.icon}</span>
-        <b>{w.title}</b>
-        <p>{w.desc}</p>
-      </div>
-    ))}
-  </div>
-</section>
-
-{
-  vitalsList.length > 0 && (
-    <section class="container block organism">
-      <div class="org-copy">
-        <p class="kicker2">🫀 {L('Organisma hidup', 'A living organism', '活的有机体')}</p>
-        <h2>{L('NegaraKu.md bernafas', 'NegaraKu.md breathes', 'NegaraKu.md 在呼吸')}</h2>
-        <p>{L('Pangkalan ini tumbuh, disemak, dan diterjemah — tanda vitalnya dikira setiap binaan.', 'This base grows, gets reviewed, and translated — its vitals computed every build.', '这个知识库不断成长、审阅与翻译——其生命体征每次构建时计算。')}</p>
-        <a class="btn btn-ghost" href={localePath('/dashboard', locale)}>{t('nav.dashboard', locale)} →</a>
-      </div>
-      <div class="org-vitals">
-        {vitalsList.map((v) => (
-          <div class="ov">
-            <div class="ov-score" style={`--v:${v.score}`}><span>{v.score}</span></div>
-            <span class="ov-name">{v.label[locale]}</span>
-          </div>
-        ))}
-      </div>
-    </section>
-  )
-}
-
-<section class="container block">
-  <h2>{L('Malaysia dalam empat bahagian', 'Malaysia in four parts', '四个部分，读懂马来西亚')}</h2>
-  <div class="narrative">
-    {parts.map((p) => (
-      <div class="part">
-        <p class="pnum">{p.num}</p>
-        <h3>{p.title}</h3>
-        <ul>
-          {p.items.map((a) => (
-            <li><a href={localePath(`/${a.data.category}/${a.data.slug}`, locale)}>{a.data.title}</a></li>
-          ))}
-        </ul>
-      </div>
-    ))}
-  </div>
-</section>
-
-<section id="categories" class="container block">
-  <h2 class="all-cats-title">{L('Terokai semua topik', 'Explore every topic', '探索全部主题')}</h2>
-  {PILLARS.map((p) => {
-    const pillarTotal = categoriesInPillar(p.id).reduce((s, c) => s + (counts[c.id] ?? 0), 0);
-    return (
-      <div class="pillar-group">
-        <div class="sec-head">
-          <h3>{p.icon} {p.name[locale]}</h3>
-          <a class="see-all" href={localePath(`/${p.id}`, locale)}>
-            {categoriesInPillar(p.id).length} {L('topik', 'topics', '主题')} · {pillarTotal} {L('artikel', 'articles', '篇')} →
-          </a>
-        </div>
-        <p class="pillar-tagline">{p.tagline[locale]}</p>
-        <CategoryGrid locale={locale} counts={counts} pillar={p.id} />
-      </div>
-    );
-  })}
-</section>
-
-<section class="container block">
-  <div class="live">
-    <div class="live-counters">
-      <div><b>{dash.totals.articles}</b><span>{L('artikel', 'articles', '文章')}</span></div>
-      <div><b>{dash.totals.reviewedPct}%</b><span>{L('disemak', 'reviewed', '已审阅')}</span></div>
-      <div><b>{dash.totals.categories}</b><span>{L('kategori', 'categories', '分类')}</span></div>
-    </div>
-    <div class="live-feed">
-      <h3>{L('Kemas kini terkini', 'Recent updates', '近期更新')}</h3>
-      {
-        git.commits.length ? (
-          <ul>{git.commits.slice(0, 4).map((c) => <li><code>{c.hash}</code> {c.subject}</li>)}</ul>
-        ) : (
-          <p class="muted">{L('Suapan commit muncul selepas disiarkan ke GitHub.', 'The commit feed appears once published to GitHub.', '发布到 GitHub 后显示提交记录。')}</p>
-        )
-      }
-      <a href={localePath('/changelog', locale)}>{t('nav.changelog', locale)} →</a>
-    </div>
-  </div>
-</section>
-
-<section class="container block">
-  <div class="feedback">
-    <div class="marquee" aria-hidden="false">
-      {[...testimonials, ...testimonials].map((q) => <span class="quote">“{q}”</span>)}
-    </div>
-  </div>
-</section>
-
-<section class="container block">
-  <form class="newsletter" action="https://formspree.io/f/your-id" method="post">
-    <div>
-      <h2>{L('Ikuti perkembangan', 'Stay updated', '保持关注')}</h2>
-      <p>{L('Berita ringkas tentang artikel baharu. Tiada spam.', 'Occasional notes on new articles. No spam.', '偶尔发送新文章通知。绝无垃圾邮件。')}</p>
-    </div>
-    <div class="nl-row">
-      <input type="email" name="email" required placeholder={L('e-mel anda', 'your email', '你的邮箱')} />
-      <button type="submit">{L('Langgan', 'Subscribe', '订阅')}</button>
-    </div>
-  </form>
 </section>
 
 <style>
@@ -311,14 +136,6 @@ const vitalsList = Object.values(dash.vitals);
   .sicon { font-size: 1.6rem; line-height: 1; }
   .stats dt { font-family: var(--font-title); font-weight: 800; font-size: clamp(1.7rem, 3vw, 2.3rem); line-height: 1; color: var(--gold); }
   .stats dd { margin: 0; color: var(--muted); font-size: 0.88rem; }
-
-  .hero-anchors {
-    display: flex; flex-wrap: wrap; gap: 0.4rem 1.6rem; align-items: center;
-    padding-block: 0.9rem; border-top: 1px solid var(--line);
-    font-family: var(--font-title); font-weight: 700; font-size: 0.9rem;
-  }
-  .hero-anchors a { color: var(--ink-soft); text-decoration: none; }
-  .hero-anchors a:hover { color: var(--gold); }
 
   @media (max-width: 860px) {
     .hero-inner { grid-template-columns: 1fr; gap: 2rem; }

@@ -5,6 +5,7 @@ import { type Article, articlesForLocale } from '@/lib/content';
 import { subcatLabel, orderedSubcats } from '@/lib/subcategories';
 import { localePath } from '@/lib/i18n';
 import TrustBadge from './TrustBadge.astro';
+import PageHero from './PageHero.astro';
 
 // TOPIC (subcategory) page — the level between a category and an article.
 // A reader has narrowed to one task area (e.g. Corporate Tax) and wants every
@@ -37,29 +38,18 @@ const topicHref = (t: string) => localePath(`/${categoryId}/topic/${t}`, locale)
 const countIn = (t: string) => catArticles.filter((a) => a.data.subcategory.includes(t)).length;
 ---
 
-<header class="art-hero">
-  <div class="container">
-    <p class="crumb">
-      <a href={localePath('/', locale)}>{L('Laman Utama', 'Home', '首页')}</a> /
-      {pillarDef && (
-        <>
-          <a href={localePath(`/${pillar}`, locale)}>{pillarDef.name[locale]}</a> {' / '}
-        </>
-      )}
-      <a href={localePath(`/${categoryId}`, locale)}>{cat.name[locale]}</a> /
-      <span>{label}</span>
-    </p>
-    <div class="badges">
-      <span class="pill tier">{cat.icon} {cat.name[locale]}</span>
-      <span class="pill">{articles.length} {L('artikel', 'articles', '篇')}</span>
-    </div>
-    <h1>{label}</h1>
-    <p class="lede">
-      {L(`Setiap artikel dalam ${label}.`, `Every article in ${label}.`, `${label}的全部文章。`)}
-    </p>
-
-  </div>
-</header>
+<PageHero
+  locale={locale}
+  crumb={[
+    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
+    ...(pillarDef ? [{ label: pillarDef.name[locale], href: localePath(`/${pillar}`, locale) }] : []),
+    { label: cat.name[locale], href: localePath(`/${categoryId}`, locale) },
+    { label },
+  ]}
+  title={label}
+  desc={L(`Setiap artikel dalam ${label}.`, `Every article in ${label}.`, `${label}的全部文章。`)}
+  stats={[{ value: articles.length, label: L('artikel', 'articles', '文章') }]}
+/>
 
 <div class="container tpage">
   <section class="tsec">
@@ -149,26 +139,6 @@ const countIn = (t: string) => catArticles.filter((a) => a.data.subcategory.incl
   .tchip:hover { border-color: color-mix(in srgb, var(--gold) 55%, var(--line)); color: var(--ink); }
   .tchip .n { color: var(--gold); font-weight: 700; font-size: 0.76rem; }
   @media (max-width: 640px) { .tpager { grid-template-columns: 1fr; } }
-
-  .art-hero {
-    background:
-      radial-gradient(680px 320px at 15% -30%, color-mix(in srgb, var(--gold) 11%, transparent), transparent),
-      radial-gradient(900px 360px at 55% -20%, var(--surface-2), transparent);
-    border-bottom: 1px solid var(--line);
-    padding: 2.4rem 0 2rem;
-  }
-  .crumb { font-size: 0.84rem; color: var(--muted); margin: 0 0 1rem; }
-  .crumb a { color: var(--muted); text-decoration: none; }
-  .crumb a:hover { color: var(--gold); }
-  .crumb span { color: var(--ink-soft); }
-  .badges { display: flex; gap: 0.4rem; flex-wrap: wrap; align-items: center; margin-bottom: 1rem; }
-  .pill {
-    font-size: 0.68rem; font-weight: 700; border-radius: 999px; padding: 0.1rem 0.5rem;
-    border: 1px solid var(--line); background: var(--surface-2); color: var(--ink-soft);
-  }
-  .pill.tier { color: var(--gold); border-color: color-mix(in srgb, var(--gold) 45%, var(--line)); background: color-mix(in srgb, var(--gold) 9%, transparent); }
-  .art-hero h1 { margin: 0 0 0.55rem; font-family: var(--font-title); font-weight: 800; font-size: clamp(1.7rem, 3.4vw, 2.5rem); line-height: 1.12; }
-  .lede { color: var(--ink-soft); font-size: 1.08rem; max-width: 65ch; margin: 0; }
 
   .tpage { padding-block: 2rem 4rem; }
   .tsec {

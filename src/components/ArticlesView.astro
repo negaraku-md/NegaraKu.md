@@ -4,6 +4,7 @@ import { getCategory, getPillar, getPillarDef, PILLARS } from '@/lib/categories'
 import { articlesForLocale, allArticles, effectiveStatus, readingTime } from '@/lib/content';
 import { subcatLabel } from '@/lib/subcategories';
 import { localePath, t } from '@/lib/i18n';
+import PageHero from './PageHero.astro';
 
 // Articles index — a browsable, sortable, paginated list of the whole corpus.
 // Cards suit discovery; a table suits "show me everything and let me sort it".
@@ -25,12 +26,24 @@ for (const a of await allArticles()) {
   (langsByKey.get(key) ?? langsByKey.set(key, new Set()).get(key)!).add(a.data.lang);
 }
 
+const SENS_LABEL: Record<string, string> = {
+  race: L('Kaum', 'Race', '种族'),
+  religion: L('Agama', 'Religion', '宗教'),
+  royalty: L('Institusi diraja', 'Royalty', '王室'),
+  constitution: L('Perlembagaan', 'Constitution', '宪法'),
+  elections: L('Pilihan raya', 'Elections', '选举'),
+  security: L('Keselamatan', 'Security', '安全'),
+  health: L('Kesihatan', 'Health', '健康'),
+  'legal-proceedings': L('Perundangan', 'Legal', '法律程序'),
+};
+
 const rows = canonical.map((a) => {
   const d = a.data;
   const key = `${d.category}/${d.slug}`;
   const conn = (d.related?.length ?? 0) + (d.relations?.length ?? 0);
   const pillar = getPillar(d.category);
   const topic = d.subcategory?.[0];
+  const sens = d.sensitivity && d.sensitivity !== 'none' ? d.sensitivity : null;
   return {
     t: d.title,
     h: localePath(`/${d.category}/${d.slug}`, locale),
@@ -42,6 +55,9 @@ const rows = canonical.map((a) => {
     top: topic ? subcatLabel(topic, locale) : '—',
     ml: (d.masterLanguage ?? d.lang ?? 'ms').toUpperCase(),
     st: effectiveStatus(a),
+    cls: sens ? SENS_LABEL[sens] ?? L('Sensitif', 'Sensitive', '敏感') : L('Umum', 'General', '一般'),
+    sens: !!sens,
+    rev: d.reviewDue ? new Date(d.reviewDue).toISOString().slice(0, 10) : '',
     langs: [...(langsByKey.get(key) ?? [])].sort(),
     src: d.sources?.length ?? 0,
     min: readingTime(a),
@@ -70,20 +86,20 @@ for (const r of rows) statusCounts[r.st] = (statusCounts[r.st] ?? 0) + 1;
 const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
 ---
 
-<section class="container head">
-  <p class="crumb">
-    <a href={localePath('/', locale)}>{L('Laman Utama', 'Home', '首页')}</a> /
-    <span>{L('Semua artikel', 'All articles', '所有文章')}</span>
-  </p>
-  <h1>{L('Semua artikel', 'All articles', '所有文章')}</h1>
-  <p class="lead">
-    {L(
-      'Semak imbas keseluruhan pangkalan pengetahuan — isih, tapis dan cari.',
-      'Browse the whole knowledge base — sort, filter and search.',
-      '浏览整个知识库——排序、筛选与搜索。',
-    )}
-  </p>
-</section>
+<PageHero
+  locale={locale}
+  crumb={[
+    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
+    { label: L('Semua artikel', 'All articles', '所有文章') },
+  ]}
+  title={L('Semua artikel', 'All articles', '所有文章')}
+  desc={L(
+    'Semak imbas keseluruhan pangkalan pengetahuan — isih, tapis dan cari.',
+    'Browse the whole knowledge base — sort, filter and search.',
+    '浏览整个知识库——排序、筛选与搜索。',
+  )}
+  stats={[{ value: rows.length, label: L('artikel', 'articles', '文章') }]}
+/>
 
 <section class="container block">
   <div class="art-toolbar">
@@ -151,6 +167,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
     master: L('Induk', 'Master', '主语言'),
     sources: L('sumber', 'sources', '来源'),
     updated: L('Dikemas kini', 'Updated', '更新'),
+    nextReview: L('Semakan seterusnya', 'Next review', '下次审阅'),
   })}
 ></script>
 
@@ -203,6 +220,8 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
           <p class="apath"><span>${r.sec}</span> › <span>${r.cat}</span> › <span>${r.top}</span></p>
           <div class="achips">
             <span class="st ${STATUS_CLASS[r.st] || 'muted'}">${I18N.status[r.st] || r.st}</span>
+            <span class="chip ${r.sens ? 'sens' : ''}">${r.sens ? '🔒 ' : ''}${r.cls}</span>
+            ${r.rev ? `<span class="chip dim">${I18N.nextReview}: ${r.rev}</span>` : ''}
             <span class="chip">${I18N.master}: <b>${r.ml}</b></span>
             <span class="chip langs">${['ms','en','zh'].map((l) => r.langs.includes(l)
               ? `<a class="on" href="${langHref(l, r.p)}" title="${r.t} — ${l.toUpperCase()}">${l.toUpperCase()}</a>`
@@ -254,14 +273,6 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
 </script>
 
 <style>
-  .head { padding-block: 2rem 0.5rem; }
-  .crumb { font-size: 0.84rem; color: var(--muted); margin: 0 0 0.6rem; }
-  .crumb a { color: var(--muted); text-decoration: none; }
-  .crumb a:hover { color: var(--gold); }
-  .crumb span { color: var(--ink-soft); }
-  h1 { margin: 0 0 0.4rem; font-family: var(--font-title); font-weight: 800; font-size: clamp(1.7rem, 3.6vw, 2.4rem); }
-  .lead { color: var(--ink-soft); margin: 0; }
-
   .art-toolbar { display: flex; flex-wrap: wrap; gap: 0.8rem; justify-content: space-between; align-items: center; margin-bottom: 1rem; }
   .tabs { display: flex; gap: 0.35rem; flex-wrap: wrap; }
   .tab {
@@ -304,6 +315,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
   }
   .acards :global(.chip b) { color: var(--gold); font-weight: 800; }
   .acards :global(.chip.dim) { color: var(--muted); border-style: dashed; }
+  .acards :global(.chip.sens) { color: #f87171; border-color: rgba(248,113,113,.4); background: rgba(248,113,113,.1); font-weight: 700; }
   .acards :global(.empty) { text-align: center; color: var(--muted); padding: 2.5rem; border: 1px dashed var(--line); border-radius: 12px; }
   .acards :global(.st) { font-size: 0.72rem; font-weight: 800; border-radius: 999px; padding: 0.16rem 0.6rem; border: 1px solid var(--line); }
   .acards :global(.st.ok) { color: #4ade80; border-color: rgba(74,222,128,.35); background: rgba(74,222,128,.12); }

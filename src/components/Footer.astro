@@ -1,31 +1,80 @@
 ---
 import type { Locale } from '@/lib/categories';
 import { t, localePath } from '@/lib/i18n';
+import { REPO } from '@/lib/site';
 
 interface Props {
   locale: Locale;
 }
 const { locale } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
 const year = 2026;
+
+const cols = [
+  {
+    title: L('Terokai', 'Explore', '探索'),
+    links: [
+      { label: t('nav.understand', locale), href: localePath('/understand', locale) },
+      { label: t('nav.living', locale), href: localePath('/living', locale) },
+      { label: t('nav.business', locale), href: localePath('/doing-business', locale) },
+      { label: t('nav.articles', locale), href: localePath('/articles', locale) },
+    ],
+  },
+  {
+    title: L('Projek', 'Project', '项目'),
+    links: [
+      { label: t('nav.aboutPage', locale), href: localePath('/about', locale) },
+      { label: t('nav.contribute', locale), href: localePath('/contribute', locale) },
+      { label: t('nav.dashboard', locale), href: localePath('/dashboard', locale) },
+      { label: t('nav.changelog', locale), href: localePath('/changelog', locale) },
+    ],
+  },
+  {
+    title: L('Untuk AI', 'For AI', '面向 AI'),
+    links: [
+      { label: 'llms.txt', href: '/llms.txt' },
+      { label: t('nav.mcp', locale), href: localePath('/mcp', locale) },
+      { label: 'GitHub', href: REPO, ext: true },
+    ],
+  },
+];
 ---
 
 <footer class="site-footer">
-  <div class="container inner">
-    <div>
-      <p class="name">NegaraKu<span class="dot">.md</span></p>
-      <p class="tagline">{t('site.tagline', locale)}</p>
-      <p class="sponsor">
-        {t('footer.sponsoredBy', locale)}
-        <a href="https://www.1company.com" rel="noopener"><span class="oneco">1company.com</span></a>
-      </p>
+  <div class="container">
+    <form class="newsletter" action="https://formspree.io/f/your-id" method="post">
+      <div>
+        <p class="nl-title">{L('Ikuti perkembangan', 'Stay updated', '保持关注')}</p>
+        <p class="nl-sub">{L('Berita ringkas tentang artikel baharu. Tiada spam.', 'Occasional notes on new articles. No spam.', '偶尔发送新文章通知。绝无垃圾邮件。')}</p>
+      </div>
+      <div class="nl-row">
+        <input type="email" name="email" required placeholder={L('e-mel anda', 'your email', '你的邮箱')} />
+        <button type="submit">{L('Langgan', 'Subscribe', '订阅')}</button>
+      </div>
+    </form>
+
+    <div class="foot-grid">
+      <div class="foot-brand">
+        <p class="name">NegaraKu<span class="dot">.md</span></p>
+        <p class="tagline">{t('site.tagline', locale)}</p>
+        <p class="sponsor">
+          {t('footer.sponsoredBy', locale)}{' '}
+          <a href="https://www.1company.com" rel="noopener"><span class="oneco">1company.com</span></a>
+        </p>
+      </div>
+      {
+        cols.map((col) => (
+          <nav class="foot-col" aria-label={col.title}>
+            <p class="col-title">{col.title}</p>
+            {col.links.map((l) => (
+              <a href={l.href} rel={l.ext ? 'noopener' : undefined}>{l.label}{l.ext ? ' ↗' : ''}</a>
+            ))}
+          </nav>
+        ))
+      }
     </div>
-    <nav class="links" aria-label="Footer">
-      <a href={localePath('/about', locale)}>{t('nav.about', locale)}</a>
-      <a href={localePath('/contribute', locale)}>{t('nav.contribute', locale)}</a>
-      <a href="https://github.com/negaraku-md/negaraku.md">GitHub</a>
-      <a href="/llms.txt">llms.txt</a>
-    </nav>
   </div>
+
   <div class="container legal">
     <p>© {year} NegaraKu.md · {t('footer.license', locale)}</p>
   </div>
@@ -36,51 +85,54 @@ const year = 2026;
     margin-top: 4rem;
     border-top: 1px solid var(--line);
     background: var(--bg-soft);
-    padding-block: 2rem 1.5rem;
+    padding-top: 2.5rem;
   }
-  .inner {
-    display: flex;
-    justify-content: space-between;
-    gap: 1.5rem;
-    flex-wrap: wrap;
+  .newsletter {
+    display: flex; justify-content: space-between; align-items: center; gap: 1.5rem; flex-wrap: wrap;
+    background: var(--surface); border: 1px solid var(--line); border-top: 2px solid var(--gold);
+    border-radius: 16px; padding: 1.4rem 1.7rem; margin-bottom: 2.6rem;
   }
-  .name {
-    font-family: var(--font-serif);
-    font-weight: 700;
-    font-size: 1.1rem;
-    margin: 0;
+  .nl-title { margin: 0; font-family: var(--font-title); font-weight: 800; font-size: 1.2rem; }
+  .nl-sub { margin: 0.2rem 0 0; color: var(--ink-soft); font-size: 0.92rem; }
+  .nl-row { display: flex; gap: 0.5rem; }
+  .nl-row input {
+    font: inherit; padding: 0.55rem 0.95rem; border-radius: 999px;
+    border: 1px solid var(--line); background: var(--surface-2); color: var(--ink); min-width: 13rem;
   }
-  .name .dot {
-    color: var(--gold);
+  .nl-row input:focus { outline: none; border-color: var(--gold); }
+  .nl-row button {
+    border: 0; border-radius: 999px; background: var(--gold); color: #000;
+    font-weight: 800; padding: 0.55rem 1.3rem; cursor: pointer;
   }
-  .tagline {
-    color: var(--muted);
-    margin: 0.2rem 0 0;
-    font-size: 0.92rem;
+
+  .foot-grid {
+    display: grid; grid-template-columns: 1.6fr repeat(3, 1fr); gap: 1.5rem 2rem;
+    padding-bottom: 2rem;
   }
-  .sponsor {
-    margin: 0.55rem 0 0;
-    font-size: 0.9rem;
-    color: var(--ink-soft);
+  .name { font-family: var(--font-title); font-weight: 900; font-size: 1.3rem; margin: 0; letter-spacing: -0.02em; }
+  .name .dot { color: var(--gold); }
+  .tagline { color: var(--muted); margin: 0.4rem 0 0; font-size: 0.9rem; max-width: 34ch; }
+  .sponsor { margin: 0.7rem 0 0; font-size: 0.9rem; color: var(--ink-soft); }
+  .sponsor a { color: var(--gold); font-weight: 700; text-decoration: none; }
+
+  .foot-col { display: flex; flex-direction: column; gap: 0.55rem; }
+  .col-title {
+    margin: 0 0 0.3rem; font-family: var(--font-title); font-size: 0.72rem; font-weight: 800;
+    text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted);
   }
-  .sponsor a {
-    color: var(--gold);
-    font-weight: 700;
-  }
-  .links {
-    display: flex;
-    gap: 1.1rem;
-    flex-wrap: wrap;
-    align-items: center;
-  }
-  .links a {
-    color: var(--ink-soft);
-    text-decoration-color: color-mix(in srgb, var(--ink-soft) 55%, transparent);
-    font-size: 0.92rem;
-  }
+  .foot-col a { color: var(--ink-soft); text-decoration: none; font-size: 0.92rem; }
+  .foot-col a:hover { color: var(--gold); }
+
   .legal {
-    margin-top: 1.25rem;
-    color: var(--muted);
-    font-size: 0.82rem;
+    border-top: 1px solid var(--line);
+    padding-block: 1.1rem 1.4rem;
+    color: var(--muted); font-size: 0.82rem;
+  }
+  .legal p { margin: 0; }
+
+  @media (max-width: 720px) {
+    .foot-grid { grid-template-columns: 1fr 1fr; }
+    .foot-brand { grid-column: 1 / -1; }
+    .nl-row input { min-width: 0; flex: 1; }
   }
 </style>
