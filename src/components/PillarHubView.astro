@@ -113,9 +113,9 @@ for (const a of items) {
     text-transform: uppercase; color: var(--muted); background: var(--surface-2);
     border-bottom: 1px solid var(--line);
   }
-  /* Group title in bright ink (not gold — brand is already gold-heavy) so each
-     group (Categories, Sections) stands out against the muted header by contrast. */
-  .psec > header span:first-child { color: var(--ink); }
+  /* Group title matches the count's size (1.6rem), bright ink (not gold — brand
+     is already gold-heavy) so each group stands out by contrast. */
+  .psec > header span:first-child { font-size: 1.6rem; line-height: 1; letter-spacing: 0.02em; color: var(--ink); }
   /* Group count matches the card number size (1.6rem gold). */
   .psec > header span:last-child { font-size: 1.6rem; line-height: 1; letter-spacing: 0; color: var(--gold); font-weight: 800; font-variant-numeric: tabular-nums; }
   .psec-body { padding: 1.1rem; }
