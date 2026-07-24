@@ -47,7 +47,7 @@ sources:
 
 entity: "Malaysian ringgit"
 relations:
-  - { rel: "issued-by", to: "bank-negara-malaysia" }
+  - { rel: "administered-by", to: "bank-negara-malaysia" }
   - { rel: "affects", to: "external-trade" }
 related: ["opr-monetary-policy", "external-trade", "inflation-cpi"]
 keywords: ["ringgit", "MYR", "USD MYR rate", "kadar tukaran ringgit", "Malaysia currency", "ringgit exchange rate"]
