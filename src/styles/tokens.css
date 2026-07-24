@@ -63,6 +63,11 @@
   --space-6: 2.5rem;
   --space-7: 3rem;
   --space-8: 4rem;
+  /* Vertical rhythm for page composition (see .block in global.css):
+     --space-group  gap between content groups/boxes
+     --space-block  gap from the hero down to the first content block */
+  --space-group: 1.2rem;
+  --space-block: var(--space-5);
   --radius: 12px;
   --radius-sm: 8px;
   --radius-chip: 16px;

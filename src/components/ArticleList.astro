@@ -442,9 +442,10 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
 
 <style>
   /* Three stacked lines: Filter, Sort, Search — each labelled, with breathing room. */
+  /* Top spacing comes from the global .block rhythm — don't add margin here. */
   .art-toolbar {
     display: flex; flex-direction: column; gap: 1.1rem;
-    margin-top: 1.8rem; margin-bottom: 1.6rem; padding-bottom: 1.3rem; border-bottom: 1px solid var(--line);
+    margin-bottom: 1.6rem; padding-bottom: 1.3rem; border-bottom: 1px solid var(--line);
   }
   .tb-line { display: flex; align-items: center; gap: 1rem; flex-wrap: wrap; }
   .tb-label {

@@ -124,6 +124,18 @@ img {
   padding-inline: 1.25rem;
 }
 
+/* Vertical rhythm for top-level content blocks — defined ONCE here so pages
+   don't each invent their own spacing (which is how gaps drift apart).
+   A `.block` clears the hero; consecutive blocks sit one group-gap apart.
+   A component may still override `.block` in its scoped styles when a page
+   genuinely needs more air (scoped selectors win on specificity). */
+.block {
+  margin-block-start: var(--space-block);
+}
+.block + .block {
+  margin-block-start: var(--space-group);
+}
+
 .prose {
   max-width: var(--maxw-prose);
 }

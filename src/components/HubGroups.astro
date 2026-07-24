@@ -38,7 +38,7 @@ const topics = categoryId ? orderedSubcats(categoryId, catArticles.flatMap((a) =
 const topicCount = (t: string) => catArticles.filter((a) => a.data.subcategory.includes(t)).length;
 ---
 
-<div class="container hub-groups">
+<div class="container block hub-groups">
   {
     topics.length > 0 && (
       <section class="psec">
@@ -122,9 +122,9 @@ const topicCount = (t: string) => catArticles.filter((a) => a.data.subcategory.i
 </div>
 
 <style>
-  /* 1.2rem is the standard gap between content groups (matches the article
-     page's .layer spacing), so TOPICS→CATEGORIES→SECTIONS are evenly spaced. */
-  .hub-groups { padding-block: 1.2rem 1rem; display: flex; flex-direction: column; gap: 1.2rem; }
+  /* Outer spacing comes from the global .block rhythm; this only sets the gap
+     between the groups it contains. */
+  .hub-groups { display: flex; flex-direction: column; gap: var(--space-group); }
   .psec {
     background: var(--surface);
     border: 1px solid var(--line);
