@@ -101,10 +101,17 @@ async function main() {
       score: Math.min(100, Math.round((total / HEART_TARGET) * 100)),
       detail: { ms: `${total} artikel`, en: `${total} articles`, zh: `${total} 篇文章` },
     },
-    immunity: {
-      label: { ms: 'Imuniti', en: 'Immunity', zh: '免疫力' },
-      score: pct(reviewed, total),
-      detail: { ms: `${reviewed}/${total} disemak`, en: `${reviewed}/${total} reviewed`, zh: `${reviewed}/${total} 已审阅` },
+    // Was "Immunity — N reviewed". Nothing in the corpus has a genuine human
+    // review (statuses were set in bulk), so that number asserted something it
+    // could not back up. Report what actually cleared the publish gate instead.
+    published: {
+      label: { ms: 'Diterbitkan', en: 'Published', zh: '已发布' },
+      score: pct(statusDist.published, total),
+      detail: {
+        ms: `${statusDist.published}/${total} diterbitkan`,
+        en: `${statusDist.published}/${total} published`,
+        zh: `${statusDist.published}/${total} 已发布`,
+      },
     },
     dna: {
       label: { ms: 'DNA', en: 'DNA / Languages', zh: 'DNA·语言' },
@@ -219,6 +226,25 @@ async function main() {
           updated: a.updated,
         };
       }),
+    // The Outstanding column's worklist: files not yet published, so the number
+    // links to actual work instead of being a dead statistic. Capped — the full
+    // list is hundreds long; `total` reports the true size.
+    needsReview: (() => {
+      const drafts = allArticles
+        .filter((a) => a.status !== 'published')
+        .sort((x, y) =>
+          x.lang === y.lang ? (x.key < y.key ? -1 : 1) : x.lang < y.lang ? -1 : 1,
+        );
+      return {
+        total: drafts.length,
+        items: drafts.slice(0, 12).map((a) => ({
+          slug: a.slug,
+          category: a.category,
+          lang: a.lang,
+          title: a.title,
+        })),
+      };
+    })(),
     registry: base
       .map((a) => {
         const ttl = titlesByKey.get(a.key) ?? {};

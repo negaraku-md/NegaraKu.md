@@ -117,29 +117,7 @@ const tierColor = (s: number) =>
 
 <section class="container block cols">
   <div>
-    <h2>{L('Liputan diterbitkan', 'Published coverage', '已发布覆盖率')}</h2>
-    <p class="hint">
-      {L(
-        'Bahagian daripada 312 topik yang sudah diterbitkan (langsung boleh dibaca) dalam setiap bahasa.',
-        'Share of the 312 topics that are published — live for a reader — in each language.',
-        '312 个主题中，各语言已发布（读者可直接阅读）的比例。',
-      )}
-    </p>
-    {
-      Object.entries(d.statusByLang).map(([lang, r]) => {
-        const pct = r.total ? Math.round((r.published / r.total) * 100) : 0;
-        return (
-          <div class="bar-row">
-            <span class="bl">{lang.toUpperCase()}</span>
-            <span class="track"><span class="fill" style={`width:${pct}%`} /></span>
-            <span class="bv">
-              {pct}% ({r.published}/{r.total})
-            </span>
-          </div>
-        );
-      })
-    }
-    <h2 style="margin-top:2rem">{L('Kitaran hayat mengikut bahasa', 'Lifecycle by language', '各语言生命周期')}</h2>
+    <h2>{L('Kitaran hayat mengikut bahasa', 'Lifecycle by language', '各语言生命周期')}</h2>
     <p class="hint">
       {L(
         'Setiap artikel — dalam mana-mana bahasa induknya — bergerak melalui kitaran hayatnya sendiri.',
@@ -177,7 +155,9 @@ const tierColor = (s: number) =>
               <td class={row['in-review'] ? '' : 'zero'} data-status="in-review">{row['in-review']}</td>
               <td class={row.reviewed ? '' : 'zero'} data-status="reviewed">{row.reviewed}</td>
               <td class={row.published ? '' : 'zero'} data-status="published">{row.published}</td>
-              <td class={row.outstanding ? 'out' : 'out zero'}>{row.outstanding}</td>
+              <td class={row.outstanding ? 'out' : 'out zero'}>
+                {row.outstanding ? <a href="#needs-review">{row.outstanding}</a> : row.outstanding}
+              </td>
             </tr>
           ))}
         </tbody>
@@ -242,36 +222,43 @@ const tierColor = (s: number) =>
   </div>
 </section>
 
-<section class="container block">
-  <h2>{L('Daftar artikel', 'Article registry', '文章登记')}</h2>
-  <div class="table-wrap">
-    <table>
-      <thead>
-        <tr>
-          <th>{L('Tajuk', 'Title', '标题')}</th>
-          <th>{L('Kategori', 'Category', '分类')}</th>
-          <th>{L('Status', 'Status', '状态')}</th>
-          <th>{L('Perkataan', 'Words', '字数')}</th>
-          <th>{L('Rujukan', 'Sources', '来源')}</th>
-          <th>{L('Bahasa', 'Langs', '语言')}</th>
-        </tr>
-      </thead>
-      <tbody>
-        {
-          d.registry.map((r) => (
-            <tr>
-              <td>{r.title[locale]}</td>
-              <td>{getCategory(r.category)?.name[locale] ?? r.category}</td>
-              <td><span class="badge" data-status={r.status}>{t(`status.${r.status}`, locale)}</span></td>
-              <td>{r.words}</td>
-              <td>{r.sources}</td>
-              <td>{r.langs.join(', ')}</td>
-            </tr>
-          ))
-        }
-      </tbody>
-    </table>
-  </div>
+<section class="container block" id="needs-review">
+  <h2>{L('Perlu semakan', 'Needs review', '待审阅')}</h2>
+  <p class="hint">
+    {L(
+      `${d.needsReview.total} fail belum diterbitkan — draf yang menunggu semakan manusia.`,
+      `${d.needsReview.total} files are not yet published — drafts awaiting human review.`,
+      `${d.needsReview.total} 个文件尚未发布——等待人工审阅的草稿。`,
+    )}
+  </p>
+  {
+    d.needsReview.items.length ? (
+      <ul class="queue">
+        {d.needsReview.items.map((r) => (
+          <li>
+            <a href={localePath(`/${r.category}/${r.slug}`, r.lang)}>{r.title}</a>
+            <span class="qmeta">
+              <span class="qlang">{r.lang.toUpperCase()}</span>
+              {getCategory(r.category)?.name[locale] ?? r.category}
+            </span>
+          </li>
+        ))}
+      </ul>
+    ) : (
+      <p class="muted">{L('Tiada draf tertunggak.', 'No outstanding drafts.', '没有待处理的草稿。')}</p>
+    )
+  }
+  {
+    d.needsReview.total > d.needsReview.items.length && (
+      <p class="hint">
+        {L(
+          `…dan ${d.needsReview.total - d.needsReview.items.length} lagi.`,
+          `…and ${d.needsReview.total - d.needsReview.items.length} more.`,
+          `……还有 ${d.needsReview.total - d.needsReview.items.length} 个。`,
+        )}
+      </p>
+    )
+  }
 </section>
 
 <style>
@@ -333,6 +320,24 @@ const tierColor = (s: number) =>
   .matrix thead th.sub:nth-child(1), .matrix thead th.sub:nth-child(3) { border-left: 1px solid var(--line); }
   .matrix td.out { font-weight: 800; color: #fbbf24; }
   .matrix td.out.zero { color: #4ade80; }
+  .matrix td.out a { color: inherit; text-decoration: underline; text-underline-offset: 2px; }
+  .matrix td.out a:hover { color: var(--gold); }
+
+  /* Needs-review queue — the Outstanding column's worklist. */
+  .queue { list-style: none; padding: 0; margin: 0.2rem 0 0; }
+  .queue li {
+    display: flex; align-items: baseline; justify-content: space-between; gap: 0.8rem;
+    padding: 0.45rem 0; border-bottom: 1px dashed var(--line);
+  }
+  .queue li:last-child { border-bottom: 0; }
+  .queue a { color: var(--ink); font-weight: 600; text-decoration: none; }
+  .queue a:hover { color: var(--gold); text-decoration: underline; }
+  .queue .qmeta { display: flex; align-items: center; gap: 0.5rem; color: var(--muted); font-size: 0.78rem; white-space: nowrap; }
+  .queue .qlang {
+    font-weight: 800; font-size: 0.66rem; letter-spacing: 0.05em;
+    color: #fbbf24; border: 1px solid rgba(251, 191, 36, 0.35);
+    background: rgba(251, 191, 36, 0.1); border-radius: 999px; padding: 0.05rem 0.4rem;
+  }
   .matrix td[data-status='published'] { color: #4ade80; }
   .matrix td[data-status='reviewed'] { color: #4ade80; }
   .matrix td[data-status='in-review'] { color: #60a5fa; }
