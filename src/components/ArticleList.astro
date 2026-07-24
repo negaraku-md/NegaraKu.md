@@ -483,7 +483,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
     flex: none; width: 5rem; font-size: 0.62rem; font-weight: 800; text-transform: uppercase;
     letter-spacing: 0.08em; color: var(--muted); padding-top: 0.35rem;
   }
-  .acards :global(.meta-row.custody) { padding-top: 0.6rem; border-top: 1px dashed var(--line); }
+  .acards :global(.meta-row + .meta-row) { padding-top: 0.6rem; border-top: 1px dashed var(--line); }
 
   /* Custody as a progress track: dot per step (filled=done, hollow=pending),
      actor + date, with › connectors showing the drafted→reviewed→published flow. */
