@@ -90,11 +90,14 @@ export const SUBCATEGORY_LABELS: Record<string, Record<Locale, string>> = {
   crafts: { ms: 'Kraf Tangan', en: 'Crafts', zh: '手工艺' },
   festivals: { ms: 'Perayaan', en: 'Festivals', zh: '节庆' },
   languages: { ms: 'Bahasa', en: 'Languages', zh: '语言' },
+  heritage: { ms: 'Warisan', en: 'Heritage', zh: '文化遗产' },
 
   // ---- law ----
   corporate: { ms: 'Korporat', en: 'Corporate', zh: '公司法' },
   tax: { ms: 'Percukaian', en: 'Taxation', zh: '税务' },
   employment: { ms: 'Pekerjaan', en: 'Employment', zh: '就业' },
+  'legal-system': { ms: 'Sistem Perundangan', en: 'Legal system', zh: '法律体系' },
+  'key-acts': { ms: 'Akta Utama', en: 'Key Acts', zh: '主要法令' },
   // ---- glossary (civic terms) ----
   government: { ms: 'Kerajaan', en: 'Government', zh: '政府' },
   legal: { ms: 'Perundangan', en: 'Legal', zh: '法律' },
@@ -182,8 +185,8 @@ export const SUBCATEGORY_ORDER: Record<string, string[]> = {
     'modern',
     'identity',
   ],
-  'arts-culture': ['performing-arts', 'crafts', 'festivals', 'languages'],
-  law: ['constitutional', 'corporate', 'tax', 'employment'],
+  'arts-culture': ['performing-arts', 'crafts', 'festivals', 'languages', 'heritage'],
+  law: ['constitutional', 'legal-system', 'key-acts', 'corporate', 'tax', 'employment'],
   government: ['institutions', 'agencies', 'ministries'],
   economy: ['indicators', 'monetary-policy', 'sectors', 'policy', 'institutions', 'trade'],
   // Civic terms first — the glossary's job is explaining the state to a reader.
