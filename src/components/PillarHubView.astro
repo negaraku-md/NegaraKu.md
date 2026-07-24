@@ -27,6 +27,12 @@ const topicCount = new Set(
   inPillar.flatMap((a) => (a.data.subcategory ?? []).map((s) => `${a.data.category}/${s}`)),
 ).size;
 const catHref = (id: string) => localePath(`/${id}`, locale);
+// Article count per section (site-wide) for the Sections group.
+const sectionCounts: Record<string, number> = {};
+for (const a of items) {
+  const p = getPillar(a.data.category);
+  if (p) sectionCounts[p] = (sectionCounts[p] ?? 0) + 1;
+}
 ---
 
 <PageHero
@@ -68,6 +74,34 @@ const catHref = (id: string) => localePath(`/${id}`, locale);
     </div>
   </section>
 
+  <section class="psec">
+    <header>
+      <span>{L('Seksyen', 'Sections', '版块')}</span>
+      <span>{PILLARS.length}</span>
+    </header>
+    <div class="psec-body">
+      <div class="cat-grid">
+        {
+          PILLARS.map((s) => (
+            <a
+              class={`cat-card${s.id === pillar ? ' current' : ''}`}
+              href={localePath(`/${s.id}`, locale)}
+              aria-current={s.id === pillar ? 'page' : undefined}
+            >
+              <span class="ci" aria-hidden="true">{s.icon}</span>
+              <span class="cb">
+                <b>
+                  {s.name[locale]}
+                  {sectionCounts[s.id] ? <span class="cc">{sectionCounts[s.id]}</span> : null}
+                </b>
+                <span class="cd">{s.tagline[locale]}</span>
+              </span>
+            </a>
+          ))
+        }
+      </div>
+    </div>
+  </section>
 </div>
 
 <style>
@@ -93,6 +127,7 @@ const catHref = (id: string) => localePath(`/${id}`, locale);
     display: flex; gap: 0.7rem; align-items: flex-start; padding: 0.95rem 1rem;
   }
   .cat-card:hover { border-color: color-mix(in srgb, var(--gold) 55%, var(--line)); transform: translateY(-2px); }
+  .cat-card.current { border-color: var(--gold); background: color-mix(in srgb, var(--gold) 8%, var(--surface-2)); }
   .cat-card .ci { font-size: 1.4rem; line-height: 1; }
   .cat-card .cb { display: flex; flex-direction: column; gap: 0.2rem; }
   .cat-card b { font-family: var(--font-title); font-size: 1rem; display: flex; align-items: center; gap: 0.4rem; }
