@@ -113,14 +113,16 @@ for (const a of items) {
     text-transform: uppercase; color: var(--muted); background: var(--surface-2);
     border-bottom: 1px solid var(--line);
   }
-  /* Group title matches the card title style (Business): title font, ~1rem,
-     bright ink, title-case — not the tiny uppercase header label. */
+  /* Group title: all-caps header label at a readable size, title font, bright ink. */
   .psec > header span:first-child {
     font-family: var(--font-title); font-size: 1.05rem; font-weight: 700;
-    text-transform: none; letter-spacing: 0; line-height: 1.2; color: var(--ink);
+    text-transform: uppercase; letter-spacing: 0.03em; line-height: 1.2; color: var(--ink);
   }
-  /* Group count matches the card number size (1.6rem gold). */
-  .psec > header span:last-child { font-size: 1.6rem; line-height: 1; letter-spacing: 0; color: var(--gold); font-weight: 800; font-variant-numeric: tabular-nums; }
+  /* Group count follows the title exactly — font, size and colour (bright ink). */
+  .psec > header span:last-child {
+    font-family: var(--font-title); font-size: 1.05rem; font-weight: 700; line-height: 1.2;
+    letter-spacing: 0; color: var(--ink); font-variant-numeric: tabular-nums;
+  }
   .psec-body { padding: 1.1rem; }
 
   .cat-grid { display: grid; gap: 0.8rem; }
