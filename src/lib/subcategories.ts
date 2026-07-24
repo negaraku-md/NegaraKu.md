@@ -95,6 +95,10 @@ export const SUBCATEGORY_LABELS: Record<string, Record<Locale, string>> = {
   corporate: { ms: 'Korporat', en: 'Corporate', zh: '公司法' },
   tax: { ms: 'Percukaian', en: 'Taxation', zh: '税务' },
   employment: { ms: 'Pekerjaan', en: 'Employment', zh: '就业' },
+  // ---- glossary (civic terms) ----
+  government: { ms: 'Kerajaan', en: 'Government', zh: '政府' },
+  legal: { ms: 'Perundangan', en: 'Legal', zh: '法律' },
+  culture: { ms: 'Budaya', en: 'Culture', zh: '文化' },
   constitutional: { ms: 'Perlembagaan', en: 'Constitutional', zh: '宪法' },
 
   // ---- government ----
@@ -107,6 +111,8 @@ export const SUBCATEGORY_LABELS: Record<string, Record<Locale, string>> = {
   sectors: { ms: 'Sektor', en: 'Sectors', zh: '行业领域' },
   trade: { ms: 'Perdagangan', en: 'Trade', zh: '贸易' },
   'monetary-policy': { ms: 'Dasar Monetari', en: 'Monetary policy', zh: '货币政策' },
+  policy: { ms: 'Dasar', en: 'Policy', zh: '政策' },
+  institutions: { ms: 'Institusi', en: 'Institutions', zh: '机构' },
 };
 
 /** Display order per category. Anything unlisted sorts to the end. */
@@ -179,7 +185,9 @@ export const SUBCATEGORY_ORDER: Record<string, string[]> = {
   'arts-culture': ['performing-arts', 'crafts', 'festivals', 'languages'],
   law: ['constitutional', 'corporate', 'tax', 'employment'],
   government: ['institutions', 'agencies', 'ministries'],
-  economy: ['indicators', 'monetary-policy', 'sectors', 'trade'],
+  economy: ['indicators', 'monetary-policy', 'sectors', 'policy', 'institutions', 'trade'],
+  // Civic terms first — the glossary's job is explaining the state to a reader.
+  glossary: ['government', 'legal', 'corporate', 'tax', 'employment', 'culture'],
 };
 
 function titleCase(slug: string): string {
