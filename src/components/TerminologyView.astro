@@ -1,5 +1,6 @@
 ---
 import type { Locale } from '@/lib/categories';
+import DataProvenance from './DataProvenance.astro';
 import { TERMS } from '@/lib/terminology';
 import { localePath } from '@/lib/i18n';
 
@@ -13,6 +14,7 @@ const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale
 <section class="container head">
   <h1>{L('Istilah Malaysia', 'Malaysian Terminology', '马来西亚词汇')}</h1>
   <p class="lead">{L('Perkataan harian Malaysia dengan padanan bahasa baku dan Inggeris.', 'Everyday Malaysian words with their standard-Malay and English equivalents.', '马来西亚日常用语及其标准马来语与英语对照。')}</p>
+  <DataProvenance locale={locale} dataset="terminology" />
   <div class="tools">
     <input type="search" id="term-search" placeholder={L('Cari istilah…', 'Search terms…', '搜索词汇…')} />
     <a class="btn btn-ghost" href={localePath('/terminology/converter', locale)}>{L('Penukar teks', 'Text converter', '文本转换器')} →</a>

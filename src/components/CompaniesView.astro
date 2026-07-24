@@ -1,5 +1,6 @@
 ---
 import type { Locale } from '@/lib/categories';
+import DataProvenance from './DataProvenance.astro';
 import { COMPANIES } from '@/lib/companies';
 
 interface Props {
@@ -25,6 +26,7 @@ const sectors = [...new Set(COMPANIES.map((c) => c.sector))];
 </section>
 
 <section class="container">
+  <DataProvenance locale={locale} dataset="companies" />
   <svg id="bubbles" role="img" aria-label={L('Carta gelembung syarikat', 'Company bubble chart', '企业气泡图')}></svg>
   <div class="legend">
     {sectors.map((s) => <span class="lg" data-sector={s}><i></i>{s}</span>)}

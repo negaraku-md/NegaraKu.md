@@ -1,5 +1,6 @@
 ---
 import type { Locale } from '@/lib/categories';
+import DataProvenance from './DataProvenance.astro';
 import { RULES } from '@/lib/terminology';
 import { localePath } from '@/lib/i18n';
 
@@ -14,6 +15,7 @@ const example = 'jom kita tapau nasi lemak, lepas tu lepak kat mamak';
 <section class="container head">
   <h1>{L('Penukar Bahasa Harian → Baku', 'Everyday → Standard Malay Converter', '日常语 → 标准马来语转换器')}</h1>
   <p class="lead">{L('Tukar bahasa harian Malaysia kepada Bahasa Malaysia baku. Ruleset permulaan — boleh diperluas.', 'Convert everyday Malaysian speech into standard Bahasa Malaysia. Starter ruleset — extendable.', '将马来西亚日常口语转换为标准马来语。入门规则集，可扩展。')}</p>
+  <DataProvenance locale={locale} dataset="terminology" />
   <p><a href={localePath('/terminology', locale)}>← {L('Glosari istilah', 'Term glossary', '词汇表')}</a></p>
 </section>
 

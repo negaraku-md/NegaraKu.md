@@ -1,0 +1,95 @@
+---
+import type { Locale } from '@/lib/categories';
+import { getProvenance } from '@/lib/provenance';
+
+// Shows a dataset's provenance to the person reading the numbers. Mirrors the
+// article Trust card: what this is, where it came from, and — crucially — when
+// it should NOT be relied on.
+
+interface Props {
+  locale: Locale;
+  dataset: string;
+}
+const { locale, dataset } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const p = getProvenance(dataset);
+
+const badge = {
+  sourced: { cls: 'ok', icon: '✓', text: L('Bersumber', 'Sourced', '已注明来源') },
+  unverified: { cls: 'warn', icon: '⚠', text: L('Belum disahkan', 'Unverified', '未经核实') },
+  schematic: { cls: 'info', icon: '◇', text: L('Skematik', 'Schematic', '示意') },
+}[p?.verification ?? 'unverified'];
+---
+
+{
+  p && (
+    <aside class={`prov ${badge.cls}`}>
+      <div class="prov-head">
+        <span class="prov-badge">
+          {badge.icon} {badge.text}
+        </span>
+        <span class="prov-label">{p.label[locale]}</span>
+      </div>
+      {p.note && <p class="prov-note">{p.note[locale]}</p>}
+      <p class="prov-meta">
+        {p.source ? (
+          <>
+            <span>{L('Sumber', 'Source', '来源')}: </span>
+            {p.source.url ? (
+              <a href={p.source.url} rel="noopener">
+                {p.source.title}
+              </a>
+            ) : (
+              <span>{p.source.title}</span>
+            )}
+            {p.source.publisher && <span> — {p.source.publisher}</span>}
+          </>
+        ) : (
+          <span>{L('Tiada sumber dinyatakan.', 'No source cited.', '未注明来源。')}</span>
+        )}
+        {p.asOf && (
+          <span>
+            {' · '}
+            {L('Setakat', 'As at', '截至')} {p.asOf}
+          </span>
+        )}
+        <span>
+          {' · '}
+          {p.reviewer
+            ? `${L('Disemak oleh', 'Reviewed by', '审阅人')} ${p.reviewer}`
+            : L('Belum disemak manusia', 'Not human-reviewed', '未经人工审阅')}
+        </span>
+      </p>
+    </aside>
+  )
+}
+
+<style>
+  .prov {
+    border: 1px solid var(--line);
+    border-left-width: 3px;
+    border-radius: 10px;
+    background: var(--surface);
+    padding: 0.75rem 0.95rem;
+    margin: 0 0 1.25rem;
+  }
+  .prov.warn { border-left-color: #fbbf24; }
+  .prov.info { border-left-color: #60a5fa; }
+  .prov.ok { border-left-color: #4ade80; }
+
+  .prov-head { display: flex; align-items: center; gap: 0.6rem; flex-wrap: wrap; }
+  .prov-badge {
+    font-size: 0.68rem; font-weight: 800; letter-spacing: 0.04em;
+    border-radius: 999px; padding: 0.1rem 0.5rem; white-space: nowrap;
+    border: 1px solid var(--line); background: var(--surface-2); color: var(--ink-soft);
+  }
+  .prov.warn .prov-badge { color: #fbbf24; border-color: rgba(251, 191, 36, 0.35); background: rgba(251, 191, 36, 0.1); }
+  .prov.info .prov-badge { color: #60a5fa; border-color: rgba(96, 165, 250, 0.35); background: rgba(96, 165, 250, 0.1); }
+  .prov.ok .prov-badge { color: #4ade80; border-color: rgba(74, 222, 128, 0.35); background: rgba(74, 222, 128, 0.1); }
+
+  .prov-label { font-weight: 700; font-size: 0.9rem; color: var(--ink); }
+  .prov-note { margin: 0.5rem 0 0; font-size: 0.88rem; color: var(--ink-soft); line-height: 1.55; }
+  .prov-meta { margin: 0.4rem 0 0; font-size: 0.78rem; color: var(--muted); }
+  .prov-meta a { color: var(--muted); text-decoration: underline; }
+  .prov-meta a:hover { color: var(--gold); }
+</style>
