@@ -57,7 +57,7 @@ const rows = articles.map((a) => {
   const isReviewed = d.status === 'reviewed' || d.status === 'published';
   const isPublished = d.status === 'published';
   const custody = [
-    { key: 'draft', who: first?.contributor ?? d.author ?? null, date: iso(d.created ?? first?.date ?? d.updated), reached: true },
+    { key: 'draft', who: d.aiAssisted ? null : first?.contributor ?? d.author ?? null, date: iso(d.created ?? first?.date ?? d.updated), reached: true },
     { key: 'reviewed', who: isReviewed ? d.reviewer ?? null : null, date: isReviewed ? iso(d.reviewed) : '', reached: isReviewed },
     { key: 'published', who: isPublished ? d.publishedBy ?? d.reviewer ?? null : null, date: isPublished ? iso(d.published ?? d.reviewed) : '', reached: isPublished },
   ];

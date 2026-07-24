@@ -515,12 +515,14 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
 </article>
 
 <style>
+  /* Same hero treatment as the home / section heroes (PageHero): the gold-tinted
+     gradient, big 900-weight headline, matched breadcrumb + padding. */
   .art-hero {
     background:
-      radial-gradient(680px 320px at 15% -30%, color-mix(in srgb, var(--gold) 11%, transparent), transparent),
-      radial-gradient(900px 360px at 55% -20%, var(--surface-2), transparent);
+      radial-gradient(700px 420px at 12% -10%, color-mix(in srgb, var(--gold) 12%, transparent), transparent),
+      radial-gradient(1100px 500px at 60% -20%, var(--surface-2), transparent);
     border-bottom: 1px solid var(--line);
-    padding: 2.4rem 0 2rem;
+    padding-block: 3.4rem 3rem;
     margin-bottom: 0;
   }
   .art { padding-block: 2rem 4rem; }
@@ -535,8 +537,8 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
   }
   .pill.tier { color: var(--gold); border-color: color-mix(in srgb, var(--gold) 45%, var(--line)); background: color-mix(in srgb, var(--gold) 9%, transparent); }
   .pill.mode { color: #60a5fa; border-color: rgba(96, 165, 250, 0.35); background: rgba(96, 165, 250, 0.1); }
-  .art-hero h1 { margin: 0 0 0.55rem; font-family: var(--font-title); font-weight: 800; font-size: clamp(1.7rem, 3.4vw, 2.5rem); line-height: 1.12; max-width: 22ch; }
-  .lede { color: var(--ink-soft); font-size: 1.08rem; max-width: 65ch; margin: 0; }
+  .art-hero h1 { margin: 0 0 0.9rem; font-family: var(--font-title); font-weight: 900; letter-spacing: -0.03em; font-size: clamp(2.2rem, 4.6vw, 3.4rem); line-height: 1.05; max-width: 24ch; color: var(--ink); }
+  .lede { color: var(--ink-soft); font-size: 1.1rem; line-height: 1.6; max-width: 60ch; margin: 0; }
 
   .sens {
     border: 1px solid rgba(248, 113, 113, 0.4); background: rgba(248, 113, 113, 0.07);
