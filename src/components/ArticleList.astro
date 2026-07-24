@@ -228,7 +228,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
             <span class="st ${STATUS_CLASS[r.st] || 'muted'}">${I18N.status[r.st] || r.st}</span>
             <span class="chip ${r.sens ? 'sens' : ''}">${r.sens ? '🔒 ' : ''}${r.cls}</span>
             ${r.rev ? `<span class="chip dim">${I18N.nextReview}: ${r.rev}</span>` : ''}
-            <span class="chip">${I18N.master}: <b>${r.ml}</b></span>
+            <span class="chip">${I18N.master}: <a class="mlink" href="${langHref(r.ml.toLowerCase(), r.p)}" title="${r.t} — ${r.ml}">${r.ml}</a></span>
             <span class="chip langs">${['ms','en','zh'].map((l) => r.langs.includes(l)
               ? `<a class="on" href="${langHref(l, r.p)}" title="${r.t} — ${l.toUpperCase()}">${l.toUpperCase()}</a>`
               : `<span class="off">${l.toUpperCase()}</span>`).join('')}</span>
@@ -337,6 +337,8 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
   .acards :global(.langs a), .acards :global(.langs span) { font-size: 0.7rem; font-weight: 800; text-decoration: none; }
   .acards :global(.langs a.on) { color: var(--gold); }
   .acards :global(.langs a.on:hover) { text-decoration: underline; }
+  .acards :global(.mlink) { color: var(--gold); font-weight: 800; text-decoration: none; }
+  .acards :global(.mlink:hover) { text-decoration: underline; }
   .acards :global(.langs .off) { color: color-mix(in srgb, var(--muted) 45%, transparent); }
 
   .pager { display: flex; flex-wrap: wrap; gap: 0.8rem; justify-content: space-between; align-items: center; margin-top: 1rem; font-size: 0.85rem; }
