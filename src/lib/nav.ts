@@ -22,6 +22,7 @@ export const NAV: NavMenu[] = [
   // Random were removed from the menu pending redevelopment — the pages still
   // build and remain reachable by URL.
   { label: 'nav.explore', href: '/explore' },
+  { label: 'nav.articles', href: '/articles' },
   {
     label: 'nav.more',
     items: [

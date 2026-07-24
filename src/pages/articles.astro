@@ -1,0 +1,9 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import ArticlesView from '@/components/ArticlesView.astro';
+const locale = 'ms';
+---
+
+<BaseLayout locale={locale} title={locale === 'zh' ? '所有文章' : locale === 'ms' ? 'Semua Artikel' : 'All Articles'} path="/articles">
+  <ArticlesView locale={locale} />
+</BaseLayout>

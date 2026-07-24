@@ -1,0 +1,304 @@
+---
+import type { Locale } from '@/lib/categories';
+import { getCategory } from '@/lib/categories';
+import { articlesForLocale, allArticles, effectiveStatus } from '@/lib/content';
+import { localePath, t } from '@/lib/i18n';
+
+// Articles index — a browsable, sortable, paginated list of the whole corpus.
+// Cards suit discovery; a table suits "show me everything and let me sort it".
+// All interaction is client-side over an embedded manifest (≈312 rows), so no
+// build-time pagination and no server round-trips.
+
+interface Props {
+  locale: Locale;
+}
+const { locale } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+const canonical = await articlesForLocale(locale);
+
+// Which languages each topic exists in (publishable files only).
+const langsByKey = new Map<string, Set<string>>();
+for (const a of await allArticles()) {
+  const key = `${a.data.category}/${a.data.slug}`;
+  (langsByKey.get(key) ?? langsByKey.set(key, new Set()).get(key)!).add(a.data.lang);
+}
+
+const rows = canonical.map((a) => {
+  const d = a.data;
+  const key = `${d.category}/${d.slug}`;
+  const conn = (d.related?.length ?? 0) + (d.relations?.length ?? 0);
+  return {
+    t: d.title,
+    h: localePath(`/${d.category}/${d.slug}`, locale),
+    cat: getCategory(d.category)?.name[locale] ?? d.category,
+    catId: d.category,
+    st: effectiveStatus(a),
+    langs: [...(langsByKey.get(key) ?? [])].sort(),
+    src: d.sources?.length ?? 0,
+    conn,
+    upd: d.updated ? new Date(d.updated).toISOString().slice(0, 10) : '',
+  };
+});
+
+// Distinct categories for the filter, label-sorted.
+const cats = [...new Map(rows.map((r) => [r.catId, r.cat])).entries()].sort((a, b) =>
+  a[1] < b[1] ? -1 : 1,
+);
+const STATUSES = ['draft', 'in-review', 'reviewed', 'published', 'needs-update', 'in-update', 'archived'];
+---
+
+<section class="container head">
+  <p class="crumb">
+    <a href={localePath('/', locale)}>{L('Laman Utama', 'Home', '首页')}</a> /
+    <span>{L('Semua artikel', 'All articles', '所有文章')}</span>
+  </p>
+  <h1>{L('Semua artikel', 'All articles', '所有文章')}</h1>
+  <p class="lead">
+    {L(
+      'Semak imbas keseluruhan pangkalan pengetahuan — isih, tapis dan cari.',
+      'Browse the whole knowledge base — sort, filter and search.',
+      '浏览整个知识库——排序、筛选与搜索。',
+    )}
+  </p>
+</section>
+
+<section class="container block">
+  <div class="art-toolbar">
+    <div class="tabs" role="tablist">
+      <button class="tab on" data-sort="upd" data-dir="desc">{L('Terkini', 'Latest', '最新')}</button>
+      <button class="tab" data-sort="t" data-dir="asc">{L('A–Z', 'A–Z', 'A–Z')}</button>
+      <button class="tab" data-sort="src" data-dir="desc">{L('Paling banyak sumber', 'Most sourced', '来源最多')}</button>
+      <button class="tab" data-sort="conn" data-dir="desc">{L('Paling terhubung', 'Most linked', '关联最多')}</button>
+    </div>
+    <div class="filters">
+      <input id="f-q" type="search" placeholder={L('Cari tajuk…', 'Search titles…', '搜索标题…')} />
+      <select id="f-cat">
+        <option value="">{L('Semua kategori', 'All categories', '所有分类')}</option>
+        {cats.map(([id, name]) => <option value={id}>{name}</option>)}
+      </select>
+      <select id="f-status">
+        <option value="">{L('Semua status', 'All statuses', '所有状态')}</option>
+        {STATUSES.map((s) => <option value={s}>{t(`status.${s}`, locale)}</option>)}
+      </select>
+      <select id="f-lang">
+        <option value="">{L('Semua bahasa', 'All languages', '所有语言')}</option>
+        <option value="ms">MS</option>
+        <option value="en">EN</option>
+        <option value="zh">ZH</option>
+      </select>
+    </div>
+  </div>
+
+  <div class="tblwrap">
+    <table class="alist">
+      <thead>
+        <tr>
+          <th class="sortable" data-sort="t">{L('Tajuk', 'Title', '标题')}</th>
+          <th class="sortable" data-sort="cat">{L('Kategori', 'Category', '分类')}</th>
+          <th class="sortable" data-sort="st">{L('Status', 'Status', '状态')}</th>
+          <th>{L('Bahasa', 'Languages', '语言')}</th>
+          <th class="sortable num" data-sort="src">{L('Sumber', 'Sources', '来源')}</th>
+          <th class="sortable num" data-sort="upd">{L('Dikemas kini', 'Updated', '更新')}</th>
+        </tr>
+      </thead>
+      <tbody id="alist-body"></tbody>
+    </table>
+  </div>
+
+  <div class="pager" id="pager">
+    <div class="pg-size">
+      <label>{L('Baris', 'Rows', '每页')}
+        <select id="pg-size">
+          <option>25</option>
+          <option>50</option>
+          <option>100</option>
+        </select>
+      </label>
+      <span id="pg-count" class="pg-count"></span>
+    </div>
+    <div class="pg-nav">
+      <button id="pg-first" title={L('Pertama', 'First', '首页')}>«</button>
+      <button id="pg-prev" title={L('Sebelum', 'Prev', '上一页')}>‹</button>
+      <span class="pg-of">
+        {L('Halaman', 'Page', '第')}
+        <input id="pg-no" type="number" min="1" value="1" />
+        / <span id="pg-total">1</span>
+      </span>
+      <button id="pg-next" title={L('Seterusnya', 'Next', '下一页')}>›</button>
+      <button id="pg-last" title={L('Akhir', 'Last', '末页')}>»</button>
+    </div>
+  </div>
+</section>
+
+<script type="application/json" id="articles-data" set:html={JSON.stringify(rows)}></script>
+<script
+  type="application/json"
+  id="articles-i18n"
+  set:html={JSON.stringify({
+    status: Object.fromEntries(STATUSES.map((s) => [s, t(`status.${s}`, locale)])),
+    showing: L('{a}–{b} drpd {n}', '{a}–{b} of {n}', '第 {a}–{b} 项，共 {n}'),
+    empty: L('Tiada artikel sepadan.', 'No matching articles.', '没有匹配的文章。'),
+  })}
+></script>
+
+<script>
+  const rows = JSON.parse(document.getElementById('articles-data')?.textContent || '[]');
+  const I18N = JSON.parse(document.getElementById('articles-i18n')?.textContent || '{}');
+  const $ = (id) => document.getElementById(id);
+
+  const state = { sort: 'upd', dir: 'desc', q: '', cat: '', st: '', lang: '', page: 1, size: 25 };
+
+  const cmp = (a, b) => {
+    const k = state.sort;
+    let av = a[k], bv = b[k];
+    if (k === 'src' || k === 'conn') { av = +av; bv = +bv; }
+    else { av = String(av).toLowerCase(); bv = String(bv).toLowerCase(); }
+    const r = av < bv ? -1 : av > bv ? 1 : 0;
+    return state.dir === 'asc' ? r : -r;
+  };
+
+  function filtered() {
+    return rows.filter((r) =>
+      (!state.q || r.t.toLowerCase().includes(state.q)) &&
+      (!state.cat || r.catId === state.cat) &&
+      (!state.st || r.st === state.st) &&
+      (!state.lang || r.langs.includes(state.lang)),
+    );
+  }
+
+  const STATUS_CLASS = {
+    published: 'ok', reviewed: 'ok', 'in-review': 'info', 'in-update': 'info',
+    draft: 'warn', 'needs-update': 'warn', archived: 'muted',
+  };
+
+  function render() {
+    const data = filtered().sort(cmp);
+    const total = data.length;
+    const pages = Math.max(1, Math.ceil(total / state.size));
+    if (state.page > pages) state.page = pages;
+    const start = (state.page - 1) * state.size;
+    const slice = data.slice(start, start + state.size);
+
+    const body = $('alist-body');
+    if (!slice.length) {
+      body.innerHTML = `<tr><td colspan="6" class="empty">${I18N.empty}</td></tr>`;
+    } else {
+      body.innerHTML = slice.map((r) => `
+        <tr>
+          <td><a href="${r.h}">${r.t}</a></td>
+          <td>${r.cat}</td>
+          <td><span class="st ${STATUS_CLASS[r.st] || 'muted'}">${I18N.status[r.st] || r.st}</span></td>
+          <td class="langs">${['ms','en','zh'].map((l) => `<span class="${r.langs.includes(l) ? 'on' : 'off'}">${l.toUpperCase()}</span>`).join('')}</td>
+          <td class="num">${r.src}</td>
+          <td class="num">${r.upd}</td>
+        </tr>`).join('');
+    }
+
+    const a = total ? start + 1 : 0;
+    const b = Math.min(start + state.size, total);
+    $('pg-count').textContent = I18N.showing.replace('{a}', a).replace('{b}', b).replace('{n}', total);
+    $('pg-total').textContent = pages;
+    $('pg-no').value = state.page;
+    $('pg-no').max = pages;
+    $('pg-first').disabled = $('pg-prev').disabled = state.page <= 1;
+    $('pg-next').disabled = $('pg-last').disabled = state.page >= pages;
+  }
+
+  function go(page) { state.page = page; render(); }
+
+  // Sort tabs
+  document.querySelectorAll('.tab').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.tab').forEach((x) => x.classList.remove('on'));
+      btn.classList.add('on');
+      state.sort = btn.dataset.sort; state.dir = btn.dataset.dir; state.page = 1; render();
+    });
+  });
+  // Sortable headers (toggle direction on repeat)
+  document.querySelectorAll('th.sortable').forEach((th) => {
+    th.addEventListener('click', () => {
+      const k = th.dataset.sort;
+      if (state.sort === k) state.dir = state.dir === 'asc' ? 'desc' : 'asc';
+      else { state.sort = k; state.dir = k === 'upd' || k === 'src' ? 'desc' : 'asc'; }
+      document.querySelectorAll('.tab').forEach((x) => x.classList.remove('on'));
+      state.page = 1; render();
+    });
+  });
+  // Filters
+  $('f-q').addEventListener('input', (e) => { state.q = e.target.value.trim().toLowerCase(); state.page = 1; render(); });
+  $('f-cat').addEventListener('change', (e) => { state.cat = e.target.value; state.page = 1; render(); });
+  $('f-status').addEventListener('change', (e) => { state.st = e.target.value; state.page = 1; render(); });
+  $('f-lang').addEventListener('change', (e) => { state.lang = e.target.value; state.page = 1; render(); });
+  // Pagination
+  $('pg-size').addEventListener('change', (e) => { state.size = +e.target.value; state.page = 1; render(); });
+  $('pg-first').addEventListener('click', () => go(1));
+  $('pg-prev').addEventListener('click', () => go(state.page - 1));
+  $('pg-next').addEventListener('click', () => go(state.page + 1));
+  $('pg-last').addEventListener('click', () => go(Math.ceil(filtered().length / state.size)));
+  $('pg-no').addEventListener('change', (e) => {
+    const n = Math.max(1, Math.min(+e.target.value || 1, Math.ceil(filtered().length / state.size)));
+    go(n);
+  });
+
+  render();
+</script>
+
+<style>
+  .head { padding-block: 2rem 0.5rem; }
+  .crumb { font-size: 0.84rem; color: var(--muted); margin: 0 0 0.6rem; }
+  .crumb a { color: var(--muted); text-decoration: none; }
+  .crumb a:hover { color: var(--gold); }
+  .crumb span { color: var(--ink-soft); }
+  h1 { margin: 0 0 0.4rem; font-family: var(--font-title); font-weight: 800; font-size: clamp(1.7rem, 3.6vw, 2.4rem); }
+  .lead { color: var(--ink-soft); margin: 0; }
+
+  .art-toolbar { display: flex; flex-wrap: wrap; gap: 0.8rem; justify-content: space-between; align-items: center; margin-bottom: 1rem; }
+  .tabs { display: flex; gap: 0.35rem; flex-wrap: wrap; }
+  .tab {
+    font-size: 0.82rem; font-weight: 700; padding: 0.35rem 0.75rem; border-radius: 999px;
+    border: 1px solid var(--line); background: var(--surface); color: var(--ink-soft); cursor: pointer;
+  }
+  .tab:hover { border-color: color-mix(in srgb, var(--gold) 45%, var(--line)); }
+  .tab.on { color: #000; background: var(--gold); border-color: var(--gold); }
+  .filters { display: flex; gap: 0.4rem; flex-wrap: wrap; }
+  .filters input, .filters select {
+    font: inherit; font-size: 0.85rem; padding: 0.35rem 0.6rem; border-radius: 8px;
+    border: 1px solid var(--line); background: var(--surface); color: var(--ink);
+  }
+  .filters input:focus, .filters select:focus { outline: none; border-color: var(--gold); }
+
+  .tblwrap { overflow-x: auto; border: 1px solid var(--line); border-radius: 12px; }
+  .alist { width: 100%; border-collapse: collapse; font-size: 0.88rem; }
+  .alist th, .alist td { text-align: left; padding: 0.6rem 0.8rem; border-bottom: 1px solid var(--line); white-space: nowrap; }
+  .alist thead th { font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.04em; color: var(--muted); background: var(--surface-2); }
+  .alist th.sortable { cursor: pointer; user-select: none; }
+  .alist th.sortable:hover { color: var(--gold); }
+  .alist th.num, .alist td.num { text-align: right; font-variant-numeric: tabular-nums; }
+  .alist tbody tr:hover { background: var(--surface); }
+  .alist td:first-child { white-space: normal; min-width: 18rem; }
+  .alist td a { color: var(--ink); text-decoration: none; font-weight: 600; }
+  .alist td a:hover { color: var(--gold); text-decoration: underline; }
+  .alist td.empty { text-align: center; color: var(--muted); padding: 2rem; }
+  .st { font-size: 0.7rem; font-weight: 800; border-radius: 999px; padding: 0.08rem 0.45rem; border: 1px solid var(--line); }
+  .st.ok { color: #4ade80; border-color: rgba(74,222,128,.35); background: rgba(74,222,128,.1); }
+  .st.warn { color: #fbbf24; border-color: rgba(251,191,36,.35); background: rgba(251,191,36,.1); }
+  .st.info { color: #60a5fa; border-color: rgba(96,165,250,.35); background: rgba(96,165,250,.1); }
+  .st.muted { color: var(--muted); }
+  .langs span { font-size: 0.66rem; font-weight: 800; margin-right: 0.2rem; }
+  .langs .on { color: var(--gold); }
+  .langs .off { color: color-mix(in srgb, var(--muted) 45%, transparent); }
+
+  .pager { display: flex; flex-wrap: wrap; gap: 0.8rem; justify-content: space-between; align-items: center; margin-top: 1rem; font-size: 0.85rem; }
+  .pg-size { display: flex; align-items: center; gap: 0.8rem; color: var(--muted); }
+  .pg-size select { font: inherit; margin-left: 0.3rem; padding: 0.2rem 0.4rem; border-radius: 6px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); }
+  .pg-nav { display: flex; align-items: center; gap: 0.3rem; }
+  .pg-nav button {
+    min-width: 2rem; padding: 0.3rem 0.5rem; border-radius: 8px; border: 1px solid var(--line);
+    background: var(--surface); color: var(--ink); cursor: pointer; font-size: 1rem; line-height: 1;
+  }
+  .pg-nav button:hover:not(:disabled) { border-color: var(--gold); color: var(--gold); }
+  .pg-nav button:disabled { opacity: 0.4; cursor: default; }
+  .pg-of { display: inline-flex; align-items: center; gap: 0.35rem; color: var(--muted); }
+  .pg-of input { width: 3.2rem; font: inherit; text-align: center; padding: 0.25rem; border-radius: 6px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); }
+</style>
