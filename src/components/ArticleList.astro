@@ -40,10 +40,6 @@ const SENS_LABEL: Record<string, string> = {
 };
 
 const iso = (v: unknown) => (v ? new Date(v as string).toISOString().slice(0, 10) : '');
-// How far a status has advanced along the custody chain draft → reviewed → published.
-const STATUS_RANK: Record<string, number> = {
-  draft: 0, 'in-review': 1, reviewed: 2, published: 3, 'needs-update': 3, 'in-update': 3, archived: 3,
-};
 
 const rows = articles.map((a) => {
   const d = a.data;
@@ -53,17 +49,17 @@ const rows = articles.map((a) => {
   const topic = d.subcategory?.[0];
   const sens = d.sensitivity && d.sensitivity !== 'none' ? d.sensitivity : null;
   const st = effectiveStatus(a);
-  const rank = STATUS_RANK[st] ?? 0;
   const revs = [...(d.revisions ?? [])].sort((x, y) => +new Date(x.date) - +new Date(y.date));
   const first = revs[0];
-  const withReviewer = revs.find((r) => r.reviewer);
-  // Chain of custody: who is accountable at each lifecycle status. Unknown human
-  // actors stay null (rendered "AI draft" for the draft step, "—" otherwise);
-  // a step not yet reached is "pending".
+  // Chain of custody — SAME derivation as ArticleView so the two never diverge:
+  // reviewed/published fall back to the review record we actually keep. Unknown
+  // human actor → "AI draft" (draft step); a step not yet reached is "pending".
+  const isReviewed = d.status === 'reviewed' || d.status === 'published';
+  const isPublished = d.status === 'published';
   const custody = [
-    { key: 'draft', who: first?.contributor ?? null, date: iso(first?.date), reached: true },
-    { key: 'reviewed', who: withReviewer?.reviewer ?? d.reviewer ?? null, date: iso(d.reviewed), reached: rank >= 2 },
-    { key: 'published', who: null, date: rank >= 3 ? iso(d.updated) : '', reached: rank >= 3 },
+    { key: 'draft', who: first?.contributor ?? d.author ?? null, date: iso(d.created ?? first?.date ?? d.updated), reached: true },
+    { key: 'reviewed', who: isReviewed ? d.reviewer ?? null : null, date: isReviewed ? iso(d.reviewed) : '', reached: isReviewed },
+    { key: 'published', who: isPublished ? d.publishedBy ?? d.reviewer ?? null : null, date: isPublished ? iso(d.published ?? d.reviewed) : '', reached: isPublished },
   ];
   return {
     t: d.title,
@@ -217,9 +213,10 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
     sources: L('sumber', 'sources', '来源'),
     linked: L('pautan', 'links', '关联'),
     updated: L('Dikemas kini', 'Updated', '更新'),
+    pathLabel: L('Laluan', 'Path', '路径'),
     detailsLabel: L('Butiran', 'Details', '详情'),
     custodyLabel: L('Jagaan', 'Custody', '保管'),
-    aiDraft: L('Draf AI', 'AI draft', 'AI 草稿'),
+    aiDraft: L('Dibantu AI', 'AI-assisted', 'AI 辅助'),
     pending: L('belum', 'pending', '待处理'),
     stageDrafted: L('Dirangka', 'Drafted', '起草'),
     stageReviewed: L('Disemak', 'Reviewed', '审阅'),
@@ -297,8 +294,11 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
       body.innerHTML = slice.map((r) => `
         <article class="acard">
           <a class="atitle" href="${r.h}">${r.t}</a>
-          <p class="apath"><span>${r.sec}</span> › <span>${r.cat}</span> › <span>${r.top}</span></p>
           <div class="acard-meta">
+            <div class="meta-row">
+              <span class="hlabel">${I18N.pathLabel}</span>
+              <p class="apath"><span>${r.sec}</span> › <span>${r.cat}</span> › <span>${r.top}</span></p>
+            </div>
             <div class="meta-row">
               <span class="hlabel">${I18N.detailsLabel}</span>
               <div class="achips">
@@ -450,7 +450,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
     color: var(--ink); text-decoration: none;
   }
   .acards :global(.acard:hover .atitle) { color: var(--gold); }
-  .acards :global(.apath) { margin: 0.3rem 0 0.75rem; font-size: 0.8rem; color: var(--muted); }
+  .acards :global(.apath) { margin: 0; flex: 1; min-width: 0; padding-top: 0.2rem; font-size: 0.8rem; color: var(--muted); }
   .acards :global(.apath span) { color: var(--ink-soft); }
   .acards :global(.achips) { flex: 1; min-width: 0; display: flex; flex-wrap: wrap; align-items: center; gap: 0.45rem; }
   .acards :global(.chip) {
