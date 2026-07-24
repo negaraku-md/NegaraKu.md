@@ -106,6 +106,7 @@ export const SUBCATEGORY_LABELS: Record<string, Record<Locale, string>> = {
   indicators: { ms: 'Petunjuk', en: 'Indicators', zh: '指标' },
   sectors: { ms: 'Sektor', en: 'Sectors', zh: '行业领域' },
   trade: { ms: 'Perdagangan', en: 'Trade', zh: '贸易' },
+  'monetary-policy': { ms: 'Dasar Monetari', en: 'Monetary policy', zh: '货币政策' },
 };
 
 /** Display order per category. Anything unlisted sorts to the end. */
@@ -178,7 +179,7 @@ export const SUBCATEGORY_ORDER: Record<string, string[]> = {
   'arts-culture': ['performing-arts', 'crafts', 'festivals', 'languages'],
   law: ['constitutional', 'corporate', 'tax', 'employment'],
   government: ['institutions', 'agencies', 'ministries'],
-  economy: ['indicators', 'sectors', 'trade'],
+  economy: ['indicators', 'monetary-policy', 'sectors', 'trade'],
 };
 
 function titleCase(slug: string): string {
