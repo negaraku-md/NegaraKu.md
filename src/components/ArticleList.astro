@@ -161,10 +161,13 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
     <div class="tb-line">
       <span class="tb-label">{L('Papar', 'Display', '显示')}</span>
       <div class="tabs">
-        <button class="tgl on" type="button" data-row="path">{L('Laluan', 'Path', '路径')}</button>
-        <button class="tgl on" type="button" data-row="details">{L('Butiran', 'Details', '详情')}</button>
-        <button class="tgl on" type="button" data-row="custody">{L('Jagaan', 'Custody', '保管')}</button>
-        <button class="tgl on" type="button" data-row="visitors">{L('Pelawat', 'Visitors', '访客')}</button>
+        <button class="tgl" type="button" data-row="path">{L('Laluan', 'Path', '路径')}</button>
+        <button class="tgl" type="button" data-row="details">{L('Butiran', 'Details', '详情')}</button>
+        <button class="tgl" type="button" data-row="custody">{L('Jagaan', 'Custody', '保管')}</button>
+        <button class="tgl" type="button" data-row="visitors">{L('Pelawat', 'Visitors', '访客')}</button>
+        <span class="tgl-sep" aria-hidden="true"></span>
+        <button class="tgl-all" type="button" data-rows="on">{L('Semua buka', 'All on', '全部开')}</button>
+        <button class="tgl-all" type="button" data-rows="off">{L('Semua tutup', 'All off', '全部关')}</button>
       </div>
     </div>
     <div class="tb-line">
@@ -266,10 +269,18 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
 
   // Which card meta-rows the reader has switched off. Rows are omitted from the
   // markup (not just hidden) so the dividers between rows stay correct.
+  // Default is ALL OFF — a clean title-only list until the reader opts in.
   const ROWS_KEY = 'nk-card-rows-hidden';
-  let hiddenRows = new Set();
-  try { hiddenRows = new Set(JSON.parse(localStorage.getItem(ROWS_KEY) || '[]')); } catch { /* ignore */ }
+  const ALL_ROWS = ['path', 'details', 'custody', 'visitors'];
+  let hiddenRows = new Set(ALL_ROWS);
+  try {
+    const saved = localStorage.getItem(ROWS_KEY);
+    if (saved) hiddenRows = new Set(JSON.parse(saved));
+  } catch { /* ignore */ }
   const showRow = (r) => !hiddenRows.has(r);
+  const saveRows = () => {
+    try { localStorage.setItem(ROWS_KEY, JSON.stringify([...hiddenRows])); } catch { /* ignore */ }
+  };
 
   const cmp = (a, b) => {
     const k = state.sort;
@@ -437,7 +448,15 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
     btn.addEventListener('click', () => {
       const r = btn.dataset.row;
       if (hiddenRows.has(r)) hiddenRows.delete(r); else hiddenRows.add(r);
-      try { localStorage.setItem(ROWS_KEY, JSON.stringify([...hiddenRows])); } catch { /* ignore */ }
+      saveRows();
+      syncRowToggles();
+      render();
+    });
+  });
+  document.querySelectorAll('[data-rows]').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      hiddenRows = btn.dataset.rows === 'on' ? new Set() : new Set(ALL_ROWS);
+      saveRows();
       syncRowToggles();
       render();
     });
@@ -503,6 +522,13 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
     border-style: solid; border-color: color-mix(in srgb, var(--gold) 55%, var(--line));
     background: color-mix(in srgb, var(--gold) 10%, transparent); color: var(--ink);
   }
+  .tgl-sep { width: 1px; align-self: stretch; background: var(--line); margin-inline: 0.25rem; }
+  .tgl-all {
+    font: inherit; font-size: 0.76rem; font-weight: 700; padding: 0.4rem 0.7rem;
+    border: 0; background: none; color: var(--muted); cursor: pointer; text-decoration: underline;
+    text-underline-offset: 3px; text-decoration-color: color-mix(in srgb, var(--muted) 50%, transparent);
+  }
+  .tgl-all:hover { color: var(--gold); text-decoration-color: var(--gold); }
   .controls select, .tb-line input[type='search'] {
     font: inherit; font-size: 0.85rem; padding: 0.45rem 0.7rem; border-radius: 8px;
     border: 1px solid var(--line); background: var(--surface); color: var(--ink);
