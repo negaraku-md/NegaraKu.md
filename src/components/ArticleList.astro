@@ -217,7 +217,8 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
     sources: L('sumber', 'sources', '来源'),
     linked: L('pautan', 'links', '关联'),
     updated: L('Dikemas kini', 'Updated', '更新'),
-    custodyLabel: L('Status', 'Status', '状态'),
+    detailsLabel: L('Butiran', 'Details', '详情'),
+    custodyLabel: L('Jagaan', 'Custody', '保管'),
     aiDraft: L('Draf AI', 'AI draft', 'AI 草稿'),
     pending: L('belum', 'pending', '待处理'),
     stageDrafted: L('Dirangka', 'Drafted', '起草'),
@@ -276,7 +277,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
       const date = c.reached && c.date ? `<time>${c.date}</time>` : '';
       return `<li class="${c.reached ? '' : 'off'}"><span class="stg">${STAGE[c.key]}</span>${who}${date}</li>`;
     }).join('');
-    return `<div class="ahist"><span class="hlabel">${I18N.custodyLabel}</span><ul>${items}</ul></div>`;
+    return `<div class="meta-row custody"><span class="hlabel">${I18N.custodyLabel}</span><ul>${items}</ul></div>`;
   }
 
   function render() {
@@ -296,19 +297,24 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
         <article class="acard">
           <a class="atitle" href="${r.h}">${r.t}</a>
           <p class="apath"><span>${r.sec}</span> › <span>${r.cat}</span> › <span>${r.top}</span></p>
-          <div class="achips">
-            <span class="st ${STATUS_CLASS[r.st] || 'muted'}">${I18N.status[r.st] || r.st}</span>
-            <span class="chip ${r.sens ? 'sens' : ''}">${r.sens ? '🔒 ' : ''}${r.cls}</span>
-            ${r.rev ? `<span class="chip dim">${I18N.nextReview}: ${r.rev}</span>` : ''}
-            <span class="chip">${I18N.master}: <a class="mlink" href="${langHref(r.ml.toLowerCase(), r.p)}" title="${r.t} — ${r.ml}">${r.ml}</a></span>
-            <span class="chip langs">${['ms','en','zh'].map((l) => r.langs.includes(l)
-              ? `<a class="on" href="${langHref(l, r.p)}" title="${r.t} — ${l.toUpperCase()}">${l.toUpperCase()}</a>`
-              : `<span class="off">${l.toUpperCase()}</span>`).join('')}</span>
-            <span class="chip">${r.src} ${I18N.sources}</span>
-            <span class="chip">${r.conn} ${I18N.linked}</span>
-            <span class="chip">${r.min} ${I18N.min}</span>
+          <div class="acard-meta">
+            <div class="meta-row">
+              <span class="hlabel">${I18N.detailsLabel}</span>
+              <div class="achips">
+                <span class="st ${STATUS_CLASS[r.st] || 'muted'}">${I18N.status[r.st] || r.st}</span>
+                <span class="chip ${r.sens ? 'sens' : ''}">${r.sens ? '🔒 ' : ''}${r.cls}</span>
+                ${r.rev ? `<span class="chip dim">${I18N.nextReview}: ${r.rev}</span>` : ''}
+                <span class="chip">${I18N.master}: <a class="mlink" href="${langHref(r.ml.toLowerCase(), r.p)}" title="${r.t} — ${r.ml}">${r.ml}</a></span>
+                <span class="chip langs">${['ms','en','zh'].map((l) => r.langs.includes(l)
+                  ? `<a class="on" href="${langHref(l, r.p)}" title="${r.t} — ${l.toUpperCase()}">${l.toUpperCase()}</a>`
+                  : `<span class="off">${l.toUpperCase()}</span>`).join('')}</span>
+                <span class="chip">${r.src} ${I18N.sources}</span>
+                <span class="chip">${r.conn} ${I18N.linked}</span>
+                <span class="chip">${r.min} ${I18N.min}</span>
+              </div>
+            </div>
+            ${custodyHtml(r.custody)}
           </div>
-          ${custodyHtml(r.custody)}
         </article>`).join('');
     }
 
@@ -445,7 +451,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
   .acards :global(.acard:hover .atitle) { color: var(--gold); }
   .acards :global(.apath) { margin: 0.3rem 0 0.75rem; font-size: 0.8rem; color: var(--muted); }
   .acards :global(.apath span) { color: var(--ink-soft); }
-  .acards :global(.achips) { display: flex; flex-wrap: wrap; align-items: center; gap: 0.45rem; }
+  .acards :global(.achips) { flex: 1; min-width: 0; display: flex; flex-wrap: wrap; align-items: center; gap: 0.45rem; }
   .acards :global(.chip) {
     font-size: 0.73rem; color: var(--ink-soft); border: 1px solid var(--line);
     background: var(--surface-2); border-radius: 999px; padding: 0.16rem 0.6rem; white-space: nowrap;
@@ -467,26 +473,28 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
   .acards :global(.mlink:hover) { text-decoration: underline; }
   .acards :global(.langs .off) { color: color-mix(in srgb, var(--muted) 45%, transparent); }
 
-  /* Chain of custody — one item per lifecycle status, who is accountable + when. */
-  .acards :global(.ahist) {
-    display: flex; gap: 0.7rem; margin-top: 0.85rem; padding-top: 0.7rem;
-    border-top: 1px dashed var(--line); font-size: 0.76rem;
+  /* Labelled metadata rows: each row is a "type" (Details, Custody) with a
+     leading uppercase label, so the card reads as typed groups not a chip soup. */
+  .acards :global(.acard-meta) { display: flex; flex-direction: column; gap: 0.55rem; margin-top: 0.8rem; }
+  .acards :global(.meta-row) { display: flex; gap: 0.8rem; align-items: flex-start; }
+  .acards :global(.meta-row .hlabel) {
+    flex: none; width: 5rem; font-size: 0.62rem; font-weight: 800; text-transform: uppercase;
+    letter-spacing: 0.08em; color: var(--muted); padding-top: 0.35rem;
   }
-  .acards :global(.ahist .hlabel) {
-    flex: none; font-size: 0.62rem; font-weight: 800; text-transform: uppercase;
-    letter-spacing: 0.08em; color: var(--muted); padding-top: 0.2rem;
-  }
-  .acards :global(.ahist ul) { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 0.4rem 1.4rem; }
-  .acards :global(.ahist li) { display: inline-flex; align-items: baseline; gap: 0.4rem; color: var(--ink-soft); }
-  .acards :global(.ahist li.off) { opacity: 0.55; }
-  .acards :global(.ahist .stg) {
+  .acards :global(.meta-row.custody) { padding-top: 0.6rem; border-top: 1px dashed var(--line); }
+
+  /* Custody chain — one item per lifecycle status, who is accountable + when. */
+  .acards :global(.custody ul) { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 0.4rem 1.4rem; font-size: 0.76rem; }
+  .acards :global(.custody li) { display: inline-flex; align-items: baseline; gap: 0.4rem; color: var(--ink-soft); }
+  .acards :global(.custody li.off) { opacity: 0.55; }
+  .acards :global(.custody .stg) {
     font-size: 0.6rem; font-weight: 800; text-transform: uppercase; letter-spacing: 0.06em;
     color: var(--muted); min-width: 4.6rem;
   }
-  .acards :global(.ahist time) { color: var(--muted); font-variant-numeric: tabular-nums; }
-  .acards :global(.ahist .ai) { color: var(--muted); font-weight: 600; font-style: italic; }
-  .acards :global(.ahist .pend) { color: var(--muted); font-style: italic; }
-  .acards :global(.ahist b) { color: var(--gold); font-weight: 700; }
+  .acards :global(.custody time) { color: var(--muted); font-variant-numeric: tabular-nums; }
+  .acards :global(.custody .ai) { color: var(--muted); font-weight: 600; font-style: italic; }
+  .acards :global(.custody .pend) { color: var(--muted); font-style: italic; }
+  .acards :global(.custody b) { color: var(--gold); font-weight: 700; }
 
   .pager { display: flex; flex-wrap: wrap; gap: 0.8rem; justify-content: space-between; align-items: center; margin-top: 1rem; font-size: 0.85rem; }
   .pager-top { margin-top: 0; margin-bottom: 1.1rem; padding-bottom: 1rem; border-bottom: 1px solid var(--line); }
