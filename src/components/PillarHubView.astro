@@ -121,15 +121,16 @@ for (const a of items) {
 
   .cat-grid { display: grid; gap: 0.8rem; }
   .cat-grid { grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); }
+  /* Vertical card: icon (line 1), title + count (line 2), description (line 3). */
   .cat-card {
     background: var(--surface-2); border: 1px solid var(--line); border-radius: 10px;
     text-decoration: none; color: inherit; transition: border-color 0.15s, transform 0.15s;
-    display: flex; gap: 0.7rem; align-items: flex-start; padding: 0.95rem 1rem;
+    display: flex; flex-direction: column; gap: 0.55rem; align-items: flex-start; padding: 1rem 1.05rem;
   }
   .cat-card:hover { border-color: color-mix(in srgb, var(--gold) 55%, var(--line)); transform: translateY(-2px); }
   .cat-card.current { border-color: var(--gold); background: color-mix(in srgb, var(--gold) 8%, var(--surface-2)); }
-  .cat-card .ci { font-size: 1.4rem; line-height: 1; }
-  .cat-card .cb { display: flex; flex-direction: column; gap: 0.2rem; }
+  .cat-card .ci { font-size: 1.6rem; line-height: 1; }
+  .cat-card .cb { width: 100%; display: flex; flex-direction: column; gap: 0.25rem; }
   .cat-card b { font-family: var(--font-title); font-size: 1rem; display: flex; align-items: center; gap: 0.4rem; }
   .cat-card .cc { font-size: 0.7rem; font-weight: 800; color: var(--gold); }
   .cat-card .cd { color: var(--ink-soft); font-size: 0.85rem; line-height: 1.5; }
