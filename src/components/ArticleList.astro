@@ -7,10 +7,13 @@ import { subcatLabel } from '@/lib/subcategories';
 import { localePath, t } from '@/lib/i18n';
 import { readFileSync } from 'node:fs';
 
-// Optional visitor analytics, keyed by "category/slug" → { readers, google, ai }.
-// Absent until an analytics provider is wired up (see docs) — the VISITORS row
-// then shows "not tracked yet" rather than inventing numbers.
-let analytics: Record<string, { readers?: number; google?: number; ai?: number }> = {};
+// Optional visitor analytics, keyed by "category/slug". Three buckets — human
+// readers, search-engine crawlers, and AI crawlers — each tracked in detail by
+// named agent but summarised on the card. `search`/`ai` may be a plain number
+// or { total, byBot: { Googlebot: n, … } }. Absent until analytics is wired up
+// (see docs) — the row then shows "not tracked yet" rather than inventing data.
+type Bucket = number | { total: number; byBot?: Record<string, number> };
+let analytics: Record<string, { readers?: number; search?: Bucket; ai?: Bucket }> = {};
 try {
   analytics = JSON.parse(readFileSync('public/api/analytics.json', 'utf8'));
 } catch {
@@ -230,6 +233,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
     custodyLabel: L('Jagaan', 'Custody', '保管'),
     visitorsLabel: L('Pelawat', 'Visitors', '访客'),
     vReaders: L('Pembaca', 'Readers', '读者'),
+    vSearch: L('Enjin carian', 'Search', '搜索引擎'),
     vAI: L('AI', 'AI', 'AI'),
     notTracked: L('belum dijejak', 'not tracked yet', '尚未追踪'),
     aiDraft: L('Dibantu AI', 'AI-assisted', 'AI 辅助'),
@@ -294,14 +298,21 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
     return `<div class="meta-row custody"><span class="hlabel">${I18N.custodyLabel}</span><ol class="steps">${items}</ol></div>`;
   }
 
-  // Visitor analytics: Readers / Google / AI. No data source yet → each metric
-  // shows "—" and the row is tagged "not tracked yet" (never invented numbers).
+  // Visitor analytics summarised into Readers / Search / AI. Each bucket may be a
+  // number or {total, byBot}; the per-bot detail is surfaced as a hover title.
+  // No data source yet → "—" and "not tracked yet" (never invented numbers).
+  const bTotal = (x) => (x == null ? null : typeof x === 'object' ? x.total : x);
+  const bBreak = (x) => (x && typeof x === 'object' && x.byBot
+    ? Object.entries(x.byBot).map(([k, n]) => `${k}: ${Number(n).toLocaleString()}`).join(' · ') : '');
   function visitorsHtml(v) {
     const num = (n) => (n == null ? '<b class="vn dash">—</b>' : `<b class="vn">${Number(n).toLocaleString()}</b>`);
-    const metric = (label, n) => `<span class="vm"><span class="vlbl">${label}</span>${num(n)}</span>`;
+    const metric = (label, x) => {
+      const tip = bBreak(x);
+      return `<span class="vm"${tip ? ` title="${esc(tip)}"` : ''}><span class="vlbl">${label}</span>${num(bTotal(x))}</span>`;
+    };
     const note = v ? '' : `<span class="pend">${I18N.notTracked}</span>`;
     return `<div class="meta-row visitors"><span class="hlabel">${I18N.visitorsLabel}</span>` +
-      `<div class="vwrap">${metric(I18N.vReaders, v?.readers)}${metric('Google', v?.google)}${metric(I18N.vAI, v?.ai)}${note}</div></div>`;
+      `<div class="vwrap">${metric(I18N.vReaders, v?.readers)}${metric(I18N.vSearch, v?.search)}${metric(I18N.vAI, v?.ai)}${note}</div></div>`;
   }
 
   function render() {
@@ -537,6 +548,8 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
   /* Visitor analytics — Readers / Google / AI. Placeholder until data exists. */
   .acards :global(.visitors .vwrap) { display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.3rem 1.4rem; font-size: 0.76rem; }
   .acards :global(.visitors .vm) { display: inline-flex; align-items: baseline; gap: 0.4rem; }
+  .acards :global(.visitors .vm[title]) { cursor: help; }
+  .acards :global(.visitors .vm[title] .vn) { text-decoration: underline dotted color-mix(in srgb, var(--muted) 60%, transparent); text-underline-offset: 3px; }
   .acards :global(.visitors .vlbl) {
     font-size: 0.6rem; font-weight: 800; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted);
   }
