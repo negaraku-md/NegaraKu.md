@@ -115,9 +115,8 @@ const tierColor = (s: number) =>
   </div>
 </section>
 
-<section class="container block cols">
-  <div>
-    <h2>{L('Kitaran hayat mengikut bahasa', 'Lifecycle by language', '各语言生命周期')}</h2>
+<section class="container block">
+  <h2>{L('Kitaran hayat mengikut bahasa', 'Lifecycle by language', '各语言生命周期')}</h2>
     <p class="hint">
       {L(
         'Setiap artikel — dalam mana-mana bahasa induknya — bergerak melalui kitaran hayatnya sendiri.',
@@ -170,18 +169,18 @@ const tierColor = (s: number) =>
         '包含尚未发布的草稿（如待审阅的敏感主题）。未完成 = 合计 − 已发布。',
       )}
     </p>
-  </div>
-  <div>
-    <h2>{L('Kemas kini terkini', 'Recently updated', '最近更新')}</h2>
-    <ul class="recent">
-      {d.recentlyUpdated.map((a) => (
-        <li>
-          <a href={localePath(`/${a.category}/${a.slug}`, locale)}>{a.title[locale]}</a>
-          <span class="cmeta">{getCategory(a.category)?.name[locale] ?? a.category} · {a.updated}</span>
-        </li>
-      ))}
-    </ul>
-  </div>
+</section>
+
+<section class="container block">
+  <h2>{L('Kemas kini terkini', 'Recently updated', '最近更新')}</h2>
+  <ul class="recent">
+    {d.recentlyUpdated.map((a) => (
+      <li>
+        <a href={localePath(`/${a.category}/${a.slug}`, locale)}>{a.title[locale]}</a>
+        <span class="cmeta">{getCategory(a.category)?.name[locale] ?? a.category} · {a.updated}</span>
+      </li>
+    ))}
+  </ul>
 </section>
 
 <section class="container block">
@@ -379,7 +378,11 @@ const tierColor = (s: number) =>
   .ia-topics li:last-child { border-bottom: 0; }
   .ia-topics .ia-count { color: var(--muted); background: none; padding: 0 0.2rem; font-weight: 700; }
   .chips { display: flex; flex-wrap: wrap; gap: 0.4rem; }
-  .recent { list-style: none; padding: 0; margin: 0; font-size: 0.9rem; }
+  /* Full-width now, so flow into columns instead of stretching one item per row. */
+  .recent {
+    list-style: none; padding: 0; margin: 0; font-size: 0.9rem;
+    display: grid; grid-template-columns: repeat(auto-fill, minmax(19rem, 1fr)); gap: 0 1.6rem;
+  }
   .recent li { padding: 0.45rem 0; border-bottom: 1px solid var(--line); }
   .recent li:last-child { border-bottom: 0; }
   .recent a { display: block; color: var(--ink); text-decoration: none; font-weight: 600; }
