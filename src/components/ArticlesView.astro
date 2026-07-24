@@ -93,12 +93,6 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
           <option value={s}>{t(`status.${s}`, locale)} ({statusCounts[s]})</option>
         ))}
       </select>
-      <select id="f-lang">
-        <option value="">{L('Semua bahasa', 'All languages', '所有语言')}</option>
-        <option value="ms">MS</option>
-        <option value="en">EN</option>
-        <option value="zh">ZH</option>
-      </select>
     </div>
   </div>
 
@@ -161,7 +155,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
   const I18N = JSON.parse(document.getElementById('articles-i18n')?.textContent || '{}');
   const $ = (id) => document.getElementById(id);
 
-  const state = { sort: 'upd', dir: 'desc', q: '', cat: '', st: '', lang: '', page: 1, size: 25 };
+  const state = { sort: 'upd', dir: 'desc', q: '', cat: '', st: '', page: 1, size: 25 };
 
   const cmp = (a, b) => {
     const k = state.sort;
@@ -176,8 +170,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
     return rows.filter((r) =>
       (!state.q || r.t.toLowerCase().includes(state.q)) &&
       (!state.cat || r.catId === state.cat) &&
-      (!state.st || r.st === state.st) &&
-      (!state.lang || r.langs.includes(state.lang)),
+      (!state.st || r.st === state.st),
     );
   }
 
@@ -247,7 +240,6 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
   $('f-q').addEventListener('input', (e) => { state.q = e.target.value.trim().toLowerCase(); state.page = 1; render(); });
   $('f-cat').addEventListener('change', (e) => { state.cat = e.target.value; state.page = 1; render(); });
   $('f-status').addEventListener('change', (e) => { state.st = e.target.value; state.page = 1; render(); });
-  $('f-lang').addEventListener('change', (e) => { state.lang = e.target.value; state.page = 1; render(); });
   // Pagination
   $('pg-size').addEventListener('change', (e) => { state.size = +e.target.value; state.page = 1; render(); });
   $('pg-first').addEventListener('click', () => go(1));
