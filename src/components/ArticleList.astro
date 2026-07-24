@@ -39,6 +39,12 @@ const SENS_LABEL: Record<string, string> = {
   'legal-proceedings': L('Perundangan', 'Legal', '法律程序'),
 };
 
+const iso = (v: unknown) => (v ? new Date(v as string).toISOString().slice(0, 10) : '');
+// How far a status has advanced along the custody chain draft → reviewed → published.
+const STATUS_RANK: Record<string, number> = {
+  draft: 0, 'in-review': 1, reviewed: 2, published: 3, 'needs-update': 3, 'in-update': 3, archived: 3,
+};
+
 const rows = articles.map((a) => {
   const d = a.data;
   const key = `${d.category}/${d.slug}`;
@@ -46,6 +52,19 @@ const rows = articles.map((a) => {
   const pillar = getPillar(d.category);
   const topic = d.subcategory?.[0];
   const sens = d.sensitivity && d.sensitivity !== 'none' ? d.sensitivity : null;
+  const st = effectiveStatus(a);
+  const rank = STATUS_RANK[st] ?? 0;
+  const revs = [...(d.revisions ?? [])].sort((x, y) => +new Date(x.date) - +new Date(y.date));
+  const first = revs[0];
+  const withReviewer = revs.find((r) => r.reviewer);
+  // Chain of custody: who is accountable at each lifecycle status. Unknown human
+  // actors stay null (rendered "AI draft" for the draft step, "—" otherwise);
+  // a step not yet reached is "pending".
+  const custody = [
+    { key: 'draft', who: first?.contributor ?? null, date: iso(first?.date), reached: true },
+    { key: 'reviewed', who: withReviewer?.reviewer ?? d.reviewer ?? null, date: iso(d.reviewed), reached: rank >= 2 },
+    { key: 'published', who: null, date: rank >= 3 ? iso(d.updated) : '', reached: rank >= 3 },
+  ];
   return {
     t: d.title,
     h: localePath(`/${d.category}/${d.slug}`, locale),
@@ -57,7 +76,7 @@ const rows = articles.map((a) => {
     top: topic ? subcatLabel(topic, locale) : '—',
     topId: topic ?? '',
     ml: (d.masterLanguage ?? d.lang ?? 'ms').toUpperCase(),
-    st: effectiveStatus(a),
+    st,
     cls: sens ? SENS_LABEL[sens] ?? L('Sensitif', 'Sensitive', '敏感') : L('Umum', 'General', '一般'),
     sens: !!sens,
     rev: d.reviewDue ? new Date(d.reviewDue).toISOString().slice(0, 10) : '',
@@ -66,14 +85,7 @@ const rows = articles.map((a) => {
     min: readingTime(a),
     conn,
     upd: d.updated ? new Date(d.updated).toISOString().slice(0, 10) : '',
-    // Public change history: date · who · what. contributor is null until a
-    // human is credited, so fall back to an honest "AI draft" label.
-    hist: (d.revisions ?? []).map((r) => ({
-      date: r.date ? new Date(r.date).toISOString().slice(0, 10) : '',
-      who: r.contributor || null,
-      rev: r.reviewer || null,
-      change: r.change || '',
-    })),
+    custody,
   };
 });
 
@@ -121,6 +133,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
                 ))}
               </select>
             )}
+            <button id="f-reset" type="button" hidden>{L('Set semula', 'Reset', '重置')}</button>
           </div>
         </div>
       )
@@ -204,9 +217,12 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
     sources: L('sumber', 'sources', '来源'),
     linked: L('pautan', 'links', '关联'),
     updated: L('Dikemas kini', 'Updated', '更新'),
-    history: L('Sejarah', 'History', '历史'),
+    custodyLabel: L('Status', 'Status', '状态'),
     aiDraft: L('Draf AI', 'AI draft', 'AI 草稿'),
-    reviewedBy: L('disemak oleh', 'reviewed by', '审阅者'),
+    pending: L('belum', 'pending', '待处理'),
+    stageDrafted: L('Dirangka', 'Drafted', '起草'),
+    stageReviewed: L('Disemak', 'Reviewed', '审阅'),
+    stagePublished: L('Diterbitkan', 'Published', '发布'),
     nextReview: L('Semakan seterusnya', 'Next review', '下次审阅'),
   })}
 ></script>
@@ -245,18 +261,22 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
     draft: 'warn', 'needs-update': 'warn', archived: 'muted',
   };
 
-  // Public change history — newest first: date · who · what changed.
-  // "who" falls back to an honest "AI draft" when no human is credited yet.
-  function histHtml(hist) {
-    if (!hist || !hist.length) return '';
-    const esc = (s) => String(s).replace(/[<>&]/g, (c) => ({ '<': '&lt;', '>': '&gt;', '&': '&amp;' }[c]));
-    const rows = [...hist].sort((a, b) => (a.date < b.date ? 1 : -1)).map((h) => {
-      const who = h.who ? esc(h.who) : `<span class="ai">${I18N.aiDraft}</span>`;
-      const rev = h.rev ? ` · ${I18N.reviewedBy} <b>${esc(h.rev)}</b>` : '';
-      const change = h.change ? ` — ${esc(h.change)}` : '';
-      return `<li><time>${h.date}</time><span class="hw">${who}</span>${rev}<span class="hc">${change}</span></li>`;
+  const esc = (s) => String(s).replace(/[<>&]/g, (c) => ({ '<': '&lt;', '>': '&gt;', '&': '&amp;' }[c]));
+  const STAGE = { draft: I18N.stageDrafted, reviewed: I18N.stageReviewed, published: I18N.stagePublished };
+
+  // Chain of custody: each lifecycle status and who is accountable for it.
+  // Unknown human actor → "AI draft" (draft step) or "—"; not-yet-reached → pending.
+  function custodyHtml(cust) {
+    if (!cust || !cust.length) return '';
+    const items = cust.map((c) => {
+      let who;
+      if (!c.reached) who = `<span class="pend">${I18N.pending}</span>`;
+      else if (c.who) who = `<b>${esc(c.who)}</b>`;
+      else who = c.key === 'draft' ? `<span class="ai">${I18N.aiDraft}</span>` : `<span class="pend">—</span>`;
+      const date = c.reached && c.date ? `<time>${c.date}</time>` : '';
+      return `<li class="${c.reached ? '' : 'off'}"><span class="stg">${STAGE[c.key]}</span>${who}${date}</li>`;
     }).join('');
-    return `<div class="ahist"><span class="hlabel">${I18N.history}</span><ul>${rows}</ul></div>`;
+    return `<div class="ahist"><span class="hlabel">${I18N.custodyLabel}</span><ul>${items}</ul></div>`;
   }
 
   function render() {
@@ -288,7 +308,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
             <span class="chip">${r.conn} ${I18N.linked}</span>
             <span class="chip">${r.min} ${I18N.min}</span>
           </div>
-          ${histHtml(r.hist)}
+          ${custodyHtml(r.custody)}
         </article>`).join('');
     }
 
@@ -301,6 +321,8 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
     $$('pg-size-sel').forEach((el) => (el.value = String(state.size)));
     [...$$('pg-first'), ...$$('pg-prev')].forEach((el) => (el.disabled = state.page <= 1));
     [...$$('pg-next'), ...$$('pg-last')].forEach((el) => (el.disabled = state.page >= pages));
+    const reset = $('f-reset');
+    if (reset) reset.hidden = !(state.sec || state.cat || state.top || state.st || state.q);
   }
 
   function go(page) { state.page = page; render(); }
@@ -349,6 +371,17 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
   on('f-cat', 'change', (e) => { state.cat = e.target.value; state.page = 1; syncFilters(); render(); });
   on('f-top', 'change', (e) => { state.top = e.target.value; state.page = 1; render(); });
   on('f-status', 'change', (e) => { state.st = e.target.value; state.page = 1; render(); });
+  on('f-reset', 'click', () => {
+    state.sec = state.cat = state.top = state.st = state.q = '';
+    state.sort = 'upd'; state.dir = 'desc'; state.page = 1;
+    const secEl = $('f-sec'); if (secEl) secEl.value = '';
+    const stEl = $('f-status'); if (stEl) stEl.value = '';
+    const qEl = $('f-q'); if (qEl) qEl.value = '';
+    document.querySelectorAll('.tab').forEach((x) => x.classList.remove('on'));
+    const def = document.querySelector('.tab[data-sort="upd"]'); if (def) def.classList.add('on');
+    syncFilters();
+    render();
+  });
   onAll('pg-size-sel', 'change', (e) => { state.size = +e.target.value; state.page = 1; render(); });
   onAll('pg-first', 'click', () => go(1));
   onAll('pg-prev', 'click', () => go(state.page - 1));
@@ -387,6 +420,13 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
   }
   .tb-line input[type='search'] { min-width: min(26rem, 100%); flex: 1; max-width: 30rem; }
   .controls select:focus, .tb-line input[type='search']:focus { outline: none; border-color: var(--gold); }
+  #f-reset {
+    font: inherit; font-size: 0.8rem; font-weight: 700; padding: 0.45rem 0.85rem; border-radius: 8px;
+    border: 1px solid color-mix(in srgb, var(--gold) 40%, var(--line)); background: transparent;
+    color: var(--gold); cursor: pointer;
+  }
+  #f-reset:hover { background: color-mix(in srgb, var(--gold) 12%, transparent); border-color: var(--gold); }
+  #f-reset[hidden] { display: none; }
 
   .acards { display: flex; flex-direction: column; gap: 0.7rem; }
   .acards :global(.acard) {
@@ -427,22 +467,26 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
   .acards :global(.mlink:hover) { text-decoration: underline; }
   .acards :global(.langs .off) { color: color-mix(in srgb, var(--muted) 45%, transparent); }
 
-  /* Change history — one line per revision, newest first. */
+  /* Chain of custody — one item per lifecycle status, who is accountable + when. */
   .acards :global(.ahist) {
     display: flex; gap: 0.7rem; margin-top: 0.85rem; padding-top: 0.7rem;
     border-top: 1px dashed var(--line); font-size: 0.76rem;
   }
   .acards :global(.ahist .hlabel) {
     flex: none; font-size: 0.62rem; font-weight: 800; text-transform: uppercase;
-    letter-spacing: 0.08em; color: var(--muted); padding-top: 0.12rem;
+    letter-spacing: 0.08em; color: var(--muted); padding-top: 0.2rem;
   }
-  .acards :global(.ahist ul) { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 0.2rem; }
-  .acards :global(.ahist li) { color: var(--ink-soft); }
-  .acards :global(.ahist time) { color: var(--muted); font-variant-numeric: tabular-nums; margin-right: 0.5rem; }
-  .acards :global(.ahist .hw) { color: var(--ink); font-weight: 700; }
+  .acards :global(.ahist ul) { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 0.4rem 1.4rem; }
+  .acards :global(.ahist li) { display: inline-flex; align-items: baseline; gap: 0.4rem; color: var(--ink-soft); }
+  .acards :global(.ahist li.off) { opacity: 0.55; }
+  .acards :global(.ahist .stg) {
+    font-size: 0.6rem; font-weight: 800; text-transform: uppercase; letter-spacing: 0.06em;
+    color: var(--muted); min-width: 4.6rem;
+  }
+  .acards :global(.ahist time) { color: var(--muted); font-variant-numeric: tabular-nums; }
   .acards :global(.ahist .ai) { color: var(--muted); font-weight: 600; font-style: italic; }
+  .acards :global(.ahist .pend) { color: var(--muted); font-style: italic; }
   .acards :global(.ahist b) { color: var(--gold); font-weight: 700; }
-  .acards :global(.ahist .hc) { color: var(--muted); }
 
   .pager { display: flex; flex-wrap: wrap; gap: 0.8rem; justify-content: space-between; align-items: center; margin-top: 1rem; font-size: 0.85rem; }
   .pager-top { margin-top: 0; margin-bottom: 1.1rem; padding-bottom: 1rem; border-bottom: 1px solid var(--line); }
