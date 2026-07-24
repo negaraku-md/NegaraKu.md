@@ -6,6 +6,7 @@ import { subcatLabel, orderedSubcats } from '@/lib/subcategories';
 import { localePath } from '@/lib/i18n';
 import PageHero from './PageHero.astro';
 import ArticleList from './ArticleList.astro';
+import HubGroups from './HubGroups.astro';
 
 // TOPIC (subcategory) page — the level between a category and an article.
 // A reader has narrowed to one task area (e.g. Corporate Tax) and wants every
@@ -50,3 +51,15 @@ const topics = orderedSubcats(categoryId, catArticles.flatMap((a) => a.data.subc
 />
 
 <ArticleList locale={locale} articles={articles} filters={[]} />
+
+{
+  pillar && (
+    <HubGroups
+      locale={locale}
+      pillar={pillar}
+      activeCategory={categoryId}
+      categoryId={categoryId}
+      activeTopic={topic}
+    />
+  )
+}

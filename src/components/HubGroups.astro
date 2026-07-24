@@ -2,19 +2,24 @@
 import type { Locale, Pillar } from '@/lib/categories';
 import { categoriesInPillar, PILLARS, getPillar } from '@/lib/categories';
 import { articlesForLocale } from '@/lib/content';
+import { orderedSubcats, subcatLabel } from '@/lib/subcategories';
 import { localePath } from '@/lib/i18n';
 
-// Shared hierarchy navigation: a CATEGORIES group (the sibling categories of the
-// current section) and a SECTIONS group (all site sections). Used on both the
-// section hub and every category page so the two read as one system — the
-// current category / section is highlighted.
+// Shared hierarchy navigation: an optional TOPICS group (the topics of the
+// current category), a CATEGORIES group (the sibling categories of the current
+// section) and a SECTIONS group (all site sections). Used on the section hub,
+// every category page and every topic page so they read as one system — the
+// current topic / category / section is highlighted.
 
 interface Props {
   locale: Locale;
   pillar: Pillar;
   activeCategory?: string;
+  /** Pass a category id to also render its TOPICS group (topic pages). */
+  categoryId?: string;
+  activeTopic?: string;
 }
-const { locale, pillar, activeCategory } = Astro.props;
+const { locale, pillar, activeCategory, categoryId, activeTopic } = Astro.props;
 const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 const cats = categoriesInPillar(pillar);
@@ -26,9 +31,41 @@ for (const a of items) {
   const p = getPillar(a.data.category);
   if (p) sectionCounts[p] = (sectionCounts[p] ?? 0) + 1;
 }
+
+// Topics of the current category (only when a categoryId is supplied).
+const catArticles = categoryId ? items.filter((a) => a.data.category === categoryId) : [];
+const topics = categoryId ? orderedSubcats(categoryId, catArticles.flatMap((a) => a.data.subcategory)) : [];
+const topicCount = (t: string) => catArticles.filter((a) => a.data.subcategory.includes(t)).length;
 ---
 
 <div class="container hub-groups">
+  {
+    topics.length > 0 && (
+      <section class="psec">
+        <header>
+          <span>{L('Topik', 'Topics', '主题')}</span>
+          <span>{topics.length}</span>
+        </header>
+        <div class="psec-body">
+          <div class="cat-grid">
+            {topics.map((t) => (
+              <a
+                class={`cat-card topic${t === activeTopic ? ' current' : ''}`}
+                href={localePath(`/${categoryId}/topic/${t}`, locale)}
+                aria-current={t === activeTopic ? 'page' : undefined}
+              >
+                <span class="ci-row">
+                  <span class="cc">{topicCount(t)}</span>
+                </span>
+                <b>{subcatLabel(t, locale)}</b>
+              </a>
+            ))}
+          </div>
+        </div>
+      </section>
+    )
+  }
+
   <section class="psec">
     <header>
       <span>{L('Kategori', 'Categories', '分类')}</span>
@@ -121,6 +158,8 @@ for (const a of items) {
   .cat-card:hover { border-color: color-mix(in srgb, var(--gold) 55%, var(--line)); transform: translateY(-2px); }
   .cat-card.current { border-color: var(--gold); background: color-mix(in srgb, var(--gold) 8%, var(--surface-2)); }
   .cat-card .ci-row { width: 100%; display: flex; justify-content: space-between; align-items: center; }
+  /* Topic cards have no icon — keep the count on the right of the top row. */
+  .cat-card.topic .ci-row { justify-content: flex-end; }
   .cat-card .ci { font-size: 1.6rem; line-height: 1; }
   .cat-card b { font-family: var(--font-title); font-size: 1rem; }
   /* Card count follows the card title — same font, size and colour. */
