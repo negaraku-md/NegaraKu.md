@@ -18,8 +18,10 @@ interface Props {
   /** Pass a category id to also render its TOPICS group (topic pages). */
   categoryId?: string;
   activeTopic?: string;
+  /** Draw a full-width rule above, when another content block precedes this one. */
+  topSeparator?: boolean;
 }
-const { locale, pillar, activeCategory, categoryId, activeTopic } = Astro.props;
+const { locale, pillar, activeCategory, categoryId, activeTopic, topSeparator } = Astro.props;
 const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 const cats = categoriesInPillar(pillar);
@@ -37,6 +39,8 @@ const catArticles = categoryId ? items.filter((a) => a.data.category === categor
 const topics = categoryId ? orderedSubcats(categoryId, catArticles.flatMap((a) => a.data.subcategory)) : [];
 const topicCount = (t: string) => catArticles.filter((a) => a.data.subcategory.includes(t)).length;
 ---
+
+{topSeparator && <hr class="gsep-full" />}
 
 <div class="container block hub-groups">
   {
@@ -132,6 +136,10 @@ const topicCount = (t: string) => catArticles.filter((a) => a.data.subcategory.i
   /* Separator between groups. A real element (not a pseudo-element) because the
      group boxes use overflow:hidden, which would clip one drawn outside them. */
   .gsep { width: 100%; margin: 0; border: 0; border-top: 1px solid var(--line); }
+  /* Full-width rule marking the boundary from the preceding block. It sits
+     OUTSIDE .container so it spans the screen rather than the content width. */
+  .gsep-full { width: 100%; margin-block: var(--space-group); border: 0; border-top: 1px solid var(--line); }
+  .gsep-full + .hub-groups { margin-block-start: 0; }
   .psec {
     background: var(--surface);
     border: 1px solid var(--line);
