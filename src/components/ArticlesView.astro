@@ -1,7 +1,7 @@
 ---
 import type { Locale } from '@/lib/categories';
 import { getCategory } from '@/lib/categories';
-import { articlesForLocale, allArticles, effectiveStatus } from '@/lib/content';
+import { articlesForLocale, allArticles, effectiveStatus, readingTime } from '@/lib/content';
 import { localePath, t } from '@/lib/i18n';
 
 // Articles index — a browsable, sortable, paginated list of the whole corpus.
@@ -31,11 +31,13 @@ const rows = canonical.map((a) => {
   return {
     t: d.title,
     h: localePath(`/${d.category}/${d.slug}`, locale),
+    p: `/${d.category}/${d.slug}`, // locale-agnostic; client builds per-language links
     cat: getCategory(d.category)?.name[locale] ?? d.category,
     catId: d.category,
     st: effectiveStatus(a),
     langs: [...(langsByKey.get(key) ?? [])].sort(),
     src: d.sources?.length ?? 0,
+    min: readingTime(a),
     conn,
     upd: d.updated ? new Date(d.updated).toISOString().slice(0, 10) : '',
   };
@@ -99,6 +101,7 @@ const STATUSES = ['draft', 'in-review', 'reviewed', 'published', 'needs-update',
           <th class="sortable" data-sort="st">{L('Status', 'Status', '状态')}</th>
           <th>{L('Bahasa', 'Languages', '语言')}</th>
           <th class="sortable num" data-sort="src">{L('Sumber', 'Sources', '来源')}</th>
+          <th class="sortable num" data-sort="min">{L('Baca', 'Read', '阅读')}</th>
           <th class="sortable num" data-sort="upd">{L('Dikemas kini', 'Updated', '更新')}</th>
         </tr>
       </thead>
@@ -139,6 +142,7 @@ const STATUSES = ['draft', 'in-review', 'reviewed', 'published', 'needs-update',
     status: Object.fromEntries(STATUSES.map((s) => [s, t(`status.${s}`, locale)])),
     showing: L('{a}–{b} drpd {n}', '{a}–{b} of {n}', '第 {a}–{b} 项，共 {n}'),
     empty: L('Tiada artikel sepadan.', 'No matching articles.', '没有匹配的文章。'),
+    min: L('min', 'min', '分'),
   })}
 ></script>
 
@@ -152,7 +156,7 @@ const STATUSES = ['draft', 'in-review', 'reviewed', 'published', 'needs-update',
   const cmp = (a, b) => {
     const k = state.sort;
     let av = a[k], bv = b[k];
-    if (k === 'src' || k === 'conn') { av = +av; bv = +bv; }
+    if (k === 'src' || k === 'conn' || k === 'min') { av = +av; bv = +bv; }
     else { av = String(av).toLowerCase(); bv = String(bv).toLowerCase(); }
     const r = av < bv ? -1 : av > bv ? 1 : 0;
     return state.dir === 'asc' ? r : -r;
@@ -182,15 +186,19 @@ const STATUSES = ['draft', 'in-review', 'reviewed', 'published', 'needs-update',
 
     const body = $('alist-body');
     if (!slice.length) {
-      body.innerHTML = `<tr><td colspan="6" class="empty">${I18N.empty}</td></tr>`;
+      body.innerHTML = `<tr><td colspan="7" class="empty">${I18N.empty}</td></tr>`;
     } else {
+      const langHref = (l, p) => (l === 'ms' ? p : `/${l}${p}`);
       body.innerHTML = slice.map((r) => `
         <tr>
           <td><a href="${r.h}">${r.t}</a></td>
           <td>${r.cat}</td>
           <td><span class="st ${STATUS_CLASS[r.st] || 'muted'}">${I18N.status[r.st] || r.st}</span></td>
-          <td class="langs">${['ms','en','zh'].map((l) => `<span class="${r.langs.includes(l) ? 'on' : 'off'}">${l.toUpperCase()}</span>`).join('')}</td>
+          <td class="langs">${['ms','en','zh'].map((l) => r.langs.includes(l)
+            ? `<a class="on" href="${langHref(l, r.p)}" title="${r.t} — ${l.toUpperCase()}">${l.toUpperCase()}</a>`
+            : `<span class="off">${l.toUpperCase()}</span>`).join('')}</td>
           <td class="num">${r.src}</td>
+          <td class="num">${r.min} ${I18N.min}</td>
           <td class="num">${r.upd}</td>
         </tr>`).join('');
     }
@@ -285,8 +293,9 @@ const STATUSES = ['draft', 'in-review', 'reviewed', 'published', 'needs-update',
   .st.warn { color: #fbbf24; border-color: rgba(251,191,36,.35); background: rgba(251,191,36,.1); }
   .st.info { color: #60a5fa; border-color: rgba(96,165,250,.35); background: rgba(96,165,250,.1); }
   .st.muted { color: var(--muted); }
-  .langs span { font-size: 0.66rem; font-weight: 800; margin-right: 0.2rem; }
-  .langs .on { color: var(--gold); }
+  .langs span, .langs a { font-size: 0.66rem; font-weight: 800; margin-right: 0.2rem; text-decoration: none; }
+  .langs a.on { color: var(--gold); }
+  .langs a.on:hover { text-decoration: underline; }
   .langs .off { color: color-mix(in srgb, var(--muted) 45%, transparent); }
 
   .pager { display: flex; flex-wrap: wrap; gap: 0.8rem; justify-content: space-between; align-items: center; margin-top: 1rem; font-size: 0.85rem; }
