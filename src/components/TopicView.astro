@@ -46,7 +46,7 @@ const topics = orderedSubcats(categoryId, catArticles.flatMap((a) => a.data.subc
     { value: PILLARS.length, label: L('seksyen', 'sections', '版块') },
     { value: pillar ? categoriesInPillar(pillar).length : 0, label: L('kategori', 'categories', '分类') },
     { value: topics.length, label: L('topik', 'topics', '主题') },
-    { value: articles.length, label: L('artikel', 'articles', '文章') },
+    { value: articles.length, label: L('artikel', 'articles', '文章'), live: 'articles' },
   ]}
 />
 

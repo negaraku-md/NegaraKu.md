@@ -39,10 +39,10 @@ const topCount = new Set(canonical.flatMap((a) => (a.data.subcategory ?? []).map
     '浏览整个知识库——排序、筛选与搜索。',
   )}
   stats={[
-    { value: secCount, label: L('seksyen', 'sections', '版块') },
-    { value: catCount, label: L('kategori', 'categories', '分类') },
-    { value: topCount, label: L('topik', 'topics', '主题') },
-    { value: canonical.length, label: L('artikel', 'articles', '文章') },
+    { value: secCount, label: L('seksyen', 'sections', '版块'), live: 'sections' },
+    { value: catCount, label: L('kategori', 'categories', '分类'), live: 'categories' },
+    { value: topCount, label: L('topik', 'topics', '主题'), live: 'topics' },
+    { value: canonical.length, label: L('artikel', 'articles', '文章'), live: 'articles' },
   ]}
 />
 

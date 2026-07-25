@@ -301,6 +301,19 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
     if (Array.isArray(v)) allowedSt = new Set([...LIVE_ST, ...v]);
   } catch { /* ignore */ }
 
+  // When the visitor has narrowed visibility, recompute the page's hero stat
+  // tiles (marked data-live-stat by PageHero) from the visible set so the
+  // numbers match the list. Default (no filter) leaves the server counts as-is.
+  if (allowedSt) {
+    const visRows = rows.filter((r) => allowedSt.has(r.st));
+    const setStat = (name, val) =>
+      document.querySelectorAll(`[data-live-stat="${name}"]`).forEach((e) => { e.textContent = String(val); });
+    setStat('articles', visRows.length);
+    setStat('sections', new Set(visRows.map((r) => r.secId).filter(Boolean)).size);
+    setStat('categories', new Set(visRows.map((r) => r.catId).filter(Boolean)).size);
+    setStat('topics', new Set(visRows.map((r) => r.topId).filter(Boolean)).size);
+  }
+
   function filtered() {
     return rows.filter((r) =>
       (!allowedSt || allowedSt.has(r.st)) &&
