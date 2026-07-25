@@ -96,6 +96,21 @@ for (const file of walk('knowledge')) {
     }
   }
 
+  // --- sources[].url must be an absolute URL. The schema uses z.string().url(),
+  // so a relative internal link (/en/...) breaks the build. These belong in
+  // `related`/`relations`, not `sources`.
+  let inSrc = false;
+  const badUrlLines = [];
+  lines.forEach((l, i) => {
+    if (/^[A-Za-z][\w-]*:/.test(l)) inSrc = /^sources:/.test(l);
+    if (inSrc) {
+      const um = l.match(/^\s+url:\s*"?([^"]+)"?\s*$/);
+      if (um && !/^https?:\/\//i.test(um[1].trim())) badUrlLines.push(i + 1);
+    }
+  });
+  if (badUrlLines.length)
+    errors.push(`${file}: sources[].url must be absolute http(s) — line(s) ${badUrlLines.join(', ')} (internal links go in \`related\`)`);
+
   // --- honesty + governance rules ------------------------------------------
   const tier = (fm.match(/^tier:\s*"?([\dS])"?/m) || [])[1];
   const sens = (fm.match(/^sensitivity:\s*"?([\w-]+)"?/m) || [])[1];
