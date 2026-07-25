@@ -163,8 +163,11 @@ const topicCount = (t: string) => catArticles.filter((a) => a.data.subcategory.i
     font-family: var(--font-title); font-size: 1.05rem; font-weight: 700; line-height: 1.2;
     letter-spacing: 0; color: var(--ink); font-variant-numeric: tabular-nums;
   }
-  /* Topics & Categories group headers are gold; the Sections group stays bright ink. */
-  .psec-gold > header span { color: var(--gold); }
+  /* The page's primary group header is gold; other groups stay bright ink.
+     Must match the base rules' specificity (they use :first/:last-child), so
+     target the same pseudo-classes and rely on source order to win. */
+  .psec-gold > header span:first-child,
+  .psec-gold > header span:last-child { color: var(--gold); }
   .psec-body { padding: 1.1rem; }
 
   .cat-grid { display: grid; gap: 0.8rem; grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); }
