@@ -417,7 +417,7 @@ export const CATEGORIES: Category[] = [
     },
     archetype: 'service',
     pillar: 'living',
-    launch: false,
+    launch: true,
   },
   {
     id: 'healthcare',
@@ -430,7 +430,7 @@ export const CATEGORIES: Category[] = [
     },
     archetype: 'service',
     pillar: 'living',
-    launch: false,
+    launch: true,
   },
   {
     id: 'property',
@@ -443,7 +443,7 @@ export const CATEGORIES: Category[] = [
     },
     archetype: 'service',
     pillar: 'living',
-    launch: false,
+    launch: true,
   },
   {
     id: 'transport',
@@ -456,7 +456,7 @@ export const CATEGORIES: Category[] = [
     },
     archetype: 'service',
     pillar: 'living',
-    launch: false,
+    launch: true,
   },
   {
     id: 'tourism',
@@ -482,7 +482,7 @@ export const CATEGORIES: Category[] = [
     },
     archetype: 'narrative',
     pillar: 'living',
-    launch: false,
+    launch: true,
   },
   {
     id: 'public-safety',
@@ -495,7 +495,7 @@ export const CATEGORIES: Category[] = [
     },
     archetype: 'service',
     pillar: 'living',
-    launch: false,
+    launch: true,
   },
   {
     id: 'agriculture',
@@ -548,6 +548,45 @@ export const CATEGORIES: Category[] = [
     archetype: 'narrative',
     pillar: 'living',
     launch: false,
+  },
+  {
+    id: 'settling-in',
+    icon: '🛬',
+    name: { ms: 'Menetap di Malaysia', en: 'Settling In', zh: '落地安顿' },
+    blurb: {
+      ms: 'Visa, pas, dan dokumen yang perlu diuruskan apabila tiba atau menetap.',
+      en: 'Visas, passes and the documents to sort out on arrival and as a resident.',
+      zh: '签证、准证，以及抵达和居留时需办理的证件。',
+    },
+    archetype: 'service',
+    pillar: 'living',
+    launch: true,
+  },
+  {
+    id: 'money-daily-life',
+    icon: '💳',
+    name: { ms: 'Wang & Kehidupan Harian', en: 'Money & Daily Life', zh: '金钱与日常' },
+    blurb: {
+      ms: 'Perbankan, bil, cukai peribadi dan urusan harian.',
+      en: 'Banking, bills, personal tax and everyday admin.',
+      zh: '银行、账单、个人税务与日常事务。',
+    },
+    archetype: 'service',
+    pillar: 'living',
+    launch: true,
+  },
+  {
+    id: 'cost-of-living',
+    icon: '🧾',
+    name: { ms: 'Kos Sara Hidup', en: 'Cost of Living', zh: '生活成本' },
+    blurb: {
+      ms: 'Bajet, sewa, gaji dan perbelanjaan sebenar mengikut bandar.',
+      en: 'Budgets, rent, salaries and real expenses by city.',
+      zh: '各城市的预算、租金、薪资与实际开销。',
+    },
+    archetype: 'data',
+    pillar: 'living',
+    launch: true,
   },
 ];
 
