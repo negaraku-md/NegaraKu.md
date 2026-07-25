@@ -3,7 +3,7 @@ topicId: MY-LIV-0033
 title: "Freehold, Leasehold, Strata, Landed: The Four Words on a Malaysian Title That Decide What You Actually Own"
 slug: "freehold-leasehold-strata-landed"
 category: "property"
-subcategory: ["ownership"]
+subcategory: ["home-ownership"]
 summary: "Two separate questions sit inside every Malaysian property listing: how long you hold the land (freehold or leasehold), and what kind of title you get (strata or individual/landed). Mixing them up is how buyers misjudge resale value, renewal risk, and who actually owns the driveway."
 
 tier: "3"

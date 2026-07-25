@@ -3,7 +3,7 @@ topicId: MY-LIV-0033
 title: "永久地契、租赁地契、分层地契、有地物业：马来西亚地契上决定你到底拥有什么的四个词"
 slug: "freehold-leasehold-strata-landed"
 category: "property"
-subcategory: ["ownership"]
+subcategory: ["home-ownership"]
 summary: "每一则马来西亚房产广告都藏着两个独立问题：你持有土地多久（永久地契还是租赁地契），以及你拿到的是哪一种地契（分层地契还是个别／有地地契）。把两者混为一谈，正是买家误判转售价值、续约风险，以及车道到底归谁所有的根源。"
 
 tier: "3"

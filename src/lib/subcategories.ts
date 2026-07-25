@@ -92,7 +92,7 @@ export const SUBCATEGORY_LABELS: Record<string, Record<Locale, string>> = {
   'by-city': { ms: 'Mengikut Bandar', en: 'By city', zh: '按城市' },
   renting: { ms: 'Menyewa', en: 'Renting', zh: '租房' },
   buying: { ms: 'Membeli Rumah', en: 'Buying', zh: '购房' },
-  ownership: { ms: 'Pemilikan & Cukai', en: 'Ownership & tax', zh: '产权与税' },
+  'home-ownership': { ms: 'Pemilikan & Cukai', en: 'Ownership & tax', zh: '产权与税' },
   community: { ms: 'Kejiranan', en: 'Community living', zh: '社区生活' },
   utilities: { ms: 'Utiliti', en: 'Utilities', zh: '水电网络' },
   'using-the-system': { ms: 'Menggunakan Sistem', en: 'Using the system', zh: '使用系统' },
@@ -210,7 +210,7 @@ export const SUBCATEGORY_ORDER: Record<string, string[]> = {
   'money-daily-life': ['banking-payments', 'personal-tax-statutory', 'everyday-admin'],
   'settling-in': ['visas-passes', 'documents'],
   'cost-of-living': ['overview', 'by-city'],
-  property: ['renting', 'buying', 'ownership', 'utilities', 'community'],
+  property: ['renting', 'buying', 'home-ownership', 'utilities', 'community'],
   healthcare: ['overview', 'using-the-system', 'insurance', 'specialised'],
   education: ['overview', 'schooling', 'exams', 'tertiary', 'financing', 'support', 'skills'],
   malaysia: [

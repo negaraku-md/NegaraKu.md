@@ -3,7 +3,7 @@ topicId: MY-LIV-0033
 title: "Freehold, Leasehold, Strata, Landed: Empat Perkataan pada Hak Milik Malaysia yang Menentukan Apa yang Sebenarnya Anda Miliki"
 slug: "freehold-leasehold-strata-landed"
 category: "property"
-subcategory: ["ownership"]
+subcategory: ["home-ownership"]
 summary: "Dua soalan berasingan terkandung dalam setiap penyenaraian hartanah Malaysia: berapa lama anda memegang tanah itu (pegangan bebas atau pajakan), dan jenis hak milik yang anda perolehi (strata atau individu/bertanah). Mengelirukan kedua-duanya adalah punca pembeli tersilap menilai nilai jualan semula, risiko pembaharuan, dan siapa sebenarnya memiliki laluan masuk kereta."
 
 tier: "3"

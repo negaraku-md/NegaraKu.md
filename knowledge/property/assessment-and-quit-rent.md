@@ -3,7 +3,7 @@ topicId: MY-LIV-0034
 title: "Cukai Pintu dan Cukai Tanah: Dua Cukai Harta, Dua Pihak Berkuasa, Dua Tarikh Bayar"
 slug: "assessment-and-quit-rent"
 category: "property"
-subcategory: ["ownership"]
+subcategory: ["home-ownership"]
 summary: "Cukai pintu (cukai taksiran) dikutip oleh pihak berkuasa tempatan setiap tahun untuk membiayai perkhidmatan bandar; cukai tanah (quit rent) dikutip berasingan oleh pejabat tanah negeri setiap tahun sebagai sewa ke atas hak milik tanah. Membayar satu tidak melangsaikan yang satu lagi."
 
 tier: "3"

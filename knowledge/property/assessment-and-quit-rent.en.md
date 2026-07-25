@@ -3,7 +3,7 @@ topicId: MY-LIV-0034
 title: "Assessment Tax and Quit Rent: Two Property Taxes, Two Authorities, Two Payment Dates"
 slug: "assessment-and-quit-rent"
 category: "property"
-subcategory: ["ownership"]
+subcategory: ["home-ownership"]
 summary: "Assessment tax (cukai taksiran) is collected by the local authority every year to fund municipal services; quit rent (cukai tanah) is collected separately by the state land office every year as rent on the land title itself. Paying one does not settle the other."
 
 tier: "3"

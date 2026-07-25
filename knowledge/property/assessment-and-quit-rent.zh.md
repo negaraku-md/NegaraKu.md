@@ -3,7 +3,7 @@ topicId: MY-LIV-0034
 title: "门牌税与地税：两种房产税，两个机关，两个缴税日期"
 slug: "assessment-and-quit-rent"
 category: "property"
-subcategory: ["ownership"]
+subcategory: ["home-ownership"]
 summary: "门牌税（cukai taksiran，评估税）由地方政府当局每年征收，用以资助市政服务；地税（cukai tanah，quit rent）则由州土地局每年另行征收，作为土地地契本身的年租。缴清一项，不代表另一项已经了结。"
 
 tier: "3"

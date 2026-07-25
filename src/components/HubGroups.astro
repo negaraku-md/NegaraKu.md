@@ -20,8 +20,10 @@ interface Props {
   activeTopic?: string;
   /** Draw a full-width rule above, when another content block precedes this one. */
   topSeparator?: boolean;
+  /** Which group header to render in gold (the page's primary group). Others stay bright ink. */
+  goldGroup?: 'topics' | 'categories';
 }
-const { locale, pillar, activeCategory, categoryId, activeTopic, topSeparator } = Astro.props;
+const { locale, pillar, activeCategory, categoryId, activeTopic, topSeparator, goldGroup } = Astro.props;
 const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 const cats = categoriesInPillar(pillar);
@@ -45,7 +47,7 @@ const topicCount = (t: string) => catArticles.filter((a) => a.data.subcategory.i
 <div class="container block hub-groups">
   {
     topics.length > 0 && (
-      <section class="psec">
+      <section class={`psec${goldGroup === 'topics' ? ' psec-gold' : ''}`}>
         <header>
           <span>{L('Topik', 'Topics', '主题')}</span>
           <span>{topics.length}</span>
@@ -72,7 +74,7 @@ const topicCount = (t: string) => catArticles.filter((a) => a.data.subcategory.i
 
   {topics.length > 0 && <hr class="gsep" />}
 
-  <section class="psec">
+  <section class={`psec${goldGroup === 'categories' ? ' psec-gold' : ''}`}>
     <header>
       <span>{L('Kategori', 'Categories', '分类')}</span>
       <span>{cats.length}</span>
@@ -161,6 +163,8 @@ const topicCount = (t: string) => catArticles.filter((a) => a.data.subcategory.i
     font-family: var(--font-title); font-size: 1.05rem; font-weight: 700; line-height: 1.2;
     letter-spacing: 0; color: var(--ink); font-variant-numeric: tabular-nums;
   }
+  /* Topics & Categories group headers are gold; the Sections group stays bright ink. */
+  .psec-gold > header span { color: var(--gold); }
   .psec-body { padding: 1.1rem; }
 
   .cat-grid { display: grid; gap: 0.8rem; grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); }
