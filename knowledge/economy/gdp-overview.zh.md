@@ -24,10 +24,9 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "a15aa3483282907f"
 
-status: "published"
+status: "draft"
 aiAssisted: true
-reviewer: "ashton-tan"
-reviewed: 2026-07-22
+reviewer: null
 reviewDue: 2027-07-22
 version: "0.2"
 revisions:

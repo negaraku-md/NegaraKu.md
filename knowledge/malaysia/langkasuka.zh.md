@@ -21,10 +21,9 @@ lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 sourceContentHash: "d58cdfad35ba7fed"
-status: "published"
+status: "draft"
 aiAssisted: true
-reviewer: "ashton-tan"
-reviewed: 2026-07-22
+reviewer: null
 version: "0.1"
 sensitivity: "none"
 updated: 2026-07-10

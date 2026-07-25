@@ -70,10 +70,9 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "ac9c3894e3319f9f"
 
-status: "published"
+status: "draft"
 aiAssisted: true
-reviewer: "ashton-tan"
-reviewed: 2026-07-22
+reviewer: null
 reviewDue: 2027-07-22
 version: "0.1"
 revisions:

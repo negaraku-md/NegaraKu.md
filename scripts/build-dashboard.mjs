@@ -57,7 +57,20 @@ async function main() {
     if (!prev || rank(a) > rank(prev)) canonical.set(a.key, a);
   }
   const base = [...canonical.values()];
-  const total = base.length;
+  const total = base.length; // public topics that clear the publish gate
+
+  // The TRUE corpus size: one file per topic in its own master language, counted
+  // across the WHOLE manifest (sensitive drafts included). This is what the
+  // headline should show — `total` above is only the publicly-servable subset.
+  const masterArticles = allArticles.filter((a) => a.lang === (a.masterLanguage ?? a.lang)).length;
+  const filesByLang = {};
+  const publishedByLang = {};
+  for (const l of SITE_LANGS) {
+    const f = allArticles.filter((a) => a.lang === l);
+    filesByLang[l] = f.length;
+    publishedByLang[l] = f.filter((a) => a.status === 'published').length;
+  }
+  const publishedTotal = SITE_LANGS.reduce((n, l) => n + publishedByLang[l], 0);
 
   const perCategory = {};
   let reviewed = 0;
@@ -98,19 +111,21 @@ async function main() {
   const vitals = {
     heart: {
       label: { ms: 'Jantung', en: 'Heartbeat', zh: '心跳' },
-      score: Math.min(100, Math.round((total / HEART_TARGET) * 100)),
-      detail: { ms: `${total} artikel`, en: `${total} articles`, zh: `${total} 篇文章` },
+      score: Math.min(100, Math.round((masterArticles / HEART_TARGET) * 100)),
+      detail: { ms: `${masterArticles} artikel induk`, en: `${masterArticles} master articles`, zh: `${masterArticles} 篇主文章` },
     },
     // Was "Immunity — N reviewed". Nothing in the corpus has a genuine human
     // review (statuses were set in bulk), so that number asserted something it
     // could not back up. Report what actually cleared the publish gate instead.
     published: {
       label: { ms: 'Diterbitkan', en: 'Published', zh: '已发布' },
-      score: pct(statusDist.published, total),
+      // Honest denominator: published master topics over ALL master topics, not
+      // over the publish-gated subset (which flattered the figure).
+      score: pct(statusDist.published, masterArticles),
       detail: {
-        ms: `${statusDist.published}/${total} diterbitkan`,
-        en: `${statusDist.published}/${total} published`,
-        zh: `${statusDist.published}/${total} 已发布`,
+        ms: `${statusDist.published}/${masterArticles} diterbitkan`,
+        en: `${statusDist.published}/${masterArticles} published`,
+        zh: `${statusDist.published}/${masterArticles} 已发布`,
       },
     },
     dna: {
@@ -241,8 +256,13 @@ async function main() {
   const dashboard = {
     contentTypes,
     totals: {
-      articles: total,
-      files: articles.length,
+      masterArticles,        // 481 — one per topic (the source articles)
+      publicTopics: total,   // 386 — topics that clear the publish gate
+      articles: total,       // kept for back-compat
+      files: allArticles.length, // 1105 — every language file
+      filesByLang,           // { en, ms, zh } file counts
+      publishedByLang,       // { en, ms, zh } published file counts
+      publishedTotal,        // total published files across all languages
       languages: 3,
       categories: categoriesCovered,
       reviewedPct: pct(reviewed, total),

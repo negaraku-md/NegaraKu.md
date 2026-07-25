@@ -74,9 +74,26 @@ const tierColor = (s: number) =>
 
 <section class="container">
   <div class="counters">
-    <div><b>{d.totals.articles}</b><span>{L('artikel', 'articles', '文章')}</span></div>
+    <div>
+      <b>{d.totals.masterArticles ?? d.totals.articles}</b>
+      <span>{L('artikel induk', 'master articles', '主文章')}</span>
+      <small>{L('satu setiap topik', 'one per topic', '每主题一篇')}</small>
+    </div>
+    <div class="lang-cell">
+      <b>{d.totals.files}</b>
+      <span>{L('artikel bahasa', 'language articles', '语言文章')}</span>
+      <div class="lang-grid">
+        {
+          ['en', 'ms', 'zh'].map((l) => (
+            <div>
+              <span class="pl">{l.toUpperCase()}</span>
+              <b>{(d.totals.filesByLang ?? {})[l] ?? d.statusByLang[l]?.total ?? 0}</b>
+            </div>
+          ))
+        }
+      </div>
+    </div>
     <div><b>{d.totals.categories}</b><span>{L('kategori', 'categories', '分类')}</span></div>
-    <div><b>{d.totals.languages}</b><span>{L('bahasa', 'languages', '语言')}</span></div>
     <div class="pub-cell">
       <span class="pub-head">{L('Diterbitkan', 'Published', '已发布')}</span>
       <div class="pub-grid">
@@ -324,6 +341,13 @@ const tierColor = (s: number) =>
   .counters > div { border: 1px solid var(--line); border-top: 2px solid var(--gold); border-radius: 12px; padding: 1rem; background: var(--surface); }
   .counters > div > b { display: block; font-family: var(--font-title); font-size: 1.9rem; color: var(--gold); }
   .counters > div > span { color: var(--muted); font-size: 0.85rem; }
+  .counters > div > small { display: block; color: var(--muted); font-size: 0.72rem; opacity: 0.8; margin-top: 0.15rem; }
+
+  /* Language-articles cell — the per-locale file breakdown under the total. */
+  .lang-cell .lang-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.4rem; margin-top: 0.55rem; }
+  .lang-cell .lang-grid > div { text-align: center; }
+  .lang-cell .lang-grid .pl { display: block; font-size: 0.72rem; font-weight: 800; letter-spacing: 0.05em; color: var(--ink-soft); }
+  .lang-cell .lang-grid b { display: block; font-family: var(--font-title); font-size: 1.15rem; color: var(--ink); line-height: 1.1; }
 
   /* Published-by-language cell — replaces the meaningless "reviewed %". */
   .pub-cell .pub-head { color: var(--muted); font-size: 0.85rem; }

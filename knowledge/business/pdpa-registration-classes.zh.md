@@ -42,10 +42,9 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "0af67092f0830df9"
 
-status: "published"
+status: "draft"
 aiAssisted: true
-reviewer: "ashton-tan"
-reviewed: 2026-07-22
+reviewer: null
 reviewDue: 2027-07-22
 version: "0.2"
 revisions:
