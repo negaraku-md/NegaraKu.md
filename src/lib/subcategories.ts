@@ -74,6 +74,7 @@ export const SUBCATEGORY_LABELS: Record<string, Record<Locale, string>> = {
   peninsular: { ms: 'Semenanjung', en: 'Peninsular Malaysia', zh: '马来半岛' },
   borneo: { ms: 'Borneo', en: 'Borneo', zh: '婆罗洲' },
   territories: { ms: 'Wilayah Persekutuan', en: 'Federal Territories', zh: '联邦直辖区' },
+  'state-government': { ms: 'Kerajaan Negeri', en: 'State government', zh: '州政府' },
 
   // ---- malaysia (history & identity) ----
   'early-kingdoms': { ms: 'Kerajaan Awal', en: 'Early kingdoms', zh: '早期王国' },
@@ -174,7 +175,7 @@ export const SUBCATEGORY_ORDER: Record<string, string[]> = {
     'foreign-workers-expatriates',
     'labour-law',
   ],
-  states: ['peninsular', 'borneo', 'territories'],
+  states: ['peninsular', 'borneo', 'territories', 'state-government'],
   malaysia: [
     'early-kingdoms',
     'sultanates',
