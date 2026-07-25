@@ -76,6 +76,25 @@ export const SUBCATEGORY_LABELS: Record<string, Record<Locale, string>> = {
   territories: { ms: 'Wilayah Persekutuan', en: 'Federal Territories', zh: '联邦直辖区' },
   'state-government': { ms: 'Kerajaan Negeri', en: 'State government', zh: '州政府' },
 
+  // ---- living: transport ----
+  'public-transport': { ms: 'Pengangkutan Awam', en: 'Public transport', zh: '公共交通' },
+  driving: { ms: 'Memandu', en: 'Driving', zh: '驾驶' },
+  'vehicles-tolls': { ms: 'Kenderaan & Tol', en: 'Vehicles & tolls', zh: '车辆与过路费' },
+  // ---- living: money & daily life ----
+  'banking-payments': { ms: 'Perbankan & Pembayaran', en: 'Banking & payments', zh: '银行与支付' },
+  'personal-tax-statutory': { ms: 'Cukai & Caruman', en: 'Tax & statutory', zh: '税务与法定缴纳' },
+  'everyday-admin': { ms: 'Urusan Harian', en: 'Everyday admin', zh: '日常事务' },
+  // ---- living: settling in ----
+  'visas-passes': { ms: 'Visa & Pas', en: 'Visas & passes', zh: '签证与准证' },
+  documents: { ms: 'Dokumen', en: 'Documents', zh: '证件' },
+  // ---- living: cost of living / housing / healthcare ----
+  overview: { ms: 'Gambaran', en: 'Overview', zh: '概览' },
+  'by-city': { ms: 'Mengikut Bandar', en: 'By city', zh: '按城市' },
+  renting: { ms: 'Menyewa', en: 'Renting', zh: '租房' },
+  utilities: { ms: 'Utiliti', en: 'Utilities', zh: '水电网络' },
+  'using-the-system': { ms: 'Menggunakan Sistem', en: 'Using the system', zh: '使用系统' },
+  schooling: { ms: 'Persekolahan', en: 'Schooling', zh: '就学' },
+
   // ---- malaysia (history & identity) ----
   'early-kingdoms': { ms: 'Kerajaan Awal', en: 'Early kingdoms', zh: '早期王国' },
   sultanates: { ms: 'Kesultanan Melayu', en: 'Malay sultanates', zh: '马来苏丹王朝' },
@@ -176,6 +195,14 @@ export const SUBCATEGORY_ORDER: Record<string, string[]> = {
     'labour-law',
   ],
   states: ['peninsular', 'borneo', 'territories', 'state-government'],
+  // ---- living ----
+  transport: ['public-transport', 'driving', 'vehicles-tolls'],
+  'money-daily-life': ['banking-payments', 'personal-tax-statutory', 'everyday-admin'],
+  'settling-in': ['visas-passes', 'documents'],
+  'cost-of-living': ['overview', 'by-city'],
+  property: ['renting', 'utilities'],
+  healthcare: ['using-the-system'],
+  education: ['schooling'],
   malaysia: [
     'early-kingdoms',
     'sultanates',
