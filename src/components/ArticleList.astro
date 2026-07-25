@@ -291,8 +291,19 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
     return state.dir === 'asc' ? r : -r;
   };
 
+  // Global visitor preference (Settings page → nk-visible-status). Absent = show
+  // every shipped status. 'published' and its live variants are always allowed;
+  // unpublished sensitive content is never shipped, so it can't be revealed here.
+  const LIVE_ST = ['published', 'needs-update', 'in-update'];
+  let allowedSt = null;
+  try {
+    const v = JSON.parse(localStorage.getItem('nk-visible-status') || 'null');
+    if (Array.isArray(v)) allowedSt = new Set([...LIVE_ST, ...v]);
+  } catch { /* ignore */ }
+
   function filtered() {
     return rows.filter((r) =>
+      (!allowedSt || allowedSt.has(r.st)) &&
       (!state.q || r.t.toLowerCase().includes(state.q)) &&
       (!state.sec || r.secId === state.sec) &&
       (!state.cat || r.catId === state.cat) &&

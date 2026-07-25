@@ -11,6 +11,20 @@
       if (theme === 'light' || theme === 'dark') d.setAttribute('data-theme', theme);
       var size = localStorage.getItem('nk-text-size');
       if (size === 'large' || size === 'xlarge') d.setAttribute('data-text-size', size);
+      // Default-language preference (Settings): only redirect from the home
+      // roots, only once per session, never mid-browse. Manual MS/EN/ZH always wins.
+      var pref = localStorage.getItem('nk-default-lang');
+      if ((pref === 'ms' || pref === 'en' || pref === 'zh') && !sessionStorage.getItem('nk-lang-redirected')) {
+        var p = location.pathname.replace(/\/+$/, '') || '/';
+        var isHome = p === '' || p === '/' || p === '/en' || p === '/zh';
+        if (isHome) {
+          var cur = p === '/en' ? 'en' : p === '/zh' ? 'zh' : 'ms';
+          if (cur !== pref) {
+            sessionStorage.setItem('nk-lang-redirected', '1');
+            location.replace(pref === 'ms' ? '/' : '/' + pref);
+          }
+        }
+      }
     } catch (e) {}
   })();
 </script>

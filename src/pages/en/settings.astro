@@ -1,0 +1,8 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import SettingsView from '@/components/SettingsView.astro';
+const locale = 'en';
+---
+<BaseLayout locale={locale} title="Settings" path="/settings">
+  <SettingsView locale={locale} />
+</BaseLayout>

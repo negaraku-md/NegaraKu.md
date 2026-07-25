@@ -1,0 +1,8 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import SettingsView from '@/components/SettingsView.astro';
+const locale = 'zh';
+---
+<BaseLayout locale={locale} title="设置" path="/settings">
+  <SettingsView locale={locale} />
+</BaseLayout>

@@ -1,0 +1,203 @@
+---
+import type { Locale } from '@/lib/categories';
+import { localePath } from '@/lib/i18n';
+import PageHero from './PageHero.astro';
+
+// Visitor preferences, persisted to localStorage. No account needed; everything
+// is client-side. Deliberately NOT in the main nav — reached from the footer.
+// Extensible: add a <section class="set-card"> block and wire a key below.
+interface Props {
+  locale: Locale;
+}
+const { locale } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+---
+
+<PageHero
+  locale={locale}
+  crumb={[
+    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
+    { label: L('Tetapan', 'Settings', '设置') },
+  ]}
+  title={L('Tetapan', 'Settings', '设置')}
+  desc={L(
+    'Sesuaikan cara anda membaca NegaraKu.md. Tetapan disimpan dalam pelayar anda sahaja.',
+    'Tune how you read NegaraKu.md. Preferences are saved in your browser only.',
+    '自定义你阅读 NegaraKu.md 的方式。设置仅保存在你的浏览器中。',
+  )}
+/>
+
+<div class="settings" id="settings">
+  <!-- 1. Content visibility -->
+  <section class="set-card">
+    <h2>{L('Tetapan artikel', 'Article visibility', '文章可见性')}</h2>
+    <p class="note">
+      {L(
+        'Pilih peringkat kitaran hayat yang dipaparkan dalam senarai dan carian. Kandungan sensitif (perkauman, agama, diraja, perlembagaan) yang belum diterbitkan tidak sekali-kali dipaparkan sehingga disemak manusia — tetapan ini tidak boleh mengatasinya.',
+        'Choose which lifecycle stages appear in listings and search. Unpublished sensitive content (race, religion, royalty, constitution) is never shown until a human publishes it — this setting cannot override that.',
+        '选择在列表和搜索中显示哪些生命周期阶段。未发布的敏感内容（种族、宗教、王室、宪法）在经人工发布前绝不显示——此设置无法覆盖该规则。',
+      )}
+    </p>
+    <div class="opts" data-group="status">
+      <label class="opt locked"><input type="checkbox" value="published" checked disabled /><span>{L('Diterbitkan', 'Published', '已发布')}</span></label>
+      <label class="opt"><input type="checkbox" value="reviewed" /><span>{L('Disemak', 'Reviewed', '已审核')}</span></label>
+      <label class="opt"><input type="checkbox" value="in-review" /><span>{L('Dalam semakan', 'In review', '审核中')}</span></label>
+      <label class="opt"><input type="checkbox" value="draft" /><span>{L('Draf', 'Draft', '草稿')}</span></label>
+    </div>
+  </section>
+
+  <!-- 2. Default language -->
+  <section class="set-card">
+    <h2>{L('Bahasa lalai', 'Default language', '默认语言')}</h2>
+    <p class="note">
+      {L(
+        'Bahasa pilihan anda apabila melawat laman utama. Anda sentiasa boleh menukar bahasa dengan suis MS / EN / ZH.',
+        'Your preferred language when landing on the home page. You can always switch with the MS / EN / ZH toggle.',
+        '你访问首页时的首选语言。你随时可以用 MS / EN / ZH 切换。',
+      )}
+    </p>
+    <div class="opts" data-group="lang">
+      <label class="opt"><input type="radio" name="deflang" value="auto" /><span>{L('Automatik', 'Auto', '自动')}</span></label>
+      <label class="opt"><input type="radio" name="deflang" value="ms" /><span>Bahasa Melayu</span></label>
+      <label class="opt"><input type="radio" name="deflang" value="en" /><span>English</span></label>
+      <label class="opt"><input type="radio" name="deflang" value="zh" /><span>中文</span></label>
+    </div>
+  </section>
+
+  <!-- 3. Reading -->
+  <section class="set-card">
+    <h2>{L('Bacaan', 'Reading', '阅读')}</h2>
+    <div class="row">
+      <span class="row-label">{L('Tema', 'Theme', '主题')}</span>
+      <div class="seg" data-group="theme">
+        <button type="button" data-value="dark">{L('Gelap', 'Dark', '深色')}</button>
+        <button type="button" data-value="light">{L('Cerah', 'Light', '浅色')}</button>
+      </div>
+    </div>
+    <div class="row">
+      <span class="row-label">{L('Saiz teks', 'Text size', '字号')}</span>
+      <div class="seg" data-group="size">
+        <button type="button" data-value="standard">{L('Biasa', 'Standard', '标准')}</button>
+        <button type="button" data-value="large">{L('Besar', 'Large', '大')}</button>
+        <button type="button" data-value="xlarge">{L('Sangat besar', 'X-Large', '特大')}</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- 4. Card display -->
+  <section class="set-card">
+    <h2>{L('Paparan kad', 'Card display', '卡片显示')}</h2>
+    <p class="note">
+      {L(
+        'Baris maklumat untuk dipaparkan pada kad artikel dalam senarai.',
+        'Which information rows show on article cards in listings.',
+        '文章卡片在列表中显示哪些信息行。',
+      )}
+    </p>
+    <div class="opts" data-group="rows">
+      <label class="opt"><input type="checkbox" value="path" /><span>{L('Laluan', 'Path', '路径')}</span></label>
+      <label class="opt"><input type="checkbox" value="details" /><span>{L('Butiran', 'Details', '详情')}</span></label>
+      <label class="opt"><input type="checkbox" value="custody" /><span>{L('Kastodi', 'Custody', '溯源')}</span></label>
+      <label class="opt"><input type="checkbox" value="visitors" /><span>{L('Pelawat', 'Visitors', '访客')}</span></label>
+    </div>
+  </section>
+
+  <div class="actions">
+    <button type="button" id="set-reset" class="reset">{L('Set semula semua', 'Reset all', '全部重置')}</button>
+    <span id="set-saved" class="saved" hidden>{L('Disimpan', 'Saved', '已保存')}</span>
+  </div>
+</div>
+
+<script>
+  const root = document.documentElement;
+  const el = document.getElementById('settings');
+  const savedFlag = document.getElementById('set-saved');
+  const get = (k: string) => { try { return localStorage.getItem(k); } catch { return null; } };
+  const set = (k: string, v: string) => { try { localStorage.setItem(k, v); } catch {} flash(); };
+  const del = (k: string) => { try { localStorage.removeItem(k); } catch {} };
+  let flashT: any;
+  const flash = () => { if (!savedFlag) return; savedFlag.hidden = false; clearTimeout(flashT); flashT = setTimeout(() => (savedFlag.hidden = true), 1200); };
+
+  if (el) {
+    // --- 1. Article visibility (nk-visible-status). Absent = show all. ---
+    const OPT_ST = ['reviewed', 'in-review', 'draft'];
+    const stBoxes = el.querySelectorAll<HTMLInputElement>('[data-group="status"] input:not([disabled])');
+    const readVis = () => { try { const v = JSON.parse(get('nk-visible-status') || 'null'); return Array.isArray(v) ? v : null; } catch { return null; } };
+    const initVis = readVis();
+    stBoxes.forEach((b) => (b.checked = initVis ? initVis.includes(b.value) : true));
+    const writeVis = () => {
+      const on = OPT_ST.filter((s) => el.querySelector<HTMLInputElement>(`[data-group="status"] input[value="${s}"]`)?.checked);
+      if (on.length === OPT_ST.length) del('nk-visible-status'); // all on = default = show everything
+      else set('nk-visible-status', JSON.stringify(['published', ...on]));
+      flash();
+    };
+    stBoxes.forEach((b) => b.addEventListener('change', writeVis));
+
+    // --- 2. Default language (nk-default-lang) ---
+    const dl = get('nk-default-lang') || 'auto';
+    el.querySelectorAll<HTMLInputElement>('[data-group="lang"] input').forEach((r) => {
+      r.checked = r.value === dl;
+      r.addEventListener('change', () => { if (r.checked) { if (r.value === 'auto') del('nk-default-lang'); else set('nk-default-lang', r.value); } });
+    });
+
+    // --- 3. Reading: theme + text size (shared keys with the Aa control) ---
+    const seg = (group: string, key: string, dataAttr: string, dflt: string) => {
+      const cur = root.getAttribute(dataAttr) || dflt;
+      const btns = el.querySelectorAll<HTMLElement>(`[data-group="${group}"] button`);
+      btns.forEach((b) => {
+        b.setAttribute('aria-pressed', String(b.dataset.value === cur));
+        b.addEventListener('click', () => {
+          const v = b.dataset.value!;
+          if (v === dflt) root.removeAttribute(dataAttr); else root.setAttribute(dataAttr, v);
+          set(key, v);
+          btns.forEach((x) => x.setAttribute('aria-pressed', String(x.dataset.value === v)));
+        });
+      });
+    };
+    seg('theme', 'nk-theme', 'data-theme', 'dark');
+    seg('size', 'nk-text-size', 'data-text-size', 'standard');
+
+    // --- 4. Card rows (nk-card-rows-hidden = array of HIDDEN row keys) ---
+    const ALL_ROWS = ['path', 'details', 'custody', 'visitors'];
+    const readHidden = () => { try { const v = JSON.parse(get('nk-card-rows-hidden') || '[]'); return Array.isArray(v) ? v : []; } catch { return []; } };
+    let hidden = readHidden();
+    // Default (no key yet) matches ArticleList: all rows hidden by default.
+    const rowsInit = get('nk-card-rows-hidden') === null ? ALL_ROWS.slice() : hidden;
+    el.querySelectorAll<HTMLInputElement>('[data-group="rows"] input').forEach((b) => {
+      b.checked = !rowsInit.includes(b.value); // checked = shown
+      b.addEventListener('change', () => {
+        const h = ALL_ROWS.filter((r) => !el.querySelector<HTMLInputElement>(`[data-group="rows"] input[value="${r}"]`)?.checked);
+        set('nk-card-rows-hidden', JSON.stringify(h));
+      });
+    });
+
+    // --- Reset all ---
+    document.getElementById('set-reset')?.addEventListener('click', () => {
+      ['nk-visible-status', 'nk-default-lang', 'nk-theme', 'nk-text-size', 'nk-card-rows-hidden'].forEach(del);
+      root.removeAttribute('data-theme');
+      root.removeAttribute('data-text-size');
+      flash();
+      setTimeout(() => location.reload(), 300);
+    });
+  }
+</script>
+
+<style>
+  .settings { max-width: var(--container-page, 68rem); margin: 0 auto; padding: 2rem 1.25rem 4rem; display: grid; gap: 1.25rem; }
+  .set-card { border: 1px solid var(--line); border-radius: 14px; background: var(--surface); padding: 1.25rem 1.4rem; }
+  .set-card h2 { font-size: 1.05rem; margin: 0 0 0.5rem; }
+  .note { color: var(--muted); font-size: 0.85rem; line-height: 1.6; margin: 0 0 0.9rem; }
+  .opts { display: flex; flex-wrap: wrap; gap: 0.5rem 1.25rem; }
+  .opt { display: inline-flex; align-items: center; gap: 0.5rem; font-size: 0.9rem; cursor: pointer; }
+  .opt.locked { opacity: 0.75; cursor: default; }
+  .opt input { width: 1rem; height: 1rem; accent-color: var(--gold); }
+  .row { display: flex; align-items: center; gap: 1rem; padding: 0.5rem 0; flex-wrap: wrap; }
+  .row-label { min-width: 7rem; font-size: 0.85rem; color: var(--ink-soft); }
+  .seg { display: inline-flex; gap: 0.3rem; }
+  .seg button { padding: 0.4rem 0.75rem; font-size: 0.85rem; font-weight: 600; border: 1px solid var(--line); border-radius: 8px; background: var(--bg); color: var(--ink-soft); cursor: pointer; }
+  .seg button[aria-pressed='true'] { background: var(--gold); color: #000; border-color: var(--gold); }
+  .actions { display: flex; align-items: center; gap: 1rem; }
+  .reset { padding: 0.5rem 1rem; font-weight: 700; border: 1px solid var(--line); border-radius: 8px; background: var(--bg); color: var(--ink-soft); cursor: pointer; }
+  .reset:hover { border-color: var(--gold); color: var(--gold); }
+  .saved { color: #4ade80; font-size: 0.85rem; font-weight: 700; }
+</style>
