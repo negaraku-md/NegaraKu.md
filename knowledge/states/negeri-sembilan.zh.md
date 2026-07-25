@@ -42,9 +42,10 @@ masterLanguage: "ms"
 translationStatus: "in-sync"
 sourceContentHash: "3f7d232abdcb3adc"
 
-status: "draft"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
+reviewer: "Ashton Tan"
+reviewed: "2026-07-25"
 version: "0.2"
 revisions:
   - version: "0.1"

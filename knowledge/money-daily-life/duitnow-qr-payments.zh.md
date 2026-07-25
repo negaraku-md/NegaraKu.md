@@ -27,12 +27,13 @@ verificationNeeded:
 
 lang: "zh"
 masterLanguage: "ms"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "1b31c1f5d1b3682f"
 
-status: "draft"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
+reviewer: "Ashton Tan"
+reviewed: "2026-07-25"
 version: "0.1"
 revisions:
   - version: "0.1"

@@ -20,9 +20,10 @@ appliesTo: "Anyone who wants to understand how the Malay royal institution of Me
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "pending"
-status: "draft"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
+reviewer: "Ashton Tan"
+reviewed: "2026-07-25"
 version: "0.1"
 revisions:
   - version: "0.1"

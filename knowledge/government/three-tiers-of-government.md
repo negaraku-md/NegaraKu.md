@@ -23,9 +23,10 @@ appliesTo: "Anyone trying to work out which level of government to approach for 
 lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
-status: "draft"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
+reviewer: "Ashton Tan"
+reviewed: "2026-07-25"
 version: "0.1"
 revisions:
   - version: "0.1"

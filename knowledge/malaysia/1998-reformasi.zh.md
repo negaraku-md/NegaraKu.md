@@ -22,9 +22,10 @@ appliesTo: "希望获得关于马来西亚1998年经济应对（资本管制与�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "pending"
-status: "draft"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
+reviewer: "Ashton Tan"
+reviewed: "2026-07-25"
 sourceContentHash: null
 version: "0.1"
 revisions:

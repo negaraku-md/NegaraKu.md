@@ -23,9 +23,10 @@ appliesTo: "任何想要逐条了解，在国会要修改联邦宪法特定部�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "draft"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
+reviewer: "Ashton Tan"
+reviewed: "2026-07-25"
 version: "0.1"
 revisions:
   - version: "0.1"

@@ -20,11 +20,12 @@ appliesTo: "Sesiapa yang cuba memahami bagaimana bajet isi rumah Malaysia yang t
 
 lang: "ms"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
+reviewer: "Ashton Tan"
+reviewed: "2026-07-25"
 version: "0.1"
 revisions:
   - version: "0.1"
@@ -34,7 +35,7 @@ revisions:
 sensitivity: "none"
 
 updated: 2026-07-24
-sourceContentHash: null
+sourceContentHash: "4c5994da7bcbecd8"
 sources:
   - title: "Household Expenditure Survey Report 2024"
     url: "https://www.dosm.gov.my/portal-main/release-content/household-expenditure-survey-report--malaysia--states"

@@ -24,10 +24,11 @@ verificationNeeded:
   - "Perkataan tepat seksyen 28 Akta Pengangkutan Jalan 1987 disahkan melalui ringkasan sekunder Akta itu dan bukan pembacaan baris demi baris terus terhadap PDF yang dihoskan JPJ (dielakkan di sini untuk mengawal penggunaan konteks) — nombor seksyen dan kesan substantifnya disokong merentasi pelbagai sumber bebas, tetapi sahkan perkataan tepat berbanding PDF Akta 333 yang dihoskan JPJ jika merangka apa-apa yang bergantung dari segi undang-undang kepadanya."
 lang: "ms"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
+reviewer: "Ashton Tan"
+reviewed: "2026-07-25"
 version: "0.1"
 revisions:
   - version: "0.1"

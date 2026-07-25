@@ -22,9 +22,10 @@ appliesTo: "Students, researchers and general readers who want to understand the
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "pending"
-status: "draft"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
+reviewer: "Ashton Tan"
+reviewed: "2026-07-25"
 version: "0.1"
 revisions:
   - version: "0.1"

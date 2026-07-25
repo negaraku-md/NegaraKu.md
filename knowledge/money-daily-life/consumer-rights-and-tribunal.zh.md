@@ -21,12 +21,13 @@ appliesTo: "在马来西亚购买了商品或服务、想知道自己有什么�
 
 lang: "zh"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "b22efe69c2b27bab"
 
-status: "draft"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
+reviewer: "Ashton Tan"
+reviewed: "2026-07-25"
 version: "0.1"
 revisions:
   - version: "0.1"

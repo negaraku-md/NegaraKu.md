@@ -29,11 +29,12 @@ faq:
 
 lang: "en"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
+reviewer: "Ashton Tan"
+reviewed: "2026-07-25"
 version: "0.1"
 revisions:
   - version: "0.1"
@@ -71,7 +72,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["touch-n-go", "road-tax-renewal"]
 keywords: ["tol lebuh raya Malaysia", "SmartTAG", "RFID Touch n Go", "JustGO PLUS", "ANPR tol", "MLFF tol tanpa palang", "lorong tol Malaysia"]
-sourceContentHash: null
+sourceContentHash: "3c4fadc4ffe6b6df"
 ---
 
 The car ahead of you in the RFID lane brakes suddenly because the sticker on its headlamp wasn't detected — even though many people assume RFID means "you don't need to do anything at all." In reality, Malaysia currently runs at least four generations of toll technology simultaneously across different highways, and confusing one for another is a common cause of cars getting stuck at the gate.

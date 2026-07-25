@@ -21,12 +21,13 @@ appliesTo: "Sesiapa yang berpindah ke atau membajet untuk Sabah atau Sarawak, me
 
 lang: "ms"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "09b2511e7525963f"
 
-status: "draft"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
+reviewer: "Ashton Tan"
+reviewed: "2026-07-25"
 version: "0.1"
 revisions:
   - version: "0.1"

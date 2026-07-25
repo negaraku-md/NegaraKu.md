@@ -36,9 +36,10 @@ socialTitle: "Bumiputera——一个不存在于宪法中，却根植于第153�
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "pending"
-status: "draft"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
+reviewer: "Ashton Tan"
+reviewed: "2026-07-25"
 version: "0.1"
 revisions:
   - version: "0.1"

@@ -34,9 +34,10 @@ socialTitle: "南印度古典舞如何在马来西亚扎根"
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "pending"
-status: "draft"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
+reviewer: "Ashton Tan"
+reviewed: "2026-07-25"
 version: "0.1"
 revisions:
   - version: "0.1"

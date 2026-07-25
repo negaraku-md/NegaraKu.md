@@ -119,9 +119,10 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "72d685f5d481d7fd"
 
-status: "draft"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
+reviewer: "Ashton Tan"
+reviewed: "2026-07-25"
 version: "0.1"
 revisions:
   - version: "0.1"

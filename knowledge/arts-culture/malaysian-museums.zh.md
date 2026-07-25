@@ -21,9 +21,10 @@ appliesTo: "适合正在规划博物馆行程的游客、想了解马来西亚�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "pending"
-status: "draft"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
+reviewer: "Ashton Tan"
+reviewed: "2026-07-25"
 version: "0.1"
 revisions:
   - version: "0.1"

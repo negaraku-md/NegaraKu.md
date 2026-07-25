@@ -23,12 +23,13 @@ appliesTo: "在马来西亚的任何人——公民、居民、工作准证持�
 
 lang: "zh"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "c673bb5c2f2b49f5"
 
-status: "draft"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
+reviewer: "Ashton Tan"
+reviewed: "2026-07-25"
 version: "0.1"
 revisions:
   - version: "0.1"

@@ -21,12 +21,13 @@ appliesTo: "任何搬迁至沙巴或砂拉越、或为此编列预算的人，�
 
 lang: "zh"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "09b2511e7525963f"
 
-status: "draft"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
+reviewer: "Ashton Tan"
+reviewed: "2026-07-25"
 version: "0.1"
 revisions:
   - version: "0.1"

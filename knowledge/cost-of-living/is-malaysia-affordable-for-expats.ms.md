@@ -23,11 +23,12 @@ appliesTo: "Ekspatriat, pekerja jarak jauh dan pendatang baharu yang menimbang k
 
 lang: "ms"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
+reviewer: "Ashton Tan"
+reviewed: "2026-07-25"
 version: "0.1"
 revisions:
   - version: "0.1"
@@ -36,7 +37,7 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
-sourceContentHash: null
+sourceContentHash: "4843205b62ed2e41"
 sources:
   - title: "Household Income Survey Report, Malaysia & States, 2024"
     url: "https://www.dosm.gov.my/portal-main/release-content/household-income-survey-report--malaysia--states-2024"

@@ -37,9 +37,10 @@ masterLanguage: "ms"
 translationStatus: "in-sync"
 sourceContentHash: "f075aca9f39a2a6a"
 
-status: "draft"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
+reviewer: "Ashton Tan"
+reviewed: "2026-07-25"
 version: "0.2"
 revisions:
   - version: "0.1"

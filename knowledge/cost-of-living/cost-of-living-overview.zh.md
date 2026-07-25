@@ -22,12 +22,13 @@ appliesTo: "任何为在马来西亚生活编列预算、比较薪资待遇与�
 
 lang: "zh"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "0b3015ed818343fb"
 
-status: "draft"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
+reviewer: "Ashton Tan"
+reviewed: "2026-07-25"
 reviewDue: 2027-01-24
 version: "0.1"
 revisions:

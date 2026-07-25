@@ -20,9 +20,10 @@ appliesTo: "Pembaca yang ingin tahu apa yang wujud di Semenanjung Tanah Melayu s
 lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
-status: "draft"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
+reviewer: "Ashton Tan"
+reviewed: "2026-07-25"
 version: "0.1"
 sensitivity: "none"
 updated: 2026-07-23

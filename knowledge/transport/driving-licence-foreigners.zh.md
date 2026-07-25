@@ -24,10 +24,11 @@ verificationNeeded:
   - "Road Transport Act 1987 第28条的确切文字，是透过该法令的二手摘要确认的，而非逐行阅读 JPJ 网站上刊载的 PDF 原文（此处为控制查证篇幅而未采用）——条文编号与实质效力已获多个独立来源相互印证，但若要撰写任何具法律依赖性的文件，请以 JPJ 网站刊载的 Act 333 PDF 原文为准核实确切措辞。"
 lang: "zh"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
+reviewer: "Ashton Tan"
+reviewed: "2026-07-25"
 version: "0.1"
 revisions:
   - version: "0.1"

@@ -21,11 +21,12 @@ appliesTo: "Sesiapa yang membandingkan kos sara hidup Pulau Pinang dengan Lembah
 
 lang: "ms"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
+reviewer: "Ashton Tan"
+reviewed: "2026-07-25"
 reviewDue: 2027-01-24
 version: "0.1"
 revisions:
@@ -40,7 +41,7 @@ verificationNeeded:
   - "IHP peringkat negeri adalah siri bulanan; angka Januari 2025 yang dipetik di sini perlu dikemas kini berdasarkan keluaran IHP DOSM terkini sebelum halaman ini digunakan untuk perbandingan bulan semasa."
 
 updated: 2026-07-24
-sourceContentHash: null
+sourceContentHash: "060d0c1609863cd7"
 sources:
   - title: "Household Income Survey Report 2024 (Malaysia & States)"
     url: "https://www.dosm.gov.my/portal-main/release-content/household-income-survey-report--malaysia--states-2024"

@@ -21,11 +21,12 @@ appliesTo: "任何比较槟城与巴生谷生活成本的人，或在搬迁、�
 
 lang: "zh"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
+reviewer: "Ashton Tan"
+reviewed: "2026-07-25"
 reviewDue: 2027-01-24
 version: "0.1"
 revisions:
@@ -40,7 +41,7 @@ verificationNeeded:
   - "州级消费者物价指数是月度系列数据；本页引用的2025年1月数据，在用于当月比较之前，应对照DOSM最新公布的消费者物价指数更新。"
 
 updated: 2026-07-24
-sourceContentHash: null
+sourceContentHash: "060d0c1609863cd7"
 sources:
   - title: "Household Income Survey Report 2024 (Malaysia & States)"
     url: "https://www.dosm.gov.my/portal-main/release-content/household-income-survey-report--malaysia--states-2024"

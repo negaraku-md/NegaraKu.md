@@ -19,11 +19,12 @@ keyTakeaways:
 appliesTo: "中三或 SPM 之后的学生、为孩子规划升学与职业路径的家长，以及想透过 SKM 认证既有技能的成年工作者。"
 lang: "zh"
 masterLanguage: "ms"
-translationStatus: "pending"
-sourceContentHash: null
-status: "draft"
+translationStatus: "in-sync"
+sourceContentHash: "75531562551211f2"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
+reviewer: "Ashton Tan"
+reviewed: "2026-07-25"
 version: "0.1"
 revisions:
   - version: "0.1"

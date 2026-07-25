@@ -21,9 +21,10 @@ lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 sourceContentHash: "d58cdfad35ba7fed"
-status: "draft"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
+reviewer: "Ashton Tan"
+reviewed: "2026-07-25"
 version: "0.1"
 sensitivity: "none"
 updated: 2026-07-10

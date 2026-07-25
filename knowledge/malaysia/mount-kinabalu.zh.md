@@ -20,9 +20,10 @@ appliesTo: "希望了解京那巴鲁山经核实的高度与保护区地位，�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "pending"
-status: "draft"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
+reviewer: "Ashton Tan"
+reviewed: "2026-07-25"
 version: "0.1"
 revisions:
   - version: "0.1"

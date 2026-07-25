@@ -22,12 +22,13 @@ appliesTo: "Sesiapa sahaja yang tinggal di atau melawat Malaysia yang ingin tahu
 
 lang: "ms"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "9fc1856c9ea17a12"
 
-status: "draft"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
+reviewer: "Ashton Tan"
+reviewed: "2026-07-25"
 version: "0.1"
 revisions:
   - version: "0.1"

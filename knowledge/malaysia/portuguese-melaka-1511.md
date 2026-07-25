@@ -21,9 +21,10 @@ appliesTo: "Pembaca yang mahu memahami sebab teknikal dan politik di sebalik kej
 lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
-status: "draft"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
+reviewer: "Ashton Tan"
+reviewed: "2026-07-25"
 version: "0.2"
 revisions:
   - version: "0.1"

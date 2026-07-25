@@ -52,9 +52,10 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "00945edeadfe77b7"
 
-status: "draft"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
+reviewer: "Ashton Tan"
+reviewed: "2026-07-25"
 version: "0.2"
 revisions:
   - version: "0.1"

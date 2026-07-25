@@ -19,9 +19,10 @@ appliesTo: "Anyone trying to understand why Malaysia's population, cities and fl
 lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
-status: "draft"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
+reviewer: "Ashton Tan"
+reviewed: "2026-07-25"
 version: "0.1"
 revisions:
   - version: "0.1"

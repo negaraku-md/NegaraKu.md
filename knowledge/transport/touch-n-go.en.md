@@ -30,11 +30,12 @@ faq:
 
 lang: "en"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
+reviewer: "Ashton Tan"
+reviewed: "2026-07-25"
 version: "0.1"
 revisions:
   - version: "0.1"
@@ -63,7 +64,7 @@ relations:
   - { rel: "related-to", to: "bank-negara-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["Touch 'n Go", "TNG eWallet", "kad Enhanced NFC", "kad prabayar tol Malaysia", "TNG Digital"]
-sourceContentHash: null
+sourceContentHash: "a15af3c5fd918fa5"
 ---
 
 Many people keep a Touch 'n Go card in their wallet and the Touch 'n Go eWallet app on their phone, and assume the two are the same thing wearing two faces. They are not. The balance in your card and the balance in your app are kept completely separate — topping one up in full doesn't add a single sen to the other. This misunderstanding is a common cause of cars stuck at toll gantries because the driver is confident "there's enough money on the phone," when what the toll machine actually reads is the card.

@@ -22,12 +22,13 @@ appliesTo: "任何在跨州规划旅行、生意或日常事务，并想弄清�
 
 lang: "zh"
 masterLanguage: "ms"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "504b70c9da4e3c64"
 
-status: "draft"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
+reviewer: "Ashton Tan"
+reviewed: "2026-07-25"
 version: "0.1"
 revisions:
   - version: "0.1"

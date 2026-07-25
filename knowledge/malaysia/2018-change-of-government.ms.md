@@ -21,9 +21,10 @@ appliesTo: "Pembaca yang mahukan fakta yang didokumenkan mengenai perubahan kera
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "pending"
-status: "draft"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
+reviewer: "Ashton Tan"
+reviewed: "2026-07-25"
 version: "0.1"
 revisions:
   - version: "0.1"

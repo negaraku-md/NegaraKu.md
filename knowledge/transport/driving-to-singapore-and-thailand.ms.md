@@ -22,12 +22,13 @@ appliesTo: "Pemandu Malaysia yang merancang untuk memandu kereta sendiri merenta
 
 lang: "ms"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "4dfab6647457152e"
 
-status: "draft"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
+reviewer: "Ashton Tan"
+reviewed: "2026-07-25"
 version: "0.1"
 revisions:
   - version: "0.1"

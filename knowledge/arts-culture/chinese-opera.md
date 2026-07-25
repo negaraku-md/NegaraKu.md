@@ -21,9 +21,10 @@ appliesTo: "任何想了解马来西亚华人传统戏曲种类，以及「酬�
 lang: "zh"
 masterLanguage: "zh"
 translationStatus: "master"
-status: "draft"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
+reviewer: "Ashton Tan"
+reviewed: "2026-07-25"
 version: "0.1"
 revisions:
   - version: "0.1"

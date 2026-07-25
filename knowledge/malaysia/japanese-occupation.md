@@ -21,9 +21,10 @@ appliesTo: "Pelajar, guru, penyelidik dan pembaca umum yang mahukan kronologi be
 lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
-status: "draft"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
+reviewer: "Ashton Tan"
+reviewed: "2026-07-25"
 version: "0.1"
 revisions:
   - version: "0.1"

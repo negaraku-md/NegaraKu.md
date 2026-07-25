@@ -20,9 +20,10 @@ appliesTo: "任何想了解马六甲马来皇室体制如何不间断地延续�
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "pending"
-status: "draft"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
+reviewer: "Ashton Tan"
+reviewed: "2026-07-25"
 version: "0.1"
 revisions:
   - version: "0.1"

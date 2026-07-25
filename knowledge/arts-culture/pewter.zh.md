@@ -18,9 +18,10 @@ appliesTo: "适合任何对马来西亚工艺传统、锡矿开采历史或 Roya
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "pending"
-status: "draft"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
+reviewer: "Ashton Tan"
+reviewed: "2026-07-25"
 version: "0.1"
 revisions:
   - version: "0.1"

@@ -32,9 +32,10 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "7f6734fed0eab6e8"
 
-status: "draft"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
+reviewer: "Ashton Tan"
+reviewed: "2026-07-25"
 reviewDue: 2027-07-22
 version: "0.1"
 revisions:
