@@ -66,15 +66,15 @@ const inSub = (s: string) => articles.filter((a) => a.data.subcategory.includes(
     text-transform: uppercase; color: var(--muted); background: var(--surface-2);
     border-bottom: 1px solid var(--line);
   }
-  /* Match the shared group headers (HubGroups): title + count in title font,
-     1.05rem, bright ink. */
+  /* The TOPICS group is this page's PRIMARY listing → gold header (title + count).
+     Only rendered on category ("Topic") pages. Title font, 1.05rem. */
   .catsec > header span:first-child {
     font-family: var(--font-title); font-size: 1.05rem; font-weight: 700;
-    text-transform: uppercase; letter-spacing: 0.03em; line-height: 1.2; color: var(--ink);
+    text-transform: uppercase; letter-spacing: 0.03em; line-height: 1.2; color: var(--gold);
   }
   .catsec > header span:last-child {
     font-family: var(--font-title); font-size: 1.05rem; font-weight: 700; line-height: 1.2;
-    letter-spacing: 0; color: var(--ink); font-variant-numeric: tabular-nums;
+    letter-spacing: 0; color: var(--gold); font-variant-numeric: tabular-nums;
   }
   .catsec-body { padding: 1.1rem; }
   .topic-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); gap: 0.8rem; }
