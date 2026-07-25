@@ -140,10 +140,11 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "795508e7636dbf96"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
+publishedBy: "ashton-tan"
 version: "0.2"
 revisions:
   - version: "0.1"

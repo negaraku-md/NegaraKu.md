@@ -34,10 +34,11 @@ masterLanguage: "ms"
 translationStatus: "in-sync"
 sourceContentHash: "20fe200c2e49f4f8"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
+publishedBy: "ashton-tan"
 version: "0.1"
 revisions:
   - version: "0.1"

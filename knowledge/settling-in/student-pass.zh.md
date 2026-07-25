@@ -50,10 +50,11 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "3119f651e106c8fe"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
+publishedBy: "ashton-tan"
 version: "0.1"
 revisions:
   - version: "0.1"

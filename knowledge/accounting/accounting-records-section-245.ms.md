@@ -60,10 +60,11 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "45066b2b4838e7ba"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
+publishedBy: "ashton-tan"
 version: "0.1"
 revisions:
   - version: "0.1"

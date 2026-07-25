@@ -24,10 +24,11 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "3aaef5bbc4ffdb87"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
+publishedBy: "ashton-tan"
 reviewDue: 2027-07-22
 version: "0.1"
 sensitivity: "none"

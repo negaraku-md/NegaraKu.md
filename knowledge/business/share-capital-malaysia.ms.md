@@ -70,10 +70,11 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "ac9c3894e3319f9f"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
+publishedBy: "ashton-tan"
 version: "0.1"
 revisions:
   - version: "0.1"

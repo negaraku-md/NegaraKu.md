@@ -34,10 +34,11 @@ socialTitle: "同是华人，为何各说各话？马来西亚方言版图"
 lang: "zh"
 masterLanguage: "zh"
 translationStatus: "master"
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
+publishedBy: "ashton-tan"
 version: "0.1"
 revisions:
   - version: "0.1"

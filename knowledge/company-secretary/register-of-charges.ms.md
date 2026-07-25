@@ -81,10 +81,11 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "4de1f26e8ce1d0bb"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
+publishedBy: "ashton-tan"
 version: "0.1"
 revisions:
   - version: "0.1"

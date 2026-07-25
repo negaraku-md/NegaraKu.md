@@ -25,10 +25,11 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "0b3015ed818343fb"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
+publishedBy: "ashton-tan"
 reviewDue: 2027-01-24
 version: "0.1"
 revisions:

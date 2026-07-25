@@ -37,10 +37,11 @@ masterLanguage: "ms"
 translationStatus: "in-sync"
 sourceContentHash: "92f9b90511421d9f"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
+publishedBy: "ashton-tan"
 version: "0.3"
 revisions:
   - version: "0.1"

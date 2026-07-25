@@ -21,10 +21,11 @@ appliesTo: "孩子即将升上政府小学一年级或政府中学中一的马�
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
+publishedBy: "ashton-tan"
 version: "0.1"
 revisions:
   - version: "0.1"

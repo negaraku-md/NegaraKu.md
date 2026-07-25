@@ -21,10 +21,11 @@ appliesTo: "学生、教师、研究人员及一般读者，若想了解1941年�
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "pending"
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
+publishedBy: "ashton-tan"
 version: "0.1"
 revisions:
   - version: "0.1"

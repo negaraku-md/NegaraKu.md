@@ -32,10 +32,11 @@ lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 sourceContentHash: "239aa5ec5e035842"
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
+publishedBy: "ashton-tan"
 version: "0.2"
 revisions:
   - version: "0.1"

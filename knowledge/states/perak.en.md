@@ -44,10 +44,11 @@ masterLanguage: "ms"
 translationStatus: "in-sync"
 sourceContentHash: "4a828ae5ed6fcad9"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
+publishedBy: "ashton-tan"
 version: "0.1"
 revisions:
   - version: "0.1"

@@ -62,10 +62,11 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "8ee48ba95a64ad88"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
+publishedBy: "ashton-tan"
 version: "0.1"
 revisions:
   - version: "0.1"

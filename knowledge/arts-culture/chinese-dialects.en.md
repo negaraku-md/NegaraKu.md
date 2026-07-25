@@ -34,10 +34,11 @@ socialTitle: "Same Chinese, So Why Different Tongues? Malaysia's Dialect Map"
 lang: "en"
 masterLanguage: "zh"
 translationStatus: "pending"
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
+publishedBy: "ashton-tan"
 version: "0.1"
 revisions:
   - version: "0.1"

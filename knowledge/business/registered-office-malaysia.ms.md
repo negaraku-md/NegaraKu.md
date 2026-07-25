@@ -52,10 +52,11 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "7e06d764f7790869"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
+publishedBy: "ashton-tan"
 version: "0.1"
 revisions:
   - version: "0.1"

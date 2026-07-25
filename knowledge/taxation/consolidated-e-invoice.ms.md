@@ -46,10 +46,11 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "1b4f5e59594a8f17"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
+publishedBy: "ashton-tan"
 version: "0.1"
 revisions:
   - version: "0.1"

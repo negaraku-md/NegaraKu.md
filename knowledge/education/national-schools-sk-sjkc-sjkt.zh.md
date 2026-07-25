@@ -31,10 +31,11 @@ faq:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
+publishedBy: "ashton-tan"
 sourceContentHash: "2c9607178a97bd26"
 version: "0.1"
 revisions:

@@ -23,10 +23,11 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
+publishedBy: "ashton-tan"
 version: "0.1"
 updated: "2026-07-24"
 revisions:

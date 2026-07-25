@@ -28,25 +28,7 @@ const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale
 />
 
 <div class="settings" id="settings">
-  <!-- 1. Content visibility -->
-  <section class="set-card">
-    <h2>{L('Tetapan artikel', 'Article visibility', '文章可见性')}</h2>
-    <p class="note">
-      {L(
-        'Pilih peringkat kitaran hayat yang dipaparkan dalam senarai dan carian. Kandungan sensitif (perkauman, agama, diraja, perlembagaan) yang belum diterbitkan tidak sekali-kali dipaparkan sehingga disemak manusia — tetapan ini tidak boleh mengatasinya.',
-        'Choose which lifecycle stages appear in listings and search. Unpublished sensitive content (race, religion, royalty, constitution) is never shown until a human publishes it — this setting cannot override that.',
-        '选择在列表和搜索中显示哪些生命周期阶段。未发布的敏感内容（种族、宗教、王室、宪法）在经人工发布前绝不显示——此设置无法覆盖该规则。',
-      )}
-    </p>
-    <div class="opts" data-group="status">
-      <label class="opt locked"><input type="checkbox" value="published" checked disabled /><span>{L('Diterbitkan', 'Published', '已发布')}</span></label>
-      <label class="opt"><input type="checkbox" value="reviewed" /><span>{L('Disemak', 'Reviewed', '已审核')}</span></label>
-      <label class="opt"><input type="checkbox" value="in-review" /><span>{L('Dalam semakan', 'In review', '审核中')}</span></label>
-      <label class="opt"><input type="checkbox" value="draft" /><span>{L('Draf', 'Draft', '草稿')}</span></label>
-    </div>
-  </section>
-
-  <!-- 2. Default language -->
+  <!-- Default language -->
   <section class="set-card">
     <h2>{L('Bahasa lalai', 'Default language', '默认语言')}</h2>
     <p class="note">
@@ -119,21 +101,7 @@ const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale
   const flash = () => { if (!savedFlag) return; savedFlag.hidden = false; clearTimeout(flashT); flashT = setTimeout(() => (savedFlag.hidden = true), 1200); };
 
   if (el) {
-    // --- 1. Article visibility (nk-visible-status). Absent = show all. ---
-    const OPT_ST = ['reviewed', 'in-review', 'draft'];
-    const stBoxes = el.querySelectorAll<HTMLInputElement>('[data-group="status"] input:not([disabled])');
-    const readVis = () => { try { const v = JSON.parse(get('nk-visible-status') || 'null'); return Array.isArray(v) ? v : null; } catch { return null; } };
-    const initVis = readVis();
-    stBoxes.forEach((b) => (b.checked = initVis ? initVis.includes(b.value) : true));
-    const writeVis = () => {
-      const on = OPT_ST.filter((s) => el.querySelector<HTMLInputElement>(`[data-group="status"] input[value="${s}"]`)?.checked);
-      if (on.length === OPT_ST.length) del('nk-visible-status'); // all on = default = show everything
-      else set('nk-visible-status', JSON.stringify(['published', ...on]));
-      flash();
-    };
-    stBoxes.forEach((b) => b.addEventListener('change', writeVis));
-
-    // --- 2. Default language (nk-default-lang) ---
+    // --- Default language (nk-default-lang) ---
     const dl = get('nk-default-lang') || 'auto';
     el.querySelectorAll<HTMLInputElement>('[data-group="lang"] input').forEach((r) => {
       r.checked = r.value === dl;

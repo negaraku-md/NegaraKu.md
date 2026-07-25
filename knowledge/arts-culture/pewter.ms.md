@@ -18,10 +18,11 @@ appliesTo: "Sesiapa yang ingin tahu tentang tradisi kraf Malaysia, sejarah perlo
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "pending"
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
+publishedBy: "ashton-tan"
 version: "0.1"
 revisions:
   - version: "0.1"

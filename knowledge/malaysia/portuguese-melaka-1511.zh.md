@@ -21,10 +21,11 @@ appliesTo: "希望了解1511年马六甲陷落背后技术与政治原因，以�
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "pending"
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
+publishedBy: "ashton-tan"
 version: "0.2"
 revisions:
   - version: "0.1"

@@ -21,10 +21,11 @@ appliesTo: "考虑为小学或中学年龄孩子安排在家教育的马来西�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
+publishedBy: "ashton-tan"
 version: "0.1"
 revisions:
   - version: "0.1"

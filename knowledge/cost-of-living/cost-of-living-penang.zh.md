@@ -23,10 +23,11 @@ lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
+publishedBy: "ashton-tan"
 reviewDue: 2027-01-24
 version: "0.1"
 revisions:

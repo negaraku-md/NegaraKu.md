@@ -22,10 +22,11 @@ appliesTo: "Pembaca yang inginkan catatan yang direkodkan dan boleh dikesan kepa
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "pending"
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
+publishedBy: "ashton-tan"
 sourceContentHash: null
 version: "0.1"
 revisions:

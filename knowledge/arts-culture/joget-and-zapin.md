@@ -22,10 +22,11 @@ appliesTo: "Sesiapa yang ingin memahami perbezaan asal usul, muzik dan gerakan a
 lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
+publishedBy: "ashton-tan"
 version: "0.1"
 revisions:
   - version: "0.1"

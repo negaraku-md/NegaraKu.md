@@ -36,10 +36,11 @@ lang: "ms"
 masterLanguage: "en"
 translationStatus: "pending"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
+publishedBy: "ashton-tan"
 reviewDue: 2026-10-24
 version: "0.1"
 revisions:

@@ -15,7 +15,7 @@ interface Props {
   crumb: Crumb[];
   title: string;
   desc?: string;
-  stats?: { value: string | number; label: string; live?: 'articles' | 'sections' | 'categories' | 'topics' }[];
+  stats?: { value: string | number; label: string }[];
 }
 const { crumb, title, desc, stats } = Astro.props;
 ---
@@ -41,7 +41,7 @@ const { crumb, title, desc, stats } = Astro.props;
         <dl class="stats">
           {stats.map((s) => (
             <div class="stat">
-              <dt data-live-stat={s.live}>{s.value}</dt>
+              <dt>{s.value}</dt>
               <dd>{s.label}</dd>
             </div>
           ))}

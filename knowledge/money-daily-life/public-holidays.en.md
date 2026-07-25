@@ -25,10 +25,11 @@ masterLanguage: "ms"
 translationStatus: "in-sync"
 sourceContentHash: "504b70c9da4e3c64"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
+publishedBy: "ashton-tan"
 version: "0.1"
 revisions:
   - version: "0.1"

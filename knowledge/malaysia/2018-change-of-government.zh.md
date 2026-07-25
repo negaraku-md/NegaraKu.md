@@ -21,10 +21,11 @@ appliesTo: "希望了解马来西亚在第14届大选中首次联邦政府更迭
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "pending"
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
+publishedBy: "ashton-tan"
 version: "0.1"
 revisions:
   - version: "0.1"

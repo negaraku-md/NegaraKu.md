@@ -42,10 +42,11 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "caffd1c326f672e5"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
+publishedBy: "ashton-tan"
 version: "0.1"
 revisions:
   - version: "0.1"

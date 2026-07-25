@@ -45,10 +45,11 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "333c372fcdca64b9"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
+publishedBy: "ashton-tan"
 version: "0.3"
 revisions:
   - version: "0.1"

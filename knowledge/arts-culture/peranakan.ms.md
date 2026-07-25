@@ -20,10 +20,11 @@ appliesTo: "Sesiapa yang ingin mendapatkan gambaran yang tepat dan penuh hormat 
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "pending"
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
+publishedBy: "ashton-tan"
 version: "0.1"
 revisions:
   - version: "0.1"

@@ -47,10 +47,11 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "016de66c249cb162"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
+publishedBy: "ashton-tan"
 version: "0.1"
 revisions:
   - version: "0.1"

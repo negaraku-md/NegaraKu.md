@@ -36,12 +36,13 @@ export function isLive(status: string): boolean {
 }
 
 export function isPublishable(a: Article): boolean {
-  // Archived = retired (repealed / superseded). Kept in the repo for provenance,
-  // but never served.
-  if (a.data.status === 'archived') return false;
-  if (a.data.sensitivity && a.data.sensitivity !== 'none') {
-    return isLive(a.data.status) && Boolean(a.data.reviewer);
-  }
+  // The public site serves FINISHED work only. Draft / in-review / reviewed are
+  // in-progress states — visible on the Dashboard and in git, but never on the
+  // reader-facing pages. Contributors work through GitHub, not the rendered site.
+  // (Archived = retired; also never served.)
+  if (!isLive(a.data.status)) return false;
+  // Sensitive (3R+1) content must additionally carry a named human reviewer.
+  if (a.data.sensitivity && a.data.sensitivity !== 'none') return Boolean(a.data.reviewer);
   return true;
 }
 

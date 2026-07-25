@@ -35,10 +35,11 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "ce5066c697d0cc2f"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
+publishedBy: "ashton-tan"
 version: "0.1"
 revisions:
   - version: "0.1"

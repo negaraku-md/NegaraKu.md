@@ -23,10 +23,11 @@ appliesTo: "Anyone who wants to know, provision by provision, what it actually t
 lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
+publishedBy: "ashton-tan"
 version: "0.1"
 revisions:
   - version: "0.1"

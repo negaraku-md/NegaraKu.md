@@ -48,10 +48,11 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "9326453dc0ca22ef"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
+publishedBy: "ashton-tan"
 version: "0.2"
 revisions:
   - version: "0.1"

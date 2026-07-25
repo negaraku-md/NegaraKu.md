@@ -20,10 +20,11 @@ appliesTo: "适合任何初来马来西亚、希望在深入了解任何单一�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "pending"
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
+publishedBy: "ashton-tan"
 version: "0.1"
 revisions:
   - version: "0.1"

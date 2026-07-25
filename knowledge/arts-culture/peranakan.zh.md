@@ -20,10 +20,11 @@ appliesTo: "适合任何想要客观、得体地了解土生华人（峇峇娘�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "pending"
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
+publishedBy: "ashton-tan"
 version: "0.1"
 revisions:
   - version: "0.1"
