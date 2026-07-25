@@ -326,6 +326,38 @@ most likely to need a native reviewer's eye.
 | the Alliance / Alliance Party (Parti Perikatan) | 联盟党（Alliance Party） | 2018-change-of-government | Reuses the exact rendering already established in independence-1957.zh.md for the same pre-1970s coalition |
 | Inter-Parliamentary Union (IPU) / IPU Parline | 各国议会联盟（Inter-Parliamentary Union）／IPU Parline数据库 | 2018-change-of-government | No prior corpus rendering. `IPU Parline` kept as the database's own product name, per the house rule for untranslated proper names (cf. Bursa Malaysia) |
 
+### titiwangsa-range — 2026-07-25
+
+| Term | Chosen | Article | Why |
+| --- | --- | --- | --- |
+| Titiwangsa Range (Banjaran Titiwangsa) | 蒂蒂旺沙山脉 | titiwangsa-range | Matches the rendering already established in geography-overview.zh.md and climate-and-biodiversity.zh.md (the latter has a stray variant 蒂迪旺沙山脉 — flagging that as a typo to fix in a future consolidation pass) |
+| Central Forest Spine (government forest-connectivity programme) | 中央森林脊梁（Central Forest Spine） | titiwangsa-range | No prior corpus rendering. Descriptive translation glossed once with the English programme name, then used bare — same pattern as other named government programmes without a settled Malaysian Chinese short form (cf. Digital Free Trade Zone) |
+| Environmentally Sensitive Area (ESA / Kawasan Sensitif Alam Sekitar) | 环境敏感区（Environmentally Sensitive Area） | titiwangsa-range | No prior corpus rendering. Malaysia's actual Malay-language planning term is Kawasan Sensitif Alam Sekitar (KSAS) — used directly in the .ms.md sibling — but no Malaysian Chinese press equivalent was found to confirm; flag for native-reviewer check |
+| Bintang Range / Nakawan Range | Bintang山脉／Nakawan山脉 (zh) — Banjaran Bintang / Banjaran Nakawan (ms) | titiwangsa-range | No settled Malaysian Chinese name found for these two ranges (unlike Crocker Range → 克罗克山脉, already fixed in geography-overview.zh.md); kept the English/Malay name rather than inventing a transliteration, per the spec's rule against coining institution/place names with no settled form |
+| Gunung Korbu / Gunung Nuang / Gunung Stong / Dabong / Kuala Krai | left unchanged in both en and zh | titiwangsa-range | No settled Malaysian Chinese renderings found for these place names (unlike Gunung Tahan → 大汉山, already fixed in geography-overview.zh.md); kept in their standard local form per the spec's "place names in standard local form" rule |
+| Royal Belum State Park / Belum-Temengor (forest landscape) | left unchanged (English name) in both zh and ms | titiwangsa-range | No settled Malaysian Chinese or Malay-official rendering confirmed; kept the English name used in the master (and by MyBIS itself) rather than inventing "Taman Negeri Royal Belum" |
+| State Parks Corporation Enactment 2001 (Perak) | left unchanged | titiwangsa-range | Treated as a statute/enactment short title per the never-translate rule, same as an Act — no gloss added, consistent with how Companies Act 2016 appears bare in zh body text |
+| Lembaga Kemajuan Kelantan Selatan (KESEDAR) | 吉兰丹南部区域开发局（Lembaga Kemajuan Kelantan Selatan，KESEDAR） | titiwangsa-range | No prior corpus rendering; descriptive translation glossed once, then `KESEDAR` alone |
+| Cameron Highlands | 金马仑高原 | titiwangsa-range | Reuses the exact rendering already established in pahang.zh.md |
+| Fraser's Hill | 福隆港 (zh) / Bukit Fraser (ms) | titiwangsa-range | Reuses the exact renderings already established in pahang.zh.md and pahang.md respectively |
+| watershed divide / drainage divide | 分水岭 (zh) / kawasan tadahan air (ms) | titiwangsa-range | zh matches geography-overview.zh.md's existing usage; ms matches geography-overview.ms.md's existing usage for the same concept |
+
+### singapore-separation-1965 — 2026-07-25
+
+| Term | Chosen | Article | Why |
+| --- | --- | --- | --- |
+| Independence of Singapore Agreement, 1965 | 《1965年新加坡独立协议》（Independence of Singapore Agreement, 1965） | singapore-separation-1965 | Followed the precedent already set for `Malaysia Agreement 1963` → 《1963年马来西亚协议》 (formation-of-malaysia-1963.zh.md) — treaty titles are translated with the English name glossed once, unlike domestic statute short titles which stay untranslated |
+| Annex (of the agreement, e.g. Annex A/B/J/K) | 附件A／附件B | singapore-separation-1965 | Treated as a treaty annex, not a statutory Schedule — translated (附件) rather than kept English, since the corpus's "Schedules stay English" rule is specific to an Act's own numbered Schedules, not a bilateral treaty's annexes |
+| Article (of the agreement itself, Roman-numbered I–VIII) | 第I条／第VII条 (Roman numeral kept, word "Article" translated) | singapore-separation-1965 | Distinct from Federal-Constitution "Article N" → 第N条 (which uses Arabic numerals, matching the Constitution's own numbering) — kept the Roman numerals as written since the treaty itself numbers its articles that way, translating only the word "Article" |
+| Yang di-Pertuan Negara (Singapore's 1965 head-of-state title, pre-President) | Yang di-Pertuan Negara | singapore-separation-1965 | Kept as the Malay-language title actually used in the 1965 constitutional instruments; no Chinese rendering coined, glossed once as "新加坡的国家元首" in the same clause |
+| Goh Keng Swee | 吴庆瑞 | singapore-separation-1965 | Standard, widely-published Chinese name for Singapore's first Deputy Prime Minister and Finance Minister; not previously in this corpus — flag for a native reviewer to confirm against Malaysian/Singaporean Chinese press usage |
+| E. W. Barker | 巴克（E. W. Barker） | singapore-separation-1965 | Singapore's Law Minister in 1965; transliteration not independently confirmed against Malaysian/Singaporean Chinese press — flagged for native-reviewer check |
+| Malaysian Solidarity Convention | 马来西亚团结大会（Malaysian Solidarity Convention） | singapore-separation-1965 | No prior corpus rendering; descriptive translation, glossed once then can be used bare |
+| "Malaysian Malaysia" (PAP's 1965 slogan/concept) | 「Malaysian Malaysia」（马来西亚人的马来西亚） | singapore-separation-1965 | Kept the English slogan itself untranslated (proper-noun/slogan treatment, matching the corpus's existing "Ganyang Malaysia" precedent in formation-of-malaysia-1963.zh.md), with a bracketed Chinese gloss |
+| certificate of urgency (Malaysian Parliament's Article 66(3) procedure) | 紧急证书 (zh) ／ sijil kecemasan (ms) | singapore-separation-1965 | No settled corpus rendering found; literal descriptive translation — flag for a native reviewer to confirm against the actual Malay/Chinese parliamentary-procedure term in use |
+| Privy Council | 枢密院（Privy Council） | singapore-separation-1965 | No prior corpus rendering; standard Chinese term for the UK institution, glossed once |
+| Senate / House of Representatives (in the sense of Malaysia's own Dewan Negara / Dewan Rakyat) | 上议院（Dewan Negara）／下议院（Dewan Rakyat) | singapore-separation-1965 | Matches the exact rendering already established in dewan-negara.zh.md and dewan-rakyat.zh.md — the master's own English "Senate"/"House of Representatives" wording refers to these same two Malaysian bodies |
+
 ### Left in English — no settled Malaysian Chinese term
 
 `Sdn Bhd` · `Berhad` · `Bursa Malaysia` · `MDEC` · `Public Ruling` · `CP204` / `CP204A` / `Form C` / `Form E` · `e-Filing` · `C.I.F.` · `de minimis` · `enterprise` (SSM registration type) · `Special Financial Zone` · `e-Fulfilment Hub` / `Satellite Services Hub` / `e-Services Platform` · `Malaysia Airports Holdings Berhad` · `Port Klang Free Zone` · every statute short title, `P.U.(A)`/`P.U.(B)` citation, `s.`/`paragraph`/`item`/`Schedule` reference, and agency acronym.
