@@ -199,6 +199,133 @@ most likely to need a native reviewer's eye.
 | insured wage | 受保薪金 | epf-socso-guide | No settled term. Built on the glossary's existing 薪金 (not 工资) ruling |
 | backbencher | 后座议员 | digital-free-trade-zone | Established Malaysian parliamentary usage |
 
+### sedition-act — 2026-07-24
+
+| Term | Chosen | Article | Why |
+| --- | --- | --- | --- |
+| Public Prosecutor | 公共检控官（Public Prosecutor） | sedition-act | Malaysian Chinese press term for the prosecutorial office (distinct from 总检察长, the Attorney General role); confirmed via Malaysiakini/China Press coverage of the 2026 prosecution-powers separation. Gloss once, then bare |
+| Ruler (Federal Constitution sense — YDPA or a State Ruler) | 统治者 | sedition-act | Standard Malaysian Chinese media term for the Malay Rulers collectively/individually; pairs with 最高元首 (Yang di-Pertuan Agong) and 州元首 (Yang di-Pertua Negeri) |
+| branch (lettered sub-paragraph of a definition, e.g. branch (f)) | (f) 项 | sedition-act | Same treatment as the existing `limb (d)` ruling below — drop the English classifier word, keep the letter with 项 |
+| seditious tendency | 煽动性倾向 | sedition-act | Core defined term of Act 15 s.3(1); no existing corpus rendering to conflict with |
+| Article 152 / 153 / 181 (Federal Constitution) | 第152条／第153条／第181条 | sedition-act | Follows the precedent already set by federal-constitution.zh.md, which renders constitutional "Article N" as 第N条 — distinct from an ordinary Act's "section N", which this corpus keeps in English (see companies-act-2016.zh.md's `ss.196–253`) |
+| Part III (Federal Constitution) | Part III（第三部分） | sedition-act | Matches federal-constitution.zh.md's own treatment of "Part N" — kept English, glossed once per distinct Part |
+
+### sedition-act (Malay) — 2026-07-24
+
+| Term | Chosen | Article | Why |
+| --- | --- | --- | --- |
+| Public Prosecutor | Pendakwa Raya | sedition-act.ms | Official Malay title (Federal Constitution Article 145) |
+| Ruler | Raja | sedition-act.ms | Matches existing corpus usage (rulers-and-governors.md, terengganu.md: "sembilan Raja", "Raja-Raja Melayu") |
+| branch (lettered sub-paragraph) | cabang | sedition-act.ms | Literal, natural Malay rendering; no conflicting corpus precedent found |
+| section (of an ordinary Act, e.g. "section 3") | seksyen | sedition-act.ms | Confirmed against companies-act-2016.ms.md, contracts-act-1950.ms.md and income-tax-act-1967.ms.md, which all translate "section" → "seksyen" even for the statute's own numbering — unlike the zh convention, which keeps it in English |
+| Article (of the Federal Constitution) | Perkara | sedition-act.ms | Matches federal-constitution.ms.md ("Perkara 4", "Perkara 159") — the actual term used in the authentic Malay constitutional text |
+| Part (of the Federal Constitution) | Bahagian | sedition-act.ms | Matches federal-constitution.ms.md ("Bahagian I"–"Bahagian V") |
+
+### bank-negara-malaysia — 2026-07-25
+
+| Term | Chosen | Article | Why |
+| --- | --- | --- | --- |
+| Governor (of BNM) | 总裁 | bank-negara-malaysia | No settled rendering found elsewhere in the corpus (opr-monetary-policy/ringgit not yet translated). Malaysian Chinese financial press calls the BNM head 总裁; rejected 行长 (mainland PBOC usage, not seen in Malaysian coverage of BNM) |
+| Deputy Governor | 副总裁 | bank-negara-malaysia | Pairs with 总裁 above |
+| Auditor General | 总审计司（Auditor General） | bank-negara-malaysia | auditor-general.md has no zh translation yet to check against; 总审计司 is the term Malaysian Chinese press uses for Ketua Audit Negara. Glossed once |
+| Monetary Policy Committee | 货币政策委员会（Monetary Policy Committee） | bank-negara-malaysia | Standard financial-press term; glossed once then used bare where repeated |
+| Overnight Policy Rate (OPR) | 隔夜政策利率（Overnight Policy Rate，OPR） | bank-negara-malaysia | Standard financial-press term |
+| Financial Stability Executive Committee | 金融稳定执行委员会（Financial Stability Executive Committee） | bank-negara-malaysia | Descriptive translation of the Act 701 s.37 body; no shorter established form found |
+| Shariah Advisory Council | 伊斯兰教法咨询理事会（Shariah Advisory Council） | bank-negara-malaysia | Descriptive rendering; flag for a native reviewer in case Malaysian Islamic-finance press uses a different settled term |
+
+### oil-gas-petronas — 2026-07-25
+
+| Term | Chosen | Article | Why |
+| --- | --- | --- | --- |
+| vested in / vesting (Act 144 s.2) | 赋予 (verb) / 归属 (noun), 归属文书 (vesting instrument) | oil-gas-petronas | No settled Malaysian Chinese term for this Act-specific usage. Built on terengganu.zh's existing 赋予 for "vests ... in"; 归属 coined for the noun form ("the vesting", "a vesting instrument") since the two recur together in this article |
+| the Corporation (Act 144's defined term for PETRONAS) | 法人机构 | oil-gas-petronas | Matches the rendering already used in terengganu.zh for the same Act's "the Corporation" |
+| royalty (informal shorthand, not an Act 144 term) | 矿区使用费（royalty） | oil-gas-petronas | Matches terengganu.zh's existing gloss; the Act itself never uses this word, only "cash payment" |
+| Malaysia Agreement 1963 | 《1963年马来西亚协议》（Malaysia Agreement 1963） | oil-gas-petronas | Matches the rendering already established in formation-of-malaysia-1963.zh.md |
+
+### auditor-general — 2026-07-25
+
+| Term | Chosen | Article | Why |
+| --- | --- | --- | --- |
+| National Audit Department (Jabatan Audit Negara) | 国家审计局 | auditor-general | No prior corpus rendering for the department itself (bank-negara-malaysia had already fixed 总审计司 for the *officer*, Auditor General). Paired the two the way Malaysian Chinese press pairs 总审计司 with the department he heads |
+| Audit Act 1957 (Akta Audit 1957) | 《1957年审计法令》（第62号法令） | auditor-general | Followed the precedent set by federal-budget.zh.md for Malay-origin statute titles — `Akta Perbekalan 2026 [Akta A1781]` → `《2026年拨款法令》（第A1781号法令）` — since the master is ms and the Act has no independent English short title to preserve verbatim |
+| entrance conference | 启动会议 | auditor-general | Descriptive rendering of the department's own FAQ term; no settled Malaysian Chinese press equivalent found |
+| Seksyen N (of an ordinary Act, ms master's own prose word) | s.N | auditor-general | The ms master spells this out as the full word `Seksyen 7`, but the Audit Act 1957 is an ordinary Act, not the Constitution — followed the existing zh-corpus rule that ordinary-Act sections stay in English citation form (income-tax-act-1967.zh.md's `s.4`, companies-act-2016.zh.md's `ss.196–253`), distinct from `Perkara`/`Article` → `第N条` which is reserved for the Federal Constitution |
+
+### prime-ministers-department — 2026-07-25
+
+| Term | Chosen | Article | Why |
+| --- | --- | --- | --- |
+| Prime Minister's Department (Jabatan Perdana Menteri, JPM) | 首相署（Jabatan Perdana Menteri，JPM） | prime-ministers-department | Reuses the rendering already established in jakim.zh.md and kabinet-perdana-menteri.zh.md ("隶属首相署"), which both use 首相署 for this body |
+| Chief Secretary to the Government (Ketua Setiausaha Negara, KSU) | 政府总秘书长 | prime-ministers-department | No prior corpus rendering. Built to pair with 副总秘书长 (Deputy Secretary-General) below; distinct from 总检察长 (Attorney General) already fixed elsewhere |
+| Deputy Secretary-General | 副总秘书长 | prime-ministers-department | Pairs with 政府总秘书长 above |
+| Office of the Chief Secretary (predecessor body, abolished) | 首席秘书办公室（Office of the Chief Secretary） | prime-ministers-department | No settled Malaysian Chinese term found for this abolished pre-1957 office; glossed once, flag for native-reviewer confirmation |
+| Public Service Commission (Suruhanjaya Perkhidmatan Awam) | 公共服务委员会 | prime-ministers-department | Matches general Malaysian Chinese press usage for this body |
+| Election Commission (Suruhanjaya Pilihan Raya) | 选举委员会 | prime-ministers-department | Matches general Malaysian Chinese press usage; SPR's own article (spr-election-commission) has no zh translation yet to check against |
+| Istana Negara | 国家皇宫 | prime-ministers-department | Standard Malaysian Chinese media term for the national palace |
+| Bureau of Statistics (DOSM's 1949 predecessor) | Bureau of Statistics（统计局） | prime-ministers-department | Reuses the exact rendering already established in dosm.zh.md |
+| National Family Planning Board / National Population and Family Development Board (LPPKN) | 全国家庭计划局／国家人口与家庭发展局（LPPKN） | prime-ministers-department | No prior corpus rendering; descriptive translation paired with the well-known LPPKN acronym |
+
+### attorney-general — 2026-07-25
+
+| Term | Chosen | Article | Why |
+| --- | --- | --- | --- |
+| right of audience | 出庭权 | attorney-general | No settled Malaysian Chinese term found in the corpus so far. Literal, transparent rendering; flagged for a native reviewer |
+| precedence (over other persons appearing before a court) | 优先权 | attorney-general | Paired with 出庭权 above; distinct from "precedence" in a succession sense |
+| Solicitor General | Solicitor General（总检察署内最资深的副手） | attorney-general | No settled Malaysian Chinese rendering found (not yet used elsewhere in the corpus); kept the English title per the spec's rule for un-settled institution names and glossed the meaning in a clause rather than inventing a Chinese title |
+| Public Prosecutor | 公共检控官（Public Prosecutor） | attorney-general | Reuses the rendering already established by sedition-act (see above), needed here to keep distinct from 总检察长 (Attorney General) since this article explicitly discusses the two labels for one office |
+
+### jawi-script — 2026-07-25
+
+| Term | Chosen | Article | Why |
+| --- | --- | --- | --- |
+| Jawi (tulisan Jawi) | 爪夷文 | jawi-script | Established Malaysian Chinese media term (used throughout the 2019–2020 vernacular-school Jawi calligraphy coverage and already present bare in terengganu.zh.md). Glossed once as 爪夷文（Jawi）, then bare |
+| Rumi script (tulisan Rumi) | 罗马字（Rumi） | jawi-script | No prior corpus zh rendering (bahasa-melayu, which uses this term most, has no zh translation yet). Malaysian usage says 罗马字, not 拉丁字母. Glossed once, then bare |
+| Batu Bersurat Terengganu / Terengganu Inscribed Stone | 登嘉楼碑文石（Batu Bersurat Terengganu） | jawi-script | Matches the rendering already fixed in terengganu.zh.md / terengganu.en.md (English target uses "Terengganu Inscribed Stone") |
+| Nusantara | 努山达拉（Nusantara，马来群岛） | jawi-script | The ms master uses both `Kepulauan Melayu` (body) and `Nusantara` (frontmatter answer) for the same region — kept them distinct rather than collapsing both to 马来群岛: `Kepulauan Melayu` → 马来群岛 bare, `Nusantara` → transliterated + glossed once since it is a distinct loanword in the source, not simply "Malay Archipelago" restated |
+| National Language Act 1963/67 (Akta Bahasa Kebangsaan 1963/67, Akta 32) | EN: National Language Act 1963/67 (Act 32) · ZH: 《1963/67年国家语文法令》（第32号法令） | jawi-script | Followed the federal-budget.en/.zh precedent for a Malay-titled Act translated from an ms master: EN uses the Act's real English short title (not invented — Akta Perbekalan → Supply Act is the same move); ZH translates descriptively with the Act number kept, matching federal-budget.zh's 《2026年拨款法令》（第A1781号法令） rather than asserting an unverified English-original name |
+| Seksyen 9 (of the National Language Act — an ordinary Act, not the Constitution) | EN: Section 9 · ZH: s.9 | jawi-script | EN matches federal-budget.en's own-prose convention ("section 32", "Article 98"). ZH follows the auditor-general ruling precisely: ordinary-Act sections stay as `s.N`, distinct from `Perkara`/`Article` → 第N条 reserved for the Federal Constitution — even though federal-budget.zh itself rendered ordinary-Act sections as 第N条 before that ruling was written down; this article follows the newer, explicit rule |
+| Perkara 152 (Federal Constitution) | 第152条 | jawi-script | Consistent with the existing sedition-act.zh.md and federal-budget.zh.md treatment of constitutional Articles |
+| Jabatan Warisan Negara | 国家文物局（Jabatan Warisan Negara） | jawi-script | perak.zh.md already uses 国家文物局; teh-tarik.zh.md instead uses 国家文化遗产局 for the same department — picked the perak.zh form as the more literal/concise rendering, flagging the corpus-internal inconsistency for a future consolidation pass |
+| Warisan Kebangsaan (declared heritage status) | 国家文化遗产 | jawi-script | Matches teh-tarik.zh.md's existing rendering of the same Jabatan Warisan Negara declaration mechanism |
+| Memory of the World (UNESCO) | 「世界记忆」（Memory of the World） | jawi-script | Matches terengganu.zh.md's existing rendering exactly |
+| Dewan Bahasa dan Pustaka (DBP) | 国家语文局（Dewan Bahasa dan Pustaka，DBP） | jawi-script | rakyat.zh.md already uses 国家语文局; merdeka.zh.md instead uses 国家语文出版局 — picked rakyat.zh's shorter form, flagging the same inconsistency as Jabatan Warisan Negara above for a future consolidation pass |
+| Pedoman Umum Ejaan Jawi Bahasa Melayu (DBP document title) | Kept as the original italicised title, glossed once — EN: (General Guidelines for Jawi Malay Spelling); ZH: （马来语爪夷文拼写总纲） | jawi-script | Not a statute, so not covered by the never-translate rule, but treated the same way as a citation-identifier document title: keep the original name, gloss the meaning once |
+
+### spr-election-commission — 2026-07-25
+
+| Term | Chosen | Article | Why |
+| --- | --- | --- | --- |
+| Election Commission (Suruhanjaya Pilihan Raya, SPR) | 选举委员会（Suruhanjaya Pilihan Raya，SPR） | spr-election-commission | Reuses the exact rendering already established by how-elections-work.zh.md for the same body; kept consistent rather than re-deciding |
+| Thirteenth Schedule (Jadual Ketiga Belas) | Thirteenth Schedule（第十三附表） | spr-election-commission | Matches how-elections-work.zh.md's own treatment of the same Schedule — kept English per the Schedules-are-references house rule, glossed once |
+| Akta Suruhanjaya Pilihan Raya 1957 (Akta 31) / Akta Pilihan Raya 1958 (Akta 19) | left unchanged in both en and zh | spr-election-commission | Follows the precedent set by how-elections-work (both en and zh keep `Akta Pilihan Raya 1958` verbatim) rather than the auditor-general precedent of translating the Malay Act title into English/Chinese — these two conventions coexist in the corpus and a translator should match the more specific, same-institution precedent when one exists |
+
+### mak-yong — 2026-07-25
+
+| Term | Chosen | Article | Why |
+| --- | --- | --- | --- |
+| Mak Yong (the art form's own name) | 玛蓉剧（Mak Yong） glossed once, then bare `Mak Yong` | mak-yong | Corpus already splits between two coinages: chinese-opera.md links to it as 玛蓉戏, while kelantan.zh.md and dikir-barat.zh.md both use 玛蓉剧. Followed the 2-to-1 majority (玛蓉剧) for the gloss, then kept the bare English `Mak Yong` thereafter to match how joget-and-zapin.zh.md and dikir-barat.zh.md reference this same article's title bare. Flagging the 玛蓉剧/玛蓉戏 split for a future consolidation pass |
+| Masterpiece of the Oral and Intangible Heritage of Humanity (UNESCO's pre-2008 proclamation, distinct from the Representative List) | 「人类口头和非物质遗产代表作」（Masterpiece of the Oral and Intangible Heritage of Humanity）, then bare `Masterpiece` | mak-yong | No prior corpus rendering — every existing UNESCO reference in this corpus (wayang-kulit.zh, batik.zh, kelantan.zh) only ever needed the *Representative List* term, never the earlier discontinued Masterpiece proclamation. Kept `Masterpiece` bare after the gloss because the ms master itself does the same (switches to the English word alone throughout, never re-translating it to Malay each time) |
+| the 2003 Convention (Convention for the Safeguarding of the Intangible Cultural Heritage) | 2003年公约 (first mention: 2003年公约生效) | mak-yong | No prior corpus rendering found. Kept short-form per the master's own terse "Konvensyen 2003" usage rather than spelling out the Convention's full name, which the master itself never does either |
+| Patani (kerajaan Patani, historical Malay kingdom, now southern Thailand) | 北大年（Patani）王国 | mak-yong | Standard Malaysian/regional Chinese historical term for Patani. No prior corpus rendering to check against |
+| Yala (Thai province, site of the historical Patani court) | 亚拉（Yala） | mak-yong | No prior corpus rendering; standard transliteration of the Thai province name |
+| Timbalan Menteri Besar (Deputy Menteri Besar) | 副州务大臣（Timbalan Menteri Besar） | mak-yong | Built on the corpus's existing 州务大臣（Menteri Besar）ruling (rulers-and-governors.zh.md, negeri-sembilan.zh.md, kelantan.zh.md) by prefixing 副 for the deputy role; no prior corpus instance of the deputy title to check against |
+| aurat (Islamic modesty requirement — body parts that must be covered) | 遮蔽aurat（伊斯兰教义规定须遮盖的身体部位）, kept as the Malay/Arabic loanword and glossed once | mak-yong | No settled Malaysian Chinese calque found in the corpus so far; flagged for a native reviewer |
+| Datuk Mohd Amar Nik Abdullah (Kelantan politician, named in the 2019 announcement) | 拿督莫哈末阿马尼克阿都拉（Datuk Mohd Amar Nik Abdullah） | mak-yong | Transliterated following the corpus's existing pattern of rendering named officials' names in Chinese characters with the original kept in brackets (see article-153-special-position.zh.md's 安华依布拉欣（Anwar Ibrahim）, wesak.zh.md's 拿督沙里·法宝法师（Datuk K. Sri Dhammaratana）). No settled transliteration for this specific name exists elsewhere in the corpus — flagged for a native reviewer to confirm the character choices for `Amar` and `Nik` |
+| Instrument names (rebab, gendang, tetawak, canang, kesi, geduk, gedombak, serunai) | kept as the Malay loanwords, untranslated | mak-yong | Matches the corpus's existing treatment of Nusantara performing-arts instrument names (dikir-barat.zh.md's rebana ibu/anak, canang, gong (tetawak); joget-and-zapin.zh.md's gendang, gambus, rebana) — none of these carry settled Chinese names in Malaysian usage |
+| Role/character names (Pak Yong, Pak Yong Muda, Puteri Mak Yong, Dayang, Inang, Peran, Tok Wak, Betara Guru, Gergasi, Tok Minduk) and ritual-segment names (Bertabuh, San Gendang, Lagu Mengadap Rebab, Mengadap Rebab) and story titles (Dewa Muda, Raja Tangkai Hati, Gading Bertimang) | kept as the original Malay names, untranslated | mak-yong | Treated as proper nouns/citation-like identifiers, consistent with how wayang-kulit.zh.md keeps Tok Dalang and Hikayat Seri Rama untranslated |
+
+### 2018-change-of-government — 2026-07-25
+
+| Term | Chosen | Article | Why |
+| --- | --- | --- | --- |
+| Barisan Nasional | 国阵（Barisan Nasional） | 2018-change-of-government | Universal Malaysian Chinese press shorthand for the coalition; glossed once, then bare |
+| Pakatan Harapan | 希望联盟（Pakatan Harapan） | 2018-change-of-government | Standard Malaysian Chinese press rendering (commonly abbreviated 希盟 in headlines, but article keeps the fuller 希望联盟 since the master never abbreviates to "PH"); glossed once, then bare |
+| Parti Warisan Sabah | 沙巴团结党（Parti Warisan Sabah） | 2018-change-of-government | Established Malaysian Chinese press term for Warisan; glossed once, then bare |
+| Parti Islam Se-Malaysia (PAS) | 泛马来西亚伊斯兰党（Parti Islam Se-Malaysia，PAS） | 2018-change-of-government | Standard full-name rendering; `PAS` alone elsewhere in the corpus once introduced |
+| Sabah STAR | 沙巴星火党 | 2018-change-of-government | No corpus precedent found; flag for a native reviewer — this is a minor party and the rendering was not independently confirmed against Malaysian Chinese press usage |
+| the Alliance / Alliance Party (Parti Perikatan) | 联盟党（Alliance Party） | 2018-change-of-government | Reuses the exact rendering already established in independence-1957.zh.md for the same pre-1970s coalition |
+| Inter-Parliamentary Union (IPU) / IPU Parline | 各国议会联盟（Inter-Parliamentary Union）／IPU Parline数据库 | 2018-change-of-government | No prior corpus rendering. `IPU Parline` kept as the database's own product name, per the house rule for untranslated proper names (cf. Bursa Malaysia) |
+
 ### Left in English — no settled Malaysian Chinese term
 
 `Sdn Bhd` · `Berhad` · `Bursa Malaysia` · `MDEC` · `Public Ruling` · `CP204` / `CP204A` / `Form C` / `Form E` · `e-Filing` · `C.I.F.` · `de minimis` · `enterprise` (SSM registration type) · `Special Financial Zone` · `e-Fulfilment Hub` / `Satellite Services Hub` / `e-Services Platform` · `Malaysia Airports Holdings Berhad` · `Port Klang Free Zone` · every statute short title, `P.U.(A)`/`P.U.(B)` citation, `s.`/`paragraph`/`item`/`Schedule` reference, and agency acronym.
