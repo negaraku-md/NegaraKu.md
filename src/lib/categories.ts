@@ -482,7 +482,7 @@ export const CATEGORIES: Category[] = [
     },
     archetype: 'narrative',
     pillar: 'living',
-    launch: true,
+    launch: false, // empty — no articles yet; hidden until populated (see expansion roadmap)
   },
   {
     id: 'public-safety',
@@ -495,7 +495,7 @@ export const CATEGORIES: Category[] = [
     },
     archetype: 'service',
     pillar: 'living',
-    launch: true,
+    launch: false, // empty — no articles yet; hidden until populated (see expansion roadmap)
   },
   {
     id: 'agriculture',

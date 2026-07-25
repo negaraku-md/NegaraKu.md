@@ -28,12 +28,7 @@ export const NAV: NavMenu[] = [
     items: [
       { label: 'nav.aboutPage', href: '/about' },
       { label: 'nav.dashboard', href: '/dashboard' },
-      { label: 'nav.semiont', href: '/semiont' },
-      { label: 'nav.dataHub', href: '/data' },
-      { label: 'nav.companies', href: '/companies' },
-      { label: 'nav.resources', href: '/resources' },
       { label: 'nav.changelog', href: '/changelog' },
-      { label: 'nav.mcp', href: '/mcp' },
     ],
   },
   { label: 'nav.contribute', href: '/contribute' },
