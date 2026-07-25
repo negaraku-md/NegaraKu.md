@@ -26,7 +26,7 @@ sourceContentHash: null
 
 status: "reviewed"
 aiAssisted: true
-reviewer: "Ashton Tan"
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 reviewDue: 2026-10-24
 version: "0.1"

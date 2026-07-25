@@ -117,7 +117,7 @@ sourceContentHash: "beb77b4436b7c05c"
 
 status: "reviewed"
 aiAssisted: true
-reviewer: "Ashton Tan"
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 version: "0.1"
 revisions:

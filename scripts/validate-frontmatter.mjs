@@ -127,6 +127,23 @@ for (const file of walk('knowledge')) {
   if (/^reviewed:\s*\S/m.test(fm) && reviewer === 'null') {
     warns.push(`${file}: has a reviewed date but reviewer is null`);
   }
+
+  // --- contributor identity must be a bare lowercase GitHub handle ----------
+  // See docs/CONTRIBUTOR-IDENTITY-STANDARD.md. Rejects display-name forms like
+  // "Ashton Tan", "@ashton-tan", or an email — a person is identified only by
+  // their lowercase github handle (a-z, 0-9, hyphen). `null` is always allowed.
+  const HANDLE = /^[a-z0-9](?:[a-z0-9-]*[a-z0-9])?$/;
+  for (const field of ['author', 'reviewer', 'publishedBy']) {
+    const raw = (fm.match(new RegExp(`^${field}:\\s*(.+)$`, 'm')) || [])[1]?.trim();
+    if (!raw || raw === 'null' || raw === '~' || raw === '""') continue;
+    const val = raw.replace(/^["']|["']$/g, '');
+    if (!HANDLE.test(val)) {
+      errors.push(
+        `${file}: ${field} "${val}" is not a bare lowercase github handle — ` +
+          `use e.g. "ashton-tan" (see docs/CONTRIBUTOR-IDENTITY-STANDARD.md)`,
+      );
+    }
+  }
 }
 
 if (fixed) console.log(`[validate] quoted ${fixed} date value(s)`);

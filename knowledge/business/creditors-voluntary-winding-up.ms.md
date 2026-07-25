@@ -58,7 +58,7 @@ sourceContentHash: "7c0a23216627e7ee"
 
 status: "reviewed"
 aiAssisted: true
-reviewer: "Ashton Tan"
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 version: "0.1"
 revisions:

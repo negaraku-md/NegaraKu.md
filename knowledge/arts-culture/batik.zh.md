@@ -34,7 +34,7 @@ translationStatus: "in-sync"
 sourceContentHash: "239aa5ec5e035842"
 status: "reviewed"
 aiAssisted: true
-reviewer: "Ashton Tan"
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 version: "0.2"
 revisions:
