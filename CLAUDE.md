@@ -38,3 +38,12 @@ npm run health     # python content-health scan (add --strict for CI)
 
 Run `npm run build`, then `npm run preview` and check the affected page. The
 health scan and the build must stay green.
+
+## Gotcha: `[glob-loader] Duplicate id …` warnings
+
+These come from Astro's incremental content-layer cache (`.astro/`) going stale
+after heavy content churn (e.g. adding hundreds of translation files) — **not**
+from real duplicate files. `scripts/validate-frontmatter.mjs` + a path scan will
+show 0 real duplicate ids. Fix: `npm run clean` (removes `.astro` +
+`node_modules/.astro`), then restart. `prebuild` clears it automatically, so
+production builds are always clean; `npm run dev:clean` does it before dev.
