@@ -15,7 +15,12 @@ interface Props {
 const { locale } = Astro.props;
 const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
-const canonical = await articlesForLocale(locale);
+// Show only articles that ACTUALLY EXIST in this locale, not master fallbacks.
+// articlesForLocale() returns one entry per topic and falls back to the master
+// when a translation is missing, so its length is identical on every locale
+// (386). Filtering to lang === locale makes the hero count and the list reflect
+// this language's real coverage (EN 359 / MS 331 / ZH 304).
+const canonical = (await articlesForLocale(locale)).filter((a) => a.data.lang === locale);
 const secCount = new Set(canonical.map((a) => getPillar(a.data.category)).filter(Boolean)).size;
 const catCount = new Set(canonical.map((a) => a.data.category)).size;
 const topCount = new Set(canonical.flatMap((a) => (a.data.subcategory ?? []).map((s) => `${a.data.category}/${s}`))).size;
