@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📝 Contribute an article (no account needed)
+    url: https://negaraku.md/contribute
+    about: Use the guided form on the site — it opens a pre-filled issue for you.
+  - name: 📖 Contribution guide & content standards
+    url: https://github.com/ashton-tan/NegaraKu.md/blob/main/CONTRIBUTING.md
+    about: Frontmatter schema, tiers, sourcing rules and the review pipeline.
+  - name: 🕊️ Editorial guidelines (sensitive topics)
+    url: https://github.com/ashton-tan/NegaraKu.md/blob/main/docs/editorial-guidelines.md
+    about: How race, religion, royalty and constitutional (3R+1) topics are handled.
+  - name: 🌐 Read the site
+    url: https://negaraku.md
+    about: The published knowledge base (ms / en / zh).

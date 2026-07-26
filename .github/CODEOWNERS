@@ -1,0 +1,23 @@
+# Code owners — who is automatically requested for review on a pull request.
+# See: https://docs.github.com/articles/about-code-owners
+#
+# NegaraKu.md is maintainer-reviewed. Every change requests review from the
+# maintainer; being a code owner here is the authority to approve merges, which
+# for content is the same authority as being a `reviewer:` in
+# scripts/health/reviewers.txt (the name that renders the public "Human-reviewed"
+# badge). See CONTRIBUTING.md.
+
+# Default — everything.
+*                         @ashton-tan
+
+# Sensitive content (3R+1: race, religion, royalty, constitution) — must always
+# be reviewed by a maintainer before it can be published.
+/knowledge/malaysia/      @ashton-tan
+/knowledge/government/    @ashton-tan
+/knowledge/law/           @ashton-tan
+/knowledge/states/        @ashton-tan
+
+# Build, deploy and health tooling.
+/.github/                 @ashton-tan
+/scripts/                 @ashton-tan
+/astro.config.mjs         @ashton-tan
