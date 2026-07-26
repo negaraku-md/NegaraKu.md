@@ -62,7 +62,7 @@ const { locale, path } = Astro.props;
     </nav>
 
     <div class="tools">
-      <a class="icon-btn" href={localePath('/search', locale)} aria-label={t('nav.search', locale)} title={t('nav.search', locale)}>
+      <a class="icon-btn" data-search-link href={localePath('/search', locale)} aria-label={t('nav.search', locale)} title={`${t('nav.search', locale)} (/)`}>
         <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"></circle><path d="m21 21-4.3-4.3"></path></svg>
       </a>
       <a class="icon-btn" href={REPO} target="_blank" rel="noopener" aria-label="GitHub" title="GitHub">
@@ -87,6 +87,26 @@ const { locale, path } = Astro.props;
     </div>
   </div>
 </header>
+
+<script>
+  // Press "/" anywhere to jump to search (GitHub-style). If already on the
+  // search page, focus the input instead of navigating.
+  document.addEventListener('keydown', (e) => {
+    if (e.key !== '/' || e.metaKey || e.ctrlKey || e.altKey) return;
+    const el = e.target as HTMLElement;
+    const tag = (el?.tagName || '').toLowerCase();
+    if (tag === 'input' || tag === 'textarea' || tag === 'select' || el?.isContentEditable) return;
+    const link = document.querySelector<HTMLAnchorElement>('a[data-search-link]');
+    if (!link) return;
+    e.preventDefault();
+    const dest = new URL(link.href).pathname.replace(/\/$/, '');
+    if (location.pathname.replace(/\/$/, '') === dest) {
+      document.getElementById('search-input')?.focus();
+    } else {
+      location.href = link.href;
+    }
+  });
+</script>
 
 <style>
   .site-header {

@@ -1,73 +1,240 @@
 ---
 import type { Locale } from '@/lib/categories';
-import { t } from '@/lib/i18n';
+import { t, localePath } from '@/lib/i18n';
+import { siteStats } from '@/lib/content';
+import PageHero from './PageHero.astro';
 
 interface Props {
   locale: Locale;
 }
 const { locale } = Astro.props;
-const placeholder =
-  locale === 'zh' ? '搜索马来西亚…' : locale === 'en' ? 'Search Malaysia…' : 'Cari Malaysia…';
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const stats = await siteStats(locale);
+
+const I18N = {
+  placeholder: L('Cari Malaysia — orang, tempat, peristiwa…', 'Search Malaysia — people, places, events…', '搜索马来西亚 — 人物、地点、事件…'),
+  resultsFor: L('hasil untuk', 'results for', '条结果'),
+  noResults: L('Tiada hasil untuk', 'No results for', '未找到结果'),
+  start: L('Taip untuk mencari seluruh korpus.', 'Type to search the whole corpus.', '输入以搜索整个语料库。'),
+  building: L('Indeks carian dijana semasa binaan. Jalankan npm run build kemudian npm run preview.', 'The search index is generated at build time. Run npm run build then npm run preview.', '搜索索引在构建时生成。请运行 npm run build 再 npm run preview。'),
+  rows: L('Baris', 'Rows', '每页'),
+  page: L('Halaman', 'Page', '第'),
+};
 ---
 
-<section class="container search">
-  <h1>{t('nav.search', locale)}</h1>
-  <div id="search" data-placeholder={placeholder}></div>
-  <noscript>
-    <p>{locale === 'zh' ? '搜索需要 JavaScript。' : locale === 'en' ? 'Search requires JavaScript.' : 'Carian memerlukan JavaScript.'}</p>
-  </noscript>
+<PageHero
+  locale={locale}
+  crumb={[
+    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
+    { label: t('nav.search', locale) },
+  ]}
+  title={t('nav.search', locale)}
+  desc={L(
+    `Cari ${stats.articles} artikel tentang Malaysia — dalam tiga bahasa.`,
+    `Search ${stats.articles} articles about Malaysia — in three languages.`,
+    `在 ${stats.articles} 篇关于马来西亚的文章中搜索——三种语言。`,
+  )}
+  stats={[
+    { value: stats.sections, label: L('seksyen', 'sections', '版块') },
+    { value: stats.categories, label: L('kategori', 'categories', '分类') },
+    { value: stats.topics, label: L('topik', 'topics', '主题') },
+    { value: stats.articles, label: L('artikel', 'articles', '文章') },
+  ]}
+/>
+
+<section class="container swrap" id="swrap" data-locale={locale} data-i18n={JSON.stringify(I18N)}>
+  <form class="s-form" role="search" onsubmit="return false">
+    <span class="s-ico" aria-hidden="true">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"></circle><path d="m21 21-4.3-4.3"></path></svg>
+    </span>
+    <input id="search-input" type="search" autocomplete="off" autofocus placeholder={I18N.placeholder} aria-label={t('nav.search', locale)} />
+  </form>
+
+  <p class="s-status" data-role="status">{I18N.start}</p>
+
+  <div class="pager pager-top" data-role="pager" hidden>
+    <div class="pg-size">
+      <label>{I18N.rows}
+        <select class="pg-size-sel">
+          <option>25</option><option>50</option><option>100</option>
+        </select>
+      </label>
+      <span class="pg-count"></span>
+    </div>
+    <div class="pg-nav">
+      <button class="pg-first" title="«">«</button>
+      <button class="pg-prev" title="‹">‹</button>
+      <span class="pg-of">{I18N.page} <input class="pg-no" type="number" min="1" value="1" /> / <span class="pg-total">1</span></span>
+      <button class="pg-next" title="›">›</button>
+      <button class="pg-last" title="»">»</button>
+    </div>
+  </div>
+
+  <div class="s-list" data-role="list"></div>
+
+  <div class="pager pager-bottom" data-role="pager" hidden>
+    <div class="pg-size">
+      <label>{I18N.rows}
+        <select class="pg-size-sel">
+          <option>25</option><option>50</option><option>100</option>
+        </select>
+      </label>
+      <span class="pg-count"></span>
+    </div>
+    <div class="pg-nav">
+      <button class="pg-first" title="«">«</button>
+      <button class="pg-prev" title="‹">‹</button>
+      <span class="pg-of">{I18N.page} <input class="pg-no" type="number" min="1" value="1" /> / <span class="pg-total">1</span></span>
+      <button class="pg-next" title="›">›</button>
+      <button class="pg-last" title="»">»</button>
+    </div>
+  </div>
+
+  <noscript><p class="s-status">{L('Carian memerlukan JavaScript.', 'Search requires JavaScript.', '搜索需要 JavaScript。')}</p></noscript>
 </section>
 
-<link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
-<!-- Pagefind UI is generated into /pagefind/ during `npm run build`.
-     Loaded inline so the bundler does not try to resolve the runtime asset. -->
 <script is:inline>
   (function () {
-    var el = document.getElementById('search');
-    if (!el) return;
-    var s = document.createElement('script');
-    s.src = '/pagefind/pagefind-ui.js';
-    s.onload = function () {
-      new window.PagefindUI({
-        element: '#search',
-        showSubResults: true,
-        showImages: false,
-        placeholder: el.dataset.placeholder,
+    var wrap = document.getElementById('swrap');
+    if (!wrap) return;
+    var I = JSON.parse(wrap.dataset.i18n || '{}');
+    var input = document.getElementById('search-input');
+    var listEl = wrap.querySelector('[data-role="list"]');
+    var statusEl = wrap.querySelector('[data-role="status"]');
+    var pagers = wrap.querySelectorAll('[data-role="pager"]');
+    var $$ = function (cls) { return wrap.querySelectorAll('.' + cls); };
+    var state = { q: '', page: 1, size: 25, results: [] };
+    var pf = null, pfFailed = false;
+
+    function ensurePagefind() {
+      if (pf) return Promise.resolve(pf);
+      if (pfFailed) return Promise.resolve(null);
+      return import('/pagefind/pagefind.js')
+        .then(function (m) { pf = m; if (m.init) m.init(); return m; })
+        .catch(function () { pfFailed = true; return null; });
+    }
+
+    function setPagersVisible(v) { pagers.forEach(function (p) { p.hidden = !v; }); }
+
+    function cardHtml(d) {
+      var title = (d.meta && d.meta.title) ? d.meta.title : d.url;
+      return '<a class="s-card" href="' + d.url + '">' +
+        '<p class="s-title">' + escapeText(title) + '</p>' +
+        '<p class="s-excerpt">' + (d.excerpt || '') + '</p></a>';
+    }
+    function escapeText(s) {
+      return String(s).replace(/[&<>"]/g, function (m) {
+        return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[m];
       });
-      // Prefill from ?q= (used by Explore/Latest hot-keyword links).
-      try {
-        var q = new URLSearchParams(location.search).get('q');
-        if (q) {
-          var input = el.querySelector('input');
-          if (input) {
-            input.value = q;
-            input.dispatchEvent(new Event('input', { bubbles: true }));
-          }
-        }
-      } catch (e) {}
-    };
-    s.onerror = function () {
-      el.innerHTML =
-        '<p style="color:var(--muted)">Search index is generated at build time. Run <code>npm run build</code> then <code>npm run preview</code>.</p>';
-    };
-    document.head.appendChild(s);
+    }
+
+    function updatePager(total) {
+      var pages = Math.max(1, Math.ceil(total / state.size));
+      var start = (state.page - 1) * state.size;
+      var a = total ? start + 1 : 0;
+      var b = Math.min(start + state.size, total);
+      $$('pg-count').forEach(function (el) { el.textContent = a + '–' + b + ' / ' + total; });
+      $$('pg-total').forEach(function (el) { el.textContent = pages; });
+      $$('pg-no').forEach(function (el) { el.value = state.page; el.max = pages; });
+      $$('pg-size-sel').forEach(function (el) { el.value = String(state.size); });
+      $$('pg-first').forEach(function (el) { el.disabled = state.page <= 1; });
+      $$('pg-prev').forEach(function (el) { el.disabled = state.page <= 1; });
+      $$('pg-next').forEach(function (el) { el.disabled = state.page >= pages; });
+      $$('pg-last').forEach(function (el) { el.disabled = state.page >= pages; });
+    }
+
+    function render() {
+      var total = state.results.length;
+      if (!state.q.trim()) { statusEl.hidden = false; statusEl.textContent = I.start; listEl.innerHTML = ''; setPagersVisible(false); return; }
+      if (pfFailed) { statusEl.hidden = false; statusEl.textContent = I.building; setPagersVisible(false); return; }
+      if (total === 0) { statusEl.hidden = false; statusEl.textContent = I.noResults + ' “' + state.q + '”'; listEl.innerHTML = ''; setPagersVisible(false); return; }
+      statusEl.hidden = false;
+      statusEl.textContent = total + ' ' + I.resultsFor + ' “' + state.q + '”';
+      var pages = Math.max(1, Math.ceil(total / state.size));
+      if (state.page > pages) state.page = pages;
+      var start = (state.page - 1) * state.size;
+      var slice = state.results.slice(start, start + state.size);
+      listEl.innerHTML = '<p class="s-loading">…</p>';
+      Promise.all(slice.map(function (r) { return r.data(); })).then(function (data) {
+        listEl.innerHTML = data.map(cardHtml).join('');
+      });
+      setPagersVisible(true);
+      updatePager(total);
+    }
+
+    var timer;
+    function onQuery(q) {
+      clearTimeout(timer);
+      timer = setTimeout(function () {
+        state.q = q; state.page = 1;
+        if (!q.trim()) { state.results = []; render(); return; }
+        ensurePagefind().then(function (p) {
+          if (!p) { render(); return; }
+          p.search(q).then(function (res) {
+            if (input.value !== q) return; // stale
+            state.results = res.results;
+            render();
+          });
+        });
+      }, 180);
+    }
+
+    input.addEventListener('input', function () { onQuery(input.value); });
+
+    function go(p) { var pages = Math.max(1, Math.ceil(state.results.length / state.size)); state.page = Math.max(1, Math.min(p, pages)); render(); scrollTop(); }
+    function scrollTop() { wrap.scrollIntoView({ behavior: 'smooth', block: 'start' }); }
+    function on(cls, ev, fn) { $$(cls).forEach(function (el) { el.addEventListener(ev, fn); }); }
+    on('pg-size-sel', 'change', function (e) { state.size = +e.target.value; state.page = 1; render(); });
+    on('pg-first', 'click', function () { go(1); });
+    on('pg-prev', 'click', function () { go(state.page - 1); });
+    on('pg-next', 'click', function () { go(state.page + 1); });
+    on('pg-last', 'click', function () { go(Math.ceil(state.results.length / state.size)); });
+    on('pg-no', 'change', function (e) { go(+e.target.value || 1); });
+
+    // Prefill from ?q= (Explore/hot-keyword links), else autofocus.
+    try {
+      var q0 = new URLSearchParams(location.search).get('q');
+      if (q0) { input.value = q0; onQuery(q0); }
+    } catch (e) {}
+    input.focus();
   })();
 </script>
 
 <style>
-  .search {
-    padding-block: 2.5rem;
-    min-height: 60vh;
+  .swrap { padding-block: 1.6rem 3rem; min-height: 50vh; }
+
+  .s-form { position: relative; display: flex; align-items: center; margin-bottom: 1.2rem; }
+  .s-ico { position: absolute; left: 1rem; color: var(--muted); display: grid; place-items: center; pointer-events: none; }
+  #search-input {
+    width: 100%; font: inherit; font-size: 1.05rem; padding: 0.85rem 1rem 0.85rem 2.9rem;
+    border-radius: 12px; border: 1px solid var(--line); background: var(--surface); color: var(--ink);
   }
-  .search h1 {
-    margin-bottom: 1.25rem;
+  #search-input:focus { outline: none; border-color: var(--gold); }
+
+  .s-status { color: var(--muted); font-size: 0.9rem; margin: 0 0 1.1rem; }
+  .s-loading { color: var(--muted); text-align: center; padding: 1.5rem 0; }
+
+  .s-list { display: flex; flex-direction: column; gap: 0.55rem; }
+  .s-list :global(.s-card) {
+    display: block; border: 1px solid var(--line); border-left: 3px solid color-mix(in srgb, var(--gold) 55%, var(--line));
+    border-radius: 12px; background: var(--surface); padding: 0.9rem 1.1rem; text-decoration: none; color: inherit;
+    transition: border-color 0.15s ease, background 0.15s ease;
   }
-  :global(:root) {
-    --pagefind-ui-primary: var(--gold);
-    --pagefind-ui-text: var(--ink);
-    --pagefind-ui-background: var(--surface);
-    --pagefind-ui-border: var(--line);
-    --pagefind-ui-border-radius: 10px;
-    --pagefind-ui-font: var(--font-sans);
-  }
+  .s-list :global(.s-card:hover) { border-left-color: var(--gold); background: var(--surface-2); }
+  .s-list :global(.s-title) { margin: 0 0 0.35rem; font-family: var(--font-title); font-weight: 700; font-size: 1.05rem; color: var(--ink); line-height: 1.35; }
+  .s-list :global(.s-excerpt) { margin: 0; color: var(--ink-soft); font-size: 0.9rem; line-height: 1.6; }
+  .s-list :global(.s-excerpt mark) { background: color-mix(in srgb, var(--gold) 28%, transparent); color: var(--ink); border-radius: 3px; padding: 0 0.15em; }
+
+  /* Pager — identical to the All-Articles / Changelog standard. */
+  .pager { display: flex; flex-wrap: wrap; gap: 0.8rem; justify-content: space-between; align-items: center; font-size: 0.85rem; }
+  .pager-top { margin-bottom: 1.1rem; padding-bottom: 1rem; border-bottom: 1px solid var(--line); }
+  .pager-bottom { margin-top: 1rem; padding-top: 1rem; border-top: 1px solid var(--line); }
+  .pg-size { display: flex; align-items: center; gap: 0.8rem; color: var(--muted); }
+  .pg-size select { font: inherit; margin-left: 0.3rem; padding: 0.2rem 0.4rem; border-radius: 6px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); }
+  .pg-nav { display: flex; align-items: center; gap: 0.3rem; }
+  .pg-nav button { min-width: 2rem; padding: 0.3rem 0.5rem; border-radius: 8px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); cursor: pointer; font-size: 1rem; line-height: 1; }
+  .pg-nav button:hover:not(:disabled) { border-color: var(--gold); color: var(--gold); }
+  .pg-nav button:disabled { opacity: 0.4; cursor: default; }
+  .pg-of { display: inline-flex; align-items: center; gap: 0.35rem; color: var(--muted); }
+  .pg-of input { width: 3.2rem; font: inherit; text-align: center; padding: 0.25rem; border-radius: 6px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); }
 </style>
