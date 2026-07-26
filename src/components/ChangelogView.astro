@@ -21,8 +21,8 @@ const typeLabel: Record<string, string> = {
   chore: L('Penyelenggaraan', 'Maintenance', '维护'),
 };
 
-// Flatten day-grouped commits into one row list (already newest-first), the same
-// shape the All-Articles list consumes: each row carries its own meta.
+// Flatten day-grouped commits into one row list (newest first), the same shape
+// the All-Articles list consumes: each row carries its own meta.
 const rows = c.days.flatMap((day) =>
   day.items.map((it: any) => ({
     icon: it.icon ?? '•',
@@ -37,7 +37,6 @@ const rows = c.days.flatMap((day) =>
   })),
 );
 
-// Filter chips: All + each type actually present, with counts.
 const present = Object.keys(typeLabel).filter((k) => rows.some((r) => r.type === k));
 const filters = [
   { key: '', label: L('Semua', 'All', '全部'), count: rows.length },
@@ -46,11 +45,7 @@ const filters = [
 
 const I18N = {
   contributor: L('Penyumbang', 'Contributor', '贡献者'),
-  rows: L('Baris', 'Rows', '每页'),
-  page: L('Halaman', 'Page', '页'),
-  of: L('drpd', 'of', '/'),
   none: L('Tiada rekod.', 'No entries.', '没有记录。'),
-  commit: L('komit', 'commit', '提交'),
 };
 ---
 
@@ -74,28 +69,79 @@ const I18N = {
 />
 
 <section class="container clwrap" id="clwrap">
-  <div class="controls">
-    <div class="filterbar" data-role="filters">
-      {filters.map((f) => (
-        <button type="button" class="fbtn" data-type={f.key} aria-pressed={f.key === '' ? 'true' : 'false'}>
-          {f.label} <span class="fc">{f.count}</span>
-        </button>
-      ))}
+  <div class="art-toolbar">
+    <div class="tb-line">
+      <span class="tb-label">{L('Isih', 'Sort', '排序')}</span>
+      <div class="tabs" role="tablist">
+        <button class="tab on" data-dir="desc">{L('Terkini', 'Latest', '最新')}</button>
+        <button class="tab" data-dir="asc">{L('Terlama', 'Oldest', '最早')}</button>
+      </div>
     </div>
-    <div class="pager-top">
-      <label class="rows">{I18N.rows}
-        <select data-role="size">
-          <option value="25">25</option>
-          <option value="50">50</option>
-          <option value="100">100</option>
-        </select>
-      </label>
+    <div class="tb-line">
+      <span class="tb-label">{L('Jenis', 'Type', '类型')}</span>
+      <div class="tabs">
+        {filters.map((f) => (
+          <button class={`tab${f.key === '' ? ' on' : ''}`} data-type={f.key}>
+            {f.label} <span class="tc">{f.count}</span>
+          </button>
+        ))}
+      </div>
+    </div>
+    <div class="tb-line">
+      <span class="tb-label">{L('Cari', 'Search', '搜索')}</span>
+      <input id="cl-q" type="search" placeholder={L('Cari perubahan…', 'Search changes…', '搜索变更…')} />
     </div>
   </div>
 
-  <div data-role="list" class="cl-list"></div>
+  <div class="pager pager-top">
+    <div class="pg-size">
+      <label>{L('Baris', 'Rows', '每页')}
+        <select class="pg-size-sel">
+          <option>25</option>
+          <option>50</option>
+          <option>100</option>
+        </select>
+      </label>
+      <span class="pg-count"></span>
+    </div>
+    <div class="pg-nav">
+      <button class="pg-first" title={L('Pertama', 'First', '首页')}>«</button>
+      <button class="pg-prev" title={L('Sebelum', 'Prev', '上一页')}>‹</button>
+      <span class="pg-of">
+        {L('Halaman', 'Page', '第')}
+        <input class="pg-no" type="number" min="1" value="1" />
+        / <span class="pg-total">1</span>
+      </span>
+      <button class="pg-next" title={L('Seterusnya', 'Next', '下一页')}>›</button>
+      <button class="pg-last" title={L('Akhir', 'Last', '末页')}>»</button>
+    </div>
+  </div>
 
-  <div class="pager" data-role="pager"></div>
+  <div class="cl-list" data-role="list"></div>
+
+  <div class="pager">
+    <div class="pg-size">
+      <label>{L('Baris', 'Rows', '每页')}
+        <select class="pg-size-sel">
+          <option>25</option>
+          <option>50</option>
+          <option>100</option>
+        </select>
+      </label>
+      <span class="pg-count"></span>
+    </div>
+    <div class="pg-nav">
+      <button class="pg-first" title={L('Pertama', 'First', '首页')}>«</button>
+      <button class="pg-prev" title={L('Sebelum', 'Prev', '上一页')}>‹</button>
+      <span class="pg-of">
+        {L('Halaman', 'Page', '第')}
+        <input class="pg-no" type="number" min="1" value="1" />
+        / <span class="pg-total">1</span>
+      </span>
+      <button class="pg-next" title={L('Seterusnya', 'Next', '下一页')}>›</button>
+      <button class="pg-last" title={L('Akhir', 'Last', '末页')}>»</button>
+    </div>
+  </div>
 
   <script type="application/json" data-role="rows" set:html={JSON.stringify(rows)}></script>
   <script type="application/json" data-role="i18n" set:html={JSON.stringify(I18N)}></script>
@@ -107,13 +153,23 @@ const I18N = {
     const ROWS = JSON.parse(wrap.querySelector('[data-role="rows"]')?.textContent || '[]');
     const I = JSON.parse(wrap.querySelector('[data-role="i18n"]')?.textContent || '{}');
     const listEl = wrap.querySelector('[data-role="list"]');
-    const pagerEl = wrap.querySelector('[data-role="pager"]');
-    const sizeSel = wrap.querySelector('[data-role="size"]');
-    const state = { type: '', page: 1, size: 25 };
+    const $$ = (cls) => wrap.querySelectorAll('.' + cls);
+    const onAll = (cls, ev, fn) => $$(cls).forEach((el) => el.addEventListener(ev, fn));
+    const state = { type: '', q: '', dir: 'desc', page: 1, size: 25 };
     const esc = (s) =>
       String(s).replace(/[&<>"]/g, (m) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[m]);
 
-    const filtered = () => (state.type ? ROWS.filter((r) => r.type === state.type) : ROWS);
+    const filtered = () => {
+      const q = state.q.trim().toLowerCase();
+      let out = ROWS.filter(
+        (r) =>
+          (!state.type || r.type === state.type) &&
+          (!q || (r.title + ' ' + r.author + ' ' + r.cat).toLowerCase().includes(q)),
+      );
+      // ROWS arrive newest-first; reverse for oldest.
+      if (state.dir === 'asc') out = [...out].reverse();
+      return out;
+    };
 
     const rowHtml = (r) => {
       const bits = [];
@@ -134,99 +190,109 @@ const I18N = {
 
     const render = () => {
       const data = filtered();
-      const pages = Math.max(1, Math.ceil(data.length / state.size));
+      const total = data.length;
+      const pages = Math.max(1, Math.ceil(total / state.size));
       if (state.page > pages) state.page = pages;
       const start = (state.page - 1) * state.size;
       const slice = data.slice(start, start + state.size);
       listEl.innerHTML = slice.length ? slice.map(rowHtml).join('') : `<p class="cl-empty">${esc(I.none)}</p>`;
 
-      const nav = (label, page, disabled, cls) =>
-        `<button type="button" class="pg ${cls || ''}" data-page="${page}" ${disabled ? 'disabled' : ''}>${label}</button>`;
-      pagerEl.innerHTML =
-        `<span class="pcount">${data.length ? start + 1 : 0}–${start + slice.length} ${esc(I.of)} ${data.length}</span>` +
-        `<span class="pnav">` +
-        nav('«', 1, state.page === 1) +
-        nav('‹', state.page - 1, state.page === 1) +
-        `<span class="pnum">${esc(I.page)} ${state.page} ${esc(I.of)} ${pages}</span>` +
-        nav('›', state.page + 1, state.page === pages) +
-        nav('»', pages, state.page === pages) +
-        `</span>`;
-      pagerEl.querySelectorAll('.pg').forEach((b) =>
-        b.addEventListener('click', () => {
-          state.page = Number(b.dataset.page);
-          render();
-          wrap.scrollIntoView({ behavior: 'smooth', block: 'start' });
-        }),
-      );
+      const a = total ? start + 1 : 0;
+      const b = Math.min(start + state.size, total);
+      $$('pg-count').forEach((el) => (el.textContent = `${a}–${b} / ${total}`));
+      $$('pg-total').forEach((el) => (el.textContent = pages));
+      $$('pg-no').forEach((el) => { el.value = state.page; el.max = pages; });
+      $$('pg-size-sel').forEach((el) => (el.value = String(state.size)));
+      [...$$('pg-first'), ...$$('pg-prev')].forEach((el) => (el.disabled = state.page <= 1));
+      [...$$('pg-next'), ...$$('pg-last')].forEach((el) => (el.disabled = state.page >= pages));
     };
 
-    wrap.querySelectorAll('[data-role="filters"] .fbtn').forEach((b) =>
-      b.addEventListener('click', () => {
-        state.type = b.dataset.type;
+    const go = (p) => { state.page = Math.max(1, Math.min(p, Math.ceil(filtered().length / state.size) || 1)); render(); };
+
+    // Sort tabs
+    wrap.querySelectorAll('[data-dir]').forEach((btn) =>
+      btn.addEventListener('click', () => {
+        state.dir = btn.dataset.dir;
         state.page = 1;
-        wrap.querySelectorAll('[data-role="filters"] .fbtn').forEach((x) =>
-          x.setAttribute('aria-pressed', String(x === b)),
-        );
+        wrap.querySelectorAll('[data-dir]').forEach((x) => x.classList.toggle('on', x === btn));
         render();
       }),
     );
-    sizeSel?.addEventListener('change', () => {
-      state.size = Number(sizeSel.value);
-      state.page = 1;
-      render();
-    });
+    // Type tabs
+    wrap.querySelectorAll('[data-type]').forEach((btn) =>
+      btn.addEventListener('click', () => {
+        state.type = btn.dataset.type;
+        state.page = 1;
+        wrap.querySelectorAll('[data-type]').forEach((x) => x.classList.toggle('on', x === btn));
+        render();
+      }),
+    );
+    // Search
+    const qEl = document.getElementById('cl-q');
+    qEl?.addEventListener('input', () => { state.q = qEl.value; state.page = 1; render(); });
+    // Pager
+    onAll('pg-size-sel', 'change', (e) => { state.size = +e.target.value; state.page = 1; render(); });
+    onAll('pg-first', 'click', () => go(1));
+    onAll('pg-prev', 'click', () => go(state.page - 1));
+    onAll('pg-next', 'click', () => go(state.page + 1));
+    onAll('pg-last', 'click', () => go(Math.ceil(filtered().length / state.size)));
+    onAll('pg-no', 'change', (e) => go(+e.target.value || 1));
+
     render();
   }
 </script>
 
 <style>
   .clwrap { padding-block: 1.6rem 3rem; }
-  .controls { display: flex; flex-wrap: wrap; gap: 1rem; justify-content: space-between; align-items: center; margin-bottom: 1.1rem; }
-  .filterbar { display: flex; flex-wrap: wrap; gap: 0.4rem; }
-  .fbtn {
-    font: inherit; font-size: 0.82rem; font-weight: 600; cursor: pointer;
-    border: 1px solid var(--line); background: var(--surface); color: var(--ink-soft);
-    border-radius: 999px; padding: 0.35rem 0.85rem;
-  }
-  .fbtn .fc { color: var(--muted); font-variant-numeric: tabular-nums; }
-  .fbtn[aria-pressed='true'] { background: var(--gold); color: #000; border-color: var(--gold); }
-  .fbtn[aria-pressed='true'] .fc { color: rgba(0, 0, 0, 0.6); }
-  .rows { font-size: 0.82rem; color: var(--muted); display: inline-flex; align-items: center; gap: 0.4rem; }
-  .rows select { font: inherit; background: var(--surface); color: var(--ink); border: 1px solid var(--line); border-radius: 8px; padding: 0.3rem 0.5rem; }
 
-  .cl-list { display: grid; gap: 0.55rem; }
-  .cl-row {
+  /* Toolbar — identical to the All-Articles page. */
+  .art-toolbar { display: flex; flex-direction: column; gap: 1.1rem; margin-bottom: 1.6rem; padding-bottom: 1.3rem; border-bottom: 1px solid var(--line); }
+  .tb-line { display: flex; align-items: center; gap: 1rem; flex-wrap: wrap; }
+  .tb-label { flex: none; min-width: 3.5rem; font-size: 0.68rem; font-weight: 800; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); }
+  .tabs { display: flex; gap: 0.4rem; flex-wrap: wrap; }
+  .tab { font-size: 0.82rem; font-weight: 700; padding: 0.4rem 0.8rem; border-radius: 999px; border: 1px solid var(--line); background: var(--surface); color: var(--ink-soft); cursor: pointer; }
+  .tab:hover { border-color: color-mix(in srgb, var(--gold) 45%, var(--line)); }
+  .tab.on { color: #000; background: var(--gold); border-color: var(--gold); }
+  .tab .tc { color: var(--muted); font-variant-numeric: tabular-nums; }
+  .tab.on .tc { color: rgba(0, 0, 0, 0.6); }
+  .tb-line input[type='search'] { font: inherit; font-size: 0.85rem; padding: 0.45rem 0.7rem; border-radius: 8px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); min-width: min(26rem, 100%); flex: 1; max-width: 30rem; }
+  .tb-line input[type='search']:focus { outline: none; border-color: var(--gold); }
+
+  /* Pager — identical to the All-Articles page. */
+  .pager { display: flex; flex-wrap: wrap; gap: 0.8rem; justify-content: space-between; align-items: center; margin-top: 1rem; font-size: 0.85rem; }
+  .pager-top { margin-top: 0; margin-bottom: 1.1rem; padding-bottom: 1rem; border-bottom: 1px solid var(--line); }
+  .pager:not(.pager-top) { padding-top: 1rem; border-top: 1px solid var(--line); }
+  .pg-size { display: flex; align-items: center; gap: 0.8rem; color: var(--muted); }
+  .pg-size select { font: inherit; margin-left: 0.3rem; padding: 0.2rem 0.4rem; border-radius: 6px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); }
+  .pg-nav { display: flex; align-items: center; gap: 0.3rem; }
+  .pg-nav button { min-width: 2rem; padding: 0.3rem 0.5rem; border-radius: 8px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); cursor: pointer; font-size: 1rem; line-height: 1; }
+  .pg-nav button:hover:not(:disabled) { border-color: var(--gold); color: var(--gold); }
+  .pg-nav button:disabled { opacity: 0.4; cursor: default; }
+  .pg-of { display: inline-flex; align-items: center; gap: 0.35rem; color: var(--muted); }
+  .pg-of input { width: 3.2rem; font: inherit; text-align: center; padding: 0.25rem; border-radius: 6px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); }
+
+  /* Rows are injected client-side, so anchor every rule on the server-rendered
+     .cl-list container and mark the injected descendants :global — otherwise the
+     scoped selectors never match and the chips render as unstyled text. */
+  .cl-list { display: flex; flex-direction: column; gap: 0.55rem; }
+  .cl-list :global(.cl-row) {
     display: grid; grid-template-columns: auto 1fr; gap: 0.8rem; align-items: start;
-    border: 1px solid var(--line); border-left: 3px solid var(--gold);
-    border-radius: 10px; background: var(--surface); padding: 0.8rem 1rem;
+    border: 1px solid var(--line); border-left: 3px solid color-mix(in srgb, var(--gold) 55%, var(--line));
+    border-radius: 12px; background: var(--surface); padding: 0.9rem 1.1rem;
+    transition: border-color 0.15s ease, background 0.15s ease;
   }
-  .cl-ico { font-size: 1.1rem; line-height: 1.4; }
-  .cl-title { margin: 0 0 0.5rem; font-weight: 600; color: var(--ink); line-height: 1.4; }
-  .cl-meta { display: flex; flex-wrap: wrap; gap: 0.4rem; }
-  .cl-meta :global(.chip) {
-    font-size: 0.74rem; border: 1px solid var(--line); border-radius: 999px;
-    padding: 0.1rem 0.55rem; color: var(--ink-soft); white-space: nowrap;
-  }
-  .cl-meta :global(.chip.dim) { color: var(--muted); }
-  .cl-meta :global(.chip.sha) { font-family: monospace; color: var(--gold); text-decoration: none; }
-  .cl-meta :global(.chip.sha:hover) { border-color: var(--gold); }
-  .cl-meta :global(.chip.type) { font-weight: 700; }
-  .cl-meta :global(.chip.type[data-t='content']) { color: #4ade80; border-color: color-mix(in srgb, #4ade80 40%, var(--line)); }
-  .cl-meta :global(.chip.type[data-t='translate']) { color: #60a5fa; border-color: color-mix(in srgb, #60a5fa 40%, var(--line)); }
-  .cl-meta :global(.chip.type[data-t='feature']) { color: var(--gold); border-color: color-mix(in srgb, var(--gold) 40%, var(--line)); }
-  .cl-meta :global(.chip.type[data-t='fix']) { color: #fb7185; border-color: color-mix(in srgb, #fb7185 40%, var(--line)); }
-  .cl-empty { color: var(--muted); padding: 2rem 0; text-align: center; }
-
-  .pager { display: flex; align-items: center; justify-content: space-between; gap: 1rem; flex-wrap: wrap; margin-top: 1.2rem; }
-  .pcount { color: var(--muted); font-size: 0.82rem; font-variant-numeric: tabular-nums; }
-  .pnav { display: inline-flex; align-items: center; gap: 0.3rem; }
-  .pg {
-    font: inherit; min-width: 2rem; padding: 0.3rem 0.6rem; cursor: pointer;
-    border: 1px solid var(--line); background: var(--surface); color: var(--ink-soft); border-radius: 8px;
-  }
-  .pg:hover:not([disabled]) { border-color: var(--gold); color: var(--gold); }
-  .pg[disabled] { opacity: 0.4; cursor: default; }
-  .pnum { font-size: 0.82rem; color: var(--muted); padding: 0 0.5rem; }
-
-  @media (max-width: 600px) { .controls { flex-direction: column; align-items: stretch; } }
+  .cl-list :global(.cl-row:hover) { border-left-color: var(--gold); background: var(--surface-2); }
+  .cl-list :global(.cl-ico) { font-size: 1.1rem; line-height: 1.4; }
+  .cl-list :global(.cl-title) { margin: 0 0 0.5rem; font-family: var(--font-title); font-weight: 700; font-size: 1rem; color: var(--ink); line-height: 1.4; }
+  .cl-list :global(.cl-meta) { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+  .cl-list :global(.chip) { font-size: 0.74rem; border: 1px solid var(--line); border-radius: 999px; padding: 0.1rem 0.55rem; color: var(--ink-soft); white-space: nowrap; }
+  .cl-list :global(.chip.dim) { color: var(--muted); }
+  .cl-list :global(.chip.sha) { font-family: monospace; color: var(--gold); text-decoration: none; }
+  .cl-list :global(.chip.sha:hover) { border-color: var(--gold); }
+  .cl-list :global(.chip.type) { font-weight: 700; }
+  .cl-list :global(.chip.type[data-t='content']) { color: #4ade80; border-color: color-mix(in srgb, #4ade80 40%, var(--line)); }
+  .cl-list :global(.chip.type[data-t='translate']) { color: #60a5fa; border-color: color-mix(in srgb, #60a5fa 40%, var(--line)); }
+  .cl-list :global(.chip.type[data-t='feature']) { color: var(--gold); border-color: color-mix(in srgb, var(--gold) 40%, var(--line)); }
+  .cl-list :global(.chip.type[data-t='fix']) { color: #fb7185; border-color: color-mix(in srgb, #fb7185 40%, var(--line)); }
+  .cl-list :global(.cl-empty) { color: var(--muted); padding: 2rem 0; text-align: center; }
 </style>
