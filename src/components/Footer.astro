@@ -65,7 +65,7 @@ const cols = [
   </div>
 
   <div class="container legal">
-    <p>© {year} NegaraKu.md · {t('footer.license', locale)}</p>
+    <p>© {year} <span class="wm">NegaraKu<span class="dot">.md</span></span> · {t('footer.license', locale)}</p>
   </div>
 </footer>
 
@@ -80,8 +80,12 @@ const cols = [
     display: grid; grid-template-columns: 1.6fr repeat(3, 1fr); gap: 1.5rem 2rem;
     padding-bottom: 2rem;
   }
-  .name { font-family: var(--font-title); font-weight: 900; font-size: 1.3rem; margin: 0; letter-spacing: -0.02em; }
+  /* Match the header/title wordmark exactly: same font, weight, size and colour. */
+  .name { font-family: var(--font-title); font-weight: 700; font-size: 1.2rem; margin: 0; color: var(--ink); }
   .name .dot { color: var(--gold); }
+  /* Copyright wordmark follows the brand standard: NegaraKu in ink, .md in gold. */
+  .legal .wm { color: var(--ink); font-weight: 700; }
+  .legal .dot { color: var(--gold); }
   .tagline { color: var(--muted); margin: 0.4rem 0 0; font-size: 0.9rem; max-width: 34ch; }
   .sponsor { margin: 0.7rem 0 0; font-size: 0.9rem; color: var(--ink-soft); }
   .sponsor a { color: var(--gold); font-weight: 700; text-decoration: none; }

@@ -6,7 +6,6 @@ import { type Article, relatedArticles, readingTime, articlesForLocale } from '@
 import { localePath } from '@/lib/i18n';
 import { REPO } from '@/lib/site';
 import { subcatLabel } from '@/lib/subcategories';
-import { resolveSponsor } from '@/lib/sponsors';
 import TrustBadge from './TrustBadge.astro';
 import FeedbackBar from './FeedbackBar.astro';
 import { readFileSync } from 'node:fs';
@@ -50,9 +49,6 @@ const sensitive = d.sensitivity !== 'none';
 // A sensitive article that is already live gets a calmer, accurate notice — not
 // the "requires review before publication" warning, which only fits pre-live states.
 const sensitiveLive = sensitive && (d.status === 'published' || d.status === 'reviewed');
-// Sponsorship is data (src/lib/sponsors.ts): explicit article sponsor wins, else
-// the pillar default. Sensitive content is never sponsored.
-const sponsor = resolveSponsor(d.sponsor, pillar, sensitive);
 
 // Visitor buckets for this article, summarised (per-bot detail → hover title).
 const views = analytics[`${d.category}/${d.slug}`] ?? null;
@@ -305,29 +301,6 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
         )
       }
 
-      {
-        /* Sits at the end of the *content* — after the body and FAQ, before Layer 3.
-           Layer 3 (sources, verification flags, revision log) is trust apparatus rather
-           than reading, and "Related knowledge" further down is a navigation block that
-           readers click away from, so anything below it is effectively unseen. Kept
-           visually separate per the editorial standard, and suppressed entirely on
-           sensitive content. */
-        sponsor && (
-          <aside class="cta">
-            <header><span class="sec-h"><span class="ico" set:html={ICON.sponsored} />{L('Ditaja', 'Sponsored', '赞助')}</span></header>
-            <div class="cta-body">
-              <b>{sponsor.heading[locale]}</b>
-              <p>
-                <span class="oneco brand">{sponsor.name}</span>
-                {sponsor.blurb[locale]}
-              </p>
-              <a class="go" href={sponsor.url} rel="noopener sponsored">
-                {sponsor.cta[locale]} →
-              </a>
-            </div>
-          </aside>
-        )
-      }
 
       <section class="layer">
         <header>
