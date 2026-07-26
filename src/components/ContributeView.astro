@@ -1,18 +1,44 @@
 ---
 import type { Locale } from '@/lib/categories';
 import { CATEGORIES } from '@/lib/categories';
+import { getDashboard } from '@/lib/apidata';
+import { localePath } from '@/lib/i18n';
 import { REPO, CONTACT_FORM_ENDPOINT } from '@/lib/site';
+import PageHero from './PageHero.astro';
 
 interface Props {
   locale: Locale;
 }
 const { locale } = Astro.props;
 const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const d = getDashboard();
 
+// Three ways in, ordered from lowest to highest effort. Each is a numbered step
+// card so a first-time contributor can see the whole menu at a glance.
 const methods = [
-  { icon: '📝', title: L('Isi borang', 'Fill the form', '填写表单'), desc: L('Tiada akaun diperlukan. Hantar pengetahuan anda di bawah.', 'No account needed. Submit your knowledge below.', '无需账户。在下方提交你的知识。') },
-  { icon: '🔀', title: L('GitHub Fork & PR', 'GitHub Fork & PR', 'GitHub 复刻与 PR'), desc: L('Tambah fail Markdown dan buka pull request.', 'Add a Markdown file and open a pull request.', '添加 Markdown 文件并提交 pull request。') },
-  { icon: '🤖', title: L('Dipandu AI', 'AI-guided', 'AI 引导'), desc: L('Tampal gesaan di bawah ke dalam ChatGPT / Claude.', 'Paste the prompt below into ChatGPT / Claude.', '将下方提示词粘贴到 ChatGPT / Claude。') },
+  {
+    icon: '📝',
+    title: L('Isi borang', 'Fill the form', '填写表单'),
+    desc: L('Tiada akaun diperlukan. Isi borang di bawah — ia membuka isu GitHub yang telah diisi untuk anda semak dan hantar.', 'No account needed. Fill the form below — it opens a pre-filled GitHub issue for you to review and submit.', '无需账户。填写下方表单——它会为你打开一个预填的 GitHub issue，供你查看并提交。'),
+  },
+  {
+    icon: '🔀',
+    title: L('Fork & Pull Request', 'Fork & Pull Request', '复刻与 Pull Request'),
+    desc: L('Untuk penyumbang teknikal: tambah fail Markdown mengikut skema dan buka pull request di GitHub.', 'For technical contributors: add a Markdown file following the schema and open a pull request on GitHub.', '面向技术贡献者：按规范添加 Markdown 文件，并在 GitHub 上发起 pull request。'),
+  },
+  {
+    icon: '🤖',
+    title: L('Dipandu AI', 'AI-guided', 'AI 引导'),
+    desc: L('Tampal gesaan di sebelah ke dalam ChatGPT / Claude untuk merangka artikel yang mematuhi piawai kami.', 'Paste the prompt on the right into ChatGPT / Claude to draft an article that follows our standard.', '将右侧提示词粘贴到 ChatGPT / Claude，起草符合我们标准的文章。'),
+  },
+];
+
+// The lifecycle a submission actually travels — reflects the GitHub workflow.
+const flow = [
+  L('Hantar', 'Submit', '提交'),
+  L('Isu GitHub', 'GitHub issue', 'GitHub issue'),
+  L('Semakan', 'Review', '审阅'),
+  L('Terbit dalam 3 bahasa', 'Publish in 3 languages', '以三语发布'),
 ];
 
 const aiPrompt = L(
@@ -22,52 +48,96 @@ const aiPrompt = L(
 );
 ---
 
-<section class="container prose head">
-  <h1>{L('Sumbang kepada NegaraKu.md', 'Contribute to NegaraKu.md', '为 NegaraKu.md 做贡献')}</h1>
-  <p class="lead">{L('NegaraKu.md dibina oleh komuniti. Pilih cara anda:', 'NegaraKu.md is built by the community. Choose your way:', 'NegaraKu.md 由社区共建。选择你的方式：')}</p>
-</section>
+<PageHero
+  locale={locale}
+  crumb={[
+    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
+    { label: L('Sumbang', 'Contribute', '贡献') },
+  ]}
+  title={L('Sumbang kepada NegaraKu.md', 'Contribute to NegaraKu.md', '为 NegaraKu.md 做贡献')}
+  desc={L(
+    'NegaraKu.md dibina oleh komuniti dan dijalankan di GitHub. Pilih cara masuk anda.',
+    'NegaraKu.md is built by the community and runs on GitHub. Pick your way in.',
+    'NegaraKu.md 由社区共建，运行于 GitHub。选择你的参与方式。',
+  )}
+  stats={[
+    { value: d.totals.articles, label: L('artikel', 'articles', '文章') },
+    { value: d.totals.categories, label: L('kategori', 'categories', '分类') },
+    { value: 3, label: L('bahasa', 'languages', '语言') },
+    { value: 'CC BY-SA', label: L('lesen', 'licence', '许可') },
+  ]}
+/>
 
-<section class="container">
-  <div class="methods">
-    {methods.map((m) => (
-      <div class="card">
-        <span class="mi" aria-hidden="true">{m.icon}</span>
-        <b>{m.title}</b>
-        <p>{m.desc}</p>
+<section class="container block">
+  <div class="psec">
+    <header><span>{L('Tiga cara untuk menyumbang', 'Three ways to contribute', '三种贡献方式')}</span></header>
+    <div class="psec-body">
+      <div class="methods">
+        {methods.map((m, i) => (
+          <div class="mcard">
+            <span class="mnum">{i + 1}</span>
+            <span class="mi" aria-hidden="true">{m.icon}</span>
+            <b>{m.title}</b>
+            <p>{m.desc}</p>
+          </div>
+        ))}
       </div>
-    ))}
+      <div class="flow" aria-label={L('Aliran sumbangan', 'Contribution flow', '贡献流程')}>
+        {flow.map((step, i) => (
+          <>
+            {i > 0 && <span class="flow-arrow" aria-hidden="true">→</span>}
+            <span class="flow-step">{step}</span>
+          </>
+        ))}
+      </div>
+    </div>
   </div>
 </section>
 
-<section class="container two">
-  <div>
-    <h2>{L('Kongsi pengetahuan anda', 'Share your knowledge', '分享你的知识')}</h2>
-    <form
-      class="cform"
-      action={CONTACT_FORM_ENDPOINT || '#'}
-      method="post"
-      data-configured={CONTACT_FORM_ENDPOINT ? 'true' : 'false'}
-      data-repo={REPO}
-    >
-      <label>{L('Topik', 'Topic', '主题')}<input name="topic" required /></label>
-      <label>{L('Kategori', 'Category', '分类')}
-        <select name="category">
-          {CATEGORIES.filter((c) => c.id !== 'about').map((c) => <option value={c.id}>{c.name[locale]}</option>)}
-        </select>
-      </label>
-      <label>{L('Pengetahuan / kandungan', 'Knowledge / content', '知识 / 内容')}<textarea name="content" rows="5" required></textarea></label>
-      <label>{L('Sumber rujukan', 'Reference source', '参考来源')}<input name="source" placeholder="https://…" /></label>
-      <label>{L('Nama (pilihan)', 'Name (optional)', '姓名（可选）')}<input name="name" /></label>
-      <button type="submit" class="btn btn-primary">{L('Hantar', 'Submit', '提交')}</button>
-      <p class="muted">{L('Penyerahan tanpa nama dibenarkan. Tanpa backprop e-mel, borang ini membuka isu GitHub yang telah diisi.', 'Anonymous submissions are allowed. With no email backend, this opens a pre-filled GitHub issue.', '允许匿名提交。由于没有邮件后端，此表单会打开一个预填的 GitHub issue。')}</p>
-    </form>
+<section class="container block two">
+  <div class="psec">
+    <header><span>{L('Kongsi pengetahuan anda', 'Share your knowledge', '分享你的知识')}</span></header>
+    <div class="psec-body">
+      <form
+        class="cform"
+        action={CONTACT_FORM_ENDPOINT || '#'}
+        method="post"
+        data-configured={CONTACT_FORM_ENDPOINT ? 'true' : 'false'}
+        data-repo={REPO}
+      >
+        <label>{L('Topik', 'Topic', '主题')}<input name="topic" required placeholder={L('cth. Cukai jualan untuk PKS', 'e.g. Sales tax for SMEs', '例如：中小企业销售税')} /></label>
+        <label>{L('Kategori', 'Category', '分类')}
+          <select name="category">
+            {CATEGORIES.filter((c) => c.id !== 'about').map((c) => <option value={c.id}>{c.name[locale]}</option>)}
+          </select>
+        </label>
+        <label>{L('Pengetahuan / kandungan', 'Knowledge / content', '知识 / 内容')}<textarea name="content" rows="5" required placeholder={L('Apa yang patut diketahui pembaca…', 'What readers should know…', '读者应该知道的内容……')}></textarea></label>
+        <label>{L('Sumber rujukan', 'Reference source', '参考来源')}<input name="source" placeholder="https://…" /></label>
+        <label>{L('Nama (pilihan)', 'Name (optional)', '姓名（可选）')}<input name="name" placeholder={L('handle GitHub anda', 'your GitHub handle', '你的 GitHub 用户名')} /></label>
+        <button type="submit" class="btn btn-primary">{L('Hantar melalui GitHub', 'Submit via GitHub', '通过 GitHub 提交')}</button>
+        <p class="muted">{L('Penyerahan tanpa nama dibenarkan. Borang ini membuka isu GitHub yang telah diisi — tiada e-mel dikumpul.', 'Anonymous submissions are allowed. This opens a pre-filled GitHub issue — no email is collected.', '允许匿名提交。此表单会打开一个预填的 GitHub issue——不收集邮箱。')}</p>
+      </form>
+    </div>
   </div>
-  <div>
-    <h2>{L('Gesaan dipandu AI', 'AI-guided prompt', 'AI 引导提示词')}</h2>
-    <pre class="prompt"><code>{aiPrompt}</code></pre>
-    <p><a class="btn btn-ghost" href={`${REPO}/blob/main/CONTRIBUTING.md`} rel="noopener">{L('Panduan sumbangan penuh', 'Full contribution guide', '完整贡献指南')}</a></p>
-    <p><a class="btn btn-ghost" href={REPO} rel="noopener">{L('Buka di GitHub', 'Open on GitHub', '在 GitHub 上打开')}</a></p>
-    <p class="muted">{L('Lihat juga garis panduan editorial untuk topik sensitif.', 'See also the editorial guidelines for sensitive topics.', '敏感话题另见编辑方针。')}</p>
+
+  <div class="side">
+    <div class="psec">
+      <header><span>{L('Gesaan dipandu AI', 'AI-guided prompt', 'AI 引导提示词')}</span></header>
+      <div class="psec-body">
+        <p class="hint">{L('Salin, tampal ke dalam AI kegemaran anda, dan tukar [TOPIK].', 'Copy, paste into your favourite AI, and swap in [TOPIC].', '复制并粘贴到你常用的 AI 中，替换 [主题]。')}</p>
+        <pre class="prompt"><code>{aiPrompt}</code></pre>
+        <button type="button" class="btn btn-ghost copy-prompt" data-prompt={aiPrompt}>{L('Salin gesaan', 'Copy prompt', '复制提示词')}</button>
+      </div>
+    </div>
+
+    <div class="psec">
+      <header><span>{L('Panduan', 'Guides', '指南')}</span></header>
+      <div class="psec-body links">
+        <a href={`${REPO}/blob/main/CONTRIBUTING.md`} rel="noopener">{L('Panduan sumbangan penuh', 'Full contribution guide', '完整贡献指南')} ↗</a>
+        <a href={REPO} rel="noopener">{L('Repositori GitHub', 'GitHub repository', 'GitHub 仓库')} ↗</a>
+        <p class="muted small">{L('Topik sensitif (kaum, agama, institusi diraja, perlembagaan) mesti bersumber, neutral, dan disemak manusia sebelum terbit.', 'Sensitive topics (race, religion, royalty, the constitution) must be sourced, neutral, and human-reviewed before publishing.', '敏感话题（种族、宗教、王室、宪法）必须注明来源、保持中立，并在发布前经人工审阅。')}</p>
+      </div>
+    </div>
   </div>
 </section>
 
@@ -97,23 +167,68 @@ const aiPrompt = L(
       window.open(url, '_blank', 'noopener');
     });
   });
+
+  // Copy-prompt button
+  document.querySelectorAll('.copy-prompt').forEach((btn) => {
+    btn.addEventListener('click', async () => {
+      try {
+        await navigator.clipboard.writeText(btn.dataset.prompt || '');
+        const prev = btn.textContent;
+        btn.textContent = '✓';
+        setTimeout(() => (btn.textContent = prev), 1400);
+      } catch {}
+    });
+  });
 </script>
 
 <style>
-  .head { padding-block: 2.5rem 0.5rem; }
-  .lead { font-size: 1.15rem; color: var(--ink-soft); }
-  .methods { display: grid; grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr)); gap: 1rem; }
+  .block { margin-top: 1.6rem; }
+  .psec { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; overflow: hidden; }
+  .psec > header {
+    padding: 0.45rem 0.95rem; font-size: 1.05rem; font-weight: 700; letter-spacing: 0.03em;
+    text-transform: uppercase; background: var(--surface-2); border-bottom: 1px solid var(--line);
+    font-family: var(--font-title);
+  }
+  .psec > header span { color: var(--gold); }
+  .psec-body { padding: 1.2rem; }
+  .hint { font-size: 0.82rem; color: var(--muted); margin: 0 0 0.8rem; }
+
+  /* Method step cards */
+  .methods { display: grid; grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); gap: 1rem; }
+  .mcard { position: relative; background: var(--surface-2); border: 1px solid var(--line); border-radius: 10px; padding: 1.1rem 1.15rem; }
+  .mnum {
+    position: absolute; top: 0.8rem; right: 0.9rem;
+    font-family: var(--font-title); font-weight: 800; font-size: 0.9rem;
+    color: var(--gold); opacity: 0.55;
+  }
   .mi { font-size: 1.6rem; }
-  .methods b { display: block; font-family: var(--font-title); margin: 0.3rem 0; }
-  .methods p { color: var(--ink-soft); font-size: 0.9rem; margin: 0; }
-  .two { display: grid; grid-template-columns: 1fr 1fr; gap: 2.5rem; margin-top: 2.5rem; padding-bottom: 3rem; }
-  .two h2 { font-size: 1.3rem; }
+  .mcard b { display: block; font-family: var(--font-title); margin: 0.4rem 0 0.35rem; color: var(--ink); }
+  .mcard p { color: var(--ink-soft); font-size: 0.9rem; margin: 0; line-height: 1.6; }
+
+  /* Contribution flow strip */
+  .flow { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem 0.6rem; margin-top: 1.2rem; padding-top: 1rem; border-top: 1px dashed var(--line); }
+  .flow-step { font-size: 0.82rem; font-weight: 700; color: var(--ink-soft); background: var(--surface-2); border: 1px solid var(--line); border-radius: 999px; padding: 0.25rem 0.75rem; }
+  .flow-arrow { color: var(--gold); font-weight: 800; }
+
+  /* Two-column: form + sidebar */
+  .two { display: grid; grid-template-columns: 1.3fr 1fr; gap: 1.6rem; align-items: start; padding-bottom: 3rem; }
+  .side { display: grid; gap: 1.6rem; }
+
   .cform { display: grid; gap: 0.9rem; }
   .cform label { display: grid; gap: 0.3rem; font-size: 0.85rem; font-weight: 600; color: var(--ink-soft); }
-  .cform input, .cform select, .cform textarea { padding: 0.6rem 0.8rem; border-radius: 8px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); font: inherit; font-weight: 400; }
+  .cform input, .cform select, .cform textarea {
+    padding: 0.6rem 0.8rem; border-radius: 8px; border: 1px solid var(--line);
+    background: var(--surface-2); color: var(--ink); font: inherit; font-weight: 400;
+  }
+  .cform input:focus, .cform select:focus, .cform textarea:focus { outline: none; border-color: var(--gold); }
   .cform button { justify-self: start; }
-  .prompt { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 1rem; white-space: pre-wrap; }
-  .muted { color: var(--muted); font-size: 0.88rem; }
-  .two .btn { margin: 0.3rem 0.5rem 0.3rem 0; }
+  .muted { color: var(--muted); font-size: 0.85rem; }
+  .muted.small { font-size: 0.8rem; line-height: 1.55; margin: 0.8rem 0 0; }
+
+  .prompt { background: var(--surface-2); border: 1px solid var(--line); border-radius: 10px; padding: 1rem; white-space: pre-wrap; font-size: 0.85rem; line-height: 1.6; margin: 0 0 0.8rem; }
+  .links { display: grid; gap: 0.6rem; }
+  .links a { color: var(--gold); text-decoration: none; font-weight: 600; font-size: 0.9rem; }
+  .links a:hover { text-decoration: underline; }
+
   @media (max-width: 800px) { .two { grid-template-columns: 1fr; gap: 1.5rem; } }
 </style>
