@@ -115,7 +115,7 @@ Malaysia dipisahkan oleh Laut China Selatan kepada Semenanjung Malaysia dan nege
 
 Semenanjung Malaysia didominasi oleh Banjaran Titiwangsa (Banjaran Utama), membentang lebih kurang 500km utara–selatan dari sempadan Thai — kawasan tinggi dan lebih sejuk yang menjadi tuan rumah kepada spesies montane yang tidak ditemui di mana-mana pun di kawasan tanah rendah.
 
-Borneo adalah tempat angka paling ekstrem negara ini tertumpu. Gunung Kinabalu di Sabah menjulang setinggi 4,095m, puncak tertinggi di Asia Tenggara di luar kaki bukit Himalaya, mencipta koridor menegak habitat dari hutan hujan tanah rendah hingga tumbuhan renek alpin dalam satu gunung sahaja. Sarawak memegang anggaran 70% hutan paya gambut Malaysia, dan Sabah memegang bahagian terbesar hutan bakau negara — 333,019 hektar daripada jumlah kebangsaan 544,032 hektar yang direkodkan oleh MyBIS.
+Borneo adalah tempat angka paling ekstrem negara ini tertumpu. Gunung Kinabalu di Sabah menjulang setinggi 4,095m, puncak tertinggi antara Himalaya dan New Guinea, mencipta koridor menegak habitat dari hutan hujan tanah rendah hingga tumbuhan renek alpin dalam satu gunung sahaja. Sarawak memegang anggaran 70% hutan paya gambut Malaysia, dan Sabah memegang bahagian terbesar hutan bakau negara — 333,019 hektar daripada jumlah kebangsaan 544,032 hektar yang direkodkan oleh MyBIS.
 
 ## Kesilapan biasa
 

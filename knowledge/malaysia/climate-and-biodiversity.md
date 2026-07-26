@@ -114,7 +114,7 @@ Malaysia is split by the South China Sea into Peninsular Malaysia and the states
 
 Peninsular Malaysia is dominated by the Titiwangsa mountain range (the Main Range), running roughly 500km north–south from the Thai border — high, cooler terrain that hosts montane species found nowhere in the lowlands.
 
-Borneo is where the country's most extreme numbers concentrate. Mount Kinabalu in Sabah rises to 4,095m, the highest peak in Southeast Asia outside the Himalayan foothills, creating a vertical corridor of habitats from lowland rainforest to alpine scrub in a single mountain. Sarawak holds an estimated 70% of Malaysia's peat swamp forest, and Sabah accounts for the largest share of the country's mangrove forest — 333,019 hectares of the national total of 544,032 hectares recorded by MyBIS.
+Borneo is where the country's most extreme numbers concentrate. Mount Kinabalu in Sabah rises to 4,095m, the highest peak anywhere between the Himalayas and New Guinea, creating a vertical corridor of habitats from lowland rainforest to alpine scrub in a single mountain. Sarawak holds an estimated 70% of Malaysia's peat swamp forest, and Sabah accounts for the largest share of the country's mangrove forest — 333,019 hectares of the national total of 544,032 hectares recorded by MyBIS.
 
 ## Common mistakes
 
