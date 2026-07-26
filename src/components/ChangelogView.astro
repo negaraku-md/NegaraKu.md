@@ -44,7 +44,11 @@ const filters = [
 ];
 
 const I18N = {
+  type: L('Jenis', 'Type', '类型'),
+  category: L('Kategori', 'Category', '分类'),
   contributor: L('Penyumbang', 'Contributor', '贡献者'),
+  date: L('Tarikh', 'Date', '日期'),
+  commit: L('Komit', 'Commit', '提交'),
   none: L('Tiada rekod.', 'No entries.', '没有记录。'),
 };
 ---
@@ -173,12 +177,12 @@ const I18N = {
 
     const rowHtml = (r) => {
       const bits = [];
-      if (r.typeLabel) bits.push(`<span class="chip type" data-t="${esc(r.type)}">${esc(r.typeLabel)}</span>`);
-      if (r.cat) bits.push(`<span class="chip">${esc(r.cat)}</span>`);
+      if (r.typeLabel) bits.push(`<span class="chip type" data-t="${esc(r.type)}">${esc(I.type)}: ${esc(r.typeLabel)}</span>`);
+      if (r.cat) bits.push(`<span class="chip">${esc(I.category)}: ${esc(r.cat)}</span>`);
       if (r.author) bits.push(`<span class="chip">${esc(I.contributor)}: ${esc(r.author)}</span>`);
-      if (r.date) bits.push(`<span class="chip dim">${esc(r.date)}</span>`);
+      if (r.date) bits.push(`<span class="chip dim">${esc(I.date)}: ${esc(r.date)}</span>`);
       if (r.hash)
-        bits.push(`<a class="chip sha" href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.hash)}</a>`);
+        bits.push(`<a class="chip sha" href="${esc(r.url)}" target="_blank" rel="noopener">${esc(I.commit)}: ${esc(r.hash)}</a>`);
       return `<div class="cl-row">
           <span class="cl-ico" aria-hidden="true">${esc(r.icon)}</span>
           <div class="cl-main">

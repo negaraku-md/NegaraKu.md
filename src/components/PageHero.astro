@@ -19,10 +19,11 @@ interface Props {
 }
 const { crumb, title, desc, stats } = Astro.props;
 
-// Brand consistency: wherever the "NegaraKu.md" wordmark appears in a hero title,
-// render the ".md" in gold to match the header/footer/home wordmark.
+// Brand consistency: wherever the "NegaraKu.md" wordmark appears in a hero title
+// OR description, render the ".md" in gold to match the header/footer/home wordmark.
 const WM = 'NegaraKu.md';
 const wmIdx = title.indexOf(WM);
+const descIdx = desc ? desc.indexOf(WM) : -1;
 ---
 
 <header class="page-hero">
@@ -49,7 +50,19 @@ const wmIdx = title.indexOf(WM);
           </>
         )}
       </h1>
-      {desc && <p class="pitch">{desc}</p>}
+      {desc && (
+        <p class="pitch">
+          {descIdx === -1 ? (
+            desc
+          ) : (
+            <>
+              {desc.slice(0, descIdx)}
+              <span class="wm">NegaraKu<span class="wm-dot">.md</span></span>
+              {desc.slice(descIdx + WM.length)}
+            </>
+          )}
+        </p>
+      )}
     </div>
     {
       stats && stats.length > 0 && (
@@ -91,7 +104,9 @@ const wmIdx = title.indexOf(WM);
     font-size: clamp(2.4rem, 5.5vw, 3.6rem); line-height: 1.03; margin: 0 0 0.9rem; color: var(--ink);
   }
   .pitch { color: var(--ink-soft); font-size: 1.1rem; line-height: 1.6; max-width: 52ch; margin: 0; }
-  .wm { white-space: nowrap; }
+  /* The wordmark stays bright even inside the muted description: NegaraKu in
+     bright ink, .md in gold — the brand standard. */
+  .wm { white-space: nowrap; color: var(--ink); font-weight: 700; }
   .wm-dot { color: var(--gold); }
 
   .stats { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem; margin: 0; }
