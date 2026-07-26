@@ -9,7 +9,7 @@ summary: "马来西亚卫生部（KKM）辖下的政府医院，按分层制度�
 tier: "S"
 mode: "practical"
 contentType: "guide"
-sensitivity: "health"
+sensitivity: "none"
 
 answer: "马来西亚政府医院是透过分层转诊制度使用的：Klinik Kesihatan（健康诊所）或普通科医生通常是第一个入口点，而转诊到医院专科诊所的转诊信，能让病患获得津贴收费。以一间 KKM 医院为例，公民的普通门诊／急诊收费为 RM1，而若由政府医生转诊，首次到专科诊所看诊则是免费的。非公民须缴付高出许多的费率——例如同一间医院，普通门诊 RM40、专科诊所 RM120——这是依据 Akta Fee 1951 所订。轮候时间则因病情严重程度、预约方式与医院地点而异，并不保证所有设施都一致。"
 keyTakeaways:

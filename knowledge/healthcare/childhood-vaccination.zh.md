@@ -9,7 +9,7 @@ summary: "马来西亚卫生部（Kementerian Kesihatan Malaysia，KKM）辖下�
 tier: "S"
 mode: "practical"
 contentType: "guide"
-sensitivity: "health"
+sensitivity: "none"
 
 answer: "国家免疫接种计划（Program Imunisasi Kebangsaan，PIK）是马来西亚卫生部（Kementerian Kesihatan Malaysia，KKM）辖下的政府儿童疫苗接种计划，按照KKM订定的国家免疫接种时间表，在政府健康诊所（Klinik Kesihatan）免费提供给每一名婴儿与儿童。该计划自1950年代初已经存在，如今保护马来西亚儿童免受13种主要传染病侵害。每一次接种都会记录在婴幼儿健康记录册中，该记录册在马来西亚出生的每名婴儿都会获免费发放，且必须在每次诊所或医院就诊时携带。由于时间表会不时经KKM检讨与更新，家长应直接向健康诊所或KKM官方网站查询最新时间表，而非依赖网络上流传的旧图表。"
 keyTakeaways:

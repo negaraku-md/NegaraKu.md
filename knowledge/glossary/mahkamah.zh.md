@@ -9,7 +9,7 @@ summary: "Mahkamah（法院）是马来西亚审理及裁决案件的司法机�
 tier: "S"
 mode: "practical"
 contentType: "glossary"
-sensitivity: "religion"
+sensitivity: "none"
 
 answer: "Mahkamah（法院）是依法审理及裁决争议的司法机构的统称。在马来西亚，民事法院（联邦）体系有五个由低至高的审级：推事庭（Magistrates' Court）、地庭（Sessions Court）、两个地位相等的高庭（马来亚高庭，与沙巴和砂拉越高庭）、上诉庭（Court of Appeal），以及作为最高法院的联邦法院（Federal Court）。与此分离的沙里亚法庭——由各州分别设立——其管辖权仅限于穆斯林及特定事项。"
 keyTakeaways:

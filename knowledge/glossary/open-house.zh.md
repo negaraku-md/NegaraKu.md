@@ -8,7 +8,7 @@ summary: "开放门户（Rumah Terbuka）是在佳节期间，邀请各族各教
 tier: "S"
 mode: "narrative"
 contentType: "guide"
-sensitivity: "race"
+sensitivity: "none"
 
 answer: "开放门户是马来西亚的一种社会习俗：主人敞开家门，欢迎远比家人更广泛的宾客——邻居、同事以及来自其他族群与宗教的公众，都会在佳节期间获邀前来共享美食。这项习俗源自开斋节的走访拜年，但如今同样的模式也见于农历新年、屠妖节、圣诞节、丰收节（Gawai）与卡阿玛丹节（Kaamatan）。联邦政府也会举办大型开放门户活动——例如首相在各州出席的「Rumah Terbuka Malaysia Madani」——作为国家团结的官方活动。"
 keyTakeaways:

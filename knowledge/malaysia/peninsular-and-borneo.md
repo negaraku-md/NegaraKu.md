@@ -6,7 +6,7 @@ category: "malaysia"
 subcategory: ["country-basics"]
 summary: "Malaysia is split across roughly 600 km of the South China Sea into Peninsular Malaysia and the Borneo states of Sabah and Sarawak — and the gap is not just geographic. A citizen crossing it still clears an immigration counter, and Sabah and Sarawak run their own land law, their own immigration control and, often, their own election calendar."
 
-tier: "2"
+tier: "S"
 mode: "practical"
 contentType: "guide"
 
@@ -35,7 +35,7 @@ revisions:
     change: "Initial draft. Area and distance figures verified against the Sarawak state government's official portal and the Civil Aviation Authority of Malaysia's Profile of East Malaysia; the immigration pass/permit requirement verified against the Immigration Department of Malaysia's Section 66 exemption-endorsement page; the 1982 time-zone unification verified against the Malaysian Standard Time Act 1981 (Act 261) on the Attorney General's Chambers legislation portal; land-law references verified against the Sabah Attorney General's Chambers and Sarawak LawNet legislation portals."
     contributor: null
     reviewer: null
-sensitivity: "none"
+sensitivity: "constitution"
 
 updated: 2026-07-24
 sources:

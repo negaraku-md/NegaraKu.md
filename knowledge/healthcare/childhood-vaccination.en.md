@@ -9,7 +9,7 @@ summary: "How the National Immunisation Programme (NIP) under the Ministry of He
 tier: "S"
 mode: "practical"
 contentType: "guide"
-sensitivity: "health"
+sensitivity: "none"
 
 answer: "The National Immunisation Programme (NIP) is the Malaysian government's childhood vaccination programme under the Ministry of Health Malaysia (KKM), provided free to every infant and child at government health clinics (Klinik Kesihatan) according to the National Immunisation Schedule set by KKM. The programme has existed since the early 1950s and now protects children from 13 major infectious diseases. Every vaccination is recorded in the Infant and Child Health Record Book, which is issued free to every baby born in Malaysia, and this book must be brought to every clinic or hospital visit. Because the schedule is reviewed and updated from time to time by KKM, parents are encouraged to check the current schedule directly at a health clinic or KKM's official website, rather than relying on an old chart circulating on the internet."
 keyTakeaways:

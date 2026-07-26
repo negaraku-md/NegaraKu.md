@@ -9,7 +9,7 @@ summary: "Mak Yong is a traditional Malay dance theatre centred in Kelantan that
 tier: "S"
 mode: "narrative"
 contentType: "guide"
-sensitivity: "religion"
+sensitivity: "none"
 answer: "Mak Yong is a traditional Malay dance theatre form centred in Kelantan, combining acting, dance, singing, instrumental music and comedy in a single performance that can run over several nights. Its accompaniment is built around a three-stringed rebab, a pair of gendang and a tetawak, and most characters are played by women. UNESCO proclaimed it a Masterpiece in 2005, and it was inscribed on the Representative List of the Intangible Cultural Heritage of Humanity on 4 November 2008."
 keyTakeaways:
   - "Mak Yong combines dance, music, drama, singing, ritual and comedy in a single performance form"

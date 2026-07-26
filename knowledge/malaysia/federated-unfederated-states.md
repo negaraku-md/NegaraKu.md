@@ -46,7 +46,7 @@ revisions:
     date: "2026-07-24"
     change: "First draft. State groupings, the Pangkor Treaty (20 January 1874), the Federated Malay States formation, the Anglo-Siamese Treaty (ratified 9 July 1909) and Johor's General Adviser (1885 treaty; 1910 appointment of D.G. Campbell) checked against Arkib Negara Malaysia (Pustaka Ilmu), Perpustakaan Negara Malaysia, the Johor Sultanate's official coronation portal, and UK Hansard. The exact 1896 commencement of the Federated Malay States is described in relation to Swettenham's 1895 proposal, which is what the Arkib source dates; the four Unfederated northern states are named per the Straits Settlements sibling article's vetting of the same official sources. Unreviewed AI draft."
     reviewer: null
-sensitivity: "royalty"
+sensitivity: "none"
 updated: 2026-07-24
 sources:
   - title: "Usul Pembentukan Negeri-Negeri Melayu Bersekutu"

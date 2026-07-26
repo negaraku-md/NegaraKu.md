@@ -33,7 +33,7 @@ revisions:
     date: "2026-07-24"
     change: "Initial draft. The 2026 date (31 May) and substitute holiday (2 June) are taken from the National Security Council (MKN) public-holiday announcement and the Department of Labour Peninsular Malaysia (JTKSM) media statement. Dates for 2026–2028 cross-checked against PublicHolidays.com.my. Historical account of the 1962 declaration and Buddhist Maha Vihara origins attributed to the published interview with the Chief High Priest. Written strictly descriptively: reports observances as cultural fact and does not interpret or adjudicate Buddhist doctrine."
     reviewer: null
-sensitivity: "religion"
+sensitivity: "none"
 
 updated: 2026-07-24
 sources:

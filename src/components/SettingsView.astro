@@ -50,13 +50,6 @@ const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale
   <section class="set-card">
     <h2>{L('Bacaan', 'Reading', '阅读')}</h2>
     <div class="row">
-      <span class="row-label">{L('Tema', 'Theme', '主题')}</span>
-      <div class="seg" data-group="theme">
-        <button type="button" data-value="dark">{L('Gelap', 'Dark', '深色')}</button>
-        <button type="button" data-value="light">{L('Cerah', 'Light', '浅色')}</button>
-      </div>
-    </div>
-    <div class="row">
       <span class="row-label">{L('Saiz teks', 'Text size', '字号')}</span>
       <div class="seg" data-group="size">
         <button type="button" data-value="standard">{L('Biasa', 'Standard', '标准')}</button>
@@ -122,7 +115,6 @@ const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale
         });
       });
     };
-    seg('theme', 'nk-theme', 'data-theme', 'dark');
     seg('size', 'nk-text-size', 'data-text-size', 'standard');
 
     // --- 4. Card rows (nk-card-rows-hidden = array of HIDDEN row keys) ---

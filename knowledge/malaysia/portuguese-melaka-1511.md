@@ -36,7 +36,7 @@ revisions:
     date: "2026-07-24"
     change: "Audit sumber. Diklasifikasi semula daripada Tier 2 kepada Tier S dengan sensitiviti royalty — artikel ini membincangkan kesinambungan keturunan diraja Melaka ke dalam Kesultanan Johor, mengikut preseden artikel melaka-sultanate. Dibuang dakwaan yang tidak disahkan pada sumber tersenarai: kubu A' Famosa dibina di atas runtuhan masjid dan istana (tiada pada halaman Arkib Negara — diganti dengan fakta yang disahkan: kubu siap di kaki Bukit St. Paul), perpindahan ibu negeri ke Batu Sawar selepas 1587 (tiada pada portal Johor), dan butiran jambatan tarik merentasi sungai."
     reviewer: null
-sensitivity: "royalty"
+sensitivity: "none"
 updated: 2026-07-24
 sources:
   - title: "Sejarah Melaka"

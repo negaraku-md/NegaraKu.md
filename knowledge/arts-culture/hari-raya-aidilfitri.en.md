@@ -8,7 +8,7 @@ summary: "Hari Raya Aidilfitri falls on 1 Syawal, marking the end of a month of 
 tier: "S"
 mode: "practical"
 contentType: "guide"
-sensitivity: "religion"
+sensitivity: "none"
 
 answer: "Hari Raya Aidilfitri is celebrated on 1 Syawal in the Islamic calendar, marking the end of the Ramadan fasting month. Its date is determined through rukyah (the sighting of the new moon) and announced officially, then gazetted as a federal public holiday for the first and second days. According to the guidance of the Department of Islamic Development Malaysia (JAKIM), Muslims perform zakat fitrah before the prayer, recite takbir raya starting from raya eve, and perform the Aidilfitri sunat prayer on the morning of 1 Syawal. Around it are built widespread social and cultural practices in Malaysia — balik kampung, asking for forgiveness, giving duit raya, hosting guests of various races through rumah terbuka, and visiting family graves."
 keyTakeaways:

@@ -6,7 +6,7 @@ category: "malaysia"
 subcategory: ["country-basics"]
 summary: "马来西亚被大约600公里的南中国海一分为二，分隔成马来西亚半岛与婆罗洲的沙巴、砂拉越两州——而这道鸿沟并不只是地理上的。一名公民跨越这道界线时，仍须通过移民关卡查验，而沙巴与砂拉越施行各自的土地法、各自的移民管制，往往还有各自的选举日程。"
 
-tier: "2"
+tier: "S"
 mode: "practical"
 contentType: "guide"
 
@@ -36,7 +36,7 @@ revisions:
     change: "Initial draft. Area and distance figures verified against the Sarawak state government's official portal and the Civil Aviation Authority of Malaysia's Profile of East Malaysia; the immigration pass/permit requirement verified against the Immigration Department of Malaysia's Section 66 exemption-endorsement page; the 1982 time-zone unification verified against the Malaysian Standard Time Act 1981 (Act 261) on the Attorney General's Chambers legislation portal; land-law references verified against the Sabah Attorney General's Chambers and Sarawak LawNet legislation portals."
     contributor: null
     reviewer: null
-sensitivity: "none"
+sensitivity: "constitution"
 
 updated: 2026-07-24
 sources:

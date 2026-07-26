@@ -9,7 +9,7 @@ summary: "Mahkamah is the general term for the judicial institutions that hear a
 tier: "S"
 mode: "practical"
 contentType: "glossary"
-sensitivity: "religion"
+sensitivity: "none"
 
 answer: "Mahkamah is the general term for a judicial body that hears and decides disputes according to law. In Malaysia, the civil courts (federal) have five ascending levels: the Magistrates' Court, the Sessions Court, two coordinate High Courts (the High Court of Malaya, and the High Court of Sabah and Sarawak), the Court of Appeal, and the Federal Court as the highest court. Separate from these, the Syariah Courts — established by each state — have jurisdiction limited to Muslims and to specific matters only."
 keyTakeaways:

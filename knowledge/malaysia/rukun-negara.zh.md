@@ -35,7 +35,7 @@ revisions:
     change: "Draf pertama — teks rasmi dua bahagian, kronologi penggubalan berdasarkan fail Arkib Negara Malaysia."
     contributor: "NegaraKu.md Editorial"
     reviewer: null
-sensitivity: "religion"
+sensitivity: "race"
 updated: 2026-07-24
 sources:
   - title: "Rukun Negara — Kenali Malaysia"

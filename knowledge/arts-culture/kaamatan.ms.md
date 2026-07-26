@@ -9,7 +9,7 @@ summary: "Pesta Kaamatan ialah pesta menuai Kadazandusun di Sabah, satu cuti umu
 tier: "S"
 mode: "narrative"
 contentType: "guide"
-sensitivity: "race"
+sensitivity: "none"
 answer: "Pesta Kaamatan (Tadau Kaamatan) ialah pesta menuai bagi masyarakat Kadazandusun dan komuniti peribumi lain di Sabah, disambut sebagai cuti umum di Sabah dan Labuan pada 30 dan 31 Mei. Perkataan Kaamatan bermaksud 'menuai'. Pesta ini merupakan tanda kesyukuran atas hasil tuaian padi dan berakar umbi pada kepercayaan tradisional terhadap semangat padi, Bambaazon (Bambarayon), yang dikaitkan dengan legenda Huminodun, anak dara yang — menurut tradisi Kadazandusun — mengorbankan dirinya agar padi dapat tumbuh. Ritualnya termasuk Magavau yang diketuai oleh seorang bobohizan (pendeta wanita), dan acara paling terbuka kepada umum ialah pertandingan ratu cantik budaya Unduk Ngadau, yang dianjurkan oleh Persatuan Kebudayaan Kadazan Dusun (KDCA) di Hongkod Koisaan, Penampang."
 keyTakeaways:
   - "Kaamatan bermaksud 'menuai'; namanya dalam bahasa Kadazandusun ialah Tadau Kaamatan dan dalam bahasa Melayu ialah Pesta Kaamatan"

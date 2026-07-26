@@ -9,7 +9,7 @@ summary: "Hospital kerajaan di bawah Kementerian Kesihatan Malaysia (KKM) berope
 tier: "S"
 mode: "practical"
 contentType: "guide"
-sensitivity: "health"
+sensitivity: "none"
 
 answer: "Hospital kerajaan Malaysia diakses melalui sistem rujukan berperingkat: Klinik Kesihatan atau doktor am biasanya menjadi titik masuk pertama, dan rujukan bertulis ke klinik pakar hospital membolehkan pesakit mendapat caj bersubsidi. Sebagai contoh di sebuah hospital KKM, caj pesakit luar am/kecemasan untuk warganegara ialah RM1, manakala lawatan pertama ke klinik pakar adalah percuma jika dirujuk oleh doktor kerajaan. Bukan warganegara dikenakan kadar yang jauh lebih tinggi — contohnya RM40 untuk pesakit luar am dan RM120 untuk klinik pakar di hospital yang sama — di bawah Akta Fee 1951. Masa menunggu berbeza mengikut keterukan kes, kaedah temujanji dan lokasi hospital, dan tidak dijamin sama di semua kemudahan."
 keyTakeaways:

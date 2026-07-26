@@ -10,7 +10,7 @@ summary: "Sabah dan Sarawak menempatkan majoriti bahasa peribumi Malaysia — pu
 tier: "S"
 mode: "narrative"
 contentType: "guide"
-sensitivity: "race"
+sensitivity: "none"
 answer: "Masyarakat peribumi Sabah dan Sarawak menuturkan puluhan bahasa peribumi yang berbeza, hampir kesemuanya tergolong dalam rumpun Austronesia. Ahli bahasa mengelompokkan kebanyakannya dalam satu cabang Borneo Utara. Di Sabah, kerajaan negeri Sabah menghuraikan 33 kumpulan peribumi yang berkomunikasi dalam lebih 50 bahasa dan sekitar 80 dialek; ini biasanya dikelompokkan oleh ahli bahasa kepada rumpun Dusunik, Murutik dan Paitanik, bersama bahasa Sama-Bajau (Bajau). Kumpulan terbesar Sabah ialah Kadazan-Dusun. Di Sarawak, kumpulan peribumi terbesar yang direkodkan dalam Banci 2020 ialah Iban, Bidayuh dan Melanau; bahasa-bahasa mereka tergolong dalam rumpun yang termasuk Melayik (Iban), Bidayuhik (Dayak Darat), Melanau-Kajang, dan bahasa Sarawak Utara yang dituturkan oleh masyarakat Orang Ulu di hulu sungai seperti Kayan, Kenyah, Kelabit dan Lun Bawang. Sebahagian daripada bahasa-bahasa ini — terutamanya Kadazandusun dan Iban — diajar di sekolah kerajaan di bawah program Bahasa Ibunda Murid (Pupil's Own Language)."
 keyTakeaways:
   - "Hampir semua bahasa peribumi Sabah dan Sarawak tergolong dalam rumpun Austronesia, dan kebanyakannya berada dalam satu cabang Borneo Utara"

@@ -8,7 +8,7 @@ summary: "Hari Raya Aidilfitri jatuh pada 1 Syawal, menandakan berakhirnya sebul
 tier: "S"
 mode: "practical"
 contentType: "guide"
-sensitivity: "religion"
+sensitivity: "none"
 
 answer: "Hari Raya Aidilfitri disambut pada 1 Syawal dalam takwim Islam, menandakan berakhirnya bulan puasa Ramadan. Tarikhnya ditentukan melalui rukyah (cerapan anak bulan) dan diumumkan secara rasmi, lalu diwartakan sebagai cuti umum persekutuan bagi hari pertama dan kedua. Menurut panduan Jabatan Kemajuan Islam Malaysia (JAKIM), umat Islam menunaikan zakat fitrah sebelum solat, melafazkan takbir raya bermula malam raya, dan menunaikan solat sunat Aidilfitri pada pagi 1 Syawal. Di sekelilingnya terbina amalan sosial dan budaya yang meluas di Malaysia — balik kampung, memohon maaf, memberi duit raya, menjamu tetamu pelbagai kaum melalui rumah terbuka, dan menziarahi pusara keluarga."
 keyTakeaways:

@@ -8,7 +8,7 @@ summary: "Masyarakat Cina Malaysia sama-sama tergolong dalam satu kumpulan etnik
 tier: "S"
 mode: "narrative"
 contentType: "guide"
-sensitivity: "race"
+sensitivity: "none"
 answer: "Orang Cina Malaysia merupakan kira-kira 22.4% daripada populasi warganegara (Jabatan Perangkaan Malaysia, 2024). Dalam kalangan komuniti ini, masyarakat terbahagi mengikut asal usul keturunan kepada beberapa 'kumpulan dialek', masing-masing dengan bahasa ibunda tersendiri yang tidak boleh difahami antara satu sama lain. Yang utama ialah Hokkien (Minnan, berasal dari selatan Fujian), Kantonis (berasal dari Delta Sungai Mutiara, Guangdong), Hakka, Teochew, Hainan, serta Foochow (Mindong), antara lain. Taburannya secara amnya mengikut wilayah: Pulau Pinang dan utara Semenanjung didominasi Hokkien, Kuala Lumpur dan Ipoh serta bandar-bandar tengah Semenanjung yang lain kebanyakannya Kantonis, Johor dan Kedah mempunyai lebih ramai penutur Teochew, Sibu di Sarawak terkenal dengan Foochow, manakala Sabah mempunyai populasi Hakka yang terbesar. Sejak abad ke-20, dengan berkembangnya pendidikan bahasa Cina, Mandarin secara beransur-ansur menjadi bahasa perantaraan merentasi dialek, dan banyak dialek beralih menjadi bahasa keluarga dan komuniti. Penjelasan di atas bersifat deskriptif; ia tidak menilai sebarang dasar."
 keyTakeaways:
   - "\"Cina\" ialah kumpulan etnik; \"kumpulan dialek\" ialah sub-kumpulan di dalamnya mengikut asal usul keturunan — bahasa ibunda setiap kumpulan, seperti Hokkien, Kantonis, Hakka dan Teochew, tidak boleh difahami antara satu sama lain"

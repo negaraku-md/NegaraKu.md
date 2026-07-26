@@ -8,7 +8,7 @@ summary: "Apa yang disebut sebagai 「Wayang Cina」 (大戏) oleh komuniti Cina
 tier: "S"
 mode: "narrative"
 contentType: "guide"
-sensitivity: "religion"
+sensitivity: "none"
 answer: "「Wayang Cina」 (大戏) ialah istilah kolektif yang digunakan oleh komuniti Cina Malaysia untuk persembahan pentas wayang tradisional, merangkumi pelbagai jenis opera dialek termasuk Opera Kantonis, Opera Teochew, Opera Hokkien (gezaixi) dan budaixi. Kebanyakannya wujud dalam bentuk 「wayang syukur dewa」 (酬神戏) — dibiayai oleh tokong atau komuniti, dipentaskan semasa hari lahir dewa, Perayaan Hantu Lapar (Yu Lan / Perayaan Zhongyuan) atau sambutan ulang tahun tokong, untuk membalas budi dewa dan memohon perlindungan, dengan pentas secara tradisinya didirikan menghadap terus ke tokong. Bilangan persembahan sedemikian pada hari ini jauh berkurangan berbanding dahulu, dengan hanya segelintir kumpulan wayang yang masih membuat lawatan persembahan di tempat seperti Pulau Pinang dan Kedah."
 keyTakeaways:
   - "「Wayang Cina」 (大戏) di Malaysia merangkumi pelbagai jenis opera dialek — Opera Kantonis, Opera Teochew, Opera Hokkien (gezaixi), budaixi (boneka batang besi Teochew) — masing-masing dibawa masuk oleh pendatang daripada asal-usul keturunan yang berbeza"

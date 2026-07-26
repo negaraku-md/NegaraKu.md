@@ -8,7 +8,7 @@ summary: "爪夷文是一种以阿拉伯字母为基础、经调整用以书写�
 tier: "S"
 mode: "narrative"
 contentType: "guide"
-sensitivity: "religion"
+sensitivity: "none"
 answer: "爪夷文是一种使用阿拉伯字母、并加入若干阿拉伯语中没有的马来语音专属字母，用以书写马来语的书写系统。它曾是马来语数百年间的主要书写文字，并随着伊斯兰教在努山达拉（Nusantara，马来群岛）的传播而发展，登嘉楼碑文石（Batu Bersurat Terengganu）即为其证据，该碑文石的年代为回历702年（对应公元1303年）。从法律上看，《1963/67年国家语文法令》（第32号法令）s.9订明罗马字（Rumi）为国语文字，但明文规定这并不禁止使用爪夷文。"
 keyTakeaways:
   - "爪夷文是为马来语调整的阿拉伯字母，加入了ca、nga、pa、ga与nya等音的专属字母"

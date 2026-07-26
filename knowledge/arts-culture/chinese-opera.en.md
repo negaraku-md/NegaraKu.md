@@ -8,7 +8,7 @@ summary: "What Malaysia's Chinese community calls 「Chinese opera」 (大戏) �
 tier: "S"
 mode: "narrative"
 contentType: "guide"
-sensitivity: "religion"
+sensitivity: "none"
 answer: "「Chinese opera」 (大戏) is the collective term Malaysia's Chinese community uses for traditional opera stage performances, spanning multiple dialect-opera genres including Cantonese opera, Teochew opera, Hokkien opera (gezaixi) and budaixi. Most of it exists in the form of 「god-thanking opera」 (酬神戏) — funded by temples or communities, staged during deity birthdays, the Hungry Ghost Festival (Yu Lan / Zhongyuan Festival) or a temple's anniversary celebration, to repay the gods' grace and pray for their protection, with the stage traditionally set up directly facing the temple. The number of such performances today is far below what it once was, with only a handful of troupes still touring places such as Penang and Kedah."
 keyTakeaways:
   - "「Chinese opera」 (大戏) in Malaysia spans multiple dialect-opera genres — Cantonese opera, Teochew opera, Hokkien opera (gezaixi), budaixi (Teochew iron-rod puppetry) — each brought over by immigrants of different ancestral origin"

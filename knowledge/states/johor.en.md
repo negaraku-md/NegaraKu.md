@@ -6,7 +6,7 @@ category: "states"
 subcategory: ["peninsular"]
 summary: "Malaysia's southern gateway to Singapore — a manufacturing, petrochemical and property powerhouse built around Johor Bahru, the Causeway, and the Iskandar Malaysia development corridor."
 
-tier: "3"
+tier: "S"
 mode: "practical"
 contentType: "place"
 
@@ -52,7 +52,7 @@ revisions:
     date: 2026-07-20
     change: "Re-tiered from Tier 2 to an honest Tier 3 — the article is 507 body words and a state overview does not support 1,000 to 2,000 without padding. Added FAQ, added the OpenDOSM statistics portal as a citable source, and flagged the population figure for confirmation."
     reviewer: null
-sensitivity: "none"
+sensitivity: "royalty"
 
 updated: 2026-07-20
 sources:

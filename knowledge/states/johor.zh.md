@@ -6,7 +6,7 @@ category: "states"
 subcategory: ["peninsular"]
 summary: "马来西亚通往新加坡的南方门户——一个围绕新山、长堤与依斯干达特区建立起来的制造业、石化与房地产重镇。"
 
-tier: "3"
+tier: "S"
 mode: "practical"
 contentType: "place"
 
@@ -52,7 +52,7 @@ revisions:
     date: 2026-07-20
     change: "Re-tiered from Tier 2 to an honest Tier 3 — the article is 507 body words and a state overview does not support 1,000 to 2,000 without padding. Added FAQ, added the OpenDOSM statistics portal as a citable source, and flagged the population figure for confirmation."
     reviewer: null
-sensitivity: "none"
+sensitivity: "royalty"
 
 updated: 2026-07-20
 sources:

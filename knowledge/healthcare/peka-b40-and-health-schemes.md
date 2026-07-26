@@ -8,7 +8,7 @@ summary: "PeKa B40 (Skim Peduli Kesihatan untuk Kumpulan B40) ialah skim bantuan
 tier: "S"
 mode: "practical"
 contentType: "guide"
-sensitivity: "health"
+sensitivity: "none"
 answer: "PeKa B40 memberi empat bantuan kepada penerima STR berumur 40 tahun ke atas (dan pasangan berdaftar mereka): saringan kesihatan percuma, bantuan peralatan perubatan sehingga RM20,000, insentif menyiapkan rawatan kanser sebanyak RM1,000, dan elaun pengangkutan sehingga RM500 (Semenanjung) atau RM1,000 (Sabah/Sarawak/Labuan). Tiada permohonan berasingan diperlukan — kelayakan disemak automatik berdasarkan data STR di kelayakan.pekab40.com.my, dan bantuan diakses di klinik atau hospital KKM berdaftar."
 keyTakeaways:
   - "PeKa B40 dikendalikan oleh ProtectHealth Corporation Sdn Bhd bagi pihak Kementerian Kesihatan Malaysia (KKM) — bukan oleh Kementerian Kewangan atau syarikat insurans"

@@ -9,7 +9,7 @@ summary: "Mahkamah ialah istilah umum bagi institusi kehakiman yang mendengar da
 tier: "S"
 mode: "practical"
 contentType: "glossary"
-sensitivity: "religion"
+sensitivity: "none"
 
 answer: "Mahkamah ialah istilah am bagi badan kehakiman yang mendengar dan memutuskan pertikaian mengikut undang-undang. Di Malaysia, mahkamah sivil (persekutuan) mempunyai lima peringkat menaik: Mahkamah Majistret, Mahkamah Sesyen, dua Mahkamah Tinggi yang setaraf (Mahkamah Tinggi Malaya, dan Mahkamah Tinggi Sabah dan Sarawak), Mahkamah Rayuan, dan Mahkamah Persekutuan sebagai mahkamah tertinggi. Berasingan daripadanya, Mahkamah Syariah — ditubuhkan oleh setiap negeri — mempunyai bidang kuasa terhad kepada orang Islam dan perkara tertentu sahaja."
 keyTakeaways:

@@ -9,7 +9,7 @@ summary: "Hari Krismas (25 Disember) merupakan cuti umum di seluruh Malaysia. Re
 tier: "S"
 mode: "practical"
 contentType: "guide"
-sensitivity: "religion"
+sensitivity: "none"
 
 answer: "Hari Krismas, 25 Disember, adalah cuti umum yang disambut di setiap negeri dan wilayah persekutuan di Malaysia. Bagi komuniti Kristian negara ini — direkodkan lebih kurang 2.9 juta orang dalam banci 2020, dengan jumlah terbesar di Sarawak dan Sabah — ia adalah perayaan keagamaan yang memperingati kelahiran Nabi Isa (Jesus Christ), disambut dengan ibadah gereja yang lazimnya termasuk Misa Tengah Malam pada Malam Krismas serta lagu-lagu karol. Secara lebih meluas, ia turut disambut menerusi tradisi 'rumah terbuka' Malaysia, hiasan meriah di pusat beli-belah dan ruang awam, serta pelbagai acara bermusim yang disertai oleh rakyat pelbagai latar belakang. Di Semenanjung, cuti ini berpunca daripada Jadual Pertama Akta Hari Kelepasan 1951; Sabah dan Sarawak memperuntukkannya di bawah ordinan masing-masing, dan Sabah turut mewartakan Malam Krismas (24 Disember) sebagai cuti negeri."
 keyTakeaways:

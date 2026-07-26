@@ -6,7 +6,7 @@ category: "states"
 subcategory: ["peninsular"]
 summary: "Negeri yang paling ramai penduduk dan paling maju perindustrian di Malaysia — jentera pembuatan, logistik dan teknologi yang mengelilingi ibu negara persekutuan."
 
-tier: "3"
+tier: "S"
 mode: "practical"
 contentType: "place"
 
@@ -51,7 +51,7 @@ revisions:
     date: 2026-07-20
     change: "Re-tiered from Tier 2 to an honest Tier 3 — the article is 519 body words and does not support 1,000 to 2,000 without padding. Added FAQ, added the OpenDOSM data catalogue as a citable statistics source, and flagged the population and GDP share claims for confirmation."
     reviewer: null
-sensitivity: "none"
+sensitivity: "royalty"
 
 updated: 2026-07-23
 sources:

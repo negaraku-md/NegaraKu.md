@@ -9,7 +9,7 @@ summary: "Christmas Day (25 December) is a nationwide public holiday in Malaysia
 tier: "S"
 mode: "practical"
 contentType: "guide"
-sensitivity: "religion"
+sensitivity: "none"
 
 answer: "Christmas Day, 25 December, is a public holiday observed in every Malaysian state and federal territory. For the country's Christian community — recorded at about 2.9 million people in the 2020 census, with the largest numbers in Sarawak and Sabah — it is a religious festival commemorating the birth of Jesus Christ, marked by church services that commonly include a Christmas Eve Midnight Mass and carols. More widely it is marked through the Malaysian 'open house' tradition, festive decorations in shopping malls and public spaces, and seasonal events in which people of many backgrounds take part. On the Peninsula the holiday derives from the First Schedule of the Holidays Act 1951; Sabah and Sarawak provide for it under their own ordinances, and Sabah additionally gazettes Christmas Eve (24 December) as a state holiday."
 keyTakeaways:

@@ -8,7 +8,7 @@ summary: "The official meaning of every element on Malaysia's Jata Negara — th
 tier: "S"
 mode: "practical"
 contentType: "guide"
-sensitivity: "royalty"
+sensitivity: "none"
 
 answer: "The Jata Negara is the official emblem of the Federal Government of Malaysia, approved by the Malay Rulers and gazetted on 27 May 1952; the design in force today is set out through Government Gazette P.U. (B) 563 (1990). Its shield carries a symbolic map of all the states: the crescent moon and 14-point star symbolise Islam as the religion of the Federation as well as the 13 states and the Federal Government; five kris blades represent the Unfederated Malay States (Johor, Kedah, Perlis, Kelantan, Terengganu); four coloured stripes represent the Federated Malay States (Pahang, Selangor, Perak, Negeri Sembilan); the Melaka tree and the areca palm tree represent Melaka and Penang; the Sabah emblem and Sarawak emblem represent those two states. Two tigers support the shield to symbolise courage, valour and strength; the yellow colour on the clouds is the royal colour of the Malay Rulers; the Bunga Raya at the centre is the national flower; and the motto 'Bersekutu Bertambah Mutu' is written in Rumi script on the left and Jawi script on the right."
 keyTakeaways:

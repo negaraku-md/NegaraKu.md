@@ -9,7 +9,7 @@ summary: "Pesta Kaamatan is the Kadazandusun harvest festival of Sabah, a public
 tier: "S"
 mode: "narrative"
 contentType: "guide"
-sensitivity: "race"
+sensitivity: "none"
 answer: "Pesta Kaamatan (Tadau Kaamatan) is the harvest festival of the Kadazandusun and other indigenous communities of Sabah, celebrated as a public holiday in Sabah and Labuan on 30 and 31 May. The word Kaamatan means 'harvest'. The festival gives thanks for the rice harvest and is rooted in the traditional belief in a rice spirit, Bambaazon (Bambarayon), connected to the legend of Huminodun, the maiden who — in Kadazandusun tradition — sacrificed herself so that rice would grow. Its rituals include the Magavau led by a bobohizan priestess, and its most public event is the Unduk Ngadau cultural pageant, staged by the Kadazan Dusun Cultural Association (KDCA) at Hongkod Koisaan in Penampang."
 keyTakeaways:
   - "Kaamatan means 'harvest'; the Kadazandusun name is Tadau Kaamatan and the Malay name is Pesta Kaamatan"

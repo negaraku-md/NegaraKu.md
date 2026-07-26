@@ -9,7 +9,7 @@ summary: "Mak Yong ialah teater tarian tradisional Melayu berpusat di Kelantan y
 tier: "S"
 mode: "narrative"
 contentType: "guide"
-sensitivity: "religion"
+sensitivity: "none"
 answer: "Mak Yong ialah bentuk teater tarian tradisional Melayu yang berpusat di Kelantan, menggabungkan lakonan, tarian, nyanyian, muzik instrumental dan komedi dalam satu persembahan yang boleh berlanjutan beberapa malam. Iringannya berteraskan rebab tiga tali, sepasang gendang dan tetawak, dan kebanyakan watak dilakonkan oleh wanita. UNESCO mengisytiharkannya sebagai Masterpiece pada 2005, dan ia dimasukkan ke dalam Senarai Perwakilan Warisan Budaya Tidak Ketara Kemanusiaan pada 4 November 2008."
 keyTakeaways:
   - "Mak Yong menggabungkan tarian, muzik, drama, nyanyian, ritual dan komedi dalam satu bentuk persembahan"

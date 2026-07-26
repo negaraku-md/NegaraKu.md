@@ -8,7 +8,7 @@ category: "business"
 subcategory: ["foreign-ownership"]
 summary: "Where 100 percent foreign equity is genuinely available, which sectoral equity conditions survived liberalisation, and the exact instrument imposing each one."
 
-tier: "1"
+tier: "S"
 mode: "practical"
 contentType: "guide"
 
@@ -63,7 +63,7 @@ revisions:
     date: 2026-07-20
     change: "Initial draft. Every threshold traced to the issuing instrument; unverifiable market figures excluded."
     reviewer: null
-sensitivity: "none"
+sensitivity: "race"
 
 updated: 2026-07-20
 sources:

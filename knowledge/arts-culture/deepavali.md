@@ -9,7 +9,7 @@ summary: "Deepavali is the Hindu festival of lights, observed each year by Malay
 tier: "S"
 mode: "narrative"
 contentType: "guide"
-sensitivity: "religion"
+sensitivity: "none"
 answer: "Deepavali — from the Sanskrit for 'a row of lights' — is the Hindu festival of lights, which the tradition describes as marking the victory of light over darkness and good over evil. In Malaysia it is observed by the Hindu community, most of whom follow the South Indian Tamil calendar, on which the day commemorates Krishna's defeat of the demon Narakasura and is preceded by a ritual pre-dawn oil bath. Homes are lit with oil lamps and decorated with kolam floor designs, and families visit temples and hold open houses. It is a gazetted federal public holiday — falling on 8 November in 2026 — observed in every state and Federal Territory except Sarawak, which keeps its own holiday schedule."
 keyTakeaways:
   - "The name Deepavali comes from the Sanskrit for 'a row or series of lights'; the festival is described in the Hindu tradition as the triumph of light over darkness and good over evil"

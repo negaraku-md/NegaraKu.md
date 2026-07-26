@@ -8,7 +8,7 @@ summary: "Jawi script is a writing system based on Arabic letters adapted to wri
 tier: "S"
 mode: "narrative"
 contentType: "guide"
-sensitivity: "religion"
+sensitivity: "none"
 answer: "Jawi script is a writing system that uses Arabic letters, with several additional letters for Malay sounds not found in Arabic, to write the Malay language. It was the primary script of the Malay language for centuries and developed alongside the spread of Islam across the Nusantara (the Malay Archipelago), as evidenced by the Terengganu Inscribed Stone, dated 702 Hijrah (equated with 1303 CE). Legally, Section 9 of the National Language Act 1963/67 stipulates Rumi script as the script of the national language, but expressly states that this does not prohibit the use of Jawi script."
 keyTakeaways:
   - "Jawi is the Arabic script adapted for the Malay language, with additional letters for sounds such as ca, nga, pa, ga and nya"

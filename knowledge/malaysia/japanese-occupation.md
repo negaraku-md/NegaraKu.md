@@ -32,7 +32,7 @@ revisions:
     date: "2026-07-24"
     change: "Draf pertama: kronologi pencerobohan, struktur pentadbiran, ekonomi perang, pendidikan, kesan berbeza mengikut komuniti dan wilayah, serta penyerahan 1945."
     reviewer: null
-sensitivity: "race"
+sensitivity: "none"
 updated: 2026-07-24
 sources:
   - title: "Tahukah Anda Peristiwa Apa Yang Berlaku Pada 31 Januari?"

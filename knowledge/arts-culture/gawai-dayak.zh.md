@@ -9,7 +9,7 @@ summary: "达雅节（Gawai Dayak）是砂拉越达雅族社群的丰收节，�
 tier: "S"
 mode: "narrative"
 contentType: "guide"
-sensitivity: "race"
+sensitivity: "none"
 answer: "达雅节（Gawai Dayak）是砂拉越达雅族（Dayak）一年一度的丰收节——主要为 Iban、Bidayuh 与 Orang Ulu 群体所庆祝。它于6月1日及2日庆祝，是砂拉越的公共假期。节庆感谢稻米（padi）丰收，并按传统信仰祈求 Petara（神灵）的庇佑。其仪式以长屋为中心：5月31日傍晚举行 Muai Antu Rua 以驱除厄运，由 Tuai Rumah（长屋头人）主持 miring 感恩献祭，午夜共饮 Ai Pengayu（祈求长寿的 tuak 米酒），以及 ngajat 舞蹈。它于1964年9月25日经宪报颁布为公共假期，并于1965年6月1日首次正式庆祝。"
 keyTakeaways:
   - "达雅节（Gawai Dayak）是砂拉越达雅族社群的丰收节，于6月1日及2日庆祝"

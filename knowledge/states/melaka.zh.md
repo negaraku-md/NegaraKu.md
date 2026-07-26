@@ -52,7 +52,7 @@ revisions:
     date: "2026-07-24"
     change: "Draf awal. Angka disahkan pada sumber rasmi: Perlembagaan Persekutuan (Cetakan Semula 2020, AGC), katalog data DOSM (KDNK negeri harga malar 2015 dan penduduk negeri/daerah), My Local Stats Melaka (keluasan, sumber JUPEM), UNESCO World Heritage Centre (penyenaraian dan kriteria), portal rasmi Kerajaan Negeri Melaka dan MBMB. Tier dinaikkan daripada 3 kepada S kerana kandungan menyentuh institusi ketua negeri, Majlis Raja-Raja dan agama — dikendalikan secara deskriptif sepenuhnya."
     reviewer: null
-sensitivity: "royalty"
+sensitivity: "none"
 
 updated: 2026-07-24
 sources:

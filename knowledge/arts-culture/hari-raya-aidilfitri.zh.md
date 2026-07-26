@@ -8,7 +8,7 @@ summary: "开斋节（Hari Raya Aidilfitri）落在开斋月初一（1 Syawal）
 tier: "S"
 mode: "practical"
 contentType: "guide"
-sensitivity: "religion"
+sensitivity: "none"
 
 answer: "开斋节（Hari Raya Aidilfitri）在伊斯兰历中于开斋月初一（1 Syawal）庆祝，标志着斋戒月（Ramadan）封斋月份的结束。其日期透过观新月（rukyah）确认并正式宣布，随后头两天被宪报颁布为联邦公共假期。根据马来西亚伊斯兰发展局（Jabatan Kemajuan Islam Malaysia，JAKIM）的指南，穆斯林在会礼前缴付开斋捐（zakat fitrah），从开斋夜起诵念大赞词（takbir raya），并在开斋月初一早晨举行开斋节会礼（solat sunat Aidilfitri）。围绕着它，马来西亚也发展出广泛的社会与文化习俗——返乡（balik kampung）、互相宽恕、赠送开斋红包（duit raya）、透过开放门户（rumah terbuka）款待各族宾客，以及扫墓祭祖。"
 keyTakeaways:

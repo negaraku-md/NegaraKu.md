@@ -8,7 +8,7 @@ summary: "一份经过核实的马来西亚基本资料表——陆地面积、�
 tier: "S"
 mode: "practical"
 contentType: "data"
-sensitivity: "constitution"
+sensitivity: "none"
 answer: "马来西亚是一个由13个州属与3个联邦直辖区组成的联邦宪制君主国，陆地面积约330,345平方公里（DOSM，2016年）。其人口在2025年估计为3,420万，其中90.1%为公民（DOSM，2025年7月31日）。吉隆坡是宪制与王室首都；布城是联邦政府的行政所在地。货币为马来西亚令吉（MYR，符号RM，分为100仙），由国家银行发行。根据《联邦宪法》第152条，马来语是唯一的国家语言。2025年名目GDP为RM2.03 trillion，人均GNI为RM57,200（DOSM，2026年5月15日）。"
 keyTakeaways:
   - "人口：2025年为3,420万（90.1%为公民，9.9%为非公民）——DOSM，Current Population Estimates, Malaysia, 2025"

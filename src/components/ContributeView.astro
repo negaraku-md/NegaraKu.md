@@ -1,7 +1,7 @@
 ---
 import type { Locale } from '@/lib/categories';
 import { CATEGORIES } from '@/lib/categories';
-import { REPO } from '@/lib/site';
+import { REPO, CONTACT_FORM_ENDPOINT } from '@/lib/site';
 
 interface Props {
   locale: Locale;
@@ -42,7 +42,13 @@ const aiPrompt = L(
 <section class="container two">
   <div>
     <h2>{L('Kongsi pengetahuan anda', 'Share your knowledge', '分享你的知识')}</h2>
-    <form class="cform" action="https://formspree.io/f/your-id" method="post">
+    <form
+      class="cform"
+      action={CONTACT_FORM_ENDPOINT || '#'}
+      method="post"
+      data-configured={CONTACT_FORM_ENDPOINT ? 'true' : 'false'}
+      data-repo={REPO}
+    >
       <label>{L('Topik', 'Topic', '主题')}<input name="topic" required /></label>
       <label>{L('Kategori', 'Category', '分类')}
         <select name="category">
@@ -53,7 +59,7 @@ const aiPrompt = L(
       <label>{L('Sumber rujukan', 'Reference source', '参考来源')}<input name="source" placeholder="https://…" /></label>
       <label>{L('Nama (pilihan)', 'Name (optional)', '姓名（可选）')}<input name="name" /></label>
       <button type="submit" class="btn btn-primary">{L('Hantar', 'Submit', '提交')}</button>
-      <p class="muted">{L('Penyerahan tanpa nama dibenarkan.', 'Anonymous submissions are allowed.', '允许匿名提交。')}</p>
+      <p class="muted">{L('Penyerahan tanpa nama dibenarkan. Tanpa backprop e-mel, borang ini membuka isu GitHub yang telah diisi.', 'Anonymous submissions are allowed. With no email backend, this opens a pre-filled GitHub issue.', '允许匿名提交。由于没有邮件后端，此表单会打开一个预填的 GitHub issue。')}</p>
     </form>
   </div>
   <div>
@@ -64,6 +70,34 @@ const aiPrompt = L(
     <p class="muted">{L('Lihat juga garis panduan editorial untuk topik sensitif.', 'See also the editorial guidelines for sensitive topics.', '敏感话题另见编辑方针。')}</p>
   </div>
 </section>
+
+<script>
+  // No email backend: turn a submission into a pre-filled GitHub issue instead
+  // of POSTing to a dead endpoint. If a real endpoint is later configured
+  // (data-configured="true"), let the browser post normally.
+  document.querySelectorAll('form.cform').forEach((form) => {
+    form.addEventListener('submit', (e) => {
+      if (form.dataset.configured === 'true') return;
+      e.preventDefault();
+      const v = (n) => (form.querySelector(`[name="${n}"]`)?.value || '').trim();
+      const topic = v('topic');
+      const title = `Contribution: ${topic || 'new article'}`;
+      const body = [
+        `**Topic:** ${topic}`,
+        `**Category:** ${v('category')}`,
+        `**Source:** ${v('source') || '—'}`,
+        `**Submitted by:** ${v('name') || 'anonymous'}`,
+        '',
+        '---',
+        '',
+        v('content'),
+      ].join('\n');
+      const repo = form.dataset.repo;
+      const url = `${repo}/issues/new?labels=contribution&title=${encodeURIComponent(title)}&body=${encodeURIComponent(body)}`;
+      window.open(url, '_blank', 'noopener');
+    });
+  });
+</script>
 
 <style>
   .head { padding-block: 2.5rem 0.5rem; }

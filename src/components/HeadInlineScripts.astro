@@ -7,8 +7,8 @@
   (function () {
     try {
       var d = document.documentElement;
-      var theme = localStorage.getItem('nk-theme');
-      if (theme === 'light' || theme === 'dark') d.setAttribute('data-theme', theme);
+      // Theme is locked to dark (the 1company canvas). The light-mode toggle is
+      // hidden; any previously-saved 'light' preference is intentionally ignored.
       var size = localStorage.getItem('nk-text-size');
       if (size === 'large' || size === 'xlarge') d.setAttribute('data-text-size', size);
       // Default-language preference (Settings): only redirect from the home

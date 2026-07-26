@@ -51,7 +51,7 @@ revisions:
     date: "2026-07-24"
     change: "Draf awal. Setiap peringkat disemak terhadap teks Perlembagaan Persekutuan (cetakan semula 15 Oktober 2020, Jabatan Peguam Negara), Peraturan-Peraturan Majlis Mesyuarat Dewan Rakyat, glosari rasmi Parlimen Malaysia, dan Akta Tafsiran 1948 dan 1967 (Akta 388)."
     reviewer: null
-sensitivity: "constitution"
+sensitivity: "none"
 
 updated: 2026-07-24
 sources:

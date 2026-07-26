@@ -10,7 +10,7 @@ summary: "Sabah and Sarawak are home to most of Malaysia's indigenous languages 
 tier: "S"
 mode: "narrative"
 contentType: "guide"
-sensitivity: "race"
+sensitivity: "none"
 answer: "The native communities of Sabah and Sarawak speak dozens of distinct indigenous languages, nearly all of them belonging to the Austronesian family. Linguists group most of them within a North Bornean branch. In Sabah, the Sabah state government describes 33 indigenous groups communicating in more than 50 languages and around 80 dialects; these are commonly grouped by linguists into the Dusunic, Murutic and Paitanic families, together with the Sama-Bajau (Bajau) languages. Sabah's largest group is the Kadazan-Dusun. In Sarawak, the largest indigenous groups recorded in the 2020 Census are the Iban, Bidayuh and Melanau; their languages fall into families that include Malayic (Iban), Bidayuhic (Land Dayak), Melanau-Kajang, and the North Sarawakan languages spoken by the upriver Orang Ulu communities such as the Kayan, Kenyah, Kelabit and Lun Bawang. Some of these languages — notably Kadazandusun and Iban — are taught in government schools under the Pupil's Own Language programme."
 keyTakeaways:
   - "Almost all indigenous languages of Sabah and Sarawak belong to the Austronesian family, and most sit within a North Bornean branch"

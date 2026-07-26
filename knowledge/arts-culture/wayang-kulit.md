@@ -9,7 +9,7 @@ summary: "Malaysia's shadow-puppet theatre, centred in Kelantan, tells Ramayana-
 tier: "S"
 mode: "narrative"
 contentType: "guide"
-sensitivity: "religion"
+sensitivity: "none"
 answer: "Wayang Kulit Kelantan is a traditional Malay shadow-puppet theatre in which a single puppet master, the Tok Dalang, narrates and voices an all-night performance using carved leather puppets cast as shadows on a lit screen. It matters because it is one of the clearest surviving threads connecting Malay performing arts to older Hindu-Buddhist story traditions, and because state-level restrictions since the 1990s have pushed it toward extinction, making its remaining performers a genuinely finite resource."
 keyTakeaways:
   - "A Tok Dalang (puppet master) performs alone, voicing every character while manipulating carved leather puppets"

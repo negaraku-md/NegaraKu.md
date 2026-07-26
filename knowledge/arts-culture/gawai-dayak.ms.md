@@ -9,7 +9,7 @@ summary: "Gawai Dayak ialah perayaan menuai bagi masyarakat Dayak di Sarawak, sa
 tier: "S"
 mode: "narrative"
 contentType: "guide"
-sensitivity: "race"
+sensitivity: "none"
 answer: "Gawai Dayak ialah perayaan menuai tahunan masyarakat Dayak di Sarawak — terutamanya kaum Iban, Bidayuh dan Orang Ulu. Ia disambut pada 1 dan 2 Jun dan merupakan cuti umum di Sarawak. Perayaan ini bersyukur atas hasil tuaian padi dan, menurut kepercayaan tradisi, memohon restu daripada Petara (dewa atau roh). Upacaranya berpaksikan rumah panjang: Muai Antu Rua pada petang 31 Mei untuk menghalau nasib buruk, persembahan syukur miring yang diketuai oleh Tuai Rumah (ketua rumah panjang), minuman Ai Pengayu (tuak untuk umur panjang) pada tengah malam, serta tarian ngajat. Ia diwartakan sebagai cuti umum pada 25 September 1964 dan disambut secara rasmi buat pertama kali pada 1 Jun 1965."
 keyTakeaways:
   - "Gawai Dayak ialah perayaan menuai masyarakat Dayak di Sarawak, disambut pada 1 dan 2 Jun"

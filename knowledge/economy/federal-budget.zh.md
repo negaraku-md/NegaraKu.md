@@ -36,7 +36,7 @@ revisions:
     date: 2026-07-24
     change: "Draf awal. Setiap angka disemak semula terhadap Akta Perbekalan 2026 [Akta A1781] dan Tinjauan Fiskal dan Anggaran Hasil Kerajaan Persekutuan 2026 (seksyen 1–3); rujukan Perkara 68 diperbetulkan."
     reviewer: null
-sensitivity: "constitution"
+sensitivity: "none"
 
 updated: 2026-07-24
 sources:

@@ -10,7 +10,7 @@ summary: "Thaipusam is a Hindu festival observed by Malaysia's Tamil community, 
 tier: "S"
 mode: "narrative"
 contentType: "guide"
-sensitivity: "religion"
+sensitivity: "none"
 
 answer: "Thaipusam is a Hindu festival observed by Malaysia's Tamil community in the Tamil month of Thai (around late January or February), honouring Lord Murugan (also called Subramaniam). Its largest gathering in Malaysia is the pilgrimage to the Batu Caves temple in Gombak, Selangor, reached by climbing 272 steps past a 42.7-metre golden statue of Lord Murugan. In Kuala Lumpur a silver chariot carries the deity from the Sri Maha Mariamman Temple to Batu Caves, roughly 15 km away; Penang holds its own chariot processions to the Waterfall Hilltop Temple. Devotees carry offerings including the kavadi and pots of milk (paal kudam). Thaipusam is a public holiday in several states and federal territories, gazetted separately by each government, and is not a nationwide federal holiday."
 keyTakeaways:

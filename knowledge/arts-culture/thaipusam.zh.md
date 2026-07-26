@@ -10,7 +10,7 @@ summary: "大宝森节（Thaipusam）是马来西亚淡米尔社群庆祝的兴�
 tier: "S"
 mode: "narrative"
 contentType: "guide"
-sensitivity: "religion"
+sensitivity: "none"
 
 answer: "大宝森节（Thaipusam）是马来西亚淡米尔社群于淡米尔历 Thai 月（大约1月底至2月）庆祝的兴都教节日，以敬奉穆鲁干神（亦称苏布拉马廉，Subramaniam）为核心。马来西亚规模最大的聚会是前往雪兰莪州鹅唛（Gombak）黑风洞庙宇的朝圣之旅，信众需攀登272级台阶，途经一尊高42.7米的穆鲁干神金色神像。在吉隆坡，一辆银色圣车将神像从 Sri Maha Mariamman 兴都庙送往黑风洞，路程约15公里；槟城则举办自己的圣车游行，前往瀑布山顶庙（Waterfall Hilltop Temple）。信众携带的供品包括 kavadi 与奶罐（paal kudam）。大宝森节在若干州属与联邦直辖区是公共假期，由各自政府分别宪报颁布，并非全国性的联邦假期。"
 keyTakeaways:

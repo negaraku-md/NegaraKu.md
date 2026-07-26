@@ -8,7 +8,7 @@ summary: "Chinese New Year is the most important annual festival for Malaysia's 
 tier: "S"
 mode: "narrative"
 contentType: "guide"
-sensitivity: "religion"
+sensitivity: "none"
 answer: "Chinese New Year (also called the Chinese New Year or the Spring Festival) is the most important festival of the year for Malaysia's Chinese community. It centres on family reunion: the reunion dinner on New Year's Eve is regarded by many families as a more important meal than the first day itself; married people give ang pow packets filled with cash to unmarried younger relatives and elders; lion dance troupes visit residential areas, shopping malls and shops to bring New Year greetings; and a cold tossed dish called 'lo hei' (yee sang) is lifted with chopsticks by everyone at the table while auspicious phrases are called out. The festive period traditionally lasts fifteen days, starting on New Year's Eve and closing on the fifteenth day with the Lantern Festival (known in Malaysia as 'Chap Goh Meh'). The Chinese make up about a fifth of Malaysia's citizen population (22.2% per DOSM in 2025), and the first two days of Chinese New Year are a nationwide public holiday. In Malaysia, it is also a festival shared across ethnic lines: the practice of the 'open house' (rumah terbuka) has friends and relatives of different ethnicities visiting one another's homes. Chinese New Year is a cultural and seasonal festival, and its customs vary from household to household."
 keyTakeaways:
   - "Chinese New Year is the most important annual festival for Malaysia's Chinese community, with the first two days as a nationwide public holiday (under the Holidays Act 1951)"

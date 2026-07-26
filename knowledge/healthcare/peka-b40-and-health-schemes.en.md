@@ -8,7 +8,7 @@ summary: "PeKa B40 (Skim Peduli Kesihatan untuk Kumpulan B40, or B40 Health Care
 tier: "S"
 mode: "practical"
 contentType: "guide"
-sensitivity: "health"
+sensitivity: "none"
 answer: "PeKa B40 provides four forms of aid to STR recipients aged 40 and above (and their registered spouses): free health screening, medical equipment aid of up to RM20,000, a RM1,000 incentive for completing cancer treatment, and a transport allowance of up to RM500 (Peninsular Malaysia) or RM1,000 (Sabah/Sarawak/Labuan). No separate application is required — eligibility is checked automatically based on STR data at kelayakan.pekab40.com.my, and aid is accessed at registered KKM clinics or hospitals."
 keyTakeaways:
   - "PeKa B40 is operated by ProtectHealth Corporation Sdn Bhd on behalf of the Ministry of Health Malaysia (KKM) — not by the Ministry of Finance or an insurance company"

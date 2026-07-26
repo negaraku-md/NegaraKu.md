@@ -9,7 +9,7 @@ summary: "Bagaimana Program Imunisasi Kebangsaan (PIK) di bawah Kementerian Kesi
 tier: "S"
 mode: "practical"
 contentType: "guide"
-sensitivity: "health"
+sensitivity: "none"
 
 answer: "Program Imunisasi Kebangsaan (PIK) ialah program vaksinasi kanak-kanak kerajaan Malaysia di bawah Kementerian Kesihatan Malaysia (KKM), disediakan percuma kepada setiap bayi dan kanak-kanak di klinik kesihatan kerajaan mengikut Jadual Imunisasi Kebangsaan yang ditetapkan oleh KKM. Program ini telah wujud sejak awal 1950-an dan kini melindungi kanak-kanak daripada 13 penyakit berjangkit utama. Setiap suntikan direkodkan dalam Buku Rekod Kesihatan Bayi dan Kanak-kanak yang dikeluarkan percuma kepada setiap bayi yang lahir di Malaysia, dan buku ini wajib dibawa pada setiap lawatan klinik atau hospital. Oleh sebab jadual disemak dan dikemas kini dari semasa ke semasa oleh KKM, ibu bapa digalakkan menyemak jadual terkini secara terus di klinik kesihatan atau laman rasmi KKM, bukan bergantung pada carta lama yang tersebar di internet."
 keyTakeaways:

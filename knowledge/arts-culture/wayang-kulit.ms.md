@@ -9,7 +9,7 @@ summary: "Teater wayang kulit Malaysia, berpusat di Kelantan, menyampaikan cerit
 tier: "S"
 mode: "narrative"
 contentType: "guide"
-sensitivity: "religion"
+sensitivity: "none"
 answer: "Wayang Kulit Kelantan ialah teater wayang kulit Melayu tradisional yang mana seorang dalang tunggal, Tok Dalang, menceritakan dan menyuarakan persembahan sepanjang malam menggunakan patung kulit berukir yang dibayangkan sebagai bayang-bayang pada skrin yang bercahaya. Ia penting kerana ia merupakan salah satu benang yang paling jelas masih bertahan yang menghubungkan seni persembahan Melayu dengan tradisi cerita Hindu-Buddha yang lebih tua, dan kerana sekatan di peringkat negeri sejak 1990-an telah mendorongnya ke arah kepupusan, menjadikan pemainnya yang masih tinggal satu sumber yang benar-benar terhad."
 keyTakeaways:
   - "Seorang Tok Dalang (tuan dalang) mempersembahkan seorang diri, menyuarakan setiap watak sambil menggerakkan patung kulit berukir"

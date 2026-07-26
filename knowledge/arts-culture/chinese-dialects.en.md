@@ -8,7 +8,7 @@ summary: "Malaysian Chinese all belong to one ethnic group, yet their mother ton
 tier: "S"
 mode: "narrative"
 contentType: "guide"
-sensitivity: "race"
+sensitivity: "none"
 answer: "Malaysian Chinese make up about 22.4% of the citizen population (Department of Statistics Malaysia, 2024). Within the community, people are divided by ancestral origin into a number of 'dialect groups,' each with its own mother tongue that is mutually unintelligible with the others. The main ones are Hokkien (Southern Min, ancestral origin in southern Fujian), Cantonese (Yue, ancestral origin in the Pearl River Delta of Guangdong), Hakka, Teochew, Hainanese, and Foochow (Eastern Min), among others. The distribution is broadly regional: Penang and northern Malaysia are predominantly Hokkien-speaking, Kuala Lumpur and Ipoh and other central-Malaysian cities are largely Cantonese-speaking, Johor and Kedah have more Teochew speakers, Sibu in Sarawak is known for Foochow, and Sabah has the largest Hakka population. Since the 20th century, as Chinese-medium education spread, Mandarin has gradually become the common language across dialects, and many dialects have become home-and-community languages. The above is descriptive; it does not address policy evaluation."
 keyTakeaways:
   - "\"Chinese\" is the ethnic group; \"dialect group\" is a sub-group within it divided by ancestral origin — the mother tongues of each group, such as Hokkien, Cantonese, Hakka and Teochew, are not mutually intelligible"

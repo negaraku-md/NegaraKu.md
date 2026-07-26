@@ -9,7 +9,7 @@ summary: "Government hospitals under the Ministry of Health Malaysia (KKM) opera
 tier: "S"
 mode: "practical"
 contentType: "guide"
-sensitivity: "health"
+sensitivity: "none"
 
 answer: "Malaysian government hospitals are accessed through a tiered referral system: a Klinik Kesihatan or general practitioner is usually the first point of entry, and a written referral to a hospital's specialist clinic allows a patient to receive the subsidised charge. As an example at one KKM hospital, the general outpatient/emergency charge for citizens is RM1, while the first visit to a specialist clinic is free if referred by a government doctor. Non-citizens are charged much higher rates — for example RM40 for general outpatient and RM120 for the specialist clinic at the same hospital — under the Akta Fee 1951. Waiting times differ according to case severity, appointment method and hospital location, and are not guaranteed to be the same across all facilities."
 keyTakeaways:

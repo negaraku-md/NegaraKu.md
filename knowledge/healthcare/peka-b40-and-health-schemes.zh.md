@@ -8,7 +8,7 @@ summary: "PeKa B40（Skim Peduli Kesihatan untuk Kumpulan B40，即 B40 群体�
 tier: "S"
 mode: "practical"
 contentType: "guide"
-sensitivity: "health"
+sensitivity: "none"
 answer: "PeKa B40 为年满 40 岁的 STR 领取者（及其登记配偶）提供四项援助：免费健康筛检、最高 RM20,000 的医疗器材援助、完成癌症治疗奖励金 RM1,000，以及最高 RM500（西马）或 RM1,000（沙巴／砂拉越／纳闽）的交通津贴。无需另行申请——资格根据 kelayakan.pekab40.com.my 上的 STR 数据自动核实，援助则在注册的 KKM 诊所或医院领取。"
 keyTakeaways:
   - "PeKa B40 由 ProtectHealth Corporation Sdn Bhd 代表马来西亚卫生部（KKM）营运——并非由财政部或保险公司负责"

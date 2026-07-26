@@ -9,7 +9,7 @@ summary: "Gawai Dayak is the harvest festival of the Dayak communities of Sarawa
 tier: "S"
 mode: "narrative"
 contentType: "guide"
-sensitivity: "race"
+sensitivity: "none"
 answer: "Gawai Dayak is the annual harvest festival of the Dayak peoples of Sarawak — chiefly the Iban, the Bidayuh and the Orang Ulu communities. It is celebrated on 1 and 2 June and is a public holiday in Sarawak. The festival gives thanks for the rice (padi) harvest and, in traditional belief, seeks blessings from Petara (the gods or spirits). Its ceremonies centre on the longhouse: the Muai Antu Rua on the evening of 31 May to cast away misfortune, the miring thanksgiving offering led by the Tuai Rumah (longhouse chief), a midnight toast of Ai Pengayu (tuak for long life), and the ngajat dance. It was gazetted as a public holiday on 25 September 1964 and celebrated officially for the first time on 1 June 1965."
 keyTakeaways:
   - "Gawai Dayak is the harvest festival of the Dayak communities of Sarawak, celebrated on 1 and 2 June"

@@ -10,7 +10,7 @@ summary: "Thaipusam ialah perayaan Hindu yang disambut oleh masyarakat Tamil Mal
 tier: "S"
 mode: "narrative"
 contentType: "guide"
-sensitivity: "religion"
+sensitivity: "none"
 
 answer: "Thaipusam ialah perayaan Hindu yang disambut oleh masyarakat Tamil Malaysia pada bulan Tamil Thai (sekitar akhir Januari atau Februari), memuliakan Lord Murugan (turut digelar Subramaniam). Perhimpunan terbesarnya di Malaysia ialah perarakan ke kuil Batu Caves di Gombak, Selangor, yang dicapai dengan mendaki 272 anak tangga melepasi patung emas Lord Murugan setinggi 42.7 meter. Di Kuala Lumpur, sebuah rata perak membawa dewa itu dari Kuil Sri Maha Mariamman ke Batu Caves, sejauh lebih kurang 15 km; Pulau Pinang pula mengadakan perarakan ratanya sendiri ke Kuil Bukit Air Terjun. Penganut membawa persembahan termasuk kavadi dan bekas susu (paal kudam). Thaipusam adalah cuti umum di beberapa negeri dan wilayah persekutuan, diwartakan berasingan oleh setiap kerajaan, dan bukan cuti persekutuan seluruh negara."
 keyTakeaways:

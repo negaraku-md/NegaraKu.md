@@ -9,7 +9,7 @@ summary: "玛蓉剧（Mak Yong）是一种以吉兰丹为中心的传统马来�
 tier: "S"
 mode: "narrative"
 contentType: "guide"
-sensitivity: "religion"
+sensitivity: "none"
 answer: "玛蓉剧（Mak Yong）是一种以吉兰丹为中心的传统马来舞蹈剧场形式，在一场可持续数个夜晚的演出中，融合了戏剧表演、舞蹈、歌唱、器乐与喜剧。其伴奏以三弦rebab、一对gendang与一面tetawak为核心，大多数角色由女性演员饰演。UNESCO于2005年将其宣布为Masterpiece，并于2008年11月4日将其列入《人类非物质文化遗产代表作名录》。"
 keyTakeaways:
   - "玛蓉剧在同一种演出形式中融合了舞蹈、音乐、戏剧、歌唱、仪式与喜剧"

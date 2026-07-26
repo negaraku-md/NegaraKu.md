@@ -35,7 +35,7 @@ revisions:
     change: "First draft — 1998 economic response (selective capital controls, RM3.80 peg, exit levy, NEAC/NERP/Danaharta/Danamodal) and the documented political events of 1998, compiled neutrally from Bank Negara Malaysia, WTO, IMF and documentary sources."
     contributor: "NegaraKu.md Editorial"
     reviewer: null
-sensitivity: "legal-proceedings"
+sensitivity: "none"
 updated: 2026-07-24
 sources:
   - title: "Significant Milestones in the Malaysian Foreign Exchange Market"

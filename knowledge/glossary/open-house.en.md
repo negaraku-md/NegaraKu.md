@@ -8,7 +8,7 @@ summary: "Open house is the practice of inviting neighbours, friends and members
 tier: "S"
 mode: "narrative"
 contentType: "guide"
-sensitivity: "race"
+sensitivity: "none"
 
 answer: "Open house is a Malaysian social practice in which a host opens their home to a circle of guests far wider than family alone — neighbours, colleagues and members of the public from other ethnic groups and religions are also invited to come and share a meal for the duration of the celebration. It is rooted in the Aidilfitri visit, but the same pattern is now also practised for Chinese New Year, Deepavali, Christmas, Gawai and Kaamatan. The federal government also holds large-scale open houses — such as the Rumah Terbuka Malaysia Madani attended by the Prime Minister across various states — as an official event of national unity."
 keyTakeaways:

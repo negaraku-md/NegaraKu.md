@@ -8,7 +8,7 @@ category: "business"
 subcategory: ["foreign-ownership"]
 summary: "Di mana ekuiti asing 100 peratus benar-benar tersedia, syarat ekuiti sektoral yang masih kekal selepas liberalisasi, dan instrumen tepat yang mengenakan setiap syarat itu."
 
-tier: "1"
+tier: "S"
 mode: "practical"
 contentType: "guide"
 
@@ -64,7 +64,7 @@ revisions:
     date: 2026-07-20
     change: "Initial draft. Every threshold traced to the issuing instrument; unverifiable market figures excluded."
     reviewer: null
-sensitivity: "none"
+sensitivity: "race"
 
 updated: 2026-07-20
 sources:

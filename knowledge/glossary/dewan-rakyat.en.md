@@ -52,7 +52,7 @@ revisions:
     change: "Pengesahan penuh terhadap teks Cetakan Semula 2020 (versi BM dan EN) di lom.agc.gov.my. Pembetulan: cetakan semula itu SUDAH memuatkan Akta A1603 — Perkara 47(b) berbunyi 'lapan belas tahun' (A1603 berkuat kuasa 11-09-2019, sebelum tarikh cetakan). Sejarah bilangan kerusi ditambah semula dengan sandaran catatan pindaan rasmi (Hari Merdeka: 100 ahli, Dewan pertama 104; Akta A1260 berkuat kuasa 19-01-2006: 219 kepada 222). Pautan silang diselaraskan ke format /en/ dan senarai sumber dikemas kini kepada URL yang disahkan."
     reason: "Angka dan dakwaan mesti sepadan dengan teks rasmi, bukan andaian tentang teks rasmi."
     reviewer: null
-sensitivity: "constitution"
+sensitivity: "none"
 
 updated: 2026-07-24
 sources:

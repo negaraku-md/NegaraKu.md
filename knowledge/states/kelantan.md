@@ -55,7 +55,7 @@ revisions:
     date: "2026-07-24"
     change: "Draf awal. Semua angka disemak pada sumber rasmi DOSM, MKN, MPKB-BRI, Majlis Raja-Raja dan UNESCO."
     reviewer: null
-sensitivity: "religion"
+sensitivity: "royalty"
 
 updated: 2026-07-24
 sources:

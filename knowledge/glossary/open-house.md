@@ -8,7 +8,7 @@ summary: "Rumah terbuka ialah amalan menjemput jiran, rakan dan orang ramai dari
 tier: "S"
 mode: "narrative"
 contentType: "guide"
-sensitivity: "race"
+sensitivity: "none"
 
 answer: "Rumah terbuka ialah amalan sosial Malaysia di mana tuan rumah membuka pintu rumah kepada tetamu yang jauh lebih luas daripada kalangan keluarga sahaja — jiran, rakan sekerja dan orang ramai daripada kaum dan agama lain turut dijemput datang menjamah juadah sepanjang tempoh perayaan. Ia berakar daripada kunjungan Aidilfitri, tetapi corak yang sama kini turut diamalkan bersempena Tahun Baharu Cina, Deepavali, Krismas, Gawai dan Kaamatan. Kerajaan persekutuan turut menganjurkan rumah terbuka berskala besar — seperti Rumah Terbuka Malaysia Madani yang dihadiri Perdana Menteri di pelbagai negeri — sebagai acara rasmi perpaduan negara."
 keyTakeaways:

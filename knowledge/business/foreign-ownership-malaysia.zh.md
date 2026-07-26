@@ -8,7 +8,7 @@ category: "business"
 subcategory: ["foreign-ownership"]
 summary: "哪些领域真正开放 100% 外资股权、哪些领域性股权条件在自由化之后仍然存续，以及各自出自哪一份确切的文书。"
 
-tier: "1"
+tier: "S"
 mode: "practical"
 contentType: "guide"
 
@@ -65,7 +65,7 @@ revisions:
     date: 2026-07-20
     change: "Initial draft. Every threshold traced to the issuing instrument; unverifiable market figures excluded."
     reviewer: null
-sensitivity: "none"
+sensitivity: "race"
 
 updated: 2026-07-20
 sources:

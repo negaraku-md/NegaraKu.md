@@ -8,7 +8,7 @@ summary: "Tulisan Jawi ialah sistem tulisan berasaskan huruf Arab yang disesuaik
 tier: "S"
 mode: "narrative"
 contentType: "guide"
-sensitivity: "religion"
+sensitivity: "none"
 answer: "Tulisan Jawi ialah sistem tulisan yang menggunakan huruf Arab, ditambah beberapa huruf khusus untuk bunyi Melayu yang tiada dalam bahasa Arab, bagi menulis bahasa Melayu. Ia merupakan aksara utama bahasa Melayu selama berabad-abad dan berkembang seiring penyebaran Islam di Nusantara, seperti yang dibuktikan oleh Batu Bersurat Terengganu yang bertarikh 702 Hijrah (dipadankan dengan 1303 Masihi). Dari segi undang-undang, Seksyen 9 Akta Bahasa Kebangsaan 1963/67 menetapkan tulisan Rumi sebagai tulisan bahasa kebangsaan, tetapi secara nyata menyatakan bahawa ini tidak melarang penggunaan tulisan Jawi."
 keyTakeaways:
   - "Jawi ialah aksara Arab yang disesuaikan untuk bahasa Melayu, dengan huruf tambahan bagi bunyi seperti ca, nga, pa, ga dan nya"

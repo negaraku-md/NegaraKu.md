@@ -6,7 +6,7 @@ category: "malaysia"
 subcategory: ["country-basics"]
 summary: "Malaysia terbahagi merentasi lebih kurang 600 km Laut China Selatan kepada Semenanjung Malaysia dan negeri-negeri Borneo iaitu Sabah dan Sarawak — dan jurang ini bukan sekadar dari segi geografi. Seorang warganegara yang melintasinya masih perlu melepasi kaunter imigresen, dan Sabah serta Sarawak mentadbir undang-undang tanah mereka sendiri, kawalan imigresen mereka sendiri dan, selalunya, kalendar pilihan raya mereka sendiri."
 
-tier: "2"
+tier: "S"
 mode: "practical"
 contentType: "guide"
 
@@ -36,7 +36,7 @@ revisions:
     change: "Initial draft. Area and distance figures verified against the Sarawak state government's official portal and the Civil Aviation Authority of Malaysia's Profile of East Malaysia; the immigration pass/permit requirement verified against the Immigration Department of Malaysia's Section 66 exemption-endorsement page; the 1982 time-zone unification verified against the Malaysian Standard Time Act 1981 (Act 261) on the Attorney General's Chambers legislation portal; land-law references verified against the Sabah Attorney General's Chambers and Sarawak LawNet legislation portals."
     contributor: null
     reviewer: null
-sensitivity: "none"
+sensitivity: "constitution"
 
 updated: 2026-07-24
 sources:

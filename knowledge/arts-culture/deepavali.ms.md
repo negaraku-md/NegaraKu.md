@@ -9,7 +9,7 @@ summary: "Deepavali ialah pesta cahaya umat Hindu, disambut setiap tahun oleh ma
 tier: "S"
 mode: "narrative"
 contentType: "guide"
-sensitivity: "religion"
+sensitivity: "none"
 answer: "Deepavali — daripada perkataan Sanskrit bagi 'sederetan cahaya' — ialah pesta cahaya umat Hindu, yang menurut tradisi tersebut melambangkan kemenangan cahaya ke atas kegelapan dan kebaikan ke atas kejahatan. Di Malaysia ia disambut oleh masyarakat Hindu, yang majoritinya mengikut kalendar Tamil India Selatan, yang mana hari itu memperingati kekalahan Narakasura di tangan Krishna dan didahului oleh ritual mandi minyak sebelum subuh. Rumah-rumah dihiasi dengan pelita minyak dan corak lantai kolam, dan keluarga-keluarga melawat kuil serta mengadakan rumah terbuka. Ia adalah hari kelepasan am persekutuan yang diwartakan — jatuh pada 8 November 2026 — disambut di setiap negeri dan Wilayah Persekutuan kecuali Sarawak, yang mengekalkan jadual hari kelepasannya sendiri."
 keyTakeaways:
   - "Nama Deepavali berasal daripada perkataan Sanskrit bagi 'sederetan atau rangkaian cahaya'; pesta ini digambarkan dalam tradisi Hindu sebagai kemenangan cahaya ke atas kegelapan dan kebaikan ke atas kejahatan"

@@ -9,7 +9,7 @@ summary: "Pesta Kaamatan（丰收节）是沙巴卡达山杜顺人的丰收节�
 tier: "S"
 mode: "narrative"
 contentType: "guide"
-sensitivity: "race"
+sensitivity: "none"
 answer: "Pesta Kaamatan（Tadau Kaamatan）是沙巴卡达山杜顺人（Kadazandusun）及其他原住民社群的丰收节庆，在沙巴与纳闽（Labuan）作为5月30日与31日的公共假期庆祝。Kaamatan一词意为「丰收」。这个节庆是为稻米丰收而感恩，其根源在于对稻米之灵Bambaazon（又作Bambarayon）的传统信仰，而这与Huminodun的传说息息相关——根据卡达山杜顺人的传统，这位少女牺牲自己，好让稻米得以生长。其仪式包括由女祭司bobohizan主持的Magavau，而其最公开的活动则是由卡达山杜顺文化协会（Kadazan Dusun Cultural Association，KDCA）在兵南邦（Penampang）的Hongkod Koisaan举办的Unduk Ngadau文化选美。"
 keyTakeaways:
   - "Kaamatan意为「丰收」；卡达山杜顺语称为Tadau Kaamatan，马来语称为Pesta Kaamatan"

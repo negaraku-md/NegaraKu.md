@@ -10,7 +10,7 @@ summary: "沙巴与砂拉越是马来西亚大多数原住民语言的所在地�
 tier: "S"
 mode: "narrative"
 contentType: "guide"
-sensitivity: "race"
+sensitivity: "none"
 answer: "沙巴与砂拉越的原住民社群使用数十种不同的原住民语言，几乎全部属于南岛语系（Austronesian）。语言学家将其中大多数归入一个北婆罗洲语支（North Bornean）。在沙巴，沙巴州政府形容该州有33个原住民群体，使用超过50种语言和约80种方言；语言学家通常将这些语言归入杜孙语族（Dusunic）、姆鲁语族（Murutic）与派丹语族（Paitanic），连同萨马－巴瑶语族（Sama-Bajau，巴瑶语）。沙巴最大的群体是卡达山杜顺人（Kadazan-Dusun）。在砂拉越，2020年人口普查记录的最大原住民群体是伊班人（Iban），其次是比达友人（Bidayuh）与米拉瑙人（Melanau）；他们的语言分属多个语族，包括马来语族（伊班语）、比达友语族（陆达雅语）、米拉瑙－加让语族，以及由卡央人（Kayan）、肯雅人（Kenyah）、克拉比族（Kelabit）与伦巴旺人（Lun Bawang）等上游乌鲁族（Orang Ulu）社群所使用的砂拉越北部语族。其中部分语言——尤其是卡达山杜顺语（Kadazandusun）与伊班语——依据学生母语（Pupil's Own Language）计划在政府学校中教授。"
 keyTakeaways:
   - "沙巴与砂拉越几乎所有原住民语言都属于南岛语系，且大多数归入一个北婆罗洲语支"

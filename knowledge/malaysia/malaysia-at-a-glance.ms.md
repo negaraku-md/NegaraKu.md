@@ -8,7 +8,7 @@ summary: "Satu helaian fakta Malaysia yang disahkan — keluasan tanah, populasi
 tier: "S"
 mode: "practical"
 contentType: "data"
-sensitivity: "constitution"
+sensitivity: "none"
 answer: "Malaysia ialah sebuah monarki berperlembagaan persekutuan yang terdiri daripada 13 negeri dan 3 wilayah persekutuan, meliputi keluasan lebih kurang 330,345 km² (DOSM, 2016). Populasinya dianggarkan 34.2 juta pada 2025, dengan 90.1 peratus daripadanya adalah warganegara (DOSM, 31 Julai 2025). Kuala Lumpur ialah ibu negara perlembagaan dan diraja; Putrajaya ialah pusat pentadbiran kerajaan persekutuan. Mata wangnya ialah ringgit Malaysia (MYR, simbol RM, dibahagikan kepada 100 sen), yang dikeluarkan oleh Bank Negara Malaysia. Bahasa Melayu ialah satu-satunya bahasa kebangsaan di bawah Perkara 152 Perlembagaan Persekutuan. KDNK Nominal bagi 2025 ialah RM2.03 trilion, dengan PNK per kapita pada RM57,200 (DOSM, 15 Mei 2026)."
 keyTakeaways:
   - "Populasi: 34.2 juta pada 2025 (90.1% warganegara, 9.9% bukan warganegara) — DOSM, Current Population Estimates, Malaysia, 2025"

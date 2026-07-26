@@ -8,7 +8,7 @@ summary: "A verified fact-sheet for Malaysia — land area, population, capital,
 tier: "S"
 mode: "practical"
 contentType: "data"
-sensitivity: "constitution"
+sensitivity: "none"
 answer: "Malaysia is a federal constitutional monarchy of 13 states and 3 federal territories, covering about 330,345 km² (DOSM, 2016). Its population was estimated at 34.2 million in 2025, of whom 90.1 per cent were citizens (DOSM, 31 July 2025). Kuala Lumpur is the constitutional and royal capital; Putrajaya is the administrative seat of the federal government. The currency is the Malaysian ringgit (MYR, symbol RM, subdivided into 100 sen), issued by Bank Negara Malaysia. Bahasa Melayu is the sole national language under Article 152 of the Federal Constitution. Nominal GDP for 2025 was RM2.03 trillion, with GNI per capita at RM57,200 (DOSM, 15 May 2026)."
 keyTakeaways:
   - "Population: 34.2 million in 2025 (90.1% citizens, 9.9% non-citizens) — DOSM, Current Population Estimates, Malaysia, 2025"

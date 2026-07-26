@@ -8,7 +8,7 @@ summary: "马来西亚国徽（Jata Negara）每个元素的官方含义——�
 tier: "S"
 mode: "practical"
 contentType: "guide"
-sensitivity: "royalty"
+sensitivity: "none"
 
 answer: "Jata Negara 是马来西亚联邦政府的官方徽章，获马来统治者恩准，并于1952年5月27日宪报颁布；现行生效的设计是通过1990年的《政府宪报 P.U. (B) 563》确立的。徽章上的盾牌承载着所有州属的象征性地图：新月与十四道尖角的星星象征伊斯兰教为联邦的宗教，同时也代表十三个州属与联邦政府；五把马来短剑代表马来属邦（Unfederated Malay States，即柔佛、吉打、玻璃市、吉兰丹、登嘉楼）；四色条纹代表马来联邦（Federated Malay States，即彭亨、雪兰莪、霹雳、森美兰）；马六甲树与槟榔树分别代表马六甲与槟城；沙巴州徽与砂拉越州徽则分别代表这两个州属。两只老虎护持盾牌，象征勇气、英勇与力量；云朵上的黄色是马来统治者的王室专属色；居中的大红花是国花；而格言「Bersekutu Bertambah Mutu」（团结则强）以罗马字书写于左侧、爪夷文书写于右侧。"
 keyTakeaways:

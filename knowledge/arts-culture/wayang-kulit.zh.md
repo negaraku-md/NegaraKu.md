@@ -9,7 +9,7 @@ summary: "大马的皮影戏，以吉兰丹为中心，透过皮革偶、一盏�
 tier: "S"
 mode: "narrative"
 contentType: "guide"
-sensitivity: "religion"
+sensitivity: "none"
 answer: "吉兰丹皮影戏（Wayang Kulit Kelantan）是一种传统马来皮影戏，由一位皮影戏师——Tok Dalang——独自旁白，并为一场通宵演出中的所有角色配音，透过雕刻的皮革偶在打光的幕布上投射成影。它之所以重要，是因为它是把马来表演艺术与更古老的印度教—佛教故事传统连结起来的、现存最清晰的线索之一；也因为自 1990 年代以来的州级限制已把它推向消亡，使其仅存的表演者成为一种确实有限的资源。"
 keyTakeaways:
   - "一位 Tok Dalang（皮影戏师）独自演出，一边操纵雕刻的皮革偶，一边为每个角色配音"

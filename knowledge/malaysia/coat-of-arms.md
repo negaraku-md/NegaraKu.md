@@ -8,7 +8,7 @@ summary: "Maksud rasmi setiap elemen pada Jata Negara Malaysia — anak bulan da
 tier: "S"
 mode: "practical"
 contentType: "guide"
-sensitivity: "royalty"
+sensitivity: "none"
 
 answer: "Jata Negara ialah lambang rasmi Kerajaan Persekutuan Malaysia, diperkenankan oleh Raja-Raja Melayu dan diwartakan pada 27 Mei 1952; reka bentuk yang berkuat kuasa kini ditetapkan melalui Warta Kerajaan P.U. (B) 563 (1990). Perisainya membawa peta simbolik semua negeri: anak bulan dan bintang pecah 14 melambangkan Islam sebagai agama Persekutuan serta 13 buah negeri dan Kerajaan Persekutuan; lima bilah keris mewakili Negeri-negeri Melayu Tidak Bersekutu (Johor, Kedah, Perlis, Kelantan, Terengganu); empat jalur warna mewakili Negeri-negeri Melayu Bersekutu (Pahang, Selangor, Perak, Negeri Sembilan); pokok Melaka dan pokok pinang mewakili Melaka dan Pulau Pinang; jata Sabah dan Sarawak mewakili kedua-dua negeri itu. Dua ekor harimau menyokong perisai melambangkan keberanian, kegagahan dan kekuatan; warna kuning pada awan-awan ialah warna diraja bagi Raja-Raja Melayu; Bunga Raya di tengah ialah bunga kebangsaan; dan cogan 'Bersekutu Bertambah Mutu' ditulis rumi di kiri dan jawi di kanan."
 keyTakeaways:
