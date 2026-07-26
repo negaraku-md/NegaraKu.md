@@ -5,7 +5,7 @@ slug: "chinese-opera"
 category: "arts-culture"
 subcategory: ["performing-arts"]
 summary: "马来西亚华人社群所称的「大戏」——粤剧、潮剧、闽剧（歌仔戏）与布袋戏（潮州铁枝木偶）等传统戏曲——多半不是为普通观众而演，而是为庙宇神诞、盂兰盆会等场合上演的「酬神戏」。本文以描述性方式说明这些戏曲形式及其在马来西亚的呈现方式。"
-tier: "3"
+tier: "4"
 mode: "narrative"
 contentType: "guide"
 sensitivity: "none"

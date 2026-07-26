@@ -5,7 +5,7 @@ slug: "jawi-script"
 category: "arts-culture"
 subcategory: ["languages"]
 summary: "爪夷文是一种以阿拉伯字母为基础、经调整用以书写马来语的书写系统。本文说明其起源、这套书写系统的运作方式、其法律地位，以及它今天的使用情况——以描述性且中立的方式呈现，不采取任何政策立场。"
-tier: "2"
+tier: "4"
 mode: "narrative"
 contentType: "guide"
 sensitivity: "none"

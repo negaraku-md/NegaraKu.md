@@ -6,7 +6,7 @@ slug: "portuguese-melaka-1511"
 category: "malaysia"
 subcategory: ["colonial"]
 summary: "马六甲城堡只抵挡了葡萄牙人十天，但一百三十年后，同一座城堡却抵御荷兰人长达七个月。这两个数字之间的差距，几乎解释了1511年整起事件的全部——也说明了马六甲王室后裔此后迁往何处。"
-tier: "2"
+tier: "4"
 mode: "narrative"
 contentType: "guide"
 answer: "马六甲城于1511年8月24日落入阿丰索·德·阿尔布克尔克（Afonso de Albuquerque）率领的葡萄牙军队手中，此前是一场始于8月10日、长达十天的围城。这场迅速的陷落不仅仅是政治软弱的问题：当时马六甲的防御工事是一座木造城墙的城市，而葡萄牙人则携海军与大炮而来。葡萄牙人此后统治马六甲长达130年，而马六甲的王室世系则于1528年在Johor Lama重新恢复马来统治。"

@@ -7,7 +7,7 @@ slug: "borneo-indigenous-languages"
 category: "arts-culture"
 subcategory: ["languages"]
 summary: "Sabah dan Sarawak menempatkan majoriti bahasa peribumi Malaysia — puluhan bahasa yang dikelompokkan oleh ahli bahasa kepada beberapa rumpun Austronesia. Artikel ini menghuraikan kumpulan-kumpulan utama tersebut secara berfakta dan hormat: bahasa Dusunik, Murutik, Paitanik dan Sama-Bajau di Sabah, serta bahasa Melayik (Iban), Bidayuhik, Melanau-Kajang dan Sarawak Utara di Sarawak, berserta kiraan rasmi dan cara bahasa-bahasa ini diajar pada hari ini."
-tier: "2"
+tier: "4"
 mode: "narrative"
 contentType: "guide"
 sensitivity: "none"

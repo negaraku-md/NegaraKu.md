@@ -7,7 +7,7 @@ category: "arts-culture"
 subcategory: ["festivals"]
 summary: "Thaipusam is a Hindu festival observed by Malaysia's Tamil community, centred on Lord Murugan and best known for the mass pilgrimage to the Batu Caves temple in Gombak, Selangor. This article describes the observance, the chariot processions in Kuala Lumpur and Penang, the 272 steps, and the kavadi — as cultural and logistical facts, without interpreting religious practice."
 
-tier: "2"
+tier: "4"
 mode: "narrative"
 contentType: "guide"
 sensitivity: "none"

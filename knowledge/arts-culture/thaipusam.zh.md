@@ -7,7 +7,7 @@ category: "arts-culture"
 subcategory: ["festivals"]
 summary: "大宝森节（Thaipusam）是马来西亚淡米尔社群庆祝的兴都教节日，以穆鲁干神为中心，最广为人知的是前往雪兰莪州鹅唛（Gombak）黑风洞庙宇的大规模朝圣。本文以文化与后勤事实的角度描述这一庆典、吉隆坡与槟城的圣车游行、272级台阶，以及 kavadi ——不对宗教实践作出诠释。"
 
-tier: "2"
+tier: "4"
 mode: "narrative"
 contentType: "guide"
 sensitivity: "none"

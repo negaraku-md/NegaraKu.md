@@ -5,7 +5,7 @@ slug: "jawi-script"
 category: "arts-culture"
 subcategory: ["languages"]
 summary: "Tulisan Jawi ialah sistem tulisan berasaskan huruf Arab yang disesuaikan untuk menulis bahasa Melayu. Rencana ini menerangkan asal usulnya, cara sistem tulisan itu berfungsi, kedudukannya di sisi undang-undang, dan penggunaannya hari ini — secara deskriptif dan neutral, tanpa mengambil pendirian dasar."
-tier: "3"
+tier: "4"
 mode: "narrative"
 contentType: "guide"
 sensitivity: "none"

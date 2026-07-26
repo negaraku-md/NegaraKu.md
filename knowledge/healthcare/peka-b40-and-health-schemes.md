@@ -5,7 +5,7 @@ slug: "peka-b40-and-health-schemes"
 category: "healthcare"
 subcategory: ["using-the-system"]
 summary: "PeKa B40 (Skim Peduli Kesihatan untuk Kumpulan B40) ialah skim bantuan kesihatan kerajaan di bawah Kementerian Kesihatan Malaysia (KKM), dikendalikan oleh ProtectHealth Corporation Sdn Bhd, untuk penerima Sumbangan Tunai Rahmah (STR) berumur 40 tahun ke atas. Artikel ini menerangkan empat komponen bantuannya, cara kelayakan disahkan secara automatik, dan kenapa ia sering dikelirukan dengan skim berasingan mySalam."
-tier: "3"
+tier: "4"
 mode: "practical"
 contentType: "guide"
 sensitivity: "none"

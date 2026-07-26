@@ -6,7 +6,7 @@ slug: "wayang-kulit"
 category: "arts-culture"
 subcategory: ["performing-arts"]
 summary: "Malaysia's shadow-puppet theatre, centred in Kelantan, tells Ramayana-derived stories through leather puppets, a single lamp and a lone dalang who voices every character — a tradition that religious politics has pushed to the edge of survival."
-tier: "3"
+tier: "4"
 mode: "narrative"
 contentType: "guide"
 sensitivity: "none"

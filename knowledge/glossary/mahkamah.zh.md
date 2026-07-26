@@ -6,7 +6,7 @@ category: "glossary"
 subcategory: ["legal"]
 summary: "Mahkamah（法院）是马来西亚审理及裁决案件的司法机构的统称。该国的法院体系分为两个独立的系统——民事法院（联邦）与沙里亚法庭（州属）——各自有本身的审级。"
 
-tier: "3"
+tier: "4"
 mode: "practical"
 contentType: "glossary"
 sensitivity: "none"

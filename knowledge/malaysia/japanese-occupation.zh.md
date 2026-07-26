@@ -6,7 +6,7 @@ slug: "japanese-occupation"
 category: "malaysia"
 subcategory: ["colonial"]
 summary: "从日军在哥打峇鲁登陆到1945年投降的入侵纪事，取代英国统治的军事行政体制，以及关于马来亚与婆罗洲不同社群如何以不同方式经历这段时期的描述性记录。"
-tier: "2"
+tier: "4"
 mode: "narrative"
 contentType: "guide"
 answer: "日军于1941年12月8日在哥打峇鲁的Kuala Pak Amat登陆，到1942年1月31日，整个马来亚已落入日军控制；新加坡于1942年2月15日投降。占领时期持续约三年八个月，直到1945年日本投降为止。这段时期涉及军事行政、占领货币（香蕉票）、以日语为核心的教育政策、普遍的粮食短缺，以及各社群与地区之间差异极大的经历。"

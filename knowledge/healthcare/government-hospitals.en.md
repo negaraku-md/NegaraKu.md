@@ -6,7 +6,7 @@ category: "healthcare"
 subcategory: ["using-the-system"]
 summary: "Government hospitals under the Ministry of Health Malaysia (KKM) operate as a tiered system — Klinik Kesihatan as the entry point, district hospitals and specialist/state hospitals as the next referral tiers — with charges much lower for citizens than for non-citizens under the Akta Fee 1951. This article explains the referral structure, shows the official charges of one KKM hospital as an example, and explains the reality of waiting times neutrally, without stating figures that cannot be verified."
 
-tier: "2"
+tier: "4"
 mode: "practical"
 contentType: "guide"
 sensitivity: "none"

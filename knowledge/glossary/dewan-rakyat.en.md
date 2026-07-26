@@ -6,7 +6,7 @@ category: "glossary"
 subcategory: ["government"]
 summary: "The Dewan Rakyat is the House of the Malaysian Parliament whose members are elected. Article 46 of the Federal Constitution sets 222 seats and their division among the States and the Federal Territories, while Article 55 sets a maximum term of five years for each Parliament."
 
-tier: "2"
+tier: "4"
 mode: "practical"
 contentType: "glossary"
 

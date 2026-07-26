@@ -5,7 +5,7 @@ slug: "chinese-opera"
 category: "arts-culture"
 subcategory: ["performing-arts"]
 summary: "What Malaysia's Chinese community calls 「Chinese opera」 (大戏) — traditional opera forms such as Cantonese opera, Teochew opera, Hokkien opera (gezaixi) and budaixi (Teochew iron-rod puppetry) — is mostly staged not for an ordinary audience, but as 「god-thanking opera」 (酬神戏) performed on occasions such as temple deity birthdays and the Hungry Ghost Festival. This article describes these opera forms and how they are presented in Malaysia, in a descriptive manner."
-tier: "3"
+tier: "4"
 mode: "narrative"
 contentType: "guide"
 sensitivity: "none"

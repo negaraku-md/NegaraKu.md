@@ -6,7 +6,7 @@ category: "healthcare"
 subcategory: ["using-the-system"]
 summary: "Hospital kerajaan di bawah Kementerian Kesihatan Malaysia (KKM) beroperasi dalam satu sistem berperingkat — Klinik Kesihatan sebagai pintu masuk, hospital daerah dan hospital pakar/negeri sebagai peringkat rujukan seterusnya — dengan caj yang jauh lebih rendah untuk warganegara berbanding bukan warganegara di bawah Akta Fee 1951. Artikel ini menerangkan struktur rujukan, memaparkan caj rasmi sebuah hospital KKM sebagai contoh, dan menjelaskan realiti masa menunggu secara neutral, tanpa menyatakan angka yang tidak dapat disahkan."
 
-tier: "2"
+tier: "4"
 mode: "practical"
 contentType: "guide"
 sensitivity: "none"

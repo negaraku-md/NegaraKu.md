@@ -6,7 +6,7 @@ category: "states"
 subcategory: ["peninsular"]
 summary: "马六甲州概况——首府 Bandaraya Melaka、委任产生而非世袭的州元首（Yang di-Pertua Negeri）制度、2008年UNESCO世界遗产地位，以及一个证实远比旅游业更广阔的州经济结构。"
 
-tier: "2"
+tier: "4"
 mode: "practical"
 contentType: "place"
 

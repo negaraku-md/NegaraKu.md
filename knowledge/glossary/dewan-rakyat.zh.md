@@ -6,7 +6,7 @@ category: "glossary"
 subcategory: ["government"]
 summary: "下议院（Dewan Rakyat）是马来西亚国会中由选举产生议员的一院。联邦宪法第46条规定了222个议席及其在各州属与联邦直辖区之间的分配，而第55条则为每一届国会设定最长五年的任期。"
 
-tier: "2"
+tier: "4"
 mode: "practical"
 contentType: "glossary"
 

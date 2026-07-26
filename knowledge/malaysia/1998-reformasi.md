@@ -7,7 +7,7 @@ slug: "1998-reformasi"
 category: "malaysia"
 subcategory: ["modern"]
 summary: "In 1998 Malaysia's economy contracted 7.4% under the Asian Financial Crisis. On 1-2 September 1998 the government imposed selective capital controls and fixed the ringgit at USD1=RM3.80, and on 2 September the Deputy Prime Minister and Finance Minister was dismissed, triggering the Reformasi protest movement. This article sets out the documented economic measures and political events neutrally, with sources, and without endorsing any account."
-tier: "2"
+tier: "4"
 mode: "narrative"
 contentType: "guide"
 answer: "The Asian Financial Crisis reached Malaysia in the second half of 1997 and drove real GDP down 7.4% in 1998. On 1 September 1998 Bank Negara Malaysia imposed selective exchange (capital) controls, and on 2 September it fixed the ringgit at USD1=RM3.80 while making it non-tradeable offshore; a one-year lock-in on foreign portfolio funds was replaced by a graduated exit levy in February 1999. On the same day, 2 September 1998, Deputy Prime Minister and Finance Minister Anwar Ibrahim was dismissed; he was arrested on 20 September 1998 under the Internal Security Act, and his dismissal set off the Reformasi protest movement. The peg to the US dollar was ended on 21 July 2005 when Malaysia adopted a managed float."

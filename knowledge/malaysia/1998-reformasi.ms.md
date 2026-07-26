@@ -7,7 +7,7 @@ slug: "1998-reformasi"
 category: "malaysia"
 subcategory: ["modern"]
 summary: "Pada tahun 1998, ekonomi Malaysia mengecut 7.4% akibat Krisis Kewangan Asia. Pada 1-2 September 1998 kerajaan mengenakan kawalan modal terpilih dan memancangkan ringgit pada USD1=RM3.80, dan pada 2 September Timbalan Perdana Menteri dan Menteri Kewangan diberhentikan, mencetuskan gerakan protes Reformasi. Artikel ini mengemukakan langkah-langkah ekonomi dan peristiwa politik yang direkodkan secara neutral, dengan sumber, dan tanpa menyokong mana-mana tafsiran."
-tier: "2"
+tier: "4"
 mode: "narrative"
 contentType: "guide"
 answer: "Krisis Kewangan Asia sampai ke Malaysia pada separuh kedua tahun 1997 dan menyebabkan KDNK benar merosot 7.4% pada tahun 1998. Pada 1 September 1998 Bank Negara Malaysia mengenakan kawalan pertukaran (modal) terpilih, dan pada 2 September ia memancangkan ringgit pada USD1=RM3.80 sambil menjadikannya tidak boleh didagangkan di luar pesisir; kunci masuk selama setahun ke atas dana portfolio asing digantikan dengan levi keluar berperingkat pada Februari 1999. Pada hari yang sama, 2 September 1998, Timbalan Perdana Menteri dan Menteri Kewangan Anwar Ibrahim diberhentikan; beliau ditahan pada 20 September 1998 di bawah Akta Keselamatan Dalam Negeri, dan pemberhentiannya mencetuskan gerakan protes Reformasi. Pancang kepada dolar AS ditamatkan pada 21 Julai 2005 apabila Malaysia menerima pakai apungan terurus."

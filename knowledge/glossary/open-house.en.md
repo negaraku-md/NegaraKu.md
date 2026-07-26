@@ -5,7 +5,7 @@ slug: "open-house"
 category: "glossary"
 subcategory: ["culture"]
 summary: "Open house is the practice of inviting neighbours, friends and members of the public of all ethnicities and religions to share a meal at the host's home throughout the festive season — a tradition that began as an Aidilfitri visit but is now also held officially by the government for Chinese New Year, Deepavali and Christmas."
-tier: "3"
+tier: "4"
 mode: "narrative"
 contentType: "guide"
 sensitivity: "none"

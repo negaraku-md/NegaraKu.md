@@ -5,7 +5,7 @@ slug: "coat-of-arms"
 category: "malaysia"
 subcategory: ["identity"]
 summary: "Maksud rasmi setiap elemen pada Jata Negara Malaysia — anak bulan dan bintang pecah 14, dua ekor harimau, lima bilah keris, empat jalur warna Negeri-negeri Melayu Bersekutu, pokok Melaka dan pinang, jata Sabah dan Sarawak, Bunga Raya, awan kuning warna diraja, dan cogan 'Bersekutu Bertambah Mutu' dalam rumi dan jawi — seperti yang dirakamkan Jabatan Penerangan Malaysia. Bersifat deskriptif dan penuh hormat kepada elemen diraja."
-tier: "2"
+tier: "4"
 mode: "practical"
 contentType: "guide"
 sensitivity: "none"

@@ -6,7 +6,7 @@ slug: "kaamatan"
 category: "arts-culture"
 subcategory: ["festivals"]
 summary: "Pesta Kaamatan（丰收节）是沙巴卡达山杜顺人的丰收节庆，是5月30日与31日的公共假期，围绕着对稻米之灵Bambaazon的感恩以及Huminodun的传说而展开。其最广为人知的活动Unduk Ngadau是一场文化选美，旨在纪念这一传说，而非仅仅关乎美貌。"
-tier: "2"
+tier: "4"
 mode: "narrative"
 contentType: "guide"
 sensitivity: "none"

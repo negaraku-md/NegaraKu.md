@@ -5,7 +5,7 @@ slug: "chinese-new-year"
 category: "arts-culture"
 subcategory: ["festivals"]
 summary: "Chinese New Year is the most important annual festival for Malaysia's Chinese community. This article describes, in a descriptive and neutral way, its main customs — the New Year's Eve reunion dinner, ang pow, lion dances, lo hei, and the rhythm of the festive period from New Year's Eve to the Lantern Festival (Chap Goh Meh) — and explains how it is presented and shared within Malaysia's multi-ethnic society, without commenting on any religious belief."
-tier: "2"
+tier: "4"
 mode: "narrative"
 contentType: "guide"
 sensitivity: "none"

@@ -7,7 +7,7 @@ category: "arts-culture"
 subcategory: ["festivals"]
 summary: "Thaipusam ialah perayaan Hindu yang disambut oleh masyarakat Tamil Malaysia, berpusat kepada Lord Murugan dan paling dikenali dengan perarakan besar-besaran ke kuil Batu Caves di Gombak, Selangor. Artikel ini menerangkan sambutan tersebut, perarakan rata di Kuala Lumpur dan Pulau Pinang, 272 anak tangga, dan kavadi — sebagai fakta budaya dan logistik, tanpa mentafsir amalan keagamaan."
 
-tier: "3"
+tier: "4"
 mode: "narrative"
 contentType: "guide"
 sensitivity: "none"

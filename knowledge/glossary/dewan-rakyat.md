@@ -6,7 +6,7 @@ category: "glossary"
 subcategory: ["government"]
 summary: "Dewan Rakyat ialah dewan Parlimen Malaysia yang ahlinya dipilih melalui pilihan raya. Perkara 46 Perlembagaan Persekutuan menetapkan 222 kerusi dan pembahagiannya mengikut Negeri dan Wilayah Persekutuan, manakala Perkara 55 menetapkan tempoh maksimum lima tahun bagi setiap Parlimen."
 
-tier: "2"
+tier: "4"
 mode: "practical"
 contentType: "glossary"
 

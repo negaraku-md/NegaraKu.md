@@ -6,7 +6,7 @@ slug: "gawai-dayak"
 category: "arts-culture"
 subcategory: ["festivals"]
 summary: "达雅节（Gawai Dayak）是砂拉越达雅族社群的丰收节，为6月1日及2日的公共假期，用以感谢稻米丰收。Iban、Bidayuh 与 Orang Ulu 等族群均庆祝此节日，节庆围绕长屋礼俗展开，包括 miring 献祭、ngajat 舞蹈以及午夜的 tuak 祝酒仪式。"
-tier: "2"
+tier: "4"
 mode: "narrative"
 contentType: "guide"
 sensitivity: "none"

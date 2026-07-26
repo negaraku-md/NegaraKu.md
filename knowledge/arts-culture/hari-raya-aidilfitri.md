@@ -5,7 +5,7 @@ slug: "hari-raya-aidilfitri"
 category: "arts-culture"
 subcategory: ["festivals"]
 summary: "Hari Raya Aidilfitri jatuh pada 1 Syawal, menandakan berakhirnya sebulan puasa Ramadan. Rencana ini menerangkan makna dan amalannya secara deskriptif — solat sunat dan zakat fitrah menurut panduan JAKIM, serta amalan sosial seperti balik kampung, duit raya, rumah terbuka dan ziarah — tanpa mentafsir ajaran agama."
-tier: "3"
+tier: "4"
 mode: "practical"
 contentType: "guide"
 sensitivity: "none"

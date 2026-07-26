@@ -6,7 +6,7 @@ category: "glossary"
 subcategory: ["legal"]
 summary: "Mahkamah ialah istilah umum bagi institusi kehakiman yang mendengar dan memutuskan kes di Malaysia. Sistem mahkamah negara ini terbahagi kepada dua aliran berasingan — mahkamah sivil (persekutuan) dan Mahkamah Syariah (negeri) — masing-masing dengan peringkatnya sendiri."
 
-tier: "3"
+tier: "4"
 mode: "practical"
 contentType: "glossary"
 sensitivity: "none"

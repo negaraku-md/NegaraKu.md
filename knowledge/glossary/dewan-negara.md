@@ -6,7 +6,7 @@ category: "glossary"
 subcategory: ["government"]
 summary: "Dewan tinggi (Senat) Parlimen Malaysia — 70 ahli, 26 dipilih oleh Dewan Undangan Negeri dan 44 dilantik oleh Yang di-Pertuan Agong — dan bagaimana caranya berbeza daripada Dewan Rakyat."
 
-tier: "2"
+tier: "4"
 mode: "practical"
 contentType: "glossary"
 

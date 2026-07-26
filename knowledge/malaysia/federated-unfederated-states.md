@@ -6,7 +6,7 @@ slug: "federated-unfederated-states"
 category: "malaysia"
 subcategory: ["colonial"]
 summary: "Before the Second World War the Malay states were not one bloc under Britain but two, governed by two different instruments. Four states — Perak, Selangor, Negeri Sembilan and Pahang — were bound together as the Federated Malay States under a Resident-General in Kuala Lumpur, each Sultan advised by a British Resident whose counsel the treaties required be followed. Five others — Johor, Kedah, Kelantan, Perlis and Terengganu — stayed outside as the Unfederated Malay States, each dealing with Britain individually through a British Adviser, keeping more of their own administration, with Johor insisting its officer be titled General Adviser rather than Resident."
-tier: "2"
+tier: "4"
 mode: "narrative"
 contentType: "guide"
 answer: "The Federated Malay States (FMS) were Perak, Selangor, Negeri Sembilan and Pahang, joined into one federation in 1896 under a British Resident-General at Kuala Lumpur, after Britain's first Resident had been installed in Perak by the Pangkor Treaty of 1874. Each Sultan kept a British Resident whose advice, by treaty, had to be accepted on all matters except Islam and Malay custom. The Unfederated Malay States (UMS) were Johor, Kedah, Kelantan, Perlis and Terengganu — four of them transferred to British protection by the Anglo-Siamese Treaty ratified on 9 July 1909, and Johor from 1885 and 1910. Each dealt with Britain individually through a British Adviser, was not centrally administered from Kuala Lumpur, and retained more of its own administration. Both groupings were dissolved into the Malayan Union on 1 April 1946."

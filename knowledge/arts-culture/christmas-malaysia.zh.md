@@ -6,7 +6,7 @@ category: "arts-culture"
 subcategory: ["festivals"]
 summary: "圣诞节（12月25日）是马来西亚全国性的公共假期。本文以中立的角度描述马来西亚基督教社群如何度过这一天、社会各界如何透过开放门户传统与公共装饰更广泛地庆祝这个节日，以及其公共假期地位的法律依据——包括沙巴额外设立的平安夜州假期。"
 
-tier: "3"
+tier: "4"
 mode: "practical"
 contentType: "guide"
 sensitivity: "none"

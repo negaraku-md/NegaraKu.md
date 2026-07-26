@@ -6,7 +6,7 @@ slug: "federated-unfederated-states"
 category: "malaysia"
 subcategory: ["colonial"]
 summary: "在第二次世界大战之前，马来属邦并非英国治下的单一整体，而是分属两种不同治理工具的两个分组。四个州属——霹雳、雪兰莪、森美兰与彭亨——以马来联邦（Federated Malay States）之名，在吉隆坡一位总参政司（Resident-General）之下联结在一起，每位苏丹皆由一位英国参政司（Resident）辅佐，而条约规定其意见必须获得遵从。另外五个州属——柔佛、吉打、吉兰丹、玻璃市与登嘉楼——则留在此体制之外，成为非联邦马来属邦（Unfederated Malay States），各自透过一位英国顾问官（Adviser）单独与英国打交道，保留更多自身的行政权，其中柔佛坚持其官员的头衔须为总顾问官（General Adviser）而非参政司。"
-tier: "2"
+tier: "4"
 mode: "narrative"
 contentType: "guide"
 answer: "马来联邦（FMS）是霹雳、雪兰莪、森美兰与彭亨，于1896年在吉隆坡一位英国总参政司之下联结为一个联邦——此前，英国首位参政司已依据1874年的邦咯条约（Pangkor Treaty）进驻霹雳。每位苏丹皆保有一位英国参政司，依条约规定，其意见除涉及伊斯兰教与马来习俗外，须在一切事务上获得采纳。非联邦马来属邦（UMS）是柔佛、吉打、吉兰丹、玻璃市与登嘉楼——其中四个州属是依据于1909年7月9日批准的英暹条约（Anglo-Siamese Treaty）而转归英国保护，柔佛则分别于1885年及1910年归入。每个州属各自透过一位英国顾问官与英国单独打交道，并非由吉隆坡集中管理，且保留更多自身的行政权。这两大分组皆于1946年4月1日并入马来亚联邦（Malayan Union）而告解体。"

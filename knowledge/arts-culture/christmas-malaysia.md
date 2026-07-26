@@ -6,7 +6,7 @@ category: "arts-culture"
 subcategory: ["festivals"]
 summary: "Christmas Day (25 December) is a nationwide public holiday in Malaysia. This article describes, neutrally, how the country's Christian community observes the day, how it is marked more widely through the open-house tradition and public decorations, and the statutory basis for its holiday status — including Sabah's additional Christmas Eve state holiday."
 
-tier: "3"
+tier: "4"
 mode: "practical"
 contentType: "guide"
 sensitivity: "none"

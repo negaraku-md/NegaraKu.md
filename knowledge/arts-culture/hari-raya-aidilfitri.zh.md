@@ -5,7 +5,7 @@ slug: "hari-raya-aidilfitri"
 category: "arts-culture"
 subcategory: ["festivals"]
 summary: "开斋节（Hari Raya Aidilfitri）落在开斋月初一（1 Syawal），标志着一个月斋戒月（Ramadan）的结束。本文以描述性的方式说明其意义与习俗——根据JAKIM指南的会礼与开斋捐，以及返乡（balik kampung）、开斋红包（duit raya）、开放门户（rumah terbuka）与走访（ziarah）等社会习俗——而不诠释宗教教义。"
-tier: "3"
+tier: "4"
 mode: "practical"
 contentType: "guide"
 sensitivity: "none"

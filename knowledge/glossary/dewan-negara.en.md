@@ -6,7 +6,7 @@ category: "glossary"
 subcategory: ["government"]
 summary: "The upper house (Senate) of the Malaysian Parliament — 70 members, 26 elected by the State Legislative Assemblies and 44 appointed by the Yang di-Pertuan Agong — and how it differs from the Dewan Rakyat."
 
-tier: "2"
+tier: "4"
 mode: "practical"
 contentType: "glossary"
 

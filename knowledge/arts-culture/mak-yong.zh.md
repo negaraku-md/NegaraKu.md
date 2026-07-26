@@ -6,7 +6,7 @@ slug: "mak-yong"
 category: "arts-culture"
 subcategory: ["performing-arts"]
 summary: "玛蓉剧（Mak Yong）是一种以吉兰丹为中心的传统马来舞蹈剧场，融合了戏剧表演、舞蹈、歌唱与rebab音乐。UNESCO于2005年将其宣布为「人类口头和非物质遗产代表作」（Masterpiece of the Oral and Intangible Heritage of Humanity），并于2008年将其列入《人类非物质文化遗产代表作名录》。"
-tier: "2"
+tier: "4"
 mode: "narrative"
 contentType: "guide"
 sensitivity: "none"

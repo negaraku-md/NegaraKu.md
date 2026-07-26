@@ -6,7 +6,7 @@ slug: "wayang-kulit"
 category: "arts-culture"
 subcategory: ["performing-arts"]
 summary: "大马的皮影戏，以吉兰丹为中心，透过皮革偶、一盏油灯以及一位为每个角色配音的独身 dalang（皮影戏师），演绎源自《罗摩衍那》的故事——一门被宗教政治推向存续边缘的传统。"
-tier: "3"
+tier: "4"
 mode: "narrative"
 contentType: "guide"
 sensitivity: "none"

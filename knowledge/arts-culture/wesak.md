@@ -5,7 +5,7 @@ slug: "wesak"
 category: "arts-culture"
 subcategory: ["festivals"]
 summary: "A descriptive account of Wesak (Vesak) Day in Malaysia — the Buddhist observance that commemorates the birth, enlightenment and passing of the Buddha, held on a full-moon day so the Gregorian date shifts yearly. Covers its national public-holiday status, the officially confirmed 2026 dates, and how it is commonly observed, stated as cultural fact without interpreting doctrine."
-tier: "3"
+tier: "4"
 mode: "practical"
 contentType: "guide"
 answer: "Wesak (also spelt Vesak) Day is a Buddhist observance that, in the tradition, commemorates three events in the life of the Buddha — his birth, his enlightenment and his passing (parinirvana) — held together on a single full-moon day of the lunar month Vesakha. Because it follows the lunar calendar, its date in the Gregorian calendar changes each year, falling around April or May. It is a national public holiday across all states and federal territories of Malaysia, first declared a public holiday in 1962. In 2026 the Malaysian Government (via the National Security Council) confirmed Hari Wesak falls on 31 May 2026 (Sunday); because that is a Sunday, a substitute holiday is given on 2 June 2026 (Tuesday)."

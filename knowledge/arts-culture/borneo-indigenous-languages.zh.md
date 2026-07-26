@@ -7,7 +7,7 @@ slug: "borneo-indigenous-languages"
 category: "arts-culture"
 subcategory: ["languages"]
 summary: "沙巴与砂拉越是马来西亚大多数原住民语言的所在地——数十种语言被语言学家归入几个南岛语系（Austronesian）语族。本文以事实为依据、以尊重的态度描述这些主要语群：沙巴的杜孙语族、姆鲁语族、派丹语族与萨马－巴瑶语族，以及砂拉越的马来语族（伊班）、比达友语族、米拉瑙－加让语族与砂拉越北部语族，同时说明官方统计数字以及这些语言在今日如何被教授。"
-tier: "2"
+tier: "4"
 mode: "narrative"
 contentType: "guide"
 sensitivity: "none"

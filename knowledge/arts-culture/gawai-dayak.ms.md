@@ -6,7 +6,7 @@ slug: "gawai-dayak"
 category: "arts-culture"
 subcategory: ["festivals"]
 summary: "Gawai Dayak ialah perayaan menuai bagi masyarakat Dayak di Sarawak, satu cuti umum pada 1 dan 2 Jun yang bersyukur atas hasil tuaian padi. Ia disambut oleh kaum Iban, Bidayuh dan Orang Ulu, dan berpaksikan ritual rumah panjang seperti persembahan miring, tarian ngajat serta minum tuak beramai-ramai pada tengah malam."
-tier: "2"
+tier: "4"
 mode: "narrative"
 contentType: "guide"
 sensitivity: "none"

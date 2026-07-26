@@ -6,7 +6,7 @@ category: "healthcare"
 subcategory: ["specialised"]
 summary: "马来西亚卫生部（Kementerian Kesihatan Malaysia，KKM）辖下的国家免疫接种计划（Program Imunisasi Kebangsaan，PIK）究竟如何运作——为何在政府诊所免费施打、婴幼儿健康记录册扮演的角色，以及国家免疫接种时间表所涵盖的疾病。本文刻意不列出特定剂量或接种年龄；建议家长向健康诊所或KKM官方网站查询最新时间表。"
 
-tier: "3"
+tier: "4"
 mode: "practical"
 contentType: "guide"
 sensitivity: "none"

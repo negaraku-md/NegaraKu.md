@@ -5,7 +5,7 @@ slug: "malaysia-at-a-glance"
 category: "malaysia"
 subcategory: ["country-basics"]
 summary: "A verified fact-sheet for Malaysia — land area, population, capital, currency, official language and headline economic figures — with every number traced to the specific DOSM, Bank Negara Malaysia or constitutional source that publishes it, and the release date attached so it doesn't quietly go stale."
-tier: "2"
+tier: "4"
 mode: "practical"
 contentType: "data"
 sensitivity: "none"
