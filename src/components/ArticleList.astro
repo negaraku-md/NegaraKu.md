@@ -113,7 +113,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
 ---
 
 <section class="container block art-list">
-  <div class="art-toolbar">
+  <div class="art-toolbar" data-pagefind-ignore>
     {
       (secs.length > 1 || cats.length > 1 || tops.length > 1 || presentStatuses.length > 1) && (
         <div class="tb-line">
@@ -177,7 +177,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
     </div>
   </div>
 
-  <div class="pager pager-top">
+  <div class="pager pager-top" data-pagefind-ignore>
     <div class="pg-size">
       <label>{L('Baris', 'Rows', '每页')}
         <select class="pg-size-sel">
@@ -203,7 +203,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
 
   <div class="acards" id="alist-body"></div>
 
-  <div class="pager">
+  <div class="pager" data-pagefind-ignore>
     <div class="pg-size">
       <label>{L('Baris', 'Rows', '每页')}
         <select class="pg-size-sel">

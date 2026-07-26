@@ -13,7 +13,7 @@ interface Props {
 const { locale, path } = Astro.props;
 ---
 
-<header class="site-header">
+<header class="site-header" data-pagefind-ignore>
   <div class="container bar">
     <a class="brand" href={localePath('/', locale)} aria-label="NegaraKu.md">
       <svg class="brand-mark" aria-hidden="true" width="22" height="22" viewBox="0 0 24 24">

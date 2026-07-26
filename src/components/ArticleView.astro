@@ -168,7 +168,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
 
 <header class="art-hero">
   <div class="container">
-    <p class="crumb">
+    <p class="crumb" data-pagefind-ignore>
       <a href={localePath('/', locale)}>{L('Laman Utama', 'Home', '首页')}</a> /
       {pillarDef && (
         <>
@@ -186,7 +186,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
       )}
     </p>
 
-    <div class="badges">
+    <div class="badges" data-pagefind-ignore>
       <span class="pill mode">
         {
           d.mode === 'narrative'
@@ -416,7 +416,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
 
       {
         related.length > 0 && (
-          <section class="rel">
+          <section class="rel" data-pagefind-ignore>
             <header><span class="sec-h"><span class="ico" set:html={ICON.related} />{L('Pengetahuan berkaitan', 'Related knowledge', '相关知识')}</span></header>
             <div class="rel-body">
               <div class="rgrid">
@@ -442,7 +442,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
 
     </div>
 
-    <aside class="side">
+    <aside class="side" data-pagefind-ignore>
       {
         toc.length > 0 && (
           <nav class="toc">

@@ -47,7 +47,7 @@ const issueUrl = (kind: 'error' | 'improve' | 'topic') => {
 const shareText = encodeURIComponent(title);
 ---
 
-<div class="fb">
+<div class="fb" data-pagefind-ignore>
   <section class="fb-sec" aria-labelledby="fb-h">
     <header><span id="fb-h">{L('Adakah ini membantu?', 'Was this helpful?', '这篇内容有帮助吗？')}</span></header>
     <div class="fb-body">

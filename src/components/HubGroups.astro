@@ -44,7 +44,7 @@ const topicCount = (t: string) => catArticles.filter((a) => a.data.subcategory.i
 
 {topSeparator && <hr class="gsep-full" />}
 
-<div class="container block hub-groups">
+<div class="container block hub-groups" data-pagefind-ignore>
   {
     topics.length > 0 && (
       <section class={`psec${goldGroup === 'topics' ? ' psec-gold' : ''}`}>

@@ -121,7 +121,7 @@ const htmlLang = locale === 'zh' ? 'zh-Hans' : locale === 'ms' ? 'ms-MY' : 'en';
     {jsonLd && <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />}
   </head>
   <body>
-    <a class="skip-link" href="#main">{t('a11y.skip', locale)}</a>
+    <a class="skip-link" href="#main" data-pagefind-ignore>{t('a11y.skip', locale)}</a>
     <Header locale={locale} path={path} />
     <main id="main">
       <slot />

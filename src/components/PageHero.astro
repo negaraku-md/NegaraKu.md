@@ -29,7 +29,7 @@ const descIdx = desc ? desc.indexOf(WM) : -1;
 <header class="page-hero">
   <div class="container hero-inner">
     <div class="hero-lead">
-      <p class="crumb">
+      <p class="crumb" data-pagefind-ignore>
         {
           crumb.map((c, i) => (
             <>
@@ -66,7 +66,7 @@ const descIdx = desc ? desc.indexOf(WM) : -1;
     </div>
     {
       stats && stats.length > 0 && (
-        <dl class="stats">
+        <dl class="stats" data-pagefind-ignore>
           {stats.map((s) => (
             <div class="stat">
               <dt>{s.value}</dt>
