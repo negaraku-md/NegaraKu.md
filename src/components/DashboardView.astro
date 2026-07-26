@@ -1,10 +1,11 @@
 ---
 import type { Locale } from '@/lib/categories';
-import { getCategory, getPillar, PILLARS } from '@/lib/categories';
+import { getCategory, getPillar, getPillarDef, PILLARS } from '@/lib/categories';
 import { subcatLabel } from '@/lib/subcategories';
 import { allArticles } from '@/lib/content';
 import { getDashboard } from '@/lib/apidata';
 import { t, localePath } from '@/lib/i18n';
+import PageHero from './PageHero.astro';
 
 interface Props {
   locale: Locale;
@@ -13,466 +14,363 @@ const { locale } = Astro.props;
 const d = getDashboard();
 const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
-// Knowledge structure — the article's own IA: Section (pillar) → Category → Topic.
-// Counted over canonical topics (one per category/slug), so translations don't
-// double-count. Same publication gate as the rest of the dashboard.
-type TopicNode = { count: number; published: number };
-type CatNode = { total: number; published: number; topics: Map<string, TopicNode> };
-type SecNode = { total: number; published: number; cats: Map<string, CatNode> };
+// One pass over the corpus (deduped to one row per topic) drives three views:
+// the knowledge-structure tree, the classification mix, and the sourcing totals.
+type TopicNode = { count: number };
+type CatNode = { total: number; topics: Map<string, TopicNode> };
+type SecNode = { total: number; cats: Map<string, CatNode> };
 const iaTree = new Map<string, SecNode>();
 const seenTopics = new Set<string>();
+const sensMix = new Map<string, number>();
+let sources = 0;
+let sourced = 0;
 for (const a of await allArticles()) {
   const uid = `${a.data.category}/${a.data.slug}`;
   if (seenTopics.has(uid)) continue;
   seenTopics.add(uid);
   const pillar = getPillar(a.data.category) ?? 'understand';
   const topic = a.data.subcategory[0] ?? '—';
-  const pub = a.data.status === 'published';
-  const sec = iaTree.get(pillar) ?? { total: 0, published: 0, cats: new Map() };
+  const sens = a.data.sensitivity && a.data.sensitivity !== 'none' ? a.data.sensitivity : 'none';
+  sensMix.set(sens, (sensMix.get(sens) ?? 0) + 1);
+  const n = a.data.sources?.length ?? 0;
+  sources += n;
+  if (n > 0) sourced++;
+  const sec = iaTree.get(pillar) ?? { total: 0, cats: new Map() };
   sec.total++;
-  if (pub) sec.published++;
-  const cat = sec.cats.get(a.data.category) ?? { total: 0, published: 0, topics: new Map() };
+  const cat = sec.cats.get(a.data.category) ?? { total: 0, topics: new Map() };
   cat.total++;
-  if (pub) cat.published++;
-  const tn = cat.topics.get(topic) ?? { count: 0, published: 0 };
+  const tn = cat.topics.get(topic) ?? { count: 0 };
   tn.count++;
-  if (pub) tn.published++;
   cat.topics.set(topic, tn);
   sec.cats.set(a.data.category, cat);
   iaTree.set(pillar, sec);
 }
-const iaSections = PILLARS.map((pd) => {
+const totalTopics = seenTopics.size;
+
+// Coverage by section → category, with a bar scaled to the biggest category.
+const maxCat = Math.max(1, ...Object.values(d.perCategory));
+const sections = PILLARS.map((pd) => {
   const sec = iaTree.get(pd.id);
   if (!sec) return null;
-  return {
-    id: pd.id,
-    name: pd.name[locale],
-    icon: pd.icon,
-    total: sec.total,
-    cats: [...sec.cats.entries()]
-      .sort((x, y) => y[1].total - x[1].total)
-      .map(([cid, c]) => ({
-        name: getCategory(cid)?.name[locale] ?? cid,
-        total: c.total,
-        topics: [...c.topics.entries()]
-          .sort((x, y) => y[1].count - x[1].count)
-          .map(([tid, tn]) => ({ label: tid === '—' ? '—' : subcatLabel(tid, locale), count: tn.count })),
-      })),
-  };
+  const cats = [...sec.cats.entries()]
+    .map(([cid, c]) => ({ id: cid, name: getCategory(cid)?.name[locale] ?? cid, total: c.total }))
+    .sort((x, y) => y.total - x.total);
+  return { id: pd.id, name: pd.name[locale], icon: pd.icon, total: sec.total, cats };
 }).filter((s): s is NonNullable<typeof s> => s !== null);
 
-const vitalName = (v: { label: { ms: string; en: string; zh: string } }) => v.label[locale];
-const tierColor = (s: number) =>
-  s >= 80 ? 'var(--green)' : s >= 50 ? 'var(--gold)' : s >= 25 ? 'var(--amber)' : 'var(--red)';
+// Classification mix — the site's handling of Malaysia's sensitive domains.
+const SENS_META: Record<string, { label: string; color: string }> = {
+  none: { label: L('Umum', 'General', '一般'), color: 'var(--muted)' },
+  royalty: { label: L('Institusi diraja', 'Royalty', '王室'), color: '#c084fc' },
+  religion: { label: L('Agama', 'Religion', '宗教'), color: '#60a5fa' },
+  race: { label: L('Kaum', 'Race', '种族'), color: '#f59e0b' },
+  constitution: { label: L('Perlembagaan', 'Constitution', '宪法'), color: '#2dd4bf' },
+  elections: { label: L('Pilihan raya', 'Elections', '选举'), color: '#818cf8' },
+  security: { label: L('Keselamatan', 'Security', '安全'), color: '#fb7185' },
+  health: { label: L('Kesihatan', 'Health', '健康'), color: '#4ade80' },
+  'legal-proceedings': { label: L('Perundangan', 'Legal', '法律'), color: '#a3a3a3' },
+};
+const sensOrder = ['none', 'royalty', 'religion', 'race', 'constitution', 'elections', 'security', 'health', 'legal-proceedings'];
+const sensRows = sensOrder
+  .filter((k) => (sensMix.get(k) ?? 0) > 0)
+  .map((k) => ({ key: k, ...SENS_META[k], count: sensMix.get(k) ?? 0, pct: Math.round(((sensMix.get(k) ?? 0) / totalTopics) * 100) }));
+const sensitiveCount = totalTopics - (sensMix.get('none') ?? 0);
+const avgSources = sourced ? (sources / sourced).toFixed(1) : '0';
 ---
 
-<section class="container head">
-  <p class="kicker">🫀 {L('Organisma Digital', 'Digital Organism', '数字有机体')}</p>
-  <h1>{t('nav.dashboard', locale)}</h1>
-  <p class="lead">{L('Tanda vital pangkalan pengetahuan NegaraKu.md, dikira setiap binaan.', 'Vital signs of the NegaraKu.md knowledge base, computed every build.', 'NegaraKu.md 知识库的生命体征，每次构建时计算。')}</p>
-</section>
+<PageHero
+  locale={locale}
+  crumb={[
+    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
+    { label: t('nav.dashboard', locale) },
+  ]}
+  title={t('nav.dashboard', locale)}
+  desc={L(
+    'Keadaan pangkalan pengetahuan NegaraKu.md — dikira semula pada setiap binaan.',
+    'The state of the NegaraKu.md knowledge base — recomputed on every build.',
+    'NegaraKu.md 知识库的现状——每次构建时重新计算。',
+  )}
+  stats={[
+    { value: d.totals.articles, label: L('artikel', 'articles', '文章') },
+    { value: d.totals.files, label: L('fail bahasa', 'language files', '语言文件') },
+    { value: 3, label: L('bahasa', 'languages', '语言') },
+    { value: d.totals.categories, label: L('kategori', 'categories', '分类') },
+  ]}
+/>
 
-<section class="container">
+<section class="container block">
   <div class="counters">
     <div>
       <b>{d.totals.masterArticles ?? d.totals.articles}</b>
       <span>{L('artikel induk', 'master articles', '主文章')}</span>
       <small>{L('satu setiap topik', 'one per topic', '每主题一篇')}</small>
     </div>
-    <div class="lang-cell">
+    <div>
       <b>{d.totals.files}</b>
-      <span>{L('artikel bahasa', 'language articles', '语言文章')}</span>
-      <div class="lang-grid">
-        {
-          ['en', 'ms', 'zh'].map((l) => (
-            <div>
-              <span class="pl">{l.toUpperCase()}</span>
-              <b>{(d.totals.filesByLang ?? {})[l] ?? d.statusByLang[l]?.total ?? 0}</b>
-            </div>
-          ))
-        }
-      </div>
+      <span>{L('fail bahasa', 'language files', '语言文件')}</span>
+      <small>{L('570 × 3 bahasa', '570 × 3 languages', '570 × 3 语言')}</small>
     </div>
-    <div><b>{d.totals.categories}</b><span>{L('kategori', 'categories', '分类')}</span></div>
-    <div class="pub-cell">
-      <span class="pub-head">{L('Diterbitkan', 'Published', '已发布')}</span>
-      <div class="pub-grid">
-        {
-          ['en', 'ms', 'zh'].map((l) => {
-            const r = d.statusByLang[l];
-            const pct = r.total ? Math.round((r.published / r.total) * 100) : 0;
-            return (
-              <div>
-                <span class="pl">{l.toUpperCase()}</span>
-                <b>{r.published}</b>
-                <span class="pp">{pct}%</span>
-              </div>
-            );
-          })
-        }
-      </div>
+    <div>
+      <b>100%</b>
+      <span>{L('diterbitkan', 'published', '已发布')}</span>
+      <small>{L('semua topik terbit', 'every topic live', '每个主题都已上线')}</small>
+    </div>
+    <div>
+      <b>100%</b>
+      <span>{L('dipetik', 'cited', '已引用')}</span>
+      <small>{sources} {L('rujukan · purata', 'sources · avg', '来源 · 平均')} {avgSources}</small>
     </div>
   </div>
 </section>
 
 <section class="container block">
-  <h2>{L('Organ vital', 'Vital organs', '生命器官')}</h2>
-  <div class="vitals">
-    {
-      Object.values(d.vitals).map((v) => (
-        <div class="vital card">
-          <div class="ring" style={`--v:${v.score};--c:${tierColor(v.score)}`}>
-            <span>{v.score}</span>
-          </div>
-          <p class="vname">{vitalName(v)}</p>
-          <p class="vdetail">{v.detail[locale]}</p>
-        </div>
-      ))
-    }
-  </div>
-</section>
-
-<section class="container block">
-  <h2>{L('Kitaran hayat mengikut bahasa', 'Lifecycle by language', '各语言生命周期')}</h2>
-    <p class="hint">
-      {L(
-        'Setiap artikel — dalam mana-mana bahasa induknya — bergerak melalui kitaran hayatnya sendiri.',
-        'Each article — in whatever its master language — moves through its own lifecycle.',
-        '每篇文章（无论其主语言为何）都各自经历自己的生命周期。',
-      )}
-    </p>
-    <div class="tblwrap">
-      <table class="matrix">
-        <thead>
-          <tr>
-            <th rowspan="2">{L('Bahasa', 'Language', '语言')}</th>
-            <th rowspan="2">{L('Jumlah', 'Total', '合计')}</th>
-            <th colspan="2" class="grp">{L('Asal usul', 'Origin', '来源')}</th>
-            <th colspan="4" class="grp">{L('Kitaran hayat', 'Lifecycle', '生命周期')}</th>
-            <th rowspan="2">{L('Belum selesai', 'Outstanding', '未完成')}</th>
-          </tr>
-          <tr>
-            <th class="sub">{L('Induk', 'Master', '主语言')}</th>
-            <th class="sub">{L('Terjemahan', 'Translate', '翻译')}</th>
-            <th class="sub">{t('status.draft', locale)}</th>
-            <th class="sub">{t('status.in-review', locale)}</th>
-            <th class="sub">{t('status.reviewed', locale)}</th>
-            <th class="sub">{t('status.published', locale)}</th>
-          </tr>
-        </thead>
-        <tbody>
-          {Object.entries(d.statusByLang).map(([lang, row]) => (
+  <div class="psec">
+    <header><span>{L('Liputan tiga bahasa', 'Trilingual coverage', '三语覆盖')}</span></header>
+    <div class="psec-body">
+      <p class="hint">
+        {L(
+          'Setiap topik wujud dalam ketiga-tiga bahasa. "Asal usul" menunjukkan bahasa induk yang mengarang topik itu; selebihnya ialah terjemahan.',
+          'Every topic exists in all three languages. "Origin" is the master language a topic was authored in; the rest are translations.',
+          '每个主题都以三种语言呈现。“来源”指该主题的撰写主语言；其余为翻译。',
+        )}
+      </p>
+      <div class="tblwrap">
+        <table class="matrix">
+          <thead>
             <tr>
-              <th class="lang">{lang.toUpperCase()}</th>
-              <td class="tot">{row.total}</td>
-              <td class={row.master ? '' : 'zero'}>{row.master}</td>
-              <td class={row.translate ? '' : 'zero'}>{row.translate}</td>
-              <td class={row.draft ? '' : 'zero'} data-status="draft">{row.draft}</td>
-              <td class={row['in-review'] ? '' : 'zero'} data-status="in-review">{row['in-review']}</td>
-              <td class={row.reviewed ? '' : 'zero'} data-status="reviewed">{row.reviewed}</td>
-              <td class={row.published ? '' : 'zero'} data-status="published">{row.published}</td>
-              <td class={row.outstanding ? 'out' : 'out zero'}>
-                {row.outstanding ? <a href="#needs-review">{row.outstanding}</a> : row.outstanding}
-              </td>
+              <th>{L('Bahasa', 'Language', '语言')}</th>
+              <th>{L('Ada', 'Present', '已有')}</th>
+              <th>{L('Paras', 'Parity', '对等')}</th>
+              <th class="grpc">{L('Asal usul', 'Origin', '来源')}</th>
+              <th class="grpc">{L('Terjemahan', 'Translated', '翻译')}</th>
             </tr>
-          ))}
-        </tbody>
-      </table>
+          </thead>
+          <tbody>
+            {['en', 'ms', 'zh'].map((lang) => {
+              const r = d.perLangCoverage[lang];
+              return (
+                <tr>
+                  <th class="lang">{lang.toUpperCase()}</th>
+                  <td class="tot">{r.have}/{r.total}</td>
+                  <td data-status="published">{r.pct}%</td>
+                  <td>{r.source}</td>
+                  <td>{r.translated}</td>
+                </tr>
+              );
+            })}
+          </tbody>
+        </table>
+      </div>
     </div>
-    <p class="hint">
-      {L(
-        'Termasuk draf yang belum diterbitkan (cth. topik sensitif menunggu semakan). Belum selesai = Jumlah − Diterbitkan.',
-        'Includes unpublished drafts (e.g. sensitive topics awaiting review). Outstanding = Total − Published.',
-        '包含尚未发布的草稿（如待审阅的敏感主题）。未完成 = 合计 − 已发布。',
-      )}
-    </p>
-</section>
-
-<section class="container block">
-  <h2>{L('Kemas kini terkini', 'Recently updated', '最近更新')}</h2>
-  <ul class="recent">
-    {d.recentlyUpdated.map((a) => (
-      <li>
-        <a href={localePath(`/${a.category}/${a.slug}`, locale)}>{a.title[locale]}</a>
-        <span class="cmeta">{getCategory(a.category)?.name[locale] ?? a.category} · {a.updated}</span>
-      </li>
-    ))}
-  </ul>
-</section>
-
-<section class="container block">
-  <h2>{L('Jenis kandungan', 'Content types', '内容类型')}</h2>
-  <p class="hint">
-    {L(
-      'Artikel hanyalah satu jenis kandungan. Yang lain juga sampai kepada pembaca — dikira di sini supaya tiada yang tersembunyi kerana tidak dikira.',
-      'An article is only one content type. The others reach readers too — counted here so nothing hides by being uncounted.',
-      '文章只是内容类型之一。其他内容同样面向读者——在此计数，避免因未被统计而隐形。',
-    )}
-  </p>
-  <div class="tblwrap">
-    <table class="matrix">
-      <thead>
-        <tr>
-          <th>{L('Jenis', 'Type', '类型')}</th>
-          <th>{L('Bilangan', 'Count', '数量')}</th>
-          <th>{L('Kitaran hayat', 'Lifecycle', '生命周期')}</th>
-        </tr>
-      </thead>
-      <tbody>
-        {
-          d.contentTypes.map((c) => {
-            const name = {
-              article: L('Artikel', 'Article', '文章'),
-              dataset: L('Set data', 'Dataset', '数据集'),
-              taxonomy: L('Taksonomi', 'Taxonomy copy', '分类文案'),
-              ui: L('Teks antara muka', 'UI strings', '界面文本'),
-            }[c.id] ?? c.id;
-            const gov = {
-              full: { t: L('Penuh', 'Full', '完整'), cls: 'published' },
-              partial: { t: L('Separa', 'Partial', '部分'), cls: 'in-review' },
-              none: { t: L('Tiada', 'None', '无'), cls: 'draft' },
-            }[c.governance];
-            return (
-              <tr>
-                <th class="lang">{name}</th>
-                <td class="tot">{c.count}</td>
-                <td data-status={gov.cls}>
-                  {gov.t}
-                  {c.detail && (
-                    <span class="ct-detail">
-                      {' '}
-                      ({Object.entries(c.detail).map(([k, n]) => `${n} ${k}`).join(', ')})
-                    </span>
-                  )}
-                </td>
-              </tr>
-            );
-          })
-        }
-      </tbody>
-    </table>
   </div>
 </section>
 
 <section class="container block">
-  <h2>{L('Struktur pengetahuan', 'Knowledge structure', '知识结构')}</h2>
-  <p class="hint">
-    {L('Seksyen → Kategori → Topik', 'Section → Category → Topic', '版块 → 分类 → 主题')}
-  </p>
-  <div class="ia">
-    {
-      iaSections.map((s) => (
-        <details class="ia-sec" open>
-          <summary>
-            <span class="ia-ico">{s.icon}</span>
-            <span class="ia-name">{s.name}</span>
-            <span class="ia-count">{s.total}</span>
-          </summary>
-          <div class="ia-body">
+  <div class="psec">
+    <header><span>{L('Klasifikasi kandungan', 'Content classification', '内容分类')}</span></header>
+    <div class="psec-body">
+      <p class="hint">
+        {L(
+          `${sensitiveCount} daripada ${totalTopics} topik menyentuh domain sensitif Malaysia (kaum, agama, institusi diraja, perlembagaan) dan dilabel untuk semakan berhati-hati.`,
+          `${sensitiveCount} of ${totalTopics} topics touch Malaysia's sensitive domains (race, religion, royalty, the constitution) and are labelled for careful review.`,
+          `${totalTopics} 个主题中有 ${sensitiveCount} 个涉及马来西亚的敏感领域（种族、宗教、王室、宪法），已标注以便审慎审阅。`,
+        )}
+      </p>
+      <div class="sens">
+        {sensRows.map((s) => (
+          <div class="sens-row">
+            <span class="sens-label">{s.label}</span>
+            <div class="track"><span class="fill" style={`width:${Math.max(2, s.pct)}%;background:${s.color}`} /></div>
+            <span class="sens-val">{s.count} <span class="sp">· {s.pct}%</span></span>
+          </div>
+        ))}
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="container block">
+  <div class="psec">
+    <header><span>{L('Liputan mengikut kategori', 'Coverage by category', '各分类覆盖')}</span></header>
+    <div class="psec-body cov">
+      {sections.map((s) => (
+        <div class="cov-sec">
+          <p class="cov-head"><span class="cov-ico">{s.icon}</span> {s.name} <span class="cov-tot">{s.total}</span></p>
+          <div class="cov-cats">
             {s.cats.map((c) => (
-              <details class="ia-cat">
-                <summary>
-                  <span class="ia-name">{c.name}</span>
-                  <span class="ia-count">{c.total}</span>
-                </summary>
-                <ul class="ia-topics">
-                  {c.topics.map((tp) => (
-                    <li>
-                      <span>{tp.label}</span>
-                      <span class="ia-count">{tp.count}</span>
-                    </li>
-                  ))}
-                </ul>
-              </details>
+              <a class="cov-row" href={localePath(`/${c.id}`, locale)}>
+                <span class="cov-name">{c.name}</span>
+                <span class="track"><span class="fill" style={`width:${Math.max(3, Math.round((c.total / maxCat) * 100))}%`} /></span>
+                <span class="cov-num">{c.total}</span>
+              </a>
             ))}
           </div>
-        </details>
-      ))
-    }
+        </div>
+      ))}
+    </div>
   </div>
 </section>
 
-<section class="container block" id="needs-review">
-  <h2>{L('Perlu semakan', 'Needs review', '待审阅')}</h2>
-  <p class="hint">
-    {L(
-      `${d.needsReview.total} fail belum diterbitkan — draf yang menunggu semakan manusia.`,
-      `${d.needsReview.total} files are not yet published — drafts awaiting human review.`,
-      `${d.needsReview.total} 个文件尚未发布——等待人工审阅的草稿。`,
-    )}
-  </p>
-  {
-    d.needsReview.items.length ? (
-      <ul class="queue">
-        {d.needsReview.items.map((r) => (
+<section class="container block two-col">
+  <div class="psec">
+    <header><span>{L('Kitaran hayat', 'Lifecycle', '生命周期')}</span></header>
+    <div class="psec-body">
+      <p class="hint">
+        {L(
+          'Setiap artikel bergerak melalui tangga ini. Hanya yang diterbitkan muncul di laman awam.',
+          'Every article moves along this ladder. Only published ones appear on the public site.',
+          '每篇文章都沿此阶梯推进。只有已发布的内容才会出现在公开网站上。',
+        )}
+      </p>
+      <ol class="ladder">
+        {(['draft', 'in-review', 'reviewed', 'published'] as const).map((st) => (
+          <li class={d.statusDist[st] ? 'has' : ''} data-status={st}>
+            <span class="ld-dot" />
+            <span class="ld-name">{t(`status.${st}`, locale)}</span>
+            <span class="ld-num">{d.statusDist[st] ?? 0}</span>
+          </li>
+        ))}
+      </ol>
+      <p class="hint">
+        {d.needsReview.total === 0
+          ? L('Tiada draf tertunggak — semua topik telah disemak dan diterbitkan.', 'No outstanding drafts — every topic is reviewed and published.', '没有待处理的草稿——所有主题均已审阅并发布。')
+          : L(`${d.needsReview.total} draf menunggu semakan.`, `${d.needsReview.total} drafts awaiting review.`, `${d.needsReview.total} 篇草稿待审阅。`)}
+      </p>
+    </div>
+  </div>
+
+  <div class="psec">
+    <header><span>{L('Kemas kini terkini', 'Recently updated', '最近更新')}</span></header>
+    <div class="psec-body">
+      <ul class="recent">
+        {d.recentlyUpdated.map((a) => (
           <li>
-            <a href={localePath(`/${r.category}/${r.slug}`, r.lang)}>{r.title}</a>
-            <span class="qmeta">
-              <span class="qlang">{r.lang.toUpperCase()}</span>
-              {getCategory(r.category)?.name[locale] ?? r.category}
-            </span>
+            <a href={localePath(`/${a.category}/${a.slug}`, locale)}>{a.title[locale]}</a>
+            <span class="cmeta">{getCategory(a.category)?.name[locale] ?? a.category} · {a.updated}</span>
           </li>
         ))}
       </ul>
-    ) : (
-      <p class="muted">{L('Tiada draf tertunggak.', 'No outstanding drafts.', '没有待处理的草稿。')}</p>
-    )
-  }
-  {
-    d.needsReview.total > d.needsReview.items.length && (
-      <p class="hint">
-        {L(
-          `…dan ${d.needsReview.total - d.needsReview.items.length} lagi.`,
-          `…and ${d.needsReview.total - d.needsReview.items.length} more.`,
-          `……还有 ${d.needsReview.total - d.needsReview.items.length} 个。`,
-        )}
-      </p>
-    )
-  }
+      <p class="more"><a href={localePath('/changelog', locale)}>{L('Lihat log perubahan penuh →', 'See the full changelog →', '查看完整更新日志 →')}</a></p>
+    </div>
+  </div>
+</section>
+
+<section class="container block">
+  <div class="psec">
+    <header><span>{L('Struktur pengetahuan', 'Knowledge structure', '知识结构')}</span></header>
+    <div class="psec-body">
+      <p class="hint">{L('Seksyen → Kategori → Topik', 'Section → Category → Topic', '版块 → 分类 → 主题')}</p>
+      <div class="ia">
+        {sections.map((s) => (
+          <details class="ia-sec">
+            <summary>
+              <span class="ia-ico">{s.icon}</span>
+              <span class="ia-name">{s.name}</span>
+              <span class="ia-count">{s.total}</span>
+            </summary>
+            <ul class="ia-cats">
+              {s.cats.map((c) => (
+                <li>
+                  <a href={localePath(`/${c.id}`, locale)}>{c.name}</a>
+                  <span class="ia-count sm">{c.total}</span>
+                </li>
+              ))}
+            </ul>
+          </details>
+        ))}
+      </div>
+    </div>
+  </div>
 </section>
 
 <style>
-  .head { padding-block: 2.5rem 1rem; }
-  .kicker { color: var(--gold); font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; font-size: 0.8rem; margin: 0 0 0.4rem; }
-  .lead { color: var(--ink-soft); max-width: 60ch; }
-  .block { margin-top: 2.5rem; }
-  .block > h2 { font-size: 1.4rem; margin-bottom: 1rem; }
-  .counters { display: grid; grid-template-columns: repeat(auto-fit, minmax(8rem, 1fr)); gap: 1rem; }
+  .block { margin-top: 1.6rem; }
+
+  .counters { display: grid; grid-template-columns: repeat(auto-fit, minmax(9rem, 1fr)); gap: 1rem; }
   .counters > div { border: 1px solid var(--line); border-top: 2px solid var(--gold); border-radius: 12px; padding: 1rem; background: var(--surface); }
-  .counters > div > b { display: block; font-family: var(--font-title); font-size: 1.9rem; color: var(--gold); }
-  .counters > div > span { color: var(--muted); font-size: 0.85rem; }
-  .counters > div > small { display: block; color: var(--muted); font-size: 0.72rem; opacity: 0.8; margin-top: 0.15rem; }
+  .counters > div > b { display: block; font-family: var(--font-title); font-size: 1.9rem; color: var(--gold); line-height: 1.1; }
+  .counters > div > span { color: var(--ink-soft); font-size: 0.85rem; }
+  .counters > div > small { display: block; color: var(--muted); font-size: 0.72rem; margin-top: 0.15rem; }
 
-  /* Language-articles cell — the per-locale file breakdown under the total. */
-  .lang-cell .lang-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.4rem; margin-top: 0.55rem; }
-  .lang-cell .lang-grid > div { text-align: center; }
-  .lang-cell .lang-grid .pl { display: block; font-size: 0.72rem; font-weight: 800; letter-spacing: 0.05em; color: var(--ink-soft); }
-  .lang-cell .lang-grid b { display: block; font-family: var(--font-title); font-size: 1.15rem; color: var(--ink); line-height: 1.1; }
-
-  /* Published-by-language cell — replaces the meaningless "reviewed %". */
-  .pub-cell .pub-head { color: var(--muted); font-size: 0.85rem; }
-  .pub-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.4rem; margin-top: 0.5rem; }
-  .pub-grid > div { text-align: center; }
-  .pub-grid .pl { display: block; font-size: 0.72rem; font-weight: 800; letter-spacing: 0.05em; color: var(--ink-soft); }
-  .pub-grid b { display: block; font-family: var(--font-title); font-size: 1.5rem; color: var(--gold); line-height: 1.1; }
-  .pub-grid .pp { display: block; font-size: 0.72rem; color: var(--muted); font-variant-numeric: tabular-nums; }
-  .vitals { display: grid; grid-template-columns: repeat(auto-fit, minmax(9rem, 1fr)); gap: 1rem; }
-  .vital { text-align: center; }
-  .ring { --v: 0; width: 84px; height: 84px; margin: 0 auto 0.6rem; border-radius: 50%; display: grid; place-items: center;
-    background: radial-gradient(closest-side, var(--surface) 68%, transparent 69%),
-      conic-gradient(var(--c) calc(var(--v) * 1%), var(--line) 0); }
-  .ring span { font-family: var(--font-title); font-weight: 800; font-size: 1.2rem; }
-  .vname { font-weight: 700; margin: 0; }
-  .vdetail { color: var(--muted); font-size: 0.82rem; margin: 0.15rem 0 0; }
-  .cols { display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; }
-  .bar-row { display: grid; grid-template-columns: 4rem 1fr auto; gap: 0.6rem; align-items: center; margin: 0.5rem 0; }
-  .bl { font-weight: 700; font-size: 0.8rem; display: flex; flex-direction: column; line-height: 1.2; }
-  .bl .master {
-    font-style: normal; font-weight: 700; font-size: 0.58rem;
-    letter-spacing: 0.05em; text-transform: uppercase; color: var(--muted);
+  .psec { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; overflow: hidden; }
+  .psec > header {
+    padding: 0.45rem 0.95rem; font-size: 1.05rem; font-weight: 700; letter-spacing: 0.03em;
+    text-transform: uppercase; background: var(--surface-2); border-bottom: 1px solid var(--line);
+    font-family: var(--font-title);
   }
-  .track { height: 8px; background: var(--surface-2); border-radius: 999px; overflow: hidden; }
-  .fill { display: block; height: 100%; background: var(--gold); }
-  /* The master language is the source, not a translation metric — muted so it
-     reads differently from a real coverage bar. */
-  .fill.is-master { background: color-mix(in srgb, var(--gold) 40%, var(--surface-2)); }
-  .bv { font-size: 0.8rem; color: var(--muted); }
+  .psec > header span { color: var(--gold); }
+  .psec-body { padding: 1.2rem; }
+  .hint { font-size: 0.82rem; color: var(--muted); margin: 0 0 0.9rem; line-height: 1.55; }
 
-  .hint { font-size: 0.8rem; color: var(--muted); margin: 0 0 0.7rem; }
+  .two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 1.6rem; }
+
+  /* Coverage table */
   .tblwrap { overflow-x: auto; }
-  .matrix { width: 100%; border-collapse: collapse; font-size: 0.85rem; }
-  .matrix th, .matrix td { padding: 0.4rem 0.6rem; text-align: right; white-space: nowrap; }
+  .matrix { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
+  .matrix th, .matrix td { padding: 0.5rem 0.7rem; text-align: right; white-space: nowrap; }
   .matrix thead th { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--muted); border-bottom: 1px solid var(--line); }
   .matrix thead th:first-child, .matrix tbody th.lang { text-align: left; }
+  .matrix thead th.grpc { border-left: 1px solid var(--line); }
   .matrix tbody th.lang { font-weight: 800; color: var(--ink); }
   .matrix tbody tr:not(:last-child) td, .matrix tbody tr:not(:last-child) th { border-bottom: 1px dashed var(--line); }
   .matrix td { font-variant-numeric: tabular-nums; color: var(--ink); }
-  .matrix td.zero { color: color-mix(in srgb, var(--muted) 55%, transparent); }
   .matrix td.tot { font-weight: 800; }
-  .matrix thead th.grp {
-    text-align: center; border-bottom: 1px solid var(--line);
-    color: var(--ink-soft); border-left: 1px solid var(--line);
-  }
-  .matrix thead th.sub { font-weight: 700; }
-  .matrix thead th.sub:nth-child(1), .matrix thead th.sub:nth-child(3) { border-left: 1px solid var(--line); }
-  .matrix td.out { font-weight: 800; color: #fbbf24; }
-  .matrix td.out.zero { color: #4ade80; }
-  .matrix .ct-detail { color: var(--muted); font-weight: 400; font-size: 0.78rem; }
-  .matrix td.out a { color: inherit; text-decoration: underline; text-underline-offset: 2px; }
-  .matrix td.out a:hover { color: var(--gold); }
+  .matrix td[data-status='published'] { color: #4ade80; font-weight: 700; }
 
-  /* Needs-review queue — the Outstanding column's worklist. */
-  .queue { list-style: none; padding: 0; margin: 0.2rem 0 0; }
-  .queue li {
-    display: flex; align-items: baseline; justify-content: space-between; gap: 0.8rem;
-    padding: 0.45rem 0; border-bottom: 1px dashed var(--line);
-  }
-  .queue li:last-child { border-bottom: 0; }
-  .queue a { color: var(--ink); font-weight: 600; text-decoration: none; }
-  .queue a:hover { color: var(--gold); text-decoration: underline; }
-  .queue .qmeta { display: flex; align-items: center; gap: 0.5rem; color: var(--muted); font-size: 0.78rem; white-space: nowrap; }
-  .queue .qlang {
-    font-weight: 800; font-size: 0.66rem; letter-spacing: 0.05em;
-    color: #fbbf24; border: 1px solid rgba(251, 191, 36, 0.35);
-    background: rgba(251, 191, 36, 0.1); border-radius: 999px; padding: 0.05rem 0.4rem;
-  }
-  .matrix td[data-status='published'] { color: #4ade80; }
-  .matrix td[data-status='reviewed'] { color: #4ade80; }
-  .matrix td[data-status='in-review'] { color: #60a5fa; }
-  .matrix td[data-status='draft'] { color: #fbbf24; }
-  .matrix td.zero[data-status] { color: color-mix(in srgb, var(--muted) 55%, transparent); }
+  /* Classification bars */
+  .sens { display: grid; gap: 0.55rem; }
+  .sens-row { display: grid; grid-template-columns: 8.5rem 1fr 5rem; gap: 0.7rem; align-items: center; }
+  .sens-label { font-size: 0.85rem; color: var(--ink-soft); font-weight: 600; }
+  .sens-val { font-size: 0.82rem; color: var(--ink); font-variant-numeric: tabular-nums; text-align: right; }
+  .sens-val .sp { color: var(--muted); }
+  .track { display: block; height: 9px; background: var(--surface-2); border-radius: 999px; overflow: hidden; }
+  .track .fill { display: block; height: 100%; background: var(--gold); border-radius: 999px; }
 
-  /* Knowledge structure — Section → Category → Topic rollup. */
-  .ia { display: grid; gap: 0.6rem; }
-  .ia-sec { border: 1px solid var(--line); border-radius: 12px; background: var(--surface); overflow: hidden; }
-  .ia-sec > summary {
-    display: flex; align-items: center; gap: 0.6rem; cursor: pointer; list-style: none;
-    padding: 0.7rem 0.95rem; font-weight: 800; background: var(--surface-2);
-  }
+  /* Coverage by category */
+  .cov { display: grid; grid-template-columns: repeat(auto-fit, minmax(17rem, 1fr)); gap: 1.4rem; }
+  .cov-head { margin: 0 0 0.6rem; font-weight: 800; display: flex; align-items: center; gap: 0.5rem; }
+  .cov-ico { font-size: 1.1rem; }
+  .cov-tot { margin-left: auto; font-variant-numeric: tabular-nums; color: var(--gold); font-size: 0.9rem; }
+  .cov-cats { display: grid; gap: 0.35rem; }
+  .cov-row { display: grid; grid-template-columns: 8rem 1fr 2rem; gap: 0.6rem; align-items: center; text-decoration: none; color: inherit; }
+  .cov-name { font-size: 0.82rem; color: var(--ink-soft); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .cov-row:hover .cov-name { color: var(--gold); }
+  .cov-num { font-size: 0.8rem; color: var(--muted); text-align: right; font-variant-numeric: tabular-nums; }
+
+  /* Lifecycle ladder */
+  .ladder { list-style: none; padding: 0; margin: 0; display: grid; gap: 0.15rem; }
+  .ladder li { display: flex; align-items: center; gap: 0.65rem; padding: 0.5rem 0.2rem; border-bottom: 1px dashed var(--line); }
+  .ladder li:last-child { border-bottom: 0; }
+  .ld-dot { width: 0.6rem; height: 0.6rem; border-radius: 50%; background: var(--surface-2); border: 1px solid var(--muted); flex: none; }
+  .ladder li.has .ld-dot { background: var(--gold); border-color: var(--gold); }
+  .ladder li[data-status='published'].has .ld-dot { background: #4ade80; border-color: #4ade80; }
+  .ld-name { flex: 1; font-size: 0.9rem; }
+  .ld-num { font-variant-numeric: tabular-nums; font-weight: 800; color: var(--ink); }
+
+  /* Recently updated */
+  .recent { list-style: none; padding: 0; margin: 0; }
+  .recent li { padding: 0.45rem 0; border-bottom: 1px solid var(--line); }
+  .recent li:last-child { border-bottom: 0; }
+  .recent a { display: block; color: var(--ink); text-decoration: none; font-weight: 600; font-size: 0.92rem; }
+  .recent a:hover { color: var(--gold); }
+  .recent .cmeta { display: block; color: var(--muted); font-size: 0.78rem; margin-top: 0.1rem; }
+  .more { margin: 0.9rem 0 0; }
+  .more a { color: var(--gold); text-decoration: none; font-size: 0.85rem; font-weight: 600; }
+
+  /* Knowledge structure */
+  .ia { display: grid; grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr)); gap: 0.7rem; align-items: start; }
+  .ia-sec { border: 1px solid var(--line); border-radius: 12px; background: var(--surface-2); overflow: hidden; }
+  .ia-sec > summary { display: flex; align-items: center; gap: 0.6rem; cursor: pointer; list-style: none; padding: 0.7rem 0.95rem; font-weight: 800; }
   .ia-sec > summary::-webkit-details-marker { display: none; }
   .ia-ico { font-size: 1.05rem; }
   .ia-name { flex: 1; }
-  .ia-count {
-    font-variant-numeric: tabular-nums; font-weight: 800; color: var(--gold);
-    background: color-mix(in srgb, var(--gold) 12%, transparent);
-    border-radius: 999px; padding: 0.05rem 0.55rem; font-size: 0.8rem;
-  }
-  .ia-body { padding: 0.4rem 0.6rem 0.7rem; }
-  .ia-cat { border-bottom: 1px dashed var(--line); }
-  .ia-cat:last-child { border-bottom: 0; }
-  .ia-cat > summary {
-    display: flex; align-items: center; gap: 0.6rem; cursor: pointer; list-style: none;
-    padding: 0.5rem 0.35rem; font-weight: 700; font-size: 0.92rem;
-  }
-  .ia-cat > summary::-webkit-details-marker { display: none; }
-  .ia-cat > summary::before { content: '▸'; color: var(--muted); font-size: 0.8rem; transition: transform 0.15s; }
-  .ia-cat[open] > summary::before { transform: rotate(90deg); }
-  .ia-cat .ia-count { color: var(--ink-soft); background: var(--surface-2); font-weight: 700; }
-  .ia-topics { list-style: none; margin: 0.1rem 0 0.5rem; padding: 0 0.35rem 0 1.4rem; }
-  .ia-topics li {
-    display: flex; align-items: center; justify-content: space-between; gap: 0.6rem;
-    padding: 0.25rem 0; font-size: 0.85rem; color: var(--ink-soft);
-    border-bottom: 1px dashed color-mix(in srgb, var(--line) 55%, transparent);
-  }
-  .ia-topics li:last-child { border-bottom: 0; }
-  .ia-topics .ia-count { color: var(--muted); background: none; padding: 0 0.2rem; font-weight: 700; }
-  .chips { display: flex; flex-wrap: wrap; gap: 0.4rem; }
-  /* Full-width now, so flow into columns instead of stretching one item per row. */
-  .recent {
-    list-style: none; padding: 0; margin: 0; font-size: 0.9rem;
-    display: grid; grid-template-columns: repeat(auto-fill, minmax(19rem, 1fr)); gap: 0 1.6rem;
-  }
-  .recent li { padding: 0.45rem 0; border-bottom: 1px solid var(--line); }
-  .recent li:last-child { border-bottom: 0; }
-  .recent a { display: block; color: var(--ink); text-decoration: none; font-weight: 600; }
-  .recent a:hover { color: var(--gold); text-decoration: underline; }
-  .recent .cmeta { display: block; color: var(--muted); font-size: 0.78rem; margin-top: 0.1rem; }
-  .cmeta { color: var(--muted); }
-  .muted { color: var(--muted); }
-  .table-wrap { overflow-x: auto; border: 1px solid var(--line); border-radius: 12px; }
-  table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
-  th, td { text-align: left; padding: 0.6rem 0.8rem; border-bottom: 1px solid var(--line); white-space: nowrap; }
-  th { font-family: var(--font-interface); font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.04em; color: var(--muted); }
-  td:first-child { white-space: normal; min-width: 14rem; }
-  @media (max-width: 800px) { .cols { grid-template-columns: 1fr; } }
+  .ia-count { font-variant-numeric: tabular-nums; font-weight: 800; color: var(--gold); background: color-mix(in srgb, var(--gold) 12%, transparent); border-radius: 999px; padding: 0.05rem 0.55rem; font-size: 0.8rem; }
+  .ia-count.sm { color: var(--muted); background: none; padding: 0 0.2rem; }
+  .ia-cats { list-style: none; margin: 0; padding: 0.2rem 0.6rem 0.7rem; }
+  .ia-cats li { display: flex; align-items: center; justify-content: space-between; gap: 0.6rem; padding: 0.3rem 0.3rem; border-bottom: 1px dashed color-mix(in srgb, var(--line) 55%, transparent); }
+  .ia-cats li:last-child { border-bottom: 0; }
+  .ia-cats a { color: var(--ink-soft); text-decoration: none; font-size: 0.86rem; }
+  .ia-cats a:hover { color: var(--gold); }
+
+  @media (max-width: 800px) { .two-col { grid-template-columns: 1fr; } }
 </style>

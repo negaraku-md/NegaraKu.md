@@ -2,6 +2,7 @@
 import type { Locale } from '@/lib/categories';
 import { getDashboard } from '@/lib/apidata';
 import { localePath } from '@/lib/i18n';
+import PageHero from './PageHero.astro';
 
 interface Props {
   locale: Locale;
@@ -10,27 +11,68 @@ const { locale } = Astro.props;
 const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
 const d = getDashboard();
 
+// How the knowledge base actually works — four load-bearing ideas, each a card.
+const pillars = [
+  {
+    icon: '📄',
+    title: L('Satu sumber kebenaran', 'One source of truth', '单一事实来源'),
+    body: L(
+      'Setiap artikel ialah satu fail Markdown di GitHub. Tiada pangkalan data tersembunyi — apa yang anda baca ialah fail itu sendiri, boleh dibaca manusia dan mesin.',
+      'Every article is a single Markdown file on GitHub. No hidden database — what you read is the file itself, legible to both people and machines.',
+      '每篇文章都是 GitHub 上的一个 Markdown 文件。没有隐藏的数据库——你所读到的就是文件本身，人与机器皆可读。',
+    ),
+  },
+  {
+    icon: '🌏',
+    title: L('Tiga bahasa, satu paras', 'Three languages, one parity', '三种语言，完全对等'),
+    body: L(
+      'Setiap topik wujud dalam Bahasa Melayu, Inggeris dan Cina. Setiap artikel mempunyai bahasa induknya sendiri — asal usul yang mengarang, dan dua terjemahan yang setia kepadanya.',
+      'Every topic exists in Malay, English and Chinese. Each article has its own master language — the origin it was authored in — and two translations kept faithful to it.',
+      '每个主题都以马来文、英文和中文呈现。每篇文章都有自己的主语言（撰写的源头），以及两个忠于它的译本。',
+    ),
+  },
+  {
+    icon: '🔗',
+    title: L('Dipetik, bukan didakwa', 'Cited, not asserted', '有据可查，而非空谈'),
+    body: L(
+      'Setiap dakwaan yang boleh disemak membawa sumbernya. Artikel bergerak melalui tangga draf → disemak → diterbitkan, dan hanya yang diterbitkan muncul di laman awam.',
+      'Every checkable claim carries its source. Articles move through a draft → reviewed → published ladder, and only published ones appear on the public site.',
+      '每一条可核查的陈述都附有来源。文章经过草稿→审阅→发布的流程，且只有已发布的内容才出现在公开网站上。',
+    ),
+  },
+  {
+    icon: '🤝',
+    title: L('Kandungan sensitif, dikendalikan berhati-hati', 'Sensitive content, handled with care', '敏感内容，审慎处理'),
+    body: L(
+      'Topik yang menyentuh kaum, agama, institusi diraja atau perlembagaan dilabel dan disemak seorang manusia sebelum terbit — ditulis neutral dan bersumber.',
+      'Topics touching race, religion, royalty or the constitution are labelled and human-reviewed before publishing — written neutrally and sourced.',
+      '涉及种族、宗教、王室或宪法的话题会被标注，并在发布前经人工审阅——保持中立、注明来源。',
+    ),
+  },
+];
+
 const timeline = [
   { date: '2026-07', text: L('NegaraKu.md dilancarkan sebagai projek sumber terbuka.', 'NegaraKu.md launches as an open-source project.', 'NegaraKu.md 作为开源项目启动。') },
-  { date: '2026', text: L('Kandungan awal dijana AI dan disemak komuniti dalam 3 bahasa.', 'Initial content AI-drafted and community-reviewed in 3 languages.', '初始内容由 AI 起草并经社区以三种语言审阅。') },
+  { date: '2026-07', text: L('Korpus mencapai paras tiga bahasa penuh — 570 topik × 3.', 'Corpus reaches full trilingual parity — 570 topics × 3.', '语料库达成完整三语对等——570 个主题 × 3。') },
+  { date: L('Seterusnya', 'Next', '下一步'), text: L('Perkembangan dipandu komuniti melalui GitHub.', 'Community-driven growth through GitHub.', '通过 GitHub 由社区驱动持续扩展。') },
 ];
 
 const faqs = [
   {
     q: L('Apa bezanya dengan Wikipedia?', 'How is this different from Wikipedia?', '与维基百科有何不同？'),
-    a: L('NegaraKu.md ialah naratif yang dikurasi dalam Markdown, direka untuk manusia dan AI, dengan satu sumber kebenaran di GitHub.', 'NegaraKu.md is curated narrative in Markdown, designed for humans and AI, with a single source of truth on GitHub.', 'NegaraKu.md 是以 Markdown 撰写、面向人类与 AI 的策展叙事，事实来源统一存于 GitHub。'),
+    a: L('NegaraKu.md ialah naratif yang dikurasi dalam Markdown, direka untuk manusia dan AI, dengan satu sumber kebenaran di GitHub — bukan ensiklopedia yang boleh disunting sesiapa secara langsung.', 'NegaraKu.md is curated narrative in Markdown, designed for humans and AI, with a single source of truth on GitHub — not an encyclopedia anyone edits live.', 'NegaraKu.md 是以 Markdown 撰写、面向人类与 AI 的策展叙事，事实来源统一存于 GitHub——并非任何人都能实时编辑的百科。'),
   },
   {
     q: L('Bagaimana kualiti dijamin?', 'How is quality ensured?', '如何保证质量？'),
-    a: L('Setiap artikel dipetik sumbernya dan melalui tangga status draf → disemak → disahkan, dengan pengimbas kesihatan automatik.', 'Every article is cited and moves through a draft → reviewed → verified ladder, with an automated health scanner.', '每篇文章都注明来源，并经过草稿→审阅→核实的流程，配有自动健康扫描。'),
+    a: L('Setiap artikel dipetik sumbernya dan melalui tangga draf → disemak → diterbitkan, dengan pengimbas kesihatan automatik pada setiap binaan.', 'Every article is cited and moves through a draft → reviewed → published ladder, with an automated health scanner on every build.', '每篇文章都注明来源，并经过草稿→审阅→发布的流程，每次构建都有自动健康扫描。'),
   },
   {
     q: L('Bagaimana isu sensitif dikendalikan?', 'How are sensitive topics handled?', '如何处理敏感话题？'),
-    a: L('Topik sensitif (kaum, agama, politik) mesti berpandukan sumber, ditulis neutral, dan disemak sebelum diterbitkan.', 'Sensitive topics (race, religion, politics) must be sourced, neutral, and reviewed before publishing.', '敏感话题（种族、宗教、政治）必须注明来源、保持中立，并在发布前审阅。'),
+    a: L('Topik sensitif (kaum, agama, institusi diraja, perlembagaan) dilabel mengikut satu piawai klasifikasi, mesti bersumber dan neutral, dan disemak manusia sebelum diterbitkan.', 'Sensitive topics (race, religion, royalty, the constitution) are labelled by a single classification standard, must be sourced and neutral, and are human-reviewed before publishing.', '敏感话题（种族、宗教、王室、宪法）依统一的分类标准标注，必须注明来源、保持中立，并在发布前经人工审阅。'),
   },
   {
     q: L('Bolehkah AI menggunakan kandungan ini?', 'Can AI use this content?', 'AI 可以使用这些内容吗？'),
-    a: L('Ya — melalui llms.txt, Markdown mentah, dan pelayan MCP. Lihat halaman AI / MCP.', 'Yes — via llms.txt, raw Markdown, and the MCP server. See the AI / MCP page.', '可以——通过 llms.txt、原始 Markdown 与 MCP 服务器。请见 AI / MCP 页面。'),
+    a: L('Ya — setiap halaman menyediakan Markdown mentah, dan laman ini menerbitkan llms.txt untuk model bahasa besar.', 'Yes — every page offers its raw Markdown, and the site publishes an llms.txt for large language models.', '可以——每个页面都提供原始 Markdown，网站也发布 llms.txt 供大型语言模型使用。'),
   },
   {
     q: L('Apakah lesennya?', 'What is the license?', '采用什么许可？'),
@@ -39,75 +81,126 @@ const faqs = [
 ];
 ---
 
-<section class="container prose head">
-  <h1>{L('Tentang NegaraKu.md', 'About NegaraKu.md', '关于 NegaraKu.md')}</h1>
-  <p class="lead">{L('Pangkalan pengetahuan sumber terbuka dan mesra-AI tentang Malaysia — satu sumber kebenaran yang dikurasi, dipetik, dan boleh disunting komuniti.', 'An open-source, AI-friendly knowledge base about Malaysia — a curated, cited, community-editable single source of truth.', '关于马来西亚的开源、AI 友好知识库——经策展、注明来源、可由社区编辑的单一事实来源。')}</p>
-</section>
+<PageHero
+  locale={locale}
+  crumb={[
+    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
+    { label: L('Tentang', 'About', '关于') },
+  ]}
+  title={L('Tentang NegaraKu.md', 'About NegaraKu.md', '关于 NegaraKu.md')}
+  desc={L(
+    'Pangkalan pengetahuan sumber terbuka dan mesra-AI tentang Malaysia — satu sumber kebenaran yang dikurasi, dipetik, dan boleh disunting komuniti.',
+    'An open-source, AI-friendly knowledge base about Malaysia — a curated, cited, community-editable single source of truth.',
+    '关于马来西亚的开源、AI 友好知识库——经策展、注明来源、可由社区编辑的单一事实来源。',
+  )}
+  stats={[
+    { value: d.totals.articles, label: L('artikel', 'articles', '文章') },
+    { value: d.totals.categories, label: L('kategori', 'categories', '分类') },
+    { value: 3, label: L('bahasa', 'languages', '语言') },
+    { value: '100%', label: L('dipetik', 'cited', '已引用') },
+  ]}
+/>
 
-<section class="container stats-row">
-  <div><b>{d.totals.articles}</b><span>{L('artikel', 'articles', '文章')}</span></div>
-  <div><b>{d.totals.categories}</b><span>{L('kategori', 'categories', '分类')}</span></div>
-  <div><b>3</b><span>{L('bahasa', 'languages', '语言')}</span></div>
-  <div><b>{d.totals.reviewedPct}%</b><span>{L('disemak', 'reviewed', '已审阅')}</span></div>
-</section>
-
-<section class="container two">
-  <div class="prose">
-    <h2>{L('Kisah kami', 'Our story', '我们的故事')}</h2>
-    <p>{L('NegaraKu.md dibina atas konsep "satu sumber kebenaran". Nama diambil daripada lagu kebangsaan Malaysia. Matlamatnya: menjadikan pengetahuan tentang Malaysia mudah dibaca manusia dan model bahasa besar.', 'NegaraKu.md is built on the idea of a single source of truth. Its name comes from Malaysia\'s national anthem. The goal: make knowledge about Malaysia easy for both people and large language models to read.', 'NegaraKu.md 建立在“单一事实来源”理念之上，名字取自马来西亚国歌。目标：让关于马来西亚的知识既便于人类阅读，也便于大型语言模型使用。')}</p>
+<section class="container block">
+  <div class="psec">
+    <header><span>{L('Kisah kami', 'Our story', '我们的故事')}</span></header>
+    <div class="psec-body prose">
+      <p>{L('NegaraKu.md dibina atas satu idea: pengetahuan tentang Malaysia patut mudah dibaca — oleh manusia dan oleh model bahasa besar. Namanya diambil daripada lagu kebangsaan Malaysia.', 'NegaraKu.md is built on one idea: knowledge about Malaysia should be easy to read — by people and by large language models alike. Its name comes from Malaysia\'s national anthem.', 'NegaraKu.md 建立在一个理念之上：关于马来西亚的知识应当便于阅读——无论是人，还是大型语言模型。它的名字取自马来西亚国歌。')}</p>
+      <p>{L('Kandungan awal dijana AI dan disemak, kemudian dikembangkan menjadi korpus tiga bahasa yang lengkap. Hari ini setiap topik hidup sebagai fail di GitHub, terbuka untuk sesiapa membaca, memetik, atau memperbaiki.', 'Initial content was AI-drafted and reviewed, then grown into a complete trilingual corpus. Today every topic lives as a file on GitHub, open for anyone to read, cite, or improve.', '初始内容由 AI 起草并审阅，随后发展为完整的三语语料库。如今每个主题都以 GitHub 上的文件形式存在，任何人都可阅读、引用或改进。')}</p>
+    </div>
   </div>
-  <div>
-    <h2>{L('Garis masa', 'Timeline', '时间线')}</h2>
-    <ul class="timeline">
-      {timeline.map((m) => <li><span class="tl-date">{m.date}</span><span>{m.text}</span></li>)}
-    </ul>
+</section>
+
+<section class="container block">
+  <div class="psec">
+    <header><span>{L('Cara ia berfungsi', 'How it works', '运作方式')}</span></header>
+    <div class="psec-body">
+      <div class="pcards">
+        {pillars.map((p) => (
+          <div class="pcard">
+            <span class="pico" aria-hidden="true">{p.icon}</span>
+            <b>{p.title}</b>
+            <p>{p.body}</p>
+          </div>
+        ))}
+      </div>
+    </div>
   </div>
 </section>
 
-<section class="container faq-wrap">
-  <h2>{L('Soalan lazim', 'FAQ', '常见问题')}</h2>
-  {
-    faqs.map((f) => (
-      <details class="faq">
-        <summary>{f.q}</summary>
-        <p>{f.a}</p>
-      </details>
-    ))
-  }
+<section class="container block two">
+  <div class="psec">
+    <header><span>{L('Garis masa', 'Timeline', '时间线')}</span></header>
+    <div class="psec-body">
+      <ul class="timeline">
+        {timeline.map((m) => <li><span class="tl-date">{m.date}</span><span>{m.text}</span></li>)}
+      </ul>
+    </div>
+  </div>
+  <div class="psec">
+    <header><span>{L('Soalan lazim', 'FAQ', '常见问题')}</span></header>
+    <div class="psec-body">
+      {faqs.map((f) => (
+        <details class="faq">
+          <summary>{f.q}</summary>
+          <p>{f.a}</p>
+        </details>
+      ))}
+    </div>
+  </div>
 </section>
 
-<section class="container sponsor-block">
-  <div class="sponsor-card">
-    <p class="stag">{L('Penaja', 'Sponsor', '赞助')}</p>
-    <p class="sbody">{L('NegaraKu.md ditaja oleh', 'NegaraKu.md is sponsored by', 'NegaraKu.md 由')}
-      <a href="https://www.1company.com" rel="noopener"><span class="oneco">1company.com</span></a>{L('.', '.', ' 赞助。')}</p>
-    <p class="muted">{L('Sokongan mereka memastikan projek ini kekal terbuka dan percuma.', 'Their support keeps this project open and free.', '他们的支持让本项目保持开放与免费。')}</p>
+<section class="container block sponsor-block">
+  <div class="psec">
+    <header><span>{L('Penaja', 'Sponsor', '赞助')}</span></header>
+    <div class="psec-body sponsor-body">
+      <div>
+        <p class="sbody">{L('NegaraKu.md ditaja oleh', 'NegaraKu.md is sponsored by', 'NegaraKu.md 由')}
+          <a href="https://www.1company.com" rel="noopener"><span class="oneco">1company.com</span></a>{L('.', '.', ' 赞助。')}</p>
+        <p class="muted">{L('Sokongan mereka memastikan projek ini kekal terbuka dan percuma.', 'Their support keeps this project open and free.', '他们的支持让本项目保持开放与免费。')}</p>
+      </div>
+      <a class="btn btn-primary" href={localePath('/contribute', locale)}>{L('Sumbang kepada NegaraKu.md', 'Contribute to NegaraKu.md', '为 NegaraKu.md 做贡献')}</a>
+    </div>
   </div>
-  <p class="cta"><a class="btn btn-primary" href={localePath('/contribute', locale)}>{L('Sumbang kepada NegaraKu.md', 'Contribute to NegaraKu.md', '为 NegaraKu.md 做贡献')}</a></p>
 </section>
 
 <style>
-  .head { padding-block: 2.5rem 0.5rem; }
-  .lead { font-size: 1.15rem; color: var(--ink-soft); }
-  .stats-row { display: grid; grid-template-columns: repeat(auto-fit, minmax(7rem, 1fr)); gap: 1rem; margin-top: 1rem; }
-  .stats-row div { border: 1px solid var(--line); border-top: 2px solid var(--gold); border-radius: 12px; padding: 1rem; background: var(--surface); }
-  .stats-row b { display: block; font-family: var(--font-title); font-size: 1.8rem; color: var(--gold); }
-  .stats-row span { color: var(--muted); font-size: 0.85rem; }
-  .two { display: grid; grid-template-columns: 1fr 1fr; gap: 2.5rem; margin-top: 2.5rem; }
+  /* Section box — the same gold-header band used across the site, so About reads
+     as one system with the category and article pages. */
+  .block { margin-top: 1.6rem; }
+  .psec { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; overflow: hidden; }
+  .psec > header {
+    padding: 0.45rem 0.95rem; font-size: 1.05rem; font-weight: 700; letter-spacing: 0.03em;
+    text-transform: uppercase; background: var(--surface-2); border-bottom: 1px solid var(--line);
+    font-family: var(--font-title);
+  }
+  .psec > header span { color: var(--gold); }
+  .psec-body { padding: 1.2rem; }
+  .psec-body.prose p { margin: 0 0 0.9rem; line-height: 1.75; color: var(--ink-soft); }
+  .psec-body.prose p:last-child { margin-bottom: 0; }
+
+  .pcards { display: grid; grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); gap: 1rem; }
+  .pcard { background: var(--surface-2); border: 1px solid var(--line); border-radius: 10px; padding: 1.1rem 1.15rem; }
+  .pico { font-size: 1.4rem; }
+  .pcard b { display: block; font-family: var(--font-title); font-size: 1.02rem; margin: 0.4rem 0 0.35rem; color: var(--ink); }
+  .pcard p { margin: 0; color: var(--ink-soft); font-size: 0.9rem; line-height: 1.6; }
+
+  .two { display: grid; grid-template-columns: 1fr 1fr; gap: 1.6rem; }
   .timeline { list-style: none; padding: 0; margin: 0; }
-  .timeline li { display: grid; grid-template-columns: 5rem 1fr; gap: 0.75rem; padding: 0.5rem 0; border-left: 2px solid var(--gold); padding-left: 1rem; }
-  .tl-date { color: var(--gold); font-weight: 700; font-size: 0.85rem; }
-  .faq-wrap { margin-top: 2.5rem; max-width: var(--container-prose); }
-  .faq-wrap > h2 { font-size: 1.5rem; }
-  .faq { border: 1px solid var(--line); border-radius: 10px; padding: 0.4rem 1rem; margin: 0.5rem 0; background: var(--surface); }
-  .faq summary { cursor: pointer; font-weight: 700; padding: 0.5rem 0; }
-  .faq p { color: var(--ink-soft); margin: 0 0 0.6rem; }
-  .sponsor-block { margin-top: 3rem; padding-bottom: 3rem; }
-  .sponsor-card { border: 1px solid var(--line); border-top: 2px solid var(--gold); border-radius: 12px; padding: 1.5rem; background: var(--surface); }
-  .stag { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); margin: 0 0 0.4rem; }
+  .timeline li { display: grid; grid-template-columns: 5.5rem 1fr; gap: 0.75rem; padding: 0.55rem 0; border-left: 2px solid var(--gold); padding-left: 1rem; }
+  .timeline li + li { margin-top: 0.1rem; }
+  .tl-date { color: var(--gold); font-weight: 700; font-size: 0.82rem; }
+
+  .faq { border: 1px solid var(--line); border-radius: 10px; padding: 0.2rem 1rem; margin: 0 0 0.55rem; background: var(--surface-2); }
+  .faq:last-child { margin-bottom: 0; }
+  .faq summary { cursor: pointer; font-weight: 700; padding: 0.55rem 0; }
+  .faq p { color: var(--ink-soft); margin: 0 0 0.6rem; line-height: 1.6; }
+
+  .sponsor-block { padding-bottom: 3rem; }
+  .sponsor-body { display: flex; align-items: center; justify-content: space-between; gap: 1.5rem; flex-wrap: wrap; }
   .sbody { font-size: 1.1rem; margin: 0 0 0.4rem; }
   .sbody a { color: var(--gold); text-decoration: none; font-weight: 700; }
-  .muted { color: var(--muted); }
-  .cta { margin-top: 1.5rem; }
-  @media (max-width: 800px) { .two { grid-template-columns: 1fr; gap: 1.5rem; } }
+  .muted { color: var(--muted); margin: 0; }
+
+  @media (max-width: 800px) { .two { grid-template-columns: 1fr; } }
 </style>

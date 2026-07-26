@@ -2,7 +2,9 @@
 import type { Locale } from '@/lib/categories';
 import { getCategory } from '@/lib/categories';
 import { getChangelog } from '@/lib/apidata';
+import { localePath } from '@/lib/i18n';
 import { REPO } from '@/lib/site';
+import PageHero from './PageHero.astro';
 
 interface Props {
   locale: Locale;
@@ -10,6 +12,7 @@ interface Props {
 const { locale } = Astro.props;
 const c = getChangelog();
 const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
 const typeLabel: Record<string, string> = {
   feature: L('Ciri', 'Features', '功能'),
   fix: L('Pembetulan', 'Fixes', '修复'),
@@ -17,57 +20,213 @@ const typeLabel: Record<string, string> = {
   translate: L('Terjemahan', 'Translation', '翻译'),
   chore: L('Penyelenggaraan', 'Maintenance', '维护'),
 };
+
+// Flatten day-grouped commits into one row list (already newest-first), the same
+// shape the All-Articles list consumes: each row carries its own meta.
+const rows = c.days.flatMap((day) =>
+  day.items.map((it: any) => ({
+    icon: it.icon ?? '•',
+    title: it.titleI18n ? it.titleI18n[locale] : it.subject,
+    cat: it.category ? getCategory(it.category)?.name[locale] ?? it.category : '',
+    type: it.type ?? 'chore',
+    typeLabel: typeLabel[it.type] ?? it.type ?? '',
+    author: it.author ?? '',
+    date: it.date ?? day.date,
+    hash: it.hash ?? '',
+    url: it.hash ? `${REPO}/commit/${it.hash}` : '',
+  })),
+);
+
+// Filter chips: All + each type actually present, with counts.
+const present = Object.keys(typeLabel).filter((k) => rows.some((r) => r.type === k));
+const filters = [
+  { key: '', label: L('Semua', 'All', '全部'), count: rows.length },
+  ...present.map((k) => ({ key: k, label: typeLabel[k], count: rows.filter((r) => r.type === k).length })),
+];
+
+const I18N = {
+  contributor: L('Penyumbang', 'Contributor', '贡献者'),
+  rows: L('Baris', 'Rows', '每页'),
+  page: L('Halaman', 'Page', '页'),
+  of: L('drpd', 'of', '/'),
+  none: L('Tiada rekod.', 'No entries.', '没有记录。'),
+  commit: L('komit', 'commit', '提交'),
+};
 ---
 
-<section class="container head">
-  <h1>{L('Log Perubahan', 'Changelog', '更新日志')}</h1>
-  <p class="lead">
-    {c.total} {L('kemas kini', 'updates', '次更新')}
-    {c.source === 'manifest' && <span class="note"> · {L('daripada tarikh artikel (sejarah git akan menggantikannya selepas disiarkan)', 'from article dates (git history replaces this once published)', '来自文章日期（发布后将由 git 历史取代）')}</span>}
-  </p>
-  <div class="tally">
-    {Object.entries(c.tally).map(([k, n]) => <span class="chip">{typeLabel[k] ?? k}: {n}</span>)}
+<PageHero
+  locale={locale}
+  crumb={[
+    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
+    { label: L('Log Perubahan', 'Changelog', '更新日志') },
+  ]}
+  title={L('Log Perubahan', 'Changelog', '更新日志')}
+  desc={L(
+    'Setiap perubahan pada NegaraKu.md — kandungan, terjemahan dan penambahbaikan — mengikut tarikh dan penyumbang.',
+    'Every change to NegaraKu.md — content, translations and improvements — by date and contributor.',
+    'NegaraKu.md 的每一次变更——内容、翻译与改进——按日期和贡献者列出。',
+  )}
+  stats={[
+    { value: c.total, label: L('kemas kini', 'updates', '次更新') },
+    { value: filters.length - 1, label: L('jenis', 'types', '类型') },
+    { value: (c.tally.content ?? 0) + (c.tally.translate ?? 0), label: L('kandungan', 'content', '内容') },
+  ]}
+/>
+
+<section class="container clwrap" id="clwrap">
+  <div class="controls">
+    <div class="filterbar" data-role="filters">
+      {filters.map((f) => (
+        <button type="button" class="fbtn" data-type={f.key} aria-pressed={f.key === '' ? 'true' : 'false'}>
+          {f.label} <span class="fc">{f.count}</span>
+        </button>
+      ))}
+    </div>
+    <div class="pager-top">
+      <label class="rows">{I18N.rows}
+        <select data-role="size">
+          <option value="25">25</option>
+          <option value="50">50</option>
+          <option value="100">100</option>
+        </select>
+      </label>
+    </div>
   </div>
+
+  <div data-role="list" class="cl-list"></div>
+
+  <div class="pager" data-role="pager"></div>
+
+  <script type="application/json" data-role="rows" set:html={JSON.stringify(rows)}></script>
+  <script type="application/json" data-role="i18n" set:html={JSON.stringify(I18N)}></script>
 </section>
 
-<section class="container list">
-  {
-    c.days.map((day) => (
-      <div class="day">
-        <h2 id={`day-${day.date}`}>{day.date} <span class="count">{day.count}</span></h2>
-        <ul>
-          {day.items.map((it) => (
-            <li>
-              <span class="icon">{it.icon}</span>
-              <span class="subj">
-                {it.titleI18n
-                  ? `${it.titleI18n[locale]}（${getCategory(it.category)?.name[locale] ?? it.category}）`
-                  : it.subject}
-                {it.hash && (
-                  <a class="sha" href={`${REPO}/commit/${it.hash}`} rel="noopener">{it.hash}</a>
-                )}
-              </span>
-            </li>
-          ))}
-        </ul>
-      </div>
-    ))
+<script>
+  const wrap = document.getElementById('clwrap');
+  if (wrap) {
+    const ROWS = JSON.parse(wrap.querySelector('[data-role="rows"]')?.textContent || '[]');
+    const I = JSON.parse(wrap.querySelector('[data-role="i18n"]')?.textContent || '{}');
+    const listEl = wrap.querySelector('[data-role="list"]');
+    const pagerEl = wrap.querySelector('[data-role="pager"]');
+    const sizeSel = wrap.querySelector('[data-role="size"]');
+    const state = { type: '', page: 1, size: 25 };
+    const esc = (s) =>
+      String(s).replace(/[&<>"]/g, (m) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[m]);
+
+    const filtered = () => (state.type ? ROWS.filter((r) => r.type === state.type) : ROWS);
+
+    const rowHtml = (r) => {
+      const bits = [];
+      if (r.typeLabel) bits.push(`<span class="chip type" data-t="${esc(r.type)}">${esc(r.typeLabel)}</span>`);
+      if (r.cat) bits.push(`<span class="chip">${esc(r.cat)}</span>`);
+      if (r.author) bits.push(`<span class="chip">${esc(I.contributor)}: ${esc(r.author)}</span>`);
+      if (r.date) bits.push(`<span class="chip dim">${esc(r.date)}</span>`);
+      if (r.hash)
+        bits.push(`<a class="chip sha" href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.hash)}</a>`);
+      return `<div class="cl-row">
+          <span class="cl-ico" aria-hidden="true">${esc(r.icon)}</span>
+          <div class="cl-main">
+            <p class="cl-title">${esc(r.title)}</p>
+            <div class="cl-meta">${bits.join('')}</div>
+          </div>
+        </div>`;
+    };
+
+    const render = () => {
+      const data = filtered();
+      const pages = Math.max(1, Math.ceil(data.length / state.size));
+      if (state.page > pages) state.page = pages;
+      const start = (state.page - 1) * state.size;
+      const slice = data.slice(start, start + state.size);
+      listEl.innerHTML = slice.length ? slice.map(rowHtml).join('') : `<p class="cl-empty">${esc(I.none)}</p>`;
+
+      const nav = (label, page, disabled, cls) =>
+        `<button type="button" class="pg ${cls || ''}" data-page="${page}" ${disabled ? 'disabled' : ''}>${label}</button>`;
+      pagerEl.innerHTML =
+        `<span class="pcount">${data.length ? start + 1 : 0}–${start + slice.length} ${esc(I.of)} ${data.length}</span>` +
+        `<span class="pnav">` +
+        nav('«', 1, state.page === 1) +
+        nav('‹', state.page - 1, state.page === 1) +
+        `<span class="pnum">${esc(I.page)} ${state.page} ${esc(I.of)} ${pages}</span>` +
+        nav('›', state.page + 1, state.page === pages) +
+        nav('»', pages, state.page === pages) +
+        `</span>`;
+      pagerEl.querySelectorAll('.pg').forEach((b) =>
+        b.addEventListener('click', () => {
+          state.page = Number(b.dataset.page);
+          render();
+          wrap.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }),
+      );
+    };
+
+    wrap.querySelectorAll('[data-role="filters"] .fbtn').forEach((b) =>
+      b.addEventListener('click', () => {
+        state.type = b.dataset.type;
+        state.page = 1;
+        wrap.querySelectorAll('[data-role="filters"] .fbtn').forEach((x) =>
+          x.setAttribute('aria-pressed', String(x === b)),
+        );
+        render();
+      }),
+    );
+    sizeSel?.addEventListener('change', () => {
+      state.size = Number(sizeSel.value);
+      state.page = 1;
+      render();
+    });
+    render();
   }
-</section>
+</script>
 
 <style>
-  .head { padding-block: 2.5rem 1rem; }
-  .lead { color: var(--ink-soft); }
-  .note { color: var(--muted); font-size: 0.85rem; }
-  .tally { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-top: 0.75rem; }
-  .chip { font-size: 0.78rem; border: 1px solid var(--line); border-radius: 999px; padding: 0.15rem 0.6rem; color: var(--ink-soft); }
-  .list { padding-bottom: 3rem; }
-  .day { margin-top: 1.75rem; }
-  .day h2 { font-size: 1.1rem; border-bottom: 1px solid var(--line); padding-bottom: 0.4rem; }
-  .count { color: var(--muted); font-size: 0.8rem; font-family: var(--font-interface); }
-  .day ul { list-style: none; padding: 0; margin: 0.5rem 0 0; }
-  .day li { display: flex; gap: 0.6rem; padding: 0.35rem 0; align-items: baseline; }
-  .icon { flex-shrink: 0; }
-  .subj { color: var(--ink-soft); }
-  .sha { margin-left: 0.5rem; font-family: monospace; font-size: 0.8rem; color: var(--gold); text-decoration: none; }
+  .clwrap { padding-block: 1.6rem 3rem; }
+  .controls { display: flex; flex-wrap: wrap; gap: 1rem; justify-content: space-between; align-items: center; margin-bottom: 1.1rem; }
+  .filterbar { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+  .fbtn {
+    font: inherit; font-size: 0.82rem; font-weight: 600; cursor: pointer;
+    border: 1px solid var(--line); background: var(--surface); color: var(--ink-soft);
+    border-radius: 999px; padding: 0.35rem 0.85rem;
+  }
+  .fbtn .fc { color: var(--muted); font-variant-numeric: tabular-nums; }
+  .fbtn[aria-pressed='true'] { background: var(--gold); color: #000; border-color: var(--gold); }
+  .fbtn[aria-pressed='true'] .fc { color: rgba(0, 0, 0, 0.6); }
+  .rows { font-size: 0.82rem; color: var(--muted); display: inline-flex; align-items: center; gap: 0.4rem; }
+  .rows select { font: inherit; background: var(--surface); color: var(--ink); border: 1px solid var(--line); border-radius: 8px; padding: 0.3rem 0.5rem; }
+
+  .cl-list { display: grid; gap: 0.55rem; }
+  .cl-row {
+    display: grid; grid-template-columns: auto 1fr; gap: 0.8rem; align-items: start;
+    border: 1px solid var(--line); border-left: 3px solid var(--gold);
+    border-radius: 10px; background: var(--surface); padding: 0.8rem 1rem;
+  }
+  .cl-ico { font-size: 1.1rem; line-height: 1.4; }
+  .cl-title { margin: 0 0 0.5rem; font-weight: 600; color: var(--ink); line-height: 1.4; }
+  .cl-meta { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+  .cl-meta :global(.chip) {
+    font-size: 0.74rem; border: 1px solid var(--line); border-radius: 999px;
+    padding: 0.1rem 0.55rem; color: var(--ink-soft); white-space: nowrap;
+  }
+  .cl-meta :global(.chip.dim) { color: var(--muted); }
+  .cl-meta :global(.chip.sha) { font-family: monospace; color: var(--gold); text-decoration: none; }
+  .cl-meta :global(.chip.sha:hover) { border-color: var(--gold); }
+  .cl-meta :global(.chip.type) { font-weight: 700; }
+  .cl-meta :global(.chip.type[data-t='content']) { color: #4ade80; border-color: color-mix(in srgb, #4ade80 40%, var(--line)); }
+  .cl-meta :global(.chip.type[data-t='translate']) { color: #60a5fa; border-color: color-mix(in srgb, #60a5fa 40%, var(--line)); }
+  .cl-meta :global(.chip.type[data-t='feature']) { color: var(--gold); border-color: color-mix(in srgb, var(--gold) 40%, var(--line)); }
+  .cl-meta :global(.chip.type[data-t='fix']) { color: #fb7185; border-color: color-mix(in srgb, #fb7185 40%, var(--line)); }
+  .cl-empty { color: var(--muted); padding: 2rem 0; text-align: center; }
+
+  .pager { display: flex; align-items: center; justify-content: space-between; gap: 1rem; flex-wrap: wrap; margin-top: 1.2rem; }
+  .pcount { color: var(--muted); font-size: 0.82rem; font-variant-numeric: tabular-nums; }
+  .pnav { display: inline-flex; align-items: center; gap: 0.3rem; }
+  .pg {
+    font: inherit; min-width: 2rem; padding: 0.3rem 0.6rem; cursor: pointer;
+    border: 1px solid var(--line); background: var(--surface); color: var(--ink-soft); border-radius: 8px;
+  }
+  .pg:hover:not([disabled]) { border-color: var(--gold); color: var(--gold); }
+  .pg[disabled] { opacity: 0.4; cursor: default; }
+  .pnum { font-size: 0.82rem; color: var(--muted); padding: 0 0.5rem; }
+
+  @media (max-width: 600px) { .controls { flex-direction: column; align-items: stretch; } }
 </style>
