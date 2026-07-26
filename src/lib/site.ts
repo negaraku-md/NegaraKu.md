@@ -3,8 +3,8 @@
 export const SITE = 'https://negaraku.md';
 export const REPO = 'https://github.com/ashton-tan/NegaraKu.md';
 
-/** Endpoint for the newsletter + contribution forms (e.g. a Formspree form URL
-    like "https://formspree.io/f/abcdwxyz", or any handler that accepts a POST).
-    Leave it EMPTY until you have a real one — while empty, the forms don't POST
-    to a dead URL; they show a friendly "not live yet" message instead. */
+/** Endpoint for the contribution form (e.g. a Formspree form URL like
+    "https://formspree.io/f/abcdwxyz", or any handler that accepts a POST).
+    Leave it EMPTY to keep the no-backend behaviour: the contribute form opens a
+    pre-filled GitHub issue instead of POSTing. Set it to make the form POST. */
 export const CONTACT_FORM_ENDPOINT = '';

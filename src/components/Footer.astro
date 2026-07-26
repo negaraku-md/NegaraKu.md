@@ -1,7 +1,7 @@
 ---
 import type { Locale } from '@/lib/categories';
 import { t, localePath } from '@/lib/i18n';
-import { REPO, CONTACT_FORM_ENDPOINT } from '@/lib/site';
+import { REPO } from '@/lib/site';
 
 interface Props {
   locale: Locale;
@@ -42,45 +42,6 @@ const cols = [
 
 <footer class="site-footer">
   <div class="container">
-    <form
-      class="newsletter"
-      action={CONTACT_FORM_ENDPOINT || '#'}
-      method="post"
-      data-configured={CONTACT_FORM_ENDPOINT ? 'true' : 'false'}
-      data-msg-unset={L(
-        'Langganan e-mel belum tersedia lagi — ikuti kami di GitHub buat masa ini.',
-        'Email sign-up isn’t live yet — follow us on GitHub for now.',
-        '邮件订阅暂未开放——目前可在 GitHub 关注我们。',
-      )}
-    >
-      <div>
-        <p class="nl-title">{L('Ikuti perkembangan', 'Stay updated', '保持关注')}</p>
-        <p class="nl-sub">{L('Berita ringkas tentang artikel baharu. Tiada spam.', 'Occasional notes on new articles. No spam.', '偶尔发送新文章通知。绝无垃圾邮件。')}</p>
-      </div>
-      <div class="nl-row">
-        <input type="text" name="name" required placeholder={L('nama anda', 'your name', '你的姓名')} aria-label={L('Nama', 'Name', '姓名')} />
-        <input type="email" name="email" required placeholder={L('e-mel anda', 'your email', '你的邮箱')} aria-label={L('E-mel', 'Email', '邮箱')} />
-        <button type="submit">{L('Langgan', 'Subscribe', '订阅')}</button>
-      </div>
-      <p class="nl-note" role="status" aria-live="polite" hidden></p>
-    </form>
-
-    <script>
-      // Until CONTACT_FORM_ENDPOINT is set, don't POST to a dead URL — show an
-      // inline message instead of navigating to a 404.
-      document.querySelectorAll('form.newsletter').forEach((form) => {
-        form.addEventListener('submit', (e) => {
-          if (form.dataset.configured === 'true') return; // real endpoint → let it post
-          e.preventDefault();
-          const note = form.querySelector('.nl-note');
-          if (note) {
-            note.textContent = form.dataset.msgUnset || '';
-            note.hidden = false;
-          }
-        });
-      });
-    </script>
-
     <div class="foot-grid">
       <div class="foot-brand">
         <p class="name">NegaraKu<span class="dot">.md</span></p>
@@ -115,25 +76,6 @@ const cols = [
     background: var(--bg-soft);
     padding-top: 2.5rem;
   }
-  .newsletter {
-    display: flex; justify-content: space-between; align-items: center; gap: 1.5rem; flex-wrap: wrap;
-    background: var(--surface); border: 1px solid var(--line); border-top: 2px solid var(--gold);
-    border-radius: 16px; padding: 1.4rem 1.7rem; margin-bottom: 2.6rem;
-  }
-  .nl-title { margin: 0; font-family: var(--font-title); font-weight: 800; font-size: 1.2rem; }
-  .nl-sub { margin: 0.2rem 0 0; color: var(--ink-soft); font-size: 0.92rem; }
-  .nl-row { display: flex; gap: 0.5rem; }
-  .nl-note { margin: 0.6rem 0 0; color: var(--gold); font-size: 0.9rem; font-weight: 600; }
-  .nl-row input {
-    font: inherit; padding: 0.55rem 0.95rem; border-radius: 999px;
-    border: 1px solid var(--line); background: var(--surface-2); color: var(--ink); min-width: 13rem;
-  }
-  .nl-row input:focus { outline: none; border-color: var(--gold); }
-  .nl-row button {
-    border: 0; border-radius: 999px; background: var(--gold); color: #000;
-    font-weight: 800; padding: 0.55rem 1.3rem; cursor: pointer;
-  }
-
   .foot-grid {
     display: grid; grid-template-columns: 1.6fr repeat(3, 1fr); gap: 1.5rem 2rem;
     padding-bottom: 2rem;
