@@ -210,15 +210,8 @@ const stats = [
   @keyframes scroll { to { transform: translateX(-50%); } }
   @media (prefers-reduced-motion: reduce) { .marquee { animation: none; flex-wrap: wrap; width: auto; } }
 
-  .newsletter { display: flex; justify-content: space-between; align-items: center; gap: 1.5rem; flex-wrap: wrap; background: var(--surface); border: 1px solid var(--line); border-radius: 16px; padding: 1.75rem; }
-  .newsletter h2 { margin: 0 0 0.3rem; font-size: 1.3rem; }
-  .newsletter p { margin: 0; color: var(--ink-soft); }
-  .nl-row { display: flex; gap: 0.5rem; }
-  .nl-row input { padding: 0.65rem 1rem; border-radius: 10px; border: 1px solid var(--line); background: var(--bg); color: var(--ink); }
-  .nl-row button { padding: 0.65rem 1.2rem; border-radius: 10px; border: 0; background: var(--gold); color: #000; font-weight: 700; cursor: pointer; }
-
   @media (max-width: 800px) {
-    .organism, .live, .newsletter { grid-template-columns: 1fr; }
+    .organism, .live { grid-template-columns: 1fr; }
     .live { grid-template-columns: 1fr; }
   }
 </style>
