@@ -5,7 +5,6 @@ import { articlesForLocale, readingTime } from '@/lib/content';
 import { localePath, t } from '@/lib/i18n';
 import { getDashboard } from '@/lib/apidata';
 import PageHero from './PageHero.astro';
-import CategoryGrid from './CategoryGrid.astro';
 import ArticleCard from './ArticleCard.astro';
 
 interface Props {
@@ -85,27 +84,49 @@ const filterCats = CATEGORIES.filter((c) => latestCatIds.has(c.id));
 </section>
 
 <section class="container block">
-  <div class="psec">
-    <header><span>{L('Terokai mengikut seksyen', 'Explore by section', '按版块探索')}</span></header>
-    <div class="psec-body pillars">
-      {pillarStats.map((p) => (
-        <a class="pillar" href={localePath(`/${p.id}`, locale)}>
-          <span class="p-ico" aria-hidden="true">{p.icon}</span>
-          <b>{p.name}</b>
-          {p.blurb && <p>{p.blurb}</p>}
-          <span class="p-meta">{p.cats} {L('kategori', 'categories', '分类')} · {p.arts} {L('artikel', 'articles', '文章')}</span>
-        </a>
-      ))}
+  <div class="psec psec-gold">
+    <header>
+      <span>{L('Terokai mengikut seksyen', 'Explore by section', '按版块探索')}</span>
+      <span>{PILLARS.length}</span>
+    </header>
+    <div class="psec-body">
+      <div class="cat-grid">
+        {pillarStats.map((p) => (
+          <a class="cat-card" href={localePath(`/${p.id}`, locale)}>
+            <span class="ci-row">
+              <span class="ci" aria-hidden="true">{p.icon}</span>
+              <span class="cc">{p.arts}</span>
+            </span>
+            <b>{p.name}</b>
+            {p.blurb && <span class="cd">{p.blurb}</span>}
+          </a>
+        ))}
+      </div>
     </div>
   </div>
 </section>
 
 <section id="categories" class="container block">
-  <div class="sec-head">
-    <h2>{L(`${catCount} Kategori`, `${catCount} Categories`, `${catCount} 个分类`)}</h2>
-    <span class="sub-note">{L('Kuasai setiap bidang', 'Master every domain', '一次掌握每个领域')}</span>
+  <div class="psec psec-gold">
+    <header>
+      <span>{L('Kategori', 'Categories', '分类')}</span>
+      <span>{catCount}</span>
+    </header>
+    <div class="psec-body">
+      <div class="cat-grid">
+        {CATEGORIES.filter((c) => c.id !== 'about').map((c) => (
+          <a class="cat-card" href={localePath(`/${c.id}`, locale)}>
+            <span class="ci-row">
+              <span class="ci" aria-hidden="true">{c.icon}</span>
+              {counts[c.id] ? <span class="cc">{counts[c.id]}</span> : null}
+            </span>
+            <b>{c.name[locale]}</b>
+            <span class="cd">{c.blurb[locale]}</span>
+          </a>
+        ))}
+      </div>
+    </div>
   </div>
-  <CategoryGrid locale={locale} counts={counts} />
 </section>
 
 <section class="container block">
@@ -159,10 +180,36 @@ const filterCats = CATEGORIES.filter((c) => latestCatIds.has(c.id));
   .sec-head h2 { margin: 0; font-size: 1.5rem; }
   .sub-note { color: var(--muted); font-size: 0.9rem; }
 
+  /* Section box + category cards — identical to the standard used on the section
+     and category pages (HubGroups), so Explore reads as one system. */
   .psec { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; overflow: hidden; }
-  .psec > header { padding: 0.45rem 0.95rem; font-size: 1.05rem; font-weight: 700; letter-spacing: 0.03em; text-transform: uppercase; background: var(--surface-2); border-bottom: 1px solid var(--line); font-family: var(--font-title); }
-  .psec > header span { color: var(--gold); }
-  .psec-body { padding: 1.2rem; }
+  .psec > header {
+    display: flex; justify-content: space-between; align-items: center; gap: 0.5rem;
+    padding: 0.45rem 0.95rem; background: var(--surface-2); border-bottom: 1px solid var(--line);
+  }
+  .psec > header span:first-child {
+    font-family: var(--font-title); font-size: 1.05rem; font-weight: 700;
+    text-transform: uppercase; letter-spacing: 0.03em; line-height: 1.2; color: var(--ink);
+  }
+  .psec > header span:last-child {
+    font-family: var(--font-title); font-size: 1.05rem; font-weight: 700; line-height: 1.2;
+    color: var(--ink); font-variant-numeric: tabular-nums;
+  }
+  .psec-gold > header span:first-child, .psec-gold > header span:last-child { color: var(--gold); }
+  .psec-body { padding: 1.1rem; }
+
+  .cat-grid { display: grid; gap: 0.8rem; grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); }
+  .cat-card {
+    background: var(--surface-2); border: 1px solid var(--line); border-radius: 10px;
+    text-decoration: none; color: inherit; transition: border-color 0.15s, transform 0.15s;
+    display: flex; flex-direction: column; gap: 0.55rem; align-items: flex-start; padding: 1rem 1.05rem;
+  }
+  .cat-card:hover { border-color: color-mix(in srgb, var(--gold) 55%, var(--line)); transform: translateY(-2px); }
+  .cat-card .ci-row { width: 100%; display: flex; justify-content: space-between; align-items: center; }
+  .cat-card .ci { font-size: 1.6rem; line-height: 1; }
+  .cat-card b { font-family: var(--font-title); font-size: 1rem; }
+  .cat-card .cc { font-family: var(--font-title); font-size: 1rem; font-weight: 700; line-height: 1; color: var(--ink); font-variant-numeric: tabular-nums; }
+  .cat-card .cd { color: var(--ink-soft); font-size: 0.85rem; line-height: 1.5; }
 
   /* Search + discovery */
   .search { display: flex; gap: 0.5rem; max-width: 46rem; }
@@ -176,15 +223,6 @@ const filterCats = CATEGORIES.filter((c) => latestCatIds.has(c.id));
   .hot-label { color: var(--muted); font-size: 0.82rem; }
   .tag { font-size: 0.82rem; border: 1px solid var(--line); border-radius: 999px; padding: 0.2rem 0.65rem; color: var(--ink-soft); text-decoration: none; }
   .tag:hover { border-color: var(--gold); color: var(--gold); }
-
-  /* Pillar doors */
-  .pillars { display: grid; grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); gap: 1rem; }
-  .pillar { display: flex; flex-direction: column; gap: 0.35rem; background: var(--surface-2); border: 1px solid var(--line); border-radius: 12px; padding: 1.25rem; text-decoration: none; color: inherit; transition: border-color 0.15s ease, transform 0.15s ease; }
-  .pillar:hover { border-color: color-mix(in srgb, var(--gold) 55%, var(--line)); transform: translateY(-2px); }
-  .p-ico { font-size: 1.8rem; }
-  .pillar b { font-family: var(--font-title); font-size: 1.15rem; color: var(--ink); }
-  .pillar p { margin: 0; color: var(--ink-soft); font-size: 0.88rem; line-height: 1.55; flex: 1; }
-  .p-meta { color: var(--gold); font-size: 0.8rem; font-weight: 700; }
 
   /* Latest */
   #latest-filter { padding: 0.4rem 0.7rem; border-radius: 8px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); font: inherit; font-size: 0.85rem; }
