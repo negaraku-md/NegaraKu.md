@@ -2,7 +2,7 @@
 
 An open-source, AI-friendly knowledge base about **Malaysia** — curated, cited Markdown that
 both people and large language models can read.
-Sponsored by [1company](https://www.1company.com). Styled with the 1company brand system
+Sponsored by [1company.com](https://www.1company.com). Styled with the 1company brand system
 (dark canvas + gold accent, Montserrat/Lato).
 
 - **Content** lives in [`knowledge/`](knowledge/) as the single source of truth (Markdown +
