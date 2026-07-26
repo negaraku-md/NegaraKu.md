@@ -6,7 +6,7 @@ slug: "japanese-occupation"
 category: "malaysia"
 subcategory: ["colonial"]
 summary: "Kronologi pencerobohan Jepun dari pendaratan di Kota Bharu sehingga penyerahan 1945, struktur pentadbiran tentera yang menggantikan British, dan catatan deskriptif tentang bagaimana tempoh itu dialami secara berbeza oleh komuniti yang berbeza di Tanah Melayu dan Borneo."
-tier: "S"
+tier: "2"
 mode: "narrative"
 contentType: "guide"
 answer: "Tentera Jepun mendarat di Kuala Pak Amat, Kota Bharu pada 8 Disember 1941, dan menjelang 31 Januari 1942 seluruh Tanah Melayu berada dalam kawalan Jepun; Singapura menyerah pada 15 Februari 1942. Tempoh pendudukan berlangsung kira-kira tiga tahun lapan bulan sehingga penyerahan Jepun pada 1945. Ia melibatkan pentadbiran tentera, mata wang pendudukan (duit pisang), dasar pendidikan berteraskan bahasa Jepun, kekurangan makanan yang meluas, dan pengalaman yang sangat berbeza antara komuniti dan wilayah."

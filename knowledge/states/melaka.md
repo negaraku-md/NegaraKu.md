@@ -6,7 +6,7 @@ category: "states"
 subcategory: ["peninsular"]
 summary: "Profil Negeri Melaka — ibu negeri Bandaraya Melaka, institusi Yang di-Pertua Negeri yang dilantik dan bukan diwarisi, penyenaraian Tapak Warisan Dunia UNESCO pada 2008, dan struktur ekonomi negeri yang ternyata lebih luas daripada pelancongan sahaja."
 
-tier: "S"
+tier: "2"
 mode: "practical"
 contentType: "place"
 

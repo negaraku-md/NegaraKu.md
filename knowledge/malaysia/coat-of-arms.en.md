@@ -5,7 +5,7 @@ slug: "coat-of-arms"
 category: "malaysia"
 subcategory: ["identity"]
 summary: "The official meaning of every element on Malaysia's Jata Negara — the crescent moon and 14-point star, two tigers, five kris blades, the four coloured stripes of the Federated Malay States, the Melaka and areca palm trees, the Sabah and Sarawak emblems, the Bunga Raya, the royal yellow clouds, and the motto 'Bersekutu Bertambah Mutu' in Rumi and Jawi script — as recorded by the Department of Information Malaysia. Descriptive and fully respectful of the royal elements."
-tier: "S"
+tier: "2"
 mode: "practical"
 contentType: "guide"
 sensitivity: "none"

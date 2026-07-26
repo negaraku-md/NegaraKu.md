@@ -5,7 +5,7 @@ slug: "peka-b40-and-health-schemes"
 category: "healthcare"
 subcategory: ["using-the-system"]
 summary: "PeKa B40（Skim Peduli Kesihatan untuk Kumpulan B40，即 B40 群体医疗关怀计划）是隶属马来西亚卫生部（KKM）的政府医疗援助计划，由 ProtectHealth Corporation Sdn Bhd 负责营运，服务对象为年满 40 岁的 Sumbangan Tunai Rahmah（STR）现金援助领取者。本文说明该计划的四项援助内容、资格如何自动核实，以及为何它经常与另一项独立计划 mySalam 混淆。"
-tier: "S"
+tier: "3"
 mode: "practical"
 contentType: "guide"
 sensitivity: "none"

@@ -5,7 +5,7 @@ slug: "open-house"
 category: "glossary"
 subcategory: ["culture"]
 summary: "开放门户（Rumah Terbuka）是在佳节期间，邀请各族各教的邻居、朋友与公众到主人家中共享美食的习俗——这项传统源自开斋节（Hari Raya Aidilfitri）的走访拜年，如今政府也为农历新年、屠妖节（Deepavali）与圣诞节正式举办开放门户活动。"
-tier: "S"
+tier: "3"
 mode: "narrative"
 contentType: "guide"
 sensitivity: "none"

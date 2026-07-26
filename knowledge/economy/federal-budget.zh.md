@@ -6,7 +6,7 @@ category: "economy"
 subcategory: ["policy"]
 summary: "马来西亚联邦预算的实际运作过程——从库务处（Treasury）设定的开支上限、在下议院（Dewan Rakyat）的呈递、政策阶段与委员会阶段，一直到拨款法令颁布于宪报为止。"
 
-tier: "S"
+tier: "2"
 mode: "practical"
 contentType: "guide"
 

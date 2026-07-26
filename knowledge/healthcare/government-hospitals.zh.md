@@ -6,7 +6,7 @@ category: "healthcare"
 subcategory: ["using-the-system"]
 summary: "马来西亚卫生部（KKM）辖下的政府医院，按分层制度运作——Klinik Kesihatan（健康诊所）作为入口，县医院与专科／州医院则是下一级转诊层级——在 Akta Fee 1951 之下，公民的收费远低于非公民。本文说明转诊结构，以一间 KKM 医院的官方收费作为示例，并以中立方式说明轮候时间的实际情况，不列出无法查证的数字。"
 
-tier: "S"
+tier: "2"
 mode: "practical"
 contentType: "guide"
 sensitivity: "none"

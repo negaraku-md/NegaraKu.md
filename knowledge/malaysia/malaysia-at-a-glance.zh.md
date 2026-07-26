@@ -5,7 +5,7 @@ slug: "malaysia-at-a-glance"
 category: "malaysia"
 subcategory: ["country-basics"]
 summary: "一份经过核实的马来西亚基本资料表——陆地面积、人口、首都、货币、官方语言与主要经济数字——每一个数字都追溯到发布它的DOSM、国家银行（Bank Negara Malaysia）或宪法具体来源，并附上发布日期，以免它悄悄过时。"
-tier: "S"
+tier: "2"
 mode: "practical"
 contentType: "data"
 sensitivity: "none"

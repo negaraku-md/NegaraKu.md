@@ -5,7 +5,7 @@ slug: "wesak"
 category: "arts-culture"
 subcategory: ["festivals"]
 summary: "Satu catatan deskriptif tentang Hari Wesak (Vesak) di Malaysia — pemerhatian Buddha yang memperingati kelahiran, pencerahan dan kewafatan Buddha, disambut pada hari bulan purnama sehingga tarikh Gregorinya berubah setiap tahun. Meliputi statusnya sebagai hari kelepasan am peringkat kebangsaan, tarikh 2026 yang disahkan secara rasmi, dan cara ia biasanya disambut, dinyatakan sebagai fakta budaya tanpa mentafsir doktrin."
-tier: "S"
+tier: "3"
 mode: "practical"
 contentType: "guide"
 answer: "Hari Wesak (turut dieja Vesak) ialah satu pemerhatian Buddha yang, menurut tradisi tersebut, memperingati tiga peristiwa dalam kehidupan Buddha — kelahirannya, pencerahannya dan kewafatannya (parinirvana) — disambut bersama pada satu hari bulan purnama dalam bulan candra Vesakha. Kerana ia mengikut kalendar candra, tarikhnya dalam kalendar Gregori berubah setiap tahun, jatuh sekitar bulan April atau Mei. Ia adalah hari kelepasan am peringkat kebangsaan di seluruh negeri dan wilayah persekutuan Malaysia, mula-mula diisytiharkan sebagai hari kelepasan am pada 1962. Pada 2026, Kerajaan Malaysia (melalui Majlis Keselamatan Negara) mengesahkan Hari Wesak jatuh pada 31 Mei 2026 (Ahad); kerana ia jatuh pada hari Ahad, satu cuti gantian diberikan pada 2 Jun 2026 (Selasa)."

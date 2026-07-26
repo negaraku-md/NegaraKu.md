@@ -5,7 +5,7 @@ slug: "chinese-new-year"
 category: "arts-culture"
 subcategory: ["festivals"]
 summary: "农历新年是马来西亚华人社群最重要的年度节日。本文以描述性、中立的方式说明其主要习俗——除夕团圆饭、红包、舞狮、捞生，以及从除夕到元宵（十五暝）的节期节奏——并说明它在马来西亚多元社会中如何被呈现与共享，不评论任何宗教信仰。"
-tier: "S"
+tier: "2"
 mode: "narrative"
 contentType: "guide"
 sensitivity: "none"

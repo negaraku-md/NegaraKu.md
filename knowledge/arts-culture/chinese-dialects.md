@@ -5,7 +5,7 @@ slug: "chinese-dialects"
 category: "arts-culture"
 subcategory: ["languages"]
 summary: "马来西亚华人虽同属一个族群，母语却分成好几种互不相通的汉语方言——福建话、广东话、客家话、潮州话、海南话与福州话等。本文以描述性、中立的方式，说明这些方言群的祖籍来源、在半岛与婆罗洲的地域分布，以及华语（普通话）如何成为跨方言的共同语。"
-tier: "S"
+tier: "2"
 mode: "narrative"
 contentType: "guide"
 sensitivity: "none"

@@ -6,7 +6,7 @@ slug: "deepavali"
 category: "arts-culture"
 subcategory: ["festivals"]
 summary: "Deepavali ialah pesta cahaya umat Hindu, disambut setiap tahun oleh masyarakat Hindu Malaysia. Ini merupakan panduan deskriptif tentang apa yang disambutnya, bagaimana ia disambut, dan statusnya sebagai hari kelepasan am persekutuan yang diwartakan — yang disambut di setiap negeri dan Wilayah Persekutuan kecuali Sarawak."
-tier: "S"
+tier: "2"
 mode: "narrative"
 contentType: "guide"
 sensitivity: "none"

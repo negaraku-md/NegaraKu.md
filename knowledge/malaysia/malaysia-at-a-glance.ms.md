@@ -5,7 +5,7 @@ slug: "malaysia-at-a-glance"
 category: "malaysia"
 subcategory: ["country-basics"]
 summary: "Satu helaian fakta Malaysia yang disahkan — keluasan tanah, populasi, ibu negara, mata wang, bahasa rasmi dan angka ekonomi utama — dengan setiap angka dikesan kembali kepada sumber DOSM, Bank Negara Malaysia atau perlembagaan tertentu yang menerbitkannya, berserta tarikh keluaran supaya ia tidak senyap-senyap menjadi lapuk."
-tier: "S"
+tier: "2"
 mode: "practical"
 contentType: "data"
 sensitivity: "none"

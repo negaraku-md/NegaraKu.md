@@ -6,7 +6,7 @@ slug: "mak-yong"
 category: "arts-culture"
 subcategory: ["performing-arts"]
 summary: "Mak Yong ialah teater tarian tradisional Melayu berpusat di Kelantan yang menggabungkan lakonan, tarian, nyanyian dan muzik rebab. UNESCO mengisytiharkannya sebagai Masterpiece of the Oral and Intangible Heritage of Humanity pada 2005 dan memasukkannya ke dalam Senarai Perwakilan Warisan Budaya Tidak Ketara Kemanusiaan pada 2008."
-tier: "S"
+tier: "2"
 mode: "narrative"
 contentType: "guide"
 sensitivity: "none"

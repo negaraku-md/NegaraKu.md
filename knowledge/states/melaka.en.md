@@ -6,7 +6,7 @@ category: "states"
 subcategory: ["peninsular"]
 summary: "A profile of the State of Melaka — capital Bandaraya Melaka, the institution of the Yang di-Pertua Negeri who is appointed rather than hereditary, the 2008 UNESCO World Heritage Site listing, and a state economic structure that turns out to be broader than tourism alone."
 
-tier: "S"
+tier: "2"
 mode: "practical"
 contentType: "place"
 

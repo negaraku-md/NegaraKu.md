@@ -6,7 +6,7 @@ slug: "portuguese-melaka-1511"
 category: "malaysia"
 subcategory: ["colonial"]
 summary: "Melaka's fort held out for just ten days against the Portuguese, yet the same city held the Dutch off for seven months a hundred and thirty years later. The gap between those two numbers explains nearly the whole of the 1511 event — and where Melaka's royal lineage went afterward."
-tier: "S"
+tier: "2"
 mode: "narrative"
 contentType: "guide"
 answer: "The city of Melaka fell to a Portuguese force led by Afonso de Albuquerque on 24 August 1511, after a ten-day siege that began with his arrival on 10 August. The rapid collapse wasn't just a matter of political weakness: Melaka's defences at the time were a wooden-walled city, while the Portuguese arrived with a navy and cannon. The Portuguese then ruled Melaka for 130 years, and Melaka's royal lineage resumed Malay rule at Johor Lama in 1528."

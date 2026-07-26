@@ -5,7 +5,7 @@ slug: "chinese-opera"
 category: "arts-culture"
 subcategory: ["performing-arts"]
 summary: "Apa yang disebut sebagai 「Wayang Cina」 (大戏) oleh komuniti Cina Malaysia — bentuk wayang tradisional seperti Opera Kantonis, Opera Teochew, Opera Hokkien (gezaixi) dan budaixi (boneka batang besi Teochew) — kebanyakannya dipentaskan bukan untuk penonton biasa, tetapi sebagai 「wayang syukur dewa」 (酬神戏) yang dipersembahkan pada majlis seperti hari lahir dewa di tokong dan Perayaan Hantu Lapar. Artikel ini menerangkan bentuk-bentuk wayang ini dan cara ia dipersembahkan di Malaysia, secara deskriptif."
-tier: "S"
+tier: "3"
 mode: "narrative"
 contentType: "guide"
 sensitivity: "none"

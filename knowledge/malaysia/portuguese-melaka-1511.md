@@ -6,7 +6,7 @@ slug: "portuguese-melaka-1511"
 category: "malaysia"
 subcategory: ["colonial"]
 summary: "Kota Melaka bertahan sepuluh hari sahaja terhadap Portugis, tetapi kota yang sama menahan Belanda selama tujuh bulan seratus tiga puluh tahun kemudian. Beza antara dua angka itu menerangkan hampir keseluruhan peristiwa 1511 — dan menjelaskan ke mana keturunan diraja Melaka berpindah selepasnya."
-tier: "S"
+tier: "2"
 mode: "narrative"
 contentType: "guide"
 answer: "Kota Melaka jatuh kepada angkatan Portugis pimpinan Afonso de Albuquerque pada 24 Ogos 1511, selepas kepungan selama sepuluh hari yang bermula dengan ketibaannya pada 10 Ogos. Kejatuhan yang pantas itu bukan sekadar soal kelemahan politik: kubu pertahanan Melaka ketika itu ialah kota berdinding kayu, sedangkan Portugis datang dengan angkatan laut dan meriam. Portugis kemudian memerintah Melaka selama 130 tahun, dan keturunan diraja Melaka menyambung semula pemerintahan Melayu di Johor Lama pada tahun 1528."

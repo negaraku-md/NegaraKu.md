@@ -6,7 +6,7 @@ slug: "deepavali"
 category: "arts-culture"
 subcategory: ["festivals"]
 summary: "Deepavali is the Hindu festival of lights, observed each year by Malaysia's Hindu community. This is a descriptive guide to what it marks, how it is kept, and its status as a gazetted public holiday — one that is observed in every state and Federal Territory except Sarawak."
-tier: "S"
+tier: "2"
 mode: "narrative"
 contentType: "guide"
 sensitivity: "none"

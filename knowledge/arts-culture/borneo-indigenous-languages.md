@@ -7,7 +7,7 @@ slug: "borneo-indigenous-languages"
 category: "arts-culture"
 subcategory: ["languages"]
 summary: "Sabah and Sarawak are home to most of Malaysia's indigenous languages — dozens of tongues that linguists group into a handful of Austronesian families. This article describes those main groups factually and respectfully: the Dusunic, Murutic, Paitanic and Sama-Bajau languages of Sabah, and the Malayic (Iban), Bidayuhic, Melanau-Kajang and North Sarawakan languages of Sarawak, alongside the official counts and how these languages are taught today."
-tier: "S"
+tier: "2"
 mode: "narrative"
 contentType: "guide"
 sensitivity: "none"

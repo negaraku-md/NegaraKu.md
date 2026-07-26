@@ -5,7 +5,7 @@ slug: "jawi-script"
 category: "arts-culture"
 subcategory: ["languages"]
 summary: "Jawi script is a writing system based on Arabic letters adapted to write the Malay language. This article explains its origins, how the writing system works, its legal standing, and its use today — descriptively and neutrally, without taking a policy position."
-tier: "S"
+tier: "2"
 mode: "narrative"
 contentType: "guide"
 sensitivity: "none"

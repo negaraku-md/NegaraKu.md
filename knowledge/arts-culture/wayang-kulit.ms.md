@@ -6,7 +6,7 @@ slug: "wayang-kulit"
 category: "arts-culture"
 subcategory: ["performing-arts"]
 summary: "Teater wayang kulit Malaysia, berpusat di Kelantan, menyampaikan cerita yang berasal daripada Ramayana melalui patung kulit, sebuah pelita tunggal dan seorang dalang yang menyuarakan setiap watak — satu tradisi yang telah didorong oleh politik keagamaan ke ambang kepupusan."
-tier: "S"
+tier: "3"
 mode: "narrative"
 contentType: "guide"
 sensitivity: "none"

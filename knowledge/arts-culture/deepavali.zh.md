@@ -6,7 +6,7 @@ slug: "deepavali"
 category: "arts-culture"
 subcategory: ["festivals"]
 summary: "屠妖节（Deepavali）是兴都教的光明节，由马来西亚兴都教社群每年庆祝。本文以描述性方式介绍这个节日所纪念的内容、庆祝方式，以及它作为经宪报颁布的公共假期的地位——除砂拉越外，其余各州与联邦直辖区均有庆祝这项假期。"
-tier: "S"
+tier: "2"
 mode: "narrative"
 contentType: "guide"
 sensitivity: "none"

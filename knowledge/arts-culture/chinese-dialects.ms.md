@@ -5,7 +5,7 @@ slug: "chinese-dialects"
 category: "arts-culture"
 subcategory: ["languages"]
 summary: "Masyarakat Cina Malaysia sama-sama tergolong dalam satu kumpulan etnik, tetapi bahasa ibunda mereka terbahagi kepada beberapa dialek Cina yang tidak boleh difahami antara satu sama lain — Hokkien, Kantonis, Hakka, Teochew, Hainan dan Foochow, antara lain. Rencana ini menerangkan, secara deskriptif dan neutral, asal usul keturunan kumpulan-kumpulan dialek ini, taburannya di Semenanjung dan Borneo, serta bagaimana Mandarin menjadi bahasa perantaraan merentasi dialek."
-tier: "S"
+tier: "2"
 mode: "narrative"
 contentType: "guide"
 sensitivity: "none"

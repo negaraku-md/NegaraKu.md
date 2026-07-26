@@ -6,7 +6,7 @@ category: "arts-culture"
 subcategory: ["festivals"]
 summary: "Hari Krismas (25 Disember) merupakan cuti umum di seluruh Malaysia. Rencana ini menghuraikan, secara neutral, bagaimana komuniti Kristian negara ini menyambut hari tersebut, bagaimana ia turut disambut secara lebih meluas menerusi tradisi rumah terbuka dan hiasan awam, serta asas perundangan bagi statusnya sebagai cuti umum — termasuk cuti negeri tambahan bagi Malam Krismas di Sabah."
 
-tier: "S"
+tier: "3"
 mode: "practical"
 contentType: "guide"
 sensitivity: "none"

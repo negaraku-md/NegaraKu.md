@@ -6,7 +6,7 @@ category: "glossary"
 subcategory: ["government"]
 summary: "马来西亚国会的上议院（Senate）——共70名议员，26名由州立法议会选出，44名由最高元首委任——以及它与下议院（Dewan Rakyat）的分别。"
 
-tier: "S"
+tier: "2"
 mode: "practical"
 contentType: "glossary"
 

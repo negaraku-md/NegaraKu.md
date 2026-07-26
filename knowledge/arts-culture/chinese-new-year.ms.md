@@ -5,7 +5,7 @@ slug: "chinese-new-year"
 category: "arts-culture"
 subcategory: ["festivals"]
 summary: "Tahun Baharu Cina ialah perayaan tahunan yang paling penting bagi komuniti Cina di Malaysia. Rencana ini menerangkan secara deskriptif dan neutral amalan utamanya — makan malam perhimpunan keluarga pada malam tahun baharu, angpau, tarian singa, lo hei, serta rentak tempoh perayaan dari malam tahun baharu hingga Perayaan Tanglung (Chap Goh Meh) — dan menerangkan bagaimana ia dipersembahkan dan dikongsi dalam masyarakat majmuk Malaysia, tanpa mengulas sebarang kepercayaan agama."
-tier: "S"
+tier: "2"
 mode: "narrative"
 contentType: "guide"
 sensitivity: "none"

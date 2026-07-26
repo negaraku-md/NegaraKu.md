@@ -6,7 +6,7 @@ category: "economy"
 subcategory: ["policy"]
 summary: "Proses sebenar belanjawan persekutuan Malaysia — daripada batas perbelanjaan Perbendaharaan, pembentangan di Dewan Rakyat, peringkat dasar dan peringkat jawatankuasa, sehingga Akta Perbekalan diwartakan."
 
-tier: "S"
+tier: "2"
 mode: "practical"
 contentType: "guide"
 

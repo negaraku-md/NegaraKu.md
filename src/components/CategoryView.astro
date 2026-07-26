@@ -1,17 +1,12 @@
 ---
 import type { Locale, Category } from '@/lib/categories';
-import { getArchetype, getPillar, getPillarDef, categoriesInPillar, PILLARS } from '@/lib/categories';
+import { getPillar, getPillarDef, categoriesInPillar, PILLARS } from '@/lib/categories';
 import type { Article } from '@/lib/content';
 import { localePath } from '@/lib/i18n';
 import PageHero from './PageHero.astro';
 import HubGroups from './HubGroups.astro';
 
 import ServiceCategory from './category/ServiceCategory.astro';
-import NarrativeCategory from './category/NarrativeCategory.astro';
-import PlaceCategory from './category/PlaceCategory.astro';
-import ReferenceCategory from './category/ReferenceCategory.astro';
-import LookupCategory from './category/LookupCategory.astro';
-import DataCategory from './category/DataCategory.astro';
 
 // Category pages share one skeleton — purpose line, scoped search, then an
 // ARCHETYPE BODY that changes with the kind of knowledge the category holds.
@@ -25,7 +20,6 @@ interface Props {
 const { locale, category, articles } = Astro.props;
 const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
-const arch = getArchetype(category.archetype)!;
 const pillar = getPillar(category.id);
 const pillarDef = pillar ? getPillarDef(pillar) : undefined;
 const topicCount = new Set(articles.flatMap((a) => a.data.subcategory)).size;
@@ -33,14 +27,8 @@ const topicCount = new Set(articles.flatMap((a) => a.data.subcategory)).size;
 // this section) · Topics · Articles.
 const catCount = pillar ? categoriesInPillar(pillar).length : 0;
 
-const Body = {
-  service: ServiceCategory,
-  narrative: NarrativeCategory,
-  place: PlaceCategory,
-  reference: ReferenceCategory,
-  lookup: LookupCategory,
-  data: DataCategory,
-}[category.archetype];
+// Every category uses the service archetype now — one uniform, scalable body.
+const Body = ServiceCategory;
 ---
 
 <PageHero

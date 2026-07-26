@@ -1,8 +1,8 @@
 ---
 import type { Locale } from '@/lib/categories';
-import { CATEGORIES, getCategory, getPillar, PILLARS, categoriesInPillar } from '@/lib/categories';
-import { articlesForLocale, readingTime } from '@/lib/content';
-import { localePath, t } from '@/lib/i18n';
+import { CATEGORIES, getPillar, PILLARS, categoriesInPillar } from '@/lib/categories';
+import { articlesForLocale } from '@/lib/content';
+import { localePath } from '@/lib/i18n';
 import { getDashboard } from '@/lib/apidata';
 import PageHero from './PageHero.astro';
 import ArticleCard from './ArticleCard.astro';
@@ -19,30 +19,14 @@ const counts: Record<string, number> = {};
 for (const a of items) counts[a.data.category] = (counts[a.data.category] ?? 0) + 1;
 
 const nonAbout = items.filter((a) => a.data.category !== 'about');
-const latest = nonAbout.slice(0, 12);
 const featured = nonAbout.filter((a) => a.data.featured || a.data.status === 'verified').slice(0, 4);
-
-// Hot keywords from tags + subcategories.
-const kw = new Map<string, number>();
-for (const a of items) for (const term of [...a.data.keywords, ...a.data.subcategory]) kw.set(term, (kw.get(term) ?? 0) + 1);
-const hot = [...kw.entries()].sort((a, b) => b[1] - a[1]).slice(0, 10).map(([k]) => k);
 const catCount = CATEGORIES.filter((c) => c.id !== 'about').length;
 
-// Per-pillar rollup — the site's spine (Understand / Living / Business).
+// Per-section rollup — the site's spine (Understand / Living / Business).
 const pillarStats = PILLARS.map((p) => {
-  const artCount = nonAbout.filter((a) => getPillar(a.data.category) === p.id).length;
-  return { id: p.id, name: p.name[locale], icon: p.icon, blurb: p.blurb?.[locale], cats: categoriesInPillar(p.id).length, arts: artCount };
+  const arts = nonAbout.filter((a) => getPillar(a.data.category) === p.id).length;
+  return { id: p.id, name: p.name[locale], icon: p.icon, blurb: p.blurb?.[locale], arts };
 });
-
-// Discovery shortcuts.
-const ways = [
-  { icon: '📚', href: localePath('/articles', locale), label: L('Semua artikel', 'All articles', '所有文章') },
-  { icon: '🎲', href: localePath('/random', locale), label: L('Kejutkan saya', 'Surprise me', '随便看看') },
-  { icon: '🕸️', href: localePath('/graph', locale), label: L('Graf pengetahuan', 'Knowledge graph', '知识图谱') },
-];
-
-const latestCatIds = new Set(latest.map((a) => a.data.category));
-const filterCats = CATEGORIES.filter((c) => latestCatIds.has(c.id));
 ---
 
 <PageHero
@@ -66,27 +50,9 @@ const filterCats = CATEGORIES.filter((c) => latestCatIds.has(c.id));
 />
 
 <section class="container block">
-  <form class="search" action={localePath('/search', locale)} method="get">
-    <input type="search" name="q" placeholder={L('Cari Malaysia — orang, tempat, peristiwa…', 'Search Malaysia — people, places, events…', '搜索马来西亚 — 人物、地点、事件…')} />
-    <button type="submit">{t('nav.search', locale)}</button>
-  </form>
-  <div class="ways">
-    {ways.map((w) => (
-      <a class="way" href={w.href}><span aria-hidden="true">{w.icon}</span> {w.label}</a>
-    ))}
-  </div>
-  {hot.length > 0 && (
-    <div class="hot">
-      <span class="hot-label">{L('Kata kunci hangat', 'Hot keywords', '热门关键词')}:</span>
-      {hot.map((k) => <a class="tag" href={`${localePath('/search', locale)}?q=${encodeURIComponent(k)}`}>{k}</a>)}
-    </div>
-  )}
-</section>
-
-<section class="container block">
   <div class="psec psec-gold">
     <header>
-      <span>{L('Terokai mengikut seksyen', 'Explore by section', '按版块探索')}</span>
+      <span>{L('Seksyen', 'Sections', '版块')}</span>
       <span>{PILLARS.length}</span>
     </header>
     <div class="psec-body">
@@ -129,27 +95,6 @@ const filterCats = CATEGORIES.filter((c) => latestCatIds.has(c.id));
   </div>
 </section>
 
-<section class="container block">
-  <div class="sec-head">
-    <h2>{L('Artikel terkini', 'Latest articles', '最新文章')}</h2>
-    <select id="latest-filter" aria-label={L('Tapis kategori', 'Filter category', '筛选分类')}>
-      <option value="all">{L('Semua', 'All', '全部')}</option>
-      {filterCats.map((c) => <option value={c.id}>{c.name[locale]}</option>)}
-    </select>
-  </div>
-  <ul class="latest">
-    {latest.map((a) => (
-      <li data-cat={a.data.category}>
-        <a href={localePath(`/${a.data.category}/${a.data.slug}`, locale)}>
-          <span class="li-cat">{getCategory(a.data.category)?.icon}</span>
-          <span class="li-title">{a.data.title}</span>
-          <span class="li-meta">⏱️ {readingTime(a)} {L('min', 'min', '分钟')}</span>
-        </a>
-      </li>
-    ))}
-  </ul>
-</section>
-
 {featured.length > 0 && (
   <section class="container block">
     <div class="sec-head"><h2>{L('Bacaan pilihan', 'Featured deep-dives', '深度精选')}</h2></div>
@@ -157,28 +102,10 @@ const filterCats = CATEGORIES.filter((c) => latestCatIds.has(c.id));
   </section>
 )}
 
-<section class="container block cta-sec">
-  <div class="cta-card">
-    <h2>{L('Tak jumpa yang anda cari?', "Can't find what you want?", '找不到想要的？')}</h2>
-    <p>{L('Bantu kami melengkapkan pengetahuan tentang Malaysia.', 'Help us complete the knowledge about Malaysia.', '帮助我们完善关于马来西亚的知识。')}</p>
-    <a class="btn btn-primary" href={localePath('/contribute', locale)}>{t('nav.contribute', locale)}</a>
-  </div>
-</section>
-
-<script>
-  const sel = document.getElementById('latest-filter') as HTMLSelectElement | null;
-  const rows = Array.from(document.querySelectorAll<HTMLElement>('.latest li'));
-  sel?.addEventListener('change', () => {
-    const v = sel.value;
-    rows.forEach((li) => (li.style.display = v === 'all' || li.dataset.cat === v ? '' : 'none'));
-  });
-</script>
-
 <style>
   .block { margin-top: 1.6rem; }
-  .sec-head { display: flex; align-items: baseline; justify-content: space-between; gap: 1rem; flex-wrap: wrap; margin-bottom: 1.1rem; }
+  .sec-head { margin-bottom: 1.1rem; }
   .sec-head h2 { margin: 0; font-size: 1.5rem; }
-  .sub-note { color: var(--muted); font-size: 0.9rem; }
 
   /* Section box + category cards — identical to the standard used on the section
      and category pages (HubGroups), so Explore reads as one system. */
@@ -211,32 +138,5 @@ const filterCats = CATEGORIES.filter((c) => latestCatIds.has(c.id));
   .cat-card .cc { font-family: var(--font-title); font-size: 1rem; font-weight: 700; line-height: 1; color: var(--ink); font-variant-numeric: tabular-nums; }
   .cat-card .cd { color: var(--ink-soft); font-size: 0.85rem; line-height: 1.5; }
 
-  /* Search + discovery */
-  .search { display: flex; gap: 0.5rem; max-width: 46rem; }
-  .search input { flex: 1; padding: 0.7rem 1rem; border-radius: 10px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); font-size: 1rem; }
-  .search input:focus { outline: none; border-color: var(--gold); }
-  .search button { padding: 0.7rem 1.1rem; border-radius: 10px; border: 0; background: var(--gold); color: #000; font-weight: 700; cursor: pointer; }
-  .ways { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 0.8rem; }
-  .way { display: inline-flex; align-items: center; gap: 0.4rem; font-size: 0.85rem; font-weight: 600; color: var(--ink-soft); border: 1px solid var(--line); border-radius: 999px; padding: 0.35rem 0.85rem; text-decoration: none; }
-  .way:hover { border-color: var(--gold); color: var(--gold); }
-  .hot { display: flex; flex-wrap: wrap; gap: 0.4rem; align-items: center; margin-top: 0.9rem; }
-  .hot-label { color: var(--muted); font-size: 0.82rem; }
-  .tag { font-size: 0.82rem; border: 1px solid var(--line); border-radius: 999px; padding: 0.2rem 0.65rem; color: var(--ink-soft); text-decoration: none; }
-  .tag:hover { border-color: var(--gold); color: var(--gold); }
-
-  /* Latest */
-  #latest-filter { padding: 0.4rem 0.7rem; border-radius: 8px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); font: inherit; font-size: 0.85rem; }
-  .latest { list-style: none; padding: 0; margin: 0; display: grid; gap: 0.4rem; }
-  .latest a { display: flex; align-items: center; gap: 0.75rem; padding: 0.6rem 0.9rem; border: 1px solid var(--line); border-radius: 10px; text-decoration: none; color: inherit; }
-  .latest a:hover { border-color: var(--gold); background: var(--surface); }
-  .li-cat { font-size: 1.1rem; }
-  .li-title { flex: 1; font-weight: 600; }
-  .li-meta { color: var(--muted); font-size: 0.8rem; white-space: nowrap; }
-
   .rows { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 24rem), 1fr)); gap: 1rem; }
-
-  .cta-sec { padding-bottom: 3rem; }
-  .cta-card { text-align: center; border: 1px solid var(--line); border-top: 2px solid var(--gold); border-radius: 16px; padding: 2rem; background: var(--surface); }
-  .cta-card h2 { margin: 0 0 0.4rem; }
-  .cta-card p { color: var(--ink-soft); margin: 0 0 1.25rem; }
 </style>

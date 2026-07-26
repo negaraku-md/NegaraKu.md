@@ -5,7 +5,7 @@ slug: "open-house"
 category: "glossary"
 subcategory: ["culture"]
 summary: "Rumah terbuka ialah amalan menjemput jiran, rakan dan orang ramai daripada semua kaum dan agama untuk menjamah juadah di rumah tuan rumah sepanjang musim perayaan — satu tradisi yang bermula sebagai kunjungan Aidilfitri tetapi kini turut diadakan secara rasmi oleh kerajaan bagi Tahun Baharu Cina, Deepavali dan Krismas."
-tier: "S"
+tier: "3"
 mode: "narrative"
 contentType: "guide"
 sensitivity: "none"

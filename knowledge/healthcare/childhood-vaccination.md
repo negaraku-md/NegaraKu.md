@@ -6,7 +6,7 @@ category: "healthcare"
 subcategory: ["specialised"]
 summary: "Bagaimana Program Imunisasi Kebangsaan (PIK) di bawah Kementerian Kesihatan Malaysia (KKM) sebenarnya berfungsi — kenapa ia percuma di klinik kerajaan, peranan Buku Rekod Kesihatan Bayi dan Kanak-kanak, dan penyakit yang dilindungi mengikut Jadual Imunisasi Kebangsaan. Artikel ini sengaja tidak menyenaraikan dos atau umur suntikan tertentu; ibu bapa dinasihatkan merujuk klinik kesihatan atau laman rasmi KKM untuk jadual terkini."
 
-tier: "S"
+tier: "3"
 mode: "practical"
 contentType: "guide"
 sensitivity: "none"

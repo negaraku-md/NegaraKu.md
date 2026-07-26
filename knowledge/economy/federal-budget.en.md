@@ -6,7 +6,7 @@ category: "economy"
 subcategory: ["policy"]
 summary: "The real process behind Malaysia's federal budget — from the Treasury's expenditure ceiling, through presentation in the Dewan Rakyat, the policy stage and the committee stage, to the Supply Act being gazetted."
 
-tier: "S"
+tier: "2"
 mode: "practical"
 contentType: "guide"
 

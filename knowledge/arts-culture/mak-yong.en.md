@@ -6,7 +6,7 @@ slug: "mak-yong"
 category: "arts-culture"
 subcategory: ["performing-arts"]
 summary: "Mak Yong is a traditional Malay dance theatre centred in Kelantan that combines acting, dance, singing and rebab music. UNESCO proclaimed it a Masterpiece of the Oral and Intangible Heritage of Humanity in 2005 and inscribed it on the Representative List of the Intangible Cultural Heritage of Humanity in 2008."
-tier: "S"
+tier: "2"
 mode: "narrative"
 contentType: "guide"
 sensitivity: "none"

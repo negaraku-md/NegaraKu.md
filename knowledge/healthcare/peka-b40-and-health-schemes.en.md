@@ -5,7 +5,7 @@ slug: "peka-b40-and-health-schemes"
 category: "healthcare"
 subcategory: ["using-the-system"]
 summary: "PeKa B40 (Skim Peduli Kesihatan untuk Kumpulan B40, or B40 Health Care Scheme) is a government health aid scheme under the Ministry of Health Malaysia (KKM), operated by ProtectHealth Corporation Sdn Bhd, for recipients of Sumbangan Tunai Rahmah (STR) aged 40 and above. This article explains the scheme's four aid components, how eligibility is verified automatically, and why it is often confused with the separate mySalam scheme."
-tier: "S"
+tier: "3"
 mode: "practical"
 contentType: "guide"
 sensitivity: "none"

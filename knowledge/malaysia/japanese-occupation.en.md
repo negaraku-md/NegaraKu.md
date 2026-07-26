@@ -6,7 +6,7 @@ slug: "japanese-occupation"
 category: "malaysia"
 subcategory: ["colonial"]
 summary: "A chronology of the Japanese invasion from the landing at Kota Bharu to the 1945 surrender, the military administration structure that replaced the British, and a descriptive account of how the period was experienced differently by different communities in Malaya and Borneo."
-tier: "S"
+tier: "2"
 mode: "narrative"
 contentType: "guide"
 answer: "Japanese forces landed at Kuala Pak Amat, Kota Bharu on 8 December 1941, and by 31 January 1942 the whole of Malaya was under Japanese control; Singapore surrendered on 15 February 1942. The occupation lasted roughly three years eight months, until the Japanese surrender in 1945. It involved military administration, an occupation currency (banana money), an education policy centred on the Japanese language, widespread food shortages, and experiences that varied greatly between communities and regions."

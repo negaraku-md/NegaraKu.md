@@ -6,7 +6,7 @@ slug: "kaamatan"
 category: "arts-culture"
 subcategory: ["festivals"]
 summary: "Pesta Kaamatan is the Kadazandusun harvest festival of Sabah, a public holiday on 30 and 31 May built around thanksgiving to the rice spirit Bambaazon and the legend of Huminodun. Its best-known event, the Unduk Ngadau, is a cultural pageant that honours that legend rather than beauty alone."
-tier: "S"
+tier: "2"
 mode: "narrative"
 contentType: "guide"
 sensitivity: "none"

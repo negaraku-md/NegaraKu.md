@@ -14,11 +14,22 @@ const API = path.join(ROOT, 'public', 'api');
 const OUT = path.join(API, 'changelog.json');
 
 const TYPE = (subject) => {
-  const s = subject.toLowerCase();
-  if (/^feat|feature|add/.test(s)) return { key: 'feature', icon: '✨' };
-  if (/^fix|bug/.test(s)) return { key: 'fix', icon: '🐛' };
-  if (/^docs?|content|article/.test(s)) return { key: 'content', icon: '📄' };
-  if (/^translat|i18n|zh|en/.test(s)) return { key: 'translate', icon: '🌐' };
+  const s = subject.toLowerCase().trim();
+  // Prefer the conventional-commit type prefix (text before the first ":"). This
+  // is far more reliable than scanning the whole subject, where substrings like
+  // "en" inside "backend" used to mis-flag commits as translations.
+  const prefix = s.includes(':') ? s.slice(0, s.indexOf(':')).trim() : '';
+  if (/^(feat|feature)$/.test(prefix)) return { key: 'feature', icon: '✨' };
+  if (/^(fix|bug|bugfix|hotfix)$/.test(prefix)) return { key: 'fix', icon: '🐛' };
+  if (/^(content|docs?|article)$/.test(prefix)) return { key: 'content', icon: '📄' };
+  if (/^(translate|translation|i18n|lang|locale)$/.test(prefix)) return { key: 'translate', icon: '🌐' };
+  if (/^(chore|refactor|style|ui|ux|build|ci|test|perf|arch|architecture|revert|deps?|config)$/.test(prefix))
+    return { key: 'chore', icon: '🔧' };
+  // No recognised prefix → fall back to word-boundary keyword scan on the subject.
+  if (/\bfix(es|ed)?\b|\bbug\b/.test(s)) return { key: 'fix', icon: '🐛' };
+  if (/\btranslat\w*\b|\bi18n\b/.test(s)) return { key: 'translate', icon: '🌐' };
+  if (/\b(content|article)\b/.test(s)) return { key: 'content', icon: '📄' };
+  if (/\b(feat|feature|add(s|ed)?|new)\b/.test(s)) return { key: 'feature', icon: '✨' };
   return { key: 'chore', icon: '🔧' };
 };
 

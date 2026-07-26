@@ -6,7 +6,7 @@ category: "glossary"
 subcategory: ["legal"]
 summary: "Mahkamah is the general term for the judicial institutions that hear and decide cases in Malaysia. The country's court system is divided into two separate streams — the civil courts (federal) and the Syariah Courts (state) — each with its own levels."
 
-tier: "S"
+tier: "3"
 mode: "practical"
 contentType: "glossary"
 sensitivity: "none"

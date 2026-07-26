@@ -6,7 +6,7 @@ slug: "kaamatan"
 category: "arts-culture"
 subcategory: ["festivals"]
 summary: "Pesta Kaamatan ialah pesta menuai Kadazandusun di Sabah, satu cuti umum pada 30 dan 31 Mei yang dibina di sekitar kesyukuran kepada semangat padi Bambaazon dan legenda Huminodun. Acara yang paling terkenal, Unduk Ngadau, ialah pertandingan ratu cantik budaya yang menghormati legenda itu, bukan sekadar kecantikan semata-mata."
-tier: "S"
+tier: "3"
 mode: "narrative"
 contentType: "guide"
 sensitivity: "none"

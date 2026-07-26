@@ -5,7 +5,7 @@ slug: "hari-raya-aidilfitri"
 category: "arts-culture"
 subcategory: ["festivals"]
 summary: "Hari Raya Aidilfitri falls on 1 Syawal, marking the end of a month of Ramadan fasting. This article describes its meaning and practices descriptively — the sunat prayer and zakat fitrah according to JAKIM guidance, as well as social practices such as balik kampung, duit raya, rumah terbuka and ziarah — without interpreting religious teachings."
-tier: "S"
+tier: "3"
 mode: "practical"
 contentType: "guide"
 sensitivity: "none"

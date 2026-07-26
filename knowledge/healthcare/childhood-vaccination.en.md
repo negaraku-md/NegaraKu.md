@@ -6,7 +6,7 @@ category: "healthcare"
 subcategory: ["specialised"]
 summary: "How the National Immunisation Programme (NIP) under the Ministry of Health Malaysia (KKM) actually works — why it's free at government clinics, the role of the Infant and Child Health Record Book, and the diseases covered under the National Immunisation Schedule. This article deliberately does not list specific doses or vaccination ages; parents are advised to check with a health clinic or KKM's official website for the current schedule."
 
-tier: "S"
+tier: "3"
 mode: "practical"
 contentType: "guide"
 sensitivity: "none"

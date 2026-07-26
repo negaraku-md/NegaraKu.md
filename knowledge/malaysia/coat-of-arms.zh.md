@@ -5,7 +5,7 @@ slug: "coat-of-arms"
 category: "malaysia"
 subcategory: ["identity"]
 summary: "马来西亚国徽（Jata Negara）每个元素的官方含义——新月与十四道尖角的星星、两只老虎、五把马来短剑、代表马来联邦四邦的四色条纹、马六甲树与槟榔树、沙巴与砂拉越的州徽、大红花、代表王室的黄色云朵，以及以罗马字与爪夷文书写的格言「Bersekutu Bertambah Mutu」——均依据马来西亚新闻部的记录整理而成。本文纯属描述性质，对王室相关元素完全保持尊重。"
-tier: "S"
+tier: "2"
 mode: "practical"
 contentType: "guide"
 sensitivity: "none"

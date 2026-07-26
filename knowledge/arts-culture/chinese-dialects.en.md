@@ -5,7 +5,7 @@ slug: "chinese-dialects"
 category: "arts-culture"
 subcategory: ["languages"]
 summary: "Malaysian Chinese all belong to one ethnic group, yet their mother tongues split into several mutually unintelligible Chinese dialects — Hokkien, Cantonese, Hakka, Teochew, Hainanese, Foochow and others. This article describes, neutrally and descriptively, where these dialect groups trace their ancestry, how they are distributed across the Peninsula and Borneo, and how Mandarin became the common language across dialects."
-tier: "S"
+tier: "2"
 mode: "narrative"
 contentType: "guide"
 sensitivity: "none"
