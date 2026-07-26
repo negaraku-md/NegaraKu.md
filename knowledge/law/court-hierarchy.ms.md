@@ -200,7 +200,7 @@ orang kurang upaya, serta probet.
 
 Fakta bahawa hal ehwal syarikat tertakluk di sini adalah sebab mengapa
 penggulungan (winding-up) dan prosiding lain di bawah [Akta Syarikat 2016
-(Companies Act 2016)](/ms/law/companies-act-2016) merupakan kerja Mahkamah
+(Companies Act 2016)](/law/companies-act-2016) merupakan kerja Mahkamah
 Tinggi.
 
 Mahkamah Tinggi juga berada di atas mahkamah-mahkamah rendah dalam tiga cara:
@@ -220,7 +220,7 @@ persoalan undang-undang. Seksyen 28(2) mengecualikan nafkah isteri atau anak
 ## Mahkamah Rayuan dan Mahkamah Persekutuan: di mana kebenaran (leave) mula memainkan peranan
 
 Bidang kuasa Mahkamah Rayuan bersandarkan Perkara 121(1B) [Perlembagaan
-Persekutuan (Federal Constitution)](/ms/law/federal-constitution) serta Part
+Persekutuan (Federal Constitution)](/law/federal-constitution) serta Part
 III CJA. Setiap prosiding didengar oleh tiga hakim, atau bilangan ganjil yang
 lebih besar sebagaimana ditentukan oleh Presiden (the President) (s.38(1)).
 
@@ -294,7 +294,7 @@ Mahkamah Persekutuan dalam perkara sivil, anda sentiasa memerlukan kebenaran
 (s.96).
 
 **Bermula di forum yang sama sekali salah.** Pertikaian pekerjaan di bawah
-[Akta Kerja 1955 (Employment Act 1955)](/ms/law/employment-act-1955) dan
+[Akta Kerja 1955 (Employment Act 1955)](/law/employment-act-1955) dan
 tuntutan pengguna di hadapan Tribunal Tuntutan Pengguna (Tribunal for
 Consumer Claims) — yang diwujudkan di bawah s.85 Consumer Protection Act
 1999 — bermula di luar hierarki ini.
@@ -313,7 +313,7 @@ dapatkan nasihat. Tiada apa-apa di sini yang merupakan nasihat guaman.
 
 ## Apa yang seterusnya
 
-Baca halaman [Perlembagaan Persekutuan](/ms/law/federal-constitution) untuk
+Baca halaman [Perlembagaan Persekutuan](/law/federal-constitution) untuk
 asas perlembagaan bagi kuasa kehakiman dan kedudukan mahkamah-mahkamah
-atasan, kemudian halaman [Akta Syarikat 2016](/ms/law/companies-act-2016)
+atasan, kemudian halaman [Akta Syarikat 2016](/law/companies-act-2016)
 untuk prosiding korporat yang mesti bermula di Mahkamah Tinggi.

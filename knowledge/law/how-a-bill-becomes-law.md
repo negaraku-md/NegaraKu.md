@@ -205,7 +205,7 @@ Seksyen 19(1) menetapkan formula tarikh: permulaan kuat kuasa sesuatu Akta ialah
 
 Kesannya praktikal: banyak Akta Malaysia disiarkan dalam Warta tetapi menetapkan bahawa ia mula berkuat kuasa pada tarikh yang akan ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pemberitahuan itu diterbitkan sebagai P.U.(B) dan boleh datang berbulan-bulan — atau bertahun-tahun — kemudian, kadangkala seksyen demi seksyen. Portal [Perundangan Persekutuan Malaysia](https://lom.agc.gov.my/) menyenaraikan Akta, pindaan, P.U.(A) dan P.U.(B) inilah.
 
-Lihat juga entri glosari [Warta Kerajaan](/en/glossary/warta-kerajaan) dan [Akta](/en/glossary/akta).
+Lihat juga entri glosari [Warta Kerajaan](/glossary/warta-kerajaan) dan [Akta](/glossary/akta).
 
 ## Jika ia rang undang-undang pindaan perlembagaan
 
@@ -218,7 +218,7 @@ Dua lapisan persetujuan tambahan juga wujud:
 - **Perkara 159(5)** — pindaan kepada peruntukan tertentu, termasuk Perkara 10(4), Bahagian III, Perkara 38, 63(4), 70, 71(1), 72(4), 152 atau 153, tidak boleh diluluskan tanpa persetujuan **Majlis Raja-Raja**.
 - **Perkara 161E(2)** — tiada pindaan boleh dibuat tanpa persetujuan **Yang di-Pertua Negeri** Sabah atau Sarawak jika ia menyentuh perkara tersenarai seperti hak kewarganegaraan berkaitan Negeri itu, keanggotaan dan bidang kuasa Mahkamah Tinggi di Sabah dan Sarawak, serta perkara kuasa perundangan dan perkiraan kewangan Negeri itu.
 
-Latar penuh rangka kerja ini ada dalam artikel [Perlembagaan Persekutuan](/en/law/federal-constitution) dan [Parlimen Malaysia](/en/government/parliament).
+Latar penuh rangka kerja ini ada dalam artikel [Perlembagaan Persekutuan](/law/federal-constitution) dan [Parlimen Malaysia](/government/parliament).
 
 ## Kesilapan biasa
 
@@ -238,4 +238,4 @@ Latar penuh rangka kerja ini ada dalam artikel [Perlembagaan Persekutuan](/en/la
 
 Jika anda menjejaki sesuatu rang undang-undang tertentu, ikut tiga dokumen mengikut urutan: teks rang undang-undang seperti yang dibentangkan, versi seperti yang diluluskan selepas peringkat jawatankuasa, dan Akta seperti yang disiarkan dalam Warta. Perbezaan antara ketiga-tiganya adalah tempat perubahan sebenar berlaku.
 
-Untuk pembacaan lanjut, mulakan dengan [Perlembagaan Persekutuan](/en/law/federal-constitution) bagi rangka kerja keseluruhan, kemudian [Parlimen Malaysia](/en/government/parliament) bagi institusi yang menjalankan proses ini.
+Untuk pembacaan lanjut, mulakan dengan [Perlembagaan Persekutuan](/law/federal-constitution) bagi rangka kerja keseluruhan, kemudian [Parlimen Malaysia](/government/parliament) bagi institusi yang menjalankan proses ini.

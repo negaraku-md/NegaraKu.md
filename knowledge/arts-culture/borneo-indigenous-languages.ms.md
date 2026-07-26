@@ -125,7 +125,7 @@ Bahasa-bahasa mereka tersebar merentasi beberapa rumpun:
 | **Sarawak Utara** | Kayan, Kenyah, Kelabit, Lun Bawang, Berawan dan lain-lain | Bahasa "Orang Ulu" di hulu sungai bagi tanah tinggi pedalaman |
 | **Punan / Penan** | Kaum Penan dan kaum berkaitan | Bahasa kaum yang secara sejarahnya tinggal jauh di dalam hutan |
 
-**Orang Ulu** ("orang hulu") bukan satu kaum atau satu bahasa. Istilah ini adalah payung yang meliputi banyak kaum kecil pedalaman — Kayan, Kenyah, Kelabit, Lun Bawang, Penan dan lain-lain — setiap satunya mempunyai bahasa tersendiri. Begitu juga, **Dayak** adalah istilah kolektif yang merangkumi Iban, Bidayuh dan kaum-kaum lain yang berkongsi perayaan menuai [Gawai Dayak](/ms/arts-culture/gawai-dayak), bukan nama satu bahasa tunggal.
+**Orang Ulu** ("orang hulu") bukan satu kaum atau satu bahasa. Istilah ini adalah payung yang meliputi banyak kaum kecil pedalaman — Kayan, Kenyah, Kelabit, Lun Bawang, Penan dan lain-lain — setiap satunya mempunyai bahasa tersendiri. Begitu juga, **Dayak** adalah istilah kolektif yang merangkumi Iban, Bidayuh dan kaum-kaum lain yang berkongsi perayaan menuai [Gawai Dayak](/arts-culture/gawai-dayak), bukan nama satu bahasa tunggal.
 
 ## Kumpulan etnik dan bahasa bukanlah perkara yang sama
 
@@ -133,7 +133,7 @@ Amat mudah untuk membaca jadual populasi di atas sebagai senarai bahasa. Sebenar
 
 **Kumpulan etnik** dan **bahasa** bertindih tetapi tidak sepadan satu-satu. Satu kaum boleh menuturkan beberapa dialek yang beransur menjadi bahasa yang berasingan; kaum-kaum jiran mungkin berkongsi sebahagian besar satu bahasa; dan nama satu kaum dalam banci mungkin merangkumi lebih banyak variasi linguistik berbanding yang disarankan oleh satu label. Inilah sebabnya mengapa amaran "bahasa berbanding dialek" penting, dan mengapa kiraan berbeza antara sumber.
 
-Untuk rangka perlembagaan dan statistik yang meliputi kesemua ini — bagaimana Bahasa Melayu menjadi bahasa kebangsaan sementara bahasa-bahasa ini dilindungi untuk kegunaan persendirian — lihat [Bahasa-bahasa Malaysia, rasmi dan selainnya](/ms/malaysia/languages-spoken).
+Untuk rangka perlembagaan dan statistik yang meliputi kesemua ini — bagaimana Bahasa Melayu menjadi bahasa kebangsaan sementara bahasa-bahasa ini dilindungi untuk kegunaan persendirian — lihat [Bahasa-bahasa Malaysia, rasmi dan selainnya](/malaysia/languages-spoken).
 
 ## Bagaimana bahasa-bahasa ini hidup pada hari ini
 
@@ -143,7 +143,7 @@ Sesuatu bahasa terus hidup apabila ia digunakan, dan beberapa bahasa Borneo diaj
 
 **Iban**, sebagai bahasa peribumi terbesar Sarawak, turut diajar di sekolah-sekolah negeri itu di bawah rangka POL. Bahasa lain, seperti Bidayuh dan bahasa Orang Asli Semenanjung, Semai, turut ditawarkan di mana terdapat permintaan. Mata pelajaran POL lazimnya adalah elektif, tertakluk kepada saiz kelas minimum dan permintaan daripada ibu bapa — jadi ketersediaannya berbeza dari satu sekolah ke satu sekolah.
 
-Di luar bilik darjah, bahasa-bahasa ini membawa kehidupan harian dan istiadat kaum masing-masing: ucapan salam [Kaamatan](/ms/arts-culture/kaamatan) di Sabah, upacara rumah panjang Gawai di Sarawak, sejarah lisan, lagu dan doa yang tiada gantian bertulis.
+Di luar bilik darjah, bahasa-bahasa ini membawa kehidupan harian dan istiadat kaum masing-masing: ucapan salam [Kaamatan](/arts-culture/kaamatan) di Sabah, upacara rumah panjang Gawai di Sarawak, sejarah lisan, lagu dan doa yang tiada gantian bertulis.
 
 ## Kesalahfahaman biasa
 
@@ -157,9 +157,9 @@ Di luar bilik darjah, bahasa-bahasa ini membawa kehidupan harian dan istiadat ka
 
 ## Apa yang seterusnya
 
-- Baca [Bahasa-bahasa Malaysia, rasmi dan selainnya](/ms/malaysia/languages-spoken) untuk memahami bagaimana bahasa kebangsaan dan bahasa peribumi ini terletak dalam Perlembagaan Persekutuan.
-- Lihat [Sabah](/ms/states/sabah) dan [Sarawak](/ms/states/sarawak) bagi kedua-dua negeri yang kaumnya menuturkan bahasa-bahasa ini.
-- Terokai [Gawai Dayak](/ms/arts-culture/gawai-dayak) dan [Kaamatan](/ms/arts-culture/kaamatan), perayaan menuai di mana banyak bahasa ini didengari dalam istiadat — serta [Orang Asli](/ms/arts-culture/orang-asli) bagi masyarakat dan bahasa peribumi Semenanjung Malaysia yang diklasifikasikan secara berasingan.
+- Baca [Bahasa-bahasa Malaysia, rasmi dan selainnya](/malaysia/languages-spoken) untuk memahami bagaimana bahasa kebangsaan dan bahasa peribumi ini terletak dalam Perlembagaan Persekutuan.
+- Lihat [Sabah](/states/sabah) dan [Sarawak](/states/sarawak) bagi kedua-dua negeri yang kaumnya menuturkan bahasa-bahasa ini.
+- Terokai [Gawai Dayak](/arts-culture/gawai-dayak) dan [Kaamatan](/arts-culture/kaamatan), perayaan menuai di mana banyak bahasa ini didengari dalam istiadat — serta [Orang Asli](/arts-culture/orang-asli) bagi masyarakat dan bahasa peribumi Semenanjung Malaysia yang diklasifikasikan secara berasingan.
 
 ---
 

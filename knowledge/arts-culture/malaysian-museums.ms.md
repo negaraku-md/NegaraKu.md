@@ -106,4 +106,4 @@ Muzium negeri Sabah pula mempunyai sejarah dua peringkat yang lebih baharu: ia m
 
 ## Apa yang seterusnya
 
-Padankan lawatan ke Muzium Negara dengan melihat bagaimana UNESCO secara berasingan mengiktiraf [warisan binaan Melaka dan Georgetown](/ms/arts-culture/unesco-world-heritage), bagaimana budaya kebendaan [Peranakan](/ms/arts-culture/peranakan) daripada kedua-dua bandar yang sama itu memenuhi rumah-muzium khususnya sendiri, dan bagaimana eksibit Galeri Prasejarah berkait dengan sejarah lebih luas masyarakat [Orang Asli](/ms/arts-culture/orang-asli) yang artifaknya dipamerkan.
+Padankan lawatan ke Muzium Negara dengan melihat bagaimana UNESCO secara berasingan mengiktiraf [warisan binaan Melaka dan Georgetown](/arts-culture/unesco-world-heritage), bagaimana budaya kebendaan [Peranakan](/arts-culture/peranakan) daripada kedua-dua bandar yang sama itu memenuhi rumah-muzium khususnya sendiri, dan bagaimana eksibit Galeri Prasejarah berkait dengan sejarah lebih luas masyarakat [Orang Asli](/arts-culture/orang-asli) yang artifaknya dipamerkan.

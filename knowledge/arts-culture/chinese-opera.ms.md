@@ -102,8 +102,8 @@ Ini tidak bermakna Wayang Cina telah lenyap. Tradisi syukur dewa sempena hari la
 
 ## Apa yang seterusnya
 
-Untuk memahami satu lagi bentuk teater tradisional Malaysia yang berpaksikan boneka, lihat [Wayang Kulit: Seorang Dalang, Sebuah Pelita, dan Satu Cerita Sepanjang Malam](/ms/arts-culture/wayang-kulit).
+Untuk memahami satu lagi bentuk teater tradisional Malaysia yang berpaksikan boneka, lihat [Wayang Kulit: Seorang Dalang, Sebuah Pelita, dan Satu Cerita Sepanjang Malam](/arts-culture/wayang-kulit).
 
-Untuk mengenali satu lagi bentuk teater tradisional masyarakat Melayu, lihat [Mak Yong](/ms/arts-culture/mak-yong).
+Untuk mengenali satu lagi bentuk teater tradisional masyarakat Melayu, lihat [Mak Yong](/arts-culture/mak-yong).
 
-Untuk memahami konteks keseluruhan George Town, Pulau Pinang sebagai tapak warisan dunia, lihat [Warisan Dunia UNESCO Malaysia](/ms/arts-culture/unesco-world-heritage).
+Untuk memahami konteks keseluruhan George Town, Pulau Pinang sebagai tapak warisan dunia, lihat [Warisan Dunia UNESCO Malaysia](/arts-culture/unesco-world-heritage).

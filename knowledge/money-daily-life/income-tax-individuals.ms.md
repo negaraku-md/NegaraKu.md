@@ -122,7 +122,7 @@ terpakai tahun demi tahun.
 Keempat-empat ujian ini, perkataan statutori yang tepat, dan senario yang
 diselesaikan di mana setiap satu terpakai, dibincangkan secara mendalam
 dalam [Pemastautin Cukai bagi Individu: Empat Ujian dalam
-s.7(1)](/ms/taxation/individual-tax-residence) — patut dibaca dengan teliti
+s.7(1)](/taxation/individual-tax-residence) — patut dibaca dengan teliti
 jika keadaan anda berada berhampiran sempadan, seperti tahun ketibaan atau
 pemergian.
 
@@ -171,7 +171,7 @@ situasi anda. Borang manakah itu — Form BE bagi pemastautin tanpa
 pendapatan perniagaan, Form B bagi pendapatan perniagaan, Form M bagi
 bukan pemastautin, dan sebagainya — berserta tarikh akhir khususnya,
 dipetakan dalam [Borang LHDN Manakah Yang Perlu Anda Failkan? BE, B, BT, M,
-P dan E](/ms/taxation/which-tax-form).
+P dan E](/taxation/which-tax-form).
 
 ## Bila ia sebenarnya perlu difailkan
 
@@ -224,13 +224,13 @@ tersebut, dan bukannya menganggap tarikh tahun lepas berulang tepat sama.
 Jika status pemastautin anda benar-benar berada di sempadan — tahun
 ketibaan, pemergian, atau tahun bercampur negara — teliti pecahan penuh
 empat ujian dalam [Pemastautin Cukai bagi Individu: Empat Ujian dalam
-s.7(1)](/ms/taxation/individual-tax-residence). Sebaik sahaja anda tahu
+s.7(1)](/taxation/individual-tax-residence). Sebaik sahaja anda tahu
 borang mana yang terpakai kepada anda, [Borang LHDN Manakah Yang Perlu
-Anda Failkan?](/ms/taxation/which-tax-form) memetakan setiap jenis
+Anda Failkan?](/taxation/which-tax-form) memetakan setiap jenis
 pembayar cukai bukan korporat kepada borang dan tarikh akhirnya yang
 tepat. Bagi jalur kadar dan pelepasan yang mengubah pemulangan yang anda
 failkan menjadi bil cukai sebenar, lihat artikel khusus mengenai kadar
 cukai peribadi dan pelepasan. Dan bagi LHDN itu sendiri — asas
 perundangannya dan keseluruhan set platform yang dikendalikannya selain
 MyTax — lihat [LHDN — Lembaga Hasil Dalam Negeri
-Malaysia](/ms/government/lhdn).
+Malaysia](/government/lhdn).

@@ -139,7 +139,7 @@ Apa yang tidak dipegang oleh MACC ialah keputusan pertuduhan. Seksyen 58
 mengekalkan itu kepada Pendakwa Raya, dan seksyen 59 menghantar kes itu ke
 Mahkamah Sesyen melainkan Pendakwa Raya mengesahkan sebaliknya di bawah
 seksyen 60. Lihat
-[bagaimana mahkamah Malaysia disusun mengikut tingkat](/ms/business/malaysia-courts-business-disputes).
+[bagaimana mahkamah Malaysia disusun mengikut tingkat](/business/malaysia-courts-business-disputes).
 
 ## Seni bina penyeliaan
 
@@ -160,7 +160,7 @@ Tiga perkara menjadikan seni bina ini lebih daripada sekadar senarai.
 menghendaki Ketua Pesuruhjaya melaporkan secara tahunan kepada Jawatankuasa
 Khas. Seksyen 14(5) menghendaki Jawatankuasa Khas melaporkan secara tahunan
 kepada Perdana Menteri, yang mesti membentangkan laporan itu di hadapan
-kedua-dua Dewan — [Dewan Rakyat dan Dewan Negara](/ms/government/parliament).
+kedua-dua Dewan — [Dewan Rakyat dan Dewan Negara](/government/parliament).
 
 **Keahlian silang adalah dilarang.** Seksyen 64 menghalang seorang ahli
 Jawatankuasa Khas daripada turut menganggotai Lembaga Penasihat atau
@@ -192,14 +192,14 @@ awam" secara cukup luas untuk merangkumi pihak berkuasa tempatan, pihak
 berkuasa berkanun, pertubuhan berdaftar, koperasi, kesatuan sekerja dan — di
 bawah perenggan (k) — mana-mana syarikat atau anak syarikat yang mana badan
 sedemikian mempunyai kuasa atau kepentingan mengawal, dan itulah sebabnya Akta
-itu menjangkau sebahagian besar landskap [GLC](/ms/glossary/glc).
+itu menjangkau sebahagian besar landskap [GLC](/glossary/glc).
 
 Seksyen 17A, yang diperkenalkan oleh pindaan 2018 dan berkuat kuasa mulai 1
 Jun 2020, melangkah lebih jauh: sesebuah organisasi komersial itu sendiri
 melakukan kesalahan apabila seseorang yang berkaitan dengannya secara rasuah
 memberi atau menawarkan gratifikasi untuk mendapatkan atau mengekalkan
 perniagaan, tertakluk kepada pembelaan "adequate procedures" (prosedur
-mencukupi). Syarikat yang berdaftar dengan [SSM](/ms/government/ssm) termasuk
+mencukupi). Syarikat yang berdaftar dengan [SSM](/government/ssm) termasuk
 tepat dalam peruntukan itu.
 
 ## Apa yang seterusnya
@@ -209,6 +209,6 @@ tepat dalam peruntukan itu.
   digunakan di atas sepadan dengan teks tersebut.
 - Untuk latar belakang perlembagaan bagi pelantikan oleh Yang di-Pertuan
   Agong atas nasihat Perdana Menteri, lihat
-  [Perlembagaan Persekutuan](/ms/law/federal-constitution).
+  [Perlembagaan Persekutuan](/law/federal-constitution).
 - Untuk aspek berparlimen rantaian pelaporan itu, lihat
-  [Parlimen](/ms/government/parliament).
+  [Parlimen](/government/parliament).

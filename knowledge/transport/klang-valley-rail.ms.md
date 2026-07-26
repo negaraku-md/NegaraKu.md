@@ -232,7 +232,7 @@ operator tersebut sendiri.
 ## Apa yang seterusnya
 
 Untuk konteks mengenai bandar yang dihubungkan oleh laluan-laluan ini,
-lihat panduan NegaraKu.md mengenai [Kuala Lumpur](/ms/states/kuala-lumpur)
-sebagai ibu negara persekutuan Malaysia, dan [Selangor](/ms/states/selangor),
+lihat panduan NegaraKu.md mengenai [Kuala Lumpur](/states/kuala-lumpur)
+sebagai ibu negara persekutuan Malaysia, dan [Selangor](/states/selangor),
 negeri sekeliling yang dilalui oleh kebanyakan rangkaian ini — termasuk
 Laluan Shah Alam yang baharu.

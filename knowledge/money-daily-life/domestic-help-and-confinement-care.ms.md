@@ -181,10 +181,10 @@ semua pemeriksaan itu.
 ## Apa yang seterusnya
 
 Untuk badan kerajaan yang menjalankan proses kelulusan pembantu rumah
-asing, lihat [Jabatan Imigresen Malaysia](/ms/government/imigresen).
+asing, lihat [Jabatan Imigresen Malaysia](/government/imigresen).
 Untuk memahami dengan lebih mendalam bagaimana Employment Act 1955
 melayan kategori pekerja yang berbeza-beza, lihat
-[Employment Act 1955](/ms/law/employment-act-1955). Dan jika gaji
+[Employment Act 1955](/law/employment-act-1955). Dan jika gaji
 pembantu tinggal bersama bermakna anda perlu menyediakan susunan
 pembayaran tetap pertama anda di Malaysia, lihat
-[Membuka Akaun Bank di Malaysia](/ms/money-daily-life/opening-bank-account).
+[Membuka Akaun Bank di Malaysia](/money-daily-life/opening-bank-account).

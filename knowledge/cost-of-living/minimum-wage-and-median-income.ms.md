@@ -115,7 +115,7 @@ sebagai profesional dan majikan yang mempunyai lima atau lebih pekerja, dan
 kepada setiap majikan lain yang selebihnya mulai 1 Ogos 2025 — penangguhan
 untuk majikan kecil telah tamat sejak itu. Peraturan lengkap mengenai skop,
 potongan dan masa pembayaran dihuraikan dalam
-[Gaji Minimum dan Peraturan Membayar Gaji](/ms/employment/minimum-wage-malaysia).
+[Gaji Minimum dan Peraturan Membayar Gaji](/employment/minimum-wage-malaysia).
 
 Pada RM1,700, gaji minimum berada pada lebih kurang 61% daripada gaji individu
 median 2024 sebanyak RM2,793 — satu jurang, bukan kebetulan, kerana median
@@ -157,9 +157,9 @@ percanggahan:
 ## Apa yang seterusnya
 
 - Bagi butiran undang-undang di sebalik lantai RM1,700 — skop, potongan,
-  tarikh akhir pembayaran: [Gaji Minimum dan Peraturan Membayar Gaji](/ms/employment/minimum-wage-malaysia)
+  tarikh akhir pembayaran: [Gaji Minimum dan Peraturan Membayar Gaji](/employment/minimum-wage-malaysia)
 - Bagi pasaran buruh yang menjadi wadah gaji-gaji ini:
-  [Kadar Pengangguran Malaysia dan Tenaga Buruh di Sebaliknya](/ms/economy/unemployment-labour-force)
+  [Kadar Pengangguran Malaysia dan Tenaga Buruh di Sebaliknya](/economy/unemployment-labour-force)
 - Sumber utama: [portal Minimum Wages Order 2024](https://gajiminimum.mohr.gov.my/) dan DOSM
   [Household Income Survey Report 2024](https://www.dosm.gov.my/portal-main/release-content/household-income-survey-report--malaysia--states-2024)
   serta

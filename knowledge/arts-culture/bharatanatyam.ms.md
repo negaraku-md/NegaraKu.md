@@ -124,12 +124,12 @@ Malaysia Barathanatyam Dance Association, menurut laman webnya sendiri, kini mem
 
 Bharatanatyam di Malaysia tidak terhad kepada pentas teater. Ia muncul pada:
 
-- **Acara keagamaan Hindu**, termasuk perayaan seperti [Thaipusam](/ms/arts-culture/thaipusam) dan [Deepavali](/ms/arts-culture/deepavali), di mana tarian boleh menjadi sebahagian daripada program keagamaan atau perayaan.
+- **Acara keagamaan Hindu**, termasuk perayaan seperti [Thaipusam](/arts-culture/thaipusam) dan [Deepavali](/arts-culture/deepavali), di mana tarian boleh menjadi sebahagian daripada program keagamaan atau perayaan.
 - **Acara komuniti dan sekolah**, termasuk arangetram — persembahan solo pertama rasmi seorang penari, menandakan penyempurnaan bertahun-tahun latihan.
 - **Produksi berbayar tiket dan pertunjukan kebudayaan**, dipentaskan oleh institusi seperti TFA dan Sutra Dance Theatre, kadangkala mencampurkan teknik klasik dengan koreografi kontemporari untuk penonton pelbagai.
 - **Program kebudayaan kebangsaan**, mencerminkan kedudukan bentuk seni ini dalam kalangan tradisi tarian yang direkodkan dalam pangkalan data pemetaan kebudayaan JKKN sendiri, bersama bentuk tarian Melayu, Cina, dan bentuk tarian peribumi yang lain.
 
-Komuniti yang paling rapat dikaitkan dengan bentuk seni ini ialah penduduk India Malaysia yang berbahasa Tamil — lihat [Tamil in Malaysia](/ms/arts-culture/tamil-in-malaysia) untuk profil demografi dan linguistik komuniti tersebut — tetapi amalannya tidak kekal terhad kepada satu kumpulan etnik sahaja. Ramli Ibrahim, seorang penari dan koreografer Melayu, membina kerjaya sepanjang beberapa dekad yang tertumpu pada bentuk tarian klasik India. Mavin Khoo, seorang penari Malaysia berketurunan campuran yang dilatih di bawah guru Adyar K. Lakshman yang berpangkalan di Chennai, menjadi salah seorang pemain solo lelaki Bharatanatyam generasinya yang diiktiraf di peringkat antarabangsa, dan kemudiannya turut menceburi balet klasik.
+Komuniti yang paling rapat dikaitkan dengan bentuk seni ini ialah penduduk India Malaysia yang berbahasa Tamil — lihat [Tamil in Malaysia](/arts-culture/tamil-in-malaysia) untuk profil demografi dan linguistik komuniti tersebut — tetapi amalannya tidak kekal terhad kepada satu kumpulan etnik sahaja. Ramli Ibrahim, seorang penari dan koreografer Melayu, membina kerjaya sepanjang beberapa dekad yang tertumpu pada bentuk tarian klasik India. Mavin Khoo, seorang penari Malaysia berketurunan campuran yang dilatih di bawah guru Adyar K. Lakshman yang berpangkalan di Chennai, menjadi salah seorang pemain solo lelaki Bharatanatyam generasinya yang diiktiraf di peringkat antarabangsa, dan kemudiannya turut menceburi balet klasik.
 
 ## Kesilapan biasa
 
@@ -141,6 +141,6 @@ Komuniti yang paling rapat dikaitkan dengan bentuk seni ini ialah penduduk India
 
 ## Apa yang seterusnya
 
-- Baca [Tamil in Malaysia](/ms/arts-culture/tamil-in-malaysia) untuk memahami komuniti yang paling rapat dikaitkan dengan sejarah Bharatanatyam di negara ini.
-- Baca [Thaipusam](/ms/arts-culture/thaipusam) dan [Deepavali](/ms/arts-culture/deepavali) untuk dua perayaan Hindu di mana tarian klasik sering tampil dalam program awam dan komuniti.
+- Baca [Tamil in Malaysia](/arts-culture/tamil-in-malaysia) untuk memahami komuniti yang paling rapat dikaitkan dengan sejarah Bharatanatyam di negara ini.
+- Baca [Thaipusam](/arts-culture/thaipusam) dan [Deepavali](/arts-culture/deepavali) untuk dua perayaan Hindu di mana tarian klasik sering tampil dalam program awam dan komuniti.
 - Rujuk pangkalan data pemetaan kebudayaan JKKN, serta laman web Temple of Fine Arts dan Sutra Foundation sendiri, untuk butiran lanjut mengenai institusi, laluan latihan dan repertoir.

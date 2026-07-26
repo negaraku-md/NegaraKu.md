@@ -124,10 +124,10 @@ Laporan Suruhanjaya itu juga, secara ringkas, ialah satu dokumen primer: satu re
 
 ## Apa yang seterusnya
 
-- Baca bagaimana proses merangka itu sesuai dengan penyerahan kuasa yang lebih luas dalam [Merdeka: bagaimana 31 Ogos 1957 sebenarnya berlaku](/ms/malaysia/independence-1957).
-- Lihat pertikaian perlembagaan yang menjadi reaksi Suruhanjaya itu dalam [Malayan Union dan Persekutuan Tanah Melayu](/ms/malaysia/malayan-union).
-- Fahami institusi yang diminta dilindungi oleh Suruhanjaya itu dalam [sembilan institusi diraja Melayu](/ms/malaysia/nine-royal-houses).
-- Bagi perluasan persekutuan kemudiannya, lihat [pembentukan Malaysia pada 1963](/ms/malaysia/formation-of-malaysia-1963).
+- Baca bagaimana proses merangka itu sesuai dengan penyerahan kuasa yang lebih luas dalam [Merdeka: bagaimana 31 Ogos 1957 sebenarnya berlaku](/malaysia/independence-1957).
+- Lihat pertikaian perlembagaan yang menjadi reaksi Suruhanjaya itu dalam [Malayan Union dan Persekutuan Tanah Melayu](/malaysia/malayan-union).
+- Fahami institusi yang diminta dilindungi oleh Suruhanjaya itu dalam [sembilan institusi diraja Melayu](/malaysia/nine-royal-houses).
+- Bagi perluasan persekutuan kemudiannya, lihat [pembentukan Malaysia pada 1963](/malaysia/formation-of-malaysia-1963).
 
 ---
 

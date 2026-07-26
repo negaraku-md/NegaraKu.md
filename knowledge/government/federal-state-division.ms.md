@@ -161,7 +161,7 @@ Apabila Sabah dan Sarawak menyertai Persekutuan pada tahun 1963, kedua-dua neger
 
 **Senarai IIIA — Tambahan kepada Senarai Bersama** menambah subjek yang boleh digubal undang-undang oleh kedua-dua Persekutuan dan Negeri-Negeri itu, termasuk undang-undang diri mengenai perkahwinan dan pusaka (butiran 10), pencemaran bahan makanan (butiran 11), perkapalan di bawah lima belas tan berdaftar dan perikanan muara (butiran 12), elektrik kuasa air (butiran 13), penyelidikan pertanian dan perhutanan (butiran 14), dan badan amal Negeri (butiran 15).
 
-Tambahan-tambahan ini termasuk dalam perkara-perkara yang dilindungi oleh Perlembagaan daripada pindaan tanpa persetujuan Negeri berkenaan — lihat [Meminda Perlembagaan Persekutuan](/ms/law/constitutional-amendment) dan [MA63](/ms/malaysia/ma63).
+Tambahan-tambahan ini termasuk dalam perkara-perkara yang dilindungi oleh Perlembagaan daripada pindaan tanpa persetujuan Negeri berkenaan — lihat [Meminda Perlembagaan Persekutuan](/law/constitutional-amendment) dan [MA63](/malaysia/ma63).
 
 ## Kesilapan biasa
 
@@ -175,7 +175,7 @@ Tambahan-tambahan ini termasuk dalam perkara-perkara yang dilindungi oleh Perlem
 
 ## Apa yang seterusnya
 
-Untuk mengetahui kedudukan Jadual Kesembilan dalam keseluruhan dokumen itu, lihat [Perlembagaan Persekutuan Malaysia](/ms/law/federal-constitution). Untuk mahkamah-mahkamah yang dinamakan dalam butiran 1 Senarai Negeri dan butiran 4 Senarai Persekutuan, lihat [Mahkamah sivil dan Mahkamah Syariah](/ms/law/civil-and-syariah-courts). Untuk cara kedua-dua Dewan yang memegang kuasa perundangan persekutuan dibentuk, lihat [Parlimen](/ms/government/parliament). Untuk kayu ukur yang lebih tinggi yang melindungi tambahan Sabah dan Sarawak daripada pindaan, lihat [Meminda Perlembagaan Persekutuan](/ms/law/constitutional-amendment) dan [MA63](/ms/malaysia/ma63).
+Untuk mengetahui kedudukan Jadual Kesembilan dalam keseluruhan dokumen itu, lihat [Perlembagaan Persekutuan Malaysia](/law/federal-constitution). Untuk mahkamah-mahkamah yang dinamakan dalam butiran 1 Senarai Negeri dan butiran 4 Senarai Persekutuan, lihat [Mahkamah sivil dan Mahkamah Syariah](/law/civil-and-syariah-courts). Untuk cara kedua-dua Dewan yang memegang kuasa perundangan persekutuan dibentuk, lihat [Parlimen](/government/parliament). Untuk kayu ukur yang lebih tinggi yang melindungi tambahan Sabah dan Sarawak daripada pindaan, lihat [Meminda Perlembagaan Persekutuan](/law/constitutional-amendment) dan [MA63](/malaysia/ma63).
 
 ---
 

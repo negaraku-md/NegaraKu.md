@@ -180,10 +180,10 @@ teks yang perlu dirujuk untuk seksyen-seksyen di atas.
 
 Halaman ini menetapkan identiti, struktur dan syarat pembentukan Act 136.
 Bagaimana pertikaian kontrak sebenarnya dibicarakan adalah persoalan bagi
-[hierarki mahkamah](/ms/law/court-hierarchy) dan, apabila melibatkan kewangan
+[hierarki mahkamah](/law/court-hierarchy) dan, apabila melibatkan kewangan
 Islam atau kontrak keluarga, garis pemisah antara
-[mahkamah sivil dan mahkamah Syariah](/ms/law/civil-and-syariah-courts).
+[mahkamah sivil dan mahkamah Syariah](/law/civil-and-syariah-courts).
 Bagaimana Akta ini menjadi asas kepada satu kontrak tertentu — hubungan
-pekerjaan — dinyatakan dalam [Employment Act 1955](/ms/law/employment-act-1955);
+pekerjaan — dinyatakan dalam [Employment Act 1955](/law/employment-act-1955);
 bagaimana ia menjadi asas kepada kontrak sesebuah syarikat pula adalah persoalan
-bagi [Companies Act 2016](/ms/law/companies-act-2016).
+bagi [Companies Act 2016](/law/companies-act-2016).

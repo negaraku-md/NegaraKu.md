@@ -115,7 +115,7 @@ Jika surat konsultasi atau invois menyenaraikan satu kepakaran, kelayakan itu di
 
 ## Satu cukai kini terletak di atas sebahagian bil
 
-Sejak 1 Julai 2025, cukai perkhidmatan telah dikenakan ke atas sebahagian caj penjagaan kesihatan swasta di Malaysia, dengan struktur pengecualian berasingan yang melayan warganegara Malaysia secara berbeza daripada bukan warganegara. Skop, kadar dan ambang yang terlibat telah disemak lebih daripada sekali sejak diperkenalkan, jadi berbanding memetik satu angka yang mungkin sudah lapuk, artikel ini merujuk kepada pecahan khusus: [pengembangan cukai perkhidmatan 1 Julai 2025, sektor demi sektor](/ms/taxation/sst-expansion-2025), yang menjejaki kadar dan pengecualian semasa secara langsung.
+Sejak 1 Julai 2025, cukai perkhidmatan telah dikenakan ke atas sebahagian caj penjagaan kesihatan swasta di Malaysia, dengan struktur pengecualian berasingan yang melayan warganegara Malaysia secara berbeza daripada bukan warganegara. Skop, kadar dan ambang yang terlibat telah disemak lebih daripada sekali sejak diperkenalkan, jadi berbanding memetik satu angka yang mungkin sudah lapuk, artikel ini merujuk kepada pecahan khusus: [pengembangan cukai perkhidmatan 1 Julai 2025, sektor demi sektor](/taxation/sst-expansion-2025), yang menjejaki kadar dan pengecualian semasa secara langsung.
 
 ## Kesilapan biasa
 

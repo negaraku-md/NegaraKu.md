@@ -166,5 +166,5 @@ lagi kunjungan tapak jika pendawaian luaran baharu diperlukan.
 Jika anda sedang menyediakan perkhidmatan mudah alih bersama jalur lebar
 rumah anda — termasuk Unifi Mobile, yang selalunya dibungkus bersama
 talian Unifi Home — lihat
-[Membeli SIM Mudah Alih di Malaysia](/ms/money-daily-life/mobile-sim-plans)
+[Membeli SIM Mudah Alih di Malaysia](/money-daily-life/mobile-sim-plans)
 untuk cara pendaftaran dan pemilihan penyedia berfungsi di sana.

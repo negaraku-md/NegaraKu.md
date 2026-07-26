@@ -98,7 +98,7 @@ Selain pakaian, komuniti ini turut membina satu dunia kebendaan tersendiri:
 
 Kekayaan dan cita rasa Peranakan tercatat dalam senibina Melaka dan George Town. Komuniti ini menggemari **rumah kedai dan rumah teres bergaya Straits-eclectic** — bangunan yang dalam dan sempit dengan fasad yang memadukan unsur hiasan Cina dengan tiang Eropah, jubin seramik dan tingkap bertingkap kekisi. Dua daripadanya kekal sebagai muzium yang dibina di sekitar rumah keluarga sebenar: **Baba & Nyonya Heritage Museum** di 48 dan 50 Jalan Tun Tan Cheng Lock (dahulunya Heeren Street) di Melaka, dan **Pinang Peranakan Mansion** di George Town.
 
-Lanskap jalan ini adalah antara sebab **Melaka dan George Town, Historic Cities of the Straits of Malacca** disenaraikan bersama dalam Senarai Warisan Dunia UNESCO pada **7 Julai 2008**, di bawah kriteria kebudayaan (ii), (iii) dan (iv). Penyenaraian ini mengiktiraf bandar-bandar yang dibentuk oleh hampir 500 tahun perdagangan antara Timur dan Barat, serta satu "warisan hidup berbilang budaya" yang bersifat ketara dan tidak ketara. Baba-Nyonya adalah satu daripada rantaian warisan tersebut, di samping komuniti Melayu, India, dan berketurunan Eropah di kedua-dua bandar itu. Anda boleh membaca lebih lanjut mengenai penyenaraian yang lebih luas ini dalam [tapak Warisan Dunia UNESCO Malaysia](/ms/arts-culture/unesco-world-heritage), dan mengenai sarung [batik](/ms/arts-culture/batik) yang menjadi teras kebaya Nyonya.
+Lanskap jalan ini adalah antara sebab **Melaka dan George Town, Historic Cities of the Straits of Malacca** disenaraikan bersama dalam Senarai Warisan Dunia UNESCO pada **7 Julai 2008**, di bawah kriteria kebudayaan (ii), (iii) dan (iv). Penyenaraian ini mengiktiraf bandar-bandar yang dibentuk oleh hampir 500 tahun perdagangan antara Timur dan Barat, serta satu "warisan hidup berbilang budaya" yang bersifat ketara dan tidak ketara. Baba-Nyonya adalah satu daripada rantaian warisan tersebut, di samping komuniti Melayu, India, dan berketurunan Eropah di kedua-dua bandar itu. Anda boleh membaca lebih lanjut mengenai penyenaraian yang lebih luas ini dalam [tapak Warisan Dunia UNESCO Malaysia](/arts-culture/unesco-world-heritage), dan mengenai sarung [batik](/arts-culture/batik) yang menjadi teras kebaya Nyonya.
 
 Malaysia turut melindungi warisan secara lebih luas melalui **Akta Warisan Kebangsaan 2005**, yang ditadbir oleh Jabatan Warisan Negara, yang menyelenggara satu daftar warisan kebudayaan ketara dan tidak ketara.
 
@@ -109,5 +109,5 @@ Mudah sahaja untuk meletakkan Peranakan di bawah kategori "sejarah", tetapi buda
 ## Apa yang seterusnya
 
 - Lawati **Baba & Nyonya Heritage Museum** di Melaka atau **Pinang Peranakan Mansion** di George Town untuk melihat sebuah rumah Peranakan yang terpelihara utuh.
-- Baca mengenai [penyenaraian Warisan Dunia UNESCO](/ms/arts-culture/unesco-world-heritage) yang lebih luas yang dikongsi oleh Melaka dan George Town.
-- Kaji lebih dekat [batik](/ms/arts-culture/batik), kain berlilin-rintang yang sarungnya dipadankan dengan kebaya Nyonya.
+- Baca mengenai [penyenaraian Warisan Dunia UNESCO](/arts-culture/unesco-world-heritage) yang lebih luas yang dikongsi oleh Melaka dan George Town.
+- Kaji lebih dekat [batik](/arts-culture/batik), kain berlilin-rintang yang sarungnya dipadankan dengan kebaya Nyonya.

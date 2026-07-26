@@ -128,11 +128,11 @@ Tradisi saling bertandang ini, ditambah dengan cuti umum di seluruh negara pada 
 
 ## Apa yang seterusnya
 
-Untuk memahami kadar komuniti Cina dalam populasi Malaysia dan pengelasan etnik rasmi, lihat [komposisi penduduk Malaysia](/ms/malaysia/population-composition).
+Untuk memahami kadar komuniti Cina dalam populasi Malaysia dan pengelasan etnik rasmi, lihat [komposisi penduduk Malaysia](/malaysia/population-composition).
 
-Untuk memahami gambaran keseluruhan kepelbagaian agama di Malaysia, lihat [statistik agama Malaysia](/ms/malaysia/religion-statistics); untuk memahami pelbagai bahasa dan dialek yang wujud bersama secara tempatan, lihat [bahasa-bahasa yang dituturkan di Malaysia](/ms/malaysia/languages-spoken).
+Untuk memahami gambaran keseluruhan kepelbagaian agama di Malaysia, lihat [statistik agama Malaysia](/malaysia/religion-statistics); untuk memahami pelbagai bahasa dan dialek yang wujud bersama secara tempatan, lihat [bahasa-bahasa yang dituturkan di Malaysia](/malaysia/languages-spoken).
 
-Untuk mengenali satu lagi tradisi budaya Malaysia, lihat [Batik: The Craft That Draws With Wax Instead of Dye](/ms/arts-culture/batik).
+Untuk mengenali satu lagi tradisi budaya Malaysia, lihat [Batik: The Craft That Draws With Wax Instead of Dye](/arts-culture/batik).
 
 ---
 

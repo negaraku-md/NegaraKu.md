@@ -142,7 +142,7 @@ portal rasmi Dewan Negeri Perak.
 Kesultanan Perak bermula pada 1528 dengan Sultan Muzaffar Syah I, yang menurut
 portal rasmi kerajaan negeri berketurunan daripada Sultan Mahmud Syah
 Melaka — sambungan langsung daripada [Kesultanan
-Melaka](/en/malaysia/melaka-sultanate) yang jatuh pada 1511.
+Melaka](/malaysia/melaka-sultanate) yang jatuh pada 1511.
 
 Selama tiga abad selepas itu, Perak ialah sebuah negeri Melayu di tebing Sungai
 Perak seperti negeri-negeri lain di pesisir barat.
@@ -269,7 +269,7 @@ paling matang di Semenanjung.
 Dari segi ekonomi, DOSM melaporkan ekonomi Perak berkembang **5.7 peratus pada
 2025**, melebihi pertumbuhan nasional 5.2 peratus, dan merupakan pertumbuhan
 terkuat negeri itu dalam lebih sedekad. Pendorong utamanya ialah sektor
-[pembuatan](/en/economy/manufacturing) yang meningkat 15.2 peratus, terutamanya
+[pembuatan](/economy/manufacturing) yang meningkat 15.2 peratus, terutamanya
 industri kelengkapan pengangkutan dan pembuatan lain yang melonjak 162.9
 peratus berikutan pengembangan aktiviti pembuatan automotif di negeri itu.
 Sektor perkhidmatan berkembang 3.4 peratus.
@@ -307,7 +307,7 @@ bentuk. Perjanjian itu mengekalkan Kesultanan dan memperkenalkan seorang
 Residen yang nasihatnya mengikat dalam perkara pentadbiran, dengan agama dan
 adat Melayu dikecualikan. Perbezaan antara pentadbiran terus dan pemerintahan
 melalui nasihat itulah yang membezakan Perak daripada Negeri-Negeri Selat
-seperti [Pulau Pinang](/en/states/penang), yang ditadbir terus.
+seperti [Pulau Pinang](/states/penang), yang ditadbir terus.
 
 **"Ipoh sentiasa menjadi ibu negeri Perak."** Tidak. Portal rasmi Dewan Negeri
 Perak mencatatkan bahawa pusat pentadbiran negeri dipindahkan dari Taiping ke
@@ -316,7 +316,7 @@ raya pada 1988.
 
 **"Sultan Perak sama peranannya dengan Yang di-Pertuan Agong."** Dua jawatan
 berbeza. Sultan Perak ialah ketua negeri bagi Perak; [Yang di-Pertuan
-Agong](/en/government/yang-di-pertuan-agong) ialah Ketua Utama Negara bagi
+Agong](/government/yang-di-pertuan-agong) ialah Ketua Utama Negara bagi
 Persekutuan di bawah Perlembagaan Persekutuan, dipilih oleh Majlis Raja-Raja.
 
 **"Bijih timah hanya cerita lama."** Warisan timah membentuk geografi bandar
@@ -326,14 +326,14 @@ pembuatan, termasuk automotif dan elektrik serta elektronik, bukan galian.
 ## Apa seterusnya
 
 Jika anda mengikuti kesan Perjanjian Pangkor ke hadapan, dua bacaan lanjut
-paling berguna ialah [Kesultanan Melaka](/en/malaysia/melaka-sultanate) untuk
+paling berguna ialah [Kesultanan Melaka](/malaysia/melaka-sultanate) untuk
 memahami asal usul salasilah Kesultanan Perak, dan
-[Kemerdekaan 1957](/en/malaysia/independence-1957) untuk melihat bagaimana
+[Kemerdekaan 1957](/malaysia/independence-1957) untuk melihat bagaimana
 susunan Residen dan Persekutuan akhirnya berakhir.
 
 Untuk konteks negeri jiran yang melalui laluan penjajahan yang berbeza,
-bandingkan dengan [Pulau Pinang](/en/states/penang) — sebuah Negeri Selat yang
-ditadbir terus — dan [Selangor](/en/states/selangor), yang menerima Residen
+bandingkan dengan [Pulau Pinang](/states/penang) — sebuah Negeri Selat yang
+ditadbir terus — dan [Selangor](/states/selangor), yang menerima Residen
 British selepas Perak.
 
 Bagi rujukan angka semasa, semak keluaran terkini Jabatan Perangkaan Malaysia

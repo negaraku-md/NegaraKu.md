@@ -155,7 +155,7 @@ menguncup 3.2 peratus pada 2023. Dalam sektor itu, produk elektrik, elektronik
 dan optik menyumbang 51.1 peratus nilai ditambah dan tumbuh 6.5 peratus.
 
 Dengan kata lain, lebih separuh kilang Kedah — diukur mengikut nilai — ialah
-[elektronik dan separa konduktor](/en/economy/electronics-semiconductors).
+[elektronik dan separa konduktor](/economy/electronics-semiconductors).
 
 ## Mengapa Kedah tetap jelapang padi
 
@@ -185,7 +185,7 @@ tersebut.
 ## Kulim Hi-Tech Park: kilang di sebelah sawah
 
 Pada 1996, sebuah taman perindustrian mula beroperasi rasmi di daerah Kulim,
-kira-kira sejam dari sempadan [Pulau Pinang](/en/states/penang).
+kira-kira sejam dari sempadan [Pulau Pinang](/states/penang).
 
 Laman rasmi Kulim Hi-Tech Park (KHTP) memperihalkannya sebagai taman teknologi
 tinggi bersepadu sepenuhnya yang pertama di Malaysia, dengan slogan *Leading
@@ -211,7 +211,7 @@ bilion** pelaburan diluluskan pada 2024 — keempat tertinggi selepas Selangor
 
 Bagi negeri yang menyumbang kira-kira satu pertiga beras negara, itu kedudukan
 yang jarang dijangka. Lihat juga gambaran [sektor
-pembuatan](/en/economy/manufacturing) Malaysia secara keseluruhan.
+pembuatan](/economy/manufacturing) Malaysia secara keseluruhan.
 
 ## Kedah Tua dan Lembah Bujang
 
@@ -237,7 +237,7 @@ menunjukkan sebuah kerajaan Hindu-Buddha memerintah Kedah purba seawal **110
 Masihi**.
 
 Ini menjadikan Kedah antara tapak tamadun terawal di rantau ini — setanding
-kedudukan [Langkasuka](/en/malaysia/langkasuka) dalam sejarah awal Semenanjung.
+kedudukan [Langkasuka](/malaysia/langkasuka) dalam sejarah awal Semenanjung.
 
 ## Institusi diraja dan ibu negeri
 
@@ -327,7 +327,7 @@ Selangor dan Sarawak turut menyumbang jumlah yang bermakna.
 - Kenyataan KDNK mengikut negeri diterbitkan DOSM setiap pertengahan tahun;
   angka 2025 akan menunjukkan sama ada momentum pembuatan 6.6 peratus itu kekal.
 - Untuk konteks nasional, lihat [gambaran KDNK
-  Malaysia](/en/economy/gdp-overview) dan [sektor
-  pelancongan](/en/economy/tourism) yang merangkumi Langkawi.
+  Malaysia](/economy/gdp-overview) dan [sektor
+  pelancongan](/economy/tourism) yang merangkumi Langkawi.
 - Artikel ini sengaja tidak menamakan pemegang jawatan politik negeri. Untuk
   senarai semasa, rujuk portal rasmi Kerajaan Negeri Kedah.

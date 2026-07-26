@@ -98,14 +98,14 @@ Bendera ini bermula sebagai Bendera Persekutuan Tanah Melayu, dan bilangan bucun
 - **22–23 Februari 1950** — Majlis Raja-Raja memperkenankan bendera itu dengan pindaan tambahan: warna bulan sabit dan bintang ditukar daripada putih kepada kuning, warna diraja.
 - **19 April 1950** — Majlis Perundangan Persekutuan meluluskan usul bendera; kelulusan diraja British menyusul pada 19 Mei 1950.
 - **26 Mei 1950** — bendera 11 jalur berkibar buat kali pertama di Istana Sultan Selangor, Kuala Lumpur.
-- **31 Ogos 1957** — bendera yang sama dinaikkan di Padang Kelab Selangor pada hari [kemerdekaan Tanah Melayu](/en/malaysia/independence-1957), diiringi lagu [Negaraku](/en/malaysia/negaraku-anthem) yang buat pertama kali diperdengarkan kepada umum.
+- **31 Ogos 1957** — bendera yang sama dinaikkan di Padang Kelab Selangor pada hari [kemerdekaan Tanah Melayu](/malaysia/independence-1957), diiringi lagu [Negaraku](/malaysia/negaraku-anthem) yang buat pertama kali diperdengarkan kepada umum.
 - **16 September 1963** — Sabah, Sarawak dan Singapura menyertai persekutuan. Jalur dan bintang pecah bertambah daripada 11 kepada 14.
 
 Logiknya konsisten sepanjang tempoh itu: kiraan pada bendera menjejaki bilangan anggota persekutuan. Sebelas anggota, sebelas jalur. Empat belas anggota, empat belas jalur.
 
 ## Mengapa 14 kekal selepas 1965
 
-Singapura keluar daripada Malaysia pada 9 Ogos 1965 — dua tahun selepas [pembentukan Malaysia](/en/malaysia/formation-of-malaysia-1963). Secara aritmetik, jalur sepatutnya turun kepada 13.
+Singapura keluar daripada Malaysia pada 9 Ogos 1965 — dua tahun selepas [pembentukan Malaysia](/malaysia/formation-of-malaysia-1963). Secara aritmetik, jalur sepatutnya turun kepada 13.
 
 Ia tidak turun. Rekod rasmi Jabatan Penerangan menyatakan jalur dan bintang pecah 14 terus dikekalkan sehingga hari ini.
 
@@ -127,4 +127,4 @@ Nama itu diisytiharkan pada 31 Ogos 1997 di Dataran Merdeka, sempena sambutan 40
 
 ## What's next
 
-Untuk konteks di sebalik tarikh 16 September 1963 itu sendiri, baca [pembentukan Malaysia](/en/malaysia/formation-of-malaysia-1963); untuk hari bendera 11 jalur dinaikkan buat kali terakhir sebagai bendera negara merdeka yang baharu, baca [kemerdekaan 1957](/en/malaysia/independence-1957). Melodi yang mengiringi detik itu — dan mengapa ia bukan gubahan baharu — diceritakan dalam [Negaraku](/en/malaysia/negaraku-anthem).
+Untuk konteks di sebalik tarikh 16 September 1963 itu sendiri, baca [pembentukan Malaysia](/malaysia/formation-of-malaysia-1963); untuk hari bendera 11 jalur dinaikkan buat kali terakhir sebagai bendera negara merdeka yang baharu, baca [kemerdekaan 1957](/malaysia/independence-1957). Melodi yang mengiringi detik itu — dan mengapa ia bukan gubahan baharu — diceritakan dalam [Negaraku](/malaysia/negaraku-anthem).

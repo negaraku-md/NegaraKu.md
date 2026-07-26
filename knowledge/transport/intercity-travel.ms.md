@@ -187,8 +187,8 @@ Sarawak dan Labuan.
 
 Untuk bergerak di sekitar bandar sebaik sahaja anda tiba di ibu negara, lihat
 panduan NegaraKu.md kepada [rangkaian rel Lembah
-Klang](/ms/transport/klang-valley-rail), yang meliputi KTM Komuter, LRT, MRT
+Klang](/transport/klang-valley-rail), yang meliputi KTM Komuter, LRT, MRT
 dan laluan rel lapangan terbang di dalam Kuala Lumpur itu sendiri. Bagi
 perjalanan dari satu titik ke satu titik yang tidak sesuai dengan jadual
-waktu kereta api atau bas, [Grab dan e-hailing](/ms/transport/e-hailing-grab)
+waktu kereta api atau bas, [Grab dan e-hailing](/transport/e-hailing-grab)
 adalah panduan NegaraKu.md kepada alternatif berasaskan aplikasi.

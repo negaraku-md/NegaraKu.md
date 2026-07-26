@@ -127,5 +127,5 @@ Borneo adalah tempat angka paling ekstrem negara ini tertumpu. Gunung Kinabalu d
 
 ## Apa yang seterusnya
 
-- [Geografi Malaysia](/ms/malaysia/geography-overview) — susun atur fizikal Semenanjung dan Borneo
-- [Semenanjung Malaysia dan Borneo](/ms/malaysia/peninsular-and-borneo) — pembahagian yang membentuk lokasi setiap spesies
+- [Geografi Malaysia](/malaysia/geography-overview) — susun atur fizikal Semenanjung dan Borneo
+- [Semenanjung Malaysia dan Borneo](/malaysia/peninsular-and-borneo) — pembahagian yang membentuk lokasi setiap spesies

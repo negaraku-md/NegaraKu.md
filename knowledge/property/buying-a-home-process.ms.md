@@ -131,4 +131,4 @@ Pembeli — bukan penjual — ialah pihak yang bertanggungjawab dari segi undang
 
 ## Apa yang seterusnya
 
-Untuk memahami apa yang sebenarnya dijanjikan oleh hak milik yang bakal anda terima — hak milik bebas berbanding pajakan, dan strata berbanding bertanah — lihat [Hak Milik Bebas, Pajakan, Strata, Bertanah](/ms/property/freehold-leasehold-strata-landed). Untuk akta di sebalik Memorandum Pindah Milik dan Gadaian yang menjadikan pendaftaran di Pejabat Tanah berfungsi, lihat [Kanun Tanah Negara 1965](/ms/law/national-land-code).
+Untuk memahami apa yang sebenarnya dijanjikan oleh hak milik yang bakal anda terima — hak milik bebas berbanding pajakan, dan strata berbanding bertanah — lihat [Hak Milik Bebas, Pajakan, Strata, Bertanah](/property/freehold-leasehold-strata-landed). Untuk akta di sebalik Memorandum Pindah Milik dan Gadaian yang menjadikan pendaftaran di Pejabat Tanah berfungsi, lihat [Kanun Tanah Negara 1965](/law/national-land-code).

@@ -119,7 +119,7 @@ Beberapa fakta mengenai mekanismenya, semuanya dinyatakan dalam siaran DOSM send
 
 ## Apa yang seterusnya
 
-Untuk bagaimana DOSM menjalankan banci dan siaran statistiknya yang lain, lihat [DOSM — Jabatan Perangkaan Malaysia](/ms/government/dosm). Bagi negeri yang mencatatkan bilangan tertinggi penganut Kristian dalam kiraan ini, lihat [Sarawak](/ms/states/sarawak).
+Untuk bagaimana DOSM menjalankan banci dan siaran statistiknya yang lain, lihat [DOSM — Jabatan Perangkaan Malaysia](/government/dosm). Bagi negeri yang mencatatkan bilangan tertinggi penganut Kristian dalam kiraan ini, lihat [Sarawak](/states/sarawak).
 
 ---
 

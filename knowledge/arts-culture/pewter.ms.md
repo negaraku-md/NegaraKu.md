@@ -107,4 +107,4 @@ Hari ini syarikat itu mengendalikan sebuah pusat pelawat di Kuala Lumpur di mana
 
 ## Apa yang seterusnya
 
-Untuk melihat bagaimana ledakan perlombongan timah yang sama membentuk rantau yang lebih luas, baca mengenai [Kuala Lumpur](/ms/states/kuala-lumpur) dan [Selangor](/ms/states/selangor), negeri dan bandar yang menjadi asal nama pewter ini. Untuk satu lagi tradisi kraf Malaysia yang dikerjakan dengan tangan berbanding mesin, lihat [batik](/ms/arts-culture/batik).
+Untuk melihat bagaimana ledakan perlombongan timah yang sama membentuk rantau yang lebih luas, baca mengenai [Kuala Lumpur](/states/kuala-lumpur) dan [Selangor](/states/selangor), negeri dan bandar yang menjadi asal nama pewter ini. Untuk satu lagi tradisi kraf Malaysia yang dikerjakan dengan tangan berbanding mesin, lihat [batik](/arts-culture/batik).

@@ -109,7 +109,7 @@ Lapisan hiasan pula boleh menjadi tanda tangan pembuat. Pak Non menggunakan lima
 
 ## Nama motif, nama negeri
 
-Motif wau datang daripada perbendaharaan hiasan Melayu yang sama seperti ukiran kayu dan tekstil — awan larat, lada hitam, ketam guri, daun kacang, daun jarak, daun kangkung dan daun jawa, mengikut rekod Kraftangan Malaysia. Sesiapa yang pernah melihat [batik](/en/arts-culture/batik) akan kenal logik reka bentuknya: bunga dan daun, bukan figura.
+Motif wau datang daripada perbendaharaan hiasan Melayu yang sama seperti ukiran kayu dan tekstil — awan larat, lada hitam, ketam guri, daun kacang, daun jarak, daun kangkung dan daun jawa, mengikut rekod Kraftangan Malaysia. Sesiapa yang pernah melihat [batik](/arts-culture/batik) akan kenal logik reka bentuknya: bunga dan daun, bukan figura.
 
 Jenisnya pula selalunya membawa nama negeri:
 
@@ -127,9 +127,9 @@ Bentuk sabit itu mudah dikenali walaupun dipermudahkan menjadi garisan tunggal. 
 
 Hubungan itu bukan sekadar grafik. Kraftangan Malaysia mencatatkan Malaysia Airlines melantik Encik Shafie sebagai duta jenama dan menaja demonstrasi wau beliau di Australia, Jerman, Maldives dan Jepun; tempahan Pak Non pula pernah datang daripada Istana Arau, Perlis dan Malaysia Airlines.
 
-Di [Kelantan](/en/states/kelantan), wau kekal sebagai permainan tradisional yang sangat dekat dengan masyarakat, dan MKN mencatatkan ia terus dipopularkan serta dipertandingkan di Pantai Timur. JKKN menyatakan matlamatnya secara terus: cara permainan dan proses penghasilan wau perlu dipelihara agar menjadi identiti berterusan bagi negeri Kelantan.
+Di [Kelantan](/states/kelantan), wau kekal sebagai permainan tradisional yang sangat dekat dengan masyarakat, dan MKN mencatatkan ia terus dipopularkan serta dipertandingkan di Pantai Timur. JKKN menyatakan matlamatnya secara terus: cara permainan dan proses penghasilan wau perlu dipelihara agar menjadi identiti berterusan bagi negeri Kelantan.
 
-Skalanya kini jauh lebih besar daripada bendang. Di [Johor](/en/states/johor), Festival Layang-Layang Sedunia Pasir Gudang edisi ke-28 pada 7 Februari 2026 menerima sijil pengiktirafan Malaysia Book of Records bagi pencapaian *Most Countries Participating in a Wau Flying Event*.
+Skalanya kini jauh lebih besar daripada bendang. Di [Johor](/states/johor), Festival Layang-Layang Sedunia Pasir Gudang edisi ke-28 pada 7 Februari 2026 menerima sijil pengiktirafan Malaysia Book of Records bagi pencapaian *Most Countries Participating in a Wau Flying Event*.
 
 ## Silap yang biasa
 
@@ -142,4 +142,4 @@ Peribahasa Melayu memberi wau makna terakhirnya: *bagai wau putus teraju* — pu
 
 ## Apa seterusnya
 
-Untuk kraf pantai timur yang berkongsi perbendaharaan motif yang sama, baca [batik](/en/arts-culture/batik). Untuk seni persembahan Kelantan yang menghadapi persoalan pemeliharaan yang jauh lebih berat, baca [wayang kulit](/en/arts-culture/wayang-kulit). Untuk konteks negeri di sebalik kedua-duanya, mulakan dengan [Kelantan](/en/states/kelantan).
+Untuk kraf pantai timur yang berkongsi perbendaharaan motif yang sama, baca [batik](/arts-culture/batik). Untuk seni persembahan Kelantan yang menghadapi persoalan pemeliharaan yang jauh lebih berat, baca [wayang kulit](/arts-culture/wayang-kulit). Untuk konteks negeri di sebalik kedua-duanya, mulakan dengan [Kelantan](/states/kelantan).

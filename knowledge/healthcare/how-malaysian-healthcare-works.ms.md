@@ -146,4 +146,4 @@ Tiada satu jawapan tunggal kepada 'apa yang perlu dibayar oleh warga asing' — 
 
 ## Apa yang seterusnya
 
-Bagi skim insurans sosial yang melindungi pekerja Malaysia khusus untuk kecederaan tempat kerja dan hilang upaya — satu mekanisme yang berbeza daripada apa-apa yang diterangkan di atas — lihat [PERKESO (SOCSO)](/ms/glossary/socso-perkeso). Bagi kementerian yang menjalankan dan mengawal selia segala-galanya pada halaman ini, lihat Kementerian Kesihatan Malaysia (KKM) sebaik sahaja halaman entiti itu diterbitkan.
+Bagi skim insurans sosial yang melindungi pekerja Malaysia khusus untuk kecederaan tempat kerja dan hilang upaya — satu mekanisme yang berbeza daripada apa-apa yang diterangkan di atas — lihat [PERKESO (SOCSO)](/glossary/socso-perkeso). Bagi kementerian yang menjalankan dan mengawal selia segala-galanya pada halaman ini, lihat Kementerian Kesihatan Malaysia (KKM) sebaik sahaja halaman entiti itu diterbitkan.

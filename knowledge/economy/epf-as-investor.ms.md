@@ -218,21 +218,21 @@ mudah berubah-ubah.
 - **Mengelirukan EPF dengan Khazanah atau PNB.** Ketiga-tiganya adalah
   pelabur institusi domestik yang besar, tetapi hanya EPF yang dibiayai oleh
   sumbangan gaji wajib majikan/pekerja yang disimpan dalam akaun ahli
-  individu — lihat [Khazanah](/ms/economy/khazanah) dan
-  [PNB](/ms/economy/pnb) untuk bagaimana kedua-dua yang lain dibiayai dan
+  individu — lihat [Khazanah](/economy/khazanah) dan
+  [PNB](/economy/pnb) untuk bagaimana kedua-dua yang lain dibiayai dan
   ditadbir.
 
 ## Apa yang seterusnya
 
 - Bagaimana sumbangan dan pengeluaran EPF sebenarnya berfungsi hari ke hari:
-  [entri glosari EPF](/ms/glossary/epf)
+  [entri glosari EPF](/glossary/epf)
 - Syarikat Pelaburan Berkaitan Kerajaan lain yang sering dibandingkan dengan
-  EPF: [Khazanah Nasional](/ms/economy/khazanah) dan
-  [Permodalan Nasional Berhad (PNB)](/ms/economy/pnb)
+  EPF: [Khazanah Nasional](/economy/khazanah) dan
+  [Permodalan Nasional Berhad (PNB)](/economy/pnb)
 - Di mana pegangan ekuiti EPF sebenarnya didagangkan, dan bagaimana indeks
-  penanda aras itu dibina: [Bursa Malaysia](/ms/economy/bursa-malaysia)
+  penanda aras itu dibina: [Bursa Malaysia](/economy/bursa-malaysia)
 - Bank pusat yang pasaran bonnya EPF merupakan pemegang utama:
-  [Bank Negara Malaysia](/ms/economy/bank-negara-malaysia)
+  [Bank Negara Malaysia](/economy/bank-negara-malaysia)
 - Bagaimana EPF sesuai dalam lanskap Syarikat Berkaitan Kerajaan yang lebih
-  luas: [GLC](/ms/glossary/glc)
+  luas: [GLC](/glossary/glc)
 </content>

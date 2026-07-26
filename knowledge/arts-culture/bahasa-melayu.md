@@ -136,13 +136,13 @@ Peruntukan ini menetapkan dua perkara sekali gus: tulisan rasmi bagi bahasa keba
 
 ## Dari Jawi ke Rumi: satu garis masa
 
-Tulisan Jawi — huruf Arab yang disesuaikan untuk bunyi bahasa Melayu — merupakan aksara utama bahasa Melayu selama berabad-abad, seperti yang dibuktikan oleh Batu Bersurat Terengganu bertarikh 1303 Masihi. Ia berkembang seiring dengan penyebaran Islam di Nusantara, dan menjadi tulisan pentadbiran, persuratan dan keagamaan istana-istana Melayu, termasuk pada zaman [Kesultanan Melaka](/en/malaysia/melaka-sultanate).
+Tulisan Jawi — huruf Arab yang disesuaikan untuk bunyi bahasa Melayu — merupakan aksara utama bahasa Melayu selama berabad-abad, seperti yang dibuktikan oleh Batu Bersurat Terengganu bertarikh 1303 Masihi. Ia berkembang seiring dengan penyebaran Islam di Nusantara, dan menjadi tulisan pentadbiran, persuratan dan keagamaan istana-istana Melayu, termasuk pada zaman [Kesultanan Melaka](/malaysia/melaka-sultanate).
 
 Tulisan Rumi — abjad Latin — mula digunakan secara meluas untuk bahasa Melayu dalam tempoh penjajahan, apabila pelbagai sistem ejaan Rumi disusun. Menjelang pertengahan abad ke-20, penyeragaman ejaan Rumi menjadi tumpuan gerakan bahasa Melayu.
 
 **1956** — Dewan Bahasa dan Pustaka (DBP), pada asalnya bernama Balai Pustaka, ditubuhkan pada 22 Jun 1956 di Johor Bahru untuk mengembangkan bahasa Melayu sebagai bahasa kebangsaan dan bahasa rasmi negara yang bakal merdeka. Berikutan Kongres Bahasa dan Persuratan Melayu Ketiga yang berlangsung di Singapura dan Johor Bahru pada 16 hingga 21 September 1956, namanya ditukar kepada Dewan Bahasa dan Pustaka.
 
-**1957** — Apabila Persekutuan Tanah Melayu mencapai [kemerdekaan](/en/malaysia/independence-1957), kedudukan bahasa Melayu sebagai bahasa kebangsaan termaktub dalam Perkara 152 Perlembagaan Persekutuan, seperti yang dicatatkan oleh Arkib Negara Malaysia.
+**1957** — Apabila Persekutuan Tanah Melayu mencapai [kemerdekaan](/malaysia/independence-1957), kedudukan bahasa Melayu sebagai bahasa kebangsaan termaktub dalam Perkara 152 Perlembagaan Persekutuan, seperti yang dicatatkan oleh Arkib Negara Malaysia.
 
 **1959** — DBP dinaikkan taraf menjadi sebuah badan berkanun melalui Ordinan Dewan Bahasa dan Pustaka 1959 (kini Akta Dewan Bahasa dan Pustaka 1959, Akta 213), dengan kuasa untuk menyusun program pembinaan dan pengembangan bahasa serta sastera.
 
@@ -162,7 +162,7 @@ Peralihan tumpuan rasmi kepada tulisan Rumi tidak memadamkan tulisan Jawi. Seper
 
 ## Apa yang seterusnya
 
-Untuk memahami rangka yang lebih luas, [Perlembagaan Persekutuan](/en/law/federal-constitution) menerangkan struktur dokumen tempat Perkara 152 berada. Untuk latar sejarah bahasa dan institusi Melayu, lihat [Kesultanan Melaka](/en/malaysia/melaka-sultanate), dan untuk konteks pembentukan negara, [Merdeka 1957](/en/malaysia/independence-1957).
+Untuk memahami rangka yang lebih luas, [Perlembagaan Persekutuan](/law/federal-constitution) menerangkan struktur dokumen tempat Perkara 152 berada. Untuk latar sejarah bahasa dan institusi Melayu, lihat [Kesultanan Melaka](/malaysia/melaka-sultanate), dan untuk konteks pembentukan negara, [Merdeka 1957](/malaysia/independence-1957).
 
 ---
 

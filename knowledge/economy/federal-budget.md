@@ -201,7 +201,7 @@ Seorang Menteri mengemukakan usul bacaan kali ketiga — dan usul itu
 **diputuskan tanpa pindaan atau perbahasan**. Drama, jika ada, sudah berakhir
 di peringkat jawatankuasa.
 
-Di [Dewan Negara](/en/government/parliament), Perkara 68 memberikan kuasa yang
+Di [Dewan Negara](/government/parliament), Perkara 68 memberikan kuasa yang
 terhad sahaja: jika Rang Undang-Undang wang dihantar ke situ sekurang-kurangnya
 sebulan sebelum akhir penggal dan tidak diluluskan tanpa pindaan dalam tempoh
 sebulan, ia tetap dikemukakan kepada Yang di-Pertuan Agong untuk diperkenankan
@@ -228,7 +228,7 @@ Kitaran 2026 menunjukkan jadual sebenar:
 | Jumlah hasil | RM343.1 bilion | 16.1% daripada KDNK |
 | — Hasil cukai | RM270.4 bilion | 78.8% daripada jumlah hasil |
 | — Cukai langsung | RM187.4 bilion | CITA RM103.4 bilion |
-| — Cukai tidak langsung | RM83.0 bilion | Termasuk [SST](/en/taxation/sst-explained) |
+| — Cukai tidak langsung | RM83.0 bilion | Termasuk [SST](/taxation/sst-explained) |
 | — Hasil bukan cukai | RM72.7 bilion | Terutamanya pendapatan pelaburan |
 | Jumlah perbelanjaan | RM419.2 bilion | 19.7% daripada KDNK |
 | — Mengurus (OE) | RM338.2 bilion | 80.7% daripada jumlah |
@@ -269,12 +269,12 @@ laporannya untuk dibentangkan di Dewan Rakyat di bawah Perkara 107.
 ## Apa seterusnya
 
 Untuk membaca sendiri sumber utamanya: Bahagian VII
-[Perlembagaan Persekutuan](/en/law/federal-constitution) (Perkara 96–107)
+[Perlembagaan Persekutuan](/law/federal-constitution) (Perkara 96–107)
 memberikan rangka perlembagaan; Peraturan Mesyuarat 65 hingga 67 memberikan
 tatacara terperinci Dewan Rakyat; dan Akta 850 memberikan kewajipan pelaporan
 serta sasaran fiskal.
 
 Untuk konteks makro di sebalik angka hasil dan defisit, lihat
-[gambaran keseluruhan KDNK Malaysia](/en/economy/gdp-overview). Untuk cara
+[gambaran keseluruhan KDNK Malaysia](/economy/gdp-overview). Untuk cara
 Parlimen berfungsi di luar musim belanjawan, lihat
-[Parlimen Malaysia](/en/government/parliament).
+[Parlimen Malaysia](/government/parliament).

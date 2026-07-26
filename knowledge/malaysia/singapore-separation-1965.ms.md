@@ -80,7 +80,7 @@ keywords: ["Singapore separation 1965", "Independence of Singapore Agreement", "
 
 Sebuah negara kehilangan sebuah negeri pengasas dalam masa satu hujung minggu sahaja. Perjanjian itu ditandatangani pada hari Sabtu, pindaan perlembagaan itu diluluskan pada hari Isnin, dan menjelang jam 10 pagi pada Isnin yang sama satu perisytiharan kemerdekaan sedang dibacakan di Radio Singapura. Kebanyakan persekutuan yang berpecah melakukannya secara perlahan dan gempar. Yang ini dibubarkan — dari segi undang-undang — dalam masa kira-kira empat puluh lapan jam, melalui dokumen yang dirangka secara rahsia dan ditandatangani oleh lima belas menteri.
 
-Wilayah yang dimaksudkan telah berada di dalam Malaysia selama kurang daripada dua tahun. [Persekutuan yang dibentuk pada 16 September 1963](/ms/malaysia/formation-of-malaysia-1963) mempunyai empat komponen baharu-atau-pengasas — Tanah Melayu, Sabah, Sarawak dan Singapura. Pada 9 Ogos 1965, ia tinggal tiga.
+Wilayah yang dimaksudkan telah berada di dalam Malaysia selama kurang daripada dua tahun. [Persekutuan yang dibentuk pada 16 September 1963](/malaysia/formation-of-malaysia-1963) mempunyai empat komponen baharu-atau-pengasas — Tanah Melayu, Sabah, Sarawak dan Singapura. Pada 9 Ogos 1965, ia tinggal tiga.
 
 ## Dua puluh tiga bulan geseran
 
@@ -90,7 +90,7 @@ Perselisihan antara Kuala Lumpur dan Singapura pada 1963–1965 berlaku mengikut
 
 **Keganasan perkauman.** Pada 1964, Singapura mengalami dua siri berasingan rusuhan perkauman antara orang Melayu dan Cina — yang pertama tercetus pada 21 Julai 1964 semasa satu perarakan umat Islam. Penyokong setiap kerajaan mengaitkan ketegangan yang mendasarinya dengan politik pihak yang satu lagi; rusuhan itu sendiri, perintah berkurung dan korbannya adalah perkara yang direkodkan, dan ia menjadikan suhu pertikaian politik itu satu perkara keselamatan awam.
 
-**Ekonomi.** Janji ekonomi penggabungan itu — termasuk pengaturan pasaran bersama yang dilampirkan pada [Perjanjian Malaysia 1963](/ms/malaysia/ma63) — dilaksanakan dengan lebih perlahan dan lebih penuh pertikaian berbanding kehendak kerajaan Singapura, manakala tuntutan fiskal persekutuan ke atas Singapura pula merupakan satu pertikaian berterusan pada arah yang bertentangan. Perjanjian perpisahan itu kemudiannya menangani sejarah ini secara langsung: Perkara VII-nya secara nyata memansuhkan Lampiran J dan K Perjanjian Malaysia bertarikh 9 Julai 1963, iaitu lampiran yang membawa pengaturan ekonomi kedua-dua kerajaan itu.
+**Ekonomi.** Janji ekonomi penggabungan itu — termasuk pengaturan pasaran bersama yang dilampirkan pada [Perjanjian Malaysia 1963](/malaysia/ma63) — dilaksanakan dengan lebih perlahan dan lebih penuh pertikaian berbanding kehendak kerajaan Singapura, manakala tuntutan fiskal persekutuan ke atas Singapura pula merupakan satu pertikaian berterusan pada arah yang bertentangan. Perjanjian perpisahan itu kemudiannya menangani sejarah ini secara langsung: Perkara VII-nya secara nyata memansuhkan Lampiran J dan K Perjanjian Malaysia bertarikh 9 Julai 1963, iaitu lampiran yang membawa pengaturan ekonomi kedua-dua kerajaan itu.
 
 ## Dua naratif bagi satu keputusan
 
@@ -148,9 +148,9 @@ Di pihak Singapura, penyatuan undang-undang itu berlaku beberapa bulan kemudian:
 
 ## Apa yang seterusnya
 
-- Baca bagaimana persekutuan empat wilayah itu dibina pada mulanya — dan mengapa pembentukannya dipertikaikan dari tiga arah — dalam [pembentukan Malaysia](/ms/malaysia/formation-of-malaysia-1963).
-- Lampiran-lampiran ekonomi yang dimansuhkan pada 1965 adalah sebahagian daripada satu senibina perjanjian yang lebih besar yang masih membentuk politik persekutuan pada hari ini: lihat [apa sebenarnya dinyatakan oleh Perjanjian Malaysia 1963](/ms/malaysia/ma63).
-- Bagi detik perlembagaan lebih awal yang turut dipinjam secara senyap oleh dokumen-dokumen 1965 itu, lihat [kemerdekaan Tanah Melayu](/ms/malaysia/independence-1957).
+- Baca bagaimana persekutuan empat wilayah itu dibina pada mulanya — dan mengapa pembentukannya dipertikaikan dari tiga arah — dalam [pembentukan Malaysia](/malaysia/formation-of-malaysia-1963).
+- Lampiran-lampiran ekonomi yang dimansuhkan pada 1965 adalah sebahagian daripada satu senibina perjanjian yang lebih besar yang masih membentuk politik persekutuan pada hari ini: lihat [apa sebenarnya dinyatakan oleh Perjanjian Malaysia 1963](/malaysia/ma63).
+- Bagi detik perlembagaan lebih awal yang turut dipinjam secara senyap oleh dokumen-dokumen 1965 itu, lihat [kemerdekaan Tanah Melayu](/malaysia/independence-1957).
 
 ---
 

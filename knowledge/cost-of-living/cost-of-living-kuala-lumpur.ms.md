@@ -184,16 +184,16 @@ tahun pada April 2026, berbanding 2.0% Selangor dan 1.9% kebangsaan.
   Kuala Lumpur dengan selebihnya negara, tetapi ia tidak menangkap *paras*
   harga sebenar, kualiti perumahan, atau corak perbelanjaan isi rumah
   individu itu sendiri. Lihat
-  [Kadar Inflasi Malaysia dan Apa yang Sebenarnya Diukur oleh IHP](/ms/economy/inflation-cpi)
+  [Kadar Inflasi Malaysia dan Apa yang Sebenarnya Diukur oleh IHP](/economy/inflation-cpi)
   untuk bagaimana indeks ini berfungsi.
 
 ## Apa yang seterusnya
 
 Bagi bahagian perjalanan ulang-alik dalam gambaran kos ini, lihat
-[Rel Lembah Klang](/ms/transport/klang-valley-rail) untuk bagaimana
+[Rel Lembah Klang](/transport/klang-valley-rail) untuk bagaimana
 rangkaian LRT, MRT dan KTM Komuter menghubungkan Selangor dengan pusat
-bandar, dan [Touch 'n Go](/ms/transport/touch-n-go) untuk bagaimana
+bandar, dan [Touch 'n Go](/transport/touch-n-go) untuk bagaimana
 bayaran tol di lebuh raya Lembah Klang sebenarnya dikutip. Dari segi
-pendapatan, [Cukai Pendapatan Individu](/ms/money-daily-life/income-tax-individuals)
+pendapatan, [Cukai Pendapatan Individu](/money-daily-life/income-tax-individuals)
 menerangkan apa yang berlaku kepada gaji Kuala Lumpur yang lebih tinggi
 itu sebelum ia sampai ke belanjawan isi rumah sendiri.

@@ -103,7 +103,7 @@ Jabatan Warisan Negara menyifatkan songket sebagai "permaisuri" bagi kain tenuna
 
 Kraftangan Malaysia mencatatkan bahawa songket dipercayai berasal dari Pantai Timur, iaitu Kelantan, Terengganu dan Pahang. Jabatan Warisan Negara pula menyenaraikan pusat tenunan songket di Malaysia sebagai Kelantan, Terengganu, Pahang, Johor, Melaka dan Sarawak.
 
-Pantai timur kekal sebagai pusat kerana kemahiran itu diwarisi turun-temurun dalam keluarga dan kampung — struktur yang sama yang menjadikan Kelantan dan Terengganu pusat [batik](/en/arts-culture/batik) dan Kelantan pusat [wayang kulit](/en/arts-culture/wayang-kulit).
+Pantai timur kekal sebagai pusat kerana kemahiran itu diwarisi turun-temurun dalam keluarga dan kampung — struktur yang sama yang menjadikan Kelantan dan Terengganu pusat [batik](/arts-culture/batik) dan Kelantan pusat [wayang kulit](/arts-culture/wayang-kulit).
 
 Motifnya mengambil bentuk geometri serta unsur alam seperti bunga, burung dan serangga. Jabatan Warisan Negara turut mencatatkan pengaruh awal daripada pedagang India, yang membawa masuk benang emas, benang perak, sutera dan kain siap ke rantau ini.
 

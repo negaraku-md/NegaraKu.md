@@ -125,8 +125,8 @@ arah berbanding Lembah Klang.
 
 Untuk melihat bagaimana angka pendapatan ini berkaitan dengan gaji minimum dan
 corak perbelanjaan isi rumah secara kebangsaan, lihat
-[Gaji Minimum vs Pendapatan Median](/ms/cost-of-living/minimum-wage-and-median-income)
-dan [Ke Mana Sebenarnya Ringgit Isi Rumah Malaysia Pergi](/ms/cost-of-living/household-spending-breakdown).
+[Gaji Minimum vs Pendapatan Median](/cost-of-living/minimum-wage-and-median-income)
+dan [Ke Mana Sebenarnya Ringgit Isi Rumah Malaysia Pergi](/cost-of-living/household-spending-breakdown).
 
 ## Mengapa George Town lebih mahal daripada bahagian lain negeri ini
 
@@ -219,13 +219,13 @@ Lembah Klang:
 ## Apa yang seterusnya
 
 - Bagi angka pendapatan dan gaji kebangsaan di sebalik perbandingan Pulau
-  Pinang di atas: [Gaji Minimum vs Pendapatan Median](/ms/cost-of-living/minimum-wage-and-median-income)
+  Pinang di atas: [Gaji Minimum vs Pendapatan Median](/cost-of-living/minimum-wage-and-median-income)
 - Bagi cara isi rumah Malaysia yang tipikal memperuntukkan perbelanjaan
-  bulanannya: [Ke Mana Sebenarnya Ringgit Isi Rumah Malaysia Pergi](/ms/cost-of-living/household-spending-breakdown)
+  bulanannya: [Ke Mana Sebenarnya Ringgit Isi Rumah Malaysia Pergi](/cost-of-living/household-spending-breakdown)
 - Bagi kerajaan negeri, geografi dan pentadbiran Pulau Pinang:
-  [Pulau Pinang](/ms/states/penang)
+  [Pulau Pinang](/states/penang)
 - Bagi hal praktikal menandatangani sewaan di mana-mana bahagian selat:
-  [Menyewa di Malaysia](/ms/property/renting-a-home-tenancy)
+  [Menyewa di Malaysia](/property/renting-a-home-tenancy)
 - Sumber utama: DOSM
   [Household Income Survey Report 2024](https://www.dosm.gov.my/portal-main/release-content/household-income-survey-report--malaysia--states-2024),
   [Salaries and Wages Survey Report 2024](https://www.dosm.gov.my/portal-main/release-content/salaries-and-wages-survey-report-2024),

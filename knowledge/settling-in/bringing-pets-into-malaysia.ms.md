@@ -110,4 +110,4 @@ Kucing tidak menghadapi sebarang sekatan baka selain syarat am di atas. Anjing p
 
 Sahkan negara asal haiwan peliharaan anda berbanding senarai negara berjadual DVS yang terkini, daftar dalam sistem SPEED MAQIS awal-awal, dan tempah ruang kuarantin jauh sebelum anda memerlukan e-Permit — kedua-duanya saling berkait, dan tiada satu pun bergerak pantas jika yang satu lagi tiada. Jika anjing anda tergolong dalam baka terhad, mulakan proses kelulusan Ketua Pengarah terlebih dahulu, kerana ia mesti diluluskan sebelum permohonan permit import pun boleh dibuka.
 
-Jika anda berpindah bersama seisi keluarga atas Employment Pass, uruskan [pas sosial pergantungan](/ms/settling-in/dependant-social-visit-passes) mengikut garis masa yang sama — tarikh kuarantin haiwan peliharaan dan kelulusan pas keluarga jarang jatuh pada minggu yang sama secara kebetulan.
+Jika anda berpindah bersama seisi keluarga atas Employment Pass, uruskan [pas sosial pergantungan](/settling-in/dependant-social-visit-passes) mengikut garis masa yang sama — tarikh kuarantin haiwan peliharaan dan kelulusan pas keluarga jarang jatuh pada minggu yang sama secara kebetulan.

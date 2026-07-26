@@ -296,19 +296,19 @@ memperuntukkan sebaliknya bagi rang undang-undang yang belum diputuskan.
 
 **"Kuasa Parlimen tidak terhad."** Jadual Kesembilan membahagikan perkara antara
 Senarai Persekutuan, Senarai Negeri dan Senarai Bersama — lihat
-[Parlimen Malaysia](/en/government/parliament) dan
-[Perlembagaan Persekutuan](/en/law/federal-constitution).
+[Parlimen Malaysia](/government/parliament) dan
+[Perlembagaan Persekutuan](/law/federal-constitution).
 
 ## Apa seterusnya
 
 Untuk gambaran seluruh badan perundangan persekutuan, termasuk kedudukan Dewan
 Negara dan Yang di-Pertuan Agong dalam Perkara 44, baca
-[Parlimen Malaysia](/en/government/parliament). Untuk struktur dokumen yang
+[Parlimen Malaysia](/government/parliament). Untuk struktur dokumen yang
 menetapkan segala had di atas, termasuk prosedur pindaan di bawah Perkara 159,
-baca [Perlembagaan Persekutuan](/en/law/federal-constitution). Latar belakang
+baca [Perlembagaan Persekutuan](/law/federal-constitution). Latar belakang
 mengapa Sarawak dan Sabah memegang bilangan kerusi seperti yang tersenarai dalam
 Perkara 46(2) bermula dengan
-[pembentukan Malaysia pada 1963](/en/malaysia/formation-of-malaysia-1963).
+[pembentukan Malaysia pada 1963](/malaysia/formation-of-malaysia-1963).
 
 Untuk mengesahkan mana-mana angka di halaman ini, rujuk teks Perlembagaan
 Persekutuan di [lom.agc.gov.my](https://lom.agc.gov.my/federal-constitution.php)

@@ -128,7 +128,7 @@ Apa yang boleh dinyatakan dengan yakin daripada sumber rasmi:
   kaji selidik 2022 dan 2024.
 - Tarif elektrik, tarif air dan skop subsidi bahan api semuanya dikawal
   selia secara berasingan — lihat
-  [Sistem Subsidi Bahan Api Malaysia](/ms/economy/fuel-subsidies) untuk
+  [Sistem Subsidi Bahan Api Malaysia](/economy/fuel-subsidies) untuk
   bagaimana harga runcit bahan api ditetapkan.
 - Harga sewa dan pembelian sebenar berbeza dengan ketara mengikut negeri
   dan jenis hartanah, yang mana satu purata kebangsaan tunggal semestinya
@@ -140,7 +140,7 @@ Apa yang boleh dinyatakan dengan yakin daripada sumber rasmi:
   indeks semasa yang khusus tidak dapat disahkan berbanding sumber primer
   yang boleh dibaca dalam pusingan ini.
 - Untuk sisi menyewa bagi item belanjawan ini secara praktikal, lihat
-  [Menyewa Rumah: Proses Penyewaan](/ms/property/renting-a-home-tenancy).
+  [Menyewa Rumah: Proses Penyewaan](/property/renting-a-home-tenancy).
 
 ## Sisi pendapatan: apa yang ada pada isi rumah untuk dibelanjakan
 
@@ -158,7 +158,7 @@ simpanan, bayaran balik hutang, insurans, EPF dan item lain di luar skop
 kaji selidik perbelanjaan. Jurang antara pendapatan median dan purata (dan
 antara pendapatan bandar dan luar bandar) dibincangkan dengan lebih
 mendalam dalam
-[Gaji Minimum lawan Pendapatan Median](/ms/cost-of-living/minimum-wage-and-median-income),
+[Gaji Minimum lawan Pendapatan Median](/cost-of-living/minimum-wage-and-median-income),
 yang turut memecahkan angka gaji individu berbanding angka isi rumah ini —
 kedua-duanya tidak boleh dibandingkan secara langsung, kerana sesebuah isi
 rumah biasanya mengumpulkan lebih daripada seorang penjana pendapatan.
@@ -201,7 +201,7 @@ item belanjawan yang besar dan tidak menentu, sesebuah isi rumah yang
 belanjawannya condong kepada salah satu daripadanya mengalami kadar
 inflasi berkesan yang berbeza daripada kadar utama 2.0%. Mekanik CPI, dan
 pecahan kategori bulanan penuhnya, dibincangkan dalam
-[Kadar Inflasi Malaysia dan Apa Sebenarnya yang Diukur oleh CPI](/ms/economy/inflation-cpi).
+[Kadar Inflasi Malaysia dan Apa Sebenarnya yang Diukur oleh CPI](/economy/inflation-cpi).
 
 ## Mengenai perbandingan serantau (rentas negara)
 
@@ -232,7 +232,7 @@ langsung pun.
   satu angka kebangsaan tunggal meratakan sebaran serantau yang benar-
   benar besar.
 - **Mengelirukan pendapatan isi rumah dengan gaji individu.** Lihat
-  [Gaji Minimum lawan Pendapatan Median](/ms/cost-of-living/minimum-wage-and-median-income)
+  [Gaji Minimum lawan Pendapatan Median](/cost-of-living/minimum-wage-and-median-income)
   untuk sebab kedua-dua siri DOSM ini berbeza dan tidak sepatutnya
   digantikan antara satu sama lain.
 - **Memetik indeks kos sara hidup antarabangsa bersumberkan-ramai seolah-
@@ -242,14 +242,14 @@ langsung pun.
 ## Apa yang seterusnya
 
 - Untuk bagaimana gaji individu menandingi angka isi rumah ini:
-  [Gaji Minimum lawan Pendapatan Median](/ms/cost-of-living/minimum-wage-and-median-income)
+  [Gaji Minimum lawan Pendapatan Median](/cost-of-living/minimum-wage-and-median-income)
 - Untuk bagaimana CPI dibina dan sebab ia bergerak secara berbeza
   berbanding belanjawan mana-mana isi rumah:
-  [Kadar Inflasi Malaysia dan Apa Sebenarnya yang Diukur oleh CPI](/ms/economy/inflation-cpi)
+  [Kadar Inflasi Malaysia dan Apa Sebenarnya yang Diukur oleh CPI](/economy/inflation-cpi)
 - Untuk mekanik di sebalik item pengangkutan dan bahan api dalam
-  belanjawan isi rumah: [Sistem Subsidi Bahan Api Malaysia](/ms/economy/fuel-subsidies)
+  belanjawan isi rumah: [Sistem Subsidi Bahan Api Malaysia](/economy/fuel-subsidies)
 - Untuk sisi menyewa bagi item perumahan:
-  [Menyewa Rumah: Proses Penyewaan](/ms/property/renting-a-home-tenancy)
+  [Menyewa Rumah: Proses Penyewaan](/property/renting-a-home-tenancy)
 - Untuk meneroka data DOSM asal sendiri, termasuk jadual negeri dan
   kategori penuh yang tidak dihasilkan semula di atas: papan pemuka
   [Pendapatan & Perbelanjaan Isi Rumah di OpenDOSM](https://open.dosm.gov.my/dashboard/household-income-expenditure)

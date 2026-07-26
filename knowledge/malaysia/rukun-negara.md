@@ -102,7 +102,7 @@ Perisytiharan Darurat diwartakan dan berkuat kuasa pada 16 Mei 1969 di bawah Ord
 
 Pada mesyuarat MAGERAN yang kelima, 6 Oktober 1969, keputusan dibuat untuk menubuhkan Majlis Perundingan Negara — sebuah badan yang bertanggungjawab membincang dan mencari penyelesaian kepada isu berkaitan perpaduan nasional. Lampiran bertarikh 17 Februari 1970 menyenaraikan 66 orang ahli, mewakili Menteri Kabinet, kerajaan negeri, parti politik, badan keagamaan, badan profesional, perkhidmatan awam, kesatuan sekerja, kesatuan majikan, persatuan guru, kumpulan kecil, wartawan dan kaum wanita.
 
-Rukun Negara ialah keluaran majlis itu. Ia bukan akta Parlimen dan bukan sebahagian daripada [Perlembagaan Persekutuan](/en/law/federal-constitution) — ia diterbitkan sebagai Pengisytiharan Diraja.
+Rukun Negara ialah keluaran majlis itu. Ia bukan akta Parlimen dan bukan sebahagian daripada [Perlembagaan Persekutuan](/law/federal-constitution) — ia diterbitkan sebagai Pengisytiharan Diraja.
 
 ## Kronologi penggubalan, mengikut fail
 
@@ -164,7 +164,7 @@ Susulan itu, Surat Pekeliling Ikhtisas Bil. 2/1971 bertarikh 12 Januari 1971 dik
 
 ## Salah faham yang biasa
 
-**"Rukun Negara ialah sebahagian daripada Perlembagaan."** Tidak. Ia Pengisytiharan Diraja yang diwartakan pada 31 Ogos 1970. Keluhuran Perlembagaan ialah salah satu daripada lima prinsipnya, tetapi Rukun Negara sendiri berada di luar teks [Perlembagaan Persekutuan](/en/law/federal-constitution).
+**"Rukun Negara ialah sebahagian daripada Perlembagaan."** Tidak. Ia Pengisytiharan Diraja yang diwartakan pada 31 Ogos 1970. Keluhuran Perlembagaan ialah salah satu daripada lima prinsipnya, tetapi Rukun Negara sendiri berada di luar teks [Perlembagaan Persekutuan](/law/federal-constitution).
 
 **"Rukun Negara hanya lima prinsip."** Teks rasmi ada dua bahagian. Lima cita-cita mendahului lima prinsip.
 
@@ -174,6 +174,6 @@ Susulan itu, Surat Pekeliling Ikhtisas Bil. 2/1971 bertarikh 12 Januari 1971 dik
 
 ## Apa seterusnya
 
-Untuk memahami kedudukan perundangan prinsip Keluhuran Perlembagaan dan Kedaulatan Undang-undang, mulakan dengan [Perlembagaan Persekutuan](/en/law/federal-constitution). Untuk konteks negara yang cita-citanya dirujuk dalam teks ini, lihat [Kemerdekaan 1957](/en/malaysia/independence-1957) dan [Pembentukan Malaysia 1963](/en/malaysia/formation-of-malaysia-1963). Amalan mengangkat ikrar pada pembukaan persidangan pertama setiap tahun dijelaskan dalam konteks [Parlimen Malaysia](/en/government/parliament).
+Untuk memahami kedudukan perundangan prinsip Keluhuran Perlembagaan dan Kedaulatan Undang-undang, mulakan dengan [Perlembagaan Persekutuan](/law/federal-constitution). Untuk konteks negara yang cita-citanya dirujuk dalam teks ini, lihat [Kemerdekaan 1957](/malaysia/independence-1957) dan [Pembentukan Malaysia 1963](/malaysia/formation-of-malaysia-1963). Amalan mengangkat ikrar pada pembukaan persidangan pertama setiap tahun dijelaskan dalam konteks [Parlimen Malaysia](/government/parliament).
 
 Sesiapa yang mahu bekerja daripada sumber utama boleh merujuk terbitan *50 Fakta Rukun Negara* oleh Arkib Negara Malaysia, yang menyenaraikan nombor penerimaan bagi setiap fail — Fail Jawatankuasa Rukun Negara (JPN 221 Bhg. 3), Fail Kertas-kertas Majlis Perundingan, dan Warta Kerajaan Malaysia Jilid 14 tahun 1970.

@@ -103,4 +103,4 @@ Dibaca berbanding sejarah Srivijaya, kisah pengasasan itu kelihatan bukan sepert
 
 ## Apa yang seterusnya
 
-Untuk mengetahui tentang kerajaan pelabuhan yang sebenarnya dibina oleh putera buangan Palembang itu, lihat [Kesultanan Melaka](/ms/malaysia/melaka-sultanate). Untuk satu lagi kerajaan awal di Semenanjung Tanah Melayu yang wujud sezaman dengan Srivijaya dan menunjukkan corak Hindu-Buddha serta rekod China yang serupa di bahagian utara, lihat [Langkasuka](/ms/malaysia/langkasuka).
+Untuk mengetahui tentang kerajaan pelabuhan yang sebenarnya dibina oleh putera buangan Palembang itu, lihat [Kesultanan Melaka](/malaysia/melaka-sultanate). Untuk satu lagi kerajaan awal di Semenanjung Tanah Melayu yang wujud sezaman dengan Srivijaya dan menunjukkan corak Hindu-Buddha serta rekod China yang serupa di bahagian utara, lihat [Langkasuka](/malaysia/langkasuka).

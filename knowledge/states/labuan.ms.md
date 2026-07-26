@@ -169,9 +169,9 @@ Tidak boleh ditarik balik bermaksud tidak boleh ditarik balik.
 
 ## Apa yang seterusnya
 
-Baca [rejim cukai Labuan](/ms/taxation/labuan-tax-regime) untuk mekanisme
-pemfailan dan tarikh akhirnya, dan [syarikat Labuan berbanding Sdn Bhd](/ms/business/labuan-company-vs-sdn-bhd)
+Baca [rejim cukai Labuan](/taxation/labuan-tax-regime) untuk mekanisme
+pemfailan dan tarikh akhirnya, dan [syarikat Labuan berbanding Sdn Bhd](/business/labuan-company-vs-sdn-bhd)
 untuk perbandingan struktur demi struktur. Bagi garis dasar yang anda
-bandingkan, lihat [kadar cukai korporat](/ms/taxation/corporate-tax-rates),
+bandingkan, lihat [kadar cukai korporat](/taxation/corporate-tax-rates),
 dan bagi wilayah lain yang dipisahkan daripada sebuah negeri, [Kuala
-Lumpur](/ms/states/kuala-lumpur).
+Lumpur](/states/kuala-lumpur).

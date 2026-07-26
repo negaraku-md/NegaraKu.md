@@ -147,7 +147,7 @@ Kenapa ia penting? Kerana ia meletakkan satu titik tarikh yang boleh disentuh
 pada peralihan besar dalam sejarah tulisan Melayu — daripada aksara berasaskan
 India kepada aksara berasaskan Arab. Segala yang kemudiannya ditulis dalam Jawi,
 daripada surat diraja hinggalah kepada [Kesultanan
-Melaka](/en/malaysia/melaka-sultanate), berdiri di belakang tarikh itu.
+Melaka](/malaysia/melaka-sultanate), berdiri di belakang tarikh itu.
 
 Satu nota kejujuran: rujukan awam memberikan tahun penemuan yang berbeza-beza,
 dan catatan tarikh pada batu itu sendiri telah lama menjadi bahan perbahasan
@@ -192,7 +192,7 @@ beralamat di Istana Syarqiyyah, Kuala Terengganu, yang menyelenggara portal
 rasminya sendiri.
 
 Kedudukan Raja-Raja Melayu dalam sistem persekutuan ditetapkan oleh
-[Perlembagaan Persekutuan](/en/law/federal-constitution). Untuk gelaran penuh,
+[Perlembagaan Persekutuan](/law/federal-constitution). Untuk gelaran penuh,
 protokol dan pengumuman rasmi, portal Pejabat KDYMM Sultan Terengganu ialah
 sumber sahih; halaman utamanya tidak menyenaraikan nama peribadi baginda, jadi
 jangan bergantung pada sumber sekunder untuk gelaran.
@@ -236,7 +236,7 @@ Utiliti Kertih di dalam Kompleks Petrokimia Bersepadu Kertih. Rangkaian saluran
 paip Peninsular Gas Utilisation bermula di Kertih: PGU I menghubungkan Kertih ke
 Teluk Kalong sejauh 32 kilometer sejak 1983, dan rangkaian keseluruhannya kini
 menganjur 2,675 kilometer. Latar belakang penuh rejim petroleum negara ada dalam
-[PETRONAS dan sektor minyak dan gas](/en/economy/oil-gas-petronas).
+[PETRONAS dan sektor minyak dan gas](/economy/oil-gas-petronas).
 
 ## Kewangan negeri: dari mana datangnya wang
 
@@ -286,8 +286,8 @@ rasmi:
 Peruntukan Perbelanjaan Pembangunan 2026 memihak kepada sektor sosial (RM323.80
 juta, 72.0 peratus), diikuti sektor ekonomi (RM92.84 juta, 20.6 peratus) dan
 pentadbiran (RM33.37 juta, 7.4 peratus). Konteks makro kebangsaan ada dalam
-[gambaran KDNK Malaysia](/en/economy/gdp-overview), dan sisi pelancongan dalam
-[sektor pelancongan](/en/economy/tourism).
+[gambaran KDNK Malaysia](/economy/gdp-overview), dan sisi pelancongan dalam
+[sektor pelancongan](/economy/tourism).
 
 ## Salah faham lazim
 
@@ -319,10 +319,10 @@ diterbitkan pada portal negeri setiap bulan November.
 Jika minat anda pada sisi warisan, Memorial Batu Bersurat di Kuala Berang dan
 Muzium Negeri Terengganu ialah dua perhentian yang berbeza dan kedua-duanya
 berbaloi. Untuk kraf negeri Pantai Timur yang berkait rapat, lihat
-[batik](/en/arts-culture/batik).
+[batik](/arts-culture/batik).
 
-Untuk membandingkan struktur ekonomi negeri, [Sarawak](/en/states/sarawak)
+Untuk membandingkan struktur ekonomi negeri, [Sarawak](/states/sarawak)
 menawarkan kontras yang paling berguna: di sana, perlombongan dan kuari memang
 muncul dalam KDNK negeri, kerana sebahagian besar pengeluarannya boleh
-diagihkan. [Johor](/en/states/johor) pula menunjukkan model ekonomi negeri yang
+diagihkan. [Johor](/states/johor) pula menunjukkan model ekonomi negeri yang
 dipacu pembuatan dan sempadan.

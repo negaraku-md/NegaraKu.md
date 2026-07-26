@@ -142,9 +142,9 @@ Pada **21 Julai 2005**, Bank Negara Malaysia mengumumkan bahawa Malaysia akan me
 
 ## Apa yang seterusnya
 
-Untuk latar belakang dasar yang menjadi asas perkembangan pengurusan ekonomi Malaysia selepas kemerdekaan, lihat [Dasar Ekonomi Baru](/ms/malaysia/new-economic-policy). Untuk satu detik lebih awal apabila kuasa darurat perlembagaan dan institusi kebangsaan diubah bentuk, lihat [13 Mei 1969](/ms/malaysia/13-may-1969).
+Untuk latar belakang dasar yang menjadi asas perkembangan pengurusan ekonomi Malaysia selepas kemerdekaan, lihat [Dasar Ekonomi Baru](/malaysia/new-economic-policy). Untuk satu detik lebih awal apabila kuasa darurat perlembagaan dan institusi kebangsaan diubah bentuk, lihat [13 Mei 1969](/malaysia/13-may-1969).
 
-Untuk rangka kerja perlembagaan yang di dalamnya undang-undang seperti Akta Keselamatan Dalam Negeri beroperasi, mulakan dengan [Perlembagaan Persekutuan](/ms/law/federal-constitution). Untuk lengkung yang lebih panjang bagi pembentukan negara ini, lihat [Kemerdekaan 1957](/ms/malaysia/independence-1957) dan [Pembentukan Malaysia 1963](/ms/malaysia/formation-of-malaysia-1963).
+Untuk rangka kerja perlembagaan yang di dalamnya undang-undang seperti Akta Keselamatan Dalam Negeri beroperasi, mulakan dengan [Perlembagaan Persekutuan](/law/federal-constitution). Untuk lengkung yang lebih panjang bagi pembentukan negara ini, lihat [Kemerdekaan 1957](/malaysia/independence-1957) dan [Pembentukan Malaysia 1963](/malaysia/formation-of-malaysia-1963).
 
 Pembaca yang ingin merujuk terus kepada rekod utama dan rasmi boleh melihat catatan Bank Negara Malaysia mengenai langkah-langkah pertukaran asing dan pengumuman apungan terurus 2005, Tinjauan Dasar Perdagangan Malaysia oleh Pertubuhan Perdagangan Dunia untuk angka-angka makroekonomi, serta rekod dokumentar sezaman untuk peristiwa politik tahun 1998.
 

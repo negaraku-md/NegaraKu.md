@@ -115,9 +115,9 @@ The Department of National Heritage (Jabatan Warisan Negara) gazetted Dikir Bara
 
 ## What's next
 
-- Read [Kelantan](/states/kelantan) for background on the state where Dikir Barat took root.
-- Compare with [Mak Yong](/arts-culture/mak-yong) and [wayang kulit](/arts-culture/wayang-kulit) — two other traditional theatre forms also centred in Kelantan.
-- See [wau](/arts-culture/wau) for an example of Kelantanese cultural heritage in the form of a traditional game, rather than a singing performance.
+- Read [Kelantan](/en/states/kelantan) for background on the state where Dikir Barat took root.
+- Compare with [Mak Yong](/en/arts-culture/mak-yong) and [wayang kulit](/en/arts-culture/wayang-kulit) — two other traditional theatre forms also centred in Kelantan.
+- See [wau](/en/arts-culture/wau) for an example of Kelantanese cultural heritage in the form of a traditional game, rather than a singing performance.
 
 ---
 

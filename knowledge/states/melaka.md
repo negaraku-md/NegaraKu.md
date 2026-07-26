@@ -126,9 +126,9 @@ Perkara 160(2) Perlembagaan Persekutuan mentakrifkan istilah itu secara ringkas:
 Yang di-Pertua Negeri bermaksud Ketua Negeri bagi sesebuah negeri yang **tidak
 mempunyai Raja**.
 
-Empat negeri berada dalam kategori itu — Melaka, [Pulau Pinang](/en/states/penang),
+Empat negeri berada dalam kategori itu — Melaka, [Pulau Pinang](/states/penang),
 Sabah dan Sarawak. Peruntukan asasnya terletak dalam seksyen 19A hingga 19D
-Jadual Kelapan [Perlembagaan Persekutuan](/en/law/federal-constitution):
+Jadual Kelapan [Perlembagaan Persekutuan](/law/federal-constitution):
 
 | Peruntukan | Kesannya |
 | --- | --- |
@@ -165,7 +165,7 @@ Raja-Raja atau perbuatan dan upacara agama.
 
 **Jawatan itu ada tempohnya.** Empat tahun, boleh disambung — berbanding takhta
 yang kekal seumur hidup. Ini juga membezakan Melaka daripada model
-[Negeri Sembilan](/en/states/negeri-sembilan), yang ketua negerinya dipilih oleh
+[Negeri Sembilan](/states/negeri-sembilan), yang ketua negerinya dipilih oleh
 Undang Yang Empat tetapi tetap seorang pemerintah adat.
 
 ## Empat lapis kuasa dalam satu bandar
@@ -174,7 +174,7 @@ Portal rasmi kerajaan negeri merekodkan urutan berikut.
 
 | Tempoh | Peristiwa |
 | --- | --- |
-| Sehingga 1511 | [Kesultanan Melayu Melaka](/en/malaysia/melaka-sultanate) |
+| Sehingga 1511 | [Kesultanan Melayu Melaka](/malaysia/melaka-sultanate) |
 | 1511–1641 | Portugis; Afonso de Albuquerque tiba 10 Ogos 1511, kota jatuh 24 Ogos — 130 tahun pemerintahan |
 | 1641–1795 | Belanda, selepas kekalahan Portugis kepada pakatan Belanda–Johor — 154 tahun; Stadthuys dibina 1650, Gereja St. Peter 1710 |
 | 1795–1957 | British; Perjanjian Inggeris–Belanda 1824 dan penubuhan Negeri-Negeri Selat 1826 |
@@ -182,7 +182,7 @@ Portal rasmi kerajaan negeri merekodkan urutan berikut.
 | 1956 | Kemerdekaan diisytiharkan di Padang Banda Hilir pada 20 Februari |
 
 Padang Banda Hilir itulah yang menjadikan Melaka lokasi simbolik dalam kisah
-[kemerdekaan 1957](/en/malaysia/independence-1957).
+[kemerdekaan 1957](/malaysia/independence-1957).
 
 Melaka diisytiharkan Bandaraya Bersejarah pada 15 April 1989. Majlis Perbandaran
 Melaka Bandaraya Bersejarah kemudiannya dinaik taraf menjadi Majlis Bandaraya
@@ -269,11 +269,11 @@ belum melalui semakan manusia.
 ## Apa seterusnya
 
 - Untuk teks sebenar seksyen 19A hingga 19D dan seksyen 22, rujuk Jadual Kelapan
-  [Perlembagaan Persekutuan](/en/law/federal-constitution) dalam cetakan semula
+  [Perlembagaan Persekutuan](/law/federal-constitution) dalam cetakan semula
   rasmi AGC.
 - Untuk asal usul institusi kesultanan yang namanya kekal pada negeri ini, lihat
-  [Kesultanan Melaka](/en/malaysia/melaka-sultanate).
+  [Kesultanan Melaka](/malaysia/melaka-sultanate).
 - Untuk membandingkan dua model ketua negeri bukan warisan yang berbeza, lihat
-  [Pulau Pinang](/en/states/penang) dan [Negeri Sembilan](/en/states/negeri-sembilan).
+  [Pulau Pinang](/states/penang) dan [Negeri Sembilan](/states/negeri-sembilan).
 - Untuk data KDNK, penduduk dan pelancongan peringkat negeri yang lebih terkini,
   gunakan katalog data OpenDOSM dan halaman keluaran DOSM.

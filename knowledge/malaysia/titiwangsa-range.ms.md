@@ -104,4 +104,4 @@ Ketinggian itu sendiri membentuk cara banjaran ini ditadbir: kawasan tertingginy
 
 ## Apa yang seterusnya
 
-Untuk melihat bagaimana banjaran ini sesuai dengan corak muka bumi semenanjung yang lebih luas, lihat [Bagaimana Gunung-Ganang dan Monsun Malaysia Membentuk Tempat Rakyat Malaysia Menetap](/ms/malaysia/geography-overview) dan [Mengapa Malaysia Mempunyai Sempadan Dalaman, dan Apa Sebenarnya yang Dikawalnya](/ms/malaysia/peninsular-and-borneo). Untuk negeri-negeri yang dilalui oleh banjaran ini, lihat [Perak](/ms/states/perak) dan [Kelantan](/ms/states/kelantan).
+Untuk melihat bagaimana banjaran ini sesuai dengan corak muka bumi semenanjung yang lebih luas, lihat [Bagaimana Gunung-Ganang dan Monsun Malaysia Membentuk Tempat Rakyat Malaysia Menetap](/malaysia/geography-overview) dan [Mengapa Malaysia Mempunyai Sempadan Dalaman, dan Apa Sebenarnya yang Dikawalnya](/malaysia/peninsular-and-borneo). Untuk negeri-negeri yang dilalui oleh banjaran ini, lihat [Perak](/states/perak) dan [Kelantan](/states/kelantan).

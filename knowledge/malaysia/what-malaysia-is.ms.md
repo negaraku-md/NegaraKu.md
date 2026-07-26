@@ -75,13 +75,13 @@ Mereka terbahagi kepada dua kumpulan yang dipisahkan oleh laut:
 | Rantau | Apa yang terkandung |
 | --- | --- |
 | Semenanjung Malaysia (Barat) | 11 negeri di Semenanjung Tanah Melayu, ditambah wilayah persekutuan Kuala Lumpur dan Putrajaya |
-| Malaysia Timur (Borneo) | Dua buah negeri besar iaitu [Sabah](/ms/states/sabah) dan [Sarawak](/ms/states/sarawak), ditambah wilayah persekutuan Labuan |
+| Malaysia Timur (Borneo) | Dua buah negeri besar iaitu [Sabah](/states/sabah) dan [Sarawak](/states/sarawak), ditambah wilayah persekutuan Labuan |
 
 Selain daripada negeri-negeri, terdapat tiga **wilayah persekutuan** — kawasan tanah yang ditadbir secara langsung oleh kerajaan persekutuan dan bukan oleh sesebuah negeri:
 
-- **[Kuala Lumpur](/ms/states/kuala-lumpur)** — ibu negara, yang dipisahkan daripada Selangor pada tahun 1974.
-- **[Labuan](/ms/states/labuan)** — sebuah pulau di lepas pantai Borneo, dipisahkan daripada Sabah pada tahun 1984.
-- **[Putrajaya](/ms/states/putrajaya)** — pusat pentadbiran persekutuan, dicipta daripada Selangor pada tahun 2001, tempat kebanyakan kementerian dan pejabat Perdana Menteri berpusat.
+- **[Kuala Lumpur](/states/kuala-lumpur)** — ibu negara, yang dipisahkan daripada Selangor pada tahun 1974.
+- **[Labuan](/states/labuan)** — sebuah pulau di lepas pantai Borneo, dipisahkan daripada Sabah pada tahun 1984.
+- **[Putrajaya](/states/putrajaya)** — pusat pentadbiran persekutuan, dicipta daripada Selangor pada tahun 2001, tempat kebanyakan kementerian dan pejabat Perdana Menteri berpusat.
 
 Justeru, ibu negara dan pusat pentadbiran, secara sengaja, bukanlah tempat yang sama — satu perbezaan yang mengelirukan ramai pendatang baharu.
 
@@ -91,7 +91,7 @@ Ciri paling luar biasa struktur Malaysia ialah monarkinya. Ketua negara ialah **
 
 Baginda tidak dilahirkan untuk mewarisi takhta kebangsaan. Di bawah Perkara 32, Yang di-Pertuan Agong **dipilih untuk tempoh lima tahun** oleh **Majlis Raja-Raja** (Conference of Rulers, Perkara 38). Sembilan daripada tiga belas buah negeri merupakan monarki Melayu berketurunan, masing-masing dengan Rajanya sendiri (seorang Sultan, atau di sesetengah negeri seorang Raja yang bergelar berbeza); kesembilan-sembilan Raja itu memilih seorang daripada kalangan mereka untuk berkhidmat sebagai raja kebangsaan, yang pada amalannya menggilirkan jawatan itu antara negeri-negeri. Empat negeri yang selebihnya — Pulau Pinang, Melaka, Sabah dan Sarawak — tidak mempunyai raja berketurunan dan sebaliknya diketuai oleh seorang **Yang di-Pertua Negeri** (Governor) yang dilantik.
 
-Ini menjadikan Malaysia salah satu daripada amat sedikit monarki bercorak pilihan di mana-mana sahaja di dunia. [Yang di-Pertuan Agong](/ms/government/yang-di-pertuan-agong) adalah ketua negara, lambang persekutuan, dan — dalam satu set situasi yang terhad — pemegang budi bicara perlembagaan yang sebenar, sementara kuasa eksekutif harian berjalan melalui kerajaan yang dipilih.
+Ini menjadikan Malaysia salah satu daripada amat sedikit monarki bercorak pilihan di mana-mana sahaja di dunia. [Yang di-Pertuan Agong](/government/yang-di-pertuan-agong) adalah ketua negara, lambang persekutuan, dan — dalam satu set situasi yang terhad — pemegang budi bicara perlembagaan yang sebenar, sementara kuasa eksekutif harian berjalan melalui kerajaan yang dipilih.
 
 > Sembilan Raja berketurunan memilih seorang raja, untuk tempoh lima tahun setiap kali. Ia adalah sebuah monarki dan satu pilihan raya pada masa yang sama — satu reka bentuk yang hampir tidak wujud di mana-mana tempat lain.
 
@@ -104,7 +104,7 @@ Kuasa persekutuan disusun mengikut cara yang digunakan oleh kebanyakan demokrasi
 - **Dewan Rakyat** (House of Representatives), yang ahlinya dipilih daripada kawasan pilihan raya pada satu pilihan raya umum; dan
 - **Dewan Negara** (Senate), yang ahlinya, di bawah Perkara 45, sebahagiannya dipilih oleh dewan-dewan undangan negeri (dua bagi setiap negeri) dan sebahagiannya dilantik oleh Yang di-Pertuan Agong.
 
-Sesuatu rang undang-undang lazimnya perlu diluluskan oleh kedua-dua Dewan dan menerima perkenan diraja sebelum ia menjadi sebuah Akta. Terdapat penerangan lanjut tentang cara ini berfungsi dalam rencana mengenai [Parlimen](/ms/government/parliament).
+Sesuatu rang undang-undang lazimnya perlu diluluskan oleh kedua-dua Dewan dan menerima perkenan diraja sebelum ia menjadi sebuah Akta. Terdapat penerangan lanjut tentang cara ini berfungsi dalam rencana mengenai [Parlimen](/government/parliament).
 
 **Badan eksekutif.** Perkara 39 memperuntukkan kuasa eksekutif persekutuan kepada Yang di-Pertuan Agong, tetapi ia dilaksanakan pada amalannya oleh **Kabinet**, yang diketuai oleh **Perdana Menteri**, yang memegang kepercayaan Dewan Rakyat. Inilah kerajaan pada masa itu.
 
@@ -126,7 +126,7 @@ Dua buah negeri amat penting di sini. Apabila Sabah dan Sarawak menyertai persek
 
 ## Mengapa struktur ini kelihatan sedemikian
 
-Semua ini bukanlah satu reka bentuk tunggal yang kemas. Malaysia sepertimana yang wujud pada hari ini **dibentuk pada tahun 1963**, apabila Persekutuan Tanah Melayu (merdeka sejak 1957) bergabung dengan Singapura, Borneo Utara (Sabah) dan Sarawak. Singapura kemudiannya keluar pada tahun 1965. Justeru, peta yang ada pada masa kini — sebelas negeri semenanjung ditambah Sabah dan Sarawak, tanpa Singapura — adalah *hasil* daripada sejarah itu, bukan satu pelan yang dirangka terlebih dahulu. Kisah ini diceritakan dalam [Pembentukan Malaysia pada 1963](/ms/malaysia/formation-of-malaysia-1963).
+Semua ini bukanlah satu reka bentuk tunggal yang kemas. Malaysia sepertimana yang wujud pada hari ini **dibentuk pada tahun 1963**, apabila Persekutuan Tanah Melayu (merdeka sejak 1957) bergabung dengan Singapura, Borneo Utara (Sabah) dan Sarawak. Singapura kemudiannya keluar pada tahun 1965. Justeru, peta yang ada pada masa kini — sebelas negeri semenanjung ditambah Sabah dan Sarawak, tanpa Singapura — adalah *hasil* daripada sejarah itu, bukan satu pelan yang dirangka terlebih dahulu. Kisah ini diceritakan dalam [Pembentukan Malaysia pada 1963](/malaysia/formation-of-malaysia-1963).
 
 ## Salah faham yang biasa
 
@@ -137,10 +137,10 @@ Semua ini bukanlah satu reka bentuk tunggal yang kemas. Malaysia sepertimana yan
 
 ## Apa yang seterusnya
 
-- Baca [Perlembagaan Persekutuan](/ms/law/federal-constitution) untuk undang-undang tertinggi yang membentuk semua perkara di atas.
-- Lihat [Parlimen Malaysia](/ms/government/parliament) untuk cara undang-undang persekutuan sebenarnya digubal merentasi kedua-dua Dewan.
-- Ketahui tentang [Yang di-Pertuan Agong](/ms/government/yang-di-pertuan-agong) — raja yang dipilih di pucuk pimpinan persekutuan.
-- Telusuri asal usul persekutuan yang wujud pada hari ini dalam [pembentukan Malaysia pada 1963](/ms/malaysia/formation-of-malaysia-1963).
+- Baca [Perlembagaan Persekutuan](/law/federal-constitution) untuk undang-undang tertinggi yang membentuk semua perkara di atas.
+- Lihat [Parlimen Malaysia](/government/parliament) untuk cara undang-undang persekutuan sebenarnya digubal merentasi kedua-dua Dewan.
+- Ketahui tentang [Yang di-Pertuan Agong](/government/yang-di-pertuan-agong) — raja yang dipilih di pucuk pimpinan persekutuan.
+- Telusuri asal usul persekutuan yang wujud pada hari ini dalam [pembentukan Malaysia pada 1963](/malaysia/formation-of-malaysia-1963).
 
 ---
 

@@ -181,7 +181,7 @@ Kedua-dua negeri berada jauh di bawah purata kebangsaan, dan jurang Sabah
 kepada angka kebangsaan adalah yang lebih lebar antara kedua-duanya. Untuk
 melihat bagaimana angka purata dan median kebangsaan terpecah, dan bagaimana
 ia dibandingkan dengan gaji individu, lihat
-[Gaji Minimum vs Pendapatan Median](/ms/cost-of-living/minimum-wage-and-median-income).
+[Gaji Minimum vs Pendapatan Median](/cost-of-living/minimum-wage-and-median-income).
 
 ## Kesilapan lazim
 
@@ -206,10 +206,10 @@ ia dibandingkan dengan gaji individu, lihat
 
 - Untuk melihat bagaimana bajet isi rumah Malaysia yang tipikal terbahagi
   secara kebangsaan, lihat
-  [Ke Mana Sebenarnya Ringgit Isi Rumah Malaysia Pergi](/ms/cost-of-living/household-spending-breakdown).
+  [Ke Mana Sebenarnya Ringgit Isi Rumah Malaysia Pergi](/cost-of-living/household-spending-breakdown).
 - Untuk melihat bagaimana gaji minimum kebangsaan dan angka pendapatan
   median/purata saling berkaitan, lihat
-  [Gaji Minimum vs Pendapatan Median](/ms/cost-of-living/minimum-wage-and-median-income).
+  [Gaji Minimum vs Pendapatan Median](/cost-of-living/minimum-wage-and-median-income).
 - Sumber utama: DOSM,
   [Household Income Survey Report 2024](https://www.dosm.gov.my/portal-main/release-content/household-income-survey-report--malaysia--states-2024)
   dan

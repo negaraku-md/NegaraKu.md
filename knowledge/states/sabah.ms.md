@@ -94,12 +94,12 @@ sebuah gunung.
 | Ketua negeri | Yang di-Pertua Negeri (Gabenor); kerajaan negeri diketuai oleh seorang Ketua Menteri |
 | Titik tertinggi | Gunung Kinabalu, 4,095 m — gunung tertinggi antara Himalaya dan New Guinea |
 | Industri utama | Pertanian (kelapa sawit), minyak dan gas, perkhidmatan, pelancongan |
-| Menyertai persekutuan | Sebagai Borneo Utara, di bawah [Perjanjian Malaysia 1963](/ms/malaysia/ma63) |
+| Menyertai persekutuan | Sebagai Borneo Utara, di bawah [Perjanjian Malaysia 1963](/malaysia/ma63) |
 
 ## Geografi
 
 Sabah menduduki hujung utara Borneo, pulau ketiga terbesar di dunia. Ia adalah
-negeri kedua terbesar Malaysia selepas [Sarawak](/ms/states/sarawak), yang
+negeri kedua terbesar Malaysia selepas [Sarawak](/states/sarawak), yang
 bersempadan dengannya di sebelah barat daya, dan ia berkongsi sempadan darat
 dengan Kalimantan Indonesia di sebelah selatan. Dua laut mengapitnya: Laut China
 Selatan di pantai barat dan Laut Sulu serta Laut Celebes di sebelah timur.
@@ -118,7 +118,7 @@ sub-alpin di zon kemuncak, dan ia diiktiraf sebagai pusat endemisme tumbuhan
 yang penting di peringkat global.
 
 Di lepas pantai, pulau Labuan di pantai barat Sabah kini merupakan sebuah Wilayah
-Persekutuan yang berasingan — lihat [Labuan](/ms/states/labuan) untuk mengetahui
+Persekutuan yang berasingan — lihat [Labuan](/states/labuan) untuk mengetahui
 bagaimana ini berlaku.
 
 ## Ekonomi
@@ -152,7 +152,7 @@ pembangunan persekutuan dan negeri.
 ## Kerajaan
 
 Ketua negeri Sabah ialah Yang di-Pertua Negeri, yang dilantik oleh
-[Yang di-Pertuan Agong](/ms/government/yang-di-pertuan-agong). Kerajaan negeri
+[Yang di-Pertuan Agong](/government/yang-di-pertuan-agong). Kerajaan negeri
 diketuai oleh seorang Ketua Menteri yang memegang kepercayaan Dewan Undangan
 Negeri Sabah — berbeza daripada Sarawak, yang menamakan semula ketua
 kerajaannya sebagai Premier, Sabah mengekalkan gelaran Ketua Menteri.
@@ -172,7 +172,7 @@ diambil mengenainya, tanpa menyokong mana-mana pihak.
 **Instrumen itu.** Perjanjian Malaysia ditandatangani di London pada 9 Julai
 1963 oleh United Kingdom, Persekutuan Tanah Melayu, Borneo Utara, Sarawak dan
 Singapura, dan Malaysia terbentuk pada 16 September 1963 — kisah proses itu
-diceritakan dalam [Pembentukan Malaysia](/ms/malaysia/formation-of-malaysia-1963).
+diceritakan dalam [Pembentukan Malaysia](/malaysia/formation-of-malaysia-1963).
 Perjanjian itu sendiri ringkas; perlindungan substantif bagi Sabah dibawa masuk
 ke dalam Perlembagaan Persekutuan melalui Malaysia Act 1963.
 
@@ -205,7 +205,7 @@ berjalan dan tidak mencirikan pendirian mana-mana pihak.
 
 Bagi perjanjian itu sendiri — apa yang dinyatakannya, apa yang ditunjukkannya,
 dan apa yang diperdebatkan mengenainya — lihat artikel khusus mengenai
-[MA63](/ms/malaysia/ma63).
+[MA63](/malaysia/ma63).
 
 ## Kesilapan biasa
 
@@ -226,13 +226,13 @@ dan apa yang diperdebatkan mengenainya — lihat artikel khusus mengenai
 
 ## Apa yang seterusnya
 
-Terokai [MA63](/ms/malaysia/ma63) untuk penjelasan dokumen demi dokumen
-mengenai perjanjian itu dan perlindungannya, [Pembentukan Malaysia](/ms/malaysia/formation-of-malaysia-1963)
-untuk sejarah 16 September 1963, dan [Sarawak](/ms/states/sarawak) untuk
+Terokai [MA63](/malaysia/ma63) untuk penjelasan dokumen demi dokumen
+mengenai perjanjian itu dan perlindungannya, [Pembentukan Malaysia](/malaysia/formation-of-malaysia-1963)
+untuk sejarah 16 September 1963, dan [Sarawak](/states/sarawak) untuk
 melihat bagaimana negeri Borneo Malaysia yang satu lagi memegang satu set
 pengaturan yang selari — tetapi tidak sama — dengan Sabah. Bagi sisi
 persekutuan dalam hubungan ini, mulakan dengan
-[Yang di-Pertuan Agong](/ms/government/yang-di-pertuan-agong), yang melantik
+[Yang di-Pertuan Agong](/government/yang-di-pertuan-agong), yang melantik
 Yang di-Pertua Negeri Sabah.
 
 ---

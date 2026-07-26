@@ -87,13 +87,13 @@ keywords: ["Dewan Negara", "Senat Malaysia", "senator Malaysia", "perbezaan Dewa
 **Bahasa Malaysia:** Dewan Negara · **English:** Senate · **中文:** 上议院
 
 Apabila Parlimen dibubarkan, kesemua 222 kerusi
-[Dewan Rakyat](/en/glossary/dewan-rakyat) menjadi kosong dan
+[Dewan Rakyat](/glossary/dewan-rakyat) menjadi kosong dan
 setiap ahlinya perlu bertanding semula. Tujuh puluh ahli Dewan Negara tidak.
 Tempoh jawatan mereka, menurut Perkara 45(3) Perlembagaan Persekutuan,
 "tidaklah tersentuh dengan pembubaran Parlimen".
 
 Perbezaan itu bukan kebetulan. Ia adalah titik reka bentuk paling penting antara
-dua Majlis dalam [Parlimen Malaysia](/en/government/parliament) — dan punca
+dua Majlis dalam [Parlimen Malaysia](/government/parliament) — dan punca
 kekeliruan yang paling kerap.
 
 ## Jawapan ringkas
@@ -104,7 +104,7 @@ Majlis: Dewan Negara dan Dewan Rakyat.
 
 Ahlinya digelar **Senator**. Tiada seorang pun daripada mereka dipilih oleh
 pengundi biasa. Mereka sama ada **dipilih oleh Dewan Undangan Negeri** atau
-**dilantik oleh [Yang di-Pertuan Agong](/en/glossary/yang-di-pertuan-agong)**.
+**dilantik oleh [Yang di-Pertuan Agong](/glossary/yang-di-pertuan-agong)**.
 
 ## Dewan Negara lawan Dewan Rakyat
 
@@ -119,7 +119,7 @@ pengundi biasa. Mereka sama ada **dipilih oleh Dewan Undangan Negeri** atau
 | Pegawai pengerusi | Yang di-Pertua Dewan Negara | Yang di-Pertua Dewan Rakyat |
 
 Huraian penuh tentang dewan yang satu lagi ada dalam artikel
-[Dewan Rakyat](/en/glossary/dewan-rakyat).
+[Dewan Rakyat](/glossary/dewan-rakyat).
 
 Satu lagi perbezaan yang mudah terlepas pandang: Perkara 43(2)(a) menghendaki
 Perdana Menteri seorang **ahli Dewan Rakyat**, tetapi Perkara 43(2)(b)
@@ -139,7 +139,7 @@ Perkara 45(1) memecahkannya kepada tiga kumpulan:
 | **Jumlah** | **70** | 26 dipilih, 44 dilantik |
 
 Perhatikan bahagian tengah jadual itu. Kerana
-[Wilayah Persekutuan](/en/glossary/wilayah-persekutuan) tidak mempunyai Dewan
+[Wilayah Persekutuan](/glossary/wilayah-persekutuan) tidak mempunyai Dewan
 Undangan Negeri, ia tidak boleh memilih senator — jadi Perlembagaan memberikan
 kerusinya melalui laluan lantikan.
 
@@ -224,7 +224,7 @@ itu muktamad serta tidak boleh dipersoalkan di mana-mana mahkamah.
 
 Laluan penuh sesuatu rang undang-undang — dari bacaan pertama hingga perkenan
 diraja dan pewartaan — dihuraikan dalam artikel
-[Bagaimana rang undang-undang menjadi undang-undang](/en/law/how-a-bill-becomes-law).
+[Bagaimana rang undang-undang menjadi undang-undang](/law/how-a-bill-becomes-law).
 
 ## Kesilapan lazim
 
@@ -262,11 +262,11 @@ tiada satu pun daripada tiga pilihan itu telah dilaksanakan.
 
 ## Istilah berkaitan
 
-- [Dewan Rakyat](/en/glossary/dewan-rakyat)
-- [Yang di-Pertuan Agong](/en/glossary/yang-di-pertuan-agong)
-- [Parlimen Malaysia](/en/government/parliament)
-- [Perlembagaan Persekutuan](/en/law/federal-constitution)
-- [Wilayah Persekutuan](/en/glossary/wilayah-persekutuan)
+- [Dewan Rakyat](/glossary/dewan-rakyat)
+- [Yang di-Pertuan Agong](/glossary/yang-di-pertuan-agong)
+- [Parlimen Malaysia](/government/parliament)
+- [Perlembagaan Persekutuan](/law/federal-constitution)
+- [Wilayah Persekutuan](/glossary/wilayah-persekutuan)
 
 ## What's next
 
@@ -277,9 +277,9 @@ artikel ini datang daripada teks tersebut.
 
 Untuk memahami apa yang berlaku kepada sesuatu rang undang-undang selepas
 kedua-dua Majlis meluluskannya, teruskan ke artikel
-[Bagaimana rang undang-undang menjadi undang-undang](/en/law/how-a-bill-becomes-law);
+[Bagaimana rang undang-undang menjadi undang-undang](/law/how-a-bill-becomes-law);
 untuk gambaran institusi yang lebih luas, lihat
-[Parlimen Malaysia](/en/government/parliament).
+[Parlimen Malaysia](/government/parliament).
 
 *Artikel ini dikelaskan sebagai sensitif (3R+1: perkara perlembagaan) di bawah
 dasar editorial NegaraKu.md. Ia ditulis secara deskriptif semata-mata — meliputi

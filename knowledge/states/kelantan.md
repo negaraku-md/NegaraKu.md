@@ -170,20 +170,20 @@ Dua nombor dalam jadual itu adalah luar biasa jika dibandingkan dengan negeri la
 Bahagian pertanian sebanyak 19.8% ialah yang kedua tertinggi di Malaysia selepas
 Pahang (22.4%), jauh melebihi purata negeri-negeri perindustrian. Bahagian pembuatan
 sebanyak 4.7% pula ialah yang terendah dalam kalangan 13 negeri — bandingkan dengan
-Pulau Pinang (47.3%) atau [Johor](/en/states/johor) (28.0%).
+Pulau Pinang (47.3%) atau [Johor](/states/johor) (28.0%).
 
 Struktur ini juga kelihatan dalam data isi rumah. Pendapatan bulanan penengah isi
 rumah di Kelantan ialah RM4,083 pada 2024 (purata RM5,265), angka terendah dalam
 kalangan negeri dan wilayah persekutuan pada tahun tinjauan itu.
 
 Untuk konteks kebangsaan tentang cara angka-angka ini dikira dan dibandingkan, lihat
-[gambaran keseluruhan KDNK Malaysia](/en/economy/gdp-overview).
+[gambaran keseluruhan KDNK Malaysia](/economy/gdp-overview).
 
 ## Budaya, persembahan dan kraf tangan
 
 Sumber kerajaan secara konsisten mengaitkan Kelantan dengan satu kelompok bentuk
-kraf dan persembahan tradisional: wau bulan, [wayang kulit](/en/arts-culture/wayang-kulit),
-ukiran kayu, kraf perak, [batik](/en/arts-culture/batik) dan tenunan songket.
+kraf dan persembahan tradisional: wau bulan, [wayang kulit](/arts-culture/wayang-kulit),
+ukiran kayu, kraf perak, [batik](/arts-culture/batik) dan tenunan songket.
 
 Teater **mak yong** mempunyai pengiktirafan antarabangsa yang paling formal. UNESCO
 menyenaraikannya dalam Senarai Perwakilan Warisan Budaya Tidak Ketara Kemanusiaan
@@ -198,7 +198,7 @@ disebut secara langsung dalam bahan penerangan kerajaan.
 
 Kraf tangan di sini kekal sebagai aktiviti berasaskan bengkel dan isi rumah, bukan
 pengeluaran kilang. Itu satu sebab mengapa ia muncul dalam statistik sebagai sebahagian
-daripada perdagangan dan pelancongan — lihat [sektor pelancongan Malaysia](/en/economy/tourism)
+daripada perdagangan dan pelancongan — lihat [sektor pelancongan Malaysia](/economy/tourism)
 — dan bukan sebagai pembuatan.
 
 ## Institusi negeri
@@ -212,13 +212,13 @@ Kuasa eksekutif harian dijalankan oleh kerajaan negeri yang diketuai seorang Men
 Besar bersama Ahli-Ahli Majlis Mesyuarat Kerajaan, dengan sebuah Dewan Undangan Negeri
 sebagai badan perundangan negeri. Pentadbiran tanah dan hal ehwal jajahan diuruskan
 melalui Pejabat Tanah dan Jajahan di setiap jajahan. Kelantan turut diwakili di
-Parlimen Persekutuan — lihat [struktur Parlimen Malaysia](/en/government/parliament).
+Parlimen Persekutuan — lihat [struktur Parlimen Malaysia](/government/parliament).
 
 ## Salah faham yang biasa
 
 **"Kelantan tidak mempunyai sejarah bandar yang panjang."** Kawasan ini merupakan
 antara bahagian tertua yang didiami di Semenanjung Malaysia, dan tapak-tapak arkeologi
-di sekitarnya berkait dengan rangkaian politi awal seperti [Langkasuka](/en/malaysia/langkasuka).
+di sekitarnya berkait dengan rangkaian politi awal seperti [Langkasuka](/malaysia/langkasuka).
 
 **"Jumlah penduduk Kota Bharu ialah jumlah penduduk bandar."** Dua angka yang berbeza
 sering dicampur aduk: kawasan pentadbiran MPKB-BRI seluas 115.64 km², dan jajahan Kota

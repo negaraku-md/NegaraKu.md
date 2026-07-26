@@ -124,6 +124,6 @@ Ini bukan sekadar catatan musiman yang kecil — ia adalah satu lagi lapisan pel
 
 ## Apa yang seterusnya
 
-- Untuk bentuk perlembagaan di sebalik peta — tiga belas negeri, tiga wilayah persekutuan, dua wilayah — lihat [Apa Sebenarnya Malaysia](/ms/malaysia/what-malaysia-is).
-- Untuk melihat bagaimana corak penempatan dataran pantai ini terzahir dalam data populasi moden, lihat [Mengapa Malaysia Menjadi Negara Majoriti Bandar dalam Satu Generasi](/ms/malaysia/urbanisation).
-- Untuk profil lengkap negeri yang bertunjangkan Gunung Kinabalu, lihat [Sabah: Negeri di Bawah Bayu dan Terma Persekutuannya](/ms/states/sabah).
+- Untuk bentuk perlembagaan di sebalik peta — tiga belas negeri, tiga wilayah persekutuan, dua wilayah — lihat [Apa Sebenarnya Malaysia](/malaysia/what-malaysia-is).
+- Untuk melihat bagaimana corak penempatan dataran pantai ini terzahir dalam data populasi moden, lihat [Mengapa Malaysia Menjadi Negara Majoriti Bandar dalam Satu Generasi](/malaysia/urbanisation).
+- Untuk profil lengkap negeri yang bertunjangkan Gunung Kinabalu, lihat [Sabah: Negeri di Bawah Bayu dan Terma Persekutuannya](/states/sabah).

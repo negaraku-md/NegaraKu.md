@@ -96,7 +96,7 @@ Talian-talian ini wujud khusus untuk detik sebegini. Ia percuma, sulit, dan dike
 
 Talian HEAL dikendalikan terus oleh pegawai kaunseling Kementerian Kesihatan. Befrienders turut mengendalikan pusat kembar di negeri-negeri lain dengan nombor tempatan mereka sendiri. Talian Kasih dikendalikan oleh Kementerian Pembangunan Wanita, Keluarga dan Masyarakat (KPWKM) melalui Jabatan Kebajikan Masyarakat (JKM) — skopnya lebih luas daripada kesihatan mental sahaja, tetapi kesusahan dan krisis emosi jelas termasuk dalam apa yang dikendalikannya.
 
-Jika keselamatan fizikal seseorang berada dalam bahaya serta-merta, talian kecemasan am kekal di [999](/ms/healthcare/emergencies-999).
+Jika keselamatan fizikal seseorang berada dalam bahaya serta-merta, talian kecemasan am kekal di [999](/healthcare/emergencies-999).
 
 ## Titik permulaan: Klinik Kesihatan
 
@@ -140,4 +140,4 @@ Tiada satu pun daripada pertubuhan ini memerlukan diagnosis, rujukan, atau bukti
 
 ## Apa yang seterusnya
 
-Untuk memahami cara sistem kesihatan awam-swasta yang lebih luas berfungsi bersama — termasuk siapa membayar apa dan mengapa — lihat [Bagaimana Sistem Penjagaan Kesihatan Malaysia Sebenarnya Berfungsi](/ms/healthcare/how-malaysian-healthcare-works). Untuk maklumat lanjut tentang rangkaian klinik kerajaan yang sering menjadi titik hubungan pertama, lihat [Klinik Kesihatan](/ms/healthcare/klinik-kesihatan). Untuk kos sektor swasta secara lebih luas, lihat [Hospital Swasta dan Kosnya](/ms/healthcare/private-hospitals-and-costs). Dan jika sesuatu keadaan menjadi hal keselamatan fizikal serta-merta, [Kecemasan Perubatan dan 999](/ms/healthcare/emergencies-999) menerangkan cara sistem berasingan itu berfungsi.
+Untuk memahami cara sistem kesihatan awam-swasta yang lebih luas berfungsi bersama — termasuk siapa membayar apa dan mengapa — lihat [Bagaimana Sistem Penjagaan Kesihatan Malaysia Sebenarnya Berfungsi](/healthcare/how-malaysian-healthcare-works). Untuk maklumat lanjut tentang rangkaian klinik kerajaan yang sering menjadi titik hubungan pertama, lihat [Klinik Kesihatan](/healthcare/klinik-kesihatan). Untuk kos sektor swasta secara lebih luas, lihat [Hospital Swasta dan Kosnya](/healthcare/private-hospitals-and-costs). Dan jika sesuatu keadaan menjadi hal keselamatan fizikal serta-merta, [Kecemasan Perubatan dan 999](/healthcare/emergencies-999) menerangkan cara sistem berasingan itu berfungsi.

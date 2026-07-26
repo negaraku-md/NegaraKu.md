@@ -145,7 +145,7 @@ Perlu dinyatakan, penggunaan, pengajaran dan pembelajaran bahasa dilindungi seca
 
 ## Apa yang seterusnya
 
-Untuk melihat kedudukan kaum Cina dalam populasi negara, baca [Komposisi Populasi](/ms/malaysia/population-composition). Bagi bahasa komuniti yang setanding untuk dibandingkan, lihat [Bahasa Tamil di Malaysia](/ms/arts-culture/tamil-in-malaysia). Bagi rangka perlembagaan di sebalik hak bahasa, lihat [Perkara 152 dan Bahasa](/ms/law/article-152-language). Bagi contoh dialek dan budaya yang saling berjalin, lihat [Peranakan](/ms/arts-culture/peranakan), gabungan warisan Melayu dan Cina (kebanyakannya Hokkien), serta [Tahun Baharu Cina](/ms/arts-culture/chinese-new-year), perayaan terpenting komuniti ini.
+Untuk melihat kedudukan kaum Cina dalam populasi negara, baca [Komposisi Populasi](/malaysia/population-composition). Bagi bahasa komuniti yang setanding untuk dibandingkan, lihat [Bahasa Tamil di Malaysia](/arts-culture/tamil-in-malaysia). Bagi rangka perlembagaan di sebalik hak bahasa, lihat [Perkara 152 dan Bahasa](/law/article-152-language). Bagi contoh dialek dan budaya yang saling berjalin, lihat [Peranakan](/arts-culture/peranakan), gabungan warisan Melayu dan Cina (kebanyakannya Hokkien), serta [Tahun Baharu Cina](/arts-culture/chinese-new-year), perayaan terpenting komuniti ini.
 
 ---
 

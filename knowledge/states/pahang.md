@@ -110,8 +110,8 @@ satu daripada setiap 20 rakyat Malaysia tinggal di sana.
 Itulah fakta tunggal yang menerangkan hampir segala-galanya tentang negeri ini:
 mengapa hutannya masih luas, mengapa ekonominya bersandar pada tanah dan bukan
 pada kilang, dan mengapa Taman Negara boleh wujud dalam bentuk yang tidak
-mungkin bertahan di [Selangor](/en/states/selangor) atau
-[Pulau Pinang](/en/states/penang).
+mungkin bertahan di [Selangor](/states/selangor) atau
+[Pulau Pinang](/states/penang).
 
 ## Fakta utama
 
@@ -207,9 +207,9 @@ perbandingan, di Selangor pertanian menyumbang kira-kira 1.1 peratus sahaja.
 Sawit menerangkan sebahagian besar daripadanya. Setakat Disember 2025, MPOB
 merekodkan **745,445 hektar** kawasan sawit bertanam di Pahang — 13.1 peratus
 daripada jumlah Malaysia, dan kawasan terluas di Semenanjung, mengatasi
-[Johor](/en/states/johor) (675,558 hektar). Hampir 30 peratus daripada semua
+[Johor](/states/johor) (675,558 hektar). Hampir 30 peratus daripada semua
 kawasan sawit di Semenanjung Malaysia terletak di Pahang. Latar sektor ini
-dijelaskan dalam [industri sawit](/en/economy/palm-oil-sector).
+dijelaskan dalam [industri sawit](/economy/palm-oil-sector).
 
 Perhatikan juga apa yang kecil. Perlombongan dan pengkuarian menyumbang kurang
 satu peratus KDNK negeri, walaupun sejarah Pahang sering dikaitkan dengan
@@ -244,7 +244,7 @@ Kepentingan Taman Negara bukan sekadar pelancongan. Ia satu-satunya blok hutan
 hujan dataran rendah bersaiz besar yang dilindungi secara berterusan sejak
 zaman sebelum merdeka di Semenanjung, dan ia berfungsi sebagai kawasan tadahan
 bagi sistem sungai yang mengalir ke tiga negeri. Sumbangan pelancongan kepada
-ekonomi negara dibincangkan dalam artikel [pelancongan](/en/economy/tourism).
+ekonomi negara dibincangkan dalam artikel [pelancongan](/economy/tourism).
 
 ## Institusi diraja dan Pekan
 
@@ -267,9 +267,9 @@ bekas pusat pentadbiran negeri sebelum Kuantan.
 
 Kedudukan Sultan sebagai ketua negeri, dan hubungan antara negeri dengan
 Persekutuan, dirangkakan oleh
-[Perlembagaan Persekutuan](/en/law/federal-constitution) bersama undang-undang
+[Perlembagaan Persekutuan](/law/federal-constitution) bersama undang-undang
 tubuh negeri masing-masing. Struktur ini berbeza-beza antara negeri —
-bandingkan dengan [Negeri Sembilan](/en/states/negeri-sembilan), yang ketua
+bandingkan dengan [Negeri Sembilan](/states/negeri-sembilan), yang ketua
 negerinya dipilih dan bergelar Yang di-Pertuan Besar.
 
 Bahagian ini bersifat deskriptif semata-mata dan tidak membuat sebarang
@@ -307,13 +307,13 @@ Artikel ini berstatus draf dan belum melalui semakan manusia.
 ## Apa seterusnya
 
 - Untuk data penduduk, pendapatan atau ekonomi peringkat daerah dan DUN, gunakan
-  katalog data dan papan pemuka [DOSM](/en/government/dosm).
+  katalog data dan papan pemuka [DOSM](/government/dosm).
 - Untuk konteks ekonomi kebangsaan tempat angka RM71.0 bilion itu duduk, lihat
-  [gambaran KDNK Malaysia](/en/economy/gdp-overview).
+  [gambaran KDNK Malaysia](/economy/gdp-overview).
 - Untuk memahami sektor yang menjadi tulang belakang ekonomi Pahang, lihat
-  [industri sawit](/en/economy/palm-oil-sector).
-- Untuk perbandingan struktur negeri, lihat [Johor](/en/states/johor),
-  [Selangor](/en/states/selangor) dan
-  [Negeri Sembilan](/en/states/negeri-sembilan).
+  [industri sawit](/economy/palm-oil-sector).
+- Untuk perbandingan struktur negeri, lihat [Johor](/states/johor),
+  [Selangor](/states/selangor) dan
+  [Negeri Sembilan](/states/negeri-sembilan).
 - Untuk maklumat permit, penginapan dan laluan Taman Negara, rujuk terus laman
   rasmi Jabatan PERHILITAN sebelum merancang lawatan.

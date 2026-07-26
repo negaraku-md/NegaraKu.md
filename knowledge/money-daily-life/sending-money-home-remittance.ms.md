@@ -177,10 +177,10 @@ anda di kaunter, pada masa itu.
 
 Untuk pengawal selia di sebalik kedua-dua saluran yang diterangkan di sini,
 lihat
-[Bank Negara Malaysia](/ms/economy/bank-negara-malaysia). Untuk peraturan
+[Bank Negara Malaysia](/economy/bank-negara-malaysia). Untuk peraturan
 yang lebih luas mengenai sistem pembayaran dan bila kelulusan BNM diperlukan
 bagi sesuatu produk pembayaran, lihat
-[peraturan pembayaran di Malaysia](/ms/business/payment-regulation-malaysia).
+[peraturan pembayaran di Malaysia](/business/payment-regulation-malaysia).
 Dan jika anda sedang menyediakan akaun bank domestik yang akan menjadi
 sumber atau destinasi bagi pemindahan kiriman wang, lihat
-[membuka akaun bank di Malaysia](/ms/money-daily-life/opening-bank-account).
+[membuka akaun bank di Malaysia](/money-daily-life/opening-bank-account).

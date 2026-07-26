@@ -101,8 +101,8 @@ Di lapan negeri Melayu yang lain, soalan "siapa raja seterusnya" dijawab oleh
 susur galur. Di Negeri Sembilan, ia dijawab oleh empat orang ketua adat.
 
 Itulah perbezaan struktur yang paling ketara antara Negeri Sembilan dengan
-negeri-negeri jirannya seperti [Johor](/en/states/johor) dan
-[Selangor](/en/states/selangor) — dan ia bukan kebiasaan semata-mata, tetapi
+negeri-negeri jirannya seperti [Johor](/states/johor) dan
+[Selangor](/states/selangor) — dan ia bukan kebiasaan semata-mata, tetapi
 tersurat dalam Undang-Undang Tubuh Kerajaan Negeri Sembilan 1959.
 
 ## Fakta utama
@@ -152,7 +152,7 @@ Di sebelah pentadbiran moden pula, struktur negeri merangkumi Yang di-Pertuan
 Besar, Majlis Mesyuarat Kerajaan Negeri, Dewan Undangan Negeri, Menteri Besar,
 Dewan Keadilan dan Undang, serta pentadbiran peringkat daerah — sebagaimana
 disenaraikan pada portal rasmi kerajaan negeri. Peruntukan negeri ini beroperasi
-dalam kerangka [Perlembagaan Persekutuan](/en/law/federal-constitution).
+dalam kerangka [Perlembagaan Persekutuan](/law/federal-constitution).
 
 Selain empat Undang, portal rasmi turut menyenaraikan satu jawatan berasingan
 iaitu **Tunku Besar Tampin**.
@@ -192,7 +192,7 @@ Sebelum campur tangan British, setiap Undang mentadbir luaknya secara
 berasingan. Sistem Residen British kemudiannya memperkenalkan peraturan negeri
 yang lebih berpusat.
 
-Wilayah ini pernah berada di bawah [Kesultanan Melaka](/en/malaysia/melaka-sultanate)
+Wilayah ini pernah berada di bawah [Kesultanan Melaka](/malaysia/melaka-sultanate)
 sebelum 1511, dan kemudiannya menjadi sebahagian daripada kerajaan Johor.
 
 ## Tujuh daerah pentadbiran
@@ -240,7 +240,7 @@ ibu, manakala jawatan adat seperti Lembaga dan Undang disandang oleh lelaki yang
 dipilih daripada garis tersebut.
 
 **"Semua negeri Melayu sama sahaja."** Perbandingan dengan negeri seperti
-[Johor](/en/states/johor) menunjukkan sebaliknya: setiap negeri mempunyai
+[Johor](/states/johor) menunjukkan sebaliknya: setiap negeri mempunyai
 undang-undang tubuhnya sendiri, dan Negeri Sembilan ialah satu-satunya yang
 menggabungkan pemilihan ketua negeri dengan sistem adat matrilineal.
 
@@ -265,6 +265,6 @@ Artikel ini berstatus draf dan belum melalui semakan manusia.
   rasmi jika anda memerlukan perkataan sebenar Perkara 10 hingga 14.
 - Untuk data penduduk dan ekonomi peringkat daerah atau DUN, gunakan papan
   pemuka Kawasanku dan katalog data DOSM.
-- Untuk perbandingan struktur negeri, lihat [Johor](/en/states/johor) dan
-  [Selangor](/en/states/selangor); untuk kerangka persekutuan yang mengatasi
-  semuanya, lihat [Perlembagaan Persekutuan](/en/law/federal-constitution).
+- Untuk perbandingan struktur negeri, lihat [Johor](/states/johor) dan
+  [Selangor](/states/selangor); untuk kerangka persekutuan yang mengatasi
+  semuanya, lihat [Perlembagaan Persekutuan](/law/federal-constitution).

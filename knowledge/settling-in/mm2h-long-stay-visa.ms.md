@@ -158,7 +158,7 @@ Platinum yang tambahan membenarkan pembawaan masuk pembantu rumah asing.
 
 **Kebenaran perniagaan dan pekerjaan benar-benar berbeza mengikut peringkat**, satu topik
 yang cukup besar untuk layak dibincangkan tersendiri — lihat
-[Visa untuk Pemilik Perniagaan](/ms/business/malaysia-business-visa-comparison) untuk
+[Visa untuk Pemilik Perniagaan](/business/malaysia-business-visa-comparison) untuk
 perbandingan penuh berbanding Employment Pass dan PVIP. Ringkasnya: halaman Silver, Gold
 dan SEZ MOTAC semuanya menyatakan aktiviti perniagaan/pelaburan dan peluang kerjaya
 sebagai "Tidak dibenarkan," manakala halaman Platinum menyatakan kedua-duanya sebagai
@@ -203,9 +203,9 @@ seluruh keluarga.
 Untuk membuka akaun bank tempat deposit tetap itu sebenarnya disimpan, dan untuk melihat
 bagaimana senarai semak dokumen berbeza sebaik sahaja anda memegang kelulusan MM2H
 berbanding pas pelancong, lihat
-[Membuka Akaun Bank di Malaysia](/ms/money-daily-life/opening-bank-account).
+[Membuka Akaun Bank di Malaysia](/money-daily-life/opening-bank-account).
 Bagi pihak berkuasa imigresen yang akhirnya meluluskan dan mencap pas itu, lihat
-[Jabatan Imigresen Malaysia](/ms/government/imigresen). Dan jika bekerja atau menjalankan
+[Jabatan Imigresen Malaysia](/government/imigresen). Dan jika bekerja atau menjalankan
 perniagaan di Malaysia adalah sebahagian daripada rancangan, baca
-[Visa untuk Pemilik Perniagaan](/ms/business/malaysia-business-visa-comparison) sebelum
+[Visa untuk Pemilik Perniagaan](/business/malaysia-business-visa-comparison) sebelum
 menganggap MM2H merangkuminya.

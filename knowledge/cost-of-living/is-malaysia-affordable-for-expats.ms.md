@@ -123,9 +123,9 @@ tinggi berbanding mana-mana negeri lain, tetapi mereka juga berbelanja
 lebih banyak — kelebihan pendapatan itu nyata tetapi lebih sempit daripada
 yang disarankan oleh angka gaji utama sahaja, sebaik sahaja perbelanjaan
 tempatan dibandingkan dengannya. Lihat
-[Mengapa Kuala Lumpur Tempat Tinggal Paling Mahal di Malaysia](/ms/cost-of-living/cost-of-living-kuala-lumpur)
+[Mengapa Kuala Lumpur Tempat Tinggal Paling Mahal di Malaysia](/cost-of-living/cost-of-living-kuala-lumpur)
 untuk pecahan mengikut negeri, dan
-[Gaji Minimum berbanding Pendapatan Median](/ms/cost-of-living/minimum-wage-and-median-income)
+[Gaji Minimum berbanding Pendapatan Median](/cost-of-living/minimum-wage-and-median-income)
 untuk melihat di mana sebenarnya kedudukan sesuatu gaji berbanding taburan
 kebangsaan.
 
@@ -136,12 +136,12 @@ kebangsaan.
   dan penginapan hospital di sebuah kemudahan swasta terkemuka menghasilkan
   dua bil berasingan (yuran pakar dan caj hospital itu sendiri) yang
   langsung tidak menyerupai lawatan ke Klinik Kesihatan awam. Lihat
-  [Dua Bil untuk Satu Penginapan](/ms/healthcare/private-hospitals-and-costs)
+  [Dua Bil untuk Satu Penginapan](/healthcare/private-hospitals-and-costs)
   untuk memahami cara pengebilan swasta sebenarnya berfungsi.
 - **Persekolahan.** Yuran sekolah antarabangsa ditetapkan hampir
   sepenuhnya oleh sekolah masing-masing, bukan oleh tarif kerajaan, dan
   berbeza dengan ketara mengikut kurikulum dan lokasi — lihat
-  [Sekolah Antarabangsa di Malaysia](/ms/education/international-schools).
+  [Sekolah Antarabangsa di Malaysia](/education/international-schools).
 - **Pemastautinan jangka panjang.** Mampu menyara kehidupan harian di
   Malaysia adalah persoalan berasingan daripada melayakkan diri untuk visa
   jangka panjang. Program Malaysia My Second Home memerlukan deposit tetap
@@ -149,7 +149,7 @@ kebangsaan.
   diwajibkan — ambang yang ditetapkan oleh Kementerian Pelancongan,
   Kesenian dan Kebudayaan dan bukannya oleh kos sara hidup itu sendiri.
   Lihat
-  [Dalam Empat Peringkat Visa Jangka Panjang MM2H](/ms/settling-in/mm2h-long-stay-visa).
+  [Dalam Empat Peringkat Visa Jangka Panjang MM2H](/settling-in/mm2h-long-stay-visa).
 
 ## Kesilapan lazim
 
@@ -175,6 +175,6 @@ kebangsaan.
 ## Apa yang seterusnya
 
 Untuk versi persoalan ini di peringkat bandar, lihat
-[Mengapa Kuala Lumpur Tempat Tinggal Paling Mahal di Malaysia](/ms/cost-of-living/cost-of-living-kuala-lumpur).
+[Mengapa Kuala Lumpur Tempat Tinggal Paling Mahal di Malaysia](/cost-of-living/cost-of-living-kuala-lumpur).
 Untuk memahami bagaimana angka inflasi asas sebenarnya dibina, lihat
-[Kadar Inflasi Malaysia dan Apa yang Sebenarnya Diukur oleh CPI](/ms/economy/inflation-cpi).
+[Kadar Inflasi Malaysia dan Apa yang Sebenarnya Diukur oleh CPI](/economy/inflation-cpi).

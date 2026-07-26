@@ -84,7 +84,7 @@ Artikel ini menerangkan senarai itu sebagaimana ia terkandung dalam teks perlemb
 
 Jadual Kelima seksyen 1 menyatakan Majlis Raja-Raja terdiri daripada Duli-Duli Yang Maha Mulia Raja-Raja dan Yang di-Pertua-Yang di-Pertua Negeri bagi Negeri-Negeri yang tidak mempunyai Raja.
 
-Laman rasmi Pejabat Penyimpan Mohor Besar Raja-Raja menyatakan keanggotaan semasa terdiri daripada sembilan Raja Melayu bersama Yang di-Pertua Negeri bagi Melaka, Pulau Pinang, Sabah dan Sarawak — sejumlah 13 anggota. Rangka kata "Negeri-Negeri yang tidak mempunyai Raja" menggantikan sebutan asal "Melaka dan Pulau Pinang" apabila Sabah dan Sarawak menyertai Persekutuan; lihat [Pembentukan Malaysia 1963](/en/malaysia/formation-of-malaysia-1963).
+Laman rasmi Pejabat Penyimpan Mohor Besar Raja-Raja menyatakan keanggotaan semasa terdiri daripada sembilan Raja Melayu bersama Yang di-Pertua Negeri bagi Melaka, Pulau Pinang, Sabah dan Sarawak — sejumlah 13 anggota. Rangka kata "Negeri-Negeri yang tidak mempunyai Raja" menggantikan sebutan asal "Melaka dan Pulau Pinang" apabila Sabah dan Sarawak menyertai Persekutuan; lihat [Pembentukan Malaysia 1963](/malaysia/formation-of-malaysia-1963).
 
 Keahlian itu tidak seragam untuk semua urusan. Jadual Kelima seksyen 7 mengeluarkan Yang di-Pertua-Yang di-Pertua Negeri daripada keanggotaan bagi prosiding yang berhubungan dengan:
 
@@ -132,7 +132,7 @@ Perkara 37(1) menambah satu langkah yang jarang disebut: Yang di-Pertuan Agong m
 
 ## Apa yang memerlukan persetujuan Majlis Raja-Raja
 
-"Persetujuan" ialah ambang yang paling kuat dalam Perlembagaan: tanpa ia, undang-undang berkenaan tidak boleh diluluskan oleh [Parlimen](/en/government/parliament).
+"Persetujuan" ialah ambang yang paling kuat dalam Perlembagaan: tanpa ia, undang-undang berkenaan tidak boleh diluluskan oleh [Parlimen](/government/parliament).
 
 | Peruntukan | Apa yang tidak boleh berlaku tanpa persetujuan Majlis |
 | --- | --- |
@@ -142,7 +142,7 @@ Perkara 37(1) menambah satu langkah yang jarang disebut: Yang di-Pertuan Agong m
 | Perkara 33(5) | Undang-undang yang memperuntukkan seseorang Raja menjalankan fungsi Yang di-Pertuan Agong dalam keadaan tertentu |
 | Perkara 34(5) | Yang di-Pertuan Agong berada di luar Persekutuan lebih daripada lima belas hari, kecuali atas lawatan negara |
 
-Perkara 159(5) itulah yang menjadikan Majlis Raja-Raja sebahagian daripada prosedur pindaan [Perlembagaan Persekutuan](/en/law/federal-constitution) bagi peruntukan yang disenaraikan, di samping majoriti dua pertiga di kedua-dua Majlis Parlimen.
+Perkara 159(5) itulah yang menjadikan Majlis Raja-Raja sebahagian daripada prosedur pindaan [Perlembagaan Persekutuan](/law/federal-constitution) bagi peruntukan yang disenaraikan, di samping majoriti dua pertiga di kedua-dua Majlis Parlimen.
 
 ## Apa yang memerlukan rundingan sahaja
 
@@ -194,8 +194,8 @@ Perkara 40(2)(c) pula meletakkan permintaan supaya diadakan mesyuarat Majlis yan
 
 ## Apa seterusnya
 
-Untuk memahami di mana Majlis Raja-Raja duduk dalam rangka perlembagaan yang lebih luas, mulakan dengan [Perlembagaan Persekutuan](/en/law/federal-constitution), kemudian [Parlimen Malaysia](/en/government/parliament) untuk melihat bagaimana undang-undang persekutuan diluluskan sebelum syarat persetujuan Perkara 38(4) dan 159(5) terpakai.
+Untuk memahami di mana Majlis Raja-Raja duduk dalam rangka perlembagaan yang lebih luas, mulakan dengan [Perlembagaan Persekutuan](/law/federal-constitution), kemudian [Parlimen Malaysia](/government/parliament) untuk melihat bagaimana undang-undang persekutuan diluluskan sebelum syarat persetujuan Perkara 38(4) dan 159(5) terpakai.
 
-Latar sejarahnya pula terletak pada dua peristiwa: [Kemerdekaan 1957](/en/malaysia/independence-1957), apabila Perlembagaan mula berkuat kuasa, dan [Pembentukan Malaysia 1963](/en/malaysia/formation-of-malaysia-1963), apabila rangka keanggotaan diluaskan kepada Negeri-Negeri yang tidak mempunyai Raja termasuk [Sarawak](/en/states/sarawak).
+Latar sejarahnya pula terletak pada dua peristiwa: [Kemerdekaan 1957](/malaysia/independence-1957), apabila Perlembagaan mula berkuat kuasa, dan [Pembentukan Malaysia 1963](/malaysia/formation-of-malaysia-1963), apabila rangka keanggotaan diluaskan kepada Negeri-Negeri yang tidak mempunyai Raja termasuk [Sarawak](/states/sarawak).
 
 Teks penuh Perkara 38, Jadual Ketiga dan Jadual Kelima boleh dibaca dalam cetakan semula rasmi Perlembagaan Persekutuan di portal Jabatan Peguam Negara, dan keterangan rasmi mengenai peranan Majlis diterbitkan oleh Pejabat Penyimpan Mohor Besar Raja-Raja.

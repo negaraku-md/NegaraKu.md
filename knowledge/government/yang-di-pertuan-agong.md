@@ -225,7 +225,7 @@ melainkan jika atas permintaannya Parlimen dibubarkan oleh Yang di-Pertuan Agong
 
 - **Parlimen.** Perkara 44 menetapkan bahawa Parlimen terdiri daripada Yang di-Pertuan
   Agong bersama Dewan Negara dan Dewan Rakyat. Lihat
-  [Parlimen Malaysia](/en/government/parliament).
+  [Parlimen Malaysia](/government/parliament).
 - **Persidangan.** Perkara 55(1) menghendaki Baginda memanggil Parlimen dari semasa ke
   semasa, dan tidak membiarkan enam bulan berlalu antara persidangan akhir sesuatu penggal
   dengan mesyuarat pertama penggal berikutnya. Perkara 55(2) memperuntukkan Baginda boleh
@@ -299,10 +299,10 @@ persetujuan Majlis Raja-Raja.
 
 ## Pengetahuan berkaitan
 
-- [Perlembagaan Persekutuan](/en/law/federal-constitution)
-- [Parlimen Malaysia](/en/government/parliament)
-- [Pembentukan Malaysia 1963](/en/malaysia/formation-of-malaysia-1963)
-- [Kemerdekaan 1957](/en/malaysia/independence-1957)
+- [Perlembagaan Persekutuan](/law/federal-constitution)
+- [Parlimen Malaysia](/government/parliament)
+- [Pembentukan Malaysia 1963](/malaysia/formation-of-malaysia-1963)
+- [Kemerdekaan 1957](/malaysia/independence-1957)
 
 ## Apa yang seterusnya
 

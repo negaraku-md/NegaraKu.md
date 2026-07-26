@@ -66,7 +66,7 @@ Artikel ini tidak menceritakan semula kempen itu sebagai sebuah kisah, dan ia ti
 
 ## Keputusan dalam angka
 
-Pengundian bagi pilihan raya umum ke-14 (PRU14, atau GE14 dalam Bahasa Inggeris) dijalankan oleh [Suruhanjaya Pilihan Raya Malaysia (SPR)](/ms/government/spr-election-commission) pada **9 Mei 2018**. Kesemua **222 kerusi** [Dewan Rakyat](/ms/government/dewan-rakyat) — dewan rendah Parlimen — dipertandingkan. Majoriti mudah dalam sebuah dewan berkerusi 222 ialah **112 kerusi**.
+Pengundian bagi pilihan raya umum ke-14 (PRU14, atau GE14 dalam Bahasa Inggeris) dijalankan oleh [Suruhanjaya Pilihan Raya Malaysia (SPR)](/government/spr-election-commission) pada **9 Mei 2018**. Kesemua **222 kerusi** [Dewan Rakyat](/government/dewan-rakyat) — dewan rendah Parlimen — dipertandingkan. Majoriti mudah dalam sebuah dewan berkerusi 222 ialah **112 kerusi**.
 
 Keputusan kerusi, sebagaimana direkodkan oleh pangkalan data Parline milik Kesatuan Antara-Parlimen (Inter-Parliamentary Union, IPU) (yang menghimpunkan keputusan parlimen kebangsaan rasmi), adalah seperti berikut.
 
@@ -88,7 +88,7 @@ Pakatan Harapan bersama Parti Warisan Sabah melepasi ambang 112 kerusi. Barisan 
 
 Kepentingan PRU14 dalam rekod yang didokumenkan ialah kesinambungan yang terputus.
 
-Sejak [kemerdekaan pada 1957](/ms/malaysia/independence-1957), kerajaan persekutuan dibentuk oleh Parti Perikatan. Perikatan kemudiannya disusun semula dan diperluaskan menjadi Barisan Nasional, yang didaftarkan pada tahun 1970-an. Di bawah nama yang satu atau yang satu lagi, gabungan ini telah membentuk setiap kerajaan persekutuan sejak 1957 dan telah memegang majoriti di Dewan Rakyat pada setiap pilihan raya umum di antaranya.
+Sejak [kemerdekaan pada 1957](/malaysia/independence-1957), kerajaan persekutuan dibentuk oleh Parti Perikatan. Perikatan kemudiannya disusun semula dan diperluaskan menjadi Barisan Nasional, yang didaftarkan pada tahun 1970-an. Di bawah nama yang satu atau yang satu lagi, gabungan ini telah membentuk setiap kerajaan persekutuan sejak 1957 dan telah memegang majoriti di Dewan Rakyat pada setiap pilihan raya umum di antaranya.
 
 Oleh itu, PRU14 merupakan pilihan raya umum pertama sejak kemerdekaan di mana gabungan itu tidak memenangi majoriti kerusi parlimen, dan pilihan raya pertama di mana kerajaan persekutuan berpindah kepada gabungan yang berbeza. Inilah fakta jelas yang didokumenkan, yang menjadi tajuk artikel ini — pemindahan kuasa persekutuan yang pertama, dilaporkan tanpa pencirian lanjut.
 
@@ -96,7 +96,7 @@ Oleh itu, PRU14 merupakan pilihan raya umum pertama sejak kemerdekaan di mana ga
 
 Malaysia ialah sebuah monarki berperlembagaan persekutuan dengan sistem parlimen. Siapa yang membentuk kerajaan tidak ditentukan oleh undi kebangsaan secara langsung untuk seorang pemimpin; ia bergantung kepada ahli Dewan Rakyat manakah yang boleh mendapat kepercayaan majoriti ahlinya.
 
-Peruntukan yang mengawal perkara ini terdapat dalam [Perlembagaan Persekutuan](/ms/law/federal-constitution). Perkara 43(2)(a) memperuntukkan bahawa Yang di-Pertuan Agong melantik sebagai Perdana Menteri seorang ahli Dewan Rakyat yang pada pertimbangannya berkemungkinan mendapat kepercayaan majoriti ahli Dewan itu. Bilangan kerusi Dewan Rakyat — 222 pada masa itu — berdasarkan Perkara 46 dan persempadanan kawasan pilihan raya yang dijalankan di bawah Perlembagaan.
+Peruntukan yang mengawal perkara ini terdapat dalam [Perlembagaan Persekutuan](/law/federal-constitution). Perkara 43(2)(a) memperuntukkan bahawa Yang di-Pertuan Agong melantik sebagai Perdana Menteri seorang ahli Dewan Rakyat yang pada pertimbangannya berkemungkinan mendapat kepercayaan majoriti ahli Dewan itu. Bilangan kerusi Dewan Rakyat — 222 pada masa itu — berdasarkan Perkara 46 dan persempadanan kawasan pilihan raya yang dijalankan di bawah Perlembagaan.
 
 Berikutan PRU14, Yang di-Pertuan Agong, **Sultan Muhammad V**, melantik sebagai Perdana Menteri pemimpin yang dikemukakan oleh gabungan yang memegang majoriti. **Tun Dr Mahathir Mohamad** mengangkat sumpah sebagai **Perdana Menteri ketujuh Malaysia pada 10 Mei 2018**, sehari selepas hari pengundian. Beliau sebelum ini pernah berkhidmat sebagai Perdana Menteri keempat, dari 1981 hingga 2003. **Dr Wan Azizah Wan Ismail** dilantik sebagai Timbalan Perdana Menteri — wanita pertama yang memegang jawatan itu.
 
@@ -121,9 +121,9 @@ Jarak yang singkat antara kedua-dua tarikh ini — pengiraan pada malam pengundi
 
 ## Apa yang seterusnya
 
-Untuk mengetahui bagaimana pilihan raya umum Malaysia ditadbir — daripada writ dan penamaan calon hinggalah ke pengundian dan pengisytiharan keputusan — lihat [bagaimana pilihan raya berfungsi](/ms/government/how-elections-work) dan [Suruhanjaya Pilihan Raya (SPR)](/ms/government/spr-election-commission). Bagi dewan yang 222 kerusinya menentukan siapa yang membentuk kerajaan, lihat [Dewan Rakyat](/ms/government/dewan-rakyat).
+Untuk mengetahui bagaimana pilihan raya umum Malaysia ditadbir — daripada writ dan penamaan calon hinggalah ke pengundian dan pengisytiharan keputusan — lihat [bagaimana pilihan raya berfungsi](/government/how-elections-work) dan [Suruhanjaya Pilihan Raya (SPR)](/government/spr-election-commission). Bagi dewan yang 222 kerusinya menentukan siapa yang membentuk kerajaan, lihat [Dewan Rakyat](/government/dewan-rakyat).
 
-Bagi asas perlembagaan pelantikan yang diterangkan di sini, mulakan dengan [Perlembagaan Persekutuan](/ms/law/federal-constitution) dan Perkara 43. Bagi titik permulaan kesinambungan 1957–2018 yang diakhiri oleh PRU14, lihat [kemerdekaan pada 1957](/ms/malaysia/independence-1957).
+Bagi asas perlembagaan pelantikan yang diterangkan di sini, mulakan dengan [Perlembagaan Persekutuan](/law/federal-constitution) dan Perkara 43. Bagi titik permulaan kesinambungan 1957–2018 yang diakhiri oleh PRU14, lihat [kemerdekaan pada 1957](/malaysia/independence-1957).
 
 Sesiapa yang bekerja daripada sumber primer boleh merujuk Suruhanjaya Pilihan Raya Malaysia (SPR) untuk keputusan yang diisytiharkan dan diwartakan, serta rekod IPU Parline bagi pilihan raya Dewan Rakyat 9 Mei 2018 untuk jumlah kerusi yang dihimpunkan.
 

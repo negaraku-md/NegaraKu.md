@@ -104,7 +104,7 @@ Persekutuan untuk menjadi Peguam Negara bagi Persekutuan.
 Dua perkara tekstual berikutan secara langsung. Pertama, pelantikan itu berdasarkan
 nasihat: tindakan formal itu adalah tindakan Yang di-Pertuan Agong, dan nasihat itu
 adalah nasihat Perdana Menteri. Ini mencerminkan corak umum bagi fungsi yang
-dilaksanakan atas nasihat di bawah [Perkara 40](/ms/government/yang-di-pertuan-agong).
+dilaksanakan atas nasihat di bawah [Perkara 40](/government/yang-di-pertuan-agong).
 
 Kedua, kelayakan itu ditetapkan dengan merujuk kepada badan kehakiman. Untuk layak,
 seseorang mesti memenuhi syarat yang sama yang melayakkan seseorang menjadi hakim
@@ -160,8 +160,8 @@ bagi sesuatu kesalahan" di mahkamah biasa, tetapi teks itu mengecualikan tiga fo
 Pengecualian ini penting untuk memahami skop jawatan itu: budi bicara Fasal (3) adalah
 kuasa ke atas pendakwaan di mahkamah biasa Persekutuan, bukan ke atas setiap tribunal
 yang boleh membicarakan sesuatu kesalahan. Untuk susunan mahkamah jenayah biasa, lihat
-[hierarki mahkamah](/ms/law/court-hierarchy); untuk sisi Syariah bagi garis itu, lihat
-[mahkamah sivil dan Mahkamah Syariah](/ms/law/civil-and-syariah-courts).
+[hierarki mahkamah](/law/court-hierarchy); untuk sisi Syariah bagi garis itu, lihat
+[mahkamah sivil dan Mahkamah Syariah](/law/civil-and-syariah-courts).
 
 ## Memilih mahkamah: Perkara 145(3A)
 
@@ -247,12 +247,12 @@ sebarang tempoh tetap bagi jawatan itu.
 
 ## Pengetahuan berkaitan
 
-- [Perlembagaan Persekutuan](/ms/law/federal-constitution)
-- [Yang di-Pertuan Agong](/ms/government/yang-di-pertuan-agong)
-- [Kabinet dan Perdana Menteri](/ms/government/kabinet-perdana-menteri)
-- [Hierarki mahkamah](/ms/law/court-hierarchy)
-- [Mahkamah sivil dan Mahkamah Syariah](/ms/law/civil-and-syariah-courts)
-- [Pindaan perlembagaan](/ms/law/constitutional-amendment)
+- [Perlembagaan Persekutuan](/law/federal-constitution)
+- [Yang di-Pertuan Agong](/government/yang-di-pertuan-agong)
+- [Kabinet dan Perdana Menteri](/government/kabinet-perdana-menteri)
+- [Hierarki mahkamah](/law/court-hierarchy)
+- [Mahkamah sivil dan Mahkamah Syariah](/law/civil-and-syariah-courts)
+- [Pindaan perlembagaan](/law/constitutional-amendment)
 
 ## Apa yang seterusnya
 

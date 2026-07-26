@@ -159,13 +159,13 @@ Bandingkan senarai ini dengan cadangan 1946 dan perbezaan asasnya kelihatan: ran
 
 ## Salah faham yang lazim
 
-**"Singapura sebahagian daripada Malayan Union."** Tidak. Singapura dikecualikan sejak awal dan dijadikan Tanah Jajahan Mahkota berasingan; ia juga kekal di luar Persekutuan 1948. Penyatuannya berlaku jauh kemudian, melalui proses yang dijelaskan dalam [pembentukan Malaysia 1963](/en/malaysia/formation-of-malaysia-1963).
+**"Singapura sebahagian daripada Malayan Union."** Tidak. Singapura dikecualikan sejak awal dan dijadikan Tanah Jajahan Mahkota berasingan; ia juga kekal di luar Persekutuan 1948. Penyatuannya berlaku jauh kemudian, melalui proses yang dijelaskan dalam [pembentukan Malaysia 1963](/malaysia/formation-of-malaysia-1963).
 
 **"Persekutuan 1948 memulangkan kuasa pemerintahan sepenuhnya kepada Raja-Raja."** Tidak sepenuhnya. Kedudukan Raja-Raja di negeri masing-masing dipulihkan dan Majlis Raja-Raja diwujudkan, tetapi kuasa eksekutif di peringkat pusat masih dipegang oleh Pesuruhjaya Tinggi British.
 
 **"Kerakyatan Malayan Union diberikan tanpa sebarang syarat."** Tidak. Cadangan 1946 mengandungi syarat kelahiran atau tempoh kediaman, dan bagi laluan permohonan, sumpah taat setia. Perbezaannya dengan 1948 ialah tahap keketatan, bukan kewujudan syarat.
 
-**"Persekutuan 1948 bermakna kemerdekaan."** Tidak. Ia satu rangka perlembagaan dalam naungan British. Kemerdekaan berlaku pada 31 Ogos 1957 — lihat [kemerdekaan 1957](/en/malaysia/independence-1957).
+**"Persekutuan 1948 bermakna kemerdekaan."** Tidak. Ia satu rangka perlembagaan dalam naungan British. Kemerdekaan berlaku pada 31 Ogos 1957 — lihat [kemerdekaan 1957](/malaysia/independence-1957).
 
 **"Malayan Union hanya isu politik, bukan perlembagaan."** Perbahasannya berlegar pada dua perkara yang sangat khusus dari segi undang-undang: di mana kedaulatan terletak, dan siapa yang layak menjadi rakyat. Kedua-duanya kemudiannya muncul semula sebagai perkara bertulis dalam perlembagaan Persekutuan.
 
@@ -179,7 +179,7 @@ Membaca kedua-dua rangka itu bersebelahan, bukan salah satu sahaja, ialah cara p
 
 ## Apa yang seterusnya
 
-- Ikuti bagaimana rangka Persekutuan 1948 berkembang menjadi negara berdaulat dalam [kemerdekaan 1957](/en/malaysia/independence-1957).
-- Lihat bagaimana persoalan keahlian persekutuan dibuka semula pada dekad berikutnya dalam [pembentukan Malaysia 1963](/en/malaysia/formation-of-malaysia-1963).
-- Untuk latar institusi diraja yang jauh lebih awal daripada zaman British, mulakan dengan [Kesultanan Melaka](/en/malaysia/melaka-sultanate).
+- Ikuti bagaimana rangka Persekutuan 1948 berkembang menjadi negara berdaulat dalam [kemerdekaan 1957](/malaysia/independence-1957).
+- Lihat bagaimana persoalan keahlian persekutuan dibuka semula pada dekad berikutnya dalam [pembentukan Malaysia 1963](/malaysia/formation-of-malaysia-1963).
+- Untuk latar institusi diraja yang jauh lebih awal daripada zaman British, mulakan dengan [Kesultanan Melaka](/malaysia/melaka-sultanate).
 - Rujukan primer: rekod Hansard Parlimen United Kingdom bagi 8 Mac 1946 dan 4 Mei 1949, serta koleksi Pustaka Ilmu Arkib Negara Malaysia.

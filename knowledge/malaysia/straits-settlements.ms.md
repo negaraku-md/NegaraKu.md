@@ -189,6 +189,6 @@ Perataan oleh Malayan Union itu tidak bertahan lama: ia digantikan, dalam bebera
 
 ## Apa yang seterusnya
 
-- Untuk melihat bagaimana keseluruhan struktur empat lapisan ini dirombak dan kemudiannya dibina semula, lihat [Malayan Union dan Persekutuan Tanah Melayu](/ms/malaysia/malayan-union).
-- Untuk salasilah diraja Melayu yang menjadi pihak yang dirunding oleh Perjanjian Pangkor dan para Residen sejak mulanya, mulakan dengan [Kesultanan Melaka](/ms/malaysia/melaka-sultanate).
-- Untuk mengetahui ke mana laluan berasingan Singapura — bermula pada hari Negeri-Negeri Selat dibubarkan pada 1946 — akhirnya membawa, lihat [pemisahan Singapura pada 1965](/ms/malaysia/singapore-separation-1965).
+- Untuk melihat bagaimana keseluruhan struktur empat lapisan ini dirombak dan kemudiannya dibina semula, lihat [Malayan Union dan Persekutuan Tanah Melayu](/malaysia/malayan-union).
+- Untuk salasilah diraja Melayu yang menjadi pihak yang dirunding oleh Perjanjian Pangkor dan para Residen sejak mulanya, mulakan dengan [Kesultanan Melaka](/malaysia/melaka-sultanate).
+- Untuk mengetahui ke mana laluan berasingan Singapura — bermula pada hari Negeri-Negeri Selat dibubarkan pada 1946 — akhirnya membawa, lihat [pemisahan Singapura pada 1965](/malaysia/singapore-separation-1965).

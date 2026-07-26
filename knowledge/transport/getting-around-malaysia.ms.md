@@ -125,10 +125,10 @@ Malaysia.
 
 Dua artikel terperinci yang berbaloi dibaca sebelum bergantung pada
 gabungan ini: [bagaimana laluan keretapi Lembah Klang sebenarnya
-disambungkan](/ms/transport/klang-valley-rail), dan [bagaimana Grab dan
-e-hailing dikawal selia](/ms/transport/e-hailing-grab). Bagi kad tambang
+disambungkan](/transport/klang-valley-rail), dan [bagaimana Grab dan
+e-hailing dikawal selia](/transport/e-hailing-grab). Bagi kad tambang
 yang mengikat kebanyakannya bersama, lihat [Touch 'n Go, kad NFC dan
-eWallet](/ms/transport/touch-n-go).
+eWallet](/transport/touch-n-go).
 
 ## Di luar Lembah Klang: memandu adalah lazim
 
@@ -145,10 +145,10 @@ mobiliti harian di luar wilayah ibu negara: lesen memandu, cukai jalan
 semasa, dan insurans motor yang sah. NegaraKu.md meliputi setiap satu
 mengikut terma sendiri:
 
-- [Bagaimana proses lesen memandu JPJ sebenarnya berfungsi](/ms/transport/driving-licence-malaysians) — bagi warga Malaysia yang melalui peringkat L, P dan lesen penuh.
-- [Memandu di Malaysia sebagai warga asing](/ms/transport/driving-licence-foreigners) — IDP, penukaran lesen, dan apa yang dibenarkan dan tidak.
-- [Pembaharuan cukai jalan](/ms/transport/road-tax-renewal) — mengapa ia berfungsi sebagai lesen kenderaan, bukan cukai dalam erti kata harian.
-- [Insurans motor](/ms/transport/motor-insurance) — mengapa perlindungan pihak ketiga adalah wajib, dan bagaimana ia berinteraksi dengan cukai jalan.
+- [Bagaimana proses lesen memandu JPJ sebenarnya berfungsi](/transport/driving-licence-malaysians) — bagi warga Malaysia yang melalui peringkat L, P dan lesen penuh.
+- [Memandu di Malaysia sebagai warga asing](/transport/driving-licence-foreigners) — IDP, penukaran lesen, dan apa yang dibenarkan dan tidak.
+- [Pembaharuan cukai jalan](/transport/road-tax-renewal) — mengapa ia berfungsi sebagai lesen kenderaan, bukan cukai dalam erti kata harian.
+- [Insurans motor](/transport/motor-insurance) — mengapa perlindungan pihak ketiga adalah wajib, dan bagaimana ia berinteraksi dengan cukai jalan.
 
 ## Antara bandar-bandar besar: keretapi antara bandar dan bas ekspres
 
@@ -235,13 +235,13 @@ untuknya.
 ## Apa yang seterusnya
 
 Mulakan dengan mana-mana bahagian ini yang sebenarnya terpakai kepada
-perjalanan anda: [rangkaian keretapi Lembah Klang](/ms/transport/klang-valley-rail)
-dan [peraturan e-hailing](/ms/transport/e-hailing-grab) jika anda berada
+perjalanan anda: [rangkaian keretapi Lembah Klang](/transport/klang-valley-rail)
+dan [peraturan e-hailing](/transport/e-hailing-grab) jika anda berada
 di atau melawat wilayah ibu negara; panduan memandu untuk
-[warga Malaysia](/ms/transport/driving-licence-malaysians) atau
-[warga asing](/ms/transport/driving-licence-foreigners) berserta
-[cukai jalan](/ms/transport/road-tax-renewal) dan
-[insurans motor](/ms/transport/motor-insurance) jika kereta benar-benar
-dalam rancangan anda; atau [Touch 'n Go](/ms/transport/touch-n-go) untuk
+[warga Malaysia](/transport/driving-licence-malaysians) atau
+[warga asing](/transport/driving-licence-foreigners) berserta
+[cukai jalan](/transport/road-tax-renewal) dan
+[insurans motor](/transport/motor-insurance) jika kereta benar-benar
+dalam rancangan anda; atau [Touch 'n Go](/transport/touch-n-go) untuk
 memahami ekosistem kad dan aplikasi yang mengikat bahagian pembayaran bagi
 semua ini bersama.

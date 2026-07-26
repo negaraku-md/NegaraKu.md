@@ -159,7 +159,7 @@ Perbezaan dari segi praktikal: jika anda seorang pekerja, baki EPF anda
 adalah wang anda sendiri, dilindungi secara sah khusus untuk anda, dengan
 Akta itu sendiri menjamin dividen tahunan minimum. Jika anda memegang unit
 ASB atau ASM, itu adalah pelaburan anda sendiri dalam dana yang diuruskan
-oleh [PNB](/ms/economy/pnb) melalui anak syarikatnya, ASNB. Kedua-dua perkara
+oleh [PNB](/economy/pnb) melalui anak syarikatnya, ASNB. Kedua-dua perkara
 itu tidak benar bagi Khazanah — tiada seorang pun rakyat Malaysia mempunyai
 tuntutan peribadi ke atas mana-mana bahagiannya. Ia wujud untuk memegang dan
 mengembangkan aset negara sendiri, bagi pihak negara.
@@ -172,20 +172,20 @@ mengembangkan aset negara sendiri, bagi pihak negara.
 - **Menganggap setiap GLC adalah syarikat Khazanah.** Khazanah memegang saham
   dalam beberapa GLC yang terkenal, tetapi EPF, PNB, KWAP, LTH dan LTAT
   masing-masing turut memegang pegangan GLC mereka sendiri yang berasingan.
-  Lihat [GLC](/ms/glossary/glc) untuk memahami bagaimana perbezaan GLC/GLIC
+  Lihat [GLC](/glossary/glc) untuk memahami bagaimana perbezaan GLC/GLIC
   berfungsi.
 - **Mengelirukan "dana kekayaan negara" dengan "belanjawan kerajaan".** Kunci
   kira-kira Khazanah adalah berasingan daripada akaun Kerajaan Persekutuan
-  sendiri dalam [belanjawan persekutuan](/ms/economy/federal-budget); ia
+  sendiri dalam [belanjawan persekutuan](/economy/federal-budget); ia
   membayar dividen kepada Kerajaan dan bukannya dibiayai olehnya setiap
   tahun.
 
 ## Apa yang seterusnya
 
-- Bagaimana kira-kira kerajaan sendiri berfungsi: [belanjawan persekutuan](/ms/economy/federal-budget)
-- Di mana pegangan GLC seperti milik Khazanah sebenarnya diniagakan: [Bursa Malaysia](/ms/economy/bursa-malaysia)
-- GLIC lain yang paling kerap dikelirukan dengan Khazanah: [EPF](/ms/glossary/epf)
-- Dana yang sebenarnya menjual unit kepada orang awam: [PNB](/ms/economy/pnb)
-- Apakah GLC, dan bagaimana ia berbeza daripada GLIC: [GLC](/ms/glossary/glc)
+- Bagaimana kira-kira kerajaan sendiri berfungsi: [belanjawan persekutuan](/economy/federal-budget)
+- Di mana pegangan GLC seperti milik Khazanah sebenarnya diniagakan: [Bursa Malaysia](/economy/bursa-malaysia)
+- GLIC lain yang paling kerap dikelirukan dengan Khazanah: [EPF](/glossary/epf)
+- Dana yang sebenarnya menjual unit kepada orang awam: [PNB](/economy/pnb)
+- Apakah GLC, dan bagaimana ia berbeza daripada GLIC: [GLC](/glossary/glc)
 - Bank pusat Malaysia, sebuah badan berkanun yang sepenuhnya berasingan:
-  [Bank Negara Malaysia](/ms/economy/bank-negara-malaysia)
+  [Bank Negara Malaysia](/economy/bank-negara-malaysia)

@@ -171,16 +171,16 @@ kaunter Imigresen pada tarikh urusan anda.
 
 | Topik | Artikel |
 | --- | --- |
-| Peta semua pas kerja | [Work passes Malaysia](/en/employment/work-passes-malaysia) |
-| Pas Penggajian ekspatriat | [Employment Pass Malaysia](/en/employment/employment-pass-malaysia) |
-| Proses mengambil pekerja asing | [Hiring foreign workers](/en/employment/hiring-foreign-workers-malaysia) |
-| Levi pekerja asing | [Foreign worker levy](/en/employment/foreign-worker-levy-malaysia) |
-| Dokumen identiti warganegara (MyKad) | [JPN](/en/government/jpn) |
-| Kawalan barangan di sempadan | [Kastam Diraja Malaysia](/en/government/rmcd-kastam) |
+| Peta semua pas kerja | [Work passes Malaysia](/employment/work-passes-malaysia) |
+| Pas Penggajian ekspatriat | [Employment Pass Malaysia](/employment/employment-pass-malaysia) |
+| Proses mengambil pekerja asing | [Hiring foreign workers](/employment/hiring-foreign-workers-malaysia) |
+| Levi pekerja asing | [Foreign worker levy](/employment/foreign-worker-levy-malaysia) |
+| Dokumen identiti warganegara (MyKad) | [JPN](/government/jpn) |
+| Kawalan barangan di sempadan | [Kastam Diraja Malaysia](/government/rmcd-kastam) |
 
 ## Apa yang seterusnya
 
-Jika anda majikan, mulakan dengan [peta pas kerja](/en/employment/work-passes-malaysia)
+Jika anda majikan, mulakan dengan [peta pas kerja](/employment/work-passes-malaysia)
 untuk mengenal pasti pas yang betul, kemudian daftarkan syarikat di portal ESD.
 Jika anda individu, kenal pasti dahulu sama ada urusan anda soal *tiba* (visa),
 *tinggal* (pas) atau *menetap* (Permit Masuk) — kemudian semak senarai dokumen

@@ -157,13 +157,13 @@ ketujuh pada 17 April 2000.
 Di sinilah kebanyakan penjelasan ringkas tersasar. Gelaran yang berbeza tidak
 membawa kedudukan yang berbeza dalam struktur persekutuan.
 
-[Majlis Raja-Raja Malaysia](/en/government/majlis-raja-raja) menyatakan bahawa semua Raja dan Yang di-Pertua Negeri
+[Majlis Raja-Raja Malaysia](/government/majlis-raja-raja) menyatakan bahawa semua Raja dan Yang di-Pertua Negeri
 secara automatik menjadi anggota Majlis, dan pengerusi Mesyuarat Majlis Raja-Raja
 dipegang oleh kesemua sembilan Raja Melayu secara bergilir-gilir. Raja Perlis
 ialah salah seorang daripada sembilan itu.
 
 Rekodnya jelas dalam senarai rasmi Parlimen Malaysia. Dua Raja Perlis pernah
-memegang jawatan [Yang di-Pertuan Agong](/en/government/yang-di-pertuan-agong):
+memegang jawatan [Yang di-Pertuan Agong](/government/yang-di-pertuan-agong):
 
 - **Tuanku Syed Putra** — Yang di-Pertuan Agong ketiga, 21 September 1960 hingga
   20 September 1965
@@ -212,8 +212,8 @@ Perlu dinyatakan dengan jujur: pada 2024, hanya lima negeri mencatatkan KDNK per
 kapita melebihi paras kebangsaan RM56,734, iaitu W.P. Kuala Lumpur, W.P. Labuan,
 Pulau Pinang, Sarawak dan Selangor. Perlis tidak termasuk dalam senarai itu.
 Bandingkan struktur ini dengan negeri berasaskan pembuatan seperti
-[Pulau Pinang](/en/states/penang), atau lihat gambaran keseluruhan dalam
-[KDNK Malaysia](/en/economy/gdp-overview).
+[Pulau Pinang](/states/penang), atau lihat gambaran keseluruhan dalam
+[KDNK Malaysia](/economy/gdp-overview).
 
 ## Sempadan Thailand: liabiliti geografi yang jadi aset
 
@@ -236,7 +236,7 @@ operasi.
 Bagi pergerakan orang, sempadan itu diuruskan menerusi kompleks Imigresen, Kastam,
 Kuarantin dan Keselamatan (ICQS), termasuk ICQS Wang Kelian dan pintu masuk Padang
 Besar. Syarat dokumen dan waktu operasi ditetapkan oleh
-[Jabatan Imigresen Malaysia](/en/government/imigresen) dan boleh berubah.
+[Jabatan Imigresen Malaysia](/government/imigresen) dan boleh berubah.
 
 ## Kesilapan lazim
 
@@ -269,5 +269,5 @@ berguna — kerana ia menunjukkan bahawa gelaran dan kuasa perlembagaan ialah du
 perkara berbeza.
 
 Dan jika anda cuma ingin memahami rantau ini, sejarah utara Semenanjung bermula
-jauh lebih awal daripada 1843. Lihat [Langkasuka](/en/malaysia/langkasuka), kerajaan
+jauh lebih awal daripada 1843. Lihat [Langkasuka](/malaysia/langkasuka), kerajaan
 awal yang catatannya mendahului mana-mana kesultanan Melayu.

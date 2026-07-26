@@ -175,6 +175,6 @@ bertanya pilihan institusi berdaftar yang wujud berdekatan — sama ada awam
 atau persendirian — dan apa yang diperlukan bagi setiap satu. Keluarga yang
 mempertimbangkan visa tinggal lama untuk seorang pesara asing yang turut
 akan memerlukan penjagaan apabila mereka menua mungkin juga ingin membaca
-tentang [Visa Tinggal Lama MM2H](/ms/settling-in/mm2h-long-stay-visa), kerana
+tentang [Visa Tinggal Lama MM2H](/settling-in/mm2h-long-stay-visa), kerana
 status kediaman jangka panjang menjejaskan perkhidmatan mana antara ini yang
 terpakai.

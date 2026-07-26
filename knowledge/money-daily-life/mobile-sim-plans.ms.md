@@ -150,6 +150,6 @@ melengkapkan pendaftaran itu dan mempunyai persetujuan mereka sendiri direkodkan
 
 ## Apa yang seterusnya
 
-Untuk dokumen pengenalan itu sendiri, lihat [MyKad](/ms/glossary/mykad). Untuk pas
+Untuk dokumen pengenalan itu sendiri, lihat [MyKad](/glossary/mykad). Untuk pas
 dan permit yang menentukan dokumen yang sepatutnya dibawa oleh seorang warga asing
-pada mulanya, lihat [Jabatan Imigresen Malaysia](/ms/government/imigresen).
+pada mulanya, lihat [Jabatan Imigresen Malaysia](/government/imigresen).

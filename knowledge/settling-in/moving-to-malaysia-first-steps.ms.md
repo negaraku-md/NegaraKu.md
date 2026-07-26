@@ -206,12 +206,12 @@ sehingga tempoh pengiktirafan lesen sedia ada anda hampir tamat.
 ## Apa yang seterusnya
 
 Bagi agensi di sebalik hampir setiap keputusan pas di atas, lihat
-[Jabatan Imigresen Malaysia](/ms/government/imigresen). Sebaik sahaja pas
+[Jabatan Imigresen Malaysia](/government/imigresen). Sebaik sahaja pas
 anda selesai diuruskan, dua langkah pentadbiran yang bergantung terus
 kepadanya dibincangkan dalam
-[Membuka Akaun Bank di Malaysia](/ms/money-daily-life/opening-bank-account)
-dan [Pelan SIM Mudah Alih](/ms/money-daily-life/mobile-sim-plans). Jika anda
+[Membuka Akaun Bank di Malaysia](/money-daily-life/opening-bank-account)
+dan [Pelan SIM Mudah Alih](/money-daily-life/mobile-sim-plans). Jika anda
 akan memandu, lihat
-[Lesen Memandu untuk Warga Asing](/ms/transport/driving-licence-foreigners).
+[Lesen Memandu untuk Warga Asing](/transport/driving-licence-foreigners).
 Dan bagi dokumen identiti yang akhirnya akan anda pegang jika anda menjadi
-pemastautin tetap, lihat [MyKad](/ms/glossary/mykad).
+pemastautin tetap, lihat [MyKad](/glossary/mykad).

@@ -126,7 +126,7 @@ Negeri-Negeri** dan **13 ahli dari Wilayah-Wilayah Persekutuan**.
 | Pahang | 14 | Terengganu | 8 |
 | Pulau Pinang | 13 | | |
 
-Bagi [Wilayah Persekutuan](/en/glossary/wilayah-persekutuan), Perkara 46(2)(b)
+Bagi [Wilayah Persekutuan](/glossary/wilayah-persekutuan), Perkara 46(2)(b)
 memperuntukkan **11 kerusi bagi Kuala Lumpur, satu bagi Labuan dan satu bagi
 Putrajaya**.
 
@@ -153,7 +153,7 @@ tahun"* dengan *"lapan belas tahun"* dalam Perkara 47(b). Cetakan semula
 15 Oktober 2020 sudah memuatkan pindaan ini — mana-mana salinan Perlembagaan
 sebelum tarikh kuat kuasa itu akan menunjukkan angka lama.
 
-Bandingkan dengan [Dewan Negara](/en/glossary/dewan-negara): Perkara 47(a)
+Bandingkan dengan [Dewan Negara](/glossary/dewan-negara): Perkara 47(a)
 menetapkan umur minimum 30 tahun di sana. Perbezaan umur itu adalah
 satu-satunya perbezaan kelayakan asas antara kedua-dua Majlis dalam Perkara 47.
 
@@ -182,7 +182,7 @@ mana-mana satu Majlis Parlimen:
 
 Kehilangan kelayakan di bawah dua sebab yang berkaitan penyata perbelanjaan dan
 sabitan boleh dibatalkan oleh
-[Yang di-Pertuan Agong](/en/glossary/yang-di-pertuan-agong); jika tidak, ia
+[Yang di-Pertuan Agong](/glossary/yang-di-pertuan-agong); jika tidak, ia
 terhenti selepas **lima tahun** (Perkara 48(3)). Perkara 48(4) pula menangguhkan
 kuat kuasa kehilangan kelayakan akibat sabitan selama 14 hari, dan lebih lama
 lagi jika rayuan atau petisyen pengampunan difailkan.
@@ -238,7 +238,7 @@ perlu untuk mengelakkan undi sama banyak.
 ## Kuasa yang khusus pada Dewan Rakyat
 
 Tiga peruntukan memberikan Dewan Rakyat kedudukan yang berbeza daripada Dewan
-Negara dalam [proses perundangan](/en/law/how-a-bill-becomes-law) dan
+Negara dalam [proses perundangan](/law/how-a-bill-becomes-law) dan
 pentadbiran.
 
 **Rang Undang-Undang kewangan.** Perkara 67(1) memperuntukkan bahawa Rang
@@ -280,12 +280,12 @@ Parlimen.
 
 ## Istilah berkaitan
 
-- [Parlimen Malaysia](/en/government/parliament)
-- [Dewan Negara](/en/glossary/dewan-negara)
-- [Perlembagaan Persekutuan](/en/law/federal-constitution)
-- [Bagaimana rang undang-undang menjadi undang-undang](/en/law/how-a-bill-becomes-law)
-- [Yang di-Pertuan Agong](/en/glossary/yang-di-pertuan-agong)
-- [Wilayah Persekutuan](/en/glossary/wilayah-persekutuan)
+- [Parlimen Malaysia](/government/parliament)
+- [Dewan Negara](/glossary/dewan-negara)
+- [Perlembagaan Persekutuan](/law/federal-constitution)
+- [Bagaimana rang undang-undang menjadi undang-undang](/law/how-a-bill-becomes-law)
+- [Yang di-Pertuan Agong](/glossary/yang-di-pertuan-agong)
+- [Wilayah Persekutuan](/glossary/wilayah-persekutuan)
 
 ## What's next
 
@@ -297,8 +297,8 @@ yang beredar dalam talian selalunya lebih lama daripada yang disangka.
 
 Untuk melihat bagaimana 222 kerusi ini bekerjasama dengan dewan yang satu lagi
 dalam meluluskan undang-undang, teruskan ke
-[Parlimen Malaysia](/en/government/parliament) dan
-[Dewan Negara](/en/glossary/dewan-negara).
+[Parlimen Malaysia](/government/parliament) dan
+[Dewan Negara](/glossary/dewan-negara).
 
 ---
 

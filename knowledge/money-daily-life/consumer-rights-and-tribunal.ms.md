@@ -162,11 +162,11 @@ pada pandangan pihak yang kalah.
 Untuk gambaran lebih lengkap tentang apa yang dilindungi oleh Akta 599
 sebagai sesuatu statut — peruntukannya mengenai kelakuan yang mengelirukan,
 keselamatan produk dan terma kontrak yang tidak adil — lihat
-[Akta Perlindungan Pengguna 1999](/ms/law/consumer-protection-act). Jika
+[Akta Perlindungan Pengguna 1999](/law/consumer-protection-act). Jika
 pertikaian anda melibatkan sesuatu bayaran yang dibuat melalui pemindahan
-QR atau e-dompet, [Bayaran QR DuitNow](/ms/money-daily-life/duitnow-qr-payments)
+QR atau e-dompet, [Bayaran QR DuitNow](/money-daily-life/duitnow-qr-payments)
 merangkumi cara transaksi sedemikian dan pertikaiannya berfungsi. Dan jika
 isu yang mendasarinya ialah sebuah bank yang enggan bertindak ke atas
 sesuatu transaksi yang dipertikaikan, [Membuka Akaun
-Bank](/ms/money-daily-life/opening-bank-account) menerangkan hubungan akaun
+Bank](/money-daily-life/opening-bank-account) menerangkan hubungan akaun
 yang berada di sebaliknya.

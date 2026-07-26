@@ -171,7 +171,7 @@ Kali ini kubu itu batu, bukan kayu — dan Portugis memerlukan empat percubaan s
 
 Selepas 1587, ibu negeri terus berpindah. Portal Kerajaan Negeri Johor mencatatkan ibu negeri Johor berpindah sebanyak 20 kali di sepanjang Sungai Johor sebelum akhirnya menetap di Kepulauan Riau. Dinasti keturunan Melaka itu memerintah sehingga tahun 1699, apabila pentadbiran negeri beralih kepada Dinasti Bendahara.
 
-Ertinya: garis keturunan istana [Kesultanan Melayu Melaka](/en/malaysia/melaka-sultanate) bertahan 188 tahun lagi selepas kota Melaka sendiri hilang.
+Ertinya: garis keturunan istana [Kesultanan Melayu Melaka](/malaysia/melaka-sultanate) bertahan 188 tahun lagi selepas kota Melaka sendiri hilang.
 
 ## Permulaan zaman Eropah di Nusantara
 
@@ -183,7 +183,7 @@ Tahun 1511 sering disebut sebagai permulaan penjajahan Eropah di rantau ini. Itu
 | 1641–1795 | Belanda | 154 tahun |
 | 1795 seterusnya | British | Perjanjian London 1824; Negeri-Negeri Selat 1826 |
 
-Yang bertukar tangan pada 1511 ialah sebuah bandar pelabuhan dan selat yang dikawalnya — bukan semenanjung. Kuasa-kuasa Eropah menghabiskan tiga abad berikutnya untuk meluaskan cengkaman itu, dan barisan tarikh di atas hanya berakhir dengan [kemerdekaan pada 1957](/en/malaysia/independence-1957).
+Yang bertukar tangan pada 1511 ialah sebuah bandar pelabuhan dan selat yang dikawalnya — bukan semenanjung. Kuasa-kuasa Eropah menghabiskan tiga abad berikutnya untuk meluaskan cengkaman itu, dan barisan tarikh di atas hanya berakhir dengan [kemerdekaan pada 1957](/malaysia/independence-1957).
 
 ## Kesilapan lazim
 
@@ -199,8 +199,8 @@ Yang bertukar tangan pada 1511 ialah sebuah bandar pelabuhan dan selat yang dika
 
 ## Apa seterusnya
 
-Kalau anda hendak memahami apa yang sebenarnya hilang pada Ogos 1511 — bahasa, undang-undang istana, struktur pemerintahan dan rangkaian perdagangan yang dibina selama 110 tahun — mulakan dengan [Kesultanan Melayu Melaka](/en/malaysia/melaka-sultanate).
+Kalau anda hendak memahami apa yang sebenarnya hilang pada Ogos 1511 — bahasa, undang-undang istana, struktur pemerintahan dan rangkaian perdagangan yang dibina selama 110 tahun — mulakan dengan [Kesultanan Melayu Melaka](/malaysia/melaka-sultanate).
 
-Kalau anda hendak melihat sejauh mana ke belakang sejarah bernegara di semenanjung ini sebenarnya menjangkau sebelum Melaka pun wujud, [Langkasuka](/en/malaysia/langkasuka) ialah titik permulaan yang berguna.
+Kalau anda hendak melihat sejauh mana ke belakang sejarah bernegara di semenanjung ini sebenarnya menjangkau sebelum Melaka pun wujud, [Langkasuka](/malaysia/langkasuka) ialah titik permulaan yang berguna.
 
 Artikel ini berstatus draf dan belum disemak oleh penyemak manusia. Setiap tarikh, ukuran dan tempoh di dalamnya berasal daripada portal rasmi Kerajaan Negeri Melaka, Arkib Negara Malaysia, atau portal rasmi Kerajaan Negeri Johor yang disenaraikan di bawah. Angka armada Portugis pada 1511 dan laluan perpindahan istana antara 1511 hingga 1528 sengaja tidak disiarkan kerana kami tidak dapat mengesahkannya pada sumber rasmi.

@@ -128,7 +128,7 @@ Malaysia.
 
 Langkah demi langkah yang lengkap — borang, tempoh notis, jalan pintas
 lesen khas, dan di mana solemnisasi boleh berlangsung — diliputi dalam
-[Mendaftar Perkahwinan Sivil di Malaysia](/ms/settling-in/registering-a-marriage-civil).
+[Mendaftar Perkahwinan Sivil di Malaysia](/settling-in/registering-a-marriage-civil).
 Artikel ini tidak mengulangi butiran tersebut.
 
 ## Laluan Muslim, secara garis besar
@@ -213,7 +213,7 @@ perkahwinan anda — ini bergantung semata-mata pada sama ada mana-mana
 pihak beragama Islam, bukan pilihan peribadi. Dari situ:
 
 - Pasangan bukan Muslim harus terus ke
-  [Mendaftar Perkahwinan Sivil di Malaysia](/ms/settling-in/registering-a-marriage-civil)
+  [Mendaftar Perkahwinan Sivil di Malaysia](/settling-in/registering-a-marriage-civil)
   untuk proses JPN secara penuh.
 - Pasangan Muslim, atau pasangan yang mana satu pihak sedang memeluk
   Islam, harus mengesahkan prosedur, borang, aturan kursus pra-perkahwinan

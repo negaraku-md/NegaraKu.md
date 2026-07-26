@@ -140,12 +140,12 @@ asalnya ditubuhkan sebagai agensi pusat JPM:
 - **Suruhanjaya Pilihan Raya** (Election Commission), ditubuhkan
   4 September 1957 di bawah Perkara 114 Perlembagaan Persekutuan. Hari ini
   ia beroperasi sebagai badan perlembagaan bebas — lihat
-  [SPR: Mandat dan Fungsinya](/ms/government/spr-election-commission).
+  [SPR: Mandat dan Fungsinya](/government/spr-election-commission).
 - **Istana Negara**, diletakkan di bawah jagaan JPM sejak 1957.
 - Pendahulu **Jabatan Perangkaan Malaysia**, yang mula beroperasi di bawah
   Akta Statistik 1965, menggantikan Bureau of Statistics yang terdahulu.
   Penerusnya masa kini dihuraikan dalam
-  [DOSM](/ms/government/dosm).
+  [DOSM](/government/dosm).
 - **Lembaga Kebangsaan Perancang Keluarga**, ditubuhkan pada 1966,
   kemudiannya dinamakan semula sebagai Lembaga Penduduk dan Pembangunan
   Keluarga Negara (LPPKN).
@@ -171,7 +171,7 @@ jabatan itu yang tepat tidak diterbitkan sebagai satu senarai stabil di
 portalnya, halaman ini tidak menamakan pemegang jawatan tertentu pada masa
 kini atau bilangan agensi semasa. Bagi peraturan perlembagaan tentang
 bagaimana Perdana Menteri dan Kabinet dilantik, lihat
-[Kabinet dan Perdana Menteri](/ms/government/kabinet-perdana-menteri).
+[Kabinet dan Perdana Menteri](/government/kabinet-perdana-menteri).
 
 ## Kesilapan lazim
 
@@ -192,14 +192,14 @@ itu — menjadikannya salah satu jabatan persekutuan tertua di Malaysia.
 
 ## Apa yang seterusnya
 
-- Baca [Kabinet dan Perdana Menteri](/ms/government/kabinet-perdana-menteri)
+- Baca [Kabinet dan Perdana Menteri](/government/kabinet-perdana-menteri)
   untuk peraturan perlembagaan tentang bagaimana Perdana Menteri dilantik
   dan bagaimana Kabinet dibentuk.
-- Baca [Yang di-Pertuan Agong](/ms/government/yang-di-pertuan-agong) untuk
+- Baca [Yang di-Pertuan Agong](/government/yang-di-pertuan-agong) untuk
   ketua negara yang kuasa eksekutifnya dinasihati oleh Kabinet.
-- Baca [DOSM](/ms/government/dosm) dan
-  [SPR: Mandat dan Fungsinya](/ms/government/spr-election-commission) untuk
+- Baca [DOSM](/government/dosm) dan
+  [SPR: Mandat dan Fungsinya](/government/spr-election-commission) untuk
   dua agensi yang berasal daripada JPM dan kini beroperasi secara bebas.
-- Baca [Tiga peringkat kerajaan Malaysia](/ms/government/three-tiers-of-government)
+- Baca [Tiga peringkat kerajaan Malaysia](/government/three-tiers-of-government)
   untuk melihat kedudukan kerajaan persekutuan, termasuk JPM, berbanding
   peringkat negeri dan tempatan.

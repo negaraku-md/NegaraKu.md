@@ -142,7 +142,7 @@ melalui penaturalisasian, atau melalui pendaftaran di bawah Perkara 17, tidak bo
 dilantik menjadi Perdana Menteri. Catatan rasmi pada cetakan semula merekodkan bahawa
 Perkara 17 itu sendiri telah dimansuhkan oleh Akta 14/1962 mulai 1 Julai 1963.
 
-Perkara 46(1) menetapkan [Dewan Rakyat](/en/government/dewan-rakyat) terdiri daripada
+Perkara 46(1) menetapkan [Dewan Rakyat](/government/dewan-rakyat) terdiri daripada
 dua ratus dua puluh dua orang ahli dipilih. Majoriti bagi sebuah dewan seramai 222 orang
 bermakna sekurang-kurangnya 112 orang ahli.
 
@@ -167,7 +167,7 @@ ahli mana-mana satu Majlis Parlimen.
 
 Perhatikan dua perbezaan daripada pelantikan Perdana Menteri. Pelantikan Menteri lain
 dibuat **atas nasihat**, bukan menurut budi bicara. Dan kolam calonnya lebih luas: ahli
-[Dewan Negara](/en/government/dewan-negara) juga layak.
+[Dewan Negara](/government/dewan-negara) juga layak.
 
 Perkara 43(2) mengandungi satu proviso bagi keadaan Parlimen terbubar. Jika sesuatu
 pelantikan dibuat semasa Parlimen terbubar, seseorang yang menjadi ahli Dewan Rakyat yang
@@ -195,7 +195,7 @@ Jemaah Menteri kepada kedudukan seorang Perdana Menteri — bukan kepada prestas
 individu Menteri.
 
 Perkara 38(3) menunjukkan tanggungjawab bersama itu daripada sudut yang berbeza. Apabila
-[Majlis Raja-Raja](/en/government/majlis-raja-raja) menimbang teliti perkara mengenai
+[Majlis Raja-Raja](/government/majlis-raja-raja) menimbang teliti perkara mengenai
 dasar negara, Yang di-Pertuan Agong hendaklah disertai oleh Perdana Menteri, dan
 penimbangtelitian itu adalah antara fungsi yang dijalankan oleh Yang di-Pertuan Agong
 mengikut nasihat Jemaah Menteri.
@@ -316,15 +316,15 @@ Ambang itu dikira daripada jumlah keahlian, bukan daripada bilangan yang hadir m
 
 ## Apa yang seterusnya
 
-- Baca [Perlembagaan Persekutuan](/en/law/federal-constitution) untuk struktur penuh
+- Baca [Perlembagaan Persekutuan](/law/federal-constitution) untuk struktur penuh
   dokumen yang mengandungi Perkara 39 hingga 43C.
-- Baca [Yang di-Pertuan Agong](/en/government/yang-di-pertuan-agong) untuk sisi satu lagi
+- Baca [Yang di-Pertuan Agong](/government/yang-di-pertuan-agong) untuk sisi satu lagi
   hubungan ini — fungsi mengikut nasihat berbanding fungsi budi bicara di bawah Perkara 40.
-- Baca [Dewan Rakyat](/en/government/dewan-rakyat) dan
-  [Dewan Negara](/en/government/dewan-negara) untuk memahami dua Majlis yang daripadanya
-  Jemaah Menteri dibentuk, dan [Parlimen Malaysia](/en/government/parliament) untuk
+- Baca [Dewan Rakyat](/government/dewan-rakyat) dan
+  [Dewan Negara](/government/dewan-negara) untuk memahami dua Majlis yang daripadanya
+  Jemaah Menteri dibentuk, dan [Parlimen Malaysia](/government/parliament) untuk
   institusi yang kepadanya Jemaah Menteri bertanggungjawab secara bersama.
-- Baca [bagaimana rang undang-undang menjadi undang-undang](/en/law/how-a-bill-becomes-law)
+- Baca [bagaimana rang undang-undang menjadi undang-undang](/law/how-a-bill-becomes-law)
   untuk laluan perundangan yang dipandu oleh eksekutif melalui kedua-dua Majlis.
 - Untuk teks berkuat kuasa, rujuk cetakan semula Perlembagaan Persekutuan di portal
   Laws of Malaysia, `lom.agc.gov.my`. Perhatikan nota pada muka hadapan cetakan semula

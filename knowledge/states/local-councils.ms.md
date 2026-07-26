@@ -126,7 +126,7 @@ dan Perlembagaan memperuntukkan bahawa "Kerajaan Persekutuan dan Kerajaan Negeri
 mematuhi dasar yang dirumuskan itu". Inilah sebabnya majlis-majlis di seluruh Semenanjung
 beroperasi mengikut satu model yang secara meluasnya seragam dan bukannya sebelas model yang
 berbeza. Untuk corak yang lebih luas mengenai siapa menggubal undang-undang tentang apa,
-lihat [pembahagian kuasa persekutuan–negeri](/ms/government/federal-state-division).
+lihat [pembahagian kuasa persekutuan–negeri](/government/federal-state-division).
 
 ## Tiga gred majlis
 
@@ -182,10 +182,10 @@ Ciri-ciri lain jawatan itu mengikut model perlantikan yang sama:
 Perkara 4 Senarai Negeri mengecualikan Kuala Lumpur, Putrajaya dan Labuan, dan Akta 171 tidak
 mewujudkan majlis biasa di sana. Setiap Wilayah Persekutuan mempunyai susunannya sendiri:
 
-- **[Kuala Lumpur](/ms/states/kuala-lumpur)** ditadbir oleh Dewan Bandaraya Kuala Lumpur
+- **[Kuala Lumpur](/states/kuala-lumpur)** ditadbir oleh Dewan Bandaraya Kuala Lumpur
   (DBKL) di bawah Akta Ibu Negara Persekutuan 1960 [Akta 190], diketuai oleh seorang Datuk
   Bandar yang dilantik oleh persekutuan.
-- **[Putrajaya](/ms/states/putrajaya)** ditadbir oleh Perbadanan Putrajaya.
+- **[Putrajaya](/states/putrajaya)** ditadbir oleh Perbadanan Putrajaya.
 - **Labuan** ditadbir oleh Perbadanan Labuan.
 
 Dalam setiap kes, fungsi pihak berkuasa tempatan dijalankan oleh sebuah badan yang dilantik
@@ -244,8 +244,8 @@ mengenai perdebatan itu.
 ## Apa yang seterusnya
 
 Untuk melihat bagaimana peringkat tempatan sesuai di bawah kerajaan negeri dan persekutuan,
-baca [pembahagian kuasa persekutuan–negeri](/ms/government/federal-state-division) dan
-[Perlembagaan Persekutuan](/ms/law/federal-constitution), tempat Senarai Negeri dan Perkara
+baca [pembahagian kuasa persekutuan–negeri](/government/federal-state-division) dan
+[Perlembagaan Persekutuan](/law/federal-constitution), tempat Senarai Negeri dan Perkara
 95A berada. Untuk mengetahui bagaimana kedua-dua Wilayah Persekutuan menjalankan pentadbiran
-tempatan mereka sendiri di luar sistem ini, lihat [Kuala Lumpur](/ms/states/kuala-lumpur) dan
-[Putrajaya](/ms/states/putrajaya).
+tempatan mereka sendiri di luar sistem ini, lihat [Kuala Lumpur](/states/kuala-lumpur) dan
+[Putrajaya](/states/putrajaya).

@@ -79,8 +79,8 @@ bernombor serta ditandakan dengan pen dan dakwat yang sama, kemudian
 dimasukkan ke dalam peti undi.
 
 Rangka kerja itu terkandung dalam Perkara 32 dan Jadual Ketiga
-[Perlembagaan Persekutuan](/en/law/federal-constitution) — dan ia telah
-berjalan tanpa putus sejak [Merdeka 1957](/en/malaysia/independence-1957).
+[Perlembagaan Persekutuan](/law/federal-constitution) — dan ia telah
+berjalan tanpa putus sejak [Merdeka 1957](/malaysia/independence-1957).
 
 ## Sekilas pandang
 
@@ -162,7 +162,7 @@ Portal rasmi Majlis Raja-Raja memperincikan tatacara mesyuarat itu:
 
 Apabila tawaran diterima, seksyen 3 menghendaki Majlis mengisytiharkan Raja itu
 sebagai dipilih, dan Penyimpan Mohor Besar Raja-Raja memberitahukan keputusan
-itu secara bertulis kepada kedua-dua Majlis [Parlimen](/en/government/parliament).
+itu secara bertulis kepada kedua-dua Majlis [Parlimen](/government/parliament).
 
 Sebelum menjalankan fungsinya, Perkara 37(1) menghendaki Yang di-Pertuan Agong
 mengangkat dan menandatangani sumpah jawatan dalam Bahagian I Jadual Keempat, di
@@ -259,7 +259,7 @@ dan pengulangannya dalam pusingan kedua:
 | 14 | Kedah | 13 Disember 2011 – 12 Disember 2016 |
 | 15 | Kelantan | 13 Disember 2016 – 6 Januari 2019 |
 | 16 | Pahang | 31 Januari 2019 – 30 Januari 2024 |
-| 17 | [Johor](/en/states/johor) | 31 Januari 2024 – kini |
+| 17 | [Johor](/states/johor) | 31 Januari 2024 – kini |
 
 Sembilan pemilihan pertama melengkapkan satu pusingan penuh kesembilan-sembilan
 negeri. Pemilihan kesepuluh dan seterusnya mengikut senarai yang disusun semula
@@ -311,11 +311,11 @@ tetap menjadi undang-undang seolah-olah ia telah diperkenankan.
 ## Apa seterusnya
 
 Untuk memahami kedudukan jawatan ini dalam struktur negara, baca
-[Perlembagaan Persekutuan](/en/law/federal-constitution) dan
-[Parlimen Malaysia](/en/government/parliament). Untuk latar sejarah bagaimana
+[Perlembagaan Persekutuan](/law/federal-constitution) dan
+[Parlimen Malaysia](/government/parliament). Untuk latar sejarah bagaimana
 persekutuan sembilan buah Negeri Melayu itu terbentuk dan kemudiannya
-diperluas, lihat [Kemerdekaan 1957](/en/malaysia/independence-1957) dan
-[Pembentukan Malaysia 1963](/en/malaysia/formation-of-malaysia-1963).
+diperluas, lihat [Kemerdekaan 1957](/malaysia/independence-1957) dan
+[Pembentukan Malaysia 1963](/malaysia/formation-of-malaysia-1963).
 
 Teks berkuat kuasa bagi setiap petikan dalam halaman ini ialah Perlembagaan
 Persekutuan sendiri, yang diterbitkan oleh Jabatan Peguam Negara; tatacara

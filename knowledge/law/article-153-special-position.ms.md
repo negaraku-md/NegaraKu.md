@@ -142,7 +142,7 @@ Secara berasingan, dalam ulasan undang-undang yang disiarkan semula oleh Malaysi
 
 ## Apa yang seterusnya
 
-Untuk dokumen yang menempatkan Perkara 153, lihat [Perlembagaan Persekutuan](/ms/law/federal-constitution). Untuk peruntukan kebebasan asasi yang beroperasi bersamanya — termasuk Perkara 8 mengenai kesamarataan dan Perkara 10 mengenai kebebasan bersuara — lihat [Kebebasan Asasi](/ms/law/fundamental-liberties). Untuk bagaimana perizaban permit perdagangan dan perniagaan berinteraksi dengan peraturan pemilikan syarikat, lihat [Bumiputera Equity Requirements](/ms/business/bumiputera-equity-requirements). Untuk institusi yang persetujuannya dikehendaki oleh Perkara 159(5) bagi meminda Perkara ini, lihat [Majlis Raja-Raja](/ms/government/majlis-raja-raja). Untuk bagaimana kedudukan perlembagaan Sabah dan Sarawak secara lebih luas diperdebatkan, lihat [MA63](/ms/malaysia/ma63).
+Untuk dokumen yang menempatkan Perkara 153, lihat [Perlembagaan Persekutuan](/law/federal-constitution). Untuk peruntukan kebebasan asasi yang beroperasi bersamanya — termasuk Perkara 8 mengenai kesamarataan dan Perkara 10 mengenai kebebasan bersuara — lihat [Kebebasan Asasi](/law/fundamental-liberties). Untuk bagaimana perizaban permit perdagangan dan perniagaan berinteraksi dengan peraturan pemilikan syarikat, lihat [Bumiputera Equity Requirements](/business/bumiputera-equity-requirements). Untuk institusi yang persetujuannya dikehendaki oleh Perkara 159(5) bagi meminda Perkara ini, lihat [Majlis Raja-Raja](/government/majlis-raja-raja). Untuk bagaimana kedudukan perlembagaan Sabah dan Sarawak secara lebih luas diperdebatkan, lihat [MA63](/malaysia/ma63).
 
 ---
 

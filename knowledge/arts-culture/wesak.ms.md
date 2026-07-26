@@ -124,4 +124,4 @@ Acara awam yang paling terkenal ialah **perarakan Wesak di Kuala Lumpur**, yang 
 
 ## Apa yang seterusnya
 
-Wesak berada dalam susunan agama Malaysia yang lebih luas — untuk mengetahui berapa ramai rakyat Malaysia yang mengenali diri sebagai Buddha dan bagaimana ia tertakluk merentasi negeri, lihat [statistik agama](/ms/malaysia/religion-statistics). Untuk kerangka perlembagaan agama di Malaysia, termasuk jaminan bahawa agama selain Islam boleh diamalkan, lihat [Perkara 3 dan Perkara 11](/ms/law/article-3-religion). Dan bagi bandar tempat perarakan Wesak terbesar diadakan, lihat [Kuala Lumpur](/ms/states/kuala-lumpur).
+Wesak berada dalam susunan agama Malaysia yang lebih luas — untuk mengetahui berapa ramai rakyat Malaysia yang mengenali diri sebagai Buddha dan bagaimana ia tertakluk merentasi negeri, lihat [statistik agama](/malaysia/religion-statistics). Untuk kerangka perlembagaan agama di Malaysia, termasuk jaminan bahawa agama selain Islam boleh diamalkan, lihat [Perkara 3 dan Perkara 11](/law/article-3-religion). Dan bagi bandar tempat perarakan Wesak terbesar diadakan, lihat [Kuala Lumpur](/states/kuala-lumpur).

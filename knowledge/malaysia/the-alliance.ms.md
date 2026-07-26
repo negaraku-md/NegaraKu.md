@@ -135,9 +135,9 @@ Perikatan terus menjadi gabungan pemerintah selepas 1957. Ia kemudiannya disusun
 
 ## Apa yang seterusnya
 
-- [Merdeka: Bagaimana 31 Ogos 1957 Sebenarnya Berlaku](/ms/malaysia/independence-1957) — rundingan, Suruhanjaya Reid dan upacara kemerdekaan secara berurutan.
-- [Malayan Union](/ms/malaysia/malayan-union) — rangka kerja perlembagaan lebih awal yang pertikaiannya mengenai Raja-Raja dan kewarganegaraan berlanjutan hingga ke penyelesaian kemerdekaan.
-- [Darurat Malaya](/ms/malaysia/the-emergency) — latar belakang keselamatan di mana rundingan kemerdekaan berlangsung.
+- [Merdeka: Bagaimana 31 Ogos 1957 Sebenarnya Berlaku](/malaysia/independence-1957) — rundingan, Suruhanjaya Reid dan upacara kemerdekaan secara berurutan.
+- [Malayan Union](/malaysia/malayan-union) — rangka kerja perlembagaan lebih awal yang pertikaiannya mengenai Raja-Raja dan kewarganegaraan berlanjutan hingga ke penyelesaian kemerdekaan.
+- [Darurat Malaya](/malaysia/the-emergency) — latar belakang keselamatan di mana rundingan kemerdekaan berlangsung.
 
 ---
 

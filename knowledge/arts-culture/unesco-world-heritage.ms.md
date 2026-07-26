@@ -113,13 +113,13 @@ Sesebuah harta memerlukan sekurang-kurangnya satu. Kriteria mana yang diperolehi
 
 ## Dua taman Borneo disenaraikan atas sebab yang bertentangan
 
-Gunung Mulu, di [Sarawak](/ms/states/sarawak), memegang keempat-empat kriteria semula jadi — satu pencapaian yang jarang berlaku. Di bawah (vii) UNESCO memetik Dewan Sarawak (Sarawak Chamber), sepanjang 600 m, selebar 415 m dan setinggi 80 m, dewan gua terbesar yang diketahui di bumi. Di bawah (viii) ia memetik Batu Kapur Melinau (Melinau Limestone) dan aras-aras gua yang terangkat yang merekodkan sejarah tektonik Borneo. Di bawah (ix) dan (x): tujuh belas zon tumbuhan, kira-kira 3,500 spesies tumbuhan vaskular, dan 109 spesies palma dalam dua puluh genus.
+Gunung Mulu, di [Sarawak](/states/sarawak), memegang keempat-empat kriteria semula jadi — satu pencapaian yang jarang berlaku. Di bawah (vii) UNESCO memetik Dewan Sarawak (Sarawak Chamber), sepanjang 600 m, selebar 415 m dan setinggi 80 m, dewan gua terbesar yang diketahui di bumi. Di bawah (viii) ia memetik Batu Kapur Melinau (Melinau Limestone) dan aras-aras gua yang terangkat yang merekodkan sejarah tektonik Borneo. Di bawah (ix) dan (x): tujuh belas zon tumbuhan, kira-kira 3,500 spesies tumbuhan vaskular, dan 109 spesies palma dalam dua puluh genus.
 
 Taman Kinabalu hanya memperoleh (ix) dan (x). Gunung Kinabalu setinggi 4,095 m ialah gunung tertinggi antara Himalaya dan New Guinea, dan ia kelihatan sedemikian — tetapi UNESCO tidak menyenaraikannya kerana keindahannya. Kesnya bergantung kepada proses evolusi: kecerunan ketinggian yang melampau, tanah ultramafik, keterpencilan geografi dalam jarak yang singkat, dan anggaran 5,000 hingga 6,000 spesies tumbuhan vaskular termasuk kira-kira 1,000 spesies orkid.
 
 ## Keempat-empat harta budaya itu tiga hujah yang berbeza
 
-**Melaka dan George Town** adalah satu harta, bukan dua. Kriteria (ii) merangkumi pertukaran antara kaum Melayu, Cina, India dan tiga kehadiran kolonial Eropah yang berturut-turut sepanjang lebih 500 tahun; (iii) tradisi kepelbagaian budaya yang masih hidup; (iv) rumah kedai dan rumah bandar sebagai satu jenis bangunan. Baca [Pulau Pinang](/ms/states/penang) dan [Kesultanan Melaka](/ms/malaysia/melaka-sultanate) untuk sejarah di sebalik itu.
+**Melaka dan George Town** adalah satu harta, bukan dua. Kriteria (ii) merangkumi pertukaran antara kaum Melayu, Cina, India dan tiga kehadiran kolonial Eropah yang berturut-turut sepanjang lebih 500 tahun; (iii) tradisi kepelbagaian budaya yang masih hidup; (iv) rumah kedai dan rumah bandar sebagai satu jenis bangunan. Baca [Pulau Pinang](/states/penang) dan [Kesultanan Melaka](/malaysia/melaka-sultanate) untuk sejarah di sebalik itu.
 
 **Lembah Lenggong** bergantung kepada kedalaman masa: (iii) untuk rekod penghunian yang merentasi 1.83 juta tahun, melalui zaman Paleolitik, Neolitik dan Logam, dan (iv) untuk bengkel alat batu Paleolitik yang tidak terganggu di tebing sebuah paleolake (tasik purba). Perak Man, rangka prasejarah yang hampir lengkap dari Gua Gunung Runtuh, ditemui daripada turutan itu.
 
@@ -132,7 +132,7 @@ Taman Kinabalu hanya memperoleh (ix) dan (x). Gunung Kinabalu setinggi 4,095 m i
 - Menganggap Melaka dan George Town sebagai dua tapak. Satu penyenaraian bersiri, kemudian diberikan satu pengubahsuaian sempadan kecil.
 - Menganggap FRIM sebagai tapak semula jadi. Ia adalah budaya — hutan itu adalah artifaknya.
 - Menganggap Kinabalu disenaraikan kerana pemandangannya. Kriteria (vii) tidak digunakan.
-- Mengelirukan Senarai Warisan Dunia dengan senarai Warisan Budaya Tidak Ketara, yang merupakan konvensyen berasingan — lihat [batik](/ms/arts-culture/batik).
+- Mengelirukan Senarai Warisan Dunia dengan senarai Warisan Budaya Tidak Ketara, yang merupakan konvensyen berasingan — lihat [batik](/arts-culture/batik).
 
 ## Apa yang seterusnya
 

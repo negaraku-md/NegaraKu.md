@@ -98,4 +98,4 @@ Kecerunan altitud di dalam taman ini — daripada hutan hujan tanah pamah, melal
 
 ## Apa yang seterusnya
 
-Gunung Kinabalu terletak di dalam Sabah, negeri yang menyertai persekutuan di bawah Perjanjian Malaysia 1963 — lihat [Sabah: Negeri di Bawah Bayu dan Terma Persekutuannya](/ms/states/sabah) untuk memahami bagaimana hubungan persekutuan negeri ini berfungsi, dan [Perjanjian Malaysia 1963](/ms/malaysia/ma63) untuk perjanjian di sebalik itu.
+Gunung Kinabalu terletak di dalam Sabah, negeri yang menyertai persekutuan di bawah Perjanjian Malaysia 1963 — lihat [Sabah: Negeri di Bawah Bayu dan Terma Persekutuannya](/states/sabah) untuk memahami bagaimana hubungan persekutuan negeri ini berfungsi, dan [Perjanjian Malaysia 1963](/malaysia/ma63) untuk perjanjian di sebalik itu.

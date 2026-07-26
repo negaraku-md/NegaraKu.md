@@ -126,7 +126,7 @@ Pengecualian tunggal itulah yang menolak pertuduhan paling serius ke peringkat s
 
 Perkara 121(1) Perlembagaan Persekutuan memperuntukkan bahawa hendaklah ada dua Mahkamah Tinggi yang "mempunyai bidang kuasa dan taraf yang setara": Mahkamah Tinggi di Malaya, bagi Negeri-Negeri Malaya, dan Mahkamah Tinggi di Sabah dan Sarawak, bagi kedua-dua Negeri tersebut. Setiap satu mempunyai pendaftaran utamanya di suatu tempat yang ditentukan oleh Yang di-Pertuan Agong, dan setiap satu diketuai oleh seorang Ketua Hakim.
 
-Setara (co-ordinate) bermaksud tiada satu pun yang lebih tinggi daripada yang lain. Kedua-duanya adalah dua separuh bagi satu peringkat yang sama, dibahagikan secara geografi — satu struktur yang bermula sejak [pembentukan Malaysia pada tahun 1963](/ms/malaysia/formation-of-malaysia-1963).
+Setara (co-ordinate) bermaksud tiada satu pun yang lebih tinggi daripada yang lain. Kedua-duanya adalah dua separuh bagi satu peringkat yang sama, dibahagikan secara geografi — satu struktur yang bermula sejak [pembentukan Malaysia pada tahun 1963](/malaysia/formation-of-malaysia-1963).
 
 Mahkamah Tinggi menjalankan tiga tugas yang berbeza.
 
@@ -217,6 +217,6 @@ Perkara 122(1A) juga membenarkan Yang di-Pertuan Agong, atas nasihat Ketua Hakim
 
 ## Apa yang seterusnya
 
-Jika anda ingin mengetahui rangka perlembagaan yang menaungi semua ini — Bahagian IX ialah salah satu daripada lima belas Bahagian — mulakan dengan [Perlembagaan Persekutuan](/ms/law/federal-constitution). Bagi cabang yang menggubal undang-undang yang digunakan oleh mahkamah-mahkamah ini, lihat [Parlimen](/ms/government/parliament).
+Jika anda ingin mengetahui rangka perlembagaan yang menaungi semua ini — Bahagian IX ialah salah satu daripada lima belas Bahagian — mulakan dengan [Perlembagaan Persekutuan](/law/federal-constitution). Bagi cabang yang menggubal undang-undang yang digunakan oleh mahkamah-mahkamah ini, lihat [Parlimen](/government/parliament).
 
 Ketiga-tiga nota pengesahan dalam frontmatter artikel ini menandakan angka yang diambil daripada portal terbitan Badan Kehakiman atau daripada cetakan semula sesuatu Akta, bukan daripada teks yang digazetkan semasa; anggap angka-angka khusus tersebut sebagai sementara sehingga seorang penyemak mengesahkannya terhadap Akta itu sendiri.

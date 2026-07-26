@@ -88,4 +88,4 @@ transport — which is why the term appears so often in Malaysian business news.
 
 ## Related terms
 
-- [Sdn Bhd](/glossary/sdn-bhd)
+- [Sdn Bhd](/en/glossary/sdn-bhd)

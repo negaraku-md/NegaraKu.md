@@ -197,9 +197,9 @@ pengeksport kecil, bukan hanya yang sudah mantap.
 
 | Topik | Artikel |
 | --- | --- |
-| Rakan sepadan promosi pelaburan yang menghadap pelabur masuk | [MIDA — Lembaga Pembangunan Pelaburan Malaysia](/ms/government/mida) |
-| Kementerian yang menaungi kedua-dua agensi | [MITI — Kementerian Pelaburan, Perdagangan dan Perindustrian](/ms/government/miti) |
-| Agensi mana yang perlu dihubungi, dalam susunan yang mana | [Direktori agensi pelaburan](/ms/business/investment-agency-directory) |
+| Rakan sepadan promosi pelaburan yang menghadap pelabur masuk | [MIDA — Lembaga Pembangunan Pelaburan Malaysia](/government/mida) |
+| Kementerian yang menaungi kedua-dua agensi | [MITI — Kementerian Pelaburan, Perdagangan dan Perindustrian](/government/miti) |
+| Agensi mana yang perlu dihubungi, dalam susunan yang mana | [Direktori agensi pelaburan](/business/investment-agency-directory) |
 
 ## Apa yang seterusnya
 
@@ -207,5 +207,5 @@ Jika soalan anda mengenai penjualan produk atau perkhidmatan Malaysia di
 luar negara — pameran perdagangan, misi, risikan pasaran, atau geran
 untuk kos promosi — MATRADE ialah agensinya. Jika ia mengenai membawa
 pelaburan atau kilang masuk ke Malaysia, mulakan sebaliknya dengan
-[MIDA](/ms/government/mida); jika ia soalan dasar atau perjanjian
-perdagangan bebas, itu terletak pada [MITI](/ms/government/miti).
+[MIDA](/government/mida); jika ia soalan dasar atau perjanjian
+perdagangan bebas, itu terletak pada [MITI](/government/miti).

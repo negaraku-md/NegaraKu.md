@@ -145,7 +145,7 @@ Gawai Dayak **diwartakan sebagai cuti umum pada 25 September 1964**, dan disambu
 
 **"Dayak ialah satu kumpulan etnik."** Ia adalah istilah kolektif. Kaum Iban, Bidayuh dan pelbagai komuniti Orang Ulu adalah kaum yang berasingan dengan bahasa dan adat resam masing-masing, yang berkongsi perayaan ini.
 
-**"Gawai sama seperti Kaamatan."** Kedua-duanya perayaan menuai, tetapi ia berasingan. Gawai Dayak milik kaum Dayak di Sarawak dan jatuh pada 1 dan 2 Jun; [Kaamatan](/ms/arts-culture/kaamatan) milik kaum Kadazandusun dan komuniti lain di Sabah dan jatuh pada 30 dan 31 Mei.
+**"Gawai sama seperti Kaamatan."** Kedua-duanya perayaan menuai, tetapi ia berasingan. Gawai Dayak milik kaum Dayak di Sarawak dan jatuh pada 1 dan 2 Jun; [Kaamatan](/arts-culture/kaamatan) milik kaum Kadazandusun dan komuniti lain di Sabah dan jatuh pada 30 dan 31 Mei.
 
 **"Majlisnya diadakan pada 1 Jun."** Susunan ritual utama bermula pada *petang 31 Mei*, dan musim itu tidak ditutup secara rasmi sehingga upacara *ngiling tikai* pada penghujung Jun.
 
@@ -153,8 +153,8 @@ Gawai Dayak **diwartakan sebagai cuti umum pada 25 September 1964**, dan disambu
 
 ## Apa yang seterusnya
 
-- Baca [Kaamatan](/ms/arts-culture/kaamatan) untuk perayaan menuai Sabah, legenda roh padinya dan pertandingan ratu cantik Unduk Ngadau — perayaan paling hampir dengan Gawai di seberang Laut China Selatan.
-- Lihat [Sarawak](/ms/states/sarawak) bagi negeri yang menjadikan Gawai Dayak sebagai cuti umum, serta kaum yang merayakannya.
+- Baca [Kaamatan](/arts-culture/kaamatan) untuk perayaan menuai Sabah, legenda roh padinya dan pertandingan ratu cantik Unduk Ngadau — perayaan paling hampir dengan Gawai di seberang Laut China Selatan.
+- Lihat [Sarawak](/states/sarawak) bagi negeri yang menjadikan Gawai Dayak sebagai cuti umum, serta kaum yang merayakannya.
 - Rujuk rekod Sarawak Tourism Board dan Tourism Malaysia untuk penjelasan rasmi mengenai susunan acara dan adat perayaan ini.
 
 ---

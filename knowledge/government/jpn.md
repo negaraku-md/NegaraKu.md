@@ -194,15 +194,15 @@ Sabah atau Sarawak — bukan tempat pemohon tinggal sekarang.
 
 | Topik | Artikel |
 | --- | --- |
-| Peruntukan kewarganegaraan (Bahagian III) | [Perlembagaan Persekutuan](/en/law/federal-constitution) |
-| Permit Masuk dan urusan pemastautin tetap | [Jabatan Imigresen Malaysia](/en/government/imigresen) |
-| Nombor cukai dan pendaftaran pembayar cukai | [LHDN](/en/government/lhdn) |
-| Pendaftaran entiti perniagaan | [SSM](/en/government/ssm) |
+| Peruntukan kewarganegaraan (Bahagian III) | [Perlembagaan Persekutuan](/law/federal-constitution) |
+| Permit Masuk dan urusan pemastautin tetap | [Jabatan Imigresen Malaysia](/government/imigresen) |
+| Nombor cukai dan pendaftaran pembayar cukai | [LHDN](/government/lhdn) |
+| Pendaftaran entiti perniagaan | [SSM](/government/ssm) |
 
 ## Apa yang seterusnya
 
 Sahkan borang dan senarai dokumen di `jpn.gov.my` mengikut wilayah sebelum ke
 kaunter, kerana keperluan Semenanjung, Sabah dan Sarawak berbeza. Untuk urusan
 kewarganegaraan, mulakan dengan peruntukan Bahagian III [Perlembagaan
-Persekutuan](/en/law/federal-constitution) yang berkenaan sebelum memilih
+Persekutuan](/law/federal-constitution) yang berkenaan sebelum memilih
 borang permohonan.

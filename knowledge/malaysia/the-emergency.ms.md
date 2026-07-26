@@ -146,7 +146,7 @@ Rundingan turut dicuba. Tunku Abdul Rahman bertemu wakil Parti Komunis Malaya di
 
 Satu pemudahan sejarah yang lazim menggambarkan kemerdekaan sebagai ganjaran kerana berjaya menewaskan Darurat. Rekod sebenarnya lebih ringkas dan lebih pelik: kedua-duanya berjalan selari.
 
-[Kemerdekaan Persekutuan Tanah Melayu pada 31 Ogos 1957](/ms/malaysia/independence-1957) berlaku ketika Darurat masih berkuat kuasa. Keadaan darurat itu kemudian berterusan hampir tiga tahun lagi, kini ditadbir oleh kerajaan Tanah Melayu yang merdeka dan bukannya kerajaan kolonial. Enam tahun kemudian, persekutuan yang lebih luas ditubuhkan menerusi [penubuhan Malaysia pada 1963](/ms/malaysia/formation-of-malaysia-1963).
+[Kemerdekaan Persekutuan Tanah Melayu pada 31 Ogos 1957](/malaysia/independence-1957) berlaku ketika Darurat masih berkuat kuasa. Keadaan darurat itu kemudian berterusan hampir tiga tahun lagi, kini ditadbir oleh kerajaan Tanah Melayu yang merdeka dan bukannya kerajaan kolonial. Enam tahun kemudian, persekutuan yang lebih luas ditubuhkan menerusi [penubuhan Malaysia pada 1963](/malaysia/formation-of-malaysia-1963).
 
 ## Bagaimana ia berakhir, dan apa yang berlaku seterusnya
 
@@ -177,7 +177,7 @@ Konflik itu sendiri berakhir pada 2 Disember 1989, apabila Parti Komunis Malaya 
 
 ## Apa yang seterusnya
 
-Jika anda ingin memahami landasan politik yang berjalan pada masa yang sama, mulakan dengan [Merdeka pada 1957](/ms/malaysia/independence-1957) dan kemudian [penubuhan Malaysia pada 1963](/ms/malaysia/formation-of-malaysia-1963).
+Jika anda ingin memahami landasan politik yang berjalan pada masa yang sama, mulakan dengan [Merdeka pada 1957](/malaysia/independence-1957) dan kemudian [penubuhan Malaysia pada 1963](/malaysia/formation-of-malaysia-1963).
 
 Jika anda ingin memahami landasan undang-undang, benangnya bermula daripada peraturan darurat 1948, melalui Internal Security Act 1960 yang menggantikannya, hingga pemansuhannya pada 2012 — satu kesinambungan enam puluh empat tahun yang lebih mudah dilihat sebaik sahaja anda mengetahui titik permulaannya.
 

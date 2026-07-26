@@ -213,19 +213,19 @@ Kedua-dua SPA dan JPA mempunyai akar sejarah sebagai agensi pusat yang
 berkaitan dengan Jabatan Perdana Menteri, dan rombakan Kabinet secara berkala
 menukar menteri mana yang menyelia agensi pusat mana. Halaman ini sengaja
 tidak menamakan sesuatu kementerian lapor semasa bagi mana-mana badan — lihat
-[Jabatan Perdana Menteri](/ms/government/prime-ministers-department) untuk
+[Jabatan Perdana Menteri](/government/prime-ministers-department) untuk
 sebab ia berubah dari semasa ke semasa.
 
 ## Di mana konteks berkaitan berada
 
 | Topik | Artikel |
 | --- | --- |
-| Teks perlembagaan yang menjadi asas Perkara 144 | [Perlembagaan Persekutuan](/ms/law/federal-constitution) |
-| Jabatan yang menjadi asal sejarah kedua-dua badan | [Jabatan Perdana Menteri](/ms/government/prime-ministers-department) |
-| Bagaimana Perdana Menteri dan Kabinet dilantik | [Kabinet dan Perdana Menteri](/ms/government/kabinet-perdana-menteri) |
-| Kerajaan persekutuan, negeri dan tempatan secara amnya | [Tiga peringkat kerajaan Malaysia](/ms/government/three-tiers-of-government) |
-| Satu lagi jawatan perlembagaan dengan perlindungan tempoh perkhidmatan | [Ketua Audit Negara](/ms/government/auditor-general) |
-| Pegawai undang-undang utama kerajaan | [Peguam Negara](/ms/government/attorney-general) |
+| Teks perlembagaan yang menjadi asas Perkara 144 | [Perlembagaan Persekutuan](/law/federal-constitution) |
+| Jabatan yang menjadi asal sejarah kedua-dua badan | [Jabatan Perdana Menteri](/government/prime-ministers-department) |
+| Bagaimana Perdana Menteri dan Kabinet dilantik | [Kabinet dan Perdana Menteri](/government/kabinet-perdana-menteri) |
+| Kerajaan persekutuan, negeri dan tempatan secara amnya | [Tiga peringkat kerajaan Malaysia](/government/three-tiers-of-government) |
+| Satu lagi jawatan perlembagaan dengan perlindungan tempoh perkhidmatan | [Ketua Audit Negara](/government/auditor-general) |
+| Pegawai undang-undang utama kerajaan | [Peguam Negara](/government/attorney-general) |
 
 ## Apa yang seterusnya
 
@@ -235,4 +235,4 @@ terletak pada SPA. Jika soalan anda mengenai bagaimana sesuatu jawatan
 digredkan, berapa gajinya, laluan latihan apa yang diikutinya, atau dasar
 pencen, itu terletak pada JPA. Bagi jentera perlembagaan yang menjadi tempat
 kedua-dua badan ini beroperasi, baca [Jabatan Perdana
-Menteri](/ms/government/prime-ministers-department) seterusnya.
+Menteri](/government/prime-ministers-department) seterusnya.

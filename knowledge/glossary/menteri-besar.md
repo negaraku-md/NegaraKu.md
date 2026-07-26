@@ -110,7 +110,7 @@ Perkara 1(2) sebagaimana yang terdapat pada Hari Merdeka menyenaraikan Johor, Ke
 
 Sabah dan Sarawak menyertai Persekutuan kemudian, dan juga tidak mempunyai Raja. Perkara 1(2) yang berkuat kuasa hari ini menyenaraikan kesemua 13 negeri dalam satu senarai tunggal mengikut abjad — tetapi pembahagian struktur itu kekal dalam Jadual Kelapan.
 
-Baca lebih lanjut dalam [Perlembagaan Persekutuan](/en/law/federal-constitution) dan [Pembentukan Malaysia 1963](/en/malaysia/formation-of-malaysia-1963).
+Baca lebih lanjut dalam [Perlembagaan Persekutuan](/law/federal-constitution) dan [Pembentukan Malaysia 1963](/malaysia/formation-of-malaysia-1963).
 
 ## Proses pelantikan di negeri beraja
 
@@ -158,7 +158,7 @@ Dewan Undangan Negeri Sarawak meluluskan beberapa pindaan kepada Perlembagaan Ne
 
 Pindaan itu tidak memerlukan pindaan Perlembagaan Persekutuan, kerana takrif dalam Perkara 160(2) sudah pun merangkumi yang dipertua Majlis Mesyuarat Kerajaan "tidak kira dengan gelaran apa jua dia dikenali". Peruntukan Perlembagaan Persekutuan yang menyebut "Ketua Menteri" — termasuk seksyen 19a mengenai perundingan sebelum pelantikan Yang di-Pertua Negeri — terus terpakai kepada pemegang jawatan itu.
 
-Latar negeri: [Sarawak](/en/states/sarawak).
+Latar negeri: [Sarawak](/states/sarawak).
 
 ## Pengecualian Perlis dalam teks Perlembagaan
 
@@ -174,16 +174,16 @@ Perbezaan itu bukan kosmetik. Seksyen 20 Bahagian II — versi gantian bagi seks
 
 **"Yang di-Pertua Negeri ialah jawatan seumur hidup seperti Raja."** Tidak. Seksyen 19a(2) menetapkan tempoh empat tahun, boleh diperbaharui melalui pelantikan semula oleh Yang di-Pertuan Agong.
 
-**"Ketua Menteri Wilayah Persekutuan."** Tiada jawatan sedemikian. Kuala Lumpur, Labuan dan Putrajaya ialah Wilayah Persekutuan, bukan negeri, dan tidak mempunyai Dewan Undangan Negeri. Lihat [Wilayah Persekutuan](/en/glossary/wilayah-persekutuan).
+**"Ketua Menteri Wilayah Persekutuan."** Tiada jawatan sedemikian. Kuala Lumpur, Labuan dan Putrajaya ialah Wilayah Persekutuan, bukan negeri, dan tidak mempunyai Dewan Undangan Negeri. Lihat [Wilayah Persekutuan](/glossary/wilayah-persekutuan).
 
 **"Perlembagaan negeri boleh dipinda sesuka hati."** Perkara 71(4) memperuntukkan bahawa jika Perlembagaan sesuatu Negeri tidak mengandungi peruntukan perlu dalam Bahagian I Jadual Kelapan, atau mengandungi peruntukan yang tidak selaras dengannya, Parlimen boleh melalui undang-undang membuat peruntukan bagi menguatkuasakan peruntukan perlu itu di dalam Negeri berkenaan.
 
 ## Bacaan berkaitan
 
-- [Perlembagaan Persekutuan](/en/law/federal-constitution) — struktur, jadual dan peruntukan asas
-- [Parlimen Malaysia](/en/government/parliament) — badan perundangan peringkat persekutuan, untuk perbandingan dengan Dewan Undangan Negeri
-- [Warta Kerajaan](/en/glossary/warta-kerajaan) — mengapa pindaan perlembagaan negeri perlu diwartakan sebelum berkuat kuasa
-- [Sarawak](/en/states/sarawak), [Selangor](/en/states/selangor), [Pulau Pinang](/en/states/penang) — latar negeri
+- [Perlembagaan Persekutuan](/law/federal-constitution) — struktur, jadual dan peruntukan asas
+- [Parlimen Malaysia](/government/parliament) — badan perundangan peringkat persekutuan, untuk perbandingan dengan Dewan Undangan Negeri
+- [Warta Kerajaan](/glossary/warta-kerajaan) — mengapa pindaan perlembagaan negeri perlu diwartakan sebelum berkuat kuasa
+- [Sarawak](/states/sarawak), [Selangor](/states/selangor), [Pulau Pinang](/states/penang) — latar negeri
 
 ## Apa seterusnya
 

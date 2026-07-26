@@ -84,7 +84,7 @@ keywords: ["Pesta Kaamatan", "Tadau Kaamatan", "Kadazandusun harvest festival", 
 
 Pesta ini dinamakan sempena satu idea tunggal: penuaian. *Kaamatan* bermaksud tepat demikian dalam bahasa Kadazandusun, dan segala-galanya yang lain dalam sambutan ini — ritual, air tuak beras, pertandingan ratu cantik yang dinobatkan pada malam terakhir — tumbuh daripada satu tindakan mengutip hasil padi itu.
 
-Bagi masyarakat Kadazan, Dusun, Murut, Rungus, Lundayeh dan komuniti peribumi lain di Sabah, Pesta Kaamatan ialah kesyukuran besar tahunan. Ia jatuh pada 30 dan 31 Mei, dan pada kedua-dua hari itu ia menjadi cuti umum di negeri [Sabah](/ms/states/sabah) dan di wilayah persekutuan Labuan.
+Bagi masyarakat Kadazan, Dusun, Murut, Rungus, Lundayeh dan komuniti peribumi lain di Sabah, Pesta Kaamatan ialah kesyukuran besar tahunan. Ia jatuh pada 30 dan 31 Mei, dan pada kedua-dua hari itu ia menjadi cuti umum di negeri [Sabah](/states/sabah) dan di wilayah persekutuan Labuan.
 
 ## Tiga nama untuk satu pesta
 
@@ -139,7 +139,7 @@ Acara peringkat negeri dianjurkan oleh KDCA, yang dewannya — **Hongkod Koisaan
 
 **"Unduk Ngadau hanyalah pertandingan ratu cantik."** Ia ialah pertandingan ratu cantik budaya yang memperingati legenda Huminodun, dan sejak 2012 ia turut menilai peserta sebahagiannya berdasarkan ronde soalan dalam bahasa nenek moyang.
 
-**"Kaamatan hanya milik orang Kadazan."** Ia disambut oleh masyarakat Kadazan, Dusun, Murut, Rungus, Lundayeh dan komuniti peribumi lain di Sabah. Kumpulan yang lebih luas ini sering ditulis sebagai Kadazandusun, dan kepelbagaian etnik serta linguistik Sabah jauh lebih luas lagi — lihat [komposisi populasi Malaysia](/ms/malaysia/population-composition).
+**"Kaamatan hanya milik orang Kadazan."** Ia disambut oleh masyarakat Kadazan, Dusun, Murut, Rungus, Lundayeh dan komuniti peribumi lain di Sabah. Kumpulan yang lebih luas ini sering ditulis sebagai Kadazandusun, dan kepelbagaian etnik serta linguistik Sabah jauh lebih luas lagi — lihat [komposisi populasi Malaysia](/malaysia/population-composition).
 
 **"Ia adalah cuti umum kebangsaan."** Ia adalah cuti umum di Sabah dan Labuan pada 30 dan 31 Mei, bukan cuti umum di seluruh negara, walaupun sambutan Kaamatan turut diadakan oleh komuniti Sabah di tempat lain di Malaysia.
 
@@ -147,9 +147,9 @@ Acara peringkat negeri dianjurkan oleh KDCA, yang dewannya — **Hongkod Koisaan
 
 ## Apa yang seterusnya
 
-- Baca [Sabah](/ms/states/sabah) untuk negeri yang komuniti peribumi menyambut Kaamatan, dan syarat-syarat penyertaannya ke dalam persekutuan.
-- Baca [komposisi populasi Malaysia](/ms/malaysia/population-composition) untuk meletakkan Kadazandusun dan kumpulan peribumi lain dalam gambaran etnik negara yang lebih luas.
-- Untuk padanan di Semenanjung dalam bidang seni persembahan, serta perbandingan cara bentuk tradisional didokumentasikan dan diiktiraf, lihat [Mak Yong](/ms/arts-culture/mak-yong).
+- Baca [Sabah](/states/sabah) untuk negeri yang komuniti peribumi menyambut Kaamatan, dan syarat-syarat penyertaannya ke dalam persekutuan.
+- Baca [komposisi populasi Malaysia](/malaysia/population-composition) untuk meletakkan Kadazandusun dan kumpulan peribumi lain dalam gambaran etnik negara yang lebih luas.
+- Untuk padanan di Semenanjung dalam bidang seni persembahan, serta perbandingan cara bentuk tradisional didokumentasikan dan diiktiraf, lihat [Mak Yong](/arts-culture/mak-yong).
 
 ---
 

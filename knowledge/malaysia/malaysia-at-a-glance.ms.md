@@ -105,7 +105,7 @@ Dua perkara wajar diketahui sebelum memetik angka ini di tempat lain:
 - Ia satu **anggaran**, bukan bancian. DOSM menghasilkannya dengan kaedah kohort-komponen, menggunakan Banci Penduduk dan Perumahan 2020 sebagai asas dan melaraskannya bagi kelahiran, kematian dan migrasi setiap tahun.
 - **Nisbah jantina** berbeza dengan ketara mengikut kewarganegaraan: 102 lelaki bagi setiap 100 perempuan dalam kalangan warganegara, berbanding 228 lelaki bagi setiap 100 perempuan dalam kalangan bukan warganegara — jurang yang dikaitkan oleh DOSM dengan bilangan pekerja asing lelaki yang tinggi.
 
-Untuk pecahan penuh etnik dan kewarganegaraan yang sebenarnya diterbitkan oleh DOSM — Melayu, Bumiputera Lain, Cina, India dan Lain-lain, ditambah sub-kumpulan Bumiputera Sabah/Sarawak — lihat [komposisi populasi Malaysia](/ms/malaysia/population-composition), yang menjejaki perincian keluaran demi keluaran yang sengaja tidak dimuatkan dalam halaman ini.
+Untuk pecahan penuh etnik dan kewarganegaraan yang sebenarnya diterbitkan oleh DOSM — Melayu, Bumiputera Lain, Cina, India dan Lain-lain, ditambah sub-kumpulan Bumiputera Sabah/Sarawak — lihat [komposisi populasi Malaysia](/malaysia/population-composition), yang menjejaki perincian keluaran demi keluaran yang sengaja tidak dimuatkan dalam halaman ini.
 
 ## Keluasan tanah: 330,345 km², angka yang jarang dan perlahan berubah
 
@@ -137,7 +137,7 @@ Mata wang ini diperkenalkan pada 1967 sebagai dolar Malaysia dan dinamakan semul
 
 Perkara 152 Perlembagaan Persekutuan menamakan Bahasa Melayu sebagai satu-satunya bahasa kebangsaan Malaysia, diwajibkan bagi maksud rasmi — ditakrifkan secara sempit sebagai urusan Kerajaan Persekutuan, sesuatu Kerajaan Negeri, atau mana-mana pihak berkuasa awam. Perkara yang sama melindungi hak untuk menggunakan, mengajar atau mempelajari mana-mana bahasa lain di luar skop rasmi itu, dan itulah sebabnya bahasa Inggeris, Mandarin, Tamil serta pelbagai bahasa peribumi kekal digunakan sehari-hari, dalam perniagaan dan pendidikan di seluruh negara.
 
-Untuk gambaran yang lebih lengkap — termasuk bagaimana kedudukan perlembagaan itu berdiri di samping penggunaan bahasa sebenar mengikut kumpulan etnik, serta skala kepelbagaian linguistik di Sabah dan Sarawak — lihat [bahasa kebangsaan Malaysia, dan pelbagai bahasa lain yang dituturkan di sisinya](/ms/malaysia/languages-spoken).
+Untuk gambaran yang lebih lengkap — termasuk bagaimana kedudukan perlembagaan itu berdiri di samping penggunaan bahasa sebenar mengikut kumpulan etnik, serta skala kepelbagaian linguistik di Sabah dan Sarawak — lihat [bahasa kebangsaan Malaysia, dan pelbagai bahasa lain yang dituturkan di sisinya](/malaysia/languages-spoken).
 
 ## Ekonomi: RM2.03 trilion nominal, pertumbuhan 5.2 peratus
 
@@ -157,4 +157,4 @@ Ini ialah angka utama tahun penuh DOSM sendiri; keluaran suku tahunan (tersedia 
 
 ## Apa yang seterusnya
 
-Untuk perincian demografi di sebalik angka populasi — kategori etnik dan kewarganegaraan sebenar yang diterbitkan DOSM, bukan pernyataan semula yang dipermudahkan — lihat [komposisi populasi Malaysia](/ms/malaysia/population-composition). Untuk bahasa, lihat [bahasa yang dituturkan](/ms/malaysia/languages-spoken); untuk agama, lihat [statistik agama](/ms/malaysia/religion-statistics); dan untuk bagaimana populasi terbahagi antara bandar dan kawasan luar bandar, lihat [urbanisasi](/ms/malaysia/urbanisation). Untuk teks perlembagaan yang menjadi asas senarai negeri, bahasa kebangsaan dan institusi beraja, lihat [Perlembagaan Persekutuan](/ms/law/federal-constitution). Untuk bagaimana persekutuan itu turut merangkumi Sabah dan Sarawak sejak mula, lihat [pembentukan Malaysia, 1963](/ms/malaysia/formation-of-malaysia-1963), susulan daripada [kemerdekaan pada 1957](/ms/malaysia/independence-1957).
+Untuk perincian demografi di sebalik angka populasi — kategori etnik dan kewarganegaraan sebenar yang diterbitkan DOSM, bukan pernyataan semula yang dipermudahkan — lihat [komposisi populasi Malaysia](/malaysia/population-composition). Untuk bahasa, lihat [bahasa yang dituturkan](/malaysia/languages-spoken); untuk agama, lihat [statistik agama](/malaysia/religion-statistics); dan untuk bagaimana populasi terbahagi antara bandar dan kawasan luar bandar, lihat [urbanisasi](/malaysia/urbanisation). Untuk teks perlembagaan yang menjadi asas senarai negeri, bahasa kebangsaan dan institusi beraja, lihat [Perlembagaan Persekutuan](/law/federal-constitution). Untuk bagaimana persekutuan itu turut merangkumi Sabah dan Sarawak sejak mula, lihat [pembentukan Malaysia, 1963](/malaysia/formation-of-malaysia-1963), susulan daripada [kemerdekaan pada 1957](/malaysia/independence-1957).

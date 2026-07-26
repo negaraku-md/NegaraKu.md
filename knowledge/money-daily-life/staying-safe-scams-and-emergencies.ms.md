@@ -158,10 +158,10 @@ sama.
 ## Apa yang seterusnya
 
 Jika penipuan itu melibatkan pemindahan QR atau e-dompet, [Pembayaran QR
-DuitNow](/ms/money-daily-life/duitnow-qr-payments) menerangkan cara
+DuitNow](/money-daily-life/duitnow-qr-payments) menerangkan cara
 transaksi tersebut berfungsi dan ke mana pertikaian perlu dirujuk. Jika bank
 anda lambat bertindak ke atas transaksi yang telah anda laporkan, [Membuka
-Akaun Bank](/ms/money-daily-life/opening-bank-account) menerangkan hubungan
+Akaun Bank](/money-daily-life/opening-bank-account) menerangkan hubungan
 akaun di sebaliknya. Dan bagi pertikaian dengan peniaga yang bukan penipuan
 secara terang-terangan — bayaran balik yang ditolak, bukan wang yang dicuri
-— lihat [Hak Pengguna dan Tribunal](/ms/money-daily-life/consumer-rights-and-tribunal).
+— lihat [Hak Pengguna dan Tribunal](/money-daily-life/consumer-rights-and-tribunal).

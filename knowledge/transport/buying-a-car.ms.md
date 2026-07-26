@@ -144,4 +144,4 @@ Pihak pembiaya diberi masa sehingga **31 Mac 2027** untuk beralih sepenuhnya sis
 
 ## Apa yang seterusnya
 
-Setelah kereta itu didaftarkan atas nama anda, dua perkara perlu kekal terkini selagi anda memilikinya: [insurans motor](/ms/transport/motor-insurance) anda, kerana JPJ menyemaknya berbanding tempoh perlindungan kenderaan itu, dan [pembaharuan cukai jalan](/ms/transport/road-tax-renewal) anda, yang tidak boleh diproses tanpa insurans sah di sebaliknya. Kedua-duanya berbaloi ditandakan sebelum tarikh pembaharuan pertama anda tiba, bukan selepasnya.
+Setelah kereta itu didaftarkan atas nama anda, dua perkara perlu kekal terkini selagi anda memilikinya: [insurans motor](/transport/motor-insurance) anda, kerana JPJ menyemaknya berbanding tempoh perlindungan kenderaan itu, dan [pembaharuan cukai jalan](/transport/road-tax-renewal) anda, yang tidak boleh diproses tanpa insurans sah di sebaliknya. Kedua-duanya berbaloi ditandakan sebelum tarikh pembaharuan pertama anda tiba, bukan selepasnya.

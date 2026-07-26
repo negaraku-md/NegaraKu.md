@@ -85,7 +85,7 @@ Persamaan ini bukan sekadar analogi longgar. Ia ditulis ke dalam Perlembagaan Pe
 
 ## Ketua negeri yang menaungi, bukan memerintah
 
-Kuasa eksekutif di setiap negeri secara rasmi terletak pada ketua negerinya, tetapi dijalankan hampir sepenuhnya atas nasihat Majlis Mesyuarat Kerajaan Negeri. Sembilan negeri mempunyai Raja yang mewarisi takhta; empat negeri yang lain — Pulau Pinang, Melaka, Sabah dan Sarawak — mempunyai Yang di-Pertua Negeri (gabenor) sebagai gantinya. Perbezaan antara kedua-duanya, dan bagaimana masing-masing dipilih, ialah subjeknya sendiri — lihat [Raja dan gabenor](/ms/states/rulers-and-governors) untuk perbandingan lengkap.
+Kuasa eksekutif di setiap negeri secara rasmi terletak pada ketua negerinya, tetapi dijalankan hampir sepenuhnya atas nasihat Majlis Mesyuarat Kerajaan Negeri. Sembilan negeri mempunyai Raja yang mewarisi takhta; empat negeri yang lain — Pulau Pinang, Melaka, Sabah dan Sarawak — mempunyai Yang di-Pertua Negeri (gabenor) sebagai gantinya. Perbezaan antara kedua-duanya, dan bagaimana masing-masing dipilih, ialah subjeknya sendiri — lihat [Raja dan gabenor](/states/rulers-and-governors) untuk perbandingan lengkap.
 
 Apa yang penting bagi struktur kerajaan ialah bahawa kedua-dua jenis ketua negeri berfungsi dengan cara yang sama sebaik sahaja memegang jawatan. Perlembagaan Sabah menyatakannya secara langsung: Yang di-Pertua Negeri "hendaklah bertindak mengikut nasihat Kabinet atau seorang ahlinya yang bertindak di bawah kuasa am Kabinet," dengan hanya beberapa fungsi sahaja yang dikhaskan untuk budi bicaranya sendiri. Dua daripada fungsi budi bicara itu lebih penting berbanding yang lain:
 
@@ -117,7 +117,7 @@ Beberapa peraturan struktur berulang merentas negeri-negeri, digambarkan di sini
 - Sebaik sahaja dibubarkan, pilihan raya umum mesti diadakan dalam masa **60 hari**, dan Dewan yang baharu mesti bersidang dalam masa **120 hari** daripada pembubaran itu.
 - Sesuatu Rang Undang-Undang yang diluluskan oleh Dewan menjadi undang-undang sebaik sahaja ketua negeri memperkenankannya — dan jika beliau belum memperkenankannya dalam masa **30 hari**, ia tetap menjadi undang-undang, seolah-olah ia telah diperkenankan.
 
-Bilangan kerusi yang dipilih itu sendiri langsung tidak ditetapkan oleh Perlembagaan Persekutuan; undang-undang setiap negeri sendiri menetapkan bilangannya sendiri, dan itulah sebabnya dewan-dewan dengan saiz yang sangat berbeza wujud merentas 13 negeri. Untuk butiran klausa demi klausa yang lengkap tentang bagaimana sebuah DUN dibentuk, berapa lama ia boleh dijauhkan daripada undian di dewan, dan bagaimana perjalanan sesuatu Rang Undang-Undang sebenarnya berfungsi, lihat [Dewan Undangan Negeri (DUN)](/ms/government/state-assemblies-dun) — artikel ini sengaja kekal di peringkat struktur keseluruhan berbanding mengulangi butiran itu.
+Bilangan kerusi yang dipilih itu sendiri langsung tidak ditetapkan oleh Perlembagaan Persekutuan; undang-undang setiap negeri sendiri menetapkan bilangannya sendiri, dan itulah sebabnya dewan-dewan dengan saiz yang sangat berbeza wujud merentas 13 negeri. Untuk butiran klausa demi klausa yang lengkap tentang bagaimana sebuah DUN dibentuk, berapa lama ia boleh dijauhkan daripada undian di dewan, dan bagaimana perjalanan sesuatu Rang Undang-Undang sebenarnya berfungsi, lihat [Dewan Undangan Negeri (DUN)](/government/state-assemblies-dun) — artikel ini sengaja kekal di peringkat struktur keseluruhan berbanding mengulangi butiran itu.
 
 ## Apa yang sebenarnya boleh diputuskan oleh sebuah kerajaan negeri
 
@@ -129,11 +129,11 @@ Tiada satu pun daripada jentera badan eksekutif-dan-dewan ini bermakna tanpa ses
 - kerajaan tempatan, kadar tempatan dan pilihan raya tempatan; dan
 - kerja raya negeri, dan air selain daripada bekalan dan perkhidmatan air.
 
-Undang-undang persekutuan masih mengatasi undang-undang negeri apabila kedua-duanya bercanggah, dan Senarai Bersama (kebajikan sosial, perancangan bandar dan desa, kesihatan awam, dan lain-lain) adalah kawasan bersama. Untuk gambaran yang lebih lengkap tentang bagaimana senarai-senarai ini berinteraksi merentas ketiga-tiga peringkat kerajaan, lihat [Tiga peringkat kerajaan Malaysia](/ms/government/three-tiers-of-government) dan [siapa menggubal undang-undang mengenai apa](/ms/government/federal-state-division).
+Undang-undang persekutuan masih mengatasi undang-undang negeri apabila kedua-duanya bercanggah, dan Senarai Bersama (kebajikan sosial, perancangan bandar dan desa, kesihatan awam, dan lain-lain) adalah kawasan bersama. Untuk gambaran yang lebih lengkap tentang bagaimana senarai-senarai ini berinteraksi merentas ketiga-tiga peringkat kerajaan, lihat [Tiga peringkat kerajaan Malaysia](/government/three-tiers-of-government) dan [siapa menggubal undang-undang mengenai apa](/government/federal-state-division).
 
 ## Sabah dan Sarawak: satu senarai tambahan
 
-Sabah dan Sarawak menggubal undang-undang ke atas satu tambahan lagi kepada Senarai Negeri dan Senarai Bersama — meliputi perkara-perkara seperti undang-undang dan adat anak negeri, mahkamah anak negeri, pelabuhan dan labuhan yang tidak diisytiharkan persekutuan, serta bekalan air — yang ditetapkan secara berasingan di bawah Perkara 95B Perlembagaan Persekutuan. Ini mencerminkan terma-terma di mana kedua-dua negeri itu menyertai Persekutuan pada 1963, bersama-sama dengan perlindungan lain yang khusus untuk mereka. Lihat [Perlindungan berperlembagaan bagi Sabah dan Sarawak](/ms/states/sabah-sarawak-safeguards) untuk gambaran lengkap.
+Sabah dan Sarawak menggubal undang-undang ke atas satu tambahan lagi kepada Senarai Negeri dan Senarai Bersama — meliputi perkara-perkara seperti undang-undang dan adat anak negeri, mahkamah anak negeri, pelabuhan dan labuhan yang tidak diisytiharkan persekutuan, serta bekalan air — yang ditetapkan secara berasingan di bawah Perkara 95B Perlembagaan Persekutuan. Ini mencerminkan terma-terma di mana kedua-dua negeri itu menyertai Persekutuan pada 1963, bersama-sama dengan perlindungan lain yang khusus untuk mereka. Lihat [Perlindungan berperlembagaan bagi Sabah dan Sarawak](/states/sabah-sarawak-safeguards) untuk gambaran lengkap.
 
 ## Kesilapan lazim
 
@@ -149,9 +149,9 @@ Sabah dan Sarawak menggubal undang-undang ke atas satu tambahan lagi kepada Sena
 
 ## Apa yang seterusnya
 
-- [Raja dan gabenor](/ms/states/rulers-and-governors) — bagaimana kedua-dua jenis ketua negeri berbeza dari segi gelaran, tempoh jawatan dan peranan keagamaan.
-- [Dewan Undangan Negeri (DUN)](/ms/government/state-assemblies-dun) — peraturan klausa demi klausa Jadual Kelapan tentang bagaimana sesebuah dewan negeri dibentuk, berjalan, dan meluluskan undang-undang.
-- [Perdana Menteri dan Kabinet](/ms/government/kabinet-perdana-menteri) — versi peringkat persekutuan bagi ujian kepercayaan dan peraturan tanggungjawab kolektif yang sama.
-- [Tiga peringkat kerajaan Malaysia](/ms/government/three-tiers-of-government) — kedudukan kerajaan negeri antara kerajaan persekutuan dan pihak berkuasa tempatan.
-- [Siapa menggubal undang-undang mengenai apa: Senarai Persekutuan, Negeri dan Bersama](/ms/government/federal-state-division) — pembahagian penuh kuasa perundangan di sebalik Senarai Negeri.
-- [Perlindungan berperlembagaan bagi Sabah dan Sarawak](/ms/states/sabah-sarawak-safeguards) — kuasa dan perlindungan tambahan yang khusus untuk kedua-dua negeri Borneo itu.
+- [Raja dan gabenor](/states/rulers-and-governors) — bagaimana kedua-dua jenis ketua negeri berbeza dari segi gelaran, tempoh jawatan dan peranan keagamaan.
+- [Dewan Undangan Negeri (DUN)](/government/state-assemblies-dun) — peraturan klausa demi klausa Jadual Kelapan tentang bagaimana sesebuah dewan negeri dibentuk, berjalan, dan meluluskan undang-undang.
+- [Perdana Menteri dan Kabinet](/government/kabinet-perdana-menteri) — versi peringkat persekutuan bagi ujian kepercayaan dan peraturan tanggungjawab kolektif yang sama.
+- [Tiga peringkat kerajaan Malaysia](/government/three-tiers-of-government) — kedudukan kerajaan negeri antara kerajaan persekutuan dan pihak berkuasa tempatan.
+- [Siapa menggubal undang-undang mengenai apa: Senarai Persekutuan, Negeri dan Bersama](/government/federal-state-division) — pembahagian penuh kuasa perundangan di sebalik Senarai Negeri.
+- [Perlindungan berperlembagaan bagi Sabah dan Sarawak](/states/sabah-sarawak-safeguards) — kuasa dan perlindungan tambahan yang khusus untuk kedua-dua negeri Borneo itu.

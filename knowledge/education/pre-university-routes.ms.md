@@ -221,7 +221,7 @@ mereka tidak tiba di persimpangan itu dengan cara yang sama.
 Untuk memahami bagaimana kemasukan akhir itu sebenarnya berfungsi setelah anda
 memegang salah satu kelayakan ini — bagaimana sistem berpusat UPU berbeza
 daripada memohon terus ke universiti swasta — lihat
-[IPTA atau IPTS? Bagaimana Universiti Awam dan Swasta Malaysia Sebenarnya Berbeza](/ms/education/public-vs-private-universities).
+[IPTA atau IPTS? Bagaimana Universiti Awam dan Swasta Malaysia Sebenarnya Berbeza](/education/public-vs-private-universities).
 
 ## Kesilapan biasa
 
@@ -248,8 +248,8 @@ daripada memohon terus ke universiti swasta — lihat
 
 Setelah keputusan pra-universiti diperoleh, keputusan seterusnya ialah jenis
 institusi mana yang hendak dipohon — lihat
-[IPTA atau IPTS? Bagaimana Universiti Awam dan Swasta Malaysia Sebenarnya Berbeza](/ms/education/public-vs-private-universities)
+[IPTA atau IPTS? Bagaimana Universiti Awam dan Swasta Malaysia Sebenarnya Berbeza](/education/public-vs-private-universities)
 untuk memahami bagaimana sistem berpusat universiti awam UPU berbanding dengan
 memohon terus ke universiti swasta. Untuk memahami bagaimana ramai pelajar
 membiayai laluan pilihan mereka, lihat
-[PTPTN Bukan Biasiswa: Begini Cara Pinjaman Pendidikan Ini Sebenarnya Berfungsi](/ms/education/ptptn-student-loan).
+[PTPTN Bukan Biasiswa: Begini Cara Pinjaman Pendidikan Ini Sebenarnya Berfungsi](/education/ptptn-student-loan).

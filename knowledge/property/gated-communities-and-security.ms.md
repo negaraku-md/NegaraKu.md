@@ -120,4 +120,4 @@ Sebuah RA ialah sebuah pertubuhan di bawah Societies Act 1966 — bersifat sukar
 
 ## Apa yang seterusnya
 
-Jika skim anda sudah mempunyai hakmilik strata dan JMB atau MC, gaji pengawal hanyalah satu baris dalam bil berstatut yang lebih besar — lihat [Kehidupan Kondo di Malaysia](/ms/property/condo-living-maintenance-fees) untuk memahami cara pembiayaan itu berfungsi. Untuk mengetahui siapa yang sebenarnya meluluskan pondok pengawal, palang jalan atau permohonan GN, lihat [Majlis Tempatan di Malaysia](/ms/states/local-councils).
+Jika skim anda sudah mempunyai hakmilik strata dan JMB atau MC, gaji pengawal hanyalah satu baris dalam bil berstatut yang lebih besar — lihat [Kehidupan Kondo di Malaysia](/property/condo-living-maintenance-fees) untuk memahami cara pembiayaan itu berfungsi. Untuk mengetahui siapa yang sebenarnya meluluskan pondok pengawal, palang jalan atau permohonan GN, lihat [Majlis Tempatan di Malaysia](/states/local-councils).

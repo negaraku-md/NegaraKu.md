@@ -115,9 +115,9 @@ Dikir Barat 的伴奏以两种尺寸的鼓为主轴——**rebana ibu**（母鼓
 
 ## 下一步
 
-- 阅读[吉兰丹](/states/kelantan)，了解 Dikir Barat 扎根的这个州属的背景。
-- 与[玛蓉剧（Mak Yong）](/arts-culture/mak-yong)及[皮影戏](/arts-culture/wayang-kulit)比较——这两种传统戏剧形式同样以吉兰丹为中心。
-- 参阅[风筝（wau）](/arts-culture/wau)，了解吉兰丹文化遗产中以传统游戏、而非歌唱表演形式呈现的例子。
+- 阅读[吉兰丹](/zh/states/kelantan)，了解 Dikir Barat 扎根的这个州属的背景。
+- 与[玛蓉剧（Mak Yong）](/zh/arts-culture/mak-yong)及[皮影戏](/zh/arts-culture/wayang-kulit)比较——这两种传统戏剧形式同样以吉兰丹为中心。
+- 参阅[风筝（wau）](/zh/arts-culture/wau)，了解吉兰丹文化遗产中以传统游戏、而非歌唱表演形式呈现的例子。
 
 ---
 

@@ -119,7 +119,7 @@ Ahli jawatankuasa yang direkodkan Arkib Negara ialah Ya'acob Abdul Latiff, A.T. 
 
 Portal Rasmi Kerajaan Malaysia menambah bahawa satu sayembara lagu diadakan pada 1957 tetapi tidak menghasilkan pilihan yang sesuai, lalu Tunku Abdul Rahman mencadangkan lagu negeri Perak sebagai asas. Portal itu turut merekodkan bahawa skor muzik disiapkan oleh Alfonso Soliano, D.S.P Croff, Captain Lenthall dan A.T Reed, manakala liriknya dirangka oleh sebuah jawatankuasa khas yang dipengerusikan Tunku Abdul Rahman dengan perkenan Raja-Raja Melayu.
 
-Beberapa jam kemudian, pada [malam Merdeka 31 Ogos 1957](/en/malaysia/independence-1957), bendera Union Jack diturunkan dan bendera Persekutuan Tanah Melayu dinaikkan — diiringi melodi yang sama itu.
+Beberapa jam kemudian, pada [malam Merdeka 31 Ogos 1957](/malaysia/independence-1957), bendera Union Jack diturunkan dan bendera Persekutuan Tanah Melayu dinaikkan — diiringi melodi yang sama itu.
 
 ## Apa yang tidak dapat disahkan
 
@@ -167,7 +167,7 @@ Tempo lagu pernah diubah tiga kali melalui perintah, seperti yang tersenarai dal
 
 ## Apa seterusnya
 
-Melodi ini kekal tanpa perubahan apabila Persekutuan Tanah Melayu berkembang menjadi Malaysia — konteks itu diterangkan dalam [pembentukan Malaysia pada 1963](/en/malaysia/formation-of-malaysia-1963).
+Melodi ini kekal tanpa perubahan apabila Persekutuan Tanah Melayu berkembang menjadi Malaysia — konteks itu diterangkan dalam [pembentukan Malaysia pada 1963](/malaysia/formation-of-malaysia-1963).
 
 Bagi pembaca yang mahu menyemak sendiri, dua dokumen berbaloi dibuka terus: teks penuh Akta 808 di laman Bahagian Istiadat, dan catatan upacara pemilihan di Pustaka Ilmu Arkib Negara. Kedua-duanya pendek, dan kedua-duanya lebih tepat daripada kebanyakan yang beredar dalam talian.
 

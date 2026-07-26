@@ -123,9 +123,9 @@ Tiga akibat mengalir daripada reka bentuk ini.
 
 **Pertama, harga runcit tidak pernah "bebas".** Walaupun pada harga tanpa subsidi, angka yang anda bayar ialah angka yang dikira dan diumumkan oleh kerajaan, bukan angka yang ditentukan setiap stesen.
 
-**Kedua, laluan pemindahan kepada isi rumah bersifat mingguan.** Perubahan harga minyak global tidak diserap perlahan-lahan; ia muncul di pam dalam masa beberapa hari. Ini menjadikan bahan api antara komponen paling tidak stabil dalam bakul harga pengguna — lihat [cara CPI Malaysia dibina](/en/economy/inflation-cpi) untuk memahami mengapa kadar inflasi pengangkutan kerap menyimpang jauh daripada kadar keseluruhan.
+**Kedua, laluan pemindahan kepada isi rumah bersifat mingguan.** Perubahan harga minyak global tidak diserap perlahan-lahan; ia muncul di pam dalam masa beberapa hari. Ini menjadikan bahan api antara komponen paling tidak stabil dalam bakul harga pengguna — lihat [cara CPI Malaysia dibina](/economy/inflation-cpi) untuk memahami mengapa kadar inflasi pengangkutan kerap menyimpang jauh daripada kadar keseluruhan.
 
-**Ketiga, kos import dikira dalam dolar.** Kos produk petroleum dinilai dalam mata wang asing, jadi pergerakan [nilai ringgit](/en/economy/ringgit) mempengaruhi harga di pam walaupun harga minyak dunia tidak bergerak langsung.
+**Ketiga, kos import dikira dalam dolar.** Kos produk petroleum dinilai dalam mata wang asing, jadi pergerakan [nilai ringgit](/economy/ringgit) mempengaruhi harga di pam walaupun harga minyak dunia tidak bergerak langsung.
 
 ## Mengapa subsidi menyeluruh menjadi beban fiskal
 
@@ -191,4 +191,4 @@ Perkara yang perlu dipantau ialah **parameter**, bukan tajuk berita. Tiga angka 
 
 Untuk memeriksa sendiri: siaran media harga petroleum Kementerian Kewangan diterbitkan setiap Rabu, dan siri harga penuh tersedia sebagai data terbuka di katalog OpenDOSM. Kelayakan dan kuota individu di bawah BUDI95 dan BUDI Diesel disemak melalui portal BUDI MADANI, manakala skim armada SKPS dan SKDS dikendalikan melalui MySubsidi KPDN.
 
-Bagi konteks makro yang lebih luas — bagaimana kejutan harga bahan api mengalir ke dalam inflasi keseluruhan dan pertimbangan kadar faedah — lihat [kadar inflasi dan CPI](/en/economy/inflation-cpi) serta [Kadar Dasar Semalaman dan dasar monetari](/en/economy/opr-monetary-policy).
+Bagi konteks makro yang lebih luas — bagaimana kejutan harga bahan api mengalir ke dalam inflasi keseluruhan dan pertimbangan kadar faedah — lihat [kadar inflasi dan CPI](/economy/inflation-cpi) serta [Kadar Dasar Semalaman dan dasar monetari](/economy/opr-monetary-policy).

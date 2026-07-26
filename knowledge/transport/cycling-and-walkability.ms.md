@@ -164,5 +164,5 @@ meter terakhir dari stesen rel atau perhentian bas terdekat ke destinasi
 sebenar anda mempunyai laluan pejalan kaki yang berterusan dan berteduh
 sepanjang jalan. Untuk bacaan berkaitan tentang bagaimana orang ramai
 sebenarnya bergerak di bandar-bandar Malaysia dari hari ke hari, lihat
-[rel Lembah Klang](/ms/transport/klang-valley-rail) dan
-[peraturan e-hailing](/ms/transport/e-hailing-grab).
+[rel Lembah Klang](/transport/klang-valley-rail) dan
+[peraturan e-hailing](/transport/e-hailing-grab).

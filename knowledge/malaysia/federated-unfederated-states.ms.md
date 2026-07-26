@@ -160,6 +160,6 @@ Perpecahan sebelum perang kepada negeri-negeri Bersekutu dan Tidak Bersekutu ada
 
 ## Apa yang seterusnya
 
-- Untuk mengetahui bagaimana sistem Residen mula-mula tiba di Semenanjung dari pelabuhan-pelabuhan pantai, lihat [Negeri-Negeri Selat](/ms/malaysia/straits-settlements).
-- Untuk mengetahui bagaimana kedua-dua kumpulan itu dibubarkan dan kedudukan Raja-Raja kemudiannya dipulihkan, lihat [Malayan Union dan Persekutuan Tanah Melayu](/ms/malaysia/malayan-union).
-- Untuk mengetahui rumah-rumah diraja yang berada di pusat setiap satu pengaturan ini, lihat [Sembilan Rumah Diraja](/ms/malaysia/nine-royal-houses) dan [sistem kesultanan Melayu](/ms/malaysia/malay-sultanate-system).
+- Untuk mengetahui bagaimana sistem Residen mula-mula tiba di Semenanjung dari pelabuhan-pelabuhan pantai, lihat [Negeri-Negeri Selat](/malaysia/straits-settlements).
+- Untuk mengetahui bagaimana kedua-dua kumpulan itu dibubarkan dan kedudukan Raja-Raja kemudiannya dipulihkan, lihat [Malayan Union dan Persekutuan Tanah Melayu](/malaysia/malayan-union).
+- Untuk mengetahui rumah-rumah diraja yang berada di pusat setiap satu pengaturan ini, lihat [Sembilan Rumah Diraja](/malaysia/nine-royal-houses) dan [sistem kesultanan Melayu](/malaysia/malay-sultanate-system).

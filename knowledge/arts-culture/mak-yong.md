@@ -117,7 +117,7 @@ UNESCO menyenaraikan tiga alat teras:
 
 Rekod JKKN menambah bahawa susunan asasnya ialah rebab, gendang ibu dan anak serta gong, manakala persembahan yang lebih lengkap turut menggunakan canang, kesi, geduk, gedombak dan serunai. Serunai memberikan nada tinggi dan bergetar yang membentuk suasana dramatik dalam babak tertentu.
 
-Bandingkan ini dengan [wayang kulit](/en/arts-culture/wayang-kulit), yang juga berpusat di Kelantan dan turut menggunakan gong, gendang dan serunai — tetapi tanpa rebab, dan dengan seorang dalang tunggal menggantikan seluruh kumpulan pelakon.
+Bandingkan ini dengan [wayang kulit](/arts-culture/wayang-kulit), yang juga berpusat di Kelantan dan turut menggunakan gong, gendang dan serunai — tetapi tanpa rebab, dan dengan seorang dalang tunggal menggantikan seluruh kumpulan pelakon.
 
 ## Watak yang berulang dari cerita ke cerita
 
@@ -183,8 +183,8 @@ Ini masalah yang berbeza daripada masalah pengiktirafan. Sijil UNESCO tidak mela
 
 ## What's next
 
-- Baca [wayang kulit](/en/arts-culture/wayang-kulit) untuk membandingkan dua bentuk teater tradisional Kelantan yang berkongsi geografi dan sebahagian orkestra.
-- Lihat [batik](/en/arts-culture/batik) untuk contoh warisan budaya Malaysia dalam bentuk kraf, bukan persembahan.
+- Baca [wayang kulit](/arts-culture/wayang-kulit) untuk membandingkan dua bentuk teater tradisional Kelantan yang berkongsi geografi dan sebahagian orkestra.
+- Lihat [batik](/arts-culture/batik) untuk contoh warisan budaya Malaysia dalam bentuk kraf, bukan persembahan.
 - Rujuk fail elemen UNESCO No. 00167 dan pemetaan budaya JKKN untuk rekod rasmi bentuk, alat muzik dan repertoir.
 
 ---

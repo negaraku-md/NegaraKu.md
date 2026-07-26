@@ -82,5 +82,5 @@ GLC 的所有权集中在被视为具有战略性的领域——电力、水务�
 
 ## 相关术语
 
-- [Sdn Bhd](/glossary/sdn-bhd)
+- [Sdn Bhd](/zh/glossary/sdn-bhd)
 </content>
