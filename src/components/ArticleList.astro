@@ -90,6 +90,7 @@ const rows = articles.map((a) => {
     cls: sens ? SENS_LABEL[sens] ?? L('Sensitif', 'Sensitive', '敏感') : L('Umum', 'General', '一般'),
     sens: !!sens,
     rev: d.reviewDue ? new Date(d.reviewDue).toISOString().slice(0, 10) : '',
+    revOverdue: !!d.reviewDue && new Date(d.reviewDue).getTime() < Date.now(),
     langs: [...(langsByKey.get(key) ?? [])].sort(),
     src: d.sources?.length ?? 0,
     min: readingTime(a),
@@ -254,6 +255,9 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
     stageReviewed: L('Disemak', 'Reviewed', '审阅'),
     stagePublished: L('Diterbitkan', 'Published', '发布'),
     nextReview: L('Semakan seterusnya', 'Next review', '下次审阅'),
+    overdue: L('Semakan tertunggak', 'Review overdue', '审阅逾期'),
+    contributor: L('Penyumbang', 'Contributor', '贡献者'),
+    classification: L('Klasifikasi', 'Classification', '分类'),
   })}
 ></script>
 
@@ -342,6 +346,20 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
       `<div class="vwrap">${metric(I18N.vReaders, v?.readers)}${metric(I18N.vSearch, v?.search)}${metric(I18N.vAI, v?.ai)}${note}</div></div>`;
   }
 
+  // Compact one-line summary shown when every display row is OFF, so a collapsed
+  // card still carries the essentials: master language · contributor · published
+  // date · next review.
+  function compactHtml(r) {
+    const pub = (r.custody || []).find((c) => c.key === 'published' && c.reached)
+      || (r.custody || []).find((c) => c.reached && c.who);
+    const bits = [`<span class="chip${r.sens ? ' sens' : ''}">${I18N.classification}: ${r.sens ? '🔒 ' : ''}${esc(r.cls)}</span>`];
+    bits.push(`<span class="chip">${I18N.master}: ${r.ml}</span>`);
+    if (pub && pub.who) bits.push(`<span class="chip">${I18N.contributor}: ${esc(pub.who)}</span>`);
+    if (pub && pub.date) bits.push(`<span class="chip dim">${I18N.stagePublished}: ${pub.date}</span>`);
+    if (r.rev) bits.push(`<span class="chip ${r.revOverdue ? 'overdue' : 'dim'}"${r.revOverdue ? ` title="${I18N.overdue}"` : ''}>${r.revOverdue ? '⚠ ' : ''}${I18N.nextReview}: ${r.rev}</span>`);
+    return `<div class="meta-row compact"><div class="achips">${bits.join('')}</div></div>`;
+  }
+
   function render() {
     const data = filtered().sort(cmp);
     const total = data.length;
@@ -355,6 +373,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
       body.innerHTML = `<p class="empty">${I18N.empty}</p>`;
     } else {
       const langHref = (l, p) => (l === 'ms' ? p : `/${l}${p}`);
+      const allRowsOff = ALL_ROWS.every((x) => !showRow(x));
       body.innerHTML = slice.map((r) => `
         <article class="acard">
           <a class="atitle" href="${r.h}">${r.t}</a>
@@ -370,7 +389,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
               <div class="achips">
                 <span class="st ${STATUS_CLASS[r.st] || 'muted'}">${I18N.status[r.st] || r.st}</span>
                 <span class="chip ${r.sens ? 'sens' : ''}">${r.sens ? '🔒 ' : ''}${r.cls}</span>
-                ${r.rev ? `<span class="chip dim">${I18N.nextReview}: ${r.rev}</span>` : ''}
+                ${r.rev ? `<span class="chip ${r.revOverdue ? 'overdue' : 'dim'}"${r.revOverdue ? ` title="${I18N.overdue}"` : ''}>${r.revOverdue ? '⚠ ' : ''}${I18N.nextReview}: ${r.rev}</span>` : ''}
                 <span class="chip">${I18N.master}: <a class="mlink" href="${langHref(r.ml.toLowerCase(), r.p)}" title="${r.t} — ${r.ml}">${r.ml}</a></span>
                 <span class="chip langs">${['ms','en','zh'].map((l) => r.langs.includes(l)
                   ? `<a class="on" href="${langHref(l, r.p)}" title="${r.t} — ${l.toUpperCase()}">${l.toUpperCase()}</a>`
@@ -382,6 +401,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
             </div>`}
             ${showRow('custody') ? custodyHtml(r.custody) : ''}
             ${showRow('visitors') ? visitorsHtml(r.views) : ''}
+            ${allRowsOff ? compactHtml(r) : ''}
           </div>
         </article>`).join('');
     }
@@ -568,6 +588,9 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
   }
   .acards :global(.chip b) { color: var(--gold); font-weight: 800; }
   .acards :global(.chip.dim) { color: var(--muted); border-style: dashed; }
+  /* Review date past today → overdue: red highlight. */
+  .acards :global(.chip.overdue) { color: #f87171; border-color: rgba(248,113,113,.45); background: rgba(248,113,113,.12); font-weight: 700; }
+  .acards :global(.chip.sens) { color: #f87171; border-color: rgba(248,113,113,.45); font-weight: 700; }
   .acards :global(.chip.sens) { color: #f87171; border-color: rgba(248,113,113,.4); background: rgba(248,113,113,.1); font-weight: 700; }
   .acards :global(.empty) { text-align: center; color: var(--muted); padding: 2.5rem; border: 1px dashed var(--line); border-radius: 12px; }
   .acards :global(.st) { font-size: 0.72rem; font-weight: 800; border-radius: 999px; padding: 0.16rem 0.6rem; border: 1px solid var(--line); }

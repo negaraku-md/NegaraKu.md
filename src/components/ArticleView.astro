@@ -526,7 +526,13 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
           d.reviewDue && (
             <div class="r r-next">
               <span>{L('Semakan seterusnya', 'Next review', '下次审阅')}</span>
-              <span>{fmt(d.reviewDue)}</span>
+              {new Date(d.reviewDue).getTime() < Date.now() ? (
+                <span class="rev-overdue" title={L('Semakan tertunggak', 'Review overdue', '审阅逾期')}>
+                  ⚠ {fmt(d.reviewDue)}
+                </span>
+              ) : (
+                <span>{fmt(d.reviewDue)}</span>
+              )}
             </div>
           )
         }
@@ -745,6 +751,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
   .trust .r:last-child { border-bottom: 0; padding-bottom: 0.6rem; }
   .trust .r span:first-child { color: var(--muted); }
   .trust .sens-tag { color: #f87171; font-weight: 700; }
+  .trust .rev-overdue { color: #f87171; font-weight: 700; }
   .trust .r-sens .muted { color: var(--muted); }
   /* Tier-3 GROUP label (Custody, Visitors): an uppercase micro-header that opens
      a sub-list, distinct from the sentence-case leaf rows (Status, Version…). */
