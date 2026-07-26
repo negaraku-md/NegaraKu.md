@@ -1,8 +1,28 @@
 import { getCollection, type CollectionEntry } from 'astro:content';
 import type { Locale } from './categories';
+import { PILLARS } from './categories';
 import { DEFAULT_LOCALE } from './i18n';
 
 export type Article = CollectionEntry<'knowledge'>;
+
+/** Site-wide hero stats — the ONE standard shown across the site:
+    Sections · Categories · Topics · Articles. Values are global (whole corpus);
+    scoped pages (section/category/topic) compute their own scoped versions but
+    keep the same four labels in the same order. */
+export async function siteStats(locale: Locale): Promise<{
+  sections: number;
+  categories: number;
+  topics: number;
+  articles: number;
+}> {
+  const items = (await articlesForLocale(locale)).filter((a) => a.data.category !== 'about');
+  return {
+    sections: PILLARS.length,
+    categories: new Set(items.map((a) => a.data.category)).size,
+    topics: new Set(items.flatMap((a) => a.data.subcategory)).size,
+    articles: items.length,
+  };
+}
 
 /** Canonical, language-independent key for an article. */
 export function articleKey(a: Article): string {

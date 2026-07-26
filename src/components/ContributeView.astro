@@ -1,7 +1,7 @@
 ---
 import type { Locale } from '@/lib/categories';
 import { CATEGORIES } from '@/lib/categories';
-import { getDashboard } from '@/lib/apidata';
+import { siteStats } from '@/lib/content';
 import { localePath } from '@/lib/i18n';
 import { REPO, CONTACT_FORM_ENDPOINT } from '@/lib/site';
 import PageHero from './PageHero.astro';
@@ -11,7 +11,7 @@ interface Props {
 }
 const { locale } = Astro.props;
 const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
-const d = getDashboard();
+const stats = await siteStats(locale);
 
 // Three ways in, ordered from lowest to highest effort. Each is a numbered step
 // card so a first-time contributor can see the whole menu at a glance.
@@ -61,10 +61,10 @@ const aiPrompt = L(
     'NegaraKu.md 由社区共建，运行于 GitHub。选择你的参与方式。',
   )}
   stats={[
-    { value: d.totals.articles, label: L('artikel', 'articles', '文章') },
-    { value: d.totals.categories, label: L('kategori', 'categories', '分类') },
-    { value: 3, label: L('bahasa', 'languages', '语言') },
-    { value: 'CC BY-SA', label: L('lesen', 'licence', '许可') },
+    { value: stats.sections, label: L('seksyen', 'sections', '版块') },
+    { value: stats.categories, label: L('kategori', 'categories', '分类') },
+    { value: stats.topics, label: L('topik', 'topics', '主题') },
+    { value: stats.articles, label: L('artikel', 'articles', '文章') },
   ]}
 />
 

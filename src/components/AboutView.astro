@@ -1,6 +1,6 @@
 ---
 import type { Locale } from '@/lib/categories';
-import { getDashboard } from '@/lib/apidata';
+import { siteStats } from '@/lib/content';
 import { localePath } from '@/lib/i18n';
 import PageHero from './PageHero.astro';
 
@@ -9,7 +9,7 @@ interface Props {
 }
 const { locale } = Astro.props;
 const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
-const d = getDashboard();
+const stats = await siteStats(locale);
 
 // How the knowledge base actually works — four load-bearing ideas, each a card.
 const pillars = [
@@ -93,10 +93,10 @@ const faqs = [
     '关于马来西亚的开源、AI 友好知识库——经策展、注明来源、可由社区编辑的单一事实来源。',
   )}
   stats={[
-    { value: d.totals.articles, label: L('artikel', 'articles', '文章') },
-    { value: d.totals.categories, label: L('kategori', 'categories', '分类') },
-    { value: 3, label: L('bahasa', 'languages', '语言') },
-    { value: '100%', label: L('dipetik', 'cited', '已引用') },
+    { value: stats.sections, label: L('seksyen', 'sections', '版块') },
+    { value: stats.categories, label: L('kategori', 'categories', '分类') },
+    { value: stats.topics, label: L('topik', 'topics', '主题') },
+    { value: stats.articles, label: L('artikel', 'articles', '文章') },
   ]}
 />
 

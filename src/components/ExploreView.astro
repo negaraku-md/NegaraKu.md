@@ -1,9 +1,8 @@
 ---
 import type { Locale } from '@/lib/categories';
 import { CATEGORIES, getPillar, PILLARS, categoriesInPillar } from '@/lib/categories';
-import { articlesForLocale } from '@/lib/content';
+import { articlesForLocale, siteStats } from '@/lib/content';
 import { localePath } from '@/lib/i18n';
-import { getDashboard } from '@/lib/apidata';
 import PageHero from './PageHero.astro';
 import ArticleCard from './ArticleCard.astro';
 
@@ -12,7 +11,7 @@ interface Props {
 }
 const { locale } = Astro.props;
 const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
-const dash = getDashboard();
+const stats = await siteStats(locale);
 
 const items = await articlesForLocale(locale);
 const counts: Record<string, number> = {};
@@ -20,7 +19,9 @@ for (const a of items) counts[a.data.category] = (counts[a.data.category] ?? 0) 
 
 const nonAbout = items.filter((a) => a.data.category !== 'about');
 const featured = nonAbout.filter((a) => a.data.featured || a.data.status === 'verified').slice(0, 4);
-const catCount = CATEGORIES.filter((c) => c.id !== 'about').length;
+// Only categories that actually have content (matches the site-wide count).
+const contentCats = CATEGORIES.filter((c) => c.id !== 'about' && (counts[c.id] ?? 0) > 0);
+const catCount = stats.categories;
 
 // Per-section rollup — the site's spine (Understand / Living / Business).
 const pillarStats = PILLARS.map((p) => {
@@ -42,10 +43,10 @@ const pillarStats = PILLARS.map((p) => {
     '按版块、分类与主题深入了解马来西亚——三种语言呈现。',
   )}
   stats={[
-    { value: dash.totals.articles, label: L('artikel', 'articles', '文章') },
-    { value: catCount, label: L('kategori', 'categories', '分类') },
-    { value: PILLARS.length, label: L('seksyen', 'sections', '版块') },
-    { value: 3, label: L('bahasa', 'languages', '语言') },
+    { value: stats.sections, label: L('seksyen', 'sections', '版块') },
+    { value: stats.categories, label: L('kategori', 'categories', '分类') },
+    { value: stats.topics, label: L('topik', 'topics', '主题') },
+    { value: stats.articles, label: L('artikel', 'articles', '文章') },
   ]}
 />
 
@@ -80,7 +81,7 @@ const pillarStats = PILLARS.map((p) => {
     </header>
     <div class="psec-body">
       <div class="cat-grid">
-        {CATEGORIES.filter((c) => c.id !== 'about').map((c) => (
+        {contentCats.map((c) => (
           <a class="cat-card" href={localePath(`/${c.id}`, locale)}>
             <span class="ci-row">
               <span class="ci" aria-hidden="true">{c.icon}</span>

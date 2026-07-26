@@ -2,7 +2,7 @@
 import type { Locale } from '@/lib/categories';
 import { getCategory, getPillar, getPillarDef, PILLARS } from '@/lib/categories';
 import { subcatLabel } from '@/lib/subcategories';
-import { allArticles } from '@/lib/content';
+import { allArticles, siteStats } from '@/lib/content';
 import { getDashboard } from '@/lib/apidata';
 import { t, localePath } from '@/lib/i18n';
 import PageHero from './PageHero.astro';
@@ -12,6 +12,7 @@ interface Props {
 }
 const { locale } = Astro.props;
 const d = getDashboard();
+const stats = await siteStats(locale);
 const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 // One pass over the corpus (deduped to one row per topic) drives three views:
@@ -91,10 +92,10 @@ const avgSources = sourced ? (sources / sourced).toFixed(1) : '0';
     'NegaraKu.md 知识库的现状——每次构建时重新计算。',
   )}
   stats={[
-    { value: d.totals.articles, label: L('artikel', 'articles', '文章') },
-    { value: d.totals.files, label: L('fail bahasa', 'language files', '语言文件') },
-    { value: 3, label: L('bahasa', 'languages', '语言') },
-    { value: d.totals.categories, label: L('kategori', 'categories', '分类') },
+    { value: stats.sections, label: L('seksyen', 'sections', '版块') },
+    { value: stats.categories, label: L('kategori', 'categories', '分类') },
+    { value: stats.topics, label: L('topik', 'topics', '主题') },
+    { value: stats.articles, label: L('artikel', 'articles', '文章') },
   ]}
 />
 
