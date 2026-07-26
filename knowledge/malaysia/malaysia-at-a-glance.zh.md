@@ -125,7 +125,7 @@ DOSM的《Compendium of Environment Statistics, 2016》将马来西亚陆地总�
 - **东马来西亚（婆罗洲）的2个州属**：沙巴、砂拉越
 - **3个联邦直辖区**：吉隆坡、纳闽、布城
 
-半岛州属中有九个保留世袭继位的马来统治者（苏丹，或玻璃市的拉惹，或森美兰的最高统治者，即Yang di-Pertuan Besar）；马六甲、槟城、沙巴与砂拉越则由委任产生的Yang di-Pertuan Negeri担任州元首。每五年，统治者会议从九位世袭统治者之中，选出最高元首（Yang di-Pertuan Agong）——联邦国家元首。
+半岛州属中有九个保留世袭继位的马来统治者（苏丹，或玻璃市的拉惹，或森美兰的最高统治者，即Yang di-Pertuan Besar）；马六甲、槟城、沙巴与砂拉越则由委任产生的Yang di-Pertua Negeri担任州元首。每五年，统治者会议从九位世袭统治者之中，选出最高元首（Yang di-Pertuan Agong）——联邦国家元首。
 
 ## 货币：令吉，而非「元」
 

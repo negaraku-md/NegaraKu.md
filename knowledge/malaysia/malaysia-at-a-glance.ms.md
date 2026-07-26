@@ -125,7 +125,7 @@ Putrajaya, sebuah Wilayah Persekutuan yang berasingan sejak 1 Februari 2001, ial
 - **2 negeri di Malaysia Timur (Borneo)**: Sabah, Sarawak
 - **3 wilayah persekutuan**: Kuala Lumpur, Labuan, Putrajaya
 
-Sembilan daripada negeri semenanjung mengekalkan pemerintah Melayu turun-temurun (Sultan, atau Raja di Perlis, atau Yang di-Pertuan Besar di Negeri Sembilan); Melaka, Pulau Pinang, Sabah dan Sarawak pula mempunyai Yang di-Pertuan Negeri lantikan sebagai ketua negeri. Setiap lima tahun, Majlis Raja-Raja memilih Yang di-Pertuan Agong — Ketua Negara persekutuan — daripada kalangan sembilan pemerintah turun-temurun itu.
+Sembilan daripada negeri semenanjung mengekalkan pemerintah Melayu turun-temurun (Sultan, atau Raja di Perlis, atau Yang di-Pertuan Besar di Negeri Sembilan); Melaka, Pulau Pinang, Sabah dan Sarawak pula mempunyai Yang di-Pertua Negeri lantikan sebagai ketua negeri. Setiap lima tahun, Majlis Raja-Raja memilih Yang di-Pertuan Agong — Ketua Negara persekutuan — daripada kalangan sembilan pemerintah turun-temurun itu.
 
 ## Mata wang: ringgit, bukan "dolar"
 

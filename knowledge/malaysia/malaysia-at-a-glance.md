@@ -124,7 +124,7 @@ Malaysia's 13 states and 3 federal territories are set out in Article 1 of the F
 - **2 states in East Malaysia (Borneo)**: Sabah, Sarawak
 - **3 federal territories**: Kuala Lumpur, Labuan, Putrajaya
 
-Nine of the peninsular states retain hereditary Malay rulers (sultans, or a Raja in Perlis, or the Yang di-Pertuan Besar in Negeri Sembilan); Melaka, Penang, Sabah and Sarawak instead have an appointed Yang di-Pertuan Negeri as head of state. Every five years, the Conference of Rulers elects the Yang di-Pertuan Agong — the federal Head of State — from among the nine hereditary rulers.
+Nine of the peninsular states retain hereditary Malay rulers (sultans, or a Raja in Perlis, or the Yang di-Pertuan Besar in Negeri Sembilan); Melaka, Penang, Sabah and Sarawak instead have an appointed Yang di-Pertua Negeri as head of state. Every five years, the Conference of Rulers elects the Yang di-Pertuan Agong — the federal Head of State — from among the nine hereditary rulers.
 
 ## Currency: the ringgit, not the "dollar"
 
