@@ -262,7 +262,7 @@ const REQUEST_INVITE =
     <div class="psec-body">
       <p class="lead">{L('Pada fasa awal, penulisan dan terjemahan adalah secara jemputan untuk melindungi kualiti dan topik sensitif. Begini cara menyertai:', 'In our early phase, authoring and translation are invitation-only to protect quality and sensitive topics. Here’s how to join:', '在早期阶段，撰写与翻译采用邀请制，以保障质量与敏感主题。加入方式如下：')}</p>
       <ol class="steps">
-        <li><b>{L('Mohon jemputan', 'Request an invitation', '申请邀请')}</b><span>{L('Sapa kami di GitHub Discussions — ceritakan bidang kepakaran dan bahasa anda.', 'Say hello in GitHub Discussions — tell us your area of expertise and languages.', '在 GitHub Discussions 打个招呼——告诉我们你的专长与语言。')}</span></li>
+        <li><b>{L('Mohon jemputan', 'Request an invitation', '申请邀请')}</b><span><a class="steplink" href={REQUEST_INVITE} rel="noopener">{L('Sapa kami di GitHub Discussions', 'Say hello in GitHub Discussions', '在 GitHub Discussions 打个招呼')}</a>{L(' — ceritakan bidang kepakaran dan bahasa anda.', ' — tell us your area of expertise and languages.', '——告诉我们你的专长与语言。')}</span></li>
         <li><b>{L('Onboarding', 'Onboarding', '入门引导')}</b><span>{L('Kami semak dan tambah anda sebagai penyumbang, dengan akses menyunting.', 'We review and add you as a contributor, with editing access.', '我们审核并将你加为贡献者，授予编辑权限。')}</span></li>
         <li><b>{L('Latihan penyumbang', 'Contributor training', '贡献者培训')}</b><span>{L('Pelajari piawai kami dan gunakan alat draf berpandukan AI di sebelah.', 'Learn our standard and use the AI-guided drafting tool on the right.', '学习我们的标准，并使用右侧的 AI 引导起草工具。')}</span></li>
         <li><b>{L('Draf → PR → terbit', 'Draft → PR → publish', '起草 → PR → 发布')}</b><span>{L('Tulis dalam Markdown, buka pull request, disemak, kemudian disiarkan tiga bahasa.', 'Write in Markdown, open a pull request, get reviewed, then publish in three languages.', '用 Markdown 撰写，发起 pull request，经审阅后以三语发布。')}</span></li>
@@ -464,6 +464,8 @@ const REQUEST_INVITE =
   .steps { counter-reset: step; }
   .steps b { font-family: var(--font-title); color: var(--ink); }
   .steps span { color: var(--ink-soft); font-size: 0.9rem; line-height: 1.5; }
+  .steplink { color: var(--gold); text-decoration: underline; text-underline-offset: 2px; font-weight: 600; }
+  .steplink:hover { color: var(--gold-600); }
 
   .two { display: grid; grid-template-columns: 1.3fr 1fr; gap: 1.6rem; align-items: start; padding-bottom: 3rem; }
   .side { display: grid; gap: 1.6rem; }
