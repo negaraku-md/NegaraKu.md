@@ -13,9 +13,14 @@ const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const OUT = path.join(ROOT, 'public', 'brand');
 const GOLD = '#FFC000';
 const BADGE_BLACK = '#0A0A0A';
+const BORDER = '#FFFFFF';
 const DARK = '#07070A';
 const INK = '#F4F4F8';
 const FONT = "Montserrat, 'Segoe UI', Arial, sans-serif";
+
+// Badge geometry (512-unit canvas, matches the 1company badge): a white
+// rounded-hexagon outer ring, a transparent gap, then the black hexagon.
+const HEX = { R1: 250, ring: 21, gap: 11, round: 28 }; // R1 outer, ring width, gap
 
 // ── The blossom (favicon geometry, 64-unit space, flower head at 32,28) ──────
 const PETALS = (fill) => `<g fill="${fill}" transform="translate(32 28)">
@@ -48,7 +53,7 @@ function placeBlossom(cx, cy, s, maskId) {
 
 // Pointy-top rounded hexagon, drawn as a stroked polygon so the corners round
 // like the 1company badge. Returns the <polygon> element.
-function hexagon(cx, cy, R, fill, round = 34) {
+function hexagon(cx, cy, R, fill, round = HEX.round) {
   const pts = [];
   for (let i = 0; i < 6; i++) {
     const a = (Math.PI / 180) * (90 + i * 60);
@@ -57,10 +62,21 @@ function hexagon(cx, cy, R, fill, round = 34) {
   return `<polygon points="${pts.join(' ')}" fill="${fill}" stroke="${fill}" stroke-width="${round}" stroke-linejoin="round"/>`;
 }
 
-// ── The badge (primary logo): black hexagon + gold blossom, 512-unit canvas ──
+// The full badge body in a 512-unit space: white ring (with a transparent gap)
+// + black hexagon + gold blossom. uid keeps mask ids unique per SVG document.
+function badgeBody(uid) {
+  const { R1, ring, gap } = HEX;
+  const R2 = R1 - ring; // inner edge of the white ring
+  const R3 = R2 - gap; // black hexagon (transparent gap between it and the ring)
+  return `<mask id="ring-${uid}"><rect width="512" height="512" fill="#000"/>${hexagon(256, 256, R1, '#fff')}${hexagon(256, 256, R2, '#000')}</mask>
+  <rect width="512" height="512" fill="${BORDER}" mask="url(#ring-${uid})"/>
+  ${hexagon(256, 256, R3, BADGE_BLACK)}
+  ${placeBlossom(256, 256, 5.4, `bh-${uid}`)}`;
+}
+
+// ── The badge (primary logo), 512-unit canvas ──
 const badgeSvg = (px) => `<svg xmlns="http://www.w3.org/2000/svg" width="${px}" height="${px}" viewBox="0 0 512 512">
-  ${hexagon(256, 256, 244, BADGE_BLACK)}
-  ${placeBlossom(256, 256, 5.4, 'bh')}
+  ${badgeBody('i')}
 </svg>`;
 
 // Flat mark: the blossom alone (transparent centre), for monochrome / tiny use.
@@ -70,7 +86,7 @@ const markSvg = (px) => `<svg xmlns="http://www.w3.org/2000/svg" width="${px}" h
 const lockupSvg = (w, h, bg) =>
   `<svg xmlns="http://www.w3.org/2000/svg" width="${w}" height="${h}" viewBox="0 0 900 300">
   ${bg ? `<rect width="900" height="300" rx="28" fill="${bg}"/>` : ''}
-  <g transform="translate(16 16) scale(0.52)">${hexagon(256, 256, 244, BADGE_BLACK)}${placeBlossom(256, 256, 5.4, 'bl')}</g>
+  <g transform="translate(16 16) scale(0.52)">${badgeBody('l')}</g>
   <text x="300" y="182" font-family="${FONT}" font-size="90" font-weight="800" fill="${INK}">NegaraKu<tspan fill="${GOLD}">.md</tspan></text>
 </svg>`;
 
