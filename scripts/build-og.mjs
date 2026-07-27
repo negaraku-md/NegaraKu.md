@@ -18,18 +18,25 @@ const titleCase = (id) => id.split('-').map((w) => w.charAt(0).toUpperCase() + w
 const TITLE_FONT = "Montserrat, 'Noto Sans', 'Noto Sans CJK SC', 'Microsoft YaHei', Arial, sans-serif";
 const BODY_FONT = "Lato, 'Noto Sans', 'Noto Sans CJK SC', 'Microsoft YaHei', Arial, sans-serif";
 
-// The NegaraKu.md brand mark — the 5-petal gold blossom (same geometry as
-// public/favicon.svg and the header brand-mark). Centred at (tx,ty), scaled s.
-const flower = (tx, ty, s) => `<g transform="translate(${tx},${ty}) scale(${s})">
-    <g fill="#FFC000">
+// The NegaraKu.md brand mark — the exact geometry from public/favicon.svg: a
+// 5-petal gold blossom with a dark centre + gold pistil, a curved stem and three
+// buds. Drawn in the favicon's 64-unit space with the flower head at (32,28);
+// this helper places that head-centre at (tx,ty) and scales the artwork by s.
+// (Dark centre suits the dark OG canvas, matching the favicon.)
+const flower = (tx, ty, s) => `<g transform="translate(${tx - 32 * s} ${ty - 28 * s}) scale(${s})">
+    <g fill="#FFC000" transform="translate(32 28)">
       <ellipse cx="0" cy="-13" rx="7.6" ry="11.5"/>
       <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(72)"/>
       <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(144)"/>
       <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(216)"/>
       <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(288)"/>
     </g>
-    <circle cx="0" cy="0" r="5.3" fill="#07070A"/>
-    <circle cx="0" cy="0" r="2.4" fill="#FFC000"/>
+    <circle cx="32" cy="28" r="5.3" fill="#07070A"/>
+    <path d="M32 28 C 32 39, 33 47, 35.5 54" stroke="#FFC000" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+    <circle cx="35.6" cy="54.2" r="2.5" fill="#FFC000"/>
+    <circle cx="31" cy="49.5" r="1.9" fill="#FFC000"/>
+    <circle cx="38.4" cy="50.4" r="1.9" fill="#FFC000"/>
+    <circle cx="32" cy="28" r="2.4" fill="#FFC000"/>
   </g>`;
 
 // Wrap a title into lines. Latin wraps by words; CJK (no spaces) wraps by
@@ -83,7 +90,7 @@ function articleSvg({ title, category }) {
   return `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
   <rect width="1200" height="630" fill="#07070A"/>
   <rect x="0" y="0" width="1200" height="8" fill="#FFC000"/>
-  ${flower(108, 88, 0.9)}
+  ${flower(112, 82, 0.82)}
   <text x="150" y="102" font-family="${TITLE_FONT}" font-size="34" font-weight="700" fill="#F4F4F8">NegaraKu<tspan fill="#FFC000">.md</tspan></text>
   <text x="90" y="182" font-family="${BODY_FONT}" font-size="26" font-weight="700" letter-spacing="3" fill="#FFC000">${esc(titleCase(category)).toUpperCase()}</text>
   <text x="90" y="${startY}" font-family="${TITLE_FONT}" font-size="62" font-weight="800" fill="#F4F4F8">${tspans}</text>
@@ -94,7 +101,7 @@ function articleSvg({ title, category }) {
 const defaultSvg = `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
   <rect width="1200" height="630" fill="#07070A"/>
   <rect x="0" y="0" width="1200" height="8" fill="#FFC000"/>
-  ${flower(150, 175, 2.7)}
+  ${flower(150, 155, 2.4)}
   <text x="90" y="400" font-family="${TITLE_FONT}" font-size="96" font-weight="700" fill="#F4F4F8">NegaraKu<tspan fill="#FFC000">.md</tspan></text>
   <text x="92" y="470" font-family="${BODY_FONT}" font-size="38" fill="#C0C0D0">An open-source, AI-friendly knowledge base about Malaysia</text>
   <text x="92" y="560" font-family="${BODY_FONT}" font-size="30" fill="#9A9AB8">Sponsored by <tspan fill="#FFC000" font-weight="700">1company</tspan></text>
