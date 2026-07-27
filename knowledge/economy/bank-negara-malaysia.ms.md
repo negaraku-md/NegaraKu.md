@@ -33,6 +33,7 @@ verificationNeeded:
   - "Nama Gabenor dan tarikh tempoh perkhidmatannya adalah terkini pada tarikh semakan; jawatan ini berubah dan gelaran hormat sengaja digugurkan berbanding dinyatakan tanpa disahkan"
 
 lang: "ms"
+sourceContentHash: "83e47670250a0ac8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

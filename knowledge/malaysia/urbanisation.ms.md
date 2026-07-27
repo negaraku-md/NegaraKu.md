@@ -23,7 +23,7 @@ appliesTo: "Sesiapa yang cuba membaca statistik populasi, buruh atau hartanah Ma
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "0362cd9a8f8b4f6a"
 
 status: "published"
 aiAssisted: true

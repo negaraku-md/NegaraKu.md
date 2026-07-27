@@ -32,6 +32,7 @@ faq:
     a: "Not all. The Election Commission states that those with an incomplete or general address at JPN are not registered automatically because the electoral constituency cannot be determined, and likewise those who are disqualified as voters under the law. The Election Commission cross-checks with JPN, the Malaysian Prisons Department, the Ministry of Health and the Ministry of Foreign Affairs."
 
 lang: "en"
+sourceContentHash: "091a7bd83f753abd"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

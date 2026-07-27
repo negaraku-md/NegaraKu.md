@@ -19,6 +19,7 @@ keyTakeaways:
   - "敦马哈迪医生于2018年5月10日宣誓就任马来西亚第七任首相；旺阿兹莎医生（Dr Wan Azizah Wan Ismail）成为首位出任副首相的女性"
 appliesTo: "希望了解马来西亚在第14届大选中首次联邦政府更迭之有记录事实的读者——包括结果、议席数字与宪制机制——以中立、有据可查的方式陈述，不作党派解读。"
 lang: "zh"
+sourceContentHash: "05640090986fa5b4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

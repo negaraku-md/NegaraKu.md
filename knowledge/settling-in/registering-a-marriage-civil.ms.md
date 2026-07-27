@@ -25,6 +25,7 @@ verificationNeeded:
   - "Jika mana-mana pihak pernah berkahwin sebelum ini, atau merupakan warga asing, sahkan dokumen sokongan khusus (dekri perceraian, sijil kematian, surat status bujang daripada kedutaan anda) yang diperlukan bagi kes anda di kaunter JPN, kerana ini berbeza mengikut keadaan"
 
 lang: "ms"
+sourceContentHash: "6a489eafa5d0a4e4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

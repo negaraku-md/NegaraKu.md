@@ -20,6 +20,7 @@ keyTakeaways:
 appliesTo: "首次获邀出席开放门户者、筹办社区或公司层级开放门户活动的人，以及任何想要了解这项习俗作为马来西亚跨族群社会现象的人。"
 
 lang: "zh"
+sourceContentHash: "849964b901802a27"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

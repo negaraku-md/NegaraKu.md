@@ -21,6 +21,7 @@ keyTakeaways:
 appliesTo: "任何计划在马来西亚结婚的人士——包括马来西亚公民与外国人，无论双方均非穆斯林、双方均为穆斯林，或其中一方为了与穆斯林伴侣结婚而皈依伊斯兰教——需要了解自己的婚姻适用哪套法律制度及哪个机关。"
 
 lang: "zh"
+sourceContentHash: "12e75b9b51367c03"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

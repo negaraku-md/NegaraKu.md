@@ -33,6 +33,7 @@ faq:
     a: "It varies with market prices. The RON95 and diesel subsidy burden was around RM0.7 billion in January 2026 and peaked at RM7.5 billion in April 2026, before being projected at around RM3.5 billion a month in June 2026."
 
 lang: "en"
+sourceContentHash: "4d77f16bdf432b0a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

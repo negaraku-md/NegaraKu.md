@@ -22,7 +22,7 @@ appliesTo: "希望准确解读马来西亚工业统计数据的投资者、求�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "16d11df19af3f6e8"
 
 status: "published"
 aiAssisted: true

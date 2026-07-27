@@ -22,7 +22,7 @@ appliesTo: "马来西亚公民、为子女办理登记的父母，以及任何�
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "7c8af58484cf7ac0"
 
 status: "published"
 aiAssisted: true

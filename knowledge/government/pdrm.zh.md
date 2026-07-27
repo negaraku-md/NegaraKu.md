@@ -36,7 +36,7 @@ faq:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "f2031ab6ed451baf"
 
 status: "published"
 aiAssisted: true

@@ -32,6 +32,7 @@ faq:
     a: "Keluarga Kristian menyambut hari ini secara keagamaan menerusi ibadah gereja. Selain itu, Krismas turut disambut secara lebih meluas dalam kehidupan awam — pusat beli-belah dan hotel memasang hiasan serta menganjurkan jualan bermusim, dan tradisi rumah terbuka yang menjemput tetamu pelbagai latar belakang untuk makan bersama turut menjadi lumrah. Penyertaan dalam aspek sosial dan meriah musim ini tidak terhad kepada penganut Kristian sahaja."
 
 lang: "ms"
+sourceContentHash: "8d5d938998864ca6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

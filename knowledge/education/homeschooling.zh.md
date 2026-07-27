@@ -19,6 +19,7 @@ keyTakeaways:
   - "截至本文撰写之时，2025年中学教育修订已获国会通过，但尚未透过宪报通知正式生效——部长将另行订定该实施日期"
 appliesTo: "考虑为小学或中学年龄孩子安排在家教育的马来西亚家长，以及正在权衡「申请正式豁免」与「非正式不为孩子注册入学」之间取舍的家庭（包括 MM2H 或长期居留的外籍人士家庭）。"
 lang: "zh"
+sourceContentHash: "f9978c9d61a0e0de"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

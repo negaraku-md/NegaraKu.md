@@ -22,6 +22,7 @@ keyTakeaways:
 appliesTo: "Sesiapa yang mahukan teks perlembagaan yang tepat berkenaan agama — pelajar, penyelidik dan pembaca yang sentiasa menemui parafrasa Perkara 3 dan Perkara 11 dan mahukan peruntukan itu sendiri, dipetik daripada cetakan semula rasmi."
 
 lang: "ms"
+sourceContentHash: "e8ee51ffbb017879"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

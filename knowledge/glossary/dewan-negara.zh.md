@@ -26,6 +26,7 @@ verificationNeeded:
   - "联邦宪法的马来文文本为总检察署（Jabatan Peguam Negara）所译。除非且直至根据第160B条宣布马来文本为准确文本，否则英文文本为作准文本。"
 
 lang: "zh"
+sourceContentHash: "bf114efc3f1d5751"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

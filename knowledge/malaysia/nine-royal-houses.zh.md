@@ -38,7 +38,7 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
-sourceContentHash: null
+sourceContentHash: "17824a1e9b085a4f"
 sources:
   - title: "Federal Constitution (Reprint 2020) — Article 3, Article 32, Article 38, Fifth Schedule"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"

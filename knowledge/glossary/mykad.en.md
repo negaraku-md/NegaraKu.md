@@ -22,7 +22,7 @@ appliesTo: "Malaysian citizens, parents handling their children's registration, 
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "7c8af58484cf7ac0"
 
 status: "published"
 aiAssisted: true

@@ -22,6 +22,7 @@ keyTakeaways:
 appliesTo: "任何想了解马来西亚宪制结构的人——学生、研究人员、记者与一般读者——以及任何需要知道哪些条文须经统治者会议同意或谘询的人。"
 
 lang: "zh"
+sourceContentHash: "b582d091b8a771db"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

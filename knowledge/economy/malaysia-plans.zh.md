@@ -23,7 +23,7 @@ appliesTo: "学生、政策分析员、记者，以及任何想了解国家发�
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "ad2718136d4293ed"
 
 status: "published"
 aiAssisted: true

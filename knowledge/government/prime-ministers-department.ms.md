@@ -25,7 +25,7 @@ appliesTo: "Sesiapa yang cuba memahami apa sebenarnya Jabatan Perdana Menteri, s
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "e406cee4d2aa12d6"
 
 status: "published"
 aiAssisted: true

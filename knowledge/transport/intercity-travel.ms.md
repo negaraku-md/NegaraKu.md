@@ -34,6 +34,7 @@ verificationNeeded:
   - "Sahkan bilangan laluan Rural Air Service semasa AirBorneo dan senarai lapangan terbangnya terus dengan AirBorneo atau CAAM, memandangkan laman RAS awam MAVCOM tidak membawa butiran peringkat laluan pada masa penulisan ini dan program itu baru sahaja bertukar pengendali."
 
 lang: "ms"
+sourceContentHash: "a8248270057070e4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -23,6 +23,7 @@ appliesTo: "Penganalisis, wartawan, pelajar, pelabur dan pengendali yang perlu m
 seoTitle: "Statistik Pelancongan Malaysia: Ketibaan lawan Perolehan"
 
 lang: "ms"
+sourceContentHash: "272e6d798eec0f81"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

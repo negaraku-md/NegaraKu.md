@@ -36,6 +36,7 @@ verificationNeeded:
   - "如需精确引述，应就条文与附表的编号核实联邦宪法全文（2020年重印本，AGC）。"
 
 lang: "zh"
+sourceContentHash: "0441017d6712ffd2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

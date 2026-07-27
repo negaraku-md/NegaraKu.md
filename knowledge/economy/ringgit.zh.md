@@ -22,7 +22,7 @@ appliesTo: "任何受汇率影响的人——进口商、出口商、旅客、�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "5c03f2bbac4e0dca"
 
 status: "published"
 aiAssisted: true

@@ -20,6 +20,7 @@ keyTakeaways:
 appliesTo: "任何想了解「merdeka」一词真正含义与来源，而不仅仅是1957年那个日期或仪式的人。"
 
 lang: "zh"
+sourceContentHash: "1e44b294fa95f470"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

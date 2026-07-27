@@ -18,6 +18,7 @@ keyTakeaways:
   - "Kebaya, yang menjadi tunjang pakaian Nyonya, disenaraikan dalam senarai warisan tidak ketara UNESCO pada 2024 melalui pencalonan bersama oleh Brunei, Indonesia, Malaysia, Singapura dan Thailand"
 appliesTo: "Sesiapa yang ingin mendapatkan gambaran yang tepat dan penuh hormat tentang siapa Peranakan (Baba-Nyonya), dan cara mengenali masakan, pakaian dan warisan kebendaan mereka di Melaka dan Pulau Pinang."
 lang: "ms"
+sourceContentHash: "7e3f2a7e8d2a3952"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

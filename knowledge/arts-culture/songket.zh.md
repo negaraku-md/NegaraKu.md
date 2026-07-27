@@ -33,6 +33,7 @@ faq:
     a: "传统上是女性。UNESCO 记载，songket 织造工作向来掌握在女性手中，男性则通过制作织造器具来参与这项技艺。相关知识在家族与村落中世代相传，部分机构也提供培训课程。"
 
 lang: "zh"
+sourceContentHash: "054643f8240fb22d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"

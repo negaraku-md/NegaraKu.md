@@ -23,6 +23,7 @@ keyTakeaways:
 appliesTo: "Pelajar dan penyelidik undang-undang yang cuba memetakan sistem perundangan Malaysia buat kali pertama, sesiapa yang cuba mengenal pasti badan undang-undang mana yang mentadbir sesuatu soalan tertentu, dan pembaca yang sentiasa melihat 'negara common law' dan 'undang-undang Islam' dan 'adat' digunakan bersebelahan tanpa diberitahu bagaimana sebenarnya ia saling berkait."
 
 lang: "ms"
+sourceContentHash: "c7494d1451cf3c01"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

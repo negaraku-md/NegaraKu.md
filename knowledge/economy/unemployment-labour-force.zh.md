@@ -22,7 +22,7 @@ appliesTo: "任何需要解读马来西亚劳动市场数据的人——求职�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "f1bb9140bdec9bd9"
 
 status: "published"
 aiAssisted: true

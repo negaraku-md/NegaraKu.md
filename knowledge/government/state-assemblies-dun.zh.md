@@ -26,7 +26,7 @@ appliesTo: "任何需要以描述性方式理解州立法议会依宪法如何�
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "2a25e82c7f7bc759"
 
 status: "published"
 aiAssisted: true

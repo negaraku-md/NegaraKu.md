@@ -47,7 +47,7 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
-sourceContentHash: null
+sourceContentHash: "64154177fed7979b"
 sources:
   - title: "Federal Constitution — Article 152 (National language)"
     url: "https://lom.agc.gov.my/federal-constitution.php"

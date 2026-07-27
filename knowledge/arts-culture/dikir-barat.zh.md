@@ -20,7 +20,7 @@ appliesTo: "任何想了解 Dikir Barat 的演出形式、Tukang Karut 与 Tok J
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "8d1b65f59cb7dafe"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

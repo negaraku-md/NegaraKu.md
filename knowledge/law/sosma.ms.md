@@ -26,7 +26,7 @@ appliesTo: "Pembaca yang memerlukan huraian yang neutral dan tekstual tentang ap
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "5efba628053a2449"
 
 status: "published"
 aiAssisted: true

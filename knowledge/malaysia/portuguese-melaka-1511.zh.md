@@ -19,6 +19,7 @@ keyTakeaways:
   - "马六甲苏丹国的世系于1528年在Johor Lama恢复统治，该王朝延续至1699年"
 appliesTo: "希望了解1511年马六甲陷落背后技术与政治原因，以及马六甲的体制与王室世系在城市失陷后如何延续下去的读者。"
 lang: "zh"
+sourceContentHash: "b8ff8e81366e5986"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"

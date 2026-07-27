@@ -23,7 +23,7 @@ appliesTo: "任何在马来西亚阅读法律文件、新闻或法庭诉讼，�
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "1a30b6920b746dad"
 
 status: "published"
 aiAssisted: true

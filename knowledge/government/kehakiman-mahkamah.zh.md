@@ -40,6 +40,7 @@ verificationNeeded:
   - "请核实由 P.U. (A) 163/2009、P.U. (A) 164/2009 及 P.U. (A) 384/2006 所设定的法官人数上限，是否已被最高元首后续的命令所取代。"
 
 lang: "zh"
+sourceContentHash: "4d0744d3b1bfbe91"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

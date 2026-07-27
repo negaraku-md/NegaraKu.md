@@ -69,7 +69,7 @@ relations:
   - { rel: "affects", to: "johor" }
 related: ["kelantan", "terengganu", "pahang", "johor"]
 keywords: ["monsun Malaysia", "monsun timur laut", "monsun barat daya", "musim tengkujuh", "banjir pantai timur", "MetMalaysia", "banjir Semenanjung Malaysia", "fasa peralihan monsun"]
-sourceContentHash: null
+sourceContentHash: "426f1ac89e116265"
 ---
 
 Every November, before checking the news, many residents of Kota Bharu, Kuala Terengganu and Kuantan start checking the water levels of rivers near their homes. This is not a habit born of unexpected disaster — it is a predictable schedule that repeats every year, and its cause is the same seasonal wind system that also determines when the west coast of the Peninsula turns dry.

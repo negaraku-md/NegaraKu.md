@@ -33,6 +33,7 @@ faq:
     a: "这随市场价格而变动。RON95与柴油的补贴负担在2026年1月约为RM0.7 billion，并在2026年4月冲上RM7.5 billion的高峰，随后预计在2026年6月降至每月约RM3.5 billion。"
 
 lang: "zh"
+sourceContentHash: "4d77f16bdf432b0a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

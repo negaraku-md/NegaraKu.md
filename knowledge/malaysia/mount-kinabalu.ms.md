@@ -18,6 +18,7 @@ keyTakeaways:
   - "Ia digambarkan oleh badan penasihat UNESCO sebagai gunung tertinggi antara Himalaya dan New Guinea, dan menempatkan anggaran 5,000-6,000 spesies tumbuhan vaskular termasuk kira-kira 1,000 spesies orkid"
 appliesTo: "Pembaca yang mahukan ketinggian yang disahkan dan status kawasan perlindungan Gunung Kinabalu, serta penjelasan mudah mengapa sebuah gunung granit di Sabah dari segi geologi begitu muda."
 lang: "ms"
+sourceContentHash: "9898433b2f4e9aa1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

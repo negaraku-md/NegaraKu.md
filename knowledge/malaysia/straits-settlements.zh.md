@@ -29,6 +29,7 @@ faq:
   - q: "海峡殖民地最终的结局如何？"
     a: "它于1946年4月1日解体。槟城与马六甲连同马来联邦与非联邦马来属邦，一并并入马来亚联邦（Malayan Union），而新加坡则被划出，成为自身独立的一个直辖殖民地。"
 lang: "zh"
+sourceContentHash: "9cb8a0574c93b0cb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

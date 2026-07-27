@@ -34,6 +34,7 @@ seoTitle: "Bumiputera: What the Term Means and Its Constitutional Basis"
 socialTitle: "Bumiputera — a term not found in the Constitution, yet rooted in Articles 153, 160 and 161A"
 
 lang: "en"
+sourceContentHash: "924aa904a876b274"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"

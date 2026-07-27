@@ -22,7 +22,7 @@ appliesTo: "学生、教师、公务员，以及任何需要根据档案记录�
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "df41bd237a0646a3"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

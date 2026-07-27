@@ -23,6 +23,7 @@ appliesTo: "需要正确解读马来西亚旅游统计数据、而非只是引�
 seoTitle: "马来西亚旅游统计数据：入境人次与收入的对比"
 
 lang: "zh"
+sourceContentHash: "272e6d798eec0f81"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

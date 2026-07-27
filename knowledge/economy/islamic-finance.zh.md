@@ -24,7 +24,7 @@ appliesTo: "需要理解其运作机制而非宣传说法的人——学生、�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "baeef20a51fe9ad2"
 
 status: "published"
 aiAssisted: true

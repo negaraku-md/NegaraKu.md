@@ -26,7 +26,7 @@ appliesTo: "需要以中立、按文本方式了解 SOSMA 是什么、提供哪�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "5efba628053a2449"
 
 status: "published"
 aiAssisted: true

@@ -23,7 +23,7 @@ appliesTo: "任何需要正确解读马来西亚人口、劳动力或房地产�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "0362cd9a8f8b4f6a"
 
 status: "published"
 aiAssisted: true

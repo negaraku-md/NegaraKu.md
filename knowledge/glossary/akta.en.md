@@ -21,7 +21,7 @@ appliesTo: "Anyone reading or citing Malaysian law — lawyers, students, busine
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "fcd52a1ed198449a"
 
 status: "published"
 aiAssisted: true

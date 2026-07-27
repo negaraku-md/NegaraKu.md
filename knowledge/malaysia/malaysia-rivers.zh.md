@@ -21,7 +21,7 @@ appliesTo: "马来西亚地理与历史的学习者，以及任何想了解为�
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "c0dca023c22caa3e"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

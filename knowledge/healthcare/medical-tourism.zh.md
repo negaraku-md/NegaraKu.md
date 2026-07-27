@@ -31,6 +31,7 @@ faq:
     a: "卫生部为私立医疗机构发牌，马来西亚医药理事会（Malaysian Medical Council）负责医生的注册与纪律处分。许多医院也自愿取得马来西亚医疗品质协会（MSQH）或Joint Commission International（JCI）的认证。MHTC并不在这一监管链条之内。"
 
 lang: "zh"
+sourceContentHash: "f3db9e92168dd3e0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

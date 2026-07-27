@@ -19,6 +19,7 @@ keyTakeaways:
 appliesTo: "投资者、求职者、投标承接工作的供应商，以及任何阅读马来西亚商业报道的人。"
 
 lang: "zh"
+sourceContentHash: "9155b753e9fc9969"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

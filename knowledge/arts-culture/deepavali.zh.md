@@ -30,6 +30,7 @@ faq:
     a: "这些灯——常被称为 diya 的小型陶土或金属灯——是「光明节」的视觉核心。一排排的灯在门口与窗边点亮，呼应了节日名称「一排灯火」的含义。"
 
 lang: "zh"
+sourceContentHash: "6b34554bb6701b65"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

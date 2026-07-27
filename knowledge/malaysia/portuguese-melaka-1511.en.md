@@ -19,6 +19,7 @@ keyTakeaways:
   - "The Melaka Sultanate's lineage resumed rule at Johor Lama in 1528, and that dynasty lasted until 1699"
 appliesTo: "Readers who want to understand the technical and political reasons behind the fall of Melaka in 1511, and what happened to Melaka's institutions and royal lineage after the city was lost."
 lang: "en"
+sourceContentHash: "b8ff8e81366e5986"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"

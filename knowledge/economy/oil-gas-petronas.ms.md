@@ -24,7 +24,7 @@ appliesTo: "Sesiapa yang cuba memahami asas undang-undang sektor minyak dan gas 
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "b1f34add97a933d2"
 
 status: "published"
 aiAssisted: true

@@ -26,6 +26,7 @@ verificationNeeded:
   - "健康诊所、社区诊所与乡村诊所（Klinik Desa）在人员编制及确切治疗范围上的详细差异，在撰写本文期间无法于KKM官方来源完全查证；本文仅说明三者为各自独立的设施。"
 
 lang: "zh"
+sourceContentHash: "a763d53f069e94c3"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

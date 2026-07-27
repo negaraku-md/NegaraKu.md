@@ -22,6 +22,7 @@ keyTakeaways:
 appliesTo: "任何想要查阅宪法有关宗教之确切文本的人——包括不断接触到第3条和第11条各种转述、而想要查阅官方重印本所引述之条文本身的学生、研究人员及读者。"
 
 lang: "zh"
+sourceContentHash: "e8ee51ffbb017879"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -43,7 +43,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "085f4ab04fb9874b"
 
 status: "published"
 aiAssisted: true

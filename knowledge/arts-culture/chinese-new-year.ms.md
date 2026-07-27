@@ -33,7 +33,7 @@ faq:
 lang: "ms"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "d2c30470773fa9b0"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

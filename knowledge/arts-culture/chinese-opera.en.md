@@ -21,7 +21,7 @@ appliesTo: "Anyone who wants to understand the types of traditional Chinese oper
 lang: "en"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "13b9c7f4fc9cc94d"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

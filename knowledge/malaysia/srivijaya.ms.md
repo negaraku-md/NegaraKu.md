@@ -19,7 +19,7 @@ appliesTo: "Pembaca yang ingin memahami apa yang menguasai Selat Melaka sebelum 
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "94d98d5fab6f032c"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

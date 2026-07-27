@@ -21,6 +21,7 @@ keyTakeaways:
 appliesTo: "Owners and drivers of motor vehicles in Malaysia — cars, motorcycles and commercial vehicles — who want to understand the types of insurance cover and the legal requirements."
 
 lang: "en"
+sourceContentHash: "d879ba5dcb3bf1ff"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

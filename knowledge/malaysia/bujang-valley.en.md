@@ -21,7 +21,7 @@ appliesTo: "Anyone who wants to understand the origins of early civilisation on 
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "e95214b94dacf363"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

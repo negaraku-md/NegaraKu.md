@@ -33,6 +33,7 @@ faq:
     a: "Traditionally, women. UNESCO records that songket weaving has always been in the hands of women, while men take part in the practice by making the weaving equipment. The knowledge is passed down within families and villages, and some institutions also offer training programmes."
 
 lang: "en"
+sourceContentHash: "054643f8240fb22d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"

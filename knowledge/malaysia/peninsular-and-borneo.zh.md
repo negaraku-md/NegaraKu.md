@@ -22,7 +22,7 @@ appliesTo: "旅客、企业，以及任何想要理解为什么「马来西亚�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "01bae788fa6e7ab5"
 
 status: "published"
 aiAssisted: true

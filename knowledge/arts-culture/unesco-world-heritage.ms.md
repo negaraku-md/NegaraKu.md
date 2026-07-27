@@ -30,6 +30,7 @@ faq:
     a: "Ya. Pusat Warisan Dunia merekodkan tiga harta dalam Senarai Tentatif Malaysia: Taman Negara Semenanjung Malaysia, Rabung Kuarza Gombak Selangor, dan Leprosarium Sungai Buloh. Penyenaraian tentatif ialah pengisytiharan niat untuk mencalonkan, bukan satu penyenaraian rasmi."
 
 lang: "ms"
+sourceContentHash: "7fe92881566b7c6a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

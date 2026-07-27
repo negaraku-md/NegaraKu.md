@@ -21,6 +21,7 @@ keyTakeaways:
 appliesTo: "Sesiapa yang merancang untuk berkahwin di Malaysia — warganegara Malaysia dan warga asing, sama ada kedua-dua pihak bukan Islam, kedua-duanya Islam, atau salah satu pihak memeluk Islam untuk berkahwin dengan pasangan Muslim — yang perlu tahu sistem undang-undang dan pihak berkuasa mana yang terpakai kepada perkahwinan mereka."
 
 lang: "ms"
+sourceContentHash: "12e75b9b51367c03"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

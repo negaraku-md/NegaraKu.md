@@ -22,6 +22,7 @@ keyTakeaways:
 appliesTo: "Anyone who wants to understand Malaysia's constitutional structure — students, researchers, journalists and general readers — as well as anyone who needs to know which provisions require the consent or consultation of the Conference of Rulers."
 
 lang: "en"
+sourceContentHash: "b582d091b8a771db"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

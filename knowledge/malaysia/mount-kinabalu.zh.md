@@ -18,6 +18,7 @@ keyTakeaways:
   - "UNESCO的咨询机构将其形容为喜马拉雅山与新几内亚之间最高的山峰，公园内估计有5,000至6,000种维管植物，其中包括约1,000种兰花"
 appliesTo: "希望了解京那巴鲁山经核实的高度与保护区地位，以及为何沙巴的一座花岗岩山从地质学角度如此年轻的简明解释的读者。"
 lang: "zh"
+sourceContentHash: "9898433b2f4e9aa1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

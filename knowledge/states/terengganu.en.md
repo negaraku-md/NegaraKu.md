@@ -53,7 +53,7 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
-sourceContentHash: "7dcf93e5e2fb779e"
+sourceContentHash: "f54c1b99fa5a02e8"
 
 sources:
   - title: "Jadual KDNK Negeri Mengikut Sektor Ekonomi (harga malar 2015)"

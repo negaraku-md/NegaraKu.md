@@ -20,6 +20,7 @@ keyTakeaways:
 appliesTo: "佳节期间的大道使用者、行程与假期规划者、零售与交通业者，以及任何想了解马来西亚人口流动模式的人。"
 
 lang: "zh"
+sourceContentHash: "beaafd533f8ef25b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

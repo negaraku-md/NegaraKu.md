@@ -23,7 +23,7 @@ appliesTo: "任何需要确认某项大马移民文件——护照、签证、�
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "baf28f912e1a7295"
 
 status: "published"
 aiAssisted: true

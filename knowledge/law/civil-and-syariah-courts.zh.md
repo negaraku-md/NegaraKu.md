@@ -42,7 +42,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "871806c1d22f2076"
 
 status: "published"
 aiAssisted: true

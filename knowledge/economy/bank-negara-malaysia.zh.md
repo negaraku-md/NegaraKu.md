@@ -33,6 +33,7 @@ verificationNeeded:
   - "总裁姓名与任期日期截至审阅日期为准；该职位会更替，且敬称乃刻意略去，而非以未经核实的方式陈述"
 
 lang: "zh"
+sourceContentHash: "83e47670250a0ac8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

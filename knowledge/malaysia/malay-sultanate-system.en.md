@@ -20,7 +20,7 @@ appliesTo: "Anyone who wants to understand the structure and role of the traditi
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "95bf275cb438d0b7"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

@@ -20,7 +20,7 @@ appliesTo: "适合想要一份浅白且经过查证的说明，了解蒂蒂旺�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "bcde806a5d89c349"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

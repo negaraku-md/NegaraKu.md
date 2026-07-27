@@ -38,6 +38,7 @@ faq:
     a: "在第一审阶段并非如此。雇佣索偿是在其各自成文法所设立的论坛（forums）中展开，而非在地庭或推事庭；而消费者索偿仲裁庭（Tribunal for Consumer Claims）则是根据 Consumer Protection Act 1999 第85条（section 85）设立的。这些裁决日后或可通过上诉或司法审查（judicial review）提交至高庭，但其起始点并非本层级中的法院。"
 
 lang: "zh"
+sourceContentHash: "ca7a87cddc904473"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

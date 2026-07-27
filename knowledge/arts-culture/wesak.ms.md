@@ -20,7 +20,7 @@ appliesTo: "Sesiapa sahaja di Malaysia — sama ada Buddha atau tidak — yang i
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "f561fd8e12ce27dd"
 
 status: "published"
 aiAssisted: true

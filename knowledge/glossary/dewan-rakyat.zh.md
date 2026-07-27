@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "9b43f0c692cc687d"
 
 status: "published"
 aiAssisted: true

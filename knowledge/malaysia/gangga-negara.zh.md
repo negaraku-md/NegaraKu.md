@@ -19,7 +19,7 @@ appliesTo: "曾在历史课或社交媒体上听过 Gangga Negara 这个名字�
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "4947488c0b12f663"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

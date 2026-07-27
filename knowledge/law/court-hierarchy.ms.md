@@ -38,6 +38,7 @@ faq:
     a: "Tidak pada peringkat pertama. Tuntutan pekerjaan bermula di forum yang diwujudkan oleh statut masing-masing dan bukan di Mahkamah Sesyen atau Mahkamah Majistret, manakala Tribunal Tuntutan Pengguna (Tribunal for Consumer Claims) diwujudkan di bawah seksyen 85 Consumer Protection Act 1999. Keputusan-keputusan tersebut mungkin kemudiannya sampai ke Mahkamah Tinggi melalui rayuan atau semakan kehakiman (judicial review), tetapi titik permulaannya bukanlah mahkamah dalam hierarki ini."
 
 lang: "ms"
+sourceContentHash: "ca7a87cddc904473"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

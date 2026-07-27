@@ -22,6 +22,7 @@ keyTakeaways:
 appliesTo: "Students, teachers, civil servants, journalists and anyone who sees the Jata Negara on a passport, coin, government letter or official building and wants to know the meaning of each element."
 
 lang: "en"
+sourceContentHash: "03282fb92a487e2e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

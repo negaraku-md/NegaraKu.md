@@ -31,6 +31,7 @@ faq:
     a: "Kementerian Kesihatan memberi lesen kepada kemudahan penjagaan kesihatan swasta dan Majlis Perubatan Malaysia mendaftar serta mendisiplinkan doktor. Banyak hospital juga memegang akreditasi sukarela daripada Malaysian Society for Quality in Health (MSQH) atau Joint Commission International (JCI). MHTC berada di luar rantaian kawal selia itu."
 
 lang: "ms"
+sourceContentHash: "f3db9e92168dd3e0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

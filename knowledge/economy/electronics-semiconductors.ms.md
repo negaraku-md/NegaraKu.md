@@ -22,7 +22,7 @@ appliesTo: "Sesiapa yang menilai pendedahan ekonomi Malaysia — pelabur, pencar
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "f587a0bc65cbc1af"
 
 status: "published"
 aiAssisted: true

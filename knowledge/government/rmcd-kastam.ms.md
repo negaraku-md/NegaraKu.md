@@ -38,7 +38,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "e8cda8bbe6ecdbc9"
 
 status: "published"
 aiAssisted: true

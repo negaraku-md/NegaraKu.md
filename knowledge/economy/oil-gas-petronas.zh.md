@@ -24,7 +24,7 @@ appliesTo: "任何试图理解马来西亚油气行业法律基础、联邦财�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "b1f34add97a933d2"
 
 status: "published"
 aiAssisted: true

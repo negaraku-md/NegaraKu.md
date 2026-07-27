@@ -22,7 +22,7 @@ appliesTo: "想了解「kampung」字面意义以外含义的人——包括研�
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "1dc194cfebb6f43b"
 
 status: "published"
 aiAssisted: true

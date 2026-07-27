@@ -20,7 +20,7 @@ appliesTo: "Sesuai untuk pembaca yang mahukan penjelasan yang jelas dan disahkan
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "bcde806a5d89c349"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

@@ -59,9 +59,13 @@ const fmValue = (raw, key) => {
 
 const setFm = (raw, key, value) => {
   const line = `${key}: "${value}"`;
-  return new RegExp(`^${key}:.*$`, 'm').test(raw)
-    ? raw.replace(new RegExp(`^${key}:.*$`, 'm'), line)
-    : raw;
+  if (new RegExp(`^${key}:.*$`, 'm').test(raw)) {
+    return raw.replace(new RegExp(`^${key}:.*$`, 'm'), line);
+  }
+  // Key absent (older translations predate the field): insert it after `lang:`,
+  // which every translation carries. Without this the field could never be
+  // written, so the translation would read stale forever.
+  return raw.replace(/^(lang:.*)$/m, `$1\n${line}`);
 };
 
 const files = [];

@@ -27,6 +27,7 @@ faq:
   - q: "Was Konfrontasi a declared war?"
     a: "No. It was armed hostility that was never formally declared a war. It was conducted mainly through cross-border raids, infiltration and limited attacks, rather than through a formal declaration of war between the two countries."
 lang: "en"
+sourceContentHash: "08c14e8e17f8ad68"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"

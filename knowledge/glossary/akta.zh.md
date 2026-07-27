@@ -21,7 +21,7 @@ appliesTo: "任何阅读或引用马来西亚法律的人——律师、学生�
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "fcd52a1ed198449a"
 
 status: "published"
 aiAssisted: true

@@ -36,6 +36,7 @@ verificationNeeded:
   - "投票日的具体程序细节（提名时间、竞选期、候选人按金）受 Akta Pilihan Raya 1958 及 Peraturan-Peraturan Pilihan Raya (Perjalanan Pilihan Raya) 1981 管辖，这些法规可能不时修订。在依赖这些数字之前，请对照法规文本及选举委员会在 spr.gov.my 发布的官方公告，核实现行的时间与按金金额。"
 
 lang: "zh"
+sourceContentHash: "d5825383db9e28fe"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -25,6 +25,7 @@ verificationNeeded:
   - "若任何一方曾经结过婚，或属外国籍人士，请在 JPN 柜台确认你个案所需的具体佐证文件（离婚判令、死亡证明书、来自你所属大使馆的单身状况证明信），因为这会依个别情况而有所不同。"
 
 lang: "zh"
+sourceContentHash: "6a489eafa5d0a4e4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

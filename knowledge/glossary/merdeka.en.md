@@ -20,6 +20,7 @@ keyTakeaways:
 appliesTo: "Anyone who wants to understand the true meaning and origin of the word 'merdeka', not just the date or ceremony of 1957."
 
 lang: "en"
+sourceContentHash: "1e44b294fa95f470"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

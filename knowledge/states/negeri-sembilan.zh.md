@@ -40,7 +40,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "3f7d232abdcb3adc"
+sourceContentHash: "41ba175b1dc7814a"
 
 status: "published"
 aiAssisted: true

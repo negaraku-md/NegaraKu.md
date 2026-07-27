@@ -22,6 +22,7 @@ keyTakeaways:
 appliesTo: "学生、教师、公务员、新闻工作者，以及任何在护照、硬币、政府公函或官方建筑上见过 Jata Negara、并想了解每个元素含义的人。"
 
 lang: "zh"
+sourceContentHash: "03282fb92a487e2e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

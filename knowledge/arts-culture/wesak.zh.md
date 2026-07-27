@@ -20,7 +20,7 @@ appliesTo: "适用于马来西亚境内任何人——无论是否佛教徒—�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "f561fd8e12ce27dd"
 
 status: "published"
 aiAssisted: true

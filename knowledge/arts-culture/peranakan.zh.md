@@ -18,6 +18,7 @@ keyTakeaways:
   - "作为娘惹服饰核心的卡峇雅（kebaya），于2024年由文莱、印尼、马来西亚、新加坡与泰国联合申报，列入 UNESCO 非物质文化遗产名录"
 appliesTo: "适合任何想要客观、得体地了解土生华人（峇峇娘惹）是谁，以及如何在马六甲与槟城辨识其菜肴、服饰与物质文化遗产的人。"
 lang: "zh"
+sourceContentHash: "7e3f2a7e8d2a3952"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

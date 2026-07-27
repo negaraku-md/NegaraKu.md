@@ -36,6 +36,7 @@ verificationNeeded:
   - "Verify the Article and section numbers against the full text of the Federal Constitution (Reprint 2020, AGC) if an exact quotation is required."
 
 lang: "en"
+sourceContentHash: "0441017d6712ffd2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

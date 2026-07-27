@@ -32,6 +32,7 @@ seoTitle: "Malaysian Chinese Dialects: Hokkien, Cantonese, Hakka by Region"
 socialTitle: "Same Chinese, So Why Different Tongues? Malaysia's Dialect Map"
 
 lang: "en"
+sourceContentHash: "c773c2be8c4e6544"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"

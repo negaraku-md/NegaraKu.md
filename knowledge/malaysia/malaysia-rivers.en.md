@@ -21,7 +21,7 @@ appliesTo: "Students of Malaysian geography and history, and anyone who wants to
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "c0dca023c22caa3e"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

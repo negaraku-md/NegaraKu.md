@@ -44,7 +44,7 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
-sourceContentHash: null
+sourceContentHash: "e7c621af9be2484a"
 sources:
   - title: "Agreement relating to the separation of Singapore from Malaysia as an independent and sovereign State (Independence of Singapore Agreement, 1965), UNTS Vol. 563, No. 8206"
     url: "https://treaties.un.org/doc/Publication/UNTS/Volume%20563/volume-563-I-8206-English.pdf"

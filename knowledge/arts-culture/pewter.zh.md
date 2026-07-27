@@ -31,7 +31,7 @@ revisions:
     reviewer: null
 sensitivity: "none"
 updated: "2026-07-24"
-sourceContentHash: null
+sourceContentHash: "ab235dfd3f4f5c67"
 sources:
   - title: "About Pewter"
     url: "https://www.royalselangor.com/intl/about-pewter"

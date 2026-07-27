@@ -19,7 +19,7 @@ appliesTo: "Readers who have heard the name Gangga Negara in history lessons or 
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "4947488c0b12f663"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

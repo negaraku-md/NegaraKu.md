@@ -34,7 +34,7 @@ socialTitle: "Bagaimana bahasa Tamil dituturkan, diajar dan dilindungi di Malays
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "c45b4b0470d4ef3d"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

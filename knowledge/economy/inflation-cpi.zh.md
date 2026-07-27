@@ -22,7 +22,7 @@ appliesTo: "任何想准确解读马来西亚通胀报道的人——家庭、�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "32de1367e3faaa19"
 
 status: "published"
 aiAssisted: true

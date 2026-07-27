@@ -35,6 +35,7 @@ faq:
     a: "Kedua-duanya perayaan berasingan dengan tema yang sama. Gawai Dayak ialah perayaan menuai kaum Dayak di Sarawak, disambut pada 1 dan 2 Jun. Kaamatan pula ialah perayaan menuai kaum Kadazandusun di Sabah, disambut pada 30 dan 31 Mei. Kedua-duanya bersyukur atas hasil tuaian padi, tetapi kaum, ritual dan tarikhnya berbeza."
 
 lang: "ms"
+sourceContentHash: "b3e3dd334b3d42b1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

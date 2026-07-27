@@ -27,6 +27,7 @@ faq:
   - q: "Konfrontasi是一场正式宣战的战争吗？"
     a: "不是。这是一场从未被正式宣布为战争的武装敌对行动。它主要通过跨境突袭、渗透与有限度的攻击进行，而非通过两国之间的正式宣战。"
 lang: "zh"
+sourceContentHash: "08c14e8e17f8ad68"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"

@@ -32,6 +32,7 @@ faq:
     a: "并非全部。SPR表示，在JPN地址不完整或过于笼统者不会被自动登记，因为无法确定其选区；依法丧失选民资格者亦然。SPR会与JPN、大马监狱局、卫生部及外交部进行交叉核对。"
 
 lang: "zh"
+sourceContentHash: "091a7bd83f753abd"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

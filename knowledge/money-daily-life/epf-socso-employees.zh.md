@@ -24,6 +24,7 @@ verificationNeeded:
   - "本文撰写期间，kwsp.gov.my 官方网站阻挡了自动化访问（403）。文中引用的 KWSP 缴纳金率（雇员 11%；雇主按薪金级距为 13%／12%）是透过能直接摘录 kwsp.gov.my 原文内容的搜索结果确认的，并与本站同样引用 kwsp.gov.my 的 epf-employer-guide 一文数据一致。请在该网站可访问时，直接到 kwsp.gov.my/en/epf-act-1991-third-schedule 重新核实。"
 
 lang: "zh"
+sourceContentHash: "91cbd7d0dece19b9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

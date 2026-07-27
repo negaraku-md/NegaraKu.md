@@ -23,7 +23,7 @@ appliesTo: "Sesiapa yang memerlukan gambaran peringkat orientasi, bersumber, ten
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "0020c8d13fc47636"
 
 status: "published"
 aiAssisted: true

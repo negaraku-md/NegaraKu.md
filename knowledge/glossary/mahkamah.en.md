@@ -23,7 +23,7 @@ appliesTo: "Anyone reading legal documents, news or court proceedings in Malaysi
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "1a30b6920b746dad"
 
 status: "published"
 aiAssisted: true

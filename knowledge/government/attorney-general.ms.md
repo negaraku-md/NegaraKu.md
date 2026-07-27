@@ -25,7 +25,7 @@ appliesTo: "Pelajar, penyelidik, wartawan dan sesiapa sahaja yang ingin memahami
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "a1692e46a03751a8"
 
 status: "published"
 aiAssisted: true

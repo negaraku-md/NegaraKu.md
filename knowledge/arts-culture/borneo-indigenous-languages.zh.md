@@ -34,6 +34,7 @@ faq:
     a: "是的，部分语言依据教育部的学生母语（Pupil's Own Language，POL）计划教授，通常作为选修科目。卡达山杜顺语自1997年开始的试点计划以来，一直在沙巴政府学校中教授，伊班语则在砂拉越学校中教授。是否开课取决于需求，以及是否符合政策规定的最低班级人数。"
 
 lang: "zh"
+sourceContentHash: "641d60c83d47ef35"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

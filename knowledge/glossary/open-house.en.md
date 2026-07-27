@@ -20,6 +20,7 @@ keyTakeaways:
 appliesTo: "Anyone invited to an open house for the first time, organisers of community- or company-level open houses, and anyone seeking to understand this practice as a cross-ethnic social phenomenon in Malaysia."
 
 lang: "en"
+sourceContentHash: "849964b901802a27"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

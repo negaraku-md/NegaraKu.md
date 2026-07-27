@@ -19,7 +19,7 @@ appliesTo: "希望了解在马六甲统治海峡之前，是谁统治着马六�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "94d98d5fab6f032c"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

@@ -34,6 +34,7 @@ seoTitle: "Bumiputera（土著）：术语含义及其宪法基础"
 socialTitle: "Bumiputera——一个不存在于宪法中，却根植于第153、160及161A条的术语"
 
 lang: "zh"
+sourceContentHash: "924aa904a876b274"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"

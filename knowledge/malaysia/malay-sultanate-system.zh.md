@@ -20,7 +20,7 @@ appliesTo: "任何想了解马来传统苏丹国制度的结构与作用，以�
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "95bf275cb438d0b7"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

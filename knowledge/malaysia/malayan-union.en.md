@@ -35,7 +35,7 @@ revisions:
     reviewer: null
 sensitivity: "constitution"
 updated: 2026-07-24
-sourceContentHash: null
+sourceContentHash: "f8c770a08f5a6831"
 sources:
   - title: "Malayan Union — Teladan buat generasi kini, akan datang"
     url: "https://pustakailmu.arkib.gov.my/index.php/ms/pustaka-ilmu/jendela-sejarah/malayan-union-teladan-buat-generasi-kini-akan-datang"

@@ -20,6 +20,7 @@ keyTakeaways:
   - "1824年3月17日签署的英荷条约将马六甲永久割让给英国，以换取Bencoolen；实际移交则于1825年3月1日生效"
 appliesTo: "已经了解马六甲曾从葡萄牙人手中转到荷兰人手中、再转到英国人手中的读者，想进一步了解为何中间那184年与之前的130年及之后的121年如此不同——以及移交英国的过程究竟是如何发生的。"
 lang: "zh"
+sourceContentHash: "c29f50bb16f23497"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

@@ -24,7 +24,7 @@ appliesTo: "任何需要逐一事项了解，在马来西亚究竟是联邦还�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "d234775add600d74"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

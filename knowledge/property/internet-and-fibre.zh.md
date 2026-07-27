@@ -22,6 +22,7 @@ keyTakeaways:
 appliesTo: "任何在马来西亚租房、购房或搬迁入住、需要接通固定宽带的人士。"
 
 lang: "zh"
+sourceContentHash: "3f90ffb3d97f1bcf"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

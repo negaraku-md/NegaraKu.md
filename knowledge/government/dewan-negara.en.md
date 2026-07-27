@@ -24,7 +24,7 @@ appliesTo: "Anyone who wants to understand, descriptively, how Malaysian senator
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "795be8860e769da6"
 
 status: "published"
 aiAssisted: true

@@ -23,7 +23,7 @@ appliesTo: "Sesiapa yang cuba mengetahui peringkat kerajaan mana yang perlu dihu
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "1d2f38974439f947"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

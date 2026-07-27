@@ -21,7 +21,7 @@ appliesTo: "希望了解新经济政策有据可查的目标、指标与时间�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "a4d56942dfe56961"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

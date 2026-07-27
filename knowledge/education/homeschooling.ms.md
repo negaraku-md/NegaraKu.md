@@ -19,6 +19,7 @@ keyTakeaways:
   - "Pindaan pendidikan menengah 2025 telah diluluskan oleh Parlimen tetapi masih belum dikuatkuasakan melalui pemberitahuan Warta pada masa artikel ini ditulis — Menteri menetapkan tarikh permulaan kuat kuasa itu secara berasingan"
 appliesTo: "Ibu bapa Malaysia yang mempertimbangkan pendidikan di rumah untuk anak berusia sekolah rendah atau menengah, dan keluarga (termasuk isi rumah ekspatriat MM2H atau penginapan jangka panjang) yang menimbang antara pengecualian rasmi berbanding tidak mendaftarkan anak ke sekolah secara tidak rasmi."
 lang: "ms"
+sourceContentHash: "f9978c9d61a0e0de"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

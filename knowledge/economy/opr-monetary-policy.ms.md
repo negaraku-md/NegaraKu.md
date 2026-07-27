@@ -22,7 +22,7 @@ appliesTo: "Peminjam dengan pinjaman kadar apungan, penyimpan, dan sesiapa yang 
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "54922b7bc9867b3f"
 
 status: "published"
 aiAssisted: true

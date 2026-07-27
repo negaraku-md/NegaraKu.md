@@ -30,6 +30,7 @@ faq:
     a: "是的。世界遗产中心记录马来西亚预备名单上有三处遗产：西马国家公园（Taman Negara）、雪兰莪冈仔石英岭（Gombak Selangor Quartz Ridge），以及双溪毛糯麻风病院（Sungai Buloh Leprosarium）。预备名单上的列名只是提名意向的声明，并非正式列入。"
 
 lang: "zh"
+sourceContentHash: "7fe92881566b7c6a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

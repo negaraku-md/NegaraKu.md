@@ -37,7 +37,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "853509b190080975"
+sourceContentHash: "f8950ccf72fcaab1"
 
 status: "published"
 aiAssisted: true

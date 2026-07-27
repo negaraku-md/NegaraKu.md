@@ -20,6 +20,7 @@ keyTakeaways:
 appliesTo: "学生、翻译员、记者，以及任何希望理解「rakyat」这一社会政治用语与「warganegara」这一法律用语在马来西亚语境中有何分别的人。"
 
 lang: "zh"
+sourceContentHash: "bc4f1e17411cc7bc"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

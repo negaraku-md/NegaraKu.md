@@ -21,6 +21,7 @@ keyTakeaways:
 appliesTo: "Sesiapa yang ingin tahu, peruntukan demi peruntukan, apa sebenarnya yang diperlukan di Parlimen untuk mengubah sesuatu bahagian tertentu Perlembagaan Persekutuan."
 
 lang: "ms"
+sourceContentHash: "34255dffcbbb4b20"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

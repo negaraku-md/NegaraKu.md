@@ -40,7 +40,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "4f354a706a5751f1"
 
 status: "published"
 aiAssisted: true

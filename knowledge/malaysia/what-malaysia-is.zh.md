@@ -32,7 +32,7 @@ revisions:
     change: "Initial draft — orientation to Malaysia's federal and constitutional structure, verified against the Federal Constitution."
     reviewer: null
 updated: 2026-07-24
-sourceContentHash: null
+sourceContentHash: "8088b5defbdcad1c"
 sources:
   - title: "Federal Constitution — Laws of Malaysia (Article 1, 4, 32, 38, 44, 45, 71, Ninth Schedule)"
     url: "https://lom.agc.gov.my/"

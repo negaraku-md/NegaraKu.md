@@ -24,7 +24,7 @@ appliesTo: "Sesiapa yang perlu mengetahui, subjek demi subjek, sama ada Persekut
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "d234775add600d74"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

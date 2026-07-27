@@ -20,7 +20,7 @@ appliesTo: "希望了解究竟是谁撰写了马来西亚立国宪法、依据�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "ccf33bae844ab71e"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

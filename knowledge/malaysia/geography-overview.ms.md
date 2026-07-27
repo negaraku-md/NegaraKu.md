@@ -19,7 +19,7 @@ appliesTo: "Sesiapa yang cuba memahami mengapa populasi, bandar dan risiko banji
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "cfd0fe06c716e1ee"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

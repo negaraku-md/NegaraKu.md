@@ -19,6 +19,7 @@ keyTakeaways:
 appliesTo: "Pelabur, pencari kerja, pembekal yang menyertai tender kerja, dan sesiapa sahaja yang membaca liputan perniagaan Malaysia."
 
 lang: "ms"
+sourceContentHash: "9155b753e9fc9969"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

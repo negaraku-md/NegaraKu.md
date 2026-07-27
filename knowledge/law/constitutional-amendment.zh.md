@@ -21,6 +21,7 @@ keyTakeaways:
 appliesTo: "任何想要逐条了解，在国会要修改联邦宪法特定部分实际须符合什么条件的人。"
 
 lang: "zh"
+sourceContentHash: "34255dffcbbb4b20"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

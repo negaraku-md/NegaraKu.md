@@ -29,6 +29,7 @@ faq:
   - q: "Apa yang berlaku kepada Negeri-Negeri Selat pada akhirnya?"
     a: "Ia dibubarkan pada 1 April 1946. Pulau Pinang dan Melaka dilipat ke dalam Malayan Union bersama-sama negeri-negeri Bersekutu dan Tidak Bersekutu, manakala Singapura diasingkan menjadi sebuah Tanah Jajahan Mahkota yang berasingan tersendiri."
 lang: "ms"
+sourceContentHash: "9cb8a0574c93b0cb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

@@ -22,7 +22,7 @@ appliesTo: "Sesiapa yang mentafsir data pasaran buruh Malaysia — pencari kerja
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "f1bb9140bdec9bd9"
 
 status: "published"
 aiAssisted: true

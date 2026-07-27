@@ -18,6 +18,7 @@ keyTakeaways:
   - "1824年英荷条约及其后续安排将这片疆域一分为二：廖内-林加归属荷兰，柔佛则纳入英国势力范围"
 appliesTo: "任何想了解马六甲马来皇室体制如何不间断地延续至现代马来州属，特别是柔佛的人。"
 lang: "zh"
+sourceContentHash: "e2e07f7bcea9fc14"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"

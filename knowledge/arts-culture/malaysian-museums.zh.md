@@ -19,6 +19,7 @@ keyTakeaways:
 appliesTo: "适合正在规划博物馆行程的游客、想了解马来西亚主要馆藏背后机构历史的学生与研究人员，以及任何曾经以为国家博物馆是全国最古老博物馆的人。"
 
 lang: "zh"
+sourceContentHash: "8802106dd859b55e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

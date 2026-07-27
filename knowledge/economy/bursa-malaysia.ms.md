@@ -23,7 +23,7 @@ appliesTo: "Pengasas dan CFO yang sedang menimbangkan IPO, penasihat dan penaja,
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "877a6c16d2de1306"
 
 status: "published"
 aiAssisted: true

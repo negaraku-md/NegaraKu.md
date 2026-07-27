@@ -24,6 +24,7 @@ verificationNeeded:
   - "The official kwsp.gov.my website blocked automated access (403) at the time this article was written. The KWSP contribution rates quoted (11 percent employee; 13/12 percent employer depending on wage band) were confirmed through a search that returned direct excerpts from kwsp.gov.my's own text, and are consistent with the epf-employer-guide article on this site, which also cites kwsp.gov.my. Please re-verify directly at kwsp.gov.my/en/epf-act-1991-third-schedule once the site is accessible."
 
 lang: "en"
+sourceContentHash: "91cbd7d0dece19b9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

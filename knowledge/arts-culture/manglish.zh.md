@@ -31,6 +31,7 @@ faq:
     a: "是的。《牛津英语词典》在历次更新中已收录若干马来西亚英语词汇，包括2016年收录的lepak、shiok和teh tarik，同年稍后更新中收录的多个Manglish及马来西亚饮食用语，包括mamak、kopitiam和atas，以及在更近一次更新中收录的boleh、agak-agak和wayang——这体现了词典对既有马来西亚用法的确认，而非凭空创造新英语词汇。"
 
 lang: "zh"
+sourceContentHash: "8f82ee70d6e9258e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

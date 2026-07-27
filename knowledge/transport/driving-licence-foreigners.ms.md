@@ -23,6 +23,7 @@ verificationNeeded:
   - "Artikel ini tidak menyebut yuran tepat bagi kursus Kelas D di sekolah memandu swasta, atau jadual yuran JPJ yang tepat bagi laluan LDL/PDL/CDL, kerana tiada satu jadual yuran rasmi JPJ ditemui semasa pengesahan — sahkan yuran semasa terus di kaunter JPJ atau sekolah memandu berlesen sebelum membuat bajet."
   - "Perkataan tepat seksyen 28 Akta Pengangkutan Jalan 1987 disahkan melalui ringkasan sekunder Akta itu dan bukan pembacaan baris demi baris terus terhadap PDF yang dihoskan JPJ (dielakkan di sini untuk mengawal penggunaan konteks) — nombor seksyen dan kesan substantifnya disokong merentasi pelbagai sumber bebas, tetapi sahkan perkataan tepat berbanding PDF Akta 333 yang dihoskan JPJ jika merangka apa-apa yang bergantung dari segi undang-undang kepadanya."
 lang: "ms"
+sourceContentHash: "04842acf21e405cb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

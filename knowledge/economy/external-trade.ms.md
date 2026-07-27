@@ -22,7 +22,7 @@ appliesTo: "Sesiapa yang membaca berita perdagangan Malaysia — pengeksport, pe
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "09facf393be3e0fa"
 
 status: "published"
 aiAssisted: true

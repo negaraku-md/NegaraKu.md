@@ -35,6 +35,7 @@ faq:
     a: "两者是主题相近但各自独立的节日。达雅节是砂拉越达雅族的丰收节，于6月1日及2日举行。丰收节（Kaamatan）则是沙巴卡达山—杜顺族（Kadazandusun）的丰收节，于5月30日及31日举行。两者都感谢稻米丰收，但庆祝的族群、仪式与日期各不相同。"
 
 lang: "zh"
+sourceContentHash: "b3e3dd334b3d42b1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

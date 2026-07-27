@@ -23,6 +23,7 @@ keyTakeaways:
 appliesTo: "首次尝试梳理马来西亚法律体系的法律系学生与研究人员；试图厘清某一问题究竟由哪一套法律体系管辖的读者；以及一再看到「普通法国家」「伊斯兰法」与「adat」并列出现，却未获告知它们实际如何相互关联的读者。"
 
 lang: "zh"
+sourceContentHash: "c7494d1451cf3c01"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

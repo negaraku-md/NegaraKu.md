@@ -18,6 +18,7 @@ keyTakeaways:
   - "The Anglo-Dutch Treaty of 1824 and its aftermath divided this territory: Riau-Lingga under the Dutch, Johor within the British sphere"
 appliesTo: "Anyone who wants to understand how the Malay royal institution of Melaka continued unbroken into the modern Malay states, particularly Johor."
 lang: "en"
+sourceContentHash: "e2e07f7bcea9fc14"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"

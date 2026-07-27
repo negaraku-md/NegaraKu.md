@@ -22,7 +22,7 @@ appliesTo: "任何阅读马来西亚贸易头条新闻的人——出口商、�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "09facf393be3e0fa"
 
 status: "published"
 aiAssisted: true

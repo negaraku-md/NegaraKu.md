@@ -22,7 +22,7 @@ appliesTo: "适合任何想了解 Joget 与 Zapin 作为两种各自独立的马
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "f85648fc29f5d316"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

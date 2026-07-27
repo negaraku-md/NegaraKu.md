@@ -20,7 +20,7 @@ appliesTo: "Anyone who wants to understand the performance form of Dikir Barat, 
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "8d1b65f59cb7dafe"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

@@ -23,7 +23,7 @@ appliesTo: "任何需要马来西亚基本事实——人口、面积、首都�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: null
+sourceContentHash: "dc264630ca2e722e"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

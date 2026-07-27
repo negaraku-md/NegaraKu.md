@@ -35,6 +35,7 @@ faq:
     a: "Hanya di negeri dan wilayah persekutuan yang mewartakannya. Ia disambut sebagai cuti umum di tempat-tempat termasuk Kuala Lumpur, Putrajaya, Selangor, Pulau Pinang, Perak, Negeri Sembilan, Johor dan Kedah, dan tidak diwartakan sebagai cuti persekutuan seluruh negara. Kerana ia ditetapkan mengikut bidang kuasa masing-masing, senarai tepatnya boleh berbeza dari tahun ke tahun — sentiasa semak notis cuti rasmi bagi negeri berkenaan."
 
 lang: "ms"
+sourceContentHash: "0b3f0235d5a676f2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

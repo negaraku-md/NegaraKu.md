@@ -20,6 +20,7 @@ keyTakeaways:
 appliesTo: "Highway users during festive seasons, travel and leave planners, retail and transport businesses, and anyone trying to understand Malaysia's population movement patterns."
 
 lang: "en"
+sourceContentHash: "beaafd533f8ef25b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

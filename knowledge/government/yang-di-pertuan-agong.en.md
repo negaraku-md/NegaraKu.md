@@ -53,7 +53,7 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
-sourceContentHash: null
+sourceContentHash: "acdf97d3f8926008"
 sources:
   - title: "Perlembagaan Persekutuan — Undang-Undang Malaysia"
     url: "https://lom.agc.gov.my/federal-constitution.php"

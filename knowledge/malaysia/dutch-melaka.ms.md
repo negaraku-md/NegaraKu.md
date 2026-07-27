@@ -20,6 +20,7 @@ keyTakeaways:
   - "Perjanjian Inggeris-Belanda pada 17 Mac 1824 menyerahkan Melaka secara kekal kepada Britain sebagai pertukaran dengan Bencoolen; pemindahan sebenar berkuat kuasa pada 1 Mac 1825"
 appliesTo: "Pembaca yang sudah mengetahui bahawa Melaka bertukar tangan daripada Portugis kepada Belanda kepada British, dan ingin memahami mengapa 184 tahun di tengah-tengah itu kelihatan begitu berbeza berbanding 130 tahun sebelumnya dan 121 tahun selepasnya — ditambah bagaimana pemindahan kepada Britain sebenarnya berlaku."
 lang: "ms"
+sourceContentHash: "c29f50bb16f23497"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

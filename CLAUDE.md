@@ -31,6 +31,11 @@ npm run health     # python content-health scan (add --strict for CI)
 - Add UI strings to `src/lib/i18n.ts` (or inline `L(ms,en,zh)` for page copy).
 - New categories: edit `src/lib/categories.ts` (+ a color in `CATEGORY_COLORS`).
 - Keep `1company` lowercase everywhere (`.oneco` CSS guard); wordmark is `NegaraKu.md`.
+- **Translation freshness is DERIVED, never hand-set.** `translationStatus`/`sourceContentHash`
+  are maintained by `scripts/translation-sync.mjs`: run `npm run translate:stamp` after a
+  translation lands (records the master's content hash + marks `in-sync`); `predev`/`prebuild`
+  run it in report mode, auto-flipping translations to `stale` when their master changed since.
+  Do not edit those two fields by hand — that's what caused a corpus-wide false "pending" badge.
 - External links open in a new tab automatically (script in `BaseLayout.astro`).
 - Deferred/omitted (Taiwan-specific): soundscape, AI bench, semiont, life-tree.
 

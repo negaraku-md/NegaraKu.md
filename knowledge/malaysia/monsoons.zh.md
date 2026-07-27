@@ -69,7 +69,7 @@ relations:
   - { rel: "affects", to: "johor" }
 related: ["kelantan", "terengganu", "pahang", "johor"]
 keywords: ["monsun Malaysia", "monsun timur laut", "monsun barat daya", "musim tengkujuh", "banjir pantai timur", "MetMalaysia", "banjir Semenanjung Malaysia", "fasa peralihan monsun"]
-sourceContentHash: null
+sourceContentHash: "426f1ac89e116265"
 ---
 
 每年11月，在查看新闻之前，哥打巴鲁（Kota Bharu）、瓜拉登嘉楼（Kuala Terengganu）与关丹（Kuantan）的许多居民就已开始查看住家附近的河流水位。这并非源自突发灾难的习惯——而是一份可以预测、年复一年重演的时间表，其成因是同一套季节性风系，也正是它决定了半岛西海岸何时转为干燥。
