@@ -236,7 +236,7 @@ const shares = [
   }
   .share-native[hidden] { display: none; }
   .share-native .sv { display: inline-flex; }
-  .share-native .sv svg { width: 16px; height: 16px; }
+  .share-native .sv :global(svg) { width: 16px; height: 16px; }
   .share-ico {
     width: 40px; height: 40px; display: grid; place-items: center;
     border: 1px solid var(--line); border-radius: 50%; background: var(--surface-2);
@@ -245,7 +245,7 @@ const shares = [
   }
   .share-ico:hover { border-color: var(--brand, var(--gold)); color: var(--brand, var(--gold)); transform: translateY(-2px); }
   .share-ico .sv { display: inline-flex; }
-  .share-ico .sv svg { width: 20px; height: 20px; }
+  .share-ico .sv :global(svg) { width: 20px; height: 20px; }
   .share-ico.copy .sv-check { display: none; }
   .share-ico.copy.copied { border-color: #4ade80; color: #4ade80; }
   .share-ico.copy.copied .sv-copy { display: none; }
