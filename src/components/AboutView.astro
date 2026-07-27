@@ -230,17 +230,37 @@ const faqs = [
 
 <section class="container block">
   <div class="psec">
-    <header><span>{L('Kenapa GitHub?', 'Why GitHub?', '为什么用 GitHub？')}</span></header>
-    <div class="psec-body prose">
-      <p>{L(
-        'Semua kandungan disimpan di GitHub — sebuah platform awam percuma yang digunakan oleh jutaan orang untuk membina sesuatu secara terbuka. Bagi NegaraKu.md, ia bermakna tiga perkara: setiap perubahan direkod dan boleh dilihat umum (anda tahu siapa menulis apa, dan bila), tiada apa yang boleh diubah secara senyap — dan itulah yang menjadikannya boleh dipercayai.',
-        'All the content is kept on GitHub — a free, public platform used by millions of people to build things in the open. For NegaraKu.md it means three things: every change is recorded and public (you can see who wrote what, and when), nothing can be quietly altered — and that is what makes it trustworthy.',
-        '所有内容都存放在 GitHub 上——一个免费的公开平台，全球数百万人在上面公开协作。对 NegaraKu.md 而言，这意味着三点：每一处改动都被记录且公开（谁在何时写了什么，一目了然），没有任何内容可以被悄悄改动——而这正是它值得信赖的原因。',
+    <header><span>{L('NegaraKu.md di GitHub', 'NegaraKu.md on GitHub', 'NegaraKu.md 与 GitHub')}</span></header>
+    <div class="psec-body gh-body">
+      <p class="lead">{L(
+        'Seluruh pangkalan pengetahuan NegaraKu.md disimpan di GitHub — platform awam percuma tempat jutaan orang membina sesuatu secara terbuka. Inilah sebabnya, dan apa maknanya untuk anda.',
+        'NegaraKu.md’s entire knowledge base lives on GitHub — a free, public platform where millions of people build things in the open. Here’s why, and what it means for you.',
+        'NegaraKu.md 的整个知识库都存放在 GitHub 上——一个免费的公开平台，全球数百万人在此公开协作。以下是原因，以及它对你的意义。',
       )}</p>
-      <p>{L(
-        'Anda tidak perlu menjadi pengaturcara untuk membaca laman ini — GitHub hanya terlibat apabila anda ingin membantu memperbaikinya, dengan mencadangkan pembetulan atau topik baharu.',
-        'You don’t need to be a programmer to read the site — GitHub only comes in when you want to help improve it, by suggesting a correction or a new topic.',
-        '阅读本网站无需懂编程——只有当你想帮助改进它（提出更正或新主题）时，才会用到 GitHub。',
+      <div class="gh-grid">
+        <div>
+          <b>{L('Kenapa kami pilih GitHub', 'Why we chose GitHub', '为什么选择 GitHub')}</b>
+          <ul>
+            <li>{L('Terbuka secara semula jadi — seluruh perpustakaan bersifat awam, bukan terkurung dalam sistem tertutup.', 'Open by nature — the whole library is public, not locked in a private system.', '天然开放——整个知识库都公开，不锁在封闭系统里。')}</li>
+            <li>{L('Sejarah penuh — setiap suntingan merekod siapa mengubah apa, dan bila.', 'Full history — every edit records who changed what, and when.', '完整历史——每次编辑都记录谁改了什么、何时改的。')}</li>
+            <li>{L('Percuma dan tahan lama — tiada kos hos, dan ia tidak lenyap begitu sahaja.', 'Free and durable — nothing to host or pay for, and it won’t quietly disappear.', '免费且持久——无需托管或付费，也不会悄然消失。')}</li>
+            <li>{L('Rumah yang terbukti — platform standard untuk projek komuniti terbuka.', 'A proven home — the standard platform for open, community projects.', '成熟平台——开放社区项目的标准之选。')}</li>
+          </ul>
+        </div>
+        <div>
+          <b>{L('Manfaatnya', 'The benefits', '带来的好处')}</b>
+          <ul>
+            <li>{L('Boleh dipercayai — kerana setiap perubahan awam dan direkod, tiada apa boleh diubah secara rahsia.', 'Trustworthy — because every change is public and tracked, nothing can be altered in secret.', '值得信赖——每处改动都公开且被记录，无法暗中篡改。')}</li>
+            <li>{L('Terbuka untuk semua — cadangkan pembetulan atau topik baharu; ia disemak secara terbuka.', 'Open to everyone — suggest a fix or a new topic; it’s reviewed in the open.', '人人可参与——提出更正或新主题，公开审阅。')}</li>
+            <li>{L('Sedia untuk AI — kandungannya teks biasa yang boleh dibaca manusia dan AI secara terus.', 'AI-ready — the content is plain text that people and AI can read directly.', '面向 AI——内容是纯文本，人与 AI 都能直接读取。')}</li>
+            <li>{L('Sentiasa milik anda — lesen dan format terbuka bermakna ia boleh disalin dan tidak terkurung.', 'Always yours — an open licence and open format mean it can be copied and never trapped.', '永远属于你——开放许可与开放格式，可自由复制，绝不被锁定。')}</li>
+          </ul>
+        </div>
+      </div>
+      <p class="gh-note">{L(
+        'Anda tidak perlu tahu mengekod — atau memiliki akaun GitHub — untuk membaca NegaraKu.md. GitHub hanya terlibat apabila anda memilih untuk membantu memperbaikinya.',
+        'You don’t need to code — or even have a GitHub account — to read NegaraKu.md. GitHub only comes in when you choose to help improve it.',
+        '阅读 NegaraKu.md 无需编程，甚至无需 GitHub 账户。只有当你选择帮助改进它时，才会用到 GitHub。',
       )}</p>
     </div>
   </div>
@@ -334,6 +354,14 @@ const faqs = [
   .value { border-left: 2px solid var(--gold); padding-left: 0.85rem; }
   .value b { display: block; font-family: var(--font-title); font-size: 1rem; color: var(--ink); margin-bottom: 0.25rem; }
   .value p { margin: 0; color: var(--ink-soft); font-size: 0.9rem; line-height: 1.55; }
+
+  /* NegaraKu.md on GitHub — why + benefits in two columns, plain-language note. */
+  .gh-body .lead { margin: 0 0 1.2rem; color: var(--ink-soft); line-height: 1.7; }
+  .gh-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1.6rem; }
+  .gh-grid > div > b { display: block; font-family: var(--font-title); color: var(--gold); font-size: 0.95rem; margin: 0 0 0.55rem; }
+  .gh-grid ul { margin: 0; padding-left: 1.1rem; color: var(--ink-soft); line-height: 1.6; font-size: 0.92rem; display: grid; gap: 0.4rem; }
+  .gh-note { margin: 1.4rem 0 0; padding-top: 1.1rem; border-top: 1px solid var(--line); color: var(--ink-soft); line-height: 1.65; }
+  @media (max-width: 700px) { .gh-grid { grid-template-columns: 1fr; gap: 1.2rem; } }
 
   .pcards { display: grid; grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); gap: 1rem; }
   .pcard { background: var(--surface-2); border: 1px solid var(--line); border-radius: 10px; padding: 1.1rem 1.15rem; }
