@@ -34,7 +34,7 @@ const paths = [
     id: 'report',
     icon: '🚩',
     open: true,
-    title: L('Lapor', 'Report', '报告'),
+    title: L('Laporkan isu', 'Report an issue', '报告问题'),
     desc: L(
       'Ada yang salah pada halaman sedia ada? Fakta silap, pautan rosak, maklumat lapuk, atau kebimbangan kandungan sensitif.',
       'Something wrong on an existing page? A wrong fact, broken link, outdated info, or a sensitive-content concern.',
@@ -45,7 +45,7 @@ const paths = [
     id: 'suggest',
     icon: '💡',
     open: true,
-    title: L('Cadang', 'Suggest', '建议'),
+    title: L('Cadangkan penambahbaikan', 'Suggest an improvement', '建议改进'),
     desc: L(
       'Cadangkan topik yang belum ada. Pilih tempatnya dalam seksyen dan kategori kami — atau cadangkan yang baharu.',
       'Propose a topic we’re missing. Pick where it fits in our sections and categories — or propose a new one.',
@@ -159,7 +159,7 @@ const REQUEST_INVITE = `${REPO}/issues/new?labels=invitation-request&title=${enc
 <!-- SUGGEST -->
 <section class="container block" id="suggest">
   <div class="psec">
-    <header><span>💡 {L('Cadangkan topik', 'Suggest a topic', '建议主题')}</span></header>
+    <header><span>💡 {L('Cadangkan penambahbaikan', 'Suggest an improvement', '建议改进')}</span></header>
     <div class="psec-body">
       <p class="lead">{L('Pilih di mana topik anda sesuai. Jika kategori atau topik belum ada, cadangkan yang baharu.', 'Choose where your topic fits. If the category or topic doesn’t exist yet, propose a new one.', '选择你的主题所属位置。若分类或主题尚不存在，可提议新增。')}</p>
       <form class="cform sform" data-repo={REPO}>
