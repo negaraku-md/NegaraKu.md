@@ -163,8 +163,6 @@ const faqs = [
   </div>
 </section>
 
-<p class="brand-strap container">{L('Malaysia mesra-AI', 'AI-friendly Malaysia', 'AI 友好的马来西亚')}</p>
-
 <section class="container block two">
   <div class="psec">
     <header><span>{L('Visi', 'Vision', '愿景')}</span></header>
@@ -184,6 +182,15 @@ const faqs = [
         'To curate Malaysia’s knowledge into an open, cited, trilingual library that anyone — and any AI — can read, verify, and build on.',
         '将马来西亚的知识整理成一个开放、有据可查、三语的知识库，让任何人——以及任何 AI——都能阅读、查证并在其之上继续建构。',
       )}</p>
+    </div>
+  </div>
+</section>
+
+<section class="container block">
+  <div class="psec">
+    <header><span>{L('Slogan', 'Tagline', '标语')}</span></header>
+    <div class="psec-body">
+      <p class="tagline-line">{L('Malaysia mesra-AI', 'AI-friendly Malaysia', 'AI 友好的马来西亚')}</p>
     </div>
   </div>
 </section>
@@ -293,12 +300,13 @@ const faqs = [
   }
   @media (max-width: 800px) { .story-bloom { display: none; } .story .psec-body.prose { max-width: none; } }
 
-  /* Brand strapline — the tagline, shown as a prominent centred line. */
-  .brand-strap {
-    margin: 2rem auto 0.4rem; text-align: center; font-family: var(--font-title);
+  /* Tagline box — the tagline shown as a prominent centred line inside a card. */
+  .tagline-line {
+    margin: 0; text-align: center; font-family: var(--font-title);
     font-weight: 800; font-size: clamp(1.5rem, 3.5vw, 2.1rem); color: var(--ink);
-    letter-spacing: 0.01em;
+    letter-spacing: 0.01em; padding: 0.6rem 0;
   }
+  .tagline-line .wm-dot { color: var(--gold); }
 
   /* Vision & Mission — larger, brighter statements than body prose. */
   .vm-lead { margin: 0; font-family: var(--font-title); font-size: 1.2rem; line-height: 1.5; color: var(--ink); }
