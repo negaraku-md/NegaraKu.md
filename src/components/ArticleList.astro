@@ -522,12 +522,12 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
   .tb-line { display: flex; align-items: center; gap: 1rem; flex-wrap: wrap; }
   .tb-label {
     flex: none; min-width: 3.5rem; font-size: 0.68rem; font-weight: 800;
-    text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted);
+    text-transform: uppercase; letter-spacing: 0.08em; color: var(--ink);
   }
   .controls { display: flex; gap: 0.5rem; flex-wrap: wrap; }
   .tabs { display: flex; gap: 0.4rem; flex-wrap: wrap; }
   .tab {
-    font-size: 0.82rem; font-weight: 700; padding: 0.4rem 0.8rem; border-radius: 999px;
+    font-size: 0.82rem; font-weight: 500; padding: 0.4rem 0.8rem; border-radius: 999px;
     border: 1px solid color-mix(in srgb, var(--gold) 55%, var(--line));
     background: var(--surface); color: var(--ink-soft); cursor: pointer;
   }
@@ -536,7 +536,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
   /* Display toggles — same pill, but "on" is an outline (not a sort selection).
      Off keeps a dashed edge as its affordance; both share the gold-tinted border. */
   .tgl {
-    font-size: 0.82rem; font-weight: 700; padding: 0.4rem 0.8rem; border-radius: 999px;
+    font-size: 0.82rem; font-weight: 500; padding: 0.4rem 0.8rem; border-radius: 999px;
     border: 1px dashed color-mix(in srgb, var(--gold) 55%, var(--line));
     background: transparent; color: var(--muted); cursor: pointer;
   }
@@ -547,7 +547,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
   }
   .tgl-sep { width: 1px; align-self: stretch; background: var(--line); margin-inline: 0.25rem; }
   .tgl-all {
-    font: inherit; font-size: 0.76rem; font-weight: 700; padding: 0.4rem 0.7rem;
+    font: inherit; font-size: 0.76rem; font-weight: 500; padding: 0.4rem 0.7rem;
     border: 0; background: none; color: var(--muted); cursor: pointer; text-decoration: underline;
     text-underline-offset: 3px; text-decoration-color: color-mix(in srgb, var(--muted) 50%, transparent);
   }
@@ -559,7 +559,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
   .tb-line input[type='search'] { min-width: min(26rem, 100%); flex: 1; max-width: 30rem; }
   .controls select:focus, .tb-line input[type='search']:focus { outline: none; border-color: var(--gold); }
   #f-reset {
-    font: inherit; font-size: 0.8rem; font-weight: 700; padding: 0.45rem 0.85rem; border-radius: 8px;
+    font: inherit; font-size: 0.8rem; font-weight: 500; padding: 0.45rem 0.85rem; border-radius: 8px;
     border: 1px solid color-mix(in srgb, var(--gold) 40%, var(--line)); background: transparent;
     color: var(--gold); cursor: pointer;
   }
