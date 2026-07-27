@@ -50,6 +50,13 @@ const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale
   <section class="set-card">
     <h2>{L('Bacaan', 'Reading', '阅读')}</h2>
     <div class="row">
+      <span class="row-label">{L('Tema', 'Theme', '主题')}</span>
+      <div class="seg" data-group="theme">
+        <button type="button" data-value="black-gold"><span class="sw sw-gold" aria-hidden="true"></span>{L('Emas', 'Gold', '金色')}</button>
+        <button type="button" data-value="black-red"><span class="sw sw-red" aria-hidden="true"></span>{L('Merah', 'Red', '红色')}</button>
+      </div>
+    </div>
+    <div class="row">
       <span class="row-label">{L('Saiz teks', 'Text size', '字号')}</span>
       <div class="seg" data-group="size">
         <button type="button" data-value="standard">{L('Biasa', 'Standard', '标准')}</button>
@@ -115,6 +122,7 @@ const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale
         });
       });
     };
+    seg('theme', 'nk-theme', 'data-theme', 'black-gold');
     seg('size', 'nk-text-size', 'data-text-size', 'standard');
 
     // --- 4. Card rows (nk-card-rows-hidden = array of HIDDEN row keys) ---
@@ -156,6 +164,14 @@ const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale
   .seg { display: inline-flex; gap: 0.3rem; }
   .seg button { padding: 0.4rem 0.75rem; font-size: 0.85rem; font-weight: 600; border: 1px solid var(--line); border-radius: 8px; background: var(--bg); color: var(--ink-soft); cursor: pointer; }
   .seg button[aria-pressed='true'] { background: var(--gold); color: var(--accent-contrast); border-color: var(--gold); }
+  /* Theme buttons: black bg + white border, accent (gold/red) as the content. */
+  .seg[data-group='theme'] button { background: #000; border-color: rgba(255, 255, 255, 0.4); font-weight: 700; }
+  .seg[data-group='theme'] button[data-value='black-gold'] { color: #ffc000; }
+  .seg[data-group='theme'] button[data-value='black-red'] { color: #ff3333; }
+  .seg[data-group='theme'] button[aria-pressed='true'] { background: #000; border-color: #fff; box-shadow: inset 0 0 0 1px #fff; }
+  .sw { display: inline-block; width: 10px; height: 10px; border-radius: 50%; margin-right: 5px; vertical-align: middle; border: 1px solid rgba(255, 255, 255, 0.25); }
+  .sw-gold { background: #ffc000; }
+  .sw-red { background: #ff3333; }
   .actions { display: flex; align-items: center; gap: 1rem; }
   .reset { padding: 0.5rem 1rem; font-weight: 700; border: 1px solid var(--line); border-radius: 8px; background: var(--bg); color: var(--ink-soft); cursor: pointer; }
   .reset:hover { border-color: var(--gold); color: var(--gold); }
