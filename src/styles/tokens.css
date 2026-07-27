@@ -83,8 +83,8 @@
    Everything reads the accent through --gold / --accent, so only the accent
    pair needs overriding; the true-black canvas stays. */
 :root[data-theme='black-red'] {
-  --gold: #ef4444;
-  --gold-600: #dc2626;
+  --gold: #ff2020; /* bright red */
+  --gold-600: #e00000;
 }
 
 /* Opt-in light reading mode (dark stays the default 1company canvas).

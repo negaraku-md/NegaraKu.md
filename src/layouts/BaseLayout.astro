@@ -165,6 +165,19 @@ const ogImageAlt = image ? title : 'NegaraKu.md — knowledge base about Malaysi
         // The wordmark treatment (bright ink + gold dot) is for dark surfaces
         // only — on a light/gold background (e.g. a gold button) the gold ".md"
         // would vanish. Find the nearest opaque background and skip if it's light.
+        // Buttons/pills use the accent as a FILL, so the accent-coloured ".md"
+        // would clash there (gold on gold, or bright-red on red — and a bright
+        // red is low-luminance, so a brightness test alone can't catch it).
+        // Skip any accent-filled control outright.
+        const inAccentFill = (el) => {
+          for (let n = el; n && n.nodeType === 1; n = n.parentElement) {
+            if (n.tagName === 'BUTTON') return true;
+            if (n.classList && (n.classList.contains('btn') || n.classList.contains('chip') || n.classList.contains('pill'))) return true;
+          }
+          return false;
+        };
+        // Backstop for light surfaces (e.g. the hidden light theme): skip when
+        // the nearest opaque background is light.
         const isDarkBg = (el) => {
           for (let n = el; n && n.nodeType === 1; n = n.parentElement) {
             const c = getComputedStyle(n).backgroundColor;
@@ -172,16 +185,14 @@ const ogImageAlt = image ? title : 'NegaraKu.md — knowledge base about Malaysi
             if (!m) continue;
             const [r, g, b, a = '1'] = m[1].split(',').map((x) => parseFloat(x));
             if (a === 0) continue; // transparent — keep climbing
-            // Brand only on genuinely dark surfaces; skip accent fills (gold OR
-            // red buttons) where the accent-coloured ".md" would clash.
-            return (0.2126 * r + 0.7152 * g + 0.0722 * b) / 255 < 0.3;
+            return (0.2126 * r + 0.7152 * g + 0.0722 * b) / 255 < 0.5;
           }
           return true; // default: assume the dark canvas
         };
         const walk = (node) => {
           for (const child of [...node.childNodes]) {
             if (child.nodeType === 3) {
-              if (child.nodeValue.includes('NegaraKu.md') && isDarkBg(node)) {
+              if (child.nodeValue.includes('NegaraKu.md') && isDarkBg(node) && !inAccentFill(node)) {
                 const span = document.createElement('span');
                 span.innerHTML = brand(esc(child.nodeValue));
                 child.replaceWith(span);
