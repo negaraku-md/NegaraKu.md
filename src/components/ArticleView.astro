@@ -547,10 +547,10 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
           {L('Sunting di GitHub', 'Edit on GitHub', '在 GitHub 编辑')} ↗
         </a>
         <a class="edit" href={suggestUrl} rel="noopener">
-          ✎ {L('Cadangkan penambahbaikan', 'Suggest an improvement', '建议改进')} ↗
+          {L('Cadangkan penambahbaikan', 'Suggest an improvement', '建议改进')} ↗
         </a>
         <a class="edit" href={reportUrl} rel="noopener">
-          ⚑ {L('Laporkan kesilapan', 'Report an error', '报告错误')} ↗
+          {L('Laporkan kesilapan', 'Report an error', '报告错误')} ↗
         </a>
         <a class="edit" href={localePath(path, locale) + '.md'}>
           {L('Markdown mentah', 'Raw Markdown', '原始 Markdown')} ↗
