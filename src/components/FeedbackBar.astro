@@ -1,48 +1,15 @@
 ---
 import type { Locale } from '@/lib/categories';
-import { REPO } from '@/lib/site';
 
-// Feedback is load-bearing here. Because most articles publish before human
-// review, the correction loop IS the quality mechanism — so reporting must be
-// as easy as reading. Report and Suggest are deliberately SEPARATE flows:
-// "this is wrong" and "this could be better" need different handling.
-//
-// Static-site friendly: prefilled GitHub issues capture article id, version and
-// URL automatically. Swap `issueUrl` for a form endpoint when one exists.
+// Share bar. Report/Suggest actions now live in the article's Edit & Source box
+// (see ArticleView); this component handles sharing only.
 
 interface Props {
   locale: Locale;
-  topicId: string;
   title: string;
-  version: string;
-  path: string;
 }
-const { locale, topicId, title, version, path } = Astro.props;
+const { locale, title } = Astro.props;
 const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
-
-const meta = `\n\n---\nArticle: ${title}\nTopic ID: ${topicId}\nVersion: ${version}\nLanguage: ${locale}\nPath: ${path}\n`;
-
-const issueUrl = (kind: 'error' | 'improve' | 'topic') => {
-  const cfg = {
-    error: {
-      labels: 'report',
-      title: `Report: ${title}`,
-      body: `**What is incorrect?**\n\n\n**What should it say instead?**\n\n\n**Source supporting the correction (link):**\n${meta}`,
-    },
-    improve: {
-      labels: 'suggestion',
-      title: `Suggestion: ${title}`,
-      body: `**What could be clearer or more complete?**\n${meta}`,
-    },
-    topic: {
-      labels: 'suggestion',
-      title: `Topic request`,
-      body: `**What topic should we cover?**\n\n\n**Why is it useful, and who needs it?**\n${meta}`,
-    },
-  }[kind];
-  const q = new URLSearchParams({ title: cfg.title, body: cfg.body, labels: cfg.labels });
-  return `${REPO}/issues/new?${q.toString()}`;
-};
 
 const shareText = encodeURIComponent(title);
 
@@ -73,33 +40,6 @@ const shares = [
 ---
 
 <div class="fb" data-pagefind-ignore>
-  <section class="fb-sec" aria-labelledby="fb-h">
-    <header><span id="fb-h">{L('Adakah ini membantu?', 'Was this helpful?', '这篇内容有帮助吗？')}</span></header>
-    <div class="fb-body">
-      <div class="acts">
-        <button class="btn vote" data-vote="up" aria-label={L('Ya, membantu', 'Yes, helpful', '有帮助')}>
-          👍 {L('Ya', 'Yes', '有用')}
-        </button>
-        <button class="btn vote" data-vote="down" aria-label={L('Tidak membantu', 'Not helpful', '没有帮助')}>
-          👎 {L('Tidak', 'No', '没用')}
-        </button>
-        <a class="btn" href={issueUrl('error')} rel="noopener">
-          ⚑ {L('Laporkan kesilapan', 'Report an error', '报告错误')}
-        </a>
-        <a class="btn" href={issueUrl('improve')} rel="noopener">
-          ✎ {L('Cadangkan penambahbaikan', 'Suggest an improvement', '建议改进')}
-        </a>
-      </div>
-      <p class="thanks" hidden data-thanks>
-        {L(
-          'Terima kasih atas maklum balas anda.',
-          'Thanks for your feedback.',
-          '谢谢您的反馈。',
-        )}
-      </p>
-    </div>
-  </section>
-
   <section class="fb-sec">
     <header><span>{L('Kongsi', 'Share', '分享')}</span></header>
     <div class="fb-body">
@@ -131,35 +71,6 @@ const shares = [
 </div>
 
 <script>
-  // The vote is stored per-article in THIS browser only (no backend yet).
-  const fbKey = `fb:${location.pathname}`;
-
-  document.querySelectorAll<HTMLButtonElement>('.fb [data-vote]').forEach((b) => {
-    b.addEventListener('click', () => {
-      const bar = b.closest('.fb');
-      bar?.querySelectorAll('[data-vote]').forEach((x) => x.classList.remove('on'));
-      b.classList.add('on');
-      const t = bar?.querySelector<HTMLElement>('[data-thanks]');
-      if (t) t.hidden = false;
-      try {
-        localStorage.setItem(fbKey, b.dataset.vote ?? '');
-      } catch {}
-    });
-  });
-
-  // Restore the reader's own saved vote so it survives a refresh.
-  try {
-    const saved = localStorage.getItem(fbKey);
-    if (saved) {
-      document.querySelectorAll('.fb').forEach((bar) => {
-        const b = bar.querySelector<HTMLElement>(`[data-vote="${saved}"]`);
-        if (b) b.classList.add('on');
-        const t = bar.querySelector<HTMLElement>('[data-thanks]');
-        if (t) t.hidden = false;
-      });
-    }
-  } catch {}
-
   // Share links get the runtime page URL appended (static build has no URL yet).
   const url = encodeURIComponent(location.href);
   document.querySelectorAll<HTMLAnchorElement>('.fb [data-share]').forEach((a) => {

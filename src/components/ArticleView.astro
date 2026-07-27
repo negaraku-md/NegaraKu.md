@@ -40,6 +40,24 @@ const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale
 const cat = getCategory(d.category);
 const path = `/${d.category}/${d.slug}`;
 const { Content, headings } = await render(article);
+
+// Report an error / Suggest an improvement — prefilled GitHub issues, shown in
+// the sidebar Edit & Source box (site-wide `report` / `suggestion` labels).
+const fbMeta = `\n\n---\nArticle: ${d.title}\nTopic ID: ${d.topicId}\nVersion: ${d.version}\nLanguage: ${locale}\nPath: ${localePath(path, locale)}\n`;
+const reportUrl =
+  `${REPO}/issues/new?` +
+  new URLSearchParams({
+    labels: 'report',
+    title: `Report: ${d.title}`,
+    body: `**What is incorrect?**\n\n\n**What should it say instead?**\n\n\n**Source supporting the correction (link):**\n${fbMeta}`,
+  }).toString();
+const suggestUrl =
+  `${REPO}/issues/new?` +
+  new URLSearchParams({
+    labels: 'suggestion',
+    title: `Suggestion: ${d.title}`,
+    body: `**What could be clearer or more complete?**\n${fbMeta}`,
+  }).toString();
 const related = await relatedArticles(article, locale);
 const mins = readingTime(article);
 const pillar = getPillar(d.category);
@@ -432,13 +450,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
         )
       }
 
-      <FeedbackBar
-        locale={locale}
-        topicId={d.topicId}
-        title={d.title}
-        version={d.version}
-        path={path}
-      />
+      <FeedbackBar locale={locale} title={d.title} />
 
     </div>
 
@@ -536,6 +548,12 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
         </a>
         <a class="edit" href={localePath(path, locale) + '.md'}>
           {L('Markdown mentah', 'Raw Markdown', '原始 Markdown')} ↗
+        </a>
+        <a class="edit" href={reportUrl} rel="noopener">
+          ⚑ {L('Laporkan kesilapan', 'Report an error', '报告错误')} ↗
+        </a>
+        <a class="edit" href={suggestUrl} rel="noopener">
+          ✎ {L('Cadangkan penambahbaikan', 'Suggest an improvement', '建议改进')} ↗
         </a>
       </div>
     </aside>
