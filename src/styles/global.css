@@ -282,12 +282,18 @@ main img {
   text-decoration: none;
   border: 1px solid transparent;
 }
+/* Buttons are a single tier site-wide: the gold-tinted outline is the standard
+   for every action button (primary and secondary look identical). Selection
+   states (active tab, pressed segment, active language) keep a gold fill to
+   signal "on" — that is a state, not a button style. */
 .btn-primary {
-  background: var(--gold);
-  color: var(--accent-contrast);
+  border-color: color-mix(in srgb, var(--gold) 55%, var(--line));
+  color: var(--ink);
+  background: var(--surface);
 }
 .btn-primary:hover {
-  background: var(--gold-600);
+  border-color: var(--gold);
+  background: color-mix(in srgb, var(--gold) 10%, var(--surface));
 }
 /* Ghost / secondary buttons carry a clearly visible gold-tinted border — the
    plain --line border is nearly invisible on the true-black canvas. This is the

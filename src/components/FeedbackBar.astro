@@ -157,9 +157,11 @@ const shares = [
   .share-native {
     display: inline-flex; align-items: center; gap: 0.45rem;
     font-family: var(--font-sans); font-size: 0.82rem; font-weight: 600;
-    border: 0; border-radius: 999px; background: var(--gold); color: var(--accent-contrast);
+    border: 1px solid color-mix(in srgb, var(--gold) 55%, var(--line)); border-radius: 999px;
+    background: var(--surface); color: var(--ink);
     padding: 0 0.95rem; height: 40px; cursor: pointer;
   }
+  .share-native:hover { border-color: var(--gold); background: color-mix(in srgb, var(--gold) 10%, var(--surface)); }
   .share-native[hidden] { display: none; }
   .share-native .sv { display: inline-flex; }
   .share-native .sv :global(svg) { width: 16px; height: 16px; }
