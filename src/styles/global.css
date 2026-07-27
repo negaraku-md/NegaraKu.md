@@ -289,11 +289,15 @@ main img {
 .btn-primary:hover {
   background: var(--gold-600);
 }
+/* Ghost / secondary buttons carry a clearly visible gold-tinted border — the
+   plain --line border is nearly invisible on the true-black canvas. This is the
+   site-wide standard for every secondary button. */
 .btn-ghost {
-  border-color: var(--line);
+  border-color: color-mix(in srgb, var(--gold) 55%, var(--line));
   color: var(--ink);
   background: var(--surface);
 }
 .btn-ghost:hover {
   border-color: var(--gold);
+  background: color-mix(in srgb, var(--gold) 10%, var(--surface));
 }

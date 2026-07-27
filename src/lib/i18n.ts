@@ -56,9 +56,9 @@ const STRINGS = {
   'reader.sizeLarge': { ms: 'Besar', en: 'Large', zh: '大' },
   'reader.sizeXlarge': { ms: 'Ekstra', en: 'X-Large', zh: '特大' },
   'home.hero.title': {
-    ms: 'Kenali Malaysia sepenuhnya',
-    en: 'Understand Malaysia, fully',
-    zh: '全面认识马来西亚',
+    ms: 'Fahami Malaysia secara mendalam',
+    en: 'Understand Malaysia, deeply',
+    zh: '深入认识马来西亚',
   },
   'home.hero.subtitle': {
     ms: 'Naratif yang dikurasi, boleh dibaca manusia dan AI — satu sumber kebenaran tentang negara kita.',
