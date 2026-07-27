@@ -110,6 +110,8 @@ const faqs = [
   </div>
 </section>
 
+<p class="brand-strap container">{L('Malaysia mesra-AI', 'AI-friendly Malaysia', 'AI 友好的马来西亚')}</p>
+
 <section class="container block two">
   <div class="psec">
     <header><span>{L('Visi', 'Vision', '愿景')}</span></header>
@@ -200,6 +202,13 @@ const faqs = [
   .psec-body { padding: 1.2rem; }
   .psec-body.prose p { margin: 0 0 0.9rem; line-height: 1.75; color: var(--ink-soft); }
   .psec-body.prose p:last-child { margin-bottom: 0; }
+
+  /* Brand strapline — the tagline, shown as a prominent centred line. */
+  .brand-strap {
+    margin: 2rem auto 0.4rem; text-align: center; font-family: var(--font-title);
+    font-weight: 800; font-size: clamp(1.5rem, 3.5vw, 2.1rem); color: var(--ink);
+    letter-spacing: 0.01em;
+  }
 
   /* Vision & Mission — larger, brighter statements than body prose. */
   .vm-lead { margin: 0; font-family: var(--font-title); font-size: 1.2rem; line-height: 1.5; color: var(--ink); }
