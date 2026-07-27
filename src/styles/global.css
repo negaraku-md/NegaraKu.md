@@ -121,11 +121,13 @@ img {
   height: auto;
 }
 
-/* The 1company lowercase wordmark guard. */
+/* The 1company lowercase wordmark guard. 1company's gold is THEIR brand colour,
+   so it stays fixed gold regardless of the site's Gold/Red theme. */
 .oneco {
   text-transform: lowercase !important;
   font-family: var(--font-serif);
   font-weight: 600;
+  color: #ffc000 !important;
 }
 
 .container {
