@@ -865,11 +865,11 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
   .artnav-btn {
     width: 44px; height: 44px; border-radius: 999px;
     display: grid; place-items: center;
-    border: 1px solid var(--line); background: var(--surface-2); color: var(--gold);
+    border: 1px solid color-mix(in srgb, var(--gold) 55%, var(--line)); background: var(--surface-2); color: var(--gold);
     box-shadow: var(--shadow-soft);
     transition: border-color 0.15s ease, background 0.15s ease;
   }
-  .artnav-btn:hover { border-color: var(--gold); background: var(--surface); }
+  .artnav-btn:hover { border-color: var(--gold); background: color-mix(in srgb, var(--gold) 10%, var(--surface)); }
   .artnav-btn svg { width: 20px; height: 20px; }
   @media (max-width: 560px) {
     /* Keep the row from crowding: tuck the arrows a touch tighter on phones. */

@@ -241,7 +241,7 @@ const ogImageAlt = image ? title : 'NegaraKu.md — knowledge base about Malaysi
         display: grid;
         place-items: center;
         border-radius: 999px;
-        border: 1px solid var(--line);
+        border: 1px solid color-mix(in srgb, var(--gold) 55%, var(--line));
         background: var(--surface-2);
         color: var(--gold);
         cursor: pointer;
@@ -249,7 +249,7 @@ const ogImageAlt = image ? title : 'NegaraKu.md — knowledge base about Malaysi
         opacity: 0;
         transform: translateY(12px);
         pointer-events: none;
-        transition: opacity 0.2s ease, transform 0.2s ease, border-color 0.15s ease;
+        transition: opacity 0.2s ease, transform 0.2s ease, border-color 0.15s ease, background 0.15s ease;
       }
       .to-top.show {
         opacity: 1;
@@ -258,7 +258,7 @@ const ogImageAlt = image ? title : 'NegaraKu.md — knowledge base about Malaysi
       }
       .to-top:hover {
         border-color: var(--gold);
-        background: var(--surface);
+        background: color-mix(in srgb, var(--gold) 10%, var(--surface));
       }
       .to-top svg {
         width: 20px;

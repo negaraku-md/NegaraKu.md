@@ -528,16 +528,19 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
   .tabs { display: flex; gap: 0.4rem; flex-wrap: wrap; }
   .tab {
     font-size: 0.82rem; font-weight: 700; padding: 0.4rem 0.8rem; border-radius: 999px;
-    border: 1px solid var(--line); background: var(--surface); color: var(--ink-soft); cursor: pointer;
+    border: 1px solid color-mix(in srgb, var(--gold) 55%, var(--line));
+    background: var(--surface); color: var(--ink-soft); cursor: pointer;
   }
-  .tab:hover { border-color: color-mix(in srgb, var(--gold) 45%, var(--line)); }
+  .tab:hover { border-color: var(--gold); background: color-mix(in srgb, var(--gold) 10%, var(--surface)); }
   .tab.on { color: var(--accent-contrast); background: var(--gold); border-color: var(--gold); }
-  /* Display toggles — same pill, but "on" is an outline (not a sort selection). */
+  /* Display toggles — same pill, but "on" is an outline (not a sort selection).
+     Off keeps a dashed edge as its affordance; both share the gold-tinted border. */
   .tgl {
     font-size: 0.82rem; font-weight: 700; padding: 0.4rem 0.8rem; border-radius: 999px;
-    border: 1px dashed var(--line); background: transparent; color: var(--muted); cursor: pointer;
+    border: 1px dashed color-mix(in srgb, var(--gold) 55%, var(--line));
+    background: transparent; color: var(--muted); cursor: pointer;
   }
-  .tgl:hover { border-color: color-mix(in srgb, var(--gold) 45%, var(--line)); color: var(--ink-soft); }
+  .tgl:hover { border-color: var(--gold); background: color-mix(in srgb, var(--gold) 10%, var(--surface)); color: var(--ink-soft); }
   .tgl.on {
     border-style: solid; border-color: color-mix(in srgb, var(--gold) 55%, var(--line));
     background: color-mix(in srgb, var(--gold) 10%, transparent); color: var(--ink);

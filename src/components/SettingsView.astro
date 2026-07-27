@@ -162,7 +162,8 @@ const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale
   .row { display: flex; align-items: center; gap: 1rem; padding: 0.5rem 0; flex-wrap: wrap; }
   .row-label { min-width: 7rem; font-size: 0.85rem; color: var(--ink-soft); }
   .seg { display: inline-flex; gap: 0.3rem; }
-  .seg button { padding: 0.4rem 0.75rem; font-size: 0.85rem; font-weight: 600; border: 1px solid var(--line); border-radius: 8px; background: var(--bg); color: var(--ink-soft); cursor: pointer; }
+  .seg button { padding: 0.4rem 0.75rem; font-size: 0.85rem; font-weight: 600; border: 1px solid color-mix(in srgb, var(--gold) 55%, var(--line)); border-radius: 8px; background: var(--bg); color: var(--ink-soft); cursor: pointer; }
+  .seg:not([data-group='theme']) button:not([aria-pressed='true']):hover { border-color: var(--gold); background: color-mix(in srgb, var(--gold) 10%, var(--surface)); }
   .seg button[aria-pressed='true'] { background: var(--gold); color: var(--accent-contrast); border-color: var(--gold); }
   /* Theme buttons: black bg + white border, accent (gold/red) as the content. */
   .seg[data-group='theme'] button { background: #000; border-color: rgba(255, 255, 255, 0.4); font-weight: 700; }
@@ -173,7 +174,7 @@ const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale
   .sw-gold { background: #ffc000; }
   .sw-red { background: #ff3333; }
   .actions { display: flex; align-items: center; gap: 1rem; }
-  .reset { padding: 0.5rem 1rem; font-weight: 700; border: 1px solid var(--line); border-radius: 8px; background: var(--bg); color: var(--ink-soft); cursor: pointer; }
-  .reset:hover { border-color: var(--gold); color: var(--gold); }
+  .reset { padding: 0.5rem 1rem; font-weight: 700; border: 1px solid color-mix(in srgb, var(--gold) 55%, var(--line)); border-radius: 8px; background: var(--bg); color: var(--ink-soft); cursor: pointer; }
+  .reset:hover { border-color: var(--gold); background: color-mix(in srgb, var(--gold) 10%, var(--surface)); color: var(--gold); }
   .saved { color: #4ade80; font-size: 0.85rem; font-weight: 700; }
 </style>

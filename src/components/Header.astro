@@ -245,12 +245,13 @@ const { locale, path } = Astro.props;
     place-items: center;
     width: 34px;
     height: 34px;
-    border: 1px solid var(--line);
+    border: 1px solid color-mix(in srgb, var(--gold) 55%, var(--line));
     border-radius: 8px;
     color: var(--ink-soft);
   }
   .icon-btn:hover {
     border-color: var(--gold);
+    background: color-mix(in srgb, var(--gold) 10%, var(--surface));
     color: var(--gold);
   }
   /* Search control: magnifier + a "/" key hint (GitHub-style). */
@@ -260,13 +261,14 @@ const { locale, path } = Astro.props;
     gap: 0.4rem;
     height: 34px;
     padding: 0 0.5rem;
-    border: 1px solid var(--line);
+    border: 1px solid color-mix(in srgb, var(--gold) 55%, var(--line));
     border-radius: 8px;
     color: var(--ink-soft);
     text-decoration: none;
   }
   .search-btn:hover {
     border-color: var(--gold);
+    background: color-mix(in srgb, var(--gold) 10%, var(--surface));
     color: var(--gold);
   }
   .search-btn kbd {
@@ -286,7 +288,7 @@ const { locale, path } = Astro.props;
   .lang {
     display: inline-flex;
     gap: 0.15rem;
-    border: 1px solid var(--line);
+    border: 1px solid color-mix(in srgb, var(--gold) 55%, var(--line));
     border-radius: 999px;
     padding: 0.15rem;
   }

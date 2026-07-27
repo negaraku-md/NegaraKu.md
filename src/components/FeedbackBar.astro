@@ -165,11 +165,11 @@ const shares = [
   .share-native .sv :global(svg) { width: 16px; height: 16px; }
   .share-ico {
     width: 40px; height: 40px; display: grid; place-items: center;
-    border: 1px solid var(--line); border-radius: 50%; background: var(--surface-2);
+    border: 1px solid color-mix(in srgb, var(--gold) 55%, var(--line)); border-radius: 50%; background: var(--surface-2);
     color: var(--ink-soft); cursor: pointer; text-decoration: none;
-    transition: border-color 0.15s, color 0.15s, transform 0.15s;
+    transition: border-color 0.15s, background 0.15s, color 0.15s, transform 0.15s;
   }
-  .share-ico:hover { border-color: var(--brand, var(--gold)); color: var(--brand, var(--gold)); transform: translateY(-2px); }
+  .share-ico:hover { border-color: var(--brand, var(--gold)); background: color-mix(in srgb, var(--gold) 10%, var(--surface)); color: var(--brand, var(--gold)); transform: translateY(-2px); }
   .share-ico .sv { display: inline-flex; }
   .share-ico .sv :global(svg) { width: 20px; height: 20px; }
   .share-ico.copy .sv-check { display: none; }

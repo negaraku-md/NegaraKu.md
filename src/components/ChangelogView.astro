@@ -254,8 +254,8 @@ const I18N = {
   .tb-line { display: flex; align-items: center; gap: 1rem; flex-wrap: wrap; }
   .tb-label { flex: none; min-width: 3.5rem; font-size: 0.68rem; font-weight: 800; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); }
   .tabs { display: flex; gap: 0.4rem; flex-wrap: wrap; }
-  .tab { font-size: 0.82rem; font-weight: 700; padding: 0.4rem 0.8rem; border-radius: 999px; border: 1px solid var(--line); background: var(--surface); color: var(--ink-soft); cursor: pointer; }
-  .tab:hover { border-color: color-mix(in srgb, var(--gold) 45%, var(--line)); }
+  .tab { font-size: 0.82rem; font-weight: 700; padding: 0.4rem 0.8rem; border-radius: 999px; border: 1px solid color-mix(in srgb, var(--gold) 55%, var(--line)); background: var(--surface); color: var(--ink-soft); cursor: pointer; }
+  .tab:hover { border-color: var(--gold); background: color-mix(in srgb, var(--gold) 10%, var(--surface)); }
   .tab.on { color: var(--accent-contrast); background: var(--gold); border-color: var(--gold); }
   .tab .tc { color: var(--muted); font-variant-numeric: tabular-nums; }
   .tab.on .tc { color: rgba(0, 0, 0, 0.6); }
@@ -269,8 +269,8 @@ const I18N = {
   .pg-size { display: flex; align-items: center; gap: 0.8rem; color: var(--muted); }
   .pg-size select { font: inherit; margin-left: 0.3rem; padding: 0.2rem 0.4rem; border-radius: 6px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); }
   .pg-nav { display: flex; align-items: center; gap: 0.3rem; }
-  .pg-nav button { min-width: 2rem; padding: 0.3rem 0.5rem; border-radius: 8px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); cursor: pointer; font-size: 1rem; line-height: 1; }
-  .pg-nav button:hover:not(:disabled) { border-color: var(--gold); color: var(--gold); }
+  .pg-nav button { min-width: 2rem; padding: 0.3rem 0.5rem; border-radius: 8px; border: 1px solid color-mix(in srgb, var(--gold) 55%, var(--line)); background: var(--surface); color: var(--ink); cursor: pointer; font-size: 1rem; line-height: 1; }
+  .pg-nav button:hover:not(:disabled) { border-color: var(--gold); background: color-mix(in srgb, var(--gold) 10%, var(--surface)); color: var(--gold); }
   .pg-nav button:disabled { opacity: 0.4; cursor: default; }
   .pg-of { display: inline-flex; align-items: center; gap: 0.35rem; color: var(--muted); }
   .pg-of input { width: 3.2rem; font: inherit; text-align: center; padding: 0.25rem; border-radius: 6px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); }
