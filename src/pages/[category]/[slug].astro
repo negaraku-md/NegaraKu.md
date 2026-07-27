@@ -22,6 +22,7 @@ const mdHref = localePath(path, locale) + '.md';
   description={article.data.summary}
   path={path}
   ogType="article"
+  image={`/og/${locale}/${article.data.category}/${article.data.slug}.png`}
   mdHref={mdHref}
   keywords={keywordsFor(article, locale).join(', ')}
   socialTitle={article.data.socialTitle}
