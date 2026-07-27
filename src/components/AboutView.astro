@@ -197,14 +197,13 @@ const faqs = [
 
 <section class="container block">
   <div class="psec">
-    <header><span>{L('Cara ia berfungsi', 'How it works', '运作方式')}</span></header>
+    <header><span>{L('Nilai teras', 'Core values', '核心价值')}</span></header>
     <div class="psec-body">
-      <div class="pcards">
-        {pillars.map((p) => (
-          <div class="pcard">
-            <span class="pico" aria-hidden="true">{p.icon}</span>
-            <b>{p.title}</b>
-            <p>{p.body}</p>
+      <div class="values">
+        {values.map((v) => (
+          <div class="value">
+            <b>{v.title}</b>
+            <p>{v.body}</p>
           </div>
         ))}
       </div>
@@ -214,13 +213,14 @@ const faqs = [
 
 <section class="container block">
   <div class="psec">
-    <header><span>{L('Nilai teras', 'Core values', '核心价值')}</span></header>
+    <header><span>{L('Cara ia berfungsi', 'How it works', '运作方式')}</span></header>
     <div class="psec-body">
-      <div class="values">
-        {values.map((v) => (
-          <div class="value">
-            <b>{v.title}</b>
-            <p>{v.body}</p>
+      <div class="pcards">
+        {pillars.map((p) => (
+          <div class="pcard">
+            <span class="pico" aria-hidden="true">{p.icon}</span>
+            <b>{p.title}</b>
+            <p>{p.body}</p>
           </div>
         ))}
       </div>
