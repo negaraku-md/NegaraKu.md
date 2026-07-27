@@ -1,17 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
-  <rect width="64" height="64" rx="12" fill="#07070A"/>
-  <rect x="1" y="1" width="62" height="62" rx="11" fill="none" stroke="#FFC000" stroke-width="1.5" stroke-opacity="0.35"/>
-  <g fill="#FFC000" transform="translate(32 28)">
-    <ellipse cx="0" cy="-13" rx="7.6" ry="11.5"/>
-    <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(72)"/>
-    <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(144)"/>
-    <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(216)"/>
-    <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(288)"/>
-  </g>
-  <circle cx="32" cy="28" r="5.3" fill="#07070A"/>
-  <path d="M32 28 C 32 39, 33 47, 35.5 54" stroke="#FFC000" stroke-width="2.6" fill="none" stroke-linecap="round"/>
-  <circle cx="35.6" cy="54.2" r="2.5" fill="#FFC000"/>
-  <circle cx="31" cy="49.5" r="1.9" fill="#FFC000"/>
-  <circle cx="38.4" cy="50.4" r="1.9" fill="#FFC000"/>
-  <circle cx="32" cy="28" r="2.4" fill="#FFC000"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <polygon points="256.0,12.0 44.7,134.0 44.7,378.0 256.0,500.0 467.3,378.0 467.3,134.0" fill="#0A0A0A" stroke="#0A0A0A" stroke-width="34" stroke-linejoin="round"/>
+  <g transform="translate(83.20 94.00) scale(5.4)"><defs><mask id="bh"><rect width="64" height="64" fill="#fff"/><circle cx="32" cy="28" r="5.3" fill="#000"/></mask></defs>
+    <g mask="url(#bh)"><g fill="#FFC000" transform="translate(32 28)">
+      <ellipse cx="0" cy="-13" rx="7.6" ry="11.5"/>
+      <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(72)"/>
+      <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(144)"/>
+      <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(216)"/>
+      <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(288)"/>
+    </g>
+    <path d="M32 28 C 32 39, 33 47, 35.5 54" stroke="#FFC000" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+    <circle cx="35.6" cy="54.2" r="2.5" fill="#FFC000"/>
+    <circle cx="31" cy="49.5" r="1.9" fill="#FFC000"/>
+    <circle cx="38.4" cy="50.4" r="1.9" fill="#FFC000"/></g>
+    <circle cx="32" cy="28" r="2.4" fill="#FFC000"/></g>
 </svg>

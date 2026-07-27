@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="120" viewBox="0 0 480 120">
-  <rect width="480" height="120" rx="16" fill="#07070A"/>
-  <g transform="translate(16.560000000000002 16.240000000000002) scale(1.42)"><defs><mask id="bh"><rect x="0" y="0" width="64" height="64" fill="#fff"/><circle cx="32" cy="28" r="5.3" fill="#000"/></mask></defs>
-    <g mask="url(#bh)"><g fill="#FFC000" transform="translate(32 28)">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300">
+  <rect width="900" height="300" rx="28" fill="#07070A"/>
+  <g transform="translate(16 16) scale(0.52)"><polygon points="256.0,12.0 44.7,134.0 44.7,378.0 256.0,500.0 467.3,378.0 467.3,134.0" fill="#0A0A0A" stroke="#0A0A0A" stroke-width="34" stroke-linejoin="round"/><g transform="translate(83.20 94.00) scale(5.4)"><defs><mask id="bl"><rect width="64" height="64" fill="#fff"/><circle cx="32" cy="28" r="5.3" fill="#000"/></mask></defs>
+    <g mask="url(#bl)"><g fill="#FFC000" transform="translate(32 28)">
       <ellipse cx="0" cy="-13" rx="7.6" ry="11.5"/>
       <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(72)"/>
       <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(144)"/>
@@ -12,6 +12,6 @@
     <circle cx="35.6" cy="54.2" r="2.5" fill="#FFC000"/>
     <circle cx="31" cy="49.5" r="1.9" fill="#FFC000"/>
     <circle cx="38.4" cy="50.4" r="1.9" fill="#FFC000"/></g>
-    <circle cx="32" cy="28" r="2.4" fill="#FFC000"/></g>
-  <text x="122" y="74" font-family="Montserrat, 'Segoe UI', Arial, sans-serif" font-size="52" font-weight="800" fill="#F4F4F8">NegaraKu<tspan fill="#FFC000">.md</tspan></text>
+    <circle cx="32" cy="28" r="2.4" fill="#FFC000"/></g></g>
+  <text x="300" y="182" font-family="Montserrat, 'Segoe UI', Arial, sans-serif" font-size="90" font-weight="800" fill="#F4F4F8">NegaraKu<tspan fill="#FFC000">.md</tspan></text>
 </svg>

@@ -1,53 +1,78 @@
-// build-logo.mjs — export the NegaraKu.md brand assets into public/brand/.
-// The mark is taken VERBATIM from public/favicon.svg (5-petal gold blossom with
-// a dark centre + gold pistil, a curved stem and three buds) so every asset is
-// pixel-identical to the site's logo. Gold #FFC000, dark canvas #07070A.
+// build-logo.mjs — the single source of truth for the NegaraKu.md logo.
+// Writes public/favicon.svg AND the public/brand/ kit from ONE badge definition
+// so nothing can drift. The logo is the 1company-style black rounded hexagon
+// with the 5-petal gold blossom (stem + buds) in place of the "1".
+// Gold #FFC000, badge black #0A0A0A, canvas #07070A, ink #F4F4F8.
 // Run: node scripts/build-logo.mjs
 
-import { mkdir, writeFile, readFile } from 'node:fs/promises';
+import { mkdir, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const OUT = path.join(ROOT, 'public', 'brand');
 const GOLD = '#FFC000';
+const BADGE_BLACK = '#0A0A0A';
 const DARK = '#07070A';
 const INK = '#F4F4F8';
 const FONT = "Montserrat, 'Segoe UI', Arial, sans-serif";
 
-// The exact favicon blossom, in the favicon's 64-unit space, flower head at
-// (32,28). Shared by every asset so nothing can drift from the real logo.
-const PETALS = `<g fill="${GOLD}" transform="translate(32 28)">
+// ── The blossom (favicon geometry, 64-unit space, flower head at 32,28) ──────
+const PETALS = (fill) => `<g fill="${fill}" transform="translate(32 28)">
       <ellipse cx="0" cy="-13" rx="7.6" ry="11.5"/>
       <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(72)"/>
       <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(144)"/>
       <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(216)"/>
       <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(288)"/>
     </g>`;
-const STEM = `<path d="M32 28 C 32 39, 33 47, 35.5 54" stroke="${GOLD}" stroke-width="2.6" fill="none" stroke-linecap="round"/>
-    <circle cx="35.6" cy="54.2" r="2.5" fill="${GOLD}"/>
-    <circle cx="31" cy="49.5" r="1.9" fill="${GOLD}"/>
-    <circle cx="38.4" cy="50.4" r="1.9" fill="${GOLD}"/>`;
-const PISTIL = `<circle cx="32" cy="28" r="2.4" fill="${GOLD}"/>`;
-// Transparent centre (masked hole) — for use on any background.
-const BLOSSOM_T = `<defs><mask id="bh"><rect x="0" y="0" width="64" height="64" fill="#fff"/><circle cx="32" cy="28" r="5.3" fill="#000"/></mask></defs>
-    <g mask="url(#bh)">${PETALS}
-    ${STEM}</g>
-    ${PISTIL}`;
+const STEM = (fill) => `<path d="M32 28 C 32 39, 33 47, 35.5 54" stroke="${fill}" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+    <circle cx="35.6" cy="54.2" r="2.5" fill="${fill}"/>
+    <circle cx="31" cy="49.5" r="1.9" fill="${fill}"/>
+    <circle cx="38.4" cy="50.4" r="1.9" fill="${fill}"/>`;
+const PISTIL = (fill) => `<circle cx="32" cy="28" r="2.4" fill="${fill}"/>`;
 
-const markSvg = (size) =>
-  `<svg xmlns="http://www.w3.org/2000/svg" width="${size}" height="${size}" viewBox="0 0 64 64">${BLOSSOM_T}</svg>`;
+// The blossom with a masked (transparent) centre, so the background shows through
+// the hole. maskId must be unique per SVG document.
+function blossom(fill, maskId) {
+  return `<defs><mask id="${maskId}"><rect width="64" height="64" fill="#fff"/><circle cx="32" cy="28" r="5.3" fill="#000"/></mask></defs>
+    <g mask="url(#${maskId})">${PETALS(fill)}
+    ${STEM(fill)}</g>
+    ${PISTIL(fill)}`;
+}
 
-// Full lockup: the blossom + "NegaraKu.md" wordmark. bg=null → transparent.
-const lockupSvg = (w, h, bg) => {
-  const s = 1.42; // scale the 64-unit blossom
-  const cx = 62, cy = 56; // where the flower head sits
-  return `<svg xmlns="http://www.w3.org/2000/svg" width="${w}" height="${h}" viewBox="0 0 480 120">
-  ${bg ? `<rect width="480" height="120" rx="16" fill="${bg}"/>` : ''}
-  <g transform="translate(${cx - 32 * s} ${cy - 28 * s}) scale(${s})">${BLOSSOM_T}</g>
-  <text x="122" y="74" font-family="${FONT}" font-size="52" font-weight="800" fill="${INK}">NegaraKu<tspan fill="${GOLD}">.md</tspan></text>
+// Place a blossom so its visual centre (≈32,30 in the 64-unit space) lands at
+// (cx,cy) scaled by s.
+function placeBlossom(cx, cy, s, maskId) {
+  return `<g transform="translate(${(cx - 32 * s).toFixed(2)} ${(cy - 30 * s).toFixed(2)}) scale(${s})">${blossom(GOLD, maskId)}</g>`;
+}
+
+// Pointy-top rounded hexagon, drawn as a stroked polygon so the corners round
+// like the 1company badge. Returns the <polygon> element.
+function hexagon(cx, cy, R, fill, round = 34) {
+  const pts = [];
+  for (let i = 0; i < 6; i++) {
+    const a = (Math.PI / 180) * (90 + i * 60);
+    pts.push(`${(cx + R * Math.cos(a)).toFixed(1)},${(cy - R * Math.sin(a)).toFixed(1)}`);
+  }
+  return `<polygon points="${pts.join(' ')}" fill="${fill}" stroke="${fill}" stroke-width="${round}" stroke-linejoin="round"/>`;
+}
+
+// ── The badge (primary logo): black hexagon + gold blossom, 512-unit canvas ──
+const badgeSvg = (px) => `<svg xmlns="http://www.w3.org/2000/svg" width="${px}" height="${px}" viewBox="0 0 512 512">
+  ${hexagon(256, 256, 244, BADGE_BLACK)}
+  ${placeBlossom(256, 256, 5.4, 'bh')}
 </svg>`;
-};
+
+// Flat mark: the blossom alone (transparent centre), for monochrome / tiny use.
+const markSvg = (px) => `<svg xmlns="http://www.w3.org/2000/svg" width="${px}" height="${px}" viewBox="0 0 64 64">${blossom(GOLD, 'bh')}</svg>`;
+
+// Horizontal lockup: badge + "NegaraKu.md" wordmark. bg=null → transparent.
+const lockupSvg = (w, h, bg) =>
+  `<svg xmlns="http://www.w3.org/2000/svg" width="${w}" height="${h}" viewBox="0 0 900 300">
+  ${bg ? `<rect width="900" height="300" rx="28" fill="${bg}"/>` : ''}
+  <g transform="translate(16 16) scale(0.52)">${hexagon(256, 256, 244, BADGE_BLACK)}${placeBlossom(256, 256, 5.4, 'bl')}</g>
+  <text x="300" y="182" font-family="${FONT}" font-size="90" font-weight="800" fill="${INK}">NegaraKu<tspan fill="${GOLD}">.md</tspan></text>
+</svg>`;
 
 async function main() {
   await mkdir(OUT, { recursive: true });
@@ -59,39 +84,44 @@ async function main() {
   }
   const png = async (svg, file, w, h) => {
     if (!sharp) return;
-    await sharp(Buffer.from(svg)).resize(w, h ?? w).png().toFile(path.join(OUT, file));
+    await sharp(Buffer.from(svg)).resize(w, h ?? w, { fit: 'contain', background: { r: 0, g: 0, b: 0, alpha: 0 } }).png().toFile(path.join(OUT, file));
   };
 
-  // Icon = the favicon verbatim (guaranteed identical to the site logo).
-  const favicon = await readFile(path.join(ROOT, 'public', 'favicon.svg'), 'utf8');
-  await writeFile(path.join(OUT, 'negaraku-icon.svg'), favicon);
-  await png(favicon, 'negaraku-icon-1024.png', 1024);
-  await png(favicon, 'negaraku-icon-512.png', 512);
+  // The favicon IS the badge — one source of truth for the whole site.
+  const favicon = badgeSvg(512);
+  await writeFile(path.join(ROOT, 'public', 'favicon.svg'), favicon);
 
-  // Mark (transparent) + lockups.
+  // Brand kit: icon (badge), mark (flat blossom), lockups.
+  await writeFile(path.join(OUT, 'negaraku-icon.svg'), badgeSvg(512));
   await writeFile(path.join(OUT, 'negaraku-mark.svg'), markSvg(512));
-  await writeFile(path.join(OUT, 'negaraku-lockup.svg'), lockupSvg(480, 120, null));
-  await writeFile(path.join(OUT, 'negaraku-lockup-dark.svg'), lockupSvg(480, 120, DARK));
+  await writeFile(path.join(OUT, 'negaraku-lockup.svg'), lockupSvg(900, 300, null));
+  await writeFile(path.join(OUT, 'negaraku-lockup-dark.svg'), lockupSvg(900, 300, DARK));
+
+  await png(badgeSvg(1024), 'negaraku-icon-1024.png', 1024);
+  await png(badgeSvg(512), 'negaraku-icon-512.png', 512);
   await png(markSvg(1024), 'negaraku-mark-1024.png', 1024);
   await png(markSvg(512), 'negaraku-mark-512.png', 512);
-  await png(lockupSvg(1920, 480, null), 'negaraku-lockup-transparent-1920.png', 1920, 480);
-  await png(lockupSvg(1920, 480, DARK), 'negaraku-lockup-dark-1920.png', 1920, 480);
+  await png(lockupSvg(1800, 600, null), 'negaraku-lockup-transparent-1800.png', 1800, 600);
+  await png(lockupSvg(1800, 600, DARK), 'negaraku-lockup-dark-1800.png', 1800, 600);
 
   const readme = `# NegaraKu.md — brand assets
 
-The mark is the five-petal gold blossom (with stem + buds) taken verbatim from
-\`public/favicon.svg\`. The wordmark is **NegaraKu** in ink with **.md** in gold.
+The logo is a **black rounded hexagon** (1company badge shape) with the
+**five-petal gold blossom** (stem + buds) in place of the "1". \`build-logo.mjs\`
+is the single source of truth — it also writes \`public/favicon.svg\`, so the
+site icon and this kit can never drift.
 
 ## Files
 | File | Use |
 |---|---|
-| \`negaraku-mark.svg\` / \`-mark-1024.png\` / \`-512.png\` | Blossom mark, transparent centre — icons, avatars, bullets on any bg |
-| \`negaraku-icon.svg\` / \`-icon-1024.png\` / \`-512.png\` | The favicon (blossom on dark rounded square) — app icon / avatar |
-| \`negaraku-lockup.svg\` / \`-lockup-transparent-1920.png\` | Full horizontal logo, transparent |
-| \`negaraku-lockup-dark.svg\` / \`-lockup-dark-1920.png\` | Full logo on the dark brand canvas |
+| \`negaraku-icon.svg\` / \`-icon-1024.png\` / \`-512.png\` | The hexagon badge — favicon, app icon, avatar, primary logo |
+| \`negaraku-mark.svg\` / \`-mark-1024.png\` / \`-512.png\` | Flat gold blossom, transparent centre — bullets / tiny / monochrome use on any bg |
+| \`negaraku-lockup.svg\` / \`-lockup-transparent-1800.png\` | Badge + wordmark, transparent |
+| \`negaraku-lockup-dark.svg\` / \`-lockup-dark-1800.png\` | Badge + wordmark on the dark brand canvas |
 
 ## Colours
 - Gold accent: \`#FFC000\`
+- Badge black: \`#0A0A0A\`
 - Dark canvas: \`#07070A\`
 - Ink (wordmark): \`#F4F4F8\`
 
@@ -99,10 +129,10 @@ The mark is the five-petal gold blossom (with stem + buds) taken verbatim from
 Wordmark: **Montserrat** (700–800). SVGs reference it; PNGs rasterise with the
 nearest available system font — prefer the SVGs when the exact typeface matters.
 
-Regenerate with \`node scripts/build-logo.mjs\`.
+Regenerate everything (favicon + kit) with \`node scripts/build-logo.mjs\`.
 `;
   await writeFile(path.join(OUT, 'README.md'), readme);
-  console.log('[logo] wrote brand assets (from favicon geometry) to public/brand/');
+  console.log('[logo] wrote public/favicon.svg + brand kit (hexagon badge)');
 }
 
 main().catch((e) => console.warn('[logo] failed:', e.message));
