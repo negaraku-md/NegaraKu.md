@@ -92,9 +92,9 @@ const shares = [
       </div>
       <p class="thanks" hidden data-thanks>
         {L(
-          'Terima kasih — maklum balas anda direkodkan.',
-          'Thank you — your feedback has been recorded.',
-          '谢谢——您的反馈已记录。',
+          'Terima kasih atas maklum balas anda.',
+          'Thanks for your feedback.',
+          '谢谢您的反馈。',
         )}
       </p>
     </div>
@@ -131,7 +131,9 @@ const shares = [
 </div>
 
 <script>
-  // Vote is recorded locally for now; wire to an endpoint when one exists.
+  // The vote is stored per-article in THIS browser only (no backend yet).
+  const fbKey = `fb:${location.pathname}`;
+
   document.querySelectorAll<HTMLButtonElement>('.fb [data-vote]').forEach((b) => {
     b.addEventListener('click', () => {
       const bar = b.closest('.fb');
@@ -140,10 +142,23 @@ const shares = [
       const t = bar?.querySelector<HTMLElement>('[data-thanks]');
       if (t) t.hidden = false;
       try {
-        localStorage.setItem(`fb:${location.pathname}`, b.dataset.vote ?? '');
+        localStorage.setItem(fbKey, b.dataset.vote ?? '');
       } catch {}
     });
   });
+
+  // Restore the reader's own saved vote so it survives a refresh.
+  try {
+    const saved = localStorage.getItem(fbKey);
+    if (saved) {
+      document.querySelectorAll('.fb').forEach((bar) => {
+        const b = bar.querySelector<HTMLElement>(`[data-vote="${saved}"]`);
+        if (b) b.classList.add('on');
+        const t = bar.querySelector<HTMLElement>('[data-thanks]');
+        if (t) t.hidden = false;
+      });
+    }
+  } catch {}
 
   // Share links get the runtime page URL appended (static build has no URL yet).
   const url = encodeURIComponent(location.href);
