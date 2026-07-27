@@ -58,6 +58,19 @@ sourced) · **trilingual** (BM / EN / 中文 parity) · **read, verify, build on
 
 ---
 
+## Core values
+
+Short principles — what we stand for (distinct from the mechanical “how it works”).
+
+| Value | BM | 中文 | Principle |
+|---|---|---|---|
+| **Open by default** | Terbuka secara lalai | 默认开放 | Everything is source-visible on GitHub; every page offers its raw Markdown. |
+| **Cited, not claimed** | Dipetik, bukan didakwa | 有据可查，而非空谈 | Every checkable fact carries its source. |
+| **Trilingual parity** | Tiga bahasa setara | 三语对等 | Malay, English, and Chinese are treated as equals — no “main” language. |
+| **Neutral on sensitive ground** | Neutral pada isu sensitif | 敏感议题保持中立 | Race, religion, royalty, and the constitution — sourced, careful, human-reviewed. |
+
+---
+
 ## Logo
 
 The mark is a **1company-style black rounded hexagon badge** with a **five-petal

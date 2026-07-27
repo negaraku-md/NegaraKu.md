@@ -51,6 +51,42 @@ const pillars = [
   },
 ];
 
+// Core values — short principles (distinct from the mechanical "How it works").
+const values = [
+  {
+    title: L('Terbuka secara lalai', 'Open by default', '默认开放'),
+    body: L(
+      'Semuanya boleh dilihat sumbernya di GitHub; setiap halaman menyediakan Markdown mentahnya.',
+      'Everything is source-visible on GitHub; every page offers its raw Markdown.',
+      '一切源码公开于 GitHub；每个页面都提供其原始 Markdown。',
+    ),
+  },
+  {
+    title: L('Dipetik, bukan didakwa', 'Cited, not claimed', '有据可查，而非空谈'),
+    body: L(
+      'Setiap fakta yang boleh disemak membawa sumbernya.',
+      'Every checkable fact carries its source.',
+      '每一条可核查的事实都附有来源。',
+    ),
+  },
+  {
+    title: L('Tiga bahasa setara', 'Trilingual parity', '三语对等'),
+    body: L(
+      'Bahasa Melayu, Inggeris dan Cina dilayan setara — tiada bahasa “utama”.',
+      'Malay, English, and Chinese are treated as equals — no “main” language.',
+      '马来文、英文与中文一视同仁——没有“主”语言。',
+    ),
+  },
+  {
+    title: L('Neutral pada isu sensitif', 'Neutral on sensitive ground', '敏感议题保持中立'),
+    body: L(
+      'Kaum, agama, institusi diraja dan perlembagaan — bersumber, berhati-hati, disemak manusia.',
+      'Race, religion, royalty, and the constitution — sourced, careful, human-reviewed.',
+      '种族、宗教、王室与宪法——注明来源、审慎处理、人工审阅。',
+    ),
+  },
+];
+
 const timeline = [
   { date: '2026-07-22', text: L('NegaraKu.md dilancarkan sebagai projek sumber terbuka.', 'NegaraKu.md launches as an open-source project.', 'NegaraKu.md 作为开源项目启动。') },
   { date: '2026-07-26', text: L('Korpus mencapai paras tiga bahasa penuh — 570 topik × 3.', 'Corpus reaches full trilingual parity — 570 topics × 3.', '语料库达成完整三语对等——570 个主题 × 3。') },
@@ -152,6 +188,22 @@ const faqs = [
   </div>
 </section>
 
+<section class="container block">
+  <div class="psec">
+    <header><span>{L('Nilai teras', 'Core values', '核心价值')}</span></header>
+    <div class="psec-body">
+      <div class="values">
+        {values.map((v) => (
+          <div class="value">
+            <b>{v.title}</b>
+            <p>{v.body}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </div>
+</section>
+
 <section class="container block two">
   <div class="psec">
     <header><span>{L('Garis masa', 'Timeline', '时间线')}</span></header>
@@ -212,6 +264,12 @@ const faqs = [
 
   /* Vision & Mission — larger, brighter statements than body prose. */
   .vm-lead { margin: 0; font-family: var(--font-title); font-size: 1.2rem; line-height: 1.5; color: var(--ink); }
+
+  /* Core values — compact principles, gold titles, a left gold rule per item. */
+  .values { display: grid; grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr)); gap: 1rem 1.5rem; }
+  .value { border-left: 2px solid var(--gold); padding-left: 0.85rem; }
+  .value b { display: block; font-family: var(--font-title); font-size: 1rem; color: var(--ink); margin-bottom: 0.25rem; }
+  .value p { margin: 0; color: var(--ink-soft); font-size: 0.9rem; line-height: 1.55; }
 
   .pcards { display: grid; grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); gap: 1rem; }
   .pcard { background: var(--surface-2); border: 1px solid var(--line); border-radius: 10px; padding: 1.1rem 1.15rem; }
