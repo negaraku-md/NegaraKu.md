@@ -137,8 +137,25 @@ const faqs = [
 />
 
 <section class="container block">
-  <div class="psec">
+  <div class="psec story">
     <header><span>{L('Kisah kami', 'Our story', '我们的故事')}</span></header>
+    <svg class="story-bloom" viewBox="0 0 64 64" aria-hidden="true">
+      <defs><mask id="story-bloom-mask"><rect width="64" height="64" fill="#fff" /><circle cx="32" cy="28" r="5.3" fill="#000" /></mask></defs>
+      <g fill="currentColor" mask="url(#story-bloom-mask)">
+        <g transform="translate(32 28)">
+          <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" />
+          <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(72)" />
+          <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(144)" />
+          <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(216)" />
+          <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(288)" />
+        </g>
+        <path d="M32 28 C 32 39, 33 47, 35.5 54" stroke="currentColor" stroke-width="2.6" fill="none" stroke-linecap="round" />
+        <circle cx="35.6" cy="54.2" r="2.5" />
+        <circle cx="31" cy="49.5" r="1.9" />
+        <circle cx="38.4" cy="50.4" r="1.9" />
+      </g>
+      <circle cx="32" cy="28" r="2.4" fill="currentColor" />
+    </svg>
     <div class="psec-body prose">
       <p>{L('NegaraKu.md dibina atas satu idea: pengetahuan tentang Malaysia patut mudah dibaca — oleh manusia dan oleh model bahasa besar. Namanya diambil daripada lagu kebangsaan Malaysia.', 'NegaraKu.md is built on one idea: knowledge about Malaysia should be easy to read — by people and by large language models alike. Its name comes from Malaysia\'s national anthem.', 'NegaraKu.md 建立在一个理念之上：关于马来西亚的知识应当便于阅读——无论是人，还是大型语言模型。它的名字取自马来西亚国歌。')}</p>
       <p>{L('Kandungan awal dijana AI dan disemak, kemudian dikembangkan menjadi korpus tiga bahasa yang lengkap. Hari ini setiap topik hidup sebagai fail di GitHub, terbuka untuk sesiapa membaca, memetik, atau memperbaiki.', 'Initial content was AI-drafted and reviewed, then grown into a complete trilingual corpus. Today every topic lives as a file on GitHub, open for anyone to read, cite, or improve.', '初始内容由 AI 起草并审阅，随后发展为完整的三语语料库。如今每个主题都以 GitHub 上的文件形式存在，任何人都可阅读、引用或改进。')}</p>
@@ -264,6 +281,17 @@ const faqs = [
   .psec-body { padding: 1.2rem; }
   .psec-body.prose p { margin: 0 0 0.9rem; line-height: 1.75; color: var(--ink-soft); }
   .psec-body.prose p:last-child { margin-bottom: 0; }
+
+  /* "Our story": cap the prose to a reading column and fill the open right with
+     a faint, theme-aware blossom watermark (behind the text). */
+  .story { position: relative; overflow: hidden; }
+  .story .psec-body.prose { max-width: 62ch; position: relative; z-index: 1; }
+  .story-bloom {
+    position: absolute; right: 1.5rem; top: 55%; transform: translateY(-50%);
+    width: clamp(150px, 16vw, 260px); height: auto;
+    color: var(--gold); opacity: 0.08; pointer-events: none; z-index: 0;
+  }
+  @media (max-width: 800px) { .story-bloom { display: none; } .story .psec-body.prose { max-width: none; } }
 
   /* Brand strapline — the tagline, shown as a prominent centred line. */
   .brand-strap {

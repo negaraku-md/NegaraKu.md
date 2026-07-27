@@ -162,6 +162,7 @@ const REQUEST_INVITE = `${REPO}/issues/new?labels=invitation-request&title=${enc
     <header><span>💡 {L('Cadangkan penambahbaikan', 'Suggest an improvement', '建议改进')}</span></header>
     <div class="psec-body">
       <p class="lead">{L('Pilih di mana topik anda sesuai. Jika kategori atau topik belum ada, cadangkan yang baharu.', 'Choose where your topic fits. If the category or topic doesn’t exist yet, propose a new one.', '选择你的主题所属位置。若分类或主题尚不存在，可提议新增。')}</p>
+      <div class="form-grid">
       <form class="cform sform" data-repo={REPO}>
         <label>{L('Seksyen', 'Section', '版块')}
           <select name="section" required>
@@ -187,6 +188,22 @@ const REQUEST_INVITE = `${REPO}/issues/new?labels=invitation-request&title=${enc
         <button type="submit" class="btn btn-primary">{L('Hantar cadangan melalui GitHub', 'Submit suggestion via GitHub', '通过 GitHub 提交建议')}</button>
         <p class="muted">{L('Membuka isu GitHub yang telah diisi. Tiada jemputan diperlukan untuk mencadang.', 'Opens a pre-filled GitHub issue. No invitation needed to suggest.', '打开一个预填的 GitHub issue。提交建议无需邀请。')}</p>
       </form>
+      <aside class="form-help">
+        <b>{L('Cadangan yang baik', 'A good suggestion', '好的建议')}</b>
+        <ul>
+          <li>{L('Namakan topik yang jelas dan khusus', 'Names a clear, specific topic', '给出清晰、具体的主题')}</li>
+          <li>{L('Nyatakan siapa memerlukannya dan mengapa', 'Says who needs it and why', '说明谁需要它、为什么')}</li>
+          <li>{L('Sertakan sumber jika ada', 'Adds a source if you have one', '如有来源请附上')}</li>
+        </ul>
+        <b>{L('Apa yang berlaku seterusnya', 'What happens next', '接下来会怎样')}</b>
+        <ol>
+          <li>{L('Disemak untuk kesesuaian & pertindihan', 'Checked for fit and duplicates', '检查适配性与去重')}</li>
+          <li>{L('Ditambah ke backlog', 'Added to the backlog', '加入待办')}</li>
+          <li>{L('Didraf oleh penyumbang yang dijemput', 'Drafted by an invited contributor', '由受邀贡献者起草')}</li>
+          <li>{L('Diterbitkan dalam tiga bahasa', 'Published in three languages', '以三语发布')}</li>
+        </ol>
+      </aside>
+      </div>
     </div>
   </div>
 </section>
@@ -197,6 +214,7 @@ const REQUEST_INVITE = `${REPO}/issues/new?labels=invitation-request&title=${enc
     <header><span>🚩 {L('Laporkan isu', 'Report an issue', '报告问题')}</span></header>
     <div class="psec-body">
       <p class="lead">{L('Laporan berkaitan halaman tertentu. Cara terpantas: guna pautan “Laporkan isu” di bahagian bawah mana-mana artikel — ia telah mengisi tajuk dan URL untuk anda.', 'A report is about a specific page. The fastest way: use the “Report an issue” link at the bottom of any article — it pre-fills the title and URL for you.', '报告针对具体页面。最快方式：使用任意文章底部的"报告问题"链接——它已为你预填标题和网址。')}</p>
+      <div class="form-grid">
       <form class="cform rform" data-repo={REPO}>
         <label>{L('URL halaman', 'Page URL', '页面网址')}<input name="url" required placeholder="https://negaraku.md/…" /></label>
         <label>{L('Jenis', 'Type', '类型')}
@@ -213,6 +231,21 @@ const REQUEST_INVITE = `${REPO}/issues/new?labels=invitation-request&title=${enc
         <button type="submit" class="btn btn-primary">{L('Hantar laporan melalui GitHub', 'Submit report via GitHub', '通过 GitHub 提交报告')}</button>
         <p class="muted">{L('Membuka isu GitHub yang telah diisi. Penyerahan tanpa nama dibenarkan.', 'Opens a pre-filled GitHub issue. Anonymous submissions allowed.', '打开一个预填的 GitHub issue。允许匿名提交。')}</p>
       </form>
+      <aside class="form-help">
+        <b>{L('Laporan yang baik', 'A good report', '好的报告')}</b>
+        <ul>
+          <li>{L('Petik teks yang salah dengan tepat', 'Quotes the exact wrong text', '准确引用出错的文字')}</li>
+          <li>{L('Berikan versi yang betul', 'Gives the correct version', '给出正确的版本')}</li>
+          <li>{L('Pautkan sumber jika boleh', 'Links a source if you can', '尽量附上来源')}</li>
+        </ul>
+        <b>{L('Apa yang berlaku seterusnya', 'What happens next', '接下来会怎样')}</b>
+        <ol>
+          <li>{L('Ditriaj dan disahkan dengan sumber', 'Triaged and verified against the source', '分流并对照来源核实')}</li>
+          <li>{L('Dibetulkan oleh penyumbang yang dijemput', 'Fixed by an invited contributor', '由受邀贡献者修正')}</li>
+          <li>{L('Diterbitkan semula dalam tiga bahasa', 'Republished in all three languages', '以三语重新发布')}</li>
+        </ol>
+      </aside>
+      </div>
     </div>
   </div>
 </section>
@@ -394,6 +427,13 @@ const REQUEST_INVITE = `${REPO}/issues/new?labels=invitation-request&title=${enc
   .lc-stages b { display: block; font-family: var(--font-title); margin: 0.5rem 0 0.25rem; color: var(--ink); font-size: 0.98rem; }
   .lc-stages p { margin: 0; color: var(--ink-soft); font-size: 0.85rem; line-height: 1.5; }
 
+  /* Form + helper: two columns so the form doesn't leave a wide empty right. */
+  .form-grid { display: grid; grid-template-columns: minmax(0, 40rem) minmax(0, 1fr); gap: 1.8rem; align-items: start; }
+  .form-help { background: var(--surface-2); border: 1px solid var(--line); border-radius: 10px; padding: 1rem 1.15rem; }
+  .form-help b { display: block; font-family: var(--font-title); color: var(--ink); font-size: 0.92rem; margin: 0 0 0.5rem; }
+  .form-help ul + b, .form-help ol + b { margin-top: 1rem; }
+  .form-help ul, .form-help ol { margin: 0; padding-left: 1.1rem; color: var(--ink-soft); font-size: 0.86rem; line-height: 1.5; display: grid; gap: 0.3rem; }
+
   /* Forms */
   .cform { display: grid; gap: 0.9rem; max-width: 44rem; }
   .cform label { display: grid; gap: 0.3rem; font-size: 0.85rem; font-weight: 600; color: var(--ink-soft); }
@@ -430,6 +470,7 @@ const REQUEST_INVITE = `${REPO}/issues/new?labels=invitation-request&title=${enc
   @media (max-width: 800px) {
     .lc-stages { grid-template-columns: 1fr 1fr; }
     .two { grid-template-columns: 1fr; gap: 1.5rem; }
+    .form-grid { grid-template-columns: 1fr; }
   }
   @media (max-width: 520px) { .lc-stages { grid-template-columns: 1fr; } }
 </style>
