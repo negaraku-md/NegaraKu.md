@@ -83,8 +83,8 @@
    Everything reads the accent through --gold / --accent, so only the accent
    pair needs overriding; the true-black canvas stays. */
 :root[data-theme='black-red'] {
-  --gold: #ff2020; /* bright red */
-  --gold-600: #e00000;
+  --gold: #ff3333; /* bright red */
+  --gold-600: #e01f1f;
   --accent-contrast: #ffffff; /* white text on red fills (black is for gold) */
 }
 

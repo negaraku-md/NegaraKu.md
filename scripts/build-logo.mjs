@@ -12,7 +12,7 @@ import { fileURLToPath } from 'node:url';
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const OUT = path.join(ROOT, 'public', 'brand');
 const GOLD = '#FFC000';
-const RED = '#FF2020'; // bright red — matches the Black·Red theme accent
+const RED = '#FF3333'; // bright red — matches the Black·Red theme accent
 const BADGE_BLACK = '#0A0A0A';
 const BORDER = '#FFFFFF';
 const DARK = '#07070A';
