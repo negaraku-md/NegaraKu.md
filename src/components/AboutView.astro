@@ -2,6 +2,7 @@
 import type { Locale } from '@/lib/categories';
 import { siteStats } from '@/lib/content';
 import { localePath } from '@/lib/i18n';
+import { REPO } from '@/lib/site';
 import PageHero from './PageHero.astro';
 
 interface Props {
@@ -262,6 +263,7 @@ const faqs = [
         'You don’t need to code — or even have a GitHub account — to read NegaraKu.md. GitHub only comes in when you choose to help improve it.',
         '阅读 NegaraKu.md 无需编程，甚至无需 GitHub 账户。只有当你选择帮助改进它时，才会用到 GitHub。',
       )}</p>
+      <p class="gh-cta"><a class="btn btn-ghost" href={REPO} rel="noopener">{L('Lihat projek di GitHub', 'View the project on GitHub', '在 GitHub 上查看项目')} ↗</a></p>
     </div>
   </div>
 </section>
