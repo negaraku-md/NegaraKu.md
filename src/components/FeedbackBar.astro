@@ -25,17 +25,17 @@ const meta = `\n\n---\nArticle: ${title}\nTopic ID: ${topicId}\nVersion: ${versi
 const issueUrl = (kind: 'error' | 'improve' | 'topic') => {
   const cfg = {
     error: {
-      labels: 'correction',
-      title: `Correction: ${title}`,
+      labels: 'report',
+      title: `Report: ${title}`,
       body: `**What is incorrect?**\n\n\n**What should it say instead?**\n\n\n**Source supporting the correction (link):**\n${meta}`,
     },
     improve: {
-      labels: 'improvement',
-      title: `Improvement: ${title}`,
+      labels: 'suggestion',
+      title: `Suggestion: ${title}`,
       body: `**What could be clearer or more complete?**\n${meta}`,
     },
     topic: {
-      labels: 'topic-request',
+      labels: 'suggestion',
       title: `Topic request`,
       body: `**What topic should we cover?**\n\n\n**Why is it useful, and who needs it?**\n${meta}`,
     },
