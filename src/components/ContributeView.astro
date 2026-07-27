@@ -223,13 +223,18 @@ const REQUEST_INVITE =
       <form class="cform rform" data-repo={REPO}>
         <label>{L('URL halaman', 'Page URL', '页面网址')}<input name="url" required placeholder="https://negaraku.md/…" /></label>
         <label>{L('Jenis', 'Type', '类型')}
-          <select name="type">
+          <select name="type" required>
+            <option value="" disabled selected>{L('Pilih jenis…', 'Choose a type…', '选择类型……')}</option>
             <option value="factual">{L('Fakta silap', 'Factual error', '事实错误')}</option>
             <option value="outdated">{L('Maklumat lapuk', 'Outdated', '信息过时')}</option>
             <option value="link">{L('Pautan rosak', 'Broken link', '链接失效')}</option>
             <option value="typo">{L('Salah taip / bahasa', 'Typo / wording', '错别字 / 措辞')}</option>
             <option value="sensitive">{L('Kebimbangan sensitif', 'Sensitive-content concern', '敏感内容顾虑')}</option>
+            <option value="other">{L('Lain-lain', 'Other', '其他')}</option>
           </select>
+        </label>
+        <label class="type-other-wrap" hidden>{L('Nyatakan jenis', 'Specify the type', '请说明类型')}
+          <input name="typeOther" placeholder={L('cth. Imej rosak', 'e.g. Broken image', '例如：图片损坏')} />
         </label>
         <label>{L('Apa yang salah?', 'What’s wrong?', '哪里有问题？')}<textarea name="detail" rows="4" required placeholder={L('Terangkan isu, dan versi yang betul jika tahu…', 'Describe the issue, and the correct version if you know it…', '描述问题，若知道正确内容也请写出……')}></textarea></label>
         <label>{L('Sumber (pilihan)', 'Source (optional)', '来源（可选）')}<input name="source" placeholder="https://…" /></label>
@@ -364,13 +369,24 @@ const REQUEST_INVITE =
   // Report → pre-filled GitHub issue.
   const rform = document.querySelector('form.rform');
   if (rform) {
+    const typeSel = rform.querySelector('[name="type"]');
+    const otherWrap = rform.querySelector('.type-other-wrap');
+    const otherInput = rform.querySelector('[name="typeOther"]');
+    // Reveal the free-text field only when "Other" is chosen.
+    typeSel?.addEventListener('change', () => {
+      const isOther = typeSel.value === 'other';
+      if (otherWrap) otherWrap.hidden = !isOther;
+      if (otherInput) otherInput.required = isOther;
+    });
     rform.addEventListener('submit', (e) => {
       e.preventDefault();
       const v = (n) => (rform.querySelector(`[name="${n}"]`)?.value || '').trim();
-      const title = `Report (${v('type')}): ${v('url')}`;
+      // Use the reader's own words when they picked "Other".
+      const type = v('type') === 'other' ? (v('typeOther') || 'other') : v('type');
+      const title = `Report (${type}): ${v('url')}`;
       const body = [
         `**Page:** ${v('url')}`,
-        `**Type:** ${v('type')}`,
+        `**Type:** ${type}`,
         `**Issue:** ${v('detail')}`,
         `**Source:** ${v('source') || '—'}`,
       ].join('\n');
