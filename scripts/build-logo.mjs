@@ -18,12 +18,12 @@ const DARK = '#07070A';
 const INK = '#F4F4F8';
 const FONT = "Montserrat, 'Segoe UI', Arial, sans-serif";
 
-// Badge geometry (512-unit canvas, matches the 1company badge): a uniform white
-// hexagon OUTLINE (stroked, so the border is the same weight at every corner),
-// a transparent gap, then the black hexagon. Ro = outer radius of the white
-// stroke, border = white stroke width, gap = transparent ring, cr = corner
-// rounding of the black hexagon.
-const HEX = { Ro: 250, border: 12, gap: 8, cr: 26 };
+// Badge geometry (512-unit canvas), measured from the official 1company asset
+// (1company_Logo_transparent.png, 534px): the white hexagon OUTLINE sits
+// directly on the black hexagon's edge — NO transparent gap. Ro = outer radius
+// of the white stroke, border = white stroke width, cr = black corner rounding.
+// gap kept at 0 so the black meets the outline exactly like the original.
+const HEX = { Ro: 255, border: 11, gap: 0, cr: 34 };
 
 // ── The blossom (favicon geometry, 64-unit space, flower head at 32,28) ──────
 const PETALS = (fill) => `<g fill="${fill}" transform="translate(32 28)">
@@ -70,12 +70,12 @@ function hexPts(cx, cy, R) {
 //    weight at every edge and corner), sitting a transparent `gap` outside it.
 function badgeBody() {
   const { Ro, border, gap, cr } = HEX;
-  const Rw = Ro - border / 2;                 // centre-line radius of white stroke
-  const blackOuter = Rw - border / 2 - gap;   // outer extent of the black hexagon
-  const Rb = blackOuter - cr / 2;             // black polygon vertex radius
+  const Rw = Ro - border / 2;      // centre-line radius of white stroke
+  const blackOuter = Rw - gap;     // black meets the white centre-line (gap 0 → on the edge)
+  const Rb = blackOuter - cr / 2;  // black polygon vertex radius
   return `<polygon points="${hexPts(256, 256, Rb)}" fill="${BADGE_BLACK}" stroke="${BADGE_BLACK}" stroke-width="${cr}" stroke-linejoin="round"/>
   <polygon points="${hexPts(256, 256, Rw)}" fill="none" stroke="${BORDER}" stroke-width="${border}" stroke-linejoin="round" stroke-linecap="round"/>
-  ${placeBlossom(256, 256, 5.4, 'bh')}`;
+  ${placeBlossom(256, 256, 5.7, 'bh')}`;
 }
 
 // ── The badge (primary logo), 512-unit canvas ──
