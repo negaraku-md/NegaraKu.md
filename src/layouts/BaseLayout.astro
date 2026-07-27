@@ -134,6 +134,12 @@ const ogImageAlt = image ? title : 'NegaraKu.md — knowledge base about Malaysi
     </main>
     <Footer locale={locale} />
 
+    <button id="to-top" class="to-top" type="button" aria-label={t('a11y.top', locale)} title={t('a11y.top', locale)} data-pagefind-ignore>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <path d="M12 19V5" /><path d="m5 12 7-7 7 7" />
+      </svg>
+    </button>
+
     <script>
       // Open every external link in a new tab (with safe rel). Internal
       // links (same host, relative paths, #anchors) keep their default behaviour.
@@ -209,6 +215,61 @@ const ogImageAlt = image ? title : 'NegaraKu.md — knowledge base about Malaysi
         };
         walk(document.body);
       })();
+
+      // Back-to-top: reveal after scrolling one screen, smooth-scroll up on click.
+      (() => {
+        const btn = document.getElementById('to-top');
+        if (!btn) return;
+        const toggle = () => btn.classList.toggle('show', window.scrollY > window.innerHeight * 0.6);
+        toggle();
+        window.addEventListener('scroll', toggle, { passive: true });
+        btn.addEventListener('click', () => {
+          const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+          window.scrollTo({ top: 0, behavior: reduce ? 'auto' : 'smooth' });
+        });
+      })();
     </script>
+
+    <style>
+      .to-top {
+        position: fixed;
+        right: clamp(1rem, 3vw, 2rem);
+        bottom: clamp(1rem, 3vw, 2rem);
+        z-index: 45;
+        width: 44px;
+        height: 44px;
+        display: grid;
+        place-items: center;
+        border-radius: 999px;
+        border: 1px solid var(--line);
+        background: var(--surface-2);
+        color: var(--gold);
+        cursor: pointer;
+        box-shadow: var(--shadow-soft);
+        opacity: 0;
+        transform: translateY(12px);
+        pointer-events: none;
+        transition: opacity 0.2s ease, transform 0.2s ease, border-color 0.15s ease;
+      }
+      .to-top.show {
+        opacity: 1;
+        transform: translateY(0);
+        pointer-events: auto;
+      }
+      .to-top:hover {
+        border-color: var(--gold);
+        background: var(--surface);
+      }
+      .to-top svg {
+        width: 20px;
+        height: 20px;
+      }
+      @media (prefers-reduced-motion: reduce) {
+        .to-top {
+          transition: opacity 0.2s ease;
+          transform: none;
+        }
+      }
+    </style>
   </body>
 </html>

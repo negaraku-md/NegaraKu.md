@@ -105,6 +105,7 @@ const STRINGS = {
     zh: '赞助单位',
   },
   'a11y.skip': { ms: 'Langkau ke kandungan', en: 'Skip to content', zh: '跳到内容' },
+  'a11y.top': { ms: 'Kembali ke atas', en: 'Back to top', zh: '返回顶部' },
 } as const;
 
 export type StringKey = keyof typeof STRINGS;
