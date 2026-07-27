@@ -34,9 +34,16 @@ const stats = [
       <p class="pitch-lead">{t('home.hero.title', locale)}</p>
       <p class="pitch">
         {L(
-          'Pangkalan pengetahuan Malaysia yang lengkap — sumber terbuka, mesra-AI, dibina dari pelbagai perspektif untuk mengetengahkan Malaysia kepada dunia.',
-          'An open-source, AI-friendly, complete knowledge base of Malaysia — built from diverse perspectives to curate the nation for the world.',
-          '开源、对 AI 友好的马来西亚完整知识库——从多元观点建构，为全世界呈现马来西亚。',
+          'Pangkalan pengetahuan sumber terbuka dan mesra-AI tentang Malaysia',
+          'The open-source, AI-friendly knowledge base about Malaysia',
+          '关于马来西亚的开源、AI 友好知识库',
+        )}
+      </p>
+      <p class="pitch pitch-sub">
+        {L(
+          'Dibina dari pelbagai perspektif, untuk dunia mengenali Malaysia',
+          'Built from diverse perspectives, for the world to discover Malaysia',
+          '从多元视角建构，让世界认识马来西亚',
         )}
       </p>
       <form class="hsearch" action={localePath('/search', locale)} method="get" role="search">
@@ -110,6 +117,8 @@ const stats = [
     line-height: 1.2; color: var(--ink); margin: 0 0 0.8rem;
   }
   .pitch { font-size: 1.05rem; line-height: 1.7; color: var(--ink-soft); max-width: 52ch; margin: 0 0 1.7rem; }
+  .pitch:not(.pitch-sub) { margin-bottom: 0; }
+  .pitch-sub { color: var(--muted); }
   .hsearch {
     display: flex; align-items: center; gap: 0.6rem; width: 100%; max-width: 34rem; margin: 0 0 1.2rem;
     background: var(--surface-2); border: 1px solid var(--line); border-radius: 999px;
