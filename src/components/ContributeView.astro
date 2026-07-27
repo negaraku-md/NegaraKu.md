@@ -13,23 +13,26 @@ const { locale } = Astro.props;
 const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
 const stats = await siteStats(locale);
 
-// Three ways in, ordered from lowest to highest effort. Each is a numbered step
-// card so a first-time contributor can see the whole menu at a glance.
+// Phase 1 is invitation-only for authoring, but reporting and requesting an
+// invitation are open to everyone. Three cards, lowest to highest commitment.
 const methods = [
   {
     icon: '📝',
-    title: L('Isi borang', 'Fill the form', '填写表单'),
-    desc: L('Tiada akaun diperlukan. Isi borang di bawah — ia membuka isu GitHub yang telah diisi untuk anda semak dan hantar.', 'No account needed. Fill the form below — it opens a pre-filled GitHub issue for you to review and submit.', '无需账户。填写下方表单——它会为你打开一个预填的 GitHub issue，供你查看并提交。'),
+    title: L('Lapor atau cadang', 'Report or suggest', '报告或建议'),
+    tag: L('Terbuka untuk semua', 'Open to all', '人人可参与'),
+    desc: L('Terjumpa kesilapan atau mahu topik ditambah? Isi borang di bawah — ia membuka isu GitHub yang telah diisi. Tiada akaun atau jemputan diperlukan.', 'Spotted an error or want a topic added? Fill the form below — it opens a pre-filled GitHub issue. No account or invitation needed.', '发现错误或希望新增主题？填写下方表单——它会打开一个预填的 GitHub issue。无需账户或邀请。'),
   },
   {
-    icon: '🔀',
-    title: L('Fork & Pull Request', 'Fork & Pull Request', '复刻与 Pull Request'),
-    desc: L('Untuk penyumbang teknikal: tambah fail Markdown mengikut skema dan buka pull request di GitHub.', 'For technical contributors: add a Markdown file following the schema and open a pull request on GitHub.', '面向技术贡献者：按规范添加 Markdown 文件，并在 GitHub 上发起 pull request。'),
+    icon: '✉️',
+    title: L('Pohon jemputan', 'Request an invitation', '申请邀请'),
+    tag: L('Untuk penulis', 'For authors', '面向作者'),
+    desc: L('Mahu menulis atau menterjemah? Buka isu untuk memohon akses penyumbang — kami menerima penyumbang secara jemputan pada fasa awal ini.', 'Want to author or translate? Open an issue to request contributor access — we onboard contributors by invitation during this early phase.', '想撰写或翻译？提交 issue 申请贡献者权限——在早期阶段我们以邀请方式接纳贡献者。'),
   },
   {
     icon: '🤖',
-    title: L('Dipandu AI', 'AI-guided', 'AI 引导'),
-    desc: L('Tampal gesaan di sebelah ke dalam ChatGPT / Claude untuk merangka artikel yang mematuhi piawai kami.', 'Paste the prompt on the right into ChatGPT / Claude to draft an article that follows our standard.', '将右侧提示词粘贴到 ChatGPT / Claude，起草符合我们标准的文章。'),
+    title: L('Dipandu AI', 'AI-guided drafting', 'AI 引导起草'),
+    tag: L('Penyumbang dijemput', 'Invited contributors', '受邀贡献者'),
+    desc: L('Setelah dijemput: tampal gesaan di sebelah ke dalam ChatGPT / Claude untuk merangka artikel yang mematuhi piawai kami, kemudian buka pull request.', 'Once invited: paste the prompt on the right into ChatGPT / Claude to draft an article that follows our standard, then open a pull request.', '受邀后：将右侧提示词粘贴到 ChatGPT / Claude，起草符合我们标准的文章，然后发起 pull request。'),
   },
 ];
 
@@ -56,9 +59,9 @@ const aiPrompt = L(
   ]}
   title={L('Sumbang kepada NegaraKu.md', 'Contribute to NegaraKu.md', '为 NegaraKu.md 做贡献')}
   desc={L(
-    'NegaraKu.md dibina oleh komuniti dan dijalankan di GitHub. Pilih cara masuk anda.',
-    'NegaraKu.md is built by the community and runs on GitHub. Pick your way in.',
-    'NegaraKu.md 由社区共建，运行于 GitHub。选择你的参与方式。',
+    'Pada fasa awal kami, penulisan adalah secara jemputan — tetapi sesiapa boleh melaporkan kesilapan, mencadangkan topik, atau memohon jemputan. Semuanya di GitHub.',
+    'In our early phase, authoring is by invitation — but anyone can report an error, suggest a topic, or request an invitation. It all runs on GitHub.',
+    '在我们的早期阶段，内容撰写采用邀请制——但任何人都可报告错误、建议主题或申请邀请。一切都在 GitHub 上进行。',
   )}
   stats={[
     { value: stats.sections, label: L('seksyen', 'sections', '版块') },
@@ -78,6 +81,7 @@ const aiPrompt = L(
             <span class="mnum">{i + 1}</span>
             <span class="mi" aria-hidden="true">{m.icon}</span>
             <b>{m.title}</b>
+            <span class="mtag">{m.tag}</span>
             <p>{m.desc}</p>
           </div>
         ))}
@@ -96,7 +100,7 @@ const aiPrompt = L(
 
 <section class="container block two">
   <div class="psec">
-    <header><span>{L('Kongsi pengetahuan anda', 'Share your knowledge', '分享你的知识')}</span></header>
+    <header><span>{L('Lapor atau cadangkan topik', 'Report or suggest a topic', '报告或建议主题')}</span></header>
     <div class="psec-body">
       <form
         class="cform"
@@ -133,6 +137,7 @@ const aiPrompt = L(
     <div class="psec">
       <header><span>{L('Panduan', 'Guides', '指南')}</span></header>
       <div class="psec-body links">
+        <a href={`${REPO}/issues/new?labels=invitation-request&title=${encodeURIComponent('Invitation request')}`} rel="noopener">{L('Pohon jemputan menyumbang', 'Request an invitation to contribute', '申请贡献者邀请')} ↗</a>
         <a href={`${REPO}/blob/main/CONTRIBUTING.md`} rel="noopener">{L('Panduan sumbangan penuh', 'Full contribution guide', '完整贡献指南')} ↗</a>
         <a href={REPO} rel="noopener">{L('Repositori GitHub', 'GitHub repository', 'GitHub 仓库')} ↗</a>
         <p class="muted small">{L('Topik sensitif (kaum, agama, institusi diraja, perlembagaan) mesti bersumber, neutral, dan disemak manusia sebelum terbit.', 'Sensitive topics (race, religion, royalty, the constitution) must be sourced, neutral, and human-reviewed before publishing.', '敏感话题（种族、宗教、王室、宪法）必须注明来源、保持中立，并在发布前经人工审阅。')}</p>
@@ -202,7 +207,12 @@ const aiPrompt = L(
     color: var(--gold); opacity: 0.55;
   }
   .mi { font-size: 1.6rem; }
-  .mcard b { display: block; font-family: var(--font-title); margin: 0.4rem 0 0.35rem; color: var(--ink); }
+  .mcard b { display: block; font-family: var(--font-title); margin: 0.4rem 0 0.3rem; color: var(--ink); }
+  .mtag {
+    display: inline-block; font-size: 0.68rem; font-weight: 700; letter-spacing: 0.03em;
+    text-transform: uppercase; color: var(--gold); border: 1px solid var(--line);
+    background: var(--surface); border-radius: 999px; padding: 0.1rem 0.55rem; margin-bottom: 0.5rem;
+  }
   .mcard p { color: var(--ink-soft); font-size: 0.9rem; margin: 0; line-height: 1.6; }
 
   /* Contribution flow strip */
