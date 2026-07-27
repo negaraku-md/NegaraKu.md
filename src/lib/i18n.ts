@@ -21,6 +21,12 @@ const STRINGS = {
     en: 'An open-source knowledge base about Malaysia',
     zh: '关于马来西亚的开源知识库',
   },
+  // Short brand tagline shown under the wordmark in the header lockup.
+  'brand.tagline': {
+    ms: 'Malaysia mesra-AI',
+    en: 'AI-friendly Malaysia',
+    zh: 'AI 友好的马来西亚',
+  },
   'nav.categories': { ms: 'Kategori', en: 'Categories', zh: '分类' },
   'nav.search': { ms: 'Cari', en: 'Search', zh: '搜索' },
   'nav.about': { ms: 'Tentang', en: 'About', zh: '关于' },
