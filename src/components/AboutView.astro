@@ -226,16 +226,26 @@ const faqs = [
   </div>
 </section>
 
+<section class="container block">
+  <div class="psec">
+    <header><span>{L('Sumbang', 'Contribute', '贡献')}</span></header>
+    <div class="psec-body split-body">
+      <div>
+        <b class="cta-title">{L('Bantu bina NegaraKu.md', 'Help build NegaraKu.md', '一起建设 NegaraKu.md')}</b>
+        <p class="muted">{L('Betulkan fakta, tambah topik, atau perhalusi terjemahan — semuanya melalui GitHub.', 'Fix a fact, add a topic, or refine a translation — all through GitHub.', '更正事实、新增主题，或改进翻译——全部通过 GitHub。')}</p>
+      </div>
+      <a class="btn btn-primary" href={localePath('/contribute', locale)}>{L('Sumbang kepada NegaraKu.md', 'Contribute to NegaraKu.md', '为 NegaraKu.md 做贡献')}</a>
+    </div>
+  </div>
+</section>
+
 <section class="container block sponsor-block">
   <div class="psec">
     <header><span>{L('Penaja', 'Sponsor', '赞助')}</span></header>
-    <div class="psec-body sponsor-body">
-      <div>
-        <p class="sbody">{L('NegaraKu.md ditaja oleh', 'NegaraKu.md is sponsored by', 'NegaraKu.md 由')}
-          <a href="https://www.1company.com" rel="noopener"><span class="oneco">1company.com</span></a>{L('.', '.', ' 赞助。')}</p>
-        <p class="muted">{L('Sokongan mereka memastikan projek ini kekal terbuka dan percuma.', 'Their support keeps this project open and free.', '他们的支持让本项目保持开放与免费。')}</p>
-      </div>
-      <a class="btn btn-primary" href={localePath('/contribute', locale)}>{L('Sumbang kepada NegaraKu.md', 'Contribute to NegaraKu.md', '为 NegaraKu.md 做贡献')}</a>
+    <div class="psec-body">
+      <p class="sbody">{L('NegaraKu.md ditaja oleh', 'NegaraKu.md is sponsored by', 'NegaraKu.md 由')}
+        <a href="https://www.1company.com" rel="noopener"><span class="oneco">1company.com</span></a>{L('.', '.', ' 赞助。')}</p>
+      <p class="muted">{L('Sokongan mereka memastikan projek ini kekal terbuka dan percuma.', 'Their support keeps this project open and free.', '他们的支持让本项目保持开放与免费。')}</p>
     </div>
   </div>
 </section>
@@ -289,7 +299,8 @@ const faqs = [
   .faq p { color: var(--ink-soft); margin: 0 0 0.6rem; line-height: 1.6; }
 
   .sponsor-block { padding-bottom: 3rem; }
-  .sponsor-body { display: flex; align-items: center; justify-content: space-between; gap: 1.5rem; flex-wrap: wrap; }
+  .split-body { display: flex; align-items: center; justify-content: space-between; gap: 1.5rem; flex-wrap: wrap; }
+  .cta-title { display: block; font-family: var(--font-title); font-size: 1.1rem; color: var(--ink); margin-bottom: 0.3rem; }
   .sbody { font-size: 1.1rem; margin: 0 0 0.4rem; }
   .sbody a { color: var(--gold); text-decoration: none; font-weight: 700; }
   .muted { color: var(--muted); margin: 0; }
