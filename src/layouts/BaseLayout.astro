@@ -162,10 +162,24 @@ const ogImageAlt = image ? title : 'NegaraKu.md — knowledge base about Malaysi
         const SKIP = new Set(['SCRIPT', 'STYLE', 'CODE', 'PRE', 'TEXTAREA', 'KBD', 'INPUT']);
         const esc = (s) => s.replace(/[&<>]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;' }[c]));
         const brand = (s) => s.replace(/NegaraKu\.md/g, '<span class="wm">NegaraKu<span class="wm-dot">.md</span></span>');
+        // The wordmark treatment (bright ink + gold dot) is for dark surfaces
+        // only — on a light/gold background (e.g. a gold button) the gold ".md"
+        // would vanish. Find the nearest opaque background and skip if it's light.
+        const isDarkBg = (el) => {
+          for (let n = el; n && n.nodeType === 1; n = n.parentElement) {
+            const c = getComputedStyle(n).backgroundColor;
+            const m = c && c.match(/rgba?\(([^)]+)\)/);
+            if (!m) continue;
+            const [r, g, b, a = '1'] = m[1].split(',').map((x) => parseFloat(x));
+            if (a === 0) continue; // transparent — keep climbing
+            return (0.2126 * r + 0.7152 * g + 0.0722 * b) / 255 < 0.5;
+          }
+          return true; // default: assume the dark canvas
+        };
         const walk = (node) => {
           for (const child of [...node.childNodes]) {
             if (child.nodeType === 3) {
-              if (child.nodeValue.includes('NegaraKu.md')) {
+              if (child.nodeValue.includes('NegaraKu.md') && isDarkBg(node)) {
                 const span = document.createElement('span');
                 span.innerHTML = brand(esc(child.nodeValue));
                 child.replaceWith(span);
