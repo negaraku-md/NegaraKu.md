@@ -21,7 +21,7 @@ appliesTo: "学生、翻译员、记者，以及任何希望理解「rakyat」�
 
 lang: "zh"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

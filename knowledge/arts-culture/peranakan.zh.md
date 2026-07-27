@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "适合任何想要客观、得体地了解土生华人（峇峇娘惹）是谁，以及如何在马六甲与槟城辨识其菜肴、服饰与物质文化遗产的人。"
 lang: "zh"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

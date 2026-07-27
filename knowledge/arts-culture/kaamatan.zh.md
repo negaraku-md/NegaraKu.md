@@ -34,7 +34,7 @@ faq:
 
 lang: "zh"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 status: "published"
 aiAssisted: true

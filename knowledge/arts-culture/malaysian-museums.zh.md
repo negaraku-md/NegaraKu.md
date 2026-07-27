@@ -20,7 +20,7 @@ appliesTo: "适合正在规划博物馆行程的游客、想了解马来西亚�
 
 lang: "zh"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

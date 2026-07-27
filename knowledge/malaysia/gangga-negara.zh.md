@@ -18,7 +18,7 @@ keyTakeaways:
 appliesTo: "曾在历史课或社交媒体上听过 Gangga Negara 这个名字、并想知道究竟哪些可以被证实、哪些只是传说的读者。"
 lang: "zh"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 status: "published"
 aiAssisted: true

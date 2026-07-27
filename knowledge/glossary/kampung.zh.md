@@ -21,7 +21,7 @@ appliesTo: "想了解「kampung」字面意义以外含义的人——包括研�
 
 lang: "zh"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"

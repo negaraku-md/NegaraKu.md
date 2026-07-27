@@ -35,7 +35,7 @@ socialTitle: "谁是原住民（Orang Asli）——三大族群、18个支系，
 
 lang: "zh"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"

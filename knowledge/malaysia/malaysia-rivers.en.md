@@ -20,7 +20,7 @@ appliesTo: "Students of Malaysian geography and history, and anyone who wants to
 
 lang: "en"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 status: "published"
 aiAssisted: true

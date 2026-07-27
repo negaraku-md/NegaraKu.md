@@ -35,7 +35,7 @@ socialTitle: "The Arabic alphabet that has written Malay for seven centuries —
 
 lang: "en"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 status: "published"
 aiAssisted: true

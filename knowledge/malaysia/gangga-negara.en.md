@@ -18,7 +18,7 @@ keyTakeaways:
 appliesTo: "Readers who have heard the name Gangga Negara in history lessons or on social media and want to know what can actually be proven, as opposed to what is merely legend."
 lang: "en"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 status: "published"
 aiAssisted: true

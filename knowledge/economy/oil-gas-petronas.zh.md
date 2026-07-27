@@ -23,7 +23,7 @@ appliesTo: "任何试图理解马来西亚油气行业法律基础、联邦财�
 
 lang: "zh"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"

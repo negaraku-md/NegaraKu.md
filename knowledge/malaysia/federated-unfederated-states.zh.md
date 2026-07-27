@@ -34,7 +34,7 @@ faq:
     a: "马来联邦与非联邦马来属邦皆于1946年4月1日并入马来亚联邦，而马来亚联邦本身在数年之内又被马来亚联合邦（Federation of Malaya）取代。"
 lang: "zh"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

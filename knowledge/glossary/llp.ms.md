@@ -25,7 +25,7 @@ appliesTo: "Pengasas, pengamal profesional dan penasihat yang sedang memilih ant
 
 lang: "ms"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"

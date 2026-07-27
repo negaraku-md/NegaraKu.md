@@ -23,7 +23,7 @@ appliesTo: "学生、教师、公务员、新闻工作者，以及任何在护�
 
 lang: "zh"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

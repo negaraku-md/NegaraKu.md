@@ -37,7 +37,7 @@ verificationNeeded:
 
 lang: "en"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

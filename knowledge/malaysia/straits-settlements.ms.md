@@ -30,7 +30,7 @@ faq:
     a: "Ia dibubarkan pada 1 April 1946. Pulau Pinang dan Melaka dilipat ke dalam Malayan Union bersama-sama negeri-negeri Bersekutu dan Tidak Bersekutu, manakala Singapura diasingkan menjadi sebuah Tanah Jajahan Mahkota yang berasingan tersendiri."
 lang: "ms"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

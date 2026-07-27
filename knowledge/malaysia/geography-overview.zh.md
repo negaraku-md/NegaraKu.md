@@ -18,7 +18,7 @@ keyTakeaways:
 appliesTo: "适合任何想了解马来西亚的人口、城市与水患风险为何集中在特定地区的读者——学生、新移民、规划人员，或是任何对「季风季节」在不同海岸代表不同意义感到困惑的人。"
 lang: "zh"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 status: "published"
 aiAssisted: true

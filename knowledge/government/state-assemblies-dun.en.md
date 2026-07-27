@@ -25,7 +25,7 @@ appliesTo: "Anyone who needs to understand descriptively how a State Legislative
 
 lang: "en"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"

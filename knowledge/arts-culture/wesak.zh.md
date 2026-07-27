@@ -19,7 +19,7 @@ appliesTo: "适用于马来西亚境内任何人——无论是否佛教徒—�
 
 lang: "zh"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"

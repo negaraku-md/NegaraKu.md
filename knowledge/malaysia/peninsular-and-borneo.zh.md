@@ -21,7 +21,7 @@ appliesTo: "旅客、企业，以及任何想要理解为什么「马来西亚�
 
 lang: "zh"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"

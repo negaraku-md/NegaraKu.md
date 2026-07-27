@@ -17,7 +17,7 @@ keyTakeaways:
 appliesTo: "适合任何对马来西亚工艺传统、锡矿开采历史或 Royal Selangor 感兴趣的人"
 lang: "zh"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

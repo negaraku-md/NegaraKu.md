@@ -21,7 +21,7 @@ appliesTo: "任何需要解读马来西亚劳动市场数据的人——求职�
 
 lang: "zh"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"

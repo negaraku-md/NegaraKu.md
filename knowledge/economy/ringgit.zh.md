@@ -21,7 +21,7 @@ appliesTo: "任何受汇率影响的人——进口商、出口商、旅客、�
 
 lang: "zh"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"

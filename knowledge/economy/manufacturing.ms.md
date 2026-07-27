@@ -21,7 +21,7 @@ appliesTo: "Pelabur, pencari kerja, penganalisis dasar dan pelajar yang cuba mem
 
 lang: "ms"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"

@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "任何想了解马六甲马来皇室体制如何不间断地延续至现代马来州属，特别是柔佛的人。"
 lang: "zh"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

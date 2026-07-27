@@ -21,7 +21,7 @@ appliesTo: "马来西亚公民、为子女办理登记的父母，以及任何�
 
 lang: "zh"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"

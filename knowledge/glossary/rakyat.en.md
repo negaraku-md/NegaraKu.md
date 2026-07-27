@@ -21,7 +21,7 @@ appliesTo: "Students, translators, journalists and anyone seeking to understand 
 
 lang: "en"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

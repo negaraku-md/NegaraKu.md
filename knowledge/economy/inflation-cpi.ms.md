@@ -21,7 +21,7 @@ appliesTo: "Sesiapa yang cuba membaca laporan inflasi Malaysia dengan tepat — 
 
 lang: "ms"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"

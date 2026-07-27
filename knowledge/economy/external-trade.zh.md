@@ -21,7 +21,7 @@ appliesTo: "任何阅读马来西亚贸易头条新闻的人——出口商、�
 
 lang: "zh"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"

@@ -22,7 +22,7 @@ appliesTo: "任何需要马来西亚基本事实——人口、面积、首都�
 
 lang: "zh"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 status: "published"
 aiAssisted: true

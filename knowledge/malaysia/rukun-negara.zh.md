@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "学生、教师、公务员，以及任何需要根据档案记录查阅《国家原则》正式文本及其制定历程的人士。"
 lang: "zh"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 status: "published"
 aiAssisted: true

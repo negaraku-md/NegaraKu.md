@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Readers who want to understand the technical and political reasons behind the fall of Melaka in 1511, and what happened to Melaka's institutions and royal lineage after the city was lost."
 lang: "en"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

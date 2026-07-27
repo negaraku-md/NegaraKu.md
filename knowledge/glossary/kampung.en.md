@@ -21,7 +21,7 @@ appliesTo: "Anyone trying to understand what 'kampung' means beyond its literal 
 
 lang: "en"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"

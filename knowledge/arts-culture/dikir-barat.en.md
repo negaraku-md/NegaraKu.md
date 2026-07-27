@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "Anyone who wants to understand the performance form of Dikir Barat, the roles of Tukang Karut and Tok Juara, and the structure of a troupe."
 lang: "en"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 status: "published"
 aiAssisted: true

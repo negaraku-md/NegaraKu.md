@@ -21,7 +21,7 @@ appliesTo: "任何评估马来西亚经济风险敞口的人——投资者、�
 
 lang: "zh"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"

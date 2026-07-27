@@ -22,7 +22,7 @@ appliesTo: "任何在马来西亚阅读法律文件、新闻或法庭诉讼，�
 
 lang: "zh"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"

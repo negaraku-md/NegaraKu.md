@@ -23,7 +23,7 @@ appliesTo: "任何想了解马来西亚宪制结构的人——学生、研究�
 
 lang: "zh"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

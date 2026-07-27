@@ -22,7 +22,7 @@ appliesTo: "Anyone who needs to identify which authority issues a particular Mal
 
 lang: "en"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"

@@ -22,7 +22,7 @@ appliesTo: "任何需要正确解读马来西亚人口、劳动力或房地产�
 
 lang: "zh"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"

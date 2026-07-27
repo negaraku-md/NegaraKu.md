@@ -24,7 +24,7 @@ appliesTo: "任何想了解首相署究竟是什么、为何如此多看似不�
 
 lang: "zh"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"

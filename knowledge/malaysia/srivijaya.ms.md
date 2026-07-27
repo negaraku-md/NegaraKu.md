@@ -18,7 +18,7 @@ keyTakeaways:
 appliesTo: "Pembaca yang ingin memahami apa yang menguasai Selat Melaka sebelum Melaka melakukannya, dan bagaimana sebuah kuasa lautan yang berpusat di Sumatera akhirnya menyumbang secara langsung kepada sejarah diraja Semenanjung Tanah Melayu sendiri."
 lang: "ms"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 status: "published"
 aiAssisted: true

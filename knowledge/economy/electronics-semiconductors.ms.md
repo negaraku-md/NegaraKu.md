@@ -21,7 +21,7 @@ appliesTo: "Sesiapa yang menilai pendedahan ekonomi Malaysia — pelabur, pencar
 
 lang: "ms"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"

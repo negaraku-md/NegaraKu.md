@@ -21,7 +21,7 @@ appliesTo: "Sesiapa yang membaca berita perdagangan Malaysia — pengeksport, pe
 
 lang: "ms"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"

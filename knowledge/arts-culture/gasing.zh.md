@@ -20,7 +20,7 @@ appliesTo: "适合任何想了解陀螺玩法、gasing pangkah 与 gasing uri �
 
 lang: "zh"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"

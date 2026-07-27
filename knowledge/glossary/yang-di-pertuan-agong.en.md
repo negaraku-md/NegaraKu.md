@@ -21,7 +21,7 @@ appliesTo: "Students, researchers, journalists and anyone who wants a descriptiv
 
 lang: "en"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

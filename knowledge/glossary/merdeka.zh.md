@@ -21,7 +21,7 @@ appliesTo: "任何想了解「merdeka」一词真正含义与来源，而不仅�
 
 lang: "zh"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

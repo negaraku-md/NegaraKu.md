@@ -20,7 +20,7 @@ appliesTo: "任何想了解马来西亚行政区划、以及为何吉隆坡不�
 
 lang: "zh"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"

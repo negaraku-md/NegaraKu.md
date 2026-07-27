@@ -33,7 +33,7 @@ socialTitle: "Bagaimana tarian klasik India Selatan bertapak di Malaysia"
 
 lang: "ms"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

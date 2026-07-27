@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Students, researchers and general readers who want to understand the origins of Malaysia's constitutional structure — particularly how the standing of the Malay Rulers and the terms of citizenship were first set out in writing before Merdeka."
 lang: "en"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

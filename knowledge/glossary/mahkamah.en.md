@@ -22,7 +22,7 @@ appliesTo: "Anyone reading legal documents, news or court proceedings in Malaysi
 
 lang: "en"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"

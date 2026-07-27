@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Pembaca yang mahukan objektif, sasaran dan rangka masa Dasar Ekonomi Baru yang didokumenkan sebagaimana dinyatakan dalam teks rancangan rasmi Malaysia, dan bukannya catatan yang berat sebelah mengenainya."
 lang: "ms"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 status: "published"
 aiAssisted: true

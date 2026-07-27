@@ -21,7 +21,7 @@ appliesTo: "Pengembara, perniagaan dan sesiapa sahaja yang cuba memahami mengapa
 
 lang: "ms"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"

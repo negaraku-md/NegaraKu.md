@@ -22,7 +22,7 @@ appliesTo: "Sesiapa yang cuba membaca statistik populasi, buruh atau hartanah Ma
 
 lang: "ms"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"

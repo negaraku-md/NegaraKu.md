@@ -23,7 +23,7 @@ appliesTo: "Sesiapa yang cuba memahami asas undang-undang sektor minyak dan gas 
 
 lang: "ms"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"

@@ -23,7 +23,7 @@ appliesTo: "任何想要从描述性角度了解马来西亚上议员如何选�
 
 lang: "zh"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"

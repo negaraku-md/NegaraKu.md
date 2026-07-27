@@ -23,7 +23,7 @@ appliesTo: "需要理解其运作机制而非宣传说法的人——学生、�
 
 lang: "zh"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"

@@ -22,7 +22,7 @@ appliesTo: "Students, policy analysts, journalists, government officers, and any
 
 lang: "en"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"

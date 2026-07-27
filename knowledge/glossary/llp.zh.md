@@ -25,7 +25,7 @@ appliesTo: "创办人、专业执业人士与顾问，在 LLP 与 Sdn Bhd 之间
 
 lang: "zh"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"

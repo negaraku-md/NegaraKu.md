@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "已经了解马六甲曾从葡萄牙人手中转到荷兰人手中、再转到英国人手中的读者，想进一步了解为何中间那184年与之前的130年及之后的121年如此不同——以及移交英国的过程究竟是如何发生的。"
 lang: "zh"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

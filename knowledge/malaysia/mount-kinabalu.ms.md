@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "Pembaca yang mahukan ketinggian yang disahkan dan status kawasan perlindungan Gunung Kinabalu, serta penjelasan mudah mengapa sebuah gunung granit di Sabah dari segi geologi begitu muda."
 lang: "ms"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

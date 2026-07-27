@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Pembaca yang sudah mengetahui bahawa Melaka bertukar tangan daripada Portugis kepada Belanda kepada British, dan ingin memahami mengapa 184 tahun di tengah-tengah itu kelihatan begitu berbeza berbanding 130 tahun sebelumnya dan 121 tahun selepasnya — ditambah bagaimana pemindahan kepada Britain sebenarnya berlaku."
 lang: "ms"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

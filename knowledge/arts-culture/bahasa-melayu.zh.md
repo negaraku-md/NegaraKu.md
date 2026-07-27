@@ -35,7 +35,7 @@ socialTitle: "马来语如何成为国家语言——并从爪夷文过渡到罗
 
 lang: "zh"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"

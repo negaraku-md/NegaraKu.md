@@ -23,7 +23,7 @@ appliesTo: "Anyone who wants to understand the constitutional standing of the bo
 
 lang: "en"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"

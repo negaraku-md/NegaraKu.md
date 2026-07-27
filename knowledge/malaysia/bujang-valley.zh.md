@@ -20,7 +20,7 @@ appliesTo: "希望了解马来半岛上早期文明起源——早于马来苏�
 
 lang: "zh"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 status: "published"
 aiAssisted: true

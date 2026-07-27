@@ -21,7 +21,7 @@ appliesTo: "Employers, HR and payroll teams, and private-sector employees in Mal
 
 lang: "en"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"

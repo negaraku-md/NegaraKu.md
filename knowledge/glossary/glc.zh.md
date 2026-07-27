@@ -20,7 +20,7 @@ appliesTo: "投资者、求职者、投标承接工作的供应商，以及任�
 
 lang: "zh"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

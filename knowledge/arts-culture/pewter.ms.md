@@ -17,7 +17,7 @@ keyTakeaways:
 appliesTo: "Sesiapa yang ingin tahu tentang tradisi kraf Malaysia, sejarah perlombongan timah, atau Royal Selangor"
 lang: "ms"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

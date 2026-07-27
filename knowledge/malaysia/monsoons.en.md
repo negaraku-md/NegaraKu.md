@@ -22,7 +22,7 @@ appliesTo: "Anyone trying to understand why Malaysia's weather and flood risk ch
 
 lang: "en"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

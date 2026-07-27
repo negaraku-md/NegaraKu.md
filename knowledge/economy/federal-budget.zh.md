@@ -22,7 +22,7 @@ appliesTo: "适用于学生、政策分析员、记者、政府官员，以及�
 
 lang: "zh"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"

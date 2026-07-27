@@ -20,7 +20,7 @@ appliesTo: "Anyone who wants to understand how gasing is played, the difference 
 
 lang: "en"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"

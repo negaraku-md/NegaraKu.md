@@ -21,7 +21,7 @@ appliesTo: "Anyone invited to an open house for the first time, organisers of co
 
 lang: "en"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

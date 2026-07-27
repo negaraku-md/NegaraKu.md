@@ -35,7 +35,7 @@ socialTitle: "How Bahasa Melayu became the national language — and moved from 
 
 lang: "en"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"

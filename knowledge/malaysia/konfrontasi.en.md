@@ -28,7 +28,7 @@ faq:
     a: "No. It was armed hostility that was never formally declared a war. It was conducted mainly through cross-border raids, infiltration and limited attacks, rather than through a formal declaration of war between the two countries."
 lang: "en"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

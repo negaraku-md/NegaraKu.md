@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "希望了解京那巴鲁山经核实的高度与保护区地位，以及为何沙巴的一座花岗岩山从地质学角度如此年轻的简明解释的读者。"
 lang: "zh"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

@@ -21,7 +21,7 @@ appliesTo: "Anyone who wants to understand the true meaning and origin of the wo
 
 lang: "en"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

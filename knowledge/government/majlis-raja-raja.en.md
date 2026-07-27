@@ -23,7 +23,7 @@ appliesTo: "Anyone who wants to understand Malaysia's constitutional structure â
 
 lang: "en"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

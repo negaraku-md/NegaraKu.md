@@ -20,7 +20,7 @@ appliesTo: "马来西亚地理与历史的学习者，以及任何想了解为�
 
 lang: "zh"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 status: "published"
 aiAssisted: true

@@ -18,7 +18,7 @@ keyTakeaways:
 appliesTo: "Sesiapa yang cuba memahami mengapa populasi, bandar dan risiko banjir Malaysia tertumpu di tempat-tempat tertentu — pelajar, pendatang baharu, perancang, atau sesiapa yang keliru mengapa 'musim monsun' membawa maksud berbeza di pantai yang berlainan."
 lang: "ms"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 status: "published"
 aiAssisted: true

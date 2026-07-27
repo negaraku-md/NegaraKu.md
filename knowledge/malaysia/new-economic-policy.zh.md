@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "希望了解新经济政策有据可查的目标、指标与时间框架——依据官方马来西亚计划文本所陈述的内容，而非带党派立场的记述——的读者。"
 lang: "zh"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 status: "published"
 aiAssisted: true

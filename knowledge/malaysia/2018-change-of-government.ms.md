@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Pembaca yang mahukan fakta yang didokumenkan mengenai perubahan kerajaan persekutuan pertama Malaysia pada pilihan raya umum ke-14 — keputusannya, angka kerusi, dan mekanisme perlembagaan — yang dinyatakan secara neutral dan bersumberkan, tanpa tafsiran berpihak."
 lang: "ms"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

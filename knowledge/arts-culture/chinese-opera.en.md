@@ -20,7 +20,7 @@ appliesTo: "Anyone who wants to understand the types of traditional Chinese oper
 
 lang: "en"
 masterLanguage: "zh"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 status: "published"
 aiAssisted: true

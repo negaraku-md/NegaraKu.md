@@ -21,7 +21,7 @@ appliesTo: "首次获邀出席开放门户者、筹办社区或公司层级开�
 
 lang: "zh"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

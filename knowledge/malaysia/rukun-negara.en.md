@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Students, teachers, civil servants and anyone who needs to refer to the official text of Rukun Negara and the chronology of its drafting based on archival records."
 lang: "en"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 status: "published"
 aiAssisted: true

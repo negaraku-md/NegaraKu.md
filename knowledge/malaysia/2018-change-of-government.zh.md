@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "希望了解马来西亚在第14届大选中首次联邦政府更迭之有记录事实的读者——包括结果、议席数字与宪制机制——以中立、有据可查的方式陈述，不作党派解读。"
 lang: "zh"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

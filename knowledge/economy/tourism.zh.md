@@ -24,7 +24,7 @@ seoTitle: "马来西亚旅游统计数据：入境人次与收入的对比"
 
 lang: "zh"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

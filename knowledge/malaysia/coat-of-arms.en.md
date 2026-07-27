@@ -23,7 +23,7 @@ appliesTo: "Students, teachers, civil servants, journalists and anyone who sees 
 
 lang: "en"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

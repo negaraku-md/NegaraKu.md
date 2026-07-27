@@ -21,7 +21,7 @@ appliesTo: "Anyone who wants to understand the differences in origin, music and 
 
 lang: "en"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 status: "published"
 aiAssisted: true

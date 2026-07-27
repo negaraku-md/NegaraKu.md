@@ -21,7 +21,7 @@ appliesTo: "Malaysian citizens, parents handling their children's registration, 
 
 lang: "en"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"

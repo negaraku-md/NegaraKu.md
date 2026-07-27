@@ -22,7 +22,7 @@ appliesTo: "Anyone seeking to understand traditional Malay legal systems — stu
 
 lang: "en"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"

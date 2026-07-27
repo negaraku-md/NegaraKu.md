@@ -23,7 +23,7 @@ appliesTo: "希望识别马来西亚九个有统治者的州属，并以描述�
 
 lang: "zh"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -33,7 +33,7 @@ socialTitle: "Sama-Sama Cina, Kenapa Bahasa Tak Serupa? Peta Dialek Malaysia"
 
 lang: "ms"
 masterLanguage: "zh"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

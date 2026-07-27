@@ -21,7 +21,7 @@ appliesTo: "希望准确解读马来西亚工业统计数据的投资者、求�
 
 lang: "zh"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"

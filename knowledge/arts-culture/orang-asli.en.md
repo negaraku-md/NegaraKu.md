@@ -35,7 +35,7 @@ socialTitle: "Who Orang Asli are — three groups, 18 subgroups, and the agency 
 
 lang: "en"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"

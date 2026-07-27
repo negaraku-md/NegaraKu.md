@@ -28,7 +28,7 @@ faq:
     a: "不是。这是一场从未被正式宣布为战争的武装敌对行动。它主要通过跨境突袭、渗透与有限度的攻击进行，而非通过两国之间的正式宣战。"
 lang: "zh"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

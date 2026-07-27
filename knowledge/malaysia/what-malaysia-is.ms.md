@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "Sesiapa yang baharu di Malaysia dan ingin memahami jenis negara apakah ia dari segi perlembagaan, sebelum mendalami mana-mana satu institusi."
 lang: "ms"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

@@ -24,7 +24,7 @@ seoTitle: "Statistik Pelancongan Malaysia: Ketibaan lawan Perolehan"
 
 lang: "ms"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

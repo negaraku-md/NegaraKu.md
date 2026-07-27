@@ -33,7 +33,7 @@ socialTitle: "南印度古典舞如何在马来西亚扎根"
 
 lang: "zh"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

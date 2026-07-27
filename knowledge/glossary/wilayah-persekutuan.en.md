@@ -20,7 +20,7 @@ appliesTo: "Anyone trying to understand Malaysia's administrative divisions and 
 
 lang: "en"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"

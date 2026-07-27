@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "任何想了解马来传统苏丹国制度的结构与作用，以及它如何与今日立宪君主体系相衔接的人。"
 lang: "zh"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 status: "published"
 aiAssisted: true

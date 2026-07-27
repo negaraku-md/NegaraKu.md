@@ -23,7 +23,7 @@ appliesTo: "Students, researchers, journalists and anyone who wants to understan
 
 lang: "en"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"

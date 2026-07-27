@@ -32,7 +32,7 @@ faq:
 
 lang: "ms"
 masterLanguage: "zh"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 status: "published"
 aiAssisted: true

@@ -21,7 +21,7 @@ appliesTo: "希望了解马来西亚法定薪金扣除项目的雇主、人力�
 
 lang: "zh"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"

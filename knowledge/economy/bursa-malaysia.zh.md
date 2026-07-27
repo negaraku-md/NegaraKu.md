@@ -22,7 +22,7 @@ appliesTo: "正在权衡 IPO 的创办人与首席财务官、顾问与保荐人
 
 lang: "zh"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"

@@ -24,7 +24,7 @@ appliesTo: "首次尝试梳理马来西亚法律体系的法律系学生与研�
 
 lang: "zh"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -33,7 +33,7 @@ socialTitle: "淡米尔文在马来西亚如何被使用、教授与保护"
 
 lang: "zh"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 status: "published"
 aiAssisted: true

@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Students, teachers, researchers and general readers who want a sourced chronology and descriptive account of the 1941–1945 period in Malaya and Borneo, without characterisation or comparison of suffering."
 lang: "en"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

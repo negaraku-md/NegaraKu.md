@@ -23,7 +23,7 @@ appliesTo: "希望了解土著经济政策目标从新经济政策延续至现�
 
 lang: "zh"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"

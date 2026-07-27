@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "学生、教师、研究人员及一般读者，若想了解1941年至1945年马来亚与婆罗洲这段时期的有据纪事与描述性概况，而不涉及定性或苦难比较。"
 lang: "zh"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

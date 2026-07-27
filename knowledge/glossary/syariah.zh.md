@@ -24,7 +24,7 @@ appliesTo: "任何想了解「Syariah」这一术语在马来西亚法律中的�
 
 lang: "zh"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"

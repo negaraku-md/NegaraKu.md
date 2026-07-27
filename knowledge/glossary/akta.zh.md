@@ -20,7 +20,7 @@ appliesTo: "任何阅读或引用马来西亚法律的人——律师、学生�
 
 lang: "zh"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"

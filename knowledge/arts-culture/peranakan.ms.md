@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "Sesiapa yang ingin mendapatkan gambaran yang tepat dan penuh hormat tentang siapa Peranakan (Baba-Nyonya), dan cara mengenali masakan, pakaian dan warisan kebendaan mereka di Melaka dan Pulau Pinang."
 lang: "ms"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

@@ -20,7 +20,7 @@ appliesTo: "Anyone who wants to understand the origins of early civilisation on 
 
 lang: "en"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 status: "published"
 aiAssisted: true

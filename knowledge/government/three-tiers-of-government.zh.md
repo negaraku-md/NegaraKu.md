@@ -22,7 +22,7 @@ appliesTo: "任何想弄清楚在马来西亚遇到特定问题时应该找哪�
 
 lang: "zh"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 status: "published"
 aiAssisted: true

@@ -22,7 +22,7 @@ appliesTo: "Sesiapa yang memerlukan fakta asas Malaysia — populasi, keluasan, 
 
 lang: "ms"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 status: "published"
 aiAssisted: true

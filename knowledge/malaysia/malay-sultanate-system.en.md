@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "Anyone who wants to understand the structure and role of the traditional Malay sultanate institution and how it connects with today's constitutional monarchy system."
 lang: "en"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 status: "published"
 aiAssisted: true

@@ -18,7 +18,7 @@ keyTakeaways:
 appliesTo: "希望了解在马六甲统治海峡之前，是谁统治着马六甲海峡，以及一个以苏门答腊为根据地的海上强权，最终如何直接汇入马来半岛自身王室历史的读者。"
 lang: "zh"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 status: "published"
 aiAssisted: true

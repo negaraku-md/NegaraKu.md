@@ -24,7 +24,7 @@ appliesTo: "Anyone who wants to understand the meaning of the term 'Syariah' in 
 
 lang: "en"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"

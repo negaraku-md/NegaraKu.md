@@ -21,7 +21,7 @@ appliesTo: "持有浮动利率贷款的借款人、储蓄者，以及任何想�
 
 lang: "zh"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"

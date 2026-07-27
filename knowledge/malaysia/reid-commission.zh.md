@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "希望了解究竟是谁撰写了马来西亚立国宪法、依据何种指示，以及一份委员会报告如何变成一个独立国家法律的学生、研究人员与一般读者。"
 lang: "zh"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 status: "published"
 aiAssisted: true

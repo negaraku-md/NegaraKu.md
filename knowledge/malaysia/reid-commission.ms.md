@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "Pelajar, penyelidik dan pembaca umum yang ingin memahami siapa sebenarnya yang menulis perlembagaan penubuhan Malaysia, atas arahan apa, dan bagaimana satu laporan suruhanjaya berubah menjadi undang-undang sebuah negara merdeka."
 lang: "ms"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 status: "published"
 aiAssisted: true

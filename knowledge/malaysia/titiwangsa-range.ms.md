@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "Sesuai untuk pembaca yang mahukan penjelasan yang jelas dan disahkan tentang apa itu Banjaran Titiwangsa, ke mana ia membentang, dan mengapa ia membahagikan sungai, iklim dan corak petempatan Semenanjung Malaysia kepada sisi pantai barat dan pantai timur."
 lang: "ms"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 status: "published"
 aiAssisted: true

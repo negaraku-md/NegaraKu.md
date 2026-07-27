@@ -21,7 +21,7 @@ appliesTo: "佳节期间的大道使用者、行程与假期规划者、零售�
 
 lang: "zh"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

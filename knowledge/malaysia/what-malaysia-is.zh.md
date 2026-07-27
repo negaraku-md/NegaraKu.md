@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "适合任何初来马来西亚、希望在深入了解任何单一机构之前，先理解这个国家在宪制上属于何种性质的人。"
 lang: "zh"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

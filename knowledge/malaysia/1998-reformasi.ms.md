@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Pembaca yang inginkan catatan yang direkodkan dan boleh dikesan kepada sumber tentang reaksi ekonomi Malaysia pada 1998 (kawalan modal dan pancang ringgit) serta peristiwa politik tahun itu, dikemukakan secara neutral tanpa menyokong mana-mana tafsiran."
 lang: "ms"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

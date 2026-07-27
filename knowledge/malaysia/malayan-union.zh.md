@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "希望了解马来西亚宪制起源的学生、研究人员与一般读者——尤其是马来统治者的地位与公民权条件在默迪卡之前如何首次以书面形式确立。"
 lang: "zh"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

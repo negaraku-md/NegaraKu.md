@@ -22,7 +22,7 @@ appliesTo: "试图理解马来西亚天气与水灾风险为何随季节变化�
 
 lang: "zh"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

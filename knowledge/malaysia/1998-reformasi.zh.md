@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "希望获得关于马来西亚1998年经济应对（资本管制与令吉挂钩）及当年政治事件的、有据可查、可追溯至资料来源的记述的读者，本文以中立方式呈现，不为任何一种解读背书。"
 lang: "zh"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

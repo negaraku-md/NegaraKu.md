@@ -20,7 +20,7 @@ appliesTo: "Pelabur, pencari kerja, pembekal yang menyertai tender kerja, dan se
 
 lang: "ms"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

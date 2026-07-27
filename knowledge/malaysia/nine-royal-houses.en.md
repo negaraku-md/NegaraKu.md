@@ -23,7 +23,7 @@ appliesTo: "Readers who want to identify Malaysia's nine royal states and unders
 
 lang: "en"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

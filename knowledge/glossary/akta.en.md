@@ -20,7 +20,7 @@ appliesTo: "Anyone reading or citing Malaysian law — lawyers, students, busine
 
 lang: "en"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"

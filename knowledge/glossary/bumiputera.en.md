@@ -35,7 +35,7 @@ socialTitle: "Bumiputera — a term not found in the Constitution, yet rooted in
 
 lang: "en"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

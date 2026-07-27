@@ -21,7 +21,7 @@ appliesTo: "适合学生、研究人员、新闻工作者，以及任何希望�
 
 lang: "zh"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

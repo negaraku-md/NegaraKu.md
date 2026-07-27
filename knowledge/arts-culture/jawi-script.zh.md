@@ -35,7 +35,7 @@ socialTitle: "书写马来语七个世纪的阿拉伯字母——爪夷文的故
 
 lang: "zh"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 status: "published"
 aiAssisted: true

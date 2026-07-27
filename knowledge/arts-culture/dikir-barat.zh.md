@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "任何想了解 Dikir Barat 的演出形式、Tukang Karut 与 Tok Juara 的角色，以及一支队伍的组成结构的人。"
 lang: "zh"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 status: "published"
 aiAssisted: true

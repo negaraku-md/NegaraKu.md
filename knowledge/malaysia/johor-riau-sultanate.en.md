@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "Anyone who wants to understand how the Malay royal institution of Melaka continued unbroken into the modern Malay states, particularly Johor."
 lang: "en"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

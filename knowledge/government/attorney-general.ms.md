@@ -24,7 +24,7 @@ appliesTo: "Pelajar, penyelidik, wartawan dan sesiapa sahaja yang ingin memahami
 
 lang: "ms"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"

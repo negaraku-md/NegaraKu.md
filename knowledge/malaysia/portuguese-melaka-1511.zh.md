@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "希望了解1511年马六甲陷落背后技术与政治原因，以及马六甲的体制与王室世系在城市失陷后如何延续下去的读者。"
 lang: "zh"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

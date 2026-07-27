@@ -20,7 +20,7 @@ appliesTo: "Sesiapa yang ingin memahami jenis-jenis wayang Cina tradisional di M
 
 lang: "ms"
 masterLanguage: "zh"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 status: "published"
 aiAssisted: true

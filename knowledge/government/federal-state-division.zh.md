@@ -23,7 +23,7 @@ appliesTo: "任何需要逐一事项了解，在马来西亚究竟是联邦还�
 
 lang: "zh"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 status: "published"
 aiAssisted: true

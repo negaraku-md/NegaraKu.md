@@ -21,7 +21,7 @@ appliesTo: "Peminjam dengan pinjaman kadar apungan, penyimpan, dan sesiapa yang 
 
 lang: "ms"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"

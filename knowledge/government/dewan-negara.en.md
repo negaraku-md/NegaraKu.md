@@ -23,7 +23,7 @@ appliesTo: "Anyone who wants to understand, descriptively, how Malaysian senator
 
 lang: "en"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"

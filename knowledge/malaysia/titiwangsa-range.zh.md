@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "适合想要一份浅白且经过查证的说明，了解蒂蒂旺沙山脉是什么、它的走向，以及为何它将马来西亚半岛的河流、气候与聚落模式，划分为西海岸与东海岸两侧的读者。"
 lang: "zh"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 status: "published"
 aiAssisted: true

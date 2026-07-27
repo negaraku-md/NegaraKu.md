@@ -22,7 +22,7 @@ appliesTo: "任何需要对马来西亚橡胶行业——种植作物、贸易�
 
 lang: "zh"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 sourceContentHash: null
 
 status: "published"
