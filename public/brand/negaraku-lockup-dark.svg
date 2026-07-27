@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="120" viewBox="0 0 480 120">
+  <rect width="480" height="120" rx="16" fill="#07070A"/>
+  <g transform="translate(60 60) scale(1.7)">
+    <mask id="holel">
+      <rect x="-40" y="-40" width="80" height="80" fill="#fff"/>
+      <circle cx="0" cy="0" r="5.3" fill="#000"/>
+    </mask>
+    <g fill="#FFC000" mask="url(#holel)">
+      <ellipse cx="0" cy="-13" rx="7.6" ry="11.5"/>
+      <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(72)"/>
+      <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(144)"/>
+      <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(216)"/>
+      <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(288)"/>
+    </g>
+    <circle cx="0" cy="0" r="2.4" fill="#FFC000"/></g>
+  <text x="118" y="74" font-family="Montserrat, 'Segoe UI', Arial, sans-serif" font-size="52" font-weight="800" fill="#F4F4F8">NegaraKu<tspan fill="#FFC000">.md</tspan></text>
+</svg>

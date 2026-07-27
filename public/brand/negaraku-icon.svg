@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="13" fill="#07070A"/>
+  <rect x="1" y="1" width="62" height="62" rx="12" fill="none" stroke="#FFC000" stroke-width="1.5" stroke-opacity="0.35"/>
+  <g transform="translate(32 32)">
+    <mask id="holei">
+      <rect x="-40" y="-40" width="80" height="80" fill="#fff"/>
+      <circle cx="0" cy="0" r="5.3" fill="#000"/>
+    </mask>
+    <g fill="#FFC000" mask="url(#holei)">
+      <ellipse cx="0" cy="-13" rx="7.6" ry="11.5"/>
+      <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(72)"/>
+      <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(144)"/>
+      <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(216)"/>
+      <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(288)"/>
+    </g>
+    <circle cx="0" cy="0" r="2.4" fill="#FFC000"/></g>
+</svg>

@@ -18,6 +18,20 @@ const titleCase = (id) => id.split('-').map((w) => w.charAt(0).toUpperCase() + w
 const TITLE_FONT = "Montserrat, 'Noto Sans', 'Noto Sans CJK SC', 'Microsoft YaHei', Arial, sans-serif";
 const BODY_FONT = "Lato, 'Noto Sans', 'Noto Sans CJK SC', 'Microsoft YaHei', Arial, sans-serif";
 
+// The NegaraKu.md brand mark — the 5-petal gold blossom (same geometry as
+// public/favicon.svg and the header brand-mark). Centred at (tx,ty), scaled s.
+const flower = (tx, ty, s) => `<g transform="translate(${tx},${ty}) scale(${s})">
+    <g fill="#FFC000">
+      <ellipse cx="0" cy="-13" rx="7.6" ry="11.5"/>
+      <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(72)"/>
+      <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(144)"/>
+      <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(216)"/>
+      <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(288)"/>
+    </g>
+    <circle cx="0" cy="0" r="5.3" fill="#07070A"/>
+    <circle cx="0" cy="0" r="2.4" fill="#FFC000"/>
+  </g>`;
+
 // Wrap a title into lines. Latin wraps by words; CJK (no spaces) wraps by
 // character. Truncates to maxLines with an ellipsis.
 function wrapTitle(title, { maxLatin = 26, maxCjk = 16, maxLines = 4 } = {}) {
@@ -69,10 +83,7 @@ function articleSvg({ title, category }) {
   return `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
   <rect width="1200" height="630" fill="#07070A"/>
   <rect x="0" y="0" width="1200" height="8" fill="#FFC000"/>
-  <g transform="translate(90,60) scale(0.34)">
-    <path d="M120 40a70 70 0 1 0 0 120 55 55 0 1 1 0-120z" fill="#FFC000"/>
-    <path d="M150 70l9 22 23.5 1.5-18 15 6 23-20.5-12.5-20.5 12.5 6-23-18-15 23.5-1.5z" fill="#FFC000"/>
-  </g>
+  ${flower(108, 88, 0.9)}
   <text x="150" y="102" font-family="${TITLE_FONT}" font-size="34" font-weight="700" fill="#F4F4F8">NegaraKu<tspan fill="#FFC000">.md</tspan></text>
   <text x="90" y="182" font-family="${BODY_FONT}" font-size="26" font-weight="700" letter-spacing="3" fill="#FFC000">${esc(titleCase(category)).toUpperCase()}</text>
   <text x="90" y="${startY}" font-family="${TITLE_FONT}" font-size="62" font-weight="800" fill="#F4F4F8">${tspans}</text>
@@ -83,10 +94,7 @@ function articleSvg({ title, category }) {
 const defaultSvg = `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
   <rect width="1200" height="630" fill="#07070A"/>
   <rect x="0" y="0" width="1200" height="8" fill="#FFC000"/>
-  <g transform="translate(90,150)">
-    <path d="M120 40a70 70 0 1 0 0 120 55 55 0 1 1 0-120z" fill="#FFC000"/>
-    <path d="M150 70l9 22 23.5 1.5-18 15 6 23-20.5-12.5-20.5 12.5 6-23-18-15 23.5-1.5z" fill="#FFC000"/>
-  </g>
+  ${flower(150, 175, 2.7)}
   <text x="90" y="400" font-family="${TITLE_FONT}" font-size="96" font-weight="700" fill="#F4F4F8">NegaraKu<tspan fill="#FFC000">.md</tspan></text>
   <text x="92" y="470" font-family="${BODY_FONT}" font-size="38" fill="#C0C0D0">An open-source, AI-friendly knowledge base about Malaysia</text>
   <text x="92" y="560" font-family="${BODY_FONT}" font-size="30" fill="#9A9AB8">Sponsored by <tspan fill="#FFC000" font-weight="700">1company</tspan></text>
