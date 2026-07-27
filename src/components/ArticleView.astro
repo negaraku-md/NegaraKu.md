@@ -452,6 +452,21 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
 
       <FeedbackBar locale={locale} title={d.title} />
 
+      {(prev || next) && (
+        <nav class="artnav" aria-label={L('Navigasi artikel', 'Article navigation', '文章导航')} data-pagefind-ignore>
+          {prev && (
+            <a class="artnav-btn" href={aHref(prev)} title={prev.data.title} aria-label={`${L('Sebelum', 'Previous', '上一篇')}: ${prev.data.title}`}>
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M19 12H5" /><path d="m12 19-7-7 7-7" /></svg>
+            </a>
+          )}
+          {next && (
+            <a class="artnav-btn" href={aHref(next)} title={next.data.title} aria-label={`${L('Seterusnya', 'Next', '下一篇')}: ${next.data.title}`}>
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14" /><path d="m12 5 7 7-7 7" /></svg>
+            </a>
+          )}
+        </nav>
+      )}
+
     </div>
 
     <aside class="side" data-pagefind-ignore>
@@ -794,6 +809,30 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
   .edit:first-of-type { padding-top: 0.6rem; }
   .edit:last-of-type { padding-bottom: 0.6rem; }
   .edit:hover { color: var(--gold); }
+
+  /* Floating prev/next arrows — sit just left of the site back-to-top button. */
+  .artnav {
+    position: fixed;
+    bottom: clamp(1rem, 3vw, 2rem);
+    right: calc(clamp(1rem, 3vw, 2rem) + 44px + 0.6rem);
+    z-index: 45;
+    display: flex;
+    gap: 0.5rem;
+  }
+  .artnav-btn {
+    width: 44px; height: 44px; border-radius: 999px;
+    display: grid; place-items: center;
+    border: 1px solid var(--line); background: var(--surface-2); color: var(--gold);
+    box-shadow: var(--shadow-soft);
+    transition: border-color 0.15s ease, background 0.15s ease;
+  }
+  .artnav-btn:hover { border-color: var(--gold); background: var(--surface); }
+  .artnav-btn svg { width: 20px; height: 20px; }
+  @media (max-width: 560px) {
+    /* Keep the row from crowding: tuck the arrows a touch tighter on phones. */
+    .artnav { gap: 0.4rem; right: calc(clamp(1rem, 3vw, 2rem) + 44px + 0.45rem); }
+    .artnav-btn { width: 40px; height: 40px; }
+  }
 
   /* Topic pager — prev/next within the topic. */
   .more-topic { color: var(--gold); font-weight: 800; font-size: 0.67rem; letter-spacing: 0.06em; text-decoration: none; }
