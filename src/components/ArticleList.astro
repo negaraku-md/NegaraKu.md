@@ -531,7 +531,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
     border: 1px solid var(--line); background: var(--surface); color: var(--ink-soft); cursor: pointer;
   }
   .tab:hover { border-color: color-mix(in srgb, var(--gold) 45%, var(--line)); }
-  .tab.on { color: #000; background: var(--gold); border-color: var(--gold); }
+  .tab.on { color: var(--accent-contrast); background: var(--gold); border-color: var(--gold); }
   /* Display toggles — same pill, but "on" is an outline (not a sort selection). */
   .tgl {
     font-size: 0.82rem; font-weight: 700; padding: 0.4rem 0.8rem; border-radius: 999px;

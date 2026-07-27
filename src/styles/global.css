@@ -193,7 +193,7 @@ main img {
   left: -9999px;
   top: 0;
   background: var(--gold);
-  color: #000;
+  color: var(--accent-contrast);
   padding: 0.6rem 1rem;
   z-index: 100;
   font-weight: 700;
@@ -282,7 +282,7 @@ main img {
 }
 .btn-primary {
   background: var(--gold);
-  color: #000;
+  color: var(--accent-contrast);
 }
 .btn-primary:hover {
   background: var(--gold-600);

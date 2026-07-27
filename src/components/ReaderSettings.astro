@@ -90,7 +90,7 @@ const { locale } = Astro.props;
     border: 1px solid var(--line);
     border-radius: 12px;
     padding: 0.85rem;
-    width: 220px;
+    width: 248px;
     box-shadow: var(--shadow-card);
   }
   .grp-label {
@@ -109,8 +109,12 @@ const { locale } = Astro.props;
   }
   .seg button {
     flex: 1;
-    padding: 0.35rem 0.4rem;
-    font-size: 0.8rem;
+    min-width: 0;
+    padding: 0.4rem 0.3rem;
+    font-size: 0.78rem;
+    line-height: 1.1;
+    text-align: center;
+    white-space: nowrap;
     font-family: var(--font-interface);
     font-weight: 600;
     border: 1px solid var(--line);
@@ -121,7 +125,7 @@ const { locale } = Astro.props;
   }
   .seg button[aria-pressed='true'] {
     background: var(--gold);
-    color: #000;
+    color: var(--accent-contrast);
     border-color: var(--gold);
   }
   .sw {

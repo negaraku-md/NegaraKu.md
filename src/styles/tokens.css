@@ -85,6 +85,7 @@
 :root[data-theme='black-red'] {
   --gold: #ff2020; /* bright red */
   --gold-600: #e00000;
+  --accent-contrast: #ffffff; /* white text on red fills (black is for gold) */
 }
 
 /* Opt-in light reading mode (dark stays the default 1company canvas).
