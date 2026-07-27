@@ -587,6 +587,12 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
     margin-bottom: 0;
   }
   .art { padding-block: 2rem 4rem; }
+  /* Articles use a NARROWER shell than the site-wide container: the 800px
+     reading column + 260px sidebar only need ~1160px, so the wider container
+     left a big empty gap between the prose and the sidebar on large screens.
+     The hero shares the same width so both align. */
+  .art,
+  .art-hero > .container { max-width: 1160px; }
   .crumb { font-size: 0.84rem; color: var(--muted); margin: 0 0 1rem; }
   .crumb a { color: var(--muted); text-decoration: none; }
   .crumb a:hover { color: var(--gold); }
