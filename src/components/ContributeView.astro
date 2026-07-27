@@ -1,9 +1,9 @@
 ---
 import type { Locale } from '@/lib/categories';
-import { CATEGORIES } from '@/lib/categories';
-import { siteStats } from '@/lib/content';
+import { PILLARS, categoriesInPillar } from '@/lib/categories';
+import { siteStats, articlesForLocale } from '@/lib/content';
 import { localePath } from '@/lib/i18n';
-import { REPO, CONTACT_FORM_ENDPOINT } from '@/lib/site';
+import { REPO } from '@/lib/site';
 import PageHero from './PageHero.astro';
 
 interface Props {
@@ -12,36 +12,81 @@ interface Props {
 const { locale } = Astro.props;
 const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
 const stats = await siteStats(locale);
+const articles = await articlesForLocale(locale);
 
-// Phase 1 is invitation-only for authoring, but reporting and requesting an
-// invitation are open to everyone. Three cards, lowest to highest commitment.
-const methods = [
+// Live taxonomy for the Suggest cascade: Section → Category → existing Topics.
+const taxonomy = PILLARS.map((p) => ({
+  id: p.id,
+  name: p.name[locale],
+  categories: categoriesInPillar(p.id, true).map((c) => ({
+    id: c.id,
+    name: c.name[locale],
+    topics: articles
+      .filter((a) => a.data.category === c.id)
+      .map((a) => a.data.title)
+      .sort((x, y) => x.localeCompare(y)),
+  })),
+}));
+
+// The three ways to take part — each links to its section below.
+const paths = [
   {
-    icon: '📝',
-    title: L('Lapor atau cadang', 'Report or suggest', '报告或建议'),
-    tag: L('Terbuka untuk semua', 'Open to all', '人人可参与'),
-    desc: L('Terjumpa kesilapan atau mahu topik ditambah? Isi borang di bawah — ia membuka isu GitHub yang telah diisi. Tiada akaun atau jemputan diperlukan.', 'Spotted an error or want a topic added? Fill the form below — it opens a pre-filled GitHub issue. No account or invitation needed.', '发现错误或希望新增主题？填写下方表单——它会打开一个预填的 GitHub issue。无需账户或邀请。'),
+    id: 'report',
+    icon: '🚩',
+    open: true,
+    title: L('Lapor', 'Report', '报告'),
+    desc: L(
+      'Ada yang salah pada halaman sedia ada? Fakta silap, pautan rosak, maklumat lapuk, atau kebimbangan kandungan sensitif.',
+      'Something wrong on an existing page? A wrong fact, broken link, outdated info, or a sensitive-content concern.',
+      '现有页面有误？事实错误、链接失效、信息过时，或涉及敏感内容的顾虑。',
+    ),
   },
   {
-    icon: '✉️',
-    title: L('Pohon jemputan', 'Request an invitation', '申请邀请'),
-    tag: L('Untuk penulis', 'For authors', '面向作者'),
-    desc: L('Mahu menulis atau menterjemah? Buka isu untuk memohon akses penyumbang — kami menerima penyumbang secara jemputan pada fasa awal ini.', 'Want to author or translate? Open an issue to request contributor access — we onboard contributors by invitation during this early phase.', '想撰写或翻译？提交 issue 申请贡献者权限——在早期阶段我们以邀请方式接纳贡献者。'),
+    id: 'suggest',
+    icon: '💡',
+    open: true,
+    title: L('Cadang', 'Suggest', '建议'),
+    desc: L(
+      'Cadangkan topik yang belum ada. Pilih tempatnya dalam seksyen dan kategori kami — atau cadangkan yang baharu.',
+      'Propose a topic we’re missing. Pick where it fits in our sections and categories — or propose a new one.',
+      '建议我们尚未涵盖的主题。选择它在我们版块与分类中的位置——或提议新增。',
+    ),
   },
   {
-    icon: '🤖',
-    title: L('Dipandu AI', 'AI-guided drafting', 'AI 引导起草'),
-    tag: L('Penyumbang dijemput', 'Invited contributors', '受邀贡献者'),
-    desc: L('Setelah dijemput: tampal gesaan di sebelah ke dalam ChatGPT / Claude untuk merangka artikel yang mematuhi piawai kami, kemudian buka pull request.', 'Once invited: paste the prompt on the right into ChatGPT / Claude to draft an article that follows our standard, then open a pull request.', '受邀后：将右侧提示词粘贴到 ChatGPT / Claude，起草符合我们标准的文章，然后发起 pull request。'),
+    id: 'contribute',
+    icon: '✍️',
+    open: false,
+    title: L('Sumbang', 'Contribute', '贡献'),
+    desc: L(
+      'Menulis atau menterjemah artikel. Secara jemputan pada fasa awal — mohon jemputan untuk menyertai.',
+      'Author or translate articles. Invitation-only in our early phase — request an invitation to join.',
+      '撰写或翻译文章。早期阶段采用邀请制——申请邀请以加入。',
+    ),
   },
 ];
 
-// The lifecycle a submission actually travels — reflects the GitHub workflow.
-const flow = [
-  L('Hantar', 'Submit', '提交'),
-  L('Isu GitHub', 'GitHub issue', 'GitHub issue'),
-  L('Semakan', 'Review', '审阅'),
-  L('Terbit dalam 3 bahasa', 'Publish in 3 languages', '以三语发布'),
+// The lifecycle every contribution travels — three entry points, one spine.
+const stages = [
+  {
+    n: 1,
+    title: L('Triaj & backlog', 'Triage & backlog', '分流与待办'),
+    body: L('Laporan disahkan; cadangan disemak kesesuaian dan pertindihan.', 'Reports are verified; suggestions are checked for fit and de-duplicated.', '核实报告；对建议进行适配性检查与去重。'),
+  },
+  {
+    n: 2,
+    title: L('Draf', 'Draft', '起草'),
+    body: L('Penyumbang yang dijemput menulisnya — dipandu AI, mengikut piawai kami.', 'An invited contributor writes it — AI-guided, to our standard.', '受邀贡献者撰写——AI 引导，遵循我们的标准。'),
+  },
+  {
+    n: 3,
+    title: L('Semakan', 'Review', '审阅'),
+    body: L('Bersumber, neutral, dan kandungan sensitif disemak manusia.', 'Sourced, neutral, and sensitive content is human-reviewed.', '注明来源、保持中立，敏感内容经人工审阅。'),
+  },
+  {
+    n: 4,
+    title: L('Terbit', 'Publish', '发布'),
+    body: L('Disiarkan dalam Bahasa Melayu, Inggeris dan Cina.', 'Goes live in Malay, English and Chinese.', '以马来文、英文和中文上线。'),
+  },
 ];
 
 const aiPrompt = L(
@@ -49,6 +94,8 @@ const aiPrompt = L(
   'Help me write an article for NegaraKu.md about [TOPIC]. Use Markdown, a neutral tone, include verifiable sources, and follow the frontmatter schema in CONTRIBUTING.md.',
   '帮我为 NegaraKu.md 撰写一篇关于[主题]的文章。使用 Markdown、中立语气、附上可核实的来源，并遵循 CONTRIBUTING.md 的 frontmatter 规范。',
 );
+
+const REQUEST_INVITE = `${REPO}/issues/new?labels=invitation-request&title=${encodeURIComponent('Invitation request')}`;
 ---
 
 <PageHero
@@ -59,9 +106,9 @@ const aiPrompt = L(
   ]}
   title={L('Sumbang kepada NegaraKu.md', 'Contribute to NegaraKu.md', '为 NegaraKu.md 做贡献')}
   desc={L(
-    'Pada fasa awal kami, penulisan adalah secara jemputan — tetapi sesiapa boleh melaporkan kesilapan, mencadangkan topik, atau memohon jemputan. Semuanya di GitHub.',
-    'In our early phase, authoring is by invitation — but anyone can report an error, suggest a topic, or request an invitation. It all runs on GitHub.',
-    '在我们的早期阶段，内容撰写采用邀请制——但任何人都可报告错误、建议主题或申请邀请。一切都在 GitHub 上进行。',
+    'Tiga cara untuk mengambil bahagian. Melapor dan mencadang terbuka untuk semua; menulis adalah secara jemputan pada fasa awal kami.',
+    'Three ways to take part. Reporting and suggesting are open to all; authoring is by invitation during our early phase.',
+    '三种参与方式。报告与建议人人可参与；撰写在我们的早期阶段采用邀请制。',
   )}
   stats={[
     { value: stats.sections, label: L('seksyen', 'sections', '版块') },
@@ -71,73 +118,133 @@ const aiPrompt = L(
   ]}
 />
 
+<!-- Three paths -->
+<section class="container block">
+  <div class="paths">
+    {paths.map((p) => (
+      <a class="pathcard" href={`#${p.id}`}>
+        <span class="pi" aria-hidden="true">{p.icon}</span>
+        <span class={`ptag ${p.open ? 'open' : 'invite'}`}>{p.open ? L('Terbuka untuk semua', 'Open to all', '人人可参与') : L('Secara jemputan', 'By invitation', '邀请制')}</span>
+        <b>{p.title}</b>
+        <p>{p.desc}</p>
+      </a>
+    ))}
+  </div>
+</section>
+
+<!-- Lifecycle -->
 <section class="container block">
   <div class="psec">
-    <header><span>{L('Tiga cara untuk menyumbang', 'Three ways to contribute', '三种贡献方式')}</span></header>
+    <header><span>{L('Kitaran hayat sumbangan', 'The contribution lifecycle', '贡献的生命周期')}</span></header>
     <div class="psec-body">
-      <div class="methods">
-        {methods.map((m, i) => (
-          <div class="mcard">
-            <span class="mnum">{i + 1}</span>
-            <span class="mi" aria-hidden="true">{m.icon}</span>
-            <b>{m.title}</b>
-            <span class="mtag">{m.tag}</span>
-            <p>{m.desc}</p>
-          </div>
-        ))}
+      <div class="lc-enters" aria-hidden="true">
+        <span class="lc-enter">🚩 {L('Lapor', 'Report', '报告')}</span>
+        <span class="lc-enter">💡 {L('Cadang', 'Suggest', '建议')}</span>
+        <span class="lc-enter">✍️ {L('Sumbang', 'Contribute', '贡献')}</span>
+        <span class="lc-join">→</span>
       </div>
-      <div class="flow" aria-label={L('Aliran sumbangan', 'Contribution flow', '贡献流程')}>
-        {flow.map((step, i) => (
-          <>
-            {i > 0 && <span class="flow-arrow" aria-hidden="true">→</span>}
-            <span class="flow-step">{step}</span>
-          </>
+      <ol class="lc-stages">
+        {stages.map((s) => (
+          <li>
+            <span class="lc-n">{s.n}</span>
+            <b>{s.title}</b>
+            <p>{s.body}</p>
+          </li>
         ))}
-      </div>
+      </ol>
     </div>
   </div>
 </section>
 
-<section class="container block two">
+<!-- SUGGEST -->
+<section class="container block" id="suggest">
   <div class="psec">
-    <header><span>{L('Lapor atau cadangkan topik', 'Report or suggest a topic', '报告或建议主题')}</span></header>
+    <header><span>💡 {L('Cadangkan topik', 'Suggest a topic', '建议主题')}</span></header>
     <div class="psec-body">
-      <form
-        class="cform"
-        action={CONTACT_FORM_ENDPOINT || '#'}
-        method="post"
-        data-configured={CONTACT_FORM_ENDPOINT ? 'true' : 'false'}
-        data-repo={REPO}
-      >
-        <label>{L('Topik', 'Topic', '主题')}<input name="topic" required placeholder={L('cth. Cukai jualan untuk PKS', 'e.g. Sales tax for SMEs', '例如：中小企业销售税')} /></label>
-        <label>{L('Kategori', 'Category', '分类')}
-          <select name="category">
-            {CATEGORIES.filter((c) => c.id !== 'about').map((c) => <option value={c.id}>{c.name[locale]}</option>)}
+      <p class="lead">{L('Pilih di mana topik anda sesuai. Jika kategori atau topik belum ada, cadangkan yang baharu.', 'Choose where your topic fits. If the category or topic doesn’t exist yet, propose a new one.', '选择你的主题所属位置。若分类或主题尚不存在，可提议新增。')}</p>
+      <form class="cform sform" data-repo={REPO}>
+        <label>{L('Seksyen', 'Section', '版块')}
+          <select name="section" required>
+            <option value="" disabled selected>{L('Pilih seksyen…', 'Choose a section…', '选择版块……')}</option>
+            {taxonomy.map((s) => <option value={s.id}>{s.name}</option>)}
           </select>
         </label>
-        <label>{L('Pengetahuan / kandungan', 'Knowledge / content', '知识 / 内容')}<textarea name="content" rows="5" required placeholder={L('Apa yang patut diketahui pembaca…', 'What readers should know…', '读者应该知道的内容……')}></textarea></label>
-        <label>{L('Sumber rujukan', 'Reference source', '参考来源')}<input name="source" placeholder="https://…" /></label>
-        <label>{L('Nama (pilihan)', 'Name (optional)', '姓名（可选）')}<input name="name" placeholder={L('handle GitHub anda', 'your GitHub handle', '你的 GitHub 用户名')} /></label>
-        <button type="submit" class="btn btn-primary">{L('Hantar melalui GitHub', 'Submit via GitHub', '通过 GitHub 提交')}</button>
-        <p class="muted">{L('Penyerahan tanpa nama dibenarkan. Borang ini membuka isu GitHub yang telah diisi — tiada e-mel dikumpul.', 'Anonymous submissions are allowed. This opens a pre-filled GitHub issue — no email is collected.', '允许匿名提交。此表单会打开一个预填的 GitHub issue——不收集邮箱。')}</p>
+        <label>{L('Kategori', 'Category', '分类')}
+          <select name="category" required disabled>
+            <option value="" disabled selected>{L('Pilih seksyen dahulu…', 'Choose a section first…', '请先选择版块……')}</option>
+          </select>
+        </label>
+        <label class="newcat-wrap" hidden>{L('Nama kategori baharu', 'New category name', '新分类名称')}
+          <input name="newcategory" placeholder={L('cth. Insurans', 'e.g. Insurance', '例如：保险')} />
+        </label>
+        <label>{L('Topik', 'Topic', '主题')}
+          <input name="topic" list="topics" required autocomplete="off" placeholder={L('cth. Cukai jualan untuk PKS', 'e.g. Sales tax for SMEs', '例如：中小企业销售税')} />
+          <datalist id="topics"></datalist>
+          <small class="dupe-hint" hidden></small>
+        </label>
+        <label>{L('Kenapa ia penting?', 'Why it matters', '为何重要')}<textarea name="why" rows="3" placeholder={L('Siapa yang memerlukannya dan mengapa…', 'Who needs it and why…', '谁需要它、为什么……')}></textarea></label>
+        <label>{L('Sumber (pilihan)', 'Sources (optional)', '来源（可选）')}<input name="source" placeholder="https://…" /></label>
+        <button type="submit" class="btn btn-primary">{L('Hantar cadangan melalui GitHub', 'Submit suggestion via GitHub', '通过 GitHub 提交建议')}</button>
+        <p class="muted">{L('Membuka isu GitHub yang telah diisi. Tiada jemputan diperlukan untuk mencadang.', 'Opens a pre-filled GitHub issue. No invitation needed to suggest.', '打开一个预填的 GitHub issue。提交建议无需邀请。')}</p>
       </form>
+    </div>
+  </div>
+</section>
+
+<!-- REPORT -->
+<section class="container block" id="report">
+  <div class="psec">
+    <header><span>🚩 {L('Laporkan isu', 'Report an issue', '报告问题')}</span></header>
+    <div class="psec-body">
+      <p class="lead">{L('Laporan berkaitan halaman tertentu. Cara terpantas: guna pautan “Laporkan isu” di bahagian bawah mana-mana artikel — ia telah mengisi tajuk dan URL untuk anda.', 'A report is about a specific page. The fastest way: use the “Report an issue” link at the bottom of any article — it pre-fills the title and URL for you.', '报告针对具体页面。最快方式：使用任意文章底部的"报告问题"链接——它已为你预填标题和网址。')}</p>
+      <form class="cform rform" data-repo={REPO}>
+        <label>{L('URL halaman', 'Page URL', '页面网址')}<input name="url" required placeholder="https://negaraku.md/…" /></label>
+        <label>{L('Jenis', 'Type', '类型')}
+          <select name="type">
+            <option value="factual">{L('Fakta silap', 'Factual error', '事实错误')}</option>
+            <option value="outdated">{L('Maklumat lapuk', 'Outdated', '信息过时')}</option>
+            <option value="link">{L('Pautan rosak', 'Broken link', '链接失效')}</option>
+            <option value="typo">{L('Salah taip / bahasa', 'Typo / wording', '错别字 / 措辞')}</option>
+            <option value="sensitive">{L('Kebimbangan sensitif', 'Sensitive-content concern', '敏感内容顾虑')}</option>
+          </select>
+        </label>
+        <label>{L('Apa yang salah?', 'What’s wrong?', '哪里有问题？')}<textarea name="detail" rows="4" required placeholder={L('Terangkan isu, dan versi yang betul jika tahu…', 'Describe the issue, and the correct version if you know it…', '描述问题，若知道正确内容也请写出……')}></textarea></label>
+        <label>{L('Sumber (pilihan)', 'Source (optional)', '来源（可选）')}<input name="source" placeholder="https://…" /></label>
+        <button type="submit" class="btn btn-primary">{L('Hantar laporan melalui GitHub', 'Submit report via GitHub', '通过 GitHub 提交报告')}</button>
+        <p class="muted">{L('Membuka isu GitHub yang telah diisi. Penyerahan tanpa nama dibenarkan.', 'Opens a pre-filled GitHub issue. Anonymous submissions allowed.', '打开一个预填的 GitHub issue。允许匿名提交。')}</p>
+      </form>
+    </div>
+  </div>
+</section>
+
+<!-- CONTRIBUTE (by invitation) -->
+<section class="container block two" id="contribute">
+  <div class="psec">
+    <header><span>✍️ {L('Sumbang — secara jemputan', 'Contribute — by invitation', '贡献 — 邀请制')}</span></header>
+    <div class="psec-body">
+      <p class="lead">{L('Pada fasa awal, penulisan dan terjemahan adalah secara jemputan untuk melindungi kualiti dan topik sensitif. Begini cara menyertai:', 'In our early phase, authoring and translation are invitation-only to protect quality and sensitive topics. Here’s how to join:', '在早期阶段，撰写与翻译采用邀请制，以保障质量与敏感主题。加入方式如下：')}</p>
+      <ol class="steps">
+        <li><b>{L('Mohon jemputan', 'Request an invitation', '申请邀请')}</b><span>{L('Buka isu ringkas — ceritakan bidang kepakaran dan bahasa anda.', 'Open a short issue — tell us your area of expertise and languages.', '提交一个简短 issue——告诉我们你的专长与语言。')}</span></li>
+        <li><b>{L('Onboarding', 'Onboarding', '入门引导')}</b><span>{L('Kami semak dan tambah anda sebagai penyumbang, dengan akses menyunting.', 'We review and add you as a contributor, with editing access.', '我们审核并将你加为贡献者，授予编辑权限。')}</span></li>
+        <li><b>{L('Latihan penyumbang', 'Contributor training', '贡献者培训')}</b><span>{L('Pelajari piawai kami dan gunakan alat draf berpandukan AI di sebelah.', 'Learn our standard and use the AI-guided drafting tool on the right.', '学习我们的标准，并使用右侧的 AI 引导起草工具。')}</span></li>
+        <li><b>{L('Draf → PR → terbit', 'Draft → PR → publish', '起草 → PR → 发布')}</b><span>{L('Tulis dalam Markdown, buka pull request, disemak, kemudian disiarkan tiga bahasa.', 'Write in Markdown, open a pull request, get reviewed, then publish in three languages.', '用 Markdown 撰写，发起 pull request，经审阅后以三语发布。')}</span></li>
+      </ol>
+      <a class="btn btn-primary" href={REQUEST_INVITE} rel="noopener">{L('Mohon jemputan menyumbang', 'Request an invitation', '申请贡献者邀请')}</a>
     </div>
   </div>
 
   <div class="side">
     <div class="psec">
-      <header><span>{L('Gesaan dipandu AI', 'AI-guided prompt', 'AI 引导提示词')}</span></header>
+      <header><span>🤖 {L('Latihan: draf berpandukan AI', 'Training: AI-guided drafting', '培训：AI 引导起草')}</span></header>
       <div class="psec-body">
-        <p class="hint">{L('Salin, tampal ke dalam AI kegemaran anda, dan tukar [TOPIK].', 'Copy, paste into your favourite AI, and swap in [TOPIC].', '复制并粘贴到你常用的 AI 中，替换 [主题]。')}</p>
+        <p class="hint">{L('Sebahagian daripada latihan penyumbang. Salin, tampal ke dalam AI kegemaran anda, dan tukar [TOPIK].', 'Part of contributor training. Copy, paste into your favourite AI, and swap in [TOPIC].', '贡献者培训的一部分。复制并粘贴到你常用的 AI 中，替换 [主题]。')}</p>
         <pre class="prompt"><code>{aiPrompt}</code></pre>
         <button type="button" class="btn btn-ghost copy-prompt" data-prompt={aiPrompt}>{L('Salin gesaan', 'Copy prompt', '复制提示词')}</button>
       </div>
     </div>
-
     <div class="psec">
       <header><span>{L('Panduan', 'Guides', '指南')}</span></header>
       <div class="psec-body links">
-        <a href={`${REPO}/issues/new?labels=invitation-request&title=${encodeURIComponent('Invitation request')}`} rel="noopener">{L('Pohon jemputan menyumbang', 'Request an invitation to contribute', '申请贡献者邀请')} ↗</a>
         <a href={`${REPO}/blob/main/CONTRIBUTING.md`} rel="noopener">{L('Panduan sumbangan penuh', 'Full contribution guide', '完整贡献指南')} ↗</a>
         <a href={REPO} rel="noopener">{L('Repositori GitHub', 'GitHub repository', 'GitHub 仓库')} ↗</a>
         <p class="muted small">{L('Topik sensitif (kaum, agama, institusi diraja, perlembagaan) mesti bersumber, neutral, dan disemak manusia sebelum terbit.', 'Sensitive topics (race, religion, royalty, the constitution) must be sourced, neutral, and human-reviewed before publishing.', '敏感话题（种族、宗教、王室、宪法）必须注明来源、保持中立，并在发布前经人工审阅。')}</p>
@@ -146,34 +253,95 @@ const aiPrompt = L(
   </div>
 </section>
 
+<script type="application/json" id="taxonomy" set:html={JSON.stringify(taxonomy)} />
+
 <script>
-  // No email backend: turn a submission into a pre-filled GitHub issue instead
-  // of POSTing to a dead endpoint. If a real endpoint is later configured
-  // (data-configured="true"), let the browser post normally.
-  document.querySelectorAll('form.cform').forEach((form) => {
-    form.addEventListener('submit', (e) => {
-      if (form.dataset.configured === 'true') return;
+  const TAX = JSON.parse(document.getElementById('taxonomy')?.textContent || '[]');
+  const byId = (id) => TAX.find((s) => s.id === id);
+  const NEW = '__new__';
+
+  // Suggest cascade: Section → Category → Topic (with "propose new").
+  const sform = document.querySelector('form.sform');
+  if (sform) {
+    const secSel = sform.querySelector('[name="section"]');
+    const catSel = sform.querySelector('[name="category"]');
+    const newCatWrap = sform.querySelector('.newcat-wrap');
+    const newCatInput = sform.querySelector('[name="newcategory"]');
+    const topicInput = sform.querySelector('[name="topic"]');
+    const topicList = sform.querySelector('#topics');
+    const dupeHint = sform.querySelector('.dupe-hint');
+
+    const optionEl = (v, t) => { const o = document.createElement('option'); o.value = v; o.textContent = t; return o; };
+
+    secSel.addEventListener('change', () => {
+      const sec = byId(secSel.value);
+      catSel.innerHTML = '';
+      catSel.appendChild(optionEl('', sec ? 'Choose a category…' : ''));
+      (sec?.categories || []).forEach((c) => catSel.appendChild(optionEl(c.id, c.name)));
+      catSel.appendChild(optionEl(NEW, '➕ Propose a new category'));
+      catSel.disabled = false;
+      catSel.value = '';
+      newCatWrap.hidden = true;
+      topicList.innerHTML = '';
+    });
+
+    catSel.addEventListener('change', () => {
+      newCatWrap.hidden = catSel.value !== NEW;
+      if (newCatInput) newCatInput.required = catSel.value === NEW;
+      // Load existing topics for dedup (skip for a brand-new category).
+      topicList.innerHTML = '';
+      dupeHint.hidden = true;
+      if (catSel.value && catSel.value !== NEW) {
+        const cat = byId(secSel.value)?.categories.find((c) => c.id === catSel.value);
+        (cat?.topics || []).forEach((t) => topicList.appendChild(optionEl(t, t)));
+      }
+    });
+
+    topicInput.addEventListener('input', () => {
+      const existing = [...topicList.options].some((o) => o.value.toLowerCase() === topicInput.value.trim().toLowerCase());
+      dupeHint.hidden = !existing;
+      if (existing) dupeHint.textContent = '⚠︎ This topic may already exist — check before suggesting.';
+    });
+
+    sform.addEventListener('submit', (e) => {
       e.preventDefault();
-      const v = (n) => (form.querySelector(`[name="${n}"]`)?.value || '').trim();
-      const topic = v('topic');
-      const title = `Contribution: ${topic || 'new article'}`;
+      const sec = byId(secSel.value);
+      const newCat = catSel.value === NEW;
+      const catName = newCat ? (newCatInput.value.trim() || 'New category') : (sec?.categories.find((c) => c.id === catSel.value)?.name || catSel.value);
+      const topic = topicInput.value.trim();
+      const labels = ['suggestion', newCat ? 'new-category' : ''].filter(Boolean).join(',');
+      const title = `Suggestion: ${topic} (${sec?.name} › ${catName})`;
       const body = [
+        `**Section:** ${sec?.name || ''}`,
+        `**Category:** ${catName}${newCat ? ' _(new)_' : ''}`,
         `**Topic:** ${topic}`,
-        `**Category:** ${v('category')}`,
-        `**Source:** ${v('source') || '—'}`,
-        `**Submitted by:** ${v('name') || 'anonymous'}`,
-        '',
-        '---',
-        '',
-        v('content'),
+        `**Why it matters:** ${sform.querySelector('[name="why"]').value.trim() || '—'}`,
+        `**Sources:** ${sform.querySelector('[name="source"]').value.trim() || '—'}`,
       ].join('\n');
-      const repo = form.dataset.repo;
-      const url = `${repo}/issues/new?labels=contribution&title=${encodeURIComponent(title)}&body=${encodeURIComponent(body)}`;
+      const url = `${sform.dataset.repo}/issues/new?labels=${encodeURIComponent(labels)}&title=${encodeURIComponent(title)}&body=${encodeURIComponent(body)}`;
       window.open(url, '_blank', 'noopener');
     });
-  });
+  }
 
-  // Copy-prompt button
+  // Report → pre-filled GitHub issue.
+  const rform = document.querySelector('form.rform');
+  if (rform) {
+    rform.addEventListener('submit', (e) => {
+      e.preventDefault();
+      const v = (n) => (rform.querySelector(`[name="${n}"]`)?.value || '').trim();
+      const title = `Report (${v('type')}): ${v('url')}`;
+      const body = [
+        `**Page:** ${v('url')}`,
+        `**Type:** ${v('type')}`,
+        `**Issue:** ${v('detail')}`,
+        `**Source:** ${v('source') || '—'}`,
+      ].join('\n');
+      const url = `${rform.dataset.repo}/issues/new?labels=report&title=${encodeURIComponent(title)}&body=${encodeURIComponent(body)}`;
+      window.open(url, '_blank', 'noopener');
+    });
+  }
+
+  // Copy-prompt button.
   document.querySelectorAll('.copy-prompt').forEach((btn) => {
     btn.addEventListener('click', async () => {
       try {
@@ -196,49 +364,72 @@ const aiPrompt = L(
   }
   .psec > header span { color: var(--gold); }
   .psec-body { padding: 1.2rem; }
+  .lead { margin: 0 0 1.1rem; color: var(--ink-soft); line-height: 1.6; }
   .hint { font-size: 0.82rem; color: var(--muted); margin: 0 0 0.8rem; }
 
-  /* Method step cards */
-  .methods { display: grid; grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); gap: 1rem; }
-  .mcard { position: relative; background: var(--surface-2); border: 1px solid var(--line); border-radius: 10px; padding: 1.1rem 1.15rem; }
-  .mnum {
-    position: absolute; top: 0.8rem; right: 0.9rem;
-    font-family: var(--font-title); font-weight: 800; font-size: 0.9rem;
-    color: var(--gold); opacity: 0.55;
+  /* Three path cards */
+  .paths { display: grid; grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); gap: 1rem; }
+  .pathcard {
+    position: relative; display: block; text-decoration: none; background: var(--surface);
+    border: 1px solid var(--line); border-radius: 12px; padding: 1.2rem 1.25rem; transition: border-color 0.15s, transform 0.15s;
   }
-  .mi { font-size: 1.6rem; }
-  .mcard b { display: block; font-family: var(--font-title); margin: 0.4rem 0 0.3rem; color: var(--ink); }
-  .mtag {
-    display: inline-block; font-size: 0.68rem; font-weight: 700; letter-spacing: 0.03em;
-    text-transform: uppercase; color: var(--gold); border: 1px solid var(--line);
-    background: var(--surface); border-radius: 999px; padding: 0.1rem 0.55rem; margin-bottom: 0.5rem;
+  .pathcard:hover { border-color: var(--gold); transform: translateY(-2px); }
+  .pi { font-size: 1.7rem; }
+  .ptag {
+    position: absolute; top: 1.15rem; right: 1.1rem; font-size: 0.62rem; font-weight: 700;
+    letter-spacing: 0.04em; text-transform: uppercase; border-radius: 999px; padding: 0.12rem 0.55rem; border: 1px solid var(--line);
   }
-  .mcard p { color: var(--ink-soft); font-size: 0.9rem; margin: 0; line-height: 1.6; }
+  .ptag.open { color: #4ade80; }
+  .ptag.invite { color: var(--gold); }
+  .pathcard b { display: block; font-family: var(--font-title); font-size: 1.15rem; margin: 0.5rem 0 0.3rem; color: var(--ink); }
+  .pathcard p { margin: 0; color: var(--ink-soft); font-size: 0.9rem; line-height: 1.55; }
 
-  /* Contribution flow strip */
-  .flow { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem 0.6rem; margin-top: 1.2rem; padding-top: 1rem; border-top: 1px dashed var(--line); }
-  .flow-step { font-size: 0.82rem; font-weight: 700; color: var(--ink-soft); background: var(--surface-2); border: 1px solid var(--line); border-radius: 999px; padding: 0.25rem 0.75rem; }
-  .flow-arrow { color: var(--gold); font-weight: 800; }
+  /* Lifecycle */
+  .lc-enters { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem; margin-bottom: 1rem; }
+  .lc-enter { font-size: 0.85rem; font-weight: 700; color: var(--ink-soft); background: var(--surface-2); border: 1px solid var(--line); border-radius: 999px; padding: 0.3rem 0.8rem; }
+  .lc-join { color: var(--gold); font-weight: 800; }
+  .lc-stages { list-style: none; display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.9rem; padding: 0; margin: 0; }
+  .lc-stages li { position: relative; background: var(--surface-2); border: 1px solid var(--line); border-radius: 10px; padding: 0.9rem 1rem; }
+  .lc-n { display: inline-flex; align-items: center; justify-content: center; width: 1.6rem; height: 1.6rem; border-radius: 999px; background: var(--gold); color: #1a1400; font-weight: 800; font-size: 0.85rem; font-family: var(--font-title); }
+  .lc-stages b { display: block; font-family: var(--font-title); margin: 0.5rem 0 0.25rem; color: var(--ink); font-size: 0.98rem; }
+  .lc-stages p { margin: 0; color: var(--ink-soft); font-size: 0.85rem; line-height: 1.5; }
 
-  /* Two-column: form + sidebar */
-  .two { display: grid; grid-template-columns: 1.3fr 1fr; gap: 1.6rem; align-items: start; padding-bottom: 3rem; }
-  .side { display: grid; gap: 1.6rem; }
-
-  .cform { display: grid; gap: 0.9rem; }
+  /* Forms */
+  .cform { display: grid; gap: 0.9rem; max-width: 44rem; }
   .cform label { display: grid; gap: 0.3rem; font-size: 0.85rem; font-weight: 600; color: var(--ink-soft); }
   .cform input, .cform select, .cform textarea {
     padding: 0.6rem 0.8rem; border-radius: 8px; border: 1px solid var(--line);
     background: var(--surface-2); color: var(--ink); font: inherit; font-weight: 400;
   }
   .cform input:focus, .cform select:focus, .cform textarea:focus { outline: none; border-color: var(--gold); }
+  .cform select:disabled { opacity: 0.5; }
   .cform button { justify-self: start; }
+  .dupe-hint { color: var(--gold); font-weight: 600; font-size: 0.8rem; }
   .muted { color: var(--muted); font-size: 0.85rem; }
   .muted.small { font-size: 0.8rem; line-height: 1.55; margin: 0.8rem 0 0; }
 
+  /* Invitation steps */
+  .steps { list-style: none; padding: 0; margin: 0 0 1.2rem; display: grid; gap: 0.7rem; }
+  .steps li { display: grid; grid-template-columns: auto 1fr; gap: 0.1rem 0.9rem; counter-increment: step; padding-left: 0.2rem; }
+  .steps li::before {
+    content: counter(step); grid-row: 1 / span 2; align-self: start;
+    display: inline-flex; align-items: center; justify-content: center; width: 1.7rem; height: 1.7rem;
+    border-radius: 999px; background: var(--surface-2); border: 1px solid var(--line); color: var(--gold); font-weight: 800; font-family: var(--font-title);
+  }
+  .steps { counter-reset: step; }
+  .steps b { font-family: var(--font-title); color: var(--ink); }
+  .steps span { color: var(--ink-soft); font-size: 0.9rem; line-height: 1.5; }
+
+  .two { display: grid; grid-template-columns: 1.3fr 1fr; gap: 1.6rem; align-items: start; padding-bottom: 3rem; }
+  .side { display: grid; gap: 1.6rem; }
   .prompt { background: var(--surface-2); border: 1px solid var(--line); border-radius: 10px; padding: 1rem; white-space: pre-wrap; font-size: 0.85rem; line-height: 1.6; margin: 0 0 0.8rem; }
   .links { display: grid; gap: 0.6rem; }
   .links a { color: var(--gold); text-decoration: none; font-weight: 600; font-size: 0.9rem; }
   .links a:hover { text-decoration: underline; }
 
-  @media (max-width: 800px) { .two { grid-template-columns: 1fr; gap: 1.5rem; } }
+  @media (max-width: 800px) {
+    .lc-stages { grid-template-columns: 1fr 1fr; }
+    .two { grid-template-columns: 1fr; gap: 1.5rem; }
+  }
+  @media (max-width: 520px) { .lc-stages { grid-template-columns: 1fr; } }
 </style>

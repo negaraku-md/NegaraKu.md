@@ -537,6 +537,13 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
         <a class="edit" href={localePath(path, locale) + '.md'}>
           {L('Markdown mentah', 'Raw Markdown', '原始 Markdown')} ↗
         </a>
+        <a
+          class="edit"
+          href={`${REPO}/issues/new?labels=report&title=${encodeURIComponent(`Report: ${d.title}`)}&body=${encodeURIComponent(`**Page:** ${localePath(path, locale)}\n**Type:** (factual error / outdated / broken link / typo / sensitive)\n**What's wrong?** \n**Correct version / source:** `)}`}
+          rel="noopener"
+        >
+          {L('Laporkan isu', 'Report an issue', '报告问题')} ↗
+        </a>
       </div>
     </aside>
   </div>
