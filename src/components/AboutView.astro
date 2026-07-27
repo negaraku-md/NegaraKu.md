@@ -110,6 +110,29 @@ const faqs = [
   </div>
 </section>
 
+<section class="container block two">
+  <div class="psec">
+    <header><span>{L('Visi', 'Vision', '愿景')}</span></header>
+    <div class="psec-body">
+      <p class="vm-lead">{L(
+        'Sebuah Malaysia yang pengetahuannya terbuka, boleh dipercayai, dan mudah dibaca — oleh manusia dan oleh AI yang mereka gunakan.',
+        'A Malaysia whose knowledge is open, trustworthy, and equally readable — by people and by the AI they rely on.',
+        '一个知识开放、可信、并能被人类及其所依赖的 AI 同样读懂的马来西亚。',
+      )}</p>
+    </div>
+  </div>
+  <div class="psec">
+    <header><span>{L('Misi', 'Mission', '使命')}</span></header>
+    <div class="psec-body">
+      <p class="vm-lead">{L(
+        'Menyusun pengetahuan Malaysia menjadi perpustakaan terbuka, bersumber dan tiga bahasa yang boleh dibaca, disahkan dan dikembangkan oleh sesiapa sahaja — dan mana-mana AI.',
+        'To curate Malaysia’s knowledge into an open, cited, trilingual library that anyone — and any AI — can read, verify, and build on.',
+        '将马来西亚的知识整理成一个开放、有据可查、三语的知识库，让任何人——以及任何 AI——都能阅读、查证并在其之上继续建构。',
+      )}</p>
+    </div>
+  </div>
+</section>
+
 <section class="container block">
   <div class="psec">
     <header><span>{L('Cara ia berfungsi', 'How it works', '运作方式')}</span></header>
@@ -177,6 +200,9 @@ const faqs = [
   .psec-body { padding: 1.2rem; }
   .psec-body.prose p { margin: 0 0 0.9rem; line-height: 1.75; color: var(--ink-soft); }
   .psec-body.prose p:last-child { margin-bottom: 0; }
+
+  /* Vision & Mission — larger, brighter statements than body prose. */
+  .vm-lead { margin: 0; font-family: var(--font-title); font-size: 1.2rem; line-height: 1.5; color: var(--ink); }
 
   .pcards { display: grid; grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); gap: 1rem; }
   .pcard { background: var(--surface-2); border: 1px solid var(--line); border-radius: 10px; padding: 1.1rem 1.15rem; }
