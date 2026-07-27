@@ -186,6 +186,23 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
 
 <header class="art-hero">
   <div class="container">
+    <svg class="hero-bloom" viewBox="0 0 64 64" aria-hidden="true" data-pagefind-ignore>
+      <defs><mask id="hero-bloom-mask"><rect width="64" height="64" fill="#fff" /><circle cx="32" cy="28" r="5.3" fill="#000" /></mask></defs>
+      <g fill="currentColor" mask="url(#hero-bloom-mask)">
+        <g transform="translate(32 28)">
+          <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" />
+          <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(72)" />
+          <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(144)" />
+          <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(216)" />
+          <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(288)" />
+        </g>
+        <path d="M32 28 C 32 39, 33 47, 35.5 54" stroke="currentColor" stroke-width="2.6" fill="none" stroke-linecap="round" />
+        <circle cx="35.6" cy="54.2" r="2.5" />
+        <circle cx="31" cy="49.5" r="1.9" />
+        <circle cx="38.4" cy="50.4" r="1.9" />
+      </g>
+      <circle cx="32" cy="28" r="2.4" fill="currentColor" />
+    </svg>
     <p class="crumb" data-pagefind-ignore>
       <a href={localePath('/', locale)}>{L('Laman Utama', 'Home', '首页')}</a> /
       {pillarDef && (
@@ -585,6 +602,26 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
     border-bottom: 1px solid var(--line);
     padding-block: 3.4rem 3rem;
     margin-bottom: 0;
+  }
+  /* Decorative blossom watermark filling the hero's open right side. Theme-aware
+     (currentColor → gold/red), faint, behind the text, hidden on small screens. */
+  .art-hero > .container { position: relative; }
+  .hero-bloom {
+    position: absolute;
+    right: 0.5rem;
+    top: 50%;
+    transform: translateY(-50%);
+    width: clamp(190px, 22vw, 330px);
+    height: auto;
+    color: var(--gold);
+    opacity: 0.09;
+    pointer-events: none;
+    z-index: 0;
+  }
+  /* Keep the hero text above the watermark. */
+  .art-hero > .container > :not(.hero-bloom) { position: relative; z-index: 1; }
+  @media (max-width: 900px) {
+    .hero-bloom { display: none; }
   }
   .art { padding-block: 2rem 4rem; }
   /* Articles use a NARROWER shell than the site-wide container: the 800px
