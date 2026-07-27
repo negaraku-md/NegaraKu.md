@@ -18,9 +18,12 @@ const DARK = '#07070A';
 const INK = '#F4F4F8';
 const FONT = "Montserrat, 'Segoe UI', Arial, sans-serif";
 
-// Badge geometry (512-unit canvas, matches the 1company badge): a white
-// rounded-hexagon outer ring, a transparent gap, then the black hexagon.
-const HEX = { R1: 250, ring: 15, gap: 8, round: 26 }; // R1 outer, ring width, gap
+// Badge geometry (512-unit canvas, matches the 1company badge): a uniform white
+// hexagon OUTLINE (stroked, so the border is the same weight at every corner),
+// a transparent gap, then the black hexagon. Ro = outer radius of the white
+// stroke, border = white stroke width, gap = transparent ring, cr = corner
+// rounding of the black hexagon.
+const HEX = { Ro: 250, border: 12, gap: 8, cr: 26 };
 
 // ── The blossom (favicon geometry, 64-unit space, flower head at 32,28) ──────
 const PETALS = (fill) => `<g fill="${fill}" transform="translate(32 28)">
@@ -51,32 +54,33 @@ function placeBlossom(cx, cy, s, maskId) {
   return `<g transform="translate(${(cx - 32 * s).toFixed(2)} ${(cy - 30 * s).toFixed(2)}) scale(${s})">${blossom(GOLD, maskId)}</g>`;
 }
 
-// Pointy-top rounded hexagon, drawn as a stroked polygon so the corners round
-// like the 1company badge. Returns the <polygon> element.
-function hexagon(cx, cy, R, fill, round = HEX.round) {
+// Pointy-top hexagon vertex list at vertex-radius R, centred (cx,cy).
+function hexPts(cx, cy, R) {
   const pts = [];
   for (let i = 0; i < 6; i++) {
     const a = (Math.PI / 180) * (90 + i * 60);
-    pts.push(`${(cx + R * Math.cos(a)).toFixed(1)},${(cy - R * Math.sin(a)).toFixed(1)}`);
+    pts.push(`${(cx + R * Math.cos(a)).toFixed(2)},${(cy - R * Math.sin(a)).toFixed(2)}`);
   }
-  return `<polygon points="${pts.join(' ')}" fill="${fill}" stroke="${fill}" stroke-width="${round}" stroke-linejoin="round"/>`;
+  return pts.join(' ');
 }
 
-// The full badge body in a 512-unit space: white ring (with a transparent gap)
-// + black hexagon + gold blossom. uid keeps mask ids unique per SVG document.
-function badgeBody(uid) {
-  const { R1, ring, gap } = HEX;
-  const R2 = R1 - ring; // inner edge of the white ring
-  const R3 = R2 - gap; // black hexagon (transparent gap between it and the ring)
-  return `<mask id="ring-${uid}"><rect width="512" height="512" fill="#000"/>${hexagon(256, 256, R1, '#fff')}${hexagon(256, 256, R2, '#000')}</mask>
-  <rect width="512" height="512" fill="${BORDER}" mask="url(#ring-${uid})"/>
-  ${hexagon(256, 256, R3, BADGE_BLACK)}
-  ${placeBlossom(256, 256, 5.4, `bh-${uid}`)}`;
+// The full badge body in a 512-unit space, matching the 1company badge:
+//  • black hexagon fill (rounded via a round-join stroke of its own colour)
+//  • a uniform white hexagon OUTLINE (single stroked polygon → identical border
+//    weight at every edge and corner), sitting a transparent `gap` outside it.
+function badgeBody() {
+  const { Ro, border, gap, cr } = HEX;
+  const Rw = Ro - border / 2;                 // centre-line radius of white stroke
+  const blackOuter = Rw - border / 2 - gap;   // outer extent of the black hexagon
+  const Rb = blackOuter - cr / 2;             // black polygon vertex radius
+  return `<polygon points="${hexPts(256, 256, Rb)}" fill="${BADGE_BLACK}" stroke="${BADGE_BLACK}" stroke-width="${cr}" stroke-linejoin="round"/>
+  <polygon points="${hexPts(256, 256, Rw)}" fill="none" stroke="${BORDER}" stroke-width="${border}" stroke-linejoin="round" stroke-linecap="round"/>
+  ${placeBlossom(256, 256, 5.4, 'bh')}`;
 }
 
 // ── The badge (primary logo), 512-unit canvas ──
 const badgeSvg = (px) => `<svg xmlns="http://www.w3.org/2000/svg" width="${px}" height="${px}" viewBox="0 0 512 512">
-  ${badgeBody('i')}
+  ${badgeBody()}
 </svg>`;
 
 // Flat mark: the blossom alone (transparent centre), for monochrome / tiny use.
@@ -86,7 +90,7 @@ const markSvg = (px) => `<svg xmlns="http://www.w3.org/2000/svg" width="${px}" h
 const lockupSvg = (w, h, bg) =>
   `<svg xmlns="http://www.w3.org/2000/svg" width="${w}" height="${h}" viewBox="0 0 900 300">
   ${bg ? `<rect width="900" height="300" rx="28" fill="${bg}"/>` : ''}
-  <g transform="translate(16 16) scale(0.52)">${badgeBody('l')}</g>
+  <g transform="translate(16 16) scale(0.52)">${badgeBody()}</g>
   <text x="300" y="182" font-family="${FONT}" font-size="90" font-weight="800" fill="${INK}">NegaraKu<tspan fill="${GOLD}">.md</tspan></text>
 </svg>`;
 
