@@ -20,7 +20,7 @@ const FONT = "Montserrat, 'Segoe UI', Arial, sans-serif";
 
 // Badge geometry (512-unit canvas, matches the 1company badge): a white
 // rounded-hexagon outer ring, a transparent gap, then the black hexagon.
-const HEX = { R1: 250, ring: 21, gap: 11, round: 28 }; // R1 outer, ring width, gap
+const HEX = { R1: 250, ring: 15, gap: 8, round: 26 }; // R1 outer, ring width, gap
 
 // ── The blossom (favicon geometry, 64-unit space, flower head at 32,28) ──────
 const PETALS = (fill) => `<g fill="${fill}" transform="translate(32 28)">

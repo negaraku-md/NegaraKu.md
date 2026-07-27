@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <mask id="ring-i"><rect width="512" height="512" fill="#000"/><polygon points="256.0,6.0 39.5,131.0 39.5,381.0 256.0,506.0 472.5,381.0 472.5,131.0" fill="#fff" stroke="#fff" stroke-width="28" stroke-linejoin="round"/><polygon points="256.0,27.0 57.7,141.5 57.7,370.5 256.0,485.0 454.3,370.5 454.3,141.5" fill="#000" stroke="#000" stroke-width="28" stroke-linejoin="round"/></mask>
+  <mask id="ring-i"><rect width="512" height="512" fill="#000"/><polygon points="256.0,6.0 39.5,131.0 39.5,381.0 256.0,506.0 472.5,381.0 472.5,131.0" fill="#fff" stroke="#fff" stroke-width="26" stroke-linejoin="round"/><polygon points="256.0,21.0 52.5,138.5 52.5,373.5 256.0,491.0 459.5,373.5 459.5,138.5" fill="#000" stroke="#000" stroke-width="26" stroke-linejoin="round"/></mask>
   <rect width="512" height="512" fill="#FFFFFF" mask="url(#ring-i)"/>
-  <polygon points="256.0,38.0 67.2,147.0 67.2,365.0 256.0,474.0 444.8,365.0 444.8,147.0" fill="#0A0A0A" stroke="#0A0A0A" stroke-width="28" stroke-linejoin="round"/>
+  <polygon points="256.0,29.0 59.4,142.5 59.4,369.5 256.0,483.0 452.6,369.5 452.6,142.5" fill="#0A0A0A" stroke="#0A0A0A" stroke-width="26" stroke-linejoin="round"/>
   <g transform="translate(83.20 94.00) scale(5.4)"><defs><mask id="bh-i"><rect width="64" height="64" fill="#fff"/><circle cx="32" cy="28" r="5.3" fill="#000"/></mask></defs>
     <g mask="url(#bh-i)"><g fill="#FFC000" transform="translate(32 28)">
       <ellipse cx="0" cy="-13" rx="7.6" ry="11.5"/>
