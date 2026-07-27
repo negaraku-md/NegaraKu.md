@@ -7,8 +7,11 @@
   (function () {
     try {
       var d = document.documentElement;
-      // Theme is locked to dark (the 1company canvas). The light-mode toggle is
-      // hidden; any previously-saved 'light' preference is intentionally ignored.
+      // Accent theme: default is Black · Gold (no attribute). Black · Red is
+      // selectable. The White · Black (light) theme stays defined but is not
+      // offered in the UI, so a stale 'light' preference is intentionally ignored.
+      var theme = localStorage.getItem('nk-theme');
+      if (theme === 'black-red') d.setAttribute('data-theme', theme);
       var size = localStorage.getItem('nk-text-size');
       if (size === 'large' || size === 'xlarge') d.setAttribute('data-text-size', size);
       // Default-language preference (Settings): only redirect from the home

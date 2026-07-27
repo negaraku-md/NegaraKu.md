@@ -172,7 +172,9 @@ const ogImageAlt = image ? title : 'NegaraKu.md — knowledge base about Malaysi
             if (!m) continue;
             const [r, g, b, a = '1'] = m[1].split(',').map((x) => parseFloat(x));
             if (a === 0) continue; // transparent — keep climbing
-            return (0.2126 * r + 0.7152 * g + 0.0722 * b) / 255 < 0.5;
+            // Brand only on genuinely dark surfaces; skip accent fills (gold OR
+            // red buttons) where the accent-coloured ".md" would clash.
+            return (0.2126 * r + 0.7152 * g + 0.0722 * b) / 255 < 0.3;
           }
           return true; // default: assume the dark canvas
         };

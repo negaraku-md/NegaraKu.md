@@ -13,6 +13,11 @@ const { locale } = Astro.props;
     <span aria-hidden="true">Aa</span>
   </summary>
   <div class="panel" role="group" aria-label={t('reader.title', locale)}>
+    <p class="grp-label">{t('reader.theme', locale)}</p>
+    <div class="seg" data-group="theme">
+      <button type="button" data-value="black-gold"><span class="sw sw-gold" aria-hidden="true"></span>{t('reader.themeGold', locale)}</button>
+      <button type="button" data-value="black-red"><span class="sw sw-red" aria-hidden="true"></span>{t('reader.themeRed', locale)}</button>
+    </div>
     <p class="grp-label">{t('reader.textSize', locale)}</p>
     <div class="seg" data-group="size">
       <button type="button" data-value="standard">{t('reader.sizeStandard', locale)}</button>
@@ -26,24 +31,27 @@ const { locale } = Astro.props;
   const root = document.documentElement;
   const panel = document.getElementById('reader-settings');
   if (panel) {
-    const sync = () => {
-      const size = root.getAttribute('data-text-size') || 'standard';
-      panel.querySelectorAll('[data-group="size"] button').forEach((b) =>
-        b.setAttribute('aria-pressed', String((b as HTMLElement).dataset.value === size)),
+    const save = (k: string, v: string) => { try { localStorage.setItem(k, v); } catch {} };
+
+    // A segmented control: `attr` on <html> reflects the choice; `dflt` clears it.
+    const wire = (group: string, attr: string, key: string, dflt: string) => {
+      const btns = panel.querySelectorAll<HTMLElement>(`[data-group="${group}"] button`);
+      const cur = () => root.getAttribute(attr) || dflt;
+      const sync = () => btns.forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.value === cur())));
+      btns.forEach((b) =>
+        b.addEventListener('click', () => {
+          const v = b.dataset.value!;
+          if (v === dflt) root.removeAttribute(attr);
+          else root.setAttribute(attr, v);
+          save(key, v);
+          sync();
+        }),
       );
+      sync();
     };
-    panel.querySelectorAll('[data-group="size"] button').forEach((b) =>
-      b.addEventListener('click', () => {
-        const v = (b as HTMLElement).dataset.value!;
-        if (v === 'standard') root.removeAttribute('data-text-size');
-        else root.setAttribute('data-text-size', v);
-        try {
-          localStorage.setItem('nk-text-size', v);
-        } catch {}
-        sync();
-      }),
-    );
-    sync();
+
+    wire('theme', 'data-theme', 'nk-theme', 'black-gold');
+    wire('size', 'data-text-size', 'nk-text-size', 'standard');
   }
 </script>
 
@@ -116,4 +124,15 @@ const { locale } = Astro.props;
     color: #000;
     border-color: var(--gold);
   }
+  .sw {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    margin-right: 5px;
+    vertical-align: middle;
+    border: 1px solid rgba(255, 255, 255, 0.25);
+  }
+  .sw-gold { background: #ffc000; }
+  .sw-red { background: #ef4444; }
 </style>
