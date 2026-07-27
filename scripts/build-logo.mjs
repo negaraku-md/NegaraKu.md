@@ -12,6 +12,7 @@ import { fileURLToPath } from 'node:url';
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const OUT = path.join(ROOT, 'public', 'brand');
 const GOLD = '#FFC000';
+const RED = '#FF2020'; // bright red — matches the Black·Red theme accent
 const BADGE_BLACK = '#0A0A0A';
 const BORDER = '#FFFFFF';
 const DARK = '#07070A';
@@ -50,8 +51,8 @@ function blossom(fill, maskId) {
 
 // Place a blossom so its visual centre (≈32,30 in the 64-unit space) lands at
 // (cx,cy) scaled by s.
-function placeBlossom(cx, cy, s, maskId) {
-  return `<g transform="translate(${(cx - 32 * s).toFixed(2)} ${(cy - 30 * s).toFixed(2)}) scale(${s})">${blossom(GOLD, maskId)}</g>`;
+function placeBlossom(cx, cy, s, maskId, accent) {
+  return `<g transform="translate(${(cx - 32 * s).toFixed(2)} ${(cy - 30 * s).toFixed(2)}) scale(${s})">${blossom(accent, maskId)}</g>`;
 }
 
 // Pointy-top hexagon vertex list at vertex-radius R, centred (cx,cy).
@@ -68,30 +69,30 @@ function hexPts(cx, cy, R) {
 //  • black hexagon fill (rounded via a round-join stroke of its own colour)
 //  • a uniform white hexagon OUTLINE (single stroked polygon → identical border
 //    weight at every edge and corner), sitting a transparent `gap` outside it.
-function badgeBody() {
+function badgeBody(accent) {
   const { Ro, border, gap, cr } = HEX;
   const Rw = Ro - border / 2;      // centre-line radius of white stroke
   const blackOuter = Rw - gap;     // black meets the white centre-line (gap 0 → on the edge)
   const Rb = blackOuter - cr / 2;  // black polygon vertex radius
   return `<polygon points="${hexPts(256, 256, Rb)}" fill="${BADGE_BLACK}" stroke="${BADGE_BLACK}" stroke-width="${cr}" stroke-linejoin="round"/>
   <polygon points="${hexPts(256, 256, Rw)}" fill="none" stroke="${BORDER}" stroke-width="${border}" stroke-linejoin="round" stroke-linecap="round"/>
-  ${placeBlossom(256, 256, 5.7, 'bh')}`;
+  ${placeBlossom(256, 256, 5.7, 'bh', accent)}`;
 }
 
 // ── The badge (primary logo), 512-unit canvas ──
-const badgeSvg = (px) => `<svg xmlns="http://www.w3.org/2000/svg" width="${px}" height="${px}" viewBox="0 0 512 512">
-  ${badgeBody()}
+const badgeSvg = (px, accent) => `<svg xmlns="http://www.w3.org/2000/svg" width="${px}" height="${px}" viewBox="0 0 512 512">
+  ${badgeBody(accent)}
 </svg>`;
 
 // Flat mark: the blossom alone (transparent centre), for monochrome / tiny use.
-const markSvg = (px) => `<svg xmlns="http://www.w3.org/2000/svg" width="${px}" height="${px}" viewBox="0 0 64 64">${blossom(GOLD, 'bh')}</svg>`;
+const markSvg = (px, accent) => `<svg xmlns="http://www.w3.org/2000/svg" width="${px}" height="${px}" viewBox="0 0 64 64">${blossom(accent, 'bh')}</svg>`;
 
 // Horizontal lockup: badge + "NegaraKu.md" wordmark. bg=null → transparent.
-const lockupSvg = (w, h, bg) =>
+const lockupSvg = (w, h, bg, accent) =>
   `<svg xmlns="http://www.w3.org/2000/svg" width="${w}" height="${h}" viewBox="0 0 900 300">
   ${bg ? `<rect width="900" height="300" rx="28" fill="${bg}"/>` : ''}
-  <g transform="translate(16 16) scale(0.52)">${badgeBody()}</g>
-  <text x="300" y="182" font-family="${FONT}" font-size="90" font-weight="800" fill="${INK}">NegaraKu<tspan fill="${GOLD}">.md</tspan></text>
+  <g transform="translate(16 16) scale(0.52)">${badgeBody(accent)}</g>
+  <text x="300" y="182" font-family="${FONT}" font-size="90" font-weight="800" fill="${INK}">NegaraKu<tspan fill="${accent}">.md</tspan></text>
 </svg>`;
 
 async function main() {
@@ -107,22 +108,27 @@ async function main() {
     await sharp(Buffer.from(svg)).resize(w, h ?? w, { fit: 'contain', background: { r: 0, g: 0, b: 0, alpha: 0 } }).png().toFile(path.join(OUT, file));
   };
 
-  // The favicon IS the badge — one source of truth for the whole site.
-  const favicon = badgeSvg(512);
-  await writeFile(path.join(ROOT, 'public', 'favicon.svg'), favicon);
+  // The favicon IS the gold badge — one source of truth for the site icon.
+  await writeFile(path.join(ROOT, 'public', 'favicon.svg'), badgeSvg(512, GOLD));
 
-  // Brand kit: icon (badge), mark (flat blossom), lockups.
-  await writeFile(path.join(OUT, 'negaraku-icon.svg'), badgeSvg(512));
-  await writeFile(path.join(OUT, 'negaraku-mark.svg'), markSvg(512));
-  await writeFile(path.join(OUT, 'negaraku-lockup.svg'), lockupSvg(900, 300, null));
-  await writeFile(path.join(OUT, 'negaraku-lockup-dark.svg'), lockupSvg(900, 300, DARK));
+  // Brand kit in BOTH accents: Gold (default names) and Red (`-red` suffix).
+  const variants = [
+    { accent: GOLD, suffix: '' },
+    { accent: RED, suffix: '-red' },
+  ];
+  for (const { accent, suffix } of variants) {
+    await writeFile(path.join(OUT, `negaraku-icon${suffix}.svg`), badgeSvg(512, accent));
+    await writeFile(path.join(OUT, `negaraku-mark${suffix}.svg`), markSvg(512, accent));
+    await writeFile(path.join(OUT, `negaraku-lockup${suffix}.svg`), lockupSvg(900, 300, null, accent));
+    await writeFile(path.join(OUT, `negaraku-lockup-dark${suffix}.svg`), lockupSvg(900, 300, DARK, accent));
 
-  await png(badgeSvg(1024), 'negaraku-icon-1024.png', 1024);
-  await png(badgeSvg(512), 'negaraku-icon-512.png', 512);
-  await png(markSvg(1024), 'negaraku-mark-1024.png', 1024);
-  await png(markSvg(512), 'negaraku-mark-512.png', 512);
-  await png(lockupSvg(1800, 600, null), 'negaraku-lockup-transparent-1800.png', 1800, 600);
-  await png(lockupSvg(1800, 600, DARK), 'negaraku-lockup-dark-1800.png', 1800, 600);
+    await png(badgeSvg(1024, accent), `negaraku-icon${suffix}-1024.png`, 1024);
+    await png(badgeSvg(512, accent), `negaraku-icon${suffix}-512.png`, 512);
+    await png(markSvg(1024, accent), `negaraku-mark${suffix}-1024.png`, 1024);
+    await png(markSvg(512, accent), `negaraku-mark${suffix}-512.png`, 512);
+    await png(lockupSvg(1800, 600, null, accent), `negaraku-lockup-transparent${suffix}-1800.png`, 1800, 600);
+    await png(lockupSvg(1800, 600, DARK, accent), `negaraku-lockup-dark${suffix}-1800.png`, 1800, 600);
+  }
 
   const readme = `# NegaraKu.md — brand assets
 
@@ -131,16 +137,24 @@ The logo is a **black rounded hexagon** (1company badge shape) with the
 is the single source of truth — it also writes \`public/favicon.svg\`, so the
 site icon and this kit can never drift.
 
-## Files
+Two accents are provided: **Gold** (default file names) and **Bright Red**
+(same names with a \`-red\` suffix), matching the site's Black·Gold and Black·Red
+themes.
+
+## Files (each exists in Gold and \`-red\`)
 | File | Use |
 |---|---|
 | \`negaraku-icon.svg\` / \`-icon-1024.png\` / \`-512.png\` | The hexagon badge — favicon, app icon, avatar, primary logo |
-| \`negaraku-mark.svg\` / \`-mark-1024.png\` / \`-512.png\` | Flat gold blossom, transparent centre — bullets / tiny / monochrome use on any bg |
+| \`negaraku-mark.svg\` / \`-mark-1024.png\` / \`-512.png\` | Flat blossom, transparent centre — bullets / tiny / monochrome use on any bg |
 | \`negaraku-lockup.svg\` / \`-lockup-transparent-1800.png\` | Badge + wordmark, transparent |
 | \`negaraku-lockup-dark.svg\` / \`-lockup-dark-1800.png\` | Badge + wordmark on the dark brand canvas |
 
+Red variants: \`negaraku-icon-red.svg\`, \`negaraku-mark-red.svg\`,
+\`negaraku-lockup-red.svg\`, etc.
+
 ## Colours
 - Gold accent: \`#FFC000\`
+- Bright-red accent: \`#FF2020\`
 - Badge black: \`#0A0A0A\`
 - Dark canvas: \`#07070A\`
 - Ink (wordmark): \`#F4F4F8\`
