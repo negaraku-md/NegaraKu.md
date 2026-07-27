@@ -6,6 +6,17 @@
   box-sizing: border-box;
 }
 
+/* Wordmark treatment applied site-wide (incl. the auto-branding pass in
+   BaseLayout): "NegaraKu" stays bright ink, ".md" is gold — everywhere the
+   wordmark appears in running text. */
+.wm {
+  color: var(--ink);
+  font-weight: 600;
+}
+.wm-dot {
+  color: var(--gold);
+}
+
 /* Root scaling: 118% desktop, 100% mobile. The reader text-size control
    multiplies the root so every rem value scales together. */
 html {

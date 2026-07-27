@@ -152,6 +152,36 @@ const ogImageAlt = image ? title : 'NegaraKu.md — knowledge base about Malaysi
           }
         } catch {}
       }
+
+      // Brand the wordmark everywhere, automatically. Any literal "NegaraKu.md"
+      // in running text is wrapped so "NegaraKu" stays bright and ".md" gold —
+      // no need to hand-mark every string. The header/footer/hero already split
+      // the wordmark into separate nodes, so this contiguous-string match only
+      // ever hits plain prose. Skips code, inputs and already-branded nodes.
+      (() => {
+        const SKIP = new Set(['SCRIPT', 'STYLE', 'CODE', 'PRE', 'TEXTAREA', 'KBD', 'INPUT']);
+        const esc = (s) => s.replace(/[&<>]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;' }[c]));
+        const brand = (s) => s.replace(/NegaraKu\.md/g, '<span class="wm">NegaraKu<span class="wm-dot">.md</span></span>');
+        const walk = (node) => {
+          for (const child of [...node.childNodes]) {
+            if (child.nodeType === 3) {
+              if (child.nodeValue.includes('NegaraKu.md')) {
+                const span = document.createElement('span');
+                span.innerHTML = brand(esc(child.nodeValue));
+                child.replaceWith(span);
+              }
+            } else if (
+              child.nodeType === 1 &&
+              !SKIP.has(child.tagName) &&
+              !child.classList.contains('wm') &&
+              !child.classList.contains('brand-name')
+            ) {
+              walk(child);
+            }
+          }
+        };
+        walk(document.body);
+      })();
     </script>
   </body>
 </html>
