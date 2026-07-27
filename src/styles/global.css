@@ -276,7 +276,7 @@ main img {
   gap: 0.5em;
   padding: 0.6rem 1.1rem;
   border-radius: var(--radius-sm);
-  font-weight: 700;
+  font-weight: 600;
   text-decoration: none;
   border: 1px solid transparent;
 }
