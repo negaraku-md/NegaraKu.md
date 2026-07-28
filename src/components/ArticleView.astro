@@ -645,7 +645,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
   .badges { display: flex; gap: 0.4rem; flex-wrap: wrap; align-items: center; margin-bottom: 1rem; }
   .pill {
     font-size: 0.68rem; font-weight: 700; border-radius: 999px; padding: 0.1rem 0.5rem;
-    border: 1px solid var(--line); background: var(--surface-2); color: var(--ink-soft);
+    border: 1px solid color-mix(in srgb, var(--ink) 28%, var(--line)); background: var(--surface-2); color: var(--ink-soft);
   }
   .pill.tier { color: var(--gold); border-color: color-mix(in srgb, var(--gold) 45%, var(--line)); background: color-mix(in srgb, var(--gold) 9%, transparent); }
   .pill.mode { color: #60a5fa; border-color: rgba(96, 165, 250, 0.35); background: rgba(96, 165, 250, 0.1); }
