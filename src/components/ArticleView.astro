@@ -238,8 +238,10 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
       />
       <span class="pill">{mins} {L('min baca', 'min read', '分钟阅读')}</span>
       {d.reviewDue && (
-        <span class="pill pill-date">
-          {L('Semakan seterusnya', 'Next review', '下次审阅')} {fmt(d.reviewDue)}
+        <span class={`pill pill-date${new Date(d.reviewDue) < new Date() ? ' overdue' : ''}`}>
+          {new Date(d.reviewDue) < new Date()
+            ? `⚠ ${L('Semakan tertunggak', 'Review overdue', '审阅逾期')}`
+            : L('Semakan seterusnya', 'Next review', '下次审阅')} {fmt(d.reviewDue)}
         </span>
       )}
     </div>
@@ -649,6 +651,12 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
   .pill.mode { color: #60a5fa; border-color: rgba(96, 165, 250, 0.35); background: rgba(96, 165, 250, 0.1); }
   /* Date metadata (Published / Next review): lighter weight so it reads as info, not a status. */
   .pill.pill-date { font-weight: 500; color: var(--muted); background: transparent; }
+  /* Once the review date has passed the pill turns red (the sensitive colour)
+     to flag it as overdue. */
+  .pill.pill-date.overdue {
+    font-weight: 700; color: #f87171;
+    border-color: rgba(248, 113, 113, 0.5); background: rgba(248, 113, 113, 0.12);
+  }
   .art-hero h1 { margin: 0 0 0.9rem; font-family: var(--font-title); font-weight: 900; letter-spacing: -0.03em; font-size: clamp(2.2rem, 4.6vw, 3.4rem); line-height: 1.05; max-width: 24ch; color: var(--ink); }
   .lede { color: var(--ink-soft); font-size: 1.1rem; line-height: 1.6; max-width: 60ch; margin: 0; }
 
