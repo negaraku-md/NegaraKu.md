@@ -97,6 +97,12 @@ async function main() {
       slug: data.slug ?? null,
       summary: data.summary ?? '',
       status: data.status ?? 'draft',
+      // Editorial mode + chain-of-custody dates — surfaced for the OG social
+      // cards (and any other consumer) so they need not re-parse frontmatter.
+      mode: data.mode ?? 'practical',
+      published: data.published ? new Date(data.published).toISOString().slice(0, 10) : null,
+      reviewed: data.reviewed ? new Date(data.reviewed).toISOString().slice(0, 10) : null,
+      reviewDue: data.reviewDue ? new Date(data.reviewDue).toISOString().slice(0, 10) : null,
       updated: data.updated ? new Date(data.updated).toISOString().slice(0, 10) : null,
       sources: (data.sources ?? []).length,
       related: data.related ?? [],

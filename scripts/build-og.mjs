@@ -1,7 +1,7 @@
 // build-og.mjs — render Open Graph images (1200×630) for social/Facebook link
-// previews. Generates a branded DEFAULT card plus a PER-ARTICLE card (title +
-// category) for every article in the manifest, so a shared article link shows a
-// card specific to that page. Uses `sharp` to rasterise SVG → PNG.
+// previews. Generates a branded DEFAULT card plus a PER-ARTICLE card that mirrors
+// the article hero (breadcrumb + status chips + title + summary) with the
+// NegaraKu.md badge lockup top-right. Uses `sharp` to rasterise SVG → PNG.
 // Non-fatal: if sharp is unavailable it warns, writes the default SVG, and skips.
 
 import { mkdir, writeFile, readFile } from 'node:fs/promises';
@@ -11,6 +11,9 @@ import { fileURLToPath } from 'node:url';
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const OUT_DIR = path.join(ROOT, 'public', 'og');
 const MANIFEST = path.join(ROOT, 'public', 'api', 'articles.json');
+// "Today" for the overdue-review check. Fixed per build; that is fine for a
+// static site rebuilt on every deploy.
+const NOW = new Date();
 
 const esc = (s) =>
   String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
@@ -18,89 +21,180 @@ const titleCase = (id) => id.split('-').map((w) => w.charAt(0).toUpperCase() + w
 const TITLE_FONT = "Montserrat, 'Noto Sans', 'Noto Sans CJK SC', 'Microsoft YaHei', Arial, sans-serif";
 const BODY_FONT = "Lato, 'Noto Sans', 'Noto Sans CJK SC', 'Microsoft YaHei', Arial, sans-serif";
 
-// The NegaraKu.md brand mark — the exact geometry from public/favicon.svg: a
-// 5-petal gold blossom with a dark centre + gold pistil, a curved stem and three
-// buds. Drawn in the favicon's 64-unit space with the flower head at (32,28);
-// this helper places that head-centre at (tx,ty) and scales the artwork by s.
-// (Dark centre suits the dark OG canvas, matching the favicon.)
+// --- taxonomy (mirrors src/lib/categories.ts) — pillar + localized category
+// names, so the breadcrumb reads exactly like the article page. --------------
+const PILLAR = {
+  understand: { ms: 'Kenali Malaysia', en: 'Understand Malaysia', zh: '认识马来西亚' },
+  living: { ms: 'Hidup di Malaysia', en: 'Living in Malaysia', zh: '在马来西亚生活' },
+  'doing-business': { ms: 'Berniaga di Malaysia', en: 'Doing Business in Malaysia', zh: '在马来西亚经商' },
+};
+const CAT = Object.fromEntries(
+  [
+    ['malaysia','understand','Malaysia','Malaysia','马来西亚'],['states','understand','Negeri & Wilayah','States & Territories','州与联邦直辖区'],
+    ['government','understand','Kerajaan','Government','政府'],['law','understand','Undang-Undang','Law & Regulations','法律与法规'],
+    ['economy','understand','Ekonomi','Economy','经济'],['arts-culture','understand','Seni & Budaya','Arts & Culture','艺术与文化'],
+    ['glossary','understand','Glosari','Glossary','术语库'],['international','understand','Antarabangsa','International','国际'],
+    ['business','doing-business','Perniagaan','Business','商业'],['taxation','doing-business','Percukaian','Taxation','税务'],
+    ['company-secretary','doing-business','Setiausaha Syarikat','Company Secretary','公司秘书'],['accounting','doing-business','Perakaunan','Accounting','会计'],
+    ['audit','doing-business','Audit & Jaminan','Audit & Assurance','审计与鉴证'],['employment','doing-business','Pekerjaan & HR','Employment & HR','就业与人力资源'],
+    ['finance','doing-business','Kewangan & Perbankan','Finance & Banking','金融与银行'],['industries','doing-business','Industri','Industries','行业'],
+    ['companies','doing-business','Syarikat','Companies','公司'],['technology','doing-business','Teknologi & AI','Technology & AI','科技与人工智能'],
+    ['education','living','Pendidikan','Education','教育'],['healthcare','living','Kesihatan','Healthcare','医疗保健'],
+    ['property','living','Hartanah','Property','房地产'],['transport','living','Pengangkutan','Transport','交通'],
+    ['tourism','living','Pelancongan','Tourism','旅游'],['food-lifestyle','living','Makanan & Gaya Hidup','Food & Lifestyle','美食与生活'],
+    ['public-safety','living','Keselamatan Awam','Public Safety','公共安全'],['agriculture','living','Pertanian','Agriculture','农业'],
+    ['energy','living','Tenaga & Utiliti','Energy & Utilities','能源与公用事业'],['environment','living','Alam Sekitar','Environment','环境'],
+    ['sports','living','Sukan','Sports','体育'],['settling-in','living','Menetap di Malaysia','Settling In','落地安顿'],
+    ['money-daily-life','living','Wang & Kehidupan Harian','Money & Daily Life','金钱与日常'],['cost-of-living','living','Kos Sara Hidup','Cost of Living','生活成本'],
+  ].map(([id, pillar, ms, en, zh]) => [id, { pillar, ms, en, zh }]),
+);
+const SENS = {
+  race: { ms: 'Sensitif — kaum', en: 'Sensitive — race', zh: '敏感——种族' },
+  religion: { ms: 'Sensitif — agama', en: 'Sensitive — religion', zh: '敏感——宗教' },
+  royalty: { ms: 'Sensitif — institusi diraja', en: 'Sensitive — royalty', zh: '敏感——王室' },
+  constitution: { ms: 'Sensitif — perlembagaan', en: 'Sensitive — constitution', zh: '敏感——宪法' },
+  elections: { ms: 'Sensitif — pilihan raya', en: 'Sensitive — elections', zh: '敏感——选举' },
+  security: { ms: 'Sensitif — keselamatan', en: 'Sensitive — security', zh: '敏感——安全' },
+  health: { ms: 'Sensitif — kesihatan', en: 'Sensitive — health', zh: '敏感——健康' },
+  'legal-proceedings': { ms: 'Sensitif — perundangan', en: 'Sensitive — legal', zh: '敏感——法律程序' },
+};
+const pick = (obj, lang) => (obj ? obj[lang] ?? obj.en : undefined);
+const L = (lang, ms, en, zh) => (lang === 'zh' ? zh : lang === 'ms' ? ms : en);
+const fmtDate = (iso, lang) => {
+  if (!iso) return null;
+  try {
+    return new Date(iso).toLocaleDateString(lang === 'zh' ? 'zh-CN' : lang === 'ms' ? 'ms-MY' : 'en-GB',
+      { day: 'numeric', month: 'short', year: 'numeric' });
+  } catch { return iso; }
+};
+// Approx text width: CJK glyphs are ~1.85× a Latin glyph at the same size.
+const textWidth = (s, size) => {
+  let u = 0;
+  for (const ch of String(s)) u += /[㐀-鿿一-龥]/.test(ch) ? 1.0 : 0.54;
+  return u * size;
+};
+
+// The NegaraKu.md blossom (petals + dark centre + stem + buds) — head-centre at
+// (tx,ty), scaled s. Used for the faint background watermark.
 const flower = (tx, ty, s) => `<g transform="translate(${tx - 32 * s} ${ty - 28 * s}) scale(${s})">
     <g fill="#FFC000" transform="translate(32 28)">
-      <ellipse cx="0" cy="-13" rx="7.6" ry="11.5"/>
-      <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(72)"/>
-      <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(144)"/>
-      <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(216)"/>
+      <ellipse cx="0" cy="-13" rx="7.6" ry="11.5"/><ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(72)"/>
+      <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(144)"/><ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(216)"/>
       <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(288)"/>
     </g>
     <circle cx="32" cy="28" r="5.3" fill="#07070A"/>
     <path d="M32 28 C 32 39, 33 47, 35.5 54" stroke="#FFC000" stroke-width="2.6" fill="none" stroke-linecap="round"/>
-    <circle cx="35.6" cy="54.2" r="2.5" fill="#FFC000"/>
-    <circle cx="31" cy="49.5" r="1.9" fill="#FFC000"/>
-    <circle cx="38.4" cy="50.4" r="1.9" fill="#FFC000"/>
-    <circle cx="32" cy="28" r="2.4" fill="#FFC000"/>
+    <circle cx="35.6" cy="54.2" r="2.5" fill="#FFC000"/><circle cx="31" cy="49.5" r="1.9" fill="#FFC000"/>
+    <circle cx="38.4" cy="50.4" r="1.9" fill="#FFC000"/><circle cx="32" cy="28" r="2.4" fill="#FFC000"/>
   </g>`;
 
-// Wrap a title into lines. Latin wraps by words; CJK (no spaces) wraps by
-// character. Truncates to maxLines with an ellipsis.
-function wrapTitle(title, { maxLatin = 26, maxCjk = 16, maxLines = 4 } = {}) {
-  const cjk = /[㐀-鿿]/.test(title);
+// The hexagon BADGE — black hexagon + white border + gold blossom, centred at
+// (cx,cy), width `size` (from public/brand/negaraku-icon.svg).
+const badge = (cx, cy, size) => {
+  const S = size / 512, tx = cx - 256 * S, ty = cy - 256 * S;
+  return `<g transform="translate(${tx} ${ty}) scale(${S})">
+    <polygon points="256,23.5 54.65,139.75 54.65,372.25 256,488.5 457.35,372.25 457.35,139.75" fill="#0A0A0A" stroke="#0A0A0A" stroke-width="34" stroke-linejoin="round"/>
+    <polygon points="256,6.5 39.93,131.25 39.93,380.75 256,505.5 472.07,380.75 472.07,131.25" fill="none" stroke="#FFFFFF" stroke-width="11" stroke-linejoin="round" stroke-linecap="round"/>
+    <g transform="translate(73.6 85) scale(5.7)">
+      <g fill="#FFC000" transform="translate(32 28)">
+        <ellipse cx="0" cy="-13" rx="7.6" ry="11.5"/><ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(72)"/>
+        <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(144)"/><ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(216)"/>
+        <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(288)"/></g>
+      <circle cx="32" cy="28" r="5.3" fill="#0A0A0A"/>
+      <path d="M32 28 C 32 39, 33 47, 35.5 54" stroke="#FFC000" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+      <circle cx="35.6" cy="54.2" r="2.5" fill="#FFC000"/><circle cx="31" cy="49.5" r="1.9" fill="#FFC000"/>
+      <circle cx="38.4" cy="50.4" r="1.9" fill="#FFC000"/><circle cx="32" cy="28" r="2.4" fill="#FFC000"/></g></g>`;
+};
+
+// A rounded status chip; returns { w, svg } so callers can lay them out in a row.
+const CHIP_FONT = 19;
+function chip(x, y, text, fg, stroke, bg) {
+  const w = 22 + textWidth(text, CHIP_FONT), h = 38;
+  return {
+    w,
+    svg: `<rect x="${x}" y="${y}" width="${w.toFixed(1)}" height="${h}" rx="19" fill="${bg}" stroke="${stroke}"/>
+    <text x="${(x + w / 2).toFixed(1)}" y="${y + 25}" text-anchor="middle" font-family="${BODY_FONT}" font-size="${CHIP_FONT}" font-weight="700" fill="${fg}">${esc(text)}</text>`,
+  };
+}
+
+// Wrap a title/summary into lines. Latin wraps by words; CJK by character.
+function wrapText(text, { maxLatin, maxCjk, maxLines }) {
+  const cjk = /[㐀-鿿一-龥]/.test(text);
   const lines = [];
   if (cjk) {
     let line = '';
-    for (const ch of Array.from(title)) {
-      if (Array.from(line).length >= maxCjk) {
-        lines.push(line);
-        line = '';
-        if (lines.length >= maxLines) break;
-      }
+    for (const ch of Array.from(text)) {
+      if (Array.from(line).length >= maxCjk) { lines.push(line); line = ''; if (lines.length >= maxLines) break; }
       line += ch;
     }
     if (line && lines.length < maxLines) lines.push(line);
   } else {
     let line = '';
-    for (const w of title.split(/\s+/)) {
-      if (line && (line + ' ' + w).length > maxLatin) {
-        lines.push(line);
-        line = w;
-        if (lines.length >= maxLines) break;
-      } else {
-        line = line ? line + ' ' + w : w;
-      }
+    for (const w of text.split(/\s+/)) {
+      if (line && (line + ' ' + w).length > maxLatin) { lines.push(line); line = w; if (lines.length >= maxLines) break; }
+      else line = line ? line + ' ' + w : w;
     }
     if (line && lines.length < maxLines) lines.push(line);
   }
-  // Ellipsis if we ran out of room before consuming the whole title.
-  const joined = lines.join(cjk ? '' : ' ').replace(/…$/, '');
-  const full = cjk ? title.replace(/\s+/g, '') : title.replace(/\s+/g, ' ');
-  if (lines.length && joined.length < full.length) {
-    lines[lines.length - 1] = lines[lines.length - 1].replace(/\s*$/, '') + '…';
-  }
+  const joined = lines.join(cjk ? '' : ' ');
+  const full = cjk ? text.replace(/\s+/g, '') : text.replace(/\s+/g, ' ');
+  if (lines.length && joined.length < full.length) lines[lines.length - 1] = lines[lines.length - 1].replace(/\s*$/, '') + '…';
   return lines;
 }
 
-function articleSvg({ title, category, summary }) {
-  // Title: up to 3 lines, leaving room for a two-line summary beneath it.
-  const tLines = wrapTitle(title, { maxLatin: 24, maxCjk: 15, maxLines: 3 });
-  const tLh = 70;
-  const titleStart = 262;
-  const titleTspans = tLines
-    .map((l, i) => `<tspan x="90" dy="${i === 0 ? 0 : tLh}">${esc(l)}</tspan>`)
-    .join('');
-  // Summary snippet — two lines, muted, sitting a fixed gap below the title.
-  const sLines = summary ? wrapTitle(summary, { maxLatin: 66, maxCjk: 32, maxLines: 2 }) : [];
-  const sumStart = titleStart + (tLines.length - 1) * tLh + 62;
-  const sumTspans = sLines
-    .map((l, i) => `<tspan x="90" dy="${i === 0 ? 0 : 40}">${esc(l)}</tspan>`)
-    .join('');
+function articleSvg(a) {
+  const lang = a.lang;
+  const cjkTitle = /[㐀-鿿一-龥]/.test(a.title || '');
+  const c = CAT[a.category];
+  // Breadcrumb: pillar / category / subcategory (localized).
+  const crumb = [
+    c && pick(PILLAR[c.pillar], lang),
+    c ? c[lang] ?? c.en : titleCase(a.category),
+    Array.isArray(a.subcategory) && a.subcategory[0] ? titleCase(a.subcategory[0]) : null,
+  ].filter(Boolean).join('  /  ');
+
+  // Chips — mode, sensitivity, published, next-review (red once overdue).
+  const pubDate = fmtDate(a.published ?? a.reviewed ?? a.updated, lang);
+  const overdue = a.reviewDue && new Date(a.reviewDue) < NOW;
+  const chipDefs = [];
+  chipDefs.push(a.mode === 'narrative'
+    ? [L(lang, 'Naratif', 'Narrative', '叙事'), '#60a5fa', 'rgba(96,165,250,.4)', 'rgba(96,165,250,.12)']
+    : [L(lang, 'Praktikal', 'Practical', '实用'), '#60a5fa', 'rgba(96,165,250,.4)', 'rgba(96,165,250,.12)']);
+  if (a.sensitivity && a.sensitivity !== 'none' && SENS[a.sensitivity])
+    chipDefs.push([pick(SENS[a.sensitivity], lang), '#f87171', 'rgba(248,113,113,.45)', 'rgba(248,113,113,.12)']);
+  if (pubDate)
+    chipDefs.push([`${L(lang, 'Diterbitkan', 'Published', '发布')}: ${pubDate}`, '#4ade80', 'rgba(74,222,128,.4)', 'rgba(74,222,128,.12)']);
+  if (a.reviewDue) {
+    const label = overdue ? L(lang, 'Semakan tertunggak', 'Review overdue', '审阅逾期') : L(lang, 'Semakan seterusnya', 'Next review', '下次审阅');
+    chipDefs.push([`${label}: ${fmtDate(a.reviewDue, lang)}`,
+      overdue ? '#f87171' : '#9A9AB8', overdue ? 'rgba(248,113,113,.5)' : 'rgba(99,99,108,.9)', overdue ? 'rgba(248,113,113,.12)' : '#141419']);
+  }
+  const chips = []; let cx = 76;
+  for (const d of chipDefs) { const k = chip(cx, 151, ...d); chips.push(k.svg); cx += k.w + 11; }
+
+  // Title + summary.
+  const tLines = wrapText(a.title || '', { maxLatin: 34, maxCjk: 18, maxLines: 3 });
+  const tLh = 58, tStart = 266;
+  const tSpans = tLines.map((l, i) => `<tspan x="76" dy="${i === 0 ? 0 : tLh}">${esc(l)}</tspan>`).join('');
+  const sStart = tStart + (tLines.length - 1) * tLh + 54;
+  const sLines = wrapText(a.summary || '', { maxLatin: 70, maxCjk: 34, maxLines: 3 });
+  const sSpans = sLines.map((l, i) => `<tspan x="76" dy="${i === 0 ? 0 : 34}">${esc(l)}</tspan>`).join('');
+  const RX = 1080;
   return `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs><radialGradient id="glow" cx="12%" cy="0%" r="70%">
+    <stop offset="0%" stop-color="#FFC000" stop-opacity="0.10"/><stop offset="100%" stop-color="#FFC000" stop-opacity="0"/>
+  </radialGradient></defs>
   <rect width="1200" height="630" fill="#07070A"/>
+  <rect width="1200" height="630" fill="url(#glow)"/>
   <rect x="0" y="0" width="1200" height="8" fill="#FFC000"/>
-  <g opacity="0.07">${flower(1015, 330, 4.6)}</g>
-  ${flower(112, 82, 0.82)}
-  <text x="150" y="102" font-family="${TITLE_FONT}" font-size="34" font-weight="700" fill="#F4F4F8">NegaraKu<tspan fill="#FFC000">.md</tspan></text>
-  <text x="90" y="185" font-family="${BODY_FONT}" font-size="25" font-weight="700" letter-spacing="3" fill="#FFC000">${esc(titleCase(category)).toUpperCase()}</text>
-  <text x="90" y="${titleStart}" font-family="${TITLE_FONT}" font-size="58" font-weight="800" fill="#F4F4F8">${titleTspans}</text>
-  ${sLines.length ? `<text x="90" y="${sumStart}" font-family="${BODY_FONT}" font-size="27" fill="#9A9AB8">${sumTspans}</text>` : ''}
-  <text x="90" y="588" font-family="${BODY_FONT}" font-size="26" fill="#7A7A93">An open-source, AI-friendly knowledge base about Malaysia · <tspan fill="#C0C0D0" font-weight="700">negaraku.md</tspan></text>
+  <g opacity="0.06">${flower(1010, 440, 4.2)}</g>
+  <text x="76" y="108" font-family="${BODY_FONT}" font-size="24" font-weight="600" fill="#FFC000">${esc(crumb)}</text>
+  ${chips.join('\n  ')}
+  <text x="76" y="${tStart}" font-family="${TITLE_FONT}" font-size="${cjkTitle ? 52 : 50}" font-weight="800" fill="#F4F4F8">${tSpans}</text>
+  <text x="76" y="${sStart}" font-family="${BODY_FONT}" font-size="25" fill="#9A9AB8">${sSpans}</text>
+  ${badge(RX, 70, 78)}
+  <text x="${RX}" y="150" text-anchor="middle" font-family="${TITLE_FONT}" font-size="27" font-weight="700" fill="#F4F4F8">NegaraKu<tspan fill="#FFC000">.md</tspan></text>
+  <text x="${RX}" y="174" text-anchor="middle" font-family="${BODY_FONT}" font-size="15" font-weight="700" letter-spacing="1.5" fill="#C0C0D0">${L(lang, 'Malaysia Mesra-AI', 'AI-friendly Malaysia', 'AI 友好的马来西亚')}</text>
 </svg>`;
 }
 
@@ -143,7 +237,7 @@ async function main() {
       items.slice(i, i + CONC).map(async (a) => {
         const dir = path.join(OUT_DIR, a.lang, a.category);
         await mkdir(dir, { recursive: true });
-        await toPng(articleSvg({ title: a.title, category: a.category, summary: a.summary }), path.join(dir, `${a.slug}.png`));
+        await toPng(articleSvg(a), path.join(dir, `${a.slug}.png`));
         made++;
       }),
     );
