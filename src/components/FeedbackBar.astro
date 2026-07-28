@@ -24,10 +24,21 @@ const SVG: Record<string, string> = {
   copy: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622 1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244"/></svg>',
   check: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg>',
   native: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="m8.6 13.5 6.8 4M15.4 6.5l-6.8 4"/></svg>',
+  tiktok: '<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12.525.02c1.31-.02 2.61-.01 3.91-.02.08 1.53.63 3.09 1.75 4.17 1.12 1.11 2.7 1.62 4.24 1.79v4.03c-1.44-.05-2.89-.35-4.2-.97-.57-.26-1.1-.59-1.62-.93-.01 2.92.01 5.84-.02 8.75-.08 1.4-.54 2.79-1.35 3.94-1.31 1.92-3.58 3.17-5.91 3.21-1.43.08-2.86-.31-4.08-1.03-2.02-1.19-3.44-3.37-3.65-5.71-.02-.5-.03-1-.01-1.49.18-1.9 1.12-3.72 2.58-4.96 1.66-1.44 3.98-2.13 6.15-1.72.02 1.48-.04 2.96-.04 4.44-.99-.32-2.15-.23-3.02.37-.63.41-1.11 1.04-1.36 1.75-.21.51-.15 1.07-.14 1.61.24 1.64 1.82 3.02 3.5 2.87 1.12-.01 2.19-.66 2.77-1.61.19-.33.4-.67.41-1.06.1-1.79.06-3.57.07-5.36.01-4.03-.01-8.05.02-12.07z"/></svg>',
+  instagram: '<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zM12 0C8.741 0 8.333.014 7.053.072 2.695.272.273 2.69.073 7.052.014 8.333 0 8.741 0 12c0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98C8.333 23.986 8.741 24 12 24c3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98C15.668.014 15.259 0 12 0zm0 5.838a6.162 6.162 0 100 12.324 6.162 6.162 0 000-12.324zM12 16a4 4 0 110-8 4 4 0 010 8zm6.406-11.845a1.44 1.44 0 100 2.881 1.44 1.44 0 000-2.881z"/></svg>',
+  redbook: '<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M4 3.5h6.2c.5 0 .8.3.8.8v15.4c0 .5-.3.8-.8.8H6a2 2 0 0 1-2-2V3.5zm9 .8c0-.5.3-.8.8-.8H20v14.2a2 2 0 0 1-2 2h-4.2c-.5 0-.8-.3-.8-.8V4.3zm2.2 2.45a.9.9 0 1 0 0 1.8h2.6a.9.9 0 0 0 0-1.8h-2.6zm0 3.2a.9.9 0 1 0 0 1.8h2.6a.9.9 0 0 0 0-1.8h-2.6z"/></svg>',
 };
 const BRAND: Record<string, string> = {
   whatsapp: '#25D366', telegram: '#26A5E4', x: '#e8e8e8', facebook: '#1877F2', linkedin: '#0A66C2', email: '#f59e0b',
+  tiktok: '#ff0050', instagram: '#E4405F', redbook: '#FF2442',
 };
+// Apps with no web share-a-link intent (Instagram/TikTok/RedBook block it):
+// these copy the page URL so the reader can paste it into the app instead.
+const copyApps = [
+  { key: 'tiktok', label: 'TikTok' },
+  { key: 'instagram', label: 'Instagram' },
+  { key: 'redbook', label: L('RedBook', 'RedBook', '小红书') },
+];
 // Each href ends where the runtime page URL is appended (see the client script).
 const shares = [
   { key: 'whatsapp', label: 'WhatsApp', href: `https://wa.me/?text=${shareText}%20` },
@@ -61,11 +72,25 @@ const shares = [
             <span class="sv" set:html={SVG[s.key]} />
           </a>
         ))}
+        {copyApps.map((s) => (
+          <button
+            type="button"
+            class="share-ico copyapp"
+            data-copyapp
+            data-app={s.label}
+            style={`--brand:${BRAND[s.key]}`}
+            aria-label={L(`Salin pautan untuk ${s.label}`, `Copy link for ${s.label}`, `复制链接以分享到${s.label}`)}
+            title={s.label}
+          >
+            <span class="sv" set:html={SVG[s.key]} />
+          </button>
+        ))}
         <button type="button" class="share-ico copy" data-copy aria-label={L('Salin pautan', 'Copy link', '复制链接')} title={L('Salin pautan', 'Copy link', '复制链接')}>
           <span class="sv sv-copy" set:html={SVG.copy} />
           <span class="sv sv-check" set:html={SVG.check} />
         </button>
       </div>
+      <p class="share-hint" data-hint hidden aria-live="polite"></p>
     </div>
   </section>
 </div>
@@ -96,6 +121,31 @@ const shares = [
       copyBtn.classList.add('copied');
       setTimeout(() => copyBtn.classList.remove('copied'), 1400);
     } catch {}
+  });
+
+  // Instagram/TikTok/RedBook have no web share-a-link intent — copy the URL and
+  // tell the reader to paste it into the app.
+  const hint = document.querySelector<HTMLParagraphElement>('.fb [data-hint]');
+  let hintTimer: ReturnType<typeof setTimeout>;
+  document.querySelectorAll<HTMLButtonElement>('.fb [data-copyapp]').forEach((btn) => {
+    btn.addEventListener('click', async () => {
+      const app = btn.dataset.app || 'the app';
+      try { await navigator.clipboard.writeText(location.href); } catch {}
+      // Prefer the native share sheet on mobile (it lists the app directly).
+      if (typeof navigator.share === 'function') {
+        navigator.share({ title: document.title, url: location.href }).catch(() => {});
+      }
+      if (hint) {
+        const zh = document.documentElement.lang.startsWith('zh');
+        const ms = document.documentElement.lang.startsWith('ms');
+        hint.textContent = zh ? `链接已复制 — 粘贴到 ${app} 分享`
+          : ms ? `Pautan disalin — tampal ke ${app} untuk berkongsi`
+          : `Link copied — paste it into ${app} to share`;
+        hint.hidden = false;
+        clearTimeout(hintTimer);
+        hintTimer = setTimeout(() => { hint.hidden = true; }, 3200);
+      }
+    });
   });
 </script>
 
@@ -178,6 +228,8 @@ const shares = [
   .share-ico.copy.copied { border-color: #4ade80; color: #4ade80; }
   .share-ico.copy.copied .sv-copy { display: none; }
   .share-ico.copy.copied .sv-check { display: inline-flex; }
+  .share-hint { margin: 0.7rem 0 0; font-size: 0.82rem; color: #4ade80; }
+  .share-hint[hidden] { display: none; }
   @media (max-width: 760px) {
     .fb {
       grid-template-columns: 1fr;
