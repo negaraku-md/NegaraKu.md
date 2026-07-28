@@ -77,24 +77,30 @@ function wrapTitle(title, { maxLatin = 26, maxCjk = 16, maxLines = 4 } = {}) {
   return lines;
 }
 
-function articleSvg({ title, category }) {
-  const lines = wrapTitle(title);
-  const lh = 78;
-  const blockH = (lines.length - 1) * lh;
-  // Centre shorter titles, but never let the block ride up into the category
-  // label (y≈182) — clamp the first baseline to 262.
-  const startY = Math.max(262, 330 - blockH / 2);
-  const tspans = lines
-    .map((l, i) => `<tspan x="90" dy="${i === 0 ? 0 : lh}">${esc(l)}</tspan>`)
+function articleSvg({ title, category, summary }) {
+  // Title: up to 3 lines, leaving room for a two-line summary beneath it.
+  const tLines = wrapTitle(title, { maxLatin: 24, maxCjk: 15, maxLines: 3 });
+  const tLh = 70;
+  const titleStart = 262;
+  const titleTspans = tLines
+    .map((l, i) => `<tspan x="90" dy="${i === 0 ? 0 : tLh}">${esc(l)}</tspan>`)
+    .join('');
+  // Summary snippet — two lines, muted, sitting a fixed gap below the title.
+  const sLines = summary ? wrapTitle(summary, { maxLatin: 66, maxCjk: 32, maxLines: 2 }) : [];
+  const sumStart = titleStart + (tLines.length - 1) * tLh + 62;
+  const sumTspans = sLines
+    .map((l, i) => `<tspan x="90" dy="${i === 0 ? 0 : 40}">${esc(l)}</tspan>`)
     .join('');
   return `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
   <rect width="1200" height="630" fill="#07070A"/>
   <rect x="0" y="0" width="1200" height="8" fill="#FFC000"/>
+  <g opacity="0.07">${flower(1015, 330, 4.6)}</g>
   ${flower(112, 82, 0.82)}
   <text x="150" y="102" font-family="${TITLE_FONT}" font-size="34" font-weight="700" fill="#F4F4F8">NegaraKu<tspan fill="#FFC000">.md</tspan></text>
-  <text x="90" y="182" font-family="${BODY_FONT}" font-size="26" font-weight="700" letter-spacing="3" fill="#FFC000">${esc(titleCase(category)).toUpperCase()}</text>
-  <text x="90" y="${startY}" font-family="${TITLE_FONT}" font-size="62" font-weight="800" fill="#F4F4F8">${tspans}</text>
-  <text x="90" y="582" font-family="${BODY_FONT}" font-size="27" fill="#9A9AB8">An open-source knowledge base about Malaysia · <tspan fill="#C0C0D0">negaraku.md</tspan></text>
+  <text x="90" y="185" font-family="${BODY_FONT}" font-size="25" font-weight="700" letter-spacing="3" fill="#FFC000">${esc(titleCase(category)).toUpperCase()}</text>
+  <text x="90" y="${titleStart}" font-family="${TITLE_FONT}" font-size="58" font-weight="800" fill="#F4F4F8">${titleTspans}</text>
+  ${sLines.length ? `<text x="90" y="${sumStart}" font-family="${BODY_FONT}" font-size="27" fill="#9A9AB8">${sumTspans}</text>` : ''}
+  <text x="90" y="588" font-family="${BODY_FONT}" font-size="26" fill="#7A7A93">An open-source, AI-friendly knowledge base about Malaysia · <tspan fill="#C0C0D0" font-weight="700">negaraku.md</tspan></text>
 </svg>`;
 }
 
@@ -137,7 +143,7 @@ async function main() {
       items.slice(i, i + CONC).map(async (a) => {
         const dir = path.join(OUT_DIR, a.lang, a.category);
         await mkdir(dir, { recursive: true });
-        await toPng(articleSvg({ title: a.title, category: a.category }), path.join(dir, `${a.slug}.png`));
+        await toPng(articleSvg({ title: a.title, category: a.category, summary: a.summary }), path.join(dir, `${a.slug}.png`));
         made++;
       }),
     );
