@@ -248,7 +248,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
   {
     sensitive && (
       <div class={sensitiveLive ? 'sens sens-live' : 'sens'}>
-        <b>🔒 {L('Kandungan sensitif', 'Sensitive content', '敏感内容')}</b>
+        <b>🔒 {L('Kandungan sensitif', 'Sensitive content', '敏感内容')}{SENS_LABEL[d.sensitivity] ? ` — ${SENS_LABEL[d.sensitivity]}` : ''}</b>
         <p>
           {sensitiveLive
             ? L(
