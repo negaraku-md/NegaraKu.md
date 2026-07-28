@@ -234,13 +234,9 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
         status={d.status}
         sensitivity={d.sensitivity}
         translationStatus={d.translationStatus}
+        statusDate={isPublished ? fmt(d.published ?? d.reviewed) : undefined}
       />
       <span class="pill">{mins} {L('min baca', 'min read', '分钟阅读')}</span>
-      {isPublished && (d.published ?? d.reviewed) && (
-        <span class="pill pill-date">
-          {L('Diterbitkan', 'Published', '发布于')} {fmt(d.published ?? d.reviewed)}
-        </span>
-      )}
       {d.reviewDue && (
         <span class="pill pill-date">
           {L('Semakan seterusnya', 'Next review', '下次审阅')} {fmt(d.reviewDue)}

@@ -13,6 +13,8 @@ interface Props {
   translationStatus?: string;
   /** Compact = icon + short word, for dense lists. */
   compact?: boolean;
+  /** Optional date appended to the status chip (e.g. "Published: 22 Jul 2026"). */
+  statusDate?: string;
 }
 const {
   locale,
@@ -21,6 +23,7 @@ const {
   tier,
   translationStatus,
   compact = false,
+  statusDate,
 } = Astro.props;
 
 const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
@@ -118,7 +121,7 @@ const trans = translationStatus ? transMap[translationStatus] : null;
       </span>
     )
   }
-  <span class={`tb ${s.cls}`}>{s.icon} {compact ? s.label : s.full}</span>
+  <span class={`tb ${s.cls}`}>{s.icon} {compact ? s.label : s.full}{statusDate && !compact ? `: ${statusDate}` : ''}</span>
   {trans && <span class={`tb ${trans.cls}`}>{trans.icon} {trans.label}</span>}
 </span>
 
