@@ -30,6 +30,19 @@ const SENSITIVITIES = new Set([
   'health', 'legal-proceedings',
 ]);
 
+// Canonical state constitutional structure — the source of truth for the
+// "royalty" sensitivity on a state PROFILE. The nine states with a hereditary
+// Malay Ruler MUST carry sensitivity "royalty"; the Governor-led states and the
+// Federal Territories (no monarch) MUST NOT. Keyed by the profile's slug
+// (the base filename), matched only for files under knowledge/states/.
+const STATE_RULER = {
+  johor: true, kedah: true, kelantan: true, 'negeri-sembilan': true,
+  pahang: true, perak: true, perlis: true, selangor: true, terengganu: true,
+  // No hereditary Ruler — Governor (Yang di-Pertua Negeri) or Federal Territory.
+  melaka: false, penang: false, sabah: false, sarawak: false,
+  'kuala-lumpur': false, labuan: false, putrajaya: false,
+};
+
 const FIX_DATES = process.argv.includes('--fix-dates');
 
 function walk(dir) {
@@ -118,6 +131,21 @@ for (const file of walk('knowledge')) {
   const reviewer = (fm.match(/^reviewer:\s*(.+)$/m) || [])[1]?.trim();
 
   if (sens && !SENSITIVITIES.has(sens)) errors.push(`${file}: unknown sensitivity "${sens}"`);
+
+  // --- state-profile classification guardrail ------------------------------
+  // A state profile lives at knowledge/states/<slug>[.lang].md. Enforce the
+  // royalty rule from STATE_RULER so a mis-tagged classification (e.g. Melaka
+  // marked "royalty", or Kedah left "none") fails the build instead of shipping.
+  const stateMatch = file.match(/[\\/]states[\\/]([a-z-]+?)(?:\.(?:ms|en|zh))?\.md$/);
+  if (stateMatch && stateMatch[1] in STATE_RULER) {
+    const hasRuler = STATE_RULER[stateMatch[1]];
+    if (hasRuler && sens !== 'royalty') {
+      errors.push(`${file}: ${stateMatch[1]} has a hereditary Ruler — sensitivity must be "royalty" (got "${sens ?? 'none'}")`);
+    }
+    if (!hasRuler && sens === 'royalty') {
+      errors.push(`${file}: ${stateMatch[1]} has no Ruler (Governor/Federal Territory) — sensitivity must not be "royalty"`);
+    }
+  }
   if (tier === 'S' && sens === 'none') {
     warns.push(`${file}: tier S paired with sensitivity "none" — pick a 3R+1 sensitivity`);
   }

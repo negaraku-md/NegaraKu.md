@@ -237,7 +237,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
         statusDate={isPublished ? fmt(d.published ?? d.reviewed) : undefined}
       />
       <span class="pill">{mins} {L('min baca', 'min read', '分钟阅读')}</span>
-      {d.reviewDue && new Date(d.reviewDue) < new Date() && (
+      {d.reviewDue && (
         <span class="pill pill-date">
           {L('Semakan seterusnya', 'Next review', '下次审阅')} {fmt(d.reviewDue)}
         </span>
