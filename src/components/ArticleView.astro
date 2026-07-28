@@ -650,9 +650,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
   }
   .sens b { color: #f87171; font-family: var(--font-title); font-size: 0.95rem; }
   .sens p { margin: 0.35rem 0 0; color: var(--ink-soft); font-size: 0.88rem; }
-  /* Live sensitive content: neutral notice, not an alarm (no red). */
-  .sens-live { border-color: var(--line); background: var(--surface-2); }
-  .sens-live b { color: var(--ink); }
+  /* Live sensitive content uses the same red treatment as the sensitivity chip. */
 
   .layout { display: grid; grid-template-columns: minmax(0, 1fr) 260px; gap: 2.2rem; align-items: start; }
 
