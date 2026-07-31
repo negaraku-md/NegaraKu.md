@@ -1,0 +1,18 @@
+{
+  "note": "Phase 2 rolling batch generation. Window = 2 concurrent. On each batch completion: node scripts/phase2-write.mjs <task.output>, validate, then launch categoryOrder[nextIndex] and increment. Done = knowledge/<cat>/<slug>.md exists. All outputs status:draft (human review pending).",
+  "categoryOrder": [
+    "companies", "industries", "environment", "tourism", "energy", "sports",
+    "public-safety", "international", "food-lifestyle", "agriculture", "finance", "technology",
+    "law", "glossary", "government", "arts-culture", "healthcare", "company-secretary",
+    "settling-in", "taxation", "business", "education", "economy", "property",
+    "audit", "employment", "transport", "money-daily-life", "accounting", "malaysia",
+    "cost-of-living", "states"
+  ],
+  "nextIndex": 4,
+  "inflight": [
+    { "task": "woqvm3jqf", "category": "environment" },
+    { "task": "wut3s3k8c", "category": "tourism" }
+  ],
+  "completed": ["companies", "industries"],
+  "writtenMasters": { "companies": 21, "industries": 19 }
+}
