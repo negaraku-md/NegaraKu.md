@@ -1,5 +1,5 @@
 {
-  "note": "Phase 2 rolling batch generation. Window = 2 concurrent. On each batch completion: node scripts/phase2-write.mjs <task.output>, validate, then launch categoryOrder[nextIndex] and increment. Done = knowledge/<cat>/<slug>.md exists. All outputs status:draft (human review pending).",
+  "note": "Phase 2 rolling batch generation. Window = 2 concurrent. On each batch completion: node scripts/phase2-write.mjs <task.output>, validate, then launch next category. Done = knowledge/<cat>/<slug>.md exists. All outputs status:draft (human review pending). The 6:14am scheduled task 'negaraku-phase2-continue' resumes this from file-existence if the session stops.",
   "categoryOrder": [
     "companies", "industries", "environment", "tourism", "energy", "sports",
     "public-safety", "international", "food-lifestyle", "agriculture", "finance", "technology",
@@ -8,11 +8,12 @@
     "audit", "employment", "transport", "money-daily-life", "accounting", "malaysia",
     "cost-of-living", "states"
   ],
-  "nextIndex": 4,
+  "nextIndex": 6,
   "inflight": [
-    { "task": "woqvm3jqf", "category": "environment" },
-    { "task": "wut3s3k8c", "category": "tourism" }
+    { "task": "w758yrj02", "category": "energy" },
+    { "task": "sports-pending-relaunch", "category": "sports" }
   ],
-  "completed": ["companies", "industries"],
-  "writtenMasters": { "companies": 21, "industries": 19 }
+  "completed": ["companies", "industries", "environment", "tourism"],
+  "totalDone": 77,
+  "runLog": "2026-08-01: recovered from session-limit; wrote tourism(18)+environment(19); committed 41efb94. 77/445 done. Launched energy(18); sports(17) launching. Next: public-safety, international..."
 }
