@@ -32,9 +32,13 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-01
+reviewDue: 2027-08-01
+published: 2026-08-01
+publishedBy: "ashton-tan"
 version: "0.2"
 verificationNeeded:
   - "Pengelasan TH sebagai salah satu 'GLIC' (Government-Linked Investment Companies) dan sebagai 'salah satu pelabur institusi utama' — sahkan terhadap senarai/definisi rasmi GLIC daripada Kementerian Kewangan atau sumber berwibawa lain sebelum diterbitkan."

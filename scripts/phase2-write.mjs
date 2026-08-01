@@ -11,7 +11,12 @@ let wrote = 0;
 const written = [], skipped = [];
 for (const it of items) {
   if (!it || !it.markdown) { skipped.push(`${it && it.slug}: no markdown`); continue; }
-  const md = it.markdown;
+  let md = it.markdown;
+  // Strip any agent preamble before the YAML frontmatter (e.g. "See corrected file…").
+  if (!md.startsWith('---')) {
+    const i = md.indexOf('---\n');
+    if (i > 0) md = md.slice(i);
+  }
   const fm = md.match(/^---\r?\n([\s\S]*?)\r?\n---/);
   if (!fm) { skipped.push(`${it.slug}: no frontmatter`); continue; }
   const cat = (fm[1].match(/^category:\s*"?([\w-]+)"?/m) || [])[1] || it.category;

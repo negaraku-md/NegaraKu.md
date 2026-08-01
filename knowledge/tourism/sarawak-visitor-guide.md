@@ -38,9 +38,13 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-01
+reviewDue: 2027-08-01
+published: 2026-08-01
+publishedBy: "ashton-tan"
 version: "0.2"
 verificationNeeded:
   - "Gunung Mulu summit height: the park's own site conflicts — mulupark.com/mulu-world-heritage-area/ states 2,376 m, the mulupark.com homepage states 2,377 m. Draft uses ~2,376 m; confirm the authoritative figure."

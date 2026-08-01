@@ -38,9 +38,13 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-01
+reviewDue: 2027-08-01
+published: 2026-08-01
+publishedBy: "ashton-tan"
 version: "0.2"
 verificationNeeded:
   - "Rujukan kepada perintah subsidiari di bawah Akta Perihal Dagangan 2011 (takrifan halal serta pensijilan dan penandaan halal) — sahkan tajuk dan kandungan tepat terhadap teks perundangan rasmi sebelum menyatakannya semula secara spesifik."

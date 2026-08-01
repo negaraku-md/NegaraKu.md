@@ -36,9 +36,13 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-01
+reviewDue: 2027-08-01
+published: 2026-08-01
+publishedBy: "ashton-tan"
 version: "0.2"
 verificationNeeded:
   - "Angka pindaan 2023 Akta Kualiti Alam Sekeliling 1974 (denda minimum RM5,000, maksimum RM10 juta, penjara mandatori sehingga 5 tahun) berasal daripada laporan sekunder Macaranga — sahkan terhadap teks Warta/Akta pindaan rasmi sebelum diterbitkan."

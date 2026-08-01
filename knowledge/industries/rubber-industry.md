@@ -36,9 +36,13 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-01
+reviewDue: 2027-08-01
+published: 2026-08-01
+publishedBy: "ashton-tan"
 version: "0.2"
 verificationNeeded:
   - "Whether Malaysia is a net importer of natural rubber and the volume imported in 2024. This is inferred from the ~1.06 million-tonne total-accounted figure versus 386,512 tonnes produced; confirm against DOSM / MRB trade statistics."

@@ -39,9 +39,13 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-01
+reviewDue: 2027-08-01
+published: 2026-08-01
+publishedBy: "ashton-tan"
 version: "0.2"
 verificationNeeded:
   - "Tarikh tepat final Piala Thomas 1992 — dilembutkan kepada 'Mei 1992' kerana hari sebenar (kerap dinyatakan 16 Mei) tidak dibawa oleh mana-mana sumber yang dipetik; venue Stadium Negara disahkan oleh Tatler."

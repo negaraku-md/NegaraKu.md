@@ -40,9 +40,13 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-01
+reviewDue: 2027-08-01
+published: 2026-08-01
+publishedBy: "ashton-tan"
 version: "0.2"
 verificationNeeded:
   - "The proper name 'National Energy Transition Facility (NETF)' and the 'marginally bankable' characterisation of the RM2 billion seed fund. The RM2 billion seed-fund figure is reported by the Malay Mail source; the NETF name and framing derive from the NETR Part 2 primary documents and should be confirmed there."

@@ -38,9 +38,13 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-01
+reviewDue: 2027-08-01
+published: 2026-08-01
+publishedBy: "ashton-tan"
 version: "0.2"
 verificationNeeded:
   - "Peruntukan tepat program bantuan tunai (STR/SARA) di bawah Belanjawan 2025/2026 — angka RM bilion tidak disertakan kerana tiada sumber utama yang difetch; sahkan daripada dokumen Belanjawan rasmi sebelum menyatakan sebarang jumlah."

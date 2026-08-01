@@ -32,9 +32,13 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-01
+reviewDue: 2027-08-01
+published: 2026-08-01
+publishedBy: "ashton-tan"
 version: "0.2"
 verificationNeeded:
   - "Tahun penyenaraian TNB di Bursa Malaysia (dilaporkan secara meluas sebagai 1992, IPO KLSE) — sahkan dengan rekod penyenaraian rasmi Bursa Malaysia; tidak dapat disahkan daripada mana-mana sumber utama yang boleh dicapai semasa pruf ini."

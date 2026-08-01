@@ -34,9 +34,13 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-01
+reviewDue: 2027-08-01
+published: 2026-08-01
+publishedBy: "ashton-tan"
 version: "0.2"
 verificationNeeded:
   - "Sama ada Malaysia memenangi sebarang pingat Paralimpik sebelum Beijing 2008 (draf asal mendakwa pingat pertama di Seoul 1988; rekod rasmi IPC hanya menyenaraikan pingat dari Beijing 2008)."

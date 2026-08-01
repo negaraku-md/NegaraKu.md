@@ -31,9 +31,13 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-01
+reviewDue: 2027-08-01
+published: 2026-08-01
+publishedBy: "ashton-tan"
 version: "0.2"
 verificationNeeded:
   - "Senarai tepat dan bilangan agensi yang disatukan pada 1 Oktober 2007 (empat: JPAM, PDRM, KKM, JBPM) berbanding agensi yang ditambah kemudian, serta tarikh sebenar APMM/maritim disertakan."

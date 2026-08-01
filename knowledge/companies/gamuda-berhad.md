@@ -34,9 +34,13 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-01
+reviewDue: 2027-08-01
+published: 2026-08-01
+publishedBy: "ashton-tan"
 version: "0.2"
 verificationNeeded:
   - "FY2025 revenue is reported as RM15.97 billion (+20%) by The Star and Gamuda's own results release, but some outlets cite a ~RM16.4 billion group revenue figure. Confirm which basis (statutory revenue vs. including share of joint ventures/associates) the final article should use."

@@ -31,9 +31,13 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-01
+reviewDue: 2027-08-01
+published: 2026-08-01
+publishedBy: "ashton-tan"
 version: "0.2"
 verificationNeeded:
   - "Tajuk rasmi penuh dalam Bahasa Melayu bagi Pool Betting Act 1967 (Akta 384) seperti diterbitkan oleh Pejabat Peguam Negara; artikel menggunakan 'Akta Pertaruhan Kolam 1967'."

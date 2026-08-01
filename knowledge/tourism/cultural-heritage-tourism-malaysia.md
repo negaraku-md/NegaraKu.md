@@ -33,9 +33,13 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-01
+reviewDue: 2027-08-01
+published: 2026-08-01
+publishedBy: "ashton-tan"
 version: "0.2"
 verificationNeeded:
   - "Whether the Sarawak Chamber in Gunung Mulu National Park is the world's largest cave chamber (the superlative was removed from the intro pending a primary source; UNESCO's inscription page could not be fetched during this pass)."

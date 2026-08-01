@@ -36,9 +36,13 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-01
+reviewDue: 2027-08-01
+published: 2026-08-01
+publishedBy: "ashton-tan"
 version: "0.2"
 verificationNeeded:
   - "Budget 2025 figures for MSPO support: the specific ringgit amounts (previously RM65m total / RM50m for certification / RM15m for anti-campaign work) were removed because no cited source substantiated them. Reconfirm against the official Budget 2025 documents or an MPOB/Ministry statement before restoring any figure."
