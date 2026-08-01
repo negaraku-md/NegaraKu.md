@@ -1,14 +1,14 @@
 ---
 topicId: MY-GOV-0053
 title: "Kerajaan Tempatan (PBT): Majlis Bandaraya, Perbandaran dan Daerah di Bawah Akta 171"
-slug: "local-government-pbt"
+slug: "local-government-councils"
 category: "government"
 subcategory: ["institutions"]
 summary: "Pihak Berkuasa Tempatan (PBT) ialah lapisan pentadbiran ketiga di Malaysia. Artikel ini menerangkan tiga kategori PBT (Majlis Bandaraya, Majlis Perbandaran, Majlis Daerah), rangka perundangannya (Akta Kerajaan Tempatan 1976 [Akta 171] bagi Semenanjung, ordinan berasingan bagi Sabah dan Sarawak), mekanisme pelantikan ahli majlis di bawah Seksyen 10, dan latar sejarah peralihan daripada majlis dipilih kepada majlis dilantik — secara deskriptif berdasarkan teks perundangan dan sumber rasmi."
 
 tier: "S"
 mode: "practical"
-contentType: "institution"
+contentType: "agency"
 sensitivity: "elections"
 
 answer: "Pihak Berkuasa Tempatan (PBT) ialah lapisan kerajaan ketiga di Malaysia, di bawah Kerajaan Persekutuan dan Kerajaan Negeri. Di Semenanjung Malaysia, PBT dikawal oleh Akta Kerajaan Tempatan 1976 (Akta 171), yang terpakai di Semenanjung; Sabah dikawal oleh Local Government Ordinance 1961 dan Sarawak oleh Local Authorities Ordinance 1996. PBT terbahagi kepada tiga kategori — Majlis Bandaraya, Majlis Perbandaran dan Majlis Daerah — mengikut kriteria penduduk dan hasil tahunan yang ditetapkan Kementerian Perumahan dan Kerajaan Tempatan (KPKT). Di bawah Seksyen 10 Akta 171, sesebuah PBT terdiri daripada seorang Yang Dipertua atau Datuk Bandar dan tidak kurang daripada lapan serta tidak lebih daripada dua puluh empat ahli majlis, yang dilantik oleh Pihak Berkuasa Negeri untuk tempoh tidak melebihi tiga tahun. Ahli majlis tidak dipilih melalui pilihan raya: pilihan raya kerajaan tempatan telah digantung sejak 1965 semasa Konfrontasi Indonesia-Malaysia dan tidak dipulihkan selepas Akta 171 memperuntukkan sistem majlis dilantik."
@@ -25,7 +25,7 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "draft"
+status: "in-review"
 aiAssisted: true
 reviewer: null
 version: "0.2"
