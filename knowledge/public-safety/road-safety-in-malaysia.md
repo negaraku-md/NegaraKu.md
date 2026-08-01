@@ -37,13 +37,9 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "published"
+status: "in-review"
 aiAssisted: true
-reviewer: "ashton-tan"
-reviewed: 2026-08-01
-reviewDue: 2027-08-01
-published: 2026-08-01
-publishedBy: "ashton-tan"
+reviewer: null
 version: "0.2"
 verificationNeeded:
   - "Angka hukuman tepat Seksyen 44 dan Seksyen 45 Akta Pengangkutan Jalan (Pindaan) 2020 (julat denda dan tempoh penjara) perlu disahkan terhadap teks Akta yang diwartakan; kini dirujuk melalui laporan paultan.org."

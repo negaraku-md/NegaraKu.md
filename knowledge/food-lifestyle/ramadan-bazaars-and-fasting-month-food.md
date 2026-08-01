@@ -33,13 +33,9 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "published"
+status: "in-review"
 aiAssisted: true
-reviewer: "ashton-tan"
-reviewed: 2026-08-01
-reviewDue: 2027-08-01
-published: 2026-08-01
-publishedBy: "ashton-tan"
+reviewer: null
 version: "0.2"
 verificationNeeded:
   - "Denda di bawah Akta Makanan 1983 (sehingga RM100,000 / penjara sehingga 10 tahun) dan rujukan Peraturan-Peraturan Kebersihan Makanan 2009 — sahkan terhadap teks statut sebenar dan seksyen kesalahan yang berkaitan (bukan sekadar liputan berita)."

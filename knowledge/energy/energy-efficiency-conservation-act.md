@@ -33,13 +33,9 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "published"
+status: "in-review"
 aiAssisted: true
-reviewer: "ashton-tan"
-reviewed: 2026-08-01
-reviewDue: 2027-08-01
-published: 2026-08-01
-publishedBy: "ashton-tan"
+reviewer: null
 version: "0.2"
 verificationNeeded:
   - "Nama rasmi dan status pemansuhan peraturan 2008 yang lama — difahami sebagai Efficient Management of Electrical Energy Regulations 2008 (EMEER), tetapi tiada sumber yang dipetik mengesahkan pemansuhan ini; sahkan terhadap teks peraturan/Akta rasmi."

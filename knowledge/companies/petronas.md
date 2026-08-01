@@ -36,13 +36,9 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "published"
+status: "in-review"
 aiAssisted: true
-reviewer: "ashton-tan"
-reviewed: 2026-08-01
-reviewDue: 2027-08-01
-published: 2026-08-01
-publishedBy: "ashton-tan"
+reviewer: null
 version: "0.2"
 verificationNeeded:
   - "Angka kewangan tepat 2024 (hasil ~RM320 bilion, untung bersih ~RM55.1 bilion, dan perbandingan 2023 RM343.6 bilion / RM80.7 bilion) — sahkan terhadap Keputusan Kewangan Kumpulan PETRONAS FY2024 yang diumumkan 5 Februari 2025 (dokumen PDF rasmi)."

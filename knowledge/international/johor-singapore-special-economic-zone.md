@@ -34,13 +34,9 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "published"
+status: "in-review"
 aiAssisted: true
-reviewer: "ashton-tan"
-reviewed: 2026-08-01
-reviewDue: 2027-08-01
-published: 2026-08-01
-publishedBy: "ashton-tan"
+reviewer: null
 version: "0.2"
 verificationNeeded:
   - "Flagship-area naming varies across official and legal-advisory sources (e.g. 'Johor Bahru Waterfront' vs 'Johor Bahru City Centre'; 'Kulai–Sedenak' vs 'Sedenak'). Confirm the definitive government wording before publication."

@@ -33,13 +33,9 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "published"
+status: "in-review"
 aiAssisted: true
-reviewer: "ashton-tan"
-reviewed: 2026-08-01
-reviewDue: 2027-08-01
-published: 2026-08-01
-publishedBy: "ashton-tan"
+reviewer: null
 version: "0.2"
 verificationNeeded:
   - "Nama rasmi semasa agensi pertahanan awam dalam senarai MERS 999: laman rasmi agensi (civildefence.gov.my) menggunakan 'Angkatan Pertahanan Awam Malaysia (APM)', manakala laman MERS 999 di malaysia.gov.my masih menyenaraikannya sebagai 'Jabatan Pertahanan Awam (JPAM)'. Sahkan tatanama rasmi terkini."

@@ -36,13 +36,9 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "published"
+status: "in-review"
 aiAssisted: true
-reviewer: "ashton-tan"
-reviewed: 2026-08-01
-reviewDue: 2027-08-01
-published: 2026-08-01
-publishedBy: "ashton-tan"
+reviewer: null
 version: "0.2"
 verificationNeeded:
   - "Peratusan campuran janaan mengikut kawasan (Semenanjung 20.2% RE 2021, Sabah 79.3% gas, Sarawak 74% hidro) dan jumlah kapasiti >27 GW kini disandarkan kepada Global Legal Insights (penerbit panduan guaman komersial). Sahkan semula terhadap sumber statistik rasmi primer — Suruhanjaya Tenaga / Malaysia Energy Statistics Handbook (ST) — untuk artikel tier-1."

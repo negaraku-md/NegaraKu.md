@@ -31,13 +31,9 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "published"
+status: "in-review"
 aiAssisted: true
-reviewer: "ashton-tan"
-reviewed: 2026-08-01
-reviewDue: 2027-08-01
-published: 2026-08-01
-publishedBy: "ashton-tan"
+reviewer: null
 version: "0.2"
 verificationNeeded:
   - "Confirm the 6% F&B service tax rate and the RM1,500,000 registration threshold are still current at time of publication (SST rates and thresholds change with federal budgets)."

@@ -48,13 +48,9 @@ verificationNeeded:
   - "Sama ada bukan warganegara benar-benar dikecualikan sepenuhnya daripada e-Reporting (draf tidak lagi menyatakan pengecualian ini secara eksplisit)."
   - "Rujukan seksyen kuasa tangkap tanpa waran (Seksyen 23 KTJ) terhadap teks Akta 593 semasa."
 
-status: "published"
+status: "in-review"
 aiAssisted: true
-reviewer: "ashton-tan"
-reviewed: 2026-08-01
-reviewDue: 2027-08-01
-published: 2026-08-01
-publishedBy: "ashton-tan"
+reviewer: null
 version: "0.2"
 revisions:
   - version: "0.1"

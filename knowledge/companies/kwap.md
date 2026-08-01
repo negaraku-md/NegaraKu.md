@@ -31,13 +31,9 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "published"
+status: "in-review"
 aiAssisted: true
-reviewer: "ashton-tan"
-reviewed: 2026-08-01
-reviewDue: 2027-08-01
-published: 2026-08-01
-publishedBy: "ashton-tan"
+reviewer: null
 version: "0.2"
 verificationNeeded:
   - "Peranan pencen tentera: sumber hanya sahkan KWAP menampung pesara penjawat awam Persekutuan; pencen tentera biasanya dikendalikan LTAT — perlu disahkan manusia."

@@ -34,13 +34,9 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "published"
+status: "in-review"
 aiAssisted: true
-reviewer: "ashton-tan"
-reviewed: 2026-08-01
-reviewDue: 2027-08-01
-published: 2026-08-01
-publishedBy: "ashton-tan"
+reviewer: null
 version: "0.2"
 verificationNeeded:
   - "Tarikh sejarah: penubuhan PNB (17 Mac 1978), YPB (9 Januari 1978), ASNB (22 Mei 1979) dan pelancaran ASB (2 Januari 1990) — sahkan terhadap laman rasmi PNB/ASNB kerana ia tidak terkandung dalam siaran akhbar Disember 2025 yang dipetik."

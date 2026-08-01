@@ -35,13 +35,9 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "published"
+status: "in-review"
 aiAssisted: true
-reviewer: "ashton-tan"
-reviewed: 2026-08-01
-reviewDue: 2027-08-01
-published: 2026-08-01
-publishedBy: "ashton-tan"
+reviewer: null
 version: "0.2"
 verificationNeeded:
   - "Tarikh tepat penubuhan Jawatankuasa Putrajaya untuk Prestasi Tinggi GLC (PCG) dan sebarang tarikh pelancaran rasmi GLCTP pada 2005 — sumber Khazanah yang dipetik hanya mengesahkan pelancaran/pengumuman pada 14 Mei 2004; dakwaan '29 Julai 2005' dan 'Januari 2005' telah dibuang kerana tidak dapat disahkan."

@@ -32,13 +32,9 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "published"
+status: "in-review"
 aiAssisted: true
-reviewer: "ashton-tan"
-reviewed: 2026-08-01
-reviewDue: 2027-08-01
-published: 2026-08-01
-publishedBy: "ashton-tan"
+reviewer: null
 version: "0.2"
 verificationNeeded:
   - "Tarikh kuat kuasa tepat SEDA (dilaporkan 1 September 2011): laman rasmi SEDA yang dipetik hanya mengesahkan penubuhan 'di bawah Akta SEDA 2011 [Akta 726]', bukan bulan/tarikh tepat. Sahkan terhadap Akta SEDA 2011 (gazet/AGC)."

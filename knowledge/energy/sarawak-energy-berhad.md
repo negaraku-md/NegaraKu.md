@@ -32,13 +32,9 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "published"
+status: "in-review"
 aiAssisted: true
-reviewer: "ashton-tan"
-reviewed: 2026-08-01
-reviewDue: 2027-08-01
-published: 2026-08-01
-publishedBy: "ashton-tan"
+reviewer: null
 version: "0.2"
 verificationNeeded:
   - "Isu sosial dan alam sekitar projek empangan mega (Bakun, Murum) — penempatan semula masyarakat orang asal dan kesan ekologi — memerlukan sumber utama berasingan sebelum sebarang butiran khusus ditambah."

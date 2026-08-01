@@ -33,13 +33,9 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "published"
+status: "in-review"
 aiAssisted: true
-reviewer: "ashton-tan"
-reviewed: 2026-08-01
-reviewDue: 2027-08-01
-published: 2026-08-01
-publishedBy: "ashton-tan"
+reviewer: null
 version: "0.2"
 verificationNeeded:
   - "Angka bersarang penyu agar, karah dan lipas mengikut negeri (dipetik daripada SWOT) — sahkan terhadap data bersarang terkini Jabatan Perikanan."

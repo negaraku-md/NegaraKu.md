@@ -30,13 +30,9 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "published"
+status: "in-review"
 aiAssisted: true
-reviewer: "ashton-tan"
-reviewed: 2026-08-01
-reviewDue: 2027-08-01
-published: 2026-08-01
-publishedBy: "ashton-tan"
+reviewer: null
 version: "0.2"
 verificationNeeded:
   - "Tahap sensitivity kekal 'none' menepati skema semasa, tetapi penyemak manusia patut menimbang sama ada topik penggunaan daya maut wajar diberi flag sensitiviti lebih tinggi."

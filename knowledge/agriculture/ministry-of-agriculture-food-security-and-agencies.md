@@ -32,13 +32,9 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "published"
+status: "in-review"
 aiAssisted: true
-reviewer: "ashton-tan"
-reviewed: 2026-08-01
-reviewDue: 2027-08-01
-published: 2026-08-01
-publishedBy: "ashton-tan"
+reviewer: null
 version: "0.2"
 verificationNeeded:
   - "Sasaran peratusan dan tahun khusus bagi Tahap Sara Diri (SSL) beras — angka '80% menjelang 2030' dibuang kerana tidak dapat disahkan terhadap sumber utama (halaman DAN 2.0 rasmi tidak dapat dicapai; belanjawan carian web telah habis). Sahkan dengan dokumen Dasar Agromakanan Negara (DAN 2.0) rasmi sebelum menyatakan sebarang angka SSL."

@@ -38,13 +38,9 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "published"
+status: "in-review"
 aiAssisted: true
-reviewer: "ashton-tan"
-reviewed: 2026-08-01
-reviewDue: 2027-08-01
-published: 2026-08-01
-publishedBy: "ashton-tan"
+reviewer: null
 version: "0.2"
 verificationNeeded:
   - "Fakta sejarah/perjanjian: Konfrontasi 1963–1966, Konvensyen Sempadan 1891, dan Perjanjian Sempadan 1915 — kekal sebagai pengetahuan umum tetapi belum disokong sumber primer dalam sources[]."

@@ -37,13 +37,9 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "published"
+status: "in-review"
 aiAssisted: true
-reviewer: "ashton-tan"
-reviewed: 2026-08-01
-reviewDue: 2027-08-01
-published: 2026-08-01
-publishedBy: "ashton-tan"
+reviewer: null
 version: "0.2"
 verificationNeeded:
   - "Sipadan daily permit quota of 252 and the ~6-permits-per-resort allocation — stated as firm figures but currently rest on a secondary dive-news source; confirm directly with Sabah Parks before publication."

@@ -36,13 +36,9 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "published"
+status: "in-review"
 aiAssisted: true
-reviewer: "ashton-tan"
-reviewed: 2026-08-01
-reviewDue: 2027-08-01
-published: 2026-08-01
-publishedBy: "ashton-tan"
+reviewer: null
 version: "0.2"
 verificationNeeded:
   - "Angka 8,481 PPS / kapasiti 2,158,743 mangsa berasal daripada kenyataan kesediaan JKM bagi Monsun Timur Laut 2024/2025 (BuletinTV3, Nov 2024) — sahkan angka setara bagi musim 2025/2026."

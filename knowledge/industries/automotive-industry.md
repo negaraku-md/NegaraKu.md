@@ -38,13 +38,9 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "published"
+status: "in-review"
 aiAssisted: true
-reviewer: "ashton-tan"
-reviewed: 2026-08-01
-reviewDue: 2027-08-01
-published: 2026-08-01
-publishedBy: "ashton-tan"
+reviewer: null
 version: "0.2"
 verificationNeeded:
   - "Exact Perodua minority shareholding percentages (MBM Resources, Daihatsu Motor, PNB, Daihatsu Malaysia, Mitsui) — only the UMW 38% stake is confirmed by an authoritative/reputable source; the full breakdown previously relied on an unofficial site and has been removed."

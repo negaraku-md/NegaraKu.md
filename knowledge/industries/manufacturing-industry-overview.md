@@ -36,13 +36,9 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "published"
+status: "in-review"
 aiAssisted: true
-reviewer: "ashton-tan"
-reviewed: 2026-08-01
-reviewDue: 2027-08-01
-published: 2026-08-01
-publishedBy: "ashton-tan"
+reviewer: null
 version: "0.2"
 verificationNeeded:
   - "The sub-sector FDI breakdown (E&E RM27.9b / 42.3%, transport equipment RM6.6b, chemicals RM5.7b, petroleum products RM5.6b, non-metallic minerals RM5.3b) is MIDA's 2022 detailed split, not 2024 — confirm it is still the latest published breakdown and that the 2022 label is correct."
