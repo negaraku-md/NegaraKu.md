@@ -48,7 +48,6 @@ const STRINGS = {
   'reader.theme': { ms: 'Tema', en: 'Theme', zh: '主题' },
   'reader.dark': { ms: 'Gelap', en: 'Dark', zh: '深色' },
   'reader.light': { ms: 'Cerah', en: 'Light', zh: '浅色' },
-  'reader.theme': { ms: 'Tema', en: 'Theme', zh: '主题' },
   'reader.themeGold': { ms: 'Emas', en: 'Gold', zh: '金色' },
   'reader.themeRed': { ms: 'Merah', en: 'Red', zh: '红色' },
   'reader.textSize': { ms: 'Saiz teks', en: 'Text size', zh: '字号' },
