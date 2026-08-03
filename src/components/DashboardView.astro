@@ -15,6 +15,14 @@ const d = getDashboard();
 const stats = await siteStats(locale);
 const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
+// Per-language coverage rows for the trilingual bars (master ms first).
+const LANG_NAMES: Record<string, string> = { ms: 'Bahasa Malaysia', en: 'English', zh: '中文' };
+const langBars = (['ms', 'en', 'zh'] as const).map((l) => ({
+  code: l.toUpperCase(),
+  name: LANG_NAMES[l],
+  ...d.perLangCoverage[l],
+}));
+
 // One pass over the corpus (deduped to one row per topic) drives three views:
 // the knowledge-structure tree, the classification mix, and the sourcing totals.
 type TopicNode = { count: number };
@@ -104,22 +112,22 @@ const avgSources = sourced ? (sources / sourced).toFixed(1) : '0';
     <div>
       <b>{d.totals.masterArticles ?? d.totals.articles}</b>
       <span>{L('artikel induk', 'master articles', '主文章')}</span>
-      <small>{L('satu setiap topik', 'one per topic', '每主题一篇')}</small>
+      <small>{L('satu setiap subjek', 'one per subject', '每个主题一篇')}</small>
     </div>
     <div>
       <b>{d.totals.files}</b>
       <span>{L('fail bahasa', 'language files', '语言文件')}</span>
-      <small>{L('570 × 3 bahasa', '570 × 3 languages', '570 × 3 语言')}</small>
+      <small>MS {d.totals.filesByLang.ms} · EN {d.totals.filesByLang.en} · ZH {d.totals.filesByLang.zh}</small>
     </div>
     <div>
-      <b>100%</b>
+      <b>{d.trilingual.fullPct}%</b>
+      <span>{L('tiga bahasa penuh', 'fully trilingual', '三语齐全')}</span>
+      <small>{d.trilingual.full}/{d.trilingual.topics} {L('subjek', 'subjects', '主题')}</small>
+    </div>
+    <div>
+      <b>{Math.round(((d.statusDist.published ?? 0) / (d.totals.masterArticles || 1)) * 100)}%</b>
       <span>{L('diterbitkan', 'published', '已发布')}</span>
-      <small>{L('semua topik terbit', 'every topic live', '每个主题都已上线')}</small>
-    </div>
-    <div>
-      <b>100%</b>
-      <span>{L('dipetik', 'cited', '已引用')}</span>
-      <small>{sources} {L('rujukan · purata', 'sources · avg', '来源 · 平均')} {avgSources}</small>
+      <small>{d.statusDist.published}/{d.totals.masterArticles} {L('subjek terbit', 'subjects live', '主题已上线')}</small>
     </div>
   </div>
 </section>
@@ -130,37 +138,44 @@ const avgSources = sourced ? (sources / sourced).toFixed(1) : '0';
     <div class="psec-body">
       <p class="hint">
         {L(
-          'Setiap topik wujud dalam ketiga-tiga bahasa. "Asal usul" menunjukkan bahasa induk yang mengarang topik itu; selebihnya ialah terjemahan.',
-          'Every topic exists in all three languages. "Origin" is the master language a topic was authored in; the rest are translations.',
-          '每个主题都以三种语言呈现。“来源”指该主题的撰写主语言；其余为翻译。',
+          `Daripada ${d.trilingual.topics} subjek, ${d.trilingual.full} (${d.trilingual.fullPct}%) wujud dalam ketiga-tiga bahasa. Baki ${d.trilingual.one} baru diterbitkan dalam bahasa asalnya dan masih menunggu terjemahan.`,
+          `Of ${d.trilingual.topics} subjects, ${d.trilingual.full} (${d.trilingual.fullPct}%) exist in all three languages. The other ${d.trilingual.one} were just published in their original language and still await translation.`,
+          `在 ${d.trilingual.topics} 个主题中，${d.trilingual.full} 个（${d.trilingual.fullPct}%）已具备三种语言。其余 ${d.trilingual.one} 个刚以原语言发布，仍待翻译。`,
         )}
       </p>
-      <div class="tblwrap">
-        <table class="matrix">
-          <thead>
-            <tr>
-              <th>{L('Bahasa', 'Language', '语言')}</th>
-              <th>{L('Ada', 'Present', '已有')}</th>
-              <th>{L('Paras', 'Parity', '对等')}</th>
-              <th class="grpc">{L('Asal usul', 'Origin', '来源')}</th>
-              <th class="grpc">{L('Terjemahan', 'Translated', '翻译')}</th>
-            </tr>
-          </thead>
-          <tbody>
-            {['en', 'ms', 'zh'].map((lang) => {
-              const r = d.perLangCoverage[lang];
-              return (
-                <tr>
-                  <th class="lang">{lang.toUpperCase()}</th>
-                  <td class="tot">{r.have}/{r.total}</td>
-                  <td data-status="published">{r.pct}%</td>
-                  <td>{r.source}</td>
-                  <td>{r.translated}</td>
-                </tr>
-              );
-            })}
-          </tbody>
-        </table>
+
+      <div class="tri-sum">
+        <div class="tri-stat"><b>{d.trilingual.full}</b><span>{L('tiga bahasa', 'all three', '三语齐全')}</span></div>
+        <div class="tri-stat"><b>{d.trilingual.two}</b><span>{L('dua bahasa', 'two languages', '两种语言')}</span></div>
+        <div class="tri-stat"><b>{d.trilingual.one}</b><span>{L('satu bahasa', 'one language', '单一语言')}</span></div>
+      </div>
+
+      <p class="legend">
+        <span class="key"><i class="sw src" /> {L('Ditulis asal (induk)', 'Authored here (master)', '原创（主语言）')}</span>
+        <span class="key"><i class="sw tr" /> {L('Diterjemah', 'Translated', '翻译')}</span>
+        <span class="key"><i class="sw miss" /> {L('Belum ada', 'Not yet', '尚缺')}</span>
+      </p>
+
+      <div class="langbars">
+        {langBars.map((b) => (
+          <div class="lb">
+            <div class="lb-head">
+              <span class="lb-code">{b.code}</span>
+              <span class="lb-name">{b.name}</span>
+              <span class="lb-fig">{b.have}<span class="of">/{b.total}</span></span>
+            </div>
+            <div class="lb-bar" role="img" aria-label={`${b.source} authored, ${b.translated} translated, ${b.missing} missing`}>
+              {b.source > 0 && <span class="seg src" style={`width:${(b.source / b.total) * 100}%`} />}
+              {b.translated > 0 && <span class="seg tr" style={`width:${(b.translated / b.total) * 100}%`} />}
+              {b.missing > 0 && <span class="seg miss" style={`width:${(b.missing / b.total) * 100}%`} />}
+            </div>
+            <div class="lb-nums">
+              <span class="src-t">{b.source} {L('asal', 'authored', '原创')}</span>
+              <span class="tr-t">{b.translated} {L('terjemah', 'translated', '翻译')}</span>
+              <span class="miss-t">{b.missing} {L('belum', 'missing', '尚缺')}</span>
+            </div>
+          </div>
+        ))}
       </div>
     </div>
   </div>
@@ -172,8 +187,8 @@ const avgSources = sourced ? (sources / sourced).toFixed(1) : '0';
     <div class="psec-body">
       <p class="hint">
         {L(
-          `${sensitiveCount} daripada ${totalTopics} topik menyentuh domain sensitif Malaysia (kaum, agama, institusi diraja, perlembagaan) dan dilabel untuk semakan berhati-hati.`,
-          `${sensitiveCount} of ${totalTopics} topics touch Malaysia's sensitive domains (race, religion, royalty, the constitution) and are labelled for careful review.`,
+          `${sensitiveCount} daripada ${totalTopics} subjek menyentuh domain sensitif Malaysia (kaum, agama, institusi diraja, perlembagaan) dan dilabel untuk semakan berhati-hati.`,
+          `${sensitiveCount} of ${totalTopics} subjects touch Malaysia's sensitive domains (race, religion, royalty, the constitution) and are labelled for careful review.`,
           `${totalTopics} 个主题中有 ${sensitiveCount} 个涉及马来西亚的敏感领域（种族、宗教、王室、宪法），已标注以便审慎审阅。`,
         )}
       </p>
@@ -305,18 +320,34 @@ const avgSources = sourced ? (sources / sourced).toFixed(1) : '0';
 
   .two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 1.6rem; }
 
-  /* Coverage table */
-  .tblwrap { overflow-x: auto; }
-  .matrix { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
-  .matrix th, .matrix td { padding: 0.5rem 0.7rem; text-align: right; white-space: nowrap; }
-  .matrix thead th { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--muted); border-bottom: 1px solid var(--line); }
-  .matrix thead th:first-child, .matrix tbody th.lang { text-align: left; }
-  .matrix thead th.grpc { border-left: 1px solid var(--line); }
-  .matrix tbody th.lang { font-weight: 800; color: var(--ink); }
-  .matrix tbody tr:not(:last-child) td, .matrix tbody tr:not(:last-child) th { border-bottom: 1px dashed var(--line); }
-  .matrix td { font-variant-numeric: tabular-nums; color: var(--ink); }
-  .matrix td.tot { font-weight: 800; }
-  .matrix td[data-status='published'] { color: #4ade80; font-weight: 700; }
+  /* Trilingual coverage */
+  .tri-sum { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.8rem; margin: 0 0 1.1rem; }
+  .tri-stat { text-align: center; border: 1px solid var(--line); border-radius: 10px; padding: 0.7rem 0.5rem; background: var(--surface-2); }
+  .tri-stat b { display: block; font-family: var(--font-title); font-size: 1.5rem; color: var(--ink); line-height: 1.1; }
+  .tri-stat span { font-size: 0.76rem; color: var(--muted); }
+
+  .legend { display: flex; flex-wrap: wrap; gap: 0.4rem 1.1rem; margin: 0 0 0.9rem; font-size: 0.76rem; color: var(--muted); }
+  .legend .key { display: inline-flex; align-items: center; gap: 0.35rem; }
+  .sw { width: 0.7rem; height: 0.7rem; border-radius: 3px; display: inline-block; }
+  .sw.src { background: var(--gold); }
+  .sw.tr { background: #4ade80; }
+  .sw.miss { background: var(--surface-2); border: 1px solid var(--line); }
+
+  .langbars { display: grid; gap: 1rem; }
+  .lb-head { display: flex; align-items: baseline; gap: 0.55rem; margin-bottom: 0.3rem; }
+  .lb-code { font-family: var(--font-title); font-weight: 800; color: var(--gold); font-size: 0.9rem; letter-spacing: 0.03em; }
+  .lb-name { color: var(--ink-soft); font-size: 0.85rem; }
+  .lb-fig { margin-left: auto; font-variant-numeric: tabular-nums; font-weight: 800; color: var(--ink); }
+  .lb-fig .of { color: var(--muted); font-weight: 500; }
+  .lb-bar { display: flex; height: 12px; border-radius: 999px; overflow: hidden; background: var(--surface-2); }
+  .lb-bar .seg { height: 100%; }
+  .lb-bar .seg.src { background: var(--gold); }
+  .lb-bar .seg.tr { background: #4ade80; }
+  .lb-bar .seg.miss { background: color-mix(in srgb, var(--muted) 22%, transparent); }
+  .lb-nums { display: flex; flex-wrap: wrap; gap: 0.3rem 1rem; margin-top: 0.3rem; font-size: 0.76rem; font-variant-numeric: tabular-nums; }
+  .lb-nums .src-t { color: var(--gold); }
+  .lb-nums .tr-t { color: #4ade80; }
+  .lb-nums .miss-t { color: var(--muted); }
 
   /* Classification bars */
   .sens { display: grid; gap: 0.55rem; }

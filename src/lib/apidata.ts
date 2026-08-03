@@ -24,11 +24,22 @@ export interface Vital {
   detail: { ms: string; en: string; zh: string };
 }
 export interface Dashboard {
-  totals: { articles: number; files: number; languages: number; categories: number; reviewedPct: number };
+  totals: {
+    articles: number;
+    files: number;
+    languages: number;
+    categories: number;
+    reviewedPct: number;
+    masterArticles?: number;
+    filesByLang?: Record<string, number>;
+    publishedByLang?: Record<string, number>;
+    publishedTotal?: number;
+  };
   vitals: Record<string, Vital>;
   statusDist: Record<string, number>;
   perCategory: Record<string, number>;
-  perLangCoverage: Record<string, { have: number; total: number; pct: number }>;
+  perLangCoverage: Record<string, { have: number; total: number; pct: number; source: number; target: number; translated: number; missing: number }>;
+  trilingual: { topics: number; full: number; two: number; one: number; fullPct: number };
   registry: Array<{ title: { ms: string; en: string; zh: string }; category: string; status: string; words: number; sources: number; updated: string | null; langs: string[] }>;
 }
 
@@ -39,6 +50,7 @@ export function getDashboard(): Dashboard {
     statusDist: {},
     perCategory: {},
     perLangCoverage: {},
+    trilingual: { topics: 0, full: 0, two: 0, one: 0, fullPct: 0 },
     registry: [],
   });
 }

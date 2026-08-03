@@ -166,9 +166,22 @@ async function main() {
       source,
       target,
       translated,
+      missing: total - (source + translated), // topics with NO file in this locale
       pct: target ? pct(translated, target) : 100,
     };
   }
+
+  // Topic-level language completeness: of all public topics, how many carry all
+  // three languages vs. only some. This is the honest answer to "is every topic
+  // trilingual?" — after single-language masters land, most are NOT yet.
+  const trilingual = { topics: total, full: 0, two: 0, one: 0 };
+  for (const key of canonical.keys()) {
+    const c = langsByKey.get(key)?.size ?? 0;
+    if (c >= 3) trilingual.full++;
+    else if (c === 2) trilingual.two++;
+    else trilingual.one++;
+  }
+  trilingual.fullPct = pct(trilingual.full, total);
 
   // Editorial lifecycle matrix. Counts EVERY file — including drafts still gated
   // out of the public build — so pending work is visible, not hidden. Per language
@@ -272,6 +285,7 @@ async function main() {
     statusByLang,
     perCategory,
     perLangCoverage,
+    trilingual,
     // Reader-facing "what's new": the most recently updated articles, linkable.
     // Replaces a raw git-commit feed (hashes + dev messages) that meant nothing
     // to a reader.
