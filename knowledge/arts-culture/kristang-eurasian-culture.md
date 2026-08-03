@@ -35,9 +35,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Tafsiran simbolik Intrudu sebagai 'penyucian dosa' — amalan menyimbah air dan masanya (Ahad sebelum Rabu Abu) disahkan oleh The Star, tetapi makna penyucian/pembasuhan dosa hanya muncul dalam sumber blog/media sosial, bukan sumber utama yang berwibawa; perlu disahkan atau digugurkan."

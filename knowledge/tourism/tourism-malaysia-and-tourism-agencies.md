@@ -32,9 +32,11 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Whether Act 481 (Malaysia Tourism Promotion Board Act 1992) is the specific Act that constitutes Tourism Malaysia / MTPB as a statutory body — the AGC Laws of Malaysia portal confirms the Act's title, royal assent (30 January 1992) and commencement (1 May 1992), but does not quote the establishing clause itself."

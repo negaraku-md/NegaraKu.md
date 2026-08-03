@@ -32,9 +32,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Struktur dalaman kementerian (bilangan sektor dan bahagian): laman rasmi digital.gov.my tidak boleh diakses buat masa penyusunan, jadi angka struktur telah dikeluarkan sehingga sumber rasmi disahkan."

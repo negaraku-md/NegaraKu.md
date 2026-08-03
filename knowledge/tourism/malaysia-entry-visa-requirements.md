@@ -48,9 +48,11 @@ verificationNeeded:
   - "The current count of autogate-eligible countries (stated as 63 as of the June 2024 expansion)."
   - "The total count of visa-exempt nationalities (stated as more than fifty, per the Immigration Department list, which shows 51)."
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 revisions:
   - version: "0.1"

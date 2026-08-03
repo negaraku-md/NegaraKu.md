@@ -33,9 +33,11 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "SME Bank's 2005 establishment year: the official SME Bank 'About Us' page (smebank.com.my) returns HTTP 403 to automated fetch, so the date was confirmed via search of the official domain and BNM's DFI listing rather than a direct page fetch. Confirm against the live page in a browser."

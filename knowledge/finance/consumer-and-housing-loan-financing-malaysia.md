@@ -34,9 +34,11 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Live SBR and Hong Leong Bank BLR values (2.75% / 6.64% p.a. as at 14 July 2025) — confirm against the bank's current published reference-rate page before relying on them, and check for any OPR/SBR change after that date."

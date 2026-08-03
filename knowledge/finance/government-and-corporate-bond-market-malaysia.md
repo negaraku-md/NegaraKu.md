@@ -35,9 +35,11 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Whether unlisted corporate bonds and sukuk settle specifically via RENTAS / the Scripless Securities Trading System on a DvP basis — the mechanism was softened in the text because it could not be confirmed against a clean primary BNM source (ADB AsianBondsOnline supports it but its PDF would not render)."

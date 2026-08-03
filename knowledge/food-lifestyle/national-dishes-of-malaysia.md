@@ -37,9 +37,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Tarikh dan wilayah tepat asal roti canai (dahulu 'abad ke-19 / Tamil Nadu') — kini dilembutkan kerana tiada sumber rasmi yang dirujuk menyokongnya; sahkan dengan sumber sejarah primer sebelum menyatakan tarikh."

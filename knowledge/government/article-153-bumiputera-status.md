@@ -36,9 +36,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Sahkan status Perkara 161A(7) pada tarikh baca: pindaan Perlembagaan yang berkuat kuasa pada Februari 2022 dilaporkan meminda Perkara 161A(6) dan memansuhkan Perkara 161A(7), membenarkan Sarawak menetapkan takrif peribumi melalui undang-undang Negeri. Artikel ini memetik Cetakan Semula 15 Oktober 2020 yang masih mengandungi senarai kaum dalam fasal (7); semak sama ada rujukan perlu dikemas kini kepada teks terkini."

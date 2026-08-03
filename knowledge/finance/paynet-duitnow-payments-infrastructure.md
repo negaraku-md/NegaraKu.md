@@ -32,9 +32,11 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Exact current BNM stake in PayNet and the status/timeline of BNM's planned gradual reduction (announced by the Finance Ministry in a parliamentary reply, Dec 2025) — confirm the figure is still 35.5% at time of human review."

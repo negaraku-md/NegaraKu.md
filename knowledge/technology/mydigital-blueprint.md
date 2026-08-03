@@ -39,9 +39,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Lokasi pelancaran MD2030 ('di Putrajaya', 29 Jun 2026) dan senarai penuh agensi pelaksana (NAIO, GovTech Malaysia/JDN, MDEC, CyberSecurity Malaysia, MyDIGITAL Corporation, MyCentre4IR) kini disahkan menerusi laporan Malay Mail; perlu disemak silang dengan dokumen rasmi MD2030 apabila diterbitkan."

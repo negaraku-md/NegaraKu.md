@@ -34,9 +34,11 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Jetty departure points, crossing times and boat fares for each island — the cited DOF sources do not cover boat logistics; confirm current mainland departure points and fares with operators or the Terengganu/Pahang tourism offices."

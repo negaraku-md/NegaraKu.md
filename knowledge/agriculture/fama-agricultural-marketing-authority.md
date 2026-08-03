@@ -34,9 +34,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Angka jualan RM122 juta (1 Sept–18 Okt 2021) dan pecahan 368 lokasi adalah petikan akhbar 2021 — bukan data terkini; sahkan sama ada FAMA menerbitkan angka rasmi terkini sebelum digunakan sebagai statistik semasa."

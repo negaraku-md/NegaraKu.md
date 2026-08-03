@@ -34,9 +34,11 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Terengganu's marine-park island count: the DOF marine-park-management page groups Terengganu into archipelagos (Redang, Perhentian and neighbours) without stating a firm per-island figure; the state's exact island count should be confirmed against the gazette."

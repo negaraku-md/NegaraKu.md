@@ -33,9 +33,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Rangka masa tepat dan syarat penyertaan penuh Timor-Leste (anggota ke-11, diterima 26 Oktober 2025) dalam kitaran pengerusian mengikut abjad."

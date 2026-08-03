@@ -33,9 +33,11 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "MOF PPK FAQ used as the primary source is dated December 2020 — confirm the section 11 penalty (RM1m / 3 years), the named agency roster, and the two-year post-discharge rule are still current against the latest PPK publication or the Credit Reporting Agencies Act 2010 in force."

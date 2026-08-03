@@ -37,9 +37,11 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Institutional history: the department is often described as having begun as an Environment Division around 1975 and upgraded to a full department on 1 September 1983. These hard dates were removed in the 0.2 correction pass because they could not be confirmed against a primary source — DOE's own site carries no extractable institutional history (the vision/mission page renders only as images). A human should source and reinstate these dates if wanted."

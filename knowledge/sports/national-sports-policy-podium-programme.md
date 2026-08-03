@@ -38,9 +38,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Senarai penuh jenis sukan yang diliputi Program Podium telah dibuang daripada draf ini kerana tiada sumber rasmi yang menyenaraikan sukan tersebut ditemui; sahkan senarai rasmi daripada ISN atau MSN sebelum ia dimasukkan semula."

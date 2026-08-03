@@ -37,9 +37,11 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Exact institution counts (24 commercial, 16 Islamic, 1 international Islamic, 10 investment banks) against BNM's Financial Sector Participants Directory — these move over time with mergers, exits and new licences."

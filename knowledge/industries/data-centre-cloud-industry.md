@@ -37,9 +37,11 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "WSI siting condition: the MITI guideline is awkwardly worded ('avoid water stress areas … by considering areas with WSI of less than 0.8'). Confirm the intended direction (which side of 0.8 is the permitted siting zone) against the official MITI guideline PDF before publication."

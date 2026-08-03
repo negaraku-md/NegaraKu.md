@@ -37,9 +37,11 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Stamp duty is currently RM1 per RM1,000 (~0.1%), capped at RM1,000. The rate was raised to 0.15% from 1 Jan 2022 and reverted to 0.1% effective July 2023 — confirm the 0.1% rate and RM1,000 cap are still in force at publication."

@@ -33,9 +33,11 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Exact launch date: the BNM Financial Technology Regulatory Sandbox Framework was issued 18 October 2016 (BNM primary document); the body states month-level 'October 2016' only, which is what the cited fetched source supports. Confirm the precise 18 October date against BNM's own document before adding day-level specificity."

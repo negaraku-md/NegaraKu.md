@@ -39,9 +39,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Jumlah 600 kawasan DUN ialah snapshot katalog DOSM mengikut sempadan 2015–2018; sahkan angka semasa terhadap warta SPR selepas persempadanan semula Sarawak (kenaikan 82→99 diluluskan Julai 2025) selesai."

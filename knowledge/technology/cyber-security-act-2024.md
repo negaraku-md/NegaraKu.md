@@ -40,9 +40,11 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Cross-check the penalty-table subsection numbers (s.21(5), s.22(7), s.23(2), s.27(5), s.34(2), s.32(3)) against the primary gazetted Act text on the AGC Federal Legislation portal. They are stated explicitly in Mayer Brown's published analysis but have not been verified line-by-line against the Act itself."

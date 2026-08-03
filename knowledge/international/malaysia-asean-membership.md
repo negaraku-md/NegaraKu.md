@@ -41,9 +41,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Angka 'lebih 300 mesyuarat dan program' sepanjang pengerusian Malaysia 2025 (bersumberkan MOF/Bernama) — sahkan angka tepat dengan sumber rasmi Wisma Putra/Sekretariat Kebangsaan ASEAN."

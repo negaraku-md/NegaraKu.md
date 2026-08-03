@@ -35,9 +35,11 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Exact month DNB was established in 2021 — DNB's own website states only the year 2021 (its company registration number 201701005338 dates to 2017); the previously drafted 'March 2021' could not be confirmed against a primary source."

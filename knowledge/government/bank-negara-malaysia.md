@@ -42,9 +42,11 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Governor identity and title as at publication — Datuk Seri Abdul Rasheed Ghaffour is serving a five-year term to 30 June 2028; confirm he is still in office at publication and the honorific is current."

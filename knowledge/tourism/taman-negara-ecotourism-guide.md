@@ -40,9 +40,11 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Canopy-walkway closure year: the Pahang tourism portal dates the fallen-tree incident to 'September last year', rendered here as September 2024 — confirm the calendar year."

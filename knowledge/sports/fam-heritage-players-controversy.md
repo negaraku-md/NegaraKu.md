@@ -33,9 +33,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Tarikh keputusan Jawatankuasa Tatatertib FIFA: kenyataan media CAS menyatakan 25 September 2025, manakala halaman pengumuman rasmi FIFA bertarikh 26 September 2025 (pemberitahuan 'hari ini'). Draf ini menggunakan 25 September 2025 sebagai tarikh keputusan (selaras dengan CAS dan tempoh kredit larangan) dan mencatatkan pengumuman FIFA pada 26 September 2025. Manusia perlu mengesahkan tarikh mana yang hendak dipaparkan sebagai tarikh keputusan."

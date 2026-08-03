@@ -36,9 +36,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Kadar pertumbuhan 2023 disemak semula: keluaran Ekonomi Digital 2025 (rujukan 2024) melaporkan pertumbuhan 2023 sebagai 3.5%, sedangkan keluaran Ekonomi Digital 2024 (rujukan 2023) melaporkannya sebagai 3.9%. Draf ini menggunakan 3.5% untuk konsisten dengan keluaran yang sama sebagai angka 5.1% (2024). Sahkan angka mana yang hendak dipaparkan."

@@ -38,9 +38,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Asal-usul import daging lembu (negara pembekal utama): dilembutkan kerana tiada sumber primer diambil dalam pas ini — sahkan terhadap data perdagangan DOSM atau MAQIS jika mahu menamakan negara."

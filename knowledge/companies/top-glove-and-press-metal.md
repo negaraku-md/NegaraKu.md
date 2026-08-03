@@ -35,9 +35,11 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Press Metal's current (2026) primary aluminium smelting capacity — the 760,000 t figure, the 320,000 t Samalaju expansion, and the ~1.08 million t total all originate from a 2019 RAM Ratings note and may be outdated; confirm against Press Metal's latest annual report."

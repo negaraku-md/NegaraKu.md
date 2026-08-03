@@ -33,9 +33,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Mekanisme permulaan kuat kuasa Akta 861: portal perundangan AGC menunjukkan notifikasi permulaan kuat kuasa P.U. (B) 521/2024 (kuat kuasa 24 November 2024), manakala penguatkuasaan dilaporkan bermula 1 Januari 2025 — sahkan tarikh permulaan kuat kuasa penuh dan bila tepatnya ST menjadi agensi penguatkuasa."

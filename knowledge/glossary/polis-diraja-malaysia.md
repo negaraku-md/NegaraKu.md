@@ -37,9 +37,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Ketua Polis Negara semasa: Datuk Seri Mohd Khalid Ismail disahkan sebagai KPN ke-15 (dilantik 23 Jun 2025) — sahkan beliau masih menyandang jawatan pada tarikh penerbitan serta ejaan dan gelaran penuh."

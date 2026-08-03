@@ -39,9 +39,11 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Whether the specific RM1 billion National Fund-of-Funds announced by Khazanah on 30 July 2024 is the fund managed by Jelawang Capital: the Khazanah release names neither Jelawang nor an operating manager, and Jelawang's own site describes itself as Malaysia's national fund-of-funds under Dana Impak while citing a broader RM6 billion Dana Impak / GEAR-uP allocation rather than the RM1 billion figure. The linkage is stitched across two sources, not stated by one."

@@ -35,9 +35,11 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "The 111 missions / 85 countries figure and its full breakdown (66 embassies, 18 high commissions, 21 consulates general, 2 consulate offices, 2 UN permanent representatives, 1 ASEAN permanent representative, 1 Friendship and Trade Centre) were confirmed against the official Ministry of Foreign Affairs 'Malaysian Mission' page text via web search; the source page itself could not be machine-fetched due to a TLS certificate-chain error on kln.gov.my. A human should re-open the live MFA page and confirm the current numbers, which the ministry updates over time."

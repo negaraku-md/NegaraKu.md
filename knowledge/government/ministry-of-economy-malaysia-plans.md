@@ -38,9 +38,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Senarai penuh dan bilangan tepat agensi di bawah Kementerian Ekonomi (laman rasmi menyenaraikan 12 agensi pada tarikh semakan; susunan boleh berubah selepas penstrukturan Kabinet)"

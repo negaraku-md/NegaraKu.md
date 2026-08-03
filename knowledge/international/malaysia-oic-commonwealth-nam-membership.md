@@ -34,9 +34,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Dakwaan Tunku Abdul Rahman sebagai Setiausaha Agung pertama OIC (mulai 1971) bergantung pada satu sumber sahaja (Yayasan Kepimpinan Perdana); sumber OIC/GlobaLex tidak mengesahkannya — sahkan dengan sumber OIC rasmi."

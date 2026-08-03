@@ -37,9 +37,11 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "The exact seven-digit RimbaWatch hectare figures (18,332,583 ha baseline and 15,636,737 ha projection) appear verbatim in the cited Eco-Business press release; ideally cross-check against the full 'State of the Malaysian Rainforest' report itself."

@@ -46,9 +46,11 @@ verificationNeeded:
   - "The JENDELA Phase 2 'JP2' RFP is reported by The Edge as issued on 'March 31'; confirm the year is 2026 against an MCMC/Communications Ministry source."
   - "Ministerial Direction No. 3 of 2021 issuance date (31 May 2021) is drawn from SoyaCincau; confirm against the official gazette or MCMC record."
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 revisions:
   - version: "0.1"

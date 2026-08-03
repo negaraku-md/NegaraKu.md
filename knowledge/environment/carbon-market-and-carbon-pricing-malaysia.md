@@ -32,9 +32,11 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Whether the Bursa Carbon Exchange restricts listings to Verra-issued projects from 2016 onwards (claim removed pending a primary BCX/Bursa Malaysia source; the cited BCX About page does not state this)."

@@ -37,9 +37,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Tarikh penamaan semula JHEOA (1963) dan JAKOA (berkuat kuasa 2011) serta kementerian induk semasa — sahkan terhadap sumber rasmi terkini (halaman Sejarah JAKOA / warta kerajaan)."

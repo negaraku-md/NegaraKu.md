@@ -33,9 +33,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Sahkan petikan verbatim Perkara 4(1), 159(3), 159(4), 159(5) dan 161E(2) terhadap teks bercetak Perlembagaan Persekutuan (Cetakan Semula 2020) versi bahasa Melayu — rencana ini menggunakan frasa sah 'tidak sah setakat ketidakselarasan itu' dan 'jumlah bilangan ahli', bukan parafrasa terjemahan."

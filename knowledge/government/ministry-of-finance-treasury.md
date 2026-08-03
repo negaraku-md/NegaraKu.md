@@ -42,9 +42,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Had berangka akta pinjaman individu (gabungan MGS+MGII+MITB tidak melebihi 65% KDNK; pinjaman luar pesisir tidak melebihi RM35 bilion; MTB tidak melebihi RM10 bilion) — sahkan terhadap teks akta pinjaman dan Fiscal Outlook 2026 Seksyen 4."

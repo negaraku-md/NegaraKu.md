@@ -32,9 +32,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Nilai risiko PAC: sumber (The Edge node 745683) menyebut 'sehingga separuh dana' / ~RM5 bilion daripada ~RM11.5 bilion AUM (2023); sahkan angka dan konteks laporan PAC November 2024 asal."

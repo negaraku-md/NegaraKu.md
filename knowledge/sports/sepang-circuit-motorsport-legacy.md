@@ -40,9 +40,11 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Whether the Youth and Sports portfolio changed office-holder between Hannah Yeoh (quoted August 2025) and Mohammed Taufiq Johari (quoted 2026) — confirm the reshuffle and its date."

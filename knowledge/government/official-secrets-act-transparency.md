@@ -33,9 +33,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Nombor Peraturan Mesyuarat (Standing Order) yang mendasari rujukan Rang Undang-Undang Kebebasan Maklumat 2026 kepada Jawatankuasa Pilihan Khas — sumber berita yang dipetik tidak menyatakan nombor tersebut, dan rujukan bil Dewan Rakyat lazimnya di bawah Peraturan Mesyuarat 54. Sahkan terhadap Hansard/Penyata Rasmi Dewan Rakyat."

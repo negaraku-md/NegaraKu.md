@@ -35,9 +35,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Skop definisi angka ekuiti 2.4% (1970) dan 12.5% (1980): sumber EHM merujuknya sebagai ekuiti yang dipegang oleh institusi awam bagi pihak Bumiputera — perlu disahkan sama ada ia mewakili jumlah keseluruhan ekuiti korporat Bumiputera atau hanya bahagian yang dipegang institusi/agensi amanah."

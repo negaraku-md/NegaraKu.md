@@ -32,9 +32,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Pengesahan bahawa garis dasar dan sasaran PuTERA35 (30% ekuiti; 70% pekerjaan mahir tinggi dengan garis dasar 61%/2022; 15% KDNK dengan garis dasar 9.1%/2022) kekal seperti diterbitkan TERAJU dan tidak dikemas kini selepas 2024."

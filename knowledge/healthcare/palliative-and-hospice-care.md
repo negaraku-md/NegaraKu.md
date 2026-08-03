@@ -32,9 +32,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Nama rasmi dan akronim badan payung hospis kebangsaan (rujukan menyebut 'Malaysian Hospice Council' di malaysianhospicecouncil.com; sumber luar lain menggunakan 'Malaysian Hospice and Palliative Care Council / MHPCC' di mhpcc.com.my). Sahkan nama yang betul dan sama ada Hospis Malaysia ialah ahli."

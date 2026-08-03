@@ -38,9 +38,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Status penuh proses perundangan Rang Undang-Undang Perlembagaan (Pindaan) 2024 selepas kelulusan Dewan Rakyat (17 Okt 2024): sahkan tarikh kelulusan Dewan Negara, tarikh perkenan Yang di-Pertuan Agong, dan tarikh pewartaan/kuat kuasa sebenar (kuat kuasa disasarkan pertengahan 2026)."

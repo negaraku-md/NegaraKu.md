@@ -35,9 +35,11 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Exact Companies Act 2016 subsection numbers (s42(1), s42(2), s43(1), s196(1)) — supported by the ACCA overview but should be confirmed against the gazetted Act text."

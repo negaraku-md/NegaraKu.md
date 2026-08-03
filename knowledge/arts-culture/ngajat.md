@@ -33,9 +33,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Pautan entiti masyarakat asal: relasi 'related-to → orang-asli' telah dibuang kerana salah (kaum Iban ialah kaum Dayak/Orang Asal Sarawak, bukan Orang Asli Semenanjung). Sahkan sama ada wujud halaman entiti Dayak/Orang Asal Sarawak yang sesuai untuk diganti."

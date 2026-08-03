@@ -39,9 +39,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Anggaran kerugian RM3–6 bilion dan ~980,000 tan setahun berasal daripada kenyataan Jabatan Perikanan 2019 (Malay Mail); sahkan sama ada terdapat anggaran DOF yang lebih terkini."

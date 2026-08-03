@@ -36,9 +36,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "lihing (wain beras Sabah) dibuang daripada draf ini kerana artikel The Star yang dirujuk (2026-05-31) hanya menyebut tuak, montoku dan tumpung — bukan lihing. Boleh dimasukkan semula jika sumber primer yang sahih ditemui."

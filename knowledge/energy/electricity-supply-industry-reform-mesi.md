@@ -39,9 +39,11 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Exact establishment year of the ring-fenced Single Buyer (widely reported as 2012) — could not be confirmed against the Single Buyer's own site or the Energy Commission; the specific year has been removed pending a primary source."

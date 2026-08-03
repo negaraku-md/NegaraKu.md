@@ -36,9 +36,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Tarikh atau tahun pelaksanaan berperingkat seksyen tertentu Akta 588 — jika hendak menyatakan tahun spesifik, sahkan daripada warta P.U.(B) yang berkaitan (kini disebut secara umum tanpa tahun)."

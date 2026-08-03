@@ -37,9 +37,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 verificationNeeded:
   - "Asal usul dan etimologi masakan Peranakan/Nyonya — istilah Baba/Nyonya dan cerita perkahwinan campur peniaga Cina dengan wanita tempatan di Negeri-Negeri Selat; perlu sumber berwibawa (bukan Wikipedia)."
   - "Dakwaan masakan pantai timur (Kelantan/Terengganu) 'lebih manis' dan penggunaan gula kabung/gula melaka serta budu; perlu sumber."

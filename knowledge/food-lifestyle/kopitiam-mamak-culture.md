@@ -40,9 +40,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Butiran pengasasan kopitiam warisan tertentu (mis. tahun, nama pengasas, lokasi) tidak diambil daripada sumber yang dipetik — perlu disahkan dengan sumber primer sebelum sebarang nama/tarikh kedai spesifik dimasukkan semula."

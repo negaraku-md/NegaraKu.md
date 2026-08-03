@@ -34,9 +34,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Tarikh dan majlis sebenar pengumuman kenaikan geran khas interim kepada RM600 juta (draf asal menyebut 12 September 2024) — sumber Bernama yang dipetik mengesahkan jumlah RM600 juta, berkuat kuasa 2025 dan kitaran semakan lima tahun, tetapi tidak mengesahkan tarikh pengumuman tertentu itu."

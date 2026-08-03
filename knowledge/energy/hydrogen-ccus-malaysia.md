@@ -36,9 +36,11 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Exact first-gas date at Kasawari: trade press (Offshore Magazine, Borneo Post) reports first gas on 21-22 August 2024; draft states 'August 2024' — confirm the precise date against a PETRONAS statement."

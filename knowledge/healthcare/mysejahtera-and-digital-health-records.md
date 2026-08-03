@@ -32,9 +32,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Kenyataan bahawa siasatan polis 'masih berjalan' dan destinasi data eksport 'belum dikenal pasti' setakat laporan Audit dibentangkan — konsisten dengan konteks CodeBlue tetapi belum disahkan perkataan demi perkataan."

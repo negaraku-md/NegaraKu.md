@@ -37,9 +37,11 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Public Mutual's leadership figures (largest private manager, 44.6% retail-funds share, 51.8% PRS share, RM119bn NAV, 171 funds) are self-reported from the company's own profile page; confirm against an independent source (e.g. SC or FIMM statistics) or soften if uncorroborated."

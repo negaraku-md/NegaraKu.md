@@ -35,9 +35,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Nama tepat (verbatim) tiga tunjang Kertas Putih Pertahanan — Pencegahan Sepusat (Concentric Deterrence), Pertahanan Menyeluruh (Comprehensive Defence) dan Perkongsian Boleh Dipercayai (Credible Partnerships) — perlu disahkan terus daripada dokumen Kertas Putih Pertahanan; laman pendaratan MINDEF yang dirujuk memaparkan label berbeza."

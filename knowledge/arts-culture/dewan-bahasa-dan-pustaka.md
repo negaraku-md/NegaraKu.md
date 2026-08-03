@@ -35,9 +35,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Jumlah kumulatif penerima Anugerah Sastera Negara (dinyatakan 16 setakat 2026); sahkan tiada penerima ke-17 diumumkan selepas tarikh kemas kini."

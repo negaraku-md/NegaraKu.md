@@ -33,9 +33,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Asma tidak dinamakan secara khusus dalam kedua-dua PDF JAS yang dirujuk (sumber menyebut warga tua, wanita hamil, kanak-kanak dan komplikasi jantung/paru-paru). Rujukan asma di sini ialah inferens editorial sebagai keadaan paru-paru — sahkan dengan sumber nasihat kesihatan rasmi JAS."

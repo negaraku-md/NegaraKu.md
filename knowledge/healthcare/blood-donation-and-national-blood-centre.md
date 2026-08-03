@@ -32,9 +32,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Angka '1 pain (586ml)' dipetik terus daripada FAQ rasmi PDN, tetapi tidak sepadan dengan pain imperial piawai (568ml) mahupun pain AS (473ml). Sahkan nilai terkini yang diterbitkan PDN sebelum penerbitan."

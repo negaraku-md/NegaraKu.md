@@ -33,9 +33,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Rujukan '1958 — pertahanan awam menjadi unsur tetap mengikut Jadual Kesembilan Perlembagaan Persekutuan': ayat ini terdapat pada laman sejarah rasmi APM, namun rujukan perlembagaan ini wajar disemak semula terhadap teks Perlembagaan Persekutuan sebenar oleh penyemak manusia."

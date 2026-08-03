@@ -35,9 +35,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Angka nisab semasa setiap negeri (contoh dalam artikel: WP RM33,996 untuk 2026 dan Pulau Pinang RM31,000 untuk 2025) — sahkan terus dengan badan zakat negeri kerana angka ini dikemas kini setiap tahun mengikut harga emas."

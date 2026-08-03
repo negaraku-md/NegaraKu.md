@@ -32,9 +32,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Tarikh pelantikan Ketua Pegawai Eksekutif Ahmad Zulqarnain Onn (dilaporkan berkuat kuasa 19 Februari 2024) — tidak diliputi oleh mana-mana sumber yang disenaraikan."

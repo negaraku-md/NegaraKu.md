@@ -35,9 +35,11 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Exact incorporation date (3 September 1993) and the Companies Act 1965 reference — currently sourced to the IFSWF member profile; confirm against the SSM/Companies Commission record (Khazanah's own History & Milestones page shows only registration no. 199301020767 and states operations began in 1994)."

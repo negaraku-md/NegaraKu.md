@@ -34,9 +34,11 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "MyCEB labels the RM20.18 billion as 'Estimated Economic Impact' on its homepage, which also displays a separate, ambiguously labelled figure (1,656,942); confirm the intended label and value with MyCEB directly."

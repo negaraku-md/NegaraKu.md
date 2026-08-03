@@ -37,9 +37,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
 version: "0.2"
 verificationNeeded:
   - "Nombor pendaftaran klon rasmi Jabatan Pertanian bagi Musang King (lazim disebut D197) dan Black Thorn (lazim disebut D200) — sahkan dengan senarai klon durian berdaftar rasmi DOA/MARDI, bukan sumber pasaran."
