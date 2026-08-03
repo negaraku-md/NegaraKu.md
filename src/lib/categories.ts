@@ -270,7 +270,7 @@ export const CATEGORIES: Category[] = [
     },
     archetype: 'service',
     pillar: 'understand',
-    launch: false,
+    launch: true,
   },
 
   // ---------------- Business ----------------
@@ -363,7 +363,7 @@ export const CATEGORIES: Category[] = [
     },
     archetype: 'service',
     pillar: 'doing-business',
-    launch: false,
+    launch: true,
   },
   {
     id: 'industries',
@@ -376,7 +376,7 @@ export const CATEGORIES: Category[] = [
     },
     archetype: 'service',
     pillar: 'doing-business',
-    launch: false,
+    launch: true,
   },
   {
     id: 'companies',
@@ -389,7 +389,7 @@ export const CATEGORIES: Category[] = [
     },
     archetype: 'service',
     pillar: 'doing-business',
-    launch: false,
+    launch: true,
   },
   {
     id: 'technology',
@@ -402,7 +402,7 @@ export const CATEGORIES: Category[] = [
     },
     archetype: 'service',
     pillar: 'doing-business',
-    launch: false,
+    launch: true,
   },
 
   // ---------------- Living ----------------
@@ -469,7 +469,7 @@ export const CATEGORIES: Category[] = [
     },
     archetype: 'service',
     pillar: 'living',
-    launch: false,
+    launch: true,
   },
   {
     id: 'food-lifestyle',
@@ -482,7 +482,7 @@ export const CATEGORIES: Category[] = [
     },
     archetype: 'service',
     pillar: 'living',
-    launch: false, // empty — no articles yet; hidden until populated (see expansion roadmap)
+    launch: true,
   },
   {
     id: 'public-safety',
@@ -495,7 +495,7 @@ export const CATEGORIES: Category[] = [
     },
     archetype: 'service',
     pillar: 'living',
-    launch: false, // empty — no articles yet; hidden until populated (see expansion roadmap)
+    launch: true,
   },
   {
     id: 'agriculture',
@@ -508,7 +508,7 @@ export const CATEGORIES: Category[] = [
     },
     archetype: 'service',
     pillar: 'living',
-    launch: false,
+    launch: true,
   },
   {
     id: 'energy',
@@ -521,7 +521,7 @@ export const CATEGORIES: Category[] = [
     },
     archetype: 'service',
     pillar: 'living',
-    launch: false,
+    launch: true,
   },
   {
     id: 'environment',
@@ -534,7 +534,7 @@ export const CATEGORIES: Category[] = [
     },
     archetype: 'service',
     pillar: 'living',
-    launch: false,
+    launch: true,
   },
   {
     id: 'sports',
@@ -547,7 +547,7 @@ export const CATEGORIES: Category[] = [
     },
     archetype: 'service',
     pillar: 'living',
-    launch: false,
+    launch: true,
   },
   {
     id: 'settling-in',
