@@ -38,6 +38,7 @@ const STRINGS = {
   'nav.living': { ms: 'Hidup', en: 'Living', zh: '生活' },
   'nav.business': { ms: 'Bisnes', en: 'Business', zh: '经商' },
   'nav.more': { ms: 'Lagi', en: 'More', zh: '更多' },
+  'nav.settings': { ms: 'Tetapan', en: 'Settings', zh: '设置' },
   'nav.data': { ms: 'Data', en: 'Data', zh: '数据' },
   'nav.dashboard': { ms: 'Papan Pemuka', en: 'Dashboard', zh: '仪表板' },
   'nav.elections': { ms: 'Pilihan Raya', en: 'Elections', zh: '选举' },

@@ -29,6 +29,7 @@ export const NAV: NavMenu[] = [
       { label: 'nav.aboutPage', href: '/about' },
       { label: 'nav.dashboard', href: '/dashboard' },
       { label: 'nav.changelog', href: '/changelog' },
+      { label: 'nav.settings', href: '/settings' },
     ],
   },
   { label: 'nav.contribute', href: '/contribute' },
