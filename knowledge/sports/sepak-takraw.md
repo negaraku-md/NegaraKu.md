@@ -1,4 +1,5 @@
 ---
+topicId: MY-SPT-0017
 title: "Sepak Takraw: Sukan Menendang Bola Rotan dari Alam Melayu"
 seoTitle: "Sepak Takraw Malaysia: Sejarah, Peraturan dan Rekod"
 slug: "sepak-takraw"
@@ -36,13 +37,9 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "published"
+status: "in-review"
 aiAssisted: true
-reviewer: "ashton-tan"
-reviewed: 2026-08-01
-reviewDue: 2027-08-01
-published: 2026-08-01
-publishedBy: "ashton-tan"
+reviewer: null
 version: "0.2"
 revisions:
   - version: "0.1"

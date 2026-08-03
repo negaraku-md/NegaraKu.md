@@ -1,4 +1,5 @@
 ---
+topicId: MY-IND-0018
 title: "Malaysia's Rubber Industry"
 seoTitle: "Malaysia Rubber Industry: Production, Gloves and Regulators"
 slug: "rubber-industry"

@@ -1,4 +1,5 @@
 ---
+topicId: MY-FDL-0012
 title: "Pasar Malam, Pasar Tani & Street Food: Budaya Pasar Rakyat Malaysia"
 seoTitle: "Pasar Malam, Pasar Tani & Street Food Malaysia: Panduan Budaya Pasar"
 slug: "pasar-malam-and-street-food"
@@ -74,7 +75,6 @@ sources:
     url: "https://berita.rtm.gov.my/nasional/senarai-berita-nasional/senarai-artikel/peraturan-peraturan-kebersihan-makanan-2009-dikuatkuasakan-di-seluruh-negara/"
     publisher: "Radio Televisyen Malaysia (RTM)"
 
-entity: null
 relations:
   - { rel: "related-to", to: "malaysian-street-food" }
 related: ["malaysian-street-food"]

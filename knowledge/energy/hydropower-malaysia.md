@@ -1,4 +1,5 @@
 ---
+topicId: MY-ENE-0008
 title: "Hidrokuasa di Malaysia"
 seoTitle: "Hidrokuasa Malaysia: Kenyir, Bakun, Murum & Baleh"
 slug: "hydropower-malaysia"
@@ -85,7 +86,6 @@ sources:
     url: "https://news.mongabay.com/2016/03/controversial-dam-officially-canceled-in-borneo-after-indigenous-protests/"
     publisher: "Mongabay"
 
-entity: null
 relations:
   - { rel: "related-to", to: "renewable-energy-malaysia" }
   - { rel: "related-to", to: "tenaga-nasional-berhad" }

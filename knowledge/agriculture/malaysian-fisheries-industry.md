@@ -1,4 +1,5 @@
 ---
+topicId: MY-AGR-0011
 title: "Industri Perikanan Malaysia"
 seoTitle: "Industri Perikanan Malaysia: Pengeluaran, LKIM dan Pencerobohan Perairan"
 slug: "malaysian-fisheries-industry"

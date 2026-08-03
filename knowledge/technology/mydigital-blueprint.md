@@ -1,4 +1,5 @@
 ---
+topicId: MY-TEC-0010
 title: "MyDIGITAL: Pelan Ekonomi Digital Negara Malaysia"
 seoTitle: "MyDIGITAL & Blueprint Ekonomi Digital Malaysia — Panduan Lengkap"
 slug: "mydigital-blueprint"

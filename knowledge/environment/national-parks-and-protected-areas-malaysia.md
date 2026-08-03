@@ -1,4 +1,5 @@
 ---
+topicId: MY-ENV-0011
 title: "Taman Negara dan Kawasan Perlindungan di Malaysia"
 seoTitle: "Taman Negara & Kawasan Perlindungan Malaysia: Panduan Lengkap"
 slug: "national-parks-and-protected-areas-malaysia"
@@ -73,7 +74,6 @@ sources:
     url: "https://johornationalparks.gov.my/endau-rompin-peta/"
     publisher: "Perbadanan Taman Negara Johor (Johor National Parks Corporation)"
 
-entity: null
 relations:
   - { rel: "governs", to: "national-parks-act-1980" }
   - { rel: "related-to", to: "biodiversity-malaysia" }

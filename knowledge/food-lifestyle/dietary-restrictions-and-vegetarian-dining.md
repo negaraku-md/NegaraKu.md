@@ -1,4 +1,5 @@
 ---
+topicId: MY-FDL-0003
 title: "Dietary Restrictions & Vegetarian/Vegan Dining in Malaysia"
 seoTitle: "Halal, Vegetarian & Vegan Dining in Malaysia: A Visitor's Guide"
 slug: "dietary-restrictions-and-vegetarian-dining"

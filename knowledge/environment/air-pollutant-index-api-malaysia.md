@@ -1,4 +1,5 @@
 ---
+topicId: MY-ENV-0001
 title: "Indeks Pencemar Udara (IPU): Cara Malaysia Mengukur Kualiti Udara"
 seoTitle: "Indeks Pencemar Udara (IPU) Malaysia: Bacaan & Kategori"
 slug: "air-pollutant-index-api-malaysia"

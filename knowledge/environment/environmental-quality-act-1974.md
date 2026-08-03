@@ -1,4 +1,5 @@
 ---
+topicId: MY-ENV-0007
 title: "The Environmental Quality Act 1974: Malaysia's Core Environmental Law"
 seoTitle: "Environmental Quality Act 1974 Malaysia: Licensing and Penalties"
 slug: "environmental-quality-act-1974"

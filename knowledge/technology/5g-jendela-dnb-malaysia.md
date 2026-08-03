@@ -1,4 +1,5 @@
 ---
+topicId: MY-TEC-0001
 title: "5G, JENDELA and the Dual-Network Model in Malaysia"
 seoTitle: "JENDELA and Malaysia's 5G Dual-Network Model Explained"
 slug: "5g-jendela-dnb-malaysia"

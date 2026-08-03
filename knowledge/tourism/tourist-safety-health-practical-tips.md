@@ -1,4 +1,5 @@
 ---
+topicId: MY-TOU-0018
 title: "Practical Tips for Tourists: Safety, Health and Everyday Logistics"
 seoTitle: "Malaysia Travel Tips: SIM Cards, Emergency Numbers, Monsoon & Health"
 slug: "tourist-safety-health-practical-tips"
@@ -70,7 +71,6 @@ sources:
     url: "https://wwwnc.cdc.gov/travel/destinations/traveler/none/malaysia"
     publisher: "U.S. Centers for Disease Control and Prevention (CDC)"
 
-entity: null
 relations:
   - { rel: "related-to", to: "getting-around-malaysia" }
 related: ["getting-around-malaysia"]

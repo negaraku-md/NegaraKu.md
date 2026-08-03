@@ -1,4 +1,5 @@
 ---
+topicId: MY-FIN-0015
 title: "Takaful or Conventional Insurance: How Malaysians Choose"
 seoTitle: "Takaful vs Conventional Insurance in Malaysia: A Comparison"
 slug: "takaful-vs-conventional-insurance-malaysia"

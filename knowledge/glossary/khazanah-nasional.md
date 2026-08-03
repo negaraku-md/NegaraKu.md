@@ -1,4 +1,5 @@
 ---
+topicId: MY-GLO-0039
 title: "Khazanah Nasional (Sovereign Wealth Fund)"
 seoTitle: "Khazanah Nasional: Malaysia's Sovereign Wealth Fund Explained"
 slug: "khazanah-nasional"

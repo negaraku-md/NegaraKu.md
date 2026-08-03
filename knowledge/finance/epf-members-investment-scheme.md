@@ -1,4 +1,5 @@
 ---
+topicId: MY-FIN-0007
 title: "EPF Members Investment Scheme: Investing Your Own EPF Savings"
 seoTitle: "EPF i-Invest: How to Invest Your EPF Savings (Members Investment Scheme)"
 slug: "epf-members-investment-scheme"

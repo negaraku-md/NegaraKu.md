@@ -1,4 +1,5 @@
 ---
+topicId: MY-CO-0018
 title: "Sunway Group: Property-Led Diversified Conglomerate"
 seoTitle: "Sunway Group (Sunway Berhad): Business, Segments and Ownership"
 slug: "sunway-group"

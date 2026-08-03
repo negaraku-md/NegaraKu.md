@@ -1,4 +1,5 @@
 ---
+topicId: MY-INT-0011
 title: "Hubungan Malaysia–Singapura"
 seoTitle: "Hubungan Malaysia–Singapura: Air, Tambak, RTS & Ekonomi"
 slug: "malaysia-singapore-relations"

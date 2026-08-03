@@ -1,4 +1,5 @@
 ---
+topicId: MY-PS-0004
 title: "Jabatan Bomba dan Penyelamat Malaysia (JBPM/Bomba)"
 seoTitle: "JBPM / Bomba Malaysia — mandat, perkhidmatan dan cara menghubungi"
 slug: "fire-and-rescue-department-bomba"

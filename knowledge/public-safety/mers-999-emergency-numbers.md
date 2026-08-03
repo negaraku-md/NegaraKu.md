@@ -1,4 +1,5 @@
 ---
+topicId: MY-PS-0010
 title: "999 dan MERS 999: Talian Kecemasan Malaysia"
 seoTitle: "999 / MERS 999: Nombor Talian Kecemasan Malaysia"
 slug: "mers-999-emergency-numbers"

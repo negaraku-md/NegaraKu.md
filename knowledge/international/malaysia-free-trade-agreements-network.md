@@ -1,4 +1,5 @@
 ---
+topicId: MY-INT-0007
 title: "Malaysia's Free Trade Agreement Network"
 seoTitle: "Malaysia's Free Trade Agreements: Full List and Status"
 slug: "malaysia-free-trade-agreements-network"

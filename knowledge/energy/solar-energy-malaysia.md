@@ -1,4 +1,5 @@
 ---
+topicId: MY-ENE-0016
 title: "Tenaga Solar di Malaysia: NEM, LSS dan Program Solar Bumbung"
 seoTitle: "Tenaga Solar Malaysia: NEM, LSS, CGPP, CRESS & CREAM"
 slug: "solar-energy-malaysia"
@@ -81,7 +82,6 @@ sources:
     url: "https://www.pv-magazine.com/2024/09/18/malaysia-reaches-350-mw-residential-solar-quota-for-net-metering/"
     publisher: "pv magazine"
 
-entity: null
 relations:
   - { rel: "administered-by", to: "suruhanjaya-tenaga" }
   - { rel: "related-to", to: "renewable-energy-malaysia" }

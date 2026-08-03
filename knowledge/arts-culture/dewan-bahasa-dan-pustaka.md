@@ -1,4 +1,5 @@
 ---
+topicId: MY-ART-0051
 title: "Dewan Bahasa dan Pustaka (DBP)"
 seoTitle: "Dewan Bahasa dan Pustaka: Apa Itu DBP dan Apa Fungsinya"
 slug: "dewan-bahasa-dan-pustaka"

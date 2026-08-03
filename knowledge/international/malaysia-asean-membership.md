@@ -1,4 +1,5 @@
 ---
+topicId: MY-INT-0003
 title: "Malaysia dan ASEAN"
 seoTitle: "Malaysia dalam ASEAN: Ahli Pengasas, Piagam, Tiga Tonggak"
 slug: "malaysia-asean-membership"

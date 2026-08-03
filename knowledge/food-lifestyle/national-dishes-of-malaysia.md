@@ -1,4 +1,5 @@
 ---
+topicId: MY-FDL-0011
 title: "Hidangan Kebangsaan Malaysia: Nasi Lemak, Roti Canai, Char Kuey Teow & Laksa"
 seoTitle: "Hidangan Kebangsaan Malaysia — Nasi Lemak, Roti Canai, Laksa"
 slug: "national-dishes-of-malaysia"
@@ -76,7 +77,6 @@ sources:
     url: "https://bernama.com/bm/news.php?id=2334942"
     publisher: "BERNAMA"
 
-entity: null
 relations:
   - { rel: "related-to", to: "malaysian-street-food" }
   - { rel: "related-to", to: "teh-tarik" }

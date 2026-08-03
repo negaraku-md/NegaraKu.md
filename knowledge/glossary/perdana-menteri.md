@@ -1,4 +1,5 @@
 ---
+topicId: MY-GLO-0041
 title: "Perdana Menteri Malaysia"
 seoTitle: "Perdana Menteri Malaysia: Pelantikan, Kuasa dan Perlembagaan"
 slug: "perdana-menteri"

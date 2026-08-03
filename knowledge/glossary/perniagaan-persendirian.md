@@ -1,4 +1,5 @@
 ---
+topicId: MY-GLO-0043
 title: "Sole Proprietorship (Perniagaan Persendirian)"
 seoTitle: "Sole Proprietorship in Malaysia: Register a Perniagaan Persendirian"
 slug: "perniagaan-persendirian"

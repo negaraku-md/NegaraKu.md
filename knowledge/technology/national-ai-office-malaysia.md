@@ -1,4 +1,5 @@
 ---
+topicId: MY-TEC-0013
 title: "Malaysia's AI Policy: The National AI Office and the AI Action Plan"
 seoTitle: "National AI Office Malaysia (NAIO) & the AI Action Plan Explained"
 slug: "national-ai-office-malaysia"

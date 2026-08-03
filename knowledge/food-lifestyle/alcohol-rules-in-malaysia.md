@@ -1,4 +1,5 @@
 ---
+topicId: MY-FDL-0001
 title: "Alcohol Rules in Malaysia: Licensing, Duty-Free Zones and State Variations"
 seoTitle: "Alcohol Rules in Malaysia: Licensing, Duty-Free and State Laws"
 slug: "alcohol-rules-in-malaysia"
@@ -75,7 +76,6 @@ sources:
     url: "https://focusmalaysia.my/siti-kasim-fumes-at-kelantans-alcohol-ban-that-affect-chinese-weddings-mocks-elite-malays/"
     publisher: "Focus Malaysia"
 
-entity: null
 relations:
   - { rel: "related-to", to: "civil-and-syariah-courts" }
   - { rel: "related-to", to: "langkawi-visitor-guide" }

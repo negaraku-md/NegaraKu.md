@@ -1,4 +1,5 @@
 ---
+topicId: MY-IND-0006
 title: "Malaysia's Digital Economy"
 seoTitle: "Malaysia Digital Economy: GDP Contribution, MyDIGITAL & MD Status"
 slug: "digital-economy-overview"

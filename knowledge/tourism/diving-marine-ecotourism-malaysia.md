@@ -1,4 +1,5 @@
 ---
+topicId: MY-TOU-0003
 title: "Diving and Marine Ecotourism in Malaysia"
 seoTitle: "Diving in Malaysia: Permits, Marine Park Fees and Rules"
 slug: "diving-marine-ecotourism-malaysia"
@@ -65,7 +66,6 @@ sources:
     url: "https://www.malaymail.com/news/malaysia/2022/09/29/sabah-parks-director-tighter-restrictions-for-sipadan-diving-permits-to-preserve-marine-life/30839"
     publisher: "Malay Mail"
 
-entity: null
 relations:
   - { rel: "governs", to: "fisheries-act-1985" }
   - { rel: "related-to", to: "sabah-travel-guide" }

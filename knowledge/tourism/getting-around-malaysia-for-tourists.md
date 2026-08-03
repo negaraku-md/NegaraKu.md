@@ -1,4 +1,5 @@
 ---
+topicId: MY-TOU-0005
 title: "Getting Around Malaysia as a Tourist"
 seoTitle: "Getting Around Malaysia: Trains, Flights, Ferries & E-Hailing"
 slug: "getting-around-malaysia-for-tourists"
@@ -91,7 +92,6 @@ sources:
     url: "https://www.tngdigital.com.my/travel-pass/"
     publisher: "TNG Digital Sdn Bhd"
 
-entity: null
 relations:
   - { rel: "related-to", to: "kuala-lumpur-international-airport" }
   - { rel: "related-to", to: "visiting-sabah-and-sarawak" }

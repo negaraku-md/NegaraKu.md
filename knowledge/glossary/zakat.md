@@ -1,4 +1,5 @@
 ---
+topicId: MY-GLO-0050
 title: "Zakat: Ibadah Harta dan Rebat Cukai untuk Muslim Malaysia"
 seoTitle: "Zakat di Malaysia: Nisab, Asnaf dan Rebat Cukai"
 slug: "zakat"

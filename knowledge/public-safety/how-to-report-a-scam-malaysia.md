@@ -1,4 +1,5 @@
 ---
+topicId: MY-PS-0008
 title: "Cara Membuat Laporan Penipuan dan Jenayah Kewangan di Malaysia"
 seoTitle: "Cara Lapor Penipuan di Malaysia: 997 NSRC, CCID & SemakMule"
 slug: "how-to-report-a-scam-malaysia"

@@ -1,4 +1,5 @@
 ---
+topicId: MY-INT-0010
 title: "Malaysia and RCEP"
 seoTitle: "Malaysia and RCEP: Members, Tariffs and Rules of Origin"
 slug: "malaysia-rcep"

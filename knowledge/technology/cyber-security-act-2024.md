@@ -1,4 +1,5 @@
 ---
+topicId: MY-TEC-0002
 title: "The Cyber Security Act 2024: Malaysia's National Critical Information Infrastructure Law"
 seoTitle: "Cyber Security Act 2024 (Act 854): NCII, Reporting & Licensing"
 slug: "cyber-security-act-2024"

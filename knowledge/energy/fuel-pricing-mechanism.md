@@ -1,4 +1,5 @@
 ---
+topicId: MY-ENE-0005
 title: "Bagaimana Malaysia Menetapkan Harga Bahan Api Mingguan"
 seoTitle: "Mekanisme Penetapan Harga Automatik (APM) Bahan Api Malaysia"
 slug: "fuel-pricing-mechanism"

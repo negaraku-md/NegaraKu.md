@@ -1,4 +1,5 @@
 ---
+topicId: MY-SPT-0006
 title: "Malaysia di Sukan Paralimpik: Tadbir Urus dan Atlet"
 seoTitle: "Malaysia di Paralimpik: Tadbir Urus Para Sukan & Rekod Pingat"
 slug: "malaysia-paralympics-para-sports"

@@ -1,4 +1,5 @@
 ---
+topicId: MY-FIN-0009
 title: "Malaysia's Bond Market: Government Securities and Corporate Bonds"
 seoTitle: "Malaysia Bond Market Guide: MGS, GII, Sukuk & Corporate Bonds"
 slug: "government-and-corporate-bond-market-malaysia"

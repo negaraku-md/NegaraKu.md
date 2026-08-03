@@ -1,4 +1,5 @@
 ---
+topicId: MY-GOV-0074
 title: "Bank Negara Malaysia: The Central Bank"
 seoTitle: "Bank Negara Malaysia (BNM): Mandate, Monetary Policy and the Ringgit"
 slug: "bank-negara-malaysia"

@@ -1,4 +1,5 @@
 ---
+topicId: MY-CO-0008
 title: "KWAP: Dana Persaraan Sektor Awam Malaysia"
 seoTitle: "KWAP — Kumpulan Wang Persaraan (Diperbadankan) Malaysia"
 slug: "kwap"

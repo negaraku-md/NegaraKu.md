@@ -1,4 +1,5 @@
 ---
+topicId: MY-GOV-0084
 title: "Ministry of Foreign Affairs (Wisma Putra)"
 seoTitle: "Ministry of Foreign Affairs Malaysia (Wisma Putra): Role, Missions, Consular Help"
 slug: "ministry-of-foreign-affairs-wisma-putra"

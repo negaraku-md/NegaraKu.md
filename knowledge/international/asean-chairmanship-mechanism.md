@@ -1,4 +1,5 @@
 ---
+topicId: MY-INT-0001
 title: "Bagaimana Sistem Pengerusian ASEAN Berfungsi"
 seoTitle: "Sistem Pengerusian ASEAN: Giliran Tahunan dan Peraturannya"
 slug: "asean-chairmanship-mechanism"

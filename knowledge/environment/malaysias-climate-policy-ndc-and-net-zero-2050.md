@@ -1,4 +1,5 @@
 ---
+topicId: MY-ENV-0009
 title: "Malaysia's Climate Policy: NDC, Net Zero 2050 and the Climate Change Act"
 seoTitle: "Malaysia Climate Policy: NDC 3.0, Net Zero 2050 & Climate Act"
 slug: "malaysias-climate-policy-ndc-and-net-zero-2050"

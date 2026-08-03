@@ -1,4 +1,5 @@
 ---
+topicId: MY-SPT-0008
 title: "Pengaturan Perlawanan dan Pengawalseliaan Pertaruhan Sukan di Malaysia"
 seoTitle: "Pengaturan Perlawanan & Pertaruhan Sukan Malaysia: Undang-Undang"
 slug: "match-fixing-sports-betting-regulation"
@@ -78,7 +79,6 @@ sources:
     url: "https://www.thestar.com.my/sport/football/2016/05/09/ban-on-football-match-fixers-lifted/"
     publisher: "The Star"
 
-entity: null
 relations:
   - { rel: "related-to", to: "sports-governance-malaysia" }
   - { rel: "related-to", to: "macc-anti-corruption-malaysia" }

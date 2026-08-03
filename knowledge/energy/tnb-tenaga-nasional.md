@@ -1,4 +1,5 @@
 ---
+topicId: MY-ENE-0017
 title: "Tenaga Nasional Berhad (TNB): Utiliti Elektrik Malaysia"
 seoTitle: "Tenaga Nasional Berhad (TNB): Profil Utiliti Elektrik Malaysia"
 slug: "tnb-tenaga-nasional"

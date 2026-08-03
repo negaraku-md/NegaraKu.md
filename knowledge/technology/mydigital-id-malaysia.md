@@ -1,4 +1,5 @@
 ---
+topicId: MY-TEC-0011
 title: "MyDigital ID: Identiti Digital Nasional Malaysia"
 seoTitle: "MyDigital ID Malaysia: Apa Itu, Cara Daftar dan Soal Privasi"
 slug: "mydigital-id-malaysia"

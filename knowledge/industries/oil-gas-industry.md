@@ -1,4 +1,5 @@
 ---
+topicId: MY-IND-0014
 title: "The Oil & Gas Industry in Malaysia"
 seoTitle: "Malaysia Oil & Gas Industry: PETRONAS, PSCs and How It Works"
 slug: "oil-gas-industry"

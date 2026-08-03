@@ -1,4 +1,5 @@
 ---
+topicId: MY-CO-0006
 title: "IOI Corporation: Malaysia's Integrated Palm Oil Major"
 seoTitle: "IOI Corporation Berhad: Palm Oil Plantation and Manufacturing Profile"
 slug: "ioi-corporation"

@@ -1,4 +1,5 @@
 ---
+topicId: MY-GLO-0045
 title: "Raja-Raja Melayu dan Majlis Raja-Raja"
 seoTitle: "Raja-Raja Melayu & Majlis Raja-Raja: Peranan, Keanggotaan, Fungsi"
 slug: "raja-raja-melayu"

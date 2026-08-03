@@ -1,4 +1,5 @@
 ---
+topicId: MY-SPT-0009
 title: "Hari Sukan Negara: Apa Itu dan Mengapa Ia Wujud"
 seoTitle: "Hari Sukan Negara (HSN): Maksud, Tarikh dan Objektif"
 slug: "national-sports-day-malaysia"

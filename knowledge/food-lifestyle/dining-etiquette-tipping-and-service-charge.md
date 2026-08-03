@@ -1,4 +1,5 @@
 ---
+topicId: MY-FDL-0004
 title: "Dining Etiquette, Tipping & Service Charge in Malaysia"
 seoTitle: "Tipping & Service Charge in Malaysia: What's on Your Bill"
 slug: "dining-etiquette-tipping-and-service-charge"
@@ -66,7 +67,6 @@ sources:
     url: "https://theedgemalaysia.com/article/cover-story-getting-what-you-pay"
     publisher: "The Edge Malaysia"
 
-entity: null
 relations:
   - { rel: "related-to", to: "sales-and-service-tax-sst-explained" }
 related: ["sales-and-service-tax-sst-explained"]

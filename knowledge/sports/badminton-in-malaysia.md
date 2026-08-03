@@ -1,4 +1,5 @@
 ---
+topicId: MY-SPT-0001
 title: "Badminton di Malaysia: BAM, Negara Piala Thomas dan Barisan Juaranya"
 seoTitle: "Badminton Malaysia: BAM, Piala Thomas dan Juara All England"
 slug: "badminton-in-malaysia"

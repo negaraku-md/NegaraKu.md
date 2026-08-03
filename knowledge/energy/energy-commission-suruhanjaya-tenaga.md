@@ -1,4 +1,5 @@
 ---
+topicId: MY-ENE-0002
 title: "Suruhanjaya Tenaga: Mandat dan Kuasa Pengawal Selia Tenaga Malaysia"
 seoTitle: "Suruhanjaya Tenaga (Energy Commission): Mandat dan Kuasa"
 slug: "energy-commission-suruhanjaya-tenaga"

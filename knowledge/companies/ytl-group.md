@@ -1,4 +1,5 @@
 ---
+topicId: MY-CO-0021
 title: "YTL Group: Utilities, Construction and Digital Infrastructure"
 seoTitle: "YTL Group Explained: Utilities, Cement, Hotels and AI Data Centres"
 slug: "ytl-group"

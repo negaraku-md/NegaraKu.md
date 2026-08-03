@@ -1,4 +1,5 @@
 ---
+topicId: MY-PS-0012
 title: "Pengawal dan Agensi Keselamatan Swasta di Malaysia"
 seoTitle: "Lesen Agensi Keselamatan Swasta & Polis Bantuan Malaysia"
 slug: "private-security-industry-malaysia"

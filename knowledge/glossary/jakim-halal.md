@@ -1,4 +1,5 @@
 ---
+topicId: MY-GLO-0038
 title: "Pensijilan Halal & JAKIM di Malaysia"
 seoTitle: "Pensijilan Halal JAKIM Malaysia: Panduan Lengkap"
 slug: "jakim-halal"

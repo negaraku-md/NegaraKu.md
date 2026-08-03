@@ -1,4 +1,5 @@
 ---
+topicId: MY-INT-0002
 title: "The Johor-Singapore Special Economic Zone (JS-SEZ)"
 seoTitle: "Johor-Singapore Special Economic Zone (JS-SEZ): Zones, Incentives and Framework"
 slug: "johor-singapore-special-economic-zone"

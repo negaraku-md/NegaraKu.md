@@ -1,4 +1,5 @@
 ---
+topicId: MY-AGR-0003
 title: "BERNAS dan Monopoli Import Beras Malaysia"
 seoTitle: "BERNAS (Padiberas Nasional): Monopoli Import Beras dan Harga Minimum Padi"
 slug: "bernas-rice-import-monopoly"

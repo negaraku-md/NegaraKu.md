@@ -1,4 +1,5 @@
 ---
+topicId: MY-PS-0005
 title: "Keselamatan dan Pencegahan Kebakaran di Malaysia"
 seoTitle: "Keselamatan Kebakaran Malaysia: Pencegahan Rumah & Perakuan Bomba"
 slug: "fire-safety-and-prevention-malaysia"

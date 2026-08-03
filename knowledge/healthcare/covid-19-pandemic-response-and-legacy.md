@@ -1,4 +1,5 @@
 ---
+topicId: MY-LIV-0093
 title: "COVID-19 di Malaysia: Tindak Balas Pandemik dan Legasinya"
 seoTitle: "COVID-19 Malaysia: PKP, Vaksinasi PICK dan Legasi Sistem Kesihatan"
 slug: "covid-19-pandemic-response-and-legacy"
@@ -65,7 +66,6 @@ sources:
     url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC9298663/"
     publisher: "PMC (National Library of Medicine)"
 
-entity: null
 relations:
   - { rel: "related-to", to: "malaysia-healthcare-system" }
   - { rel: "related-to", to: "health-white-paper-2023" }

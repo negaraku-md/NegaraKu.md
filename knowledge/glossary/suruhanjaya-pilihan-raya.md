@@ -1,4 +1,5 @@
 ---
+topicId: MY-GLO-0048
 title: "Suruhanjaya Pilihan Raya (SPR): badan yang menjalankan pilihan raya Malaysia"
 seoTitle: "Suruhanjaya Pilihan Raya (SPR): fungsi, keanggotaan dan persempadanan"
 slug: "suruhanjaya-pilihan-raya"

@@ -1,4 +1,5 @@
 ---
+topicId: MY-TEC-0009
 title: "Kementerian Digital: Pusat Dasar Teknologi Malaysia"
 seoTitle: "Kementerian Digital Malaysia: Mandat, Menteri dan Agensi"
 slug: "ministry-of-digital-malaysia"

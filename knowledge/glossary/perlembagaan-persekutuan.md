@@ -1,4 +1,5 @@
 ---
+topicId: MY-GLO-0042
 title: "Perlembagaan Persekutuan — Undang-Undang Tertinggi Malaysia"
 seoTitle: "Perlembagaan Persekutuan: Undang-Undang Tertinggi Malaysia"
 slug: "perlembagaan-persekutuan"

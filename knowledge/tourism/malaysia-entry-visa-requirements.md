@@ -1,4 +1,5 @@
 ---
+topicId: MY-TOU-0008
 title: "Entry Requirements for Malaysia: Visa-Free Access, eVISA and the MDAC"
 seoTitle: "Malaysia Entry Requirements: Visa-Free, eVISA & MDAC Explained"
 slug: "malaysia-entry-visa-requirements"

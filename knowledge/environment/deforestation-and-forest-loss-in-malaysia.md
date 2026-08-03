@@ -1,4 +1,5 @@
 ---
+topicId: MY-ENV-0004
 title: "Deforestation and Forest Loss in Malaysia: Data, Drivers and Debate"
 seoTitle: "Malaysia Deforestation and Forest Loss: Data, Drivers and Debate"
 slug: "deforestation-and-forest-loss-in-malaysia"
@@ -77,7 +78,6 @@ sources:
     url: "https://www.timbertradeportal.com/en/malaysia/78/country-context"
     publisher: "Timber Trade Portal (Malaysian Timber Council / FAO figures)"
 
-entity: null
 relations:
   - { rel: "related-to", to: "palm-oil-industry-in-malaysia" }
   - { rel: "related-to", to: "permanent-reserved-forests-malaysia" }

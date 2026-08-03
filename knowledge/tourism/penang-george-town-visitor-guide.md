@@ -1,4 +1,5 @@
 ---
+topicId: MY-TOU-0013
 title: "Penang & George Town Visitor Guide"
 seoTitle: "Penang & George Town Guide: UNESCO Heritage, Street Art, Food & Penang Hill"
 slug: "penang-george-town-visitor-guide"

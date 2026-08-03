@@ -1,4 +1,5 @@
 ---
+topicId: MY-TOU-0011
 title: "Melaka Heritage: A Visitor's Guide to the UNESCO Old Town"
 seoTitle: "Melaka Heritage Guide: Jonker Street, A Famosa, Baba Nyonya & UNESCO"
 slug: "melaka-heritage-visitor-guide"
@@ -76,7 +77,6 @@ sources:
     url: "https://babanyonyamuseum.com/"
     publisher: "Baba & Nyonya Heritage Museum"
 
-entity: null
 relations:
   - { rel: "compares-with", to: "george-town-heritage-visitor-guide" }
   - { rel: "related-to", to: "tourist-safety-health-practical-tips" }

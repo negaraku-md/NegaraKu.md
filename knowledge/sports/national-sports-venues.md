@@ -1,4 +1,5 @@
 ---
+topicId: MY-SPT-0011
 title: "Gelanggang Sukan Utama Negara Malaysia: Bukit Jalil dan Seterusnya"
 seoTitle: "Stadium & Gelanggang Sukan Utama Malaysia: Kapasiti dan Fungsi"
 slug: "national-sports-venues"

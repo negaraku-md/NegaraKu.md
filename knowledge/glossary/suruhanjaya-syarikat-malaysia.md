@@ -1,4 +1,5 @@
 ---
+topicId: MY-GLO-0049
 title: "Suruhanjaya Syarikat Malaysia (SSM): the Companies Commission of Malaysia"
 seoTitle: "SSM Malaysia Explained: Companies Commission of Malaysia"
 slug: "suruhanjaya-syarikat-malaysia"

@@ -1,4 +1,5 @@
 ---
+topicId: MY-LIV-0091
 title: "Betulkah Dia Doktor? Cara Sahkan Pendaftaran Doktor dan Profesional Kesihatan di Malaysia"
 seoTitle: "Cara Sahkan Pendaftaran Doktor, Jururawat, Farmasi & Kesihatan Bersekutu Malaysia"
 slug: "allied-health-and-medical-practitioner-registration"

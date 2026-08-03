@@ -1,4 +1,5 @@
 ---
+topicId: MY-FIN-0011
 title: "How to Invest in the Malaysian Stock Market: A Practical Guide"
 seoTitle: "How to Buy Shares on Bursa Malaysia: CDS Account, Broker and Fees"
 slug: "investing-in-bursa-malaysia-guide"

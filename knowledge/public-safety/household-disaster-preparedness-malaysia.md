@@ -1,4 +1,5 @@
 ---
+topicId: MY-PS-0006
 title: "Persediaan Bencana dan Banjir untuk Isi Rumah di Malaysia"
 seoTitle: "Persediaan Banjir & Bencana Isi Rumah Malaysia: Panduan Lengkap"
 slug: "household-disaster-preparedness-malaysia"
@@ -88,7 +89,6 @@ sources:
     url: "https://portalbencana.nadma.gov.my/ms/"
     publisher: "Agensi Pengurusan Bencana Negara (NADMA)"
 
-entity: null
 relations:
   - { rel: "related-to", to: "flood-warning-system-malaysia" }
   - { rel: "administered-by", to: "nadma-malaysia" }

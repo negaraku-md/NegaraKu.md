@@ -1,4 +1,5 @@
 ---
+topicId: MY-ENE-0018
 title: "Electricity Supply Industry Reform: MESI 1.0 and 2.0"
 seoTitle: "MESI 2.0 Explained: Malaysia's Electricity Market Reform, Unbundling and Third-Party Grid Access"
 slug: "electricity-supply-industry-reform-mesi"
@@ -38,13 +39,9 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "published"
+status: "in-review"
 aiAssisted: true
-reviewer: "ashton-tan"
-reviewed: 2026-08-01
-reviewDue: 2027-08-01
-published: 2026-08-01
-publishedBy: "ashton-tan"
+reviewer: null
 version: "0.2"
 verificationNeeded:
   - "Exact establishment year of the ring-fenced Single Buyer (widely reported as 2012) — could not be confirmed against the Single Buyer's own site or the Energy Commission; the specific year has been removed pending a primary source."

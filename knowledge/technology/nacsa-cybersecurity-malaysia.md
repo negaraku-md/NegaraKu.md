@@ -1,4 +1,5 @@
 ---
+topicId: MY-TEC-0012
 title: "NACSA and CyberSecurity Malaysia: Who Does What"
 seoTitle: "NACSA vs CyberSecurity Malaysia — Roles Explained"
 slug: "nacsa-cybersecurity-malaysia"

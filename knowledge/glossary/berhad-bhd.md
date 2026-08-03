@@ -1,4 +1,5 @@
 ---
+topicId: MY-GLO-0034
 title: "Berhad (Bhd) — Public Limited Company"
 seoTitle: "Berhad (Bhd): What a Malaysian Public Limited Company Is"
 slug: "berhad-bhd"

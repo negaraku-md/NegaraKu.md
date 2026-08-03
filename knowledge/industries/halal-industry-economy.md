@@ -1,4 +1,5 @@
 ---
+topicId: MY-IND-0009
 title: "The Halal Industry and Malaysia's Global Halal Hub Ambition"
 seoTitle: "Malaysia Halal Industry: Parks, Financing and Global Hub Plan"
 slug: "halal-industry-economy"

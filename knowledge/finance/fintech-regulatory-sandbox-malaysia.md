@@ -1,4 +1,5 @@
 ---
+topicId: MY-FIN-0008
 title: "Fintech Regulation in Malaysia: The BNM and SC Regulatory Sandboxes"
 seoTitle: "Malaysia Fintech Regulatory Sandbox: BNM and SC Explained"
 slug: "fintech-regulatory-sandbox-malaysia"

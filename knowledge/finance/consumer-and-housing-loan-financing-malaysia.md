@@ -1,4 +1,5 @@
 ---
+topicId: MY-FIN-0003
 title: "How Bank Financing Works: Consumer and Housing Loans in Malaysia"
 seoTitle: "Consumer and Housing Loan Financing in Malaysia: SBR, DSR and Hire Purchase Explained"
 slug: "consumer-and-housing-loan-financing-malaysia"
@@ -82,7 +83,6 @@ sources:
     url: "https://www.ahpcm.com.my/hirePurchase.html"
     publisher: "Association of Hire Purchase Companies Malaysia"
 
-entity: null
 relations:
   - { rel: "administered-by", to: "bank-negara-malaysia" }
   - { rel: "governs", to: "overnight-policy-rate-malaysia" }

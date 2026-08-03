@@ -1,4 +1,5 @@
 ---
+topicId: MY-IND-0004
 title: "Industri Pembinaan Malaysia"
 seoTitle: "Industri Pembinaan Malaysia: Gred Kontraktor CIDB G1–G7 & Pendaftaran"
 slug: "construction-industry"

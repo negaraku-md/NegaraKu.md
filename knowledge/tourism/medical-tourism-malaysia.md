@@ -1,4 +1,5 @@
 ---
+topicId: MY-TOU-0010
 title: "Medical Tourism in Malaysia"
 seoTitle: "Medical Tourism in Malaysia: Hospitals, Procedures & MHTC"
 slug: "medical-tourism-malaysia"

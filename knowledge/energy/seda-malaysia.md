@@ -1,4 +1,5 @@
 ---
+topicId: MY-ENE-0015
 title: "SEDA Malaysia: Pihak Berkuasa Pembangunan Tenaga Lestari"
 seoTitle: "SEDA Malaysia — Peranan, FiT, NEM dan Solar ATAP"
 slug: "seda-malaysia"
