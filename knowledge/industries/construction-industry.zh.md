@@ -1,0 +1,230 @@
+---
+topicId: MY-IND-0004
+title: "马来西亚建筑业"
+seoTitle: "马来西亚建筑业：CIDB 承包商 G1–G7 等级与注册"
+slug: "construction-industry"
+category: "industries"
+subcategory: ["construction"]
+summary: "马来西亚建筑业如何获发牌照与组织架构的指南——CIDB 承包商 G1 至 G7 等级、520 号法令下的注册条件、工人绿卡，以及产业转型计划。"
+
+tier: "1"
+mode: "practical"
+contentType: "industry"
+sensitivity: "none"
+
+answer: "在马来西亚，每一名承包商在承接建筑工程之前，都必须依据 520 号法令第 25 条向马来西亚建筑工业发展局（CIDB）注册。本地承包商依据所允许的项目价值上限，分为 G1 至 G7 七个等级——从不超过 RM200,000（G1）到没有上限（G7）。工地工人则必须依据第 33 条持有建筑人员注册卡（绿卡）。"
+keyTakeaways:
+  - "依据 520 号法令第 25 条，承包商向 CIDB 注册是强制性的；违例者可被罚款 RM10,000 至 RM100,000。"
+  - "G1 等级仅限不超过 RM200,000 的项目，而 G7 则没有项目价值上限。"
+  - "新注册费用从 RM20（G1）到 RM1,400（G7）不等；续期收取该费用的 50%。"
+  - "建筑人员必须依据第 33 条注册并持有绿卡，且须通过安全入职课程（SICW）。"
+  - "马来西亚已完成建筑工程的价值在 2024 年达到 RM1,588 亿，比前一年增长 20.2%（DOSM）。"
+appliesTo: "承包商、发展商、工程师、建筑公司东主，以及任何想了解马来西亚建筑业如何受到监管的人士。"
+
+faq:
+  - q: "所有承包商都必须进行 CIDB 注册吗？"
+    a: "是的。依据 520 号法令第 25 条，所有承包商——无论本地或外国——在承接建筑工程之前都必须向 CIDB 注册。在没有有效注册的情况下承接工程属于违法，可被罚款 RM10,000 至 RM100,000。"
+  - q: "G1 与 G7 等级有什么区别？"
+    a: "等级决定了可承接项目的价值上限。G1 仅限不超过 RM200,000 的项目，而 G7 则没有项目价值上限。较高的等级要求更高的实收资本和更具资格的技术人员。"
+  - q: "什么是 CIDB 绿卡？"
+    a: "绿卡是依据 520 号法令第 33 条强制要求的建筑人员注册卡。每一名工地工人——从普通劳工到项目经理——在进入工地工作之前，都必须向 CIDB 注册并通过安全入职课程（SICW）。"
+  - q: "CIDB 承包商注册费用是多少？"
+    a: "根据 CIDB，新注册费用为 RM20（G1）、RM80（G2）、RM150（G3）、RM350（G4）、RM700（G5）、RM1,000（G6）及 RM1,400（G7）。若等级没有变动，续期收取注册费用的 50%。"
+  - q: "什么是国家建筑政策（NCP 2030）？"
+    a: "NCP 2030 是在 ICW 2021 上推出的政策，紧接建筑工业转型计划（CITP）2016–2020 结束之后。它列出六大战略支柱，以推动建筑领域在 2030 年前迈向数码时代，包括将 50% 产业周期数码化的目标。"
+
+lang: "zh"
+sourceContentHash: "77fa6bf333c3fa74"
+masterLanguage: "ms"
+translationStatus: "in-sync"
+
+status: "published"
+aiAssisted: true
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
+version: "0.2"
+verificationNeeded:
+  - "Definisi tepat kategori pendaftaran kontraktor CIDB (contohnya B, CE, ME, F) dan senarai kod pengkhususan di bawahnya — sahkan terhadap 'Manual Pengguna Pendaftaran Kontraktor' rasmi CIDB sebelum sebarang butiran kategori terperinci ditambah semula."
+  - "Sama ada Seksyen 25 Akta 520 dipinda pada 2011 (Akta A1403) — sahkan terhadap teks Akta 520 dan pindaannya yang rasmi."
+  - "Sama ada NCP 2030 secara rasmi menggantikan/menggantikan tempat CITP 2016–2020 — halaman NCP 2030 CIDB hanya merujuk CITP sebagai program terdahulu, bukan menyatakan hubungan penggantian formal."
+revisions:
+  - version: "0.1"
+    date: 2026-08-01
+    change: "Draf awal AI."
+    reviewer: null
+  - version: "0.2"
+    date: 2026-07-28
+    change: "Correction pass: buang definisi kategori tak bersumber, buang dakwaan pindaan 2011 & 'menggantikan CITP', lembutkan kepada struktur bersumber."
+    reviewer: null
+
+updated: 2026-08-01
+sources:
+  - title: "Pendaftaran Kontraktor (Contractor Registration)"
+    url: "https://www.cidb.gov.my/eng/contractor-registration/"
+    publisher: "Lembaga Pembangunan Industri Pembinaan Malaysia (CIDB)"
+  - title: "Soalan Lazim / FAQ — Had Tender Gred G1–G7"
+    url: "https://convince.cidb.gov.my/CMS/FAQ/1"
+    publisher: "CIDB Malaysia"
+  - title: "Soalan Lazim (FAQ) — Yuran Pendaftaran"
+    url: "https://www.cidb.gov.my/eng/faq/"
+    publisher: "CIDB Malaysia"
+  - title: "Construction Personnel Registration (Pendaftaran Personel Binaan)"
+    url: "https://www.cidb.gov.my/eng/construction-personnel-registration/"
+    publisher: "CIDB Malaysia"
+  - title: "Akta 520 Lembaga Pembangunan Industri Pembinaan Malaysia (CIDB)"
+    url: "https://www.cidb.gov.my/eng/act-520-of-the-malaysian-construction-industry-development-board-cidb/"
+    publisher: "CIDB Malaysia"
+  - title: "National Construction Policy (NCP 2030)"
+    url: "https://www.cidb.gov.my/eng/national-construction-policy-ncp-2030/"
+    publisher: "CIDB Malaysia"
+  - title: "Construction Statistics, Fourth Quarter 2024"
+    url: "https://www.dosm.gov.my/portal-main/release-content/construction-statistics-fourth-quarter-2024"
+    publisher: "Jabatan Perangkaan Malaysia (DOSM)"
+
+entity: "Lembaga Pembangunan Industri Pembinaan Malaysia (CIDB)"
+relations:
+  - { rel: "administered-by", to: "cidb" }
+  - { rel: "governs", to: "cidb-act-520" }
+related: ["cidb", "cidb-act-520"]
+keywords: ["industri pembinaan", "CIDB", "gred kontraktor", "G1 G7", "Akta 520", "kad hijau", "pendaftaran kontraktor", "NCP 2030", "CITP"]
+---
+
+试着在没有持有承包商注册证书的情况下建造一道价值 RM250,000 的校园围栏，你的项目就可能被立即勒令停工——甚至在第一根柱子还没埋下之前。在马来西亚，建造的权利并非从机器或劳工开始；它从一份注册开始。
+
+国家的建筑业是一个从头到尾受到严格监管的领域：谁可以投标、可以承接多大价值的项目、谁可以站在工地上、可以安装什么材料——全都系于一个法定机构，CIDB。本文阐述这套架构：G1 至 G7 的等级制度、注册条件、工人卡，以及产业转型的方向。
+
+## 谁必须在建造之前注册？
+
+起点是 **520 号法令**，即 1994 年马来西亚建筑工业发展局法令。这项法令设立了 CIDB，并赋予三大核心职责：通过承包商与建筑人员的注册以及技能认证来提升建筑水平；确保建筑材料的品质符合标准；以及将建筑安全的责任落在承包商和工地经理身上。
+
+对任何建筑公司而言，最重要的条文是 **第 25 条**。依据这一条，每一名承包商——无论本地或外国——在承接及完成马来西亚境内任何建筑工程之前都必须向 CIDB 注册，获豁免者除外。
+
+这并非单纯的行政手续。根据 CIDB，违反第 25 条的承包商一经定罪，可被罚款 **不少于 RM10,000 且不超过 RM100,000**。除此之外，该局有权发出书面通知，指令承包商停止开始或继续建筑工程。这意味着注册不是可以"稍后"处理的事——它必须在工程开始之前就已存在。
+
+注册获批后，承包商会领取 **承包商注册证书（PPK）**。想投标政府项目的承包商则另需 **政府工程采购证书（SPKK）**。
+
+## G1 至 G7 承包商等级如何运作？
+
+本地承包商并非一视同仁。他们分为七个等级，而正是这个等级决定了可投标的 **项目价值上限**。等级越高，允许的项目就越大。
+
+根据 CIDB，各等级的投标上限如下：
+
+| 等级 | 允许的项目价值上限 |
+| --- | --- |
+| G1 | 不超过 RM200,000 |
+| G2 | 不超过 RM500,000 |
+| G3 | 不超过 RM100 万 |
+| G4 | 不超过 RM300 万 |
+| G5 | 不超过 RM500 万 |
+| G6 | 不超过 RM1,000 万 |
+| G7 | 没有上限 |
+
+G1 是小型公司和新创业者的入门门槛——房屋提升工程、小型工地工作、轻型分包。G7 则是顶端：没有价值上限，向大型项目如高速公路、医院和摩天大楼敞开大门。CIDB 强调，G1 至 G7 的等级分类仅适用于本地承包商；外国承包商没有等级分类。
+
+较高的等级伴随更严苛的条件。除了工作记录，高等级要求更大的实收资本和更具资格的技术人员（例如最高等级要求文凭、学位持有者或专业工程师）。这确保了投标数千万令吉项目的公司真正具备完成项目所需的财务和技术能力。
+
+注册费用则依等级而有所不同。根据 CIDB，新注册的费率为：
+
+| 等级 | 新注册费用 |
+| --- | --- |
+| G1 | RM20 |
+| G2 | RM80 |
+| G3 | RM150 |
+| G4 | RM350 |
+| G5 | RM700 |
+| G6 | RM1,000 |
+| G7 | RM1,400 |
+
+续期收取 **注册费用的 50%**，前提是所涉及的等级没有变动。
+
+## 注册的类别与专业分项是什么？
+
+等级回答的是"多大"的问题。但 CIDB 也会问"什么工作"。每一名承包商注册时不仅按等级，也按工作 **类别** 以及各类别之下更细的 **专业代码** 来注册。
+
+一般而言，注册类别涵盖不同的工作领域——其中包括建筑物工程、土木工程、机械与电气工程，以及设施工程。每一类别的确切定义及其之下的完整专业代码清单，载于 CIDB 的承包商注册手册中，由于会不时更新，应直接查阅官方来源核实。
+
+一家公司若符合条件，可以在多于一个类别下注册。这套分层结构——等级、类别、专业分项——意味着一份招标通常会指定投标者必须持有的确切组合。搞错类别的承包商即使等级够高，也不符合资格。
+
+## 工地工人也需要注册吗？
+
+需要——而这一点常被忽略。注册的不只是公司；**工地上的个人也一样**。
+
+依据 **520 号法令第 33(1) 条**，一个人不得作为建筑人员参与或从事工作，除非他已向该局注册。这项注册通过建筑人员注册卡来证明，也就是更为人熟知的 **绿卡（Kad Hijau）**。
+
+"建筑人员"的范围很广。它涵盖：
+
+- 普通建筑工人
+- 半熟练建筑工人
+- 熟练建筑工人
+- 建筑工地监督
+- 建筑项目经理
+
+要注册，申请人必须年满 **16 岁**，并持有获认可的安全证书，例如 **建筑工人安全与健康入职课程（SICW）** 或其电子学习版本。新注册的卡片仅打印一次，并在付款后 **14 天** 内寄出。
+
+这项条件让安全成为进入工地的入场券：没有安全入职，就没有卡；没有卡，就不能工作。对承包商而言，这意味着合规不仅仅关乎公司牌照，更要确保工地上的每一个人都持有有效的卡。
+
+## 马来西亚建筑业规模有多大？
+
+这套严格的监管架构支撑着一个庞大且快速增长的领域。根据马来西亚统计局（DOSM），马来西亚 **已完成建筑工程的价值** 在 **2024 年达到 RM1,588 亿**，比前一年增长 **20.2%**。
+
+这股势头在年末最为明显。单单在 2024 年第四季，已完成工程的价值就达到 **RM420 亿**，比一年前增长 **23.1%**。
+
+2024 年第四季按子领域划分的分布，显示了活动集中在哪里：
+
+| 子领域 | 价值（2024 年第四季） | 占比 | 增长 |
+| --- | --- | --- | --- |
+| 土木工程 | RM156 亿 | 37.2% | 9.3% |
+| 非住宅建筑 | RM118 亿 | 28.0% | 24.6% |
+| 住宅建筑 | RM99 亿 | 23.5% | 38.9% |
+| 特殊行业活动 | RM47 亿 | 11.3% | 44.9% |
+
+从该季的资金来源来看，**私人领域贡献 RM270 亿（64.2%）**，增长 32.9%，而 **公共领域贡献 RM151 亿（35.8%）**，增长 8.8%。这描绘出一个如今更多由私人投资驱动、而非单靠政府开支的产业。
+
+土木工程在价值上仍是最大支柱——反映了大规模的基础设施项目——但住宅和特殊行业子领域录得最迅猛的增长，标志着建筑需求和专门工程的复苏。
+
+## 这个行业正在如何变化？
+
+通过注册进行监管只是其中一层。第二层是 **转型**——持续努力提升这个领域的生产力、安全和品质。
+
+第一份全面的路线图是 **建筑工业转型计划（CITP）2016–2020**。CITP 引入了如今已成为行业参照的评估工具：**QLASSIC** 用于评估建筑工程的品质，**SHASSIC** 用于评估工地的安全与健康。它两个主要的生产力推手是 **建筑信息模型（BIM）** 和 **工业化建筑系统（IBS）**——从现场浇筑的方式转向工厂预制的构件。
+
+在 CITP 期限结束后，CIDB 于 2021 年的国际建筑周（ICW）上推出了 **国家建筑政策（NCP 2030）**。NCP 2030 将焦点转向数码化时代，并依据 **六大战略支柱** 来组织：
+
+1. 加强项目表现中的品质与安全
+2. 打造可持续的建筑环境
+3. 提升建筑生产力
+4. 加强基础设施维护
+5. 加强国际化与竞争力
+6. 加强良好治理与最佳实践
+
+NCP 2030 也设定了 2030 年前的五项目标成果，其中包括 **将 50% 产业周期数码化**、与联合国可持续发展目标接轨，以及将基础设施维护打造成新的经济活动。它建立在工业革命 4.0（IR 4.0）的九大支柱之上，发出明确的信号：马来西亚建筑业的未来是数据、自动化和可持续性。
+
+## 你应该选择哪个等级？
+
+对刚入行的公司而言，选择正确的注册等级是一项战略决定，而不是单纯取能达到的最高等级。以下这套简单的框架或许有帮助：
+
+- **从项目的现实出发，而非雄心。** 如果你未来两年内的工作价值在 RM200,000 以下，G1 已足够起步。为无法维持其条件的高等级付费，只会在日后续期时给自己添麻烦。
+- **让类别匹配实际工作。** 从事道路工程的公司必须在土木工程类别下注册，而非建筑物类别。搞错类别就意味着即使等级足够也无法投标。
+- **规划升级路径。** 提升等级要求更大的实收资本和具资格的技术人员。如果你的目标是三年内承接 RM300 万（G4）的项目，那么现在就开始积累工作记录并保存财务文件。
+- **及早考虑政府项目。** 如果你瞄准公共招标，单靠 PPK 并不足够——你需要 SPKK。请在第一份招标开放之前就规划好这一点。
+- **把国际化纳入考量。** NCP 2030 强调海外竞争力；有志进军区域市场的公司，应从早期就建立与品质标准（QLASSIC）和安全标准（SHASSIC）相符的能力。
+
+## 应避免的常见错误
+
+几个反复出现的错误常困住建筑公司，尤其是新入行者：
+
+- **在注册获批之前就开工。** 第 25 条要求在承接工程 *之前* 注册。提早开始会让你面临 RM10,000–RM100,000 的罚款和停工通知。
+- **在等级上限之外投标。** G3 承包商不能承接 RM200 万的项目。超出等级上限投标会使投标无效，并可能损害注册声誉。
+- **忘了工人的绿卡。** 许多人专注于公司牌照，却错过了第 33 条的条件。工地上的每一个人，包括监督和项目经理，都必须持有有效的卡并通过 SICW。
+- **让注册过期。** 注册需要续期；任其到期就意味着丧失投标资格，直到恢复为止。续期（费用的 50%）比工程停顿的风险来得便宜。
+- **类别与专业分项错配。** 持有高等级并不代表你有资格从事所有类型的工作。请确保类别和专业代码符合所瞄准的招标。
+- **把转型当成可选项。** 随着 NCP 2030 推动 BIM、IBS 和数码化，不愿适应的公司在越来越要求这些能力的大型项目招标中，有落后的风险。
+
+## What's next
+
+如果你打算进入或在这个行业中扩展，最实际的一步是先检视自己的注册状况。通过 CIDB 的在线系统确认你公司的等级、类别和专业分项，并确保每一名工地人员都持有有效的绿卡。
+
+要理解支撑这一切的法律框架，请进一步阅读关于 **520 号法令** 和 **CIDB** 作为主要监管机构角色的内容。两者都阐明了这里所讨论的等级制度和注册条件背后的权力来源。
+
+本文中的数字和条件取自 CIDB 与马来西亚统计局的官方出版物。费率、等级上限和资本条件可能不时修订——在做出任何注册或投标决定之前，请务必直接向 CIDB 核实最新详情。
