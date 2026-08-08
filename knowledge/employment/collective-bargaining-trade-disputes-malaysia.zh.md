@@ -1,0 +1,168 @@
+---
+topicId: MY-EMP-0048
+title: "集体谈判与劳资纠纷：《劳资关系法令》下的程序"
+seoTitle: "马来西亚集体谈判与劳资纠纷（第177号法令）"
+slug: "collective-bargaining-trade-disputes-malaysia"
+category: "employment"
+subcategory: ["union"]
+summary: "工会如何取得承认与独家谈判权，集体协议如何谈判并由劳资法庭（Industrial Court）予以确认（cognizance），以及在《1967年劳资关系法令》下罢工、闭厂（lockout）与纠察（picket）何时获准。"
+
+tier: "2"
+mode: "practical"
+contentType: "guide"
+sensitivity: "none"
+
+answer: "《1967年劳资关系法令》（第177号法令，Act 177）设定了一套固定流程：工会向雇主提出承认要求（须在21天内答复），若有多个工会获承认则取得独家谈判权，然后通过书面邀请启动集体谈判。达成的集体协议必须至少生效三年，并在经劳资法庭（Industrial Court）确认（cognizance）后作为裁决（award）具有约束力。若谈判陷入僵局，劳资关系局（Jabatan Perhubungan Perusahaan）进行调解，劳资关系总监（Ketua Pengarah Perhubungan Perusahaan / Director-General）可将纠纷转交劳资法庭（此项权力由2020年修订从部长转移，自2021年1月1日生效）。罢工、闭厂与纠察仅在有限情形下合法，且在某些程序进行期间完全被禁止。"
+keyTakeaways:
+  - "雇主须在21天内答复书面承认要求；否则工会可在14天内向劳资关系总监（Director-General）报告（第9条）。"
+  - "当有多于一个工会获承认时，独家谈判权由工会自行决定，或由总监（Director-General）通过不记名投票裁定（第12A条）。"
+  - "集体协议必须至少生效三年，并在经劳资法庭确认后作为裁决具有约束力（第14条及第17条）。"
+  - "谈判建议不得触及管理层特权事项，例如晋升、调动、招聘、裁员、开除以及职务分配（第13(3)条）。"
+  - "纠纷转交劳资法庭后禁止罢工与闭厂；在必要服务（essential services）领域，须提前42天发出罢工通知（第43条及第44条）。"
+appliesTo: "在马来西亚处理工会承认、集体协议谈判或劳资行动的员工、工会官员、雇主，以及人力资源从业者。"
+
+faq:
+  - q: "雇主须在多久内答复工会的承认要求？"
+    a: "在要求送达后21天内，雇主须给予承认，或以书面通知工会拒绝的理由（第9(3)条）。"
+  - q: "一份集体协议的最短期限是多久？"
+    a: "自其开始生效之日起至少三年（第14(2)(b)条）。任何低于成文法所定利益的条款，在该范围内无效。"
+  - q: "工会可以就开除或晋升进行谈判吗？"
+    a: "不可作为集体协议建议提出。晋升、调动、招聘、裁员、开除以及职务分配等事项作为管理层特权被排除在外（第13(3)条），尽管有关这些事项的一般性问题仍可在讨论中提出。"
+  - q: "罢工在什么情况下属于违法？"
+    a: "其中包括：违反第43条或第44条时（例如在纠纷转交劳资法庭之后，或触及已被集体协议或裁决所涵盖的事项），或罢工并非为了推进某项劳资纠纷（第45条）。"
+  - q: "罢工前是否需要不记名投票？"
+    a: "需要。根据《1959年工会法令》（第25A条），须进行不记名投票。修订后，所需门槛降低至过半数赞成票，且至少有60%具投票资格的会员参与投票，而此前要求三分之二多数。"
+
+lang: "zh"
+sourceContentHash: "2aef2d20f97f7558"
+masterLanguage: "ms"
+translationStatus: "in-sync"
+
+status: "published"
+aiAssisted: true
+reviewer: "ashton-tan"
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
+version: "0.2"
+revisions:
+  - version: "0.1"
+    date: 2026-08-08
+    change: "Initial AI draft."
+    reviewer: null
+  - version: "0.2"
+    date: 2026-08-08
+    change: "Correction pass: referral to Industrial Court reassigned from Minister to Director-General per IR (Amendment) Act 2020 (in force 1 Jan 2021); s.46 penalty updated to note imprisonment removed while RM5,000 + RM50/day fine verified; softened unsourced 'tulang belakang' conciliation claim; added section-number sourcing note."
+    reviewer: null
+
+verificationNeeded:
+  - "Whether the appointment of a Board of Inquiry (Lembaga Siasatan) and the emergency stop-strike power under s.44A remain with the Minister after the 2020 amendment, or were also transferred to the Director-General."
+  - "Exact current wording and subsection numbering of s.26 after the 2020 amendment (the referral power now vests in the Director-General; confirm whether the old s.26(1)/(2) joint-request vs own-motion structure was renumbered)."
+  - "That every section number and period cited (s.9(3) 21 days, s.9(4) 14 days, s.12A/12B, s.13(2) 90 days, s.13(4) 14 days, s.13(5) 30 days, s.14(2)(b) 3 years, s.16(1) 1 month, s.40(3) RM5,000, s.43 42/21 days, s.46 RM5,000 + RM50/day) matches the current consolidated Act 177 text, as the official PDF is image-based and could not be machine-verified line by line."
+  - "Trade Unions Act 1959 s.25A secret-ballot threshold (more than half of votes with at least 60% of eligible members voting) reflects the current in-force text after the 2022 amendments."
+
+updated: 2026-08-08
+sources:
+  - title: "Industrial Relations Act 1967 (Act 177) — official text"
+    url: "https://www.investmalaysia.gov.my/media/d32lepas/industrial-relations-act-1967.pdf"
+    publisher: "InvestMalaysia / MIDA"
+  - title: "Industrial Relation — setting up business content"
+    url: "https://www.mida.gov.my/setting-up-content/industrial-relation/"
+    publisher: "Malaysian Investment Development Authority (MIDA)"
+  - title: "Industrial Relations Act 1967 amended to expedite dispute resolution processes"
+    url: "https://www.allenandgledhill.com/publication/articles/17815/industrial-relations-act-1967-amended-to-expedite-dispute-resolution-processes"
+    publisher: "Allen & Gledhill"
+  - title: "2022 Amendments to the Trade Unions Act 1959"
+    url: "https://dnh.com.my/2022-amendments-to-the-trade-unions-act-1959/"
+    publisher: "Donovan & Ho"
+
+entity: "Industrial Relations Act 1967"
+relations:
+  - { rel: "governs", to: "trade-unions-malaysia" }
+  - { rel: "related-to", to: "unfair-dismissal-industrial-court-malaysia" }
+  - { rel: "administered-by", to: "department-of-industrial-relations-malaysia" }
+related: ["trade-unions-malaysia", "unfair-dismissal-industrial-court-malaysia", "employment-act-1955-malaysia"]
+keywords: ["rundingan kolektif", "perjanjian kolektif", "pertikaian perusahaan", "hak rundingan tunggal", "pengiktirafan kesatuan", "mogok", "sekat masuk", "piket", "Akta Perhubungan Perusahaan 1967", "Mahkamah Perusahaan"]
+---
+
+一名希望雇主坐下来协商薪资的员工，不能仅仅提出请求——有一套法定流程必须走完，而每一个步骤都有其自身的截止期限。这套流程载于《1967年劳资关系法令》（第177号法令，Act 177），由马来西亚劳资关系局（Jabatan Perhubungan Perusahaan Malaysia，JPPM）执行，它决定了谁可以谈判、可以谈判什么，以及罢工等劳资行动何时获准。
+
+## 工会如何取得承认？
+
+一切都始于承认。希望代表某一群员工的工会，须以规定的表格向雇主提出书面**承认要求**（第9(2)条）。
+
+雇主有**21天**时间采取行动（第9(3)条）：或给予承认，或以书面通知工会拒绝的理由。若承认被拒，或雇主在该期限内完全不作答复，工会可在**14天**内将此事报告给劳资关系总监（Director-General）（第9(4)条）。若未作出报告，该要求视为已被撤回。
+
+总监随后调查工会的会籍范围，并通过**不记名投票**衡量员工对该工会的支持程度（第9(4A)条）。根据该调查，总监作出裁定；若裁定应给予承认，则视为雇主已给予承认（第9(5)条）。
+
+在第9条下的承认程序进行期间，法律约束双方：员工不得罢工，雇主不得宣布闭厂或终止员工的服务（第10条），但受制于某些例外情形，例如纪律处分或定期合约届满。
+
+## 当有多个工会时，什么是独家谈判权？
+
+有时不止一个工会获承认代表同一群员工。这就是**独家谈判权**（*sole bargaining rights*）的用武之地。只有一个工会能持有代表该群体进行谈判的权利（第12A条）。
+
+相关工会可以**自行决定**由其中哪一个持有该权利，并通知总监。若无法达成一致，任何一方——雇主或工会——均可书面申请总监予以裁定。总监通过**不记名投票**解决，得票最高的工会取得独家谈判权（第12A(2)条及第(4)条）。一经取得，该权利在**三年内**保持独家，除非该工会已不复存在（第12B条）。
+
+## 集体谈判如何启动，以及可以谈判什么？
+
+在工会持有谈判权后，它（或雇主）可以**邀请**另一方启动集体谈判。该邀请须为书面，并列明集体协议的**建议**（第13(1)条及第(2)条）。若已有仍在生效的集体协议，则邀请只能在其到期日前**90天或更短**的期间内提出。
+
+然而并非所有事项都开放供谈判。工会**不得**就以下管理层特权事项提出建议（第13(3)条）：
+
+- 将员工晋升至更高等级或类别；
+- 在组织内调动员工（只要不损害其雇佣条款）；
+- 招聘任何人以填补空缺；
+- 因裁员或重组而进行的遣散；
+- 开除及复职员工；以及
+- 分配或指派符合雇佣条款的特定职务。
+
+有关这些事项的一般性问题仍可在讨论中提出，但不得成为正式建议的一部分。
+
+下表总结了此流程中的主要时限：
+
+| 步骤 | 时限／条件 | 条文 |
+| --- | --- | --- |
+| 雇主答复承认要求 | 21天 | 9(3) |
+| 若被拒，工会向总监报告 | 14天 | 9(4) |
+| 若已有现有协议，发出谈判邀请 | 到期前90天或更短 | 13(2) |
+| 对谈判邀请作出接受／拒绝的答复 | 14天 | 13(4) |
+| 接受邀请后开始谈判 | 30天 | 13(5) |
+| 向注册官（Registrar）存档集体协议 | 1个月 | 16(1) |
+| 集体协议的最短期限 | 3年 | 14(2)(b) |
+| 必要服务领域的罢工／闭厂通知 | 42天 | 43 |
+
+本表以及本文全篇所引用的每一项时限、门槛与条文编号，均引自来源中所列《1967年劳资关系法令》（第177号法令，Act 177）的官方文本，除特别注明与2020年修订相关的变动外。
+
+若邀请被拒、在14天内未获答复，或谈判未在30天内开始，发出邀请的一方可通知总监，总监可采取措施促使双方进行谈判（第13(6)条）。若拒绝持续，则就该邀请中的事项**视为存在劳资纠纷**（第13(7)条）。
+
+## 集体协议如何具有约束力？
+
+集体协议须为书面并经签署，且列明其生效期限——该期限**不少于三年**（第14条）。任何低于成文法所定利益的条款，在该范围内无效，并由法律条文取而代之。
+
+已签署的副本须在**一个月**内一并向劳资法庭注册官（Registrar of the Industrial Court）存档，注册官将其提交法庭予以**确认**（*cognizance*）（第16(1)条）。若协议不符合第14条，法庭可拒绝确认或要求修改。
+
+一经确认，该集体协议即**视为一项裁决（award）**，并对相关各方以及在有关企业（undertaking）中受雇或此后受雇的**所有员工**具有约束力（第17(1)条）。其中的薪资率与雇佣条件成为雇佣合约中的**默示条款**（第17(2)条）。
+
+## 谈判陷入僵局时会怎样？
+
+当劳资纠纷存在或预期发生时，可将其报告给总监，总监采取**调解**（*conciliation*）措施，以尽快促成解决（第18条）。调解是纠纷转交法庭之前的主要解决阶段。
+
+若调解失败，纠纷可转交**劳资法庭（Industrial Court）**。自《劳资关系（修订）法令2020》于**2021年1月1日**生效以来，将纠纷转交劳资法庭的权力已由人力资源部长转移至**劳资关系总监（Director-General）**。然而对于涉及**拒绝谈判或谈判僵局**的纠纷，转交须经双方书面同意——除非它涉及首份集体协议、《第一附表》中的必要服务、可能导致急性危机的情形，或某一方并未以诚信行事（第26(2)条的新但书）。劳资法庭作出的裁决为最终并具约束力。
+
+## 罢工、闭厂与纠察何时获准？
+
+马来西亚法律仅在狭窄的空间内允许劳资行动。**纠察**（picket）仅在以下情况下合法：以和平方式进行，以获取或传达信息，或劝说员工工作或不工作——且人数或方式不得意在恐吓、阻碍通道或引发斗殴（第40(1)条）。违反这些限制属于犯罪，可处最高**RM5,000**罚款（第40(3)条）。
+
+在若干情形下，**罢工**与**闭厂**完全被禁止（第44条），其中包括：
+
+- 在部长委任的调查委员会（Lembaga Siasatan / Board of Inquiry）程序进行期间，以及其后七天内；
+- 在纠纷转交劳资法庭且各方已获通知之后；
+- 就已被经法庭确认的集体协议或某项裁决所涵盖的事项；以及
+- 就第13(3)条下的管理层特权事项。
+
+在《第一附表》所列的**必要服务**（*essential services*）领域，罢工或闭厂须发出**42天通知**，且不得在该通知发出后的**21天**内开始（第43条）。违反第43条或第44条的罢工，或并非为推进劳资纠纷的罢工，视为**违法**（第45条）。2020年修订之后，第46条下的处罚为最高**RM5,000**罚款，并就该犯罪持续的**每一天**加处**RM50**罚款；此前所设的监禁刑罚已被废除。若罢工或闭厂危及公众生命或健康，部长亦可下令其停止（第44A条）。
+
+除《第177号法令》外，在进行罢工之前，**《1959年工会法令》**（第25A条）要求进行**不记名投票**。修订后，赞成门槛降低至**过半数**赞成票，且至少有60%具投票资格的会员参与投票——而此前要求三分之二多数的门槛。
+
+## 接下来该做什么
+
+若你是工会官员，第一个实际步骤是确保承认要求以正确的表格提出，并保留日期记录——因为21天与14天的期限是绝对的。若你是雇主，应在期限内以书面答复要求，以免此事转入总监之手。对双方而言，都应参阅《1967年劳资关系法令》与《1959年工会法令》的完整文本以获取准确细节，并在采取任何劳资行动前寻求劳资法律意见。若想了解相关流程，请参阅我们关于**不公平解雇与劳资法庭**以及**马来西亚工会**的文章。
