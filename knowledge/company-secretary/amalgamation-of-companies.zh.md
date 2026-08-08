@@ -1,0 +1,153 @@
+---
+topicId: MY-CS-0046
+title: "《2016年公司法令》下的公司合并"
+seoTitle: "马来西亚公司合并（CA 2016 第366及370条）"
+slug: "amalgamation-of-companies"
+category: "company-secretary"
+subcategory: ["amalgamation"]
+summary: "马来西亚没有快速通道式的法定合并程序。两家或以上公司须依据《2016年公司法令》第366条及第370条，通过法院批准的安排方案（scheme of arrangement）进行合并，需获得75%的表决通过，并将法院命令副本呈交马来西亚公司委员会（SSM）。"
+
+tier: "2"
+mode: "practical"
+contentType: "guide"
+sensitivity: "none"
+
+answer: "与新加坡或新西兰不同，马来西亚没有简式的法定合并程序。两家或以上公司须依据《2016年公司法令》第366条及第370条，通过法院批准的安排方案（scheme of arrangement）进行合并。该方案须获得出席并表决的成员或债权人总价值75%的多数通过、高等法院的批准，并在生效前将法院命令的正式副本呈交公司注册官（SSM）。"
+keyTakeaways:
+  - "马来西亚的公司合并是通过《2016年公司法令》第2次分部（第365至371条）中的安排方案机制进行的——并无独立的一步式合并条文；两个核心操作条文为第366条及第370条。"
+  - "批准须获得在法院命令召开的会议上出席并表决的该类别总价值75%的多数（第366(3)条），随后再获法院批准。"
+  - "第370条允许法院将转让公司（transferor）的业务、财产及负债归属于承让公司（transferee），并在不进行清盘的情况下解散转让公司。"
+  - "在方案命令的正式副本呈交注册官之前，该命令不具效力（第366(5)条）；第370条命令须在七日内呈交（第370(4)条）。"
+appliesTo: "为并购、集团重组或马来西亚公司间业务转让进行架构设计的公司秘书、董事及顾问。"
+
+faq:
+  - q: "《2016年公司法令》是否像新加坡那样设有一步式法定合并程序？"
+    a: "没有。马来西亚《2016年公司法令》没有那种董事会仅需通过决议即可完成的简式合并。公司须依据第366条及第370条，通过法院批准的安排方案进行合并，这需要法院命令召开会议、获得75%表决通过，以及高等法院的批准。"
+  - q: "批准合并方案需要多少表决门槛？"
+    a: "第366(3)条要求，妥协或安排须获得在法院命令召开的会议上亲自或委托代理出席并表决的债权人或成员（或相关类别）总价值75%的多数同意，随后再获法院命令批准。"
+  - q: "法院能否自动转让资产并解散转让公司？"
+    a: "可以。根据第370(2)条，法院可命令将转让公司的业务、财产及负债转让予承让公司，并在不进行清盘的情况下解散转让公司。财产凭借该命令即告归属（第370(3)条）。"
+  - q: "安排方案何时生效？"
+    a: "第366条命令在正式副本呈交注册官（SSM）之前不具效力；此后自呈交之日或法院指定的更早日期起生效（第366(5)条）。第370条命令也须在七日内呈交注册官（第370(4)条）。"
+  - q: "即便是全资的内部重组，是否也一律须召开法院会议？"
+    a: "第366(1)条设想的是召开受影响类别的法院命令会议，而第370条的归属命令以依据第366条批准的方案为前提。在结果并无真正争议时法院能否豁免召开会议，是从业者提出的一个悬而未决的问题，答案取决于具体事实。切勿假设可以省略会议；请就具体架构征询马来西亚的法律意见。"
+
+lang: "zh"
+sourceContentHash: "c7201bb6830e2b18"
+masterLanguage: "en"
+translationStatus: "in-sync"
+
+status: "published"
+aiAssisted: true
+reviewer: "ashton-tan"
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
+version: "0.2"
+revisions:
+  - version: "0.1"
+    date: 2026-08-07
+    change: "Initial AI draft."
+    reviewer: null
+  - version: "0.2"
+    date: 2026-08-07
+    change: "Correction pass: fixed source 2 title and source 3 attribution (law firm, not aggregator), softened uncited scheme-meeting claim, and aligned the section range."
+    reviewer: null
+
+verificationNeeded:
+  - "Whether a section 366(1) scheme meeting can be dispensed with for a wholly-owned or uncontested internal reorganisation - a contested, fact-sensitive interpretive point; confirm current Malaysian court guidance before relying on either position."
+  - "Whether section 371 (90% compulsory acquisition threshold) and its interaction with an asset-based amalgamation is correctly characterised for the reader's specific deal."
+  - "That the SSM consolidated Companies Act 2016 PDF cited remains the current in-force text at time of use (check for later amendments)."
+
+updated: 2026-08-07
+sources:
+  - title: "Companies Act 2016 (Act 777), Subdivision 2 - Arrangements and Reconstructions, ss.365-371"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+  - title: "Scheme of Arrangement Under Section 366: A Guide for Malaysian Companies"
+    url: "https://www.saifudinco.com/insights/scheme-of-arrangement-section-366-malaysia"
+    publisher: "Saifudin & Co"
+  - title: "Introduction to a Scheme of Arrangement under the Companies Act 2016"
+    url: "https://www.mondaq.com/corporate-and-company-law/1188694/introduction-to-a-scheme-of-arrangement-under-the-companies-act-2016"
+    publisher: "MahWengKwai & Associates"
+    author: "Hannah Patrick"
+    note: "Article is framed around the insolvency / debt-restructuring use of section 366, not amalgamation."
+
+entity: "Companies Act 2016"
+relations:
+  - { rel: "governs", to: "scheme-of-arrangement" }
+  - { rel: "administered-by", to: "ssm" }
+  - { rel: "related-to", to: "members-voluntary-winding-up" }
+related: ["scheme-of-arrangement", "companies-act-2016", "ssm"]
+keywords: ["amalgamation", "scheme of arrangement", "section 366", "section 370", "Companies Act 2016", "reconstruction", "merger Malaysia", "SSM", "75 percent threshold", "vesting order"]
+---
+
+如果你期望两家马来西亚公司能像在新加坡或新西兰那样合并——董事会通过一项决议，一个法律实体一夜之间吸收另一个——那么你会发现你要找的条文根本不存在。《2016年公司法令》没有简式的法定合并程序。要在这里合并两家或以上公司，你得走高等法院这条路。
+
+这条路径位于法令的第2次分部"安排与重组"（Arrangements and Reconstructions）之内，涵盖第365至371条。用来通过债务妥协拯救一家资不抵债公司的同一套机制，也正是用来合并两家有偿付能力公司的机制。所不同的，是方案的内容以及你请求法院作出的附带命令。
+
+## 依据法令，合并实际上如何运作？
+
+合并以"妥协或安排"（compromise or arrangement）的形式提出，并提交给由法院命令召开的受影响成员或债权人会议表决。繁重的工作分散在三个相互关联的条文中：
+
+- **第366条**是引擎——法院命令召开会议，该类别进行表决，法院批准该方案。
+- **第367条**允许法院委任一名核准清算人评估方案的可行性并向会议报告。
+- **第370条**提供合并专用的工具：将一家公司的业务、财产及负债转让予另一家公司，并在不进行清盘的情况下解散第一家公司。
+
+第365条界定相关词汇。"安排"（arrangement）明确包括股本的重组。"转让公司"（transferor company）是其业务或财产被转移的那一家；"承让公司"（transferee company）是接收方。
+
+## 你所依据的是哪些条文？
+
+| 条文 | 边注标题 | 作用 |
+|---|---|---|
+| 365 | 释义 | 界定本分部中的"安排"、"公司"、转让公司与承让公司。 |
+| 366 | 法院命令妥协或安排的权力 | 法院命令召开会议、设定75%门槛，并批准具约束力的方案。 |
+| 367 | 法院委任核准清算人的权力 | 法院可委任清算人评估可行性；其报告在第366条会议上提交。 |
+| 368 | 法院制止法律程序的权力 | 在方案正式确立期间给予暂缓（制止令，moratorium）。 |
+| 369 | 关于妥协或安排的资料 | 要求随会议通知一并寄发解释性声明。 |
+| 370 | 公司的重组与合并 | 法院归属命令：转让资产/负债、在不清盘的情况下解散转让公司。 |
+| 371 | 要约人的强制收购权 | 在股份转让中对异议股东进行90%强制挤出（squeeze-out）。 |
+
+## 75%门槛是什么，它约束什么？
+
+表决是整个流程的枢纽。根据第366(3)条，妥协或安排只有在获得亲自或委托代理出席并表决的债权人或某类别债权人、或成员或某类别成员"总价值百分之七十五的多数"同意——并随后获法院命令批准——之后，方具约束力。
+
+有两个特征容易被忽略。第一，这75%是按实际出席并表决者的*价值*计算，而非按人头计算。第二，法院批准是一道独立的、第二重的关卡：即便是一致通过的表决，在法院批准之前也不构成方案。同样的75%价值比例，也适用于第366(2)条下会议的延期。
+
+一旦两道关卡都跨过，该方案便约束该类别中的每一名成员和债权人——包括那些投了反对票或未出席者。这种"强制约束"（cram-down）效果，正是法院如此严密监督整个流程的原因。
+
+## 谁可以启动它，以及要跑几趟法院？
+
+第366(1)条下的申请可由公司、任何债权人或成员、清算人（若公司正在清盘中）、或司法管理人（若公司处于司法管理之下）提出。实务上，合并是一个两阶段的法院程序：
+
+1. **准予召开会议（Leave to convene）。** 申请人请求法院命令召开会议并厘定各类别的组成方式。
+2. **批准（Sanction）。** 在该类别以75%门槛表决通过后，申请人再次前往法院，由法院审查并批准该方案。
+
+在会议之前，第369条要求会议通知须附有一份解释性声明，说明方案的效果以及董事的任何重大利益。在成员决议如此指示的情况下，第366(8)条要求会计师或律师就有关建议作出报告，并须在会议前至少七日于注册办事处备妥该报告以供查阅。
+
+## 在合并中法院可以作出哪些命令——第370条工具箱
+
+第370条正是将一份单纯的方案转化为一次实际运作的合并的关键。在法院信纳该安排是为重组或两家或以上公司的合并之目的时，第370(2)条允许法院——在批准命令或其后的命令中——就以下事项等作出安排：
+
+- 将转让公司的全部或部分业务、财产或负债转让予承让公司；
+- 向按方案有权者配发承让公司的股份或债券；
+- 由承让公司或针对承让公司继续进行中的法律程序；
+- **在不进行清盘的情况下解散转让公司**；
+- 为对方案持异议的成员作出安排。
+
+根据第370(3)条，财产及负债"凭借该命令"归属于承让公司——大多数资产无需另行转易（conveyance）。土地是例外：在土地当局作出相应登记之前，归属命令对土地不具效力（第370(5)条）。
+
+## 它何时生效，以及有哪些文件须呈交SSM？
+
+仅凭法院命令本身，什么都不会发生。根据第366(5)条，方案命令"在其正式副本呈交注册官之前不具效力"，此后自呈交之日或法院指定的更早日期起生效。第370条命令须在作出后七日内呈交注册官，并且——若涉及土地——须呈交相关土地登记处（第370(4)条）。未予呈交属犯罪行为。
+
+## 暂缓令与挤出机制又如何？
+
+有两个相邻的条文常在同一场对话中被提起。第368条给予公司一项最长三个月、可延长至最多九个月的制止令（暂缓，moratorium），以在其正式确立方案期间保护它免受债权人追讨——但以一项代表全体债权人价值至少一半的建议、以及一份近期的公司事务报表为条件。第371条则又是另一回事：它是90%强制收购，让出价人在以股份为基础的收购后买断持异议的少数股东，属于股份转让机制，而非资产合并。
+
+## 接下来该做什么
+
+- 确认哪个实体是转让公司、哪个是承让公司，以及你的交易究竟是资产合并（第370条）还是股份收购（第371条）——两者的运作机制大相径庭。
+- 尽早厘清成员与债权人的各个类别；类别的组成在首次法院聆讯时决定，一个判断失误的类别可能使批准环节功亏一篑。
+- 在会议日期之前及早准备第369条的解释性声明，以及（若成员对此作出决议）第366(8)条的专家报告。
+- 为两次法院聆讯以及批准后向SSM呈交文件预留预算，因为在正式副本呈交之前方案不会生效。
+- 这是对法定框架的AI生成草稿，并非法律意见。请聘请马来西亚公司法律顾问实际执行方案，并在行动之前直接查阅《2016年公司法令》中的操作性条文。

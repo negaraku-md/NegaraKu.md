@@ -1,0 +1,230 @@
+---
+topicId: MY-CO-0014
+title: "国家石油公司（Petronas）：马来西亚国家石油企业"
+seoTitle: "国家石油公司（Petronas）：法律基础、结构与石油收益争议"
+slug: "petronas"
+category: "companies"
+subcategory: ["petroleum"]
+summary: "马来西亚国家石油有限公司（Petroliam Nasional Berhad，简称 Petronas）是马来西亚的国家石油公司，依据《1974 年石油开发法令》获得对马来西亚陆上及近海一切石油的专属权利。本指南客观阐述其法律基础、公司结构、财政角色，以及联邦与州属之间的石油收益争议。"
+
+tier: "1"
+mode: "practical"
+contentType: "company"
+sensitivity: "constitution"
+
+answer: "国家石油公司（Petronas）是联邦政府全资拥有的公司。根据《1974 年石油开发法令》（第 144 号法令）第 2 条，它掌握马来西亚全国石油的全部所有权以及勘探和开采石油的专属权利。它是国家的财政支柱——2025 年承诺向政府派发 320 亿令吉股息——同时经营上游、天然气、石化（PETRONAS Chemicals）和航运（MISC）业务。正是这一专属权利，引发了它与砂拉越（PETROS）、吉兰丹和登嘉楼之间关于谁有权掌控和获取石油收益的长期争议。"
+keyTakeaways:
+  - "国家石油公司的法律基础是《1974 年石油开发法令》；第 2 条将石油的全部所有权授予国家石油公司，第 3 条将其置于首相的掌控之下。"
+  - "国家石油公司由联邦政府全资拥有（注册号 20076-K），并非上市公司，尽管其子公司如 PETRONAS Chemicals、PETRONAS Gas、PETRONAS Dagangan 和 MISC 在马来西亚交易所（Bursa Malaysia）上市。"
+  - "在 2024 财政年度，国家石油公司报告营收约 3200 亿令吉、净利约 551 亿令吉；另外，它承诺在 2025 年向政府派发 320 亿令吉股息。"
+  - "1974 年法令第 4 条仅提及'双方议定的现金付款'；各州 5% 的开采权益金税率源自 1975-76 年的补充协议，而非法令本身固定规定的。"
+  - "砂拉越-PETROS、吉兰丹与登嘉楼的争议，源于《1974 年法令》（联邦）与州属法令以及《1963 年马来西亚协议》之间的冲突。"
+appliesTo: "学生、政策研究人员、投资者、石油和天然气行业从业者，以及任何想了解国家石油公司角色和马来西亚石油收益争议的人。"
+
+faq:
+  - q: "国家石油公司是政府所有还是私人公司？"
+    a: "国家石油公司由马来西亚联邦政府全资拥有，依据《1974 年石油开发法令》注册成立。它并非上市公司；其股份不公开交易。只有部分子公司（PETRONAS Chemicals、PETRONAS Gas、PETRONAS Dagangan、MISC）分别在马来西亚交易所（Bursa Malaysia）上市。"
+  - q: "国家石油公司专属权利的法律基础是什么？"
+    a: "《1974 年石油开发法令》（第 144 号法令）第 2 条将马来西亚陆上和近海勘探及开采石油的'全部所有权，以及各项专属的权利、权力、自由和特权'不可撤销地授予国家石油公司。"
+  - q: "国家石油公司向政府贡献多少？"
+    a: "国家石油公司承诺在 2025 年向联邦政府派发 320 亿令吉股息（财政部长 2025 年 2 月声明），此外还有税款和其他现金付款。后续年份的股息金额据称将取决于国家石油公司的财务表现和石油市场状况。"
+  - q: "砂拉越为何与国家石油公司起争议？"
+    a: "砂拉越希望其州属公司 PETROS 成为该州唯一的'天然气整合商'（gas aggregator），依据是《2016 年天然气分销法令》、《1958 年石油矿业法令》和《1963 年马来西亚协议》。国家石油公司则坚持《1974 年法令》赋予的专属权利。分析师估计所涉收益每年高达 200 亿令吉，截至 2025 年 5 月双方仍在谈判之中。"
+  - q: "为什么登嘉楼获得开采权益金而吉兰丹没有？"
+    a: "两州都依据 1975 年协议主张 5% 的开采权益金。登嘉楼获得付款（尽管 2000 年前后曾改为'恩恤金'（wang ehsan），并于 2009 年恢复），而吉兰丹 2010 年的法庭诉讼于 2019 年被撤销。关键问题在于相关油井究竟位于州属水域（三海里界限内）还是在联邦管辖范围内。"
+
+lang: "zh"
+sourceContentHash: "c977b0aa913ac22e"
+masterLanguage: "ms"
+translationStatus: "in-sync"
+
+status: "published"
+aiAssisted: true
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
+version: "0.2"
+verificationNeeded:
+  - "Angka kewangan tepat 2024 (hasil ~RM320 bilion, untung bersih ~RM55.1 bilion, dan perbandingan 2023 RM343.6 bilion / RM80.7 bilion) — sahkan terhadap Keputusan Kewangan Kumpulan PETRONAS FY2024 yang diumumkan 5 Februari 2025 (dokumen PDF rasmi)."
+  - "Anggaran hasil 'sehingga RM20 bilion setahun' untuk Sarawak — anggaran penganalisis, bukan angka rasmi; sahkan sumber dan asas pengiraan."
+  - "Peratusan kargo LNG Petronas yang berasal daripada atau melalui Sarawak — angka spesifik telah dibuang kerana tiada sumber utama yang disahkan."
+  - "Tarikh dan kandungan tepat perjanjian tambahan royalti 5% (1975-76) antara Petronas dan negeri-negeri."
+  - "Status terkini rundingan dan sebarang tindakan undang-undang Petronas-PETROS selepas tarikh sumber (Mei 2025)."
+revisions:
+  - version: "0.1"
+    date: 2026-07-28
+    change: "Initial AI draft."
+    reviewer: null
+  - version: "0.2"
+    date: 2026-07-28
+    change: "Correction pass: buang angka tak bersumber (RM1.4 trilion, 8% hasil persekutuan, 90% LNG); betulkan dividen RM32b sebagai komitmen 2025; buang 'Deklarasi Bersama'/tarikh Mac 2025/dakwaan mahkamah tak tersokong; kaitkan angka gas 1.2 bcf/450 mmcf kepada kenyataan PM Feb 2025; ganti angka Terengganu dengan RM22.4b (2008-Ogos 2020) bersumber FMT."
+    reviewer: null
+
+updated: 2026-07-28
+sources:
+  - title: "Petroleum Development Act 1974 (Act 144)"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20144%20-%20Petroleum%20Development%20Act%201974.pdf"
+    publisher: "Attorney General's Chambers of Malaysia"
+  - title: "About Us — PETRONAS Global (registration no. 20076-K)"
+    url: "https://www.petronas.com/about-us"
+    publisher: "PETRONAS"
+  - title: "PETRONAS Group Financial Results (FY2024, announced 5 February 2025)"
+    url: "https://www.petronas.com/investor-relations/financial-results"
+    publisher: "PETRONAS"
+  - title: "Petronas committed to maintaining dividend payment of RM32 bln this year"
+    url: "https://www.mof.gov.my/portal/en/news/press-citations/petronas-committed-to-maintaining-dividend-payment-of-rm32-bln-this-year-amir-hamzah"
+    publisher: "Ministry of Finance Malaysia"
+  - title: "The Petronas-Petros commercial deal: where we're at, what's at stake"
+    url: "https://www.freemalaysiatoday.com/category/nation/2025/05/14/the-petronas-petros-commercial-deal-where-were-at-whats-at-stake"
+    publisher: "Free Malaysia Today"
+  - title: "Petronas-Petros Dispute: Finding a Way Out"
+    url: "https://fulcrum.sg/petronas-petros-dispute-finding-a-way-out/"
+    publisher: "FULCRUM (ISEAS – Yusof Ishak Institute)"
+  - title: "What the Kelantan oil royalty issue is all about"
+    url: "https://www.freemalaysiatoday.com/category/nation/2022/01/17/what-the-kelantan-oil-royalty-issue-is-all-about"
+    publisher: "Free Malaysia Today"
+  - title: "Malaysia Petroleum Management — Regulatory Overview"
+    url: "https://www.petronas.com/mpm/regulatory/overview"
+    publisher: "PETRONAS"
+
+entity: "Petroliam Nasional Berhad (PETRONAS)"
+relations:
+  - { rel: "related-to", to: "petroleum-development-act-1974" }
+  - { rel: "related-to", to: "malaysia-agreement-1963" }
+  - { rel: "related-to", to: "petros-sarawak" }
+related: ["petroleum-development-act-1974", "malaysia-agreement-1963", "petros-sarawak"]
+keywords: ["Petronas", "Petroliam Nasional Berhad", "Akta Kemajuan Petroleum 1974", "PETROS", "royalti minyak", "gas aggregator", "Sarawak", "MISC", "PETRONAS Chemicals"]
+---
+
+《1974 年石油开发法令》将马来西亚陆上和近海一切石油的权利赋予了一家新成立的公司——而在 50 多年后的今天，联邦政府与若干州属之间关于石油掌控权和收益的关系，仍是一个悬而未决的问题。这家公司就是马来西亚国家石油有限公司（Petroliam Nasional Berhad），即 Petronas。
+
+国家石油公司是马来西亚最有权势的机构之一，但许多人对它究竟属于什么性质感到困惑：它是政府部门、公众公司，还是别的什么？本指南将阐明它的法律基础、组织方式、庞大的财政角色，以及为何其专属权利会成为布城（Putrajaya，联邦政府所在地）与砂拉越、吉兰丹和登嘉楼之间持续争议的根源。
+
+## 国家石油公司的法律基础是什么？
+
+国家石油公司并不只是一家经营成功的普通公司——它是由一项国会法令所诞生的。**《1974 年石油开发法令》（第 144 号法令）** 就是赋予国家石油公司权力的那份文件。
+
+该法令 **第 2 条** 将"勘探、开采、获取和取得马来西亚陆上或近海石油的全部所有权，以及各项专属的权利、权力、自由和特权"授予一家法团（Perbadanan）。这项所有权被明确规定为 *不可撤销*（irrevocable），并持续归属于该法团及其继承者，供其受益。
+
+**第 3 条** 为该法团命名——在法令文本中称为"Petroleum Nasional Berhad，简称 PETRONAS"（其正式注册名称为 Petroliam Nasional Berhad）——并将其置于"首相的掌控和指示之下"，首相可不时发出他认为适当的任何指示。
+
+这意味着国家石油公司并非向某个部门汇报，而是直接向首相本人汇报。
+
+另外两项条文对理解收益争论至关重要：
+
+- **第 4 条** 规定，作为所授予的所有权和权利的对价，法团须向联邦政府和任何相关州属政府支付"由相关各方议定的现金付款"。请注意：法令并未规定固定金额——那著名的 5% 开采权益金税率来自 1975-76 年前后签署的补充协议，而非法令本身。
+- **第 6 条** 禁止国家石油公司以外的任何人从事加工、提炼石油或以石油制造石化产品的业务，除非获得首相许可。这正是国家石油公司掌控下游活动的基础。
+
+## 谁拥有和掌控国家石油公司？
+
+国家石油公司 **由马来西亚联邦政府全资拥有**。它是一家有限公司（注册号 20076-K），但 **并非上市公司**——你无法在马来西亚交易所（Bursa Malaysia）购买国家石油公司的股份。
+
+这一区别常令公众感到困惑。在交易所上市的是国家石油公司的若干 *子公司*，而非母公司本身。
+
+| 特征 | 国家石油公司（母公司） | 上市子公司 |
+| --- | --- | --- |
+| 所有权 | 100% 联邦政府 | 国家石油公司为控股股东，其余为公众持有 |
+| 是否在交易所上市？ | 否 | 是（例如 PETRONAS Chemicals、PETRONAS Gas、PETRONAS Dagangan、MISC） |
+| 向谁汇报 | 首相（第 144 号法令第 3 条） | 董事会 + 交易所/证券监督委员会（SC） |
+| 权力来源 | 《1974 年石油开发法令》 | 《公司法令》+ 资本市场规则 |
+
+作为亚洲最大的公司之一，国家石油公司持续跻身 **《财富》世界 500 强（Fortune Global 500）**，并且常常是该权威榜单上唯一的马来西亚公司。
+
+## 国家石油公司的公司结构是如何组织的？
+
+国家石油公司是一个覆盖整条石油和天然气价值链——从油井到加油站——的综合性集团。它通常被理解为若干主要板块。
+
+**上游（upstream）及监管职能。** 这一部分负责勘探和开采石油天然气。独特的是，国家石油公司不只是一个参与者——它同时也是 *监管者*。通过 **马来西亚石油管理局（Malaysia Petroleum Management，MPM）**，国家石油公司在上游项目的整个生命周期中管理国家石油资源，并发出规定承包商权利与责任的石油分成合约。这种"既当球员又当裁判"的双重角色，正是它与州属之间紧张关系的根源之一。
+
+**天然气与新能源。** 国家石油公司开采、液化并出口液化天然气（LNG），包括位于砂拉越民都鲁（Bintulu）的 LNG 综合设施。砂拉越作为国家石油公司主要的 LNG 生产和出口中心的地位，使该州成为集团天然气业务的重要组成部分——这也是与该州的争议为何如此高风险的部分原因。
+
+**下游（downstream）、石化和航运。** 这一板块负责提炼、营销和运输产品。国家石油公司若干上市子公司就坐落于此。
+
+| 子公司 | 核心领域 |
+| --- | --- |
+| PETRONAS Chemicals Group (PCG) | 综合化学品生产商——烯烃、聚合物、化肥、甲醇、特种化学品 |
+| PETRONAS Gas Berhad (PGB) | 拥有并运营天然气加工、输送和再气化网络 |
+| PETRONAS Dagangan Berhad (PDB) | 下游石油产品的零售和营销（加油站、产品） |
+| MISC Berhad | 物流与海运——LNG 运输、油轮、技术服务 |
+
+每一家都在马来西亚交易所（Bursa Malaysia）单独上市，而国家石油公司仍为控股股东。位于吉隆坡的国油双峰塔（Menara Berkembar Petronas）——集团总部——仍是该国最具标志性的地标之一。
+
+## 国家石油公司的财政角色有多大？
+
+国家石油公司不只是一家公司——它是国家的财政支柱。在很多年份里，来自国家石油公司的股息和税款贡献了联邦政府收入的很大一部分。
+
+2024 财政年度的财务数据可以让人一窥其规模（请将确切数字与 2025 年 2 月 5 日公布的《PETRONAS 集团 2024 财年财务业绩》核对）：
+
+- **营收：** 约 3200 亿令吉（较 2023 年的 3436 亿令吉下降约 7%）
+- **净利：** 约 551 亿令吉（较 2023 年的 807 亿令吉下降，因平均销售价格走低）
+- **派发给政府的股息：** 2025 年承诺 320 亿令吉（财政部长 2025 年 2 月声明）；后续年份的金额据称将取决于国家石油公司的财务表现和石油市场状况
+
+来自国家石油公司的股息和税款持续贡献联邦政府收入的很大一部分——这一事实解释了为何任何对这一收入来源的威胁都会在内阁层面引起担忧。
+
+然而这种依赖是把双刃剑。当油价下跌时，政府收入也随之受损；而当各州要求更大份额时，则直接减少了流入联邦国库的金额。正是这种紧张关系，把我们带向了那些争议。
+
+## 联邦与州属之间的石油收益争议为何产生？
+
+每一场争议的根源都是一个根本性的冲突：**《1974 年石油开发法令》将马来西亚一切石油的专属权利赋予国家石油公司（并借此赋予联邦政府）——但若干州属坚持认为，其境内的资源理应为它们带来更多的掌控权和收益。**
+
+对砂拉越和沙巴而言，这一论点依据的是 **《1963 年马来西亚协议》（MA63）** 以及在马来西亚成立之前就已存在的州属法令。对吉兰丹和登嘉楼等半岛州属而言，诉求则围绕 1975 年的开采权益金协议，以及相关油井是否位于州属水域这一问题。
+
+这个议题在宪制上很敏感，因为它触及联邦与州属之间的权力平衡——这是马来西亚联邦制安排的核心。本指南不偏不倚地陈述各方立场。
+
+## 砂拉越的诉求和 PETROS 议题是什么？
+
+目前最激烈的争议涉及砂拉越。该州于 2017 年成立了自己的石油天然气公司 **砂拉越石油有限公司（Petroleum Sarawak Berhad，PETROS）**，此后一直设法收回对其石油领域的掌控权。
+
+**砂拉越的立场。** 砂拉越主张，它对石油天然气的管辖权植根于马来西亚成立之前的法律——尤其是 **《1958 年石油矿业法令》**——并受 MA63 保护。依据 **《2016 年天然气分销法令》（DGO）**，砂拉越希望 PETROS 成为该州 **唯一的天然气整合商（gas aggregator）**，即唯一在砂拉越境内购买和分销天然气的实体。
+
+**国家石油公司的立场。** 国家石油公司坚持其在《1974 年法令》下的全国专属权利，并警告说它不能在未违约的情况下单方面更改与海外买家的长期 LNG 出口合约。国家石油公司还捍卫其作为国家上游唯一监管者的角色。
+
+**进展。** 砂拉越州政府委任 PETROS 为该州的天然气整合商。截至 2025 年 5 月，国家石油公司与 PETROS 仍在没有明确最后期限的直接谈判之中，据报道联邦政府和砂拉越都准备在谈判陷入僵局时介入。在 2025 年 2 月的一份声明中，首相提到 PETROS 将获得保障供应最多 **每日 12 亿立方英尺** 的天然气，以满足该州国内需求，较此前的 **每日 4.5 亿立方英尺** 有所增加。悬而未决的议题包括国家石油公司长期 LNG 出口合约的命运，以及天然气价值链的治理。
+
+利害攸关之处在于：分析师估计，如果砂拉越的诉求获得完全满足，该州每年可获得多达 **200 亿令吉**——其中很大一部分将以牺牲国家石油公司的收益和联邦股息为代价。这一数字为分析师估计，应予核实。
+
+## 吉兰丹和登嘉楼的情形有何不同？
+
+半岛州属面对的是与砂拉越不同的法律问题。这里的议题不是 MA63，而是 **地理位置和开采权益金**。
+
+1975 年，国家石油公司与所有州属签署协议，承诺就发现并售出的石油支付 **5%** 的年度开采权益金。问题在于：特定的油井是否位于"州属水域"？
+
+**登嘉楼。** 登嘉楼多年来一直领取开采权益金付款。然而在 2000 年前后，联邦政府指示国家石油公司停止直接付款，改以联邦管理的 **"恩恤金"（wang ehsan）** 取代——此举发生在该州由反对党执政之时。开采权益金付款后来在 2009 年前后恢复。据《Free Malaysia Today》报道，登嘉楼在 2008 年至 2020 年 8 月期间从开采权益金付款中获得 **224 亿令吉**。
+
+**吉兰丹。** 吉兰丹同样依据 1975 年的相同协议主张 5% 的开采权益金，但被以相关油井位于远海——超出 **三海里** 界限，而根据联邦政策该水域归联邦掌控——为由拒绝。吉兰丹于 2010 年起诉国家石油公司；该案在近九年后于 2019 年被撤销。作为开采权益金的替代，吉兰丹领取金额小得多的恩恤金。
+
+登嘉楼与吉兰丹之间的对比，正是批评者常提出的"双重标准"——尽管联邦政府主张各州油井的地理位置和协议条款各不相同。
+
+| 州属 | 诉求依据 | 主要法律依据 | 简要状态 |
+| --- | --- | --- | --- |
+| 砂拉越 | 马来西亚成立前的州属管辖权；天然气整合商 | MA63、《1958 年石油矿业法令》、DGO 2016 | 谈判持续中（2025 年 5 月）；PETROS 获委任为州属天然气整合商 |
+| 登嘉楼 | 1975 年协议 5% 开采权益金 | 1975 年收益分成协议 | 领取开采权益金；曾改为"恩恤金"（约 2000 年），后恢复（约 2009 年） |
+| 吉兰丹 | 1975 年协议 5% 开采权益金 | 1975 年协议；三海里界限问题 | 2010 年诉讼于 2019 年被撤销；领取恩恤金 |
+
+## 如何公正地评估石油收益诉求？
+
+要在不陷入政治言辞的情况下理解任何国家石油公司与州属之间的争议，请按顺序问以下问题：
+
+1. **各方所持的法律依据是什么？** 联邦几乎总是依据《1974 年法令》（第 2 条）。州属则可能依据 MA63、马来西亚成立前的法令，或 1975 年的开采权益金协议。先弄清楚文件。
+2. **石油在物理上位于何处？** 州属三海里界限内的水域与深海近海水域的待遇不同。地理位置往往决定了法律上的结果。
+3. **诉求是关于所有权、运营掌控权，还是收益？** 这三者各不相同。砂拉越诉求的是运营掌控权（天然气整合商）；吉兰丹诉求的是收益（开采权益金）。不要混为一谈。
+4. **对现有合约有何下游影响？** 长期 LNG 出口合约和联邦股息无法在一瞬间更改；任何解决方案都必须考虑这些承诺。
+5. **是通过政治谈判还是法庭裁决来解决？** 大多数案件以政治妥协告终（如正在进行的国家石油公司-PETROS 谈判），而非最终判决。
+
+## 关于国家石油公司常见的误解有哪些？
+
+- **"国家石油公司是政府部门。"** 错。它是一家政府所有的有限公司，向首相汇报，而非某个部门或公共机关。
+- **"你可以购买国家石油公司的股份。"** 不能。母公司并未上市；只有像 PETRONAS Chemicals、PETRONAS Gas、PETRONAS Dagangan 和 MISC 这样的子公司才上市。
+- **"《1974 年法令》为州属规定了 5% 的开采权益金。"** 不准确。第 4 条仅提及"议定的现金付款"；5% 的税率来自 1975-76 年另立的补充协议。
+- **"砂拉越要求完全拥有其石油。"** 过于简化。目前的核心诉求是成为 *天然气整合商* 并通过 DGO 2016 获得下游监管掌控权——而非直接废除《1974 年法令》。
+- **"吉兰丹什么都没拿到。"** 错。吉兰丹领取恩恤金，只是金额小得多，且并非其所主张的完整 5% 开采权益金。
+
+## 接下来
+
+如果你想深入了解这个议题，请先直接阅读 **《1974 年石油开发法令》** 的文本——尤其是第 2、3、4 和 6 条——因为几乎每一场争论都围绕其中的确切措辞展开。接着阅读 **《1963 年马来西亚协议》**，以理解砂拉越和沙巴诉求的基础。
+
+要跟踪国家石油公司-PETROS 争议的进展，请关注国家石油公司的年度财务报告和砂拉越州政府的官方声明，以及相关的法庭文件。要理解国家石油公司的财政角色，该公司的年度《综合报告》（Integrated Report）和《联邦财政预算案》文件是主要来源。
+
+为 NegaraKu.md 计划的相关文章：**《1974 年石油开发法令》** 全文解读、**《1963 年马来西亚协议》（MA63）**，以及 **PETROS** 简介——以补全马来西亚石油与天然气背后的宪制和商业全貌。
+
+> 注：这是一份 AI 辅助撰写的草稿，尚未经过人类专家审核。每一个重要数字都参考了所列的官方来源；`verificationNeeded` 中的项目仍需人工核实。在依据本文作出决策之前，请以原始来源核实最新的法律和财务细节。
