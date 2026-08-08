@@ -1,0 +1,153 @@
+---
+topicId: MY-LAW-0085
+title: "1988年传染病预防及控制法令（第342号法令）"
+seoTitle: "第342号法令：马来西亚传染病预防及控制法令"
+slug: "prevention-and-control-of-infectious-diseases-act"
+category: "law"
+subcategory: ["kesihatan"]
+summary: "第342号法令是马来西亚的公共卫生法律，赋予隔离检疫、隔离、行动限制及疫区宣布的权力——这正是COVID-19行动管制令（MCO/PKP）等措施背后的法律框架。"
+
+tier: "S"
+mode: "narrative"
+contentType: "law"
+sensitivity: "health"
+
+answer: "1988年传染病预防及控制法令（第342号法令）是一项联邦法律，统一整合了马来西亚有关传染病预防及控制的法律。它于1988年8月13日获御准，并于1989年4月1日在全马来西亚生效。该法令赋予卫生部长、卫生总监及获授权官员权力，可宣布地方感染区、下令隔离检疫、隔离与监视，以及制定条例——这些权力构成了COVID-19大流行期间行动管制令（PKP）的法律基础。"
+keyTakeaways:
+  - "第342号法令于1988年8月13日获御准，并于1989年4月1日在全马来西亚生效（P.U. (B) 179/1989）。"
+  - "第11条允许部长宣布某个地区为地方感染区，并制定条例以管制该地区内或从该地区外出的行动。"
+  - "第一附表列出受涵盖的传染病（第一部分编号为1至30；第二部分列出HIV感染）；COVID-19于2020年通过P.U. (A) 179/2020被纳入，并在总检察署发布的英文更新文本中以第3A项出现。"
+  - "第24条规定一般刑罚，而第25条允许对某些罪行以不超过RM1,000进行罚款和解（此为法令原文中的数额）。"
+  - "2020年3月的PKP以第342号法令为基础，通过2020年地方感染区宣布令，以及依据第11(2)款制定的地方感染区内措施条例实施。"
+appliesTo: "马来西亚公民、医疗执业者、商家，以及任何想了解政府在传染病疫情期间公共卫生权力的人士。"
+
+faq:
+  - q: "第342号法令何时开始生效？"
+    a: "它于1988年8月13日获御准，1988年9月8日刊宪，并于1989年4月1日通过P.U. (B) 179/1989在全马来西亚生效。"
+  - q: "第342号法令是COVID-19行动管制令（PKP）的法律基础吗？"
+    a: "是的。地方感染区依据第11条宣布，而行动限制措施则通过2020年地方感染区内措施（第2号）条例设定，该条例于2020年3月31日依据第11(2)款刊宪。"
+  - q: "违反本法令下的指令会受到什么处罚？"
+    a: "对于没有特定刑罚的罪行，第24条规定初犯者可被监禁最长两年或罚款或两者兼施。第25条则允许在法令原文下以不超过RM1,000进行罚款和解。这些数额已成为国会下议院于2024年通过修订的对象。"
+
+lang: "zh"
+sourceContentHash: "e9a7651147874f41"
+masterLanguage: "ms"
+translationStatus: "in-sync"
+
+status: "published"
+aiAssisted: true
+reviewer: "ashton-tan"
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
+version: "0.2"
+verificationNeeded:
+  - "Label item COVID-19 dalam teks warta Bahasa Melayu Jadual Pertama (teks kemas kini bahasa Inggeris terbitan Pejabat Peguam Negara memberi item 3A; sesetengah rujukan menyebut 17A bagi susunan abjad teks Melayu). Sahkan penomboran teks Melayu sebelum terbit."
+  - "Status penguatkuasaan pindaan 2024 (sama ada telah diwartakan dan berkuat kuasa). Kadar penalti operasi terkini bergantung pada tarikh kuat kuasa instrumen berkenaan."
+revisions:
+  - version: "0.1"
+    date: 2026-08-07
+    change: "Initial AI draft."
+    reviewer: null
+  - version: "0.2"
+    date: 2026-08-07
+    change: "Correction pass: re-verified First/Second Schedule against AGC primary text (item 30 catch-all and repealed enactments confirmed), attributed COVID-19 item 3A to the English AGC reprint, and added verificationNeeded notes."
+    reviewer: null
+
+updated: 2026-08-07
+sources:
+  - title: "Laws of Malaysia — Act 342 Prevention and Control of Infectious Diseases Act 1988 (As at 1 July 2020)"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1687632_BI/Act%20342%20-%20Draf%20Bersih.pdf"
+    publisher: "Attorney General's Chambers of Malaysia"
+  - title: "Dewan Rakyat Passes Controversial Act 342 Amendment Bill On Infectious Disease Control"
+    url: "https://codeblue.galencentre.org/2024/10/dewan-rakyat-passes-controversial-act-342-amendment-bill-on-infectious-disease-control/"
+    publisher: "CodeBlue (Galen Centre for Health and Social Policy)"
+  - title: "Act 342 Amendment Bill Treats Infection Like A Criminal Offence"
+    url: "https://codeblue.galencentre.org/2024/07/act-342-amendment-bill-treats-infection-like-a-criminal-offence/"
+    publisher: "CodeBlue (Galen Centre for Health and Social Policy)"
+  - title: "Legality of the Movement Control Order"
+    url: "https://rlse.law/legality-of-the-movement-control-order/"
+    publisher: "Review of Law and Social Equity (RLSE)"
+
+entity: "Akta Pencegahan dan Pengawalan Penyakit Berjangkit 1988 (Akta 342)"
+relations:
+  - { rel: "administered-by", to: "kementerian-kesihatan-malaysia" }
+  - { rel: "related-to", to: "movement-control-order-covid-19" }
+related: ["kementerian-kesihatan-malaysia", "movement-control-order-covid-19"]
+keywords: ["Akta 342", "penyakit berjangkit", "kuarantin", "PKP", "COVID-19", "kawasan jangkitan tempatan", "kesihatan awam", "Kementerian Kesihatan Malaysia"]
+---
+
+当行动管制令（PKP）在2020年3月几乎让整个马来西亚陷入停顿时，其背后的法律权力并非来自任何新的紧急法律——而是来自一部自1988年以来就已存在的公共卫生法令。
+
+那部法令就是1988年传染病预防及控制法令，或更为人熟知的**第342号法令**。本文以描述性方式说明该法令的内容：它规定了什么、由谁执行，以及为何它成为公众讨论的焦点。这不是法律意见。
+
+## 第342号法令是什么，为何存在？
+
+第342号法令是一项联邦法律，旨在"修订并统一有关传染病预防及控制的法律"。它取代了一系列独立前时代的旧检疫与疾病预防法规。根据该法令的第二附表，被废除的成文法律包括马来联邦州属检疫法规与疾病预防法规、疫苗接种法规、1939年检疫及疾病预防条例、若干州属法规（其中包括柔佛、吉打、吉兰丹、玻璃市及登嘉楼），以及1971年疟疾根除法令（第52号法令）。
+
+根据总检察署发布的官方文本，该法令于**1988年8月13日**获御准，于**1988年9月8日**刊宪，并于**1989年4月1日**在全马来西亚开始生效（P.U. (B) 179/1989）。
+
+该法令的执行权归于卫生部长、卫生总监，以及"获授权官员"——即任何卫生医官、卫生检查员，或依据第3条由部长委任的官员。警察、关税及移民官员在被要求时须提供协助（第5条）。
+
+## 本法令涵盖哪些疾病？
+
+第342号法令仅适用于"传染病"，即列于**第一附表**的疾病。在总检察署发布的更新文本中（截至2020年7月1日），该附表第一部分列出编号为1至30的疾病（COVID-19作为附加项目3A被纳入），而第二部分则列出人类免疫缺陷病毒（HIV）感染。
+
+以下是部分列出的疾病：
+
+| 第一部分示例 | 第二部分 |
+| --- | --- |
+| 霍乱（cholera，第3项） | HIV感染（所有形式） |
+| 骨痛热症及骨痛溢血热症（第4项） | |
+| 肺痨／结核病，所有形式（第22项） | |
+| 狂犬病（第18项）、疟疾（第13项）、麻风病／leprosy（第11项） | |
+| COVID-19（AGC英文文本中的第3A项） | |
+| "任何其他威胁生命的微生物感染"（第30项） | |
+
+此清单并非固定不变。第30条赋予部长权力，可通过宪报中的命令删除、增加或修订第一附表。COVID-19于2020年通过第一附表的修订被纳入（P.U. (A) 179/2020）。
+
+## 本法令下的主要权力是什么？
+
+法令第四部分——"传染病传播的控制"——包含最常被使用的日常权力。以下是几项核心条文的摘要：
+
+- **第10条**——通报义务。凡出现传染病的房屋内每一位成年住户，以及每一位治疗此类病例的医疗执业者，都必须尽速通报卫生当局。
+- **第11条**——宣布地方感染区。若部长确信某地区出现疫情或流行病威胁，可将其宣布为地方感染区，并制定条例管制该地区内或从该地区外出的行动。
+- **第14条**——对染病者及疑似染病者进行隔离，并转送至检疫站。
+- **第15条**——对接触者进行观察或监视（surveillance）。
+- **第18条**——消毒杀菌及关闭处所。
+- **第31条**——制定条例以执行法令的权力，包括管制人员的进入与行动以及检疫程序。
+
+依据第11(3)条，在地方感染区命令生效期间，获授权官员可指令任何人或某类人接受治疗、免疫接种、隔离、观察或监视。第11(4)条及第15(2)条亦规定官员可使用"任何必要的力量"以确保遵从——这是引起最多讨论的条文之一。
+
+## 第342号法令如何成为COVID-19行动管制令的基础？
+
+2020年3月的PKP建立在第11条的两阶段机制之上。首先，部长通过2020年传染病预防及控制（地方感染区宣布）令 [P.U. (A) 87/2020] 宣布地方感染区。根据RLSE的法律分析，所有州属及联邦直辖区都被宣布为地方感染区，以便限制措施能在全国层面适用，因为相关分款下的权力仅适用于"在被宣布地区内或从该地区外出"的情况。
+
+其次，实际的行动限制措施通过2020年传染病预防及控制（地方感染区内措施（第2号））条例设定，该条例于**2020年3月31日**依据法令第11(2)款刊宪。正是这种结构——宣布令继而措施条例——在PKP、PKPB及PKPP的各个阶段中反复出现。
+
+## 本法令下的处罚是什么？
+
+法令第五部分详列罪行与刑罚。第22条界定一般罪行——包括阻碍获授权官员、违抗合法命令，或提供虚假资料。根据法令原文：
+
+- **第24条（一般刑罚）**——对于没有特定刑罚的罪行：初犯，监禁最长两年或罚款或两者兼施；第二次或其后的罪行，监禁最长五年；至于持续性罪行，每日额外罚款不超过RM200。
+- **第25条（罚款和解）**——总监或获授权官员可通过收取不超过**RM1,000**的款项对某些罪行进行罚款和解。
+
+正是这些数额，成为后续年份修订的目标之一。
+
+## 为何本法令成为争议焦点？
+
+大流行之后，政府提呈法案以强化第342号法令。根据CodeBlue的报道，国会下议院于**2024年10月14日**通过口头表决通过了第342号法令修订法案。
+
+据该法案报道的部分变动包括：
+
+- **第24条（一般刑罚）**提高至个人最高罚款RM10,000，法人团体最高RM100,000。
+- **第25条（罚款和解）**提高至个人最高RM5,000，法人团体最高RM50,000。
+- **第31(3)条**规定，违反条例的个人可被处以最高RM8,000罚款、监禁最长两年，或两者兼施，法人团体则最高RM50,000。
+- 新增的**第21A条**赋予卫生总监权力，可向任何人或某类人发出任何指令，以采取疾病预防及控制措施。
+
+对这些修订的看法各异。支持者认为，它强化了卫生部应对传染病的能力，并使法律与国际发展接轨。反对者——包括朝野双方的部分国会议员、律师团体及权益组织——则表达忧虑，认为更重的刑罚可能对低收入群体造成不成比例的影响，防范总监权力被滥用的保障不足，以及该做法过度依赖惩罚而非健康教育。本文不采取任何立场；它只是记录公众辩论中存在这两种看法。
+
+## 接下来会怎样
+
+第342号法令仍是马来西亚应对传染病的核心公共卫生法律框架，其架构——宣布、条例、指令、刑罚——很可能会在任何未来的卫生危机中再次被使用。刑罚数额及特定权力已成为国会下议院于2024年通过修订的对象，因此最新的实际适用数额取决于已刊宪的法律文书及其生效日期。
+
+如需权威参考，法令全文及任何最新修订可在总检察署官方门户网站（lom.agc.gov.my）查阅。本文为一般说明，并非法律意见；对于特定情况，请咨询法律执业者或卫生当局。

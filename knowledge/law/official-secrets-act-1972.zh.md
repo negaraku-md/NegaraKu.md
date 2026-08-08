@@ -1,0 +1,151 @@
+---
+topicId: MY-LAW-0084
+title: "1972年官方机密法令"
+seoTitle: "1972年官方机密法令（第88号法令）：文件分级、刑罚与争议"
+slug: "official-secrets-act-1972"
+category: "law"
+subcategory: ["keselamatan"]
+summary: "《1972年官方机密法令》（第88号法令）规范政府文件如何被列为官方机密，并规定擅自泄露的刑罚，包括强制性最低监禁刑期。它至今仍是国家安全与透明度及新闻自由之间争论的焦点。"
+
+tier: "S"
+mode: "narrative"
+contentType: "law"
+sensitivity: "security"
+
+answer: "《1972年官方机密法令》（第88号法令）是一部规范马来西亚官方政府信息之分级与保护的联邦法律。它允许部长、州务大臣或首席部长，以及获委任的公务员，将文件列为「绝密」（Rahsia Besar）、「机密」（Rahsia）、「秘密」（Sulit）或「限阅」（Terhad），而该分级证书被规定为最终证据，「不得在任何法庭上受到质疑」。在其现行版本中，许多罪行带有一年强制性最低监禁刑期，而间谍活动可被判终身监禁。此法令一直是国家安全需求与透明度及新闻自由呼声之间持续争论的对象。"
+keyTakeaways:
+  - "第88号法令于1972年10月1日生效，废除了若干先前的官方机密法律——根据第31(1)条废除马来亚各州《1950年官方机密条例》和沙巴《官方机密条例》[第90章]，并根据第31(2)条废除英国《1911年及1920年官方机密法令》在砂拉越或马来西亚其他任何地区生效的部分。"
+  - "法令附表列明三类始终被视为官方机密的文件：内阁文件、州行政议会文件，以及涉及国家安全、国防及国际关系的文件。"
+  - "第16A条规定分级证书为最终证据，不得在法庭上以任何理由受到质疑。"
+  - "1980年代的修订（A573号法令，1984年1月20日生效；A660号法令，1987年1月1日生效）修改了许多刑罚条文；在其现行版本中，许多罪行带有一年强制性最低监禁刑期，而第3条下的间谍活动可判终身监禁。"
+  - "政府已表明有意制定《信息自由法令》，并相应地修订《官方机密法令》。"
+appliesTo: "希望了解马来西亚政府信息如何分级及其法律影响的公务员、记者、律师、研究人员及公众。"
+
+faq:
+  - q: "谁有权将文件列为官方机密？"
+    a: "根据第2条「官方机密」的定义及第2B条的规定，部长、州务大臣或某州首席部长，或经证书委任以执行此事的公务员，可将文件列为「绝密」（Rahsia Besar）、「机密」（Rahsia）、「秘密」（Sulit）或「限阅」（Terhad）。"
+  - q: "文件的分级能否在法庭上受到质疑？"
+    a: "第16A条规定，确认某文件为官方机密的证书为最终证据，且「不得在任何法庭上以任何理由受到质疑」。此条文是该法令中最受争议的方面之一。"
+  - q: "《1972年官方机密法令》下的刑罚是什么？"
+    a: "刑罚因罪行而异。间谍活动（第3条）可判终身监禁；不当传递官方机密（第8条）可判一至七年监禁；而在禁地内拍摄文件或测量（第4条）可判一至十四年监禁。许多罪行带有一年强制性最低监禁刑期。"
+  - q: "记者或公众举报人揭露不法行为时是否受保护？"
+    a: "此法令不含「公共利益」抗辩或针对举报人（whistleblower）的特定保护。第17A条仅为能证明自己是在执行官方职务或凭正当权力行事的人提供抗辩。缺乏公共利益抗辩是法令批评者所提出的问题之一。"
+
+lang: "zh"
+sourceContentHash: "b2289aaf85dc5684"
+masterLanguage: "ms"
+translationStatus: "in-sync"
+
+status: "published"
+aiAssisted: true
+reviewer: "ashton-tan"
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
+version: "0.2"
+revisions:
+  - version: "0.1"
+    date: 2026-08-07
+    change: "Initial AI draft."
+    reviewer: null
+  - version: "0.2"
+    date: 2026-08-07
+    change: "Correction pass: verified figures against primary Act 88 text and news reporting, fixed repeal scope (added Sabah Cap. 90, corrected UK Acts wording), de-attributed Ezam conviction/sentence/acquittal and 'national harmony' framing to correct sources."
+    reviewer: null
+
+verificationNeeded:
+  - "Tarikh dan status tepat pembebasan Mohammad Ezam bin Mohd Nor oleh Mahkamah Tinggi (dilaporkan 2004; nombor kes 42-22-2002) — perlu disahkan terhadap rekod/laporan mahkamah kerana sumber yang dipetik hanya mengesahkan sabitan dan hukuman, bukan pembebasan."
+  - "Perincian bahawa kes Ezam berkaitan pendedahan 'laporan Badan Pencegah Rasuah (ACA)' — bersandar pada laporan media sekunder, perlu disahkan."
+  - "Sama ada pindaan A573 (1984) dan A660 (1987) benar-benar memperkenalkan penjara minimum wajib buat kali pertama, berbanding meminda peruntukan hukuman sedia ada — perlu rujukan sejarah perundangan."
+  - "Sebutan 'keharmonian nasional' dalam laporan The Star disuarakan oleh seorang penganalisis, bukan kenyataan rasmi kerajaan — sahkan terhadap teks penuh."
+  - "Status semasa cadangan Akta Kebebasan Maklumat persekutuan dan sebarang pindaan OSA — perlu semakan berkala kerana keadaan boleh berubah selepas draf ini."
+
+updated: 2026-08-07
+sources:
+  - title: "Laws of Malaysia — Act 88, Official Secrets Act 1972 (Reprint incorporating all amendments up to 1 January 2006)"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%2088.pdf"
+    publisher: "Pejabat Peguam Negara Malaysia (Commissioner of Law Revision)"
+  - title: "Memorandum on the Malaysian Official Secrets Act 1972"
+    url: "https://www.article19.org/data/files/pdfs/analysis/malaysia-official-secrets-act-sept-2004.pdf"
+    publisher: "ARTICLE 19 — Global Campaign for Free Expression"
+  - title: "Ezam slapped with two-year jail term for violating OSA"
+    url: "https://www.malaysiakini.com/news/12480"
+    publisher: "Malaysiakini"
+  - title: "Freedom of Information Act must factor 'national harmony'"
+    url: "https://www.thestar.com.my/news/nation/2025/03/30/freedom-of-information-act-must-factor-national-harmony"
+    publisher: "The Star"
+
+entity: "Akta Rahsia Rasmi 1972"
+relations:
+  - { rel: "related-to", to: "sedition-act-1948" }
+  - { rel: "related-to", to: "freedom-of-information-malaysia" }
+related: ["sedition-act-1948", "freedom-of-information-malaysia"]
+keywords: ["Akta Rahsia Rasmi 1972", "Official Secrets Act", "Akta 88", "rahsia rasmi", "pengelasan dokumen", "seksyen 16A", "keselamatan negara", "kebebasan media", "OSA Malaysia"]
+---
+
+一名收到内阁会议记录副本的记者、一名在军营附近进行测量的研究人员，以及一名保管标记为「秘密」（Sulit）档案的官员——这三人都可能触及同一部法律。《1972年官方机密法令》，即第88号法令，是马来西亚官方保密制度的支柱，其涵盖范围远不止于间谍事务。
+
+此法令于1972年10月1日生效，作为「一部为检讨及综合有关保护官方机密之法律的法令」。它废除了若干先前的官方机密法律：第31(1)条废除马来亚各州《1950年官方机密条例》[F.M. 15 of 1950]和沙巴《官方机密条例》[第90章]，而第31(2)条废除英国《1911年及1920年官方机密法令》「在砂拉越或马来西亚其他任何地区生效的部分」。此后它经过多次修订，包括通过A573号法令（《1984年官方机密（修订）法令》，1984年1月20日生效）和A660号法令（《1986年官方机密（修订）法令》，1987年1月1日生效）。
+
+## 是什么让一份文件成为「官方机密」？
+
+根据第2条，「官方机密」指法令附表所列明的任何文件，连同其相关信息与材料，并包括任何被列为「绝密」（Rahsia Besar）、「机密」（Rahsia）、「秘密」（Sulit）或「限阅」（Terhad）的其他官方文件、信息或材料。
+
+一件事物成为官方机密有两条途径。第一条途径是通过附表，它列出三类始终被视为机密的文件：
+
+- 内阁文件、决议及讨论记录，包括内阁委员会；
+- 州行政议会文件、决议及讨论记录，包括其委员会；
+- 涉及国家安全、国防及国际关系的文件。
+
+第二条途径是通过行政分级。第2B条允许部长、州务大臣或首席部长，通过证书委任任何公务员对文件进行分级。第2A条则允许部长通过宪报（Warta）中的命令，不时增添、删减或修改附表。反之，第2C条允许解密（declassification），一旦某文件被解密，它便不再是官方机密。
+
+采用四个分级等级：
+
+| 分级等级 | 法令中的术语 |
+| --- | --- |
+| 绝密 (Rahsia Besar) | "Top Secret" |
+| 机密 (Rahsia) | "Secret" |
+| 秘密 (Sulit) | "Confidential" |
+| 限阅 (Terhad) | "Restricted" |
+
+## 为何分级证书难以在法庭上受到质疑？
+
+此法令最突出的特点之一是第16A条。该条文规定，由部长、被赋予职责的公务员、州务大臣或首席部长所发出、确认某文件为官方机密的证书，「应成为最终证据」，证明该文件为官方机密，且「不得在任何法庭上以任何理由受到质疑」。
+
+人权组织ARTICLE 19在其2004年的备忘录中，将此条文形容为把保密的认定「置于司法审查的范围之外」，并在法令起诉的脉络中引述一名反对党政治人物Mohammad Ezam bin Mohd Nor的案件（案件编号42-22-2002）。据媒体报道，Ezam于2002年8月7日被八打灵再也推事庭（Mahkamah Sesyen Petaling Jaya）裁定罪成，事关向媒体泄露文件，并被判处两年监禁；据报该定罪后来在他于2004年获高等法院释放时被撤销。ARTICLE 19的观点代表了争论中的一方；支持此条文者则主张，最终证据是保护敏感信息所必需的，可避免在公开程序中泄露该信息。
+
+## 此法令下的刑罚有多重？
+
+刑罚因罪行而异，但一个反复出现的特点是强制性最低监禁刑期。许多罪行规定刑罚「不少于一年」，意味着法庭不得判处低于该下限的刑罚。
+
+| 罪行 | 条文 | 刑罚 |
+| --- | --- | --- |
+| 间谍活动 | 3 | 终身监禁 |
+| 在禁地内取得/制作文件、测量、素描或勘测 | 4 | 监禁1至14年 |
+| 在禁地内携带摄影器材 | 7 | 罚款不超过RM2,000或监禁不超过1年，或两者兼施 |
+| 未能举报索取信息之要求 | 7A | 监禁1至5年 |
+| 置身于外国代理人的信任之中 | 7B | 监禁1至5年 |
+| 不当传递官方机密 | 8(1) | 监禁1至7年 |
+| 违反法令收取官方机密 | 8(2) | 监禁1至7年 |
+| 为损害安全之目的保留官方文件 | 9(2) | 监禁1至7年 |
+
+除非由检察司（Pendakwa Raya）或经其许可，否则不得就此法令下的罪行提起起诉（第15条）。第16条则订立若干推定（presumption）：无需证明被告实施了某项显示损害马来西亚安全意图的特定行为，被告可基于案件情况、其行为或其已知品性而被定罪。
+
+## 为何此法令与新闻自由相冲突？
+
+此法令与新闻自由之间的紧张关系源于几个特点的结合：「官方机密」定义之宽泛、不要求泄露必须真正损害安全，以及第16条下的各项推定。
+
+ARTICLE 19认为可被分级的信息量「潜在地没有上限」，因为任何获委任的官员都可在无需显示损害风险的条件下将某事物分级，且分级没有自动到期的期限。该组织也突显缺乏公共利益抗辩或举报人保护。法令确实在第17A条下提供有限抗辩，但仅限于能证明自己是在执行官方职务或凭正当权力行事的人。
+
+对立的一方则强调，保护国家安全是正当目标，而内阁文件及国防事务需要保密以使政府得以运作。法令本身的长标题将其目的框定为「保护官方机密」，而第30A条授权就官方文件的处理、保管及销毁方式制定规则。这两个角度——保密的需求与透明的需求——构成了持续辩论的核心。
+
+## 关于此法令的未来有哪些不同立场？
+
+近年来的政策讨论集中于《官方机密法令》与联邦层级拟议中的《信息自由法令》（Freedom of Information）之间的关系。政府已表明有意制定信息自由框架，并相应地修订《官方机密法令》。
+
+首相署部长（法律及体制改革）拿督斯里阿莎丽娜（Datuk Seri Azalina Othman Said）据报表示，政府正在推动《信息自由法令》，使公众能够从政府来源获取更开放、更透明的信息。在同一篇报道中，一名律师强调，有意义的信息自由改革必须伴随保密法律的改革，因为只要《官方机密法令》仍然生效，它便持续限制信息获取。一名分析人士则表达观点，认为此类框架需要在透明度与其他考量之间取得平衡，他将后者标示为「国家和谐」。
+
+截至本文起草之时，《1972年官方机密法令》仍以其现行版本生效，而任何未来修订的形式仍未定案。
+
+## 下一步
+
+值得关注的后续发展包括联邦《信息自由法案》的制定，以及任何对《1972年官方机密法令》拟议的修订，尤其涉及「官方机密」的定义、分级权力，以及第16A条的地位。若需参阅全文及最新文本，权威来源是总检察署法律门户上第88号法令的官方印本。本文是借助AI协助生成的草稿，在发布前需经人工审阅。
