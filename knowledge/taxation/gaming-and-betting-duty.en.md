@@ -29,8 +29,9 @@ faq:
     a: "On a RM2 Sports Toto bet, 8% (16 sen) is deducted as gaming tax and a further 8% (14.72 sen) as pool betting duty; about 55% (RM1.10) is allocated as prize money."
 
 lang: "en"
+sourceContentHash: "7f4a7d2c70aa9d10"
 masterLanguage: "ms"
-translationStatus: "master"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
