@@ -33,9 +33,11 @@ sourceContentHash: "1e6fd0c59ee90db6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
 version: "0.2"
 verificationNeeded:
   - "Exact Act 854 section numbers for NCII designation, code of practice, risk assessment/audit and incident notification — published law-firm summaries differ (some cite s.20, others s.22 for assessment/audit), so confirm each against the gazetted text of Act 854."

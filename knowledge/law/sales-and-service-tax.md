@@ -40,9 +40,11 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
 version: "0.2"
 verificationNeeded:
   - "Non-reviewable-contract exemption: the '9 June 2025' signing cut-off. The 12-month exemption to 30 June 2026 is well corroborated, but sources vary on whether the qualifying contract must be signed before the gazette date (9 June 2025) or before implementation (1 July 2025). Confirm against the gazetted amendment orders."

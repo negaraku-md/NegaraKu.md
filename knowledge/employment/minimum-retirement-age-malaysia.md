@@ -37,9 +37,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
 version: "0.2"
 verificationNeeded:
   - "Tempoh 60 hari untuk memfailkan representasi pembuangan kerja tidak adil di bawah Seksyen 20 Akta Perhubungan Perusahaan 1967 (s.20(1A)) — sahkan sama ada tempoh dikira dari tarikh pembuangan atau dari tarikh tamat notis."

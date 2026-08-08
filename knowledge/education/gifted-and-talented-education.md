@@ -32,9 +32,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
 version: "0.2"
 verificationNeeded:
   - "Nama rasmi semasa pusat: laman UKM menggunakan kedua-dua 'PERMATA@Pintar Negara' dan 'GENIUS@Pintar Negara' (halaman sejarah bertajuk 'Sejarah Pusat GENIUS@Pintar Negara'). Sahkan penjenamaan rasmi terkini dan kemas kini tajuk/entity jika perlu."

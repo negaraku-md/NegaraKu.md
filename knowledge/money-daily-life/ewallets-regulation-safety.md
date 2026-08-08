@@ -37,9 +37,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
 version: "0.2"
 verificationNeeded:
   - "Ambang modal minimum (min. capital funds) yang tepat di bawah s.12(1) FSA / Appendix 3 dokumen dasar — sengaja tidak dinyatakan; sahkan angka sebenar sebelum menambah semula."

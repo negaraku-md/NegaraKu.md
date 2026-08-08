@@ -32,9 +32,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
 version: "0.2"
 verificationNeeded:
   - "Sama ada kelayakan atau pendaftaran PADU turut merangkumi pemastautin tetap atau terhad kepada warganegara Malaysia 18 tahun ke atas — sumber yang dipetik hanya merujuk warganegara."

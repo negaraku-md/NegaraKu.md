@@ -34,9 +34,11 @@ sourceContentHash: "9561fa4bff249209"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
 verificationNeeded:
   - "Sahkan penomboran dan angka seksyen 266(13) (penjara sehingga 5 tahun / denda sehingga RM3 juta) terhadap cetakan semula Akta 777 yang berkuat kuasa terkini."
   - "Sahkan ambang kesalahan serius seksyen 266(11)(b) (2 tahun / RM250,000) tidak dipinda selepas cetakan semula bertarikh 1.8.2022."

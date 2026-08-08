@@ -36,9 +36,11 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
 version: "0.2"
 verificationNeeded:
   - "Exact KLRCA founding date: cited law-firm sources give 1978 (one gives 17 April 1978); confirm the precise founding date against an AIAC/AALCO primary record."

@@ -34,9 +34,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
 version: "0.2"
 verificationNeeded:
   - "Had reman di bawah seksyen 117 (4+3 hari sehingga 7 hari; 7+7 hari sehingga 14 hari) perlu disemak semula terhadap teks seksyen 117(2) dalam cetakan Akta 593 yang sedang berkuat kuasa."

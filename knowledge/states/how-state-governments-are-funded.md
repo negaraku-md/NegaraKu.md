@@ -33,9 +33,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
 version: "0.2"
 verificationNeeded:
   - "Ketepatan setiap angka ISEAS (RM926 hasil negeri per kapita; RM8,969 hasil persekutuan per kapita; RM4,414 hasil per kapita Sarawak; bahagian tanah Selangor 82%; hasil hutan Pahang/Kelantan 18–20%; geran perkapita Selangor RM77.2 juta) serta tahun rujukan tepat bagi setiap satu, terhadap jadual asal kajian."

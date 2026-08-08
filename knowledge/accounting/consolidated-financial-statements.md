@@ -34,9 +34,11 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
 version: "0.2"
 verificationNeeded:
   - "Exact MFRS 10 paragraph numbers cited for the three-element control test (stated here as para 7) and for the intermediate-parent exemption (stated here as para 4(a)) — confirm against the in-force MASB text."

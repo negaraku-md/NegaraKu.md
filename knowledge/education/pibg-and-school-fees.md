@@ -32,9 +32,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
 version: "0.2"
 verificationNeeded:
   - "Tarikh kuat kuasa Peraturan-Peraturan Pendidikan (Persatuan Ibu Bapa-Guru) 1998 — sahkan terhadap Warta Kerajaan Persekutuan / P.U.(A) rasmi sebelum menyatakan tarikh tepat."

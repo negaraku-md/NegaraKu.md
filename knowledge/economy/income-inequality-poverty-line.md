@@ -37,9 +37,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
 version: "0.2"
 verificationNeeded:
   - "Kadar kemiskinan mutlak 2019 (5.6%) dan bilangan isi rumah miskin 2019 (405,441) — sahkan angka rasmi 2019; ambil kira bahawa DOSM kemudian melaporkan 6.2% bagi 2022 (asas tahun berbeza)."

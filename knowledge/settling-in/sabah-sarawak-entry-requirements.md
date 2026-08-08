@@ -36,9 +36,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
 version: "0.2"
 verificationNeeded:
   - "Klasifikasi sensitivity: topik ini menyentuh autonomi imigresen Sabah/Sarawak dalam rangka MA63 (kata kunci 'MA63 imigresen'). Isi kandungan neutral dan bukan advokasi, tetapi manusia perlu mengesahkan sama ada label 'none' memadai atau perlu dinaikkan."

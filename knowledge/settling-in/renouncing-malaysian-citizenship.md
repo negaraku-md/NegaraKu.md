@@ -35,9 +35,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
 version: "0.2"
 verificationNeeded:
   - "Kadar bayaran RM10.00, keperluan dua salinan Borang K dan senarai dokumen sokongan — sahkan terhadap laman rasmi JPN semasa (butiran boleh berubah)."

@@ -36,9 +36,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
 version: "0.2"
 verificationNeeded:
   - "Senarai tepat badan profesional yang diiktiraf dalam Bahagian II Jadual Pertama Akta Akauntan 1967 (cth. sama ada ACCA, ICAEW, CPA Australia dan MICPA tersenarai), dan sama ada syarat 'tiga tahun pengalaman praktikal' terpakai khusus kepada laluan peperiksaan Bahagian I sahaja — sahkan terhadap teks Jadual Pertama di AGC / e-Federal Gazette."

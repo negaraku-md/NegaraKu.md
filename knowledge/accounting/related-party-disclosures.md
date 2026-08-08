@@ -35,9 +35,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
 version: "0.2"
 verificationNeeded:
   - "Perkataan tepat objektif MFRS 124 — petikan dalam artikel ini adalah terjemahan Bahasa Melayu bagi teks Inggeris yang diterbitkan; sahkan terhadap standard rasmi MASB."

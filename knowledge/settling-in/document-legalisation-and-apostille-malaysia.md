@@ -35,9 +35,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
 version: "0.2"
 verificationNeeded:
   - "Arah laluan alternatif dalam negara (misi diplomatik negara pengeluar di Malaysia mengesahkan dokumen, kemudian Bahagian Konsular Wisma Putra mengendors) untuk dokumen ASING yang hendak digunakan di Malaysia — halaman KLN menerangkan proses pengesahan dokumen Malaysia untuk kegunaan di LUAR negara; sahkan arah masuk ini terus dengan Wisma Putra."

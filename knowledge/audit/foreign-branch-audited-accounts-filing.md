@@ -33,9 +33,11 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
 version: "0.2"
 verificationNeeded:
   - "Confirm the Part V, Division 1 (Foreign Companies) placement of ss.574–576 against the client's current in-force reprint of Act 777, in case of later amendment."

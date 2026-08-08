@@ -32,9 +32,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
 version: "0.2"
 verificationNeeded:
   - "Sahkan petikan tepat Seksyen 14(1) (kesalahan) dan seksyen penalti (dilaporkan Seksyen 18) terhadap teks rasmi Akta 723 atau laman FAQ KPDN — laman KPDN tidak dapat diambil secara automatik ketika semakan ini."

@@ -41,9 +41,11 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
 version: "0.2"
 verificationNeeded:
   - "RPGT acquisition basis when an inherited property is disposed of by a beneficiary in their own name (not by the executor): sources diverge on whether the market-value-at-death rule or the deceased's original cost/date applies. Confirm against the current LHDN RPGT public ruling."

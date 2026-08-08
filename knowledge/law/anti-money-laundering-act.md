@@ -32,9 +32,11 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
 version: "0.2"
 verificationNeeded:
   - "Exact current short-title citation form: 'Anti-Restricted Activity Financing' was added to the Act's title by Act A1761 (in force 1 March 2026); confirm the precise wording against the latest official reprint once published."

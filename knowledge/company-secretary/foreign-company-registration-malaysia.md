@@ -36,9 +36,11 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
 version: "0.2"
 verificationNeeded:
   - "Current registration fee tiers and the flat RM70,000 no-share-capital rate — confirm against the SSM Table of Fees / Companies Regulations 2017 in force at the time of filing, as prescribed fees can change."

@@ -35,9 +35,11 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
 version: "0.2"
 verificationNeeded:
   - "Whether a self-accrediting institution's programmes are registered in the MQR automatically or via application (MQA's qanew.cfm says the HEP 'may apply to register'; secondary summaries describe automatic registration after institutional audit)."

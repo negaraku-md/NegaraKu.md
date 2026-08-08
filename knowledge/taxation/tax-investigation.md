@@ -35,9 +35,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
 version: "0.2"
 verificationNeeded:
   - "Julat denda Seksyen 112(1) (RM200–RM2,000) sepadan dengan teks berkanun yang diterbitkan KPMG, tetapi ACP 1967 telah dipinda sejak arkib itu — sahkan angka semasa terhadap Akta Cukai Pendapatan 1967 terkini / hasil.gov.my."

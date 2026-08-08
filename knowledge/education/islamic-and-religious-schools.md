@@ -32,9 +32,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
 version: "0.2"
 verificationNeeded:
   - "Nisbah ~800 pusat tahfiz tidak berdaftar di Selangor daripada ~1,000 di seluruh negara (angka Bernama; kelihatan tidak seimbang secara dalaman dan patut disemak terhadap data JAIS/JAKIM terkini)."

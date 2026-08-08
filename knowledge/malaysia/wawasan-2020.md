@@ -35,9 +35,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
 version: "0.2"
 verificationNeeded:
   - "Rendering rasmi tajuk kertas kerja dalam bahasa Melayu ('Malaysia: Melangkah Ke Hadapan'): teks asal yang dirujuk berbahasa Inggeris ('Malaysia: The Way Forward'). Sahkan tajuk Melayu rasmi daripada arkib kerajaan."

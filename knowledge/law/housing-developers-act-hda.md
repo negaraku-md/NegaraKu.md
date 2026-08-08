@@ -41,9 +41,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
 version: "0.2"
 verificationNeeded:
   - "Seksyen 18 denda kini RM250,000–RM500,000 (minimum dinaikkan daripada RM50,000 oleh pindaan pra-2007); sahkan terhadap cetakan semula Akta 118 terkini dari AGC/Percetakan Nasional."

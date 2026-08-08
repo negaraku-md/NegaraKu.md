@@ -34,9 +34,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
 version: "0.2"
 verificationNeeded:
   - "Kadar cukai individu dalam Jadual 1 dipetik daripada teks Akta 53 setakat cetakan semula 1 November 2023; sahkan tiada pindaan terkini mengubah banjaran atau kadar bagi tahun taksiran semasa."

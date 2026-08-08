@@ -37,9 +37,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
 version: "0.2"
 verificationNeeded:
   - "Tempoh respons pengiktirafan kesatuan 21 hari di bawah seksyen 9(3): fakta betul tetapi belum disokong oleh sumber primer yang diambil — sahkan terhadap teks statut semasa sebelum diterbitkan sebagai angka pasti."

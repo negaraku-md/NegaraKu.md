@@ -36,9 +36,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
 version: "0.2"
 verificationNeeded:
   - "Sama ada peranan SPNB (dilantik oleh Kementerian Kewangan pada 2001 sebagai ejen pemulihan) kekal sebagai mekanisme pemulihan projek terbengkalai yang aktif hari ini, memandangkan SPNB diletakkan di bawah kawalan KPKT sejak 3 Ogos 2018."

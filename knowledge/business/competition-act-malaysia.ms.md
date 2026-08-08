@@ -31,9 +31,11 @@ sourceContentHash: "6a2eea7b75db3f8c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
 version: "0.2"
 revisions:
   - version: "0.1"

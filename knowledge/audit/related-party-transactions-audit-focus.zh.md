@@ -36,9 +36,11 @@ sourceContentHash: "ea0ecab6bfc0f793"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
 version: "0.2"
 verificationNeeded:
   - "Confirm the current Bursa Malaysia Main Market Listing Requirements still number the percentage ratios at paragraph 10.02 and the recurrent related party transaction shareholders' mandate at paragraph 10.09 in the version current at publication (the cited extract is dated 31 October 2025)."

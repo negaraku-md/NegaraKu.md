@@ -37,9 +37,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
 version: "0.2"
 verificationNeeded:
   - "Tarikh GXBank dibuka kepada orang ramai — beta terhad kepada 20,000 pengguna pada 14 Nov 2023, pelancaran rasmi umum sekitar 30 Nov 2023; sahkan tarikh 'orang ramai penuh' yang hendak digunakan."

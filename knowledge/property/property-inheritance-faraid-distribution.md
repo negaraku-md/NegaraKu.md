@@ -33,9 +33,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
 version: "0.2"
 verificationNeeded:
   - "Pecahan faraid (bahagian pasangan, anak, ibu bapa) sebaik-baiknya disahkan terhadap sumber rasmi Islam (mis. JAKIM/Mufti) atau nas al-Quran secara langsung, bukan sumber komersial FaraidHub."

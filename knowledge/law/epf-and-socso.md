@@ -39,9 +39,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
 version: "0.2"
 verificationNeeded:
   - "Tarikh tepat penstrukturan semula akaun EPF: sumber rasmi yang dirujuk hanya mengesahkan 'Mei 2024'. Sesetengah laporan menyebut 11 Mei 2024 — sahkan hari tepat dengan pengumuman rasmi KWSP."

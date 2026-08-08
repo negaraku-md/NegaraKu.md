@@ -32,9 +32,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
 version: "0.2"
 verificationNeeded:
   - "Sahkan kadar dan pengecualian masih terpakai pada 2026 — Panduan RMCD bertarikh 20 Ogos 2019; pastikan tiada pindaan kepada Akta Levi Pelepasan 2019 atau perintah-perintahnya sejak itu."

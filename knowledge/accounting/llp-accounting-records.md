@@ -40,9 +40,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
 version: "0.2"
 verificationNeeded:
   - "Teks penalti s.68(7) telah disemak semula terhadap Akta 743 (teks kemas kini 1 Ogos 2022) dan bersifat disjunktif (penjara ATAU denda ATAU kedua-duanya); sila sahkan sekali lagi terhadap teks bercetak Warta yang terkini."

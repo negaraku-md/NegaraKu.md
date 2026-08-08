@@ -37,9 +37,11 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
 version: "0.2"
 verificationNeeded:
   - "Whether the 2025 spouse-route reform (3-year marriage + 1-year LTSVP, points test scrapped, ~6-month processing, rollout by end-September 2025) was actually implemented as announced; capture the current operative requirement directly from Immigration/MOHA."

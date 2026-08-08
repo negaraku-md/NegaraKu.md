@@ -34,9 +34,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
 version: "0.2"
 verificationNeeded:
   - "Mekanisme kelayakan BUDI95 pada pelancaran (30 Sep 2025) berasaskan data JPJ/JPN (MyKad + lesen memandu sah), bukan penapisan pendapatan PADU secara langsung. Peranan PADU dalam pensasaran RON95 setakat ini ialah hasrat dasar yang dinyatakan (Menteri Kewangan II, Ogos 2025) — sahkan sejauh mana PADU benar-benar digunakan dalam pelaksanaan sebenar."

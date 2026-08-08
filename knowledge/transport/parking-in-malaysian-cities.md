@@ -32,9 +32,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
 version: "0.2"
 verificationNeeded:
   - "Kadar bulanan letak kereta Petaling Jaya (dilaporkan RM100 sebulan) — tidak disahkan oleh laman Setel MBPJ semasa; perlu pengesahan langsung MBPJ sebelum dinyatakan semula."

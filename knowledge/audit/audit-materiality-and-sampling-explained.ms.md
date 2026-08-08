@@ -34,9 +34,11 @@ sourceContentHash: "caf6b9d895d2d9ba"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
 version: "0.2"
 verificationNeeded:
   - "Re-check the ISA 320, 450 and 530 paragraph numbers against the current IAASB Handbook edition. The article cites the 2012-2013 handbook; these standards have not been substantively revised, but paragraph references should be reconfirmed against the latest published handbook a human reviewer relies on."

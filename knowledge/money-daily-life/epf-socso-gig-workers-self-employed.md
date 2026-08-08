@@ -36,9 +36,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
 version: "0.2"
 verificationNeeded:
   - "Tarikh permulaan kuat kuasa tepat Akta 789 — laman rasmi PERKESO hanya menyatakan 'Jun 2017'; notis P.U. (B) 299 2017 tidak dapat dibaca mesin. Sahkan hari tepat."

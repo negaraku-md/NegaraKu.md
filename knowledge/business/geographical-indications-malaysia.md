@@ -32,9 +32,11 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
 version: "0.2"
 verificationNeeded:
   - "GI renewal (GIA19), renewal-with-surcharge (GIA20) and restoration fee amounts — the specific RM figures in the earlier draft (RM420 / RM630 / RM670) could not be independently verified and appear to overlap with the trademark fee schedule; confirm the actual GI amounts against the Second Schedule of the Guidelines before publishing."

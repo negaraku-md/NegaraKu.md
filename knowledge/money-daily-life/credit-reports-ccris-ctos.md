@@ -37,9 +37,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
 version: "0.2"
 verificationNeeded:
   - "Sejauh mana majikan di Malaysia benar-benar menyemak laporan kredit (CCRIS/CTOS) sebagai sebahagian saringan pekerjaan — amalan ini nampaknya terhad kepada jawatan sektor kewangan tertentu dan tidak disokong oleh sumber rasmi utama; sahkan atau keluarkan."

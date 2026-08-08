@@ -31,9 +31,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
 version: "0.2"
 verificationNeeded:
   - "URL sumber Bestar mengandungi pemisah 'reinst-ate' di tengah perkataan (…/application-to-reinst-ate-company-under-section-555-1-…). Ia menghasilkan HTTP 200 (slug kanonik sebenar Wix), tetapi sahkan secara manual token itu tidak rosak atau tersalin secara senyap."

@@ -32,9 +32,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
 version: "0.2"
 verificationNeeded:
   - "Kod warta rasmi 'P.U. (A) 43/1973' bagi Kaedah-Kaedah Motosikal (Topi Keledar) 1973 — nama kaedah dan kandungannya disahkan menerusi sumber sekunder yang dibuka, tetapi kod P.U.(A) itu sendiri belum disahkan terhadap teks Warta Persekutuan primer."

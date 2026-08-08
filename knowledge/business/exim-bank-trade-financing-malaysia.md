@@ -32,9 +32,11 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
 version: "0.2"
 verificationNeeded:
   - "Current pricing, eligibility, and coverage caps for Trade Credit Takaful/Insurance (confirm against the latest Product Disclosure Sheet before relying on the 90%/95% figures)."
