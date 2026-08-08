@@ -67,7 +67,7 @@ sources:
 
 entity: "Export-Import Bank of Malaysia Berhad"
 relations:
-  - { rel: "regulated-by", to: "bank-negara-malaysia" }
+  - { rel: "administered-by", to: "bank-negara-malaysia" }
   - { rel: "related-to", to: "bank-pembangunan-malaysia" }
 related: ["bank-negara-malaysia", "development-financial-institutions-malaysia"]
 keywords: ["EXIM Bank Malaysia", "export credit agency", "trade credit takaful", "export credit insurance", "trade financing", "non-traditional markets"]
