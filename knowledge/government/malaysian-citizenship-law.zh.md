@@ -1,0 +1,230 @@
+---
+topicId: MY-GOV-0080
+title: "马来西亚公民权：如何取得"
+seoTitle: "马来西亚公民权法：依法自动取得、注册登记、入籍归化"
+slug: "malaysian-citizenship-law"
+category: "government"
+subcategory: ["citizenship"]
+summary: "《联邦宪法》第三部分规定了成为马来西亚公民的三条途径——出生时依法自动取得（第14条）、注册登记（第15、15A、16条）以及入籍归化（第19条）——针对子女、外籍配偶和无国籍人士设有不同条件。本文按《宪法》条文本身所界定的内容逐一说明每条途径，包括2024年修正案，允许马来西亚籍母亲将公民权赋予在海外出生的子女。"
+
+tier: "2"
+mode: "practical"
+contentType: "guide"
+sensitivity: "none"
+
+answer: "一个人依据《联邦宪法》第三部分下的三条途径之一成为马来西亚公民。第一，出生时依法自动取得（第14条及第二附表）：在马来西亚出生的婴儿，若出生时父母中至少一方是公民或永久居民，即为公民。第二，经申请注册登记取得——适用于公民的外籍妻子（第15(1)条）、未成年子女（第15(2)条及第15A条），以及独立前在联邦出生者（第16条）。第三，针对长期定居的成年非公民经入籍归化取得（第19条）。"
+keyTakeaways:
+  - "第14条规定：在马来西亚出生的婴儿，若出生时父母中至少一方是公民或永久居民，即自动成为公民（第二附表第二部分）"
+  - "对于在海外出生者，自动公民权过去只能由公民父亲赋予——2024年《宪法》修正案增列了母亲，已于2024年10月17日在下议院以206票赞成对1票反对（14票缺席）通过"
+  - "公民的外籍妻子若在申请前的两年内一直在联邦定居且品行良好，有权依据第15(1)条申请注册登记"
+  - "依据第19条入籍归化须年满21岁、在申请前12年内定居至少10年（包括最后12个月）、品行良好并具备足够的马来语知识"
+  - "在联邦出生且并非生而为任何其他国家公民的儿童，依据第二附表第二部分(e)项依法自动成为公民——此为防止无国籍的条款"
+  - "凡年满18岁者，在注册登记为公民之前均须宣读效忠誓言（第一附表）——第18(1)条"
+appliesTo: "希望确认子女公民身份的父母、马来西亚公民的外籍配偶、无国籍人士，以及任何需要了解第三部分下哪条途径适用于自身情况的人。"
+
+faq:
+  - q: "在马来西亚出生的婴儿是否自动成为公民？"
+    a: "不一定。依据《宪法》第二附表第二部分，在马来西亚出生的婴儿只有在出生时父母中至少一方是公民或永久居民时，才依法自动成为公民。一个重要的例外：在联邦出生且并非生而为任何其他国家公民的儿童仍然成为公民，以避免无国籍状态。"
+  - q: "马来西亚籍母亲能否将公民权赋予其在海外出生的子女？"
+    a: "可以，但途径有所改变。在2024年《宪法》修正案之前，海外出生者的自动公民权只能由公民父亲赋予；公民母亲必须依据第15(2)条申请酌情注册登记。《2024年宪法（修正）法案》——已于2024年10月17日在下议院通过，但仍须完成其余的国会程序（上议院批准、最高元首御准及宪报刊登）方能生效——将第二附表第二部分中的“父亲”一词替换为“父母中一方”。它不具追溯效力：仅适用于在其生效之后出生的儿童（预定于2026年年中生效）。现有的18岁以下子女可依据第15(2)条申请。"
+  - q: "马来西亚公民的外籍妻子申请公民权有哪些条件？"
+    a: "第15(1)条规定，丈夫为公民的已婚妇女，若在申请日期前的两年内一直在联邦定居、有意永久定居且品行良好，即有权申请注册登记。政府门户网站指出，申请人通常须持有永久居民身份。请注意，此条款专门适用于外籍妻子——对于女性公民的外籍丈夫，并无对等的注册登记条款。"
+  - q: "一个人须在马来西亚居住多久才能申请入籍归化？"
+    a: "依据第19条，申请人须年满21岁、为非公民，并已在联邦定居累计不少于10年（在申请前的12年之内），包括紧接申请日期前的12个月。他还须品行良好并具备足够的马来语知识。入籍证书的授予由联邦政府酌情决定。"
+  - q: "马来西亚允许双重国籍吗？"
+    a: "不允许。马来西亚实行单一国籍政策。其宪法依据是第23条（放弃公民权）和第24条（在自愿取得他国公民权时被剥夺公民权），MyGovernment门户网站也确认了这一政策。放弃马来西亚公民权的决定是永久性的。请就您的具体情况向国民登记局（JPN）核实。"
+
+lang: "zh"
+sourceContentHash: "32332ac0d26401bb"
+masterLanguage: "ms"
+translationStatus: "in-sync"
+
+status: "published"
+aiAssisted: true
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
+version: "0.2"
+verificationNeeded:
+  - "Status penuh proses perundangan Rang Undang-Undang Perlembagaan (Pindaan) 2024 selepas kelulusan Dewan Rakyat (17 Okt 2024): sahkan tarikh kelulusan Dewan Negara, tarikh perkenan Yang di-Pertuan Agong, dan tarikh pewartaan/kuat kuasa sebenar (kuat kuasa disasarkan pertengahan 2026)."
+  - "Tarikh kuat kuasa tepat pindaan Jadual Kedua Bahagian II (rujukan 'salah seorang ibu bapa') dan sama ada laluan peralihan Perkara 15(2) bagi anak sedia ada di bawah 18 tahun kekal terpakai selepas kuat kuasa."
+  - "Rujukan silang Perkara 23 dan 24 sebagai asas dasar kewarganegaraan tunggal — sahkan teks penuh terus daripada Perlembagaan Persekutuan (AGC), bukan hanya ringkasan portal."
+  - "Syarat pemastautin tetap (PR) bagi pemohon Perkara 15(1)/15(2) — sahkan amalan JPN semasa berbanding teks Perlembagaan, kerana syarat PR dinyatakan oleh portal dan bukan secara eksplisit dalam Perkara 15."
+  - "Tahap sensitiviti metadata ditetapkan 'none' mengikut spesifikasi; memandangkan topik menyentuh ketiadaan kewarganegaraan dan peruntukan lampau berasaskan jantina, sahkan sama ada tahap ini wajar dinaikkan oleh penyemak manusia."
+revisions:
+  - version: "0.1"
+    date: 2026-08-01
+    change: "Draf awal AI. Tier 2: tiga jalan kewarganegaraan Bahagian III (Perkara 14, 15, 15A, 16, 19) disahkan terhadap teks Perlembagaan Persekutuan (Cetakan Semula 2020, AGC) yang dibaca terus; pindaan 2024 (undi 17 Oktober 2024, 206-1) disahkan menerusi The Star dan kenyataan SUHAKAM. Angka yang tidak dapat disahkan di sumber rasmi ditinggalkan. Ditahan sebagai draf menunggu semakan manusia."
+    reviewer: null
+  - version: "0.2"
+    date: 2026-08-01
+    change: "Correction pass: perketat atribusi pindaan 2024 kepada kelulusan Dewan Rakyat (17 Okt 2024) dengan proses Parlimen penuh masih tertunggak; nyatakan Perkara 23-24 sebagai asas kewarganegaraan tunggal; tambah verificationNeeded; bump ke 0.2."
+    reviewer: null
+
+updated: 2026-08-01
+sources:
+  - title: "Federal Constitution (Reprint 2020) — Part III (Citizenship): Articles 14, 15, 15A, 16, 18, 19, 23, 24, and the Second Schedule Parts I and II"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
+    publisher: "Attorney General's Chambers of Malaysia"
+    date: "2020"
+  - title: "Kewarganegaraan — MyGovernment (Portal Rasmi Kerajaan Malaysia)"
+    url: "https://www.malaysia.gov.my/en/categories/pengenalan-diri/kewarganegaraan"
+    publisher: "Kerajaan Malaysia (MyGovernment)"
+  - title: "Parliament amends Constitution to grant automatic citizenship to kids born abroad to Malaysian mothers"
+    url: "https://www.thestar.com.my/news/nation/2024/10/17/parliament-amends-constitution-to-grant-automatic-citizenship-to-kids-born-abroad-to-malaysian-mothers"
+    publisher: "The Star"
+    date: "2024-10-17"
+  - title: "Media Statement No. 01-2026 (OCC) — Children's Commissioner Welcomes Implementation of Law Granting Automatic Citizenship to Children Born Overseas to Malaysian Mothers in Mid-2026"
+    url: "https://suhakam.org.my/2026/01/media-statement-no-01-occ-_childrens-commissioner-welcomes-implementation-of-law-granting-automatic-citizenship-to-children-born-overseas-to-malaysian-mothers-in-mid-2026/"
+    publisher: "SUHAKAM (Suruhanjaya Hak Asasi Manusia Malaysia)"
+    date: "2026-01"
+
+entity: "Kewarganegaraan Malaysia (Bahagian III, Perlembagaan Persekutuan)"
+relations:
+  - { rel: "part-of", to: "federal-constitution" }
+  - { rel: "administered-by", to: "jpn" }
+  - { rel: "related-to", to: "constitutional-amendment" }
+  - { rel: "related-to", to: "imigresen" }
+related: ["federal-constitution", "jpn", "constitutional-amendment", "imigresen"]
+keywords: ["kewarganegaraan Malaysia", "Malaysian citizenship", "Perkara 14 Perlembagaan", "Bahagian III Perlembagaan Persekutuan", "kewarganegaraan secara pendaftaran", "penaturalisasian Malaysia", "Perkara 19 naturalisation", "pasangan asing kewarganegaraan", "anak tanpa kewarganegaraan", "pindaan Perlembagaan 2024 kewarganegaraan"]
+---
+
+一个在吉隆坡出生的婴儿和一个在伦敦出生、父母皆为马来西亚人的
+婴儿，未必以相同的公民身份开始其人生。原因就藏在《联邦宪法》
+第二附表的寥寥数语之中——而直到不久前，还藏在仅仅一个词
+里面："父亲"。
+
+《联邦宪法》第三部分规定了公民权如何取得、丧失和终止。对大多数
+人而言，只有三条取得途径是相关的。
+
+## 成为公民有哪三条途径？
+
+| 途径 | 条款 | 摘要 |
+| --- | --- | --- |
+| 依法自动取得 | 第14条 + 第二附表 | 出生时自动取得，取决于父母身份或出生地 |
+| 注册登记 | 第15、15A、16条 | 经申请取得；适用于外籍妻子、子女及独立前出生者 |
+| 入籍归化 | 第19条 | 适用于长期定居的成年非公民 |
+
+第四条途径——第22条下的领土合并——属于历史性质，不适用于
+今天的个人申请。三条途径之间的主要区别在于酌情裁量的程度：
+依法自动取得公民权在条件满足时自动发生，而注册登记和入籍
+归化则涉及可获批准或遭拒绝的申请。
+
+## 谁在出生时自动成为公民？
+
+第14条使两类人依法自动成为公民：在马来西亚日之前出生者（依
+第二附表第一部分），以及在马来西亚日当天或之后出生者（依
+第二附表第二部分）。
+
+对于今天的出生情形，适用第二附表第二部分。在马来西亚日当天
+或之后出生的人，若属于以下任一项，即为公民：
+
+- **在联邦境内出生**，且出生时父母中至少一方是公民或永久
+  居民（(a)项）。
+- **在联邦境外出生**，且其父亲在出生时是公民，而该父亲本人
+  也在联邦出生或正在为联邦政府或州政府服务（(b)项）——
+  或该项出生在一年内于联邦领事馆登记（(c)项）。
+- **在联邦境内出生**，且并非生而为任何其他国家公民（(e)
+  项）——此为避免无国籍状态的条款。
+
+请注意，仅仅在马来西亚境内出生并不足够：父母身份至关重要。
+马来西亚不实行绝对的*属地主义*（*jus soli*，即仅凭出生地
+而取得公民权）。
+
+## 为何出生地和父母的性别至关重要？
+
+这就是前述"父亲"一词变得关键之处。对于在联邦**境内**出生
+者，(a)项本已不分性别——"父母中至少一方"。但对于在联邦
+**境外**出生者，(b)项在历史上仅提及公民**父亲**。其后果是：
+一位马来西亚父亲可以将自动公民权赋予其在海外出生的子女，
+但一位马来西亚母亲却不能——她的子女必须依据第15(2)条申请
+酌情注册登记。
+
+2024年《宪法》修正案弥合了这一缺口。下议院于2024年10月17日
+以206票赞成、1票反对（14票缺席）通过了《2024年宪法（修正）
+法案》——超过了三分之二多数的门槛。要成为法律，该法案仍须
+完成其余的国会程序——上议院批准、最高元首御准及宪报刊登
+——方能生效。该修正案将第二附表第二部分中的"父亲"一词替换
+为"父母中一方"，使公民母亲得以将公民权依法自动赋予其在
+海外出生的子女。
+
+两项重要条件限制了其效力：
+
+- **它不具追溯效力。** 该修正案在最高元首通过宪报公告所
+  订定的日期生效，政府目标定于2026年年中。它适用于在其
+  生效**之后**出生的儿童。
+- **现有子女另有途径。** 在生效日期之前于海外出生、母亲为
+  马来西亚人的18岁以下儿童，可依据第15(2)条申请经注册
+  登记取得公民权。
+
+## 外籍配偶和子女如何注册登记？
+
+注册登记是为那些不符合依法自动取得资格、但与马来西亚有足够
+密切联系的人而设的途径。每个类别都有其自身的条件。
+
+| 类别 | 条款 | 核心条件 |
+| --- | --- | --- |
+| 公民的外籍妻子 | 第15(1)条 | 在申请前的2年内在联邦定居；有意永久定居；品行良好 |
+| 未成年子女（父母为公民） | 第15(2)条 | 未成年；父母中至少一方是（或在其去世时是）公民；由父母/监护人申请 |
+| 特殊情况下的子女 | 第15A条 | 政府酌情决定，在"其认为适当的任何特殊情况下"登记任何未成年人 |
+| 独立前在联邦出生 | 第16条 | 年满18岁；申请前7年内定居5年；品行良好；具备基本马来语知识 |
+
+第15(1)条与第15(2)条之间存在细微但重要的区别。外籍妻子
+**有权**依据第15(1)条申请——若条件满足，该申请即为一项权利。
+相反，依据第15(2)条，政府**得**促使一名子女被登记——这是
+酌情裁量权，而非绝对权利。政府门户网站指出，外籍妻子申请人
+通常须持有永久居民身份。
+
+条文中仍保留一处性别不对称：第15(1)条给予公民的外籍**妻子**
+一条注册登记途径，但对于女性公民的外籍**丈夫**却无对等条款。
+
+## 入籍归化有哪些条件？
+
+第19条下的入籍归化是为没有最近亲属关系的成年非公民而设的
+途径。其门槛最高。联邦政府可向符合以下条件者授予入籍证书：
+
+- 年满21岁且为非公民；
+- 已在联邦定居累计**不少于10年（在申请日期前的12年之内）**，
+  **包括紧接该日期前的12个月**，并有意永久定居；
+- 品行良好；以及
+- 具备**足够的马来语知识**。
+
+第19条中的"可"字意味着即使所有条件均已满足，证书的授予仍由
+联邦政府酌情决定。对于每一位年满18岁的申请人——无论是经注册
+登记还是入籍归化——第18(1)条均要求在登记生效之前宣读第一附表
+中的效忠誓言。
+
+## 无国籍儿童如何受到保护？
+
+《宪法》包含两项机制以减少无国籍状态。第一，第二附表第二部分
+(e)项使在联邦境内出生且并非生而为任何其他国家公民的儿童依法
+自动成为公民。第二，第15A条赋予联邦政府广泛的酌情裁量权，
+可"在任何特殊情况下"登记任何未成年人——此条款常用于弃养儿、
+遗弃儿以及父母证件不齐全的子女的案例。
+
+在实务中，此类儿童面临的主要挑战往往不是法律条文，而是证据
+——证明出生地、父母身份以及不具其他国籍。在提出申请之前，
+请向JPN核实当前所需的证件清单。
+
+## 最常见的误解
+
+**"在马来西亚出生就意味着自动成为公民。"** 不对。除了(e)项的
+防止无国籍条款之外，起决定作用的是出生时的父母身份。
+
+**"2024年修正案立即将公民权赋予马来西亚籍母亲的所有子女。"**
+不对。它不具追溯效力；在生效日期之前出生的子女须采用第15(2)条
+的注册登记途径。
+
+**"马来西亚允许双重国籍。"** 不对。马来西亚实行单一国籍
+（第23条和第24条），而放弃马来西亚公民权是永久性的。
+
+## 接下来的步骤
+
+关于第三部分在整份文件中的位置，参见
+[马来西亚联邦宪法](/law/federal-constitution)。关于诸如2024年
+公民权修正案这样的修正案如何获得通过——包括为何第三部分需要
+统治者会议的同意——参见
+[修改联邦宪法](/law/constitutional-amendment)。关于表格、
+证件清单及公民身份的柜台事务，请从
+[JPN — 国民登记局](/government/jpn)开始，并在提交申请之前
+按您所在的地区及申请类别核实所需条件。

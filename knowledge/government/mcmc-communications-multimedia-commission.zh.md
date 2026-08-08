@@ -1,0 +1,162 @@
+---
+topicId: MY-GOV-0081
+title: "MCMC — 马来西亚通讯及多媒体委员会"
+seoTitle: "MCMC（SKMM）：牌照、广播与互联网内容监管"
+slug: "mcmc-communications-multimedia-commission"
+category: "government"
+subcategory: ["agencies"]
+summary: "马来西亚通讯及多媒体委员会的机构实体页面——涵盖其法定基础、四类须领牌的活动、个人牌照与类别牌照的区别，以及它对互联网内容能做与不能做的事。"
+
+tier: "2"
+mode: "practical"
+contentType: "agency"
+sensitivity: "none"
+
+answer: "MCMC（马来西亚通讯及多媒体委员会，马来文简称 SKMM）是一个法定机构，依据《1998 年通讯及多媒体法令》（第 588 号法令）监管融合后的通讯与多媒体行业——电信、广播及网络活动。它由《1998 年马来西亚通讯及多媒体委员会法令》（第 589 号法令）设立，并于 1998 年 11 月 1 日开始运作。其核心职能包括向服务提供者发放牌照、管理频谱、执行竞争法及保护消费者。"
+keyTakeaways:
+  - "由第 589 号法令设立、并透过 P.U.(B) 451/98 于 1998 年 11 月 1 日开始运作的法定机构"
+  - "依据《1998 年通讯及多媒体法令》（第 588 号法令）监管融合后的行业，该法令于 1999 年 4 月 1 日生效"
+  - "四类须领牌的活动：网络设施提供者、网络服务提供者、应用服务提供者及内容应用服务提供者"
+  - "牌照实际上是由部长根据委员会的建议发出——而非由委员会本身发出（第 29–30 条）"
+  - "根据第 126 条无牌经营，可被处以不超过 50 万令吉罚款，或不超过 5 年监禁，或两者兼施"
+  - "该法令明确规定，其中任何内容均不得被解释为准许对互联网进行审查（第 3(3) 条）"
+appliesTo: "任何需要辨明马来西亚哪一个机构监管电信、广播及网络内容，以及某项活动落在哪部法律与哪种牌照之下的人。"
+
+faq:
+  - q: "牌照是由 MCMC 自己发出的吗？"
+    a: "不完全是。委员会接收并评估个人牌照申请，并在六十日内向部长提出书面建议（第 29 条）。是否发出或拒绝该牌照，由部长决定（第 30 条）。至于类别牌照，则由部长发出（第 44 条），再由委员会登记。"
+  - q: "个人牌照与类别牌照有何区别？"
+    a: "个人牌照是发给某个特定人士、从事特定活动、附带具体条件的牌照。类别牌照则是发给任何从事某项指定活动者的通用牌照；持有者无须逐一申请牌照，但必须在运作前向委员会登记（第 131 条）。"
+  - q: "MCMC 可以审查或封锁网站吗？"
+    a: "《1998 年通讯及多媒体法令》第 3(3) 条订明，该法令中任何内容均不得被解释为准许对互联网进行审查。不过，同一法令将不当使用网络设施或服务——即以骚扰意图制作或传送淫秽、虚假、恐吓或冒犯性内容——列为第 233 条下的罪行。"
+  - q: "无牌经营会受到什么处罚？"
+    a: "第 126(2) 条规定，任何人在没有有效牌照下拥有或提供网络设施、网络服务或应用服务，即属犯罪，一经定罪，可被处以不超过 50 万令吉罚款，或不超过五年监禁，或两者兼施，并就该罪行在定罪后每持续一日加处 1,000 令吉罚款。"
+
+lang: "zh"
+sourceContentHash: "2e09b928d17c5095"
+masterLanguage: "ms"
+translationStatus: "in-sync"
+
+status: "published"
+aiAssisted: true
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
+version: "0.2"
+verificationNeeded:
+  - "Tarikh atau tahun pelaksanaan berperingkat seksyen tertentu Akta 588 — jika hendak menyatakan tahun spesifik, sahkan daripada warta P.U.(B) yang berkaitan (kini disebut secara umum tanpa tahun)."
+  - "Nama kementerian dan menteri induk semasa yang bertanggungjawab bagi MCMC (portfolio pernah disusun semula beberapa kali)."
+  - "Klasifikasi sensitiviti: pertimbangkan sama ada topik penapisan Internet (Seksyen 3(3)) dan penguatkuasaan Seksyen 233 wajar dinaikkan daripada \"none\", memandangkan konteks ucapan dalam talian/politik."
+  - "Ayat mengenai perdebatan awam tentang penguatkuasaan Seksyen 233 — perlu disokong dengan sumber primer/berwibawa jika hendak dikekalkan atau diperincikan."
+revisions:
+  - version: "0.1"
+    date: 2026-08-01
+    change: "Draf awal AI. Halaman entiti agensi Tier 2: asas berkanun (Akta 588 dan Akta 589), empat kategori lesen, perbandingan lesen individu lawan lesen kelas, kuasa pelesenan Menteri atas syor Suruhanjaya, serta peruntukan kandungan internet (Seksyen 3(3) dan 233). Semua seksyen dan amaun disahkan daripada teks Akta 588."
+    reviewer: null
+  - version: "0.2"
+    date: 2026-08-01
+    change: "Correction pass: buang tahun '2002' yang tidak bersumber, betulkan mekanisme lesen kelas (diberi, bukan 'perisytiharan'), tambah nota sensitiviti Seksyen 233 dan senarai verificationNeeded."
+    reviewer: null
+
+updated: 2026-08-01
+sources:
+  - title: "Akta Suruhanjaya Komunikasi dan Multimedia Malaysia 1998 [Akta 589]"
+    url: "https://www.mcmc.gov.my/en/legal/acts/malaysian-communications-and-multimedia-commission"
+    publisher: "Suruhanjaya Komunikasi dan Multimedia Malaysia (MCMC)"
+    date: "1998-11-01"
+  - title: "Communications and Multimedia Act 1998 [Act 588]"
+    url: "https://www.mcmc.gov.my/en/legal/acts/communications-and-multimedia-act-1998-reprint-200"
+    publisher: "Suruhanjaya Komunikasi dan Multimedia Malaysia (MCMC)"
+    date: "1999-04-01"
+  - title: "Laws of Malaysia — Act 588 Communications and Multimedia Act 1998 (teks penuh)"
+    url: "https://contentforum.my/wp-content/uploads/2022/11/CMA-1998.pdf"
+    publisher: "Communications and Multimedia Content Forum of Malaysia"
+    date: "1998-09-23"
+
+entity: "MCMC"
+relations:
+  - { rel: "related-to", to: "communications-multimedia-act-1998" }
+related: ["communications-multimedia-act-1998"]
+keywords: ["MCMC", "SKMM", "Suruhanjaya Komunikasi dan Multimedia Malaysia", "Akta Komunikasi dan Multimedia 1998", "Akta 588", "Akta 589", "lesen telekomunikasi", "penyiaran", "kandungan internet", "NFP", "NSP", "ASP", "CASP"]
+---
+
+在马来西亚，每一通电话、每一次上网、每一档电视广播和每一个消息应用，都在同一套牌照制度下运作——而构建这套制度的委员会，就是 MCMC。
+
+## 一览
+
+| | |
+| --- | --- |
+| 全名 | Suruhanjaya Komunikasi dan Multimedia Malaysia / Malaysian Communications and Multimedia Commission（马来西亚通讯及多媒体委员会） |
+| 简称 | SKMM（马来文）/ MCMC（英文） |
+| 类型 | 法定机构 |
+| 设立法令 | 《1998 年马来西亚通讯及多媒体委员会法令》（第 589 号法令） |
+| 开始运作 | 1998 年 11 月 1 日，透过 P.U.(B) 451/98 |
+| 行业法令 | 《1998 年通讯及多媒体法令》（第 588 号法令） |
+| 汇报对象 | 负责通讯及多媒体事务的部长 |
+| 网站 | `mcmc.gov.my` |
+
+## MCMC 是如何诞生的？
+
+MCMC 源自 1998 年一并通过的两部法令。第一部是**第 589 号法令**，它设立了委员会本身，并赋予其监督与监管马来西亚通讯及多媒体活动、执行国家通讯及多媒体法律的权力。第 589 号法令于 1998 年 9 月 23 日获得御准，委员会随后于 1998 年 11 月 1 日透过 P.U.(B) 451/98 开始运作。
+
+第二部是**第 588 号法令**——《1998 年通讯及多媒体法令》——它建立起监管融合后通讯及多媒体行业的框架。该法令于 1999 年 4 月 1 日生效，某些特定条文则在该日期之后分阶段实施。
+
+第 588 号法令背后的核心理念是*融合*（convergence）。在此之前，电信、广播与信息技术是三个各自独立的行业，各有一套法律。当数码技术使三者之间的界线变得模糊——电话可以传输视频，互联网可以承载广播——一部法令便以单一的行业定义取代了这三套法律。
+
+第 588 号法令第 3 条所订立的国家政策目标，包括把马来西亚打造为信息与内容服务的全球枢纽、为最终用户的长远利益进行监管，以及确保信息安全与网络的可靠性。
+
+## 它监管什么？
+
+MCMC 的监管范围横跨移动与固定电信、宽带、卫星通讯、广播、邮政与快递服务，以及数码签名。这一切被整合为第 588 号法令下四类须领牌的活动：
+
+| 类别 | 含义 | 常见例子 |
+| --- | --- | --- |
+| 网络设施提供者（NFP） | 拥有或提供网络设施 | 铁塔、光纤电缆、场地与塔杆、卫星 |
+| 网络服务提供者（NSP） | 提供承载性质的网络服务 | 连接服务与流量传输服务 |
+| 应用服务提供者（ASP） | 向用户提供应用服务 | 语音电话、互联网接入、消息服务 |
+| 内容应用服务提供者（CASP） | 提供内容的应用服务 | 电视与电台广播、视频点播 |
+
+这种划分很重要：一家电信公司可能同时持有多张牌照，因为它拥有铁塔（NFP）、运营网络（NSP），并向客户销售数据配套（ASP）。持有某一类别的牌照，并不免除取得其他类别牌照的义务（第 132 条）。
+
+## 牌照制度如何运作？
+
+最常见的误解就出在这里。**MCMC 并非发牌的一方**——它负责评估与建议；由部长作出决定。
+
+对于个人牌照，申请人向委员会提出申请，委员会随后在六十日内向部长提出书面建议（第 29 条）。发出或拒绝该牌照的是部长（第 30 条）。至于类别牌照，则由部长发出（第 44 条）——附带由部长宣布的标准条件——再由委员会登记。
+
+| | 个人牌照 | 类别牌照 |
+| --- | --- | --- |
+| 发给谁 | 某个特定人士、特定活动 | 任何从事指定活动者 |
+| 取得方式 | 申请 + 委员会建议 + 部长批准 | 由部长发出；持有者须登记 |
+| 主要义务 | 遵守标准及特别牌照条件 | 必须在运作前向委员会登记（第 131 条） |
+| 适用于 | 拥有基础设施的大型运营商 | 低风险、覆盖面广的活动 |
+
+这套两级制度让监管得以按比例进行：大型网络运营商须经过个人牌照的完整审查，而较轻量的活动则由只需登记的类别牌照涵盖。
+
+## 谁需要领牌？
+
+第 126 条规定，除部长所订明的豁免情形外，任何人不得拥有或提供网络设施、提供网络服务，或提供应用服务，除非持有有效的个人牌照或类别牌照。
+
+法令中的这项警示并非象征性质。第 126(2) 条规定，任何人违反此项规定，一经定罪，可被处以不超过 **50 万令吉**罚款，或不超过**五年**监禁，或两者兼施，并就该罪行在定罪后每持续一日加处 **1,000 令吉**罚款。
+
+在内容方面，第 205 条另订有独立的禁令：任何人不得提供内容应用服务，除非持有该部分下有效的个人牌照或类别牌照。
+
+## 互联网内容：MCMC 能做与不能做的是什么？
+
+这是最常被误解的部分。第 588 号法令在第 3(3) 条中作出明确保证：*该法令中任何内容均不得被解释为准许对互联网进行审查*。这项条文根植于 1990 年代多媒体超级走廊时期的保证。
+
+然而，这项保证并非对所有内容的绝对许可。第 233 条将**不当使用网络设施或服务**列为罪行——即以骚扰、滥用、恐吓或干扰他人的意图，制作或传送任何淫秽、不雅、虚假、恐吓或冒犯性的通讯。其处罚为不超过 **5 万令吉**罚款，或不超过**一年**监禁，或两者兼施，并每日加处 1,000 令吉罚款。
+
+换句话说，该法令禁止对互联网进行全面审查，但仍就透过网络传播的某些内容订立刑事责任。第 233 条针对网络言论的执法，在马来西亚是持续引发公共讨论的课题；需要具体法律解读的读者，应咨询专业法律意见（见 `verificationNeeded`）。
+
+## 最常被误解之处
+
+**MCMC 并非最终发牌者。** 委员会负责建议；由部长发出或拒绝个人牌照，并发出类别牌照。笼统地说"MCMC 牌照"，可能会模糊究竟是谁作出决定。
+
+**类别牌照仍须登记。** 许多人以为类别牌照意味着"什么都不必做"。恰恰相反，第 131 条规定，在某人得以在类别牌照下运作之前，必须向委员会登记。
+
+**主管部门的名称会不时变动。** 监督 MCMC 的部门职权曾多次重组。在正式文件中依赖相关信息之前，请先在 `mcmc.gov.my` 核实当前负责的部长与部门。
+
+## 下一步
+
+要办理实际事务，先从辨明你所属的活动类别开始——网络设施、网络服务、应用服务，还是内容——因为正是这个类别决定了适用的牌照类型与条文。请在 MCMC 官方门户 `mcmc.gov.my` 核实当前的牌照清单、类别牌照的登记条件及收费表，因为这些附属细节会在法令正文之外不时更新。
