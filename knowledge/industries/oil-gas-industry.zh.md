@@ -1,0 +1,240 @@
+---
+topicId: MY-IND-0014
+title: "马来西亚的石油与天然气产业"
+seoTitle: "马来西亚石油与天然气产业：国家石油公司（PETRONAS）、产量分成合约及运作方式"
+slug: "oil-gas-industry"
+category: "industries"
+subcategory: ["energy"]
+summary: "马来西亚的石油与天然气领域以一家国家公司——国家石油公司（PETRONAS）为核心，它拥有地下每一桶石油，并通过产量分成合约授权其他所有企业进行开采。"
+
+tier: "1"
+mode: "practical"
+contentType: "industry"
+sensitivity: "none"
+
+answer: "根据《1974年石油发展法令》（Petroleum Development Act 1974），国家石油公司（PETRONAS）拥有马来西亚石油资源的全部所有权，并通过其马来西亚石油管理（Malaysia Petroleum Management，MPM）部门同时担任资源托管者与上游监管者。其他所有石油公司——无论外资还是本地——都是以产量分成合约（PSC）或其变体下的承包商身份运营，回收成本后将剩余产量与国家石油公司分成。石油所得税税率为38%（边际油田的实际税率为25%），2024年国家石油公司向联邦和州政府缴纳了724亿令吉。"
+
+keyTakeaways:
+  - "《1974年石油发展法令》赋予国家石油公司（PETRONAS）对马来西亚陆上与海上全部石油的完整所有权及专属权利。"
+  - "国家石油公司通过其马来西亚石油管理（MPM）部门监管上游活动，同时自身也作为商业主体经营。"
+  - "自1976年以来，勘探与生产一直以产量分成合约（PSC）及其变体运作——包括R/C、小型油田资产（Small Field Asset）、后期油田资产（Late Life Asset）、增强盈利条款（Enhanced Profitability Terms）以及风险服务合约（Risk Service Contract）。"
+  - "根据《1967年石油（所得税）法令》，石油所得税税率为38%，边际油田的实际税率为25%。"
+  - "2024年，国家石油公司实现营业收入3200亿令吉、税后利润551亿令吉，并向政府缴纳了724亿令吉，其中包括320亿令吉的股息。"
+
+appliesTo: "需要了解马来西亚石油领域如何被拥有、监管及变现的分析师、投资者、能源服务公司、学生和政策制定者。"
+
+faq:
+  - q: "马来西亚的石油和天然气归谁所有？"
+    a: "国家石油公司（PETRONAS）。《1974年石油发展法令》赋予这家国家石油公司对陆上及海上石油勘探与开发的完整所有权以及专属权利、权力与特权。任何私人主体都不拥有地下石油；他们持有的是开采石油的合约权利。"
+  - q: "外国石油公司可以在马来西亚经营吗？"
+    a: "可以，但只能作为承包商，而非所有者。壳牌（Shell）、埃克森美孚（ExxonMobil）关联公司、沙特阿美（Saudi Aramco）等公司通过国家石油公司经由其马来西亚石油管理部门授予的产量分成合约或风险服务合约参与。"
+  - q: "什么是产量分成合约（PSC）？"
+    a: "产量分成合约是一种安排，承包商出资并进行勘探与生产，从所产石油中回收其经批准的成本（‘成本油’，cost oil），然后将剩余产量（‘利润油’，profit oil）与国家石油公司分成。国家石油公司保留对资源和资产的所有权。马来西亚于1976年采用了产量分成合约模式，取代了更早的特许权协议。"
+  - q: "石油公司在马来西亚缴纳多少税？"
+    a: "根据《1967年石油（所得税）法令》，来自石油作业的所得按38%征税。边际油田的所得适用25%的实际税率。这与国家石油公司作为资源所有者在产量分成合约下取得的利润分成是分开的。"
+  - q: "谁监管上游石油与天然气领域？"
+    a: "凭借《1974年石油发展法令》，国家石油公司（PETRONAS）是上游监管者。日常监管——授予合约、批准油田开发计划以及在资产全生命周期内管理资源——由国家石油公司内部的马来西亚石油管理（MPM）部门负责。"
+  - q: "石油与天然气对马来西亚政府的贡献有多大？"
+    a: "2024年，国家石油公司以股息、税款、现金支付及其他承诺形式缴纳了724亿令吉，其中包括320亿令吉的股息。这还不包括该领域其他承包商和服务公司所缴纳的税款。"
+
+lang: "zh"
+sourceContentHash: "7404112e163ed546"
+masterLanguage: "en"
+translationStatus: "in-sync"
+
+status: "published"
+aiAssisted: true
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
+version: "0.2"
+revisions:
+  - version: "0.1"
+    date: 2026-07-28
+    change: "Initial AI draft."
+    reviewer: null
+  - version: "0.2"
+    date: 2026-07-28
+    change: "Correction pass: tied the 2,000 kboe/d record to the fetched Integrated Report 2024 and de-staled the Bintulu Train 9 framing."
+    reviewer: null
+
+verificationNeeded:
+  - "Uncited descriptive claims: Melaka refineries, Petron/BHPetrol retail networks, the Peninsular Gas Utilisation pipeline grid, and the MISC-operated tanker/LNG-carrier fleet — general-industry facts stated without a primary source."
+  - "Bintulu LNG Complex train count/naming (eight physical trains vs the 'Train 9' label) and current ~29.3 mtpa capacity are drawn from a trade source (Offshore Technology); confirm against current PETRONAS primary material."
+  - "Pengerang Integrated Complex figures (300,000 bpd refinery, ~3.4 mtpa steam cracker, ~3.3 mtpa petrochemicals) are stated without a fetched line-item source; confirm against the PETRONAS PIC page or Integrated Report."
+  - "Contract-type family descriptions (R/C, SFA, LLA, EPT, RSC) should be reconciled against the current Malaysia Petroleum Management fiscal-terms pages, which are periodically revised."
+
+updated: 2026-07-28
+sources:
+  - title: "Regulatory Overview — Malaysia Petroleum Management"
+    url: "https://www.petronas.com/mpm/regulatory/overview"
+    publisher: "PETRONAS"
+  - title: "Fiscal Terms — Malaysia Petroleum Management"
+    url: "https://www.petronas.com/mpm/investment-opportunities/fiscal-terms"
+    publisher: "PETRONAS"
+  - title: "PETRONAS Integrated Report and Financial Report 2024"
+    url: "https://www.petronas.com/integrated-report-2024/"
+    publisher: "PETRONAS"
+  - title: "Malaysia — Corporate: Taxes on corporate income"
+    url: "https://taxsummaries.pwc.com/malaysia/corporate/taxes-on-corporate-income"
+    publisher: "PwC"
+  - title: "Mining of Petroleum and Natural Gas Statistics, Q1 2024"
+    url: "https://www.dosm.gov.my/portal-main/release-content/mining-of-petroleum-and-natural-gas-statistics-q12024-"
+    publisher: "Department of Statistics Malaysia (DOSM)"
+  - title: "Pengerang Integrated Complex — Fully Integrated Complex"
+    url: "https://www.petronas.com/pic/fully-integrated-complex"
+    publisher: "PETRONAS"
+  - title: "Country Analysis Brief: Malaysia (2024)"
+    url: "https://www.eia.gov/international/content/analysis/countries_long/Malaysia/malaysia.pdf"
+    publisher: "U.S. Energy Information Administration (EIA)"
+  - title: "Petronas Bintulu LNG Complex, Sarawak"
+    url: "https://www.offshore-technology.com/projects/petronas-bintulu-lng-complex-sarawak/"
+    publisher: "Offshore Technology"
+
+entity: "PETRONAS"
+relations:
+  - { rel: "governs", to: "petroleum-development-act-1974" }
+  - { rel: "related-to", to: "petronas" }
+  - { rel: "related-to", to: "petroleum-income-tax" }
+related: ["petronas", "petroleum-development-act-1974", "lng-industry"]
+keywords: ["oil and gas Malaysia", "PETRONAS", "production sharing contract", "PSC", "Petroleum Development Act 1974", "Malaysia Petroleum Management", "upstream", "downstream", "LNG", "petroleum income tax"]
+---
+
+马来西亚土地与海床之下的每一桶石油、每一立方英尺天然气，在法律上都归属于一家公司。不是国家直接持有，不是油田的发现者，也不是钻探它们的跨国公司——而是国家石油公司（PETRONAS），一家为国家托管石油资源而设立的国家石油公司。理解这一事实，马来西亚石油与天然气产业的其余部分——如何监管、融资、征税和分成——便会豁然开朗。
+
+本指南将梳理整条链条：资源归谁所有、谁被允许开采、产量分成合约究竟做了什么、这个领域到底有多大，以及石油和天然气最终流向何处。
+
+## 马来西亚的石油和天然气究竟归谁所有？
+
+整个产业的奠基性规则是**《1974年石油发展法令》（Petroleum Development Act 1974，PDA 1974）**。用监管者自身的描述来说，它赋予国家石油公司对陆上与海上石油资源"完整的所有权，以及勘探和开发的专属权利、权力、自由与特权"。
+
+国家石油公司于1974年根据该法令成立，成为马来西亚的国家石油公司。关键在于，这并非通常那种政府将矿产权租让给资源发现者的安排。在马来西亚，地下石油的所有权从不转移给经营者。一家公司或许花费数十亿钻探一块油田，但它从不拥有原油——它拥有的是对自身产量中一部分的合约权利。
+
+这一单一的制度设计，解释了国家石油公司为何身兼通常应当分离的两种角色：
+
+- 国家石油资源的**托管者与监管者**，以及
+- 自行勘探、生产、炼制和贸易的**商业经营者**。
+
+监管这一角色通过一个专门的部门——**马来西亚石油管理（Malaysia Petroleum Management，MPM）**来履行，它"代表国家石油公司，在上游油气资产全生命周期内全面管理马来西亚的石油资源"。MPM正是资格审查承包商、授予合约、批准油田开发计划并监督作业标准的机构。
+
+## 从井口到加油站，这个产业是如何构成的？
+
+与所有石油产业一样，马来西亚的产业也分为三大环节。其独特之处在于，国家石油公司或其子公司几乎在每一个环节中都有所参与。
+
+| 环节 | 涉及内容 | 在马来西亚由谁运营 |
+| --- | --- | --- |
+| **上游** | 原油和天然气的勘探、钻探与生产 | 承包商（壳牌、埃克森美孚关联公司、赫斯（Hess）、国油卡里加里（Petronas Carigali）等）在产量分成合约和风险服务合约下运营，受MPM监管 |
+| **中游** | 集输、处理、液化、管道、储存与运输 | 国油天然气公司（PETRONAS Gas）、马国际船务（MISC，航运）、民都鲁液化天然气综合厂、天然气处理厂及国家天然气管网 |
+| **下游** | 将原油炼制为燃料，以及石化产品与销售 | 边佳兰综合石化厂（PRefChem）、马六甲炼油厂、国油化学（PETRONAS Chemicals）以及零售网络（PETRONAS、壳牌、Petron、BHPetrol） |
+
+上游是所有权与合约逻辑体现得最深刻的环节，因此在讨论下游之前值得详加了解。
+
+## 什么是产量分成合约，马来西亚为何采用它？
+
+当石油发展法令生效时，马来西亚以**产量分成合约（PSC）**取代了较旧的**特许权（concession）**制度——在旧制度下，公司获授一个区块，基本上保留其发现的资源，仅缴纳矿区使用费。国家石油公司于1976年采用了产量分成合约模式。
+
+一份经典产量分成合约的机制在原理上很直接：
+
+1. 承包商竞标并获授在既定期限内的一片明确合约区域。
+2. 承包商出资并承担全部勘探风险。若未发现具商业价值的资源，国家石油公司不支付任何费用。
+3. 一旦油田投产，承包商首先取得**成本油**——用以回收经批准的勘探与开发成本的、有上限的一部分产量。
+4. 剩余的**利润油**依合约条款在国家石油公司与承包商之间分配。
+5. 在其利润油份额之上，承包商还向政府缴纳石油所得税。
+
+由于国家石油公司自始至终保留对资源和资产的所有权，国家可同时以三种不同方式获取价值——作为资源所有者（其利润油份额及现金支付）、作为股东（国家石油公司股息），以及作为税务机关（石油所得税）。正是这种层层叠加，使得即便名义税率单看起来适中，马来西亚从一块投产油田中获取的财政收入仍可能相当可观。
+
+### 合约类型体系
+
+朴素的1976年式产量分成合约此后分化为一个合约体系，每一种都针对不同的地质条件或油田经济性加以调整。国家石油公司大致将它们描述如下：
+
+| 合约类型 | 适用对象 | 核心理念 |
+| --- | --- | --- |
+| **产量分成合约（PSC）** | 自1976年以来的原始通用模式 | 承包商回收成本后，与国家石油公司分享利润油 |
+| **收入对成本（R/C）产量分成合约** | 较大且技术要求较高的油田 | 利润分成按盈利能力沿滑动比例变动，奖励高成本效益的技术 |
+| **小型油田资产（SFA）产量分成合约** | 较小的储量 | 简单直接的财政模型，具备运营灵活性 |
+| **后期油田资产（LLA）产量分成合约** | 成熟、接近寿命末期的油田 | 简化的商业条款，奖励效率并延长油田寿命 |
+| **增强盈利条款（EPT）** | 需要激励的边际项目 | 更公平地分享上行收益，使项目具备经济性 |
+| **风险服务合约（RSC）** | 小众机会与本地能力建设 | 承包商获得服务费用，而非取得产量份额 |
+
+这种多样化是有意为之的。随着易采石油减少、马来西亚各盆地趋于成熟，国家石油公司需要更宽松、更包容的条款来维持小型和后期油田的商业性——因此有了SFA和LLA产量分成合约——同时仍为深水及技术复杂的优质资源提供有竞争力的条款。
+
+## 这个产业究竟有多大？
+
+马来西亚是一个中等规模但具战略重要性的生产国。据美国能源信息署（U.S. Energy Information Administration），截至2023年底，马来西亚拥有约**27亿桶**已探明原油储量——为东南亚第二大——以及约**32万亿立方英尺**的已探明天然气储量。EIA将马来西亚列为2023年**东南亚石油及其他液体的第二大生产国**，以及**全球第五大液化天然气出口国**。
+
+产量以天然气为主，其中大部分来自砂拉越和沙巴近海，而石油则主要位于马来半岛沿海。这一规模从马来西亚统计局的季度数据中可见一斑。2024年第一季度：
+
+- 原油和凝析油产量合计**4800万桶**（其中原油占69.2%，凝析油占其余部分）。
+- 天然气产量达**7998亿立方英尺**，同比增长9.1%。
+
+在其《2024年综合报告》中，国家石油公司报告称，2024年其马来西亚业务实现了约每天**2000千桶油当量（kboe/d）**的创纪录产量。
+
+出口方面显示了价值在整条链条上的分布。2024年第一季度，马来西亚的出口价值为：
+
+| 产品 | 出口价值（2024年第一季度） | 主要目的地 |
+| --- | --- | --- |
+| 原油与凝析油 | 91亿令吉 | 泰国（26.4%）、日本（26.2%）、印度（14.4%） |
+| 成品油 | 336亿令吉 | 新加坡（22.1%）、印尼（18.7%）、澳大利亚（15.0%） |
+| 液化天然气（LNG） | 185亿令吉 | 日本（44.5%）、中国（25.2%）、韩国（22.0%） |
+
+注意，成品油和液化天然气合计远超原油出口。马来西亚并非只是抽取并运出石油——它在出口前进行加工、液化并增加价值，这正是中游和下游发挥作用之处。
+
+## 资金如何流向政府？
+
+由于国家石油公司是资源所有者，国家的财政收入既流经该公司，也在其周围流转。国家石油公司2024年的业绩清楚地体现了其规模。集团实现了：
+
+- **营业收入3200亿令吉**（较2023年的3436亿令吉下降约7%），
+- **税后利润551亿令吉**，以及
+- 向政府的总贡献达**724亿令吉**。
+
+这724亿令吉的贡献值得拆解，因为它展现了前文所述的几个渠道同时运作。据《2024年综合报告》，它包括：
+
+- **320亿令吉**向政府缴纳的股息（国家石油公司作为国有公司），
+- **268亿令吉**税款，包括石油所得税、企业所得税、州销售税、出口关税及其他法定支付，
+- **131亿令吉**就烃类资源价值向联邦和州政府支付的现金，以及
+- **5亿令吉**缴入国家信托基金（National Trust Fund）。
+
+另外，来自石油作业的所得根据**《1967年石油（所得税）法令》（Petroleum (Income Tax) Act 1967，PITA）**按**38%**的名义税率征税，边际油田所得则适用**25%**的实际税率。这是承包商就其产量份额缴纳的税，与国家石油公司作为所有者所取得的利润分成不同。
+
+这种依赖是双向的。石油收入是联邦预算的一大支柱，这正是历届政府都试图减少对国家石油公司股息的依赖、并壮大非石油收入的原因。一家既是国家石油公司又是国库最大单一贡献者的企业，是一个强大的机构——同时也是一个集中的风险。
+
+## 石油和天然气实际流向何处？
+
+下游和中游是马来西亚将地质资源转化为成品能源之处，而两座设施占据主导地位。
+
+**位于砂拉越的民都鲁液化天然气综合厂**是马来西亚天然气出口业务的核心。它运营着分布于三座工厂的一系列液化天然气生产线，这些工厂由Malaysia LNG、MLNG Dua和MLNG Tiga与国家石油公司合资拥有和运营。其液化能力约为**每年2930万吨**，在2010年代中期增建了第9号生产线（约360万吨/年）后，从早先的**2570万吨/年**扩容而来。它是支撑马来西亚跻身全球顶级液化天然气出口国地位的机器，为上文出口表中所见与日本、中国和韩国的长期合约供货。
+
+**位于柔佛的边佳兰综合石化厂（Pengerang Integrated Complex，PIC）**则支撑着液体产品与石化的一侧。其炼油厂将各类原油加工处理至每天最多**30万桶**，产出欧5汽油和柴油、Jet A1航空燃油及其他产品，由**PRefChem**——国家石油公司与沙特阿美的合资企业——拥有和运营。炼油厂旁还有一座年产约340万吨的蒸汽裂解装置和一座年产约330万吨的石化综合设施——共同构成国家石油公司所称的全国唯一将炼油、蒸汽裂解和石化装置汇于一处的一体化设施。
+
+在井口与这些综合设施之间，是中游骨干网络——海上平台、天然气处理厂、半岛天然气利用（Peninsular Gas Utilisation）管网，以及由马国际船务（MISC）运营的油轮和液化天然气运输船队——其中大部分为与国家石油公司相关联的所有权。
+
+## 投资者或经营者应如何解读马来西亚市场？
+
+对于任何权衡进入马来西亚石油与天然气领域者——无论是勘探承包商、服务供应商还是股权投资者——有几个结构性问题比当日商品价格更为重要。
+
+1. **你是所有者还是承包商？** 你永远无法拥有资源。将你的回报建模为承包商的份额加一笔费用，并按PITA征税，而非作为保留上行收益的特许权持有者。
+2. **哪种合约类型适合该资产？** 一处深水发现、一块边际油田和一项后期油田资产受截然不同的财政方案支配（R/C对EPT对LLA）。同一桶油在不同合约下价值不同。
+3. **国家石油公司是你的监管者、伙伴还是竞争者？** 它往往同时是三者——MPM监管你，国油卡里加里可能是你的合资伙伴，而国家石油公司的下游部门可能是你的客户。治理与利益冲突管理值得认真对待。
+4. **利润在链条的哪个环节？** 马来西亚的出口结构显示价值集中于液化天然气和成品油，而非原油。中游和下游的服务与技术供应商面对的需求周期，与上游钻探商不同。
+5. **你对政策的敞口有多大？** 由于该领域是财政支柱，合约条款、本地含量要求和股息政策在政治上都是敏感的。一块稳定的油田仍可能处于变动的财政风向之下。
+
+## 应避免的常见误解
+
+- **"马来西亚政府自己钻探石油。"** 并非如此。国家石油公司——一家公司，尽管为国有——持有资源并授权承包商进行钻探。
+- **"如果你在马来西亚发现石油，它就归你所有。"** 不。根据PDA 1974，所有权仍归国家石油公司。你拥有的只是对产量的合约份额，仅此而已。
+- **"国家石油公司只是一个监管者。"** 它是横跨上游、液化天然气、炼油、石化和零售的完整商业经营者——同时也通过MPM担任监管者。这一双重角色是该产业的决定性特征。
+- **"矿区使用费和利润分成是一回事。"** 并非如此。利润油分成、就资源价值支付的现金、国家石油公司股息以及38%的石油所得税是相互独立、层层叠加的渠道。
+- **"石油是主要产品。"** 按价值计，天然气——尤其是液化天然气——和成品油至少与原油同等重要。马来西亚的储量和出口都以天然气为主。
+- **"边际油田缴纳全额38%的税。"** 边际油田所得适用25%的实际税率，这是用于维持较小油田经济性的若干工具之一。
+
+## 接下来会怎样
+
+马来西亚的石油领域正进入成熟阶段：浅水油田日渐老化，前沿正向更深、技术要求更高的区块推进，而LLA和EPT合约类型的存在，正是为了从已发现的资源中榨取更多寿命。与此同时，随着能源转型重塑需求，国家石油公司正推进生物炼制、太阳能、氢能和碳捕集，同时仍是国库最大的单一企业贡献者。
+
+如果你要进一步研究，最有价值的下一步是：
+
+- 直接阅读**《1974年石油发展法令》**和**《1967年石油（所得税）法令》**，了解所有权和税收背后的确切法律条文。
+- 追踪**马来西亚石油管理（MPM）**的页面，掌握当前的招标轮次、财政条款和油田开发要求。
+- 关注每年的**国家石油公司综合报告**和**马来西亚统计局季度石油统计**，获取最新的产量、出口和贡献数据。
+
+这些一手资料将帮助你在数字变动时保持信息更新——但其底层架构，即一个所有者按产量分成条款授权众多承包商，自1974年以来始终未变，也没有任何改变的迹象。
