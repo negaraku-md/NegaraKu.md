@@ -1,0 +1,165 @@
+---
+topicId: MY-LIV-0125
+title: "马来西亚电子钱包：监管方式，以及发行商倒闭时你的钱会怎样"
+seoTitle: "马来西亚电子钱包监管：资金保管、PIDM 与你的余额安全"
+slug: "ewallets-regulation-safety"
+category: "money-daily-life"
+subcategory: ["ewallet"]
+summary: "Touch 'n Go eWallet、Boost、GrabPay 和 ShopeePay 由马来西亚国家银行（Bank Negara Malaysia）作为电子货币发行商监管，而非银行。你的电子钱包余额并非存款，也不受 PIDM 直接保障——它是通过存放在银行的信托账户获得保护。"
+
+tier: "2"
+mode: "practical"
+contentType: "guide"
+sensitivity: "none"
+
+answer: "马来西亚的电子钱包发行商是由马来西亚国家银行（BNM）依据《2013 年金融服务法》（Financial Services Act 2013）第 11 条批准为电子货币发行商，而非银行。法律要求非银行发行商必须将用户的每一分资金存放在银行机构的独立信托账户中，并随时保持足额，以涵盖所有未清偿的电子货币负债。电子钱包余额并非存款，不受 PIDM 直接保障；PIDM 最高 RM250,000 的保障仅在符合条件的情况下适用于会员银行中的信托账户，而不适用于电子钱包应用本身。"
+keyTakeaways:
+  - "电子钱包依据《2013 年金融服务法》（FSA）第 11 条被批准为电子货币发行商（EMI），而非持牌银行。"
+  - "非银行发行商必须依据《1949 年受托人法》（Trustee Act 1949）将用户资金存放在信托账户中，与公司营运资金完全分隔，并随时保持足额以涵盖所有未清偿的电子货币负债。"
+  - "电子钱包余额并非存款：发行商被禁止就你的余额支付利息、利润或任何形式的回报。"
+  - "PIDM 不直接保障电子钱包余额；最高 RM250,000 的保障仅适用于会员银行中的信托账户，而非电子钱包应用。"
+  - "如果发行商倒闭或停止营运，它必须退还客户资金，并将受益人记录移交给受托人以进行分配。"
+appliesTo: "希望了解自身资金保障的马来西亚电子钱包用户，以及任何将电子钱包余额与银行账户作比较的人。"
+
+faq:
+  - q: "我 Touch 'n Go eWallet 或 Boost 里的余额是否像银行存款一样受 PIDM 保障？"
+    a: "并非直接受保障。PIDM 保障会员银行的存款，每名存款人在每家会员银行最高保障 RM250,000。电子钱包余额并非存款。当用户资金被存放在 PIDM 会员银行的信托账户中时，它才获得间接保障，而且只有在银行记录中披露了受益人的情况下才成立——该保障适用于信托账户，而非电子钱包应用。"
+  - q: "电子钱包会就我的余额支付利息吗？"
+    a: "不会。BNM 政策文件第 26.1 段禁止电子货币发行商支付利息、利润或任何形式的、会增加你电子货币余额货币价值的回报。"
+  - q: "如果电子钱包公司倒闭，我的钱会怎样？"
+    a: "由于用户资金被分隔在信托账户中，不属于公司营运资金的一部分，它受到保护，不会被公司的债权人追偿。发行商必须退还客户资金，并在清盘期间将识别受益人的记录移交给受托人以进行分配。"
+  - q: "我可以在电子钱包里存多少钱？"
+    a: "每家发行商自行设定钱包上限。若钱包上限提高至 RM5,000 或以上，或产品功能有所变动，BNM 要求取得书面批准。"
+  - q: "GrabPay 和 ShopeePay 也受监管吗？"
+    a: "是的。这四家——TNG Digital Sdn Bhd、Axiata Digital E-code Sdn Bhd（Boost）、GPay Network (M) Sdn Bhd（GrabPay）以及 ShopeePay Malaysia Sdn Bhd——都在 BNM 的官方名单中被列为非银行电子货币发行商。"
+
+lang: "zh"
+sourceContentHash: "3baa675be6fcede6"
+masterLanguage: "ms"
+translationStatus: "in-sync"
+
+status: "published"
+aiAssisted: true
+reviewer: "ashton-tan"
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
+version: "0.2"
+verificationNeeded:
+  - "Ambang modal minimum (min. capital funds) yang tepat di bawah s.12(1) FSA / Appendix 3 dokumen dasar — sengaja tidak dinyatakan; sahkan angka sebenar sebelum menambah semula."
+  - "Status pendaftaran semasa keempat-empat pengeluar yang dinamakan (senarai rasmi BNM berubah dari semasa ke semasa; terdapat lebih 40 pengeluar bukan bank keseluruhannya)."
+  - "Sama ada penambahan dana dalam 'satu (1) hari bekerja' (perenggan 16.4) adalah kewajipan mutlak atau garis panduan/anjuran."
+  - "Angka bayaran balik 14 hari / 30 hari (perenggan 20.10–20.13) dan takrifan 'kes rumit'."
+  - "Ambang 'eligible EMI' (500,000 pengguna aktif / 5% bahagian pasaran) di Appendix 1 — sahkan tempoh pengukuran dan takrifan tepat."
+revisions:
+  - version: "0.1"
+    date: 2026-08-08
+    change: "Initial AI draft."
+    reviewer: null
+  - version: "0.2"
+    date: 2026-08-08
+    change: "Correction pass: removed superseded 2023 Rahmat Lim source, fixed passive-voice slip in answer, retargeted duitnow-qr relation to related-to, added verificationNeeded."
+    reviewer: null
+
+updated: 2026-08-08
+sources:
+  - title: "Electronic Money (E-Money) Policy Document (issued 31 January 2025)"
+    url: "https://www.bnm.gov.my/documents/20124/943361/27012025_Revised_E-Money_PD_v2.pdf"
+    publisher: "Bank Negara Malaysia"
+  - title: "Non-bank E-money issuers"
+    url: "https://www.bnm.gov.my/non-bank-e-money-issuers"
+    publisher: "Bank Negara Malaysia"
+  - title: "Deposit Insurance System"
+    url: "https://www.pidm.gov.my/general/how-we-protect-you/dis"
+    publisher: "Perbadanan Insurans Deposit Malaysia (PIDM)"
+
+entity: "Pengeluar e-wang (e-money issuer, EMI)"
+relations:
+  - { rel: "administered-by", to: "bank-negara-malaysia" }
+  - { rel: "related-to", to: "pidm-deposit-insurance" }
+  - { rel: "related-to", to: "duitnow-qr" }
+related: ["pidm-deposit-insurance", "duitnow-qr", "financial-services-act-2013"]
+keywords: ["e-wallet Malaysia", "e-money", "Touch n Go eWallet", "Boost", "GrabPay", "ShopeePay", "BNM", "PIDM", "akaun amanah", "safeguarding"]
+---
+
+你在柜台按下"付款"，电子钱包余额减少了几令吉，交易在一秒内完成。但你今早"充值"（top up）的那 RM200 究竟被存放在哪里——如果应用背后的公司突然破产，这笔钱又会怎样？答案与你银行账户里的钱所面临的情况不同，而这个差别很重要。
+
+## 谁在马来西亚监管电子钱包？
+
+Touch 'n Go eWallet、Boost、GrabPay 和 ShopeePay 这类电子钱包并非银行。它们由马来西亚国家银行（BNM）作为**电子货币发行商**（*e-money issuer*，即 EMI）监管，依据**《2013 年金融服务法》（FSA）第 11 条**获批——对于符合伊斯兰教法的产品，则依据《2013 年伊斯兰金融服务法》（IFSA）第 11 条。
+
+详细框架载于 BNM 于**2025 年 1 月 31 日**生效的《电子货币（E-Money）政策文件》。该文件将电子货币定义为一种支付工具，"以电子方式储存资金，作为已付予发行商之资金的对价"，并可用于向发行商以外的一方付款。
+
+四大主要品牌都以其注册公司名称，在 BNM 官方名单中被列为非银行电子货币发行商：
+
+- **TNG Digital Sdn Bhd** — Touch 'n Go eWallet
+- **Axiata Digital E-code Sdn Bhd** — Boost
+- **GPay Network (M) Sdn Bhd** — GrabPay
+- **ShopeePay Malaysia Sdn Bhd** — ShopeePay
+
+规模足够大的发行商被归类为*合资格 EMI*（eligible EMI），须遵守更严格的治理要求。该门槛包括连续六个月拥有至少 **500,000 名活跃用户**，或占马来西亚未清偿电子货币总值、总量或负债的 **5% 市场份额**。
+
+## 电子钱包余额与银行存款一样吗？
+
+不一样——这是最常见的误解。当你把钱存入储蓄账户时，银行*借走*这笔钱，向你支付利息，并用它向他人放贷。电子钱包余额的运作方式则完全不同。
+
+政策文件第 26.1 段禁止电子货币发行商：
+
+- 以溢价或折扣发行电子货币（货币价值必须等于所收到的资金）；
+- 使用所收取的资金向任何人放贷或提供融资；以及
+- 就你的电子货币余额支付**利息、利润或任何回报**。
+
+也就是说，你的电子钱包余额既不是投资，也不是存款。它是储值，代表你已经付出的钱——不多也不少。马来西亚所有电子货币交易也必须以马来西亚令吉进行。
+
+## 什么是"资金保管"（safeguarding），你的钱如何受保护？
+
+真正的保护正在于此。政策文件第 16 段要求每家发行商分隔用户资金，而非银行发行商必须将其存入**信托账户**（*trust account*）：
+
+- **完全分隔（16.1）：**作为电子货币对价所收取的资金，必须存放在与发行商营运资金或任何其他业务分开的账户中。
+- **信托账户（16.2）：**非银行发行商必须依据**《1949 年受托人法》**设立信托账户，将该资金存入银行机构的信托账户中。资金只能用于退款给客户、结算给商户，或客户所进行的贷记转账。
+- **有限投资：**若进行投资，信托资金只能投放于高质量的流动令吉资产——银行机构的存款、联邦政府或 BNM 的债务证券，以及 Cagamas 的债务证券。
+- **随时足额（16.3）：**信托账户中的资金必须在任何时候都足以涵盖未清偿电子货币负债的总额。若不足，发行商应在**一（1）个工作日**内补足资金。
+- **风险分散（16.6）：**建议发行商将资金分散于多家银行机构，以降低对任何单一银行的敞口。
+
+未清偿电子货币负债少于 RM1 百万的小型发行商，经 BNM 书面批准，可选择以银行担保作为保护资金的替代方式。
+
+## 电子钱包余额对比银行账户：有什么区别？
+
+| 特征 | 银行账户（储蓄/往来） | 电子钱包余额 |
+|---|---|---|
+| 监管机构 | BNM（依据 FSA 的持牌银行） | BNM（电子货币发行商，FSA 第 11 条） |
+| 资金性质 | 存款——银行借走它 | 储值——以信托方式持有 |
+| 是否支付利息？ | 是（视产品而定） | 否（政策禁止） |
+| 钱存放在哪里？ | 银行的资产负债表 | 银行的独立信托账户 |
+| PIDM 保障 | 是，每名存款人在每家会员银行最高 RM250,000 | 非直接保障；仅通过信托账户，且有条件 |
+| 可用于放贷吗？ | 可以 | 不可以（禁止） |
+
+## 为什么 PIDM 不直接保障电子钱包余额？
+
+马来西亚存款保险公司（PIDM）保障会员银行的**存款**——储蓄账户、定期存款、往来账户、伊斯兰存款和外币存款——每名存款人在每家会员银行最高 **RM250,000**。
+
+电子钱包余额并非存款，因此不在这项直接保障范围内。PIDM 所保障的，是发行商存放用户资金的**信托账户**。PIDM 对以信托方式持有的存款——包括为已获批的电子货币计划而持有的存款——提供单独的保障，前提是受托人在银行记录中披露每名受益人的权益。在此情况下，每名受益人在每家会员银行可享有最高 RM250,000 的保障。
+
+这个区别微妙却重要：如果持有信托账户的**银行**倒闭，PIDM 保障可能介入。但如果是**电子钱包公司**本身倒闭，PIDM 并非你的安全网——保护你的是那套信托结构。
+
+## 如果电子钱包发行商倒闭，你的钱会怎样？
+
+由于用户资金被分隔在信托账户中，不属于公司资产的一部分，它受到保护，不会被发行商的一般债权人追偿。政策文件规定了发行商被令停业或其批准被撤销时的有序流程（第 25 段）：
+
+1. 发行商必须在合理时间内退还从客户处收取的资金，并结清与商户之间的未清偿金额。
+2. 它必须联系客户并定期提醒，以领回尚未领取的余额。
+3. 它必须保存识别电子货币资金受益人的记录，并将该记录提供给管理信托账户的**受托人**，以便进行正确的分配。
+
+作为额外一层保障，每家非银行发行商在申请发行电子货币时，必须向 BNM 提交**退出计划**（*exit plan*）连同承诺书。未领取的余额最终依据《1965 年无人认领款项法》（Unclaimed Moneys Act 1965）处理。
+
+对于一般的退款请求——例如你关闭账户或被错误收费时——发行商必须在 **14 天**内无额外费用地退款，复杂情况则最长 30 天。
+
+## 作为用户，你该怎么做？
+
+- **不要把电子钱包当作储蓄账户。**它是为付款设计的，而非存放大额资金。它不支付利息，也不是受 PIDM 保障的存款。
+- **只存放你日常开销所需的金额。**若要储蓄，请使用受 PIDM 保障的银行账户。
+- **只使用**列在 BNM 官方电子货币发行商名单中的**发行商**。
+- **启用安全功能**，如强身份验证；请记住，跨境和无卡交易默认是关闭的，除非你选择启用。
+
+## What's next
+
+BNM 的电子货币框架随着数字支付的增长持续演进，治理、网络安全及资金保护的各层规定也不时收紧。若要全面了解你的资金保障状况，请阅读关于 PIDM 存款保险制度以及 DuitNow QR 支付如何运作的相关指南。在做出财务决定之前，请务必查阅 BNM 官方网站（bnm.gov.my）和 PIDM 官方网站（pidm.gov.my），以获取政策文件及已获批发行商名单的最新版本。
