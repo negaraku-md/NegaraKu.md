@@ -1,0 +1,175 @@
+---
+topicId: MY-TOU-0011
+title: "马六甲遗产：联合国教科文组织古城游览指南"
+seoTitle: "马六甲遗产指南：鸡场街、A Famosa 古堡、峇峇娘惹与联合国教科文组织"
+slug: "melaka-heritage-visitor-guide"
+category: "tourism"
+subcategory: ["heritage"]
+summary: "一份经过核实的马六甲联合国教科文组织世界遗产核心区游览指南——涵盖荷兰红屋广场一带的殖民地标、鸡场街，以及峇峇娘惹（土生华人）宅邸——附实用时间安排、游览路线以及游客常犯的错误。"
+
+tier: "1"
+mode: "practical"
+contentType: "guide"
+sensitivity: "none"
+
+answer: "马六甲历史中心于2008年7月7日作为「马六甲海峡历史城市：马六甲与乔治市」的其中一半被列入联合国教科文组织世界遗产名录，依据文化标准（ii）、（iii）和（iv）获得认可。这座紧凑、适合步行的古城，在约一平方英里的范围内浓缩了五个世纪的马来苏丹王朝、葡萄牙、荷兰和英国的层层历史——A Famosa 古堡幸存的城门、荷兰人建造的红屋（Stadthuys）和基督堂、圣保罗山上的教堂遗迹，以及陈祯禄街（Jalan Tun Tan Cheng Lock）上的土生华人排屋。请至少安排一整天，若想逛鸡场街夜市，则应把行程定在周五至周日的傍晚。"
+keyTakeaways:
+  - "马六甲与乔治市于2008年7月7日依据文化标准（ii）、（iii）和（iv）被共同列入联合国教科文组织世界遗产名录。"
+  - "该遗址记录了马六甲海峡逾500年的贸易与文化交流；马六甲的城市肌理代表马来苏丹王朝以及葡萄牙和荷兰时期，而乔治市则代表英国时期。"
+  - "A Famosa 古堡由葡萄牙人于1511年建造；如今大体幸存的只有圣地亚哥城门（Porta de Santiago）。荷兰人于17世纪中叶建造了红屋（Stadthuys），并于18世纪建造了基督堂。"
+  - "峇峇娘惹（土生华人）群体——早期华人移民与本地马来文化通婚并融合后的后裔——是马六甲标志性的活态遗产，最佳观赏地是老荷兰街（陈祯禄街，Jalan Tun Tan Cheng Lock）。"
+  - "历史核心区面积小、适合步行；鸡场街夜市在周五至周日傍晚营业。"
+appliesTo: "计划以遗产为主题游览马六甲联合国教科文组织古城的首次及再访游客。"
+
+faq:
+  - q: "马六甲是何时成为联合国教科文组织世界遗产的？"
+    a: "2008年7月7日，世界遗产委员会将「马六甲海峡历史城市：马六甲与乔治市」列入联合国教科文组织世界遗产名录。马六甲是这一联合列名（编号1223）中的两个组成城市之一，另一个是槟城的乔治市。2011年又列入了一项小幅边界修改。"
+  - q: "为什么马六甲与乔治市被共同列名？"
+    a: "联合国教科文组织将两者视为同一处遗产，因为它们都是马六甲海峡上留存最完整的历史城市中心，由东西方之间500年的贸易所塑造。两者在时间上相互补充：马六甲的城市肌理反映马来苏丹王朝以及葡萄牙和荷兰时期，而乔治市则代表自18世纪末起的较晚的英国时期。"
+  - q: "我在马六甲需要待几天？"
+    a: "一整天足以走完精华环线——荷兰红屋广场、圣保罗山、A Famosa、鸡场街以及一间峇峇娘惹宅邸。两天则可以放慢节奏，多逛几座博物馆，并从容地赶上鸡场街夜市。这是从吉隆坡出发常见的周末行程（车程约两小时）。"
+  - q: "鸡场街夜市什么时候营业？"
+    a: "鸡场街（Jonker Walk）夜市在周五、周六和周日傍晚营业，届时惹兰漢字峇（Jalan Hang Jebat，即鸡场街）封闭交通，摆满美食与手工艺摊位。若你只在平日到访，仍能看到老店屋和古董店，但看不到夜市集市。"
+  - q: "什么是「峇峇娘惹」或土生华人（Peranakan）？"
+    a: "土生华人（当地称「峇峇娘惹」）指的是早期华人移民与本地人通婚，并大量吸收马来语言、服饰和饮食的后裔群体——由此形成一种独特的混合文化。「峇峇」指男性，「娘惹」指女性。他们华丽的排屋、珠绣、瓷器和菜肴是马六甲遗产中不可或缺的一部分。"
+  - q: "「A Famosa」主题乐园和历史古堡是同一个地方吗？"
+    a: "不是——这是马六甲最常见的混淆。历史古堡是 A Famosa，其幸存的城门（圣地亚哥城门，Porta de Santiago）位于市中心圣保罗山脚下，免费参观。「A'Famosa 度假村」则是位于亚罗牙也（Alor Gajah）的另一处现代主题乐园兼水上乐园综合体，远离古城。预订时切勿把两者混为一谈。"
+  - q: "主要地标是免费参观的吗？"
+    a: "户外地标——荷兰红屋广场的红屋（Stadthuys）和基督堂外观、圣地亚哥城门，以及圣保罗山上的遗迹——都是免费的露天景点。室内博物馆，包括峇峇娘惹遗产博物馆，则需购票；出行前请查阅博物馆自己的官网了解最新门票价格。"
+  - q: "峇峇娘惹遗产博物馆的开放时间是？"
+    a: "该博物馆位于陈祯禄街48及50号（48 & 50 Jalan Tun Tan Cheng Lock），逢周二闭馆。工作日（周二除外）开放时间为上午10:00至下午4:15，周末为上午10:00至下午4:45。由于时间和价格可能变动，参观前请在博物馆官方网站确认。"
+
+lang: "zh"
+sourceContentHash: "15443466c3530ff4"
+masterLanguage: "en"
+translationStatus: "in-sync"
+
+status: "published"
+aiAssisted: true
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
+version: "0.2"
+revisions:
+  - version: "0.1"
+    date: 2026-07-28
+    change: "Initial AI draft."
+    reviewer: null
+  - version: "0.2"
+    date: 2026-07-28
+    change: "Correction pass: softened/removed unsourced dates (Stadthuys, Christ Church, Islam 1414) and the Melaka–George Town distance; dropped the unverifiable Tourism Malaysia page and the low-authority tourismmelaka.com source (with its Zheng He 1405 / single-generation claims); added verificationNeeded."
+    reviewer: null
+
+updated: 2026-07-28
+
+verificationNeeded:
+  - "Exact construction years of the Stadthuys (commonly cited c. 1650) and Christ Church (commonly cited 1753) — softened to 'mid-17th century' / '18th century' pending a primary heritage source."
+  - "The year and circumstances of the Melaka sultanate's adoption of Islam (often attributed to the 15th century; the specific date '1414' is historically disputed and was removed)."
+  - "The founding of Melaka around 1400 and its attribution to Parameswara."
+  - "The colonial-era dates in the timeline table — Portuguese conquest 1511, Dutch takeover 1641, Anglo-Dutch Treaty 1824 — standard but not confirmed against a fetched primary source in this pass."
+  - "UNESCO reference number 1223 and the 2011 minor boundary modification: previously verified as genuine by the fact-checker, but whc.unesco.org could not be re-fetched during this correction pass — reconfirm on the official UNESCO record."
+
+sources:
+  - title: "Melaka and George Town, Historic Cities of the Straits of Malacca"
+    url: "https://whc.unesco.org/en/list/1223/"
+    publisher: "UNESCO World Heritage Centre"
+  - title: "George Town UNESCO World Heritage Site (About GTWHS / OUV)"
+    url: "https://gtwhi.com.my/about-us/george-town-unesco-world-heritage-site/"
+    publisher: "George Town World Heritage Incorporated (GTWHI)"
+  - title: "Baba & Nyonya Heritage Museum — About / Visit"
+    url: "https://babanyonyamuseum.com/"
+    publisher: "Baba & Nyonya Heritage Museum"
+
+relations:
+  - { rel: "compares-with", to: "george-town-heritage-visitor-guide" }
+  - { rel: "related-to", to: "tourist-safety-health-practical-tips" }
+  - { rel: "related-to", to: "getting-around-malaysia-public-transport" }
+related: ["tourist-safety-health-practical-tips", "getting-around-malaysia-public-transport"]
+keywords: ["Melaka heritage", "Melaka UNESCO World Heritage", "Jonker Street", "Baba Nyonya Peranakan Melaka", "A Famosa Porta de Santiago", "Stadthuys Dutch Square", "St Paul's Hill Melaka", "Melaka travel guide"]
+---
+
+黄昏时分站在荷兰红屋广场，你可以在一瞥之间读到五个世纪的历史：一侧是三文鱼红的荷兰市政厅，山上是葡萄牙时期教堂的遗迹，一座曾是要塞支点、英国人试图拆除的石门，以及——步行两分钟外——一条如今为周五夜市点亮灯火的华人马来排屋小巷。马六甲不把它的历史铺展在一座大城市里。它把历史层层堆叠进约一平方英里、你一个下午就能走完的范围内。以下是如何解读它，以及如何据此规划一次游览。
+
+## 这里究竟保护了什么？
+
+2008年7月7日，联合国教科文组织世界遗产委员会将**「马六甲海峡历史城市：马六甲与乔治市」**列入世界遗产名录。这是一处单一的联合列名——编号1223——涵盖两座马来西亚城市：位于半岛南部的马六甲，以及位于北部槟城的乔治市。2011年后来又列入了一项小幅边界修改。
+
+此次列名依据的是联合国教科文组织三项文化标准——（ii）、（iii）和（iv）。这两座城市在马六甲海峡上历经500年的东西方贸易与文化交流而发展，亚洲与欧洲的影响赋予了它们一种既有形又无形的独特多元文化遗产。它们被描述为海峡上留存最完整的历史城市中心，拥有源自贯通欧洲和中东、经印度次大陆和马来群岛直至中国的贸易路线的多元文化活态遗产。
+
+这两座城市被共同列名，是因为它们在时间上相互补充。马六甲的建筑肌理反映**马来苏丹王朝以及葡萄牙和荷兰时期**；位于更北方的乔治市，则代表自18世纪末起的**英国时期**。两者共同讲述了一段连续的海峡故事。作为参照，据乔治市世界遗产机构（George Town World Heritage Incorporated）的数据，乔治市自身的核心区面积为109.38公顷，缓冲区为150.04公顷——由此可见这些受保护的古城核心区有多么紧凑。
+
+「活态遗产」这个说法对你如何游览很重要。这里不是一处围起来的废墟；而是一座运转中的城镇，人们仍住在店屋里，在庙宇和教堂里礼拜，并烹煮着自己的饮食。对待住宅小巷，请像对待自家街道那样保持礼貌。
+
+## 一座小城怎会汇集了这么多统治者？
+
+马六甲的全部意义都源于地理：它坐落在马六甲海峡最狭窄、最避风的位置，是印度洋与南中国海之间的海上咽喉。谁掌握了马六甲，谁就能对季风贸易征税。你今天所见的层层历史，正是这一战利品几度易手所留下的实体残迹。
+
+| 时期 | 大致年份 | 统治者 | 至今可见的遗存 |
+| --- | --- | --- | --- |
+| 马来苏丹王朝 | 约1400–1511 | 相传由拜里米苏拉（Parameswara）建立；统治家族后来皈依伊斯兰教 | 苏丹王朝的记忆与重建；黄金时代的贸易港遗产 |
+| 葡萄牙 | 1511–1641 | 阿方索·德·阿尔布克尔克（Afonso de Albuquerque）于1511年攻占该城 | A Famosa 要塞（圣地亚哥城门，Porta de Santiago）；山上的圣保罗教堂 |
+| 荷兰 | 1641–1824 | 荷兰东印度公司于1641年接管 | 红屋（Stadthuys，17世纪中叶）；基督堂（18世纪）；荷兰红屋广场 |
+| 英国 | 1824年起 | 依据1824年《英荷条约》移交 | 海峡殖民地行政管理；后来的店屋街景 |
+
+最清晰的脉络是统治者的更迭序列。葡萄牙人于1511年夺取该城，荷兰人于1641年围城后攻占并统治时间最长——约183年——而1824年的《英荷条约》将马六甲、槟城和新加坡并入英属海峡殖民地。四个强权，一座小小的港口。
+
+## 我在核心区到底该看什么？
+
+对游客而言的好消息是，重点景点都紧凑地聚集在马六甲河和圣保罗山周围。你可以步行把它们串成一条环线。
+
+- **荷兰红屋广场（红屋 Stadthuys 与基督堂）。** 这片三文鱼红的广场是马六甲的招牌明信片。**红屋（Stadthuys）**由荷兰人于17世纪中叶建造，常被誉为东南亚现存最古老的荷兰建筑，如今设有历史与民族志展厅。旁边的**基督堂**——一座18世纪荷兰人建造的新教教堂——至今仍在使用。
+- **圣保罗山与圣保罗教堂。** 沿荷兰红屋广场后方的短短一段台阶上行，即抵达无顶的**圣保罗教堂**，这是一座葡萄牙时期的山顶教堂，后被荷兰人用作墓地。遗迹、风化的墓碑以及俯瞰海峡的山顶景观都是免费的露天景点；预留约20–30分钟。
+- **A Famosa（圣地亚哥城门）。** 从山的另一侧下行，即抵达1511年建造的葡萄牙要塞唯一幸存的城门——东南亚最古老的欧洲军事建筑之一。要塞本身早已不存；**圣地亚哥城门（Porta de Santiago）**是仅存的残迹。
+- **鸡场街（惹兰漢字峇，Jalan Hang Jebat）。** 过河进入老唐人街，那里有古董店、宗祠、庙宇，以及周末傍晚的夜市。这是整趟游览在商业与感官上的核心。
+- **荷兰街（陈祯禄街，Jalan Tun Tan Cheng Lock）。** 与鸡场街相隔一个街区，是昔日「百万富翁街」的土生华人宅邸——更安静、更宏伟，也是峇峇娘惹遗产博物馆的所在地。
+
+## 峇峇娘惹是谁，我在哪里能见到他们？
+
+如果说 A Famosa 和红屋是马六甲的殖民地骨架，那么**土生华人（峇峇娘惹）**群体便是它活着的灵魂。马六甲的华人移民与本地人通婚，吸收了马来语言、服饰和烹饪——同时保留华人的祖先传统。其结果是一种真正的混合文化：将华人食材与马来香料相融合的娘惹菜肴、精致的珠绣拖鞋、镶金的祖先厅堂，以及融合华人、马来和欧洲装饰风格的店屋。
+
+理解这一文化的最佳去处，是位于陈祯禄街48及50号的**峇峇娘惹遗产博物馆（Baba & Nyonya Heritage Museum）**。这座宅邸由三间毗连的排屋组合而成，1861年由陈氏家族购入，并连同原有家具、瓷器和家族传家宝一同保存。来自博物馆自家网站的实用提示：它**逢周二闭馆**，工作日（周二除外）开放时间为**上午10:00至下午4:15**，周末为**上午10:00至下午4:45**。这是一座室内收费博物馆——请查阅官方网站了解最新价格，因为价格会有变动。
+
+一个有用的方位图：**陈祯禄街（老荷兰街）**是峇峇宅邸的贵族住宅区，而**惹兰漢字峇（老鸡场街）**过去是、如今仍是店屋与市集地带。走前者感受宏伟与宁静，走后者体验喧闹与美食。
+
+## 我需要多少时间？一个决策框架
+
+根据你实际拥有的时间来搭配计划。
+
+| 可用时间 | 现实的计划 |
+| --- | --- |
+| 半天（3–4小时） | 荷兰红屋广场 → 圣保罗山 → A Famosa → 快速走一趟鸡场街。跳过室内博物馆。 |
+| 一整天 | 半天环线，外加峇峇娘惹遗产博物馆、一顿娘惹午餐以及红屋展厅。若是周末，就留下来逛夜市。 |
+| 两天 | 加上一段更悠闲的河边漫步、更多宗祠和庙宇、额外的博物馆，以及在鸡场街夜市从容不迫的一个傍晚。 |
+
+有两个规划杠杆能带来最大的差别：
+
+1. **星期几。** **鸡场街（Jonker Walk）夜市在周五至周日傍晚营业。** 若夜市是优先选项，就把行程锚定在周末；若你不喜人潮，就在平日前来，接受一个较为安静的鸡场街。
+2. **一天中的时段。** 赤道正午的酷热难耐，而圣保罗山几乎没有遮荫。把露天、上坡的景点安排在早晨或傍晚，把有空调的博物馆和店屋闲逛留给最热的时段。
+
+## 首次到访的游客常犯什么错？
+
+以下是一份可避免的错误清单，源自这座城镇的布局方式：
+
+- **误以为「A'Famosa 度假村」就是古堡而去预订。** 历史上的 **A Famosa／圣地亚哥城门**是市中心一座免费的石门。**A'Famosa 度假村**则是位于亚罗牙也、城外的一处独立现代主题乐园。它们除了名字相同，别无关联。
+- **周二前往却指望参观峇峇娘惹博物馆。** 那天闭馆。数座遗产宅邸各有其休息日——在围绕某处安排一整天之前，请先核实。
+- **以为鸡场街永远都是夜市。** 平日它是一条普通（虽略显游客化）的店屋街。著名的集市是周五至周日的傍晚活动。
+- **低估酷热、行程排得过满。** 核心区不大，但正午烈日下攀登圣保罗山，与上午9点攀登是完全不同的体验。随身带水；给露天景点留出节奏。
+- **把有人居住的小巷当成电影布景。** 这些店屋里仍有人居住。拍摄室内或居民前请先征得同意，在住宅街道上保持安静。
+- **忽略了那条河。** 马六甲河贯穿整个遗产区；沿河散步（或乘船）能串联各景点，并让人理解许多游客错过的城镇布局。
+
+## 马六甲还是乔治市——它们有何不同？
+
+由于两者共享同一处联合国教科文组织列名，旅行者常问该优先去哪一个。它们各自满足不同的胃口。
+
+| | 马六甲 | 乔治市（槟城） |
+| --- | --- | --- |
+| 遗产重点 | 马来苏丹王朝、葡萄牙和荷兰的层层历史 | 英国时期的殖民与贸易城市 |
+| 标志性景点 | 荷兰红屋广场、A Famosa、圣保罗山、鸡场街 | 姓氏桥、殖民时期公共建筑、街头艺术、店屋 |
+| 感受 | 紧凑、极适合步行、周末行程的规模 | 更大、更铺展开的古城街网 |
+| 美食标识 | 娘惹菜、鸡饭粒、煎蕊（cendol） | 小贩街头美食、亚参叻沙、炒粿条 |
+
+如果你只有一个空闲的周末，又想在一个适合步行的范围内领略最早的欧洲与马来苏丹王朝层层历史，那就选马六甲。如果你想要一座更大的古城和英属海峡篇章，那就选乔治市。热忱的遗产旅行者两处都会去——毕竟，这正是联合国教科文组织所列名的。
+
+## 下一步
+
+先锁定这两个规划杠杆：若鸡场街夜市对你重要，就选一个**周五至周日**的时段；并把**露天、上坡的景点安排在早晨或傍晚**。临近出行时，请在每座博物馆自己的网站上确认开放日期和最新门票价格，因为这些会变动。如果你要把马六甲与马来西亚其余行程结合起来，请阅读我们关于在全国范围内使用公共交通出行以及实用游客安全与健康提示的配套文章，以及——作为这处联合国教科文组织列名的另一半——乔治市遗产指南。马六甲核心区的一切都近在咫尺；其回报在于慢慢步行，而非匆匆打卡。

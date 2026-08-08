@@ -1,0 +1,220 @@
+---
+topicId: MY-TOU-0015
+title: "砂拉越旅游指南"
+seoTitle: "砂拉越旅游指南：入境规定、古晋、姆禄与长屋"
+slug: "sarawak-visitor-guide"
+category: "tourism"
+subcategory: ["sarawak"]
+summary: "一份实用的砂拉越旅游指南——介绍其自设移民局所要求的入境准证（即便是来自半岛的马来西亚人也要办），以及古晋、姆禄山（Gunung Mulu）世界遗产洞穴，与仍有人居住的达雅族长屋。"
+
+tier: "1"
+mode: "practical"
+contentType: "guide"
+sensitivity: "constitution"
+
+answer: "砂拉越是马来西亚面积最大的州，并自设移民管制——这是它在1963年协助组建马来西亚时保留的权力。所有人——包括来自马来西亚半岛的马来西亚人——抵达时都会被查验并获发准证，而外国人则会在马来西亚签证之外另获一枚砂拉越入境盖章。可以古晋为大本营体验文化与野生动物，再飞往姆禄山国家公园（一处只能乘飞机抵达的联合国教科文组织世界遗产）探访洞穴与雨林。"
+keyTakeaways:
+  - "砂拉越依据1963年加入马来西亚时保留的权力自设移民管制；《1959/63年移民法令》第66条限制进入东马来西亚。"
+  - "西马人与沙巴人抵达时经砂拉越移民局查验，凭大马身份证（MyKad）获发社交访问准证——一趟国内航班却像通过边境一样。"
+  - "外国游客除了马来西亚入境之外，还会另获一枚砂拉越入境盖章，且多数人须在抵达前于网上提交马来西亚数字入境卡（MDAC）。"
+  - "姆禄山国家公园于2000年列入联合国教科文组织世界遗产，只能乘搭MASwings航班抵达，五天入园准证收费为成人外国游客RM30、成人马来西亚人RM15。"
+  - "古晋是探访达雅族长屋（如Annah Rais的比达友族社区）以及在实蒙谷（Semenggoh）观赏半野生红毛猩猩的理想大本营。"
+appliesTo: "自由行旅客、来自其他州属的马来西亚人，以及计划首次前往砂拉越（古晋、姆禄及长屋地带）的外国游客。"
+
+faq:
+  - q: "从吉隆坡飞往古晋需要护照吗？"
+    a: "马来西亚公民搭乘国内航班无需护照——一张大马身份证（MyKad）即可——但抵达时你仍会通过砂拉越移民局并获发社交访问准证。外国人则必须携带护照，因为砂拉越会与你的马来西亚半岛入境分开另行盖章放行。"
+  - q: "既然我已经入境马来西亚，为什么砂拉越还要再盖一次章？"
+    a: "砂拉越保留了自己的移民管制，这是它在1963年加入马来西亚时保留的权力。额外的盖章记录你进入砂拉越。对外国人而言，这通常不会重置你的可停留期限——期限仍从你首次抵达马来西亚起计算——而砂拉越当局可独立于联邦决定拒绝入境。"
+  - q: "西马人只要搬过去，就能在砂拉越工作或求学吗？"
+    a: "不能。以访客身份入境很容易，但要在砂拉越就业或修读课程，则需要相应的砂拉越工作准证或学生准证。这属于该州的移民权力，并非走个形式而已。"
+  - q: "我该如何前往姆禄山国家公园？"
+    a: "乘飞机。MASwings经营从美里（约30分钟）、古晋（约1小时20分钟）及亚庇（约55分钟）飞往姆禄的航班。前往公园没有实际可行的陆路，而航班可能因天气延误或取消，因此行程要留有余地。"
+  - q: "进入姆禄要花多少钱，门票有效期多长？"
+    a: "入园准证成人外国游客RM30、成人马来西亚人RM15，儿童与年长者有优惠价。它是一张五天准证，在这段期间可无限次进入。导览洞穴行程与探险活动须另行预订并付费。"
+  - q: "那些长屋是真实的社区还是给游客看的布景？"
+    a: "两者都有。古晋附近的Annah Rais等地是仍有人居住的比达友族长屋社区，仍有家庭居住其中；而山都望（Santubong）附近的砂拉越文化村则是专门建造的活态博物馆。造访有人居住的长屋最好事先安排，并常常通过一位能够以尊重的方式为你诠释此行的向导进行。"
+
+lang: "zh"
+sourceContentHash: "0c793430dbdbc20d"
+masterLanguage: "en"
+translationStatus: "in-sync"
+
+status: "published"
+aiAssisted: true
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
+version: "0.2"
+verificationNeeded:
+  - "Gunung Mulu summit height: the park's own site conflicts — mulupark.com/mulu-world-heritage-area/ states 2,376 m, the mulupark.com homepage states 2,377 m. Draft uses ~2,376 m; confirm the authoritative figure."
+  - "MDAC exemption categories: the specific claim that Singapore citizens and Malaysian permanent residents are exempt could not be substantiated (IMI pages returned only navigation chrome). Confirm the current exemption list with the Immigration Department of Malaysia."
+  - "Sarawak as Malaysia's largest state by area is stated as general knowledge and is not tied to a fetched citation; attach an authoritative source or soften."
+  - "Semenggoh feeding windows (~08:00–10:00, ~14:00–16:00) and the ~24 km distance from Kuching are cited to semenggoh.my but were not independently re-verified in this pass."
+revisions:
+  - version: "0.1"
+    date: 2026-07-28
+    change: "Initial AI draft."
+    reviewer: null
+  - version: "0.2"
+    date: 2026-07-28
+    change: "Correction pass: fixed summit height to ~2,376 m, removed unsourced elevation/distance/state-count figures, made Clearwater superlative match its source, cut the Himalayas flourish, softened the MDAC exemption claim, and applied a neutrality pass to the MA63 phrasing."
+    reviewer: null
+
+updated: 2026-07-28
+sources:
+  - title: "Endorsement of Exemption Section 66"
+    url: "https://www.imi.gov.my/index.php/en/main-services/pass/endorsement-of-exemption-section-66/"
+    publisher: "Immigration Department of Malaysia"
+  - title: "Malaysia Digital Arrival Card (MDAC) For Foreign Visitors"
+    url: "https://www.imi.gov.my/index.php/en/pengumuman/malaysia-digital-arrival-card-mdac-for-foreign-visitors-2/"
+    publisher: "Immigration Department of Malaysia"
+  - title: "Plan Your Trip — Mulu National Park"
+    url: "https://mulupark.com/plan-your-trip/"
+    publisher: "Mulu National Park (Borsarmulu Park Management)"
+  - title: "Mulu World Heritage Area — About the Park"
+    url: "https://mulupark.com/mulu-world-heritage-area/"
+    publisher: "Mulu National Park (Borsarmulu Park Management)"
+  - title: "Mulu Sarawak — A World Heritage Site"
+    url: "https://mulu.sarawaktourism.com/"
+    publisher: "Sarawak Tourism Board"
+  - title: "Annah Rais Long House"
+    url: "https://www.sarawaktourism.com/web/things-to-do/thing-view/culture/homestays/annah-rais-long-house-"
+    publisher: "Sarawak Tourism Board"
+  - title: "Semenggoh Wildlife Centre — Visitor Information"
+    url: "https://semenggoh.my/"
+    publisher: "Semenggoh Wildlife Centre"
+
+entity: "Sarawak"
+relations:
+  - { rel: "related-to", to: "malaysia-agreement-1963" }
+  - { rel: "related-to", to: "malaysia-entry-requirements" }
+  - { rel: "related-to", to: "sabah-visitor-guide" }
+related: ["malaysia-agreement-1963", "malaysia-entry-requirements", "sabah-visitor-guide", "gunung-mulu-national-park"]
+keywords: ["Sarawak travel", "Sarawak immigration", "Kuching guide", "Gunung Mulu National Park", "Iban longhouse", "Bidayuh longhouse", "Sarawak entry pass", "Borneo travel"]
+---
+
+你可以在不到两小时内从吉隆坡飞抵古晋，全程不曾离开自己的国家，抵达另一端时却仍要通过移民关卡盖章。在到达大厅里的这份意外，正是理解砂拉越最重要的一点：它是一个自设边境的马来西亚州属。
+
+砂拉越是马来西亚面积最大的州，位于婆罗洲的西北部。这里有古老的雨林、地球上最大的洞穴厅室，以及仍以长屋形式群居的社区。本指南将介绍你入境所需的一切、如何以古晋为大本营、如何抵达姆禄山的世界遗产洞穴，以及如何在不把长屋变成一场表演的前提下造访它。
+
+## 砂拉越为什么有自己的移民管制？
+
+1963年马来西亚联邦成立时，砂拉越依据的加入条件之一，就包括保留对进入本州领土的移民管制权。这项权力至今依然有效，因此在六十多年后的今天，马来西亚仍在半岛与砂拉越之间执行移民查验。
+
+其机制是联邦法律。《1959/63年移民法令》第66条，用移民局自己的话来说，是"对公民进入东马来西亚州（即沙巴与砂拉越）之入境权利的一项限制"。实际上这意味着砂拉越自行决定谁可以入境、以什么条件入境，并在古晋国际机场、美里机场，以及与文莱和印尼加里曼丹的陆路关卡执行这项管制。
+
+依据这些权力，砂拉越的移民当局可以独立于联邦准入，拒绝个别旅客入境。对访客而言，要点很简单：通过马来西亚的移民关卡，并不自动让你通过砂拉越的移民关卡。
+
+## 谁需要什么才能进入砂拉越？
+
+规则分成三类——砂拉越人、其他马来西亚人，以及外国人——每一类在关口都会得到不同对待。
+
+| 旅客 | 需携带的证件 | 抵达时会发生什么 |
+| --- | --- | --- |
+| 砂拉越人 | 大马身份证（MyKad） | 以本州居民身份放行 |
+| 西马人或沙巴人 | 大马身份证（国内航班无需护照） | 经砂拉越移民局查验并获发社交访问准证 |
+| 外国游客 | 护照（+任何马来西亚签证；网上提交MDAC） | 在马来西亚入境之外另加一枚砂拉越入境盖章 |
+
+有几点值得说清楚。
+
+- **来自其他州属的马来西亚人在这里是访客。** 西马人或沙巴人凭大马身份证经砂拉越移民局查验，并获发社交访问准证。这快速又免费，但它是一道真正的移民程序，而非国内航班的走个形式。
+- **造访不等于工作。** 任何马来西亚人以游客身份进入砂拉越都很容易。要就业或求学则不然——那需要相应的砂拉越工作准证或学生准证，因为该州对这些用途同样掌握移民管制权。切勿以为半岛的一份工作或大学学额会自动延续过去。
+- **外国人会被盖两次章。** 你的马来西亚入境（比如在吉隆坡国际机场）让你进入这个国家；砂拉越的盖章让你进入这个州。关键在于，从马来西亚其他地方进入砂拉越通常不会给你一段全新的可停留期——你的准许停留期仍从你首次抵达马来西亚起计算。如果砂拉越是你进入马来西亚的第一个入境口岸，你便可获得依你国籍所享的完整停留期。
+
+## 外国游客在起飞前需要准备什么？
+
+大多数外国国民可免签证入境马来西亚（及砂拉越）从事旅游，停留时长视国籍而定。在任何签证规定之外，多数外国入境者还须填写**马来西亚数字入境卡（MDAC）**——一份由马来西亚移民局管理的免费在线抵前申报。它不是签证；它是你在出发前不久提交的一份表格，某些群体获豁免（现行的豁免名单由移民局公布——出行前请确认你的类别）。
+
+有两个习惯能帮你省去麻烦：
+
+1. **在砂拉越这一段行程中随身备好护照**，即便是从半岛出发、看似国内航班的旅程——你会被再次盖章入境。
+2. **不要因算错日期而逾期逗留。** 由于从马来西亚半岛抵达时砂拉越的盖章不会重置你的期限，请以你最初的马来西亚入境日期来规划离境。
+
+如果你对自己特定国籍的规定有疑问，订票前请向马来西亚移民局确认现行规定。
+
+## 你在古晋该以何处为落脚点？
+
+州首府古晋是首次砂拉越之旅的天然枢纽。这是一座河畔城市，适合步行、氛围悠闲，有修复过的滨水区、殖民时代的店屋，以及与其规模不成比例的美食声誉（砂拉越叻沙与干捞面几乎是必尝）。它的绰号——"猫城"——被相当当真，以至于有一座专门献给猫的博物馆。
+
+古晋真正的优势在于，世界级的自然与文化就在一日游可及之内：
+
+- **实蒙谷野生动物中心（Semenggoh Wildlife Centre）**，位于市区以南约24公里，是一座红毛猩猩复育中心，半野生的猿类会来到喂食台。喂食时段在上午（约8:00–10:00）与下午（约14:00–16:00）；由于动物可自由在周围森林觅食，看到与否从无保证。
+- **砂拉越文化村（Sarawak Cultural Village）**，位于市区北面海滨的山都望附近，是一座屡获奖项的"活态博物馆"，本州各主要社区各自维护一座传统住所——包括一座伊班族长屋——并有手工艺示范与舞蹈。
+- **峇哥国家公园（Bako National Park）**，乘船抵达，为多一天时间的旅客提供长鼻猴与海岸雨林。
+
+以古晋为据点住上三、四晚，再决定是否加上姆禄。
+
+## 姆禄山为何值得专程飞一趟？
+
+姆禄山国家公园是砂拉越的招牌荒野，也是婆罗洲登上资深旅人清单的原因之一。它于**2000年列入联合国教科文组织世界遗产**，面积约**55,000公顷**，是砂拉越最大的国家公园。其地形从公园总部附近的近海平面，攀升至姆禄山本身约**2,376米**的顶峰，横跨一片历时约6000万年形成的雨林。
+
+那些"之最"大多在地底下。姆禄拥有世界最大的洞穴通道（鹿洞，Deer Cave）、地球上最大的天然封闭空间（砂拉越厅，Sarawak Chamber），以及全球十大最大容积的洞穴系统之一（清水洞，Clearwater Cave）。地面之上，锋利如刃的石灰岩尖峰（Pinnacles）是公园的标志性地标，须经一段艰苦攀登才能抵达。而在多数傍晚，天气许可时，约三百万只蝙蝠会从鹿洞盘旋飞出，化作一条丝带，吸引人群聚集到观景区——这是一场免费的、世界级的奇观，向园内任何人开放。
+
+### 你到底要怎么去姆禄？
+
+没有实际可行的陆路。前往须乘飞机，由MASwings（马来西亚航空的子公司）营运：
+
+| 出发地 | 大约飞行时间 |
+| --- | --- |
+| 美里 | 约30分钟 |
+| 古晋 | 约1小时20分钟 |
+| 亚庇 | 约55分钟 |
+
+从简易机场到公园总部只需短途接驳。由于小型飞机依赖能见度，**航班经常因天气延误或取消**——绝不要把往后的国际转机安排在你飞离姆禄的同一天。
+
+### 姆禄要花多少钱？
+
+入园是一张**五天准证**，在这段期间可无限次进入。费用仅涵盖入园；导览洞穴行程与探险活动（包括尖峰攀登与展示洞穴）须另行预订并付费。
+
+| 游客 | 成人 | 儿童（6–18岁） | 年长者（60岁以上） | 5岁以下 |
+| --- | --- | --- | --- | --- |
+| 外国 | RM30 | RM10 | — | 免费 |
+| 马来西亚 | RM15 | RM5 | RM7 | 免费 |
+
+准证不可转让。多数洞穴游览须由公园持牌向导带领，因此提前预订活动——尤其在旺季——是明智之举。
+
+## 你要如何以尊重的方式造访长屋？
+
+长屋是砂拉越达雅族历久不衰的意象：一座架高的单体建筑，有时长达数百米，许多家庭住在各自私密的房间里，房间通向一条共享的公共长廊。你有两种截然不同的方式来体验它，而弄清楚自己在选哪一种会很有帮助。
+
+- **一个仍有人居住的社区**，例如位于巴达旺（Padawan）高地的**Annah Rais**比达友族长屋——距古晋市区约60公里（距机场约65公里）。仍有家庭在此居住；每天开放参观，但最好事先安排，理想的做法是通过一位能诠释习俗并妥当引荐你的向导。
+- **一座活态博物馆**，例如**砂拉越文化村**，在同一处场地内维护伊班、比达友、乌鲁人（Orang Ulu）、马兰诺（Melanau）、马来及华人社区的传统房屋供人了解。
+
+两者都名正言顺。有人居住的长屋提供真实感，但对你作为客人的要求也更多；文化村则能在几个小时内提供广度与便利。
+
+给有人居住的长屋一份简短的礼仪清单：
+
+1. **提前安排此行**——不要直接闯进去到处乱走；长廊是公共空间，但房间是人家的家。
+2. **拍照前先征询同意**，尤其在拍摄任何仪式性或祖先相关的物件之前。
+3. **优雅地接受款待。** 主人可能奉上食物或饮料；断然拒绝可能引起冒犯，因此至少要领受这份心意。
+4. **带上一份小小的贡献或购买当地手工艺品**，而非把此行当作免费的娱乐。
+5. **听从主人的引领**，决定你可去何处、可触碰什么。
+
+## 哪种行程适合你的时间？
+
+请把这当作一个决策框架，而非固定计划。
+
+| 你有 | 合理的安排 |
+| --- | --- |
+| 3天 | 只玩古晋：滨水区与美食、实蒙谷红毛猩猩、一座长屋或文化村 |
+| 5–6天 | 古晋（3晚）+ 姆禄（2–3晚），乘飞机往返 |
+| 7天以上 | 加上峇哥国家公园，或延长姆禄行程去尖峰／猎头者步道（Headhunters Trail） |
+
+如果在古晋之外你只能挑一个加游项目，而你体能不错、日期又灵活，那么姆禄的回报胜过本州任何地方。如果你的日期固定或预算紧张，就守着古晋的一日游，它们本身已经十分出色。
+
+## 有哪些错误会让游客栽跟头？
+
+- **在"国内"航段把护照留在家。** 外国人从半岛飞入时仍要通过砂拉越移民关卡。
+- **以为你的马来西亚签证停留期会在砂拉越重置。** 从马来西亚半岛抵达时，你的期限仍从你首次入境马来西亚起持续计算——请从那个日期算起。
+- **把工作或求学的搬迁当作理所当然。** 半岛的一份工作或大学学额，并不让你有权在没有正确州准证的情况下于砂拉越工作或求学。
+- **预订从姆禄出发的紧凑转机。** 天气造成的取消司空见惯；请留出一个缓冲日。
+- **抵达姆禄时以为只需付入园费。** 准证仅含入园——导览洞穴与尖峰须额外付费，并应提前预订。
+- **未经通知就出现在有人居住的长屋。** 请事先安排，最好有向导同行。
+- **期望在实蒙谷保证看到红毛猩猩。** 这些猿类是半野生的，可自由留在森林里；把看到当作意外之喜，而非承诺。
+
+## 接下来该做什么
+
+砂拉越会回报那些围绕一个事实来规划的旅客——它在真实意义上，是一个你"进入"而非"路过"的地方。带上与你身份相符的证件，从你首次抵达马来西亚起计算你的天数，以古晋为大本营，并把姆禄的航班与一次长屋造访当作要事先规划、而非临时凑合的事项。
+
+订票之前，请直接向马来西亚移民局确认你国籍现行的签证状况与MDAC要求，并尽早预订姆禄的航班与导览活动——无论是飞机还是持牌洞穴行程，运力都有限。从这里开始，洞穴、雨林与那些社区，会替你成就其余的一切。
