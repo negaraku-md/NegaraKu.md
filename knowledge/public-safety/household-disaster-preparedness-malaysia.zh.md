@@ -1,0 +1,255 @@
+---
+topicId: MY-PS-0006
+title: "马来西亚家庭防灾与防洪准备"
+seoTitle: "马来西亚家庭防洪防灾：完整指南"
+slug: "household-disaster-preparedness-malaysia"
+category: "public-safety"
+subcategory: ["banjir"]
+summary: "为马来西亚家庭提供的季候风水灾前、中、后实用指南——涵盖应急包、天气预警、临时疏散中心（PPS）、恩恤金援助（Bantuan Wang Ihsan），以及山泥倾泻、烟霾和沙巴地震等风险。"
+
+tier: "1"
+mode: "practical"
+contentType: "guide"
+sensitivity: "none"
+
+answer: "马来西亚最常见的灾害是季候风水灾，尤其是每年11月至3月东北季候风期间袭击半岛东海岸、砂拉越和沙巴的水灾。每个家庭都应准备可维持72小时的应急包，了解马来西亚气象局（MetMalaysia）的天气预警（警戒、恶劣、危险），认清附近的临时疏散中心（PPS），并在接获指示时及早撤离。水灾过后，家庭户主可通过MyIBJKM应用程序申请RM1,000的恩恤金援助（Bantuan Wang Ihsan），前提是曾在PPS登记。"
+keyTakeaways:
+  - "东北季候风（11月至3月）是主要的水灾季节；马来西亚气象局预测2025/2026季节将有5至7次持续性暴雨事件。"
+  - "马来西亚气象局采用三级持续性降雨预警：警戒（24小时内低于150毫米）、恶劣（24小时内超过150毫米）和危险（24小时内超过250毫米）。"
+  - "社会福利局（JKM）已准备启动8,481个临时疏散中心，可容纳2,158,743名灾民（2024/2025年备灾数据）。"
+  - "恩恤金援助（Bantuan Wang Ihsan）为每宗申请RM1,000，发放给户主，每三个月一次，一年最多四次（RM4,000）；通过MyIBJKM应用程序申请，以电子转账（EFT）或国民储蓄银行（BSN）柜台付款。"
+  - "主要紧急电话为999；季节来临前也应保存当地灾害机构的联络热线。"
+appliesTo: "居住在马来西亚水灾或灾害高风险地区的家庭、家人和居民。"
+
+faq:
+  - q: "马来西亚水灾最严重的季节是什么时候？"
+    a: "东北季候风从大约11月中旬持续至3月，是主要的水灾季节，尤其在吉兰丹、登嘉楼、彭亨、柔佛东部、砂拉越和沙巴。就2025/2026季节而言，马来西亚气象局预测从2025年11月13日起将有5至7次持续性暴雨事件。"
+  - q: "警戒、恶劣和危险降雨预警是什么意思？"
+    a: "马来西亚气象局根据24小时内的降雨量发出持续性降雨预警：降雨低于150毫米为警戒，超过150毫米为恶劣，超过250毫米（有大水灾和山泥倾泻风险）为危险。每一级别都要求逐步加强的应对准备。"
+  - q: "恩恤金援助有多少，如何申请？"
+    a: "恩恤金援助（Bantuan Wang Ihsan）为每宗申请RM1,000，发放给受灾影响的户主。申请每三个月一次，一年最多四次（RM4,000）。通过MyIBJKM应用程序、在临时疏散中心扫描二维码提出申请；款项以电子转账（EFT）汇入银行账户或在国民储蓄银行（BSN）柜台以现金提取。"
+  - q: "应急包里必须有什么？"
+    a: "准备至少72小时的物资：饮用水和不易腐坏的食物、太阳能灯/手电筒和电池、急救包和个人药物、口哨、防水容器内的重要文件副本、手机和充电宝，以及如有需要的婴儿或长者用品。"
+  - q: "马来西亚有地震风险吗？"
+    a: "有，尤其是沙巴。2015年兰瑙地震震级为6.0，在京那巴鲁山夺走18条人命。2026年2月23日，一场震级6.8的离岸地震发生在古达附近、深度678公里，无海啸威胁。半岛发生大地震的风险较低。"
+
+lang: "zh"
+sourceContentHash: "aacc807758e00d83"
+masterLanguage: "ms"
+translationStatus: "in-sync"
+
+status: "published"
+aiAssisted: true
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
+version: "0.2"
+verificationNeeded:
+  - "Angka 8,481 PPS / kapasiti 2,158,743 mangsa berasal daripada kenyataan kesediaan JKM bagi Monsun Timur Laut 2024/2025 (BuletinTV3, Nov 2024) — sahkan angka setara bagi musim 2025/2026."
+  - "4,619 kawasan tumpuan banjir, 543 siren dan 737 pam mudah alih dipetik daripada kenyataan NADMA Oktober 2024 — sahkan jumlah terkini bagi 2025/2026."
+  - "Jumlah BWI RM78.342 juta kepada 78,342 ketua isi rumah ialah keadaan setakat 21 Januari 2026 — kemas kini kepada jumlah akhir musim apabila tersedia."
+  - "Sahkan mekanisme permohonan dan bayaran BWI semasa (MyIBJKM / EFT / kaunter BSN) pada masa penerbitan."
+revisions:
+  - version: "0.1"
+    date: 2026-08-01
+    change: "Initial AI draft."
+    reviewer: null
+  - version: "0.2"
+    date: 2026-08-01
+    change: "Correction pass: removed fabricated 108k/RM108m BWI figure, dropped unsupported rain-warning colour coding, corrected BWI process (MyIBJKM/EFT/BSN), and added sources for PPS capacity, BWI totals and Ranau 2015 toll."
+    reviewer: null
+
+updated: 2026-08-01
+sources:
+  - title: "Kriteria Amaran Hujan Berterusan"
+    url: "https://www.met.gov.my/ramalan/hujan-lebat/"
+    publisher: "Jabatan Meteorologi Malaysia (MetMalaysia)"
+  - title: "JPS has identified 4,619 flood hotspots nationwide — Ahmad Zahid"
+    url: "https://www.nadma.gov.my/bi/media-en/news/1293-jps-has-identified-4-619-flood-hotspots-nationwide-ahmad-zahid"
+    publisher: "Agensi Pengurusan Bencana Negara (NADMA)"
+  - title: "JKM sedia aktifkan 8,481 PPS tempatkan mangsa banjir di seluruh negara"
+    url: "https://www.buletintv3.my/nasional/jkm-sedia-aktifkan-8481-pps-tempatkan-mangsa-banjir-di-seluruh-negara/"
+    publisher: "Buletin TV3"
+  - title: "Disaster victims can claim cash aid up to four times a year, says Nadma"
+    url: "https://www.thestar.com.my/news/nation/2026/07/26/disaster-victims-can-claim-cash-aid-up-to-four-times-a-year-says-nadma"
+    publisher: "The Star"
+  - title: "Transformasi Digital NADMA: 98 peratus Bantuan Wang Ihsan (BWI) berjaya diproses dalam tempoh kurang 14 hari"
+    url: "https://www.nadma.gov.my/bi/media-en/media-statement/6063-transformasi-digital-nadma-98-peratus-bantuan-wang-ihsan-bwi-berjaya-diproses-dalam-tempoh-kurang-14-hari"
+    publisher: "Agensi Pengurusan Bencana Negara (NADMA)"
+  - title: "MetMalaysia: Monsoon season to hit Malaysia from Nov 13, heavy rain and floods expected"
+    url: "https://www.malaymail.com/news/malaysia/2025/11/10/metmalaysia-monsoon-season-to-hit-malaysia-from-nov-13-heavy-rain-and-floods-expected/197871"
+    publisher: "Malay Mail"
+  - title: "Sabah offshore quake strongest in 11 years, bigger than 2015 Ranau, says MetMalaysia"
+    url: "https://www.malaymail.com/news/malaysia/2026/02/23/sabah-offshore-quake-strongest-in-11-years-bigger-than-2015-ranau-says-metmalaysia/210098"
+    publisher: "Malay Mail"
+  - title: "Sabah earthquake a 2015 shock for the nation"
+    url: "https://www.malaymail.com/news/malaysia/2015/12/24/sabah-earthquake-a-2015-shock-for-the-nation/1029201"
+    publisher: "Malay Mail"
+  - title: "Tahukah Anda Nombor Kecemasan Yang Boleh Dihubungi Ketika Bencana?"
+    url: "https://www.nadma.gov.my/bm/media-2/infografik-dan-poster/6799-tahukah-anda-nombor-kecemasan-yang-boleh-dihubungi-ketika-bencana"
+    publisher: "Agensi Pengurusan Bencana Negara (NADMA)"
+  - title: "Portal Bencana NADMA"
+    url: "https://portalbencana.nadma.gov.my/ms/"
+    publisher: "Agensi Pengurusan Bencana Negara (NADMA)"
+
+relations:
+  - { rel: "related-to", to: "flood-warning-system-malaysia" }
+  - { rel: "administered-by", to: "nadma-malaysia" }
+related: ["flood-warning-system-malaysia", "nadma-malaysia"]
+keywords: ["persediaan banjir", "beg kecemasan", "banjir monsun", "PPS", "Bantuan Wang Ihsan", "NADMA", "amaran cuaca MetMalaysia", "tanah runtuh", "gempa bumi Sabah", "bencana"]
+---
+
+凌晨两点河水漫上路面时，不是开始翻找出生证明、灌满水瓶的时候——而是撤离的时候。在马来西亚，最可能迫使你一家离开家园的灾害，不是大地震或台风，而是几乎年年到来的季候风水灾。本指南梳理了水灾前、中、后你该做的事，以及山泥倾泻、烟霾和沙巴地震等其他风险，让重要决定在水到门前之前早已做好。
+
+## 马来西亚水灾风险最高的季节是什么时候？
+
+马来西亚最常见、最广泛的灾害是水灾，而其成因是可以预测的：**东北季候风（MTL）**。这个季节通常从11月中旬开始，持续至3月，带来持续性暴雨，常令半岛东海岸——吉兰丹、登嘉楼、彭亨和柔佛东部——以及砂拉越和沙巴的河流泛滥。
+
+就**2025/2026**季节而言，马来西亚气象局预测季候风将于**2025年11月13日**开始，期间会有**5至7次持续性暴雨事件**。每次事件可持续数天，而正是这种持续性降雨——而非短暂的暴雨——通常在低洼地区和河岸引发大水灾。
+
+作为应对2024/2025年季候风的准备，灌溉排水局（JPS）已在全国识别出**4,619个水灾热点**。其他报道的备灾措施包括在全国部署的**543个水灾警报器**和**737台移动水泵**，并由国家水灾预报与预警中心（PRABN）在马来西亚气象局和州政府支援下持续监测。（这些数字引自2024年10月的声明，每个季节都应重新查证。）
+
+对你而言最重要的是：如果你住在河流附近、低洼地区，或其中一个水灾热点，就把每个季候风季节都当成可能需要撤离——而不是遥远的可能性。
+
+## 警戒、恶劣和危险降雨预警是什么意思？
+
+水灾很少毫无预警地到来。马来西亚气象局根据24小时内预计的降雨量发出持续性降雨预警，了解这些级别能让你在情况危险之前采取行动。
+
+| 预警级别 | 降雨阈值（24小时） | 含义与行动 |
+| --- | --- | --- |
+| **警戒** | 低于150毫米 | 预计有持续性降雨；低洼地区有水灾风险。留意天气新闻并准备好应急包。 |
+| **恶劣** | 超过150毫米 | 低洼地区和河边有潜在水灾风险；农作物可能受损。将物品移到高处，为车辆加满油。 |
+| **危险** | 超过250毫米 | 有大水灾风险，山坡有山泥倾泻风险；脆弱的结构、道路和桥梁可能受损。接获指示时准备立即撤离。 |
+
+24小时时段从降雨开始时起算。预警可能迅速变化，因此切勿只依赖单一通知。通过马来西亚气象局的**myCuaca**网站和应用程序查看最新状态，或拨打热线1-300-22-1638。如需实时河流水位，请参阅由灌溉排水局管理的InfoBanjir门户网站（publicinfobanjir.water.gov.my）。
+
+## 应急包里应该有什么？
+
+应急包——有时称为"72小时包"——是为满足你一家在援助抵达前至少三天的需求而设计的。要提早准备，而不是在水涨的当晚。存放在门口附近易于取用的地方，装在防水袋里。
+
+每个家庭的基本清单：
+
+- **水和食物**，够至少3天——瓶装水、罐头食品、干饼干和无需烹煮的能量棒。
+- **照明和电力**——太阳能灯或手电筒、备用电池，以及手机充电宝。
+- **急救包**——绷带、消毒剂、创可贴、小剪刀、手套和个人药物（如有家人需要，包括退烧、止痛、哮喘、降血压或糖尿病药物）。
+- **口哨**——被困时用于引起注意。
+- **重要文件**——身份证、护照、出生证明、地契和保险单副本，装在防水容器里。也在手机或云端保存数字副本。
+- **现金**——停电时自动柜员机和电子支付可能无法使用。
+- **特殊需求**——婴儿的尿布、湿纸巾和配方奶粉（备足3天）；长者或残障人士的用品；宠物食品。
+- **衣物和保暖**——干的替换衣物、毛巾和轻便毯子。
+
+每年在季候风来临前更新这个包——检查药物和食物的有效期，并更换电池。
+
+## 水灾**前**该做什么？
+
+真正的准备发生在天气还好的时候。一些在惊慌中难以做出的决定，如果提早计划就会变得容易。
+
+1. **认清你附近的PPS。** 就2024/2025季节而言，社会福利局（JKM）表示已准备好启动全国**8,481个临时疏散中心**，可容纳约**2,158,743名灾民**。了解哪一个最近，以及一条不经过易被淹没地区的路线。
+2. **规划路线和家庭集合点。** 如果家人走散，约定一个见面地点和可联络的电话号码。
+3. **保存紧急电话**在手机里并写在纸上——999、消防局、县议会和你所在州的灾害行动控制中心。
+4. **将贵重物品移到高处**——文件、电器和有纪念意义的物品移到楼上或高架上。
+5. **备好车辆和物资**——加满油，确保充电宝和照明正常。
+6. **了解撤离信号**——当当局下令疏散时，别等水进屋才行动。
+
+## 水灾**期间**和疏散时该做什么？
+
+当水开始上涨或撤离命令发出时，生命安全高于一切财产。
+
+- **离开前关闭家中的电源和煤气**，以防触电和火灾。
+- **切勿步行或驾车穿过湍急的水流。** 及膝的流动水就能把成年人冲倒，及车身高度的水能把车辆冲走。在浑浊的水下，你看不见坑洞、敞开的沟渠或电缆。
+- **只带应急包和重要文件**；别耽误时间搬运家具。
+- **遵从当局指示**并前往指定的PPS。登记入住时，确保户主和所有家庭成员的姓名都被记录——这项登记对日后的援助很重要。
+- **避开山坡地区**，因为暴雨时山泥倾泻风险增加。
+- **切勿返回家中**取物，直到该地区被宣布安全。
+
+对于未被疏散但被困的人，请爬到最高的安全处，避开不稳固的屋顶，并用口哨或灯光引起救援队的注意。拨打999请求即时援助。
+
+## 水灾**后**该做什么？
+
+危险并未在水退时结束。灾后阶段带来其独有的健康和安全风险。
+
+- **等待安全确认**再返回。建筑结构、道路和桥梁可能已脆弱。
+- **小心用电**——在线路检查之前别接通电源；被淹过的电器可能有危险。
+- **注意卫生和健康**——洪水常受污染。清洁并消毒表面，丢弃泡过水的食物，如对水源有疑虑就把饮用水煮沸。警惕钩端螺旋体病（鼠尿病）和腹泻等水传疾病。
+- **拍下损坏照片**以便在清理前用于保险和援助申请。
+- **登记申请援助**——确保你的家庭在PPS或当地当局处有登记记录，以便申请恩恤金援助和其他援助。
+
+## 如何申请恩恤金援助和其他援助？
+
+水灾过后，政府会向灾民发放**恩恤金援助（BWI）**。这项援助发放给受水灾、山泥倾泻、火灾和风暴等灾害影响的**户主**。
+
+| 特点 | 详情 |
+| --- | --- |
+| 每宗申请金额 | RM1,000 |
+| 频率 | 每三个月一次 |
+| 一年上限 | 四次（RM4,000） |
+| 受益人 | 受影响的户主 |
+| 申请方式 | MyIBJKM应用程序（在PPS扫描二维码）；无法前往PPS者可到灾民登记中心 |
+| 付款方式 | 电子转账（EFT）汇入银行账户，或在国民储蓄银行（BSN）柜台以现金提取 |
+
+需要理解的几个要点：
+
+- 如果你在三个月内两次受灾，该时段内只允许**一宗**申请。三个月期满后才有资格提出新的申请。
+- 登记通常通过**MyIBJKM**应用程序、在灾民身处PPS时扫描二维码进行，因此撤离时确保你的姓名被记录是重要的第一步。
+- 据NADMA表示，就2025/2026年东北季候风而言，**截至2026年1月21日已向78,342名户主发放共RM78.342百万**，早期事件中超过98%的申请在平均少于14个工作日内处理完毕。（这些数字为报道当时的状况，将在整个季节内增加。）
+
+除BWI外，灾民可能有资格获得来自社会福利局、州政府、县议会和非政府组织的其他援助——包括粮食供应、基本必需品和清理协助。保留收据、损坏照片和PPS登记记录，以支持任何申请。
+
+## 山泥倾泻、烟霾和地震怎么办？
+
+水灾主导着马来西亚的灾害风险，但还有另外三种危害应纳入你的家庭计划。
+
+**山泥倾泻。** 引发水灾的持续性暴雨也会增加山坡和高地地区的山泥倾泻风险。马来西亚气象局的危险预警特别提到山泥倾泻风险。如果你在暴雨时居住或驾车经过丘陵地区，请警惕地面裂缝、斜坡流出浑水或异常声响等迹象，并避免停在陡坡之下。
+
+**烟霾。** 与水灾不同，烟霾通常发生在干季（有时为6月至10月），由露天焚烧和区域性森林大火造成。留意可通过NADMA灾害门户网站查阅的空气污染指数（IPU）读数。当IPU偏高时，减少户外活动、关闭窗户、如有条件使用空气净化器，并佩戴合适的口罩——尤其是儿童、长者和呼吸道疾病患者。
+
+**地震。** 马来西亚半岛发生大地震的风险较低，但**沙巴**位于地震活跃带附近。2015年6月5日的兰瑙地震震级为**6.0**，夺走**18条人命**——全部是京那巴鲁山上的登山者和导游——并引发山泥倾泻和落石。**2026年2月23日**，一场震级**6.8**的离岸地震发生在古达以西约49公里、深度**678公里**处；由于震源太深，只感受到轻微震动，且**无海啸威胁**。如果你身处沙巴而发生地震，请遵循"停止、掩护、稳住"（Drop, Cover, Hold On）——趴下，把头掩护在坚固的桌子下，并稳住直到震动停止。
+
+## 紧急电话和官方资源
+
+在季候风季节前把这些号码存进手机并写下书面副本。紧急热线应负责任地使用，且仅在真正需要时拨打。
+
+| 需求 | 联络 |
+| --- | --- |
+| 即时紧急（消防、救援、救护车、警察） | **999** |
+| 天气资讯和预警 | 马来西亚气象局——网站、myCuaca应用程序、1-300-22-1638 |
+| 河流水位和水灾资讯 | 灌溉排水局InfoBanjir门户（publicinfobanjir.water.gov.my） |
+| 灾害协调 / NADMA行动室 | 03-8064 2400 · opsroom@nadma.gov.my |
+| 灾害和PPS资讯 | NADMA灾害门户（portalbencana.nadma.gov.my） |
+
+州级灾害行动控制中心（PKOB）在灾害期间也会运作，以协调受灾地区的资讯、灾民疏散和援助。
+
+## 应避免哪些常见错误？
+
+- **等太久才撤离。** 许多灾民因为等水进屋才行动而被困。当撤离命令发出时，立即遵从。
+- **驾车穿过洪水。** 看似很浅的水可能又深又急；这是最可避免的水灾致死原因。
+- **临到最后一刻才准备应急包。** 商店会缺货，电力会中断。要提早准备。
+- **不在PPS登记。** 没有登记记录，恩恤金援助和其他援助的申请会更加困难。
+- **把重要文件只放在一个地方。** 保存防水副本和数字副本。
+- **水灾后太早接通电源**，在线路检查之前。
+- **低估洪水的健康风险**——钩端螺旋体病和水传疾病是真实存在的。
+
+## 决策框架：我现在该撤离吗？
+
+在持续性暴雨期间使用这套简明指引：
+
+1. **当局是否已下令疏散？** 如果是——现在就撤离。别等。
+2. **你所在地区是否发出了危险预警？** 如果是——做好充分准备，装载车辆，并在水开始上涨时准备移动。
+3. **水是否已进入院子，或路面水位快速上涨？** 如果是——即使还没有正式命令也要撤离；情况可能在援助抵达前恶化。
+4. **你是否住在水灾热点或河流附近？** 如果是——降低你的决策阈值；比地势较高的邻居更早行动。
+5. **是否有高风险的家庭成员**（婴儿、长者、病人、残障人士）？如果是——更早撤离，因为他们需要更长的时间移动。
+
+如有疑虑，就及早撤离。房屋和财产可以修复或替换；生命不能。
+
+## 下一步
+
+把防灾准备作为家庭年度例行事务的一部分，而不是惊慌时的应对。在下一个季候风来临前：
+
+- 准备或更新**72小时应急包**并检查有效期。
+- 认清**最近的PPS**和通往那里的安全路线。
+- 保存**紧急电话**，下载myCuaca应用程序并留意InfoBanjir门户。
+- 与所有家庭成员讨论**撤离计划和集合点**。
+- 检查房屋和屋内财物的**保险**是否涵盖水灾。
+- 如在沙巴，把**"停止、掩护、稳住"地震演练**加入家庭计划。
+
+每当预计有暴雨事件时，就在马来西亚气象局官方网站查看最新天气预警，且切勿只依赖单一通知来源。
