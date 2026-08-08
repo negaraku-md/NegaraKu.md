@@ -70,7 +70,6 @@ sources:
     url: "https://overseas.mofa.go.kr/my-en/brd/m_1912/view.do?seq=761496"
     publisher: "Embassy of the Republic of Korea in Malaysia"
 
-entity: null
 relations:
   - { rel: "related-to", to: "marriage-registration-for-foreigners-malaysia" }
   - { rel: "related-to", to: "recognition-of-foreign-qualifications-malaysia" }

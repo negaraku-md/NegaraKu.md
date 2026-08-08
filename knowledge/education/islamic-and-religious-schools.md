@@ -68,7 +68,6 @@ sources:
     url: "https://www.cbsnews.com/news/malaysia-dormitory-fire-islamic-school-kuala-lumpur-kills-teen-students/"
     publisher: "CBS News"
 
-entity: null
 relations:
   - { rel: "administered-by", to: "ministry-of-education-malaysia" }
   - { rel: "related-to", to: "national-education-system" }

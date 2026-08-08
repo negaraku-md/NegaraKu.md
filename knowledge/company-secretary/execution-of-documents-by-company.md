@@ -73,7 +73,6 @@ sources:
     url: "https://themalaysianlawyer.com/2017/03/07/uncertainty-in-signing-documents-under-the-companies-act-2016/"
     publisher: "The Malaysian Lawyer (LEE & POH Partnership)"
 
-entity: null
 relations:
   - { rel: "governs", to: "companies-act-2016" }
   - { rel: "related-to", to: "role-of-company-secretary" }

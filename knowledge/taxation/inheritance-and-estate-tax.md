@@ -81,7 +81,6 @@ sources:
     url: "https://tlglegal.com.my/inheriting-property-in-malaysia-a-clear-guide-for-foreigners-and-their-families/"
     publisher: "Toh Liew & Gentry"
 
-entity: null
 relations:
   - { rel: "related-to", to: "real-property-gains-tax" }
   - { rel: "related-to", to: "stamp-duty" }

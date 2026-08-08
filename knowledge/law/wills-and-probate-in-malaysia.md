@@ -84,7 +84,6 @@ sources:
     url: "https://www.wenjieco.com/articles/grant-of-probate-malaysia"
     publisher: "Wen Jie & Co"
 
-entity: null
 relations:
   - { rel: "related-to", to: "estate-planning-in-malaysia" }
 related: ["estate-planning-in-malaysia"]
