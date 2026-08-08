@@ -1,0 +1,224 @@
+---
+topicId: MY-SPT-0004
+title: "马来西亚足球：马来西亚足总（FAM）、马来亚之虎与百年马来西亚杯"
+seoTitle: "马来西亚足球：FAM、马来亚之虎与马来西亚杯"
+slug: "football-in-malaysia"
+category: "sports"
+subcategory: ["football"]
+summary: "马来西亚足球的历史与架构——从始于1921年、后来与英国皇家海军战舰HMS Malaya结缘的马来西亚杯，到主管机构马来西亚足总（FAM），再到国家队马来亚之虎，以及这项运动的今日格局。"
+
+tier: "1"
+mode: "narrative"
+contentType: "guide"
+sensitivity: "none"
+
+answer: "足球是马来西亚最受欢迎的运动，其三大机构彼此相连。马来西亚杯——始于1921年，当时名为马来亚杯，1933年为纪念战舰HMS Malaya而更名为HMS Malaya杯，并在1967年成为马来西亚杯——是亚洲历史最悠久的赛事之一。马来西亚足球总会（Football Association of Malaysia，FAM）是主管这项运动的机构，为亚洲足球联合会（AFC）会员，也是东盟足球联合会（AFF）的创始成员之一。国家队马来亚之虎在1970年代达到巅峰，并于2010年首次夺得AFF铃木杯冠军。"
+keyTakeaways:
+  - "马来西亚杯始于1921年，最初名为马来亚杯；1933年为纪念英国战舰HMS Malaya（该舰经由公众募捐筹资建造）而更名为HMS Malaya杯，并在1967年再度更名为马来西亚杯"
+  - "在1921年的首届决赛中，新加坡以2比1击败雪兰莪"
+  - "雪兰莪是最成功的球队，共33次夺冠，其后依次为新加坡（24次）、霹雳（8次）和吉打（5次）"
+  - "赛事在第二次世界大战期间，从1942年至1947年停办"
+  - "FAM是马来西亚足球的主管机构，总部设于八打灵再也格拉那再也（Kelana Jaya）的Wisma FAM，为AFC会员，并是AFF创始成员之一（AFF于1984年1月31日在雅加达成立）"
+  - "马来亚之虎晋级1972年慕尼黑奥运会，并在1974年德黑兰亚运会上夺得铜牌"
+  - "马来西亚在教练K. Rajagopal率领下夺得2010年AFF铃木杯冠军，两回合总比分4比2击败印尼"
+  - "截至2026年6月FIFA最新排名，马来西亚位居世界第136位"
+appliesTo: "凡是想了解马来西亚足球历史、主管机构与架构的人——球迷、学生、体育研究者以及文化研究人员。"
+
+faq:
+  - q: "马来西亚杯始于何时？名字从何而来？"
+    a: "它始于1921年，最初名为马来亚杯，新加坡在首届决赛中以2比1击败雪兰莪。与战舰的渊源来得稍晚：1933年，赛事为纪念英国战舰HMS Malaya而更名为HMS Malaya杯，这艘军舰是经由公众募捐筹资建造的。该奖杯在1967年由马来西亚杯取代，这一名称沿用至今。"
+  - q: "哪支球队夺得马来西亚杯次数最多？"
+    a: "雪兰莪是最成功的球队，共33次夺冠，远超新加坡（24次）、霹雳（8次）和吉打（5次）。新加坡在1994年最后一次参加马来西亚杯赛事，随后退出了马来西亚联赛。"
+  - q: "什么是FAM？谁在管理马来西亚的足球？"
+    a: "马来西亚足球总会（Football Association of Malaysia，FAM）是在全国层面主管这项运动的机构。其总部设于八打灵再也格拉那再也（Kelana Jaya）的Wisma FAM，为亚洲足球联合会（AFC）会员，也是东盟足球联合会（AFF）的创始成员之一。"
+  - q: "马来亚之虎的黄金时代是何时？"
+    a: "大体上是1970年代。马来西亚在1971年于首尔举行的资格赛中击败韩国、日本、菲律宾和台湾后，晋级1972年慕尼黑奥运会；并在1974年德黑兰亚运会上以2比1击败朝鲜后夺得铜牌。莫达（Mokhtar Dahari）、苏进安（Soh Chin Aun）和R. Arumugam等名字成为国家的偶像。"
+  - q: "马来西亚曾夺得区域冠军吗？"
+    a: "是的。马来西亚在2010年首次夺得AFF铃木杯冠军，当时由教练K. Rajagopal率领，在两回合决赛中以总比分4比2击败印尼。Safee Sali是那次征程的关键球员之一。"
+  - q: "马来西亚目前在FIFA排名中位居何处？"
+    a: "截至2026年6月FIFA最新排名，马来西亚以1,086.22分位居世界第136位。在东南亚，泰国仍居榜首（第94位），其后依次为越南（第99位）、印尼（第118位）和菲律宾（第135位）。"
+  - q: "FAM究竟是何时成立的？"
+    a: "确切日期存在争议。有些记载将全国主管机构的成立定于1926年，另一些记载则指向1933年，即以新加坡为基地的马来亚足球总会（Football Association of Malaya）接管马来亚杯运营之时。可以明确并加以证实的，是它如今作为全国主管机构的角色、AFC会员身份，以及1984年作为AFF创始成员的地位。"
+
+lang: "zh"
+sourceContentHash: "ee9fdc30adb8894c"
+masterLanguage: "ms"
+translationStatus: "in-sync"
+
+status: "published"
+aiAssisted: true
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
+version: "0.2"
+verificationNeeded:
+  - "Exact founding date/year of FAM — sources disagree between 1926 and 1933; kept hedged in the body pending a primary source."
+  - "Exact years of Kuala Lumpur's three-in-a-row Malaysia Cup titles (given as 1987–1989) — the cited sources confirm KL is the last team to win three consecutive titles but do not clearly pin the exact years."
+  - "The precise nature of the HMS Malaya funding (public/Federated Malay States contributions to the Royal Navy warship) — confirm against a primary naval or historical source."
+revisions:
+  - version: "0.1"
+    date: 2026-08-01
+    change: "Initial AI draft."
+    reviewer: null
+  - version: "0.2"
+    date: 2026-08-01
+    change: "Correction pass: removed unsourced 1921 HMS Malaya crew-donation origin myth (ship link is the 1933 renaming) and the unsourced exact date/venue in the opening; re-verified and retained 1957 Perak Merdeka debut, 1964 3-2 televised final, KL treble, 1972 coaches and Tehran 20-goal figure against primary sources."
+    reviewer: null
+
+updated: 2026-08-01
+sources:
+  - title: "Malaysia Cup now 100 years old, country's most prestigious trophy"
+    url: "https://www.bernama.com/en/news.php?id=2007025"
+    publisher: "Bernama"
+  - title: "An empty feeling as Malaysia Cup marks a century of action"
+    url: "https://www.freemalaysiatoday.com/category/highlight/2021/09/25/an-empty-feeling-as-malaysia-cup-marks-a-century-of-action"
+    publisher: "Free Malaysia Today"
+  - title: "Harimau Malaya climb 2 spots in Fifa rankings to 136th"
+    url: "https://www.freemalaysiatoday.com/category/nation/2026/06/12/harimau-malaya-climb-2-spots-in-fifa-rankings-to-136th"
+    publisher: "Free Malaysia Today"
+  - title: "So long, Syed Ahmad – the legend who steered football team to 1972 Munich Olympics"
+    url: "https://www.thestar.com.my/sport/football/2022/06/02/so-long-syed-ahmad---the-legend-who-steered-football-team-to-1972-munich-olympics"
+    publisher: "The Star"
+  - title: "Where are they now: Malaysia's history makers of the 2010 AFF Suzuki Cup"
+    url: "https://www.espn.com/soccer/story/_/id/37622930/where-now-malaysia-history-makers-2010-aff-suzuki-cup"
+    publisher: "ESPN"
+  - title: "Football Association of Malaysia — Organisation"
+    url: "https://inside.fifa.com/en/associations/MAS/organisation"
+    publisher: "FIFA"
+  - title: "About AFF — ASEAN Football Federation"
+    url: "https://www.aseanfootball.org/v3/about/"
+    publisher: "ASEAN Football Federation"
+
+entity: "Football Association of Malaysia"
+relations:
+  - { rel: "administered-by", to: "football-association-of-malaysia" }
+  - { rel: "related-to", to: "harimau-malaya" }
+  - { rel: "related-to", to: "malaysia-cup" }
+related: ["harimau-malaya", "malaysia-cup"]
+keywords: ["bola sepak malaysia", "piala malaysia", "harimau malaya", "FAM", "liga super", "AFF", "football malaysia"]
+---
+
+1921年，新加坡在马来亚一项全新足球赛事的决赛中以2比1击败雪兰莪。一个多世纪之后，这项赛事——如今称为马来西亚杯——依然是这个国家最受喜爱运动中最负盛名的桂冠。
+
+在马来西亚，足球不仅仅是一项运动。它是一份跨越百年的遗产，串联起英殖时代、独立、1970年代的黄金岁月以及今日的抱负。要理解它，需要把三大机构放在一起看：赛事（马来西亚杯）、主管机构（FAM）和国家队（马来亚之虎）。
+
+## 马来亚杯是如何开始的？为什么它与战舰HMS Malaya结缘？
+
+这项赛事始于1920年代初，最初名为马来亚杯，由马来亚各州属与殖民地之间对垒。首届决赛于1921年举行，新加坡以2比1击败雪兰莪夺冠。
+
+与战舰的渊源来得稍晚，而非始于一开始。1933年，赛事为纪念战舰HMS Malaya而更名为HMS Malaya杯——这是一艘英国皇家海军战舰，经由公众募捐筹资建造。该名称一直沿用，直至1967年奖杯由马来西亚杯取代，这一名称至今仍在使用。
+
+在这一个世纪里，赛事的名称与形式多次变更。简要时间线如下：
+
+| 年份 | 事件 |
+|-------|-----------|
+| 1921 | 马来亚杯创立；新加坡在首届决赛中以2比1击败雪兰莪 |
+| 1933 | 为纪念战舰HMS Malaya而更名为HMS Malaya杯 |
+| 1942–1947 | 第二次世界大战期间停办 |
+| 1957 | 霹雳成为首支在默迪卡体育馆（Stadium Merdeka）捧杯的球队 |
+| 1964 | 首场电视转播的决赛（新加坡以3比2击败霹雳） |
+| 1967 | 更名为马来西亚杯——这一名称沿用至今 |
+| 1994 | 新加坡最后一次参加马来西亚杯赛事 |
+| 1998 | 首场决赛在武吉加里尔国家体育馆（Stadium Nasional Bukit Jalil）举行 |
+| 2020 | 因COVID-19疫情取消 |
+| 2021 | 迎来100周年纪念 |
+
+马来西亚杯的特别之处不仅在于它的历史。它是亚洲历史最悠久的足球赛事之一——一项在世界上大多数现代联赛出现之前就已开始、并延续穿越殖民时代、日本占领、独立与职业化时代的赛事。
+
+## 谁是马来西亚杯历史上最成功的球队？
+
+如果有一个名字主宰了马来西亚杯的历史，那就是雪兰莪。这个州属累计夺得33次冠军，这一纪录至今无人撼动，使它成为赛事史上最成功的球队。
+
+| 球队 | 夺冠次数 |
+|---------|------------------|
+| 雪兰莪 | 33 |
+| 新加坡 | 24 |
+| 霹雳 | 8 |
+| 吉打 | 5 |
+
+新加坡在这份榜单上的位置讲述了一段更宏大的历史。凭借24次夺冠，新加坡曾是马来西亚足球中的一支劲旅——这提醒我们，在数十年间，新加坡球队曾在同一个体系中竞逐。新加坡在1994年最后一次参加马来西亚杯赛事，此后终于与马来西亚联赛分道扬镳。
+
+州属称霸的另一个高峰出现在1980年代末，当时吉隆坡成为最后一支连续三届夺得马来西亚杯冠军的球队（一般记载为1987–1989年）。
+
+## 什么是FAM？它如何管理这项运动？
+
+每一场比赛的背后都有一个主管机构。马来西亚足球总会——Football Association of Malaysia，即FAM——是在全国层面主管这项运动的机构，从国家队到联赛与杯赛架构，皆归其管辖。
+
+其总部位于八打灵再也格拉那再也（Kelana Jaya）Jalan SS5A/9的Wisma FAM。在国际足球架构中，FAM隶属于亚洲足球联合会（Asian Football Confederation，AFC），并是东盟足球联合会（ASEAN Football Federation，AFF）的创始成员之一。
+
+AFF本身于1984年1月31日在雅加达正式成立，六个创始会员为：文莱、印尼、马来西亚、菲律宾、新加坡和泰国。这一会员身份使FAM跻身塑造区域足球治理的核心群体——该组织后来催生了AFF锦标赛，即东南亚最重要的国家队赛事。
+
+一个经常引发争议的问题，是FAM的确切成立日期。有些记载将其成立定于1926年，另一些记载则指向1933年——即以新加坡为基地的马来亚足球总会（Football Association of Malaya）接管马来亚杯运营、而其行政中心在此后的时代迁往马来亚之时。由于各方资料并不一致，这一确切日期最好视为尚未定论；可以证实的，是FAM如今作为全国主管机构的角色，以及它在AFC和AFF中的地位。
+
+## 马来亚之虎的黄金时代是何时？
+
+每一个足球国度都有其黄金岁月。对马来西亚而言，那就是1970年代——在那个十年里，马来亚之虎不仅在亚洲竞逐，更登上了奥运舞台。
+
+其象征性的顶点，是晋级1972年慕尼黑奥运会。在教练Dave McLaren和Jalil Che Din的率领下，马来西亚在1971年于首尔举行的资格赛轮次中击败了韩国、日本、菲律宾和台湾。前锋Syed Ahmad Syed Abu Bakar在整个资格赛中攻入五球，其中包括在3比0战胜日本的比赛中上演帽子戏法——日本正是1968年奥运会的铜牌得主。
+
+胜绩延续至亚运会。在1974年德黑兰亚运会上，由Syed Ahmad、莫达（Mokhtar Dahari）和Isa Bakar组成的进攻线令人闻风丧胆；马来西亚在夺得铜牌的征程中攻入20球，并以2比1击败朝鲜。
+
+这个时代也因默迪卡锦标赛（Kejohanan Merdeka）而增色——这是一项在吉隆坡举办的邀请赛，成为衡量当时球队实力的标尺。举例来说，Syed Ahmad就是1966、1968和1974年夺得默迪卡锦标赛冠军的球队一员。
+
+这个时代的名字至今仍铭刻在国家的记忆中。绰号"超级莫达（SuperMokh）"的射手兼前锋莫达（Mokhtar Dahari）；令人敬畏的后防中坚苏进安（Soh Chin Aun）；以及富有魅力的门将R. Arumugam——他们皆成为偶像，其名字至今仍为后代所传颂。
+
+## 国家队迄今为止最大的胜利是什么？
+
+在1970年代之后，重大成就变得更为罕见——直到2010年末的一个夜晚改变了氛围。
+
+2010年，马来西亚首次夺得AFF铃木杯冠军。在教练K. Rajagopal率领下，马来亚之虎在两回合决赛中以总比分4比2击败印尼。前锋Safee Sali成为那次征程的英雄之一，在决赛中攻入关键进球。
+
+这场胜利意义非凡，原因有几点。这是该队数十年来首个重要的区域冠军头衔——此前马来西亚仅在1996年赛事首届中获得亚军——而这是由一批本土球员实现的，重新点燃了民众对国家队的兴趣。在多年的失望之后，2010年的冠军成为国家足球希望的现代坐标。
+
+## 马来西亚在世界与区域足球中位居何处？
+
+抱负是一回事；实际排名是另一回事。截至2026年6月FIFA世界排名最新更新，马来西亚以1,086.22分位居世界第136位。
+
+放在东南亚的背景下，这一排名使马来西亚处于该区域的中游：
+
+| 国家 | FIFA排名（2026年6月） |
+|--------|----------------------------|
+| 泰国 | 94 |
+| 越南 | 99 |
+| 印尼 | 118 |
+| 菲律宾 | 135 |
+| 马来西亚 | 136 |
+| 新加坡 | 148 |
+
+这样的排名会随比赛结果起伏——有时甚至取决于其他球队的结果，而不仅仅是马来西亚自身的表现。但它给出了一幅诚实的图景：马来西亚是一个拥有辉煌历史的足球国度，但区域竞争日益激烈，其中泰国和越南在过去二十年间建立了明显的优势。
+
+## 马来西亚足球今日是如何架构的？
+
+对新球迷来说，各种赛事很容易让人混淆。实际上，现代马来西亚足球可以理解为三个不同但相互支撑的赛场。
+
+| 赛场 | 是什么 | 由谁管理 |
+|------------|---------|----------------|
+| 国家队（马来亚之虎） | 在国际层面代表马来西亚——世界杯资格赛、亚洲杯、AFF锦标赛 | FAM |
+| 国内联赛（超级联赛） | 职业俱乐部之间贯穿整个赛季的最高级别联赛 | FAM旗下的联赛机构 |
+| 全国杯赛（马来西亚杯、足总杯） | 每个赛季决出杯赛冠军的淘汰制赛事 | FAM与联赛机构 |
+
+区分它们最简单的方法：超级联赛是贯穿整个赛季、争夺联赛桂冠的漫长较量；马来西亚杯和足总杯是更短促、更富戏剧性的淘汰制赛事；而马来亚之虎是汇聚最优秀球员代表国家出战的国家队。同一家俱乐部可以在一个赛季内同时征战这三个赛场。
+
+这一架构反映了大多数足球国度的模式——联赛求稳定，杯赛出惊喜，国家队则是统合一切的巅峰。
+
+## 最常见的误解是什么？
+
+人们谈论马来西亚足球历史时，常常反复出现一些错误：
+
+- **以为马来西亚杯一直叫这个名字。** 实际上它在1921年创立时名为马来亚杯，直到1967年马来西亚成立之后才更名为马来西亚杯。
+- **忘记新加坡的角色。** 凭借24次夺冠，新加坡是这项赛事历史上最成功的球队之一——那是新加坡在同一个足球体系中竞逐、直至1994年的一段时代。
+- **把马来西亚杯与超级联赛混为一谈。** 马来西亚杯是淘汰制赛事；超级联赛是整个赛季的联赛。两者截然不同。
+- **以为FAM的成立日期已成定论。** 各方资料在1926年与1933年之间并不一致；把重点放在FAM可证实的角色上，比纠缠于某个特定年份更为稳妥。
+- **把1970年代视为唯一的成就。** 尽管那个时代确实是黄金岁月，但2010年的AFF铃木杯冠军是一项重要的现代成就，不应被遗忘。
+
+## 接下来是什么
+
+今日的马来西亚足球，活在自豪历史与日益激烈的区域竞争之间的张力之中。马来西亚杯的百年遗产与1970年代的记忆，为身份认同奠定了坚实的根基；世界第136位的排名则提醒人们，前行之路需要持续的努力。
+
+如果你想进一步深入了解，有用的方向包括：
+
+- **关注当前赛程**——通过FAM官方网站（fam.org.my）追踪超级联赛、马来西亚杯与马来亚之虎的比赛，获取最新资讯。
+- **理解各类赛事之间的区别**——联赛、淘汰制杯赛与国家队——这样更容易解读比赛结果与排名。
+- **细读州属俱乐部的历史**，例如雪兰莪、霹雳和吉打，它们的马来西亚杯战绩映照出百年间马来西亚足球的势力格局。
+
+本文中的所有数字均取自所列出的来源，并可能随时间变化，尤其是FIFA排名与夺冠次数。若需最新的比赛结果与统计数据，请参阅FAM、AFC和FIFA的官方来源。

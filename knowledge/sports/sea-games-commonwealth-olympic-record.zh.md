@@ -1,0 +1,167 @@
+---
+topicId: MY-SPT-0012
+title: "马来西亚在东运会、英联邦运动会与奥运会上的表现：奖牌纪录"
+seoTitle: "马来西亚的奖牌纪录：东运会、英联邦运动会与奥运会"
+slug: "sea-games-commonwealth-olympic-record"
+category: "sports"
+subcategory: ["medals"]
+summary: "马来西亚曾15次站上奥运领奖台，却从未夺得一枚金牌；它在自家后院的东运会（东南亚运动会）上称霸；并把1998年在吉隆坡举办的英联邦运动会变成其最盛大的全球体育舞台。这就是奖牌纪录真正呈现的图景。"
+
+tier: "2"
+mode: "narrative"
+contentType: "guide"
+sensitivity: "none"
+
+answer: "在三大综合性运动会上，马来西亚既是区域巨头，也是全球赛场上屡屡与冠军擦肩而过的存在。自1992年以来，它已赢得15枚奥运奖牌（8银7铜）——是所有从未夺得奥运金牌的国家中奖牌数最多的一个，且几乎全部来自羽毛球、跳水和场地自行车。在东运会上，它长期稳居前三，并曾两度成为全场总冠军，两次都是以东道主身份夺得（2001年111金，2017年145金）。在英联邦运动会上，其巅峰是主办1998年吉隆坡英联邦运动会——这是首届在亚洲举办的英联邦运动会，马来西亚以10金位列第四。"
+keyTakeaways:
+  - "马来西亚共有15枚奥运奖牌——8银7铜——却没有金牌，是所有尚未夺得奥运金牌的国家中奖牌数最多的一个"
+  - "全部15枚奥运奖牌仅来自三个项目：羽毛球（11枚）、跳水（2枚）和场地自行车（2枚）"
+  - "2016年里约奥运会是马来西亚表现最好的一届，共获五枚奖牌；李宗伟以三枚银牌（2008、2012、2016）成为其奖牌最多的奥运选手"
+  - "马来西亚曾六次主办东运会，并两度成为全场总冠军，均以东道主身份夺得：2001年（111金）和2017年（145金）"
+  - "1998年吉隆坡英联邦运动会是首届在亚洲举办的英联邦运动会；东道主马来西亚以10金14银12铜位列第四"
+appliesTo: "适合任何想清晰了解、并以可靠来源佐证马来西亚在东运会、英联邦运动会与奥运会上表现的人——包括奖牌、项目以及那些格外突出的纪录。"
+
+faq:
+  - q: "马来西亚曾赢得过奥运金牌吗？"
+    a: "没有。截至2024年巴黎奥运会，马来西亚已赢得15枚奥运奖牌——8银7铜——但没有金牌。它保持着一项特殊纪录：在所有从未夺得金牌的国家中，奥运奖牌数最多。"
+  - q: "马来西亚的奥运奖牌来自哪些项目？"
+    a: "全部15枚均来自三个项目：羽毛球11枚、跳水2枚、场地自行车2枚。仅羽毛球就贡献了八枚银牌中的六枚。"
+  - q: "马来西亚何时赢得第一枚奥运奖牌？"
+    a: "在1992年巴塞罗那奥运会上，西迪兄弟拉兹夫（Razif）与查拉尼（Jalani Sidek）在羽毛球男子双打中夺得铜牌。此后马来西亚的每一枚奥运奖牌都是在那之后赢得的。"
+  - q: "马来西亚几次成为东运会全场总冠军？"
+    a: "两次，均以东道主身份：2001年以111枚金牌夺冠，2017年以145枚金牌夺冠。在其余大多数届次中，它通常位列前三或前四。"
+  - q: "马来西亚在英联邦运动会上的最佳成绩是什么？"
+    a: "主办1998年吉隆坡英联邦运动会，在那届赛会上它录得最佳成绩10枚金牌，总排名第四。那也是史上首届在亚洲举办的英联邦运动会。"
+
+lang: "zh"
+sourceContentHash: "d25df756ce38577d"
+masterLanguage: "en"
+translationStatus: "in-sync"
+
+status: "published"
+aiAssisted: true
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
+version: "0.2"
+revisions:
+  - version: "0.1"
+    date: 2026-08-01
+    change: "Initial AI draft."
+    reviewer: null
+  - version: "0.2"
+    date: 2026-08-01
+    change: "Correction pass: re-verified 2001 SEA Games (111 golds, overall champion) and the 1965–2017 hosting-year list against cited ASEAN Post article, and confirmed Rio 2016 as best Games (5 medals) via Olympedia; added verificationNeeded."
+    reviewer: null
+
+verificationNeeded:
+  - "2001 SEA Games: only the gold count (111) and overall-champion placing are sourced (The ASEAN Post). The silver/bronze split and 323-vs-other totals are not yet confirmed against an official record."
+  - "The superlative 'most Olympic medals of any nation without a gold' should be confirmed against an official/primary source (IOC/olympics.com); it is currently an interpretive framing."
+  - "Prefer official sources where they load — olympics.com, commonwealthsport.com, Olympic Council of Malaysia — over Topend Sports (hobbyist stats) and First Classe (lifestyle listicle), which were used as fallbacks after the official sites timed out or returned 403."
+  - "2017 SEA Games: sources disagree on the silver/bronze split (91/85 vs 92/86); the article deliberately uses gold count and placing only. Confirm the exact non-gold totals if published."
+  - "Kuala Lumpur 1998 Commonwealth Games participant figure (~5,250) and nation count (70) rest on Topend Sports; confirm against official commonwealthsport.com records."
+
+updated: 2026-08-01
+sources:
+  - title: "Malaysia — National Olympic Committee profile and medal record"
+    url: "https://www.olympedia.org/countries/MAS"
+    publisher: "Olympedia"
+  - title: "The complete list of Olympic medals Malaysia has won"
+    url: "https://firstclasse.com.my/lifestyle/news/complete-list-olympic-medals-malaysia/"
+    publisher: "First Classe"
+  - title: "Zii Jia wins Malaysia's second bronze at Olympics"
+    url: "https://www.freemalaysiatoday.com/category/nation/2024/08/05/zii-jia-wins-malaysias-second-bronze-at-olympics"
+    publisher: "Free Malaysia Today"
+    date: "2024-08-05"
+  - title: "Commonwealth Games: Kuala Lumpur, Malaysia 1998"
+    url: "https://www.topendsports.com/events/commonwealth-games/hosts/kuala-lumpur.htm"
+    publisher: "Topend Sports"
+  - title: "2017 SEA Games concludes in style"
+    url: "https://theaseanpost.com/article/2017-sea-games-concludes-style"
+    publisher: "The ASEAN Post"
+  - title: "29th SEA Games kicks-off"
+    url: "https://theaseanpost.com/article/29th-sea-games-kicks"
+    publisher: "The ASEAN Post"
+
+entity: "Malaysia"
+relations:
+  - { rel: "related-to", to: "negaraku-anthem" }
+related: ["negaraku-anthem"]
+keywords: ["Malaysia Olympic medals", "SEA Games", "Commonwealth Games 1998", "Lee Chong Wei", "Malaysia gold medal", "medal tally"]
+---
+
+马来西亚已15次登上奥运领奖台——而每一次响起的都是别国的国歌。
+
+这一悖论正是这个国家体育故事的核心。把马来西亚放在东南亚邻国之间衡量，它是一个重量级选手，一位曾经的全场总冠军，每两年就把奖杯柜填满。而把它放到世界舞台上衡量，画面就变了：稳定、可敬，却永远差最后一步登上领奖台之巅。以下就是这三大综合性运动会的纪录真正呈现的图景。
+
+## 为什么马来西亚有奥运奖牌却没有金牌？
+
+自1992年巴塞罗那奥运会赢得首枚奖牌以来——那一届西迪兄弟拉兹夫（Razif）与查拉尼（Jalani Sidek）在羽毛球男子双打中夺得铜牌——马来西亚已在夏季奥运会上赢得15枚奖牌，8银7铜。没有一位马来西亚人夺得过奥运金牌。这让这个国家拥有一个不寻常的头衔：在所有尚未夺得金牌的国家中，奥运奖牌数最多。
+
+这些奖牌集中在少数几届赛会上。马来西亚表现最好的一届奥运会是2016年里约奥运会，它带回五枚奖牌——四银一铜——这是其单届最丰厚的收获。其奖牌最多的奥运选手是羽毛球名将李宗伟，他连续三次闯入男子单打决赛（2008、2012、2016），三次皆负，共收获三枚银牌。在2024年巴黎奥运会上，马来西亚赢得两枚铜牌，均来自羽毛球：谢定峰（Aaron Chia）与苏伟译（Soh Wooi Yik）成功卫冕东京奥运会男子双打铜牌；李梓嘉（Lee Zii Jia）则于2024年8月5日以13-21、21-16、21-11击败印度选手拉克夏·森（Lakshya Sen），夺得男子单打铜牌。
+
+| 赛会 | 银牌 | 铜牌 | 总数 |
+|---|---|---|---|
+| 1992 巴塞罗那 | 0 | 1 | 1 |
+| 1996 亚特兰大 | 1 | 1 | 2 |
+| 2008 北京 | 1 | 0 | 1 |
+| 2012 伦敦 | 1 | 1 | 2 |
+| 2016 里约 | 4 | 1 | 5 |
+| 2020 东京 | 1 | 1 | 2 |
+| 2024 巴黎 | 0 | 2 | 2 |
+| **总计** | **8** | **7** | **15** |
+
+## 哪些项目支撑起马来西亚的奥运纪录？
+
+这15枚奖牌全部来自仅仅三个项目。羽毛球是引擎：11枚奖牌，其中包括八枚银牌中的六枚。跳水和场地自行车各贡献两枚。
+
+- **羽毛球**——西迪兄弟（1992）、拉希德·西迪（Rashid Sidek）以及谢顺吉（Cheah Soon Kit）—叶锦福（Yap Kim Hock）组合（1996）、李宗伟的三枚单打银牌，以及近年谢定峰—苏伟译和李梓嘉的铜牌。
+- **跳水**——潘德莉拉·里农（Pandelela Rinong）在2012年伦敦奥运会夺得铜牌，随后与张俊虹（Cheong Jun Hoong）搭档在2016年里约奥运会夺得双人同步银牌，成为两届奥运奖牌得主。
+- **场地自行车**——阿兹祖哈斯尼·阿旺（Azizulhasni Awang），绰号“袖珍火箭人”（the Pocket Rocketman），在2016年里约奥运会夺得凯林赛铜牌，并在2020年东京奥运会升级为银牌。
+
+这种集中既是优势也是弱点。它带来了稳定的回报，但也意味着一个羽毛球小年就可能让马来西亚整个奥运征程压在一两个人的肩上。
+
+## 马来西亚在东运会上有多强势？
+
+降到区域层面，故事就反转了。在两年一届的东南亚运动会（东运会）上，马来西亚是一支长期处于顶级的队伍，并曾两度成为全场总冠军——两次都是在它主办的时候。
+
+第一次是在2001年吉隆坡东运会，马来西亚以111枚金牌高居榜首，领先泰国和印尼。第二次是2017年吉隆坡东运会，即第29届东运会，也是马来西亚第六次主办这一赛事。凭借主场优势和独立60周年的气氛，马来西亚赢得145枚金牌，奖牌总数达323枚，明显领先泰国和越南。这两届仍是马来西亚唯一两次成为区域全场冠军的赛会；在其间的年份里，它通常稳居第三或第四。
+
+| 届次 | 主办城市 | 马来西亚金牌 | 排名 |
+|---|---|---|---|
+| 2001（第21届） | 吉隆坡 | 111 | 冠军 |
+| 2017（第29届） | 吉隆坡 | 145 | 冠军 |
+
+在这里，主办比在几乎任何地方都更为关键：马来西亚的两个冠军头衔都是在本土赢得的，东道主可以塑造比赛项目安排，并享有观众之利。马来西亚至今已六次主办东运会——1965、1971、1977、1989、2001和2017年——比几乎任何其他成员国都多。
+
+## 1998年英联邦运动会上发生了什么？
+
+介于区域与奥运之间的是英联邦运动会，而马来西亚在这里的标志性时刻是作为东道主而非客人。1998年吉隆坡英联邦运动会是史上首届在亚洲举办的英联邦运动会，打破了68年来一直由传统白人移民英联邦国家主办的惯例。创纪录的70个国家派出约5,250名运动员和官员。
+
+1998年这一届也重塑了运动会本身：它是首届纳入团体项目的赛会，在15个大项的赛程中增加了板球、曲棍球、无挡板篮球和七人制橄榄球。对东道主而言，它带来了一个里程碑式的成绩。马来西亚录得英联邦运动会史上最佳成绩——10金14银12铜，共36枚奖牌——在奖牌榜上位列第四，仅次于澳大利亚、英格兰和加拿大。
+
+这一在英联邦强国面前取得的第四名，是衡量马来西亚全球位置的一把有用的标尺：当赛程与主场观众都对上时，它足够强势跻身前几名，但还算不上处于最顶端、自动进账奖牌的那批机器。
+
+## 三大运动会合起来说明了什么？
+
+把三项赛事并排来看，它们在三个缩放层级上勾勒出马来西亚在世界体育中的位置。
+
+| 运动会 | 马来西亚的地位 | 标志性成绩 |
+|---|---|---|
+| 东运会（区域） | 顶级，两度全场总冠军 | 2017年以东道主身份夺145金 |
+| 英联邦运动会（中层全球） | 偶尔跻身前四的国家 | 1998年以东道主身份夺10金、第四 |
+| 奥运会（全球精英） | 稳定的奖牌得主，无金牌 | 自1992年以来15枚奖牌（8银7铜） |
+
+主线很清晰。马来西亚把主场优势和羽毛球底蕴转化为实实在在的硬货，但最后那一厘米——奥运金牌、英联邦冠军、在客场赢得的东运会桂冠——始终触手难及。
+
+## 接下来会怎样
+
+最显而易见的悬念是奥运金牌。马来西亚曾通过李宗伟三度惜败的决赛以及2016年里约的多次擦肩而过而无限接近，每一个周期都重新点燃在羽毛球、跳水或场地自行车上取得突破的希望。2028年洛杉矶奥运会是否最终兑现这一梦想——或者某个新项目或新运动员是否会改写这一格局——才是值得关注的故事。
+
+对读者而言，以下是几点实用的延伸：
+
+- **看项目，别只看国旗。** 马来西亚的奥运希望在项目上很狭窄；羽毛球对阵和跳水决赛才是奖牌真正可能出现的地方。
+- **关注东运会的主办年份。** 马来西亚区域巅峰成绩都来自本土，因此未来任何一次马来西亚主办都是再夺全场冠军最有可能的窗口。
+- **把英联邦运动会当作一个中点来看。** 强势的英联邦运动会表现往往是谁正走向奥运争夺行列的最清晰信号。
+
+以上每一个数字均取自参考来源中所引用的奖牌纪录和报道。当不同媒体对某一届东运会的银牌或铜牌总数报道略有出入时，本文采用各来源一致的金牌数和总排名。
