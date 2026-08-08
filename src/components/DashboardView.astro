@@ -42,7 +42,9 @@ for (const a of await corpusTopics()) {
   if (seenTopics.has(uid)) continue;
   seenTopics.add(uid);
   catSet.add(a.data.category);
-  for (const s of a.data.subcategory) subcatSet.add(s);
+  // Key topics by category/subcat (a topic is scoped to its category), matching
+  // siteStats and the pillar pages so every "topics" figure reconciles.
+  for (const s of a.data.subcategory) subcatSet.add(`${a.data.category}/${s}`);
   const pillar = getPillar(a.data.category) ?? 'understand';
   const topic = a.data.subcategory[0] ?? '—';
   const sens = a.data.sensitivity && a.data.sensitivity !== 'none' ? a.data.sensitivity : 'none';
@@ -109,7 +111,7 @@ const avgSources = sourced ? (sources / sourced).toFixed(1) : '0';
     { value: sections.length, label: L('seksyen', 'sections', '版块') },
     { value: catSet.size, label: L('kategori', 'categories', '分类') },
     { value: subcatSet.size, label: L('topik', 'topics', '主题') },
-    { value: d.totals.files, label: L('fail', 'files', '文件') },
+    { value: totalTopics, label: L('artikel', 'articles', '文章') },
   ]}
 />
 

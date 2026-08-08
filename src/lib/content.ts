@@ -19,7 +19,12 @@ export async function siteStats(locale: Locale): Promise<{
   return {
     sections: PILLARS.length,
     categories: new Set(items.map((a) => a.data.category)).size,
-    topics: new Set(items.flatMap((a) => a.data.subcategory)).size,
+    // A topic is scoped to its category — topic pages live at /<category>/topic/<subcat>,
+    // so `law/tax` and `taxation/tax` are two distinct topics. Counting bare subcategory
+    // strings merged them, making the site-wide total (407) smaller than the sum of the
+    // per-section/per-category topic counts (488). Key by category/subcat so every hero
+    // that shows "topics" reconciles with the sum of its parts.
+    topics: new Set(items.flatMap((a) => a.data.subcategory.map((s) => `${a.data.category}/${s}`))).size,
     articles: items.length,
   };
 }
