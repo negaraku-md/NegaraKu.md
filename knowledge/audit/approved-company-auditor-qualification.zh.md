@@ -1,0 +1,175 @@
+---
+topicId: MY-AUD-0016
+title: "谁可以在马来西亚审计公司：核准公司审计师制度"
+seoTitle: "马来西亚核准公司审计师：审计资格与执照"
+slug: "approved-company-auditor-qualification"
+category: "audit"
+subcategory: ["auditor"]
+summary: "并非所有会计师都能签署一家公司的审计报告。在马来西亚，只有《2016年公司法令》第263条下的'核准公司审计师'才具备资格，而通往这一身份的道路要经过三个阶段：马来西亚会计师协会（MIA）会员资格、执业证书，以及财政部长的核准。"
+
+tier: "2"
+mode: "practical"
+contentType: "guide"
+sensitivity: "none"
+
+answer: "在马来西亚，只有'核准公司审计师'才能审计并签署一家公司的审计报告。要取得资格，一个人必须先成为马来西亚会计师协会（MIA）的特许会计师并持有有效的执业证书，然后依据《2016年公司法令》第263条申请核准。核准权已由财政部长授权予会计总长，申请人须通过面试后，审计执照方会发出，有效期为两年。"
+keyTakeaways:
+  - "只有依据《2016年公司法令》第263条获核准的公司审计师，才能签署法定审计报告。"
+  - "资格途径分为三个阶段：MIA特许会计师、MIA执业证书，以及财政部长的核准（已授权予会计总长）。"
+  - "审核标准包括至少6年累积经验、最近5年内7,500小时审计工时及40项审计任务，以及1,800小时担任审计主管的经验。"
+  - "申请人必须通过由五个监管机构组成的评审小组的面试，核准仅有效两年，之后须更新。"
+  - "第264条列明丧失资格的情形，包括对该公司欠债超过RM25,000，或身为该公司的高职人员。"
+appliesTo: "有志成为审计合伙人的会计师、需要委任审计师的公司东主、会计系学生，以及任何想了解谁有合法资格审计马来西亚公司的人士。"
+
+faq:
+  - q: "每一位特许会计师都可以审计公司吗？"
+    a: "不能。成为MIA的特许会计师只是基本条件。要审计并签署法定审计报告，一个人还必须持有执业证书，并依据《2016年公司法令》第263条获核准为公司审计师。"
+  - q: "谁来批准公司审计师的申请？"
+    a: "在法律上，是财政部长依据第263条批准。但该权力已授权予会计总长，申请须提交予马来西亚会计总长署（JANM）。"
+  - q: "审计执照的有效期有多长？"
+    a: "每次核准自发出日起有效两年，除非提前被撤销，并可更新。更新申请须在期满日前三个月内提交。"
+  - q: "申请费用是多少？"
+    a: "申请或更新费用为RM500，通过电子付款缴付，与公司审计师核准程序相关。"
+  - q: "如果我的核准逾期超过一年会怎样？"
+    a: "如果核准逾期且未在一年内重新启动，申请人须重新提交新申请并再次参加面试。"
+
+lang: "zh"
+sourceContentHash: "e81ff5426724af5a"
+masterLanguage: "ms"
+translationStatus: "in-sync"
+
+status: "in-review"
+aiAssisted: true
+reviewer: null
+version: "0.2"
+revisions:
+  - version: "0.1"
+    date: 2026-08-08
+    change: "Initial AI draft."
+    reviewer: null
+  - version: "0.2"
+    date: 2026-08-08
+    change: "Correction pass: replaced commercial-vendor statute citation with the official SSM Act 777 reprint (ss.263/264 re-verified), removed the unsourced 5-year fraud-conviction window, and confirmed BLESS against the JANM FAQ."
+    reviewer: null
+
+verificationNeeded:
+  - "Angka pengalaman rasmi terkini: JANM FAQ menyatakan 6 tahun kumulatif manakala CCS & Co menyebut 5 tahun. Sahkan dengan 'Guidelines For Approval as a Company Auditor' (berkuat kuasa 1 April 2023) terbitan JANM."
+  - "Baris integriti dalam jadual kelayakan: teks statutori (seksyen 264) tidak menetapkan sebarang tempoh bagi sabitan penipuan/ketidakjujuran (terbuka). Sahkan sama ada garis panduan pentadbiran JANM mengenakan mana-mana tempoh khusus."
+  - "Saluran dan tetingkap pembaharuan BLESS (dalam 3 bulan sebelum luput): sahkan butiran operasi semasa dengan panduan BLESS/JANM terkini."
+  - "Kadar yuran RM500: sahkan kadar semasa dengan JANM sebelum bergantung padanya."
+
+updated: 2026-08-08
+sources:
+  - title: "Approval & Licence Renewal of Auditor / Company Liquidator (FAQ)"
+    url: "https://www.anm.gov.my/en/faqs/approval-licence-renewal-of-auditor-company-liquidator"
+    publisher: "Jabatan Akauntan Negara Malaysia (JANM)"
+  - title: "Who can be an Auditor and sign the Auditor's Report?"
+    url: "https://ccs-co.com/post/who-can-be-an-auditor-and-sign-the-auditor-s-report/"
+    publisher: "CCS & Co (Chartered Accountants)"
+  - title: "Companies Act 2016 (Act 777) — official reprint (ss.263 & 264)"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+  - title: "Guidelines Pursuant to Subsection 264(4A) of the Companies Act 2016"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/01_Guidelines%20Pursuant%20to%20Section%20264(4A)%20of%20the%20CA%202016.pdf"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+
+entity: "Juruaudit Syarikat yang Diluluskan"
+relations:
+  - { rel: "governs", to: "companies-act-2016" }
+  - { rel: "administered-by", to: "accountant-general-department-malaysia" }
+  - { rel: "related-to", to: "statutory-audit-requirement" }
+related: ["companies-act-2016", "malaysian-institute-of-accountants"]
+keywords: ["juruaudit syarikat diluluskan", "approved company auditor", "seksyen 263", "lesen audit Malaysia", "sijil amalan MIA", "Akauntan Negara"]
+---
+
+你可以是一位拥有完整头衔、会计学位和多年经验的特许会计师——却仍然不被允许独自签署一家公司的审计报告。在马来西亚，审计一家公司的权利是一项独立且受到严密管控的执照，而不是随专业会员资格自动附带的东西。
+
+法律称之为"核准公司审计师"（*approved company auditor*）。只有持有这一身份的人，才能依据《2016年公司法令》审计并签署法定审计报告。本文说明一个人要抵达这一身份必须经过的三个阶段。
+
+## "核准公司审计师"是什么意思？
+
+根据《2016年公司法令》，"核准公司审计师"指的是已依据第263条获核准为审计师、且其核准尚未被撤销的人。这一措辞很重要，因为它收窄了谁具有合法资格——不是任何会计师，也不是任何事务所。
+
+第263条将该权力赋予负责财政事务的部长，即财政部长。若部长信纳申请人品格良好并有能力履行审计师在该法令下的职责，即可核准其为公司审计师。在实务上，财政部长已将此权力授权予会计总长，因此实际申请须提交予马来西亚会计总长署（JANM）。
+
+核准并非永久有效。每次核准（包括更新）自发出日起有效两年，除非被部长提前撤销。
+
+## 这三个阶段的途径是什么？
+
+把资格想象成一道三级阶梯。你不能跳过任何一级。
+
+1. **成为MIA的特许会计师。** 你必须先依据《1967年会计师法令》在马来西亚会计师协会（MIA）注册为特许会计师（*Chartered Accountant*）。这是进入这一专业的门槛。
+
+2. **持有有效的MIA执业证书（*practising certificate*）。** 单凭会员资格不足以从事公共执业。你需要持有有效的执业证书，方可开展公共执业。
+
+3. **依据第263条获核准（审计执照）。** 最后，你向JANM申请，参加并通过面试，取得公司审计师的核准。只有在通过这第三个阶段之后，你才能签署法定审计报告。
+
+三个阶段必须同时保持有效。如果执业证书或MIA会籍到期，你的审计资格也会连带受影响。
+
+## 申请的资格标准是什么？
+
+第三个阶段最为严格。JANM在一个人有资格参加面试之前，设下了相当高的经验门槛。
+
+| 标准 | 要求 |
+| --- | --- |
+| 专业身份 | 已在MIA注册的特许会计师 + 有效执业证书 |
+| 公民 / 居民身份 | 马来西亚公民或居民 |
+| 累积经验 | 至少6年全职工作 |
+| MIA会员后经验 | 至少3年（曾在海外工作者为2年） |
+| 审计经验 | 至少5年，其中最近2年在马来西亚环境中 |
+| 审计工时与任务 | 最近5年内7,500小时审计工时及40项审计任务 |
+| 监督角色 | 至少1,800小时担任审计主管 |
+| 诚信 | 非未获解除破产者；无涉及欺诈或不诚实的罪行定罪（依据第264条，无时间限制） |
+
+此外，首次申请者在获得核准之前，必须完成由MIA主办的公共执业课程（*Public Practice Program*）。
+
+## 面试如何进行？
+
+面试是主要的筛选环节，而且并非走过场。评审小组由五个机构的代表组成：
+
+- 马来西亚会计总长署（主席）
+- 马来西亚公司委员会（SSM）
+- 马来西亚会计师协会（MIA）
+- 马来西亚证券监督委员会（SC）
+- 马来西亚国家银行（BNM）
+
+面试主题涵盖会计立法、公司治理、审计准则、财务报告要求，以及监管框架。五个监管机构的代表同处一个小组，说明这一评审涉及不止一方的监管利害关系。
+
+## 费用多少、耗时多久？
+
+直接成本相当适中，但较短的有效期意味着它会反复出现。
+
+| 项目 | 详情 |
+| --- | --- |
+| 申请 / 更新费用 | RM500，通过电子付款 |
+| 核准有效期 | 自发出日起2年 |
+| 更新期限 | 在期满日前3个月内提交 |
+| 更新管道 | BLESS系统，附法定声明 + MIA会籍及执业证书证明 |
+| 若逾期 > 1年 | 须提交新申请 + 重新面试 |
+
+由于核准仅有效两年，一位活跃的审计师在整个职业生涯中会经历周期性的更新循环，同时须维持有效的MIA会籍与执业证书。
+
+## 一个人在什么情况下丧失审计资格？
+
+满足资格阶段还不够——一个人同时也不能落入丧失资格的类别。《2016年公司法令》第264条禁止一个人担任某一特定公司的审计师，其中包括他若：
+
+- **欠债**予该公司（或相关公司）超过RM25,000；
+- 是该公司的**高职人员**，或其配偶是高职人员；
+- 是该公司某高职人员的**合伙人、雇主或雇员**；
+- 负责**保管**该公司的成员名册或债券持有人名册；
+- 是**未获解除的破产者**，无论在马来西亚境内或境外，且未经法院许可；或
+- 曾因涉及欺诈或不诚实、可判处三个月或以上监禁的罪行而**被定罪**。
+
+留意其中的区别：资格标准决定谁可以*一般性地*成为审计师，而第264条决定一个人是否无利益冲突地审计*某一特定公司*。违反这些禁令可导致不超过RM100,000的罚款。
+
+## 为什么会有这套制度？
+
+审计报告是一项公开声明，表明一家公司的财务报表值得信赖。投资者、放贷者、税务当局和公众都依赖它。因此，国家不允许随便什么人来签署它。
+
+通过将签署权限制在核准审计师身上——经由专业会员资格、累积经验、五个监管机构的面试，以及周期性更新层层筛选——这套制度力求确保审计报告下方的署名承载着专业分量与问责。举例来说，一家需要提交经审计财务报表的私人有限公司（*Sdn Bhd*），不能仅仅委任其内部记账员；它必须委任一家其合伙人持有有效审计执照的事务所。
+
+## 接下来该怎么做
+
+- 如果你是一位**有志成为审计师的会计师**，请及早追踪你的审计工时与任务——7,500小时和40项任务的门槛需要多年才能累积，而JANM要求最近五年的记录。
+- 如果你是一位委任审计师的**公司东主**，请确认签署的事务所与合伙人持有仍然有效的第263条核准，且不存在第264条下的利益冲突。
+- 若要了解法律的确切措辞，请查阅马来西亚公司委员会网站上《2016年公司法令》第263条及264条的全文，并在申请前查阅马来西亚会计总长署及MIA网站上最新的申请指南，因为标准会不时被检讨修订。
