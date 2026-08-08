@@ -39,6 +39,12 @@ const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale
 
 const cat = getCategory(d.category);
 const path = `/${d.category}/${d.slug}`;
+// The GitHub source file for THIS rendered entry: the master is `<slug>.md`,
+// a translation is `<slug>.<lang>.md`. `d.lang` is the actual file shown (it
+// reflects a fallback correctly), so a reader on a translated page edits the
+// translation, not the master.
+const isMasterFile = d.lang === (d.masterLanguage ?? d.lang);
+const sourceFile = `knowledge/${d.category}/${d.slug}${isMasterFile ? '' : `.${d.lang}`}.md`;
 const { Content, headings } = await render(article);
 
 // Report an error / Suggest an improvement — prefilled GitHub issues, shown in
@@ -583,7 +589,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
 
       <div class="side-box">
         <b><span class="ico" set:html={ICON.edit} />{L('Sunting & sumber', 'Edit & source', '编辑与源码')}</b>
-        <a class="edit" href={`${REPO}/blob/main/knowledge/${d.category}/${d.slug}.md`} rel="noopener">
+        <a class="edit" href={`${REPO}/blob/main/${sourceFile}`} rel="noopener">
           {L('Sunting di GitHub', 'Edit on GitHub', '在 GitHub 编辑')} ↗
         </a>
         <a class="edit" href={suggestUrl} rel="noopener">

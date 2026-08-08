@@ -5,33 +5,59 @@ happen through GitHub pull requests.
 
 ## Adding or editing an article
 
-1. Content lives in `knowledge/<category>/<slug>.md`. See the category list in
-   `src/lib/categories.ts`.
-2. The Bahasa Malaysia file is the **source of truth**. Translations are siblings named
-   `<slug>.en.md` and `<slug>.zh.md`, sharing the same `slug`.
-3. Use this frontmatter (validated by `src/content.config.ts`):
+1. Content lives in `knowledge/<category>/<slug>.md`. The folder **is** the category —
+   see the list in `src/lib/categories.ts`.
+2. **The master language is per-article, not site-wide.** Each topic declares its own
+   source of truth in `masterLanguage` (`ms`, `en` or `zh`). The master file is the bare
+   `<slug>.md`; the two translations are siblings named `<slug>.en.md` / `<slug>.zh.md` /
+   `<slug>.ms.md` (whichever two are not the master), all sharing the same `slug` and
+   `topicId`. When you edit a page on the site, the "Edit on GitHub" link already points
+   at the correct file for that language.
+3. **Easiest path: copy an existing published article in the same category and edit it.**
+   That gives you a correct, complete frontmatter block to start from. The schema is
+   validated by `src/content.config.ts`; the fields you must get right are:
 
 ```yaml
 ---
-title: "Kesultanan Melaka"
-category: "history"          # must match the folder name
-subcategory: ["kesultanan"]  # free-form tags; drive graph clustering
-lang: "ms"                    # ms | en | zh
-slug: "kesultanan-melaka"     # shared across languages
-summary: "One-sentence description."
-updated: 2026-07-06
-status: "draft"               # draft | reviewed | verified
-reviewer: null                # your GitHub handle once reviewed
-sources:                      # required for reviewed / verified
+topicId: "MY-LAW-0042"          # stable id, shared by all 3 languages of a topic
+title: "Competition Act 2010 and the MyCC"
+seoTitle: "Competition Act 2010 Malaysia: Prohibitions & Enforcement"  # optional
+slug: "competition-act-2010"    # shared across languages
+category: "law"                 # must match the folder name
+subcategory: ["competition"]    # topic tag(s); a topic = category + subcategory
+summary: "One-sentence description shown in cards and search."
+tier: "2"                        # 1 (core) … 4 (niche) | S (sensitive)
+mode: "practical"                # practical | narrative
+contentType: "law"               # guide | faq | law | agency | … (see schema)
+sensitivity: "none"              # none | race | religion | royalty | constitution | …
+answer: "The lead answer, 2–4 sentences."   # three-layer reading model
+keyTakeaways: ["…", "…"]
+appliesTo: "Who this is for."
+faq:
+  - q: "A common question?"
+    a: "A sourced answer."
+lang: "en"                       # this file's language: ms | en | zh
+masterLanguage: "en"             # the topic's source-of-truth language
+status: "draft"                  # draft → in-review → reviewed → published (see lifecycle)
+aiAssisted: true                 # disclose AI drafting (default true)
+reviewer: null                   # a GitHub handle from reviewers.txt, once signed off
+version: "0.1"
+updated: 2026-08-08
+sources:                         # required beyond draft; keep titles/URLs untranslated
   - title: "Source title"
     url: "https://…"
     publisher: "Publisher"
-related: ["another-slug"]     # canonical slugs → graph edges
+keywords: ["Competition Act 2010", "MyCC"]   # untranslated; aids search
+related: ["consumer-protection-act"]          # canonical slugs → graph edges
 ---
 ```
 
-4. Write clear, sourced prose in Markdown. Aim for at least ~120 words and cite reputable
-   sources. Run `npm run health` to check your article before opening a PR.
+   Do **not** hand-set `sourceContentHash` or `translationStatus` — those are maintained
+   by `scripts/translation-sync.mjs` (run `npm run translate:stamp` after a translation
+   lands; it records the master's hash and marks the translation `in-sync`).
+
+4. Write clear, sourced prose in Markdown. Cite reputable sources for every factual
+   claim. Run `npm run health` to check your article before opening a PR.
 
 ## Editorial principles
 
