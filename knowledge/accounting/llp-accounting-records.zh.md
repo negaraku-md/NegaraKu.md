@@ -1,0 +1,146 @@
+---
+topicId: MY-ACC-0031
+title: "有限责任合伙（PLT）的会计记录：其规定与私人有限公司（Sdn Bhd）有何不同"
+seoTitle: "PLT 会计记录：2012 年有限责任合伙法令第 68 及 69 条"
+slug: "llp-accounting-records"
+category: "accounting"
+subcategory: ["llp"]
+summary: "有限责任合伙（PLT）无需提交财务报表，也无强制审计——但它仍受 2012 年有限责任合伙法令第 69 条约束，须保存会计记录；而第 68 条则把申报义务转化为一份偿债能力声明，并会给合伙人带来个人法律责任。"
+
+tier: "2"
+mode: "practical"
+contentType: "guide"
+sensitivity: "none"
+
+answer: "2012 年《有限责任合伙法令》第 69 条要求每一个 PLT 保存足以说明其交易并呈现真实而公允情况的会计记录，保存期不少于七年。与私人有限公司（Sdn Bhd）不同，PLT 无需编制或向 SSM 提交财务报表（2016 年《公司法令》第 248 及 259 条），其账目也无强制审计（第 69(5) 条）。取而代之的是，第 68 条要求由两名合伙人每年就 PLT 是否有能力偿还其债务作出一份声明。"
+keyTakeaways:
+  - "2012 年 PLT 法令第 69(1) 条把保存记录的义务施加于 PLT 及每一名合伙人，而不仅仅像《公司法令》那样施加于『高级职员』"
+  - "保存期为自财政年度结束起不少于七年（第 69(2) 条）——其计算基准不同于《公司法令》第 245 条从交易完成之日起计算"
+  - "PLT 无需向 SSM 提交财务报表；它只须在第 68 条下呈报一份年度偿债能力声明"
+  - "PLT 的账目在第 69(5) 条下无强制审计，取决于 PLT 协议——不同于 Sdn Bhd 须依 2016 年《公司法令》第 267 条委任审计师"
+  - "首份年度声明须在注册之日起不迟于 18 个月内呈报；此后每份须在财政年度结束起 90 天内呈报（第 68(2) 及 (3) 条）"
+  - "在无合理依据下作出偿债能力声明，可处以最高 RM250,000 罚款或最高 2 年监禁（第 68(6) 条）；若意图欺诈债权人，可处最高 5 年监禁（第 68(8) 条）"
+appliesTo: "马来西亚有限责任合伙（PLT）的合伙人、合规人员及账目编制人，以及任何将 PLT 记录责任与 Sdn Bhd 作比较的人士。"
+
+faq:
+  - q: "PLT 是否需要向 SSM 提交财务报表？"
+    a: "不需要。2012 年 PLT 法令并无任何相当于 2016 年《公司法令》第 248 或 259 条、要求编制及提交财务报表的条文。取而代之的是，第 68 条要求 PLT 呈报一份年度声明，说明两名合伙人对 PLT 在正常业务过程中债务到期时是否有能力或无能力偿还的意见。该声明背后的数字仍须由第 69 条下的会计记录支撑。"
+  - q: "PLT 的会计记录须保存多久？"
+    a: "不少于七年。第 69(2) 条从相关交易或业务完成所在的财政年度结束起计算该期间。请注意与 Sdn Bhd 的细微差别：2016 年《公司法令》第 245(3) 条是从交易本身完成之日起计算七年，而非从财政年度结束起计算。"
+  - q: "PLT 的账目是否强制审计？"
+    a: "并非自动强制。第 69(5) 条规定，在受 PLT 协议约束的前提下，PLT 的账目无需审计。这意味着只有当 PLT 协议本身要求时，审计才属强制。相比之下，私人 Sdn Bhd 须依 2016 年《公司法令》第 267 条为每个财政年度委任审计师，除非它符合由注册官所订定标准下的审计豁免资格。"
+  - q: "若 PLT 的记录不足，谁须负责？"
+    a: "第 69(6) 条把罪责施加于 PLT 及每一名合伙人，可处以最高 RM50,000 罚款或最高六个月监禁或两者兼施。这比『只有合规人员承担风险』的一般看法更为广泛——第 27 条下的合规人员只对第 17、19 及 20 条下的行为负责，而非对第 68 或 69 条负责。"
+  - q: "PLT 是否须采用如 MFRS 或 MPERS 等经核准的会计准则？"
+    a: "第 69 条并未提及任何经核准的会计准则。它只订定一项功能性测试——记录须能使呈现真实而公允情况的损益账及资产负债表得以编制。这不同于 Sdn Bhd 的框架，在该框架下 2016 年《公司法令》将财务报表绑定于经核准的会计准则。然而，LHDN（内陆税收局）的税务要求及银行贷款惯例，往往使按上述准则编制账目在实务上成为必要。"
+  - q: "PLT 的首份年度声明须于何时呈报？"
+    a: "依第 68(3) 条，须在 PLT 注册之日起不迟于 18 个月内呈报。在首份声明之后，其后每份年度声明须在 PLT 财政年度结束起 90 天内呈报（第 68(2) 条）。若提出申请且注册官认为适当，可给予延期（第 68(4) 条）。"
+
+lang: "zh"
+sourceContentHash: "87f70dd57604213f"
+masterLanguage: "ms"
+translationStatus: "in-sync"
+
+status: "in-review"
+aiAssisted: true
+reviewer: null
+version: "0.2"
+verificationNeeded:
+  - "Teks penalti s.68(7) telah disemak semula terhadap Akta 743 (teks kemas kini 1 Ogos 2022) dan bersifat disjunktif (penjara ATAU denda ATAU kedua-duanya); sila sahkan sekali lagi terhadap teks bercetak Warta yang terkini."
+  - "Nama dan prosedur portal serah simpan dalam talian (MyLLP) — sahkan portal semasa dan langkah serahan perakuan tahunan dengan panduan rasmi SSM terkini."
+  - "Kriteria pengecualian audit Sdn Bhd yang ditetapkan oleh Pendaftar (dirujuk secara umum sahaja dalam artikel) — sahkan ambang semasa jika angka spesifik hendak ditambah."
+revisions:
+  - version: "0.1"
+    date: 2026-08-08
+    change: "Initial AI draft."
+    reviewer: null
+  - version: "0.2"
+    date: 2026-08-08
+    change: "Correction pass: fixed s.68(7) penalty from conjunctive to disjunctive (imprisonment OR fine OR both) per Act 743, and softened dramatized intro tone."
+    reviewer: null
+
+updated: 2026-08-08
+sources:
+  - title: "Akta Perkongsian Liabiliti Terhad 2012 (Akta 743), teks kemas kini pada 1 Ogos 2022"
+    url: "https://www.kpdn.gov.my/images/2024/awam/akta/ssm/Akta%20743.pdf"
+    publisher: "Jabatan Peguam Negara / SSM"
+  - title: "Companies Act 2016 (Act 777), updated text as at 1 August 2022"
+    url: "https://www.mof.gov.my/portal/pdf/bahagian/gic/Companies_Act_2016_Act_777.pdf"
+    publisher: "Attorney General's Chambers / SSM"
+  - title: "Limited Liability Partnerships Act — Legal Framework"
+    url: "https://www.ssm.com.my/bm/Pages/Legal_Framework/Limited-Liability-Partnerships-Act.aspx"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+  - title: "Manual Serah Simpan Perakuan Tahunan oleh PLT Secara Dalam Talian"
+    url: "https://www.ssm.com.my/Documents/Manual/ANNUAL-DECLARATION.pdf"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+
+entity: "Perkongsian Liabiliti Terhad"
+relations:
+  - { rel: "governs", to: "register-llp-malaysia" }
+  - { rel: "compares-with", to: "llp-vs-sdn-bhd" }
+  - { rel: "related-to", to: "accounting-records-section-245" }
+related: ["llp-vs-sdn-bhd", "register-llp-malaysia", "accounting-records-section-245", "sdn-bhd-bookkeeping"]
+keywords: ["rekod perakaunan PLT", "seksyen 69 Akta PLT 2012", "perakuan tahunan PLT", "solvency declaration LLP", "PLT vs Sdn Bhd", "Akta 743"]
+---
+
+一个 PLT 可以营运多年而从未向 SSM 递交过任何一份财务报表——而这正是关于此结构的一个常见误解所在。没有提交要求并不代表没有责任。2012 年《有限责任合伙法令》第 69 条仍将每一个有限责任合伙绑定于一项与公司同样严格的记录标准，而第 68 条则以另一种会给合伙人带来个人法律责任的工具，取代了公开的财务报表：偿债能力声明。
+
+## 第 69 条实际上要求什么？
+
+第 69(1) 条规定，"每一个有限责任合伙均须保存足以说明该 PLT 交易及财务状况的会计记录及其他记录"，并使能够呈现其事务"真实而公允情况"的损益账及资产负债表得以编制。
+
+请注意谁受约束。此义务落在 PLT 身上，而且——当发生第 69(6) 条下的违规时——落在每一名合伙人身上。这不是可以完全交给合规人员的职责。在第 27 条下，合规人员只对第 17、19 及 20 条下的行为（注册及通知事项）负责，而非对第 69 条下的记录负责。
+
+此条文引申出三项操作性要求：
+
+- **保存期。** 记录须保存不少于七年，自相关交易完成所在的财政年度结束起计算（第 69(2) 条）。
+- **保存地点。** 记录须保存于注册办事处或合伙人认为适当的任何其他地点，但须通知注册官，并须在任何时候供合伙人查阅（第 69(3) 条）。
+- **应要求提交。** 注册官可通过书面通知，要求 PLT 或其任何合伙人提交该记录以供查验（第 69(4) 条）。
+
+## 年度声明如何取代财务报表？
+
+正是在这一点上，PLT 最明显地与 Sdn Bhd 分道扬镳。公司编制财务报表（2016 年《公司法令》第 248 条）并向注册官提交（第 259 条）。PLT 两者皆不为。取而代之的是，第 68 条要求 PLT 由其任何两名合伙人呈报一份**年度声明**，表明他们对 PLT 属于下列何种情况的意见：
+
+- 被认定为在正常业务过程中债务到期时有能力偿还其债务；或
+- 被认定为无能力偿还其债务。
+
+此声明须每年在 PLT 财政年度结束起 90 天内呈报（第 68(2) 条）。就首份声明而言，其截止日期为自注册之日起不迟于 18 个月（第 68(3) 条）。若提出申请且注册官认为适当，可给予延期（第 68(4) 条）。在实务中，呈报是通过 MyLLP 门户在线完成的，但偿债能力的意见是两名合伙人的个人责任——而非按下呈报按钮的合规人员。
+
+这正是第 69 条与第 68 条不可分割的原因：只有当第 69 条下的会计记录真实反映 PLT 的财务状况时，偿债能力声明才能诚实地作出。
+
+## PLT 与 Sdn Bhd 相比如何？
+
+| 事项 | PLT（2012 年 PLT 法令） | Sdn Bhd（2016 年公司法令） |
+|---|---|---|
+| 保存会计记录 | 强制，第 69(1) 条 | 强制，第 245(1) 条 |
+| 保存期 | 自财政年度结束起 7 年，第 69(2) 条 | 自交易完成起 7 年，第 245(3) 条 |
+| 编制财务报表 | 法令不要求 | 强制，第 248 条 |
+| 向 SSM 提交报表 | 不要求 | 强制，第 259 条 |
+| 审计 | 无强制，取决于 PLT 协议，第 69(5) 条 | 强制，第 267 条（除非获豁免） |
+| 经核准会计准则 | 法令未提及 | 绑定于经核准准则 |
+| 向 SSM 的年度呈报 | 偿债能力声明，第 68 条 | 年度申报表 + 财务报表 |
+| 60 天内入账 | 无相当条文 | 强制，第 245(2) 条 |
+
+其相似之处仍然重要：两种结构都须保存足以呈现真实而公允情况的记录，将其保存七年，并开放供查验。差别在于外界所能看到的——Sdn Bhd 向 SSM 披露其带数字的账目，而 PLT 只申报一项偿债能力的意见。
+
+## 若记录出问题，谁承担风险？
+
+2012 年 PLT 法令下的罚则并非象征性的。适用三层罚则：
+
+- **记录不足（第 69(6) 条）。** PLT 及每一名合伙人均构成罪行，可处以最高 RM50,000 罚款或最高六个月监禁或两者兼施。
+- **未保存满七年或未存放于正确地点（第 69(7) 条）。** 可处以最高 RM10,000 罚款，就持续犯罪而言，每日另加最高 RM500 罚款。
+- **未向注册官提交记录（第 69(8) 条）。** 可处以最高 RM50,000 罚款或最高六个月监禁或两者兼施。
+
+年度声明所带来的风险更为沉重。在对该意见无合理依据下作出偿债能力声明，可处以最高 RM250,000 罚款或最高两年监禁或两者兼施（第 68(6) 条）。在重要细节上提供虚假或误导性资料，可处以最高三年监禁或 RM250,000 至 RM500,000 之间的罚款或两者兼施（第 68(7) 条）。而若第 (5)、(6) 或 (7) 款下的罪行是意图欺诈债权人而作出，其刑罚为最高五年监禁或最高 RM1,000,000 罚款或两者兼施（第 68(8) 条）。至于完全未呈报声明，则可处以最高 RM20,000 罚款，就持续犯罪而言每日另加 RM500 罚款（第 68(5) 条）。
+
+## PLT 可以忽略会计准则吗？
+
+单从 PLT 法令的角度看，第 69 条既未提及 MFRS 也未提及 MPERS。其测试属于定性性质——记录只须足以产生真实而公允的情况。但在实务中，完全忽略准则很少是安全的：
+
+- **税务。** 无论业务形式如何，LHDN 仍要求能够准确计算税额的记录。
+- **融资。** 银行及债权人通常在批出融资前要求按准则编制的账目。
+- **偿债能力声明。** 除非会计记录予以支撑，否则两名合伙人无法在第 68 条下形成合理的意见——这使得井然有序的会计纪律成为一种个人保护，而非仅仅是形式。
+
+## 下一步
+
+在你的 PLT 首个财政年度结束之前，请确认三件事：你的记录系统确实说明了每一笔交易（第 69(1) 条）；该记录存放于已通知注册官的地点（第 69(3) 条）；以及两名合伙人准备好根据可辩护的数字签署偿债能力声明。同时也检视你的 PLT 协议：若它要求审计，则第 69(5) 条不再保护你免于该义务。有关两种结构的完整比较，请见 [PLT 与 Sdn Bhd 的比较](llp-vs-sdn-bhd)；有关相当的公司记录标准，请见 [第 245 条下的会计记录](accounting-records-section-245)。
