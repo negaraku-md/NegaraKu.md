@@ -85,6 +85,29 @@ export async function allArticles(): Promise<Article[]> {
 }
 
 /**
+ * OPS census — one row per topic across the WHOLE corpus, every status included
+ * (draft / in-review / reviewed / published), publish gate deliberately NOT
+ * applied. This is the single population the Dashboard's statistics must be
+ * computed from, so the headline, category coverage, lifecycle ladder and
+ * hero all reconcile to the same denominator no matter the status mix.
+ *
+ * One row per topic = the topic's MASTER (lang === masterLanguage), falling back
+ * to any entry when a master file is absent. Never leaks sensitive titles: it
+ * returns aggregate rows, and the reader-facing title lists stay gated elsewhere.
+ */
+export async function corpusTopics(): Promise<Article[]> {
+  const all = (await getCollection('knowledge')).filter((a) => a.data.category !== 'about');
+  const byKey = new Map<string, Article>();
+  for (const a of all) {
+    const key = articleKey(a);
+    const prev = byKey.get(key);
+    const isMaster = (x: Article) => x.data.lang === (x.data.masterLanguage ?? x.data.lang);
+    if (!prev || (isMaster(a) && !isMaster(prev))) byKey.set(key, a);
+  }
+  return [...byKey.values()];
+}
+
+/**
  * Return one entry per canonical article for the requested locale, falling
  * back to the Bahasa Malaysia source when a translation is missing.
  */

@@ -2,7 +2,7 @@
 import type { Locale } from '@/lib/categories';
 import { getCategory, getPillar, getPillarDef, PILLARS } from '@/lib/categories';
 import { subcatLabel } from '@/lib/subcategories';
-import { allArticles, siteStats } from '@/lib/content';
+import { corpusTopics } from '@/lib/content';
 import { getDashboard } from '@/lib/apidata';
 import { t, localePath } from '@/lib/i18n';
 import PageHero from './PageHero.astro';
@@ -12,7 +12,6 @@ interface Props {
 }
 const { locale } = Astro.props;
 const d = getDashboard();
-const stats = await siteStats(locale);
 const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 // Per-language coverage rows for the trilingual bars (master ms first).
@@ -31,12 +30,19 @@ type SecNode = { total: number; cats: Map<string, CatNode> };
 const iaTree = new Map<string, SecNode>();
 const seenTopics = new Set<string>();
 const sensMix = new Map<string, number>();
+const catSet = new Set<string>();
+const subcatSet = new Set<string>();
 let sources = 0;
 let sourced = 0;
-for (const a of await allArticles()) {
+// Whole-corpus census (every status) — the SAME population build-dashboard.mjs
+// computes its JSON stats from, so this page's tree, classification mix and hero
+// reconcile with the counters and lifecycle ladder no matter the status mix.
+for (const a of await corpusTopics()) {
   const uid = `${a.data.category}/${a.data.slug}`;
   if (seenTopics.has(uid)) continue;
   seenTopics.add(uid);
+  catSet.add(a.data.category);
+  for (const s of a.data.subcategory) subcatSet.add(s);
   const pillar = getPillar(a.data.category) ?? 'understand';
   const topic = a.data.subcategory[0] ?? '—';
   const sens = a.data.sensitivity && a.data.sensitivity !== 'none' ? a.data.sensitivity : 'none';
@@ -100,10 +106,10 @@ const avgSources = sourced ? (sources / sourced).toFixed(1) : '0';
     'NegaraKu.md 知识库的现状——每次构建时重新计算。',
   )}
   stats={[
-    { value: stats.sections, label: L('seksyen', 'sections', '版块') },
-    { value: stats.categories, label: L('kategori', 'categories', '分类') },
-    { value: stats.topics, label: L('topik', 'topics', '主题') },
-    { value: stats.articles, label: L('artikel', 'articles', '文章') },
+    { value: sections.length, label: L('seksyen', 'sections', '版块') },
+    { value: catSet.size, label: L('kategori', 'categories', '分类') },
+    { value: subcatSet.size, label: L('topik', 'topics', '主题') },
+    { value: d.totals.files, label: L('fail', 'files', '文件') },
   ]}
 />
 

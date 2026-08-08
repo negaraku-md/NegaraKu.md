@@ -59,10 +59,31 @@ async function main() {
   const base = [...canonical.values()];
   const total = base.length; // public topics that clear the publish gate
 
-  // The TRUE corpus size: one file per topic in its own master language, counted
-  // across the WHOLE manifest (sensitive drafts included). This is what the
-  // headline should show — `total` above is only the publicly-servable subset.
-  const masterArticles = allArticles.filter((a) => a.lang === (a.masterLanguage ?? a.lang)).length;
+  // OPS CENSUS — the single population every statistic below is computed from,
+  // so the whole page reconciles to one denominator regardless of status mix.
+  // One row per topic = its MASTER (lang === masterLanguage), across the WHOLE
+  // manifest (all statuses, sensitive drafts included). The publish-gated `base`
+  // above is used ONLY for the title-exposing lists (registry, recentlyUpdated);
+  // it must never feed a headline/section/ladder number, because gating a subset
+  // out of one figure but not its neighbours is exactly what made the dashboard
+  // stop tallying whenever anything sat in draft / in-review / reviewed.
+  const censusByKey = new Map();
+  const langsByKeyAll = new Map();
+  for (const a of allArticles) {
+    if (!langsByKeyAll.has(a.key)) langsByKeyAll.set(a.key, new Set());
+    langsByKeyAll.get(a.key).add(a.lang);
+    const isMaster = a.lang === (a.masterLanguage ?? a.lang);
+    const prev = censusByKey.get(a.key);
+    if (!prev || (isMaster && prev.lang !== (prev.masterLanguage ?? prev.lang))) {
+      censusByKey.set(a.key, a);
+    }
+  }
+  const census = [...censusByKey.values()]; // one master per topic, every status
+  const topics = census.length; // the TRUE corpus size (== master articles)
+  const masterArticles = topics;
+
+  const masterLangByKey = new Map(census.map((a) => [a.key, a.masterLanguage ?? a.lang]));
+
   const filesByLang = {};
   const publishedByLang = {};
   for (const l of SITE_LANGS) {
@@ -72,6 +93,9 @@ async function main() {
   }
   const publishedTotal = SITE_LANGS.reduce((n, l) => n + publishedByLang[l], 0);
 
+  // All corpus-level stats iterate the CENSUS (one master per topic, every
+  // status) so perCategory, statusDist and citations share the `topics`
+  // denominator and add up exactly.
   const perCategory = {};
   let reviewed = 0;
   let citedOk = 0;
@@ -79,7 +103,7 @@ async function main() {
   // Buckets mirror the status enum (draft | in-review | reviewed | published).
   // "verified" was a phantom bucket — not a real status, so always 0.
   const statusDist = { draft: 0, 'in-review': 0, reviewed: 0, published: 0 };
-  for (const a of base) {
+  for (const a of census) {
     perCategory[a.category] = (perCategory[a.category] ?? 0) + 1;
     statusDist[a.status] = (statusDist[a.status] ?? 0) + 1;
     // Published content has cleared review, so it counts toward the reviewed vital.
@@ -92,12 +116,13 @@ async function main() {
   }
 
   // Translation coverage: each topic needs a translation in every locale except
-  // its own master. The master (source) is not a translation slot.
+  // its own master. The master (source) is not a translation slot. Counted over
+  // the whole census (ungated) so the DNA vital matches the per-language bars.
   let slots = 0;
   let filled = 0;
-  for (const key of canonical.keys()) {
-    const langs = langsByKey.get(key);
-    const master = masterByKey.get(key);
+  for (const key of censusByKey.keys()) {
+    const langs = langsByKeyAll.get(key);
+    const master = masterLangByKey.get(key);
     for (const l of SITE_LANGS) {
       if (l === master) continue;
       slots++;
@@ -153,20 +178,20 @@ async function main() {
   for (const l of SITE_LANGS) {
     let source = 0;
     let translated = 0;
-    for (const key of canonical.keys()) {
-      const isMaster = masterByKey.get(key) === l;
-      const present = langsByKey.get(key)?.has(l);
+    for (const key of censusByKey.keys()) {
+      const isMaster = masterLangByKey.get(key) === l;
+      const present = langsByKeyAll.get(key)?.has(l);
       if (isMaster) source++;
       else if (present) translated++;
     }
-    const target = total - source; // topics that need this locale as a translation
+    const target = topics - source; // topics that need this locale as a translation
     perLangCoverage[l] = {
       have: source + translated,
-      total,
+      total: topics,
       source,
       target,
       translated,
-      missing: total - (source + translated), // topics with NO file in this locale
+      missing: topics - (source + translated), // topics with NO file in this locale
       pct: target ? pct(translated, target) : 100,
     };
   }
@@ -174,14 +199,14 @@ async function main() {
   // Topic-level language completeness: of all public topics, how many carry all
   // three languages vs. only some. This is the honest answer to "is every topic
   // trilingual?" — after single-language masters land, most are NOT yet.
-  const trilingual = { topics: total, full: 0, two: 0, one: 0 };
-  for (const key of canonical.keys()) {
-    const c = langsByKey.get(key)?.size ?? 0;
+  const trilingual = { topics, full: 0, two: 0, one: 0 };
+  for (const key of censusByKey.keys()) {
+    const c = langsByKeyAll.get(key)?.size ?? 0;
     if (c >= 3) trilingual.full++;
     else if (c === 2) trilingual.two++;
     else trilingual.one++;
   }
-  trilingual.fullPct = pct(trilingual.full, total);
+  trilingual.fullPct = pct(trilingual.full, topics);
 
   // Editorial lifecycle matrix. Counts EVERY file — including drafts still gated
   // out of the public build — so pending work is visible, not hidden. Per language
@@ -248,7 +273,7 @@ async function main() {
   const uiStrings = [...(await readSrc('src/lib/i18n.ts')).matchAll(/'[\w.\-]+':\s*\{[^{}]*\}/g)].length;
 
   const contentTypes = [
-    { id: 'article', count: total, files: allArticles.length, governance: 'full' },
+    { id: 'article', count: topics, files: allArticles.length, governance: 'full' },
     {
       id: 'dataset',
       count: datasetVerifications.length,
@@ -269,16 +294,17 @@ async function main() {
   const dashboard = {
     contentTypes,
     totals: {
-      masterArticles,        // 481 — one per topic (the source articles)
-      publicTopics: total,   // 386 — topics that clear the publish gate
-      articles: total,       // kept for back-compat
-      files: allArticles.length, // 1105 — every language file
+      masterArticles,        // one per topic (the source articles) — == topics
+      topics,                // census size: every topic, all statuses
+      publicTopics: total,   // topics that clear the publish gate (public subset)
+      articles: topics,      // kept for back-compat; census-based so it reconciles
+      files: allArticles.length, // every language file
       filesByLang,           // { en, ms, zh } file counts
       publishedByLang,       // { en, ms, zh } published file counts
       publishedTotal,        // total published files across all languages
       languages: 3,
       categories: categoriesCovered,
-      reviewedPct: pct(reviewed, total),
+      reviewedPct: pct(reviewed, topics),
     },
     vitals,
     statusDist,
@@ -305,12 +331,13 @@ async function main() {
     // The Outstanding column's worklist: files not yet published, so the number
     // links to actual work instead of being a dead statistic. Capped — the full
     // list is hundreds long; `total` reports the true size.
+    // Topic-based, so this reconciles with the lifecycle ladder: the ladder's
+    // non-published buckets sum to exactly needsReview.total (both count master
+    // topics, not language files).
     needsReview: (() => {
-      const drafts = allArticles
+      const drafts = census
         .filter((a) => a.status !== 'published')
-        .sort((x, y) =>
-          x.lang === y.lang ? (x.key < y.key ? -1 : 1) : x.lang < y.lang ? -1 : 1,
-        );
+        .sort((x, y) => (x.key < y.key ? -1 : 1));
       return {
         total: drafts.length,
         items: drafts.slice(0, 12).map((a) => ({
