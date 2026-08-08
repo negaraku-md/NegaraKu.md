@@ -1,0 +1,163 @@
+---
+topicId: MY-TOU-0009
+title: "马来西亚旅游税：税率、由谁缴纳及如何征收"
+seoTitle: "马来西亚旅游税（TTx）：RM10税率、豁免与MyTTx"
+slug: "malaysia-tourism-tax"
+category: "tourism"
+subcategory: ["tax"]
+summary: "马来西亚对外国旅客按每间客房每晚统一征收RM10旅游税，由酒店和在线预订平台代收，并通过MyTTx门户网站上缴关税局。"
+
+tier: "2"
+mode: "practical"
+contentType: "guide"
+sensitivity: "none"
+
+answer: "马来西亚的旅游税（TTx）是仅针对入住已注册住宿设施的外国旅客、按每间客房每晚统一征收RM10的定额税。马来西亚公民和永久居民获豁免，民宿（homestay）、乡村寄宿（kampungstay）以及客房数为四间或以下的场所也同样获豁免。酒店在退房时代收；在线预订平台（DPSP）则在预订时代收。所有注册、申报和缴款均通过MyTTx门户网站向马来西亚皇家关税局办理。"
+keyTakeaways:
+  - "税率固定为每间客房每晚RM10.00，与房价或同房入住人数无关。"
+  - "只有外国游客需缴纳；马来西亚公民（MyKad）和永久居民（MyPR）完全获豁免。"
+  - "拥有五间或以上客房的经营者必须注册；客房数为四间或以下者，以及已注册的民宿和乡村寄宿，则豁免代收。"
+  - "自2023年1月1日起，在线预订平台（DPSP）必须注册并在预订时收取旅游税，针对间接付款情形另设宽限期至2025年12月31日。"
+appliesTo: "赴马来西亚的外国旅客、酒店及短期住宿经营者，以及在线旅游平台。"
+
+faq:
+  - q: "马来西亚的旅游税是多少？"
+    a: "根据《2017年旅游税（税率）令》，统一为每间客房每晚RM10.00。它不随房价或同房人数而变动。"
+  - q: "马来西亚人和永久居民需要缴纳吗？"
+    a: "不需要。根据《2017年旅游税（豁免）令》，马来西亚公民（MyKad持有者）和永久居民（MyPR持有者）获全额豁免。"
+  - q: "是按人头还是按客房计算？"
+    a: "按每间客房、每晚计算。若两名外国旅客同住一间客房，该房的税额为RM10，而非RM20。由客房账单开具对象的人缴纳。"
+  - q: "当我通过Agoda或Booking.com预订时，由谁代收这笔税？"
+    a: "在线平台（数字平台服务提供者，即DPSP）必须在预订时收取旅游税。在截至2025年12月31日的宽限期内，如果你直接向酒店付款而非向平台付款，则改由酒店代收，以免被重复收取。"
+  - q: "小型旅馆和民宿也要征税吗？"
+    a: "客房数为四间或以下的经营者获豁免；根据旅游部官方计划注册的民宿（homestay）和乡村寄宿（kampungstay）也获豁免。"
+  - q: "酒店如何将这笔税上缴政府？"
+    a: "它们在MyTTx门户网站注册，按季度提交申报表（TTx-03表格），并不迟于每个课税期结束后次月的最后一天将税款上缴马来西亚皇家关税局。"
+
+lang: "zh"
+sourceContentHash: "90bb7645abb0046f"
+masterLanguage: "en"
+translationStatus: "in-sync"
+
+status: "published"
+aiAssisted: true
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
+version: "0.2"
+revisions:
+  - version: "0.1"
+    date: 2026-07-28
+    change: "Initial AI draft."
+    reviewer: null
+  - version: "0.2"
+    date: 2026-07-28
+    change: "Correction pass: added Act A1633 as source for the imprisonment penalty, fixed the DPSP 'pay at property' collection mechanism (operator remits directly, no reimbursement), and de-attributed the illustrative invoice table."
+    reviewer: null
+
+verificationNeeded:
+  - "The 'imprisonment of up to one year' penalty is cited to Act A1633 via the AGC Laws of Malaysia portal, which confirms the statute but does not display the penalty text; a human should confirm the exact imprisonment term against the gazetted full text."
+  - "The DPSP grace period ends 31 December 2025 (now past); confirm the current permanent post-grace-period collection rules on the live MyTTx portal."
+  - "The worked invoice figures are a generic illustration of the flat-line mechanic, not a verbatim reproduction of any single numbered example in the RMCD General Guide."
+
+updated: 2026-07-28
+sources:
+  - title: "General Guide on Tourism Tax"
+    url: "https://www.myttx.customs.gov.my/wp-content/uploads/2022/05/APPENDIX-A-General-Guide.pdf"
+    publisher: "Royal Malaysian Customs Department"
+  - title: "Guide on Tourism Tax (Digital Platform Service Provider), 11 March 2025"
+    url: "https://www.myttx.customs.gov.my/wp-content/uploads/2025/03/Guide-on-DPSP-11032025.pdf"
+    publisher: "Royal Malaysian Customs Department"
+  - title: "Tourism Tax (TTx) Policy No. 2/2023"
+    url: "https://www.myttx.customs.gov.my/wp-content/uploads/2023/04/POLICY-TTX-BI-NO.2-2023-DPSP-TTx-extension-1-apr-23-31-dis-25.pdf"
+    publisher: "Royal Malaysian Customs Department"
+  - title: "Tourism Tax (Amendment) Act 2021 (Act A1633)"
+    url: "https://lom.agc.gov.my/act-detail.php?act=A1633"
+    publisher: "Attorney General's Chambers of Malaysia (Laws of Malaysia)"
+
+entity: "Tourism Tax (Malaysia)"
+relations:
+  - { rel: "administered-by", to: "royal-malaysian-customs-department" }
+  - { rel: "related-to", to: "malaysia-sales-and-service-tax" }
+related: ["royal-malaysian-customs-department", "malaysia-sales-and-service-tax"]
+keywords: ["tourism tax", "TTx", "Malaysia", "MyTTx", "RM10 per room", "DPSP", "hotel tax", "RMCD"]
+---
+
+持外国护照入住吉隆坡几乎任何一家酒店时，账单上都会出现一行耐人寻味的项目：每住一晚，统一收取RM10。这就是马来西亚的旅游税（TTx）——一项金额固定的小额征费，其运作方式与旅客在别处遇到的按百分比计算的酒店税大不相同。
+
+以下就来说清楚它究竟是什么、由谁缴纳，以及谁必须负责代收。
+
+## 究竟由谁缴纳马来西亚的旅游税？
+
+外国旅客——而且只有外国旅客。这项税针对入住由经营者提供的住宿设施的"旅客"征收，且缴付给经营者是该旅客的义务。
+
+有两类人被完全排除在外。根据《2017年旅游税（豁免）令》，身为马来西亚公民（MyKad持有者）的旅客，以及身为马来西亚永久居民（MyPR持有者）的旅客，获全额豁免此税。这就是为何前台在登记入住时会索取你的护照或身份证：决定是否出现那行RM10的，是国籍，而非居住地。
+
+此税根据《2017年旅游税法令》及其配套法令于**2017年9月1日**生效。
+
+## 税额是多少，如何收取？
+
+税率固定为**每间客房每晚RM10.00**。它不随房价变动，也不按同房人数倍增。一间由两名外国旅客预订的客房，该房仍是RM10——而且一旦有一名旅客为该住宿缴了税，同房的其他人便无需再次承担。
+
+一"晚"是指在经营者规定的时间内从入住到退房的时段，因此跨越这些时段的当天短住仍算作一晚。定价低于每晚税率的日间使用（day-use）客房不征税，但经营者免费赠送的一晚住宿仍需缴纳旅游税。
+
+由于该金额是定额收费而非百分比，它作为独立的一行列在账单上，与房价及任何服务费分开列明：
+
+| 收费项目 | 计算基础 | 金额（RM） |
+|---|---|---|
+| 房费 | RM75 x 2间客房 x 3晚 | 450.00 |
+| 服务费（10%） | RM450 x 10% | 45.00 |
+| 旅游税 | RM10 x 2间客房 x 3晚 | 60.00 |
+| **合计（不含其他收费）** | | **555.00** |
+
+*此表说明这项定额税如何作为独立的账单行出现，与房价及服务费分开；相关数字仅为示意，且不包含经营者可能加收的任何其他费用。*
+
+对于服务式公寓，如何列示决定了税额：如果一套三卧室单位作为一个单位进行宣传和预订，则该单位的旅游税为RM10；如果每间卧室分别列示和分别预订，则每间已预订的客房各收RM10。
+
+## 谁及哪些情形获豁免？
+
+除了马来西亚公民和永久居民旅客之外，还有几类经营者完全豁免注册和代收旅游税。豁免范围包括：
+
+- **小型经营者**——任何经营客房数为**四间或以下**住宿设施者。
+- 旅游部*Pengalaman Homestay Malaysia*（马来西亚民宿体验）计划下的**已注册民宿**。
+- *Visit My Kampung: Kampungstay*（探访我的甘榜：乡村寄宿）计划下的**已注册乡村寄宿**。
+- 为教育、培训或福利提供住宿的**政府、法定机构及已注册私立大学的场所**（例如培训学院和机构招待所）。
+- 作为员工福利提供的**雇主住宿**。
+- 经营非商业性住宿的**获批准的宗教或福利团体**。
+
+四间客房的门槛在高端一侧同样重要。一旦经营者提供**五间或以上住宿客房**——按其管理的所有场所合计计算——即须负注册责任，因此位于五个不同城镇的五栋各含一间客房的房子仍会越过这条线，而四栋则不会。
+
+## 酒店如何代收并上缴？
+
+代收与缴款完全通过马来西亚皇家关税局的**MyTTx**门户网站进行。负有责任的经营者必须：
+
+1. 在开始营业后30天内使用TTx-01表格**注册**。关税局会发出旅游税识别号码及一张必须在每处场所展示的证书。
+2. 通常在退房时向外国旅客**代收**每间客房每晚RM10，并开具一份将税额单独列明的账单。
+3. 为每个课税期**提交申报并缴款**（TTx-03表格）——默认为三个月的季度期，或在适用情况下为经营者原有的消费税（GST）课税期——不迟于该期结束后次月的最后一天。即使未收取任何税款，仍须提交零申报。
+
+经营者必须将记录——旅客护照号码、住宿日期、房价及所收税额——保存**七年**。
+
+## 对Booking.com、Agoda及其他在线平台有何变化？
+
+多年来，这项税只触及直接预订的旅客。《2021年旅游税（修正）法令》通过创设一类新的纳税人来填补这一缺口：**数字平台服务提供者（DPSP）**——即任何为位于马来西亚的住宿提供在线预订服务的个人或实体，无论其身处马来西亚境内还是境外。
+
+自该制度实施以来（自**2023年1月1日**起收费），DPSP必须在提供服务后30天内注册（TTx-01A表格），在预订时收取同样的每间客房每晚RM10，并通过其自己的季度申报表（TTx-03A表格）上缴关税局。境外平台通过电汇缴付，或在持有马来西亚银行账户的情况下通过FPX缴付。相同的旅客豁免同样适用，因此平台也不会向MyKad和MyPR持有者收费。
+
+为避免过渡期内重复收取，关税局设定了**从2023年4月1日至2025年12月31日的宽限期**。区分的关键在于由谁收取款项：
+
+| 由谁收取该预订的付款 | 由谁代收并上缴旅游税（宽限期内） |
+|---|---|
+| 平台（DPSP），由旅客直接付款给平台 | **DPSP**在预订时代收并上缴 |
+| 酒店，即旅客抵达时付款 | **酒店**在退房时代收并上缴 |
+
+因此在宽限期规则下，如果你向平台预付款，则由平台代收并上缴税款；如果你在线预订但选择"到店付款"，则酒店是收款方，因此酒店在前台代收RM10，并通过其自己的申报表直接上缴关税局。无论哪种方式，你都应只被收取一次，而非两次。在生效日期之前所做、但住宿在生效日期之后的预订，完全不征税。
+
+## 如果未代收或未缴纳该税会怎样？
+
+罚则落在经营者和平台身上，而非旅客。未能注册、申报、缴款、正确开具账单或保存记录，即属犯罪，可处最高**RM30,000**罚款、最高一年监禁，或两者兼施——关税局还可就其中许多罪行以最高**RM15,000**（最高罚款的一半）予以罚款和解（compound）。
+
+逾期缴款按梯度处罚：逾期首30天为未缴税额的**10%**，其后每一个30天期再加10%，最高至**30%**。若你并非已注册的经营者或DPSP，却开具声称收取旅游税的单据，这本身即属犯罪。
+
+## 接下来该注意什么
+
+如果你正在旅行，请预留每间客房每晚额外的RM10并保留收据——它是一项固定成本，而非小费或百分比，且无论你是直接预订还是通过平台预订，它都应作为独立的一行出现。如果你经营住宿业务，当前的关键问题是DPSP宽限期将于**2025年12月31日**结束，此后平台与酒店之间的代收划分预计将稳定为其永久形式；请查阅MyTTx门户网站获取现行政策。至于权威文本，下方链接的关税局（RMCD）指南与法令规范着本文中的每一项数字。
