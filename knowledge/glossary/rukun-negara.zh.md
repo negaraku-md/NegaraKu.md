@@ -1,0 +1,278 @@
+---
+topicId: MY-GLO-0046
+title: "国家原则（Rukun Negara）：马来西亚国家誓言的五大原则"
+seoTitle: "国家原则（Rukun Negara）：五大原则、历史与含义"
+slug: "rukun-negara"
+category: "glossary"
+subcategory: ["kenegaraan"]
+summary: "国家原则（Rukun Negara）是马来西亚的国家誓言，建立在五大原则之上，由最高元首于1970年8月31日宣布，作为对1969年5月13日事件的回应，此后一直是国家团结的支柱。"
+
+tier: "1"
+mode: "narrative"
+contentType: "glossary"
+sensitivity: "none"
+
+answer: "国家原则（Rukun Negara）是马来西亚的国家哲学与正式誓言，建立在五大原则之上：信奉上苍；忠于君国；维护宪法；尊崇法治；以及培养德行。它由国家行动理事会（MAGERAN）之下的国家协商理事会在1969年5月13日事件之后拟定，并由第四任最高元首端姑依斯迈纳西鲁丁沙（Tuanku Ismail Nasiruddin Shah）于1970年8月31日、配合国家独立13周年纪念日宣布。每一次宣誓在列出这五大原则之前，都会先以国家的五大宏愿开始。"
+keyTakeaways:
+  - "国家原则建立在五大原则之上，以信奉上苍开始，以培养德行结束"
+  - "它由最高元首于1970年8月31日、配合独立13周年纪念日宣布"
+  - "国家原则是作为对1969年5月13日事件的回应而诞生的，由敦阿都拉萨领导的国家行动理事会（MAGERAN）之下的国家协商理事会拟定"
+  - "完整的誓言分为两部分——国家的五大宏愿（团结、民主、公正社会、开明文化、进步社会），其后是五大原则"
+  - "第一原则的官方表述是‘信奉上苍’（Kepercayaan kepada Tuhan），而非‘信奉宗教’"
+appliesTo: "学生、教师、新公民，以及任何想要了解国家原则五大原则的含义、历史和真实顺序的人。"
+
+faq:
+  - q: "国家原则的五大原则按顺序是什么？"
+    a: "按官方顺序：（1）信奉上苍，（2）忠于君国，（3）维护宪法，（4）尊崇法治，以及（5）培养德行。"
+  - q: "国家原则是何时宣布的？"
+    a: "国家原则由最高元首于1970年8月31日、配合马来西亚独立13周年纪念庆典宣布。"
+  - q: "为什么要制定国家原则？"
+    a: "它的制定是为了在动摇国家团结的1969年5月13日流血事件之后，在多元种族的人民之间建立牢固的团结。"
+  - q: "国家原则是由谁拟定的？"
+    a: "国家原则诞生于国家协商理事会（MPN）的讨论，该理事会是由当时的副首相敦阿都拉萨（Tun Abdul Razak Hussein）领导的国家行动理事会（MAGERAN）所设立的机构之一。"
+  - q: "国家原则的原则与宏愿有什么区别？"
+    a: "宏愿（如团结与公正社会等五大国家目标）是要达成的目的，而五大原则则是实现这些宏愿的生活基础与指南。两者共同构成了完整的国家原则誓言。"
+
+lang: "zh"
+sourceContentHash: "34b17e1fed62d4ef"
+masterLanguage: "ms"
+translationStatus: "in-sync"
+
+status: "published"
+aiAssisted: true
+reviewer: "ashton-tan"
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
+version: "0.2"
+revisions:
+  - version: "0.1"
+    date: 2026-08-01
+    change: "Draf awal AI. Lima prinsip, cita-cita, tarikh pengisytiharan (31 Ogos 1970) dan sejarah penggubalan disahkan daripada Portal Rasmi Kerajaan Malaysia (MyGovernment) dan Majlis Keselamatan Negara (MKN)."
+    reviewer: null
+  - version: "0.2"
+    date: 2026-08-01
+    change: "Correction pass: fakta teras (31 Ogos 1970, Agong ke-IV Tuanku Ismail Nasiruddin Shah, ulang tahun ke-13, MAGERAN/MPN, 13 Mei 1969) disahkan semula terhadap MyGov + trivia MKN 2022; framing 'kerap dikelirukan' yang tidak bersumber dilembutkan; verificationNeeded ditambah."
+    reviewer: null
+
+verificationNeeded:
+  - "Glos 'maksud ringkas' setiap prinsip dalam jadual — rumusan pentafsiran editorial, patut disemak terhadap teks rasmi Jabatan Perpaduan Negara."
+  - "Sumber MKN 2024-09-24 hanya menyebut lima nilai secara prosa; ia tidak memerincikan tarikh 1970, pengisytihar, MAGERAN atau 13 Mei — spesifik itu dibawa oleh trivia MKN 2022 + MyGov. Pertimbang menambah satu sumber primer yang memerinci/menghurai lima prinsip."
+  - "Dakwaan 'lima prinsip lazimnya dicetak di kulit belakang buku latihan sekolah' — pengetahuan umum, belum disahkan sumber."
+  - "Lagu Negaraku 'dilindungi di bawah undang-undang lagu kebangsaan' (rujukan Akta Lagu Kebangsaan 1968) — belum disahkan sumber primer."
+  - "Bingkai 'kesilapan lazim' bersifat pedagogi; kekerapan sebenar kesilapan tidak diukur oleh mana-mana sumber."
+
+updated: 2026-08-01
+sources:
+  - title: "Rukun Negara — Kenali Malaysia"
+    url: "https://www.malaysia.gov.my/my/government/kenali-malaysia/rukun-negara"
+    publisher: "Portal Rasmi Kerajaan Malaysia (MyGovernment)"
+  - title: "Lima Prinsip Rukun Negara"
+    url: "https://www.mkn.gov.my/web/ms/2024/09/24/lima-prinsip-rukun-negara/"
+    publisher: "Majlis Keselamatan Negara (MKN)"
+    date: "2024-09-24"
+  - title: "Trivia Kemerdekaan: Pembentukan Rukun Negara"
+    url: "https://www.mkn.gov.my/web/ms/2022/08/03/trivia-kemerdekaan-pembentukan-rukun-negara/"
+    publisher: "Majlis Keselamatan Negara (MKN)"
+    date: "2022-08-03"
+
+entity: "Rukun Negara"
+relations:
+  - { rel: "related-to", to: "merdeka" }
+  - { rel: "related-to", to: "yang-di-pertuan-agong" }
+  - { rel: "related-to", to: "rakyat" }
+related: ["merdeka", "yang-di-pertuan-agong", "rakyat", "bumiputera"]
+keywords: ["rukun negara", "lima prinsip rukun negara", "ikrar rukun negara", "prinsip rukun negara", "kepercayaan kepada tuhan", "13 mei 1969", "MAGERAN", "falsafah kebangsaan"]
+---
+
+**Bahasa Malaysia:** Rukun Negara · **English:** National Principles · **中文:** 国家原则
+
+每逢星期一早晨，在全马来西亚数以千计的学校里，学生们挺身站立，
+诵读同一段誓言——以"信奉上苍"开头的五行文字。许多人从小便熟记于心。
+但较少人知道，这五行文字不仅仅是校园口号——它诞生于国家历史上
+最艰难的事件之一之后，是为了重新团结分裂的人民而刻意建立的。
+
+这就是国家原则（Rukun Negara）：马来西亚的国家哲学，
+在国家庆祝独立的同一天宣布。
+
+## 国家原则究竟是什么？
+
+国家原则是**马来西亚的国家意识形态或国家哲学**，
+建立在五大主要原则之上，作为社会生活中的指南。它不是可以起诉
+某人的法律，也不仅仅是一句口号。更准确地说，它应被理解为一种
+**共同誓言**——由多元种族与宗教的人民共同秉持的价值宣言。
+
+根据国家安全理事会（MKN），国家原则"是马来西亚的国家哲学，
+建立在五大主要原则之上，作为社会生活中的指南"。它成为全体人民的
+信念、指南与实践，以培育和巩固团结精神。
+
+完整的国家原则誓言实际上包含**两个部分**：
+
+1. **国家宏愿**——要达成的五大宏大目标（序言）。
+2. **五大原则**——作为实现那些宏愿之支柱的基础与信念。
+
+经常被熟记与诵读的是第二部分——五大原则。
+但若缺少第一部分，其脉络便随之丧失。
+
+## 国家原则的五大原则是什么？
+
+这是每一位公民都需要牢记的核心。按官方顺序，
+国家原则的五大原则为：
+
+| 序号 | 原则 | 简要含义 |
+| --- | --- | --- |
+| 1 | **信奉上苍** | 承认上苍的存在，作为社会与国家生活的基础 |
+| 2 | **忠于君国** | 效忠于最高元首、统治者与国家 |
+| 3 | **维护宪法** | 接受联邦宪法为国家的最高法律 |
+| 4 | **尊崇法治** | 全体人民在法律面前一律平等；公正地施行正义 |
+| 5 | **培养德行** | 在交往中维护高尚的行为、礼节与品德 |
+
+这一顺序既重要又是刻意安排的。它以与上苍的关系开始，
+上升至对国家与君主体制的忠诚，接着到法律支柱（宪法与法律），
+最后以每个个人的个人责任——礼节与德行——作结。
+
+## 为什么会诞生国家原则？
+
+国家原则并非在和平的状态下诞生。它是作为对**1969年5月13日事件**
+的直接回应而诞生的——那是一场严重动摇国家团结与和谐的种族骚乱。
+
+在该事件之后，国会议会制被暂停，一个紧急行政机构
+**国家行动理事会（MAGERAN）**成立，以恢复安宁。MAGERAN由
+当时的副首相**敦阿都拉萨（Tun Abdul Razak Hussein）**主持。
+
+在MAGERAN之下，敦阿都拉萨设立了三个机构以恢复团结：
+
+- **国家亲善理事会**——重新培育各族之间的亲善精神。
+- **国民团结局**——协调团结工作的常设机构。
+- **国家协商理事会（MPN）**——就团结议题与国家方向进行
+  多方讨论的论坛。
+
+根据MKN，"国家原则正是从MPN所举办的各项讨论中诞生的"。
+换言之，国家原则并非某一个人的表述——它是一个代表社会
+各阶层的协商理事会讨论的成果。
+
+## 它是何时、由谁宣布的？
+
+国家原则由**最高元首于1970年8月31日**正式宣布。
+那个日期并非巧合——它被选定为与**马来西亚独立13周年纪念庆典**
+相吻合。
+
+根据马来西亚政府官方门户网站（MyGovernment），此次宣布
+由**第四任最高元首端姑依斯迈纳西鲁丁沙（Tuanku Ismail Nasiruddin
+Shah）**作出。通过将宣布放在独立日，国家原则在象征意义上
+与独立本身的意义紧紧相连：一个决心从多元中建立团结的独立国家。
+
+| 事件 | 日期／详情 |
+| --- | --- |
+| 触发它的事件 | 1969年5月13日 |
+| 拟定的机构 | 国家协商理事会（在MAGERAN之下） |
+| MAGERAN主席 | 敦阿都拉萨（时任副首相） |
+| 正式宣布 | 1970年8月31日 |
+| 宣布者 | 第四任最高元首端姑依斯迈纳西鲁丁沙 |
+| 配合 | 独立13周年纪念 |
+
+## 五大原则背后的五大宏愿是什么？
+
+在列出五大原则之前，国家原则誓言先阐明了国家要达成的五大
+**宏愿**或目标。这一部分常被遗忘，因为它很少被诵读，
+但它解释了这五大原则*为何*存在。
+
+国家的五大宏愿是要：
+
+- 在全体社会之间达致**更紧密的团结**。
+- 维护一种**民主的生活方式**。
+- 创造一个**公正的社会**，让国家的繁荣能够公正而公平地
+  共同享有。
+- 保证对丰富多彩的文化传统持有一种**开明的态度**。
+- 建立一个将运用现代科学与技术的**进步社会**。
+
+请留意宏愿与原则如何相辅相成。宏愿设定*目的地*
+（团结、公正、民主、进步的社会）；原则则设定通往那里的
+*价值基础*。只读其一而不读其二，只会得到一半的图景。
+
+## 国家原则与宪法及《我的国家》国歌有什么区别？
+
+许多人混淆了这些国家象征。每一个都有不同的角色：
+
+| 象征／文件 | 它是什么 | 具法律效力？ |
+| --- | --- | --- |
+| **国家原则** | 国家哲学与誓言（5大原则） | 否——价值指南，非可起诉的法律 |
+| **联邦宪法** | 国家的最高法律 | 是——约束所有其他法律 |
+| **《我的国家》国歌** | 国歌 | 受国歌法律保护 |
+| **辉煌条纹（国旗）** | 国旗 | 国家的正式象征 |
+
+有趣的是，国家原则的第三原则——**维护宪法**——
+直接指向联邦宪法。因此国家原则实际上是*尊崇*宪法为最高法律，
+而非与之竞争。国家原则是价值宣言；宪法则是可强制执行的法律。
+
+## 如何更深入地理解每一项原则？
+
+对于新公民、学生，或任何在熟记却不理解的人来说，
+以下是理解每一项原则背后意图的方法：
+
+- **信奉上苍。** 这一原则承认马来西亚社会是一个有宗教信仰的
+  社会。它强调的是*信奉上苍*，而非规定单一宗教——这与
+  伊斯兰教作为联邦宗教的地位相一致，同时宪法保障宗教自由。
+- **忠于君国。** 要求效忠于君主立宪制度——联邦层级的最高元首
+  以及州层级的统治者或州元首——以及国家。
+- **维护宪法。** 接受联邦宪法为最高法律。"维护"（Keluhuran）
+  意指崇高或尊贵——宪法凌驾于其他法律之上。
+- **尊崇法治。** 每一个人，无论地位如何，都受同样的法律约束。
+  没有任何人凌驾于法律之上。
+- **培养德行。** 最为个人化的原则——要求在日常交往中保持
+  高尚的行为、礼节与品德，包括尊重其他种族的信仰与文化。
+
+## 决策框架：如何根据受众来解释国家原则？
+
+解释国家原则的最佳方式取决于提问者是谁：
+
+| 如果你在向……解释 | 侧重于…… |
+| --- | --- |
+| 学校学生 | 按顺序熟记五大原则＋每一项的简要含义 |
+| 新公民 | 历史脉络（1969年5月13日）与团结目标 |
+| 外国访客 | 它作为多元种族国家团结誓言的角色 |
+| 公民／学术讨论 | 完整的两个部分——五大宏愿与五大原则——及其与宪法的关系 |
+
+关键在于：不要止步于熟记这五行文字。至少要说出它*为何*
+存在（1969年后的团结），好让它的意义保持鲜活。
+
+## 关于国家原则的常见错误
+
+- **将第一原则说成"信奉宗教"。** 经政府来源（MKN与MyGov）
+  证实的官方表述是**"信奉上苍"（Kepercayaan kepada Tuhan）**
+  ——而非宗教。这一用词的差别很重要。
+- **颠倒顺序。** 官方顺序以信奉上苍开始，以培养德行结束。
+  把尊崇法治或维护宪法放错位置是常见的错误。
+- **以为国家原则是宪法的一部分。** 它不是。国家原则是国家
+  誓言与哲学；联邦宪法则是独立的最高法律文件。
+- **把日期与1957年独立日混淆。** 国家原则是在**1970年**
+  8月31日宣布的，而非1957年——尽管两者都落在8月31日。
+  1970年这个日期是*配合*独立13周年纪念而选定的。
+- **把"原则"等同于"宏愿"。** 五大原则是价值基础；五大宏愿
+  是国家目标。两者不同，但在完整誓言中相辅相成。
+
+## 今天在哪里诵读国家原则？
+
+国家原则在马来西亚的公民生活中依然鲜活：
+
+- **学校集会**——集体诵读，尤其在正式集会日。
+- **学校练习簿**——五大原则通常印在学生练习簿的封底。
+- **政府官方仪式**——国家原则誓言常在各种国家典礼与国庆
+  庆典上诵读。
+- **团结计划**——成为国民团结与国民融合局各项活动的
+  基本参照。
+
+## 相关术语
+
+- [独立（Merdeka）：国家呼号背后的词义](/malaysia/merdeka)
+- [最高元首（Yang di-Pertuan Agong）——被推选的联邦王位](/malaysia/yang-di-pertuan-agong)
+- [人民（Rakyat）](/malaysia/rakyat)
+- [土著（Bumiputera）](/malaysia/bumiputera)
+
+## 接下来是什么
+
+如果你想了解作为国家原则在8月31日宣布之背景的独立脉络，
+请从[独立（Merdeka）](/malaysia/merdeka)开始。要理解第二原则
+以及作为忠诚支柱的君主体制，请参阅
+[最高元首（Yang di-Pertuan Agong）](/malaysia/yang-di-pertuan-agong)。
+要理解第三原则——维护宪法——下一步便是阅读关于联邦宪法
+作为国家最高法律的内容，那正是国家原则本身呼吁人民去尊崇的文件。
