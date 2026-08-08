@@ -1,0 +1,140 @@
+---
+topicId: MY-LAW-0067
+title: "刑事程序法典：从逮捕到审讯"
+seoTitle: "马来西亚刑事程序法典（第593号法令）：逮捕、扣留、保释、审讯"
+slug: "criminal-procedure-code"
+category: "law"
+subcategory: ["procedure"]
+summary: "以中立视角说明一宗刑事案件在马来西亚《刑事程序法典》（第593号法令）之下如何推进——从逮捕的那一刻、扣留候查（reman）、提控、保释申请，直到完整审讯。"
+
+tier: "S"
+mode: "practical"
+contentType: "law"
+sensitivity: "legal-proceedings"
+
+answer: "《刑事程序法典》（第593号法令，简称 KTJ / CPC）是规范马来西亚每一宗刑事案件各个阶段的程序法。它规定逮捕如何进行以及被捕者的权利（第15条与第28A条）、无提控扣留的时限——即须在裁判官（Majistret）面前申请扣留候查前的24小时（第117条）、可保释与不可保释罪行的保释资格（第387条与第388条），以及控状如何宣读、审讯如何进行直至定罪或释放。KTJ 是《刑事法典》的程序性伴侣，后者界定罪行本身。"
+keyTakeaways:
+  - "KTJ（第593号法令）规范的是程序，而非界定罪行——《刑事法典》界定罪行，KTJ 则规定这些罪行如何被调查与审讯。"
+  - "KTJ 第28A条把被捕者的权利编成法典：被告知逮捕理由、联络亲属或律师，以及与所选律师商议。"
+  - "在第117条之下，未经裁判官的扣留候查令，警方不得扣留超过24小时。"
+  - "对于可判处监禁少于14年的罪行，扣留候查最长为7天；对于死刑或14年及以上监禁的罪行，则为14天。"
+  - "可保释罪行（第387条）赋予保释的权利；不可保释罪行（第388条）则取决于法庭的酌情权。"
+  - "在审讯结束时，只有当控方证明案件超越合理怀疑（第182A条），法庭才会定罪。"
+appliesTo: "普通民众、被告及其家属、记者、法律系学生，以及任何想了解马来西亚刑事程序流程的人。"
+
+faq:
+  - q: "警方在把某人带上法庭之前，可以扣留他多久？"
+    a: "不得超过24小时（不包括前往法庭所必需的行程时间）。若要扣留更久，警方必须把该人带到裁判官面前，并根据 KTJ 第117条申请扣留候查令。"
+  - q: "可保释罪行与不可保释罪行有什么区别？"
+    a: "对于可保释罪行（第387条），被告有权获得保释。对于不可保释罪行（第388条），是否准予保释由法庭酌情决定；对于可判处死刑或终身监禁的罪行，一般不准予保释，但受某些例外规定的约束。"
+  - q: "审讯中的『表面证据成立的案件』（prima facie）是什么意思？"
+    a: "它是指控方所呈上的证据，若不被反驳或不加以解释，即足以支持定罪。若表面证据成立，被告将被令自辩；若不成立，被告将被释放。"
+
+lang: "zh"
+sourceContentHash: "5c000067f01e0ea2"
+masterLanguage: "ms"
+translationStatus: "in-sync"
+
+status: "published"
+aiAssisted: true
+reviewer: "ashton-tan"
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
+version: "0.2"
+verificationNeeded:
+  - "Had reman di bawah seksyen 117 (4+3 hari sehingga 7 hari; 7+7 hari sehingga 14 hari) perlu disemak semula terhadap teks seksyen 117(2) dalam cetakan Akta 593 yang sedang berkuat kuasa."
+  - "Kandungan tepat dan sebarang pengecualian/pengehadan hak di bawah seksyen 28A perlu disahkan terhadap teks statut rasmi."
+  - "Nombor seksyen 173 (perbicaraan ringkas) dan 180 (Mahkamah Tinggi) serta 182A perlu disahkan terhadap cetakan Akta 593 semasa; pemetaan kepada jenis mahkamah boleh berubah dengan pindaan."
+  - "Rujukan Perkara 5(3) dan 5(4) Perlembagaan Persekutuan perlu disemak terhadap cetakan rasmi terkini (fail AGC berbentuk binari dan tidak dapat disahkan teksnya secara dalam-talian)."
+  - "Kemas kini Akta 593 (setakat 18.10.2021 dalam pautan) perlu disemak sama ada masih cetakan terkini pada tarikh penerbitan."
+revisions:
+  - version: "0.1"
+    date: 2026-08-07
+    change: "Initial AI draft."
+    reviewer: null
+  - version: "0.2"
+    date: 2026-08-07
+    change: "Correction pass: removed duplicate Mondaq source and mismatched Low & Partners 'Part 3' source, added AGC Federal Constitution reprint for Perkara 5 claims and TKP Law for trial-procedure section, and neutralised the dramatised opening."
+    reviewer: null
+
+updated: 2026-08-07
+sources:
+  - title: "Criminal Procedure Code (Act 593), teks rasmi"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1688322_BI/ACT%20593_CRIMINAL%20%20PROCEDURE%20CODE_18.10.2021.pdf"
+    publisher: "Attorney General's Chambers of Malaysia (Laws of Malaysia)"
+  - title: "Federal Constitution (Reprint As at 15 October 2020), teks rasmi — Perkara 5"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
+    publisher: "Attorney General's Chambers of Malaysia (Laws of Malaysia)"
+  - title: "FAQ on Arrest, Remand and Bail in Malaysia"
+    url: "https://mahwengkwai.com/faq-on-arrest-remand-and-bail-in-malaysia/"
+    publisher: "MahWengKwai & Associates"
+  - title: "Understanding Criminal Proceedings in Malaysia (An Easy Guide)"
+    url: "https://www.tkplaw.co/articles_18.html"
+    publisher: "Teh Kim Poo & Co (TKP Law)"
+
+entity: "Criminal Procedure Code (Act 593)"
+relations:
+  - { rel: "related-to", to: "penal-code" }
+  - { rel: "explained-in", to: "rights-when-arrested-malaysia" }
+related: ["penal-code", "rights-when-arrested-malaysia"]
+keywords: ["kanun tatacara jenayah", "akta 593", "criminal procedure code", "reman", "seksyen 117", "ikat jamin", "seksyen 28A", "tangkapan", "perbicaraan jenayah", "prima facie"]
+---
+
+当一个人在马来西亚被逮捕后，接下来会发生什么——他是被释放、被扣留、被起诉还是被审讯——并非随意决定的。这一切都由《刑事程序法典》（第593号法令，简称 KTJ）逐步规定。
+
+## KTJ 规范什么，又不规范什么？
+
+KTJ 并不界定什么是罪行。那是《刑事法典》及其他成文法的工作，它们列出诸如偷窃、抢劫或杀人等罪行及其刑罚。相反，KTJ 是这些法律的程序性伴侣：它规定一宗案件*如何*从逮捕的那一刻推进到法庭的裁决。
+
+它的作用是在两种利益之间取得平衡。一方面，是国家进行调查与起诉的权力；另一方面，是《联邦宪法》第5条所保障的个人权利。以下每一个阶段——逮捕、扣留候查、保释与审讯——都是这两种利益交汇之处。
+
+## 逮捕的那一刻会发生什么？
+
+根据 KTJ 第15条，当执法人员触碰或拘禁欲逮捕之人的身体时，逮捕即告发生，除非该人以言语或行动主动投降。逮捕可以带令状或不带令状进行，视罪行类型而定。
+
+KTJ 第28A条把被捕者的权利编成法典，与《宪法》第5(3)条一致，后者保障被告知逮捕理由的权利，以及与所选律师商议的权利。所列权利包括：
+
+- 由逮捕人员告知逮捕理由的权利。
+- 联络一名亲属或朋友，以告知本人已被逮捕及其所在地点的权利。
+- 联络并与一名所选律师商议的权利。
+- 与律师的商议可在扣留场所进行，处于警员的视线范围内，但需足够私密，以致谈话内容不会被听见。
+
+同一条文规定，对被捕者的盘问一般会延后，直到与其所选律师的商议进行为止。法律中就特定情形设有某些例外与限制，而这些权利的适用有时会成为法庭上具争议的课题。
+
+## 一个人在被起诉前可以被扣留多久？
+
+这或许是 KTJ 中最常被误解的部分。逮捕之后，警方不能为了调查而无限期地扣留一个人。《联邦宪法》第5(4)条规定，被逮捕而未获释放的人，必须在24小时内（不包括前往法庭所必需的行程时间）被带到裁判官面前，未经裁判官许可不得扣留更久。
+
+若调查无法在24小时内完成，警方必须把该人带到裁判官面前，并根据 KTJ 第117条申请扣留候查令。决定是否以及扣留延续多久的是裁判官——而非警方。最长时限视被调查罪行的严重程度而有所不同：
+
+| 罪行严重程度 | 首次扣留候查 | 第二次扣留候查 | 最长总数 |
+| --- | --- | --- | --- |
+| 可判处监禁少于14年 | 最多4天 | 最多3天 | 7天 |
+| 死刑或14年及以上监禁 | 最多7天 | 最多7天 | 14天 |
+
+扣留候查是为协助调查而进行的扣留，既非刑罚，也非提控。在扣留候查期结束时，调查人员通常须要么提出控状、释放该人，要么（在某些情形下）申请进一步的命令。裁判官所批准的期限，常成为控方与辩护律师争论的课题。
+
+## 一个人何时可以获得保释？
+
+保释是指以该人须再次出庭为条件，将其从扣留中释放。KTJ 通过《第一附表》，把罪行归类为不同类别，以决定保释待遇。
+
+对于**可保释罪行**（第387条），被告原则上有权获得保释。对于**不可保释罪行**（第388条），准予保释并非自动的权利，而是取决于法庭的酌情权。在权衡该酌情权时，法庭通常会考量诸如被告潜逃的可能性、再犯的风险，以及可能对调查造成干扰等因素。
+
+对于可判处死刑或终身监禁的罪行，一般不准予保释，但受法律就特定群体所规定的某些例外的约束，例如未达某一年龄者、妇女或体弱者。除了法庭准予的保释之外，法律在特定情形下也允许在提控前于警方阶段获释。是否应准予保释，以及金额为何，往往会在主案审理之前作为一个独立的问题被辩论。
+
+## 刑事审讯如何进行？
+
+当调查完成并作出起诉决定后，案件便进入法庭阶段。其流程大致如下：
+
+1. **宣读控状。** 被告被带上法庭，说明特定罪行的控状被宣读并向其解释。
+2. **答辩。** 被告认罪或不认罪。在充分理解下作出的认罪，可导致无须完整审讯即定罪；不认罪则使案件进入审讯。
+3. **控方举证。** 控方传召证人并呈上证据。辩护律师有权盘问证人。
+4. **表面证据成立与否的评估。** 在控方举证结束时，法庭评估是否存在表面证据成立的案件——即若不被反驳或不加以解释即足以支持定罪的证据（简易审讯适用第173条；高等法院审讯适用第180条）。若不存在，被告将在此阶段被释放。
+5. **辩护。** 若表面证据成立，被告将被令自辩，并可提供证据及传召证人。
+6. **裁决。** 在审讯结束时，只有当控方证明其案件超越合理怀疑（第182A条），法庭才会将被告定罪；否则，被告将被释放。
+
+法庭的类型与确切程序取决于罪行的严重程度——裁判法庭、推事法庭（Mahkamah Sesyen）或高等法院分别处理不同范围的案件。对裁决不满的一方，通常有向更高一级法院上诉的途径。
+
+## 接下来该做什么
+
+KTJ 是一套程序框架，阅读本文并不能取代第593号法令的正式条文或法律意见。要理解全貌，KTJ 最好与界定罪行本身的《刑事法典》一并阅读，也与第5条之下的宪法权利一并阅读。任何面对实际情况的人——无论是被逮捕、被扣留候查还是被起诉——都应咨询合格的律师，因为每一条文的适用都取决于每宗案件的具体事实。
