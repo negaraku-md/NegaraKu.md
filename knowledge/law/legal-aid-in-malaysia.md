@@ -1,4 +1,5 @@
 ---
+topicId: MY-LAW-0081
 title: "Bantuan Guaman: Cara Mendapat Khidmat Guaman Percuma atau Bersubsidi"
 seoTitle: "Bantuan Guaman Percuma di Malaysia: Kelayakan & Cara Memohon"
 slug: "legal-aid-in-malaysia"

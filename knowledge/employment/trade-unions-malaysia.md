@@ -1,4 +1,5 @@
 ---
+topicId: MY-EMP-0054
 title: "Kesatuan Sekerja di Malaysia: Penubuhan, Pendaftaran dan Reformasi Akta 2024"
 seoTitle: "Kesatuan Sekerja Malaysia: Cara Tubuh, Daftar & Pindaan Akta 262"
 slug: "trade-unions-malaysia"

@@ -1,4 +1,5 @@
 ---
+topicId: MY-TAX-0129
 title: "Does Malaysia Tax Inheritance? Estate and Death-Related Tax Rules"
 seoTitle: "Inheritance and Estate Tax in Malaysia: What Applies When Someone Dies"
 slug: "inheritance-and-estate-tax"

@@ -1,4 +1,5 @@
 ---
+topicId: MY-ECO-0028
 title: "Industri Halal Malaysia: Persijilan, Perdagangan dan Strategi Hab Halal Global"
 seoTitle: "Industri Halal Malaysia: Persijilan JAKIM, Eksport dan Hab Halal"
 slug: "halal-industry-malaysia"

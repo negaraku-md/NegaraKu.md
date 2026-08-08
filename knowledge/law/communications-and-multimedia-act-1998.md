@@ -1,4 +1,5 @@
 ---
+topicId: MY-LAW-0064
 title: "Akta Komunikasi dan Multimedia 1998: Mengawal Selia Pertuturan Dalam Talian"
 seoTitle: "Akta Komunikasi dan Multimedia 1998 & Seksyen 233 Dijelaskan"
 slug: "communications-and-multimedia-act-1998"

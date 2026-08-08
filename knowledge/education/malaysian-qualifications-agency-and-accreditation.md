@@ -1,4 +1,5 @@
 ---
+topicId: MY-LIV-0115
 title: "MQA and Degree Accreditation in Malaysia"
 seoTitle: "MQA Accreditation and the MQF: Is Your Malaysian Degree Recognised?"
 slug: "malaysian-qualifications-agency-and-accreditation"

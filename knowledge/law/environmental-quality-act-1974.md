@@ -1,4 +1,5 @@
 ---
+topicId: MY-LAW-0069
 title: "Akta Kualiti Alam Sekeliling 1974"
 seoTitle: "Akta Kualiti Alam Sekeliling 1974 (Akta 127): EIA, Denda & Jabatan Alam Sekitar"
 slug: "environmental-quality-act-1974"

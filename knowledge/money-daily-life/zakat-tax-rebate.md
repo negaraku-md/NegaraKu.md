@@ -1,4 +1,5 @@
 ---
+topicId: MY-LIV-0128
 title: "Zakat sebagai Rebat Cukai: Cara Ia Berfungsi untuk Pembayar Cukai Muslim"
 seoTitle: "Zakat Rebat Cukai LHDN: Seksyen 6A Akta Cukai Pendapatan 1967"
 slug: "zakat-tax-rebate"

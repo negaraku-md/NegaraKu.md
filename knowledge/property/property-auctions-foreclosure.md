@@ -1,4 +1,5 @@
 ---
+topicId: MY-LIV-0134
 title: "Buying a Property at Auction (Bank Lelong)"
 seoTitle: "Bank Lelong Malaysia: How Auction Property Buying Works"
 slug: "property-auctions-foreclosure"

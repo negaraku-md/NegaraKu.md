@@ -1,4 +1,5 @@
 ---
+topicId: MY-LIV-0136
 title: "Cukai Keuntungan Harta Tanah (RPGT) Semasa Menjual Hartanah"
 seoTitle: "RPGT Malaysia: Kadar, Pengiraan & Pemfailan Cukai Penjual"
 slug: "real-property-gains-tax"

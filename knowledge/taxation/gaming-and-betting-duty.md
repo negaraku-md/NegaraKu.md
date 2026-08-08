@@ -1,4 +1,5 @@
 ---
+topicId: MY-TAX-0128
 title: "Duti Perjudian, Kasino dan Pertaruhan di Malaysia"
 seoTitle: "Duti Kasino, Mesin Permainan & Pertaruhan Malaysia"
 slug: "gaming-and-betting-duty"

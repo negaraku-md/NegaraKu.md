@@ -1,4 +1,5 @@
 ---
+topicId: MY-CS-0054
 title: "Registering a Foreign Company (Branch) in Malaysia"
 seoTitle: "Foreign Company (Branch) Registration in Malaysia: SSM Guide"
 slug: "foreign-company-registration-malaysia"

@@ -1,4 +1,5 @@
 ---
+topicId: MY-LIV-0112
 title: "Pendidikan Murid Pintar dan Berbakat (PERMATApintar)"
 seoTitle: "PERMATApintar: Pusat Pendidikan Pintar Berbakat Negara di UKM"
 slug: "gifted-and-talented-education"

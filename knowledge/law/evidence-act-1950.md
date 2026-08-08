@@ -1,4 +1,5 @@
 ---
+topicId: MY-LAW-0071
 title: "Akta Keterangan 1950: Apa yang Dikira sebagai Bukti di Mahkamah"
 seoTitle: "Akta Keterangan 1950 Malaysia: Kebolehterimaan, Beban Bukti & Keistimewaan"
 slug: "evidence-act-1950"

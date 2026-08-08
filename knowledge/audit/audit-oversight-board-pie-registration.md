@@ -1,4 +1,5 @@
 ---
+topicId: MY-AUD-0018
 title: "The Audit Oversight Board and Registration of Auditors for Public Interest Entities"
 seoTitle: "AOB Registration Malaysia: PIE Auditor Rules Under Part IIIA SCMA"
 slug: "audit-oversight-board-pie-registration"

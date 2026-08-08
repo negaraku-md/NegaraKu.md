@@ -1,4 +1,5 @@
 ---
+topicId: MY-HIS-0072
 title: "Barisan Nasional: Formation, Component Parties and 44 Years as the Governing Coalition"
 seoTitle: "Barisan Nasional: History, Component Parties and Federal Rule"
 slug: "barisan-nasional"

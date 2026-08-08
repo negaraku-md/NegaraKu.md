@@ -1,4 +1,5 @@
 ---
+topicId: MY-ACC-0031
 title: "Rekod Perakaunan untuk PLT: Bagaimana Peraturan Perkongsian Liabiliti Terhad Berbeza daripada Sdn Bhd"
 seoTitle: "Rekod Perakaunan PLT: Seksyen 68 & 69 Akta PLT 2012"
 slug: "llp-accounting-records"

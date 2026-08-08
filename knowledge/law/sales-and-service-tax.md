@@ -1,4 +1,5 @@
 ---
+topicId: MY-LAW-0089
 title: "Sales and Service Tax (SST)"
 seoTitle: "Malaysia Sales and Service Tax (SST): Rates, Thresholds & Compliance"
 slug: "sales-and-service-tax"

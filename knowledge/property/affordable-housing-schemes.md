@@ -1,4 +1,5 @@
 ---
+topicId: MY-LIV-0129
 title: "Skim Rumah Mampu Milik Kerajaan (PR1MA, Residensi Wilayah, Rumah Mesra Rakyat)"
 seoTitle: "Skim Rumah Mampu Milik Kerajaan Malaysia: Kelayakan & Cara Mohon"
 slug: "affordable-housing-schemes"

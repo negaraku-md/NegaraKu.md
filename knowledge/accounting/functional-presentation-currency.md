@@ -1,4 +1,5 @@
 ---
+topicId: MY-ACC-0030
 title: "Functional and Presentation Currency: Reporting in MYR vs a Foreign Currency"
 seoTitle: "Functional vs Presentation Currency Under MFRS 121 (Malaysia)"
 slug: "functional-presentation-currency"

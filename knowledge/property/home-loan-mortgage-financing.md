@@ -1,4 +1,5 @@
 ---
+topicId: MY-LIV-0131
 title: "Pinjaman Perumahan dan Pembiayaan Gadai Janji di Malaysia"
 seoTitle: "Pinjaman Perumahan Malaysia: Margin, KWSP, SJKP & Duti Setem"
 slug: "home-loan-mortgage-financing"

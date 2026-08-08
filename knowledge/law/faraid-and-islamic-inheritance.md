@@ -1,4 +1,5 @@
 ---
+topicId: MY-LAW-0072
 title: "Faraid: Undang-Undang Pusaka Islam di Malaysia"
 seoTitle: "Faraid: Panduan Pembahagian Harta Pusaka Islam Malaysia"
 slug: "faraid-and-islamic-inheritance"

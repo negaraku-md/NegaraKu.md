@@ -1,4 +1,5 @@
 ---
+topicId: MY-LIV-0118
 title: "PIBG dan Kos Bersekolah di Sekolah Kerajaan"
 seoTitle: "PIBG dan Yuran Sekolah Kerajaan Malaysia: Apa Yang Wajib Dibayar?"
 slug: "pibg-and-school-fees"

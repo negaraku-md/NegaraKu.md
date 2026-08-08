@@ -1,4 +1,5 @@
 ---
+topicId: MY-LAW-0080
 title: "Undang-Undang Perkahwinan dan Perceraian Sivil untuk Bukan Islam"
 seoTitle: "Akta 164: Perkahwinan & Perceraian Sivil Bukan Islam di Malaysia"
 slug: "law-reform-marriage-and-divorce-act-1976"

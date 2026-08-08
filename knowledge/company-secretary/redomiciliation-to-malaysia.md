@@ -1,4 +1,5 @@
 ---
+topicId: MY-CS-0055
 title: "Redomiciliation of a Foreign Corporation to Malaysia"
 seoTitle: "Redomiciliation to Malaysia: How a Foreign Company Continues Here"
 slug: "redomiciliation-to-malaysia"

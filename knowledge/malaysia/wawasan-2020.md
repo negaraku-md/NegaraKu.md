@@ -1,4 +1,5 @@
 ---
+topicId: MY-HIS-0078
 title: "Wawasan 2020: Visi Malaysia dan Sembilan Cabaran Negara"
 seoTitle: "Wawasan 2020: Visi Mahathir dan Sembilan Cabaran"
 slug: "wawasan-2020"

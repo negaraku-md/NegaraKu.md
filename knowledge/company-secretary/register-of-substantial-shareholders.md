@@ -1,4 +1,5 @@
 ---
+topicId: MY-CS-0056
 title: "Register of Substantial Shareholders (Public Companies)"
 seoTitle: "Register of Substantial Shareholders in Malaysia — Section 144, Companies Act 2016"
 slug: "register-of-substantial-shareholders"

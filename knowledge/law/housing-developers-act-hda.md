@@ -1,4 +1,5 @@
 ---
+topicId: MY-LAW-0073
 title: "Housing Development (Control and Licensing) Act 1966"
 seoTitle: "Akta Pemajuan Perumahan 1966 (HDA): Panduan Perlindungan Pembeli Rumah"
 slug: "housing-developers-act-hda"

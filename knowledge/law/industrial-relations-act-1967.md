@@ -1,4 +1,5 @@
 ---
+topicId: MY-LAW-0075
 title: "Akta Perhubungan Perusahaan 1967: Kesatuan Sekerja dan Pembuangan Kerja Tidak Adil"
 seoTitle: "Akta Perhubungan Perusahaan 1967 Malaysia: Kesatuan & Pembuangan Tidak Adil"
 slug: "industrial-relations-act-1967"

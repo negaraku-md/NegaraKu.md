@@ -1,4 +1,5 @@
 ---
+topicId: MY-TAX-0127
 title: "Duti Eksais di Malaysia: Kereta, Alkohol, Rokok dan Minuman Bergula"
 seoTitle: "Duti Eksais Malaysia: Kadar Kereta, Rokok, Alkohol & Minuman Bergula"
 slug: "excise-duty"

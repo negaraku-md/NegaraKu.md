@@ -1,4 +1,5 @@
 ---
+topicId: MY-LIV-0149
 title: "Registering a Muslim Marriage: The State Islamic Religious Department Process"
 seoTitle: "How to Register a Muslim Marriage in Malaysia (SPPIM, Wali, Akad Nikah)"
 slug: "registering-a-muslim-marriage"

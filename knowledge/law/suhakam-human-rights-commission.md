@@ -1,4 +1,5 @@
 ---
+topicId: MY-LAW-0092
 title: "SUHAKAM: Suruhanjaya Hak Asasi Manusia Malaysia"
 seoTitle: "SUHAKAM: Suruhanjaya Hak Asasi Manusia Malaysia (Akta 597)"
 slug: "suhakam-human-rights-commission"

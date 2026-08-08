@@ -1,4 +1,5 @@
 ---
+topicId: MY-LIV-0154
 title: "Cukai Jalan Kereta Elektrik di Malaysia: Struktur Baharu Berasaskan Kilowatt (kW)"
 seoTitle: "Cukai Jalan EV Malaysia: Kadar kW Baharu & Berapa Anda Bayar"
 slug: "electric-vehicle-ownership"

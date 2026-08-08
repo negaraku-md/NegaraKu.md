@@ -1,4 +1,5 @@
 ---
+topicId: MY-BIZ-0114
 title: "EXIM Bank Malaysia: Export Credit Insurance and Trade Financing"
 seoTitle: "EXIM Bank Malaysia: Trade Credit Takaful, Insurance and Export Financing"
 slug: "exim-bank-trade-financing-malaysia"

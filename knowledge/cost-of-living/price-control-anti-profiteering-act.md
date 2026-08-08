@@ -1,4 +1,5 @@
 ---
+topicId: MY-LIV-0109
 title: "Bagaimana Malaysia Mengawal Pencatutan Harga: Akta Antipencatutan dan Op Catut"
 seoTitle: "Akta Kawalan Harga dan Antipencatutan 2011: Untung Berlebihan & Penalti"
 slug: "price-control-anti-profiteering-act"

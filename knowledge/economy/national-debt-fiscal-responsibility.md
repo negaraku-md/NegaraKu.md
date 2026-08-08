@@ -1,4 +1,5 @@
 ---
+topicId: MY-ECO-0031
 title: "Hutang Persekutuan Malaysia: Apa yang Sebenarnya Dihadkan oleh Akta Tanggungjawab Fiskal"
 seoTitle: "Hutang Kerajaan Persekutuan & Akta Tanggungjawab Fiskal 2023 (Akta 850)"
 slug: "national-debt-fiscal-responsibility"

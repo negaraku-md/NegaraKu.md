@@ -1,4 +1,5 @@
 ---
+topicId: MY-LAW-0077
 title: "Intellectual Property Law: Trademarks, Patents and Copyright"
 seoTitle: "Malaysia Intellectual Property Law: Trademarks, Patents, Copyright Guide"
 slug: "intellectual-property-law-malaysia"

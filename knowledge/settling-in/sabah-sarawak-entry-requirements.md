@@ -1,4 +1,5 @@
 ---
+topicId: MY-LIV-0151
 title: "Masuk ke Sabah dan Sarawak: Kawalan Imigresen Tersendiri untuk Rakyat Malaysia Sekalipun"
 seoTitle: "Syarat Masuk Sabah & Sarawak: Dokumen Imigresen untuk Rakyat Malaysia"
 slug: "sabah-sarawak-entry-requirements"

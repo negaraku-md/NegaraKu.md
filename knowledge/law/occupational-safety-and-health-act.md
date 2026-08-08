@@ -1,4 +1,5 @@
 ---
+topicId: MY-LAW-0083
 title: "Akta Keselamatan dan Kesihatan Pekerjaan: Tanggungjawab Majikan"
 seoTitle: "Tanggungjawab Majikan di Bawah OSHA 1994 (Akta 514)"
 slug: "occupational-safety-and-health-act"

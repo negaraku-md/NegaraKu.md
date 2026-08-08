@@ -1,4 +1,5 @@
 ---
+topicId: MY-LIV-0124
 title: "KWSP dan PERKESO untuk Pekerja Gig, Freelancer dan Bekerja Sendiri"
 seoTitle: "KWSP & PERKESO Pekerja Gig dan Bekerja Sendiri Malaysia"
 slug: "epf-socso-gig-workers-self-employed"

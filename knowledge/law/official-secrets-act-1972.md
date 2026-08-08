@@ -1,4 +1,5 @@
 ---
+topicId: MY-LAW-0084
 title: "Akta Rahsia Rasmi 1972"
 seoTitle: "Akta Rahsia Rasmi 1972 (Akta 88): Pengelasan, Hukuman dan Perdebatan"
 slug: "official-secrets-act-1972"

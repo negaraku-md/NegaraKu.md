@@ -1,4 +1,5 @@
 ---
+topicId: MY-STA-0026
 title: "Sabah and Sarawak Land Law and Native Customary Rights (NCR)"
 seoTitle: "Sabah & Sarawak Land Law and Native Customary Rights Explained"
 slug: "sabah-sarawak-land-law-and-native-customary-rights"

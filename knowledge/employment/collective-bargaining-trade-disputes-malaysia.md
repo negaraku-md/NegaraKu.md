@@ -1,4 +1,5 @@
 ---
+topicId: MY-EMP-0048
 title: "Rundingan Kolektif dan Pertikaian Perusahaan: Proses di Bawah Akta Perhubungan Perusahaan"
 seoTitle: "Rundingan Kolektif & Pertikaian Perusahaan di Malaysia (Akta 177)"
 slug: "collective-bargaining-trade-disputes-malaysia"

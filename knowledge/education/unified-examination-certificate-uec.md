@@ -1,4 +1,5 @@
 ---
+topicId: MY-LIV-0120
 title: "Sijil Peperiksaan Bersama (UEC)"
 seoTitle: "Sijil Peperiksaan Bersama (UEC): Apa Ia dan Isu Pengiktirafan"
 slug: "unified-examination-certificate-uec"

@@ -1,4 +1,5 @@
 ---
+topicId: MY-LIV-0107
 title: "Where Malaysia Ranks in Global Cost-of-Living Indices"
 seoTitle: "Malaysia in Global Cost of Living Rankings: Mercer, Numbeo, EIU"
 slug: "malaysia-global-cost-of-living-rankings"

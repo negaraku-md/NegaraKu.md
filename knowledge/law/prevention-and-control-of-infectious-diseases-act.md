@@ -1,4 +1,5 @@
 ---
+topicId: MY-LAW-0085
 title: "Akta Pencegahan dan Pengawalan Penyakit Berjangkit 1988 (Akta 342)"
 seoTitle: "Akta 342: Akta Pencegahan dan Pengawalan Penyakit Berjangkit Malaysia"
 slug: "prevention-and-control-of-infectious-diseases-act"

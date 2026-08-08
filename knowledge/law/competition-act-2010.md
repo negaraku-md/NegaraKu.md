@@ -1,4 +1,5 @@
 ---
+topicId: MY-LAW-0065
 title: "Competition Act 2010 and the MyCC"
 seoTitle: "Competition Act 2010 Malaysia: Prohibitions and MyCC Enforcement"
 slug: "competition-act-2010"

@@ -1,4 +1,5 @@
 ---
+topicId: MY-LIV-0119
 title: "Pusat Tuisyen dan Bimbingan Persendirian di Malaysia"
 seoTitle: "Pusat Tuisyen di Malaysia: Pendaftaran, Kos dan Format"
 slug: "tuition-centres-and-private-coaching"

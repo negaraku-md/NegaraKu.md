@@ -1,4 +1,5 @@
 ---
+topicId: MY-LIV-0144
 title: "Menjadi Warganegara Malaysia melalui Pendaftaran: Pasangan, Anak dan Laluan Perlembagaan"
 seoTitle: "Kewarganegaraan Malaysia melalui Pendaftaran (Perkara 15-18)"
 slug: "malaysian-citizenship-by-registration"

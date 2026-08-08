@@ -1,4 +1,5 @@
 ---
+topicId: MY-LAW-0076
 title: "Insolvency and Bankruptcy Law in Malaysia"
 seoTitle: "Insolvency and Bankruptcy Law in Malaysia: A Practical Guide"
 slug: "insolvency-and-bankruptcy-law"
