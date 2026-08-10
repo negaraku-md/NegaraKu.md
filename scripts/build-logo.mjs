@@ -8,6 +8,7 @@
 import { mkdir, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { FLOWER_D, FLOWER_VB, FLOWER_CX, FLOWER_CY } from './logo-flower.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const OUT = path.join(ROOT, 'public', 'brand');
@@ -26,33 +27,19 @@ const FONT = "Montserrat, 'Segoe UI', Arial, sans-serif";
 // gap kept at 0 so the black meets the outline exactly like the original.
 const HEX = { Ro: 255, border: 11, gap: 0, cr: 34 };
 
-// ── The blossom (favicon geometry, 64-unit space, flower head at 32,28) ──────
-const PETALS = (fill) => `<g fill="${fill}" transform="translate(32 28)">
-      <ellipse cx="0" cy="-13" rx="7.6" ry="11.5"/>
-      <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(72)"/>
-      <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(144)"/>
-      <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(216)"/>
-      <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(288)"/>
-    </g>`;
-const STEM = (fill) => `<path d="M32 28 C 32 39, 33 47, 35.5 54" stroke="${fill}" stroke-width="2.6" fill="none" stroke-linecap="round"/>
-    <circle cx="35.6" cy="54.2" r="2.5" fill="${fill}"/>
-    <circle cx="31" cy="49.5" r="1.9" fill="${fill}"/>
-    <circle cx="38.4" cy="50.4" r="1.9" fill="${fill}"/>`;
-const PISTIL = (fill) => `<circle cx="32" cy="28" r="2.4" fill="${fill}"/>`;
-
-// The blossom with a masked (transparent) centre, so the background shows through
-// the hole. maskId must be unique per SVG document.
-function blossom(fill, maskId) {
-  return `<defs><mask id="${maskId}"><rect width="64" height="64" fill="#fff"/><circle cx="32" cy="28" r="5.3" fill="#000"/></mask></defs>
-    <g mask="url(#${maskId})">${PETALS(fill)}
-    ${STEM(fill)}</g>
-    ${PISTIL(fill)}`;
-}
-
-// Place a blossom so its visual centre (≈32,30 in the 64-unit space) lands at
-// (cx,cy) scaled by s.
-function placeBlossom(cx, cy, s, maskId, accent) {
-  return `<g transform="translate(${(cx - 32 * s).toFixed(2)} ${(cy - 30 * s).toFixed(2)}) scale(${s})">${blossom(accent, maskId)}</g>`;
+// ── The Bunga Raya (hibiscus) object ─────────────────────────────────────────
+// v2 logo: an exact vector trace of the national-flower emblem (see
+// scripts/logo-flower.mjs), replacing the v1 abstract blossom. The white
+// creases are negative space (fill-rule evenodd), so the badge black shows
+// through them. Version 1 is archived in public/brand/v1/.
+//
+// Place the flower so its CENTROID (FLOWER_CX,FLOWER_CY in the FLOWER_VB box)
+// lands at (cx,cy) — optical centring — sized so its larger side spans `size`.
+function placeFlower(cx, cy, size, fill) {
+  const sc = size / FLOWER_VB;
+  const tx = (cx - FLOWER_CX * sc).toFixed(2);
+  const ty = (cy - FLOWER_CY * sc).toFixed(2);
+  return `<g transform="translate(${tx} ${ty}) scale(${sc.toFixed(5)})"><path fill="${fill}" fill-rule="evenodd" d="${FLOWER_D}"/></g>`;
 }
 
 // Pointy-top hexagon vertex list at vertex-radius R, centred (cx,cy).
@@ -76,7 +63,7 @@ function badgeBody(accent) {
   const Rb = blackOuter - cr / 2;  // black polygon vertex radius
   return `<polygon points="${hexPts(256, 256, Rb)}" fill="${BADGE_BLACK}" stroke="${BADGE_BLACK}" stroke-width="${cr}" stroke-linejoin="round"/>
   <polygon points="${hexPts(256, 256, Rw)}" fill="none" stroke="${BORDER}" stroke-width="${border}" stroke-linejoin="round" stroke-linecap="round"/>
-  ${placeBlossom(256, 256, 5.7, 'bh', accent)}`;
+  ${placeFlower(256, 256, 300, accent)}`;
 }
 
 // ── The badge (primary logo), 512-unit canvas ──
@@ -84,8 +71,8 @@ const badgeSvg = (px, accent) => `<svg xmlns="http://www.w3.org/2000/svg" width=
   ${badgeBody(accent)}
 </svg>`;
 
-// Flat mark: the blossom alone (transparent centre), for monochrome / tiny use.
-const markSvg = (px, accent) => `<svg xmlns="http://www.w3.org/2000/svg" width="${px}" height="${px}" viewBox="0 0 64 64">${blossom(accent, 'bh')}</svg>`;
+// Flat mark: the flower alone (creases transparent), for monochrome / tiny use.
+const markSvg = (px, accent) => `<svg xmlns="http://www.w3.org/2000/svg" width="${px}" height="${px}" viewBox="0 0 ${FLOWER_VB} ${FLOWER_VB}"><path fill="${accent}" fill-rule="evenodd" d="${FLOWER_D}"/></svg>`;
 
 // Horizontal lockup: badge + "NegaraKu.md" wordmark. bg=null → transparent.
 const lockupSvg = (w, h, bg, accent) =>
@@ -132,10 +119,12 @@ async function main() {
 
   const readme = `# NegaraKu.md — brand assets
 
-The logo is a **black rounded hexagon** (1company badge shape) with the
-**five-petal gold blossom** (stem + buds) in place of the "1". \`build-logo.mjs\`
-is the single source of truth — it also writes \`public/favicon.svg\`, so the
-site icon and this kit can never drift.
+The logo (v2) is a **black rounded hexagon** (1company badge shape) with the
+**gold Bunga Raya** — an exact vector trace of Malaysia's national-flower emblem
+— in place of the "1". \`build-logo.mjs\` is the single source of truth (shape in
+\`scripts/logo-flower.mjs\`); it also writes \`public/favicon.svg\`, so the site
+icon and this kit can never drift. **Version 1** (the abstract blossom) is
+archived in \`public/brand/v1/\`.
 
 Two accents are provided: **Gold** (default file names) and **Bright Red**
 (same names with a \`-red\` suffix), matching the site's Black·Gold and Black·Red
@@ -145,7 +134,7 @@ themes.
 | File | Use |
 |---|---|
 | \`negaraku-icon.svg\` / \`-icon-1024.png\` / \`-512.png\` | The hexagon badge — favicon, app icon, avatar, primary logo |
-| \`negaraku-mark.svg\` / \`-mark-1024.png\` / \`-512.png\` | Flat blossom, transparent centre — bullets / tiny / monochrome use on any bg |
+| \`negaraku-mark.svg\` / \`-mark-1024.png\` / \`-512.png\` | Flat hibiscus, transparent creases — bullets / tiny / monochrome use on any bg |
 | \`negaraku-lockup.svg\` / \`-lockup-transparent-1800.png\` | Badge + wordmark, transparent |
 | \`negaraku-lockup-dark.svg\` / \`-lockup-dark-1800.png\` | Badge + wordmark on the dark brand canvas |
 

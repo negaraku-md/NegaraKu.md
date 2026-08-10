@@ -7,6 +7,7 @@
 import { mkdir, writeFile, readFile } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { FLOWER_D, FLOWER_VB, FLOWER_CX, FLOWER_CY } from './logo-flower.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const OUT_DIR = path.join(ROOT, 'public', 'og');
@@ -88,22 +89,17 @@ const flower = (tx, ty, s) => `<g transform="translate(${tx - 32 * s} ${ty - 28 
     <circle cx="38.4" cy="50.4" r="1.9" fill="#FFC000"/><circle cx="32" cy="28" r="2.4" fill="#FFC000"/>
   </g>`;
 
-// The hexagon BADGE — black hexagon + white border + gold blossom, centred at
-// (cx,cy), width `size` (from public/brand/negaraku-icon.svg).
+// The hexagon BADGE — black hexagon + white border + gold Bunga Raya, centred at
+// (cx,cy), width `size` (matches public/brand/negaraku-icon.svg via logo-flower).
+const FLOWER_SC = 300 / FLOWER_VB;                 // flower spans 300 of the 512 badge
+const FLOWER_TX = 256 - FLOWER_CX * FLOWER_SC;     // centre the flower CENTROID at (256,256)
+const FLOWER_TY = 256 - FLOWER_CY * FLOWER_SC;
 const badge = (cx, cy, size) => {
   const S = size / 512, tx = cx - 256 * S, ty = cy - 256 * S;
   return `<g transform="translate(${tx} ${ty}) scale(${S})">
     <polygon points="256,23.5 54.65,139.75 54.65,372.25 256,488.5 457.35,372.25 457.35,139.75" fill="#0A0A0A" stroke="#0A0A0A" stroke-width="34" stroke-linejoin="round"/>
     <polygon points="256,6.5 39.93,131.25 39.93,380.75 256,505.5 472.07,380.75 472.07,131.25" fill="none" stroke="#FFFFFF" stroke-width="11" stroke-linejoin="round" stroke-linecap="round"/>
-    <g transform="translate(73.6 85) scale(5.7)">
-      <g fill="#FFC000" transform="translate(32 28)">
-        <ellipse cx="0" cy="-13" rx="7.6" ry="11.5"/><ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(72)"/>
-        <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(144)"/><ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(216)"/>
-        <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(288)"/></g>
-      <circle cx="32" cy="28" r="5.3" fill="#0A0A0A"/>
-      <path d="M32 28 C 32 39, 33 47, 35.5 54" stroke="#FFC000" stroke-width="2.6" fill="none" stroke-linecap="round"/>
-      <circle cx="35.6" cy="54.2" r="2.5" fill="#FFC000"/><circle cx="31" cy="49.5" r="1.9" fill="#FFC000"/>
-      <circle cx="38.4" cy="50.4" r="1.9" fill="#FFC000"/><circle cx="32" cy="28" r="2.4" fill="#FFC000"/></g></g>`;
+    <g transform="translate(${FLOWER_TX.toFixed(2)} ${FLOWER_TY.toFixed(2)}) scale(${FLOWER_SC.toFixed(5)})"><path fill="#FFC000" fill-rule="evenodd" d="${FLOWER_D}"/></g></g>`;
 };
 
 // A rounded status chip; returns { w, svg } so callers can lay them out in a row.

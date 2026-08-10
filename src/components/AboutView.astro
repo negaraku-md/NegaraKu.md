@@ -3,6 +3,7 @@ import type { Locale } from '@/lib/categories';
 import { siteStats } from '@/lib/content';
 import { localePath } from '@/lib/i18n';
 import { REPO } from '@/lib/site';
+import { FLOWER_D } from '@/lib/logo';
 import PageHero from './PageHero.astro';
 
 interface Props {
@@ -140,22 +141,8 @@ const faqs = [
 <section class="container block">
   <div class="psec story">
     <header><span>{L('Kisah kami', 'Our story', '我们的故事')}</span></header>
-    <svg class="story-bloom" viewBox="0 0 64 64" aria-hidden="true">
-      <defs><mask id="story-bloom-mask"><rect width="64" height="64" fill="#fff" /><circle cx="32" cy="28" r="5.3" fill="#000" /></mask></defs>
-      <g fill="currentColor" mask="url(#story-bloom-mask)">
-        <g transform="translate(32 28)">
-          <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" />
-          <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(72)" />
-          <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(144)" />
-          <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(216)" />
-          <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(288)" />
-        </g>
-        <path d="M32 28 C 32 39, 33 47, 35.5 54" stroke="currentColor" stroke-width="2.6" fill="none" stroke-linecap="round" />
-        <circle cx="35.6" cy="54.2" r="2.5" />
-        <circle cx="31" cy="49.5" r="1.9" />
-        <circle cx="38.4" cy="50.4" r="1.9" />
-      </g>
-      <circle cx="32" cy="28" r="2.4" fill="currentColor" />
+    <svg class="story-bloom" viewBox="0 0 776 776" aria-hidden="true">
+      <path fill="currentColor" fill-rule="evenodd" d={FLOWER_D} />
     </svg>
     <div class="psec-body prose">
       <p>{L('NegaraKu.md dibina atas satu idea: pengetahuan tentang Malaysia patut mudah dibaca — oleh manusia dan oleh model bahasa besar. Namanya diambil daripada lagu kebangsaan Malaysia.', 'NegaraKu.md is built on one idea: knowledge about Malaysia should be easy to read — by people and by large language models alike. Its name comes from Malaysia\'s national anthem.', 'NegaraKu.md 建立在一个理念之上：关于马来西亚的知识应当便于阅读——无论是人，还是大型语言模型。它的名字取自马来西亚国歌。')}</p>

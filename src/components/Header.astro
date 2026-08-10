@@ -2,6 +2,11 @@
 import type { Locale } from '@/lib/categories';
 import { t, localePath, LOCALES, LOCALE_NAMES } from '@/lib/i18n';
 import { NAV } from '@/lib/nav';
+import { FLOWER_D, FLOWER_VB, FLOWER_CX, FLOWER_CY } from '@/lib/logo';
+// Centre the traced Bunga Raya on its CENTROID in the 512 badge at ~300 units.
+const LOGO_S = 300 / FLOWER_VB;
+const LOGO_TX = 256 - FLOWER_CX * LOGO_S;
+const LOGO_TY = 256 - FLOWER_CY * LOGO_S;
 import { REPO } from '@/lib/site';
 import ReaderSettings from './ReaderSettings.astro';
 
@@ -19,22 +24,8 @@ const { locale, path } = Astro.props;
       <svg class="brand-mark" aria-hidden="true" width="52" height="52" viewBox="0 0 512 512">
         <polygon points="256.00,23.50 54.65,139.75 54.65,372.25 256.00,488.50 457.35,372.25 457.35,139.75" fill="#0A0A0A" stroke="#0A0A0A" stroke-width="34" stroke-linejoin="round" />
         <polygon points="256.00,6.50 39.93,131.25 39.93,380.75 256.00,505.50 472.07,380.75 472.07,131.25" fill="none" stroke="#FFFFFF" stroke-width="11" stroke-linejoin="round" stroke-linecap="round" />
-        <g transform="translate(73.60 85.00) scale(5.7)">
-          <defs><mask id="hdr-bh"><rect width="64" height="64" fill="#fff" /><circle cx="32" cy="28" r="5.3" fill="#000" /></mask></defs>
-          <g mask="url(#hdr-bh)">
-            <g fill="var(--gold)" transform="translate(32 28)">
-              <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" />
-              <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(72)" />
-              <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(144)" />
-              <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(216)" />
-              <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(288)" />
-            </g>
-            <path d="M32 28 C 32 39, 33 47, 35.5 54" stroke="var(--gold)" stroke-width="2.6" fill="none" stroke-linecap="round" />
-            <circle cx="35.6" cy="54.2" r="2.5" fill="var(--gold)" />
-            <circle cx="31" cy="49.5" r="1.9" fill="var(--gold)" />
-            <circle cx="38.4" cy="50.4" r="1.9" fill="var(--gold)" />
-          </g>
-          <circle cx="32" cy="28" r="2.4" fill="var(--gold)" />
+        <g transform={`translate(${LOGO_TX} ${LOGO_TY}) scale(${LOGO_S})`}>
+          <path fill="var(--gold)" fill-rule="evenodd" d={FLOWER_D} />
         </g>
       </svg>
       <span class="brand-text">

@@ -6,6 +6,7 @@ import { type Article, relatedArticles, readingTime, articlesForLocale } from '@
 import { localePath } from '@/lib/i18n';
 import { REPO } from '@/lib/site';
 import { subcatLabel } from '@/lib/subcategories';
+import { FLOWER_D } from '@/lib/logo';
 import TrustBadge from './TrustBadge.astro';
 import FeedbackBar from './FeedbackBar.astro';
 import { readFileSync } from 'node:fs';
@@ -192,22 +193,8 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
 
 <header class="art-hero">
   <div class="container">
-    <svg class="hero-bloom" viewBox="0 0 64 64" aria-hidden="true" data-pagefind-ignore>
-      <defs><mask id="hero-bloom-mask"><rect width="64" height="64" fill="#fff" /><circle cx="32" cy="28" r="5.3" fill="#000" /></mask></defs>
-      <g fill="currentColor" mask="url(#hero-bloom-mask)">
-        <g transform="translate(32 28)">
-          <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" />
-          <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(72)" />
-          <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(144)" />
-          <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(216)" />
-          <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(288)" />
-        </g>
-        <path d="M32 28 C 32 39, 33 47, 35.5 54" stroke="currentColor" stroke-width="2.6" fill="none" stroke-linecap="round" />
-        <circle cx="35.6" cy="54.2" r="2.5" />
-        <circle cx="31" cy="49.5" r="1.9" />
-        <circle cx="38.4" cy="50.4" r="1.9" />
-      </g>
-      <circle cx="32" cy="28" r="2.4" fill="currentColor" />
+    <svg class="hero-bloom" viewBox="0 0 776 776" aria-hidden="true" data-pagefind-ignore>
+      <path fill="currentColor" fill-rule="evenodd" d={FLOWER_D} />
     </svg>
     <p class="crumb" data-pagefind-ignore>
       <a href={localePath('/', locale)}>{L('Laman Utama', 'Home', '首页')}</a> /
