@@ -15,7 +15,7 @@ appears on `github.com/<handle>` — nothing else.**
 - ❌ `Ashton Tan` (display name)
 - ❌ `Ashton` (partial)
 - ❌ `@ashton-tan` (no leading `@`)
-- ❌ `ashton.tan@gmail.com` (not an email)
+- ❌ `you@example.com` (not an email)
 
 This single value is the identity used everywhere a person is recorded.
 

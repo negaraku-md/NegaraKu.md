@@ -26,6 +26,10 @@ Thumbs.db
 .vscode/
 .idea/
 
+# Claude Code local tooling config (personal — never publish)
+.claude/settings.local.json
+.claude/launch.json
+
 # python
 __pycache__/
 *.pyc
