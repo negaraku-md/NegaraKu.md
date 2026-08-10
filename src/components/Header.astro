@@ -217,6 +217,10 @@ const { locale, path } = Astro.props;
     border-radius: 8px;
     text-decoration: none;
   }
+  /* The HTML `hidden` attribute must actually hide a secret nav link — the
+     `.menu-link { display: inline-flex }` above would otherwise override the
+     UA `[hidden] { display: none }`. Higher specificity, no !important. */
+  .nav .menu-link[hidden] { display: none; }
   .menu-btn:hover,
   .menu-link:hover,
   .menu:hover .menu-btn,
