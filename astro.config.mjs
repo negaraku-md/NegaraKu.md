@@ -10,6 +10,9 @@ const SITE = 'https://negaraku.md';
 export default defineConfig({
   site: SITE,
   trailingSlash: 'ignore',
+  // Honor a harness/CI-assigned PORT (enables preview autoPort when 4321 is
+  // busy); fall back to Astro's default 4321 for a plain `npm run dev`.
+  server: { port: Number(process.env.PORT) || 4321, host: true },
   i18n: {
     defaultLocale: 'ms',
     locales: ['ms', 'en', 'zh'],
