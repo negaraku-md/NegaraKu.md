@@ -62,7 +62,12 @@ const { locale, path } = Astro.props;
               </div>
             </div>
           ) : (
-            <a class="menu-link" href={localePath(menu.href ?? '/', locale)}>
+            <a
+              class="menu-link"
+              href={localePath(menu.href ?? '/', locale)}
+              data-secret-nav={menu.secret ? '' : undefined}
+              hidden={menu.secret}
+            >
               {t(menu.label, locale)}
             </a>
           ),
@@ -116,6 +121,23 @@ const { locale, path } = Astro.props;
       location.href = link.href;
     }
   });
+
+  // Secret nav item(s) (e.g. "All Articles"): hidden by default, toggled with
+  // Ctrl+Alt+Shift+A. The choice persists in localStorage so it survives page
+  // navigation on this static, multi-page site. Uses e.code (layout-independent).
+  const SECRET_KEY = 'nav:secret-visible';
+  const secretItems = document.querySelectorAll<HTMLElement>('[data-secret-nav]');
+  if (secretItems.length) {
+    const apply = (on: boolean) => secretItems.forEach((el) => (el.hidden = !on));
+    apply(localStorage.getItem(SECRET_KEY) === '1');
+    document.addEventListener('keydown', (e) => {
+      if (!(e.ctrlKey && e.altKey && e.shiftKey) || e.code !== 'KeyA') return;
+      e.preventDefault();
+      const next = localStorage.getItem(SECRET_KEY) !== '1';
+      localStorage.setItem(SECRET_KEY, next ? '1' : '0');
+      apply(next);
+    });
+  }
 </script>
 
 <style>

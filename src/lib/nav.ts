@@ -10,6 +10,9 @@ export interface NavMenu {
   label: StringKey;
   href?: string; // if set and no items, renders as a plain link
   items?: NavItem[];
+  /** Hidden from the nav by default; revealed via a keyboard shortcut
+      (Ctrl+Alt+Shift+A). The page stays reachable by URL regardless. */
+  secret?: boolean;
 }
 
 export const NAV: NavMenu[] = [
@@ -22,7 +25,7 @@ export const NAV: NavMenu[] = [
   // Random were removed from the menu pending redevelopment — the pages still
   // build and remain reachable by URL.
   { label: 'nav.explore', href: '/explore' },
-  { label: 'nav.articles', href: '/articles' },
+  { label: 'nav.articles', href: '/articles', secret: true },
   {
     label: 'nav.more',
     items: [
