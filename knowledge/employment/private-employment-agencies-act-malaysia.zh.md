@@ -74,7 +74,7 @@ entity: "Akta Agensi Pekerjaan Swasta 1981"
 relations:
   - { rel: "administered-by", to: "jabatan-tenaga-kerja-malaysia" }
   - { rel: "related-to", to: "employment-act-1955-malaysia" }
-related: ["employment-act-1955-malaysia"]
+related: ["employment-act-1955"]
 keywords: ["agensi pekerjaan swasta", "Akta 246", "lesen headhunting", "carian eksekutif", "JTKSM", "yuran penempatan"]
 ---
 

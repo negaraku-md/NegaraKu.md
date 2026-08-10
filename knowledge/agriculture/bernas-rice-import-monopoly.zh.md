@@ -80,7 +80,7 @@ relations:
   - { rel: "governs", to: "control-of-padi-and-rice-act" }
   - { rel: "related-to", to: "food-security-malaysia" }
   - { rel: "related-to", to: "syed-mokhtar-albukhary" }
-related: ["palm-oil-industry", "food-security-malaysia"]
+related: ["palm-oil-industry"]
 keywords: ["BERNAS", "Padiberas Nasional", "monopoli import beras", "harga minimum padi", "harga lantai padi", "Akta Kawalan Padi dan Beras 1994", "Syed Mokhtar Al-Bukhary", "sekuriti makanan"]
 ---
 

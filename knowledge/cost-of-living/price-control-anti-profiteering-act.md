@@ -69,7 +69,7 @@ entity: "Akta Kawalan Harga dan Antipencatutan 2011"
 relations:
   - { rel: "administered-by", to: "kementerian-perdagangan-dalam-negeri-kpdn" }
   - { rel: "related-to", to: "sales-and-service-tax-sst" }
-related: ["sales-and-service-tax-sst"]
+related: []
 keywords: ["antipencatutan", "kawalan harga", "untung berlebihan", "Akta 723", "Op Catut", "KPDN", "pencatutan harga"]
 ---
 

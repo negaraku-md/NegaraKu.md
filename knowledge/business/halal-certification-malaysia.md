@@ -79,7 +79,7 @@ relations:
   - { rel: "administered-by", to: "jakim" }
   - { rel: "governs", to: "trade-descriptions-act-malaysia" }
   - { rel: "related-to", to: "starting-a-business-malaysia" }
-related: ["ssm-business-registration-malaysia", "sst-malaysia"]
+related: ["sst"]
 keywords: ["halal certification Malaysia", "JAKIM halal", "MYeHALAL", "halal logo Malaysia", "halal certification fee", "Trade Descriptions Order 2011"]
 ---
 

@@ -92,7 +92,7 @@ relations:
   - { rel: "related-to", to: "malayan-emergency-1948-1960" }
   - { rel: "related-to", to: "formation-of-malaysia-1963" }
   - { rel: "part-of", to: "malaysia" }
-related: ["malayan-emergency-1948-1960", "formation-of-malaysia-1963"]
+related: ["formation-of-malaysia-1963"]
 keywords: ["Second Malayan Emergency", "Communist Party of Malaya", "Hat Yai Peace Agreement 1989", "North Kalimantan Communist Party", "Sarawak communist insurgency", "Sri Aman", "Chin Peng", "Kroh-Betong ambush"]
 ---
 

@@ -78,7 +78,7 @@ entity: "Kuala Lumpur-Singapore High-Speed Rail"
 relations:
   - { rel: "administered-by", to: "myhsr-corporation" }
   - { rel: "compares-with", to: "johor-bahru-singapore-rts-link" }
-related: ["johor-bahru-singapore-rts-link"]
+related: []
 keywords: ["KL Singapore HSR", "high-speed rail Malaysia", "MyHSR Corp", "HSR termination compensation", "HSR revival RFP"]
 ---
 

@@ -95,7 +95,7 @@ relations:
   - { rel: "governs", to: "petroleum-development-act-1974" }
   - { rel: "related-to", to: "petronas" }
   - { rel: "related-to", to: "petroleum-income-tax" }
-related: ["petronas", "petroleum-development-act-1974", "lng-industry"]
+related: ["petronas", "petroleum-development-act-1974"]
 keywords: ["oil and gas Malaysia", "PETRONAS", "production sharing contract", "PSC", "Petroleum Development Act 1974", "Malaysia Petroleum Management", "upstream", "downstream", "LNG", "petroleum income tax"]
 ---
 

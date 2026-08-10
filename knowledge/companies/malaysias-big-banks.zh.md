@@ -89,7 +89,7 @@ relations:
   - { rel: "administered-by", to: "bank-negara-malaysia" }
   - { rel: "governs", to: "financial-services-act-2013" }
   - { rel: "related-to", to: "bursa-malaysia" }
-related: ["bank-negara-malaysia", "financial-services-act-2013", "bursa-malaysia"]
+related: ["bank-negara-malaysia", "bursa-malaysia"]
 keywords: ["Maybank", "CIMB", "Public Bank", "RHB", "Hong Leong Bank", "Malaysia banks", "Bank Negara Malaysia", "banking sector"]
 ---
 

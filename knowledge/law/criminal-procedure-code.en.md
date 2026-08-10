@@ -76,7 +76,7 @@ entity: "Criminal Procedure Code (Act 593)"
 relations:
   - { rel: "related-to", to: "penal-code" }
   - { rel: "explained-in", to: "rights-when-arrested-malaysia" }
-related: ["penal-code", "rights-when-arrested-malaysia"]
+related: ["penal-code"]
 keywords: ["kanun tatacara jenayah", "akta 593", "criminal procedure code", "reman", "seksyen 117", "ikat jamin", "seksyen 28A", "tangkapan", "perbicaraan jenayah", "prima facie"]
 ---
 

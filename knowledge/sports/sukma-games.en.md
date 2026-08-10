@@ -77,7 +77,7 @@ entity: "Sukan Malaysia (SUKMA)"
 relations:
   - { rel: "administered-by", to: "majlis-sukan-negara" }
   - { rel: "related-to", to: "program-podium" }
-related: ["program-podium", "majlis-sukan-negara"]
+related: []
 keywords: ["SUKMA", "Sukan Malaysia", "Majlis Sukan Negara", "Program Podium", "atlet remaja", "pembangunan sukan", "Institut Sukan Negara"]
 ---
 

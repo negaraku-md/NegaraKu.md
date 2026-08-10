@@ -80,7 +80,7 @@ relations:
   - { rel: "governs", to: "trade-unions-malaysia" }
   - { rel: "related-to", to: "unfair-dismissal-industrial-court-malaysia" }
   - { rel: "administered-by", to: "department-of-industrial-relations-malaysia" }
-related: ["trade-unions-malaysia", "unfair-dismissal-industrial-court-malaysia", "employment-act-1955-malaysia"]
+related: ["trade-unions-malaysia", "employment-act-1955"]
 keywords: ["rundingan kolektif", "perjanjian kolektif", "pertikaian perusahaan", "hak rundingan tunggal", "pengiktirafan kesatuan", "mogok", "sekat masuk", "piket", "Akta Perhubungan Perusahaan 1967", "Mahkamah Perusahaan"]
 ---
 

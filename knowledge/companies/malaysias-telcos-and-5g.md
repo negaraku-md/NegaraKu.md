@@ -91,7 +91,7 @@ entity: "Digital Nasional Berhad"
 relations:
   - { rel: "administered-by", to: "malaysian-communications-and-multimedia-commission" }
   - { rel: "related-to", to: "bursa-malaysia" }
-related: ["malaysian-communications-and-multimedia-commission", "bursa-malaysia"]
+related: ["bursa-malaysia"]
 keywords: ["CelcomDigi", "Maxis", "U Mobile", "Digital Nasional Berhad", "DNB", "5G Malaysia", "dual 5G network", "MCMC", "telco merger", "single wholesale network"]
 ---
 

@@ -74,7 +74,7 @@ entity: "Mekanisme Penetapan Harga Automatik (APM)"
 relations:
   - { rel: "related-to", to: "budi95-fuel-subsidy" }
   - { rel: "related-to", to: "diesel-subsidy-rationalisation" }
-related: ["budi95-fuel-subsidy", "diesel-subsidy-rationalisation"]
+related: []
 keywords: ["APM", "harga minyak", "RON97", "RON95", "BUDI95", "subsidi bahan api", "harga pam mingguan"]
 ---
 

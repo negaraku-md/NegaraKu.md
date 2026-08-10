@@ -74,7 +74,7 @@ entity: "Jabatan Kebajikan Masyarakat (JKM)"
 relations:
   - { rel: "administered-by", to: "jabatan-kebajikan-masyarakat" }
   - { rel: "related-to", to: "public-healthcare-system" }
-related: ["public-healthcare-system", "peka-b40-health-scheme"]
+related: []
 keywords: ["OKU", "kad OKU", "penjagaan kesihatan OKU", "PDK", "pemulihan dalam komuniti", "alat bantuan", "JKM", "KKM", "EPOKU", "BTB"]
 ---
 

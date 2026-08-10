@@ -83,7 +83,7 @@ entity: "Polis Diraja Malaysia"
 relations:
   - { rel: "governs", to: "akta-polis-1967" }
   - { rel: "administered-by", to: "kementerian-dalam-negeri" }
-related: ["kementerian-dalam-negeri", "akta-polis-1967"]
+related: []
 keywords: ["Polis Diraja Malaysia", "PDRM", "Ketua Polis Negara", "Akta Polis 1967", "Bukit Aman", "polis Malaysia"]
 ---
 

@@ -81,7 +81,7 @@ relations:
   - { rel: "governs", to: "companies-act-2016" }
   - { rel: "related-to", to: "role-of-company-secretary" }
   - { rel: "related-to", to: "company-contracts-section-64" }
-related: ["companies-act-2016", "role-of-company-secretary"]
+related: ["companies-act-2016"]
 keywords: ["penyempurnaan dokumen", "cop mohor", "common seal", "seksyen 66", "surat ikatan", "deed", "pegawai diberi kuasa", "Akta Syarikat 2016", "tandatangan syarikat"]
 ---
 

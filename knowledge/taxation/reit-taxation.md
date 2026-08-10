@@ -84,7 +84,7 @@ relations:
   - { rel: "governs", to: "income-tax-act-1967" }
   - { rel: "administered-by", to: "lhdn" }
   - { rel: "related-to", to: "bursa-malaysia" }
-related: ["income-tax-act-1967", "withholding-tax", "lhdn"]
+related: ["income-tax-act-1967", "lhdn"]
 keywords: ["REIT tax Malaysia", "property trust fund", "section 61A", "withholding tax REIT", "YA 2026 REIT tax", "unit holder distribution"]
 ---
 

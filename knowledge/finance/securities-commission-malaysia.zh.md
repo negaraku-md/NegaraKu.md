@@ -91,7 +91,7 @@ relations:
   - { rel: "governs", to: "bursa-malaysia" }
   - { rel: "compares-with", to: "bank-negara-malaysia" }
   - { rel: "related-to", to: "capital-markets-and-services-act-2007" }
-related: ["bursa-malaysia", "bank-negara-malaysia", "capital-markets-and-services-act-2007"]
+related: ["bursa-malaysia", "bank-negara-malaysia"]
 keywords: ["securities commission malaysia", "SC Malaysia", "capital market regulator", "CMSA 2007", "Securities Commission Act 1993", "equity crowdfunding", "P2P financing"]
 ---
 

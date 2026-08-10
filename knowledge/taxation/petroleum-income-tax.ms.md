@@ -73,7 +73,7 @@ entity: "Petroleum (Income Tax) Act 1967"
 relations:
   - { rel: "related-to", to: "corporate-income-tax" }
   - { rel: "administered-by", to: "lhdn" }
-related: ["corporate-income-tax", "petronas"]
+related: ["petronas"]
 keywords: ["petroleum income tax", "PITA", "Petroleum Income Tax Act 1967", "petroleum operations", "marginal field tax", "late-life asset PSC", "upstream oil gas tax Malaysia"]
 ---
 

@@ -74,7 +74,7 @@ entity: "Suruhanjaya Syarikat Malaysia"
 relations:
   - { rel: "governs", to: "companies-act-2016" }
   - { rel: "related-to", to: "striking-off-a-company" }
-related: ["striking-off-a-company", "companies-act-2016"]
+related: ["companies-act-2016"]
 keywords: ["pemulihan syarikat", "syarikat dipotong", "seksyen 555", "reinstate company", "struck off", "Akta Syarikat 2016", "SSM"]
 ---
 

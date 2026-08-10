@@ -86,7 +86,7 @@ relations:
   - { rel: "governs", to: "labuan-companies-act-1990" }
   - { rel: "related-to", to: "foreign-company-registration-ssm" }
   - { rel: "compares-with", to: "labuan-company-formation" }
-related: ["labuan-companies-act-1990", "foreign-company-registration-ssm", "companies-amendment-act-2024"]
+related: []
 keywords: ["redomiciliation", "re-domiciliation", "continuance", "Labuan", "Labuan Companies Act 1990", "section 16", "foreign company", "domicile", "Companies Act 2016", "Labuan FSA"]
 ---
 

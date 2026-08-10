@@ -84,7 +84,7 @@ entity: "Minimum Retirement Age Act 2012 (Act 753)"
 relations:
   - { rel: "governs", to: "employment-termination-malaysia" }
   - { rel: "related-to", to: "employment-act-1955-malaysia" }
-related: ["employment-termination-malaysia", "epf-kwsp-malaysia"]
+related: ["termination-of-employment-malaysia"]
 keywords: ["umur persaraan minimum", "Akta 753", "persaraan 60 tahun", "persaraan pramatang", "kontrak tempoh tetap", "persaraan pilihan"]
 ---
 

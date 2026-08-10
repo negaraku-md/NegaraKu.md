@@ -90,7 +90,7 @@ entity: "Communications and Multimedia Act 1998"
 relations:
   - { rel: "administered-by", to: "malaysian-communications-and-multimedia-commission" }
   - { rel: "related-to", to: "sedition-act-1948" }
-related: ["malaysian-communications-and-multimedia-commission", "federal-constitution-of-malaysia"]
+related: ["federal-constitution"]
 keywords: ["akta komunikasi dan multimedia 1998", "seksyen 233", "SKMM", "MCMC", "penyalahgunaan kemudahan rangkaian", "pertuturan dalam talian", "kebebasan bersuara", "akta 588"]
 ---
 

@@ -60,7 +60,7 @@ sources:
 entity: "Majlis Perubatan Malaysia"
 relations:
   - { rel: "related-to", to: "healthcare-system-overview" }
-related: ["healthcare-system-overview"]
+related: []
 keywords: ["pendaftaran doktor", "MMC", "MeRITS", "APC", "Lembaga Jururawat Malaysia", "Lembaga Farmasi Malaysia", "MAHPC", "Akta Profesion Kesihatan Bersekutu 2016", "fisioterapi"]
 ---
 

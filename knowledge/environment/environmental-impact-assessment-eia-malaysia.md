@@ -83,7 +83,7 @@ relations:
   - { rel: "governs", to: "environmental-quality-act-1974" }
   - { rel: "administered-by", to: "department-of-environment-malaysia" }
   - { rel: "related-to", to: "prescribed-activities-eia-order-2015" }
-related: ["environmental-quality-act-1974", "department-of-environment-malaysia"]
+related: ["environmental-quality-act-1974"]
 keywords: ["EIA Malaysia", "environmental impact assessment", "prescribed activities", "Section 34A", "Order 2015", "Department of Environment", "First Schedule", "Second Schedule", "public display"]
 ---
 

@@ -69,7 +69,7 @@ entity: "Pasukan Sukarelawan Malaysia (RELA)"
 relations:
   - { rel: "administered-by", to: "kementerian-dalam-negeri" }
   - { rel: "related-to", to: "jabatan-imigresen-malaysia" }
-related: ["jabatan-imigresen-malaysia", "kementerian-dalam-negeri"]
+related: []
 keywords: ["RELA", "Pasukan Sukarelawan Malaysia", "Ikatan Relawan Rakyat", "Akta 752", "Akta Pasukan Sukarelawan Malaysia 2012", "PATI", "sukarelawan keselamatan"]
 ---
 

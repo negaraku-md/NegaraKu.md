@@ -101,7 +101,7 @@ relations:
   - { rel: "administered-by", to: "malaysian-communications-and-multimedia-commission" }
   - { rel: "related-to", to: "malaysias-telcos-and-5g" }
   - { rel: "related-to", to: "internet-and-fibre" }
-related: ["malaysias-telcos-and-5g", "internet-and-fibre", "malaysian-communications-and-multimedia-commission"]
+related: ["malaysias-telcos-and-5g", "internet-and-fibre"]
 keywords: ["JENDELA", "Digital Nasional Berhad", "DNB", "5G Malaysia", "dual 5G network", "second 5G network", "U Mobile", "MCMC", "national broadband plan", "spectrum allocation", "700MHz", "3.5GHz"]
 ---
 

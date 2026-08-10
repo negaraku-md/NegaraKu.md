@@ -96,7 +96,7 @@ relations:
   - { rel: "administered-by", to: "kwsp" }
   - { rel: "administered-by", to: "perkeso" }
   - { rel: "related-to", to: "employment-act-1955" }
-related: ["income-tax-basics", "employment-act-1955", "minimum-wage-malaysia"]
+related: ["employment-act-1955", "minimum-wage-malaysia"]
 keywords: ["EPF", "KWSP", "SOCSO", "PERKESO", "SIP", "EIS", "caruman", "Akta KWSP 1991", "Akta Keselamatan Sosial Pekerja 1969", "persaraan", "insurans pekerjaan"]
 ---
 

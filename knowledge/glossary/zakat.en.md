@@ -83,7 +83,7 @@ entity: "Zakat"
 relations:
   - { rel: "related-to", to: "cukai-pendapatan" }
   - { rel: "administered-by", to: "majlis-agama-islam-negeri" }
-related: ["cukai-pendapatan", "lhdn"]
+related: ["lhdn"]
 keywords: ["zakat", "zakat pendapatan", "nisab", "asnaf", "rebat cukai", "Seksyen 6A", "haul", "zakat fitrah"]
 ---
 

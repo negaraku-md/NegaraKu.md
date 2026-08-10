@@ -95,7 +95,7 @@ entity: "Sabah sovereignty dispute"
 relations:
   - { rel: "related-to", to: "federation-of-malaysia-1963" }
   - { rel: "located-in", to: "sabah" }
-related: ["sabah", "federation-of-malaysia-1963", "malaysia-philippines-relations"]
+related: ["sabah"]
 keywords: ["Sabah claim", "Sulu Sultanate", "Lahad Datu", "1878 agreement", "North Borneo", "Sulu arbitration", "Philippines Sabah"]
 ---
 

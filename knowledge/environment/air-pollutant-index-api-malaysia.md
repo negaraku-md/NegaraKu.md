@@ -69,7 +69,7 @@ entity: "Indeks Pencemar Udara (IPU)"
 relations:
   - { rel: "administered-by", to: "jabatan-alam-sekitar" }
   - { rel: "related-to", to: "jerebu-di-malaysia" }
-related: ["jabatan-alam-sekitar", "jerebu-di-malaysia"]
+related: []
 keywords: ["IPU", "API", "indeks pencemar udara", "kualiti udara", "jerebu", "PM2.5", "PM10", "Jabatan Alam Sekitar"]
 ---
 

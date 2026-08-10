@@ -79,7 +79,7 @@ entity: "Cyber Security Act 2024 (Act 854)"
 relations:
   - { rel: "administered-by", to: "nacsa" }
   - { rel: "related-to", to: "personal-data-protection-act-malaysia" }
-related: ["nacsa", "personal-data-protection-act-malaysia"]
+related: []
 keywords: ["Cyber Security Act 2024", "Act 854", "NCII", "NACSA", "cybersecurity compliance Malaysia", "incident reporting", "cybersecurity audit"]
 ---
 

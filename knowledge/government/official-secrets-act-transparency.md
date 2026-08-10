@@ -89,7 +89,7 @@ entity: "Official Secrets Act 1972"
 relations:
   - { rel: "related-to", to: "freedom-of-information-malaysia" }
   - { rel: "administered-by", to: "attorney-general" }
-related: ["freedom-of-information-malaysia", "attorney-general"]
+related: ["attorney-general"]
 keywords: ["akta rahsia rasmi", "OSA 1972", "kebebasan maklumat", "ketelusan kerajaan", "dokumen terperingkat", "seksyen 16A", "rahsia rasmi"]
 ---
 

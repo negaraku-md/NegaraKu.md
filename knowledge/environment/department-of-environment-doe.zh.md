@@ -98,7 +98,7 @@ relations:
   - { rel: "administered-by", to: "nres-ministry" }
   - { rel: "related-to", to: "scheduled-waste" }
   - { rel: "compares-with", to: "swcorp" }
-related: ["environmental-impact-assessment-eia", "scheduled-waste", "perhilitan", "forestry-department"]
+related: ["environmental-impact-assessment-eia-malaysia"]
 keywords: ["Department of Environment", "DOE", "Jabatan Alam Sekitar", "JAS", "Environmental Quality Act 1974", "Act 127", "EIA Malaysia", "scheduled waste", "NRES"]
 ---
 

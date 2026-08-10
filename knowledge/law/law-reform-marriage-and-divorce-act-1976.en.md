@@ -89,7 +89,7 @@ entity: "Law Reform (Marriage and Divorce) Act 1976"
 relations:
   - { rel: "administered-by", to: "jabatan-pendaftaran-negara" }
   - { rel: "related-to", to: "islamic-family-law-malaysia" }
-related: ["jabatan-pendaftaran-negara"]
+related: []
 keywords: ["Akta 164", "perkahwinan sivil", "perceraian bukan Islam", "harta sepencarian", "Law Reform Marriage and Divorce Act 1976", "seksyen 76", "Jabatan Pendaftaran Negara"]
 ---
 

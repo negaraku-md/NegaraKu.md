@@ -94,7 +94,7 @@ relations:
   - { rel: "related-to", to: "digital-economy-overview" }
   - { rel: "related-to", to: "mydigital-blueprint" }
   - { rel: "related-to", to: "mdec" }
-related: ["digital-economy-overview", "mydigital-blueprint", "mdec", "data-centre-cloud-industry"]
+related: ["digital-economy-overview", "mydigital-blueprint", "data-centre-cloud-industry"]
 keywords: ["ekonomi digital", "MSC Malaysia", "Koridor Raya Multimedia", "MyDIGITAL", "Malaysia Digital", "Kementerian Digital", "NAIO", "Wawasan 2020", "MDEC", "dasar digital"]
 ---
 

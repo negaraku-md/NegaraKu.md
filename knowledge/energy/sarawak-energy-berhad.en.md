@@ -77,7 +77,7 @@ entity: "Sarawak Energy Berhad"
 relations:
   - { rel: "related-to", to: "tenaga-nasional-berhad" }
   - { rel: "related-to", to: "bakun-dam" }
-related: ["tenaga-nasional-berhad"]
+related: ["tenaga-nasional"]
 keywords: ["Sarawak Energy", "SEB", "SESCO", "Bakun", "Murum", "Baleh", "hidroelektrik", "utiliti Sarawak", "SCORE"]
 ---
 

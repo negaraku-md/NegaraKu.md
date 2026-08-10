@@ -72,7 +72,7 @@ sources:
 relations:
   - { rel: "governs", to: "fisheries-act-1985" }
   - { rel: "related-to", to: "sabah-travel-guide" }
-related: ["sabah-travel-guide", "east-coast-islands-malaysia"]
+related: []
 keywords: ["Sipadan diving permit", "Malaysia marine park fees", "Sabah Parks", "Department of Fisheries marine park", "scuba diving Malaysia", "marine ecotourism"]
 ---
 

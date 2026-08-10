@@ -73,7 +73,7 @@ entity: "Akta Pengurusan Strata 2013"
 relations:
   - { rel: "related-to", to: "national-land-code" }
   - { rel: "related-to", to: "house-buyers-act" }
-related: ["national-land-code", "house-buyers-act"]
+related: ["national-land-code"]
 keywords: ["akta hakmilik strata", "akta pengurusan strata 2013", "JMB", "perbadanan pengurusan", "caj penyelenggaraan", "kumpulan wang penjelas", "tribunal pengurusan strata"]
 ---
 

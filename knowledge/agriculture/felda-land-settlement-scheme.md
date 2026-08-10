@@ -76,7 +76,7 @@ entity: "Lembaga Kemajuan Tanah Persekutuan (FELDA)"
 relations:
   - { rel: "related-to", to: "fgv-holdings" }
   - { rel: "governs", to: "group-settlement-areas-act-1960" }
-related: ["fgv-holdings", "group-settlement-areas-act-1960"]
+related: []
 keywords: ["FELDA", "peneroka", "penempatan tanah", "kelapa sawit", "FGV Holdings", "Akta Tanah 1960", "kemiskinan luar bandar"]
 ---
 

@@ -81,7 +81,7 @@ sources:
 entity: "Gas Malaysia Berhad"
 relations:
   - { rel: "related-to", to: "electricity-supply-tnb" }
-related: ["electricity-supply-tnb"]
+related: []
 keywords: ["gas paip asli", "Gas Malaysia", "tong gas", "LPG", "gas domestik", "subsidi gas", "gas memasak", "harga tong gas 14kg"]
 ---
 

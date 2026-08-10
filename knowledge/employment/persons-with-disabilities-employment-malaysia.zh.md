@@ -81,7 +81,7 @@ relations:
   - { rel: "governs", to: "persons-with-disabilities-employment-malaysia" }
   - { rel: "administered-by", to: "jabatan-kebajikan-masyarakat" }
   - { rel: "related-to", to: "employment-act-1955-malaysia" }
-related: ["employment-act-1955-malaysia", "socso-perkeso-malaysia"]
+related: ["employment-act-1955", "socso-perkeso"]
 keywords: ["OKU", "orang kurang upaya", "Akta 685", "Seksyen 29", "kuota 1%", "Kad OKU", "potongan cukai berganda", "pekerjaan inklusif"]
 ---
 

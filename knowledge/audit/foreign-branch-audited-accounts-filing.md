@@ -63,7 +63,7 @@ entity: "Companies Commission of Malaysia (SSM)"
 relations:
   - { rel: "governs", to: "foreign-company-registration-malaysia" }
   - { rel: "related-to", to: "approved-company-auditor-malaysia" }
-related: ["foreign-company-registration-malaysia", "approved-company-auditor-malaysia"]
+related: ["foreign-company-registration-malaysia"]
 keywords: ["foreign company", "branch", "audited accounts", "SSM", "Companies Act 2016", "section 575", "financial statements", "Malaysia"]
 ---
 

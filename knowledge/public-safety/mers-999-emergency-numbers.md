@@ -72,7 +72,7 @@ entity: "MERS 999"
 relations:
   - { rel: "related-to", to: "pdrm-royal-malaysia-police" }
   - { rel: "related-to", to: "bomba-fire-rescue-department" }
-related: ["pdrm-royal-malaysia-police", "bomba-fire-rescue-department"]
+related: ["royal-malaysia-police-pdrm", "fire-and-rescue-department-bomba"]
 keywords: ["999", "MERS 999", "nombor kecemasan", "SaveME 999", "talian kecemasan", "pertahanan awam", "ambulans"]
 ---
 

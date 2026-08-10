@@ -79,7 +79,7 @@ entity: "Compulsory winding up (Companies Act 2016)"
 relations:
   - { rel: "governs", to: "companies-act-2016" }
   - { rel: "related-to", to: "statutory-demand-section-466-malaysia" }
-related: ["companies-act-2016", "statutory-demand-section-466-malaysia"]
+related: ["companies-act-2016"]
 keywords: ["winding up by court", "compulsory winding up", "section 466", "statutory demand", "Fortuna injunction", "RM50000 threshold", "Companies Act 2016", "insolvency Malaysia", "creditor petition"]
 ---
 

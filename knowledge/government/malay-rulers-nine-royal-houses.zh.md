@@ -86,7 +86,7 @@ relations:
   - { rel: "compares-with", to: "yang-di-pertuan-agong" }
   - { rel: "related-to", to: "conference-of-rulers-majlis-raja-raja" }
   - { rel: "explained-in", to: "federal-constitution-malaysia" }
-related: ["yang-di-pertuan-agong", "conference-of-rulers-majlis-raja-raja", "federal-constitution-malaysia"]
+related: ["yang-di-pertuan-agong", "federal-constitution"]
 keywords: ["raja melayu", "sultan", "yang di-pertuan besar", "raja perlis", "pewarisan takhta", "raja berperlembagaan", "adat perpatih", "perlembagaan negeri", "majlis raja-raja"]
 ---
 

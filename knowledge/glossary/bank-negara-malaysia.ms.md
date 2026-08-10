@@ -97,7 +97,7 @@ relations:
   - { rel: "governs", to: "overnight-policy-rate" }
   - { rel: "related-to", to: "ringgit" }
   - { rel: "compares-with", to: "lembaga-hasil-dalam-negeri" }
-related: ["ringgit", "overnight-policy-rate", "sales-and-service-tax"]
+related: ["ringgit", "sales-and-service-tax"]
 keywords: ["bank negara malaysia", "BNM", "central bank of malaysia", "overnight policy rate", "OPR", "ringgit", "monetary policy", "financial regulator", "central bank of malaysia act 2009"]
 ---
 

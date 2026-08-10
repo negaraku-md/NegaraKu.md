@@ -84,7 +84,7 @@ entity: "Sustainable Energy Development Authority (SEDA) Malaysia"
 relations:
   - { rel: "related-to", to: "net-energy-metering-malaysia" }
   - { rel: "related-to", to: "solar-atap-malaysia" }
-related: ["net-energy-metering-malaysia", "solar-atap-malaysia"]
+related: []
 keywords: ["SEDA", "Sustainable Energy Development Authority", "feed-in tariff", "NEM", "Solar ATAP", "KWTBB", "tenaga boleh baharu", "PETRA"]
 ---
 

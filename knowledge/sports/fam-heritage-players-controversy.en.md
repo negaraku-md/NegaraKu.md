@@ -81,7 +81,7 @@ entity: "Persatuan Bolasepak Malaysia (FAM)"
 relations:
   - { rel: "related-to", to: "harimau-malaya-national-team" }
   - { rel: "related-to", to: "fifa-eligibility-rules" }
-related: ["harimau-malaya-national-team", "fifa-eligibility-rules"]
+related: []
 keywords: ["naturalisasi", "pemain warisan", "FAM", "FIFA", "CAS", "Harimau Malaya", "dokumen palsu", "Artikel 22", "Piala Asia 2027"]
 ---
 

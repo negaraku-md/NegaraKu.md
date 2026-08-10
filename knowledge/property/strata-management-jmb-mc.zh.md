@@ -87,7 +87,7 @@ sources:
 entity: "Strata Management Act 2013"
 relations:
   - { rel: "related-to", to: "property-buying-guide" }
-related: ["property-buying-guide"]
+related: []
 keywords: ["JMB", "MC", "Perbadanan Pengurusan", "Badan Pengurusan Bersama", "Tribunal Pengurusan Strata", "Akta Pengurusan Strata 2013", "caj penyelenggaraan", "kumpulan wang penjelas", "COB", "strata"]
 ---
 

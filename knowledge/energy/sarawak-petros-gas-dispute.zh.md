@@ -87,7 +87,7 @@ relations:
   - { rel: "governs", to: "distribution-of-gas-ordinance-2016" }
   - { rel: "related-to", to: "petroleum-development-act-1974" }
   - { rel: "related-to", to: "malaysia-agreement-1963" }
-related: ["petronas", "petroleum-development-act-1974", "malaysia-agreement-1963"]
+related: ["petronas", "petroleum-development-act-1974"]
 keywords: ["Petros", "Sarawak", "gas", "agregator gas", "Ordinan Pengagihan Gas 2016", "Ordinan Pengagihan Gas (Pindaan) 2023", "Petronas", "Akta Kemajuan Petroleum 1974", "MA63"]
 ---
 

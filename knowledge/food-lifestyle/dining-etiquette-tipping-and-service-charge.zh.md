@@ -72,7 +72,7 @@ sources:
 
 relations:
   - { rel: "related-to", to: "sales-and-service-tax-sst-explained" }
-related: ["sales-and-service-tax-sst-explained"]
+related: []
 keywords: ["tipping malaysia", "service charge malaysia", "service tax restaurant", "dining etiquette malaysia", "SST food and beverage"]
 ---
 

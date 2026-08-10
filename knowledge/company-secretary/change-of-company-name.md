@@ -71,7 +71,7 @@ relations:
   - { rel: "governs", to: "companies-act-2016" }
   - { rel: "administered-by", to: "ssm" }
   - { rel: "related-to", to: "special-resolution" }
-related: ["special-resolution", "company-name-reservation", "companies-act-2016"]
+related: ["companies-act-2016"]
 keywords: ["tukar nama syarikat", "change of company name", "seksyen 28", "ketetapan khas", "SSM CRS", "name reservation"]
 ---
 

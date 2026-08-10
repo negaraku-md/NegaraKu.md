@@ -70,7 +70,7 @@ entity: "Petroliam Nasional Berhad (Petronas)"
 relations:
   - { rel: "related-to", to: "petroleum-development-act-1974" }
   - { rel: "part-of", to: "oil-and-gas-industry-malaysia" }
-related: ["petroleum-development-act-1974", "oil-and-gas-industry-malaysia"]
+related: ["petroleum-development-act-1974", "oil-gas-industry"]
 keywords: ["Petronas", "Petroliam Nasional Berhad", "Petroleum Development Act 1974", "national oil company", "Malaysia oil and gas", "federal revenue", "government dividend"]
 ---
 

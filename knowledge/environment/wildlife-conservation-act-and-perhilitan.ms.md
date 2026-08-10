@@ -77,7 +77,7 @@ entity: "Department of Wildlife and National Parks Peninsular Malaysia (PERHILIT
 relations:
   - { rel: "related-to", to: "international-trade-in-endangered-species-act" }
   - { rel: "related-to", to: "taman-negara" }
-related: ["international-trade-in-endangered-species-act", "taman-negara"]
+related: []
 keywords: ["Wildlife Conservation Act 2010", "Act 716", "PERHILITAN", "totally protected wildlife", "protected wildlife", "wildlife licence Malaysia", "special permit", "wildlife trafficking Malaysia", "Department of Wildlife and National Parks"]
 ---
 

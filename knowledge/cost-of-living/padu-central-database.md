@@ -72,7 +72,7 @@ entity: "Pangkalan Data Utama (PADU)"
 relations:
   - { rel: "administered-by", to: "kementerian-ekonomi" }
   - { rel: "related-to", to: "str-sumbangan-tunai-rahmah" }
-related: ["str-sumbangan-tunai-rahmah", "budi95-ron95-subsidy"]
+related: []
 keywords: ["PADU", "Pangkalan Data Utama", "subsidi bersasar", "padu.gov.my", "Kementerian Ekonomi", "DOSM"]
 ---
 

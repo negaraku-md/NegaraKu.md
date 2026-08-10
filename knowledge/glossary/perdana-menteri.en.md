@@ -89,7 +89,7 @@ relations:
   - { rel: "part-of", to: "kerajaan-persekutuan" }
   - { rel: "administered-by", to: "yang-di-pertuan-agong" }
   - { rel: "related-to", to: "dewan-rakyat" }
-related: ["yang-di-pertuan-agong", "jemaah-menteri", "dewan-rakyat", "perlembagaan-persekutuan"]
+related: ["yang-di-pertuan-agong", "dewan-rakyat", "perlembagaan-persekutuan"]
 keywords: ["perdana menteri", "prime minister malaysia", "perkara 43", "pelantikan perdana menteri", "kepercayaan majoriti", "yang di-pertuan agong", "jemaah menteri", "head of government"]
 ---
 

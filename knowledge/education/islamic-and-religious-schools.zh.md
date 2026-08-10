@@ -75,7 +75,7 @@ sources:
 relations:
   - { rel: "administered-by", to: "ministry-of-education-malaysia" }
   - { rel: "related-to", to: "national-education-system" }
-related: ["national-education-system", "jakim"]
+related: ["jakim"]
 keywords: ["SABK", "sekolah agama", "tahfiz", "KAFA", "JAKIM", "pendidikan Islam", "sekolah agama rakyat", "jabatan agama negeri"]
 ---
 

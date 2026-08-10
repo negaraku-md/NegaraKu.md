@@ -102,7 +102,7 @@ relations:
   - { rel: "related-to", to: "padu-central-database" }
   - { rel: "related-to", to: "petronas" }
   - { rel: "related-to", to: "cost-of-living-malaysia" }
-related: ["padu-central-database", "petronas", "cost-of-living-malaysia"]
+related: ["padu-central-database", "petronas"]
 keywords: ["subsidi bahan api", "BUDI95", "RON95", "subsidi diesel", "PADU", "subsidi bersasar", "BUDI MADANI", "RM1.99", "rasionalisasi subsidi"]
 ---
 

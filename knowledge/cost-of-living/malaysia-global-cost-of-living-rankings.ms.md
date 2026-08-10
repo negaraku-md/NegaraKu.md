@@ -85,7 +85,7 @@ entity: "Global cost-of-living indices"
 relations:
   - { rel: "compares-with", to: "singapore-vs-malaysia-cost-of-living" }
   - { rel: "related-to", to: "cost-of-living-in-kuala-lumpur" }
-related: ["cost-of-living-in-kuala-lumpur", "singapore-vs-malaysia-cost-of-living"]
+related: ["cost-of-living-kuala-lumpur"]
 keywords: ["Malaysia cost of living ranking", "Kuala Lumpur Mercer ranking", "Numbeo Malaysia", "EIU Worldwide Cost of Living", "cheapest cities Southeast Asia", "expat cost of living Malaysia"]
 ---
 

@@ -80,7 +80,7 @@ entity: "Agensi Kaunseling dan Pengurusan Kredit (AKPK)"
 relations:
   - { rel: "administered-by", to: "bank-negara-malaysia" }
   - { rel: "related-to", to: "personal-bankruptcy-malaysia" }
-related: ["bank-negara-malaysia", "personal-bankruptcy-malaysia"]
+related: ["bank-negara-malaysia"]
 keywords: ["AKPK", "Program Pengurusan Kredit", "PPK", "DMP", "penstrukturan hutang", "kaunseling kewangan", "Bank Negara Malaysia", "hutang kad kredit"]
 ---
 

@@ -96,7 +96,7 @@ relations:
   - { rel: "related-to", to: "port-klang" }
   - { rel: "related-to", to: "port-of-tanjung-pelepas" }
   - { rel: "administered-by", to: "ministry-of-transport-malaysia" }
-related: ["port-klang", "port-of-tanjung-pelepas", "strait-of-malacca", "ecrl-east-coast-rail-link"]
+related: []
 keywords: ["Malaysia ports", "Port Klang", "Port of Tanjung Pelepas", "PTP", "transhipment", "container port", "logistics Malaysia", "freight forwarding", "ECRL", "free zone", "TEU", "Strait of Malacca"]
 ---
 

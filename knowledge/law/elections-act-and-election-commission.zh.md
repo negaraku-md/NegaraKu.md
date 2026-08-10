@@ -77,7 +77,7 @@ relations:
   - { rel: "part-of", to: "federal-constitution" }
   - { rel: "governs", to: "malaysian-general-elections" }
   - { rel: "related-to", to: "dewan-rakyat" }
-related: ["federal-constitution", "dewan-rakyat", "malaysian-general-elections"]
+related: ["federal-constitution", "dewan-rakyat"]
 keywords: ["SPR", "Suruhanjaya Pilihan Raya", "Akta Pilihan Raya 1958", "Akta Kesalahan Pilihan Raya 1954", "persempadanan", "Perlembagaan Persekutuan", "Perkara 113", "Perkara 114"]
 ---
 

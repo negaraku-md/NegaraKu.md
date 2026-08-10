@@ -83,7 +83,7 @@ sources:
 relations:
   - { rel: "related-to", to: "palm-oil-industry-in-malaysia" }
   - { rel: "related-to", to: "permanent-reserved-forests-malaysia" }
-related: ["palm-oil-industry-in-malaysia", "permanent-reserved-forests-malaysia"]
+related: ["palm-oil-industry"]
 keywords: ["Malaysia deforestation", "forest loss", "forest cover", "primary forest", "timber plantations", "oil palm", "Global Forest Watch", "RimbaWatch"]
 ---
 

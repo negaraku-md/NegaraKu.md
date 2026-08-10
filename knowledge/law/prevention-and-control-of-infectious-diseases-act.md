@@ -71,7 +71,7 @@ entity: "Akta Pencegahan dan Pengawalan Penyakit Berjangkit 1988 (Akta 342)"
 relations:
   - { rel: "administered-by", to: "kementerian-kesihatan-malaysia" }
   - { rel: "related-to", to: "movement-control-order-covid-19" }
-related: ["kementerian-kesihatan-malaysia", "movement-control-order-covid-19"]
+related: []
 keywords: ["Akta 342", "penyakit berjangkit", "kuarantin", "PKP", "COVID-19", "kawasan jangkitan tempatan", "kesihatan awam", "Kementerian Kesihatan Malaysia"]
 ---
 

@@ -93,7 +93,7 @@ relations:
   - { rel: "related-to", to: "electrical-electronics-industry" }
   - { rel: "related-to", to: "penang-economy" }
   - { rel: "administered-by", to: "ministry-of-investment-trade-and-industry" }
-related: ["electrical-electronics-industry", "penang-economy"]
+related: ["electrical-electronics-industry"]
 keywords: ["semiconductor", "National Semiconductor Strategy", "NSS", "OSAT", "advanced packaging", "chip industry Malaysia", "Penang Silicon Valley", "MIDA", "IC design"]
 ---
 

@@ -78,7 +78,7 @@ relations:
   - { rel: "administered-by", to: "myipo" }
   - { rel: "supersedes", to: "geographical-indications-act-2000" }
   - { rel: "compares-with", to: "trademark-registration-malaysia" }
-related: ["trademark-registration-malaysia", "intellectual-property-malaysia", "myipo"]
+related: ["trademark-registration-malaysia"]
 keywords: ["geographical indication", "GI Act 2022", "Act 836", "MyIPO", "Sarawak pepper", "Musang King", "intellectual property Malaysia", "place of origin"]
 ---
 

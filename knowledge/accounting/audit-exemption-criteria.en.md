@@ -78,7 +78,7 @@ relations:
   - { rel: "administered-by", to: "suruhanjaya-syarikat-malaysia" }
   - { rel: "governs", to: "companies-act-2016" }
   - { rel: "related-to", to: "unaudited-financial-statements" }
-related: ["companies-act-2016", "exempt-private-company", "sdn-bhd-incorporation"]
+related: ["companies-act-2016"]
 keywords: ["pengecualian audit", "audit exemption", "PD 10/2024", "Arahan Amalan 10/2024", "Sdn Bhd", "syarikat persendirian", "SSM", "seksyen 267", "penyata kewangan tidak diaudit"]
 ---
 

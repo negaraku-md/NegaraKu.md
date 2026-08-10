@@ -93,7 +93,7 @@ sources:
 entity: "Operation Lalang"
 relations:
   - { rel: "related-to", to: "internal-security-act-1960" }
-related: ["internal-security-act-1960"]
+related: []
 keywords: ["Ops Lalang", "Operation Lalang", "Internal Security Act", "ISA 1960", "detention without trial", "1987 Malaysia", "SOSMA", "press freedom Malaysia"]
 ---
 

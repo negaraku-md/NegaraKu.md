@@ -80,7 +80,7 @@ entity: "Velodrom Nasional Malaysia"
 relations:
   - { rel: "administered-by", to: "majlis-sukan-negara" }
   - { rel: "related-to", to: "azizulhasni-awang" }
-related: ["azizulhasni-awang", "majlis-sukan-negara"]
+related: []
 keywords: ["velodrom nasional", "Nilai", "lumba basikal trek", "keirin", "Azizulhasni Awang", "MNCF", "Majlis Sukan Negara"]
 ---
 

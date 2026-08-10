@@ -94,7 +94,7 @@ relations:
   - { rel: "administered-by", to: "royal-malaysian-customs-department" }
   - { rel: "requires", to: "ssm-company-registration-malaysia" }
   - { rel: "related-to", to: "hs-code-classification-malaysia" }
-related: ["royal-malaysian-customs-department", "ssm-company-registration-malaysia", "sales-and-service-tax-malaysia"]
+related: ["sales-and-service-tax"]
 keywords: ["import licence Malaysia", "export permit Malaysia", "Approved Permit AP", "SIRIM import permit", "MAQIS permit", "customs registration Malaysia", "ePermit", "uCustoms", "MyTRADELINK"]
 ---
 

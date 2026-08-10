@@ -77,7 +77,7 @@ entity: "Petroliam Nasional Berhad (PETRONAS)"
 relations:
   - { rel: "related-to", to: "petroleum-development-act-1974" }
   - { rel: "related-to", to: "national-trust-fund" }
-related: ["petroleum-development-act-1974", "national-trust-fund"]
+related: ["petroleum-development-act-1974"]
 keywords: ["petronas", "petroliam nasional berhad", "malaysia oil and gas", "petroleum development act 1974", "national oil company"]
 ---
 

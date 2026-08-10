@@ -91,7 +91,7 @@ relations:
   - { rel: "governs", to: "franchise-act-1998" }
   - { rel: "administered-by", to: "kuskop-ministry-entrepreneur-cooperatives" }
   - { rel: "related-to", to: "starting-a-business-malaysia" }
-related: ["franchise-act-1998", "starting-a-business-malaysia", "ssm-company-registration"]
+related: []
 keywords: ["franchise registration malaysia", "franchise act 1998", "MyFEX 2.0", "franchisor registration", "franchisee registration", "franchise disclosure document", "section 6 franchise act", "section 54 approval"]
 ---
 

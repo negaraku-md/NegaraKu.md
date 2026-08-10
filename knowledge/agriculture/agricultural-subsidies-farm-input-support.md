@@ -84,7 +84,7 @@ entity: "Kementerian Pertanian dan Keterjaminan Makanan (KPKM)"
 relations:
   - { rel: "administered-by", to: "kementerian-pertanian-keterjaminan-makanan" }
   - { rel: "related-to", to: "padi-rice-industry-malaysia" }
-related: ["padi-rice-industry-malaysia", "food-security-malaysia"]
+related: []
 keywords: ["subsidi baja padi", "SBPKP", "SIPP", "insentif pengeluaran padi", "subsidi pertanian", "bantuan input pesawah"]
 ---
 

@@ -69,7 +69,7 @@ relations:
   - { rel: "governs", to: "education-act-1996" }
   - { rel: "administered-by", to: "ministry-of-education" }
   - { rel: "related-to", to: "national-education-system" }
-related: ["national-education-system", "private-and-international-schools", "spm-examination"]
+related: []
 keywords: ["pusat tuisyen", "tuition centre", "bimbingan persendirian", "Akta Pendidikan 1996", "pendaftaran IPS", "permit mengajar", "JPN"]
 ---
 

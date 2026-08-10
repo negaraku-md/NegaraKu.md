@@ -78,7 +78,7 @@ sources:
 relations:
   - { rel: "related-to", to: "hari-raya-aidilfitri" }
   - { rel: "related-to", to: "halal-certification-jakim" }
-related: ["hari-raya-aidilfitri", "halal-certification-jakim"]
+related: ["hari-raya-aidilfitri"]
 keywords: ["bazar ramadan", "ramadan bazaar malaysia", "juadah berbuka puasa", "etika bulan puasa", "lesen penjaja bazar"]
 ---
 

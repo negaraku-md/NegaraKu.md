@@ -74,7 +74,7 @@ entity: "FELCRA Berhad dan RISDA"
 relations:
   - { rel: "related-to", to: "felda-land-settlement-scheme" }
   - { rel: "related-to", to: "mspo-palm-oil-certification" }
-related: ["felda-land-settlement-scheme", "mspo-palm-oil-certification", "malaysia-rubber-industry"]
+related: ["felda-land-settlement-scheme", "rubber-industry"]
 keywords: ["FELCRA", "RISDA", "pekebun kecil", "penyatuan tanah", "pemulihan tanah", "tanam semula getah", "pembangunan luar bandar", "Akta 85"]
 ---
 

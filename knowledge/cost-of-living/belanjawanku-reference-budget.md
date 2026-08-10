@@ -76,7 +76,7 @@ entity: "Belanjawanku"
 relations:
   - { rel: "related-to", to: "poverty-line-income" }
   - { rel: "related-to", to: "epf-retirement-savings" }
-related: ["poverty-line-income", "epf-retirement-savings"]
+related: []
 keywords: ["belanjawanku", "kos sara hidup", "KWSP", "EPF", "belanjawan rujukan", "taraf hidup munasabah", "Lembah Klang", "SWRC"]
 ---
 

@@ -76,7 +76,7 @@ entity: "Jabatan Imigresen Malaysia"
 relations:
   - { rel: "governs", to: "immigration-act-1959-63" }
   - { rel: "related-to", to: "mykad-guide" }
-related: ["immigration-act-1959-63", "mykad-guide"]
+related: ["immigration-act-1959-63"]
 keywords: ["masuk sabah", "masuk sarawak", "imigresen sabah sarawak", "dokumen perjalanan terhad", "pas lawatan sosial", "MA63 imigresen"]
 ---
 

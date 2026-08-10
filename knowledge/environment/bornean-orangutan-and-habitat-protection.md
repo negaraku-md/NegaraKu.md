@@ -88,7 +88,7 @@ relations:
   - { rel: "governs", to: "wildlife-conservation-enactment-1997" }
   - { rel: "located-in", to: "sabah" }
   - { rel: "related-to", to: "kinabatangan-floodplain" }
-related: ["wildlife-conservation-enactment-1997", "sabah", "palm-oil-and-deforestation"]
+related: ["sabah"]
 keywords: ["Bornean orangutan", "Sabah", "Wildlife Conservation Enactment 1997", "Sepilok", "Kinabatangan", "habitat protection", "totally protected species", "wildlife corridor"]
 ---
 

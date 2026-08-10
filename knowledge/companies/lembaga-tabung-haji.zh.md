@@ -80,7 +80,7 @@ relations:
   - { rel: "administered-by", to: "kementerian-kewangan" }
   - { rel: "governs", to: "akta-tabung-haji-1995" }
   - { rel: "related-to", to: "bank-islam-malaysia" }
-related: ["kementerian-kewangan", "bank-islam-malaysia", "glic-malaysia"]
+related: []
 keywords: ["tabung haji", "lembaga tabung haji", "TH", "akta 535", "simpanan haji", "pelabur institusi", "GLIC", "kewangan islam"]
 ---
 

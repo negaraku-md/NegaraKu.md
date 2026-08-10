@@ -65,7 +65,7 @@ sources:
 entity: "Jabatan Perangkaan Malaysia (DOSM)"
 relations:
   - { rel: "related-to", to: "kos-sara-hidup-malaysia" }
-related: ["kos-sara-hidup-malaysia"]
+related: []
 keywords: ["B40", "M40", "T20", "pendapatan isi rumah", "DOSM", "kos sara hidup", "median pendapatan"]
 ---
 

@@ -73,7 +73,7 @@ entity: "Angkatan Pertahanan Awam Malaysia (APM)"
 relations:
   - { rel: "related-to", to: "jabatan-bomba-dan-penyelamat-malaysia" }
   - { rel: "governs", to: "akta-pertahanan-awam-1951" }
-related: ["jabatan-bomba-dan-penyelamat-malaysia"]
+related: []
 keywords: ["APM", "JPAM", "Angkatan Pertahanan Awam Malaysia", "pertahanan awam", "bantuan kecemasan", "PASPA", "Akta 221", "sukarelawan pertahanan awam"]
 ---
 

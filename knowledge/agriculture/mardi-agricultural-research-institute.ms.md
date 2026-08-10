@@ -79,7 +79,7 @@ entity: "Malaysian Agricultural Research and Development Institute (MARDI)"
 relations:
   - { rel: "administered-by", to: "ministry-of-agriculture-and-food-security" }
   - { rel: "related-to", to: "malaysia-rice-industry" }
-related: ["malaysia-rice-industry", "ministry-of-agriculture-and-food-security"]
+related: []
 keywords: ["MARDI", "agricultural research", "rice varieties", "MR 297", "KADARIA", "SMART SBB", "Malaysia agriculture", "padi"]
 ---
 

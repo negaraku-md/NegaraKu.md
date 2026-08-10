@@ -65,7 +65,7 @@ relations:
   - { rel: "governs", to: "income-tax-act-1967" }
   - { rel: "administered-by", to: "lhdn" }
   - { rel: "related-to", to: "zakat-pendapatan" }
-related: ["zakat-pendapatan", "income-tax-relief-individual", "how-to-file-income-tax-malaysia"]
+related: []
 keywords: ["zakat rebat cukai", "Seksyen 6A", "Akta Cukai Pendapatan 1967", "rebat cukai zakat LHDN", "zakat vs pelepasan cukai", "badan zakat negeri"]
 ---
 

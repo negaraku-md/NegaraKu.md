@@ -87,7 +87,7 @@ relations:
   - { rel: "administered-by", to: "jakim" }
   - { rel: "governs", to: "akta-perihal-dagangan-2011" }
   - { rel: "related-to", to: "kpdn" }
-related: ["jakim", "kpdn", "ms-1500"]
+related: ["jakim"]
 keywords: ["halal", "JAKIM", "sijil halal", "pensijilan halal", "MYeHALAL", "logo halal", "Akta Perihal Dagangan 2011", "MAIN", "JAIN"]
 ---
 

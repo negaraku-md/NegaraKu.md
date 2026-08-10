@@ -83,7 +83,7 @@ sources:
 entity: "Nicol David"
 relations:
   - { rel: "related-to", to: "sports-in-malaysia" }
-related: ["sports-in-malaysia"]
+related: []
 keywords: ["squash", "Nicol David", "SRAM", "Malaysian squash", "Ng Eain Yow", "Sivasangari Subramaniam", "World Open"]
 ---
 

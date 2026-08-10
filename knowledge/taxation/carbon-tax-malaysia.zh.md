@@ -90,7 +90,7 @@ entity: "Malaysia carbon tax"
 relations:
   - { rel: "related-to", to: "national-carbon-market-policy-malaysia" }
   - { rel: "related-to", to: "national-energy-transition-roadmap" }
-related: ["national-carbon-market-policy-malaysia", "national-energy-transition-roadmap"]
+related: []
 keywords: ["Malaysia carbon tax", "carbon pricing Malaysia", "iron steel energy carbon tax", "National Carbon Market Policy", "Climate Change Bill Malaysia", "cukai karbon"]
 ---
 

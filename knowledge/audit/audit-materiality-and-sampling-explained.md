@@ -72,7 +72,7 @@ entity: "ISA 320 / ISA 450 / ISA 530"
 relations:
   - { rel: "related-to", to: "statutory-audit-in-malaysia" }
   - { rel: "administered-by", to: "malaysian-institute-of-accountants" }
-related: ["statutory-audit-in-malaysia", "malaysian-institute-of-accountants", "audit-oversight-board"]
+related: ["malaysian-institute-of-accountants"]
 keywords: ["materiality", "audit sampling", "ISA 320", "ISA 530", "ISA 450", "performance materiality", "tolerable misstatement", "statutory audit Malaysia"]
 ---
 

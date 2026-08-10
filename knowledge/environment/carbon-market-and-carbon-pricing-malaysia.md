@@ -79,7 +79,7 @@ relations:
   - { rel: "administered-by", to: "ministry-of-natural-resources-and-environmental-sustainability" }
   - { rel: "related-to", to: "bursa-malaysia" }
   - { rel: "related-to", to: "malaysia-net-zero-2050" }
-related: ["bursa-malaysia", "malaysia-net-zero-2050"]
+related: ["bursa-malaysia"]
 keywords: ["carbon market Malaysia", "carbon pricing", "carbon tax Malaysia", "Bursa Carbon Exchange", "National Carbon Market Policy", "carbon credits", "emissions trading scheme", "CCUS Act 2025"]
 ---
 

@@ -88,7 +88,7 @@ relations:
   - { rel: "administered-by", to: "department-of-fisheries-malaysia" }
   - { rel: "related-to", to: "lkim" }
   - { rel: "related-to", to: "mmea" }
-related: ["lkim", "department-of-fisheries-malaysia", "mmea"]
+related: []
 keywords: ["industri perikanan malaysia", "pengeluaran ikan malaysia", "akuakultur malaysia", "lkim nelayan", "jabatan perikanan malaysia", "akta perikanan 1985", "pencerobohan bot nelayan asing", "iuu fishing malaysia"]
 ---
 

@@ -77,7 +77,7 @@ entity: "Majlis Keselamatan Negara (MKN)"
 relations:
   - { rel: "related-to", to: "federal-constitution-malaysia" }
   - { rel: "related-to", to: "yang-di-pertuan-agong" }
-related: ["federal-constitution-malaysia", "yang-di-pertuan-agong", "royal-malaysia-police"]
+related: ["federal-constitution", "yang-di-pertuan-agong"]
 keywords: ["Majlis Keselamatan Negara", "MKN", "Akta 776", "kawasan keselamatan", "Perkara 150", "darurat", "kuasa keselamatan negara"]
 ---
 

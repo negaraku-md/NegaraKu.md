@@ -85,7 +85,7 @@ relations:
   - { rel: "governs", to: "malaysia-deposit-insurance-corporation-act-2011" }
   - { rel: "related-to", to: "bank-negara-malaysia" }
   - { rel: "related-to", to: "fixed-deposit-malaysia" }
-related: ["bank-negara-malaysia", "fixed-deposit-malaysia", "takaful-in-malaysia"]
+related: ["bank-negara-malaysia"]
 keywords: ["PIDM", "deposit insurance", "RM250000", "takaful protection", "TIPS", "Perbadanan Insurans Deposit Malaysia", "Malaysia Deposit Insurance Corporation Act 2011", "insurance benefits protection"]
 ---
 

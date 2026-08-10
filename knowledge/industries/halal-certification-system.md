@@ -78,7 +78,7 @@ entity: "Sistem Pensijilan Halal Malaysia"
 relations:
   - { rel: "administered-by", to: "jakim" }
   - { rel: "related-to", to: "trade-descriptions-act-2011" }
-related: ["jakim", "trade-descriptions-act-2011"]
+related: ["jakim"]
 keywords: ["pensijilan halal Malaysia", "SPHM", "JAKIM halal", "MYeHALAL", "MS 1500", "logo halal Malaysia", "sijil halal", "e-Cert halal", "Manual Prosedur Pensijilan Halal Malaysia", "skim pensijilan halal"]
 ---
 

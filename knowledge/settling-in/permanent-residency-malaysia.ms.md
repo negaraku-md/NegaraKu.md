@@ -86,7 +86,7 @@ relations:
   - { rel: "governs", to: "immigration-act-1959-63" }
   - { rel: "compares-with", to: "malaysia-my-second-home-mm2h" }
   - { rel: "related-to", to: "malaysian-citizenship" }
-related: ["malaysia-my-second-home-mm2h", "long-term-social-visit-pass", "malaysian-citizenship"]
+related: []
 keywords: ["permanent residency Malaysia", "MyPR", "red IC Malaysia", "Entry Permit Malaysia", "PR spouse Malaysian", "Immigration Act 1959/63", "Regulation 4 Immigration Regulations 1963"]
 ---
 

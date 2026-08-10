@@ -81,7 +81,7 @@ entity: "River water quality and water security in Malaysia"
 relations:
   - { rel: "related-to", to: "environmental-quality-act-1974" }
   - { rel: "related-to", to: "department-of-environment" }
-related: ["environmental-quality-act-1974", "department-of-environment"]
+related: ["environmental-quality-act-1974"]
 keywords: ["pencemaran sungai", "indeks kualiti air", "WQI", "keselamatan air", "bekalan air", "Sungai Selangor", "Sungai Kim Kim", "rizab sungai", "Jabatan Alam Sekitar", "kawasan tadahan"]
 ---
 

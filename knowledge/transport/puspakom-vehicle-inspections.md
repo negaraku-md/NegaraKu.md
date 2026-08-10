@@ -78,7 +78,7 @@ entity: "PUSPAKOM"
 relations:
   - { rel: "governs", to: "road-transport-act-1987" }
   - { rel: "related-to", to: "road-tax-renewal-malaysia" }
-related: ["road-tax-renewal-malaysia", "e-hailing-driver-requirements-malaysia"]
+related: ["road-tax-renewal"]
 keywords: ["puspakom", "pemeriksaan berkala", "kenderaan komersial", "e-hailing", "cukai jalan", "akta pengangkutan jalan 1987"]
 ---
 

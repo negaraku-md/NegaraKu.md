@@ -83,7 +83,7 @@ entity: "State Islamic Religious Department"
 relations:
   - { rel: "governs", to: "registering-a-muslim-marriage" }
   - { rel: "related-to", to: "registering-a-civil-marriage" }
-related: ["registering-a-civil-marriage", "syariah-court-system"]
+related: ["registering-a-marriage-civil", "syariah-court-system"]
 keywords: ["muslim marriage malaysia", "nikah registration", "SPPIM", "wali hakim", "kursus pra perkahwinan", "akad nikah", "syariah court marriage", "islamic family law act 303"]
 ---
 

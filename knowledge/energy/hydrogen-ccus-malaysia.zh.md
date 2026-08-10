@@ -85,7 +85,7 @@ relations:
   - { rel: "related-to", to: "petronas" }
   - { rel: "related-to", to: "sarawak-energy" }
   - { rel: "part-of", to: "malaysia-energy-transition" }
-related: ["petronas", "sarawak-energy", "malaysia-energy-transition"]
+related: ["petronas", "sarawak-energy-berhad"]
 keywords: ["hydrogen Malaysia", "CCUS Malaysia", "Kasawari CCS", "H2biscus", "H2ornbill", "SEDC Energy", "green ammonia Sarawak", "carbon capture Malaysia"]
 ---
 

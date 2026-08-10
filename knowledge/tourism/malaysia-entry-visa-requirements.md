@@ -95,7 +95,7 @@ entity: "Immigration Department of Malaysia"
 relations:
   - { rel: "administered-by", to: "immigration-department-of-malaysia" }
   - { rel: "related-to", to: "malaysia-mm2h-program" }
-related: ["immigration-department-of-malaysia", "malaysia-mm2h-program"]
+related: []
 keywords: ["Malaysia visa", "MDAC", "Malaysia Digital Arrival Card", "eVISA Malaysia", "MYVISA", "visa-free Malaysia", "Malaysia entry requirements", "autogate Malaysia", "passport validity Malaysia"]
 ---
 

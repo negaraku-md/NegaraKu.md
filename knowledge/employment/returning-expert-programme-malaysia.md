@@ -66,7 +66,7 @@ entity: "Returning Expert Programme"
 relations:
   - { rel: "administered-by", to: "talentcorp-malaysia" }
   - { rel: "related-to", to: "income-tax-rates-malaysia" }
-related: ["income-tax-rates-malaysia"]
+related: []
 keywords: ["Returning Expert Programme", "REP", "TalentCorp", "15% flat tax", "Malaysian diaspora", "returning talent", "MyHeart", "CKD vehicle exemption"]
 ---
 

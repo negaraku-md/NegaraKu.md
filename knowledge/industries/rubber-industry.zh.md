@@ -89,7 +89,7 @@ entity: "Malaysian Rubber Industry"
 relations:
   - { rel: "administered-by", to: "malaysian-rubber-board" }
   - { rel: "related-to", to: "palm-oil-industry" }
-related: ["malaysian-rubber-board", "palm-oil-industry"]
+related: ["palm-oil-industry"]
 keywords: ["rubber", "natural rubber", "rubber gloves", "MARGMA", "Malaysian Rubber Board", "latex", "tyres", "smallholders", "downstream manufacturing"]
 ---
 

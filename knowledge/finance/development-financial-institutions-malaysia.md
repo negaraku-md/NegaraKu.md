@@ -95,7 +95,7 @@ relations:
   - { rel: "administered-by", to: "bank-negara-malaysia" }
   - { rel: "governs", to: "sme-financing-malaysia" }
   - { rel: "related-to", to: "islamic-banking-malaysia" }
-related: ["bank-negara-malaysia", "sme-financing-malaysia", "islamic-banking-malaysia"]
+related: ["bank-negara-malaysia", "sme-financing-malaysia"]
 keywords: ["development financial institutions", "DFI Malaysia", "DFIA 2002", "Bank Pembangunan", "Bank Rakyat", "Agrobank", "SME Bank", "Bank Simpanan Nasional", "EXIM Bank", "Bank Negara Malaysia"]
 ---
 

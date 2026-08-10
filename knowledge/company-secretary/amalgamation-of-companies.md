@@ -76,7 +76,7 @@ relations:
   - { rel: "governs", to: "scheme-of-arrangement" }
   - { rel: "administered-by", to: "ssm" }
   - { rel: "related-to", to: "members-voluntary-winding-up" }
-related: ["scheme-of-arrangement", "companies-act-2016", "ssm"]
+related: ["companies-act-2016", "ssm"]
 keywords: ["amalgamation", "scheme of arrangement", "section 366", "section 370", "Companies Act 2016", "reconstruction", "merger Malaysia", "SSM", "75 percent threshold", "vesting order"]
 ---
 

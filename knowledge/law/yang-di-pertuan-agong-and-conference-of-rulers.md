@@ -77,7 +77,7 @@ entity: "Yang di-Pertuan Agong"
 relations:
   - { rel: "related-to", to: "federal-constitution-of-malaysia" }
   - { rel: "related-to", to: "malay-rulers-and-state-monarchies" }
-related: ["federal-constitution-of-malaysia", "malay-rulers-and-state-monarchies"]
+related: ["federal-constitution"]
 keywords: ["Yang di-Pertuan Agong", "Majlis Raja-Raja", "Conference of Rulers", "Perkara 32", "Perkara 38", "raja berperlembagaan", "Ketua Negara"]
 ---
 

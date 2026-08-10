@@ -107,7 +107,7 @@ entity: "ASEAN"
 relations:
   - { rel: "related-to", to: "malaysia-foreign-policy" }
   - { rel: "related-to", to: "rcep-malaysia" }
-related: ["malaysia-foreign-policy"]
+related: []
 keywords: ["ASEAN", "Malaysia ASEAN", "Deklarasi Bangkok", "Piagam ASEAN", "Komuniti ASEAN", "pengerusi ASEAN 2025", "Tun Abdul Razak", "Timor-Leste ASEAN"]
 ---
 

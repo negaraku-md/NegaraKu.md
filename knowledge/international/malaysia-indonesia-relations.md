@@ -109,7 +109,7 @@ relations:
   - { rel: "related-to", to: "malaysia-asean" }
   - { rel: "related-to", to: "malaysia-foreign-workers" }
   - { rel: "compares-with", to: "malaysia-singapore-relations" }
-related: ["malaysia-asean", "malaysia-foreign-workers", "malaysia-singapore-relations"]
+related: ["malaysia-singapore-relations"]
 keywords: ["hubungan Malaysia Indonesia", "serumpun", "pekerja migran Indonesia", "One Channel System", "Pulau Sebatik", "Ambalat", "Sipadan Ligitan", "sempadan Malaysia Indonesia", "Perundingan Tahunan"]
 ---
 

@@ -86,7 +86,7 @@ relations:
   - { rel: "administered-by", to: "jabatan-pendaftaran-negara" }
   - { rel: "governs", to: "federal-constitution-citizenship" }
   - { rel: "related-to", to: "applying-for-malaysian-citizenship-article-15" }
-related: ["applying-for-malaysian-citizenship-article-15", "malaysian-birth-registration"]
+related: []
 keywords: ["kewarganegaraan keturunan", "Perkara 14(1)(b)", "Borang D", "lahir luar negara", "JPN", "Jadual Kedua", "pindaan perlembagaan 2024", "Perkara 15(2)"]
 ---
 

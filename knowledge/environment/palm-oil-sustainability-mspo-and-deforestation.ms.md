@@ -92,7 +92,7 @@ relations:
   - { rel: "administered-by", to: "malaysian-palm-oil-board-mpob" }
   - { rel: "compares-with", to: "rspo-certification" }
   - { rel: "affects", to: "eu-deforestation-regulation-eudr" }
-related: ["malaysia-palm-oil-industry", "malaysian-palm-oil-board-mpob"]
+related: ["palm-oil-industry"]
 keywords: ["MSPO", "palm oil sustainability", "deforestation", "EUDR", "RSPO", "certification", "smallholders", "MPOB", "Malaysia palm oil"]
 ---
 

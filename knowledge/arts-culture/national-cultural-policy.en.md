@@ -74,7 +74,7 @@ relations:
   - { rel: "related-to", to: "rukun-negara" }
   - { rel: "related-to", to: "peristiwa-13-mei-1969" }
   - { rel: "related-to", to: "national-cultural-policy-daken-2021" }
-related: ["rukun-negara", "peristiwa-13-mei-1969", "dasar-ekonomi-baru"]
+related: ["rukun-negara", "dasar-ekonomi-baru"]
 keywords: ["dasar kebudayaan kebangsaan", "kongres kebudayaan kebangsaan 1971", "tiga prinsip", "DAKEN 2021", "kebudayaan Malaysia", "perpaduan"]
 ---
 

@@ -79,7 +79,7 @@ entity: "Tourism Tax (Malaysia)"
 relations:
   - { rel: "administered-by", to: "royal-malaysian-customs-department" }
   - { rel: "related-to", to: "malaysia-sales-and-service-tax" }
-related: ["royal-malaysian-customs-department", "malaysia-sales-and-service-tax"]
+related: ["sales-and-service-tax"]
 keywords: ["tourism tax", "TTx", "Malaysia", "MyTTx", "RM10 per room", "DPSP", "hotel tax", "RMCD"]
 ---
 

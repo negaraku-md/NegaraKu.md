@@ -83,7 +83,7 @@ entity: "Lembaga Kemajuan Tanah Persekutuan (FELDA)"
 relations:
   - { rel: "related-to", to: "dasar-ekonomi-baru" }
   - { rel: "related-to", to: "bumiputera" }
-related: ["dasar-ekonomi-baru", "bumiputera", "fgv"]
+related: ["dasar-ekonomi-baru", "bumiputera"]
 keywords: ["FELDA", "Lembaga Kemajuan Tanah Persekutuan", "peneroka", "tanah rancangan", "kelapa sawit", "FGV", "pembangunan luar bandar"]
 ---
 

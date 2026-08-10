@@ -79,7 +79,7 @@ entity: "Agensi Pengurusan Bencana Negara (NADMA)"
 relations:
   - { rel: "part-of", to: "prime-ministers-department" }
   - { rel: "related-to", to: "malaysia-civil-defence-force-apm" }
-related: ["malaysia-civil-defence-force-apm", "fire-and-rescue-department-bomba"]
+related: ["civil-defence-force-apm", "fire-and-rescue-department-bomba"]
 keywords: ["NADMA", "pengurusan bencana", "Arahan NADMA No. 1", "Arahan MKN 20", "banjir", "SMART", "Jabatan Perdana Menteri"]
 ---
 

@@ -81,7 +81,7 @@ relations:
   - { rel: "administered-by", to: "securities-commission-malaysia" }
   - { rel: "related-to", to: "private-retirement-scheme-malaysia" }
   - { rel: "compares-with", to: "amanah-saham-bumiputera" }
-related: ["securities-commission-malaysia", "private-retirement-scheme-malaysia", "amanah-saham-bumiputera"]
+related: ["securities-commission-malaysia"]
 keywords: ["unit trust malaysia", "unit trust funds", "net asset value", "sales charge", "management fee", "securities commission", "FIMM", "equity fund", "money market fund", "EPF i-invest"]
 ---
 

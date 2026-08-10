@@ -89,7 +89,7 @@ sources:
 relations:
   - { rel: "related-to", to: "malaysia-agreement-1963" }
   - { rel: "related-to", to: "federal-constitution-of-malaysia" }
-related: ["malaysia-agreement-1963", "federal-constitution-of-malaysia"]
+related: ["federal-constitution"]
 keywords: ["native customary rights", "NCR", "Sarawak Land Code", "Sabah Land Ordinance", "native title", "temuda", "pemakai menoa", "East Malaysia land law"]
 ---
 

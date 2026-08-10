@@ -79,7 +79,7 @@ entity: "Occupational Safety and Health Act 1994"
 relations:
   - { rel: "administered-by", to: "department-of-occupational-safety-and-health" }
   - { rel: "supersedes", to: "factories-and-machinery-act-1967" }
-related: ["department-of-occupational-safety-and-health"]
+related: []
 keywords: ["OSHA 1994", "Akta 514", "tanggungjawab majikan", "DOSH", "penilaian risiko", "JKKP 6", "keselamatan pekerjaan"]
 ---
 

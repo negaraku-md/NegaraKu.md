@@ -84,7 +84,7 @@ relations:
   - { rel: "related-to", to: "industries-palm-oil" }
   - { rel: "related-to", to: "industries-oil-and-gas" }
   - { rel: "related-to", to: "industries-tourism" }
-related: ["industries-electrical-electronics", "industries-palm-oil", "industries-oil-and-gas", "industries-tourism"]
+related: []
 keywords: ["Malaysia industries", "Malaysia economy sectors", "Malaysia GDP by sector", "Malaysia exports", "electrical and electronics Malaysia", "palm oil", "Malaysia manufacturing", "services sector Malaysia"]
 ---
 

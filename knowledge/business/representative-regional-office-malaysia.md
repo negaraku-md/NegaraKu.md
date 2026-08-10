@@ -74,7 +74,7 @@ relations:
   - { rel: "administered-by", to: "mida" }
   - { rel: "related-to", to: "principal-hub-malaysia" }
   - { rel: "related-to", to: "foreign-company-branch-malaysia" }
-related: ["mida", "principal-hub-malaysia", "incorporate-company-malaysia"]
+related: ["mida"]
 keywords: ["representative office malaysia", "regional office malaysia", "MIDA RE RO", "foreign company presence malaysia", "market entry malaysia", "non-trading office"]
 ---
 

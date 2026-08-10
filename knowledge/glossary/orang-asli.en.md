@@ -88,7 +88,7 @@ relations:
   - { rel: "explained-in", to: "aboriginal-peoples-act-1954" }
   - { rel: "related-to", to: "bumiputera" }
   - { rel: "related-to", to: "orang-asal" }
-related: ["bumiputera", "jakoa", "aboriginal-peoples-act-1954", "population-composition"]
+related: ["bumiputera", "population-composition"]
 keywords: ["Orang Asli", "definisi Orang Asli", "Akta Orang Asli 1954", "Akta 134", "JAKOA", "Negrito", "Senoi", "Melayu-Proto", "suku kaum", "peribumi Semenanjung", "Orang Asal"]
 ---
 

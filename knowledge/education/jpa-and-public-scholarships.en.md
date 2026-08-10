@@ -86,7 +86,7 @@ entity: "Jabatan Perkhidmatan Awam (JPA)"
 relations:
   - { rel: "related-to", to: "ptptn-education-loan" }
   - { rel: "administered-by", to: "public-service-department" }
-related: ["ptptn-education-loan", "public-universities-admission-upu"]
+related: []
 keywords: ["biasiswa JPA", "penajaan awam", "MARA", "Yayasan Khazanah", "PETRONAS PESP", "pinjaman boleh ubah", "PTPTN", "biasiswa Malaysia"]
 ---
 

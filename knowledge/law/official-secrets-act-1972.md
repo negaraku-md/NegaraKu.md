@@ -77,7 +77,7 @@ entity: "Akta Rahsia Rasmi 1972"
 relations:
   - { rel: "related-to", to: "sedition-act-1948" }
   - { rel: "related-to", to: "freedom-of-information-malaysia" }
-related: ["sedition-act-1948", "freedom-of-information-malaysia"]
+related: []
 keywords: ["Akta Rahsia Rasmi 1972", "Official Secrets Act", "Akta 88", "rahsia rasmi", "pengelasan dokumen", "seksyen 16A", "keselamatan negara", "kebebasan media", "OSA Malaysia"]
 ---
 

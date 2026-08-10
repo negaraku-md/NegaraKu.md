@@ -93,7 +93,7 @@ entity: "Digital banks of Malaysia"
 relations:
   - { rel: "administered-by", to: "bank-negara-malaysia" }
   - { rel: "related-to", to: "pidm-deposit-insurance" }
-related: ["bank-negara-malaysia", "pidm-deposit-insurance"]
+related: ["bank-negara-malaysia", "deposit-insurance-pidm"]
 keywords: ["bank digital", "digital bank Malaysia", "GXBank", "Boost Bank", "AEON Bank", "Ryt Bank", "KAF Digital Bank", "PIDM", "BNM"]
 ---
 

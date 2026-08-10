@@ -72,7 +72,7 @@ relations:
   - { rel: "administered-by", to: "jabatan-perpaduan-negara-integrasi-nasional" }
   - { rel: "related-to", to: "pdrm-royal-malaysia-police" }
   - { rel: "related-to", to: "jkkk-village-safety-committee" }
-related: ["pdrm-royal-malaysia-police", "emergency-numbers-malaysia"]
+related: ["royal-malaysia-police-pdrm"]
 keywords: ["rukun tetangga", "skim rondaan sukarela", "SRS", "KRT", "kepolisan komuniti", "JPNIN", "Akta 751", "keselamatan kejiranan"]
 ---
 

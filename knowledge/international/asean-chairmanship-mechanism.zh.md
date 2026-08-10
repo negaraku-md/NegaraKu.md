@@ -85,7 +85,7 @@ entity: "ASEAN"
 relations:
   - { rel: "related-to", to: "asean-overview" }
   - { rel: "related-to", to: "malaysia-asean-chairmanship-2025" }
-related: ["asean-overview", "malaysia-asean-chairmanship-2025"]
+related: []
 keywords: ["pengerusian ASEAN", "Piagam ASEAN", "Perkara 31", "giliran abjad", "Malaysia 2025", "Filipina 2026", "Sidang Kemuncak ASEAN"]
 ---
 

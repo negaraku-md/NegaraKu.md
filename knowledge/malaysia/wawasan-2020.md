@@ -83,7 +83,7 @@ entity: "Wawasan 2020"
 relations:
   - { rel: "related-to", to: "wawasan-kemakmuran-bersama-2030" }
   - { rel: "related-to", to: "dasar-ekonomi-baru" }
-related: ["wawasan-kemakmuran-bersama-2030", "dasar-ekonomi-baru"]
+related: ["dasar-ekonomi-baru"]
 keywords: ["Wawasan 2020", "Vision 2020", "Mahathir Mohamad", "Bangsa Malaysia", "negara maju", "sembilan cabaran", "Wawasan Kemakmuran Bersama 2030"]
 ---
 

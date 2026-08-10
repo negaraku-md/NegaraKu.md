@@ -97,7 +97,7 @@ relations:
   - { rel: "administered-by", to: "royal-malaysian-customs-department" }
   - { rel: "related-to", to: "sales-and-service-tax" }
   - { rel: "related-to", to: "import-duty" }
-related: ["sales-and-service-tax", "import-duty", "royal-malaysian-customs-department"]
+related: ["sales-and-service-tax"]
 keywords: ["duti eksais", "excise duty", "Akta Eksais 1976", "cukai kereta", "duti eksais rokok", "cukai gula", "minuman bergula", "JKDM", "kastam"]
 ---
 

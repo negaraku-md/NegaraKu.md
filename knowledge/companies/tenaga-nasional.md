@@ -73,7 +73,7 @@ entity: "Tenaga Nasional Berhad"
 relations:
   - { rel: "related-to", to: "suruhanjaya-tenaga" }
   - { rel: "related-to", to: "peta-peralihan-tenaga-negara" }
-related: ["suruhanjaya-tenaga", "peta-peralihan-tenaga-negara"]
+related: []
 keywords: ["Tenaga Nasional Berhad", "TNB", "utiliti elektrik", "grid nasional", "Single Buyer", "IPP", "NETR", "Lembaga Letrik Negara"]
 ---
 

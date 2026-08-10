@@ -77,7 +77,7 @@ sources:
 entity: "Pusat Darah Negara"
 relations:
   - { rel: "administered-by", to: "ministry-of-health-malaysia" }
-related: ["ministry-of-health-malaysia"]
+related: []
 keywords: ["derma darah", "Pusat Darah Negara", "PDN", "syarat menderma darah", "keistimewaan penderma", "blood donation Malaysia"]
 ---
 

@@ -85,7 +85,7 @@ entity: "MFRS 124"
 relations:
   - { rel: "related-to", to: "mbrs-xbrl-filing" }
   - { rel: "related-to", to: "companies-act-2016" }
-related: ["mbrs-xbrl-filing", "companies-act-2016"]
+related: ["companies-act-2016"]
 keywords: ["MFRS 124", "pihak berkaitan", "akaun semasa pengarah", "pinjaman pengarah", "MBRS", "IAS 24", "penyata kewangan"]
 ---
 

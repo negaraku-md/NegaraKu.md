@@ -69,7 +69,7 @@ sources:
 relations:
   - { rel: "administered-by", to: "suruhanjaya-syarikat-malaysia" }
   - { rel: "related-to", to: "company-secretary-duties-and-responsibilities" }
-related: ["company-secretary-duties-and-responsibilities", "companies-act-2016"]
+related: ["companies-act-2016"]
 keywords: ["liabiliti setiausaha syarikat", "kesalahan setiausaha syarikat", "penyata palsu", "seksyen 591", "Akta Syarikat 2016", "pegawai syarikat", "Borang 49"]
 ---
 

@@ -80,7 +80,7 @@ sources:
 
 relations:
   - { rel: "governs", to: "road-transport-act-1987" }
-related: ["road-transport-act-1987"]
+related: []
 keywords: ["lorong motosikal", "Lebuhraya Persekutuan", "topi keledar", "Seksyen 79(2)", "motosikal lebuh raya", "MS 1", "kapasiti enjin"]
 ---
 

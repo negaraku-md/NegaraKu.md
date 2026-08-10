@@ -78,7 +78,7 @@ relations:
   - { rel: "governs", to: "consolidated-financial-statements" }
   - { rel: "related-to", to: "companies-act-2016" }
   - { rel: "related-to", to: "mbrs-xbrl-filing" }
-related: ["companies-act-2016", "mbrs-xbrl-filing", "approved-accounting-standards"]
+related: ["companies-act-2016"]
 keywords: ["MFRS 10", "consolidated financial statements", "control", "subsidiary", "holding company", "Companies Act 2016", "MBRS", "group accounts", "Malaysia"]
 ---
 

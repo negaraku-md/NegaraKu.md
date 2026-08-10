@@ -92,7 +92,7 @@ relations:
   - { rel: "related-to", to: "petronas" }
   - { rel: "related-to", to: "tenaga-nasional-berhad" }
   - { rel: "related-to", to: "energy-commission-malaysia" }
-related: ["petronas", "tenaga-nasional-berhad", "energy-commission-malaysia"]
+related: ["petronas", "tenaga-nasional"]
 keywords: ["NETR", "National Energy Transition Roadmap", "Malaysia energy transition", "renewable energy Malaysia", "net zero 2050", "coal phase out Malaysia", "green hydrogen Malaysia", "CCUS Malaysia", "NETF seed fund", "ENEGEM"]
 ---
 

@@ -94,7 +94,7 @@ sources:
 relations:
   - { rel: "related-to", to: "flood-warning-system-malaysia" }
   - { rel: "administered-by", to: "nadma-malaysia" }
-related: ["flood-warning-system-malaysia", "nadma-malaysia"]
+related: []
 keywords: ["persediaan banjir", "beg kecemasan", "banjir monsun", "PPS", "Bantuan Wang Ihsan", "NADMA", "amaran cuaca MetMalaysia", "tanah runtuh", "gempa bumi Sabah", "bencana"]
 ---
 

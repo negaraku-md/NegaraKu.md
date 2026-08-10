@@ -87,7 +87,7 @@ relations:
   - { rel: "administered-by", to: "ministry-of-finance-malaysia" }
   - { rel: "related-to", to: "khazanah-nasional" }
   - { rel: "related-to", to: "bursa-malaysia" }
-related: ["khazanah-nasional", "bursa-malaysia", "ekonomi-madani"]
+related: ["khazanah-nasional", "bursa-malaysia"]
 keywords: ["GLC", "GLIC", "Khazanah", "KWSP", "PNB", "KWAP", "LTAT", "Tabung Haji", "GEAR-uP", "PERKUKUH", "Program Transformasi GLC", "Bursa Malaysia"]
 ---
 

@@ -81,7 +81,7 @@ sources:
 relations:
   - { rel: "administered-by", to: "companies-commission-of-malaysia-ssm" }
   - { rel: "related-to", to: "incorporate-company-malaysia-sdn-bhd" }
-related: ["incorporate-company-malaysia-sdn-bhd", "companies-act-2016"]
+related: ["companies-act-2016"]
 keywords: ["foreign company registration Malaysia", "branch office Malaysia", "section 562 Companies Act 2016", "SSM foreign company", "local agent Malaysia", "branch vs Sdn Bhd"]
 ---
 

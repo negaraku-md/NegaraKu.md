@@ -93,7 +93,7 @@ relations:
   - { rel: "administered-by", to: "tenaga-nasional-berhad" }
   - { rel: "related-to", to: "national-cloud-computing-policy" }
   - { rel: "located-in", to: "johor" }
-related: ["tenaga-nasional-berhad", "national-cloud-computing-policy", "johor"]
+related: ["tenaga-nasional", "johor"]
 keywords: ["data centre Malaysia", "Johor data centre", "TNB data centre", "non-AI data centre restriction", "data sovereignty Malaysia", "National Cloud Computing Policy", "Green Lane TNB", "Johor water data centre"]
 ---
 

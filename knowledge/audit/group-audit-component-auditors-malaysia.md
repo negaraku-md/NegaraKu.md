@@ -79,7 +79,7 @@ entity: "ISA 600 (Revised) — Audits of Group Financial Statements"
 relations:
   - { rel: "related-to", to: "approved-company-auditor-malaysia" }
   - { rel: "related-to", to: "malaysian-institute-of-accountants" }
-related: ["approved-company-auditor-malaysia", "malaysian-institute-of-accountants"]
+related: ["malaysian-institute-of-accountants"]
 keywords: ["ISA 600", "group audit", "component auditor", "group engagement partner", "Malaysia subsidiary audit", "MIA", "consolidated financial statements", "aggregation risk"]
 ---
 

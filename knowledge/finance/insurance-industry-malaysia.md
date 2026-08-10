@@ -84,7 +84,7 @@ relations:
   - { rel: "governs", to: "financial-services-act-2013" }
   - { rel: "related-to", to: "takaful-malaysia" }
   - { rel: "administered-by", to: "bank-negara-malaysia" }
-related: ["takaful-malaysia", "bank-negara-malaysia", "financial-services-act-2013"]
+related: ["bank-negara-malaysia"]
 keywords: ["insurance Malaysia", "life insurance", "general insurance", "motor insurance", "PIAM", "LIAM", "Financial Services Act 2013", "Bank Negara Malaysia", "third party cover"]
 ---
 

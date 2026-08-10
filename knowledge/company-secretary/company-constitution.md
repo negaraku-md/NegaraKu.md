@@ -82,7 +82,7 @@ relations:
   - { rel: "governs", to: "companies-act-2016" }
   - { rel: "administered-by", to: "ssm" }
   - { rel: "requires", to: "special-resolution" }
-related: ["companies-act-2016", "special-resolution", "company-limited-by-guarantee"]
+related: ["companies-act-2016", "company-limited-by-guarantee-malaysia"]
 keywords: ["perlembagaan syarikat", "company constitution", "resolusi khas", "seksyen 32", "seksyen 36", "entrenchment", "Akta Syarikat 2016", "SSM"]
 ---
 

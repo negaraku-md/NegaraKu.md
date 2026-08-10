@@ -89,7 +89,7 @@ relations:
   - { rel: "administered-by", to: "bank-negara-malaysia" }
   - { rel: "governs", to: "overnight-policy-rate-malaysia" }
   - { rel: "related-to", to: "hire-purchase-act-1967-malaysia" }
-related: ["overnight-policy-rate-malaysia", "hire-purchase-act-1967-malaysia", "bank-negara-malaysia"]
+related: ["bank-negara-malaysia"]
 keywords: ["SBR Malaysia", "Standardised Base Rate", "debt service ratio", "DSR", "housing loan Malaysia", "Hire Purchase Act 1967", "BLR", "responsible financing", "OPR"]
 ---
 

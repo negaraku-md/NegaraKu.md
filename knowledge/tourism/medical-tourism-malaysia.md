@@ -79,7 +79,7 @@ entity: "Malaysia Healthcare Travel Council"
 relations:
   - { rel: "related-to", to: "healthcare-system-malaysia" }
   - { rel: "related-to", to: "tourism-malaysia" }
-related: ["healthcare-system-malaysia", "tourism-malaysia"]
+related: ["tourism"]
 keywords: ["medical tourism Malaysia", "healthcare travel", "MHTC", "Malaysia Healthcare Travel Council", "JCI hospitals Malaysia", "IVF Malaysia", "cardiac care Malaysia"]
 ---
 

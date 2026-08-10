@@ -67,7 +67,7 @@ entity: "Jabatan Bomba dan Penyelamat Malaysia (JBPM)"
 relations:
   - { rel: "administered-by", to: "jabatan-bomba-dan-penyelamat-malaysia" }
   - { rel: "governs", to: "akta-perkhidmatan-bomba-1988" }
-related: ["jabatan-bomba-dan-penyelamat-malaysia", "akta-perkhidmatan-bomba-1988"]
+related: []
 keywords: ["keselamatan kebakaran", "pencegahan kebakaran", "perakuan bomba", "fire certificate", "JBPM", "Akta Perkhidmatan Bomba 1988"]
 ---
 

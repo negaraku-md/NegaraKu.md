@@ -89,7 +89,7 @@ entity: "Malaysian Sustainable Palm Oil (MSPO)"
 relations:
   - { rel: "administered-by", to: "malaysian-palm-oil-certification-council" }
   - { rel: "related-to", to: "palm-oil-industry-malaysia" }
-related: ["palm-oil-industry-malaysia", "eu-deforestation-regulation"]
+related: ["palm-oil-industry"]
 keywords: ["MSPO", "RSPO", "EUDR", "sustainable palm oil", "MS 2530:2022", "MPOCC", "forced labour", "deforestation", "palm oil certification"]
 ---
 

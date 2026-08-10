@@ -92,7 +92,7 @@ relations:
   - { rel: "related-to", to: "renewable-energy-malaysia" }
   - { rel: "related-to", to: "tenaga-nasional-berhad" }
   - { rel: "related-to", to: "score-sarawak" }
-related: ["renewable-energy-malaysia", "tenaga-nasional-berhad", "score-sarawak"]
+related: ["tenaga-nasional"]
 keywords: ["hidrokuasa", "empangan Bakun", "Murum", "Baleh", "Kenyir", "Temengor", "Sarawak Energy", "tenaga boleh baharu", "hydropower Malaysia"]
 ---
 

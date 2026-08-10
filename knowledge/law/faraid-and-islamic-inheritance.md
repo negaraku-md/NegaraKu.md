@@ -75,7 +75,7 @@ entity: "Faraid"
 relations:
   - { rel: "related-to", to: "wills-and-estate-planning-malaysia" }
   - { rel: "related-to", to: "syariah-courts-malaysia" }
-related: ["wills-and-estate-planning-malaysia", "syariah-courts-malaysia"]
+related: []
 keywords: ["faraid", "harta pusaka", "pusaka islam", "waris", "mahkamah syariah", "baitulmal", "akta pembahagian 1958", "pusaka kecil"]
 ---
 

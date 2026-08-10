@@ -69,7 +69,7 @@ entity: "Jabatan Warisan Negara"
 relations:
   - { rel: "administered-by", to: "jabatan-warisan-negara" }
   - { rel: "compares-with", to: "unesco-world-heritage-malaysia" }
-related: ["jabatan-warisan-negara", "unesco-world-heritage-malaysia"]
+related: ["unesco-world-heritage"]
 keywords: ["warisan kebangsaan", "Akta Warisan Kebangsaan 2005", "Akta 645", "Jabatan Warisan Negara", "Daftar Warisan Kebangsaan", "WAKOH", "tapak warisan"]
 ---
 

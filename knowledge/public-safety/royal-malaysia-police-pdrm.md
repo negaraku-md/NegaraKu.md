@@ -71,7 +71,7 @@ relations:
   - { rel: "governs", to: "police-act-1967" }
   - { rel: "related-to", to: "enforcement-agency-integrity-commission-eaic" }
   - { rel: "related-to", to: "independent-police-conduct-commission-ipcc" }
-related: ["kementerian-dalam-negeri", "police-act-1967", "independent-police-conduct-commission-ipcc"]
+related: []
 keywords: ["PDRM", "Polis Diraja Malaysia", "Ketua Polis Negara", "Akta Polis 1967", "pangkat polis", "Bukit Aman", "IPCC", "EAIC"]
 ---
 

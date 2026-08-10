@@ -86,7 +86,7 @@ entity: "Lembaga Tabung Angkatan Tentera (LTAT)"
 relations:
   - { rel: "related-to", to: "boustead-holdings" }
   - { rel: "related-to", to: "government-linked-companies" }
-related: ["boustead-holdings", "government-linked-companies"]
+related: []
 keywords: ["LTAT", "Lembaga Tabung Angkatan Tentera", "Boustead Holdings", "Project Earth", "Angkatan Tentera Malaysia", "GLC", "dividen", "Pharmaniaga"]
 ---
 

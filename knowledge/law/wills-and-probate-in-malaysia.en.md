@@ -90,7 +90,7 @@ sources:
 
 relations:
   - { rel: "related-to", to: "estate-planning-in-malaysia" }
-related: ["estate-planning-in-malaysia"]
+related: []
 keywords: ["wasiat", "probet", "pusaka", "Akta Pembahagian 1958", "Akta Wasiat 1959", "surat kuasa mentadbir", "bukan Islam"]
 ---
 

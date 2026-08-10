@@ -91,7 +91,7 @@ relations:
   - { rel: "related-to", to: "petroleum-development-act-1974" }
   - { rel: "related-to", to: "malaysia-agreement-1963" }
   - { rel: "related-to", to: "petros-sarawak" }
-related: ["petroleum-development-act-1974", "malaysia-agreement-1963", "petros-sarawak"]
+related: ["petroleum-development-act-1974"]
 keywords: ["Petronas", "Petroliam Nasional Berhad", "Akta Kemajuan Petroleum 1974", "PETROS", "royalti minyak", "gas aggregator", "Sarawak", "MISC", "PETRONAS Chemicals"]
 ---
 

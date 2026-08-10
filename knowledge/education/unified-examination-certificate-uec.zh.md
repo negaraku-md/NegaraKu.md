@@ -80,7 +80,7 @@ entity: "Sijil Peperiksaan Bersama (UEC)"
 relations:
   - { rel: "administered-by", to: "dong-zong" }
   - { rel: "related-to", to: "sistem-pendidikan-malaysia" }
-related: ["dong-zong", "sistem-pendidikan-malaysia"]
+related: []
 keywords: ["UEC", "Sijil Peperiksaan Bersama", "Dong Zong", "sekolah menengah persendirian Cina", "pengiktirafan UEC", "IPTA", "bahasa kebangsaan"]
 ---
 

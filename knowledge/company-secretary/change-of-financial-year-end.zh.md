@@ -66,7 +66,7 @@ relations:
   - { rel: "governs", to: "companies-act-2016" }
   - { rel: "related-to", to: "lodgement-of-financial-statements" }
   - { rel: "related-to", to: "cp204b-change-of-accounting-period" }
-related: ["lodgement-of-financial-statements", "cp204b-change-of-accounting-period", "companies-act-2016"]
+related: ["financial-statements-lodgement", "companies-act-2016"]
 keywords: ["tahun kewangan", "FYE", "financial year end", "SSM", "Akta Syarikat 2016", "CP204B", "penyata kewangan"]
 ---
 

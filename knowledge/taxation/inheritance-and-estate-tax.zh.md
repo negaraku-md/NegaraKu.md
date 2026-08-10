@@ -89,7 +89,7 @@ relations:
   - { rel: "related-to", to: "real-property-gains-tax" }
   - { rel: "related-to", to: "stamp-duty" }
   - { rel: "related-to", to: "personal-income-tax" }
-related: ["real-property-gains-tax", "stamp-duty", "personal-income-tax"]
+related: ["real-property-gains-tax"]
 keywords: ["inheritance tax Malaysia", "estate duty Malaysia", "no inheritance tax", "deceased estate income tax", "RPGT inherited property", "stamp duty inheritance", "executor tax Malaysia", "death tax Malaysia"]
 ---
 

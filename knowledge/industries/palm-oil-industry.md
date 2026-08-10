@@ -93,7 +93,7 @@ relations:
   - { rel: "administered-by", to: "malaysian-palm-oil-board" }
   - { rel: "related-to", to: "rubber-industry" }
   - { rel: "compares-with", to: "rubber-industry" }
-related: ["rubber-industry", "malaysian-palm-oil-board"]
+related: ["rubber-industry"]
 keywords: ["palm oil", "crude palm oil", "CPO", "MPOB", "FELDA", "smallholders", "oil palm", "refineries", "oleochemicals", "MSPO", "biodiesel", "exports"]
 ---
 

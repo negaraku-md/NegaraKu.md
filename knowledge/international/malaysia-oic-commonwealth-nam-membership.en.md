@@ -92,7 +92,7 @@ relations:
   - { rel: "related-to", to: "malaysia-asean-membership" }
   - { rel: "related-to", to: "malaysia-united-nations-membership" }
   - { rel: "related-to", to: "malaysia-foreign-policy" }
-related: ["malaysia-asean-membership", "malaysia-united-nations-membership", "malaysia-foreign-policy"]
+related: ["malaysia-asean-membership", "malaysia-united-nations-membership"]
 keywords: ["OIC", "Pertubuhan Kerjasama Islam", "Komanwel", "Commonwealth", "NAM", "Pergerakan Negara-Negara Berkecuali", "D-8", "APEC", "dasar luar Malaysia", "keahlian antarabangsa"]
 ---
 

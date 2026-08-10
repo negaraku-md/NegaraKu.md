@@ -70,7 +70,7 @@ entity: "Islamic Family Law (Federal Territories) Act 1984"
 relations:
   - { rel: "administered-by", to: "syariah-courts-malaysia" }
   - { rel: "related-to", to: "harta-sepencarian-malaysia" }
-related: ["syariah-courts-malaysia", "harta-sepencarian-malaysia"]
+related: []
 keywords: ["undang-undang keluarga islam", "akta 303", "mahkamah syariah", "talaq", "fasakh", "khuluk", "hadhanah", "nafkah", "poligami", "islamic family law malaysia"]
 ---
 

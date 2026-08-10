@@ -81,7 +81,7 @@ relations:
   - { rel: "related-to", to: "palm-oil-industry" }
   - { rel: "related-to", to: "bursa-malaysia" }
   - { rel: "compares-with", to: "sime-darby-plantation" }
-related: ["palm-oil-industry", "bursa-malaysia", "sime-darby-plantation"]
+related: ["palm-oil-industry", "bursa-malaysia"]
 keywords: ["IOI Corporation", "IOI Corp", "IOICORP", "palm oil Malaysia", "oleochemicals", "RSPO", "plantation company", "IOI Properties"]
 ---
 

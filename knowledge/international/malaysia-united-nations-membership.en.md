@@ -88,7 +88,7 @@ entity: "Malaysia"
 relations:
   - { rel: "related-to", to: "malaysia-foreign-policy" }
   - { rel: "related-to", to: "malaysia-asean-membership" }
-related: ["malaysia-foreign-policy", "malaysia-asean-membership"]
+related: ["malaysia-asean-membership"]
 keywords: ["Malaysia PBB", "United Nations Malaysia", "Majlis Keselamatan PBB", "pasukan pengaman", "UNIFIL", "keahlian PBB", "diplomasi Malaysia"]
 ---
 

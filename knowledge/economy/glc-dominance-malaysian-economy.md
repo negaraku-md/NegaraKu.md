@@ -85,7 +85,7 @@ entity: "Government-Linked Investment Companies (GLICs)"
 relations:
   - { rel: "related-to", to: "khazanah-nasional-sovereign-wealth-fund" }
   - { rel: "related-to", to: "epf-kwsp-retirement-savings" }
-related: ["khazanah-nasional-sovereign-wealth-fund", "epf-kwsp-retirement-savings"]
+related: []
 keywords: ["GLC", "GLIC", "Khazanah", "government-linked companies", "Bursa Malaysia", "PERKUKUH", "state ownership", "Malaysian economy"]
 ---
 

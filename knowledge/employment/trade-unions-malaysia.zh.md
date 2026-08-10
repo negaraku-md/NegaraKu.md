@@ -92,7 +92,7 @@ entity: "Akta Kesatuan Sekerja 1959"
 relations:
   - { rel: "governs", to: "trade-unions-malaysia" }
   - { rel: "related-to", to: "industrial-relations-act-malaysia" }
-related: ["industrial-relations-act-malaysia"]
+related: []
 keywords: ["kesatuan sekerja", "trade union", "Akta Kesatuan Sekerja 1959", "Akta 262", "JHEKS", "e-TUIS", "pindaan 2024", "perundingan kolektif", "Ketua Pengarah Kesatuan Sekerja"]
 ---
 

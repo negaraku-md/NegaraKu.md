@@ -83,7 +83,7 @@ entity: "Jabatan Bantuan Guaman"
 relations:
   - { rel: "governs", to: "legal-aid-act-1971" }
   - { rel: "related-to", to: "malaysian-court-system" }
-related: ["malaysian-court-system"]
+related: []
 keywords: ["bantuan guaman", "legal aid", "JBG", "YBGK", "Majlis Peguam", "ujian kemampuan", "peguam percuma"]
 ---
 

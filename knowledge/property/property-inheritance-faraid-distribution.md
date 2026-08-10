@@ -82,7 +82,7 @@ sources:
 relations:
   - { rel: "related-to", to: "property-buying-a-home-guide" }
   - { rel: "related-to", to: "property-real-property-gains-tax-rpgt" }
-related: ["property-buying-a-home-guide", "property-real-property-gains-tax-rpgt"]
+related: []
 keywords: ["faraid", "harta pusaka", "Akta Pembahagian 1958", "Amanah Raya", "sijil faraid", "pewarisan hartanah", "harta pusaka kecil", "Pejabat Tanah"]
 ---
 

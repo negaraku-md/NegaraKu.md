@@ -76,7 +76,7 @@ relations:
   - { rel: "administered-by", to: "bank-negara-malaysia" }
   - { rel: "related-to", to: "pidm-deposit-insurance" }
   - { rel: "related-to", to: "duitnow-qr" }
-related: ["pidm-deposit-insurance", "duitnow-qr", "financial-services-act-2013"]
+related: ["deposit-insurance-pidm"]
 keywords: ["e-wallet Malaysia", "e-money", "Touch n Go eWallet", "Boost", "GrabPay", "ShopeePay", "BNM", "PIDM", "akaun amanah", "safeguarding"]
 ---
 

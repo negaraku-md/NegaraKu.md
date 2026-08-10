@@ -78,7 +78,7 @@ entity: "Barisan Nasional"
 relations:
   - { rel: "related-to", to: "umno" }
   - { rel: "related-to", to: "pakatan-harapan" }
-related: ["umno", "pakatan-harapan"]
+related: []
 keywords: ["Barisan Nasional", "National Front", "BN", "Alliance Party", "UMNO", "MCA", "MIC", "GE14", "Malaysian coalition"]
 ---
 

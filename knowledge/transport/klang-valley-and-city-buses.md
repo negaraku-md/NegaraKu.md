@@ -76,7 +76,7 @@ entity: "Rapid Bus Sdn Bhd"
 relations:
   - { rel: "part-of", to: "prasarana-malaysia" }
   - { rel: "related-to", to: "klang-valley-integrated-transit-system" }
-related: ["klang-valley-integrated-transit-system", "prasarana-malaysia"]
+related: []
 keywords: ["Rapid KL bus", "MRT feeder bus", "Klang Valley bus", "Rapid Bus", "Rapid KL On-Demand", "city bus Kuala Lumpur"]
 ---
 

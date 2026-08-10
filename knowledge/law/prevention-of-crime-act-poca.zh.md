@@ -83,7 +83,7 @@ relations:
   - { rel: "administered-by", to: "kementerian-dalam-negeri" }
   - { rel: "compares-with", to: "sosma" }
   - { rel: "related-to", to: "prevention-of-terrorism-act-pota" }
-related: ["sosma", "prevention-of-terrorism-act-pota"]
+related: ["sosma"]
 keywords: ["POCA", "Akta Pencegahan Jenayah 1959", "Akta 297", "tahanan pencegahan", "Lembaga Pencegahan Jenayah", "jenayah terancang", "tahanan tanpa perbicaraan"]
 ---
 

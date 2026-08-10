@@ -78,7 +78,7 @@ entity: "Majlis Peguam Malaysia"
 relations:
   - { rel: "governs", to: "advocates-and-solicitors-disciplinary-board" }
   - { rel: "related-to", to: "federal-constitution-of-malaysia" }
-related: ["advocates-and-solicitors-disciplinary-board", "federal-constitution-of-malaysia"]
+related: ["federal-constitution"]
 keywords: ["Akta Profesion Guaman 1976", "Majlis Peguam", "Malaysian Bar", "peguam bela dan peguam cara", "Lembaga Tatatertib", "Akta 166", "profesion guaman Malaysia"]
 ---
 

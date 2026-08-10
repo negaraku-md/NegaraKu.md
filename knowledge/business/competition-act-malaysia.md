@@ -79,7 +79,7 @@ entity: "Malaysia Competition Commission (MyCC)"
 relations:
   - { rel: "administered-by", to: "malaysia-competition-commission" }
   - { rel: "related-to", to: "starting-a-business-malaysia" }
-related: ["malaysia-competition-commission"]
+related: []
 keywords: ["Competition Act 2010", "MyCC", "cartel", "price fixing", "bid rigging", "abuse of dominant position", "Competition Amendment Bill 2026"]
 ---
 

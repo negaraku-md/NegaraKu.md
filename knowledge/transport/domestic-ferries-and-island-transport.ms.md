@@ -92,7 +92,7 @@ sources:
 
 relations:
   - { rel: "related-to", to: "domestic-flights-and-regional-air-travel" }
-related: ["domestic-flights-and-regional-air-travel"]
+related: []
 keywords: ["Penang ferry", "Langkawi ferry", "Tioman ferry", "island transport Malaysia", "Kuala Kedah", "Kuala Perlis", "northeast monsoon", "Pangkor ferry", "Labuan ferry"]
 ---
 

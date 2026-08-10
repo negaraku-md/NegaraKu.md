@@ -83,7 +83,7 @@ relations:
   - { rel: "related-to", to: "malaysian-street-food" }
   - { rel: "related-to", to: "teh-tarik" }
   - { rel: "explained-in", to: "national-heritage-act-2005" }
-related: ["malaysian-street-food", "teh-tarik", "penang-food"]
+related: ["teh-tarik"]
 keywords: ["nasi lemak", "roti canai", "char kuey teow", "laksa", "asam laksa", "hidangan kebangsaan Malaysia", "makanan warisan", "UNESCO warisan tidak ketara", "makanan Malaysia"]
 ---
 

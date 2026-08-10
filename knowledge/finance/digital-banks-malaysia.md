@@ -86,7 +86,7 @@ relations:
   - { rel: "administered-by", to: "bank-negara-malaysia" }
   - { rel: "governs", to: "financial-services-act-2013" }
   - { rel: "related-to", to: "pidm-deposit-insurance" }
-related: ["bank-negara-malaysia", "pidm-deposit-insurance", "islamic-banking-malaysia"]
+related: ["bank-negara-malaysia", "deposit-insurance-pidm"]
 keywords: ["digital banks Malaysia", "GXBank", "Boost Bank", "Ryt Bank", "AEON Bank", "KAF Digital Bank", "BNM digital banking licence", "PIDM"]
 ---
 

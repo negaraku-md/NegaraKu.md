@@ -85,7 +85,7 @@ entity: "Lembaga Pembangunan Industri Pembinaan Malaysia (CIDB)"
 relations:
   - { rel: "administered-by", to: "cidb" }
   - { rel: "governs", to: "cidb-act-520" }
-related: ["cidb", "cidb-act-520"]
+related: []
 keywords: ["industri pembinaan", "CIDB", "gred kontraktor", "G1 G7", "Akta 520", "kad hijau", "pendaftaran kontraktor", "NCP 2030", "CITP"]
 ---
 

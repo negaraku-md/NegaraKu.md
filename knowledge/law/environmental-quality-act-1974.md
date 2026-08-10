@@ -78,7 +78,7 @@ entity: "Akta Kualiti Alam Sekeliling 1974"
 relations:
   - { rel: "administered-by", to: "department-of-environment" }
   - { rel: "requires", to: "environmental-impact-assessment" }
-related: ["department-of-environment", "environmental-impact-assessment"]
+related: []
 keywords: ["Akta Kualiti Alam Sekeliling 1974", "Akta 127", "EIA Malaysia", "Jabatan Alam Sekitar", "pencemaran", "buangan terjadual", "pembakaran terbuka"]
 ---
 

@@ -82,7 +82,7 @@ entity: "Durian"
 relations:
   - { rel: "related-to", to: "agriculture-in-malaysia" }
   - { rel: "related-to", to: "malaysia-china-trade" }
-related: ["agriculture-in-malaysia", "malaysia-china-trade"]
+related: []
 keywords:
   - "durian Malaysia"
   - "Musang King D197"

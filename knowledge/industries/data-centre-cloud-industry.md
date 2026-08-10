@@ -87,7 +87,7 @@ relations:
   - { rel: "administered-by", to: "mida-malaysian-investment-development-authority" }
   - { rel: "affects", to: "tenaga-nasional-berhad" }
   - { rel: "related-to", to: "johor-singapore-special-economic-zone" }
-related: ["johor-singapore-special-economic-zone", "mida-malaysian-investment-development-authority", "malaysia-digital-mdec"]
+related: ["johor-singapore-special-economic-zone"]
 keywords: ["Malaysia data centre", "cloud infrastructure", "Johor data centre", "DESAC incentive", "data centre power water", "hyperscale Malaysia"]
 ---
 

@@ -92,7 +92,7 @@ entity: "Badminton Association of Malaysia"
 relations:
   - { rel: "related-to", to: "sports-in-malaysia" }
   - { rel: "related-to", to: "olympic-council-of-malaysia" }
-related: ["sports-in-malaysia", "olympic-council-of-malaysia"]
+related: []
 keywords:
   - "badminton Malaysia"
   - "Persatuan Badminton Malaysia"

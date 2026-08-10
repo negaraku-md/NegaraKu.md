@@ -72,7 +72,7 @@ entity: "Malaysia"
 relations:
   - { rel: "related-to", to: "malaysia-foreign-policy" }
   - { rel: "related-to", to: "malaysia-asean-membership" }
-related: ["malaysia-foreign-policy"]
+related: []
 keywords: ["Laut China Selatan", "Batu Puteh", "Pedra Branca", "Sabah", "UNCLOS", "kedaulatan", "pertikaian maritim", "Spratly"]
 ---
 

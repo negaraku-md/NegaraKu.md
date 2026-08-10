@@ -78,7 +78,7 @@ entity: "Anti-Money Laundering, Anti-Terrorism Financing, Anti-Restricted Activi
 relations:
   - { rel: "administered-by", to: "bank-negara-malaysia" }
   - { rel: "related-to", to: "financial-intelligence-unit" }
-related: ["bank-negara-malaysia", "financial-intelligence-unit"]
+related: ["bank-negara-malaysia"]
 keywords: ["AMLA", "AMLATFPUAA 2001", "Act 613", "money laundering Malaysia", "terrorism financing", "reporting institution", "suspicious transaction report", "Bank Negara Malaysia", "freezing and seizure", "AML CFT compliance"]
 ---
 

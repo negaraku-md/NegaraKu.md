@@ -87,7 +87,7 @@ relations:
   - { rel: "administered-by", to: "majlis-sukan-negara" }
   - { rel: "related-to", to: "institut-sukan-negara" }
   - { rel: "part-of", to: "dasar-sukan-negara-2009" }
-related: ["majlis-sukan-negara", "institut-sukan-negara"]
+related: []
 keywords:
   - "Dasar Sukan Negara 2009"
   - "Program Podium Malaysia"

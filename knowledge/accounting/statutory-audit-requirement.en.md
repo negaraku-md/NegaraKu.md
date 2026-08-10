@@ -85,7 +85,7 @@ sources:
 relations:
   - { rel: "related-to", to: "audit-exemption-qualifying-criteria" }
   - { rel: "related-to", to: "sdn-bhd-financial-statements-filing" }
-related: ["audit-exemption-qualifying-criteria", "sdn-bhd-financial-statements-filing"]
+related: []
 keywords: ["audit statutori", "pengecualian audit", "Akta Syarikat 2016", "seksyen 267", "PD 10/2024", "juruaudit Sdn Bhd", "SSM audit exemption"]
 ---
 

@@ -79,7 +79,7 @@ entity: "Dasar Agromakanan Negara 2.0"
 relations:
   - { rel: "administered-by", to: "mafi-ministry-agriculture-food-security" }
   - { rel: "related-to", to: "padi-rice-industry-malaysia" }
-related: ["padi-rice-industry-malaysia", "mafi-ministry-agriculture-food-security"]
+related: []
 keywords: ["keterjaminan makanan", "tahap sara diri", "SSL", "SSR", "Dasar Agromakanan Negara", "DAN 2.0", "food security Malaysia", "beras"]
 ---
 

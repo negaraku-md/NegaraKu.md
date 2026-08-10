@@ -80,7 +80,7 @@ entity: "Asian International Arbitration Centre"
 relations:
   - { rel: "governs", to: "arbitration-and-dispute-resolution" }
   - { rel: "related-to", to: "contract-law" }
-related: ["contract-law", "courts-and-judiciary"]
+related: []
 keywords: ["arbitration", "AIAC", "Arbitration Act 2005", "mediation", "dispute resolution", "New York Convention", "third-party funding", "UNCITRAL"]
 ---
 

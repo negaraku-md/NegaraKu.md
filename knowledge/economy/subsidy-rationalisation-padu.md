@@ -87,7 +87,7 @@ entity: "PADU (Pangkalan Data Utama)"
 relations:
   - { rel: "related-to", to: "budi-madani-fuel-subsidy" }
   - { rel: "related-to", to: "sumbangan-tunai-rahmah-str" }
-related: ["budi-madani-fuel-subsidy", "sumbangan-tunai-rahmah-str"]
+related: []
 keywords: ["PADU", "Pangkalan Data Utama", "rasionalisasi subsidi", "subsidi bersasar", "BUDI MADANI", "RON95", "subsidi diesel", "subsidi elektrik", "T15"]
 ---
 

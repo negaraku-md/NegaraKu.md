@@ -86,7 +86,7 @@ entity: "Section 17A, Malaysian Anti-Corruption Commission Act 2009"
 relations:
   - { rel: "governs", to: "malaysian-anti-corruption-commission" }
   - { rel: "related-to", to: "companies-act-2016" }
-related: ["malaysian-anti-corruption-commission", "companies-act-2016"]
+related: ["companies-act-2016"]
 keywords: ["Section 17A", "MACC Act", "corporate liability", "adequate procedures", "T.R.U.S.T.", "anti-corruption Malaysia", "corporate bribery", "GIACC"]
 ---
 

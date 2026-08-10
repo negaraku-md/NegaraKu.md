@@ -91,7 +91,7 @@ relations:
   - { rel: "administered-by", to: "mdec" }
   - { rel: "related-to", to: "mydigital-blueprint" }
   - { rel: "related-to", to: "e-commerce-malaysia" }
-related: ["mdec", "mydigital-blueprint", "e-commerce-malaysia"]
+related: ["mydigital-blueprint"]
 keywords: ["digital economy", "MyDIGITAL", "Malaysia Digital", "MD Status", "MDEC", "e-commerce", "ICT GDP", "DE Rantau"]
 ---
 

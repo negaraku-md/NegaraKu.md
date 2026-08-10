@@ -83,7 +83,7 @@ entity: "Capital A Berhad"
 relations:
   - { rel: "related-to", to: "airasia-group-berhad" }
   - { rel: "related-to", to: "bursa-malaysia-pn17" }
-related: ["airasia-group-berhad", "bursa-malaysia-pn17"]
+related: []
 keywords: ["Capital A", "AirAsia", "AirAsia X", "AirAsia Group Berhad", "PN17", "Bursa Malaysia", "airline restructuring", "Tony Fernandes"]
 ---
 

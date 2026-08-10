@@ -81,7 +81,7 @@ entity: "SWCorp (Perbadanan Pengurusan Sisa Pepejal dan Pembersihan Awam)"
 relations:
   - { rel: "governs", to: "solid-waste-management-and-recycling" }
   - { rel: "related-to", to: "circular-economy-blueprint" }
-related: ["circular-economy-blueprint"]
+related: []
 keywords: ["Akta 672", "SWCorp", "kitar semula", "sisa pepejal", "tapak pelupusan", "pengasingan sisa di punca", "ekonomi kitaran"]
 ---
 

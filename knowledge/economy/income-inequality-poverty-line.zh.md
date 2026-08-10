@@ -88,7 +88,7 @@ entity: "Department of Statistics Malaysia (DOSM)"
 relations:
   - { rel: "related-to", to: "cost-of-living-malaysia" }
   - { rel: "administered-by", to: "department-of-statistics-malaysia" }
-related: ["cost-of-living-malaysia", "household-income-survey"]
+related: []
 keywords: ["B40", "M40", "T20", "pendapatan garis kemiskinan", "pekali Gini", "ketaksamaan pendapatan", "DOSM", "pendapatan isi rumah", "kemiskinan"]
 ---
 

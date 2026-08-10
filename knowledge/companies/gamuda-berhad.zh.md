@@ -82,7 +82,7 @@ entity: "Gamuda Berhad"
 relations:
   - { rel: "located-in", to: "malaysia" }
   - { rel: "related-to", to: "bursa-malaysia" }
-related: ["bursa-malaysia", "malaysia-construction-industry"]
+related: ["bursa-malaysia", "construction-industry"]
 keywords: ["Gamuda Berhad", "Gamuda order book", "MRT tunnelling", "Gamuda Land", "Malaysia construction", "Sydney Metro Gamuda", "Gamuda Taiwan MRT"]
 ---
 

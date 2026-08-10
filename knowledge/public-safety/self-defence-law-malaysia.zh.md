@@ -65,7 +65,7 @@ sources:
 entity: "Kanun Keseksaan (Akta 574)"
 relations:
   - { rel: "governs", to: "penal-code-malaysia" }
-related: ["penal-code-malaysia"]
+related: ["penal-code"]
 keywords: ["pertahanan diri", "hak mempertahankan diri", "Kanun Keseksaan", "seksyen 100", "seksyen 96", "self-defence Malaysia", "private defence"]
 ---
 

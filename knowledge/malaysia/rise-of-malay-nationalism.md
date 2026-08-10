@@ -83,7 +83,7 @@ entity: "Kesatuan Melayu Muda"
 relations:
   - { rel: "related-to", to: "malayan-union" }
   - { rel: "related-to", to: "umno" }
-related: ["malayan-union", "umno", "road-to-independence"]
+related: ["malayan-union"]
 keywords: ["nasionalisme Melayu", "Kesatuan Melayu Muda", "KMM", "Ibrahim Yaacob", "Persatuan Melayu Selangor", "Malayan Union", "Melayu Raya", "sejarah Malaysia"]
 ---
 

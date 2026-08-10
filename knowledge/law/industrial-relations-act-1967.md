@@ -80,7 +80,7 @@ relations:
   - { rel: "compares-with", to: "employment-act-1955" }
   - { rel: "related-to", to: "trade-unions-act-1959" }
   - { rel: "related-to", to: "mahkamah-perusahaan-malaysia" }
-related: ["employment-act-1955", "trade-unions-act-1959", "mahkamah-perusahaan-malaysia"]
+related: ["employment-act-1955"]
 keywords: ["akta perhubungan perusahaan 1967", "pembuangan kerja tidak adil", "seksyen 20", "mahkamah perusahaan", "kesatuan sekerja", "rundingan kolektif", "reinstatement", "unfair dismissal malaysia"]
 ---
 

@@ -71,7 +71,7 @@ entity: "Evidence Act 1950"
 relations:
   - { rel: "related-to", to: "criminal-procedure-code" }
   - { rel: "related-to", to: "federal-constitution-malaysia" }
-related: ["criminal-procedure-code", "federal-constitution-malaysia"]
+related: ["criminal-procedure-code", "federal-constitution"]
 keywords: ["Akta Keterangan 1950", "Evidence Act 1950", "Akta 56", "beban bukti", "kebolehterimaan", "anggapan", "keistimewaan", "seksyen 90A", "seksyen 114A", "pengakuan salah"]
 ---
 

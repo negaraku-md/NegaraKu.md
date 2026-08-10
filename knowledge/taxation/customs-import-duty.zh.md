@@ -90,7 +90,7 @@ relations:
   - { rel: "governs", to: "customs-act-1967" }
   - { rel: "related-to", to: "sales-service-tax" }
   - { rel: "related-to", to: "free-trade-agreements" }
-related: ["sales-service-tax", "customs-act-1967", "free-trade-agreements"]
+related: ["sales-and-service-tax", "malaysia-free-trade-agreements"]
 keywords: ["import duty", "customs duty", "HS code", "AHTN", "tariff classification", "ATIGA", "Form D", "CIF", "sales tax on imports", "Customs Act 1967"]
 ---
 

@@ -97,7 +97,7 @@ relations:
   - { rel: "administered-by", to: "immigration-department-malaysia" }
   - { rel: "related-to", to: "employment-pass-malaysia" }
   - { rel: "related-to", to: "expatriate-services-division" }
-related: ["employment-pass-malaysia", "immigration-department-malaysia", "expatriate-services-division"]
+related: ["employment-pass-malaysia"]
 keywords: ["Immigration Act 1959/63", "Act 155", "Malaysia visa", "employment pass", "overstay penalty Malaysia", "Section 15(4)", "Section 6(3)", "deportation", "dependant pass", "work permit Malaysia"]
 ---
 

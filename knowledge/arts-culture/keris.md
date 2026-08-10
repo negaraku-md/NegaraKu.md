@@ -87,7 +87,7 @@ relations:
   - { rel: "related-to", to: "batik" }
   - { rel: "related-to", to: "songket" }
   - { rel: "governs", to: "akta-warisan-kebangsaan-2005" }
-related: ["batik", "songket", "wau", "silat"]
+related: ["batik", "songket", "wau"]
 keywords: ["keris", "empu", "pamor", "luk", "warisan Melayu", "Taming Sari", "keris Melayu", "Akta Warisan Kebangsaan 2005", "budaya Nusantara"]
 ---
 

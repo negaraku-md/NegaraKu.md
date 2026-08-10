@@ -85,7 +85,7 @@ relations:
   - { rel: "administered-by", to: "kpkt" }
   - { rel: "related-to", to: "mers-999" }
   - { rel: "related-to", to: "angkatan-pertahanan-awam" }
-related: ["mers-999", "angkatan-pertahanan-awam", "polis-diraja-malaysia"]
+related: ["polis-diraja-malaysia"]
 keywords: ["Bomba", "JBPM", "Jabatan Bomba dan Penyelamat Malaysia", "Fire and Rescue Department", "Akta Perkhidmatan Bomba 1988", "Akta 341", "999", "MERS 999"]
 ---
 

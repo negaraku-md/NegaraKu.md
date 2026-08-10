@@ -91,7 +91,7 @@ entity: "Malaysia natural gas and LNG sector"
 relations:
   - { rel: "related-to", to: "petronas" }
   - { rel: "related-to", to: "energy-commission-malaysia" }
-related: ["petronas", "electricity-supply-malaysia"]
+related: ["petronas"]
 keywords: ["natural gas Malaysia", "LNG Malaysia", "Bintulu LNG", "Peninsular Gas Utilisation", "PGU pipeline", "regasification terminal", "Third Party Access", "Malaysia Reference Price"]
 ---
 

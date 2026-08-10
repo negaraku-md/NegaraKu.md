@@ -78,7 +78,7 @@ entity: "Financial Intelligence and Enforcement Department (FIED)"
 relations:
   - { rel: "administered-by", to: "bank-negara-malaysia" }
   - { rel: "related-to", to: "company-secretary-malaysia" }
-related: ["company-secretary-malaysia", "real-estate-agent-registration-malaysia"]
+related: ["company-secretary-malaysia"]
 keywords: ["AMLA", "DNFBP", "reporting institution", "suspicious transaction report", "customer due diligence", "FIED", "Bank Negara Malaysia", "money laundering"]
 ---
 

@@ -80,7 +80,7 @@ sources:
 
 relations:
   - { rel: "related-to", to: "malaysian-street-food" }
-related: ["malaysian-street-food"]
+related: []
 keywords: ["pasar malam", "pasar tani", "pasar basah", "street food", "FAMA", "gred kebersihan premis makanan", "penjaja"]
 ---
 

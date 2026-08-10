@@ -84,7 +84,7 @@ entity: "Payments Network Malaysia (PayNet)"
 relations:
   - { rel: "related-to", to: "bank-negara-malaysia" }
   - { rel: "related-to", to: "malaysia-e-wallets" }
-related: ["bank-negara-malaysia", "malaysia-e-wallets"]
+related: ["bank-negara-malaysia"]
 keywords: ["PayNet", "DuitNow", "DuitNow QR", "JomPAY", "FPX", "MyDebit", "Malaysia payments", "cashless"]
 ---
 

@@ -74,7 +74,7 @@ relations:
   - { rel: "administered-by", to: "miti" }
   - { rel: "related-to", to: "malaysia-cptpp" }
   - { rel: "related-to", to: "asean-free-trade-area" }
-related: ["miti", "malaysia-cptpp", "asean-free-trade-area"]
+related: ["miti", "malaysia-cptpp"]
 keywords: ["RCEP", "Malaysia trade agreement", "rules of origin", "Form RCEP", "tariff elimination", "ASEAN", "MITI", "free trade agreement"]
 ---
 

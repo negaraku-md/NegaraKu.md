@@ -71,7 +71,7 @@ relations:
   - { rel: "part-of", to: "companies-act-2016" }
   - { rel: "related-to", to: "reduction-of-share-capital" }
   - { rel: "related-to", to: "solvency-statement" }
-related: ["reduction-of-share-capital", "solvency-statement", "dividends-distribution"]
+related: []
 keywords: ["pembelian balik saham", "share buy-back", "saham perbendaharaan", "treasury shares", "Seksyen 127", "Akta Syarikat 2016", "Bursa Malaysia", "Bab 12"]
 ---
 

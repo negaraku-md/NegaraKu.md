@@ -84,7 +84,7 @@ entity: "Jabatan Perkhidmatan Veterinar (JPV)"
 relations:
   - { rel: "administered-by", to: "ministry-of-agriculture-food-security" }
   - { rel: "related-to", to: "palm-oil-industry" }
-related: ["palm-oil-industry", "food-security-malaysia"]
+related: ["palm-oil-industry"]
 keywords: ["industri ternakan", "ayam pedaging", "telur ayam", "demam babi Afrika", "influenza burung", "JPV", "nisbah sara diri", "biosekuriti", "kekurangan ayam 2022"]
 ---
 

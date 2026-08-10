@@ -81,7 +81,7 @@ relations:
   - { rel: "administered-by", to: "suruhanjaya-tenaga" }
   - { rel: "supersedes", to: "efficient-management-electrical-energy-regulations-2008" }
   - { rel: "affects", to: "commercial-buildings-malaysia" }
-related: ["suruhanjaya-tenaga", "renewable-energy-malaysia"]
+related: []
 keywords: ["EECA 2024", "Akta 861", "kecekapan tenaga", "Suruhanjaya Tenaga", "pengurus tenaga berdaftar", "audit tenaga", "intensiti tenaga bangunan", "MEPS"]
 ---
 

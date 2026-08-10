@@ -78,7 +78,7 @@ relations:
   - { rel: "administered-by", to: "khazanah-nasional" }
   - { rel: "related-to", to: "uem-group" }
   - { rel: "related-to", to: "kwsp" }
-related: ["khazanah-nasional", "uem-group", "kwsp"]
+related: ["khazanah-nasional"]
 keywords: ["PLUS Malaysia", "Lebuh Raya Utara-Selatan", "konsesi tol", "UEM Group", "Khazanah", "KWSP", "lebuh raya bertol"]
 ---
 

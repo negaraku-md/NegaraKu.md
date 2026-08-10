@@ -81,7 +81,7 @@ entity: "YTL Corporation Berhad"
 relations:
   - { rel: "related-to", to: "malayan-cement" }
   - { rel: "related-to", to: "bursa-malaysia" }
-related: ["malayan-cement", "bursa-malaysia"]
+related: ["bursa-malaysia"]
 keywords: ["YTL", "YTL Corporation", "YTL Power International", "Wessex Water", "PowerSeraya", "Malayan Cement", "data centre Johor", "Malaysian conglomerate"]
 ---
 

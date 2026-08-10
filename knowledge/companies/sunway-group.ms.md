@@ -74,7 +74,7 @@ sources:
 entity: "Sunway Berhad"
 relations:
   - { rel: "related-to", to: "malaysian-conglomerates" }
-related: ["malaysian-conglomerates"]
+related: []
 keywords: ["Sunway Group", "Sunway Berhad", "Sunway Medical", "Sunway University", "Malaysian conglomerate", "integrated township", "Jeffrey Cheah"]
 ---
 

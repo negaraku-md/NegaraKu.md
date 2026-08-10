@@ -91,7 +91,7 @@ relations:
   - { rel: "related-to", to: "tribunal-tuntutan-pengguna" }
   - { rel: "part-of", to: "malaysian-court-hierarchy" }
   - { rel: "related-to", to: "consumer-protection-act-1999" }
-related: ["tribunal-tuntutan-pengguna", "malaysian-court-hierarchy", "consumer-protection-act-1999"]
+related: ["court-hierarchy"]
 keywords: ["tuntutan kecil", "small claims", "mahkamah majistret", "aturan 93", "borang 198", "saman hutang", "tanpa peguam"]
 ---
 

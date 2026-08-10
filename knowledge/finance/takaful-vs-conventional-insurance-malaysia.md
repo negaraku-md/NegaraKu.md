@@ -69,7 +69,7 @@ relations:
   - { rel: "compares-with", to: "conventional-insurance-malaysia" }
   - { rel: "administered-by", to: "bank-negara-malaysia" }
   - { rel: "related-to", to: "islamic-financial-services-act-2013" }
-related: ["conventional-insurance-malaysia", "bank-negara-malaysia", "islamic-financial-services-act-2013"]
+related: ["bank-negara-malaysia"]
 keywords: ["takaful", "conventional insurance", "Shariah compliance", "wakalah", "tabarru", "surplus sharing", "Malaysia insurance"]
 ---
 

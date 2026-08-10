@@ -90,7 +90,7 @@ entity: "Banking sector of Malaysia"
 relations:
   - { rel: "administered-by", to: "bank-negara-malaysia" }
   - { rel: "governs", to: "financial-services-act-2013" }
-related: ["bank-negara-malaysia", "islamic-finance-malaysia", "digital-banks-malaysia"]
+related: ["bank-negara-malaysia", "islamic-finance", "digital-banks-malaysia"]
 keywords: ["banking sector Malaysia", "commercial banks Malaysia", "Islamic banks Malaysia", "investment banks Malaysia", "Financial Services Act 2013", "Islamic Financial Services Act 2013", "digital banks Malaysia", "Bank Negara Malaysia"]
 ---
 

@@ -78,7 +78,7 @@ entity: "Angkatan Tentera Malaysia"
 relations:
   - { rel: "part-of", to: "government-of-malaysia" }
   - { rel: "related-to", to: "federal-constitution-malaysia" }
-related: ["federal-constitution-malaysia", "royal-malaysian-police-pdrm", "government-of-malaysia"]
+related: ["federal-constitution", "royal-malaysia-police-pdrm"]
 keywords: ["angkatan tentera malaysia", "ATM", "kementerian pertahanan", "MINDEF", "majlis angkatan tentera", "panglima angkatan tentera", "akta angkatan tentera 1972", "kertas putih pertahanan", "tentera darat", "tentera laut diraja malaysia", "tentera udara diraja malaysia"]
 ---
 

@@ -79,7 +79,7 @@ entity: "MySejahtera"
 relations:
   - { rel: "administered-by", to: "kementerian-kesihatan-malaysia" }
   - { rel: "related-to", to: "peka-b40-health-screening" }
-related: ["peka-b40-health-screening", "personal-data-protection-act-malaysia"]
+related: []
 keywords: ["MySejahtera", "rekod kesihatan digital", "EMR", "kesihatan digital Malaysia", "KKM", "temu janji klinik kesihatan"]
 ---
 

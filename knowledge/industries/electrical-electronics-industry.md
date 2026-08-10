@@ -82,7 +82,7 @@ relations:
   - { rel: "related-to", to: "semiconductor-industry" }
   - { rel: "located-in", to: "penang" }
   - { rel: "administered-by", to: "mida" }
-related: ["semiconductor-industry", "penang", "mida"]
+related: ["penang", "mida"]
 keywords: ["E&E industry", "electrical and electronics", "Malaysia manufacturing", "Penang electronics", "semiconductors", "consumer electronics", "electronic components", "National Semiconductor Strategy", "Bayan Lepas", "MIDA"]
 ---
 

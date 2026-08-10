@@ -65,7 +65,7 @@ entity: "Perkongsian Liabiliti Terhad (PLT)"
 relations:
   - { rel: "governs", to: "llp-act-2012-malaysia" }
   - { rel: "administered-by", to: "ssm" }
-related: ["llp-act-2012-malaysia", "audit-exemption-private-company-malaysia"]
+related: []
 keywords: ["PLT audit", "LLP audit exemption", "Akta PLT 2012", "perisytiharan tahunan PLT", "seksyen 69", "SSM"]
 ---
 

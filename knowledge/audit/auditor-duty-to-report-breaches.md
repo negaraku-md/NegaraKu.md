@@ -69,7 +69,7 @@ entity: "Suruhanjaya Syarikat Malaysia (SSM)"
 relations:
   - { rel: "governs", to: "companies-act-2016" }
   - { rel: "related-to", to: "auditor-independence" }
-related: ["companies-act-2016", "auditor-independence"]
+related: ["companies-act-2016"]
 keywords: ["seksyen 266", "juruaudit", "SSM", "Akta Syarikat 2016", "pelaporan pelanggaran", "penipuan", "Pendaftar"]
 ---
 

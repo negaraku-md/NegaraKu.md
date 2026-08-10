@@ -79,7 +79,7 @@ relations:
   - { rel: "governs", to: "environmental-impact-assessment-malaysia" }
   - { rel: "requires", to: "scheduled-waste-management-malaysia" }
   - { rel: "related-to", to: "manufacturing-licence-malaysia" }
-related: ["environmental-impact-assessment-malaysia", "scheduled-waste-management-malaysia", "manufacturing-licence-malaysia"]
+related: ["manufacturing-licence-malaysia"]
 keywords: ["Environmental Quality Act 1974", "Act 127", "Act A1712", "Department of Environment", "EIA Malaysia", "prescribed premises", "environmental penalties Malaysia", "open burning Malaysia", "scheduled waste"]
 ---
 

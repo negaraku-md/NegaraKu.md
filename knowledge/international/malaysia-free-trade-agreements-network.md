@@ -79,7 +79,7 @@ relations:
   - { rel: "administered-by", to: "ministry-of-investment-trade-and-industry" }
   - { rel: "related-to", to: "malaysia-certificate-of-origin" }
   - { rel: "related-to", to: "malaysia-import-duties-tariffs" }
-related: ["malaysia-certificate-of-origin", "malaysia-import-duties-tariffs"]
+related: []
 keywords: ["Malaysia FTA list", "Malaysia free trade agreements", "MITI FTA", "CPTPP Malaysia", "RCEP Malaysia", "Malaysia UAE CEPA", "MEEPA", "ASEAN FTA"]
 ---
 

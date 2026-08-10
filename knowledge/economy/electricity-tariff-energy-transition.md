@@ -79,7 +79,7 @@ relations:
   - { rel: "administered-by", to: "suruhanjaya-tenaga" }
   - { rel: "related-to", to: "tenaga-nasional-berhad" }
   - { rel: "related-to", to: "renewable-energy-malaysia" }
-related: ["tenaga-nasional-berhad", "renewable-energy-malaysia", "suruhanjaya-tenaga"]
+related: ["tenaga-nasional"]
 keywords: ["tarif elektrik", "RP4", "AFA", "NETR", "Suruhanjaya Tenaga", "TNB", "tenaga boleh diperbaharui", "peralihan tenaga", "subsidi elektrik"]
 ---
 

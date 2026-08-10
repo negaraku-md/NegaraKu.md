@@ -76,7 +76,7 @@ entity: "Printing Presses and Publications Act 1984"
 relations:
   - { rel: "administered-by", to: "kementerian-dalam-negeri" }
   - { rel: "related-to", to: "malaysian-media-council-act" }
-related: ["kementerian-dalam-negeri", "malaysian-media-council-act"]
+related: []
 keywords: ["Akta Mesin Cetak dan Penerbitan", "Akta 301", "PPPA", "permit akhbar", "lesen mesin cetak", "Menteri Dalam Negeri", "kebebasan media"]
 ---
 

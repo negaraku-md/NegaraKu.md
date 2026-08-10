@@ -88,7 +88,7 @@ relations:
   - { rel: "governs", to: "electricity-supply-act-447" }
   - { rel: "governs", to: "gas-supply-act-501" }
   - { rel: "governs", to: "energy-efficiency-conservation-act-2024" }
-related: ["electricity-supply-act-447", "gas-supply-act-501", "energy-efficiency-conservation-act-2024"]
+related: []
 keywords: ["Suruhanjaya Tenaga", "Energy Commission Malaysia", "Akta Suruhanjaya Tenaga 2001", "Akta 610", "tarif elektrik Malaysia", "EECA 2024", "Akta 861", "PETRA"]
 ---
 

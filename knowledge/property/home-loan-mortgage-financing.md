@@ -100,7 +100,7 @@ sources:
 relations:
   - { rel: "related-to", to: "real-property-gains-tax" }
   - { rel: "related-to", to: "stamp-duty-property" }
-related: ["real-property-gains-tax", "stamp-duty-property"]
+related: ["real-property-gains-tax"]
 keywords: ["pinjaman perumahan", "gadai janji", "margin pembiayaan", "KWSP Akaun Sejahtera", "SJKP", "duti setem perjanjian pinjaman", "MRTA", "MLTA"]
 ---
 

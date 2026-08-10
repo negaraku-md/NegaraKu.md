@@ -68,7 +68,7 @@ relations:
   - { rel: "governs", to: "companies-act-2016" }
   - { rel: "administered-by", to: "ssm" }
   - { rel: "related-to", to: "special-resolution" }
-related: ["companies-act-2016", "special-resolution", "statement-in-lieu-of-prospectus"]
+related: ["companies-act-2016"]
 keywords: ["penukaran status syarikat", "sdn bhd kepada berhad", "syarikat awam", "syarikat sendirian", "seksyen 41 akta syarikat 2016", "resolusi khas", "SSM"]
 ---
 

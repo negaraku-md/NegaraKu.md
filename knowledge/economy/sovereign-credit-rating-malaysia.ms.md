@@ -77,7 +77,7 @@ entity: "Malaysia sovereign credit rating"
 relations:
   - { rel: "related-to", to: "malaysian-government-securities" }
   - { rel: "related-to", to: "federal-government-debt-malaysia" }
-related: ["malaysian-government-securities", "federal-government-debt-malaysia"]
+related: []
 keywords: ["Malaysia credit rating", "sovereign rating", "S&P Malaysia", "Moody's Malaysia", "Fitch Malaysia", "A3", "BBB+", "investment grade"]
 ---
 

@@ -76,7 +76,7 @@ entity: "Tarif elektrik domestik TNB (RP4)"
 relations:
   - { rel: "administered-by", to: "suruhanjaya-tenaga" }
   - { rel: "related-to", to: "tenaga-nasional-berhad" }
-related: ["tenaga-nasional-berhad", "suruhanjaya-tenaga"]
+related: ["tenaga-nasional"]
 keywords: ["tarif elektrik", "TNB", "RP4", "AFA", "ICPT", "Time-of-Use", "Caj Tenaga", "bil elektrik", "Suruhanjaya Tenaga"]
 ---
 
