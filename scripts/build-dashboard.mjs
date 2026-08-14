@@ -18,12 +18,20 @@ async function main() {
     console.warn('[dashboard] no articles.json — run sync first. Skipping.');
     return;
   }
-  // Publication gate: sensitive (3R+1) content stays out of the public dashboard
-  // (its registry lists titles) until reviewed + published.
+  // Publication gate — must match the SITE exactly (src/lib/content.ts
+  // isPublishable): the reader-facing pages serve FINISHED work only, so every
+  // headline/coverage/trilingual figure on this dashboard is computed over the
+  // same LIVE corpus. A looser gate here (e.g. letting non-sensitive in-review
+  // drafts through) is exactly what made the dashboard read 1051 while the site
+  // — and About, Explore, every pillar — read 1015. The 36 in-review drafts are
+  // real work, but they are NOT live; they appear ONLY in the editorial-pipeline
+  // sections below (lifecycle matrix + needsReview), never in a size figure.
+  const LIVE_STATUSES = new Set(['published', 'needs-update', 'in-update']);
+  const isPublishable = (a) =>
+    LIVE_STATUSES.has(a.status) &&
+    (!a.sensitivity || a.sensitivity === 'none' || Boolean(a.reviewer));
   const { articles: allArticles } = JSON.parse(await readFile(IN, 'utf8'));
-  const articles = allArticles.filter(
-    (a) => !a.sensitivity || a.sensitivity === 'none' || (a.status === 'published' && a.reviewer),
-  );
+  const articles = allArticles.filter(isPublishable);
 
   // Master/source language is declared PER ARTICLE (a translation names its own
   // source), so we never assume one site-wide master. Each topic's master decides
@@ -59,17 +67,16 @@ async function main() {
   const base = [...canonical.values()];
   const total = base.length; // public topics that clear the publish gate
 
-  // OPS CENSUS — the single population every statistic below is computed from,
-  // so the whole page reconciles to one denominator regardless of status mix.
-  // One row per topic = its MASTER (lang === masterLanguage), across the WHOLE
-  // manifest (all statuses, sensitive drafts included). The publish-gated `base`
-  // above is used ONLY for the title-exposing lists (registry, recentlyUpdated);
-  // it must never feed a headline/section/ladder number, because gating a subset
-  // out of one figure but not its neighbours is exactly what made the dashboard
-  // stop tallying whenever anything sat in draft / in-review / reviewed.
+  // LIVE CENSUS — the single population every size/coverage figure below is
+  // computed from, so the whole page reconciles to one denominator AND matches
+  // the public site. One row per topic = its MASTER (lang === masterLanguage),
+  // over the LIVE (isPublishable) corpus only. The editorial pipeline (in-review
+  // drafts) is reported separately in statusByLang + needsReview, computed from
+  // the ungated `allArticles`, so pending work stays visible without ever
+  // inflating a headline the reader can cross-check against Explore/About.
   const censusByKey = new Map();
   const langsByKeyAll = new Map();
-  for (const a of allArticles) {
+  for (const a of articles) {
     if (!langsByKeyAll.has(a.key)) langsByKeyAll.set(a.key, new Set());
     langsByKeyAll.get(a.key).add(a.lang);
     const isMaster = a.lang === (a.masterLanguage ?? a.lang);
@@ -87,11 +94,35 @@ async function main() {
   const filesByLang = {};
   const publishedByLang = {};
   for (const l of SITE_LANGS) {
-    const f = allArticles.filter((a) => a.lang === l);
-    filesByLang[l] = f.length;
-    publishedByLang[l] = f.filter((a) => a.status === 'published').length;
+    filesByLang[l] = articles.filter((a) => a.lang === l).length; // live files only
+    publishedByLang[l] = filesByLang[l]; // live == published on the public site
   }
   const publishedTotal = SITE_LANGS.reduce((n, l) => n + publishedByLang[l], 0);
+
+  // Editorial backlog — master topics that exist but are NOT yet live (the 36
+  // in-review gap drafts, plus any unreviewed sensitive drafts). Reported as a
+  // distinct "in review" figure so it is visible but never confused with the
+  // live corpus size. One row per topic, ungated, minus the live ones.
+  const allMasterByKey = new Map();
+  for (const a of allArticles) {
+    const isMaster = a.lang === (a.masterLanguage ?? a.lang);
+    const prev = allMasterByKey.get(a.key);
+    if (!prev || (isMaster && prev.lang !== (prev.masterLanguage ?? prev.lang))) {
+      allMasterByKey.set(a.key, a);
+    }
+  }
+  const pendingMasters = [...allMasterByKey.values()].filter((a) => !isPublishable(a));
+  const pendingTopics = pendingMasters.length;
+
+  // Lifecycle ladder distribution = the whole editorial PIPELINE (every status),
+  // one row per topic — so "In review" shows the 36 drafts, and the ladder's
+  // Published bucket (1015) matches the live census above. This is deliberately
+  // NOT gated: the ladder's job is to show pending work moving toward live.
+  // Buckets mirror the status enum (draft | in-review | reviewed | published).
+  const statusDist = { draft: 0, 'in-review': 0, reviewed: 0, published: 0 };
+  for (const a of allMasterByKey.values()) {
+    statusDist[a.status] = (statusDist[a.status] ?? 0) + 1;
+  }
 
   // All corpus-level stats iterate the CENSUS (one master per topic, every
   // status) so perCategory, statusDist and citations share the `topics`
@@ -100,12 +131,8 @@ async function main() {
   let reviewed = 0;
   let citedOk = 0;
   let citedNeed = 0;
-  // Buckets mirror the status enum (draft | in-review | reviewed | published).
-  // "verified" was a phantom bucket — not a real status, so always 0.
-  const statusDist = { draft: 0, 'in-review': 0, reviewed: 0, published: 0 };
   for (const a of census) {
     perCategory[a.category] = (perCategory[a.category] ?? 0) + 1;
-    statusDist[a.status] = (statusDist[a.status] ?? 0) + 1;
     // Published content has cleared review, so it counts toward the reviewed vital.
     if (a.status === 'reviewed' || a.status === 'published') reviewed++;
     // Citation health is measured across the whole corpus, not just reviewed
@@ -144,13 +171,14 @@ async function main() {
     // could not back up. Report what actually cleared the publish gate instead.
     published: {
       label: { ms: 'Diterbitkan', en: 'Published', zh: '已发布' },
-      // Honest denominator: published master topics over ALL master topics, not
-      // over the publish-gated subset (which flattered the figure).
-      score: pct(statusDist.published, masterArticles),
+      // Live topics over the whole pipeline (live + in-review). This is the one
+      // vital that intentionally references the backlog: it answers "how much of
+      // the work in flight is actually live?" — 1015 live of 1051 in the pipeline.
+      score: pct(masterArticles, masterArticles + pendingTopics),
       detail: {
-        ms: `${statusDist.published}/${masterArticles} diterbitkan`,
-        en: `${statusDist.published}/${masterArticles} published`,
-        zh: `${statusDist.published}/${masterArticles} 已发布`,
+        ms: `${masterArticles} langsung · ${pendingTopics} dalam semakan`,
+        en: `${masterArticles} live · ${pendingTopics} in review`,
+        zh: `${masterArticles} 已上线 · ${pendingTopics} 审核中`,
       },
     },
     dna: {
@@ -273,7 +301,7 @@ async function main() {
   const uiStrings = [...(await readSrc('src/lib/i18n.ts')).matchAll(/'[\w.\-]+':\s*\{[^{}]*\}/g)].length;
 
   const contentTypes = [
-    { id: 'article', count: topics, files: allArticles.length, governance: 'full' },
+    { id: 'article', count: topics, files: articles.length, governance: 'full' },
     {
       id: 'dataset',
       count: datasetVerifications.length,
@@ -294,14 +322,15 @@ async function main() {
   const dashboard = {
     contentTypes,
     totals: {
-      masterArticles,        // one per topic (the source articles) — == topics
-      topics,                // census size: every topic, all statuses
-      publicTopics: total,   // topics that clear the publish gate (public subset)
-      articles: topics,      // kept for back-compat; census-based so it reconciles
-      files: allArticles.length, // every language file
-      filesByLang,           // { en, ms, zh } file counts
-      publishedByLang,       // { en, ms, zh } published file counts
+      masterArticles,        // one per LIVE topic (the source articles) — == topics
+      topics,                // live corpus size: matches the public site (Explore/About)
+      publicTopics: total,   // == topics (kept for back-compat with consumers)
+      articles: topics,      // kept for back-compat; live-census based so it reconciles
+      files: articles.length, // every LIVE language file (== publishedTotal)
+      filesByLang,           // { en, ms, zh } live file counts
+      publishedByLang,       // { en, ms, zh } published file counts (== filesByLang)
       publishedTotal,        // total published files across all languages
+      pendingTopics,         // master topics in the editorial pipeline, NOT yet live
       languages: 3,
       categories: categoriesCovered,
       reviewedPct: pct(reviewed, topics),
@@ -335,9 +364,10 @@ async function main() {
     // non-published buckets sum to exactly needsReview.total (both count master
     // topics, not language files).
     needsReview: (() => {
-      const drafts = census
-        .filter((a) => a.status !== 'published')
-        .sort((x, y) => (x.key < y.key ? -1 : 1));
+      // The editorial backlog: master topics not yet live (in-review drafts +
+      // any unreviewed sensitive masters). Sourced from the ungated pipeline, so
+      // this stays non-zero even though the live census above is 100% published.
+      const drafts = [...pendingMasters].sort((x, y) => (x.key < y.key ? -1 : 1));
       return {
         total: drafts.length,
         items: drafts.slice(0, 12).map((a) => ({
@@ -345,6 +375,7 @@ async function main() {
           category: a.category,
           lang: a.lang,
           title: a.title,
+          status: a.status,
         })),
       };
     })(),

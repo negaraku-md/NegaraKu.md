@@ -2,7 +2,7 @@
 import type { Locale } from '@/lib/categories';
 import { getCategory, getPillar, getPillarDef, PILLARS } from '@/lib/categories';
 import { subcatLabel } from '@/lib/subcategories';
-import { corpusTopics } from '@/lib/content';
+import { corpusTopics, isPublishable } from '@/lib/content';
 import { getDashboard } from '@/lib/apidata';
 import { t, localePath } from '@/lib/i18n';
 import PageHero from './PageHero.astro';
@@ -34,10 +34,11 @@ const catSet = new Set<string>();
 const subcatSet = new Set<string>();
 let sources = 0;
 let sourced = 0;
-// Whole-corpus census (every status) — the SAME population build-dashboard.mjs
-// computes its JSON stats from, so this page's tree, classification mix and hero
-// reconcile with the counters and lifecycle ladder no matter the status mix.
-for (const a of await corpusTopics()) {
+// LIVE corpus (isPublishable) — the SAME population build-dashboard.mjs computes
+// its JSON size figures from, and the same one Explore/About/pillars use, so this
+// page's tree, classification mix and hero reconcile with every other page. The
+// in-review backlog is shown separately (lifecycle ladder), never in these totals.
+for (const a of (await corpusTopics()).filter(isPublishable)) {
   const uid = `${a.data.category}/${a.data.slug}`;
   if (seenTopics.has(uid)) continue;
   seenTopics.add(uid);
