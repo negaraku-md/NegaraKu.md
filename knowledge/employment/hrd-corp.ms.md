@@ -31,9 +31,11 @@ lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "ff5d89d25eee1ca7"
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: "2026-08-14"
+publishedBy: "ashton-tan"
 version: "0.2"
 revisions:
   - version: "0.1"

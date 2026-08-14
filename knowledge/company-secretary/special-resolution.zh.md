@@ -32,9 +32,11 @@ lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "b65d4a86d107f772"
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: "2026-08-14"
+publishedBy: "ashton-tan"
 version: "0.2"
 revisions:
   - version: "0.1"
