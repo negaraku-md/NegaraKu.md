@@ -25,7 +25,7 @@ faq:
   - q: "Is Khazanah Nasional a government agency?"
     a: "No. Khazanah is a company (a Berhad) incorporated under the Companies Act, not a ministry or statutory department. Its shares are owned almost entirely by the Minister of Finance Incorporated, so it is state-owned, but it operates commercially as an investment company."
   - q: "Who owns Khazanah Nasional?"
-    a: "Except for a single share held by the Federal Lands Commissioner, all of Khazanah's share capital is owned by the Minister of Finance Incorporated, a body established under the Ministry of Finance (Incorporation) Act 1957."
+    a: "Except for a single share held by the Federal Lands Commissioner, all of Khazanah's share capital is owned by the Minister of Finance Incorporated, a body established under the Minister of Finance (Incorporation) Act 1957 [Act 375]."
   - q: "Does Khazanah manage my EPF savings or unit trust money?"
     a: "No. Unlike the EPF or PNB, Khazanah has no individual depositors, members or unit holders. Its capital comes from government-held assets and retained investment income, and its returns are paid to the Federal Government as a dividend rather than to individuals."
   - q: "What is the difference between the Commercial Fund and the Strategic Fund?"
@@ -38,15 +38,11 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
+reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "0.2"
-verificationNeeded:
-  - "Exact incorporation date (3 September 1993) and the Companies Act 1965 reference — currently sourced to the IFSWF member profile; confirm against the SSM/Companies Commission record (Khazanah's own History & Milestones page shows only registration no. 199301020767 and states operations began in 1994)."
-  - "Ownership split — the single share held by the Federal Lands Commissioner and the Minister of Finance Incorporated holding the remainder — sourced to IFSWF; confirm against Khazanah's constitution or audited accounts, as Khazanah's About Us page does not cover ownership."
-  - "The Ministry of Finance (Incorporation) Act 1957 reference for the Minister of Finance Incorporated — sourced to IFSWF; confirm against the statute."
-  - "2025 initiative specifics (Jelawang Capital's five fund managers, 'more than 10 start-ups' and 'over RM30 million' crowded-in capital; 'over 40' mid-tier companies; Syntiant Penang 'around 800 jobs') — confirm against the final published Khazanah Report 2025."
-  - "FY2024 24.6% NAV TWRR and the 5.7% return for 2023 — confirm against The Khazanah Report 2024."
+publishedBy: "ashton-tan"
+version: "0.3"
+verificationNeeded: []
 revisions:
   - version: "0.1"
     date: 2026-08-01
@@ -56,6 +52,10 @@ revisions:
     date: 2026-08-01
     change: "Correction pass: re-verified incorporation, ownership and fund-structure facts against the cited IFSWF profile and confirmed all 2025 initiative figures against the cited FY2025 release; reworded the reorganisation line and added verificationNeeded."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
 updated: 2026-08-01
 sources:
@@ -76,6 +76,15 @@ sources:
   - title: "History & Milestones"
     url: "https://www.khazanah.com.my/who-we-are/history-milestones/"
     publisher: "Khazanah Nasional Berhad"
+  - title: "KNB 2022 — Santiago Principles Self-Assessment, Pillar 1: Legal"
+    url: "https://ifswf.org/print/pdf/node/4246"
+    publisher: "International Forum of Sovereign Wealth Funds (IFSWF) / Khazanah Nasional Berhad"
+  - title: "Khazanah Nasional Berhad company record (reg. 199301020767 / 0275505K, incorporated 1993-09-03)"
+    url: "https://businessreport.ctoscredit.com.my/oneoffreport_api/single-report/malaysia-company/0275505K/KHAZANAH-NASIONAL-BERHAD"
+    publisher: "CTOS (SSM-sourced company data)"
+  - title: "FAQs — What is the Minister of Finance (Incorporated)? (Government Investment Companies Division)"
+    url: "https://www.mof.gov.my/portal/pdf/bahagian/gic/faq-en.pdf"
+    publisher: "Ministry of Finance Malaysia (MOF)"
 
 entity: "Khazanah Nasional Berhad"
 relations:
@@ -101,7 +110,7 @@ It is a **sovereign wealth fund** — a state-owned entity that invests public a
 
 Khazanah Nasional Berhad was **incorporated under the Companies Act 1965 on 3 September 1993** and commenced operations the following year, in 1994, initially as custodian of the Government's commercial assets and an investor in strategic and high-technology sectors.
 
-Its ownership is unusually concentrated. Except for **one share held by the Federal Lands Commissioner**, all of Khazanah's share capital is owned by the **Minister of Finance Incorporated** — a corporate body established under the Ministry of Finance (Incorporation) Act 1957. In plain terms, Khazanah is owned by the Malaysian state through the finance ministry, not by private shareholders and not by individual citizens.
+Its ownership is unusually concentrated. Except for **one share held by the Federal Lands Commissioner**, all of Khazanah's share capital is owned by the **Minister of Finance Incorporated** — a corporate body established under the Minister of Finance (Incorporation) Act 1957 [Act 375]. In plain terms, Khazanah is owned by the Malaysian state through the finance ministry, not by private shareholders and not by individual citizens.
 
 Its mandate is deliberately broad: to **grow Malaysia's long-term wealth** — the value of Khazanah's financial assets — while contributing to economic development outcomes for the nation.
 

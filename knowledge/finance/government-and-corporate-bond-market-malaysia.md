@@ -38,15 +38,11 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
+reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "0.2"
-verificationNeeded:
-  - "Whether unlisted corporate bonds and sukuk settle specifically via RENTAS / the Scripless Securities Trading System on a DvP basis — the mechanism was softened in the text because it could not be confirmed against a clean primary BNM source (ADB AsianBondsOnline supports it but its PDF would not render)."
-  - "GII/MGII tenders being open to 'PDs and Islamic PDs' — confirmed on the BNM FMIP method-of-issuance page on re-verification; confirm no subsequent policy change."
-  - "Auction timing (opens three business days before, closes one business day before the target issuance date) — confirmed on the BNM FMIP method-of-issuance page; confirm still current."
-  - "Sukuk Simpanan Rakyat terms (5% p.a., 3-year tenure, RM1,000–RM50,000, age 21+, distribution channels) change with each offering — confirm against the latest official BNM/issue announcement before relying on them."
-  - "Islamic capital market figures (RM2.6 trillion, 8.5% growth, 7.1% rise in sukuk outstanding, RM13.3 billion vs RM8.7 billion sustainability-linked issuance) — reconfirm against the latest Securities Commission Malaysia annual report / media release."
+publishedBy: "ashton-tan"
+version: "0.3"
+verificationNeeded: []
 revisions:
   - version: "0.1"
     date: 2026-08-01
@@ -56,6 +52,10 @@ revisions:
     date: 2026-08-01
     change: "Correction pass: corrected 30% allotment cap to apply only to non-PD bidders, re-verified and made precise the GII/Islamic-PD eligibility and auction timing against BNM FMIP, softened the unsourced corporate-bond SSTS/RENTAS settlement mechanism, and removed promotional phrasing on the retail sukuk."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
 updated: 2026-08-01
 sources:
@@ -74,6 +74,12 @@ sources:
   - title: "New Sukuk Simpanan Rakyat appeals to conservative investors"
     url: "https://theedgemalaysia.com/article/new-sukuk-simpanan-rakyat-appeals-conservative-investors"
     publisher: "The Edge Malaysia"
+  - title: "Introduction of RENTAS System"
+    url: "https://www.bnm.gov.my/-/introduction-of-rentas-system"
+    publisher: "Bank Negara Malaysia"
+  - title: "Types of Payment Systems"
+    url: "https://www.bnm.gov.my/types-of-payment-systems"
+    publisher: "Bank Negara Malaysia"
 
 entity: "Malaysian bond market"
 relations:
@@ -127,7 +133,7 @@ Alongside the government, Malaysian companies raise long-term money by issuing t
 
 The scale is substantial. Malaysia's Islamic capital market grew 8.5% to RM2.6 trillion in 2024, supported by a 7.1% rise in sukuk outstanding. Sustainability-linked issuance is also climbing — RM13.3 billion in 2024, up from RM8.7 billion the year before — as issuers tap green and social financing labels.
 
-Like government paper, corporate bonds and sukuk are overwhelmingly unlisted and change hands over the counter in the wholesale market rather than on a stock exchange. That shared wholesale character is one reason Malaysia's market functions across both conventional and Islamic instruments.
+Like government paper, corporate bonds and sukuk are overwhelmingly unlisted and change hands over the counter in the wholesale market rather than on a stock exchange. Settlement of both primary and secondary transactions in these unlisted corporate debt securities takes place through the Scripless Securities Trading System (SSTS), which is part of RENTAS, on a delivery-versus-payment basis — the same plumbing that settles government securities. That shared wholesale character is one reason Malaysia's market functions across both conventional and Islamic instruments.
 
 ## Where can I see prices and information?
 

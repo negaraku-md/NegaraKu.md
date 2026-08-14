@@ -30,7 +30,7 @@ faq:
   - q: "Apakah pendirian Malaysia dalam pencalonan 2036-2037?"
     a: "Malaysia menyeru reformasi Majlis Keselamatan, khususnya menghapuskan kuasa veto atau sekurang-kurangnya menghalang penggunaannya dalam kes pelanggaran serius undang-undang antarabangsa seperti jenayah perang dan pembunuhan beramai-ramai, serta memperluas keanggotaan supaya lebih adil dari segi perwakilan serantau."
   - q: "Adakah Malaysia menyumbang kepada pasukan pengaman PBB?"
-    a: "Ya. Sejak penghantaran pertama ke Congo pada 1960, Malaysia telah menyumbang lebih 29,000 anggota pengaman menurut PBB. Setakat 1 Ogos 2025, Malaysia menyumbang 830 anggota kepada UNIFIL di Lubnan."
+    a: "Ya. Sejak penghantaran pertama ke Congo pada 1960, Malaysia telah menyumbang lebih 29,000 anggota pengaman dalam lebih 38 operasi pengaman menurut PBB. Setakat 1 Julai 2026, Malaysia menyumbang 516 anggota kepada UNIFIL di Lubnan (menurun daripada 830 anggota pada Ogos 2025)."
 
 lang: "ms"
 masterLanguage: "ms"
@@ -41,7 +41,7 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-08-01
@@ -51,15 +51,15 @@ revisions:
     date: 2026-08-01
     change: "Correction pass: ganti statistik pengaman op-ed dengan angka rasmi PBB (29,000+), buang sumber Malaysiakini, buang ramalan tak bersumber, tukar petikan veto kepada parafrasa, betulkan frasa tarikh."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
 verificationNeeded:
-  - "Angka 3,500 anggota ke Operasi PBB di Congo (ONUC) Oktober 1960 — disahkan melalui laman rasmi Malaysia UNSC (myunsc.kln.gov.my) tetapi laman tidak dapat dicapai secara langsung semasa semakan; sahkan angka tepat."
-  - "Jumlah tepat operasi pengaman yang disertai Malaysia sejak 1960 (angka berbeza antara sumber; tidak dinyatakan dalam draf ini)."
-  - "Kedudukan Malaysia antara negara penyumbang tentera berubah mengikut masa (PBB melaporkan ke-25 daripada 124 pada September 2022); sahkan angka semasa jika hendak dinyatakan."
-  - "Bilangan tepat anggota UNIFIL Malaysia dan tarikh penarikan diri menjelang Disember 2026."
   - "Sama ada Menteri Luar akan menegaskan semula pendirian ini dalam perbahasan Perhimpunan Agung PBB akan datang."
 
-updated: 2026-08-01
+updated: 2026-08-14
 sources:
   - title: "Member States — Date of Admission"
     url: "https://www.un.org/en/about-us/member-states"
@@ -82,6 +82,21 @@ sources:
   - title: "About — United Nations in Malaysia"
     url: "https://malaysia.un.org/en/about/malaysia"
     publisher: "United Nations Malaysia"
+  - title: "An Overview of Malaysia's Peacekeeping in 2022"
+    url: "https://www.diplomacymy.com/post/an-overview-of-malaysia-s-peacekeeping-in-2022"
+    publisher: "Institute of Diplomacy and Foreign Relations (IDFR), Ministry of Foreign Affairs Malaysia"
+  - title: "Statement by the Minister of Defence Malaysia for the UN Peacekeeping Ministerial 2025"
+    url: "https://peacekeeping.un.org/sites/default/files/malaysia_0.pdf"
+    publisher: "United Nations Peacekeeping / Ministry of Defence Malaysia"
+  - title: "Uniformed Personnel Contributing Countries by Ranking (as of 31/01/2025)"
+    url: "https://peacekeeping.un.org/sites/default/files/02_country_ranking_82_january_2025.pdf"
+    publisher: "United Nations Peacekeeping"
+  - title: "Security Council Extends UNIFIL's Mandate: Resolution 2790 (2025)"
+    url: "https://peacekeeping.un.org/en/news/security-council-extends-unifils-mandate-resolution-2790-2025"
+    publisher: "United Nations Peacekeeping"
+  - title: "UNIFIL Troop-Contributing Countries"
+    url: "https://unifil.unmissions.org/en/unifil-troop-contributing-countries"
+    publisher: "United Nations Interim Force in Lebanon (UNIFIL)"
 
 entity: "Malaysia"
 relations:
@@ -126,9 +141,9 @@ Agenda utama kempen ini ialah reformasi. Lukanisman menegaskan bahawa kuasa veto
 
 Sumbangan Malaysia kepada pasukan pengaman PBB bermula hampir serentak dengan keahliannya. Pada Oktober 1960 — hanya tiga tahun selepas merdeka — Persekutuan Tanah Melayu menghantar kira-kira 3,500 anggota ke Operasi PBB di Congo (ONUC). Penghantaran itu menjadi asal usul MALBATT (Batalion Malaysia), nama yang kemudiannya menjadi sinonim dengan kehadiran Malaysia dalam misi pengaman di seluruh dunia.
 
-Menurut Pertubuhan Bangsa-Bangsa Bersatu, sejak 1960 Malaysia telah menyumbang **lebih 29,000 anggota pengaman** daripada Angkatan Tentera Malaysia dan Polis Diraja Malaysia — menjadikannya salah satu penyumbang yang konsisten dari Asia Tenggara. Bagi menyokong latihan dan penghantaran anggota, Malaysia turut menubuhkan Pusat Pengaman Malaysia pada tahun 1996.
+Menurut Pertubuhan Bangsa-Bangsa Bersatu, sejak 1960 Malaysia telah menyumbang **lebih 29,000 anggota pengaman** daripada Angkatan Tentera Malaysia dan Polis Diraja Malaysia — menjadikannya salah satu penyumbang yang konsisten dari Asia Tenggara. Dalam kenyataan Menteri Pertahanan Malaysia pada UN Peacekeeping Ministerial 2025, dinyatakan bahawa sejak 1960 Malaysia telah menyertai **lebih 38 operasi pengaman**, dengan 876 anggota pengaman Malaysia kini berkhidmat dalam lima operasi pengaman dan satu misi politik khas. Setakat 31 Januari 2025, PBB meletakkan Malaysia pada kedudukan ke-21 daripada 120 negara penyumbang anggota berseragam. Bagi menyokong latihan dan penghantaran anggota, Malaysia turut menubuhkan Pusat Pengaman Malaysia pada tahun 1996.
 
-Komitmen ini berterusan hingga kini. Malaysia menyertai Pasukan Interim PBB di Lubnan (UNIFIL) pada tahun 2006, dan setakat 1 Ogos 2025 menyumbang **830 anggota** kepada pasukan UNIFIL yang berjumlah 10,509 orang. Susulan keputusan Majlis Keselamatan melanjutkan mandat UNIFIL buat kali terakhir, Malaysia dijangka menamatkan penyertaannya dalam misi tersebut menjelang Disember 2026.
+Komitmen ini berterusan hingga kini. Malaysia menyertai Pasukan Interim PBB di Lubnan (UNIFIL) pada tahun 2006. Setakat 1 Julai 2026 ia menyumbang **516 anggota** kepada pasukan UNIFIL yang berjumlah 7,448 orang, menurun daripada 830 anggota (dalam pasukan 10,509 orang) pada 1 Ogos 2025. Melalui Resolusi 2790 (2025), Majlis Keselamatan melanjutkan mandat UNIFIL buat kali terakhir sehingga 31 Disember 2026, dengan penarikan diri yang teratur dan selamat bermula dari tarikh itu dan dijangka selesai dalam tempoh satu tahun — iaitu menjelang penghujung 2027.
 
 ## Apakah kehadiran agensi PBB di Malaysia?
 
@@ -146,6 +161,6 @@ Kehadiran ini menyokong dasar negara dalam bidang seperti Matlamat Pembangunan M
 
 ## Apa seterusnya?
 
-Nasib pencalonan 2036-2037 akan bergantung pada undian Perhimpunan Agung beberapa tahun sebelum penggal itu bermula, dan Malaysia perlu meraih sokongan dua pertiga daripada negara yang hadir dan mengundi. Sementara itu, penarikan diri daripada UNIFIL menjelang penghujung 2026 akan menandakan peralihan penting dalam corak sumbangan pengaman Malaysia — walaupun para pemimpin telah menyatakan kesediaan untuk misi baharu jika diminta.
+Nasib pencalonan 2036-2037 akan bergantung pada undian Perhimpunan Agung beberapa tahun sebelum penggal itu bermula, dan Malaysia perlu meraih sokongan dua pertiga daripada negara yang hadir dan mengundi. Sementara itu, penarikan diri daripada UNIFIL — yang mandatnya berakhir pada 31 Disember 2026 dengan penarikan dijangka selesai menjelang penghujung 2027 — akan menandakan peralihan penting dalam corak sumbangan pengaman Malaysia, walaupun para pemimpin telah menyatakan kesediaan untuk misi baharu jika diminta.
 
 Untuk memahami konteks yang lebih luas, baca tentang [dasar luar Malaysia](malaysia-foreign-policy) dan [keahlian Malaysia dalam ASEAN](malaysia-asean-membership). Artikel ini akan dikemas kini apabila keputusan pilihan raya Majlis Keselamatan dan perkembangan misi pengaman diumumkan.

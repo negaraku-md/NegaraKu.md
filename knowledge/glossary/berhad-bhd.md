@@ -38,15 +38,10 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
+publishedBy: "ashton-tan"
+reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "0.2"
-verificationNeeded:
-  - "Exact Companies Act 2016 subsection numbers (s42(1), s42(2), s43(1), s196(1)) — supported by the ACCA overview but should be confirmed against the gazetted Act text."
-  - "The precise section of the Companies Act 2016 that requires a company to have one or more members (the earlier draft's 'section 9(b)' citation was removed as likely misattributed)."
-  - "Exact Capital Markets and Services Act 2007 section numbers governing prospectus registration (removed from this draft; only s212 for Main Market listing approval is retained and is covered by the cited SC source)."
-  - "Current Main Market admission thresholds at the date of publication (figures cited from Baker McKenzie; confirm against Bursa's live Listing Requirements)."
-  - "Confirm the minimum-member requirement applies identically to public companies."
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-08-01
@@ -56,6 +51,10 @@ revisions:
     date: 2026-08-01
     change: "Correction pass: fixed ACE Market prospectus authority (Bursa since 1 Jan 2022), removed unsupported CMSA/Companies Act section numbers, corrected public-company minimum to two resident directors."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
 updated: 2026-08-01
 sources:
@@ -65,6 +64,9 @@ sources:
   - title: "Companies Act 2016 (Act 777) — Legal Framework"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Companies-Act-2016.aspx"
     publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+  - title: "Companies Act 2016 (Act 777) — AGC updated text as at 1 August 2022 (BI)"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
+    publisher: "Attorney General's Chambers / Suruhanjaya Syarikat Malaysia (SSM)"
   - title: "Approval Process for Main Market Initial Public Offerings of Corporations in Malaysia"
     url: "https://www.sc.com.my/about/client-charter/business-processes/approval-process-for-main-market-initial-public-offerings-of-corporations-in-malaysia"
     publisher: "Securities Commission Malaysia"
@@ -74,6 +76,12 @@ sources:
   - title: "Bursa Malaysia — Principal listing and maintenance requirements and procedures"
     url: "https://resourcehub.bakermckenzie.com/en/resources/cross-border-listings-guide/asia-pacific/bursa-malaysia/topics/principal-listing-and-maintenance-requirements-and-procedures"
     publisher: "Baker McKenzie Cross-Border Listings Guide"
+  - title: "Bursa Malaysia Securities Berhad Main Market Listing Requirements (1 July 2023)"
+    url: "https://www.bursamalaysia.com/sites/5bb54be15f36ca0af339077a/content_entry5ce3b50239fba2627b2864be/64e730445b711a1c197fda7f/files/29MainLR_1July2023__1_Edited.pdf"
+    publisher: "Bursa Malaysia"
+  - title: "Bursa Malaysia Listing Requirements & IPO Process Guide"
+    url: "https://www.grantthornton.com.my/insights/articles-and-publications/bursa-malaysia-listing-requirements-ipo-process/"
+    publisher: "Grant Thornton Malaysia"
 
 entity: "Berhad"
 relations:
@@ -105,7 +113,7 @@ A **public company** carries none of those restrictions. It has no statutory cei
 | Minimum directors | 1 resident director (s196(1)) | 2 resident directors (s196(1)) |
 | Can be listed on Bursa Malaysia | No | Yes (if it meets the criteria) |
 
-Both forms need at least one member to incorporate — the Companies Act 2016 requires a company to have one or more members — and both must appoint a licensed company secretary. The structural differences flow from who is allowed to hold the shares.
+Both forms need at least one member to incorporate — the Companies Act 2016 requires every company to have one or more members (s9(b)), a requirement that applies identically to public and private companies — and both must appoint a licensed company secretary. The structural differences flow from who is allowed to hold the shares.
 
 ## Why would a company become a Berhad?
 
@@ -126,7 +134,7 @@ The company must also clear financial and shareholding thresholds. A Main Market
 | Profit test — aggregate after-tax profit (3–5 financial years) | At least RM20 million |
 | Profit test — after-tax profit in the most recent year | At least RM6 million |
 | Market capitalisation test — total market cap at listing | At least RM500 million |
-| Public shareholding spread | At least 25% of listed shares |
+| Public shareholding spread | At least 25% of listed shares, at least half of it allocated to Bumiputera investors |
 | Minimum public shareholders | At least 1,000, each holding 100 shares or more |
 | Minimum IPO price (Main Market) | RM0.50 per share |
 

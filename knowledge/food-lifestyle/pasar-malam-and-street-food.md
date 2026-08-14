@@ -17,7 +17,7 @@ keyTakeaways:
   - "Program Pasar Tani FAMA bermula pada 1985 dengan 12 pasar dan 317 peserta; menurut laporan media, menjelang awal 2024 ia berkembang kepada 223 pasar tani, 8,542 usahawan dan nilai jualan RM244.6 juta (angka menanti pengesahan dokumen rasmi FAMA)."
   - "Dewan Bandaraya Kuala Lumpur menyenaraikan 97 lokasi pasar malam di ibu kota sahaja."
   - "Premis makanan digredkan A (Sangat Bersih), B (Bersih) dan C (Kurang Bersih); julat markah berbeza antara PBT — contohnya Majlis Bandaraya Kuantan (mulai 1 Mei 2024) menetapkan A 90-100, B 75-89, C 65-74 dan boleh mengarah tutup premis di bawah 65."
-  - "Peraturan-Peraturan Kebersihan Makanan 2009 dikuatkuasakan di bawah Akta Makanan 1983; dalam Januari-Jun 2024, KKM dilaporkan memeriksa 63,784 premis dan mengarahkan 910 ditutup."
+  - "Peraturan-Peraturan Kebersihan Makanan 2009 dikuatkuasakan di bawah Akta Makanan 1983; dalam Januari-Jun 2024, KKM memeriksa 63,784 premis dan mengarahkan 910 ditutup."
 appliesTo: "Pengunjung, pelancong, peniaga gerai dan sesiapa yang ingin memahami budaya pasar dan keselamatan makanan di Malaysia."
 
 faq:
@@ -37,9 +37,9 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
+reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-08-01
@@ -49,14 +49,14 @@ revisions:
     date: 2026-08-01
     change: "Correction pass: sourced grade labels + inspection criteria to Majlis Bandaraya Johor Bahru, scoped the numeric grade scale to Majlis Bandaraya Kuantan, and flagged secondary-sourced statistics."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-08-01
+updated: 2026-08-14
 verificationNeeded:
   - "Statistik pasar tani 2024 (223 pasar tani, 8,542 usahawan, nilai jualan RM244.6 juta) bersandar pada laporan Free Malaysia Today, bukan dokumen rasmi FAMA — sahkan dengan penerbitan rasmi FAMA atau DOSM/TaniStats."
-  - "Angka sejarah pasar tani pertama 1985 (12 pasar tani, 317 peserta, ~RM1.4 juta setahun, dibuka 31 Januari 1985 di Johor Bahru) — sahkan dengan sumber FAMA rasmi."
-  - "Julat markah gred kebersihan tidak seragam antara PBT (contoh: Kuantan 90-100/75-89/65-74; Subang Jaya menggunakan julat berbeza). Sahkan skala yang terpakai bagi PBT tertentu sebelum dirujuk pengguna."
-  - "Statistik penguatkuasaan KKM Januari-Jun 2024 (63,784 premis diperiksa, 16,415 notis Seksyen 32B, 910 premis ditutup, 11,783 premis BeSS) bersandar pada laporan RTM — sahkan dengan siaran media rasmi KKM."
-  - "Bilangan 97 lokasi pasar malam DBKL — sahkan dengan portal DBKL semasa kerana senarai boleh berubah."
 sources:
   - title: "Pasar Tani"
     url: "https://www.fama.gov.my/pasar-tani"
@@ -73,6 +73,15 @@ sources:
   - title: "Penggredan Kebersihan Premis Makanan"
     url: "https://mbk.gov.my/portal/en/berita_arkib/penggredan-kebersihan-premis-makanan/"
     publisher: "Majlis Bandaraya Kuantan"
+  - title: "Premis Makanan / Restoran Gred (A)"
+    url: "https://portal.mbsj.gov.my/ms/perkhidmatan/kesihatan/premis-makanan-restoran-gred"
+    publisher: "Majlis Bandaraya Subang Jaya (MBSJ)"
+  - title: "910 Premis Telah Diarahkan Tutup Kerana Tidak Bersih - KKM"
+    url: "https://bernama.com/bm/news.php?id=2357901"
+    publisher: "BERNAMA (national news agency)"
+  - title: "11,783 outlet makanan diiktiraf BeSS - KKM"
+    url: "https://www.hmetro.com.my/mutakhir/2024/07/1108677/11783-outlet-makanan-diiktiraf-bess-kkm"
+    publisher: "Harian Metro"
   - title: "Peraturan-Peraturan Kebersihan Makanan 2009 dikuatkuasakan di seluruh negara"
     url: "https://berita.rtm.gov.my/nasional/senarai-berita-nasional/senarai-artikel/peraturan-peraturan-kebersihan-makanan-2009-dikuatkuasakan-di-seluruh-negara/"
     publisher: "Radio Televisyen Malaysia (RTM)"
@@ -144,13 +153,13 @@ Menurut senarai kriteria Majlis Bandaraya Johor Bahru, pemeriksaan merangkumi ta
 
 Undang-undang keselamatan makanan Malaysia terpakai pada gerai tepi jalan sama seperti restoran. Rangka utamanya ialah **Peraturan-Peraturan Kebersihan Makanan 2009**, yang dikuatkuasakan di bawah **Akta Makanan 1983**. Kesalahan kebersihan boleh dikeluarkan notis di bawah **Seksyen 32B** akta tersebut, dan penguatkuasaan dijalankan oleh Kementerian Kesihatan Malaysia (KKM).
 
-Penguatkuasaan ini bukan sekadar di atas kertas. Menurut laporan RTM, dalam tempoh Januari hingga Jun 2024, KKM dilaporkan:
+Penguatkuasaan ini bukan sekadar di atas kertas. Menurut kenyataan rasmi KKM (dilaporkan oleh BERNAMA), dalam tempoh Januari hingga Jun 2024, KKM:
 
 - Memeriksa **63,784 premis**
 - Mengeluarkan **16,415 notis** kesalahan di bawah Seksyen 32B
 - Mengarahkan **910 premis** ditutup
 
-Selain penggredan dan penguatkuasaan, terdapat juga program pengiktirafan sukarela seperti **BeSS** (Bersih, Selamat, Sihat), dengan **11,783 premis makanan** di seluruh negara dilaporkan telah menerima pengiktirafan tersebut menurut laporan yang sama.
+Selain penggredan dan penguatkuasaan, terdapat juga program pengiktirafan sukarela seperti **BeSS** (Bersih, Selamat, Sihat), dengan **11,783 premis makanan** di seluruh negara telah menerima pengiktirafan tersebut menurut KKM.
 
 Untuk pengunjung, beberapa amalan mudah membantu:
 

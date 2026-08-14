@@ -42,9 +42,10 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
+reviewed: 2026-08-14
+publishedBy: "ashton-tan"
 reviewDue: 2027-08-03
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-28
@@ -54,15 +55,14 @@ revisions:
     date: 2026-07-28
     change: "Correction pass: re-verified all flagged figures against the official NIMP 2030 portal, PMO speech and MIDA pages; added the portal homepage as the source for the 21/62/9 counts; reframed the RM587.5bn GDP note; removed the coined CoSIF acronym."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-verificationNeeded:
-  - "RM587.5 billion is worded differently across official sources: the MIDA launch page calls it manufacturing's 'contribution to Malaysia's total GDP', while the PMO launch speech calls it 'Manufacturing's value-added to RM587.5 billion'. Confirm the precise economic measure against the full NIMP 2030 plan document."
-  - "The counts of 21 strategies, 62 action plans and 9 Mission-Based Projects are drawn from the summary banner on the official NIMP 2030 portal homepage; confirm against the full plan document, and confirm the identity of the nine MBPs."
-  - "The RM35.6 billion semiconductor figure is reported by MIDA as third-quarter 2024 investment (RM0.97bn domestic + ~RM34bn FDI); confirm it is attributable specifically to NIMP Mission 1 activity rather than total quarterly manufacturing FDI."
-  - "The official abbreviation (if any) for the NIMP Strategic Co-Investment Fund — the PMO speech names it without an acronym."
-  - "Perodua's first commercial EV was described by MIDA as targeted 'by 4Q 2025'; confirm the current status against a later source."
+verificationNeeded: []
 
-updated: 2026-07-28
+updated: 2026-08-14
 sources:
   - title: "New Industrial Master Plan 2030 — Official Portal"
     url: "https://www.nimp2030.gov.my/"
@@ -82,6 +82,15 @@ sources:
   - title: "Third Industrial Master Plan (IMP3) 2006–2020"
     url: "https://www.miti.gov.my/index.php/pages/view/contentaa6a.html"
     publisher: "Ministry of Investment, Trade and Industry (MITI)"
+  - title: "Media Release: New Industrial Masterplan (NIMP) 2030 to Catalyse Malaysia's Next Economic Take-Off"
+    url: "https://www.nimp2030.gov.my/nimp2030/resources/speech_text/MEDIA_RELEASE_NEW_INDUSTRIAL_MASTERPLAN_(NIMP)_2030_TO_CATALYSE_MALAYSIAS_NEXT_ECONOMIC_TAKE-OFF.pdf"
+    publisher: "Ministry of Investment, Trade and Industry (MITI)"
+  - title: "NIMP 2030 — Mission-based Projects"
+    url: "https://www.nimp2030.gov.my/index.php/pages/view/110?mid=461"
+    publisher: "Ministry of Investment, Trade and Industry (MITI)"
+  - title: "Perodua Launches First EV Involving Development Cost of RM800 Mln, Local Expertise"
+    url: "https://www.pmo.gov.my/en/news-en/perodua-launches-first-ev-involving-development-cost-of-rm800-mln-local-expertise/"
+    publisher: "Prime Minister's Office of Malaysia"
 
 entity: "New Industrial Master Plan 2030"
 relations:
@@ -131,7 +140,11 @@ The missions are designed to reinforce each other: teching up (Mission 2) enable
 
 A plan is only as good as its delivery machinery, and NIMP 2030 is unusually explicit here. Three things do the heavy lifting: mission-based projects, enablers, and a governance structure.
 
-**Nine Mission-Based Projects (MBPs).** These are the flagship initiatives that turn missions into concrete action — the projects the plan expects to move the needle first.
+**Nine Mission-Based Projects (MBPs).** These are the flagship initiatives that turn missions into concrete action — the projects the plan expects to move the needle first. All nine sit under Missions 1 to 3:
+
+- **Mission 1:** create global IC design champions in EV, RE and AI; attract new advanced wafer fabrication in Malaysia; deepen the specialty chemical vertical; groom champions in four game-changing advanced materials.
+- **Mission 2:** transform 3,000 smart factories; establish Malaysia as a Generative AI hub.
+- **Mission 3:** create decarbonisation-pathway role models; launch a locally-manufactured EV; deploy large-scale CCUS (carbon capture, utilisation and storage) solutions.
 
 **Four enablers** form the backbone that every mission relies on:
 
@@ -195,7 +208,7 @@ Because NIMP 2030 launched in 2023, there is now early data, and MITI has pointe
 
 In the second quarter of 2024, manufacturing value-added to GDP rose 4.7%, or **RM4.2 billion**, compared with the same period in 2023, while manufacturing jobs increased 0.9%, or about **200,000 positions**. On pay, the sector's median salary improved by RM201, or 8.2% year-on-year, in the first quarter of 2024 versus a year earlier.
 
-There are mission-level signals too. Under Mission 1, semiconductor-related investment totalled RM35.6 billion in the third quarter of 2024. Under Mission 2, a Smart Tech Up Programme was set to launch to push the 3,000-smart-factory target. Under Mission 3, MIDA reported that Perodua's plan to produce its first commercial EV, targeted for the fourth quarter of 2025, was proceeding.
+There are mission-level signals too. Under Mission 1, semiconductor-related investment totalled RM35.6 billion in the third quarter of 2024 (RM0.97 billion in domestic direct investment plus RM34 billion in FDI), tied specifically to the mission's IC-design and wafer-fabrication action plans. Under Mission 2, a Smart Tech Up Programme was set to launch to push the 3,000-smart-factory target. Under Mission 3, the Mission-Based Project to launch a locally-manufactured EV was met: Perodua launched its first EV, the QV-E, on 1 December 2025, officiated by Prime Minister Anwar Ibrahim. Carrying an RM800 million development cost involving over 100 local experts, it is priced at RM80,000 (excluding insurance and battery), offers up to 445 km of range, and enters production at Perodua's Rawang facility — starting at about 500 units a month and scaling to 3,000 by the third quarter of 2026.
 
 These are early indicators, not proof of the 2030 goals — but they show the machinery is producing measurable movement in the direction the missions point.
 

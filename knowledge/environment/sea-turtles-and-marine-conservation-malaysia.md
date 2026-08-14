@@ -37,15 +37,11 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
+publishedBy: "ashton-tan"
+reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "0.2"
-verificationNeeded:
-  - "Angka bersarang penyu agar, karah dan lipas mengikut negeri (dipetik daripada SWOT) — sahkan terhadap data bersarang terkini Jabatan Perikanan."
-  - "Nama instrumen undang-undang penyu khusus bagi Kedah, Kelantan, Johor, Melaka dan Negeri Sembilan (hanya kiraan 'enam negeri' disahkan oleh TCS)."
-  - "Rangka kerja pemuliharaan penyu Sabah dan Sarawak (nama enakmen/ordinan tepat tidak disahkan oleh sumber yang dipetik)."
-  - "Denda RM250,000 dan tarikh kuat kuasa 1 Jun 2022 bagi Pindaan 2021 — sahkan terhadap teks warta/enakmen rasmi (kini bersandarkan laporan Macaranga)."
-  - "Status 'pupus secara fungsi menjelang 2010' bagi penyu belimbing ialah tafsiran saintifik; sahkan tiada rekod bersarang berdaya maju terkini."
+version: "0.3"
+verificationNeeded: []
 revisions:
   - version: "0.1"
     date: 2026-08-01
@@ -55,6 +51,10 @@ revisions:
     date: 2026-07-28
     change: "Correction pass: betulkan Tioman ke Pahang, ganti pindaan '1989/Seksyen 7A' dengan pindaan 1987 (TCS), selaraskan jadual enakmen dengan enam negeri, dan sahkan semula setiap angka terhadap sumber utama."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
 updated: 2026-08-01
 sources:
@@ -76,6 +76,27 @@ sources:
   - title: "Sea Turtles of Southeast Asia"
     url: "https://www.seaturtlestatus.org/articles/2024/2/14/sea-turtles-of-southeast-asia"
     publisher: "SWOT — The State of the World's Sea Turtles"
+  - title: "Status of Hawksbill Turtle and Green Turtle in Negeri Sembilan, Malaysia"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC11371404/"
+    publisher: "PLoS / PMC (peer-reviewed)"
+  - title: "Hawksbill Turtle Conservation Activities in Malaysia (range-state report)"
+    url: "https://iosea-turtles.cms.int/sites/default/files/document/Malaysia.pdf"
+    publisher: "IOSEA Marine Turtle MoU / CMS"
+  - title: "Wildlife Conservation Enactment 1997 (official text)"
+    url: "https://sagc.sabah.gov.my/sites/default/files/law/WildlifeConservationEnactment1997.pdf"
+    publisher: "State Attorney-General's Chambers, Sabah"
+  - title: "Totally Protected Animals — Turtles"
+    url: "https://forestry.sarawak.gov.my/web/subpage/webpage_view/859"
+    publisher: "Forest Department Sarawak"
+  - title: "Amendment to turtle enactment a victory in turtle conservation efforts — Expert"
+    url: "https://www.bernama.com/en/news.php?id=2027457"
+    publisher: "BERNAMA (Malaysian National News Agency)"
+  - title: "Terengganu bans sale of all types of turtle eggs"
+    url: "https://www.bernama.com/en/news.php?id=2024657"
+    publisher: "BERNAMA (Malaysian National News Agency)"
+  - title: "Terengganu bans sale of all types of turtle eggs"
+    url: "https://www.malaymail.com/news/malaysia/2021/11/18/terengganu-bans-sale-of-all-types-of-turtle-eggs/2021884"
+    publisher: "Malay Mail"
 
 entity: "Penyu Malaysia"
 relations:

@@ -29,7 +29,7 @@ faq:
   - q: "How many federal ports does Malaysia have?"
     a: "The Ministry of Transport oversees federal ports through statutory port authorities including Port Klang Authority, Johor Port Authority (which covers Johor Port and PTP), Penang Port Authority, Kuantan Port Authority and Bintulu Port Authority."
   - q: "What is the ECRL land bridge?"
-    a: "The East Coast Rail Link (ECRL) is a 665 km railway, 91.7% complete as of January 2026 and due for completion by end-2026, connecting the east coast to Port Klang. It enables a 'land bridge' where cargo from China lands at Kuantan Port and is railed across the peninsula to Port Klang, saving vessels roughly 1.5 days of sailing around Singapore."
+    a: "The East Coast Rail Link (ECRL) is a 665 km railway, 91.7% complete as of January 2026. Its main Kota Bharu–Gombak alignment is due for completion by end-2026, with commercial operations targeted for January 2027; the final Gombak-to-Port Klang leg follows in late 2027. It enables a 'land bridge' where cargo from China lands at Kuantan Port and is railed across the peninsula to Port Klang, saving vessels roughly 1.5 days of sailing around Singapore."
   - q: "How does Malaysia rank in global logistics?"
     a: "Malaysia ranked 26th in the World Bank Logistics Performance Index 2023, up from 41st in 2018 and second among ASEAN nations after Singapore."
 
@@ -40,9 +40,9 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
-reviewDue: 2027-08-03
-version: "0.2"
+reviewed: 2026-08-14
+reviewDue: 2027-08-14
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-28
@@ -52,15 +52,15 @@ revisions:
     date: 2026-07-28
     change: "Correction pass: re-verified and sourced the 2026 target, Westports 2 / Carey Island expansion, and PTP's CPPI efficiency ranking against the cited Malay Mail and MMC Ports primary sources; sharpened the vague 'most efficient port' claim to the specific 5th-place CPPI 2023 ranking."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
 verificationNeeded:
-  - "PTP's 'fifth most efficient port in the world' figure is from the World Bank / S&P Global Container Port Performance Index (CPPI) 2023 as reported by MMC Ports; confirm it remains current in the latest CPPI edition."
-  - "Port Klang's 15.37 million TEU target for 2026 (+1.5%) is a forecast reported in March 2026; confirm against actual throughput when full-year data is published."
-  - "Westports 2's eventual capacity of 28 million TEUs and the Carey Island third terminal (Selangor state government + private partners) are planning/approval-stage; confirm current status, financing and timelines."
   - "The ~1.5-day sailing-time saving for the ECRL land bridge is a Kuantan Port estimate originally reported in a 2017 article; confirm the figure against current routing analysis."
-  - "ECRL 91.7% completion (as of January 2026) and the end-2026 completion target are subject to schedule change; confirm against the latest progress updates."
 
-updated: 2026-07-28
+updated: 2026-08-14
 sources:
   - title: "Port Klang, PTP set new container handling records in 2025"
     url: "https://www.thestar.com.my/business/business-news/2026/01/02/port-klang-ptp-set-new-container-handling-records-in-2025"
@@ -89,6 +89,33 @@ sources:
   - title: "Malaysia jumps 15 ranks in World Bank Logistics Index"
     url: "https://en.vietnamplus.vn/malaysia-jumps-15-ranks-in-world-bank-logistics-index/252196.vnp"
     publisher: "Vietnam News Agency (citing MIDA)"
+  - title: "Port Of Tanjung Pelepas Top 5 In Global Efficiency Ranking (CPPI 2023)"
+    url: "https://www.bernama.com/en/news.php?id=2306730"
+    publisher: "Bernama"
+  - title: "Port of Tanjung Pelepas now fifth most efficient container port in the world (CPPI 2023)"
+    url: "https://thesun.my/business/port-of-tanjung-pelepas-now-fifth-most-efficient-container-port-in-the-world-BD12558854/"
+    publisher: "The Sun"
+  - title: "The Container Port Performance Index"
+    url: "https://www.worldbank.org/en/topic/transport/publication/cppi"
+    publisher: "World Bank"
+  - title: "Container Port Performance Index 2025 Reveals Ports' Pivotal Role in Supply Chain Stability"
+    url: "https://press.spglobal.com/2026-06-10-Container-Port-Performance-Index-2025-Reveals-Ports-Pivotal-Role-in-Supply-Chain-Stability"
+    publisher: "S&P Global Market Intelligence"
+  - title: "Port Klang's container throughput hit 6.38 mil TEUs in January-May 2026"
+    url: "https://theedgemalaysia.com/node/807402"
+    publisher: "The Edge Malaysia"
+  - title: "RM28 billion cargo port on Carey Island in the pipeline"
+    url: "https://thesun.my/business/rm28-billion-cargo-port-on-carey-island-in-the-pipeline-aa10769977/"
+    publisher: "The Sun"
+  - title: "Selangor eyes September groundbreaking for Carey Island port, reviews potential operators"
+    url: "https://theedgemalaysia.com/node/810151"
+    publisher: "The Edge Malaysia"
+  - title: "ECRL achieves 91.7% progress, enters operational preparation phase"
+    url: "https://www.thestar.com.my/news/nation/2026/02/11/ecrl-achieves-917-progress-enters-operational-preparation-phase"
+    publisher: "The Star"
+  - title: "ECRL diversion into Kuantan Port to be ready by end of 2026"
+    url: "https://www.thestar.com.my/news/nation/2026/03/11/ecrl-diversion-into-kuantan-port-to-be-ready-by-end-of-2026"
+    publisher: "The Star"
 
 entity: "Malaysia logistics and ports sector"
 relations:
@@ -142,7 +169,7 @@ Here is how the two mega-ports and their sub-terminals compare:
 | — Northport | 3.67 million | 3.8 million | +3.8% |
 | Port of Tanjung Pelepas | 12.25 million | 14.03 million | +14% |
 
-PTP has also drawn international recognition for productivity — it was ranked the fifth most efficient container port in the world in the 2023 Container Port Performance Index (CPPI), published by the World Bank and S&P Global Market Intelligence. That matters commercially, because shipping lines choose transhipment hubs partly on how fast they can turn a vessel around.
+PTP has also drawn international recognition for productivity, though that recognition marks a past peak rather than its current standing. It was ranked the fifth most efficient container port in the world — and Southeast Asia's top port — in the 2023 Container Port Performance Index (CPPI), published by the World Bank and S&P Global Market Intelligence. That 2023 result has not held: PTP slipped to 13th in the CPPI 2024 (the fifth edition, published September 2025) with a score of 118.3, and to around 18th in the CPPI 2025 (the sixth edition, published in June 2026), by which point Cai Mep in Vietnam had overtaken it as Southeast Asia's most efficient container port. Efficiency matters commercially, because shipping lines choose transhipment hubs partly on how fast they can turn a vessel around — which is exactly why a three-year slide from 5th to roughly 18th is worth watching.
 
 ## What is transhipment, and why does it dominate the numbers?
 
@@ -178,7 +205,7 @@ Malaysia's ambition is to stop being a place ships pass and become a place cargo
 
 **More capacity.** Port Klang is not standing still at 15 million TEUs. The Westports 2 expansion is designed to lift capacity eventually to 28 million TEUs, and the government has approved a third terminal on Carey Island, to be developed through a collaboration between the Selangor state government and private-sector partners. The port is targeting 15.37 million TEUs in 2026 (a 1.5% increase) as a near-term step.
 
-**An east–west land bridge.** The 665 km East Coast Rail Link (ECRL) — 91.7% complete as of January 2026 and due for completion by end-2026 — connects the east coast to Port Klang. Its strategic prize is a "land bridge": cargo from China and North Asia can land at Kuantan Port on the South China Sea, then move by rail across the peninsula to Port Klang, sparing vessels the detour around Singapore and, by one Kuantan Port estimate, saving about 1.5 days of sailing time. A rail diversion is being built directly into Kuantan Port's operational area, paired with roughly a kilometre of new wharf and a container yard of nearly 50 hectares.
+**An east–west land bridge.** The 665 km East Coast Rail Link (ECRL) — 91.7% complete as of January 2026, with its main Kota Bharu–Gombak alignment due for completion by end-2026 (commercial operations targeted for January 2027) and the final Gombak-to-Port Klang leg following in late 2027 — connects the east coast to Port Klang. Its strategic prize is a "land bridge": cargo from China and North Asia can land at Kuantan Port on the South China Sea, then move by rail across the peninsula to Port Klang, sparing vessels the detour around Singapore and, by one Kuantan Port estimate, saving about 1.5 days of sailing time. A rail diversion is being built directly into Kuantan Port's operational area, paired with roughly a kilometre of new wharf and a container yard of nearly 50 hectares.
 
 **Higher trade-facilitation rankings.** The plumbing matters as much as the concrete. Malaysia rose to 26th in the World Bank Logistics Performance Index 2023 — up 15 places from 41st in 2018, and second in ASEAN behind Singapore. The LPI measures how reliably and quickly supply chains connect: customs efficiency, infrastructure quality, and the ease of arranging shipments. Moving up it is the difference between a hub that only relays boxes and one that attracts distribution, assembly and value-added logistics.
 

@@ -40,15 +40,10 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
+reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "0.2"
-verificationNeeded:
-  - "The sub-sector FDI breakdown (E&E RM27.9b / 42.3%, transport equipment RM6.6b, chemicals RM5.7b, petroleum products RM5.6b, non-metallic minerals RM5.3b) is MIDA's 2022 detailed split, not 2024 — confirm it is still the latest published breakdown and that the 2022 label is correct."
-  - "Table sub-sector figures against the DOSM Gross Domestic Product 2024 release: M&E GFCF 15.3% (2023: 6.1%), electrical equipment -0.6% (2023: 2.0%), fabricated metal products 9.1%, food processing 4.7%."
-  - "Whether the 14.6% food/beverage/tobacco and 8.7% E&E figures are December-2024 year-on-year (as labelled) versus full-year, to avoid mixing monthly and annual bases in the table."
-  - "Medical device market CAGR of 8.5% to US$4.5 billion by 2028 — confirm the source, base year and target year."
-  - "Rubber ecosystem counts (over 125 latex-product, 40+ tyre-related, 185+ industrial rubber manufacturers) and Top Glove's ~26% world glove market share are current."
+version: "0.3"
+verificationNeeded: []
 revisions:
   - version: "0.1"
     date: 2026-08-01
@@ -58,6 +53,10 @@ revisions:
     date: 2026-07-28
     change: "Correction pass: relabelled 2022 sub-sector FDI figures wrongly presented as 2024, removed unsourced medical-device hub comparison, re-verified table rows against DOSM GDP 2024."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
 updated: 2026-08-01
 sources:

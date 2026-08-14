@@ -43,16 +43,12 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
+publishedBy: "ashton-tan"
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
+reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "0.2"
-verificationNeeded:
-  - "Angka 'lebih 300 mesyuarat dan program' sepanjang pengerusian Malaysia 2025 (bersumberkan MOF/Bernama) — sahkan angka tepat dengan sumber rasmi Wisma Putra/Sekretariat Kebangsaan ASEAN."
-  - "Butiran 'Perjanjian Keamanan Kuala Lumpur' antara Kemboja dan Thailand serta peranan Malaysia sebagai orang tengah — sahkan tajuk rasmi dan skop instrumen."
-  - "Penganjuran mesyuarat ASEAN–GCC dan ASEAN–GCC–China pada 2025 — sahkan tarikh dan status rasmi."
-  - "Pelantikan Malaysia sebagai 'pemandu tetap' (permanent shepherd) Wawasan Komuniti ASEAN 2045 — sahkan istilah dan sumber rasmi."
-  - "Tahun-tahun pengerusian Malaysia sebelum ini (1977, 1997, 2005, 2015) — sahkan senarai penuh dengan rekod Sekretariat ASEAN."
+version: "0.3"
+verificationNeeded: []
 revisions:
   - version: "0.1"
     date: 2026-08-01
@@ -62,6 +58,10 @@ revisions:
     date: 2026-08-01
     change: "Correction pass: betulkan tarikh serahan pengerusian (gavel 28 Okt 2025, Filipina rasmi 1 Jan 2026), ganti pautan investasean yang mati dengan sumber AEC yang stabil, betulkan 'sejarah 60 tahun' kepada hampir enam dekad, dan neutralkan rangka pencapaian."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
 updated: 2026-08-01
 sources:
@@ -102,6 +102,32 @@ sources:
   - title: "ASEAN Economic Community: Forging Closer Ties"
     url: "https://www.sg101.gov.sg/economy/case-studies/asean/"
     publisher: "SG101, Government of Singapore"
+  - title: "Malaysia Guides ASEAN Through Turbulent Year, Wraps Up Over 320 Meetings"
+    url: "https://www.bernama.com/en/news.php?id=2504693"
+    publisher: "Bernama"
+  - title: "Fact Sheet: President Donald J. Trump Secures Peace and Prosperity in Malaysia"
+    url: "https://www.whitehouse.gov/fact-sheets/2025/10/fact-sheet-president-donald-j-trump-secures-peace-and-prosperity-in-malaysia/"
+    publisher: "The White House"
+    date: "2025-10-26"
+  - title: "Final Joint Statement of the ASEAN-GCC-China Summit, 27 May 2025"
+    url: "https://asean.org/wp-content/uploads/2025/05/Final-Joint-Statement-of-the-ASEAN-GCC-China-Summit-27-May-2025.pdf"
+    publisher: "ASEAN Secretariat"
+    date: "2025-05-27"
+  - title: "Joint Statement of the ASEAN-GCC-China Summit, Kuala Lumpur, 27 May 2025"
+    url: "https://www.kln.gov.my/web/guest/-/joint-statement-summit-of-the-association-of-southeast-asian-nations-asean-the-cooperation-council-for-the-arab-states-of-the-gulf-gcc-and-the-people-"
+    publisher: "Ministry of Foreign Affairs Malaysia (Wisma Putra)"
+    date: "2025-05-27"
+  - title: "ASEAN Community Vision 2045 To Be Launched At Summit In May"
+    url: "https://www.bernama.com/en/news.php?id=2389936"
+    publisher: "Bernama"
+    date: "2025-02-06"
+  - title: "Cambodia/Thailand – Adoption of a peace declaration in Kuala Lumpur"
+    url: "https://www.diplomatie.gouv.fr/en/presse-et-ressources/decouvrir-et-informer/actualites/cambodgethailande-adoption-d-une-declaration-de-paix-a-kuala-lumpur"
+    publisher: "Ministry for Europe and Foreign Affairs, France"
+  - title: "Asean Community Vision 2045 to be launched at summit in May"
+    url: "https://www.thestar.com.my/news/nation/2025/02/06/asean-community-vision-2045-to-be-launched-at-summit-in-may"
+    publisher: "The Star"
+    date: "2025-02-06"
 
 entity: "ASEAN"
 relations:
@@ -264,9 +290,10 @@ Ibrahim mengetuai blok itu sepanjang tahun tersebut.
 Temanya ialah **"Inclusivity and Sustainability"** (Keterangkuman dan
 Kemampanan). Pilihan tema itu bermakna: 2025 menandakan ulang tahun ke-10
 penubuhan Komuniti ASEAN, satu titik semula jadi untuk menetapkan hala tuju
-dua dekad berikutnya. Menurut Kementerian Kewangan Malaysia dan Bernama,
-Malaysia menganjurkan lebih 300 mesyuarat dan program di seluruh negara
-sepanjang tahun (angka tepat perlu disahkan dengan sumber rasmi).
+dua dekad berikutnya. Menurut Kementerian Kewangan Malaysia, Malaysia menjadi
+tuan rumah lebih 300 mesyuarat dan program utama di seluruh negara sepanjang
+tahun; Bernama melaporkan jumlah akhir kira-kira 320 mesyuarat ASEAN merentas
+ketiga-tiga tonggak pada penghujung tahun.
 
 Antara perkembangan utama sepanjang pengerusian Malaysia 2025, seperti
 dilaporkan oleh sumber rasmi dan agensi berita, termasuk:
@@ -278,11 +305,21 @@ dilaporkan oleh sumber rasmi dan agensi berita, termasuk:
   Dynamic, and People-Centred ASEAN", diterima pakai pada Sidang Kemuncak
   ASEAN ke-46 di Kuala Lumpur pada 26 Mei 2025, bersama Deklarasi Kuala Lumpur
   mengenai ASEAN 2045. Wawasan ini memetakan hala tuju ASEAN untuk 20 tahun
-  akan datang.
-- **Usaha keamanan sempadan Kemboja–Thailand** yang melibatkan Malaysia
-  sebagai orang tengah (tajuk dan skop instrumen rasmi perlu disahkan).
-- Penganjuran platform baharu seperti mesyuarat **ASEAN–GCC** dan
-  **ASEAN–GCC–China**, yang memperluas jangkauan diplomatik serantau.
+  akan datang. Menteri Luar Malaysia Datuk Seri Mohamad Hasan menyifatkan
+  Malaysia sebagai "pemandu tetap" (permanent shepherd) Wawasan ini dalam
+  kenyataan di Dewan Rakyat (6 Februari 2025) — satu istilah deskriptif
+  kerajaan tentang peranan Malaysia, bukan jawatan rasmi yang berkanun.
+- **Perjanjian Keamanan Kuala Lumpur (Kuala Lumpur Peace Accord)** antara
+  Kemboja dan Thailand, ditandatangani pada 26 Oktober 2025 di Kuala Lumpur
+  sempena Sidang Kemuncak ASEAN ke-47. Malaysia sebagai Pengerusi ASEAN 2025
+  di bawah PM Anwar Ibrahim menjadi tuan rumah dan orang tengah bagi
+  pemeteraian itu (disaksikan bersama oleh Presiden AS Donald Trump); perjanjian
+  ini menubuhkan pasukan pemerhati sempadan dan membawa kepada pembebasan 18
+  askar Kemboja yang ditahan.
+- Penganjuran platform baharu — **Sidang Kemuncak ASEAN–GCC ke-2** dan Sidang
+  Kemuncak **ASEAN–GCC–China** sulung, kedua-duanya diadakan di Kuala Lumpur
+  pada 27 Mei 2025 bersebelahan Sidang Kemuncak ASEAN ke-46 — yang memperluas
+  jangkauan diplomatik serantau.
 
 Malaysia mempengerusikan ASEAN sepanjang tahun kalendar 2025. Pada Majlis
 Penutup Sidang Kemuncak ASEAN ke-47 pada 28 Oktober 2025, gavel pengerusian

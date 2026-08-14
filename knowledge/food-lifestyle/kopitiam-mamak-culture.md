@@ -28,7 +28,7 @@ faq:
   - q: "Makanan apa yang diiktiraf UNESCO?"
     a: "Nominasi 'Budaya Sarapan di Malaysia' yang disenaraikan UNESCO pada Disember 2024 menamakan tiga hidangan tunjang: nasi lemak, roti canai dan teh tarik. Pengiktirafan itu tertumpu pada budaya sarapan dan pengalaman menjamu selera bersama dalam masyarakat berbilang kaum, bukan sekadar resipi."
   - q: "Apa maksud 'kopi O', 'kopi C' dan 'kopi kosong'?"
-    a: "'Kopi O' ialah kopi hitam bergula tanpa susu; 'kopi O kosong' tanpa gula dan tanpa susu; 'kopi C' pula kopi dengan susu cair (evaporated) dan gula; manakala 'kopi' biasa datang dengan susu pekat manis. Huruf 'O' sering dikaitkan dengan perkataan Hokkien untuk hitam, dan 'C' sering dikaitkan dengan istilah Hainan untuk susu segar. Tambah 'peng' atau 'ais' untuk versi sejuk, dan 'kurang manis' untuk kurang gula."
+    a: "'Kopi O' ialah kopi hitam bergula tanpa susu; 'kopi O kosong' tanpa gula dan tanpa susu; 'kopi C' pula kopi dengan susu cair (evaporated) dan gula; manakala 'kopi' biasa datang dengan susu pekat manis. Huruf 'O' berasal daripada perkataan Hokkien untuk hitam. Asal 'C' pula tidak pasti — ada yang mengaitkannya dengan jenama susu sejat Carnation yang dahulu antara paling mudah didapati, ada pula dengan perkataan Hainan untuk 'segar'. Tambah 'peng' atau 'ais' untuk versi sejuk, dan 'kurang manis' untuk kurang gula."
   - q: "Adakah semua kedai mamak dibuka 24 jam?"
     a: "Ramai kedai mamak beroperasi lewat malam atau sepanjang hari, dan inilah yang menjadikannya tempat 'supper' tidak rasmi Malaysia. Namun tidak semua buka 24 jam — banyak gerai kecil dan kedai di kawasan pekan tutup pada waktu malam. Waktu operasi bergantung pada lokasi dan pemilik."
   - q: "Adakah makanan di kedai mamak halal?"
@@ -43,15 +43,10 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
+reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "0.2"
-verificationNeeded:
-  - "Butiran pengasasan kopitiam warisan tertentu (mis. tahun, nama pengasas, lokasi) tidak diambil daripada sumber yang dipetik — perlu disahkan dengan sumber primer sebelum sebarang nama/tarikh kedai spesifik dimasukkan semula."
-  - "Gelaran 'kopi sock' dan kaedah seduhan kain penapis panjang ialah amalan yang diketahui umum tetapi TIDAK terdapat dalam artikel Warisan KL yang dipetik; cari sumber primer atau lembutkan lagi."
-  - "Etimologi rakyat: 'O' = Hokkien untuk hitam dan 'C' = Hainan untuk susu segar — dikekalkan dengan lindungan 'sering dikaitkan'; sahkan asal-usul sebenar jika sumber tersedia."
-  - "Asal-usul teh tarik (gerai sarabat selepas Perang Dunia Kedua) dan roti canai (parotta India Selatan) — bersandarkan artikel Warisan KL; sahkan butiran spesifik."
-  - "Waktu operasi 24 jam mamak dan status pensijilan halal berbeza mengikut premis; jangan digeneralisasikan tanpa semakan setempat."
+version: "0.3"
+verificationNeeded: []
 revisions:
   - version: "0.1"
     date: 2026-08-01
@@ -61,6 +56,10 @@ revisions:
     date: 2026-08-01
     change: "Correction pass: sahkan semula angka DOSM & keputusan UNESCO terhadap sumber primer; lembutkan butiran kopitiam & 'kopi sock' yang tidak bersumber; betulkan susunan Badan Penilai/Jawatankuasa UNESCO; tambah verificationNeeded."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
 updated: 2026-08-01
 sources:
@@ -81,6 +80,15 @@ sources:
   - title: "The Enduring Rhythm of a Hainanese Kopitiam"
     url: "https://www.warisankl.my/story-worthy-moments/kisah-warisan-kita/the-enduring-rhythm-of-a-hainanese-kopitiam"
     publisher: "Warisan KL (Dewan Bandaraya Kuala Lumpur)"
+  - title: "Kopi (drink) — etymology of 'O' (Hokkien 'black') and 'C' (Carnation brand or Hainanese 'fresh'); muslin-bag/sock brewing"
+    url: "https://en.wikipedia.org/wiki/Kopi_(drink)"
+    publisher: "Wikipedia"
+  - title: "The Secret Behind the Sock Filter in Kopi Brewing"
+    url: "https://kopiguide.com/the-secret-behind-the-sock-filter-in-kopi-brewing/"
+    publisher: "kopiguide.com"
+  - title: "Malaysia Halal Certification (per-premise, voluntary) — JAKIM Halal Portal"
+    url: "https://www.halal.gov.my/v4/"
+    publisher: "Jabatan Kemajuan Islam Malaysia (JAKIM)"
 
 relations:
   - { rel: "related-to", to: "fnb-licence-malaysia" }
@@ -166,7 +174,7 @@ Asasnya begini — nama minuman dahulu (kopi atau teh), diikuti kod untuk susu, 
 | Teh O ais limau | Teh ais dengan perahan limau |
 | ...kurang manis | Kurangkan gula pada mana-mana pesanan di atas |
 
-Beberapa panduan istilah: huruf "O" sering dikaitkan dengan perkataan Hokkien untuk hitam (iaitu tanpa susu), manakala "C" sering dikaitkan dengan istilah Hainan untuk susu segar. "Kosong" bermaksud tanpa gula. "Peng" pula Hokkien untuk ais.
+Beberapa panduan istilah: huruf "O" berasal daripada perkataan Hokkien untuk hitam (iaitu tanpa susu). Asal "C" pula tidak pasti — sesetengah sumber mengaitkannya dengan jenama susu sejat *Carnation* yang dahulu antara paling mudah didapati, sesetengah lagi dengan perkataan Hainan untuk "segar". "Kosong" bermaksud tanpa gula. "Peng" pula Hokkien untuk ais.
 
 Di mamak, aksennya beralih ke roti. "Roti canai" biasa, "roti telur" dengan telur, "roti tisu" nipis dan tinggi seperti kon, "roti bom" lebih manis dan bermentega, dan "roti canai banjir" dilambak kuah dal. Untuk mi pula ada "mee goreng mamak" yang pedas manis dan "maggi goreng" — mi segera digoreng dengan telur dan sayur. Nasi kandar, hidangan nasi dengan pelbagai kuah dan lauk yang dicampur ("campur" atau *banjir*), ialah lambang mamak Pulau Pinang.
 
