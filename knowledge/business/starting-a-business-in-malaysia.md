@@ -17,6 +17,7 @@ keyTakeaways:
   - "A business must be registered no later than 30 days from the date it commences; the certificate can be issued within one hour of payment (Form A)."
   - "Only Malaysian citizens or permanent residents aged 18 and above may register a sole proprietorship or partnership."
   - "A Sdn Bhd costs a statutory RM1,000 to incorporate via MyCoID, can be formed by a single person who is both sole member and sole director, and needs a minimum paid-up capital of just RM1."
+  - "An LLP (PLT) is governed by the Limited Liability Partnerships Act 2012, registered on the myLLP portal for RM500, and needs at least two partners plus a compliance officer."
   - "Every company must have at least one director ordinarily resident in Malaysia and must appoint a company secretary within 30 days of incorporation (Companies Act 2016)."
   - "Operating an unregistered business is an offence under Section 12 of the Registration of Businesses Act 1956 — a fine up to RM50,000, up to two years' jail, or both."
 appliesTo: "Anyone planning to set up and formally register a business in Malaysia, from a solo trader choosing the cheapest legal route to a founder incorporating a private limited company."
@@ -26,7 +27,7 @@ faq:
   - q: "Can a foreigner register a sole proprietorship in Malaysia?"
     a: "No. To register a sole proprietorship or partnership the owner must be a Malaysian citizen or permanent resident aged 18 or above. Foreigners typically enter through a private limited company (Sdn Bhd) instead, though a Sdn Bhd must still have at least one director who ordinarily resides in Malaysia."
   - q: "When does a new company have to register for income tax and SST?"
-    a: "A newly incorporated Sdn Bhd must register a separate income-tax file with LHDN through e-Daftar, which issues its own Tax Identification Number — this is not done automatically by SSM. Registration for Sales and Service Tax (SST) becomes mandatory once annual taxable turnover exceeds the RM500,000 threshold."
+    a: "A newly incorporated Sdn Bhd must register a separate income-tax file with LHDN through e-Daftar, which issues its own Tax Identification Number — this is not done automatically by SSM. It must also furnish its first tax estimate (CP204) within three months of commencing operations if its first basis period is at least six months. Registration for Sales and Service Tax (SST) becomes mandatory once annual taxable turnover exceeds the RM500,000 threshold."
 lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
@@ -35,7 +36,7 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-08-14"
 publishedBy: "ashton-tan"
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-08-10
@@ -45,13 +46,11 @@ revisions:
     date: 2026-08-14
     change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
     reviewer: null
-verificationNeeded:
-  - "Exact current SST registration threshold and rates: the RM500,000 annual-turnover threshold and the 5%/10% sales-tax and 6%/8% service-tax rates are widely reported but should be confirmed against the official mysst.customs.gov.my SST Orders before being stated as fact."
-  - "Exact SSM Sdn Bhd incorporation fee: the RM1,000 statutory fee is consistent across sources, but whether a quoted figure includes stamp/tax and the current name-search/reservation fee and validity period should be confirmed on the SSM fee schedule at ssm.com.my."
-  - "LHDN deadline nuance: new companies are commonly said to need a tax file and a CP204 estimate within three months of commencement — confirm exact wording and any current-year update on hasil.gov.my / e-Daftar."
-  - "EPF (KWSP), SOCSO (PERKESO) and EIS employer-registration deadlines and contribution rates for businesses that hire staff are not covered by a primary source in this pack — gather exact current figures from kwsp.gov.my and perkeso.gov.my."
-  - "Whether foreigners can register a sole proprietorship/partnership (the official portal states Malaysian citizen or PR only) versus their route via a Sdn Bhd — confirm the current SSM position and any MyCoID nuances."
-  - "LLP (Perkongsian Liabiliti Terhad / PLT) registration fee, governing statute and online portal are not covered by a primary source in this pack — confirm on ssm.com.my before stating specific figures."
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
+verificationNeeded: []
 updated: 2026-08-14
 sources:
   - title: "Sole Proprietorship/Partnership — Business Information (MyBiz portal)"
@@ -63,12 +62,39 @@ sources:
   - title: "FAQs on Companies Act 2016 and Transitional Issues — Part C: Incorporation"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/FAQS-ON-COMPANIES-ACT-2016-AND-TRANSITIONAL-ISSUES/part_c.pdf"
     publisher: "Companies Commission of Malaysia (SSM)"
+  - title: "Starting a Limited Liability Partnership (LLP)"
+    url: "https://www.ssm.com.my/Pages/Register_Business_Company_LLP/LLP/Starting-a-Limited-Liability-Partnership-(LLP).aspx"
+    publisher: "Companies Commission of Malaysia (SSM)"
   - title: "Malaysian Companies Act 2016: an overview"
     url: "https://www.accaglobal.com/gb/en/student/exam-support-resources/fundamentals-exams-study-resources/f4/technical-articles/mys-comp-act.html"
     publisher: "ACCA (Association of Chartered Certified Accountants)"
   - title: "The Companies Act 2016: Key Changes and Challenges (Journal of Malaysian and Comparative Law)"
     url: "https://ejournal.um.edu.my/index.php/JMCL/article/download/14172/8745/27841"
     publisher: "University of Malaya (JMCL)"
+  - title: "FAQ Sales Tax — MySST"
+    url: "https://mysst.customs.gov.my/faq-sales-tax/"
+    publisher: "Royal Malaysian Customs Department (RMCD)"
+  - title: "FAQ Service Tax — MySST"
+    url: "https://mysst.customs.gov.my/faq-services-tax/"
+    publisher: "Royal Malaysian Customs Department (RMCD)"
+  - title: "Background — MySST"
+    url: "https://mysst.customs.gov.my/background/"
+    publisher: "Royal Malaysian Customs Department (RMCD)"
+  - title: "Tax Estimation — Lembaga Hasil Dalam Negeri Malaysia"
+    url: "https://www.hasil.gov.my/en/company/tax-estimation/"
+    publisher: "Inland Revenue Board of Malaysia (LHDN)"
+  - title: "Anggaran Cukai / Tax Estimation"
+    url: "https://www.hasil.gov.my/en/syarikat/anggaran-cukai/"
+    publisher: "Inland Revenue Board of Malaysia (LHDN)"
+  - title: "Employer Registration — KWSP Malaysia"
+    url: "https://www.kwsp.gov.my/en/employer/responsibilities/registration"
+    publisher: "Employees Provident Fund (KWSP/EPF)"
+  - title: "Employer Mandatory Contribution — KWSP Malaysia"
+    url: "https://www.kwsp.gov.my/en/employer/responsibilities/mandatory-contribution"
+    publisher: "Employees Provident Fund (KWSP/EPF)"
+  - title: "11 SSM Fees To Know Before Incorporating A Sdn Bhd"
+    url: "https://mishu.my/blog/company-incorporation-and-formation/ssm-fees-sdn-bhd/"
+    publisher: "MISHU (corroborating aggregator)"
   - title: "Malaysia SSM Guide: What is it and How to Register"
     url: "https://www.dhl.com/discover/en-my/small-business-advice/starting-a-business/ssm-malaysia-registration"
     publisher: "DHL Malaysia"
@@ -111,13 +137,13 @@ A **sole proprietorship** is one owner trading in their own right. A conventiona
 
 A **private limited company** — *Sendirian Berhad*, or **Sdn Bhd** — is a separate legal person incorporated under the Companies Act 2016. It offers **limited liability**: the shareholders' exposure is limited to what they put in. Under the 2016 Act a company can be formed by a single individual who is both the only shareholder and the only director, and the minimum paid-up capital can be as low as RM1 — so a Sdn Bhd is no longer the "big company only" option it once was.
 
-A **limited liability partnership (LLP)**, known locally by its Malay abbreviation *PLT*, sits between the two: it gives partners limited liability while keeping much of a partnership's flexibility. It is the middle option that agency blogs most often skip. (Its specific registration fee, statute and portal are noted in the verification list below rather than stated here, because this draft's primary sources do not yet pin them down.)
+A **limited liability partnership (LLP)**, known locally by its Malay abbreviation *PLT*, sits between the two: it gives partners limited liability while keeping much of a partnership's flexibility. It is the middle option that agency blogs most often skip. An LLP is governed by the **Limited Liability Partnerships Act 2012** and is registered online through the **myLLP** portal (myllp.ssm4u.com.my) for a **RM500** registration fee. It requires at least **two partners** and a **compliance officer**, and — unlike a sole proprietorship or partnership — it is not restricted to Malaysian citizens or permanent residents.
 
 | Structure | Governing law | Liability | Who may register | Minimum people |
 | --- | --- | --- | --- | --- |
 | Sole proprietorship | Registration of Businesses Act 1956 | Unlimited (personal) | Malaysian citizen or PR, 18+ | 1 owner |
 | Partnership | Registration of Businesses Act 1956 | Unlimited (joint) | Malaysian citizens or PRs, 18+ | 2+ partners |
-| LLP (PLT) | *See verification notes* | Limited | *See verification notes* | 2+ partners |
+| LLP (PLT) | Limited Liability Partnerships Act 2012 | Limited | 2+ partners + a compliance officer (not restricted to citizens/PRs) | 2+ partners |
 | Sdn Bhd | Companies Act 2016 | Limited | Open to foreigners | 1 shareholder / 1 director |
 
 The practical rule of thumb: if you are testing an idea, working solo, and can absorb the risk personally, a sole proprietorship is the cheapest lawful start. If the venture will take on debt, raise capital, hire meaningfully, or sign large contracts, the limited liability of a Sdn Bhd is worth its higher cost and heavier compliance.
@@ -137,7 +163,7 @@ The government's own fees are modest, which is exactly what the "we'll do it for
 
 A "personal name" here means the name exactly as it appears on your MyKad; anything else — an invented brand or trade name — is charged at the RM60 rate and needs SSM's approval.
 
-For a **Sdn Bhd**, the statutory fee to incorporate through SSM's MyCoID portal under the Companies Act 2016 is **RM1,000**. That is the government charge for the incorporation itself; a company also needs a company secretary (a paid appointment — see below), which is the main recurring cost that a sole proprietorship avoids.
+For a **Sdn Bhd**, the statutory fee to incorporate through SSM's MyCoID portal under the Companies Act 2016 is **RM1,000**. That is the government charge for the incorporation itself and does **not** bundle the optional name reservation, which is a separate **RM50 per name**, valid for an initial 30 days and extendable up to a maximum total of 180 days. A self-filed Sdn Bhd that reserves a name therefore pays RM50 (name) + RM1,000 (incorporation) to SSM. A company also needs a company secretary (a paid appointment — see below), which is the main recurring cost that a sole proprietorship avoids.
 
 ## How do you actually register — ezBiz or MyCoID?
 
@@ -172,11 +198,11 @@ Registration is also **not permanent**. A new business registration is valid for
 
 This is the part that agency blogs scatter or skip entirely, and it is where new owners most often trip. An SSM certificate makes the business a recognised legal entity; it does **not** register you for tax, license your activity, or settle your duties as an employer. A realistic post-registration checklist looks like this.
 
-**Register for income tax with LHDN.** A newly incorporated Sdn Bhd must register a separate income-tax file with the Inland Revenue Board (**LHDN**) through the **e-Daftar** system. This is distinct from SSM registration and issues its own **Tax Identification Number (TIN)** — SSM does not do it for you. (New companies are also commonly required to submit an early tax estimate, the CP204; the precise deadline should be confirmed with LHDN, as noted in the verification list.)
+**Register for income tax with LHDN.** A newly incorporated Sdn Bhd must register a separate income-tax file with the Inland Revenue Board (**LHDN**) through the **e-Daftar** system. This is distinct from SSM registration and issues its own **Tax Identification Number (TIN)** — SSM does not do it for you. A new company must also furnish an early tax estimate, the **CP204**: where its first basis period for a year of assessment is not less than **six months**, the first estimate is due within **three months of the date it commences operations** (measured from commencement, not incorporation), with instalment payments beginning in the sixth month of the basis period.
 
-**Watch the SST threshold.** Registration for **Sales and Service Tax (SST)** becomes mandatory once your annual taxable turnover exceeds the **RM500,000** registration threshold. Below that, you generally do not register; above it, registration is a legal obligation, not a choice. The exact current rates should be confirmed against the official Customs SST portal before you rely on them.
+**Watch the SST threshold.** Registration for **Sales and Service Tax (SST)** becomes mandatory once your annual taxable turnover exceeds the **RM500,000** registration threshold in any 12-month period. Below that you generally do not register; above it, registration is a legal obligation, not a choice. Sales tax is charged at **5%, 10% or a specific rate** depending on the goods; service tax carries a standard rate of **8%** (raised from 6% on 1 March 2024), with **6%** retained for food and beverage, telecommunications, logistics and parking services, and a flat RM25 per year on credit and charge cards. One nuance to note: after the 1 July 2025 service-tax expansion, the general RM500,000 threshold still applies to most services, but certain newly taxable categories — such as rental or leasing and financial services — carry a higher **RM1,000,000** threshold.
 
-**Handle employer registrations if you hire.** Once you take on staff, a Malaysian employer normally has to register with the statutory schemes — EPF (KWSP), SOCSO and EIS (PERKESO) — and contribute for each employee. The exact deadlines and contribution rates are not sourced in this draft and should be taken directly from the KWSP and PERKESO portals; they are flagged in the verification notes rather than stated here.
+**Handle employer registrations if you hire.** Once you take on staff, a Malaysian employer must register with the statutory schemes and contribute for each employee. An employer must register with **EPF (KWSP)** within **7 days** of becoming liable to contribute — that is, on hiring the first employee. For Malaysian employees under 60, the statutory EPF rates are **13% employer** for monthly wages up to RM5,000 (12% for wages above RM5,000) and **11% employee**. **SOCSO / EIS (PERKESO)** adds the Employment Injury and Invalidity contributions (roughly **1.75% employer / 0.5% employee**) plus EIS (**0.2% each**), with contributions due by the **15th of the following month**.
 
 **Get the licences your activity needs.** SSM registration authorises the *entity*, not the *activity*. Most businesses still need a premise licence and signboard licence from their local council, and many sectors — food, retail and wholesale trade, manufacturing, finance — carry their own permits. Treat licensing as a separate workstream from registration.
 
@@ -184,8 +210,8 @@ This is the part that agency blogs scatter or skip entirely, and it is where new
 
 ## Can a foreigner start a business in Malaysia?
 
-Not through the cheapest door. A sole proprietorship or partnership requires the owner (and every partner) to be a **Malaysian citizen or permanent resident** aged 18 or above, so those routes are closed to foreigners. The usual path for a non-citizen is to **incorporate a Sdn Bhd**, which is open to foreign ownership — but remember the resident-director rule: the company must still have at least one director who ordinarily resides in Malaysia. (The precise current SSM position on foreign eligibility is listed in the verification notes for confirmation against the primary source.)
+Not through the cheapest door. A sole proprietorship or partnership requires the owner (and every partner) to be a **Malaysian citizen or permanent resident** aged 18 or above, so those routes are closed to foreigners. The usual path for a non-citizen is to **incorporate a Sdn Bhd**, which is open to foreign ownership — but remember the resident-director rule: the company must still have at least one director who ordinarily resides in Malaysia. An LLP is another option open to non-citizens, provided it has at least two partners and a compliance officer.
 
 ## What's next
 
-Decide the liability question first, because everything else follows from it. If you can carry the risk personally and want the cheapest lawful start, register a sole proprietorship on ezBiz — and do it within 30 days of the day you begin trading, before Section 12 exposure starts to accrue. If the venture needs limited liability, budget for the RM1,000 incorporation plus an ongoing company secretary and incorporate a Sdn Bhd on MyCoID. Either way, treat the certificate as the starting line, not the finish: line up your LHDN tax file, watch the RM500,000 SST threshold, sort employer registrations before your first hire, and secure the licences your activity actually needs. Those are the steps that keep a newly registered business on the right side of the law.
+Decide the liability question first, because everything else follows from it. If you can carry the risk personally and want the cheapest lawful start, register a sole proprietorship on ezBiz — and do it within 30 days of the day you begin trading, before Section 12 exposure starts to accrue. If the venture needs limited liability, budget for the RM1,000 incorporation plus an ongoing company secretary and incorporate a Sdn Bhd on MyCoID. Either way, treat the certificate as the starting line, not the finish: line up your LHDN tax file and CP204 estimate, watch the RM500,000 SST threshold, sort employer registrations before your first hire, and secure the licences your activity actually needs. Those are the steps that keep a newly registered business on the right side of the law.

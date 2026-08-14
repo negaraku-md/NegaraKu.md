@@ -34,7 +34,7 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-08-14"
 publishedBy: "ashton-tan"
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-08-10
@@ -44,12 +44,11 @@ revisions:
     date: 2026-08-14
     change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
     reviewer: null
-verificationNeeded:
-  - "Original legislative milestones of Act 709 (Royal Assent 2 June 2010, gazetted 10 June 2010) and the 15 November 2013 coming-into-force date should be confirmed against the AGC gazette (lom.agc.gov.my) before being stated as fact."
-  - "The exact number and list of classes of data controllers required to register under the Registration of Data Users Regulations should be confirmed against the current pdp.gov.my register."
-  - "Precise statutory section numbers for each of the seven principles (beyond the Section 5(1) framing) should be verified against the AGC consolidated text of Act 709."
-  - "Whether the data-portability right and the removal of the cross-border 'whitelist' were fully operational in practice (guidelines vs. in-force provisions) at publication should be confirmed."
-  - "Whether the RM250,000 / 2-year penalty for a lapsed registration certificate was itself changed by the 2024 amendment should be confirmed against the amended text."
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
+verificationNeeded: []
 updated: 2026-08-14
 sources:
   - title: "FAQ — Personal Data Protection"
@@ -73,6 +72,21 @@ sources:
   - title: "Malaysia's PDPA amendments: Delivering enhanced data governance and transparency"
     url: "https://iapp.org/news/a/malaysia-s-pdpa-amendments-delivering-enhanced-data-governance-and-transparency"
     publisher: "International Association of Privacy Professionals (IAPP)"
+  - title: "Personal Data Protection Act 2010 (Act 709) — original certified text (front page: Royal Assent and Gazette dates; ss5–12, the seven principles)"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/Act%20709%20ori.pdf"
+    publisher: "Attorney-General's Chambers of Malaysia (AGC), lom.agc.gov.my"
+  - title: "Personal Data Protection (Class of Data Users) Order 2013, P.U.(A) 336 — Schedule listing the 11 registrable classes (commencement 15 November 2013)"
+    url: "https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2024/07/Perintah-Perlindungan-Data-Peribadi-.pdf"
+    publisher: "Department of Personal Data Protection (JPDP) / AGC Federal Gazette"
+  - title: "Personal Data Protection (Registration of Data Users) Regulations 2013, P.U.(A) 337 — reg 5(2) renewal-lapse penalty (RM250,000 / 2 years)"
+    url: "https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2024/07/pua_20131114_P.U._A_337_-_peraturan-peraturan_perlindungan_data_peribadi_pendaftaran_pengguna_data_2013.pdf"
+    publisher: "Department of Personal Data Protection (JPDP) / AGC Federal Gazette"
+  - title: "Personal Data Protection (Amendment) Act 2024 (Act A1727) — certified text (s9 new s43a data portability; s12 s129 cross-border amendment)"
+    url: "https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2024/11/Act-A1727.pdf"
+    publisher: "Department of Personal Data Protection (JPDP) / AGC Federal Gazette"
+  - title: "Appointment of Date of Coming into Operation, P.U.(B) 522 (24 December 2024) — phased commencement dates"
+    url: "https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2024/12/PENETAPAN-TARIKH-PERMULAAN-KUAT-KUASA-2.pdf"
+    publisher: "Department of Personal Data Protection (JPDP) / AGC Federal Gazette"
 entity: "Personal Data Protection Act 2010 (Act 709)"
 relations: []
 related: []
@@ -83,6 +97,8 @@ If a Malaysian company mishandles your personal data today, it now faces a fine 
 
 ## What does the PDPA actually cover?
 
+Act 709 received **Royal Assent on 2 June 2010** and was published in the Gazette on **10 June 2010**, but its operative provisions were only appointed to commence on **15 November 2013** — the same day its first subsidiary legislation (the Class of Data Users Order and the Registration of Data Users Regulations) came into operation.
+
 The PDPA regulates the **processing of personal data in respect of commercial transactions**. It applies broadly to all individuals and organisations that process personal data. There is one major exemption: the **Federal Government and the State Governments** are not bound by the Act.
 
 "Personal data" is defined widely — it is any data that allows a **living individual to be identified**. That includes names, identification numbers, health information, email addresses, photographs and even **CCTV imagery**. "Processing" is equally broad: it covers collecting, recording, storing, organising, changing, disclosing, destroying and even **reading** personal data. In practice, almost anything an organisation does with your details counts.
@@ -91,23 +107,25 @@ A narrower category, **sensitive personal data**, gets extra protection. It cove
 
 ## What are the seven principles?
 
-The heart of the Act is **Section 5(1)**, which requires anyone processing personal data to comply with seven principles.
+The heart of the Act is **Section 5(1)**, which lists seven principles, each then set out in its own section — Sections 6 to 12 — that anyone processing personal data must comply with.
 
-| Principle | What it requires |
-|---|---|
-| General | Process personal data lawfully and only with the data subject's consent |
-| Notice and Choice | Tell individuals what data is collected, why, and their rights |
-| Disclosure | Do not disclose data for purposes other than those notified, without consent |
-| Security | Take practical steps to protect data from loss, misuse or unauthorised access |
-| Retention | Do not keep data longer than necessary for its purpose |
-| Data Integrity | Keep data accurate, complete, not misleading and up to date |
-| Access | Let individuals access and correct their own data |
+| Principle | Section | What it requires |
+|---|---|---|
+| General | s6 | Process personal data lawfully and only with the data subject's consent |
+| Notice and Choice | s7 | Tell individuals what data is collected, why, and their rights |
+| Disclosure | s8 | Do not disclose data for purposes other than those notified, without consent |
+| Security | s9 | Take practical steps to protect data from loss, misuse or unauthorised access |
+| Retention | s10 | Do not keep data longer than necessary for its purpose |
+| Data Integrity | s11 | Keep data accurate, complete, not misleading and up to date |
+| Access | s12 | Let individuals access and correct their own data |
 
 For individuals, these principles are effectively a bill of rights: you can expect to be told how your data will be used, to access what an organisation holds about you, to correct it, and to have it kept secure and not over-retained. Breaching the principles is an offence, and — as set out below — the penalty for doing so has risen sharply.
 
 ## Who must register with the Commissioner?
 
-Beyond the principles, data controllers that fall within **specified classes** must **register with the Commissioner** online before processing personal data. Registration certificates carry **expiry dates**. Failing to renew an expired certificate is an offence punishable by a fine **not exceeding RM250,000** or imprisonment **not exceeding two years**, or both. (The exact list of registrable classes should be checked on the regulator's current register — see the verification note below.)
+Beyond the principles, data controllers that fall within **specified classes** must **register with the Commissioner** online before processing personal data. The **Class of Data Users Order 2013 (P.U.(A) 336)**, made under Section 14, sets out **eleven registrable classes**: communications; banking and financial institutions; insurance; health; tourism and hospitality; transportation; education; direct selling; services (legal, audit, accountancy, engineering, architecture, retail/wholesale dealing and private employment agencies); real estate; and utilities.
+
+Registration certificates carry **expiry dates**. Under **regulation 5(2) of the Registration of Data Users Regulations 2013 (P.U.(A) 337)**, a data controller who fails to renew an expired certificate and keeps processing personal data commits an offence punishable by a fine **not exceeding RM250,000** or imprisonment **not exceeding two years**, or both — a penalty the 2024 amendment left unchanged. (Processing without a certificate of registration at all is a separate, heavier offence under Section 16(4), carrying a fine of up to RM500,000 or three years' imprisonment.)
 
 ## What changed in the 2024 amendment?
 
@@ -156,4 +174,4 @@ For an SME, the practical checklist follows directly from the thresholds above:
 
 ## What's next
 
-The PDPA has moved from a light-touch statute to an enforceable regime with real financial exposure, and the regulator continues to publish guidelines that flesh out the amended Act. For the authoritative text, the registrable classes, and the latest guidance on breach notification and DPO appointment, consult the Department of Personal Data Protection (JPDP) at [pdp.gov.my](https://www.pdp.gov.my/ppdpv1/en/faq/). Several original legislative milestones and section-level details in this guide are flagged for verification against the primary gazette before they are relied on for compliance decisions.
+The PDPA has moved from a light-touch statute to an enforceable regime with real financial exposure, and the regulator continues to publish guidelines that flesh out the amended Act — including the 2025 Cross-Border Personal Data Transfer Guidelines that supplement the loosened transfer regime. For the authoritative text, the registrable classes, and the latest guidance on breach notification and DPO appointment, consult the Department of Personal Data Protection (JPDP) at [pdp.gov.my](https://www.pdp.gov.my/ppdpv1/en/faq/).

@@ -32,7 +32,7 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-08-14"
 publishedBy: "ashton-tan"
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-08-10
@@ -42,12 +42,11 @@ revisions:
     date: 2026-08-14
     change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
     reviewer: null
-verificationNeeded:
-  - "Structure figures (18 Parts, 281 sections, 16 schedules) come from a secondary summary and should be confirmed against the AGC/BNM statute text."
-  - "Exact Part numbers and titles cited in some secondary sources (e.g. a Consumer Protection Part, an Offences and Penalties Part) should be confirmed against the AGC/BNM statute text before being stated as section-level fact."
-  - "The staggered commencement of specific provisions (e.g. money-changing/Schedule 9 provisions reportedly effective 1 January 2015 rather than 30 June 2013) needs confirmation from the official commencement notification."
-  - "Whether the FSA repealed the Exchange Control Act 1953 outright or replaced its regime via new foreign-exchange provisions should be verified against the statute's repeal/savings schedule."
-  - "Any later amendments to Act 758 (post-2013) should be checked on lom.agc.gov.my for the current consolidated version before relying on figures such as section counts."
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
+verificationNeeded: []
 updated: 2026-08-14
 sources:
   - title: "Financial Services Act 2013 and Islamic Financial Services Act 2013 Come Into Force"
@@ -62,6 +61,9 @@ sources:
   - title: "Financial Services Act 2013 – Part 1"
     url: "https://www.lowpartners.com/financial-services-act-2013-part-1/"
     publisher: "Low & Partners"
+  - title: "Financial Services Act 2013 (Act 758), consolidated text as at 1 August 2021 — Arrangement of Sections (Parts I-XVII, sections 1-281, Schedules 1-16), commencement note, and sections 271-272 (repeal and savings)"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1691496_BI/ACT%20758_2.8.2021.pdf"
+    publisher: "Attorney General's Chambers of Malaysia (Laws of Malaysia)"
 entity: "Financial Services Act 2013"
 relations: []
 related: []
@@ -85,7 +87,9 @@ Each of these is regulated because the FSA requires it to be licensed or approve
 
 ## When did it come into force, and what did it replace?
 
-The FSA received royal assent on **18 March 2013** and came into force on **30 June 2013**. On the same day, its Shariah-compliant sibling, the **Islamic Financial Services Act 2013 (IFSA)**, also came into force.
+The FSA received royal assent on **18 March 2013** and came into force on **30 June 2013** (per P.U. (B) 276/2013). On the same day, its Shariah-compliant sibling, the **Islamic Financial Services Act 2013 (IFSA)**, also came into force.
+
+Two provisions were held back from that date: **section 129 and Schedule 9** — which deal with pre-contractual disclosure, representations and remedies for misrepresentation (an insurance consumer-protection measure) — came into operation later, on **1 January 2015** (per P.U. (B) 552/2014).
 
 Before 2013, the sector was governed by several separate, ageing statutes. The FSA unified this framework by consolidating and **repealing four conventional laws** into one modern, principle-based act:
 
@@ -140,7 +144,7 @@ That penalty is the legal teeth behind the warnings you hear about illegal depos
 
 ## How is the act structured?
 
-According to a secondary summary of the statute, the FSA is organised into **18 Parts** containing around **281 sections** and **16 schedules**, applying throughout Malaysia. It spans the full sweep of the conventional sector: licensing and authorisation, prudential and business-conduct requirements, payment systems, the money and foreign exchange markets, and offences and penalties. (The exact Part numbering and the current section count should be confirmed against the official statute text before being quoted as precise fact — see *Verification needed* in the details of this article.)
+In the Attorney General's Chambers consolidated text (Act 758, as at 1 August 2021), the FSA is organised into **17 Parts** (Part I to Part XVII) containing **281 sections** and **16 schedules**, applying throughout Malaysia. It spans the full sweep of the conventional sector: licensing and authorisation, prudential and business-conduct requirements, payment systems, the money and foreign exchange markets, and enforcement. Consumer protection sits in **Part VIII, "Business Conduct and Consumer Protection"** (sections 121-139), while offences and sanctions sit in **Part XV, "Enforcement and Penalties"** (sections 218-258). The Act has been amended since 2013 — including by the Financial Services (Amendment) Act 2017 — but this structure remains stable in the current consolidated text (its latest amendment, P.U. (A) 51/2021, came into operation on 10 February 2021).
 
 ## What's next
 

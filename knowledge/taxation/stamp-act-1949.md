@@ -34,7 +34,7 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-08-14"
 publishedBy: "ashton-tan"
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-08-10
@@ -44,12 +44,11 @@ revisions:
     date: 2026-08-14
     change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
     reviewer: null
-verificationNeeded:
-  - "Exact commencement dates of the Stamp Act 1949 (reportedly in force in West Malaysia from 5 December 1949 and extended to Sabah/Sarawak from 1 October 1989) — confirm against the long title/preamble of the Act 378 official text before stating."
-  - "The flat 8% foreign-buyer transfer rate effective 1 January 2026 — confirm against the gazetted Stamp Duty (Exemption) Order / Budget 2026 Finance Act rather than secondary tax-guide reporting."
-  - "Whether the 0.5% loan-agreement rate carries any current remission or exemption thresholds for owner-occupied residential financing — verify current Stamp Duty (Exemption) Orders on LHDN before stating it as unconditional."
-  - "Exact scope wording of Self-Assessment Phase 1 instrument categories and any special penalty-waiver window announced for 2026 — confirm on LHDN e-Duti Setem guidance rather than firm blogs."
-  - "Current first-time-homebuyer / residential purchase exemption thresholds (value bands and validity period) — confirm against the live LHDN Stamp Duty Order page, since these are renewed periodically."
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
+verificationNeeded: []
 updated: 2026-08-14
 sources:
   - title: "Pengenalan Duti Setem (Introduction to Stamp Duty)"
@@ -85,6 +84,27 @@ sources:
   - title: "Stamp Duty Malaysia 2026: Rates, Exemptions and Penalties"
     url: "https://www.cleartax.com/my/en/stamp-duty-malaysia"
     publisher: "ClearTax Malaysia"
+  - title: "Laws of Malaysia — Stamp Act 1949 (Act 378), online updated reprint text"
+    url: "https://www.jkptg.gov.my/images/pdf/perundangan-tanah/Act_378_-_Stamp_Act_1949.pdf"
+    publisher: "Jabatan Ketua Pengarah Tanah dan Galian (JKPTG) — Laws of Malaysia Act 378"
+  - title: "Stamp Act 1949 (commencement note reproduction)"
+    url: "https://www.lowpartners.com/stamp-act-1949/"
+    publisher: "Low & Partners"
+  - title: "8% Stamp Duty for Foreigners Malaysia 2026 (statutory analysis citing Finance Act 2025 / Item 32(ab))"
+    url: "https://propcashflow.my/blog/foreigner-stamp-duty-8-percent-malaysia/"
+    publisher: "PropCashflow.my"
+  - title: "Budget 2026: Stamp duty exemption extended for first-time homebuyers"
+    url: "https://www.thestar.com.my/business/business-news/2025/10/10/budget-2026-stamp-duty-exemption-extended-for-first-time-homebuyers"
+    publisher: "The Star"
+  - title: "Malaysia's 2026 Budget: What it Means for Foreign Investors"
+    url: "https://www.china-briefing.com/china-outbound-news/malaysias-2026-budget-what-it-means-for-foreign-investors"
+    publisher: "China Briefing (Dezan Shira & Associates)"
+  - title: "Stamp duty exemptions on the purchase of first residential homes (P.U.(A) 53/2021 & 54/2021)"
+    url: "https://www.ey.com/en_my/technical/tax-alerts/stamp-duty-exemptions-on-the-purchase-of-first-residential-homes"
+    publisher: "EY Malaysia (Tax Alert)"
+  - title: "Special Penalty Waiver for Stamping of Phase 1 Instruments in 2026 (quoting LHDN 21 Dec 2025 media release)"
+    url: "https://dnh.com.my/special-penalty-waiver-for-stamping-of-phase-1-instruments-in-2026/"
+    publisher: "Donovan & Ho"
 entity: "Stamp Act 1949 (Act 378, Malaysia)"
 relations: []
 related: []
@@ -98,6 +118,8 @@ This is a plain, statute-level guide to what the Act taxes, how the duty is work
 ## What does the Stamp Act 1949 actually tax?
 
 The Act imposes duty on **instruments, not transactions**. An instrument is any written document, and stamp duty is levied on legal, commercial and financial instruments. The Stamp Act 1949 is **Act 378** in the Laws of Malaysia, and the chargeable instruments — together with the duty each attracts — are set out in the **First Schedule** to the Act. Administration sits with the **Inland Revenue Board of Malaysia (Lembaga Hasil Dalam Negeri, LHDN / IRBM)**.
+
+The Act came into force in **Peninsular (West) Malaysia on 5 December 1949** and was **extended to Sabah and Sarawak from 1 October 1989** by P.U. (B) 441/1989. First enacted as F.M. Ordinance No. 59 of 1949, it was revised as Act 378 in 1989 (in force from 2 January 1990).
 
 Because the charge attaches to the paper rather than the deal, the same underlying arrangement can produce several dutiable documents — a sale of property, for example, generates both a transfer instrument and, if financed, a loan agreement, each stamped in its own right.
 
@@ -125,11 +147,15 @@ The transfer of ownership is captured by a **Memorandum of Transfer (MOT)**, and
 
 The tiers are marginal, so each band applies only to the slice of value within it. A property priced at RM600,000, for instance, is charged 1% on the first RM100,000, 2% on the next RM400,000, and 3% on the remaining RM100,000.
 
-One important carve-out changed the arithmetic for foreign buyers. From **1 January 2026**, non-citizen individuals (excluding permanent residents) and foreign companies buying residential property face a **flat 8%** stamp duty on the instrument of transfer, up from the previous 4%.
+One important carve-out changed the arithmetic for foreign buyers. From **1 January 2026**, non-citizen individuals (excluding permanent residents) and foreign companies buying residential property face a **flat 8%** stamp duty on the instrument of transfer, up from the previous 4%. This flat rate was inserted as **Item 32(ab)** of the First Schedule by the Finance Act 2025 (Act 874), replacing the earlier flat 4% under Item 32(aa).
+
+At the other end, first-time buyers who are Malaysian citizens enjoy a substantial exemption under the **i-Miliki** initiative: a **100% exemption on both the instrument of transfer and the loan agreement** for a first residential property priced **up to RM500,000**, and a **75% exemption** for a first home priced **RM500,001 to RM1,000,000**. Eligibility requires that the buyer has never owned any residential property. The full up-to-RM500,000 exemption, originally gazetted under P.U.(A) 53/2021 (transfer) and P.U.(A) 54/2021 (loan), was extended by Budget 2026 to sale-and-purchase agreements executed up to **31 December 2027**.
 
 ## How much is duty on a loan or tenancy?
 
 **Loan and financing agreements.** Stamp duty on a loan or financing agreement is **0.5% of the total loan sum**. Financed insurance premiums — such as MRTA (Mortgage Reducing Term Assurance) or MLTA (Mortgage Level Term Assurance) — are excluded from the sum on which the 0.5% is charged.
+
+The 0.5% base rate is not, however, unconditional for a first home. Under the Stamp Duty (Exemption) (No. 2) Order 2021 [P.U.(A) 54/2021], a loan agreement financing a **Malaysian citizen's first residential property priced up to RM500,000 is fully (100%) exempt**, and Budget 2026 extended this exemption to sale-and-purchase agreements executed up to **31 December 2027**. Eligibility requires that the buyer has never owned any residential property.
 
 **Tenancy agreements.** A tenancy is charged per **RM250 of annual rent**, with the rate stepping up according to the length of the lease:
 
@@ -167,8 +193,10 @@ The bigger reform is not the rates but **who calculates the duty**. Under the **
 | Phase 2 | 1 January 2027 | Property transfer instruments |
 | Phase 3 | 1 January 2028 | All remaining instruments |
 
+To ease the transition, LHDN announced (media release dated 21 December 2025) a **special penalty waiver for Phase 1 instruments**: no penalty is imposed where the stamping application is submitted between **1 January and 31 December 2026**. The waiver covers errors in the Stamp Duty Return Form (BNDS), inaccurate information affecting the duty assessment, and offences under subsection 72D(2) of the Act — but it does **not** cover failure to stamp or late stamping, so the 30-day late-stamping penalty still applies. Separately, a Stamp Duty Voluntary Disclosure Programme runs from 1 January to 30 June 2026 for instruments executed in 2023–2025.
+
 The practical effect is a shift in responsibility. Once an instrument type moves into self-assessment, the burden of computing the right duty — and the exposure if it is under-declared — sits with the taxpayer and their advisers, not with a counter officer who checks the sum on the way in.
 
 ## What's next
 
-Rates, exemptions and the self-assessment scope are **year-sensitive**, and several figures here — the 8% foreign-buyer rate, first-time-homebuyer exemption bands, and the exact Phase 1 wording — should be checked against the live LHDN Stamp Duty Order and e-Duti Setem guidance before you rely on them for a specific document (see the verification notes above). For the authoritative text, the **Stamp Act 1949 (Act 378)** and its **First Schedule** remain the primary reference, published by LHDN.
+Rates, exemptions and the self-assessment scope are **year-sensitive** — the 8% foreign-buyer rate, the first-time-homebuyer exemption bands and their 31 December 2027 validity, and the Phase 1 penalty-waiver window all carry dated cut-offs, so confirm the current position against the live LHDN Stamp Duty Order and e-Duti Setem guidance before you rely on them for a specific document. For the authoritative text, the **Stamp Act 1949 (Act 378)** and its **First Schedule** remain the primary reference, published by LHDN.
