@@ -40,9 +40,10 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
-reviewDue: 2027-08-03
-version: "0.2"
+publishedBy: "ashton-tan"
+reviewed: 2026-08-14
+reviewDue: 2027-08-14
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-08-01
@@ -52,16 +53,16 @@ revisions:
     date: 2026-08-01
     change: "Correction pass: removed unsourced regional-names rows + fabricated 'ching loong', fixed SEA Games history and King's Cup regu date against cited sources, softened non-neutral 'Malaysia originated the sport' claims."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
 verificationNeeded:
-  - "Penampilan sulung sepak takraw di Sukan SEA — sumber ISTAF tidak konsisten (menyebut permulaan 1965 di Bangkok, kemasukan Sukan SEA 1967 di Kuala Lumpur, tetapi juga 'penampilan sulung 1977'). Sahkan tahun sebenar dengan rekod rasmi Majlis Sukan SEA."
-  - "Tahun penubuhan ISTAF — sumber ISTAF menyebut 1982, manakala sumber lain menyebut 1988. Sahkan tahun sebenar dan status PSM sebagai ahli pengasas."
-  - "Tarikh 2 September 2024 bagi kemenangan regu 2-0 Malaysia ke atas India (emas) di Piala Raja diambil daripada gabungan dua laporan Bernama ('esok' pada 1 Sep + 'pada Isnin' pada laporan 8 Sep). Sahkan tarikh kalendar tepat."
-  - "Spesifikasi teknikal (gelanggang 13.4 m x 6.1 m, jaring 1.5 m/1.42 m, bola 12 lubang/20 persilangan, mata ke 21/25) berasal daripada Rules of Sport, bukan penerbitan rasmi ISTAF. Sahkan dengan buku peraturan rasmi ISTAF terkini."
-  - "Tarikh penubuhan PSM (rujukan carian menyebut 28 Januari 1960, Pulau Pinang) belum disahkan daripada sumber rasmi dan sengaja tidak dinyatakan dalam badan artikel."
-  - "Sama ada sepak takraw pernah diisytiharkan secara rasmi (melalui akta atau dasar) sebagai sukan kebangsaan Malaysia."
+  - "Tahun penubuhan ISTAF — laman rasmi ISTAF menyebut 1982, manakala Wikipedia dan kebanyakan sumber sekunder menyebut 1988 (berkembang daripada Asian Sepaktakraw Federation/ASTAF). Percanggahan primer-sekunder ini tidak dapat diselaraskan; badan artikel tidak menyatakan sebarang tahun. Status PSM sebagai ahli pengasas telah disahkan."
+  - "Tarikh penubuhan PSM (rujukan carian menyebut persidangan awal 28 Januari 1960 di Pulau Pinang, diikuti perlembagaan rasmi 25 Jun 1960) belum disahkan daripada sumber rasmi/primer PSM dan sengaja tidak dinyatakan dalam badan artikel."
 
-updated: 2026-08-01
+updated: 2026-08-14
 sources:
   - title: "International Sepaktakraw Federation — Who Are We"
     url: "https://sepaktakraw.one/who-are-we-1"
@@ -72,6 +73,18 @@ sources:
   - title: "Sepak Takraw Rules: How To Play Sepak Takraw"
     url: "https://www.rulesofsport.com/sports/sepak-takraw.html"
     publisher: "Rules of Sport"
+  - title: "ISTAF Law of the Game — Sepaktakraw (court 13.4x6.1, net 1.52/1.42, ball 12 holes/20 intersections)"
+    url: "http://www.takraw.com.br/abt/RULE_regu.pdf"
+    publisher: "International Sepaktakraw Federation (ISTAF)"
+  - title: "ISTAF Letter to Member Countries Re Implementation of 15-Points Per Set Game (effective 1 Feb 2024)"
+    url: "https://www.scribd.com/document/698011564/Ver-1-0-ISTAF-Letter-to-Member-Countries-Re-Implementation-of-15-Points-Per-Set-Game"
+    publisher: "International Sepaktakraw Federation (ISTAF)"
+  - title: "1965 SEAP Games — sports program (lists Sepak takraw among 14 sports)"
+    url: "https://en.wikipedia.org/wiki/1965_SEAP_Games"
+    publisher: "Wikipedia"
+  - title: "Sepaktakraw Association of Malaysia"
+    url: "https://en.wikipedia.org/wiki/Sepaktakraw_Association_of_Malaysia"
+    publisher: "Wikipedia"
   - title: "PSM tukar nama rasmi kepada Persekutuan Sepaktakraw Malaysia"
     url: "https://berita.rtm.gov.my/arena/senarai-berita-arena/senarai-artikel/psm-tukar-nama-rasmi-kepada-persekutuan-sepaktakraw-malaysia/"
     publisher: "RTM"
@@ -153,12 +166,12 @@ sah.
 | --- | --- |
 | Saiz pasukan | 3 pemain (satu regu) — tekong + dua pemain hadapan |
 | Bahagian badan dibenarkan | Kaki, lutut, dada dan kepala — **tangan dilarang** |
-| Ukuran gelanggang | Kira-kira 13.4 m x 6.1 m |
-| Tinggi jaring | 1.5 m (lelaki); 1.42 m (wanita) |
+| Ukuran gelanggang | 13.4 m x 6.1 m |
+| Tinggi jaring | 1.52 m (lelaki); 1.42 m (wanita) |
 | Sentuhan setiap pihak | Maksimum tiga sentuhan sebelum menghantar semula bola |
-| Pemarkahan | Set pertama ke 21 mata menang set itu |
+| Pemarkahan | Set dimenangi pada 15 mata dengan mendahului sekurang-kurangnya dua mata |
 | Menang perlawanan | Menang dua set |
-| Seri | Jika 21-21, sambung sehingga satu pihak mencapai 25 mata atau mendahului dua mata |
+| Seri | Jika 14-14, permainan diteruskan sehingga maksimum 17 mata |
 
 Mata diberikan apabila pihak lawan melakukan kesalahan — menyentuh bola dengan
 tangan, membiarkan bola jatuh ke gelanggang sendiri, atau menghantar bola ke
@@ -180,10 +193,11 @@ Di peringkat antarabangsa, sukan ini ditadbir oleh **Persekutuan Sepaktakraw
 Antarabangsa (ISTAF)**, yang ditubuhkan melalui usaha bersama wakil beberapa
 negara Asia Tenggara, dengan pegawai dari Malaysia, Thailand dan Indonesia
 memainkan peranan penting. PSM ialah salah satu ahli pengasasnya. ISTAF
-menyeragamkan peraturan dan memperluas jangkauan global sukan ini. Menurut
-kronologi ISTAF, permainan ini mula diperkenalkan di Bangkok pada 1965 dan
-dimasukkan dalam Sukan SEA di Kuala Lumpur pada 1967, sebelum membuat penampilan
-sulung di Sukan Asia pada 1990 (Beijing).
+menyeragamkan peraturan dan memperluas jangkauan global sukan ini. Pada peringkat
+serantau, sepak takraw telah dipertandingkan secara berterusan sebagai sukan
+bermedal penuh sejak Sukan SEAP 1965 di Kuala Lumpur — Sukan SEAP kemudiannya
+dinamakan semula Sukan SEA pada 1977. Sukan ini turut membuat penampilan sulung
+di Sukan Asia pada 1990 (Beijing).
 
 ## Apakah rekod Malaysia di pentas dunia?
 

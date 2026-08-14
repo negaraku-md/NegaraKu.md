@@ -1,46 +1,47 @@
 ---
 topicId: MY-SPT-0014
 title: "Skuasy di Malaysia: Era Nicol David dan Apa yang Menyusul"
-seoTitle: "Skuasy di Malaysia: Nicol David dan Saluran Bakat Negara"
+seoTitle: "Skuasy Malaysia: Nicol David dan Saluran Bakat Negara"
 slug: "squash-in-malaysia-nicol-david"
 category: "sports"
 subcategory: ["squash"]
-summary: "Bagaimana sistem skuasy junior Malaysia melahirkan Nicol David — nombor satu dunia selama rekod 108 bulan berturut-turut dan juara Kejohanan Terbuka Dunia lapan kali — dan siapa yang meneruskan kegemilangan sukan ini sejak beliau bersara."
+summary: "Bagaimana sistem skuasy junior Malaysia melahirkan Nicol David — pemain nombor satu dunia selama 108 bulan berturut-turut yang menjadi rekod dan juara Kejohanan Terbuka Dunia sebanyak lapan kali — dan siapa yang membawa sukan ini ke hadapan sejak beliau bersara."
 
 tier: "2"
 mode: "narrative"
 contentType: "guide"
 sensitivity: "none"
 
-answer: "Nicol David ialah pemain skuasy terhebat yang pernah dilahirkan Malaysia: nombor satu dunia selama rekod 108 bulan berturut-turut sehingga September 2015, juara Kejohanan Terbuka Dunia lapan kali, dan Pemain Terbaik Dunia tujuh kali. Beliau muncul melalui sistem pembangunan junior Persatuan Skuasy Raket Malaysia, dan sejak persaraannya pada 2019, pemain seperti Sivasangari Subramaniam dan Ng Eain Yow telah membawa skuasy Malaysia kembali ke arah kelompok elit dunia."
+answer: "Nicol David ialah pemain skuasy terhebat yang pernah dilahirkan oleh Malaysia: pemain nombor satu dunia selama 108 bulan berturut-turut yang menjadi rekod sehingga September 2015, juara Kejohanan Terbuka Dunia sebanyak lapan kali, dan Pemain Terbaik Dunia sebanyak tujuh kali. Beliau muncul melalui sistem pembangunan junior Persatuan Skuasy Raket Malaysia, dan sejak beliau bersara pada 2019, pemain seperti Sivasangari Subramaniam dan Ng Eain Yow telah membawa skuasy Malaysia kembali ke barisan elit dunia."
 keyTakeaways:
-  - "Nicol David memegang kedudukan nombor satu dunia selama 108 bulan berturut-turut sehingga September 2015, tempoh pemerintahan terpanjang dalam sejarah sukan ini."
-  - "Beliau memenangi Kejohanan Terbuka Dunia lapan kali antara 2005 dan 2014 dan dinobatkan sebagai Pemain Terbaik Dunia tujuh kali."
-  - "David meningkat melalui laluan pembangunan junior SRAM, sistem yang sama yang melahirkan Ong Beng Hee dan Mohd Azlan Iskandar."
-  - "Sejak persaraannya pada 2019, Sivasangari Subramaniam mencapai kedudukan tertinggi kariernya nombor 6 dunia pada Oktober 2025 dan Ng Eain Yow memenangi kejuaraan PSA Tour di halaman sendiri pada 2024."
-appliesTo: "Peminat sukan, pelajar, wartawan dan sesiapa yang membuat penyelidikan tentang skuasy Malaysia, warisan Nicol David, atau bakat skuasy negara pada masa kini."
+  - "Nicol David memegang kedudukan nombor satu dunia selama 108 bulan berturut-turut sehingga September 2015, penguasaan terpanjang dalam sejarah sukan ini."
+  - "Beliau memenangi Kejohanan Terbuka Dunia sebanyak lapan kali antara 2005 dan 2014 dan dinobatkan sebagai Pemain Terbaik Dunia sebanyak tujuh kali."
+  - "David muncul melalui laluan pembangunan junior SRAM, sistem yang sama yang melahirkan Ong Beng Hee dan Mohd Azlan Iskandar."
+  - "Sejak beliau bersara pada 2019, Sivasangari Subramaniam mencapai kemuncak kerjaya nombor 6 dunia pada Oktober 2025 dan Ng Eain Yow memenangi kejuaraan PSA Tour di tanah air pada 2024."
+appliesTo: "Peminat sukan, pelajar, wartawan dan sesiapa yang membuat kajian tentang skuasy Malaysia, legasi Nicol David, atau bakat skuasy negara masa kini."
 
 faq:
-  - q: "Berapa lamakah Nicol David berada di kedudukan nombor satu dunia?"
-    a: "Selama rekod 108 bulan berturut-turut sehingga September 2015 — tempoh pemerintahan tanpa putus terpanjang di kedudukan nombor satu dalam sejarah skuasy, mengatasi rekod sebelumnya iaitu 105 bulan yang dipegang oleh Susan Devoy dari New Zealand."
+  - q: "Berapa lamakah Nicol David menduduki kedudukan nombor satu dunia?"
+    a: "Selama 108 bulan berturut-turut yang menjadi rekod sehingga September 2015 — penguasaan tanpa putus terpanjang di kedudukan nombor satu dalam sejarah skuasy, mengatasi rekod sebelumnya sebanyak 105 bulan yang dipegang oleh Susan Devoy dari New Zealand."
   - q: "Berapa banyak kejuaraan Kejohanan Terbuka Dunia yang dimenangi Nicol David?"
     a: "Lapan, dimenangi antara 2005 dan 2014, satu rekod bagi Kejohanan Terbuka Dunia wanita."
-  - q: "Badan manakah yang mengendalikan skuasy di Malaysia?"
-    a: "Persatuan Skuasy Raket Malaysia (SRAM), yang menyelia pasukan kebangsaan dan laluan pembangunan junior, dengan latihan elit berpangkalan di Pusat Skuasy Kebangsaan di Bukit Jalil."
+  - q: "Badan manakah yang menguruskan skuasy di Malaysia?"
+    a: "Persatuan Skuasy Raket Malaysia (SRAM), yang menyelia pasukan kebangsaan dan laluan pembangunan junior, dengan latihan elit berpusat di Pusat Skuasy Negara di Bukit Jalil."
   - q: "Siapakah pemain skuasy utama Malaysia pada masa kini?"
-    a: "Sivasangari Subramaniam, yang mencapai kedudukan tertinggi kariernya nombor 6 dunia pada Oktober 2025, dan Ng Eain Yow, yang memenangi ACE Malaysia Squash Cup 2024 di halaman sendiri."
+    a: "Sivasangari Subramaniam, yang mencapai kemuncak kerjaya nombor 6 dunia pada Oktober 2025, dan Ng Eain Yow, yang memenangi ACE Malaysia Squash Cup 2024 di tanah air."
 
 lang: "ms"
-sourceContentHash: "917104bdc4900af0"
 masterLanguage: "en"
 translationStatus: "in-sync"
+sourceContentHash: "47a1ae4a8ea8c4dc"
 
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
+reviewed: "2026-08-14"
+publishedBy: "ashton-tan"
 reviewDue: 2027-08-03
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-08-01
@@ -50,14 +51,13 @@ revisions:
     date: 2026-08-01
     change: "Correction pass: reconciled the 108-month figure to Laureus, re-sourced Hall of Fame/maiden title to PSA, fixed 2024 Cairo event to the individual World Championships, corrected the Nimick quote timing, and removed unverifiable SRAM history dates (source returned HTTP 403)."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
 verificationNeeded:
-  - "Exact count of Nicol David's consecutive months at world No. 1: the Laureus profile states 108 months until September 2015, while the PSA profile and Tournament of Champions describe her reaching her 106th consecutive month in the February 2015 rankings (when she overtook Susan Devoy). Confirm the precise total and end date."
-  - "SRAM's founding date and the timeline of its junior development programme and any corporate sponsorship history — the SRAM history page (malaysia-squash.org/about-sram/history) returned HTTP 403 and could not be verified; confirm directly with SRAM."
-  - "Whether the National Squash Centre in Bukit Jalil remains SRAM's primary elite training base."
-  - "Whether the 2024 ACE Malaysia Squash Cup was Ng Eain Yow's first PSA World Tour-level title."
   - "Jansher Khan's world-championship count, if it is to be cited (referenced only generally here, not from the cited PSA Hall of Fame notice)."
-  - "Ong Beng Hee's peak world ranking, if a specific figure is reintroduced."
 
 updated: 2026-08-01
 sources:
@@ -79,6 +79,18 @@ sources:
   - title: "Malaysia clinches spot in 2024 World Squash Championships"
     url: "https://cj.my/144019/malaysia-clinches-spot-in-2024-world-squash-championships/"
     publisher: "Citizens Journal Malaysia"
+  - title: "CIMB celebrates Dato' Nicol David's new world record as the longest-reigning world number one squash player"
+    url: "https://www.cimb.com/en/newsroom/2015/cimb-celebrates-dato-nicol-davids-new-world-record.html"
+    publisher: "CIMB"
+  - title: "Squash Racquets Association of Malaysia"
+    url: "https://en.wikipedia.org/wiki/Squash_Racquets_Association_of_Malaysia"
+    publisher: "Wikipedia"
+  - title: "National Squash Centre — Perbadanan Stadium Malaysia"
+    url: "https://www.stadium.gov.my/venues/kuala-lumpur-sports-city/national-squash-centre.html"
+    publisher: "Perbadanan Stadium Malaysia (Government of Malaysia)"
+  - title: "Malaysian Star Beng Hee Retires"
+    url: "https://www.psasquashtour.com/news/view/1979/malaysian-star-beng-hee-retires"
+    publisher: "PSA Squash Tour"
 
 entity: "Nicol David"
 relations:
@@ -87,64 +99,64 @@ related: []
 keywords: ["squash", "Nicol David", "SRAM", "Malaysian squash", "Ng Eain Yow", "Sivasangari Subramaniam", "World Open"]
 ---
 
-Selama sembilan tahun berturut-turut, pemain skuasy terbaik di dunia berasal dari Pulau Pinang. Nicol David bukan sekadar menang dalam sukan individu paling berjaya Malaysia — beliau menulis semula erti dominasi dalam sukan itu, memegang kedudukan nombor satu dunia selama **108 bulan berturut-turut** sehingga September 2015, tempoh pemerintahan tanpa putus terpanjang yang pernah disaksikan sukan ini.
+Selama sembilan tahun berturut-turut, pemain skuasy terbaik di dunia berasal dari Pulau Pinang. Nicol David bukan sekadar menang dalam sukan individu paling berjaya di Malaysia — beliau menulis semula rupa penguasaan dalam sukan tersebut, memegang kedudukan nombor satu dunia selama **108 bulan berturut-turut** sehingga September 2015, penguasaan tanpa putus terpanjang yang pernah disaksikan dalam sukan ini.
 
-Angka itu sahaja sudah cukup untuk menakrifkan kebanyakan kerjaya. Kerjaya David melakukan lebih daripada itu: ia mengubah sukan raket yang khusus menjadi sumber kebanggaan negara dan memberikan sebuah sistem pembangunan kecil yang diuruskan dengan baik di Kuala Lumpur satu kad pengenalan bertaraf global.
+Angka itu sahaja sudah cukup untuk menjadi takrifan kerjaya kebanyakan pemain. Kerjaya David menyumbang jauh lebih daripada itu: ia mengubah sukan raket yang kecil ini menjadi sumber kebanggaan negara dan memberikan sebuah sistem pembangunan yang kecil serta teratur di Kuala Lumpur satu kad panggilan bertaraf global.
 
 ## Siapakah Nicol David dan mengapa beliau penting?
 
-Dilahirkan di Pulau Pinang, Nicol Ann David menjadi pemain profesional pada tahun 2000, memenangi kejuaraan pertama tur beliau pada Februari tahun itu di Savcor Finnish Open. Dalam tempoh lima tahun beliau menjadi juara dunia, dan beliau kekal di kemuncak atau berdekatan dengannya selama satu dekad.
+Dilahirkan di Pulau Pinang, Nicol Ann David menjadi pemain profesional pada tahun 2000, memenangi kejuaraan pertama beliau pada Februari itu di Savcor Finnish Open. Dalam masa lima tahun beliau menjadi juara dunia, dan beliau kekal di puncak atau berhampiran puncak selama satu dekad.
 
-Rekod kerjaya beliau luar biasa dari sebarang sudut:
+Rekod kerjaya beliau amat luar biasa dari segenap sudut:
 
 | Pencapaian | Rekod |
 | --- | --- |
 | Bulan berturut-turut di kedudukan nombor satu dunia | 108, sehingga September 2015 |
 | Kejuaraan Kejohanan Terbuka Dunia | 8, antara 2005 dan 2014 |
-| Kejuaraan Terbuka British | 5 |
+| Kejuaraan British Open | 5 |
 | Pemain Terbaik Dunia | 7 kali (2005–2012) |
 | Pingat emas Sukan Komanwel | 2 |
 | Dewan Kemasyhuran PSA | Dilantik pada 1 Disember 2024 |
 
 Sumber: Laureus World Sports Academy (kedudukan, kejuaraan dan anugerah); PSA Squash Tour (pelantikan Dewan Kemasyhuran).
 
-David mengatasi rekod sebelumnya Susan Devoy iaitu 105 bulan di puncak apabila beliau mencapai bulan ke-106 berturut-turut sebagai nombor satu dunia dalam ranking Februari 2015, dan pemerintahannya akhirnya berlanjutan sehingga rekod 108 bulan sehingga September 2015. Pengerusi Tournament of Champions, John Nimick, berkata pencapaian beliau meletakkannya "antara atlet terhebat dalam sejarah." Beliau dilantik ke Dewan Kemasyhuran PSA pada 1 Disember 2024, bersama-sama tokoh skuasy Jansher Khan.
+David mengatasi rekod terdahulu Susan Devoy sebanyak 105 bulan di puncak apabila beliau mencapai bulan ke-106 berturut-turut sebagai nombor satu dunia dalam kedudukan Februari 2015, dan penguasaan beliau akhirnya berlangsung sehingga rekod 108 bulan sehingga September 2015. Pengerusi Tournament of Champions, John Nimick, berkata pencapaian beliau meletakkannya "antara atlet terhebat dalam sejarah." Beliau dilantik ke Dewan Kemasyhuran PSA pada 1 Disember 2024, bersama-sama pemain hebat skuasy Jansher Khan.
 
-## Bagaimana Malaysia melahirkan pemain skuasy nombor satu dunia?
+## Bagaimana Malaysia melahirkan seorang nombor satu dunia dalam skuasy?
 
-David bukanlah kebetulan bakat yang bersendirian. Beliau ialah hasil terserlah daripada saluran bakat yang dibina secara berkala oleh **Persatuan Skuasy Raket Malaysia (SRAM)**, badan induk sukan ini di negara ini.
+David bukanlah satu keajaiban bakat yang tersendiri. Beliau ialah hasil paling menonjol daripada satu saluran bakat yang disengajakan yang dibina oleh **Persatuan Skuasy Raket Malaysia (SRAM)**, badan pentadbir kebangsaan sukan ini, yang ditubuhkan pada 25 Jun 1972.
 
-Laluan pembangunan junior SRAM melahirkan generasi yang meletakkan Malaysia di peta dunia: Nicol David, bersama Ong Beng Hee dan Mohd Azlan Iskandar.
+Laluan pembangunan junior SRAM melahirkan generasi yang meletakkan Malaysia pada peta dunia: Nicol David, bersama Ong Beng Hee — yang mencapai kemuncak kerjaya nombor 7 dunia — dan Mohd Azlan Iskandar.
 
 Model ini mempunyai bentuk yang jelas:
 
-- **Persatuan negeri** memantau dan membangunkan pemain junior di peringkat tempatan.
-- Pemain yang berpotensi meningkat ke **Pusat Skuasy Kebangsaan di Bukit Jalil**, pangkalan latihan elit.
-- Penajaan korporat membantu mengekalkan kelompok teratas, menyokong pemain terkemuka dan program junior.
+- **Persatuan negeri** meninjau dan membangunkan pemain junior di peringkat tempatan.
+- Pemain berpotensi meningkat ke **Pusat Skuasy Negara di Bukit Jalil**, pangkalan latihan elit.
+- Penajaan korporat membantu mengekalkan barisan teratas, menyokong pemain terkemuka dan program junior.
 
-Ia sebuah sistem yang padat, tetapi produktif bagi sebuah negara sebesar ini — jenis laluan yang mengekalkan fokus sebuah persekutuan kecil untuk membangunkan saluran bakat dan bukannya bergantung pada bintang sekali sekala.
+Ia merupakan sistem yang padat, tetapi produktif bagi sebuah negara sebesar itu — jenis laluan yang memastikan sebuah persekutuan kecil kekal fokus untuk membangunkan saluran bakat dan bukan bergantung kepada bintang sekali sekala.
 
 ## Apa yang berlaku kepada skuasy Malaysia selepas Nicol David bersara?
 
-David bermain perlawanan profesional terakhirnya pada Jun 2019, menamatkan satu era. Persoalan yang jelas ialah sama ada Malaysia mampu kekal relevan tanpanya — dan jawapan jujur untuk beberapa tahun ialah negara ini merosot dari kemuncak sementara satu kumpulan baharu mematang.
+David beraksi dalam perlawanan profesional terakhir beliau pada Jun 2019, menutup satu era. Persoalan yang jelas ialah sama ada Malaysia mampu kekal relevan tanpa beliau — dan jawapan yang jujur untuk beberapa tahun ialah negara ini merosot daripada puncak tertinggi sementara satu kumpulan baharu semakin matang.
 
-Kumpulan itu kini telah tiba. Pemain Malaysia yang layak ke Kejohanan Skuasy Dunia 2024 — kejohanan dunia individu yang diadakan di Kaherah — termasuk **Sivasangari Subramaniam, Rachel Arnold, serta beradik Aifa dan Aira Azman**, satu kelompok sebenar dan bukannya satu nama tunggal.
+Kumpulan itu kini telah tiba. Pemain Malaysia yang layak ke Kejohanan Skuasy Dunia 2024 — kejohanan dunia individu yang diadakan di Kaherah — termasuk **Sivasangari Subramaniam, Rachel Arnold, serta adik-beradik Aifa dan Aira Azman**, satu kelompok sejati dan bukan satu nama tunggal.
 
-Dua pemain khususnya telah menolak Malaysia kembali ke arah elit:
+Dua pemain khususnya telah mendorong Malaysia kembali ke barisan elit:
 
-- **Sivasangari Subramaniam** mencapai kedudukan **tertinggi kariernya nombor 6 dunia pada Oktober 2025**, naik dua tangga daripada nombor 8. Beliau ialah wanita berkedudukan tertinggi Malaysia sejak David dan petanda paling jelas bahawa negara ini boleh sekali lagi bersaing di kelompok teratas sukan ini.
-- **Ng Eain Yow**, pemain lelaki utama Malaysia, memenangi **ACE Malaysia Squash Cup 2024** di halaman sendiri, menewaskan pilihan utama Youssef Soliman dari Mesir 3–0 (11–7, 11–7, 11–7).
+- **Sivasangari Subramaniam** mencapai **kemuncak kerjaya nombor 6 dunia pada Oktober 2025**, naik dua tangga daripada nombor 8. Beliau ialah wanita berkedudukan tertinggi Malaysia sejak David dan petanda paling jelas bahawa negara ini boleh sekali lagi bersaing di lapisan teratas sukan ini.
+- **Ng Eain Yow**, pemain lelaki utama Malaysia, memenangi **ACE Malaysia Squash Cup 2024** di tanah air, menewaskan pilihan utama Youssef Soliman dari Mesir 3–0 (11–7, 11–7, 11–7).
 
-Tiada seorang pun yang menyamai tahap tertinggi David — sedikit sahaja dalam mana-mana sukan yang mampu — tetapi kedudukan enam teratas dunia dan kejuaraan kejohanan di halaman sendiri menunjukkan saluran bakat yang melahirkannya masih menghasilkan bakat.
+Tiada seorang pun setakat ini menyamai tahap tertinggi David — memang jarang ada dalam mana-mana sukan yang mampu — tetapi kedudukan enam teratas dunia dan kejuaraan di tanah air menunjukkan saluran bakat yang melahirkannya masih terus memberi hasil.
 
-## Mengapa skuasy begitu penting kepada Malaysia secara khususnya?
+## Mengapa skuasy begitu penting kepada Malaysia khususnya?
 
-Skuasy menduduki tempat yang luar biasa dalam sukan Malaysia. Di negara yang badminton menarik penonton paling ramai, skuasy secara senyap menjadi disiplin di mana seorang rakyat Malaysia, selama bertahun-tahun, tanpa keraguan yang terbaik di dunia. Itu memberikannya bobot budaya yang melebihi asas penyertaannya.
+Skuasy menduduki tempat yang luar biasa dalam sukan Malaysia. Di sebuah negara yang badminton menarik penonton paling ramai, skuasy secara senyap menjadi disiplin di mana seorang rakyat Malaysia, selama bertahun-tahun, tanpa keraguan adalah yang terbaik di dunia. Itu memberikannya bobot budaya yang luar biasa besar berbanding asas penyertaannya.
 
-Dominasi David juga berlaku serentak dengan — dan membantu mencetuskan — kempen panjang untuk memasukkan skuasy ke Sukan Olimpik. Beliau bersara sebelum matlamat itu tercapai, tetapi kemasukan sukan ini ke dalam program Sukan Los Angeles 2028 memberikan generasi kini sesuatu yang tidak pernah dimilikinya: pentas Olimpik untuk disasarkan, dan sebab untuk sistem junior SRAM terus mengisi saluran bakat.
+Penguasaan David turut berlaku bersamaan dengan — dan membantu menggerakkan — satu kempen panjang untuk memasukkan skuasy ke dalam Sukan Olimpik. Beliau bersara sebelum matlamat itu dicapai, tetapi kemasukan sukan ini ke dalam program Sukan Los Angeles 2028 memberikan generasi semasa sesuatu yang tidak pernah dimiliki beliau: satu pentas Olimpik untuk disasarkan, dan alasan bagi sistem junior SRAM untuk terus mengisi saluran bakat.
 
 ## Apa yang seterusnya
 
-Skuasy Malaysia berada dalam fasa membina semula dan bangkit dan bukannya fasa kegemilangan. Penanda jangka pendek yang perlu diperhatikan ialah sama ada Sivasangari Subramaniam mampu menolak melepasi nombor 6 dunia ke persaingan kejuaraan, sama ada Ng Eain Yow mampu memantapkan diri antara 10 teratas lelaki, dan sama ada beradik Azman mampu menukar potensi junior kepada keputusan senior.
+Skuasy Malaysia berada dalam fasa membina semula dan bangkit, bukannya fasa keemasan. Penanda jangka pendek yang perlu diperhatikan ialah sama ada Sivasangari Subramaniam mampu meningkat melangkaui nombor 6 dunia ke arah perebutan kejuaraan, sama ada Ng Eain Yow mampu menempatkan dirinya dalam kalangan 10 teratas lelaki, dan sama ada adik-beradik Azman dapat menukar potensi junior kepada keputusan senior.
 
-Lengkungan yang lebih panjang mengarah ke Los Angeles 2028, penampilan sulung Olimpik skuasy, di mana pingat akan menjadi susulan semula jadi kepada era Nicol David. Bagi pembaca yang menjejaki sukan ini, penanda yang berguna ialah kalendar pertandingan SRAM dan ranking dunia PSA — alat pengukur yang sama yang mencatatkan bulan-bulan David di puncak.
+Lengkok jangka panjang menghala ke Los Angeles 2028, penampilan sulung skuasy di Olimpik, di mana satu pingat akan menjadi kesinambungan sewajarnya kepada era Nicol David. Bagi pembaca yang menjejaki sukan ini, sauh yang berguna ialah kalendar pertandingan SRAM dan kedudukan dunia PSA — alat pengukur yang sama yang merakamkan bulan-bulan David di puncak.

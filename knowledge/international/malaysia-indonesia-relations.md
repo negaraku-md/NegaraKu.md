@@ -31,9 +31,9 @@ faq:
   - q: "Siapa yang memiliki Pulau Sipadan dan Ligitan?"
     a: "Mahkamah Keadilan Antarabangsa (ICJ) memutuskan pada 17 Disember 2002 bahawa kedua-dua pulau itu milik Malaysia, berdasarkan prinsip effectivités (pentadbiran berkesan). Keputusan itu tidak menyelesaikan sempadan Ambalat berdekatan."
   - q: "Apakah blok Ambalat dan mengapa ia penting?"
-    a: "Ambalat ialah blok kaya sumber di Laut Sulawesi seluas kira-kira 15,235 km persegi yang dipercayai mengandungi sehingga 1 bilion tong minyak dan 40 trilion kaki padu gas. Pada 27 Jun 2025, Malaysia dan Indonesia bersetuju membangunkannya secara bersama sementara menunggu penyelesaian sempadan undang-undang."
+    a: "Ambalat ialah blok kaya sumber di Laut Sulawesi yang, menurut laporan media, meliputi kira-kira 15,235 km persegi dan dilaporkan mengandungi sehingga 1 bilion tong minyak dan 40 trilion kaki padu gas (angka ini belum disahkan sumber rasmi kerajaan atau Petronas/Pertamina). Pada 27 Jun 2025, Malaysia dan Indonesia bersetuju membangunkannya secara bersama sementara menunggu penyelesaian sempadan undang-undang."
   - q: "Indonesia rakan dagang ke berapa besar bagi Malaysia?"
-    a: "Indonesia salah satu rakan dagang penting Malaysia dalam ASEAN. Pada 2024, eksport Malaysia ke Indonesia meningkat sekitar RM3.5 bilion (6.9%), menjadikannya salah satu daripada sepuluh destinasi eksport teratas Malaysia (kedudukan ke-8 mengikut nilai)."
+    a: "Indonesia salah satu rakan dagang penting Malaysia dalam ASEAN. Pada 2024, eksport Malaysia ke Indonesia bernilai RM54.40 bilion, meningkat 6.9% (kira-kira RM3.5 bilion) berbanding tahun sebelumnya dan mewakili 12.4% daripada eksport Malaysia ke ASEAN. Ini menjadikan Indonesia destinasi eksport ke-3 terbesar Malaysia dalam ASEAN, selepas Singapura dan Thailand."
 
 lang: "ms"
 masterLanguage: "ms"
@@ -41,16 +41,12 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
+publishedBy: "ashton-tan"
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
+reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "0.2"
+version: "0.3"
 verificationNeeded:
-  - "Fakta sejarah/perjanjian: Konfrontasi 1963–1966, Konvensyen Sempadan 1891, dan Perjanjian Sempadan 1915 — kekal sebagai pengetahuan umum tetapi belum disokong sumber primer dalam sources[]."
-  - "Tarikh tamat tempoh MoU pekerja domestik terdahulu (dilaporkan 2016) — perlu pengesahan sumber rasmi."
-  - "Status Sistem Maid Online selepas 2022 (dimansuhkan, dikekalkan, atau diintegrasikan di bawah One Channel) — masih dipertikaikan antara Kuala Lumpur dan Jakarta."
-  - "Butiran teknikal sempadan (Titik M, segmen pasang surut Sebatik, MoU demarkasi JC ke-45 17–18 Feb 2025) — sahkan dengan rekod rasmi Jawatankuasa Sempadan Bersama / Wisma Putra."
-  - "Angka dagangan RM54.5 bilion dan kedudukan ke-8 — bersumberkan pengagregat pihak ketiga (Tradeint), bukan terus daripada DOSM/MATRADE."
   - "Rizab dan unjuran pengeluaran Ambalat (~40,000 tong sehari; sehingga 1 bilion tong / 40 tcf) — dilaporkan oleh satu penerbit (Jakarta Globe); perlu pengesahan lanjut."
 revisions:
   - version: "0.1"
@@ -61,6 +57,10 @@ revisions:
     date: 2026-08-01
     change: "Correction pass: sahkan butiran MoU 2022 & Perundingan ke-13, betulkan salah nyata Maid Online, lembutkan kedudukan eksport, tambah verificationNeeded."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
 updated: 2026-08-01
 sources:
@@ -103,6 +103,30 @@ sources:
   - title: "Malaysia Top 10 Export by Country 2024 and Latest Ranking"
     url: "https://tradeint.com/insights/malaysia-top-10-export-by-country-2024/"
     publisher: "Tradeint"
+  - title: "External Trade Statistics, Malaysia, 2024"
+    url: "https://www.dosm.gov.my/portal-main/release-content/external-trade-statistics-malaysia-2024"
+    publisher: "Department of Statistics Malaysia (DOSM)"
+  - title: "Trade Performance for Year 2024 and December 2024"
+    url: "https://www.matrade.gov.my/en/about-matrade/media/press-releases/6264-trade-performance-for-year-2024-and-december-2024"
+    publisher: "MATRADE"
+  - title: "Confrontation / Konfrontasi 1963–1966"
+    url: "https://www.asd.gov.au/about/history/declassified/2023-04-27-confrontation-konfrontasi-1963-1966"
+    publisher: "Australian Signals Directorate"
+  - title: "Konfrontasi (Confrontation) ends"
+    url: "https://www.nlb.gov.sg/main/article-detail?cmsuuid=f950e04d-44d7-47ad-a10c-16dfb0cc9ce3"
+    publisher: "National Library Board Singapore"
+  - title: "Indonesia agrees to lift freeze on sending migrant workers to Malaysia"
+    url: "https://apmigration.ilo.org/news/indonesia-agrees-to-lift-freeze-on-sending-migrant-workers-to-malaysia"
+    publisher: "ILO AP Migration"
+  - title: "Indonesia lifts restrictions on workers' entry to Malaysia"
+    url: "https://www.malaymail.com/news/malaysia/2022/07/28/indonesia-lifts-restrictions-on-workers-entry-to-malaysia/19799"
+    publisher: "Malay Mail"
+  - title: "Malaysia-Indonesia Land Border Issue: Malaysia Gains Extra 780 Hectares – PM Anwar"
+    url: "https://www.bernama.com/en/news.php?id=2520021"
+    publisher: "BERNAMA"
+  - title: "Indonesia–Malaysia finalize Sebatik border, ending decades-long dispute"
+    url: "https://indonesiabusinesspost.com/6518/geopolitics/indonesia-malaysia-finalize-sebatik-border-ending-decades-long-dispute"
+    publisher: "Indonesia Business Post"
 
 entity: "Hubungan dua hala Malaysia–Indonesia"
 relations:
@@ -154,7 +178,7 @@ Perlindungan gaji RM1,500 dilaporkan turut terpakai apabila kontrak diperbaharui
 
 Sempadan Malaysia–Indonesia di Borneo diwarisi daripada perjanjian era kolonial — terutamanya Konvensyen Sempadan 1891 dan Perjanjian Sempadan 1915 antara British dan Belanda. Masalah timbul kerana pemetaan lama tidak lengkap dan ciri geografi seperti sungai beralih dari masa ke masa. Kawasan yang belum dipersetujui secara rasmi dikenali sebagai **Outstanding Boundary Problems (OBP)**, dan jawatankuasa teknikal bersama telah bekerja menyelesaikannya sejak 1970-an.
 
-Kemajuan besar dicapai baru-baru ini. Selepas **lebih 45 tahun** rundingan, OBP sempadan darat di **sektor Timur (Kalimantan Utara–Sabah)** telah dipersetujui sepenuhnya. Pada mesyuarat **Jawatankuasa Bersama ke-45** yang berlangsung pada **17–18 Februari 2025**, kedua-dua negara menandatangani MoU mengenai *Demarcation and Survey of the International Boundary* untuk mengesahkan garisan tersebut.
+Kemajuan besar dicapai baru-baru ini. Selepas **lebih 45 tahun** rundingan, OBP sempadan darat di **sektor Timur (Kalimantan Utara–Sabah)** telah dipersetujui sepenuhnya. Pada mesyuarat **Jawatankuasa Bersama ke-45** yang diadakan di Jakarta pada **18 Februari 2025**, kedua-dua negara menandatangani MoU mengenai *Demarcation and Survey of the International Boundary* untuk mengesahkan garisan tersebut. Malaysia memperoleh tambahan kira-kira 780 hektar di OBP Sungai Sinapad–Sungai Sesai dan kira-kira 5 hektar di OBP Sebatik, dengan zon penampan selebar 10 meter diwujudkan.
 
 Namun tidak semua selesai. Isu yang masih dalam rundingan termasuk:
 
@@ -170,7 +194,7 @@ Keputusan itu menyelesaikan status dua pulau, tetapi **tidak menetapkan sempadan
 
 ## Bagaimana Ambalat diselesaikan tanpa menunggu sempadan?
 
-Blok **Ambalat** di Laut Sulawesi, berhampiran sempadan maritim di timur Kalimantan, ialah antara isu paling sensitif. Ia berpunca daripada peta tuntutan Malaysia pada **1979** yang ditolak Indonesia. Yang menjadikannya penting: blok seluas kira-kira **15,235 km persegi** ini dipercayai mengandungi **sehingga 1 bilion tong minyak dan 40 trilion kaki padu gas**, dengan unjuran pengeluaran sekitar 40,000 tong sehari selama beberapa dekad.
+Blok **Ambalat** di Laut Sulawesi, berhampiran sempadan maritim di timur Kalimantan, ialah antara isu paling sensitif. Ia berpunca daripada peta tuntutan Malaysia pada **1979** yang ditolak Indonesia. Yang menjadikannya penting: menurut laporan media, blok ini meliputi kira-kira **15,235 km persegi** dan dilaporkan mengandungi **sehingga 1 bilion tong minyak dan 40 trilion kaki padu gas**, dengan unjuran pengeluaran sekitar 40,000 tong sehari selama beberapa dekad. Angka rizab dan pengeluaran ini masih menunggu pengesahan sumber rasmi kerajaan atau Petronas/Pertamina.
 
 Menyedari penyelesaian sempadan undang-undang boleh mengambil masa berdekad, kedua-dua pemimpin memilih pendekatan pragmatik. Pada **27 Jun 2025** di Istana Merdeka, Jakarta, Perdana Menteri Anwar Ibrahim dan Presiden Prabowo Subianto bersetuju **membangunkan Ambalat secara bersama** (*joint development*) sementara aspek sempadan terus dirunding.
 
@@ -204,9 +228,9 @@ Perundingan ini juga meletakkan hubungan dua hala dalam konteks **ASEAN**: kedua
 
 ## Bagaimana perdagangan dan ekonomi mengikat kedua-dua negara?
 
-Di luar politik sempadan, ekonomi menjadi perekat yang stabil. Pada 2024, jumlah perdagangan Malaysia mencapai rekod **RM2.9 trilion**. Dalam angka itu, Indonesia kekal **salah satu rakan dagang penting Malaysia di ASEAN**: eksport Malaysia ke Indonesia meningkat kira-kira **RM3.5 bilion (6.9%)** berbanding tahun sebelumnya, sebahagian besarnya didorong produk petroleum.
+Di luar politik sempadan, ekonomi menjadi perekat yang stabil. Pada 2024, jumlah perdagangan Malaysia mencapai rekod **RM2.9 trilion**. Dalam angka itu, Indonesia kekal **salah satu rakan dagang penting Malaysia di ASEAN**: eksport Malaysia ke Indonesia meningkat **6.9% (kira-kira RM3.5 bilion)** berbanding tahun sebelumnya, sebahagian besarnya didorong produk petroleum.
 
-Data dagangan menunjukkan Malaysia mengeksport barangan bernilai sekitar **RM54.5 bilion** ke Indonesia pada 2024 (naik lebih kurang 7%), meletakkan Indonesia pada **kedudukan ke-8** dalam senarai destinasi eksport teratas Malaysia. Bahan api mineral dan minyak ditapis mendahului, diikuti jentera, plastik, dan kelengkapan elektrik. Kerjasama sektor halal turut dikenal pasti sebagai pemacu pertumbuhan masa depan.
+Menurut data DOSM dan MATRADE, Malaysia mengeksport barangan bernilai **RM54.40 bilion** ke Indonesia pada 2024, mewakili **12.4%** daripada eksport Malaysia ke ASEAN dan menjadikan Indonesia **destinasi eksport ke-3 terbesar dalam ASEAN** (selepas Singapura dan Thailand). Bahan api mineral dan minyak ditapis mendahului, diikuti jentera, plastik, dan kelengkapan elektrik. Kerjasama sektor halal turut dikenal pasti sebagai pemacu pertumbuhan masa depan.
 
 ## Panduan majikan: mengambil pekerja domestik Indonesia
 

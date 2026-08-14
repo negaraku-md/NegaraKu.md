@@ -37,9 +37,10 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
+reviewed: 2026-08-14
+publishedBy: "ashton-tan"
 reviewDue: 2027-08-03
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-28
@@ -49,16 +50,12 @@ revisions:
     date: 2026-07-28
     change: "Correction pass: fixed WRO duration (two years, not three), removed unsourced smallholder-share and FGV/ILO-indicator claims, and re-sourced the EUDR dates to the official European Commission page."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-verificationNeeded:
-  - "FGV Holdings was reportedly subject to a separate US CBP Withhold Release Order issued 30 September 2020; a primary/authoritative source could not be fetched (CBP pages blocked). Confirm the date and status before restoring any FGV claim."
-  - "The original CBP Withhold Release Order against Sime Darby reportedly cited all 11 ILO forced-labour indicators; confirm against CBP's own statement before adding that specificity back."
-  - "CBP reportedly escalated the Sime Darby WRO to a formal Finding in January 2022; confirm the date against a CBP source."
-  - "Smallholder share of Malaysian palm oil output (previously stated as ~40%) — confirm the exact figure and whether it is measured by output or by planted area, against MPOB statistics."
-  - "EUDR deforestation cut-off date of 31 December 2020 — confirm against the regulation text (Regulation (EU) 2023/1115)."
-  - "2024 export figures (22.30 million tonnes / RM89.39 billion, Jan–Oct 2024) — confirm against MPOB primary data."
-
-updated: 2026-07-28
+updated: 2026-08-14
 sources:
   - title: "MSPO Certification"
     url: "https://mspo.org.my/mspo-certification"
@@ -72,6 +69,9 @@ sources:
   - title: "Regulation on Deforestation-free Products (EUDR)"
     url: "https://environment.ec.europa.eu/topics/forests/deforestation/regulation-deforestation-free-products_en"
     publisher: "European Commission"
+  - title: "Regulation (EU) 2023/1115 on deforestation-free products (Article 2(13))"
+    url: "https://eur-lex.europa.eu/eli/reg/2023/1115/oj/eng"
+    publisher: "EUR-Lex / European Union"
   - title: "European Commission Maintains 30 December 2025 Application Date for EU Deforestation Regulation"
     url: "https://www.lw.com/en/insights/european-commission-maintains-30-december-2025-application-date-for-eu-deforestation-regulation"
     publisher: "Latham & Watkins"
@@ -81,6 +81,24 @@ sources:
   - title: "US finds no forced labour in Sime Darby's palm oil production"
     url: "https://www.freemalaysiatoday.com/category/nation/2023/02/03/us-finds-no-forced-labour-in-sime-darbys-palm-oil-production"
     publisher: "Free Malaysia Today"
+  - title: "CBP Issues Detention Order on Palm Oil Produced with Forced Labor in Malaysia (FGV Holdings, 30 September 2020)"
+    url: "https://cbp.gov/newsroom/national-media-release/cbp-issues-detention-order-palm-oil-produced-forced-labor-malaysia"
+    publisher: "U.S. Customs and Border Protection"
+  - title: "FGV Responds to CBP Detention Order on Palm Oil Produced with Forced Labour in Malaysia dated 30 September 2020"
+    url: "https://www.fgvholdings.com/press_release/fgv-responds-to-cbp-issues-detention-order-on-palm-oil-produced-with-forced-labour-in-malaysia-dated-30-september-2020-by-united-states-customs-and-border-protection/"
+    publisher: "FGV Holdings Berhad"
+  - title: "USA: CBP statement re. issuance of 'withhold release order' against Sime Darby Plantation palm oil produced by forced labour (all 11 ILO indicators)"
+    url: "https://www.business-humanrights.org/en/latest-news/usa-customs-and-border-protection-press-release-re-issuance-of-withhold-release-order-against-sime-darby-plantation-palm-oil-produced-by-forced-labour/"
+    publisher: "Business & Human Rights Resource Centre (reproducing the CBP press release)"
+  - title: "Notice of Finding That Certain Palm Oil and Derivative Products Produced by Sime Darby Plantation Berhad With the Use of Convict, Forced or Indentured Labor (28 January 2022)"
+    url: "https://www.federalregister.gov/documents/2022/01/28/2022-01779/notice-of-finding-that-certain-palm-oil-and-derivative-products-made-wholly-or-in-part-with-palm-oil"
+    publisher: "U.S. Federal Register / CBP"
+  - title: "Malaysia: Oil Palm Planted Area by Category, 2024"
+    url: "https://bepi.mpob.gov.my/images/area/2024/Area_summary2024.pdf"
+    publisher: "Malaysian Palm Oil Board (MPOB)"
+  - title: "Overview of the Malaysian Oil Palm Industry in 2024"
+    url: "https://bepi.mpob.gov.my/images/overview/Overview2024.pdf"
+    publisher: "Malaysian Palm Oil Board (MPOB)"
   - title: "Malaysia's Commodity Sector Thrives in 2024 Despite Global Challenges"
     url: "https://www.bernamabiz.com/news.php?id=2373912"
     publisher: "Bernama"
@@ -118,7 +136,7 @@ The revised standard is organised around **five principles** (down from seven), 
 - **Part 3-2** — large estates (more than 500 ha)
 - **Parts 4-1 to 4-3** — palm oil mills, processing facilities, and FFB dealers and traders
 
-Smallholders matter enormously here, which is why the standard carves out lighter-touch parts (2-1 and 2-2) specifically for them.
+Smallholders matter enormously here. They account for about 26% of Malaysia's oil palm planted area in 2024 — 14.6% independent and 11.8% organised smallholders (settlers under agencies such as FELDA, FELCRA and RISDA), against 73.6% held by private and government-agency estates (MPOB). That is why the standard carves out lighter-touch parts (2-1 and 2-2) specifically for them.
 
 ## How do the three regimes compare?
 
@@ -132,7 +150,7 @@ The first two are *supply-side* — they certify how oil is grown. The third is 
 
 ## What does the EU Deforestation Regulation demand?
 
-The EUDR is the rule reshaping the trade. It bars palm oil — along with cattle, cocoa, coffee, rubber, soy and wood — from the EU market unless the operator can prove the product is **deforestation-free and legally produced**. "Deforestation-free" has a hard cut-off: the land must not have been cleared of forest after **31 December 2020**.
+The EUDR is the rule reshaping the trade. It bars palm oil — along with cattle, cocoa, coffee, rubber, soy and wood — from the EU market unless the operator can prove the product is **deforestation-free and legally produced**. "Deforestation-free" has a hard cut-off written into Regulation (EU) 2023/1115: the land must not have been cleared of forest after **31 December 2020**.
 
 Compliance is not a certificate you buy. Operators must file a **due-diligence statement** and, in the standard case, supply **plot-level geolocation coordinates** tracing the oil to the exact land it came from. This is why certification schemes help but do not substitute — MSPO's traceability data feeds the due-diligence file, but the legal obligation sits with the operator placing goods on the market.
 
@@ -145,9 +163,9 @@ Malaysia, the world's second-largest palm oil producer, has treated the extra ti
 
 ## What happened with the US forced-labour ban?
 
-Before deforestation, the pressure came from labour. US Customs and Border Protection (CBP) uses **Withhold Release Orders (WROs)** — import bans triggered by suspected forced labour — and one of them hit one of Malaysia's biggest producers.
+Before deforestation, the pressure came from labour. US Customs and Border Protection (CBP) uses **Withhold Release Orders (WROs)** — import bans triggered by suspected forced labour — and two of them hit major Malaysian producers.
 
-**Sime Darby Plantation** was the headline case. CBP issued a WRO on **30 December 2020**, citing information that reasonably indicated the use of forced labour in its operations. CBP later escalated the order to a formal Finding, exposing shipments to seizure. The company overhauled its labour practices, and on **3 February 2023** CBP concluded it no longer used forced labour and lifted the order — just over two years after it began.
+CBP first issued a WRO against **FGV Holdings Berhad**, its subsidiaries and joint ventures on **30 September 2020**, over palm oil produced with forced labour. Three months later, on **30 December 2020**, CBP issued a WRO against **Sime Darby Plantation** — this one based on information reasonably indicating the presence of **all 11 of the International Labour Organization's forced-labour indicators** in its production process. CBP escalated the Sime Darby order to a formal **Finding on 28 January 2022**, exposing shipments to seizure. The company overhauled its labour practices, and on **3 February 2023** CBP concluded it no longer used forced labour and lifted the order — just over two years after the ban began.
 
 The case showed how quickly a labour allegation could shut a producer out of a major market, and pushed the wider industry toward auditable worker-welfare records — exactly the ground MS 2530:2022 strengthened.
 

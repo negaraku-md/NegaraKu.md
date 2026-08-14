@@ -19,7 +19,7 @@ keyTakeaways:
   - "Over 240 key players operate in the sector, with about 54% of them in MRO"
   - "The Blueprint 2030 revenue target is around RM55 billion, with Malaysia's share of the global MRO market rising from 4% to 5%"
   - "Within systems integration specifically, the blueprint targets local content rising from 50% (2025) to 70% (2030)"
-  - "Malaysia's aerospace workforce passed 35,000 in 2025, ahead of the blueprint's roughly 30,000 target"
+  - "Malaysia's aerospace workforce passed 35,000 in 2025, ahead of the MAIB 2030 blueprint's target of over 32,000 high-income jobs"
   - "The sector still runs a large trade deficit — RM5.74 billion of exports against RM14.9 billion of imports in 2024"
 appliesTo: "Investors, students, suppliers and policymakers who want a grounded picture of Malaysia's aerospace and MRO sector and its 2030 goals."
 
@@ -29,7 +29,7 @@ faq:
   - q: "What is the Blueprint 2030 revenue target?"
     a: "Around RM55 billion in industry revenue by 2030, alongside a rise in Malaysia's share of the global MRO market from 4% to 5%. Within the systems-integration sub-sector specifically, the blueprint also targets local content rising from 50% to 70%."
   - q: "How big is Malaysia's aerospace workforce?"
-    a: "The workforce exceeded 35,000 skilled workers in 2025, surpassing the blueprint's target of roughly 30,000 jobs ahead of schedule."
+    a: "The workforce exceeded 35,000 skilled workers in 2025, surpassing the MAIB 2030 blueprint's target of over 32,000 high-income jobs ahead of schedule."
   - q: "Does Malaysia make aircraft, or mostly maintain them?"
     a: "Both, but its centre of gravity is services. MRO and component manufacturing dominate; Malaysia builds structures, composites and engine parts and maintains aircraft, but has weaker aircraft-level design and development capability."
 
@@ -40,9 +40,9 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
-reviewDue: 2027-08-03
-version: "0.2"
+reviewed: 2026-08-14
+reviewDue: 2027-08-14
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-28
@@ -52,16 +52,14 @@ revisions:
     date: 2026-07-28
     change: "Correction pass: rescoped the 50%->70% local-content target to systems integration, fixed the sub-sector taxonomy to five sub-sectors, corrected source attribution for the investment figures, and sourced the US tariff figure."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-verificationNeeded:
-  - "Whether the 50%->70% local-content target applies only to the systems-integration sub-sector (as ISEAS Table 1 indicates) or is intended more broadly."
-  - "The exact Blueprint/MAIB 2030 workforce target: Bernama reports 'over 30,000' while ISEAS states 'over 32,000 high-income jobs'."
-  - "Whether the 2030 revenue target is RM55.0 billion (Bernama) or RM55.2 billion (ISEAS Table 1)."
-  - "The precise sub-sector naming: MIDA groups 'systems integration, as well as engineering and design' together and separately lists 'education and training', whereas ISEAS Table 1 lists five distinct rows."
-  - "Current-state accuracy of the aerospace-park cluster list and anchor-firm attributions, part of which is drawn from an older MIDA page (investment stats on that page date to June 2019)."
-  - "The 19% US reciprocal-tariff figure and its current applicability to Malaysian aerospace exports."
+verificationNeeded: []
 
-updated: 2026-07-28
+updated: 2026-08-14
 sources:
   - title: "Developing Malaysia's Aerospace Sector: Opportunities and Challenges (ISEAS Perspective 2025/80)"
     url: "https://www.iseas.edu.sg/articles-commentaries/iseas-perspective/2025-80-developing-malaysias-aerospace-sector-opportunities-and-challenges-by-tham-siew-yean/"
@@ -75,6 +73,15 @@ sources:
   - title: "Malaysia's Aerospace Workforce Exceeds 35,000 In 2025, Surpassing MAIB 2030 Target"
     url: "https://bernama.com/en/news.php?id=2560315"
     publisher: "Bernama"
+  - title: "NIMP 2030 Sectoral Plan — Aerospace Industry (Tables 1.1 and 1.8)"
+    url: "https://www.nimp2030.gov.my/nimp2030/modules_resources/bookshelf/e-01-Sectoral_NIMP-Aerospace_Industry/e-01-Sectoral_NIMP-Aerospace_Industry.pdf"
+    publisher: "Ministry of Investment, Trade and Industry (MITI)"
+  - title: "Developing Malaysia's Aerospace Sector (ISEAS Perspective 2025/80, full PDF)"
+    url: "https://www.iseas.edu.sg/wp-content/uploads/2025/09/ISEAS_Perspective_2025_80.pdf"
+    publisher: "ISEAS – Yusof Ishak Institute"
+  - title: "GKN Aerospace — Malaysia (Asia Pacific location)"
+    url: "https://www.gknaerospace.com/locations/asia-pacific/malaysia/"
+    publisher: "GKN Aerospace"
 
 entity: "Malaysia aerospace industry"
 relations:
@@ -106,7 +113,7 @@ Across these, over 240 key players operate in Malaysia, and about 54% of them pa
 The clearest single measure of the sector's health is its workforce, because a maintenance-and-manufacturing economy lives or dies on skilled hands. Here Malaysia has already outrun its own plan.
 
 - The aerospace workforce passed **35,000** skilled workers in 2025.
-- That surpassed the national blueprint's target of roughly **30,000** jobs — reached ahead of the 2030 deadline.
+- That surpassed the MAIB 2030 blueprint's target of over **32,000** high-income jobs — reached ahead of the 2030 deadline.
 - The jobs span the full value chain: structures and composites, engine components, avionics, and MRO.
 
 Revenue has climbed on a similar curve. The RM25.1 billion recorded in 2024 rose to a reported RM32.5 billion in 2025 — a figure that Deputy Minister of Investment, Trade and Industry Sim Tze Tzin cited as keeping the roughly RM55 billion 2030 target within reach. Investment has followed: according to MIDA, nine aerospace projects worth RM1.4 billion were approved in 2024, with 71% of that value coming from international investors.
@@ -128,10 +135,10 @@ Malaysia's aerospace targets sit inside two overlapping documents — the Malays
 
 | Metric | Baseline | Target (2030) |
 | --- | --- | --- |
-| Industry revenue | ~RM32.5 billion (2025) | ~RM55 billion |
+| Industry revenue | ~RM32.5 billion (2025) | RM55.2 billion |
 | Global MRO market share | 4% | 5% |
 | Local content (systems integration) | 50% (2025) | 70% |
-| Workforce | 35,000+ (2025, already past target) | ~30,000 |
+| Workforce | 35,000+ (2025, already past target) | 32,000+ high-income jobs |
 
 The revenue and market-share goals are the live ones. The local-content target — raising the Malaysian-made share within the systems-integration sub-sector from 50% to 70% — is the harder climb, because it presses directly on one of the weakest links in the value chain: aircraft-level engineering and integration.
 

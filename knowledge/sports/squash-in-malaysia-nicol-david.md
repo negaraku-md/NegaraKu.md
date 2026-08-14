@@ -37,9 +37,9 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
+reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-08-01
@@ -49,14 +49,13 @@ revisions:
     date: 2026-08-01
     change: "Correction pass: reconciled the 108-month figure to Laureus, re-sourced Hall of Fame/maiden title to PSA, fixed 2024 Cairo event to the individual World Championships, corrected the Nimick quote timing, and removed unverifiable SRAM history dates (source returned HTTP 403)."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
 verificationNeeded:
-  - "Exact count of Nicol David's consecutive months at world No. 1: the Laureus profile states 108 months until September 2015, while the PSA profile and Tournament of Champions describe her reaching her 106th consecutive month in the February 2015 rankings (when she overtook Susan Devoy). Confirm the precise total and end date."
-  - "SRAM's founding date and the timeline of its junior development programme and any corporate sponsorship history — the SRAM history page (malaysia-squash.org/about-sram/history) returned HTTP 403 and could not be verified; confirm directly with SRAM."
-  - "Whether the National Squash Centre in Bukit Jalil remains SRAM's primary elite training base."
-  - "Whether the 2024 ACE Malaysia Squash Cup was Ng Eain Yow's first PSA World Tour-level title."
   - "Jansher Khan's world-championship count, if it is to be cited (referenced only generally here, not from the cited PSA Hall of Fame notice)."
-  - "Ong Beng Hee's peak world ranking, if a specific figure is reintroduced."
 
 updated: 2026-08-01
 sources:
@@ -78,6 +77,18 @@ sources:
   - title: "Malaysia clinches spot in 2024 World Squash Championships"
     url: "https://cj.my/144019/malaysia-clinches-spot-in-2024-world-squash-championships/"
     publisher: "Citizens Journal Malaysia"
+  - title: "CIMB celebrates Dato' Nicol David's new world record as the longest-reigning world number one squash player"
+    url: "https://www.cimb.com/en/newsroom/2015/cimb-celebrates-dato-nicol-davids-new-world-record.html"
+    publisher: "CIMB"
+  - title: "Squash Racquets Association of Malaysia"
+    url: "https://en.wikipedia.org/wiki/Squash_Racquets_Association_of_Malaysia"
+    publisher: "Wikipedia"
+  - title: "National Squash Centre — Perbadanan Stadium Malaysia"
+    url: "https://www.stadium.gov.my/venues/kuala-lumpur-sports-city/national-squash-centre.html"
+    publisher: "Perbadanan Stadium Malaysia (Government of Malaysia)"
+  - title: "Malaysian Star Beng Hee Retires"
+    url: "https://www.psasquashtour.com/news/view/1979/malaysian-star-beng-hee-retires"
+    publisher: "PSA Squash Tour"
 
 entity: "Nicol David"
 relations:
@@ -111,9 +122,9 @@ David passed Susan Devoy's previous record of 105 months at the top when she rea
 
 ## How did Malaysia produce a squash world No. 1?
 
-David was not a lone accident of talent. She was the standout product of a deliberate pipeline built by the **Squash Racquets Association of Malaysia (SRAM)**, the sport's national governing body.
+David was not a lone accident of talent. She was the standout product of a deliberate pipeline built by the **Squash Racquets Association of Malaysia (SRAM)**, the sport's national governing body, founded on 25 June 1972.
 
-SRAM's junior development pathway produced the generation that put Malaysia on the map: Nicol David, alongside Ong Beng Hee and Mohd Azlan Iskandar.
+SRAM's junior development pathway produced the generation that put Malaysia on the map: Nicol David, alongside Ong Beng Hee — who reached a career-high world No. 7 — and Mohd Azlan Iskandar.
 
 The model has a clear shape:
 

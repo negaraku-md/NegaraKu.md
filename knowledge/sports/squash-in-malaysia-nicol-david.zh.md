@@ -1,46 +1,46 @@
 ---
 topicId: MY-SPT-0014
-title: "马来西亚壁球：妮科尔·戴维时代及其之后"
-seoTitle: "马来西亚壁球：妮科尔·戴维与国家人才梯队"
+title: "马来西亚壁球：妮科尔·大卫的时代及其后续"
+seoTitle: "马来西亚壁球：妮科尔·大卫与国家梯队"
 slug: "squash-in-malaysia-nicol-david"
 category: "sports"
 subcategory: ["squash"]
-summary: "马来西亚的青少年壁球体系如何培养出妮科尔·戴维——连续108个月高居世界第一（纪录保持者）、八届世界公开赛冠军——以及自她退役后，谁在推动这项运动继续前行。"
+summary: "马来西亚的青少年壁球体系如何培养出妮科尔·大卫——连续108个月位居世界第一的纪录保持者、八届世界公开赛冠军——以及自她退役以来谁在推动这项运动继续前行。"
 
 tier: "2"
 mode: "narrative"
 contentType: "guide"
 sensitivity: "none"
 
-answer: "妮科尔·戴维是马来西亚培养出的最伟大壁球选手：直到2015年9月，她连续108个月高居世界第一，创下纪录；她是八届世界公开赛冠军，七次当选年度世界最佳球员。她出自马来西亚壁球协会（SRAM）的青少年培养体系；自2019年退役以来，希瓦桑加里·苏巴玛廉（Sivasangari Subramaniam）和黄以豪（Ng Eain Yow）等选手已带领马来西亚壁球重返世界顶尖行列。"
+answer: "妮科尔·大卫是马来西亚培养出的最伟大的壁球选手：她连续108个月位居世界第一，直至2015年9月，创下这项运动的历史纪录；她是八届世界公开赛冠军，也七度获选世界最佳球员。她出自马来西亚壁球协会（SRAM）的青少年培养体系，自2019年退役以来，西瓦桑加里·苏巴玛廉与黄英耀等选手带领马来西亚壁球重返世界顶尖行列。"
 keyTakeaways:
-  - "妮科尔·戴维连续108个月高居世界第一，直到2015年9月，是这项运动史上最长的统治期。"
-  - "她在2005年至2014年间八次夺得世界公开赛冠军，并七次当选年度世界最佳球员。"
-  - "戴维通过SRAM的青少年培养通道脱颖而出，正是这套体系还培养了王庆辉（Ong Beng Hee）和莫哈末·阿兹兰·伊斯干达（Mohd Azlan Iskandar）。"
-  - "自她2019年退役以来，希瓦桑加里·苏巴玛廉于2025年10月升至个人最高世界排名第6，黄以豪则在2024年赢得一项本土PSA巡回赛冠军。"
-appliesTo: "体育爱好者、学生、记者，以及任何研究马来西亚壁球、妮科尔·戴维遗产或该国当前壁球人才的人士。"
+  - "妮科尔·大卫连续108个月位居世界第一，直至2015年9月，是这项运动史上最长的统治期。"
+  - "她在2005年至2014年间八度夺得世界公开赛冠军，并七度获选世界最佳球员。"
+  - "大卫经由SRAM的青少年培养通道成长，这套体系同样培养出了王炳僖（Ong Beng Hee）与莫哈末·阿兹兰·伊斯坎达（Mohd Azlan Iskandar）。"
+  - "自她2019年退役以来，西瓦桑加里·苏巴玛廉于2025年10月升至个人生涯最高世界第六，黄英耀于2024年在主场赢得一站PSA巡回赛冠军。"
+appliesTo: "体育爱好者、学生、记者，以及任何研究马来西亚壁球、妮科尔·大卫的传奇成就或该国现役壁球人才的人士。"
 
 faq:
-  - q: "妮科尔·戴维在世界第一的位置上保持了多久？"
-    a: "直到2015年9月，她连续108个月排名世界第一，创下壁球史上最长的不间断统治纪录，超越了此前由新西兰的苏珊·德沃伊（Susan Devoy）保持的105个月纪录。"
-  - q: "妮科尔·戴维赢得了多少个世界公开赛冠军？"
-    a: "八个，均在2005年至2014年间夺得，是女子世界公开赛的纪录。"
-  - q: "哪个机构管理马来西亚的壁球运动？"
-    a: "马来西亚壁球协会（SRAM），负责监管国家队和青少年培养通道，精英训练以武吉加里尔（Bukit Jalil）的国家壁球中心为基地。"
+  - q: "妮科尔·大卫在世界第一的位置上待了多久？"
+    a: "连续108个月，直至2015年9月——这是壁球史上位居世界第一时间最长的不间断纪录，超越了此前由新西兰选手苏珊·迪沃伊（Susan Devoy）保持的105个月纪录。"
+  - q: "妮科尔·大卫赢得过多少个世界公开赛冠军？"
+    a: "八个，在2005年至2014年间夺得，是女子世界公开赛的纪录。"
+  - q: "哪个机构主管马来西亚的壁球运动？"
+    a: "马来西亚壁球协会（SRAM），负责监管国家队与青少年培养通道，其精英训练以武吉加里尔（Bukit Jalil）的国家壁球中心为基地。"
   - q: "马来西亚目前的顶尖壁球选手有哪些？"
-    a: "希瓦桑加里·苏巴玛廉，她在2025年10月升至个人最高世界排名第6；以及黄以豪，他在主场赢得了2024年ACE马来西亚壁球杯。"
+    a: "西瓦桑加里·苏巴玛廉，她于2025年10月升至个人生涯最高世界第六；以及黄英耀，他在主场赢得2024年ACE马来西亚壁球杯。"
 
 lang: "zh"
-sourceContentHash: "917104bdc4900af0"
 masterLanguage: "en"
 translationStatus: "in-sync"
+sourceContentHash: "47a1ae4a8ea8c4dc"
 
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
+reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-08-01
@@ -50,14 +50,13 @@ revisions:
     date: 2026-08-01
     change: "Correction pass: reconciled the 108-month figure to Laureus, re-sourced Hall of Fame/maiden title to PSA, fixed 2024 Cairo event to the individual World Championships, corrected the Nimick quote timing, and removed unverifiable SRAM history dates (source returned HTTP 403)."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
 verificationNeeded:
-  - "Exact count of Nicol David's consecutive months at world No. 1: the Laureus profile states 108 months until September 2015, while the PSA profile and Tournament of Champions describe her reaching her 106th consecutive month in the February 2015 rankings (when she overtook Susan Devoy). Confirm the precise total and end date."
-  - "SRAM's founding date and the timeline of its junior development programme and any corporate sponsorship history — the SRAM history page (malaysia-squash.org/about-sram/history) returned HTTP 403 and could not be verified; confirm directly with SRAM."
-  - "Whether the National Squash Centre in Bukit Jalil remains SRAM's primary elite training base."
-  - "Whether the 2024 ACE Malaysia Squash Cup was Ng Eain Yow's first PSA World Tour-level title."
   - "Jansher Khan's world-championship count, if it is to be cited (referenced only generally here, not from the cited PSA Hall of Fame notice)."
-  - "Ong Beng Hee's peak world ranking, if a specific figure is reintroduced."
 
 updated: 2026-08-01
 sources:
@@ -79,6 +78,18 @@ sources:
   - title: "Malaysia clinches spot in 2024 World Squash Championships"
     url: "https://cj.my/144019/malaysia-clinches-spot-in-2024-world-squash-championships/"
     publisher: "Citizens Journal Malaysia"
+  - title: "CIMB celebrates Dato' Nicol David's new world record as the longest-reigning world number one squash player"
+    url: "https://www.cimb.com/en/newsroom/2015/cimb-celebrates-dato-nicol-davids-new-world-record.html"
+    publisher: "CIMB"
+  - title: "Squash Racquets Association of Malaysia"
+    url: "https://en.wikipedia.org/wiki/Squash_Racquets_Association_of_Malaysia"
+    publisher: "Wikipedia"
+  - title: "National Squash Centre — Perbadanan Stadium Malaysia"
+    url: "https://www.stadium.gov.my/venues/kuala-lumpur-sports-city/national-squash-centre.html"
+    publisher: "Perbadanan Stadium Malaysia (Government of Malaysia)"
+  - title: "Malaysian Star Beng Hee Retires"
+    url: "https://www.psasquashtour.com/news/view/1979/malaysian-star-beng-hee-retires"
+    publisher: "PSA Squash Tour"
 
 entity: "Nicol David"
 relations:
@@ -87,64 +98,64 @@ related: []
 keywords: ["squash", "Nicol David", "SRAM", "Malaysian squash", "Ng Eain Yow", "Sivasangari Subramaniam", "World Open"]
 ---
 
-连续九年，这颗星球上最出色的壁球选手都来自槟城。妮科尔·戴维不仅在马来西亚最成功的个人项目中屡屡夺冠——她重新定义了何为这项运动中的统治力，直到2015年9月，她连续**108个月**高居世界第一，创下这项运动有史以来最长的不间断统治纪录。
+连续九年，全球最出色的壁球选手都来自槟城。妮科尔·大卫不仅在马来西亚最成功的个人项目中屡屡夺冠——她更重新定义了何谓在这项运动中的统治力，连续 **108个月** 位居世界第一，直至2015年9月，创下这项运动有史以来最长的不间断纪录。
 
-单凭这个数字，就足以定义大多数人的整个职业生涯。而戴维的成就远不止于此：它把一项小众的持拍运动变成了民族自豪感的源泉，也为吉隆坡一套规模不大、运作有序的培养体系赢得了一张走向世界的名片。
+单凭这一数字就足以定义大多数运动员的整个职业生涯。而大卫的成就远不止于此：她把一项小众的球拍运动变成了民族自豪感的来源，并为吉隆坡一套规模不大却运作有序的培养体系赢得了一张全球名片。
 
-## 妮科尔·戴维是谁，她为何重要？
+## 妮科尔·大卫是谁，她为何重要？
 
-妮科尔·安·戴维（Nicol Ann David）生于槟城，2000年转为职业选手，同年2月在Savcor芬兰公开赛上夺得职业生涯首个巡回赛冠军。不到五年，她就成为世界冠军，并在此后长达十年的时间里稳居或接近巅峰。
+妮科尔·安·大卫（Nicol Ann David）生于槟城，2000年转为职业选手，并于当年二月在萨夫科尔芬兰公开赛（Savcor Finnish Open）赢得个人首个巡回赛冠军。五年之内，她便成为世界冠军，并在此后十年间一直稳居或接近巅峰。
 
-无论以何种标准衡量，她的职业生涯战绩都堪称非凡：
+她的职业生涯战绩以任何标准衡量都堪称卓越：
 
 | 成就 | 纪录 |
 | --- | --- |
-| 连续保持世界第一的月数 | 108个月，直到2015年9月 |
+| 连续位居世界第一的月数 | 108个月，直至2015年9月 |
 | 世界公开赛冠军 | 8次，2005年至2014年间 |
 | 英国公开赛冠军 | 5次 |
-| 年度世界最佳球员 | 7次（2005–2012） |
+| 世界最佳球员 | 7次（2005–2012年） |
 | 英联邦运动会金牌 | 2枚 |
 | PSA名人堂 | 2024年12月1日入选 |
 
-资料来源：Laureus World Sports Academy（排名、冠军头衔与奖项）；PSA Squash Tour（名人堂入选）。
+资料来源：Laureus世界体育学院（排名、冠军头衔及奖项）；PSA Squash Tour（名人堂入选）。
 
-戴维在2015年2月的排名中迎来连续第106个月位居世界第一时，超越了苏珊·德沃伊此前保持的105个月纪录；她的统治期最终延续至108个月，直到2015年9月，创下纪录。冠军赛（Tournament of Champions）主席约翰·尼米克（John Nimick）表示，她的成就使她跻身"史上最伟大的运动员之列"。2024年12月1日，她与壁球名将詹谢尔·汗（Jansher Khan）一同入选PSA名人堂。
+大卫在2015年2月的排名中达到连续第106个月位居世界第一，超越了苏珊·迪沃伊此前保持的105个月纪录，她的统治期最终延续至108个月的纪录，直至2015年9月。冠军巡回赛（Tournament of Champions）主席约翰·尼米克（John Nimick）表示，她的成就使她跻身「史上最伟大的运动员之列」。她于2024年12月1日入选PSA名人堂，与壁球名将詹谢·汗（Jansher Khan）一同获此殊荣。
 
 ## 马来西亚是如何培养出一位壁球世界第一的？
 
-戴维并非孤立的天才偶然。她是**马来西亚壁球协会（SRAM）**——这项运动的国家管理机构——精心打造的人才梯队中最耀眼的产物。
+大卫并非孤立的天赋偶然。她是由**马来西亚壁球协会（SRAM）**——这项运动的国家管理机构，成立于1972年6月25日——精心打造的一条培养通道中脱颖而出的佼佼者。
 
-SRAM的青少年培养通道造就了让马来西亚扬名世界的一代人：妮科尔·戴维，以及王庆辉（Ong Beng Hee）和莫哈末·阿兹兰·伊斯干达（Mohd Azlan Iskandar）。
+SRAM的青少年培养通道造就了让马来西亚扬名世界的一代人：妮科尔·大卫，以及生涯最高世界排名第七的王炳僖（Ong Beng Hee）和莫哈末·阿兹兰·伊斯坎达（Mohd Azlan Iskandar）。
 
 这套模式脉络清晰：
 
-- **州属协会**在地方层面发掘并培养青少年选手。
-- 有潜力的选手升入精英训练基地——**武吉加里尔的国家壁球中心**。
-- 企业赞助帮助维系顶尖梯队，支持领军选手和青少年项目。
+- **各州协会** 在地方层面物色并培养青少年选手。
+- 有潜力的选手晋升至精英训练基地——**武吉加里尔的国家壁球中心**。
+- 企业赞助帮助维系顶尖层面的发展，支持领军选手与青少年项目。
 
-这是一套精简却高效的体系，对一个这样规模的国家而言尤为难得——正是这种通道让一个小型联合会得以专注于培育人才梯队，而非依赖偶然涌现的明星。
+这是一套精简的体系，但对于一个规模相当的国家而言颇具成效——这种培养通道让一个小型协会得以专注于打造人才梯队，而非依赖一次性涌现的明星。
 
-## 妮科尔·戴维退役后，马来西亚壁球发生了什么？
+## 妮科尔·大卫退役后，马来西亚壁球何去何从？
 
-戴维于2019年6月打完了她职业生涯的最后几场比赛，一个时代就此落幕。显而易见的问题是：没有了她，马来西亚能否保持竞争力——而坦率地说，在此后的几年里，随着新一代选手的成长，马来西亚一度从最顶尖的位置滑落。
+大卫于2019年6月打完了她的最后几场职业比赛，为一个时代画上句号。随之而来的显而易见的问题是：马来西亚能否在没有她的情况下保持竞争力——而在头几年，坦率的答案是：在新一代选手成长成熟的过程中，马来西亚从最顶端滑落了下来。
 
-如今，这批新人已经到来。入围2024年世界壁球锦标赛（在开罗举办的个人世界锦标赛）的马来西亚选手包括**希瓦桑加里·苏巴玛廉、雷切尔·阿诺德（Rachel Arnold），以及艾法·阿兹曼（Aifa Azman）和艾拉·阿兹曼（Aira Azman）姐妹**——这是一个真正的群体，而非单打独斗的一个名字。
+如今这一代选手已然登场。晋级2024年世界壁球锦标赛——在开罗举办的世界个人锦标赛——的马来西亚选手包括**西瓦桑加里·苏巴玛廉、蕾切尔·阿诺（Rachel Arnold），以及艾法（Aifa）与艾拉·阿兹曼（Aira Azman）姐妹**，这是一支货真价实的队伍，而非单一名字。
 
-其中有两位选手尤其推动马来西亚重返顶尖行列：
+尤其有两名选手推动马来西亚重返顶尖行列：
 
-- **希瓦桑加里·苏巴玛廉**在**2025年10月升至个人最高世界排名第6**，从第8位上升了两位。她是自戴维以来马来西亚排名最高的女子选手，也是这个国家能够再次角逐这项运动最高层级的最明确信号。
-- **黄以豪**，马来西亚男子头号选手，在主场赢得**2024年ACE马来西亚壁球杯**，以3–0（11–7、11–7、11–7）击败头号种子、埃及选手优素福·索利曼（Youssef Soliman）。
+- **西瓦桑加里·苏巴玛廉** 于 **2025年10月升至个人生涯最高世界第六**，从第八位上升两位。她是自大卫以来马来西亚排名最高的女子选手，也是这个国家能够再次角逐这项运动最高层级的最明确信号。
+- **黄英耀**，马来西亚男子头号选手，在主场赢得 **2024年ACE马来西亚壁球杯**，以3–0（11–7、11–7、11–7）击败头号种子、埃及选手优素福·索利曼（Youssef Soliman）。
 
-两人都还未达到戴维的高度——任何运动中能达到那种高度的人都寥寥无几——但一个世界前六的排名和一个本土赛事冠军表明，那套培养出她的人才梯队依然在源源不断地输送人才。
+两人都尚未企及大卫的高度——任何运动中能达到那种高度的人都寥寥无几——但世界前六的排名与一站主场赛事的冠军表明，培养出她的那条通道仍在源源不断地输送人才。
 
-## 为什么壁球对马来西亚而言如此重要？
+## 为何壁球对马来西亚而言如此重要？
 
-壁球在马来西亚体育中占据着不同寻常的地位。在这个羽毛球最能吸引观众的国家，壁球悄然成为多年里唯一一个让马来西亚人稳居世界之巅、毫无争议的项目。这赋予了它相对于其参与人数而言超乎寻常的文化分量。
+壁球在马来西亚体育中占据着一个不同寻常的位置。在这个羽毛球拥有最庞大观众群的国家，壁球悄然成为了那个曾多年由马来西亚人明确无误地位居世界第一的项目。这赋予了它相对于其参与人口而言远超比例的文化分量。
 
-戴维的统治期还恰逢——并助推了——一场旨在让壁球进入奥运会的长期运动。她在这个目标实现之前就退役了，但壁球已被列入2028年洛杉矶奥运会的项目，这给了当前这一代人一件她从未拥有的东西：一个可以为之奋斗的奥运舞台，以及一个让SRAM青少年体系持续输送人才的理由。
+大卫的统治期还恰逢——并助推了——一场旨在让壁球进入奥运会的漫长运动。她在这一目标实现之前便已退役，但壁球被列入2028年洛杉矶奥运会的比赛项目，为当代这一代人提供了她从未拥有过的东西：一个可以为之奋斗的奥运舞台，以及一个让SRAM青少年体系持续为培养通道输送人才的理由。
 
-## 接下来是什么
+## 接下来会怎样
 
-马来西亚壁球正处于重建与上升的阶段，而非黄金时期。近期值得关注的标志是：希瓦桑加里·苏巴玛廉能否突破世界第6、跻身冠军争夺者行列，黄以豪能否在男子世界前十中站稳脚跟，以及阿兹曼姐妹能否将青少年时期的潜力兑现为成年组的成绩。
+马来西亚壁球正处于一个重建与崛起的阶段，而非黄金时期。近期值得关注的标志是：西瓦桑加里·苏巴玛廉能否突破世界第六，跻身冠军争夺者行列；黄英耀能否在男子前十中站稳脚跟；以及阿兹曼姐妹能否将青少年时期的潜力转化为成年组的成绩。
 
-更长远的脉络指向2028年洛杉矶奥运会——壁球的奥运首秀，在那里，一枚奖牌将是妮科尔·戴维时代顺理成章的续章。对于关注这项运动的读者而言，实用的参照点是SRAM的赛事日历和PSA世界排名——正是这把标尺，记录下了戴维在巅峰的那些岁月。
+更长远的轨迹指向2028年洛杉矶奥运会——壁球的奥运首秀，届时一枚奖牌将是妮科尔·大卫时代顺理成章的续章。对于关注这项运动的读者而言，实用的参照坐标是SRAM的赛事日历与PSA世界排名——正是这把标尺记录下了大卫位居榜首的那些岁月。

@@ -17,7 +17,7 @@ keyTakeaways:
   - "Malaysia mencatat 598,635 kemalangan jalan raya dan 6,443 kematian sepanjang 2023, atau kira-kira 18 kematian sehari (angka rasmi diumumkan Menteri Pengangkutan, Mac 2024)."
   - "Penunggang motosikal menyumbang kira-kira dua pertiga daripada kematian jalan raya pada 2023 (sekitar 4,448 maut) — sebab utama dasar keselamatan memberi tumpuan kepada pengguna dua roda."
   - "Akta Pengangkutan Jalan (Pindaan) 2020 mengurangkan had alkohol darah daripada 80mg kepada 50mg bagi setiap 100ml darah, berkuat kuasa 23 Oktober 2020."
-  - "Menyebabkan kematian ketika memandu di bawah pengaruh alkohol boleh dihukum penjara sehingga 15 tahun dan denda RM50,000–RM100,000 di bawah Seksyen 44 (angka perlu disahkan terhadap teks Akta)."
+  - "Menyebabkan kematian ketika memandu di bawah pengaruh alkohol boleh dihukum penjara 10–15 tahun dan denda RM50,000–RM100,000 di bawah Seksyen 44 Akta Pengangkutan Jalan (Pindaan) 2020."
   - "Kamera AES mula beroperasi pada September 2012 untuk menangkap kesalahan memandu laju dan melanggar lampu isyarat merah."
   - "Pelan Keselamatan Jalan Raya Malaysia 2022–2030 mensasarkan pengurangan kematian jalan raya sebanyak 50 peratus menjelang 2030."
 appliesTo: "Pemandu, penunggang motosikal dan pengguna jalan raya di Malaysia yang mahu memahami statistik, undang-undang dan penguatkuasaan keselamatan jalan raya."
@@ -26,7 +26,7 @@ faq:
   - q: "Berapakah had alkohol dibenarkan untuk pemandu di Malaysia?"
     a: "Selepas pindaan Akta Pengangkutan Jalan yang berkuat kuasa 23 Oktober 2020, had ditetapkan pada 50 miligram alkohol bagi setiap 100 mililiter darah (turun daripada 80mg), 22 mikrogram bagi setiap 100ml nafas, atau 67mg bagi setiap 100ml air kencing."
   - q: "Apakah hukuman jika menyebabkan kematian akibat memandu dalam keadaan mabuk?"
-    a: "Di bawah Seksyen 44 Akta Pengangkutan Jalan 1987 (dipinda 2020), kesalahan menyebabkan kematian boleh dihukum penjara sehingga 15 tahun, denda antara RM50,000 dan RM100,000, serta hilang kelayakan lesen sekurang-kurangnya 10 tahun. (Angka tepat perlu disahkan terhadap teks Akta yang diwartakan.)"
+    a: "Di bawah Seksyen 44 Akta Pengangkutan Jalan 1987 (dipinda 2020), kesalahan menyebabkan kematian boleh dihukum penjara 10–15 tahun (minimum mandatori 10 tahun), denda antara RM50,000 dan RM100,000, serta hilang kelayakan lesen sekurang-kurangnya 10 tahun."
   - q: "Apakah itu sistem mata demerit KEJARA?"
     a: "KEJARA ialah sistem mata demerit JPJ yang berkuat kuasa 15 April 2017. Mata dikira apabila pesalah membayar kompaun atau denda; pengumpulan 20 mata boleh membawa kepada penggantungan lesen, dan lesen dibatalkan jika digantung tiga kali dalam tempoh lima tahun."
   - q: "Apakah kesalahan yang ditangkap oleh kamera AES?"
@@ -41,16 +41,10 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
+reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "0.2"
-verificationNeeded:
-  - "Angka hukuman tepat Seksyen 44 dan Seksyen 45 Akta Pengangkutan Jalan (Pindaan) 2020 (julat denda dan tempoh penjara) perlu disahkan terhadap teks Akta yang diwartakan; kini dirujuk melalui laporan paultan.org."
-  - "Nombor rujukan gazet Kaedah-Kaedah Kenderaan Motor (Mata Demerit) 2017 — sahkan nombor P.U.(A) tepat terhadap Warta Kerajaan (diwartakan sekitar 5 April 2017)."
-  - "Bilangan lokasi kamera AES/AwAS operasi semasa; angka 831 ialah sasaran pelan asal 2012, bukan bilangan operasi terkini."
-  - "Status penjenamaan AES kepada AwAS dan pengaturan pengurusan semasa di bawah JPJ."
-  - "Pelantikan MIROS sebagai Pusat Keselamatan Jalan Raya ASEAN pada 2014 — disahkan melalui carian, tetapi sahkan terhadap sumber rasmi MOT/MIROS."
-  - "Pecahan kemalangan dan kematian mengikut negeri selain jumlah yang disahkan (Selangor, Johor, Kuala Lumpur)."
+publishedBy: "ashton-tan"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-08-01
@@ -60,6 +54,10 @@ revisions:
     date: 2026-08-01
     change: "Correction pass: fixed 2023 death toll to official 6,443, removed unverifiable per-state death and fatal-accident figures, replaced unsourced 2010–2019 motorcyclist split with sourced 2023 figure, softened lede, added primary sources."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
 updated: 2026-08-01
 sources:
@@ -90,6 +88,27 @@ sources:
   - title: "AES locations – the full list of 831 camera spots"
     url: "https://paultan.org/2012/10/08/aes-locations-the-full-list-of-831-camera-spots/"
     publisher: "Paul Tan (paultan.org)"
+  - title: "Laws of Malaysia Act A1618 — Road Transport (Amendment) Act 2020 (gazetted text, ss.44, 45, 45G)"
+    url: "https://www.zulrafique.com.my/ckfinder/userfiles/files/legislation%20update/A1618_%20Road%20Transport%20(Amendment)%20Act%202020%20(02017288xA335E).pdf"
+    publisher: "Percetakan Nasional Malaysia Berhad (Laws of Malaysia)"
+  - title: "Road Transport Act (Amendment) 2020 comes into effect Oct 23"
+    url: "https://www.bernama.com/en/news.php?id=1892454"
+    publisher: "BERNAMA"
+  - title: "Kaedah-Kaedah Pengangkutan Jalan (Mata Demerit) 2017 — P.U.(A) 110/2017 (senarai seksyen)"
+    url: "https://mylaw.my/legislation/kaedah-kaedah-pengangkutan-jalan-mata-demerit-2017/section-2"
+    publisher: "MyLaw.my (legislation database)"
+  - title: "JPJ provides list of 45 AwAS cameras in operation (29 speed, 16 red-light) from 1 Sept 2018"
+    url: "https://paultan.org/2018/09/04/jpj-provides-list-of-45-awas-cameras-in-operation/"
+    publisher: "Paul Tan (paultan.org), citing JPJ list"
+  - title: "Kenyataan Media JPJ: Pemakluman Penggantian Kamera AwAS (8 Ogos 2024)"
+    url: "https://www.jpj.gov.my/pr-penggantian-kamera-awas/"
+    publisher: "Jabatan Pengangkutan Jalan Malaysia (JPJ)"
+  - title: "Sejumlah 598,635 kes kemalangan jalan raya direkodkan pada 2023 (JSPT Bukit Aman) — Selangor 173,129, Johor 87,370, KL 72,701"
+    url: "https://paultan.org/2024/01/02/sejumlah-598-635-kes-kemalangan-jalan-raya-direkodkan-di-seluruh-negara-pada-2023-polis/"
+    publisher: "Paul Tan (paultan.org), citing JSPT Bukit Aman"
+  - title: "PDRM rekod 598,635 kemalangan jalan raya seluruh negara pada tahun lalu"
+    url: "https://berita.rtm.gov.my/nasional/senarai-berita-nasional/senarai-artikel/pdrm-rekod-598-635-kemalangan-jalan-raya-seluruh-negara-pada-tahun-lalu"
+    publisher: "Radio Televisyen Malaysia (RTM)"
 
 entity: "Keselamatan Jalan Raya Malaysia"
 relations:
@@ -136,21 +155,21 @@ Had alkohol yang dipinda:
 - **Nafas:** turun kepada **22 mikrogram** bagi setiap 100ml.
 - **Air kencing:** turun kepada **67mg** bagi setiap 100ml.
 
-Hukuman utama di bawah akta yang dipinda (angka perlu disahkan terhadap teks Akta yang diwartakan):
+Hukuman utama di bawah akta yang dipinda:
 
 | Kesalahan | Rujukan | Hukuman (kesalahan pertama) |
 | --- | --- | --- |
 | Memandu dalam keadaan tidak upaya mengawal kenderaan | Seksyen 45 | Denda RM1,000–RM5,000; penjara sehingga 2 tahun; hilang kelayakan lesen minimum 2 tahun |
-| Menyebabkan **kecederaan** akibat memandu di bawah pengaruh | Seksyen 44 | Denda RM30,000–RM50,000; penjara 7–10 tahun |
-| Menyebabkan **kematian** akibat memandu di bawah pengaruh | Seksyen 44 | Denda RM50,000–RM100,000; penjara sehingga 15 tahun; hilang kelayakan minimum 10 tahun |
+| Menyebabkan **kecederaan** akibat memandu di bawah pengaruh | Seksyen 44 | Denda RM30,000–RM50,000; penjara 7–10 tahun; hilang kelayakan minimum 7 tahun |
+| Menyebabkan **kematian** akibat memandu di bawah pengaruh | Seksyen 44 | Denda RM50,000–RM100,000; penjara 10–15 tahun (minimum mandatori 10 tahun); hilang kelayakan minimum 10 tahun |
 
-*Sumber: Akta Pengangkutan Jalan (Pindaan) 2020, seperti dilaporkan oleh paultan.org. Angka tepat perlu disahkan terhadap teks Akta yang diwartakan.*
+*Sumber: Akta Pengangkutan Jalan (Pindaan) 2020 (Laws of Malaysia Act A1618, diwartakan 22 Oktober 2020), Seksyen 44 dan 45.*
 
 Bagi kesalahan menyebabkan kematian, kesalahan berulang boleh membawa hukuman lebih berat lagi.
 
 ## Bagaimana kamera AES menguatkuasakan had laju?
 
-Manusia tidak boleh berada di setiap lokasi berbahaya sepanjang masa — jadi Malaysia beralih kepada penguatkuasaan automatik. **Sistem Penguatkuasaan Automatik (AES)** mula beroperasi pada **September 2012**, bermula dengan sejumlah kecil kamera di lokasi berisiko tinggi. Rancangan asal ketika pelancaran ialah untuk menyebarkan sehingga **831 lokasi kamera** di seluruh negara secara berperingkat (bilangan operasi semasa perlu disahkan).
+Manusia tidak boleh berada di setiap lokasi berbahaya sepanjang masa — jadi Malaysia beralih kepada penguatkuasaan automatik. **Sistem Penguatkuasaan Automatik (AES)** mula beroperasi pada **September 2012**, bermula dengan sejumlah kecil kamera di lokasi berisiko tinggi. Rancangan asal ketika pelancaran ialah untuk menyebarkan sehingga **831 lokasi kamera** di seluruh negara secara berperingkat — sasaran pelan 2012, bukan bilangan operasi. Set operasi yang diterbitkan JPJ apabila mengambil alih sepenuhnya pada 1 September 2018 ialah **45 kamera AwAS** (29 untuk laju dan 16 untuk lampu merah). JPJ sedang menggantikan unit AwAS lama secara berperingkat dengan kamera teknologi ANPR (JPJ, Ogos 2024).
 
 AES menangkap dua kesalahan utama secara automatik:
 
@@ -161,7 +180,7 @@ Sistem itu kemudian dijenamakan semula sebagai **AwAS (Automated Awareness Safet
 
 ## Bagaimana sistem mata demerit KEJARA berfungsi?
 
-Denda sahaja mudah dilupakan; kehilangan lesen tidak. Itulah logik di sebalik **KEJARA**, sistem mata demerit JPJ yang berkuat kuasa **15 April 2017** di bawah *Kaedah-Kaedah Kenderaan Motor (Mata Demerit) 2017* yang diwartakan.
+Denda sahaja mudah dilupakan; kehilangan lesen tidak. Itulah logik di sebalik **KEJARA**, sistem mata demerit JPJ yang berkuat kuasa **15 April 2017** di bawah *Kaedah-Kaedah Pengangkutan Jalan (Mata Demerit) 2017* (P.U.(A) 110/2017, diwartakan 5 April 2017).
 
 Cara ia berfungsi:
 

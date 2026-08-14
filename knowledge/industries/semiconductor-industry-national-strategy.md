@@ -42,9 +42,10 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
-reviewDue: 2027-08-03
-version: "0.2"
+reviewed: 2026-08-14
+reviewDue: 2027-08-14
+publishedBy: "ashton-tan"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-28
@@ -54,16 +55,12 @@ revisions:
     date: 2026-07-28
     change: "Correction pass: fixed launch date to 28 May 2024, deleted fabricated RM25bn breakdown table and unsourced Penang FDI/Intel and talent-ringgit figures, added verificationNeeded."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-verificationNeeded:
-  - "E&E figures: ~40% of Malaysia's 2023 total exports, RM575 billion in E&E and semiconductor exports, and E&E at ~5.8% of GDP — confirm against MIDA / Department of Statistics Malaysia primary data."
-  - "RM/USD equivalent of the RM25 billion: MIDA's 'govt-allocates' page states RM25 billion (US$5.3 billion) while the 'securing' page states US$5.3 billion (RM22.86 billion). Confirm the authoritative ringgit-dollar pairing."
-  - "March 2025 Prime Minister claims — 13 homegrown semiconductor firms, nine (incl. Carsem, Inari, Pentamaster, ViTrox, Kelington) each expecting over RM500 million revenue, and four IC-design firms growing revenue above 25% — currently rest on secondary reporting; confirm against an official transcript."
-  - "Infineon 200mm silicon-carbide facility and NXP expansion as NSS-attributed projects — confirm against a primary company or ministry announcement."
-  - "CREST figure of RM69.4 billion approved investments in 2023 with ~11,000 jobs — confirm against CREST's own published data."
-  - "Whether MITI has since published an official RM25 billion instrument breakdown (the earlier draft's line-item table was removed as unsourced)."
-
-updated: 2026-07-28
+updated: 2026-08-14
 sources:
   - title: "National Semiconductor Strategy to guide industry up value chain"
     url: "https://www.mida.gov.my/mida-news/national-semiconductor-strategy-to-guide-industry-up-value-chain/"
@@ -83,6 +80,12 @@ sources:
   - title: "Anwar: Govt has secured more than RM63b investments through NSS as of March 2025"
     url: "https://www.malaymail.com/news/malaysia/2025/07/24/anwar-govt-has-secured-more-than-rm63b-investments-through-national-semiconductor-strategy-as-of-march-2025/185070"
     publisher: "Malay Mail"
+  - title: "Keynote Address by YAB Prime Minister: ASEMIS ASEAN 2025 — One Year Anniversary of Malaysia's National Semiconductor Strategy (NSS)"
+    url: "https://www.pmo.gov.my/en/speeches-en/keynote-address-by-yab-prime-minister-asemis-asean-2025-the-one-year-anniversary-of-malaysias-national-semiconductor-strategy-nss/"
+    publisher: "Prime Minister's Office of Malaysia"
+  - title: "MITI To Unveil New Incentives To Boost Malaysia's Semiconductor Industry - Tengku Zafrul"
+    url: "https://asean.bernama.com/news.php?id=2425193"
+    publisher: "BERNAMA"
   - title: "National Semiconductor Strategy (NSS)"
     url: "https://crest.my/national-semiconductor-strategy-nss/"
     publisher: "Collaborative Research in Engineering, Science & Technology (CREST)"
@@ -104,7 +107,7 @@ A finished semiconductor passes through three broad stages. **Front-end wafer fa
 
 Malaysia's historic strength is the back end. According to MIDA, the country handles roughly **13% of the world's semiconductor packaging, assembly and testing** and is the **sixth-largest semiconductor exporter** globally. That is not a marginal role — it is a genuine chokepoint in the supply chain, which is exactly why the industry survived decades of global competition.
 
-The scale shows up in the trade figures. Electrical and electronics (E&E) made up about **40% of Malaysia's total exports in 2023**, with E&E and semiconductor exports worth roughly **RM575 billion**, and the E&E sector contributing around **5.8% of GDP**. (These headline trade figures should be reconfirmed against MIDA and Department of Statistics data before publication.) When people say the chip industry is strategically important to Malaysia, the numbers back it up.
+The scale shows up in the trade figures. Electrical and electronics (E&E) made up about **40% of Malaysia's total exports in 2023**, with E&E and semiconductor exports worth roughly **RM575 billion**, and the E&E sector contributing around **5.8% of GDP**, according to MIDA. When people say the chip industry is strategically important to Malaysia, the numbers back it up.
 
 ## Where is the industry concentrated?
 

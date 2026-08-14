@@ -24,14 +24,11 @@ appliesTo: "Pelajar, penyelidik budaya, pengumpul, pengamal seni tempa, dan sesi
 verificationNeeded:
   - "Sama ada 13 ialah had lazim bilangan luk dalam tradisi, dan sejauh mana keris berluk sangat tinggi diterima — sumber yang ditemui tidak sepakat (ada menyebut hingga 29)."
   - "Butiran punca dan senarai penuh item dalam perdebatan 'tuntutan bertindih' budaya Malaysia–Indonesia — perlu sumber sejarah/diplomatik rasmi, bukan penyifatan umum."
-  - "Nama dan lokasi muzium tertentu yang memaparkan koleksi keris untuk tatapan awam."
   - "Perincian legenda Keris Taming Sari (bilangan logam, keupayaan ghaib, salasilah, tarikh) — tradisi lisan, bukan rekod rasmi."
-  - "Rujukan seksyen Akta 645 (s.23 Daftar Warisan Kebangsaan; s.67 pengisytiharan) — disahkan terhadap teks reprint Akta; pengesahan pakar undang-undang tetap dinasihatkan."
-  - "Label kategori pendaftaran 10 artifak JMM 2009 — dinyatakan sebagai pendaftaran di bawah Seksyen 23; istilah kategori khusus tidak disahkan sumber."
 
 faq:
   - q: "Adakah keris milik Malaysia atau Indonesia?"
-    a: "Keris ialah warisan Nusantara yang dikongsi. UNESCO menyenaraikan 'Indonesian Kris' dalam Representative List Warisan Budaya Tidak Ketara Kemanusiaan, tetapi menurut fail UNESCO yang sama keris juga wujud secara asli (indigenous) di Malaysia, Brunei, Thailand dan Singapura. Perdebatan awam pernah timbul tentang 'tuntutan bertindih', namun keris paling wajar difahami sebagai warisan bersama rantau Nusantara."
+    a: "Keris ialah warisan Nusantara yang dikongsi. UNESCO menyenaraikan 'Indonesian Kris' dalam Representative List Warisan Budaya Tidak Ketara Kemanusiaan, dengan fail itu menyatakan keris berasal dari Indonesia dan besar kemungkinan tersebar dari Pulau Jawa ke seluruh Asia Tenggara. Amalan keris turut berakar di Malaysia dan negara serantau lain sebagai sebahagian tradisi Nusantara yang sama. Perdebatan awam pernah timbul tentang 'tuntutan bertindih', namun keris paling wajar difahami sebagai warisan bersama rantau Nusantara."
   - q: "Mengapa bilangan luk keris sentiasa ganjil?"
     a: "Dalam tradisi keris Melayu dan Jawa, bilangan luk (lengkok bilah) sentiasa ganjil — 3, 5, 7, 9, 11, 13 dan seterusnya. Keris dengan bilangan luk yang sangat tinggi wujud tetapi jarang. Keris berbilah lurus tanpa luk juga wujud dan sah, seperti keris Tajong."
   - q: "Siapakah empu?"
@@ -48,9 +45,10 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-08
+reviewed: 2026-08-14
 reviewDue: 2027-08-08
-version: "0.2"
+publishedBy: "ashton-tan"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-08-08
@@ -60,6 +58,10 @@ revisions:
     date: 2026-08-08
     change: "Correction pass: sourced s.23/s.67 to the primary Act text, softened unsourced luk-maximum and Malaysia–Indonesia dispute claims, removed the uncited keris-waving political episode and the unverified 'Muzium Warisan'."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
 updated: 2026-08-08
 sources:
@@ -81,6 +83,21 @@ sources:
   - title: "Akta Warisan Kebangsaan 2005 (Akta 645) — teks Akta (s.23 Daftar Warisan Kebangsaan; s.67 Pengisytiharan Warisan Kebangsaan)"
     url: "https://www.heritage.gov.my/ms/info-jwn/dasar-perundangan.html"
     publisher: "Jabatan Warisan Negara / Laws of Malaysia, Act 645"
+  - title: "National Heritage Act 2005 (Act 645) — Laws of Malaysia reprint (s.23 National Heritage Register; s.67 Declaration incl. s.67(2) criteria)"
+    url: "https://gtwhi.com.my/wp-content/uploads/2020/12/National-Heritage-Act-2005.pdf"
+    publisher: "Laws of Malaysia, Act 645 (reprint)"
+  - title: "National Heritage Act 2005 — consolidated text"
+    url: "https://www.commonlii.org/my/legis/consol_act/nha2005164/"
+    publisher: "CommonLII / AGC"
+  - title: "Keris In The Malay World"
+    url: "http://www.jmm.gov.my/en/keris-malay-world"
+    publisher: "Jabatan Muzium Malaysia"
+  - title: "Keris: Power & Identity exhibition (Special Gallery 2)"
+    url: "https://iamm.org.my/exhibition/keris-power-and-identity"
+    publisher: "Islamic Arts Museum Malaysia (IAMM)"
+  - title: "Muzium Warisan UPM Miliki Lebih 30 Koleksi Keris Untuk Tatapan"
+    url: "https://upm.edu.my/kandungan/muzium_warisan_upm_miliki_lebih_30_koleksi_keris_untuk_tatapan-25063?L=bm"
+    publisher: "Universiti Putra Malaysia"
 
 entity: "Keris"
 relations:
@@ -169,7 +186,7 @@ Keris juga menjadi lambang budaya yang lebih luas: ia muncul pada jata, lambang 
 
 Ini soalan yang sensitif dan sering timbul. Jawapannya: keris ialah **warisan Nusantara yang dikongsi**.
 
-UNESCO menyenaraikan **"Indonesian Kris"** — pertama sebagai *Masterpiece of the Oral and Intangible Heritage of Humanity* pada **2005**, kemudian dimasukkan ke dalam **Representative List of the Intangible Cultural Heritage of Humanity** pada **2008**. Pada masa yang sama, sumber yang sama mengakui keris adalah asli (indigenous) bukan sahaja di Indonesia, tetapi juga di Malaysia, Thailand, Brunei dan Singapura.
+UNESCO menyenaraikan **"Indonesian Kris"** — pertama sebagai *Masterpiece of the Oral and Intangible Heritage of Humanity* pada **2005**, kemudian dimasukkan ke dalam **Representative List of the Intangible Cultural Heritage of Humanity** pada **2008**. Fail UNESCO itu menyatakan keris berasal dari Indonesia dan besar kemungkinan tersebar dari Pulau Jawa ke seluruh Asia Tenggara. Amalan menempa dan memakai keris turut berakar di Malaysia dan negara serantau lain — Thailand, Brunei dan Singapura — sebagai sebahagian tradisi Nusantara yang sama.
 
 Dari semasa ke semasa, timbul perdebatan awam tentang "tuntutan bertindih" terhadap unsur budaya yang dikongsi rantau ini. Perdebatan sebegini paling wajar difahami melalui lensa warisan bersama, memandangkan tradisi keris terbentuk jauh sebelum sempadan negara moden wujud. (Butiran punca dan senarai penuh item yang pernah dipertikaikan wajar disemak dengan sumber sejarah dan diplomatik rasmi.)
 
@@ -179,9 +196,9 @@ Cara yang paling matang untuk memahami keris ialah melalui lensa **warisan bersa
 
 Di Malaysia, warisan budaya dilindungi di bawah **Akta Warisan Kebangsaan 2005 (Akta 645)**. Menurut teks Akta itu, **Seksyen 23** mewujudkan **Daftar Warisan Kebangsaan** (sebuah daftar rasmi item warisan negara), manakala **Seksyen 67** memperuntukkan pengisytiharan Warisan Kebangsaan berserta kriteria pertimbangan Menteri dalam subseksyen 67(2) — antaranya kepentingan sejarah, ciri reka bentuk atau estetik, kaitan sosial atau budaya, serta kelangkaan atau keunikan warisan.
 
-Pada **14 Februari 2009**, sejumlah **173 item warisan** diisytiharkan sebagai Warisan Kebangsaan, termasuk 10 artifak milik Jabatan Muzium Malaysia yang didaftarkan di bawah Seksyen 23 Akta tersebut. Majlis pengisytiharan disempurnakan oleh Menteri Perpaduan, Kebudayaan, Kesenian dan Warisan ketika itu. Setakat rujukan terkini, sejumlah 20 koleksi artifak telah diisytiharkan sebagai Objek Warisan Kebangsaan oleh Jabatan Muzium Malaysia, merangkumi koleksi arkeologi, etnologi dan spesimen — dengan koleksi senjata Melayu (termasuk keris) antara yang dipelihara dan didigitalkan untuk pendokumentasian.
+Pada **14 Februari 2009**, sejumlah **173 item warisan** diisytiharkan sebagai Warisan Kebangsaan, termasuk 10 artifak milik Jabatan Muzium Malaysia yang dikategorikan sebagai **Objek Ketara** (Tangible Objects) dan didaftarkan dalam Daftar Warisan Kebangsaan di bawah Seksyen 23 Akta tersebut. Majlis pengisytiharan disempurnakan oleh Menteri Perpaduan, Kebudayaan, Kesenian dan Warisan ketika itu. Setakat rujukan terkini, sejumlah 20 koleksi artifak telah diisytiharkan sebagai Objek Warisan Kebangsaan oleh Jabatan Muzium Malaysia, merangkumi koleksi arkeologi, etnologi dan spesimen — dengan koleksi senjata Melayu (termasuk keris) antara yang dipelihara dan didigitalkan untuk pendokumentasian.
 
-Selain perlindungan perundangan, pelbagai muzium dan institusi menyimpan koleksi keris untuk tatapan awam dan penyelidikan, termasuk muzium di bawah Jabatan Muzium Malaysia yang memelihara koleksi senjata Melayu seperti keris.
+Selain perlindungan perundangan, beberapa muzium dan institusi menyimpan koleksi keris untuk tatapan awam dan penyelidikan. Antaranya **Muzium Negara** (Jabatan Muzium Malaysia) di Jalan Damansara, Kuala Lumpur, yang mendokumentasikan koleksi dan pameran keris ("Keris In The Malay World"); **Muzium Kesenian Islam Malaysia (IAMM)** di Jalan Lembah Perdana, Kuala Lumpur, yang pernah menganjurkan pameran "Keris: Power & Identity"; serta **Muzium Warisan Universiti Putra Malaysia (UPM)** di Serdang, Selangor, yang memiliki lebih 30 koleksi keris untuk tatapan awam.
 
 ## Kesilapan lazim tentang keris
 

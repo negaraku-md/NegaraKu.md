@@ -1,57 +1,51 @@
 ---
 topicId: MY-PS-0014
 title: "马来西亚道路安全：法规、风险与执法"
-seoTitle: "马来西亚道路安全：法律、统计数据与自动执法系统（AES）"
+seoTitle: "马来西亚道路安全：法律、统计与 AES"
 slug: "road-safety-in-malaysia"
 category: "public-safety"
 subcategory: ["traffic"]
-summary: "本指南介绍马来西亚道路交通事故统计数据、安全带、头盔与酒后驾驶相关法律、AES 摄像头自动执法系统，以及推动国家道路安全计划的相关机构。"
+summary: "关于马来西亚道路意外统计、安全带、头盔与醉驾法律、AES 摄像头执法，以及推动国家道路安全计划各机构的指南。"
 
 tier: "2"
 mode: "practical"
 contentType: "guide"
 sensitivity: "none"
 
-answer: "2023 年，马来西亚共记录约 598,635 起道路交通事故及 6,443 起死亡事故，其中摩托车骑士占死亡人数的大多数。核心法律为《1987 年道路交通法令》（Akta Pengangkutan Jalan 1987）——自 2020 年 10 月起，血液酒精含量上限收紧至每 100 毫升 50 毫克，安全带与头盔强制佩戴，并通过 AES 摄像头与 KEJARA 记分制度实施自动执法。马来西亚道路安全研究院（MIROS）与陆路交通局（JPJ）道路安全组主导国家目标：到 2030 年将死亡人数减少 50%。"
+answer: "马来西亚在 2023 年录得约 598,635 宗道路意外及 6,443 起死亡，其中摩托车骑士占死亡人数的大多数。主要法律载于《1987 年陆路交通法令》——包括自 2020 年 10 月起收紧至每 100ml 血液 50mg 的酒精上限、强制系安全带与戴头盔，以及通过 AES 摄像头与 KEJARA 记分制度进行的自动执法。MIROS 与 JPJ 道路安全组主导国家目标，力求在 2030 年前将死亡人数减少 50%。"
 keyTakeaways:
-  - "2023 年全年，马来西亚共记录 598,635 起道路交通事故及 6,443 起死亡事故，约合每天 18 人死亡（官方数据由交通部长于 2024 年 3 月公布）。"
-  - "2023 年，摩托车骑士约占道路死亡人数的三分之二（约 4,448 人死亡）——这也是安全政策以两轮车用户为重点的主要原因。"
-  - "《2020 年道路交通（修正）法令》将血液酒精含量上限从每 100 毫升 80 毫克降至 50 毫克，自 2020 年 10 月 23 日起生效。"
-  - "根据第 44 条文，酒驾致人死亡最高可判处 15 年监禁及 50,000 至 100,000 令吉罚款（具体数字需对照法令正文核实）。"
-  - "AES 摄像头于 2012 年 9 月开始运作，用于抓拍超速与闯红灯违规行为。"
-  - "《马来西亚道路安全计划 2022–2030》（PKJRM）的目标是到 2030 年将道路死亡人数减少 50%。"
-appliesTo: "希望了解马来西亚道路安全统计数据、法律与执法情况的驾驶者、摩托车骑士及道路使用者。"
+  - "马来西亚在 2023 年全年录得 598,635 宗道路意外及 6,443 起死亡，约每日 18 起死亡（交通部长于 2024 年 3 月公布的官方数字）。"
+  - "摩托车骑士约占 2023 年道路死亡人数的三分之二（约 4,448 起死亡）——这正是安全政策把重点放在两轮使用者身上的主要原因。"
+  - "《2020 年陆路交通（修正）法令》将血液酒精上限从每 100ml 80mg 降至 50mg，于 2020 年 10 月 23 日生效。"
+  - "根据《2020 年陆路交通（修正）法令》第 44 条，在酒精影响下驾驶导致死亡可判处 10 至 15 年监禁及 RM50,000 至 RM100,000 罚款。"
+  - "AES 摄像头于 2012 年 9 月开始运作，用以捕捉超速及闯红灯违规。"
+  - "《马来西亚道路安全计划 2022–2030》目标在 2030 年前将道路死亡人数减少 50%。"
+appliesTo: "希望了解道路安全统计、法律与执法的马来西亚驾驶者、摩托车骑士及道路使用者。"
 
 faq:
-  - q: "马来西亚驾驶者允许的酒精含量上限是多少？"
-    a: "根据自 2020 年 10 月 23 日起生效的《道路交通法令》修正案，上限设定为每 100 毫升血液 50 毫克酒精（从 80 毫克下调）、每 100 毫升呼气 22 微克，或每 100 毫升尿液 67 毫克。"
-  - q: "酒后驾驶致人死亡的刑罚是什么？"
-    a: "根据《1987 年道路交通法令》（2020 年修正）第 44 条文，致人死亡罪最高可判处 15 年监禁、50,000 至 100,000 令吉罚款，以及至少 10 年吊销驾照资格。（确切数字需对照已宪报颁布的法令正文核实。）"
+  - q: "马来西亚对驾驶者允许的酒精上限是多少？"
+    a: "在 2020 年 10 月 23 日生效的《陆路交通法令》修正案之后，上限定为每 100 毫升血液 50 毫克酒精（从 80mg 下调）、每 100ml 呼气 22 微克，或每 100ml 尿液 67mg。"
+  - q: "醉驾导致死亡的刑罚是什么？"
+    a: "根据《1987 年陆路交通法令》第 44 条（2020 年修正），导致死亡的罪行可判处 10 至 15 年监禁（强制最低 10 年）、RM50,000 至 RM100,000 罚款，以及至少 10 年吊销驾照资格。"
   - q: "什么是 KEJARA 记分制度？"
-    a: "KEJARA 是陆路交通局（JPJ）的记分制度，自 2017 年 4 月 15 日起生效。当违规者缴付罚单或罚款时即计入记分；累积 20 分可导致吊销驾照，若在五年内被吊销三次，则驾照被撤销。"
-  - q: "AES 摄像头抓拍哪些违规行为？"
-    a: "AES 系统（现称 AwAS）自动抓拍两大违规行为——超速与闯红灯——通过安装在高风险地点的摄像头进行。"
-  - q: "马来西亚负责道路安全的机构有哪些？"
-    a: "马来西亚道路安全研究院（MIROS）成立于 2007 年，负责基于证据的研究；而陆路交通局（JPJ）道路安全组（前身为 JKJR）主导倡导与宣传工作。两者均隶属于交通部。"
+    a: "KEJARA 是 JPJ 的记分制度，于 2017 年 4 月 15 日生效。当违例者缴付传票罚款或罚金时便会计分；累积 20 分可导致吊销驾照，若在五年内被吊销三次则驾照将被撤销。"
+  - q: "AES 摄像头捕捉哪些违规？"
+    a: "AES 系统（现称 AwAS）自动捕捉两项主要违规——超速及闯红灯——通过安装在高风险地点的摄像头进行。"
+  - q: "哪个机构负责马来西亚的道路安全？"
+    a: "成立于 2007 年的马来西亚道路安全研究院（MIROS）负责基于证据的研究，而 JPJ 道路安全组（前称 JKJR）主导倡导与醒觉工作。两者均隶属交通部。"
 
 lang: "zh"
-sourceContentHash: "a567b65c0a91de96"
 masterLanguage: "ms"
 translationStatus: "in-sync"
+sourceContentHash: "681af11f157961d9"
 
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
+reviewed: "2026-08-14"
 reviewDue: 2027-08-03
-version: "0.2"
-verificationNeeded:
-  - "Angka hukuman tepat Seksyen 44 dan Seksyen 45 Akta Pengangkutan Jalan (Pindaan) 2020 (julat denda dan tempoh penjara) perlu disahkan terhadap teks Akta yang diwartakan; kini dirujuk melalui laporan paultan.org."
-  - "Nombor rujukan gazet Kaedah-Kaedah Kenderaan Motor (Mata Demerit) 2017 — sahkan nombor P.U.(A) tepat terhadap Warta Kerajaan (diwartakan sekitar 5 April 2017)."
-  - "Bilangan lokasi kamera AES/AwAS operasi semasa; angka 831 ialah sasaran pelan asal 2012, bukan bilangan operasi terkini."
-  - "Status penjenamaan AES kepada AwAS dan pengaturan pengurusan semasa di bawah JPJ."
-  - "Pelantikan MIROS sebagai Pusat Keselamatan Jalan Raya ASEAN pada 2014 — disahkan melalui carian, tetapi sahkan terhadap sumber rasmi MOT/MIROS."
-  - "Pecahan kemalangan dan kematian mengikut negeri selain jumlah yang disahkan (Selangor, Johor, Kuala Lumpur)."
+publishedBy: "ashton-tan"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-08-01
@@ -61,6 +55,10 @@ revisions:
     date: 2026-08-01
     change: "Correction pass: fixed 2023 death toll to official 6,443, removed unverifiable per-state death and fatal-accident figures, replaced unsourced 2010–2019 motorcyclist split with sourced 2023 figure, softened lede, added primary sources."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
 updated: 2026-08-01
 sources:
@@ -91,6 +89,27 @@ sources:
   - title: "AES locations – the full list of 831 camera spots"
     url: "https://paultan.org/2012/10/08/aes-locations-the-full-list-of-831-camera-spots/"
     publisher: "Paul Tan (paultan.org)"
+  - title: "Laws of Malaysia Act A1618 — Road Transport (Amendment) Act 2020 (gazetted text, ss.44, 45, 45G)"
+    url: "https://www.zulrafique.com.my/ckfinder/userfiles/files/legislation%20update/A1618_%20Road%20Transport%20(Amendment)%20Act%202020%20(02017288xA335E).pdf"
+    publisher: "Percetakan Nasional Malaysia Berhad (Laws of Malaysia)"
+  - title: "Road Transport Act (Amendment) 2020 comes into effect Oct 23"
+    url: "https://www.bernama.com/en/news.php?id=1892454"
+    publisher: "BERNAMA"
+  - title: "Kaedah-Kaedah Pengangkutan Jalan (Mata Demerit) 2017 — P.U.(A) 110/2017 (senarai seksyen)"
+    url: "https://mylaw.my/legislation/kaedah-kaedah-pengangkutan-jalan-mata-demerit-2017/section-2"
+    publisher: "MyLaw.my (legislation database)"
+  - title: "JPJ provides list of 45 AwAS cameras in operation (29 speed, 16 red-light) from 1 Sept 2018"
+    url: "https://paultan.org/2018/09/04/jpj-provides-list-of-45-awas-cameras-in-operation/"
+    publisher: "Paul Tan (paultan.org), citing JPJ list"
+  - title: "Kenyataan Media JPJ: Pemakluman Penggantian Kamera AwAS (8 Ogos 2024)"
+    url: "https://www.jpj.gov.my/pr-penggantian-kamera-awas/"
+    publisher: "Jabatan Pengangkutan Jalan Malaysia (JPJ)"
+  - title: "Sejumlah 598,635 kes kemalangan jalan raya direkodkan pada 2023 (JSPT Bukit Aman) — Selangor 173,129, Johor 87,370, KL 72,701"
+    url: "https://paultan.org/2024/01/02/sejumlah-598-635-kes-kemalangan-jalan-raya-direkodkan-di-seluruh-negara-pada-2023-polis/"
+    publisher: "Paul Tan (paultan.org), citing JSPT Bukit Aman"
+  - title: "PDRM rekod 598,635 kemalangan jalan raya seluruh negara pada tahun lalu"
+    url: "https://berita.rtm.gov.my/nasional/senarai-berita-nasional/senarai-artikel/pdrm-rekod-598-635-kemalangan-jalan-raya-seluruh-negara-pada-tahun-lalu"
+    publisher: "Radio Televisyen Malaysia (RTM)"
 
 entity: "Keselamatan Jalan Raya Malaysia"
 relations:
@@ -101,91 +120,91 @@ related: []
 keywords: ["keselamatan jalan raya", "kemalangan jalan raya Malaysia", "pemanduan mabuk", "AES", "KEJARA", "MIROS", "Akta Pengangkutan Jalan 1987"]
 ---
 
-马来西亚的道路上每天约有 18 人丧生。这一数字使道路成为该国最显著的非自然死亡原因之一，也正是专门调动法律、摄像头与专责机构加以应对的主要原因。
+每一天，马来西亚的道路上约有 18 条生命消逝。这个数字使道路成为该国最显著的非自然死亡原因之一，也是当局动用法律、摄像头与专责机构加以应对的主要原因。
 
 ## 马来西亚道路上有多少人丧生？
 
-问题的规模十分庞大。2023 年全年，武吉阿曼（Bukit Aman）在全国范围内记录了 **598,635 起道路交通事故**。交通部长确认该年共记录 **6,443 起死亡事故**——平均接近每天 18 人死亡。
+问题的规模庞大。在 2023 年全年，武吉阿曼（Bukit Aman）在全国录得 **598,635 宗道路意外**。交通部长证实该年录得 **6,443 起死亡**——平均接近每日 18 起死亡。
 
-这一负担在各州之间分布并不均匀。雪兰莪——车辆最密集的州属——录得最高的事故与死亡数字，其次是柔佛。
+这一负担在各州之间并不均等。雪兰莪——车辆最密集的州属——录得最高的意外与死亡数目，其次是柔佛。
 
-| 州属 | 事故总数（2023 年） |
+| 州属 | 意外总数（2023） |
 | --- | --- |
 | 雪兰莪 | 173,129 |
 | 柔佛 | 87,370 |
 | 吉隆坡 | 72,701 |
 
-*资料来源：武吉阿曼（交通调查及执法组），据 Malay Mail 报道。雪兰莪同时录得最高的死亡数字。*
+*资料来源：武吉阿曼（交通调查及执法组），据《马来邮报》（Malay Mail）报道。雪兰莪同时录得最高的死亡数目。*
 
-最脆弱的群体是摩托车骑士。2023 年，摩托车骑士约占所有道路死亡人数的 **三分之二**（约 4,448 人死亡）。这正是马来西亚众多安全政策特别以两轮车骑士为重点的原因。
+最易受伤害的是摩托车骑士。就 2023 年而言，摩托车骑士约占所有道路死亡的 **三分之二**（约 4,448 起死亡）。这正是马来西亚许多安全政策特别针对两轮使用者的原因。
 
-## 基础法律是什么：安全带、头盔与酒后驾驶？
+## 基本法律有哪些：安全带、头盔与醉驾？
 
-道路安全法律的支柱是 **《1987 年道路交通法令》（Akta Pengangkutan Jalan 1987）**。根据该法令：
+道路安全法律的支柱是 **《1987 年陆路交通法令》**。在其之下：
 
-- 驾驶者与乘客必须佩戴 **安全带**。
-- 摩托车骑士与后座乘客必须佩戴 **头盔**。
-- **酒后驾驶** 属于刑事罪行。
+- 驾驶者与乘客 **必须系上安全带**。
+- 摩托车骑士与后座乘客 **必须戴上头盔**。
+- **醉驾** 是刑事罪行。
 
-这些行为同时也列入 KEJARA 记分制度下会导致记分的违规行为清单（详见下文）。
+以上各项也都列入 KEJARA 制度下会带来记分的违规清单（详见下文）。
 
-酒后驾驶法律通过 **《2020 年道路交通（修正）法令》** 大幅收紧，该法令于 **2020 年 10 月 23 日** 生效。修正案下调了允许的酒精含量上限，并大幅提高了刑罚。
+醉驾法律通过 **《2020 年陆路交通（修正）法令》** 大幅收紧，该法令于 **2020 年 10 月 23 日** 生效。修正案降低了允许的酒精上限，并大幅提高刑罚。
 
-修正后的酒精含量上限：
+修正后的酒精上限：
 
-- **血液：** 从每 100 毫升 80 毫克降至 **50 毫克**。
-- **呼气：** 降至每 100 毫升 **22 微克**。
-- **尿液：** 降至每 100 毫升 **67 毫克**。
+- **血液：** 从每 100ml 80mg 降至 **50mg**。
+- **呼气：** 降至每 100ml **22 微克**。
+- **尿液：** 降至每 100ml **67mg**。
 
-修正后法令下的主要刑罚（数字需对照已宪报颁布的法令正文核实）：
+修正后法令下的主要刑罚：
 
-| 违规行为 | 条文 | 刑罚（初犯） |
+| 罪行 | 参考 | 刑罚（初犯） |
 | --- | --- | --- |
-| 在无法控制车辆的状态下驾驶 | 第 45 条文 | 罚款 1,000–5,000 令吉；监禁最高 2 年；吊销驾照资格至少 2 年 |
-| 酒驾致人 **受伤** | 第 44 条文 | 罚款 30,000–50,000 令吉；监禁 7–10 年 |
-| 酒驾致人 **死亡** | 第 44 条文 | 罚款 50,000–100,000 令吉；监禁最高 15 年；吊销资格至少 10 年 |
+| 在无能力控制车辆的状态下驾驶 | 第 45 条 | 罚款 RM1,000–RM5,000；监禁最高 2 年；吊销驾照资格最低 2 年 |
+| 在酒精影响下驾驶导致 **受伤** | 第 44 条 | 罚款 RM30,000–RM50,000；监禁 7–10 年；吊销资格最低 7 年 |
+| 在酒精影响下驾驶导致 **死亡** | 第 44 条 | 罚款 RM50,000–RM100,000；监禁 10–15 年（强制最低 10 年）；吊销资格最低 10 年 |
 
-*资料来源：《2020 年道路交通（修正）法令》，据 paultan.org 报道。确切数字需对照已宪报颁布的法令正文核实。*
+*资料来源：《2020 年陆路交通（修正）法令》（Laws of Malaysia Act A1618，2020 年 10 月 22 日刊宪），第 44 及 45 条。*
 
-对于致人死亡的罪行，重犯可能被判处更严厉的刑罚。
+对于导致死亡的罪行，重犯可判处更严厉的刑罚。
 
-## AES 摄像头如何执行超速执法？
+## AES 摄像头如何执行速度限制？
 
-人员无法在每个危险地点全天候值守——因此马来西亚转向自动执法。**自动执法系统（AES）** 于 **2012 年 9 月** 开始运作，起初在高风险地点部署少量摄像头。推出时的原定计划是分阶段在全国范围内部署多达 **831 个摄像头地点**（当前运作数量需核实）。
+人力无法时刻驻守每一个危险地点——因此马来西亚转向自动执法。**自动执法系统（AES）** 于 **2012 年 9 月** 开始运作，起初在高风险地点安装少量摄像头。推出时的原定计划是分阶段在全国铺设至 **831 个摄像头地点**——这是 2012 年计划的目标，而非运作数目。JPJ 于 2018 年 9 月 1 日全面接管时所公布的运作组合为 **45 台 AwAS 摄像头**（29 台用于超速、16 台用于红灯）。JPJ 正分阶段以 ANPR 技术摄像头替换旧的 AwAS 单位（JPJ，2024 年 8 月）。
 
-AES 自动抓拍两大主要违规行为：
+AES 自动捕捉两项主要违规：
 
-1. **超速** 超过该地点规定的速度限制。
-2. 在路口 **闯红灯**。
+1. 在该地点 **超过所设速度限制**。
+2. 在交叉路口 **闯红灯**。
 
-该系统后来更名为 **AwAS（Automated Awareness Safety System，自动警示安全系统）**，并纳入 JPJ 管理之下。AwAS 记录的违规行为不仅带来罚单——它还会产生 KEJARA 记分，使摄像头成为更广泛执法链条的一部分。
+该系统后来重新命名为 **AwAS（自动醒觉安全系统，Automated Awareness Safety System）**，并交由 JPJ 管理。AwAS 记录的违规不仅带来传票罚款——也会产生 KEJARA 记分，使摄像头成为更广泛执法链条的一部分。
 
 ## KEJARA 记分制度如何运作？
 
-单纯的罚款容易被遗忘；失去驾照则不然。这正是 **KEJARA** 背后的逻辑——它是 JPJ 的记分制度，根据已宪报颁布的《2017 年汽车（记分）条例》，自 **2017 年 4 月 15 日** 起生效。
+罚款容易被淡忘；失去驾照则不然。这正是 **KEJARA** 背后的逻辑——它是 JPJ 的记分制度，于 **2017 年 4 月 15 日** 在《2017 年陆路交通（记分）条例》（P.U.(A) 110/2017，2017 年 4 月 5 日刊宪）下生效。
 
 其运作方式：
 
-- **只有当** 违规者为所列违规行为缴付罚单或罚款时才计入记分——而非仅仅收到传票。
+- **只有当** 违例者就所列罪行缴付传票罚款或罚金时才计分——而不仅是收到传票。
 - 累积 **20 分** 可触发吊销驾照。
-- 吊销期限逐次递增：**3–6 个月**（第一次）、6–8 个月（第二次）、8–10 个月（第三次），以及 10–12 个月（第四次及以后）。
-- 若在五年内被吊销三次，则 **驾照被撤销**。此后，违规者须从头重新申请驾照。
+- 每次的吊销期递增：**3–6 个月**（第一次）、6–8 个月（第二次）、8–10 个月（第三次）、10–12 个月（第四次及以后）。
+- 若在五年内被吊销三次，**驾照将被撤销**。此后，违例者须从头重新申请驾照。
 
-自 2020 年起，**酒后驾驶已从** KEJARA 制度中移除，因为此类案件现在直接在法庭审理，而非通过罚单解决。
+自 2020 年起，**醉驾罪行已从 KEJARA 制度中剔除**，因为此类案件如今直接在法庭审理，而非通过传票罚款处理。
 
 ## 谁在推动国家道路安全政策？
 
-两大主要机构主导这项工作，均隶属于交通部：
+两个主要机构领导这项工作，两者均隶属交通部：
 
-- **MIROS（马来西亚道路安全研究院）**——成立于 **2007 年**，是道路安全知识与研究中心。MIROS 开展事故分析与道路安全审计，以制定基于证据的干预计划。2014 年，它被任命为 **东盟道路安全中心**。
-- **JPJ 道路安全组**（前身为 JKJR）——主导倡导、教育与宣传活动，并协调与非政府组织及企业界的合作。
+- **MIROS（马来西亚道路安全研究院）**——成立于 **2007 年**，作为道路安全知识与研究中心。MIROS 进行意外分析及道路安全审核，以制定基于证据的干预计划。2014 年，它被委任为 **东盟道路安全中心**。
+- **JPJ 道路安全组**（前称 JKJR）——主导倡导、教育与醒觉运动，并协调与非政府组织及企业界的合作。
 
-这两个机构共同支持 **《马来西亚道路安全计划 2022–2030》（PKJRM）**，与联合国 2021–2030 道路安全行动十年计划相一致。其核心目标明确：**到 2030 年将道路死亡人数减少 50%**，最终目标为零死亡。
+这两个机构支持 **《马来西亚道路安全计划 2022–2030》（PKJRM）**，与联合国 2021–2030 年道路安全行动十年相一致。其主要目标明确：**在 2030 年前将道路死亡人数减少 50%**，最终目标为零死亡。
 
-## 下一步
+## 接下来该怎么做
 
-对道路使用者而言，三项措施能最切实地降低风险：每次都系好安全带或戴上头盔、绝不在饮酒后驾驶，以及遵守所示的速度限制——尤其是在 AES 摄像头地点。
+对于道路使用者而言，有三项行动最能明确降低风险：每次都系上安全带或戴上头盔、切勿在饮酒后驾驶，以及遵守所显示的速度限制——尤其是在 AES 摄像头地点。
 
-如果你收到 AES 传票或交通罚单，请在缴付前通过 JPJ 官方门户网站或应用程序（MyJPJ）查询你的 KEJARA 记分状态，因为正是缴付行为触发了记分计算。有关最新统计数据与摄像头地点，请参阅交通部、MIROS 及 JPJ 官方网站。
+如果你收到 AES 传票或交通罚款，请在缴付前通过 JPJ 官方门户或应用程序（MyJPJ）查看你的 KEJARA 记分状态，因为正是缴付这一动作触发计分。如需最新统计与摄像头地点，请参阅交通部、MIROS 及 JPJ 的官方网站。
 
-计划中的相关文章：《1987 年道路交通法令》完整详解、驾照办理程序，以及作为机构的 MIROS 简介。
+相关规划中的文章：《1987 年陆路交通法令》完整细节、驾照办理程序，以及作为机构的 MIROS 概况。

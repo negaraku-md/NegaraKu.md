@@ -38,14 +38,11 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
+publishedBy: "ashton-tan"
+reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "0.2"
+version: "0.3"
 verificationNeeded:
-  - "Komposisi etnik peribumi yang berpindah akibat Bakun (Kenyah, Kayan, Lahanan, Ukit, Penan) — tidak disahkan oleh sumber yang dipetik."
-  - "Tarikh tepat pengumuman moratorium Baram (draf dilembutkan kepada '2015'; Mongabay menyebut 'late 2015')."
-  - "Kemajuan pembinaan dan tahun siap Baleh yang terkini — angka 33% RECODA bertarikh November 2022 dengan sasaran 2027, manakala Sarawak Energy menyenaraikan sasaran sekitar hujung 2030."
-  - "Struktur pemilikan/pengendalian Bakun dan sebarang pemindahan pemilikan penuh kepada Sarawak Energy (tahun tidak disahkan sumber)."
   - "Tahun penugasan Temengor dan loji lata Sungai Perak yang lain — halaman TNB yang dipetik tidak menyatakan sebarang tahun."
   - "Sama ada tahap sensitiviti wajar dinaikkan melebihi 'none' memandangkan fokus pada penempatan semula masyarakat peribumi."
 revisions:
@@ -57,8 +54,12 @@ revisions:
     date: 2026-08-01
     change: "Correction pass: sourced Bakun ~10,000 figure to River Resource Hub, removed unsourced dates/details (Temengor 1979, 2017 ownership, SUHAKAM/Bar Council, 37 km, 30 July 2015, 15 longhouses), flagged stale Baleh 33%/2027-vs-2030."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-08-01
+updated: 2026-08-14
 sources:
   - title: "Power Generation"
     url: "https://www.sarawakenergy.com/what-we-do/power-generation"
@@ -87,6 +88,24 @@ sources:
   - title: "Controversial dam officially canceled in Borneo after indigenous protests"
     url: "https://news.mongabay.com/2016/03/controversial-dam-officially-canceled-in-borneo-after-indigenous-protests/"
     publisher: "Mongabay"
+  - title: "Sarawak Energy Completes Acquisition Of Bakun HEP From Federal Government"
+    url: "https://www.sarawakenergy.com/media-info/media-releases/2017/sarawak-energy-completes-acquisition-of-bakun-hep-from-federal-government"
+    publisher: "Sarawak Energy"
+  - title: "Baleh HEP"
+    url: "https://www.sarawakenergy.com/baleh-hep"
+    publisher: "Sarawak Energy"
+  - title: "Baleh HEP To Generate Additional Hydropower Capacity By 2030 For Sarawak"
+    url: "https://www.sarawaktribune.com/baleh-hep-to-generate-additional-hydropower-capacity-by-2030-for-sarawak/"
+    publisher: "Sarawak Tribune"
+  - title: "Malaysia: the 'progress' brought by the Bakun dam in Sarawak"
+    url: "https://www.wrm.org.uy/bulletin-articles/malaysia-the-progress-brought-by-the-bakun-dam-in-sarawak"
+    publisher: "World Rainforest Movement"
+  - title: "The Resettlement of Indigenous People affected by the Bakun Dam"
+    url: "https://riverresourcehub.org/wp-content/uploads/files/attached-files/resettlement_of_indigenous_people_at_bakun.pdf"
+    publisher: "River Resource Hub (International Rivers)"
+  - title: "Sarawak natives win fight to regain land taken for Baram dam"
+    url: "https://www.malaymail.com/news/malaysia/2016/03/22/sarawak-natives-win-fight-to-regain-land-taken-for-baram-dam/1084617"
+    publisher: "Malay Mail"
 
 relations:
   - { rel: "related-to", to: "renewable-energy-malaysia" }
@@ -127,13 +146,13 @@ Perbezaannya jelas dari segi skala. Bakun seorang diri hampir empat kali ganda g
 
 Bakun ialah projek yang menetapkan penanda aras. Terletak di Batang Balui, hulu Sungai Rajang, di Bahagian Kapit, ia sebuah Empangan Batu Berkonkrit Muka (CFRD) yang mencecah ketinggian maksimum 205 meter di atas asas. Takungannya meliputi kira-kira 695 kilometer persegi — takungan terbesar di Malaysia.
 
-Kapasiti terpasangnya 2,520 MW, dengan tenaga tegas kira-kira 1,771 MW bergantung pada permintaan grid. Ditugaskan pada 2011, ia mencapai operasi penuh pada 12 Julai 2014. Loji ini kini dimiliki dan dikendalikan oleh Sarawak Energy menerusi subsidiarinya.
+Kapasiti terpasangnya 2,520 MW, dengan tenaga tegas kira-kira 1,771 MW bergantung pada permintaan grid. Ditugaskan pada 2011, ia mencapai operasi penuh pada 12 Julai 2014. Pada 16 Ogos 2017, Sarawak Energy menyempurnakan pengambilalihan loji ini daripada kerajaan persekutuan dengan nilai RM2.5 bilion; kini ia dimiliki dan dikendalikan oleh Sarawak Energy menerusi subsidiarinya (SEB Power Sdn Bhd, yang memegang Sarawak Hidro Sdn Bhd).
 
 Murum, loji hidro kedua terbesar Sarawak pada 944 MW, menyusul pada 2014 di Daerah Belaga. Bersama Baleh yang sedang dibina, Sarawak Energy menyasarkan lonjakan kapasiti hidro besar melepasi 4,800 MW.
 
 ## Bila Baleh akan siap?
 
-Baleh ialah projek hidro terbesar Sarawak Energy setakat ini pada 1,285 MW, sebuah Empangan Batu Berkonkrit Muka (CFRD). Status siapnya perlu ditafsir dengan berhati-hati kerana sumber memberi angka berbeza: menurut RECODA (laporan bertarikh November 2022), pembinaan telah mencapai 33 peratus dan laporan itu menyasarkan siap menjelang 2027, manakala Sarawak Energy pula menyenaraikan sasaran penugasan sekitar hujung 2030. Angka kemajuan 33% adalah setakat 2022 dan berkemungkinan besar telah berubah; status terkini perlu disemak daripada pengumuman rasmi. Apabila siap, Baleh akan menyambung barisan Batang Ai, Murum dan Bakun, dan menjadikan Sarawak antara pengeluar hidro terbesar di rantau ini.
+Baleh ialah projek hidro terbesar Sarawak Energy setakat ini pada 1,285 MW, sebuah Empangan Batu Berkonkrit Muka (CFRD). Status siapnya perlu ditafsir dengan berhati-hati kerana sumber memberi angka berbeza: menurut RECODA (laporan bertarikh November 2022), pembinaan telah mencapai 33 peratus dan laporan itu menyasarkan siap menjelang 2027. Angka RECODA itu kini lapuk dan telah diganti: Sarawak Energy, sebagai pemaju projek, menyenaraikan sasaran siap menjelang penghujung dekad ini — iaitu suku keempat (Q4) 2030 — sebagai kedudukan rasmi terkini. Angka kemajuan 33% adalah setakat 2022 dan seharusnya diperlakukan sebagai petikan lama yang telah berubah. Apabila siap, Baleh akan menyambung barisan Batang Ai, Murum dan Bakun, dan menjadikan Sarawak antara pengeluar hidro terbesar di rantau ini.
 
 Di Semenanjung, tumpuan lebih kepada memanjangkan hayat aset sedia ada. Pada 2025, TNB memperoleh kelulusan Suruhanjaya Tenaga untuk lanjutan Perjanjian Pembelian Tenaga interim bagi loji Kenyir dari 14 September 2025 hingga 31 Ogos 2030, mengekalkan kapasiti 400 MW pada faktor kapasiti 37.5% sementara Program Lanjutan Hayat Hidro (HLEP) dijalankan.
 
@@ -141,7 +160,7 @@ Di Semenanjung, tumpuan lebih kepada memanjangkan hayat aset sedia ada. Pada 202
 
 Inilah bahagian cerita yang paling sukar. Empangan mega menenggelamkan lembah yang telah didiami masyarakat Orang Ulu turun-temurun.
 
-- **Bakun:** Menurut River Resource Hub (International Rivers), kira-kira 10,000 orang peribumi dipindahkan ke penempatan semula Asap (Sungai Asap) pada 1998. Penduduk kebanyakannya Orang Ulu. Aduan mengenai saiz tanah yang kecil dan pampasan yang tidak menentu berlarutan bertahun-tahun.
+- **Bakun:** Menurut River Resource Hub (International Rivers), kira-kira 10,000 orang peribumi dipindahkan ke penempatan semula Asap (Sungai Asap) pada 1998. Mereka terdiri daripada lima kumpulan Orang Ulu — Kenyah, Kayan, Lahanan, Ukit dan Penan. Aduan mengenai saiz tanah yang kecil dan pampasan yang tidak menentu berlarutan bertahun-tahun.
 - **Murum:** Menurut rekod River Resource Hub (International Rivers), kira-kira 1,500 orang peribumi, kebanyakannya Penan, mula dipindahkan pada Julai 2013. Pada September 2012, lebih 200 orang menyekat pembinaan selama lebih sebulan selepas memperoleh pelan penempatan semula yang bocor, membantah terma pampasan.
 
 Sarawak Energy menyatakan pihaknya membuat usaha rapi untuk berhubung dengan dan menyokong masyarakat Penan dan Kenyah yang terjejas sebelum penempatan semula, termasuk Pelan Tindakan Penempatan Semula, penilaian kesan sosial dan alam sekitar, serta program literasi dan mata pencarian. Namun kritikan bebas berpendapat sokongan itu tidak memadai untuk menggantikan kehilangan tanah adat dan sistem pertanian tradisional.

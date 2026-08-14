@@ -18,11 +18,13 @@ keyTakeaways:
   - "Section 15 of Act 171 provides that all provisions on local government elections 'shall cease to have force or effect', which is the legal basis for the absence of local council elections."
   - "KPKT's Department of Local Government (JKT) reports 151 local authorities — 19 city/city-municipal councils, 40 municipal councils and 92 district councils (figure as-of-dated; official counts vary)."
   - "City status requires a population over 500,000 and annual revenue of at least RM100 million; municipal status requires over 150,000 people and at least RM20 million."
-  - "A city is led by a Datuk Bandar (Mayor) and a municipal or district council by a Yang Dipertua (President); Article 95A of the Constitution sets up a National Council for Local Government to coordinate national policy."
+  - "A city is led by a Datuk Bandar (Mayor) and a municipal or district council by a Yang Dipertua (President); Article 95A of the Constitution sets up a National Council for Local Government — a Minister as chairman, one representative from each state, and no more than ten Federal representatives — to coordinate national policy."
+  - "Act 171 applies only to Peninsular Malaysia (s.1(1)); Sabah runs local government under its Local Government Ordinance 1961 and Sarawak under its Local Authorities Ordinance 1996 (Cap. 20)."
+  - "Assessment rates are governed by Part XV of Act 171: the power to rate is in s.127, the basis (annual or improved value) in s.130, and a statutory cap of 35% of annual value in s.130(2)(a), with rates payable half-yearly under s.133."
 appliesTo: "Residents, ratepayers, students of Malaysian government, journalists and businesses that deal with a city, municipal or district council."
 faq:
   - q: "Are local council elections held in Malaysia?"
-    a: "No. Local government elections were suspended in 1965 during the Confrontation with Indonesia and were never restored; elected councillors' terms were later terminated by the Local Government (Temporary Provisions) Act 1973. Section 15 of the Local Government Act 1976 then provided that all provisions relating to local government elections cease to have effect. Councillors are appointed by the state government."
+    a: "No. Local government elections were suspended on 1 March 1965 by the Emergency (Suspension of Local Government Elections) Regulations 1965 during the Confrontation with Indonesia, and were never restored; elected councillors' terms were later terminated by the Local Government (Temporary Provisions) Act 1973. Section 15 of the Local Government Act 1976 then provided that all provisions relating to local government elections cease to have effect. Councillors are appointed by the state government."
   - q: "What is the difference between a city, municipal and district council?"
     a: "They are the same institution at different sizes. KPKT's criteria set a City Council at a population over 500,000 and annual revenue of at least RM100 million; a Municipal Council at over 150,000 people and at least RM20 million; and a District Council below those thresholds. A city is headed by a Datuk Bandar, a municipal or district council by a Yang Dipertua."
   - q: "Why is local government a state matter and not federal?"
@@ -35,7 +37,7 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-08-14"
 publishedBy: "ashton-tan"
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-08-10
@@ -45,13 +47,11 @@ revisions:
     date: 2026-08-14
     change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
     reviewer: null
-verificationNeeded:
-  - "Exact current total of PBT: KPKT's General FAQ states 151 (19 city / 40 municipal / 92 district), while KPKT's 'Concept of Local Government' page cites 155 (August 2021) and Wikipedia's figures differ. Confirm the latest official count and per-type breakdown from KPKT's current 'Senarai PBT' and treat any figure as as-of-dated."
-  - "Article 95A composition specifics (a Minister as chairman, one representative per state, and up to ten Federal representatives who must not outnumber state representatives) — verify verbatim against the official AGC Federal Constitution text before stating them."
-  - "The precise date and legal instrument of the 1965 election suspension (commonly cited as March 1965 Emergency regulations) should be confirmed against primary Emergency-era gazette sources."
-  - "Sabah and Sarawak administer local government under their own state ordinances rather than Act 171 — confirm the exact ordinance names, numbers and structural differences from a Sabah/Sarawak state source before detailing them."
-  - "Whether the head of a District Council is always titled Yang Dipertua in English, and current practice on political versus civil-servant appointees — verify against current KPKT/state listings."
-  - "Specific revenue mechanics (assessment-rate setting under Act 171's rating provisions, licence fees, government grants) — confirm the exact rating sections and any current rate caps before stating figures."
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
+verificationNeeded: []
 updated: 2026-08-14
 sources:
   - title: "Federal Constitution — Ninth Schedule, List II (State List)"
@@ -75,6 +75,18 @@ sources:
   - title: "Local government elections vital for democracy"
     url: "https://www.isis.org.my/2022/01/03/local-government-elections-vital-for-democracy/"
     publisher: "Institute of Strategic and International Studies (ISIS) Malaysia"
+  - title: "Federal Constitution (Reprint as at 15 October 2020) — Article 95A"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
+    publisher: "Attorney General's Chambers of Malaysia — Laws of Malaysia"
+  - title: "Local Government Act 1976 (Act 171) — full text (s.1, s.2, Part XV ss.127–133)"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20171%20-%20Local%20Government%20Act%201976.pdf"
+    publisher: "Attorney General's Chambers of Malaysia — Laws of Malaysia"
+  - title: "Local Government Ordinance 1961 (State of Sabah)"
+    url: "https://sagc.sabah.gov.my/sites/default/files/law/Local%20Government%20Ordinance%201961.pdf"
+    publisher: "Sabah State Attorney-General's Chambers"
+  - title: "Check and balance with elected councillors"
+    url: "https://www.malaysianbar.org.my/article/news/legal-and-general-news/general-news/check-and-balance-with-elected-councillors"
+    publisher: "The Malaysian Bar"
 entity: "Local government in Malaysia (Pihak Berkuasa Tempatan / PBT)"
 relations: []
 related: []
@@ -87,11 +99,13 @@ The council that collects your rubbish, approves the shophouse next door and bil
 
 The Federal Constitution puts local government on the **State List** — item 4 of List II in the Ninth Schedule. That entry covers "local administration; municipal corporations; local, town and rural board and other local authorities; local government services, local rates, local government elections," everywhere except the Federal Territories of Kuala Lumpur, Labuan and Putrajaya. Because the subject sits on the State List, legal authority over councils rests primarily with the states.
 
-To stop thirteen states from pulling in thirteen directions, **Article 95A** of the Constitution establishes the **National Council for Local Government (Majlis Negara bagi Kerajaan Tempatan)**. Its duty is to formulate, in consultation with the federal and state governments, a national policy "for the promotion, development and control of local government throughout the Federation" — and both the federal and state governments must follow the policy it formulates. At the administrative level, the federal **Ministry of Housing and Local Government (KPKT)**, through its **Department of Local Government (Jabatan Kerajaan Tempatan, JKT)**, studies and proposes amendments to local-government legislation, coordinates administrative and disciplinary policy, issues circulars and guidelines, and processes applications to upgrade a local authority's status or expand its boundaries.
+To stop thirteen states from pulling in thirteen directions, **Article 95A** of the Constitution establishes the **National Council for Local Government (Majlis Negara bagi Kerajaan Tempatan)**. Under Article 95A(1) it consists of a **Minister as chairman**, **one representative from each state** (appointed by the Ruler or Yang di-Pertua Negeri), and such number of **Federal Government representatives as the Federal Government may appoint, capped at ten**. Its duty is to formulate, in consultation with the federal and state governments, a national policy "for the promotion, development and control of local government throughout the Federation" — and both the federal and state governments must follow the policy it formulates. At the administrative level, the federal **Ministry of Housing and Local Government (KPKT)**, through its **Department of Local Government (Jabatan Kerajaan Tempatan, JKT)**, studies and proposes amendments to local-government legislation, coordinates administrative and disciplinary policy, issues circulars and guidelines, and processes applications to upgrade a local authority's status or expand its boundaries.
 
 ## What are the three types of local authority?
 
 The **Local Government Act 1976 (Act 171)** — "An Act to revise and consolidate the laws relating to local government," which received Royal Assent on 18 March 1976 and was gazetted a week later — defines a "local authority" as **any City Council, Municipal Council or District Council**. In relation to the Federal Territory, the "local authority" is instead the Commissioner of the City of Kuala Lumpur appointed under the Federal Capital Act 1960.
+
+One limit is built into the Act itself: **Section 1(1) states that Act 171 "shall apply only to Peninsular Malaysia."** East Malaysia runs local government under its own state laws — **Sabah** under the **Local Government Ordinance 1961** (Sabah No. 11 of 1961) and **Sarawak** under the **Local Authorities Ordinance 1996** (Sarawak Chapter 20) — so the tier names and thresholds below describe the Peninsular system.
 
 The three types are the same kind of institution at different sizes. A local authority is sorted into a tier according to how many people it serves and how much revenue it raises, and it can be upgraded as a district grows into a town and a town into a city.
 
@@ -107,7 +121,7 @@ Those population and revenue thresholds are set by KPKT's Department of Local Go
 
 Each council is led by a **Datuk Bandar** (Mayor) if it is a city, or a **Yang Dipertua** (President) if it is a municipal or district council, supported by appointed **councillors** and a permanent staff of officers. The critical point is how those councillors get their seats: they are **appointed by the state government**, not elected.
 
-That was not always the case. Malaysia held local council elections until **1965**, when they were suspended during the **Confrontation (*Konfrontasi*) with Indonesia**. They were never restored. Elected councillors' terms were subsequently terminated by the **Local Government (Temporary Provisions) Act 1973**, after which state-appointed boards and councillors took over. The suspension was then locked in by the Local Government Act 1976 itself: **Section 15(1)** provides that, "notwithstanding anything to the contrary contained in any written law, all provisions relating to local government elections shall cease to have force or effect," and Section 15(2) provided that every councillor holding office immediately before the Act commenced would forthwith cease to hold office.
+That was not always the case. Malaysia held local council elections until **1965**, when they were suspended by the **Emergency (Suspension of Local Government Elections) Regulations 1965**, made on **1 March 1965** during the **Confrontation (*Konfrontasi*) with Indonesia**. They were never restored. Elected councillors' terms were subsequently terminated by the **Local Government (Temporary Provisions) Act 1973**, after which state-appointed boards and councillors took over. The suspension was then locked in by the Local Government Act 1976 itself: **Section 15(1)** provides that, "notwithstanding anything to the contrary contained in any written law, all provisions relating to local government elections shall cease to have force or effect," and Section 15(2) provided that every councillor holding office immediately before the Act commenced would forthwith cease to hold office.
 
 This is the origin of Malaysia's long-running **"third vote" debate** — the argument, pressed by civil-society groups and policy institutes, that restoring elected local councils would deepen democratic accountability at the level of government residents deal with most. For now, the third vote does not exist, and accountability for a council's performance runs upward to the state government that appointed it, not outward to the ratepayers it serves.
 
@@ -119,7 +133,7 @@ A second cluster of powers, in the Act's part on **food, markets, sanitation and
 
 ## How are councils funded?
 
-The workhorse of council finance is the **assessment rate** (*cukai taksiran*) — a charge levied on the value of holdings (property) within the council's area, and the main own-source revenue for most PBT. Councils supplement it with **licence fees** and other charges. That is why your council's two most visible touchpoints with you as a resident are the assessment bill and the licensing counter: together they fund the services above. (The exact rating sections, rate caps and grant mechanics should be checked against the current statute before relying on specific figures.)
+The workhorse of council finance is the **assessment rate** (*cukai taksiran*) — a charge levied on the value of holdings (property) within the council's area, and the main own-source revenue for most PBT. The rating machinery sits in **Part XV (Rating and Valuation)** of Act 171: **Section 127** gives a council the power to impose rates; **Section 130** provides that a rate is assessed upon either the **annual value** or the **improved value** of holdings, as the State Authority determines; and **Section 130(2)(a)** caps a rate at **35% of the annual value**. Rates are payable **half-yearly in advance** (in January and July) under **Section 133**. Councils supplement rate income with **licence fees** and other charges. That is why your council's two most visible touchpoints with you as a resident are the assessment bill and the licensing counter: together they fund the services above.
 
 ## The Federal Territories exception
 

@@ -5,48 +5,45 @@ seoTitle: "Malaysia Hydropower: Kenyir, Bakun, Murum & Baleh"
 slug: "hydropower-malaysia"
 category: "energy"
 subcategory: ["hydropower"]
-summary: "Hydropower supplies the bulk of Malaysia's renewable energy, but the story splits in two: mid-sized dams in the Peninsula and Sarawak-driven mega-dams such as Bakun, Murum and Baleh, alongside debates over the environment and resettlement."
+summary: "Hydropower supplies the bulk of Malaysia's renewable energy, but the story splits in two: mid-sized dams in the Peninsula and the mega-dams that drive Sarawak such as Bakun, Murum and Baleh, together with the environmental and resettlement debates that surround them."
 
 tier: "2"
 mode: "narrative"
 contentType: "guide"
 sensitivity: "none"
 
-answer: "Malaysia has two very different hydropower systems. In the Peninsula, Tenaga Nasional Berhad (TNB) runs mid-sized plants such as Kenyir (400 MW) and the Sungai Perak cascade (including Temengor). In Sarawak, Sarawak Energy drives the mega-dams — Bakun (2,520 MW), Murum (944 MW) and Batang Ai (94 MW) — with Baleh (1,285 MW) under construction. These mega-dams generate large-scale renewable energy but have triggered a long-running debate over the resettlement of Orang Ulu communities and environmental impacts."
+answer: "Malaysia has two very different hydropower systems. In the Peninsula, Tenaga Nasional Berhad (TNB) operates mid-sized plants such as Kenyir (400 MW) and the Sungai Perak cascade (including Temengor). In Sarawak, Sarawak Energy drives the mega-dams — Bakun (2,520 MW), Murum (944 MW) and Batang Ai (94 MW) — with Baleh (1,285 MW) under construction. These mega-dams generate large-scale renewable energy but have triggered prolonged debate over the resettlement of Orang Ulu communities and environmental impact."
 keyTakeaways:
-  - "Bakun (2,520 MW) on the Balui River, Kapit is the largest power generation plant in Sarawak, and its reservoir is the largest reservoir in Malaysia."
-  - "Sarawak's existing large-hydro capacity totals 3,558 MW; Baleh (1,285 MW) is still under construction and will push this past 4,800 MW once complete."
+  - "Bakun (2,520 MW) on the Balui River, Kapit is the largest power plant in Sarawak and its reservoir is the largest in Malaysia."
+  - "Sarawak's total existing large-hydro capacity is 3,558 MW; Baleh (1,285 MW) is still under construction and will push it beyond 4,800 MW once complete."
   - "In the Peninsula, Kenyir (400 MW) and the Sungai Perak cascade (Temengor and five other plants, 649.1 MW combined) are operated by TNB."
-  - "The resettlement of indigenous communities — roughly 10,000 people for Bakun and ~1,500 for Murum — remains the most contentious issue in Sarawak's dam development."
-  - "The Baram Dam was cancelled in 2016 after indigenous protests, showing the limits of public acceptance of mega-dams."
-appliesTo: "Students, energy policy researchers, renewable energy investors, and anyone who wants to understand Malaysia's hydropower sector and its controversies."
+  - "The resettlement of indigenous communities — about 10,000 people for Bakun and ~1,500 for Murum — remains the most contentious issue in Sarawak dam development."
+  - "The Baram dam was cancelled in 2016 following indigenous protests, showing the limits of public acceptance for mega-dams."
+appliesTo: "Students, energy policy researchers, renewable energy investors, and anyone seeking to understand Malaysia's hydropower sector and its controversies."
 
 faq:
   - q: "Which is the largest hydro dam in Malaysia?"
-    a: "The Bakun Dam in Sarawak, with an installed capacity of 2,520 MW, is the largest hydroelectric plant in Malaysia. It was commissioned in 2011 and reached full operation on 12 July 2014. Its reservoir is also the largest reservoir or lake in Malaysia."
+    a: "The Bakun dam in Sarawak, with an installed capacity of 2,520 MW, is the largest hydroelectric plant in Malaysia. It was commissioned in 2011 and reached full operation on 12 July 2014. Its reservoir is also the largest reservoir or lake in Malaysia."
   - q: "What is the difference between the Peninsula and Sarawak hydro systems?"
-    a: "The Peninsula relies on TNB-owned mid-sized plants such as Kenyir (400 MW) and the Sungai Perak cascade. Sarawak, meanwhile, drives Sarawak Energy-owned mega-dams — Bakun, Murum and Baleh — to supply energy-intensive industries under the Sarawak Corridor of Renewable Energy (SCORE)."
-  - q: "Did indigenous communities relocate because of these dams?"
-    a: "Yes. According to the River Resource Hub (International Rivers), roughly 10,000 indigenous people were relocated to the Asap (Sungai Asap) resettlement following Bakun, while Murum displaced around 1,500 Penan and Kenyah people beginning in 2013. Issues of land compensation and livelihoods remain contested."
+    a: "The Peninsula relies on mid-sized TNB-owned plants such as Kenyir (400 MW) and the Sungai Perak cascade. Sarawak, by contrast, drives Sarawak Energy-owned mega-dams — Bakun, Murum and Baleh — to supply energy-intensive industries under the Sarawak Corridor of Renewable Energy (SCORE)."
+  - q: "Were indigenous communities displaced by these dams?"
+    a: "Yes. According to the River Resource Hub (International Rivers), about 10,000 indigenous people were relocated to the Asap (Sungai Asap) resettlement following Bakun, while Murum displaced about 1,500 Penan and Kenyah people from 2013. Issues of land compensation and livelihoods remain disputed."
   - q: "Did all of Sarawak's mega-dams go ahead?"
-    a: "No. The Baram Dam, expected to submerge 412 square kilometres and displace ~20,000 people, was suspended through a moratorium in 2015 and officially cancelled in 2016 after sustained indigenous protests."
+    a: "No. The Baram dam, which was expected to flood 412 sq km and displace ~20,000 people, was suspended through a moratorium in 2015 and officially cancelled in 2016 following sustained indigenous protests."
 
 lang: "en"
-sourceContentHash: "385b9eeb39a882e1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
+sourceContentHash: "3900760aacdbc30f"
 
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
+publishedBy: "ashton-tan"
+reviewed: "2026-08-14"
 reviewDue: 2027-08-03
-version: "0.2"
+version: "0.3"
 verificationNeeded:
-  - "Komposisi etnik peribumi yang berpindah akibat Bakun (Kenyah, Kayan, Lahanan, Ukit, Penan) — tidak disahkan oleh sumber yang dipetik."
-  - "Tarikh tepat pengumuman moratorium Baram (draf dilembutkan kepada '2015'; Mongabay menyebut 'late 2015')."
-  - "Kemajuan pembinaan dan tahun siap Baleh yang terkini — angka 33% RECODA bertarikh November 2022 dengan sasaran 2027, manakala Sarawak Energy menyenaraikan sasaran sekitar hujung 2030."
-  - "Struktur pemilikan/pengendalian Bakun dan sebarang pemindahan pemilikan penuh kepada Sarawak Energy (tahun tidak disahkan sumber)."
   - "Tahun penugasan Temengor dan loji lata Sungai Perak yang lain — halaman TNB yang dipetik tidak menyatakan sebarang tahun."
   - "Sama ada tahap sensitiviti wajar dinaikkan melebihi 'none' memandangkan fokus pada penempatan semula masyarakat peribumi."
 revisions:
@@ -58,8 +55,12 @@ revisions:
     date: 2026-08-01
     change: "Correction pass: sourced Bakun ~10,000 figure to River Resource Hub, removed unsourced dates/details (Temengor 1979, 2017 ownership, SUHAKAM/Bar Council, 37 km, 30 July 2015, 15 longhouses), flagged stale Baleh 33%/2027-vs-2030."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-08-01
+updated: 2026-08-14
 sources:
   - title: "Power Generation"
     url: "https://www.sarawakenergy.com/what-we-do/power-generation"
@@ -88,6 +89,24 @@ sources:
   - title: "Controversial dam officially canceled in Borneo after indigenous protests"
     url: "https://news.mongabay.com/2016/03/controversial-dam-officially-canceled-in-borneo-after-indigenous-protests/"
     publisher: "Mongabay"
+  - title: "Sarawak Energy Completes Acquisition Of Bakun HEP From Federal Government"
+    url: "https://www.sarawakenergy.com/media-info/media-releases/2017/sarawak-energy-completes-acquisition-of-bakun-hep-from-federal-government"
+    publisher: "Sarawak Energy"
+  - title: "Baleh HEP"
+    url: "https://www.sarawakenergy.com/baleh-hep"
+    publisher: "Sarawak Energy"
+  - title: "Baleh HEP To Generate Additional Hydropower Capacity By 2030 For Sarawak"
+    url: "https://www.sarawaktribune.com/baleh-hep-to-generate-additional-hydropower-capacity-by-2030-for-sarawak/"
+    publisher: "Sarawak Tribune"
+  - title: "Malaysia: the 'progress' brought by the Bakun dam in Sarawak"
+    url: "https://www.wrm.org.uy/bulletin-articles/malaysia-the-progress-brought-by-the-bakun-dam-in-sarawak"
+    publisher: "World Rainforest Movement"
+  - title: "The Resettlement of Indigenous People affected by the Bakun Dam"
+    url: "https://riverresourcehub.org/wp-content/uploads/files/attached-files/resettlement_of_indigenous_people_at_bakun.pdf"
+    publisher: "River Resource Hub (International Rivers)"
+  - title: "Sarawak natives win fight to regain land taken for Baram dam"
+    url: "https://www.malaymail.com/news/malaysia/2016/03/22/sarawak-natives-win-fight-to-regain-land-taken-for-baram-dam/1084617"
+    publisher: "Malay Mail"
 
 relations:
   - { rel: "related-to", to: "renewable-energy-malaysia" }
@@ -97,21 +116,21 @@ related: ["tenaga-nasional"]
 keywords: ["hidrokuasa", "empangan Bakun", "Murum", "Baleh", "Kenyir", "Temengor", "Sarawak Energy", "tenaga boleh baharu", "hydropower Malaysia"]
 ---
 
-Water flowing down from Borneo's rainforest ranges now spins turbines that supply an aluminium smelter — and that is the core of Malaysia's renewable energy strategy. Yet the road to get there is marked by mega-dams, lakes hundreds of square kilometres wide, and thousands of indigenous families forced to relocate.
+Water flowing down from Borneo's rainforest ranges now spins turbines that power aluminium smelters — and that is the core of Malaysia's renewable energy strategy. But the road to get there is marked by mega-dams, lakes spanning hundreds of square kilometres, and thousands of indigenous families forced to relocate.
 
-Hydropower is Malaysia's largest source of renewable energy, but it is not a single story. It is two separate systems that grew according to their own geography: mid-sized plants in the Peninsula, and the Sarawak-driven mega-dams.
+Hydropower is Malaysia's largest source of renewable energy, but it is not a single story. It is two separate systems that developed according to their own geographies: mid-sized plants in the Peninsula, and the mega-dams that drive Sarawak.
 
 ## Why did Sarawak become the heart of Malaysia's hydropower?
 
-Sarawak has large, fast-flowing rivers, heavy rain year-round, and steep valleys suited to tall dams. The state government has harnessed this geography through the Sarawak Corridor of Renewable Energy (SCORE), which uses cheap hydro power to attract energy-intensive industries such as aluminium and silicon smelting to the Samalaju Industrial Park.
+Sarawak has large, fast-flowing rivers, heavy rainfall year-round, and steep valleys suited to high dams. The state government has harnessed this geography through the Sarawak Corridor of Renewable Energy (SCORE), which uses cheap hydropower to attract energy-intensive industries such as aluminium and silicon smelting to the Samalaju Industrial Park.
 
-According to Sarawak Energy, the eight main power stations on the Sarawak Grid have a capacity of 4,640 MW, and total available capacity across the state is around 5,898 MW. The backbone is large hydro — 3,558 MW existing — with Bakun alone contributing the majority.
+According to Sarawak Energy, the eight main power stations on the Sarawak Grid have a capacity of 4,640 MW, and the state's total available capacity is around 5,898 MW. Its backbone is large hydro — 3,558 MW existing — with Bakun alone contributing the majority.
 
-In the Peninsula, meanwhile, TNB operates smaller and older hydro plants, built mainly for grid stability, flood control and peak demand, rather than for mega-scale industry.
+In the Peninsula, by contrast, TNB operates smaller and older hydro plants, built primarily for grid stability, flood control and peak demand rather than for mega-scale industry.
 
 ## What is the difference between the Peninsula and Sarawak hydro systems?
 
-The table below compares the main hydroelectric plants in both regions:
+The table below compares the main hydroelectric plants in the two regions:
 
 | Plant | River / Location | Capacity (MW) | Commissioned | Region / Operator |
 |------|-----------------|---------------|------------|----------------------|
@@ -122,39 +141,39 @@ The table below compares the main hydroelectric plants in both regions:
 | Kenyir (Sultan Mahmud) | Terengganu River | 400 | — | Peninsula / TNB |
 | Sungai Perak cascade (Temengor, Bersia, Kenering, Chenderoh, Piah) | Perak River, Perak | 649.1 (combined) | — | Peninsula / TNB |
 
-The difference is clear in terms of scale. Bakun alone is almost four times the combined total of the entire Sungai Perak cascade. The Peninsula system is spread across many mid-sized plants supporting a more densely populated grid, while Sarawak concentrates large capacity in a few giant dams in the interior.
+The difference in scale is stark. Bakun alone is nearly four times the entire Sungai Perak cascade combined. The Peninsula system is spread across many mid-sized plants supporting a more densely populated grid, while Sarawak concentrates large capacity in a few giant dams in the interior.
 
 ## Bakun: how big is this project?
 
-Bakun is the project that set the benchmark. Located on Batang Balui, the upper reaches of the Rajang River, in Kapit Division, it is a Concrete-Faced Rockfill Dam (CFRD) reaching a maximum height of 205 metres above its foundation. Its reservoir covers about 695 square kilometres — the largest reservoir in Malaysia.
+Bakun is the benchmark-setting project. Located on the Batang Balui, upstream of the Rajang River, in Kapit Division, it is a Concrete Face Rockfill Dam (CFRD) reaching a maximum height of 205 metres above the foundation. Its reservoir covers about 695 square kilometres — the largest reservoir in Malaysia.
 
-Its installed capacity is 2,520 MW, with firm energy of around 1,771 MW depending on grid demand. Commissioned in 2011, it reached full operation on 12 July 2014. The plant is now owned and operated by Sarawak Energy through its subsidiary.
+Its installed capacity is 2,520 MW, with firm energy of about 1,771 MW depending on grid demand. Commissioned in 2011, it reached full operation on 12 July 2014. On 16 August 2017, Sarawak Energy completed the acquisition of the plant from the federal government at a value of RM2.5 billion; it is now owned and operated by Sarawak Energy through its subsidiary (SEB Power Sdn Bhd, which holds Sarawak Hidro Sdn Bhd).
 
-Murum, Sarawak's second-largest hydro plant at 944 MW, followed in 2014 in Belaga District. Together with Baleh, currently under construction, Sarawak Energy is targeting a surge in large-hydro capacity beyond 4,800 MW.
+Murum, Sarawak's second-largest hydro plant at 944 MW, followed in 2014 in Belaga District. Together with Baleh under construction, Sarawak Energy is targeting a surge in large-hydro capacity beyond 4,800 MW.
 
 ## When will Baleh be completed?
 
-Baleh is Sarawak Energy's largest hydro project so far at 1,285 MW, a Concrete-Faced Rockfill Dam (CFRD). Its completion status must be interpreted with care because sources give different figures: according to RECODA (a report dated November 2022), construction had reached 33 percent and the report targeted completion by 2027, while Sarawak Energy lists a commissioning target of around the end of 2030. The 33% progress figure is as of 2022 and has most likely changed; the latest status should be checked against official announcements. Once complete, Baleh will join the line-up of Batang Ai, Murum and Bakun, and make Sarawak one of the largest hydro producers in the region.
+Baleh is Sarawak Energy's largest hydro project to date at 1,285 MW, a Concrete Face Rockfill Dam (CFRD). Its completion status must be interpreted with care because sources give different figures: according to RECODA (a report dated November 2022), construction had reached 33 percent and the report targeted completion by 2027. That RECODA figure is now outdated and has been superseded: Sarawak Energy, as the project developer, lists a completion target by the end of this decade — that is, the fourth quarter (Q4) of 2030 — as its latest official position. The 33% progress figure is as of 2022 and should be treated as an old snapshot that has since changed. Once complete, Baleh will join the ranks of Batang Ai, Murum and Bakun, and make Sarawak among the largest hydro producers in the region.
 
 In the Peninsula, the focus is more on extending the life of existing assets. In 2025, TNB obtained Energy Commission approval for an extension of the interim Power Purchase Agreement for the Kenyir plant from 14 September 2025 to 31 August 2030, maintaining a capacity of 400 MW at a capacity factor of 37.5% while the Hydro Life Extension Programme (HLEP) is carried out.
 
 ## How many people had to relocate?
 
-This is the hardest part of the story. The mega-dams submerge valleys that Orang Ulu communities have inhabited for generations.
+This is the hardest part of the story. The mega-dams flooded valleys that Orang Ulu communities had inhabited for generations.
 
-- **Bakun:** According to the River Resource Hub (International Rivers), roughly 10,000 indigenous people were relocated to the Asap (Sungai Asap) resettlement in 1998. The residents are mostly Orang Ulu. Complaints about small land plots and uncertain compensation dragged on for years.
-- **Murum:** According to River Resource Hub (International Rivers) records, roughly 1,500 indigenous people, mostly Penan, began to be relocated in July 2013. In September 2012, more than 200 people blockaded construction for over a month after obtaining a leaked resettlement plan, protesting the compensation terms.
+- **Bakun:** According to the River Resource Hub (International Rivers), about 10,000 indigenous people were relocated to the Asap (Sungai Asap) resettlement in 1998. They comprised five Orang Ulu groups — Kenyah, Kayan, Lahanan, Ukit and Penan. Complaints about small land sizes and uncertain compensation persisted for years.
+- **Murum:** According to River Resource Hub (International Rivers) records, about 1,500 indigenous people, mostly Penan, began to be relocated in July 2013. In September 2012, more than 200 people blockaded construction for over a month after obtaining a leaked resettlement plan, protesting the compensation terms.
 
-Sarawak Energy states that it made careful efforts to engage with and support the affected Penan and Kenyah communities before resettlement, including a Resettlement Action Plan, social and environmental impact assessments, and literacy and livelihood programmes. However, independent critics argue that this support was inadequate to replace the loss of customary land and traditional farming systems.
+Sarawak Energy states that it made careful efforts to engage with and support the affected Penan and Kenyah communities before resettlement, including a Resettlement Action Plan, social and environmental impact assessments, and literacy and livelihood programmes. Independent critics, however, argue that this support was inadequate to replace the loss of customary land and traditional farming systems.
 
 ## Did all the mega-dams go ahead?
 
-No — and this is proof that public acceptance has its limits. The Baram Dam, planned on the Baram River, was expected to submerge about 412 square kilometres of customary land and displace around 20,000 people from 30 villages.
+No — and this is proof that public acceptance has its limits. The Baram dam, planned on the Baram River, was expected to flood about 412 square kilometres of customary land and displace around 20,000 people from 30 villages.
 
-After sustained indigenous protests, led by the Kenyah, Kayan and Penan communities, the Sarawak government announced a moratorium in 2015. According to Mongabay, the project's cancellation was reported at the end of 2015 and the gazette proclaiming the land acquisition was officially rescinded in March 2016 — returning the land to the residents. This event is often cited as a landmark victory for the grassroots movement in Borneo.
+After sustained indigenous protests, led by the Kenyah, Kayan and Penan communities, the Sarawak government announced a moratorium in 2015. According to Mongabay, the cancellation of the project was reported at the end of 2015 and the gazette proclaiming the land acquisition was officially revoked in March 2016 — returning the land to the residents. This event is often cited as a key victory for the grassroots movement in Borneo.
 
 ## What's next
 
-The future of Malaysia's hydropower revolves around two different directions. In the Peninsula, the main agenda is extending the life of existing plants — such as Kenyir through the HLEP — and smaller new projects to support the country's renewable energy targets. In Sarawak, Baleh will determine whether the mega-dam model can be completed on schedule while avoiding the controversies that dogged Bakun and Murum.
+The future of Malaysia's hydropower revolves around two different directions. In the Peninsula, the main agenda is extending the life of existing plants — such as Kenyir through the HLEP — and smaller new projects to support the country's renewable energy targets. In Sarawak, Baleh will determine whether the mega-dam model can be completed on schedule while avoiding the controversies that plagued Bakun and Murum.
 
-For readers who want to delve deeper into this topic, useful next steps include understanding the role of hydro in national renewable energy targets, comparing the cost of hydro with solar and other energy, and tracking how customary land rights and environmental impact assessments continue to shape project decisions. Watch for official announcements from Sarawak Energy, RECODA and the Energy Commission for the latest project figures and status.
+For readers who want to dig deeper into this topic, useful next steps include understanding the role of hydro in national renewable energy targets, comparing the cost of hydro with solar and other energy sources, and tracking how customary land rights and environmental impact assessments continue to shape project decisions. Watch for official announcements from Sarawak Energy, RECODA and the Energy Commission for the latest project figures and status.

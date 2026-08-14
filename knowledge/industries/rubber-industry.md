@@ -40,16 +40,10 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
+reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "0.2"
-verificationNeeded:
-  - "Whether Malaysia is a net importer of natural rubber and the volume imported in 2024. This is inferred from the ~1.06 million-tonne total-accounted figure versus 386,512 tonnes produced; confirm against DOSM / MRB trade statistics."
-  - "Exact meaning and scope of the '1.06 million tonnes' total natural-rubber figure attributed to the February 2025 parliamentary answer (the Bernama source notes it spans both domestic consumption and exports)."
-  - "Current nitrile-versus-natural-rubber-latex mix in Malaysian glove output, and individual manufacturers' product profiles (e.g. Hartalega as a nitrile maker) — no cited source supports the mix shift."
-  - "Past forced-labour / import scrutiny of major Malaysian glove makers (reportedly US CBP Withhold Release Orders on Top Glove and Supermax) — confirm dates, scope and current status; currently uncited."
-  - "Global rubber-glove market shares (~45% Malaysia, ~28% China) — confirm the underlying MARGMA / industry source and reference year."
-  - "December 2024 natural-rubber export destination shares (China 49.0%, Germany 12.9%, UAE 7.3%, US 3.7%, Portugal 3.3%) against the primary DOSM release."
+version: "0.3"
+verificationNeeded: []
 revisions:
   - version: "0.1"
     date: 2026-07-28
@@ -59,6 +53,10 @@ revisions:
     date: 2026-07-28
     change: "Correction pass: fixed MARGMA membership wording (18 members in 1991, registered 28 June 1989), softened uncited import/nitrile/forced-labour claims and tied hard figures to cited sources, added verificationNeeded."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
 updated: 2026-07-28
 sources:
@@ -83,6 +81,24 @@ sources:
   - title: "Background — MARGMA"
     url: "https://margma.com.my/background/"
     publisher: "Malaysian Rubber Glove Manufacturers Association (MARGMA)"
+  - title: "Heartening rubber production figures for Malaysia in 2024 (ANRPC: production 386,400 t, imports 1.03M t, exports 577,214 t)"
+    url: "https://irainfo.org/News/Detail/110"
+    publisher: "International Rubber Association / ANRPC"
+  - title: "Malaysia leads in innovative production of rubber gloves — MARGMA (Malaysia ~45%, China ~28% global market share, 2024)"
+    url: "https://www.mida.gov.my/mida-news/malaysia-leads-in-innovative-production-of-rubber-gloves-margma/"
+    publisher: "Malaysian Investment Development Authority (MIDA) / MARGMA"
+  - title: "Malaysia Rubber Gloves Market — material segmentation (synthetic ~65% vs natural ~35% of exports; Hartalega nitrile origin)"
+    url: "https://www.grandviewresearch.com/horizon/outlook/rubber-gloves-market/malaysia"
+    publisher: "Grand View Research"
+  - title: "CBP Issues Forced Labor Finding on Top Glove Corporation Bhd. (WRO 15 Jul 2020; Finding 29 Mar 2021)"
+    url: "https://www.cbp.gov/newsroom/national-media-release/cbp-issues-forced-labor-finding-top-glove-corporation-bhd"
+    publisher: "U.S. Customs and Border Protection"
+  - title: "Example in Action: Top Glove WRO and Subsequent Modification (Finding modified 10 Sep 2021)"
+    url: "https://www.dol.gov/agencies/ilab/sourcingstrong/steps-to-a-social-compliance-system/step-6-remediate-violations/example-in-action-top-glove-wro-and-subsequent-modification"
+    publisher: "U.S. Department of Labor (ILAB)"
+  - title: "CBP modifies Withhold Release Order against Supermax Corporation Bhd. and its subsidiaries (WRO 21 Oct 2021; modified Sep 2023)"
+    url: "https://www.cbp.gov/newsroom/announcements/cbp-modifies-withhold-release-order-against-supermax-corporation-bhd-and-its"
+    publisher: "U.S. Customs and Border Protection"
 
 entity: "Malaysian Rubber Industry"
 relations:
@@ -128,7 +144,7 @@ Natural rubber leaves Malaysia mostly as an industrial input for other countries
 - **United States** — 3.7%
 - **Portugal** — 3.3%
 
-But raw exports are only half the picture. Malaysia's manufacturing base works through far more natural rubber than its estates and smallholdings grow. The same February 2025 parliamentary answer that reported 386,512 tonnes produced in 2024 also accounted for roughly **1.06 million tonnes** of natural rubber in total — a figure that spans both domestic consumption and exports — of which **215,816 tonnes** went to local downstream use. The gap between what is grown and what is accounted for points to Malaysia's reliance on imported rubber to feed its factories, though the precise import volumes should be confirmed against trade statistics. Malaysia's competitive edge is not the plantation; it is the processing and product line that comes after it.
+But raw exports are only half the picture. Malaysia's manufacturing base works through far more natural rubber than its estates and smallholdings grow. The same February 2025 parliamentary answer that reported 386,512 tonnes produced in 2024 also accounted for roughly **1.06 million tonnes** of natural rubber in total — a figure that spans both domestic consumption and exports — of which **215,816 tonnes** went to local downstream use. Malaysia is in fact a large net importer of natural rubber: it imported about **1.03 million tonnes** in 2024 (down 2.5% from 2023) to feed its factories, according to ANRPC data — more than double what it grew. Malaysia's competitive edge is not the plantation; it is the processing and product line that comes after it.
 
 ## Why is Malaysia the world's glove capital?
 
@@ -136,7 +152,7 @@ Because it moved downstream early and stayed there. Malaysia makes roughly **45%
 
 The glove sector was projected to earn around **RM12.4 billion** in export revenue in 2024, up from **RM11.8 billion** in 2023. In the first half of 2024 alone, glove trade surged to **RM6.8 billion**, up from RM5.8 billion in the same period a year earlier — a recovery after the post-pandemic glut that had crushed prices and profits.
 
-Real examples anchor the scale. The listed giants — Top Glove, Hartalega, Kossan and Supermax — are household names on Bursa Malaysia and household suppliers to hospitals worldwide. Over the past two decades the sector's product mix has broadly shifted from natural-rubber latex toward synthetic nitrile gloves — a widely reported industry trend that helps explain why Malaysia's glove output no longer depends on its own rubber trees.
+Real examples anchor the scale. The listed giants — Top Glove, Hartalega, Kossan and Supermax — are household names on Bursa Malaysia and household suppliers to hospitals worldwide. Over the past two decades the sector's product mix has shifted decisively from natural-rubber latex toward synthetic nitrile gloves — a change driven in part by Hartalega, which invented the world's first lightweight nitrile examination glove in 2005. Synthetic (nitrile) gloves now make up roughly **65%** of Malaysian glove export volume against about **35%** for natural-rubber gloves, which helps explain why Malaysia's glove output no longer depends on its own rubber trees.
 
 Geopolitics now shapes the order book. When the United States moves to raise tariffs on Chinese-made gloves, analysts expect buyers to shift to Malaysian suppliers — one reason MARGMA frames US-China trade friction as an opportunity for its members to reclaim market share.
 
@@ -155,7 +171,7 @@ On the industry side, the **Malaysian Rubber Glove Manufacturers Association (MA
 
 ## What pressures is the industry facing?
 
-Three forces dominate. First, **land and labour**: rubber competes with oil palm for both land and workers, and tapping and glove-making are labour-intensive and lean heavily on migrant workers — an area where the sector's labour practices have drawn past scrutiny from foreign import regulators. Second, **competition and trade policy**: China is closing the gap in gloves, while shifting tariffs can reroute billions in orders overnight. Third, **sustainability compliance**: buyers increasingly demand traceable, deforestation-free rubber, pushing the MRB toward sustainability certification for smallholders and estates.
+Three forces dominate. First, **land and labour**: rubber competes with oil palm for both land and workers, and tapping and glove-making are labour-intensive and lean heavily on migrant workers — an area where the sector's labour practices have drawn scrutiny from foreign import regulators. US Customs and Border Protection issued Withhold Release Orders over forced-labour concerns against **Top Glove** (July 2020, escalated to a Forced Labor Finding in March 2021) and **Supermax** (October 2021); both were lifted after the companies paid worker remediation — Top Glove's in September 2021 and Supermax's in September 2023 — and neither restriction is in force today. Second, **competition and trade policy**: China is closing the gap in gloves, while shifting tariffs can reroute billions in orders overnight. Third, **sustainability compliance**: buyers increasingly demand traceable, deforestation-free rubber, pushing the MRB toward sustainability certification for smallholders and estates.
 
 Against those pressures, the strategic logic is unchanged from the one that made Malaysia the glove capital in the first place: own the high-value downstream, and source the raw material wherever it is cheapest.
 

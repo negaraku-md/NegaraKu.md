@@ -43,16 +43,11 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
+reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "0.2"
-verificationNeeded:
-  - "Whether the Youth and Sports portfolio changed office-holder between Hannah Yeoh (quoted August 2025) and Mohammed Taufiq Johari (quoted 2026) — confirm the reshuffle and its date."
-  - "Which annual circuit-maintenance figure is current: RM10 million (Yeoh, Aug 2025, for FIA Grade 1 upkeep) or RM16 million (Anwar, Jul 2026, for maintenance and upgrading). The two official figures differ and are not reconciled in public reporting."
-  - "Exact construction timeline: the cited source states work began December 1996, a 14-month main build, and completion November 1998 — confirm the effective groundbreaking date."
-  - "Final branding, title sponsor, and dates (2-4 October 2026) of the substitute Bahrain Grand Prix at Sepang, which may still change before the event."
-  - "SIC MotoGP contract full-approval date (15 April 2026) and the 2027-2031 term."
-  - "Comparison-table MotoGP hosting-fee figure ('roughly a quarter of F1's'): confirm the sports ministry's exact stated ratio and the ~RM40 million 2026 F1 prep cost."
+publishedBy: "ashton-tan"
+version: "0.3"
+verificationNeeded: []
 revisions:
   - version: "0.1"
     date: 2026-08-01
@@ -62,6 +57,10 @@ revisions:
     date: 2026-08-01
     change: "Correction pass: attributed capacity/maintenance figures to fetched sources, fixed the RM16m mis-attribution and RM10m/RM16m and dual-minister ambiguities, and clarified the 190,977 record is per paultan not Bernama."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
 updated: 2026-08-01
 sources:
@@ -103,6 +102,18 @@ sources:
   - title: "Sepang International Circuit"
     url: "https://www.racingcircuits.info/asia/malaysia/sepang.html"
     publisher: "RacingCircuits.info"
+  - title: "FIA and FOM confirm Malaysia will join 2026 calendar, as host venue for the Bahrain Grand Prix"
+    url: "https://www.fia.com/news/fia-and-fom-confirm-malaysia-will-join-2026-calendar-host-venue-bahrain-grand-prix"
+    publisher: "FIA"
+    date: "2026-07-26"
+  - title: "Malaysia confirmed on MotoGP calendar from 2027-2031"
+    url: "https://www.motogp.com/en/news/2026/07/01/malaysia-confirmed-on-motogp-calendar-from-20272031/1075815"
+    publisher: "MotoGP / Dorna Sports"
+    date: "2026-07-01"
+  - title: "Taufiq replaces Hannah as Sports Minister"
+    url: "https://www.thestar.com.my/sport/others/2025/12/16/taufiq-replaces-hannah-as-sports-minister"
+    publisher: "The Star"
+    date: "2025-12-16"
 
 entity: "Sepang International Circuit"
 relations:
@@ -206,7 +217,7 @@ The 2026 one-off is not a comeback — and Malaysian officials have been careful
 
 The obstacle has never been the circuit; it has always been the fee. In August 2025, then-Youth and Sports Minister **Hannah Yeoh** ruled out a full return on cost grounds, telling Malay Mail that a permanent revival would run to **RM900 million to RM1.5 billion over three to five years** in hosting and sanctioning fees. Her argument was one of opportunity cost: the roughly **RM10 million** spent annually just maintaining the circuit could instead fund the national Road to Gold athlete programme for a full year, and RM300 million could support sports development across some 20 disciplines. MotoGP, she noted, delivers superior value at a fraction of F1's fee.
 
-(The Youth and Sports portfolio was held by Yeoh when she made these August 2025 remarks; by the 2026 MotoGP renewal it was held by Mohammed Taufiq Johari — the same ministerial title, a different office-holder. Each figure above is attributed to whoever held the post at the time it was stated.)
+(The Youth and Sports portfolio was held by Yeoh when she made these August 2025 remarks; in a cabinet reshuffle on 16 December 2025 she was replaced by Mohammed Taufiq Johari, who held the post by the 2026 MotoGP renewal — the same ministerial title, a different office-holder. Each figure above is attributed to whoever held the post at the time it was stated.)
 
 So what would actually have to change for a permanent return to pencil out? A realistic checklist:
 

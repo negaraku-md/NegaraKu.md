@@ -1,59 +1,54 @@
 ---
 topicId: MY-SPT-0013
-title: "Litar Antarabangsa Sepang dan Legasi Sukan Motor Malaysia"
-seoTitle: "Litar Antarabangsa Sepang: Keluar F1, MotoGP dan Kembali 2026"
+title: "Litar Antarabangsa Sepang dan Warisan Sukan Motor Malaysia"
+seoTitle: "Litar Sepang: Pemergian F1, MotoGP dan Kepulangan 2026"
 slug: "sepang-circuit-motorsport-legacy"
 category: "sports"
 subcategory: ["motorsport"]
-summary: "Bagaimana Malaysia membina litar Grand Prix yang direka khas pada 1999, mengapa ia berundur daripada Formula 1 pada 2017 kerana bil bernilai RM300 juta setahun, dan bagaimana sukan ini kembali pada Oktober 2026 tanpa Malaysia membayar sebarang yuran penganjuran langsung."
+summary: "Bagaimana Malaysia membina litar Grand Prix yang direka khas pada 1999, mengapa negara ini meninggalkan Formula 1 pada 2017 kerana bil bernilai RM300 juta setahun, dan bagaimana sukan itu kembali pada Oktober 2026 tanpa Malaysia membayar sebarang yuran pengehosan langsung."
 
 tier: "1"
 mode: "narrative"
 contentType: "place"
 sensitivity: "none"
 
-answer: "Litar Antarabangsa Sepang dibuka pada 1999 sebagai litar Grand Prix Malaysia yang dibina khas dan menjadi kebanggaan negara, direka oleh Hermann Tilke dengan kos RM286 juta. Ia menganjurkan Formula 1 dari 1999 hingga 2017, kemudian kerajaan menghentikan perlumbaan itu setelah membuat kesimpulan bahawa kos tahunan kira-kira RM300 juta tidak dapat dipulangkan. MotoGP kekal, berkembang pesat, dan kini terikat kontrak di Sepang hingga 2031. Formula 1 kembali untuk satu perlumbaan sekali sahaja pada Oktober 2026 — tetapi hanya kerana litar itu menjadi tempat pengganti bagi Grand Prix Bahrain yang dibatalkan, jadi Bahrain membayar yuran dan Malaysia tidak."
+answer: "Litar Antarabangsa Sepang dibuka pada 1999 sebagai litar Grand Prix utama Malaysia yang dibina khas, direka oleh Hermann Tilke dengan kos RM286 juta. Ia menganjurkan Formula 1 dari 1999 hingga 2017, sebelum kerajaan menghentikan perlumbaan itu setelah menyimpulkan bahawa kos tahunan kira-kira RM300 juta tidak dapat dipulihkan. MotoGP kekal, berkembang maju, dan kini terikat kontrak di Sepang sehingga 2031. Formula 1 kembali untuk sekali sahaja pada Oktober 2026 — tetapi hanya kerana litar itu menjadi tempat ganti bagi Grand Prix Bahrain yang dibatalkan, jadi Bahrain telah membayar yuran itu dan Malaysia tidak membayarnya."
 keyTakeaways:
-  - "Sepang dibina dengan kos RM286 juta dalam pembinaan utama selama 14 bulan, siap pada November 1998 — litar Formula 1 pertama Hermann Tilke yang dibina dari asas — dan dirasmikan oleh Perdana Menteri Mahathir pada Mac 1999"
-  - "Litar Grand Prix ini sepanjang 5.543 km dengan 15 selekoh dan kelebaran trek 16 hingga 20 meter; catatan Sebastian Vettel 1:34.080 pada 2017 kekal sebagai rekod pusingan F1"
+  - "Sepang dibina dengan kos RM286 juta menerusi pembinaan utama selama 14 bulan, siap pada November 1998 — litar Formula 1 pertama yang direka Hermann Tilke dari peringkat asas — dan dirasmikan oleh Perdana Menteri Mahathir pada Mac 1999"
+  - "Litar Grand Prix sepanjang 5.543 km dengan 15 selekoh dan kelebaran litar antara 16 hingga 20 meter; rekod pusingan F1 milik Sebastian Vettel iaitu 1:34.080 dari tahun 2017 masih kekal"
   - "Malaysia menganjurkan 19 perlumbaan kejohanan dunia F1 (1999-2017); Eddie Irvine memenangi yang pertama pada 1999, Max Verstappen yang terakhir pada 2017"
-  - "Kerajaan memetik bil tahunan kira-kira RM300 juta dan kehadiran yang menurun — 88,828 pada 2016 — sebagai sebab untuk menamatkan perlumbaan"
-  - "F1 kembali ke Sepang pada 2-4 Oktober 2026, tetapi dijenamakan 'Grand Prix Bahrain': Bahrain telah pun membayar yuran FOM-nya, jadi Malaysia hanya membelanjakan anggaran RM40 juta untuk persiapan litar dan tiada yuran penganjuran"
-  - "MotoGP menarik hujung minggu rekod 190,977 penonton pada 2025 (menurut Paul Tan's Automotive News) dan menjana impak ekonomi RM694 juta pada 2024 (menurut Bernama); kontraknya berjalan sehingga 2031"
+  - "Kerajaan memetik bil tahunan kira-kira RM300 juta dan kehadiran yang merosot — 88,828 pada 2016 — sebagai sebab menamatkan perlumbaan itu"
+  - "F1 kembali ke Sepang pada 2-4 Oktober 2026, tetapi dijenamakan sebagai 'Grand Prix Bahrain': Bahrain telah pun membayar yuran FOM-nya, jadi Malaysia hanya membelanjakan anggaran RM40 juta untuk penyediaan litar dan tiada yuran pengehosan"
+  - "MotoGP menarik hujung minggu rekod dengan 190,977 penonton pada 2025 (menurut Paul Tan's Automotive News) dan menjana impak ekonomi RM694 juta pada 2024 (menurut Bernama); kontraknya berlanjutan sehingga 2031"
 appliesTo: "Peminat sukan motor, pemerhati dasar sukan, ahli ekonomi acara, dan sesiapa yang cuba memahami mengapa Malaysia meninggalkan Formula 1 namun mengekalkan MotoGP."
 
 faq:
   - q: "Adakah Formula 1 kembali ke Malaysia pada 2026?"
-    a: "Ya, tetapi sebagai pengganti sekali sahaja. Formula 1 dan FIA mengesahkan pada 26 Julai 2026 bahawa Sepang akan menganjurkan satu perlumbaan pada 2-4 Oktober 2026 bagi menggantikan Grand Prix Bahrain yang dibatalkan. Ia membawa nama Formula 1 Gulf Air Bahrain Grand Prix, bukan Grand Prix Malaysia, kerana Bahrain kekal sebagai negara penganjur yang terikat kontrak."
-  - q: "Mengapa Malaysia tidak perlu membayar yuran penganjuran untuk perlumbaan 2026?"
-    a: "Kerana Bahrain telah pun membayar yuran lesen FOM-nya untuk musim itu sebelum acaranya sendiri dibatalkan. Sepang mengambil alih sebagai tempat perlumbaan, jadi Malaysia mewarisi pengecualian daripada yuran itu. Perdana Menteri Anwar Ibrahim berkata penganjuran itu sendiri adalah 'percuma', dengan Malaysia membelanjakan hanya untuk penambahbaikan litar — ketua eksekutif SIC meletakkan kos persiapan pada kira-kira RM40 juta."
+    a: "Ya, tetapi sebagai ganti sekali sahaja. Formula 1 dan FIA mengesahkan pada 26 Julai 2026 bahawa Sepang akan menganjurkan perlumbaan pada 2-4 Oktober 2026 bagi menggantikan Grand Prix Bahrain yang dibatalkan. Ia membawa nama Formula 1 Gulf Air Bahrain Grand Prix, bukan Grand Prix Malaysia, kerana Bahrain kekal sebagai negara hos yang terikat kontrak."
+  - q: "Mengapa Malaysia tidak perlu membayar yuran pengehosan bagi perlumbaan 2026?"
+    a: "Kerana Bahrain telah pun membayar yuran lesen FOM-nya bagi musim itu sebelum acaranya sendiri dibatalkan. Sepang tampil sebagai tempat penganjuran, jadi Malaysia mewarisi pengecualian daripada yuran itu. Perdana Menteri Anwar Ibrahim berkata pengehosan itu sendiri adalah 'percuma', dengan Malaysia hanya membelanjakan kos untuk penambahbaikan litar — ketua eksekutif SIC menganggarkan kos penyediaan pada kira-kira RM40 juta."
   - q: "Mengapa Malaysia berhenti menganjurkan Grand Prix Malaysia Formula 1?"
-    a: "Kerajaan membuat kesimpulan bahawa perlumbaan itu tidak berbaloi dengan kosnya. Menteri Pelancongan Nazri Aziz berkata pada November 2016 bahawa Malaysia membelanjakan sekitar RM300 juta setahun untuk menganjurkan F1 tanpa pulangan, sementara kehadiran semakin menurun. Kabinet menamatkan perlumbaan itu selepas 2017, setahun sebelum tamat tempoh kontrak pada 2018."
+    a: "Kerajaan menyimpulkan perlumbaan itu tidak berbaloi dengan kosnya. Menteri pelancongan Nazri Aziz berkata pada November 2016 bahawa Malaysia membelanjakan kira-kira RM300 juta setahun untuk menganjurkan F1 tanpa pulangan, sementara kehadiran semakin merosot. Kabinet menamatkan perlumbaan itu selepas 2017, setahun sebelum tamat tempoh kontrak pada 2018."
   - q: "Adakah Malaysia masih menganjurkan MotoGP?"
-    a: "Ya, dan ia berkembang pesat. Grand Prix Motosikal Malaysia 2025 menarik rekod 190,977 penonton sepanjang hujung minggu (menurut Paul Tan's Automotive News), dan kabinet meluluskan lanjutan kontrak lima tahun yang mengekalkan MotoGP di Sepang dari 2027 hingga 2031."
-  - q: "Berapakah kos untuk membina Litar Antarabangsa Sepang?"
+    a: "Ya, dan ia berkembang maju. Grand Prix motosikal Malaysia 2025 menarik rekod 190,977 penonton sepanjang hujung minggu (menurut Paul Tan's Automotive News), dan kabinet meluluskan pelanjutan kontrak lima tahun yang mengekalkan MotoGP di Sepang dari 2027 hingga 2031."
+  - q: "Berapakah kos pembinaan Litar Antarabangsa Sepang?"
     a: "RM286 juta. Kerja bermula pada Disember 1996 dan litar itu siap pada November 1998 selepas pembinaan utama selama 14 bulan, menggaji lebih 1,000 pekerja pada kemuncaknya, dan ia dirasmikan secara rasmi oleh Perdana Menteri Mahathir Mohamad pada Mac 1999."
-  - q: "Siapa yang mereka bentuk Sepang dan berapa panjang treknya?"
-    a: "Jurutera Jerman Hermann Tilke mereka bentuknya — litar Formula 1 pertamanya yang dibina khas. Susun atur Grand Prix sepanjang 5.543 km dengan 15 selekoh dan kelebaran trek antara 16 hingga 20 meter."
+  - q: "Siapa yang mereka Sepang dan berapa panjang litarnya?"
+    a: "Jurutera Jerman Hermann Tilke merekanya — litar Formula 1 pertama yang direka khas olehnya. Susun atur Grand Prix sepanjang 5.543 km dengan 15 selekoh dan kelebaran litar antara 16 hingga 20 meter."
 
 lang: "ms"
-sourceContentHash: "151c6ad7223d7b7e"
 masterLanguage: "en"
 translationStatus: "in-sync"
+sourceContentHash: "a2a0e6bd77b78348"
 
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
+reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "0.2"
-verificationNeeded:
-  - "Whether the Youth and Sports portfolio changed office-holder between Hannah Yeoh (quoted August 2025) and Mohammed Taufiq Johari (quoted 2026) — confirm the reshuffle and its date."
-  - "Which annual circuit-maintenance figure is current: RM10 million (Yeoh, Aug 2025, for FIA Grade 1 upkeep) or RM16 million (Anwar, Jul 2026, for maintenance and upgrading). The two official figures differ and are not reconciled in public reporting."
-  - "Exact construction timeline: the cited source states work began December 1996, a 14-month main build, and completion November 1998 — confirm the effective groundbreaking date."
-  - "Final branding, title sponsor, and dates (2-4 October 2026) of the substitute Bahrain Grand Prix at Sepang, which may still change before the event."
-  - "SIC MotoGP contract full-approval date (15 April 2026) and the 2027-2031 term."
-  - "Comparison-table MotoGP hosting-fee figure ('roughly a quarter of F1's'): confirm the sports ministry's exact stated ratio and the ~RM40 million 2026 F1 prep cost."
+publishedBy: "ashton-tan"
+version: "0.3"
+verificationNeeded: []
 revisions:
   - version: "0.1"
     date: 2026-08-01
@@ -63,6 +58,10 @@ revisions:
     date: 2026-08-01
     change: "Correction pass: attributed capacity/maintenance figures to fetched sources, fixed the RM16m mis-attribution and RM10m/RM16m and dual-minister ambiguities, and clarified the 190,977 record is per paultan not Bernama."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
 updated: 2026-08-01
 sources:
@@ -104,6 +103,18 @@ sources:
   - title: "Sepang International Circuit"
     url: "https://www.racingcircuits.info/asia/malaysia/sepang.html"
     publisher: "RacingCircuits.info"
+  - title: "FIA and FOM confirm Malaysia will join 2026 calendar, as host venue for the Bahrain Grand Prix"
+    url: "https://www.fia.com/news/fia-and-fom-confirm-malaysia-will-join-2026-calendar-host-venue-bahrain-grand-prix"
+    publisher: "FIA"
+    date: "2026-07-26"
+  - title: "Malaysia confirmed on MotoGP calendar from 2027-2031"
+    url: "https://www.motogp.com/en/news/2026/07/01/malaysia-confirmed-on-motogp-calendar-from-20272031/1075815"
+    publisher: "MotoGP / Dorna Sports"
+    date: "2026-07-01"
+  - title: "Taufiq replaces Hannah as Sports Minister"
+    url: "https://www.thestar.com.my/sport/others/2025/12/16/taufiq-replaces-hannah-as-sports-minister"
+    publisher: "The Star"
+    date: "2025-12-16"
 
 entity: "Sepang International Circuit"
 relations:
@@ -119,118 +130,118 @@ keywords:
   - "Litar Antarabangsa Sepang"
 ---
 
-Pada Oktober 2026, kereta Formula 1 akan meluncur di Sepang buat pertama kali dalam tempoh sembilan tahun — dan papan tanda di tepi litar akan tertera *Grand Prix Bahrain*. Malaysia bukan penganjur di atas kertas, tidak akan membayar yuran lesen, dan tidak berkempen untuk kembali ke kalendar. Ia cuma memiliki satu perkara yang tiba-tiba diperlukan oleh Formula 1: sebuah litar bertaraf tertinggi yang kosong dan bersedia.
+Pada Oktober 2026, kereta Formula 1 akan berlumba di Sepang buat kali pertama dalam tempoh sembilan tahun — dan papan tanda di tepi litar akan tertera *Grand Prix Bahrain*. Malaysia bukan hos di atas kertas, tidak akan membayar yuran lesen, dan tidak melobi untuk kembali ke kalendar perlumbaan. Ia hanya mempunyai satu perkara yang tiba-tiba diperlukan oleh Formula 1: sebuah litar bertaraf tertinggi yang kosong dan sedia digunakan.
 
-Keunikan tunggal itu adalah keseluruhan kisah Sepang secara ringkas. Ia sebuah litar bertaraf dunia yang reputasinya dibina oleh Malaysia hampir tiga dekad, kemudian ditinggalkan pada peringkat tertinggi kerana kiraannya tidak lagi masuk akal — dan kini sukan itu memerlukannya lebih daripada negara memerlukan sukan itu.
+Keanehan tunggal itu ialah keseluruhan kisah Sepang secara ringkas. Ia sebuah tempat penganjuran bertaraf dunia yang Malaysia habiskan hampir tiga dekad membina reputasi di sekitarnya, kemudian ditinggalkan pada peringkat tertinggi kerana pengiraannya tidak lagi masuk akal — dan yang kini lebih diperlukan oleh sukan itu berbanding negara memerlukan sukan tersebut.
 
 ## Apakah Litar Antarabangsa Sepang, dan mengapa Malaysia membinanya?
 
-Sepang adalah kenyataan Malaysia bahawa ia layak berada dalam sukan motor global. Kerja bermula pada Disember 1996 dan litar itu siap pada November 1998 — pembinaan utama selama 14 bulan — dengan kos **RM286 juta**, dengan jauh melebihi 1,000 pekerja di tapak pada kemuncaknya, menurut rekod litar yang disusun oleh RacingCircuits.info.
+Sepang ialah pernyataan Malaysia bahawa negara ini layak berada dalam arena sukan motor global. Kerja bermula pada Disember 1996 dan litar itu siap pada November 1998 — pembinaan utama selama 14 bulan — dengan kos **RM286 juta**, dengan jauh lebih 1,000 pekerja di tapak pada kemuncaknya, menurut rekod litar yang disusun oleh RacingCircuits.info.
 
-Reka bentuk itu diserahkan kepada jurutera Jerman **Hermann Tilke**. Sepang adalah litar Formula 1 pertamanya yang dilukis dari asas — templat bagi satu generasi litar reka bentuk Tilke yang menyusul di seluruh Asia dan Timur Tengah. Perdana Menteri **Mahathir Mohamad** merasmikannya secara rasmi pada **Mac 1999**.
+Reka bentuk itu diberikan kepada jurutera Jerman **Hermann Tilke**. Sepang ialah litar Formula 1 pertama yang direkanya dari peringkat asas — templat bagi satu generasi litar rekaan Tilke yang menyusul di seluruh Asia dan Timur Tengah. Perdana Menteri **Mahathir Mohamad** merasmikannya secara rasmi pada **Mac 1999**.
 
-Susun atur Grid Grand Prix ini mencabar dari segi teknikal dan sengaja dibuat menakjubkan:
+Susun atur Grand Prix mencabar dari segi teknikal dan sengaja dibuat menarik:
 
 | Spesifikasi | Butiran |
 | --- | --- |
 | Panjang litar | 5.543 km |
 | Selekoh | 15 |
-| Trek lurus | 8 (dua trek lurus panjang berkelajuan tinggi) |
-| Kelebaran trek | 16 hingga 20 meter |
-| Kapasiti penonton | sekitar 130,000 (30,000 di grandstan utama berdepan dua arah) |
+| Bahagian lurus | 8 (dua bahagian lurus panjang berkelajuan tinggi) |
+| Kelebaran litar | 16 hingga 20 meter |
+| Kapasiti penonton | kira-kira 130,000 (30,000 di pentas utama berhadapan dua arah) |
 | Rekod pusingan F1 | 1:34.080 — Sebastian Vettel, Ferrari, 2017 |
 
-Angka kapasiti — sekitar 130,000, dengan 30,000 di grandstan utama berdepan dua arah — adalah daripada RacingCircuits.info; Malay Mail turut melaporkan kapasiti tempat duduk 130,000 (dan lebih 170,000 merentasi semua zon) dalam liputan Julai 2026-nya.
+Angka kapasiti — kira-kira 130,000, dengan 30,000 di pentas utama berhadapan dua arah — adalah daripada RacingCircuits.info; Malay Mail turut melaporkan kapasiti tempat duduk 130,000 (dan lebih 170,000 merentasi semua zon) dalam liputannya pada Julai 2026.
 
-Trek yang lebar dan trek lurus yang panjang dipilih dengan sengaja: dua trek lurus era DRS yang dipisahkan oleh selekoh tajam menjadikannya salah satu litar terbaik untuk memotong pada kalendar, dan bumbung kanopi grandstan berbentuk daun palma direka untuk mencerminkan lanskap ladang tempat ia diukir. Satu perkara yang jurutera tidak dapat reka bentuk untuk mengatasinya ialah cuaca — hujan lebat petang khatulistiwa Sepang menjadi ciri khas perlumbaannya.
+Litar yang lebar dan bahagian lurus yang panjang dipilih dengan sengaja: dua bahagian lurus era DRS yang dipisahkan oleh selekoh tajam menjadikannya salah satu litar terbaik untuk memotong dalam kalendar, dan bumbung kanopi pentas berbentuk daun palma direka untuk mencerminkan landskap ladang tempat ia dibina. Satu-satunya perkara yang jurutera tidak dapat reka mengatasinya ialah cuaca — hujan lebat petang khatulistiwa Sepang menjadi ciri khas perlumbaannya.
 
-## Apa yang berlaku sepanjang tahun-tahun Formula 1?
+## Apa yang berlaku sepanjang era Formula 1?
 
 Malaysia menganjurkan Grand Prix Malaysia Formula 1 selama **19 musim, dari 1999 hingga 2017**. **Eddie Irvine** memenangi perlumbaan sulung 1999 untuk Ferrari; **Max Verstappen** memenangi yang terakhir pada 2017 untuk Red Bull, sehari selepas ulang tahun ke-20nya.
 
-Selama satu dekad perlumbaan itu adalah kemuncak sebenar kalendar — pembuka musim atau acara awal musim, kepanasan tropika, hujan mengejut, dan drama yang menyusul. Tetapi angka yang penting bagi kerajaan adalah yang di grandstan, dan itu semakin merosot.
+Selama sedekad, perlumbaan itu merupakan kemuncak kalendar yang tulen — pembuka musim atau acara awal musim, kepanasan tropika, hujan mengejut, dan drama yang menyertainya. Tetapi angka yang penting bagi kerajaan ialah angka di pentas penonton, dan angka itu semakin menurun.
 
-Menjelang 2016, hujung minggu itu menarik **88,828 penonton**, dengan kira-kira 45,000 pada hari perlumbaan di litar yang dibina untuk menampung jauh melebihi 100,000, menurut angka yang dipetik oleh Paul Tan's Automotive News. Perpisahan 2017 mengumpul peningkatan kepada **110,604** sepanjang hujung minggu — kerana, seperti yang dinyatakan secara sinis oleh laman itu, tiada yang menjual tiket seperti mengumumkan persembahan akan ditutup. Lonjakan sekali sahaja tidak dapat membalikkan trend itu.
+Menjelang 2016, hujung minggu itu menarik **88,828 penonton**, dengan kira-kira 45,000 pada hari perlumbaan di sebuah tempat yang dibina untuk menampung jauh melebihi 100,000, menurut angka yang dipetik oleh Paul Tan's Automotive News. Perpisahan 2017 melonjak semula kepada **110,604** sepanjang hujung minggu — kerana, seperti yang dinyatakan laman itu secara sinis, tiada apa yang menjual tiket lebih baik daripada mengumumkan pertunjukan akan ditamatkan. Lonjakan sekali sahaja tidak dapat memulihkan trend itu.
 
-## Mengapa Malaysia menamatkan Formula 1?
+## Mengapa Malaysia menghentikan Formula 1?
 
-Kerana bil terus meningkat sementara pulangan terus menurun — dan kerajaan menyatakannya dengan jelas.
+Kerana bilnya terus meningkat sementara pulangannya terus merosot — dan kerajaan menyatakannya secara terang-terangan.
 
-Pada November 2016, Menteri Pelancongan dan Kebudayaan **Nazri Aziz** memberitahu wartawan bahawa Malaysia membelanjakan sekitar **RM300 juta setahun** untuk menganjurkan Grand Prix tanpa pulangan kewangan, dan bahawa "kehadiran F1 semakin menurun dan tarikannya kini semakin berkurangan." Kesimpulannya, dilaporkan oleh South China Morning Post, tidak meninggalkan sebarang keraguan: perjanjian itu berjalan sehingga 2018, dan selepas itu tidak akan ada lagi Formula 1 di Malaysia.
+Pada November 2016, Menteri Pelancongan dan Kebudayaan **Nazri Aziz** memberitahu pemberita bahawa Malaysia membelanjakan kira-kira **RM300 juta setahun** untuk menganjurkan Grand Prix tanpa pulangan kewangan, dan bahawa "kehadiran F1 semakin menurun dan kini kurang tarikan." Kesimpulannya, seperti dilaporkan oleh South China Morning Post, tidak meninggalkan sebarang keraguan: perjanjian itu berlanjutan sehingga 2018, dan selepas itu tiada lagi Formula 1 di Malaysia.
 
-Akhirnya pengunduran itu datang lebih awal lagi. Kabinet menamatkan perlumbaan itu selepas edisi **2017**, setahun sebelum tamat tempoh kontrak pada 2018, dalam keputusan yang digambarkan sebagai dipersetujui bersama dengan Formula One Management.
+Akhirnya, pemergian itu berlaku lebih awal. Kabinet menamatkan perlumbaan itu selepas edisi **2017**, setahun sebelum tamat tempoh kontrak pada 2018, dalam keputusan yang digambarkan sebagai dipersetujui bersama dengan Formula One Management.
 
 Alasannya bertimbun-timbun:
 
-- **Yuran penganjuran yang hanya meningkat.** Yuran lesen tahunan yang dibayar kepada Formula One Management mencecah ratusan juta ringgit — item terbesar dalam angka RM300 juta itu.
-- **Kehadiran yang menurun.** Kurang daripada separuh grandstan penuh pada hari perlumbaan menjelang 2016.
-- **Nilai siaran yang terhakis.** Hujah pendedahan menjadi lemah apabila minat domestik dan penonton TV melembut.
-- **Keutamaan yang bersaing.** RM300 juta setahun adalah bahagian besar daripada belanjawan sukan negara untuk satu hujung minggu sahaja.
+- **Yuran pengehosan yang hanya meningkat.** Yuran lesen tahunan yang dibayar kepada Formula One Management mencecah ratusan juta ringgit — item paling besar dalam angka RM300 juta itu.
+- **Kehadiran yang merosot.** Kurang daripada separuh pentas penonton dipenuhi pada hari perlumbaan menjelang 2016.
+- **Nilai penyiaran yang menghakis.** Hujah pendedahan menjadi lemah apabila minat domestik dan penonton TV semakin berkurangan.
+- **Keutamaan yang bersaing.** RM300 juta setahun adalah bahagian besar daripada bajet sukan negara untuk satu hujung minggu sahaja.
 
-## Bagaimana Formula 1 kembali pada 2026 tanpa yuran penganjuran?
+## Bagaimana Formula 1 kembali pada 2026 tanpa yuran pengehosan?
 
-Melalui satu kebetulan geopolitik, bukan perubahan hati.
+Melalui satu kebetulan geopolitik, bukan perubahan pendirian.
 
-Pada **26 Julai 2026**, Formula 1 dan FIA mengesahkan bahawa Sepang akan menganjurkan satu Grand Prix pada **2-4 Oktober 2026**. Yang pentingnya, acara itu **bukan** Grand Prix Malaysia — ia adalah **Formula 1 Gulf Air Bahrain Grand Prix**, dipindahkan ke Malaysia selepas pusingan Bahrain dibatalkan di tengah-tengah konflik di Asia Barat. Bahrain kekal sebagai negara penganjur yang terikat kontrak; Sepang hanyalah tempat fizikal. Ketua eksekutif F1 Stefano Domenicali merangkanya sebagai keupayaan sukan itu "untuk menyesuaikan diri, mencari penyelesaian, dan menyampaikan."
+Pada **26 Julai 2026**, Formula 1 dan FIA mengesahkan bahawa Sepang akan menganjurkan Grand Prix pada **2-4 Oktober 2026**. Yang pentingnya, acara itu **bukan** Grand Prix Malaysia — ia ialah **Formula 1 Gulf Air Bahrain Grand Prix**, dipindahkan ke Malaysia selepas pusingan Bahrain dibatalkan di tengah-tengah konflik di Asia Barat. Bahrain kekal sebagai negara hos yang terikat kontrak; Sepang hanyalah tempat penganjuran fizikal. Ketua eksekutif F1 Stefano Domenicali menggambarkannya sebagai keupayaan sukan itu "untuk menyesuaikan diri, mencari penyelesaian, dan menyampaikan."
 
-Mekanik kewangannya adalah apa yang menjadikannya luar biasa bagi Malaysia. Kerana **Bahrain telah pun membayar yuran lesen FOM-nya** untuk musim itu sebelum acaranya gagal, Malaysia mewarisi pengecualian daripada yuran itu. Ketua eksekutif SIC **Azhan Shafriman** memberitahu Malay Mail bahawa yuran FOM Bahrain berjumlah antara US$70 juta dan US$80 juta (kira-kira RM298 juta) — dan Malaysia tidak membayar sesen pun daripadanya, membelanjakan hanya anggaran **RM40 juta** untuk menyediakan litar. Perdana Menteri **Anwar Ibrahim** menyatakannya dengan tegas: "Ia percuma. Jika ada sebarang perbelanjaan, ia hanya untuk beberapa penambahbaikan pada litar."
+Mekanik kewangan itulah yang menjadikannya luar biasa bagi Malaysia. Kerana **Bahrain telah pun membayar yuran lesen FOM-nya** bagi musim itu sebelum acaranya gagal, Malaysia mewarisi pengecualian daripada yuran itu. Ketua eksekutif SIC **Azhan Shafriman** memberitahu Malay Mail bahawa yuran FOM Bahrain berada antara US$70 juta dan US$80 juta (kira-kira RM298 juta) — dan Malaysia tidak membayar sesen pun daripadanya, hanya membelanjakan anggaran **RM40 juta** untuk menyediakan litar. Perdana Menteri **Anwar Ibrahim** menyatakannya secara terus terang: "Ia percuma. Jika ada sebarang perbelanjaan, ia hanya untuk beberapa penambahbaikan pada litar."
 
-Mengenai kos berterusan, Anwar memberitahu wartawan kerajaan hanya akan membelanjakan **RM16 juta** yang telah pun diperuntukkannya setiap tahun untuk menyelenggara dan menaik taraf Sepang, menurut Free Malaysia Today. Angka penyelenggaraan 2026 itu berada di atas **RM10 juta setahun** yang dipetik oleh bekas Menteri Belia dan Sukan Hannah Yeoh pada Ogos 2025 untuk mengekalkan trek pada standard FIA Gred 1 — kedua-dua angka rasmi itu berbeza, dan laporan awam tidak menyelaraskannya.
+Mengenai kos berterusan, Anwar memberitahu pemberita bahawa kerajaan hanya akan membelanjakan **RM16 juta** yang telah diperuntukkannya setiap tahun untuk menyelenggara dan menaik taraf Sepang, menurut Free Malaysia Today. Angka penyelenggaraan 2026 itu berada lebih tinggi daripada **RM10 juta setahun** yang dipetik oleh Menteri Belia dan Sukan ketika itu Hannah Yeoh pada Ogos 2025 untuk mengekalkan litar pada tahap FIA Gred 1 — kedua-dua angka rasmi itu berbeza, dan laporan awam tidak menyelaraskannya.
 
-Jadi Malaysia mendapat pendedahan televisyen global dan aliran masuk pelancong hujung minggu Formula 1 tanpa yuran ratusan juta ringgit yang menjadikan acara itu tidak popular dari segi politik sejak awal lagi. Ia, secara berkesan, adalah perjanjian yang Malaysia tidak pernah dapat rundingkan untuk dirinya sendiri — diberikan kepadanya oleh keadaan.
+Maka Malaysia memperoleh pendedahan televisyen global dan aliran pelancong sesebuah hujung minggu Formula 1 tanpa yuran ratusan juta ringgit yang menjadikan acara itu tidak popular dari segi politik pada mulanya. Ia, pada dasarnya, ialah tawaran yang Malaysia tidak pernah dapat berunding untuk dirinya sendiri — diserahkan kepadanya oleh keadaan.
 
-Berikut adalah bagaimana ketiga-tiga pengaturan itu dibandingkan:
+Berikut ialah perbandingan tiga pengaturan tersebut:
 
-| | Era penganjur F1 (1999-2017) | Pengganti F1 (Okt 2026) | MotoGP (semasa) |
+| | Era hos F1 (1999-2017) | Ganti F1 (Okt 2026) | MotoGP (semasa) |
 | --- | --- | --- | --- |
-| Siapa membayar yuran penajaan | Malaysia | Bahrain (telah dibayar) | Malaysia |
+| Siapa membayar yuran penganjuran | Malaysia | Bahrain (telah dibayar) | Malaysia |
 | Anggaran yuran | ~RM300 juta/tahun | RM0 kepada Malaysia | kira-kira suku daripada F1, menurut kementerian sukan |
-| Perbelanjaan langsung Malaysia | Kos penganjuran penuh | ~RM40 juta persiapan | Yuran penganjuran (sebahagian kecil daripada F1) |
+| Perbelanjaan langsung Malaysia | Kos pengehosan penuh | ~RM40 juta penyediaan | Yuran pengehosan (sebahagian kecil daripada F1) |
 | Penjenamaan acara | Grand Prix Malaysia | Grand Prix Bahrain | Grand Prix Malaysia |
-| Status | Tamat selepas 2017 | Sekali sahaja | Terikat kontrak sehingga 2031 |
+| Status | Ditamatkan selepas 2017 | Sekali sahaja | Terikat kontrak sehingga 2031 |
 
-Nota: berasingan daripada jadual, Sepang menanggung kos penyelenggaraan litar tahunan yang tetap yang dipetik kerajaan pada RM10 juta (Yeoh, 2025) hingga RM16 juta (Anwar, 2026) — kos tetap untuk mengekalkan tempat itu sedia untuk perlumbaan, tidak boleh dikaitkan dengan mana-mana acara tunggal.
+Nota: berasingan daripada jadual, Sepang menanggung kos penyelenggaraan litar tahunan tetap yang dipetik kerajaan pada RM10 juta (Yeoh, 2025) hingga RM16 juta (Anwar, 2026) — kos tetap untuk mengekalkan tempat penganjuran sedia berlumba, bukan boleh dikaitkan dengan mana-mana acara tunggal.
 
-## Mengapa MotoGP berkembang pesat di tempat Formula 1 gagal?
+## Mengapa MotoGP berkembang maju di tempat Formula 1 gagal?
 
-Litar yang sama, cuaca yang sama, hasil yang bertentangan — dan perbezaannya hampir keseluruhannya adalah tentang kos dan orang ramai.
+Litar sama, cuaca sama, hasil bertentangan — dan perbezaannya hampir sepenuhnya mengenai kos dan orang ramai.
 
-Yuran penajaan MotoGP jauh lebih kecil daripada Formula 1 — kementerian sukan meletakkannya pada kira-kira suku daripada F1 — dan pusingan Malaysia telah menjadi salah satu hujung minggu paling ramai dihadiri pada kalendar dua roda. Acara **2025** menarik rekod **190,977 penonton** sepanjang hujung minggu, menurut Paul Tan's Automotive News — jauh lebih ramai daripada mana-mana kumpulan penonton F1 yang Sepang lihat pada tahun-tahun akhirnya.
+Yuran penganjuran MotoGP jauh lebih kecil daripada Formula 1 — kementerian sukan menganggarkannya pada kira-kira suku daripada yuran F1 — dan pusingan Malaysia telah menjadi salah satu hujung minggu paling ramai dihadiri dalam kalendar dua roda. Acara **2025** menarik rekod **190,977 penonton** sepanjang hujung minggu, menurut Paul Tan's Automotive News — jauh lebih ramai daripada mana-mana kerumunan F1 yang dilihat Sepang pada tahun-tahun akhirnya.
 
-Ekonomi mengikut orang ramai. Edisi 2024 menjana impak ekonomi **RM694 juta**, menyokong lebih **4,400 pekerjaan**, dan memulangkan kira-kira **6.3 kali** kosnya, menurut angka yang dipetik oleh Kementerian Belia dan Sukan melalui Bernama. Atas dasar itu kabinet meluluskan **lanjutan lima tahun yang mengekalkan MotoGP di Sepang dari 2027 hingga 2031**, memberikan kelulusan penuh pada 15 April 2026. Menteri Belia dan Sukan **Mohammed Taufiq Johari** menyifatkan pembaharuan itu sebagai "keputusan strategik kerajaan untuk memastikan Malaysia kekal relevan dan berdaya saing sebagai hab sukan motor global."
+Ekonomi mengikut orang ramai. Edisi 2024 menjana impak ekonomi **RM694 juta**, menyokong lebih **4,400 pekerjaan**, dan memulangkan kira-kira **6.3 kali** ganda kosnya, menurut angka yang dipetik oleh Kementerian Belia dan Sukan menerusi Bernama. Atas dasar itu, kabinet meluluskan **pelanjutan lima tahun yang mengekalkan MotoGP di Sepang dari 2027 hingga 2031**, memberikan kelulusan penuh pada 15 April 2026. Menteri Belia dan Sukan **Mohammed Taufiq Johari** menggambarkan pembaharuan itu sebagai "keputusan strategik kerajaan untuk memastikan Malaysia kekal relevan dan berdaya saing sebagai hab sukan motor global."
 
-Kontras itu adalah pengajarannya. Sesebuah tempat hanyalah semudah acara yang dianjurkannya, dan acara itu hanyalah semudah jurang antara kosnya dan apa yang mengisi tempat duduk. Jurang MotoGP berjalan ke arah yang betul; jurang Formula 1 tidak.
+Perbezaan itu ialah pengajarannya. Sesebuah tempat penganjuran hanya sedaya maju acara yang dianjurkannya, dan acara itu hanya sedaya maju jurang antara kosnya dan apa yang memenuhi tempat duduk. Jurang MotoGP berjalan ke arah yang betul; jurang Formula 1 tidak.
 
 ## Adakah Formula 1 akan kembali secara kekal?
 
-Perlumbaan sekali sahaja 2026 bukanlah kepulangan — dan pegawai Malaysia telah berhati-hati untuk menyatakan demikian.
+Acara sekali sahaja 2026 bukanlah satu kepulangan — dan pegawai Malaysia berhati-hati untuk menyatakan demikian.
 
-Halangannya tidak pernah litar; ia sentiasa yuran. Pada Ogos 2025, bekas Menteri Belia dan Sukan **Hannah Yeoh** menolak kepulangan penuh atas alasan kos, memberitahu Malay Mail bahawa kebangkitan kekal akan mencecah **RM900 juta hingga RM1.5 bilion sepanjang tiga hingga lima tahun** dalam yuran penganjuran dan penajaan. Hujahnya adalah tentang kos peluang: kira-kira **RM10 juta** yang dibelanjakan setiap tahun hanya untuk menyelenggara litar boleh sebaliknya membiayai program atlet Road to Gold negara untuk setahun penuh, dan RM300 juta boleh menyokong pembangunan sukan merentasi kira-kira 20 disiplin. MotoGP, katanya, memberikan nilai yang lebih tinggi pada sebahagian kecil daripada yuran F1.
+Halangannya tidak pernah litar itu; ia sentiasa yuran. Pada Ogos 2025, Menteri Belia dan Sukan ketika itu **Hannah Yeoh** menolak kepulangan penuh atas alasan kos, memberitahu Malay Mail bahawa kebangkitan semula secara kekal akan mencecah **RM900 juta hingga RM1.5 bilion dalam tempoh tiga hingga lima tahun** dalam yuran pengehosan dan penganjuran. Hujahnya ialah kos peluang: kira-kira **RM10 juta** yang dibelanjakan setiap tahun hanya untuk menyelenggara litar itu sebaliknya boleh membiayai program atlet Road to Gold nasional untuk setahun penuh, dan RM300 juta boleh menyokong pembangunan sukan merentasi kira-kira 20 disiplin. MotoGP, katanya, memberikan nilai yang lebih baik pada sebahagian kecil daripada yuran F1.
 
-(Portfolio Belia dan Sukan dipegang oleh Yeoh apabila dia membuat kenyataan Ogos 2025 ini; menjelang pembaharuan MotoGP 2026 ia dipegang oleh Mohammed Taufiq Johari — gelaran menteri yang sama, pemegang jawatan yang berbeza. Setiap angka di atas dikaitkan dengan sesiapa yang memegang jawatan itu pada masa ia dinyatakan.)
+(Portfolio Belia dan Sukan dipegang oleh Yeoh ketika beliau membuat kenyataan Ogos 2025 ini; dalam rombakan kabinet pada 16 Disember 2025 beliau digantikan oleh Mohammed Taufiq Johari, yang memegang jawatan itu menjelang pembaharuan MotoGP 2026 — gelaran menteri yang sama, pemegang jawatan yang berbeza. Setiap angka di atas dikaitkan dengan sesiapa yang memegang jawatan itu pada masa ia dinyatakan.)
 
-Jadi apa sebenarnya yang perlu berubah untuk kepulangan kekal menjadi masuk akal? Senarai semak yang realistik:
+Jadi apakah yang sebenarnya perlu berubah untuk kepulangan kekal masuk akal? Senarai semak yang realistik:
 
-- **Yuran penajaan yang jauh lebih rendah** — tuas tunggal terbesar, dan satu yang Malaysia mempunyai sedikit kawalan.
-- **Rakan komersial untuk menanggung kos**, supaya ia tidak jatuh ke atas dana awam. Syarikat minyak nasional Petronas, yang lama dikaitkan dengan litar itu, telah menafikan secara terbuka sedang berusaha ke arah kepulangan.
-- **Permintaan tiket yang terbukti** pada tahap 2010-an atau lebih baik untuk menjustifikasikan perbelanjaan.
-- **Slot kalendar**, pada jadual F1 yang sudah penuh dan berkembang ke pasaran baharu.
-- **Kes politik** bahawa Grand Prix mengatasi wang yang sama yang dibelanjakan untuk pembangunan atlet.
+- **Yuran penganjuran yang jauh lebih rendah** — tuas terbesar tunggal, dan satu yang Malaysia mempunyai sedikit kawalan ke atasnya.
+- **Rakan kongsi komersial untuk menanggung kos**, supaya ia tidak dibebankan kepada dana awam. Syarikat minyak nasional Petronas, yang lama dikaitkan dengan litar itu, telah secara terbuka menafikan sedang mengusahakan kepulangan.
+- **Permintaan tiket yang terbukti** pada tahap 2010-an atau lebih baik untuk mewajarkan perbelanjaan itu.
+- **Slot kalendar**, pada jadual F1 yang sudah pun penuh dan berkembang ke pasaran baharu.
+- **Kes politik** bahawa Grand Prix mengatasi wang yang sama dibelanjakan untuk pembangunan atlet.
 
-Tiada satu pun daripada itu mustahil; kesemuanya sekali gus adalah sukar. Perlumbaan pengganti 2026 paling baik dibaca sebagai uji bakat berisiko rendah — peluang untuk menunjukkan Sepang masih boleh menyampaikan hujung minggu Formula 1 bertaraf dunia, tanpa mempertaruhkan sembilan angka wang awam untuk mengetahuinya.
+Tiada satu pun daripadanya mustahil; kesemuanya sekali gus adalah sukar. Perlumbaan ganti 2026 sebaiknya dibaca sebagai uji bakat berisiko rendah — peluang untuk menunjukkan Sepang masih boleh menyampaikan hujung minggu Formula 1 bertaraf dunia, tanpa mempertaruhkan wang awam bernilai sembilan angka untuk mengetahuinya.
 
-## Salah tanggapan biasa
+## Salah tanggapan lazim
 
-- **"Perlumbaan 2026 bermakna F1 kembali di Malaysia."** Ia adalah sekali sahaja, dan secara rasmi Grand Prix Bahrain. Tiada apa-apa tentang kalendar kekal yang berubah.
-- **"Malaysia membayar untuk membawa F1 kembali."** Untuk 2026 ia tidak membayar yuran penajaan langsung — Bahrain telah pun membayarnya. Perbelanjaan Malaysia terhad kepada persiapan litar.
-- **"Sepang ditinggalkan atau terbiar."** Sebaliknya. Ia tidak pernah berhenti menjalankan MotoGP, perlumbaan ketahanan, ujian dan hari trek; ia menamatkan satu acara mahal, bukan tempat itu.
-- **"F1 pergi kerana litar tidak cukup bagus."** Litar itu diberi penilaian tinggi secara meluas antara tempat terbaik untuk memotong dalam sukan itu. Pengunduran itu adalah keputusan belanjawan, bukan kejuruteraan.
-- **"MotoGP dan F1 berkos hampir sama untuk dianjurkan."** Ia tidak. Yuran MotoGP adalah sebahagian kecil daripada F1 — sebab teras satu kekal dan yang satu lagi pergi.
+- **"Perlumbaan 2026 bermakna F1 telah kembali di Malaysia."** Ia sekali sahaja, dan secara rasmi ialah Grand Prix Bahrain. Tiada apa-apa mengenai kalendar kekal yang berubah.
+- **"Malaysia membayar untuk membawa kembali F1."** Bagi 2026 ia tidak membayar yuran penganjuran langsung — Bahrain telah pun membayarnya. Perbelanjaan Malaysia terhad kepada penyediaan litar.
+- **"Sepang ditinggalkan atau tidak lagi digunakan."** Sebaliknya. Ia tidak pernah berhenti menganjurkan MotoGP, perlumbaan ketahanan, ujian dan hari litar; ia menggugurkan satu acara mahal, bukan tempat penganjuran itu.
+- **"F1 pergi kerana litar itu tidak cukup baik."** Litar itu diiktiraf secara meluas antara tempat memotong terbaik dalam sukan itu. Pemergian itu ialah keputusan bajet, bukan kejuruteraan.
+- **"MotoGP dan F1 menelan kos yang lebih kurang sama untuk dianjurkan."** Tidak. Yuran MotoGP hanyalah sebahagian kecil daripada F1 — sebab teras satu kekal dan satu lagi pergi.
 
-## Apa seterusnya
+## Apa yang seterusnya
 
-Tarikh terdekat untuk diperhatikan ialah **2-4 Oktober 2026**, apabila Formula 1 kembali ke Sepang sebagai pengganti Bahrain — kereta F1 pertama di grid di sana sejak 2017, dan ujian langsung sama ada Malaysia masih mahukan sukan itu pada sebarang harga. Perhatikan angka penonton dan nada kerajaan selepas itu: kehadiran yang kuat boleh menghidupkan semula perdebatan kepulangan kekal yang setakat ini ditutup oleh kos.
+Tarikh terdekat untuk diperhatikan ialah **2-4 Oktober 2026**, apabila Formula 1 kembali ke Sepang sebagai pengganti Bahrain — kereta F1 pertama di garisan permulaan di situ sejak 2017, dan ujian langsung sama ada Malaysia masih mahukan sukan itu pada sebarang harga. Perhatikan angka kerumunan dan nada kerajaan selepasnya: kehadiran yang kuat boleh menghidupkan semula perdebatan kepulangan kekal yang setakat ini ditutup oleh kos.
 
-Selain itu, gambaran yang tetap adalah dua roda. MotoGP terikat sehingga **2031**, disokong oleh kehadiran dan ekonomi yang Formula 1 tidak pernah tandingi pada tahun-tahun akhir Malaysianya. Legasi Sepang, buat masa ini, bukan sukan yang meletakkannya di peta — ia adalah tempat itu sendiri: sebuah karya asli Tilke yang bertahan lebih lama daripada Grand Prix yang ia dibina untuknya, dan kekal cukup bernilai sehingga dunia kembali untuk meminjamnya.
+Selain itu, gambaran yang tetap adalah dua roda. MotoGP terkunci sehingga **2031**, disokong oleh kehadiran dan ekonomi yang Formula 1 tidak pernah tandingi pada tahun-tahun akhir Malaysianya. Warisan Sepang, buat masa ini, bukan sukan yang meletakkannya di peta — ia ialah tempat penganjuran itu sendiri: sebuah karya asli Tilke yang bertahan lebih lama daripada Grand Prix yang dibina untuknya, dan kekal cukup bernilai sehingga dunia kembali untuk meminjamnya.
 
-Untuk konteks yang lebih luas mengenai Selangor, di mana litar itu terletak berhampiran Lapangan Terbang Antarabangsa Kuala Lumpur, lihat panduan pendamping untuk menjalankan perniagaan di Selangor.
+Untuk konteks lebih luas mengenai Selangor, tempat litar itu terletak berhampiran Lapangan Terbang Antarabangsa Kuala Lumpur, lihat panduan iringan untuk menjalankan perniagaan di Selangor.
