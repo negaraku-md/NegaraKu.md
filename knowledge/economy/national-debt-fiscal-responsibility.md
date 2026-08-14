@@ -37,9 +37,9 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-08
+reviewed: 2026-08-14
 reviewDue: 2027-08-08
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-08-08
@@ -49,15 +49,14 @@ revisions:
     date: 2026-08-08
     change: "Correction pass: fixed 2024 DSC (15.6% not 9.0%), s.8/s.18/s.27 attributions, re-sourced RM35bn/RM10bn & JRFL to MOF Fiscal Outlook, neutralised tone."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-verificationNeeded:
-  - "Status rasmi mana-mana 'ambang dalaman' DSC 15% hasil (angka 15.6%/16.3% disahkan; ambang formal belum dipin ke satu sumber utama tunggal)."
-  - "Angka DSC 2025 (RM54.3 bilion / 16.3%) dan defisit 3.8% 2025 ialah unjuran dalam Fiscal Outlook 2026 — sahkan terhadap data muktamad kemudian."
-  - "Perbezaan antara Jawatankuasa Dasar Fiskal berkanun (Akta 850 seksyen 28) dan JRFL (ditubuhkan Mac 2024) — pastikan kedua-dua badan tidak dikelirukan."
-  - "Statut khusus yang mengawal MITB (Figure 1 Fiscal Outlook 2026 mengumpulkan MITB dalam siling 65% MGS/MGII/MITB) — sahkan akta pembolehnya."
-  - "Sama ada 60% paling tepat digambarkan sebagai 'sasaran jangka sederhana' beransur-ansur atau had mengikat — dibentangkan mengikut rangka MOF; mungkin perlu nuansa tambahan."
+verificationNeeded: []
 
-updated: 2026-08-08
+updated: 2026-08-14
 sources:
   - title: "Public Finance and Fiscal Responsibility Act 2023 (Act 850)"
     url: "https://www.mof.gov.my/portal/pdf/ekonomi/akta-850-en.pdf"
@@ -65,12 +64,21 @@ sources:
   - title: "Fiscal Outlook 2026, Section 4: Debt Management"
     url: "https://belanjawan.mof.gov.my/pdf/belanjawan2026/revenue/section4.pdf"
     publisher: "Kementerian Kewangan Malaysia"
+  - title: "Fiscal Outlook 2026, Section 5: Fiscal Risk and Liabilities"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2026/revenue/section5.pdf"
+    publisher: "Kementerian Kewangan Malaysia"
   - title: "Fiscal Outlook 2025, Section 4: Debt Management"
     url: "https://belanjawan.mof.gov.my/pdf/belanjawan2025/revenue/section4.pdf"
     publisher: "Kementerian Kewangan Malaysia"
   - title: "Govt Committed To Reducing Fiscal Deficit, Keep Debt-To-GDP Ratio Below 60 Pct"
     url: "https://www.mof.gov.my/portal/en/news/press-citations/govt-committed-to-reducing-fiscal-deficit-keep-debt-to-gdp-ratio-below-60-pct"
     publisher: "Kementerian Kewangan Malaysia"
+  - title: "New statutory debt limits to balance financing needs – Yamani Hafez"
+    url: "https://www.mof.gov.my/portal/en/news/press-citations/new-statutory-debt-limits-to-balance-financing-needs-yamani-hafez"
+    publisher: "Kementerian Kewangan Malaysia"
+  - title: "MoF: Debt servicing to take up 16.3pc of govt revenue in 2025 amid fiscal tightening"
+    url: "https://www.malaymail.com/news/malaysia/2025/10/10/mof-debt-servicing-to-take-up-163pc-of-govt-revenue-in-2025-amid-fiscal-tightening/194126"
+    publisher: "Malay Mail (reporting Fiscal Outlook 2026 / MOF figures)"
 
 entity: "Akta Kewangan Awam dan Tanggungjawab Fiskal 2023"
 relations:
@@ -124,7 +132,7 @@ Hutang Kerajaan Persekutuan telah meningkat secara berterusan dari segi nilai mu
 
 Pada Jun 2025, **98.3% hutang adalah dalam mata wang tempatan** (ringgit), meninggalkan hanya 1.7% dalam pinjaman luar pesisir, yang mengehadkan pendedahan kepada risiko kadar pertukaran asing. Instrumen patuh Syariah membentuk 48.6% daripada portfolio, atau RM634.3 bilion.
 
-Dari segi kos, caj khidmat hutang (DSC) menelan **RM50.5 bilion pada 2024, bersamaan 15.6% daripada hasil Kerajaan**, dan diunjurkan meningkat kepada **RM54.3 bilion atau 16.3% hasil pada 2025** menurut Fiscal Outlook 2026. Nisbah ini telah melepasi paras 15% hasil — satu tanda aras yang sering dipantau bagi kelestarian kos hutang. Kerajaan menyasarkan penurunan defisit fiskal daripada 4.1% KDNK (2024) kepada 3.8% (2025), menuju ke arah sasaran 3% jangka sederhana.
+Dari segi kos, caj khidmat hutang (DSC) menelan **RM50.5 bilion pada 2024, bersamaan 15.6% daripada hasil Kerajaan**, dan diunjurkan meningkat kepada **RM54.3 bilion atau 16.3% hasil pada 2025** menurut Fiscal Outlook 2026. Nisbah DSC kepada hasil kini melebihi 15% — satu paras yang sering dirujuk secara tidak formal sebagai penunjuk umum beban kos hutang, tetapi bukan ambang berkanun rasmi. Kerajaan menyasarkan penurunan defisit fiskal daripada 4.1% KDNK (2024) kepada 3.8% (2025), menuju ke arah sasaran 3% jangka sederhana.
 
 ## Bagaimana perbelanjaan pembangunan dan liabiliti luar jangka masuk kira?
 
@@ -132,7 +140,7 @@ Akta 850 bukan sekadar mengehadkan hutang — ia turut menetapkan lantai bagi pe
 
 Liabiliti luar jangka — terutama jaminan kewangan yang diberikan kepada entiti seperti syarikat berkaitan kerajaan — ditangani secara berasingan. Ini bukan hutang melainkan ia **terealisasi**, tetapi ia tetap risiko fiskal. Akta 850 mengehadkan jaminan kewangan kepada **25% KDNK** dan mewajibkan Menteri menerbitkan penyata risiko fiskal tahunan yang mendedahkan tahap jaminan dan pendedahan lain.
 
-Dari segi struktur tadbir urus, Akta 850 menubuhkan secara berkanun **Jawatankuasa Dasar Fiskal** (Fiscal Policy Committee) di bawah **seksyen 28**, yang boleh membuat syor kepada Kabinet mengenai dasar fiskal Kerajaan. Berasingan, **Jawatankuasa Risiko Fiskal, Hutang dan Liabiliti (JRFL)** ditubuhkan pada Mac 2024 — menurut Fiscal Outlook Kementerian Kewangan, melalui peruntukan di bawah Akta — untuk menilai pendedahan risiko fiskal, hutang dan liabiliti lain Kerajaan. Sebagai gambaran lebih luas, hutang sektor awam Malaysia — merangkumi kerajaan, badan berkanun dan syarikat awam — mencecah RM1,730.5 bilion atau 85.8% KDNK pada Jun 2025.
+Dari segi struktur tadbir urus, Akta 850 menubuhkan secara berkanun **Jawatankuasa Dasar Fiskal** (Fiscal Policy Committee) di bawah **seksyen 28**, yang boleh membuat syor kepada Kabinet mengenai dasar fiskal Kerajaan. Berasingan, **Jawatankuasa Risiko Fiskal, Hutang dan Liabiliti (JRFL)** ditubuhkan pada Mac 2024 sebagai subjawatankuasa di bawah **seksyen 31** Akta — yang memberi kuasa kepada Jawatankuasa Dasar Fiskal menubuhkan subjawatankuasa untuk menilai pendedahan risiko fiskal, hutang dan liabiliti lain Kerajaan (Fiscal Outlook 2026, Seksyen 5, Kementerian Kewangan). Sebagai gambaran lebih luas, hutang sektor awam Malaysia — merangkumi kerajaan, badan berkanun dan syarikat awam — mencecah RM1,730.5 bilion atau 85.8% KDNK pada Jun 2025.
 
 ## Apa jadi jika Kerajaan tidak capai sasaran?
 

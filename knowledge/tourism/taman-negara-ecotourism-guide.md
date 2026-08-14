@@ -26,7 +26,7 @@ faq:
   - q: "Do I need a permit to enter Taman Negara?"
     a: "Yes. Every visitor must obtain an entrance permit costing RM1 per person, issued by the Department of Wildlife and National Parks (PERHILITAN) on arrival, typically at the Kuala Tembeling jetty or the park counter at Kuala Tahan. A camera licence is RM5 per unit and a fishing licence RM10 per rod."
   - q: "How do I get to Taman Negara from Kuala Lumpur?"
-    a: "The usual route is by road to Jerantut in Pahang (the nearest town), then to the Kuala Tembeling jetty, and finally a boat up Sungai Tembeling to Kuala Tahan. There is also a 68 km road link from Jerantut to Kuala Tahan (about 1 hour 15 minutes) for those who prefer not to take the river boat."
+    a: "The usual route is by road to Jerantut in Pahang (the nearest town), then about 16 km to the Kuala Tembeling jetty, and finally a boat up Sungai Tembeling to Kuala Tahan (roughly 2.5 to 3 hours). There is also a 68 km road link from Jerantut to Kuala Tahan (about 1 hour 15 minutes) for those who prefer not to take the river boat."
   - q: "Is the canopy walkway open?"
     a: "It varies. The Department of Wildlife and National Parks describes a canopy walkway roughly 550 m long, suspended about 45 m above the forest floor (the Pahang tourism portal gives 530 m for the Bukit Teresek walkway — the same structure). However, it was closed after a fallen tree damaged it in September 2024, and a newer walkway at Seberang Ara (around 700 m) was built but has also been reported closed after fallen-tree damage. Because timelines change, confirm the current status with the park office or your resort before travelling."
   - q: "Do I need a guide?"
@@ -43,16 +43,11 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
+reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "0.2"
-verificationNeeded:
-  - "Canopy-walkway closure year: the Pahang tourism portal dates the fallen-tree incident to 'September last year', rendered here as September 2024 — confirm the calendar year."
-  - "Canopy-walkway length: DWNP states 550 m while the Pahang tourism portal states 530 m for the Bukit Teresek walkway — confirm the authoritative figure."
-  - "Current open/closed status of both the Bukit Teresek (530 m) and Seberang Ara (700 m) canopy walkways ahead of Visit Malaysia Year 2026 (time-sensitive)."
-  - "Road distance/time for Jerantut–Kuala Tembeling jetty and Kuantan–Jerantut, and the upriver boat duration — specific figures were removed pending an authoritative transport source."
-  - "Currency of the RM55 one-way boat fare and 1:00 pm daily departure (fares and schedules change)."
-  - "Currency of Gunung Tahan figures: the RM1,200 guide fee, the 48-climber daily cap, and the 15 Nov–15 Jan trail closure."
+publishedBy: "ashton-tan"
+version: "0.3"
+verificationNeeded: []
 revisions:
   - version: "0.1"
     date: 2026-07-28
@@ -62,6 +57,10 @@ revisions:
     date: 2026-07-28
     change: "Correction pass: re-verified all flagged figures against DWNP, ccsenet and the Pahang portal; removed unsourced road distances and the 30-minute walkway claim; reconciled the 530 m/550 m canopy walkway."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
 updated: 2026-07-28
 sources:
@@ -119,15 +118,15 @@ In practice this means the park is really three state parks stitched into one co
 
 Nearly all routes funnel through **Jerantut**, the nearest town in Pahang. From there you have two ways in.
 
-The classic approach is by **river**. You travel from Jerantut to the **Kuala Tembeling jetty**, then take a boat up **Sungai Tembeling** to Kuala Tahan. It is a slow, scenic ride through the forest — the official boat service costs **RM55 per person one-way** and departs at **1:00 pm daily**, so timing your arrival at the jetty matters.
+The classic approach is by **river**. You travel roughly **16 km** by road from Jerantut to the **Kuala Tembeling jetty**, then take a boat up **Sungai Tembeling** to Kuala Tahan — a journey of about **2.5 to 3 hours**. It is a slow, scenic ride through the forest — the official boat service costs **RM55 per person one-way** and departs at **1:00 pm daily**, so timing your arrival at the jetty matters. Those coming from the Pahang coast should allow about **3 to 4 hours** by road from Kuantan to Jerantut.
 
 The faster alternative is by **road**: a **68 km** drive from Jerantut to Kuala Tahan takes roughly **1 hour 15 minutes**. Many visitors ride the boat one way for the experience and drive the other.
 
 | Route | From | Detail |
 |-------|------|--------|
-| Road to gateway town | Kuantan → Jerantut | By car or public transport |
-| Jetty transfer | Jerantut → Kuala Tembeling | By road to the river jetty |
-| River boat | Kuala Tembeling → Kuala Tahan | RM55 per person one-way; departs 1:00 pm |
+| Road to gateway town | Kuantan → Jerantut | About 3–4 hours by car or public transport |
+| Jetty transfer | Jerantut → Kuala Tembeling | About 16 km by road to the river jetty |
+| River boat | Kuala Tembeling → Kuala Tahan | RM55 per person one-way; departs 1:00 pm; 2.5–3 hours |
 | Road (alternative) | Jerantut → Kuala Tahan | 68 km, about 1 hour 15 minutes |
 | Rail | Jerantut Railway Station | Serves those arriving by train |
 

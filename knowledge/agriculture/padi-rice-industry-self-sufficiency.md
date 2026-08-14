@@ -14,20 +14,20 @@ sensitivity: "none"
 
 answer: "Malaysia menghasilkan lebih separuh berasnya sendiri tetapi masih mengimport bakinya. Menggunakan kaedah pengiraan baharu berasaskan garis panduan FAO, Kementerian Pertanian dan Keterjaminan Makanan melaporkan kadar sara diri (SSL) beras pada 56.2% bagi 2023. Kerajaan menyasarkan 75% menjelang 2025 di bawah Rancangan Malaysia Ke-12 dan 80% menjelang 2030 di bawah Dasar Agromakanan Negara (DAN 2.0), dipacu oleh peningkatan hasil di kawasan jelapang padi, skim ladang pintar SMART SBB, serta struktur harga terjamin dan subsidi bagi pesawah."
 keyTakeaways:
-  - "Kadar sara diri beras dilaporkan pada 56.2% bagi 2023 mengikut kaedah pengiraan baharu berasaskan FAO — lebih rendah daripada angka yang dilaporkan di bawah kaedah lama kerana kaedah baharu hanya mengira padi bersih yang diproses menjadi beras"
+  - "Kadar sara diri beras dilaporkan pada 56.2% bagi 2023 mengikut kaedah pengiraan baharu berasaskan FAO — lebih rendah daripada julat 63-70% yang dilaporkan di bawah kaedah lama sepanjang dekad lalu (DOSM), kerana kaedah baharu hanya mengira padi bersih yang diproses menjadi beras"
   - "Sasaran SSL beras ialah 75% menjelang 2025 (RMK-12) dan 80% menjelang 2030 (Dasar Agromakanan Negara 2021-2030)"
   - "Skim ladang pintar SMART SBB ala Sekinchan disasarkan meliputi 150,000 hektar menjelang 2030 — kira-kira satu pertiga daripada keluasan padi negara — untuk menaikkan hasil daripada purata bawah 5 tan sehektar kepada sekurang-kurangnya 7 tan"
-  - "Harga lantai padi dinaikkan kepada RM1,300 setan dalam Belanjawan 2024, daripada RM1,200 yang kekal sejak 2014"
+  - "Harga lantai padi dinaikkan kepada RM1,300 setan dalam Belanjawan 2024 (berkuat kuasa 15 Februari 2024), daripada RM1,200 yang kekal sejak 2014"
   - "BERNAS memegang peranan pengimport tunggal beras negara, satu peranan yang diwarisi daripada LPN yang mengambil alih import beras pada 1974, dan telah diswastakan pada 12 Januari 1996"
 appliesTo: "Pelajar, wartawan, pesawah, penggubal dasar, pelabur agromakanan, dan sesiapa yang ingin memahami sebab Malaysia masih mengimport beras dan apa yang kerajaan lakukan untuk mengubahnya."
 
 faq:
   - q: "Berapakah kadar sara diri beras Malaysia?"
-    a: "Kementerian Pertanian dan Keterjaminan Makanan melaporkan kadar sara diri (SSL) beras pada 56.2% bagi 2023, menggunakan kaedah pengiraan baharu yang selaras dengan garis panduan Pertubuhan Makanan dan Pertanian PBB (FAO). Kaedah ini hanya mengambil kira padi bersih yang benar-benar diproses menjadi beras, jadi angkanya lebih rendah daripada angka yang dilaporkan di bawah kaedah pengiraan lama."
+    a: "Kementerian Pertanian dan Keterjaminan Makanan melaporkan kadar sara diri (SSL) beras pada 56.2% bagi 2023, menggunakan kaedah pengiraan baharu yang selaras dengan garis panduan Pertubuhan Makanan dan Pertanian PBB (FAO). Kaedah ini hanya mengambil kira padi bersih yang benar-benar diproses menjadi beras, jadi angkanya lebih rendah daripada julat 63-70% yang dilaporkan di bawah kaedah pengiraan lama sepanjang dekad lalu (DOSM)."
   - q: "Mengapa Malaysia masih mengimport beras?"
     a: "Pengeluaran padi tempatan tidak cukup untuk menampung penggunaan. Bagi setiap satu kilogram beras yang dimakan, kira-kira 400 gram diimport. Faktornya termasuk hasil sehektar yang rendah berbanding negara pengeksport, keluasan tanah sawah yang terhad, kos input yang tinggi, cuaca serta perosak, dan penggunaan per kapita yang masih tinggi."
   - q: "Apakah harga minimum yang dijamin untuk padi?"
-    a: "Harga lantai (harga minimum terjamin) padi dinaikkan kepada RM1,300 setiap tan metrik dalam Belanjawan 2024, daripada RM1,200 yang kekal sejak 2014. Selain itu, pesawah menerima Subsidi Harga Padi yang dinaikkan kepada RM500 setan dalam Belanjawan 2024."
+    a: "Harga lantai (harga minimum terjamin) padi dinaikkan kepada RM1,300 setiap tan metrik dalam Belanjawan 2024, berkuat kuasa 15 Februari 2024, daripada RM1,200 yang kekal sejak 2014. Selain itu, pesawah menerima Subsidi Harga Padi yang dinaikkan kepada RM500 setan dalam Belanjawan 2024."
   - q: "Apakah SMART SBB?"
     a: "SMART SBB (Sawah Berskala Besar) ialah model penanaman padi ala Sekinchan yang menggunakan amalan ladang pintar berskala besar untuk menaikkan hasil. Kementerian menyasarkan pelaksanaannya di kira-kira 150,000 hektar menjelang 2030 bagi menaikkan hasil daripada purata di bawah 5 tan sehektar kepada sekurang-kurangnya 7 tan sehektar."
   - q: "Apakah peranan BERNAS?"
@@ -40,15 +40,12 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
+publishedBy: "ashton-tan"
+reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "0.2"
+version: "0.3"
 verificationNeeded:
-  - "Tarikh atau bulan kuat kuasa sebenar harga lantai padi RM1,300 setan — sumber Belanjawan 2024 (RTM) hanya mengesahkan kenaikan daripada RM1,200 (2014), tanpa menyatakan tarikh atau bulan kuat kuasa."
-  - "Nilai tepat kadar sara diri beras yang dilaporkan di bawah kaedah pengiraan lama sebelum 56.2% — laporan The Star tidak menyebut sebarang angka SSL terdahulu."
   - "Angka hasil padi sehektar khusus mengikut kawasan (cth. Kelantan/KADA) — tiada sumber utama yang disemak memberikan angka per-hektar untuk kawasan tertentu; hanya purata kebangsaan bawah 5 tan sehektar dan lokasi perintis Kedah yang lebih tinggi disahkan."
-  - "Sama ada laman dasar KPKM sendiri menyatakan sasaran SSL 80% — sumber utama yang mengaitkan sasaran 80% dengan DAN 2.0 ialah myagricensus (DOSM); laman KPKM yang dipetik hanya memberi struktur dasar (6 objektif, 5 teras, 21 strategi, 77 pelan tindakan)."
-  - "Sama ada slug berkaitan 'food-security-malaysia' dan 'cost-of-living-malaysia' wujud dalam repo — rujukan hadapan yang perlu dicipta atau diselaraskan sebelum semakan pautan."
 revisions:
   - version: "0.1"
     date: 2026-08-01
@@ -58,8 +55,12 @@ revisions:
     date: 2026-08-01
     change: "Semakan pembetulan: buang angka tak bersumber (julat SSL lama 63-70%, hasil ~4 tan/ha Kelantan, tarikh 'Februari 2024' harga lantai); betulkan rangka BERNAS kepada krisis 1973/import 1974 selaras laman BERNAS; buang ciri editorial ('belum pernah tercapai', 'berulang kali terlepas'); buang rujukan relasi 'food-security-malaysia' yang belum wujud; tambah verificationNeeded."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-08-01
+updated: 2026-08-14
 sources:
   - title: "Country's rice self-sufficiency rate at 56.2pc according to new calculation, says ministry"
     url: "https://www.thestar.com.my/news/nation/2024/10/11/country039s-rice-self-sufficiency-rate-at-562pc-according-to-new-calculation-says-ministry"
@@ -75,6 +76,12 @@ sources:
   - title: "Belanjawan 2024: RM2.6 bilion untuk pelbagai subsidi, harga lantai padi RM1,300 per tan"
     url: "https://berita.rtm.gov.my/nasional/senarai-berita-nasional/senarai-artikel/belanjawan-2024-rm2-6-bilion-untuk-pelbagai-subsidi-harga-lantai-padi-rm1-300-per-tan/"
     publisher: "Portal Berita RTM"
+  - title: "Harga lantai padi belian di Sabah, Sarawak RM1,300 per tan metrik"
+    url: "https://berita.rtm.gov.my/nasional/senarai-berita-nasional/senarai-artikel/harga-lantai-padi-belian-di-sabah-sarawak-rm1-300-per-tan-metrik/"
+    publisher: "Portal Berita RTM"
+  - title: "Paddy Industry Development Division"
+    url: "https://www.kpkm.gov.my/en/corporate/divisions-and-units/paddy-industry-development-division"
+    publisher: "Kementerian Pertanian dan Keterjaminan Makanan (KPKM)"
   - title: "Our Legacy — BERNAS"
     url: "https://bernas.com.my/about-us/legacy"
     publisher: "Padiberas Nasional Berhad (BERNAS)"
@@ -84,8 +91,8 @@ sources:
 
 entity: "Industri padi dan beras Malaysia"
 relations:
-  - { rel: "affects", to: "cost-of-living-malaysia" }
-related: []
+  - { rel: "affects", to: "cost-of-living-overview" }
+related: ["food-security-self-sufficiency-policy"]
 keywords: ["padi", "beras", "kadar sara diri", "SSL", "jelapang padi", "SMART SBB", "BERNAS", "Dasar Agromakanan Negara", "harga minimum terjamin", "subsidi padi"]
 ---
 
@@ -95,7 +102,7 @@ Beras bukan sekadar makanan ruji — ia isu keselamatan negara. Kerajaan mengawa
 
 ## Berapa banyak beras yang Malaysia keluarkan sendiri?
 
-Lebih separuh, tetapi tidak cukup. Pada Oktober 2024, Kementerian Pertanian dan Keterjaminan Makanan mengumumkan kadar sara diri (SSL) beras negara pada **56.2%** bagi tahun 2023 — angka yang lebih rendah daripada figura yang biasa dilaporkan di bawah kaedah pengiraan lama.
+Lebih separuh, tetapi tidak cukup. Pada Oktober 2024, Kementerian Pertanian dan Keterjaminan Makanan mengumumkan kadar sara diri (SSL) beras negara pada **56.2%** bagi tahun 2023 — angka yang lebih rendah daripada julat **63-70%** yang menurut DOSM dilaporkan di bawah kaedah pengiraan lama sepanjang dekad lalu.
 
 Kejatuhan itu bukan sepenuhnya kerana pengeluaran merudum, tetapi kerana cara mengira yang berubah. Kaedah baharu ini selaras dengan garis panduan Pertubuhan Makanan dan Pertanian PBB (FAO), dan hanya mengambil kira padi bersih yang benar-benar diproses menjadi beras — tidak lagi memasukkan padi benih. Kadar penukaran padi-ke-beras dikekalkan pada 70% di Semenanjung, 63% di Sabah, dan 60% di Sarawak.
 
@@ -138,7 +145,7 @@ Kerajaan — melalui gabungan harga terjamin, subsidi tunai, dan seorang pembeli
 
 Tiga lapisan utama menyokong pendapatan pesawah:
 
-1. **Harga lantai (harga minimum terjamin).** Dalam Belanjawan 2024, harga lantai padi dinaikkan kepada **RM1,300 setiap tan metrik**, daripada RM1,200 yang kekal sejak 2014. Ini menetapkan harga terendah yang boleh diterima pesawah.
+1. **Harga lantai (harga minimum terjamin).** Dalam Belanjawan 2024, harga lantai padi dinaikkan kepada **RM1,300 setiap tan metrik**, berkuat kuasa **15 Februari 2024**, daripada RM1,200 yang kekal sejak 2014. Pada tarikh yang sama, kadar RM1,300 diseragamkan ke seluruh negara apabila Sabah dan Sarawak dinaikkan daripada paras pasaran minimum untuk sepadan dengan Semenanjung. Ini menetapkan harga terendah yang boleh diterima pesawah.
 2. **Subsidi Harga Padi.** Bayaran tambahan bagi setiap tan padi yang dijual dinaikkan kepada **RM500 setan** (daripada RM360). Ia adalah subsidi berasaskan pengeluaran — lebih banyak padi dijual, lebih banyak bantuan diterima.
 3. **Subsidi input.** Kerajaan memperuntukkan **RM2.6 bilion** dalam Belanjawan 2024 bagi pelbagai subsidi dan insentif kepada pesawah serta nelayan, termasuk baja, racun dan kos pengeluaran.
 

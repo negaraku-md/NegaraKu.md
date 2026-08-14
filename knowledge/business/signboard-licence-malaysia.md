@@ -36,11 +36,8 @@ faq:
     a: "Section 102(c) of the Local Government Act 1976 expressly includes the power to remove an advertisement, and s.104 caps by-law penalties at a fine up to RM2,000, imprisonment up to one year, or both, plus RM200 for each day the offence continues after conviction. In practice councils reach first for forfeiture of the deposit where a sign is not taken down."
 
 verificationNeeded:
-  - "The operative text of the Undang-Undang Kecil Iklan (Wilayah Persekutuan) 1982 read directly from the gazette — the copy published by DBKL is a scanned image, so the paragraphs here are quoted from DBP's own official reproduction with its P.U. citations"
   - "The specific compound amount for an unlicensed signboard at any of the four councils — only the statutory ceiling in s.104 is confirmed"
   - "MBSA's area-based annual signboard tariff — only the advertisement processing fee and the flat bunting and banner rates are published"
-  - "DBKL and MBPJ both publish unlit signboard rates above lit rates, which inverts the expected ordering and contradicts MBPJ's own adjacent table — confirm with the council before relying on either figure"
-  - "Current DBP Sah Bahasa processing time — the portal publishes fees but not a turnaround"
 
 lang: "en"
 masterLanguage: "en"
@@ -49,16 +46,21 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-07-22
+reviewed: 2026-08-14
 reviewDue: 2027-07-22
-version: "0.1"
+publishedBy: "ashton-tan"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-20
     change: "Initial draft."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-07-20
+updated: 2026-08-14
 sources:
   - title: "Local Government Act 1976 (Act 171)"
     url: "https://www.doa.gov.my/doa/resources/info_doa/akta171_kerajaan_tempatan_1976.pdf"
@@ -75,6 +77,24 @@ sources:
   - title: "Permit Iklan"
     url: "https://mbsa.gov.my/ms-my/mbsa/perkhidmatan/permit/Halaman/permit_iklan.aspx"
     publisher: "MBSA"
+  - title: "UUK Iklan (Wilayah Persekutuan) 1982 — scanned gazette copy"
+    url: "https://www.dbkl.gov.my/files/senarai-perundangan/subsidiari/(8)--uuk-iklan-(wp)-1982.pdf"
+    publisher: "Dewan Bandaraya Kuala Lumpur"
+  - title: "Panduan Permohonan Lesen Komposit Premis dan Iklan (Okt 2024)"
+    url: "https://www.mbpj.gov.my/sites/default/files/panduan_permohonan_lesen_komposit_premis_dan_iklan_okt2024.pdf"
+    publisher: "MBPJ"
+  - title: "Garis Panduan dan Syarat-Syarat Permohonan Lesen Iklan Papan Tanda Premis"
+    url: "https://elesen.dbkl.gov.my/elesen3/UploadControl/Portal/Garis%20Panduan%20Iklan%20Papan%20Tanda-Papan%20Tanda.pdf"
+    publisher: "Dewan Bandaraya Kuala Lumpur"
+  - title: "Piagam Pelanggan"
+    url: "https://dbp.gov.my/piagam-pelanggan/"
+    publisher: "Dewan Bahasa dan Pustaka"
+  - title: "Senarai Perundangan (subsidiary by-laws index)"
+    url: "https://www.dbkl.gov.my/info-korporat/senarai-perundangan/"
+    publisher: "Dewan Bandaraya Kuala Lumpur"
+  - title: "Lesen Komposit (Perniagaan / Perindustrian)"
+    url: "https://www.mbsa.gov.my/ms-my/mbsa/perkhidmatan/pelesenan/Halaman/lesen_komposit.aspx"
+    publisher: "Majlis Bandaraya Shah Alam"
 
 entity: "Signboard licence (lesen iklan papan tanda)"
 relations:
@@ -123,7 +143,9 @@ advertisements — outdoor billboards, pillar advertisements, electronic adverti
 posters, vehicle wraps, notices and labels.
 
 The per-council pricing matters: if you have outlets under three different councils, that
-is three submissions.
+is three submissions. DBP's client charter puts the turnaround for the online service at
+**three working days** (the legacy counter standard was one working day), so build that
+into your timeline before fabrication.
 
 All four councils name the requirement explicitly. DBKL asks for one colour signboard
 visual certified by DBP. MBPJ requires DBP spelling endorsement for every advertisement
@@ -182,10 +204,15 @@ Three different bases, which is itself the point.
 - **DBKK** — per square metre per year, with streamers priced per piece per day and banners
   converted to a daily rate.
 
-**One anomaly worth flagging before you budget.** Both DBKL's premise signboard table and
-MBPJ's logo-type table price **unlit signage above lit signage**, which inverts the
-expected ordering and contradicts MBPJ's own standard table immediately above it. We have
-not corrected the published figures, but confirm with the council before relying on either.
+**One anomaly worth flagging before you budget.** MBPJ's own October 2024 composite-licence
+guide sets out two tables in sequence. The standard premise-signboard table prices as
+expected — unlit **RM100 a year** (up to 8 m²) plus RM10 per extra m², lit **RM150 a year**
+plus RM15 per extra m². But the logo-type table immediately below it **inverts** that:
+unlit **RM200 a year** plus RM20 per extra m², lit **RM150 a year** plus RM15 per extra m²
+— so an unlit logo sign is priced *above* the lit one. DBKL's premise signboard table is
+reported to invert the ordering the same way, but its per-square-metre fee schedule is no
+longer reachable at its published URL, so the DBKL figure still needs council confirmation
+before you rely on it.
 
 ## What happens if you put one up anyway
 

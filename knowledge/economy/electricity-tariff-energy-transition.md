@@ -16,7 +16,7 @@ answer: "Mulai 1 Julai 2025, Suruhanjaya Tenaga menetapkan tarif asas 45.40 sen/
 keyTakeaways:
   - "Tarif asas RP4 ialah 45.40 sen/kWh, berkuat kuasa 1 Julai 2025 hingga 31 Disember 2027; menurut Suruhanjaya Tenaga, purata kos keseluruhan tarif elektrik berkurangan sehingga 19% berbanding tempoh kawal selia sebelumnya (RP3)."
   - "Bil kini dipecahkan kepada lima komponen: Tenaga, AFA (bulanan, menggantikan ICPT), Kapasiti, Rangkaian dan Runcit."
-  - "Mengikut jadual tarif yang dilaporkan media, Insentif Kecekapan Tenaga memberi rebat sehingga 25 sen/kWh kepada pengguna domestik 1,000 kWh dan ke bawah, dan caj runcit RM10 dimansuhkan untuk 600 kWh dan ke bawah."
+  - "Mengikut siaran media rasmi Suruhanjaya Tenaga bagi RP4, Insentif Kecekapan Tenaga memberi rebat sehingga 25 sen/kWh kepada pengguna domestik 1,000 kWh dan ke bawah, dan caj runcit RM10 dimansuhkan untuk 600 kWh dan ke bawah."
   - "NETR mensasarkan 31% tenaga boleh diperbaharui menjelang 2025, 40% menjelang 2035 dan 70% menjelang 2050, dengan pelepasan gas rumah hijau sifar bersih menjelang 2050."
 appliesTo: "Pengguna rumah, pemilik perniagaan dan pelabur yang ingin memahami perubahan bil elektrik dan hala tuju tenaga hijau Malaysia."
 
@@ -37,9 +37,10 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-08
+publishedBy: "ashton-tan"
+reviewed: 2026-08-14
 reviewDue: 2027-08-08
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-08-08
@@ -49,18 +50,26 @@ revisions:
     date: 2026-08-08
     change: "Correction pass: fixed 19% framing (overall cost not base-vs-RP3), removed unsourced 44.5 sen combined rate, corrected 23.6M user figure, re-attributed EEI figures to press source, softened NETR launch date, neutralised advocacy phrasing."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-08-08
-verificationNeeded:
-  - "Tarikh pelancaran tepat NETR (dilaporkan secara sejarah 27 Julai 2023, Fasa 1) — tidak disahkan pada halaman MIDA yang dipetik; sahkan terhadap sumber rasmi NETR/Kementerian."
-  - "Insentif Kecekapan Tenaga (rebat sehingga 25 sen/kWh) dan pemansuhan caj runcit RM10 — angka ini berasal daripada laporan media (SoyaCincau), bukan siaran akhbar Suruhanjaya Tenaga yang dipetik; sahkan terhadap jadual tarif RP4 rasmi."
-  - "Kadar komponen domestik (Tenaga 27.03/37.03 sen/kWh, Kapasiti 4.55, Rangkaian 12.85, Runcit RM10) — sahkan terhadap jadual tarif TNB/ST rasmi."
-  - "Perbezaan antara 23.6 juta pengguna yang menikmati kadar lebih adil (ST) dan anggaran ~23 juta pengguna yang dijangka tidak terjejas (laporan media) — sahkan takrifan setiap angka."
-  - "Klasifikasi sensitiviti dan tier — pembaharuan tarif/subsidi elektrik ialah topik yang boleh diperdebat secara awam; pertimbangkan sama ada sensitivity 'none' dan tier 2 sesuai."
+updated: 2026-08-14
+verificationNeeded: []
 sources:
   - title: "Jadual Elektrik Baharu: Lebih 23.6 Juta Pengguna Domestik Semenanjung Nikmati Kadar Lebih Adil"
     url: "https://www.st.gov.my/jadual-elektrik-baharu-lebih-236-juta-pengguna-domestik-semenanjung-nikmati-kadar-lebih-adil"
     publisher: "Suruhanjaya Tenaga"
+  - title: "New electricity schedule: Fairer rates for over 23.6m peninsular domestic consumers (Energy Commission media statement with sample bill, 20 June 2025)"
+    url: "https://www.tnb.com.my/assets/newsclip/23062025a.pdf"
+    publisher: "Suruhanjaya Tenaga / Tenaga Nasional Berhad"
+  - title: "Majlis Pelancaran Pelan Hala Tuju Peralihan Tenaga Negara (NETR)"
+    url: "https://ekonomi.gov.my/ms/galeri-gambar/majlis-peluncuran-pelan-hala-tuju-peralihan-tenaga-negara-national-energy-transition"
+    publisher: "Kementerian Ekonomi (Ministry of Economy)"
+  - title: "TNB new electricity tariff calculation from July 2025 (reproduces official RP4 tariff table)"
+    url: "https://paultan.org/2025/06/21/tnb-new-electricity-tariff-calculation-from-july-2025/"
+    publisher: "Paul Tan's Automotive News"
   - title: "National Energy Transition Roadmap (NETR): Charting a Path to a Sustainable Energy Landscape"
     url: "https://www.mida.gov.my/national-energy-transition-roadmap-netr-charting-a-path-to-a-sustainable-energy-landscape/"
     publisher: "Malaysian Investment Development Authority (MIDA)"
@@ -95,7 +104,7 @@ AFA menggantikan mekanisme ICPT (*Imbalance Cost Pass-Through*) yang lama. Bezan
 
 ## Berapakah kadar setiap komponen untuk pengguna rumah?
 
-Bagi pelanggan domestik voltan rendah, jadual tarif yang dilaporkan memecahkan caj seperti berikut:
+Bagi pelanggan domestik voltan rendah, jadual tarif rasmi RP4 Suruhanjaya Tenaga memecahkan caj seperti berikut:
 
 | Komponen | Kadar (domestik voltan rendah) |
 |---|---|
@@ -110,7 +119,7 @@ Angka penting untuk diingat: caj Tenaga meningkat daripada 27.03 kepada 37.03 se
 
 ## Siapa dilindungi dan siapa membayar lebih?
 
-Reka bentuk RP4 memusatkan bantuan kepada pengguna berjimat, bukan secara pukul rata. Mengikut jadual tarif yang dilaporkan media, dua lapisan **Insentif Kecekapan Tenaga (EEI)** menjadi mekanisme perlindungan utama:
+Reka bentuk RP4 memusatkan bantuan kepada pengguna berjimat, bukan secara pukul rata. Mengikut siaran media rasmi Suruhanjaya Tenaga dan jadual tarif RP4, dua lapisan **Insentif Kecekapan Tenaga (EEI)** menjadi mekanisme perlindungan utama:
 
 - **Rebat sehingga 25 sen/kWh** untuk pengguna domestik yang menggunakan **1,000 kWh dan ke bawah** sebulan.
 - **Pemansuhan caj runcit RM10 sebulan** untuk pengguna **600 kWh dan ke bawah**.

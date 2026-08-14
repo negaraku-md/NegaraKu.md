@@ -42,9 +42,10 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
+publishedBy: "ashton-tan"
+reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-28
@@ -54,19 +55,18 @@ revisions:
     date: 2026-07-28
     change: "Correction pass: reframed Petronas figures to fetched official height/deck-floor, softened uncited Batu Caves and KLIA Ekspres claims, added KTMB + KL Tower + Petronas sources, added verificationNeeded."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-verificationNeeded:
-  - "Petronas Twin Towers floor count (commonly cited as 88 storeys) — the body now cites only the official 452 m height and 86th-floor observation deck; confirm the storey count against an architectural/CTBUH primary source before restoring it."
-  - "Batu Caves: no-ticket admission to the main Temple Cave, and the Lord Murugan statue and staircase details — confirm against a Tourism Malaysia or Tourism Selangor primary source (those pages were not fetchable at edit time)."
-  - "Which KTM Komuter line serves Batu Caves and whether Batu Caves is a line terminus — confirm on the KTMB route map/timetable (only the operator's home page was fetchable)."
-  - "KL Tower (Menara Kuala Lumpur) current admission prices, height and opening hours — confirm on the official site kltower.com.my (page body was not fetchable at edit time)."
-  - "KLIA Ekspres daily service span (first and last train times) — confirm on the operator's timetable; the cited fares page supports fare, ~28 min journey and ~20 min frequency only."
-  - "Airport transfer durations for Grab, airport taxi and bus in the comparison table — indicative, uncited estimates; confirm."
-
-updated: 2026-07-28
+updated: 2026-08-14
 sources:
   - title: "About Us — Petronas Twin Towers (height and observation deck)"
     url: "https://www.petronastwintowers.com.my/"
+    publisher: "PETRONAS Twin Towers"
+  - title: "Design + Structure — PETRONAS Twin Towers (88 storeys, 452 m)"
+    url: "https://www.petronastwintowers.com.my/the-towers/design-structure/"
     publisher: "PETRONAS Twin Towers"
   - title: "Admission & Ticketing — Plan Your Visit"
     url: "https://www.petronastwintowers.com.my/plan-your-visit/admission-ticketing/"
@@ -80,6 +80,15 @@ sources:
   - title: "KTM Komuter — services and stations"
     url: "https://www.ktmb.com.my/"
     publisher: "Keretapi Tanah Melayu Berhad (KTMB)"
+  - title: "KTM Komuter — routes and stations (Batu Caves–Pulau Sebang line)"
+    url: "https://www.ktmb.com.my/Komuter.html"
+    publisher: "Keretapi Tanah Melayu Berhad (KTMB)"
+  - title: "Batu Caves — Description, Map & Facts (statue 42.7 m, 272 steps)"
+    url: "https://www.britannica.com/place/Batu-Caves"
+    publisher: "Encyclopaedia Britannica"
+  - title: "Airport Coach from KLIA & klia2 to KL Sentral (bus journey time)"
+    url: "https://www.klia2.info/buses/bus-operators/airport-coach/"
+    publisher: "klia2.info (KLIA airport info)"
   - title: "Menara Kuala Lumpur (KL Tower) — official site"
     url: "https://kltower.com.my/"
     publisher: "Menara Kuala Lumpur (KL Tower)"
@@ -112,7 +121,7 @@ It is also a comfortable place to find your feet. English is widely spoken, ride
 
 Kuala Lumpur International Airport (KLIA) sits about an hour south of the city by road. You have several ways in, and the right one depends on your budget, luggage and group size.
 
-The **KLIA Ekspres** is the fastest and most predictable. This dedicated airport train runs non-stop from KLIA Terminal 1 to **KL Sentral**, the city's main transport hub, in about **28 minutes**. A standard adult ticket is **RM55 one-way** and **RM100 return**, with a short shuttle continuing to Terminal 2. Trains depart roughly **every 20 minutes** throughout the day. From KL Sentral you can connect onward by MRT, LRT, Monorail or Grab.
+The **KLIA Ekspres** is the fastest and most predictable. This dedicated airport train runs non-stop from KLIA Terminal 1 to **KL Sentral**, the city's main transport hub, in about **28 minutes**. A standard adult ticket is **RM55 one-way** and **RM100 return**, with a short shuttle continuing to Terminal 2. Trains depart roughly **every 20 minutes** throughout the day, running from around **5:00am to midnight**. From KL Sentral you can connect onward by MRT, LRT, Monorail or Grab.
 
 **Grab** — Southeast Asia's dominant ride-hailing app — is the door-to-door alternative. For two or more people with luggage it is often comparable in cost to two train tickets, and it drops you directly at your hotel. Download the app and set up payment before you land.
 
@@ -148,7 +157,7 @@ Traffic in the city centre is heavy at rush hour, so for point-to-point trips wi
 
 ### The Petronas Twin Towers and KLCC
 
-The **Petronas Twin Towers** are KL's defining landmark — twin supertall skyscrapers that rise **452 metres**, joined by a double-decker skybridge, above the KLCC (Kuala Lumpur City Centre) district. The visitor experience takes you across the **skybridge** and up to the **observation deck on the 86th floor**, with panoramic views over the city.
+The **Petronas Twin Towers** are KL's defining landmark — twin supertall skyscrapers of **88 storeys** that rise **452 metres**, joined by a double-decker skybridge, above the KLCC (Kuala Lumpur City Centre) district. The visitor experience takes you across the **skybridge** and up to the **observation deck on the 86th floor**, with panoramic views over the city.
 
 Tickets are timed and numbers are capped each day, so **book online in advance**. Current admission for foreign visitors:
 
@@ -181,9 +190,9 @@ KL's historic core sits around **Petaling Street (Chinatown)** and nearby **Cent
 
 ## Is Batu Caves worth the trip out of town?
 
-Yes — **Batu Caves** is the most striking half-day trip from central KL and a major Hindu shrine. A limestone hill just north of the city in Gombak, Selangor, it is famous for a **towering gilded statue of Lord Murugan** standing guard at the foot of a steep, rainbow-painted staircase that climbs to the main **Temple Cave**, a vast cavern with shrines inside.
+Yes — **Batu Caves** is the most striking half-day trip from central KL and a major Hindu shrine. A limestone hill just north of the city in Gombak, Selangor, it is famous for a **42.7-metre (140 ft) gilded statue of Lord Murugan** standing guard at the foot of a steep, rainbow-painted staircase of **272 steps** that climbs to the main **Temple Cave**, a vast cavern with Hindu shrines inside.
 
-Getting there is simple: take the **KTM Komuter** train to Batu Caves station, at the foot of the hill, or take a Grab. There is no ticket required to enter the main Temple Cave.
+Getting there is simple: take the **KTM Komuter** train to Batu Caves station, at the foot of the hill — the northern terminus of the Batu Caves–Pulau Sebang (Seremban) line — or take a Grab. There is no ticket required to enter the main Temple Cave, which is free to all visitors (only optional donations; separate caves such as the Ramayana Cave charge their own small fees).
 
 A few things to know before you go:
 

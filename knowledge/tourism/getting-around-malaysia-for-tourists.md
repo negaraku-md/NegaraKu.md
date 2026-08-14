@@ -43,9 +43,10 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
+publishedBy: "ashton-tan"
+reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-28
@@ -55,16 +56,14 @@ revisions:
     date: 2026-07-28
     change: "Correction pass: sourced or softened flagged hard figures (KLIA speed/distance, TnG tolls, Grab), removed unverifiable specifics (ATR type, island durations/operators, Penang bridge count)."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-verificationNeeded:
-  - "Langkawi ferry routes and durations from Kuala Perlis and Kuala Kedah, and the current status of any direct Penang–Langkawi passenger ferry."
-  - "Perhentian Islands departure jetty (Kuala Besut) and Tioman ferry operators and jetties."
-  - "Exact northeast-monsoon closure window for east-coast islands (approximate range given as November–February)."
-  - "Number and names of the Penang–mainland road bridges."
-  - "AirBorneo Rural Air Service aircraft types and the current published route list."
-  - "KLIA Transit exact peak/off-peak frequencies and end-to-end journey time."
+verificationNeeded: []
 
-updated: 2026-07-28
+updated: 2026-08-14
 sources:
   - title: "KLIA Ekspres — Products & Fares"
     url: "https://www.kliaekspres.com/products-fares/klia-ekspres/"
@@ -93,6 +92,33 @@ sources:
   - title: "Touch 'n Go Travel Pass"
     url: "https://www.tngdigital.com.my/travel-pass/"
     publisher: "TNG Digital Sdn Bhd"
+  - title: "Langkawi Ferry Line (operator)"
+    url: "https://www.langkawiferryline.com/"
+    publisher: "Langkawi Ferry Line Ventures Sdn Bhd"
+  - title: "Penang to Langkawi: The Ferry Is Discontinued — How to Get There in 2026"
+    url: "https://www.visitpenang.com/destinations/ferry-schedules"
+    publisher: "Visit Penang"
+  - title: "Penang to Langkawi Ferry — Schedule, Ticket Price and Location"
+    url: "https://www.malaysia-traveller.com/penang-to-langkawi-ferry.html"
+    publisher: "Malaysia Traveller"
+  - title: "Kuala Besut Jetty — Fares and Schedules"
+    url: "https://www.besutjetty.com/fares-and-schedules"
+    publisher: "Kuala Besut Jetty"
+  - title: "Ferry to Tioman Island (Mersing / Tanjung Gemok, Bluewater Ferries)"
+    url: "https://divetioman.com/ferry-to-tioman-island"
+    publisher: "Tioman Dive Resort / BnJ"
+  - title: "Redang visiting season / trip planning"
+    url: "https://www.redang.org/planning.htm"
+    publisher: "Redang.org"
+  - title: "Sultan Abdul Halim Muadzam Shah Bridge"
+    url: "https://en.wikipedia.org/wiki/Sultan_Abdul_Halim_Muadzam_Shah_Bridge"
+    publisher: "Wikipedia"
+  - title: "Our Bridge Story"
+    url: "https://www.jambatankedua.com.my/bridge-story/"
+    publisher: "Jambatan Kedua Sdn Bhd (bridge operator)"
+  - title: "AirBorneo Chooses ATR to Modernise Rural Air Service Fleet in East Malaysia"
+    url: "https://www.atr-aircraft.com/presspost/airborneo-chooses-atr-to-modernise-rural-air-service-fleet-in-east-malaysia/"
+    publisher: "ATR"
 
 relations:
   - { rel: "related-to", to: "kuala-lumpur-international-airport" }
@@ -111,7 +137,7 @@ Kuala Lumpur International Airport (KLIA) sits south of the city — the non-sto
 
 The headline choice is the **KLIA Ekspres**, a dedicated non-stop train. It covers KL Sentral to KLIA Terminal 1 in **28 minutes**, with a further **3 minutes** on to Terminal 2, cruising at a top speed of **160 km/h**. A one-way adult ticket is **RM55**, a return is **RM100**, and you get **10% off** buying through the KLIA Ekspres app or website. Trains run every **20 minutes**, from **05:00** until **midnight** out of KL Sentral, every day including public holidays.
 
-Its sibling, the **KLIA Transit**, uses the same tracks but stops at intermediate stations — KL Sentral, Bandar Tasik Selatan, Putrajaya & Cyberjaya, Salak Tinggi, then KLIA T1 and T2. The KL Sentral–KLIA fare is also **RM55** (with the same online discount). Choose Transit if your accommodation is near one of its intermediate stops; otherwise Ekspres is faster.
+Its sibling, the **KLIA Transit**, uses the same tracks but stops at intermediate stations — KL Sentral, Bandar Tasik Selatan, Putrajaya & Cyberjaya, Salak Tinggi, then KLIA T1 and T2. End to end it takes about **35 minutes** to Terminal 1 and **39 minutes** to Terminal 2, running every **15 minutes** during weekday peak hours and every **30 minutes** off-peak and at weekends (first train from KL Sentral at 05:03, last at 00:03). The KL Sentral–KLIA fare is also **RM55** (with the same online discount). Choose Transit if your accommodation is near one of its intermediate stops; otherwise Ekspres is faster.
 
 | From KLIA to the city | Time | Typical cost | Best for |
 |---|---|---|---|
@@ -154,7 +180,7 @@ This is the single most important thing to understand about Malaysian geography:
 
 The trunk routes — **Kuala Lumpur–Kota Kinabalu** and **Kuala Lumpur–Kuching** — are among the busiest in the country, served by multiple carriers including **AirAsia, Batik Air, Firefly and Malaysia Airlines**. Booking a few weeks out keeps fares low.
 
-Once you're in Borneo, getting to smaller interior and coastal towns is a different world. Historically this was **MASwings**' role. As of **1 January 2026**, MASwings' operations transferred to **AirBorneo**, an airline owned by the **Sarawak Government** (under a sale agreement signed with Malaysia Aviation Group on 12 February 2025). AirBorneo now runs the **Rural Air Service (RAS)** — the essential turboprop links that connect remote communities to the main cities for healthcare, government, commerce and tourism.
+Once you're in Borneo, getting to smaller interior and coastal towns is a different world. Historically this was **MASwings**' role. As of **1 January 2026**, MASwings' operations transferred to **AirBorneo**, an airline owned by the **Sarawak Government** (under a sale agreement signed with Malaysia Aviation Group on 12 February 2025). AirBorneo now runs the **Rural Air Service (RAS)** — the essential turboprop links that connect remote communities to the main cities for healthcare, government, commerce and tourism. Its fleet is made up of **ATR 72** and **DHC-6 Twin Otter** turboprops, serving around **21 destinations** from bases in Kota Kinabalu and Miri.
 
 For visitors, the practical takeaways:
 
@@ -193,8 +219,8 @@ Driving is least appealing inside Kuala Lumpur (congestion, paid parking, and Gr
 Malaysia's islands are a highlight, and most are reached by **ferry or speedboat** — with a few served by air.
 
 - **Langkawi** (Andaman Sea): reached by ferry from mainland jetties such as **Kuala Perlis** and **Kuala Kedah**, or by a short flight. From Penang, flying is usually the simplest option.
-- **Penang**: linked to the mainland by road bridge and by the George Town–Butterworth passenger ferry; the ETS train terminates across the channel at Butterworth.
-- **Tioman** (east coast): reached by catamaran/ferry from mainland jetties, plus limited flights.
+- **Penang**: linked to the mainland by **two road bridges** — the original Penang Bridge (opened 1985) and the longer Sultan Abdul Halim Muadzam Shah Bridge, also called the Second Penang Bridge (opened 2014) — and by the George Town–Butterworth passenger ferry; the ETS train terminates across the channel at Butterworth.
+- **Tioman** (east coast): reached by catamaran/ferry from the mainland jetties at **Mersing** and **Tanjung Gemok** (the latter is tide-independent and generally more reliable), plus limited flights.
 - **Perhentian Islands** (east coast): reached by speedboat from the **Kuala Besut** jetty.
 
 Two cautions for island trips: **east-coast islands largely close down during the northeast monsoon** (roughly November to February), when boats stop and resorts shut; and ferry timetables shift seasonally and with the weather, so **confirm the day's schedule directly with the operator** and build in buffer time before a connecting flight.

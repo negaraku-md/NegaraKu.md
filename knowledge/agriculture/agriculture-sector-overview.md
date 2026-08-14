@@ -41,15 +41,12 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
+publishedBy: "ashton-tan"
+reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "0.2"
+version: "0.3"
 verificationNeeded:
   - "Asal-usul import daging lembu (negara pembekal utama): dilembutkan kerana tiada sumber primer diambil dalam pas ini — sahkan terhadap data perdagangan DOSM atau MAQIS jika mahu menamakan negara."
-  - "Angka guna tenaga pertanian 9.7% (2023) ialah anggaran model ILO/Bank Dunia, bukan banci rasmi — sahkan tahun rujukan dan bandingkan dengan data guna tenaga DOSM jika perlu ketepatan lebih tinggi."
-  - "Kadar sara diri beras di bawah kaedah lama (sebelum 2023) telah dibuang kerana tiada sumber primer memberikan angka tepat — jika perbandingan bersejarah dikehendaki, sahkan terhadap penyata rasmi KPKM."
-  - "Struktur Dasar Agromakanan Negara 2.0 (6 objektif, 5 tonggak, 21 strategi, 77 pelan tindakan, 18 strategi sub-sektor, 58 pelan tindakan) diambil daripada KPKM tetapi tidak disemak satu per satu dalam pas ini."
-  - "Rangka dasar MSPO (mandatori) dan pematuhan EUDR ialah konteks dasar yang berubah — sahkan status semasa sebelum diterbitkan."
 revisions:
   - version: "0.1"
     date: 2026-08-01
@@ -59,8 +56,12 @@ revisions:
     date: 2026-08-01
     change: "Correction pass: buang SSR lama 62.6% yang tak bersumber, betulkan guna tenaga 9.8%->9.7% (API Bank Dunia), sahkan FFB 100.2 juta tan + pecahan kawasan sawit MPOB + 3 nilai SSR SUA, jelas atribusi Bernama, lembutkan asal import daging, betulkan taip RH->RM."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-08-01
+updated: 2026-08-14
 sources:
   - title: "Selected Agricultural Indicators, Malaysia, 2024"
     url: "https://www.dosm.gov.my/portal-main/release-content/selected-agricultural-indicators-malaysia-2024"
@@ -83,6 +84,17 @@ sources:
     url: "https://bernama.com/en/news.php?id=2350762"
     publisher: "Bernama, memetik Kementerian Pertanian dan Keterjaminan Makanan"
     date: "2024-10"
+  - title: "Malaysia's Rice Self-sufficiency Rate At 62.6 Pct In 2022"
+    url: "https://www.bernama.com/en/news.php?id=2241914"
+    publisher: "Bernama, memetik Kementerian Pertanian dan Keterjaminan Makanan"
+  - title: "EU Acknowledges MSPO As Credible Standard For EUDR Compliance"
+    url: "https://www.bernama.com/en/news.php?id=2466062"
+    publisher: "Bernama"
+    date: "2025-09"
+  - title: "EU and Malaysia joint press statement on EUDR and MSPO"
+    url: "https://www.eeas.europa.eu/delegations/malaysia/eu-malaysia-joint-press-statement-eu-deforestation-free-regulation-eudr-and-malaysian-sustainable_en"
+    publisher: "European External Action Service (EU)"
+    date: "2025-09"
   - title: "Overview of the Malaysian Oil Palm Industry 2023"
     url: "https://bepi.mpob.gov.my/images/overview/Overview2023.pdf"
     publisher: "Lembaga Minyak Sawit Malaysia (MPOB)"
@@ -152,6 +164,8 @@ Perhatikan bahawa Sabah dan Sarawak bersama-sama menyumbang lebih separuh kawasa
 
 Angkanya menceritakan kisah itu. Menurut satu penyata Kementerian Pertanian dan Keterjaminan Makanan yang dilaporkan Bernama, kadar sara diri (SSR) beras Malaysia ialah **56.2% pada 2023** mengikut kaedah pengiraan baharu yang diselaraskan dengan piawaian Pertubuhan Makanan dan Pertanian (FAO) — ertinya negara mengeluarkan hanya kira-kira separuh beras yang dimakannya dan mengimport selebihnya. Laporan Bernama yang sama turut menyebut pengeluaran padi turun 4.7%, daripada 2.28 juta tan pada 2022 kepada 2.18 juta tan pada 2023, dengan penggunaan beras per kapita 76.7 kilogram setahun.
 
+Sebagai konteks sejarah — dan bukan perbandingan langsung — kadar sara diri beras dilaporkan **62.6% pada 2022 di bawah kaedah pengiraan lama** (sebelum penyelarasan FAO), menurut Bernama memetik KPKM. Angka lama itu tidak boleh dibandingkan terus dengan angka 56.2% (2023) kerana takrif dan kaedah pengiraannya berbeza; ia hanya disebut di sini untuk menunjukkan bahawa peralihan kaedah, bukan semata-mata jatuhan pengeluaran, menyumbang kepada perubahan angka yang dilaporkan.
+
 ## Adakah Malaysia mampu memberi makan dirinya sendiri?
 
 Sebahagian. Gambarannya bertompok-tompok: cemerlang bagi sesetengah makanan, lemah bagi yang lain. Kadar sara diri (peratusan penggunaan domestik yang dipenuhi oleh pengeluaran tempatan) memberikan ukuran paling jelas.
@@ -217,7 +231,7 @@ Rangka kerja dasar utama bagi sisi makanan ialah **Dasar Agromakanan Negara 2021
 
 Dasar itu disusun dengan 6 objektif teras, 5 tonggak strategik, 21 strategi menyeluruh dan 77 pelan tindakan, ditambah 18 strategi sub-sektor dengan 58 pelan tindakan khusus. Tumpuannya jelas: mengurangkan kebergantungan import untuk makanan asasi, memodenkan ladang melalui teknologi (pertanian pintar), dan meningkatkan pendapatan pekebun kecil.
 
-Untuk sisi komoditi, hala tuju dibentuk oleh dinamik pasaran eksport dan tekanan kelestarian — terutamanya pensijilan Minyak Sawit Mampan Malaysia (MSPO) yang mandatori bagi pengeluar sawit, dan penyediaan sektor sawit dan getah untuk mematuhi Peraturan Bebas Nyahhutan Kesatuan Eropah (EUDR).
+Untuk sisi komoditi, hala tuju dibentuk oleh dinamik pasaran eksport dan tekanan kelestarian — terutamanya pensijilan Minyak Sawit Mampan Malaysia (MSPO) yang mandatori bagi pengeluar sawit, dan penyediaan sektor sawit dan getah untuk mematuhi Peraturan Bebas Nyahhutan Kesatuan Eropah (EUDR). Di bawah MS2530, pensijilan MSPO menjadi syarat pembaharuan lesen MPOB berkuat kuasa 1 Januari 2026. Pada September 2025, Kesatuan Eropah secara rasmi mengiktiraf MSPO sebagai piawaian yang boleh dipercayai bagi menyokong pematuhan EUDR (kenyataan bersama EU–Malaysia), manakala kewajipan EUDR mula terpakai pada 30 Disember 2026 bagi pengendali besar dan sederhana serta 30 Jun 2027 bagi pengendali mikro dan kecil.
 
 ## Cara membaca sebarang isu pertanian Malaysia
 

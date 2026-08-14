@@ -40,15 +40,11 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-08
+reviewed: 2026-08-14
 reviewDue: 2027-08-08
-version: "0.2"
-verificationNeeded:
-  - "Kadar kemiskinan mutlak 2019 (5.6%) dan bilangan isi rumah miskin 2019 (405,441) — sahkan angka rasmi 2019; ambil kira bahawa DOSM kemudian melaporkan 6.2% bagi 2022 (asas tahun berbeza)."
-  - "Pecahan bahagian pendapatan 2022 (T20 46.3%, M40 37.6%, B40 16.1%) — sahkan terus daripada Laporan Tinjauan Pendapatan Isi Rumah 2022 DOSM."
-  - "Bilangan isi rumah B40 (~3.16 juta) dan T20 (~1.58 juta) 2022 — sahkan terus daripada laporan penuh DOSM."
-  - "Pekali Gini bandar (0.393) dan luar bandar (0.351) 2022 — sahkan terus daripada siri OpenDOSM."
-  - "Komponen PGK 2019 (RM1,169 makanan + RM1,038 bukan makanan) — nota: DOSM melaporkan komponen makanan PGK 2022 sebagai RM1,198."
+publishedBy: "ashton-tan"
+version: "0.3"
+verificationNeeded: []
 revisions:
   - version: "0.1"
     date: 2026-08-08
@@ -58,6 +54,10 @@ revisions:
     date: 2026-08-08
     change: "Correction pass: added DOSM 'Poverty in Malaysia 2022' + OpenDOSM household-income sources for PLI RM2,589 and historical methodology notes; neutralised editorial phrasing; flagged unconfirmed figures."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
 updated: 2026-08-08
 sources:
@@ -82,6 +82,15 @@ sources:
   - title: "Statistics Dept: Malaysia's new poverty line income is RM2,208, over 400k households considered poor"
     url: "https://www.malaymail.com/news/malaysia/2020/07/10/statistics-dept-malaysias-new-poverty-line-income-is-rm2208-over-400k-house/1883285"
     publisher: "Malay Mail"
+  - title: "Income Inequality Malaysia 2022"
+    url: "https://www.dosm.gov.my/portal-main/release-content/income-inequality-malaysia-"
+    publisher: "Department of Statistics Malaysia (DOSM)"
+  - title: "National poverty line income revised to RM2,208 - DoSM"
+    url: "https://themalaysianreserve.com/2020/07/10/national-poverty-line-income-revised-to-rm2208-dosm/"
+    publisher: "The Malaysian Reserve (citing DOSM)"
+  - title: "Average household income at RM8,479 in 2022 — DOSM chief"
+    url: "https://selangorjournal.my/2023/07/average-household-income-at-rm8479-in-2022-dosm-chief/"
+    publisher: "Selangor Journal (citing DOSM)"
 
 entity: "Department of Statistics Malaysia (DOSM)"
 relations:
