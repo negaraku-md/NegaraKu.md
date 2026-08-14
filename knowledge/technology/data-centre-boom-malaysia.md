@@ -42,9 +42,9 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
+reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-08-01
@@ -54,18 +54,22 @@ revisions:
     date: 2026-08-01
     change: "Correction pass: fixed 60%-by-2030 attribution to White & Case LLP, removed unsourced minister name, clarified SCMP water-supply figure, light neutrality pass."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
 verificationNeeded:
-  - "Name of the current Minister of Digital: the previously-drafted attribution ('Gobind Singh') was removed because the cited CRN Asia source does not name the minister. Confirm and re-add with a source that names the office-holder if desired."
-  - "SCMP's '1.7 million residents' figure: Johor's total state population is roughly 4 million, so the number almost certainly refers to the affected water-supply zone / districts served by the four treatment plants, not the whole state. Confirm the exact catchment before restating."
-  - "Whether the non-AI data-centre restriction remains in force as of publication, plus its exact start date and stated duration (drafted as 'nearly two years' per Anwar's Feb 2026 remarks)."
   - "Neutrality: the sovereignty / non-AI-freeze framing is lightly interpretive; re-review tone if this article is ever reclassified above tier 1 or as sensitive."
 
-updated: 2026-08-01
+updated: 2026-08-14
 sources:
   - title: "Non-AI Data Centres Restricted, Power And Water Supply Sufficient – PM Anwar"
     url: "https://www.bernama.com/en/general/news.php?id=2526940"
     publisher: "Bernama"
+  - title: "Only data centres that benefit Malaysia allowed to set up shop, Anwar tells Dewan Rakyat"
+    url: "https://www.thestar.com.my/news/nation/2026/02/24/only-data-centres-that-benefit-malaysia-allowed-to-set-up-shop-anwar-tells-dewan-rakyat"
+    publisher: "The Star"
   - title: "TNB Targets 5,000 MW To Power Malaysia's Data Centre Boom"
     url: "https://www.businesstoday.com.my/2025/11/30/tnb-targets-5000-mw-to-power-malaysias-data-centre-boom/"
     publisher: "Business Today"
@@ -87,6 +91,15 @@ sources:
   - title: "What is propelling Malaysia's data centre boom?"
     url: "https://www.whitecase.com/insight-our-thinking/what-propelling-malaysias-data-centre-boom"
     publisher: "White & Case LLP"
+  - title: "Profil Kementerian — Ministry of Digital (official)"
+    url: "https://www.digital.gov.my/en-GB/profil-kementerian"
+    publisher: "Ministry of Digital Malaysia"
+  - title: "Recent Sg Johor pollution incident the worst to hit state's water supply so far, says exco rep"
+    url: "https://www.thestar.com.my/news/nation/2025/11/05/recent-sg-johor-pollution-incident-the-worst-to-hit-state039s-water-supply-so-far-says-exco-rep"
+    publisher: "The Star"
+  - title: "Population Table: States (Johor 2024 population)"
+    url: "https://open.dosm.gov.my/data-catalogue/population_state"
+    publisher: "Department of Statistics Malaysia (OpenDOSM)"
 
 entity: "Malaysia data centre industry"
 relations:
@@ -133,7 +146,7 @@ Electricity gets the headlines, but in Johor water became the binding limit firs
 
 Large data centres reject heat, and many do it with water-based cooling. The lowest, most water-hungry designs — often labelled Tier 1 and Tier 2 in local reporting — can consume as much as 50 million litres of water a day, roughly the volume of 20 Olympic swimming pools, and up to 200 times more than higher-tier, efficiency-optimised facilities, according to The Star.
 
-That collided with a state already under water stress. In late 2025, Johor authorities asked developers to postpone water-cooled expansion projects for at least 18 months — telling some to effectively wait for water until mid-2027, as the South China Morning Post reported. Johor was home to 15 operational data centres at that point, with dozens more under construction. The pressure was not purely about data centres: SCMP reported that a sand-mining accident forced four treatment plants offline, cutting water to more than half of the 1.7 million residents in the affected supply area for up to 12 hours, and residents had been complaining of worsening supply disruptions. (Johor's total state population is roughly 4 million, so the 1.7 million figure denotes the population served by those plants rather than the whole state.)
+That collided with a state already under water stress. In late 2025, Johor authorities asked developers to postpone water-cooled expansion projects for at least 18 months — telling some to effectively wait for water until mid-2027, as the South China Morning Post reported. Johor was home to 15 operational data centres at that point, with dozens more under construction. The pressure was not purely about data centres: SCMP reported that a sand-mining accident forced four treatment plants offline, cutting water to more than half of the 1.7 million residents in the affected supply area for up to 12 hours, and residents had been complaining of worsening supply disruptions. (Johor's total state population was about 4.19 million in 2024, according to the Department of Statistics Malaysia, so the 1.7 million figure denotes the consumer base served by those plants — spanning the districts of Johor Bahru, Kota Tinggi, Kulai and Pontian — rather than the whole state.)
 
 Officials framed the problem carefully. "It's not the sufficiency, it's the management … how to make sure that water is channelled to the right place," said Lee Ting Han, Johor's state executive councillor for investment and trade. Water resources sit largely in the central and eastern parts of the state, while the heaviest demand — industry and data centres near Singapore — is in the south.
 
@@ -143,7 +156,7 @@ The regulatory response was blunt: Johor **halted approvals for Tier 1 and Tier 
 
 The federal government then went further. On 24 February 2026, during Ministers' Question Time in the Dewan Rakyat, Prime Minister Anwar Ibrahim confirmed that the government had **restricted the entry of new data centres unrelated to AI** for nearly two years to reduce pressure on the national grid and water supply, as reported by Bernama and later pv magazine.
 
-Officials have framed this as a quality-over-quantity filter. Applications for data centres with "nothing to do with AI" had already been stopped, Anwar said, while projects offering high-technology and AI-development benefits get easier approval. The government's stated rationale is that AI and advanced-compute facilities deliver more economic and technological value per megawatt and per litre than commodity colocation or storage.
+Officials have framed this as a quality-over-quantity filter. Applications for data centres with "nothing to do with AI" had already been stopped, Anwar said, while projects offering high-technology and AI-development benefits get easier approval. As of publication in August 2026, no official or news source reported the restriction being lifted or formally extended, so it remains in force. The government's stated rationale is that AI and advanced-compute facilities deliver more economic and technological value per megawatt and per litre than commodity colocation or storage.
 
 Anwar also stressed that Malaysia still projects sufficient power and water capacity despite rising usage, pointing again to longer-term supply from Sarawak and the ASEAN Power Grid. In short: the country is not closing the door, it is narrowing it.
 
@@ -159,7 +172,7 @@ For anyone weighing a Malaysian data-centre project, the effective approval logi
 
 ## Where does data sovereignty fit in?
 
-Alongside the physical-resource squeeze, Malaysia is trying to shape *what* runs in these facilities. In 2025 the Ministry of Digital launched the **National Cloud Computing Policy (NCCP)**, unveiled at the ASEAN AI Summit Malaysia 2025.
+Alongside the physical-resource squeeze, Malaysia is trying to shape *what* runs in these facilities. In 2025 the Ministry of Digital — led by Gobind Singh Deo, Malaysia's first Minister of Digital, in office since December 2023 — launched the **National Cloud Computing Policy (NCCP)**, unveiled at the ASEAN AI Summit Malaysia 2025.
 
 The NCCP's headline ambition is to make Malaysia a world-class cloud hub by 2030, built on five pillars spanning public-sector transformation, private-sector and MSME growth, data security, digital inclusion and environmental sustainability. Its defining principle is **data sovereignty** — ensuring that data generated within Malaysia is governed by Malaysian law — reinforced by plans for a sovereign AI cloud to keep sensitive national datasets in-country.
 

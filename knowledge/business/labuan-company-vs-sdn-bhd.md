@@ -20,6 +20,7 @@ keyTakeaways:
   - "The ringgit ban and the 10-working-day resident-dealing notification in s.7(4)–(6) were repealed by Act A1653, deemed in force from 1 January 2019"
   - "Act A1756 (2025) now allows share capital to be expressed in any currency — Labuan FSA's own published texts still show the old rule"
   - "LBATA s.2B requires full-time employees and annual operating expenditure in Labuan, plus control-and-management conditions since 1 January 2021"
+  - "Since P.U.(A) 325/2025 those employees must be 'fit and proper' full-time employees — physically working in Labuan, with relevant competency and no conflicting duties"
   - "s.109(3): the annual return is due 30 days BEFORE the incorporation anniversary — the opposite direction to a Sdn Bhd"
 appliesTo: "Founders and advisers weighing a Labuan company against a Malaysian Sdn Bhd for holding, trading, licensing or regional service businesses."
 
@@ -29,7 +30,7 @@ faq:
   - q: "Is it true a Labuan company cannot transact in ringgit?"
     a: "No — that is repealed law. Section 7(4) contained the ringgit restriction and was deleted by Act A1653. Labuan FSA's own consolidated text of the Act on its website, dated 23 August 2022, still prints subsections 7(4) to (6), which is why the claim keeps circulating. Read the amending Act, not the consolidation."
   - q: "What are the Labuan substance requirements?"
-    a: "Section 2B of the Labuan Business Activity Tax Act 1990 requires a Labuan entity to have an adequate number of full-time employees in Labuan and an adequate amount of annual operating expenditure in Labuan, as prescribed by regulations, and for non-trading activity also to satisfy control-and-management conditions. The current regulations are the Labuan Business Activity Tax (Requirements for Labuan Business Activity) Regulations 2021, P.U.(A) 423/2021, effective from 1 January 2019, with the control-and-management conditions deemed in operation from 1 January 2021. Failing them charges the entity at 24 per cent on chargeable profits under s.2B(1A)."
+    a: "Section 2B of the Labuan Business Activity Tax Act 1990 requires a Labuan entity to have an adequate number of full-time employees in Labuan and an adequate amount of annual operating expenditure in Labuan, as prescribed by regulations, and for non-trading activity also to satisfy control-and-management conditions. The current regulations are the Labuan Business Activity Tax (Requirements for Labuan Business Activity) Regulations 2021, P.U.(A) 423/2021, effective from 1 January 2019, with the control-and-management conditions deemed in operation from 1 January 2021. Since P.U.(A) 325/2025 (gazetted 2 September 2025), the schedule headings require a minimum number of 'fit and proper full-time employees in Labuan' — the employee must perform work aligned with the entity's activity, have adequate competency, have no conflicting personal interests, be permanently or contractually employed by the entity, and physically carry out the work in Labuan; LHDN issued implementing guidelines dated 5 November 2025. Failing the substance requirements charges the entity at 24 per cent on chargeable profits under s.2B(1A)."
   - q: "What are the control and management conditions?"
     a: "Labuan FSA's circular on P.U.(A) 423/2021 lists four: a meeting of the board of directors convened in Labuan at least once a year; the registered office situated in Labuan; the secretary appointed under the Labuan Companies Act 1990 resident in Labuan; and accounting and business records, including board minutes, kept in Labuan. These took effect on 1 January 2021."
   - q: "Do I need a Labuan trust company?"
@@ -39,12 +40,7 @@ faq:
   - q: "Can a Labuan company hire staff on the peninsula?"
     a: "It can employ people, but the substance regime counts employees in Labuan, not employees in Kuala Lumpur. Section 2B of the LBATA is written around full-time employees in Labuan and operating expenditure in Labuan, and the control-and-management conditions locate the board meeting, registered office, secretary and records in Labuan. A structure staffed entirely on the peninsula is the classic substance failure."
 
-verificationNeeded:
-  - "Confirm the full P.U.(A) 423/2021 schedule of minimum full-time employees and annual operating expenditure for every category of Labuan entity — only the Other Trading Entity line at 2 employees and RM50,000 has been read off a Labuan FSA primary document"
-  - "Act A1756 commencement CONFIRMED against the gazette (2026-07-21): the Act carries no commencement provision, so under s.19(1) of the Interpretation Acts 1948 and 1967 it came into operation on 23 April 2025, the day after its gazette publication on 22 April 2025"
-  - "Confirm current Labuan FSA incorporation and annual fees, and whether a minimum paid-up capital applies in practice to any licensed category"
-  - "Confirm the current LHDN guidelines on what counts as a fit and proper full-time employee for Labuan substance purposes"
-  - "Confirm whether Malaysia's tax treaty partners currently exclude Labuan entities from treaty benefits, and under which protocols"
+verificationNeeded: []
 
 obligations:
   - what: "Lodge the Labuan company annual return"
@@ -83,9 +79,9 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-07-22
+reviewed: 2026-08-14
 reviewDue: 2027-07-22
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-20
@@ -95,6 +91,10 @@ revisions:
     date: 2026-07-21
     change: "Verified Act A1756 commencement against the gazette: no commencement provision, so in force 23 April 2025 (day after publication) under s.19(1) of the Interpretation Acts 1948 and 1967. Stated the confirmed date in the body and resolved the verificationNeeded item, removing the unverified-commencement hedge."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
 updated: 2026-07-20
 sources:
@@ -122,6 +122,24 @@ sources:
   - title: "FAQ — Labuan Companies"
     url: "https://www.labuanfsa.gov.my/areas-of-business/labuan-structures/labuan-companies/faq"
     publisher: "Labuan FSA"
+  - title: "Labuan Business Activity Tax (Requirements for Labuan Business Activity) Regulations 2021 [P.U.(A) 423/2021] — full regulation with First and Second Schedule"
+    url: "https://moore.com.my/taxflash/PUA-423-(1)-LBAT-(Requirements-for-Labuan-Business-Activity)-Regulations-2021.pdf"
+    publisher: "Moore Malaysia (reproduction of the gazetted regulation)"
+  - title: "Update to employee and annual opex requirements for Labuan companies"
+    url: "https://www.ey.com/en_my/technical/tax-alerts/update-to-employee-and-annual-opex-requirements-for-labuan-compa"
+    publisher: "EY Malaysia"
+  - title: "Labuan: P.U.(A) 325/2025 — Labuan Business Activity Tax (Requirements For Labuan Business Activity)(Amendment) Regulations 2025"
+    url: "https://www.kensington-trust.com/labuan-pua325-2025-lbta-requirements-for-business-activity-amendment-regulations-2025/"
+    publisher: "Kensington Trust Group (reproducing the gazetted regulation)"
+  - title: "Revised Fees Schedule (Annual, Registration and Processing Fees), effective 1 January 2026"
+    url: "https://www.labuanfsa.gov.my/areas-of-business/fee-schedule"
+    publisher: "Labuan FSA"
+  - title: "Directive on Minimum Capital Requirement by Labuan Licensed Entities"
+    url: "https://www.labuanfsa.gov.my/clients/asset_120A5FB8-61B6-45E8-93F0-3F79F86455C8/contentms/img/documents/Legislation_and_Guidelines/Guidelines/directive-on-minimum-capital-requirement-by-labuan-licensed-entities.pdf"
+    publisher: "Labuan FSA"
+  - title: "Tax Structure — Labuan IBFC (treaty access and exclusions)"
+    url: "https://www.labuanibfc.com/regulatory-tax/tax/tax-structure"
+    publisher: "Labuan IBFC"
 
 entity: "Labuan company"
 relations:
@@ -300,18 +318,36 @@ operation on **1 January 2021**:
 
 ### The employee and expenditure floors
 
-These vary by category of entity, and the schedule runs to twenty items. The line
-we have read directly off a Labuan FSA primary document is item 20, the "Other
-Trading Entity" catch-all covering administrative, accounting, legal, backroom
-processing, payroll, talent management, agency, insolvency-related and general
-management services: **two full-time employees and RM50,000 of annual operating
-expenditure**, both in Labuan.
+These vary by category of entity. The First Schedule covers Labuan trading
+activity and runs to twenty items; the Second Schedule covers non-trading activity.
+Item 20 is the "Other Trading Entity" catch-all covering administrative, accounting,
+legal, backroom processing, payroll, talent management, agency, insolvency-related
+and general management services: **two full-time employees and RM50,000 of annual
+operating expenditure**, both in Labuan.
 
-Licensed categories sit higher. Practitioner summaries put the overall range at two
-to four employees and RM50,000 to RM3 million of annual operating expenditure
-depending on activity, but we have not confirmed the full schedule against a
-primary source and are not publishing the individual lines here. Get the current
+Across the two schedules the floor runs from **one to four full-time employees** and
+**RM20,000 to RM200,000 of annual operating expenditure**. The four-employee lines
+are underwriting managers and insurance managers; the RM200,000 ceiling applies to
+Labuan insurers, reinsurers and takaful operators (three employees). Most trading
+lines sit at two or three employees with RM100,000 to RM120,000 of expenditure. On
+the non-trading side, an investment-holding entity other than a pure-equity holding
+company needs one full-time employee and RM20,000, while a **pure-equity holding
+company is exempt** from the tax under the Labuan Business Activity Tax (Exemption)
+Order 2020, P.U.(A) 177/2020, subject only to the control-and-management conditions.
+
+The "up to RM3 million" figure that circulates in practitioner summaries is not in
+P.U.(A) 423/2021 at all — it belongs to the separate Labuan International Commodity
+Trading Company (GIFT) regime, amended by P.U.(A) 326/2025. Get the current
 regulation for your category before modelling.
+
+Since P.U.(A) 325/2025 (gazetted 2 September 2025), the schedule headings require a
+minimum number of **"fit and proper full-time employees in Labuan"**. Five
+conditions apply: the employee performs work aligned with the entity's activity, has
+adequate and appropriate competency, has no personal interests or responsibilities
+that interfere with the duties, is employed by the entity on a permanent or
+contractual basis, and physically carries out the work in Labuan. LHDN issued
+implementing guidelines dated 5 November 2025. The minimum counts and expenditure
+figures themselves are unchanged; the "fit and proper" qualifier was added on top.
 
 ### The consequence of failing
 

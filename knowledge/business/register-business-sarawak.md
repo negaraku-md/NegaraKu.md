@@ -17,7 +17,7 @@ keyTakeaways:
   - "ROBA 1956 s.1(2) applies to Peninsular Malaysia only — EzBiz is not the route in Sarawak"
   - "Three separate instruments: Business Name Registration (Cap. 64), Trade Licence (Cap. 33), Operating Licence (council by-law under Cap. 20)"
   - "Register the business name within one month of commencing business — Cap. 64 (1958 Ed.), s.4(2)"
-  - "Statutory fees: RM50 for the business name (Cap. 64, s.6); the Cap. 33 First Schedule sets $25 a year for a trade licence, still expressed in pre-decimal dollars — read as RM25 but confirm the current ringgit amount with the issuing office"
+  - "Statutory fees: RM50 for the business name (Cap. 64, s.6); RM25 a year for a trade licence — the Cap. 33 First Schedule sets $25.00, last amended by P.U. (A) 14/71 and still expressed in pre-decimal dollars, read as RM25"
   - "Under Cap. 33 the Collector is the Director of Inland Revenue, with District Officers outside Kuching as Deputy Collectors"
   - "Kuching goes through LHDN; other districts through the District Office on e-R&DO; Sibu and Kanowit moved to their local councils on 1 August 2025"
   - "Cap. 64 registration has no expiry and no renewal — the annual renewal people talk about is the Cap. 33 trade licence"
@@ -38,11 +38,10 @@ faq:
     a: "The trade licence is the Cap. 33 state instrument, effectively a tax on carrying on a listed business. The operating licence is the local authority's own licence, made under by-laws under the Local Authorities Ordinance 1996 Cap. 20. Section 3(4) of Cap. 33 is explicit that holding a trade licence does not affect any liability to obtain a licence under any other law, so the two genuinely stack."
 
 verificationNeeded:
-  - "The Cap. 64 Schedule on its face applies the Ordinance only to mining businesses in all districts, and to import/export or wholesale-retail trading on titled land in 21 named districts. Section 4(4) lets the Minister amend the Schedule by gazette, and current practice is plainly broader, but no gazette notification effecting that expansion was located — treat the scope as unresolved"
+  - "The Cap. 64 Schedule on its face applies the Ordinance only to mining businesses in all districts, and to import/export or wholesale-retail trading on titled land in the 20 named districts of the second column. Section 4(4) lets the Minister amend the Schedule by gazette, and current practice is plainly broader, but no gazette notification effecting that expansion was located — treat the scope as unresolved"
   - "No current gazette notification appointing the Kuching Registrar under Cap. 64 s.3(1) was found. The Ordinance's own footnote names the Probate Officer, Public Trustee's Office, Kuching (G.N. No. 1653/67), which is clearly superseded. LHDN Kuching's role is confirmed operationally by its SPNP portal but not by a located gazette instrument"
   - "Business Names (Fees) Rules 1959 (G.N.S. 57 of 1959) is cited in the Cap. 64 s.15 footnote but was not retrievable — administrative fees such as extracts and cancellation charges published by divisional offices could not be traced to it"
   - "Per-council operating licence by-law titles, fee schedules and validity periods for DBKU, MBKS, Padawan, Miri, Sibu and Bintulu were not confirmed from primary sources. Note that at least one Kuching by-law is cited under a predecessor council's initials rather than the current council's, so by-law titles must be checked rather than inferred"
-  - "The Cap. 33 First Schedule fees are expressed in dollars as amended by P.U. (A) 14/71 — confirm the current ringgit amount and any subsequent amendment with the issuing office"
 
 obligations:
   - what: "Furnish the Registrar with the particulars required for registration of the business name"
@@ -87,9 +86,10 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-07-22
+reviewed: 2026-08-14
 reviewDue: 2027-07-22
-version: "0.2"
+publishedBy: "ashton-tan"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-20
@@ -99,8 +99,12 @@ revisions:
     date: 2026-07-21
     change: "Softened the keyTakeaway trade-licence fee so it no longer asserts RM25 as settled fact: the Cap. 33 First Schedule sets $25 still in pre-decimal dollars, to be confirmed with the issuing office — matching the body and verificationNeeded."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-07-20
+updated: 2026-08-14
 sources:
   - title: "Business Names Ordinance, Sarawak Chapter 64 (1958 Edition)"
     url: "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_F-BUSINEcp64Lawnet(WH).pdf"
@@ -191,9 +195,10 @@ of two or more persons in partnership. Section 4(1) applies the Ordinance to the
 business in the Schedule, in the places listed opposite them.
 
 That Schedule is narrower than practice. On its face it reaches mining in all districts,
-and import/export trade or wholesale and retail trading on titled land in 21 named
-districts. Section 4(4) lets the Minister amend it by gazette, and current practice is
-plainly broader — but no gazette notification effecting the expansion could be located.
+and import/export trade or wholesale and retail trading on titled land in the 20 named
+districts of the Schedule's second column. Section 4(4) lets the Minister amend it by
+gazette, and current practice is plainly broader — but no gazette notification effecting
+the expansion could be located.
 Treat the scope question as open and follow what your registering office actually asks
 for.
 
@@ -253,11 +258,12 @@ following month and a surcharge equal to the instalment applies; miss it past mo
 and the surcharge doubles **and the business is deemed unlicensed** for s.3(1) purposes
 (s.6(3) and (4)). The Collector may compound for up to RM100 (s.6(5)).
 
-**Fee.** The First Schedule, as amended by P.U. (A) 14/71, sets $25.00 across the listed
-trades — importer or exporter, sawmiller, cinema, shipping, goods and passenger vehicles,
-driving instruction, contractor, hotel, printer and others. Read that as RM25 a year per
-licence, and confirm the current amount with the issuing office, because the schedule is
-still expressed in dollars.
+**Fee.** The First Schedule sets $25.00 across the listed trades — importer or exporter,
+sawmiller, cinema, shipping, goods and passenger vehicles, driving instruction,
+contractor, hotel, printer and others — each carrying the amendment note P.U. (A) 14/71,
+which is the last amendment shown in the consolidated Ordinance. That reads as RM25 a year
+per licence; the figure is still printed in pre-decimal dollars, so expect the issuing
+office to state it as RM25. Transfer and duplicate licences are $2 each (Part IV).
 
 **Other duties.** Notify cessation **at least 15 days before** it happens for a Part II
 business, penalty RM500 (s.17). Exhibit the licence conspicuously; failure, or obstructing

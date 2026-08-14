@@ -33,7 +33,7 @@ faq:
   - q: "How does MD Status fit into the startup ecosystem?"
     a: "MD (Malaysia Digital) Status is a separate MDEC programme, not a grant. It confers tax and operational incentives on qualifying digital businesses and complements — rather than replaces — the grants and VC support from MOSTI agencies."
   - q: "What is the KL20 Action Paper?"
-    a: "KL20 is the government's 2024 action plan, unveiled at the KL20 Summit in Kuala Lumpur, to strengthen Malaysia's startup competitiveness. It is aligned with the Malaysia Venture Capital Roadmap 2024-2030 and the goal of making Malaysia a preferred regional venture-capital hub by 2030."
+    a: "KL20 is the government's 2024 action plan, unveiled at the KL20 Summit in Kuala Lumpur, to strengthen Malaysia's startup competitiveness. It outlines initiatives across three critical focus areas — capital, talent and the quality of startups — and targets making Malaysia a top-20 global startup hub with RM400 billion in startup valuation by 2030. It is aligned with the Malaysia Venture Capital Roadmap 2024-2030 and the goal of making Malaysia a preferred regional venture-capital hub by 2030."
 
 lang: "en"
 masterLanguage: "en"
@@ -42,14 +42,11 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
+publishedBy: "ashton-tan"
+reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "0.2"
-verificationNeeded:
-  - "Whether the specific RM1 billion National Fund-of-Funds announced by Khazanah on 30 July 2024 is the fund managed by Jelawang Capital: the Khazanah release names neither Jelawang nor an operating manager, and Jelawang's own site describes itself as Malaysia's national fund-of-funds under Dana Impak while citing a broader RM6 billion Dana Impak / GEAR-uP allocation rather than the RM1 billion figure. The linkage is stitched across two sources, not stated by one."
-  - "The KL20 Action Paper's detailed scope and focus areas: primary sources confirm it exists and aligns with the Malaysia Venture Capital Roadmap 2024-2030 and the 2030 regional VC-hub goal, but not a specific pillar breakdown (e.g. capital / talent / startup quality)."
-  - "Cradle's claim of having supported 'over 1,000' Malaysian technology companies (attributed to Cradle's About Us page but not re-verified against a dated primary figure)."
-  - "The CIP grant condition that a defined share of funds must go to developmental / commercialisation expenses: the specific percentage was removed pending confirmation against a primary source."
+version: "0.3"
+verificationNeeded: []
 revisions:
   - version: "0.1"
     date: 2026-08-01
@@ -59,8 +56,12 @@ revisions:
     date: 2026-08-01
     change: "Correction pass: fixed CIP Spark team-size, de-conflated CGP from CIP, unstitched the Khazanah RM1bn / Jelawang linkage, removed unsourced 60% figure, and added verificationNeeded flags."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-08-01
+updated: 2026-08-14
 sources:
   - title: "About Us — MRANTI"
     url: "https://mranti.my/about-us"
@@ -83,6 +84,18 @@ sources:
   - title: "Jelawang Capital — National Fund-of-Funds"
     url: "https://www.jelawangcapital.com/"
     publisher: "Jelawang Capital"
+  - title: "About Us — Malaysia Fund-of-Funds Strengthening the VC Ecosystem"
+    url: "https://www.jelawangcapital.com/about-us"
+    publisher: "Jelawang Capital"
+  - title: "Khazanah launches Jelawang Capital as national fund-of-funds to accelerate growth of Malaysia's venture capital ecosystem"
+    url: "https://www.khazanah.com.my/news_press_releases/khazanah-launches-jelawang-capital-as-national-fund-of-funds-to-accelerate-growth-of-malaysias-venture-capital-ecosystem/"
+    publisher: "Khazanah Nasional Berhad"
+  - title: "KL20 Summit 2024 (official site)"
+    url: "https://www.kl20.gov.my/"
+    publisher: "KL20 / Government of Malaysia"
+  - title: "KL20 Action Plan Aims To Achieve RM400 Bln Startup Valuation By 2030"
+    url: "https://www.bernama.com/en/news.php?id=2290363"
+    publisher: "BERNAMA"
   - title: "MYStartup Single Window"
     url: "https://www.mosti.gov.my/en/berita/mystartup-single-window/"
     publisher: "Ministry of Science, Technology and Innovation (MOSTI)"
@@ -162,9 +175,10 @@ The eligibility gates matter as much as the headline numbers:
 | IP | Must own IP rights | Must own IP rights |
 
 Both are described as *conditional* grants, not free money: recipients can be
-required to repay if the project is terminated early, and a defined share of the
-grant must go to developmental or commercialisation expenses rather than
-overheads. Cradle also runs equity-side and incentive programmes,
+required to repay if the project is terminated early, and the spend is split by
+rule — at least **60% of the funding must go to developmental expenses**, with a
+maximum of **40% for non-developmental expenses** (including commercialisation
+expenses). Cradle also runs equity-side and incentive programmes,
 including its Elevate investment track and the Angel Tax Incentive that
 encourages accredited angels to back local startups.
 
@@ -239,11 +253,12 @@ The two roles are worth separating:
 
 - **MAVCAP** is a venture capital investor — it puts equity into startups both
   directly and through partner funds.
-- **Jelawang Capital** describes itself as Malaysia's **national fund-of-funds
-  manager**, operating under Khazanah's Dana Impak platform and acting as
-  secretariat of the MVCR. (The Khazanah acquisition release announcing the RM1
-  billion fund-of-funds does not itself name Jelawang, so treat the precise link
-  between that allocation and Jelawang as reported by each body separately.)
+- **Jelawang Capital** is Malaysia's **national fund-of-funds**, operating under
+  Khazanah's Dana Impak platform and acting as secretariat of the MVCR. Khazanah
+  launched Jelawang on 28 October 2024 as the national fund-of-funds under Dana
+  Impak — with RM1 billion allocated under Dana Impak over three years to develop
+  Malaysia's venture capital ecosystem — though its earlier 30 July 2024 MAVCAP /
+  Penjana Kapital acquisition release did not yet name Jelawang.
   Rather than investing in startups directly, it backs credible VC fund managers
   who then invest in startups. Its flagship programmes are the **Emerging Fund
   Managers' Programme (EMP)** and the **Regional Fund Managers' Initiative
@@ -300,8 +315,9 @@ A simple decision framework, by where you are:
 A few recurring ones, drawn from how the system is structured:
 
 - **Treating grants as free money.** Cradle's CIP grants are *conditional* — you
-  can be required to repay on early termination, and spending is restricted to
-  approved developmental and commercialisation costs.
+  can be required to repay on early termination, and spending is split by rule:
+  at least 60% must go to developmental expenses, with at most 40% to
+  non-developmental expenses (including commercialisation).
 - **Confusing MD Status with a grant.** MD Status gives incentives, not cash.
   Founders who assume it funds them lose time; it complements funding, it is not
   funding.

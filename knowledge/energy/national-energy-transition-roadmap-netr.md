@@ -31,7 +31,7 @@ faq:
   - q: "When will Malaysia stop using coal for power?"
     a: "The plan is to retire about half of Malaysia's coal-fired power plants by 2035 and phase out coal power entirely by 2044, with natural gas acting as the transition fuel."
   - q: "How much investment does the NETR require?"
-    a: "The government estimates RM1.2-1.3 trillion of investment is needed by 2050. To catalyse it, the government established a RM2 billion seed fund that supports strategically important projects which are not yet fully commercially bankable, such as hydrogen, EV charging and carbon capture."
+    a: "The government estimates RM1.2-1.3 trillion of investment is needed by 2050. To catalyse it, the government established the RM2 billion National Energy Transition Facility (NETF), which uses blended finance to fund strategically important but 'marginally bankable' projects that yield below-market returns, such as green hydrogen, EV charging and carbon capture."
   - q: "What are the NETR flagship projects?"
     a: "There are ten flagship catalyst projects spread across the six levers, including large-scale solar and a renewable energy zone, energy storage, hybrid hydro-floating solar, green hydrogen, bioenergy demand creation, future mobility and carbon capture for industry. Lead players include TNB, PETRONAS (through Gentari) and state investment arms."
   - q: "What is ENEGEM?"
@@ -44,14 +44,10 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
+reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "0.2"
-verificationNeeded:
-  - "The proper name 'National Energy Transition Facility (NETF)' and the 'marginally bankable' characterisation of the RM2 billion seed fund. The RM2 billion seed-fund figure is reported by the Malay Mail source; the NETF name and framing derive from the NETR Part 2 primary documents and should be confirmed there."
-  - "The current GITA (Green Investment Tax Allowance) and GITE (Green Income Tax Exemption) application-window end dates and the exact list of newly qualifying activities (e.g. green hydrogen, EV charging, wind). The cited MIDA source confirms GITA/GITE exist but not specific dates or scope; confirm against MIDA / Budget documents."
-  - "Whether the RM25 billion 'investment attracted' cited in the progress section (government late-2025 update) is distinct from the RM25 billion flagship-project projection, to avoid double-counting the same figure."
-  - "The exact legislative status and date of the Carbon Capture, Utilisation and Storage Bill 2025 (tabled vs passed)."
+version: "0.3"
+verificationNeeded: []
 revisions:
   - version: "0.1"
     date: 2026-08-01
@@ -61,8 +57,12 @@ revisions:
     date: 2026-08-01
     change: "Correction pass: re-verified flagged figures — RM2bn seed fund, 35%/2030, 4,000 MW LSS, EECA 2023 and CCUS Bill 2025 confirmed against the cited Malay Mail source; softened NETF-name/marginally-bankable framing and removed unverifiable GITA/GITE dates/scope; added verificationNeeded."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-08-01
+updated: 2026-08-14
 sources:
   - title: "National Energy Transition Roadmap (NETR): Charting a Path to a Sustainable Energy Landscape"
     url: "https://www.mida.gov.my/national-energy-transition-roadmap-netr-charting-a-path-to-a-sustainable-energy-landscape/"
@@ -85,6 +85,24 @@ sources:
   - title: "Energy Exchange Malaysia (ENEGEM): Introducing Malaysia's Newly Launched Energy Exchange"
     url: "https://lh-ag.com/international-arbitration-special-alert-energy-exchange-malaysia-enegem-introducing-malaysias-newly-launched-energy-exchange/"
     publisher: "Lee Hishammuddin Allen & Gledhill"
+  - title: "Malaysia to set aside RM2b to fund marginally bankable energy projects, says PM"
+    url: "https://theedgemalaysia.com/node/680539"
+    publisher: "The Edge Malaysia"
+  - title: "Govt to allocate RM2b for national energy transition facility"
+    url: "https://www.malaysiakini.com/news/677311"
+    publisher: "Malaysiakini"
+  - title: "Green Investment Tax Allowance (GITA) — new qualifying activities: green hydrogen, EV charging station, wind energy"
+    url: "https://www.mgtc.gov.my/services/green-investment-tax-allowance-gita/"
+    publisher: "Malaysian Green Technology and Climate Change Corporation (MGTC)"
+  - title: "Press Release — RM25 Billion Committed Investments and 23,000 High-Quality Jobs to Kickstart Phase One of the NETR (27 July 2023)"
+    url: "https://ekonomi.gov.my/sites/default/files/2023-07/%5BKE-EN%5D%20Press-Release_NETR_27Jul2023%20(1).pdf"
+    publisher: "Ministry of Economy Malaysia"
+  - title: "Laws of Malaysia — Act 870, Carbon Capture, Utilization and Storage Act 2025 (full text)"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2995040_BI/Act%20870%20CARBON%20CAPTURE,%20UTILIZATION%20AND%20STORAGE%20ACT%202025.pdf"
+    publisher: "Attorney General's Chambers of Malaysia (AGC)"
+  - title: "King consents to Carbon Capture, Utilisation and Storage Act 2025"
+    url: "https://theedgemalaysia.com/node/763547"
+    publisher: "The Edge Malaysia"
 
 entity: "National Energy Transition Roadmap"
 relations:
@@ -172,9 +190,9 @@ Natural gas is explicitly cast as the bridge. It emits far less than coal and ca
 
 Money is the make-or-break enabler. The government estimates that Malaysia's energy transition will require **RM1.2-1.3 trillion of investment by 2050** — a figure far too large for the public purse alone. The NETR's financing strategy is therefore built around using limited public money to unlock much larger private flows.
 
-**A RM2 billion seed fund.** The government committed a **RM2 billion seed fund** to catalyse energy-transition projects — those that are strategically important but not yet fully commercially bankable, such as green hydrogen, EV charging infrastructure and carbon capture. The idea is to de-risk first movers so commercial capital follows. (This fund is commonly referred to as the National Energy Transition Facility, or NETF, in the NETR documents; see the verification note in the frontmatter.)
+**A RM2 billion seed fund — the NETF.** The government seeded the effort with a **RM2 billion National Energy Transition Facility (NETF)**, announced by Prime Minister Anwar Ibrahim alongside NETR Part 2 on 29 August 2023. The facility uses catalytic blended finance to fund **"marginally bankable"** energy-transition projects — those that are strategically important but yield below-market returns, such as green hydrogen, EV charging infrastructure and carbon capture. The idea is to de-risk first movers so commercial capital follows.
 
-**Green tax incentives.** Malaysia's Green Investment Tax Allowance (GITA) and Green Income Tax Exemption (GITE) remain the core fiscal tools for companies undertaking qualifying green activities. Their qualifying-activity lists and application windows are periodically updated, so investors should check the current criteria and deadlines with MIDA before modelling returns.
+**Green tax incentives.** Malaysia's Green Investment Tax Allowance (GITA) and Green Income Tax Exemption (GITE) remain the core fiscal tools for companies undertaking qualifying green activities. Effective 1 January 2024, businesses may submit GITA Project (business-purpose) and GITE Solar Leasing applications to MIDA until 31 December 2026, while GITA Asset applications for own consumption go to MGTC over the same window. The qualifying activities for GITA Project were expanded to cover three new green-technology areas — green hydrogen, electric-vehicle charging stations and wind energy. Budget 2026 introduced no extension beyond 31 December 2026, so investors should still confirm the current criteria with MIDA before modelling returns.
 
 **Cross-border energy sales (ENEGEM).** On 15 April 2024, the Ministry of Energy Transition and Water Transformation launched the Energy Exchange Malaysia (ENEGEM) — the country's first cross-border platform for selling renewable electricity to neighbouring ASEAN markets through a bidding mechanism. Its pilot auction offered **100 MW of renewable energy to Singapore**, creating a new export revenue stream and price signal for Malaysian renewables.
 
@@ -195,9 +213,9 @@ The abstractions become clearer when you look at the projects already moving.
 The roadmap is past the announcement stage. By late 2025, the government reported:
 
 - Around **5.5 GW of new renewable capacity approved** since the NETR's launch, worth roughly RM20 billion.
-- At least **RM25 billion in investment attracted** since launch, per the government's late-2025 update. (This is the investment reported as attracted to date; it should not be conflated with the separate RM25 billion projection for the ten flagship projects noted earlier.)
+- At least **RM25 billion in investment attracted** since launch, per the government's late-2025 update. This is the same RM25 billion committed to Phase 1's ten flagship projects, now reported as realised — not a second, additional sum.
 - Procurement of about **4,000 MW of large-scale solar** underway.
-- Enabling legislation moving, including the **Energy Efficiency and Conservation Act 2023** and a **Carbon Capture, Utilisation and Storage Bill 2025**.
+- Enabling legislation enacted, including the **Energy Efficiency and Conservation Act 2023** and the **Carbon Capture, Utilization and Storage Act 2025 (Act 870)** — passed by both Houses of Parliament, given Royal Assent on 22 July 2025 and gazetted on 1 August 2025, applying to Peninsular Malaysia and the Federal Territory of Labuan (excluding Sabah and Sarawak).
 
 These are early but real markers. The harder years are ahead: the jump from 40% renewables in 2035 to 70% in 2050 requires grid, storage and financing at a scale Malaysia has never attempted.
 

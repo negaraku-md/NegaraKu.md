@@ -40,9 +40,7 @@ faq:
 
 verificationNeeded:
   - "Market wage differentials between Malaysian states are not verified here against DOSM salary and wages data — treat any wage-gap claim as a research task, not a published rule."
-  - "Industrial land premiums, quit rent and assessment rates are set state by state and council by council; no national schedule exists and none is asserted here."
   - "DBKL's business licensing guideline could not be retrieved — its licensing guidelines PDF sits behind a download control with no exposed URL, so Federal Territory conditions must not be inferred from Selangor's published guideline."
-  - "Whether a further amendment to the Minimum Wages Order 2024 has been gazetted since the review announced in 2026 — no 2026 Order was located."
   - "Sabah's carve-out list under the Labour Ordinance of Sabah (Amendment) Act 2025 (Act A1753) could not be read; the hosted PDF returns a 404."
 
 lang: "en"
@@ -52,16 +50,21 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-07-22
+publishedBy: "ashton-tan"
+reviewed: 2026-08-14
 reviewDue: 2027-07-22
-version: "0.1"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-20
     change: "Initial draft. Pillar for the location cluster."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-07-20
+updated: 2026-08-14
 sources:
   - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
@@ -98,6 +101,15 @@ sources:
     url: "https://www.mcmc.gov.my/skmmgovmy/media/General/Licence/2025/MCMC_Licensing-Guidebook_150425.pdf"
     publisher: "Malaysian Communications and Multimedia Commission"
     date: "2025-04-15"
+  - title: "Portal Gaji Minimum — current national minimum wage RM1,700 / RM8.72 under P.U.(A) 376 (2024); no later Order gazetted"
+    url: "https://gajiminimum.mohr.gov.my/"
+    publisher: "Ministry of Human Resources (KESUMA/MOHR)"
+  - title: "Quit Rent (Cukai Tanah) rates in each Malaysian state — state-by-state guide"
+    url: "https://www.propertyguru.com.my/property-guides/quit-rent-cukai-tanah-rates-in-each-malaysian-state-30634"
+    publisher: "PropertyGuru Malaysia"
+  - title: "Act A1754 — Labour Ordinance of Sarawak (Amendment) Act 2025 (s.73 substitutes First Schedule, disapplying the 'normal hours of work' and 'overtime' definitions above RM4,000/month)"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2790645_BI/Act%20A1754%20LABOUR%20ORDINANCE%20OF%20SARAWAK%20(AMENDMENT)%20ACT%202025.pdf"
+    publisher: "Attorney General's Chambers"
 
 entity: "Business location choice in Malaysia"
 relations:

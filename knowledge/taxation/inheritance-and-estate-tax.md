@@ -16,7 +16,7 @@ answer: "Malaysia does not impose any inheritance tax, estate duty, or death tax
 keyTakeaways:
   - "There is no inheritance tax, estate duty, or gift-on-death tax in Malaysia; estate duty was repealed on 1 November 1991."
   - "Income the deceased earned up to death is taxed in the deceased's name (a final return); income the estate earns after death is taxed as estate income on the executor."
-  - "Inheriting property is not itself a taxable disposal, but a later sale is subject to real property gains tax (RPGT); where the executor disposes of the property, the acquisition value is deemed to be the market value at the date of death. Once title is in a beneficiary's own name, the acquisition date and value may be determined differently, so confirm before selling."
+  - "Inheriting property is not itself a taxable disposal, but a later sale is subject to real property gains tax (RPGT). Where the executor disposes of the property, the acquisition value is deemed to be the market value at the date of death. Where a beneficiary disposes of it in their own name, the transfer from the estate is a no-gain-no-loss transaction, so the beneficiary's acquisition date is the date the property was transferred to them and the acquisition price is its market value on that transfer date (paras 15(2), 15A and 19(3A), Schedule 2, RPGT Act 1976) — not the date of death and not the deceased's original cost."
   - "Transferring inherited property to a beneficiary under a will, the Distribution Act, or faraid attracts only nominal RM10 stamp duty, not ad valorem duty."
   - "The executor must notify the Inland Revenue Board (LHDN) of the death and remains responsible for settling the deceased's outstanding tax before distributing the estate."
 appliesTo: "Executors, administrators and beneficiaries of a Malaysian estate; families doing succession or will planning; foreigners inheriting Malaysian assets."
@@ -31,7 +31,7 @@ faq:
   - q: "Is inheriting a house a taxable event for RPGT?"
     a: "No. The transfer of real property from a deceased person or the estate to a beneficiary is not treated as a chargeable disposal, so no RPGT arises at the moment of inheritance. RPGT is only relevant when the property is later sold."
   - q: "What acquisition price is used when I later sell inherited property?"
-    a: "Where the executor disposes of estate property, the executor is deemed to have acquired it on the date of death at its market value on that date, so only the gain above the death-date value is taxed. The position can differ once the property has been transferred into a beneficiary's own name — at least one commentary treats the beneficiary as inheriting the deceased's original acquisition date and cost — so confirm your acquisition date and price with LHDN or a licensed tax agent before selling."
+    a: "It depends on who sells. Where the executor disposes of estate property, the executor is deemed to have acquired it on the date of death at its market value on that date, so only the gain above the death-date value is taxed. Where a beneficiary disposes of the property in their own name, the transfer from the estate to the beneficiary is a no-gain-no-loss transaction; the beneficiary's acquisition date is the date the property was transferred to them and the acquisition price is its market value on that transfer date (paras 15(2), 15A and 19(3A), Schedule 2, RPGT Act 1976) — not the date of death and not the deceased's original cost. Both the holding-period band and the taxable gain therefore run from the transfer date, not from death."
   - q: "How much stamp duty applies when inherited property is transferred to me?"
     a: "A nominal RM10, provided the transfer follows a valid will, the Distribution Act (intestacy), or faraid under Syariah law. Ad valorem (value-based) stamp duty can apply if beneficiaries rearrange entitlements outside those statutory frameworks."
   - q: "Does the executor have to deal with LHDN?"
@@ -44,15 +44,11 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-08
+reviewed: 2026-08-14
 reviewDue: 2027-08-08
-version: "0.2"
-verificationNeeded:
-  - "RPGT acquisition basis when an inherited property is disposed of by a beneficiary in their own name (not by the executor): sources diverge on whether the market-value-at-death rule or the deceased's original cost/date applies. Confirm against the current LHDN RPGT public ruling."
-  - "The stamp-duty case citation 'Lee Koy Eng v Pemungut Duti Setem' and its holding are carried from a secondary source and were not verified against a primary law report."
-  - "Estate-income deduction items (current-year business losses, annuities specified in the will, approved donations) and the domicile-based personal relief — confirm still current under the applicable LHDN public ruling."
-  - "The exact RPGT return filing deadline after a disposal (stated only as 'shortly after the sale')."
-  - "Whether any current (2026) proposal to reintroduce an inheritance tax is live; the guide states none is scheduled as at the date of writing."
+publishedBy: "ashton-tan"
+version: "0.3"
+verificationNeeded: []
 revisions:
   - version: "0.1"
     date: 2026-08-07
@@ -62,8 +58,12 @@ revisions:
     date: 2026-08-07
     change: "Correction pass: re-anchored RPGT rates to Schedule 5 (RPGT Act 1976) via Low & Partners, replaced Malaysia-only comparison with sourced regional data, softened the market-value-at-death rule for beneficiary disposals, removed vendor-blog source, and trimmed promotional tone."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-08-07
+updated: 2026-08-14
 sources:
   - title: "Death of an individual (Malaysian tax technical article)"
     url: "https://www.accaglobal.com/gb/en/student/exam-support-resources/professional-exams-study-resources/p6/technical-articles/death.html"
@@ -83,6 +83,33 @@ sources:
   - title: "Inheriting property in Malaysia: a clear guide for foreigners and their families"
     url: "https://tlglegal.com.my/inheriting-property-in-malaysia-a-clear-guide-for-foreigners-and-their-families/"
     publisher: "Toh Liew & Gentry"
+  - title: "Transfer Of Asset Inherited From Deceased Estate (RPGT)"
+    url: "https://www.hasil.gov.my/en/rpgt/transfer-of-asset-inherited-from-deceased-estate/"
+    publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
+  - title: "Disposal Price Deemed To Be Equal To Acquisition Price (RPGT)"
+    url: "https://www.hasil.gov.my/en/rpgt/disposal-price-deemed-to-be-equal-to-acquisition-price/"
+    publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
+  - title: "Responsibilities of Disposer and Acquirer (CKHT)"
+    url: "https://www.hasil.gov.my/en/ckht/tanggungjawab-pelupus-dan-pemeroleh/"
+    publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
+  - title: "Public Ruling No. 9/2023 - The Deceased (Part I - Introduction)"
+    url: "https://www.hasil.gov.my/media/bzubsvql/public-ruling-no-92023-the-deceased-part-1-introduction.pdf"
+    publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
+  - title: "Explanatory Notes - Deceased Person's Estate (Form TP)"
+    url: "https://www.hasil.gov.my/media/forms/upload/form_54f4aa03-2b84-4dc6-ab29-7954a9d67d5e/b32d6f36-b37e-4665-9be2-1981b42a42cf/explanatorynotes_tp2022_2.pdf"
+    publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
+  - title: "Pemungut Duti Setem v. Lee Koy Eng & Another Appeal [2022] 6 MLRA 209 (judgment)"
+    url: "https://www.elaw.my/JE/01/JE_2022_43.html"
+    publisher: "eLaw Malaysia"
+  - title: "A New Chapter in Stamp Duty Appeals – The Case Of Lee Koy Eng"
+    url: "https://www.ziclegal.com/resources/a-new-chapter-in-stamp-duty-appeals---the-case-of-lee-koy-eng"
+    publisher: "ZICO Law"
+  - title: "Budget 2026 Highlights – Updates on Tax and Duties"
+    url: "https://www.ziclegal.com/resources/budget-2026-highlights---updates-on-tax-and-duties"
+    publisher: "ZICO Law"
+  - title: "Key Highlights of Malaysia's Budget 2026 – For individuals and businesses"
+    url: "https://www.crowe.com/my/-/media/crowe/firms/asia-pacific/my/crowemy/news/key-highlights-of-malaysias-budget-2026--for-individuals-and-businesses-newsletter.pdf"
+    publisher: "Crowe Malaysia"
 
 relations:
   - { rel: "related-to", to: "real-property-gains-tax" }
@@ -102,7 +129,7 @@ No. Malaysia levies no inheritance tax, estate tax, or death duty on the assets 
 
 Before abolition, estate duty applied only to larger estates. It was charged on a scale of 0%, 5% and 10%: estates valued at RM2 million or below paid nothing, and the top 10% rate applied to estates valued above RM4 million. Because the threshold was high and the duty was triggered only on death, the revenue it raised was modest — which is the reason tax consultants generally give for its repeal.
 
-The idea of bringing an inheritance tax back surfaces from time to time. Reintroduction was rumoured around 2016 and 2017 (unconfirmed messages circulating on social media put the rate at 10%), and the Consumers Association of Penang argued for it ahead of Budget 2018 as a way to raise revenue from the wealthiest. Each time, the proposals have been dismissed or shelved. Tax experts routinely push back on the grounds that an inheritance tax would overlap with taxes Malaysia already charges — stamp duty and real property gains tax — and could deter investment. As at the date of this guide, no inheritance tax exists or is scheduled.
+The idea of bringing an inheritance tax back surfaces from time to time. Reintroduction was rumoured around 2016 and 2017 (unconfirmed messages circulating on social media put the rate at 10%), and the Consumers Association of Penang argued for it ahead of Budget 2018 as a way to raise revenue from the wealthiest. Each time, the proposals have been dismissed or shelved. Tax experts routinely push back on the grounds that an inheritance tax would overlap with taxes Malaysia already charges — stamp duty and real property gains tax — and could deter investment. Reintroduction was again speculated ahead of Budget 2025, but no concrete proposal followed, and Budget 2026 (tabled on 10 October 2025) introduced none either — its only genuinely new tax is a carbon tax from 2026 for the iron, steel and energy sectors. As at the date of this guide, no inheritance tax, estate duty or death tax exists or is scheduled.
 
 So if there is no tax on the inheritance itself, where does tax actually enter the picture? In three places, all of which are about *income and gains*, not the transfer of wealth.
 
@@ -115,7 +142,7 @@ Think of death as splitting a person's tax life into distinct phases. Each phase
 | Up to date of death | Income the deceased earned while alive, in that year | The deceased (final return) | Income tax |
 | During estate administration | Income the estate generates (rent, dividends, interest, business income) after death | The executor/administrator | Income tax on the estate |
 | On distributing assets to heirs | Nothing — distributions are not taxed | — | No tax |
-| Selling inherited real property later | The gain over the date-of-death value | The seller (executor or beneficiary) | Real property gains tax |
+| Selling inherited real property later | The gain since acquisition (date-of-death value if the executor sells; transfer-date value if a beneficiary sells) | The seller (executor or beneficiary) | Real property gains tax |
 | Registering inherited property in the heir's name | Nominal fixed duty | The beneficiary | Stamp duty (RM10) |
 
 Two points stand out. First, the act of *inheriting* is untaxed at every step — no tax on the transfer, no tax on the beneficiary receiving assets. Second, the taxes that do apply are ordinary income tax, RPGT and stamp duty, just applied to a deceased person's situation. The rest of this guide takes them one at a time.
@@ -136,8 +163,8 @@ The key rules for estate income:
 
 - **Income after death is estate income.** It is taxed in the executor's name (as representative of the estate), not the deceased's and not the beneficiaries'.
 - **Distributions to beneficiaries are neither deductible nor taxable.** When the executor pays money out to heirs, the estate cannot deduct it, and the beneficiary does not pay income tax on receiving it. The tax is charged once, at the estate level, on the income the estate earns.
-- **Limited deductions are allowed.** Against estate income, the estate may deduct items such as current-year business losses, annuities specified in the will, and approved donations.
-- **Reliefs are limited.** If the deceased died domiciled in Malaysia, the estate is entitled to personal relief based on the amounts in force in the year of assessment of death — but no other personal tax reliefs apply.
+- **Limited deductions are allowed.** Against estate income, the estate may deduct items such as current-year business losses, approved donations, and an annuity provided for in the will. An annuity is deductible in arriving at the estate's total income under section 64(3) of the Income Tax Act 1967, taken after the deductions for current-year business loss, prospecting expenditure and pre-operational business expenditure.
+- **Reliefs are limited.** If the deceased died domiciled in Malaysia, the estate is entitled to personal relief based on the amounts in force in the year of assessment of death — but no other personal tax reliefs apply. This follows LHDN Public Ruling No. 9/2023, *The Deceased*.
 
 A simple way to picture it: for as long as the estate exists as an unadministered pool of assets, it behaves like a taxpayer in its own right. Once assets are handed to a beneficiary, future income from those assets belongs to the beneficiary and is taxed on them personally.
 
@@ -151,7 +178,7 @@ Two things must be kept apart:
 
 2. **Selling the property later is a chargeable disposal.** When the executor or the beneficiary eventually sells, RPGT applies to the gain.
 
-For a disposal **by the executor**, the executor is deemed to have acquired the property on the date of death at its market value on that date. Only the increase in value *after* death is taxed. Note that this deemed-market-value uplift is clearest for a disposal by the executor; once the property has been transferred into a *beneficiary's* own name, guidance is not consistent — some commentary treats the beneficiary as stepping into the deceased's original acquisition date and cost instead. This directly changes both the holding-period band and the taxable gain, so confirm the treatment before selling (see the caution below).
+For a disposal **by the executor**, the executor is deemed to have acquired the property on the date of death at its market value on that date. Only the increase in value *after* death is taxed. The rule is different once the property has been transferred into a *beneficiary's* own name. Under LHDN's RPGT guidance, the transfer of the property from the estate to the beneficiary is a **no-gain-no-loss transaction** (the disposal price is deemed equal to the acquisition price). When the beneficiary later sells, the beneficiary's acquisition date is the **date the property was transferred to them**, and the acquisition price is its **market value at that date of transfer** (paras 15(2), 15A and 19(3A), Schedule 2, RPGT Act 1976) — not the date or value at death, and not the deceased's original acquisition date and cost. Because that transfer date, rather than the date of death, sets the clock, it drives both the holding-period band and the taxable gain for a beneficiary's own disposal.
 
 ### Worked example: executor sells an inherited property
 
@@ -178,9 +205,9 @@ The RPGT rate depends on how long the property was held (measured from the acqui
 
 For inherited property disposed of by the executor, the holding period runs from the date of death (the deemed acquisition date), which often means the property has already been "held" long enough to fall into a lower band by the time it is sold. A Malaysian citizen selling in the sixth year or later pays 0% RPGT — but a non-citizen faces a 10% floor no matter how long the property is held. That difference matters a great deal in cross-border estates.
 
-A caution on the acquisition date: the deemed-date-of-death rule is clearest where the *executor* disposes of the property. Once the property has been transferred into a *beneficiary's* own name, the way the acquisition date and price are determined can differ, and guidance is not always consistent. Before selling inherited property, confirm your exact acquisition date and price with LHDN or a licensed tax agent — it directly changes both your holding-period band and your taxable gain.
+A note on the acquisition date: it depends on who sells. Where the *executor* disposes of the property, the deemed acquisition date is the date of death and the acquisition price is the market value at death. Where the property has already been transferred into a *beneficiary's* own name, the beneficiary's acquisition date is the **date of that transfer** and the acquisition price is the **market value at the transfer date** — because the transfer from the estate is a no-gain-no-loss transaction. This directly changes both the holding-period band and the taxable gain, so identify the correct acquisition date before selling.
 
-RPGT is self-assessed and time-sensitive: a disposal must be reported to LHDN shortly after the sale, so factor the filing deadline into your timeline rather than treating it as an afterthought (confirm the exact deadline with LHDN or a tax agent).
+RPGT is self-assessed and time-sensitive. The disposer must submit the CKHT return (form CKHT 1A) within **60 days after the date of disposal** — normally the date of the sale and purchase agreement, or of the State Authority's approval or consent where that is required. The acquirer must submit form CKHT 2A and retain and remit the retention sum within the same 60 days. From 1 January 2025, all CKHT submissions must be made online through the MyTax e-CKHT portal. Missing the 60-day deadline can attract a penalty of up to three times the tax charged, so build it into your timeline.
 
 ## What about stamp duty on transferring inherited property?
 
@@ -192,7 +219,7 @@ Nominal RM10 duty applies where the transfer is made under:
 - the **Distribution Act** (i.e. intestate succession, where there is no will); or
 - **faraid**, the forced-heirship rules under Syariah law for a Muslim estate.
 
-Ad valorem stamp duty can, however, be triggered if beneficiaries rearrange their entitlements *outside* those statutory frameworks. Malaysian case law has grappled with this: in *Lee Koy Eng v Pemungut Duti Setem*, the courts held that a beneficiary under an intestacy has no right or interest in the estate until administration is complete, and so cannot "gift" an entitlement they do not yet hold — a reminder that how the paperwork is structured (for example, a deed of family arrangement) affects the duty. If beneficiaries want to redistribute assets among themselves in a way the will or the Distribution Act did not provide for, take advice first, because the wrong structure can convert an RM10 transfer into a full-rate duty.
+Ad valorem stamp duty can, however, be triggered if beneficiaries rearrange their entitlements *outside* those statutory frameworks. Malaysian case law has grappled with this: in *Lee Koy Eng v Pemungut Duti Setem* [2022] MSTC 30-483, the High Court held that a beneficiary under an intestacy has no vested right or interest in the estate until administration is complete, so a Form 14A instrument giving effect to a renunciation of that entitlement cannot be a "gift" — you cannot gift what you do not yet own — and attracts only nominal, not ad valorem, duty. (On appeal the case is reported as *Pemungut Duti Setem v Lee Koy Eng & Another Appeal* [2022] 6 MLRA 209, where the Federal Court confirmed that a case stated under section 39 of the Stamp Act 1949 is appealable to it; both the High Court and the Court of Appeal found for the duty payer on the substance.) The wider lesson is that how the paperwork is structured (for example, a deed of family arrangement) affects the duty. If beneficiaries want to redistribute assets among themselves in a way the will or the Distribution Act did not provide for, take advice first, because the wrong structure can convert an RM10 transfer into a full-rate duty.
 
 Note also that the RM10 stamp duty is not the only cost of transferring title. Land office and court fees, valuation costs, and legal fees for obtaining the grant of representation still apply, and for foreign beneficiaries, **state consent** to hold the property must usually be obtained before the transfer can be registered.
 
@@ -229,14 +256,14 @@ If you are handling an estate, work through these questions in order. Each one m
 
 1. **Did the deceased have unsettled income tax?** Notify LHDN of the death and settle the deceased's final return and any arrears before distributing. Do not skip this — you are personally in the frame if the estate is emptied before tax is paid.
 2. **Is the estate still earning income?** If assets are producing rent, dividends or interest after death, that income is taxed on the estate (the executor) until the assets are distributed. Keep the estate's own records and file its returns.
-3. **Are you selling any real property?** If yes, RPGT applies. For a disposal by the executor, the gain is measured over the date-of-death market value. Get the property valued as at the date of death, confirm your acquisition date with LHDN or a tax agent (especially if title has passed to a beneficiary), and mind the post-sale filing deadline.
+3. **Are you selling any real property?** If yes, RPGT applies. For a disposal by the executor, the gain is measured over the date-of-death market value, so get the property valued as at the date of death. If title has already passed to a beneficiary who is now selling, the acquisition date is the transfer date and the acquisition price is the market value on that date. Either way, file the CKHT return within 60 days of the disposal (online via MyTax e-CKHT).
 4. **Are you transferring property into an heir's name?** Expect nominal RM10 stamp duty if the route is a will, intestacy, or faraid. Budget separately for land office, legal and valuation fees.
 5. **Is any beneficiary a foreigner?** Then arrange state consent for the property transfer, and remember the foreign seller's RPGT floor of 10% applies on any later sale regardless of holding period.
 
 ## Common mistakes and misconceptions
 
 - **"We'll be taxed just for inheriting."** You will not. There is no inheritance tax and beneficiaries are not taxed on receiving assets.
-- **"RPGT will be charged on the whole gain since Dad bought the house."** For a disposal by the executor, the gain is measured from the market value at the date of death, not the original purchase price, which usually shrinks the taxable gain substantially. (Where a beneficiary sells in their own name, confirm the acquisition basis first — it may be treated differently.)
+- **"RPGT will be charged on the whole gain since Dad bought the house."** For a disposal by the executor, the gain is measured from the market value at the date of death, not the original purchase price, which usually shrinks the taxable gain substantially. Where a beneficiary sells in their own name, the gain is measured from the market value on the date the property was transferred to them — again, not the deceased's original cost.
 - **"Inheriting the house is a taxable sale."** The transfer on inheritance is not a chargeable disposal; RPGT only arises when the property is later sold.
 - **"We can freely swap who gets what among ourselves."** Rearranging entitlements outside the will, the Distribution Act or faraid can attract full ad valorem stamp duty instead of the RM10 nominal rate, and can raise other issues. Structure it properly.
 - **"Distribute first, deal with tax later."** Distributing the estate before clearing the deceased's tax and the estate's tax exposes the executor. Settle tax obligations first.

@@ -28,11 +28,11 @@ faq:
   - q: "Apakah perbezaan antara Kementerian Kewangan dan Perbendaharaan?"
     a: "Keduanya merujuk badan yang sama tetapi pada peringkat berbeza. 'Kementerian Kewangan' (Ministry of Finance) ialah kementerian dari segi dasar, diketuai oleh Menteri Kewangan. 'Perbendaharaan' (Treasury) ialah jentera pentadbiran teras kementerian itu, diketuai oleh Ketua Setiausaha Perbendaharaan. Menurut portal rasmi MOF, Perbendaharaan Malaysia disenaraikan sebagai jabatan utama di bawah kementerian, dengan Kastam, Jabatan Akauntan Negara dan Jabatan Penilaian dan Perkhidmatan Harta sebagai jabatan lain. (Lembaga Pembangunan Langkawi (LADA) ialah badan berkanun di bawah kementerian, walaupun portal MOF menyenaraikannya secara pentadbiran bersama jabatan.)"
   - q: "Siapa Menteri Kewangan Malaysia?"
-    a: "Menteri Kewangan I ialah Perdana Menteri Dato' Seri Anwar Ibrahim. Beliau dibantu oleh Menteri Kewangan II, Datuk Seri Amir Hamzah Azizan, dan seorang Timbalan Menteri Kewangan, seperti yang disenaraikan dalam carta organisasi Economic Outlook 2025. Ketua pegawai perkhidmatan awam kementerian ialah Ketua Setiausaha Perbendaharaan, Datuk Johan Mahmood Merican."
+    a: "Menteri Kewangan I ialah Perdana Menteri Dato' Seri Anwar Ibrahim. Beliau dibantu oleh Menteri Kewangan II, Datuk Seri Amir Hamzah Azizan, dan Timbalan Menteri Kewangan, Datuk Liew Chin Tong, yang mengambil alih jawatan pada 17 Disember 2025 dalam rombakan kabinet. Ketua pegawai perkhidmatan awam kementerian ialah Ketua Setiausaha Perbendaharaan, Datuk Johan Mahmood Merican."
   - q: "Bilakah Belanjawan dibentangkan setiap tahun?"
     a: "Belanjawan Persekutuan lazimnya dibentangkan pada suku terakhir tahun bagi tahun kewangan berikutnya. Belanjawan 2026 dibentangkan oleh Menteri Kewangan di Dewan Rakyat pada 10 Oktober 2025. Ia kemudian dibahaskan pada peringkat dasar dan peringkat jawatankuasa sebelum diluluskan sebagai Akta Perbekalan."
   - q: "Adakah ada had undang-undang ke atas jumlah hutang kerajaan?"
-    a: "Ya. Di bawah akta pinjaman masing-masing yang diwartakan, jumlah Sekuriti Kerajaan Malaysia (MGS), Terbitan Pelaburan Kerajaan Malaysia (MGII) dan Bil Perbendaharaan Islam Malaysia (MITB) tidak boleh melebihi 65% KDNK, pinjaman luar pesisir tidak melebihi RM35 bilion, dan Bil Perbendaharaan (MTB) tidak melebihi RM10 bilion. Selain itu, Akta 850 menetapkan sasaran jangka sederhana supaya jumlah hutang tidak melebihi 60% KDNK. (Had berangka akta pinjaman individu perlu disahkan terhadap teks akta dan Fiscal Outlook 2026 Seksyen 4.)"
+    a: "Ya. Di bawah akta pinjaman masing-masing yang diwartakan, jumlah Sekuriti Kerajaan Malaysia (MGS), Terbitan Pelaburan Kerajaan Malaysia (MGII) dan Bil Perbendaharaan Islam Malaysia (MITB) tidak boleh melebihi 65% KDNK, pinjaman luar pesisir tidak melebihi RM35 bilion, dan Bil Perbendaharaan (MTB) tidak melebihi RM10 bilion. Had ketiga-tiga ini disahkan dalam Fiscal Outlook 2026, Seksyen 4 (Rajah 1 dan Jadual 4.2). Selain itu, Akta 850 menetapkan sasaran jangka sederhana supaya jumlah hutang tidak melebihi 60% KDNK."
   - q: "Adakah Bank Negara Malaysia sebahagian daripada Kementerian Kewangan?"
     a: "Bank Negara Malaysia ialah agensi di bawah Kementerian Kewangan dan disenaraikan sebagai sebahagian daripada organisasi kementerian, tetapi ia bank pusat yang autonomi dari segi operasi dasar monetari. Menteri Kewangan mewakili kerajaan dalam hubungan dengan bank pusat, tetapi keputusan kadar dasar dibuat oleh bank pusat itu sendiri."
   - q: "Apakah yang berlaku jika Belanjawan tidak diluluskan Dewan Rakyat?"
@@ -45,15 +45,11 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
-reviewDue: 2027-08-03
-version: "0.2"
-verificationNeeded:
-  - "Had berangka akta pinjaman individu (gabungan MGS+MGII+MITB tidak melebihi 65% KDNK; pinjaman luar pesisir tidak melebihi RM35 bilion; MTB tidak melebihi RM10 bilion) — sahkan terhadap teks akta pinjaman dan Fiscal Outlook 2026 Seksyen 4."
-  - "Klasifikasi LADA: portal rasmi MOF menyenaraikannya di bawah 'Jabatan', walaupun dari segi undang-undang ia badan berkanun di bawah Akta Lembaga Pembangunan Langkawi 1990 (Akta 423) — sahkan pengelasan yang hendak digunakan."
-  - "Angka defisit 3.8% KDNK bagi 2025 ialah sasaran Belanjawan; sahkan angka sebenar apabila penyata fiskal muktamad diterbitkan."
-  - "Nisbah hutang 63.1% KDNK (akhir Mac 2026) daripada laporan Business Today — sahkan terhadap penyata rasmi MOF/Bank Negara apabila tersedia."
-  - "Pemegang jawatan politik dan pentadbiran semasa (Menteri Kewangan II, Timbalan Menteri, Ketua Setiausaha Perbendaharaan) di mof.gov.my."
+publishedBy: "ashton-tan"
+reviewed: 2026-08-14
+reviewDue: 2027-08-14
+version: "0.3"
+verificationNeeded: []
 revisions:
   - version: "0.1"
     date: 2026-08-01
@@ -63,8 +59,12 @@ revisions:
     date: 2026-08-01
     change: "Correction pass: betulkan defisit 2025 kepada 3.8% dan pangkas siri defisit tak bersumber; sumberkan hasil RM343.1b & defisit ke Seksyen 2 Hasil/Bernama; sumberkan had COVID (60→65% KDNK, siling dana RM65b→RM110b); kelaskan semula LADA sebagai badan berkanun."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-08-01
+updated: 2026-08-14
 sources:
   - title: "Public Finance and Fiscal Responsibility Act 2023 (Act 850)"
     url: "https://www.mof.gov.my/portal/pdf/ekonomi/akta-850-en.pdf"
@@ -106,6 +106,21 @@ sources:
     url: "https://www.businesstoday.com.my/2026/07/29/federal-debt-ratio-falls-to-63-1-of-gdp-as-fiscal-consolidation-continues/"
     publisher: "Business Today"
     date: "2026-07-29"
+  - title: "Malaysia's federal debt drops to 63.1% of GDP in Q1 2026 (MOF parliamentary written reply, 15 July 2026)"
+    url: "https://www.thestar.com.my/news/nation/2026/07/16/malaysias-federal-debt-drops-to-631-of-gdp-in-q1-2026"
+    publisher: "The Star"
+    date: "2026-07-16"
+  - title: "MOF: Federal govt's statutory debt remains under 65% limit as of end-March 2026"
+    url: "https://theedgemalaysia.com/node/810876"
+    publisher: "The Edge Malaysia"
+  - title: "Strong domestic demand boosts Malaysia's GDP, narrows fiscal deficit to 3.7% - MOF"
+    url: "https://www.thestar.com.my/business/business-news/2026/02/13/strong-domestic-demand-boosts-malaysia039s-gdp-narrows-fiscal-deficit-to-37---mof"
+    publisher: "The Star"
+    date: "2026-02-13"
+  - title: "Malaysia Cabinet reshuffle: Full list of all 28 ministers and deputies (Dec 2025)"
+    url: "https://www.malaymail.com/news/malaysia/2025/12/16/malaysia-cabinet-reshuffle-full-list-of-all-28-ministers-and-deputies/202141"
+    publisher: "Malay Mail"
+    date: "2025-12-16"
   - title: "Ministry of Finance Official Portal"
     url: "https://www.mof.gov.my/portal/en"
     publisher: "Kementerian Kewangan Malaysia"
@@ -148,7 +163,7 @@ Nama individu di atas dirujuk daripada carta organisasi rasmi dalam Economic Out
 
 ## Siapa yang mengetuai Perbendaharaan?
 
-Terdapat dua peringkat kepimpinan yang sering dikelirukan. Peringkat politik diketuai oleh Menteri Kewangan — kini dipegang oleh Perdana Menteri sendiri sebagai Menteri Kewangan I — dibantu oleh Menteri Kewangan II dan seorang Timbalan Menteri. Peringkat perkhidmatan awam diketuai oleh **Ketua Setiausaha Perbendaharaan**, pegawai kanan yang mengetuai Perbendaharaan Malaysia dan mempengerusikan banyak lembaga badan berkanun kewangan.
+Terdapat dua peringkat kepimpinan yang sering dikelirukan. Peringkat politik diketuai oleh Menteri Kewangan — kini dipegang oleh Perdana Menteri sendiri sebagai Menteri Kewangan I — dibantu oleh Menteri Kewangan II Datuk Seri Amir Hamzah Azizan dan Timbalan Menteri Kewangan Datuk Liew Chin Tong (mengambil alih jawatan pada 17 Disember 2025). Peringkat perkhidmatan awam diketuai oleh **Ketua Setiausaha Perbendaharaan**, pegawai kanan yang mengetuai Perbendaharaan Malaysia dan mempengerusikan banyak lembaga badan berkanun kewangan.
 
 Di bawah Ketua Setiausaha Perbendaharaan terdapat tiga Timbalan Ketua Setiausaha — bagi Dasar, Pengurusan, dan Pelaburan — yang menyelia bahagian-bahagian teras Perbendaharaan.
 
@@ -220,13 +235,13 @@ Belanjawan 2026 ialah jumlah mobilisasi RM470 bilion, meningkat daripada RM452 b
 | Badan berkanun Persekutuan dan syarikat MKD | RM10.8 bilion |
 | **Jumlah mobilisasi keseluruhan** | **RM470.0 bilion** |
 
-Di sebelah hasil, kerajaan mensasarkan kutipan RM343.1 bilion bagi 2026, meningkat daripada anggaran RM334.1 bilion pada 2025. Jurang antara hasil dan perbelanjaan itulah defisit fiskal, yang disasarkan pada 3.5% KDNK bagi 2026 — turun daripada sasaran 3.8% pada 2025.
+Di sebelah hasil, kerajaan mensasarkan kutipan RM343.1 bilion bagi 2026, meningkat daripada anggaran RM334.1 bilion pada 2025. Jurang antara hasil dan perbelanjaan itulah defisit fiskal, yang disasarkan pada 3.5% KDNK bagi 2026 — turun daripada 3.7% pada 2025. Angka 3.7% itu ialah pencapaian sebenar penuh tahun 2025 yang mengatasi sasaran asal 3.8% (2024: 4.1%).
 
 ## Berapa besar hutang Persekutuan, dan apa hadnya?
 
 Apabila perbelanjaan melebihi hasil, kerajaan meminjam untuk menutup jurang itu — dan pinjaman terkumpul selama bertahun-tahun menjadi hutang Persekutuan. Nisbah hutang kepada KDNK ialah ukuran yang paling kerap dipantau. Menjelang akhir Mac 2026, nisbah itu turun kepada **63.1% KDNK**, daripada 65.2% pada akhir 2025 — hasil daripada pengukuhan fiskal yang menyempitkan defisit selama beberapa tahun berturut-turut.
 
-Mengikut angka yang dinyatakan dalam Belanjawan 2026, defisit fiskal Persekutuan telah menurun secara berperingkat: 5.5% KDNK pada 2022, 5.0% pada 2023, 4.1% pada 2024, dan disasarkan 3.8% pada 2025 serta 3.5% pada 2026.
+Defisit fiskal Persekutuan telah menurun secara berperingkat: 5.5% KDNK pada 2022, 5.0% pada 2023, 4.1% pada 2024, 3.7% pada 2025 (angka sebenar, mengatasi sasaran 3.8%), serta disasarkan 3.5% pada 2026.
 
 Kerajaan tidak boleh meminjam sesuka hati. Empat akta utama mengawal pinjamannya, masing-masing dengan instrumen dan had yang diwartakan:
 
@@ -237,7 +252,7 @@ Kerajaan tidak boleh meminjam sesuka hati. Empat akta utama mengawal pinjamannya
 | External Loans Act 1963 [Akta 403] | Pinjaman luar pesisir | Tidak melebihi RM35 bilion |
 | Treasury Bills (Local) Act 1946 [Akta 188] | MTB | Tidak melebihi RM10 bilion |
 
-Nota: MGS ialah Sekuriti Kerajaan Malaysia; MGII ialah Terbitan Pelaburan Kerajaan Malaysia (patuh Syariah); MITB ialah Bil Perbendaharaan Islam Malaysia; MTB ialah Bil Perbendaharaan Malaysia. Had berangka setiap akta perlu disahkan terhadap teks akta dan dokumen Fiscal Outlook 2026 (Seksyen 4).
+Nota: MGS ialah Sekuriti Kerajaan Malaysia; MGII ialah Terbitan Pelaburan Kerajaan Malaysia (patuh Syariah); MITB ialah Bil Perbendaharaan Islam Malaysia; MTB ialah Bil Perbendaharaan Malaysia. Had berangka ketiga-tiga akta ini disahkan dalam Fiscal Outlook 2026 (Seksyen 4, Rajah 1 di m.s. 151 dan Jadual 4.2 di m.s. 161), yang turut mencatatkan angka sebenar akhir Jun 2025: hutang berkanun MGS+MGII+MITB pada 63.5% KDNK, pinjaman luar pesisir RM22.8 bilion, dan MTB RM2 bilion — kesemuanya dalam had.
 
 Akta-akta ini mengikat kerajaan untuk meminjam semata-mata bagi membiayai perbelanjaan pembangunan dan membiayai semula hutang sedia ada — bukan untuk perbelanjaan mengurus harian. Sebahagian besar hutang Persekutuan didenominasikan dalam ringgit dan diperoleh daripada pasaran modal domestik; pinjaman luar pesisir kekal jauh di bawah ambang RM35 bilion.
 

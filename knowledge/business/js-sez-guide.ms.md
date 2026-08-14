@@ -1,61 +1,58 @@
 ---
 topicId: MY-BIZ-0051
-title: "Johor-Singapore Special Economic Zone — Incentives, Conditions and Clawbacks"
-seoTitle: "JS-SEZ Tax Incentives Malaysia Explained"
-socialTitle: "The JS-SEZ 5 per cent rate is real. It is also conditional, annual, and not yet gazetted."
+title: "Zon Ekonomi Khas Johor-Singapura — Insentif, Syarat dan Clawback"
+seoTitle: "Insentif Cukai JS-SEZ Malaysia Dijelaskan"
+socialTitle: "Kadar 5 peratus JS-SEZ itu benar. Ia juga bersyarat, tahunan, dan belum diwartakan."
 slug: "js-sez-guide"
 category: "business"
 subcategory: ["economic-corridors"]
-summary: "Apa yang sebenarnya diberikan oleh pakej insentif Zon Ekonomi Khas Johor-Singapura, zon unggulan mana yang dikaitkan dengan setiap insentif, dan syarat pematuhan yang menentukan sama ada anda kekal menikmati kadar utama itu."
+summary: "Apa yang sebenarnya diberikan oleh pakej insentif Zon Ekonomi Khas Johor-Singapura, zon mercu tanda mana yang dilekatkan pada setiap insentif, dan syarat pematuhan yang menentukan sama ada anda mengekalkan kadar tajuk utama itu."
 
 tier: "1"
 mode: "practical"
 contentType: "guide"
 sensitivity: "none"
 
-answer: "Pakej insentif cukai JS-SEZ diumumkan pada 8 Januari 2025 dan ditadbir oleh MIDA bagi zon unggulan A hingga G. Manfaat utamanya ialah kadar cukai khas 5 peratus selama 10 atau 15 tahun bagi projek pembuatan yang layak dan projek Global Services Hub, serta elaun cukai pelaburan bagi logistik pintar dan pelancongan. Permohonan dibuka dari 1 Januari 2025 hingga 31 Disember 2034 melalui portal Invest Malaysia. Setiap kadar adalah bersyarat dan diuji pada setiap tahun taksiran."
+answer: "Pakej insentif cukai JS-SEZ diumumkan pada 8 Januari 2025 dan ditadbir oleh MIDA untuk zon mercu tanda A hingga G. Manfaat tajuk utama ialah kadar cukai khas 5 peratus untuk 10 atau 15 tahun bagi projek pembuatan dan Hab Perkhidmatan Global yang layak, serta elaun cukai pelaburan untuk logistik pintar dan pelancongan. Permohonan dibuka dari 1 Januari 2025 hingga 31 Disember 2034 melalui portal Invest Malaysia. Setiap kadar adalah bersyarat dan diuji setiap tahun taksiran."
 keyTakeaways:
-  - "Sembilan zon unggulan wujud, tetapi pakej MIDA hanya meliputi tujuh — Pengerang dan Forest City berada di bawah pakej berasingan yang lebih awal"
-  - "Kadar 5 peratus tidak automatik: sektor pembuatan memerlukan sekurang-kurangnya RM500 million perbelanjaan modal tidak termasuk tanah untuk 10 tahun, dan melebihi RM1 billion untuk 15 tahun"
-  - "Laluan Global Services Hub memerlukan perbelanjaan operasi tahunan RM50 million, perolehan tahunan RM500 million dan sekurang-kurangnya 10 syarikat rangkaian yang dikhidmati"
-  - "Kegagalan memenuhi syarat pada mana-mana satu tahun taksiran menyebabkan kadar khas itu hilang untuk tahun tersebut — insentif ini diuji setiap tahun, bukan sekali sahaja"
-  - "Terlepas tarikh akhir penentuan 24 bulan atau 36 bulan boleh membatalkan kelulusan itu terus"
-  - "Setakat Julai 2026 tiada P.U.(A) yang melaksanakan pakej JS-SEZ telah diwartakan — pakej ini bersandarkan garis panduan MIDA dan kelulusan National Committee on Investments"
-  - "Cukai Minimum Global terpakai mulai 2025, jadi kumpulan syarikat yang berpendapatan melebihi EUR 750 million mungkin berdepan cukai tambahan domestik yang menghakis kadar 5 peratus itu"
-appliesTo: "Syarikat asing dan Malaysia yang sedang menilai pelaburan di Johor, serta penasihat yang membanding-harga insentif JS-SEZ dengan alternatif lain."
+  - "Sembilan zon mercu tanda wujud, tetapi pakej MIDA meliputi hanya tujuh — Pengerang dan Forest City terletak di bawah pakej berasingan yang lebih awal"
+  - "Kadar 5 peratus itu bukan automatik: pembuatan memerlukan sekurang-kurangnya RM500 juta perbelanjaan modal tidak termasuk tanah untuk 10 tahun, dan melebihi RM1 bilion untuk 15 tahun"
+  - "Laluan Hab Perkhidmatan Global memerlukan perbelanjaan operasi tahunan RM50 juta, pusing ganti tahunan RM500 juta dan sekurang-kurangnya 10 syarikat rangkaian yang dikhidmati"
+  - "Kegagalan memenuhi syarat dalam mana-mana satu tahun taksiran melucutkan kadar khas untuk tahun tersebut — insentif diuji setiap tahun, bukan sekali sahaja"
+  - "Terlepas tarikh akhir penentuan elaun cukai pelaburan 36 bulan membatalkan kelulusan secara mutlak; tarikh akhir kadar cukai khas 24 bulan hanya membahayakan kelayakan, tanpa pembatalan automatik"
+  - "Sehingga Julai 2026 tiada P.U.(A) pelaksanaan pakej JS-SEZ telah diwartakan — pakej ini bergantung pada garis panduan MIDA dan kelulusan Jawatankuasa Pelaburan Kebangsaan"
+  - "Cukai Minimum Global terpakai mulai 2025, jadi kumpulan yang hasilnya melebihi EUR 750 juta mungkin menghadapi cukai tambahan domestik yang menghakis kadar 5 peratus"
+appliesTo: "Syarikat asing dan Malaysia yang menilai pelaburan di Johor, serta penasihat yang menetapkan harga insentif JS-SEZ berbanding alternatif."
 
 faq:
-  - q: "Adakah kadar cukai 5 peratus JS-SEZ automatik jika saya menubuhkan perniagaan di Johor?"
-    a: "Tidak. Ia hanya terpakai kepada projek yang ditetapkan dalam zon unggulan yang ditetapkan, dan hanya selepas kelulusan oleh National Committee on Investments ke atas permohonan MIDA. Ambang pelaburan modal RM500 million (tidak termasuk tanah) ke atas terpakai kepada laluan pembuatan dan kimia hiliran; laluan Global Services Hub tiada ambang perbelanjaan modal tetapi mesti memenuhi syarat perbelanjaan operasi, perolehan dan bilangan pekerja sebaliknya. Sebuah syarikat yang sekadar berpindah ke Johor Bahru tidak mendapat apa-apa daripada pakej ini."
-  - q: "Apa yang berlaku jika saya tidak memenuhi sesuatu syarat pada satu-satu tahun?"
-    a: "Di bawah garis panduan MIDA, sebuah syarikat yang diluluskan tetapi gagal mematuhi syarat yang ditetapkan pada mana-mana tahun taksiran tidak berhak menuntut kadar cukai pendapatan khas untuk tahun tersebut dan sebaliknya dikenakan cukai pada kadar yang berkuat kuasa pada masa itu. Kehilangan ini adalah tahun demi tahun, bukan pembayaran balik pelepasan yang telah dinikmati sebelum ini, iaitu risiko yang jauh berbeza daripada suatu 'clawback' klasik."
-  - q: "Zon unggulan yang mana saya perlu berada?"
-    a: "Bergantung kepada aktiviti. Global Services Hub ialah Flagship A dan B, logistik pintar ialah Flagship C, kimia khusus hiliran ialah Flagship D, aeroangkasa ialah Flagship E, AI, kuantum, peranti perubatan dan farmaseutikal ialah Flagship F, dan pelancongan bersepadu ialah Flagship G. MIDA menghendaki pengesahan rasmi lokasi pembangunan di dalam sesuatu zon unggulan sebagai sebahagian daripada permohonan."
-  - q: "Bolehkah syarikat Malaysia yang sedia ada memohon?"
-    a: "Boleh, tetapi hanya sebagai projek pempelbagaian, dan ia mesti menyimpan akaun berasingan bagi aktiviti yang diberi insentif dan yang tidak. Sesebuah syarikat tidak layak jika syarikat itu sendiri atau syarikat berkaitannya telah pun diluluskan insentif cukai untuk projek yang sama."
-  - q: "Adakah terdapat insentif untuk individu?"
-    a: "Pakej ini merangkumi insentif pekerja berpengetahuan berupa kadar rata 15 peratus ke atas pendapatan penggajian yang dikenakan cukai selama 10 tahun. Kriteria yang diterbitkan MIDA menghendaki tiada pendapatan penggajian Malaysia dalam tempoh 24 bulan sebelumnya dan gaji bulanan melebihi RM20,000, tertakluk kepada ujian kelayakan dan profesion."
+  - q: "Adakah kadar cukai 5 peratus JS-SEZ automatik jika saya membuka operasi di Johor?"
+    a: "Tidak. Ia terpakai hanya kepada projek tertentu dalam zon mercu tanda tertentu, dan hanya selepas kelulusan oleh Jawatankuasa Pelaburan Kebangsaan atas permohonan MIDA. Ambang pelaburan modal RM500 juta (tidak termasuk tanah) dan ke atas terpakai kepada laluan pembuatan dan kimia huluan; laluan Hab Perkhidmatan Global tiada ambang perbelanjaan modal tetapi mesti memenuhi syarat perbelanjaan operasi, pusing ganti dan bilangan pekerja sebaliknya. Syarikat yang sekadar berpindah ke Johor Bahru tidak memperoleh apa-apa daripada pakej ini."
+  - q: "Apa yang berlaku jika saya terlepas satu syarat dalam satu tahun?"
+    a: "Di bawah garis panduan MIDA, syarikat yang diluluskan yang gagal mematuhi syarat yang ditetapkan dalam mana-mana tahun taksiran tidak berhak menuntut kadar cukai pendapatan khas untuk tahun tersebut dan sebaliknya dikenakan cukai pada kadar berkuat kuasa. Pelucutan ini adalah tahun demi tahun dan bukannya pembayaran balik pelepasan lampau, yang merupakan pendedahan yang jauh berbeza daripada clawback klasik."
+  - q: "Zon mercu tanda mana yang saya perlukan?"
+    a: "Ia bergantung pada aktiviti. Hab Perkhidmatan Global ialah Mercu Tanda A dan B, logistik pintar ialah Mercu Tanda C, kimia khusus huluan ialah Mercu Tanda D, aeroangkasa ialah Mercu Tanda E, AI, kuantum, peranti perubatan dan farmaseutikal ialah Mercu Tanda F, dan pelancongan bersepadu ialah Mercu Tanda G. MIDA memerlukan pengesahan rasmi lokasi pembangunan dalam sesuatu zon mercu tanda sebagai sebahagian daripada permohonan."
+  - q: "Bolehkah syarikat Malaysia sedia ada memohon?"
+    a: "Boleh, tetapi hanya sebagai projek pempelbagaian, dan ia mesti menyimpan akaun berasingan bagi aktiviti yang diberi insentif dan yang tidak diberi insentif. Sesebuah syarikat tidak layak jika ia atau syarikat berkaitan telah diluluskan insentif cukai untuk projek yang sama."
+  - q: "Adakah insentif untuk individu?"
+    a: "Pakej ini termasuk insentif pekerja berpengetahuan berupa kadar rata 15 peratus ke atas pendapatan pekerjaan yang boleh dicukai untuk 10 tahun. Kriteria terbitan MIDA memerlukan tiada pendapatan pekerjaan Malaysia dalam tempoh 24 bulan sebelumnya dan gaji bulanan melebihi RM20,000, tertakluk kepada ujian kelayakan dan profesion."
   - q: "Adakah pakej JS-SEZ telah diwartakan?"
-    a: "Belum, setakat Julai 2026. Carian pada warta persekutuan AGC tidak mengembalikan sebarang P.U.(A) yang tajuknya merujuk kepada Zon Ekonomi Khas Johor-Singapura. Garis panduan MIDA sendiri menghuraikan mekanisme itu dalam kala hadapan — insentif itu 'akan disediakan' melalui perundangan subsidiari di bawah seksyen 65B Akta Cukai Pendapatan 1967. Bandingkan dengan Forest City, yang mana sebelas instrumen telah diwartakan pada 3 Oktober 2025."
+    a: "Belum, sehingga Julai 2026. Carian dalam warta persekutuan AGC tidak mengembalikan sebarang P.U.(A) yang tajuknya merujuk kepada Zon Ekonomi Khas Johor-Singapura. Garis panduan MIDA sendiri menghuraikan mekanisme itu dalam bentuk masa hadapan — insentif itu akan disediakan melalui perundangan subsidiari di bawah seksyen 65B Akta Cukai Pendapatan 1967. Bandingkan dengan Forest City, di mana sebelas instrumen telah diwartakan pada 3 Oktober 2025."
 
 verificationNeeded:
-  - "No gazetted P.U.(A) implementing the JS-SEZ package could be located on lom.agc.gov.my as at 20 July 2026. Do not cite a P.U.(A) number for JS-SEZ until one is confirmed."
   - "The administering agency and application route for the JS-SEZ knowledge worker incentive is not stated in the MIDA guideline — Appendix B of the snapshot lists it under other incentives without naming a route. Confirm with MIDA or IRDA before advising."
-  - "The 40 per cent stamp duty exemption on unsold commercial property in Flagship A and B is described in MIDA's snapshot as being provided under section 80(1) of the Stamp Act 1949, but no remission or exemption order for it was located in the gazette. Treat as announced, not enacted."
-  - "MIDA guideline version 2, dated April 2025, remains the latest published version. Confirm no version 3 has issued before relying on the appendices."
-  - "Whether the 24-month determination deadline in the Global Services Hub and manufacturing appendices carries the same automatic cancellation consequence spelled out for the 36-month investment tax allowance deadline is not stated. The guideline says only that failure may have implications for eligibility."
 
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "f4cbef070875c806"
+sourceContentHash: "6ef63a1c757e97dc"
 
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: "2026-07-25"
+reviewed: 2026-08-14
+reviewDue: 2027-07-22
 publishedBy: "ashton-tan"
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-20
@@ -65,8 +62,12 @@ revisions:
     date: 2026-07-21
     change: "Narrowed the intro and FAQ so the RM500m/RM1bn capital-investment thresholds are scoped to the manufacturing and downstream-chemicals routes; noted the Global Services Hub route has no capex threshold. Corrected 'principle approval letter' to 'principal' throughout."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-07-20
+updated: 2026-08-14
 sources:
   - title: "Guidelines for Johor-Singapore Special Economic Zone (JS-SEZ) Tax Incentive Package, Version 2"
     url: "https://www.mida.gov.my/wp-content/uploads/2025/04/Guideline-JSSEZ-V2.pdf"
@@ -90,6 +91,10 @@ sources:
   - title: "Federal gazette subsidiary legislation search (P.U.(A))"
     url: "https://lom.agc.gov.my/subsid-legis.php"
     publisher: "Attorney General's Chambers"
+  - title: "The Johor-Singapore Special Economic Zone: early structuring considerations for investors"
+    url: "https://www.trowers.com/insights/2026/may/the-johor-singapore-special-economic-zone"
+    publisher: "Trowers & Hamlins"
+    date: "2026-05-01"
 
 entity: "Johor-Singapore Special Economic Zone"
 relations:
@@ -99,45 +104,45 @@ relations:
   - { rel: "governs", to: "income-tax-act-1967" }
 related: ["corporate-tax-rates", "manufacturing-licence-malaysia", "foreign-ownership-malaysia", "global-minimum-tax-pillar-two"]
 keywords:
-  - "insentif cukai JS-SEZ"
-  - "Zon Ekonomi Khas Johor Singapura"
-  - "kadar cukai 5 peratus JS-SEZ"
-  - "zon unggulan JS-SEZ"
-  - "permohonan MIDA JS-SEZ"
+  - "JS-SEZ tax incentive"
+  - "Johor Singapore Special Economic Zone"
+  - "JS-SEZ 5 percent tax rate"
+  - "JS-SEZ flagship zones"
+  - "MIDA JS-SEZ application"
   - "zon ekonomi khas Johor Singapura"
 ---
 
-Setiap ringkasan mengenai Zon Ekonomi Khas Johor-Singapura bermula dengan angka yang sama:
-5 peratus selama 15 tahun. Itu angka yang benar. Ia juga fakta yang paling tidak berguna dalam
+Setiap ringkasan tentang Zon Ekonomi Khas Johor-Singapura dimulakan dengan nombor yang sama: 5
+peratus untuk 15 tahun. Ia nombor yang benar. Ia juga fakta yang paling kurang berguna dalam
 pakej ini, kerana hampir tiada sesiapa yang membacanya akan layak.
 
-Bagi laluan pembuatan dan kimia hiliran, ambang untuk versi 15 tahun ialah pelaburan modal
-melebihi **RM1 billion**, tidak termasuk tanah, manakala versi 10 tahun memerlukan **RM500
-million**. Laluan Global Services Hub (Flagship A dan B) langsung tidak menetapkan ambang
-perbelanjaan modal — sebaliknya ia digerbangkan oleh perbelanjaan operasi, perolehan dan bilangan
-pekerja, seperti yang diperincikan di bawah. Di bawah ambang yang terpakai kepada laluan anda,
-pakej JS-SEZ tidak menawarkan apa-apa langsung — anda kembali kepada rangka kerja insentif
-kebangsaan biasa, yang tersedia di Kedah dan Kelantan dengan terma yang sama.
+Bagi laluan pembuatan dan kimia huluan, ambang untuk versi 15 tahun ialah pelaburan modal melebihi
+**RM1 bilion**, tidak termasuk tanah, dan versi 10 tahun memerlukan **RM500 juta**. Laluan Hab
+Perkhidmatan Global (Mercu Tanda A dan B) langsung tidak menetapkan ambang perbelanjaan modal — ia
+disyaratkan atas perbelanjaan operasi, pusing ganti dan bilangan pekerja sebaliknya, seperti yang
+diperincikan di bawah. Di bawah ambang yang terpakai kepada laluan anda, pakej JS-SEZ langsung
+tidak menawarkan anda apa-apa — anda berbalik kepada rangka kerja insentif kebangsaan biasa, yang
+tersedia di Kedah dan Kelantan atas terma yang sama.
 
-Apa yang sebenarnya menentukan sama ada sesuatu projek JS-SEZ berhasil ialah separuh kedua
-dokumen ini: zon unggulan mana yang menempatkan tapak itu, apa yang mesti benar pada *setiap*
-tahun taksiran sepanjang lima belas tahun, dan apa yang berlaku pada tahun pertama sesuatu
-tergelincir. Di situlah tumpuan panduan ini.
+Apa yang sebenarnya menentukan sama ada sesuatu projek JS-SEZ berjaya ialah separuh kedua dokumen
+itu: zon mercu tanda mana tapak itu terletak, apa yang mesti benar dalam *setiap* tahun taksiran
+selama lima belas tahun, dan apa yang berlaku pada tahun pertama sesuatu tergelincir. Di situlah
+panduan ini menumpukan masanya.
 
-## Apa sebenarnya JS-SEZ ini
+## Apa sebenarnya JS-SEZ
 
-JS-SEZ ialah zon ekonomi rentas sempadan yang dipersetujui antara Malaysia dan Singapura.
-Malaysia mengumumkan pakej insentifnya pada **8 Januari 2025**, dan MIDA menerbitkan garis
-panduan pelaksanaan pada **April 2025** (versi 2, versi semasa setakat Julai 2026).
+JS-SEZ ialah zon ekonomi rentas sempadan yang dipersetujui antara Malaysia dan Singapura. Malaysia
+mengumumkan pakej insentifnya pada **8 Januari 2025**, dan MIDA menerbitkan garis panduan
+pelaksanaan pada **April 2025** (versi 2, versi semasa sehingga Julai 2026).
 
-Terdapat **sembilan zon unggulan yang ditetapkan**: pusat bandar Johor Bahru, Iskandar Puteri,
+Terdapat **sembilan zon mercu tanda yang ditetapkan**: pusat bandar Johor Bahru, Iskandar Puteri,
 Tanjung Pelepas, Pasir Gudang, Senai, Sedenak, Desaru, Kompleks Petroleum Bersepadu Pengerang, dan
 Zon Kewangan Khas Forest City.
 
-Pakej MIDA hanya meliputi **tujuh daripadanya**, berhurufkan A hingga G. Inilah perkara pertama
-yang sering disalahfaham orang.
+Pakej MIDA meliputi **hanya tujuh daripadanya**, berhuruf A hingga G. Ini perkara pertama yang
+disalah faham oleh orang ramai.
 
-| Flagship | Kawasan | Diliputi oleh pakej MIDA? |
+| Mercu Tanda | Kawasan | Diliputi oleh pakej MIDA? |
 | --- | --- | --- |
 | A | Johor Bahru Waterfront | Ya |
 | B | Iskandar Puteri | Ya |
@@ -146,331 +151,318 @@ yang sering disalahfaham orang.
 | E | Senai – Skudai | Ya |
 | F | Kulai – Sedenak | Ya |
 | G | Desaru – Penawar | Ya |
-| H | Pengerang Integrated Petroleum Complex | Tidak — pakej berasingan yang diumumkan dalam Belanjawan 2024 |
-| I | Forest City Special Financial Zone | Tidak — pakej berasingan yang diumumkan pada 20 September 2024 |
+| H | Kompleks Petroleum Bersepadu Pengerang | Tidak — pakej berasingan diumumkan dalam Bajet 2024 |
+| I | Zon Kewangan Khas Forest City | Tidak — pakej berasingan diumumkan pada 20 September 2024 |
 
-Flagship H dan Flagship I terletak di dalam geografi JS-SEZ tetapi di luar garis panduan
-insentif MIDA. Pengerang beroperasi menerusi insentif pemaju taman perindustrian serta pembuatan
-kimia atau petrokimia yang diumumkan dalam Belanjawan 2024. Forest City pula beroperasi menerusi
-set sebelas instrumennya sendiri yang telah diwartakan dan dikawal selia melalui Suruhanjaya
-Sekuriti, bukan MIDA. Menganggap kedua-duanya sebagai insentif JS-SEZ adalah kesilapan paling
-lazim dalam ringkasan yang beredar.
+Mercu Tanda H dan Mercu Tanda I berada dalam geografi JS-SEZ tetapi di luar garis panduan insentif
+MIDA. Pengerang beroperasi atas insentif pemaju taman perindustrian dan pembuatan kimia atau
+petrokimia yang diumumkan dalam Bajet 2024. Forest City beroperasi atas set sebelas instrumen yang
+diwartakannya sendiri dan dikawal selia melalui Suruhanjaya Sekuriti, bukan MIDA. Menganggap
+kedua-duanya sebagai insentif JS-SEZ ialah kesilapan paling lazim dalam ringkasan yang beredar.
 
-## Insentif mana yang dikaitkan dengan aktiviti mana
+## Insentif mana yang dilekatkan pada aktiviti mana
 
-Pakej ini bukan satu insentif. Ia adalah lima, setiap satu terkunci kepada zon unggulan tertentu
-dan senarai aktiviti tertentu.
+Pakej ini bukan satu insentif. Ia lima, setiap satu dikunci pada zon mercu tanda tertentu dan
+senarai aktiviti tertentu.
 
-**Global Services Hub — Flagship A dan B.** Kadar cukai khas **5 peratus selama 15 tahun** ke
-atas pendapatan perdagangan dan perkhidmatan, atau pendapatan perkhidmatan.
+**Hab Perkhidmatan Global — Mercu Tanda A dan B.** Kadar cukai khas **5 peratus untuk 15 tahun**
+ke atas pendapatan perdagangan dan perkhidmatan, atau pendapatan perkhidmatan.
 
-**Smart Logistics Complex — Flagship C.** Elaun cukai pelaburan sebanyak **100 peratus** daripada
-perbelanjaan modal layak yang dilakukan dalam tempoh 5 tahun, ditolak terhadap **100 peratus**
-pendapatan berkanun.
+**Kompleks Logistik Pintar — Mercu Tanda C.** Elaun cukai pelaburan **100 peratus** perbelanjaan
+modal layak yang ditanggung dalam tempoh 5 tahun, ditolak terhadap **100 peratus** pendapatan
+berkanun.
 
-**Kimia khusus hiliran — Flagship D.** Sama ada kadar cukai khas **5 peratus (Tier 1) atau 10
-peratus (Tier 2)** untuk sehingga 10 tahun, berstruktur 5 tahun tambah 5 tahun, atau pengecualian
-cukai pendapatan yang bersamaan dengan elaun cukai pelaburan sebanyak **100 peratus (Tier 1) atau
-60 peratus (Tier 2)** sepanjang tempoh 5-tambah-5 yang sama.
+**Kimia khusus huluan — Mercu Tanda D.** Sama ada kadar cukai khas **5 peratus (Tahap 1) atau 10
+peratus (Tahap 2)** sehingga 10 tahun, distrukturkan sebagai 5 tahun campur 5 tahun, atau
+pengecualian cukai pendapatan yang setara dengan elaun cukai pelaburan **100 peratus (Tahap 1) atau
+60 peratus (Tahap 2)** dalam tempoh 5-campur-5 yang sama.
 
-**Manufacturing Business Incentive Scheme — Flagship E dan F.** Pembuatan aeroangkasa dan MRO
-berada dalam Flagship E; rantaian bekalan teknologi AI dan kuantum, peranti perubatan dan
-farmaseutikal berada dalam Flagship F. Syarikat baharu mendapat **5 peratus selama 15 tahun** bagi
-pelaburan modal melebihi RM1 billion tidak termasuk tanah, atau **5 peratus selama 10 tahun** bagi
-pelaburan antara RM500 million dan RM1 billion. Syarikat Malaysia sedia ada yang memindahkan
-kemudahan luar negara ke Malaysia untuk **segmen perniagaan baharu, bukan pengembangan produk
-sedia ada**, mendapat pengecualian cukai pendapatan yang bersamaan dengan elaun cukai pelaburan
-100 peratus sepanjang 5 tahun.
+**Skim Insentif Perniagaan Pembuatan — Mercu Tanda E dan F.** Pembuatan aeroangkasa dan MRO
+terletak di Mercu Tanda E; rantaian bekalan teknologi AI dan kuantum, peranti perubatan dan
+farmaseutikal terletak di Mercu Tanda F. Syarikat baharu mendapat **5 peratus untuk 15 tahun**
+melebihi RM1 bilion pelaburan modal tidak termasuk tanah, atau **5 peratus untuk 10 tahun** antara
+RM500 juta dan RM1 bilion. Syarikat Malaysia sedia ada yang memindahkan kemudahan luar negara ke
+Malaysia untuk **segmen perniagaan baharu, bukan pengembangan produk sedia ada**, mendapat
+pengecualian cukai pendapatan yang setara dengan elaun cukai pelaburan 100 peratus dalam tempoh 5
+tahun.
 
-**Integrated Tourism Project — Flagship G.** Elaun cukai pelaburan **100 peratus** daripada
-perbelanjaan modal layak dalam tempoh 5 tahun, tetapi hanya ditolak terhadap **70 peratus**
-pendapatan berkanun — tolakan yang sengaja dibuat lebih lemah berbanding laluan logistik.
+**Projek Pelancongan Bersepadu — Mercu Tanda G.** Elaun cukai pelaburan **100 peratus** perbelanjaan
+modal layak dalam tempoh 5 tahun, tetapi ditolak terhadap hanya **70 peratus** pendapatan berkanun —
+tolakan yang sengaja lebih lemah daripada laluan logistik.
 
-Perhatikan apa maksud struktur ini dalam praktiknya. Zon itu sendiri tidak memberikan manfaat.
-*Gabungan* aktiviti tambah lokasi tambah kuantum itulah yang memberikannya. Sebuah kilang
-farmaseutikal di Senai berada dalam zon unggulan tetapi tetap di luar skim itu, kerana
-farmaseutikal ialah aktiviti Flagship F.
+Perhatikan apa yang struktur ini bermakna dalam amalan. Zon itu tidak menganugerahkan manfaat.
+*Gabungan* aktiviti campur lokasi campur kuantum itulah yang menganugerahkannya. Sebuah kilang
+farmaseutikal di Senai berada dalam zon mercu tanda dan masih di luar skim, kerana farmaseutikal
+ialah aktiviti Mercu Tanda F.
 
 ## Siapa yang boleh memohon
 
 MIDA membezakan dua jenis pemohon.
 
-**Syarikat baharu** mesti diperbadankan di bawah Companies Act 2016 dan bermastautin di
+Sebuah **syarikat baharu** mesti diperbadankan di bawah Akta Syarikat 2016 dan bermastautin di
 Malaysia, dan sama ada tiada entiti sedia ada atau berkaitan di Malaysia sebelum permohonan, atau
-memiliki entiti sedemikian tetapi entiti itu belum pernah menjalankan projek yang sama di
-Malaysia.
+mempunyai satu yang belum menjalankan projek yang sama di Malaysia.
 
-**Syarikat sedia ada** mesti sudah beroperasi di Malaysia dan mengambil projek itu sebagai
+Sebuah **syarikat sedia ada** mesti sudah beroperasi di Malaysia dan mengambil projek itu sebagai
 **projek pempelbagaian**. Ia mesti menyimpan akaun berasingan bagi aktiviti yang diberi insentif
-dan yang tidak.
+dan aktiviti yang tidak diberi insentif.
 
-Terdapat sekatan tegas: sesebuah syarikat tidak layak jika syarikat itu **atau syarikat
-berkaitannya** telah pun diluluskan insentif cukai untuk projek yang sama. Menstruktur semula
-sesuatu kumpulan untuk mempersembahkan projek lama sebagai projek baharu tidak akan berhasil, dan
-ujian syarikat berkaitan itulah yang menutup jalan keluar tersebut.
+Terdapat sekatan tegas: sesebuah syarikat tidak layak jika ia **atau syarikat berkaitan** telah
+diluluskan insentif cukai untuk projek yang sama. Menstruktur semula sesebuah kumpulan untuk
+menampilkan projek lama sebagai baharu tidak berkesan, dan ujian syarikat berkaitan itulah yang
+menutup pintu tersebut.
 
 ## Laluan permohonan
 
-Permohonan dibuat dalam talian di portal Invest Malaysia, `investmalaysia.mida.gov.my`.
-Permohonan diterima dari **1 Januari 2025 hingga 31 Disember 2034**. MIDA menghendaki
-pengesahan rasmi lokasi pembangunan di dalam sesuatu zon unggulan JS-SEZ sebagai sebahagian
-daripada penyerahan. Permohonan yang tidak lengkap akan dikembalikan, bukan digilirkan dalam
-giliran.
+Permohonan dibuat dalam talian di portal Invest Malaysia, `investmalaysia.mida.gov.my`. Permohonan
+diterima dari **1 Januari 2025 hingga 31 Disember 2034**. MIDA memerlukan pengesahan rasmi lokasi
+pembangunan dalam sesuatu zon mercu tanda JS-SEZ sebagai sebahagian daripada penyerahan. Permohonan
+yang tidak lengkap dikembalikan dan bukan diletakkan dalam giliran.
 
-Rakan sejawat di peringkat wilayah ialah **Invest Malaysia Facilitation Centre Johor (IMFC-J)**,
-dihoskan oleh IRDA — autoriti yang sama yang diwujudkan di bawah Iskandar Regional Development
-Authority Act 2007. Pertindihan itu bukan kebetulan dan dibincangkan dalam artikel rakan mengenai
+Rakan setara serantau ialah **Pusat Fasilitasi Invest Malaysia Johor (IMFC-J)**, dihoskan oleh
+IRDA — pihak berkuasa yang sama yang ditubuhkan di bawah Akta Pihak Berkuasa Wilayah Pembangunan
+Iskandar 2007. Pertindihan itu bukan tidak sengaja dan diliputi dalam artikel pelengkap mengenai
 Iskandar Malaysia.
 
-Kelulusan melalui **National Committee on Investments (NCI)**. MIDA mengeluarkan *surat
-kelulusan prinsipal* yang menetapkan penilaian tingkatan (tiering) serta syarat minimum dan
-syarat tambahan. Kelulusan prinsipal itu bukan insentif itu sendiri; ia adalah kebenaran untuk
-memperolehnya.
+Kelulusan melalui **Jawatankuasa Pelaburan Kebangsaan (NCI)**. MIDA mengeluarkan *surat kelulusan
+prinsipal* yang menetapkan penahapan dan syarat minimum serta syarat tambahan. Kelulusan prinsipal
+itu bukan insentif; ia kebenaran untuk memperolehnya.
 
-Sejak **14 Oktober 2025** MITI turut menawarkan lesen pembuatan laluan pantas bagi industri
-tidak sensitif dalam sektor ekonomi JS-SEZ, dengan kelulusan dalam **7 hari bekerja**, dan Surat
-Tiada Bantahan Kerajaan Negeri Johor diproses dalam tempoh 7 hari yang sama.
+Sejak **14 Oktober 2025** MITI juga menawarkan lesen pembuatan laluan cepat untuk industri tidak
+sensitif dalam sektor ekonomi JS-SEZ, dengan kelulusan dalam **7 hari bekerja**, dan Surat Tiada
+Bantahan Kerajaan Negeri Johor diproses dalam tempoh 7 hari yang sama.
 
-## Jam masa, dan mengapa ia lebih penting daripada kadar itu sendiri
+## Jam-jam itu, dan mengapa ia lebih penting daripada kadar
 
-Inilah bahagian yang hampir setiap ringkasan tinggalkan, dan di sinilah kelulusan sebenarnya
-tergugat.
+Ini bahagian yang hampir setiap ringkasan tinggalkan, dan di sinilah kelulusan sebenarnya hilang.
 
-**Mohon sebelum memulakan.** Permohonan mesti sampai kepada MIDA sebelum permulaan projek yang
+**Mohon sebelum anda memulakan.** Permohonan mesti sampai kepada MIDA sebelum permulaan projek yang
 dicadangkan. Permulaan ditakrifkan secara tepat sebagai **invois jualan pertama yang dikeluarkan
-oleh syarikat itu bagi projek yang dicadangkan**. Bukan pemerbadanan, bukan majlis mencangkul
-tanah, bukan gaji pertama. Satu invois yang dikeluarkan awal memusnahkan kelayakan.
+oleh syarikat bagi projek yang dicadangkan**. Bukan pemerbadanan, bukan pecah tanah, bukan gaji
+pertama. Satu invois awal memusnahkan kelayakan.
 
-**Penentuan tarikh berkuat kuasa.** Bagi laluan kadar cukai khas, syarikat mesti memohon
-penentuan tahun taksiran permulaan **tidak lewat daripada 24 bulan** dari tarikh surat kelulusan.
-Bagi laluan elaun cukai pelaburan, tempohnya ialah **36 bulan** dari surat kelulusan prinsipal.
+**Penentuan tarikh berkuat kuasa.** Bagi laluan kadar cukai khas, syarikat mesti memohon penentuan
+tahun taksiran permulaan **tidak lewat daripada 24 bulan** dari tarikh surat kelulusan. Bagi laluan
+elaun cukai pelaburan pula ialah **36 bulan** dari surat kelulusan prinsipal.
 
-**Dan bagi laluan elaun cukai pelaburan, terlepas tempoh ini bersifat mematikan.** Garis panduan
-menyatakan bahawa jika syarikat gagal mengemukakan permohonan dalam tempoh yang ditetapkan,
-**surat kelulusan prinsipal itu terbatal secara automatik**. Tiada budi bicara dalam perkataan
-itu.
+**Dan bagi laluan elaun cukai pelaburan, terlepasnya adalah maut.** Garis panduan menyatakan bahawa
+jika syarikat gagal menyerahkan permohonan dalam tempoh yang ditetapkan, **surat kelulusan
+prinsipal dibatalkan secara automatik**. Tiada budi bicara dalam perkataan itu.
 
-**Pematuhan tahunan.** Sebaik sahaja tarikh berkuat kuasa ditentukan, syarikat mesti
-mengemukakan pematuhan tahunan insentif itu **dalam tempoh 7 bulan selepas berakhirnya setiap
-tahun taksiran**, sepanjang tempoh insentif itu.
+**Pematuhan tahunan.** Sebaik sahaja tarikh berkuat kuasa ditentukan, syarikat mesti menyerahkan
+pematuhan tahunan insentif **dalam tempoh 7 bulan selepas berakhirnya setiap tahun taksiran**,
+sepanjang tempoh insentif.
 
-**Ketetapan masa perbelanjaan modal.** Sesebuah syarikat boleh melakukan perbelanjaan modal
-sebelum mengemukakan permohonan MIDA, tetapi perbelanjaan itu **bukan perbelanjaan modal layak**.
-Bagi laluan elaun cukai pelaburan, tarikh permulaan ialah tarikh perbelanjaan modal layak
-pertama, **sehari selepas tarikh penyerahan**. Berbelanja lebih awal bukan sahaja gagal membantu;
-ia mengeluarkan perbelanjaan itu secara kekal daripada asas elaun.
+**Pemasaan perbelanjaan modal.** Sesebuah syarikat boleh menanggung perbelanjaan modal sebelum
+menyerahkan permohonan MIDAnya, tetapi perbelanjaan itu **bukan perbelanjaan modal layak**. Bagi
+laluan elaun cukai pelaburan, tarikh permulaan ialah tarikh perbelanjaan modal layak pertama **satu
+hari selepas tarikh penyerahan**. Berbelanja awal bukan sahaja gagal membantu; ia mengeluarkan
+perbelanjaan itu secara kekal daripada asas elaun.
 
-## Apa yang sebenarnya berlaku apabila anda gagal memenuhi sesuatu syarat
+## Apa sebenarnya berlaku apabila anda gagal memenuhi syarat
 
-Perkataan yang sering digunakan orang ialah 'clawback' (tuntutan balik). Mekanisme JS-SEZ lebih
-sempit daripada apa yang disarankan oleh perkataan itu, dan wajar untuk bersikap tepat, kerana
-perbezaannya bermakna wang.
+Perkataan yang orang gunakan ialah clawback. Mekanik JS-SEZ lebih sempit daripada yang dicadangkan
+oleh perkataan itu, dan berbaloi untuk menjadi tepat, kerana perbezaannya ialah wang.
 
-Garis panduan menyatakan bahawa apabila sesebuah syarikat yang diluluskan gagal mematuhi syarat
-yang ditetapkan **pada mana-mana tahun taksiran** sepanjang tempoh insentif kadar cukai khas,
-syarikat itu **tidak berhak menuntut kadar cukai pendapatan khas** yang terbit daripada produk
-atau aktiviti yang diluluskan **bagi tahun taksiran tersebut**, dan dikenakan cukai pada kadar
-yang berkuat kuasa pada masa itu.
+Garis panduan menyatakan bahawa apabila syarikat yang diluluskan gagal mematuhi syarat yang
+ditetapkan **dalam mana-mana tahun taksiran** semasa tempoh insentif kadar cukai khas, syarikat itu
+**tidak berhak menuntut kadar cukai pendapatan khas** yang diperoleh daripada produk atau aktiviti
+yang diluluskan **bagi tahun taksiran tertentu itu**, dan tertakluk kepada cukai pada kadar berkuat
+kuasa.
 
-Tiga akibat berikutan daripada ini.
+Tiga akibat berikutan.
 
-**Ini adalah ujian tahunan, bukan kelayakan sekali sahaja.** Sesebuah syarikat yang melepasi
-setiap ambang pada tahun 1 tetapi tergelincir pada tahun 7 akan membayar kadar korporat yang
-berkuat kuasa pada tahun 7. Lima belas tahun kadar 5 peratus bermakna lima belas taksiran yang
-berasingan.
+**Ia ujian tahunan, bukan kelayakan sekali sahaja.** Sesebuah syarikat yang melepasi setiap ambang
+pada tahun 1 dan tergelincir pada tahun 7 membayar kadar korporat berkuat kuasa pada tahun 7. Lima
+belas tahun kadar 5 peratus ialah lima belas taksiran berasingan.
 
-**Ini adalah kehilangan, bukan pemulihan semula.** Menurut kata-kata garis panduan, kegagalan itu
-menghapuskan manfaat bagi tahun yang gagal itu sahaja, bukan membuka semula tahun-tahun
-sebelumnya. Itu adalah risiko yang jauh lebih lembut berbanding 'clawback' yang sebenar, dan
-perlu dinyatakan dengan jelas, kerana ringkasan yang menggunakan perkataan 'clawback' secara
-longgar membesar-besarkan risiko menurun — manakala ringkasan yang mengabaikan pematuhan
-sepenuhnya memperkecilkannya.
+**Ia pelucutan, bukan pemulihan.** Menurut perkataan garis panduan, kegagalan itu mengeluarkan
+manfaat bagi tahun yang gagal dan bukan membuka semula tahun-tahun terdahulu. Itu pendedahan yang
+jauh lebih lembut daripada clawback sebenar dan ia patut dinyatakan dengan jelas, kerana ringkasan
+yang menggunakan perkataan clawback secara longgar membesar-besarkan risiko — dan ringkasan yang
+mengabaikan pematuhan sepenuhnya memperkecilkannya.
 
-**Penilaian tingkatan (tiering) juga diuji semula setiap tahun.** Dalam kluster kimia hiliran,
-pematuhan syarat *minimum* melayakkan syarikat itu kepada Tier 2 bagi tahun taksiran itu;
-pematuhan syarat minimum *dan* tambahan melayakkannya kepada Tier 1. Gagal memenuhi komitmen ESG
-atau pembekal tempatan tidak semestinya menghilangkan keseluruhan insentif — ia mungkin hanya
-menghilangkan perbezaan antara 5 peratus dan 10 peratus bagi tahun itu. Gagal memenuhi syarat
-minimum pula menghilangkan insentif itu sendiri bagi tahun itu.
+**Penahapan juga diuji semula setiap tahun.** Dalam kelompok kimia huluan, pematuhan syarat
+*minimum* melayakkan syarikat untuk Tahap 2 bagi tahun taksiran itu; pematuhan syarat minimum *dan*
+tambahan melayakkannya untuk Tahap 1. Gagal memenuhi komitmen ESG atau pembekal tempatan tidak
+semestinya mengorbankan keseluruhan insentif — ia boleh mengorbankan perbezaan antara 5 peratus dan
+10 peratus bagi tahun itu. Gagal memenuhi syarat minimum mengorbankan insentif itu sendiri bagi
+tahun itu.
 
-Terdapat satu jalan keluar. Menteri Kewangan boleh, **kecuali di mana syarikat telah gagal
-mematuhi sesuatu syarat**, membenarkan sesebuah syarikat menyerahkan balik insentif yang
-diluluskan melalui notis bertulis melalui MIDA. Baca pengecualian itu dengan teliti: penyerahan
-balik tersedia untuk yang patuh, bukan sebagai jalan lari daripada ketidakpatuhan.
+Terdapat satu jalan keluar. Menteri Kewangan boleh, **kecuali di mana syarikat telah gagal mematuhi
+sesuatu syarat**, membenarkan sesebuah syarikat menyerahkan insentif yang diluluskan melalui notis
+bertulis menerusi MIDA. Baca pengecualian itu dengan teliti: penyerahan tersedia kepada yang
+patuh, bukan sebagai jalan lari daripada ketidakpatuhan.
 
-## Syarat secara terperinci
+## Syarat-syarat secara terperinci
 
-Ambang-ambang inilah yang menentukan menang atau kalahnya sesuatu projek. Berikut diambil
-daripada lampiran garis panduan.
+Ambang itulah tempat projek dimenangi dan dikalahkan. Ini adalah daripada lampiran garis panduan.
 
-**Global Services Hub (Appendix A).** Modal berbayar sekurang-kurangnya **RM2.5 million**.
-Perbelanjaan operasi tahunan sekurang-kurangnya **RM50 million**. Berkhidmat untuk atau
-menjalankan kawalan perniagaan ke atas sekurang-kurangnya **10 syarikat rangkaian**.
-Sekurang-kurangnya **50 peratus jawatan bernilai tinggi** (gaji asas minimum RM10,000) diisi
-oleh pekerja Malaysia sepenuh masa. Sekurang-kurangnya **5 kakitangan utama** dengan gaji bulanan
-asas minimum **RM35,000**. Perolehan jualan tahunan sekurang-kurangnya **RM500 million** ditambah
-aliran masuk pertukaran asing yang dicadangkan ke dalam sistem perbankan tempatan, di mana
-pendapatan perdagangan dituntut. Sekurang-kurangnya **20 peratus tenaga kerja** menjalani latihan
-berstruktur sepanjang tempoh insentif. Sekurang-kurangnya **3 pelajar Malaysia** setiap tahun di
-bawah National Structured Internship Programme.
+**Hab Perkhidmatan Global (Lampiran A).** Modal berbayar sekurang-kurangnya **RM2.5 juta**.
+Perbelanjaan operasi tahunan sekurang-kurangnya **RM50 juta**. Berkhidmat atau melaksanakan kawalan
+perniagaan ke atas sekurang-kurangnya **10 syarikat rangkaian**. Sekurang-kurangnya **50 peratus
+jawatan bernilai tinggi** (gaji pokok minimum RM10,000) diisi oleh pekerja Malaysia sepenuh masa.
+Sekurang-kurangnya **5 kakitangan utama** dengan gaji pokok bulanan minimum **RM35,000**. Pusing
+ganti jualan tahunan sekurang-kurangnya **RM500 juta** ditambah aliran masuk pertukaran asing yang
+dicadangkan ke dalam sistem perbankan tempatan, apabila pendapatan perdagangan dituntut.
+Sekurang-kurangnya **20 peratus tenaga kerja** dalam latihan berstruktur semasa tempoh insentif.
+Sekurang-kurangnya **3 pelajar Malaysia** setahun di bawah Program Latihan Industri Berstruktur
+Kebangsaan.
 
-Syarikat itu juga mesti melaksanakan empat fungsi mandatori — untung rugi serantau, perancangan
-perniagaan strategik, pembangunan korporat, dan pengurusan perbendaharaan atau dana serantau atau
-global yang menjalankan pengumpulan tunai (cash pooling) melalui perantara dalam negara —
-**ditambah sekurang-kurangnya dua** lagi perkhidmatan layak daripada senarai perkhidmatan
-strategik, perniagaan atau kongsi.
+Syarikat juga mesti melaksanakan empat fungsi mandatori — untung rugi serantau, perancangan
+perniagaan strategik, pembangunan korporat, dan pengurusan perbendaharaan serta dana serantau atau
+global yang menjalankan pengumpulan tunai melalui perantara dalam pesisir — **ditambah minimum dua**
+lagi perkhidmatan layak daripada senarai perkhidmatan strategik, perniagaan atau perkongsian.
 
-**Smart Logistics Complex (Appendix B).** Modal berbayar sekurang-kurangnya **RM2.5 million**.
-Perbelanjaan modal tidak termasuk tanah sekurang-kurangnya **RM500 million**. Keluasan binaan
-sekurang-kurangnya **50,000 m²** dengan sekurang-kurangnya **tiga** teknologi pemboleh Industri
-4.0. Sekurang-kurangnya **80 peratus** tenaga kerja sepenuh masa terdiri daripada warganegara
-Malaysia, dan sekurang-kurangnya **30 peratus** jawatan bernilai tinggi diisi oleh pekerja
-Malaysia sepenuh masa. **Kontraktor utama tempatan** — ditakrifkan sebagai sekurang-kurangnya 51
-peratus ekuiti Malaysia — bagi kerja pembinaan. Perkongsian dengan sekurang-kurangnya **tiga
-syarikat logistik milik tempatan**, ditakrifkan sebagai sekurang-kurangnya 60 peratus ekuiti
-Malaysia. Penggunaan pelabuhan laut, lapangan terbang atau kawasan zon bebas tempatan untuk
-eksport.
+**Kompleks Logistik Pintar (Lampiran B).** Modal berbayar sekurang-kurangnya **RM2.5 juta**.
+Perbelanjaan modal tidak termasuk tanah sekurang-kurangnya **RM500 juta**. Kawasan binaan
+sekurang-kurangnya **50,000 m²** dengan sekurang-kurangnya **tiga** teknologi pemboleh Industri 4.0.
+Sekurang-kurangnya **80 peratus** tenaga kerja sepenuh masa warganegara Malaysia, dan
+sekurang-kurangnya **30 peratus** jawatan bernilai tinggi diisi oleh pekerja Malaysia sepenuh masa.
+Seorang **kontraktor utama tempatan** — ditakrifkan sebagai sekurang-kurangnya 51 peratus ekuiti
+Malaysia — untuk pembinaan. Perkongsian dengan sekurang-kurangnya **tiga syarikat logistik milik
+tempatan**, ditakrifkan sebagai sekurang-kurangnya 60 peratus ekuiti Malaysia. Penggunaan pelabuhan
+laut, lapangan terbang atau kawasan zon bebas tempatan untuk eksport.
 
-**Manufacturing Business Incentive Scheme (Appendix D).** Modal berbayar **RM2.5 million ke
-atas**. Sekurang-kurangnya **50 peratus jawatan bernilai tinggi** diisi oleh pekerja Malaysia
-sepenuh masa. Sekurang-kurangnya satu Vendor Development Programme tempatan. Kerjasama dengan
-universiti tempatan, pusat TVET atau badan pensijilan teknikal. MySIP untuk sekurang-kurangnya
-3 pelajar Malaysia setiap tahun.
+**Skim Insentif Perniagaan Pembuatan (Lampiran D).** Modal berbayar **RM2.5 juta dan ke atas**.
+Sekurang-kurangnya **50 peratus jawatan bernilai tinggi** diisi oleh pekerja Malaysia sepenuh masa.
+Sekurang-kurangnya satu Program Pembangunan Vendor tempatan. Kerjasama dengan universiti tempatan,
+pusat TVET atau badan pensijilan teknikal. MySIP untuk sekurang-kurangnya 3 pelajar Malaysia
+setahun.
 
-**Penilaian tingkatan kimia khusus hiliran (Appendices I dan II).** Dalam lima tahun pertama,
-kedua-dua tier menghendaki perbelanjaan modal kumulatif tidak termasuk tanah sekurang-kurangnya
-**RM500 million menjelang akhir tahun kelima**, bilangan pekerja Malaysia sepenuh masa yang
-mencukupi dalam jawatan bernilai tinggi, **peringkat pengurusan, teknikal dan penyeliaan
-sekurang-kurangnya 25 peratus** daripada keseluruhan tenaga kerja, dan penerimaan teknologi
-Industri 4.0. Tier 1 menambah program ESG, bilangan pembekal atau penyedia perkhidmatan tempatan
-yang dicadangkan, dan syarat pembangunan lestari selanjutnya yang ditulis ke dalam surat kelulusan
-prinsipal.
+**Penahapan kimia khusus huluan (Lampiran I dan II).** Dalam lima tahun pertama, kedua-dua tahap
+memerlukan perbelanjaan modal terkumpul tidak termasuk tanah sekurang-kurangnya **RM500 juta
+menjelang akhir tahun kelima**, bilangan pekerja Malaysia sepenuh masa yang mencukupi dalam
+pekerjaan bernilai tinggi, **tahap pengurusan, teknikal dan penyeliaan sekurang-kurangnya 25
+peratus** daripada keseluruhan tenaga kerja, dan penggunaan teknologi Industri 4.0. Tahap 1 menambah
+program ESG, bilangan pembekal atau penyedia perkhidmatan tempatan yang dicadangkan, dan syarat
+pembangunan mampan lanjut yang ditulis ke dalam surat kelulusan prinsipal.
 
-Bagi lima tahun kedua, kedua-dua tier menghendaki sama ada perbelanjaan modal kumulatif tambahan
-seperti yang dicadangkan, atau RM500 million yang telah dibelanjakan dalam lima tahun pertama itu
-**dikekalkan** sepanjang tempoh itu, ditambah *peningkatan besar* dalam penggajian bernilai
-tinggi Malaysia serta bilangan pekerja pengurusan, teknikal dan penyeliaan. Apa yang dianggap
-'besar' itu **dinilai oleh MIDA** dan tidak ditakrifkan dalam garis panduan. Itu adalah risiko
-yang tidak dinilai harganya, bersembunyi pada separuh belakang setiap kelulusan sepuluh tahun,
-dan ia wajar dibangkitkan semasa rundingan, bukan ditemui pada tahun keenam.
+Bagi lima tahun kedua, kedua-dua tahap memerlukan sama ada perbelanjaan modal terkumpul tambahan
+seperti yang dicadangkan, atau RM500 juta yang ditanggung dalam lima tahun pertama **dikekalkan**
+sepanjang masa, ditambah *peningkatan besar* dalam pekerjaan bernilai tinggi Malaysia dan dalam
+bilangan pekerja pengurusan, teknikal dan penyeliaan. Apa yang dikira sebagai besar **dinilai oleh
+MIDA** dan tidak ditakrifkan dalam garis panduan. Itu risiko tanpa harga yang terletak di separuh
+belakang setiap kelulusan sepuluh tahun, dan ia patut dibangkitkan dalam rundingan dan bukan
+ditemui pada tahun keenam.
 
-Perhatikan juga bahawa "as proposed" (seperti yang dicadangkan) berulang di seluruh dokumen.
-Beberapa syarat ditetapkan oleh *penyerahan pemohon sendiri*, kemudian ditulis ke dalam surat
-kelulusan dan dikuatkuasakan. Membuat janji berlebihan semasa permohonan untuk mengukuhkan kes
-menciptakan syarat yang mengikat selama sedekad.
+Perhatikan juga bahawa "seperti yang dicadangkan" berulang di seluruh dokumen. Beberapa syarat
+ditetapkan oleh *penyerahan pemohon sendiri*, kemudian ditulis ke dalam surat kelulusan dan
+dikuatkuasakan. Berjanji berlebihan semasa permohonan untuk mengukuhkan kes mewujudkan syarat yang
+mengikat selama satu dekad.
 
-## Dua perkara yang boleh membatalkan manfaat itu secara senyap-senyap
+## Dua perkara yang boleh membatalkan manfaat secara senyap
 
-**Cukai Minimum Global.** Garis panduan MIDA sendiri memperuntukkan satu bahagian khusus
-untuknya. Malaysia melaksanakan Cukai Minimum Global mulai **2025**. Kumpulan syarikat dengan
-pendapatan global tahunan sekurang-kurangnya **EUR 750 million** boleh berdepan cukai tambahan
-apabila kadar cukai efektif di Malaysia jatuh di bawah **15 peratus**, dikutip melalui Domestic
-Top-Up Tax di bawah Part XI Akta Cukai Pendapatan 1967.
+**Cukai Minimum Global.** Garis panduan MIDA sendiri memperuntukkan satu seksyen untuknya. Malaysia
+melaksanakan Cukai Minimum Global mulai **2025**. Kumpulan dengan hasil global tahunan
+sekurang-kurangnya **EUR 750 juta** boleh menghadapi cukai tambahan apabila kadar cukai berkesan di
+Malaysia jatuh di bawah **15 peratus**, dikutip melalui Cukai Tambahan Domestik di bawah Bahagian XI
+Akta Cukai Pendapatan 1967.
 
-Kira-kiranya tidak dapat dielakkan: kadar khas 5 peratus menghasilkan kadar efektif di bawah 15
-peratus, jadi bagi kumpulan syarikat yang termasuk dalam skop ini, sebahagian besar manfaat itu
-mungkin ditarik balik sebagai cukai tambahan domestik. Bagi kumpulan syarikat yang melebihi
-ambang pendapatan, perbandingan sebenar bukanlah 5 peratus berbanding 24 peratus. Fakta bahawa
-MIDA membangkitkan hal ini dalam garis panduannya sendiri adalah isyarat paling jelas bahawa ia
-bukan sekadar teori.
+Kiraannya tidak dapat dielakkan: kadar khas 5 peratus menghasilkan kadar berkesan di bawah 15
+peratus, jadi bagi kumpulan yang terangkum sebahagian besar manfaat mungkin ditangkap semula sebagai
+cukai tambahan domestik. Bagi kumpulan melebihi ambang hasil, perbandingan sebenar bukanlah 5
+peratus berbanding 24 peratus. MIDA membangkitkan ini dalam garis panduannya sendiri adalah isyarat
+paling jelas bahawa ia bukan teori.
 
-**Ketiadaan perundangan yang diwartakan.** Setakat 20 Julai 2026, carian pada warta persekutuan
-AGC **tidak mengembalikan sebarang P.U.(A) yang tajuknya merujuk kepada Zon Ekonomi Khas
-Johor-Singapura**. Garis panduan itu sendiri menghuraikan mekanisme itu dalam kala hadapan:
+**Ketiadaan perundangan yang diwartakan.** Sehingga 20 Julai 2026, carian dalam warta persekutuan
+AGC tidak mengembalikan **sebarang P.U.(A) yang tajuknya merujuk kepada Zon Ekonomi Khas
+Johor-Singapura**. Garis panduan itu sendiri menghuraikan mekanisme dalam bentuk masa hadapan:
 insentif itu **akan disediakan** melalui perundangan subsidiari di bawah seksyen 65B Akta Cukai
 Pendapatan 1967, dan dipertimbangkan oleh NCI.
 
-Bandingkan dengan Forest City, di mana **sebelas instrumen diwartakan pada 3 Oktober 2025**
-merangkumi cukai pendapatan, cukai keuntungan harta tanah dan duti setem. Perbandingan ini amat
-memberi pengajaran. Pakej JS-SEZ ialah dasar kerajaan yang ditadbir melalui garis panduan yang
-diterbitkan dan kelulusan jawatankuasa, dan instrumen undang-undang yang menguatkuasakan kadar itu
+Bandingkan dengan Forest City, di mana **sebelas instrumen telah diwartakan pada 3 Oktober 2025**
+meliputi cukai pendapatan, cukai keuntungan harta tanah dan duti setem. Kontras itu memberi
+pengajaran. Pakej JS-SEZ ialah dasar kerajaan yang ditadbir melalui garis panduan yang diterbitkan
+dan kelulusan jawatankuasa, dan instrumen undang-undang yang memberi kuat kuasa kepada kadar itu
 belum lagi muncul. Itu tidak menjadikannya tidak nyata — kelulusan sedang dikeluarkan — tetapi ia
-bermakna teks operatif yang akhirnya akan menjadi asas penilaian anda belum lagi wujud dalam
-bentuk awam. Sesiapa yang memetik nombor P.U.(A) untuk JS-SEZ sebenarnya memetik sesuatu yang
-tidak dapat dijumpai.
+bermakna teks operatif yang akhirnya anda akan ditaksir berdasarkannya belum lagi wujud dalam bentuk
+awam. Tiada P.U.(A) khusus JS-SEZ wujud: satu-satunya perintah yang dipetik garis panduan ialah
+**P.U.(A) 113/2006** generik (Perintah Cukai Pendapatan (Pengecualian)(No. 12) 2006), digunakan
+semata-mata sebagai wahana penyampaian bagi laluan elaun cukai pelaburan, bukan sebagai instrumen
+yang tajuknya merujuk kepada JS-SEZ. Sesiapa yang memetik nombor P.U.(A) JS-SEZ sedang memetik
+sesuatu yang tidak dapat ditemui.
 
-## Insentif kecil yang sering terlepas pandang
+## Insentif kecil yang orang terlepas pandang
 
-Tiga item terletak dalam Appendix B snapshot MIDA, bukan dalam garis panduan utama.
+Tiga item terletak di Lampiran B snapshot MIDA dan bukan di garis panduan utama.
 
-**Insentif pekerja berpengetahuan, semua flagship.** Kadar rata **15 peratus ke atas pendapatan
-penggajian yang dikenakan cukai selama 10 tahun**. Kriteria: warganegara Malaysia atau bukan
-warganegara; **tiada pendapatan penggajian di Malaysia dalam tempoh 24 bulan sebelumnya**; gaji
-di luar negara atau di Malaysia **melebihi RM20,000 sebulan**; tertakluk kepada ujian kelayakan
-akademik dan pengalaman profesional; dan tertakluk kepada profesion dalam Malaysia Critical
-Occupation List serta sektor layak JS-SEZ.
+**Insentif pekerja berpengetahuan, semua mercu tanda.** Kadar rata **15 peratus ke atas pendapatan
+pekerjaan yang boleh dicukai untuk 10 tahun**. Kriteria: warganegara Malaysia atau bukan warganegara
+Malaysia; **tiada pendapatan pekerjaan di Malaysia dalam tempoh 24 bulan sebelumnya**; gaji di luar
+negara atau di Malaysia **melebihi RM20,000 sebulan**; tertakluk kepada ujian kelayakan akademik dan
+pengalaman profesional; dan tertakluk kepada profesion Senarai Pekerjaan Kritikal Malaysia dan
+sektor layak JS-SEZ.
 
-**Potongan acara termasyhur (hallmark event), Flagship G.** Potongan tidak melebihi **RM1
-million setiap tahun taksiran** bagi sumbangan tunai atau bentuk barangan oleh orang layak yang
-menaja sesuatu acara termasyhur bertaraf serantau atau antarabangsa di Flagship G, disokong dan
-disahkan oleh MOTAC, bagi sumbangan yang dibuat **1 Januari 2025 hingga 31 Disember 2034**.
+**Potongan acara mercu tanda, Mercu Tanda G.** Potongan tidak melebihi **RM1 juta setiap tahun
+taksiran** untuk sumbangan tunai atau dalam bentuk barangan oleh seseorang yang layak yang menaja
+acara mercu tanda bertaraf serantau atau antarabangsa di Mercu Tanda G, disokong dan disahkan oleh
+MOTAC, bagi sumbangan yang dibuat **1 Januari 2025 hingga 31 Disember 2034**.
 
-**Elaun modal dipercepatkan bagi pengubahsuaian, semua flagship.** Elaun permulaan **20
-peratus**, elaun tahunan **40 peratus**, ke atas pengubahsuaian bangunan komersial di Flagships
-A hingga G, bagi syarikat yang diluluskan insentif di bawah Promotion of Investments Act 1986
-atau Akta Cukai Pendapatan 1967 antara 1 Januari 2025 dan 31 Disember 2034. Ia hanya boleh
-**digunakan sekali sahaja** sepanjang operasi syarikat itu di JS-SEZ.
+**Elaun modal dipercepat ke atas pengubahsuaian, semua mercu tanda.** Elaun permulaan **20
+peratus**, elaun tahunan **40 peratus**, ke atas pengubahsuaian bangunan komersial di Mercu Tanda A
+hingga G, bagi syarikat yang diluluskan insentif di bawah Akta Penggalakan Pelaburan 1986 atau Akta
+Cukai Pendapatan 1967 antara 1 Januari 2025 dan 31 Disember 2034. Ia boleh **digunakan sekali sahaja**
+sepanjang operasi syarikat di JS-SEZ.
 
-MIDA turut menyenaraikan **pengecualian duti setem 40 peratus** ke atas surat cara pindah milik
-atau perjanjian pembiayaan bagi hartanah komersial di Flagships A dan B yang masih belum terjual
-setakat 31 Disember 2024, dinyatakan disediakan di bawah seksyen 80(1) Stamp Act 1949. Tiada
-perintah pengecualian atau remisi yang menguatkuasakannya dijumpai dalam warta — anggap ia
-sebagai telah diumumkan, bukan telah diperundangkan, dan sahkan dahulu sebelum memasukkannya ke
-dalam harga sesuatu transaksi.
+MIDA juga menyenaraikan **pengecualian duti setem 40 peratus** ke atas suratcara pindah milik atau
+perjanjian pembiayaan bagi harta komersial di Mercu Tanda A dan B yang kekal tidak terjual sehingga
+31 Disember 2024, dinyatakan disediakan di bawah seksyen 80(1) Akta Setem 1949. Tiada perintah
+pengecualian atau remisi yang memberi kuat kuasa kepadanya dapat ditemui dalam warta — anggapkannya
+sebagai diumumkan dan bukan digubal serta sahkan sebelum menetapkan harganya dalam sesuatu
+transaksi.
 
-Dari segi pembiayaan, MITI mengumumkan pada 14 Oktober 2025 bahawa **Strategic Co-Investment
-Fund (CoSIF)** di bawah NIMP 2030 akan digembleng untuk zon ini, dengan tambahan **RM200
-million** diperuntukkan dalam Belanjawan 2026 bagi pelaburan bersama dalam projek berimpak
-tinggi oleh PKS Malaysia di JS-SEZ. **Investor Pass** MIDA menawarkan pelabur asing yang layak
-visa kemasukan berbilang yang sah sehingga **12 bulan** melalui platform Xpats Gateway yang
-dilancarkan pada April 2025.
+Mengenai pembiayaan, MITI mengumumkan pada 14 Oktober 2025 bahawa **Dana Pelaburan Bersama
+Strategik (CoSIF)** di bawah NIMP 2030 akan dimanfaatkan untuk zon itu, dengan tambahan **RM200
+juta** yang diperuntukkan dalam Bajet 2026 untuk pelaburan bersama dalam projek berimpak tinggi oleh
+PKS Malaysia di JS-SEZ. **Investor Pass** MIDA menawarkan pelabur asing yang layak visa masuk
+pelbagai sah sehingga **12 bulan** melalui platform Xpats Gateway yang dilancarkan pada April 2025.
 
 ## Kesilapan lazim
 
-**Menganggap Forest City dan Pengerang sebagai insentif JS-SEZ.** Kedua-duanya berada di dalam
-zon tetapi di luar pakej MIDA, dengan pengawal selia berbeza, aktiviti layak berbeza dan asas
-warta berbeza. Forest City ialah zon perkhidmatan kewangan di bawah Suruhanjaya Sekuriti; pakej
-MIDA pula ialah pembuatan dan perkhidmatan.
+**Menganggap Forest City dan Pengerang sebagai insentif JS-SEZ.** Kedua-duanya berada dalam zon dan
+di luar pakej MIDA, dengan pengawal selia berbeza, aktiviti layak berbeza dan asas warta berbeza.
+Forest City ialah zon perkhidmatan kewangan di bawah Suruhanjaya Sekuriti; pakej MIDA ialah
+pembuatan dan perkhidmatan.
 
-**Menganggap zon unggulan menentukan insentif.** Aktivitilah yang menentukannya. Berada dalam
-Flagship F tidak melayakkan sesuatu projek aeroangkasa — aeroangkasa ialah Flagship E.
+**Menganggap zon mercu tanda menentukan insentif.** Aktivitilah yang menentukannya. Berada di Mercu
+Tanda F tidak melayakkan projek aeroangkasa — aeroangkasa ialah Mercu Tanda E.
 
-**Mengeluarkan invois sebelum memohon.** Permulaan ditakrifkan sebagai invois jualan pertama
-bagi projek yang dicadangkan, dan permohonan mesti mendahuluinya.
+**Mengeluarkan invois sebelum memohon.** Permulaan ditakrifkan sebagai invois jualan pertama bagi
+projek yang dicadangkan, dan permohonan mesti mendahuluinya.
 
-**Melakukan perbelanjaan modal sebelum penyerahan.** Ini dibenarkan, tetapi ia dikecualikan
-daripada perbelanjaan modal layak. Syarikat sering memusnahkan asas elaun dengan menempah
-peralatan semasa penggubalan permohonan.
+**Menanggung perbelanjaan modal sebelum penyerahan.** Ia dibenarkan, tetapi ia dikecualikan daripada
+perbelanjaan modal layak. Syarikat sering memusnahkan asas elaun dengan memesan peralatan semasa
+penggubalan permohonan.
 
-**Menganggap insentif itu sudah tercapai sebaik sahaja diluluskan.** Surat kelulusan prinsipal
-memulakan jam masa 24 bulan atau 36 bulan, dan laluan elaun cukai pelaburan terbatal secara
-automatik jika jam itu tamat.
+**Menganggap insentif dimenangi pada kelulusan.** Surat kelulusan prinsipal memulakan jam 24 bulan
+atau 36 bulan, dan laluan elaun cukai pelaburan dibatalkan secara automatik jika jam itu tamat.
 
-**Membuat komitmen berlebihan dalam permohonan.** Bilangan pekerja, perbelanjaan operasi,
-bilangan pembekal tempatan dan pelaburan teknologi hijau sering ditetapkan "as proposed", lalu
-menjadi syarat mengikat selama sepuluh hingga lima belas tahun.
+**Berjanji berlebihan dalam permohonan.** Bilangan pekerjaan, perbelanjaan operasi, bilangan pembekal
+tempatan dan pelaburan teknologi hijau sering ditetapkan "seperti yang dicadangkan", kemudian menjadi
+syarat yang mengikat selama sepuluh hingga lima belas tahun.
 
-**Mengabaikan Pillar Two.** Bagi kumpulan syarikat berpendapatan melebihi EUR 750 million, kadar
-5 peratus mungkin ditarik balik secara ketara oleh Domestic Top-Up Tax. Modelkan kadar efektif,
-bukan angka utama yang menarik perhatian.
+**Mengabaikan Pillar Two.** Bagi kumpulan melebihi EUR 750 juta hasil, kadar 5 peratus mungkin
+ditangkap semula sebahagian besar oleh Cukai Tambahan Domestik. Modelkan kadar berkesan, bukan tajuk
+utama.
 
-**Memetik sesuatu nombor P.U.(A).** Tiada satu pun wujud untuk JS-SEZ. Jika sesuatu sumber
-memberikan anda nombor sedemikian, ia sebenarnya menghuraikan skim yang lain — kemungkinan besar
-Forest City atau Kelantan Special Incentive Scheme.
+**Memetik nombor P.U.(A).** Tiada perintah khusus JS-SEZ wujud — satu-satunya P.U.(A) yang dipetik
+garis panduan ialah perintah pengecualian ITA 2006 generik (P.U.(A) 113/2006) yang digunakan sebagai
+mekanisme. Jika sesuatu sumber memberi anda instrumen bertajuk JS-SEZ, ia sedang menghuraikan skim
+yang berbeza — kemungkinan besar Forest City atau Skim Insentif Khas Kelantan.
 
-## Langkah seterusnya
+## Apa seterusnya
 
-Jika projek itu melebihi RM500 million dan sepadan dengan sesuatu aktiviti flagship, urutannya
-ialah: sahkan tapak itu berada dalam zon unggulan yang betul dan perolehi pengesahan lokasi rasmi
-MIDA, modelkan kadar cukai efektif termasuk sebarang pendedahan Domestic Top-Up Tax, kemukakan
-permohonan melalui `investmalaysia.mida.gov.my` **sebelum invois jualan pertama**, dan berunding
-syarat "as proposed" itu secara berhati-hati, bukan secara optimistik semata-mata.
+Jika projek melebihi RM500 juta dan sepadan dengan aktiviti mercu tanda, urutannya ialah: sahkan
+tapak itu terletak dalam zon mercu tanda yang betul dan dapatkan pengesahan lokasi rasmi MIDA,
+modelkan kadar cukai berkesan termasuk sebarang pendedahan Cukai Tambahan Domestik, serahkan melalui
+`investmalaysia.mida.gov.my` **sebelum invois jualan pertama**, dan rundingkan syarat "seperti yang
+dicadangkan" secara sengaja dan bukan secara optimistik.
 
-Jika projek itu di bawah ambang-ambang tersebut, JS-SEZ bukan laluan anda. Lihat sebaliknya
-kepada rangka kerja insentif kebangsaan melalui MIDA, taraf Malaysia Digital jika aktivitinya
-bersifat digital, atau lesen pembuatan dan kedudukan elaun modal biasa.
+Jika projek berada di bawah ambang, JS-SEZ bukan laluan anda. Lihat sebaliknya rangka kerja insentif
+kebangsaan melalui MIDA, status Malaysia Digital di mana aktiviti itu digital, atau kedudukan lesen
+pembuatan dan elaun modal biasa.
 
-Apa pun keadaannya, baca artikel rakan mengenai Zon Kewangan Khas Forest City dan mengenai
-Iskandar Malaysia sebelum membuat andaian tentang autoriti mana yang anda hadapi. Di Johor,
-geografi tiga skim ini bertindih, dan autoriti yang anda hubungi menentukan insentif yang boleh
-anda perolehi.
+Apa jua pun, baca artikel pelengkap mengenai Zon Kewangan Khas Forest City dan mengenai Iskandar
+Malaysia sebelum menganggap pihak berkuasa mana yang anda berurusan. Di Johor geografi tiga skim
+bertindih, dan pihak berkuasa yang anda hubungi menentukan insentif yang anda boleh peroleh.

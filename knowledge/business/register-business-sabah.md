@@ -31,7 +31,7 @@ faq:
   - q: "Who issues the trading licence?"
     a: "Section 4(1) puts it with the administrative officer, or his assistant, in charge of the district where the premises are situated. Section 4(2) lets the Minister appoint another person as licensing authority for an area, which is the hook under which city and municipal councils issue licences — DBKK in Kota Kinabalu, Majlis Perbandaran Sandakan, Majlis Perbandaran Tawau, and district offices elsewhere."
   - q: "How much does a Sabah trading licence cost?"
-    a: "It depends on the licensing authority and the trade. DBKK publishes RM25 per year plus a RM10 processing charge for a Kota Kinabalu trading licence. The First and Second Schedules to Cap. 144 as published by the Sabah State Attorney-General's Chambers are still expressed in pre-decimal dollars, so the statutory schedule cannot be read off directly — ask the specific council or district office for its current rate."
+    a: "It depends on the licensing authority and the trade. DBKK publishes RM25 per year plus a RM10 processing charge for a Kota Kinabalu trading licence. The First Schedule to Cap. 144 (headed s.7(3)), as published by the Sabah State Attorney-General's Chambers, sets a flat annual fee of $25.00 for the listed trades — decimal Malayan/North Borneo dollars, read as ringgit at par, so $25.00 is RM25.00, consistent with DBKK. Each authority still sets its own rate for its area, so ask the specific council or district office."
   - q: "Do I still need to incorporate with SSM if I want a Sdn Bhd in Sabah?"
     a: "Yes. The Companies Act 2016 and the Limited Liability Partnerships Act 2012 contain no territorial limitation clause of the kind ROBA 1956 has, so both apply throughout Malaysia. DBKK's own trading licence application form asks a Sdn Bhd applicant for its Companies Act 2016 documents and an LLP applicant for its Act 743 certificate of registration — confirming that the licence sits on top of federal incorporation."
   - q: "Do Peninsular Malaysians need anything extra to run a business in Sabah?"
@@ -39,10 +39,8 @@ faq:
 
 verificationNeeded:
   - "The current in-force text and amendment history of the Trades Licensing Ordinance (Sabah Cap. 144) — the version published by the Sabah State Attorney-General's Chambers is stamped FOR REFERENCE ONLY (October 2011) and carries no amendment table"
-  - "The current ringgit fee schedule under s.7 and the First and Second Schedules of Cap. 144 — the published schedule is in pre-decimal dollars and the amending order converting it was not located"
   - "Published trading licence fee schedules for Majlis Perbandaran Sandakan, Majlis Perbandaran Tawau and the district councils — only DBKK publishes a rate"
   - "The specific pass class, duration and cost of a Sabah work pass for a non-Sabahan Malaysian business owner — Jabatan Imigresen Sabah does not publish this in a retrievable form"
-  - "Whether Portal Digital Sabah e-Lesen now accepts new trading licence applications statewide, or only renewals in some districts"
 
 obligations:
   - what: "Hold a valid trading licence for each place of business before carrying on any business in Sabah"
@@ -75,16 +73,20 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-07-22
+reviewed: 2026-08-14
 reviewDue: 2027-07-22
-version: "0.1"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-20
     change: "Initial draft."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-07-20
+updated: 2026-08-14
 sources:
   - title: "Trades Licensing Ordinance (Sabah Cap. 144)"
     url: "https://sagc.sabah.gov.my/sites/default/files/law/TradesLicensingOrdinance(SabahCap144).pdf"
@@ -108,6 +110,12 @@ sources:
   - title: "Federal Territory of Labuan Enactment 1984 (No. 3 of 1984)"
     url: "https://sagc.sabah.gov.my/sites/default/files/law/FederalTerritoryOfLabuanEnactment1984.pdf"
     publisher: "Sabah State Attorney-General's Chambers"
+  - title: "e-Lesen — Pejabat Daerah Keningau"
+    url: "https://pdkeningau.sabah.gov.my/page.php?page=tinymce&menu=E-LESEN&sub=E-LESEN"
+    publisher: "Pejabat Daerah Keningau, Sabah"
+  - title: "Permohonan Lesen Berniaga — Pejabat Daerah Kudat (Portal Digital Sabah)"
+    url: "https://pdkudat.sabah.gov.my/page.php?menu=PERKHIDMATAN+ONLINE&sub=PERMOHONAN+LESEN+BERNIAGA&page=text_nopic"
+    publisher: "Pejabat Daerah Kudat, Sabah"
 
 entity: "Business licensing in Sabah"
 relations:
@@ -182,7 +190,9 @@ city and municipal councils came to run the process:
   Jalan Bandaran
 - **Majlis Perbandaran Sandakan** and **Majlis Perbandaran Tawau**
 - **District offices** elsewhere — Kudat, Keningau and others now route applicants to the
-  statewide **Portal Digital Sabah e-Lesen**
+  statewide **Portal Digital Sabah e-Lesen**, which handles both new applications and
+  renewals for Pejabat Daerah jurisdictions (the city and municipal councils run their
+  own separate systems)
 
 So there is no single Sabah-wide counter and no single fee. Your licensing authority is
 determined by where your premises are.
@@ -192,12 +202,16 @@ determined by where your premises are.
 DBKK publishes **RM25.00 per year plus a RM10.00 processing charge** for a Kota Kinabalu
 trading licence. The application form itself is sold at RM1.00.
 
-That is the only Sabah trading licence rate this page could verify from a primary
-source. The statutory schedule is not usable as a substitute: the First and Second
-Schedules to Cap. 144 as published by the Sabah State Attorney-General's Chambers are
-still denominated in **pre-decimal dollars**, and the amending instrument that converted
-them to ringgit was not retrievable. DBKK's own form refers to the schedule "as amended
-to date" without reproducing it.
+The statutory schedule points the same way once you read it correctly. The First
+Schedule to Cap. 144 (headed *Section 7(3)*), as published by the Sabah State
+Attorney-General's Chambers, sets a flat annual fee of **$25.00** for the listed trades —
+building contractor, trader with or without importation, shipping and air transport
+agents, and the rest. Those are **decimal** Malayan/North Borneo dollars, not
+pre-decimal currency. Because the dollar was redenominated as ringgit at par
+($1 = RM1) in 1975, the statutory $25.00 reads as **RM25.00** — exactly DBKK's published
+rate. No separate ringgit-conversion order was located, and none appears to exist; s.16
+lets the Minister amend the Schedules, but no such amending instrument is published, and
+DBKK's own form refers to the schedule "as amended to date" without reproducing it.
 
 If you are outside Kota Kinabalu, ask your council or district office for its rate. Do
 not assume DBKK's figure travels.

@@ -19,7 +19,7 @@ keyTakeaways:
   - "The 5 per cent rate is not automatic: manufacturing needs at least RM500 million of capital expenditure excluding land for 10 years, and above RM1 billion for 15 years"
   - "The Global Services Hub route needs RM50 million annual operating expenditure, RM500 million annual turnover and at least 10 network companies served"
   - "Failure to meet conditions in any single year of assessment forfeits the special rate for that year — the incentive is tested annually, not once"
-  - "Missing the 24-month or 36-month determination deadline can cancel the approval outright"
+  - "Missing the 36-month investment-tax-allowance determination deadline cancels the approval outright; the 24-month special-tax-rate deadline only risks eligibility, with no automatic cancellation"
   - "As at July 2026 no P.U.(A) implementing the JS-SEZ package has been gazetted — the package rests on a MIDA guideline and National Committee on Investments approval"
   - "The Global Minimum Tax applies from 2025, so groups above EUR 750 million revenue may face a domestic top-up tax that erodes a 5 per cent rate"
 appliesTo: "Foreign and Malaysian companies evaluating a Johor investment, and advisers pricing the JS-SEZ incentive against alternatives."
@@ -39,11 +39,7 @@ faq:
     a: "Not as at July 2026. A search of the AGC federal gazette returns no P.U.(A) whose title refers to the Johor-Singapore Special Economic Zone. MIDA's own guideline describes the mechanism in the future tense — the incentive is to be provided through subsidiary legislation under section 65B of the Income Tax Act 1967. Contrast Forest City, where eleven instruments were gazetted on 3 October 2025."
 
 verificationNeeded:
-  - "No gazetted P.U.(A) implementing the JS-SEZ package could be located on lom.agc.gov.my as at 20 July 2026. Do not cite a P.U.(A) number for JS-SEZ until one is confirmed."
   - "The administering agency and application route for the JS-SEZ knowledge worker incentive is not stated in the MIDA guideline — Appendix B of the snapshot lists it under other incentives without naming a route. Confirm with MIDA or IRDA before advising."
-  - "The 40 per cent stamp duty exemption on unsold commercial property in Flagship A and B is described in MIDA's snapshot as being provided under section 80(1) of the Stamp Act 1949, but no remission or exemption order for it was located in the gazette. Treat as announced, not enacted."
-  - "MIDA guideline version 2, dated April 2025, remains the latest published version. Confirm no version 3 has issued before relying on the appendices."
-  - "Whether the 24-month determination deadline in the Global Services Hub and manufacturing appendices carries the same automatic cancellation consequence spelled out for the 36-month investment tax allowance deadline is not stated. The guideline says only that failure may have implications for eligibility."
 
 lang: "en"
 masterLanguage: "en"
@@ -52,9 +48,10 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-07-22
+reviewed: 2026-08-14
 reviewDue: 2027-07-22
-version: "0.2"
+publishedBy: "ashton-tan"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-20
@@ -64,8 +61,12 @@ revisions:
     date: 2026-07-21
     change: "Narrowed the intro and FAQ so the RM500m/RM1bn capital-investment thresholds are scoped to the manufacturing and downstream-chemicals routes; noted the Global Services Hub route has no capex threshold. Corrected 'principle approval letter' to 'principal' throughout."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-07-20
+updated: 2026-08-14
 sources:
   - title: "Guidelines for Johor-Singapore Special Economic Zone (JS-SEZ) Tax Incentive Package, Version 2"
     url: "https://www.mida.gov.my/wp-content/uploads/2025/04/Guideline-JSSEZ-V2.pdf"
@@ -89,6 +90,10 @@ sources:
   - title: "Federal gazette subsidiary legislation search (P.U.(A))"
     url: "https://lom.agc.gov.my/subsid-legis.php"
     publisher: "Attorney General's Chambers"
+  - title: "The Johor-Singapore Special Economic Zone: early structuring considerations for investors"
+    url: "https://www.trowers.com/insights/2026/may/the-johor-singapore-special-economic-zone"
+    publisher: "Trowers & Hamlins"
+    date: "2026-05-01"
 
 entity: "Johor-Singapore Special Economic Zone"
 relations:
@@ -357,7 +362,10 @@ tax, real property gains tax and stamp duty. The contrast is instructive. The JS
 government policy administered through a published guideline and a committee approval, and the
 legal instrument giving effect to the rate has not yet appeared. That does not make it unreal —
 approvals are being issued — but it does mean the operative text you will eventually be assessed
-against does not yet exist in public form. Anyone citing a P.U.(A) number for JS-SEZ is citing
+against does not yet exist in public form. No JS-SEZ-specific P.U.(A) exists: the only order the
+guideline cites is the generic **P.U.(A) 113/2006** (the Income Tax (Exemption)(No. 12) Order
+2006), invoked merely as the delivery vehicle for the investment-tax-allowance routes, not as an
+instrument whose title refers to the JS-SEZ. Anyone citing a JS-SEZ P.U.(A) number is citing
 something that could not be located.
 
 ## The smaller incentives people miss
@@ -421,8 +429,10 @@ conditions for ten to fifteen years.
 **Ignoring Pillar Two.** For groups above EUR 750 million of revenue, a 5 per cent rate may be
 substantially recaptured by the Domestic Top-Up Tax. Model the effective rate, not the headline.
 
-**Citing a P.U.(A) number.** None exists for JS-SEZ. If a source gives you one, it is describing a
-different scheme — most likely Forest City or the Kelantan Special Incentive Scheme.
+**Citing a P.U.(A) number.** No JS-SEZ-specific order exists — the only P.U.(A) the guideline
+cites is the generic 2006 ITA exemption order (P.U.(A) 113/2006) used as a mechanism. If a source
+gives you a JS-SEZ-titled instrument, it is describing a different scheme — most likely Forest
+City or the Kelantan Special Incentive Scheme.
 
 ## What's next
 

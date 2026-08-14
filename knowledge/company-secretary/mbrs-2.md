@@ -36,11 +36,6 @@ faq:
   - q: "Is there still a waiver of late lodgement fees?"
     a: "Not currently. SSM waived late lodgement fees for audited financial statements filed via MBRS 2.0 during the Phase 3 implementation period, extended that waiver from 1 October to 30 November 2025, and issued a further peak-period waiver on 3 February 2026 covering annual returns and financial statements submitted between 31 January and 31 March 2026. All of those windows have closed."
 
-verificationNeeded:
-  - "Confirm the current mTool version and SSM Taxonomy (SSMxT) release against the SSM MBRS page before preparing a filing — versions are updated without an announcement"
-  - "Confirm whether any exemption remains for a specific Bank Negara or Securities Commission regulated entity against the current SSM MBRS FAQ"
-  - "Confirm whether SSM has issued any further waiver of late lodgement fees after the 31 March 2026 peak-period waiver expired"
-
 obligations:
   - what: "Lodge the annual return through MBRS 2.0"
     trigger: "anniversary"
@@ -64,9 +59,9 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-07-22
-reviewDue: 2027-07-22
-version: "0.2"
+reviewed: 2026-08-14
+reviewDue: 2027-08-14
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-20
@@ -76,9 +71,13 @@ revisions:
     date: 2026-07-21
     change: "FAQ 4 now answers its own question — banks and insurers are no longer exempt as a class, the phased implementation brings regulated financial institutions within scope — instead of only restating the scope without a verdict."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 sensitivity: "none"
 
-updated: 2026-07-20
+updated: 2026-08-14
 sources:
   - title: "MBRS — Malaysian Business Reporting System"
     url: "https://www.ssm.com.my/Pages/Services/Other-Services/MBRS.aspx"
@@ -104,6 +103,10 @@ sources:
     url: "https://www.ssm.com.my/Pages/Legal_Framework/PDF%20Tab%205/pn_ss_609_2592_3404_eot.pdf"
     publisher: "SSM"
     date: "2018-07-26"
+  - title: "SSM — Waiver of Penalties for late submission under MBRS 2.0 (Peak Period), Notice dated 3 February 2026"
+    url: "https://www.maicsa.org.my/media/10974/technical_announcement_260204_1.pdf"
+    publisher: "MAICSA (reproducing SSM Notice)"
+    date: "2026-02-03"
 
 entity: "Malaysian Business Reporting System (MBRS) 2.0"
 relations:

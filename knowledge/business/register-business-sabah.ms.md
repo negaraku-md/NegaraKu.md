@@ -1,91 +1,94 @@
 ---
 topicId: MY-BIZ-0022
-title: "Registering and Licensing a Business in Sabah"
+title: "Mendaftar dan Melesenkan Perniagaan di Sabah"
 seoTitle: "Pendaftaran Perniagaan di Sabah: Peraturan Sebenar"
 slug: "register-business-sabah"
 category: "business"
 subcategory: ["registration"]
-summary: "Sabah berada di luar skop Registration of Businesses Act 1956, jadi tiada pendaftaran perusahaan SSM — lesen berniaga di bawah Trades Licensing Ordinance (Sabah Cap. 144) itulah yang menjadikan sesebuah perniagaan sah di sisi undang-undang."
+summary: "Sabah berada di luar Akta Pendaftaran Perniagaan 1956, jadi tiada pendaftaran perusahaan SSM — lesen berniaga di bawah Ordinan Pelesenan Perdagangan (Sabah Bab 144) itulah yang menjadikan sesuatu perniagaan sah di sisi undang-undang."
 
 tier: "2"
 mode: "practical"
 contentType: "guide"
 sensitivity: "none"
 
-answer: "Registration of Businesses Act 1956 hanya terpakai di Semenanjung Malaysia, jadi pemilik tunggal atau perkongsian di Sabah tidak mendaftar dengan SSM dan tidak boleh menggunakan EzBiz. Apa yang diperlukan oleh Sabah sebaliknya ialah lesen berniaga di bawah s.3(1) Trades Licensing Ordinance (Sabah Cap. 144), yang dikeluarkan oleh pegawai pentadbir daerah atau pihak berkuasa pelesenan yang dilantik seperti DBKK. Pemerbadanan Sdn Bhd dan LLP kekal di bawah bidang kuasa persekutuan."
+answer: "Akta Pendaftaran Perniagaan 1956 terpakai hanya di Semenanjung Malaysia, jadi pemilik tunggal atau perkongsian di Sabah tidak mendaftar dengan SSM dan tidak boleh menggunakan EzBiz. Sebaliknya, Sabah memerlukan lesen berniaga di bawah s.3(1) Ordinan Pelesenan Perdagangan (Sabah Bab 144), yang dikeluarkan oleh pegawai pentadbir daerah atau pihak berkuasa pelesenan yang dilantik seperti DBKK. Pemerbadanan Sdn Bhd dan LLP kekal di bawah bidang kuasa persekutuan."
 keyTakeaways:
-  - "ROBA 1956 s.1(2) — Akta ini hanya terpakai di Semenanjung Malaysia; tiada pendaftaran perusahaan SSM di Sabah"
-  - "Seksyen 3(1) Cap. 144 menjadikannya suatu kesalahan untuk menjalankan apa-apa perniagaan di Sabah tanpa lesen berniaga yang sah"
+  - "ROBA 1956 s.1(2) — Akta ini terpakai hanya di Semenanjung Malaysia; tiada pendaftaran perusahaan SSM di Sabah"
+  - "Seksyen 3(1) Bab 144 menjadikan satu kesalahan untuk menjalankan apa-apa perniagaan di Sabah tanpa lesen berniaga yang sah"
   - "Lesen berasingan diperlukan bagi setiap tempat perniagaan (s.3(2))"
-  - "Setiap lesen berniaga luput pada 31 December, tidak kira bulan mana ia dikeluarkan (s.6)"
-  - "DBKK menerbitkan kadar RM25 setahun ditambah caj pemprosesan RM10 untuk lesen berniaga Kota Kinabalu"
-  - "Pendaftaran Sdn Bhd dan LLP kekal di bawah bidang kuasa persekutuan — lesen berniaga itu wujud di atas pemerbadanan SSM, bukan menggantikannya"
-  - "Rakyat Malaysia bukan penduduk Sabah memerlukan pas kerja; Sabah mengawal imigresennya sendiri di bawah Article 161E"
-appliesTo: "Sesiapa sahaja yang ingin memulakan perniagaan di Sabah, dan penasihat berpangkalan di Semenanjung yang menganggap EzBiz meliputi seluruh negara."
+  - "Setiap lesen berniaga tamat tempoh pada 31 Disember, tidak kira bulan ia dikeluarkan (s.6)"
+  - "DBKK menerbitkan RM25 setahun tambah caj pemprosesan RM10 bagi lesen berniaga Kota Kinabalu"
+  - "Pendaftaran Sdn Bhd dan LLP kekal persekutuan — lesen berniaga terletak di atas pemerbadanan SSM, bukan menggantikannya"
+  - "Rakyat Malaysia bukan Sabah memerlukan pas kerja; Sabah mengawal imigresennya sendiri di bawah Perkara 161E"
+appliesTo: "Sesiapa yang memulakan perniagaan di Sabah, dan penasihat berpangkalan di Semenanjung yang menganggap EzBiz meliputi seluruh negara."
 
 faq:
-  - q: "Bolehkah saya mendaftarkan pemilikan tunggal di SSM EzBiz jika saya berpangkalan di Sabah?"
-    a: "Tidak. Seksyen 1(2) Registration of Businesses Act 1956 menyatakan bahawa Akta ini hanya terpakai di Semenanjung Malaysia, dan ia dilanjutkan secara berasingan ke Wilayah Persekutuan Labuan pada 1996. Tiada bidang kuasa Pendaftar Perniagaan ke atas Sabah, jadi pendaftaran perniagaan SSM bukanlah instrumen yang menjadikan sesebuah perusahaan di Sabah sah di sisi undang-undang."
-  - q: "Jadi apakah yang setara dengan pendaftaran perniagaan SSM di Sabah?"
-    a: "Lesen berniaga di bawah Trades Licensing Ordinance (Sabah Cap. 144). Seksyen 3(1) menjadikannya suatu kesalahan untuk menjalankan apa-apa perniagaan di Sabah tanpa lesen berniaga yang sah dan berkuat kuasa, dan s.3(2) memerlukan lesen berasingan bagi setiap tempat perniagaan. Pada praktiknya, lesen ini berfungsi sebagai kebenaran untuk berniaga sekali gus rekod awam tentang siapa yang sedang berniaga."
+  - q: "Bolehkah saya mendaftar milikan tunggal di SSM EzBiz jika saya berpangkalan di Sabah?"
+    a: "Tidak. Seksyen 1(2) Akta Pendaftaran Perniagaan 1956 menyatakan bahawa Akta ini terpakai hanya di Semenanjung Malaysia, dan ia dilanjutkan secara berasingan ke Wilayah Persekutuan Labuan pada tahun 1996. Tiada bidang kuasa Pendaftar Perniagaan ke atas Sabah, jadi pendaftaran perniagaan SSM bukanlah instrumen yang menjadikan sesuatu perusahaan Sabah sah di sisi undang-undang."
+  - q: "Jadi apakah padanan Sabah bagi pendaftaran perniagaan SSM?"
+    a: "Lesen berniaga di bawah Ordinan Pelesenan Perdagangan (Sabah Bab 144). Seksyen 3(1) menjadikan satu kesalahan untuk menjalankan apa-apa perniagaan di Sabah tanpa lesen berniaga yang sah berkuat kuasa, dan s.3(2) memerlukan lesen berasingan bagi setiap tempat perniagaan. Dalam amalan, lesen ini berfungsi sebagai kebenaran untuk berniaga dan rekod awam tentang siapa yang berniaga."
   - q: "Siapa yang mengeluarkan lesen berniaga?"
-    a: "Seksyen 4(1) meletakkan kuasa ini pada pegawai pentadbir, atau penolongnya, yang bertanggungjawab ke atas daerah tempat premis itu terletak. Seksyen 4(2) membenarkan Menteri melantik orang lain sebagai pihak berkuasa pelesenan bagi sesuatu kawasan, dan inilah asas yang membolehkan majlis bandaraya dan majlis perbandaran mengeluarkan lesen — DBKK di Kota Kinabalu, Majlis Perbandaran Sandakan, Majlis Perbandaran Tawau, dan pejabat daerah di tempat lain."
+    a: "Seksyen 4(1) meletakkannya pada pegawai pentadbir, atau pembantunya, yang bertanggungjawab ke atas daerah tempat premis itu terletak. Seksyen 4(2) membenarkan Menteri melantik orang lain sebagai pihak berkuasa pelesenan bagi sesuatu kawasan, dan inilah asas yang membolehkan majlis bandaraya dan perbandaran mengeluarkan lesen — DBKK di Kota Kinabalu, Majlis Perbandaran Sandakan, Majlis Perbandaran Tawau, dan pejabat daerah di tempat lain."
   - q: "Berapakah kos lesen berniaga Sabah?"
-    a: "Ia bergantung kepada pihak berkuasa pelesenan dan jenis perdagangan. DBKK menerbitkan kadar RM25 setahun ditambah caj pemprosesan RM10 untuk lesen berniaga Kota Kinabalu. Jadual Pertama dan Kedua kepada Cap. 144 sebagaimana diterbitkan oleh Sabah State Attorney-General's Chambers masih dinyatakan dalam dolar pra-desimal, jadi jadual berkanun itu tidak boleh dirujuk secara terus — tanya majlis atau pejabat daerah berkenaan untuk kadar semasanya."
-  - q: "Adakah saya masih perlu memperbadankan syarikat dengan SSM jika saya mahukan Sdn Bhd di Sabah?"
-    a: "Ya. Companies Act 2016 dan Limited Liability Partnerships Act 2012 tidak mengandungi fasal had wilayah seperti yang terdapat dalam ROBA 1956, jadi kedua-duanya terpakai di seluruh Malaysia. Borang permohonan lesen berniaga DBKK sendiri meminta pemohon Sdn Bhd mengemukakan dokumen Companies Act 2016 dan pemohon LLP mengemukakan sijil pendaftaran Act 743 — mengesahkan bahawa lesen itu wujud di atas pemerbadanan persekutuan."
-  - q: "Adakah rakyat Malaysia dari Semenanjung memerlukan sesuatu yang tambahan untuk menjalankan perniagaan di Sabah?"
-    a: "Garis panduan pelesenan yang diterbitkan oleh DBKK memerlukan pemohon menjadi penduduk tempatan atau pemastautin tetap Sabah, atau memegang pas kerja jika mereka dari Sarawak atau Semenanjung Malaysia. Borang permohonannya mengulangi syarat ini bagi pengarah syarikat yang dinamakan sebagai pengurus lesen. Autonomi imigresen Sabah bersandarkan Article 161E Perlembagaan Persekutuan dan Part VII Immigration Act 1959/63."
+    a: "Ia bergantung pada pihak berkuasa pelesenan dan jenis perdagangan. DBKK menerbitkan RM25 setahun tambah caj pemprosesan RM10 bagi lesen berniaga Kota Kinabalu. Jadual Pertama Bab 144 (di bawah tajuk s.7(3)), seperti yang diterbitkan oleh Jabatan Peguam Besar Negeri Sabah, menetapkan fi tahunan seragam sebanyak $25.00 bagi perdagangan yang disenaraikan — dolar Malaya/Borneo Utara perpuluhan, dibaca sebagai ringgit pada nilai setara, jadi $25.00 ialah RM25.00, selaras dengan DBKK. Setiap pihak berkuasa masih menetapkan kadarnya sendiri bagi kawasannya, jadi tanyalah majlis atau pejabat daerah yang berkenaan."
+  - q: "Adakah saya masih perlu memerbadankan dengan SSM jika saya mahu Sdn Bhd di Sabah?"
+    a: "Ya. Akta Syarikat 2016 dan Akta Perkongsian Liabiliti Terhad 2012 tidak mengandungi klausa had wilayah seperti yang ada pada ROBA 1956, jadi kedua-duanya terpakai di seluruh Malaysia. Borang permohonan lesen berniaga DBKK sendiri meminta pemohon Sdn Bhd menyertakan dokumen Akta Syarikat 2016 dan pemohon LLP menyertakan sijil pendaftaran Akta 743 — mengesahkan bahawa lesen itu terletak di atas pemerbadanan persekutuan."
+  - q: "Adakah rakyat Semenanjung Malaysia memerlukan apa-apa tambahan untuk menjalankan perniagaan di Sabah?"
+    a: "Garis panduan pelesenan yang diterbitkan DBKK menghendaki pemohon menjadi penduduk tempatan atau penduduk tetap Sabah, atau memegang pas kerja jika mereka dari Sarawak atau Semenanjung Malaysia. Borang permohonannya mengulangi perkara ini bagi pengarah syarikat yang dinamakan sebagai pengurus lesen. Autonomi imigresen Sabah bersandar pada Perkara 161E Perlembagaan Persekutuan dan Bahagian VII Akta Imigresen 1959/63."
 
 verificationNeeded:
-  - "Teks yang berkuat kuasa semasa dan sejarah pindaan Trades Licensing Ordinance (Sabah Cap. 144) — versi yang diterbitkan oleh Sabah State Attorney-General's Chambers dicap FOR REFERENCE ONLY (October 2011) dan tidak mempunyai jadual pindaan"
-  - "Jadual bayaran ringgit semasa di bawah s.7 dan Jadual Pertama dan Kedua Cap. 144 — jadual yang diterbitkan adalah dalam dolar pra-desimal dan perintah pindaan yang menukarkannya tidak dapat dikesan"
-  - "Jadual bayaran lesen berniaga yang diterbitkan bagi Majlis Perbandaran Sandakan, Majlis Perbandaran Tawau dan majlis-majlis daerah — hanya DBKK yang menerbitkan kadarnya"
-  - "Kelas pas, tempoh dan kos khusus bagi pas kerja Sabah untuk pemilik perniagaan rakyat Malaysia bukan penduduk Sabah — Jabatan Imigresen Sabah tidak menerbitkan maklumat ini dalam bentuk yang boleh diperoleh"
-  - "Sama ada Portal Digital Sabah e-Lesen kini menerima permohonan lesen berniaga baharu di seluruh negeri, atau hanya pembaharuan sahaja di sesetengah daerah"
+  - "The current in-force text and amendment history of the Trades Licensing Ordinance (Sabah Cap. 144) — the version published by the Sabah State Attorney-General's Chambers is stamped FOR REFERENCE ONLY (October 2011) and carries no amendment table"
+  - "Published trading licence fee schedules for Majlis Perbandaran Sandakan, Majlis Perbandaran Tawau and the district councils — only DBKK publishes a rate"
+  - "The specific pass class, duration and cost of a Sabah work pass for a non-Sabahan Malaysian business owner — Jabatan Imigresen Sabah does not publish this in a retrievable form"
 
 obligations:
   - what: "Memegang lesen berniaga yang sah bagi setiap tempat perniagaan sebelum menjalankan apa-apa perniagaan di Sabah"
     trigger: "ongoing"
-    due: "Before commencing business, and at all times while trading"
+    due: "Sebelum memulakan perniagaan, dan pada setiap masa semasa berniaga"
     authority: "District licensing authority (Cap. 144, s.4) — DBKK, municipal council or district office"
     statute: "Trades Licensing Ordinance (Sabah Cap. 144), s.3(1) and s.3(2)"
-    consequence: "Fine of four times the licence fee plus a further daily fine (s.3(4))"
-  - what: "Memaklumkan pihak berkuasa pelesenan tentang sebarang perubahan kepada butiran yang diberikan dalam permohonan lesen"
+    consequence: "Denda empat kali ganda fi lesen tambah denda harian selanjutnya (s.3(4))"
+  - what: "Memberitahu pihak berkuasa pelesenan tentang perubahan pada butiran yang diberikan dalam permohonan lesen"
     trigger: "change"
     withinDays: 14
-    due: "Within 14 days of the change"
+    due: "Dalam tempoh 14 hari selepas perubahan"
     authority: "District licensing authority"
     statute: "Trades Licensing Ordinance (Sabah Cap. 144), s.5(4)"
-  - what: "Memperbaharui lesen berniaga, yang luput pada 31 December setiap tahun"
+  - what: "Memperbaharui lesen berniaga, yang tamat tempoh pada 31 Disember setiap tahun"
     trigger: "ongoing"
-    due: "Before 31 December; DBKK opens renewals from November"
+    due: "Sebelum 31 Disember; DBKK membuka pembaharuan mulai November"
     authority: "District licensing authority"
     statute: "Trades Licensing Ordinance (Sabah Cap. 144), s.6"
-  - what: "Memaparkan lesen berniaga di tempat yang jelas kelihatan di premis berlesen"
+  - what: "Mempamerkan lesen berniaga di tempat yang mudah dilihat pada premis berlesen"
     trigger: "ongoing"
-    due: "At all times while the licence is in force"
+    due: "Pada setiap masa semasa lesen berkuat kuasa"
     authority: "District licensing authority"
     statute: "Trades Licensing Ordinance (Sabah Cap. 144), s.12(1)"
 
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "afa486b900455b00"
+sourceContentHash: "2dfbdeafe3f19a96"
 
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: "2026-07-25"
-publishedBy: "ashton-tan"
-version: "0.1"
+reviewed: 2026-08-14
+reviewDue: 2027-07-22
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-20
     change: "Initial draft."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-07-20
+updated: 2026-08-14
+publishedBy: "ashton-tan"
 sources:
   - title: "Trades Licensing Ordinance (Sabah Cap. 144)"
     url: "https://sagc.sabah.gov.my/sites/default/files/law/TradesLicensingOrdinance(SabahCap144).pdf"
@@ -109,6 +112,12 @@ sources:
   - title: "Federal Territory of Labuan Enactment 1984 (No. 3 of 1984)"
     url: "https://sagc.sabah.gov.my/sites/default/files/law/FederalTerritoryOfLabuanEnactment1984.pdf"
     publisher: "Sabah State Attorney-General's Chambers"
+  - title: "e-Lesen — Pejabat Daerah Keningau"
+    url: "https://pdkeningau.sabah.gov.my/page.php?page=tinymce&menu=E-LESEN&sub=E-LESEN"
+    publisher: "Pejabat Daerah Keningau, Sabah"
+  - title: "Permohonan Lesen Berniaga — Pejabat Daerah Kudat (Portal Digital Sabah)"
+    url: "https://pdkudat.sabah.gov.my/page.php?menu=PERKHIDMATAN+ONLINE&sub=PERMOHONAN+LESEN+BERNIAGA&page=text_nopic"
+    publisher: "Pejabat Daerah Kudat, Sabah"
 
 entity: "Business licensing in Sabah"
 relations:
@@ -122,209 +131,203 @@ keywords:
   - "daftar perniagaan Sabah"
   - "lesen berniaga Sabah"
   - "Trades Licensing Ordinance Cap 144"
-  - "lesen perniagaan DBKK"
-  - "pemilikan tunggal SSM Sabah"
-  - "pendaftaran perniagaan Kota Kinabalu"
+  - "DBKK business licence"
+  - "SSM Sabah sole proprietorship"
+  - "business registration Kota Kinabalu"
 ---
 
-Setiap panduan kebangsaan mengenai pendaftaran perniagaan di Malaysia memberitahu anda
-untuk membuka EzBiz dan membayar RM60. Di Sabah, nasihat itu bukan sekadar tidak
-lengkap. Ia salah, dan mengikutinya menyebabkan anda berniaga secara menyalahi
-undang-undang sambil memegang sijil yang tidak bermakna apa-apa di tempat anda berada.
+Setiap panduan kebangsaan untuk mendaftar perniagaan di Malaysia menyuruh anda membuka
+EzBiz dan membayar RM60. Di Sabah, nasihat itu bukan sekadar tidak lengkap. Ia salah, dan
+mengikutnya menyebabkan anda berniaga secara menyalahi undang-undang sambil memegang sijil
+yang tidak bermakna di tempat anda berdiri.
 
-## Peruntukan yang menentukan segalanya
+## Peruntukan yang menentukan segala-galanya
 
-Seksyen 1(2) Registration of Businesses Act 1956 (Akta Pendaftaran Perniagaan 1956):
+Seksyen 1(2) Akta Pendaftaran Perniagaan 1956:
 
-> This Act shall apply to Peninsular Malaysia only.
+> Akta ini hendaklah terpakai bagi Semenanjung Malaysia sahaja.
 
-Nota permulaan kuat kuasa mengesahkan skopnya: Semenanjung Malaysia dari 1 January
-1957, dan Wilayah Persekutuan Labuan dari 15 March 1996 melalui P.U. (A) 121/1996.
-Sabah tidak termasuk dalam senarai itu dan tidak pernah termasuk.
+Nota permulaan kuat kuasa mengesahkan jangkauannya: Semenanjung Malaysia mulai 1 Januari
+1957, dan Wilayah Persekutuan Labuan mulai 15 Mac 1996 melalui P.U. (A) 121/1996. Sabah
+tiada dalam senarai itu dan tidak pernah ada.
 
-Oleh itu, tiada Pendaftar Perniagaan (Registrar of Businesses) yang mempunyai bidang
-kuasa ke atas Sabah, tiada nombor ROB untuk pemilikan tunggal di Sabah, dan tiada
-apa-apa untuk didaftarkan oleh EzBiz. Garis panduan SSM sendiri menggambarkan
-perniagaan yang boleh didaftarkan sebagai perniagaan yang "beroperasi di Malaysia
-Barat yang merangkumi Semenanjung Malaysia dan Wilayah Persekutuan" — pengecualian
-itu berlaku secara tersirat, tetapi s.1(2) menyatakannya secara langsung.
+Oleh itu, tiada Pendaftar Perniagaan yang mempunyai bidang kuasa ke atas Sabah, tiada
+nombor ROB bagi milikan tunggal Sabah, dan tiada apa-apa untuk didaftarkan oleh EzBiz.
+Garis panduan SSM sendiri menggambarkan perniagaan yang boleh didaftarkan sebagai
+perniagaan yang "beroperasi di Malaysia Barat yang merangkumi Semenanjung Malaysia dan
+Wilayah Persekutuan" — pengecualian itu secara ketinggalan, tetapi s.1(2) menyatakannya
+secara langsung.
 
-## Apa yang diperlukan oleh Sabah sebaliknya
+## Apa yang Sabah perlukan sebaliknya
 
-**Trades Licensing Ordinance (Sabah Cap. 144)**, berkuat kuasa sejak 1 January 1949 dan
-asalnya Ordinance No. 16 of 1948.
+**Ordinan Pelesenan Perdagangan (Sabah Bab 144)**, berkuat kuasa sejak 1 Januari 1949 dan
+asalnya Ordinan No. 16 Tahun 1948.
 
 Seksyen 3(1) ialah larangan operatif:
 
-> No person shall carry on in Sabah, whether as principal or agent, any business in
-> respect of which a valid trading licence is not for the time being in force or carry
-> on any such business in any place other than that specified in such licence.
+> Tiada seorang pun boleh menjalankan di Sabah, sama ada sebagai prinsipal atau ejen,
+> apa-apa perniagaan yang berkenaan dengannya lesen berniaga yang sah tidak berkuat kuasa
+> pada masa itu, atau menjalankan apa-apa perniagaan sedemikian di mana-mana tempat selain
+> daripada yang dinyatakan dalam lesen tersebut.
 
-Seksyen 3(2) menambah bahawa lesen berniaga yang berasingan diperlukan untuk **setiap
-tempat perniagaan**. Tiga kedai bermakna tiga lesen, bukan satu lesen dengan tiga
-cawangan dicatatkan padanya — satu perbezaan struktur berbanding model RM5-setiap-
-cawangan yang digunakan di bawah ROBA.
+Seksyen 3(2) menambah bahawa lesen berniaga berasingan diperlukan bagi **setiap tempat
+perniagaan**. Tiga kedai bermakna tiga lesen, bukan satu lesen dengan tiga cawangan
+dicatatkan padanya — satu perbezaan struktur berbanding model RM5-satu-cawangan yang
+digunakan di bawah ROBA.
 
-"Business" (perniagaan) ditakrifkan dalam s.2 sebagai apa-apa perdagangan atau
-industri yang tidak dikecualikan di bawah Ordinan ini, **tetapi tidak termasuk amalan
-sesuatu profesion**. Amalan profesional berada di luar skop Cap. 144 dan ditadbir oleh
-statut profesional masing-masing.
+"Perniagaan" ditakrifkan dalam s.2 sebagai apa-apa perdagangan atau industri yang tidak
+dikecualikan di bawah Ordinan ini, **tetapi tidak termasuk amalan sesuatu profesion**.
+Amalan profesional berada di luar Bab 144 dan ditadbir oleh statut profesionnya sendiri.
 
-Lesen berniaga bukanlah "pendaftaran perniagaan" dalam erti kata SSM — ia adalah
-kebenaran untuk berniaga di sesuatu tempat. Tetapi kerana tiada daftar nama perniagaan
-yang berasingan di Sabah, ia secara fungsian merupakan dokumen yang menjadikan
-sesebuah perniagaan tidak berperbadanan itu sah di sisi undang-undang dan boleh
-dikenal pasti.
+Lesen berniaga bukanlah "pendaftaran perniagaan" dalam erti kata SSM — ia adalah kebenaran
+untuk berniaga di sesuatu tempat. Tetapi kerana tiada daftar nama perniagaan berasingan di
+Sabah, ia secara fungsinya adalah dokumen yang menjadikan perniagaan tidak diperbadankan
+itu sah dan boleh dikenal pasti.
 
 ## Siapa yang mengeluarkannya
 
-Seksyen 4(1): lesen berniaga dikeluarkan oleh pegawai pentadbir, atau penolongnya,
-yang bertanggungjawab ke atas daerah tempat premis itu terletak. Seksyen 4(2)
-membenarkan Menteri melantik mana-mana orang lain sebagai pihak berkuasa pelesenan
-bagi sesuatu kawasan — dan inilah cara majlis bandaraya dan majlis perbandaran mula
-menjalankan proses ini:
+Seksyen 4(1): lesen berniaga dikeluarkan oleh pegawai pentadbir, atau pembantunya, yang
+bertanggungjawab ke atas daerah tempat premis itu terletak. Seksyen 4(2) membenarkan
+Menteri melantik mana-mana orang lain sebagai pihak berkuasa pelesenan bagi sesuatu
+kawasan — dan inilah cara majlis bandaraya dan perbandaran mula menguruskan prosesnya:
 
 - **Dewan Bandaraya Kota Kinabalu (DBKK)** — Jabatan Pelesenan, aras bawah, Ibu Pejabat
   DBKK, Jalan Bandaran
 - **Majlis Perbandaran Sandakan** dan **Majlis Perbandaran Tawau**
-- **Pejabat daerah** di tempat lain — Kudat, Keningau dan lain-lain kini mengarahkan
-  pemohon ke **Portal Digital Sabah e-Lesen** yang meliputi seluruh negeri
+- **Pejabat daerah** di tempat lain — Kudat, Keningau dan lain-lain kini menghalakan
+  pemohon ke **Portal Digital Sabah e-Lesen** seluruh negeri, yang mengendalikan permohonan
+  baru dan pembaharuan bagi bidang kuasa Pejabat Daerah (majlis bandaraya dan perbandaran
+  mengendalikan sistem berasingan mereka sendiri)
 
-Jadi tiada satu kaunter yang meliputi seluruh Sabah dan tiada satu kadar bayaran yang
-seragam. Pihak berkuasa pelesenan anda ditentukan oleh lokasi premis anda.
+Jadi tiada satu kaunter seluruh Sabah dan tiada satu fi seragam. Pihak berkuasa pelesenan
+anda ditentukan oleh tempat premis anda terletak.
 
-## Kosnya, secara jujur
+## Berapa kosnya, secara jujur
 
-DBKK menerbitkan kadar **RM25.00 setahun ditambah caj pemprosesan RM10.00** untuk
-lesen berniaga Kota Kinabalu. Borang permohonan itu sendiri dijual pada harga RM1.00.
+DBKK menerbitkan **RM25.00 setahun tambah caj pemprosesan RM10.00** bagi lesen berniaga
+Kota Kinabalu. Borang permohonan itu sendiri dijual pada harga RM1.00.
 
-Itulah satu-satunya kadar lesen berniaga Sabah yang dapat disahkan oleh laman ini
-daripada sumber primer. Jadual berkanun tidak boleh digunakan sebagai ganti: Jadual
-Pertama dan Kedua kepada Cap. 144 sebagaimana diterbitkan oleh Sabah State
-Attorney-General's Chambers masih dinyatakan dalam **dolar pra-desimal**, dan
-instrumen pindaan yang menukarkannya kepada ringgit tidak dapat diperoleh. Borang DBKK
-sendiri merujuk kepada jadual itu "as amended to date" (sebagaimana dipinda setakat
-ini) tanpa menghasilkannya semula.
+Jadual berkanun menunjuk ke arah yang sama apabila anda membacanya dengan betul. Jadual
+Pertama Bab 144 (di bawah tajuk *Seksyen 7(3)*), seperti yang diterbitkan oleh Jabatan
+Peguam Besar Negeri Sabah, menetapkan fi tahunan seragam sebanyak **$25.00** bagi
+perdagangan yang disenaraikan — kontraktor pembinaan, peniaga dengan atau tanpa
+pengimportan, ejen perkapalan dan pengangkutan udara, dan selebihnya. Itu adalah dolar
+Malaya/Borneo Utara **perpuluhan**, bukan mata wang pra-perpuluhan. Kerana dolar
+dinamakan semula sebagai ringgit pada nilai setara ($1 = RM1) pada tahun 1975, $25.00
+berkanun itu dibaca sebagai **RM25.00** — tepat sama dengan kadar yang diterbitkan DBKK.
+Tiada perintah penukaran ringgit berasingan ditemui, dan nampaknya tiada; s.16 membenarkan
+Menteri meminda Jadual, tetapi tiada instrumen pindaan sedemikian diterbitkan, dan borang
+DBKK sendiri merujuk pada jadual "sebagaimana yang dipinda sehingga kini" tanpa
+menghasilkannya semula.
 
-Jika anda berada di luar Kota Kinabalu, tanya majlis atau pejabat daerah anda tentang
-kadarnya. Jangan anggap angka DBKK terpakai di tempat lain.
+Jika anda di luar Kota Kinabalu, tanyalah majlis atau pejabat daerah anda tentang
+kadarnya. Jangan anggap angka DBKK boleh dibawa ke mana-mana.
 
-Seksyen 7(2) memberikan satu peraturan pro-rata yang berguna dan tidak terjejas oleh
-masalah mata wang ini: lesen yang dikeluarkan selepas 30 June dikenakan dua pertiga
-daripada bayaran, dan selepas 30 September, satu pertiga.
+Seksyen 7(2) memang memberikan peraturan prorata berguna yang bertahan daripada masalah
+mata wang: lesen yang dikeluarkan selepas 30 Jun berkos dua pertiga daripada fi, dan
+selepas 30 September, satu pertiga.
 
-## Peraturan 31 December
+## Peraturan 31 Disember
 
 Seksyen 6:
 
-> A trading licence shall continue in force until the thirty-first day of December
-> next following the date of commencement.
+> Sesuatu lesen berniaga hendaklah terus berkuat kuasa sehingga hari ketiga puluh satu
+> bulan Disember berikutnya selepas tarikh permulaannya.
 
-Setiap lesen di Sabah luput pada hari yang sama, tanpa mengira bila ia dikeluarkan.
-Lesen yang diambil pada **November** bertahan lebih kurang enam minggu sahaja. Itulah
-sebabnya wujud peraturan pro-rata s.7(2), dan itulah sebabnya musim pembaharuan
-menjadi satu acara tetap di seluruh negeri — DBKK membuka pembaharuan bermula
-**November**, dan portal e-perkhidmatannya menerima pembaharuan lesen yang telah
-luput tidak lebih daripada dua tahun.
+Setiap lesen di Sabah tamat tempoh pada hari yang sama, tidak kira bila ia dikeluarkan.
+Lesen yang diambil pada bulan November bertahan kira-kira enam minggu sahaja. Itulah tujuan
+prorata s.7(2), dan itulah sebabnya musim pembaharuan adalah acara seluruh negeri yang
+tetap — DBKK membuka pembaharuan mulai **November**, dan portal e-perkhidmatannya menerima
+pembaharuan jika lesen telah tamat tempoh tidak lebih daripada dua tahun.
 
-Pada masa penulisan ini, FAQ DBKK sendiri menyatakan bahawa permohonan baharu masih
-belum boleh dibuat melalui e-perkhidmatan; pembaharuan lesen boleh.
+Pada masa penulisan ini, FAQ DBKK sendiri menyatakan bahawa permohonan baru belum boleh
+dibuat melalui e-perkhidmatan; pembaharuan boleh.
 
-## Membuat permohonan
+## Memohon
 
-Seksyen 5 menetapkan borang yang digunakan. Versi DBKK ialah borang statutori Seksyen
-5 yang bertajuk *Ordinan Perlesenan Perdagangan, 1948*, yang difailkan dengan Majlis
-Perbandaran atau Pejabat Daerah.
+Seksyen 5 menetapkan borangnya. Versi DBKK ialah borang Seksyen 5 berkanun bertajuk
+*Ordinan Perlesenan Perdagangan, 1948*, difailkan dengan Majlis Perbandaran atau Pejabat
+Daerah.
 
-Seksyen 5(3) memerlukan nama, nama dahulu, umur jika di bawah 21 tahun, kewarganegaraan
-dan tempat kediaman bagi **semua** pemilik, rakan kongsi, ejen, pengurus dan sesiapa
-sahaja yang mempunyai kepentingan kewangan. Itu adalah pendedahan yang lebih luas
-berbanding apa yang diminta oleh Borang A SSM. Seksyen 5(4) pula memerlukan sebarang
-perubahan difailkan dalam masa **14 hari**.
+Seksyen 5(3) menghendaki nama, bekas nama, umur jika di bawah 21 tahun, kewarganegaraan dan
+tempat kediaman **semua** pemilik, rakan kongsi, ejen, pengurus dan sesiapa yang memegang
+kepentingan kewangan. Itu adalah pendedahan yang lebih luas daripada yang diminta oleh
+Borang A SSM. Seksyen 5(4) kemudiannya menghendaki perubahan difailkan dalam tempoh **14
+hari**.
 
-Borang yang sama digunakan untuk setiap jenis entiti — pemohon mengisytiharkan sama
-ada ia sebuah pemilikan tunggal, perkongsian, Sdn Bhd, syarikat awam, koperasi atau
-lain-lain. Dokumen sokongan untuk pemilik tunggal atau perkongsian: perjanjian sewa
-atau jual beli (atau surat persetujuan tuan tanah atau pemegang lesen sedia ada bagi
-premis kongsi), salinan kad pengenalan, dan bil cukai kadaran terkini. Salinan mesti
-disahkan oleh Pesuruhjaya Sumpah, majistret, JP atau kerani pelesenan.
+Borang yang sama digunakan untuk setiap jenis entiti — pemohon mengisytiharkan sama ada ia
+milikan tunggal individu, perkongsian, Sdn Bhd, syarikat awam, koperasi atau lain-lain.
+Dokumen sokongan bagi pemilik tunggal atau perkongsian: perjanjian sewaan atau perjanjian
+jual beli (atau surat kebenaran tuan tanah atau pemegang lesen sedia ada untuk premis yang
+dikongsi), salinan kad pengenalan, dan bil kadar taksiran terkini (*bil cukai kadaran*).
+Salinan mesti diakui sah oleh Pesuruhjaya Sumpah, majistret, JP atau kerani pelesenan.
 
-DBKK mengekalkan senarai dokumen berasingan untuk kedai runcit kampung: surat sokongan
+DBKK menyelenggara senarai dokumen berasingan bagi kedai runcit kampung: surat sokongan
 JKKK, pengesahan Ketua Kampung, salinan geran tanah dan pelan lokasi.
 
-## Sdn Bhd dan LLP kekal di bawah bidang kuasa persekutuan
+## Sdn Bhd dan LLP masih persekutuan
 
-Baik Companies Act 2016 mahupun Limited Liability Partnerships Act 2012 tidak
-mengandungi fasal had wilayah seperti yang terdapat dalam ROBA 1956 s.1(2).
-Kedua-duanya terpakai di seluruh negara.
+Baik Akta Syarikat 2016 mahupun Akta Perkongsian Liabiliti Terhad 2012 tidak mengandungi
+klausa had wilayah seperti yang ada pada ROBA 1956 dalam s.1(2). Kedua-duanya terpakai di
+seluruh negara.
 
-Borang permohonan DBKK menyelesaikan persoalan praktikal ini: pemohon Sdn Bhd
-melampirkan dokumen Companies Act 2016, manakala pemohon LLP melampirkan
-**Certificate of Registration PLT (Act 743)** dan profil LLP. Lesen berniaga itu wujud
-**di atas** pemerbadanan persekutuan. Ia tidak menggantikannya, dan pemerbadanan
-dengan SSM tidak membebaskan anda daripada s.3(1).
+Borang permohonan DBKK menjelaskan persoalan praktikal: pemohon Sdn Bhd menyertakan
+dokumen Akta Syarikat 2016nya, dan pemohon LLP menyertakan **Sijil Pendaftaran PLT (Akta
+743)** dan profil LLPnya. Lesen berniaga terletak **di atas** pemerbadanan persekutuan. Ia
+tidak menggantikannya, dan memerbadankan dengan SSM tidak melepaskan anda daripada s.3(1).
 
-## Lapisan-lapisan lain di Sabah
+## Lapisan-lapisan Sabah yang lain
 
-**Pas kerja.** Garis panduan pelesenan DBKK memerlukan pemohon menjadi penduduk
-tempatan atau pemastautin tetap Sabah, atau memegang pas kerja jika mereka berasal
-dari Sarawak atau Semenanjung Malaysia; warga asing pula mesti melalui sebuah syarikat
-berdaftar dan memegang pas. Borang itu mengulangi syarat ini bagi pengarah syarikat
-yang dinamakan sebagai pengurus lesen, dan bahagian banci di dalamnya membezakan
-*Warganegara Negeri Sabah* daripada *Bukan Warganegara Negeri Sabah*. Ini berpunca
-daripada autonomi imigresen Sabah di bawah Article 161E Perlembagaan Persekutuan dan
-Part VII Immigration Act 1959/63.
+**Pas kerja.** Garis panduan pelesenan DBKK menghendaki pemohon menjadi penduduk tempatan
+atau penduduk tetap Sabah, atau memegang pas kerja jika mereka dari Sarawak atau Semenanjung
+Malaysia; warga asing mesti melalui syarikat berdaftar dan memegang pas. Borang mengulangi
+perkara ini bagi pengarah syarikat yang dinamakan sebagai pengurus lesen, dan blok bancinya
+membezakan *Warganegara Negeri Sabah* daripada *Bukan Warganegara Negeri Sabah*. Ini
+berpunca daripada autonomi imigresen Sabah di bawah Perkara 161E Perlembagaan Persekutuan
+dan Bahagian VII Akta Imigresen 1959/63.
 
-**Lesen DBKK yang lain.** Lesen berniaga hanyalah satu daripada banyak lesen. DBKK
-turut mengeluarkan lesen komposit, lesen penjaja, lesen pengiklanan di bawah
-undang-undang kecil papan tanda 1983, lesen pusat kecantikan dan kesihatan, lesen
-hiburan awam di bawah Public Entertainments Ordinance 1958, dan lesen petroleum di
-bawah Petroleum Ordinance 1960, di samping undang-undang kecil yang meliputi premis
-makanan, hotel dan rumah tumpangan, perdagangan menyinggung, tukang gunting rambut,
-dobi dan kaki lima.
+**Lesen DBKK yang lain.** Lesen berniaga hanyalah satu daripada banyak. DBKK secara
+berasingan mengeluarkan lesen komposit, lesen penjaja, lesen pengiklanan di bawah undang-
+undang kecil papan tanda 1983, lesen pusat kecantikan dan kesihatan, lesen hiburan awam di
+bawah Ordinan Hiburan Awam 1958, dan lesen petroleum di bawah Ordinan Petroleum 1960,
+selain undang-undang kecil yang meliputi premis makanan, hotel dan rumah tumpangan,
+perdagangan menjijikkan, pendandan rambut, dobi dan kaki lima.
 
-**Cukai Jualan Negeri Sabah — mungkin bukan anda.** State Sales Tax Enactment 1998
-mengenakan cukai ke atas *barangan yang ditetapkan* yang dijual atau dibekalkan oleh
-seseorang yang menjalankan perniagaan di Sabah. Perintah kadar semasa menetapkan
-senarai komoditi yang sempit: 5% ke atas minyak petroleum mentah, kondensat, LNG, gas
-asli, ammonia, urea dan metanol mulai 1 February 2025, dan 5% ke atas emas dan perak
-yang dilombong di Sabah mulai 1 January 2025. Kedai, kafe atau firma perundingan Sabah
-yang biasa berada sepenuhnya di luar skop ini.
+**Cukai Jualan Negeri Sabah — mungkin bukan anda.** Enakmen Cukai Jualan Negeri 1998
+mengenakan cukai ke atas *barang yang ditetapkan* yang dijual atau dibekalkan oleh seseorang
+yang menjalankan perniagaan di Sabah. Perintah kadar semasa menetapkan senarai komoditi yang
+sempit: 5% ke atas minyak petroleum mentah, kondensat, LNG, gas asli, ammonia, urea dan
+metanol mulai 1 Februari 2025, dan 5% ke atas emas dan perak yang dilombong di Sabah mulai 1
+Januari 2025. Kedai, kafe atau perundingan Sabah biasa berada di luarnya sama sekali.
 
-**Labuan bukan Sabah.** Labuan telah dikecualikan daripada Negeri Sabah pada 16 April
-1984 melalui Federal Territory of Labuan Enactment 1984, dan ROBA 1956 dilanjutkan ke
-situ pada 15 March 1996. Oleh itu, seorang pemilik tunggal di Labuan *memang* perlu
-berdaftar dengan SSM. Jadual Kedua Cap. 144 masih menamakan Labuan sebagai kawasan
-lembaga bandaran — itu satu artifak sejarah yang mendahului pemisahan 1984, bukan
-bidang kuasa yang masih berkuat kuasa.
+**Labuan bukan Sabah.** Labuan dikeluarkan daripada Negeri Sabah pada 16 April 1984 melalui
+Enakmen Wilayah Persekutuan Labuan 1984, dan ROBA 1956 dilanjutkan kepadanya pada 15 Mac
+1996. Oleh itu, pemilik tunggal Labuan *memang* mendaftar dengan SSM. Jadual Kedua Bab 144
+masih menamakan Labuan sebagai kawasan lembaga bandaran — itu adalah artifak sejarah yang
+mendahului pengeluaran 1984, bukan bidang kuasa yang masih hidup.
 
 ## Kesilapan lazim
 
-- **Mendaftar di EzBiz untuk perniagaan Sabah.** ROBA 1956 tidak terpakai di Sabah;
-  sijil itu bukan instrumen yang dicari oleh pihak berkuasa pelesenan anda.
-- **Satu lesen untuk beberapa outlet.** Seksyen 3(2) memerlukan satu lesen bagi setiap
-  tempat perniagaan.
-- **Menganggap lesen itu sah selama 12 bulan.** Seksyen 6 menamatkan setiap lesen pada
-  31 December.
-- **Membajet kadar RM25 tambah RM10 DBKK di luar Kota Kinabalu.** Setiap pihak
-  berkuasa pelesenan menetapkan kadarnya sendiri dan kebanyakannya tidak menerbitkan
-  kadar itu.
-- **Menyangka pemerbadanan SSM sudah memadai.** Sebuah Sdn Bhd yang berniaga di Sabah
-  tanpa lesen berniaga masih melanggar s.3(1).
-- **Terlupa notifikasi perubahan dalam masa 14 hari** di bawah s.5(4) selepas rakan
-  kongsi, pengurus atau alamat berubah.
-- **Tidak memaparkan lesen.** Seksyen 12(1) memerlukan lesen dipamerkan di tempat yang
-  jelas di premis, dan s.12(2) membenarkan pegawai pentadbir dan polis memasuki
-  premis untuk pemeriksaan.
-- **Menghantar pengarah dari Semenanjung untuk menguruskan premis berlesen tanpa pas
-  kerja.**
+- **Mendaftar di EzBiz untuk perniagaan Sabah.** ROBA 1956 tidak menjangkau Sabah; sijil
+  itu bukan instrumen yang dicari oleh pihak berkuasa pelesenan anda.
+- **Satu lesen untuk beberapa cawangan.** Seksyen 3(2) menghendaki satu bagi setiap tempat
+  perniagaan.
+- **Menganggap lesen 12 bulan.** Seksyen 6 menamatkan setiap lesen pada 31 Disember.
+- **Membajet RM25 tambah RM10 DBKK di luar Kota Kinabalu.** Setiap pihak berkuasa pelesenan
+  menetapkan kadarnya sendiri dan kebanyakannya tidak menerbitkannya.
+- **Menyangka pemerbadanan SSM sudah memadai.** Sdn Bhd yang berniaga di Sabah tanpa lesen
+  berniaga masih melanggar s.3(1).
+- **Terlupa notifikasi perubahan 14 hari** di bawah s.5(4) selepas rakan kongsi, pengurus
+  atau alamat berubah.
+- **Tidak mempamerkan lesen.** Seksyen 12(1) menghendaki ia dipamerkan dengan jelas pada
+  premis, dan s.12(2) membenarkan pegawai pentadbir dan polis masuk untuk memeriksa.
+- **Menghantar pengarah Semenanjung untuk menguruskan premis berlesen tanpa pas kerja.**
 
-## Langkah seterusnya
+## Apa seterusnya
 
-Kenal pasti pihak berkuasa pelesenan anda berdasarkan alamat premis anda, kemudian
-tanya pihak berkuasa itu tentang bayaran dan senarai dokumen semasa, dan bukannya
-bergantung pada mana-mana artikel kebangsaan, termasuk artikel ini. Jika anda sedang
-membuat pemerbadanan, jalankan langkah SSM dan langkah Cap. 144 sebagai dua projek
-berasingan dengan dua pemilik berasingan — kedua-duanya bukan peringkat berurutan
-dalam satu proses, dan hanya satu daripadanya yang menjadikan pembukaan pintu
-perniagaan anda sah di sisi undang-undang.
+Kenal pasti pihak berkuasa pelesenan anda melalui alamat premis anda, kemudian tanyalah
+pihak berkuasa itu tentang fi dan senarai dokumen semasanya berbanding bekerja daripada
+mana-mana artikel kebangsaan, termasuk yang ini. Jika anda memerbadankan, lakukan langkah
+SSM dan langkah Bab 144 sebagai dua projek berasingan dengan dua pemilik berasingan — ia
+bukan peringkat berturutan dalam satu proses, dan hanya salah satu daripadanya menjadikannya
+sah untuk membuka pintu.

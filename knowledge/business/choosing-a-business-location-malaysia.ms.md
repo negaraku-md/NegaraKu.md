@@ -1,48 +1,46 @@
 ---
 topicId: MY-BIZ-0077
-title: "Where Should You Set Up in Malaysia? A Decision Framework"
-seoTitle: "Choosing a Business Location in Malaysia"
-socialTitle: "Most of what founders think they are choosing between when they pick a Malaysian city is national law. Here is what actually varies."
+title: "Di Mana Anda Patut Bermula di Malaysia? Rangka Kerja Keputusan"
+seoTitle: "Memilih Lokasi Perniagaan di Malaysia"
+socialTitle: "Kebanyakan perkara yang disangka pengasas sedang mereka pilih apabila memilih bandar di Malaysia sebenarnya undang-undang persekutuan. Inilah yang benar-benar berbeza."
 slug: "choosing-a-business-location-malaysia"
 category: "business"
 subcategory: ["locations"]
-summary: "Pembolehubah yang benar-benar berubah mengikut lokasi di Malaysia, disusun mengikut kedudukan — dan senarai yang jauh lebih panjang bagi perkara yang langsung tidak berubah."
+summary: "Pemboleh ubah yang benar-benar berubah mengikut lokasi di Malaysia, disusun mengikut keutamaan — dan senarai yang jauh lebih panjang tentang perkara yang langsung tidak berubah."
 
 tier: "1"
 mode: "practical"
 contentType: "guide"
 sensitivity: "none"
 
-answer: "Pemerbadanan, cukai korporat, gaji minimum, EPF, SOCSO dan undang-undang pekerjaan di Semenanjung Malaysia adalah persekutuan dan sama di seluruh negara, jadi ia tidak boleh menentukan jawapan kepada persoalan ini. Yang benar-benar berbeza ialah pihak berkuasa pelesenan dan undang-undang kecilnya, peraturan tanah negeri, kelayakan koridor dan zon, kumpulan tenaga kerja, logistik, dan yang paling penting sama ada anda berada di Semenanjung Malaysia, Sabah atau Sarawak, yang mengubah statut yang terpakai itu sendiri."
+answer: "Pemerbadanan, cukai korporat, gaji minimum, KWSP, PERKESO dan undang-undang pekerjaan di Semenanjung Malaysia adalah persekutuan dan serupa di mana-mana, jadi ia tidak boleh menentukan persoalan ini. Apa yang benar-benar berbeza ialah pihak berkuasa pelesenan dan undang-undang kecilnya, peraturan tanah negeri, kelayakan koridor dan zon, kumpulan buruh, logistik, dan yang paling penting, sama ada anda berada di Semenanjung Malaysia, Sabah atau Sarawak, yang mengubah statut yang mentadbir itu sendiri."
 keyTakeaways:
   - "Tiada cukai pendapatan korporat negeri di Malaysia — memilih sesebuah negeri tidak mengubah kadar cukai anda"
-  - "Gaji minimum adalah kebangsaan pada RM1,700 sebulan di bawah Perintah Gaji Minimum 2024, P.U.(A) 376"
-  - "Akta Pendaftaran Perniagaan 1956 s.1(2) terpakai kepada Semenanjung Malaysia sahaja — Sarawak menjalankan tiga lesen berasingan dan tiada satu pun daripadanya adalah pendaftaran SSM"
-  - "Akta Kerajaan Tempatan 1976 hanya memberikan kuasa untuk melesenkan; kewajipan itu terletak pada undang-undang kecil majlis masing-masing"
+  - "Gaji minimum adalah nasional pada RM1,700 sebulan di bawah Perintah Gaji Minimum 2024, P.U.(A) 376"
+  - "Akta Pendaftaran Perniagaan 1956 s.1(2) terpakai kepada Semenanjung Malaysia sahaja — Sarawak menjalankan tiga lesen berasingan dan tiada satu pun daripadanya ialah pendaftaran SSM"
+  - "Akta Kerajaan Tempatan 1976 hanya membekalkan kuasa untuk melesen; kewajipan itu terletak dalam undang-undang kecil setiap majlis"
   - "Tiada pihak berkuasa koridor boleh memberikan insentif cukai — Akta 687 s.6(e) dan Akta 664 s.5(e) mengehadkan mereka kepada mengesyorkan sahaja"
-  - "Ambang modal berbayar RM250,000 hingga RM1,000,000 adalah kriteria Imigresen untuk mengambil ekspatriat, bukan undang-undang syarikat"
-  - "Bagi kebanyakan penjual e-dagang, satu-satunya pembolehubah lokasi yang sebenar ialah majlis mana yang mengeluarkan lesen premis"
-appliesTo: "Pengasas dan pelabur yang sedang membuat keputusan di mana di Malaysia untuk menempatkan syarikat, kilang, pejabat atau perniagaan dalam talian yang baharu."
+  - "Ambang modal berbayar RM250,000 hingga RM1,000,000 ialah kriteria Imigresen untuk mengambil ekspatriat, bukan undang-undang syarikat"
+  - "Bagi kebanyakan penjual e-dagang, satu-satunya pemboleh ubah lokasi yang benar ialah majlis mana yang mengeluarkan lesen premis"
+appliesTo: "Pengasas dan pelabur yang membuat keputusan di mana di Malaysia untuk menempatkan syarikat, kilang, pejabat atau perniagaan dalam talian yang baharu."
 
 faq:
-  - q: "Negeri Malaysia manakah yang mempunyai cukai syarikat paling rendah?"
-    a: "Tiada satu pun, kerana tiada cukai pendapatan korporat negeri. Cukai syarikat dikenakan secara persekutuan di bawah Akta Cukai Pendapatan 1967 dan kadarnya sama di setiap negeri dan wilayah persekutuan. Satu-satunya rejim cukai yang benar-benar berbeza ialah Labuan, yang tertakluk kepada statutnya sendiri, Akta Cukai Aktiviti Perniagaan Labuan 1990, dan ini merupakan perubahan rejim undang-undang dan bukannya perubahan alamat."
+  - q: "Negeri Malaysia manakah yang mempunyai cukai syarikat terendah?"
+    a: "Tiada satu pun daripadanya, kerana tiada cukai pendapatan korporat negeri. Cukai syarikat dikenakan secara persekutuan di bawah Akta Cukai Pendapatan 1967 dan kadarnya sama di setiap negeri dan wilayah persekutuan. Satu-satunya rejim cukai yang benar-benar berbeza ialah Labuan, yang berada di bawah statutnya sendiri, Akta Cukai Aktiviti Perniagaan Labuan 1990, dan merupakan perubahan rejim undang-undang berbanding perubahan alamat."
   - q: "Adakah lebih murah untuk mengambil pekerja di luar Kuala Lumpur?"
-    a: "Minimum berkanun tidak berubah. Perintah Gaji Minimum 2024, P.U.(A) 376, menetapkan RM1,700 sebulan dan RM8.72 sejam secara kebangsaan, dan penangguhan majikan kecil kepada RM1,500 tamat pada 31 Julai 2025. Kadar EPF, SOCSO dan EIS adalah persekutuan. Gaji pasaran memang berbeza antara lokasi, tetapi itu adalah fakta pasaran buruh dan bukannya fakta undang-undang, dan ia harus diteliti sebagai sedemikian."
+    a: "Minimum berkanun tidak berubah. Perintah Gaji Minimum 2024, P.U.(A) 376, menetapkan RM1,700 sebulan dan RM8.72 sejam secara nasional, dan penangguhan majikan kecil kepada RM1,500 tamat pada 31 Julai 2025. Kadar KWSP, PERKESO dan SIP adalah persekutuan. Gaji pasaran memang berbeza antara lokasi, tetapi itu ialah fakta pasaran buruh dan bukannya fakta undang-undang, dan ia patut dikaji sedemikian."
   - q: "Adakah menubuhkan perniagaan di Sabah atau Sarawak sama seperti di Semenanjung Malaysia?"
-    a: "Tidak, kecuali bagi syarikat itu sendiri. Sebuah Sdn Bhd adalah persekutuan dan sama di seluruh negara. Segala-galanya yang membalut syarikat itu tidak sedemikian: pendaftaran pemilikan tunggal dan perkongsian, undang-undang buruh, kerajaan tempatan dan imigresen semuanya berjalan atas instrumen Malaysia Timur yang berasingan. Sarawak khususnya memerlukan Pendaftaran Nama Perniagaan di bawah Business Names Ordinance Cap 64 (1958 Ed.), Lesen Perdagangan di bawah Cap 33 (1958 Ed.) dan Lesen Operasi majlis."
+    a: "Tidak untuk apa-apa kecuali syarikat itu sendiri. Sebuah Sdn Bhd adalah persekutuan dan serupa di mana-mana. Segala yang membungkusnya tidak: pendaftaran pemilik tunggal dan perkongsian, undang-undang buruh, kerajaan tempatan dan imigresen semuanya berjalan atas instrumen Malaysia Timur yang berasingan. Sarawak khususnya memerlukan Pendaftaran Nama Perniagaan di bawah Ordinan Nama Perniagaan Bab 64 (Ed. 1958), Lesen Perdagangan di bawah Bab 33 (Ed. 1958) dan Lesen Operasi majlis."
   - q: "Patutkah saya memilih lokasi untuk mendapatkan insentif koridor?"
-    a: "Hanya jika anda sudah memegang kelulusan bertulis. Kelima-lima pihak berkuasa koridor tidak boleh memberikan insentif cukai — NCIA Act 2008 s.6(e) dan IRDA Act 2007 s.5(e) mengehadkan mereka kepada mengesyorkan sahaja, dan pemberian itu terletak pada Menteri Kewangan melalui MIDA dan Jawatankuasa Pelaburan Kebangsaan. Beberapa rejim utama juga langsung tiada perintah kadar yang diwartakan, jadi tiada apa-apa yang boleh dituntut."
+    a: "Hanya jika anda sudah memegang kelulusan bertulis. Lima pihak berkuasa koridor tidak boleh memberikan insentif cukai — Akta NCIA 2008 s.6(e) dan Akta IRDA 2007 s.5(e) mengehadkan mereka kepada mengesyorkan, dan pemberian itu terletak pada Menteri Kewangan melalui MIDA dan Jawatankuasa Kebangsaan Pelaburan. Beberapa rejim utama juga langsung tiada perintah kadar yang diwartakan, jadi tiada apa untuk dituntut."
   - q: "Adakah lokasi penting bagi perniagaan dalam talian?"
-    a: "Hampir tidak, dan bukan dengan cara yang orang jangkakan. Tiada lesen e-dagang persekutuan — Panduan Pelesenan MCMC sendiri menganggap perkhidmatan transaksi elektronik dan interaktif sebagai dikecualikan, dan peniaga yang mempunyai kedai maya di pasaran dalam talian adalah pengguna akhir dan bukannya pemegang lesen. Apa yang masih mengikat anda ialah lesen premis bagi lokasi sebenar anda beroperasi, termasuk rumah anda sendiri, dan itu dikeluarkan oleh majlis tempatan yang yuran dan syaratnya berbeza-beza."
-  - q: "Berapakah modal berbayar yang saya perlukan di sesebuah negeri tertentu?"
-    a: "Negeri langsung tiada kaitan dengannya. Akta Syarikat 2016 tidak mengenakan sebarang modal berbayar minimum — s.9 hanya memerlukan satu atau lebih saham dan s.14(3) tidak menyenaraikan jumlah modal antara butiran pemerbadanan. Angka RM250,000, RM350,000, RM500,000 dan RM1,000,000 yang beredar adalah kriteria Bahagian Perkhidmatan Ekspatriat, Jabatan Imigresen, untuk mendaftarkan syarikat bagi menaja Pas Kerja."
+    a: "Hampir tidak, dan bukan dengan cara yang orang jangkakan. Tiada lesen e-dagang persekutuan — Buku Panduan Pelesenan MCMC sendiri menganggap perkhidmatan transaksi elektronik dan interaktif sebagai dikecualikan, dan peniaga yang mempunyai kedai di pasaran ialah pengguna akhir dan bukannya pemegang lesen. Apa yang masih mengikat anda ialah lesen premis untuk di mana sahaja anda benar-benar beroperasi, termasuk rumah anda, dan ia dikeluarkan oleh majlis tempatan yang yuran dan syaratnya berbeza."
+  - q: "Berapa banyak modal berbayar yang saya perlukan di sesebuah negeri tertentu?"
+    a: "Negeri itu tidak ada kaitan dengannya. Akta Syarikat 2016 tidak mengenakan modal berbayar minimum — s.9 memerlukan satu atau lebih syer dan s.14(3) tidak menyenaraikan jumlah modal antara butiran pemerbadanan. Angka RM250,000, RM350,000, RM500,000 dan RM1,000,000 yang beredar ialah kriteria Bahagian Perkhidmatan Ekspatriat Jabatan Imigresen untuk mendaftarkan syarikat bagi menaja Pas Penggajian."
 
 verificationNeeded:
   - "Market wage differentials between Malaysian states are not verified here against DOSM salary and wages data — treat any wage-gap claim as a research task, not a published rule."
-  - "Industrial land premiums, quit rent and assessment rates are set state by state and council by council; no national schedule exists and none is asserted here."
   - "DBKL's business licensing guideline could not be retrieved — its licensing guidelines PDF sits behind a download control with no exposed URL, so Federal Territory conditions must not be inferred from Selangor's published guideline."
-  - "Whether a further amendment to the Minimum Wages Order 2024 has been gazetted since the review announced in 2026 — no 2026 Order was located."
   - "Sabah's carve-out list under the Labour Ordinance of Sabah (Amendment) Act 2025 (Act A1753) could not be read; the hosted PDF returns a 404."
 
 lang: "ms"
@@ -53,16 +51,21 @@ sourceContentHash: "4b43de8c2a7470d1"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+reviewed: 2026-08-14
+reviewDue: 2027-07-22
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-20
     change: "Initial draft. Pillar for the location cluster."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-07-20
+updated: 2026-08-14
 sources:
   - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
@@ -99,6 +102,15 @@ sources:
     url: "https://www.mcmc.gov.my/skmmgovmy/media/General/Licence/2025/MCMC_Licensing-Guidebook_150425.pdf"
     publisher: "Malaysian Communications and Multimedia Commission"
     date: "2025-04-15"
+  - title: "Portal Gaji Minimum — current national minimum wage RM1,700 / RM8.72 under P.U.(A) 376 (2024); no later Order gazetted"
+    url: "https://gajiminimum.mohr.gov.my/"
+    publisher: "Ministry of Human Resources (KESUMA/MOHR)"
+  - title: "Quit Rent (Cukai Tanah) rates in each Malaysian state — state-by-state guide"
+    url: "https://www.propertyguru.com.my/property-guides/quit-rent-cukai-tanah-rates-in-each-malaysian-state-30634"
+    publisher: "PropertyGuru Malaysia"
+  - title: "Act A1754 — Labour Ordinance of Sarawak (Amendment) Act 2025 (s.73 substitutes First Schedule, disapplying the 'normal hours of work' and 'overtime' definitions above RM4,000/month)"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2790645_BI/Act%20A1754%20LABOUR%20ORDINANCE%20OF%20SARAWAK%20(AMENDMENT)%20ACT%202025.pdf"
+    publisher: "Attorney General's Chambers"
 
 entity: "Business location choice in Malaysia"
 relations:
@@ -124,313 +136,300 @@ related:
   - "online-business-licence-malaysia"
   - "paid-up-capital-foreign-company"
 keywords:
-  - "di mana untuk menubuhkan perniagaan di Malaysia"
-  - "negeri terbaik untuk memulakan perniagaan Malaysia"
-  - "lokasi perniagaan Malaysia"
-  - "perniagaan Kuala Lumpur berbanding Pulau Pinang berbanding Johor"
-  - "perbezaan penubuhan perniagaan Sabah Sarawak"
-  - "insentif koridor ekonomi Malaysia mengikut lokasi"
+  - "where to set up business Malaysia"
+  - "best state to start a business Malaysia"
+  - "business location Malaysia"
+  - "Kuala Lumpur vs Penang vs Johor business"
+  - "Sabah Sarawak business setup difference"
+  - "Malaysia economic corridor incentives location"
 ---
 
-Persoalan itu sentiasa tiba dalam bentuk yang sudah terbentuk sepenuhnya. *Kuala Lumpur,
-Pulau Pinang atau Johor?* Kadangkala dengan hamparan data yang disertakan, membandingkan
-sewa pejabat dan sambungan lapangan terbang serta satu lajur berlabel *cukai*.
+Persoalan itu sentiasa tiba dalam bentuk yang lengkap. *Kuala Lumpur, Pulau Pinang atau
+Johor?* Kadangkala dengan hamparan data yang dilampirkan, membandingkan sewa pejabat dan
+sambungan lapangan terbang serta satu lajur berlabel *cukai*.
 
-Lajur itu kosong, begitu juga kebanyakan lajur yang lain. Sebahagian besar daripada apa
-yang disangka pengasas sedang mereka pilih apabila memilih sebuah bandar Malaysia
-sebenarnya adalah undang-undang persekutuan yang mengikuti mereka ke mana sahaja mereka
-pergi. Memadamkan baris-baris itu adalah cara paling pantas untuk sampai kepada keputusan
-sebenar, yang biasanya bergantung kepada dua atau tiga pembolehubah sahaja dan bukannya
-lima belas.
+Lajur itu kosong, dan begitu juga kebanyakan yang lain. Sebahagian besar daripada apa yang
+dipercayai oleh seorang pengasas sedang mereka pilih apabila mereka memilih sebuah bandar
+di Malaysia sebenarnya undang-undang persekutuan yang mengikuti mereka ke mana sahaja
+mereka pergi. Memadamkan baris-baris itu ialah cara terpantas untuk sampai kepada keputusan
+sebenar, yang biasanya bergantung pada dua atau tiga pemboleh ubah dan bukannya lima belas.
 
-## Apakah yang sama di seluruh Malaysia?
+## Apa yang serupa di mana-mana di Malaysia?
 
-Mulakan di sini, kerana ia menghapuskan sebahagian besar hamparan data itu.
+Mulakan di sini, kerana ia menghapuskan kebanyakan hamparan data itu.
 
-**Pemerbadanan.** Hanya ada satu daftar syarikat, dikendalikan oleh SSM di bawah Akta
-Syarikat 2016. Sebuah Sdn Bhd yang diperbadankan di Kuching tidak dapat dibezakan dari
-segi undang-undang dengan yang diperbadankan di Cyberjaya. Tiada daftar syarikat negeri,
-tiada piagam negeri, dan tiada varian tempatan bagi perlembagaan syarikat atau struktur
-saham.
+**Pemerbadanan.** Terdapat satu daftar syarikat, dikendalikan oleh SSM di bawah Akta
+Syarikat 2016. Sebuah Sdn Bhd yang diperbadankan di Kuching secara undang-undang tidak
+dapat dibezakan daripada yang diperbadankan di Cyberjaya. Tiada daftar syarikat negeri,
+tiada piagam negeri, dan tiada varian tempatan bagi perlembagaan atau struktur syer.
 
-**Cukai korporat.** Dikenakan secara persekutuan di bawah Akta Cukai Pendapatan 1967.
-Tiada cukai pendapatan korporat negeri di mana-mana pun di Malaysia. Berpindah dari
-Selangor ke Kedah tidak mengubah kadar cukai anda, kewajipan ansuran anda di bawah
-s.107C, atau tarikh akhir pemfailan anda.
+**Cukai korporat.** Dikenakan secara persekutuan di bawah Akta Cukai Pendapatan 1967. Tiada
+cukai pendapatan korporat negeri di mana-mana di Malaysia. Berpindah dari Selangor ke Kedah
+tidak mengubah kadar anda, kewajipan ansuran anda di bawah s.107C, atau tarikh akhir
+pemfailan anda.
 
-**Gaji minimum.** Perintah Gaji Minimum 2024, P.U.(A) 376, diwartakan pada 4 Disember
-2024, menetapkan **RM1,700 sebulan dan RM8.72 sejam** secara kebangsaan. Penangguhan yang
-membenarkan majikan kecil kekal pada RM1,500 hanya berjalan dari 1 Februari hingga
-31 Julai 2025; perenggan 5 membawa semua orang kepada RM1,700 mulai 1 Ogos 2025. Ia
-adalah satu angka untuk seluruh negara.
+**Gaji minimum.** Perintah Gaji Minimum 2024, P.U.(A) 376, diwartakan 4 Disember 2024,
+menetapkan **RM1,700 sebulan dan RM8.72 sejam** secara nasional. Penangguhan yang
+membolehkan majikan kecil kekal pada RM1,500 hanya berjalan dari 1 Februari hingga 31 Julai
+2025; perenggan 5 membawa semua orang ke RM1,700 mulai 1 Ogos 2025. Ia satu angka untuk
+seluruh negara.
 
-**EPF, SOCSO dan EIS.** Statut persekutuan, kadar persekutuan, tarikh kiriman wang
-persekutuan. Kelompok Jadual Ketiga EPF dan siling gaji SOCSO sebanyak RM6,000 tidak
+**KWSP, PERKESO dan SIP.** Statut persekutuan, kadar persekutuan, tarikh kiriman
+persekutuan. Jalur Jadual Ketiga KWSP dan siling gaji PERKESO sebanyak RM6,000 tidak
 berbeza mengikut negeri.
 
-**Undang-undang pekerjaan di Semenanjung Malaysia.** Akta Kerja 1955 terpakai secara sama
-rata di sebelas negeri Semenanjung dan wilayah-wilayah persekutuan. Ujian liputan Jadual
-Pertama, minggu bekerja 45 jam dalam s.60A(1) dan kadar kerja lebih masa adalah sama di
-Kangar seperti di Johor Bahru.
+**Undang-undang pekerjaan di Semenanjung Malaysia.** Akta Kerja 1955 terpakai secara serupa
+di seluruh sebelas negeri Semenanjung dan wilayah persekutuan. Ujian liputan Jadual
+Pertama, minggu 45 jam dalam s.60A(1) dan kadar kerja lebih masa adalah sama di Kangar
+seperti di Johor Bahru.
 
-**Pelesenan sektor persekutuan.** Lesen pengilangan, lesen MCMC, kelulusan Bank Negara
-atau kelulusan perdagangan pengedaran KPDN diberikan atas terma yang sama tanpa mengira
-di mana pemohon berada.
+**Pelesenan sektor persekutuan.** Lesen pembuatan, lesen MCMC, kelulusan Bank Negara atau
+kelulusan perdagangan pengedaran KPDN diberikan atas terma yang sama tanpa mengira di mana
+pemohon berada.
 
-Jadi ringkasan yang jujur ialah **cukai, gaji, caruman berkanun, hak pekerjaan dan
-undang-undang syarikat langsung bukan pembolehubah lokasi.** Sesiapa yang menjual anda
-sesebuah negeri atas alasan tersebut sebenarnya sedang menjual sesuatu yang lain.
+Jadi rumusan yang jujur ialah **cukai, gaji, caruman berkanun, kelayakan pekerjaan dan
+undang-undang syarikat bukan pemboleh ubah lokasi sama sekali.** Sesiapa yang menjual anda
+sebuah negeri atas alasan itu sedang menjual sesuatu yang lain.
 
-Satu-satunya pengecualian sebenar ialah **Labuan**, yang bukan begitu banyak pilihan
-lokasi sebaliknya lebih kepada pilihan rejim. Ia tertakluk kepada Akta Cukai Aktiviti
-Perniagaan Labuan 1990 dan bukannya Akta Cukai Pendapatan 1967, dan ia membawa syarat
-substans yang tiada kaitan dengan geografi dalam erti kata biasa.
+Satu-satunya pengecualian sebenar ialah **Labuan**, yang bukan pilihan lokasi sebaliknya
+pilihan rejim. Ia berada di bawah Akta Cukai Aktiviti Perniagaan Labuan 1990 dan bukannya
+Akta Cukai Pendapatan 1967, dan ia membawa syarat substans yang tiada kaitan dengan geografi
+dalam erti kata biasa.
 
-## Apakah yang sebenarnya berbeza, dan sejauh mana?
+## Apa yang benar-benar berbeza, dan sebanyak mana?
 
-Enam perkara. Ia tidak diberi bobot yang sama, dan susunannya penting.
+Enam perkara. Ia tidak seimbang beratnya, dan susunannya penting.
 
-| Kedudukan | Pembolehubah | Mengapa ia mengubah jawapan | Ditentukan oleh |
+| Kedudukan | Pemboleh ubah | Mengapa ia mengubah jawapan | Ditentukan oleh |
 | --- | --- | --- | --- |
 | 1 | Semenanjung, Sabah atau Sarawak | Mengubah statut mana yang terpakai | Perlembagaan Persekutuan dan ordinan Malaysia Timur |
 | 2 | Majlis tempatan yang mana | Menentukan lesen premis anda, kosnya dan syaratnya | Undang-undang kecil majlis di bawah Akta Kerajaan Tempatan 1976 |
 | 3 | Penetapan koridor atau zon | Menentukan kelayakan insentif, tetapi hanya dengan kelulusan di tangan | Menteri Kewangan, melalui MIDA dan NCI |
 | 4 | Peraturan tanah negeri | Pegangan, penukaran, kebenaran pemerolehan asing | Pihak Berkuasa Negeri |
-| 5 | Kumpulan tenaga kerja | Kekangan mengikat bagi kebanyakan firma perkhidmatan | Pasaran |
-| 6 | Logistik | Pelabuhan, lapangan terbang, jalan raya, kuasa elektrik | Pasaran |
+| 5 | Kumpulan buruh | Kekangan yang mengikat bagi kebanyakan firma perkhidmatan | Pasaran |
+| 6 | Logistik | Pelabuhan, lapangan terbang, jalan raya, kuasa | Pasaran |
 
-Segala-galanya yang lain pada helaian perbandingan biasa akhirnya kembali kepada salah
-satu daripada enam ini, atau kepada tiada apa-apa.
+Segala yang lain pada lembaran perbandingan biasa berbalik kepada salah satu daripada enam
+ini, atau kepada tiada apa-apa.
 
 ## Mengapa Semenanjung, Sabah atau Sarawak menjadi persoalan pertama?
 
-Kerana ia satu-satunya pembolehubah yang mengubah **statut** itu sendiri, bukan sekadar
-cara ia dikuatkuasakan. Kebanyakan pengasas menganggapnya sebagai persoalan tahap akhir
-tentang penerbangan dan zon waktu. Sebenarnya ia adalah persoalan pertama.
+Kerana ia satu-satunya pemboleh ubah yang mengubah **statut**, bukan sekadar
+penggunaannya. Kebanyakan pengasas menganggapnya sebagai persoalan peringkat akhir tentang
+penerbangan dan zon waktu. Ia persoalan pertama.
 
-**Pendaftaran pemilikan tunggal dan perkongsian.** Akta Pendaftaran Perniagaan 1956
-s.1(2) menyatakan bahawa Akta itu terpakai kepada Semenanjung Malaysia sahaja. Perkataan
-*Sarawak* tidak muncul langsung dalam Akta 197. Oleh itu, perusahaan Sarawak bukan
-pendaftaran SSM sama sekali. Ia berjalan atas tiga instrumen berasingan:
+**Pendaftaran pemilik tunggal dan perkongsian.** Akta Pendaftaran Perniagaan 1956 s.1(2)
+menyatakan bahawa Akta itu terpakai kepada Semenanjung Malaysia sahaja. Perkataan *Sarawak*
+muncul sifar kali dalam Akta 197. Sebuah perusahaan Sarawak oleh itu bukan pendaftaran SSM
+langsung. Ia berjalan atas tiga instrumen berasingan:
 
 | Lesen | Instrumen | Dikeluarkan oleh |
 | --- | --- | --- |
-| Pendaftaran Nama Perniagaan | Business Names Ordinance Cap 64 (1958 Ed.) | LHDN atau Pejabat Daerah |
-| Lesen Perdagangan | Businesses, Professions and Trades Licensing Ordinance Cap 33 (1958 Ed.) | Kolektor, dengan Pegawai Daerah sebagai Timbalan Kolektor |
-| Lesen Operasi | undang-undang kecil Local Authorities Ordinance Cap 20 | majlis tempatan |
+| Pendaftaran Nama Perniagaan | Ordinan Nama Perniagaan Bab 64 (Ed. 1958) | LHDN atau Pejabat Daerah |
+| Lesen Perdagangan | Ordinan Pelesenan Perniagaan, Profesion dan Perdagangan Bab 33 (Ed. 1958) | Pemungut, dengan Pegawai Daerah sebagai Timbalan Pemungut |
+| Lesen Operasi | Undang-undang kecil Ordinan Pihak Berkuasa Tempatan Bab 20 | majlis tempatan |
 
-Dua pembetulan yang perlu dibawa terus. Cap 64 **langsung tiada mekanisme pembaharuan**
-— pembaharuan tahunan yang sering diperkatakan secara meluas di pasaran sebenarnya
-adalah lesen perdagangan Cap 33, sebuah dokumen yang berbeza. Dan s.3(4) Cap 33
-menyatakan secara jelas bahawa memegang lesen perdagangan tidak melepaskan sebarang
-liabiliti pelesenan yang lain, jadi ketiga-tiganya bertindih dan bukan saling
-menggantikan.
+Dua pembetulan yang patut dibawa. Bab 64 **langsung tiada mekanisme pembaharuan** —
+pembaharuan tahunan yang digambarkan secara meluas dalam pasaran ialah lesen perdagangan
+Bab 33, satu dokumen yang berbeza. Dan s.3(4) Bab 33 menyatakan secara jelas bahawa
+memegang lesen perdagangan tidak melepaskan sebarang liabiliti pelesenan lain, jadi
+ketiga-tiganya bertindan dan bukannya menggantikan.
 
-**Undang-undang buruh.** Semenanjung Malaysia menggunakan Akta Kerja 1955. Sabah
-menggunakan Labour Ordinance Cap 67 dan Sarawak Labour Ordinance Cap 76, kedua-duanya
-dipinda pada 2025 masing-masing melalui Akta A1753 dan A1754 dan berkuat kuasa mulai
-1 Mei 2025 kecuali Bahagian IVA. Jadual Pertama gantian Sarawak adalah **berbeza dari
-segi struktur**: ia mengetepikan definisi s.2 bagi waktu bekerja biasa dan kerja lebih
-masa, bersama satu senarai peruntukan lain. Tiada pemetaan seksyen demi seksyen, jadi
-matriks pematuhan Semenanjung tidak boleh dicari-dan-ganti merentasinya.
+**Undang-undang buruh.** Semenanjung Malaysia menggunakan Akta Kerja 1955. Sabah menggunakan
+Ordinan Buruh Bab 67 dan Sarawak Ordinan Buruh Bab 76, kedua-duanya dipinda pada 2025 oleh
+Akta A1753 dan A1754 masing-masing dan berkuat kuasa mulai 1 Mei 2025 kecuali Bahagian IVA.
+Jadual Pertama pengganti Sarawak **berbeza dari segi struktur**: ia menyahguna pakai takrif
+s.2 tentang waktu bekerja biasa dan kerja lebih masa, bersama-sama senarai peruntukan lain.
+Tiada pemetaan seksyen-untuk-seksyen, jadi matriks pematuhan Semenanjung tidak boleh disalin
+dan ganti merentasinya.
 
-**Kerajaan tempatan.** Akta Kerajaan Tempatan 1976 s.1(1) hanya terpakai kepada
-Semenanjung Malaysia. Sabah dan Sarawak melesenkan di bawah ordinan mereka sendiri, dan
-itulah juga sebabnya garis panduan perniagaan dari rumah peringkat kebangsaan merujuk
-kepada Local Authorities Ordinance 1969 bagi Sarawak dan Ordinan Kerajaan Tempatan 1961
-bagi Sabah.
+**Kerajaan tempatan.** Akta Kerajaan Tempatan 1976 s.1(1) meliputi Semenanjung Malaysia
+sahaja. Sabah dan Sarawak melesen di bawah ordinan mereka sendiri, yang juga sebabnya garis
+panduan perniagaan dari rumah nasional memetik Ordinan Pihak Berkuasa Tempatan 1969 untuk
+Sarawak dan Ordinan Kerajaan Tempatan 1961 untuk Sabah.
 
 **Imigresen.** Sabah dan Sarawak mengekalkan autonomi imigresen. Di bawah Akta Imigresen
-1959/63, s.65 adalah kuasa arahan negeri dan s.66 adalah sekatan warganegara — lazimnya
-dinyatakan secara terbalik. Pada praktiknya, Sarawak menjalankan saluran Pas Kerja
-sendiri melalui GENESIS dengan gaji minimum RM3,000 sebulan, dan bukannya jalur ESD
-persekutuan.
+1959/63, s.65 ialah kuasa arahan negeri dan s.66 ialah sekatan warganegara — lazimnya
+dinyatakan sebaliknya. Dalam amalan Sarawak menjalankan saluran Pas Penggajiannya sendiri
+melalui GENESIS dengan gaji minimum RM3,000 sebulan, dan bukannya jalur ESD persekutuan.
 
-Syarikat itu kekal sama. Segala-galanya di sekelilingnya berubah.
+Syarikat itu kekal sama. Segala yang mengelilinginya berubah.
 
-## Pihak berkuasa manakah yang sebenarnya akan melesenkan anda?
+## Pihak berkuasa mana yang benar-benar akan melesen anda?
 
-Setelah wilayah ditetapkan, persoalan operatif bukan *negeri mana* tetapi **majlis
-mana**, kerana di situlah lesen itu berada.
+Sebaik sahaja wilayah diselesaikan, persoalan operatifnya bukan *negeri mana* tetapi
+**majlis mana**, kerana di situlah lesen itu berada.
 
-Akta Kerajaan Tempatan 1976 hanya memberikan kuasa itu. Seksyen 102 membolehkan majlis
-membuat undang-undang kecil pelesenan; s.107 mentadbir yuran, syarat dan tempoh sah
-laku. Kewajipan itu sendiri diwujudkan oleh undang-undang kecil majlis masing-masing,
-itulah sebabnya dokumen, yuran, tempoh sah laku dan pembungkusan komposit berbeza dengan
-ketara antara DBKL, MBPJ, MBSA dan DBKK. Tiga peruntukan membentuk risiko itu: s.107(2)
-membolehkan lesen majlis dibatalkan pada bila-bila masa **tanpa perlu menyatakan
-sebarang sebab**, s.107(3) membenarkan keengganan memperbaharui atas terma yang sama,
-dan s.107(4) mengehadkan tempoh sah laku kepada tiga tahun.
+Akta Kerajaan Tempatan 1976 hanya membekalkan kuasa. Seksyen 102 membolehkan majlis membuat
+undang-undang kecil pelesenan; s.107 mentadbir yuran, syarat dan tempoh. Kewajipan itu
+sendiri diwujudkan oleh undang-undang kecil setiap majlis, yang menjadi sebabnya dokumen,
+yuran, kesahan dan pembundelan komposit berbeza dengan ketara antara DBKL, MBPJ, MBSA dan
+DBKK. Tiga peruntukan membentuk risiko: s.107(2) menjadikan lesen majlis boleh dibatalkan
+pada bila-bila masa **tanpa memberikan sebarang sebab**, s.107(3) membenarkan keengganan
+untuk membaharui atas terma yang sama, dan s.107(4) mengehadkan kesahan kepada tiga tahun.
 
-DBKL melesenkan di bawah P.U.(A) 230/2016, yang undang-undang kecil 3(1)-nya menjadikan
-kebenaran perancangan sebagai prasyarat, jadi di wilayah persekutuan susunan urutannya
-lebih ketat daripada yang dijangkakan pengasas.
+DBKL melesen di bawah P.U.(A) 230/2016, yang undang-undang kecil 3(1)-nya menjadikan
+kebenaran perancangan sebagai prasyarat, jadi di wilayah persekutuan urutannya lebih ketat
+daripada yang dijangka pengasas.
 
-Perniagaan berasaskan rumah dan dalam talian ditadbir oleh sebuah garis panduan
-kebangsaan, *Garis Panduan Kawal Selia Perniagaan Dari Rumah*, yang diedarkan kepada
-setiap pihak berkuasa tempatan sebagai Pekeliling KSU KPKT Bil. 3 Tahun 2024 dan
-bersandarkan s.107(1) Akta 171. Majlis **boleh memperketatkan tetapi tidak boleh
-melonggarkan** garis panduan itu. Selangor adalah satu-satunya peringkat yang
-menerbitkan yuran: RM100 untuk lesen sementara, RM200 setahun untuk lesen perniagaan,
-RM50 untuk menambah aktiviti dalam talian pada lesen komersial sedia ada. Jangan bawa
-angka-angka itu merentasi sempadan. DBKL beroperasi di bawah undang-undang Wilayah
+Perniagaan berasaskan rumah dan dalam talian ditadbir oleh garis panduan nasional, *Garis
+Panduan Kawal Selia Perniagaan Dari Rumah*, diedarkan kepada setiap pihak berkuasa tempatan
+sebagai Pekeliling KSU KPKT Bil. 3 Tahun 2024 dan bersandar pada s.107(1) Akta 171. Majlis
+**boleh mengetatkan tetapi tidak boleh melonggarkan** ia. Selangor ialah satu-satunya
+peringkat yang menerbitkan yuran: RM100 untuk lesen sementara, RM200 setahun untuk lesen
+perniagaan, RM50 untuk menambah aktiviti dalam talian pada lesen komersial sedia ada. Jangan
+bawa angka-angka itu merentasi sempadan. DBKL beroperasi di bawah undang-undang Wilayah
 Persekutuan dan syaratnya tidak dapat disahkan.
 
-Jadi sempadan yang menentukan lesen anda adalah **sempadan majlis**, bukan sempadan
-negeri. Alamat Petaling Jaya dan alamat Kuala Lumpur yang berjarak lima kilometer sahaja
-tertakluk kepada undang-undang kecil yang berbeza, jadual yuran yang berbeza dan
-peraturan susunan yang berbeza.
+Jadi sempadan yang menentukan lesen anda ialah **sempadan majlis**, bukan sempadan negeri.
+Sebuah alamat Petaling Jaya dan sebuah alamat Kuala Lumpur yang lima kilometer terpisah
+berada di bawah undang-undang kecil yang berbeza, jadual yuran yang berbeza dan peraturan
+urutan yang berbeza.
 
-## Adakah insentif koridor benar-benar mengubah di mana anda sepatutnya berada?
+## Adakah insentif koridor benar-benar mengubah di mana anda patut berada?
 
-Tidak sekerap yang digambarkan oleh risalah, dan atas sebab struktur yang khusus.
+Kurang kerap daripada yang tersirat dalam risalah, dan atas sebab struktur yang khusus.
 
-Malaysia mempunyai lima koridor ekonomi. Tiga daripadanya bersandarkan Akta persekutuan:
-NCER di bawah NCIA Act 2008 (Akta 687), ECER di bawah ECERDC Act 2008 (Akta 688), dan
-Iskandar Malaysia di bawah IRDA Act 2007 (Akta 664). Koridor Pembangunan Sabah dan SCORE
-bersandarkan undang-undang negeri Sabah dan Sarawak, melalui SEDIA dan RECODA.
+Malaysia mempunyai lima koridor ekonomi. Tiga bersandar pada Akta persekutuan: NCER di bawah
+Akta NCIA 2008 (Akta 687), ECER di bawah Akta ECERDC 2008 (Akta 688), dan Iskandar Malaysia
+di bawah Akta IRDA 2007 (Akta 664). Koridor Pembangunan Sabah dan SCORE bersandar pada
+undang-undang negeri Sabah dan Sarawak, melalui SEDIA dan RECODA.
 
-**Tiada pihak berkuasa koridor boleh memberikan anda insentif cukai.** Akta 687 s.6(e)
-dan Akta 664 s.5(e) kedua-duanya mengehadkan pihak berkuasa itu kepada *mengesyorkan*
-insentif sahaja. Pemberian itu terletak pada Menteri Kewangan, dan laluan yang berfungsi
-berjalan melalui MIDA dan Jawatankuasa Pelaburan Kebangsaan.
+**Tiada pihak berkuasa koridor boleh memberikan anda insentif cukai.** Akta 687 s.6(e) dan
+Akta 664 s.5(e) kedua-duanya mengehadkan pihak berkuasa kepada *mengesyorkan* insentif.
+Pemberian itu terletak pada Menteri Kewangan, dan laluan langsung berjalan melalui MIDA dan
+Jawatankuasa Kebangsaan Pelaburan.
 
-Lebih membimbangkan untuk tujuan perancangan, beberapa rejim utama **langsung tiada
-perintah kadar yang diwartakan**. Zon Ekonomi Khas Johor-Singapura, National Global
-Services Hub dan New Investment Incentive Framework masing-masing menyatakan bahawa
-kadarnya akan disediakan melalui perundangan subsidiari di bawah s.65B Akta Cukai
-Pendapatan 1967, dan satu tinjauan warta tidak menemui apa-apa. Kelulusan di bawahnya
-adalah keputusan pentadbiran tanpa sebarang instrumen yang boleh dituntut di sebaliknya.
+Lebih buruk untuk tujuan perancangan, beberapa rejim utama **langsung tiada perintah kadar
+yang diwartakan**. Zon Ekonomi Khas Johor-Singapura, Hab Perkhidmatan Global Nasional dan
+Rangka Kerja Insentif Pelaburan Baharu masing-masing menyatakan bahawa kadar itu akan
+disediakan melalui perundangan subsidiari di bawah s.65B Akta Cukai Pendapatan 1967, dan
+imbasan warta tidak menemui apa-apa. Kelulusan di bawahnya ialah keputusan pentadbiran tanpa
+instrumen yang boleh dituntut di sebaliknya.
 
-Beberapa skim yang kerap dirujuk juga sememangnya sudah ditutup. Principal Hub dan
-Global Trading Centre ditutup kepada permohonan pada 31 Disember 2022, Relocation of
-Manufacturing pada 31 Disember 2024, GITA dan GITE pada 31 Disember 2023, dan Kelantan
-SEZ pada 31 Disember 2024. Tempoh yang masih terbuka termasuk JS-SEZ dan Forest City
-sehingga 31 Disember 2034, serta DESAC dan Global Services Hub sehingga 31 Disember
-2027.
+Beberapa skim yang disebut secara meluas juga hanya tertutup. Hab Utama dan Pusat Perdagangan
+Global tutup kepada permohonan pada 31 Disember 2022, Penempatan Semula Pembuatan pada
+31 Disember 2024, GITA dan GITE pada 31 Disember 2023, dan ZEK Kelantan pada 31 Disember
+2024. Tetingkap terbuka termasuk JS-SEZ dan Forest City hingga 31 Disember 2034, dan DESAC
+serta Hab Perkhidmatan Global hingga 31 Disember 2027.
 
-Peraturan praktikalnya jelas dan tegas. **Koridor menjadi sebab untuk memilih sesebuah
-tapak hanya setelah anda memegang kelulusan bertulis.** Sebelum itu, ia hanyalah peta
-pemasaran, dan menempatkan sebuah kilang atas kekuatan peta itu adalah satu pertaruhan
-besar terhadap keputusan yang bersifat budi bicara.
+Peraturan praktikalnya jelas. **Sebuah koridor ialah alasan untuk memilih tapak hanya sebaik
+sahaja anda memegang kelulusan bertulis.** Sehingga ketika itu ia hanyalah peta pemasaran,
+dan menempatkan kilang atas kekuatannya ialah pertaruhan besar pada keputusan yang budi
+bicara.
 
 ## Tiga pengasas, tiga jawapan yang berbeza
 
-Rangka kerja ini hanya menjadi berguna apabila anda memberikan bobot, dan bobot itu
-bergantung sepenuhnya kepada jenis perniagaan itu.
+Rangka kerja ini hanya menjadi berguna apabila anda menggunakan wajaran, dan wajaran itu
+bergantung sepenuhnya pada apa perniagaan itu.
 
-### Pengilang
+### Pengeluar
 
-Lokasi benar-benar memainkan peranan penting di sini. Inilah satu-satunya profil di
-mana geografi benar-benar memberi kesan.
+Lokasi benar-benar menanggung beban di sini. Ia satu-satunya profil di mana geografi
+melakukan kerja sebenar.
 
-Apa yang penting: kelayakan insentif, akses pelabuhan dan lapangan terbang, pegangan
-tanah perindustrian, bekalan pekerja asing, serta kos dan kebolehpercayaan bekalan kuasa
-elektrik.
+Apa yang penting: kelayakan insentif, akses pelabuhan dan lapangan terbang, pegangan tanah
+perindustrian, bekalan pekerja asing, serta kos dan kebolehpercayaan kuasa.
 
-Pengilangan telah membenarkan **ekuiti asing 100 peratus sejak Jun 2003**, tanpa mengira
-tahap eksport, jadi pemilikan biasanya bukan kekangannya. Tanah pula adalah kekangannya.
-Tanah perindustrian adalah perkara negeri dan pegangannya berbeza-beza — Land Rules
-r.13 Sarawak, misalnya, menetapkan pegangan kilang selama 60 tahun. Semak pegangan dan
-status penukaran, bukan sekadar harga per kaki persegi.
+Pembuatan telah membenarkan **100 peratus ekuiti asing sejak Jun 2003**, tanpa mengira
+tahap eksport, jadi pemilikan biasanya bukan kekangan. Tanah pula ya. Tanah perindustrian
+ialah urusan negeri dan pegangan berbeza — Peraturan Tanah r.13 Sarawak, sebagai contoh,
+menetapkan pegangan kilang 60 tahun. Semak pegangan dan status penukaran, bukan sekadar
+harga sekaki persegi.
 
-Kuasa elektrik wajar diberi perhatian tersendiri. Akta Bekalan Elektrik 1990 **digantung
-sepenuhnya di Sarawak** oleh P.U.(A) 272/1990, jadi Sarawak tertakluk kepada pengawal
-selia yang berbeza dengan tarif yang berbeza. Sarawak Energy menerbitkan tarif
-perindustrian 21.7 sen seunit untuk I2, dan 22.9 sen waktu puncak berbanding 13.9 sen
-luar puncak untuk I3. Tiada tarif kuasa pukal SCORE yang diterbitkan di mana-mana pun;
-hanya struktur perjanjian pembelian kuasa yang diterbitkan, bagi beban melebihi 5 MW.
-Jangan model kadar yang tidak dapat anda petik sumbernya.
+Kuasa patut mendapat barisnya sendiri. Akta Bekalan Elektrik 1990 **digantung sepenuhnya di
+Sarawak** oleh P.U.(A) 272/1990, jadi Sarawak berada di bawah pengawal selia yang berbeza
+dengan tarif yang berbeza. Sarawak Energy menerbitkan tarif perindustrian 21.7 sen seunit
+untuk I2, dan 22.9 sen waktu puncak berbanding 13.9 sen luar puncak untuk I3. Tiada tarif
+kuasa pukal SCORE diterbitkan di mana-mana; hanya struktur perjanjian pembelian kuasa yang
+diterbitkan, untuk beban melebihi 5 MW. Jangan modelkan kadar yang tidak boleh anda petik.
 
 ### Firma perkhidmatan
 
-Hampir tiada satu pun perkara di atas terpakai. Tiada lesen pengilangan, tiada
-pelabuhan, tiada pegangan tanah perindustrian. Kekangan mengikatnya ialah pengambilan
-pekerja, dan itu adalah persoalan pasaran buruh dan bukannya persoalan undang-undang.
+Hampir tiada apa-apa di atas yang terpakai. Tiada lesen pembuatan, tiada pelabuhan, tiada
+pegangan perindustrian. Kekangan yang mengikat ialah pengambilan pekerja, dan pengambilan
+pekerja ialah persoalan pasaran buruh dan bukannya persoalan undang-undang.
 
-Lapisan undang-undang hanya memberi kesan jika anda menaja ekspatriat. Pendaftaran
-dengan Bahagian Perkhidmatan Ekspatriat, Jabatan Imigresen, membawa kriteria modal
-berbayar sebanyak RM250,000 bagi syarikat milik penuh Malaysia, RM350,000 bagi usaha
-sama dengan sekurang-kurangnya 30 peratus ekuiti asing, RM500,000 bagi syarikat milik
-penuh asing, dan RM1,000,000 di mana ekuiti asing 51 peratus atau lebih dalam
-perdagangan borong, runcit atau perdagangan am.
+Lapisan undang-undang hanya mengigit jika anda menaja ekspatriat. Pendaftaran dengan
+Bahagian Perkhidmatan Ekspatriat Jabatan Imigresen membawa kriteria modal berbayar
+RM250,000 untuk syarikat milik penuh Malaysia, RM350,000 untuk usaha sama dengan sekurang-
+kurangnya 30 peratus ekuiti asing, RM500,000 untuk syarikat milik penuh asing, dan
+RM1,000,000 apabila ekuiti asing ialah 51 peratus atau lebih dalam borong, runcit atau
+perdagangan.
 
-Dua perkara sentiasa dilaporkan secara salah mengenai angka-angka itu. Ia adalah
-**kriteria imigresen, bukan undang-undang syarikat** — Akta Syarikat 2016 tidak
-mengenakan sebarang minimum langsung, kerana s.9 hanya memerlukan satu atau lebih saham
-dan senarai butiran pemerbadanan dalam s.14(3) tidak termasuk jumlah modal. Dan ia boleh
-dipintas: **status Malaysia Digital hanya memerlukan modal berbayar RM1,000**, dan
-syarikat MD menyalurkan permohonan Pas Kerja melalui MDEC dan bukannya ESD. Itu adalah
-status yang melekat pada syarikat dan aktivitinya yang diluluskan, bukan pada sesebuah
-bandar, dan itulah sebabnya ia tidak sepatutnya berada dalam perbandingan lokasi.
+Dua perkara kerap disalah lapor tentang angka-angka itu. Ia **kriteria imigresen, bukan
+undang-undang syarikat** — Akta Syarikat 2016 langsung tidak mengenakan minimum, kerana s.9
+hanya memerlukan satu atau lebih syer dan senarai butiran pemerbadanan s.14(3) tidak
+memasukkan jumlah modal. Dan ia boleh dipintas: **status Malaysia Digital hanya memerlukan
+modal berbayar RM1,000**, dan syarikat MD menyalurkan permohonan Pas Penggajian melalui MDEC
+dan bukannya ESD. Itu ialah status yang melekat pada syarikat dan aktivitinya yang diluluskan,
+bukan pada sebuah bandar, yang tepatnya sebab ia tidak tergolong dalam perbandingan lokasi.
 
-Sarawak sekali lagi menjalankan salurannya sendiri, dengan minimum Pas Kerja RM3,000
+Sarawak sekali lagi menjalankan salurannya sendiri, dengan minimum Pas Penggajian RM3,000
 sebulan melalui GENESIS.
 
 ### Penjual e-dagang
 
-Lokasi hampir tidak penting, tetapi bukan atas sebab yang biasa diberikan.
+Lokasi hampir tidak penting, tetapi bukan atas sebab yang biasanya diberikan.
 
-Tiada **lesen e-dagang persekutuan**. Panduan Pelesenan MCMC menyenaraikan perkhidmatan
-transaksi elektronik dan perkhidmatan transaksi interaktif dalam lajur dikecualikan, dan
-Kertas Maklumatnya meletakkan platform e-dagang di luar rangka kerja itu. Peniaga yang
-mengendalikan kedai maya di sebuah platform sosial adalah **pengguna akhir, bukan
-pemegang lesen**, dan tidak perlu memfailkan apa-apa.
+Terdapat **tiada lesen e-dagang persekutuan**. Buku Panduan Pelesenan MCMC menyenaraikan
+perkhidmatan transaksi elektronik dan perkhidmatan transaksi interaktif dalam lajur
+dikecualikan, dan Kertas Maklumatnya meletakkan platform e-dagang di luar rangka kerja.
+Peniaga yang mengendalikan kedai di platform sosial ialah **pengguna akhir, bukan pemegang
+lesen**, dan tidak memfailkan apa-apa.
 
-Apa yang masih terpakai ialah lesen premis bagi lokasi sebenar anda beroperasi, termasuk
-rumah anda sendiri. Garis panduan perniagaan dari rumah peringkat kebangsaan
-mengehadkan perniagaan itu kepada 25 peratus daripada keluasan lantai binaan dan
-**seorang pekerja**, memerlukan persetujuan jiran di mana terdapat jiran dalam lingkungan
-20 meter, dan — syarat yang tidak dijangka oleh sesiapa pun — **mewajibkan papan tanda
-di hadapan rumah walaupun bagi perniagaan yang semata-mata dalam talian**: tidak
-bercahaya, maksimum satu meter persegi, Bahasa Melayu sebagai bahasa utama, dan
-memerlukan kelulusan pengiklanan berasingan.
+Apa yang masih terpakai ialah lesen premis untuk di mana sahaja anda benar-benar beroperasi,
+termasuk rumah anda sendiri. Garis panduan perniagaan dari rumah nasional mengehadkan
+perniagaan kepada 25 peratus luas lantai binaan dan **seorang pekerja**, memerlukan
+persetujuan jiran di mana seorang jiran berada dalam lingkungan 20 meter, dan — syarat yang
+tiada siapa jangka — **mewajibkan papan tanda di hadapan rumah walaupun untuk perniagaan
+dalam talian semata-mata**: tidak bercahaya, maksimum satu meter persegi, Bahasa Melayu
+sebagai utama, dan memerlukan kelulusan pengiklanan berasingan.
 
-Jadi satu-satunya pembolehubah lokasi yang sebenar bagi penjual dalam talian ialah
-**majlis mana yang mengeluarkan lesen itu dan berapa yang dikenakannya.** Segala-galanya
-yang lain dalam susunan pematuhan, termasuk kewajipan PDPA, adalah kebangsaan.
+Jadi satu-satunya pemboleh ubah lokasi yang benar bagi penjual dalam talian ialah **majlis
+mana yang mengeluarkan lesen itu dan berapa yang dicajnya.** Segala yang lain dalam tindanan
+pematuhan, termasuk kewajipan PDPA, adalah nasional.
 
 ## Kesilapan lazim
 
-**Memilih sesebuah negeri untuk menurunkan cukai.** Tiada cukai pendapatan korporat
-negeri. Ini adalah pembaziran masa sebulan yang paling lazim berlaku dalam penubuhan
-syarikat di Malaysia.
+**Memilih sesebuah negeri untuk merendahkan cukai.** Tiada cukai pendapatan korporat negeri.
+Ini ialah sebulan yang paling kerap dibazirkan dalam pembentukan syarikat di Malaysia.
 
-**Menganggap peta koridor sebagai insentif.** Tiada pihak berkuasa koridor yang boleh
-memberikannya, dan tiga rejim utama langsung tiada perintah kadar yang diwartakan.
+**Menganggap peta koridor sebagai insentif.** Tiada pihak berkuasa koridor boleh memberikan
+satu pun, dan tiga rejim utama tiada perintah kadar yang diwartakan langsung.
 
-**Membawa terus matriks pematuhan Semenanjung ke Sarawak.** Jadual Pertama Sarawak yang
-dipinda mengetepikan definisi berkanun bagi waktu bekerja biasa dan kerja lebih masa.
-Pemetaan itu tidak wujud.
+**Memindahkan matriks pematuhan Semenanjung ke Sarawak.** Jadual Pertama Sarawak yang dipinda
+menyahguna pakai takrif berkanun tentang waktu bekerja biasa dan kerja lebih masa. Pemetaan
+itu tidak wujud.
 
-**Mendaftarkan perusahaan Sarawak dengan SSM.** Akta Pendaftaran Perniagaan 1956
-terpakai kepada Semenanjung Malaysia sahaja. Laluan Sarawak ialah Cap 64, Cap 33 dan
-Lesen Operasi majlis.
+**Mendaftarkan perusahaan Sarawak dengan SSM.** Akta Pendaftaran Perniagaan 1956 terpakai
+kepada Semenanjung Malaysia sahaja. Laluan Sarawak ialah Bab 64, Bab 33 dan Lesen Operasi
+majlis.
 
-**Menganggap garis panduan yang diterbitkan oleh satu majlis sebagai bersifat
-kebangsaan.** Hanya Selangor menerbitkan yuran perniagaan dari rumah, dan beberapa
-majlis di Selangor sendiri langsung tidak menerbitkan kategori perniagaan dari rumah.
+**Membaca garis panduan terbitan satu majlis sebagai nasional.** Hanya Selangor menerbitkan
+yuran perniagaan dari rumah, dan beberapa majlis Selangor langsung tidak menerbitkan kategori
+perniagaan dari rumah.
 
-**Menganggap ambang modal berbayar ESD sebagai keperluan pemerbadanan.** Ia adalah
-kriteria penajaan Pas Kerja, dan boleh dielakkan melalui status Malaysia Digital.
+**Menganggap ambang modal berbayar ESD sebagai keperluan pemerbadanan.** Ia kriteria
+penajaan Pas Penggajian, dan ia boleh dielakkan melalui status Malaysia Digital.
 
-**Menandatangani pajakan perindustrian sebelum menyemak pegangan dan kategori lesen.**
-Tempoh pegangan, status penukaran dan klasifikasi lesen majlis semuanya boleh disemak
-sebelum tandatangan dan menjadi mahal selepasnya.
+**Menandatangani pajakan perindustrian sebelum menyemak pegangan dan kategori lesen.** Tempoh
+pegangan, status penukaran dan klasifikasi lesen majlis semuanya boleh ditemui sebelum
+tandatangan dan mahal selepasnya.
 
 ## Apa seterusnya
 
-Susuri senarai itu mengikut turutan. Wilayah dahulu, majlis kedua, koridor hanya jika
-anda mempunyai kelulusan, kemudian tanah, tenaga kerja dan logistik. Halaman-halaman
-berikut membincangkan setiap satu dengan lebih mendalam.
+Kerjakan senarai ini mengikut susunan. Wilayah dahulu, majlis kedua, koridor hanya jika anda
+mempunyai kelulusan, kemudian tanah, buruh dan logistik. Halaman-halaman berikut pergi satu
+tahap lebih mendalam pada setiap satu.
 
 | Jika persoalan seterusnya anda ialah | Baca |
 | --- | --- |
-| Siapa melesenkan apa, persekutuan berbanding negeri berbanding tempatan | `business-licence-malaysia` |
-| Apa yang sebenarnya akan diminta oleh majlis | `premise-licence-malaysia` |
-| Bagaimana kelima-lima koridor itu dibandingkan, dan siapa memberikan apa | `economic-corridors-compared` |
+| Siapa melesen apa, persekutuan berbanding negeri berbanding tempatan | `business-licence-malaysia` |
+| Apa yang majlis benar-benar akan minta | `premise-licence-malaysia` |
+| Bagaimana lima koridor dibandingkan, dan siapa memberikan apa | `economic-corridors-compared` |
 | Menubuhkan perniagaan di Sarawak, di mana statutnya berbeza | `register-business-sarawak` |
 | Menubuhkan perniagaan di Sabah | `register-business-sabah` |
-| Johor, JS-SEZ dan Iskandar secara khusus | `iskandar-malaysia-guide` dan `js-sez-guide` |
+| Johor, JS-SEZ dan Iskandar khususnya | `iskandar-malaysia-guide` dan `js-sez-guide` |
 | Sama ada perniagaan dalam talian memerlukan apa-apa langsung | `online-business-licence-malaysia` |
-| Dari mana sebenarnya angka modal berbayar itu datang | `paid-up-capital-foreign-company` |
+| Dari mana angka modal berbayar sebenarnya datang | `paid-up-capital-foreign-company` |
