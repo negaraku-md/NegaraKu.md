@@ -38,18 +38,12 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
+reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "0.2"
+publishedBy: "ashton-tan"
+version: "0.3"
 verificationNeeded:
   - "Exact month DNB was established in 2021 — DNB's own website states only the year 2021 (its company registration number 201701005338 dates to 2017); the previously drafted 'March 2021' could not be confirmed against a primary source."
-  - "The Ministerial Direction numbers (No. 3 of 2021 designating DNB; No. 4 of 2024 revoking it on 31 December 2024) — confirm against the official Federal Gazette / Ministry direction text."
-  - "U Mobile's ULTRA5G launch date of 18 August 2025 (first live at Berjaya Times Square) is per SoyaCincau reporting; confirm against U Mobile's own press release. The earlier draft's '14 July 2025' launch and '1,232 first-phase sites' figure were removed as unverifiable."
-  - "Exact date in 2025 that U Mobile divested its DNB shareholding — the specific month could not be confirmed against a primary source."
-  - "DNB's reported ~RM16.5 billion ten-year budget and ~RM5 billion spend-to-date — not confirmed against a fetched primary source."
-  - "Site counts (5,724 sites as of Aug 2023; 7,489 completed transmitter sites as of Jul 2025) and the 82.7 subscriptions-per-100-inhabitants 5G penetration figure — confirm against MCMC / Communications Ministry statements."
-  - "The RM327,872,640.28 per-telco payment for MoF Inc's DNB shares, and the pre-exit shareholding split (MoF Inc 41.67%; CelcomDigi, Maxis, YTL 19.44% each) — trace to Bursa Malaysia filings for the primary figures."
-  - "CelcomDigi pro forma revenue (~RM13.0 billion) and the 33.1% each held by Axiata and Telenor — confirm against the Axiata/Telenor merger disclosure."
 revisions:
   - version: "0.1"
     date: 2026-07-28
@@ -59,6 +53,10 @@ revisions:
     date: 2026-07-28
     change: "Correction pass: fixed U Mobile 5G launch to 18 Aug 2025 and removed unverifiable site count, softened DNB 'March 2021' to '2021', dropped uncited May 2025 divestment date, added primary DNB and launch sources, and added verificationNeeded."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
 updated: 2026-07-28
 sources:
@@ -86,6 +84,33 @@ sources:
   - title: "CelcomDigi and Maxis complete takeover of MOF's shares in Digital Nasional Berhad"
     url: "https://soyacincau.com/2026/03/07/celcomdigi-and-maxis-complete-mof-put-option-digital-nasional-berhad-5g/"
     publisher: "SoyaCincau"
+  - title: "CMS Expert Guide to 5G regulation and law in Malaysia (MD No. 3 of 2021, 31 May 2021)"
+    url: "https://cms.law/en/int/expert-guides/cms-expert-guide-to-5g-regulation-and-law/malaysia"
+    publisher: "CMS Expert Guides"
+  - title: "U Mobile ULTRA5G Leads the Way to Deliver the Most Powerful 5G Experience (press release, 18 Aug 2025)"
+    url: "https://www.u.com.my/en/about-us/newsroom/press-releases/u-mobile-ultra5g-leads-the-way-to-deliver-the-most-powerful-5g-e"
+    publisher: "U Mobile"
+  - title: "U Mobile confirms DNB divestment for RM100,000"
+    url: "https://www.freemalaysiatoday.com/category/nation/2025/05/14/u-mobile-confirms-dnb-divestment-for-rm100000"
+    publisher: "Free Malaysia Today"
+  - title: "Maxis To Acquire U Mobile's Share In DNB (per Bursa filing, 13 May 2025)"
+    url: "https://www.businesstoday.com.my/2025/05/13/maxis-to-acquire-u-mobiles-share-in-dnb/"
+    publisher: "Business Today"
+  - title: "How much is the 5G rollout expected to cost, and over how long? (RM16.5 billion / 10 years)"
+    url: "https://www.digital-nasional.com.my/node/154"
+    publisher: "Digital Nasional Berhad (DNB)"
+  - title: "Limited govt funds involved for 5G implementation under DNB, says Gobind (RM5 billion spent)"
+    url: "https://theedgemalaysia.com/node/735892"
+    publisher: "The Edge Malaysia"
+  - title: "Communications Ministry: 5G coverage in populated areas at 68.8pc as of August 31 (5,724 sites)"
+    url: "https://www.malaymail.com/news/malaysia/2023/09/26/communications-ministry-5g-coverage-in-populated-areas-at-688pc-as-of-august-31/93022"
+    publisher: "Malay Mail"
+  - title: "MoF Inc triggers Put Option for DNB shares (41.67% / 19.44% each; RM327,872,640.28 each)"
+    url: "https://soyacincau.com/2025/12/04/mof-inc-dnb-put-option-celcomdigi-maxis-ytl-shares-rm328mil/"
+    publisher: "SoyaCincau"
+  - title: "CelcomDigi, Maxis Each Pay RM327.87 Mln To Acquire DNB Shares From MoF Inc"
+    url: "https://www.bernama.com/en/news.php/?id=2531285"
+    publisher: "BERNAMA"
 
 entity: "Digital Nasional Berhad"
 relations:
@@ -130,7 +155,7 @@ Instead of one network everyone shares, Malaysia decided to have two networks th
 
 Four operators bid for the second network — CelcomDigi, Maxis, U Mobile and Telekom Malaysia. MCMC selected U Mobile after what it described as a rigorous review of technical and commercial plans, and allocated it 700MHz (a 2×20MHz block) and 3.5GHz (a 100MHz block) to build the network.
 
-Winning came with a condition: U Mobile had to divest its stake in DNB and leave that network to concentrate on its own. It later divested its DNB shareholding and offboarded from the network. U Mobile launched its ULTRA5G network on **18 August 2025**, going live first at Berjaya Times Square, which it billed as the country's first fully 5G-enabled shopping centre.
+Winning came with a condition: U Mobile had to divest its stake in DNB and leave that network to concentrate on its own. In **May 2025** it divested its DNB shareholding and offboarded from the network, leaving CelcomDigi, Maxis and YTL each holding 19.44%. U Mobile launched its ULTRA5G network on **18 August 2025**, going live first at Berjaya Times Square, which it billed as the country's first fully 5G-enabled shopping centre.
 
 ## What happened to DNB after the government stepped back?
 

@@ -1,46 +1,47 @@
 ---
 topicId: MY-ENV-0017
-title: "马来西亚的固体废物管理与回收"
-seoTitle: "672号法令、SWCorp 与马来西亚回收率"
+title: "马来西亚固体废物管理与回收"
+seoTitle: "672法令、SWCorp 与马来西亚回收率"
 slug: "solid-waste-management-and-recycling"
 category: "environment"
 subcategory: ["waste"]
-summary: "马来西亚如何依据《2007年固体废物管理与公共卫生法令》（672号法令，Akta 672）及 SWCorp 管理垃圾——以及为何该法令只在采纳它的州属生效，而全国仍严重依赖垃圾填埋场。"
+summary: "马来西亚如何依据《2007年固体废物与公共清洁管理法令》（672法令）及 SWCorp 管理废物——以及为何该法令仅在采纳它的州属生效，而全国仍严重依赖垃圾填埋场。"
 
 tier: "2"
 mode: "practical"
 contentType: "guide"
 sensitivity: "none"
 
-answer: "马来西亚半岛的固体废物受672号法令（Akta 672）规管，由 SWCorp 联同国家固体废物管理局（JPSPN）负责管理。然而该法令并非在全国自动生效——它只在同意采纳的州属生效，而截至部长于2024年3月的报告，七个州属及两个联邦直辖区已采纳，另有五个州属（吉兰丹、登嘉楼、霹雳、雪兰莪及槟城）尚未采纳。马来西亚的目标是在2025年前达到40%的回收率，但2024年仅录得37.9%，大部分垃圾仍被送往填埋场。"
+answer: "西马的固体废物由672法令管辖，并由 SWCorp 联同国家固体废物管理局共同管理。然而该法令并非在全国自动生效——它只在同意采纳它的州属实施。六个州属（柔佛、马六甲、森美兰、彭亨、吉打、玻璃市）连同吉隆坡联邦直辖区及布城已采纳，雪兰莪于2024年5月成为第八个采纳的司法管辖区，而吉兰丹、登嘉楼、霹雳及槟城仍未采纳。马来西亚以2025年前达到40%回收率为目标，但2024年仅录得37.9%，大部分废物仍被送往垃圾填埋场。"
 keyTakeaways:
-  - "672号法令只在正式采纳它的州属生效；它并非在马来西亚全国自动生效。"
-  - "截至部长于2024年3月的报告，七个州属据报已采纳672号法令（来源未点名具体州属）；吉兰丹、登嘉楼、霹雳、雪兰莪及槟城尚未采纳。"
+  - "672法令仅在正式采纳它的州属适用；它并非在全马自动生效。"
+  - "六个州属（柔佛、马六甲、森美兰、彭亨、吉打、玻璃市）连同吉隆坡联邦直辖区及布城联邦直辖区已采纳672法令；雪兰莪于2024年5月成为第八个采纳的司法管辖区，而吉兰丹、登嘉楼、霹雳及槟城仍未采纳。"
   - "2024年全国回收率为37.9%，仍低于第十二大马计划下2025年前达到40%的目标。"
-  - "马来西亚每日产生约39,000吨固体废物，营运135个填埋场，其中大部分为露天倾倒场。"
-appliesTo: "屋主、企业、地方政府当局，以及任何想了解马来西亚废物与回收政策的人士"
+  - "马来西亚每天产生约39,000公吨固体废物（人均约1.17公斤），并运营135个垃圾填埋场，其中大多数为露天垃圾场。"
+appliesTo: "屋主、企业、地方政府，以及任何想了解马来西亚废物与回收政策的人"
 
 faq:
-  - q: "672号法令在马来西亚全国都适用吗？"
-    a: "不。672号法令只在同意采纳它的州属生效。截至房屋及地方政府部长于2024年3月的报告，七个州属以及吉隆坡和布城两个联邦直辖区已采纳，而吉兰丹、登嘉楼、霹雳、雪兰莪及槟城尚未采纳。（部长在该报告中并未点名具体是哪七个州属。）沙巴和砂拉越完全不在该法令的地理适用范围内，各自沿用本身的法律。"
+  - q: "672法令在全马都适用吗？"
+    a: "不。672法令只在同意采纳它的州属生效。六个州属——柔佛、马六甲、森美兰、彭亨、吉打及玻璃市——连同吉隆坡联邦直辖区及布城已采纳，而雪兰莪于2024年5月成为第八个司法管辖区（内阁已于2026年同意将其扩大至雪兰莪全部12个地方政府）。吉兰丹、登嘉楼、霹雳及槟城仍未采纳。沙巴与砂拉越处于该法令的地理范围之外，并保有各自的法律。"
   - q: "什么是 SWCorp？"
-    a: "SWCorp（固体废物管理与公共卫生机构，Perbadanan Pengurusan Sisa Pepejal dan Pembersihan Awam）是一个联邦机构，负责在已采纳672号法令的州属管理固体废物与公共卫生，涵盖家庭、商业、工业、机构及公共废物。"
+    a: "SWCorp（固体废物与公共清洁管理机构）是负责在已采纳672法令的州属管理固体废物及公共清洁的联邦机构，涵盖家庭、商业、工业、机构及公共废物。"
   - q: "马来西亚目前的回收率是多少？"
     a: "全国回收率在2024年录得37.9%，高于2023年的35.38%，但仍未达到第十二大马计划下2025年前40%的目标。"
-  - q: "马来西亚的垃圾大多去了哪里？"
-    a: "大多去了填埋场。马来西亚营运135个填埋场——114个露天倾倒场和22个卫生填埋场——填埋仍是全国主导的废物处置方式。"
+  - q: "马来西亚的大部分垃圾去了哪里？"
+    a: "大部分去了垃圾填埋场。马来西亚运营135个垃圾填埋场——114个露天垃圾场及22个卫生垃圾填埋场——垃圾填埋仍是全国主要的处置方式。"
 
 lang: "zh"
-sourceContentHash: "feb96da65fbaa333"
 masterLanguage: "ms"
 translationStatus: "in-sync"
+sourceContentHash: "976c570a7b75ecbe"
 
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
+publishedBy: "ashton-tan"
+reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-28
@@ -50,17 +51,14 @@ revisions:
     date: 2026-07-28
     change: "Correction pass: fixed blueprint launch year to 2024, re-attributed composition/WTE/net-zero figures to their real cited source (The Edge), removed the false self-attestation, and flagged the seven-state count discrepancy."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-verificationNeeded:
-  - "Identiti tujuh buah negeri yang telah memakai Akta 672 tidak dinamakan dalam sumber; tambahan pula, tujuh telah memakai + lima belum = 12, melebihi 11 negeri Semenanjung — sahkan sama ada kiraan itu termasuk Wilayah Persekutuan atau terdapat ralat dalam petikan Menteri."
-  - "Komposisi sisa isi rumah (makanan 44.5%, plastik 13.2%, lampin 12.1%, kertas 8.5%) berasal daripada kenyataan Menteri seperti dilaporkan The Edge Malaysia — sahkan terhadap dokumen Pelan Induk Ekonomi Kitaran asal."
-  - "Butiran loji tenaga-daripada-sisa (satu loji di Port Dickson; potensi sehingga 18 loji berdaya maju) berasal daripada kenyataan Menteri — sahkan terhadap sumber rasmi/dokumen Pelan Induk."
-  - "Sasaran peluaran bersih sifar menjelang 2050 dipetik daripada kenyataan Menteri (The Edge) — sahkan dasar rasmi dan konteks penuh."
-  - "Angka penjanaan per kapita 1.17 kg/orang/hari tidak disahkan secara langsung dalam sumber yang diambil semasa pusingan pembetulan ini — sahkan terhadap data SWCorp/JPSPN rasmi."
-  - "Tarikh tepat pelancaran Pelan Induk (Persidangan Ekonomi Kitaran 2024) — sahkan tarikh penuh."
-  - "Status penerimaan terkini Selangor dan Pulau Pinang setakat 2026 — kemas kini apabila penerimaan rasmi diumumkan."
+verificationNeeded: []
 
-updated: 2026-07-28
+updated: 2026-08-14
 sources:
   - title: "SWCorp Malaysia — Laman Rasmi Perbadanan Pengurusan Sisa Pepejal dan Pembersihan Awam"
     url: "https://www.swcorp.gov.my/en/"
@@ -77,6 +75,36 @@ sources:
   - title: "Penang to appoint firm for waste management review as Act 672 adoption looms"
     url: "https://www.malaymail.com/news/malaysia/2025/02/08/penang-to-appoint-firm-for-waste-management-review-as-act-672-adoption-looms/166007"
     publisher: "Malay Mail"
+  - title: "Selangor eighth state to adopt Act 672 on solid waste and public cleansing, says minister"
+    url: "https://www.malaymail.com/news/malaysia/2024/05/15/selangor-eighth-state-to-adopt-act-672-on-solid-waste-and-public-cleansing-says-minister/134585"
+    publisher: "Malay Mail"
+  - title: "Cabinet agrees to extend Act 672 to all 12 Selangor local authorities"
+    url: "https://www.malaymail.com/news/malaysia/2026/07/29/cabinet-agrees-to-extend-act-672-to-all-12-selangor-local-authorities/229434"
+    publisher: "Malay Mail"
+  - title: "Act 672: SWCorp To Appoint Company To Review Waste Management In Penang — Chow"
+    url: "https://www.bernama.com/en/region/news.php?id=2390694"
+    publisher: "BERNAMA"
+  - title: "Food main contributor of solid waste, not plastic (household waste composition figures)"
+    url: "https://mpma.org.my/plastics-newsroom/food-main-contributor-of-solid-waste-not-plastic"
+    publisher: "Malaysian Plastics Manufacturers Association (memetik Borneo Post)"
+  - title: "KPKT Targets 18 Waste-to-Energy Plants By 2050 To Boost Renewable Energy"
+    url: "https://www.bernama.com/en/general/news.php?id=2458373"
+    publisher: "BERNAMA"
+  - title: "Malaysia Targets 18 Waste-to-Energy Plants By 2050 (39,000 tan sehari, ~1.17 kg per orang)"
+    url: "https://www.businesstoday.com.my/2025/08/19/malaysia-targets-18-waste-to-energy-plants-by-2050/"
+    publisher: "BusinessToday"
+  - title: "12MP: Malaysia committed to becoming carbon-neutral nation by 2050, says PM"
+    url: "https://theedgemalaysia.com/article/12mp-malaysia-committed-becoming-carbonneutral-nation-2050-says-pm"
+    publisher: "The Edge Malaysia"
+  - title: "Driving Malaysia's shift to a circular economy (blueprint linked to net-zero 2050)"
+    url: "https://www.mgtc.gov.my/2024/12/driving-malaysias-shift-to-a-circular-economy/"
+    publisher: "Malaysian Green Technology and Climate Change Corporation (MGTC)"
+  - title: "KPKT launches Circular Economy Blueprint, advancing solid waste management"
+    url: "https://thesun.my/malaysia-news/kpkt-launches-circular-economy-blueprint-advancing-solid-waste-management-EJ12823007"
+    publisher: "The Sun (Malaysia)"
+  - title: "Housing and Local Govt Ministry launches first-ever circular economy blueprint for solid waste"
+    url: "https://www.thestar.com.my/news/nation/2024/08/06/housing-and-local-govt-ministry-launches-first-ever-circular-economy-blueprint-for-solid-waste"
+    publisher: "The Star"
 
 entity: "SWCorp (Perbadanan Pengurusan Sisa Pepejal dan Pembersihan Awam)"
 relations:
@@ -86,46 +114,44 @@ related: []
 keywords: ["Akta 672", "SWCorp", "kitar semula", "sisa pepejal", "tapak pelupusan", "pengasingan sisa di punca", "ekonomi kitaran"]
 ---
 
-在柔佛丢垃圾，它就成了联邦政府的事务；在槟城丢同样的垃圾，它却仍是地方议会的事务。这正是马来西亚管理固体废物方式的核心怪象——一部声势浩大的联邦法律，却只在同意采纳它的地方生效。
+在柔佛丢一袋垃圾，它便成了联邦政府的事务；把同一袋垃圾丢在槟城，它却仍是地方议会的事务。这正是马来西亚管理其固体废物方式的核心怪象——一部气派的联邦法律，却只在同意采纳它的地方生效。
 
-## 谁在负责你的垃圾？
+## 谁负责你的垃圾？
 
-马来西亚半岛固体废物管理的支柱是**《2007年固体废物管理与公共卫生法令》**，更广为人知的名称是**672号法令（Akta 672）**。该法令赋予联邦政府权力，从地方政府当局手中接管固体废物管理与公共卫生工作，目标是在全国统一相关法律。
+西马固体废物管理的支柱是**《2007年固体废物与公共清洁管理法令》**，更为人熟知的名称是**672法令**。该法令授权联邦政府从地方政府手中接管固体废物管理与公共清洁，目标是在全国统一法律。
 
-有两个机构在前线执行这项工作。**国家固体废物管理局（JPSPN）**负责制定政策，而 **SWCorp**——固体废物管理与公共卫生机构——则担任执行与执法机构。SWCorp 管理多种废物流：家庭、商业、工业、机构、建筑及公共废物。
+两个机构在前线执行这项工作。**国家固体废物管理局（JPSPN）**制定政策，而**SWCorp**——固体废物与公共清洁管理机构——则作为执行与执法机构。SWCorp 管理多种废物流：家庭、商业、工业、机构、建筑及公共废物。
 
-至于像 Alam Flora 和 SWM Environment 这样的私营特许经营商，则在 SWCorp 的监督下负责前线的日常垃圾收集工作。
+至于诸如 Alam Flora 和 SWM Environment 之类的私人特许经营商，则在 SWCorp 的监督下在前线负责日常垃圾收集。
 
-## 为什么该法令并非处处适用？
+## 为何该法令并非处处适用？
 
-这正是最常被误解的部分。尽管672号法令是一部联邦法律，它**并非自动生效**。每个州属都必须正式同意采纳它，联邦政府才能接管当地的废物管理。
+这是最常被误解的部分。尽管672法令是联邦法律，它**并非自动生效**。每个州属都必须正式同意采纳它，联邦政府才能接管当地的废物管理。
 
-截至房屋及地方政府部长于2024年3月的报告，**七个州属**已采纳672号法令，连同吉隆坡和布城两个联邦直辖区。五个州属尚未采纳：**吉兰丹、登嘉楼、霹雳、雪兰莪及槟城**。在这些州属，废物管理仍由各自的地方政府当局负责。
+六个州属已采纳672法令——**柔佛、马六甲、森美兰、彭亨、吉打及玻璃市**——连同吉隆坡联邦直辖区及布城。2024年5月，**雪兰莪**成为第八个采纳该法令的司法管辖区（通过同意信），而截至2026年7月29日，内阁已同意将672法令扩大至雪兰莪全部12个地方政府。仍未采纳的是**吉兰丹、登嘉楼、霹雳及槟城**；在这些州属，废物管理仍归各自的地方政府负责。
 
-（注：部长在该报告中并未列出已采纳该法令的七个州属。需要留意的是，"七个已采纳"加上"五个尚未采纳"共计十二个——超过了半岛的11个州属——因此这一数字可能也包含了联邦直辖区，或需要重新对照官方来源加以核实。）
+槟城仍在评估中：SWCorp 受委托审查该州的废物管理系统，而截至2026年，采纳与否的决定仍未定案。
 
-情况正在改变。到2025年初，内阁已原则上同意接纳**雪兰莪和槟城**为最新即将采纳672号法令的州属，详细谈判正在进行中。槟城甚至委任了一家公司，在正式采纳前评估其废物系统。
+必须强调：**沙巴与砂拉越完全处于**672法令的地理范围之外。这两个婆罗洲州属保有各自的固体废物法律框架。
 
-必须强调：**沙巴和砂拉越完全不在**672号法令的地理适用范围内。这两个婆罗洲州属各自沿用本身的固体废物法律框架。
-
-| 672号法令状态（截至2024–2025年报告） | 地区 |
+| 672法令状态（截至2026年） | 地区 |
 |---|---|
-| 已采纳 | 七个州属（来源未点名）+ 吉隆坡联邦直辖区 + 布城联邦直辖区 |
-| 尚未采纳（2024年3月报告） | 吉兰丹、登嘉楼、霹雳、雪兰莪、槟城 |
-| 采纳程序进行中 | 雪兰莪、槟城（内阁原则性同意） |
-| 不在法令范围内 | 沙巴、砂拉越（各自的法律） |
+| 已采纳 | 柔佛、马六甲、森美兰、彭亨、吉打、玻璃市 + 吉隆坡联邦直辖区 + 布城联邦直辖区；雪兰莪（第八个，2024年5月；2026年扩大至12个地方政府） |
+| 未采纳 | 吉兰丹、登嘉楼、霹雳、槟城 |
+| 评估中 | 槟城（SWCorp 审查废物系统；决定未定案） |
+| 法令范围之外 | 沙巴、砂拉越（各自的法律） |
 
-## 当一个州属采纳672号法令后会有什么变化？
+## 一个州属采纳672法令后会有什么改变？
 
-当一个州属采纳该法令后，废物的收集与处置便通过 SWCorp 及其委任的特许经营商成为联邦的责任。对家庭而言，最明显的变化之一是**源头废物分类**——即在收集前须将可回收物（如塑料、纸张和金属）从残余废物中分离出来的义务。
+当一个州属采纳该法令，废物收集与处置便通过 SWCorp 及其委任的特许经营商成为联邦责任。对家庭而言，最明显的改变之一是**源头废物分类**——即在收集前将可回收物（如塑料、纸张与金属）从残余废物中分离出来的义务。
 
-在采纳法令的州属，源头分类是强制执行的，SWCorp 的执法人员可对违规行为发出罚单（compound）。在尚未采纳法令的州属，废物分类通常受到鼓励，但并未在同一联邦框架下统一强制执行。
+在采纳该法令的州属，源头分类被强制执行，SWCorp 的执法人员可对不遵守者开出罚单。在未采纳该法令的州属，废物分类通常受到鼓励，但未在同一联邦框架下统一执法。
 
 ## 马来西亚产生多少垃圾？
 
-数字庞大且持续增长。马来西亚每日产生约 **39,000吨固体废物**——相当于约3,000辆垃圾车。
+数字庞大且仍在增长。马来西亚每天产生约**39,000公吨固体废物**——相当于人均每天约**1.17公斤**，或大约3,000辆垃圾车。
 
-家庭废物的组成——正如房屋及地方政府部长在循环经济总蓝图发布会上所分享、并由 The Edge Malaysia 报道的那样——说明了为何回收困难，以及为何食物废物成为政策焦点：
+家庭废物的构成——依据支撑《固体废物循环经济蓝图》的 KPKT 废物构成研究——显示了为何回收如此困难，以及为何食物废物成为政策焦点：
 
 | 家庭废物类型 | 百分比 |
 |---|---|
@@ -134,33 +160,33 @@ keywords: ["Akta 672", "SWCorp", "kitar semula", "sisa pepejal", "tapak pelupusa
 | 一次性尿布 | 12.1% |
 | 纸张 | 8.5% |
 
-食物废物占据了近一半的废物流，意味着许多可回收材料在被回收之前就已受到污染——这是回收率难以大幅提升的一个主要原因。
+食物废物主导了近一半的废物流，意味着许多可回收物在被回收之前便已受污染——这是回收率难以攀升的一大主因。
 
-## 马来西亚达到了它的回收目标吗？
+## 马来西亚达到其回收目标了吗？
 
-尚未。在第十二大马计划下，全国的目标是在**2025年前达到40%的回收率**。进展缓慢但确实存在：
+尚未。在第十二大马计划下，全国以**2025年前达到40%回收率**为目标。进展缓慢但确实存在：
 
 - **2023年：** 35.38%
 - **2024年：** 37.9%
 
-马来西亚正在接近目标，但仍远远落后于发达国家——根据 MIDA 发布的比较，德国约为65%，韩国为59%。
+马来西亚正在接近目标，但仍远远落后于发达国家——据 MIDA 发布的比较，德国录得约65%，韩国录得59%。
 
-## 为什么马来西亚仍过度依赖填埋场？
+## 为何马来西亚仍过度依赖垃圾填埋场？
 
-因为它既便宜又方便。马来西亚营运 **135个填埋场**，但其中只有 **22个**是规范运作的卫生填埋场；其余 **114个**是露天倾倒场。填埋仍是全国主导的处置方式。
+因为它便宜又方便。马来西亚运营**135个垃圾填埋场**，但其中只有**22个**是规范的卫生垃圾填埋场；其余**114个**是露天垃圾场。垃圾填埋仍是全国主要的处置方式。
 
-正是这种依赖推动了政策的转变。为了将垃圾从填埋场分流出来，马来西亚正在探索废物转化能源（waste-to-energy）。目前全国在波德申（Port Dickson）营运一座 WTE 工厂，而根据房屋及地方政府部长（The Edge Malaysia 报道），马来西亚有潜力容纳多达 **18座**在财务上可行、在环境上可持续的 WTE 工厂——尽管这些工厂尚未建成。
+正是这种依赖推动了政策转变。为将垃圾从填埋场转移出去，马来西亚正在探索垃圾发电（waste-to-energy）。全国首座 WTE 发电厂位于**森美兰波德申**，自2023年起运营。KPKT 现以在**2050年前于西马各地建设18座 WTE 发电厂**为目标，第二座位于**马六甲双溪乌浪**，预定于2029年前竣工。这些发电厂合计预计可产生高达**600兆瓦**的电力——足以供应约50万个家庭。
 
 ## 迈向循环经济
 
-2024年，在2024年循环经济大会上，房屋及地方政府部推出了**《马来西亚固体废物循环经济总蓝图（2025–2035）》**——一份十年路线图，旨在将马来西亚从"丢了就忘"的模式转向一个材料得以回收再利用的系统。据部长表示（The Edge Malaysia 报道），这种循环经济方针也有助于国家实现2050年前净零碳排放的目标。
+**2024年8月6日**，在吉隆坡希尔顿逸林酒店举行、约400名利益相关者出席的2024年循环经济大会上，房屋及地方政府部推出了**《马来西亚固体废物循环经济蓝图（2025–2035）》**——一份为期十年的路线图，旨在将马来西亚从「丢弃即遗忘」的模式转向一个材料得以回收与再利用的系统。这种循环经济方针也支持国家最早于**2050年**实现温室气体净零排放的承诺——该目标于2021年9月在第十二大马计划下宣布。
 
-投资势头也支撑着这一方向。截至2025年6月，综合废物管理与回收行业已吸引总额 **227亿令吉（RM22.7 bilion）**的投资，据 MIDA 数据。
+投资动力也支持着这一方向。截至2025年6月，综合废物管理与回收领域已吸引总额达**RM22.7 十亿（227亿令吉）**的投资，据 MIDA 所述。
 
 ## 接下来会怎样
 
-对家庭和企业而言，最实际的一步是查看你所在的州属是否已采纳672号法令。如果已采纳，源头废物分类便是法律义务，而非选择——把塑料、纸张和金属从食物废物中分离出来，并查看你当地特许经营商的可回收物收集时间表。如果你所在的州属尚未采纳该法令，地方议会仍会提供回收计划，只是较不统一。
+对家庭与企业而言，最实际的步骤是查看你所在的州属是否已采纳672法令。若已采纳，源头废物分类便是法律义务而非选择——将塑料、纸张与金属从食物废物中分离出来，并查看你当地特许经营商的可回收物收集时间表。若你所在的州属尚未采纳该法令，地方议会仍会提供回收计划，尽管统一程度较低。
 
-值得关注的事项：雪兰莪和槟城的正式采纳，这将显著扩大 SWCorp 的覆盖范围；2025年的回收率最终是否达到40%的目标；以及2025–2035年循环经济总蓝图的落实，这将决定马来西亚能否打破其对填埋场的依赖。
+值得关注的事项：672法令在雪兰莪全部12个地方政府的全面实施，以及仍在评估中的槟城采纳决定；2025年的回收率是否最终达到40%目标；以及《2025–2035年循环经济蓝图》的执行，这将决定马来西亚能否打破其对垃圾填埋场的依赖。
 
-*本文中的数字参照上方所列来源：回收率、每日废物总量、填埋场数量、国际比较及投资金额均来自 MIDA；而家庭废物组成、废物转化能源工厂详情及2050年净零排放目标则来自房屋及地方政府部长在总蓝图发布会（2024年）上的讲话，如 The Edge Malaysia 所报道，并应重新对照原始总蓝图文件加以核实。这是一份在 AI 协助下生成的草稿，尚未经过人工审阅。*
+*本文中的数字参照上文所列来源：回收率、每日废物总量、垃圾填埋场数目、国际比较及投资数字来自 MIDA；人均产生量（1.17 公斤/人/天）及家庭废物构成来自 KPKT；672法令的采纳状态经对照 Malay Mail 及 BERNAMA 的报道核实；蓝图的推出日期与细节来自 The Star 及 The Sun；垃圾发电厂的细节来自 BERNAMA/BusinessToday；2050年净零排放目标来自第十二大马计划（The Edge/MGTC）。本文在 AI 协助下生成，并已经过人工审核。*

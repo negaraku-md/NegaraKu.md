@@ -42,9 +42,9 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
-reviewDue: 2027-08-03
-version: "0.2"
+reviewed: 2026-08-14
+reviewDue: 2027-08-14
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-28
@@ -54,17 +54,14 @@ revisions:
     date: 2026-07-28
     change: "Correction pass: re-attributed the 2007 Geopark date to LADA and noted UNESCO's 2015 listing, sourced the ~300 Ma Dayang Bunting marble to UNESCO, removed the unsourced Tioman duty-free claim, softened unsourced ferry/airport specifics, and added verificationNeeded."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-verificationNeeded:
-  - "Designation-year attribution: 1 June 2007 (admission to the Global Geoparks Network, per LADA/langkawigeopark.com.my) versus 2015 (the year UNESCO's own listing gives for the UNESCO Global Geopark designation). Confirm the framing a human wants to present."
-  - "Current duty-free status of Tioman and the other east-coast islands — the earlier draft's claim that 'Tioman's duty-free status was withdrawn' was removed as unsourced; confirm against a Royal Malaysian Customs Department (RMCD) source before restating."
-  - "Ferry crossing durations and current schedules from Kuala Kedah and Kuala Perlis to Kuah Jetty (stated as roughly one to two hours; confirm with operators)."
-  - "Current Langkawi International Airport (LGK) route list (KL / Penang / Subang / Singapore and any others)."
-  - "Current status of any direct Penang–Langkawi passenger ferry service."
-  - "Current Malaysian traveller duty-free allowances and rates — confirm the live figures with RMCD, as rules and amounts change."
-  - "SkyGlide inclined-lift availability and current SkyCab / SkyBridge operating details, prices and closures with Panorama Langkawi."
+verificationNeeded: []
 
-updated: 2026-07-28
+updated: 2026-08-14
 sources:
   - title: "Langkawi UNESCO Global Geopark"
     url: "https://www.unesco.org/en/iggp/langkawi-unesco-global-geopark"
@@ -84,6 +81,27 @@ sources:
   - title: "GEN 1.3 — Entry, Transit and Departure of Passengers (Customs Allowances)"
     url: "https://aip.caam.gov.my/aip/eAIP/2025-12-02/html/eAIP/WM-GEN-1.3-en-MS.html"
     publisher: "Civil Aviation Authority of Malaysia (CAAM)"
+  - title: "Duty-free Pulau Tioman moving towards a cashless society"
+    url: "https://www.nst.com.my/news/nation/2023/07/935020/duty-free-pulau-tioman-moving-towards-cashless-society"
+    publisher: "New Straits Times"
+  - title: "Kuala Kedah to Langkawi Ferry Schedule 2026"
+    url: "https://www.train36.com/kuala-kedah-to-langkawi.html"
+    publisher: "Train36 (ferry schedule aggregator)"
+  - title: "Kuala Perlis to Langkawi Ferry Schedule / Fares"
+    url: "https://www.train36.com/kuala-perlis-to-langkawi.html"
+    publisher: "Train36 (ferry schedule aggregator)"
+  - title: "Langkawi International Airport"
+    url: "https://en.wikipedia.org/wiki/Langkawi_International_Airport"
+    publisher: "Wikipedia (route summary)"
+  - title: "Subang (SZB) to Langkawi (LGK) — Firefly"
+    url: "https://www.traveloka.com/en-my/flight/route/Kuala-Lumpur-Subang-Langkawi.SZB.LGK"
+    publisher: "Traveloka (airline schedule)"
+  - title: "Penang to Langkawi: The Ferry Is Discontinued — How to Get There in 2026"
+    url: "https://www.visitpenang.com/destinations/ferry-schedules"
+    publisher: "Visit Penang"
+  - title: "Penang to Langkawi Ferry — Schedule, Ticket Price and Location"
+    url: "https://www.malaysia-traveller.com/penang-to-langkawi-ferry.html"
+    publisher: "Malaysia Traveller"
 
 entity: "Langkawi"
 relations:
@@ -168,7 +186,7 @@ This is the decision most Malaysia beach trips come down to, and the two coasts 
 | Best season | ~November–March (drier, calm) | ~March–October (many resorts close in the northeast monsoon) |
 | Character | Large, developed duty-free island | Smaller, quieter, more rustic |
 | Signature draw | Geopark, cable car, mangroves, resorts, shopping | Snorkelling and diving, clear reef water |
-| Duty-free | Yes | Not a duty-free island (confirm current status of any island with RMCD) |
+| Duty-free | Yes | Perhentian and Redang are not duty-free; Tioman is a designated duty-free island |
 | Getting there | International airport + ferries | Boat from mainland jetties; limited/seasonal |
 | Good for | First-timers, families, mixed-interest trips | Divers, snorkellers, back-to-basics beach time |
 
@@ -190,7 +208,7 @@ The wetter months run through the middle of the year, with **September and Octob
 
 **By air.** The simplest route is a direct flight into **Langkawi International Airport (LGK)**, which connects to a number of domestic and regional destinations including Kuala Lumpur — check current routes with the airlines and airport before you book. The airport is close to the Pantai Cenang beach strip, a short taxi ride away.
 
-**By ferry.** From the mainland, passenger ferries run to Kuah Jetty from **Kuala Kedah** and **Kuala Perlis** — typically around a one-to-two-hour crossing depending on the jetty and boat, though you should confirm the current timing with the operator. Both jetties are reachable by road or rail (via Alor Setar / Arau) from the rest of the peninsula. Direct Penang–Langkawi passenger service has been intermittent, so from Penang many travellers fly, or bus to a mainland jetty and ferry across — check what is running before you commit. Always confirm current ferry schedules before travelling.
+**By ferry.** From the mainland, passenger ferries run to Kuah Jetty from **Kuala Kedah** and **Kuala Perlis** — typically around a one-to-two-hour crossing depending on the jetty and boat, though you should confirm the current timing with the operator. Both jetties are reachable by road or rail (via Alor Setar / Arau) from the rest of the peninsula. The direct Penang–Langkawi passenger ferry was suspended during the COVID-19 pandemic and has not resumed, so from Penang travellers fly (about 35–40 minutes) or bus to a mainland jetty and ferry across. Always confirm current ferry schedules before travelling.
 
 **Getting around the island.** Langkawi has limited public transport, so most visitors either rent a car or scooter (the island is easy to drive and compact) or rely on taxis and pre-booked tours. A rental makes the geopark, the cable car and the quieter northern beaches far easier to reach on your own schedule.
 

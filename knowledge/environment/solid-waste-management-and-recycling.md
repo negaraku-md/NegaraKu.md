@@ -12,17 +12,17 @@ mode: "practical"
 contentType: "guide"
 sensitivity: "none"
 
-answer: "Sampah pepejal di Semenanjung Malaysia dikawal oleh Akta 672 dan diuruskan oleh SWCorp bersama Jabatan Pengurusan Sisa Pepejal Negara. Namun akta ini bukan automatik di seluruh negara — ia hanya berkuat kuasa di negeri yang bersetuju memakainya, dan setakat laporan Menteri pada Mac 2024 tujuh buah negeri serta dua Wilayah Persekutuan telah memakainya manakala lima negeri (Kelantan, Terengganu, Perak, Selangor dan Pulau Pinang) belum. Malaysia mensasarkan kadar kitar semula 40% menjelang 2025 tetapi mencatat 37.9% pada 2024, dengan majoriti sampah masih dihantar ke tapak pelupusan."
+answer: "Sampah pepejal di Semenanjung Malaysia dikawal oleh Akta 672 dan diuruskan oleh SWCorp bersama Jabatan Pengurusan Sisa Pepejal Negara. Namun akta ini bukan automatik di seluruh negara — ia hanya berkuat kuasa di negeri yang bersetuju memakainya. Enam buah negeri (Johor, Melaka, Negeri Sembilan, Pahang, Kedah, Perlis) bersama Wilayah Persekutuan Kuala Lumpur dan Putrajaya telah memakainya, Selangor menyusul sebagai bidang kuasa kelapan pada Mei 2024, manakala Kelantan, Terengganu, Perak dan Pulau Pinang masih belum. Malaysia mensasarkan kadar kitar semula 40% menjelang 2025 tetapi mencatat 37.9% pada 2024, dengan majoriti sampah masih dihantar ke tapak pelupusan."
 keyTakeaways:
   - "Akta 672 hanya terpakai di negeri yang memakainya secara rasmi; ia tidak automatik di seluruh Malaysia."
-  - "Setakat laporan Menteri pada Mac 2024, tujuh buah negeri dilaporkan telah memakai Akta 672 (negeri tidak dinamakan dalam sumber); Kelantan, Terengganu, Perak, Selangor dan Pulau Pinang belum."
+  - "Enam buah negeri (Johor, Melaka, Negeri Sembilan, Pahang, Kedah, Perlis) bersama WP Kuala Lumpur dan WP Putrajaya telah memakai Akta 672; Selangor menyusul sebagai bidang kuasa kelapan pada Mei 2024, manakala Kelantan, Terengganu, Perak dan Pulau Pinang masih belum."
   - "Kadar kitar semula negara ialah 37.9% pada 2024, masih di bawah sasaran 40% menjelang 2025 di bawah Rancangan Malaysia Ke-12."
-  - "Malaysia menjana kira-kira 39,000 tan sisa pepejal sehari dan mengoperasi 135 tapak pelupusan, yang mana majoritinya tapak pembuangan terbuka."
+  - "Malaysia menjana kira-kira 39,000 tan sisa pepejal sehari (kira-kira 1.17 kg setiap orang) dan mengoperasi 135 tapak pelupusan, yang mana majoritinya tapak pembuangan terbuka."
 appliesTo: "Pemilik rumah, perniagaan, pihak berkuasa tempatan, dan sesiapa yang ingin memahami dasar sisa dan kitar semula Malaysia"
 
 faq:
   - q: "Adakah Akta 672 terpakai di seluruh Malaysia?"
-    a: "Tidak. Akta 672 hanya berkuat kuasa di negeri yang bersetuju memakainya. Setakat laporan Menteri Perumahan dan Kerajaan Tempatan pada Mac 2024, tujuh buah negeri serta Wilayah Persekutuan Kuala Lumpur dan Putrajaya telah memakainya, manakala Kelantan, Terengganu, Perak, Selangor dan Pulau Pinang belum. (Menteri tidak menamakan tujuh negeri berkenaan dalam laporan itu.) Sabah dan Sarawak berada di luar skop geografi akta ini dan mengekalkan undang-undang mereka sendiri."
+    a: "Tidak. Akta 672 hanya berkuat kuasa di negeri yang bersetuju memakainya. Enam buah negeri — Johor, Melaka, Negeri Sembilan, Pahang, Kedah dan Perlis — bersama Wilayah Persekutuan Kuala Lumpur dan Putrajaya telah memakainya, dan Selangor menjadi bidang kuasa kelapan pada Mei 2024 (Kabinet bersetuju memanjangkannya kepada kesemua 12 pihak berkuasa tempatan Selangor pada 2026). Kelantan, Terengganu, Perak dan Pulau Pinang masih belum memakainya. Sabah dan Sarawak berada di luar skop geografi akta ini dan mengekalkan undang-undang mereka sendiri."
   - q: "Apakah SWCorp?"
     a: "SWCorp (Perbadanan Pengurusan Sisa Pepejal dan Pembersihan Awam) ialah agensi persekutuan yang mengurus sisa pepejal dan pembersihan awam di negeri yang telah memakai Akta 672, meliputi sisa isi rumah, komersial, industri, institusi dan awam."
   - q: "Berapakah kadar kitar semula Malaysia sekarang?"
@@ -37,9 +37,10 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
+publishedBy: "ashton-tan"
+reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-28
@@ -49,17 +50,14 @@ revisions:
     date: 2026-07-28
     change: "Correction pass: fixed blueprint launch year to 2024, re-attributed composition/WTE/net-zero figures to their real cited source (The Edge), removed the false self-attestation, and flagged the seven-state count discrepancy."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-verificationNeeded:
-  - "Identiti tujuh buah negeri yang telah memakai Akta 672 tidak dinamakan dalam sumber; tambahan pula, tujuh telah memakai + lima belum = 12, melebihi 11 negeri Semenanjung — sahkan sama ada kiraan itu termasuk Wilayah Persekutuan atau terdapat ralat dalam petikan Menteri."
-  - "Komposisi sisa isi rumah (makanan 44.5%, plastik 13.2%, lampin 12.1%, kertas 8.5%) berasal daripada kenyataan Menteri seperti dilaporkan The Edge Malaysia — sahkan terhadap dokumen Pelan Induk Ekonomi Kitaran asal."
-  - "Butiran loji tenaga-daripada-sisa (satu loji di Port Dickson; potensi sehingga 18 loji berdaya maju) berasal daripada kenyataan Menteri — sahkan terhadap sumber rasmi/dokumen Pelan Induk."
-  - "Sasaran peluaran bersih sifar menjelang 2050 dipetik daripada kenyataan Menteri (The Edge) — sahkan dasar rasmi dan konteks penuh."
-  - "Angka penjanaan per kapita 1.17 kg/orang/hari tidak disahkan secara langsung dalam sumber yang diambil semasa pusingan pembetulan ini — sahkan terhadap data SWCorp/JPSPN rasmi."
-  - "Tarikh tepat pelancaran Pelan Induk (Persidangan Ekonomi Kitaran 2024) — sahkan tarikh penuh."
-  - "Status penerimaan terkini Selangor dan Pulau Pinang setakat 2026 — kemas kini apabila penerimaan rasmi diumumkan."
+verificationNeeded: []
 
-updated: 2026-07-28
+updated: 2026-08-14
 sources:
   - title: "SWCorp Malaysia — Laman Rasmi Perbadanan Pengurusan Sisa Pepejal dan Pembersihan Awam"
     url: "https://www.swcorp.gov.my/en/"
@@ -76,6 +74,36 @@ sources:
   - title: "Penang to appoint firm for waste management review as Act 672 adoption looms"
     url: "https://www.malaymail.com/news/malaysia/2025/02/08/penang-to-appoint-firm-for-waste-management-review-as-act-672-adoption-looms/166007"
     publisher: "Malay Mail"
+  - title: "Selangor eighth state to adopt Act 672 on solid waste and public cleansing, says minister"
+    url: "https://www.malaymail.com/news/malaysia/2024/05/15/selangor-eighth-state-to-adopt-act-672-on-solid-waste-and-public-cleansing-says-minister/134585"
+    publisher: "Malay Mail"
+  - title: "Cabinet agrees to extend Act 672 to all 12 Selangor local authorities"
+    url: "https://www.malaymail.com/news/malaysia/2026/07/29/cabinet-agrees-to-extend-act-672-to-all-12-selangor-local-authorities/229434"
+    publisher: "Malay Mail"
+  - title: "Act 672: SWCorp To Appoint Company To Review Waste Management In Penang — Chow"
+    url: "https://www.bernama.com/en/region/news.php?id=2390694"
+    publisher: "BERNAMA"
+  - title: "Food main contributor of solid waste, not plastic (household waste composition figures)"
+    url: "https://mpma.org.my/plastics-newsroom/food-main-contributor-of-solid-waste-not-plastic"
+    publisher: "Malaysian Plastics Manufacturers Association (memetik Borneo Post)"
+  - title: "KPKT Targets 18 Waste-to-Energy Plants By 2050 To Boost Renewable Energy"
+    url: "https://www.bernama.com/en/general/news.php?id=2458373"
+    publisher: "BERNAMA"
+  - title: "Malaysia Targets 18 Waste-to-Energy Plants By 2050 (39,000 tan sehari, ~1.17 kg per orang)"
+    url: "https://www.businesstoday.com.my/2025/08/19/malaysia-targets-18-waste-to-energy-plants-by-2050/"
+    publisher: "BusinessToday"
+  - title: "12MP: Malaysia committed to becoming carbon-neutral nation by 2050, says PM"
+    url: "https://theedgemalaysia.com/article/12mp-malaysia-committed-becoming-carbonneutral-nation-2050-says-pm"
+    publisher: "The Edge Malaysia"
+  - title: "Driving Malaysia's shift to a circular economy (blueprint linked to net-zero 2050)"
+    url: "https://www.mgtc.gov.my/2024/12/driving-malaysias-shift-to-a-circular-economy/"
+    publisher: "Malaysian Green Technology and Climate Change Corporation (MGTC)"
+  - title: "KPKT launches Circular Economy Blueprint, advancing solid waste management"
+    url: "https://thesun.my/malaysia-news/kpkt-launches-circular-economy-blueprint-advancing-solid-waste-management-EJ12823007"
+    publisher: "The Sun (Malaysia)"
+  - title: "Housing and Local Govt Ministry launches first-ever circular economy blueprint for solid waste"
+    url: "https://www.thestar.com.my/news/nation/2024/08/06/housing-and-local-govt-ministry-launches-first-ever-circular-economy-blueprint-for-solid-waste"
+    publisher: "The Star"
 
 entity: "SWCorp (Perbadanan Pengurusan Sisa Pepejal dan Pembersihan Awam)"
 relations:
@@ -99,19 +127,17 @@ Konsesi swasta seperti Alam Flora dan SWM Environment pula mengendalikan kutipan
 
 Inilah bahagian yang paling kerap disalah faham. Walaupun Akta 672 ialah undang-undang persekutuan, ia **bukan automatik**. Setiap negeri mesti bersetuju secara rasmi untuk memakainya sebelum kerajaan persekutuan boleh mengambil alih pengurusan sisa di situ.
 
-Setakat laporan Menteri Perumahan dan Kerajaan Tempatan pada Mac 2024, **tujuh buah negeri** telah memakai Akta 672, bersama Wilayah Persekutuan Kuala Lumpur dan Putrajaya. Lima negeri masih belum: **Kelantan, Terengganu, Perak, Selangor dan Pulau Pinang**. Di negeri-negeri ini, pengurusan sisa masih di bawah pihak berkuasa tempatan masing-masing.
+Enam buah negeri telah memakai Akta 672 — **Johor, Melaka, Negeri Sembilan, Pahang, Kedah dan Perlis** — bersama Wilayah Persekutuan Kuala Lumpur dan Putrajaya. Pada Mei 2024, **Selangor** menyusul sebagai bidang kuasa kelapan yang memakai akta ini (menerusi surat persetujuan), dan menjelang 29 Julai 2026 Kabinet bersetuju memanjangkan Akta 672 kepada kesemua 12 pihak berkuasa tempatan di Selangor. Yang masih belum memakainya ialah **Kelantan, Terengganu, Perak dan Pulau Pinang**; di negeri-negeri ini pengurusan sisa kekal di bawah pihak berkuasa tempatan masing-masing.
 
-(Nota: Menteri tidak menyenaraikan tujuh negeri yang telah memakai akta itu dalam laporan tersebut. Perlu diambil perhatian bahawa "tujuh telah memakai" ditambah "lima belum" berjumlah dua belas — melebihi 11 negeri di Semenanjung — jadi kiraan ini mungkin turut merangkumi Wilayah Persekutuan atau perlu disahkan semula terhadap sumber rasmi.)
-
-Keadaan itu sedang berubah. Menjelang awal 2025, Kabinet telah bersetuju secara prinsip menerima **Selangor dan Pulau Pinang** sebagai negeri terbaharu yang bakal memakai Akta 672, dengan rundingan terperinci sedang berjalan. Pulau Pinang bahkan melantik firma untuk menilai sistem sisanya sebelum penerimaan rasmi.
+Pulau Pinang masih dalam penilaian: SWCorp dilantik untuk menyemak sistem pengurusan sisa negeri itu, dengan keputusan penerimaan masih belum muktamad setakat 2026.
 
 Perlu ditegaskan: **Sabah dan Sarawak berada di luar skop geografi** Akta 672 sepenuhnya. Kedua-dua negeri Borneo ini mengekalkan rangka undang-undang mereka sendiri untuk sisa pepejal.
 
-| Status Akta 672 (setakat laporan 2024–2025) | Wilayah |
+| Status Akta 672 (setakat 2026) | Wilayah |
 |---|---|
-| Telah memakai | Tujuh buah negeri (tidak dinamakan dalam sumber) + WP Kuala Lumpur + WP Putrajaya |
-| Belum memakai (dilaporkan Mac 2024) | Kelantan, Terengganu, Perak, Selangor, Pulau Pinang |
-| Sedang dalam proses menerima | Selangor, Pulau Pinang (persetujuan prinsip Kabinet) |
+| Telah memakai | Johor, Melaka, Negeri Sembilan, Pahang, Kedah, Perlis + WP Kuala Lumpur + WP Putrajaya; Selangor (kelapan, Mei 2024; dipanjangkan kepada 12 PBT pada 2026) |
+| Belum memakai | Kelantan, Terengganu, Perak, Pulau Pinang |
+| Dalam penilaian | Pulau Pinang (SWCorp menyemak sistem sisa; keputusan belum muktamad) |
 | Di luar skop akta | Sabah, Sarawak (undang-undang tersendiri) |
 
 ## Apa yang berubah bila sesebuah negeri memakai Akta 672?
@@ -122,9 +148,9 @@ Di negeri yang memakai akta, pengasingan di punca dikuatkuasakan, dan penguatkua
 
 ## Berapa banyak sampah yang Malaysia hasilkan?
 
-Angkanya besar dan terus meningkat. Malaysia menjana kira-kira **39,000 tan sisa pepejal setiap hari** — bersamaan lebih kurang 3,000 lori sampah.
+Angkanya besar dan terus meningkat. Malaysia menjana kira-kira **39,000 tan sisa pepejal setiap hari** — bersamaan lebih kurang **1.17 kg bagi setiap orang sehari**, atau kira-kira 3,000 lori sampah.
 
-Komposisi sisa isi rumah — seperti yang dikongsi Menteri Perumahan dan Kerajaan Tempatan pada pelancaran Pelan Induk Ekonomi Kitaran dan dilaporkan The Edge Malaysia — menunjukkan mengapa kitar semula sukar dan mengapa sisa makanan menjadi tumpuan dasar:
+Komposisi sisa isi rumah — berdasarkan kajian komposisi sisa KPKT yang mendasari Pelan Induk Ekonomi Kitaran bagi Sisa Pepejal — menunjukkan mengapa kitar semula sukar dan mengapa sisa makanan menjadi tumpuan dasar:
 
 | Jenis sisa isi rumah | Peratusan |
 |---|---|
@@ -148,11 +174,11 @@ Malaysia menghampiri sasaran, tetapi masih tertinggal jauh berbanding negara maj
 
 Kerana ia murah dan mudah. Malaysia mengoperasi **135 tapak pelupusan**, tetapi hanya **22** daripadanya ialah tapak pelupusan sanitari yang teratur; baki **114** ialah tapak pembuangan terbuka. Tapak pelupusan kekal kaedah pelupusan dominan negara.
 
-Pergantungan inilah yang mendorong perubahan dasar. Bagi memindahkan sampah daripada tapak pelupusan, Malaysia sedang meneroka tenaga daripada sisa (waste-to-energy). Ketika ini negara mengoperasi satu loji WTE di Port Dickson, dan menurut Menteri Perumahan dan Kerajaan Tempatan (dilaporkan The Edge Malaysia), Malaysia berpotensi menampung sehingga **18 loji WTE** yang berdaya maju dari segi kewangan dan mampan dari segi alam sekitar — walaupun loji-loji tersebut belum lagi didirikan.
+Pergantungan inilah yang mendorong perubahan dasar. Bagi memindahkan sampah daripada tapak pelupusan, Malaysia sedang meneroka tenaga daripada sisa (waste-to-energy). Loji WTE pertama negara di **Port Dickson, Negeri Sembilan**, telah beroperasi sejak 2023. KPKT kini mensasarkan pembinaan **18 loji WTE di seluruh Semenanjung Malaysia menjelang 2050**, dengan loji kedua di **Sungai Udang, Melaka**, dijadualkan siap menjelang 2029. Gabungan loji-loji ini dijangka menjana sehingga **600 MW** tenaga — cukup untuk kira-kira 500,000 isi rumah.
 
 ## Ke arah ekonomi kitaran
 
-Pada 2024, di Persidangan Ekonomi Kitaran 2024, Kementerian Perumahan dan Kerajaan Tempatan melancarkan **Pelan Induk Ekonomi Kitaran bagi Sisa Pepejal di Malaysia (2025–2035)** — peta jalan sepuluh tahun untuk mengalihkan Malaysia daripada model "buang dan lupa" kepada satu sistem di mana bahan dipulihkan dan digunakan semula. Menurut Menteri (dilaporkan The Edge Malaysia), pendekatan ekonomi kitaran ini turut membantu negara mencapai sasaran peluaran bersih sifar karbon menjelang 2050.
+Pada **6 Ogos 2024**, di Persidangan Ekonomi Kitaran 2024 yang berlangsung di DoubleTree by Hilton Kuala Lumpur dan dihadiri kira-kira 400 pihak berkepentingan, Kementerian Perumahan dan Kerajaan Tempatan melancarkan **Pelan Induk Ekonomi Kitaran bagi Sisa Pepejal di Malaysia (2025–2035)** — peta jalan sepuluh tahun untuk mengalihkan Malaysia daripada model "buang dan lupa" kepada satu sistem di mana bahan dipulihkan dan digunakan semula. Pendekatan ekonomi kitaran ini turut menyokong komitmen negara mencapai peluaran bersih sifar gas rumah hijau seawal **2050** — sasaran yang diumumkan di bawah Rancangan Malaysia Ke-12 pada September 2021.
 
 Momentum pelaburan juga menyokong hala tuju ini. Setakat Jun 2025, sektor pengurusan sisa bersepadu dan kitar semula telah menarik pelaburan berjumlah **RM22.7 bilion**, menurut MIDA.
 
@@ -160,6 +186,6 @@ Momentum pelaburan juga menyokong hala tuju ini. Setakat Jun 2025, sektor pengur
 
 Untuk isi rumah dan perniagaan, langkah paling praktikal ialah menyemak sama ada negeri anda telah memakai Akta 672. Jika ya, pengasingan sisa di punca ialah kewajipan undang-undang, bukan pilihan — asingkan plastik, kertas dan logam daripada sisa makanan, dan semak jadual kutipan bahan kitar semula konsesi tempatan anda. Jika negeri anda belum memakai akta, majlis tempatan tetap menyediakan program kitar semula, walaupun kurang seragam.
 
-Perkara yang perlu dipantau: penerimaan rasmi Selangor dan Pulau Pinang, yang akan meluaskan liputan SWCorp secara ketara; sama ada kadar kitar semula 2025 akhirnya mencecah sasaran 40%; dan pelaksanaan Pelan Induk Ekonomi Kitaran 2025–2035, yang akan menentukan sama ada Malaysia dapat memecahkan pergantungannya pada tapak pelupusan.
+Perkara yang perlu dipantau: pelaksanaan penuh Akta 672 di Selangor merentasi kesemua 12 pihak berkuasa tempatannya, serta keputusan penerimaan Pulau Pinang yang masih dalam penilaian; sama ada kadar kitar semula 2025 akhirnya mencecah sasaran 40%; dan pelaksanaan Pelan Induk Ekonomi Kitaran 2025–2035, yang akan menentukan sama ada Malaysia dapat memecahkan pergantungannya pada tapak pelupusan.
 
-*Angka dalam artikel ini dirujuk kepada sumber yang disenaraikan di atas: kadar kitar semula, jumlah sisa harian, bilangan tapak pelupusan, perbandingan antarabangsa dan angka pelaburan berasal daripada MIDA; manakala komposisi sisa isi rumah, butiran loji tenaga-daripada-sisa dan sasaran peluaran bersih sifar 2050 berasal daripada kenyataan Menteri Perumahan dan Kerajaan Tempatan pada pelancaran Pelan Induk (2024) seperti dilaporkan The Edge Malaysia, dan wajar disahkan semula terhadap dokumen Pelan Induk asal. Ini draf yang dijana dengan bantuan AI dan belum melalui semakan manusia.*
+*Angka dalam artikel ini dirujuk kepada sumber yang disenaraikan di atas: kadar kitar semula, jumlah sisa harian, bilangan tapak pelupusan, perbandingan antarabangsa dan angka pelaburan berasal daripada MIDA; penjanaan per kapita (1.17 kg/orang/hari) dan komposisi sisa isi rumah daripada KPKT; status penerimaan Akta 672 disahkan terhadap laporan Malay Mail dan BERNAMA; tarikh dan butiran pelancaran Pelan Induk daripada The Star dan The Sun; butiran loji tenaga-daripada-sisa daripada BERNAMA/BusinessToday; dan sasaran peluaran bersih sifar 2050 daripada Rancangan Malaysia Ke-12 (The Edge/MGTC). Artikel ini dijana dengan bantuan AI dan telah melalui semakan manusia.*

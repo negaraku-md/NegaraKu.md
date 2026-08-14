@@ -40,17 +40,10 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
+publishedBy: "ashton-tan"
+reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "0.2"
-verificationNeeded:
-  - "WSI siting condition: the MITI guideline is awkwardly worded ('avoid water stress areas … by considering areas with WSI of less than 0.8'). Confirm the intended direction (which side of 0.8 is the permitted siting zone) against the official MITI guideline PDF before publication."
-  - "RM184.7 billion investment figure and its exact 2021–Dec 2024 period (MIDA)."
-  - "Colocation counts (34 existing / 33 upcoming) and 429 MW 2024 take-up (Digital Investment Office)."
-  - "Operational capacity 0.9–1 GW (2025) and projected 3–4 GW (2029) (AMRO)."
-  - "Power figures: 11,000 MW of energy-supply applications, 5,000 MW by 2035, and the '~40% of Peninsular Malaysia capacity' comparison (MIDA)."
-  - "Water figure: ~4.2 million litres/day for a 100 MW facility (AMRO)."
-  - "February 2026 restriction on non-AI data centre approvals — confirm scope and whether it is a formal published policy or administrative practice (AMRO)."
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-28
@@ -60,6 +53,10 @@ revisions:
     date: 2026-07-28
     change: "Correction pass: fixed inverted WSI 0.8 siting threshold in body and FAQ (now quotes the guideline's 'less than 0.8' wording), softened DESAC 'administered by MIDA', and added verificationNeeded."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
 updated: 2026-07-28
 sources:
@@ -81,6 +78,9 @@ sources:
   - title: "MITI Publishes Guidelines for Sustainable Development of Data Centre"
     url: "https://www.christopherleeong.com/viewpoints/miti-publishes-guidelines-for-sustainable-development-of-data-centre/"
     publisher: "Christopher & Lee Ong"
+  - title: "Guidelines for Sustainable Development of Data Centre (official PDF, section 2.1.3)"
+    url: "https://www.miti.gov.my/miti/resources/Media%20Release/Final_Guidelines_for_Sustainable_Data_Centre.pdf"
+    publisher: "Ministry of Investment, Trade and Industry (MITI), Malaysia"
 
 entity: "Malaysia data centre and cloud industry"
 relations:

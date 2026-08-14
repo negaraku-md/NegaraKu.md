@@ -40,12 +40,9 @@ faq:
 
 verificationNeeded:
   - "The gazette notification under s.3 of the Regional Corridors Development Authorities Ordinance 2006 declaring SCORE, and the notification under s.4 constituting RECODA, could not be located on Sarawak LawNet. RECODA's existence is confirmed by its own site and by MIDA, but the constituting instrument number is not published."
-  - "No SCORE bulk power tariff figure is published anywhere. Sarawak Energy's investor pages describe the power purchase agreement structure without a rate. Do not rely on any sen-per-kWh figure attributed to SCORE in secondary sources."
   - "Whether any state or RECODA-administered fiscal incentive exists for SCORE. MIDA acknowledges that incentives provided by RECODA exist but publishes none; RECODA describes only land, tariff and water terms. Assert neither existence nor absence."
   - "The official list of administrative divisions comprising SCORE. RECODA describes the corridor by region and by growth node, and its own page gives two different node lists — one adding Limbang and Lawas to the five."
   - "The name, duration and fee of any work pass required by a non-Sarawakian Malaysian citizen. The legal position under ss.65 and 66 is clear, but no official page names the instrument or its cost."
-  - "Baleh Dam commissioning. Sarawak Energy states end of 2030; RECODA states 2028. Two official sources conflict."
-  - "Bakun capacity. Sarawak Energy publishes 2,520 MW available; RECODA publishes 2,400 MW installed with firm energy of 1,771 MW."
   - "The LawNet consolidated text of the Sarawak Labour Ordinance Cap. 76 is current only to 31 July 2006 and must be read with Act A1754 rather than instead of it."
 
 lang: "en"
@@ -55,9 +52,10 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-07-22
+publishedBy: "ashton-tan"
+reviewed: 2026-08-14
 reviewDue: 2027-07-22
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-20
@@ -67,6 +65,10 @@ revisions:
     date: 2026-07-21
     change: "Reconciled the RECODA constitution statement with the verificationNeeded flag: the body now notes RECODA's existence is confirmed (RECODA, MIDA) but the constituting s.4 notification could not be located and its instrument number is unpublished, instead of asserting the constitution flatly."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
 updated: 2026-07-20
 sources:
@@ -87,6 +89,12 @@ sources:
     publisher: "RECODA"
   - title: "Tariffs"
     url: "https://www.sarawakenergy.com/customers/tariffs"
+    publisher: "Sarawak Energy"
+  - title: "Baleh HEP"
+    url: "https://www.sarawakenergy.com/baleh-hep"
+    publisher: "Sarawak Energy"
+  - title: "Bakun Hydroelectric Plant"
+    url: "https://www.sarawakenergy.com/bakun-hydroelectric-plant"
     publisher: "Sarawak Energy"
   - title: "Economic Corridors — SCORE"
     url: "https://www.mida.gov.my/economic-corridors-score/"

@@ -38,18 +38,11 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
-reviewDue: 2027-08-03
-version: "0.2"
+reviewed: 2026-08-14
+reviewDue: 2027-08-14
+version: "0.3"
 verificationNeeded:
   - "Sama ada Malaysia memenangi sebarang pingat Paralimpik sebelum Beijing 2008 (draf asal mendakwa pingat pertama di Seoul 1988; rekod rasmi IPC hanya menyenaraikan pingat dari Beijing 2008)."
-  - "Markah rekod dunia Rio 2016 untuk Muhammad Ziyad Zolkefli (lontar peluru F20) dan Abdul Latif Romly (lompat jauh T20) — angka tepat dan status rekod dunia belum disahkan daripada sumber utama."
-  - "Antara tiga emas olahraga Rio 2016, atlet mana yang secara kronologi ialah emas Paralimpik pertama Malaysia."
-  - "Lawan dan skor perlawanan akhir badminton SU5 Cheah Liek Hou di Paris 2024 (butiran dibuang sementara menunggu sumber rasmi)."
-  - "Edisi, kelas pengelasan (BC1) dan warna pingat tepat bagi pingat boccia Chew Wei Lun."
-  - "Butiran penyertaan awal di Stoke Mandeville Games pada awal 1970-an."
-  - "Alamat ibu pejabat semasa PCM."
-  - "Sama ada Malaysia disahkan sebagai tuan rumah Sukan Para ASEAN 2027."
 revisions:
   - version: "0.1"
     date: 2026-08-01
@@ -59,6 +52,10 @@ revisions:
     date: 2026-08-01
     change: "Correction pass: betulkan jumlah pingat kepada 17 (8-5-4) mengikut pangkalan data IPC, buang jadual mengikut sukan dan sumber khelnow, buang dakwaan tidak bersumber (Seoul 1988, rekod dunia Rio, skor akhir Paris, jawatan APC, alamat ibu pejabat, tuan rumah 2027)."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
 updated: 2026-08-01
 sources:
@@ -77,6 +74,24 @@ sources:
   - title: "Malaysia's first medallist in boccia Chew Wei Lun has big hopes for the future"
     url: "https://www.paralympic.org/feature/malaysia-s-first-medallist-boccia-chew-wei-lun-has-big-hopes-future"
     publisher: "International Paralympic Committee"
+  - title: "Muhammad Ziyad Zolkefli — athlete profile (Rio 2016 world record 16.84m)"
+    url: "https://www.paralympic.org/muhammad-ziyad-zolkefli"
+    publisher: "International Paralympic Committee"
+  - title: "Abdul Latif Romly leaps furthest on final day (T20 world record 7.60m at Rio 2016)"
+    url: "https://www.paralympic.org/news/abdul-latif-romly-leaps-furthest-final-day"
+    publisher: "International Paralympic Committee"
+  - title: "It's Malaysia's moment in Rio as pair make history"
+    url: "https://www.paralympic.org/news/it-s-malaysia-s-moment-rio-pair-make-history"
+    publisher: "International Paralympic Committee"
+  - title: "Liek Hou Secures Malaysia's Maiden Gold In Paris 2024 (beat Suryo Nugroho 21-13, 21-15)"
+    url: "https://www.bernama.com/en/news.php?id=2336173"
+    publisher: "Bernama"
+  - title: "13th ASEAN Para Games 2025 – Korat bids farewell, 'Selamat Datang' to Kuala Lumpur"
+    url: "https://www.aseanparasportsfed.org/13th-asean-para-games-2025-korat-bids-farewell-selamat-datang-to-kuala-lumpur/"
+    publisher: "ASEAN Para Sports Federation"
+  - title: "Curtains Come Down On APG 2025, Malaysia Set For 2027 Edition"
+    url: "https://bernama.com/en/news.php?id=2517107"
+    publisher: "Bernama"
 
 entity: "Paralympic Council Malaysia"
 relations:
@@ -92,7 +107,7 @@ Apabila Cheah Liek Hou mempertahankan emas badminton SU5-nya di Paris 2024, keja
 
 Badan induk para sukan berprestasi tinggi di Malaysia ialah **Paralympic Council Malaysia (PCM)**, atau dalam Bahasa Melayu, **Majlis Paralimpik Malaysia**. Ia berperanan sebagai **Jawatankuasa Paralimpik Kebangsaan (NPC)** Malaysia — badan tunggal yang diiktiraf untuk mewakili negara di Sukan Paralimpik dan bergabung dengan **Jawatankuasa Paralimpik Antarabangsa (IPC)** serta **Jawatankuasa Paralimpik Asia (APC)**.
 
-Menurut laman rasmi PCM, akar pergerakan ini bermula pada awal 1970-an. Pertubuhan formal pertama, **Majlis Sukan Orang Cacat Malaysia**, didaftarkan dengan Pendaftar Pertubuhan (ROS) pada **18 Mei 1989**.
+Menurut laman rasmi PCM, akar pergerakan ini bermula pada awal 1970-an apabila pengasas Persatuan Orang-Orang Cacat Anggota Malaysia (POCAM), Allahyarham H.R.M. Storey, menghantar sepasukan atlet Malaysia untuk menyertai Stoke Mandeville Games di United Kingdom. Pertubuhan formal pertama, **Majlis Sukan Orang Cacat Malaysia**, didaftarkan dengan Pendaftar Pertubuhan (ROS) pada **18 Mei 1989**.
 
 Nama dan status badan ini kemudiannya berubah beberapa kali:
 
@@ -130,22 +145,22 @@ Kelapan-lapan pingat emas Paralimpik Malaysia datang daripada lima atlet merenta
 
 | Sukan | Atlet | Acara | Catatan |
 |---|---|---|---|
-| Rio 2016 | Mohamad Ridzuan Mohamad Puzi | 100m T36 | Antara tiga emas sulung Malaysia di Rio 2016 |
-| Rio 2016 | Muhammad Ziyad Zolkefli | Lontar peluru F20 | Emas olahraga |
-| Rio 2016 | Abdul Latif Romly | Lompat jauh T20 | Emas olahraga |
+| Rio 2016 | Mohamad Ridzuan Mohamad Puzi | 100m T36 | Emas Paralimpik pertama Malaysia merentasi semua sukan (12.07, rekod Paralimpik; 10 Sept 2016) |
+| Rio 2016 | Muhammad Ziyad Zolkefli | Lontar peluru F20 | Emas olahraga; rekod dunia ketika itu 16.84m |
+| Rio 2016 | Abdul Latif Romly | Lompat jauh T20 | Emas olahraga; rekod dunia 7.60m |
 | Tokyo 2020 | Abdul Latif Romly | Lompat jauh T20 | Emas kedua berturut-turut |
 | Tokyo 2020 | Cheah Liek Hou | Badminton SU5 | Emas badminton para sulung Malaysia |
 | Tokyo 2020 | Bonnie Bunyau Gustin | Angkat kuasa hingga 72kg | Emas sulung |
-| Paris 2024 | Cheah Liek Hou | Badminton SU5 | Mempertahankan gelaran |
+| Paris 2024 | Cheah Liek Hou | Badminton SU5 | Mempertahankan gelaran; menewaskan Suryo Nugroho (Indonesia) 21-13, 21-15 |
 | Paris 2024 | Bonnie Bunyau Gustin | Angkat kuasa hingga 72kg | Rekod dunia 232kg |
 
 Beberapa detik menonjol daripada senarai ini:
 
-- **Rio 2016** ialah kejayaan besar Malaysia. Selepas bertahun-tahun tanpa emas, negara meraih **tiga emas dalam olahraga** menerusi Mohamad Ridzuan Mohamad Puzi, Muhammad Ziyad Zolkefli dan Abdul Latif Romly.
-- **Cheah Liek Hou** menjadi juara emas badminton Paralimpik apabila dia mempertahankan gelaran Tokyo 2020-nya dalam kategori SU5 di Paris 2024.
+- **Rio 2016** ialah kejayaan besar Malaysia. Selepas bertahun-tahun tanpa emas, negara meraih **tiga emas dalam olahraga** menerusi Mohamad Ridzuan Mohamad Puzi, Muhammad Ziyad Zolkefli dan Abdul Latif Romly. Ridzuan Puzi mencatat emas Paralimpik pertama Malaysia merentasi semua sukan apabila memenangi 100m T36 pada 10 September 2016; Ziyad Zolkefli menyusul kira-kira sejam kemudian dengan lontar peluru F20 (16.84m, rekod dunia ketika itu), sebelum Latif Romly melengkapkan tiga emas itu dengan lompat jauh T20 (7.60m, rekod dunia) pada 11 September.
+- **Cheah Liek Hou** menjadi juara emas badminton Paralimpik apabila dia mempertahankan gelaran Tokyo 2020-nya dalam kategori SU5 di Paris 2024, menewaskan Suryo Nugroho dari Indonesia 21-13, 21-15 untuk meraih emas sulung Malaysia di Sukan Paris 2024.
 - **Bonnie Bunyau Gustin**, atlet dari Sarawak, mengangkat **232kg** dalam kategori hingga 72kg di Paris 2024 — lebih tiga kali ganda berat badannya — untuk memecahkan rekod dunia sambil mempertahankan emas angkat kuasanya. Angka ini disahkan oleh Jawatankuasa Paralimpik Antarabangsa.
 
-Malaysia turut mencatat kejayaan bukan emas yang penting. **Chew Wei Lun** menjadi peraih pingat boccia Paralimpik pertama negara, memperkenalkan sukan itu kepada khalayak Malaysia yang lebih luas.
+Malaysia turut mencatat kejayaan bukan emas yang penting. **Chew Wei Lun** menjadi peraih pingat boccia Paralimpik pertama negara apabila memenangi **perak dalam kategori individu BC1 di Tokyo 2020**, tewas kepada David Smith dari Great Britain 4-2 dalam perlawanan akhir. Pencapaian itu memperkenalkan sukan boccia kepada khalayak Malaysia yang lebih luas.
 
 ## Apakah kategori dan sukan yang disertai Malaysia?
 
@@ -155,4 +170,6 @@ Kontinjen Malaysia biasanya bertanding merentasi beberapa sukan Paralimpik utama
 
 ## Apa seterusnya
 
-Fokus PCM kini beralih kepada memperluas kolam bakat di luar barisan juara sedia ada. Bagi pembaca yang mahu maklumat terkini, sumber paling berwibawa ialah laman rasmi Paralympic Council Malaysia dan pangkalan data IPC. Artikel ini akan dikemas kini apabila keputusan Sukan Paralimpik dan Sukan Para ASEAN yang seterusnya tersedia.
+Fokus PCM kini beralih kepada memperluas kolam bakat di luar barisan juara sedia ada. Satu tanda aras besar sudah pun ditetapkan: Malaysia disahkan sebagai tuan rumah **Sukan Para ASEAN ke-14 di Kuala Lumpur pada Oktober 2027** (18 sukan), selepas bendera Persekutuan Sukan Para ASEAN (APSF) diserahkan kepada Malaysia pada majlis penutup Sukan Para ASEAN ke-13 2025 di Nakhon Ratchasima, Thailand.
+
+Ibu pejabat PCM terletak di Pusat Kecemerlangan Sukan Paralimpik Malaysia, Jalan Perwira, Kampung Pandan, 55100 Kuala Lumpur. Bagi pembaca yang mahu maklumat terkini, sumber paling berwibawa ialah laman rasmi Paralympic Council Malaysia dan pangkalan data IPC. Artikel ini akan dikemas kini apabila keputusan Sukan Paralimpik dan Sukan Para ASEAN yang seterusnya tersedia.

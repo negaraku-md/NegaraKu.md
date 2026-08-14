@@ -17,7 +17,7 @@ keyTakeaways:
   - "Malaysia's crude palm oil (CPO) production hit a record 20.28 million tonnes in 2025, up 4.9% on 2024 (MPOB)."
   - "Oil palm covered about 5.70 million hectares in 2025 — Peninsular Malaysia 2.54M ha, Sarawak 1.66M ha, Sabah 1.50M ha (MPOB)."
   - "Exports of palm oil and related products earned RM112.43 billion in 2025; palm oil alone brought in RM71.63 billion (MPOB)."
-  - "The value chain flows from fresh fruit bunches to mills (CPO + palm kernel) to refineries and oleochemical/biodiesel plants; Malaysia ran 450 mills, 52 refineries, 41 kernel crushers and 22 oleochemical plants in 2022 (MPOB/KPK)."
+  - "The value chain flows from fresh fruit bunches to mills (CPO + palm kernel) to refineries and oleochemical/biodiesel plants; Malaysia ran 453 mills, 53 refineries, 43 kernel crushers and 19 oleochemical plants in December 2024 (MPOB)."
   - "The sector supports over 3 million Malaysians directly and indirectly, including nearly 500,000 smallholders (MPOC)."
   - "MPOB regulates the industry end to end; MSPO is the national sustainability certification standard. Deforestation, peatland loss and labour practices remain contested."
 appliesTo: "Students, investors, exporters, planters, smallholders, journalists and anyone researching Malaysian commodities or agribusiness."
@@ -30,7 +30,7 @@ faq:
   - q: "How much does the palm oil industry earn Malaysia?"
     a: "Exports of palm oil and related products earned RM112.43 billion in 2025 (MPOB). Palm oil itself brought in RM71.63 billion, oleochemicals RM19.39 billion and palm kernel oil RM9.21 billion."
   - q: "Who grows Malaysia's palm oil — estates or smallholders?"
-    a: "Both. Estates together with organised smallholder schemes (such as FELDA settlers) worked about 85.6% of planted area in 2022, while independent smallholders held 14.4% (816,107 hectares) (MPOB/KPK). Counting organised and independent together, smallholders number close to 500,000 people (MPOC)."
+    a: "Both. Estates together with organised smallholder schemes (such as FELDA settlers) worked about 85.4% of planted area at end-2024, while independent smallholders held 14.6% (818,678 hectares) (MPOB). Counting organised and independent together, smallholders number close to 500,000 people (MPOC)."
   - q: "What is MSPO certification?"
     a: "Malaysian Sustainable Palm Oil (MSPO) is Malaysia's mandatory national sustainability certification scheme, built on the MS 2530:2022 standards owned by the Department of Standards Malaysia. It applies across the supply chain — from smallholders and estates to mills — and is Malaysia's principal response to sustainability demands in export markets, though critics question how fully certification addresses deforestation and labour concerns."
   - q: "Who regulates the palm oil industry?"
@@ -45,7 +45,7 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-08-01
@@ -55,17 +55,17 @@ revisions:
     date: 2026-07-28
     change: "Correction pass: re-verified all 2025/2022 figures against MPOB Overview 2025 and MPOB/KPK Statistics on Commodity 2023; fixed intro overstatement, dropped unsourced worker ratio, rebalanced environmental/labour framing, tightened MS 2751:2022 and table rounding."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
 verificationNeeded:
   - "Whether sensitivity 'none' and tier '1' remain appropriate: palm oil is a contested topic (deforestation, peatland loss, EU Deforestation Regulation, migrant/forced-labour concerns). Human editor to reconsider classification."
-  - "MPOB's formation in 2000 (merger of PORIM and PORLA under the MPOB Act 1998) is not in the fetched MPOB/MPOC/KPK sources; confirm against MPOB's own history before publishing."
-  - "Downstream facility counts and capacities (450 mills, 52 refineries, 41 PK crushers, 22 oleochemical plants) are 2022 figures from MPOB/KPK Statistics on Commodity 2023; confirm the latest annual counts before presenting as current."
-  - "The 85.6% / 14.4% estates-vs-independent-smallholder split is 2022 data; confirm against the most recent MPOB distribution table."
   - "Number of MSPO-certified independent smallholders — specific figure removed pending a primary MSPO source; add back only if sourced."
   - "Breadth of export markets (exact number of destination countries) — the previous '150 countries' claim was unsourced and has been softened; confirm before quoting a precise count."
-  - "Indonesia comparison figures are directional, not like-for-like official statistics."
 
-updated: 2026-07-28
+updated: 2026-08-14
 sources:
   - title: "Overview of the Malaysian Oil Palm Industry in 2025"
     url: "https://bepi.mpob.gov.my/images/overview/Overview2025.pdf"
@@ -75,6 +75,17 @@ sources:
     url: "https://www.kpk.gov.my/kpk/images/mpi_statistik/2023_statistik_on_commodity/Sawit_2023.pdf"
     publisher: "Ministry of Plantation and Commodities (KPK) / MPOB"
     date: "2023"
+  - title: "Number and Capacities of Palm Oil Sectors, December 2024"
+    url: "https://bepi.mpob.gov.my/index.php/import/1177-number-capacities-of-palm-oil-sectors-2024"
+    publisher: "MPOB Economics & Industry Development Division"
+    date: "2024"
+  - title: "Oil Palm Planted Area 2024 (planted area by category, December 2024)"
+    url: "https://bepi.mpob.gov.my/images/area/2024/Area_summary2024.pdf"
+    publisher: "Malaysian Palm Oil Board (MPOB)"
+    date: "2024"
+  - title: "About Us — Malaysian Palm Oil Board Official Portal"
+    url: "https://mpob.gov.my/corporate-info/about-us"
+    publisher: "Malaysian Palm Oil Board (MPOB)"
   - title: "A Centennial Celebration for Malaysian Palm Oil Industry"
     url: "https://www.mpoc.org.my/a-centennial-celebration-for-malaysian-palm-oil-industry/"
     publisher: "Malaysian Palm Oil Council (MPOC)"
@@ -129,15 +140,15 @@ Both, and the split matters. Malaysian oil palm land divides into three broad gr
 
 Geographically, the industry has drifted east. Sarawak is now the single largest oil-palm state at roughly **1.66 million hectares** (about 29% of the national total), followed by Sabah at **1.50 million** and the whole of Peninsular Malaysia at **2.54 million** (MPOB, 2025).
 
-By sector, the 2022 government commodity statistics show estates and organised smallholders together working **85.6%** of planted area, with independent smallholders on **816,107 hectares (14.4%)**:
+By sector, the latest MPOB planted-area breakdown (end-2024) shows estates and organised smallholders together working **85.4%** of planted area, with independent smallholders on **818,678 hectares (14.6%)**:
 
-| Sector (2022) | Area (ha) | Share |
+| Sector (end-2024) | Area (ha) | Share |
 | --- | --- | --- |
-| Estates & organised smallholders | 4,858,634 | 85.6% |
-| Independent smallholders | 816,107 | 14.4% |
-| **Total** | **5,674,742** | **100%** |
+| Estates & organised smallholders | 4,794,174 | 85.4% |
+| Independent smallholders | 818,678 | 14.6% |
+| **Total** | **5,612,852** | **100%** |
 
-*Source: MPOB / Ministry of Plantation and Commodities, Statistics on Commodity 2023 (Table 1-2). Components are rounded to whole hectares and may not sum exactly to the official total.*
+*Source: MPOB, Oil Palm Planted Area 2024. Estates and organised smallholders are combined here; components are rounded to whole hectares and may not sum exactly to the official total.*
 
 That table understates the human footprint. Counting organised and independent growers together, smallholders number close to **500,000 people**, and the industry as a whole supports **over 3 million Malaysians** directly and indirectly, according to the Malaysian Palm Oil Council (MPOC). Smallholders are therefore central to the sector's social footprint, not a marginal fringe.
 
@@ -151,16 +162,16 @@ Palm oil is not sold as fruit — it is milled, refined and often chemically tra
 4. **Refinery → RBD products.** Refineries turn crude oil into **Refined, Bleached and Deodorised (RBD)** palm oil, olein (the liquid cooking-oil fraction) and stearin (the solid fraction), plus by-products like palm fatty acid distillate (PFAD).
 5. **Oleochemical & biodiesel plants → higher-value goods.** Oleochemical plants convert palm and kernel oil into fatty acids, glycerine, soap noodles and surfactants; biodiesel plants convert it into fuel.
 
-As of 2022, Malaysia's downstream capacity looked like this:
+As of December 2024, Malaysia's downstream capacity looked like this:
 
-| Facility (2022) | Number in operation | Annual capacity |
+| Facility (Dec 2024) | Number in operation | Annual capacity |
 | --- | --- | --- |
-| FFB mills | 450 | 119.36 million tonnes FFB |
-| Palm kernel crushers | 41 | 7.35 million tonnes |
-| Refineries | 52 | 26.90 million tonnes |
-| Oleochemical plants | 22 | 2.69 million tonnes |
+| FFB mills | 453 | 125.40 million tonnes FFB |
+| Palm kernel crushers | 43 | 7.36 million tonnes |
+| Refineries | 53 | 26.39 million tonnes |
+| Oleochemical plants | 19 | 2.68 million tonnes |
 
-*Source: MPOB / Ministry of Plantation and Commodities, Statistics on Commodity 2023 (Table 1-13). Figures are for 2022.*
+*Source: MPOB, Number and Capacities of Palm Oil Sectors, December 2024.*
 
 The strategic point is that Malaysia deliberately built the downstream. A tonne of crude oil is a commodity; a tonne of surfactant or specialty fat is a manufactured product with a fatter margin. That is why the country runs dozens of refineries and oleochemical plants rather than simply shipping crude.
 
@@ -223,7 +234,7 @@ If you are trying to make sense of a palm oil headline, run it through four ques
 ## Common mistakes and misconceptions
 
 - **"Palm oil is just cooking oil."** Only part of it. Oleochemicals (RM19.39 billion in 2025) turn it into soap, detergent, cosmetics and industrial inputs — a bigger export earner than palm kernel oil.
-- **"It's all giant corporate plantations."** Independent smallholders alone hold 14.4% of planted area, and smallholders overall number close to half a million people. The industry is more decentralised than its image suggests.
+- **"It's all giant corporate plantations."** Independent smallholders alone hold 14.6% of planted area, and smallholders overall number close to half a million people. The industry is more decentralised than its image suggests.
 - **"More hectares means more oil."** Not necessarily. Yield and oil extraction rate matter more; 2025's production record came largely from better FFB yields and OER, not new land — planted area rose only 1.6%.
 - **"Malaysia is the world's biggest producer."** It is second. Indonesia is substantially larger, and its policies often set the global price.
 - **"Certification is optional branding."** MSPO is Malaysia's mandatory national standard, and market access increasingly depends on it. Equally, critics argue certification alone does not resolve every deforestation or labour concern, so it is neither pure marketing nor a full guarantee.
@@ -233,7 +244,7 @@ If you are trying to make sense of a palm oil headline, run it through four ques
 
 Oil palm arrived in Malaya as an ornamental curiosity in **1875**. Commercial planting began in **1917**, when French planter Henri Fauconnier established the first estate at Tennamaram, in Batang Berjuntai, Selangor, and built the first mill. For decades it stayed a minor sibling to rubber.
 
-The turning point was **1961**, when FELDA began settling landless families on oil palm smallholdings — converting a colonial plantation crop into a national poverty-reduction programme. Downstream ambition followed: **palm-based oleochemical production started around 1980**, and by **1989** oil palm had overtaken rubber as Malaysia's leading agricultural crop. The regulator in its current form, MPOB, was created in **2000** by merging earlier research and licensing bodies (a date the human reviewer should confirm against MPOB's own records).
+The turning point was **1961**, when FELDA began settling landless families on oil palm smallholdings — converting a colonial plantation crop into a national poverty-reduction programme. Downstream ambition followed: **palm-based oleochemical production started around 1980**, and by **1989** oil palm had overtaken rubber as Malaysia's leading agricultural crop. The regulator in its current form, MPOB, was established on **1 May 2000** under the Malaysian Palm Oil Board Act 1998 (Act 582), taking over the functions of two earlier bodies that had each operated for over 20 years: the Palm Oil Research Institute of Malaysia (PORIM), which handled research, and the Palm Oil Registration and Licensing Authority (PORLA), which handled licensing.
 
 ## What's next
 

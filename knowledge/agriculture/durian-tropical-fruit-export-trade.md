@@ -38,9 +38,10 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
+reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "0.2"
+publishedBy: "ashton-tan"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-08-01
@@ -50,14 +51,12 @@ revisions:
     date: 2026-08-01
     change: "Correction pass: added Oct 7 2025 parliamentary-reply source for the RM1.8bn/69,000t and Taiwan/Peru claims, softened the export-period wording to mid-2025, and trimmed promotional phrasing."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-verificationNeeded:
-  - "First fresh whole-durian shipment dated August 2024 — Fruitnet only states Q3 2024 expected; the two-to-three-month registration-window framing is inferred, not directly quoted."
-  - "Protocol signing date of 19 June 2024 — confirm against a GACC or Department of Agriculture primary document."
-  - "Malaysia's estimated 4–5% share of China's durian market and the stated 8–10% five-year target."
-  - "The RM932.3 million by-2030 target, its attribution to MATRADE, and the July 2026 Beijing flagship-store launch."
-  - "Jan–Jun 2025 product-type breakdown (fresh 773t/~RM50m; frozen 3,599t/RM183m; pulp & paste 5,241t/RM230m) against the primary Dewan Rakyat written reply."
-  - "The 128 GI-registered-products count and the four registered durian GIs against MyIPO's register."
+verificationNeeded: []
 
 updated: 2026-08-01
 sources:
@@ -82,6 +81,27 @@ sources:
   - title: "Industry players urged to comply with China's durian export protocols"
     url: "https://theedgemalaysia.com/node/811224"
     publisher: "The Edge Malaysia"
+  - title: "First shipment of Malaysian fresh durian arrives in China"
+    url: "https://www.fruitnet.com/asiafruit/first-shipment-of-malaysian-fresh-durian-arrives-in-china/262032.article"
+    publisher: "Fruitnet / Asiafruit"
+  - title: "First shipment of fresh Malaysian durians arrives in China"
+    url: "https://www.globaltimes.cn/page/202408/1318620.shtml"
+    publisher: "Global Times"
+  - title: "Malaysia begins exporting fresh durian to China"
+    url: "https://eng.yidaiyilu.gov.cn/p/0655VQ60.html"
+    publisher: "Belt and Road Portal (State Council, China)"
+  - title: "Kelulusan Protokol Fitosanitari Durian Segar Malaysia-China (19 Jun 2024)"
+    url: "https://www.doa.gov.my/doa/resources/aktiviti_sumber/sumber_awam/maklumat_biosekuriti/kelulusan_protokol_fitosanitari_durian_segar_Malaysia_China.pdf"
+    publisher: "Department of Agriculture Malaysia (DOA)"
+  - title: "Malaysia Exports Durians Worth RM6.37 Bln To China From 2018-2025"
+    url: "https://www.bernama.com/en/news.php?id=2475446"
+    publisher: "BERNAMA"
+  - title: "Malaysia targets RM932.3 mil in durian exports to China by 2030"
+    url: "https://theedgemalaysia.com/node/809427"
+    publisher: "The Edge Malaysia"
+  - title: "Four Malaysian durian varieties registered, international protection needed"
+    url: "https://asianews.network/four-malaysian-durian-varieties-registered-international-protection-needed/"
+    publisher: "Asia News Network"
 
 entity: "Malaysia Durian Export Trade"
 relations:
