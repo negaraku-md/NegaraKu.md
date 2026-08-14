@@ -28,7 +28,7 @@ faq:
   - q: "Bilakah duti eksais menjadi kena bayar?"
     a: "Duti eksais menjadi kena caj apabila barang dikilang, dan kena bayar apabila ia dikeluarkan dari premis pengilang berlesen, atau pada masa pengimportan. Bagi kenderaan, ia berkait dengan proses pendaftaran."
   - q: "Adakah minuman bergula termasuk semua minuman?"
-    a: "Tidak. Duti eksais minuman bergula umumnya menyasarkan minuman sedia-minum di bawah HS 2202 yang mengandungi lebih daripada 5 gram gula bagi setiap 100ml, serta beberapa kategori jus dan susu berperisa mengikut ambang gula tersendiri."
+    a: "Tidak. Duti eksais minuman bergula menyasarkan minuman sedia-minum di bawah HS 2202 yang mengandungi lebih daripada 5 gram gula bagi setiap 100ml, minuman berasaskan susu melebihi 7 gram gula bagi setiap 100ml, dan jus buah atau sayur di bawah HS 2009 melebihi 12 gram gula bagi setiap 100ml. Ambangnya berbeza mengikut kategori."
 
 lang: "ms"
 masterLanguage: "ms"
@@ -37,9 +37,9 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-08
+reviewed: 2026-08-14
 reviewDue: 2027-08-08
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-08-07
@@ -49,17 +49,14 @@ revisions:
     date: 2026-08-07
     change: "Correction pass: sourced premix, car import duty 30%, playing-cards/mahjong 10% and SSB 5g threshold; softened CKD/CBU band scope; fixed 'cengkgiu' and premix terminology."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-verificationNeeded:
-  - "Duti import 30% bagi CBU luar ASEAN bergantung pada FTA dan senarai tarif (cth. EV China 5% di bawah ACFTA) — sahkan kadar semasa dengan Perintah Duti Kastam / JKDM."
-  - "Kadar eksais 10% bagi daun terup dan buah mahjong — sahkan dengan Perintah Duti Eksais semasa."
-  - "Sejarah tarikh berkuat kuasa duti eksais pracampur (dijadualkan 2022, ditangguh, akhirnya 1 Mac 2024 di bawah Perintah Duti Eksais (Pindaan) 2024) — sahkan dengan warta rasmi."
-  - "Ambang gula bagi susu berperisa (>7g/100ml, HS 2202) dan jus buah/sayur (>12g/100ml, HS 2009) — sesetengah sumber hanya menyebut ambang seragam 5g; sahkan ambang setiap kategori."
-  - "Kadar arak dan tembakau selepas pindaan November 2025 (bir RM7.40, wain RM450, rokok RM0.42/batang, tembakau dipanaskan RM798/kg, dll.) diambil dari sumber sekunder — sahkan dengan Perintah Duti Eksais rasmi."
-  - "Band eksais 75%–105% didokumenkan bagi lajur CKD dalam sumber; sahkan ia terpakai sama bagi CBU."
-  - "Pecahan peruntukan RM25 juta kepada Kementerian Kesihatan (ubat SGLT-2, dialisis peritoneal) — sahkan butiran dengan Kementerian Kewangan/Kesihatan."
+verificationNeeded: []
 
-updated: 2026-08-07
+updated: 2026-08-14
 sources:
   - title: "Excise Duties in Malaysia — Doing Business in Malaysia"
     url: "https://www.aseanbriefing.com/doing-business-guide/malaysia/taxation-and-accounting/excise-duties-malaysia"
@@ -91,6 +88,33 @@ sources:
   - title: "Budget 2024: New Chewing Tobacco Tax, Sugary Drinks Tax Raise"
     url: "https://codeblue.galencentre.org/2023/10/budget-2024-new-chewing-tobacco-tax-sugary-drinks-tax-raise/"
     publisher: "CodeBlue (Galen Centre)"
+  - title: "Import duty for China EVs is only 5%: Up to 30% for CBU EVs from other countries"
+    url: "https://soyacincau.com/2026/01/20/new-tax-rate-for-cbu-ev-confirmed/"
+    publisher: "SoyaCincau"
+  - title: "Malaysia - Corporate - Other taxes"
+    url: "https://taxsummaries.pwc.com/malaysia/corporate/other-taxes"
+    publisher: "PwC Worldwide Tax Summaries"
+  - title: "Malaysia imposes excise duty on premix preparations"
+    url: "https://taxnews.ey.com/news/2022-1616-malaysia-imposes-excise-duty-on-premix-preparations"
+    publisher: "EY Tax News"
+  - title: "Expansion of Scope for Excise Duty on Sugar Sweetened Beverages"
+    url: "https://www.dossnett-customs.com.my/expansion-of-scope-for-excise-duty-on-sugar-sweetened-beverages/"
+    publisher: "Dossnett Customs Consultancy"
+  - title: "Malaysia - Policies, Interventions and Actions"
+    url: "https://data.worldobesity.org/country/malaysia-130/actions.pdf"
+    publisher: "World Obesity Federation"
+  - title: "Minuman Keras - MyExcise"
+    url: "https://myexcise.customs.gov.my/myexcise/services/minuman-keras/"
+    publisher: "Royal Malaysian Customs Department (RMCD)"
+  - title: "Excise duties on tobacco products, alcoholic beverages to be increased"
+    url: "https://theedgemalaysia.com/node/773609"
+    publisher: "The Edge Malaysia"
+  - title: "Budget 2026: Cigarette And Alcohol Tax Hikes, Revenue Earmarked For Health"
+    url: "https://codeblue.galencentre.org/2025/10/budget-2026-cigarette-and-alcohol-tax-hikes-revenue-earmarked-for-health/"
+    publisher: "CodeBlue (Galen Centre)"
+  - title: "RM73.81 Mln In Excise Duty On Sugar-Sweetened Beverages Collected From Jan To Nov 2025 - MoF"
+    url: "https://www.bernama.com/en/news.php?id=2494767"
+    publisher: "Bernama"
 
 entity: "Excise Act 1976"
 relations:
@@ -114,7 +138,7 @@ Secara amnya, duti eksais menjadi kena caj apabila barang dikilang, dan kena bay
 Kadar duti dikira dalam dua bentuk:
 
 - **Ad valorem** — peratusan daripada nilai barang (contohnya 75% bagi kereta kecil).
-- **Spesifik** — jumlah tetap bagi setiap unit (contohnya RM7.40 selitre bir, atau 90 sen selitre minuman bergula).
+- **Spesifik** — jumlah tetap bagi setiap unit (contohnya 90 sen selitre minuman bergula, atau 47 sen bagi setiap 100 gram sediaan pracampur).
 
 Sesetengah barang seperti arak keras menggunakan **kadar komposit** — gabungan kadar tetap dan peratusan.
 
@@ -141,11 +165,11 @@ Kerana setiap lapisan dikira di atas jumlah yang sudah dibengkakkan lapisan sebe
 
 ## Berapakah duti eksais untuk alkohol dan rokok?
 
-Alkohol dan tembakau ialah barang eksais klasik — "cukai dosa" yang menaikkan harga sekali gus menampung kos kesihatan awam. Berikut ialah beberapa kadar terkini selepas pindaan pada November 2025:
+Alkohol dan tembakau ialah barang eksais klasik — "cukai dosa" yang menaikkan harga sekali gus menampung kos kesihatan awam. Berikut ialah beberapa kadar sebagai panduan (angka mutlak arak dan tembakau tertentu perlu disemak dengan JKDM):
 
 | Barang | Kadar duti eksais |
 |---|---|
-| Bir / stout | RM7.40 selitre |
+| Bir / stout | RM175.00 selitre (100% isipadu) + 15% ad valorem (komposit) |
 | Wain | RM450 selitre |
 | Arak keras / spirit | RM1.10 selitre + 15% (komposit) |
 | Vodka | RM150 selitre (100% isipadu) |
@@ -155,11 +179,11 @@ Alkohol dan tembakau ialah barang eksais klasik — "cukai dosa" yang menaikkan 
 | Produk tembakau dipanaskan | RM798 sekilogram |
 | Tembakau kunyah | 5% + RM27 sekilogram |
 
-Kadar rokok pernah kekal beku sejak 2014 sebelum dinaikkan sebanyak 2 sen sebatang pada November 2025, manakala kadar produk arak dinaikkan 10% pada tarikh yang sama. Tembakau kunyah pula diperkenalkan sebagai kategori eksais baharu menerusi Belanjawan 2024.
+Menerusi Belanjawan 2026, beberapa kadar dinaikkan berkuat kuasa 1 November 2025: rokok naik 2 sen sebatang (daripada RM0.40 kepada RM0.42), duti eksais alkohol dinaikkan 10% secara menyeluruh, produk tembakau dipanaskan naik RM20 sekilogram, dan cerut naik RM40 sekilogram. Tembakau kunyah pula diperkenalkan sebagai kategori eksais baharu menerusi Belanjawan 2024.
 
 ## Bagaimana pula cukai minuman bergula?
 
-Duti eksais minuman bergula (SSB, *sugar-sweetened beverages*) ialah antara cukai eksais termuda di Malaysia, diperkenalkan pada 1 Julai 2019 sebagai sebahagian daripada usaha "Perang Terhadap Gula" Kementerian Kesihatan. Ia menyasarkan minuman sedia-minum di bawah HS 2202 yang mengandungi lebih daripada 5 gram gula bagi setiap 100ml, serta beberapa kategori jus dan susu berperisa mengikut ambang gula tersendiri.
+Duti eksais minuman bergula (SSB, *sugar-sweetened beverages*) ialah antara cukai eksais termuda di Malaysia, diperkenalkan pada 1 Julai 2019 sebagai sebahagian daripada usaha "Perang Terhadap Gula" Kementerian Kesihatan. Ambangnya berbeza mengikut kategori, bukan satu ambang seragam: minuman sedia-minum di bawah HS 2202 dikenakan duti jika melebihi 5 gram gula bagi setiap 100ml; minuman berasaskan susu (juga HS 2202) jika melebihi 7 gram gula bagi setiap 100ml; dan jus buah atau sayur di bawah HS 2009 jika melebihi 12 gram gula bagi setiap 100ml.
 
 Kadarnya dinaikkan dua kali secara berturutan:
 

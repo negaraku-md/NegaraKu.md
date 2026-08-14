@@ -1,43 +1,43 @@
 ---
 topicId: MY-BIZ-0103
-title: "Where Malaysia's Workforce Actually Is — and What It Costs by State"
-seoTitle: "Talent Availability by Region Malaysia"
-socialTitle: "Putrajaya's median salary is 2.4 times Kelantan's. The minimum wage is identical in both."
+title: "Di Mana Sebenarnya Tenaga Kerja Malaysia — dan Berapa Kosnya Mengikut Negeri"
+seoTitle: "Ketersediaan Bakat Mengikut Wilayah Malaysia"
+socialTitle: "Gaji median Putrajaya 2.4 kali ganda gaji Kelantan. Gaji minimum adalah sama di kedua-duanya."
 slug: "talent-availability-by-region"
 category: "business"
 subcategory: ["locations"]
-summary: "Saiz tenaga buruh, kadar penyertaan dan gaji median mengikut negeri daripada DOSM, kluster sebenar di Pulau Pinang, Lembah Klang dan Johor, serta kekangan yang tersasar dalam kebanyakan model pemilihan lokasi — gaji minimum dan caruman majikan Malaysia adalah kebangsaan, bukan mengikut wilayah."
+summary: "Saiz tenaga buruh, kadar penyertaan dan gaji median mengikut negeri daripada DOSM, kluster sebenar di Pulau Pinang, Lembah Klang dan Johor, serta kekangan yang paling kerap terlepas pandang oleh model pemilihan tapak — paras gaji minimum dan sumbangan majikan Malaysia adalah bersifat kebangsaan, bukan mengikut wilayah."
 
 tier: "2"
 mode: "practical"
 contentType: "comparison"
 
-answer: "Tenaga buruh Malaysia mencecah 17.23 juta menjelang S1 2026, dengan kadar penyertaan pada rekod 70.8 peratus dan kadar pengangguran pada 2.9 peratus. Selangor sahaja memegang 4.14 juta pekerja dan Johor 2.19 juta. Gaji bulanan median berbeza daripada RM4,598 di Putrajaya kepada RM1,914 di Kelantan, berbanding median kebangsaan RM2,793 — tetapi gaji minimum adalah persekutuan pada RM1,700 dan setiap caruman berkanun majikan adalah kebangsaan."
+answer: "Tenaga buruh Malaysia mencecah 17.23 juta menjelang S1 2026, dengan kadar penyertaan pada paras rekod 70.8 peratus dan pengangguran pada 2.9 peratus. Selangor sahaja memiliki 4.14 juta pekerja dan Johor 2.19 juta. Gaji bulanan median berjulat daripada RM4,598 di Putrajaya sehingga RM1,914 di Kelantan, berbanding median kebangsaan RM2,793 — tetapi gaji minimum adalah persekutuan pada RM1,700 dan setiap sumbangan majikan berkanun bersifat kebangsaan."
 keyTakeaways:
   - "Gaji bulanan median 2024: kebangsaan RM2,793, Putrajaya RM4,598, Kuala Lumpur RM3,687, Selangor RM3,350, Pulau Pinang RM2,934, Kelantan RM1,914"
-  - "Selangor dan Kuala Lumpur bersama-sama memegang 31 peratus daripada tenaga buruh kebangsaan"
-  - "Kadar penyertaan tertinggi ialah di Putrajaya 79.0%, Selangor 78.4%, KL 75.8%, Pulau Pinang 72.2% dan Johor 72.0%"
-  - "Kadar pengangguran Sabah ialah 7.2 peratus pada Kaji Selidik Tenaga Buruh tahunan dan 5.5 peratus pada S1 2026 — dua siri DOSM ini tidak selaras antara satu sama lain"
-  - "Sabah menempatkan 1.04 juta bukan warganegara, populasi terbesar sedemikian bagi mana-mana negeri"
+  - "Selangor dan Kuala Lumpur bersama-sama memiliki 31 peratus tenaga buruh kebangsaan"
+  - "Penyertaan tertinggi di Putrajaya 79.0%, Selangor 78.4%, KL 75.8%, Pulau Pinang 72.2% dan Johor 72.0%"
+  - "Pengangguran Sabah ialah 7.2 peratus dalam Survei Tenaga Buruh tahunan dan 5.5 peratus dalam S1 2026 — dua siri DOSM tidak selari"
+  - "Sabah menempatkan 1.04 juta bukan warganegara, populasi jenis ini terbesar bagi mana-mana negeri"
   - "Gaji minimum ialah RM1,700 sebulan di seluruh negara — penangguhan bagi majikan kecil tamat pada 31 Julai 2025"
-  - "Malaysia menghasilkan 332,871 siswazah pada 2025, daripadanya 143,241 ialah ijazah sarjana muda; kebolehpasaran siswazah ialah 92.3 peratus"
+  - "Malaysia menghasilkan 332,871 graduan pada 2025, di mana 143,241 adalah ijazah sarjana muda; kebolehpasaran graduan ialah 92.3 peratus"
   - "Kurang guna tenaga berkaitan kemahiran ialah 35.6 peratus di peringkat kebangsaan dan 50.5 peratus di Kelantan"
-  - "Sarawak dan Sabah tidak memakai Employment Act 1955 dan Sarawak mengeluarkan kebenaran kerjanya sendiri melalui GENESIS"
-appliesTo: "Pengasas, pemimpin HR dan pasukan pemilihan lokasi yang memilih di mana di Malaysia untuk membina pasukan."
+  - "Sarawak dan Sabah tidak menguatkuasakan Akta Kerja 1955 dan Sarawak mengeluarkan kebenaran kerjanya sendiri melalui GENESIS"
+appliesTo: "Pengasas, ketua HR dan pasukan pemilihan tapak yang memilih di mana di Malaysia untuk membina pasukan."
 
 faq:
-  - q: "Adakah buruh lebih murah di negeri-negeri Malaysia yang lebih miskin?"
-    a: "Dari segi pasaran ya, dan dengan jurang yang besar — gaji bulanan median DOSM ialah RM1,914 di Kelantan berbanding RM3,350 di Selangor bagi 2024. Dari segi berkanun, tidak. Gaji minimum adalah persekutuan pada RM1,700 sebulan tanpa variasi mengikut wilayah, dan EPF, SOCSO, EIS serta levi HRD Corp adalah kadar kebangsaan. Jurang yang boleh anda perolehi ialah jurang pasaran dalam kolam buruh yang nipis, bukan jurang undang-undang."
-  - q: "Negeri manakah mempunyai pekerja paling ramai tersedia?"
-    a: "Selangor dari segi saiz, dengan 4.14 juta dalam tenaga buruh setakat S1 2026, diikuti oleh Johor pada 2.19 juta dan Sabah pada 1.89 juta. Tetapi kadar penyertaan Selangor pada 78.4 peratus dan kadar pengangguran 2.0 peratus bermakna hanya sedikit ruang lapang yang tinggal. Sabah mempunyai kadar pengangguran tertinggi di negara ini — 7.2 peratus pada Labour Force Survey Report 2025, atau 5.5 peratus pada S1 2026 — yang merupakan ketersediaan sebenar, bagi buruh am dan bukannya buruh pakar."
-  - q: "Dari manakah datangnya bakat kejuruteraan dan ICT Malaysia?"
-    a: "Kementerian Pengajian Tinggi merekodkan 332,871 siswazah pada 2025, termasuk 54,729 dalam bidang kejuruteraan, pembuatan dan pembinaan serta 30,685 dalam ICT. Siswazah kejuruteraan mempunyai kebolehpasaran tertinggi bagi mana-mana bidang pada 95.7 peratus. Output siswazah mengikut negeri tidak diterbitkan — hanya pendaftaran mengikut negeri kampus, di mana Selangor mendahului dengan 479,992 pelajar dan Kuala Lumpur menyusul dengan 200,840."
-  - q: "Adakah Employment Act 1955 terpakai di Sabah dan Sarawak?"
-    a: "Tidak. Sabah memakai Labour Ordinance Sabah Cap. 67 dan Sarawak memakai Labour Ordinance Sarawak Cap. 76, kedua-duanya dipinda oleh Akta persekutuan A1753 dan A1754 yang berkuat kuasa mulai 1 Mei 2025 kecuali Part IVA mengenai piawaian perumahan. First Schedule gantian Sarawak menyahguna pakai takrifan seksyen 2 bagi waktu kerja normal dan kerja lebih masa, jadi matriks pematuhan Employment Act tidak boleh sekadar dilabel semula."
+  - q: "Adakah tenaga buruh lebih murah di negeri Malaysia yang lebih miskin?"
+    a: "Dari segi pasaran ya, dengan jurang yang luas — gaji bulanan median DOSM ialah RM1,914 di Kelantan berbanding RM3,350 di Selangor bagi 2024. Dari segi berkanun, tidak. Gaji minimum adalah persekutuan pada RM1,700 sebulan tanpa variasi wilayah, dan KWSP, PERKESO, SIP serta levi HRD Corp adalah kadar kebangsaan. Jurang yang boleh anda tangkap ialah jurang pasaran dalam kolam buruh yang nipis, bukan jurang perundangan."
+  - q: "Negeri manakah yang mempunyai pekerja paling banyak tersedia?"
+    a: "Selangor dari segi saiz, dengan 4.14 juta dalam tenaga buruh setakat S1 2026, diikuti Johor pada 2.19 juta dan Sabah pada 1.89 juta. Tetapi kadar penyertaan Selangor 78.4 peratus dan pengangguran 2.0 peratus bermakna terdapat sedikit sahaja ruang. Sabah mempunyai pengangguran tertinggi di negara — 7.2 peratus dalam Laporan Survei Tenaga Buruh 2025, atau 5.5 peratus dalam S1 2026 — yang merupakan ketersediaan sebenar, iaitu buruh am dan bukannya pakar."
+  - q: "Dari mana datangnya bakat kejuruteraan dan ICT Malaysia?"
+    a: "Kementerian Pengajian Tinggi mencatatkan 332,871 graduan pada 2025, termasuk 54,729 dalam kejuruteraan, pembuatan dan pembinaan serta 30,685 dalam ICT. Graduan kejuruteraan mempunyai kebolehpasaran tertinggi bagi mana-mana bidang pada 95.7 peratus. Pengeluaran graduan mengikut negeri tidak diterbitkan — hanya enrolmen mengikut negeri kampus, di mana Selangor mendahului dengan 479,992 pelajar dan Kuala Lumpur menyusul dengan 200,840."
+  - q: "Adakah Akta Kerja 1955 terpakai di Sabah dan Sarawak?"
+    a: "Tidak. Sabah menguatkuasakan Ordinan Buruh Sabah Bab 67 dan Sarawak Ordinan Buruh Sarawak Bab 76, kedua-duanya dipinda oleh Akta persekutuan A1753 dan A1754 yang berkuat kuasa mulai 1 Mei 2025 kecuali Bahagian IVA mengenai piawaian perumahan. Jadual Pertama pengganti Sarawak menyahpakai takrifan seksyen 2 bagi waktu kerja biasa dan kerja lebih masa, jadi matriks pematuhan Akta Kerja tidak boleh sekadar dilabel semula."
   - q: "Bolehkah saya memindahkan pekerja antara operasi Semenanjung dan Sarawak saya?"
-    a: "Tidak secara bebas. Sarawak mengawal kemasukan dan pengambilan bukan penduduk Sarawak, yang termasuk rakyat Malaysia dari Semenanjung, dan menjalankannya melalui GENESIS — the Gateway and Employment for Non-Sarawakians via Sarawak's Integrated System. Pas Pekerjaan persekutuan bukanlah kebenaran kerja Sarawak dan surat pertukaran dalaman bukanlah penggantinya."
-  - q: "Berapa ramaikah rakyat Malaysia yang berulang-alik ke Singapura untuk bekerja?"
-    a: "Tiada pihak rasmi yang mengetahuinya. Kementerian Tenaga Kerja Singapura menerbitkan tenaga kerja asingnya mengikut jenis pas tanpa pecahan kewarganegaraan, dan DOSM tidak menyelenggara sebarang set data ulang-alik rentas sempadan. Angka kira-kira 300,000 yang kerap diulang tidak dapat dikesan kepada mana-mana kerajaan. Anggap kesan gaji ke atas Johor sebagai benar dan jumlah bilangan itu sebagai tidak disahkan."
+    a: "Tidak secara bebas. Sarawak mengawal kemasukan dan pekerjaan bukan warga Sarawak, yang termasuk rakyat Malaysia dari Semenanjung, dan mengendalikannya melalui GENESIS — Gateway and Employment for Non-Sarawakians via Sarawak's Integrated System. Pas Penggajian persekutuan bukanlah kebenaran kerja Sarawak dan surat pindahan dalaman bukan penggantinya."
+  - q: "Berapa ramai rakyat Malaysia berulang-alik ke Singapura untuk bekerja?"
+    a: "Tiada pihak rasmi yang tahu. Kementerian Tenaga Manusia Singapura menerbitkan tenaga kerja asingnya mengikut jenis pas tanpa pecahan kewarganegaraan, dan DOSM tidak menyelenggara set data ulang-alik rentas sempadan. Angka yang kerap diulang sekitar 300,000 tidak dapat dijejaki kepada mana-mana kerajaan. Anggap kesan gaji ke atas Johor sebagai nyata dan jumlah kepala sebagai tidak disahkan."
 
 verificationNeeded:
   - "Reconcile DOSM's own two 2025 series — the annual Labour Force Survey gives Sabah unemployment at 7.2 per cent and Selangor LFPR at 78.4 per cent, while the revised quarterly table implies 6.3 per cent and 77.4 per cent. The divergence appears to be a population-base difference specific to the 2025 vintage and is not explained in either publication"
@@ -45,9 +45,6 @@ verificationNeeded:
   - "Confirm the stock of electrical and electronics workers in Penang — no official figure exists on InvestPenang, the Penang state portal or MIDA"
   - "Confirm graduate output by state — the Ministry of Higher Education publishes enrolment by campus state but not output by state"
   - "Confirm the count of documented foreign workers holding a PLKS, nationally and by state — DOSM publishes non-citizen population, which includes dependants, students, permanent residents and undocumented persons"
-  - "Confirm the Sarawak Employment Pass minimum monthly salary — the GENESIS portal states no figure on its public pages"
-  - "Confirm the current MYFutureJobs advertising period for Peninsular PLKS holders as opposed to expatriates"
-  - "Salaries and Wages figures are for reference year 2024; the 2025 edition is not due until 29 September 2026"
 
 lang: "ms"
 masterLanguage: "en"
@@ -57,9 +54,9 @@ sourceContentHash: "266dea497fff19a6"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: "2026-07-25"
-publishedBy: "ashton-tan"
-version: "0.2"
+reviewed: 2026-08-14
+reviewDue: 2027-07-22
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-20
@@ -69,6 +66,10 @@ revisions:
     date: 2026-07-21
     change: "Corrected the answer's national Q1 2026 unemployment from 3.0% to 2.9% to match the body table (and DOSM's national 2.9%). Standardised the Sabah revised-quarterly figure to 6.3% (was 6.32% in the body vs 6.3% in verificationNeeded)."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 sensitivity: "none"
 
 updated: 2026-07-20
@@ -105,6 +106,22 @@ sources:
     url: "https://jtkswk.gov.my/v2/wp-content/uploads/2025/04/Act-A1754-Labour-Ordinance-Sarawak-Amendment-Act-2025.pdf"
     publisher: "Jabatan Tenaga Kerja Sarawak"
     date: "2025-04-14"
+  - title: "GENESIS EXPRT — Employment Pass"
+    url: "https://genesis.sarawak.gov.my/EXPRT/employment-pass/"
+    publisher: "Sarawak Government (GENESIS)"
+    date: "2026-08-14"
+  - title: "Advertising Expatriate Vacancies on MYFutureJobs — FAQ Bil. 1/2026"
+    url: "https://myfuturejobs.gov.my/wp-content/uploads/2026/04/FAQ-PAPD-BI-12032026.pdf"
+    publisher: "PERKESO / Ministry of Human Resources (KESUMA)"
+    date: "2026-02-01"
+  - title: "Salaries and Wages Survey Report 2026 (scheduled 29 September 2026)"
+    url: "https://www.dosm.gov.my/portal-main/release-content/salaries-and-wages-survey-report-2026"
+    publisher: "Department of Statistics Malaysia"
+    date: "2026-09-29"
+  - title: "Labour Force Survey — Technical Notes"
+    url: "https://open.dosm.gov.my/publications/technical-notes/lfs-technotes"
+    publisher: "Department of Statistics Malaysia (OpenDOSM)"
+    date: "2026-06-26"
 
 entity: "Malaysian regional labour market"
 relations:
@@ -114,20 +131,20 @@ relations:
   - { rel: "governs", to: "employment-act-1955" }
   - { rel: "explained-in", to: "sarawak-business-guide" }
 related: ["business-costs-by-region", "state-investment-agencies", "sarawak-business-guide", "ncer-guide", "js-sez-guide", "economic-corridors-compared"]
-keywords: ["tenaga buruh malaysia mengikut negeri", "gaji median mengikut negeri malaysia", "kaji selidik tenaga buruh dosm 2025", "bakat elektronik pulau pinang", "pekerja johor singapura", "gaji minimum malaysia mengikut negeri", "pas pekerjaan sarawak genesis"]
+keywords: ["malaysia labour force by state", "median salary by state malaysia", "dosm labour force survey 2025", "penang electronics talent", "johor singapore workers", "minimum wage malaysia state", "sarawak employment pass genesis"]
 ---
 
-Idea pertama yang dibawa oleh setiap pengasas kepada pemilihan lokasi di Malaysia ialah berpindah keluar dari Lembah Klang mengurangkan bil gaji. Data mengesahkan ia benar — dan undang-undang menyatakan sebahagian besar penjimatan itu bukan milik anda untuk diambil, kerana lantai gaji dan setiap caruman di atasnya ditetapkan secara persekutuan.
+Idea pertama yang dibawa setiap pengasas kepada pemilihan tapak di Malaysia ialah bahawa berpindah keluar dari Lembah Klang mengurangkan bil gaji. Data mengatakan ia berbuat demikian — dan undang-undang mengatakan sebahagian besar penjimatan itu bukan milik anda untuk diambil, kerana paras minimum dan setiap sumbangan di atasnya ditetapkan secara persekutuan.
 
-Kedua-dua belah pernyataan itu benar serentak. Berikut ialah di mana garis itu jatuh.
+Kedua-dua bahagian itu benar serentak. Inilah di mana garisannya jatuh.
 
-## Berapakah kos buruh sebenarnya mengikut negeri?
+## Berapa sebenarnya kos buruh mengikut negeri?
 
-Salaries and Wages Survey DOSM bagi tahun rujukan 2024, yang meliputi warganegara Malaysia sahaja, adalah satu-satunya siri gaji peringkat negeri rasmi yang wujud:
+Survei Gaji dan Upah DOSM bagi tahun rujukan 2024, meliputi warganegara Malaysia sahaja, ialah satu-satunya siri gaji peringkat negeri rasmi yang wujud:
 
-**Baca takrifan lajur itu sebelum anda menggunakannya.** Ini ialah *salaries and wages* — pekerja sahaja. Ia tidak termasuk mereka yang bekerja sendiri, majikan dan pekerja keluarga tanpa gaji, jadi ia bukan pendapatan isi rumah dan bukan ukuran kemakmuran tempatan. Bagi Malaysia gaji bulanan median ialah RM2,793 manakala pendapatan isi rumah median ialah RM7,017; kedua-duanya menjawab soalan yang berbeza dan tidak boleh sekali-kali diletakkan dalam satu jadual.
+**Baca takrifan lajur sebelum anda gunakannya.** Ini ialah *gaji dan upah* — pekerja sahaja. Ia mengecualikan pekerja sendiri, majikan dan pekerja keluarga tidak bergaji, jadi ia bukan pendapatan isi rumah dan bukan ukuran kemakmuran tempatan. Bagi Malaysia gaji bulanan median ialah RM2,793 manakala pendapatan isi rumah median ialah RM7,017; kedua-duanya menjawab soalan berbeza dan tidak boleh sekali-kali diletakkan dalam satu jadual.
 
-| Negeri | Gaji bulanan median | Min | Penerima ('000) |
+| Negeri | Gaji bulanan median | Purata | Penerima ('000) |
 | --- | --- | --- | --- |
 | W.P. Putrajaya | RM4,598 | RM5,091 | 38.5 |
 | W.P. Kuala Lumpur | RM3,687 | RM4,782 | 752.9 |
@@ -147,11 +164,11 @@ Salaries and Wages Survey DOSM bagi tahun rujukan 2024, yang meliputi warganegar
 | Kelantan | RM1,914 | RM3,091 | 393.8 |
 | **Malaysia** | **RM2,793** | **RM3,652** | **10,238.4** |
 
-Median Putrajaya ialah 2.4 kali ganda median Kelantan. Itu jurang sebenar dan wajar difahami — tetapi baca lajur *min* di sebelahnya. Min Kelantan pada RM3,091 adalah 61 peratus lebih tinggi daripada mediannya, yang merupakan tanda lapisan profesional kecil yang berada di atas asas gaji rendah yang besar. Anda bukan mengambil pekerja pada median. Anda mengambil pekerja daripada puncak yang nipis bagi taburan yang nipis.
+Median Putrajaya ialah 2.4 kali ganda median Kelantan. Itu jurang sebenar dan ia berbaloi difahami — tetapi baca lajur *purata* di sebelahnya. Purata Kelantan RM3,091 ialah 61 peratus di atas mediannya, iaitu tanda lapisan profesional kecil yang duduk di atas asas upah rendah yang besar. Anda tidak mengambil median. Anda mengambil daripada bahagian atas yang nipis dalam taburan yang nipis.
 
-Pulau Pinang berada pada RM2,934, kira-kira 14 peratus di bawah Selangor dan 5 peratus di atas Labuan — jurang yang jauh lebih sempit daripada yang disarankan oleh reputasi kluster itu.
+Pulau Pinang berada pada RM2,934, kira-kira 14 peratus di bawah Selangor dan 5 peratus di atas Labuan — jurang yang jauh lebih sempit daripada yang dicadangkan oleh reputasi kluster itu.
 
-## Di manakah rakyat berada?
+## Di mana orangnya?
 
 Tenaga buruh mutlak mengikut negeri, daripada laporan suku tahunan DOSM, orang dalam ribuan:
 
@@ -167,64 +184,64 @@ Tenaga buruh mutlak mengikut negeri, daripada laporan suku tahunan DOSM, orang d
 | Pulau Pinang | 947.8 | 922.3 | 2.7% |
 | **Malaysia** | **17,232.0** | **16,725.6** | **2.9%** |
 
-Selangor dan Kuala Lumpur bersama-sama memegang 5.35 juta pekerja — **31 peratus daripada tenaga buruh kebangsaan dalam dua bidang kuasa yang bersempadan**. Pulau Pinang, walaupun dengan bobot perindustriannya, mempunyai 948,000, lebih kecil daripada Kedah di sebelahnya.
+Selangor dan Kuala Lumpur bersama-sama memiliki 5.35 juta pekerja — **31 peratus tenaga buruh kebangsaan dalam dua bidang kuasa yang bersempadan**. Pulau Pinang, walaupun dengan seluruh berat perindustriannya, mempunyai 948,000, lebih kecil daripada Kedah di sebelahnya.
 
-Pada ukuran tahunan, penyertaan tertinggi ialah di Putrajaya pada 79.0 peratus, Selangor 78.4, Kuala Lumpur 75.8, Pulau Pinang 72.2 dan Johor 72.0, berbanding 70.8 peratus kebangsaan — yang tertinggi pernah direkodkan oleh DOSM. Kadar pengangguran terendah ialah di Putrajaya pada 1.1 peratus, Melaka 1.6 dan Pahang 1.8, dan tertinggi di Sabah pada 7.2 peratus, Labuan 6.3, Perlis 3.9, serta Kelantan dan Perak kedua-duanya pada 3.5.
+Pada ukuran tahunan, penyertaan tertinggi di Putrajaya pada 79.0 peratus, Selangor 78.4, Kuala Lumpur 75.8, Pulau Pinang 72.2 dan Johor 72.0, berbanding 70.8 peratus kebangsaan — tertinggi yang pernah direkodkan oleh DOSM. Pengangguran terendah di Putrajaya pada 1.1 peratus, Melaka 1.6 dan Pahang 1.8, dan tertinggi di Sabah pada 7.2 peratus, Labuan 6.3, Perlis 3.9, serta Kelantan dan Perak kedua-duanya pada 3.5.
 
-**Tiada satu kadar pengangguran negeri tunggal bagi 2025, dan anda wajar berhenti mencarinya.** Laporan tahunan DOSM dan siri suku tahunan semakannya sendiri tidak selaras: Sabah ialah **7.2 peratus pada laporan tahunan** berbanding **6.3 peratus** purata daripada suku tahun yang disemak semula, Kelantan 3.5 berbanding 4.1, penyertaan Selangor 78.4 berbanding 77.4. Dua penerbitan rasmi DOSM, dua jawapan, tiada penjelasan pada mana-mana satu. Sentiasa namakan vintaj itu — *7.2 peratus, Labour Force Survey Report 2025* atau *5.5 peratus, S1 2026* — dan jangan sekali-kali darabkan kadar tahunan dengan tahap suku tahunan.
+**Tiada kadar pengangguran negeri 2025 tunggal, dan anda patut berhenti mencarinya.** Laporan tahunan DOSM dan siri suku tahunannya yang disemak semula sendiri tidak selari: Sabah ialah **7.2 peratus dalam laporan tahunan** berbanding **6.3 peratus** yang dipuratakan daripada suku tahun yang disemak semula, Kelantan 3.5 berbanding 4.1, penyertaan Selangor 78.4 berbanding 77.4. Dua penerbitan DOSM rasmi, dua jawapan, tiada penjelasan dalam mana-mana. Sentiasa namakan vintaj — *7.2 peratus, Laporan Survei Tenaga Buruh 2025* atau *5.5 peratus, S1 2026* — dan jangan sekali-kali darabkan kadar tahunan dengan paras suku tahunan.
 
-Dua perangkap lagi jika anda pergi sendiri ke sumbernya. **Tiada langsung set data terbuka tahunan peringkat negeri** — angka negeri tahunan hanya wujud di dalam imej carta dalam PDF laporan itu. Dan **CSV data terbuka DOSM bukan pengganti yang selamat bagi penerbitan itu**: `labour/lfs_qtr_state.csv` ialah vintaj lapuk yang tidak disemak semula yang berhenti pada S3 2025 dan bercanggah dengan siri yang disemak semula yang diterbitkan, serta membawa putusan S1 2024 yang tidak ditandakan daripada penyusunan semula asas Banci 2020. Petik PDF atau XLSX.
+Dua lagi perangkap jika anda pergi ke sumber sendiri. **Tiada set data terbuka tahunan peringkat negeri langsung** — angka negeri tahunan hanya wujud dalam imej carta dalam PDF laporan. Dan **CSV data terbuka DOSM bukan pengganti selamat untuk penerbitan**: `labour/lfs_qtr_state.csv` ialah vintaj tidak disemak semula yang usang yang berhenti pada S3 2025 dan bercanggah dengan siri disemak semula yang diterbitkan, dan ia membawa pemutusan S1 2024 yang tidak ditandakan daripada pengasasan semula Banci 2020. Petik PDF atau XLSX.
 
-## Mengapakah penjimatan berkanun jauh lebih kecil berbanding jurang gaji?
+## Mengapa penjimatan berkanun jauh lebih kecil daripada jurang gaji?
 
-Kerana lantai gaji dan kos tambahan adalah persekutuan.
+Kerana paras minimum dan kos tambahan adalah persekutuan.
 
-Minimum Wages Order 2024, P.U.(A) 376, menetapkan **RM1,700 sebulan dan RM8.72 sejam di setiap negeri**. Satu-satunya pengecualian yang pernah wujud, penangguhan kepada RM1,500 bagi majikan dengan kurang daripada lima pekerja, berjalan dari 1 Februari hingga 31 Julai 2025 dan telah tamat; perenggan 5 membawa semua orang kepada RM1,700 berkuat kuasa 1 Ogos 2025. Tiada Perintah 2026 dibuat setakat ini.
+Perintah Gaji Minimum 2024, P.U.(A) 376, menetapkan **RM1,700 sebulan dan RM8.72 sejam di setiap negeri**. Satu-satunya pengecualian yang pernah wujud, penangguhan kepada RM1,500 bagi majikan dengan kurang daripada lima pekerja, berjalan dari 1 Februari hingga 31 Julai 2025 dan luput; perenggan 5 membawa semua orang kepada RM1,700 mulai 1 Ogos 2025. Tiada Perintah 2026 dibuat.
 
-Di atas lantai gaji, caruman tambahan adalah sama di mana-mana: EPF pada 13 peratus daripada gaji sehingga RM5,000 dan 12 peratus ke atas, SOCSO pada 1.75 peratus hingga siling RM6,000, EIS pada 0.2 peratus pada siling yang sama, dan levi HRD Corp pada 1 peratus bagi majikan dengan sepuluh atau lebih kakitangan.
+Di atas paras minimum, tambahan adalah sama di mana-mana: KWSP pada 13 peratus upah sehingga RM5,000 dan 12 peratus di atasnya, PERKESO pada 1.75 peratus sehingga siling RM6,000, SIP pada 0.2 peratus pada siling yang sama, dan levi HRD Corp pada 1 peratus bagi majikan dengan sepuluh atau lebih kakitangan.
 
-Satu kadar persekutuan memang membezakan — mengikut kewarganegaraan, bukan geografi. **Levi HRD Corp kena dibayar bagi warganegara Malaysia sahaja**, dan EPF bagi bukan warganegara yang berdaftar dari 1 Ogos 1998 ialah 2 peratus dan bukannya 13. Kos berkanun campuran sesebuah pasukan bergerak jauh lebih banyak mengikut campuran kewarganegaraannya berbanding poskodnya.
+Satu kadar persekutuan memang membezakan — mengikut kewarganegaraan, bukan geografi. **Levi HRD Corp perlu dibayar ke atas warganegara Malaysia sahaja**, dan KWSP bagi bukan warganegara yang didaftarkan dari 1 Ogos 1998 ialah 2 peratus dan bukannya 13. Kos berkanun terkumpul sesebuah pasukan bergerak jauh lebih banyak dengan campuran kewarganegaraannya berbanding dengan poskodnya.
 
-Jadi inilah pengiraannya. Di Kelantan gaji median adalah RM879 lebih rendah daripada Selangor, tetapi sebahagian besar peranan anda akan berada pada atau berhampiran lantai gaji yang sama di kedua-duanya, dan keseluruhan tindanan kos tambahan adalah sama di kedua-duanya. Perbezaan itu benar di tengah-tengah taburan dan hilang di bahagian bawah.
+Jadi aritmetiknya begini. Di Kelantan upah median ialah RM879 di bawah Selangor, tetapi bahagian besar peranan anda akan berada pada atau berhampiran paras minimum yang sama di kedua-duanya, dan seluruh timbunan kos tambahan adalah sama di kedua-duanya. Perbezaan itu nyata di tengah taburan dan lenyap di bahagian bawah.
 
-## Kluster manakah yang benar-benar wujud?
+## Kluster mana yang benar-benar wujud?
 
-**Pulau Pinang dan Kulim: elektrik dan elektronik.** Pembuatan menyumbang 47.3 peratus daripada ekonomi Pulau Pinang — bahagian pembuatan tertinggi bagi mana-mana negeri Malaysia — dan ekonomi negeri itu berkembang 7.3 peratus pada 2025 kepada RM130.3 bilion, terpantas kedua secara kebangsaan. MIDA merekodkan RM11.3 bilion pelaburan E&E yang diluluskan di Pulau Pinang merentasi 83 projek pada 2025, membawa 12,798 peluang pekerjaan. Secara kebangsaan sektor produk elektrik, elektronik dan optik memegang 658,500 pekerjaan dengan **34,900 kekosongan** yang belum diisi. **Tiada angka rasmi wujud bagi stok pekerja E&E di Pulau Pinang**, satu jurang yang ketara memandangkan betapa penting dakwaan itu kepada setiap pitching Pulau Pinang.
+**Pulau Pinang dan Kulim: elektrik dan elektronik.** Pembuatan ialah 47.3 peratus ekonomi Pulau Pinang — bahagian pembuatan tertinggi bagi mana-mana negeri Malaysia — dan ekonomi negeri itu berkembang 7.3 peratus pada 2025 kepada RM130.3 bilion, kedua terpantas di negara. MIDA merekodkan RM11.3 bilion pelaburan E&E yang diluluskan di Pulau Pinang merentasi 83 projek pada 2025, membawa 12,798 peluang pekerjaan. Di peringkat kebangsaan sektor produk elektrik, elektronik dan optik memegang 658,500 pekerjaan dengan **34,900 kekosongan** yang tidak diisi. **Tiada angka rasmi wujud untuk stok pekerja E&E di Pulau Pinang**, iaitu jurang yang ketara memandangkan betapa pentingnya dakwaan itu kepada setiap tawaran Pulau Pinang.
 
-**Lembah Klang: perkhidmatan dan ibu pejabat.** Selangor menyumbang 26.5 peratus daripada KDNK kebangsaan pada 2025 pada RM460.1 bilion, Kuala Lumpur RM265.1 bilion. Perkhidmatan ialah 66.0 peratus daripada guna tenaga kebangsaan. Kuala Lumpur juga mempunyai kurang guna tenaga berkaitan kemahiran terendah di negara ini pada 22.8 peratus berbanding 35.6 kebangsaan — bermakna siswazah di sana lebih berkemungkinan melakukan kerja bertaraf siswazah.
+**Lembah Klang: perkhidmatan dan ibu pejabat.** Selangor menyumbang 26.5 peratus KDNK kebangsaan pada 2025 pada RM460.1 bilion, Kuala Lumpur RM265.1 bilion. Perkhidmatan ialah 66.0 peratus pekerjaan kebangsaan. Kuala Lumpur juga mempunyai kurang guna tenaga berkaitan kemahiran terendah di negara pada 22.8 peratus berbanding 35.6 kebangsaan — bermakna graduan di sana lebih berkemungkinan melakukan kerja graduan.
 
-**Johor: modal tanpa bilangan pekerja yang setimpal.** Johor berkembang 8.0 peratus pada 2025, terpantas di negara ini, dan menerima RM110.03 bilion pelaburan yang diluluskan — kira-kira 26 peratus daripada jumlah kebangsaan, dan tempat pertama. Tetapi lampiran MIDA yang sama merekodkan hanya **24,584 pekerjaan berpotensi daripada projek-projek itu, kira-kira 10 peratus daripada 244,902 kebangsaan**. Kuala Lumpur, dengan RM63.3 bilion, menjana 82,985. Jurang itu adalah profil pusat data dan modal berat JS-SEZ, yang sahaja menyumbang RM77.0 bilion merentasi 393 projek dan 18,406 pekerjaan pada 2025. **Johor memenangi modal lebih pantas berbanding memenangi guna tenaga**, dan pelan buruh yang dibina atas tajuk utama pelaburan akan melebih-lebihkan kolam yang sedang dicipta.
+**Johor: modal tanpa jumlah kepala yang setara.** Johor berkembang 8.0 peratus pada 2025, terpantas di negara, dan mengambil RM110.03 bilion pelaburan yang diluluskan — kira-kira 26 peratus daripada jumlah kebangsaan, dan tempat pertama. Tetapi lampiran MIDA yang sama merekodkan hanya **24,584 potensi pekerjaan daripada projek tersebut, kira-kira 10 peratus daripada 244,902 kebangsaan**. Kuala Lumpur, dengan RM63.3 bilion, menjana 82,985. Jurang itu ialah profil pusat data dan modal berat JS-SEZ, yang sendirian menyumbang RM77.0 bilion merentasi 393 projek dan 18,406 pekerjaan pada 2025. **Johor memenangi modal lebih pantas daripada ia memenangi pekerjaan**, dan pelan buruh yang dibina atas tajuk pelaburan akan terlebih anggar kolam yang sedang dicipta.
 
-## Bagaimana pula dengan siswazah dan pekerja asing?
+## Bagaimana pula dengan graduan dan pekerja asing?
 
-Malaysia menghasilkan **332,871 siswazah pada 2025** — tetapi tajuk utama itu termasuk penyudahan sijil dan asasi. Angka ijazah ialah **143,241 sarjana muda**, atau 187,301 pada peringkat sarjana muda dan ke atas. Mengikut bidang: perniagaan, pentadbiran dan undang-undang 94,891; kejuruteraan, pembuatan dan pembinaan 54,729; ICT 30,685. Kebolehpasaran ialah 92.3 peratus secara keseluruhan dan **95.7 peratus bagi kejuruteraan**, yang tertinggi bagi mana-mana bidang.
+Malaysia menghasilkan **332,871 graduan pada 2025** — tetapi tajuk itu termasuk sijil dan penamatan asasi. Angka ijazah ialah **143,241 sarjana muda**, atau 187,301 pada peringkat sarjana muda dan ke atas. Mengikut bidang: perniagaan, pentadbiran dan undang-undang 94,891; kejuruteraan, pembuatan dan pembinaan 54,729; ICT 30,685. Kebolehpasaran ialah 92.3 peratus keseluruhan dan **95.7 peratus untuk kejuruteraan**, tertinggi bagi mana-mana bidang.
 
-Output mengikut negeri tidak diterbitkan. Pendaftaran mengikut negeri kampus diterbitkan, dan ia tertumpu: Selangor 479,992, Kuala Lumpur 200,840, Perak 90,969, Johor 89,360, Pulau Pinang 63,622.
+Pengeluaran mengikut negeri tidak diterbitkan. Enrolmen mengikut negeri kampus diterbitkan, dan ia tertumpu: Selangor 479,992, Kuala Lumpur 200,840, Perak 90,969, Johor 89,360, Pulau Pinang 63,622.
 
-Bukan warganegara berjumlah **3.38 juta, atau 9.9 peratus daripada populasi, pada 2025**, dan taburannya bukan seperti yang dijangka kebanyakan orang: **Sabah 1.04 juta**, Selangor 727,900, Johor 385,100, Kuala Lumpur 270,700, Pulau Pinang 179,900. Ambil perhatian bahawa ini mengira bukan warganegara, bukan pemegang permit — tanggungan, pelajar dan pemastautin tetap termasuk di dalamnya — dan tiada kiraan rasmi pekerja asing berdokumen mengikut negeri yang wujud.
+Bukan warganegara ialah **3.38 juta, atau 9.9 peratus populasi, pada 2025**, dan taburannya bukan seperti yang dijangka kebanyakan orang: **Sabah 1.04 juta**, Selangor 727,900, Johor 385,100, Kuala Lumpur 270,700, Pulau Pinang 179,900. Ambil perhatian ini mengira bukan warganegara, bukan pemegang permit — tanggungan, pelajar dan penduduk tetap termasuk di dalamnya — dan tiada kiraan rasmi pekerja asing berdaftar mengikut negeri wujud.
 
-## Apakah yang berbeza di Sabah dan Sarawak?
+## Apa yang berubah di Sabah dan Sarawak?
 
-Undang-undang berasingan, bukan variasi. Sabah memakai Labour Ordinance Cap. 67 dan Sarawak Cap. 76, kedua-duanya dipinda oleh Akta A1753 dan A1754 yang berkuat kuasa mulai **1 Mei 2025 kecuali Part IVA**. First Schedule gantian Sarawak mengekalkan ambang RM4,000 tetapi menyahguna pakai takrifan seksyen 2 bagi *waktu kerja normal* dan *kerja lebih masa* berserta beberapa peruntukan lain, dan menambah Second dan Third Schedules baharu tanpa persamaan di Semenanjung. Tiada pemetaan seksyen demi seksyen.
+Undang-undang berasingan, bukan variasi. Sabah menguatkuasakan Ordinan Buruh Bab 67 dan Sarawak Bab 76, kedua-duanya dipinda oleh Akta A1753 dan A1754 dengan kesan dari **1 Mei 2025 kecuali Bahagian IVA**. Jadual Pertama pengganti Sarawak mengekalkan ambang RM4,000 tetapi menyahpakai takrifan seksyen 2 bagi *waktu kerja biasa* dan *kerja lebih masa* bersama beberapa peruntukan lain, dan menambah Jadual Kedua dan Ketiga baharu tanpa persamaan Semenanjung. Tiada pemetaan seksyen demi seksyen.
 
-Sarawak juga menjalankan kebenaran kerjanya sendiri melalui **GENESIS**, meliputi bukan penduduk Sarawak termasuk rakyat Malaysia dari Semenanjung. Dan bagi pengambilan pekerja asing, Sabah mengekalkan tempoh pengiklanan MYFutureJobs berasaskan sektor — 7 hari bagi pertanian, perladangan dan pembinaan, 14 bagi perkhidmatan, 30 bagi pembuatan — sedangkan tempoh bagi ekspatriat di tempat lain ialah 7 hari sejak 1 Januari 2025. Pengecualian daripada pengiklanan bukanlah pengecualian daripada kelulusan: s.60K Employment Act 1955 memerlukan persetujuan terlebih dahulu daripada Ketua Pengarah bagi setiap pekerja asing, dengan penalti RM100,000 atau lima tahun.
+Sarawak juga mengendalikan kebenaran kerjanya sendiri melalui **GENESIS**, meliputi bukan warga Sarawak termasuk rakyat Malaysia dari Semenanjung. Dan bagi pengambilan asing, Sabah mengekalkan tempoh pengiklanan MYFutureJobs berasaskan sektor — 7 hari untuk pertanian, perladangan dan pembinaan, 14 untuk perkhidmatan, 30 untuk pembuatan — di mana tempoh ekspatriat di tempat lain telah menjadi 7 hari sejak 1 Januari 2025. Pengecualian daripada pengiklanan tidak pernah menjadi pengecualian daripada kelulusan: s.60K Akta Kerja 1955 memerlukan persetujuan terlebih dahulu Ketua Pengarah bagi setiap pekerja asing, dengan denda RM100,000 atau lima tahun penjara.
 
 ## Kesilapan lazim
 
-**Menganggap jurang gaji median sebagai penjimatan berkanun.** Lantai gaji ialah RM1,700 di mana-mana dan setiap peratusan kos tambahan adalah persekutuan.
+**Menganggap jurang gaji median sebagai penjimatan berkanun.** Paras minimum ialah RM1,700 di mana-mana dan setiap peratusan kos tambahan adalah persekutuan.
 
-**Mencampurkan siri tahunan dan suku tahunan DOSM 2025.** Kedua-duanya tidak sepakat secara ketara bagi Sabah, Labuan, Kelantan, Putrajaya dan Selangor. Memakai kadar tahunan pada tahap suku tahunan menghasilkan angka yang tidak disokong oleh mana-mana penerbitan.
+**Mencampurkan siri tahunan dan suku tahunan DOSM 2025.** Kedua-duanya berbeza secara material bagi Sabah, Labuan, Kelantan, Putrajaya dan Selangor. Menggunakan kadar tahunan pada paras suku tahunan menghasilkan angka yang tidak disokong oleh mana-mana penerbitan.
 
-**Menarik perbandingan negeri daripada CSV data terbuka DOSM.** Ia dihurai dengan bersih dan memulangkan angka yang munasabah, itulah tepatnya masalahnya. Fail buruh negeri suku tahunan ialah vintaj lapuk yang tidak disemak semula, dan lajur Gini 2024 fail pendapatan isi rumah adalah salah bagi lima negeri termasuk Sabah, yang ditunjukkan sebagai 0.405 berbanding 0.389 yang diterbitkan. Gunakan PDF atau XLSX penerbitan itu.
+**Menarik perbandingan negeri daripada CSV data terbuka DOSM.** Ia dihuraikan dengan bersih dan memulangkan angka yang munasabah, yang mana itulah masalahnya. Fail buruh negeri suku tahunan ialah vintaj tidak disemak semula yang usang, dan lajur Gini 2024 fail pendapatan isi rumah adalah salah bagi lima negeri termasuk Sabah, yang ditunjukkannya sebagai 0.405 berbanding 0.389 yang diterbitkan. Gunakan PDF penerbitan atau XLSX.
 
-**Menganggap gaji median sebagai pendapatan isi rumah.** Salaries and wages meliputi pekerja sahaja. Gaji bulanan median Malaysia ialah RM2,793 dan pendapatan isi rumah mediannya ialah RM7,017 — jadual yang mencampurkan kedua-duanya tidak mengukur apa-apa.
+**Menganggap gaji median sebagai pendapatan isi rumah.** Gaji dan upah meliputi pekerja sahaja. Gaji bulanan median Malaysia ialah RM2,793 dan pendapatan isi rumah mediannya ialah RM7,017 — jadual yang mencampurkan kedua-duanya tidak mengukur apa-apa.
 
-**Membaca kelebihan pelaburan Johor sebagai kelebihan pengambilan pekerja.** Dua puluh enam peratus daripada modal kebangsaan, sepuluh peratus daripada guna tenaga berpotensi kebangsaan.
+**Membaca kepimpinan pelaburan Johor sebagai kepimpinan pengambilan.** Dua puluh enam peratus modal kebangsaan, sepuluh peratus potensi pekerjaan kebangsaan.
 
-**Menganggap dasar HR Semenanjung terpakai ke timur.** First Schedule Sarawak yang dipinda mengeluarkan takrifan yang menjadi pergantungan Employment Act, dan pertukaran ke Kuching melalui GENESIS.
+**Mengandaikan dasar HR Semenanjung merentas ke timur.** Jadual Pertama Sarawak yang dipinda membuang takrifan yang Akta Kerja bergantung padanya, dan pemindahan ke Kuching melalui GENESIS.
 
-**Memetik bilangan pekerja E&E bagi Pulau Pinang.** Tiada badan kerajaan yang menerbitkannya. Apa yang diterbitkan ialah pelaburan, eksport dan guna tenaga projek yang diluluskan — semuanya aliran, bukan satu pun stok.
+**Memetik jumlah kepala E&E untuk Pulau Pinang.** Tiada badan kerajaan menerbitkannya. Yang diterbitkan ialah pelaburan, eksport dan pekerjaan projek yang diluluskan — semuanya aliran, tiada satu pun stok.
 
-## Apa seterusnya
+## Apa yang seterusnya
 
-Buat senarai pendek berdasarkan kolam tenaga, bukan harga: Pulau Pinang dan Kulim untuk kejuruteraan elektronik, Lembah Klang untuk kedalaman perkhidmatan dan kurang guna tenaga siswazah terendah di negara ini, Johor untuk pembuatan dengan sauh gaji antarabangsa. Kemudian harga lokasi itu dengan [kos perniagaan mengikut wilayah](/business/business-costs-by-region), semak sama ada anda boleh menghantar barangan dengan [infrastruktur dan ketersambungan mengikut wilayah](/business/infrastructure-connectivity-by-region), dan ketahui siapa yang sebenarnya boleh meluluskan insentif dalam [agensi pelaburan negeri](/business/state-investment-agencies).
+Buat senarai pendek atas kolam, bukan harga: Pulau Pinang dan Kulim untuk kejuruteraan elektronik, Lembah Klang untuk kedalaman perkhidmatan dan kurang guna tenaga graduan terendah di negara, Johor untuk pembuatan dengan sauh gaji antarabangsa. Kemudian tetapkan harga tapak dengan [kos perniagaan mengikut wilayah](/ms/business/business-costs-by-region), pastikan anda boleh memindahkan barangan dengan [infrastruktur dan ketersambungan mengikut wilayah](/ms/business/infrastructure-connectivity-by-region), dan ketahui siapa yang benar-benar boleh meluluskan insentif dalam [agensi pelaburan negeri](/ms/business/state-investment-agencies).

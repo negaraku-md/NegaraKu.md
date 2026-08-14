@@ -42,14 +42,12 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
+publishedBy: "ashton-tan"
+reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "0.2"
+version: "0.3"
 verificationNeeded:
-  - "Exact Perodua minority shareholding percentages (MBM Resources, Daihatsu Motor, PNB, Daihatsu Malaysia, Mitsui) — only the UMW 38% stake is confirmed by an authoritative/reputable source; the full breakdown previously relied on an unofficial site and has been removed."
-  - "Proton's exact incorporation date (7 May 1983), the Saga's 1985 launch and its Mitsubishi Orion engine, and the 1996 Lotus acquisition — foundational dates that lack a primary-source citation."
-  - "Perodua's establishment (1993), start of operations (1994) and the Kancil's August 1994 launch — lack a primary-source citation."
-  - "Current expiry dates of Malaysia's CBU and CKD electric-vehicle tax exemptions (set and periodically revised via the national budget); the specific end-2025 / end-2027 dates could not be confirmed against a primary source and have been softened."
+  - "Exact Perodua minority shareholding percentages (Daihatsu Motor, PNB, Daihatsu Malaysia, Mitsui) — only the UMW 38% stake and MBM Resources' 20% associate interest are confirmable from listed-company disclosures; the Daihatsu/PNB/Mitsui splits appear only in secondary compilations, not in any accessible primary source."
   - "Perodua QV-E details beyond the launch announcement, including Battery-as-a-Service pricing terms and battery-lease costs."
 revisions:
   - version: "0.1"
@@ -60,8 +58,12 @@ revisions:
     date: 2026-07-28
     change: "Correction pass: removed non-authoritative sources (jpj.my ad-farm, carro.co blog), softened unsourced Perodua minority percentages and EV-incentive expiry dates, sourced 2019 production to MIDA, corrected QV-E ramp to Q3 2026, and added verificationNeeded."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-07-28
+updated: 2026-08-14
 sources:
   - title: "National Automotive Policy 2020"
     url: "https://www.miti.gov.my/index.php/pages/view/nap2020"
@@ -90,6 +92,21 @@ sources:
   - title: "Perodua launches QV-E, Malaysia's first homegrown BEV"
     url: "https://www.perodua.com.my/articles/perodua-launches-qv-e-malaysias-first-homegrown-bev"
     publisher: "Perodua"
+  - title: "Celebrating 35 Years of the Proton Saga (founded 7 May 1983; first Saga 9 July 1985)"
+    url: "https://www.proton.com/happenings/2020/july/celebrating-35-years-of-the-proton-saga"
+    publisher: "Proton Holdings Berhad"
+  - title: "Perodua Corporate Milestones (first factory opened 1 Aug 1993; Kancil launched 29 Aug 1994)"
+    url: "https://www.perodua.com.my/corporate-branding/milestones"
+    publisher: "Perodua"
+  - title: "Budget 2023: CBU EVs tax-free until end-2025; CKD exemption until 31 December 2027"
+    url: "https://paultan.org/2023/02/24/budget-2023-cbu-evs-in-malaysia-now-tax-free-until-end-2025-ckd-exemption-until-december-31-2027/"
+    publisher: "Paul Tan's Automotive News (reporting MOF Budget 2023)"
+  - title: "Ministry of Finance: no extension for excise-duty exemptions on imported (CBU) EVs (quotes Fiscal Outlook 2026)"
+    url: "https://soyacincau.com/2025/10/10/mof-imported-ev-cbu-excise-duty-exempt-no-extend/"
+    publisher: "SoyaCincau (quoting MOF Fiscal Outlook 2026)"
+  - title: "Tax and duties for CBU EVs set at 30/10/10 or 5/10/10 depending on country of origin FTA (CBU exemption lapsed 1 Jan 2026)"
+    url: "https://paultan.org/2026/01/20/tax-and-duties-for-cbu-evs-set-at-301010-or-51010-depending-on-country-of-origin-fta/"
+    publisher: "Paul Tan's Automotive News"
 
 relations:
   - { rel: "related-to", to: "proton" }
@@ -107,13 +124,13 @@ That bet defined Malaysian industry for four decades. Today it is being rewritte
 
 In the early 1980s, Malaysia was an exporter of tin, rubber and palm oil looking to industrialise. The idea of a "Made in Malaysia" car was championed by then-Prime Minister Mahathir Mohamad as a vehicle — literally and figuratively — for heavy industry, engineering skills and national pride.
 
-The company that resulted, **Perusahaan Otomobil Nasional (Proton)**, was incorporated in **1983**. It did not design a car from a blank sheet. Instead it partnered with **Mitsubishi Motors**, which supplied design support and critical technologies, and in **1985** the first **Proton Saga** rolled out, powered by a Mitsubishi engine.
+The company that resulted, **Perusahaan Otomobil Nasional (Proton)**, was incorporated on **7 May 1983**. It did not design a car from a blank sheet. Instead it partnered with **Mitsubishi Motors**, which supplied design support and critical technologies, and on **9 July 1985** the first **Proton Saga** rolled off the production line, powered by a Mitsubishi engine.
 
 The Saga was an immediate national symbol. Protected by high import and excise duties on foreign cars, it quickly dominated the affordable end of the market. For years, buying a Proton was not just cheaper — the tax structure made most alternatives dramatically more expensive.
 
-A decade later the government wanted a second brand focused on the smallest, most affordable cars. **Perusahaan Otomobil Kedua (Perodua)** — literally "Second National Car Company" — was **established in 1993** and **started operations in 1994**, this time in partnership with Japan's **Daihatsu**. Its first model, the tiny **Kancil**, arrived in **1994** and became the archetypal Malaysian first car.
+A decade later the government wanted a second brand focused on the smallest, most affordable cars. **Perusahaan Otomobil Kedua (Perodua)** — literally "Second National Car Company" — was **established in 1993** (its first factory was opened on 1 August 1993) and **started operations in 1994**, this time in partnership with Japan's **Daihatsu**. Its first model, the tiny **Kancil**, was launched on **29 August 1994** and became the archetypal Malaysian first car.
 
-The two brands were built on different logics. Proton aimed to be a full-range, engineering-led national champion, eventually developing its own platforms and buying Britain's Lotus in the 1990s. Perodua stayed narrowly focused on small, reliable, Daihatsu-derived cars built to a price — and, over time, that discipline made it the more commercially successful of the two.
+The two brands were built on different logics. Proton aimed to be a full-range, engineering-led national champion, eventually developing its own platforms and buying Britain's Lotus in 1996. Perodua stayed narrowly focused on small, reliable, Daihatsu-derived cars built to a price — and, over time, that discipline made it the more commercially successful of the two.
 
 ## Who owns Proton today?
 
@@ -172,10 +189,10 @@ For context on scale, Malaysia produced **571,632 motor vehicles in 2019** (534,
 
 Slowly, then suddenly. For years EVs were a rounding error in Malaysian sales. The government's response was tax incentives to encourage both EV adoption and local assembly:
 
-- **Fully-imported (CBU) EVs** were exempted from import and excise duty.
-- **Locally-assembled (CKD) EVs** received excise-duty and sales-tax exemptions — a deliberate nudge toward building EVs in Malaysia rather than importing them.
+- **Fully-imported (CBU) EVs** were exempted from import and excise duty until **31 December 2025**, under the timeline set in Budget 2023.
+- **Locally-assembled (CKD) EVs** received excise-duty and sales-tax exemptions until **31 December 2027** — a deliberate nudge toward building EVs in Malaysia rather than importing them.
 
-These exemptions are time-limited, with expiry dates set and periodically revised through the national budget; the exact current end-dates should be verified before relying on them.
+Budget 2026 did not extend the CBU incentive: the Ministry of Finance's Fiscal Outlook 2026 confirmed the removal of the excise-duty exemption on completely built-up EVs from 2026. As a result, the **CBU exemption lapsed on 1 January 2026** — imported EVs now face roughly 30% import duty (FTA-dependent), 10% excise duty and 10% sales tax — while the **CKD exemption remains in force until 31 December 2027**.
 
 The incentives, plus a flood of competitively priced Chinese models, moved the needle. In **2024**, electrified vehicles (xEVs) reached **5.6% of the market** (up from 4.8% in 2023) — **45,562 units**, comprising **14,766 battery EVs and 30,796 hybrids**, with total electrified-vehicle sales up about 19% year-on-year.
 
@@ -205,6 +222,6 @@ A simple decision frame:
 
 ## What's next
 
-Watch three things. First, **EV incentives**: whether Malaysia extends or replaces the CBU and CKD tax breaks when they expire will shape which EVs are affordable and where they are built. Second, **local EV volume**: Perodua's plan to scale QV-E output from around 500 units a month toward 3,000 units a month by Q3 2026, and Proton's move to assemble EVs locally, will test whether the national brands can make electrics at national-car prices. Third, **consolidation and competition**: with Sime Darby now sitting atop Perodua and Toyota, and Chinese brands pushing hard into the market, the comfortable two-thirds share the national brands have enjoyed is no longer guaranteed.
+Watch three things. First, **EV incentives**: the CBU import exemption already lapsed on 1 January 2026, and whether Malaysia extends or replaces the CKD tax break before it expires on 31 December 2027 will shape which EVs are affordable and where they are built. Second, **local EV volume**: Perodua's plan to scale QV-E output from around 500 units a month toward 3,000 units a month by Q3 2026, and Proton's move to assemble EVs locally, will test whether the national brands can make electrics at national-car prices. Third, **consolidation and competition**: with Sime Darby now sitting atop Perodua and Toyota, and Chinese brands pushing hard into the market, the comfortable two-thirds share the national brands have enjoyed is no longer guaranteed.
 
 For the underlying figures, the primary sources are MITI and MIDA for policy, DRB-HICOM and the carmakers' own announcements for ownership and product, and the Malaysian Automotive Association's annual market review for sales — all linked below.

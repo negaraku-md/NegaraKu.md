@@ -38,15 +38,11 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-08
+publishedBy: "ashton-tan"
+reviewed: 2026-08-14
 reviewDue: 2027-08-08
-version: "0.2"
-verificationNeeded:
-  - "Perkataan tepat objektif MFRS 124 — petikan dalam artikel ini adalah terjemahan Bahasa Melayu bagi teks Inggeris yang diterbitkan; sahkan terhadap standard rasmi MASB."
-  - "Tempoh bayaran balik pinjaman pengarah di bawah Seksyen 224 (enam bulan bagi syarikat awam, dua belas bulan bagi syarikat persendirian) terhadap subseksyen sebenar Akta 777."
-  - "Amaun penalti Seksyen 221 (denda sehingga RM3 juta / penjara sehingga lima tahun) terhadap teks Akta 777 semasa."
-  - "Tarikh pelancaran berperingkat MBRS 2.0 dan tarikh mandatori 1 Jun 2025 terhadap arahan/amalan SSM terkini."
-  - "Sama ada pengecualian syarikat persendirian dikecualikan di bawah Seksyen 224 terpakai bagi Sdn Bhd keluarga tertentu."
+version: "0.3"
+verificationNeeded: []
 revisions:
   - version: "0.1"
     date: 2026-08-08
@@ -56,8 +52,12 @@ revisions:
     date: 2026-08-08
     change: "Correction pass: replaced FRS 124 citations with the current MFRS 124 standard, added Companies Act 2016 (Act 777) official text and a source substantiating the 2018 MBRS launch, and added verificationNeeded."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-08-08
+updated: 2026-08-14
 sources:
   - title: "MFRS 124 Related Party Disclosures (berkuat kuasa 1 Januari 2012)"
     url: "https://www.masb.org.my/pdf_file/BV2021CR_MFRS124.pdf"
@@ -68,6 +68,12 @@ sources:
   - title: "Laws of Malaysia — Act 777 Companies Act 2016 (teks kemas kini)"
     url: "https://www.mof.gov.my/portal/pdf/bahagian/gic/Companies_Act_2016_Act_777.pdf"
     publisher: "Kementerian Kewangan Malaysia / Pesuruhjaya Penyemak Undang-undang"
+  - title: "Companies Act 2016 (Act 777), consolidated reprint as at 1.8.2022 — ss.221(12), 224(2)(a), 224(5) dan takrif 'exempt private company' (s.2(1))"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+  - title: "Laws of Malaysia — Act 777 Companies Act 2016 (AGC online version)"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/aktaBI_20160915_CompaniesAct2016Act777.pdf"
+    publisher: "Attorney General's Chambers (AGC / lom.agc.gov.my)"
   - title: "Section 221 Disclosure of Interests by Directors"
     url: "https://www.yeoashley.com.my/article/section-221-disclosure/"
     publisher: "Yeo Ashley & Partners"
@@ -80,6 +86,15 @@ sources:
   - title: "What is MBRS? The Malaysian Business Reporting System Explained"
     url: "https://www.mbrs.com.my/what-is-mbrs/"
     publisher: "MBRS.com.my"
+  - title: "Notis — Sistem MBRS 2.0 Go Live Bermula 25 September 2024"
+    url: "https://www.ssm.com.my/Lists/Announcement/AnnouncementDetails.aspx?ID=375"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+  - title: "Pengumuman — Pelaksanaan Mandatori Berperingkat MBRS 2.0 (26 Nov 2024): Fasa 1 berkuat kuasa 1 Disember 2024"
+    url: "https://www.ssm.com.my/Lists/Announcement/AnnouncementDetails.aspx?ID=378"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+  - title: "SSM MBRS services page — FAQ Fasa 2 (1 Mac 2025) dan Fasa 3 (1 Jun 2025)"
+    url: "https://www.ssm.com.my/Pages/Services/Other-Services/MBRS.aspx"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
 
 entity: "MFRS 124"
 relations:
@@ -142,13 +157,13 @@ Di sinilah perakaunan bertemu Akta Syarikat 2016. Akaun semasa pengarah yang **t
 
 Terdapat pengecualian penting:
 
-- **Syarikat persendirian dikecualikan** boleh memberi pinjaman kepada pengarah dalam keadaan tertentu — relevan bagi banyak Sdn Bhd keluarga.
+- **Syarikat persendirian dikecualikan** (*exempt private company*) dikecualikan sepenuhnya daripada larangan ini di bawah Seksyen 224(2)(a) — relevan bagi banyak Sdn Bhd keluarga, tetapi hanya jika syarikat itu benar-benar memenuhi takrif: tidak lebih 20 ahli dan tiada mana-mana perbadanan memegang kepentingan benefisial dalam sahamnya (secara langsung atau tidak langsung). Sdn Bhd keluarga yang mempunyai pemegang saham korporat, atau melebihi 20 ahli, tidak layak dan kekal terikat dengan larangan Seksyen 224.
 - Pinjaman untuk membolehkan pengarah menampung **perbelanjaan bagi menjalankan tugasnya** sebagai pegawai syarikat.
 - **Skim pinjaman pekerja** yang diluluskan oleh ahli di mesyuarat agung, jika pengarah itu juga pekerja sepenuh masa.
 
-Di mana pinjaman dibenarkan, syarikat mendedahkan tujuan dan jumlah pinjaman kepada ahli, yang kemudian mesti meluluskannya. Tempoh bayaran balik berbeza mengikut jenis syarikat — bagi syarikat awam, dalam tempoh enam bulan selepas AGM, dan bagi syarikat persendirian, dalam tempoh dua belas bulan. Pengarah yang membenarkan pinjaman tidak patuh boleh berdepan penjara atau denda.
+Di mana pinjaman dibenarkan, syarikat mendedahkan tujuan dan jumlah pinjaman kepada ahli, yang kemudian mesti meluluskannya. Jika tiada kebenaran diberikan, Seksyen 224(5) menghendaki pinjaman dibayar balik — bagi syarikat awam, dalam tempoh enam bulan selepas AGM, dan bagi syarikat persendirian, dalam tempoh dua belas bulan dari tarikh pinjaman itu dibuat. Pengarah yang membenarkan pinjaman tidak patuh boleh berdepan penjara atau denda.
 
-Berasingan, **Seksyen 221** menghendaki pengarah mendedahkan setiap kepentingan langsung atau tidak langsung dalam kontrak dengan syarikat — termasuk pinjaman — dan kepentingan itu dianggap wujud jika ia melibatkan pasangan, ibu bapa atau anak pengarah. Kegagalan mendedahkan adalah kesalahan jenayah yang boleh dikenakan denda sehingga RM3 juta atau penjara sehingga lima tahun, atau kedua-duanya. Dengan kata lain: baki pihak berkaitan yang sama yang mesti didedahkan dari segi perakaunan juga membawa kewajipan dari segi undang-undang.
+Berasingan, **Seksyen 221** menghendaki pengarah mendedahkan setiap kepentingan langsung atau tidak langsung dalam kontrak dengan syarikat — termasuk pinjaman — dan di bawah Seksyen 221(9) kepentingan itu dianggap wujud jika ia melibatkan pasangan atau anak pengarah. Kegagalan mendedahkan adalah kesalahan jenayah yang, di bawah Seksyen 221(12), boleh dikenakan denda sehingga RM3 juta atau penjara sehingga lima tahun, atau kedua-duanya. Dengan kata lain: baki pihak berkaitan yang sama yang mesti didedahkan dari segi perakaunan juga membawa kewajipan dari segi undang-undang.
 
 ## Bagaimana ia muncul dalam MBRS?
 
@@ -156,7 +171,7 @@ Untuk Sdn Bhd, penyata kewangan tidak lagi difailkan sebagai PDF sahaja. **MBRS 
 
 Aliran kerjanya: sediakan angka dalam **mTool**, tag kepada taksonomi, sahkan, dan serah melalui **mPortal** sehingga SSM menerimanya. Baki pihak berkaitan — akaun semasa pengarah, jumlah terhutang kepada atau daripada syarikat berkaitan — mesti ditag pada elemen taksonomi yang betul, bukan dicampur ke dalam "penghutang lain" atau "pemiutang lain" yang generik. Salah tag di sini adalah punca lazim fail ditolak.
 
-MBRS 2.0 mula dilancarkan secara berperingkat sekitar Disember 2024, dan penyerahan penyata kewangan penuh dalam XBRL menjadi mandatori untuk semua syarikat mulai **1 Jun 2025**. Ertinya, disiplin pendedahan pihak berkaitan yang dahulunya "cukup baik" pada PDF kini mesti cukup tepat untuk lulus pengesahan automatik.
+MBRS 2.0 mula beroperasi (*go live*) pada 25 September 2024, dengan pelaksanaan mandatori berperingkat: Fasa 1 berkuat kuasa 1 Disember 2024, Fasa 2 pada 1 Mac 2025, dan Fasa 3 pada **1 Jun 2025** — apabila penyerahan penyata kewangan penuh dalam XBRL menjadi mandatori untuk semua syarikat. Ertinya, disiplin pendedahan pihak berkaitan yang dahulunya "cukup baik" pada PDF kini mesti cukup tepat untuk lulus pengesahan automatik.
 
 ## Apa langkah seterusnya?
 

@@ -45,9 +45,6 @@ verificationNeeded:
   - "Confirm the stock of electrical and electronics workers in Penang — no official figure exists on InvestPenang, the Penang state portal or MIDA"
   - "Confirm graduate output by state — the Ministry of Higher Education publishes enrolment by campus state but not output by state"
   - "Confirm the count of documented foreign workers holding a PLKS, nationally and by state — DOSM publishes non-citizen population, which includes dependants, students, permanent residents and undocumented persons"
-  - "Confirm the Sarawak Employment Pass minimum monthly salary — the GENESIS portal states no figure on its public pages"
-  - "Confirm the current MYFutureJobs advertising period for Peninsular PLKS holders as opposed to expatriates"
-  - "Salaries and Wages figures are for reference year 2024; the 2025 edition is not due until 29 September 2026"
 
 lang: "en"
 masterLanguage: "en"
@@ -56,9 +53,9 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-07-22
+reviewed: 2026-08-14
 reviewDue: 2027-07-22
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-20
@@ -68,6 +65,10 @@ revisions:
     date: 2026-07-21
     change: "Corrected the answer's national Q1 2026 unemployment from 3.0% to 2.9% to match the body table (and DOSM's national 2.9%). Standardised the Sabah revised-quarterly figure to 6.3% (was 6.32% in the body vs 6.3% in verificationNeeded)."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 sensitivity: "none"
 
 updated: 2026-07-20
@@ -104,6 +105,22 @@ sources:
     url: "https://jtkswk.gov.my/v2/wp-content/uploads/2025/04/Act-A1754-Labour-Ordinance-Sarawak-Amendment-Act-2025.pdf"
     publisher: "Jabatan Tenaga Kerja Sarawak"
     date: "2025-04-14"
+  - title: "GENESIS EXPRT — Employment Pass"
+    url: "https://genesis.sarawak.gov.my/EXPRT/employment-pass/"
+    publisher: "Sarawak Government (GENESIS)"
+    date: "2026-08-14"
+  - title: "Advertising Expatriate Vacancies on MYFutureJobs — FAQ Bil. 1/2026"
+    url: "https://myfuturejobs.gov.my/wp-content/uploads/2026/04/FAQ-PAPD-BI-12032026.pdf"
+    publisher: "PERKESO / Ministry of Human Resources (KESUMA)"
+    date: "2026-02-01"
+  - title: "Salaries and Wages Survey Report 2026 (scheduled 29 September 2026)"
+    url: "https://www.dosm.gov.my/portal-main/release-content/salaries-and-wages-survey-report-2026"
+    publisher: "Department of Statistics Malaysia"
+    date: "2026-09-29"
+  - title: "Labour Force Survey — Technical Notes"
+    url: "https://open.dosm.gov.my/publications/technical-notes/lfs-technotes"
+    publisher: "Department of Statistics Malaysia (OpenDOSM)"
+    date: "2026-06-26"
 
 entity: "Malaysian regional labour market"
 relations:

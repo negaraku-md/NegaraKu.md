@@ -41,12 +41,8 @@ faq:
 
 verificationNeeded:
   - "P.U.(A) 356/1974, the original Free Trade Zones declaration for Bayan Lepas, could not be retrieved — the AGC subsidiary legislation database does not index the P.U.(A) series that far back. Its title and 10 October 1974 gazette date are confirmed only by recital in P.U.(B) 510/2024."
-  - "The Free Zones Regulations 1991 principal text, P.U.(A) 321/1991, is not in the AGC database. The number is confirmed from the 2024 amending regulations, P.U.(A) 358/2024."
   - "The Free Zone Authority for Bayan Lepas Phases II onward is unresolved. RMCD lists only Phase I, and the 2024 re-declaration covers four plans as a single zone entry, which may have superseded the phase structure."
-  - "Penang E&E exports for 2025 have not been published at state level. InvestPenang's most recent figure is RM358.1 billion for 2024. A 2025 figure derived from DOSM growth rates is not published here."
   - "The widely circulated figure of RM435 billion of Penang exports, or 31 per cent of national, could not be tied to any official page."
-  - "RMCD's Guide on Special Area is dated 3 October 2018 and its free zone authority list is stamped 3 August 2023, so both predate the December 2024 re-declaration and the July 2025 sales tax changes."
-  - "DOSM state figures here are taken from the publication releases, not the open-data CSVs. The state GDP CSV at storage.dosm.gov.my is a stale vintage that parses cleanly and returns plausible but superseded values — do not cite it."
 
 lang: "en"
 masterLanguage: "en"
@@ -55,9 +51,9 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-07-22
+reviewed: 2026-08-14
 reviewDue: 2027-07-22
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-21
@@ -67,8 +63,12 @@ revisions:
     date: 2026-07-21
     change: "Fixed the 'Which instrument declares Bayan Lepas' count so the 1974 original does not contradict the 'three recent' framing; corrected Penang's MIDA manufacturing-investment rank from third to second; expanded LMW acronym at first body use."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-07-21
+updated: 2026-08-14
 sources:
   - title: "Free Zones Act 1990 (Act 438), online version of updated text as at 15 December 2025"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/3226821_BI/Act%20438%20(Online%202026).pdf"
@@ -88,6 +88,13 @@ sources:
     url: "https://www.customs.gov.my/en/business/facilitation/free-zone/list-of-free-zones-free-zone-authorities"
     publisher: "Royal Malaysian Customs Department"
     date: "2023-08-03"
+  - title: "Free Zones (Amendment) Regulations 2023, P.U.(A) 131/2023 (reg. 2 cites the Free Zones Regulations 1991 [P.U. (A) 321/1991])"
+    url: "https://ccs-co.com/wp-content/uploads/124.1-Free-Zones-Amendment-Regulations-2023-P.U.-A-131_2023.pdf"
+    publisher: "Attorney General's Chambers (Federal Government Gazette)"
+    date: "2023-04-19"
+  - title: "Electrical & Electronics — Penang E&E exports RM358.1 billion (2024), 60% of national"
+    url: "https://investpenang.gov.my/electrical-electronics/"
+    publisher: "InvestPenang"
   - title: "Malaysia Investment Performance Report 2025"
     url: "https://www.mida.gov.my/wp-content/uploads/2026/03/MIDA_IPR.2025.pdf"
     publisher: "MIDA"

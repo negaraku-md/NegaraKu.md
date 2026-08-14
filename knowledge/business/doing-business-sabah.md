@@ -38,13 +38,9 @@ faq:
     a: "Yes. The State Sales Tax Enactment 1998 lets the State Minister of Finance impose sales tax by Order on listed goods. Crude palm oil is taxed at 7.5 per cent of volume against the monthly MPOB Sabah average price, applying only where that average exceeds RM1,000. A 2025 Order applies 5 per cent to crude petroleum oil, condensate, LNG, natural gas, ammonia, urea and methanol. Other Orders cover fish and crustaceans, scrap iron, silica, oil palm biomass, and gold and silver mined in Sabah. This sits alongside, not instead of, federal SST."
 
 verificationNeeded:
-  - "Sabah GDP in RM billion for 2025 and its precise share of national GDP — DOSM publishes the growth rate, per capita and sector shares in text but the state total sits in a chart image"
   - "Whether DBKK has adopted the Uniform (Licensing the Use of Premises) By-laws 2022 — DBKK's pages still cite only Cap. 144 and its own 1966 to 1984 by-laws, and adoption requires a resolution of each Authority under s.50A of the Local Government Ordinance 1961"
   - "The current statutory fee schedules under Cap. 144 — the reference version published by the State Attorney-General's Chambers renders all First Schedule fees in pre-decimal dollars and flattens the Second Schedule, so no statutory rate is quotable"
   - "Trading licence fees, processing fees, renewal windows and document lists for Majlis Perbandaran Sandakan and Majlis Perbandaran Tawau — neither publishes them"
-  - "Sabah unemployment rate, labour force participation, and mean and median monthly salary — not confirmed against a DOSM publication; state labour data is published quarterly and the quarter should be named"
-  - "The verbatim text of Article 161E of the Federal Constitution and the Tenth Schedule Special Grant — the AGC copy is served only through a viewer and direct paths return server errors"
-  - "MIDA approved investment in Sabah for 2024 and 2025 — no state figure located"
   - "Current tenant counts and committed investment at POIC Lahad Datu and SOGIP Sipitang — the operator sites carry figures dated 2020 to 2022 and aspirational totals"
 
 lang: "en"
@@ -54,9 +50,10 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-07-22
+publishedBy: "ashton-tan"
+reviewed: 2026-08-14
 reviewDue: 2027-07-22
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-21
@@ -66,8 +63,12 @@ revisions:
     date: 2026-07-21
     change: "Clarified that Cap. 144 s.6's '31 December next following the date of commencement' is the coming 31 December (year of issue), reconciling the body table with the FAQ; confirmed against the Cap. 144 text."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-07-21
+updated: 2026-08-14
 sources:
   - title: "Trades Licensing Ordinance (Sabah Cap. 144)"
     url: "https://sagc.sabah.gov.my/sites/default/files/law/TradesLicensingOrdinance(SabahCap144).pdf"
@@ -93,6 +94,25 @@ sources:
     url: "https://www.dosm.gov.my/portal-main/release-content/gross-domestic-product-gdp-by-state-2025"
     publisher: "Department of Statistics Malaysia"
     date: "2026-07-01"
+  - title: "Sabah's economy up 5.1% in 2025"
+    url: "https://www.freemalaysiatoday.com/category/nation/2026/07/02/sabahs-economy-up-5-1-in-2025"
+    publisher: "Free Malaysia Today (reporting DOSM figures)"
+    date: "2026-07-02"
+  - title: "Labour Force Survey 2025"
+    url: "https://www.dosm.gov.my/portal-main/release-content/labour-force-survey-2025"
+    publisher: "Department of Statistics Malaysia"
+  - title: "Employee Wages Statistics (Formal Sector), Fourth Quarter 2025"
+    url: "https://www.dosm.gov.my/portal-main/release-content/employee-wages-statistics-formal-sector-q42025"
+    publisher: "Department of Statistics Malaysia"
+  - title: "Malaysia's 1H 2025 Approved Investments Up 18.7% Y-o-Y to RM190.3 Billion"
+    url: "https://www.mida.gov.my/media-release/malaysias-1h-2025-approved-investments-up-by-18-7-year-on-year-to-rm190-3-billion-creating-over-89000-new-jobs/"
+    publisher: "Malaysian Investment Development Authority (MIDA)"
+  - title: "Federal Constitution — Tenth Schedule"
+    url: "https://sagc.sabah.gov.my/sites/default/files/law/TenthSchedule.pdf"
+    publisher: "Sabah State Attorney-General's Chambers"
+  - title: "Federal Constitution of Malaysia (consolidated text, incl. Art. 161E)"
+    url: "https://www.wipo.int/wipolex/en/legislation/details/13054"
+    publisher: "WIPO Lex / Attorney General's Chambers"
   - title: "About SEDIA and the Sabah Development Corridor"
     url: "https://sedia.com.my/about-sdc/"
     publisher: "SEDIA"
@@ -261,8 +281,10 @@ applicant who is not a Sabah local or permanent resident. Plan the pass before t
 
 ## The economic case
 
-DOSM's *GDP by State, 2025* records Sabah growing **5.1 per cent**, a sharp recovery from
-1.2 per cent in 2024, with **GDP per capita at RM31,125** against a national RM59,167.
+DOSM's *GDP by State, 2025* puts Sabah's economy at **RM88.8 billion** at current prices,
+up from RM84.5 billion in 2024 — **5.1 per cent of national GDP** and the seventh-largest
+state economy. In real terms it grew **5.1 per cent**, a sharp recovery from 1.2 per cent in
+2024, with **GDP per capita at RM31,125** against a national RM59,167.
 
 The sector mix is genuinely unlike anywhere else in Malaysia. **Services 52.1 per cent,
 mining and quarrying 22.0 per cent, agriculture 13.9 per cent, manufacturing 7.2 per cent,
@@ -275,6 +297,14 @@ services grew 4.5 per cent on tourism, with arrivals up 20.4 per cent.
 Read plainly: Sabah is a resource and services economy with a thin manufacturing base. The
 industrial estates reflect that — **KKIP** at 8,320 acres near Sepanggar, **POIC Lahad
 Datu** with a natural deep harbour beyond 20 metres, and **SOGIP Sipitang** at 5,539 acres.
+
+That resource weight does not translate into the labour market. DOSM's *Labour Force
+Survey 2025* records Sabah's unemployment rate at **7.2 per cent** for 2025, the highest of
+any state and more than double the national 3.0 per cent, while its median formal-sector
+wage was **RM2,045** in December 2025 (*Employee Wages Statistics, Q4 2025*), against a
+national median of RM3,167 — among the lowest state medians. Investment interest is
+stronger: MIDA recorded **RM11.4 billion** of approved investments in Sabah in the first
+half of 2025, fifth among the states.
 
 One frequent confusion worth closing: **Labuan is not Sabah.** It has been a Federal
 Territory since 1984, regulated by Labuan FSA under the Labuan Business Activity Tax Act

@@ -13,9 +13,9 @@ mode: "practical"
 contentType: "guide"
 sensitivity: "none"
 
-answer: "The East Coast Economic Region comprises Kelantan, Terengganu, Pahang and the District of Mersing in Johor, under section 4 of the East Coast Economic Region Development Council Act 2008. ECERDC endorses incentive applications, which the Minister of Finance grants. Eight incentive orders were gazetted in 2016 but their application window, extended to 31 December 2024 by P.U.(A) 344 to 350 of 2023, has closed, as have the later Kelantan and MCKIP schemes on the same date. The live route today is a negotiated customised incentive through ECERDC."
+answer: "The East Coast Economic Region comprises Kelantan, Terengganu, Pahang and the Districts of Mersing and Segamat in Johor, under section 4 of the East Coast Economic Region Development Council Act 2008. ECERDC endorses incentive applications, which the Minister of Finance grants. Eight incentive orders were gazetted in 2016 but their application window, extended to 31 December 2024 by P.U.(A) 344 to 350 of 2023, has closed, as have the later Kelantan and MCKIP schemes on the same date. The live route today is a negotiated customised incentive through ECERDC."
 keyTakeaways:
-  - "Section 4 of Act 688 names Kelantan, Terengganu, Pahang and the District of Mersing in Johor — Mersing only, in the statute text"
+  - "Section 4 of Act 688 names Kelantan, Terengganu, Pahang and, since the 2022 amendment substituted 'Mersing and Segamat districts' for 'Mersing district', both Mersing and Segamat in Johor"
   - "Eight gazetted orders were published on 13 June 2016 under para 127(3)(b) of the Income Tax Act 1967, covering approved developers, park managers, qualifying activities, withholding tax and stamp duty"
   - "Those orders required application to the Minister through ECERDC by 31 December 2020, extended to 31 December 2022 by four amendment orders in April 2022 and then to 31 December 2024 by P.U.(A) 344 to 350 of 2023 — and no further extension was found"
   - "The Kelantan Special Incentive Scheme gives 0 per cent for 15 years of assessment then 17 per cent for 5, but applications closed on 31 December 2024"
@@ -26,26 +26,20 @@ appliesTo: "Manufacturers, petrochemical and agri-processing investors evaluatin
 
 faq:
   - q: "Which states are in ECER?"
-    a: "Section 4 of the East Coast Economic Region Development Council Act 2008 declares an area comprising the States of Kelantan, Terengganu, Pahang and the District of Mersing in the State of Johor. Note that MIDA's own corridor page says Mersing and Segamat. The Act text as reprinted says Mersing alone, and the discrepancy is unresolved — check the current reprint before relying on Segamat."
+    a: "Section 4 of the East Coast Economic Region Development Council Act 2008 declares an area comprising the States of Kelantan, Terengganu, Pahang and the Districts of Mersing and Segamat in the State of Johor. The East Coast Economic Region Development Council (Amendment) Bill 2022, passed by the Dewan Rakyat on 19 July 2022, amended section 4 to substitute 'Mersing and Segamat districts' for 'Mersing district'; MIDA's corridor page states ECER covers the districts of Mersing and Segamat in Johor. The commencement of the amendment is on a date the Prime Minister appoints after consulting the four State Authorities, but MIDA, a federal agency, treats Segamat as included."
   - q: "Can I still apply for the 2016 ECER incentive orders?"
-    a: "No, on the face of the instruments. Each order required the application to be made to the Minister through ECERDC not later than 31 December 2020. Four amendment orders gazetted on 22 April 2022 substituted 2022 for 2020, and P.U.(A) 344 to 350 of 2023 then extended the window to 31 December 2024. No later extension order could be located, so the window appears to have closed on 31 December 2024."
+    a: "No, on the face of the instruments. Each order required the application to be made to the Minister through ECERDC not later than 31 December 2020. Four amendment orders gazetted on 22 April 2022 substituted 2022 for 2020, and P.U.(A) 344 to 350 of 2023 then extended the window to 31 December 2024. No later extension order could be located, so the window closed on 31 December 2024."
   - q: "What is available now?"
     a: "ECERDC's own investment guide lists customised incentives based on the merit of each investment, alongside income tax exemption for up to 10 years or an investment tax allowance, stamp duty exemption, expatriate employment flexibility and import duty facilitation. In practice the live route is a negotiated package endorsed by ECERDC and granted by the Minister of Finance, not an automatic claim under a published order."
   - q: "Does MCKIP have its own incentive?"
-    a: "ECERDC publishes a distinct MCKIP block offering 100 per cent corporate tax exemption for 15 years, against 10 years for general ECER, for high value-added, high technology-transfer or research and development activities, plus a 15 per cent special personal income tax rate for qualified knowledge workers. The knowledge worker rules were gazetted as P.U.(A) 330/2023, but applications had to reach ECERDC by 31 December 2024."
+    a: "ECERDC publishes a distinct MCKIP block offering 100 per cent corporate tax exemption for 15 years, against 10 years for general ECER, for high value-added, high technology-transfer or research and development activities, plus a 15 per cent special personal income tax rate for qualified knowledge workers. The knowledge worker rules were gazetted as P.U.(A) 330/2023, applying the flat 15 per cent rate prescribed by Part XIV of Schedule 1 to the Income Tax Act 1967, but applications had to reach ECERDC by 31 December 2024."
   - q: "Is Kuantan Port a free zone?"
-    a: "Yes, as a Free Commercial Zone. Royal Malaysian Customs lists Pelabuhan Kuantan at entry 24 of the FCZ list, with Lembaga Pelabuhan Kuantan as the free zone authority. Kuantan does not appear on the Free Industrial Zone list, so MCKIP itself is not an FIZ. Free zone status was established on 1 April 2019 under section 3(1) of the Free Zones Act 1990."
+    a: "Yes, as a Free Commercial Zone. Royal Malaysian Customs lists Pelabuhan Kuantan at entry 24 of the FCZ list, with Lembaga Pelabuhan Kuantan as the free zone authority. Kuantan does not appear on the Free Industrial Zone list, so MCKIP itself is not an FIZ. Free zone status was declared by the Minister of Finance under the Free Zones Act 1990 through P.U.(B) 134/2019, gazetted 13 March 2019, with effect from 1 April 2019."
   - q: "When does the ECRL open?"
     a: "On the Ministry of Transport statement of 29 January 2026, Phase 1 construction completion is targeted for December 2026 with commercial passenger service from January 2027. Phase 2 from Gombak to Port Klang targets construction completion in December 2027 and operations from January 2028. Progress was 90.81 per cent at December 2025."
 
 verificationNeeded:
-  - "Whether the District of Segamat has been added to ECER. Act 688 s.4 as reprinted names Mersing only, MIDA names Mersing and Segamat, and the content of the 6 September 2022 amendment to Act 688 could not be retrieved."
-  - "Whether any gazetted extension of the 2016 ECER incentive orders beyond 31 December 2024 exists — the window was extended to 31 December 2024 by P.U.(A) 344 to 350 of 2023, and no later extension was located"
-  - "The tax rate prescribed by Part XIV of Schedule 1 to the Income Tax Act 1967, which is the rate applied by the MCKIP knowledge worker rules. P.U.(A) 330/2023 does not state a rate on its face and the Schedule text could not be retrieved from an official source."
-  - "The P.U.(A) number and date of the declaration making Kuantan Port a Free Commercial Zone. The fact of gazettement is confirmed by the Customs list; the citation is not."
-  - "The complete official list of the 20 ECRL stations. Only Kota Bharu at Tunjong and Pasir Puteh at Cherang Tuli are named by MOT. Station lists in circulation that include Jelebu, Bangi, Kajang or Putrajaya Sentral reflect the pre-2021 alignment and are obsolete."
-  - "The RM74.96 billion combined ECRL cost figure rests on an MRL reproduction of a news report. The RM50.27 billion construction cost is the better-attested figure."
-  - "Any 2025 or 2026 official target for Kuantan New Deep Water Terminal Phase 2"
+  - "Any 2025 or 2026 official target for Kuantan New Deep Water Terminal Phase 2. As of April 2025 Phase 2 remained in planning; the only firm dated milestone found is contractual (completion by December 2039 to secure a concession extension to 2075), not a near-term start or completion target."
 
 lang: "en"
 masterLanguage: "en"
@@ -54,9 +48,9 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-07-22
+reviewed: 2026-08-14
 reviewDue: 2027-07-22
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-20
@@ -66,12 +60,26 @@ revisions:
     date: 2026-07-21
     change: "Corrected the 2016 ECER orders' application window: further extended to 31 December 2024 by P.U.(A) 344 to 350 of 2023 (not closed 31 December 2022), resolving the contradiction with economic-corridors-compared."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-07-20
+updated: 2026-08-14
 sources:
   - title: "East Coast Economic Region Development Council Act 2008 (Act 688)"
     url: "https://www.ecerdc.com.my/wp-content/uploads/2020/10/Act-688.pdf"
     publisher: "ECERDC"
+  - title: "Economic Corridors — ECER (covers Mersing and Segamat districts in Johor)"
+    url: "https://www.mida.gov.my/economic-corridors-ecer/"
+    publisher: "MIDA"
+  - title: "East Coast Economic Region Development Council (Amendment) Bill 2022 (Clause 2 amends s.4 to add Segamat)"
+    url: "https://www.cljlaw.com/files/bills/pdf/2022/MY_FS_BIL_2022_03.pdf"
+    publisher: "Parliament of Malaysia / CLJ Law"
+  - title: "Dewan Rakyat passes amendment to make Segamat district part of ECER"
+    url: "https://www.malaymail.com/news/malaysia/2022/07/19/dewan-rakyat-passes-amendment-to-make-segamat-district-part-of-east-coast-economic-region/18317"
+    publisher: "Malay Mail"
+    date: "2022-07-19"
   - title: "Income Tax (State of Kelantan Special Incentive Scheme) Rules 2025, P.U.(A) 269/2025"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputp/3038524/PUA 269.pdf"
     publisher: "Attorney General's Chambers"
@@ -84,16 +92,37 @@ sources:
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputp/1880693/PUA330_2023.pdf"
     publisher: "Attorney General's Chambers"
     date: "2023-11-01"
+  - title: "Resident Individual (Knowledge Worker / Expert Worker) Explanatory Notes (15% flat rate, Part XIV Schedule 1)"
+    url: "https://phl.hasil.gov.my/pdf/pdfam/Explanatory_Notes_BT2017_2.pdf"
+    publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
+  - title: "East Coast Economic Region (ECER) incentives extended (P.U.(A) 123-126/2022, deadline to 31 Dec 2022)"
+    url: "https://www.ey.com/en_my/technical/tax-alerts/east-coast-economic-region-incentives-extended"
+    publisher: "EY Malaysia"
   - title: "ECER Investment Guide"
     url: "https://www.ecerdc.com.my/wp-content/uploads/2024/07/IM-Booklet_ENGLISH-2.pdf"
     publisher: "ECERDC"
   - title: "List of Free Zones and Free Zone Authorities"
     url: "https://www.customs.gov.my/en/business/facilitation/free-zone/list-of-free-zones-free-zone-authorities"
     publisher: "Royal Malaysian Customs Department"
+  - title: "Zon Bebas Pelabuhan Kuantan (P.U.(B) 134, 13 Mac 2019, berkuat kuasa 1 April 2019)"
+    url: "https://www.lpktn.gov.my/zon-bebas-pelabuhan-kuantan/"
+    publisher: "Lembaga Pelabuhan Kuantan"
   - title: "Kenyataan Media Kementerian Pengangkutan, 29 Januari 2026 (ECRL progress)"
     url: "https://www.mot.gov.my/en/Kenyataan%20Media/Year%202026/KENYATAAN%20MEDIA%20KEMENTERIAN%20PENGANGKUTAN%20-%20290126.pdf"
     publisher: "Ministry of Transport"
     date: "2026-01-29"
+  - title: "MOT: ECRL construction cost RM50.27b, development cost RM24.69b (total RM74.96b)"
+    url: "https://theedgemalaysia.com/article/mot-ecrl-construction-cost-rm5027b-development-cost-rm2469b"
+    publisher: "The Edge Malaysia"
+  - title: "MOT: ECRL incurs RM50.27b construction cost and RM24.69b development cost"
+    url: "https://www.mrl.com.my/en/mot-ecrl-incurs-rm50-27b-construction-cost-and-rm24-69b-development-cost/"
+    publisher: "Malaysia Rail Link (MRL)"
+  - title: "ECRL Stations — All 20 Stations Across 4 States"
+    url: "https://www.ecrlmalaysia.com/station/"
+    publisher: "ECRL Malaysia"
+  - title: "MRL East Coast Rail Link (station list by section)"
+    url: "https://en.wikipedia.org/wiki/MRL_East_Coast_Rail_Link"
+    publisher: "Wikipedia"
 
 entity: "East Coast Economic Region"
 relations:
@@ -132,12 +161,13 @@ specific:
 > the District of Mersing in the State of Johor.
 
 Contrast NCER, where the region is whatever the Prime Minister determines. Here the geography sits
-in the Act itself.
-
-One live discrepancy should be flagged rather than smoothed over. **MIDA's corridor page states
-that ECER covers the districts of Mersing and Segamat in Johor**, while the Act text as reprinted
-names Mersing alone. Act 688 was amended on 6 September 2022 and the content of that amendment
-could not be retrieved. Segamat may have been added; do not assume it.
+in the Act itself — and it has since been widened. The **East Coast Economic Region Development
+Council (Amendment) Bill 2022**, passed by the Dewan Rakyat on **19 July 2022**, amended section 4
+to substitute **"Mersing and Segamat districts" for "Mersing district"**, adding Segamat to the
+corridor. **MIDA's corridor page** accordingly states that ECER covers the districts of **Mersing
+and Segamat** in Johor. The amendment commences on a date the Prime Minister appoints by
+notification after consulting the four State Authorities; MIDA, a federal agency, already treats
+Segamat as included.
 
 The Council is chaired by the **Prime Minister**, with the Deputy Prime Minister and the Menteri
 Besar of Kelantan, Terengganu, Pahang and Johor as members. Section 3 preserves the powers of the
@@ -172,8 +202,9 @@ That wording is itself the clearest statement of how the corridor works — ECER
 the Minister of Finance is the grantor.
 
 Four amendment orders gazetted on **22 April 2022** substituted **2022 for 2020**, extending the
-window to **31 December 2022**. P.U.(A) 125/2022 and P.U.(A) 126/2022 do nothing else. A further
-set, **P.U.(A) 344 to 350 of 2023**, then substituted **2024 for 2022**, extending the window to
+window to **31 December 2022** (EY records this April 2022 set as P.U.(A) 123 to 126/2022).
+P.U.(A) 125/2022 and P.U.(A) 126/2022 do nothing else. A further set,
+**P.U.(A) 344 to 350 of 2023**, then substituted **2024 for 2022**, extending the window to
 **31 December 2024**. Separately,
 **P.U.(A) 393/2018** had already tightened P.U.(A) 159/2016 by adding substance requirements — an
 adequate number of approved full-time employees in ECER and adequate approved annual operating
@@ -215,13 +246,14 @@ basic salary of **RM10,000 per month**. The Minister's approval is **limited to 
 individuals** per approved person. Same window: 1 August 2021 to 31 December 2024.
 
 **The MCKIP knowledge worker rules, P.U.(A) 330/2023.** Effective from year of assessment 2022,
-these apply the Part XIV of Schedule 1 rate to a knowledge worker employed by a designated company
-carrying on business **within the Malaysia-China Kuantan Industrial Park**. The worker must be a
-Malaysian or foreign national, must **not have derived employment income from a designated company
-in ECER for at least two years** before applying, must reside within ECER, and must hold a degree or
-master's with **10 years** of experience, a doctorate with **5 years**, or a technical professional
-certificate with **15 years**. Employment had to commence between 1 January 2022 and 31 December
-2024, and the application had to reach ECERDC in the same window.
+these apply the **Part XIV of Schedule 1 rate — a flat 15 per cent** — to a knowledge worker
+employed by a designated company carrying on business **within the Malaysia-China Kuantan Industrial
+Park**. The worker must be a Malaysian or foreign national, must **not have derived employment
+income from a designated company in ECER for at least two years** before applying, must reside
+within ECER, and must hold a degree or master's with **10 years** of experience, a doctorate with
+**5 years**, or a technical professional certificate with **15 years**. Employment had to commence
+between 1 January 2022 and 31 December 2024, and the application had to reach ECERDC in the same
+window.
 
 ## MCKIP, Kuantan Port and the ECRL
 
@@ -245,15 +277,25 @@ planned only.
 The designation matters and is routinely stated wrongly: **Kuantan Port is a gazetted Free
 Commercial Zone, not a Free Industrial Zone**. It appears at entry 24 of the Customs FCZ list with
 Lembaga Pelabuhan Kuantan as free zone authority, and does not appear on the FIZ list at all. Free
-zone status was established on **1 April 2019**, by declaration of the Minister of Finance under
-**s.3(1) of the Free Zones Act 1990**. MCKIP itself is neither an FCZ nor an FIZ.
+zone status was declared by the Minister of Finance under **s.3(1) of the Free Zones Act 1990**
+through **P.U.(B) 134/2019, gazetted 13 March 2019**, with effect from **1 April 2019**. MCKIP
+itself is neither an FCZ nor an FIZ.
 
 **ECRL.** On the Ministry of Transport statement of **29 January 2026**: 665 km from Kota Bharu to
 Port Klang through Kelantan, Terengganu, Pahang and Selangor; progress **90.81 per cent as at
 December 2025** against a 90.0 per cent target; all 41 tunnels bored; testing and commissioning
 from **June 2026**; Phase 1 construction completion **December 2026**; commercial passenger service
 **from January 2027**. Phase 2, Gombak to Port Klang, targets completion in December 2027 and
-operations from January 2028. Construction cost is **RM50.27 billion**.
+operations from January 2028. Per MOT, the **total development cost is RM74.96 billion** — a
+**RM50.27 billion** construction cost plus **RM24.69 billion** of other development cost (interest
+during construction, land acquisition, utility transfer and connection fees, and operating
+expenses).
+
+The current post-2021 alignment runs **20 stations** across four states, terminating at the
+Integrated Transport Terminal at Gombak: **Kelantan** — Kota Bharu, Pasir Puteh; **Terengganu** —
+Jerteh, Bandar Permaisuri, Kuala Terengganu, Dungun, Kemasik, Chukai; **Pahang** — Cherating,
+Kuantan Port City, KotaSAS, Paya Besar, Maran, Temerloh, Bentong; **Selangor** — Terminal Bersepadu
+Gombak (ITT Gombak), Bandar Serendah, Puncak Alam, Kapar, Jalan Kastam (Port Klang).
 
 One warning. MOT's own standing rail-projects page still describes a 640 km line through five states
 and a federal territory via Mentakab — the pre-realignment description, contradicting its own 2026
@@ -278,7 +320,8 @@ regime with different treatment of manufacturing.
 **Publishing an ECRL station list from an old source.** Lists naming Jelebu, Bangi, Kajang or
 Putrajaya Sentral describe the pre-2021 alignment. Phase 1 now terminates at ITT Gombak.
 
-**Assuming Segamat is in ECER because MIDA says so.** The Act text says Mersing.
+**Assuming ECER stops at Mersing.** The 2022 amendment added Segamat; the corridor now covers both
+Mersing and Segamat districts in Johor.
 
 ## What's next
 

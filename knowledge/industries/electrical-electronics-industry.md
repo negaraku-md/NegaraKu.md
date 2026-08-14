@@ -40,15 +40,10 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
+publishedBy: "ashton-tan"
+reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "0.2"
-verificationNeeded:
-  - "Malaysia's total population figure used qualitatively in the introduction (no primary source cited in this draft)."
-  - "Penang's share of Malaysia's population, referenced qualitatively in the section on Penang's export concentration."
-  - "The location-specific company roster (e.g. Motorola and Lumileds in Penang; OSRAM's Kulim plant) and the claim that Kulim Hi-Tech Park hosts advanced/wafer-related manufacturing — plausible and industry-general but not tied to a fetched source."
-  - "The geographic spread of E&E activity to the Klang Valley, Melaka, Negeri Sembilan and Johor — descriptive and not backed by a specific citation in the sources list."
-  - "The derived figure of roughly RM164 billion for non-semiconductor E&E segments (RM601.21b total minus RM437.5b semiconductors); confirm the arithmetic against final official 2024 totals."
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-08-01
@@ -58,8 +53,12 @@ revisions:
     date: 2026-07-28
     change: "Correction pass: re-verified all hard figures against primary sources, softened uncited population claims, attributed the 100% US-tariff figure to The Edge, and added verificationNeeded."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-07-28
+updated: 2026-08-14
 sources:
   - title: "Malaysia's E&E Industry — Electrical & Electronics"
     url: "https://www.mida.gov.my/industries/manufacturing/electrical-electronics/"
@@ -76,6 +75,27 @@ sources:
   - title: "Malaysia's E&E exports may surpass record 2024 levels, even with possible US tariffs on semiconductors"
     url: "https://theedgemalaysia.com/node/769994"
     publisher: "The Edge Malaysia"
+  - title: "Current Population Estimates, 2024"
+    url: "https://www.dosm.gov.my/portal-main/release-content/current-population-estimates-2024"
+    publisher: "Department of Statistics Malaysia (DOSM)"
+  - title: "Population (Demographic Statistics, First Quarter 2024)"
+    url: "https://storage.dosm.gov.my/demography/demography_2024-q1.pdf"
+    publisher: "Department of Statistics Malaysia (DOSM)"
+  - title: "Osram's new LED chip factory goes into operation in Kulim"
+    url: "https://ams-osram.com/news/press-releases/pr-23-11-2017"
+    publisher: "ams OSRAM"
+  - title: "OSRAM Opto Semiconductors (M) Sdn. Bhd. — success story"
+    url: "https://www.mida.gov.my/success-stories/osram-opto-semiconductors-m-sdn-bhd/"
+    publisher: "Malaysian Investment Development Authority (MIDA)"
+  - title: "New Industrial Master Plan 2030 — Electrical and Electronics Industry (sectoral report)"
+    url: "https://www.nimp2030.gov.my/nimp2030/modules_resources/bookshelf/e-03-Sectoral_NIMP-Electrical_Electronics_Industry/e-03-Sectoral_NIMP-Electrical_Electronics_Industry.pdf"
+    publisher: "Ministry of Investment, Trade and Industry (MITI), Malaysia"
+  - title: "Central Region Industrial Clusters: Powering an Integrated Production Ecosystem"
+    url: "https://www.mida.gov.my/central-region-industrial-clusters-powering-an-integrated-production-ecosystem/"
+    publisher: "Malaysian Investment Development Authority (MIDA)"
+  - title: "MIDA Anchors Malaysia As A Strategic Semiconductor Supply Chain Partner Under Johor–Singapore SEZ"
+    url: "https://www.mida.gov.my/media-release/mida-anchors-malaysia-as-a-strategic-semiconductor-supply-chain-partner-under-johor-singapore-sez/"
+    publisher: "Malaysian Investment Development Authority (MIDA)"
 
 entity: "Electrical and electronics industry of Malaysia"
 relations:
@@ -86,7 +106,7 @@ related: ["penang", "mida"]
 keywords: ["E&E industry", "electrical and electronics", "Malaysia manufacturing", "Penang electronics", "semiconductors", "consumer electronics", "electronic components", "National Semiconductor Strategy", "Bayan Lepas", "MIDA"]
 ---
 
-Open almost any laptop, smartphone or car built in the last decade and there is a decent chance a piece of it passed through Malaysia. The chip inside might have been tested and packaged in Penang; the power adapter, the LED backlight or the circuit board could have been assembled in Kulim, Melaka or the Klang Valley. For a country of its size, Malaysia sits at a surprisingly central point in the world's electronics supply chain — and that is almost entirely the story of one industry.
+Open almost any laptop, smartphone or car built in the last decade and there is a decent chance a piece of it passed through Malaysia. The chip inside might have been tested and packaged in Penang; the power adapter, the LED backlight or the circuit board could have been assembled in Kulim, Melaka or the Klang Valley. For a country of about 34.1 million people (2024, DOSM), Malaysia sits at a surprisingly central point in the world's electronics supply chain — and that is almost entirely the story of one industry.
 
 Electrical and electronics — universally shortened to "E&E" in Malaysia — is the country's largest manufacturing sector and its single biggest export. In 2024 it earned about RM601 billion, the highest figure ever recorded and roughly 40% of everything Malaysia exports. No other product category comes close.
 
@@ -119,17 +139,16 @@ Where Intel went, others followed. AMD, Hewlett-Packard and Hitachi all set up o
 
 That supplier ecosystem is the real moat. Today Penang's E&E industry is supported by a network of over 6,500 local suppliers spanning automation, precision engineering, plastics, packaging and software, according to InvestPenang. A multinational can move a single plant; it is far harder to walk away from thousands of specialised vendors clustered within an hour's drive.
 
-The result is that Penang remains disproportionately important. In 2024 the state contributed RM358.1 billion in E&E exports — about 60% of the entire nation's E&E exports — from a single state that is home to only a small fraction of Malaysia's population.
+The result is that Penang remains disproportionately important. In 2024 the state contributed RM358.1 billion in E&E exports — about 60% of the entire nation's E&E exports — from a single state (about 1.76 million people, or roughly 5% of Malaysia's population, per DOSM) that produces well over half the national total.
 
 ## Where is E&E made beyond Penang?
 
 Penang is the origin story, but it is no longer the whole map. Over five decades the industry spread down the peninsula, partly because Penang ran short of land and labour and partly through deliberate policy.
 
-- **Penang (Bayan Lepas and Batu Kawan):** Still the core — semiconductors, ATP, and a deep contract-manufacturing base. Home to Intel, AMD, Broadcom, Bosch, OSRAM and EMS players such as Jabil, Flex, Plexus, Sanmina and Benchmark.
-- **Kulim, Kedah:** The Kulim Hi-Tech Park, just across the state line from Penang, extended the northern cluster with advanced electronics manufacturing.
-- **Klang Valley (Selangor and Kuala Lumpur):** The Shah Alam and surrounding industrial belt, closer to the country's main airport and financial centre.
-- **Melaka and Negeri Sembilan:** A southern electronics corridor.
-- **Johor:** Increasingly relevant as spillover from neighbouring Singapore drives new data-centre and electronics investment in the south.
+- **Penang (Bayan Lepas and Batu Kawan):** Still the core — semiconductors, ATP, and a deep contract-manufacturing base. Home to Intel, AMD, Broadcom, Bosch, OSRAM, Motorola and Lumileds, plus EMS players such as Jabil, Flex, Plexus, Sanmina, Benchmark and Inari Amertron, per InvestPenang.
+- **Kulim, Kedah:** The Kulim Hi-Tech Park, just across the state line from Penang, extended the northern cluster with advanced electronics manufacturing — including OSRAM's LED chip factory, which since 2017 has run genuine wafer fabrication for LEDs and microLEDs at the park.
+- **Klang Valley (Selangor and Kuala Lumpur), Melaka and Negeri Sembilan:** The Central cluster mapped by the New Industrial Master Plan 2030 — the Shah Alam industrial belt and a southern electronics corridor, closer to the country's main airport and financial centre, hosting firms such as Sony, Panasonic, Samsung, Renesas and ON Semiconductor.
+- **Johor:** Increasingly relevant as spillover from neighbouring Singapore drives new data-centre and electronics investment in the south; Johor Bahru drew RM9.8 billion in approved E&E investment in the first nine months of 2024, per MIDA.
 
 The concentration in the northern corridor — Penang plus Kulim — is why that region is sometimes called Malaysia's "Silicon Valley," though the comparison flatters the branding more than the business model: Malaysia's strength has historically been in manufacturing and back-end services rather than chip design.
 

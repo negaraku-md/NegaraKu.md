@@ -1,53 +1,49 @@
 ---
 topicId: MY-ACC-0033
 title: "Related Party Disclosures: Director and Shareholder Current Accounts"
-seoTitle: "MFRS 124 Related Party Disclosures: Sdn Bhd Director Current Accounts"
+seoTitle: "Related Party Disclosures MFRS 124: Sdn Bhd Director Accounts"
 slug: "related-party-disclosures"
 category: "accounting"
 subcategory: ["disclosure"]
-summary: "Director and shareholder loan balances in a family-owned Sdn Bhd almost always qualify as related party transactions under MFRS 124 — and how they are disclosed in the financial statement notes and tagged in MBRS determines whether your filing is accepted by SSM."
+summary: "Director and shareholder loan balances in a family-owned Sdn Bhd almost always qualify as related party transactions under MFRS 124 — and how they are disclosed in the financial statement notes and tagged in MBRS determines whether SSM accepts your filing."
 
 tier: "2"
 mode: "practical"
 contentType: "guide"
 sensitivity: "none"
 
-answer: "Money borrowed from or lent to a director or shareholder — commonly recorded as a 'director's current account' — is a related party balance that must be disclosed under MFRS 124. The note must state the nature of the relationship, the balance amount, the terms and conditions, any guarantees or security, and any provision for doubtful debts. For a Sdn Bhd, this balance must also be correctly tagged in SSM's MBRS system, and loans to directors are subject to the prohibition under Section 224 of the Companies Act 2016."
+answer: "Money borrowed from or lent to a director or shareholder — commonly recorded as a 'director's current account' — is a related party balance that must be disclosed under MFRS 124. The note must state the nature of the relationship, the amount of the balance, the terms and conditions, any guarantees or security, and any provision for doubtful debts. For an Sdn Bhd, these balances must also be tagged correctly in SSM's MBRS system, and loans to directors are subject to the prohibition in Section 224 of the Companies Act 2016."
 keyTakeaways:
-  - "MFRS 124 is the Malaysian equivalent of IAS 24 (effective 1 January 2012); it requires disclosure of parent-subsidiary relationships even where no transactions have occurred."
-  - "Outstanding related party balances must be disclosed together with terms, security, guarantees and provisions for doubtful debts."
-  - "Compensation of key management personnel is disclosed across five categories including short-term employee benefits and share-based payments."
-  - "Section 224 of the Companies Act 2016 prohibits loans to directors, with exceptions for exempt private companies and duty-related expenditure."
-  - "For a Sdn Bhd, related party balances must be tagged in XBRL format via MBRS; full XBRL financial statements are mandatory from 1 June 2025."
+  - "MFRS 124 is the Malaysian equivalent of IAS 24 (effective 1 January 2012); it requires disclosure of parent-subsidiary relationships even where no transactions have taken place."
+  - "Outstanding related party balances must be disclosed together with their terms, security, guarantees and provisions for doubtful debts."
+  - "Key management personnel compensation is disclosed across five categories, including short-term employee benefits and share-based payment."
+  - "Section 224 of the Companies Act 2016 prohibits loans to directors, with exceptions for exempt private companies and expenditure incurred in discharging duties."
+  - "For an Sdn Bhd, related party balances must be tagged in XBRL format via MBRS; full XBRL financial statements are mandatory from 1 June 2025."
 appliesTo: "Owners and directors of family-owned Sdn Bhd companies, company secretaries, account preparers and auditors."
 
 faq:
   - q: "Is a director's loan considered a related party transaction?"
     a: "Yes. A director qualifies as key management personnel under MFRS 124, so a balance owed to or from a director — the director's current account — is a related party balance that must be disclosed in the financial statement notes."
-  - q: "Must I disclose a parent-subsidiary relationship if no transactions have occurred?"
-    a: "Yes. MFRS 124 requires the relationship between a parent company and its subsidiary to be disclosed regardless of whether transactions have taken place between them. The entity must also identify its ultimate controlling party."
-  - q: "Can my company lend money to its own director?"
-    a: "Generally no. Section 224 of the Companies Act 2016 prohibits a company from lending to a director, except in certain circumstances such as an exempt private company, expenditure for carrying out duties, or a member-approved employee loan scheme."
+  - q: "Do I need to disclose the parent-subsidiary relationship if no transactions took place?"
+    a: "Yes. MFRS 124 requires relationships between a parent company and its subsidiaries to be disclosed regardless of whether transactions have taken place between them. The entity must also identify its ultimate controlling party."
+  - q: "Can my company lend money to its own directors?"
+    a: "Generally no. Section 224 of the Companies Act 2016 prohibits a company from lending to a director, except in certain circumstances such as an exempt private company, expenditure for discharging duties, or a member-approved employee loan scheme."
   - q: "What must the related party note show?"
-    a: "The nature of the relationship, the amount of the transactions, the outstanding balances and their terms, any security or guarantees given or received, and any provision for doubtful debts related to those balances."
+    a: "The nature of the relationship, the amount of the transactions, the outstanding balance and its terms, any security or guarantee received or given, and the provision for doubtful debts relating to that balance."
 
 lang: "en"
-sourceContentHash: "2636db59b47114e2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
+sourceContentHash: "ae54f875cbc22c20"
 
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-08
+publishedBy: "ashton-tan"
+reviewed: "2026-08-14"
 reviewDue: 2027-08-08
-version: "0.2"
-verificationNeeded:
-  - "Perkataan tepat objektif MFRS 124 — petikan dalam artikel ini adalah terjemahan Bahasa Melayu bagi teks Inggeris yang diterbitkan; sahkan terhadap standard rasmi MASB."
-  - "Tempoh bayaran balik pinjaman pengarah di bawah Seksyen 224 (enam bulan bagi syarikat awam, dua belas bulan bagi syarikat persendirian) terhadap subseksyen sebenar Akta 777."
-  - "Amaun penalti Seksyen 221 (denda sehingga RM3 juta / penjara sehingga lima tahun) terhadap teks Akta 777 semasa."
-  - "Tarikh pelancaran berperingkat MBRS 2.0 dan tarikh mandatori 1 Jun 2025 terhadap arahan/amalan SSM terkini."
-  - "Sama ada pengecualian syarikat persendirian dikecualikan di bawah Seksyen 224 terpakai bagi Sdn Bhd keluarga tertentu."
+version: "0.3"
+verificationNeeded: []
 revisions:
   - version: "0.1"
     date: 2026-08-08
@@ -57,8 +53,12 @@ revisions:
     date: 2026-08-08
     change: "Correction pass: replaced FRS 124 citations with the current MFRS 124 standard, added Companies Act 2016 (Act 777) official text and a source substantiating the 2018 MBRS launch, and added verificationNeeded."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-08-08
+updated: 2026-08-14
 sources:
   - title: "MFRS 124 Related Party Disclosures (berkuat kuasa 1 Januari 2012)"
     url: "https://www.masb.org.my/pdf_file/BV2021CR_MFRS124.pdf"
@@ -69,6 +69,12 @@ sources:
   - title: "Laws of Malaysia — Act 777 Companies Act 2016 (teks kemas kini)"
     url: "https://www.mof.gov.my/portal/pdf/bahagian/gic/Companies_Act_2016_Act_777.pdf"
     publisher: "Kementerian Kewangan Malaysia / Pesuruhjaya Penyemak Undang-undang"
+  - title: "Companies Act 2016 (Act 777), consolidated reprint as at 1.8.2022 — ss.221(12), 224(2)(a), 224(5) dan takrif 'exempt private company' (s.2(1))"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+  - title: "Laws of Malaysia — Act 777 Companies Act 2016 (AGC online version)"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/aktaBI_20160915_CompaniesAct2016Act777.pdf"
+    publisher: "Attorney General's Chambers (AGC / lom.agc.gov.my)"
   - title: "Section 221 Disclosure of Interests by Directors"
     url: "https://www.yeoashley.com.my/article/section-221-disclosure/"
     publisher: "Yeo Ashley & Partners"
@@ -81,6 +87,15 @@ sources:
   - title: "What is MBRS? The Malaysian Business Reporting System Explained"
     url: "https://www.mbrs.com.my/what-is-mbrs/"
     publisher: "MBRS.com.my"
+  - title: "Notis — Sistem MBRS 2.0 Go Live Bermula 25 September 2024"
+    url: "https://www.ssm.com.my/Lists/Announcement/AnnouncementDetails.aspx?ID=375"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+  - title: "Pengumuman — Pelaksanaan Mandatori Berperingkat MBRS 2.0 (26 Nov 2024): Fasa 1 berkuat kuasa 1 Disember 2024"
+    url: "https://www.ssm.com.my/Lists/Announcement/AnnouncementDetails.aspx?ID=378"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+  - title: "SSM MBRS services page — FAQ Fasa 2 (1 Mac 2025) dan Fasa 3 (1 Jun 2025)"
+    url: "https://www.ssm.com.my/Pages/Services/Other-Services/MBRS.aspx"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
 
 entity: "MFRS 124"
 relations:
@@ -90,7 +105,7 @@ related: ["companies-act-2016"]
 keywords: ["MFRS 124", "pihak berkaitan", "akaun semasa pengarah", "pinjaman pengarah", "MBRS", "IAS 24", "penyata kewangan"]
 ---
 
-In most family-owned Sdn Bhd companies in Malaysia, money moves in and out with little paperwork: a father injects cash when the flow is tight, one of the children draws an advance for a personal matter, and a related company settles a bill for another. All of this gathers in one quiet line on the balance sheet — the "director's current account" — and it is this line that most often trips up the auditor when they arrive and when the financial statements are tagged for SSM.
+In most family-owned Sdn Bhd companies in Malaysia, money moves in and out without much paperwork: the father injects cash when cash flow is tight, a child takes an advance for a personal matter, and a related company settles a bill for another. All of it collects in a single quiet line on the balance sheet — the "director's current account" — and it is this line that most often trips things up when the auditor arrives and when the financial statements are tagged for SSM.
 
 These balances are not ordinary transactions. They are **related party transactions**, and the standard that governs them — MFRS 124 *Related Party Disclosures* — exists because a company's financial position can be influenced not only by what happens, but by *with whom* it happens.
 
@@ -98,73 +113,73 @@ These balances are not ordinary transactions. They are **related party transacti
 
 MFRS 124 is the Malaysian equivalent of IAS 24, adopted by the Malaysian Accounting Standards Board (MASB) as part of full convergence with IFRS and effective for annual periods beginning on or after 1 January 2012. Its objective, according to MASB, is to ensure that financial statements contain the disclosures necessary to draw attention to the possibility that an entity's financial position and profit or loss "may have been affected by the existence of related parties".
 
-The basic idea is simple. If your company borrows RM500,000 from a bank at market rates, that is one story. If it borrows RM500,000 from its director interest-free and with no repayment date, the figure on the balance sheet may look the same — but the economic reality is very different. MFRS 124 forces that difference to the surface.
+The underlying idea is simple. If your company borrows RM500,000 from a bank at market rate, that is one story. If it borrows RM500,000 from its director with no interest and no repayment date, the figure on the balance sheet may look the same — but the economic reality is very different. MFRS 124 forces that difference to the surface.
 
-The parties that typically qualify as related parties for a typical Sdn Bhd include:
+Parties that typically qualify as related parties for a typical Sdn Bhd include:
 
 - **Directors and key management personnel** — those with the authority to plan, direct and control the company's activities.
 - **Close family members** of those directors — spouses, children, and dependants who may be influenced by them.
-- **Parent companies, subsidiaries and associated companies** within the same group.
+- **Parent companies, subsidiaries and associate companies** within the same group.
 - **Entities controlled or jointly controlled** by a director or their family — a "cousin" company owned by the same family.
 
 ## What must be disclosed in the notes?
 
 MFRS 124 distinguishes two things that must be disclosed: the **relationship** itself, and the **transactions and balances** that flow from it.
 
-A parent-subsidiary relationship must be disclosed *regardless* of whether any transactions have occurred between them. This means that even if a parent company has never transacted with its subsidiary during the year, the relationship — and the identity of the ultimate controlling party — must still be stated.
+The parent-subsidiary relationship must be disclosed *regardless* of whether any transactions took place between them. This means that even if a parent company never transacted with its subsidiary throughout the year, the relationship — and the identity of the ultimate controlling party — must still be stated.
 
-When transactions *do* occur, the note must show at least:
+When transactions *do* take place, the note must show at least:
 
 - the amount of the transactions;
-- the amount of outstanding balances, including their terms (for example, interest-free, repayable on demand);
+- the amount of the outstanding balance, including its terms (for example, interest-free, repayable on demand);
 - security given or received, and any guarantees;
-- provisions for doubtful debts related to those balances; and
-- the expense recognised for bad or doubtful debts from related parties.
+- provisions for doubtful debts relating to that balance; and
+- expense recognised for bad or doubtful debts due from related parties.
 
-These disclosures must also be separated by category of related party — parent, entities with joint control, subsidiaries, associates, joint ventures, key management personnel, and other related parties — so that readers do not confuse a director's loan with an intercompany group balance.
+These disclosures must also be separated by category of related party — parent company, entities with joint control, subsidiaries, associates, joint ventures, key management personnel, and other related parties — so that a reader does not confuse a director's loan with intra-group balances.
 
 ## How is key management compensation disclosed?
 
-One part of MFRS 124 that is often missed in family accounts is **key management personnel compensation**. The total compensation must be disclosed across five categories:
+One part of MFRS 124 that is frequently missed in family accounts is **key management personnel compensation**. The total compensation must be disclosed across five categories:
 
-| Compensation category | Common example in a Sdn Bhd |
+| Compensation category | Common examples in an Sdn Bhd |
 | --- | --- |
-| Short-term employee benefits | Director's salary, bonuses, EPF, allowances |
+| Short-term employee benefits | Directors' salaries, bonuses, EPF, allowances |
 | Post-employment benefits | Retirement contributions above mandatory EPF |
-| Other long-term benefits | Long-service rewards |
+| Other long-term benefits | Long-service awards |
 | Termination benefits | Retrenchment compensation |
-| Share-based payments | Options or share issues to directors |
+| Share-based payment | Options or share issues to directors |
 
-For small family companies, most of these columns are empty and only "short-term employee benefits" contains a figure. But the category still needs to be considered, because directors' salaries and fees are related party compensation — not just an ordinary payroll cost.
+For a small family company, most of these columns are empty and only "short-term employee benefits" contains a figure. But the categories still need to be considered, because directors' salaries and fees are related party compensation — not merely an ordinary payroll cost.
 
-## Does the law allow loans to directors?
+## Does the law permit loans to directors?
 
-This is where accounting meets the Companies Act 2016. A director's current account that is **owed by the director to the company** (that is, the director is in debt) is in fact a loan to a director — and **Section 224** generally *prohibits* a company from lending to its director, or providing a guarantee or security for such a loan.
+This is where accounting meets the Companies Act 2016. A director's current account that is **owed by the director to the company** (that is, the director is in debt) is in fact a loan to a director — and **Section 224** generally *prohibits* a company from lending to its directors, or from giving a guarantee or security for such a loan.
 
 There are important exceptions:
 
-- **Exempt private companies** may lend to a director in certain circumstances — relevant to many family Sdn Bhd companies.
-- Loans to enable a director to meet **expenditure for carrying out their duties** as an officer of the company.
-- **Employee loan schemes** approved by the members at a general meeting, if the director is also a full-time employee.
+- An **exempt private company** is exempted entirely from this prohibition under Section 224(2)(a) — relevant to many family Sdn Bhd companies, but only if the company genuinely meets the definition: not more than 20 members and no corporation holding a beneficial interest in its shares (directly or indirectly). A family Sdn Bhd with a corporate shareholder, or more than 20 members, does not qualify and remains bound by the Section 224 prohibition.
+- A loan to enable a director to meet **expenditure incurred in discharging their duties** as an officer of the company.
+- An **employee loan scheme** approved by members in general meeting, if the director is also a full-time employee.
 
-Where a loan is permitted, the company discloses the purpose and amount of the loan to the members, who must then approve it. The repayment period varies by type of company — for a public company, within six months after the AGM, and for a private company, within twelve months. A director who authorises a non-compliant loan may face imprisonment or a fine.
+Where a loan is permitted, the company discloses the purpose and amount of the loan to members, who must then approve it. If no approval is given, Section 224(5) requires the loan to be repaid — for a public company, within six months of the AGM, and for a private company, within twelve months from the date the loan was made. A director who authorises a non-compliant loan may face imprisonment or a fine.
 
-Separately, **Section 221** requires a director to disclose every direct or indirect interest in a contract with the company — including loans — and that interest is deemed to exist if it involves the director's spouse, parent or child. Failure to disclose is a criminal offence that can attract a fine of up to RM3 million or imprisonment of up to five years, or both. In other words: the same related party balance that must be disclosed for accounting purposes also carries a legal obligation.
+Separately, **Section 221** requires a director to disclose every direct or indirect interest in a contract with the company — including loans — and under Section 221(9) that interest is deemed to exist where it involves the director's spouse or child. Failure to disclose is a criminal offence which, under Section 221(12), may attract a fine of up to RM3 million or imprisonment of up to five years, or both. In other words: the same related party balance that must be disclosed for accounting purposes also carries an obligation under the law.
 
 ## How does it appear in MBRS?
 
-For a Sdn Bhd, financial statements are no longer filed as a PDF alone. **MBRS (Malaysian Business Reporting System)** is the digital submission platform introduced by SSM in November 2018, where statements are filed as structured data using XBRL — every figure given a standard tag so that it is machine-readable.
+For an Sdn Bhd, financial statements are no longer filed as a PDF alone. **MBRS (Malaysian Business Reporting System)** is the digital submission platform introduced by SSM in November 2018, where statements are filed as structured data using XBRL — every figure given a standard tag so that it can be read by machines.
 
-The workflow: prepare the figures in **mTool**, tag them to the taxonomy, validate, and submit via **mPortal** until SSM accepts them. Related party balances — the director's current account, amounts owed to or from a related company — must be tagged to the correct taxonomy element, not lumped into a generic "other receivables" or "other payables". Mis-tagging here is a common cause of rejected filings.
+The workflow: prepare the figures in **mTool**, tag them to the taxonomy, validate, and submit through **mPortal** until SSM accepts it. Related party balances — the director's current account, amounts owed to or from a related company — must be tagged to the correct taxonomy element, not lumped into a generic "other receivables" or "other payables". Mis-tagging here is a common cause of rejected filings.
 
-MBRS 2.0 began rolling out in phases around December 2024, and the submission of full financial statements in XBRL became mandatory for all companies from **1 June 2025**. This means that the related party disclosure discipline that was previously "good enough" on a PDF must now be precise enough to pass automated validation.
+MBRS 2.0 went live on 25 September 2024, with phased mandatory implementation: Phase 1 effective 1 December 2024, Phase 2 on 1 March 2025, and Phase 3 on **1 June 2025** — when the submission of full financial statements in XBRL became mandatory for all companies. This means that the related party disclosure discipline that was once "good enough" on a PDF must now be precise enough to pass automated validation.
 
 ## What are the next steps?
 
-- **Separate the current accounts** of each director and related party in the ledger; do not mix them into a single net balance. You need figures by party for disclosure and for MBRS.
-- **Check the direction of the balance**: if a director *owes* the company, ensure it complies with the Section 224 exceptions and is member-approved where necessary.
-- **Document the terms** of each balance — interest-free, repayable on demand, unsecured — so that the related party note can state them accurately.
-- **Match the Section 221 disclosure** in the board minutes with the related party note in the accounts; the two should tell the same story.
-- **Verify the MBRS tags** for related party balances before submitting, and consult your company secretary or auditor if any balance looks like a prohibited loan to a director.
+- **Separate the current account** of each director and related party in the ledger; do not mix them into a single net balance. You need the figures by party for the disclosure and for MBRS.
+- **Check the direction of the balance**: if a director *owes* the company, ensure it complies with the Section 224 exceptions and is approved by members if necessary.
+- **Document the terms** of each balance — interest-free, repayable on demand, unsecured — so the related party note can state them accurately.
+- **Match the Section 221 disclosure** in the board minutes with the related party note in the accounts; both should tell the same story.
+- **Verify the MBRS tags** for related party balances before submitting, and refer to your company secretary or auditor if any balance looks like a prohibited loan to a director.
 
-*This article is an AI-assisted draft intended as general guidance, not accounting, tax or legal advice. Consult an auditor, company secretary or qualified adviser for your specific circumstances.*
+*This article is an AI-assisted draft intended as general guidance, not accounting, tax or legal advice. Consult your auditor, company secretary or a qualified adviser for your specific circumstances.*

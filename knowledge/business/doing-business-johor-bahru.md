@@ -38,11 +38,8 @@ faq:
     a: "The 2016 by-law carries a full Jadual of minimum and maximum annual fees by activity — a vehicle workshop runs RM200 to RM1,000, food manufacturing RM300 to RM1,000, an electronics goods operation RM2,000 to RM4,000, and a pub, nightclub or karaoke outlet RM750 to RM2,000. Transfer of a licence costs RM50 under by-law 10(3). A temporary licence of under six months is charged at double the scheduled fee under by-law 3(2)."
 
 verificationNeeded:
-  - "MBIP and MBPG annual fee schedules, validity periods and renewal deadlines — both councils publish navigation pages only; the schedules sit in the Jadual of each gazetted by-law and were not extracted"
-  - "Whether MBIP and MBPG both transact through the Johor state ekhidmat.my platform — confirmed for MBJB only"
   - "Any official Malaysian count of residents commuting to Singapore for work — no government source publishes one; the widely quoted figures come from news outlets and are mutually inconsistent"
   - "Causeway and Second Link vehicle or passenger throughput — Immigration Malaysia confirms both as ICQS control points but publishes no volumes"
-  - "Johor share of national GDP as a precise percentage — DOSM states nearly 10 per cent and publishes only the grouped top-five figure of 67.9 per cent"
   - "Current specifications, occupancy and tenant counts for the Senai, Tebrau and Kulai industrial areas — no official operator pages with confirmable figures were located"
   - "RTS Link fare structure and confirmed first day of passenger service — MRT Corp publishes an end-2026 infrastructure completion target and a January 2027 service start, while Singapore LTA phrases it as service by December 2026"
 
@@ -53,9 +50,9 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-07-22
+reviewed: 2026-08-14
 reviewDue: 2027-07-22
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-21
@@ -65,8 +62,12 @@ revisions:
     date: 2026-07-21
     change: "Added the Kaedah-Kaedah Tanah Johor 2026 fee schedule to sources[]; the body prices foreign-acquisition approval off it but it was previously uncited."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-07-21
+updated: 2026-08-14
 sources:
   - title: "Undang-Undang Kecil Pelesenan Tred, Perniagaan dan Perindustrian (Majlis Bandaraya Johor Bahru) 2016, J.P.U. 15"
     url: "https://www.mbjb.gov.my/sites/default/files/2022-06/jpu.15_uuk_pelesenan_tred_perniagaan_dan_perindustrian_mbjb_2016.pdf"
@@ -76,6 +77,15 @@ sources:
     url: "https://www.mbpg.gov.my/sites/default/files/uuk_pelesenan_tred_perniagaan_dan_perindustrian_mppg_2017_organized.pdf"
     publisher: "Johor Government Gazette"
     date: "2017-02-02"
+  - title: "Jenis dan Kadar Lesen Premis Perniagaan berdasarkan UUK Pelesenan Tred, Perniagaan dan Perindustrian (MBIP) 2018"
+    url: "https://www.mbip.gov.my/sites/default/files/kadar_lesen_perniagaan_berdasarkan_uuk_pelesenan_tred_perniagaan_dan_perindustrian_mbip_2018-1.10.2022.pdf"
+    publisher: "Majlis Bandaraya Iskandar Puteri"
+  - title: "Pelesenan — MBIP"
+    url: "https://www.mbip.gov.my/perkhidmatan/pelesenan"
+    publisher: "Majlis Bandaraya Iskandar Puteri"
+  - title: "Pelesenan / Licensing — MBPG"
+    url: "https://mbpg.gov.my/index.php/en/rakyat/pelesenan"
+    publisher: "Majlis Bandaraya Pasir Gudang"
   - title: "Pelesenan — Majlis Bandaraya Johor Bahru"
     url: "https://www.mbjb.gov.my/en/business/licensing"
     publisher: "MBJB"
@@ -88,6 +98,10 @@ sources:
     date: "2026-04-01"
   - title: "Gross Domestic Product (GDP) by State, 2025"
     url: "https://www.dosm.gov.my/portal-main/release-content/gross-domestic-product-gdp-by-state-2025"
+    publisher: "Department of Statistics Malaysia"
+    date: "2026-07-01"
+  - title: "Media Statement — Gross Domestic Product (GDP) by State, 2025"
+    url: "https://www.dosm.gov.my/uploads/release-content/file_20260701120804.pdf"
     publisher: "Department of Statistics Malaysia"
     date: "2026-07-01"
   - title: "Salaries and Wages Survey Report 2024"
@@ -144,6 +158,17 @@ Bandaraya, but the by-law kept the old MPPG citation**. This is the same pattern
 Penang's MPPP-era instruments and Sarawak's KMC by-laws: the name on the instrument is
 the name you cite, not the name on the letterhead.
 
+The three schedules do not share a structure, which is why a checklist from one council is
+not a checklist for another. Pasir Gudang's MPPG 2017 by-law mirrors MBJB's mechanics — its
+by-law 11 caps validity at three years, by-law 12(1) requires renewal not later than 30 days
+before expiry, and by-law 3(2) charges a temporary licence (under six months) at double the
+scheduled fee — over an activity-based minimum-and-maximum Jadual: a laundry (*kedai dobi*)
+RM300–RM1,000, an electronics-goods outlet RM200–RM600, a construction contractor
+RM350–RM1,000, an internet-service centre RM500–RM2,000. Iskandar Puteri's MBIP 2018 schedule
+prices differently again — not by activity min-max but by premise size in three bands (under
+1,000 sq ft / 1,001–2,000 / 2,001+): a petrol station RM500 flat, a restaurant RM320/390/470,
+a cinema RM275/365/500, a dry-goods grocery RM210/250/330.
+
 ## What the MBJB by-law actually does to you
 
 Four provisions decide how the licence behaves, and none of them are national defaults.
@@ -171,7 +196,12 @@ licence carries a fine to RM2,000 or a year under by-law 3(3), compoundable at u
 50 per cent under by-law 53.
 
 Applications go through **ekhidmat.my**, the Johor state councils' shared e-services
-platform, with counters at Menara MBJB in Bukit Senyum and a Johor Jaya branch. Documents
+platform, with counters at Menara MBJB in Bukit Senyum and a Johor Jaya branch. The
+neighbouring councils settle through the same platform: MBIP routes online licence payment to
+the eKhidmat Johor portal (while fronting the application itself through its own
+awam.di.mbip.my), and MBPG takes payment through eKhidmat Johor once a renewal is approved —
+so plan on eKhidmat Johor for payment across all three, even where the application front-end
+differs. Documents
 follow by-law 4(5) — certified SSM registration, proof of title or tenancy, every Majlis
 approval including the **Sijil Kelayakan Menduduki**, a current assessment receipt, and
 supporting letters from Bomba, Kesihatan or JAS depending on activity. Pasir Gudang adds

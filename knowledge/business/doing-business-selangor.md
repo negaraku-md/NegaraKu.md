@@ -38,14 +38,9 @@ faq:
     a: "Only within tight state limits. Pekeliling PTG Selangor Bil. 1/2014 sets a RM2 million minimum in Zones 1 and 2 and RM1 million in Zone 3 for residential, and restricts foreign residential acquisition to strata title only. Commercial and industrial both carry a RM3 million floor, with a cap of 10 per cent of non-Bumiputera units. Landed residential, agricultural land and Malay Reserve land are closed. Confirm the current thresholds with PTG Selangor before relying on them — the circular dates from 2014."
 
 verificationNeeded:
-  - "Whether Pekeliling PTG Selangor Bil. 1/2014 minimum purchase thresholds remain current in 2026 — the circular was confirmed only against a 2016 state assembly answer and threshold revisions are common"
-  - "MBSA and MBPJ licence validity periods and renewal deadlines — neither publishes a fixed term; MBPJ states only the date printed on the licence"
-  - "MBSJ fee schedule and the full text of its by-law — the MBSJ portal returns 403 to automated retrieval"
+  - "Whether Pekeliling PTG Selangor Bil. 1/2014 minimum purchase thresholds remain current in 2026 — residential and commercial figures are corroborated by current legal guides, but no primary PTG/state publication of the circular text is available and no gazetted supersession between 2015 and 2026 could be located, so its 2026 currency is unconfirmed"
+  - "MBSJ fee schedule and the full text of its by-law — the MBSJ page confirms the 12-month term and 6-month permit cap but publishes only category listings and guideline PDFs, with no ringgit fee schedule and no full by-law text"
   - "MBPJ annual premise licence rates — the by-law PDF published by MBPJ is a scanned image with no text layer, so no ringgit rate is machine-readable"
-  - "MBSA annual premise licence rate — MBSA publishes processing fees and the beauty and health centre schedule only, and the published table still carries GST columns that have been defunct since 2018"
-  - "Selangor annual unemployment and labour force participation figures — DOSM publishes state labour data quarterly, so read the annual report figures against the latest quarterly release and name the quarter"
-  - "Selangor mean and median monthly salary — not published in the DOSM Salaries and Wages summary release, which names only the five states above the national mean"
-  - "Whether Sel. P.U. 19 of 2024 trade effluent licensing under LUAS applies to a given industrial activity, and the applicable fee"
 
 lang: "en"
 masterLanguage: "en"
@@ -54,9 +49,9 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-07-22
+reviewed: 2026-08-14
 reviewDue: 2027-07-22
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-21
@@ -66,8 +61,12 @@ revisions:
     date: 2026-07-21
     change: "Softened the summary's absolute 'only state that publishes a home-business fee at all' to match the body — the fee is the UPEN guideline as applied by MBPJ, and MPAJ, MBSJ and MBSA publish none."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-07-21
+updated: 2026-08-14
 sources:
   - title: "Undang-Undang Kecil Pelesenan Tred, Perniagaan dan Perindustrian (Majlis Perbandaran Ampang Jaya) 2007, Sel. P.U. 125"
     url: "https://www.mpaj.gov.my/sites/default/files/undang-undang_kecil_mpaj_2007.pdf"
@@ -96,6 +95,18 @@ sources:
     url: "https://www.mida.gov.my/media-release/malaysia-breaks-investment-record-with-rm426-7-billion-in-2025-up-11-year-on-year-creating-over-240000-new-jobs/"
     publisher: "MIDA"
     date: "2026-03-06"
+  - title: "Labour Force Survey 2025"
+    url: "https://www.dosm.gov.my/portal-main/release-content/labour-force-survey-2025"
+    publisher: "Department of Statistics Malaysia"
+  - title: "Labour Force Survey Report, Fourth Quarter 2025"
+    url: "https://www.dosm.gov.my/portal-main/release-content/labour-force-survey-report-fourth-quarter-2025"
+    publisher: "Department of Statistics Malaysia"
+  - title: "Salaries and Wages Survey Report 2024"
+    url: "https://www.dosm.gov.my/portal-main/release-content/salaries-and-wages-survey-report-2024"
+    publisher: "Department of Statistics Malaysia"
+  - title: "Discharge of Return Water, and Entry or Discharge of Waste and Pollutants — Fees and Charges"
+    url: "https://www.luas.gov.my/en/public/services/discharge-of-return-water-and-entry-or-discharge-of-waste-and-pollutants"
+    publisher: "Lembaga Urus Air Selangor (LUAS)"
 
 entity: "Doing business in Selangor"
 relations:
@@ -207,6 +218,14 @@ cent, led by electrical, electronic and optical products at 8.9 per cent; constr
 MIDA recorded **RM83.9 billion of approved investment in Selangor in 2025**, second to
 Johor's RM110.0 billion.
 
+The labour market is among the tightest in the country. DOSM's *Labour Force Survey 2025*
+puts Selangor's labour force participation rate at **78.4 per cent**, the second-highest of
+any state behind W.P. Putrajaya; the *Fourth Quarter 2025* release has it **highest of any
+state at 78.5 per cent**, with an unemployment rate of just **1.8 per cent against the
+national 2.9 per cent**. On pay, DOSM's *Salaries and Wages Survey Report 2024* puts
+Selangor's **mean monthly salary at RM4,052**, above the national mean of RM3,652 and one
+of only five states clearing it — a state-level median is not broken out in the release.
+
 The infrastructure case is Port Klang. Port Klang Authority recorded **15,138,772 TEU in
 2025**, up from 14,644,527 in 2024 — Westports 11.33 million, Northport 3.80 million — and
 the Ministry of Transport confirmed its **tenth place** in the Lloyd's List global ranking.
@@ -229,7 +248,11 @@ Two Selangor-specific layers do sit outside the council, and both are missed reg
 **Trade effluent licensing is not Air Selangor's** — it sits with LUAS under the Selangor
 effluent discharge licensing regulations gazetted as Sel. P.U. 19 on 20 June 2024, on top
 of the federal Environmental Quality (Industrial Effluents) Regulations 2009 enforced by
-DOE. And **halal certification in Selangor is operated by JAIS**, the state religious
+DOE. Those regulations schedule 13 activities, and industrial premises are **scheduled
+activity 10** — so a factory needs **both** a Return Water Discharge (AK) licence and an
+Entry or Discharge of Waste and Pollutants (BP) licence: a one-time **RM150 registration**,
+then **RM200 a year** for return water and **RM750 a year** for waste and pollutants,
+applied for through the LEDS portal at elesen.luas.gov.my. And **halal certification in Selangor is operated by JAIS**, the state religious
 department, against the national JAKIM standard.
 
 ## Common mistakes

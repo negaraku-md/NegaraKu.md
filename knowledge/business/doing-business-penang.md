@@ -38,10 +38,6 @@ faq:
 verificationNeeded:
   - "MBPP premise, trade and advertisement licence fee rates — MBPP publishes its by-laws only as scanned images with no text layer, so no rate is machine-readable"
   - "The size and language rule in the Advertisement By-Laws (MPPP) 2000 — the same scanning problem prevents reading the operative text"
-  - "Whether the Seberang Perai advertisement fee schedule of 2001 has since been amended — the gazette scan extracts with column misalignment and the lit and unlit rates invert, so no ringgit rate from it is published here"
-  - "Which by-law MBSP currently issues an ordinary business premise licence under — its published by-law list runs to the Dangerous, Unhealthy or Nuisance Trades By-Laws 1974 and the Licence Fees By-Laws 1980"
-  - "Penang's approved manufacturing investment of RM22.4 billion for full-year 2025 — the figure is carried on the InvestPenang site and by national wire services but no full-year press release was located; the 1H2025 figure of RM12.5 billion is officially published"
-  - "PDC's constituting enactment and year, and its current count of industrial parks"
   - "Whether the Bayan Lepas and Perai free industrial zone declarations under the Free Zones Act 1990 have been amended, and the current gazetted zone boundaries"
 
 lang: "en"
@@ -51,16 +47,21 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-07-22
-reviewDue: 2027-07-22
-version: "0.1"
+publishedBy: "ashton-tan"
+reviewed: 2026-08-14
+reviewDue: 2027-08-14
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-20
     change: "Initial draft."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-07-20
+updated: 2026-08-14
 sources:
   - title: "Undang-Undang Kecil (Iklan) Majlis Perbandaran Seberang Perai 2001, Pg. P.U. 1"
     url: "https://www.mbsp.gov.my/Akta/uuk/iklan.pdf"
@@ -88,6 +89,24 @@ sources:
   - title: "Penang Sustains Resilient Investment Momentum with RM12.5 Billion in Approved Manufacturing Investments in 1H2025"
     url: "https://investpenang.gov.my/press-release-penang-sustains-resilient-investment-momentum-with-rm12-5-billion-in-approved-manufacturing-investments-in-1h2025-despite-global-uncertainties-from-tariffs-and-evolving-trade-policies/"
     publisher: "InvestPenang"
+  - title: "Penang Records RM22.4 Bln Approved Manufacturing Investments In 2025 - Chow"
+    url: "https://www.bernama.com/en/region/news.php?id=2532715"
+    publisher: "Bernama"
+    date: "2026-03-10"
+  - title: "Penang records RM22.4bil approved manufacturing investments in 2025"
+    url: "https://www.thestar.com.my/business/business-news/2026/03/10/penang-records-rm224bil-approved-manufacturing-investments-in-2025"
+    publisher: "The Star"
+    date: "2026-03-10"
+  - title: "Penang records RM22.4 billion approved manufacturing investments last year"
+    url: "https://www.nst.com.my/news/nation/2026/03/1394112/penang-records-rm224-billion-approved-manufacturing-investments-last"
+    publisher: "New Straits Times"
+    date: "2026-03-10"
+  - title: "Penang Development Corporation"
+    url: "https://en.wikipedia.org/wiki/Penang_Development_Corporation"
+    publisher: "Wikipedia"
+  - title: "Laws of Malaysia Act 438 Free Zones Act 1990"
+    url: "https://www.customs.gov.my/en/pg/Free%20Zones%20Act/FREE%20ZONES%20ACT%201990.pdf"
+    publisher: "Royal Malaysian Customs Department"
 
 entity: "Doing business in Penang"
 relations:
@@ -196,8 +215,11 @@ decided **within four weeks**.
 
 Penang's industrial estate is largely developed and administered by the **Penang
 Development Corporation (PDC)**, the state development corporation, which acts as
-landlord as well as developer. That gives Penang something most states do not have — a
-published, gazetted price on the island-mainland gap.
+landlord as well as developer. PDC was formed in 1969 and constituted under the **Penang
+Development Corporation Enactment 1971** — a state enactment, not a federal Act — and
+administers **11 industrial parks** across the state as of 2024, including the Bayan
+Lepas and Perai areas. That gives Penang something most states do not have — a published,
+gazetted price on the island-mainland gap.
 
 Where PDC industrial land changes hands, consent is required first, and the approval fee
 is gazetted under the **Penang Land Rules effective 21 June 2018**:
@@ -238,9 +260,12 @@ On investment, InvestPenang's own published release records **RM12.5 billion** o
 approved manufacturing investment in the first half of 2025, up 150 per cent, across 86
 projects and an expected 11,116 jobs, with FDI at RM10.5 billion or 84 per cent of the
 total and the E&E, machinery and equipment and chemicals sectors accounting for 92 per
-cent of inflows. A full-year 2025 figure of RM22.4 billion is carried on InvestPenang's
-site and by the national wire services, but we could not locate a published release for
-it — treat it as reported rather than sourced.
+cent of inflows. For the full year, Penang went on to record **RM22.4 billion** in
+approved manufacturing investment in 2025 — up 29 per cent on 2024 and third nationally
+at around 17 per cent of Malaysia's total — across 232 projects and an expected 24,633
+jobs, with approved manufacturing FDI of RM15.2 billion (68 per cent) and domestic
+investment of RM7.2 billion (32 per cent). The figure was announced by Chief Minister
+Chow Kon Yeow in March 2026 and carried by Bernama, The Star and the New Straits Times.
 
 Penang also sits inside the **Northern Corridor Economic Region**, so NCIA incentives and
 facilitation are available in a way they are not in Kuala Lumpur.

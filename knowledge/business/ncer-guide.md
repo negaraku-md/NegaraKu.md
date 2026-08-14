@@ -44,7 +44,6 @@ verificationNeeded:
   - "Whether NCIA has published a successor to the NCER Strategic Development Plan 2021–2025, which expired at the end of 2025"
   - "The APIRC targets widely reported as 12 SMEs and RM8.5 billion by 2030 appear only in news media and could not be verified on any NCIA or MIDA source"
   - "Whether any tax incentive specific to the National Semiconductor Strategy has been gazetted — none was found"
-  - "The locations of the NSS Semiconductor Industrial Park and Advanced Packaging Centre are not stated in the NSS document"
 
 lang: "en"
 masterLanguage: "en"
@@ -53,16 +52,21 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-07-22
+reviewed: 2026-08-14
 reviewDue: 2027-07-22
-version: "0.1"
+publishedBy: "ashton-tan"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-20
     change: "Initial draft from the Act 687 reprint, NCIA published pages and the MITI National Semiconductor Strategy document."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-07-20
+updated: 2026-08-14
 sources:
   - title: "Northern Corridor Implementation Authority Act 2008 (Act 687), 2018 reprint"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/Act%20687%20(REPRINT%202018).pdf"
@@ -189,8 +193,12 @@ descriptively:
 > Kawan, and Bayan Lepas, as well as its international airports and seaports.
 
 There is **no reference to NCER, NCIA or the Northern Corridor anywhere in the NSS document**, and
-no geographic allocation of its support. Conversely, NCIA's incentive pages do not mention the NSS
-or semiconductors. The NSS is a **national, sector-based strategy**, not a geographic one.
+no geographic allocation of its support. The two facilities the strategy does name give the point
+away: the **Semiconductor Industrial Park** is listed with an implementing line-up and a funding
+window but **no stated location**, and the **Advanced Packaging Centre** is described only as
+building on existing facilities such as those at MIMOS — again with **no dedicated site named**.
+Conversely, NCIA's incentive pages do not mention the NSS or semiconductors. The NSS is a
+**national, sector-based strategy**, not a geographic one.
 
 The strategy's headline figures, from the MITI document itself: the Government has **earmarked over
 RM25 billion over the next decade**; targets of **RM500 billion** in investment by 2030 and
