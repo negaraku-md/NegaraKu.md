@@ -41,8 +41,6 @@ faq:
 verificationNeeded:
   - "P.U.(B) 56/2007, the original determination of the Iskandar Development Region containing the mukim-level delineation, is listed as not available on the AGC portal. Do not publish a mukim list."
   - "Whether the approved developer limbs of P.U.(A) 417/2007 were extended by any amendment gazetted between 2008 and 2010. AGC coverage of that period is sparse, so a negative search is not conclusive."
-  - "Why IRDA publishes 2,300 km² and MIDA 2,217 km², and which predates the December 2025 addition of Kulai"
-  - "The historical five-flagship naming (Johor Bahru City Centre, Nusajaya, Western Gate, Eastern Gate, Senai-Skudai) could not be confirmed on any official source and appears superseded — the JS-SEZ package MIDA administers covers seven flagship zones (A to G), which sit within the nine designated JS-SEZ flagship zones described in the companion JS-SEZ guide"
   - "All widely repeated corporate facts about Medini Iskandar Malaysia Sdn Bhd and its shareholders come from non-official sources and were not verified"
 
 lang: "en"
@@ -52,9 +50,10 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-07-22
+publishedBy: "ashton-tan"
+reviewed: 2026-08-14
 reviewDue: 2027-07-22
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-20
@@ -64,6 +63,10 @@ revisions:
     date: 2026-07-21
     change: "Removed the orphan RM500m threshold from 'What's next' (thresholds are route-specific, per the JS-SEZ guide). Reconciled the 'seven flagships' language with the sibling articles: the MIDA package covers seven flagship zones (A to G) within nine designated JS-SEZ flagship zones."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
 updated: 2026-07-20
 sources:
@@ -96,6 +99,18 @@ sources:
   - title: "About Iskandar Malaysia"
     url: "https://irda.com.my/about-im/"
     publisher: "IRDA"
+  - title: "Economic Corridors — Iskandar Malaysia (2,217 sq. km)"
+    url: "https://www.mida.gov.my/economic-corridors-iskandar-malaysia/"
+    publisher: "MIDA"
+  - title: "Iskandar Malaysia: The Cornerstone of the JS-SEZ (nine flagship zones)"
+    url: "https://www.mida.gov.my/iskandar-malaysia-the-cornerstone-of-the-johor-singapore-special-economic-zone/"
+    publisher: "MIDA"
+  - title: "JS-SEZ — tax incentives and talent imperatives (seven of nine; Flagship Zones A to G)"
+    url: "https://www.mida.gov.my/mida-news/js-sez-tax-incentives-and-talent-imperatives/"
+    publisher: "MIDA"
+  - title: "Everything you need to know about the JS-SEZ (flagship zone names)"
+    url: "https://www.mida.gov.my/mida-news/everything-you-need-to-know-about-the-johor-singapore-special-economic-zone/"
+    publisher: "MIDA"
 
 entity: "Iskandar Malaysia"
 relations:

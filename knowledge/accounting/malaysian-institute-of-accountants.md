@@ -39,16 +39,12 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-08
+reviewed: 2026-08-14
 reviewDue: 2027-08-08
-version: "0.2"
+version: "0.3"
 verificationNeeded:
-  - "Senarai tepat badan profesional yang diiktiraf dalam Bahagian II Jadual Pertama Akta Akauntan 1967 (cth. sama ada ACCA, ICAEW, CPA Australia dan MICPA tersenarai), dan sama ada syarat 'tiga tahun pengalaman praktikal' terpakai khusus kepada laluan peperiksaan Bahagian I sahaja — sahkan terhadap teks Jadual Pertama di AGC / e-Federal Gazette."
-  - "Tempoh sah lesen audit Kementerian Kewangan (dan/atau sijil amalan MIA) — draf ini menyatakan 'lazimnya dua tahun' bagi lesen audit; sahkan terhadap surat kebenaran MoF atau Buku Panduan Amalan Awam MIA."
   - "Sama ada terdapat standard perancangan cukai MIA dengan tarikh berkuat kuasa tertentu pada 2025 (angka '15 Julai 2025' dalam draf asal dibuang kerana tidak dapat disahkan) — sahkan terhadap pekeliling By-Laws MIA."
   - "Bilangan/volum kes tatatertib MIA (angka '74 kes 2023' dalam draf asal dibuang) — sahkan terhadap MIA Annual Report 2023 jika angka diperlukan semula."
-  - "Hubungan pentadbiran tepat antara MIA dan Kementerian Kewangan / Jabatan Akauntan Negara (rujukan 'Jabatan Akauntan Negara' dalam draf asal dibuang kerana tidak dapat disahkan)."
-  - "Semua rujukan seksyen (3, 13, 17, 22, 23, 26) dan penalti (RM10,000/RM20,000) sebaiknya disahkan semula terhadap teks berkanun rasmi di AGC, bukan hanya reproduksi firma guaman."
 revisions:
   - version: "0.1"
     date: 2026-08-08
@@ -58,8 +54,12 @@ revisions:
     date: 2026-08-08
     change: "Correction pass: removed unsourced 2023 disciplinary-case count, unverifiable By-Law/tax-planning date and Accountant General clause; anchored AOB/MASB/By-Law claims to primary sources (SC, MASB, IESBA/MIA); reframed First Schedule membership route; fixed two-year validity conflation."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-08-08
+updated: 2026-08-14
 sources:
   - title: "Malaysian Institute of Accountants — Member Profile"
     url: "https://www.ifac.org/about-ifac/membership/members/malaysian-institute-accountants"
@@ -91,6 +91,18 @@ sources:
   - title: "How to Get an Audit Licence in Malaysia — Step-by-Step Guide"
     url: "https://usafe-ca.com/2025/10/20/how-to-get-an-audit-licence-in-malaysia-step-by-step-guide-for-accountants/"
     publisher: "uSafe Certified Public Accountants"
+  - title: "First Schedule — Accountants Act 1967 (Parts I and II)"
+    url: "https://mia.org.my/regulatory-public-interest/accountants-act-1967/first-schedule/"
+    publisher: "Malaysian Institute of Accountants (MIA)"
+  - title: "Audit Licence"
+    url: "https://mia.org.my/membership/public-practice/audit-licence/"
+    publisher: "Malaysian Institute of Accountants (MIA)"
+  - title: "Approval & Licence Renewal of Auditor / Company Liquidator (FAQ)"
+    url: "https://www.anm.gov.my/en/faqs/approval-licence-renewal-of-auditor-company-liquidator"
+    publisher: "Accountant General's Department of Malaysia (Jabatan Akauntan Negara Malaysia)"
+  - title: "Accountants Act 1967 — official portal entry (Act 94)"
+    url: "https://lom.agc.gov.my/act-detail.php?language=BI&act=94"
+    publisher: "Attorney General's Chambers of Malaysia (AGC)"
 
 entity: "Malaysian Institute of Accountants"
 relations:
@@ -115,7 +127,7 @@ Institut ini menyertai **International Federation of Accountants (IFAC)** pada t
 
 ## Siapa mengawasi MIA sendiri?
 
-MIA beroperasi di bawah bidang kuasa **Kementerian Kewangan**. Ini bermakna regulator profesion itu sendiri tertakluk kepada pengawasan kerajaan.
+MIA beroperasi di bawah bidang kuasa **Kementerian Kewangan** (dalam Akta, "Menteri"). Ini bermakna regulator profesion itu sendiri tertakluk kepada pengawasan kerajaan: kaedah-kaedah Institut memerlukan kelulusan Menteri (Seksyen 7(2)), Pendaftar dilantik dengan kelulusan Menteri (Seksyen 12), dan Menteri melantik beberapa ahli Majlis (Seksyen 8(2)). **Akauntan Negara Malaysia** (ketua Jabatan Akauntan Negara) pula ialah ahli berkanun Majlis MIA di bawah Seksyen 8(1)(a), dan bagi pelesenan juruaudit, kuasa kelulusan di bawah Seksyen 263 Akta Syarikat 2016 diwakilkan oleh Kementerian Kewangan kepada Akauntan Negara, yang pejabatnya mengendalikan temu duga lesen audit.
 
 Bagi audit syarikat besar pula, terdapat satu lapisan lagi. Audit entiti kepentingan awam (PIE) diawasi oleh **Lembaga Pemantauan Audit (Audit Oversight Board, AOB)**, yang ditubuhkan di bawah Bahagian IIIA Akta Suruhanjaya Sekuriti Malaysia 1993 dan mula beroperasi pada 1 April 2010. AOB mendaftar juruaudit PIE, menjalankan pemeriksaan, dan boleh mengenakan sekatan. Standard pelaporan kewangan pula dibangunkan oleh **Lembaga Piawaian Perakaunan Malaysia (MASB)**, badan penetap standard yang ditubuhkan di bawah Akta Pelaporan Kewangan 1997.
 
@@ -143,9 +155,9 @@ Melanggar peruntukan ini bukan sekadar salah tatatertib. Di bawah **Seksyen 26**
 Menjadi ahli MIA memerlukan kelayakan yang diiktiraf dalam Jadual Pertama Akta. Terdapat dua laluan utama:
 
 - **Laluan peperiksaan (Bahagian I Jadual Pertama):** lulus salah satu peperiksaan akhir yang disenaraikan dalam Bahagian I, *serta* memiliki sekurang-kurangnya **tiga tahun** pengalaman perakaunan praktikal yang relevan; atau
-- **Laluan badan diiktiraf (Bahagian II Jadual Pertama):** menjadi ahli salah satu badan profesional yang diiktiraf dalam Bahagian II Jadual Pertama (contohnya CIMA — senarai penuh badan lain seperti ACCA, ICAEW, CPA Australia atau MICPA perlu disahkan terhadap teks Jadual Pertama semasa).
+- **Laluan badan diiktiraf (Bahagian II Jadual Pertama):** menjadi ahli salah satu badan profesional yang diiktiraf dalam Bahagian II Jadual Pertama. Badan yang tersenarai kini termasuk ACCA (Association of Chartered Certified Accountants), ICAEW (Institute of Chartered Accountants in England and Wales), CPA Australia, CIMA (Chartered Institute of Management Accountants), Chartered Accountants Australia and New Zealand, serta MICPA — yang tersenarai di bawah nama berkanunnya Malaysian Association of Certified Public Accountants — di samping badan chartered dari Scotland, Ireland, Kanada dan India. Laluan ini mengaku masuk melalui keahlian dan tidak mengenakan syarat tiga tahun pengalaman berasingan.
 
-Sebagai alternatif, seseorang boleh lulus **Peperiksaan Kelayakan MIA (MIA Qualifying Examination)**.
+Sebagai alternatif, seseorang boleh lulus **Peperiksaan Kelayakan MIA (MIA Qualifying Examination)**, yang — seperti laluan peperiksaan Bahagian I — turut memerlukan sekurang-kurangnya **tiga tahun** pengalaman perakaunan praktikal.
 
 Setelah berdaftar, ahli boleh menggunakan gelaran C.A.(M). Tetapi keahlian sahaja tidak membenarkan seseorang membuka firma untuk menawarkan perkhidmatan kepada orang awam — itu memerlukan langkah tambahan.
 
@@ -160,7 +172,7 @@ Bagi mereka yang mahu menjadi juruaudit, terdapat rantaian kelayakan yang jelas:
 3. Memperoleh sijil amalan MIA (termasuk temu duga dengan Jawatankuasa Sijil Amalan MIA).
 4. Nama dicadangkan kepada Kementerian Kewangan, yang mengeluarkan **lesen audit di bawah Seksyen 263(2) Akta Syarikat 2016**.
 
-Pembaharuan sijil amalan memerlukan pematuhan berterusan, termasuk jam Pembangunan Profesional Berterusan (CPD). Sijil amalan ialah kelayakan prasyarat; lesen audit daripada Kementerian Kewangan pula ialah kebenaran berkanun yang membolehkan seseorang benar-benar mengaudit. Lesen audit tersebut dikeluarkan untuk tempoh terhad (lazimnya dua tahun) dan tertakluk kepada pembaharuan.
+Pembaharuan sijil amalan memerlukan pematuhan berterusan, termasuk jam Pembangunan Profesional Berterusan (CPD). Sijil amalan ialah kelayakan prasyarat; lesen audit daripada Kementerian Kewangan pula ialah kebenaran berkanun yang membolehkan seseorang benar-benar mengaudit. Lesen audit tersebut sah untuk tempoh **dua tahun** dan boleh diperbaharui setiap dua tahun. (Sijil amalan MIA pula diperbaharui setiap tahun bersama keahlian.)
 
 ## Bagaimana MIA memastikan pengamalnya beretika?
 

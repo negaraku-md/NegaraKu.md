@@ -28,7 +28,7 @@ faq:
   - q: "What can block a s.60K approval?"
     a: "Section 60K(4) lets the Director General approve only where the employer has no outstanding matter relating to a decision, order or directive under the Employment Act, and no outstanding matter or case relating to a conviction under the Employment Act, the Employees' Social Security Act 1969, the Employees' Minimum Standards of Housing, Accommodations and Amenities Act 1990 or the National Wages Consultative Council Act 2011 — and has not been convicted of any offence under any written law relating to anti-trafficking in persons and forced labour."
   - q: "What happens if the worker fails the FOMEMA medical?"
-    a: "No pass is issued. Immigration states that the Visit Pass (Temporary Employment) is issued only after the worker is certified fit by a FOMEMA-registered clinic or medical centre, and that where the worker is found unfit the employer must promptly repatriate the worker by applying for a Check Out Memo. The medical must be completed within 30 days of arrival, and repeats for the second and third-year extensions."
+    a: "No pass is issued. Immigration states that the Visit Pass (Temporary Employment) is issued only after the worker is certified fit by a FOMEMA-registered clinic or medical centre, and that where the worker is found unfit the employer must promptly repatriate the worker by applying for a Check Out Memo. The medical must be completed within 30 days of arrival, and FOMEMA requires it annually thereafter, effective 16 December 2023."
   - q: "How long can a foreign worker stay?"
     a: "Immigration states that foreign workers may work in Malaysia each year for up to 10 years, and that workers registered under the 6P programme are limited to 3 years. Applicants must be aged 18 to 45 at the time of application. The pass itself runs 12 months at a time."
   - q: "Must I report when a foreign worker leaves?"
@@ -37,12 +37,8 @@ faq:
     a: "No. Section 60M prohibits terminating a local employee's contract for the purpose of employing a foreign employee, and s.60N requires that where a workforce reduction is necessary the employer must first terminate all foreign employees employed in a capacity similar to that of the local employee."
 
 verificationNeeded:
-  - "Confirm the MYFutureJobs advertising period required before a s.60K application — JTKSM confirms a PERKESO advertising step exists by referring to positions exempted from it, but publishes no number of days, and the statutory duty in s.45F of the Employees' Social Security Act 2017 has not been brought into force"
-  - "Confirm which ministry hosts the One Stop Centre and whether it has been transferred — imi.gov.my names the Ministry of Human Resources, JTKSM names the Ministry of Home Affairs, and a 2026 transfer to KESUMA has been reported but no primary announcement could be retrieved"
+  - "Confirm the MYFutureJobs advertising period (number of days) required before a s.60K application — JTKSM confirms a PERKESO advertising step exists by referring to positions exempted from it, but publishes no number of days, and no authoritative primary figure is obtainable (secondary sources variously cite 7, 14 or 30 days for expatriates versus foreign workers). The statutory vacancy-notification duty sits in s.45F of the Employment Insurance System Act 2017 (Act 800), given legal force by the EIS (Amendment) Bill 2025 (passed by the Dewan Negara on 12 March 2026 and the Dewan Rakyat on 30 June 2026) with a reported enforcement moratorium of up to two years — but the required advertising period itself remains unconfirmed against a primary source"
   - "Confirm the entry-point clearance period — the Immigration foreign worker page states six hours in the Phase 1 text and 24 hours in the Phase 2 text of the same document"
-  - "Confirm the FOMEMA examination frequency — the Immigration page states re-examination for the second and third-year extensions only, while FOMEMA states annual examination from December 2023"
-  - "Confirm the maximum employment period — Immigration publishes 10 years on its foreign worker page but 5 years elsewhere"
-  - "Confirm the validity period of a s.60K approval once granted — JTKSM refers only to the validity period stated on the approval letter and publishes no standing figure"
 
 obligations:
   - what: "Obtain prior approval of the Director General of Labour before employing a foreign employee"
@@ -87,17 +83,21 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-07-22
+reviewed: 2026-08-14
 reviewDue: 2027-07-22
-version: "0.1"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-20
     change: "Initial draft."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 sensitivity: "none"
 
-updated: 2026-07-20
+updated: 2026-08-14
 sources:
   - title: "Employment Act 1955 (Act 265), updated text"
     url: "https://jtksm.mohr.gov.my/sites/default/files/2023-11/Akta%20Kerja%201955%20(Akta%20265)_0.pdf"
@@ -116,6 +116,29 @@ sources:
     url: "https://esd.imi.gov.my/portal/pdf/ESD_Online_Guidebook_V6_2025_(14042025).pdf"
     publisher: "Expatriate Services Division, Immigration Department of Malaysia"
     date: "2025-04-14"
+  - title: "Announcement 241 — Approval for Hiring Foreign Worker (Section 60K validity 12 months, effective 1 October 2024)"
+    url: "https://esd.imi.gov.my/portal/latest-news/announcement/announcement-241-approval_hiring_foreign_worker/"
+    publisher: "Expatriate Services Division, Immigration Department of Malaysia"
+  - title: "Foreign Worker's Medical Examination — FAQ (annual FOMEMA examination, effective 16 December 2023)"
+    url: "https://www.fomema2u.com.my/employer-agency/frequent-asked-questions-and-forms/foreign-workers-medical-examination/"
+    publisher: "FOMEMA Sdn Bhd"
+  - title: "KESUMA to take over foreign worker management as quota applications go fully digital"
+    url: "https://themalaysianreserve.com/2026/07/06/kesuma-to-take-over-foreign-worker-management-as-quota-applications-go-fully-digital/"
+    publisher: "The Malaysian Reserve"
+    date: "2026-07-06"
+  - title: "'No more queues, no more congestion': Ministry abolishes case-by-case approvals for foreign worker quotas"
+    url: "https://www.malaymail.com/news/malaysia/2026/07/06/no-more-queues-no-more-congestion-ministry-abolishes-casebycase-approvals-for-foreign-worker-quotas/226552"
+    publisher: "Malay Mail"
+    date: "2026-07-06"
+  - title: "Current Policies on Recruitment of Foreign Workers"
+    url: "https://www.moha.gov.my/index.php/en/bahagian-pa-dasar-dasar-semasa/current-policies-on-recruitment-of-foreign-workers"
+    publisher: "Ministry of Home Affairs Malaysia (KDN)"
+  - title: "Employment Insurance Bill Retabled With Progressive Penalties"
+    url: "https://bernama.com/en/news.php?id=2574973"
+    publisher: "BERNAMA (Malaysian National News Agency)"
+  - title: "Update on MYFutureJobs requirement for employment of Foreign Knowledge Worker"
+    url: "https://www.mdec.my/expats/announcement/update-on-myfuturejobs-requirement-for-employment-of-foreign-knowledege-worker"
+    publisher: "Malaysia Digital Economy Corporation (MDEC)"
 
 entity: "Foreign worker recruitment (Malaysia)"
 relations:
@@ -149,6 +172,8 @@ That is a compliance screen dressed as an immigration step. An unresolved accomm
 
 Once approved, s.60K(3) gives the employer **fourteen days from the date of employment** to furnish the Director General with the worker's particulars.
 
+The approval itself carries a standing validity of **12 months** for all categories of foreign worker or non-citizen employee managed by JTKSM, effective 1 October 2024 — approvals issued under the Special Employer Change Process (PTM Khas) aside.
+
 ## 2. Which system you file in
 
 There is no single portal, and choosing wrong wastes weeks. JTKSM routes s.60K applications into seven categories:
@@ -173,7 +198,7 @@ One narrow but important note on recruitment agents abroad: JTKSM currently atte
 
 The special-application route makes the sequencing explicit — an employer only becomes visible in ePPAx after passing initial screening at the **One Stop Centre**, and only when JTKSM issues the invitation. Quota is therefore a gate the employer passes through, not a form the employer submits at will, and the sectors open under the case-by-case mechanism are set by the notices published at the OSC rather than by any standing rule.
 
-The two agencies describe the OSC's home differently: Immigration's page places it at the Ministry of Human Resources, JTKSM's at the Ministry of Home Affairs. Check the current notice rather than either page.
+Following a Cabinet decision of 1 July 2026, management of the One Stop Centre passed to the **Ministry of Human Resources (KESUMA)**. From **6 July 2026** all foreign-worker quota applications are handled centrally by KESUMA through the **eQuota module of FWCMS**, replacing the previous case-by-case OSC process; the Ministry of Home Affairs (KDN) retains final authority to issue passes and permits on security grounds.
 
 Eligibility for the worker is fixed at this stage. Aged **18 to 45** at the time of application, certified healthy by a health examination centre in the source country, not on the prohibited list under s.8(3) of the Immigration Act 1959/63, and a national of an approved source country. Indonesia, Thailand, Cambodia, Bangladesh, Myanmar, Laos, Vietnam, Pakistan, Sri Lanka, Turkmenistan, Uzbekistan, Kazakhstan and Nepal are open across sectors; the Philippines allows male workers in all sectors but women only as domestic helpers; India is limited to specified service sub-sectors, agriculture, manufacturing and construction.
 
@@ -189,7 +214,7 @@ The worker arrives and the clock starts immediately. Immigration's own page stat
 
 Then the medical. The employer has **thirty days** from arrival to have the worker examined at a FOMEMA-registered centre. This is not a formality bolted on to the end: **the Visit Pass (Temporary Employment) is only issued once the worker is certified fit**. Where the worker is found unfit, no pass issues, the worker may not stay, and the employer must apply for a Check Out Memo and repatriate them. The pass must be issued at the same Immigration office that issued the VDR approval letter.
 
-Two cautions on FOMEMA. Its public site at `fomema.com.my` currently serves a placeholder page, and the live portal sits on a different domain — so a compliance procedure that links to the old address will send staff nowhere. More substantively, the Immigration page states that re-examination is required for the second and third-year extensions only, while FOMEMA has published an annual examination requirement since December 2023. Where two official positions differ, plan to the stricter one.
+Two cautions on FOMEMA. Its public site at `fomema.com.my` currently serves a placeholder page, and the live portal sits on a different domain — so a compliance procedure that links to the old address will send staff nowhere. More substantively, FOMEMA requires an **annual** medical examination for all foreign workers, effective **16 December 2023**. That is the operative rule and it supersedes the older "second and third-year extension only" wording still carried on the Immigration page — plan for a fresh FOMEMA examination every year.
 
 ## 6. The PLKS and its renewal
 

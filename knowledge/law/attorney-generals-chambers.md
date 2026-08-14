@@ -15,6 +15,7 @@ sensitivity: "none"
 answer: "Peguam Negara Malaysia menjalankan dua tugas serentak di bawah Perkara 145 Perlembagaan Persekutuan. Sebagai penasihat undang-undang (Perkara 145(2)), beliau menasihati Yang di-Pertuan Agong, Jemaah Menteri dan menteri. Sebagai Pendakwa Raya (Perkara 145(3)), beliau memegang budi bicara mutlak untuk memulakan, menjalankan atau memberhentikan apa-apa pendakwaan jenayah. Kerajaan sedang bergerak untuk memisahkan kedua-dua peranan ini."
 keyTakeaways:
   - "Peguam Negara dilantik oleh Yang di-Pertuan Agong atas nasihat Perdana Menteri dan mesti layak menjadi Hakim Mahkamah Persekutuan."
+  - "Di bawah Perkara 145(5), Peguam Negara memegang jawatan selama diperkenankan oleh Yang di-Pertuan Agong dan boleh meletakkan jawatan pada bila-bila masa."
   - "Perkara 145(3) memberi kuasa budi bicara untuk memulakan, menjalankan atau memberhentikan pendakwaan, kecuali di Mahkamah Syariah, mahkamah anak negeri dan mahkamah tentera."
   - "Budi bicara ini dianggap mutlak; mahkamah telah menolak permohonan menyemak semula keputusan Peguam Negara untuk tidak mendakwa."
   - "Kerajaan Madani meluluskan pemisahan peranan Peguam Negara dan Pendakwa Raya pada 2025, dengan pindaan perlembagaan dijangka dibentangkan di Parlimen pada 2026."
@@ -37,9 +38,10 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-08
+publishedBy: "ashton-tan"
+reviewed: 2026-08-14
 reviewDue: 2027-08-08
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-08-07
@@ -49,16 +51,16 @@ revisions:
     date: 2026-08-07
     change: "Correction pass: betulkan tarikh kes Najib ke Jan 2016; buang angka 'dua pertiga', 'ratusan peguam' dan 'sejak merdeka' yang tak bersumber; lembutkan klausa tempoh jawatan; buang pautan silang 'public-prosecutor'; tambah sumber Malay Mail."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
 verificationNeeded:
-  - "Tempoh dan syarat jawatan Peguam Negara ('selama diperkenankan' Yang di-Pertuan Agong, Perkara 145(5)) — perlu disahkan terhadap teks primer Perlembagaan Persekutuan; tiada sumber yang diperoleh menyatakannya."
-  - "Ambang undi untuk meluluskan pindaan Perkara 145/183/42 (sama ada majoriti dua pertiga di bawah Perkara 159) — tidak dinyatakan dalam mana-mana sumber yang diperoleh; angka itu telah dikeluarkan sehingga disahkan."
-  - "Tarikh keputusan tidak mendakwa dalam kes Najib: sumber Free Malaysia Today menyebut '2015', manakala rekod awam (sidang media Apandi Ali) ialah 26 Januari 2016. Draf menggunakan Januari 2016 berdasarkan laporan Malay Mail — sahkan tarikh muktamad."
   - "Bilangan peguam kerajaan di Jabatan Peguam Negara dan tahun penubuhan agensi — dikeluarkan kerana tiada sumber sahih (bukan Wikipedia); tambah semula jika sumber rasmi (cth. agc.gov.my) diperoleh."
-  - "Slug pautan silang 'federal-constitution' — sahkan artikel itu wujud dalam korpus sebelum bergantung pada pautan."
   - "Klasifikasi sensitivity kekal 'none' mengikut arahan tier 2; topik menyentuh pendakwaan berprofil tinggi/politik semasa (kes Najib, pertuduhan semula 2018) — semak semula sama ada 'none' memadai."
 
-updated: 2026-08-07
+updated: 2026-08-14
 sources:
   - title: "Peguam Negara di bawah Perkara 145 Perlembagaan Persekutuan: Kedudukan, Kuasa dan Peranan"
     url: "https://puu.uthm.edu.my/index.php?view=article&id=65&catid=2"
@@ -78,6 +80,12 @@ sources:
   - title: "SRC trial: Ex-AG Apandi stands by 2016 statements absolving Najib"
     url: "https://www.malaymail.com/news/malaysia/2020/03/09/src-trial-ex-ag-apandi-stands-by-2016-statements-absolving-najib/1844749"
     publisher: "Malay Mail"
+  - title: "Full transcript of phone calls leading up to then AG Apandi clearing Najib"
+    url: "https://www.malaysiakini.com/news/506450"
+    publisher: "Malaysiakini"
+  - title: "Federal Constitution (Reprint 2020), Articles 145 and 159"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
+    publisher: "Jabatan Peguam Negara / Laws of Malaysia (lom.agc.gov.my)"
 
 entity: "Jabatan Peguam Negara"
 relations:
@@ -94,7 +102,7 @@ Perkara 145 memberi Peguam Negara dua topi yang dipakai serentak. Yang pertama i
 
 Peguam Negara dilantik oleh Yang di-Pertuan Agong atas nasihat Perdana Menteri. Calon tidak boleh sesiapa sahaja: beliau mesti seseorang yang layak menjadi Hakim Mahkamah Persekutuan — syarat kelayakan tertinggi dalam sistem kehakiman negara.
 
-Berbeza dengan seorang hakim yang menikmati jaminan tempoh jawatan, kedudukan Peguam Negara secara amnya dilihat lebih rapat dengan eksekutif: beliau dilantik atas nasihat Perdana Menteri dan bertanggungjawab terutamanya kepada kerajaan. Peguam Negara mengetuai Jabatan Peguam Negara (dikenali dalam bahasa Inggeris sebagai Attorney General's Chambers), sebuah agensi di bawah Jabatan Perdana Menteri yang menghimpunkan barisan peguam kerajaan yang menjalankan kerja guaman negara.
+Berbeza dengan seorang hakim yang menikmati jaminan tempoh jawatan, kedudukan Peguam Negara lebih rapat dengan eksekutif. Perkara 145(5) Perlembagaan Persekutuan menetapkan bahawa Peguam Negara memegang jawatan selama diperkenankan oleh Yang di-Pertuan Agong dan boleh pada bila-bila masa meletakkan jawatan — bukannya dilindungi oleh jaminan tempoh jawatan seperti hakim. Beliau dilantik atas nasihat Perdana Menteri dan bertanggungjawab terutamanya kepada kerajaan. Peguam Negara mengetuai Jabatan Peguam Negara (dikenali dalam bahasa Inggeris sebagai Attorney General's Chambers), sebuah agensi di bawah Jabatan Perdana Menteri yang menghimpunkan barisan peguam kerajaan yang menjalankan kerja guaman negara.
 
 ## Apa yang dilakukan Peguam Negara sebagai peguam kerajaan?
 
@@ -147,6 +155,6 @@ Satu cadangan penting: Pendakwa Raya yang bebas boleh dilantik oleh Yang di-Pert
 
 ## Apa yang seterusnya
 
-Struktur dua peranan Peguam Negara telah lama menjadi ciri tatanegara Malaysia, tetapi ia mungkin tidak kekal begitu. Perhatikan pembentangan pindaan perlembagaan di Parlimen: kerana ia mengubah Perlembagaan Persekutuan (Perkara 145, 183 dan 42), pindaan itu perlu diluluskan sebagai pindaan perlembagaan sebelum boleh berkuat kuasa.
+Struktur dua peranan Peguam Negara telah lama menjadi ciri tatanegara Malaysia, tetapi ia mungkin tidak kekal begitu. Perhatikan pembentangan pindaan perlembagaan di Parlimen: kerana ia mengubah Perlembagaan Persekutuan (Perkara 145, 183 dan 42), pindaan itu tertakluk kepada Perkara 159(3) dan mesti disokong pada Bacaan Kedua dan Ketiga oleh undi tidak kurang daripada dua pertiga jumlah keseluruhan ahli setiap Dewan sebelum boleh berkuat kuasa.
 
 Jika anda mengikuti sesuatu kes jenayah berprofil tinggi, ingat bahawa keputusan untuk mendakwa — atau menghentikan — masih terletak pada budi bicara Pendakwa Raya buat masa ini. Untuk memahami rangka yang lebih luas, baca seterusnya tentang Perlembagaan Persekutuan Malaysia.

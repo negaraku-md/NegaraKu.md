@@ -5,7 +5,7 @@ seoTitle: "WRT Licence Malaysia: What KPDN Actually Requires"
 slug: "wrt-licence-malaysia"
 category: "business"
 subcategory: ["licensing"]
-summary: "What the KPDN distributive trade approval is, what triggers it, why no official paid-up capital figure exists, and the consequence nobody covers — without it, Immigration will not register your company and no Employment Pass follows."
+summary: "What the KPDN distributive trade approval is, what triggers it, what capital KPDN actually requires, and the consequence nobody covers — without it, Immigration will not register your company and no Employment Pass follows."
 
 tier: "2"
 mode: "practical"
@@ -16,8 +16,8 @@ answer: "The WRT approval is a distributive trade permission from KPDN for forei
 keyTakeaways:
   - "The governing document is KPDN's Garis Panduan Penyertaan Asing dalam Sektor Perdagangan Pengedaran di Malaysia (Pindaan 2022)"
   - "It is administered by KPDN's Sekretariat Perdagangan Pengedaran dan Industri Perkhidmatan (SPIP), set up on 1 January 2020"
-  - "KPDN publishes no minimum paid-up capital figure — the RM500,000 and RM1,000,000 figures are Immigration and MIDA thresholds for hiring expatriates"
-  - "Immigration applies a 51% foreign-equity threshold for requiring the WRT approval letter"
+  - "KPDN's guideline sets format-specific minimum shareholders' funds (including paid-up capital) — most commonly RM1 million per outlet for specialty and other trading stores, the true origin of the RM1 million figure; large-format stores carry much higher floors and foreign-owned direct selling carries RM5 million"
+  - "KPDN's guideline requires approval for all proposals involving foreign participation, and treats a local company as foreign when foreigners hold more than 50% of voting rights — mirrored by Immigration's 51% threshold for demanding the WRT approval letter"
   - "Companies in KPDN's restricted sectors are refused any long-term pass, including an Employment Pass"
   - "KPDN grants restaurant approvals only for exclusive restaurants, with published criteria"
   - "Applications run through BLESS 2.0; renewal must be lodged at least three months before expiry"
@@ -25,9 +25,9 @@ appliesTo: "Foreign-owned or foreign-invested companies trading in Malaysia, and
 
 faq:
   - q: "What exactly triggers the WRT requirement?"
-    a: "KPDN does not publish its own trigger wording in a retrievable document. What is published is Immigration's threshold: the ESD Online Guidebook applies the requirement to foreign-owned companies with foreign equity at 51% and above operating in the wholesale, retail and trade sectors, and requires a valid WRT approval letter from them. Treat 51% as the immigration threshold rather than as proof of KPDN's own licensing trigger, and confirm your position with KPDN directly."
+    a: "The guideline is explicit: its Administrative Conditions state that, with effect from 6 January 2010, all proposals for foreign involvement in distributive trade must obtain the Ministry's approval. Its glossary defines 'foreign participation' as a non-citizen individual (including a permanent resident), a foreign company or institution, or a local company in which such parties hold more than 50% of the voting rights. Immigration mirrors this: the ESD Online Guidebook applies its documentary requirement to foreign-owned companies with foreign equity at 51% and above in the wholesale, retail and trade sectors. So 51% is the definitional line for treating a local company as foreign; the underlying KPDN trigger is any foreign involvement."
   - q: "How much paid-up capital does a WRT licence require?"
-    a: "KPDN publishes no figure. The widely repeated RM500,000 and RM1,000,000 numbers come from a different regime — Immigration's company registration thresholds for hiring expatriates. The ESD Online Guidebook sets RM250,000 for a wholly Malaysian-owned company, RM350,000 for a joint venture, RM500,000 for a wholly foreign-owned company, and RM1,000,000 for a foreign-owned company with 51% or more foreign equity in the WRT sectors or in unregulated services. Those are immigration conditions, not KPDN licensing conditions."
+    a: "KPDN's guideline does set minimum-capital conditions, framed as minimum shareholders' funds (paid-up capital plus reserves) by store format: RM50 million for a hypermarket, RM25 million for a superstore, RM20 million for a departmental store, RM1 million per outlet for a specialty store, RM1 million per outlet for other distributive-trade activities, and case-by-case for a franchise; foreign-owned direct-selling companies carry an RM5 million paid-up-capital floor. The RM1 million figure so often quoted traces to this per-outlet rule. Separately, Immigration's company registration table — RM250,000 for 100% Malaysian, RM350,000 for a joint venture, RM500,000 for 100% foreign, and RM1,000,000 for 51%-or-above foreign equity in the WRT sectors — is the capital needed to register with ESD and hire expatriates. The two regimes overlap at RM1 million but answer different rules."
   - q: "What happens to my Employment Pass applications without a WRT approval?"
     a: "Nothing happens, because you cannot get to the application. ESD registration is the mandatory first step before any expatriate pass, and the ESD Online Guidebook makes a valid WRT approval letter a mandatory document for a foreign-owned company in the WRT sectors. Worse, the Guidebook states that for companies in the sectors where KPDN restricts foreign involvement, applications for any long-term pass exceeding three months, including an Employment Pass, are not allowed."
   - q: "Can a foreign-owned company open a restaurant?"
@@ -36,12 +36,7 @@ faq:
     a: "Through BLESS 2.0. KPDN's checklist names BLESS as the channel, with counter submission only as a fallback when the system is down. The validity period itself is not published, but KPDN does state that a renewal application must be submitted at least three months before the expiry date — so find out your own expiry date early and work backwards from it."
 
 verificationNeeded:
-  - "The full text of the Garis Panduan Penyertaan Asing dalam Sektor Perdagangan Pengedaran di Malaysia (Pindaan 2022) — KPDN lists the guideline but serves its download links without working URLs, and directory listing is blocked"
-  - "KPDN's own foreign-equity trigger wording — only Immigration's 51% threshold is verifiable"
-  - "The complete scope of activities treated as distributive trade, and the exclusions"
   - "The length of a WRT approval's validity period — only the three-month renewal lead time is published"
-  - "The unit of measurement in the restricted-sector entry for supermarkets and mini markets, which is published without one"
-  - "Any minimum paid-up capital condition imposed by KPDN itself — none is published, and the figures in circulation belong to Immigration and MIDA"
 
 lang: "en"
 masterLanguage: "en"
@@ -50,9 +45,10 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-07-22
+publishedBy: "ashton-tan"
+reviewed: 2026-08-14
 reviewDue: 2027-07-22
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-20
@@ -62,8 +58,12 @@ revisions:
     date: 2026-07-21
     change: "Made the answer and keyTakeaway say renewal must be filed 'at least three months' before expiry, consistent with the body and FAQ."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-07-20
+updated: 2026-08-14
 sources:
   - title: "Akta, Peraturan dan Garis Panduan"
     url: "https://www.kpdn.gov.my/ms/orang-awam/akta-peraturan-garis-panduan"
@@ -85,6 +85,13 @@ sources:
     url: "https://www.mida.gov.my/wp-content/uploads/2026/06/Guidelines-EP_1-June-2026_latest.pdf"
     publisher: "MIDA"
     date: "2026-06-01"
+  - title: "Distributive Trade — Malaysia: Investment in the Services Sector (Booklet 8)"
+    url: "https://mida.gov.my/wp-content/uploads/2020/12/20200914160223_BOOKLET-8-DISTRIBUTIVE-TRADE-SERVICES.pdf"
+    publisher: "MIDA"
+    date: "2020-12-14"
+  - title: "Guidelines on Foreign Participation in the Distributive Trade Services Malaysia (full text)"
+    url: "https://s3-ap-northeast-1.amazonaws.com/dsa-library/Resources/2769/ASEAN_Malaysia_Guidelines%20on%20Foreign%20Participation%20in%20the%20Distributive%20Trade%20Services.pdf"
+    publisher: "Ministry of Domestic Trade (MDTCC), reproduced by ASEAN Briefing / Dezan Shira"
 
 entity: "WRT distributive trade approval"
 relations:
@@ -105,10 +112,11 @@ keywords:
 Search for the WRT licence and you will be told, confidently and repeatedly, that it
 requires RM1 million in paid-up capital.
 
-KPDN has never published that figure. It has never published any figure. The number is
-real, but it belongs to a different ministry, a different regime and a different purpose —
-and confusing the two is why foreign founders capitalise the wrong company for the wrong
-reason.
+That number is real — and it appears in KPDN's own guideline, as the minimum shareholders'
+funds for a specialty store or other trading outlet, set per outlet. But the same RM1
+million also sits in a different regime, Immigration's registration table, for a different
+purpose. Most guides quote the figure without saying which rule it answers, which is why
+foreign founders capitalise the wrong company for the wrong reason.
 
 Here is what the distributive trade approval actually is, and the consequence that
 matters far more than the licence itself.
@@ -118,6 +126,15 @@ matters far more than the licence itself.
 It is a permission from the **Ministry of Domestic Trade and Cost of Living (KPDN)** for
 foreign participation in distributive trade — broadly, wholesale, retail and related
 trading activity carried on in Malaysia by a company with foreign equity.
+
+The guideline defines distributive trade as all linkage activities that channel goods and
+services down the supply chain to intermediaries for resale or to final buyers.
+Distributive traders include wholesalers, retailers, franchise practitioners, direct
+sellers, suppliers who channel goods in the domestic market, and commission agents.
+Manufacturing companies and companies granted MIDA regional-establishment status (IPC, RDC,
+OHQ) fall outside the definition, as do products governed by other Acts — petroleum,
+pharmaceutical, medicinal and orthopedic products, toxic substances and explosives, arms
+and ammunition, agricultural raw materials, and live animals.
 
 The governing document is KPDN's **Garis Panduan Penyertaan Asing dalam Sektor
 Perdagangan Pengedaran di Malaysia (Pindaan 2022)**, listed first in the guidelines table
@@ -130,30 +147,51 @@ foreign participation in distributive trade services and regulating the employme
 foreign workers in the services sector. That second function is not incidental. It is the
 whole story.
 
-**Note the guideline itself is not readable online.** KPDN lists it but serves the
-download buttons without working links, and blocks directory listing. Its existence,
-title and 2022 amendment status are verifiable; its text is not. Any page quoting long
-passages from it is quoting something it cannot show you.
+**KPDN's own download links for the guideline are broken** — it lists the document but
+serves the buttons without working URLs, and blocks directory listing. The text itself,
+however, is retrievable elsewhere: MIDA, a federal agency, reproduces the *Guidelines on
+Foreign Participation in the Distributive Trade Services* in full in its 2020 investment
+booklet (Booklet 8), and a complete copy of the guideline circulates publicly. Treat
+MIDA's reproduction as the best-available authoritative text — the specific KPDN-hosted
+"Pindaan 2022" PDF remains unretrievable, and as of 2026 the guideline is under further
+review.
 
 ## What triggers it, and what does it cost?
 
-**On the trigger, KPDN publishes nothing retrievable.** What is published sits with
-Immigration. The ESD Online Guidebook applies the requirement to foreign-owned companies
-with **foreign equity at 51% and above** operating in the wholesale, retail and trade
-sectors, and makes a valid WRT approval letter a mandatory submission for them.
+**On the trigger, the guideline is explicit.** Its Administrative Conditions state that,
+with effect from 6 January 2010, all proposals for foreign involvement in distributive
+trade must obtain the Ministry's approval — so the trigger is any foreign involvement, not
+merely a controlling stake. The guideline's glossary defines *foreign participation* as a
+non-citizen individual (including a permanent resident), a foreign company or institution,
+or a local company in which such parties hold **more than 50% of the voting rights**.
 
-That is Immigration's threshold for demanding the letter. It is strong evidence, but it
-is not the same thing as KPDN's own licensing trigger, and it should not be presented as
-such. The widely repeated claim that *any* foreign equity triggers WRT is unverified.
+Immigration's threshold mirrors this. The ESD Online Guidebook applies its documentary
+requirement to foreign-owned companies with **foreign equity at 51% and above** operating
+in the wholesale, retail and trade sectors, and makes a valid WRT approval letter a
+mandatory submission for them. The 51% figure is the definitional line for treating a
+locally-incorporated company as foreign-participated; the underlying KPDN trigger is
+broader.
 
-**On capital, the correction matters.** No KPDN publication states a minimum paid-up
-capital for distributive trade approval. Borang WRT 1 collects the applicant's paid-up
-capital but sets no floor. The checklists set none. The guidelines index carries no
-figure.
+**On capital, the picture is more layered than the usual "RM1 million" shorthand.** KPDN's
+guideline does set minimum-capital conditions — framed as minimum shareholders' funds
+(paid-up capital plus reserves), and set by store format:
 
-Where the RM500,000 and RM1,000,000 numbers come from is **the Expatriate Services
-Division's company registration table** — the capital a company must hold before it can
-register with ESD and hire expatriates:
+| Store format | Minimum shareholders' funds |
+| --- | --- |
+| Hypermarket | RM50 million |
+| Superstore | RM25 million |
+| Departmental store | RM20 million (reviewed every 3 years) |
+| Specialty store | RM1 million per outlet (reviewed every 3 years) |
+| Other distributive-trade activities | RM1 million per outlet |
+| Franchise | Based on the merit of each case |
+
+Direct selling has its own KPDN paid-up-capital table, under which a foreign-owned company
+must hold RM5 million. So the RM1 million figure everyone quotes is, first and foremost,
+KPDN's own per-outlet requirement for a specialty or other trading store.
+
+A separate RM1 million also appears in **the Expatriate Services Division's company
+registration table** — the capital a company must hold before it can register with ESD and
+hire expatriates:
 
 | Ownership | Paid-up capital |
 | --- | --- |
@@ -162,11 +200,12 @@ register with ESD and hire expatriates:
 | 100% foreign owned | RM500,000 |
 | Foreign equity 51% or above in the WRT sectors, or in unregulated services | RM1,000,000 |
 
-MIDA's Employment Pass guidelines use the same pairing, with RM1 million of foreign
-paid-up capital attached to a Key Post. **These are expatriate-hiring conditions, not
-WRT licensing conditions.** Most guides collapse the two, which produces the right number
-attached to the wrong rule — and leaves a founder believing they have satisfied KPDN when
-what they have satisfied is Immigration.
+MIDA's booklet states the same immigration floors — RM250,000 for a 100% local company and
+RM1 million for a foreign-owned (51%+) one — and its Employment Pass guidelines attach RM1
+million of foreign paid-up capital to a Key Post. **The ESD figures are expatriate-hiring
+conditions; KPDN's figures are licensing conditions.** The two regimes happen to meet at
+RM1 million, which is exactly why guides conflate them — but they answer different rules,
+and a founder who satisfies one has not automatically satisfied the other.
 
 ## The part nobody covers: what happens to your Employment Pass applications
 
@@ -203,7 +242,7 @@ KPDN's guideline names sectors where foreign involvement is restricted. The list
 retrievable from KPDN directly, but Immigration reproduces it verbatim in Annex C of the
 ESD Online Guidebook, under the heading of the KPDN guideline:
 
-- Supermarket and mini market below a stated sales floor area
+- Supermarket and mini market with a sales floor area below 3,000 square metres
 - Provision shop and general vendor
 - Convenience store operating 24 hours
 - News agent and miscellaneous goods store
@@ -215,9 +254,12 @@ ESD Online Guidebook, under the heading of the KPDN guideline:
 - National strategic interest
 - Textile, restaurant (non-exclusive), bistro, jewellery shops
 
-Two honest caveats. The floor-area figure for supermarkets is published **without a unit
-of measurement**, so we will not state one. And this is Immigration reproducing KPDN's
-list — accurate to cite as such, but not a direct KPDN publication.
+One caveat: this is Immigration reproducing KPDN's list — accurate to cite as such, but not
+a direct KPDN publication. Immigration's Annex C drops the unit from the supermarket
+threshold, but KPDN's own guideline states it plainly — a sales floor area below **3,000
+square metres**, where sales floor area is defined to exclude the warehouse, storeroom,
+food court and office. For context, the same guideline sets 5,000 square metres and above
+for a hypermarket and 3,000 to 4,999 for a superstore.
 
 **On restaurants there is a KPDN primary source**, and it is unusually specific. Its WRT
 checklist states that the Ministry grants approval for *exclusive restaurants only*, with
@@ -243,17 +285,22 @@ track — Immigration treats both as gating ESD registration.
 
 ## Common mistakes
 
-- **Capitalising the company to satisfy a KPDN rule that does not exist.** If you are
-  raising paid-up capital to RM1 million, do it because ESD requires it for expatriate
-  hiring, and know that this is why.
+- **Assuming the RM1 million answers only one rule.** It sits in both KPDN's guideline (as
+  per-outlet shareholders' funds for a specialty or other store) and Immigration's
+  registration table (as the expatriate-hiring floor for a 51%+ foreign company). Know
+  which one your capital is meeting, and check the large-format floors — RM50 million,
+  RM25 million, RM20 million — if you are opening a hypermarket, superstore or departmental
+  store.
 - **Treating WRT as optional because you are not opening a shop.** The approval gates
   Immigration, not just trade.
 - **Discovering the restricted-sector bar after signing a lease.** If the business is on
   that list, no Employment Pass follows for anyone, and no amount of capital fixes it.
 - **Leaving the renewal to the last month.** KPDN wants the application three months
   before expiry, and a lapsed approval takes your ESD registration with it.
-- **Quoting the guideline.** It is not publicly readable. Anyone reproducing long passages
-  is reproducing someone else's summary.
+- **Relying on KPDN's own broken download links.** The guideline text is retrievable from
+  MIDA's 2020 reproduction, not from KPDN's non-working buttons — but the specific
+  "Pindaan 2022" file is not online and the guideline is under review, so verify currency
+  before quoting.
 - **Assuming a restaurant approval is available.** Only the exclusive category is
   approved, against published criteria.
 

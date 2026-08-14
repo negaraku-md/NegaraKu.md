@@ -27,7 +27,7 @@ faq:
   - q: "Which statute makes a premise licence compulsory?"
     a: "None of them directly. The Local Government Act 1976 supplies powers, not the obligation. Section 102(i) lets a council define areas where specified trades may not be carried on, s.102(s) lets it control a trade, business or industry of an obnoxious nature or a source of nuisance by registration or licensing, and s.107 governs fees, conditions and duration. The licence requirement itself is created in by-laws made under those heads and confirmed by the State Authority under s.103."
   - q: "How long does a premise licence last?"
-    a: "Section 107(4) of the Local Government Act 1976 caps it at a period not exceeding three years, and within that ceiling each council decides. DBKL states expressly that its licence validity is dynamic and does not necessarily end on 31 December each year. MBPJ says the licence runs from the payment date to the expiry date printed on it, with food premises licences expiring on 31 December. MBSA and DBKK operate annual cycles but do not publish the term precisely."
+    a: "Section 107(4) of the Local Government Act 1976 caps it at a period not exceeding three years, and within that ceiling each council decides. DBKL states expressly that its licence validity is dynamic and does not necessarily end on 31 December each year. MBPJ says the licence runs from the payment date to the expiry date printed on it, with food premises licences expiring on 31 December. MBSA operates an annual cycle but does not publish the term precisely, while DBKK's trade licence is fixed by s.6 of the Trades Licensing Ordinance (Sabah Cap. 144) to run until 31 December each year, with s.7(2) prorating the fee to two-thirds for a licence issued after 30 June and one-third after 30 September."
   - q: "Can the council refuse or cancel without telling me why?"
     a: "Yes. Section 107(2) says every licence granted is revocable by the local authority at any time without assigning any reason. Section 107(3) says the authority may at its discretion refuse to grant or renew any licence without assigning any reason. DBKL's own by-law reinforces the point — by-law 11(1) of P.U.(A) 230/2016 treats a renewal application as a fresh application, so renewal is not a right."
   - q: "What is a composite licence, and do I need one?"
@@ -37,9 +37,7 @@ faq:
 
 verificationNeeded:
   - "MBPJ premise and trade licence fee figures — MBPJ cross-references the Second Schedule to its Food Establishment By-Laws 2007 without reproducing the rates"
-  - "MBSA annual premise licence fee — only processing fees and the beauty and health centre schedules are published"
-  - "MBSA and DBKK licence validity terms, renewal deadlines and late penalties — the relevant council pages are published as images with no extractable text"
-  - "Whether MBSA accepts new composite applications end to end online or requires counter submission"
+  - "MBSA's licence validity term, renewal deadline and late-payment penalty, and DBKK's specific late-renewal penalty — these remain unpublished (DBKK's validity term itself is now fixed by Cap 144 s.6 to 31 December)"
   - "Whether DBKK requires any fire department approval — no such requirement appears in its published lists, which is an absence of evidence rather than evidence of absence"
   - "Whether SSM registration is formally required for Sabah sole proprietors — DBKK does not list it among the required documents"
 
@@ -50,9 +48,10 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-07-22
+publishedBy: "ashton-tan"
+reviewed: 2026-08-14
 reviewDue: 2027-07-22
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-20
@@ -62,8 +61,12 @@ revisions:
     date: 2026-07-21
     change: "Corrected the Sabah statute short title from 'Trade Licensing Ordinance' to 'Trades Licensing Ordinance (Sabah Cap. 144)' (verified against the Sabah AGC text; original Ordinance No. 16 of 1948, in force 1949), matching register-business-sabah, and dropped the '1948' from the short title. Removed the unexplained 'thirteen different ways'."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-07-20
+updated: 2026-08-14
 sources:
   - title: "Local Government Act 1976 (Act 171)"
     url: "https://www.doa.gov.my/doa/resources/info_doa/akta171_kerajaan_tempatan_1976.pdf"
@@ -81,9 +84,15 @@ sources:
   - title: "Senarai Semak (Umum) Bagi Permohonan Lesen Komposit"
     url: "https://www.mbsa.gov.my/ms-my/mbsa/perkhidmatan/pelesenan/Documents/Senarai%20Semak%20(Umum)%20Bagi%20Permohonan%20Lesen%20Komposit.pdf"
     publisher: "MBSA"
+  - title: "Lesen Komposit (Perniagaan / Perindustrian)"
+    url: "https://www.mbsa.gov.my/ms-my/mbsa/perkhidmatan/pelesenan/Halaman/lesen_komposit.aspx"
+    publisher: "MBSA"
   - title: "Lesen Berniaga"
     url: "https://dbkk.sabah.gov.my/lesen-berniaga"
     publisher: "DBKK"
+  - title: "Trades Licensing Ordinance (Sabah Cap. 144), s.6 and s.7"
+    url: "https://sagc.sabah.gov.my/sites/default/files/law/TradesLicensingOrdinance(SabahCap144).pdf"
+    publisher: "State Attorney-General's Chambers, Sabah"
   - title: "Local Government Ordinance 1961 (Sabah)"
     url: "https://sagc.sabah.gov.my/sites/default/files/law/Local%20Government%20Ordinance%201961.pdf"
     publisher: "State Attorney-General's Chambers, Sabah"
@@ -214,7 +223,9 @@ the premise licence and the signboard licence — though its conditions sheet st
 applicants to submit the advertisement licence separately where a signboard is planned.
 
 Applications go through the **EPS** portal, with a stated processing target of **30 working
-days**, and there is a counter fast track marketed as a one-hour licence. The document set
+days**, and there is a counter fast track marketed as a one-hour licence. The process is not
+end to end online, though: MBSA directs applicants to lodge the completed licence application
+form at the Wisma MBSA Service Gateway counter on the ground floor. The document set
 is the most demanding of the four: a stamped and company-chopped form, identification,
 complete SSM documents, the latest assessment bill for the premises, a tenancy or sale and
 purchase agreement **stamped by LHDN**, the certificate of fitness or Borang F, four
@@ -237,7 +248,10 @@ trade licence, a by-law premises licence for the activity, and an advertising li
 
 DBKK is the most transparent of the four on price — **RM25.00 per year plus a RM10.00
 processing charge** for the trade licence, and a published monthly schedule for food
-premises by class. Renewals open in **November** through DBKK e-Services and are available
+premises by class. The trade licence itself runs to **31 December** each year — s.6 of the
+Trades Licensing Ordinance (Sabah Cap. 144) fixes the term, and s.7(2) prorates the fee to
+two-thirds for a licence issued after 30 June and one-third after 30 September. Renewals open
+in **November** through DBKK e-Services and are available
 online only for licences active within the last three years; **new applications are counter
 only**.
 
@@ -253,7 +267,7 @@ Peninsular Malaysia**.
 | Channel | eLesen DBKL | eLesen@MBPJ | EPS | e-Services (renewal only) |
 | Tenancy | Conditional | Required, stamped | Required, LHDN-stamped | Required |
 | Premise fee published | Yes | No | Processing only | Yes |
-| Validity | Dynamic, not calendar-anchored | To expiry printed; food to 31 Dec | Annual, term unpublished | Annual, renewal opens Nov |
+| Validity | Dynamic, not calendar-anchored | To expiry printed; food to 31 Dec | Annual, term unpublished | Annual to 31 Dec (Cap 144 s.6), renewal opens Nov |
 
 ## Common mistakes
 

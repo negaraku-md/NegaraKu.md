@@ -25,7 +25,7 @@ appliesTo: "Founders and operators choosing a Klang Valley address, and advisers
 
 faq:
   - q: "Is a DBKL business licence different from a licence anywhere else in Malaysia?"
-    a: "The statutory frame is the same — the Local Government Act 1976 supplies the powers and each authority writes its own by-laws. What differs is that Kuala Lumpur has no State Authority. Its by-laws are gazetted as federal P.U.(A) instruments and confirmed by the Minister of Federal Territories, which is why you can read the whole KL fee schedule off the federal gazette while most council rates sit in state gazettes or are not published at all."
+    a: "The statutory frame is the same — the Local Government Act 1976 supplies the powers and each authority writes its own by-laws. What differs is that Kuala Lumpur has no State Authority. Its by-laws are gazetted as federal P.U.(A) instruments and confirmed by a federal minister — the 2016 by-laws by the then Minister of Federal Territories, and, since that ministry was dissolved in December 2022, by the Minister in the Prime Minister's Department (Federal Territories) — which is why you can read the whole KL fee schedule off the federal gazette while most council rates sit in state gazettes or are not published at all."
   - q: "How much does a DBKL premise licence cost?"
     a: "The Schedule to P.U.(A) 230/2016 sets it out by activity. Managing offices, banks, private healthcare facilities, bookshops and private education institutions pay a flat annual fee — RM200 for one unit, RM400 for two, RM500 for more than three, RM3,000 for a building or tower up to five floors and RM5,000 above five floors. Most other retail and service trades pay RM3.00 per square metre, stores RM3.00, industries and workshops RM5.00, and beauty and health care centres RM50.00. Anything not listed falls to a catch-all of RM3.00 per square metre."
   - q: "Does Bahasa Malaysia have to be larger than English on a KL signboard?"
@@ -36,9 +36,6 @@ faq:
     a: "Yes. By-law 3(1) of P.U.(A) 230/2016 makes it a precondition — premises may be used for business only once planning permission has been obtained where required and a business premises licence has been issued. In Kuala Lumpur that permission comes from the Federal Territory (Planning) Act 1982, and new Application for Planning Permission Rules for the Federal Territory of Kuala Lumpur were made in 2025."
 
 verificationNeeded:
-  - "Which minister currently exercises the section 103 confirmation power for Kuala Lumpur by-laws — the 2016 instrument was confirmed by the Minister of Federal Territories and the portfolio has since been reorganised"
-  - "The operative content of the Income Tax (Accelerated Capital Allowance) (Tun Razak Exchange Marquee Status Company) (Amendment) Rules 2026, P.U.(A) 211/2026 — the instrument is indexed by AGC but its PDF returns a server error"
-  - "Whether the 2013 approved-developer income tax exemption order for the TRX project remains in force, and its current sunset date"
   - "DBKL signboard and advertisement licence rates — the Advertisements (Federal Territory) By-Laws 1982 are published as a scanned image with no text layer"
   - "Current development charge rates under the Federal Territory (Planning) (Development Charge) Rules 2013 — the rules are listed by DBKL but the rate table was not retrievable"
   - "Kuala Lumpur share of national GDP as a published percentage — DOSM publishes the ringgit value and the ranking but not the KL share directly"
@@ -52,14 +49,18 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-version: "0.1"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-20
     change: "Initial draft."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-07-20
+updated: 2026-08-14
 sources:
   - title: "Licensing of Trades, Businesses and Industries (Federal Territory of Kuala Lumpur) By-Laws 2016, P.U.(A) 230/2016"
     url: "https://www.jwp.gov.my/images/kompendium/2016/UUK%20Pelesenan%20Tred,%20Perniagaan%20dan%20Perindustrian%20WPKL%202016%20(pua_20160830_P.U.%20(A)%20230).pdf"
@@ -82,6 +83,18 @@ sources:
   - title: "eLesen DBKL"
     url: "https://elesen.dbkl.gov.my/"
     publisher: "DBKL"
+  - title: "Hannah Yeoh Is Now Minister In Prime Minister's Dept (Federal Territories)"
+    url: "https://bernama.com/en/general/news.php?id=2503416"
+    publisher: "BERNAMA"
+  - title: "Malaysia: Income tax treaty with Russia enters into force; other tax developments (June 2026)"
+    url: "https://kpmg.com/us/en/taxnewsflash/news/2026/06/malaysia-tax-developments-russia-treaty-incentives.html"
+    publisher: "KPMG"
+  - title: "Monthly Tax Developments (July 2026)"
+    url: "https://assets.kpmg.com/content/dam/kpmgsites/my/pdf/2026/07/monthly-tax-developments-july-2026.pdf.coredownload.inline.pdf"
+    publisher: "KPMG in Malaysia"
+  - title: "Tax incentives for the Tun Razak Exchange (TRX) project"
+    url: "https://www.ey.com/en_my/technical/tax-alerts/tax-incentives-for-the-tun-razak-exchange-project"
+    publisher: "EY Malaysia"
 
 entity: "Doing business in Kuala Lumpur"
 relations:
@@ -119,6 +132,12 @@ Industries (Federal Territory of Kuala Lumpur) By-Laws 2016, P.U.(A) 230/2016** 
 on 29 August 2016 by the **Minister of Federal Territories**. It was then gazetted in the
 Federal Government Gazette on 30 August 2016.
 
+That ministry no longer exists in that form. The **Ministry of Federal Territories was
+dissolved on 22 December 2022** and the Federal Territories function was folded into the
+Prime Minister's Department. The confirmation power for Kuala Lumpur by-laws now sits with
+the **Minister in the Prime Minister's Department (Federal Territories)** — a federal
+minister still, not a State Authority, so the substance of s.103 is unchanged.
+
 Every Peninsular council's licensing by-law is confirmed by a state and published in a
 state gazette. KL's is confirmed by a minister and published federally. That is why it is
 findable — and why the rest of this page can quote numbers most council guides cannot.
@@ -138,7 +157,7 @@ permission has been obtained, where required, and a business premises licence ha
 issued. Two conditions, and the first is the one no later approval can rescue.
 
 The subsidiary rules under Act 267 that touch a tenant or a developer directly include
-the Zoning and Density Rules 1985, the **Development Charge Rules 2013**, and three
+the Zoning and Density Rules 1985, the **Development Charge Rules 2013 (P.U.(A) 246/2013)**, and three
 instruments DBKL lists as made in **2025**: new Application for Planning Permission Rules
 for the Federal Territory of Kuala Lumpur, revocation rules for the Classes of Use of
 Land and Buildings, and fee rules for purchasing the **Kuala Lumpur Local Plan 2040**. An
@@ -228,7 +247,17 @@ published commentary has them expiring on 31 December 2025. They do not.
 **P.U.(A) 224/2026**, gazetted 16 June 2026, amends paragraph 7(a) of the Industrial
 Building Allowance Rules 2013 by substituting *31 December 2025* with
 **31 December 2030**, deemed in force from year of assessment 2014. A companion
-accelerated capital allowance amendment, P.U.(A) 211/2026, was gazetted alongside it.
+accelerated capital allowance amendment, **P.U.(A) 211/2026**, was gazetted alongside it,
+extending the TRX Marquee accelerated capital allowance for renovation costs — a 20 per
+cent initial allowance and 40 per cent annual allowance under the 2013 Rules — on matching
+terms, to 31 December 2030 and effective from year of assessment 2014.
+
+Separately, the TRX approved-developer income tax exemption remains in force. The
+**Income Tax (Exemption) (No. 4) Order 2013, P.U.(A) 28/2013** grants a 70 per cent
+exemption on a TRX approved developer's statutory income from the disposal of a building
+and from the rental of a building, each for up to five consecutive years of assessment.
+As amended by **P.U.(A) 477/2021**, its disposal limb has now closed (up to year of
+assessment 2025) while the rental limb runs through year of assessment 2027.
 
 ## What is not different here
 

@@ -19,6 +19,7 @@ keyTakeaways:
   - "The exemption test is conjunctive: funds not exceeding RM2.5m AND not more than 75 employees"
   - "The gazetted exemption order is not published on the AGC portal — the thresholds rest on MIDA's guidelines"
   - "The ICA 10 confirmation letter is what unlocks duty exemptions, incentives and expatriate posts for an exempt company"
+  - "A manufacturing licence has no published validity period or renewal requirement — the Act provides only for grant, revocation and transfer, so it subsists until revoked"
   - "Paddy milling, oil palm fresh fruit milling and raw natural rubber processing need no licence regardless of size"
   - "Pioneer Status and ITA under the PIA 1986 closed to new manufacturing applications on 28 February 2026 — the New Incentive Framework took over on 1 March 2026"
 appliesTo: "Anyone manufacturing in Malaysia, or planning to, whether or not they expect to need a licence."
@@ -40,7 +41,6 @@ faq:
 verificationNeeded:
   - "The P.U.(A) number, date and gazette text of the exemption order under s.11 of the ICA 1975 — the AGC subsidiary legislation database returns only a licence revocation notification for Act 156, and MITI's own ICA page lists no exemption order"
   - "The form number for a manufacturing licence application — MIDA publishes a guideline and an online portal link but no form number, so the ICA 1 designation in circulation is unconfirmed"
-  - "The validity period and any renewal requirement for a manufacturing licence — not published by MIDA; the Act provides for revocation and transfer but not expiry"
   - "Whether the relaxation of the 80 per cent Malaysian workforce condition was extended beyond 31 December 2024"
   - "Whether the ICA 10 confirmation letter supports bank facility applications — MIDA does not say so"
 
@@ -51,9 +51,10 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-07-22
+publishedBy: "ashton-tan"
+reviewed: 2026-08-14
 reviewDue: 2027-07-22
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-20
@@ -63,6 +64,10 @@ revisions:
     date: 2026-07-21
     change: "Addressed the RM2.5m boundary overlap the article previously left unstated: 'and above' and 'not exceeding' both include RM2.5m, so a company at exactly RM2.5m with <=75 employees reads as both licensable and exemptible; noted s.3(1) is the operative bar, so treat as licensable."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
 updated: 2026-07-20
 sources:
@@ -87,6 +92,9 @@ sources:
   - title: "Malaysia Investment Handbook — Getting Started"
     url: "https://www.mida.gov.my/wp-content/uploads/2020/07/Chapter-1-Getting-Started-1.pdf"
     publisher: "MIDA"
+  - title: "Industrial Co-ordination Act 1975 — official page (subsidiary legislation list)"
+    url: "https://www.miti.gov.my/index.php/pages/view/2810"
+    publisher: "MITI"
 
 entity: "Manufacturing licence under the Industrial Co-ordination Act 1975"
 relations:
@@ -136,6 +144,11 @@ any of the provisions of the Act, and **s.4(3)** sets the approval test: whether
 is consistent with national economic and social objectives and would promote the orderly
 development of manufacturing activities in Malaysia. Statutorily the decision-maker is the
 licensing officer appointed by the Prime Minister under s.3A.
+
+The Act sets **no validity period, renewal or expiry** for a manufacturing licence. It
+provides only for the grant, revocation (s.6) and transfer of a licence, and MIDA's 2024
+guideline is likewise silent on validity or renewal. A manufacturing licence therefore
+subsists until it is revoked — there is no published renewal cycle to diarise.
 
 ## Who actually needs a licence?
 

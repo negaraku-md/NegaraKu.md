@@ -38,11 +38,7 @@ faq:
     a: "It depends entirely on the council, and they genuinely disagree. Selangor issued a 2022 guideline for online business licensing, expressly under s.107(1) of the Local Government Act 1976, and MBPJ publishes a home online business licence with conditions — business conducted wholly online, a cap of 25 per cent of built-up floor area, neighbour and management consent, and a list of prohibited activities. Other councils publish the opposite or nothing at all. Ask yours."
 
 verificationNeeded:
-  - "Whether the definition of online marketplace in P.U.(A) 449/2024 extends to a seller's own website — the wording is broad enough on its face, but KPDN has published no interpretive guideline"
-  - "Whether an online retailer falls within class 9(b) of the Personal Data Protection (Class of Data Users) Order 2013, which refers to retail and wholesale dealing as defined under the Control of Supplies Act 1961 — JPDP has published no interpretation and the point is genuinely open"
   - "Whether an offence created by subsidiary legislation attracts the general penalty in s.145 of the Consumer Protection Act 1999 — regulation 9 creates the offence but prescribes no penalty, so this is an inference"
-  - "The contents of JPDP Circular 1/2026 on data controller registration, which is published as a scanned image with no text layer"
-  - "Sabah and Sarawak equivalents — ROBA 1956 does not apply there, so the registration limb runs through the state instruments instead"
 
 lang: "en"
 masterLanguage: "en"
@@ -51,9 +47,10 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-07-22
+publishedBy: "ashton-tan"
+reviewed: 2026-08-14
 reviewDue: 2027-07-22
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-20
@@ -63,8 +60,12 @@ revisions:
     date: 2026-07-21
     change: "Aligned the P.U.(B) 522/2024 source date to the gazette publication date (24 December 2024, verified against the AGC gazette), matching pdpa-compliance-malaysia. Corrected 'two years out of date' to 'roughly eighteen months' (2012 Regulations revoked 25 December 2024, file updated July 2026)."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-07-20
+updated: 2026-08-14
 sources:
   - title: "Consumer Protection (Electronic Trade Transaction) Regulations 2024, P.U.(A) 449/2024"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputp/2587477/PUA%20449%20(2024).pdf"
@@ -87,6 +88,29 @@ sources:
   - title: "KPDN E-Commerce Regulatory Review"
     url: "https://www.kpdn.gov.my/images/2025/pengumuman/KPDN-E-Com-Review-FINAL-BM.pdf"
     publisher: "KPDN"
+  - title: "Personal Data Protection (Class of Data Users) Order 2013 [P.U.(A) 336/2013], consolidated — class 9(b)"
+    url: "https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2024/07/Perintah-Perlindungan-Data-Peribadi-.pdf"
+    publisher: "Jabatan Perlindungan Data Peribadi"
+  - title: "Pekeliling Pesuruhjaya Perlindungan Data Peribadi Bilangan 1 Tahun 2026 (Pendaftaran Pengawal Data)"
+    url: "https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2026/06/Pekeliling-Pesuruhjaya-Bil.1-2026.pdf"
+    publisher: "Jabatan Perlindungan Data Peribadi"
+    date: "2026-06-01"
+  - title: "JPDP landing page for Circular Bil. 1 Tahun 2026 (Pendaftaran Pengawal Data)"
+    url: "https://www.pdp.gov.my/ppdpv1/akta/pekeliling-pesuruhjaya-perlindungan-data-peribadi-bilangan-1-tahun-2026-pendaftaran-pengawal-data/"
+    publisher: "Jabatan Perlindungan Data Peribadi"
+  - title: "Business Names Ordinance (Laws of Sarawak, Chapter 64)"
+    url: "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_F-BUSINEcp64Lawnet(WH).pdf"
+    publisher: "Sarawak Lawnet (State Attorney-General's Chambers)"
+  - title: "Business, Professions and Trade Licensing Ordinance (Laws of Sarawak, Chapter 33)"
+    url: "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_F-PROFEScp33Lawnet(WH).pdf"
+    publisher: "Sarawak Lawnet (State Attorney-General's Chambers)"
+  - title: "Trades Licensing Ordinance (Sabah Cap. 144)"
+    url: "https://sagc.sabah.gov.my/sites/default/files/law/TradesLicensingOrdinance(SabahCap144).pdf"
+    publisher: "Sabah State Attorney-General's Chambers"
+  - title: "Nanta: Sarawak, Sabah have not adopted Business Registration Act 1956"
+    url: "https://www.theborneopost.com/2022/09/10/nanta-sarawak-sabah-have-not-adopted-business-registration-act-1956/"
+    publisher: "Borneo Post (reporting KPDNHEP Minister)"
+    date: "2022-09-10"
 
 entity: "Online business licensing in Malaysia"
 relations:
@@ -149,8 +173,12 @@ contract made in relation to the business is enforceable by suit, in any name. R
 only on application to the High Court. An unregistered online seller who gets stiffed by a
 supplier starts the dispute unable to sue on the contract.
 
-**ROBA 1956 applies to Peninsular Malaysia only** (s.1(2), extended to Labuan in 1996).
-Sabah and Sarawak sellers register under their own state instruments.
+**ROBA 1956 applies to Peninsular Malaysia only** (s.1(2), extended to Labuan in 1996);
+Sabah and Sarawak never adopted it. Sellers there register under state instruments instead:
+in **Sarawak**, the Business Names Ordinance (Cap. 64) and the Business, Professions and
+Trade Licensing Ordinance (Cap. 33); in **Sabah**, business and trade registration runs
+through the Trades Licensing Ordinance (Sabah Cap. 144), administered by the local
+authorities.
 
 ## What must appear on the listing — the ten items
 
@@ -158,6 +186,13 @@ The current instrument is the **Consumer Protection (Electronic Trade Transactio
 Regulations 2024, P.U.(A) 449/2024**, made under s.150(2)(a) of the Consumer Protection Act
 1999, made 20 December 2024 and in force **25 December 2024**. Regulation 10 revokes the
 2012 regulations outright.
+
+**Regulation 2** defines an *online marketplace* as "any electronic trade platform that is
+conducted through electronic means by any supplier", and an *online marketplace supplier* as
+"any person who conducts a trade or advertisement through an online marketplace". On its face
+that wording is broad enough to reach a seller's own website, not only third-party platforms
+like Shopee or Lazada — but KPDN has published no interpretive guideline settling the point,
+so whether a proprietary e-shop is caught remains genuinely open.
 
 The Schedule to regulation 3 requires the **online marketplace supplier** to disclose:
 
@@ -203,11 +238,22 @@ regulation 3 **before** any transaction is permitted, provide a complaints chann
 ensure advertisements comply. This is why marketplaces chase you for documents: they are
 discharging their own obligation, not certifying yours.
 
-**Penalty.** Regulation 9 creates the offence but prescribes none, so the general penalty in
-**s.145 of the Consumer Protection Act 1999** applies — an individual up to RM50,000 or
-three years, rising to RM100,000 or five years; a body corporate up to RM100,000, rising to
-RM200,000; plus up to RM1,000 for each day a continuing offence persists. **Most guides
-quote RM250,000 and RM500,000. Those are not s.145.**
+**Penalty — and here the law is genuinely unsettled.** Regulation 9 provides that "any
+person who fails to comply with any provision of these Regulations commits an offence", but
+prescribes no penalty of its own. Two routes could fill the gap, and no case law resolves
+which governs. On one reading the general penalty in **s.145 of the Consumer Protection Act
+1999** applies — an individual up to RM50,000 or three years, rising to RM100,000 or five
+years; a body corporate up to RM100,000, rising to RM200,000; plus up to RM1,000 for each
+day a continuing offence persists. But **s.150(3)** sets a *dedicated* regime for offences
+created by subsidiary legislation under the Act — a fine up to RM100,000 or three years,
+rising to RM250,000 or six years for a second or subsequent offence. Because P.U.(A) 449 set
+no penalty of its own under s.150(3), whether the fallback is s.145 (as "an offence under
+this Act for which no penalty is expressly provided") or the unused s.150(3) route is open.
+
+That also explains the figures other guides cite. **RM250,000** is the s.150(3)
+subsequent-offence cap for subsidiary-legislation offences; **RM500,000** is the separate
+s.16(4) PDPA penalty for processing personal data within a prescribed class without a valid
+data-controller registration certificate — not fabrications, but different provisions.
 
 ## The data protection layer that arrived in 2025
 
@@ -235,6 +281,20 @@ Affected individuals must be told without unnecessary delay and no later than **
 after the Commissioner is notified — and that limb is triggered by significant harm only,
 not by the 1,000-subject scale test. Section 12B(3) carries a fine up to **RM250,000** or
 two years.
+
+**Registration as a data controller is a separate question again.** The Personal Data
+Protection (Class of Data Users) Order 2013 (**P.U.(A) 336/2013**) lists the classes that
+must register; class 9(b) covers a company or partnership "who conducts retail dealing and
+wholesale dealing as defined under the Control of Supplies Act 1961". Because those terms are
+tied to that Act — which governs controlled, scheduled supplies — whether an ordinary online
+retailer *not* dealing in controlled goods falls within class 9(b) is genuinely open, and
+JPDP has published no interpretation. JPDP's **Circular 1/2026** (in force 1 June 2026, and
+revoking the 2024 circular) restates the registration and renewal duty: processing personal
+data within a prescribed class without a valid registration certificate is an offence under
+**s.16(4)** with a fine up to **RM500,000** or three years, and continuing to process after a
+certificate lapses is an offence under reg 5(2) of P.U.(A) 337/2013 with a fine up to
+**RM250,000** or two years. This registration duty is distinct from the s.12A DPO threshold
+above.
 
 ## The product still decides the licence
 

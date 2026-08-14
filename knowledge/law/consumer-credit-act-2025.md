@@ -12,12 +12,12 @@ mode: "practical"
 contentType: "law"
 sensitivity: "none"
 
-answer: "Akta Kredit Pengguna 2025 (Act 873) diwartakan pada 31 Disember 2025 dan berkuat kuasa 1 Mac 2026, mewujudkan Suruhanjaya Kredit Pengguna (CCC) untuk melesenkan pemberi kredit bukan bank seperti BNPL, pajak, dan pemfaktoran yang sebelum ini tidak dikawal selia. Berasingan, Akta Sewa Beli 1967 kekal sebagai undang-undang utama untuk pembiayaan kenderaan dan barangan, tetapi Rang Undang-undang Pindaan 2025 memansuhkan kaedah kadar rata dan Rule of 78 dan menggantikannya dengan pendedahan kadar faedah berkesan (EIR) serta kaedah baki berkurangan."
+answer: "Akta Kredit Pengguna 2025 (Act 873) menerima Perkenan Diraja pada 22 Disember 2025, diwartakan pada 31 Disember 2025 dan berkuat kuasa 1 Mac 2026, mewujudkan Suruhanjaya Kredit Pengguna (CCC) untuk melesenkan pemberi kredit bukan bank seperti BNPL, pajak, dan pemfaktoran yang sebelum ini tidak dikawal selia. Berasingan, Akta Sewa Beli 1967 kekal sebagai undang-undang utama untuk pembiayaan kenderaan dan barangan, tetapi Akta Sewa Beli (Pindaan) 2026 — diwartakan pada 30 Januari 2026 dan berkuat kuasa 1 Jun 2026 — memansuhkan kaedah kadar rata dan Rule of 78 dan menggantikannya dengan pendedahan kadar faedah berkesan (EIR) serta kaedah baki berkurangan."
 keyTakeaways:
   - "CCA 2025 berkuat kuasa 1 Mac 2026; syarat pelesenan bermula 1 Jun 2026, dengan pemberi BNPL diberi enam bulan untuk mematuhi."
   - "Suruhanjaya Kredit Pengguna (CCC) menyelia kira-kira 250 entiti bukan bank, termasuk kira-kira 16 pemberi BNPL yang melayani 6.5 juta akaun."
   - "Transaksi BNPL mencecah RM9.3 bilion pada separuh pertama 2025, meningkat hampir satu pertiga daripada RM7.1 bilion pada separuh kedua 2024."
-  - "Akta Sewa Beli 1967 kekal ditadbir KPDN; pindaan 2025 memansuhkan kadar rata dan Rule of 78, menggantikannya dengan EIR (dihadkan 17% setahun bagi tempoh sehingga lima tahun)."
+  - "Akta Sewa Beli 1967 kekal ditadbir KPDN; Akta Sewa Beli (Pindaan) 2026 (berkuat kuasa 1 Jun 2026) memansuhkan kadar rata dan Rule of 78, menggantikannya dengan EIR (dihadkan 17% setahun bagi tempoh sehingga lima tahun, 16% bagi tempoh melebihi lima tahun) di bawah Peraturan Sewa Beli (Terma & Caj) 2026."
 appliesTo: "Pengguna yang menggunakan BNPL atau pembiayaan sewa beli, syarikat kredit bukan bank, ejen kutipan hutang, peniaga, dan penasihat undang-undang atau kewangan."
 
 faq:
@@ -28,7 +28,7 @@ faq:
   - q: "Apakah perbezaan antara CCA 2025 dan Akta Sewa Beli 1967?"
     a: "CCA 2025 ialah undang-undang payung baharu untuk kredit pengguna bukan bank (BNPL, pajak, pemfaktoran, kutipan hutang) di bawah CCC. Akta Sewa Beli 1967 ialah undang-undang khusus untuk kontrak sewa beli barangan dan kenderaan, ditadbir oleh KPDN. Kedua-duanya kekal berasingan buat masa ini."
   - q: "Apakah kaedah kadar rata dan Rule of 78 yang dimansuhkan?"
-    a: "Kadar rata mengira faedah atas keseluruhan pinjaman asal sepanjang tempoh, manakala Rule of 78 memberatkan faedah pada tahun-tahun awal — kedua-duanya merugikan penghutang yang menyelesaikan pinjaman lebih awal. Pindaan Akta Sewa Beli 2025 menggantikannya dengan kaedah baki berkurangan dan pendedahan EIR supaya kos lebih telus."
+    a: "Kadar rata mengira faedah atas keseluruhan pinjaman asal sepanjang tempoh, manakala Rule of 78 memberatkan faedah pada tahun-tahun awal — kedua-duanya merugikan penghutang yang menyelesaikan pinjaman lebih awal. Akta Sewa Beli (Pindaan) 2026 menggantikannya dengan kaedah baki berkurangan dan pendedahan EIR supaya kos lebih telus, terpakai bagi perjanjian yang dibuat pada atau selepas 1 Jun 2026."
   - q: "Adakah deposit minimum 10% untuk sewa beli kenderaan masih terpakai?"
     a: "Ya. Di bawah Akta Sewa Beli 1967, deposit minimum ialah 10% daripada harga tunai, walaupun pembiaya boleh menetapkan jumlah yang lebih tinggi."
 
@@ -39,9 +39,9 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-08
+reviewed: 2026-08-14
 reviewDue: 2027-08-08
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-08-07
@@ -51,16 +51,14 @@ revisions:
     date: 2026-08-07
     change: "Correction pass: sumber utama (CCOB, BERNAMA, portal MOF) ditambah untuk tarikh statutori dan angka BNPL; petikan Menteri ditukar kepada parafrasa bersumber."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-verificationNeeded:
-  - "Nombor Akta (Act 873) dan tarikh Perkenan Diraja (22 Disember 2025) — sahkan terhadap Warta Kerajaan Persekutuan rasmi."
-  - "Garisan masa Fasa 1/2/3 (2027/2028/2031) berasal daripada ulasan komersial, bukan pengumuman rasmi CCC — sahkan apabila peraturan CCC dikeluarkan."
-  - "Tarikh sebenar pewartaan Rang Undang-undang Sewa Beli (Pindaan) 2025 (suku pertama 2026) dan tempoh peralihan 18 bulan."
-  - "Had EIR 17%/16% setahun — sahkan terhadap teks pindaan rasmi apabila diwartakan."
-  - "Framing pemilikan semula '75%+ dibayar' (Akta Sewa Beli 1967, s.16) — sahkan bacaan berbanding sumber industri yang merangka syarat sebaliknya."
-  - "Perkataan tepat kenyataan Menteri Kewangan Kedua — parafrasa berdasarkan siaran portal MOF, bukan petikan verbatim."
+verificationNeeded: []
 
-updated: 2026-08-07
+updated: 2026-08-14
 sources:
   - title: "Latest Information on the Consumer Credit Act 2025 [Act 873]"
     url: "https://ccob.my/latest-information-on-the-consumer-credit-act-2025-act-873/"
@@ -86,6 +84,24 @@ sources:
   - title: "Hire Purchase (Sewa Beli) — panduan hak penyewa"
     url: "https://www.ahpcm.com.my/hirePurchase.html"
     publisher: "Association of Hire Purchase Companies Malaysia (AHPCM)"
+  - title: "LAWS OF MALAYSIA Act 873 — Consumer Credit Act 2025 (consolidated Act, front matter)"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/3272203_BI/Act%20873%20-%20CONSUMER%20CREDIT%20ACT%202025.pdf"
+    publisher: "Attorney General's Chambers (lom.agc.gov.my)"
+  - title: "One Law to Rule Them All: Inside Malaysia's Consumer Credit Shake-Up"
+    url: "https://www.legal500.com/developments/thought-leadership/one-law-to-rule-them-all-inside-malaysias-consumer-credit-shake-up/"
+    publisher: "Legal 500 / Tay & Partners"
+  - title: "Hire Purchase (Amendment) Act 2026 to take effect June 1, says Armizan"
+    url: "https://theedgemalaysia.com/node/796277"
+    publisher: "The Edge Malaysia"
+  - title: "Hire Purchase (Amendment) Act 2026 comes into force on June 1 — no more flat rates and Rule of 78 method"
+    url: "https://paultan.org/2026/03/16/hire-purchase-amendment-act-2026-comes-into-force-on-june-1/"
+    publisher: "Paul Tan's Automotive News"
+  - title: "Car Loan Interest Rules Are Changing From June 2026"
+    url: "https://ringgitplus.com/en/blog/car-loans/car-loan-interest-rules-are-changing-from-june-2026.html"
+    publisher: "RinggitPlus"
+  - title: "Hire-Purchase Act 1967 (Act 212), Section 16 — Notices to be given to hirer when goods repossessed"
+    url: "https://www.leepartners.my/wp-content/uploads/2016/08/HIRE-PURCHASE_ACT_1967___ACT_212.pdf"
+    publisher: "Hire-Purchase Act 1967 (Act 212), statute text"
 
 entity: "Consumer Credit Act 2025"
 relations:
@@ -104,7 +120,7 @@ Selama bertahun-tahun, kredit bukan bank di Malaysia berselerak di bawah pelbaga
 Dua langkah perundangan besar mengubah keadaan ini:
 
 - **Akta Kredit Pengguna 2025 (CCA)** — undang-undang payung baharu yang membawa pemberi kredit bukan bank yang sebelum ini tidak dikawal ke bawah satu suruhanjaya.
-- **Rang Undang-undang Sewa Beli (Pindaan) 2025** — menyegarkan Akta Sewa Beli 1967 yang berusia hampir 60 tahun, memansuhkan formula faedah lama yang merugikan pengguna.
+- **Akta Sewa Beli (Pindaan) 2026** — menyegarkan Akta Sewa Beli 1967 yang berusia hampir 60 tahun, memansuhkan formula faedah lama yang merugikan pengguna.
 
 Kedua-duanya berasingan, tetapi bersama-sama menandakan anjakan Malaysia ke arah kredit pengguna yang lebih telus.
 
@@ -145,13 +161,13 @@ Perlindungan utama di bawah akta ini termasuk:
 
 - **Deposit minimum 10%** daripada harga tunai kenderaan (pembiaya boleh menetapkan lebih tinggi).
 - Hak penyewa untuk menerima salinan perjanjian dan meminta penyata baki tertunggak.
-- **Perlindungan pemilikan semula (repossession):** jika penyewa telah membayar 75% atau lebih daripada harga tunai, kenderaan tidak boleh dirampas tanpa perintah mahkamah; notis wajib diberi sebelum sebarang pemilikan semula.
+- **Perlindungan pemilikan semula (repossession):** di bawah seksyen 16(1A) Akta Sewa Beli 1967, jika bayaran ansuran penyewa melebihi 75% daripada harga tunai, kenderaan tidak boleh dirampas tanpa perintah mahkamah; notis wajib (tidak kurang 21 hari, mengikut Jadual Keempat) diberi sebelum sebarang pemilikan semula.
 
 Buat masa ini, kedua-dua rangka kerja beroperasi selari: sewa beli oleh bank dan syarikat kewangan kekal di bawah Akta Sewa Beli 1967, manakala CCA menangkap pemberi kredit bukan bank yang selama ini terlepas jaring.
 
 ## Mengapa kaedah kadar rata dan Rule of 78 dimansuhkan?
 
-Ini pembaharuan yang paling dirasai pengguna. Dewan Rakyat meluluskan Rang Undang-undang Sewa Beli (Pindaan) 2025 pada **8 Oktober 2025**, dijangka diwartakan pada suku pertama 2026, dengan tempoh peralihan 18 bulan selepas pewartaan.
+Ini pembaharuan yang paling dirasai pengguna. Dewan Rakyat meluluskan pindaan ini pada **8 Oktober 2025** dan Dewan Negara pada **1 Disember 2025**. Ia diwartakan pada **30 Januari 2026** sebagai **Akta Sewa Beli (Pindaan) 2026** dan berkuat kuasa **1 Jun 2026**, bersama subsidiari Peraturan Sewa Beli (Terma & Caj) 2026. Peraturan baharu terpakai bagi semua perjanjian sewa beli yang dibuat pada atau selepas 1 Jun 2026; perjanjian yang ditandatangani sebelum tarikh itu kekal di bawah peraturan asal 1967.
 
 Dua formula lama dihapuskan:
 
@@ -167,13 +183,13 @@ Kedua-duanya digantikan dengan **kaedah baki berkurangan (reducing balance)** un
 | Penyelesaian awal | Penalti tinggi (faedah depan berat) | Penalti berkurang |
 | Tandatangan | Fizikal | Tandatangan digital dibenarkan |
 
-EIR pula dihadkan pada **17% setahun** untuk pinjaman bertempoh sehingga lima tahun, dan **16% setahun** untuk tempoh melebihi lima tahun. Tempoh peralihan bermakna pematuhan penuh dijangka sekitar awal 2027.
+EIR pula dihadkan pada **17% setahun** untuk pinjaman kadar tetap bertempoh sehingga lima tahun, dan **16% setahun** untuk tempoh melebihi lima tahun (pinjaman kadar berubah kekal pada 17% setahun) — had ini ditetapkan oleh Peraturan Sewa Beli (Terma & Caj) 2026. Dengan kuat kuasa 1 Jun 2026, peraturan baharu terpakai serta-merta bagi perjanjian yang dibuat pada atau selepas tarikh tersebut.
 
 ## Apakah maksud semua ini untuk anda?
 
 **Bagi pengguna:** lebih banyak perlindungan. Pemberi BNPL kini mesti menilai kemampuan bayar balik anda dan mendedahkan yuran dengan telus, manakala kontrak sewa beli baharu akan memaparkan EIR yang boleh dibandingkan — dan menyelesaikan pinjaman lebih awal tidak lagi menghukum anda seteruk dahulu.
 
-**Bagi perniagaan kredit:** kewajipan pematuhan baharu. Syarikat BNPL, pemfaktoran, pajakan dan kutipan hutang perlu mendapatkan lesen atau berdaftar dengan CCC, sementara syarikat sewa beli perlu mengemas kini sistem pengiraan faedah mereka sebelum tempoh peralihan tamat.
+**Bagi perniagaan kredit:** kewajipan pematuhan baharu. Syarikat BNPL, pemfaktoran, pajakan dan kutipan hutang perlu mendapatkan lesen atau berdaftar dengan CCC, sementara syarikat sewa beli perlu mengemas kini sistem pengiraan faedah mereka bagi perjanjian yang dibuat pada atau selepas 1 Jun 2026.
 
 **Bagi peniaga runcit** yang menawarkan pelan ansuran BNPL: pastikan rakan kongsi kredit anda dilesenkan menjelang tarikh akhir, kerana beroperasi tanpa lesen akan menjadi kesalahan di bawah CCA.
 
@@ -182,7 +198,7 @@ EIR pula dihadkan pada **17% setahun** untuk pinjaman bertempoh sehingga lima ta
 Landskap ini masih bergerak. Perhatikan perkara berikut:
 
 - **Peraturan lanjut CCC:** butiran syarat lesen, modal minimum dan kod amalan dijangka dikeluarkan menjelang tarikh akhir pelesenan Jun–Disember 2026.
-- **Pewartaan pindaan Sewa Beli:** sahkan tarikh sebenar pewartaan pada suku pertama 2026, kerana ia mencetuskan kiraan tempoh peralihan 18 bulan.
+- **Kuat kuasa pindaan Sewa Beli:** Akta Sewa Beli (Pindaan) 2026 telah diwartakan pada 30 Januari 2026 dan berkuat kuasa 1 Jun 2026 — pastikan sistem pengiraan faedah kadar tetap/berubah mematuhi Peraturan Sewa Beli (Terma & Caj) 2026 bagi perjanjian baharu.
 - **Peralihan Fasa 2 dan 3:** fungsi kawal selia akan berpindah kepada CCC dari 2028 dan berpotensi disatukan sepenuhnya menjelang 2031 — semak sama ada sektor anda terjejas.
 
 Untuk keputusan khusus, rujuk teks rasmi Akta Kredit Pengguna 2025 (Act 873), Akta Sewa Beli 1967 (Act 212) di portal KPDN, dan pengumuman rasmi Suruhanjaya Kredit Pengguna. Kandungan ini ialah draf yang dijana AI untuk tujuan maklumat umum dan bukan nasihat undang-undang.

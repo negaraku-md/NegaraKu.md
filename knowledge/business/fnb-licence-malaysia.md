@@ -41,11 +41,7 @@ faq:
     a: "Not Customs. Under s.31 of the Excise Act 1976 (Act 176) the Minister establishes Licensing Boards, and s.35(1) gives the Board for an area authority in its discretion to issue or transfer licences. Section 35(1) sets four classes — a public house licence and a beer house licence for consumption on the premises, a retail shop licence for consumption off the premises, and a wholesale dealer's licence. Section 35(3) lets the Board refuse, suspend or cancel without assigning any reason and without compensation, which is why outcomes vary so sharply between areas."
 
 verificationNeeded:
-  - "The surviving wording of regulation 31(1) of the Food Hygiene Regulations 2009 after the 2026 amendment deletes the medical examination words, and the exact wording of the anti-typhoid vaccination requirement in regulation 11 — the principal instrument P.U.(A) 95/2009 predates the AGC portal's coverage and could not be retrieved, and Ministry of Health hosts were unreachable"
-  - "The food premises registration procedure, its regulation number, and the A, B and C premises grading scheme and its instrument — do not rely on any grading detail until confirmed"
-  - "The state entertainment enactment applicable in each state outside the Federal Territories, including Selangor and Sarawak — state legislation is not carried on the federal AGC portal"
   - "Any published liquor licensing policy for individual states such as Kelantan or Terengganu — none was confirmed, and variation appears to flow from Licensing Board discretion rather than published policy"
-  - "Whether a later edition of the Malaysian Halal Certification Procedure Manual supersedes the 2020 domestic edition"
 
 lang: "en"
 masterLanguage: "en"
@@ -54,16 +50,20 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-07-22
+reviewed: 2026-08-14
 reviewDue: 2027-07-22
-version: "0.1"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-20
     change: "Initial draft."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-07-20
+updated: 2026-08-14
 sources:
   - title: "Trade Descriptions (Certification and Marking of Halal) Order 2011, P.U.(A) 431/2011"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputp/pua_20111230_P.U.%20(A)%20431-perintah%20perihal%20dagangan%20(perakuan%20dan%20penandaan%20halal)%202011.pdf"
@@ -89,6 +89,24 @@ sources:
   - title: "Senarai Semak Permohonan Baru dan Pembaharuan Menjalankan Perdagangan Pengedaran (WRT)"
     url: "https://www.kpdn.gov.my/images/muat-turun/borang-J/senarai_semak_permohonan_baru_dan_pembaharuan_menjalankan_perdagangan_pengedaran_borang__runcit_wrt-converted.pdf"
     publisher: "KPDN"
+  - title: "Food Hygiene Regulations 2009, P.U.(A) 95/2009 (principal text — Part II registration regs 3-9, regs 11, 30, 31)"
+    url: "https://faolex.fao.org/docs/pdf/mal91581.pdf"
+    publisher: "FAOLEX / Food Act 1983"
+  - title: "Food Premises Grading Programme (legal basis Food Act 1983 s.11; Grade A 80-100%, B 65-79%, C 50-64%, D below 50%)"
+    url: "https://www.mbsp.gov.my/index.php/en/news-2009/141-food-premises-grading-programme"
+    publisher: "Majlis Bandaraya Seberang Perai"
+  - title: "Enakmen Hiburan dan Tempat-Tempat Hiburan Selangor 1995"
+    url: "https://dewan.selangor.gov.my/enasel/enakmen-hiburan-dan-tempat-tempat-hiburan-1995/"
+    publisher: "Dewan Negeri Selangor"
+  - title: "Entertainment Ordinance, 2000 (Cap. 33)"
+    url: "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2033%20LawNet%202024.pdf"
+    publisher: "Sarawak Lawnet (State Attorney-General)"
+  - title: "Manual Prosedur Pensijilan Halal Malaysia (Domestik) 2020 — cited as current guideline"
+    url: "https://www.halal.gov.my/?data=bW9kdWxlcy9jb250ZW50X2RldGFpbHM7Ozs%3D&page_title=Announcement&content_id=202312216583f5b3aa5d9"
+    publisher: "JAKIM (halal.gov.my)"
+  - title: "State Islamic authority reference listing MPPHM (Domestik) 2020 as current"
+    url: "https://kiswa.sarawak.gov.my/kiswa/main/portal/reference?menu_id=3&sub_menu_id=69&ssub_menu_id=71"
+    publisher: "Jabatan Khidmat Islam Sarawak (KISWA)"
 
 entity: "Food and beverage licensing in Malaysia"
 relations:
@@ -136,6 +154,20 @@ Two council-layer traps specific to food:
 The operative instrument is the **Food Hygiene Regulations 2009, P.U.(A) 95/2009**, made
 under **s.34 of the Food Act 1983 (Act 281)**.
 
+**Registration comes first.** Part II (regulations 3 to 9) requires premises listed in the
+First Schedule to be registered: application to the Director under regulation 4, a
+certificate of registration in the Second Schedule form under regulation 5 with an
+**RM30 fee**, validity **not exceeding three years** under regulation 6, and renewal at
+least 30 days before expiry under regulation 7. Operating unregistered is an offence under
+regulation 3(2), fine up to RM10,000 or two years.
+
+Do not confuse registration with the familiar **A, B, C and D hygiene grade** on the door.
+That grading is a *separate administrative scheme* — the Ministry of Health's food-premises
+grading guideline run by local authorities, with Grade D closure taken under **s.11 of the
+Food Act 1983** — not a numbered provision of P.U.(A) 95/2009. Thresholds vary slightly
+between councils; Seberang Perai publishes Grade A at 80-100%, B 65-79%, C 50-64% and D
+below 50%.
+
 Regulation 30 carries the food handler training duty, and regulation 31 the food handler
 health requirements. Those are the two provisions every guide summarises — and the
 summaries are about to go stale.
@@ -150,7 +182,7 @@ regulations, they do four things:
 | --- | --- |
 | Regulation 11(1)(b) and (c) | The words relating to medical examination are **deleted** |
 | Heading of Chapter 1, Part IV, and Fourth Schedule item 7 | The words medical examination are **deleted** |
-| Regulation 31 | Retitled as the **health condition** of food handlers; the words examined as to health are deleted from sub-regulation (1) |
+| Regulation 31 | Shoulder note substituted with **health condition of food handler**; the words *medically examined and* are deleted from sub-regulation (1), leaving *a food handler shall be vaccinated by a registered medical practitioner* |
 | New regulation 30A | Anyone involved in or supervising **mass food catering** must hold a Food Service Supervision Training Certificate from an institution established or recognised by the Ministry of Health |
 
 Regulation 30A carries its own penalty: a fine up to **RM10,000** or imprisonment up to
@@ -160,7 +192,11 @@ premises — with low acid canned food newly defined as food above pH 4.6 and wa
 above 0.85, not alcoholic, commercially sterile and hermetically sealed.
 
 **The direction of travel is worth naming:** the medical examination requirement is being
-removed, and training requirements are being added in its place. Any guide describing a
+removed, and training requirements are being added in its place. Only the medical
+examination is repealed — the **vaccination duty survives**. Note that neither regulation 11
+nor regulation 31 names a specific vaccine; the statutory words are simply *vaccinated by a
+registered medical practitioner*, and the familiar "anti-typhoid" label is Ministry of
+Health administrative practice, not the text of the regulation. Any guide describing a
 compulsory food handler medical examination will be describing repealed law from
 1 December 2026.
 
@@ -196,6 +232,10 @@ corporate **RM100,000 or three years, rising to RM250,000 or five years**.
 
 So a private "halal certification" service is not merely selling a document with no legal
 weight. It is potentially committing an offence, and so is the restaurant that relies on it.
+
+On procedure, JAKIM's operative reference is the **Malaysian Halal Certification Procedure
+Manual (MPPHM Domestic) 2020**, which remains the current domestic edition as of August 2026
+— no 2021-2026 replacement has been issued — read alongside the MS 1500 standard.
 
 The marking order has been amended repeatedly — most recently by P.U.(A) 184/2026, gazetted
 7 May 2026 — so check the current consolidated position before relying on schedule detail.
@@ -236,9 +276,13 @@ Two separate things, often conflated.
 **The outlet licence is state or territory law.** Licensing of theatres, cinemas and places
 of public amusement is a State List matter under item 5(f) of the Ninth Schedule. In the
 Federal Territories the instrument is the **Entertainment (Federal Territory of Kuala
-Lumpur) Act 1992 (Act 493)**, extended to Labuan by P.U.(A) 395/2010. Section 102(p) of the
-Local Government Act 1976 separately lets a council license places of entertainment, public
-recreation or public resort. Do not confuse either with the **Entertainments Duty Act 1953
+Lumpur) Act 1992 (Act 493)**, extended to Labuan by P.U.(A) 395/2010. Each state has its own
+instrument: Selangor operates the **Entertainment and Places of Entertainment (Selangor)
+Enactment 1995** (operating without a licence carries up to RM25,000 or five years under
+s.6), and Sarawak the **Entertainment Ordinance 2000 (Cap. 33)**; Sabah's analogue is the
+Public Entertainment Ordinance 1958. Section 102(p) of the Local Government Act 1976
+separately lets a council license places of entertainment, public recreation or public
+resort. Do not confuse either with the **Entertainments Duty Act 1953
 (Act 103)**, which is a tax rather than a licence.
 
 **Playing music is licensed under copyright law**, separately from anything the council

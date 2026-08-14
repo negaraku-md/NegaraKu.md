@@ -40,11 +40,7 @@ faq:
     a: "Majlis Perbandaran Sepang, the Sepang Municipal Council, which relocated its headquarters into Cyberjaya in 2008. Premise licences, signboard licences and planning approvals are dealt with by MPSepang under the Local Government Act 1976 in the same way as anywhere else in the district. There is no separate Cyberjaya licensing authority."
 
 verificationNeeded:
-  - "Cyberjaya's official land area could not be confirmed from a government source. The widely repeated 7,000 acres figure appears on Wikipedia and property sites but not on cyberview.com.my, mida.gov.my or mpsepang.gov.my."
-  - "No gazetted P.U.(A) Rules under s.65B or Order under s.127(3)(b) for the MD Tax Incentive could be located on lom.agc.gov.my. Do not cite an instrument number for the MD incentive until one is confirmed."
-  - "Confirm whether Cyberjaya holds, or has applied for, recognition as an MD Hub, MD Nexus or MD Tech Zone, and how existing MD Cybercity and Cybercentre designations map onto MD Location Recognition."
-  - "Confirm whether the MD Tax Incentive application window closing 31 December 2027 has been extended."
-  - "The commencement of MSC Malaysia is given as 1996 in MDEC's guidelines and as 1997 in a MIDA news article; Cyberview states it was founded in 1996 as landowner. The launch date of Cyberjaya itself is not stated on any government source located."
+  - "Confirm whether Cyberjaya holds, or has applied for, recognition as an MD Hub, MD Nexus or MD Tech Zone, and how existing MD Cybercity and Cybercentre designations map onto MD Location Recognition. As of 2026-08-14 no MDEC primary source names Cyberjaya under any category, and the only MD Location Recognition granted to date is Menara Merdeka 118, launched as Malaysia's first MD Nexus on 5 February 2026."
 
 lang: "en"
 masterLanguage: "en"
@@ -53,16 +49,21 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-07-22
+reviewed: 2026-08-14
+publishedBy: "ashton-tan"
 reviewDue: 2027-07-22
-version: "0.1"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-20
     change: "Initial draft from MDEC status, transition, Bill of Guarantee and tax incentive guidelines."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-07-20
+updated: 2026-08-14
 sources:
   - title: "Guidelines on Malaysia Digital (MD) Status, issued 30 June 2022"
     url: "https://mdec.my/wp-content/uploads/Malaysia-Digital-MD-Status-Guidelines_Effective-30-June-2022.pdf"
@@ -89,6 +90,24 @@ sources:
   - title: "Cyberview — Our Journey"
     url: "https://www.cyberview.com.my/corporate/our-journey/"
     publisher: "Cyberview Sdn Bhd"
+  - title: "Cyberjaya Smart City Advances with New Masterplan"
+    url: "https://www.mida.gov.my/cyberjaya-smart-city-advances-with-new-masterplan/"
+    publisher: "MIDA (Malaysian Investment Development Authority)"
+  - title: "Malaysia Digital — Tax Incentive"
+    url: "https://www.mdec.my/malaysiadigital/tax-incentive"
+    publisher: "MDEC"
+  - title: "MD Location Recognition"
+    url: "https://www.mdec.my/md-location-recognition"
+    publisher: "MDEC"
+  - title: "Federal Legislation / Subsidiary Legislation Portal (subsidiary-legislation index searched for an MD Tax Incentive P.U.(A) instrument — none located)"
+    url: "https://lom.agc.gov.my/"
+    publisher: "Attorney General's Chambers of Malaysia"
+  - title: "Malaysia — 2026 Budget Measures Affecting Businesses (MD Tax Incentive window unchanged)"
+    url: "https://www.bdo.global/en-gb/insights/tax/world-wide-tax/malaysia-2026-budget-measures-affecting-businesses"
+    publisher: "BDO Global"
+  - title: "Pelancaran MD Nexus PNB @Merdeka 118 (Malaysia's first MD Nexus)"
+    url: "https://www.digital.gov.my/en-GB/siaran/Pelancaran-MD-Nexus-PNB-@Merdeka-118"
+    publisher: "Kementerian Digital (Ministry of Digital) / MDEC"
 
 entity: "Cyberjaya"
 relations:
@@ -184,6 +203,10 @@ The landowner is **Cyberview Sdn Bhd**, founded in **1996** and government-owned
 1996, facilitator in 2005, Cybercity manager in 2011, Tech Hub Enabler in 2015, and Tech Hub
 Developer today. That sequence tells you how often the national digital policy above it has
 been rewritten.
+
+The city itself covers **6,960 acres** (about **28.94 km²**), divided into four zones under
+the Cyberjaya Smart City masterplan, per MIDA — the round *7,000 acres* quoted elsewhere is a
+rough rendering of that figure.
 
 What a tenant actually gets is infrastructure and adjacency, not law:
 
