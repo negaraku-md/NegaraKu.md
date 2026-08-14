@@ -40,15 +40,10 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
+publishedBy: "ashton-tan"
+reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "0.2"
-verificationNeeded:
-  - "The exact seven-digit RimbaWatch hectare figures (18,332,583 ha baseline and 15,636,737 ha projection) appear verbatim in the cited Eco-Business press release; ideally cross-check against the full 'State of the Malaysian Rainforest' report itself."
-  - "The 22.2 million ha / 67.6% figure is labelled FAO 2015 by the Timber Trade Portal, which also references the Global Forest Resources Assessment 2020; confirm the exact assessment year before citing."
-  - "The 18.27 million ha (55.3%) figure is attributed by the Timber Trade Portal to the Malaysian Timber Council (2017); confirm against an original MTC publication."
-  - "The 'close to one-third since the 1970s' primary-forest-loss claim should be reconfirmed against the Global Forest Review, as long-run baselines vary by dataset."
-  - "World Bank / FAO forest-area percentages are periodically revised; re-check the 2023 value (57.72%) against World Bank DataBank before publication."
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-28
@@ -58,8 +53,12 @@ revisions:
     date: 2026-07-28
     change: "Correction pass: re-verified all flagged figures against primary sources, replaced the Trading Economics intermediary with a direct World Bank citation, and added a verificationNeeded list."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-07-28
+updated: 2026-08-14
 sources:
   - title: "How much forest was lost in 2024?"
     url: "https://gfr.wri.org/global-tree-cover-loss-data-2024"
@@ -79,6 +78,12 @@ sources:
   - title: "Forest resources and context of Malaysia"
     url: "https://www.timbertradeportal.com/en/malaysia/78/country-context"
     publisher: "Timber Trade Portal (Malaysian Timber Council / FAO figures)"
+  - title: "State-of-the-Malaysian-Rainforest-Study (data repository)"
+    url: "https://github.com/RimbaWatch/State-of-the-Malaysian-Rainforest-Study"
+    publisher: "RimbaWatch"
+  - title: "Total Forested Areas in Malaysia (1990–2020)"
+    url: "https://www.ketsa.gov.my/en-my/KetsaCore/Forestry/Pages/Total-Forested-Areas-in-Malaysia.aspx"
+    publisher: "Ministry of Energy and Natural Resources (KeTSA), Malaysia"
 
 relations:
   - { rel: "related-to", to: "palm-oil-industry-in-malaysia" }

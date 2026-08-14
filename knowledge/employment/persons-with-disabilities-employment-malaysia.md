@@ -37,9 +37,9 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-08
+reviewed: 2026-08-14
 reviewDue: 2027-08-08
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-08-08
@@ -49,15 +49,14 @@ revisions:
     date: 2026-08-08
     change: "Correction pass: reverified commencement date, 0.35%/quota and tax provisions against AGC, Aliran and LHDN PR 3/2019; removed blog/law-firm/NGO sources; softened uncited 1988 origin and anecdote."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-verificationNeeded:
-  - "Tahun asal dasar kuota 1% OKU dalam perkhidmatan awam (lazim disebut 1988 / Pekeliling Perkhidmatan Bil. 10/1988) — tidak dapat disahkan terhadap pekeliling primer dalam pusingan ini; ayat dalam badan artikel telah dilembutkan tanpa menyatakan tahun tepat."
-  - "Rujukan statut tepat bagi pengecualian manfaat berupa barang daripada potongan berganda (Seksyen 13(1)(b) dan (c) ACP 1967) — dinyatakan dalam LHDN Public Ruling 3/2019 tetapi PDF LHDN tidak dapat dicapai secara langsung (server menolak sambungan) semasa pengesahan ini."
-  - "Nombor subseksyen tepat 'Seksyen 29(6)' bagi takrifan 'majikan termasuk Kerajaan' — disahkan melalui sumber akademik sekunder dan warta AGC, belum dibaca terus daripada teks Akta yang boleh dibaca mesin."
-  - "Sahkan penomboran dan susunan kata semasa Seksyen 29 terhadap teks cetak semula rasmi AGC (Akta 685)."
-  - "Sahkan kandungan penuh LHDN Public Ruling No. 3/2019 (khususnya senarai saraan tunai yang layak dan pengecualian) apabila PDF LHDN boleh dicapai."
+verificationNeeded: []
 
-updated: 2026-08-08
+updated: 2026-08-14
 sources:
   - title: "Persons with Disabilities Act 2008 (Act 685) — official record and commencement date [P.U.(B) 268/2008]"
     url: "https://lom.agc.gov.my/act-detail.php?type=principal&lang=BI&act=685"
@@ -74,6 +73,21 @@ sources:
   - title: "Persons with Disabilities Act 2008 (tax deductions for employing OKU)"
     url: "https://ccs-co.com/post/persons-with-disabilities-act-2008/"
     publisher: "CCS & Co (Chartered Accountants)"
+  - title: "Laws of Malaysia Reprint — Persons with Disabilities Act 2008 (Act 685): s.29 full text, s.29(6) 'employer includes the Government', s.25 Kad OKU"
+    url: "https://tcclaw.com.my/wp-content/uploads/2025/08/Persons-with-Disabilities-Act-2008.pdf"
+    publisher: "Attorney General's Chambers of Malaysia (Laws of Malaysia Reprint text)"
+  - title: "Pekeliling Perkhidmatan Bilangan 10 Tahun 1988 — 'Prosedur bagi Memperuntukkan Satu Peratus Peluang Pekerjaan di Sektor Awam kepada Orang-Orang Cacat'"
+    url: "https://docs.jpa.gov.my/docs/pp/1988/pp101988.pdf"
+    publisher: "Jabatan Perkhidmatan Awam Malaysia (JPA)"
+  - title: "Pekeliling Perkhidmatan Bilangan 16 Tahun 2010 — 'Pencapaian Dasar Satu Peratus Peluang Pekerjaan Dalam Perkhidmatan Awam Kepada Orang Kurang Upaya' (names PP 3/2008 as operative predecessor)"
+    url: "https://docs.jpa.gov.my/docs/pp/2010/pp162010.pdf"
+    publisher: "Jabatan Perkhidmatan Awam Malaysia (JPA)"
+  - title: "e-CTIM TECH-DT 80/2019 — Public Ruling No. 3/2019 summary (P.U.(A) 73/1982; amendment P.U.(A) 204/2019 eff. 24 July 2019; cash remuneration only; BIK 13(1)(b) and living accommodation 13(1)(c) excluded)"
+    url: "https://www.ctim.org.my/file/2019/TECH-DT/e-CTIM%20TECH-DT%2080-2019%20-%20Public%20Ruling%20No_%203-2019%20-%20Business%20Expenses%20In%20Respect%20Of%20Disabled%20Persons%20(Summary)%20(03102019)(F).pdf"
+    publisher: "Chartered Tax Institute of Malaysia (CTIM)"
+  - title: "Doubling Your Tax Benefits with Double Deductions in Malaysia (qualifying cash remuneration under PR 3/2019; BIK 13(1)(b) and living accommodation 13(1)(c) excluded)"
+    url: "https://www.at-mia.my/2023/07/28/doubling-your-tax-benefits-with-double-deductions-in-malaysia/"
+    publisher: "Malaysian Institute of Accountants (MIA), Accountants Today"
 
 entity: "Persons with Disabilities Act 2008 (Act 685)"
 relations:
@@ -105,7 +119,7 @@ Namun perlu jujur tentang penguatkuasaan. Seksyen 29 dirangka sebagai hak dan ga
 
 Ini soalan yang paling kerap disalah faham. Terdapat **dua perkara berbeza**: dasar perkhidmatan awam dan galakan sektor swasta.
 
-Untuk **sektor awam**, kerajaan menetapkan sasaran 1% jawatan untuk OKU dan memperkukuhnya melalui **Pekeliling Perkhidmatan Bilangan 16 Tahun 2010** (Dasar Satu Peratus Peluang Pekerjaan Dalam Perkhidmatan Awam Kepada OKU). Ini adalah dasar pentadbiran yang mengikat agensi kerajaan, bukan undang-undang berkanun yang mengenakan penalti.
+Untuk **sektor awam**, dasar kuota 1% ini berasal daripada **Pekeliling Perkhidmatan Bilangan 10 Tahun 1988** ("Prosedur bagi Memperuntukkan Satu Peratus Peluang Pekerjaan di Sektor Awam kepada Orang-Orang Cacat"), diperbaharui sebagai dasar operatif melalui Pekeliling Perkhidmatan Bilangan 3 Tahun 2008, dan kemudian diperkukuh melalui **Pekeliling Perkhidmatan Bilangan 16 Tahun 2010** (Pencapaian Dasar Satu Peratus Peluang Pekerjaan Dalam Perkhidmatan Awam Kepada OKU). Ini adalah dasar pentadbiran yang mengikat agensi kerajaan, bukan undang-undang berkanun yang mengenakan penalti.
 
 Untuk **sektor swasta**, tiada kuota berkanun. Seksyen 29(4) hanya mengarahkan Majlis merangka "polisi dan langkah yang sesuai" — galakan, bukan paksaan.
 
@@ -125,7 +139,7 @@ Jadual di bawah meringkaskan insentif utama:
 | Potongan berganda latihan | Kaedah Cukai Pendapatan (Potongan Bagi Latihan Diluluskan) 1992 | Kos latihan untuk OKU bukan pekerja dalam program diluluskan |
 | Potongan ubah suai premis | Perenggan 34(6)(e) Akta Cukai Pendapatan 1967 | Perbelanjaan untuk kelengkapan dan ubah suai tempat kerja bagi OKU |
 
-Dua syarat penting perlu diingat. Pertama, potongan berganda gaji hanya meliputi **saraan tunai**; manfaat berupa barang (benefits-in-kind) tidak layak (rujuk LHDN Public Ruling 3/2019). Kedua, semua insentif ini bergantung pada pekerja **berdaftar sebagai OKU** — tanpa Kad OKU, tuntutan tidak sah. Majikan juga digalakkan merujuk ejen cukai untuk pengiraan tepat, kerana kelayakan bergantung pada rekod dan pengesahan yang memuaskan Ketua Pengarah Hasil Dalam Negeri.
+Dua syarat penting perlu diingat. Pertama, potongan berganda gaji hanya meliputi **saraan tunai**; manfaat berupa barang (benefits-in-kind) di bawah perenggan 13(1)(b) dan nilai tempat tinggal di bawah perenggan 13(1)(c) Akta Cukai Pendapatan 1967 tidak layak (LHDN Public Ruling No. 3/2019, bertarikh 8 Ogos 2019). Kedua, semua insentif ini bergantung pada pekerja **berdaftar sebagai OKU** — tanpa Kad OKU, tuntutan tidak sah. Majikan juga digalakkan merujuk ejen cukai untuk pengiraan tepat, kerana kelayakan bergantung pada rekod dan pengesahan yang memuaskan Ketua Pengarah Hasil Dalam Negeri.
 
 Selain insentif cukai, PERKESO (SOCSO) turut menjalankan program penempatan pekerjaan dan galakan pengambilan OKU melalui kerjasama dengan majikan dan agensi kerajaan.
 

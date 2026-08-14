@@ -40,9 +40,9 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-08
+reviewed: 2026-08-14
 reviewDue: 2027-08-08
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-08-08
@@ -52,15 +52,14 @@ revisions:
     date: 2026-08-08
     change: "Correction pass: reconciled conflicting Dewan Negara date, anchored on gazette date, added inline citations dan sumber primer JHEKS/e-TUIS."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-verificationNeeded:
-  - "Tarikh sebenar kelulusan Dewan Negara — sumber bercanggah: 28 November 2023 (Donovan & Ho) lawan 13 Disember 2023 (Rahmat Lim & Partners). Sahkan dengan Penyata Rasmi (Hansard) Parlimen."
-  - "Tarikh perkenan diraja (dilaporkan 27 Disember 2023 dalam ringkasan carian) belum disahkan terhadap teks warta rasmi; sengaja tidak dinyatakan sebagai fakta keras dalam badan artikel."
-  - "Nombor seksyen tepat (63A–63E dan 71A dalam Akta 262; 12A dan 12B dalam Akta Perhubungan Perusahaan 1967) — semak silang dengan teks berkuat kuasa Akta A1700 dan Akta 177."
-  - "Pelantikan Ketua Pengarah oleh Yang di-Pertuan Agong dan nama penuh rasmi e-TUIS — sahkan terhadap Akta Kesatuan Sekerja 1959 (s.3) dan laman rasmi JHEKS yang aktif."
-  - "Umur minimum keahlian 15 tahun — sahkan sebarang pengecualian yang diperuntukkan dalam peraturan sesebuah kesatuan."
+verificationNeeded: []
 
-updated: 2026-08-08
+updated: 2026-08-14
 sources:
   - title: "Key Amendments – Trade Unions (Amendment) Bill 2023"
     url: "https://dnh.com.my/key-amendments-trade-unions-amendment-bill-2023/"
@@ -80,6 +79,15 @@ sources:
   - title: "Trade Unions (Amendment) Act 2024 (Act A1700)"
     url: "https://www.zulrafique.com.my/ckfinder/userfiles/files/legislation%20update/ActA1700-TradeUnion_Amendment_Act2024.pdf"
     publisher: "Zul Rafique & Partners"
+  - title: "Dewan Negara lulus RUU kesatuan kerja, SPAN"
+    url: "https://www.sinarharian.com.my/article/637005/berita/nasional/dewan-negara-lulus-ruu-kesatuan-kerja-span"
+    publisher: "Sinar Harian"
+  - title: "Dewan Negara passes two Bills"
+    url: "https://www.nst.com.my/news/nation/2023/11/984157/dewan-negara-passes-two-bills"
+    publisher: "New Straits Times"
+  - title: "Trade Unions Act 1959 (Act 262), s.3 Appointment of Director General"
+    url: "https://asean.org/wp-content/uploads/2016/06/MA3_Trade-Unions-Act-1959-Act-262-n-Regulations.pdf"
+    publisher: "LAWS OF MALAYSIA Act 262 (ASEAN repository copy)"
   - title: "Mengenai JHEKS / About Us"
     url: "https://jheks.mohr.gov.my/index.php/en/about-us/"
     publisher: "Jabatan Hal Ehwal Kesatuan Sekerja (JHEKS)"
@@ -101,7 +109,7 @@ Selama berdekad-dekad, seorang pekerja kilang di Malaysia hanya boleh menyertai 
 
 Undang-undang tunjang ialah **Akta Kesatuan Sekerja 1959 (Akta 262)**. Ia menetapkan siapa yang boleh menubuh kesatuan, cara ia didaftarkan, hak dan tanggungjawabnya, serta kuasa pihak berkuasa untuk mengawal selia gerakan kesatuan.
 
-Pentadbir Akta ini ialah **Ketua Pengarah Kesatuan Sekerja (KPKS)**, yang menurut JHEKS dilantik oleh Yang di-Pertuan Agong dan mempunyai pengawasan, arahan serta kawalan umum ke atas semua hal berkaitan kesatuan sekerja di seluruh Malaysia (sumber: JHEKS, "Mengenai JHEKS"). Beliau mengetuai **Jabatan Hal Ehwal Kesatuan Sekerja (JHEKS)** di bawah Kementerian Sumber Manusia.
+Pentadbir Akta ini ialah **Ketua Pengarah Kesatuan Sekerja (KPKS)**, yang dilantik oleh Yang di-Pertuan Agong di bawah **seksyen 3(1) Akta Kesatuan Sekerja 1959** dan mempunyai pengawasan, arahan serta kawalan umum ke atas semua hal berkaitan kesatuan sekerja di seluruh Malaysia (sumber: Akta 262, s.3; JHEKS, "Mengenai JHEKS"). Beliau mengetuai **Jabatan Hal Ehwal Kesatuan Sekerja (JHEKS)** di bawah Kementerian Sumber Manusia.
 
 Perlu dibezakan dua rangka undang-undang yang berkait rapat:
 
@@ -117,8 +125,8 @@ Sebuah kesatuan boleh didaftarkan di bawah Akta 262, tetapi hak untuk berunding 
 Kronologi perundangannya:
 
 - Diluluskan **Dewan Rakyat pada 10 Oktober 2023** (sumber: Donovan & Ho).
-- Diluluskan **Dewan Negara pada penghujung 2023** — di sini sumber yang disemak bercanggah: Donovan & Ho menyatakan **28 November 2023**, manakala Rahmat Lim & Partners menyatakan **13 Disember 2023**. Tarikh muktamad perlu disahkan terhadap Penyata Rasmi Parlimen.
-- **Diwartakan pada 12 Januari 2024** (sumber: DLA Piper).
+- Diluluskan **Dewan Negara pada 28 November 2023** (sumber: Sinar Harian; New Straits Times).
+- **Diperkenankan diraja pada 27 Disember 2023** dan **diwartakan pada 12 Januari 2024** (sumber: teks warta rasmi Akta A1700).
 
 Perubahan paling asas ialah takrif "kesatuan sekerja" dan "kesatuan" dipinda untuk *menghapuskan sekatan* yang mengehadkan sesebuah kesatuan kepada satu establismen, perdagangan, pekerjaan atau industri tertentu, atau kepada perdagangan/pekerjaan/industri yang serupa. Kesan langsungnya: **kepelbagaian kesatuan (multiplicity of unions)** — lebih daripada satu kesatuan kini boleh wujud dalam tempat kerja yang sama (sumber: DLA Piper; Zul Rafique & Partners).
 
@@ -137,7 +145,7 @@ Jadual berikut merumuskan perubahan utama:
 Kesatuan mesti didaftarkan untuk menikmati hak dan keistimewaan sebagai badan yang sah di sisi undang-undang. Proses asasnya:
 
 1. **Tubuhkan kesatuan** — sekumpulan pekerja (atau majikan, kerana Akta juga membenarkan kesatuan majikan) bersetuju menubuh kesatuan dan menggubal perlembagaan serta peraturannya.
-2. **Mohon pendaftaran kepada JHEKS** — permohonan dikemukakan melalui sistem dalam talian **e-TUIS (Electronic Trade Union Information System / Sistem Maklumat Kesatuan Sekerja Elektronik)** (sumber: JHEKS/e-TUIS). Selepas pindaan 2024, permohonan mesti dibuat dalam tempoh **enam bulan** dari tarikh penubuhan (dahulu satu bulan) (sumber: Zul Rafique & Partners).
+2. **Mohon pendaftaran kepada JHEKS** — permohonan dikemukakan melalui sistem dalam talian **e-TUIS**, yang nama rasminya ialah **Electronic Trade Union Information System** (terjemahan Melayu "Sistem Maklumat Kesatuan Sekerja Elektronik" bersifat deskriptif sahaja) (sumber: JHEKS/e-TUIS). Selepas pindaan 2024, permohonan mesti dibuat dalam tempoh **enam bulan** dari tarikh penubuhan (dahulu satu bulan) (sumber: Zul Rafique & Partners).
 3. **Semakan oleh Ketua Pengarah** — KPKS menyemak perlembagaan, nama dan pematuhan kepada Akta.
 4. **Pendaftaran atau penolakan** — jika lulus, sijil pendaftaran dikeluarkan; jika ditolak, alasan mesti berada dalam skop terhad yang dibenarkan undang-undang.
 
@@ -151,7 +159,7 @@ Yang penting, KPKS **tidak lagi boleh** menolak pendaftaran semata-mata kerana s
 
 ## Apakah kuasa baharu Ketua Pengarah?
 
-Pindaan 2024 memperkenalkan satu set peruntukan penguatkuasaan baharu (dilaporkan sebagai seksyen 63A hingga 63E) yang memberi KPKS kuasa untuk (sumber: Donovan & Ho):
+Pindaan 2024 memperkenalkan satu set peruntukan penguatkuasaan baharu (**seksyen 63A hingga 63E**, dimasukkan oleh s.26 Akta A1700) yang memberi KPKS kuasa untuk (sumber: Akta A1700, s.26; Donovan & Ho):
 
 - menjalankan **siasatan** terhadap pelanggaran Akta;
 - melantik pegawai penguatkuasa;

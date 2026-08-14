@@ -16,7 +16,7 @@ answer: "MUET (Malaysian University English Test) ialah ujian kemahiran bahasa I
 keyTakeaways:
   - "MUET dikendalikan oleh Majlis Peperiksaan Malaysia (MPM), badan berkanun di bawah Kementerian Pendidikan yang turut menguruskan STPM."
   - "Ia wajib untuk kemasukan program ijazah sarjana muda di universiti awam, bukan untuk peringkat diploma, STPM atau asasi."
-  - "Calon dinilai dalam empat kertas — Mendengar, Bertutur, Membaca, Menulis — dengan skor maksimum agregat 360 dan sembilan band dari Band 1.0 hingga Band 5+."
+  - "Calon dinilai dalam empat kertas — Mendengar, Bertutur, Membaca, Menulis — setiap satu berwajaran sama (25%), dengan skor maksimum agregat 360 dan sembilan band dari Band 1.0 hingga Band 5+."
   - "Keputusan MUET sah selama lima tahun dari tarikh keputusan dikeluarkan."
   - "Band minimum berbeza mengikut program dan universiti; keperluan ditetapkan oleh Senat universiti masing-masing."
 appliesTo: "Pelajar pra-universiti (STPM, matrikulasi, asasi, diploma) dan pemohon ijazah sarjana muda di universiti awam dan swasta Malaysia."
@@ -29,7 +29,7 @@ faq:
   - q: "Berapa lama keputusan MUET sah?"
     a: "Keputusan MUET sah selama lima tahun dari tarikh keputusan dikeluarkan. Jika tamat tempoh sebelum anda memohon ijazah, anda perlu menduduki semula."
   - q: "Berapa kali MUET dijalankan setahun?"
-    a: "MUET biasa dijalankan tiga kali setahun. MPM juga menawarkan MUET on Demand (MoD) berasaskan komputer dengan tarikh yang lebih fleksibel setiap bulan, pada yuran yang lebih tinggi."
+    a: "MUET biasa dijalankan tiga kali setahun. MPM juga menawarkan MUET on Demand (MoD) berasaskan komputer dengan tarikh yang lebih fleksibel setiap bulan, pada yuran yang lebih tinggi (RM250 bagi warganegara dan RM550 bagi bukan warganegara, berbanding RM150/RM350 untuk MUET biasa)."
   - q: "Adakah MUET diperlukan untuk universiti swasta?"
     a: "Universiti swasta juga umumnya memerlukan bukti kemahiran bahasa Inggeris. Pelajar tempatan biasanya mengemukakan keputusan MUET, manakala kelayakan setara seperti IELTS atau TOEFL boleh diterima bergantung pada program dan institusi."
 
@@ -40,9 +40,10 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-08
+publishedBy: "ashton-tan"
+reviewed: 2026-08-14
 reviewDue: 2027-08-08
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-08-08
@@ -52,18 +53,21 @@ revisions:
     date: 2026-08-08
     change: "Correction pass: removed invented 9-level band descriptor column and unsourced claims (1999 start year, MoD RM250 fee, best-result admission practice); re-verified format, fees, sittings and validity against primary MPM/gov sources; dropped EasyUni (self-contradictory) and added official MPM band-description, fees and timetable sources."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
 verificationNeeded:
-  - "Tahun MUET mula diperkenalkan (dilaporkan 1999 oleh sumber pendidikan sekunder) — belum disahkan daripada sumber rasmi MPM; sengaja tidak dinyatakan sebagai fakta dalam teks."
-  - "Yuran MUET on Demand (MoD) — panduan pihak ketiga melaporkan sekitar RM250 (warganegara); tidak tersenarai pada halaman yuran rasmi MPM yang disemak (hanya RM150 warganegara / RM350 bukan warganegara untuk MUET biasa)."
-  - "Pemetaan tepat setiap band kepada tahap CEFR (C1+, C1, B2, B1, A2) — dokumen band MPM mengelompokkan calon kepada tiga kategori pengguna sahaja; sempadan band-ke-CEFR yang tepat perlu disahkan pada dokumen rasmi."
   - "Ambang band minimum khusus mengikut program (perubatan, undang-undang, kejuruteraan) — ditetapkan oleh Senat dan berbeza mengikut universiti/sesi; contoh dalam teks adalah panduan umum, bukan angka rasmi."
-  - "Markah maksimum bagi setiap kertas dan wajaran tepat setiap komponen — hanya agregat maksimum 360 disahkan daripada dokumen band rasmi MPM."
 
-updated: 2026-08-08
+updated: 2026-08-14
 sources:
-  - title: "MUET Regulations, Test Specifications, Test Format and Sample Questions"
+  - title: "MUET Regulations, Test Specifications, Test Format and Sample Questions (Foreword — confirms MUET first conducted in 1999; describes the pre-2021 300-mark, six-band format now superseded)"
     url: "https://www.mpm.edu.my/images/dokumen/calon-peperiksaan/muet/regulation/Regulations_Test_Specifications_Test_Format_and_Sample_Questions.pdf"
+    publisher: "Majlis Peperiksaan Malaysia (MPM)"
+  - title: "FACTS ABOUT MUET on Demand (MoD) brochure (Version 01082022) — MoD fees and equal 25% component weighting"
+    url: "https://www.mpm.edu.my/images/dokumen/calon-peperiksaan/mod/luar_negara/Brosur_MoD_2022.pdf"
     publisher: "Majlis Peperiksaan Malaysia (MPM)"
   - title: "Malaysian University English Test (MUET)"
     url: "https://www.malaysia.gov.my/en/personas/pelajar-ipt/menyambung-pengajian-ijazah-sarjana-muda/malaysian-university-english-test-muet"
@@ -95,36 +99,36 @@ MUET (Malaysian University English Test) ialah ujian kemahiran bahasa Inggeris y
 
 ## Apa itu MUET dan siapa yang mengendalikannya?
 
-MPM ditubuhkan di bawah Akta Majlis Peperiksaan Malaysia 1980 (Akta 225) dan bertanggungjawab menjalankan kedua-dua peperiksaan STPM dan MUET. Objektif MUET adalah tunggal: mengukur tahap penguasaan bahasa Inggeris pelajar sebelum mereka masuk ke universiti, supaya institusi tahu sejauh mana seseorang calon boleh mengikuti kuliah, membaca teks akademik dan menghasilkan penulisan ilmiah dalam bahasa Inggeris.
+MPM ditubuhkan di bawah Akta Majlis Peperiksaan Malaysia 1980 (Akta 225) dan bertanggungjawab menjalankan kedua-dua peperiksaan STPM dan MUET. MUET mula dijalankan pada tahun **1999**, dan MPM memikul tanggungjawab ke atasnya berkuat kuasa tahun tersebut, seperti yang dinyatakan dalam dokumen *Regulations* rasmi MPM. Objektif MUET adalah tunggal: mengukur tahap penguasaan bahasa Inggeris pelajar sebelum mereka masuk ke universiti, supaya institusi tahu sejauh mana seseorang calon boleh mengikuti kuliah, membaca teks akademik dan menghasilkan penulisan ilmiah dalam bahasa Inggeris.
 
 Menurut Portal Rasmi Kerajaan Malaysia, keputusan MUET adalah **wajib untuk kemasukan ke program Ijazah Sarjana Muda di universiti awam**, tertakluk kepada syarat yang ditetapkan oleh Senat universiti masing-masing. Yang penting difahami: MUET *tidak* diperlukan untuk masuk ke peringkat diploma, STPM, matrikulasi atau asasi. Ia hanya menjadi syarat apabila anda melangkah ke peringkat ijazah. Ramai pelajar mengambil MUET semasa tahun STPM atau semasa program asasi mereka, supaya keputusan sudah siap ketika memohon universiti.
 
 ## Bagaimana MUET dinilai — empat kertas dan sistem band?
 
-MUET menguji keempat-empat kemahiran bahasa secara berasingan. Setiap komponen membawa berat yang sama dan menyumbang kepada satu skor agregat.
+MUET menguji keempat-empat kemahiran bahasa secara berasingan. Dalam format MUET semasa yang diselaraskan dengan CEFR (berkuat kuasa mulai 2021), setiap komponen membawa berat yang sama — **25% setiap satu** — dengan markah maksimum 90 bagi setiap kertas, menyumbang kepada satu skor agregat.
 
-| Kertas | Kemahiran diuji |
-| --- | --- |
-| Kertas 1 | Mendengar (Listening) |
-| Kertas 2 | Bertutur (Speaking) |
-| Kertas 3 | Membaca (Reading) |
-| Kertas 4 | Menulis (Writing) |
+| Kertas | Kemahiran diuji | Wajaran | Markah maksimum |
+| --- | --- | --- | --- |
+| Kertas 1 (800/1) | Mendengar (Listening) | 25% | 90 |
+| Kertas 2 (800/2) | Bertutur (Speaking) | 25% | 90 |
+| Kertas 3 (800/3) | Membaca (Reading) | 25% | 90 |
+| Kertas 4 (800/4) | Menulis (Writing) | 25% | 90 |
 
 Skor daripada keempat-empat kertas digabungkan menjadi satu **skor agregat maksimum 360 markah**. Skor itu kemudian diterjemahkan kepada satu band. Sistem band MUET mempunyai sembilan tahap, dari Band 1.0 (paling rendah) hingga Band 5+ (paling tinggi), dengan julat skor seperti berikut mengikut dokumen *Band Description* rasmi MPM:
 
-| Band | Julat skor agregat (dari 360) |
-| --- | --- |
-| Band 5+ | 331–360 |
-| Band 5.0 | 294–330 |
-| Band 4.5 | 258–293 |
-| Band 4.0 | 211–257 |
-| Band 3.5 | 164–210 |
-| Band 3.0 | 123–163 |
-| Band 2.5 | 82–122 |
-| Band 2.0 | 36–81 |
-| Band 1.0 | 1–35 |
+| Band | Julat skor agregat (dari 360) | Tahap CEFR | Kategori pengguna |
+| --- | --- | --- | --- |
+| Band 5+ | 331–360 | C1+ | Proficient |
+| Band 5.0 | 294–330 | C1 | Proficient |
+| Band 4.5 | 258–293 | B2 | Independent |
+| Band 4.0 | 211–257 | B2 | Independent |
+| Band 3.5 | 164–210 | B1 | Independent |
+| Band 3.0 | 123–163 | B1 | Independent |
+| Band 2.5 | 82–122 | A2 | Basic |
+| Band 2.0 | 36–81 | A2 | Basic |
+| Band 1.0 | 1–35 | A2 | Basic |
 
-Semakin tinggi band, semakin baik penguasaan bahasa Inggeris calon. Dalam dokumen *Band Description*, MPM menyelaraskan band MUET dengan *Common European Framework of Reference for Languages* (CEFR) dan mengelompokkan calon kepada tiga kategori pengguna — **Proficient** (pengguna mahir), **Independent** (pengguna berdikari) dan **Basic** (pengguna asas) — dengan band yang lebih tinggi bersamaan tahap CEFR yang lebih tinggi. (Pemetaan tepat setiap band kepada tahap CEFR tertentu perlu disemak pada dokumen rasmi MPM.) Setiap calon yang melengkapkan keempat-empat komponen menerima slip keputusan yang menunjukkan band keseluruhan.
+Semakin tinggi band, semakin baik penguasaan bahasa Inggeris calon. Dalam dokumen *Band Description*, MPM menyelaraskan band MUET dengan *Common European Framework of Reference for Languages* (CEFR) dan mengelompokkan calon kepada tiga kategori pengguna — **Proficient** (pengguna mahir, Band 5.0 dan 5+), **Independent** (pengguna berdikari, Band 3.0 hingga 4.5) dan **Basic** (pengguna asas, Band 1.0 hingga 2.5). Seperti yang ditunjukkan dalam jadual di atas, Band 5+ setara dengan CEFR C1+, Band 5.0 dengan C1, Band 4.0–4.5 dengan B2, Band 3.0–3.5 dengan B1, dan Band 1.0–2.5 dengan A2. Setiap calon yang melengkapkan keempat-empat komponen menerima slip keputusan yang menunjukkan band keseluruhan.
 
 ## Band mana yang anda perlukan untuk masuk universiti?
 
@@ -150,12 +154,14 @@ Ringkasnya: kelayakan pra-universiti membuktikan keupayaan akademik anda; MUET m
 
 ## Yuran, kekerapan dan tempoh sah
 
-MUET biasa dijalankan **tiga kali setahun**. Bagi calon yang memerlukan tarikh lebih fleksibel, MPM menawarkan **MUET on Demand (MoD)** berasaskan komputer yang boleh diduduki setiap bulan, tetapi pada yuran yang lebih tinggi.
+MUET biasa dijalankan **tiga kali setahun**. Bagi calon yang memerlukan tarikh lebih fleksibel, MPM menawarkan **MUET on Demand (MoD)** berasaskan komputer yang boleh diduduki setiap bulan, tetapi pada yuran yang lebih tinggi — RM250 bagi warganegara dan RM550 bagi bukan warganegara, mengikut brosur rasmi MoD MPM.
 
 | Perkara | Butiran |
 | --- | --- |
 | Yuran calon warganegara (MUET biasa) | RM150 |
 | Yuran calon bukan warganegara (MUET biasa) | RM350 |
+| Yuran calon warganegara (MUET on Demand) | RM250 |
+| Yuran calon bukan warganegara (MUET on Demand) | RM550 |
 | Kekerapan MUET biasa | Tiga kali setahun |
 | Tempoh sah keputusan | Lima tahun dari tarikh keputusan |
 

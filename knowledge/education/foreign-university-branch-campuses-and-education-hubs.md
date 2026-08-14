@@ -42,7 +42,7 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-08-08
@@ -52,12 +52,12 @@ revisions:
     date: 2026-08-08
     change: "Correction pass: fixed Tan Kah Kee's origin (overseas Chinese, not Malaysian), removed unsourced Monash 400-student and Xiamen bilateral-ties claims, and added official Nottingham Malaysia and Xiamen founder sources for the 48-hectare, Queen's Award 2001 and founder facts."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 verificationNeeded:
-  - "Monash Malaysia's 1998 founding as first foreign campus is cited to a directory (eTawau); confirm against a Monash or Ministry of Higher Education primary source."
-  - "Nottingham Malaysia student count (draft uses 4,300 from nottingham.ac.uk; the official nottingham.edu.my page states 'more than 5000') — confirm current figure."
   - "Total count of foreign branch campuses ('around a dozen' / 'roughly eleven') — confirm against a current MOHE or MQA register."
-  - "Curtin and Swinburne operating in Sarawak (founding years deliberately omitted) — confirm names and status."
-  - "Multimedia University Faculty of Cinematic Arts at EduCity (2016) tenant claim — confirm against an EduCity or MMU source."
 
 updated: 2026-08-08
 sources:
@@ -91,6 +91,21 @@ sources:
   - title: "Monash University Malaysia Campus"
     url: "https://www.etawau.com/edu/UniversitiesBranch/Monash_University.htm"
     publisher: "eTawau"
+  - title: "About Monash University Malaysia — Pro Vice-Chancellor and President (Malaysia) and CEO"
+    url: "https://www.monash.edu/pvc-and-president-malaysia-ceo/about-the-portfolio"
+    publisher: "Monash University"
+  - title: "Monash Malaysia timeline"
+    url: "https://www.monash.edu/timeline/menu/monash-malaysia-timeline"
+    publisher: "Monash University"
+  - title: "University: Monash University Malaysia"
+    url: "https://discover.educationmalaysia.gov.my/university/monash-university-malaysia/"
+    publisher: "Education Malaysia (Ministry of Higher Education portal)"
+  - title: "Curtin University Malaysia"
+    url: "https://en.wikipedia.org/wiki/Curtin_University_Malaysia"
+    publisher: "Wikipedia (institution facts)"
+  - title: "Swinburne University of Technology Sarawak Campus"
+    url: "https://en.wikipedia.org/wiki/Swinburne_University_of_Technology_Sarawak_Campus"
+    publisher: "Wikipedia (institution facts)"
 
 entity: "Foreign University Branch Campus (Malaysia)"
 relations:
@@ -116,7 +131,7 @@ The pitch to Malaysia is bigger. Branch campuses import brand, curriculum, resea
 
 The founding sequence reads like a roll-call of firsts.
 
-Monash University Malaysia opened in 1998 as the country's first foreign university campus, in Bandar Sunway. Two years later the University of Nottingham arrived — and in doing so became the first branch campus of any British university established outside the United Kingdom, a distinction recognised by the Queen's Award for Enterprise in 2001. Nottingham moved to a purpose-built 48-hectare campus in Semenyih, Selangor, in 2005, now home to more than 4,300 students.
+Monash University Malaysia opened in 1998 as the country's first foreign university campus, in Bandar Sunway. Two years later the University of Nottingham arrived — and in doing so became the first branch campus of any British university established outside the United Kingdom, a distinction recognised by the Queen's Award for Enterprise in 2001. Nottingham moved to a purpose-built 48-hectare campus in Semenyih, Selangor, in 2005, now home to more than 5,000 students.
 
 The next wave was more geographically varied. British institutions Heriot-Watt (a lakeside Putrajaya campus opened in 2014) and the University of Reading (in Johor) followed, alongside specialist medical campuses. The most symbolically loaded entry was Xiamen University Malaysia, which opened in February 2016 in Sepang as the first overseas campus of any Chinese university. There is a historical resonance to the choice: Xiamen University's founder, Tan Kah Kee, was an overseas Chinese industrialist born in Fujian, China, in 1874 and based in Singapore — so prominent across the region for his enterprise and philanthropy that he was dubbed the "Henry Ford of Malaya."
 

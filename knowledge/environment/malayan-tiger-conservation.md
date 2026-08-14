@@ -39,9 +39,9 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
+reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-28
@@ -51,13 +51,14 @@ revisions:
     date: 2026-07-28
     change: "Correction pass: removed Cabinet-approval and census claims, fixed 90,000 ha attribution, deleted unverifiable Cambodian-arrest detail, aligned all hard figures to fetched sources."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
 verificationNeeded:
-  - "Governance of the MTCAP: sources describe it as a 2021–2030 framework whose actions are coordinated/agreed through the National Tiger Implementation Working Group, not a Cabinet approval — confirm the formal adoption mechanism."
-  - "The nearly 90,000 ha of new protected areas is attributed by Bernama to five states (Kedah, Perak, Selangor, Terengganu, Negeri Sembilan) but described by the 2026 Star report as Peninsular Malaysia-wide — confirm the correct scope."
   - "A June 2024 arrest of four Cambodian nationals inside a royal tiger reserve appeared in the original draft but could not be confirmed in any cited source; it was removed. Confirm and re-add with a source if accurate."
   - "Updated official tiger population figures were promised ('to be announced soon' as of July 2026) — replace the fewer-than-150 estimate once released."
-  - "RM550 million (2019–2024) and RM200 million (2024) Ecological Fiscal Transfer figures attributed to the November 2024 Star report — confirm against the article text."
 
 updated: 2026-07-28
 sources:

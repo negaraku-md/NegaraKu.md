@@ -40,9 +40,10 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-08
+publishedBy: "ashton-tan"
+reviewed: 2026-08-14
 reviewDue: 2027-08-08
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-08-08
@@ -52,13 +53,13 @@ revisions:
     date: 2026-08-08
     change: "Correction pass: removed commercial-blog source and its unverifiable RM410 levy figure, deleted unsourced six-person household claim, relabelled RM7,000 as employer net income, re-sourced RM15,000 cap to Jabatan Imigresen (dropping MoU attribution)."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
 verificationNeeded:
-  - "Bagi Indonesia, Jabatan Imigresen menyebut RM7,000 sebagai 'Employer Net Income' dalam jadual tetapi juga sebagai 'Household income' dalam nota khusus Indonesia — sahkan takrif rasmi yang terpakai."
   - "Kadar levi tahunan semasa bagi pembantu rumah asing (berbeza mengikut sektor/wilayah dan boleh berubah) — sahkan dengan Jabatan Imigresen sebelum menyatakan angka."
-  - "Butiran syarat insurans wajib (perlindungan hospital dan kecederaan berkaitan kerja) bagi pemegang PLKS pembantu rumah."
-  - "Had kos RM15,000 (maksimum) disahkan Jabatan Imigresen bagi pengambilan pembantu rumah Indonesia melalui Malaysia Recruitment Agency (MRA) yang dilantik; sahkan sama ada terpakai kepada negara sumber lain."
-  - "Sama ada senarai sembilan negara sumber (termasuk Nepal) masih terkini pada tarikh semakan."
 
 updated: 2026-08-08
 sources:
@@ -77,6 +78,12 @@ sources:
   - title: "All employees irrespective of wages to be covered under amended Employment Act 1955 from 1 January 2023"
     url: "https://www.rahmatlim.com/publication/articles/22319/all-employees-irrespective-of-wages-to-be-covered-under-amended-employment-act-1955-from-1-january-2023"
     publisher: "Rahmat Lim & Partners"
+  - title: "Foreign Worker Health Protection Scheme (SPIKPA/SKHPPA)"
+    url: "https://jknselangor.moh.gov.my/hkkb/en/foreigner/protection-scheme"
+    publisher: "Kementerian Kesihatan Malaysia (JKN Selangor / Hospital Kuala Kubu Bharu)"
+  - title: "Domestic Workers (LINDUNG PEKERJA)"
+    url: "https://www.perkeso.gov.my/en/our-services/protection/domestic-workers.html"
+    publisher: "PERKESO (SOCSO)"
 
 entity: "Foreign Domestic Helper (FDH)"
 relations:
@@ -121,7 +128,9 @@ Syarat pendapatan minimum majikan dan bon keselamatan berbeza mengikut negara su
 | Vietnam | RM3,000 | RM1,500 |
 | Laos | RM3,000 | RM1,500 |
 
-Bon keselamatan bukan bayaran hangus — ia merupakan jaminan yang boleh dituntut semula apabila pembantu rumah pulang ke negara asal mengikut syarat. Bagi Indonesia, Jabatan Imigresen menetapkan pendapatan bersih majikan minimum RM7,000, dan kos pengambilan melalui Malaysia Recruitment Agency (MRA) yang dilantik dihadkan pada RM15,000 (maksimum). Had RM15,000 ini turut disahkan oleh Kementerian Sumber Manusia sebagai kos pengambilan maksimum bagi pembantu rumah Indonesia baharu (The Star).
+Bon keselamatan bukan bayaran hangus — ia merupakan jaminan yang boleh dituntut semula apabila pembantu rumah pulang ke negara asal mengikut syarat. Bagi Indonesia, Jabatan Imigresen menetapkan pendapatan bersih majikan minimum RM7,000, dan kos pengambilan melalui Malaysia Recruitment Agency (MRA) yang dilantik dihadkan pada RM15,000 (maksimum). Had RM15,000 ini turut disahkan oleh Kementerian Sumber Manusia sebagai kos pengambilan maksimum bagi pembantu rumah Indonesia baharu (The Star). Had RM15,000 ini khusus untuk Indonesia — Jabatan Imigresen tidak melanjutkannya kepada negara sumber lain, yang masing-masing tertakluk pada susunan MoU dua hala atau pengesahan kontrak kedutaan sendiri.
+
+Perlu diambil perhatian bahawa halaman FDH Jabatan Imigresen sendiri tidak konsisten dari segi istilah: angka RM7,000 disenaraikan di bawah tajuk jadual "Employer Net Income" (pendapatan bersih majikan) yang sama untuk semua negara, tetapi nota khusus MoU Indonesia pada halaman yang sama menyebutnya sebagai "Household income". Panduan ini menggunakan istilah "pendapatan bersih majikan" kerana ia sepadan dengan tajuk jadual rasmi Imigresen.
 
 Jika majikan mahu mengambil lebih daripada seorang pembantu, ambang pendapatan meningkat. Menurut Jabatan Imigresen, pembantu kedua memerlukan pendapatan melebihi RM10,000, manakala pembantu ketiga melebihi RM15,000.
 
@@ -148,7 +157,9 @@ Ini menjadikan hubungan pekerjaan pembantu rumah lebih banyak dipandu oleh kontr
 
 Kerana pembantu rumah tidak melalui sistem kuota sektor, majikan tidak perlu memohon kuota FWCMS seperti pekerja am. Permohonan diuruskan terus melalui Jabatan Imigresen, lazimnya menerusi agensi berlesen.
 
-Levi tahunan pekerja asing masih terpakai dan dibayar semasa pembaharuan permit. Kadar levi berbeza mengikut sektor dan wilayah dan boleh berubah, jadi majikan patut mengesahkan kadar semasa terus dengan Jabatan Imigresen. Majikan juga perlu memastikan pembantu rumah dilindungi insurans hospital dan perlindungan kecederaan berkaitan kerja sebagai sebahagian syarat permit.
+Levi tahunan pekerja asing masih terpakai dan dibayar semasa pembaharuan permit. Kadar levi berbeza mengikut sektor dan wilayah dan boleh berubah, jadi majikan patut mengesahkan kadar semasa terus dengan Jabatan Imigresen.
+
+Dua perlindungan insurans wajib pula terpakai. Untuk kemasukan hospital, pembantu rumah asing termasuk dalam Skim Kemasukan Hospital dan Pembedahan Pekerja Asing (SKHPPA, dengan kad dikenali sebagai SPIKPA) di bawah Kementerian Kesihatan Malaysia — wajib sejak 1 Januari 2011, dengan majikan menanggung premium bagi pembantu rumah, dan perlindungan sehingga RM10,000 setahun di hospital kerajaan. Untuk kecederaan berkaitan kerja, pembantu rumah asing yang memegang pasport sah dan pas kerja Imigresen wajib dilindungi PERKESO (SOCSO) di bawah Skim Bencana Pekerjaan Akta Keselamatan Sosial Pekerja 1969 (Akta 4) sejak 1 Jun 2021; pendaftaran dan caruman adalah wajib.
 
 Ringkasnya, pembantu rumah asing berada dalam kedudukan hibrid: masih tertakluk pada levi dan insurans wajib, tetapi dikeluarkan daripada kuota sektor, caruman KWSP wajib, dan sebahagian besar perlindungan Akta Kerja.
 

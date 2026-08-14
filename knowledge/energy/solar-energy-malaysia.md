@@ -22,7 +22,7 @@ appliesTo: "Pemilik rumah, pengurus fasiliti, syarikat korporat dan pelabur tena
 
 faq:
   - q: "Adakah kuota NEM Rakyat masih terbuka untuk pemilik rumah?"
-    a: "Kuota keseluruhan NEM Rakyat ialah 700 MW untuk tempoh program. Permintaan sangat tinggi; menurut laporan industri, peruntukan solar kediaman telah mencapai 350 MW menjelang September 2024. Semak status kuota semasa di portal SEDA sebelum memohon kerana baki boleh berubah dengan cepat."
+    a: "Kuota keseluruhan NEM Rakyat ialah 700 MW untuk tempoh program, dan permintaan sangat tinggi — menurut laporan industri, peruntukan solar kediaman telah mencapai 350 MW menjelang September 2024. Namun, NEM 3.0 telah ditutup pada 30 Jun 2025 dan tidak lagi menerima permohonan baharu; pemilik rumah harus memantau pengumuman SEDA bagi skim pengganti."
   - q: "Apakah perbezaan antara NEM dan CRESS?"
     a: "NEM ialah untuk pengguna yang memasang solar di bumbung premis sendiri dan mengimbangi bil TNB. CRESS pula membenarkan syarikat membeli tenaga daripada ladang solar pihak ketiga di lokasi lain dan mengalirkannya menerusi grid nasional dengan membayar Caj Akses Sistem."
   - q: "Bolehkah syarikat menyertai CGPP tanpa memasang panel solar sendiri?"
@@ -39,7 +39,7 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-08-01
@@ -49,15 +49,14 @@ revisions:
     date: 2026-08-01
     change: "Correction pass: removed unsourced 40% access-charge claim, decoupled 350 MW/700 MW conflation, cited SEDA reportal for the 2,500 MW quota, and aligned CRESS implementer to Single Buyer."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-verificationNeeded:
-  - "Baki kuota NEM 3.0 semasa di portal SEDA — figura berubah kerap dan tidak sepatutnya dianggap muktamad."
-  - "Tarikh mula tepat setiap sub-program NEM 3.0 (reportal SEDA menunjukkan NOVA bermula April 2021, berbanding NEM Rakyat/GoMEn pada Februari 2021)."
-  - "Status pelaksanaan dan tarikh operasi komersial projek LSS5/LSS PETRA menjelang 2026."
-  - "Butiran pembukaan CRESS kepada pengguna sedia ada mulai 1 Mac 2025 dan pengekalan kadar Caj Akses Sistem sepanjang RP4 (2025–2027)."
-  - "Tarikh dan mekanisme pelaksanaan penuh CREAM (dilaporkan Mac 2025), termasuk pengesahan pengendali dan struktur agregasi."
+verificationNeeded: []
 
-updated: 2026-08-01
+updated: 2026-08-14
 sources:
   - title: "NEM 3.0 – Renewable Energy Malaysia (RE Portal)"
     url: "https://www.seda.gov.my/reportal/nem/"
@@ -83,6 +82,15 @@ sources:
   - title: "Malaysia reaches 350 MW residential solar quota for net metering"
     url: "https://www.pv-magazine.com/2024/09/18/malaysia-reaches-350-mw-residential-solar-quota-for-net-metering/"
     publisher: "pv magazine"
+  - title: "13 Developers Win LSS PETRA 5+ Solar Bids"
+    url: "https://www.bernama.com/en/news.php?id=2466169"
+    publisher: "BERNAMA"
+  - title: "Malaysian Government enhances Corporate Renewable Energy Supply Scheme (CRESS) from 1 March 2025"
+    url: "https://www.lexology.com/library/detail.aspx?g=cc0e0030-86a0-4274-9022-1e63faf28bf3"
+    publisher: "Lexology (citing revised CRESS Guidelines)"
+  - title: "Policy Insight — Malaysia: Guideline on Community Renewable Energy Aggregation Mechanism (CREAM)"
+    url: "https://aseanenergy.org/publications/policy-insight-malaysia-guideline-on-corporate-renewable-energy-aggregation-mechanism-cream"
+    publisher: "ASEAN Centre for Energy"
 
 relations:
   - { rel: "administered-by", to: "suruhanjaya-tenaga" }
@@ -108,7 +116,7 @@ Jadual di bawah meringkaskan kelima-lima laluan utama:
 | LSS | Pemaju / pelabur utiliti | Bidaan kompetitif, ladang solar | 2,000 MW (LSS5) | Suruhanjaya Tenaga |
 | CGPP | Korporat (kilang/servis) | Perjanjian maya (virtual PPA) | Projek 5–30 MW | Single Buyer |
 | CRESS | Korporat besar | Akses grid pihak ketiga | Caj akses 45/25 sen/kWh | Single Buyer |
-| CREAM | Komuniti & pengguna setempat | Agregasi bumbung kediaman | Dilancarkan Mac 2025 | Single Buyer |
+| CREAM | Komuniti & pengguna setempat | Agregasi bumbung kediaman | Garis panduan 28 Mac 2025; mohon dari 1 Jun 2025 | Single Buyer |
 
 Kesemuanya berada di bawah seliaan Suruhanjaya Tenaga (Energy Commission), dengan sokongan agensi pelaksana yang berbeza.
 
@@ -118,11 +126,11 @@ NEM ialah laluan paling biasa bagi orang ramai. Anda memasang panel solar di bum
 
 Menurut portal RE SEDA, NEM 3.0 berjalan bagi tempoh sehingga 30 Jun 2025, dengan jumlah kuota keseluruhan sehingga 2,500 MW. Ia terbahagi kepada tiga sub-program:
 
-- **NEM Rakyat** (700 MW) — untuk pengguna kediaman, dengan tempoh kontrak 10 tahun.
-- **NEM GoMEn** (100 MW) — untuk kementerian dan entiti kerajaan.
-- **NOVA** (1,700 MW) — Net Offset Virtual Aggregation, membolehkan pemilik sistem komersial dan industri menjual lebihan kuasa kepada grid pada Harga Marginal Sistem (SMP).
+- **NEM Rakyat** (700 MW) — untuk pengguna kediaman, dibuka 1 Februari 2021 dengan tempoh kontrak 10 tahun.
+- **NEM GoMEn** (100 MW) — untuk kementerian dan entiti kerajaan, dibuka 1 Februari 2021.
+- **NOVA** (1,700 MW) — Net Offset Virtual Aggregation, dibuka lewat sedikit pada 1 April 2021, membolehkan pemilik sistem komersial dan industri menjual lebihan kuasa kepada grid pada Harga Marginal Sistem (SMP).
 
-Permintaan perumahan sangat kuat. Kuota keseluruhan NEM Rakyat ialah 700 MW; secara berasingan, laporan industri menunjukkan peruntukan solar kediaman telah mencapai 350 MW menjelang September 2024. Sesiapa yang berminat perlu menyemak baki kuota di portal SEDA sebelum memohon kerana ia boleh habis dengan cepat.
+Permintaan perumahan sangat kuat. Kuota keseluruhan NEM Rakyat ialah 700 MW; secara berasingan, laporan industri menunjukkan peruntukan solar kediaman telah mencapai 350 MW menjelang September 2024. Ketiga-tiga sub-program ini ditutup pada 30 Jun 2025 apabila tempoh NEM 3.0 tamat; menjelang penutupan, NEM Rakyat hampir habis diperuntukkan. Nota: memandangkan program kini telah ditutup, portal SEDA tidak lagi menerima permohonan baharu NEM 3.0.
 
 ## Apakah Solar Skala Besar (LSS) dan siapa boleh menyertainya?
 
@@ -154,9 +162,9 @@ Mulai 1 Mac 2025, kerajaan membuka CRESS kepada pengguna kuasa sedia ada dan men
 
 ## Apakah CREAM dan mengapa ia penting untuk komuniti?
 
-CREAM (Community Renewable Energy Aggregation Mechanism), dilancarkan pada Mac 2025, memperluas akses tenaga hijau ke peringkat komuniti. Konsepnya mudah: pemilik rumah menyewakan ruang bumbung mereka kepada pemaju solar pihak ketiga, yang kemudian menggabungkan (aggregate) banyak bumbung menjadi satu sistem penjanaan, lalu membekalkan elektrik bersih kepada pengguna hijau setempat.
+CREAM (Community Renewable Energy Aggregation Mechanism) memperluas akses tenaga hijau ke peringkat komuniti. Garis panduannya diterbitkan pada 28 Mac 2025, dengan permohonan bermula 1 Jun 2025. Konsepnya mudah: seorang Local Energy Generator and Aggregator (LEGA) membangunkan sistem solar PV di atas bumbung kediaman yang digabungkan (aggregate), lalu membekalkan elektrik hijau kepada Local Green Consumer (LGC) — komersial dan domestik — dalam lingkungan 5 km menerusi rangkaian pengedaran TNB.
 
-Ini membolehkan pemilik rumah memperoleh nilai daripada ruang bumbung yang tidak digunakan, sambil membenarkan perniagaan dan isi rumah setempat membeli tenaga hijau tanpa memiliki sistem solar sendiri. CREAM diselaras oleh Single Buyer, dengan kelulusan kawal selia daripada Suruhanjaya Tenaga dan sokongan rangkaian pengedaran TNB.
+Ini membolehkan pemilik rumah memperoleh nilai daripada ruang bumbung yang tidak digunakan, sambil membenarkan perniagaan dan isi rumah setempat membeli tenaga hijau tanpa memiliki sistem solar sendiri. CREAM dikendalikan oleh Single Buyer, dengan pengawasan kawal selia daripada Suruhanjaya Tenaga dan sokongan rangkaian pengedaran TNB.
 
 ## Apa seterusnya
 

@@ -39,15 +39,12 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
+reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "0.2"
+publishedBy: "ashton-tan"
+version: "0.3"
 verificationNeeded:
-  - "Exact first-gas date at Kasawari: trade press (Offshore Magazine, Borneo Post) reports first gas on 21-22 August 2024; draft states 'August 2024' — confirm the precise date against a PETRONAS statement."
-  - "H2biscus partner roster: the SEDC Energy project page lists Samsung E&A, Lotte Chemical and KNOC; Free Malaysia Today reporting additionally names Posco. Confirm the full, current consortium."
-  - "H2ornbill capacity metric: SEDC Energy states 88 kTPA of methylcyclohexane (MCH); Free Malaysia Today reported ~90,000 t/year of clean hydrogen — different products/units. Confirm which metric is current."
   - "Post-2025 revised capacities: the draft cites the original targets (150,000 t/year ammonia; 88,000 t/year MCH). Confirm the reduced capacities after the 2025 scale-down."
-  - "HETR economic targets (RM12.1bn by 2030, up to RM61bn GDP, 8,000-45,000 jobs, RM400bn+ and 200,000+ jobs by 2050) are cited here via the Green Hydrogen Organisation's secondary profile; confirm against the primary HETR document from MOSTI."
 revisions:
   - version: "0.1"
     date: 2026-08-01
@@ -57,6 +54,10 @@ revisions:
     date: 2026-08-01
     change: "Correction pass: added Offshore Magazine source for Aug 2024 first gas, pinpointed the 'largest offshore CCS' characterisation to NS Energy, sharpened M1 storage total to 71-76 Mt, and untangled the H2biscus partner roster and H2ornbill capacity attribution."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
 updated: 2026-08-01
 sources:
@@ -78,6 +79,12 @@ sources:
   - title: "Giant Kasawari gas platform starts operations offshore Malaysia"
     url: "https://www.offshore-mag.com/production/article/55134928/giant-kasawari-gas-platform-starts-operations-offshore-malaysia"
     publisher: "Offshore Magazine"
+  - title: "PETRONAS achieves first gas production from Kasawari field offshore Malaysia"
+    url: "https://www.worldoil.com/news/2024/8/21/petronas-achieves-first-gas-production-from-kasawari-field-offshore-malaysia/"
+    publisher: "World Oil"
+  - title: "Hydrogen Economy and Technology Roadmap (HETR) 2022-2030 — MOSTI/NNC presentation"
+    url: "https://apctt.org/sites/default/files/2024-11/Ismarul,%20Malaysia%20PPT%20HETR.pdf"
+    publisher: "Ministry of Science, Technology and Innovation (MOSTI)"
 
 entity: "Sarawak Hydrogen Hub"
 relations:
@@ -96,7 +103,7 @@ The bet is real, but it is also early, and 2025 delivered a reality check.
 
 Malaysia already sells energy to the world. The pitch for hydrogen and carbon capture, utilisation and storage (CCUS) is that the same geography — abundant Sarawak hydropower, depleted offshore gas reservoirs, and existing export terminals — can be repurposed for a decarbonising Asia.
 
-The national frame is the Hydrogen Economy and Technology Roadmap (HETR), launched in 2023 and led by the Ministry of Science, Technology and Innovation (MOSTI). It sets ambitious economic targets: roughly RM12.1 billion in hydrogen-related revenue by 2030, with a GDP contribution of up to RM61 billion and 8,000 to 45,000 jobs — scaling past RM400 billion in revenue and more than 200,000 jobs by 2050, according to the Green Hydrogen Organisation's Malaysia profile.
+The national frame is the Hydrogen Economy and Technology Roadmap (HETR), launched in 2023 and led by the Ministry of Science, Technology and Innovation (MOSTI). It sets ambitious economic targets: MOSTI's own HETR document puts hydrogen-related revenue at roughly RM12.1 billion by 2030, scaling past RM400 billion (about RM409 billion) in revenue and more than 200,000 jobs by 2050. Widely reported MOSTI figures for the near term add a GDP contribution of up to RM61 billion and 8,000 to 45,000 jobs by 2030.
 
 CCUS is the companion play. Malaysia's gas fields are unusually CO2-rich, which is a problem for LNG buyers who want lower-carbon cargoes — and an opportunity to build permanent offshore storage that could one day take carbon from third parties too.
 

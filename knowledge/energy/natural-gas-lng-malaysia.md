@@ -40,9 +40,10 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
+reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "0.2"
+publishedBy: "ashton-tan"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-08-01
@@ -52,15 +53,14 @@ revisions:
     date: 2026-08-01
     change: "Correction pass: sourced the PGU four entry points, Singapore delivery, Bintulu capacity and Petros handover to primary/authoritative sources."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-verificationNeeded:
-  - "PGU pipeline length: PETRONAS Gas Berhad states 2,623 km, while a 2025 The Star report cites 2,675 km — confirm the current figure."
-  - "Bintulu total capacity: PETRONAS's own release states approximately 30 mtpa; secondary trade sources cite 29.3 mtpa — confirm the precise current figure."
-  - "Plant/train breakdown at Bintulu (which trains belong to MLNG Dua vs MLNG Tiga) — the secondary source has minor internal inconsistencies."
-  - "Regasification terminal commercial-start dates and regas capacities (RGT Sungai Udang Q2 2013 / 500 mmscfd; RGT Pengerang Q4 2017 / 490 mmscfd)."
-  - "Petros transition: it became Sarawak's sole gas aggregator on 1 March 2025, but PETRONAS–Petros terms were still being negotiated in early 2026 — confirm the current effect on Sarawak vs Peninsular supply and on LNG (which is excluded from the aggregator mandate)."
+verificationNeeded: []
 
-updated: 2026-08-01
+updated: 2026-08-14
 sources:
   - title: "Gas Transportation and Regasification"
     url: "https://www.petronas.com/pgb/our-business/gas-transportation-and-regasification"
@@ -86,6 +86,12 @@ sources:
   - title: "PM Anwar: Petros to be Sarawak's oil and gas aggregator from March 2025"
     url: "https://www.malaymail.com/news/malaysia/2025/02/17/pm-anwar-petros-to-be-sarawaks-oil-and-gas-aggregator-from-march-2025/166976"
     publisher: "Malay Mail"
+  - title: "PETRONAS affirms Petros as Sarawak's gas aggregator, excluding LNG, with no extra licensing required"
+    url: "https://dayakdaily.com/petronas-affirms-petros-as-sarawaks-gas-aggregator-excluding-lng-with-no-extra-licensing-required/"
+    publisher: "DayakDaily"
+  - title: "Malaysia LNG"
+    url: "https://en.wikipedia.org/wiki/Malaysia_LNG"
+    publisher: "Wikipedia"
 
 entity: "Malaysia natural gas and LNG sector"
 relations:

@@ -37,14 +37,11 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-08
+publishedBy: "ashton-tan"
+reviewed: 2026-08-14
 reviewDue: 2027-08-08
-version: "0.2"
+version: "0.3"
 verificationNeeded:
-  - "Mekanisme kelayakan BUDI95 pada pelancaran (30 Sep 2025) berasaskan data JPJ/JPN (MyKad + lesen memandu sah), bukan penapisan pendapatan PADU secara langsung. Peranan PADU dalam pensasaran RON95 setakat ini ialah hasrat dasar yang dinyatakan (Menteri Kewangan II, Ogos 2025) — sahkan sejauh mana PADU benar-benar digunakan dalam pelaksanaan sebenar."
-  - "Status masa depan pengecualian T15 dan takrif rasmi 'T15' masih dalam perbincangan dasar — sahkan kedudukan terkini."
-  - "Angka ~55% isi rumah (fasa pertama, dilaporkan November 2024) berasal daripada kenyataan Menteri Ekonomi ketika itu (Rafizi Ramli) melalui laporan media — sahkan terhadap data rasmi Kementerian Ekonomi/DOSM jika tersedia."
-  - "Sasaran ~29 juta pendaftaran menjelang akhir Mac 2024 dan angka 'kurang 5%' orang dewasa mendaftar menjelang akhir Januari 2024 — sahkan denominator dan tarikh rasmi."
   - "Peruntukan subsidi elektrik separuh pertama dan kos operasi PADU sengaja ditinggalkan kerana sumber utama tidak dapat disahkan; tambah hanya jika sumber rasmi diperoleh."
 revisions:
   - version: "0.1"
@@ -55,8 +52,12 @@ revisions:
     date: 2026-08-08
     change: "Correction pass: fixed misattributed 55% figure (now paultan/Rafizi Nov 2024), corrected RON95 exclusion framing (T15 cut set aside at launch; all citizens with MyKad+licence eligible), sourced foreigner/company exclusion (MoF + Loke), neutralised advocacy phrasing, added verificationNeeded."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-08-08
+updated: 2026-08-14
 sources:
   - title: "Govt Saves RM5 Bln Through Diesel Subsidy Rationalisation – MoF"
     url: "https://www.mof.gov.my/portal/en/news/press-citations/govt-saves-rm5-bln-through-diesel-subsidy-rationalisation---mof"
@@ -81,6 +82,30 @@ sources:
     publisher: "Penang Institute"
   - title: "TNB domestic electricity tariff structure July 2025 impact and changes"
     url: "https://soyacincau.com/2025/06/21/tnb-domestic-electricity-tariff-structure-july-2025-impact-changes/"
+    publisher: "SoyaCincau"
+  - title: "BUDI95: Public Advised To Check MyKad, Driving Licence Details – MOF"
+    url: "https://www.mof.gov.my/portal/en/news/press-citations/budi95-public-advised-to-check-mykad-driving-licence-details-mof"
+    publisher: "Kementerian Kewangan Malaysia"
+  - title: "Gov't will use PADU to help define income threshold for targeted RON95 fuel subsidy – economy minister"
+    url: "https://paultan.org/2026/05/11/govt-will-use-padu-to-help-define-income-threshold-for-targeted-ron-95-fuel-subsidy-economy-minister/"
+    publisher: "Paul Tan's Automotive News"
+  - title: "'Who says RM12k?' T15 income not finalised, group not getting RON95 subsidy can also be T10 or T5 – PM"
+    url: "https://paultan.org/2024/10/28/pm-now-says-t15-income-level-not-yet-finalised-group-excluded-from-ron95-subsidy-can-also-be-t10-or-t5/"
+    publisher: "Paul Tan's Automotive News"
+  - title: "Household income not sole measure for defining T15, says Amir Hamzah of targeted RON95 subsidy"
+    url: "https://theedgemalaysia.com/node/732751"
+    publisher: "The Edge Malaysia"
+  - title: "Gov't finalising proposed review of fuel subsidies for the rich – T5, T10, T15, T20, where will the cut-off be?"
+    url: "https://paultan.org/2026/05/11/govt-finalising-proposed-review-of-fuel-subsidies-for-the-rich-t5-t10-t15-t20-where-will-the-cut-off-be/"
+    publisher: "Paul Tan's Automotive News"
+  - title: "More registrations under Padu expected in phase 2, says Rafizi"
+    url: "https://www.thestar.com.my/news/nation/2024/11/20/more-registrations-under-padu-expected-in-phase-2-says-rafizi"
+    publisher: "The Star"
+  - title: "Malaysia's PADU Central Data Hub: Reduced Targets, Raised Stakes"
+    url: "https://fulcrum.sg/malaysias-padu-central-data-hub-reduced-targets-raised-stakes/"
+    publisher: "ISEAS Fulcrum"
+  - title: "PADU: Nearly 800,000 signed up, 29 mil targeted by 31 March"
+    url: "https://soyacincau.com/2024/01/08/padu-registration-7-jan-2024-target-29-million/"
     publisher: "SoyaCincau"
 
 entity: "PADU (Pangkalan Data Utama)"

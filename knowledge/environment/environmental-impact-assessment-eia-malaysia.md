@@ -18,7 +18,7 @@ keyTakeaways:
   - "The 2015 Order splits prescribed activities into a First Schedule (no mandatory public display) and a Second Schedule (public display and public comment required)."
   - "You cannot carry out a prescribed activity until the EIA report has been submitted to and approved by the Director General (Section 34A(6))."
   - "The Director General may approve with or without conditions, which then bind the project through design, construction and operation."
-  - "The Environmental Quality (Amendment) Act 2024 raised the maximum fine for a Section 34A offence to a range of RM100,000 to RM1 million; under the pre-amendment Act the offence was also punishable, in the alternative, by imprisonment of up to five years — the current amended wording should be confirmed with the DOE."
+  - "The Environmental Quality (Amendment) Act 2024 (in force 7 July 2024) replaced Section 34A(8): a Section 34A offence now carries mandatory imprisonment of up to five years AND a fine of not less than RM100,000 and not more than RM1 million (no longer a fine-or-jail alternative)."
 appliesTo: "Developers, investors, project proponents, engineers and consultants planning industrial, infrastructure, land-development or resource projects in Malaysia."
 
 faq:
@@ -29,7 +29,7 @@ faq:
   - q: "Can I start construction while the EIA is being reviewed?"
     a: "No. Section 34A(6) prohibits carrying out a prescribed activity until the report has been submitted to and approved by the Director General. Starting early is an offence."
   - q: "Who can prepare the EIA report?"
-    a: "EIA reports are prepared by environmental consultants engaged by the proponent. The Department of Environment operates a registration scheme for EIA consultants; confirm the current registration requirements — including whether the study must be led by a DOE-registered consultant — directly with the DOE before appointing anyone."
+    a: "EIA reports are prepared by environmental consultants engaged by the proponent. Since 1 June 2007, any individual involved in an EIA study must be registered under the DOE's EIA Consultant Registration Scheme, and only DOE-registered persons may conduct an EIA study in Malaysia. The scheme is tiered into EIA Consultant (a Certified Professional in EIA / CePEIA, who leads the study team), Subject Consultant and Assistant Consultant."
   - q: "What happens if the report is rejected?"
     a: "Under Section 34A(4) the Director General must give reasons, but rejection does not bar you from revising and resubmitting the report for approval."
 
@@ -42,7 +42,7 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-28
@@ -52,13 +52,12 @@ revisions:
     date: 2026-07-28
     change: "Correction pass: softened unverified 2024-amendment penalty/imprisonment and effective-date claims to match cited sources, fixed disjunctive Section 34A(8) wording, and removed uncited consultant-registration and preliminary/detailed-EIA assertions."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-verificationNeeded:
-  - "Whether the Environmental Quality (Amendment) Act 2024 in fact came into force on 7 July 2024 — the cited source (Enviliance ASIA) reports only that it was 'expected to take effect on July 7, 2024' per a Malaysian press report; confirm against the official commencement notification."
-  - "Whether the 2024 amendment changed the imprisonment term for a Section 34A offence — the cited sources confirm only the fine increase to RM100,000–RM1,000,000; the five-year term and RM1,000/day continuing-offence fine are from the pre-amendment consolidated Act text (Section 34A(8))."
-  - "The current DOE EIA consultant registration requirements, and whether only DOE-registered consultants may conduct an EIA study — this is not stated on the cited DOE EIA page and could not be confirmed from a primary source."
-  - "The historical 'Preliminary EIA / Detailed EIA' terminology and its relationship to the First/Second Schedule structure — background is uncited."
-  - "The current prescribed-activity lists and thresholds in the First and Second Schedules of the 2015 Order (subsidiary legislation is updated periodically)."
+verificationNeeded: []
 
 updated: 2026-07-28
 sources:
@@ -77,6 +76,21 @@ sources:
   - title: "Malaysia Tightens Penalties for Violation of Environmental Regulations under New Act"
     url: "https://enviliance.com/regions/southeast-asia/my/report_12144"
     publisher: "Enviliance ASIA"
+  - title: "Environmental Quality (Amendment) Act 2024 (Act A1712) — full text, incl. s.1(2) commencement and new s.34A(8)"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2147523_BI/Act%20A1712.pdf"
+    publisher: "Attorney General's Chambers (lom.agc.gov.my)"
+  - title: "Environmental Quality Act 1974 (Act 127) — Online 2025 consolidated reprint (incorporates Act A1712)"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2194944_BI/Act%20127%20(Online%202025).pdf"
+    publisher: "Attorney General's Chambers (lom.agc.gov.my)"
+  - title: "Guidance Document on the EIA Consultant Registration Scheme"
+    url: "https://mycep.doe.gov.my/guidelines/GuidanceDocumentonEIAConsultantRegistrationScheme.pdf"
+    publisher: "Department of Environment Malaysia (MyCEP portal)"
+  - title: "Environmental Requirements: A Guide For Investors (Preliminary/Detailed EIA Procedures)"
+    url: "https://www.doe.gov.my/wp-content/uploads/2021/10/A-Guide-For-Investors1.pdf"
+    publisher: "Department of Environment Malaysia"
+  - title: "Environmental Quality (Prescribed Activities)(EIA) Order 2015 [P.U.(A) 195] — gazette text, paras 3-5 + First/Second Schedules"
+    url: "https://www.doe.gov.my/wp-content/uploads/2021/08/Perintah-Kualiti-Alam-Sekeliling-Aktiviti-Yang-Ditetapkan-Eia-2015.pdf"
+    publisher: "Department of Environment Malaysia / Attorney General's Chambers"
 
 entity: "Environmental Impact Assessment (Malaysia)"
 relations:
@@ -114,11 +128,11 @@ The 2015 Order divides prescribed activities into two schedules, and the differe
 | Typical scrutiny | Lighter, department-level review | Higher, with public participation |
 | Practical implication | Generally faster to a decision | Longer; feedback must be addressed |
 
-These two tracks are sometimes described informally as a lighter "preliminary" assessment versus a fuller "detailed" assessment, but the operative legal distinction today is the First Schedule / Second Schedule structure in the 2015 Order: lower-impact prescribed activities get a streamlined review, and the highest-impact ones are opened to public participation before a decision is made. (The exact history of the older terminology is not confirmed here and should be verified with the DOE.)
+These two tracks are also described as a lighter "Preliminary EIA" versus a fuller "Detailed EIA" — the DOE's own procedural terminology, which originated under the earlier Environmental Quality (Prescribed Activities)(EIA) Order 1987 that the 2015 Order expressly revoked. First Schedule activities correspond to the preliminary-EIA track (no mandatory public display) and Second Schedule activities to the detailed-EIA track (mandatory public display and public comment): lower-impact prescribed activities get a streamlined review, and the highest-impact ones are opened to public participation before a decision is made.
 
 ## Who prepares the report?
 
-An EIA report is prepared by environmental consultants engaged by the proponent, not written up in-house on an ad hoc basis. The DOE operates a registration scheme for EIA consultants, and proponents should confirm the current registration requirements — including whether the study must be led by a registered consultant — directly with the Department before appointing anyone. Consultants are generally expected to engage the DOE early — ideally at the project-identification stage — so that the scope of the assessment is agreed before fieldwork begins.
+An EIA report is prepared by environmental consultants engaged by the proponent, not written up in-house on an ad hoc basis. Since 1 June 2007, any individual involved in an EIA study must be registered under the DOE's EIA Consultant Registration Scheme, and **only DOE-registered persons may conduct an EIA study in Malaysia**. The scheme is tiered into three categories: an **EIA Consultant** — a Certified Professional in EIA (CePEIA), who leads the study team — plus **Subject Consultants** and **Assistant Consultants**. Consultants are generally expected to engage the DOE early — ideally at the project-identification stage — so that the scope of the assessment is agreed before fieldwork begins.
 
 Getting the scope, baseline studies and terms of reference right early can avoid a later, more expensive cycle of rejection and resubmission.
 
@@ -140,19 +154,17 @@ So the sequence is: identify that you have a prescribed activity → appoint a r
 
 ## What are the penalties for getting it wrong?
 
-The consequences were sharpened by the **Environmental Quality (Amendment) Act 2024**. According to Enviliance ASIA — citing a Malaysian press report — the amendment was expected to take effect on **7 July 2024**; because that source frames the date as anticipated rather than gazetted, the operative commencement date should be confirmed against the official notification.
+The consequences were sharpened by the **Environmental Quality (Amendment) Act 2024 (Act A1712)**, which came into operation on **7 July 2024** (the amendment received Royal Assent on 27 May 2024 and was gazetted on 6 June 2024, with commencement appointed by the Minister). Its terms are now reflected in the Attorney General's Chambers' consolidated reprint of Act 127.
 
-For Section 34A offences — such as carrying out a prescribed activity without an approved EIA — the amendment raised the maximum fine from RM100,000 to a fine of **not less than RM100,000 and not more than RM1 million**.
-
-On imprisonment, the Act as consolidated *before* the 2024 amendment made a Section 34A offence punishable by "a fine not exceeding one hundred thousand ringgit **or** to imprisonment for a period not exceeding five years **or** to both" (Section 34A(8)) — the penalty is worded in the alternative, not as a mandatory combination of fine and jail. The cited sources confirm the fine increase but do not confirm whether the 2024 amendment changed the five-year imprisonment term, so treat that figure as the pre-amendment position and verify the current wording with the DOE. A continuing offence also attracts a further daily fine (RM1,000 per day under the pre-amendment text) after the Director General has served a notice to comply.
+Act A1712 substituted a wholly new **Section 34A(8)**. Under the current wording, any person who contravenes Section 34A — such as carrying out a prescribed activity without an approved EIA — "shall, on conviction, be punished with imprisonment for a term not exceeding five years and shall also be liable to a fine of not less than one hundred thousand ringgit and not exceeding one million ringgit." Two things changed from the pre-amendment law: the penalty is **no longer in the alternative** — imprisonment of up to five years is now **mandatory** and is imposed *together with* a fine of **RM100,000 to RM1,000,000**, not as a fine-or-jail choice; and the current Section 34A(8) contains **no continuing/daily fine**. (Daily continuing-offence fines still appear elsewhere in the Act, but not in Section 34A.)
 
 | Item | Position |
 |---|---|
-| Governing provision | Section 34A, Environmental Quality Act 1974 |
-| Old maximum fine (pre-2024) | RM100,000 |
-| Current fine range (per Enviliance ASIA, 2024 amendment) | RM100,000 – RM1,000,000 |
-| Imprisonment (pre-amendment Act, in the alternative) | Fine, or up to 5 years, or both — confirm post-amendment wording |
-| Continuing offence | Further daily fine (RM1,000/day, pre-amendment text) after DOE notice |
+| Governing provision | Section 34A, Environmental Quality Act 1974 (Act 127) |
+| Amending Act | Environmental Quality (Amendment) Act 2024 (Act A1712), in force 7 July 2024 |
+| Imprisonment (current, mandatory) | Up to 5 years |
+| Fine (current, in addition to imprisonment) | RM100,000 – RM1,000,000 |
+| Structure | Conjunctive — imprisonment **and** fine (no longer fine-or-jail alternative); no daily continuing fine under s.34A |
 
 For many projects, the practical exposure is not only the fine but the risk of a stop-work order on a project built on unapproved ground.
 
@@ -165,4 +177,4 @@ If you are scoping a project in Malaysia, the practical checklist is short but u
 - **Budget the public display stage** into your programme if you are a Second Schedule activity — public comment is a stage, not a formality.
 - **Treat the approval conditions as live obligations** through construction and operation, with evidence ready for the DOE.
 
-Because this is an AI-assisted draft, confirm the current schedules, thresholds, consultant-registration requirements and the exact post-2024 penalty wording directly with the Department of Environment before relying on them for a live project — subsidiary legislation and guidelines are updated periodically, and your specific activity threshold is the detail that decides everything.
+Because subsidiary legislation and guidelines are updated periodically, confirm the exact schedule entry and threshold for your specific activity against the current 2015 Order before relying on it for a live project — your specific activity threshold is the detail that decides everything.
