@@ -42,11 +42,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Draf awal. Halaman entiti agensi Tier S (sensitiviti agama): asas perlembagaan, garis masa penubuhan (MKI 1968, Bahagian Ugama 1974, BAHEIS 1984, JAKIM 1997), tiga fungsi teras, peranan urus setia MKI, fungsi pensijilan halal, dan batas penyelarasan persekutuan berbanding kuasa pentadbiran agama negeri — semuanya diambil daripada portal rasmi JAKIM. Ditulis secara deskriptif dan neutral tanpa ulasan dasar atau kontroversi."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

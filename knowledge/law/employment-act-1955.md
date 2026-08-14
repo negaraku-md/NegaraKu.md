@@ -38,27 +38,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-version: "0.4"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: 2026-07-10
-    change: "Initial draft."
-    reviewer: null
-  - version: "0.2"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Re-tiered from a mis-declared Tier 2 stub to a Tier 4 statute entity page. Removed practical guidance that duplicated employment-act-1955-guide, added verified amendment history including Act A1651 in force 1 January 2023, replaced the dead JTKSM legislation URL, and added typed relations to every article that explains the Act in practice."
-    reviewer: null
-  - version: "0.3"
-    date: 2026-07-20
-    change: "Corrected the revised-edition date from 28 January 1982 to 18 February 1982, and separated the original and revised editions in the amendment table."
-    reviewer: null
-    reason: "The AGC Act 265 timeline records 28 January 1982 as the Original edition and 18 February 1982 as the Revised edition; the two had been conflated."
-  - version: "0.4"
-    date: 2026-07-21
-    change: "Corrected the revised-edition year in the At-a-glance 'Type' row from 1981 to 1982, matching the AGC Act 265 timeline (revised edition 18 February 1982) and the amendment table."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-20

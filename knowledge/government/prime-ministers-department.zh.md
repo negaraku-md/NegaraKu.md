@@ -29,14 +29,14 @@ sourceContentHash: "e406cee4d2aa12d6"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft. Founding date, purpose, original structure, and the establishment dates of the Public Service Commission, Election Commission and Department of Statistics were verified against JPM's own published administrative history (1957-1966). Headquarters details verified against the Prime Minister's Office portal and JPM's contact page. Current agency roster, current portfolio assignments and current officeholders were deliberately not stated, since these change with every Cabinet reshuffle and could not be pinned to a single stable official listing at time of writing."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

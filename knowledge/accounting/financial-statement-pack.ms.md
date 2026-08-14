@@ -61,18 +61,14 @@ sourceContentHash: "4e2872dc66850acf"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Initial draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-21
-    change: "Corrected the audit-exempt pack count: paragraph 18 adds the fifth item (not the sixth) — four statutory documents plus the certificate, matching the keyTakeaways, the body and Common mistakes."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-20

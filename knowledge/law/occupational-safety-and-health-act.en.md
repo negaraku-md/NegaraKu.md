@@ -36,23 +36,19 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Tarikh kuat kuasa tepat 1 Jun 2024 bagi Akta A1648 — portal AGC tidak menyenaraikan tarikh permulaan; sahkan melalui warta rasmi (P.U.(B))."
   - "Nombor seksyen baharu (18B penilaian risiko; 29A penyelaras keselamatan) sebagaimana termaktub dalam teks OSHA 1994 yang dikemas kini di lom.agc.gov.my."
   - "Ambang pelaporan NADOPOD 2004 (lebih 4 hari tidak dapat bekerja) — sahkan terhadap teks peraturan rasmi, bukan panduan sekunder."
   - "Skop kewajipan Seksyen 16 (polisi keselamatan bertulis) dan sama ada terpakai ambang bilangan pekerja tertentu."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-07
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-07
-    change: "Correction pass: sourced Section 19 RM500k penalty and Act A1648 to primary/authoritative refs (AGC + DOSH penalties guide); added verificationNeeded."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-07

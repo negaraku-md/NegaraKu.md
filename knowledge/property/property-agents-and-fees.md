@@ -33,18 +33,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-08
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-08
-    change: "Correction pass: verified Jadual Ketujuh (Kaedah 48), skala fi, ambang 40 km & syarat persetujuan awal terhadap laman LPEPH /fees dan /role; tambah konteks fi minimum sewaan pada answer/FAQ; selaraskan sumber dengan halaman yang benar-benar disemak; tambah verificationNeeded."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

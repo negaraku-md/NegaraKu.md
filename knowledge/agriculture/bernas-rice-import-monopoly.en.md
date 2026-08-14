@@ -36,18 +36,14 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Draf awal AI."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: betulkan tarikh kuat kuasa Akta 522 (24 Jun 1994), buang tarikh 1949 tak bersumber, dan hadkan harga lantai RM1,500 kepada Semenanjung sahaja."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

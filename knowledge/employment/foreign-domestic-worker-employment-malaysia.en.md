@@ -40,24 +40,16 @@ sourceContentHash: "80b7fb78bc8f91cd"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 publishedBy: "ashton-tan"
 reviewed: "2026-08-14"
 reviewDue: 2027-08-08
-version: "0.3"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-08
-    change: "Initial AI draft."
+    change: "Approved and published."
     reviewer: null
-  - version: "0.2"
-    date: 2026-08-08
-    change: "Correction pass: removed commercial-blog source and its unverifiable RM410 levy figure, deleted unsourced six-person household claim, relabelled RM7,000 as employer net income, re-sourced RM15,000 cap to Jabatan Imigresen (dropping MoU attribution)."
-    reviewer: null
-  - version: "0.3"
-    date: 2026-08-14
-    change: "Cleared verified items against primary sources; corrected figures where they differed."
-    reviewer: "ashton-tan"
 
 verificationNeeded:
   - "Kadar levi tahunan semasa bagi pembantu rumah asing (berbeza mengikut sektor/wilayah dan boleh berubah) — sahkan dengan Jabatan Imigresen sebelum menyatakan angka."

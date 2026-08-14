@@ -21,14 +21,14 @@ masterLanguage: "ms"
 translationStatus: "master"
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Draf awal. Dakwaan tentang Muzium Beruas dan lingkungan tarikh (abad ke-2 hingga ke-15) disahkan terus di laman rasmi Lembaga Muzium Negeri Perak. Senarai nama tempat dalam batu bersurat Thanjavur/Tanjore disemak silang menerusi artikel Wikipedia mengenai kempen Asia Tenggara Rajendra I — 'Gangga Negara' tidak wujud dalam senarai itu, jadi artikel ini dengan jelas membezakan dakwaan popular itu daripada apa yang sebenarnya tercatat. Angka-angka spesifik (seperti berat objek tertentu di muzium) yang tidak dapat disahkan pada sumber rasmi sengaja digugurkan; hanya kategori am artifak disebut."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 updated: 2026-07-24

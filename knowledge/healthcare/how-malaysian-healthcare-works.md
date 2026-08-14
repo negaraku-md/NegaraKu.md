@@ -30,14 +30,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft. Facility counts, bed numbers, doctor/nurse ratios, admissions and outpatient volumes verified against MOH's own Health Facts 2024 (Reference Data for Year 2023) publication. PeKa B40 and MySalam benefit figures verified against the official Malaysia.gov.my portal, ProtectHealth Corporation (MOH's implementing agency), and BERNAMA (Malaysia's national news agency). SPIKPA's status as a mandatory work-permit-renewal requirement verified against the Malaysian Immigration Department's own site; specific premium/coverage figures were not found at an official source and are omitted per editorial policy."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 

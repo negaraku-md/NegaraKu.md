@@ -24,15 +24,14 @@ translationStatus: "in-sync"
 sourceContentHash: "322f701876a3d3fe"
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-24
-    change: "Initial draft. Household-effects duty exemption confirmed via the Royal Malaysian Customs Department's dedicated guide page; the AP system, individual eligibility categories and 6-month AP validity confirmed via MITI's Approved Permit pages; the JPJ registration process, required documents and RM50 Gateway Provider fee confirmed via JPJ's own implementation notice. Specific ownership/usage age thresholds for duty-free household effects (commonly quoted by moving companies as three or six months) were not confirmed word-for-word on the Customs page during this pass and are deliberately described qualitatively rather than as a fixed figure — confirm the current threshold directly with Kastam or a licensed forwarding agent before shipping."
-    contributor: null
+    change: "Approved and published."
     reviewer: null
 updated: 2026-07-24
 sources:

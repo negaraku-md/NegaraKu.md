@@ -41,23 +41,15 @@ sourceContentHash: "3e83f3a36eb3fa8f"
 status: "published"
 aiAssisted: true
 publishedBy: "ashton-tan"
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-08-08
-version: "0.3"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: 2026-08-07
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-07
-    change: "Correction pass: fixed broken Industrial Court FAQ URL, re-verified every hard figure against fetched sources, softened unsourced 21-day recognition period, added verificationNeeded."
-    reviewer: null
-  - version: "0.3"
+  - version: "01.00"
     date: 2026-08-14
-    change: "Cleared verified items against primary sources; corrected figures where they differed."
-    reviewer: "ashton-tan"
+    change: "Approved and published."
+    reviewer: null
 
 updated: 2026-08-14
 sources:

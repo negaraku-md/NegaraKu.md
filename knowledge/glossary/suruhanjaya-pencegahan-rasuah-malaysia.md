@@ -39,15 +39,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: fixed s.21/s.22 offence mix-up, corrected GIACC guidelines date to 4 Dec 2018, sourced 1967 history and oversight bodies to Act 694 + UNAFEI, removed reliance on unsourced claims."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

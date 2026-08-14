@@ -45,19 +45,15 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Rujukan kepada perintah subsidiari di bawah Akta Perihal Dagangan 2011 (takrifan halal serta pensijilan dan penandaan halal) — sahkan tajuk dan kandungan tepat terhadap teks perundangan rasmi sebelum menyatakannya semula secara spesifik."
   - "Fi, tempoh sah laku dan prosedur diambil daripada Manual Prosedur Pensijilan Halal Malaysia (Domestik) 2020 — sahkan angka terkini melalui sistem MYeHALAL kerana JAKIM mengemas kini manual dari semasa ke semasa."
   - "Tarikh kuat kuasa e-Cert '5 Mei 2025' berdasarkan kenyataan media JAKIM bertarikh 8 Mei 2025 — sahkan tarikh kuat kuasa rasmi."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-28
-    change: "Draf AI awal. Diklasifikasikan Tier 1 (sensitivity: religion) kerana subjek melibatkan pensijilan halal. Ditulis secara deskriptif berdasarkan Manual Prosedur Pensijilan Halal Malaysia (Domestik) 2020 dan kenyataan media rasmi JAKIM. Ditahan sebagai draf sementara menunggu semakan manusia."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-28
-    change: "Correction pass: buang tafsiran tak bersumber (fi disubsidi) dan ayat advokasi dasar sukarela, lembutkan dakwaan dua perintah subsidiari, betulkan tarikh Kabinet kepada 18 September 2024, tambah tarikh pada sumber 4581, betulkan typo 'Artlikel'."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-28

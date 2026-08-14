@@ -27,14 +27,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Draf awal. Setiap peruntukan Perkara 105–107 dan seksyen Akta Audit 1957 disemak menerusi portal rasmi audit.gov.my; struktur jabatan dan jenis pengauditan disemak menerusi laman Fungsi Bahagian dan Soalan Lazim jabatan yang sama."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

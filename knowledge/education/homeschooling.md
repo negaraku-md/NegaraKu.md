@@ -23,15 +23,14 @@ masterLanguage: "en"
 translationStatus: "master"
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-24
-    change: "Initial draft covering Section 29A compulsory primary education, the 2025 Section 32A secondary extension, the Minister's discretionary exemption power, and how homeschooling families navigate the resulting grey area."
-    contributor: null
+    change: "Approved and published."
     reviewer: null
 updated: 2026-07-24
 sources:

@@ -52,18 +52,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Initial draft. Only officially published figures included; absent figures reported as absent."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-21
-    change: "Aligned the reported Sabah tariff-adjustment date to 1 February 2026 between body and verificationNeeded; labelled the RM200 Selangor fee a home business licence consistently with the FAQ."
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 

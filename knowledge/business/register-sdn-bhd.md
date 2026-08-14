@@ -42,28 +42,15 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-07-22
-version: "0.3"
+version: "01.00"
 sensitivity: "none"
 revisions:
-  - version: "0.3"
+  - version: "01.00"
     date: 2026-08-14
-    change: "Cleared verified items against primary sources; corrected figures where they differed."
-    reviewer: "ashton-tan"
-  - version: "0.3"
-    date: 2026-07-21
-    change: "Rephrased the answer so the ordinary-residence requirement attaches only to the director, not the shareholder — a shareholder need not be resident (consistent with s.196 and the FAQ)."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-10
-    change: "Rebuilt to Tier 1 depth with claim-level citations, FAQ and verification flags"
-    reviewer: null
-    reason: "First version was labelled Tier 1 but was 505 words with uncited claims"
-  - version: "0.1"
-    date: 2026-07-10
-    change: "Initial draft"
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded: []

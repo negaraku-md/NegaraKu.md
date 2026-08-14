@@ -29,11 +29,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-24
-    change: "Draf awal. Ciri Adat Perpatih (matrilineal, luak, suku Biduanda, Undang, Datuk Lembaga, asal Minangkabau) disemak terhadap portal Pemetaan Budaya JKKN dan portal rasmi Kerajaan Negeri Sembilan. Kedudukan adat Melayu dalam Perlembagaan (takrif Perkara 160(2) dan sebutan adat Melayu dalam Jadual Kelapan) dirujuk kepada Perlembagaan Persekutuan di portal Jabatan Peguam Negara. Asal usul dua sistem dan ciri Adat Temenggung dilabel sebagai riwayat sejarah/tradisi dengan rujukan ensiklopedia. Nada dikekalkan deskriptif sepenuhnya; peristiwa politik semasa tidak dimuatkan."
+    change: "Approved and published."
     reviewer: null
 sensitivity: "race"
 

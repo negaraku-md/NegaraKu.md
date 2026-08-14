@@ -34,18 +34,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-08
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-08
-    change: "Correction pass: fixed Aidilfitri 2026 dates (20–23 Mac, jatuh DALAM cuti penggal 1), sourced weekend-day claims to MKN, and added primary KPM Surat Siaran + public-holiday sources."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

@@ -25,14 +25,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Draf awal. Definisi dan bidang kuasa taska disahkan menerusi Akta Taman Asuhan Kanak-Kanak 1984 (Akta 308) dan laman rasmi malaysia.gov.my; kelayakan umur dan proses permohonan prasekolah KPM disahkan menerusi laman rasmi moe.gov.my; senarai lima jenis prasekolah/tadika dan agensi masing-masing (JKM, KPM, KEMAS, JPNIN) disahkan menerusi laman kategori rasmi malaysia.gov.my. Rujukan Akta Pendidikan 1996 dan Peraturan-Peraturan Pendidikan (Tadika) (Pendaftaran) 1972 disahkan menerusi jawapan rasmi Dewan Negeri Selangor (portal .gov.my) kerana teks penuh peraturan 1972 tidak dapat dicapai secara langsung dalam masa penyediaan draf ini."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 

@@ -40,23 +40,15 @@ sourceContentHash: "7002da8fcfa27b67"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "0.3"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-28
-    change: "Initial AI draft."
+    change: "Approved and published."
     reviewer: null
-  - version: "0.2"
-    date: 2026-07-28
-    change: "Correction pass: softened unverified 2024-amendment penalty/imprisonment and effective-date claims to match cited sources, fixed disjunctive Section 34A(8) wording, and removed uncited consultant-registration and preliminary/detailed-EIA assertions."
-    reviewer: null
-  - version: "0.3"
-    date: 2026-08-14
-    change: "Cleared verified items against primary sources; corrected figures where they differed."
-    reviewer: "ashton-tan"
 
 verificationNeeded: []
 

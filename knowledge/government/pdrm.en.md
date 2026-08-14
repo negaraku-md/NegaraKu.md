@@ -43,11 +43,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Draf awal. Asas perundangan, fungsi teras, rantaian perintah dan tugas am disahkan terhadap cetakan semula Akta Polis 1967 (Akta 344) terbitan Pesuruhjaya Penyemak Undang-Undang; peranan pasukan disahkan terhadap portal malaysia.gov.my; Suruhanjaya Pasukan Polis dan asas Perkara 140 disahkan terhadap laman Kementerian Dalam Negeri."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

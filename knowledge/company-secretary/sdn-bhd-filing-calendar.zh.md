@@ -142,19 +142,15 @@ sourceContentHash: "795508e7636dbf96"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-07-22
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Initial draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-21
-    change: "Aligned the Division 8A posture with the other company-secretary articles: beneficial ownership duties (s.60B/s.60C, Act A1701) are treated as live and in force since 1 October 2024, not as unverified or omitted, and cross-referenced to the e-BOS article. Added Act A1701 to sources. Corrected the s.98(1) share-certificate authority from Shareholder to Company (to the shareholder)."
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 

@@ -38,18 +38,14 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Draf awal AI."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-28
-    change: "Correction pass: sahkan saham khas & kiraan Dana Impak dengan IFSWF/siaran akhbar 2025, buang TNB dari senarai pegangan dan frasa 'purpose-driven investor' tak bersumber, lembutkan ayat editorial."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

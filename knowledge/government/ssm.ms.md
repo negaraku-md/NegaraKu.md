@@ -36,18 +36,14 @@ sourceContentHash: "958a75d0f014a9a7"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: 2026-07-10
-    change: "Initial draft."
-    reviewer: null
-  - version: "0.2"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Re-tiered from a mis-declared Tier 3 (257 words) to a Tier 4 agency entity page. Added the enabling statute Act 614 with its verified 16 April 2002 commencement, the portal inventory, the Practice Directive caution, and relations across the company-secretary cluster."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-20

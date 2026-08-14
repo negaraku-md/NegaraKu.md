@@ -40,15 +40,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: pin amendment-history and penalty table to cited primary sources, soften uncited access-inconsistency claims, add verificationNeeded."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

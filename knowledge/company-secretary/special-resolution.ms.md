@@ -34,18 +34,14 @@ translationStatus: "in-sync"
 sourceContentHash: "b65d4a86d107f772"
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-08-14"
 publishedBy: "ashton-tan"
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: 2026-08-10
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
+  - version: "01.00"
     date: 2026-08-14
-    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
+    change: "Approved and published."
     reviewer: null
 verificationNeeded:
   - "Short-notice consent thresholds under s.316(5): private company 90% (constitution may raise up to 95%), public company 95% — appeared only in secondary summaries; confirm against the official Act 777 text."

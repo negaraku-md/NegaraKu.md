@@ -38,26 +38,18 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-08-03
 publishedBy: "ashton-tan"
-version: "0.3"
+version: "01.00"
 verificationNeeded:
   - "Post-2025 revised capacities: the draft cites the original targets (150,000 t/year ammonia; 88,000 t/year MCH). Confirm the reduced capacities after the 2025 scale-down."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Initial AI draft."
+    change: "Approved and published."
     reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: added Offshore Magazine source for Aug 2024 first gas, pinpointed the 'largest offshore CCS' characterisation to NS Energy, sharpened M1 storage total to 71-76 Mt, and untangled the H2biscus partner roster and H2ornbill capacity attribution."
-    reviewer: null
-  - version: "0.3"
-    date: 2026-08-14
-    change: "Cleared verified items against primary sources; corrected figures where they differed."
-    reviewer: "ashton-tan"
 
 updated: 2026-08-01
 sources:

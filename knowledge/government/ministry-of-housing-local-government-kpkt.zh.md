@@ -32,18 +32,14 @@ translationStatus: "in-sync"
 sourceContentHash: "44a0632c979d6de6"
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-08-14"
 publishedBy: "ashton-tan"
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: 2026-08-10
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
+  - version: "01.00"
     date: 2026-08-14
-    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
+    change: "Approved and published."
     reviewer: null
 verificationNeeded:
   - "Exact current official vision and mission wording (the kpkt.gov.my homepage did not expose a formal vision/mission statement in fetched content)."

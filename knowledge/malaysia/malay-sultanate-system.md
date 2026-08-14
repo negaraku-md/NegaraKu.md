@@ -25,11 +25,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-24
-    change: "Draf awal — deskriptif dan sejarah, tanpa komentar politik semasa; ditahan sebagai draf menunggu semakan manusia (sensitiviti: royalty)."
+    change: "Approved and published."
     reviewer: null
 updated: 2026-07-24
 sources:

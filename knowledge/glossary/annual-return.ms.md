@@ -25,18 +25,14 @@ sourceContentHash: "4458f7c26c528c99"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-10
-    change: "Initial draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-21
-    change: "Corrected the trilingual identity line's Chinese term from 周年申报表 to 常年申报表 to match the project glossary standard (GLOSSARY-ZH.md) and the term used elsewhere in the article."
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 

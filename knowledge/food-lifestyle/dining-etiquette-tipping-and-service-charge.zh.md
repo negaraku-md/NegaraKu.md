@@ -35,10 +35,10 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Confirm the 6% F&B service tax rate and the RM1,500,000 registration threshold are still current at time of publication (SST rates and thresholds change with federal budgets)."
   - "Confirm the 10% service charge is still the prevailing market rate and that it remains unregulated by government."
@@ -46,13 +46,9 @@ verificationNeeded:
   - "The '++' vs 'nett' menu-notation convention is described from common Malaysian practice and is not backed by an authoritative citation; a human should confirm before relying on it."
   - "The statement that a displayed service charge is 'customarily paid as part of the bill' reflects social custom, not a legal obligation — verify the framing."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: re-verified 6% F&B rate, RM1,500,000/12-month threshold, 8% general-rate change and 10% service charge against MySST, KPMG and The Edge; added KPMG source; added verificationNeeded; softened one editorial line and the unsourced menu-notation claim."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

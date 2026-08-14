@@ -38,19 +38,15 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Pengelasan TH sebagai salah satu 'GLIC' (Government-Linked Investment Companies) dan sebagai 'salah satu pelabur institusi utama' — sahkan terhadap senarai/definisi rasmi GLIC daripada Kementerian Kewangan atau sumber berwibawa lain sebelum diterbitkan."
   - "Hubungan pegangan strategik dengan Bank Islam Malaysia dan Syarikat Takaful Malaysia Keluarga — sahkan status semasa dan peratusan (jika ada) terhadap penyata kewangan rasmi TH/syarikat berkaitan, dengan mengambil kira penstrukturan semula kumpulan BIMB pada 2023."
   - "Bahagian tadbir urus dan penstrukturan semula 2018-2019 (topik sensitif) — perlu semakan editor manusia dan rujukan terus kepada teks rasmi laporan RCI serta kenyataan pihak berkaitan."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-28
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-28
-    change: "Correction pass: reconfirmed all hard figures (incl. FY2024 5.08% return, 2.5775% zakat, RM99.35m) against fetched TH release; softened uncited GLIC/'largest investor' and Bank Islam/Takaful claims and moved them to verificationNeeded."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-28

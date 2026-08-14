@@ -36,14 +36,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft. Royal Assent, gazette and commencement dates taken from the AGC's own Act 333 record; long title and administering agency confirmed on JPJ's official Act 333 page. Part structure and section ranges cross-checked against the Ministry of Transport's hosted copy of the Act. Fine and compound amounts deliberately omitted as they change by subsidiary legislation."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

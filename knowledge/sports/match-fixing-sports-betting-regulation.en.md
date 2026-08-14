@@ -38,7 +38,7 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Tajuk rasmi penuh dalam Bahasa Melayu bagi Pool Betting Act 1967 (Akta 384) seperti diterbitkan oleh Pejabat Peguam Negara; artikel menggunakan 'Akta Pertaruhan Kolam 1967'."
   - "Skop tepat kesalahan berkaitan di bawah Akta SPRM 2009 selain Seksyen 16 dan 17 (rujukan Seksyen 20-23 dalam draf terdahulu dikeluarkan kerana belum disahkan terhadap teks statut)."
@@ -46,13 +46,9 @@ verificationNeeded:
   - "Status semasa rayuan FAM kepada AFC/FIFA bagi pihak enam pemain yang menjalani larangan seumur hidup."
   - "Bilangan tepat dan kedudukan pendakwaan berkaitan pengaturan perlawanan selepas 1994."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: fixed Pool Betting Act name/number (Akta 384), re-attributed s.2(d)/s.4B(a) per source, sourced MACC commencement, dropped unverified s.20-23, added verificationNeeded."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

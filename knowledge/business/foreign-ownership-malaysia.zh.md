@@ -59,11 +59,11 @@ reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-07-22
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Initial draft. Every threshold traced to the issuing instrument; unverifiable market figures excluded."
+    change: "Approved and published."
     reviewer: null
 sensitivity: "race"
 

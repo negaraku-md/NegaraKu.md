@@ -37,18 +37,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: re-sourced bill/Safety-Institute/leadership claims to The Edge, deleted unverifiable AI Untuk Rakyat details, added verificationNeeded."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

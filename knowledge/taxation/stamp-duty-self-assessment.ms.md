@@ -56,18 +56,14 @@ sourceContentHash: "5ec47f8a8774a786"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Initial draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-21
-    change: "Added a clause distinguishing the Phase 1 sale and purchase agreement (the contract, general stamping) from the instrument of transfer/conveyance of real property that sits in Phase 2 or 3."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-20

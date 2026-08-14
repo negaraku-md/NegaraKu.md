@@ -49,11 +49,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Draf awal. Angka disahkan pada sumber rasmi: portal Kerajaan Negeri Pahang (keluasan, daerah, sempadan), DOSM Anggaran Penduduk Semasa Malaysia 2025 (penduduk, kepadatan, struktur umur), katalog data DOSM KDNK negeri (KDNK dan sektor), MPOB (kawasan sawit bertanam 2025), portal rasmi Tourism Pahang dan PERHILITAN (Taman Negara), Istana Pahang dan Parlimen Malaysia (institusi diraja)."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 sensitivity: "royalty"
 

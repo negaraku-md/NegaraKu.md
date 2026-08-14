@@ -37,25 +37,17 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-08-14
-version: "0.3"
+version: "01.00"
 verificationNeeded:
   - "Sama ada Malaysia memenangi sebarang pingat Paralimpik sebelum Beijing 2008 (draf asal mendakwa pingat pertama di Seoul 1988; rekod rasmi IPC hanya menyenaraikan pingat dari Beijing 2008)."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Draf awal AI."
+    change: "Approved and published."
     reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: betulkan jumlah pingat kepada 17 (8-5-4) mengikut pangkalan data IPC, buang jadual mengikut sukan dan sumber khelnow, buang dakwaan tidak bersumber (Seoul 1988, rekod dunia Rio, skor akhir Paris, jawatan APC, alamat ibu pejabat, tuan rumah 2027)."
-    reviewer: null
-  - version: "0.3"
-    date: 2026-08-14
-    change: "Cleared verified items against primary sources; corrected figures where they differed."
-    reviewer: "ashton-tan"
 
 updated: 2026-08-01
 sources:

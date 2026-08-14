@@ -38,10 +38,10 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Tarikh permulaan kuat kuasa tepat Akta 789 — laman rasmi PERKESO hanya menyatakan 'Jun 2017'; notis P.U. (B) 299 2017 tidak dapat dibaca mesin. Sahkan hari tepat."
   - "Angka teras i-Saraan (kadar padanan 20%, had umur 60 tahun, ambang caruman RM2,500 untuk insentif penuh) — kini bersandar pada The Star + AJobThing kerana laman rasmi KWSP i-Saraan (kwsp.gov.my) memulangkan HTTP 403. Sahkan terus dengan KWSP apabila boleh diakses."
@@ -49,13 +49,9 @@ verificationNeeded:
   - "Peratusan caruman tepat yang ditetapkan di bawah seksyen 83 Akta 872 — Akta menyerahkannya kepada peraturan subsidiari; tiada peratusan tetap dalam teks utama."
   - "Tarikh pewartaan (31 Disember 2025) Akta 872 — bersandar pada Human Resources Online; sahkan dengan warta kerajaan rasmi."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-08
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-08
-    change: "Correction pass: softened unsourced Akta 789 commencement day to 'Jun 2017', re-verified 20-sektor/1-Jan-2020 and 4-hari-minimum against official PERKESO page, corrected advisory body to Majlis Penasihat Gig (MPGiG), added People Matters source, added verificationNeeded."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-08

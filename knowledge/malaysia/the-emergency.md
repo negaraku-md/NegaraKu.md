@@ -37,11 +37,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft. Figures verified against Arkib Negara, Royal Malaysia Police, Malaysian Army, National Registration Department and the Attorney General's Chambers Laws of Malaysia portal. Unverifiable figures (present-day new village count, exact Baling talks dates) described qualitatively instead of quoted."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

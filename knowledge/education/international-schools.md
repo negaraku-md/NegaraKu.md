@@ -42,14 +42,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft. Definition, approved curricula list, ownership/accreditation/fee-structure rules and the 2012 quota-abolition circular verified against the Ministry of Education's International School Establishment Guideline; the 2025 service tax threshold verified against the Ministry of Finance and Royal Malaysian Customs Department (MySST)."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

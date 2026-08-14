@@ -39,15 +39,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Draf awal AI."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: tambah Perlembagaan Persekutuan (Cetakan Semula 2020, AGC) sebagai sumber utama bagi tuntutan Perkara 46 (222 kerusi) yang sebelum ini tidak bersumber; tambah verificationNeeded; catat ketidakpadanan slug URL sumber #3 (fail Jadual Ketiga Belas)."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

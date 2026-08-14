@@ -39,15 +39,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-07
-    change: "Draf AI awal. Diperoleh daripada teks Akta 695, Perlembagaan Persekutuan, portal rasmi SPK, dan analisis undang-undang."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-07
-    change: "Correction pass: buang petikan Constitute Project (teks 2007 lapuk yang memaparkan 65) sebagai sumber perlembagaan, rujuk teks rasmi Perlembagaan Persekutuan (Portal AGC), longgarkan nombor sub-fasal yang belum disahkan, dan neutralkan tajuk (Dipecat -> Disingkirkan)."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

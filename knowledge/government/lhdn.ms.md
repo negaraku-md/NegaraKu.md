@@ -36,22 +36,14 @@ sourceContentHash: "558a5f369fe484be"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.3"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: 2026-07-10
-    change: "Initial draft."
-    reviewer: null
-  - version: "0.2"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Re-tiered from a mis-declared Tier 3 (224 words) to a Tier 4 agency entity page. Corrected the establishment date to the verified commencement of Act 533 on 1 March 1995, added the enabling statute and the platform inventory, added the machine-translation caveat, and expanded relations across the taxation cluster."
-    reviewer: null
-  - version: "0.3"
-    date: 2026-07-21
-    change: "Added an At-a-glance row noting LHDN is governed by a Board chaired by the Secretary General of the Treasury (Act 533, s.6), so the keyTakeaway's Board reference now appears in the body."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-20

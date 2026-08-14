@@ -23,15 +23,14 @@ translationStatus: "in-sync"
 sourceContentHash: "4ae828e3e8725114"
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Draf awal. Menerangkan kumpulan racun (A, B, C) di bawah Akta Racun 1952, keperluan preskripsi bagi Racun Kumpulan B, jualan Racun Kumpulan C tanpa preskripsi, peraturan bahan psikotropik, dan cara menyemak pendaftaran produk melalui Quest3+ (NPRA)."
-    contributor: null
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 updated: "2026-07-24"

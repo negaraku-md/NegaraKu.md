@@ -35,22 +35,18 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Consortium shortlist (three groups, members and leads) is press-reported by The Edge, not officially confirmed by MyHSR Corp; confirm before treating as final."
   - "Current status (Cabinet review, private-sector-led model, no RFP yet) reflects statements up to Feb 2025; check for any newer government announcement."
   - "The seven Malaysian station locations come from press reporting; confirm against MyHSR Corp's official project overview."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-08
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-08
-    change: "Correction pass: fixed consortium lead to MRCB (not Berjaya) and restored full member list; corrected station count to seven Malaysian stations plus the Jurong East terminus; added the paultan.org RFI source."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-08

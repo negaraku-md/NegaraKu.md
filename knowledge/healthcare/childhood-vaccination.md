@@ -30,15 +30,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-24
-    change: "Draf awal. Kewujudan dan struktur Program Imunisasi Kebangsaan sejak awal 1950-an, sifat percuma di klinik kerajaan, dan senarai 13 penyakit yang dilindungi disahkan melalui Immunise4Life (inisiatif pendidikan kesihatan yang digerakkan bersama Kementerian Kesihatan Malaysia, Persatuan Pediatrik Malaysia dan Persatuan Penyakit Berjangkit & Kemoterapi Malaysia). Kewujudan Jadual Imunisasi Kebangsaan sebagai dokumen rasmi terkini (dikemas kini Ogos 2023) dan penerbitnya (Bahagian Pendidikan Kesihatan, KKM) disahkan melalui infosihat.moh.gov.my. Kewujudan Buku Rekod Kesihatan Bayi dan Kanak-kanak dan keperluan membawanya ke setiap lawatan klinik/hospital disahkan melalui portal rasmi malaysia.gov.my. Dos dan umur suntikan tertentu sengaja tidak dinyatakan kerana tidak dapat disahkan penuh pada sumber rasmi semasa penulisan (dokumen berformat imej/PDF)."
-    contributor: null
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

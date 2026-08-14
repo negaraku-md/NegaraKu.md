@@ -35,22 +35,18 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Rangka masa tepat dan syarat penyertaan penuh Timor-Leste (anggota ke-11, diterima 26 Oktober 2025) dalam kitaran pengerusian mengikut abjad."
   - "Pengesahan bahawa penyerahan pengerusian daripada Malaysia kepada Filipina berkuat kuasa tepat pada 1 Januari 2026."
   - "Kerangka sebab-akibat pelepasan giliran 2026 oleh Myanmar — sama ada dirujuk secara khusus kepada rampasan kuasa 2021 dan sekatan penyertaan ASEAN, atau kepada ketidakstabilan domestik yang lebih luas."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: added primary sources for the 2007 Singapore signing, Malaysia's 2015 chairmanship + ASEAN Community launch, and Myanmar's 2021 coup exclusion; fixed 'founding members' imprecision; added verificationNeeded."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

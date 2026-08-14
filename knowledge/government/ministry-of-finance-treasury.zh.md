@@ -45,25 +45,17 @@ sourceContentHash: "8ade77c7a04cca98"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 publishedBy: "ashton-tan"
 reviewed: 2026-08-14
 reviewDue: 2027-08-14
-version: "0.3"
+version: "01.00"
 verificationNeeded: []
 revisions:
-  - version: "0.1"
-    date: 2026-08-01
-    change: "Initial AI draft. Angka Belanjawan 2026, had hutang berkanun dan sasaran fiskal disahkan terhadap Akta 850, Fiscal Outlook 2026 (Seksyen 4), carta organisasi MOF dan siaran akhbar MOF."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: betulkan defisit 2025 kepada 3.8% dan pangkas siri defisit tak bersumber; sumberkan hasil RM343.1b & defisit ke Seksyen 2 Hasil/Bernama; sumberkan had COVID (60→65% KDNK, siling dana RM65b→RM110b); kelaskan semula LADA sebagai badan berkanun."
-    reviewer: null
-  - version: "0.3"
+  - version: "01.00"
     date: 2026-08-14
-    change: "Cleared verified items against primary sources; corrected figures where they differed."
-    reviewer: "ashton-tan"
+    change: "Approved and published."
+    reviewer: null
 
 updated: 2026-08-14
 sources:

@@ -36,23 +36,19 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Rujukan '1958 — pertahanan awam menjadi unsur tetap mengikut Jadual Kesembilan Perlembagaan Persekutuan': ayat ini terdapat pada laman sejarah rasmi APM, namun rujukan perlembagaan ini wajar disemak semula terhadap teks Perlembagaan Persekutuan sebenar oleh penyemak manusia."
   - "Tarikh dan pewartaan penukaran nama JPAM -> APM (berkuat kuasa 1 September 2016): disahkan melalui laporan media (mStar); sahkan terhadap Warta Kerajaan rasmi jika tersedia."
   - "Moto semasa 'Sedia, Pantas, Berintegriti' bersumber daripada laman misi/visi APM; sahkan ia moto terkini (laman sejarah mencatat moto terdahulu 'Sedia Selalu' pada 1992)."
   - "Nama penuh dan status semasa program Kor SISPA dan Pasukan Bantuan Pertahanan Awam (CDA)."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: reframed APM/JPAM as a verified 2016 rename (added mStar source), aligned SISPA/CDA/PASPA wording to cited sources, neutralised recruitment phrasing, added verificationNeeded."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

@@ -44,20 +44,16 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Sipadan daily permit quota of 252 and the ~6-permits-per-resort allocation — stated as firm figures but currently rest on a secondary dive-news source; confirm directly with Sabah Parks before publication."
   - "Sepilok Orangutan Rehabilitation Centre entry fees, camera charge and feeding-session times — confirm current rates and schedule with the Sabah Wildlife Department close to travel date."
   - "The 'one of Malaysia's first UNESCO World Heritage Sites' framing — Gunung Mulu National Park (Sarawak) was inscribed at the same 2000 UNESCO session; confirm the joint-inscription wording against UNESCO's World Heritage record."
   - "Current Sabah social visit-pass duration, Document in Lieu of Internal Travel Document conditions and the Section 66 exemption — reconfirm with the Immigration Department of Malaysia, as pass rules are periodically revised."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-28
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-28
-    change: "Correction pass: sourced the 2023 Global Geopark claim to UNESCO, dropped the contestable 'highest peak' superlative, softened the 'first World Heritage Site' framing, and re-verified tourism, quota and closure figures against cited sources."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-28

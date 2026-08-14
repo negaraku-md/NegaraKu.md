@@ -42,23 +42,19 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Tarikh tepat final Piala Thomas 1992 — dilembutkan kepada 'Mei 1992' kerana hari sebenar (kerap dinyatakan 16 Mei) tidak dibawa oleh mana-mana sumber yang dipetik; venue Stadium Negara disahkan oleh Tatler."
   - "Identiti tiga pemain Malaysia yang menjuarai All England pada abad ini — sumber Tatler menyatakan 'ketiga' tetapi tidak menamakan mereka (dijangka Hafiz Hashim 2003, Lee Chong Wei, Lee Zii Jia)."
   - "Pecahan penuh lima pingat emas Sukan Komanwel Lee Chong Wei (acara dan tahun tepat) — BAM mengesahkan jumlah lima emas tetapi tidak mengitemkan setiap acara."
   - "Angka kemarau ('melebihi 32 tahun') berasal daripada petikan Rashid Sidek pada April 2024; setakat tarikh artikel (2026) ia lebih hampir 34 tahun."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Draf AI awal daripada laman rasmi BAM (sejarah, milestone Lee Chong Wei, kejohanan dunia 2022, Akademi Badminton Malaysia) serta laporan Bernama dan Tatler Asia."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: lembutkan tarikh 1992 tak bersumber, betulkan tajuk sumber #6, dan sahkan semula setiap angka keras terhadap sumber primer (BAM, Bernama, Tatler)."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

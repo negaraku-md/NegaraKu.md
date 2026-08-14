@@ -48,17 +48,15 @@ sourceContentHash: "8132a0298fe4934d"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Initial draft."
-  - version: "0.2"
-    date: 2026-07-21
-    change: "Added the year to the OSHA reference in the second keyTakeaway (OSHA 1994) to match the year used in the other keyTakeaway, the FAQ and the body."
+    change: "Approved and published."
+    reviewer: null
 
 updated: 2026-07-20
 sources:

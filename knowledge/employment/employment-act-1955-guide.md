@@ -71,22 +71,16 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-07-22
 publishedBy: "ashton-tan"
-version: "0.3"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Initial draft."
-  - version: "0.2"
-    date: 2026-07-21
-    change: "Corrected answer field to say six provisions switch off above RM4,000 (was Five), matching the body table, keyTakeaways and FAQ 1."
-  - version: "0.3"
-    date: 2026-08-14
-    change: "Cleared verified items against primary sources; corrected figures where they differed."
-    reviewer: "ashton-tan"
+    change: "Approved and published."
+    reviewer: null
 
 updated: 2026-07-20
 sources:

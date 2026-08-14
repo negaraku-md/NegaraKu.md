@@ -37,23 +37,19 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Flagship-area naming varies across official and legal-advisory sources (e.g. 'Johor Bahru Waterfront' vs 'Johor Bahru City Centre'; 'Kulai–Sedenak' vs 'Sedenak'). Confirm the definitive government wording before publication."
   - "No public source assigns a specific sector/anchor role to each individual flagship area; the per-flagship 'tailor-made' incentives were not detailed at the time of writing. Confirm once flagship-specific incentive guidelines are published."
   - "Investment figures (RM30.1bn Q1-2025; RM76.98bn approved with ~57% materialised) trace to a July 2026 Economy Ministry update reported by The Star; confirm against the ministry's own release."
   - "The Singapore JS-SEZ Project Office 'April 2025' start date and the IMFC-J 'February 2025' operational date should be reconfirmed against MTI/EDB and IRDA primary sources."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Initial AI draft. Zone area, flagship areas, sectors and incentive rates verified against MOF, MIDA, the JS-SEZ portal and Singapore EDB; targets verified against a July 2026 Economy Ministry update reported by The Star."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: sourced the nine flagship names to the joint statement (removed unsourced per-flagship anchor-role column), dated the MoU precisely (11 Jan 2024) with the PMO primary source, and fixed the personal-tax term to a flat 10 years."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

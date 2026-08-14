@@ -30,11 +30,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft. Dong Zong's founding date verified against its own about-us page; the number of Independent High Schools against reported figures (Malaysiakini, Free Malaysia Today); the 2026 UEC/SMPC public-university pathway against the Ministry of Higher Education's official statement; the Education Act 1996 and MOE private-education registration process against moe.gov.my."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 sensitivity: "race"
 

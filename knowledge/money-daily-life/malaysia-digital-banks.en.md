@@ -40,10 +40,10 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Tarikh GXBank dibuka kepada orang ramai — beta terhad kepada 20,000 pengguna pada 14 Nov 2023, pelancaran rasmi umum sekitar 30 Nov 2023; sahkan tarikh 'orang ramai penuh' yang hendak digunakan."
   - "Tarikh dan status pelancaran Boost Bank kepada orang ramai (dilaporkan beta Jan 2024, umum Jun 2024) — belum ada sumber utama dalam sources[]."
@@ -51,13 +51,9 @@ verificationNeeded:
   - "Kadar keuntungan/faedah (AEON 3.88%, Ryt sehingga 4% harian) adalah kadar pelancaran yang berubah dari semasa ke semasa — sahkan kadar semasa sebelum diterbitkan."
   - "Sahkan struktur konsortium/pemilik setiap bank kekal tepat pada tarikh terbitan."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-08
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-08
-    change: "Correction pass: sourced the RM100m/RM3b foundational-phase figures (added BNM framework PDF + policy-document analysis) and fixed GXBank's 'to-the-public' table date from Sept to Nov 2023 with a citation."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-08

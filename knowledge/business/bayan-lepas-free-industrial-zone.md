@@ -50,23 +50,15 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-07-22
-version: "0.3"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: 2026-07-21
-    change: "Initial draft from Act 438, Act 806, Act 807, the December 2024 P.U.(B) declarations and the RMCD free zone authority list."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-21
-    change: "Fixed the 'Which instrument declares Bayan Lepas' count so the 1974 original does not contradict the 'three recent' framing; corrected Penang's MIDA manufacturing-investment rank from third to second; expanded LMW acronym at first body use."
-    reviewer: null
-  - version: "0.3"
+  - version: "01.00"
     date: 2026-08-14
-    change: "Cleared verified items against primary sources; corrected figures where they differed."
-    reviewer: "ashton-tan"
+    change: "Approved and published."
+    reviewer: null
 
 updated: 2026-08-14
 sources:

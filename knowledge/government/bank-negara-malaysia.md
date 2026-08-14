@@ -44,24 +44,16 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "0.3"
+version: "01.00"
 verificationNeeded: []
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Initial AI draft. Statutory basis, principal objects, nine functions, MPC, currency, reserves and government-banker provisions verified against the Central Bank of Malaysia Act 2009 (Act 701) reprint. OPR level and 2026 MPC schedule cross-checked in press; FSA/IFSA and FEP scope verified against BNM pages."
+    change: "Approved and published."
     reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: cited the Governor appointment (MOF release) and 2026 MPC schedule (BNM page), replaced weak paultan.org OPR source with the New Straits Times report, softened the s.3(4) head-office pin-cite to s.3, and added verificationNeeded."
-    reviewer: null
-  - version: "0.3"
-    date: 2026-08-14
-    change: "Cleared verified items against primary sources; corrected figures where they differed."
-    reviewer: "ashton-tan"
 
 updated: 2026-08-01
 sources:

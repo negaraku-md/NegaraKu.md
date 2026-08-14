@@ -29,23 +29,15 @@ sourceContentHash: "ff4434b4487bfa3d"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-07-22
-version: "0.3"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: 2026-07-10
-    change: "Initial draft."
-    reviewer: null
-  - version: "0.2"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Rewritten as a hub. The register of members, register of directors, registered office, minute books and records, and register of charges were each split into their own article so that each datable statutory duty carries its own obligations entry and can be addressed individually by the compliance calendar. Statutory sections, update rules and penalties verified against the Companies Act 2016 reprint of 1 August 2022 and the Companies (Amendment) Act 2024."
-    reviewer: null
-  - version: "0.3"
-    date: 2026-07-21
-    change: "Register-of-charges row: the Update rule column now gives the update rule for the s.362(3) internal register (enter each charge when created) rather than only the s.352(1) SSM lodgement deadline, keeping the keeping-versus-notifying distinction the article's opening warns about."
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 

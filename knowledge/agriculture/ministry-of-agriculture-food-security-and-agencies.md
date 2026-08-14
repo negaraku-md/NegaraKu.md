@@ -35,23 +35,19 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Sasaran peratusan dan tahun khusus bagi Tahap Sara Diri (SSL) beras — angka '80% menjelang 2030' dibuang kerana tidak dapat disahkan terhadap sumber utama (halaman DAN 2.0 rasmi tidak dapat dicapai; belanjawan carian web telah habis). Sahkan dengan dokumen Dasar Agromakanan Negara (DAN 2.0) rasmi sebelum menyatakan sebarang angka SSL."
   - "Bilangan tepat Kawasan Pembangunan Pertanian Bersepadu (IADA). Angka '12' dibuang; direktori rasmi KPKM (department-and-agency-links) kini nampaknya menyenaraikan kira-kira 13 IADA berdasarkan bacaan automatik — sahkan kiraan semasa secara manual pada direktori rasmi."
   - "Bahawa Taman Botani Negara Shah Alam dan Pejabat Kawalselia Padi dan Beras masih diselia di bawah KPKM (dibaca daripada direktori rasmi; sahkan status semasa)."
   - "Susunan semasa FELDA — sama ada masih di luar KKDW atau telah dipindahkan — kerana terdapat cadangan awam untuk meletakkannya di bawah KKDW."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Initial AI draft. Directory of departments/agencies verified at kpkm.gov.my; FELCRA/RISDA parentage verified at rurallink.gov.my; BERNAS history at bernas.com.my; Act 522 and concession review verified at mkn.gov.my, kpkm.gov.my and Free Malaysia Today."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: removed unsourced rice SSL 80%/2030 figure, softened unverified '12 IADA' count to reference the directory, and tightened Chan Foong Hin attribution to the verified Dewan Rakyat winding-up of the Control of Padi and Rice (Amendment) Bill 2026."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

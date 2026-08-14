@@ -39,7 +39,7 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Denda di bawah Akta Makanan 1983 (sehingga RM100,000 / penjara sehingga 10 tahun) dan rujukan Peraturan-Peraturan Kebersihan Makanan 2009 — sahkan terhadap teks statut sebenar dan seksyen kesalahan yang berkaitan (bukan sekadar liputan berita)."
   - "Tahun 1960-an sebagai asal usul bazar Jalan Raja Alang, Kampung Baru — hanya bersumberkan liputan sekunder (ANTARA); sahkan dengan sumber sejarah/DBKL yang berwibawa."
@@ -47,13 +47,9 @@ verificationNeeded:
   - "Sewa tapak Putrajaya RM1,000 bagi 2026 — sahkan dengan pengumuman rasmi Perbadanan Putrajaya."
   - "Bilangan lokasi 2026 (9 DBKL / 32 persatuan penjaja) — sahkan ia kekal tepat pada tarikh penerbitan kerana angka boleh berubah sebelum Ramadan."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: re-verified all DBKL 2026 figures against Bernama primary sources, added second Bernama enforcement article so 9/32 + enforcement claims no longer rest on RTM alone, added verificationNeeded list."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

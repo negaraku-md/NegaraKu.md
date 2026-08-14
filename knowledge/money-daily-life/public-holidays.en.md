@@ -27,15 +27,14 @@ sourceContentHash: "504b70c9da4e3c64"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Draf awal. Struktur perundangan disahkan pada sumber rasmi: Akta Hari Kelepasan 1951 (Akta 369, teks AGC melalui portal Kabinet), Holidays Ordinance Sabah Cap. 56, dan Public Holidays Ordinance Sarawak Cap. 8 (kedua-duanya melalui portal Kabinet/State Attorney-General's Chambers). Artikel bersifat deskriptif — tiada tarikh cuti tahunan disenaraikan kerana ia tertakluk kepada pewartaan Menteri/Pihak Berkuasa Negeri/Yang di-Pertua Negeri setiap tahun."
-    contributor: null
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 

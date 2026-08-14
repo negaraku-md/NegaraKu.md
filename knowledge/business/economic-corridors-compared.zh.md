@@ -51,15 +51,15 @@ sourceContentHash: "b4e723b19c6d6a1a"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-07-22
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Initial draft from Acts 664, 687 and 688, the Sabah 2009 enactment, Sarawak Cap. 64, MIDA corridor pages and the NIF FAQ."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-20

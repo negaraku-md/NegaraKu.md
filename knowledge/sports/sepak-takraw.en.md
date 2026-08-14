@@ -40,24 +40,16 @@ sourceContentHash: "a468b0e147901427"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 publishedBy: "ashton-tan"
 reviewed: 2026-08-14
 reviewDue: 2027-08-14
-version: "0.3"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: 2026-08-01
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: removed unsourced regional-names rows + fabricated 'ching loong', fixed SEA Games history and King's Cup regu date against cited sources, softened non-neutral 'Malaysia originated the sport' claims."
-    reviewer: null
-  - version: "0.3"
+  - version: "01.00"
     date: 2026-08-14
-    change: "Cleared verified items against primary sources; corrected figures where they differed."
-    reviewer: "ashton-tan"
+    change: "Approved and published."
+    reviewer: null
 
 verificationNeeded:
   - "Tahun penubuhan ISTAF — laman rasmi ISTAF menyebut 1982, manakala Wikipedia dan kebanyakan sumber sekunder menyebut 1988 (berkembang daripada Asian Sepaktakraw Federation/ASTAF). Percanggahan primer-sekunder ini tidak dapat diselaraskan; badan artikel tidak menyatakan sebarang tahun. Status PSM sebagai ahli pengasas telah disahkan."

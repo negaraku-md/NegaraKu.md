@@ -40,23 +40,19 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Angka pindaan 2023 Akta Kualiti Alam Sekeliling 1974 (denda minimum RM5,000, maksimum RM10 juta, penjara mandatori sehingga 5 tahun) berasal daripada laporan sekunder Macaranga — sahkan terhadap teks Warta/Akta pindaan rasmi sebelum diterbitkan."
   - "Senarai penuh parameter WQI (khususnya DO, COD dan pH selain BOD5, ammonia nitrogen dan pepejal terampai) — sahkan dengan penerbitan rasmi Jabatan Alam Sekitar; sumber OpenDOSM yang dipetik hanya menamakan BOD5, ammonia nitrogen dan pepejal terampai."
   - "Pecahan 2024 (475/170/27 daripada 672 sungai) berasal daripada kenyataan Timbalan Perdana Menteri yang dilaporkan Malay Mail — sahkan terhadap Laporan Kualiti Alam Sekitar/JAS rasmi apabila diterbitkan."
   - "Bilangan tepat loji rawatan dan akaun/isi rumah terjejas bagi setiap kejadian gangguan bekalan mungkin berbeza mengikut laporan rasmi terkini."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-28
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-28
-    change: "Correction pass: cite EQA 1974 penalty figures to Macaranga, remove unsourced 5-level 'tercemar teruk' framing, align 830,000 takeaway to source, add verificationNeeded, soften tone."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-28

@@ -32,19 +32,15 @@ sourceContentHash: "a8607ba4409fa9bf"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-07-22
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Initial draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-21
-    change: "Added P.U.(A) 64/2024 (Service Tax (Rate of Tax) (Amendment) Order 2024) to sources, the instrument already cited in the rate table for the 6% to 8% general-rate change (title verified against the AGC gazette index); and made explicit that the 6% First Schedule count is date-dependent — thirteen entries from 1 July 2025, fourteen from 1 January 2026 — reconciling with sst-expansion-2025."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-20

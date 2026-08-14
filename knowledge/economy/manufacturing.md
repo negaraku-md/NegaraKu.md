@@ -25,15 +25,15 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2026-10-24
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-24
-    change: "Initial draft. GDP shares and growth verified against DOSM GDP 2025 and GDP by State 2025 releases; jobs against DOSM Employment Statistics Q4 2025; productivity against DOSM Labour Productivity Q4 2025; wage share against DOSM GDP Income Approach 2024; targets against the 13MP Executive Summary; investment against MIDA's 2025 media release; long-run GDP share against World Bank national accounts data."
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 

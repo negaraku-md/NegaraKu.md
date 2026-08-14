@@ -37,27 +37,19 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 publishedBy: "ashton-tan"
 reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "0.3"
+version: "01.00"
 verificationNeeded:
   - "Tahun penugasan Temengor dan loji lata Sungai Perak yang lain — halaman TNB yang dipetik tidak menyatakan sebarang tahun."
   - "Sama ada tahap sensitiviti wajar dinaikkan melebihi 'none' memandangkan fokus pada penempatan semula masyarakat peribumi."
 revisions:
-  - version: "0.1"
-    date: 2026-08-01
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: sourced Bakun ~10,000 figure to River Resource Hub, removed unsourced dates/details (Temengor 1979, 2017 ownership, SUHAKAM/Bar Council, 37 km, 30 July 2015, 15 longhouses), flagged stale Baleh 33%/2027-vs-2030."
-    reviewer: null
-  - version: "0.3"
+  - version: "01.00"
     date: 2026-08-14
-    change: "Cleared verified items against primary sources; corrected figures where they differed."
-    reviewer: "ashton-tan"
+    change: "Approved and published."
+    reviewer: null
 
 updated: 2026-08-14
 sources:

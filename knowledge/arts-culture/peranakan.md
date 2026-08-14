@@ -25,11 +25,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft. Community described factually and neutrally. Cultural facts checked against the UNESCO World Heritage listing for Melaka and George Town (2008), the UNESCO intangible heritage decision on kebaya (2024), George Town World Heritage Incorporated, the Baba Nyonya Heritage Museum and the National Heritage Act framework. Contested folk-origin dates deliberately described qualitatively rather than pinned to a single year."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 updated: 2026-07-24
 sources:

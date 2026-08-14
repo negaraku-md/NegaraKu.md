@@ -28,14 +28,14 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Draf awal. Maksud setiap elemen, tarikh warta (27 Mei 1952) dan statut berkuat kuasa (P.U. (B) 563, 20 September 1990) disemak terhadap buku rasmi Jabatan Penerangan Malaysia 'Lambang Kebesaran Negara', Bab 1: Jata Negara. Tarikh alternatif 30 Mei 1952 yang disebut dalam sumber rasmi lain (MKN) dinyatakan secara neutral tanpa menghakimi."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

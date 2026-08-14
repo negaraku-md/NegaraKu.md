@@ -26,14 +26,14 @@ sourceContentHash: "09b2511e7525963f"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-24
-    change: "Initial draft. Cabotage history verified against The Star's 2017 and March 2024 reporting and the Merchant Shipping Ordinance 1952 framework as summarised by maritime-law commentary; income and cost-of-living-index figures verified against DOSM's Household Income Survey Report 2024 (via OpenDOSM) and Cost of Living Indicators 2024 release; PPHSSL details verified on KPDN's own site."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

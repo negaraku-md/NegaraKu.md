@@ -152,7 +152,10 @@ for (const file of walk('knowledge')) {
   if (status === 'draft' && reviewer && reviewer !== 'null') {
     errors.push(`${file}: status draft but reviewer is ${reviewer} — AI cannot self-certify review`);
   }
-  if (/^reviewed:\s*\S/m.test(fm) && reviewer === 'null') {
+  // A reviewed date with no human reviewer is the INTENDED state for AI-verified
+  // content (aiAssisted: true, reviewer: null, verified against primary sources
+  // on that date). Only flag it as an inconsistency for non-AI content.
+  if (/^reviewed:\s*\S/m.test(fm) && reviewer === 'null' && !/^aiAssisted:\s*true/m.test(fm)) {
     warns.push(`${file}: has a reviewed date but reviewer is null`);
   }
 

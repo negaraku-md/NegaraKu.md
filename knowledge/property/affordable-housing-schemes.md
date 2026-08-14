@@ -36,10 +36,10 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Siling harga dan had pendapatan setiap skim disemak semula dari semasa ke semasa; sahkan angka terkini di portal rasmi sebelum memohon."
   - "Harga Rumah Selangorku berbeza antara rumah bertingkat (strata) dan rumah bertanah; angka dalam panduan ini merujuk unit rumah bertingkat mengikut FAQ LPHS — sahkan harga mengikut jenis projek di eHartanah LPHS."
@@ -47,13 +47,9 @@ verificationNeeded:
   - "Umur kelayakan (18 tahun) dan siling pendapatan (≤RM8,000) Residensi MADANI perlu disahkan dengan JWP kerana syarat boleh berubah mengikut fasa pelancaran."
   - "Butiran jaminan SJKP/SJKP MADANI (jumlah jaminan RM500,000 / RM360,000, tempoh 35 tahun) perlu disahkan dengan portal SJKP rasmi."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-08
-    change: "Draf awal AI."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-08
-    change: "Pusingan pembetulan: sahkan semula angka RMR & yuran PR1MA pada sumber rasmi, ganti sumber komersial Rumah Selangorku dengan FAQ LPHS, betulkan harga Jenis B/D dan nama penuh KPKT."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-08

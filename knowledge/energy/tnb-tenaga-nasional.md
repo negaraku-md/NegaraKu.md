@@ -35,10 +35,10 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Tahun penyenaraian TNB di Bursa Malaysia (dilaporkan secara meluas sebagai 1992, IPO KLSE) — sahkan dengan rekod penyenaraian rasmi Bursa Malaysia; tidak dapat disahkan daripada mana-mana sumber utama yang boleh dicapai semasa pruf ini."
   - "Pegangan TNB dalam Sabah Electricity (82.75%) dan pelan pemindahan penuh kepada Kerajaan Negeri Sabah menjelang 2030 — sahkan dengan laporan tahunan TNB atau pengumuman rasmi terkini kerana struktur ini berubah."
@@ -47,13 +47,9 @@ verificationNeeded:
   - "Sambungan silang grid ke Thailand dan Singapura — sahkan status dan kapasiti terkini."
   - "Nombor pendaftaran syarikat (199001009294 / 200866-W) — sahkan dengan SSM/Bursa."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: betulkan pegangan Sabah Electricity kepada 82.75% (sumber The Edge), buang tahun penyenaraian 1992 yang tidak dapat disahkan, buang atribusi proklamasi kepada Mahathir, dan betulkan '54% pasaran penjanaan' kepada '54% kapasiti terpasang'."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

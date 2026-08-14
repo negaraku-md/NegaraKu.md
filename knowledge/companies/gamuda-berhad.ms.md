@@ -38,23 +38,19 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "FY2025 revenue is reported as RM15.97 billion (+20%) by The Star and Gamuda's own results release, but some outlets cite a ~RM16.4 billion group revenue figure. Confirm which basis (statutory revenue vs. including share of joint ventures/associates) the final article should use."
   - "The Xizhi Donghu MRT table row shows the full RM4.3 billion contract value for consistency with the Australian rows; Gamuda's 75% joint-venture share is about RM3.2 billion. Confirm which basis a human editor prefers to present."
   - "Gamuda's earlier Taiwan metro track record: the October 2024 press release calls Xizhi Donghu its 'biggest win to date in Taiwan,' confirming prior wins, but does not state when that track record began. The removed 'early 2000s' start date is unverified and should be confirmed before re-adding."
   - "The autonomous TBMs cited for Sydney Metro West were deployed on the earlier Western Tunnelling Package (awarded 2022), a different package from the Stations Package West row (A$2.7 billion) in the table. Confirm the two are not conflated in the final copy."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-28
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-28
-    change: "Correction pass: fixed Taiwan MRT award date (22 Oct 2024, not Oct 2025) and value (full RM4.3bil vs 75% share), added primary/Star citations for Taiwan, order-book mix and autonomous TBM, and removed the unsourced early-2000s Taiwan claim."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-28

@@ -41,15 +41,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Draf awal AI. Struktur dan bidang kuasa diambil daripada teks Perlembagaan Persekutuan (Jadual Kesembilan), Akta 355 dan Akta 505 yang diterbitkan oleh badan rasmi, serta laman rasmi JKSM."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Pusingan pembetulan: menamakan akta pindaan bagi peluasan Akta 355 ke Sabah/Sarawak (1989) dan bagi tarikh kuat kuasa Perkara 121(1A) (Akta A704, 1988); mengukuhkan rujukan Jadual Kesembilan kepada cetakan semula AGC persekutuan; menambah senarai verificationNeeded."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

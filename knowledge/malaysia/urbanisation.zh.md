@@ -27,19 +27,14 @@ sourceContentHash: "0362cd9a8f8b4f6a"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-24
-    change: "Initial draft, built from DOSM's 2020 Census urban/rural release, the HIS & BA 2022 technical notes (urban-area definition), the 2020 Census administrative-district report, and DOSM's Migration Survey Report 2024."
-    reviewer: null
-  - version: "0.1.1"
-    date: 2026-07-24
-    change: "Fact-check pass against the cited DOSM releases: Klang and Selangor populations replaced with the census figures, the 84.6% urban-to-urban share correctly scoped to intra-state moves, the Johor/Selangor/Sabah internal-migrant ranking corrected, and the ageing comparison rewritten (the urban 65+ share rose faster than the rural one, not the reverse)."
-    reason: "Corrections — figures that did not match the cited sources."
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 

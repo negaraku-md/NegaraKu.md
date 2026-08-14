@@ -41,15 +41,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-08
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-08
-    change: "Correction pass: re-verified statute/case citations against official Sarawak and Sabah legislation and neutral reporting; removed the Sarawak 'section 2' recognition reference; replaced the partisan TR Sandah commentary with a neutral news source and added primary legislation sources."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

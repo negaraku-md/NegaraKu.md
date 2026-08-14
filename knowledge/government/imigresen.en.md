@@ -27,14 +27,14 @@ sourceContentHash: "baf28f912e1a7295"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Draf awal — halaman entiti agensi Tier 4; fungsi teras, perundangan, jenis visa dan pas disahkan di imi.gov.my; yuran sengaja tidak disenaraikan."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

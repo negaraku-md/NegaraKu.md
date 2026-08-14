@@ -38,23 +38,19 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Jumlah kumulatif penerima Anugerah Sastera Negara (dinyatakan 16 setakat 2026); sahkan tiada penerima ke-17 diumumkan selepas tarikh kemas kini."
   - "Nama jalan ibu pejabat 1962 (Jalan Lapangan Terbang Lama, kemudian dinamakan semula Jalan Dewan Bahasa) — sahkan tarikh penamaan semula dengan sumber rasmi DBP."
   - "Tarikh perpindahan ke Kuala Lumpur (1957, Jalan Young) dan ke Menara DBP (2002) — sahkan tahun tepat dengan halaman sejarah rasmi DBP."
   - "Butiran hadiah Anugerah Sastera Negara (RM60,000 tunai, elaun bulanan RM5,000) — sahkan jumlah terkini kerana nilai boleh dikemas kini dari semasa ke semasa."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Draf awal AI. Ditulis daripada sumber rasmi DBP; dipegang sebagai draf menunggu semakan manusia."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: betulkan jumlah penerima Anugerah Sastera Negara (16 setakat 2026, bukan 2022) dengan sumber RTM, betulkan nama jalan 1962, tambah verificationNeeded."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

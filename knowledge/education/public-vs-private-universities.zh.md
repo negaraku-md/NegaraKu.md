@@ -28,15 +28,14 @@ translationStatus: "in-sync"
 sourceContentHash: "983ceb6ac71f6d39"
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-24
-    change: "Initial draft covering the IPTA/IPTS distinction, UPU centralised admission for public universities, direct admission for private institutions, and MQA/MQR accreditation as the actual marker of recognition."
-    contributor: null
+    change: "Approved and published."
     reviewer: null
 updated: 2026-07-24
 sources:

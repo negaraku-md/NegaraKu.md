@@ -40,15 +40,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: sourced the Chinese-visitor figure to China Briefing, fixed visa-exemption dating/mutuality, and clarified the 2025 joint statement in the shared-future timeline."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

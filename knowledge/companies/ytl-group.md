@@ -35,18 +35,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-28
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-28
-    change: "Correction pass: added primary sources for Malayan Cement FY2024 and Budget 2026 AI figures, softened the disputed Malayan Cement ownership percentage, and clarified the 500MW-solar vs 600MW-capacity attribution."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

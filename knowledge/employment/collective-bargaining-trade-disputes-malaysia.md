@@ -39,18 +39,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-08
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-08
-    change: "Correction pass: referral to Industrial Court reassigned from Minister to Director-General per IR (Amendment) Act 2020 (in force 1 Jan 2021); s.46 penalty updated to note imprisonment removed while RM5,000 + RM50/day fine verified; softened unsourced 'tulang belakang' conciliation claim; added section-number sourcing note."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

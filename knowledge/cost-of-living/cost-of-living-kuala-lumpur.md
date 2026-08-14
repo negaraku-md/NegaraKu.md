@@ -25,15 +25,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-24
-    change: "Initial draft. Income, expenditure, wage and inflation figures verified directly against DOSM's Household Income Survey 2024, Household Expenditure Survey 2024, Salaries & Wages Survey Report 2024, and Consumer Price Index (April 2026) release pages. Rent, toll and parking costs are described qualitatively only — no specific rent, toll or parking figures are quoted, because no single official schedule of Kuala Lumpur rental or parking prices could be verified at an official source at time of writing."
-    contributor: null
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 

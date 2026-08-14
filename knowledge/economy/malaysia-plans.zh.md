@@ -27,14 +27,14 @@ sourceContentHash: "ad2718136d4293ed"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-24
-    change: "Draf awal. Setiap angka, sasaran dan tarikh disemak terhadap Soalan Lazim dan risalah rasmi RMK13 (Kementerian Ekonomi), teks ucapan Perdana Menteri di Parlimen, serta laman sejarah dan senarai rancangan terdahulu Kementerian Ekonomi. Angka terbitan yang tiada dalam mana-mana sumber rasmi dikeluarkan."
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 

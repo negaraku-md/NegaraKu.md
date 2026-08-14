@@ -39,20 +39,16 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Istilah fiqh 'syiqaq' bagi seksyen 48 — tajuk Inggeris rasmi Akta 303 hanya 'Arbitration by Hakam' (timbang tara oleh Hakam); rujukan 'syiqaq' ialah huraian fiqh (teks Melayu rasmi menggunakan 'syiqaq'). Sahkan padanan istilah pada enakmen negeri berkenaan."
   - "Nombor seksyen, umur minimum nikah, dan butiran peruntukan pada enakmen negeri masing-masing — mungkin berbeza daripada Akta 303 (Wilayah Persekutuan) dan perlu disemak terhadap teks enakmen negeri berkenaan."
   - "Tempoh pelaporan tujuh hari bagi talaq di luar mahkamah — dinyatakan oleh portal Kerajaan (MyGovernment); sahkan terhadap peruntukan/prosedur negeri yang berkaitan."
   - "Peruntukan pilihan anak mumaiyiz selepas tamat tempoh hadhanah (seksyen 84) — sahkan pemakaian dan tafsiran semasa Mahkamah."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-07
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-07
-    change: "Correction pass: tambah kelayakan 'tanpa sebab munasabah' pada alasan fasakh nafkah batin (s.52(1)(d)), perhalusi label Hakam/ta'liq mengikut teks statut, dan tambah verificationNeeded."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-07

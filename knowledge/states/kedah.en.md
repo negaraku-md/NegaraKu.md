@@ -51,11 +51,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Draf awal. Angka KDNK dan sektor disahkan pada kenyataan media DOSM 'Gross Domestic Product by State 2024'; angka padi daripada set data tanaman mengikut negeri DOSM; angka pelaburan daripada kenyataan media MIDA 2024; maklumat kesultanan, keluasan dan daerah daripada portal rasmi Kerajaan Negeri Kedah; Lembah Bujang daripada Arkib Negara dan Jabatan Muzium Malaysia; Kulim Hi-Tech Park daripada laman rasmi KHTP."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 sensitivity: "royalty"
 

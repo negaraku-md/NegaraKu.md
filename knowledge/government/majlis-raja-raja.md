@@ -30,11 +30,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Draf awal. Setiap peruntukan disemak terhadap teks Perlembagaan Persekutuan (Cetakan Semula 2020) di portal Jabatan Peguam Negara, dan maklumat keanggotaan serta mesyuarat disemak terhadap laman rasmi Pejabat Penyimpan Mohor Besar Raja-Raja."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

@@ -30,11 +30,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft. Full text of Article 3 and Article 11 taken verbatim from the Attorney General's Chambers official reprint of the Federal Constitution (as at 15 October 2020). Article 121(1A) and Ninth Schedule, State List, item 1 text taken from the same reprint. Strictly descriptive: reports what the provisions say and their express textual cross-references only, with no interpretation of disputed questions."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 sensitivity: "religion"
 

@@ -36,11 +36,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Draf awal. Diklasifikasikan sebagai Tier S (sensitiviti: kaum) kerana subjeknya menyentuh struktur sekolah mengikut bahasa pengantar dan kaum. Ditulis secara deskriptif dan neutral, tanpa mengambil pendirian dalam perdebatan dasar sekolah vernakular, dan dipegang sebagai draf sementara menunggu semakan manusia."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

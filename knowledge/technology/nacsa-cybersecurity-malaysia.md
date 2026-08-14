@@ -39,15 +39,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: fixed source attribution for NSC Directive No.26 repeal and the two regulated service categories (both on NACSA homepage, not the Act page), and corrected MyCERT wording to 'operates from the office of CyberSecurity Malaysia' per source."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

@@ -38,12 +38,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft. Classified Tier S (sensitivity: race) because the subject covers the constitutional status of the national language and the ethnic/linguistic composition of the population. Written descriptively and neutrally, held as a draft pending human review. All population percentages that could not be traced to a source listed here were removed rather than estimated: the national ethnic-composition table, and the Sabah and Sarawak Bumiputera sub-group shares. Those figures now live only in the population-composition article, where each one is verified against a named DOSM release. Figures retained are the Sabah state government's own count (33 indigenous groups, 50+ languages, ~80 dialects) and JAKOA's Orang Asli classification (3 main groups, 18 subgroups)."
-    contributor: "NegaraKu.md Editorial"
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

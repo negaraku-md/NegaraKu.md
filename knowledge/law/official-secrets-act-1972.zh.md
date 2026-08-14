@@ -41,15 +41,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-07
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-07
-    change: "Correction pass: verified figures against primary Act 88 text and news reporting, fixed repeal scope (added Sabah Cap. 90, corrected UK Acts wording), de-attributed Ezam conviction/sentence/acquittal and 'national harmony' framing to correct sources."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

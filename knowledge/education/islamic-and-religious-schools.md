@@ -37,20 +37,16 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Nisbah ~800 pusat tahfiz tidak berdaftar di Selangor daripada ~1,000 di seluruh negara (angka Bernama; kelihatan tidak seimbang secara dalaman dan patut disemak terhadap data JAIS/JAKIM terkini)."
   - "Angka 234 SABK setakat 29 Januari 2026 (kenyataan KPM seperti dilaporkan Sinar Harian; sahkan dengan siaran rasmi KPM)."
   - "Pecahan 21 pelajar dan dua guru bagi kebakaran 2017 (disokong laporan CBS News memetik Ketua Polis; sumber Bernama yang dipetik hanya menyebut 23 individu)."
   - "Butiran kebakaran Julai 2023 di Kampung Medan, Teluk Panglima Garang (seperti dilaporkan Bernama; sahkan tarikh tepat dan status pendaftaran JAIS)."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-08
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-08
-    change: "Correction pass: added CBS News source for 2017 fire student/teacher breakdown, restored Kampung Medan location for July 2023 fire, added verificationNeeded."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-08

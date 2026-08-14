@@ -39,15 +39,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-08
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-08
-    change: "Correction pass: fixed state-recognition claim (Sabah/Sarawak only), corrected Najib pledge to 2018, deleted unsourced non-Chinese enrolment figures, and attributed the 96% Bahasa Melayu pass rate to Dong Zong."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

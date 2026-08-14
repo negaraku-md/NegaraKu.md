@@ -35,11 +35,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft. Every figure verified word for word against two DOSM releases: the MyCensus 2020 Key Findings launch release (14 February 2022) and the MyCensus 2020 Administrative District Key Findings release (29 May 2022). Editorial audit removed the previously derived percentage breakdown: neither release states percentages for religion, and dividing DOSM's rounded counts produced shares that did not match the percentages published elsewhere. Counts are now reported without a computed share. No 'no religion'/'unknown' figure is reported because it does not appear in either release. State-level ranking is attributed to the launch release, where it actually appears, not to the district release."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

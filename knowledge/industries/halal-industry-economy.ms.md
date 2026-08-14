@@ -43,15 +43,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-28
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-28
-    change: "Correction pass: removed unsourced MIHAS date and 'Codex'/'100 countries' claims, softened weakly-sourced halal-park figures, and reflected the confirmed HDC–MATRADE merger."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

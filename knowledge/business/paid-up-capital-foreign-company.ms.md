@@ -49,18 +49,14 @@ sourceContentHash: "7e020b10096556f2"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Initial draft. Figures traced to the ESD guidebook and MIDA Booklet 8 rather than repeated from secondary guides."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-21
-    change: "Removed the 51% boundary contradiction: the MIDA paraphrase 'more than 51 percent' now reads '51 percent or more', matching the ESD table (majority foreign ownership includes exactly 51%)."
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 

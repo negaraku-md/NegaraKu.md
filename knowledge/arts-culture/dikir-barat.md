@@ -22,14 +22,14 @@ masterLanguage: "ms"
 translationStatus: "master"
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Draf awal. Status warisan disahkan di laman Jabatan Warisan Negara. Struktur persembahan, peranan Tukang Karut/Tok Juara dan latar sejarah dirujuk daripada beberapa sumber sekunder yang saling mengesahkan (blog sejarah Kelantan, majalah budaya) kerana laman pemetaan budaya JKKN tidak dapat diakses secara langsung (halaman dinamik/404 semasa cubaan capaian)."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 verificationNeeded:
   - "Butiran penuh rekod pemetaan budaya JKKN (pemetaanbudaya.jkkn.gov.my) tentang Dikir Barat tidak dapat disahkan secara langsung kerana laman tersebut tidak dapat dicapai semasa penyediaan draf ini; perlu disemak semula apabila boleh diakses."

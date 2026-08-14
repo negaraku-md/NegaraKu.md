@@ -25,14 +25,14 @@ translationStatus: "in-sync"
 sourceContentHash: "f85648fc29f5d316"
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Draf awal. Asal usul, alat muzik dan struktur pergerakan Joget dan Zapin disahkan melalui pemetaan budaya JKKN (Jabatan Kebudayaan dan Kesenian Negara) dan laman Jabatan Warisan Negara."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

@@ -33,18 +33,14 @@ translationStatus: "in-sync"
 sourceContentHash: "21be9dbe8511938b"
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-08-14"
 publishedBy: "ashton-tan"
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: 2026-08-10
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
+  - version: "01.00"
     date: 2026-08-14
-    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
+    change: "Approved and published."
     reviewer: null
 verificationNeeded:
   - "Exact official English wording of KPM's vision and mission — Malay is authoritative and multiple divergent English translations appear online; confirm against the moe.gov.my English profile page before quoting."

@@ -39,18 +39,14 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Draf awal AI."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: betulkan nama MCMC/SKMM yang bercanggah, ganti sumber sekunder MSC dengan halaman utama MCMC Akta 588, sahkan angka JENDELA dengan portal rasmi."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

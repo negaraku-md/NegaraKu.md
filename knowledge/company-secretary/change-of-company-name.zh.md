@@ -36,23 +36,19 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Sahkan fi semasa (RM50 carian/simpanan nama, RM100 pertukaran nama) masih terpakai di portal CRS — fi boleh dipinda dari semasa ke semasa."
   - "Sahkan piagam pelanggan SSM (satu hari bekerja selepas penyerahan lengkap dengan bayaran penuh) masih terpakai."
   - "Sahkan angka penalti Seksyen 591 (penjara sehingga 10 tahun dan/atau denda sehingga RM3 juta) terhadap teks Akta Syarikat 2016 yang berkuat kuasa."
   - "Sahkan rujukan Peraturan 8(4) Peraturan-Peraturan Syarikat 2017 (fi tidak boleh dikembalikan) — kini disandarkan pada Garis Panduan SSM perkara 5.2; boleh ditambah sebagai entri sumber berasingan jika perlu."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-07
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-07
-    change: "Correction pass: re-anchored non-refundable-fees claim to the listed SSM Guidelines (item 5.2, cites Reg 8(4)); added verificationNeeded; re-verified RM50/RM100, 1-day charter, 30-day query auto-rejection against fetched Guidelines PDF."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-07

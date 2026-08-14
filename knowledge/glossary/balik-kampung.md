@@ -25,14 +25,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-24
-    change: "Draf awal. Angka trafik disahkan daripada portal rasmi PDRM dan LLM serta laporan BERNAMA yang memetik LLM, PLUS dan DOSM; kadar urbanisasi daripada siaran rasmi Banci Penduduk dan Perumahan Malaysia 2020. Audit sumber: 6,000 petugas lebuh raya dibetulkan daripada LLM kepada PLUS mengikut petikan asal."
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 

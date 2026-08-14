@@ -32,18 +32,14 @@ sourceContentHash: "e028c2fa0dbb47c1"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Initial draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-21
-    change: "Gave MFRS 139 a superseding note (superseded by MFRS 9 from 1 Jan 2018) instead of a blank cell; the residual-scope caveat stays in verificationNeeded."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-20

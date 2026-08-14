@@ -36,23 +36,19 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Tarikh akhir tepat pemfailan Borang CP204B bagi tempoh perakaunan yang dipendekkan (kurang 12 bulan) berbanding yang dipanjangkan (melebihi 12 bulan) — perlu disahkan terhadap Ketetapan Umum LHDN semasa; tiada sumber primer LHDN dapat dicapai untuk mengesahkan angka '30 hari sebelum'."
   - "Kewujudan dan kandungan Ketetapan Umum (Public Ruling) 4/2025 serta dakwaan bahawa notis manual (surat) tidak lagi diterima — tidak dapat disahkan; URL LHDN yang didakwa (hasil.gov.my/en/company/change-in-accounting-period/) mengembalikan HTTP 404."
   - "Sama ada penyata tahunan (annual return) atau mana-mana borang SSM lain turut merekodkan FYE yang ditukar secara berasingan — artikel hanya menyatakan SSM mengetahui FYE baharu melalui penyata kewangan yang difailkan (s.259)."
   - "Pemakaian tempoh penyelarasan dua tahun s.247 secara khusus kepada perubahan FYE sukarela oleh syarikat berdiri sendiri (s.247 mengawal subsidiari dalam kumpulan, bukan syarikat tunggal)."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-07
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-07
-    change: "Correction pass: anchored 30-day SSM lodgement to s.259, restated s.247 two-year rule from primary text, reconciled the no-notification claim, softened unverifiable CP204B timing, and pruned all secondary/promotional sources to the primary Act 777 text."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-07

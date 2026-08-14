@@ -48,15 +48,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Draf awal AI. Takrif 'parti politik' dan struktur seksyen pendaftaran (Seksyen 2, 6, 7, 13) disemak terhadap teks Akta Pertubuhan 1966 (Akta 832); pelantikan Perdana Menteri ke-10 dan konteks kerajaan perpaduan disemak terhadap laporan Bernama dan MalaysiaNow; keputusan kerusi PRU15 disemak terhadap papan keputusan MalaysiaNow. Memerlukan semakan manusia."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Pusingan pembetulan: seratkan angka kerusi PH kepada 81 (sepadan papan keputusan MalaysiaNow yang dipetik), tambah sumber teks statut (ICNL) untuk tajuk panjang dan susunan seksyen yang tidak didedahkan oleh laman AGC, lembutkan nombor seksyen kepada 'Akta 1966' dengan nota pengesahan terhadap Akta 832, dan buang tarikh sejarah gabungan yang tidak bersumber."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

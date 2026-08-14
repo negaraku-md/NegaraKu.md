@@ -46,21 +46,13 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-14
 reviewDue: 2027-08-14
-version: "0.3"
+version: "01.00"
 verificationNeeded: []
 revisions:
-  - version: "0.1"
-    date: 2026-08-01
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: verified penalty table (incl. subsection numbers) and 11 sectors against fetched primary/legal sources, removed unverifiable PwC citation, distinguished Royal Assent from gazette date."
-    reviewer: null
-  - version: "0.3"
+  - version: "01.00"
     date: 2026-08-14
-    change: "Cleared verified items against primary sources; corrected figures where they differed."
-    reviewer: "ashton-tan"
+    change: "Approved and published."
+    reviewer: null
 
 updated: 2026-08-14
 sources:

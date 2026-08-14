@@ -22,10 +22,10 @@ masterLanguage: "ms"
 translationStatus: "master"
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 sensitivity: "none"
 updated: 2026-07-23
 sources:

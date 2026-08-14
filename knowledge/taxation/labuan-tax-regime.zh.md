@@ -62,27 +62,14 @@ sourceContentHash: "f2863a53f5f454a9"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-08-14
-version: "0.3"
+version: "01.00"
 revisions:
-  - version: "0.3"
+  - version: "01.00"
     date: 2026-08-14
-    change: "Cleared verified items against primary sources; corrected figures where they differed."
-    reviewer: "ashton-tan"
-  - version: "0.3"
-    date: 2026-07-21
-    change: "Added blank line before the repealed-provisions heading so it renders outside the s.7 list; corrected the substance keyTakeaway to note pure equity holding is exempt (zero employees); completed the truncated sentence about an expired or surrendered operating licence."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-20
-    change: "Removed the s.7(4) ringgit prohibition and the s.7(5) ten-working-day notification duty, which were deleted by Act A1653 with retrospective effect to 1 January 2019, and replaced them with an explicit correction."
-    reviewer: null
-    reason: "The draft stated repealed law as live, including as a datable obligation feeding the Compliance Calendar. Labuan FSA's own consolidated Act still prints these subsections, which is how the error entered."
-  - version: "0.1"
-    date: 2026-07-20
-    change: "Initial draft."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-14

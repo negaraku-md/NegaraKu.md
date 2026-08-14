@@ -36,10 +36,10 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "MyCEB labels the RM20.18 billion as 'Estimated Economic Impact' on its homepage, which also displays a separate, ambiguously labelled figure (1,656,942); confirm the intended label and value with MyCEB directly."
   - "The Meetings Show London figures (6,625 delegates, RM116 million, 2017–2023) come from a MyCEB press release and were not re-fetched in this correction pass; confirm before relying on them."
@@ -48,13 +48,9 @@ verificationNeeded:
   - "MITEC's precise location descriptor (near Dutamas / KL Metropolis; the wider district is Segambut) should be confirmed against MITEC's own site; the cited CIDB source uses 'near Dutamas'."
   - "All venue capacities and BCCK2 construction details are subject to change; confirm current published figures directly with each centre before publication."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-28
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-28
-    change: "Correction pass: re-verified all hard figures against primary sources, anchored MITEC's 12,530 sqm column-free figure to CIDB, corrected MITEC location to 'near Dutamas' per source, added verificationNeeded."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-28

@@ -35,10 +35,10 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Bulan sebenar perayaan Sembahyang Dato Chachar berubah mengikut kalendar Tamil; sumber yang dipetik (The Star, 2012) merekodkan perayaan sekitar akhir April pada tahun tersebut — sahkan tarikh bagi tahun semasa."
   - "Asas perundangan sebenar bagi perlindungan kawasan warisan Kampung Chetti pada Jun 2000 tidak dinyatakan oleh mana-mana sumber yang dipetik (perlindungan ini mendahului Akta Warisan Kebangsaan 2005)."
@@ -46,13 +46,9 @@ verificationNeeded:
   - "Contoh kosa kata kreol (nenek/thatha) bersifat ilustrasi dan belum disahkan terhadap kajian linguistik yang dipetik (Grimes 1996, Noriah Mohamed 2009)."
   - "Angka bilangan keluarga berbeza antara sumber: kurang 50 keluarga (Roots) berbanding 20–30 keluarga (Free Malaysia Today)."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Draf AI awal. Fakta budaya, sejarah dan angka populasi disemak terhadap kisah warisan Lembaga Warisan Negara Singapura (roots.gov.sg) dan laporan akhbar Free Malaysia Today. Tarikh asal-usul yang dipertikaikan dinyatakan secara kualitatif."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: buang sumber Wikipedia/homepage & PHT nipis, betulkan nama perayaan (Sembahyang Dato Chachar, bukan 'Amman Thirunal'), tukar bulan tak bersumber 'Mei' kepada April berdasarkan The Star, decouple perlindungan Jun 2000 daripada Akta 2005, dan selaraskan angka keluarga yang bercanggah."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

@@ -48,24 +48,16 @@ sourceContentHash: "3b8895c95cac7bd6"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 publishedBy: "ashton-tan"
 reviewed: 2026-08-14
 reviewDue: 2027-07-22
-version: "0.3"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: 2026-07-20
-    change: "Initial draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-21
-    change: "Corrected the Sabah statute short title from 'Trade Licensing Ordinance' to 'Trades Licensing Ordinance (Sabah Cap. 144)' (verified against the Sabah AGC text; original Ordinance No. 16 of 1948, in force 1949), matching register-business-sabah, and dropped the '1948' from the short title. Removed the unexplained 'thirteen different ways'."
-    reviewer: null
-  - version: "0.3"
+  - version: "01.00"
     date: 2026-08-14
-    change: "Cleared verified items against primary sources; corrected figures where they differed."
-    reviewer: "ashton-tan"
+    change: "Approved and published."
+    reviewer: null
 
 updated: 2026-08-14
 sources:

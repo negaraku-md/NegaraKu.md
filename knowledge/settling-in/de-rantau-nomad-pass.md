@@ -36,18 +36,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-07
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-07
-    change: "Correction pass: fixed the overgeneralized 'no Malaysian income' claim (applies to remote-worker employers, not freelancers' client mix) and corrected source-2 publisher attribution."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

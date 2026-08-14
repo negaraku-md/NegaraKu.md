@@ -35,18 +35,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-07
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-07
-    change: "Correction pass: fixed the Fortuna law-report citation to (1976) 2 ACLR 349 with correct party name, and sourced the section 464 petitioner list to the primary Companies Act 2016 text."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

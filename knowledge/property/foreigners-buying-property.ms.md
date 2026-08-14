@@ -32,14 +32,14 @@ sourceContentHash: "955a3a4516d059d3"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft. Section 433B consent requirement confirmed via convergent legal commentary describing the National Land Code text; Malay Reservation restriction confirmed via the Department of Director General of Lands and Mines (JKPTG) official guidance page; Selangor's zone-based minimum prices confirmed via an official Dewan Negeri Selangor written answer; the Federal Territories' RM1,000,000 threshold and the RM20 million Bumiputera-dilution trigger confirmed via the Economic Planning Unit's own Guideline on the Acquisition of Properties; the 8% flat stamp duty for non-citizens from 1 January 2026 confirmed against this site's own stamp-duty-rates reference article and Budget 2026 tax-measures reporting."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

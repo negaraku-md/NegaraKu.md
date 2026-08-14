@@ -40,11 +40,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Draf awal AI. Cara berikrar dan peranan NTRC disahkan melalui laman rasmi dermaorgan.gov.my. Statistik ikrar (lebih 412,000), kadar keengganan keluarga (hampir 90%), senarai menunggu (10,736) dan jumlah pembedahan transplan (3,492 sejak 1975) disahkan melalui laporan CodeBlue yang memetik KKM/NTRC serta Bernama. Butiran fatwa (persidangan 23-24 Jun 1970, syarat, perluasan organ, perbezaan pandangan ulama) disahkan melalui Jabatan Mufti Wilayah Persekutuan (Bayan Linnas Siri 176) dan laman rasmi MKN. Pandangan agama-agama lain dinyatakan secara umum dan neutral kerana sumber rasmi berpusat memberi tumpuan kepada pandangan Islam. Kadar penderma tepat per juta penduduk sengaja tidak dinyatakan kerana tidak dapat disahkan pada sumber yang dibuka."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

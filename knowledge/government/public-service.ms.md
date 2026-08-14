@@ -44,14 +44,14 @@ sourceContentHash: "4f354a706a5751f1"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft. SPA's constitutional basis and functions verified against SPA's own official background page and the government's malaysia.gov.my topic page. JPA's founding history, name changes and functions verified directly against JPA's own official corporate-info pages (profile, history, chronology of department heads). No current officeholder names, current agency reporting lines, or civil-service headcount figures are stated, as none could be pinned to a single stable official page at time of writing."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

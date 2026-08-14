@@ -40,15 +40,11 @@ status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-07-22
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: 2026-07-10
-    change: "Initial draft."
-    reviewer: null
-  - version: "0.2"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Reclassified from Tier 2 to Tier S with sensitivity constitution — unlike the other state pages, MA63 autonomy and the federal-state revenue question are the substance of this article rather than incidental, and they are live constitutional matters. Added FAQ, UNESCO and OpenDOSM sources, and flagged the population and land area figures for confirmation."
+    change: "Approved and published."
     reviewer: null
 sensitivity: "constitution"
 

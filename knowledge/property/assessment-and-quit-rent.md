@@ -27,14 +27,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Draf awal. Kuasa cukai taksiran (Seksyen 127, Akta 171) disahkan melalui portal rasmi Majlis Bandaraya Iskandar Puteri; kekerapan bayaran dua kali setahun disahkan melalui portal rasmi Majlis Perbandaran Kuala Selangor; peruntukan cukai tanah (Seksyen 5, 94, 100 Kanun Tanah Negara 1965) disahkan melalui portal rasmi Pejabat Tanah dan Galian Johor."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 

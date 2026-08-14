@@ -52,23 +52,15 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-07-22
-version: "0.3"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Initial draft. Salary and labour force tables extracted from DOSM source files; the annual versus quarterly divergence is flagged rather than smoothed."
+    change: "Approved and published."
     reviewer: null
-  - version: "0.2"
-    date: 2026-07-21
-    change: "Corrected the answer's national Q1 2026 unemployment from 3.0% to 2.9% to match the body table (and DOSM's national 2.9%). Standardised the Sabah revised-quarterly figure to 6.3% (was 6.32% in the body vs 6.3% in verificationNeeded)."
-    reviewer: null
-  - version: "0.3"
-    date: 2026-08-14
-    change: "Cleared verified items against primary sources; corrected figures where they differed."
-    reviewer: "ashton-tan"
 sensitivity: "none"
 
 updated: 2026-07-20

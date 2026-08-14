@@ -36,14 +36,14 @@ masterLanguage: "en"
 translationStatus: "master"
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft. Describes the dance form's structure, costume and music, and its institutional history in Malaysia, verified against JKKN's cultural mapping database, the Temple of Fine Arts and Sutra Foundation's own sites, and the Malaysia Barathanatyam Dance Association's own site. Written descriptively; tier 3, sensitivity none."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

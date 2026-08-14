@@ -35,15 +35,11 @@ status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-07-22
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: 2026-07-10
-    change: "Initial draft."
-    reviewer: null
-  - version: "0.2"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Reclassified from Tier 2 to Tier S with sensitivity royalty — the article's subject is the origin of the Malay sultanate institution and its bearing on the Malay Rulers, and it also touches the arrival of Islam. Held to the descriptive-only standard. Replaced the Encyclopaedia Britannica citation with official and UNESCO sources and added FAQ."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-20

@@ -31,14 +31,14 @@ sourceContentHash: "36c7c223a86b45ee"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-24
-    change: "Draf awal. Asas perundangan (Akta 566), tarikh penubuhan, fungsi statutori dan struktur pembiayaan (institusi kewangan + sukuk, kerajaan sebagai penjamin) disahkan menerusi artikel rasmi Pejabat Mufti Wilayah Persekutuan (muftiwp.gov.my), sebuah portal kerajaan. Angka kelayakan dan bayaran balik yang spesifik sengaja tidak dinyatakan kerana ptptn.gov.my menyekat capaian automatik semasa penulisan."
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 

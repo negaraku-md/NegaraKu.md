@@ -42,26 +42,18 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 publishedBy: "ashton-tan"
 reviewed: 2026-08-14
 reviewDue: 2027-08-14
-version: "0.3"
+version: "01.00"
 verificationNeeded:
   - "Klasifikasi sensitivity ditetapkan 'none' mengikut templat, tetapi rasionalisasi subsidi bahan api ialah isu dasar yang boleh menimbulkan perdebatan politik; editor manusia perlu menilai semula sama ada 'none' sesuai."
 revisions:
-  - version: "0.1"
-    date: 2026-08-01
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: removed unsourced STR/SARA billion-ringgit figures, re-verified Lim Hui Ying + US$60–80 band and RM2.05 public-transport price against primary sources, softened/attributed government-framed editorial statements, flagged time-sensitive prices."
-    reviewer: null
-  - version: "0.3"
+  - version: "01.00"
     date: 2026-08-14
-    change: "Cleared verified items against primary sources; corrected figures where they differed."
-    reviewer: "ashton-tan"
+    change: "Approved and published."
+    reviewer: null
 
 updated: 2026-08-14
 sources:

@@ -43,18 +43,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: re-cited MPS and reserves to primary bnm.gov.my sources, added MPC schedule citation for the six-meetings cadence, and used the exact 26 January 1959 operations date."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

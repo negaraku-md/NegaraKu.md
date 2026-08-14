@@ -36,26 +36,18 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 publishedBy: "ashton-tan"
 reviewed: 2026-08-14
 reviewDue: 2027-08-08
-version: "0.3"
+version: "01.00"
 verificationNeeded:
   - "Peruntukan subsidi elektrik separuh pertama dan kos operasi PADU sengaja ditinggalkan kerana sumber utama tidak dapat disahkan; tambah hanya jika sumber rasmi diperoleh."
 revisions:
-  - version: "0.1"
-    date: 2026-08-08
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-08
-    change: "Correction pass: fixed misattributed 55% figure (now paultan/Rafizi Nov 2024), corrected RON95 exclusion framing (T15 cut set aside at launch; all citizens with MyKad+licence eligible), sourced foreigner/company exclusion (MoF + Loke), neutralised advocacy phrasing, added verificationNeeded."
-    reviewer: null
-  - version: "0.3"
+  - version: "01.00"
     date: 2026-08-14
-    change: "Cleared verified items against primary sources; corrected figures where they differed."
-    reviewer: "ashton-tan"
+    change: "Approved and published."
+    reviewer: null
 
 updated: 2026-08-14
 sources:

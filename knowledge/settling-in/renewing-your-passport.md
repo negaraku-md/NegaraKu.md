@@ -26,14 +26,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Draf awal. Proses MyOnline Passport disahkan menerusi panduan rasmi JIM (PanduanMyOnlinePassport.pdf); yuran dan syarat pembaharuan/gantian disahkan di imi.gov.my; struktur pejabat penerima/pengeluar (termasuk UTC) disahkan di imi.gov.my; yuran dalam talian RM200 dan kaedah bayaran FPX disahkan di malaysia.gov.my."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

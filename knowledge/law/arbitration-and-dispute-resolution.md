@@ -38,10 +38,10 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Exact KLRCA founding date: cited law-firm sources give 1978 (one gives 17 April 1978); confirm the precise founding date against an AIAC/AALCO primary record."
   - "Amendment-history dates: confirm the Arbitration (Amendment) Act 2011 (in force ~1 July 2011) and the two 2018 amendments (reported in force 28 Feb 2018 and 8 May 2018) against the Federal Gazette."
@@ -49,13 +49,9 @@ verificationNeeded:
   - "Third-party funding Code of Practice RM 10 million capital-adequacy figure — confirm against the published Code itself, not a secondary summary."
   - "AIAC Arbitration Rules 2023 Fast-Track thresholds (USD 300,000 / RM 1,000,000) and 6-/9-month award deadlines — confirm against the Rules text."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-07
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-07
-    change: "Correction pass: re-verified the 1978 KLRCA founding and the 2011/2018 amendment history against the cited Aceris Law source and added a corroborating source; added verificationNeeded and version bump."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-07

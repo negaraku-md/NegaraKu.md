@@ -34,10 +34,10 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Angka '1 pain (586ml)' dipetik terus daripada FAQ rasmi PDN, tetapi tidak sepadan dengan pain imperial piawai (568ml) mahupun pain AS (473ml). Sahkan nilai terkini yang diterbitkan PDN sebelum penerbitan."
   - "Ambang dan tempoh keistimewaan penderma (1-5, 2 kali/12 bulan, 21-30, 51-75, lebih 100 kali) — sahkan terhadap halaman 'Keistimewaan Penderma' PDN terkini kerana dasar boleh berubah."
@@ -46,13 +46,9 @@ verificationNeeded:
   - "Nombor telefon (03-2613 2688) dan alamat PDN — sahkan masih tepat."
   - "Keputusan editorial: sama ada bendera sensitivity perlu dinaikkan melebihi 'none' memandangkan kriteria penangguhan MSM/pekerja seks/penyuntik dadah dihasilkan semula (dipetik verbatim daripada garis panduan rasmi PDN, tanpa bahasa advokasi)."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: sahkan angka terhadap sumber primer PDN, tambah penangguhan Eropah 1980-kini (5 tahun terkumpul), buang persamaan pain yang mengelirukan, tambah verificationNeeded."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

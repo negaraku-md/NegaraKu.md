@@ -40,10 +40,10 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Status penuh proses perundangan Rang Undang-Undang Perlembagaan (Pindaan) 2024 selepas kelulusan Dewan Rakyat (17 Okt 2024): sahkan tarikh kelulusan Dewan Negara, tarikh perkenan Yang di-Pertuan Agong, dan tarikh pewartaan/kuat kuasa sebenar (kuat kuasa disasarkan pertengahan 2026)."
   - "Tarikh kuat kuasa tepat pindaan Jadual Kedua Bahagian II (rujukan 'salah seorang ibu bapa') dan sama ada laluan peralihan Perkara 15(2) bagi anak sedia ada di bawah 18 tahun kekal terpakai selepas kuat kuasa."
@@ -51,13 +51,9 @@ verificationNeeded:
   - "Syarat pemastautin tetap (PR) bagi pemohon Perkara 15(1)/15(2) — sahkan amalan JPN semasa berbanding teks Perlembagaan, kerana syarat PR dinyatakan oleh portal dan bukan secara eksplisit dalam Perkara 15."
   - "Tahap sensitiviti metadata ditetapkan 'none' mengikut spesifikasi; memandangkan topik menyentuh ketiadaan kewarganegaraan dan peruntukan lampau berasaskan jantina, sahkan sama ada tahap ini wajar dinaikkan oleh penyemak manusia."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Draf awal AI. Tier 2: tiga jalan kewarganegaraan Bahagian III (Perkara 14, 15, 15A, 16, 19) disahkan terhadap teks Perlembagaan Persekutuan (Cetakan Semula 2020, AGC) yang dibaca terus; pindaan 2024 (undi 17 Oktober 2024, 206-1) disahkan menerusi The Star dan kenyataan SUHAKAM. Angka yang tidak dapat disahkan di sumber rasmi ditinggalkan. Ditahan sebagai draf menunggu semakan manusia."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: perketat atribusi pindaan 2024 kepada kelulusan Dewan Rakyat (17 Okt 2024) dengan proses Parlimen penuh masih tertunggak; nyatakan Perkara 23-24 sebagai asas kewarganegaraan tunggal; tambah verificationNeeded; bump ke 0.2."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

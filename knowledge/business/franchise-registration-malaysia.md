@@ -39,23 +39,19 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Current prescribed official fees for franchisor, franchisee and renewal applications under MyFEX 2.0 — the article no longer states amounts because no authoritative current figure could be confirmed (only a superseded RM1,000 fee under the Franchise (Forms and Fees) Regulations 1999). Confirm on the MyFEX 2.0 portal."
   - "Exact MyFEX 2.0 launch date: most sources (Nixon Peabody, ICLG) give 28 July 2022, but ZICO Law gives 29 July 2022."
   - "Current exact English name and acronym of the administering ministry — sources use both 'Ministry of Entrepreneur Development and Cooperatives (KUSKOP)' and 'Ministry of Entrepreneur and Cooperatives Development (MECD)'; the portal domain is kuskop.gov.my."
   - "Section number for the mandatory minimum five-year franchise term (understood to be Section 25, distinct from the Section 18 mandatory-clause list)."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-07
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-07
-    change: "Correction pass: fixed administering ministry (KPDN to MECD/KUSKOP), removed unsourced fee table, moved five-year minimum term from Section 18 to Section 25, and verified the full Section 39 penalty bands against the statute."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-07

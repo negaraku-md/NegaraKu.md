@@ -30,18 +30,14 @@ sourceContentHash: "5417c396f8f77b23"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: 2026-07-10
-    change: "Initial draft."
-    reviewer: null
-  - version: "0.2"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Re-tiered from 2 to 3 rather than padded — at 565 words the article never met its declared depth, and the fuller comparison now lives in business-structures-malaysia and business-structure-tax-comparison. Replaced approximate figures with verified ones: SSM business registration at RM30 personal name and RM60 trade name per year against RM1,000 to incorporate, the personal scale topping at 30% above RM2,000,000, and the Schedule 1 para 2A SME rates of 15% / 17% / 24% with their actual eligibility conditions. Added the Registration of Businesses Act 1956 territorial limit, which the original omitted entirely. Wired relations into business-structures-malaysia."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-20

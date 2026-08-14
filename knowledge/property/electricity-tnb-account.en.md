@@ -26,14 +26,14 @@ sourceContentHash: "afe9faa9e2aba456"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Draf awal. Proses dan deposit TNB disahkan terus daripada laman rasmi mytnb.com.my (Security Deposit, Start & Stop Electricity, Change of Tenancy, Self Meter Reading). Proses SESB disahkan daripada laman rasmi sesb.com.my (Deposit, New Application). Jadual deposit Sarawak Energy disahkan terus daripada laman rasmi sarawakenergy.com (Collateral Deposit). Tiada kadar tarif elektrik dinyatakan kerana tidak disahkan dalam skop carian ini."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 

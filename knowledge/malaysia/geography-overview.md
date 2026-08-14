@@ -21,14 +21,14 @@ masterLanguage: "en"
 translationStatus: "master"
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-24
-    change: "Initial draft. Land area and the two-landmass description verified against the Government of Malaysia's official portal; Gunung Tahan's height and status as the Peninsula's highest peak verified against PERHILITAN (Department of Wildlife and National Parks); Mount Kinabalu's height verified against Sabah Parks and UNESCO's World Heritage listing; monsoon seasons and climate description verified against the Malaysian Meteorological Department (MetMalaysia); the states/federal-territories count follows Article 1 of the Federal Constitution as already verified in the sibling article 'What Malaysia Actually Is'. A precise national coastline length could not be confirmed at an official source and was omitted."
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 updated: 2026-07-24

@@ -131,7 +131,10 @@ const lifecycle = [
     key: 'reviewed',
     label: L('Disemak', 'Reviewed', '审阅'),
     date: isReviewed ? d.reviewed : null,
-    by: isReviewed ? d.reviewer : null,
+    // No human reviewer on this AI-generated corpus: disclose "AI-verified"
+    // (verified against primary sources), not a human name. A human review
+    // later sets `reviewer` to their handle and this shows that instead.
+    by: isReviewed ? (d.reviewer ?? (d.aiAssisted ? L('Disahkan AI', 'AI-verified', 'AI 核实') : null)) : null,
     done: isReviewed,
   },
   {

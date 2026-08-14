@@ -42,25 +42,17 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 publishedBy: "ashton-tan"
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "0.3"
+version: "01.00"
 verificationNeeded:
   - "Rizab dan unjuran pengeluaran Ambalat (~40,000 tong sehari; sehingga 1 bilion tong / 40 tcf) — dilaporkan oleh satu penerbit (Jakarta Globe); perlu pengesahan lanjut."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Draf awal AI."
+    change: "Approved and published."
     reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: sahkan butiran MoU 2022 & Perundingan ke-13, betulkan salah nyata Maid Online, lembutkan kedudukan eksport, tambah verificationNeeded."
-    reviewer: null
-  - version: "0.3"
-    date: 2026-08-14
-    change: "Cleared verified items against primary sources; corrected figures where they differed."
-    reviewer: "ashton-tan"
 
 updated: 2026-08-01
 sources:

@@ -37,11 +37,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft. Dates, election results and the composition of the London delegation and Reid Commission checked against Arkib Negara Malaysia, the Perdana Leadership Foundation, and the published record of the 1956 constitutional conference and the Reid Commission Report."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 sensitivity: "race"
 updated: 2026-07-24

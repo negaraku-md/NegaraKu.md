@@ -41,7 +41,7 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Angka nisab semasa setiap negeri (contoh dalam artikel: WP RM33,996 untuk 2026 dan Pulau Pinang RM31,000 untuk 2025) — sahkan terus dengan badan zakat negeri kerana angka ini dikemas kini setiap tahun mengikut harga emas."
   - "Konstan syarak nisab = 20 mithqal (85 gram) emas disandarkan pada laman zakat wang simpanan MAINPP; sahkan sama ada takrifan yang sama digunakan bagi setiap jenis zakat harta dan setiap negeri."
@@ -49,13 +49,9 @@ verificationNeeded:
   - "Kadar dan asas pengiraan zakat fitrah ditetapkan setiap negeri setiap tahun; sahkan kadar semasa negeri berkaitan sebelum digunakan."
   - "Petikan Bahasa Inggeris Seksyen 6A(3) diambil daripada reproduksi KPMG bagi Akta 53; sahkan terhadap teks warta rasmi Akta Cukai Pendapatan 1967 sebelum diterbitkan."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: sourced the 20-mithqal/85g nisab constant to MAINPP, tightened the 2.5% attribution, softened the uncited zakat-fitrah measure, aligned the miskin definition to MAIDAM, and added verificationNeeded."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

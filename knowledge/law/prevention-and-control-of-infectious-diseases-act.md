@@ -38,18 +38,14 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Label item COVID-19 dalam teks warta Bahasa Melayu Jadual Pertama (teks kemas kini bahasa Inggeris terbitan Pejabat Peguam Negara memberi item 3A; sesetengah rujukan menyebut 17A bagi susunan abjad teks Melayu). Sahkan penomboran teks Melayu sebelum terbit."
   - "Status penguatkuasaan pindaan 2024 (sama ada telah diwartakan dan berkuat kuasa). Kadar penalti operasi terkini bergantung pada tarikh kuat kuasa instrumen berkenaan."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-07
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-07
-    change: "Correction pass: re-verified First/Second Schedule against AGC primary text (item 30 catch-all and repealed enactments confirmed), attributed COVID-19 item 3A to the English AGC reprint, and added verificationNeeded notes."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-07

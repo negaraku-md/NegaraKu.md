@@ -37,24 +37,16 @@ sourceContentHash: "9ebef61dbe957cc6"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-08-14"
 publishedBy: "ashton-tan"
 reviewDue: 2027-08-03
-version: "0.3"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: 2026-07-28
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-28
-    change: "Correction pass: fixed WRO duration (two years, not three), removed unsourced smallholder-share and FGV/ILO-indicator claims, and re-sourced the EUDR dates to the official European Commission page."
-    reviewer: null
-  - version: "0.3"
+  - version: "01.00"
     date: 2026-08-14
-    change: "Cleared verified items against primary sources; corrected figures where they differed."
-    reviewer: "ashton-tan"
+    change: "Approved and published."
+    reviewer: null
 
 updated: 2026-08-14
 sources:

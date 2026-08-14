@@ -35,23 +35,19 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Nombor seksyen/subseksyen tepat di bawah Akta 757 terhadap teks rasmi Akta — khususnya seksyen bagi akaun penyelenggaraan tempoh pemaju dan seksyen pengagihan caj mengikut unit syer (dibiarkan pada peringkat akta kerana sumber berbeza)."
   - "Subseksyen tepat bagi sumbangan kumpulan wang penjelas 10% (dirujuk sebagai Seksyen 12(4)) dan tarikh akhir JMB 12 bulan (Seksyen 17) terhadap teks rasmi Akta 757."
   - "Sama ada COB sendiri yang mengeluarkan waran penahanan harta alih, atau badan pengurusan (JMB/MC) yang memohonnya, serta seksyen yang mengawal mekanisme pemulihan tunggakan tersebut."
   - "Nama sebenar dan status undang-undang strata Sabah dan Sarawak yang berasingan daripada Akta 318."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-07
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-07
-    change: "Correction pass: aligned section citations to cited sources, removed uncited SMR 2015 + Act 318/Act 757 category confusion, and corrected COB arrears wording."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-07

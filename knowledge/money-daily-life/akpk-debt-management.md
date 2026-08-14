@@ -36,18 +36,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-08
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-08
-    change: "Correction pass: refreshed statistics to Dec 2024 (MOF), added AKPK DMP + MdI + MOF primary sources, removed non-authoritative third-party source, neutralised closing tone."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

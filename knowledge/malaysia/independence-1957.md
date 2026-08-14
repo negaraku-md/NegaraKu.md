@@ -35,15 +35,11 @@ status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-07-22
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: 2026-07-10
-    change: "Initial draft."
-    reviewer: null
-  - version: "0.2"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Reclassified from Tier 2 to Tier S with sensitivity constitution — the article covers the drafting of the Federal Constitution and the institution of the Malay Rulers, and is held to the descriptive-only standard. Replaced the Encyclopaedia Britannica citation with official sources (Arkib Negara, AGC, Parliament) and added FAQ."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-20

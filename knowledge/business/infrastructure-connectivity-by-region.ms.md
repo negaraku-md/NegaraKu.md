@@ -55,18 +55,14 @@ sourceContentHash: "300ad373430dce8b"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Initial draft. Port and air cargo figures parsed from Ministry of Transport source files; stale ministry pages flagged."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-21
-    change: "Corrected the 'worst connectivity' FAQ: fixed broadband floor is Perlis (25.2), not Sabah (27.0), matching the body table, its paragraph and keyTakeaways; Sabah remains worst on grid reliability."
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 

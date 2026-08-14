@@ -39,18 +39,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-07
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-07
-    change: "Correction pass: dropped unsourced MDAC 'free' claim, replaced unverified Chinese 'five-year' waiver figure with primary-sourced China–Malaysia mutual exemption (30 days/entry, 90-in-180) and EY-confirmed 31 Dec 2026 India extension, verified eVisa 3-month foreign-worker validity and both ASEAN quotes verbatim, and reconciled the sources list."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

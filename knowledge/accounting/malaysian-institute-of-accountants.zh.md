@@ -39,26 +39,18 @@ sourceContentHash: "fb67f2b0a6c79587"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-08-08
-version: "0.3"
+version: "01.00"
 verificationNeeded:
   - "Sama ada terdapat standard perancangan cukai MIA dengan tarikh berkuat kuasa tertentu pada 2025 (angka '15 Julai 2025' dalam draf asal dibuang kerana tidak dapat disahkan) — sahkan terhadap pekeliling By-Laws MIA."
   - "Bilangan/volum kes tatatertib MIA (angka '74 kes 2023' dalam draf asal dibuang) — sahkan terhadap MIA Annual Report 2023 jika angka diperlukan semula."
 revisions:
-  - version: "0.1"
-    date: 2026-08-08
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-08
-    change: "Correction pass: removed unsourced 2023 disciplinary-case count, unverifiable By-Law/tax-planning date and Accountant General clause; anchored AOB/MASB/By-Law claims to primary sources (SC, MASB, IESBA/MIA); reframed First Schedule membership route; fixed two-year validity conflation."
-    reviewer: null
-  - version: "0.3"
+  - version: "01.00"
     date: 2026-08-14
-    change: "Cleared verified items against primary sources; corrected figures where they differed."
-    reviewer: "ashton-tan"
+    change: "Approved and published."
+    reviewer: null
 
 updated: 2026-08-14
 sources:

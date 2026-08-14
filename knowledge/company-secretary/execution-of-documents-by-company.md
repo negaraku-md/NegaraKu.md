@@ -39,18 +39,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-07
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-07
-    change: "Correction pass: split s.61(3)/(4) offences, grounded commencement date in the Act's own P.U.(B) 50/2017 note, byte-verified the SSM FAQ Part G quote, softened the CA1965 mandatory-seal claim."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

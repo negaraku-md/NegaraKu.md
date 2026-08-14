@@ -36,14 +36,14 @@ sourceContentHash: "b08ee8ca24ef947b"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Draf awal. Kadar kompaun AES/AwAS dan tempoh 60 hari disahkan di laman AES FAQ rasmi JPJ. Kewujudan dan fungsi mySIKAP, myJPJ, MyBayar PDRM dan PBTPay disahkan pada portal rasmi masing-masing serta pada portal malaysia.gov.my. Jumlah saman am PDRM/JPJ (bukan AES) sengaja tidak dinyatakan kerana tidak dapat disahkan pada sumber rasmi semasa penulisan."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

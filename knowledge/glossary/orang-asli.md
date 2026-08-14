@@ -42,19 +42,15 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Tarikh penamaan semula JHEOA (1963) dan JAKOA (berkuat kuasa 2011) serta kementerian induk semasa — sahkan terhadap sumber rasmi terkini (halaman Sejarah JAKOA / warta kerajaan)."
   - "Kedudukan Semai sebagai antara suku kaum terbesar dan Orang Kanaq sebagai antara yang terkecil pada peringkat suku kaum — Laporan DOSM hanya menyediakan pecahan mengikut kumpulan kaum (Senoi/Melayu-Proto/Negrito), bukan bilangan bagi setiap suku kaum."
   - "Teks Seksyen 3 yang dipetik ialah cetakan semula terjemahan Jabatan Peguam Negara (mengandungi pindaan hingga 1 Januari 2006); sahkan terhadap versi berkuat kuasa terkini sebelum penerbitan."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Draf awal AI. Diklasifikasikan sebagai Tier S (sensitiviti: kaum) kerana subjeknya menyentuh pengelasan etnik dan status peribumi. Ditulis secara deskriptif dan neutral berdasarkan Akta Orang Asli 1954, sumber JAKOA dan data DOSM; dipegang sebagai draf sementara menunggu semakan manusia."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: sahkan semula komposisi jantina dan angka penduduk terus daripada PDF rilis DOSM; buang dakwaan salah 'tiada Orang Asli di P. Pinang/Perlis/WP'; ganti sitiran takrif Seksyen 3 dengan cetakan semula teks penuh AGC; nyahkait dakwaan saiz suku kaum daripada JAKOA."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

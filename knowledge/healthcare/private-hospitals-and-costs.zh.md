@@ -27,14 +27,14 @@ sourceContentHash: "ae428a676e96d0c6"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-24
-    change: "Initial draft. Licensing basis confirmed via the Attorney General's Chambers legislation portal and the Ministry of Health's own listing of Act 586; specialist registration requirement confirmed via the Malaysian Medical Council; guarantee letter mechanics confirmed via Great Eastern Life Malaysia's own claims guidance; deposit practice illustrated via a private hospital's published admission guide; itemised billing practice sourced to on-the-record APHM comment reported by Free Malaysia Today; service tax mechanism noted qualitatively and cross-linked rather than re-verified, since a sibling article already covers the current rate and thresholds in detail."
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 

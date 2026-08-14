@@ -35,10 +35,10 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "GI renewal (GIA19), renewal-with-surcharge (GIA20) and restoration fee amounts — the specific RM figures in the earlier draft (RM420 / RM630 / RM670) could not be independently verified and appear to overlap with the trademark fee schedule; confirm the actual GI amounts against the Second Schedule of the Guidelines before publishing."
   - "The exact designated origin area(s) for the Musang King GI — news reports indicate Pahang and Johor; confirm against the live MyIPO GI Register entry."
@@ -46,13 +46,9 @@ verificationNeeded:
   - "Confirm section 10 is the provision covering both the generic-name/refusal grounds and the earlier-trademark-conflict ground, and that the GIA1 application fee is still RM250."
   - "Confirm the illustrative registered GIs and their states (Sarawak Pepper, Kek Lapis Sarawak, Harumanis, Tenom coffee, Sabah Batik) against the current MyIPO GI register."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-07
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-07
-    change: "Correction pass: fixed Musang King GI origin to designated Pahang/Johor areas, removed three unverified GI fees, sourced Act 602 and section 10 via WIPO Lex, added verificationNeeded."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-07

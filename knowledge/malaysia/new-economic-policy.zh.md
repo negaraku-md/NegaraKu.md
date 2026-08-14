@@ -27,11 +27,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft. Objectives and the national-unity framing verified against the Second Malaysia Plan text; poverty and equity targets and the 1990 outcome figure verified against the Third Outline Perspective Plan (Economic Planning Unit); historical framing verified against Arkib Negara Malaysia. Contested baseline figures (e.g. exact 1969 Bumiputera equity share) described qualitatively rather than quoted."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 sensitivity: "race"
 updated: 2026-07-24

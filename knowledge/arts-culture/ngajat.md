@@ -35,23 +35,19 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Pautan entiti masyarakat asal: relasi 'related-to → orang-asli' telah dibuang kerana salah (kaum Iban ialah kaum Dayak/Orang Asal Sarawak, bukan Orang Asli Semenanjung). Sahkan sama ada wujud halaman entiti Dayak/Orang Asal Sarawak yang sesuai untuk diganti."
   - "Asal usul abad ke-16 dicatat ICHLinks sebagai kepercayaan tradisi ('strongly believed'), bukan tarikh sejarah yang disahkan. Sahkan sebagai kepercayaan komuniti."
   - "Berat lesung sehingga 20 kg (Ngajat Lesong) ialah keterangan deskriptif JKKN tentang aksi tarian, bukan ukuran piawai. Sahkan angka ini."
   - "Kredit penyumbang ICHLinks (MACPA) dibaca dari halaman langsung. Sahkan susunan kata kredit penyumbang terus pada rekod ICHLinks."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Draf awal AI. Maksud, asal usul abad ke-16, kaitan Burung Kenyalang, konteks Gawai dan jenis-jenis Ngajat (Lesong, Indu, Pua Kumbu, Ngiling Tikai) disahkan terhadap pemetaan budaya JKKN dan ICHLinks (MACPA). Kepercayaan tradisional dicatat secara deskriptif sebagai kepercayaan komuniti."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: buang relasi salah 'orang-asli', betulkan salah-atribut 'Taboh Iban' (JKKN, bukan ICHLinks), sahkan semula angka/kredit terhadap sumber primer."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

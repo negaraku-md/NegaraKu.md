@@ -39,14 +39,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Draf AI awal. Fakta sejarah dan budaya disemak terhadap laporan Free Malaysia Today, The Star, Malay Mail, majalah Going Places (Malaysia Airlines) dan satu kajian akademik terbitan jurnal berwasit. Ditulis secara deskriptif dan neutral, ditahan sebagai draf sementara menunggu semakan manusia."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

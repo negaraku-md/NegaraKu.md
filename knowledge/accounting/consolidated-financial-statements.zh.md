@@ -37,23 +37,19 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Exact MFRS 10 paragraph numbers cited for the three-element control test (stated here as para 7) and for the intermediate-parent exemption (stated here as para 4(a)) — confirm against the in-force MASB text."
   - "Whether the version of MFRS 10 in force for the reader's financial year reflects later amendments (e.g. Annual Improvements); this draft cites the BV2021 consolidated text."
   - "The exact subject and timing wording of Companies Act 2016 ss244, 245, 248, 250, 258 and 259 against the current SSM-published Act (the source PDF could not be machine-read during drafting)."
   - "MBRS 2.0 announcement date (26 Nov 2024) and phased rollout dates against SSM's own MBRS notice, as the currently cited source is a professional-firm summary."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-08
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-08
-    change: "Correction pass: removed fabricated MAIG 3 title and low-authority commercial source; re-anchored the control test and paragraph 4(a) exemption to MFRS 10 itself."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-08

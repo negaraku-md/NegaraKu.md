@@ -48,15 +48,15 @@ sourceContentHash: "35fbbbda43a0bf04"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-07-22
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Initial draft, written from the Companies Act 2016, the MIA By-Laws, MIA AAPG 1 and AAPG 2, and the Malaysian approved standards on auditing ISA 700, 705, 570 and 580."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-20

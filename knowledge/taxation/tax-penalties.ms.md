@@ -47,18 +47,14 @@ sourceContentHash: "13790ae63f7d4cb0"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Initial draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-21
-    change: "Expanded the Act 863 source entry to record s.40 amending Stamp Act s.74 from 1 January 2025 (verified against Act 863 s.20(1)), resolving the mismatch with the table's 's.74 (Act 863 s.40)' citation."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-20

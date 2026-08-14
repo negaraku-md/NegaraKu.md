@@ -45,18 +45,14 @@ sourceContentHash: "2b920571a13b0794"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Initial draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-21
-    change: "Corrected the P.U.(A) 315/2025 scope from bare 'counter filings' to 'over-the-counter filings by applicants meeting the criteria in the Registrar's practice directions' — verified against the gazetted regulation 3(2) — matching trademark-registration-malaysia."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-20

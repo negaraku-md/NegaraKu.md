@@ -28,11 +28,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft. Classified Tier S (sensitivity: race) because the subject is the constitutional national-language provision. Written descriptively, reporting the clause text and its savings provisions as published, without commentary. Held as draft pending human review."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

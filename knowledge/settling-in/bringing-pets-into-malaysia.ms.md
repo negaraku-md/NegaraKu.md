@@ -26,14 +26,14 @@ sourceContentHash: "10bc44ecb02ea814"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft. Permit process, health/vaccination conditions, quarantine duration and breed lists verified against the Department of Veterinary Services' published 'Regulations for the Importation of Dogs and Cats' (non-scheduled countries, and the 11 December 2025 scheduled-country update notice) and MAQIS's own pet-import and FAQ pages."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 

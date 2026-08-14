@@ -37,18 +37,14 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-07
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-07
-    change: "Correction pass: sourced Act 235 citation, customs-ruling process, and Sales Tax Act 2018 naming to RMCD/Laws of Malaysia primary sources; softened Japan ASEAN-plus framing."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

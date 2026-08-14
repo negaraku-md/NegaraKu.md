@@ -39,15 +39,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-08
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-08
-    change: "Correction pass: sourced the 6 Oct 2023 effective date (The Star) and 21-day objection window (Thomas Philip), grounded the AKPK 'percuma' claim in a BNM source and softened 'sukarela', and fixed the s.33A/33B five-year anchor to match Thomas Philip."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

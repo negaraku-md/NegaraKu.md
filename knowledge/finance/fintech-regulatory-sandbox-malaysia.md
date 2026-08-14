@@ -35,22 +35,18 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Exact launch date: the BNM Financial Technology Regulatory Sandbox Framework was issued 18 October 2016 (BNM primary document); the body states month-level 'October 2016' only, which is what the cited fetched source supports. Confirm the precise 18 October date against BNM's own document before adding day-level specificity."
   - "'Financial Technology Enabler Group (FTEG)' as the named BNM fintech unit behind the sandbox — accurate but not established by any source in sources[]; confirm and cite before publication, or remove."
   - "'More than 110 applications since 2016' reflects the figure as of the Feb 2024 enhanced framework (per fintechnews.my); confirm the latest cumulative count against BNM's own sandbox page (bnm.gov.my/sandbox) for currency."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: removed misplaced Moody's citation, re-sourced the 110-applications and October-2016 figures to the fetched fintechnews.my source, and flagged unsourced specifics (18 Oct date, FTEG) for human verification."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

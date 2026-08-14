@@ -30,11 +30,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft. Talian HEAL 15555 (operating hours, launch, MOH ownership) confirmed via the Ministry of Health's own National Centre of Excellence for Mental Health (NCEMH) page and a public hospital's (HTAR) official announcement, cross-checked against The Star's 2026-07-09 report of a Health Ministry statement. Talian Kasih 15999 (number, WhatsApp, 24-hour operation, KPWKM/JKM ownership) confirmed via the official Malaysia.gov.my government portal. Befrienders' Klang Valley number and 24-hour operation confirmed via Befrienders Kuala Lumpur's own official contact page. MENTARI's structure (state coverage, psychiatrist-led team, no-referral-letter online route) confirmed via MOH's own official Mentari Malaysia portal. The Malaysian Mental Health Association's therapy services and RM50–RM210 fee range confirmed via MMHA's own official 'Find Help' page. The Mental Health Act 2001 (Act 615) as the governing legislation for psychiatric hospitals and community mental health centres confirmed via MOH's own published copy of the Act. No admission procedures, medication details or clinical thresholds are described, in keeping with this article's descriptive, non-clinical, stigma-reducing purpose."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

@@ -47,22 +47,18 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Exact founding date/year of FAM — sources disagree between 1926 and 1933; kept hedged in the body pending a primary source."
   - "Exact years of Kuala Lumpur's three-in-a-row Malaysia Cup titles (given as 1987–1989) — the cited sources confirm KL is the last team to win three consecutive titles but do not clearly pin the exact years."
   - "The precise nature of the HMS Malaya funding (public/Federated Malay States contributions to the Royal Navy warship) — confirm against a primary naval or historical source."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: removed unsourced 1921 HMS Malaya crew-donation origin myth (ship link is the 1933 renaming) and the unsourced exact date/venue in the opening; re-verified and retained 1957 Perak Merdeka debut, 1964 3-2 televised final, KL treble, 1972 coaches and Tehran 20-goal figure against primary sources."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

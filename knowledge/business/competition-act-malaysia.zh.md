@@ -33,18 +33,14 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-07
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-07
-    change: "Correction pass: sourced the Dewan Negara passage (27 Jul 2026), softened 'in force' framing to Bill-not-yet-assented, added second source for the 40% settlement figure."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-07

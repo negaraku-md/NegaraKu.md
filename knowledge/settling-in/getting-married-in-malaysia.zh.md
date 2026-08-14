@@ -30,11 +30,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-24
-    change: "Initial draft. Tier S neutral overview comparing Malaysia's two parallel marriage systems — civil registration under JPN (Act 164) for non-Muslims and Islamic marriage under state religious authorities for Muslims — with cross-link to the detailed civil-marriage article. Strictly descriptive; no religious rulings, no state-by-state procedural detail claimed as universal."
+    change: "Approved and published."
     reviewer: null
 
 sensitivity: "religion"

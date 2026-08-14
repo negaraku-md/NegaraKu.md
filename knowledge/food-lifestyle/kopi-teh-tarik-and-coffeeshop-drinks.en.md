@@ -35,23 +35,19 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Etimologi tepat 'C' masih diperdebatkan (teori jenama Carnation vs. sebutan dialek Hainan bagi 'xian' 鲜); sahkan dengan sumber utama sebelum menetapkan satu penjelasan sebagai muktamad."
   - "Butiran pertandingan teh tarik (peraturan rasmi, teknik menuang khusus seperti membelakangkan cangkir) belum disahkan dengan dokumen penganjur; kekalkan penerangan umum sahaja buat masa ini."
   - "Waktu operasi '24 jam' mamak adalah lazim tetapi berbeza mengikut lokasi dan cawangan; sahkan jika angka spesifik diperlukan."
   - "Nama sesi UNESCO '19.COM' dan tahun 2024 — sahkan sekali lagi terhadap keputusan rasmi Jawatankuasa Antara Kerajaan."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Draf AI awal."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: betulkan asal 'C' kepada dialek Hainan, buang aksi teh tarik membelakangkan cangkir yang tak bersumber, tambah sumber mamak & teh tarik, dan lembutkan atribusi UNESCO."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

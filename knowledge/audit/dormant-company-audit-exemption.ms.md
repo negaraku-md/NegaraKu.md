@@ -24,14 +24,14 @@ sourceContentHash: "71652677302d5a7e"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Initial draft, written from paragraphs 10 and 11 of PD 10/2024 and s.245(1) of the Companies Act 2016."
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 

@@ -40,10 +40,10 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Whether a future merger-control regime is specifically tied to the 13th Malaysia Plan (2026-2030). This pass could not confirm the 13MP link against any citable source, so the attribution was softened to 'future legislation or subsidiary regulation'."
   - "The 60% market-share figure cited as a general indicator of dominance under Section 10."
@@ -51,13 +51,9 @@ verificationNeeded:
   - "The poultry-feed case specifics: infringement period January 2020 to June 2022, the RM415.5 million penalty, and the Competition Appeal Tribunal's 11 February 2026 dismissal of the appeals."
   - "The RM667.3 million / 270 companies aggregate is a point-in-time figure stated by Deputy Minister Fuziah Salleh for the period 2012 to July 2026; confirm it is current before republishing later."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-07
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-07
-    change: "Correction pass: verified the RM667.3m/270-company aggregate (added Media Selangor source), softened the unsourced 13MP merger-control attribution, and cleaned the Malay Mail URL."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-07

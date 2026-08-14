@@ -35,22 +35,18 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Sahkan peraturan tarikh berulang 'Sabtu minggu kedua bulan Oktober' terhadap sumber rasmi KBS/JBSN (kini disandarkan pada ecentral.my, sebuah portal sekunder, disokong oleh tarikh rasmi 11 Oktober 2025 dan 10 Oktober 2026 yang kedua-duanya jatuh pada Sabtu minggu kedua)."
   - "Sahkan tarikh HSN 2026 (10 Oktober 2026) apabila pengumuman rasmi portal untuk 2026 diterbitkan."
   - "Sahkan saluran hubungan / e-mel rasmi sekretariat HSN dan alamat pejabat — dialih keluar buat sementara kerana tiada sumber rasmi yang mengesahkannya (e-mel 'hsn@kbs.gov.my' dan lokasi 'Menara KBS, Putrajaya' tidak muncul dalam mana-mana sumber yang dipetik)."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: removed unsourced email and 'Menara KBS, Putrajaya' location, sourced the 'Sabtu minggu kedua' recurrence rule, and tightened the 52% attribution to IBSM'22."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

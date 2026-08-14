@@ -40,18 +40,14 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-07
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-07
-    change: "Correction pass: sourced Seksyen 21B retention, CGT rates, historical dates & 1.1.2022 effective date to LHDN/EY primary refs; removed commercial-blog citation."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

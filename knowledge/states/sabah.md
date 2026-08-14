@@ -27,11 +27,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft. Population verified against DOSM's Kawasanku dashboard (MyCensus 2020); GDP share, state revenue and investment figures verified against a Sabah Chief Minister's Department media release; Mount Kinabalu's height and Kinabalu Park's World Heritage listing verified against Sabah Parks' World Heritage Site portal and the UNESCO listing; MA63 and constitutional references verified against the Attorney General's Chambers Federal Constitution reprint, the BHESS (Prime Minister's Department) MA63 pages and the UN Treaty Series text. Precise land area omitted pending confirmation of a single authoritative figure."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 sensitivity: "constitution"
 

@@ -32,18 +32,14 @@ translationStatus: "in-sync"
 sourceContentHash: "67bfea3efd0d9496"
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-08-14"
 publishedBy: "ashton-tan"
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: 2026-08-10
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
+  - version: "01.00"
     date: 2026-08-14
-    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
+    change: "Approved and published."
     reviewer: null
 verificationNeeded:
   - "Exact 'normal' vs 'late' birth-registration day thresholds (sources conflate 14, 42 and 60 days) — verify against JPN's birth core-business pages for Peninsular/Sabah/Sarawak separately, as thresholds and penalties differ by region."

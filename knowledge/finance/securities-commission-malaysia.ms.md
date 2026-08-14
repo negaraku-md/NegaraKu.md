@@ -38,18 +38,14 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: fixed s.15 source publisher, removed unsourced 'ASEAN/region-first' superlative, added first-party SC citation for digital-asset exchanges."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

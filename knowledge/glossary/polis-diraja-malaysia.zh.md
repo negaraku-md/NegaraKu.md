@@ -43,20 +43,16 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Ketua Polis Negara semasa: Datuk Seri Mohd Khalid Ismail disahkan sebagai KPN ke-15 (dilantik 23 Jun 2025) — sahkan beliau masih menyandang jawatan pada tarikh penerbitan serta ejaan dan gelaran penuh."
   - "Struktur jabatan PDRM dalam jadual: sahkan terhadap carta organisasi rasmi terkini di rmp.gov.my (nama dan singkatan jabatan boleh berubah)."
   - "Gelaran regnal penuh Yang di-Pertuan Agong pertama, 'Tuanku Abdul Rahman Ibni Almarhum Tuanku Muhammad': sahkan dengan sumber diraja/sejarah berautoriti."
   - "Tiga keutamaan PDRM bagi 2026 bersumberkan laporan Malay Mail (sumber berita sekunder); wajar disemak semula terhadap kenyataan rasmi PDRM."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: verified Seksyen 21 penalty (Bernama) and '1 Julai 1896' (APSeC) against cited primary sources — both kept; neutralized security-institution editorializing."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

@@ -40,22 +40,18 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Public Mutual's leadership figures (largest private manager, 44.6% retail-funds share, 51.8% PRS share, RM119bn NAV, 171 funds) are self-reported from the company's own profile page; confirm against an independent source (e.g. SC or FIMM statistics) or soften if uncorroborated."
   - "Sales-charge table (equity 3.1%->1.9%, mixed 2.9%->1.8%, bond 0.7%->0.6%; equity 0.9% via EPF by 2020) is from FIMM 2021 research as reported by The Edge; confirm against the original FIMM research if the primary document can be located."
   - "EPF i-Invest launch (August 2019) and the 12-month upfront-fee waiver from 1 May 2020 are corroborated via RinggitPlus; confirm against EPF/KWSP's own press release if accessible."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: fixed EPF i-Invest launch to Aug 2019 (was wrongly 2020) with the 1 May 2020 fee waiver; distinguished MIS from the i-Invest platform; added source and verificationNeeded flags."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

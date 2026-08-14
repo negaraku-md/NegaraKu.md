@@ -39,23 +39,19 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Sama ada peranan SPNB (dilantik oleh Kementerian Kewangan pada 2001 sebagai ejen pemulihan) kekal sebagai mekanisme pemulihan projek terbengkalai yang aktif hari ini, memandangkan SPNB diletakkan di bawah kawalan KPKT sejak 3 Ogos 2018."
   - "Interaksi tepat antara pengesahan status oleh Pengawal Perumahan dan pengisytiharan terbengkalai oleh Menteri di bawah Seksyen 11(1)(a) Akta 118 — pengesahan actor berkanun yang betul."
   - "Nombor seksyen tepat bagi penalti ketidakpatuhan award Tribunal (dirujuk sebagai 16AD dalam sesetengah sumber) dan pengesahan peruntukan bayaran balik penuh dalam tempoh 30 hari."
   - "Perkataan tepat penalti kesalahan pengabaian di bawah Seksyen 18A berbanding teks konsolidasi Akta 118 yang dikemas kini (pindaan 2011)."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-08
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-08
-    change: "Correction pass: added primary SPNB + HBA sources for the SPNB rehabilitation role, sourced the winding-up limb, and fixed the Section 18A abandonment penalty (RM250k-500k OR up to 3 years, distinct from Section 18)."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-08

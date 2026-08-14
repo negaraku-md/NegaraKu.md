@@ -36,23 +36,19 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Angka jualan RM122 juta (1 Sept–18 Okt 2021) dan pecahan 368 lokasi adalah petikan akhbar 2021 — bukan data terkini; sahkan sama ada FAMA menerbitkan angka rasmi terkini sebelum digunakan sebagai statistik semasa."
   - "Komponen lokasi yang disenaraikan (35 pasar tani kekal, 266 pasar tani, 19 gerai buah segar, 5 Agrobazaar, 5 pasar tamu) berjumlah 330, tidak 368; sumber sendiri melaporkan jurang ini. Perkataan 'termasuk' menandakan senarai separa — sahkan pecahan penuh dengan FAMA jika angka tepat diperlukan."
   - "Bilangan tepat, lokasi dan waktu operasi outlet (Pasar Tani Kekal, My Farm Outlet, Agrobazaar, GBBS) berubah dari semasa ke semasa; sahkan di fama.gov.my pada tarikh penerbitan."
   - "Tajuk, tahun kuat kuasa dan rujukan P.U.(A) peraturan subsidiari perlu disemak semula terhadap teks warta rasmi (bukan ringkasan laman FAMA) sebelum sebarang penggunaan undang-undang."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Draf AI awal — halaman entiti agensi Tier 4; latar belakang, akta, teras pemasaran dan saluran jualan disahkan di fama.gov.my; angka jualan contoh daripada laporan akhbar."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: lengkapkan pecahan 368 lokasi (tambah 5 pasar tamu, disahkan semula terhadap Malay Mail), buang relasi DOSM yang tidak disokong, tambah verificationNeeded."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

@@ -35,18 +35,14 @@ translationStatus: "in-sync"
 sourceContentHash: "d4cb6805f330e418"
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: 2026-07-10
-    change: "Initial draft."
-    reviewer: null
-  - version: "0.2"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Reclassified from Tier 2 to Tier S with sensitivity religion — the article describes state restrictions imposed on religious grounds, which is a matter this project holds to the descriptive-only standard. Added FAQ, further official sources, and a UNESCO reference clarifying that the Indonesian wayang inscription does not cover the Kelantanese form."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-20

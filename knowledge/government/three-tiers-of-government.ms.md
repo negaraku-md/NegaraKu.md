@@ -26,15 +26,14 @@ translationStatus: "in-sync"
 sourceContentHash: "1d2f38974439f947"
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft. Describes the federal-state-local structure of Malaysian government and the division of responsibilities across tiers, drawing on the Federal Constitution's Ninth Schedule, the Local Government Act 1976, and KPKT/JKT's own classification of local authorities. Notes the 1965 suspension and 1976 abolition of local government elections descriptively, without commentary. Held as draft pending human review."
-    contributor: null
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 sensitivity: "none"

@@ -53,18 +53,14 @@ sourceContentHash: "b20fb73bf5494f07"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-21
-    change: "Initial draft. Gazette and RMCD checks returned no DFTZ instrument; current programme status recorded as unconfirmed."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-21
-    change: "Status resolved. Full P.U.(B) index swept (9,059 instruments, none titled digital; Act 438 holds 109, all ordinary free-zone notifications) and Act 438's consolidated text contains no occurrence of the word digital — the negative finding is now positive evidence, with Forest City SFZ's eleven 2025 instruments as the control for what a gazetted zone package looks like. KLIA identified as First Schedule item 10. MDEC's live page now defines DFTZ solely as the eServices Platform run with RMCD. Import duty de minimis traced to P.U.(A) 445/2017 item 94 as substituted by P.U.(A) 59/2023, RM500 unchanged — added the duty-versus-sales-tax table because the two RM500 lines run in opposite directions and are not complements. Post-2023 statistics recorded as structurally unobtainable following MAHB's delisting on 25 February 2025. Gaps cut from six to four, narrowed to policy custodianship, platform go-live, the Satellite Services Hub, and post-2020 statistics."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-21

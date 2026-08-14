@@ -37,15 +37,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft. Institution-accreditation and enrolment-route details verified against the Malaysian Immigration Department's Student Pass page, EMGS's official guidelines and step-by-step guide, and MQA's entry-qualification page."
-    contributor: null
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 

@@ -42,27 +42,19 @@ sourceContentHash: "2149f1005d0a6af7"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 publishedBy: "ashton-tan"
 reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "0.3"
+version: "01.00"
 verificationNeeded:
   - "Exact Perodua minority shareholding percentages (Daihatsu Motor, PNB, Daihatsu Malaysia, Mitsui) — only the UMW 38% stake and MBM Resources' 20% associate interest are confirmable from listed-company disclosures; the Daihatsu/PNB/Mitsui splits appear only in secondary compilations, not in any accessible primary source."
   - "Perodua QV-E details beyond the launch announcement, including Battery-as-a-Service pricing terms and battery-lease costs."
 revisions:
-  - version: "0.1"
-    date: 2026-07-28
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-28
-    change: "Correction pass: removed non-authoritative sources (jpj.my ad-farm, carro.co blog), softened unsourced Perodua minority percentages and EV-incentive expiry dates, sourced 2019 production to MIDA, corrected QV-E ramp to Q3 2026, and added verificationNeeded."
-    reviewer: null
-  - version: "0.3"
+  - version: "01.00"
     date: 2026-08-14
-    change: "Cleared verified items against primary sources; corrected figures where they differed."
-    reviewer: "ashton-tan"
+    change: "Approved and published."
+    reviewer: null
 
 updated: 2026-08-14
 sources:

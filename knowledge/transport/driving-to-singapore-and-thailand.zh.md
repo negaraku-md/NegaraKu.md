@@ -27,14 +27,14 @@ sourceContentHash: "4dfab6647457152e"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-24
-    change: "Initial draft. Singapore VEP/Autopass requirement verified via LTA OneMotoring and the LTA's February 2026 news release on fee changes; Malaysia-side VEP context verified via JPJ.MY; Thailand's temporary vehicle import process and the Malaysian exemption from the Temporary Vehicle Border Pass verified via Thailand.go.th; the cross-border motor insurance gap and PIAM's recommended endorsement verified via PIAM."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

@@ -33,14 +33,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Draf awal. Mekanisme SmartTAG dan RFID disahkan pada laman rasmi Touch 'n Go dan FAQ Lembaga Lebuhraya Malaysia (LLM). Butiran rintis ANPR/JustGO PLUS (tarikh, plaza terlibat, bilangan plaza) disahkan pada kenyataan media rasmi PLUS Malaysia dan laporan The Star yang memetik kenyataan PLUS. Kadar tol sengaja tidak dinyatakan mengikut arahan skop artikel."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

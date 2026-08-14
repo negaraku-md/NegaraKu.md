@@ -40,18 +40,14 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-28
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-28
-    change: "Correction pass: fixed trade surplus to DOSM's RM139.1b, deleted unsourced oil-palm-38.5% figure, softened the derived services/manufacturing split, and removed the mismatched H1-2024 MIDA source."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

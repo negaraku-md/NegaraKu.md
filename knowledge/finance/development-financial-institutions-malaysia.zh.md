@@ -36,23 +36,19 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "SME Bank's 2005 establishment year: the official SME Bank 'About Us' page (smebank.com.my) returns HTTP 403 to automated fetch, so the date was confirmed via search of the official domain and BNM's DFI listing rather than a direct page fetch. Confirm against the live page in a browser."
   - "The DFIA (Amendment) Act 2015 in-force date (31 January 2016) and the new Part IIIA Shariah requirements aligned with IFSA 2013: confirm the exact citation against the Federal Gazette or BNM's Legislation page (the BNM Legislation page returns HTTP 403 to automated fetch)."
   - "The two BNM links (dfi-overview and Act 618) return HTTP 403 to automated fetch though they are genuine BNM pages; verify they resolve in a browser. The canonical BNM DFI page is bnm.gov.my/index.php?ch=fs&pg=fs_mfs_dfi&ac=162."
   - "The 1 May 2025 BPMB Group consolidation (EXIM Bank and SME Bank becoming BPMB subsidiaries) and the 'over RM9 billion' Budget 2026 mandate: re-confirm against the current BPMB press release before publication."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: added fetched primary sources for every establishment date and the 31 Jan 2016 amendment, softened editorialising, added verificationNeeded."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

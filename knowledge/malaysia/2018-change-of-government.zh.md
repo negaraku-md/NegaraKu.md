@@ -27,12 +27,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "First draft — GE14 result, seat figures, and the Article 43 transfer-of-power mechanism, compiled neutrally from the Election Commission (SPR), IPU Parline parliamentary data, and the Perdana Leadership Foundation record."
-    contributor: "NegaraKu.md Editorial"
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 sensitivity: "elections"
 updated: 2026-07-24

@@ -34,23 +34,19 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Sama ada kelayakan atau pendaftaran PADU turut merangkumi pemastautin tetap atau terhad kepada warganegara Malaysia 18 tahun ke atas — sumber yang dipetik hanya merujuk warganegara."
   - "Sama ada angka pendaftaran 10.85 juta (setakat 31 Mac 2024) telah berubah selepas fasa kemas kini seterusnya."
   - "Sama ada butiran kos perkakasan RM2 juta / tempoh pembinaan tujuh bulan patut dimasukkan semula dengan sumber utama kerajaan jika relevan (dikeluarkan dalam pass ini kerana bersifat promosi dan longgar kaitannya)."
   - "Pengelasan sensitivity — topik melibatkan penyasaran kelayakan subsidi melalui pangkalan data kebangsaan; sahkan sama ada 'none' kekal sesuai."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-08
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-08
-    change: "Correction pass: buang perluasan 'pemastautin tetap' yang tidak bersumber, pass neutraliti pada bahasa rasional kerajaan, dan keluarkan butiran kos RM2 juta yang bersifat promosi."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-08

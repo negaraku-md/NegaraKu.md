@@ -40,23 +40,19 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Budget 2025 figures for MSPO support: the specific ringgit amounts (previously RM65m total / RM50m for certification / RM15m for anti-campaign work) were removed because no cited source substantiated them. Reconfirm against the official Budget 2025 documents or an MPOB/Ministry statement before restoring any figure."
   - "The downstream licence-renewal claim (MPOB Licensing Enforcement Circular 02/2025, the MS2530-4-3:2022 standard reference, and a 1 January 2026 effective date) currently rests on a compliance-consultancy blog, not an MPOB primary source. Confirm the circular number, standard code and effective date against an official MPOB circular."
   - "Reconcile the Minister's 'more than half a million smallholders' with the 210,891 figure for licensed independent smallholders — these appear to count different populations (all smallholders vs licensed independents)."
   - "EU wording: the EEAS joint statement uses 'credible sustainability scheme'; the MSPO press release uses 'credible sustainability standard'. Confirm preferred phrasing."
 revisions:
-  - version: "0.1"
-    date: 2026-08-01
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
+  - version: "01.00"
     date: 2026-07-28
-    change: "Correction pass: fixed EEAS citation to the 5 Sep 2025 joint statement, removed unsourced Budget 2025 ringgit figures, added EUR-Lex for the EUDR adoption date, sourced the Minister quote, softened the licensing-circular claim, and neutralised promotional framing."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-28

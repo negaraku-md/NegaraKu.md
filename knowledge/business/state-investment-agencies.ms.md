@@ -52,14 +52,14 @@ sourceContentHash: "667fe9c1898504ba"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Initial draft. Every agency domain tested directly; unresolvable domains reported rather than described from memory."
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 

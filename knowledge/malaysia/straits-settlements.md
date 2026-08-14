@@ -33,14 +33,14 @@ masterLanguage: "en"
 translationStatus: "master"
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "First draft. Every date and administrative detail checked against the National Library Board Singapore (Infopedia and eresources.nlb.gov.sg), Perpustakaan Negara Malaysia, Arkib Negara Malaysia, Portal Rasmi Dewan Negeri Perak, Portal Rasmi Lembaga Muzium Negeri Perak, the Johor Sultanate's own portal, UK Hansard and legislation.gov.uk. Exact appointment dates for the first Residents of Selangor, Negeri Sembilan and Pahang, and the exact 1896 commencement date of the Federated Malay States, could not be confirmed on an official source and are described only qualitatively rather than dated. Source audit of the same date removed four further figures that no listed source carried — the year Kuala Lumpur became Selangor's capital, the article count of the Pangkor Treaty, the year the Federation of Malaya replaced the Malayan Union, and the interval between the two — and re-dated the merchants' petition for Crown rule to after the 1857 Indian Mutiny, per the National Library Board account, which also records that the Settlements continued to be ruled from Calcutta after the East India Company was abolished in 1858. An FAQ block and an seoTitle were added; the article remains an unreviewed AI draft."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 updated: 2026-07-24

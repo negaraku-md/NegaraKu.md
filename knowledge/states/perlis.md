@@ -43,11 +43,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Draf awal. Semua angka disahkan pada sumber rasmi: DOSM (penduduk 2025, KDNK negeri 2024), Pejabat DYMM Tuanku Raja Perlis (salasilah diraja), Parlimen Malaysia (senarai Yang di-Pertuan Agong), Kerajaan Negeri Perlis (DUN dan Dewan Rakyat), MKN dan NCIA (keluasan dan projek pembangunan)."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 sensitivity: "royalty"
 

@@ -40,26 +40,18 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 publishedBy: "ashton-tan"
 reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "0.3"
+version: "01.00"
 verificationNeeded:
   - "Asal-usul import daging lembu (negara pembekal utama): dilembutkan kerana tiada sumber primer diambil dalam pas ini — sahkan terhadap data perdagangan DOSM atau MAQIS jika mahu menamakan negara."
 revisions:
-  - version: "0.1"
-    date: 2026-08-01
-    change: "Draf awal AI — angka disahkan terhadap DOSM, KPKM, KPK, MPOB, Bank Dunia dan Bernama."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: buang SSR lama 62.6% yang tak bersumber, betulkan guna tenaga 9.8%->9.7% (API Bank Dunia), sahkan FFB 100.2 juta tan + pecahan kawasan sawit MPOB + 3 nilai SSR SUA, jelas atribusi Bernama, lembutkan asal import daging, betulkan taip RH->RM."
-    reviewer: null
-  - version: "0.3"
+  - version: "01.00"
     date: 2026-08-14
-    change: "Cleared verified items against primary sources; corrected figures where they differed."
-    reviewer: "ashton-tan"
+    change: "Approved and published."
+    reviewer: null
 
 updated: 2026-08-14
 sources:

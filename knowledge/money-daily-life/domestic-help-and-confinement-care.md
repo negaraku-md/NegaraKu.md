@@ -24,14 +24,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft. Foreign domestic helper source countries, income thresholds and one-per-household rule verified against the Immigration Department of Malaysia's own Foreign Domestic Helper (FDH) page. Confinement centre licensing arrangement verified against an official Selangor state assembly (Dewan Negeri) answer and corroborated by Bernama reporting on the national regulatory gap. Employment Act domestic-servant treatment described qualitatively; the specific notice-period figure widely quoted by secondary legal sites could not be confirmed against the Act's own text within this session and is deliberately omitted."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 

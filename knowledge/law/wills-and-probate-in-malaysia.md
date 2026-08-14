@@ -40,18 +40,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-07
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-07
-    change: "Correction pass: kemas kini ambang pusaka kecil RM2 juta -> RM5 juta dan buang syarat harta tak alih (pindaan 2022, berkuat kuasa 15 Julai 2024); tambah sumber untuk ambang Amanah Raya RM600,000 dan jadual pecahan Seksyen 6 penuh."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

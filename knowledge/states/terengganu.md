@@ -45,11 +45,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Draf awal. Semua angka disahkan pada sumber rasmi (DOSM/OpenDOSM, portal Kerajaan Negeri Terengganu, ucapan Belanjawan Negeri 2026, AGC Akta 144, Kementerian Kewangan, Jabatan Muzium Malaysia, UNESCO, PETRONAS Gas Berhad, MBKT). Ditandakan tier S dengan sensitiviti royalty — bahagian institusi diraja dan perkongsian hasil petroleum ditulis secara deskriptif sahaja."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

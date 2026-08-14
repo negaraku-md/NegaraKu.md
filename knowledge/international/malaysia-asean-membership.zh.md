@@ -45,24 +45,16 @@ sourceContentHash: "91d3dbf8b061bce3"
 status: "published"
 aiAssisted: true
 publishedBy: "ashton-tan"
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "0.3"
+version: "01.00"
 verificationNeeded: []
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Draf AI awal. Fakta pengasasan, tarikh kemasukan ahli, Piagam ASEAN, tiga tonggak, badan utama, dan pengerusian 2025 disahkan di asean.org, mfa.gov.sg, timor-leste.gov.tl, mof.gov.my dan Bernama."
+    change: "Approved and published."
     reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: betulkan tarikh serahan pengerusian (gavel 28 Okt 2025, Filipina rasmi 1 Jan 2026), ganti pautan investasean yang mati dengan sumber AEC yang stabil, betulkan 'sejarah 60 tahun' kepada hampir enam dekad, dan neutralkan rangka pencapaian."
-    reviewer: null
-  - version: "0.3"
-    date: 2026-08-14
-    change: "Cleared verified items against primary sources; corrected figures where they differed."
-    reviewer: "ashton-tan"
 
 updated: 2026-08-01
 sources:

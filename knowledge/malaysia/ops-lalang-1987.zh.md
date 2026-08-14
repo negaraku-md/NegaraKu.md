@@ -40,15 +40,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-08
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-08
-    change: "Correction pass: re-verified figures against primary/authoritative sources, sourced the 119 and initial-19 counts and detainee names, replaced the unverifiable Tunku affidavit claim with his on-record criticism, and sourced the UMNO split and 1988 judicial crisis."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

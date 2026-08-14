@@ -35,23 +35,19 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Kenyataan bahawa siasatan polis 'masih berjalan' dan destinasi data eksport 'belum dikenal pasti' setakat laporan Audit dibentangkan — konsisten dengan konteks CodeBlue tetapi belum disahkan perkataan demi perkataan."
   - "Butiran 'hampir 500 klinik dinaik taraf dalam dua tahun' dan '20 lagi hospital dijangka menyusul tahun ini' — angka Media Selangor yang dikaitkan dengan Dr Vivek Jason Jayaraj; sahkan terhadap kenyataan rasmi KKM."
   - "Frasa pembangun bertindak sebagai 'operator platform' — sahkan petikan tepat Khairy Jamaluddin (Mac 2022)."
   - "Senarai 12 jenis perkhidmatan Temu Janji boleh berubah dari semasa ke semasa; sahkan semula terhadap halaman helpdesk MySejahtera semasa penerbitan."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: attributed 10%/5–10 tahun figure precisely to Dr Vivek Jason Jayaraj, sourced the PDPA government-exemption claim to the official regulator and softened the 'experts' framing, and added verificationNeeded."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

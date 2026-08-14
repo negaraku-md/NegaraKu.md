@@ -25,15 +25,14 @@ masterLanguage: "ms"
 translationStatus: "master"
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-24
-    change: "Draf awal. Komponen dan amaun PeKa B40 disahkan silang antara laman ProtectHealth (pengendali rasmi), Portal Manfaat Kementerian Kewangan, dan portal Ihsan MADANI. Skim mySalam disahkan pada laman rasmi mysalam.com.my sebagai skim berasingan untuk tujuan pembezaan."
-    contributor: null
+    change: "Approved and published."
     reviewer: null
 updated: 2026-07-24
 sources:

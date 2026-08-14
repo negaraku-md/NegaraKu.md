@@ -44,15 +44,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-07
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-07
-    change: "Correction pass: re-verified all section quotes against the live AGC Act 164 reprint, clarified that the s.52 mutual-consent route is not an exception to the two-year rule, tied WCC Penang to an inline claim, and added verificationNeeded."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

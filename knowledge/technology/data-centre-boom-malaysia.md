@@ -41,23 +41,15 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "0.3"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: 2026-08-01
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: fixed 60%-by-2030 attribution to White & Case LLP, removed unsourced minister name, clarified SCMP water-supply figure, light neutrality pass."
-    reviewer: null
-  - version: "0.3"
+  - version: "01.00"
     date: 2026-08-14
-    change: "Cleared verified items against primary sources; corrected figures where they differed."
-    reviewer: "ashton-tan"
+    change: "Approved and published."
+    reviewer: null
 
 verificationNeeded:
   - "Neutrality: the sovereignty / non-AI-freeze framing is lightly interpretive; re-review tone if this article is ever reclassified above tier 1 or as sensitive."

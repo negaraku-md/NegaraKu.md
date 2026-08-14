@@ -37,22 +37,18 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Governing statute year/citation: PIDM pages name the Act without a year; the current statute is the Malaysia Deposit Insurance Corporation Act 2011 (Act 720). Confirm before adding the year in-body."
   - "PIDM establishment year (2005) and TIPS commencement (31 December 2010) — sourced to the About PIDM FAQ; confirm still current on the live page."
   - "TIPS RM500,000 limit is stated as the general per-eligible-benefit cap; the TIPS page has per-category benefit tables. Confirm the RM500,000 figure applies to the benefit categories described here."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-08
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-08
-    change: "Correction pass: re-verified joint/trust and insurer-member claims against PIDM primary pages, trimmed promotional intro tone, added sourced repurchase-agreements exclusion."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-08

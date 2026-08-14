@@ -35,18 +35,14 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-08
-    change: "Draf awal AI."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-08
-    change: "Correction pass: tambah frasa berkanun 'atau kedua-duanya' pada penalti s69(6), longgarkan perenggan amalan profesional yang tidak bersumber, tambah verificationNeeded."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

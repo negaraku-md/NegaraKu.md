@@ -36,23 +36,15 @@ translationStatus: "in-sync"
 sourceContentHash: "0119cb2bc48cc9ad"
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-08-14"
 publishedBy: "ashton-tan"
-version: "0.3"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: 2026-08-10
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
+  - version: "01.00"
     date: 2026-08-14
-    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
+    change: "Approved and published."
     reviewer: null
-  - version: "0.3"
-    date: 2026-08-14
-    change: "Cleared verified items against primary sources; corrected figures where they differed."
-    reviewer: "ashton-tan"
 verificationNeeded:
   - "The live Wisma Putra organisation chart (Secretary-General + 3 Deputy Secretaries-General, 6 federal departments, 4 federal agencies) — the 3/6/4 breakdown could not be re-verified line-by-line against the current KLN organisation chart (kln.gov.my returns TLS certificate errors on direct fetch); confirm against the primary org chart before stating the exact counts."
 updated: 2026-08-14

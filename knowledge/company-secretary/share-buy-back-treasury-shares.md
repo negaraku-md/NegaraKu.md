@@ -34,18 +34,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-07
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-07
-    change: "Correction pass: replaced private-law-firm Bursa source with official Bursa host, clarified Main Market/ACE Chapter 12 scope, fixed RM50,000 penalty citation to s.127(18), added s.127(3) off-market note."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

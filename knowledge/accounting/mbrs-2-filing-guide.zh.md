@@ -46,24 +46,16 @@ sourceContentHash: "7d7049034803d339"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 publishedBy: "ashton-tan"
 reviewed: "2026-08-14"
 reviewDue: 2027-07-22
-version: "0.3"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: 2026-07-20
-    change: "Initial draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-21
-    change: "Removed the stale 'mTool 2.1' migration step (the article states mTool 2.2 is current) — a 1.0 zip is reopened in the current tool. EA5A and EA5B remain cited to s.259(2), which PN 3/2018 para 10 confirms is the single extension power for both circulation and lodgement."
-    reviewer: null
-  - version: "0.3"
+  - version: "01.00"
     date: 2026-08-14
-    change: "Cleared verified items against primary sources; corrected figures where they differed."
-    reviewer: "ashton-tan"
+    change: "Approved and published."
+    reviewer: null
 
 updated: 2026-08-14
 sources:

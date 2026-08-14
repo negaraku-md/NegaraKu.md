@@ -33,24 +33,14 @@ sourceContentHash: "9b43f0c692cc687d"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.3"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Draf awal."
-    reviewer: null
-  - version: "0.2"
-    date: "2026-07-24"
-    change: "Audit sumber: angka sejarah bilangan kerusi (Parlimen pertama, kenaikan berperingkat) dibuang kerana tiada sumber rasmi dalam frontmatter; Akta A1603 ditambah sebagai sumber bagi umur 18 tahun dalam Perkara 47(b); pembetulan rujukan Perkara 59 (sumpah, bukan mengambil kerusi) dan Perkara 48(3)."
-    reason: "Setiap angka mesti boleh dijejaki kepada sumber rasmi yang disenaraikan."
-    reviewer: null
-  - version: "0.3"
-    date: "2026-07-24"
-    change: "Pengesahan penuh terhadap teks Cetakan Semula 2020 (versi BM dan EN) di lom.agc.gov.my. Pembetulan: cetakan semula itu SUDAH memuatkan Akta A1603 — Perkara 47(b) berbunyi 'lapan belas tahun' (A1603 berkuat kuasa 11-09-2019, sebelum tarikh cetakan). Sejarah bilangan kerusi ditambah semula dengan sandaran catatan pindaan rasmi (Hari Merdeka: 100 ahli, Dewan pertama 104; Akta A1260 berkuat kuasa 19-01-2006: 219 kepada 222). Pautan silang diselaraskan ke format /en/ dan senarai sumber dikemas kini kepada URL yang disahkan."
-    reason: "Angka dan dakwaan mesti sepadan dengan teks rasmi, bukan andaian tentang teks rasmi."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 

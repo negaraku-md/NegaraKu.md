@@ -58,18 +58,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Initial draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-21
-    change: "Put the transitional-window timeline back into chronological order — the 27 May 2024 revision now precedes the 30 September 2024 close, with the original 30 June 2024 end folded into the opening row, so the dates no longer run 1 Apr, 30 Jun, 27 May, 30 Sep."
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 

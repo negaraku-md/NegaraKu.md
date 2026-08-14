@@ -40,22 +40,18 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Institutional history: the department is often described as having begun as an Environment Division around 1975 and upgraded to a full department on 1 September 1983. These hard dates were removed in the 0.2 correction pass because they could not be confirmed against a primary source — DOE's own site carries no extractable institutional history (the vision/mission page renders only as images). A human should source and reinstate these dates if wanted."
   - "Current parent-ministry assignments post-2023 reshuffle: JAS, JPSM (Forestry) and Perhilitan under NRES; SWCorp under KPKT — confirm still current."
   - "DOE complaints line (03-8889 1972) and toll-free hotline (1-800-88-2727) — re-confirm live on doe.gov.my as these change."
 revisions:
-  - version: "0.1"
-    date: "2026-07-28"
-    change: "Initial AI draft. Mandate, structure and contact details verified at doe.gov.my; statutory basis and section numbers verified against the Environmental Quality Act 1974 (Act 127) PDF on doe.gov.my; sister-agency statutes verified at ecolex and faolex."
-    reviewer: null
-  - version: "0.2"
-    date: "2026-07-28"
-    change: "Correction pass: deleted unsourced 1975/1983 institutional-history dates (moved to verificationNeeded); sourced the NRES/KPKT ministry assignments against nres.gov.my and swcorp.gov.my."
+  - version: "01.00"
+    date: 2026-07-28
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-28

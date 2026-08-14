@@ -38,14 +38,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-24
-    change: "Draf awal. Amalan ibadah (zakat fitrah, takbir, solat sunat Aidilfitri, 1 Syawal menandakan berakhirnya Ramadan) disandarkan pada bahan rasmi JAKIM. Amalan sosial dan budaya (balik kampung, duit raya, rumah terbuka, ziarah kubur, juadah) disandarkan pada artikel Perpustakaan Negeri Sabah. Status cuti umum disandarkan pada Jadual Hari Kelepasan Am, Bahagian Kabinet JPM. Ditulis secara deskriptif dan neutral tanpa mentafsir ajaran agama."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

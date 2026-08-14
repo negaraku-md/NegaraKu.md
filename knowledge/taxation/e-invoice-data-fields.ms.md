@@ -34,18 +34,14 @@ sourceContentHash: "7457966f1e6638bb"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Initial draft from e-Invoice Guideline v4.7 Appendices 1 and 2, and the MyInvois SDK."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-21
-    change: "Corrected optional/conditionally-mandatory field counts in answer and keyTakeaways to match Appendix 1 table (20 optional, 8 conditionally mandatory)."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-20

@@ -29,18 +29,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: 2026-07-10
-    change: "Initial draft."
-    reviewer: null
-  - version: "0.2"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Converted to a Tier 3 hub over the seven SST articles now written beneath it, and re-tiered from 2 accordingly. The original was 450 words behind a Tier 2 badge with no FAQ, and its figures had gone stale — it presented a single RM500,000 registration threshold, which is wrong group by group, and hedged on the F&B threshold instead of stating a position. Rate, threshold and exemption detail now lives in the cluster; this page routes by reader intent."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-20

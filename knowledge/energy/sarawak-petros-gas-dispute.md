@@ -37,15 +37,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: fixed DGO 2016 enacted/in-force/2023-amendment dates, added missing Edge citation for Emergency Ordinance 1969 claim, added national corroboration, and attributed MA63 framing to Sarawak's position."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

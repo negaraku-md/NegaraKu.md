@@ -37,18 +37,14 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-07
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-07
-    change: "Correction pass: reframed Act A1738 from naming-only to substantive per fetched sources, fixed Regulations gazette date to 24 December 2025, sourced the 1 January 2026 commencement, removed unsourced '100 days' figure."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

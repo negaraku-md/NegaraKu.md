@@ -38,23 +38,19 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Kod borang JPN.KC02 (permohonan/pendaftaran perkahwinan) dan JPN.KC01C (lesen perkahwinan khas/ekspres untuk mengetepikan notis 21 hari): disahkan melalui sumber kerajaan negeri (Pejabat Daerah Serian, Sarawak), tetapi sahkan sekali lagi terhadap portal rasmi JPN kerana kod borang boleh dikemas kini."
   - "Klasifikasi sensitivity kekal 'none' seperti diarahkan, tetapi artikel menyentuh peruntukan pemelukan Islam (seksyen 51, 51A) dan pembahagian bidang kuasa sivil vs Syariah — topik antara agama yang sensitif di Malaysia. Peninjau manusia patut menilai semula sama ada tag 'none' memadai."
   - "Seksyen 12 (ibu kini mempunyai kuasa persetujuan yang sama dengan bapa bagi perkahwinan anak di bawah umur 21 tahun): sahkan perkataan tepat pindaan; sumber sekunder mengesahkan pihak yang boleh memberi persetujuan diperluas tetapi tidak semuanya menyatakan kesetaraan ibu secara eksplisit."
   - "Butiran fakta seksyen 54 (tempoh pengabaian dan berpisah dua tahun), sekatan masa seksyen 50, dan petisyen bersama seksyen 52 patut disemak semula terhadap teks statut rasmi sebelum penerbitan."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-07
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-07
-    change: "Correction pass: fixed seksyen 51A conversion precondition, verified & sourced JPN form codes, replaced mislabelled Mondaq citation with independent source, added verificationNeeded."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-07

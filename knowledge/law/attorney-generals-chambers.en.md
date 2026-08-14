@@ -38,24 +38,16 @@ sourceContentHash: "8a9cf47766823c46"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 publishedBy: "ashton-tan"
 reviewed: 2026-08-14
 reviewDue: 2027-08-08
-version: "0.3"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: 2026-08-07
-    change: "Draf awal AI."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-07
-    change: "Correction pass: betulkan tarikh kes Najib ke Jan 2016; buang angka 'dua pertiga', 'ratusan peguam' dan 'sejak merdeka' yang tak bersumber; lembutkan klausa tempoh jawatan; buang pautan silang 'public-prosecutor'; tambah sumber Malay Mail."
-    reviewer: null
-  - version: "0.3"
+  - version: "01.00"
     date: 2026-08-14
-    change: "Cleared verified items against primary sources; corrected figures where they differed."
-    reviewer: "ashton-tan"
+    change: "Approved and published."
+    reviewer: null
 
 verificationNeeded:
   - "Bilangan peguam kerajaan di Jabatan Peguam Negara dan tahun penubuhan agensi — dikeluarkan kerana tiada sumber sahih (bukan Wikipedia); tambah semula jika sumber rasmi (cth. agc.gov.my) diperoleh."

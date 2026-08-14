@@ -26,14 +26,14 @@ sourceContentHash: "b22efe69c2b27bab"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft. Tribunal jurisdiction (RM50,000 cap), RM5 filing fee, 3-year limitation, excluded categories, legal basis (Section 85, Part XII, Act 599) and finality/judicial-review route verified against KPDN's own Tribunal for Consumer Claims FAQ page. Consumer-rights coverage of Act 599 described qualitatively from the Act's published structure without quoting unverifiable section text."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

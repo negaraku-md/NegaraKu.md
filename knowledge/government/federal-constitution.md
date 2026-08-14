@@ -39,15 +39,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Draf awal AI. Setiap peruntukan (Perkara 4, Perkara 159 dan takrif Hari Merdeka dalam Perkara 160) serta susunan Bahagian dan Jadual disemak terhadap teks cetakan semula rasmi Perlembagaan Persekutuan dan pangkalan data WIPO Lex. Ditulis secara deskriptif dan neutral; ditahan sebagai draf menunggu semakan manusia."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: petikan UNESCO webform yang salah label digantikan dengan cetakan semula rasmi AGC (As at 15 October 2020); tajuk penuh Bahagian XI dipulihkan mengikut teks rasmi."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

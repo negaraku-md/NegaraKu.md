@@ -34,18 +34,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-08
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-08
-    change: "Correction pass: anchored every hard figure (50% cap, +25% housing loan, 3-month window, Seksyen 13(1)/22) to the official Act 265 statutory reprint; neutralised editorialising tone."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

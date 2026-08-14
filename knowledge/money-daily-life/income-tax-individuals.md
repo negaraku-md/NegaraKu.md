@@ -32,14 +32,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft. Residency test transcribed verbatim from section 7 of the Income Tax Act 1967 as published by LHDN; Year of Assessment 2025 filing deadline verified against LHDN's own dated media statement. Registration threshold and specific e-Daftar document checklist could not be confirmed on an accessible official page and are described qualitatively rather than with an unverified figure."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 

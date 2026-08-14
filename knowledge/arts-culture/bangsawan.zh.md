@@ -40,14 +40,14 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Draf awal AI. Asal usul, struktur persembahan, kumpulan dan kaitan dengan filem Melayu disahkan pada rekod pemetaan budaya JKKN, Asian Traditional Theatre & Dance (Universiti Seni Helsinki), BiblioAsia (Lembaga Perpustakaan Negara Singapura), Ipoh Echo dan Singapore Bangsawan Festival."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

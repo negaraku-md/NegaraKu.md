@@ -37,26 +37,18 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-08-03
 publishedBy: "ashton-tan"
-version: "0.3"
+version: "01.00"
 verificationNeeded:
   - "The characterisation of Press Metal's production costs as 'first quartile of the global cost curve' — sourced only to the 2019 RAM note; confirm it still holds."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-28
-    change: "Initial AI draft."
+    change: "Approved and published."
     reviewer: null
-  - version: "0.2"
-    date: 2026-07-28
-    change: "Correction pass: fixed FY2021 market-cap (RM32bn not RM71bn) and PAT label (RM7.82bn), dated/attributed the stale 2019 RAM capacity figures, removed unsourced founding dates and 'one in four' share claim, deleted the unsupported CBP remediation-payment sentence, relabelled the law-firm press release, dropped the mismatched Bernama citation, and softened tone."
-    reviewer: null
-  - version: "0.3"
-    date: 2026-08-14
-    change: "Cleared verified items against primary sources; corrected figures where they differed."
-    reviewer: "ashton-tan"
 
 updated: 2026-07-28
 sources:

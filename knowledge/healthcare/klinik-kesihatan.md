@@ -31,15 +31,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-24
-    change: "Draf awal. Jenis fasiliti kesihatan kerajaan dan skop perkhidmatan disahkan melalui portal rasmi malaysia.gov.my; proses temujanji MySejahtera disahkan melalui laman perkhidmatan digital rasmi malaysia.gov.my; PeKa B40 disahkan melalui laman ProtectHealth (pengendali skim rasmi di bawah KKM). Tiada caj tertentu dinyatakan kerana tidak dapat disahkan pada sumber rasmi KKM (moh.gov.my tidak dapat diakses semasa penulisan)."
-    contributor: null
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

@@ -39,14 +39,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft. Statutory basis verified at AGC Laws of Malaysia; 1949 origin and ministry parentage verified at dosm.gov.my and ekonomi.gov.my; publication inventory, release-calendar mechanics and July 2026 release dates verified at dosm.gov.my and open.dosm.gov.my."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

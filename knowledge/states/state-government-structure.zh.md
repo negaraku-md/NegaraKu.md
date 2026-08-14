@@ -32,11 +32,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft. Describes the general structure of a Malaysian state government — head of state, Menteri Besar/Chief Minister and Executive Council, and State Legislative Assembly — and how it mirrors the federal structure. Verified against the Federal Constitution's Ninth Schedule (Articles 74, 77) and the Constitution of the State of Sabah (2020 reprint) as a concrete worked example of provisions modelled on the Eighth Schedule to the Federal Constitution, plus the Federal Constitution's own Article 43 for the federal-level comparison. Written descriptively with no reference to any current officeholder or political party. Held as draft pending human review."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

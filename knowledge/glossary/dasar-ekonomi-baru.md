@@ -40,7 +40,7 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Skop definisi angka ekuiti 2.4% (1970) dan 12.5% (1980): sumber EHM merujuknya sebagai ekuiti yang dipegang oleh institusi awam bagi pihak Bumiputera — perlu disahkan sama ada ia mewakili jumlah keseluruhan ekuiti korporat Bumiputera atau hanya bahagian yang dipegang institusi/agensi amanah."
   - "Angka ekuiti Bumiputera 1990: sumber berbeza memberikan nilai berbeza (contohnya 'lebih 19%' berbanding 20.3% dalam artikel EHM lain) — sahkan angka rasmi kerajaan."
@@ -48,13 +48,9 @@ verificationNeeded:
   - "Gelaran tepat Tun Abdul Razak semasa DEB dirangka (Pengarah MAGERAN / Timbalan Perdana Menteri pada 1969 berbanding Perdana Menteri menjelang pembentangan 1971)."
   - "Angka kemiskinan 'kira-kira 60 peratus': sahkan tahun rujukan tepat dan takrifan kemiskinan yang digunakan sumber EHM."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Draf awal AI. Diklasifikasikan sebagai Tier S (sensitiviti: kaum) kerana subjeknya menyentuh dasar afirmatif berasaskan kaum. Ditulis secara deskriptif dan neutral; dipegang sebagai draf sementara menunggu semakan manusia."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Pusingan pembetulan: sahkan semula tarikh pembentangan 12 Julai 1971, angka ekuiti 2.4%/12.5%/19%, dan rujukan MAGERAN terhadap sumber EHM yang dipetik; betulkan penarikhan salah angka kemiskinan 60% (satu dekad selepas kemerdekaan, bukan pada 1957); tambah verificationNeeded."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

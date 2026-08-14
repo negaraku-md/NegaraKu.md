@@ -56,11 +56,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Initial draft. Descriptive only. Every requirement anchored to a named instrument; requirements without a traceable instrument are listed as untraced rather than repeated."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-20

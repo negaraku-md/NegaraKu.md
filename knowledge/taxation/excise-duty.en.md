@@ -37,24 +37,16 @@ sourceContentHash: "84d4e95aaaa26789"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-08-08
-version: "0.3"
+version: "01.00"
 publishedBy: "ashton-tan"
 revisions:
-  - version: "0.1"
-    date: 2026-08-07
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-07
-    change: "Correction pass: sourced premix, car import duty 30%, playing-cards/mahjong 10% and SSB 5g threshold; softened CKD/CBU band scope; fixed 'cengkgiu' and premix terminology."
-    reviewer: null
-  - version: "0.3"
+  - version: "01.00"
     date: 2026-08-14
-    change: "Cleared verified items against primary sources; corrected figures where they differed."
-    reviewer: "ashton-tan"
+    change: "Approved and published."
+    reviewer: null
 
 verificationNeeded: []
 

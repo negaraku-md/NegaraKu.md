@@ -74,17 +74,15 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Initial draft."
-  - version: "0.2"
-    date: 2026-07-21
-    change: "Linked the two names for the s.81G-deleting instrument: the FAQ now reads Employment (Amendment) Act 2022 (Act A1651), matching the Act A1651 reference in keyTakeaways and body so it no longer reads as two amendments."
+    change: "Approved and published."
+    reviewer: null
 
 updated: 2026-07-20
 sources:

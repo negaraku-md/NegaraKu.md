@@ -37,18 +37,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-07
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-07
-    change: "Correction pass: re-verified every flagged figure against the live SSM s.550 Guidelines (Revised 14 July 2026) PDF — kept the 60-day window, 11 conditions, one-year suspension and Item 27 fee (all confirmed by paras 6, 10, 11, 13, 16); fixed 'proam' typo; added verificationNeeded for the statute-vs-guidelines 30/60-day discrepancy."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

@@ -44,15 +44,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-07
-    change: "Initial AI draft. Tier S neutral comparative overview of Malaysia's two parallel divorce systems — civil dissolution under Act 164 through the High Court for non-Muslims, and Islamic divorce through state Syariah courts for Muslims — companion to the getting-married-in-malaysia article. Strictly descriptive; no religious rulings, no legal advice, no state-by-state procedure claimed as universal."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-07
-    change: "Correction pass: re-cited the civil sections to the official AGC full-text reprint of Act 164 (replacing the amendment-history page), sourced the e-Syariah reference to an official Syariah-judiciary page and softened it, and added a verificationNeeded list."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

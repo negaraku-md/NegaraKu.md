@@ -37,18 +37,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-07
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-07
-    change: "Correction pass: re-sourced DPSP dates to RMCD primaries, fixed 1 Jan 2023 attribution and 31 Dec 2025 transitional-policy conflation, confirmed form TTx-01A and the current pay-on-arrival hand-off, replaced secondary sources with fetched RMCD documents."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

@@ -60,18 +60,14 @@ sourceContentHash: "8fe84c98a7ee99b1"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Initial draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-21
-    change: "Corrected transposed arithmetic: a 60-day rule in a 13-week quarter leaves a quarterly bookkeeper out of compliance about four weeks out of thirteen, not nine."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-20

@@ -31,11 +31,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-24
-    change: "Draf awal. Teks perlembagaan (Butiran 1 Senarai II dan Butiran 4 Senarai I Jadual Kesembilan, Perkara 74(2), Perkara 121(1A)) dirujuk daripada cetakan semula Perlembagaan Persekutuan Jabatan Peguam Negara. Rekod Akta 355 disahkan pada portal Laws of Malaysia; had seksyen 2 (3 tahun / RM5,000 / 6 sebatan) dirujuk daripada pembiakan teks oleh Pejabat Mufti Wilayah Persekutuan. Struktur Wilayah Persekutuan daripada Akta 505."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

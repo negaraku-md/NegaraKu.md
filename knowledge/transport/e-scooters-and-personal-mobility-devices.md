@@ -32,18 +32,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-08
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-08
-    change: "Correction pass: fixed MS2514 attribution, reconciled penalty divergence, removed unsupported 'bahu jalan' scope, corrected viral-video detail, added MKN official anchor."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

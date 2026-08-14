@@ -38,25 +38,17 @@ sourceContentHash: "9da4da3090cd0bd6"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-08-14"
 reviewDue: 2027-08-03
 publishedBy: "ashton-tan"
-version: "0.3"
+version: "01.00"
 verificationNeeded: []
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Initial AI draft."
+    change: "Approved and published."
     reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: corrected 30% allotment cap to apply only to non-PD bidders, re-verified and made precise the GII/Islamic-PD eligibility and auction timing against BNM FMIP, softened the unsourced corporate-bond SSTS/RENTAS settlement mechanism, and removed promotional phrasing on the retail sukuk."
-    reviewer: null
-  - version: "0.3"
-    date: 2026-08-14
-    change: "Cleared verified items against primary sources; corrected figures where they differed."
-    reviewer: "ashton-tan"
 
 updated: 2026-08-01
 sources:

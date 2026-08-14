@@ -32,15 +32,15 @@ sourceContentHash: "cf809540c51ed69e"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-07-22
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Initial draft from Act 851, the SST regulations and e-Invoice Guideline v4.7."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-20

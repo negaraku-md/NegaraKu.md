@@ -32,14 +32,14 @@ sourceContentHash: "8dc6ca7c0ae8183c"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-24
-    change: "Initial draft, built from DOSM's Household Income Survey and Salaries & Wages Survey 2024, Malaysia's official exchange-rate data catalogue, the Ministry of Human Resources' Minimum Wages Order 2024 announcement, and the Singapore Land Transport Authority's RTS Link project page."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

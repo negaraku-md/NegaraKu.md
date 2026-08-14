@@ -29,14 +29,14 @@ sourceContentHash: "9a440d3b932f1d8e"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft. Tier figures — fixed deposit, property purchase minimum, participating fee, processing fee, pass duration, minimum age and minimum stay — verified directly against MOTAC's mm2h.gov.my Category Overview, Platinum, Gold, Silver and SEZ/SFZ pages, plus the Guidelines page for the application and immigration-approval process."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 

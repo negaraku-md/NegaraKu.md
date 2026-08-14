@@ -36,22 +36,18 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Pengesahan bahawa sasaran interim SSR beras 75% (menjelang 2025) berpunca khusus daripada Rancangan Malaysia Ke-12 (bukan sekadar sasaran umum kerajaan) — perlu disemak terhadap dokumen rasmi RMK-12; angka 75%/80% sendiri disahkan oleh The Edge Malaysia."
   - "Sasaran pertumbuhan KDNK agromakanan 5% setahun menjelang 2030 (berbanding 4.5% sepanjang RMK-12) — kini bersumberkan laporan media (Jesselton Times); sahkan terhadap dokumen rasmi DAN 2.0 / KPKM."
   - "Tarikh pelancaran DAN 2.0 (25 Oktober 2021) dan sasaran SSL 2030 bagi susu segar 100%, daging lembu 50% dan ikan 98% — sahkan terhadap dokumen rasmi DAN 2.0."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: added The Edge source for the 75%/80% rice SSR target, re-verified all commodity SSR + production/stock figures against fetched DOSM/The Star/Census sources, softened editorial framing, added verificationNeeded."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

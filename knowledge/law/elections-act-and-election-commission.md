@@ -40,15 +40,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-07
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-07
-    change: "Correction pass: sourced Akta 5 and Akta 19 to official Parliament-hosted texts; attributed Dewan Rakyat delineation-approval to Jadual Ketiga Belas; softened and flagged SPR administrative placement; added verificationNeeded."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-07

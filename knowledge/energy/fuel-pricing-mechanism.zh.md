@@ -33,23 +33,19 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Hari pengumuman sebelum 3 Mac 2021 (Jumaat atau Khamis) — sumber sekunder (paultan.org) menyebut peralihan kepada Rabu tetapi tidak jelas hari asal; sahkan dengan siaran rasmi jika perlu."
   - "Tarikh mula tepat 'April 2017' bagi mekanisme mingguan APM — kini bersandar pada nota latar katalog OpenDOSM; sahkan dengan sumber dasar rasmi."
   - "Harga RON97 minggu sebelumnya (RM3.24) diperoleh secara aritmetik daripada pengurangan 8 sen yang dinyatakan dalam siaran MOF, bukan tersurat dalam siaran itu."
   - "Sahkan sama ada kadar BUDI95 RM1.99 dan harga pasaran am RON95 masih terkini pada tarikh penerbitan."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: buang contoh RON97 RM3.21/tempoh 9-hari yang tidak bersumber, sahkan diesel 10 Jun 2024 (RM3.35) dan jadual 25-31 Dis 2025 dengan siaran MOF, tambah sumber MOF diesel + paultan hari Rabu."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

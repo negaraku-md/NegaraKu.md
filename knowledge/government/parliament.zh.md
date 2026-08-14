@@ -43,15 +43,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: 2026-07-10
-    change: "Initial draft."
-    reviewer: null
-  - version: "0.2"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Reclassified from Tier 2 to Tier S with sensitivity constitution — the subject is the constitutional structure of the federal legislature and is held to the descriptive-only standard. Added the verified Dewan Rakyat membership of 222 from Parliament's own member list, added FAQ and further official sources, and moved unverified Dewan Negara figures into verificationNeeded rather than publishing them."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-20

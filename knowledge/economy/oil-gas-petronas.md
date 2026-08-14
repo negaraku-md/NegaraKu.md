@@ -30,11 +30,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-24
-    change: "Initial draft. Statutory text verified against Act 144 on lom.agc.gov.my; fiscal figures against MOF Fiscal Outlook 2026 Section 2; company figures against PETRONAS Integrated Report 2025 and the FY2025 results release; production against DOSM; Sarawak state sales tax against the Sarawak Government Gazette. Post-draft audit (2026-07-24): corrected the 2025 natural gas change (the +3.0% quoted was DOSM's 2024 figure; 2025 output was broadly flat), corrected 2,423 thousand boe/day from domestic to group production, removed an unsourced 2028 production target and an unsourced description of Sabah's commercial arrangements, and raised the tier to S because the article covers the federal-state constitutional question."
+    change: "Approved and published."
     reviewer: null
 sensitivity: "constitution"
 

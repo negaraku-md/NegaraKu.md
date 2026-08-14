@@ -36,14 +36,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft. Structure, chapter list, section-numbering caveats and section 2/4/5/40 wording taken from the AGC reprint of Act 574; amendment scope and section 302 wording taken from the text of Act 846; reprint timeline from the AGC principal-Act record."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

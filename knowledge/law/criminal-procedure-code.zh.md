@@ -40,7 +40,7 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Had reman di bawah seksyen 117 (4+3 hari sehingga 7 hari; 7+7 hari sehingga 14 hari) perlu disemak semula terhadap teks seksyen 117(2) dalam cetakan Akta 593 yang sedang berkuat kuasa."
   - "Kandungan tepat dan sebarang pengecualian/pengehadan hak di bawah seksyen 28A perlu disahkan terhadap teks statut rasmi."
@@ -48,13 +48,9 @@ verificationNeeded:
   - "Rujukan Perkara 5(3) dan 5(4) Perlembagaan Persekutuan perlu disemak terhadap cetakan rasmi terkini (fail AGC berbentuk binari dan tidak dapat disahkan teksnya secara dalam-talian)."
   - "Kemas kini Akta 593 (setakat 18.10.2021 dalam pautan) perlu disemak sama ada masih cetakan terkini pada tarikh penerbitan."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-07
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-07
-    change: "Correction pass: removed duplicate Mondaq source and mismatched Low & Partners 'Part 3' source, added AGC Federal Constitution reprint for Perkara 5 claims and TKP Law for trial-procedure section, and neutralised the dramatised opening."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-07

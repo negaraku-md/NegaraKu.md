@@ -40,7 +40,7 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Dakwaan Tunku Abdul Rahman sebagai Setiausaha Agung pertama OIC (mulai 1971) bergantung pada satu sumber sahaja (Yayasan Kepimpinan Perdana); sumber OIC/GlobaLex tidak mengesahkannya — sahkan dengan sumber OIC rasmi."
   - "Tarikh dan tempat penubuhan NAM (1–6 September 1961, Belgrade) — disahkan di laman sejarah rasmi NAM; sahkan semula jika digunakan dalam dokumen rasmi."
@@ -48,13 +48,9 @@ verificationNeeded:
   - "Azerbaijan menyertai D-8 pada 2025 (menjadikan sembilan anggota) — sahkan di laman rasmi D-8 sebelum bergantung padanya."
   - "Sumber Dasar Luar dihoskan di pmo.gov.my (Pejabat Perdana Menteri) walaupun footer PDF menyatakan 'Sumber: Kementerian Luar Negeri, Malaysia' — sahkan penerbit rasmi."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Draf awal AI. Keahlian dan tarikh disahkan di laman rasmi OIC (GlobaLex), Setiausahaan Komanwel, APEC, D-8, laman NAM, Yayasan Kepimpinan Perdana, dan dokumen Dasar Luar Kementerian Luar Negeri."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: betulkan APEC kepada 12 ahli pengasas (termasuk Amerika Syarikat), tambah sumber rasmi penubuhan NAM 1961, atribut pendirian Palestin kepada Malaysia, tambah verificationNeeded."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

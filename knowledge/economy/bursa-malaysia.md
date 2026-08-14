@@ -26,14 +26,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-24
-    change: "Initial draft. Admission thresholds verified against the SC Equity Guidelines SC-GL/EG-2009 (R8-2026); segmentation and sponsor/adviser framework from SC Public Consultation Paper 4/2025; index rules from the FTSE Bursa Malaysia Index Series Ground Rules v6.1."
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 

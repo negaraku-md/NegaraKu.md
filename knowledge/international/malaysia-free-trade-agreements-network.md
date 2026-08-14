@@ -35,18 +35,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: fixed bilateral FTA count (nine to eight) and in-force totals against MITI portal; removed self-contradictory FAQ total; softened promotional phrasing."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

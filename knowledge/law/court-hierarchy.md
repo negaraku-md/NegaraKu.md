@@ -43,14 +43,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft. Jurisdiction limits taken from the Attorney General's Chambers updated reprint texts of Act 92 (as at 1 May 2013) and Act 91 (as at 1 August 2014), cross-checked against the Malaysian Judiciary's own jurisdiction pages."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

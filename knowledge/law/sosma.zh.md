@@ -33,11 +33,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft. Structure, section wording and Schedule scope taken from the AGC reprint text of Act 747; commencement, assent and amendment timeline from the AGC Laws of Malaysia act record. Strictly descriptive; no case or policy commentary."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

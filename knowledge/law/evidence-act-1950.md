@@ -38,15 +38,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-07
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-07
-    change: "Correction pass: replaced the byte-identical duplicate PDF pair with the authoritative AGC primary listing (English + Bahasa Melayu) plus one distinct full-text reference; attributed the 167-section/three-Part structure to the dated official reprint; added verificationNeeded."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

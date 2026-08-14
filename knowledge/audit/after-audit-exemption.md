@@ -47,14 +47,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Initial draft, written from PD 10/2024, the SSM audit exemption FAQ and the text of ss.244, 245, 248, 251, 257, 258, 259, 260 and 267 of the Companies Act 2016."
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 

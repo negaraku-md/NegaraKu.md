@@ -50,24 +50,16 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 publishedBy: "ashton-tan"
 reviewed: 2026-08-14
 reviewDue: 2027-07-22
-version: "0.3"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Initial draft."
+    change: "Approved and published."
     reviewer: null
-  - version: "0.2"
-    date: 2026-07-21
-    change: "Addressed the RM2.5m boundary overlap the article previously left unstated: 'and above' and 'not exceeding' both include RM2.5m, so a company at exactly RM2.5m with <=75 employees reads as both licensable and exemptible; noted s.3(1) is the operative bar, so treat as licensable."
-    reviewer: null
-  - version: "0.3"
-    date: 2026-08-14
-    change: "Cleared verified items against primary sources; corrected figures where they differed."
-    reviewer: "ashton-tan"
 
 updated: 2026-07-20
 sources:

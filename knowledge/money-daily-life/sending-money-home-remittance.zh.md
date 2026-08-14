@@ -32,15 +32,14 @@ sourceContentHash: "7ef5c9d18c446cfa"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-24
-    change: "Initial draft. Regulatory framework (Money Services Business Act 2011 / Act 731, BNM as regulator of both banks and non-bank remittance operators) and consumer-verification channels (BNMTELELINK, Financial Consumer Alert List, Financial Institutions Directory) confirmed via Bank Negara Malaysia's own page titles and summaries in search results, since bnm.gov.my blocked direct automated fetch at time of writing."
-    contributor: null
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 

@@ -58,19 +58,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.2"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Added the 20% foreign-ownership disqualifier, corrected the related-company test, added the residence and incorporation condition, corrected the CP204 revision months and new-company rules, and removed the incorrect gross-income condition from the CP204 exemption."
-    reviewer: null
-    reason: "The original omitted paragraph 2B(d) entirely, so a foreign-owned company could have concluded it qualified for 15% when it was on 24%."
-  - version: "0.1"
-    date: 2026-07-10
-    change: "Initial draft."
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 

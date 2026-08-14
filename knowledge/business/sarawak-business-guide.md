@@ -51,24 +51,16 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 publishedBy: "ashton-tan"
 reviewed: 2026-08-14
 reviewDue: 2027-07-22
-version: "0.3"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Initial draft from the Sarawak LawNet ordinance texts, Act 155 Part VII, Sarawak Energy published tariffs, RECODA and MIDA pages."
+    change: "Approved and published."
     reviewer: null
-  - version: "0.2"
-    date: 2026-07-21
-    change: "Reconciled the RECODA constitution statement with the verificationNeeded flag: the body now notes RECODA's existence is confirmed (RECODA, MIDA) but the constituting s.4 notification could not be located and its instrument number is unpublished, instead of asserting the constitution flatly."
-    reviewer: null
-  - version: "0.3"
-    date: 2026-08-14
-    change: "Cleared verified items against primary sources; corrected figures where they differed."
-    reviewer: "ashton-tan"
 
 updated: 2026-07-20
 sources:

@@ -40,18 +40,14 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-08
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-08
-    change: "Correction pass: swapped Australian AASB PDF for MASB's own MFRS 121 as primary source, fixed comparatives closing-rate mechanics (para 39(a)), softened the MYR-filing claim to sourced practice, corrected MASB press-release URL."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

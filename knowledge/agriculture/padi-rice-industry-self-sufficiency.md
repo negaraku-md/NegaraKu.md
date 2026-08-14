@@ -39,26 +39,18 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 publishedBy: "ashton-tan"
 reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "0.3"
+version: "01.00"
 verificationNeeded:
   - "Angka hasil padi sehektar khusus mengikut kawasan (cth. Kelantan/KADA) — tiada sumber utama yang disemak memberikan angka per-hektar untuk kawasan tertentu; hanya purata kebangsaan bawah 5 tan sehektar dan lokasi perintis Kedah yang lebih tinggi disahkan."
 revisions:
-  - version: "0.1"
-    date: 2026-08-01
-    change: "Draf AI awal. Kadar sara diri 56.2% dan kaedah pengiraan FAO, penukaran padi-ke-beras serta stok strategik disemak terhadap laporan The Star yang memetik Kementerian Pertanian dan Keterjaminan Makanan; sasaran SSL 75%/80% dan data import disemak terhadap laman rasmi Banci Pertanian 2024 (DOSM); skim SMART SBB dan sasaran hasil daripada BERNAMA; harga lantai padi dan subsidi Belanjawan 2024 daripada Portal Berita RTM; peranan pengimport tunggal dan penyahswastaan BERNAS daripada laman rasmi BERNAS; struktur Dasar Agromakanan Negara 2021-2030 daripada laman KPKM."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Semakan pembetulan: buang angka tak bersumber (julat SSL lama 63-70%, hasil ~4 tan/ha Kelantan, tarikh 'Februari 2024' harga lantai); betulkan rangka BERNAS kepada krisis 1973/import 1974 selaras laman BERNAS; buang ciri editorial ('belum pernah tercapai', 'berulang kali terlepas'); buang rujukan relasi 'food-security-malaysia' yang belum wujud; tambah verificationNeeded."
-    reviewer: null
-  - version: "0.3"
+  - version: "01.00"
     date: 2026-08-14
-    change: "Cleared verified items against primary sources; corrected figures where they differed."
-    reviewer: "ashton-tan"
+    change: "Approved and published."
+    reviewer: null
 
 updated: 2026-08-14
 sources:

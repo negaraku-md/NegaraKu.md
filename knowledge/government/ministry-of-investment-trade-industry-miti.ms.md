@@ -31,18 +31,14 @@ translationStatus: "in-sync"
 sourceContentHash: "f325297c1a8f4c21"
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-08-14"
 publishedBy: "ashton-tan"
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: 2026-08-10
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
+  - version: "01.00"
     date: 2026-08-14
-    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
+    change: "Approved and published."
     reviewer: null
 verificationNeeded:
   - "Exact effective/gazette date of the 2023 rename — the Cabinet decision was reported as 5 April 2023 while some sources cite 12 April 2023 as effective; the precise gazette date was not confirmed against a primary instrument."

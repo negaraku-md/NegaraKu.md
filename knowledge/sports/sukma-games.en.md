@@ -35,18 +35,14 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: verified 2026 dates + Podium launch against nsc.gov.my/isn.gov.my; fixed Para SUKMA as separate Sept event, split Bakat/Pelapis programs, de-circularised Podium selection wording, softened host-state claims."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

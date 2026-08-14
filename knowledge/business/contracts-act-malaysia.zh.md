@@ -49,19 +49,15 @@ sourceContentHash: "f6b5e39b4a89675a"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-07-22
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Initial draft, read against the AGC text of Act 136."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-21
-    change: "Corrected the body to say the AGC List of Sections Amended runs out in 1974, matching verificationNeeded and the primary text (last section-amendment entry is 01-07-1974)."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-20

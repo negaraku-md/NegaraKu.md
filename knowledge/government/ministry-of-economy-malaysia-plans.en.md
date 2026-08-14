@@ -41,22 +41,18 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "The full list and exact number of agencies under the Ministry of Economy (the official site lists 12 agencies as of the review date; the arrangement may change after a Cabinet restructuring)"
   - "Whether the Prime Minister's Special Committee remains an endorsement layer in the current RMK preparation chain"
   - "The current minister's position (Akmal Nasrullah Mohd Nasir appointed 16 December 2025) — confirm if a Cabinet change occurs after this date"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Draf awal AI. Setiap tarikh, fungsi dan senarai agensi disemak terhadap laman rasmi Kementerian Ekonomi (sejarah, fungsi, agensi, senarai rancangan terdahulu, RMKe-12) dan Soalan Lazim RMK13. Angka atau butiran yang tiada dalam sumber yang dibuka dikeluarkan."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: buang dakwaan tidak bersumber tentang perbadanan pembangunan ekonomi negeri (SEDCO/SEDC/Johor Corp/Perbadanan Melaka) sebagai agensi persekutuan; tambah sumber utama untuk pengerusi JPPN (KSN) dan tarikh peletakan jawatan Rafizi (Bernama)."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

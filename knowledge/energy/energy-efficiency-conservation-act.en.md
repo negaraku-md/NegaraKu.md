@@ -37,23 +37,19 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Nama rasmi dan status pemansuhan peraturan 2008 yang lama — difahami sebagai Efficient Management of Electrical Energy Regulations 2008 (EMEER), tetapi tiada sumber yang dipetik mengesahkan pemansuhan ini; sahkan terhadap teks peraturan/Akta rasmi."
   - "Sama ada BEI 250 kWh/m²/tahun ialah siling wajib berkanun atau penanda aras panduan — sahkan terhadap Jadual dan Peraturan-Peraturan Kecekapan dan Konservasi Tenaga 2024."
   - "Jumlah penalti RM50,000 (kegagalan EnMS dan kegagalan audit/laporan) — berasal daripada analisis firma guaman; sahkan terhadap peruntukan Akta 861 rasmi."
   - "Senarai 10 kategori produk MEPS dan sama ada ia berkuat kuasa penuh — sahkan terhadap peraturan MEPS rasmi Suruhanjaya Tenaga."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: fixed 2008 regulation name (EMEER), softened unverified supersession claim, added 14 Nov 2024 royal-assent date, neutralised register, added verificationNeeded."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

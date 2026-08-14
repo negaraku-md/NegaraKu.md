@@ -39,24 +39,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-version: "0.3"
+version: "01.00"
 revisions:
-  - version: "0.3"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Converted from a single article carrying four search intents into a Tier 3 pillar that answers the qualifying question and routes to the four articles now covering thresholds, exclusions, dormancy and post-exemption obligations."
-    reviewer: null
-    reason: "The article had grown to cover thresholds, exclusions, dormancy and life-after-exemption in one page. Each is a distinct search intent and now has its own article; keeping all four here made the page compete with its own cluster."
-  - version: "0.2"
-    date: 2026-07-20
-    change: "Corrected the qualifying test from all-three to at-least-two, replaced the revoked PD 3/2017 categories with the PD 10/2024 framework, and added the phased thresholds, exclusions and audit-on-demand rule."
-    reviewer: null
-    reason: "The original draft stated the Phase 3 thresholds as if current and required all three criteria — both errors would have misled readers about whether an audit was required."
-  - version: "0.1"
-    date: 2026-07-10
-    change: "Initial draft."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-20

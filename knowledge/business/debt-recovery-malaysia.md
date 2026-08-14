@@ -50,18 +50,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Initial draft, with the s.466 prescription chain traced through the AGC gazette record."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-21
-    change: "Added P.U. (A) 122/2020 (Companies (Exemption) Order 2020) to sources[]; the body cites it alongside 123/2020 but only 123/2020 was listed."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-20

@@ -37,18 +37,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: sourced the EUDR 31 Dec 2020 cut-off to EUR-Lex 2023/1115, aligned smallholder size definition to MSPO's 'maximum 40.46 ha', softened editorial phrasing."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

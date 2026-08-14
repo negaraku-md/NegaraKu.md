@@ -26,15 +26,15 @@ sourceContentHash: "32de1367e3faaa19"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2026-10-24
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-24
-    change: "Initial draft. Figures taken from the DOSM Consumer Price Index release for May 2026 (published 19 June 2026)."
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 

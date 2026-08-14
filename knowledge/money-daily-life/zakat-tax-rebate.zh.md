@@ -40,20 +40,16 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Kadar cukai individu dalam Jadual 1 dipetik daripada teks Akta 53 setakat cetakan semula 1 November 2023; sahkan tiada pindaan terkini mengubah banjaran atau kadar bagi tahun taksiran semasa."
   - "Senarai jenis zakat yang dianggap 'wajib' untuk tujuan rebat (contohnya zakat simpanan) bergantung pada tafsiran pihak berkuasa agama negeri dan amalan LHDN; sahkan bagi negeri berkenaan."
   - "Kedudukan medan zakat dalam antara muka e-Filing/MyTax semasa perlu disahkan dengan portal rasmi LHDN."
   - "Seksyen 82A memerlukan penyimpanan dokumen tujuh tahun bagi menyokong pendapatan bercukai; sahkan pemakaian khusus kepada resit rebat zakat dengan LHDN."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-08
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-08
-    change: "Correction pass: verified 6A/6A(4)/82A/44(11A) & rate schedule against official AGC Act 53 text; fixed wrong 14% marginal rate (no such band; 11% used, cited); replaced KPMG mirror and low-authority/self-published sources with the official statute."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-08

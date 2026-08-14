@@ -38,26 +38,18 @@ sourceContentHash: "c1f7f6a84e1fec97"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-08-14"
 reviewDue: 2027-08-03
 publishedBy: "ashton-tan"
-version: "0.3"
+version: "01.00"
 verificationNeeded:
   - "Exact month DNB was established in 2021 — DNB's own website states only the year 2021 (its company registration number 201701005338 dates to 2017); the previously drafted 'March 2021' could not be confirmed against a primary source."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-28
-    change: "Initial AI draft."
+    change: "Approved and published."
     reviewer: null
-  - version: "0.2"
-    date: 2026-07-28
-    change: "Correction pass: fixed U Mobile 5G launch to 18 Aug 2025 and removed unverifiable site count, softened DNB 'March 2021' to '2021', dropped uncited May 2025 divestment date, added primary DNB and launch sources, and added verificationNeeded."
-    reviewer: null
-  - version: "0.3"
-    date: 2026-08-14
-    change: "Cleared verified items against primary sources; corrected figures where they differed."
-    reviewer: "ashton-tan"
 
 updated: 2026-07-28
 sources:

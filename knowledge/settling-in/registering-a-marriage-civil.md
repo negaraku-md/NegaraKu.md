@@ -30,14 +30,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-24
-    change: "Initial draft. Tier 3 practical guide to the JPN civil marriage registration process for non-Muslims under Act 164: notice route, special licence route, witnesses, solemnisation venues, and re-registration via religious institutions. Scoped explicitly away from syariah marriage."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

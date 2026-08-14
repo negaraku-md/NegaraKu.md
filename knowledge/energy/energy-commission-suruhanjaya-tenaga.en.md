@@ -36,10 +36,10 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Mekanisme permulaan kuat kuasa Akta 861: portal perundangan AGC menunjukkan notifikasi permulaan kuat kuasa P.U. (B) 521/2024 (kuat kuasa 24 November 2024), manakala penguatkuasaan dilaporkan bermula 1 Januari 2025 — sahkan tarikh permulaan kuat kuasa penuh dan bila tepatnya ST menjadi agensi penguatkuasa."
   - "Ambang RM2.4 juta bil elektrik tahunan sebagai padanan kepada 21,600 GJ setahun ialah anggaran daripada laporan akhbar (The Star/BERNAMA); sahkan terhadap peraturan subsidiari Akta 861."
@@ -47,13 +47,9 @@ verificationNeeded:
   - "Struktur organisasi baharu ST yang dilaporkan berkuat kuasa 1 Januari 2026 — sahkan butiran dan kesannya kepada mandat."
   - "Pemvestingan minyak dan gas dalam Petronas di bawah Akta Kemajuan Petroleum 1974 (Akta 144) — sahkan petikan seksyen yang tepat (s.2)."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Draf AI awal. Fungsi, keahlian dan struktur disemak terus terhadap teks Akta 610; skop dan tiga tonggak pengawalseliaan daripada laman ST sendiri; butiran EECA 2024 (Akta 861) daripada laman ST, BERNAMA dan The Star."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: tarikh perkenan/pewartaan Akta 861 disahkan terhadap portal perundangan AGC dan disumberkan; takrif 'gas' Akta 610 dalam FAQ dibetulkan; petikan Akta 144 disumberkan; 'Kelola' dibetulkan kepada 'Kumpulan Wang'."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

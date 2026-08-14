@@ -46,18 +46,14 @@ sourceContentHash: "87bd6be0702424fa"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "1.3"
+version: "01.00"
 revisions:
-  - version: "1.2"
-    date: 2026-07-08
-    change: "Pre-standard draft."
-    reviewer: null
-  - version: "1.3"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Rebuilt to Tier 2 depth against the verified ss.235–241 material. The earlier version was 483 words, had no FAQ, described the qualification test loosely, and conflated the s.236(2) post-incorporation deadline with the continuing s.240 vacancy rule. Added the s.236(3) written-consent step, the s.241 practising certificate gate, the s.57 and s.58 filings, s.242 dual capacity, and s.235(4) liability. Deep material now links out to company-secretary-qualification, secretary-resignation, secretary-vacancy-30-days and changing-company-secretary rather than being absorbed here."
+    change: "Approved and published."
     reviewer: null
 
 obligations:

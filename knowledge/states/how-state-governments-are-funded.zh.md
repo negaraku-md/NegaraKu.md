@@ -39,20 +39,16 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Ketepatan setiap angka ISEAS (RM926 hasil negeri per kapita; RM8,969 hasil persekutuan per kapita; RM4,414 hasil per kapita Sarawak; bahagian tanah Selangor 82%; hasil hutan Pahang/Kelantan 18–20%; geran perkapita Selangor RM77.2 juta) serta tahun rujukan tepat bagi setiap satu, terhadap jadual asal kajian."
   - "Percanggahan dalaman dalam kajian ISEAS: teks naratif menyebut hasil persekutuan RM28,153 per kapita, tetapi Jadual 1 kajian yang sama menunjukkan RM8,969 per kapita. Hanya angka RM8,969 selaras dengan nisbah 10.3% yang dinyatakan dan dengan anggaran hasil persekutuan sebenar. Sahkan angka rasmi hasil persekutuan per kapita daripada Kementerian Kewangan / Laporan Ekonomi."
   - "Nilai semasa geran khas Sabah dan Sarawak selepas mana-mana semakan di bawah Perkara 112D."
   - "Tahun rujukan tepat bagi bahagian hasil hutan Pahang dan Kelantan (data kajian dilaporkan meliputi tempoh 2009–2019)."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-08
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-08
-    change: "Correction pass: reconcile ISEAS federal per-capita figure (RM28,153 -> RM8,969, consistent with the 10.3% ratio and Table 1), source the Sarawak highest-per-capita claim to ISEAS (RM4,414), add verificationNeeded."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-08

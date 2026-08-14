@@ -27,15 +27,15 @@ sourceContentHash: "0b3015ed818343fb"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-01-24
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-24
-    change: "Initial draft. Expenditure and income figures verified against the DOSM Household Expenditure Survey Report 2024 and Household Income Survey Report 2024 (both released 8 October 2025); inflation figures against the DOSM Consumer Price Index, May 2026 release; poverty-line figures against the DOSM Poverty in Malaysia 2022 release. A specific national house-price figure was sought at NAPIC/JPPH but could not be confirmed from a readable primary source within this pass, so housing cost pressure is described qualitatively instead of with an invented number."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

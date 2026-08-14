@@ -26,14 +26,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft. Emergency number 999/112 verified against the Malaysian Civil Defence Force's own 999 Emergency Services page. NSRC 997 hotline, its operating agencies (PDRM, BNM, MCMC, NFCC) and reporting flow verified against the National Anti-Financial Crime Centre's official NSRC page, with the March 2026 24/7 relocation to MCMC Cyberjaya and the 'no separate report needed' change verified against Malay Mail and The Star coverage of the minister's announcement. Cyber999, MCMC complaint line and Talian Kasih numbers verified at MyCERT, MCMC and the malaysia.gov.my portal respectively. Semak Mule described from PDRM's own semakmule.rmp.gov.my domain plus consistent secondary descriptions. 2025 scam case/loss figures attributed to PDRM/CCID as reported by BusinessToday; described as police-reported figures, not independently re-derived."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

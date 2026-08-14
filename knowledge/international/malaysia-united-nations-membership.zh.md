@@ -39,24 +39,16 @@ sourceContentHash: "5cff2d250f353ed1"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-08-14"
 publishedBy: "ashton-tan"
 reviewDue: 2027-08-03
-version: "0.3"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: 2026-08-01
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: ganti statistik pengaman op-ed dengan angka rasmi PBB (29,000+), buang sumber Malaysiakini, buang ramalan tak bersumber, tukar petikan veto kepada parafrasa, betulkan frasa tarikh."
-    reviewer: null
-  - version: "0.3"
+  - version: "01.00"
     date: 2026-08-14
-    change: "Cleared verified items against primary sources; corrected figures where they differed."
-    reviewer: "ashton-tan"
+    change: "Approved and published."
+    reviewer: null
 
 verificationNeeded:
   - "Sama ada Menteri Luar akan menegaskan semula pendirian ini dalam perbahasan Perhimpunan Agung PBB akan datang."

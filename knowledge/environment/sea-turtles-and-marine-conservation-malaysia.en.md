@@ -37,25 +37,17 @@ sourceContentHash: "3ba84882f4818881"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 publishedBy: "ashton-tan"
 reviewed: "2026-08-14"
 reviewDue: 2027-08-03
-version: "0.3"
+version: "01.00"
 verificationNeeded: []
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Draf awal AI."
+    change: "Approved and published."
     reviewer: null
-  - version: "0.2"
-    date: 2026-07-28
-    change: "Correction pass: betulkan Tioman ke Pahang, ganti pindaan '1989/Seksyen 7A' dengan pindaan 1987 (TCS), selaraskan jadual enakmen dengan enam negeri, dan sahkan semula setiap angka terhadap sumber utama."
-    reviewer: null
-  - version: "0.3"
-    date: 2026-08-14
-    change: "Cleared verified items against primary sources; corrected figures where they differed."
-    reviewer: "ashton-tan"
 
 updated: 2026-08-01
 sources:

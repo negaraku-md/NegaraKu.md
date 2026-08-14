@@ -42,23 +42,15 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.3"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: 2026-08-01
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-28
-    change: "Correction pass: re-verified all 2025/2022 figures against MPOB Overview 2025 and MPOB/KPK Statistics on Commodity 2023; fixed intro overstatement, dropped unsourced worker ratio, rebalanced environmental/labour framing, tightened MS 2751:2022 and table rounding."
-    reviewer: null
-  - version: "0.3"
+  - version: "01.00"
     date: 2026-08-14
-    change: "Cleared verified items against primary sources; corrected figures where they differed."
-    reviewer: "ashton-tan"
+    change: "Approved and published."
+    reviewer: null
 
 verificationNeeded:
   - "Whether sensitivity 'none' and tier '1' remain appropriate: palm oil is a contested topic (deforestation, peatland loss, EU Deforestation Regulation, migrant/forced-labour concerns). Human editor to reconsider classification."

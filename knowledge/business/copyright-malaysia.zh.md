@@ -46,19 +46,15 @@ sourceContentHash: "a995d61bd790a6cf"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-07-22
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Initial draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-21
-    change: "Aligned the FAQ electronic-deposit fee wording to '1GB above 3GB', matching the fee table."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-20

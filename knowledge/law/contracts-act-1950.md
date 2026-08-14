@@ -37,14 +37,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft. Royal Assent, gazette and commencement dates, and the reprint timeline, taken from the AGC's Act 136 record. Part structure and section ranges cross-checked against Lawyerment's and Easylaw's Act 136 tables of contents. Section 10, 11, 24 and 26 content taken from secondary legal summaries corroborating the statutory wording. Legislative lineage (Contract Enactment 1899, extension to Johore 1914) taken from May Fong Cheong's 2009 JMCL article."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

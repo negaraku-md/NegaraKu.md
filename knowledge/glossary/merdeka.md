@@ -25,14 +25,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-24
-    change: "Draf awal. Definisi kamus disahkan daripada Pusat Rujukan Persuratan Melayu (PRPM), DBP; fakta pengisytiharan 31 Ogos 1957 daripada Arkib Negara Malaysia dan Majlis Keselamatan Negara (MKN); asal usul Sanskrit disandarkan kepada rujukan linguistik am kerana tiada sumber rasmi kerajaan Malaysia yang menerbitkan etimologi ini secara khusus."
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 

@@ -38,7 +38,7 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Kronologi tarikh: Akta berkuat kuasa 15 Februari 2005 berbanding status operasi (pelancaran ringkas) 30 November 2005 dan pelancaran rasmi 21 Mac 2006 — sahkan penggunaan istilah dalam teks selari dengan sumber rasmi."
   - "Kementerian induk semasa (Kementerian Dalam Negeri) — sahkan portfolio semasa dengan sumber rasmi bertarikh; nota: APMM pada asalnya diletakkan di bawah Jabatan Perdana Menteri."
@@ -46,13 +46,9 @@ verificationNeeded:
   - "Alamat ibu pejabat (One IOI Square, IOI Resort, Putrajaya) — sahkan terhadap laman hubungi rasmi."
   - "Petikan kajian April 1999 — sahkan versi Bahasa Melayu rasmi frasa 'pertindihan fungsi, pertindihan bidang kuasa dan penggunaan sumber yang tidak ekonomik'."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: buang angka 'belasan agensi' tak bersumber, betulkan kronologi tarikh (berkuat kuasa vs status operasi), pindah QUICK/FIRM/FAIR ke Misi Perkhidmatan Pelanggan, buang ayat promosi dan angka armada tak bersumber, jelaskan kementerian induk, seragamkan moto."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

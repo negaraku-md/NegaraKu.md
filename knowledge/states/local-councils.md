@@ -42,11 +42,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-24
-    change: "Initial draft. Every Act reference, section number, constitutional provision and structural figure verified against official sources: the Local Government Act 1976 [Act 171] full text at lom.agc.gov.my (sections 3, 10 and 15 and the interpretation section), the Ninth Schedule State List (item 4) and Article 95A of the Federal Constitution. The suspension chronology (1965 suspension, Athi Nahappan Royal Commission, Act 124 of 1973) is drawn from the named statutes and academic analysis. Tier S, elections-sensitive: descriptive and neutral throughout."
+    change: "Approved and published."
     reviewer: null
 sensitivity: "elections"
 

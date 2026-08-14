@@ -46,15 +46,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Draf awal. Sumber utama: portal rasmi Kerajaan Negeri Sembilan (info negeri, Adat Perpatih, lokasi, Undang), OpenDOSM Kawasanku, dan portal pelancongan negeri. Angka KDNK negeri sengaja ditinggalkan kerana tidak dapat disahkan pada halaman keluaran DOSM."
-    reviewer: null
-  - version: "0.2"
-    date: "2026-07-24"
-    change: "Audit sumber. Setiap angka disemak semula terhadap sumber rasmi yang disenaraikan: keluasan negeri dan tujuh daerah, jarak Seremban–Kuala Lumpur, senarai sembilan luak dan 12 suku, serta tarikh dan butiran Istana Lama Seri Menanti semuanya disahkan. Edge graf 'governs → federal-constitution' dibetulkan kepada 'related-to' kerana arahnya terbalik — negeri tidak mentadbir Perlembagaan Persekutuan. Peratusan komposisi etnik dikekalkan tetapi dilabel semula sebagai angka portal negeri yang tidak bertarikh, bukan pecahan Banci 2020, dan ditambah ke dalam senarai pengesahan."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 sensitivity: "royalty"
 

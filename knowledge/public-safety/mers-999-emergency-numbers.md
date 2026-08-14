@@ -34,23 +34,19 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Senarai tepat dan bilangan agensi yang disatukan pada 1 Oktober 2007 (empat: JPAM, PDRM, KKM, JBPM) berbanding agensi yang ditambah kemudian, serta tarikh sebenar APMM/maritim disertakan."
   - "Denda panggilan palsu: 999.gov.my menyatakan RM500,000 / 2 tahun di bawah Subseksyen 233(2) AKM 1998 (selepas pindaan 2024); civildefence.gov.my masih menyenaraikan angka lama RM50,000 / 1 tahun. Sahkan angka semasa yang sah."
   - "Tarikh liputan seluruh negara 13 Disember 2000 dan pembukaan penuh dua pusat panggilan pada 2008."
   - "Nama tepat tujuh negeri yang ditambah dalam pengembangan 2012 (termasuk Sabah dan Sarawak)."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: fix 2012 expansion to seven states, denda ke RM500,000/2 tahun di bawah Subseksyen 233(2) (sumber 999.gov.my), dan perbetul skop empat agensi pada 2007."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

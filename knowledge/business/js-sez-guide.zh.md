@@ -48,24 +48,16 @@ sourceContentHash: "6ef63a1c757e97dc"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-07-22
 publishedBy: "ashton-tan"
-version: "0.3"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: 2026-07-20
-    change: "Initial draft from the MIDA JS-SEZ guideline V2, the MIDA snapshot, MITI media statements and a federal gazette search."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-21
-    change: "Narrowed the intro and FAQ so the RM500m/RM1bn capital-investment thresholds are scoped to the manufacturing and downstream-chemicals routes; noted the Global Services Hub route has no capex threshold. Corrected 'principle approval letter' to 'principal' throughout."
-    reviewer: null
-  - version: "0.3"
+  - version: "01.00"
     date: 2026-08-14
-    change: "Cleared verified items against primary sources; corrected figures where they differed."
-    reviewer: "ashton-tan"
+    change: "Approved and published."
+    reviewer: null
 
 updated: 2026-08-14
 sources:

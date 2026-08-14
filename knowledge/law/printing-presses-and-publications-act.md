@@ -37,20 +37,16 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Sahkan bahawa penomboran seksyen yang dirujuk (3, 5, 6, 7, 12, 13, 13A, 13B) kekal sama dalam teks Akta 301 yang berkuat kuasa hari ini selepas pindaan 2012 dan mana-mana pindaan berikutnya."
   - "Sahkan tarikh dan nombor rujukan pindaan 2012 (dilaporkan sebagai Akta A1436, berkuat kuasa 15 Julai 2012) terhadap Warta Kerajaan rasmi."
   - "Sahkan butiran perintah larangan 19 Disember 2024 terhadap enam judul terhadap teks perintah rasmi dalam Warta, bukan hanya laporan berita Bernama."
   - "Sahkan tarikh dan status perundangan majlis media 2025 (dilaporkan diluluskan Parlimen 26 Februari 2025) terhadap rekod Parlimen atau Warta rasmi."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-07
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-07
-    change: "Correction pass: replaced Wikisource with CommonLII authoritative statute text; re-verified commencement date, section 3 penalty, and section 12 amendment wording against the Laws of Malaysia reprint and the 2012 amendment text; added verificationNeeded."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-07

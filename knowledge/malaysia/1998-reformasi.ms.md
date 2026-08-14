@@ -24,16 +24,15 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 sourceContentHash: "3f82c848946b8ea4"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "First draft — 1998 economic response (selective capital controls, RM3.80 peg, exit levy, NEAC/NERP/Danaharta/Danamodal) and the documented political events of 1998, compiled neutrally from Bank Negara Malaysia, WTO, IMF and documentary sources."
-    contributor: "NegaraKu.md Editorial"
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 updated: 2026-07-24

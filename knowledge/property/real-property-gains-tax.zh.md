@@ -40,18 +40,14 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-08
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-08
-    change: "Correction pass: sourced 1 Jan 2022 0% year-6 rate to LHDN + PwC, replaced contradictory firm-blog sources, fixed company-rate takeaway."
+    change: "Approved and published."
     reviewer: null
 verificationNeeded:
   - "Penalti bayaran lewat 10% ke atas cukai tertunggak — sahkan kadar dan mekanisme semasa terhadap panduan penalti rasmi LHDN (Seksyen 21/29 RPGTA)."

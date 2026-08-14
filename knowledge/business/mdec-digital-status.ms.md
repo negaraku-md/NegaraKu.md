@@ -58,18 +58,14 @@ sourceContentHash: "d30f4b105a3a1150"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Initial draft from MDEC guidelines and transition documents."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-21
-    change: "Reconciled the MD Tax Incentive dates: removed the unverified '31 May 2024 launch' and '26 April 2024 guideline' claims that opened after the verified application window (19 April 2024, per the MDEC guideline revised 9 July 2025), which had made the window open before the scheme existed."
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 

@@ -38,14 +38,14 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft. Nationwide public-holiday status verified against the Holidays Act 1951 (Act 369) record and the Cabinet Office public-holiday listing (Prime Minister's Department), and cross-checked against the MyGovernment portal's federal/state holiday structure. Sabah's Christmas Eve state holiday verified against the Sabah Holidays Ordinance (Cap. 56) as hosted by the Sabah Attorney-General's Chambers. Christian population count (about 2.9 million) and Sarawak ranking taken from the DOSM MyCensus 2020 Key Findings release. Written descriptively under Tier S rules: observance and doctrine are reported, not interpreted."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

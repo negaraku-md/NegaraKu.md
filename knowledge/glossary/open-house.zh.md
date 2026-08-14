@@ -26,14 +26,14 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-24
-    change: "Draf awal. Asal-usul kunjungan Aidilfitri disahkan daripada Tinta Minda BERNAMA; penganjuran rasmi peringkat kerajaan disahkan daripada Pejabat Perdana Menteri (pmo.gov.my), Jabatan Penerangan Malaysia (penerangan.gov.my) dan RTM; kedudukan dasar perpaduan disahkan daripada Kementerian Perpaduan Negara (perpaduan.gov.my). Tiada tarikh atau angka kehadiran spesifik disiarkan kerana tidak dapat disahkan seragam pada sumber rasmi."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

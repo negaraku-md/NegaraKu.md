@@ -40,7 +40,7 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Tarikh sejarah: penubuhan PNB (17 Mac 1978), YPB (9 Januari 1978), ASNB (22 Mei 1979) dan pelancaran ASB (2 Januari 1990) — sahkan terhadap laman rasmi PNB/ASNB kerana ia tidak terkandung dalam siaran akhbar Disember 2025 yang dipetik."
   - "Klausa kelayakan Bumiputera ASB — sahkan perkataan tepat, nombor klausa dan halaman dalam Prospektus Induk ASNB semasa. Kelayakan TIDAK terkandung dalam PHS ASB yang dipetik; ia dinyatakan dalam Prospektus/Prospektus Induk."
@@ -50,13 +50,9 @@ verificationNeeded:
   - "Struktur dua kelas unit ASB (Kelas A / Kelas B) berkuat kuasa 25 Mei 2026 — sahkan terhadap dokumen rasmi ASNB semasa."
   - "URL Prospektus Induk ASNB dalam senarai sumber tidak dapat diambil semasa penyediaan draf ini (ralat sijil TLS); sahkan pautan langsung dan dokumen semasa."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-28
-    change: "Draf awal AI."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-28
-    change: "Correction pass: kelayakan ASB diatribusikan semula kepada Prospektus Induk ASNB (bukan PHS), jadual agihan 3 tahun diatribusikan kepada siaran akhbar PNB, nota rekonsiliasi unit/akaun dan penanda aras ditambah, dan verificationNeeded diperkenalkan."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-28

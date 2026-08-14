@@ -36,18 +36,14 @@ sourceContentHash: "d0840945570101e4"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: 2026-07-10
-    change: "Initial draft."
-    reviewer: null
-  - version: "0.2"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Re-tiered from a mis-declared Tier 2 stub to a Tier 4 statute entity page. Removed guidance duplicating the company-secretary cluster, added the AGC timeline and Act A1701 amendment scope, and added typed relations to the articles that explain the Act in practice."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-20

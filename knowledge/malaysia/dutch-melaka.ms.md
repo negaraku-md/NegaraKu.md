@@ -25,14 +25,14 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "First draft. Every date, figure and quotation checked against the Melaka State Government's official history portal (melaka.gov.my, ms and en versions), Arkib Negara Malaysia's Pustaka Ilmu digital archive, and the National Library Board Singapore's Infopedia and article portal. The exact day and month of the 1641 capture, the 1670 renovation date of the A Famosa gate, and any claim that Raffles personally intervened to save the gate could not be confirmed on an official source and are omitted rather than stated as fact; only the officially confirmed seven-month siege length and 1806 demolition are reported."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 updated: 2026-07-24

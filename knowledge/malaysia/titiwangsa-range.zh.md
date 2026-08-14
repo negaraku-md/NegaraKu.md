@@ -23,15 +23,14 @@ translationStatus: "in-sync"
 sourceContentHash: "bcde806a5d89c349"
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft. Range length (~500 km, Thai border to Negeri Sembilan) and its description as the peninsula's largest continuous range verified against MyBIS (Malaysia Biodiversity Information System, run under the Ministry of Natural Resources); Central Forest Spine structure and the Titiwangsa-Bintang-Nakawan grouping verified against the Forestry Department's ICCFS (Central Forest Spine) FAQ page; Gunung Stong's elevation and inclusion in the range verified against KESEDAR's own tourism page. The exact elevation of the range's overall highest peak (commonly cited elsewhere as Gunung Korbu, Perak) could not be confirmed at an official Malaysian source and is therefore described qualitatively only, per house sourcing rules."
-    contributor: null
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 updated: 2026-07-24

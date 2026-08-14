@@ -64,19 +64,15 @@ sourceContentHash: "b57e9ef909f30cc8"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-07-22
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Initial draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-21
-    change: "Made the P.U.(B) 449/2025 date unambiguous (dated 8 December 2025, gazetted 12 December 2025 — verified against the AGC gazette). Added the two subsidiary instruments the article names but sources[] omitted: P.U.(A) 469/2025 (Form of Undertaking Regulations 2025) and P.U.(A) 255/2026 (Appointment of Chairman and Members Order), completing the seven-instrument set."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-20

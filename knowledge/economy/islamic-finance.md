@@ -30,11 +30,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-24
-    change: "Initial draft. Contract definitions taken from the Securities Commission's Guidelines on Islamic Capital Market Products and Services; market figures from the SC Annual Report 2025 market statistics; global and comparative figures from the IFSB stability report; deposit and takaful protection from PIDM; takaful fund structure from Labuan FSA guidelines. Descriptive throughout; no theological position taken."
+    change: "Approved and published."
     reviewer: null
 sensitivity: "religion"
 

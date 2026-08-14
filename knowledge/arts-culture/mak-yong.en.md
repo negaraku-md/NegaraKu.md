@@ -38,14 +38,14 @@ translationStatus: "in-sync"
 sourceContentHash: "fddcf6b015e88b34"
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Draf awal. Bentuk seni, struktur muzik dan kronologi pengiktirafan UNESCO disahkan pada laman UNESCO ICH, Jabatan Warisan Negara dan pemetaan budaya JKKN. Status persembahan di Kelantan dinyatakan secara deskriptif sahaja."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

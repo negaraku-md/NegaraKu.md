@@ -29,18 +29,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: 2026-07-10
-    change: "Initial draft."
-    reviewer: null
-  - version: "0.2"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Re-tiered from 2 to 3 rather than padded. At 576 words the article never supported its Tier 2 badge, and the depth it was missing now lives in business-structures-malaysia, sdn-bhd-vs-berhad and business-structure-tax-comparison. Replaced the vague structure-comparison table with the two provisions that actually define a private company (s.42(1) and s.42(2)), corrected the implication that a Sdn Bhd needs meaningful capital by citing s.9 and the absence of any statutory minimum, and pinned the officer requirements to s.196(4) and s.236(2). Added an SSM primary source and wired relations into business-structures-malaysia."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-20

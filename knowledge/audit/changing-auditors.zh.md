@@ -47,15 +47,15 @@ sourceContentHash: "c932d3246ad62000"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-07-22
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Initial draft, written from ss.269, 276 to 284 and s.322 of the Companies Act 2016, and Appendix II to the MIA By-Laws."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-20

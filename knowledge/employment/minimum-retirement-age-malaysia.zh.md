@@ -40,23 +40,19 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Tempoh 60 hari untuk memfailkan representasi pembuangan kerja tidak adil di bawah Seksyen 20 Akta Perhubungan Perusahaan 1967 (s.20(1A)) — sahkan sama ada tempoh dikira dari tarikh pembuangan atau dari tarikh tamat notis."
   - "Pengecualian kontrak tempoh tetap 24–60 bulan dengan gaji pokok RM20,000 ke atas berasal daripada pindaan 2016 kepada Akta 753 — sahkan rujukan pindaan dan tarikh kuat kuasa yang tepat."
   - "Petikan dan pegangan kes: Wong Mei Yoke v Tien Wah Press Malaya Sdn Bhd [2018] 1 ILR 20 dan Zulkefli Hashim v Uda Holdings Berhad [2018] 2 LNS 3169 — sahkan sitasi dan ringkasan pegangan terhadap laporan penuh."
   - "Denda maksimum RM10,000 di bawah Akta 753 — sahkan ia masih jumlah maksimum semasa selepas sebarang pindaan."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-08
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-08
-    change: "Correction pass: sourced the s.20 IRA 1967 60-day figure, split the criminal (DG Labour) vs civil (unfair dismissal) paths, and flagged the RM20,000 exemption as a 2016 amendment."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-08

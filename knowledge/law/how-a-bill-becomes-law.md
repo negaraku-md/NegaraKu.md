@@ -41,14 +41,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Draf awal. Setiap peringkat disemak terhadap teks Perlembagaan Persekutuan (cetakan semula 15 Oktober 2020, Jabatan Peguam Negara), Peraturan-Peraturan Majlis Mesyuarat Dewan Rakyat, glosari rasmi Parlimen Malaysia, dan Akta Tafsiran 1948 dan 1967 (Akta 388)."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 

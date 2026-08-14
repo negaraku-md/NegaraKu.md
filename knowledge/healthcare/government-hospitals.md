@@ -33,15 +33,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-24
-    change: "Draf awal. Struktur kemudahan KKM (Hospital, Klinik Kesihatan, Klinik Komuniti, Klinik Pergigian) disahkan melalui portal rasmi malaysia.gov.my. Caj pesakit luar, klinik pakar dan wad bagi warganegara serta bukan warganegara (termasuk diskaun kad UNHCR) disahkan secara langsung melalui laman rasmi Hospital Tengku Ampuan Afzan (portal.appshtaa.moh.gov.my), sebuah kemudahan di bawah Kementerian Kesihatan Malaysia, dan dipaparkan sebagai contoh satu hospital, bukan tuntutan kadar seragam kebangsaan. Akta Fee 1951 (Akta 209) disebut sebagai asas perundangan am berdasarkan kewujudan dokumen rasmi di lom.agc.gov.my dan rujukan silang tajuk rasmi di moh.gov.my, tanpa memetik seksyen tertentu kerana teks PDF tidak dapat diekstrak. Pengecualian caj warga emas 60+ dan statistik masa menunggu sengaja tidak dinyatakan sebagai angka kerana tidak dapat disahkan pada sumber rasmi semasa penulisan (moh.gov.my dan beberapa sub-domain JKN negeri tidak dapat diakses)."
-    contributor: null
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

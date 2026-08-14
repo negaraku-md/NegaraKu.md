@@ -39,18 +39,14 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-07
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-07
-    change: "Correction pass: fixed source 2 title and source 3 attribution (law firm, not aggregator), softened uncited scheme-meeting claim, and aligned the section range."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

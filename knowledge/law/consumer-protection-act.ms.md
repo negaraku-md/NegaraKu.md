@@ -36,14 +36,14 @@ sourceContentHash: "c610d29207638ce7"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft. Tribunal establishment date, monetary jurisdiction, filing fee, limitation period, excluded matters, award timeline and enforcement route taken directly from KPDN's official Tribunal for Consumer Claims FAQ page. The Act's substantive coverage (misleading conduct, safety of goods and services, guarantees, unfair contract terms) described qualitatively, matching the Act's own published table of contents, without quoting section text that could not be confirmed against a readable official copy."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

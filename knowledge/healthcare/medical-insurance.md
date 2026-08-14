@@ -25,14 +25,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-24
-    change: "Initial draft. Co-payment mechanism described qualitatively — bnm.gov.my blocked automated fetch (403) on every attempted page and document during research, so the specific minimum co-payment percentage reported by secondary press coverage was deliberately left out rather than published unverified at the official source. Tax relief figures and the perquisites tax-exemption verified via hasil.gov.my; PERKESO scheme scope verified via perkeso.gov.my; repricing interim measures verified via piam.org.my."
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 

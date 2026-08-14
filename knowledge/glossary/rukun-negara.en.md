@@ -40,18 +40,14 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Draf awal AI. Lima prinsip, cita-cita, tarikh pengisytiharan (31 Ogos 1970) dan sejarah penggubalan disahkan daripada Portal Rasmi Kerajaan Malaysia (MyGovernment) dan Majlis Keselamatan Negara (MKN)."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: fakta teras (31 Ogos 1970, Agong ke-IV Tuanku Ismail Nasiruddin Shah, ulang tahun ke-13, MAGERAN/MPN, 13 Mei 1969) disahkan semula terhadap MyGov + trivia MKN 2022; framing 'kerap dikelirukan' yang tidak bersumber dilembutkan; verificationNeeded ditambah."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

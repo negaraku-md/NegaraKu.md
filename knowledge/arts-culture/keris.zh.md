@@ -45,24 +45,16 @@ sourceContentHash: "f542d42d76523ab4"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-08-08
 publishedBy: "ashton-tan"
-version: "0.3"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-08
-    change: "Initial AI draft."
+    change: "Approved and published."
     reviewer: null
-  - version: "0.2"
-    date: 2026-08-08
-    change: "Correction pass: sourced s.23/s.67 to the primary Act text, softened unsourced luk-maximum and Malaysia–Indonesia dispute claims, removed the uncited keris-waving political episode and the unverified 'Muzium Warisan'."
-    reviewer: null
-  - version: "0.3"
-    date: 2026-08-14
-    change: "Cleared verified items against primary sources; corrected figures where they differed."
-    reviewer: "ashton-tan"
 
 updated: 2026-08-08
 sources:

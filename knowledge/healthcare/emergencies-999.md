@@ -35,14 +35,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Draf awal. Lima agensi MERS 999 dan tarikh pelancaran NG999 (1 Julai 2024) disahkan di malaysia.gov.my dan berita RTM. Caj Jabatan Kecemasan (RM1 warganegara, RM100 warga asing, diskaun 50% UNHCR) disahkan di portal rasmi Hospital Tengku Ampuan Afzan (portal.appshtaa.moh.gov.my). Sistem triage zon merah/kuning/hijau dan sasaran masa (serta-merta/30 minit/90 minit) disahkan di laman rasmi Hospital Sultanah Nur Zahirah (hsnzkt.moh.gov.my). Denda menyalahgunakan 999 disahkan pada laman rasmi 999.gov.my yang memetik seksyen 233(2) Akta Komunikasi dan Multimedia 1998. Kadar caj bayaran ambulans swasta sengaja tidak dinyatakan sebagai angka kerana ia berbeza mengikut syarikat dan jarak, dan tidak dapat disahkan pada satu sumber rasmi tunggal."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

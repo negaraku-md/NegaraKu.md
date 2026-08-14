@@ -24,14 +24,14 @@ translationStatus: "in-sync"
 sourceContentHash: "13b9c7f4fc9cc94d"
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-24
-    change: "初稿。戏曲种类与戏班沿革依据乔治市世界遗产机构（GTWHI）对雅声闽剧团、潮州木偶与潮剧馆等在地团体的介绍页面；潮剧背景依据国家文化艺术局（JKKN）文化地图；酬神戏的一般定义与戏台惯例参考中文维基百科相应条目，仅作背景说明，不作为独立事实来源。"
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

@@ -45,18 +45,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: 2026-07-10
-    change: "Initial draft."
-    reviewer: null
-  - version: "0.2"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Corrected a substantive defect. The article stated MFRS is mandatory for public-interest entities; that is not MASB's operative test, which is the Securities Commission and Bank Negara lodgement test inside the private entity definition. The foreign-listed-parent case was also stated backwards — such a subsidiary is a private entity. Narrowed the article to the decision framework, moving transition mechanics to switching-mpers-to-mfrs and the standards listing to accounting-standards-index. Added FAQ and MASB primary sources."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-20

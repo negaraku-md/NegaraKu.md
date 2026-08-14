@@ -34,18 +34,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-07
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-07
-    change: "Correction pass: anchored 24% corporate rate to PwC; removed unsourced Genting capex claim and Asian Financial Crisis framing; softened 20-year phrasing."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

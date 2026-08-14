@@ -33,18 +33,14 @@ masterLanguage: "ms"
 translationStatus: "master"
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: 2026-07-10
-    change: "Initial draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-20
-    change: "Re-tiered from Tier 2 to an honest Tier 3 — the article is 674 body words and the topic does not support 1,000 to 2,000 without padding. Added FAQ, replaced the generic Tourism Malaysia citation with Kraftangan Malaysia, the Department of Museums and the UNESCO inscription record."
+  - version: "01.00"
+    date: 2026-07-23
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-23

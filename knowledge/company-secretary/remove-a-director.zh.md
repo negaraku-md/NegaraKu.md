@@ -53,15 +53,15 @@ sourceContentHash: "8a80c4606fe7ff91"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-07-22
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Initial draft, verified against the Act 777 reprint as at 1 August 2022."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-20

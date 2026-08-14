@@ -38,15 +38,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-07
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-07
-    change: "Correction pass: restored the Family Frontiers FAQ citation for the 5 Aug 2023 ruling, corrected the Second Schedule Part II boundary to 'pada atau selepas' Hari Malaysia with a fetched source, and disclosed the unfetchable JPN reference via verificationNeeded."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

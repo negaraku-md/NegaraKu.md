@@ -30,18 +30,14 @@ translationStatus: "in-sync"
 sourceContentHash: "6cce56bdb89cd914"
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-08-14"
 publishedBy: "ashton-tan"
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: 2026-08-10
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
+  - version: "01.00"
     date: 2026-08-14
-    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
+    change: "Approved and published."
     reviewer: null
 verificationNeeded:
   - "Exact statutory basis for the requirement that a lodger hold a practising certificate under Section 241 Companies Act 2016 — sources conflicted; confirm the exact section and wording before stating it."

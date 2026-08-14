@@ -30,12 +30,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-24
-    change: "Initial draft comparing STPM, Matrikulasi, Foundation, A-Levels and Diploma as post-SPM routes — administering body, duration and admission mechanics verified against MOE, MPM, MOHE/UPU, MyGovernment and Cambridge International official pages. Matriculation's 90:10 quota is stated descriptively, without editorial characterisation, per site policy on sensitive admission topics."
-    contributor: null
+    change: "Approved and published."
     reviewer: null
 sensitivity: "race"
 updated: 2026-07-24

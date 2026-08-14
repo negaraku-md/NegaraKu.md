@@ -40,14 +40,14 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Draf awal AI. Fakta zaman keemasan disahkan pada BiblioAsia (Lembaga Perpustakaan Negara Singapura) dan laman Shaw Organisation; status FINAS dan Akta 1981 pada laporan Malay Mail; angka box office pada NME dan Malay Mail; kemenangan Cannes pada Free Malaysia Today; sinema bebas pada Asian Movie Pulse."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

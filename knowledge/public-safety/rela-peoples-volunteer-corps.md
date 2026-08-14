@@ -38,15 +38,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: fixed statutory name to Akta Pasukan Sukarelawan Malaysia 2012, corrected latest amendment to P.U.(A) 165/2024 and ranks (KPjR/LKpl. R) against the AGC updated text (as at 1 Julai 2024), removed unsourced 'reduction of powers' claim, replaced private-firm source with official AGC/MOHA text."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

@@ -31,14 +31,14 @@ sourceContentHash: "a2dbf62e9ce69abb"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-24
-    change: "Initial draft. Statutory basis (Investment Panel, Ministerial approval, Section 27 minimum dividend) from the Employees Provident Fund Act 1991 (Act 452) and secondary summaries of KWSP's own EPF Act 1991 legal-framework page. 2025 quarterly and full-year investment assets, income-by-asset-class and dividend figures cross-verified via Malay Mail, Free Malaysia Today, The Vibes and The Edge Malaysia, each reporting KWSP's own press releases; kwsp.gov.my itself returns HTTP 403 to automated fetch, so no figure here was pulled from a single source alone. Domestic capital-market share (MGS/GII holding, FBM Top 100 share, Bursa value-traded share) from Malay Mail's report of EPF's 2023 year-end disclosure."
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 

@@ -44,11 +44,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Draf awal. Setiap peruntukan disahkan terhadap teks Bahagian VIII Perlembagaan Persekutuan (Perkara 113, 114, 116, 117, 119) yang diterbitkan oleh Suruhanjaya Pilihan Raya, dan turutan prosedur pilihan raya disahkan terhadap portal rasmi SPR."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

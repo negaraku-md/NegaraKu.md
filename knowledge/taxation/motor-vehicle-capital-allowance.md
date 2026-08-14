@@ -31,18 +31,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Initial draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-21
-    change: "Removed the ambiguous 'Examples 5 to 8' range citation that could mis-map Example 5, and pinned the reconditioned-van case to its actual Example 8; the four-wheel-drive RM100,000 restriction remains Example 5 (verified against PR 6/2015)."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-20

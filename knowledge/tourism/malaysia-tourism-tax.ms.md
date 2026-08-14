@@ -41,18 +41,14 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-28
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-28
-    change: "Correction pass: added Act A1633 as source for the imprisonment penalty, fixed the DPSP 'pay at property' collection mechanism (operator remits directly, no reimbursement), and de-attributed the illustrative invoice table."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

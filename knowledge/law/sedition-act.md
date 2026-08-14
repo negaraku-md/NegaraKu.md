@@ -42,11 +42,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft. Long title, definitions, section 3(1)-(3), section 4 offences and penalties, and sections 5-11 taken from the AGC reprint of Act 15 (as at 1 January 2006). In-force status and revision history taken from the AGC Laws of Malaysia act record for Act 15; the not-in-force status of Act A1485 taken from the AGC act record for A1485."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

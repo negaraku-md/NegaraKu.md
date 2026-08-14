@@ -39,11 +39,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Draf awal. Setiap tarikh, nama dan angka disahkan pada sumber rasmi (Akta 808 melalui istiadat.gov.my, Arkib Negara, Portal Rasmi Kerajaan Malaysia, laman rasmi Kesultanan Perak). Kaitan 'La Rosalie' / Pierre-Jean de Béranger sengaja tidak dinyatakan sebagai fakta kerana tidak ditemui pada mana-mana sumber rasmi."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

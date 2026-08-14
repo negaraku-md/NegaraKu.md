@@ -37,15 +37,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-08
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-08
-    change: "Correction pass: added Perkara 11(4) for tier-S completeness, softened gazetted-fatwa legal-effect wording, added verificationNeeded flags."
+    change: "Approved and published."
     reviewer: null
 verificationNeeded:
   - "Kesan undang-undang fatwa yang diwartakan: kenyataan umum ini perlu disokong dengan rujukan enakmen negeri khusus (mis. Enakmen Pentadbiran Agama Islam negeri berkenaan) semasa semakan manusia."

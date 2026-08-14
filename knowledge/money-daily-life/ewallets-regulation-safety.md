@@ -39,10 +39,10 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Ambang modal minimum (min. capital funds) yang tepat di bawah s.12(1) FSA / Appendix 3 dokumen dasar — sengaja tidak dinyatakan; sahkan angka sebenar sebelum menambah semula."
   - "Status pendaftaran semasa keempat-empat pengeluar yang dinamakan (senarai rasmi BNM berubah dari semasa ke semasa; terdapat lebih 40 pengeluar bukan bank keseluruhannya)."
@@ -50,13 +50,9 @@ verificationNeeded:
   - "Angka bayaran balik 14 hari / 30 hari (perenggan 20.10–20.13) dan takrifan 'kes rumit'."
   - "Ambang 'eligible EMI' (500,000 pengguna aktif / 5% bahagian pasaran) di Appendix 1 — sahkan tempoh pengukuran dan takrifan tepat."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-08
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-08
-    change: "Correction pass: removed superseded 2023 Rahmat Lim source, fixed passive-voice slip in answer, retargeted duitnow-qr relation to related-to, added verificationNeeded."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-08

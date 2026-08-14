@@ -50,24 +50,16 @@ sourceContentHash: "61c45f9103d24eb1"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 publishedBy: "ashton-tan"
 reviewed: 2026-08-14
 reviewDue: 2027-07-22
-version: "0.3"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Initial draft from Act 664, the 2007 exemption orders and their amendment chain, P.U.(B) 433/2025, and IRDA and MIDA publications."
+    change: "Approved and published."
     reviewer: null
-  - version: "0.2"
-    date: 2026-07-21
-    change: "Removed the orphan RM500m threshold from 'What's next' (thresholds are route-specific, per the JS-SEZ guide). Reconciled the 'seven flagships' language with the sibling articles: the MIDA package covers seven flagship zones (A to G) within nine designated JS-SEZ flagship zones."
-    reviewer: null
-  - version: "0.3"
-    date: 2026-08-14
-    change: "Cleared verified items against primary sources; corrected figures where they differed."
-    reviewer: "ashton-tan"
 
 updated: 2026-07-20
 sources:

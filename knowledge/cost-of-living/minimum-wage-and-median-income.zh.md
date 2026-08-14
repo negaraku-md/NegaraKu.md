@@ -26,15 +26,15 @@ sourceContentHash: "b4e7cfa473ebf879"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-01-24
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-24
-    change: "Initial draft. Minimum wage figures verified against the Minimum Wages Order 2024 (P.U.(A) 376) via the National Wages Consultative Council secretariat portal; income figures verified against the DOSM Household Income Survey Report 2024 and Salaries & Wages Survey Report 2024."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

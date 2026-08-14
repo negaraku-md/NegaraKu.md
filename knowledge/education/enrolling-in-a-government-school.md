@@ -23,15 +23,14 @@ masterLanguage: "ms"
 translationStatus: "master"
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-24
-    change: "Draf awal — proses pendaftaran Tahun 1 melalui idMe, penempatan Tingkatan 1 melalui eDaftar Menengah/APDM, umur layak masuk mengikut Akta Pendidikan 1996, serta dasar kemasukan awal dan penangguhan."
-    contributor: null
+    change: "Approved and published."
     reviewer: null
 updated: 2026-07-24
 sources:

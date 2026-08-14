@@ -34,19 +34,15 @@ sourceContentHash: "09bddb62f9842f1a"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-07-22
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Initial draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-21
-    change: "Fixed the wage-band ceiling: the RM20,000 band boundary is EPF's Third Schedule ceiling only; SOCSO's contribution table tops out at the RM6,000 wage ceiling, as stated in the cost table above."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-20

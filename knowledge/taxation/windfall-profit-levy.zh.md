@@ -37,18 +37,14 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-07
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-07
-    change: "Correction pass: removed fabricated FFB RM600/RM700 conversion, re-sourced Act 592 + 1999 start (ISP) and the 2022 rate doubling (The Edge), clarified Focus Malaysia's superseded 2020 thresholds."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

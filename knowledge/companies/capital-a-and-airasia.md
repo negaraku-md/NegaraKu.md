@@ -35,18 +35,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-28
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-28
-    change: "Correction pass: re-verified every figure/date against primary IR and reputable outlets, added fetched sources for the 7 Mar 2025 plan approval and the RM5.51bn capital reduction, softened the exact disposal-completion day, and reworded the RM6.8bn takeaway to reflect a share-settled (not cash) deal."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

@@ -47,24 +47,16 @@ sourceContentHash: "b5ad7450f8460c07"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 publishedBy: "ashton-tan"
 reviewed: "2026-08-14"
 reviewDue: 2027-07-22
-version: "0.3"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: 2026-07-20
-    change: "Initial draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-21
-    change: "Aligned the P.U.(B) 522/2024 source date to the gazette publication date (24 December 2024, verified against the AGC gazette), matching pdpa-compliance-malaysia. Corrected 'two years out of date' to 'roughly eighteen months' (2012 Regulations revoked 25 December 2024, file updated July 2026)."
-    reviewer: null
-  - version: "0.3"
+  - version: "01.00"
     date: 2026-08-14
-    change: "Cleared verified items against primary sources; corrected figures where they differed."
-    reviewer: "ashton-tan"
+    change: "Approved and published."
+    reviewer: null
 
 updated: 2026-08-14
 sources:

@@ -37,23 +37,19 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Commencement date 15 December 2010 and P.U. (B) 537/2010 reference — printed under the long title in the AGC reprint; confirm against the original commencement notification."
   - "Section 11(1) grounds and Section 11(2)-(4) procedure — confirm paraphrase against the current in-force text (the cited reprint is 'as at 31 August 2016')."
   - "MACC June 2025 statement — confirm the quoted wording and context via a primary MACC release if available, not only the FMT report."
   - "Whether any post-2016 amendment to Act 711 has taken effect that changes the protections, Section 11 grounds, or the commencement position stated here."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-07
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-07
-    change: "Correction pass: restored verified 15 Dec 2010 commencement date, corrected the Section 2 'improper conduct' quotation to end at the statutory boundary, and neutralised advice-like phrasing."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-07

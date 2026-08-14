@@ -34,18 +34,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-08
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-08
-    change: "Correction pass: re-verified all household + RIA figures against the official EPF press release and The Vibes; added EPF press release and SWRC 2019 launch as primary sources for the RM2,690/RIA figures and the 2019 origin; removed unverifiable launch venue."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

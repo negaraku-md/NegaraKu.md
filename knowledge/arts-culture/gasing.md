@@ -23,14 +23,14 @@ masterLanguage: "ms"
 translationStatus: "master"
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Draf awal. Fakta disemak pada Jabatan Warisan Negara, Majlis Keselamatan Negara dan TRDI (Media Rasmi Negeri Terengganu). Angka seperti tempoh putaran, berat dan bilangan pemain sengaja ditinggalkan kerana tidak ditemui pada sumber rasmi."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

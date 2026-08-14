@@ -36,22 +36,18 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Confirm the Part V, Division 1 (Foreign Companies) placement of ss.574–576 against the client's current in-force reprint of Act 777, in case of later amendment."
   - "Confirm the s.575(7) waiver grounds and any current SSM practice/guidance on how waivers are applied for and granted."
   - "Confirm client-specific dates: the branch's financial year-end and AGM date that fix the two-month lodgement deadline under s.575(1)."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-08
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-08
-    change: "Correction pass: fixed mis-citation of foreign-company regime from repealed 1965 Act's 'Part XI, Division 2' to Act 777's 'Part V, Division 1' (twice); broadened source title to reflect all sections relied upon."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-08

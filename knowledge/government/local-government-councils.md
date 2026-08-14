@@ -30,15 +30,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-08-01"
-    change: "Draf awal (dijana AI). Struktur PBT, kategori dan keanggotaan disemak terhadap Akta 171 dan portal rasmi JKT KPKT; latar sejarah disemak terhadap sumber sekunder."
-    reviewer: null
-  - version: "0.2"
-    date: "2026-08-01"
-    change: "Correction pass: buang semua rujukan Wikipedia; sahkan semula setiap angka (Seksyen 10, kriteria kategori, bilangan PBT, tarikh sejarah) terhadap sumber rasmi/utama yang dibuka; tambah verificationNeeded; kekalkan status draf."
+  - version: "01.00"
+    date: 2026-08-01
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

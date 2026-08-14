@@ -36,14 +36,14 @@ translationStatus: "in-sync"
 sourceContentHash: "d2c30470773fa9b0"
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-24
-    change: "初稿。人口比例（华人占公民人口 22.2%，2025 年）依据 DOSM《Current Population Estimates, Malaysia, 2025》；公共假期依据 1951 年假期法令（Act 369，官方 kabinet.gov.my 版本）；文化习俗（团圆饭、红包、舞狮、捞生、开放门户、十五暝）以描述性、中立方式呈现，参照马来西亚旅游局对农历新年的官方介绍。作为敏感类（religion）文章，全文严格描述习俗，不评断宗教信仰、不作政治性论断。"
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

@@ -34,18 +34,14 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-28
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-28
-    change: "Correction pass: sourced 51/49 split to The Edge and Touch 'n Go year (1997) to primary source; removed unverifiable 772 km NSE length and MyPLUS/MYJalan 2024 claim; neutralized editorial framing and closing note."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-28

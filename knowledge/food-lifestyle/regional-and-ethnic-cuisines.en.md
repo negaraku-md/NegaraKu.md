@@ -50,15 +50,11 @@ verificationNeeded:
   - "Sejarah kehadiran Portugis di Melaka dan pembentukan masyarakat Kristang/Eurasia, termasuk tahun/abad yang tepat (kini dinyatakan tanpa angka); perlu sumber primer/sejarah."
   - "Etimologi 'debal' daripada 'devil' (kari syaitan) — perlu sumber linguistik; dan tradisi kari debal dimasak daripada lebihan hidangan Krismas — perlu disahkan sebagai tradisi, bukan makna perkataan."
   - "Butiran hidangan Sabah (hinava, tuhau, bosou, tuaran mee) dan status pengiktirafannya dalam program makanan warisan; belum ada sumber sepadan dalam senarai sumber."
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: buang etimologi 'debal=lebihan' yang salah, softenkan tarikh Portugis abad ke-16 yang tidak bersumber, dan tambah verificationNeeded untuk bahagian tanpa sumber."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

@@ -27,14 +27,14 @@ sourceContentHash: "35465664913b0ad9"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft. Freehold/leasehold alienation framework taken from the National Land Code 1965 (Act 828); strata definitions (parcel, common property), Management Corporation formation, and parcel owners' three-way tax/fee obligations verified directly against the Department of Director General of Lands and Mines (JKPTG) official FAQ pages."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 

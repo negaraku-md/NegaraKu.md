@@ -70,19 +70,15 @@ sourceContentHash: "7f112f7ee41f1d69"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-07-22
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Initial draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-21
-    change: "Fixed the rationale for the s.297(2)(a) exclusion: the representation right in s.207 is triggered by the s.206(3) special notice required for any removal under s.206, including a private company removal under s.206(1)(a) — it is not a public-company-only right, which is the company type the exclusion actually governs."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-20

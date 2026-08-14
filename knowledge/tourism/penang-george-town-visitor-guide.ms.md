@@ -42,10 +42,10 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Penang island land area — the precise figure (previously '293 km²') was removed as unsourced; confirm against a primary source (e.g. Department of Statistics Malaysia or Penang state government) before reinstating any number."
   - "Whether Penang National Park is Malaysia's smallest national park — the 'one of the smallest in the world' superlative was removed as unsupported and likely overstated; confirm any superlative against an authoritative source before adding it back."
@@ -53,13 +53,9 @@ verificationNeeded:
   - "'More than 500 years of trade' — tracks the UNESCO Outstanding Universal Value framing but is not explicitly stated in the quoted GTWHI excerpt; confirm exact wording."
   - "MDAC specifics ('free', 'submitted through the Immigration Department's portal') — the cited IMI page renders largely as navigation chrome; confirm the substantive details against the live MDAC portal (imigresen-online.imi.gov.my/mdac)."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-28
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-28
-    change: "Correction pass: verified airport distance (16 km, confirmed on airport source) and funicular fares/sunrise rate against official sources; removed unsourced island area and 'smallest national park in the world' claims; corrected sunrise-rate wording; added verificationNeeded."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-28

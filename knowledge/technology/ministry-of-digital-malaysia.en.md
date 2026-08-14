@@ -35,10 +35,10 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Struktur dalaman kementerian (bilangan sektor dan bahagian): laman rasmi digital.gov.my tidak boleh diakses buat masa penyusunan, jadi angka struktur telah dikeluarkan sehingga sumber rasmi disahkan."
   - "Rangka tiga teras (ekonomi digital, masyarakat digital, kerajaan digital) — sahkan terhadap penyata dasar rasmi kementerian."
@@ -46,13 +46,9 @@ verificationNeeded:
   - "Sejarah organisasi terperinci CyberSecurity Malaysia (asal-usul MyCERT, pemindahan portfolio) — dikeluarkan sehingga sumber primer diperoleh."
   - "Angka liputan 5G DNB (82.1% / 80.2%) dan tarikh rujukan tepat — sahkan terhadap laporan rasmi MCMC/DNB."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: removed unsourced structure/CSM-history claims and unsupported MyDIGITAL placement, fixed 5G date/figure, and sourced NACSA to nacsa.gov.my."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

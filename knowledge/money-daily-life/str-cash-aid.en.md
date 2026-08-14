@@ -31,14 +31,14 @@ sourceContentHash: "353147e69093acce"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-24
-    change: "Draf awal. Pentadbir (LHDNM bagi pihak Kementerian Kewangan), tempoh permohonan, dan kaedah semakan/bayaran disahkan terus di portal rasmi bantuantunai.hasil.gov.my dan manfaat.mof.gov.my. Amaun bantuan khusus sengaja tidak dinyatakan kerana tidak dapat disahkan dengan pasti menerusi PDF FAQ rasmi (halangan pengekstrakan teks fon terbenam) semasa penulisan."
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 

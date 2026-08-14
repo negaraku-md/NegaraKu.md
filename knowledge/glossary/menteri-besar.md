@@ -36,11 +36,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Draf awal. Setiap petikan perlembagaan — takrif Perkara 160(2), Perkara 1, 70 dan 71(5), serta seksyen 1, 2, 19A, 19B, 20, 22 dan 23 Jadual Kelapan — disemak kata demi kata terhadap Perlembagaan Persekutuan (Cetakan Semula 2020) di portal Jabatan Peguam Negara; tarikh gelaran Premier Sarawak (diluluskan 15 Februari 2022, berkuat kuasa 1 Mac 2022) disemak terhadap portal rasmi Kerajaan Sarawak; senarai negeri beraja dan tanpa raja disemak terhadap portal MyGovernment. Nada dikekalkan deskriptif sepenuhnya."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 sensitivity: "royalty"
 

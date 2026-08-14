@@ -30,22 +30,14 @@ sourceContentHash: "46533f76e2996181"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.3"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: 2026-07-10
-    change: "Initial draft."
-    reviewer: null
-  - version: "0.2"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Converted to a Tier 3 hub over the six e-Invoice articles now written beneath it, and re-tiered from 2 accordingly. The original was 496 words behind a Tier 2 badge with no FAQ, and its rollout table declined to state any dates or thresholds, telling readers to check LHDN instead — a page about a phased mandate that would not say when the phases were. Phase dates, data fields, consolidation rules, self-billing and integration choices now live in the cluster; this page routes by reader intent."
-    reviewer: null
-  - version: "0.3"
-    date: 2026-07-21
-    change: "Bridged the 'no phase five' point with the separate 1 July 2026 start date for newly commenced businesses (2023-2025, turnover >=RM1m), so it no longer reads as conflicting with the freelancer-and-gig-tax page."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-20

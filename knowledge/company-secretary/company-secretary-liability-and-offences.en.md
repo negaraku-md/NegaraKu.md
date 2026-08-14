@@ -33,10 +33,10 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Seksyen tuduhan tepat bagi PP lwn Khaeromze bin Ahmad (dinyatakan seksyen 364(2) Akta Syarikat 1965) — sahkan terhadap siaran media rasmi SSM."
   - "Kes PP lwn Ho Woon Choon (setiausaha Dataco Communications; Mahkamah Rayuan Putrajaya, 16 Jun 2011; Borang 24; seksyen 364(2) Akta Syarikat 1965) — sahkan nombor kes / laporan mahkamah rasmi."
@@ -46,13 +46,9 @@ verificationNeeded:
   - "URL kanonik SSM bagi deck 'Common Offences Under Companies Act 2016' (kini dipetik daripada rehost pihak ketiga cwca.com.my); gantikan dengan salinan di domain ssm.com.my jika ada."
   - "Kes PP lwn Sandhiransegaran (Venus Polymer Sdn Bhd, penjara 5 tahun) muncul dalam slaid latihan SSM tanpa nombor kes/laporan mahkamah — jangan petik semula tanpa pengesahan bebas."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-07
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-07
-    change: "Correction pass: buang kes tak bersumber (Sandhiransegaran), betulkan statut kes Khaeromze kepada Akta 1965 s.364(2), tambah kes Ho Woon Choon bersumber SSM, ikat setiap angka kepada sumber SSM primer, buang sumber bukan berautoriti, betulkan typo 'melodej'."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-07

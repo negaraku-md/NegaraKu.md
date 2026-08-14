@@ -48,11 +48,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft. Constitutional text taken from the Attorney General's Chambers reprint of the Federal Constitution as at 15 October 2020 (Article 121, Article 5(4), Article 145(3), Ninth Schedule List I item 4 and List II item 1). Act 355 section 2 as reproduced by the Federal Territories Mufti's Department; Act 505 structure from the AGC updated reprint as at 1 January 2013. State thresholds from the Johor and Perak Syariah judiciary departments."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

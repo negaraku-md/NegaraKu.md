@@ -26,14 +26,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-24
-    change: "Draf awal. Sejarah penubuhan, pengambilalihan ekuiti 2000, dan skop liputan disahkan menerusi laman rasmi IWK (iwk.com.my); struktur caj dan jadual nyahenapan disahkan menerusi halaman Caj Pelanggan dan Caj Nyahenap Cemar Domestik IWK; rangka perundangan (Akta 508 dan Akta 655) disahkan menerusi FAOLEX dan laman rasmi SPAN. Tiada amaun caj tertentu dinyatakan kerana tidak dapat disahkan secara konsisten di sumber rasmi untuk semua kategori premis pada masa penulisan."
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 

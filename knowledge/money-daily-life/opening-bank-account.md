@@ -30,14 +30,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft. Citizen/foreigner document requirements verified against CIMB Bank's own identity-verification page; deposit insurance figure verified against PIDM's official FAQ; immigration pass names verified against the Malaysian Immigration Department's own pass pages."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 

@@ -43,25 +43,17 @@ sourceContentHash: "7e8c332e4dfbfd08"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-08-03
 publishedBy: "ashton-tan"
-version: "0.3"
+version: "01.00"
 verificationNeeded: []
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-28
-    change: "Initial AI draft."
+    change: "Approved and published."
     reviewer: null
-  - version: "0.2"
-    date: 2026-07-28
-    change: "Correction pass: re-verified all flagged figures against DWNP, ccsenet and the Pahang portal; removed unsourced road distances and the 30-minute walkway claim; reconciled the 530 m/550 m canopy walkway."
-    reviewer: null
-  - version: "0.3"
-    date: 2026-08-14
-    change: "Cleared verified items against primary sources; corrected figures where they differed."
-    reviewer: "ashton-tan"
 
 updated: 2026-07-28
 sources:

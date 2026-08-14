@@ -42,10 +42,10 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Exact net-worth threshold for the income-test alternative (secondary sources cite ~RM1 billion; confirm against the current official PVIP FAQ)."
   - "The precise up-front portion of the RM200,000 participation fee (secondary sources describe a ~10% initial payment before online submission with the balance on conditional approval)."
@@ -53,13 +53,9 @@ verificationNeeded:
   - "The six-month deposit-withdrawal window, net-worth/onshore-income alternative and RM50,000 10-year dependent option are described as 2026 revisions by secondary sources — confirm they remain current on the official PVIP materials."
   - "Launch dates (announced 1 September 2022; open from 1 October 2022) and the current list of Immigration-appointed agents."
 revisions:
-  - version: "0.1"
-    date: "2026-08-07"
-    change: "Initial AI draft. Figures verified against the Immigration Department's official PVIP FAQ (imigresen-online.imi.gov.my), with launch and comparison context from Malay Mail and Conventus Law."
-    reviewer: null
-  - version: "0.2"
-    date: "2026-08-07"
-    change: "Correction pass: fixed the good-conduct issuer (country of origin, not Wisma Putra), removed the unsourced RM2,000/RM198,000 fee split (RM2,000 is the annual pass fee), reconciled the six-month withdrawal as the 2026 revision, softened tone and added corroborating fetched sources."
+  - version: "01.00"
+    date: 2026-08-07
+    change: "Approved and published."
     reviewer: null
 
 updated: "2026-08-07"

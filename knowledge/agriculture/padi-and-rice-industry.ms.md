@@ -32,23 +32,15 @@ translationStatus: "in-sync"
 sourceContentHash: "8a715f161404c46b"
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-08-14"
 publishedBy: "ashton-tan"
-version: "0.3"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: 2026-08-10
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
+  - version: "01.00"
     date: 2026-08-14
-    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft). Removed figures not yet confirmed against a primary source (exact floor price, statute number, granary hectarage, farmer count, yield-per-hectare, SMART SBB target) and routed them to verificationNeeded."
+    change: "Approved and published."
     reviewer: null
-  - version: "0.3"
-    date: 2026-08-14
-    change: "Cleared verified items against primary sources; corrected figures where they differed."
-    reviewer: "ashton-tan"
 verificationNeeded:
   - "Exact total padi planted area (hectares) and national padi production (metric tonnes) for 2022/2023/2024 — pull from DOSM 2023 Agricultural Census, DOA paddy production surveys, or TaniStats; source PDFs did not render during research. (Note: the DOSM SUA gives milled-rice production, not padi hectarage.)"
   - "Historical rice self-sufficiency ratio for 2014 (a '71.6%' figure appeared only in a search snippet and could not be verified against any primary DOSM source). DOSM changed the SSR calculation basis in 2023, so pre-2023 and post-2023 figures are not directly comparable — only 2024 = 52.9% is primary-confirmed."

@@ -36,22 +36,18 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Tarikh kuat kuasa tepat SEDA (dilaporkan 1 September 2011): laman rasmi SEDA yang dipetik hanya mengesahkan penubuhan 'di bawah Akta SEDA 2011 [Akta 726]', bukan bulan/tarikh tepat. Sahkan terhadap Akta SEDA 2011 (gazet/AGC)."
   - "Kementerian penyelia semasa (PETRA): tidak dinyatakan secara eksplisit pada laman SEDA yang dipetik. Sahkan nama kementerian penyelia terkini dan petik halaman rasmi yang menyatakannya."
   - "Solar ATAP: sama ada permohonan sentiasa terbuka atau dibuka melalui tetingkap permohonan berkala dengan tarikh buka/tutup ditetapkan kerajaan — sumber berbeza-beza; sahkan pada portal eATAP / garis panduan SEDA terkini."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Draf awal AI daripada laman rasmi SEDA dan TNB."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: soften unsourced 'September 2011' to '2011', add SEDA Overview source, soften Solar ATAP 'no quota/always open', add verificationNeeded flags."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

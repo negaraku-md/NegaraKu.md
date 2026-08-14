@@ -38,22 +38,18 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Confirm the current Bursa Malaysia Main Market Listing Requirements still number the percentage ratios at paragraph 10.02 and the recurrent related party transaction shareholders' mandate at paragraph 10.09 in the version current at publication (the cited extract is dated 31 October 2025)."
   - "Confirm the Malaysian Institute of Accountants (MIA) adoption of ISA 550 is textually identical to the IAASB source text for every paragraph relied on (paras 2, 10, 13, 14, 15, 18, 23, 24, 26, 27)."
   - "Confirm the IFAC-hosted ISA 550 handbook PDF remains live; if not, substitute the IAASB publications page or the then-current IAASB Handbook volume."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-08
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-08
-    change: "Correction pass: swapped ISA 550, MFRS 124 and Bursa Chapter 10 citations to authoritative primary sources (IFAC, MASB, Bursa) and re-verified every figure."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-08

@@ -30,19 +30,15 @@ sourceContentHash: "93eabace2772ea86"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-07-22
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: 2026-07-10
-    change: "Initial draft."
-    reviewer: null
-  - version: "0.2"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Superseded as a standalone guide and converted to a Tier 3 hub. The original was a 490-word page carrying a Tier 2 badge with no FAQ, and its rate content was stale — it presented EPF as a flat percentage rather than a Third Schedule table lookup, gave SOCSO and EIS as approximate percentages without the RM6,000 ceiling, and described EPF for foreign workers as voluntary, which the 2025 Part F amendments reversed. Rate detail now lives in epf-employer-guide, socso-eis-employer-guide and payroll-compliance-malaysia; this page routes to them. Slug and topicId retained."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-20

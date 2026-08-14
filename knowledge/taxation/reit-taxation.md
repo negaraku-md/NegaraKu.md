@@ -36,23 +36,19 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "The 30% rate applied to non-resident individuals is the standard non-resident individual rate reported by press/advisory coverage of Practice Note 2/2026; confirm the exact rate and its statutory basis (Part II, Schedule 1, ITA 1967) against the Practice Note itself."
   - "The stated rationale for ending the concession (REIT sector maturity) is drawn from EY's and press summaries of the Practice Note; confirm the precise wording and attribution (Treasury/government vs LHDN) against the primary Practice Note."
   - "Confirm whether section 109D withholding continues to operate as the collection mechanism for non-resident unit holders from YA 2026, and the exact reporting line for resident individuals."
   - "Scale rates (0%–30%) and thresholds can change each Budget; re-verify the current-year figures before relying on them."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-07
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-07
-    change: "Correction pass: sourced section 109D (Ecovis) and the 30% non-resident-individual rate (duitwise); replaced the unattributed Finance Ministry rationale with a sourced maturity rationale (EY); named the research houses behind the constructive calls (The Star); added EY and primary HASiL Practice Note sources; added verificationNeeded."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-07

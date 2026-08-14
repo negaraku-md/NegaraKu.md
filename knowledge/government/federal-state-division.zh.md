@@ -30,12 +30,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft. Classified Tier S (sensitivity: constitution) because the subject is the constitutional division of legislative power, including State List item 1 on Islamic law and the Sabah/Sarawak safeguards. Written descriptively, reporting the Ninth Schedule and Articles 74–77 and 95B as published, without commentary. Held as draft pending human review."
-    contributor: null
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

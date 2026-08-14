@@ -38,14 +38,14 @@ translationStatus: "in-sync"
 sourceContentHash: "9f06d94e839f077d"
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Draf awal. Fakta disemak pada Senarai Seni Halus Warisan Kebangsaan 2015 dan halaman Muzium Diraja Istana Kenangan (Jabatan Warisan Negara), penerbitan Seni Kraf Kayu: Motif & Teknik dan halaman Kompleks Kraf Kuala Lumpur (Kraftangan Malaysia), serta portal rasmi Majlis Daerah Besut bagi Desa Ukiran Kayu. Nama teknik ukiran spesifik (seperti tebuk tembus/tebuk timbul) sengaja tidak digunakan kerana tidak dapat disahkan pada sumber rasmi yang diakses."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

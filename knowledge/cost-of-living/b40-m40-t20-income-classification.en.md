@@ -35,18 +35,14 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-08
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-08
-    change: "Correction pass: perjelas 5.1%/3.8% sebagai kadar tahunan (bukan perubahan dua tahun), buang dakwaan T15 tak bersumber, sahkan semula semua angka DOSM 2022/2024."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

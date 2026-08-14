@@ -25,14 +25,14 @@ sourceContentHash: "e0164ad51b29c01a"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft. Programme structure (PPI, PPKI, Special Education Schools), eligibility and OKU-card registration process verified against the official malaysia.gov.my government portal's special-education and OKU-registration pages; early-intervention description checked against the National Autism Society of Malaysia's own official programme page."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 

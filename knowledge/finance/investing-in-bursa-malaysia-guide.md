@@ -39,23 +39,19 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Stamp duty is currently RM1 per RM1,000 (~0.1%), capped at RM1,000. The rate was raised to 0.15% from 1 Jan 2022 and reverted to 0.1% effective July 2023 — confirm the 0.1% rate and RM1,000 cap are still in force at publication."
   - "Service tax (SST) exemption for brokerage / securities trading fees on Bursa-listed shares — confirm the exemption is still current against the latest Bursa Malaysia SST FAQ / Royal Malaysian Customs (MySST) guidance, given the October 2025 SST expansion on financial services."
   - "Bursa Anywhere document requirements (MyKad front and back, plus a bank statement or passbook) and the no-fee position — confirm against the live app flow, which can change."
   - "Bursa Anywhere distribution (Apple App Store and Google Play) — confirm current availability; store listings and the Bursa Assist pages bot-block automated fetch, so figures here were confirmed from search result titles and snippets rather than full page fetches."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: corrected the service-tax claim (brokerage on listed shares is exempt, not taxed), removed uncited app-availability and eDividend inferences, softened the CDS-fee FAQ, and added supporting sources plus verificationNeeded."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

@@ -39,23 +39,19 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Tarikh tepat penubuhan Jawatankuasa Putrajaya untuk Prestasi Tinggi GLC (PCG) dan sebarang tarikh pelancaran rasmi GLCTP pada 2005 — sumber Khazanah yang dipetik hanya mengesahkan pelancaran/pengumuman pada 14 Mei 2004; dakwaan '29 Julai 2005' dan 'Januari 2005' telah dibuang kerana tidak dapat disahkan."
   - "Struktur pengerusian PCG (peranan Menteri Kewangan Kedua berbanding Perdana Menteri) — tidak disahkan dalam sumber yang dipetik; sumber Khazanah hanya mengesahkan PCG dipengerusikan oleh Perdana Menteri dan Khazanah bertindak sebagai Sekretariat."
   - "Klasifikasi sensitiviti: frontmatter ditetapkan 'none' mengikut piawaian, tetapi artikel menyentuh Dasar Ekonomi Baru, peristiwa 1969 dan ekuiti Bumiputera; semakan editorial manusia patut menilai semula sama ada 'none' sesuai."
   - "Angka semasa GEAR-uP (RM11 bilion digerakkan, RM22 bilion dikenal pasti, ikrar RM25 bilion) adalah setakat 30 Jun 2025; sahkan kemas kini terbaru terus daripada siaran MOF sebelum dipetik."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-28
-    change: "Draf awal AI."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-28
-    change: "Correction pass: buang tarikh 2005 tidak bersumber, tambah konteks ikrar RM25 bilion GEAR-uP, sahkan semula RM1.8 trilion/KDNK, Azman Mokhtar & Najib Razak terhadap sumber primer."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-28

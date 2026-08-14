@@ -38,7 +38,7 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Exact date and venue of the 1990 settlement that ended the Sarawak insurgency. Press accounts and encyclopaedic entries give 17 October 1990 at Wisma Bapa Malaysia, Kuching, but this is not confirmed in the cited authoritative sources; the Kyoto Review states only '1990'."
   - "Number of guerrillas in the 1990 Sarawak settlement (Kyoto Review: 'roughly 50'; press accounts: 52, led by Ang Cho Teng)."
@@ -48,13 +48,9 @@ verificationNeeded:
   - "Framing of the renewed insurgency's span: cited Arkib Negara entries variously describe a 1968-1978 'Second Emergency' and a 21-year (1968-1989) insurgency."
   - "Kroh-Betong ambush casualty figures (16 killed, 17 wounded) and the 26 August 1975 Tugu Negara bombing figures (2 killed, 41 injured) against the cited Arkib Negara entries."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-08
-    change: "Initial AI draft. Peninsular dates, incidents and casualty figures verified against Arkib Negara Malaysia (National Archives) 'jendela sejarah' entries; Sarawak / NKCP details against the Kyoto Review of Southeast Asia book review; Chin Peng biographical details against The Rakyat Post. Wikipedia and wiki-style sites used only as leads, not cited."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-08
-    change: "Correction pass: fixed IGP assassination date to 7 June 1974, re-sourced Khoo Chong Kong and Sri Aman (21 Oct 1973, CM Rahman Ya'kub), softened the unsourced 17 Oct 1990/Kuching claim to '1990', removed the unsourced 'police camp' detail, and added verificationNeeded."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-08

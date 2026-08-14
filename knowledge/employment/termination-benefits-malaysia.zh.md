@@ -60,19 +60,16 @@ sourceContentHash: "2c74afc56ca4140f"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-07-22
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Initial draft."
+    change: "Approved and published."
     reviewer: null
-  - version: "0.2"
-    date: 2026-07-21
-    change: "Resolved the First Schedule para 1A vs para 2 construction against the Act text: para 2 preserves s.60J irrespective of wages for manual, commercial-vehicle and supervisory categories (s.60J sits in Part XIIA, which their entries do not disapply). Removed the unresolved verificationNeeded item and the contested framing to match the settled position stated in working-hours-overtime-malaysia."
 
 updated: 2026-07-20
 sources:

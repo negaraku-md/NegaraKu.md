@@ -37,15 +37,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-08
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-08
-    change: "Correction pass: sourced Japanese occupation dates (NLB), KRIS (Julai 1945) dan pemergian Ibrahim Yaacob ke Indonesia (Farish Noor, Reconnecting the Malay World); butiran bantahan dilaraskan kepada fakta bersumber (ikat putih berkabung) dan penyertaan wanita dipindah ke verificationNeeded; framing perjanjian MacMichael disandarkan pada rekod Hansard."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

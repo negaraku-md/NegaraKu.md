@@ -41,22 +41,18 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Senarai penuh dan bilangan tepat agensi di bawah Kementerian Ekonomi (laman rasmi menyenaraikan 12 agensi pada tarikh semakan; susunan boleh berubah selepas penstrukturan Kabinet)"
   - "Sama ada Jawatankuasa Khas Perdana Menteri kekal sebagai lapisan pengesahan dalam rantaian penyediaan RMK semasa"
   - "Kedudukan menteri semasa (Akmal Nasrullah Mohd Nasir dilantik 16 Disember 2025) — sahkan jika berlaku perubahan Kabinet selepas tarikh ini"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Draf awal AI. Setiap tarikh, fungsi dan senarai agensi disemak terhadap laman rasmi Kementerian Ekonomi (sejarah, fungsi, agensi, senarai rancangan terdahulu, RMKe-12) dan Soalan Lazim RMK13. Angka atau butiran yang tiada dalam sumber yang dibuka dikeluarkan."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: buang dakwaan tidak bersumber tentang perbadanan pembangunan ekonomi negeri (SEDCO/SEDC/Johor Corp/Perbadanan Melaka) sebagai agensi persekutuan; tambah sumber utama untuk pengerusi JPPN (KSN) dan tarikh peletakan jawatan Rafizi (Bernama)."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

@@ -46,11 +46,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Draf awal. Setiap peruntukan yang dinyatakan — Perkara 38(3), 39, 40, 43, 43A, 43B, 43C, 46(1), 55, 61, 62(3) dan 159(3) — disahkan perkataan demi perkataan terhadap teks Bahasa Malaysia dalam cetakan semula rasmi Perlembagaan Persekutuan sebagaimana pada 15 Oktober 2020, diterbitkan oleh Pesuruhjaya Penyemak Undang-Undang di portal Jabatan Peguam Negara. Perkara yang tidak dapat disahkan diletakkan dalam verificationNeeded dan tidak diterbitkan."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

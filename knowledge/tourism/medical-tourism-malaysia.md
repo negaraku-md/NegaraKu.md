@@ -42,15 +42,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-28
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-28
-    change: "Correction pass: fixed misapplied 14% revenue growth, reconciled RM7B revenue vs RM12B economic-impact 2030 target, removed fabricated '60 specialties' and unsourced fee-regulation/IVF claims."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

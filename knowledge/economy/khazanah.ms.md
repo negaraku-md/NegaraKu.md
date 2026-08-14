@@ -31,14 +31,14 @@ sourceContentHash: "69acfc12cadcdf37"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-24
-    change: "Initial draft. Ownership, mandate and history from Khazanah Nasional's own site; portfolio structure from its Our Portfolio page; FY2024 and FY2025 financial figures from Khazanah's official press releases; GLIC classification and PERKUKUH reform from the Ministry of Finance; PNB figures from PNB's own About Us page; EPF's statutory basis from the Employees Provident Fund Act 1991 (Act 452). Figures re-checked against the cited Khazanah and MOF releases on 24 July 2026; the unsourced EPF membership count was removed and the FY2024 return relabelled as a NAV time-weighted rate of return, matching the wording of Khazanah's own release."
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 

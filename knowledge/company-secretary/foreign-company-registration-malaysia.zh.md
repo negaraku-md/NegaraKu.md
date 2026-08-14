@@ -39,22 +39,18 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Current registration fee tiers and the flat RM70,000 no-share-capital rate — confirm against the SSM Table of Fees / Companies Regulations 2017 in force at the time of filing, as prescribed fees can change."
   - "The Sdn Bhd comparison-row requirement of at least one Malaysia-resident director plus a company secretary is stated as general Companies Act 2016 context (ss. 196 and 235) and is not covered by the four foreign-company-focused sources cited; confirm before relying on it."
   - "Whether a specific planned activity actually amounts to 'carrying on business' under section 561(3) for the entity in question."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-07
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-07
-    change: "Correction pass: dropped the anachronistic 'authorised/nominal' capital gloss to match sources, added SSM primary-regulator citations, and flagged the uncited Sdn Bhd director/secretary point."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-07

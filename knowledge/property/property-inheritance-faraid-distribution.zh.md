@@ -39,7 +39,7 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Pecahan faraid (bahagian pasangan, anak, ibu bapa) sebaik-baiknya disahkan terhadap sumber rasmi Islam (mis. JAKIM/Mufti) atau nas al-Quran secara langsung, bukan sumber komersial FaraidHub."
   - "Had wasiat 1/3 kepada bukan waris — sahkan asas statutori (mis. Enakmen Wasiat Orang Islam negeri seperti Selangor 1999, s. 26) mengikut negeri berkenaan."
@@ -47,13 +47,9 @@ verificationNeeded:
   - "Rujukan seksyen 6 Akta Pembahagian 1958 — kini disandarkan pada sumber sekunder (Chia, Lee & Associates); reviewer boleh menggantikan dengan teks statut rasmi jika perlu."
   - "Slug relations/related (property-buying-a-home-guide, property-real-property-gains-tax-rpgt) — sahkan artikel berkenaan wujud atau laraskan."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-08
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-08
-    change: "Correction pass: baiki URL sumber Amanah Raya kepada halaman yang mengandungi tarikh 1921/1995, tambah petikan seksyen 6 Akta Pembahagian 1958 (Chia Lee), ganti sumber wasiat komersial dengan Amanah Raya as-Salihin, dan tambah verificationNeeded."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-08

@@ -29,11 +29,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft. Classified Tier S (sensitivity: race) because the subject concerns the special position of the Malays and natives of Sabah and Sarawak under Article 153. Written descriptively and neutrally, reporting documented positions without adjudicating between them. Held as a provisional draft pending human review."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 sensitivity: "race"

@@ -36,10 +36,10 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "The actual month of the Sembahyang Dato Chachar festival shifts with the Tamil calendar; the cited source (The Star, 2012) records the festival around late April in that year — verify the date for the current year."
   - "The exact legal basis for the June 2000 heritage-zone protection of Kampung Chetti is not stated by any cited source (this protection predates the National Heritage Act 2005)."
@@ -47,13 +47,9 @@ verificationNeeded:
   - "The creole vocabulary examples (nenek/thatha) are illustrative and have not been verified against the cited linguistic studies (Grimes 1996, Noriah Mohamed 2009)."
   - "The number of families varies between sources: fewer than 50 families (Roots) versus 20–30 families (Free Malaysia Today)."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Draf AI awal. Fakta budaya, sejarah dan angka populasi disemak terhadap kisah warisan Lembaga Warisan Negara Singapura (roots.gov.sg) dan laporan akhbar Free Malaysia Today. Tarikh asal-usul yang dipertikaikan dinyatakan secara kualitatif."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: buang sumber Wikipedia/homepage & PHT nipis, betulkan nama perayaan (Sembahyang Dato Chachar, bukan 'Amman Thirunal'), tukar bulan tak bersumber 'Mei' kepada April berdasarkan The Star, decouple perlindungan Jun 2000 daripada Akta 2005, dan selaraskan angka keluarga yang bercanggah."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

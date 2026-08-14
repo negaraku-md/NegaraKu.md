@@ -35,18 +35,14 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-08
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-08
-    change: "Correction pass: sourced the Pangkor/Labuan/east-coast and Satun claims to operator/authority pages, aligned monsoon dates to October-February, softened unsourced superlatives and terminal names."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

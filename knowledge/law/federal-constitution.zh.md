@@ -29,7 +29,7 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 sensitivity: "constitution"
 
 updated: 2026-07-10

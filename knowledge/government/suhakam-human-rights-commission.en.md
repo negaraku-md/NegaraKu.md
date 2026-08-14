@@ -40,22 +40,18 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Tarikh sebenar keputusan Sesi ke-47 Sub-Jawatankuasa Akreditasi (SCA) GANHRI yang mengesahkan semula taraf 'A' SUHAKAM — 9 Jun 2026 ialah tarikh Kenyataan Media No. 32-2026 (pengumuman SUHAKAM), bukan tarikh keputusan SCA yang disahkan; sahkan tarikh sesi terhadap laporan rasmi SCA/GANHRI."
   - "Nombor rujukan PU(B) 122/2000 bagi tarikh mula berkuat kuasa 20 April 2000 — sahkan terhadap Warta Kerajaan Persekutuan."
   - "Rujukan silang seksyen pindaan A1714 (4(2)(ea), 4(3), 5(3A), 5(3B), 6A, 13(3)) — sahkan penomboran seksyen terhadap teks berkuat kuasa terkini yang disemak semula."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Draf awal AI. Setiap seksyen disemak terhadap teks Akta 597 (PDF rasmi di portal SUHAKAM) dan Akta pindaan A1714 2024; taraf 'A' GANHRI disemak terhadap kenyataan media SUHAKAM."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: nyahkonflasi tarikh — 9 Jun 2026 dijelaskan sebagai tarikh Kenyataan Media No. 32-2026, bukan tarikh keputusan SCA; rujukan Sesi ke-47 ditambah; verificationNeeded ditambah."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

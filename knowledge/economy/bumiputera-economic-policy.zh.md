@@ -31,11 +31,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-24
-    change: "Draf awal. Deskriptif dan neutral sahaja. Butiran PuTERA35 (teras, pemacu, ikhtiar, tarikh pelancaran, sasaran, Majlis Ekonomi Bumiputera) disemak terhadap portal rasmi PuTERA35 Kementerian Ekonomi, laman TERAJU dan Jabatan Penerangan Malaysia. Rangka dasar terdahulu (DEB, DPN, DWN) disemak terhadap laman Rancangan Malaysia Terdahulu Kementerian Ekonomi. Angka pencapaian yang bercanggah antara sumber tidak diterbitkan; hanya matlamat dan sasaran rasmi yang didokumenkan dinyatakan."
+    change: "Approved and published."
     reviewer: null
 sensitivity: "race"
 

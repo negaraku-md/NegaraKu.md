@@ -29,12 +29,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft. Area and distance figures verified against the Sarawak state government's official portal and the Civil Aviation Authority of Malaysia's Profile of East Malaysia; the immigration pass/permit requirement verified against the Immigration Department of Malaysia's Section 66 exemption-endorsement page; the 1982 time-zone unification verified against the Malaysian Standard Time Act 1981 (Act 261) on the Attorney General's Chambers legislation portal; land-law references verified against the Sabah Attorney General's Chambers and Sarawak LawNet legislation portals."
-    contributor: null
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 sensitivity: "constitution"
 

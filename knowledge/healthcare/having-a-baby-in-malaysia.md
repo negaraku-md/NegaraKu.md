@@ -30,12 +30,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-24
-    change: "Initial draft. Pregnancy registration timing, Pink Book issuance and antenatal check-up content confirmed via the official Malaysia.gov.my government portal's maternal and women's health page; the 60-day free birth registration window confirmed via the National Registration Department's (JPN) own official channel and cross-referenced with the sibling article on registering a birth; no antenatal visit counts, hospital admission costs or maternity package prices are quoted, since none could be confirmed at a single official source at time of writing."
-    contributor: null
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

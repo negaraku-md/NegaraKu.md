@@ -41,18 +41,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-08
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-08
-    change: "Correction pass: added the official Companies Act 2016 (Act 777) as the primary source for the s.263 and Accountants Act 1967 statutory references, neutralised editorial phrasing, and replaced the 'trillions of ringgit' overstatement with the precise RM2.4 trillion figure."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

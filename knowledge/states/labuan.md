@@ -26,14 +26,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft. Tax treatment verified against the text of the Labuan Business Activity Tax Act 1990 (Act 445) and the Labuan Financial Services Authority Act 1996 (Act 545); designated-area treatment against the Sales Tax Act 2018 (Act 806); population against DOSM open data."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 

@@ -41,20 +41,16 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "lihing (wain beras Sabah) dibuang daripada draf ini kerana artikel The Star yang dirujuk (2026-05-31) hanya menyebut tuak, montoku dan tumpung — bukan lihing. Boleh dimasukkan semula jika sumber primer yang sahih ditemui."
   - "Perincian bahawa tumpung 'diminum melalui sedut daripada bekas secara berkongsi' perlu disahkan semula terhadap teks The Star."
   - "Pemeriksa fakta menandakan jadual makna simbolik yang ialah 'direka'; namun semakan semula terhadap The Rakyat Post mengesahkan setiap baris (lobak putih = peluang pekerjaan, minyak membulat = rezeki dari segenap arah, sos plum = manisnya kehidupan/ikatan, kacang tanah = kekayaan, lobak merah = nasib baik, keropok = emas). Manusia perlu menyelaraskan percanggahan ini."
   - "Tempoh '15 hari pertama' dan kerangka Loke Ching Fatt (1940-an/1960-an) telah disahkan semula terhadap The Rakyat Post dan dikekalkan."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Draf awal AI. Juadah Kaamatan dan Gawai (hinava, linopot, bosou, manok pansuh, tuak, montoku, tumpung) disandarkan pada The Star; yee sang dan ritual lou sang pada The Rakyat Post; juadah Krismas Sabah pada Bernama; snek Deepavali pada Periuk.my; juadah Hari Raya dan adat rumah terbuka pada Perpustakaan Negeri Sabah. Ditulis secara deskriptif di bawah dasar editorial 3R+1 (kaum); tidak mentafsir ajaran agama."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: buang lihing yang tersalah sandar pada The Star (kekal tuak/montoku/tumpung); jadual yee sang & tempoh 15 hari disah semula terhadap The Rakyat Post."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

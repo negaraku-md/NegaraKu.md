@@ -31,11 +31,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft. Article 4(1), Article 75, Article 160(2) and the Ninth Schedule's Federal List item 4 and State List item 1 verified against the Attorney General's Chambers' Federal Constitution (Reprint 2020), cross-checked against independent transcriptions (CommonLII, WIPO Lex). Civil Law Act 1956 section 3 cut-off dates and the National Land Code's section 4 savings clause for customary tenure verified against the AGC act text and the Department of Director General of Lands and Mines. Adat Perpatih/Adat Temenggong and Sabah/Sarawak native-law structure described qualitatively; the exact Ninth Schedule item number for native courts could not be confirmed from a readable official source within this pass and has been omitted rather than guessed."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

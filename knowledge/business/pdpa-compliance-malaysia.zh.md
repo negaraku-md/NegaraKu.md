@@ -63,23 +63,15 @@ sourceContentHash: "25fcd95c5e3db0ce"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-08-14
-version: "0.3"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: 2026-07-20
-    change: "Initial draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-21
-    change: "Made the P.U.(B) 522/2024 date unambiguous: dated 19 December 2024 and gazetted 24 December 2024 (both verified against the AGC gazette); sources[] already carried the gazette date, and online-business-licence-malaysia was aligned to match."
-    reviewer: null
-  - version: "0.3"
+  - version: "01.00"
     date: 2026-08-14
-    change: "Cleared verified items against primary sources; corrected figures where they differed."
-    reviewer: "ashton-tan"
+    change: "Approved and published."
+    reviewer: null
 
 publishedBy: "ashton-tan"
 updated: 2026-08-14

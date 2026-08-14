@@ -38,15 +38,15 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2026-10-24
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-24
-    change: "Initial draft. Every section cited was checked word-for-word against the Act 701 reprint text (as at 1 November 2020, incorporating Act A1616); governance, committee, OPR and Governor details from BNM's own pages; boundary facts from the Securities Commission and PIDM."
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 

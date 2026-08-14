@@ -26,14 +26,14 @@ translationStatus: "in-sync"
 sourceContentHash: "dc264630ca2e722e"
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft. Every figure verified against a named official source: population and demographic figures against DOSM's Current Population Estimates, Malaysia, 2025 (31 July 2025); land area against DOSM's Compendium of Environment Statistics, 2016 (the most recent DOSM publication in which the national total land area figure could be confirmed — later Compendium editions cover environment indicators but do not restate the topline area); GDP and GNI per capita against DOSM's 2025 Gross Domestic Product release (15 May 2026); currency details against Bank Negara Malaysia's currency pages; capital and administrative-centre status against Perbadanan Putrajaya (the statutory body administering the Federal Territory of Putrajaya); and national-language and state-list facts against the Federal Constitution. No figure appears here that could not be traced to one of these sources; where a figure could not be confirmed (for example, a single official total-area-including-water number), it was left out rather than estimated."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

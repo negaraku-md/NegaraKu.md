@@ -37,22 +37,18 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Tafsiran simbolik Intrudu sebagai 'penyucian dosa' — amalan menyimbah air dan masanya (Ahad sebelum Rabu Abu) disahkan oleh The Star, tetapi makna penyucian/pembasuhan dosa hanya muncul dalam sumber blog/media sosial, bukan sumber utama yang berwibawa; perlu disahkan atau digugurkan."
   - "Kronologi pembinaan Perkampungan Portugis (kira-kira 28 ekar; 10 rumah menjelang awal 1930-an berkembang kepada kira-kira 60) bersumberkan ExpatGo (sekunder) — wajar disahkan silang dengan rekod kolonial/arkib."
   - "Anggaran 'kurang daripada 100 penutur fasih di Singapura' dan pengelasan 'terancam kritikal' — sahkan tahun rujukan dan takrif yang digunakan penyelidik."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Draf awal AI. Fakta sejarah, bahasa dan budaya disemak terhadap Malaysiakini, Free Malaysia Today, PUSAKA, ExpatGo dan kertas Kodrah Kristang (Wong 2019). Angka penutur dan status UNESCO dinyatakan secara berhati-hati mengikut sumber yang dibuka."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: melembutkan dakwaan 'penyucian' Intrudu, menambah sumber The Star untuk pesta air, dan menambah senarai verificationNeeded."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

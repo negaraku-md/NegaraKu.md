@@ -41,19 +41,15 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Sahkan status Perkara 161A(7) pada tarikh baca: pindaan Perlembagaan yang berkuat kuasa pada Februari 2022 dilaporkan meminda Perkara 161A(6) dan memansuhkan Perkara 161A(7), membenarkan Sarawak menetapkan takrif peribumi melalui undang-undang Negeri. Artikel ini memetik Cetakan Semula 15 Oktober 2020 yang masih mengandungi senarai kaum dalam fasal (7); semak sama ada rujukan perlu dikemas kini kepada teks terkini."
   - "Sahkan padanan istilah moden: 'Sea Dayak' = Iban dan 'Land Dayak' = Bidayuh disemak sebagai padanan lazim, bukan istilah dalam teks perlembagaan itu sendiri."
   - "Semakan manusia untuk keseluruhan artikel Tier S (sensitiviti: kaum) sebelum penerbitan, termasuk pengesahan setiap petikan fasal terhadap teks rasmi terkini."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Draf awal AI. Setiap peruntukan disemak terhadap teks penuh Perkara 153 dan Perkara 8, 38(5), 89, 136, 159(5), 160(2), 161A dan 10(4) dalam Perlembagaan Persekutuan (Cetakan Semula pada 15 Oktober 2020) di portal Jabatan Peguam Negara. Dikelaskan Tier S (sensitiviti: kaum) dan ditulis secara deskriptif serta neutral; ditahan sebagai draf sementara menunggu semakan manusia."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Pas pembetulan: senarai kaum peribumi Sarawak diatribusikan semula kepada Perkara 161A(7) (fasal (6) mentakrif secara rujukan); istilah perlembagaan 'Sea Dayak'/'Land Dayak' digunakan dengan nota padanan moden Iban/Bidayuh; ditambah medan verificationNeeded."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

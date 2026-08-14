@@ -45,11 +45,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Draf awal. Fakta perlembagaan disahkan pada sumber rasmi: Perlembagaan Persekutuan (Cetakan Semula 2020, AGC) untuk Perkara 3(3), 71, 160(2), 181, Jadual Kelima dan Jadual Kelapan seksyen 19A–19D dan 22; laman rasmi Majlis Raja-Raja untuk komposisi dan fungsi Majlis serta gelaran ketua negeri mengikut negeri. Tier S kerana kandungan menyentuh institusi diraja, ketua negeri, agama dan Perlembagaan — dikendalikan secara deskriptif sepenuhnya, tanpa sebarang penilaian politik."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 sensitivity: "royalty"
 

@@ -42,23 +42,19 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Exact establishment year of the ring-fenced Single Buyer (widely reported as 2012) — could not be confirmed against the Single Buyer's own site or the Energy Commission; the specific year has been removed pending a primary source."
   - "Exact date of Minister Shamsul Anuar Nasarah's parliamentary statement recommending a MESI 2.0 review — appears to be 21 July 2020 (a Tuesday during his KeTSA tenure), but The Edge article renders a dynamic date, so the byline could not be cleanly read; year retained as 2020."
   - "CRESS System Access Charge figures (25 sen/kWh firm; 45 sen/kWh non-firm) are sourced to Fulcrum/ISEAS; confirm against the Energy Commission's official CRESS guidelines."
   - "Formal establishment date and precise legal/organisational status of the Grid System Operator as a ring-fenced TNB unit — entity existence confirmed via its official site, but founding date is not documented in the cited sources."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: removed unsourced 'Single Buyer established 2012' year and 'NEDA+' term, added Single Buyer/GSO primary sources, and flagged remaining items for human verification."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

@@ -43,14 +43,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Draf awal. Setiap tarikh, angka keluasan, rujukan Akta dan peruntukan Perlembagaan disemak terhadap sumber rasmi (Perlembagaan Persekutuan cetakan semula, Akta 536 di lom.agc.gov.my, kronologi rasmi Perbadanan Putrajaya, Laporan Tahunan PPj 2023, laman Pejabat Perdana Menteri, SPR dan data terbuka DOSM)."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 

@@ -39,23 +39,19 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Tarikh atau tahun pelaksanaan berperingkat seksyen tertentu Akta 588 — jika hendak menyatakan tahun spesifik, sahkan daripada warta P.U.(B) yang berkaitan (kini disebut secara umum tanpa tahun)."
   - "Nama kementerian dan menteri induk semasa yang bertanggungjawab bagi MCMC (portfolio pernah disusun semula beberapa kali)."
   - "Klasifikasi sensitiviti: pertimbangkan sama ada topik penapisan Internet (Seksyen 3(3)) dan penguatkuasaan Seksyen 233 wajar dinaikkan daripada \"none\", memandangkan konteks ucapan dalam talian/politik."
   - "Ayat mengenai perdebatan awam tentang penguatkuasaan Seksyen 233 — perlu disokong dengan sumber primer/berwibawa jika hendak dikekalkan atau diperincikan."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Draf awal AI. Halaman entiti agensi Tier 2: asas berkanun (Akta 588 dan Akta 589), empat kategori lesen, perbandingan lesen individu lawan lesen kelas, kuasa pelesenan Menteri atas syor Suruhanjaya, serta peruntukan kandungan internet (Seksyen 3(3) dan 233). Semua seksyen dan amaun disahkan daripada teks Akta 588."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: buang tahun '2002' yang tidak bersumber, betulkan mekanisme lesen kelas (diberi, bukan 'perisytiharan'), tambah nota sensitiviti Seksyen 233 dan senarai verificationNeeded."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

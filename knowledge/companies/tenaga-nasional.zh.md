@@ -35,18 +35,14 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-28
-    change: "Draf awal AI."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-28
-    change: "Correction pass: sahkan tarikh penswastaan 4 Mei 1988 pada sumber Sejarah TNB dan betulkan label penerbit Kod Grid kepada GSO sahaja."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

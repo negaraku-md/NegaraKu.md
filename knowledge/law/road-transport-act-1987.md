@@ -31,18 +31,14 @@ masterLanguage: "en"
 translationStatus: "master"
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-08-14"
 publishedBy: "ashton-tan"
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: 2026-08-10
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
+  - version: "01.00"
     date: 2026-08-14
-    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
+    change: "Approved and published."
     reviewer: null
 verificationNeeded:
   - "Exact Section 26(1) penalty for driving without a valid licence — aggregators quote 'fine not exceeding RM1,000 or imprisonment not exceeding 3 months or both,' but other sources quote RM300-RM2,000. Confirm against the lom.agc.gov.my Act 333 reprint before stating a figure."

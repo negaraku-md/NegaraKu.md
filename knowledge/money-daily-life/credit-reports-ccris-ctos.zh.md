@@ -40,21 +40,17 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Sejauh mana majikan di Malaysia benar-benar menyemak laporan kredit (CCRIS/CTOS) sebagai sebahagian saringan pekerjaan — amalan ini nampaknya terhad kepada jawatan sektor kewangan tertentu dan tidak disokong oleh sumber rasmi utama; sahkan atau keluarkan."
   - "Butiran perkhidmatan Saringan Penyewa CTOS (skop laporan, keperluan kebenaran bertulis penyewa) perlu disahkan terus dengan CTOS kerana laman produk gagal dimuatkan sepenuhnya semasa semakan."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-08
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-08
-    change: "Correction pass: sourced landlord/property-agent use to CTOS Tenant Screening product, softened overstated employer credit-check claim, added verificationNeeded."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-08

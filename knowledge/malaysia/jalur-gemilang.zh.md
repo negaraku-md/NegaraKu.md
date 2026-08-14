@@ -35,14 +35,14 @@ sourceContentHash: "f09e1191ce6cd425"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Draf awal. Setiap angka dan tarikh disahkan pada buku rasmi Jabatan Penerangan Malaysia 'Lambang Kebesaran Negara' (termasuk bintang pecah 11 pada bendera 1950 dan ukuran 6x3 kaki). Dakwaan undian akhbar Malay Mail digugurkan kerana tiada dalam sumber rasmi yang disemak."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

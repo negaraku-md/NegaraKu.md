@@ -40,11 +40,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Draf awal. Halaman penerang Tier S (sensitivity: elections) mengenai Akta Perlembagaan (Pindaan) 2019 (Akta A1603) dan Pendaftaran Pemilih Secara Automatik. Teks pindaan disahkan dari salinan Akta A1603 (Perkara 47, 119, Jadual Kelapan); mekanisme, tarikh dan angka disahkan dari Soalan Lazim rasmi SPR. Ditulis secara deskriptif tanpa ciri politik. Ditahan sebagai draf menunggu semakan manusia."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

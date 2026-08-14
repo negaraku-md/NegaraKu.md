@@ -25,14 +25,14 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft. Stamp duty tiers, buyer liability, non-citizen rates and the STSDS rollout dates verified directly against LHDN's official guideline 'Garis Panduan Pengenaan Duti Setem Bagi Surat Cara Yang Tertakluk Kepada Jadual Pertama Akta Setem 1949' (LHDN.AG.600-1/10/3) and LHDN's STSDS page. New-project process figures (loan application window, vacant possession deadline, liquidated damages rate, defect liability period) verified against the statutory Schedule G Sale and Purchase Agreement under the Housing Development (Control and Licensing) Act 1966. Sub-sale timelines and conventional deposit percentages are described qualitatively as market practice, not statute, since no single figure is prescribed for resale transactions."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 

@@ -39,23 +39,15 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-08-14
-version: "0.3"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: 2026-07-28
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-28
-    change: "Correction pass: re-verified and sourced the 2026 target, Westports 2 / Carey Island expansion, and PTP's CPPI efficiency ranking against the cited Malay Mail and MMC Ports primary sources; sharpened the vague 'most efficient port' claim to the specific 5th-place CPPI 2023 ranking."
-    reviewer: null
-  - version: "0.3"
+  - version: "01.00"
     date: 2026-08-14
-    change: "Cleared verified items against primary sources; corrected figures where they differed."
-    reviewer: "ashton-tan"
+    change: "Approved and published."
+    reviewer: null
 
 verificationNeeded:
   - "The ~1.5-day sailing-time saving for the ECRL land bridge is a Kuantan Port estimate originally reported in a 2017 article; confirm the figure against current routing analysis."

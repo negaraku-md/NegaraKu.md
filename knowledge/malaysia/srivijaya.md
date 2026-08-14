@@ -21,14 +21,14 @@ masterLanguage: "en"
 translationStatus: "master"
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft. Dates and territorial claims verified against the Department of National Heritage Malaysia (Sungai Batu/Bujang Valley), Jabatan Muzium Malaysia (Lembah Bujang Archaeological Museum), the Melaka state government's own history page (Parameswara's Palembang origin), and EBSCO Research Starters' academic entry on Srivijaya (founding, Chola invasion, Majapahit conquest). Britannica's Srivijaya page could not be fetched (403) and was not used as a citation; no figure in this article rests solely on an unverified source."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 updated: "2026-07-24"

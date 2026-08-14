@@ -39,14 +39,14 @@ translationStatus: "in-sync"
 sourceContentHash: "b789637e8d08ef93"
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Draf awal. Diklasifikasikan sebagai Tier S (sensitiviti: agama) kerana subjek tulisan Jawi berkait rapat dengan Islam dan pernah menjadi isu dasar pendidikan. Ditulis secara deskriptif dan neutral, dipegang sebagai draf sementara menunggu semakan manusia."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

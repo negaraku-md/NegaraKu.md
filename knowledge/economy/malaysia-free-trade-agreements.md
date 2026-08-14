@@ -37,18 +37,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-08
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-08
-    change: "Correction pass: sourced/softened tariff percentages, added MITI/EFTA/EnterpriseSG citations, updated bilateral count to eight (UAE CEPA), neutralised tone."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

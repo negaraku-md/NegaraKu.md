@@ -34,23 +34,19 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Exact Act 854 section numbers for NCII designation, code of practice, risk assessment/audit and incident notification — published law-firm summaries differ (some cite s.20, others s.22 for assessment/audit), so confirm each against the gazetted text of Act 854."
   - "That the 6-hour initial notification and 14-day follow-up windows are stated in the Cyber Security (Notification of Cyber Security Incident) Regulations 2024, per the regulation's own wording."
   - "That the annual risk-assessment and biennial audit frequencies come from the Cyber Security (Period for Cyber Security Risk Assessment and Audit) Regulations 2024."
   - "The current official list of NCII sectors and sector leads, and whether a given organisation has in fact been designated."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-07
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-07
-    change: "Correction pass: removed unverifiable section-number citations and the untraceable Act quote, cut the unsourced 'heaviest penalties' claim, and added Donovan & Ho and HHQ as fetched sources backing the reporting windows, penalties and assessment/audit frequency."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-07

@@ -46,18 +46,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Initial draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-21
-    change: "Removed the unsupported 'RM2 billion' ceiling from the SSM-proposal Common mistakes bullet; the body establishes only that the SSM tiers begin at RM15 million revenue or 100 employees."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-20

@@ -35,14 +35,14 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft. Inscription years and criteria follow the individual property records and the States Parties page at the UNESCO World Heritage Centre. Property areas, the boundary-modification year and the Perak Man dating were removed pending direct confirmation against those records."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

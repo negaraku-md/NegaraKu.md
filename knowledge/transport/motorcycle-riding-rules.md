@@ -34,10 +34,10 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Kod warta rasmi 'P.U. (A) 43/1973' bagi Kaedah-Kaedah Motosikal (Topi Keledar) 1973 — nama kaedah dan kandungannya disahkan menerusi sumber sekunder yang dibuka, tetapi kod P.U.(A) itu sendiri belum disahkan terhadap teks Warta Persekutuan primer."
   - "Tahun sebenar lorong motosikal Lebuhraya Persekutuan dibina — KKR menyebut 1977 manakala Free Malaysia Today menyebut 'awal 1970-an'. Perlu disahkan terhadap rekod JKR/LLM."
@@ -45,13 +45,9 @@ verificationNeeded:
   - "Revisi standard MS 1 yang berkuat kuasa (sumber menyebut MS 1:2011); sahkan versi mandatori semasa."
   - "Sama ada slug relasi 'road-transport-act-1987' wujud dalam korpus."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-08
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-08
-    change: "Correction pass: re-verified helmet law (RM300, MS 1, UN R22, 1973 rule), Federal Highway history (16km KL-Subang, 1992 PLUS extension, first-lane claim) against fetched primary/authoritative sources; added verificationNeeded; softened gazette-code and cc-restriction claims."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-08

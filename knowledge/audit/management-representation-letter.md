@@ -34,22 +34,18 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Sahkan bahawa versi ISA 580 yang dirujuk (IAASB Handbook 2012) masih sepadan dengan versi ISA 580 yang berkuat kuasa terkini di Malaysia, termasuk penomboran perenggan 4, 7, 9, 10, 11, 13, 14, 15, 17, 20, A2, A5, A6."
   - "Sahkan rujukan Akta Syarikat 2016: subseksyen 248(1) (tempoh 6 bulan / 18 bulan), seksyen 245 (khususnya subseksyen 245(1) untuk rekod perakaunan) dan seksyen 252 (dua pengarah) terhadap teks Akta yang berkuat kuasa, bukan hanya risalah SSM."
   - "Sahkan status semasa penerimaan ISA tanpa pengubahsuaian oleh AASB/MIA (rujukan profil IFAC Malaysia) dan sama ada Audit Oversight Board (AOB) turut relevan untuk entiti kepentingan awam."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-08
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-08
-    change: "Correction pass: added authoritative IFAC/MIA source for Malaysian ISA adoption, tightened s245 to s245(1), added verificationNeeded."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-08

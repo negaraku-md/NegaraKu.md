@@ -25,19 +25,15 @@ sourceContentHash: "2025c24e85b0e3a8"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-07-22
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-10
-    change: "Initial draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-21
-    change: "Clarified the keyTakeaway that authorised capital and par value were abolished under the Companies Act 2016, in force from 31 January 2017 (previously 'in 2016'), to stay consistent with the companies-act-2016 commencement date."
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 

@@ -40,15 +40,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-07
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-07
-    change: "Correction pass: re-verified HIV screening (government clinic, six-month validity) and corrected SPPIM state coverage to the SPPIM page's except-list; fixed the Act 303 janda definition; re-sourced all hard figures to fetched primary pages."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

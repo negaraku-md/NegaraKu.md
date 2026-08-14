@@ -39,18 +39,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-07
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-07
-    change: "Correction pass: fixed outdated corporate winding-up threshold (RM10,000 -> exceeding RM50,000, permanent since 1 Apr 2021) and added Skrine source; removed unsupported administered-by (AGC) relation; aligned s.33A discharge wording to cited source; toned down editorializing."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

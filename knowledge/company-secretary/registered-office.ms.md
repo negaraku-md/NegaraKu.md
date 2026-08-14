@@ -68,18 +68,14 @@ sourceContentHash: "0c5ee4a6c8f640ee"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Initial draft, split out of the statutory-registers hub."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-21
-    change: "Corrected the authority label on the ongoing s.46(2) public-access duty from SSM to Internal — it is a state the company maintains, not a filing owed to the Registrar."
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 

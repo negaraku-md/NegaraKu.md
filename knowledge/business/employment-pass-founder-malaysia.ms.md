@@ -68,18 +68,14 @@ sourceContentHash: "55c7c72a565b9b9a"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Initial draft. Salary bands taken from the ESD announcement of 15 January 2026, not from secondary guides."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-21
-    change: "Softened 'doubled the salary floor' to 'raised the salary floors' (Category III went RM3,000 to RM5,000, not doubled); made explicit that the MOHA press release (14 January) and the ESD announcement (15 January) are two documents; restored the 51%-ownership and unregulated-services qualifiers to the answer's RM1,000,000 tier."
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 

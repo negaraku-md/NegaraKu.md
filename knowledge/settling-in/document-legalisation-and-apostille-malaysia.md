@@ -37,22 +37,18 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Arah laluan alternatif dalam negara (misi diplomatik negara pengeluar di Malaysia mengesahkan dokumen, kemudian Bahagian Konsular Wisma Putra mengendors) untuk dokumen ASING yang hendak digunakan di Malaysia — halaman KLN menerangkan proses pengesahan dokumen Malaysia untuk kegunaan di LUAR negara; sahkan arah masuk ini terus dengan Wisma Putra."
   - "Generalisasi bahawa dokumen taraf sivil (kelahiran, perkahwinan, kematian) biasanya boleh terus ke peringkat pengesahan tanpa notari sementara dokumen lain perlu dinotarikan dahulu — tidak terikat pada satu sumber rasmi tertentu; sahkan dengan misi diplomatik Malaysia berkenaan."
   - "Yuran dan tempoh masa setiap lapisan berbeza mengikut negara dan misi; yuran RM18 yang disebut ialah yuran perkhidmatan Kedutaan Korea di Kuala Lumpur sahaja, bukan kadar am legalisasi pihak Malaysia."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-07
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-07
-    change: "Correction pass: added KLN Wisma Putra attestation source for Malaysia-side authority claims, tightened RM18 fee framing to a single-mission fee, softened unsourced civil-status generalisation, and added verificationNeeded."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-07

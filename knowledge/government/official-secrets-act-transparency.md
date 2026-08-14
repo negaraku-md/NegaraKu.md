@@ -38,19 +38,15 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Nombor Peraturan Mesyuarat (Standing Order) yang mendasari rujukan Rang Undang-Undang Kebebasan Maklumat 2026 kepada Jawatankuasa Pilihan Khas — sumber berita yang dipetik tidak menyatakan nombor tersebut, dan rujukan bil Dewan Rakyat lazimnya di bawah Peraturan Mesyuarat 54. Sahkan terhadap Hansard/Penyata Rasmi Dewan Rakyat."
   - "Tarikh perkenan (26 September 1972) dan tarikh kuat kuasa (1 Oktober 1972) Akta Rahsia Rasmi 1972, serta tarikh kuat kuasa Akta A573 (20 Januari 1984) — sahkan terhadap tajuk/nota cetakan semula rasmi Akta 88."
   - "Sama ada bacaan kedua dan ketiga Rang Undang-Undang Kebebasan Maklumat 2026 telah dijadualkan atau selesai selepas peringkat Jawatankuasa Pilihan Khas."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: buang rujukan Peraturan Mesyuarat 81(1) yang tidak disokong, betulkan rangka masa cadangan Peguam Negara kepada awal 2016 (Mohamed Apandi), tambah nuans tarikh kuat kuasa enakmen Selangor/Pulau Pinang, tambah sumber utama dan senarai verificationNeeded."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

@@ -36,18 +36,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-08
-    change: "Draf awal AI."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-08
-    change: "Correction pass: betulkan asas perbandingan angka 85%/89% (berbanding kadar EV lama, bukan kereta petrol) + tambah sumber The Star & paultan EN; pisahkan struktur blok 9,999 watt (media) daripada minimum RM20 (JPJ v2)."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-08

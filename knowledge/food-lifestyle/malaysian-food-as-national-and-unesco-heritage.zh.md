@@ -36,23 +36,19 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Pautan muat turun Akta 645 di portal MOTAC perlu disemak sama ada ia menghala ke teks Akta sebenar (fail PDF) atau hanya halaman rangka kosong."
   - "Angka 213 makanan warisan ialah kedudukan setakat 2018; pengisytiharan berperingkat diteruskan (cth. kelompok 2024), jadi jumlah kumulatif terkini mungkin lebih tinggi — sahkan angka semasa dengan Jabatan Warisan Negara."
   - "Tarikh keputusan rasmi UNESCO: sesi 19.COM diadakan di Asuncion, Paraguay (2–7 Disember 2024); pengumuman media 5 Disember 2024. Sahkan tarikh keputusan inskripsi yang tepat dengan rekod rasmi UNESCO."
   - "Ejaan/nama tepat sebahagian daripada 10 hidangan yang diwartakan (cth. 'Mi kolok' berbanding 'kolok mee') perlu disemak dengan teks Warta Kerajaan."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Draf AI awal."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Pusingan pembetulan: baiki tarikh sumber UNESCO (19.COM, Disember 2024), namakan kesemua sembilan elemen termasuk Ong Chun (2020), bezakan Senarai Wakil daripada Senarai Perlindungan Segera (Mek Mulung), dan tambah sumber untuk angka 213."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

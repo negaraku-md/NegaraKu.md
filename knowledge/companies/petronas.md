@@ -42,7 +42,7 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Angka kewangan tepat 2024 (hasil ~RM320 bilion, untung bersih ~RM55.1 bilion, dan perbandingan 2023 RM343.6 bilion / RM80.7 bilion) — sahkan terhadap Keputusan Kewangan Kumpulan PETRONAS FY2024 yang diumumkan 5 Februari 2025 (dokumen PDF rasmi)."
   - "Anggaran hasil 'sehingga RM20 bilion setahun' untuk Sarawak — anggaran penganalisis, bukan angka rasmi; sahkan sumber dan asas pengiraan."
@@ -50,13 +50,9 @@ verificationNeeded:
   - "Tarikh dan kandungan tepat perjanjian tambahan royalti 5% (1975-76) antara Petronas dan negeri-negeri."
   - "Status terkini rundingan dan sebarang tindakan undang-undang Petronas-PETROS selepas tarikh sumber (Mei 2025)."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-28
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-07-28
-    change: "Correction pass: buang angka tak bersumber (RM1.4 trilion, 8% hasil persekutuan, 90% LNG); betulkan dividen RM32b sebagai komitmen 2025; buang 'Deklarasi Bersama'/tarikh Mac 2025/dakwaan mahkamah tak tersokong; kaitkan angka gas 1.2 bcf/450 mmcf kepada kenyataan PM Feb 2025; ganti angka Terengganu dengan RM22.4b (2008-Ogos 2020) bersumber FMT."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-28

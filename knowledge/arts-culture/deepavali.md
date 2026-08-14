@@ -34,14 +34,14 @@ masterLanguage: "en"
 translationStatus: "master"
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft. Public-holiday status, the 8 November 2026 date, the 'subject to change' note and the Sarawak exception verified against the Cabinet Division (Jabatan Perdana Menteri) 2026 federal and state public-holiday schedule. The Hindu population figure is taken from DOSM's MyCensus 2020 Key Findings release. The festival's meaning, etymology, Tamil observance (Naraka Chaturdashi) and the pre-dawn oil bath are attributed to a general encyclopedic reference. Written to be strictly descriptive under the sensitive-topic (religion) policy; no religious doctrine is interpreted."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

@@ -37,14 +37,14 @@ masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "初稿。因主题涉及族群与语言，依 NegaraKu.md 编辑政策归类为 Tier S（sensitivity: race）。全文以描述性、中立方式撰写，仅陈述数据与来源，不评价政策，作为待人工审核的暂定草稿。"
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

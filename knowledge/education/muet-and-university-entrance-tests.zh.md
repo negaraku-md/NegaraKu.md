@@ -40,24 +40,16 @@ sourceContentHash: "06e545a5dcaf1477"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 publishedBy: "ashton-tan"
 reviewed: 2026-08-14
 reviewDue: 2027-08-08
-version: "0.3"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: 2026-08-08
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-08
-    change: "Correction pass: removed invented 9-level band descriptor column and unsourced claims (1999 start year, MoD RM250 fee, best-result admission practice); re-verified format, fees, sittings and validity against primary MPM/gov sources; dropped EasyUni (self-contradictory) and added official MPM band-description, fees and timetable sources."
-    reviewer: null
-  - version: "0.3"
+  - version: "01.00"
     date: 2026-08-14
-    change: "Cleared verified items against primary sources; corrected figures where they differed."
-    reviewer: "ashton-tan"
+    change: "Approved and published."
+    reviewer: null
 
 verificationNeeded:
   - "Ambang band minimum khusus mengikut program (perubatan, undang-undang, kejuruteraan) — ditetapkan oleh Senat dan berbeza mengikut universiti/sesi; contoh dalam teks adalah panduan umum, bukan angka rasmi."

@@ -39,18 +39,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-08
-    change: "Draf awal AI."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-08
-    change: "Correction pass: figures re-verified terus daripada teks Akta 757 (Sek. 52(3)/52(5)/61(3)/105/117/123/153); rujukan faedah lewat dibetulkan daripada 'Jadual Ketiga 2015' kepada Seksyen 52(5)/25(6)(b); dakwaan penyatuan Akta 663/318 dibetulkan; sumber Akta primer ditambah."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

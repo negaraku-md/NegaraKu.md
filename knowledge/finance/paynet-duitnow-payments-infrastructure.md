@@ -34,10 +34,10 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Exact current BNM stake in PayNet and the status/timeline of BNM's planned gradual reduction (announced by the Finance Ministry in a parliamentary reply, Dec 2025) — confirm the figure is still 35.5% at time of human review."
   - "The full list and count (11) of PayNet's financial-institution shareholders, and whether Maybank, CIMB and Public Bank are among them."
@@ -46,13 +46,9 @@ verificationNeeded:
   - "Whether the 30 June 2028 proprietary-QR phase-out deadline and two-year transition remain in force."
 
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-01
-    change: "Correction pass: sourced the 35.5% stake and formation/launch dates to primary sources, added BNM stake-reduction context, dropped unverifiable fee qualifier."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

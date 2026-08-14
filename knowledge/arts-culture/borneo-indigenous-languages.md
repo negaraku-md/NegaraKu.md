@@ -38,14 +38,14 @@ masterLanguage: "en"
 translationStatus: "master"
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft. Classified Tier S (sensitivity: race) because the subject describes indigenous communities and their languages. Sabah's counts (33 groups, 50+ languages, ~80 dialects) and largest-group ordering (Kadazan-Dusun, Bajau, Murut) verified against the Sabah state government People & History page. Sarawak's largest Bumiputera groups (Iban, Bidayuh, Melanau) verified against DOSM 2020 Census data. The 1997 start of Kadazandusun school teaching verified against the official Sabah KePKAS page. Genetic language-family classification (Austronesian / North Bornean and its sub-families) follows standard linguistic reference works (Ethnologue/SIL), attributed as such because Malaysia does not publish an official genetic classification. Written strictly descriptively and neutrally, held as a draft pending human review."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

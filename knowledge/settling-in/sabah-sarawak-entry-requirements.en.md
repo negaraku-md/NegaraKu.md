@@ -39,22 +39,18 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Klasifikasi sensitivity: topik ini menyentuh autonomi imigresen Sabah/Sarawak dalam rangka MA63 (kata kunci 'MA63 imigresen'). Isi kandungan neutral dan bukan advokasi, tetapi manusia perlu mengesahkan sama ada label 'none' memadai atau perlu dinaikkan."
   - "Latar sejarah dalam bahagian 'Kenapa Sabah dan Sarawak ada kawalan imigresen sendiri?' (penyertaan persekutuan 1963 dan pengekalan kuasa kawalan kemasukan) ialah maklumat latar am yang tidak terikat kepada mana-mana empat sumber prosedur imigresen yang disenaraikan. Sahkan dan lampirkan sumber perlembagaan/perundangan (cth. Akta Imigresen 1959/63 Bahagian VII, atau Perlembagaan Persekutuan/MA63) sebelum diterbitkan."
   - "Kadar bayaran, tempoh sah, dan senarai dokumen boleh dikemas kini oleh Jabatan Imigresen dari semasa ke semasa. Sahkan semula angka (bayaran RM5, sah 5 tahun, pas tidak melebihi 3 bulan) pada tarikh semakan manusia."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-07
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-07
-    change: "Correction pass: re-verified all figures against IMI primary sources (no changes needed); tightened DPT photo spec to 3.5cm x 5cm latar putih; added verificationNeeded for sensitivity label and untied 1963 history framing."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-07

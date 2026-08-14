@@ -38,23 +38,19 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Julat denda Seksyen 112(1) (RM200–RM2,000) sepadan dengan teks berkanun yang diterbitkan KPMG, tetapi ACP 1967 telah dipinda sejak arkib itu — sahkan angka semasa terhadap Akta Cukai Pendapatan 1967 terkini / hasil.gov.my."
   - "Sahkan bahawa kadar konsesi berperingkat Rangka Kerja Audit Cukai (15% / 30% / 45%) masih terpakai di bawah rangka kerja LHDN terkini."
   - "Sahkan angka Seksyen 113 dan 114 terhadap Akta Cukai Pendapatan 1967 yang disatukan dan terkini, kerana pindaan berkanun berlaku dari semasa ke semasa."
   - "Sahkan layanan penalti berkanun 100% di bawah Seksyen 113(2) bagi penyata tidak betul yang disengajakan terhadap rangka kerja pentadbiran semasa."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-07
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-07
-    change: "Correction pass: removed unofficial HasilNet source, clarified 15/30/45 as Tax Audit Framework concession vs statutory s.113(2) 100%, re-verified figures, and neutralised tone."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-07

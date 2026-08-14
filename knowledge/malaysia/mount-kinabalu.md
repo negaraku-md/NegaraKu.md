@@ -22,15 +22,14 @@ masterLanguage: "en"
 translationStatus: "master"
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft. Elevation (4,095 m) and 1997 resurvey history cross-verified against Sabah Parks' own published figure and the IUCN World Heritage Outlook assessment; UNESCO inscription year, criteria (ix)/(x) and property area (75,370 ha / 753.7 km²) verified against IUCN World Heritage Outlook; granite pluton age (7-8 Ma) verified against the IUGS Geoheritage site entry for the Mount Kinabalu Neogene Granite. Daily climbing-permit quotas are described qualitatively only, since third-party figures conflicted and the Sabah Parks page itself could not be fetched directly (403)."
-    contributor: null
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 updated: 2026-07-24

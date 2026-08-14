@@ -43,18 +43,14 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-08
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-08
-    change: "Correction pass: re-verified SC enforcement figures and PIE definition; added MIA 15 Dec 2024 PIE-enhancement source and note; fixed historical-table column label; added verificationNeeded."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

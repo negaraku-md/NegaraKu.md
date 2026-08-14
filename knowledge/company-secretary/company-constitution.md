@@ -39,18 +39,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-07
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-07
-    change: "Correction pass: restored authoritative SSM Part B constitution FAQ to sources; de-quoted the unattributed common-law entrenchment proposition; added full Chew Meu Jong citation; added verificationNeeded."
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

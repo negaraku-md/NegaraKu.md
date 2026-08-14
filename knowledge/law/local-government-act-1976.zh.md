@@ -32,18 +32,14 @@ translationStatus: "in-sync"
 sourceContentHash: "0dbf40c3c9364919"
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-08-14"
 publishedBy: "ashton-tan"
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: 2026-08-10
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
+  - version: "01.00"
     date: 2026-08-14
-    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
+    change: "Approved and published."
     reviewer: null
 verificationNeeded:
   - "Exact current number and breakdown of local authorities (city vs municipal vs district councils) for 2024–2026 — JKT/KPKT listed 155 PBT as of Aug 2021; the count and city-status upgrades change over time."

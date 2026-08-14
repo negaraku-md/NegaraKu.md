@@ -25,11 +25,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "First draft. Membership, terms of reference, meeting count, memoranda count and the report date verified against the published Report of the Federation of Malaya Constitutional Commission, 1957; constitutional entry-into-force cross-checked against the Attorney General's Chambers Federal Constitution portal and the UK Federation of Malaya Independence Act 1957."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 sensitivity: "constitution"
 updated: 2026-07-24

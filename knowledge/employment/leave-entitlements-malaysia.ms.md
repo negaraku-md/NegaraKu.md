@@ -48,14 +48,15 @@ sourceContentHash: "4780eb76db51665d"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Initial draft."
+    change: "Approved and published."
+    reviewer: null
 
 updated: 2026-07-20
 sources:

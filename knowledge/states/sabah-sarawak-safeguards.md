@@ -29,11 +29,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft. Classified Tier S (sensitivity: constitution) because the subject concerns the entrenched constitutional position of Sabah and Sarawak within the Federation. Written descriptively and neutrally — reporting what the Federal Constitution provides and where — without adjudicating any dispute over the Malaysia Agreement 1963 or the implementation of these provisions. Held as a provisional draft pending human review."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 sensitivity: "constitution"

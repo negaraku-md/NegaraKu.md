@@ -35,15 +35,14 @@ masterLanguage: "en"
 translationStatus: "master"
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-24
-    change: "Initial draft. Written as a descriptive linguistics piece — grammar, particles, borrowed vocabulary and the acrolect/mesolect/basilect continuum — rather than framing Manglish as incorrect English. Figures limited to what could be traced to an academic source or a reported Oxford English Dictionary update; no claim about Dewan Bahasa dan Pustaka's position on 'bahasa rojak' was included because no primary DBP statement could be verified, only secondary news commentary."
-    contributor: "NegaraKu.md Editorial"
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

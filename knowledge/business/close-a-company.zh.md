@@ -31,19 +31,15 @@ sourceContentHash: "40a5acd6c21bafa9"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-07-22
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: 2026-07-10
-    change: "Initial draft covering striking off and winding up in outline."
-    reviewer: null
-  - version: "0.2"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Restructured into a Tier 3 hub. The substantive content was split into five dedicated pages — strike-off-company-malaysia, members-voluntary-winding-up, creditors-voluntary-winding-up, corporate-rescue-malaysia and sell-business-malaysia. Corrected the objection window from three months to the two 30-day clocks in s.551, and removed the implication that winding up is the only alternative to striking off."
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 

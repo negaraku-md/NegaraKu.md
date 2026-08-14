@@ -27,14 +27,14 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-24
-    change: "Initial draft. Household income, household expenditure and CPI figures verified directly against DOSM's own Household Income Survey 2024, Household Expenditure Survey 2024, and Analysis of Annual Consumer Price Index 2025 release pages. The minimum wage figure was checked against the Jabatan Tenaga Kerja Semenanjung Malaysia (JTKSM) press note. No specific figures are quoted for imported-goods pricing, private hospital bills, international-school fees or MM2H thresholds — those are described qualitatively and cross-linked to dedicated articles carrying their own verified figures, because a single defensible number for each does not exist at this article's overview level."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

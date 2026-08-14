@@ -38,14 +38,14 @@ translationStatus: "in-sync"
 sourceContentHash: "77931677eb9c36e1"
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft. Festival meaning, dates, celebrating communities, the Bambaazon rice spirit, the Magavau ritual and the Unduk Ngadau pageant verified against Sabah Tourism Board, the KDCA and the Sabah State Library; the Huminodun legend is recorded descriptively as community belief. Written strictly descriptively under the 3R+1 (race) editorial policy."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 verificationNeeded:

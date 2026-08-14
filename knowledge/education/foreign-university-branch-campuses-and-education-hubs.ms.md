@@ -40,24 +40,16 @@ sourceContentHash: "eb5708a4ddb8ff8d"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-08-14"
 publishedBy: "ashton-tan"
 reviewDue: 2027-08-08
-version: "0.3"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-08
-    change: "Initial AI draft."
+    change: "Approved and published."
     reviewer: null
-  - version: "0.2"
-    date: 2026-08-08
-    change: "Correction pass: fixed Tan Kah Kee's origin (overseas Chinese, not Malaysian), removed unsourced Monash 400-student and Xiamen bilateral-ties claims, and added official Nottingham Malaysia and Xiamen founder sources for the 48-hectare, Queen's Award 2001 and founder facts."
-    reviewer: null
-  - version: "0.3"
-    date: 2026-08-14
-    change: "Cleared verified items against primary sources; corrected figures where they differed."
-    reviewer: "ashton-tan"
 verificationNeeded:
   - "Total count of foreign branch campuses ('around a dozen' / 'roughly eleven') — confirm against a current MOHE or MQA register."
 

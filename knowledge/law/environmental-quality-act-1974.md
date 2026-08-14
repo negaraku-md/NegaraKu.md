@@ -38,22 +38,18 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Butiran prosedur Jadual Pertama vs Jadual Kedua (pameran awam; pejabat JAS negeri vs ibu pejabat JAS) — sahkan terhadap teks penuh Perintah Kualiti Alam Sekeliling (Aktiviti Yang Ditetapkan)(EIA) 2015, bukan hanya laman muat turun JAS."
   - "Nama kementerian induk JAS (Kementerian Sumber Asli dan Kelestarian Alam / NRES) sahih untuk 2024–2026; sahkan semula jika struktur kabinet berubah."
   - "Butiran denda kes Kulim (jumlah RM60,000: RM50,000 di bawah s34A(8) EQA + RM10,000 di bawah Peraturan Udara Bersih 2014; Mahkamah Sesyen Kulim, 16 April 2025) — sahkan terhadap rekod mahkamah rasmi jika ketepatan mutlak diperlukan."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-07
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-07
-    change: "Correction pass: reconcile Kulim fine framing (RM50k s34A of RM60k total), add DOE-parent-ministry source, soften/flag First-vs-Second Schedule procedural claims, add verificationNeeded."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-07

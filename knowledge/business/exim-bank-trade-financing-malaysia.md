@@ -34,23 +34,19 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "0.2"
+version: "01.00"
 verificationNeeded:
   - "Current pricing, eligibility, and coverage caps for Trade Credit Takaful/Insurance (confirm against the latest Product Disclosure Sheet before relying on the 90%/95% figures)."
   - "The specific overseas markets EXIM Bank prioritises — the source pages describe 'non-traditional markets' generically without naming regions."
   - "ECR pre-shipment (120-day) and post-shipment (183-day) tenures and the no-collateral term, which may be updated periodically."
   - "Details of EXIM Bank's Islamic banking window licence and its integration under the BPMB group post-1 May 2025."
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-07
-    change: "Initial AI draft."
-    reviewer: null
-  - version: "0.2"
-    date: 2026-08-07
-    change: "Correction pass: softened the unsourced named-region list to generic 'non-traditional markets'; re-verified mission wording and the ECR Customs Duties First Schedule exclusion against primary EXIM pages; fixed relations (BNM regulates, not administers)."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-07

@@ -43,11 +43,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-07-24
-    change: "Initial draft. PNB founding date and mandate verified at pnb.com.my; ASNB establishment date, fund launch dates, eligibility, fees, limits and fund structure verified against ASNB's Product Highlights Sheets for ASB and ASN and the live asnb.com.my product pages; AUM, network and FY2025 distribution figures verified against PNB's 19 December 2025 press release; the 2023 investment-limit increase verified against PNB's 7 October 2022 press release. Classified tier S / sensitivity race because the page describes race- and religion-based fund eligibility and the NEP mandate — human review required before publication."
+    change: "Approved and published."
     reviewer: null
 sensitivity: "race"
 

@@ -41,14 +41,14 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
+  - version: "01.00"
     date: 2026-08-01
-    change: "Draf awal AI. Fakta disemak pada laman rasmi Kerajaan Johor (royal.johor.my), Jabatan Muzium Malaysia dan rekod penyenaraian UNESCO bagi kebaya. Angka bilangan pengeluar, harga pasaran dan tahun perisytiharan warisan kebangsaan sengaja ditinggalkan kerana tiada sumber rasmi yang boleh disahkan."
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-08-01

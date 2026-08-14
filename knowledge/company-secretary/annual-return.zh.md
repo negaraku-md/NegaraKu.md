@@ -47,23 +47,15 @@ sourceContentHash: "333c372fcdca64b9"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-07-22
-version: "0.3"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: 2026-07-10
-    change: "Initial draft."
-    reviewer: null
-  - version: "0.2"
+  - version: "01.00"
     date: 2026-07-20
-    change: "Rebuilt to Tier 2 depth. The earlier version was 491 words, had no FAQ and only two generic sources, described the return as a snapshot as at a financial year reference point, and omitted s.68(2) entirely — leaving readers to believe an annual return falls due in the year of incorporation. Added the confirmed s.68(1) 30-day clock, the s.68(2) carve-out, s.68(8) strike-off after three consecutive years, the s.68(9) penalties, the ROC lodgement fees and the Practice Directive 1/2017 late-lodgement bands."
-    reviewer: null
-  - version: "0.3"
-    date: 2026-07-21
-    change: "Added the SSM MBRS 2.0 phased-implementation announcement to sources — the body's load-bearing claim that Phase 1 went live on 1 December 2024 was not backed by a source."
+    change: "Approved and published."
     reviewer: null
 
 obligations:

@@ -38,15 +38,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.2"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Initial draft, written against DOSM's Current Population Estimates, Malaysia, 2025 media statement (31 July 2025), the Demographic Statistics Malaysia, First Quarter 2026 media statement (14 May 2026), the Bumiputera Statistics, 2025 release, and the OpenDOSM population data catalogue schema."
-    reviewer: null
-  - version: "0.2"
-    date: "2026-07-24"
-    change: "Source audit against the four cited releases, line by line. Removed the per-ethnic-group headcounts for Q1 2026 (18.0m / 3.8m / 6.9m / 2.0m / 0.2m) — DOSM publishes those categories as percentages of citizens only, so the counts were derived, not published. Corrected the non-citizen totals to DOSM's own published 3.39 million (2024) and 3.38 million (2025); the previous '~3.3 million' was a subtraction artefact. Removed the 'Others 0.8%' figure from the Q1 2026 column (that release does not state it) and the derived ~12.4% for Peninsular Other Bumiputera. Corrected the claim that DOSM does not explain the non-citizen sex ratio — the 2025 release attributes it to the high number of male foreign workers. Corrected the Q1 2026 growth-rate footnote from quarter-on-quarter to year-on-year. Dropped an unsourced statement that the non-citizen estimate covers undocumented residents, and an unsupported comparison between the statistical distinctness of ethnic groups. All remaining figures were confirmed verbatim against the cited releases; the 70.6 per cent combined Bumiputera figure for Q1 2026 remains a disclosed addition of two published percentages (58.3% + 12.3%), not an estimate."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

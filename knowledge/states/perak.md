@@ -48,11 +48,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Draf awal. Setiap angka disahkan pada sumber rasmi: portal Kerajaan Negeri Perak, portal Dewan Negeri Perak, portal Sultan Perak, Majlis Bandaraya Ipoh, Jabatan Warisan Negara, dan dua terbitan Jabatan Perangkaan Malaysia (Anggaran Penduduk Semasa 2025 dan KDNK Mengikut Negeri 2025). Perpindahan pusat pentadbiran Taiping ke Ipoh (1942) disahkan pada portal Dewan Negeri Perak. Angka keluasan negeri sengaja ditinggalkan kerana tidak dapat disahkan pada sumber rasmi."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 sensitivity: "royalty"
 

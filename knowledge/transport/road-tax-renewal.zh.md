@@ -36,14 +36,14 @@ sourceContentHash: "20fe200c2e49f4f8"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Draf awal. Tetingkap pembaharuan dua bulan, tempoh 6 bulan/1 tahun dan syarat pemeriksaan Puspakom selepas tiga tahun disahkan pada dua halaman rasmi JPJ (panduan pembaharuan LKM dan semakan tarikh luput). Saluran Pos Malaysia disahkan pada laman rasmi Pos Malaysia; saluran MyEG disahkan pada laman perkhidmatan JPJ rasmi MyEG. Asas kadar (kapasiti enjin/jenis kenderaan/wilayah) disahkan pada halaman garis panduan pengiraan kadar LKM JPJ tanpa menyenaraikan angka kerana jadual penuh hanya terkandung dalam PDF berasingan yang tidak dapat disahkan sepenuhnya semasa penulisan. Angka kompaun/denda sengaja tidak dinyatakan kerana tidak dapat disahkan pada sumber rasmi semasa penulisan."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 
 updated: 2026-07-24

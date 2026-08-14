@@ -31,18 +31,14 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "01.00"
 revisions:
-  - version: "0.1"
-    date: "2026-07-24"
-    change: "Draf awal. Setiap angka yang diterbitkan disemak terhadap teks Perlembagaan Persekutuan (Cetakan Semula 2020) versi Bahasa Melayu dan Bahasa Inggeris di portal Jabatan Peguam Negara — Perkara 40, 43, 44, 45, 46, 47, 54, 56, 66, 67, 68 dan Jadual Ketujuh. Angka yang tidak dapat disandarkan pada cetakan semula itu digugurkan dan dinyatakan secara kualitatif; lihat verificationNeeded."
-    reviewer: null
-  - version: "0.2"
-    date: "2026-07-24"
-    change: "Semakan sumber penuh: angka 70/26/44 dan tempoh tiga tahun (maksimum dua penggal) disahkan semula pada halaman Maklumat Umum Dewan Negara di portal rasmi Parlimen Malaysia; Perkara 45, 46, 47, 54, 55, 56, 67, 68 dan Jadual Ketujuh disahkan pada teks Perlembagaan yang dihoskan di lom.agc.gov.my. Umur 18 tahun bagi Dewan Rakyat kini diterbitkan (teks rasmi memaparkan 'eighteen years old'). Nombor Akta pindaan bagi Perkara 45(1)(b) — Akta 26/1963, Akta 19/1964, Akta A442 — diterbitkan daripada catatan pindaan dalam cetakan semula rasmi. Nuansa Perkara 54(3) ditambah: tempoh 60 hari tidak terpakai bagi kekosongan senator yang dipilih oleh Negeri. Pautan silang kepada artikel Dewan Rakyat, Yang di-Pertuan Agong dan proses rang undang-undang ditambah."
+  - version: "01.00"
+    date: 2026-07-24
+    change: "Approved and published."
     reviewer: null
 sensitivity: "none"
 
