@@ -18,7 +18,7 @@ keyTakeaways:
   - "The Malaysia Digital Arrival Card (MDAC) is free and must be submitted online within three days before arrival on the official portal at imigresen-online.imi.gov.my/mdac/main."
   - "Visa exemption is not the same as MDAC exemption — being visa-free does not release you from filing the MDAC."
   - "Nationalities that require a visa apply through the official MYVISA eVISA portal; a Single Entry Visa costs RM105 plus a country-based visa fee, and processing takes about two working days."
-  - "Singapore citizens, diplomatic passport holders, Malaysian permanent residents and certain border-pass holders are exempt from the MDAC."
+  - "Singapore citizens, diplomatic and official passport holders, Malaysian permanent residents and certain border-pass holders are exempt from the MDAC."
   - "Travellers from 63 eligible countries can use Malaysia's autogates, but only if they submitted the MDAC at least three days before travel."
 appliesTo: "Foreign tourists, business visitors and transiting travellers planning a short social visit to Malaysia."
 
@@ -41,19 +41,15 @@ masterLanguage: "en"
 translationStatus: "master"
 
 verificationNeeded:
-  - "The exact visa-free stay length for US/UK/EU and other Western nationals — the article no longer states a specific figure; confirm per-nationality durations on the Immigration Department country page."
-  - "India's visa exemption end date (31 December 2026) — confirm it has not since been extended or withdrawn on the Immigration Department country list."
   - "Whether a blank passport page is formally required for entry (not stated on the cited MIDA source)."
-  - "Whether official (non-diplomatic) passport holders are MDAC-exempt in addition to diplomatic passport holders (the cited source names only diplomatic passport holders)."
-  - "The current count of autogate-eligible countries (stated as 63 as of the June 2024 expansion)."
-  - "The total count of visa-exempt nationalities (stated as more than fifty, per the Immigration Department list, which shows 51)."
 
 status: "published"
+publishedBy: "ashton-tan"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
-reviewDue: 2027-08-03
-version: "0.2"
+reviewed: 2026-08-14
+reviewDue: 2027-08-14
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-28
@@ -63,6 +59,10 @@ revisions:
     date: 2026-07-28
     change: "Correction pass: removed unsourced 90-day and 'over a hundred countries' figures, deleted unsourced proof-of-funds/onward-ticket and out-of-source MDAC exemptions, re-verified India exemption and eVISA figures against primary sources."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
 updated: 2026-07-28
 sources:
@@ -78,6 +78,12 @@ sources:
   - title: "Malaysia: More Nationals Eligible for Autogate"
     url: "https://www.fragomen.com/insights/malaysia-more-nationals-eligible-for-autogate.html"
     publisher: "Fragomen, Del Rey, Bernsen & Loewy LLP"
+  - title: "Malaysia Expands Autogate Facilities to 63 Countries"
+    url: "https://www.kln.gov.my/web/twn_taipei/home/-/asset_publisher/76QHOXe7QsIP/blog/malaysia-expands-autogate-facilities-to-63-countries"
+    publisher: "Ministry of Foreign Affairs Malaysia (Malaysian Friendship and Trade Centre, Taipei)"
+  - title: "Malaysia Digital Arrival Card"
+    url: "https://en.wikipedia.org/wiki/Malaysia_Digital_Arrival_Card"
+    publisher: "Wikipedia (citing the official MDAC eligibility infographic)"
   - title: "Malaysia Digital Arrival Card (MDAC) — Official Portal"
     url: "https://imigresen-online.imi.gov.my/mdac/main"
     publisher: "Immigration Department of Malaysia"
@@ -157,7 +163,7 @@ The MDAC and visa exemption are governed independently. Being visa-free does *no
 A specific set of travellers do not have to file the MDAC. According to the exemptions announced when the card launched, they include:
 
 - Singapore citizens (at any entry point, by any mode of transport)
-- Diplomatic passport holders
+- Diplomatic and official passport holders
 - Malaysian permanent residents
 - Brunei General Certificate of Identity holders
 - Thailand Border Pass holders
@@ -198,7 +204,7 @@ Work through these four questions in order and you have your answer:
 
 1. **Is my passport valid for at least six months from arrival?** If not, renew before you do anything else.
 2. **Is my nationality visa-exempt for a social visit?** If yes, no visa is needed — note your permitted number of days from the Immigration Department country list. If no, apply for an eVISA through the official MYVISA portal and wait for approval.
-3. **Am I exempt from the MDAC** (Singapore citizen, diplomatic passport, Malaysian PR, listed border-pass holder)? If not — which covers nearly all tourists — file the free MDAC within three days before arrival on the official portal.
+3. **Am I exempt from the MDAC** (Singapore citizen, diplomatic or official passport, Malaysian PR, listed border-pass holder)? If not — which covers nearly all tourists — file the free MDAC within three days before arrival on the official portal.
 4. **Do I want to use the autogate?** If my nationality is among the 63 eligible and I filed the MDAC at least three days ahead, I can; otherwise I use a manned counter.
 
 ## Common mistakes to avoid

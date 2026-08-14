@@ -1,77 +1,81 @@
 ---
 topicId: MY-CS-0027
-title: "Directors' Duties Under the Companies Act 2016 and Your Personal Liability"
-seoTitle: "Directors Duties Malaysia: s.213 CA 2016 and Liability"
+title: "Tanggungjawab Pengarah di Bawah Akta Syarikat 2016 dan Liabiliti Peribadi Anda"
+seoTitle: "Tanggungjawab Pengarah: s.213 CA 2016 & Liabiliti"
 slug: "directors-duties"
 category: "company-secretary"
 subcategory: ["directors"]
-summary: "Apa sebenarnya yang dikehendaki oleh ss.210 hingga 220 Akta Syarikat 2016 daripada seorang pengarah syarikat Malaysia, kos kesalahan tersebut secara peribadi, dan pembelaan yang diberikan oleh Akta ini."
+summary: "Apa yang sebenarnya dikehendaki oleh ss.210 hingga 220 Akta Syarikat 2016 daripada seorang pengarah Malaysia, kos peribadi setiap kesalahan, dan pembelaan yang diberikan oleh Akta ini kepada anda."
 
 tier: "1"
 mode: "practical"
 contentType: "guide"
 sensitivity: "none"
 
-answer: "Seksyen 213 Akta Syarikat 2016 mengenakan dua kewajipan ke atas setiap pengarah — bertindak dengan itikad baik demi kepentingan terbaik syarikat untuk tujuan yang wajar di bawah s.213(1), dan melaksanakan penjagaan, kemahiran serta ketekunan yang munasabah di bawah s.213(2). Pelanggarannya adalah suatu kesalahan jenayah yang membawa hukuman penjara sehingga lima tahun atau denda sehingga RM3 juta, atau kedua-duanya, di bawah s.213(3). Liabiliti ini bersifat peribadi dan tidak boleh diindemniti."
+answer: "Seksyen 213 Akta Syarikat 2016 mengenakan dua tanggungjawab ke atas setiap pengarah — bertindak dengan suci hati demi kepentingan terbaik syarikat bagi maksud yang wajar di bawah s.213(1), dan menjalankan penjagaan, kemahiran serta ketekunan yang munasabah di bawah s.213(2). Pelanggaran ialah kesalahan jenayah yang boleh membawa hukuman penjara sehingga lima tahun atau denda sehingga RM3 juta, atau kedua-duanya, di bawah s.213(3). Liabiliti tersebut bersifat peribadi dan tidak boleh ditanggung rugi (indemnifikasi)."
 keyTakeaways:
-  - "s.213(3) menjadikan pelanggaran kewajipan pengarah sebagai jenayah — 5 tahun, RM3 juta, atau kedua-duanya, ke atas individu tersebut"
-  - "s.210 memperluaskan kewajipan ini kepada Ketua Pegawai Eksekutif (CEO), Ketua Pegawai Kewangan (CFO), Ketua Pegawai Operasi (COO) dan sesiapa yang bertanggungjawab utama terhadap pengurusan, sama ada nama mereka berada dalam daftar atau tidak"
-  - "s.2 turut merangkumi pengarah bayangan (shadow director) — sesiapa sahaja yang arahannya biasa dituruti oleh lembaga pengarah"
-  - "Peraturan pertimbangan perniagaan (business judgment rule) dalam s.214 hanya menjadi pembelaan kepada s.213(2), dan tidak sekali-kali kepada kewajipan itikad baik di bawah s.213(1)"
-  - "s.215 membenarkan pengarah bergantung kepada pegawai dan pakar, tetapi hanya selepas membuat penilaian bebas terhadap apa yang diberitahu kepadanya"
-  - "s.288 membatalkan mana-mana klausa dalam perlembagaan syarikat atau kontrak yang mengindemniti seorang pengarah daripada liabiliti akibat pelanggaran kewajipan"
-  - "s.220 mengekalkan semua undang-undang bertulis lain berkaitan liabiliti pengarah — Akta ini menambah pendedahan anda, bukan mengehadkannya"
-appliesTo: "Pengarah syarikat Malaysia, termasuk pengarah calonan (nominee) dan pengarah bukan eksekutif, serta eksekutif kanan (C-suite) yang terangkum di bawah s.210."
+  - "s.213(3) menjadikan pelanggaran tanggungjawab pengarah satu jenayah — 5 tahun, RM3 juta, atau kedua-duanya, ke atas individu"
+  - "s.210 memperluas tanggungjawab ini kepada CEO, CFO, COO dan sesiapa yang terutamanya bertanggungjawab bagi pengurusan, sama ada namanya ada dalam daftar atau tidak"
+  - "s.2 menangkap pengarah bayang — sesiapa yang arahannya biasa dipatuhi oleh lembaga"
+  - "Kaedah pertimbangan perniagaan (business judgment rule) dalam s.214 ialah pembelaan kepada s.213(2) sahaja, tidak pernah kepada suci hati s.213(1)"
+  - "s.215 membenarkan anda bergantung pada pegawai dan pakar, tetapi hanya selepas penilaian bebas terhadap apa yang diberitahu kepada anda"
+  - "s.288 membatalkan mana-mana klausa dalam perlembagaan atau kontrak yang menanggung rugi seorang pengarah terhadap liabiliti kerana pelanggaran tanggungjawab"
+  - "s.220 mengekalkan setiap undang-undang bertulis lain mengenai liabiliti pengarah — Akta ini menambah pendedahan anda, ia tidak mengehadkannya"
+appliesTo: "Pengarah syarikat Malaysia, termasuk pengarah penama dan pengarah bukan eksekutif, serta eksekutif peringkat C-suite yang ditangkap oleh s.210."
 
 faq:
-  - q: "Bolehkah seorang pengarah dipenjarakan kerana melanggar kewajipannya di Malaysia, atau hanya denda sahaja?"
-    a: "Seksyen 213(3) memperuntukkan hukuman penjara tidak melebihi lima tahun atau denda tidak melebihi RM3 juta, atau kedua-duanya. Ia digubal sebagai kesalahan jenayah terhadap pengarah secara individu, bukan tuntutan sivil terhadap syarikat. Had maksimum yang sama terpakai kepada pelanggaran pengarah calonan di bawah s.217, penyalahgunaan kedudukan di bawah s.218, kegagalan mendedahkan kepentingan di bawah s.221 dan pengundian berkepentingan di bawah s.222."
-  - q: "Saya hanyalah pengarah bukan eksekutif atau pengarah tidur (sleeping director). Adakah kewajipan ini terpakai kepada saya?"
-    a: "Ya, sepenuhnya. Seksyen 213 tidak membezakan antara pengarah eksekutif dan bukan eksekutif. Yang berbeza ialah standardnya, kerana s.213(2)(a) menilai anda berdasarkan pengetahuan, kemahiran dan pengalaman yang secara munasabah dijangka daripada seorang pengarah yang memikul tanggungjawab yang sama, manakala s.213(2)(b) menambah sebarang pengetahuan tambahan yang anda miliki secara peribadi. Seorang pengarah yang pasif dinilai berdasarkan apa yang sepatutnya dilakukan oleh pengarah pada kedudukan itu, bukan berdasarkan apa yang sebenarnya dia lakukan."
+  - q: "Bolehkah seorang pengarah dipenjarakan kerana pelanggaran tanggungjawab di Malaysia, atau adakah ia hanya denda?"
+    a: "Seksyen 213(3) memperuntukkan hukuman penjara bagi tempoh tidak melebihi lima tahun atau denda tidak melebihi RM3 juta, atau kedua-duanya. Ia digubal sebagai kesalahan jenayah terhadap pengarah individu, bukan sebagai tuntutan sivil terhadap syarikat. Had yang sama terpakai kepada pelanggaran pengarah penama s.217, penyalahgunaan kedudukan s.218, ketidakdedahan kepentingan s.221 dan pengundian berkepentingan s.222."
+  - q: "Saya hanya pengarah bukan eksekutif atau pengarah tidur. Adakah tanggungjawab ini terpakai kepada saya?"
+    a: "Ya, sepenuhnya. Seksyen 213 tidak membuat sebarang perbezaan antara pengarah eksekutif dan bukan eksekutif. Apa yang berbeza ialah standardnya, kerana s.213(2)(a) mengukur anda berdasarkan pengetahuan, kemahiran dan pengalaman yang munasabah dijangka daripada seorang pengarah yang mempunyai tanggungjawab yang sama, dan s.213(2)(b) menambah sebarang pengetahuan tambahan yang anda ada secara peribadi. Seorang pengarah pasif dinilai berdasarkan apa yang sepatutnya dilakukan oleh seorang pengarah dalam kedudukan itu, bukan berdasarkan apa yang mereka sebenarnya lakukan."
   - q: "Nama saya tiada dalam daftar pengarah. Adakah saya selamat?"
-    a: "Tidak. Takrifan pengarah di bawah s.2 merangkumi mana-mana orang yang memegang kedudukan pengarah walau apa jua namanya dipanggil, serta mana-mana orang yang arahan atau perintahnya biasa dituruti oleh majoriti lembaga pengarah. Secara berasingan, s.210 memperluaskan ss.213 hingga 218, 223 dan 228 kepada Ketua Pegawai Eksekutif, Ketua Pegawai Kewangan, Ketua Pegawai Operasi dan mana-mana orang lain yang bertanggungjawab utama terhadap pengurusan syarikat."
-  - q: "Bolehkah syarikat mengindemniti saya atau membeli insurans untuk saya?"
-    a: "Hanya dalam had yang sempit. Seksyen 288 membatalkan mana-mana peruntukan dalam perlembagaan syarikat atau dalam mana-mana kontrak yang mengecualikan atau mengindemniti seorang pegawai daripada liabiliti akibat kecuaian, keingkaran, pelanggaran kewajipan atau pelanggaran amanah. Seksyen 289 pula membenarkan syarikat mengindemniti seorang pegawai untuk kos apabila penghakiman diberikan memihak kepadanya, dia dibebaskan, atau relif diberikan, serta mengindemniti terhadap liabiliti kepada pihak ketiga — tetapi tidak sekali-kali terhadap denda yang dikenakan dalam prosiding jenayah atau penalti kawal selia."
-  - q: "Apakah peraturan pertimbangan perniagaan (business judgment rule) dan bilakah ia melindungi saya?"
-    a: "Seksyen 214 menganggap seorang pengarah telah memenuhi kewajipan penjagaan dan ketekunan di bawah s.213(2), serta kewajipan setara di bawah common law dan ekuiti, jika keempat-empat syarat berikut dipenuhi — tujuan yang wajar dan itikad baik, tiada kepentingan peribadi material dalam perkara berkenaan, mendapat maklumat setakat yang munasabah wajar, dan kepercayaan yang munasabah bahawa pertimbangan itu demi kepentingan terbaik syarikat. Ia tidak menyentuh kewajipan itikad baik dan tujuan wajar di bawah s.213(1)."
+    a: "Tidak. Takrif pengarah di bawah s.2 termasuk mana-mana orang yang menduduki jawatan pengarah dengan apa jua nama dipanggil, dan mana-mana orang yang menurut arahan atau perintahnya majoriti lembaga biasa bertindak. Secara berasingan, s.210 memperluas ss.213 hingga 218, 223 dan 228 kepada ketua pegawai eksekutif, ketua pegawai kewangan, ketua pegawai operasi dan mana-mana orang lain yang terutamanya bertanggungjawab bagi pengurusan syarikat."
+  - q: "Bolehkah syarikat menanggung rugi saya atau membeli insurans untuk saya?"
+    a: "Hanya dalam had yang sempit. Seksyen 288 membatalkan mana-mana peruntukan dalam perlembagaan atau dalam mana-mana kontrak yang mengecualikan atau menanggung rugi seorang pegawai terhadap liabiliti kerana kecuaian, keingkaran, pelanggaran tanggungjawab atau pelanggaran amanah. Seksyen 289 kemudiannya membenarkan syarikat menanggung rugi seorang pegawai bagi kos apabila penghakiman diberikan memihak kepadanya, dia dibebaskan, atau pelepasan diberikan, dan untuk menanggung rugi terhadap liabiliti kepada pihak ketiga — tetapi tidak pernah terhadap denda yang dikenakan dalam prosiding jenayah atau penalti kawal selia."
+  - q: "Apakah kaedah pertimbangan perniagaan dan bilakah ia melindungi saya?"
+    a: "Seksyen 214 menyifatkan seorang pengarah telah memenuhi tanggungjawab penjagaan-dan-ketekunan s.213(2), serta tanggungjawab common law dan ekuiti yang setara, jika keempat-empat syarat dipenuhi — maksud yang wajar dan suci hati, tiada kepentingan peribadi yang material dalam hal perkara itu, dimaklumkan setakat yang munasabah wajar, dan kepercayaan yang munasabah bahawa pertimbangan itu demi kepentingan terbaik syarikat. Ia tidak menyentuh tanggungjawab suci hati dan maksud wajar s.213(1)."
   - q: "Bolehkah pemegang saham menyaman seorang pengarah di Malaysia, atau penguatkuasaan hanya oleh SSM?"
-    a: "Kedua-dua laluan wujud. SSM mendakwa kesalahan di bawah s.213(3). Secara berasingan, seorang ahli boleh membawa tindakan derivatif berkanun atas nama syarikat di bawah s.347 dengan kebenaran Mahkamah, selepas memberikan notis bertulis tiga puluh hari kepada para pengarah di bawah s.348(2), dan mesti memulakan prosiding dalam tempoh tiga puluh hari selepas kebenaran diberikan. Relif akibat penindasan di bawah s.346 merupakan satu lagi laluan bebas."
+    a: "Kedua-dua laluan wujud. SSM mendakwa kesalahan s.213(3). Secara berasingan, seorang ahli boleh membawa tindakan derivatif berkanun atas nama syarikat di bawah s.347 dengan kebenaran Mahkamah, selepas memberi pengarah notis bertulis tiga puluh hari di bawah s.348(2), dan mesti memulakan prosiding dalam tempoh tiga puluh hari selepas kebenaran diberikan. Pelepasan penindasan s.346 ialah laluan tambahan yang bebas."
 
-verificationNeeded:
-  - "Confirm whether any SSM compound schedule exists for s.213 offences — no current practice directive setting compound amounts for directors' duty offences could be located"
+verificationNeeded: []
 
 obligations:
-  - what: "Give the Court thirty days' written notice to the directors of an intention to apply for leave to bring a statutory derivative action"
+  - what: "Beri Mahkamah notis bertulis tiga puluh hari kepada pengarah tentang niat untuk memohon kebenaran membawa tindakan derivatif berkanun"
     trigger: "change"
     withinDays: 30
-    due: "thirty days' notice in writing to the directors before applying for leave"
+    due: "notis tiga puluh hari secara bertulis kepada pengarah sebelum memohon kebenaran"
     authority: "Court"
     statute: "Companies Act 2016, s.348(2)"
-    consequence: "Leave to bring derivative proceedings will not be entertained"
-  - what: "Initiate derivative proceedings in Court after leave has been granted"
+    consequence: "Kebenaran untuk membawa prosiding derivatif tidak akan dilayan"
+  - what: "Mulakan prosiding derivatif di Mahkamah selepas kebenaran diberikan"
     trigger: "change"
     withinDays: 30
-    due: "within thirty days from the grant of leave"
+    due: "dalam tempoh tiga puluh hari dari pemberian kebenaran"
     authority: "Court"
     statute: "Companies Act 2016, s.348(3)"
-    consequence: "The grant of leave lapses"
+    consequence: "Pemberian kebenaran akan luput"
 
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "19d6fc432d90a75b"
+sourceContentHash: "03035b145c07011e"
 
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: "2026-07-25"
+reviewed: 2026-08-14
+reviewDue: 2027-07-22
 publishedBy: "ashton-tan"
-version: "0.1"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-20
     change: "Initial draft, verified against the Act 777 reprint as at 1 August 2022 and Act A1701."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
 updated: 2026-07-20
 sources:
@@ -89,6 +93,15 @@ sources:
     publisher: "SSM"
     date: "2024-10-01"
 
+  - title: "Companies Commission of Malaysia Act 2001 (Act 614), reprint as at 1 March 2018 — s.38A compounding of offences and First Schedule (Act 777 listed as item 1)"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/CCMA%20Act%20614_as%20at%201%20March%202018).pdf"
+    publisher: "SSM"
+    date: "2018-03-01"
+  - title: "MAICSA Annual Conference 2017: Three Questions Raised — confirms CA 2016 has no compounding section; the power is s.38A of the SSM Act, in force 31 January 2017 (50% cap, PP consent)"
+    url: "https://themalaysianlawyer.com/2017/09/15/maicsa-annual-conference-2017-three-questions-raised/"
+    publisher: "The Malaysian Lawyer"
+    date: "2017-09-15"
+
 entity: "Directors' duties under the Companies Act 2016"
 relations:
   - { rel: "governs", to: "companies-act-2016" }
@@ -97,346 +110,329 @@ relations:
   - { rel: "related-to", to: "loans-to-directors" }
   - { rel: "related-to", to: "appoint-resign-director" }
 related: ["disclosure-of-interest", "director-shareholding-notification", "appoint-resign-director", "remove-a-director", "loans-to-directors", "directors-fees-approval", "directors-report", "register-of-directors"]
-keywords: ["kewajipan pengarah syarikat Malaysia", "seksyen 213 Akta Syarikat 2016", "liabiliti peribadi pengarah Malaysia", "peraturan pertimbangan perniagaan Malaysia", "tanggungjawab pengarah syarikat", "pengarah bayangan Malaysia", "denda pengarah RM3 juta"]
+keywords: ["directors duties Malaysia", "section 213 Companies Act 2016", "director personal liability Malaysia", "business judgment rule Malaysia", "tanggungjawab pengarah syarikat", "shadow director Malaysia", "director fine RM3 million"]
 ---
 
-Dendanya tiga juta ringgit dan hukumannya lima tahun penjara. Bukan terhadap
-syarikat — terhadap anda. Seksyen 213(3) Akta Syarikat 2016 (Companies Act
-2016) menjadikan pelanggaran kewajipan pengarah sebagai kesalahan jenayah yang
-dilakukan oleh individu tersebut, dan had maksimum yang sama muncul semula
-dalam s.217, s.218, s.221, s.222, s.223, s.224, s.225 dan s.228.
+Dendanya tiga juta ringgit dan hukumannya lima tahun. Bukan terhadap syarikat —
+terhadap anda. Seksyen 213(3) Akta Syarikat 2016 menjadikan pelanggaran
+tanggungjawab pengarah satu kesalahan jenayah yang dilakukan oleh individu, dan
+had yang sama muncul semula dalam s.217, s.218, s.221, s.222, s.223, s.224,
+s.225 dan s.228.
 
-Itulah satu fakta yang paling kerap diabaikan oleh kebanyakan rumusan
-kewajipan pengarah di Malaysia. Ia menghuraikan kewajipan fidusiari secara
-abstrak, meminjam satu perenggan kes undang-undang Inggeris, lalu berhenti di
-situ. Akta ini berbuat sesuatu yang jauh lebih tegas: ia menukarkan
-kewajipan-kewajipan itu menjadi kesalahan jenayah, memperluaskannya
-melangkaui orang yang namanya tercatat dalam daftar, dan membatalkan klausa
-indemniti yang mungkin terkandung dalam perlembagaan syarikat anda.
+Itulah satu fakta yang paling banyak ditinggalkan oleh ringkasan tanggungjawab
+pengarah di Malaysia. Mereka menerangkan tanggungjawab fidusiari secara abstrak,
+meminjam satu perenggan undang-undang kes Inggeris, dan berhenti. Akta ini
+melakukan sesuatu yang jauh lebih tegas: ia menukarkan tanggungjawab menjadi
+kesalahan, memperluasnya melangkaui orang yang namanya muncul dalam daftar, dan
+membatalkan klausa tanggung rugi yang berkemungkinan ada dalam perlembagaan
+anda.
 
-Halaman ini adalah peta bagi pendedahan tersebut — siapa yang terangkum, apa
-sebenarnya yang diperuntukkan oleh empat seksyen kewajipan tersebut, dua
-pembelaan yang diberikan oleh Akta ini, dan bagaimana kewajipan-kewajipan ini
-dikuatkuasakan.
+Halaman ini ialah peta pendedahan tersebut — siapa yang ditangkap, apa yang
+sebenarnya dinyatakan oleh empat peruntukan tanggungjawab, dua pembelaan yang
+diberikan Akta kepada anda, dan bagaimana tanggungjawab itu dikuatkuasakan.
 
-## Siapakah yang tergolong sebagai pengarah di bawah Akta Syarikat 2016?
+## Siapa yang dikira sebagai pengarah di bawah Akta Syarikat 2016?
 
-Tiga takrifan meluaskan jaringan ini, dan ketiga-tiganya beroperasi serentak.
+Tiga takrif meluaskan jaring, dan ia beroperasi pada masa yang sama.
 
-| Peruntukan | Siapa yang terangkum |
+| Peruntukan | Siapa yang ditangkapnya |
 | --- | --- |
-| s.2 | Mana-mana orang yang memegang kedudukan pengarah **walau apa jua namanya dipanggil**; mana-mana orang yang arahan atau perintahnya biasa dituruti oleh majoriti pengarah; pengarah ganti atau pengarah pengganti |
-| s.57(7) | Untuk tujuan daftar — termasuk pengarah ganti, pengganti atau pengarah **tempatan** (local) |
-| s.210 | Hanya untuk ss.213–218, 223 dan 228 — termasuk **Ketua Pegawai Eksekutif, Ketua Pegawai Kewangan, Ketua Pegawai Operasi** atau mana-mana orang lain yang bertanggungjawab utama terhadap pengurusan syarikat |
+| s.2 | Mana-mana orang yang menduduki jawatan pengarah **dengan apa jua nama dipanggil**; mana-mana orang yang menurut arahan atau perintahnya majoriti pengarah biasa bertindak; seorang pengarah silih ganti atau pengganti |
+| s.57(7) | Untuk daftar — termasuk pengarah silih ganti, pengganti atau pengarah **tempatan** |
+| s.210 | Untuk ss.213–218, 223 dan 228 sahaja — termasuk **ketua pegawai eksekutif, ketua pegawai kewangan, ketua pegawai operasi** atau mana-mana orang lain yang terutamanya bertanggungjawab bagi pengurusan syarikat |
 
-Seksyen 210 adalah peruntukan yang kurang digunakan oleh pengamal. Ia
-bermaksud seorang CFO yang tidak pernah duduk dalam lembaga pengarah, tidak
-pernah dilantik di bawah s.201 dan tidak muncul langsung dalam rekod SSM,
-tetap terikat dengan kewajipan itikad baik di bawah s.213, penjagaan dan
-ketekunan di bawah s.213(2), kesetiaan pengarah calonan di bawah s.217,
-penyalahgunaan kedudukan di bawah s.218, pelupusan substansial di bawah
-s.223 dan transaksi pihak berkaitan di bawah s.228 — dan terdedah kepada had
-maksimum RM3 juta yang sama.
+Seksyen 210 ialah peruntukan yang kurang digunakan oleh pengamal. Ia bermaksud
+seorang CFO yang tidak pernah menganggotai lembaga, tidak pernah dilantik di
+bawah s.201 dan tidak muncul di mana-mana dalam rekod SSM tetap terikat dengan
+suci hati s.213, penjagaan dan ketekunan s.213(2), kesetiaan penama s.217,
+penyalahgunaan kedudukan s.218, pelupusan besar s.223 dan transaksi pihak
+berkaitan s.228 — dan terdedah kepada had RM3 juta yang sama.
 
-Cabang s.2 pula merangkumi hujung yang satu lagi: pengasas yang meletak
-jawatan daripada lembaga pengarah demi menjaga persepsi awam, tetapi
-arahannya masih dituruti oleh pengarah-pengarah yang tinggal. Jika majoriti
-lembaga pengarah **biasa** bertindak mengikut arahan tersebut, orang itu
-adalah pengarah bagi setiap tujuan Akta ini.
+Limb s.2 pula menangkap hujung yang satu lagi: pengasas yang meletak jawatan
+daripada lembaga untuk menjaga persepsi tetapi arahannya masih dipatuhi oleh
+pengarah yang tinggal. Jika majoriti lembaga **biasa** bertindak menurut arahan
+tersebut, orang itu ialah pengarah bagi setiap maksud Akta.
 
 ## Apakah sebenarnya yang dikehendaki oleh s.213?
 
-Seksyen 213 terbahagi kepada dua kewajipan yang lazimnya disatukan begitu
-sahaja, walhal ia sepatutnya dibezakan.
+Seksyen 213 terbahagi kepada dua tanggungjawab yang lazimnya dicampuradukkan dan
+sepatutnya tidak.
 
-**s.213(1) — tujuan yang wajar dan itikad baik.** Seorang pengarah hendaklah
-pada setiap masa menggunakan kuasanya menurut Akta ini, untuk tujuan yang
-wajar dan dengan itikad baik demi kepentingan terbaik syarikat. Tiga kehendak
-berasingan terkandung dalam satu ayat itu. Sesuatu kuasa boleh digunakan
-dengan itikad baik sepenuhnya namun masih digunakan untuk tujuan yang tidak
-wajar — contoh klasiknya ialah peruntukan saham yang dibuat secara jujur,
-tetapi bertujuan mencairkan kepentingan pemegang saham saingan dan bukannya
-untuk mengumpul modal.
+**s.213(1) — maksud wajar dan suci hati.** Seorang pengarah hendaklah pada
+setiap masa menjalankan kuasanya menurut Akta, bagi maksud yang wajar dan dengan
+suci hati demi kepentingan terbaik syarikat. Tiga kehendak berasingan terkandung
+dalam ayat itu. Sesuatu kuasa boleh dijalankan dengan suci hati sepenuhnya namun
+masih dijalankan bagi maksud yang tidak wajar — kes klasiknya ialah peruntukan
+saham yang dibuat dengan jujur, tetapi untuk menyahcairkan pemegang saham saingan
+dan bukannya untuk mengumpul modal.
 
-"Kepentingan terbaik syarikat" bermaksud syarikat itu sendiri, bukan
-pemegang saham yang melantik anda dan bukan kumpulan syarikat (group).
-Seksyen 217 menghuraikan ini dengan lebih terperinci bagi pengarah calonan
-dan dibincangkan di bawah.
+"Kepentingan terbaik syarikat" bermaksud syarikat, bukan pemegang saham yang
+melantik anda dan bukan kumpulan. Seksyen 217 menjelaskan perkara ini bagi
+pengarah penama dan dibincangkan di bawah.
 
 **s.213(2) — penjagaan, kemahiran dan ketekunan yang munasabah.** Standard
-ini sengaja dibahagikan kepada dua cabang:
+tersebut sengaja bersifat dua-limb:
 
-- **s.213(2)(a)** — pengetahuan, kemahiran dan pengalaman yang secara
-  munasabah dijangka daripada seorang pengarah **yang memikul tanggungjawab
-  yang sama**. Ini bersifat objektif. Ia bukan soal "apa yang anda tahu";
-  sebaliknya, apa yang sepatutnya diketahui oleh sesiapa yang berada di
-  kedudukan anda, dengan portfolio anda.
+- **s.213(2)(a)** — pengetahuan, kemahiran dan pengalaman yang munasabah dijangka
+  daripada seorang pengarah **yang mempunyai tanggungjawab yang sama**. Ini
+  bersifat objektif. Ia bukan "apa yang anda tahu"; ia ialah apa yang seseorang
+  dalam kedudukan anda, dengan portfolio anda, sepatutnya tahu.
 - **s.213(2)(b)** — **sebarang** pengetahuan, kemahiran dan pengalaman
-  tambahan yang sebenarnya dimiliki oleh pengarah tersebut. Ini bersifat
-  subjektif dan hanya sentiasa menaikkan standard tersebut, tidak pernah
-  menurunkannya. Seorang pengarah yang merupakan akauntan bertauliah dinilai
-  mengikut standard seorang akauntan apabila lembaga pengarah menyemak akaun
-  syarikat. Tiada apa-apa kelonggaran yang setimpal bagi pengarah yang
-  mengetahui kurang daripada tahap minimum objektif tersebut.
+  **tambahan** yang sebenarnya dimiliki oleh pengarah. Ini bersifat subjektif dan
+  ia hanya sentiasa menaikkan standard. Seorang pengarah yang merupakan akauntan
+  bertauliah dipertanggungjawabkan pada standard seorang akauntan apabila lembaga
+  menyemak akaun. Tiada pelepasan setara bagi pengarah yang tahu kurang daripada
+  minimum objektif.
 
-Seksyen 213(3) kemudiannya menjadikan pelanggaran seksyen ini sebagai suatu
-kesalahan yang membawa hukuman sehingga lima tahun penjara, sehingga RM3
-juta, atau kedua-duanya.
+Seksyen 213(3) kemudiannya menjadikan pelanggaran seksyen itu satu kesalahan yang
+membawa hukuman sehingga lima tahun, sehingga RM3 juta, atau kedua-duanya.
 
-## Kewajipan berkaitan yang manakah membawa penalti yang sama?
+## Tanggungjawab berkaitan yang manakah membawa penalti yang sama?
 
-Seksyen 214 hingga 219 terletak di bawah subbahagian yang sama dan
-sebaiknya dibaca sebagai satu skema yang utuh. Perhatikan penomboran seksyen
-dengan teliti — ia kerap disalah laporkan.
+Seksyen 214 hingga 219 terletak di bawah subbahagian yang sama dan paling baik
+dibaca sebagai satu skim. Perhatikan penomboran seksyen dengan teliti — ia kerap
+disalah lapor.
 
-| Seksyen | Kewajipan | Pendedahan individu |
+| Seksyen | Tanggungjawab | Pendedahan individu |
 | --- | --- | --- |
-| s.214 | Peraturan pertimbangan perniagaan (business judgment rule) — satu **pembelaan**, bukan kewajipan | — |
-| s.215 | Pergantungan kepada maklumat yang diberikan oleh pihak lain — satu **pembelaan** | — |
-| s.216 | Tanggungjawab bagi tindakan pihak yang diberi kuasa (delegatee) | — |
-| s.217 | Pengarah calonan tidak boleh mengetepikan kepentingan syarikat demi kepentingan pihak yang melantiknya | 5 tahun / RM3j / kedua-duanya |
-| s.218 | Tiada penyalahgunaan harta, maklumat, kedudukan atau peluang syarikat, dan tiada perniagaan yang bersaing | 5 tahun / RM3j / kedua-duanya |
-| s.219 | Memberitahu syarikat tentang pegangan saham anda dan butiran berkaitan | 5 tahun / RM3j di bawah s.219(1); RM25,000 ditambah RM1,000 sehari di bawah s.219(2) |
-| s.220 | Mengekalkan undang-undang bertulis lain — bukan suatu kewajipan dengan sendirinya | — |
+| s.214 | Kaedah pertimbangan perniagaan — satu **pembelaan**, bukan tanggungjawab | — |
+| s.215 | Pergantungan pada maklumat yang diberikan oleh orang lain — satu **pembelaan** | — |
+| s.216 | Tanggungjawab bagi tindakan penerima wakil kuasa | — |
+| s.217 | Pengarah penama tidak boleh menomorduakan kepentingan syarikat kepada penamanya | 5 tahun / RM3j / kedua-duanya |
+| s.218 | Tiada penyalahgunaan harta, maklumat, kedudukan atau peluang syarikat, dan tiada perniagaan bersaing | 5 tahun / RM3j / kedua-duanya |
+| s.219 | Memberitahu syarikat tentang pegangan saham anda dan butiran berkaitan | 5 tahun / RM3j di bawah s.219(1); RM25,000 tambah RM1,000 sehari di bawah s.219(2) |
+| s.220 | Mengekalkan undang-undang bertulis lain — bukan tanggungjawab dengan sendirinya | — |
 
-Dua kekeliruan yang kerap berlaku wajar dibetulkan dengan jelas.
-**Pergantungan kepada pihak lain ialah s.215, bukan s.214** — s.214 ialah
-peraturan pertimbangan perniagaan. Dan **peruntukan pemuliharaan ialah
-s.220, bukan s.217.** Seksyen 220 memperuntukkan bahawa ss.214 hingga 219
-adalah tambahan kepada, dan bukan mengurangkan, mana-mana **undang-undang
-bertulis** lain berkaitan kewajipan atau liabiliti pengarah atau pegawai.
+Dua salah sandaran yang kerap wajar diperbetulkan secara terang-terangan.
+**Pergantungan pada orang lain ialah s.215, bukan s.214** — s.214 ialah kaedah
+pertimbangan perniagaan. Dan **peruntukan pengekalan ialah s.220, bukan s.217.**
+Seksyen 220 memperuntukkan bahawa ss.214 hingga 219 hendaklah sebagai tambahan
+kepada dan bukan mengurangkan mana-mana **undang-undang bertulis** lain berkaitan
+tanggungjawab atau liabiliti pengarah atau pegawai.
 
-Susunan kata ini penting. Seksyen 220 merujuk kepada undang-undang bertulis
-lain. Pemuliharaan kewajipan di bawah undang-undang am itu sendiri muncul di
-tempat lain, iaitu dalam s.214(1), yang menganggap sesuatu pertimbangan
-perniagaan yang layak sebagai memenuhi s.213(2) **serta kewajipan setara di
-bawah common law dan ekuiti** — susunan kata yang hanya masuk akal kerana
-kewajipan ekuiti tersebut terus wujud bersama-sama statut ini. Kesan
-praktikalnya tetap sama sahaja: pengkodifikasian tidak menggantikan kewajipan
-fidusiari, sebaliknya ia menambah satu lapisan jenayah di atasnya.
+Perkataan itu penting. Seksyen 220 menyebut undang-undang bertulis lain.
+Pengekalan tanggungjawab undang-undang am itu sendiri muncul di tempat lain,
+dalam s.214(1), yang menyifatkan pertimbangan perniagaan yang layak memenuhi
+s.213(2) **dan tanggungjawab setara di bawah common law dan dalam ekuiti** —
+bahasa yang hanya masuk akal kerana tanggungjawab ekuiti tersebut terus wujud di
+samping statut. Kesan praktikalnya adalah sama sahaja: pengkodifikasian tidak
+menggantikan tanggungjawab fidusiari, ia menindan satu lapisan jenayah di
+atasnya.
 
-Seksyen 217 wajar diberi perhatian tersendiri memandangkan cara banyak
-lembaga pengarah di Malaysia dibentuk. Seorang pengarah yang dilantik
-berdasarkan pekerjaannya, atau sebagai wakil seorang ahli, majikan atau
-pemegang debentur, mesti bertindak demi kepentingan terbaik **syarikat**, dan
-apabila kewajipannya terhadap syarikat bercanggah dengan kewajipannya
-terhadap pihak yang melantiknya, dia tidak boleh mengetepikan kepentingan
-syarikat. Seorang wakil ekuiti persendirian (private equity) yang mengundi
-mengikut arahan dana tersebut, bertentangan dengan kepentingan syarikat,
-melakukan suatu kesalahan yang membawa hukuman lima tahun penjara.
+Seksyen 217 wajar diberi perhatian berasingan kerana betapa banyaknya lembaga
+Malaysia dibina. Seorang pengarah yang dilantik berdasarkan pekerjaan, atau
+sebagai wakil seorang ahli, majikan atau pemegang debentur, mesti bertindak demi
+kepentingan terbaik **syarikat**, dan apabila tanggungjawabnya kepada syarikat
+bercanggah dengan tanggungjawabnya kepada penamanya, dia tidak boleh
+menomorduakan kepentingan syarikat. Seorang penama ekuiti persendirian yang
+mengundi mengikut arahan dana, bertentangan dengan kepentingan syarikat,
+melakukan satu kesalahan yang membawa hukuman lima tahun.
 
-## Apakah dua pembelaan berkanun tersebut, dan apa yang tidak dilindunginya?
+## Apakah dua pembelaan berkanun itu, dan apa yang tidak dilindunginya?
 
-### Peraturan pertimbangan perniagaan (s.214)
+### Kaedah pertimbangan perniagaan (s.214)
 
-Seorang pengarah yang membuat sesuatu pertimbangan perniagaan dianggap telah
-memenuhi s.213(2) serta kewajipan setara di bawah common law dan ekuiti jika
-**keempat-empat** syarat berikut dipenuhi:
+Seorang pengarah yang membuat pertimbangan perniagaan disifatkan memenuhi
+s.213(2) serta tanggungjawab common law dan ekuiti yang setara jika **keempat-empat**
+syarat dipenuhi:
 
-1. pertimbangan itu dibuat untuk tujuan yang wajar dan dengan itikad baik;
-2. pengarah tersebut tiada **kepentingan peribadi material** dalam perkara
-   berkenaan;
-3. pengarah tersebut mendapat maklumat tentang perkara berkenaan setakat
-   yang munasabah dipercayainya wajar mengikut keadaan; dan
-4. pengarah tersebut secara munasabah percaya bahawa pertimbangan itu demi
-   kepentingan terbaik syarikat.
+1. pertimbangan itu dibuat bagi maksud yang wajar dan dengan suci hati;
+2. pengarah itu **tiada kepentingan peribadi yang material** dalam hal perkara
+   itu;
+3. pengarah itu dimaklumkan tentang hal perkara itu setakat yang secara munasabah
+   dipercayainya wajar dalam keadaan itu; dan
+4. pengarah itu secara munasabah mempercayai pertimbangan itu demi kepentingan
+   terbaik syarikat.
 
-"Pertimbangan perniagaan" ditakrifkan dalam s.214(2) sebagai apa-apa
-keputusan sama ada untuk mengambil tindakan atau tidak berhubung sesuatu
-perkara yang berkaitan dengan perniagaan syarikat — yang secara nyata turut
-merangkumi keputusan untuk **tidak** bertindak.
+"Pertimbangan perniagaan" ditakrifkan dalam s.214(2) sebagai sebarang keputusan
+sama ada untuk mengambil tindakan atau tidak berkenaan sesuatu perkara yang
+berkaitan dengan perniagaan syarikat — yang secara nyata termasuk keputusan
+**untuk tidak** bertindak.
 
-Hadnya tepat: **s.214 hanya menganggap pematuhan terhadap s.213(2).** Ia
-tidak menyentuh s.213(1) langsung. Seorang pengarah yang bertindak untuk
-tujuan yang tidak wajar langsung tidak boleh mencapai peraturan
-pertimbangan perniagaan ini, kerana syarat 1 dengan sendirinya gagal
-dipenuhi. Peraturan ini melindungi keputusan yang salah dari segi komersial.
-Ia tidak melindungi keputusan yang tidak setia.
+Hadnya adalah tepat: **s.214 hanya menyifatkan pematuhan dengan s.213(2)
+sahaja.** Ia tidak menyebut apa-apa tentang s.213(1). Seorang pengarah yang
+bertindak bagi maksud yang tidak wajar langsung tidak dapat mencapai kaedah
+pertimbangan perniagaan, kerana syarat 1 gagal menurut terma-termanya sendiri.
+Kaedah itu melindungi keputusan yang salah dari segi komersial. Ia tidak
+melindungi keputusan yang tidak setia.
 
-Syarat 2 ialah syarat yang paling kerap gagal dalam praktiknya. Apabila
-seorang pengarah mempunyai sebarang kepentingan peribadi material dalam
-perkara berkenaan, pembelaan ini terus lenyap — dan itulah tepatnya keadaan
-apabila sesuatu transaksi pihak berkaitan, pinjaman pengarah atau
-pembaharuan kontrak perkhidmatan dibentangkan di hadapan sebuah lembaga
-pengarah yang kecil.
+Syarat 2 ialah yang gagal dalam amalan. Apabila seorang pengarah mempunyai
+sebarang kepentingan peribadi yang material dalam hal perkara itu, pembelaan itu
+lenyap — dan itulah tepatnya keadaan apabila transaksi pihak berkaitan, pinjaman
+pengarah atau pembaharuan kontrak perkhidmatan dibawa ke hadapan lembaga yang
+kecil.
 
-### Pergantungan kepada pihak lain (s.215)
+### Pergantungan pada orang lain (s.215)
 
-Seksyen 215(1) membenarkan seorang pengarah, dalam melaksanakan
-kewajipannya, bergantung kepada maklumat, nasihat profesional atau pakar,
-pendapat, laporan atau penyata — termasuk penyata kewangan dan data
-kewangan lain — yang disediakan oleh:
+Seksyen 215(1) membenarkan seorang pengarah, dalam menjalankan tanggungjawabnya,
+bergantung pada maklumat, nasihat profesional atau pakar, pendapat, laporan atau
+kenyataan — termasuk penyata kewangan dan data kewangan lain — yang disediakan
+oleh:
 
-- mana-mana **pegawai** syarikat yang dipercayai oleh pengarah tersebut atas
-  alasan munasabah sebagai boleh dipercayai dan kompeten dalam perkara
-  berkenaan;
-- mana-mana orang lain yang **dilantik oleh syarikat** berhubung perkara
-  yang dipercayai secara munasabah oleh pengarah tersebut berada dalam
-  kecekapan profesional atau kepakaran orang itu;
-- **pengarah lain** berhubung perkara yang termasuk dalam kuasa pengarah
-  itu;
-- mana-mana **jawatankuasa** lembaga pengarah yang pengarah tersebut tidak
-  berkhidmat di dalamnya, berhubung perkara yang termasuk dalam kuasa
-  jawatankuasa itu.
+- mana-mana **pegawai** syarikat yang dipercayai oleh pengarah atas alasan
+  munasabah boleh dipercayai dan berkebolehan dalam perkara itu;
+- mana-mana orang lain yang **diambil khidmat oleh syarikat** dalam perkara yang
+  secara munasabah dipercayai oleh pengarah berada dalam kecekapan profesional
+  atau pakar orang tersebut;
+- **pengarah lain** berhubung perkara dalam bidang kuasa pengarah tersebut;
+- mana-mana **jawatankuasa lembaga** yang pengarah itu tidak berkhidmat di
+  dalamnya, berhubung perkara dalam bidang kuasa jawatankuasa itu.
 
-Kemudian datang syarat yang menamatkan pembelaan ini bagi kebanyakan lembaga
-pengarah. Seksyen 215(2) menganggap pergantungan itu atas alasan munasabah
-hanya jika ia dibuat dengan itikad baik **dan selepas membuat penilaian
-bebas** terhadap maklumat tersebut, dengan mengambil kira pengetahuan
-pengarah tersebut tentang syarikat serta kerumitan struktur dan operasinya.
+Kemudian datang syarat yang mengakhiri pembelaan bagi kebanyakan lembaga.
+Seksyen 215(2) menyifatkan pergantungan itu atas alasan munasabah hanya jika ia
+dibuat dengan suci hati **dan selepas membuat penilaian bebas** terhadap maklumat
+itu, dengan mengambil kira pengetahuan pengarah tentang syarikat dan kerumitan
+struktur serta operasinya.
 
-Penilaian bebas bukanlah perkara yang sama dengan menerima sesuatu laporan.
-Seorang pengarah yang menerima satu set akaun pengurusan tanpa menyoal
-siasatnya tidak dianggap telah membuat penilaian bebas, dan s.215 tidak
-membantunya.
+Penilaian bebas bukanlah sama dengan menerima sesuatu laporan. Seorang pengarah
+yang menerima satu set akaun pengurusan tanpa menyoal siasatnya belum membuat
+penilaian bebas, dan s.215 tidak membantu.
 
-### Pewakilan kuasa (s.216)
+### Perwakilan kuasa (s.216)
 
-Seksyen 216(1) membenarkan lembaga pengarah mewakilkan mana-mana kuasanya
-kepada jawatankuasa, seorang pengarah, pegawai, pekerja, pakar atau
-mana-mana orang lain. Seksyen 216(2) seterusnya membuat para pengarah
-bertanggungjawab atas penggunaan kuasa tersebut oleh pihak yang diberi kuasa
-(delegatee) **seolah-olah mereka sendiri yang menggunakannya**.
+Seksyen 216(1) membenarkan lembaga mewakilkan mana-mana kuasanya kepada satu
+jawatankuasa, seorang pengarah, seorang pegawai, seorang pekerja, seorang pakar
+atau mana-mana orang lain. Seksyen 216(2) kemudiannya menjadikan para pengarah
+bertanggungjawab bagi penjalanan kuasa oleh penerima wakil kuasa **seolah-olah
+mereka sendiri yang menjalankannya**.
 
-Jalan keluar di bawah s.216(3) mempunyai dua cabang, dan kedua-duanya mesti
-dipenuhi: para pengarah percaya atas alasan munasabah pada setiap masa bahawa
-pihak yang diberi kuasa itu akan menggunakan kuasa tersebut selaras dengan
-kewajipan para pengarah sendiri, **dan** percaya atas alasan munasabah,
-dengan itikad baik dan selepas siasatan wajar dilakukan apabila keadaan
-menunjukkan keperluan untuk berbuat demikian, bahawa pihak yang diberi kuasa
-itu boleh dipercayai dan kompeten.
+Jalan keluar dalam s.216(3) mempunyai dua limb, kedua-duanya mesti dipenuhi: para
+pengarah percaya atas alasan munasabah pada setiap masa bahawa penerima wakil
+kuasa akan menjalankan kuasa itu selaras dengan tanggungjawab pengarah itu
+sendiri, **dan** percaya atas alasan munasabah, dengan suci hati dan selepas
+siasatan wajar apabila keadaan menunjukkan keperluan untuk siasatan, bahawa
+penerima wakil kuasa itu boleh dipercayai dan berkebolehan.
 
-"Siasatan wajar, jika keadaan menunjukkan keperluan untuk siasatan tersebut"
-ialah frasa operatifnya. Petanda amaran — peletakan jawatan, pendapat audit
-bersyarat, percanggahan yang tidak dijelaskan — menukarkan suatu pewakilan
-yang pasif menjadi suatu kewajipan untuk bertanya.
+"Siasatan wajar, jika keadaan menunjukkan keperluan untuk siasatan itu" ialah
+frasa yang beroperasi. Tanda-tanda amaran — perletakan jawatan, pendapat audit
+berkelayakan, variasi yang tidak dapat dijelaskan — menukarkan perwakilan pasif
+menjadi tanggungjawab untuk bertanya.
 
 ## Bolehkah syarikat melindungi saya melalui kontrak atau insurans?
 
-Kebanyakannya tidak, dan perlembagaan syarikat yang anda warisi semasa
-pemerbadanan mungkin mengandungi klausa yang terbatal.
+Kebanyakannya tidak, dan perlembagaan yang anda warisi semasa pemerbadanan
+mungkin mengandungi klausa yang batal.
 
-**Seksyen 288** membatalkan mana-mana peruntukan, sama ada dalam
-perlembagaan syarikat atau dalam mana-mana kontrak dengan syarikat atau
-selainnya, yang mengecualikan seorang pegawai atau juruaudit daripada, atau
-mengindemnitinya terhadap, sebarang liabiliti yang sepatutnya melekat
-mengikut undang-undang akibat kecuaian, keingkaran, pelanggaran kewajipan
-atau pelanggaran amanah berhubung syarikat. Klausa indemniti yang menyeluruh
-bukan sekadar tidak boleh dikuatkuasakan sebahagiannya — seksyen ini
-membatalkannya sepenuhnya.
+**Seksyen 288** membatalkan mana-mana peruntukan, sama ada dalam perlembagaan
+atau dalam mana-mana kontrak dengan syarikat atau selainnya, yang mengecualikan
+seorang pegawai atau juruaudit daripada, atau menanggung ruginya terhadap,
+sebarang liabiliti yang menurut undang-undang selainnya terpakai kerana
+kecuaian, keingkaran, pelanggaran tanggungjawab atau pelanggaran amanah berhubung
+syarikat. Klausa tanggung rugi menyeluruh bukan sekadar tidak boleh
+dikuatkuasakan sebahagian — seksyen itu membatalkannya.
 
-**Seksyen 289** kemudian menetapkan apa yang boleh dilakukan oleh sesebuah
-syarikat:
+**Seksyen 289** kemudiannya mengecualikan apa yang boleh dilakukan oleh syarikat:
 
-- **s.289(3)** — mengindemniti seorang pegawai untuk **kos** dalam prosiding
-  apabila penghakiman diberikan memihak kepadanya, dia dibebaskan, dia
-  diberikan relif di bawah Akta ini, atau prosiding tersebut dihentikan atau
-  tidak diteruskan;
-- **s.289(4)** — mengindemniti terhadap liabiliti kepada **orang selain
-  syarikat itu sendiri**, serta kos membela atau menyelesaikan tuntutan
-  sedemikian, tetapi **tidak termasuk** sebarang denda yang dikenakan dalam
-  prosiding jenayah dan sebarang jumlah yang perlu dibayar kepada pihak
-  berkuasa kawal selia sebagai penalti akibat ketidakpatuhan yang bersifat
-  kawal selia.
+- **s.289(3)** — menanggung rugi seorang pegawai bagi **kos** dalam prosiding
+  apabila penghakiman diberikan memihak kepadanya, dia dibebaskan, dia diberi
+  pelepasan di bawah Akta, atau prosiding itu diberhentikan atau tidak diteruskan;
+- **s.289(4)** — menanggung rugi terhadap liabiliti **kepada orang selain
+  syarikat**, dan kos membela atau menyelesaikan tuntutan sedemikian, tetapi
+  **tidak termasuk** sebarang denda yang dikenakan dalam prosiding jenayah dan
+  sebarang jumlah yang kena dibayar kepada pihak berkuasa kawal selia sebagai
+  penalti bagi ketidakpatuhan yang bersifat kawal selia.
 
-Dibaca bersama: denda RM3 juta di bawah s.213(3) tidak boleh sesekali
-dibayar oleh syarikat bagi pihak anda, begitu juga penalti kawal selia.
-Insurans pengarah dan pegawai beroperasi dalam sempadan yang sama.
+Dibaca bersama: denda RM3 juta di bawah s.213(3) tidak sekali-kali boleh dibayar
+oleh syarikat bagi pihak anda, dan begitu juga penalti kawal selia. Insurans
+pengarah dan pegawai (D&O) beroperasi dalam sempadan yang sama.
 
-## Bagaimanakah kewajipan ini sebenarnya dikuatkuasakan?
+## Bagaimanakah tanggungjawab ini sebenarnya dikuatkuasakan?
 
-Terdapat empat laluan bebas, dan ia bukan alternatif antara satu sama lain —
-kelakuan yang sama boleh terjerumus ke dalam lebih daripada satu laluan.
+Empat laluan bebas, dan ia bukan alternatif — kelakuan yang sama boleh mencetuskan
+lebih daripada satu.
 
-**1. Pendakwaan jenayah oleh SSM.** Kesalahan di bawah s.213(3) didakwa
-terhadap individu tersebut. Sabitan di bawah ss.213, 217, 218, 228 atau 539
-seterusnya mencetuskan hilang kelayakan automatik di bawah s.198(1)(d).
+**1. Pendakwaan jenayah oleh SSM.** Kesalahan s.213(3) didakwa terhadap
+individu. Sabitan di bawah ss.213, 217, 218, 228 atau 539 kemudiannya mencetuskan
+hilang kelayakan automatik di bawah s.198(1)(d).
 
-**2. Tindakan derivatif berkanun (ss.347–348).** Seorang pengadu boleh,
-dengan kebenaran Mahkamah, membawa prosiding atas nama syarikat. Tempoh
-masanya ketat dan simetri: **notis bertulis tiga puluh hari kepada para
-pengarah** tentang niat untuk memohon kebenaran di bawah s.348(2), dan
-sebaik sahaja kebenaran diberikan, prosiding mesti dimulakan **dalam tempoh
-tiga puluh hari** di bawah s.348(3). Mahkamah akan mempertimbangkan sama ada
-pengadu itu bertindak dengan itikad baik dan sama ada ia kelihatan prima
-facie demi kepentingan terbaik syarikat. Prosiding yang telah dibawa tidak
-boleh dihentikan, dikompromikan atau diselesaikan kecuali dengan kebenaran
-Mahkamah di bawah s.348(5).
+Tiada jadual kompaun yang diwartakan atau arahan amalan yang menetapkan jumlah
+kompaun bagi kesalahan tanggungjawab-pengarah — Akta Syarikat 2016 tidak
+mengandungi peruntukan pengkompaunannya sendiri. Satu-satunya kuasa
+pengkompaunan SSM ialah kuasa umum dalam s.38A(1) Akta Suruhanjaya Syarikat
+Malaysia 2001 (Akta 614), yang mana Pendaftar boleh, **dengan keizinan bertulis
+Pendakwa Raya**, mengkompaun sesuatu kesalahan bagi jumlah **tidak melebihi 50%
+daripada denda maksimum** — jadi sehingga RM1.5 juta berbanding had RM3 juta. Itu
+ialah budi bicara mengikut kes, bukan tarif. Satu-satunya instrumen kompaun yang
+diterbitkan oleh SSM, Arahan Amalan 1/2017, meliputi keingkaran serahan lewat,
+bukan kesalahan tanggungjawab-pengarah.
 
-**3. Relif akibat penindasan (s.346).** Seorang ahli atau pemegang debentur
-boleh memohon apabila urusan syarikat dijalankan dengan cara yang menindas
-atau mengabaikan kepentingan mereka. Inilah laluan yang paling kerap diambil
+**2. Tindakan derivatif berkanun (ss.347–348).** Seorang pengadu boleh, dengan
+kebenaran Mahkamah, membawa prosiding atas nama syarikat. Jam masanya ketat dan
+simetri: **notis bertulis tiga puluh hari kepada pengarah** tentang niat untuk
+memohon kebenaran di bawah s.348(2), dan sebaik kebenaran diberikan, prosiding
+mesti dimulakan **dalam tempoh tiga puluh hari** di bawah s.348(3). Mahkamah
+mempertimbangkan sama ada pengadu bertindak dengan suci hati dan sama ada ia
+kelihatan prima facie demi kepentingan terbaik syarikat. Prosiding yang telah
+dibawa tidak boleh diberhentikan, dikompromi atau diselesaikan kecuali dengan
+kebenaran Mahkamah di bawah s.348(5).
+
+**3. Pelepasan penindasan (s.346).** Seorang ahli atau pemegang debentur boleh
+memohon apabila hal ehwal syarikat dikendalikan dengan cara yang menindas atau
+tidak mengendahkan kepentingan mereka. Inilah laluan yang paling banyak diambil
 oleh pertikaian pemegang saham di Malaysia.
 
-**4. Liabiliti peribadi semasa kebankrapan.** Seksyen 540(1) membenarkan
-Mahkamah, atas permohonan seorang penyelesai (liquidator), pemiutang atau
-penyumbang (contributory), mengisytiharkan mana-mana orang yang secara sedar
-menjadi pihak kepada penjalanan perniagaan dengan niat menipu pemiutang atau
-bagi apa-apa tujuan menipu lain, **bertanggungjawab secara peribadi, tanpa
-sebarang had liabiliti**, atas hutang-hutang syarikat. Seksyen 539
-melekatkan liabiliti apabila rekod perakaunan yang wajar tidak disimpan.
-Liabiliti terhad adalah suatu perisai yang berlubang, dan s.540 ialah lubang
-itu.
+**4. Liabiliti peribadi dalam ketakmampuan bayar.** Seksyen 540(1) membenarkan
+Mahkamah, atas permohonan seorang pelikuidasi, pemiutang atau penyumbang,
+mengisytiharkan mana-mana orang yang secara sedar menjadi pihak kepada
+penjalanan perniagaan dengan niat untuk menipu pemiutang atau bagi apa-apa maksud
+fraud **bertanggungjawab secara peribadi, tanpa sebarang had liabiliti**, bagi
+hutang syarikat. Seksyen 539 mengenakan liabiliti apabila rekod perakaunan yang
+wajar tidak disimpan. Liabiliti terhad ialah perisai dengan lubang di dalamnya,
+dan s.540 ialah lubang itu.
 
 ## Kesilapan lazim
 
-**Menganggap s.213(1) dan s.213(2) sebagai satu kewajipan yang sama.**
-Kandungan dan pembelaan bagi kedua-duanya adalah berbeza. Peraturan
-pertimbangan perniagaan hanya mencakupi s.213(2). Penasihat yang
-menggambarkan s.214 sebagai "pembelaan kepada pelanggaran kewajipan
-pengarah" secara keseluruhannya telah membesar-besarkannya dengan ketara.
+**Menganggap s.213(1) dan s.213(2) sebagai satu tanggungjawab.** Kedua-duanya
+mempunyai kandungan berbeza dan pembelaan berbeza. Kaedah pertimbangan perniagaan
+hanya mencapai s.213(2). Penasihat yang menggambarkan s.214 sebagai "pembelaan
+kepada pelanggaran tanggungjawab pengarah" melebih-lebihkannya secara material.
 
-**Memetik s.214 sebagai peruntukan pergantungan.** Yang sebenarnya ialah
-s.215. Kesilapan ini muncul dalam bilangan rumusan Malaysia yang diterbitkan
-secara mengejutkan, dan ia penting kerana kedua-dua peruntukan ini mempunyai
-syarat yang sama sekali berbeza — s.214 memerlukan ketiadaan kepentingan
-peribadi material, manakala s.215 memerlukan penilaian bebas.
+**Menyebut s.214 sebagai peruntukan pergantungan.** Ia ialah s.215. Kesilapan ini
+muncul dalam sebilangan besar ringkasan Malaysia yang diterbitkan, dan ia penting
+kerana kedua-dua peruntukan itu mempunyai syarat yang sama sekali berbeza — s.214
+memerlukan ketiadaan kepentingan peribadi yang material, s.215 memerlukan
+penilaian bebas.
 
-**Menganggap eksekutif kanan (C-suite) berada di luar rejim kewajipan ini.**
-Seksyen 210 meletakkan CEO, CFO dan COO tepat di dalam ss.213–218, 223 dan
-228. Sebuah Sdn Bhd yang tidak tersenarai, yang pengarah kewangannya bukan
-ahli lembaga pengarah, sepatutnya tetap memberi taklimat kepada orang itu
-tentang peluang di bawah s.218 dan peraturan pihak berkaitan di bawah s.228,
-sama seperti sekiranya dia adalah pengarah.
+**Mengandaikan C-suite berada di luar rejim tanggungjawab.** Seksyen 210
+meletakkan CEO, CFO dan COO tepat di dalam ss.213–218, 223 dan 228. Sebuah Sdn
+Bhd tidak tersenarai yang pengarah kewangannya tidak berada dalam lembaga
+sepatutnya memberi taklimat kepada orang itu tentang peluang s.218 dan peraturan
+pihak berkaitan s.228 seolah-olah mereka pengarah.
 
-**Bergantung kepada klausa indemniti dalam perlembagaan syarikat.** Jika
-klausa itu mengindemniti terhadap liabiliti akibat pelanggaran kewajipan,
-s.288 membatalkannya. Banyak perlembagaan syarikat yang diguna pakai semasa
-pemerbadanan daripada templat generik masih mengandungi klausa sedemikian.
+**Bergantung pada klausa tanggung rugi dalam perlembagaan.** Jika ia menanggung
+rugi terhadap liabiliti kerana pelanggaran tanggungjawab, s.288 membatalkannya.
+Banyak perlembagaan yang diterima pakai semasa pemerbadanan daripada templat
+generik masih membawa klausa sedemikian.
 
-**Mempercayai bahawa peletakan jawatan menamatkan pendedahan.** Ia tidak
-menamatkan pendedahan bagi tindakan yang dilakukan semasa memegang jawatan,
-dan jika lembaga pengarah masih biasa bertindak mengikut arahan anda,
-takrifan s.2 terus mengekalkan status anda sebagai pengarah tanpa mengira
-apa yang tertulis dalam daftar. Seksyen 227(7) secara berasingan
-memperluaskan peraturan kehilangan jawatan kepada mana-mana orang yang
-**pernah pada bila-bila masa** menjadi pengarah.
+**Mempercayai perletakan jawatan mengakhiri pendedahan.** Ia tidak mengakhiri
+pendedahan bagi perbuatan yang dilakukan semasa memegang jawatan, dan jika
+lembaga terus biasa bertindak menurut arahan anda, takrif s.2 mengekalkan anda
+sebagai pengarah tanpa mengira apa yang tercatat dalam daftar. Seksyen 227(7)
+secara berasingan memperluas peraturan kehilangan jawatan kepada mana-mana orang
+yang **pada bila-bila masa pernah menjadi** seorang pengarah.
 
-**Menganggap seorang pengarah tunggal dan pemegang saham tunggal boleh
-berbuat sesuka hati.** Kewajipan tersebut terpakai terhadap syarikat sebagai
-entiti undang-undang yang berasingan. Seksyen 218(1) memerlukan persetujuan
-atau pengesahan sesuatu **mesyuarat agung** sebelum seorang pengarah
-menggunakan harta, maklumat, kedudukan atau peluang syarikat untuk manfaat
-peribadi — dan dalam sebuah syarikat satu orang, ini bermakna mesyuarat
-tersebut mesti benar-benar diadakan dan diminitkan, bukan sekadar dianggap
-telah berlaku.
+**Mengandaikan seorang pengarah tunggal dan pemegang saham tunggal boleh berbuat
+sesuka hatinya.** Tanggungjawab itu tertumpu kepada syarikat sebagai satu entiti
+undang-undang yang berasingan. Seksyen 218(1) memerlukan keizinan atau ratifikasi
+oleh **mesyuarat agung** sebelum seorang pengarah menggunakan harta, maklumat,
+kedudukan atau peluang syarikat untuk manfaat peribadi — dan dalam syarikat
+seorang, itu bermaksud benar-benar mengadakan dan meminitkan mesyuarat itu, bukan
+mengandaikannya.
 
-## Langkah seterusnya
+## Apa yang seterusnya
 
-Telusuri kewajipan-kewajipan khusus mengikut susunan yang biasa ditemui oleh
-seorang setiausaha syarikat. Kepentingan dalam kontrak adalah kewajipan yang
-paling kerap gagal dipatuhi dalam praktiknya, dan kegagalan itu biasanya
-berpunca daripada minit yang tiada — lihat
-[pendedahan kepentingan](/company-secretary/disclosure-of-interest). Kewajipan
-pemberitahuan peribadi berkenaan pegangan saham pula tertakluk kepada tempoh
-14 hari yang jarang diketahui oleh kebanyakan pengarah, dibincangkan dalam
-[pemberitahuan pegangan saham pengarah](/company-secretary/director-shareholding-notification).
+Telusuri tanggungjawab khusus mengikut susunan seorang setiausaha syarikat
+menemuinya. Kepentingan dalam kontrak ialah tanggungjawab yang paling kerap gagal
+dalam amalan, dan kegagalannya biasanya minit yang tertinggal — lihat
+[pendedahan kepentingan](/ms/company-secretary/disclosure-of-interest).
+Tanggungjawab pemberitahuan peribadi mengenai pegangan saham berjalan pada jam
+14 hari yang kebanyakan pengarah tidak pernah dengar, diliputi dalam
+[pemberitahuan pegangan saham pengarah](/ms/company-secretary/director-shareholding-notification).
 
-Bagi perubahan dalam lembaga pengarah, [pelantikan dan peletakan jawatan
-pengarah](/company-secretary/appoint-resign-director) menghuraikan peraturan
-persetujuan, bilangan minimum dan kekosongan jawatan, manakala
-[pemecatan seorang pengarah](/company-secretary/remove-a-director) merangkumi
-larangan resolusi bertulis yang menjerat kebanyakan syarikat persendirian.
-Berkenaan aliran wang kepada pengarah, lihat
-[pinjaman kepada pengarah](/company-secretary/loans-to-directors) dan
-[kelulusan fi pengarah](/company-secretary/directors-fees-approval).
+Bagi perubahan lembaga, [melantik dan meletak jawatan pengarah](/ms/company-secretary/appoint-resign-director)
+menetapkan peraturan keizinan, bilangan minimum dan pengosongan jawatan, dan
+[memberhentikan seorang pengarah](/ms/company-secretary/remove-a-director)
+meliputi larangan resolusi bertulis yang menangkap kebanyakan syarikat
+persendirian. Mengenai wang yang mengalir kepada pengarah, lihat
+[pinjaman kepada pengarah](/ms/company-secretary/loans-to-directors)
+dan [kelulusan yuran pengarah](/ms/company-secretary/directors-fees-approval).

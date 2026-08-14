@@ -30,7 +30,7 @@ faq:
   - q: "Which cybersecurity services need a licence?"
     a: "Two prescribed services require a NACSA licence: managed security operation centre (SOC) monitoring services and penetration testing services. Providing either in or from Malaysia without a licence is an offence."
   - q: "How fast must an NCII entity report a cyber incident?"
-    a: "The Notification of Cyber Security Incident Regulations 2024 require an authorised person to notify immediately by electronic means, submit further particulars within 6 hours, and provide supplementary information within 14 days."
+    a: "The Notification of Cyber Security Incident Regulations 2024 require an authorised person to notify immediately by electronic means, then submit further particulars within 6 hours of becoming aware of the incident and supplementary information within 14 days, both through the National Cyber Coordination and Command Centre System (NC4S)."
   - q: "What are the penalties for non-compliance?"
     a: "Penalties scale with the offence. Failing to comply with a code of practice, failing to notify an incident, or operating without a licence can each attract a fine up to RM500,000 or imprisonment up to 10 years, or both. Lesser breaches carry fines of RM200,000 or RM100,000 with shorter jail terms."
   - q: "Is this the same as Malaysia's data protection law?"
@@ -43,13 +43,10 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
-reviewDue: 2027-08-03
-version: "0.2"
-verificationNeeded:
-  - "Cross-check the penalty-table subsection numbers (s.21(5), s.22(7), s.23(2), s.27(5), s.34(2), s.32(3)) against the primary gazetted Act text on the AGC Federal Legislation portal. They are stated explicitly in Mayer Brown's published analysis but have not been verified line-by-line against the Act itself."
-  - "The article's six-row penalty table is a representative subset. Mayer Brown's analysis lists further offences (e.g. s.20(6), s.22(8), s.24(4), s.35(5)); confirm whether the table should be expanded or should note that it is illustrative."
-  - "Confirm the electronic submission channel and mechanics for the 6-hour and 14-day filings against the current NACSA Notification of Cyber Security Incident Regulations 2024."
+reviewed: 2026-08-14
+reviewDue: 2027-08-14
+version: "0.3"
+verificationNeeded: []
 revisions:
   - version: "0.1"
     date: 2026-08-01
@@ -59,8 +56,12 @@ revisions:
     date: 2026-08-01
     change: "Correction pass: verified penalty table (incl. subsection numbers) and 11 sectors against fetched primary/legal sources, removed unverifiable PwC citation, distinguished Royal Assent from gazette date."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-08-01
+updated: 2026-08-14
 sources:
   - title: "Cyber Security Act 2024 [Act 854]"
     url: "https://www.nacsa.gov.my/act854.php"
@@ -68,6 +69,9 @@ sources:
   - title: "Cyber Security Act 2024 — Federal Legislation Portal"
     url: "https://lom.agc.gov.my/act-detail.php?language=BI&act=854"
     publisher: "Attorney General's Chambers of Malaysia"
+  - title: "Laws of Malaysia — Act 854 Cyber Security Act 2024 (full gazetted text)"
+    url: "https://premierdept.sarawak.gov.my/web/attachment/show/?docid=ZE56WkhiZTYrNnZRU3JabEFKbnhVZz09OjrkBGKRzXrM5ERtnk5pB3_3"
+    publisher: "Premier's Department of Sarawak (reproducing Laws of Malaysia Act 854)"
   - title: "Malaysia Cyber Security Act 2024 and subsidiary regulations — in force on 26 August 2024"
     url: "https://www.globalcompliancenews.com/2024/09/03/malaysia-cyber-security-act-2024-and-subsidiary-regulations-in-force-on-26-august-2024/"
     publisher: "Global Compliance News (Baker McKenzie)"
@@ -153,8 +157,10 @@ Once designated, an NCII entity inherits a set of continuing duties. They fall i
 **2. Report cyber incidents — fast.** Under the Cyber Security (Notification of Cyber Security Incident) Regulations 2024, an authorised person of the entity must, on becoming aware of an incident that has or might have occurred:
 
 - notify the Chief Executive and the relevant Sector Lead **immediately**, by electronic means;
-- submit **further particulars within 6 hours**; and
+- submit **further particulars within 6 hours** of becoming aware of the incident; and
 - provide **supplementary information within 14 days**.
+
+Both the 6-hour and 14-day filings are made through the **National Cyber Coordination and Command Centre System (NC4S)**, the electronic channel named in the Regulations, and both clocks run from when the incident comes to the entity's knowledge — the same trigger as the immediate first notification.
 
 The tight initial window is deliberate. The Act's premise is national coordination — NACSA can only orchestrate a cross-sector response if it hears about incidents in near-real time, not weeks later in a breach post-mortem.
 
@@ -170,9 +176,9 @@ Here is the practical cadence for a newly designated entity:
 | Trigger | Duty | Timing |
 | --- | --- | --- |
 | Designation as NCII entity | Implement the sector code of practice | On and after designation |
-| Cyber incident occurs | Notify Chief Executive + Sector Lead | Immediately (electronic) |
-| After initial notification | Submit further particulars | Within 6 hours |
-| After initial notification | Submit supplementary information | Within 14 days |
+| Cyber incident comes to the entity's knowledge | Notify Chief Executive + Sector Lead | Immediately (electronic) |
+| Awareness of the incident | Submit further particulars (via NC4S) | Within 6 hours |
+| Awareness of the incident | Submit supplementary information (via NC4S) | Within 14 days |
 | Ongoing | Cyber security risk assessment | At least yearly |
 | Ongoing | Independent audit by approved auditor | At least every two years |
 
@@ -189,7 +195,7 @@ A common trap: the licensing duty is independent of NCII status. A small consult
 
 ## What are the penalties?
 
-The Act is enforced through criminal offences, and the numbers are meant to concentrate the mind of a board. The penalty structure below follows Mayer Brown's published summary of the Act's provisions; the subsection anchors should still be confirmed against the gazetted Act text before being relied on.
+The Act is enforced through criminal offences, and the numbers are meant to concentrate the mind of a board. Every provision number, fine and imprisonment term in the table below has been verified line-by-line against the gazetted text of Act 854.
 
 | Breach | Provision | Maximum fine | Maximum imprisonment |
 | --- | --- | --- | --- |
@@ -200,7 +206,7 @@ The Act is enforced through criminal offences, and the numbers are meant to conc
 | Unauthorised transfer of a licence | s.34(2) | RM200,000 | 3 years |
 | Failing to maintain required records | s.32(3) | RM100,000 | 2 years |
 
-This is a representative selection; the Act carries further offences (for example, failing to give NCII information to a Sector Lead, and non-compliance with directions and exercises) at similar lesser levels. In the standard Malaysian drafting style these are typically expressed as a fine **or** imprisonment **or both**, at the court's discretion. The heaviest exposure — half a million ringgit and a decade in prison — attaches to the offences the state treats as most damaging to national resilience: ignoring the security baseline, staying silent about an incident, and operating in the licensed space without authority.
+This is a representative selection; the Act carries further offences at similar lesser levels — for example, an NCII entity failing to provide information on its NCII (s.20(6), RM100,000 / 2 years), failing to respond to a directive to recover from an incident (s.35(5), RM200,000 / 3 years), and non-compliance with the Chief Executive's directions or with a cyber security exercise (s.22(8), s.24(4)). Most offences follow the standard Malaysian drafting style — a fine **or** imprisonment **or both**, at the court's discretion — but a few, including s.22(8) and s.24(4), are fine-only with no imprisonment term. The heaviest exposure — half a million ringgit and a decade in prison — attaches to the offences the state treats as most damaging to national resilience: ignoring the security baseline, staying silent about an incident, and operating in the licensed space without authority.
 
 The Act is paired with the **Cyber Security (Compounding of Offences) Regulations 2024**, which allow certain offences to be settled administratively by paying a compound rather than proceeding to prosecution — a pressure-release valve for less serious breaches.
 

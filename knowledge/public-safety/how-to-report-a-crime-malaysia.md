@@ -12,14 +12,14 @@ mode: "practical"
 contentType: "guide"
 sensitivity: "none"
 
-answer: "Jika jenayah sedang berlaku, dail 999 dahulu. Untuk membuat laporan polis rasmi, pergi ke mana-mana balai polis dan beri maklumat kepada pegawai bertugas; di bawah Seksyen 107 Kanun Tatacara Jenayah maklumat lisan itu direkodkan secara bertulis, dibaca semula kepada anda, dan anda menandatanganinya, kemudian anda menerima nombor laporan dan salinan. Kehilangan dokumen atau barang yang tidak berkait jenayah (contohnya kad pengenalan atau lesen) boleh dilaporkan secara online melalui e-Reporting PDRM. Jika ditipu dalam talian dan wang baru sahaja berpindah, hubungi 997 (NSRC) segera — menurut pengumuman 26 Julai 2025, mulai September 2025 talian itu beroperasi 24 jam dan panggilan ke 997 dikira sebagai laporan polis rasmi."
+answer: "Jika jenayah sedang berlaku, dail 999 dahulu. Untuk membuat laporan polis rasmi, pergi ke mana-mana balai polis dan beri maklumat kepada pegawai bertugas; di bawah Seksyen 107 Kanun Tatacara Jenayah maklumat lisan itu direkodkan secara bertulis, dibaca semula kepada anda, dan anda menandatanganinya, kemudian anda menerima nombor laporan dan salinan. Kehilangan dokumen atau barang yang tidak berkait jenayah (contohnya kad pengenalan atau lesen) boleh dilaporkan secara online melalui e-Reporting PDRM. Jika ditipu dalam talian dan wang baru sahaja berpindah, hubungi 997 (NSRC) segera — menurut panduan rasmi NSRC (semakan Ogos 2026), talian itu beroperasi 8.00 pagi hingga 8.00 malam setiap hari dan anda masih perlu membuat laporan polis berasingan dalam masa 24 jam. (Pengaturan 24 jam dengan panggilan dikira sebagai laporan polis telah diumumkan pada 26 Julai 2025 untuk mula September 2025, tetapi belum ternyata dalam panduan rasmi NSRC.)"
 keyTakeaways:
   - "Seksyen 107 Kanun Tatacara Jenayah mewajibkan maklumat lisan direkodkan secara bertulis, dibaca semula kepada pemberi maklumat, dan ditandatangani olehnya"
   - "Kecemasan yang sedang berlaku: dail 999 — MERS 999 menyatukan lima agensi (polis, bomba, hospital, pertahanan awam, maritim) di bawah satu nombor"
   - "Menyalahguna talian 999 boleh didenda sehingga RM500,000 atau penjara sehingga 2 tahun atau kedua-duanya"
   - "Kes tidak boleh siasat di bawah Seksyen 108 — pegawai akan merujuk pengadu kepada Majistret"
   - "e-Reporting (ereporting.rmp.gov.my) untuk kehilangan dokumen atau barang bukan jenayah; menurut portal rasmi, untuk warganegara Malaysia berumur 18 tahun ke atas"
-  - "Penipuan dalam talian: hubungi 997 (NSRC) segera — diumumkan (26 Julai 2025) beroperasi 24 jam dan panggilan dikira sebagai laporan polis mulai September 2025"
+  - "Penipuan dalam talian: hubungi 997 (NSRC) segera — panduan rasmi NSRC (Ogos 2026) menyatakan talian beroperasi 8 pagi–8 malam setiap hari dan laporan polis berasingan masih perlu dibuat dalam 24 jam (pengaturan 24 jam yang diumumkan Julai 2025 belum disahkan berkuat kuasa)"
   - "Salinan diperakui laporan boleh diterima sebagai keterangan di bawah Seksyen 108A"
 appliesTo: "Sesiapa di Malaysia yang menjadi mangsa atau saksi jenayah, kehilangan dokumen atau barang, atau menjadi mangsa penipuan — warganegara mahupun bukan warganegara."
 
@@ -35,7 +35,7 @@ faq:
   - q: "Berapakah umur minimum untuk menggunakan e-Reporting PDRM?"
     a: "Menurut portal rasmi e-Reporting (ereporting.rmp.gov.my), sistem ini untuk warganegara Malaysia berumur 18 tahun dan ke atas yang mempunyai capaian internet. Sesiapa yang tidak memenuhi syarat kelayakan sistem dalam talian boleh membuat laporan di mana-mana balai polis."
   - q: "Saya baru sedar telah ditipu dalam talian dan wang telah berpindah. Perlukah saya ke balai dahulu?"
-    a: "Hubungi 997 (Pusat Respons Penipuan Kebangsaan / NSRC) dahulu, secepat mungkin — peluang terbaik untuk membekukan dana adalah dalam beberapa jam pertama. Menurut pengumuman 26 Julai 2025, mulai September 2025 talian ini beroperasi 24 jam dan panggilan ke 997 dikira sebagai laporan polis rasmi, jadi anda tidak perlu membuat laporan berasingan di balai untuk memulakan tindakan."
+    a: "Hubungi 997 (Pusat Respons Penipuan Kebangsaan / NSRC) dahulu, secepat mungkin — peluang terbaik untuk membekukan dana adalah dalam beberapa jam pertama. Menurut panduan rasmi NSRC (semakan Ogos 2026), talian ini beroperasi 8.00 pagi hingga 8.00 malam setiap hari dan anda masih perlu membuat laporan polis berasingan dalam masa 24 jam supaya tindakan susulan boleh diambil. (Pada 26 Julai 2025 diumumkan talian akan beroperasi 24 jam dan panggilan dikira sebagai laporan polis mulai September 2025, tetapi pengaturan itu belum ternyata dalam panduan rasmi.)"
   - q: "Bolehkah laporan polis dibatalkan atau dipadam kemudian?"
     a: "Laporan yang telah direkodkan tidak boleh dipadam daripada rekod polis. Jika terdapat maklumat baharu, silap fakta, atau perkembangan kes, cara yang betul ialah membuat laporan tambahan yang merujuk kepada nombor laporan asal, bukan meminta laporan asal dibuang."
 
@@ -44,17 +44,16 @@ masterLanguage: "ms"
 translationStatus: "master"
 
 verificationNeeded:
-  - "Status semasa talian 997: diumumkan (26 Julai 2025) beroperasi 24 jam dan panggilan dikira laporan polis rasmi mulai September 2025 — sahkan pengaturan ini benar-benar telah berkuat kuasa dan masih berkuat kuasa."
   - "Syarat kelayakan e-Reporting (warganegara Malaysia, umur 18 tahun ke atas) dan senarai penuh item yang boleh dilaporkan — portal rasmi ereporting.rmp.gov.my tidak dapat dicapai untuk pengesahan langsung; sahkan terhadap portal rasmi."
   - "Sama ada bukan warganegara benar-benar dikecualikan sepenuhnya daripada e-Reporting (draf tidak lagi menyatakan pengecualian ini secara eksplisit)."
-  - "Rujukan seksyen kuasa tangkap tanpa waran (Seksyen 23 KTJ) terhadap teks Akta 593 semasa."
 
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
+reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "0.2"
+publishedBy: "ashton-tan"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-08-01
@@ -64,16 +63,23 @@ revisions:
     date: 2026-08-01
     change: "Correction pass: fixed 997 tense to announced-Sept-2025 change, corrected arrest power to Seksyen 23, replaced weak e-Reporting blog source with official portal and removed unsourced non-citizen exclusion."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-08-01
+updated: 2026-08-14
 sources:
   - title: "Criminal Procedure Code (Act 593), Chapter XIII — Seksyen 107, 108, 108A, 110; Seksyen 23 (tangkap tanpa waran)"
     url: "https://ccid.rmp.gov.my/Laws/Criminal_Prosedure_Code_Act_593.pdf"
     publisher: "Polis DiRaja Malaysia (Jabatan Siasatan Jenayah Komersial)"
-  - title: "National Scam Response Centre (NSRC)"
+  - title: "National Scam Response Centre (NSRC) — About NSRC (talian 997 beroperasi 8 pagi–8 malam; laporan polis berasingan diperlukan dalam 24 jam)"
     url: "https://nfcc.jpm.gov.my/index.php/en/about-nsrc"
-    publisher: "Pusat Anti Jenayah Kewangan Kebangsaan (NFCC)"
-  - title: "997 Scam Hotline To Operate 24 Hours, Calls Treated As Police Reports From September"
+    publisher: "Pusat Anti Jenayah Kewangan Kebangsaan (NFCC), Jabatan Perdana Menteri"
+  - title: "Maklumat mengenai NSRC — 997 beroperasi 8.00 pagi–8.00 malam; 'anda juga perlu membuat laporan polis'"
+    url: "https://nfcc.jpm.gov.my/index.php/en/component/content/article/nsrc-info-link?catid=11&Itemid=114"
+    publisher: "NFCC, Jabatan Perdana Menteri"
+  - title: "997 Scam Hotline To Operate 24 Hours, Calls Treated As Police Reports From September (pengumuman 26 Julai 2025)"
     url: "https://www.bernama.com/en/news.php?id=2449632"
     publisher: "Bernama"
   - title: "Apa Itu MERS 999?"
@@ -108,7 +114,7 @@ Sebelum apa-apa, tentukan situasi anda. Keempat-empat saluran ini bukan pilihan 
 | **999 (MERS 999)** | Kecemasan yang sedang berlaku | Polis, bomba, ambulans, pertahanan awam, maritim | Satu nombor untuk lima agensi; salah guna boleh didenda sehingga RM500,000 |
 | **Balai polis** | Bila-bila masa selepas kejadian | Semua jenis jenayah dan kehilangan | Percuma; buka 24 jam; anda dapat nombor laporan + salinan |
 | **e-Reporting** | Kehilangan bukan jenayah | Kad pengenalan, lesen, kad ATM, telefon, dokumen | Menurut portal rasmi: warganegara Malaysia 18 tahun ke atas |
-| **997 (NSRC)** | Sebaik ditipu dalam talian | Penipuan kewangan, wang berpindah | Diumumkan 24 jam & panggilan dikira laporan polis mulai Sept 2025 |
+| **997 (NSRC)** | Sebaik ditipu dalam talian | Penipuan kewangan, wang berpindah | Panduan rasmi: 8 pagi–8 malam; laporan polis berasingan masih perlu |
 
 ## Bila perlu dail 999 dahulu?
 
@@ -182,7 +188,9 @@ Jika anda menjadi mangsa penipuan kewangan dalam talian dan wang baru sahaja ber
 
 NSRC ditubuhkan pada Oktober 2022 sebagai pusat operasi untuk menyelaras respons pantas terhadap penipuan kewangan dalam talian. Ia menggabungkan Pusat Anti Jenayah Kewangan Kebangsaan (NFCC), Polis DiRaja Malaysia, Bank Negara Malaysia, Suruhanjaya Komunikasi dan Multimedia Malaysia (SKMM), serta institusi kewangan dan syarikat telekomunikasi dalam satu "bilik gerakan". Apabila anda menelefon, mereka cuba menghalang kerugian lanjut dan menjejak serta membekukan dana yang dicuri sebelum penipu mengeluarkannya.
 
-Dua perkembangan penting menjadikan 997 lebih berkuasa. Pada 26 Julai 2025, Timbalan Menteri Komunikasi mengumumkan bahawa mulai September 2025 talian itu beroperasi **24 jam**, dan panggilan ke 997 **dikira sebagai laporan polis rasmi** — anda tidak perlu membuat laporan berasingan di balai untuk memulakan tindakan. (Status kuat kuasa semasa pengaturan ini masih perlu disahkan terhadap sumber rasmi.)
+Menurut panduan rasmi NSRC (semakan Ogos 2026), talian 997 beroperasi **8.00 pagi hingga 8.00 malam** setiap hari termasuk cuti umum, dan anda masih perlu membuat **laporan polis berasingan** dalam masa 24 jam — tanpa laporan polis, tindakan susulan tidak dapat dijalankan oleh pihak polis.
+
+Pada 26 Julai 2025, Timbalan Menteri Komunikasi mengumumkan bahawa mulai September 2025 talian itu akan beroperasi 24 jam dan panggilan ke 997 akan dikira sebagai laporan polis rasmi. Namun setakat semakan Ogos 2026, pengaturan itu belum ternyata dalam panduan rasmi NSRC, yang masih menetapkan waktu operasi 8 pagi–8 malam dan keperluan laporan polis berasingan. Sahkan status terkini sebelum bergantung pada talian di luar waktu tersebut.
 
 Kunci kejayaan ialah kelajuan: peluang terbaik membekukan dana adalah dalam beberapa jam pertama. Setiap minit menunggu memberi masa kepada penipu memindahkan wang ke akaun lain.
 

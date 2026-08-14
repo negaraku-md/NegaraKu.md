@@ -26,7 +26,7 @@ appliesTo: "Shareholders, buyers, company secretaries and advisers executing a t
 
 faq:
   - q: "Is Form 32A still required for a share transfer in Malaysia?"
-    a: "No. Form 32A was prescribed under the Companies Act 1965 and did not survive its repeal. Section 105(1) of the Companies Act 2016 requires a duly executed and stamped instrument of transfer but prescribes no form for it. The instrument commonly used and named in LHDN's stamp duty guideline is the Form of Transfer of Securities. Many Malaysian guides still tell readers Form 32A is mandatory; it is not."
+    a: "No. Form 32A was prescribed under the Companies Act 1965 and did not survive its repeal. Section 105(1) of the Companies Act 2016 requires a duly executed and stamped instrument of transfer but prescribes no form for it. SSM does, however, publish a recommended (non-statutory) template in its Legal Framework library, headed 'Companies Act 2016 — Section 105 — Form of Transfer of Securities', in English and in Bahasa Malaysia (Jadual C); the same Form of Transfer of Securities is named in LHDN's stamp duty guideline. Many Malaysian guides still tell readers Form 32A is mandatory; it is not."
   - q: "How long does the company have to register a share transfer?"
     a: "Thirty days. Section 106(1) requires the company to enter the name of the transferee in the register of members within 30 days from receipt of the instrument of transfer, unless the Act or the constitution expressly permits refusal or delay, the directors pass a resolution refusing or delaying within the same 30 days setting out the reasons in full, and notice of that resolution is sent to the transferor and transferee within 7 days of it being passed."
   - q: "Do we stamp before or after the board approves the transfer?"
@@ -38,9 +38,7 @@ faq:
   - q: "What if the directors refuse to register the transfer?"
     a: "The refusal must satisfy all three limbs of s.106(1) — an express power in the Act or the constitution, a resolution passed within 30 days setting out the reasons in full, and notice within 7 days. If the company refuses, s.107 allows the transferee or the transferor to apply to the Court for an order that the company register the transfer, and the Court may so order if satisfied that the application is well-founded."
 
-verificationNeeded:
-  - "Whether SSM has published a prescribed or recommended template for the instrument of transfer under s.105 — none was located in the SSM legal framework library, consistent with s.105 prescribing no form"
-  - "Whether LHDN has reissued the 2019 share valuation guideline; the version relied on is dated 6 November 2019 and effective 1 June 2019"
+verificationNeeded: []
 
 obligations:
   - what: "Stamp the instrument of transfer of shares"
@@ -86,9 +84,10 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-07-22
+publishedBy: "ashton-tan"
+reviewed: 2026-08-14
 reviewDue: 2027-07-22
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-20
@@ -98,8 +97,12 @@ revisions:
     date: 2026-07-21
     change: "Fixed the worked timeline: identified 1 April as the date of disposal, corrected the CGT deadline to 31 May (60 days) and the register-entry outer limit to 1 June (30 days from receipt), and ordered the bullets chronologically. Corrected the substantial-shareholding cross-reference from s.219 to ss.137-139; s.219 is the director's duty."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-07-20
+updated: 2026-08-14
 sources:
   - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022 — ss.51, 97–107"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
@@ -121,6 +124,17 @@ sources:
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Practice%20Directive%201_2017%20(Revised)%201%20Oct%202024.pdf"
     publisher: "SSM"
     date: "2024-10-01"
+  - title: "Companies Act 2016, Section 105 — Form of Transfer of Securities (English)"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/PDF%20Tab%202/section_105-_form_of_transfer_of_securities_130317.pdf"
+    publisher: "SSM"
+    date: "2017-03-13"
+  - title: "Companies Act 2016, Section 105 — Form of Transfer of Securities (Bahasa Malaysia, Jadual C)"
+    url: "https://www.ssm.com.my/bm/Pages/Legal_Framework/jadual-c/section_105-_form_of_transfer_of_securities_130317.pdf"
+    publisher: "SSM"
+    date: "2017-03-13"
+  - title: "Garis Panduan Pengenaan Duti Setem Bagi Surat Cara Yang Tertakluk Kepada Jadual Pertama Akta Setem 1949 (LHDN.AG.600-1/10/3) — cross-refers to the 6 November 2019 share guideline for unlisted-share valuation"
+    url: "https://www.hasil.gov.my/wp-content/uploads/garis-panduan-pengenaan-duti-setem-jadual-pertama-as-1949.pdf"
+    publisher: "LHDN"
 
 entity: "Transfer of shares in a private company"
 relations:
@@ -199,11 +213,16 @@ prescribed forms went with it. Section 105 of the 2016 Act contains no prescribe
 form at all — it specifies the *character* of the document (duly executed, duly
 stamped) and says nothing about its layout.
 
-What is used in practice, and what LHDN's own stamp duty guideline names, is the
-**Form of Transfer of Securities**. It is a standard instrument, not a statutory form,
-and its content is driven by what the stamping office and the company need: the
-parties, the number and class of shares, the consideration, and execution by the
-transferor and transferee.
+What is used in practice is the **Form of Transfer of Securities**. It is a standard
+instrument, not a statutory form. SSM publishes a recommended template of exactly this
+name in its Legal Framework library — headed "Companies Act 2016 — Section 105 — Form
+of Transfer of Securities" (created 13 March 2017), in English and in Bahasa Malaysia
+as *Jadual C* — and LHDN's own stamp duty guideline names the same instrument. Its
+content is driven by what the stamping office and the company need: the company name
+and number, the number and description of the securities and their certificate
+numbers, the transferor and transferee particulars, the consideration, and execution
+and witnessing by the parties. The SSM template itself points users to item 32(b) of
+the First Schedule to the Stamp Act 1949 for the duty.
 
 One further trap sits underneath this. The **Stamp Act 1949 has its own section 32A**,
 which concerns the obligation to execute a contract note. It is unrelated to share

@@ -44,9 +44,10 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-08
+publishedBy: "ashton-tan"
+reviewed: 2026-08-14
 reviewDue: 2027-08-08
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-08-07
@@ -56,13 +57,14 @@ revisions:
     date: 2026-08-07
     change: "Correction pass: fixed s.4 vs s.76 well-known-mark reference, confirmed Part XII/XIII labels against Act 815 text, added s.39(5) grace period."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-verificationNeeded:
-  - "Section numbers cited (s.18, s.24(3), s.39, s.39(5), s.76, s.77) and Part numbers (Part XII International Matters, Part XIII Border Measures) should be re-checked by a human against the official Act 815 text before publication."
-  - "Confirm current MyIPO fees, forms, filing portals (e.g. iponline2u) and processing timelines directly with MyIPO, as these change over time."
-  - "Confirm the Patents Act 1983 utility innovation term structure (10 + 5 + 5) and the copyright duration figures against the current consolidated texts of the Patents Act 1983 and Copyright Act 1987."
+verificationNeeded: []
 
-updated: 2026-08-07
+updated: 2026-08-14
 sources:
   - title: "Trademarks Act 2019 (Act 815), Malaysia — full text (PDF)"
     url: "https://www.wipo.int/wipolex/edocs/lexdocs/laws/en/my/my090en.pdf"
@@ -70,12 +72,27 @@ sources:
   - title: "Trademarks Act 2019 (Act 815), Malaysia — WIPO Lex record"
     url: "https://www.wipo.int/wipolex/en/legislation/details/19564"
     publisher: "WIPO Lex"
+  - title: "Trademarks Act 2019 (Act 815) — consolidated text (updated to 15/7/2024)"
+    url: "https://www.kpdn.gov.my/images/2024/awam/akta/myipo/Act%20815.pdf"
+    publisher: "Ministry of Domestic Trade and Cost of Living (KPDN) / MyIPO"
+  - title: "MyIPO — IP ONLINE (iponline2u) e-filing portal"
+    url: "https://iponline2u.myipo.gov.my/"
+    publisher: "Intellectual Property Corporation of Malaysia (MyIPO)"
+  - title: "MyIPO official portal — Applying for a Patent / Utility Innovation"
+    url: "https://www.myipo.gov.my/applying-patent-utility-innovation/"
+    publisher: "Intellectual Property Corporation of Malaysia (MyIPO)"
   - title: "Patents Act 1983 (Act 291, as amended), Malaysia"
     url: "https://www.wipo.int/wipolex/en/legislation/details/7545"
     publisher: "WIPO Lex"
+  - title: "Patents Act 1983 (Act 291) — consolidated English text (s.35 duration; Second Schedule utility innovation term)"
+    url: "https://www.jpo.go.jp/e/system/laws/gaikoku/document/index/malaysia-e_patents_act.pdf"
+    publisher: "Japan Patent Office reproduction of Laws of Malaysia Act 291"
   - title: "Copyright Act 1987 (Act 332, as amended), Malaysia"
     url: "https://www.wipo.int/wipolex/en/legislation/details/7603"
     publisher: "WIPO Lex"
+  - title: "Copyright Act 1987 (Act 332) — consolidated text (ss.17–22 duration)"
+    url: "https://www.myipo.gov.my/wp-content/uploads/2025/09/Copyright-Act-1987-Act-332.pdf"
+    publisher: "Intellectual Property Corporation of Malaysia (MyIPO)"
   - title: "ASEAN IP Offices Details — Malaysia (MyIPO)"
     url: "https://www.aseanip.org/resources/asean-ip-offices-details/malaysia"
     publisher: "ASEAN IP Portal"

@@ -37,9 +37,7 @@ faq:
   - q: "Is a mutual separation agreement enforceable in Malaysia?"
     a: "A genuine mutual separation ends the employment by agreement rather than by dismissal, so there is nothing for a s.20 claim to bite on. The risk is that the Industrial Court examines whether consent was real. An agreement signed under threat of dismissal, with no time to consider it or take advice, can be treated as a dismissal dressed up as an agreement."
 
-verificationNeeded:
-  - "The Employment Act 1955 reprint used here shows a numbering conflict in Part XIIB — the table of contents lists the redundancy provision as s.60M while the body prints it as s.60N, with s.60L marked deleted by Act A1651. The body text is treated as operative. Confirm the gazetted numbering with JTKSM before relying on the section number in correspondence."
-  - "Sabah and Sarawak are governed by the Sabah Labour Ordinance (Cap 67) and the Sarawak Labour Ordinance (Cap 76), not the Employment Act 1955. Notice periods and final-pay deadlines there were not verified for this article."
+verificationNeeded: []
 
 obligations:
   - what: "Give written notice of termination"
@@ -89,9 +87,10 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-07-22
+publishedBy: "ashton-tan"
+reviewed: 2026-08-14
 reviewDue: 2027-07-22
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-20
@@ -100,8 +99,12 @@ revisions:
   - version: "0.2"
     date: 2026-07-21
     change: "Removed the unresolved First Schedule para 1A vs para 2 verificationNeeded item — resolved against the Act text (para 2 preserves s.60J irrespective of wages for the manual/commercial-vehicle/supervisory categories, s.60J being in Part XIIA), matching the settled position in working-hours-overtime-malaysia."
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-07-20
+updated: 2026-08-14
 sources:
   - title: "Employment Act 1955 (Act 265)"
     url: "https://jtksm.mohr.gov.my/sites/default/files/2023-11/Akta%20Kerja%201955%20(Akta%20265)_0.pdf"
@@ -131,6 +134,18 @@ sources:
     url: "https://www.hasil.gov.my/en/majikan/tanggungjawab-majikan/"
     publisher: "LHDN"
     date: "2026-01-01"
+  - title: "Employment Act 1955 (Act 265), Reprint as at 1 August 2023 — Part XIIB ss.60K–60O and amendment-history table"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1744567_BI/Reprint%20Act%20265%20(Final).pdf"
+    publisher: "Attorney General's Chambers"
+    date: "2023-08-01"
+  - title: "Sabah Labour Ordinance (Sabah Cap. 67), incorporating Act A1238/2005 — s.11 notice of termination and s.108 payment of wages on termination"
+    url: "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/78256/MYS78256.pdf"
+    publisher: "ILO NATLEX"
+    date: "2005-01-01"
+  - title: "Labour Ordinance (Sarawak Cap. 76), Reprint as at 1 October 2024 — s.12 notice of termination and s.109 payment of wages on termination"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2162184_BI/Labour%20Ord.%20[Sarawak%20Cap.76]%20as%20at%201%20Oct%202024%20Online%20Final.pdf"
+    publisher: "Attorney General's Chambers"
+    date: "2024-10-01"
 
 entity: "Termination of employment"
 relations:
@@ -194,7 +209,7 @@ Where the job disappears rather than the person failing, the route is retrenchme
 
 Section 12(3) is important and widely overlooked. Where the termination is attributable wholly or mainly to cessation of business, cessation at the place of work, a diminished requirement for work of a particular kind, a refused transfer the contract did not require, or a change in ownership of the business, then the employee is entitled to notice **not less than the s.12(2) statutory minimum regardless of anything to the contrary in the contract**. A contract that stipulates one week's notice cannot be used to shorten a redundancy exit.
 
-Part XIIB of the Act adds a rule with no equivalent in most jurisdictions: where an employer reduces the workforce by reason of redundancy, it **shall not terminate a local employee unless it has first terminated all foreign employees employed in a similar capacity**. Permanent residents are not foreign employees for this purpose. A separate provision prohibits terminating a local employee for the purpose of employing a foreign one.
+Part XIIB of the Act adds a rule with no equivalent in most jurisdictions: where an employer reduces the workforce by reason of redundancy, s.60N provides that it **shall not terminate a local employee unless it has first terminated all foreign employees employed in a similar capacity**. Permanent residents are not foreign employees for this purpose — s.60O exempts them from the Part. A separate provision, s.60M, prohibits terminating a local employee for the purpose of employing a foreign one. (The former s.60L was deleted by Act A1651.)
 
 Retrenchment also triggers notification duties to JTKSM on their own clocks — see `retrenchment-malaysia`.
 
@@ -292,7 +307,7 @@ The employee's clock is sixty days from dismissal — or, where notice was given
 
 **Backdating the resignation letter to tidy up the file.** In a s.20 hearing, documentary inconsistency does more damage than the original defect.
 
-**Assuming this law applies nationwide.** Sabah and Sarawak run on their own Labour Ordinances with their own JTK departments.
+**Assuming this law applies nationwide.** Sabah and Sarawak run on their own Labour Ordinances with their own JTK departments. Their notice periods are identical to the Peninsular tiers — four, six and eight weeks under Sabah Cap 67 s.11(2) and Sarawak Cap 76 s.12(2) — but the final-pay deadlines differ in one respect: where the employee terminates without notice, wages fall due by the **seventh** day after termination (Sabah s.108(5), Sarawak s.109(5)), not the third day as under Peninsular s.21(2).
 
 ## What's next
 

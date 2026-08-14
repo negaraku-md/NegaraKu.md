@@ -44,15 +44,10 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-08
+reviewed: 2026-08-14
 reviewDue: 2027-08-08
-version: "0.2"
-verificationNeeded:
-  - "Seksyen 18 denda kini RM250,000–RM500,000 (minimum dinaikkan daripada RM50,000 oleh pindaan pra-2007); sahkan terhadap cetakan semula Akta 118 terkini dari AGC/Percetakan Nasional."
-  - "Seksyen 7A(10) denda kini RM250,000–RM500,000 dan penjara sehingga 3 tahun — sahkan minimum dan tempoh penjara terhadap teks Akta terkini."
-  - "Seksyen 6: deposit dengan Pengawal kini 3% daripada anggaran kos pembinaan (dinaikkan daripada RM200,000 tetap oleh Pindaan 2012, berkuat kuasa 1 Jun 2015). Sahkan sama ada RM200,000 masih terpakai untuk pemohon bukan syarikat dan modal berbayar RM250,000 kekal."
-  - "Seksyen 16AD: denda kini tidak kurang RM10,000 dan tidak melebihi RM50,000 (dinaikkan oleh Pindaan 2012). Sahkan tempoh penjara semasa (draf terdahulu menyebut 2 tahun — belum disahkan)."
-  - "Nombor klausa Jadual G/H (klausa 8, 11, 26, 27, 28, 30) dan Jadual Ketiga wang stakeholder 5% — sahkan terhadap borang perjanjian versi lesen selepas 1 Julai 2015."
+version: "0.3"
+verificationNeeded: []
 revisions:
   - version: "0.1"
     date: 2026-08-07
@@ -62,12 +57,25 @@ revisions:
     date: 2026-08-07
     change: "Correction pass: fixed stale s.18/s.7A(10)/s.16AD penalties and s.6 deposit (now 3% construction cost) to current law, added current-law + Schedule G sources, fixed 'peguam' typo."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-08-07
+updated: 2026-08-14
 sources:
   - title: "Housing Development (Control and Licensing) Act 1966 (Act 118) — consolidated text (2007), showing amended penalties under sections 18, 7A and 6"
     url: "https://www.hba.org.my/laws/hda/2007/ACT118(2007).htm"
     publisher: "National House Buyers Association (HBA)"
+  - title: "Housing Development (Control and Licensing) (Amendment) Act 2007 [Act A1289] — raises s.18 and s.7A(10) minimum fines to RM250,000, s.16AD fine to RM5,000–RM10,000, and s.16M Tribunal claim limit to RM50,000 (in force 12 April 2007)"
+    url: "https://www.hba.org.my/laws/hda/2007/A1289-2007.pdf"
+    publisher: "Percetakan Nasional Malaysia / National House Buyers Association (HBA)"
+  - title: "Housing Development (Control and Licensing) (Amendment) Act 2012 [Act A1415] — amends s.6 (deposit now 3% of estimated construction cost; new s.6(1B)) and s.16AD fine to RM10,000–RM50,000 (in force 1 June 2015)"
+    url: "https://www.kpkt.gov.my/index.php/dl/64584e6c636c38784c303146546b6446546b464a49457451533151765155745551533942613352685831426c62574671645746755831426c636e567459576868626c386f5332463359577868626c396b59573566554756735a584e6c626d46754b5639516157356b59574675587a49774d5449756347526d"
+    publisher: "Kementerian Perumahan dan Kerajaan Tempatan (KPKT) — official gazetted Act A1415"
+  - title: "Housing Development (Control and Licensing) Act 1966 (Act 118) — 2006 Reprint (base-Act text for s.6, s.7A(10), s.16AD and s.16M imprisonment terms; predates A1289 so shows superseded RM50,000 minima)"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20118.pdf"
+    publisher: "Commissioner of Law Revision, Malaysia (AGC)"
   - title: "An Overview of the Recent Amendment to the Housing Development (Control and Licensing) Act 1966 (Act A1415 / Amendment Act 2012, in force 1 June 2015)"
     url: "https://www.mondaq.com/real-estate/467810/an-overview-of-the-recent-amendment-to-the-housing-development-control-and-licensing-act-1966"
     publisher: "Mondaq"
@@ -189,11 +197,11 @@ Menyaman pemaju di mahkamah biasa mahal dan lambat. HDA mewujudkan laluan pintas
 
 Ciri-ciri utamanya:
 
-- **Had tuntutan.** Tribunal boleh mengendalikan tuntutan sehingga **RM50,000** (had dinaikkan menerusi pindaan yang berkuat kuasa pada 2015).
+- **Had tuntutan.** Tribunal boleh mengendalikan tuntutan sehingga **RM50,000** (had dinaikkan daripada RM25,000 kepada RM50,000 oleh Pindaan 2007 (Akta A1289, seksyen 16M), berkuat kuasa 12 April 2007).
 - **Tempoh masa.** Seksyen 16N(2) menghadkan tuntutan kepada 12 bulan dari tarikh Sijil Penyiapan dan Pematuhan (CCC) atau tarikh tamat tempoh liabiliti kecacatan. Bagi kecacatan, mahkamah telah menjelaskan tempoh dikira dari tamat tempoh liabiliti kecacatan.
 - **Tanpa peguam.** Seksyen 16U(2) secara amnya melarang perwakilan peguam kecuali isu undang-undang kompleks — menjadikannya mesra orang awam.
 - **Cepat.** Seksyen 16Y(1) menghendaki award dibuat, jika boleh, dalam 60 hari dari hari pertama pendengaran.
-- **Boleh dikuatkuasakan.** Seksyen 16AC menganggap award Tribunal sebagai perintah Mahkamah Majistret. Pemaju yang gagal mematuhi award melakukan kesalahan dan boleh didenda tidak kurang daripada RM10,000 tetapi tidak melebihi RM50,000 (kadar dinaikkan menerusi Pindaan 2012), selain penjara (seksyen 16AD).
+- **Boleh dikuatkuasakan.** Seksyen 16AC menganggap award Tribunal sebagai perintah Mahkamah Majistret. Pemaju yang gagal mematuhi award melakukan kesalahan dan boleh didenda tidak kurang daripada RM10,000 tetapi tidak melebihi RM50,000 (kadar dinaikkan menerusi Pindaan 2012) atau penjara sehingga dua tahun, atau kedua-duanya; kesalahan berterusan dikenakan denda tambahan tidak melebihi RM1,000 sehari (seksyen 16AD).
 
 Siapa boleh menuntut? Seksyen 16A mentakrifkan "homebuyer" secara luas — termasuk seseorang yang membeli daripada pembeli pertama. Jadi pembeli kali kedua unit belum siap turut dilindungi.
 

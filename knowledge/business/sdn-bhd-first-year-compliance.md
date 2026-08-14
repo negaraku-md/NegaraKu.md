@@ -38,11 +38,7 @@ faq:
     a: "Only if you meet the criteria in SSM Practice Directive 10/2024 — at least two of the three tests on revenue, total assets and employees, or dormancy. The thresholds are phased and depend on your financial year. Exemption removes the audit, not the lodgement: unaudited statements still go to SSM."
 
 verificationNeeded:
-  - "SSM fee amounts are taken from the published ROC Table of Fees and are revised from time to time — confirm the current schedule before budgeting"
-  - "Confirm which e-Invoice phase applies to a company with no prior-year turnover figure, against the LHDN e-Invoice guideline"
   - "Confirm the current PERKESO registration deadline in days — the PERKESO employer registration page states the duty to register without stating a period"
-  - "Confirm whether the CP204 waiver for new small and medium companies under s.107C(4A) of the Income Tax Act 1967 still applies for the current years of assessment and on what paid-up capital and gross income tests"
-  - "Confirm the current SST registration threshold and taxable service categories against mysst.customs.gov.my before assuming registration is not required"
 
 obligations:
   - what: "Appoint a licensed company secretary"
@@ -145,17 +141,22 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-07-22
+publishedBy: "ashton-tan"
+reviewed: 2026-08-14
 reviewDue: 2027-07-22
-version: "0.1"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-20
     change: "Initial draft, built directly from the Companies Act 2016 text with claim-level section citations."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 sensitivity: "none"
 
-updated: 2026-07-20
+updated: 2026-08-14
 sources:
   - title: "Companies Act 2016 (Act 777), as at 1 August 2022"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
@@ -170,9 +171,19 @@ sources:
   - title: "Tax Estimation"
     url: "https://www.hasil.gov.my/en/company/tax-estimation/"
     publisher: "LHDN"
-  - title: "Garis Masa Pelaksanaan e-Invois"
-    url: "https://www.hasil.gov.my/e-invois/pelaksanaan-e-invois-di-malaysia/garis-masa-pelaksanaan-e-invois/"
+  - title: "Public Ruling No. 8/2025 — Tax Treatment for Micro, Small and Medium Companies"
+    url: "https://www.hasil.gov.my/media/fo1ptejq/pr-8-2025-tax-treatment-for-micro-small-and-medium-companies.pdf"
     publisher: "LHDN"
+    date: "2025"
+  - title: "e-Invoice Implementation Timeline (updated 7 December 2025)"
+    url: "https://www.hasil.gov.my/en/e-invois/pelaksanaan-e-invois-di-malaysia/garis-masa-pelaksanaan-e-invois/"
+    publisher: "LHDN"
+  - title: "IRBM e-Invoice Guideline (Version 4.7)"
+    url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
+    publisher: "LHDN"
+  - title: "Registering your Business — MySST"
+    url: "https://mysst.customs.gov.my/registering-business/"
+    publisher: "RMCD (Royal Malaysian Customs Department)"
   - title: "Employer Registration"
     url: "https://www.kwsp.gov.my/en/employer/responsibilities/registration"
     publisher: "KWSP (EPF)"
@@ -306,23 +317,36 @@ estimate.
 
 There is a statutory waiver from furnishing CP204 for the first two years of
 assessment for qualifying small and medium companies under s.107C(4A) of the Income
-Tax Act 1967. **Do not assume you have it.** The tests turn on paid-up capital and
-gross income and have been amended more than once — confirm your position against the
-current LHDN guidance rather than a blog post.
+Tax Act 1967. **Do not assume you have it.** Per LHDN Public Ruling No. 8/2025, a
+qualifying company must be resident and incorporated in Malaysia, have paid-up
+ordinary share capital of not more than RM2.5 million at the beginning of the basis
+period, and gross business income of not more than RM50 million. Critically, from the
+year of assessment 2024 a company whose paid-up ordinary share capital is more than
+20% owned, directly or indirectly, by foreign companies or foreign individuals is
+**not** eligible for these SME benefits — including the s.107C(4A) waiver. A
+foreign-founded Sdn Bhd that assumes it has the waiver can be caught out. Confirm your
+position against the current LHDN guidance rather than a blog post.
 
 ### SST and e-Invoice
 
 Two separate regimes, both frequently discovered late.
 
-**SST** applies by activity and turnover, not by company size in the abstract. Check
-whether your service falls in a taxable category before you assume you are outside it.
+**SST** applies by activity and turnover, not by company size in the abstract. The
+general registration threshold under MySST is RM500,000 of taxable goods or taxable
+services in a 12-month period, but category-specific thresholds differ — food and
+beverage or restaurant services register at RM1,500,000, some categories such as
+credit card and customs-agent services have no threshold at all, and services newly
+taxable from 1 July 2025 (including rental or leasing and financial services) register
+at RM1,000,000. Check whether your service falls in a taxable category, and on which
+threshold, before you assume you are outside it.
 
-**e-Invoice** is phased by annual turnover. Taxpayers with annual income or sales
-below RM1 million are exempt from e-Invoice implementation; the phased mandatory dates
-run from 1 August 2024 for the largest taxpayers down to 1 January 2026 for the band
-up to RM5 million, per LHDN's published timeline. A company incorporated now has no
-prior-year turnover figure, which is exactly the case the published bands do not
-address cleanly — check the current guideline rather than reasoning by analogy.
+**e-Invoice** is phased by annual turnover. Taxpayers with annual turnover of less than
+RM1 million are exempt from e-Invoice implementation; the phased mandatory dates run
+from 1 August 2024 for taxpayers above RM100 million down to 1 January 2026 for the
+band up to RM5 million, per LHDN's published timeline. A newly incorporated Sdn Bhd is
+therefore exempt while its revenue stays below RM1 million. Under the IRBM e-Invoice
+Guideline, once a new business crosses the RM1 million exemption threshold it is given
+a concessionary implementation date of 1 July 2026.
 
 ## When you hire: EPF, SOCSO and EIS
 

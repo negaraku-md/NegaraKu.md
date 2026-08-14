@@ -42,9 +42,10 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-08
-reviewDue: 2027-08-08
-version: "0.2"
+publishedBy: "ashton-tan"
+reviewed: 2026-08-14
+reviewDue: 2027-08-14
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-08-07
@@ -54,14 +55,15 @@ revisions:
     date: 2026-08-07
     change: "Correction pass: fixed 'governs' relation to TTPM (now related-to, a parallel forum) and softened corporate-defendant representation to match the official ekss wording ('authorized person required by law')."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
 verificationNeeded:
-  - "Butiran tepat 'orang yang diberi kuasa' bagi defendan syarikat di bawah Aturan 93 kaedah 7 — sumber rasmi hanya menyebut 'authorized person required by law' tanpa menyatakan ia mesti pekerja bergaji sepenuh masa; sahkan skop sebenar."
-  - "Figur TTPM: had tuntutan RM50,000, fi memfailkan RM5, dan tempoh award 60 hari — kini bersandar pada rencana firma guaman; sahkan dengan sumber rasmi KPDN/TTPM."
-  - "Had bidang kuasa kewangan Mahkamah Majistret (RM100,000, s.90) dan Mahkamah Sesyen (RM1,000,000, s.65) Akta Mahkamah Rendah 1948 — sahkan pindaan terkini yang berkuat kuasa."
   - "Anggaran perbicaraan ditetapkan 'dalam masa sebulan' dari pemfailan writ — ini anggaran sumber peguam, bukan tempoh berkanun; bergantung pada jadual mahkamah."
 
-updated: 2026-08-07
+updated: 2026-08-14
 sources:
   - title: "General Information: What Is Small Claim Court? (Panduan Rasmi Mahkamah)"
     url: "https://ekss-portal.kehakiman.gov.my/portals/media/attachments/Self-Representative/Small%20Claim.pdf"
@@ -84,6 +86,18 @@ sources:
   - title: "Tribunal Tuntutan Pengguna (TTPM)"
     url: "https://www.iaalawyers.com/2026/01/16/tribunal-tuntutan-pengguna-ttpm/"
     publisher: "Izzati & Associates"
+  - title: "Soalan Lazim — Tribunal Tuntutan Pengguna Malaysia (had RM50,000; fi RM5; tempoh mematuhi 14 hari)"
+    url: "https://ttpm.kpdn.gov.my/soalan-lazim.html"
+    publisher: "TTPM / KPDN (portal rasmi)"
+  - title: "Tribunal for Consumer Claims (FAQ)"
+    url: "https://www.kpdn.gov.my/en/faq/tribunal-for-consumer-claims"
+    publisher: "Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup (KPDN)"
+  - title: "Akta Perlindungan Pengguna 1999 (Akta 599), s.112(1) — award dalam 60 hari dari hari pertama pendengaran"
+    url: "https://mysafe.kpdn.gov.my/img/portal/consumer-safety/akta_perlindunganpengguna1999.pdf"
+    publisher: "KPDN (cetakan semula rasmi Akta 599)"
+  - title: "Subordinate Courts Act 1948 (Act 92), Text of Reprint as at 1 May 2013 — ss.65 and 90"
+    url: "https://tcclaw.com.my/wp-content/uploads/2025/08/Subordinate-Courts-Act-1948.pdf"
+    publisher: "Laws of Malaysia / Attorney General's Chambers (reprint text)"
 
 entity: "Mahkamah Tuntutan Kecil"
 relations:
@@ -223,7 +237,7 @@ Bagaimana TTPM berbeza daripada tuntutan kecil:
 - Had tuntutan lebih tinggi: sehingga **RM50,000** (berbanding RM5,000).
 - Fi memfailkan lebih rendah: hanya **RM5**.
 - Tiada peguam dibenarkan; kedua-dua pihak mewakili diri sendiri.
-- Award biasanya dibuat dalam tempoh **60 hari** dari hari pertama pendengaran, dan pihak diberi 14 hari untuk mematuhinya.
+- Award dibuat dalam tempoh **60 hari** dari hari pertama pendengaran (Seksyen 112(1) Akta Perlindungan Pengguna 1999), dan pihak diberi 14 hari untuk mematuhinya.
 
 Kelemahannya: skop TTPM terhad kepada pertikaian pengguna (barang dan perkhidmatan yang dibeli). Jika hutang anda ialah pinjaman peribadi antara kawan, atau sewa yang tidak dibayar, itu di luar bidang kuasa pengguna dan tuntutan kecil di Mahkamah Majistret ialah jalan yang betul.
 

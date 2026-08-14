@@ -38,12 +38,7 @@ faq:
     a: "Employees are exempted for pure equity holding activity under the Labuan Business Activity Tax (Exemption) Order 2020, but the RM20,000 minimum annual operating expenditure in Labuan still applies, along with the control and management conditions in regulation 3 of P.U.(A) 423-2021 — a board meeting in Labuan at least once a year, a Labuan registered office, a Labuan-resident secretary, and records kept in Labuan."
 
 verificationNeeded:
-  - "The exact percentages disallowed by the Income Tax (Deductions Not Allowed for Payment Made to Labuan Company by Resident) Rules 2018 [P.U.(A) 375-2018] as amended by P.U.(A) 376-2020 — widely reported as 25% of interest and lease payments and 97% of other payments, but the gazette text could not be retrieved from an official source. Confirm against the gazette before relying on a figure."
-  - "Whether the s.39(1)(r) exemption in P.U.(A) 425-2021 has been extended beyond YA2025. Labuan FSA circular 269/2021 states the effective period as YA2019 to YA2025. No extension order was located. Confirm with LHDN before assuming the exemption still applies."
-  - "The content of the Labuan Business Activity Tax (Exemption) Order 2026 [P.U.(A) 34], listed by Labuan FSA on 27 February 2026 — the document itself could not be retrieved."
-  - "Current substance requirements for a Labuan International Commodity Trading Company under P.U.(A) 482-2021 as amended by P.U.(A) 326-2025. The figures cited here come from Labuan FSA circular 239/2020, which pre-dates both regulations."
   - "Which of Malaysia's double taxation agreements exclude Labuan entities from benefits, and on what basis"
-  - "Whether LBATA s.5 and s.10 have been amended to match the current-year basis and the 7-month filing rule now published in the LHDN filing programme"
 
 obligations:
   - what: "File the Labuan entity return of profits (Form LE1) and pay the tax"
@@ -67,10 +62,14 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-07-22
-reviewDue: 2027-07-22
+reviewed: 2026-08-14
+reviewDue: 2027-08-14
 version: "0.3"
 revisions:
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
   - version: "0.3"
     date: 2026-07-21
     change: "Added blank line before the repealed-provisions heading so it renders outside the s.7 list; corrected the substance keyTakeaway to note pure equity holding is exempt (zero employees); completed the truncated sentence about an expired or surrendered operating licence."
@@ -85,7 +84,7 @@ revisions:
     change: "Initial draft."
     reviewer: null
 
-updated: 2026-07-20
+updated: 2026-08-14
 sources:
   - title: "Labuan Business Activity Tax Act 1990 (Act 445), incorporating Act 833 of 2021"
     url: "https://www.labuanfsa.gov.my/clients/asset_120A5FB8-61B6-45E8-93F0-3F79F86455C8/contentms/img/documents/Legislation_and_Guidelines/Legislation/2022/Draft%20ACT%20445%20BI%20update%202021%20-%20Website%20purpose%2012%20DEC%202022.pdf"
@@ -117,6 +116,33 @@ sources:
     url: "https://www.hasil.gov.my/wp-content/uploads/program-memfail-bn-bagi-tahun-2026.pdf"
     publisher: "LHDN"
     date: "2025-12-30"
+  - title: "Income Tax (Deductions Not Allowed for Payment Made to Labuan Company by Resident) Rules 2018 (Amendment) 2020 [P.U.(A) 376/2020]"
+    url: "https://www.labuanfsa.gov.my/regulations/legislation/act/labuan-business-activity-tax-act-1990-incorporating-latest-amendment-act-833-of-year-2021/income-tax-deductions-not-allowed-for-payment-made-to-labuan-company-by-resident-rules-2018-amendment-2020-p-u-a-3762020"
+    publisher: "Attorney General's Chambers / Labuan FSA"
+  - title: "Non-deductibility rules on payments to certain Labuan entities"
+    url: "https://www.ey.com/en_my/technical/tax-alerts/non-deductibility-rules-on-payments-to-certain-labuan-entities"
+    publisher: "EY Malaysia"
+  - title: "Income Tax (Labuan Company) (Exemption) Order 2026 [P.U.(A) 147/2026]"
+    url: "https://moore.com.my/taxflash/INCOME-TAX-(LABUAN-COMPANY)-(EXEMPTION)-ORDER-2026.pdf"
+    publisher: "Attorney General's Chambers (via Moore Malaysia)"
+  - title: "Monthly tax developments — April 2026"
+    url: "https://assets.kpmg.com/content/dam/kpmgsites/my/pdf/2026/04/monthly-tax-developments-april-2026.pdf.coredownload.inline.pdf"
+    publisher: "KPMG in Malaysia"
+  - title: "Tax Exemption Order for Labuan Entities carrying on Qualifying Takaful and Retakaful Activities Gazetted [P.U.(A) 34/2026]"
+    url: "https://www.skrine.com/insights/alerts/february-2026/tax-exemption-order-for-labuan-entities-carrying-o"
+    publisher: "Skrine Advocates & Solicitors"
+  - title: "Labuan International Commodity Trading Company — substance requirements"
+    url: "https://www.kensington-trust.com/resource-center/resources/labuan-international-commodity-trading-company/"
+    publisher: "Kensington Trust Group"
+  - title: "Labuan: P.U.(A) 326/2025 — LBAT (Requirements for LICT) (Amendment) Regulations 2025"
+    url: "https://www.kensington-trust.com/labuan-pua326-2025-lbta-requirements-for-business-activity-amendment-regulations-2025/"
+    publisher: "Kensington Trust Group"
+  - title: "Finance (No. 2) Act 2023 [Act 851] — full text"
+    url: "https://www.myttx.customs.gov.my/wp-content/uploads/2024/02/WJW23%EF%80%A21341-BI.pdf"
+    publisher: "Percetakan Nasional Malaysia / Laws of Malaysia"
+  - title: "Senate passes Finance Bill: Stamp Act and Labuan Business Activity Tax Act among legislation affected"
+    url: "https://www.allenandgledhill.com/publication/articles/26932/senate-passes-finance-bill-stamp-act-and-labuan-business-activity-tax-act-among-legislation-affected"
+    publisher: "Allen & Gledhill"
 
 entity: "Labuan business activity tax"
 relations:
@@ -233,6 +259,16 @@ beyond 30 the Schedule adds one further employee per group for every additional
 group. Ten Labuan leasing companies is RM1 million of Labuan operating
 expenditure, not RM100,000.
 
+One activity-specific holiday is worth flagging. The **Labuan Business Activity
+Tax (Exemption) Order 2026, P.U.(A) 34/2026** (gazetted 26 January 2026) grants a
+full exemption from Labuan business activity tax to a Labuan entity carrying on
+qualifying **Syariah-based takaful and retakaful activities that use digital
+solutions** — family and general takaful and retakaful, captive takaful for
+related or associated companies, takaful underwriting managers or managers, and
+takaful brokers — for **YA2025 to YA2028**. An entity carrying on both qualifying
+and non-qualifying activities must keep separate accounts, each a separate and
+distinct source.
+
 ### Pure equity holding is not a free pass
 
 Most guides report the employee exemption for pure equity holding and stop
@@ -343,10 +379,12 @@ offshore. That arithmetic frequently goes the wrong way.
 
 The rules distinguish payment types and disallow different proportions of each,
 with interest and lease rental treated more favourably than general payments.
-**We could not retrieve the gazette text from an official source and are not
-publishing the percentages** — the figures circulating on advisory sites are
-consistent but unverified here. Before you model a structure, read P.U.(A)
-375/2018 and P.U.(A) 376/2020 yourself or have your agent confirm them.
+As amended by P.U.(A) 376/2020, item 1 — interest, including any commission,
+facility fee or advance fee in connection with financing — and item 2 — lease
+rental — each disallow **25% of the payment**, while item 3 — all other payments
+— remains at **97% disallowed**, so only 3% of a general payment is deductible.
+The 2020 amendment substituted 25% for the former 33% in items 1 and 2 and left
+item 3 untouched; it is deemed in force from 1 January 2019.
 
 ### The exemption, and its expiry date
 
@@ -362,12 +400,30 @@ under P.U.(A) 425/2021, which exempts a Malaysian resident from paragraph
 The circular then states the effective period: **from year of assessment 2019 to
 year of assessment 2025**.
 
-That window is now behind us. We could not locate a gazetted extension. This is
-the single most consequential open question on this page: if the exemption has
-lapsed and has not been replaced, every Malaysian payer making deductible
-payments to a Labuan company is back inside the restriction. **Verify the
-current position with LHDN before filing.** Do not rely on an advisory page
-written in 2022.
+That window closed at the end of YA2025 — but only partly. The **Income Tax
+(Labuan Company) (Exemption) Order 2026, P.U.(A) 147/2026** (made 18 March 2026,
+gazetted 31 March 2026) renewed the s.39(1)(r) exemption **from YA2026 to
+YA2030**, but only for payments to a Labuan company undertaking a qualifying
+**Global Incentives for Trading (GIFT)** activity — a Labuan International
+Commodity Trading Company licensed under s.92 of Act 704 (the Labuan Financial
+Services and Securities Act 2010), trading physical commodities and related
+derivatives. It does **not** renew the two broader categories P.U.(A) 425/2021
+also covered — the s.3A-electing company and the general s.2B
+Labuan-business-activity company. No renewing order for those was located, so for
+an ordinary (non-GIFT) Labuan company the exemption lapsed after YA2025 and every
+Malaysian payer making deductible payments to it is back inside the restriction.
+**Verify the current position with LHDN before filing.**
+
+Such a company carries its own substance test. Under the Labuan Business Activity
+Tax (Requirements for Labuan International Commodity Trading Company) Regulations
+2021, P.U.(A) 482/2021 — as amended by P.U.(A) 326/2025, which added the fit and
+proper conditions — a Labuan International Commodity Trading Company must employ
+at least **three fit and proper full-time employees, including at least two in
+its Labuan business operational office** (per group of companies, with one more
+in Labuan for every five related companies beyond five), and incur at least
+**RM3,000,000 of annual operating expenditure in Malaysia, including RM100,000 in
+Labuan for each company**. These figures derive from the regulations and
+supersede the older Labuan FSA circular 239/2020.
 
 One naming caution, because it causes confusion in searches: Labuan FSA titles
 P.U.(A) 425/2021 the *Income Tax (Exemption) (No. 11) Order 2021*, while several
@@ -392,8 +448,9 @@ When is this the right move?
 - Substance in Labuan is genuinely unachievable, and 24% under s.2B(1A) with no
   deductions is worse than 24% under the ITA with them.
 - Malaysian counterparties are the main customers and the s.39(1)(r) problem
-  dominates the analysis, since an electing company is one of the categories the
-  exemption order addressed.
+  dominates the analysis — though the exemption that once covered electing
+  companies (P.U.(A) 425/2021) lapsed after YA2025, and P.U.(A) 147/2026 now
+  reaches only GIFT commodity-trading companies.
 - Treaty access matters and the counterparty jurisdiction is one that will not
   extend benefits to an entity taxed under the LBATA.
 
@@ -539,8 +596,9 @@ whose counterparties are outside Malaysia.
 - **Structuring IP into Labuan.** Excluded by s.4(3), s.9(2) and s.2B(1C).
 - **Analysing the Labuan company in isolation.** Section 39(1)(r) taxes the
   Malaysian payer. Model both sides or you have modelled nothing.
-- **Assuming the s.39(1)(r) exemption still runs.** The Labuan FSA circular puts
-  P.U.(A) 425/2021 at YA2019 to YA2025. Check before you rely on it.
+- **Assuming the s.39(1)(r) exemption still runs.** P.U.(A) 425/2021 covered
+  YA2019 to YA2025; P.U.(A) 147/2026 renews it only for GIFT commodity-trading
+  companies (YA2026 to YA2030). For an ordinary Labuan company it has lapsed.
 - **Making a s.3A election as a tactical move.** It binds every subsequent basis
   period, permanently.
 - **Using the three-month filing rule.** Under the current-year basis the LHDN

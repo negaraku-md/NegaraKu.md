@@ -38,10 +38,7 @@ faq:
     a: "The seven principles in ss.5 to 12 of Act 709 were not renumbered or rewritten. What changed is who they bind and what they cost. The Security Principle in s.9 now reads as a duty of a data controller and a data processor, so a processor no longer sits behind the controller's guarantees. The maximum penalty under s.5(2) tripled."
 
 verificationNeeded:
-  - "Whether JPDP will issue a separate cross-border transfer guideline giving criteria for the substantially similar and adequate protection tests in the rewritten s.129 — none is published as at July 2026"
-  - "The prescribed period for completing a data portability transmission under s.43A(3) — the section commenced 1 June 2025 but no period has been prescribed"
-  - "Guidelines on automated decision making and profiling, data protection by design, data protection impact assessments and portability, which JPDP has signalled but not yet issued"
-  - "The outcome of Public Consultation Paper 4/2025 on proposed amendments to the Personal Data Protection Regulations 2013, issued 25 August 2025"
+  - "The outcome of Public Consultation Paper 4/2025 on proposed amendments to the Personal Data Protection Regulations 2013 (issued 25 August 2025) — still at public consultation with no gazetted amendment as at 14 August 2026"
 
 obligations:
   - what: "Notify the Commissioner of a personal data breach causing or likely to cause significant harm"
@@ -66,9 +63,9 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-07-22
-reviewDue: 2027-07-22
-version: "0.2"
+reviewed: 2026-08-14
+reviewDue: 2027-08-14
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-20
@@ -78,8 +75,12 @@ revisions:
     date: 2026-07-21
     change: "Made the P.U.(B) 522/2024 date unambiguous: dated 19 December 2024 and gazetted 24 December 2024 (both verified against the AGC gazette); sources[] already carried the gazette date, and online-business-licence-malaysia was aligned to match."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-07-20
+updated: 2026-08-14
 sources:
   - title: "Personal Data Protection (Amendment) Act 2024 [Act A1727]"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2430673_BI/Act%20A1727.pdf"
@@ -108,6 +109,30 @@ sources:
   - title: "Personal Data Protection (Registration of Data User) Regulations 2013 [P.U. (A) 337/2013]"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputp/pua_20131114_P.U.%20(A)%20337.pdf"
     publisher: "Attorney General's Chambers"
+    date: "2013-11-14"
+  - title: "Cross Border Personal Data Transfer Guideline [GP_CBPDT_EN]"
+    url: "https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2025/08/GP_CBPDT_EN-1.pdf"
+    publisher: "Personal Data Protection Commissioner Malaysia"
+    date: "2025-04-29"
+  - title: "Data Protection Impact Assessment Guideline (DPIA)"
+    url: "https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2026/04/Data-Protection-Impact-Assessment-Guideline-DPIA.pdf"
+    publisher: "Personal Data Protection Commissioner Malaysia"
+    date: "2026-04-30"
+  - title: "Data Protection By Design Guideline (DpbD)"
+    url: "https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2026/04/Data-Protection-By-Design-Guideline-DpbD.pdf"
+    publisher: "Personal Data Protection Commissioner Malaysia"
+    date: "2026-04-30"
+  - title: "PDP Commissioner launches Guidelines on Data Protection Impact Assessment, Automated Decision-Making and Profiling, and Data Protection by Design"
+    url: "https://www.allenandgledhill.com/perspectives/publications/bulletins-malaysia/2026/pdp-commissioner-launches-guidelines-on-data-protection-impact-assessment-automated-decision-making-and-profiling-and-data-protection-by-design/"
+    publisher: "Allen & Gledhill"
+    date: "2026-04-30"
+  - title: "AKTA 709 — Guidelines, Orders and Public Consultation Papers listing"
+    url: "https://www.pdp.gov.my/ppdpv1/en/akta709/"
+    publisher: "Personal Data Protection Commissioner Malaysia"
+    date: "2026-08-14"
+  - title: "Personal Data Protection Regulations 2013 [P.U. (A) 335/2013]"
+    url: "https://www.pdp.gov.my/ppdpv1/en/akta/personal-data-protection-regulations-2013/"
+    publisher: "Personal Data Protection Commissioner Malaysia"
     date: "2013-11-14"
 
 entity: "Personal Data Protection Act 2010"
@@ -225,7 +250,7 @@ The old s.129(1) prohibited transfer outside Malaysia except to a place the Mini
 
 Section 12 of A1727 **deleted s.129(1) altogether**, and rewrote s.129(2) so that it now reads as a permission: a data controller may transfer personal data to a place outside Malaysia if there is in force in that place a law **substantially similar** to Act 709, or that place **ensures an adequate level of protection** at least equivalent to Act 709. The words “or that serves the same purposes as this Act” were struck out of limb (a).
 
-This is a self-assessment. There is no application, no approval, and — as at July 2026 — **no published JPDP criteria** for either test. The separate grounds in s.129(3) survive, including consent, contract necessity and legal proceedings; only paragraph (h), transfers the Minister deemed to be in the public interest, was deleted along with the ministerial machinery in s.129(4).
+This is a self-assessment — there is no application and no approval — but it is not unguided. On **29 April 2025** the Commissioner launched the **Cross Border Personal Data Transfer Guidelines** (GP_CBPDT), which set criteria for both limbs. To rely on either the *substantially similar law* or the *adequate level of protection* test, a data controller must run a **Transfer Impact Assessment (TIA)** weighing enumerated factors — comparable data-subject rights in the destination, and recipient security measures aligned to the Security Principle and the Personal Data Protection Standards — with each TIA valid for **no longer than three years**. The separate grounds in s.129(3) survive, including consent, contract necessity and legal proceedings, and the guideline explains them too; only paragraph (h), transfers the Minister deemed to be in the public interest, was deleted along with the ministerial machinery in s.129(4).
 
 ## What is the new right to data portability?
 
@@ -257,7 +282,7 @@ The same amendment threaded portability into the machinery: s.3(e) of A1727 wide
 
 **Leaving “data user” in the privacy notice.** Cosmetic on its own, but it is a reliable signal that the notice has not been reviewed since 2024 — and the s.7 Notice and Choice Principle requires the notice to be accurate.
 
-**Believing the whitelist still governs cross-border transfer.** A surprising amount of 2023-vintage guidance still tells readers to check a gazetted list of approved countries. That mechanism was deleted. Assess the destination yourself and document the assessment.
+**Believing the whitelist still governs cross-border transfer.** A surprising amount of 2023-vintage guidance still tells readers to check a gazetted list of approved countries. That mechanism was deleted. Assess the destination yourself and document the assessment — the Cross Border Personal Data Transfer Guidelines expect a Transfer Impact Assessment, refreshed at least every three years.
 
 **Assuming your cloud vendor's DPA discharges you.** Section 12A(4) is explicit: appointing a DPO does not discharge the controller or processor from any duty under the Act. The same logic runs through the Security Principle — you remain liable for your own processing.
 
@@ -265,4 +290,4 @@ The same amendment threaded portability into the machinery: s.3(e) of A1727 wide
 
 Work through it in this order. Decide whether you are a controller, a processor, or both for different data sets. Test yourself against the three DPO limbs, paying attention to the third one. Check whether any of the 13 registration classes reaches you. Then write the breach playbook — because 72 hours is not long enough to design a process from scratch while the incident is running.
 
-Four subject-specific guidelines have been signalled for issue during 2026, covering automated decision making and profiling, data protection by design, data protection impact assessments, and the s.43A portability right. The portability right is already in force but no transmission period has been prescribed, so it is currently a right with no clock.
+Three of the four subject-specific guidelines JPDP had signalled are now live: on **30 April 2026** the Commissioner launched the **Data Protection Impact Assessment**, **Data Protection by Design**, and **Automated Decision-Making and Profiling** guidelines. Only the **data portability** guideline is still outstanding, remaining a consultation paper (PCP 03/2024). The s.43A portability right itself has been in force since 1 June 2025 but no transmission period has been prescribed, so it is currently a right with no clock. Watch, too, for the outcome of Public Consultation Paper 4/2025 on amendments to the Personal Data Protection Regulations 2013, which was still at consultation as at August 2026.

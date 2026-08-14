@@ -43,14 +43,11 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
+reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "0.2"
+version: "0.3"
 verificationNeeded:
-  - "Waktu operasi 997: halaman rasmi NFCC (nfcc.jpm.gov.my/about-nsrc) masih menyenaraikan 997 sebagai beroperasi 8 pagi–8 malam. Dakwaan '24 jam' dan 'panggilan dikira laporan polis' mulai September 2025 bersandar pada laporan Bernama (26 Julai 2025) dan RinggitPlus — sahkan sama ada perubahan ini telah berkuat kuasa dan halaman NFCC telah dikemas kini."
   - "Nombor 112 sebagai alternatif kecemasan dari telefon bimbit: tidak dapat disahkan terhadap sumber kerajaan berwibawa dalam pusingan semakan ini, khususnya dakwaan ia berfungsi tanpa SIM/kredit dan dihalakan ke 999. Perincian teknikal telah dilembutkan; sahkan dengan MCMC atau JPAM sebelum menegaskannya semula."
-  - "Statistik kerugian RM2.97 bilion / 66,204 kes dilabel sebagai angka tahun penuh 2025 tetapi diumumkan Ketua Polis Negara pada 15 Jun 2026 — sahkan bahawa ia merujuk tempoh penuh Januari–Disember 2025."
-  - "Waktu operasi CCID Infoline (8 pagi–12 tengah malam) dan syarat 'nombor telekomunikasi Malaysia berdaftar sahaja' — sahkan masih terkini terhadap makluman rasmi PDRM."
 revisions:
   - version: "0.1"
     date: 2026-08-01
@@ -60,12 +57,27 @@ revisions:
     date: 2026-08-01
     change: "Correction pass: tambah sumber rasmi untuk SemakMule (portal PDRM), MERS 999 (MyGovernment) dan e-Reporting PDRM; kaitkan amaran OTP/TAC dengan halaman NFCC; lembutkan dakwaan teknikal '112'; tambah senarai verificationNeeded."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-08-01
+updated: 2026-08-14
 sources:
   - title: "National Scam Response Centre (NSRC)"
     url: "https://nfcc.jpm.gov.my/index.php/en/about-nsrc"
     publisher: "Pusat Kebangsaan Anti Jenayah Kewangan (NFCC), Jabatan Perdana Menteri"
+  - title: "Hotline NSRC 997"
+    url: "https://www.malaysia.gov.my/my/categories/keselamatan--komuniti/keselamatan-siber/hotline-nsrc-997"
+    publisher: "MyGovernment (malaysia.gov.my), Jabatan Digital Negara"
+  - title: "Calls to 997 scam hotline to be treated as police reports, says Deputy Comms Minister"
+    url: "https://www.thestar.com.my/news/nation/2025/07/26/calls-to-997-scam-hotline-to-be-treated-as-police-reports-says-deputy-comms-minister"
+    publisher: "The Star"
+    date: "2025-07-26"
+  - title: "Online scam cases surge 87% to 66,204 in 2025, says IGP"
+    url: "https://www.thestar.com.my/news/nation/2026/06/15/online-scam-cases-surge-87-to-66204-so-far-this-year-says-igp"
+    publisher: "The Star"
+    date: "2026-06-15"
   - title: "Public Urged To Use 997 Hotline As 24-hour Scam Response Centre From September"
     url: "https://www.bernama.com/en/news.php?id=2449632"
     publisher: "Bernama"

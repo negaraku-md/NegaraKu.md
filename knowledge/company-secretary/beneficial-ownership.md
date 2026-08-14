@@ -17,6 +17,7 @@ keyTakeaways:
   - "A beneficial owner is always a natural person; a corporate shareholder can never be named as one"
   - "The threshold is 20% of shares or voting shares, but Criteria F catches people holding no shares at all"
   - "Records must be retained for 7 years after a person ceases to be a beneficial owner (s.60B(5))"
+  - "Since 30 November 2024, beneficial ownership information must also be included in the annual return — Act A1701 s.4 (paras 68(3)(ia) and (ib)) and s.26 (paras 576(2)(ha) and (hb)) came into force via P.U.(B) 475/2024"
   - "Breach of s.60B carries a fine up to RM20,000 plus RM500 a day for a continuing offence"
   - "The transitional window ran 1 April to 30 September 2024 — it has closed, and late lodgement fees now apply"
 appliesTo: "Directors, company secretaries and shareholders of every company and registered foreign company in Malaysia."
@@ -37,8 +38,6 @@ faq:
 
 verificationNeeded:
   - "Confirm the exact late lodgement fee scale applied to beneficial ownership lodgements after 30 September 2024 against SSM's published fee schedule — SSM states late lodgement fees apply but the amounts are not stated in PD 9/2024"
-  - "Confirm the commencement date of paragraphs 68(3)(ia) and (ib) and 576(2)(ha) and (hb) — SSM stated these would be enforced on a later date to be determined by the Registrar"
-  - "Confirm whether Practice Directive 9/2024 remains the operative directive or has been superseded"
 
 obligations:
   - what: "Record beneficial ownership information in the register of beneficial owners"
@@ -82,14 +81,19 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-07-22
+publishedBy: "ashton-tan"
+reviewed: 2026-08-14
 reviewDue: 2027-07-22
-version: "0.1"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-20
     change: "Initial draft."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 sensitivity: "none"
 
 updated: 2026-07-20
@@ -115,6 +119,18 @@ sources:
   - title: "Companies Act 2016 [Act 777]"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
     publisher: "SSM"
+  - title: "Section 68(7) Annual Return + Beneficial Ownership Annexure"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Section%2068%20(7)%20AR%20+%20BO%20Annexure%20D1%20(final).pdf"
+    publisher: "SSM"
+  - title: "Three provisions of the Companies (Amendment) Act 2024 come into operation (s.4 amends s.68(3); s.26 amends s.576(2); in force 30 November 2024, P.U.(B) 475/2024)"
+    url: "https://www.skrine.com/insights/alerts/december-2024/three-provisions-of-the-companies-amendment-act-20"
+    publisher: "Skrine"
+  - title: "Companies (Amendment) Act 2024: Key Amendments and Developments (sections 4, 26 and 28 in force 30 November 2024)"
+    url: "https://www.cheangariff.com/cases-deals/article/2025/08/companies-amendment-act-2024-key-amendments-and-developments-in-corporate-governance-and-rehabilitation-framework/"
+    publisher: "Cheang & Ariff"
+  - title: "Companies (Amendment) Act 2024: Updated Framework for the Reporting of Beneficial Ownership Information (cites PD 9/2024 (Revised) as operative)"
+    url: "https://www.mondaq.com/corporate-governance/1548586/companies-amendment-act-2024-updated-framework-for-the-reporting-of-beneficial-ownership-information"
+    publisher: "Mondaq / Halim Hong & Quek"
 
 entity: "Beneficial Ownership Reporting"
 relations:
@@ -306,6 +322,17 @@ year**, tied to the annual return cycle. SSM's sample notices give the
 recipient 30 days to reply. Notices and replies may be physical or electronic,
 and both must be recorded and kept with the register as supporting documents.
 
+The annual return link is now statutory, not just administrative. Sections 4
+and 26 of the Companies (Amendment) Act 2024 came into operation on
+**30 November 2024** by gazette notification P.U.(B) 475/2024. Section 4 amends
+s.68(3) to require a company's annual return to include its beneficial ownership
+information under s.60B(1) and the address at which the register is kept — the
+new paragraphs 68(3)(ia) and (ib) — and s.26 imposes the equivalent requirement
+on a foreign company's annual return through the new paragraphs 576(2)(ha) and
+(hb). SSM has published the corresponding annual-return BO annexure. Beneficial
+ownership information is therefore part of the annual return, and no longer
+sits only in e-BOS and the register.
+
 SSM has also confirmed that information volunteered by a beneficial owner does
 **not** discharge the company from sending the notices. A beneficial owner has
 their own duty under s.60D to notify the company, to report changes, and to
@@ -417,6 +444,14 @@ Lodgement itself is free. No fee is imposed for lodging beneficial ownership
 information or for updating changes to particulars. Late lodgement fees and
 rectification fees are a different matter, and rectification of information
 already lodged runs through s.602 and Practice Note 6/2019.
+
+Practice Directive No. 9/2024 (Revised) remains the operative lodgement
+directive for companies. It has not been superseded: the revised Guidelines of
+10 January 2025 and the Companies (Access to Register and Information Relating
+to Beneficial Ownership) Regulations 2025 sit alongside it rather than in place
+of it. A separate Practice Note No. 5/2025 governs beneficial ownership
+lodgement for limited liability partnerships through e-BOS LLP, but that is the
+LLP framework and does not replace PD 9/2024 for companies.
 
 ## Common mistakes
 

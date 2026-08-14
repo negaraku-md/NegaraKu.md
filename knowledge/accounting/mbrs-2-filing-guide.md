@@ -37,10 +37,7 @@ faq:
   - q: "If SSM queries my filing, does the deadline stop?"
     a: "No. A query sends the filing back to the maker for correction and resubmission, but nothing about that pauses the s.258 circulation clock or the s.259 lodgement clock. If the corrected file lands after the statutory date, late lodgement penalties under Practice Directive 1/2017 apply from the original due date."
 
-verificationNeeded:
-  - "Confirm the current mTool build and any taxonomy release after SSMxT_2022v1.0 against SSM's MBRS page before preparing a filing — SSM updates these without a separate announcement"
-  - "Confirm the current mPortal fee for each submission type against SSM's Table of Fees at the time of lodgement"
-  - "The published MBRS FAQ is version 2.4 (October 2024) and predates some mTool 2.2 behaviour — check the mTool 2.2 user manuals for the entry point you are filing"
+verificationNeeded: []
 
 lang: "en"
 masterLanguage: "en"
@@ -49,9 +46,10 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-07-22
+publishedBy: "ashton-tan"
+reviewed: 2026-08-14
 reviewDue: 2027-07-22
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-20
@@ -61,13 +59,20 @@ revisions:
     date: 2026-07-21
     change: "Removed the stale 'mTool 2.1' migration step (the article states mTool 2.2 is current) — a 1.0 zip is reopened in the current tool. EA5A and EA5B remain cited to s.259(2), which PN 3/2018 para 10 confirms is the single extension power for both circulation and lodgement."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-07-20
+updated: 2026-08-14
 sources:
-  - title: "Malaysian Business Reporting System (MBRS) — Frequently Asked Questions, version 2.4"
-    url: "https://www.ssm.com.my/Pages/Register_Business_Company_LLP/Company/document/FAQs_Malaysian_Business_Reporting_System_MBRS.pdf"
+  - title: "Malaysian Business Reporting System (MBRS) — Frequently Asked Questions, Version 2.8"
+    url: "https://www.ssm.com.my/Pages/Register_Business_Company_LLP/Company/document/FAQ_MBRS_ISSB.pdf"
     publisher: "SSM"
-    date: "2024-10-01"
+    date: "2025-05-01"
+  - title: "Table of Fees — Registration of Company (ROC)"
+    url: "https://www.ssm.com.my/Pages/Services/Registration-of-Company-(ROC)/Table-of-Fees.aspx"
+    publisher: "SSM"
   - title: "MBRS Enhancement MBRS 2.0 — Overview"
     url: "https://www.ssm.com.my/Pages/Publication/PDF%20Files/AD%202024%20-%20Overview%20of%20MBRS%20v2.pdf"
     publisher: "SSM"

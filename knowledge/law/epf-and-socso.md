@@ -42,14 +42,11 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-08
+reviewed: 2026-08-14
 reviewDue: 2027-08-08
-version: "0.2"
-verificationNeeded:
-  - "Tarikh tepat penstrukturan semula akaun EPF: sumber rasmi yang dirujuk hanya mengesahkan 'Mei 2024'. Sesetengah laporan menyebut 11 Mei 2024 — sahkan hari tepat dengan pengumuman rasmi KWSP."
-  - "Angka penalti EPF (Seksyen 43(2): sehingga 3 tahun / RM10,000; Seksyen 48(3): sehingga 6 tahun / RM20,000) — sahkan dengan teks penuh Akta KWSP 1991 rasmi atau laman pematuhan KWSP."
-  - "Kadar caruman EPF pekerja bukan warganegara 2%/2% dan senarai penuh pengecualian (pembantu rumah) — sahkan dengan pengumuman/pekeliling rasmi KWSP bertarikh 2025."
-  - "Dividen EPF 6.15% bagi tahun 2025 (Simpanan Konvensional) — sahkan pengisytiharan rasmi penuh KWSP."
+publishedBy: "ashton-tan"
+version: "0.3"
+verificationNeeded: []
 revisions:
   - version: "0.1"
     date: 2026-08-07
@@ -59,8 +56,12 @@ revisions:
     date: 2026-08-07
     change: "Correction pass: sourced EPF penalties + Oct-2025 foreign-worker mandate, added foreign-worker 2%/2% rate, fixed Third Schedule attribution, softened '11 Mei 2024' to 'Mei 2024'."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-08-07
+updated: 2026-08-14
 sources:
   - title: "Liputan Akta Keselamatan Sosial Pekerja 1969"
     url: "https://www.perkeso.gov.my/index.php?option=com_content&view=article&id=683&catid=12"
@@ -89,6 +90,24 @@ sources:
   - title: "Malaysia introduces mandatory EPF contributions for foreign employees"
     url: "https://global.lockton.com/us/en/news-insights/malaysia-introduces-mandatory-epf-contributions-for-foreign-employees"
     publisher: "Lockton"
+  - title: "EPF Account Restructuring Set to Address Members' Life Cycle Needs"
+    url: "https://www.kwsp.gov.my/en/w/epf-account-restructuring-1"
+    publisher: "KWSP (Kumpulan Wang Simpanan Pekerja)"
+  - title: "FAQs on KWSP's restructuring of members' accounts starting 11 May 2024"
+    url: "https://www.humanresourcesonline.net/faqs-on-kwsp-s-restructuring-of-members-accounts-starting-11-may-2024"
+    publisher: "Human Resources Online"
+  - title: "Employees Provident Fund Act 1991 (Act 452) — full consolidated text, ss.43, 47, 48"
+    url: "https://www.leepartners.my/wp-content/uploads/2016/08/EMPLOYEES_PROVIDENT_FUND_ACT_1991___ACT_452.pdf"
+    publisher: "Laws of Malaysia (Act 452 reprint)"
+  - title: "Employees Provident Fund Act 1991 — consolidated"
+    url: "https://www.commonlii.org/my/legis/consol_act/epfa1991282/"
+    publisher: "CommonLII"
+  - title: "EPF Declares 6.15% Dividend for Simpanan Konvensional and 6.15% for Simpanan Shariah"
+    url: "https://www.kwsp.gov.my/en/w/news/epf-declares-6-15-dividend-for-simpanan-konvensional-and-6-15-for-simpanan-shariah"
+    publisher: "KWSP (Kumpulan Wang Simpanan Pekerja)"
+  - title: "EPF declares 6.15% dividend for conventional savings for 2025"
+    url: "https://www.thestar.com.my/news/nation/2026/02/28/epf-declares-615-dividend-for-conventional-savings-for-2025"
+    publisher: "The Star"
 
 entity: "EPF & SOCSO"
 relations:
@@ -145,7 +164,7 @@ Sebagai contoh, seorang pekerja warganegara berusia 30 tahun yang bergaji RM4,00
 
 ## Ke mana wang EPF anda pergi?
 
-Sejak penstrukturan semula pada Mei 2024, setiap caruman baharu dibahagikan kepada tiga akaun yang menangani jangka masa berbeza dalam hidup anda:
+Sejak penstrukturan semula pada 11 Mei 2024, setiap caruman baharu dibahagikan kepada tiga akaun yang menangani jangka masa berbeza dalam hidup anda:
 
 - **Akaun Persaraan (75%)** — simpanan jangka panjang untuk hari tua, biasanya boleh dikeluarkan penuh mulai umur 55 tahun.
 - **Akaun Sejahtera (15%)** — untuk keperluan kitaran hidup sebelum bersara seperti perumahan, kesihatan dan pendidikan.

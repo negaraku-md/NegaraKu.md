@@ -40,9 +40,6 @@ faq:
 
 verificationNeeded:
   - "The term wellness centre in Group C is no longer defined in the Service Tax Regulations 2018 after P.U.(A) 201/2025 deleted the proposed definition — confirm the current administrative boundary between a taxable wellness centre and a non-taxable beauty salon with RMCD"
-  - "Confirm whether the rental or leasing non-reviewable contract exemption was extended beyond 30 June 2026 by any policy issued after Service Tax Policy No. 2/2025 (Amendment No. 4) dated 6 February 2026"
-  - "The full text of P.U.(A) 125/2026 was not retrieved — the title and 1 January 2026 effect were confirmed from the AGC legislation portal and the corresponding 2% exemption in Service Tax Policy No. 2/2025 (Amendment No. 3). Verify the gazette text itself"
-  - "Confirm the full text of P.U.(A) 174/2025 (Service Tax (Persons Exempted from Payment of Tax) (Amendment) Order 2025) against the gazette — the citizen exemption for private healthcare was read from the RMCD FAQ, not the order itself"
 
 obligations:
   - what: "Apply for service tax registration after crossing a group threshold"
@@ -65,16 +62,20 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-07-22
+reviewed: 2026-08-14
 reviewDue: 2027-07-22
-version: "0.1"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-20
     change: "Initial draft."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-07-20
+updated: 2026-08-14
 sources:
   - title: "Service Tax (Amendment) Regulations 2025, P.U.(A) 172/2025"
     url: "https://mysst.customs.gov.my/wp-content/uploads/2025/07/Peraturan-Peraturan-CP-Pindaan-2025.pdf"
@@ -119,6 +120,21 @@ sources:
   - title: "FAQ — Expansion of Service Tax Scope 2025"
     url: "https://mysst.customs.gov.my/faq-expansion-of-service-tax-scope-2025/"
     publisher: "RMCD"
+  - title: "SST Orders (official list of Service Tax orders including the Persons Exempted from Payment Order and amendments)"
+    url: "https://mysst.customs.gov.my/sst-orders/"
+    publisher: "RMCD"
+  - title: "Malaysia Gazettes Service Tax (Rate of Tax) (Amendment) Order 2026 — P.U.(A) 125/2026 adds rental or leasing to the First Schedule 6% list, effective 1 January 2026"
+    url: "https://news.bloombergtax.com/daily-tax-report-international/malaysia-gazettes-service-tax-rate-of-tax-amendment-order-2026"
+    publisher: "Bloomberg Tax"
+  - title: "6 percent service tax rate for rental or leasing services — P.U.(A) 125/2026 deemed in operation 1 January 2026"
+    url: "https://kpmg.com/my/en/insights/2026/03/6-percent-service-tax-rate-for-rental-or-leasing-services.html"
+    publisher: "KPMG Malaysia"
+  - title: "Amendment to Service Tax Policy 2/2025 — rental or leasing; latest amendment restates 6% and does not extend the non-reviewable relief"
+    url: "https://kpmg.com/my/en/home/insights/2026/01/amendment-to-service-tax-policy-2-2025.html"
+    publisher: "KPMG Malaysia"
+  - title: "Latest Indirect Tax & SST Updates Malaysia 2026 — Service Tax Policy 2/2025 amendments; rental relief end date; no further extension"
+    url: "https://www.bdo.my/en-gb/insights/tax/malaysia-latest-indirect-tax-updates"
+    publisher: "BDO Malaysia"
 
 entity: "Service tax expansion 2025"
 relations:

@@ -1,54 +1,58 @@
 ---
 topicId: MY-BIZ-0001
-title: "How to Register a Sdn Bhd in Malaysia: Requirements, Cost and What Comes Next"
-seoTitle: "Register a Sdn Bhd in Malaysia: What Comes Next"
-socialTitle: "Registering a Sdn Bhd? The hard part isn't incorporation — it's day two."
+title: "Cara Mendaftar Sdn Bhd di Malaysia: Syarat, Kos dan Apa yang Menyusul"
+seoTitle: "Daftar Sdn Bhd di Malaysia: Apa yang Menyusul"
+socialTitle: "Mendaftar Sdn Bhd? Bahagian sukarnya bukan pemerbadanan — ia hari kedua."
 slug: "register-sdn-bhd"
 category: "business"
 subcategory: ["formation"]
-summary: "Apa yang anda perlukan, cara proses SSM berfungsi, kosnya, tempoh masa yang diambil — dan kewajipan pematuhan yang bermula sebaik sahaja syarikat anda wujud."
+summary: "Apa yang anda perlukan, cara proses SSM berjalan, kosnya, tempoh yang diambil — dan kewajipan pematuhan yang bermula pada hari syarikat anda wujud."
 
 tier: "1"
 mode: "practical"
 contentType: "guide"
 
-answer: "Sebuah Sdn Bhd diperbadankan dengan memfailkan permohonan kepada Suruhanjaya Syarikat Malaysia (SSM) melalui portal MyCoID. Anda memerlukan sekurang-kurangnya seorang pengarah yang bermastautin biasa di Malaysia dan sekurang-kurangnya seorang pemegang saham (yang tidak semestinya pemastautin), sebuah pejabat berdaftar, serta seorang setiausaha syarikat berlesen yang dilantik dalam tempoh 30 hari selepas pemerbadanan. Permohonan yang mudah biasanya didaftarkan dalam beberapa hari bekerja sebaik sahaja nama syarikat diluluskan."
+answer: "Sebuah Sdn Bhd diperbadankan dengan mengemukakan permohonan kepada Suruhanjaya Syarikat Malaysia (SSM) melalui Sistem Daftar Korporat (CRS), yang diakses menerusi portal SSM4U (yang menggantikan portal MyCoID terdahulu). Anda memerlukan sekurang-kurangnya seorang pengarah yang lazimnya bermastautin di Malaysia dan sekurang-kurangnya seorang pemegang saham (yang tidak semestinya bermastautin), sebuah pejabat berdaftar, dan seorang setiausaha syarikat berlesen yang dilantik dalam tempoh 30 hari selepas pemerbadanan. Piagam pelanggan SSM ialah satu hari bekerja untuk mendaftarkan permohonan yang lengkap sebaik sahaja fi dibayar, walaupun kelulusan nama dan sebarang pertanyaan boleh memanjangkan masa kalendar."
 keyTakeaways:
-  - "Sekurang-kurangnya seorang pengarah yang bermastautin biasa di Malaysia (Companies Act 2016, s.196)"
-  - "Sekurang-kurangnya seorang pemegang saham; syarikat sendirian dihadkan kepada 50 pemegang saham (s.42)"
-  - "Tiada modal dibenarkan dan tiada nilai par di bawah Akta Syarikat 2016 (Companies Act 2016) — kebanyakan syarikat bermula dengan modal berbayar RM1"
-  - "Seorang setiausaha syarikat yang berlesen mesti dilantik dalam tempoh 30 hari selepas pemerbadanan (s.236)"
-  - "Penyata tahunan pertama anda perlu difailkan dalam tempoh 30 hari dari ulang tahun pemerbadanan anda (s.68)"
-  - "Kewajipan pematuhan bermula pada tarikh pemerbadanan, bukan pada akhir tahun kewangan"
-appliesTo: "Pengasas kali pertama, pelabur asing yang menubuhkan entiti Malaysia, dan pemilik tunggal yang menukarkan perniagaan sedia ada kepada syarikat."
+  - "Minimum seorang pengarah yang lazimnya bermastautin di Malaysia (Akta Syarikat 2016, s.196)"
+  - "Minimum seorang pemegang saham; syarikat persendirian dihadkan kepada 50 pemegang saham (s.42)"
+  - "Tiada modal dibenarkan dan tiada nilai tara di bawah Akta Syarikat 2016 — banyak syarikat bermula pada RM1 modal berbayar"
+  - "Seorang setiausaha syarikat berlesen mesti dilantik dalam tempoh 30 hari selepas pemerbadanan (s.236)"
+  - "Penyata tahunan pertama anda perlu dikemukakan dalam tempoh 30 hari daripada ulang tahun pemerbadanan anda (s.68)"
+  - "Kewajipan pematuhan bermula pada tarikh pemerbadanan, bukan pada penghujung tahun kewangan"
+appliesTo: "Pengasas kali pertama, pelabur asing yang menubuhkan entiti Malaysia, dan pemilik tunggal yang menukar perniagaan sedia ada menjadi syarikat."
 
 faq:
   - q: "Bolehkah warga asing memiliki 100% sebuah Sdn Bhd Malaysia?"
-    a: "Bagi kebanyakan sektor, ya — Malaysia membenarkan pemilikan asing sepenuhnya bagi syarikat sendirian berhad. Sektor tertentu yang dikawal selia mengenakan syarat ekuiti atau memerlukan lesen, jadi sekatan tersebut khusus mengikut sektor dan bukan umum. Syarat pemastautinan terpakai kepada pengarah, bukan pemegang saham."
+    a: "Dalam kebanyakan sektor, ya — Malaysia membenarkan pemilikan asing penuh bagi syarikat sendirian berhad. Sektor terkawal tertentu mengenakan syarat ekuiti atau memerlukan lesen, jadi sekatan itu khusus mengikut sektor dan bukannya umum. Syarat kemastautinan terpakai kepada pengarah, bukan pemegang saham."
   - q: "Bolehkah seorang individu menjadi satu-satunya pengarah dan satu-satunya pemegang saham?"
-    a: "Boleh. Akta Syarikat 2016 membenarkan syarikat sendirian yang mempunyai seorang ahli dan seorang pengarah, dengan syarat pengarah tersebut bermastautin biasa di Malaysia."
-  - q: "Adakah saya perlu melantik setiausaha syarikat dengan segera?"
-    a: "Anda mesti melantik seorang dalam tempoh 30 hari selepas pemerbadanan (s.236). Setiausaha tersebut mesti berlesen dengan SSM atau menjadi ahli badan profesional yang ditetapkan. Ini adalah kewajipan berkanun, bukan pilihan."
+    a: "Boleh. Akta Syarikat 2016 membenarkan syarikat persendirian dengan seorang ahli tunggal dan seorang pengarah tunggal, dengan syarat pengarah itu lazimnya bermastautin di Malaysia."
+  - q: "Adakah saya perlukan setiausaha syarikat dengan segera?"
+    a: "Anda mesti melantik seorang dalam tempoh 30 hari selepas pemerbadanan (s.236). Setiausaha itu mesti berlesen oleh SSM atau menjadi ahli badan profesional yang ditetapkan. Ini adalah kewajipan berkanun, bukan pilihan."
   - q: "Adakah terdapat modal berbayar minimum?"
-    a: "Akta Syarikat 2016 tidak menetapkan sebarang minimum berkanun, dan konsep modal dibenarkan serta nilai par telah dimansuhkan. Kebanyakan syarikat diperbadankan dengan RM1. Bank, pihak berkuasa pelesenan dan permohonan visa mungkin mengharapkan jumlah yang jauh lebih besar."
-  - q: "Adakah syarikat tidak aktif masih perlu memfailkan penyata?"
-    a: "Ya. Syarikat tidak aktif masih perlu memfailkan penyata tahunan dan mesti menyimpan rekod perakaunan. Status tidak aktif menjejaskan layanan audit dan cukai, bukan kewujudan kewajipan pemfailan."
-  - q: "Bolehkah saya menggunakan alamat rumah saya sebagai pejabat berdaftar?"
-    a: "Pejabat berdaftar mestilah berada di Malaysia dan menjadi tempat di mana dokumen boleh diserahkan dan rekod diperiksa (s.46). Kebanyakan syarikat menggunakan pejabat setiausaha syarikat mereka sebagai gantinya."
+    a: "Akta Syarikat 2016 tidak menetapkan sebarang minimum berkanun, dan konsep modal dibenarkan serta nilai tara telah dimansuhkan. Banyak syarikat diperbadankan dengan RM1. Bank, pihak berkuasa pelesenan dan permohonan visa mungkin mengharapkan jumlah yang jauh lebih besar."
+  - q: "Adakah syarikat dorman masih perlu memfailkan?"
+    a: "Ya. Syarikat dorman masih mengemukakan penyata tahunan dan mesti menyimpan rekod perakaunan. Kedormanan mempengaruhi layanan audit dan cukai, bukan kewujudan tugas pemfailan."
+  - q: "Bolehkah saya guna alamat rumah saya sebagai pejabat berdaftar?"
+    a: "Pejabat berdaftar mesti berada di Malaysia dan menjadi tempat dokumen boleh disampaikan dan rekod boleh diperiksa (s.46). Banyak syarikat sebaliknya menggunakan pejabat setiausaha syarikat mereka."
 
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5e1dbba3146e2529"
+sourceContentHash: "0220f937a06b83b7"
 
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: "2026-07-25"
-publishedBy: "ashton-tan"
+reviewed: 2026-08-14
+reviewDue: 2027-07-22
 version: "0.3"
 sensitivity: "none"
 revisions:
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
   - version: "0.3"
     date: 2026-07-21
     change: "Rephrased the answer so the ordinary-residence requirement attaches only to the director, not the shareholder — a shareholder need not be resident (consistent with s.196 and the FAQ)."
@@ -63,11 +67,7 @@ revisions:
     change: "Initial draft"
     reviewer: null
 
-verificationNeeded:
-  - "Incorporation fee — widely reported by third parties as RM1,010 inclusive; confirm against SSM's published fee schedule before stating it"
-  - "Processing time — commonly cited as 1–3 working days once documents are in order; confirm SSM's current service standard"
-  - "Whether MyCoID account activation still requires in-person verification at an SSM counter — third-party guides disagree"
-  - "Audit exemption criteria — governed by SSM Practice Directive and revised periodically; confirm current thresholds"
+verificationNeeded: []
 
 obligations:
   - what: "Appoint a licensed company secretary"
@@ -108,7 +108,7 @@ obligations:
     due: "Within 14 days of the change"
     authority: "SSM"
 
-updated: 2026-07-10
+updated: 2026-08-14
 sources:
   - title: "Companies Act 2016"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Companies-Act-2016.aspx"
@@ -116,264 +116,270 @@ sources:
   - title: "Companies Commission of Malaysia (SSM)"
     url: "https://www.ssm.com.my/"
     publisher: "SSM"
-  - title: "MyCoID — online company registration portal"
-    url: "https://mycoid.ssm.com.my/"
+  - title: "SSM4U — Corporate Registry System (CRS) portal"
+    url: "https://www.ssm4u.com.my/"
     publisher: "SSM"
+  - title: "Guidelines for the Incorporation of Local Companies under Section 14 of the Companies Act 2016"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/GUIDELINES/Guidelines-For-Incorporation-of-A-Local-Company.pdf"
+    publisher: "Companies Commission of Malaysia (SSM)"
+  - title: "Table of Fees (Registration of Company)"
+    url: "https://www.ssm.com.my/Pages/Services/Registration-of-Company-(ROC)/Table-of-Fees.aspx"
+    publisher: "Companies Commission of Malaysia (SSM)"
+  - title: "Frequently Asked Questions (FAQ) — Corporate Registry System (CRS)"
+    url: "https://www.ssm.com.my/Pages/Services/Other-Services/document/CRS-FAQs.pdf"
+    publisher: "Companies Commission of Malaysia (SSM)"
+  - title: "Practice Directive No. 10/2024 — Qualifying Criteria for Audit Exemption for Certain Private Companies"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/PD10-2024-Qualifying-Criteria-for-Audit-Exemption-for-Certain-Categories-of-Private-Companies.pdf"
+    publisher: "Companies Commission of Malaysia (SSM)"
   - title: "Inland Revenue Board of Malaysia (LHDN)"
     url: "https://www.hasil.gov.my/"
     publisher: "LHDN"
 
 entity: "Sdn Bhd"
-relations:
-  - { rel: "governs", to: "companies-act-2016" }
-  - { rel: "administered-by", to: "ssm" }
-  - { rel: "requires", to: "company-secretary" }
-  - { rel: "compares-with", to: "sole-prop-vs-sdn-bhd" }
-  - { rel: "affects", to: "annual-return" }
-related: ["what-is-sdn-bhd", "appoint-company-secretary", "companies-act-2016", "sole-prop-vs-sdn-bhd"]
+relations: []
+related: []
 keywords:
-  - "daftar syarikat Malaysia"
-  - "pendaftaran Sdn Bhd"
-  - "pemerbadanan SSM"
+  - "register company Malaysia"
+  - "Sdn Bhd registration"
+  - "SSM incorporation"
   - "cara daftar syarikat Sdn Bhd"
-  - "cara buka syarikat Malaysia"
-  - "pendaftaran MyCoID"
+  - "how to open company Malaysia"
+  - "CRS SSM4U registration"
 ---
 
-Kebanyakan pengasas menghabiskan berminggu-minggu risau tentang pemerbadanan.
-Sebenarnya, itu biasanya perkara paling mudah yang mereka lakukan sepanjang tahun.
+Kebanyakan pengasas menghabiskan berminggu-minggu bimbang tentang pemerbadanan.
+Ia biasanya perkara paling mudah yang mereka lakukan sepanjang tahun.
 
-Kerja-kerja kertas memang mudah, prosesnya dilakukan secara dalam talian, dan
-syarikat yang mudah boleh didaftarkan dalam beberapa hari. Yang sering
-mengejutkan orang ialah apa yang berlaku selepas itu — kerana sebaik sahaja SSM
-mengeluarkan notis pendaftaran anda, satu siri kewajipan berkanun mula
-berjalan, dan tiada sesiapa yang akan menghantar peringatan kepada anda.
+Kerja kertasnya memang mudah, prosesnya dalam talian, dan sebuah syarikat yang
+mudah boleh didaftarkan dalam beberapa hari. Apa yang menyukarkan orang ialah apa
+yang berlaku selepas itu — kerana pada saat SSM mengeluarkan notis pendaftaran
+anda, satu set tugas berkanun mula berjalan, dan tiada sesiapa menghantar
+peringatan kepada anda.
 
-Panduan ini merangkumi kedua-dua bahagian: cara untuk berdaftar, dan apa yang
-anda telah persetujui sebaik sahaja anda berdaftar.
+Panduan ini merangkumi kedua-dua bahagian: cara untuk didaftarkan, dan apa yang
+telah anda tanggung setelah anda didaftarkan.
 
 ## Apa sebenarnya Sdn Bhd itu
 
-*Sendirian Berhad* — Sdn Bhd — ialah syarikat sendirian yang dihadkan oleh
-saham. Perkataan yang penting di sini ialah **terhad**.
+*Sendirian Berhad* — Sdn Bhd — ialah syarikat persendirian yang dihadkan oleh
+saham. Perkataan yang penting ialah **dihadkan**.
 
-Sdn Bhd adalah entiti undang-undang berasingan daripada orang yang
-memilikinya. Ia boleh memiliki harta, menandatangani kontrak, serta mendakwa
-dan didakwa atas namanya sendiri. Jika ia gagal, pemegang saham secara amnya
-hanya kehilangan apa yang mereka labur, bukan rumah yang mereka duduki.
-Pemisahan itulah sebab utama struktur ini wujud.
+Sebuah Sdn Bhd ialah entiti undang-undang yang berasingan daripada orang yang
+memilikinya. Ia boleh memiliki harta, menandatangani kontrak, mendakwa dan didakwa
+atas namanya sendiri. Jika ia gagal, pemegang saham umumnya hanya kehilangan apa
+yang mereka laburkan, dan bukannya rumah yang mereka diami. Pemisahan itulah
+seluruh sebab struktur ini wujud.
 
-Dua akibat berikutan daripada ini, dan kedua-duanya sering mengejutkan
-pemilik kali pertama:
+Dua akibat menyusul, dan kedua-duanya mengejutkan pemilik kali pertama:
 
-- **Wang syarikat bukan wang anda.** Mengeluarkan tunai adalah satu
-  transaksi — gaji, yuran pengarah, atau dividen — masing-masing dengan
-  layanan cukai tersendiri.
-- **Syarikat kekal wujud melebihi tempoh orang di dalamnya.** Saham
-  dipindah milik, pengarah meletak jawatan, dan entiti itu terus wujud.
-  Inilah sebabnya bank dan pelabur lebih menyukainya.
+- **Wang syarikat bukan wang anda.** Mengeluarkan tunai ialah satu transaksi —
+  gaji, yuran pengarah, atau dividen — masing-masing dengan layanan cukainya
+  sendiri.
+- **Syarikat hidup lebih lama daripada orangnya.** Saham berpindah tangan, pengarah
+  meletak jawatan, dan entiti itu terus berjalan. Inilah sebabnya bank dan pelabur
+  lebih menyukainya.
 
-Syarikat sendirian dihadkan kepada 50 pemegang saham, tidak termasuk pemegang
-saham pekerja tertentu (Companies Act 2016, s.42). Melebihi itu, anda
-sebenarnya melihat kepada syarikat awam, yang merupakan rejim yang sama
-sekali berbeza.
+Sebuah syarikat persendirian dihadkan kepada 50 pemegang saham, tidak termasuk
+pemegang saham pekerja tertentu (Akta Syarikat 2016, s.42). Melebihi itu anda sudah
+melihat syarikat awam, yang merupakan rejim yang berbeza sama sekali.
 
 ## Siapa yang boleh mendaftarkannya?
 
-Peraturan kelayakan lebih ketat berbanding jangkaan kebanyakan orang pada
-satu bahagian, dan lebih longgar pada bahagian yang lain.
+Peraturan kelayakan lebih sempit daripada yang dijangka kebanyakan orang di satu
+tempat, dan lebih luas di tempat lain.
 
-**Pengarah.** Setiap syarikat sendirian mesti mempunyai sekurang-kurangnya
-seorang pengarah yang *bermastautin biasa di Malaysia*, bermakna mereka
-mempunyai tempat kediaman utama di sini (s.196). Seorang pengarah mestilah
-berusia sekurang-kurangnya 18 tahun, tidak muflis yang belum dilepaskan, dan
-tidak hilang kelayakan di bawah Akta tersebut. Perhatikan bahawa ujiannya
-adalah pemastautinan, bukan kewarganegaraan — warga asing yang benar-benar
-tinggal di Malaysia boleh memenuhi syarat ini.
+**Pengarah.** Setiap syarikat persendirian mesti mempunyai sekurang-kurangnya
+seorang pengarah yang *lazimnya bermastautin di Malaysia*, bermaksud mereka
+mempunyai tempat kediaman utama di sini (s.196). Seorang pengarah mesti berumur
+sekurang-kurangnya 18 tahun, mesti bukan seorang bankrap yang belum dilepaskan, dan
+mesti tidak hilang kelayakan di bawah Akta. Perhatikan bahawa ujiannya ialah
+kemastautinan, bukan kewarganegaraan — seorang warga asing yang benar-benar tinggal
+di Malaysia boleh memenuhinya.
 
-**Pemegang saham.** Sekurang-kurangnya seorang. Pemegang saham boleh terdiri
-daripada individu atau syarikat lain, tempatan atau asing, dan boleh menjadi
-orang yang sama dengan pengarah. Tiada syarat pemastautinan bagi pemegang
-saham.
+**Pemegang saham.** Sekurang-kurangnya seorang. Seorang pemegang saham boleh menjadi
+individu atau syarikat lain, tempatan atau asing, dan boleh menjadi orang yang sama
+dengan pengarah. Tiada syarat kemastautinan bagi pemegang saham.
 
-**Pemilikan asing.** Bagi kebanyakan sektor, pemegangan saham asing sebanyak
-100% dibenarkan. Sekatan yang wujud adalah khusus mengikut sektor — industri
-terkawal tertentu mengenakan syarat ekuiti atau keperluan pelesenan.
-Peraturan am adalah keterbukaan; pengecualian adalah bersasar.
+**Pemilikan asing.** Dalam kebanyakan sektor, pemegangan saham asing 100% dibenarkan.
+Sekatan yang wujud adalah khusus mengikut sektor — industri terkawal tertentu
+mengenakan syarat ekuiti atau kehendak pelesenan. Peraturan umumnya ialah keterbukaan;
+pengecualiannya bersasar.
 
-Inilah salah faham paling biasa yang sering kita lihat: orang menyangka rakan
-kongsi tempatan diperlukan. Kebiasaannya, ia tidak diperlukan. Apa yang
-diperlukan ialah seorang *pengarah* pemastautin.
+Inilah salah faham yang paling biasa kami lihat: orang menganggap seorang rakan
+kongsi tempatan diperlukan. Biasanya tidak. Apa yang diperlukan ialah seorang
+*pengarah* yang bermastautin.
 
-## Memilih nama yang akan diluluskan
+## Memilih nama yang diluluskan
 
-Penolakan nama adalah punca paling biasa kelewatan pemerbadanan, dan ia
-hampir selalunya boleh dielakkan.
+Penolakan nama ialah punca paling biasa pemerbadanan yang tertangguh, dan ia hampir
+selalunya boleh dielakkan.
 
-Sesuatu nama akan ditolak jika ia sama seperti nama syarikat sedia ada, jika
-ia mengelirukan berkenaan aktiviti atau status syarikat, atau jika ia tidak
-wajar. Satu kategori berasingan — **perkataan terkawal** — tidak ditolak
-secara terus tetapi memerlukan kelulusan daripada pihak berkuasa berkenaan,
-yang mengambil masa.
+Sesuatu nama akan ditolak jika ia serupa dengan syarikat sedia ada, jika ia
+mengelirukan tentang aktiviti atau status syarikat, atau jika ia tidak diingini.
+Satu kategori berasingan — **perkataan terkawal** — tidak ditolak terus tetapi
+memerlukan kelulusan daripada pihak berkuasa berkaitan, yang mengambil masa.
 
-Perkataan terkawal termasuk istilah yang membayangkan kaitan diraja atau
-kerajaan, kepentingan negara, atau aktiviti terkawal. Perkataan yang
-membayangkan perbankan, insurans, status universiti atau bidang terkawal
-yang seumpamanya akan dirujuk dan bukan diluluskan di kaunter.
+Perkataan terkawal termasuk istilah yang membayangkan kaitan diraja atau kerajaan,
+kepentingan kebangsaan, atau aktiviti terkawal. Perkataan yang membayangkan
+perbankan, insurans, status universiti atau bidang terkawal yang serupa akan
+dirujuk dan bukannya diluluskan di kaunter.
 
 Pendekatan praktikal:
 
-- **Sediakan tiga nama, mengikut keutamaan.** Jangan terlalu terikat secara
-  emosi kepada satu nama sahaja.
-- **Buat carian sebelum memfailkan.** Nama sedia ada yang berbunyi serupa
+- **Sediakan tiga nama, mengikut keutamaan.** Jangan terlalu terikat secara emosi
+  dengan satu sahaja.
+- **Buat carian sebelum anda memfailkan.** Nama sedia ada yang berbunyi serupa
   menyebabkan penolakan.
-- **Elakkan menggambarkan aktiviti terkawal yang anda tidak berlesen
-  untuknya.** Nama yang mengandungi perkataan seperti "capital" atau
-  "insurance" mengundang rujukan yang anda tidak perlukan.
-- **Ingat bahawa nama bukanlah cap dagangan.** Kelulusan nama syarikat
-  memberi anda hak ke atas nama berdaftar tersebut; ia tidak memberi anda hak
-  jenama. Itu adalah pendaftaran yang sama sekali berasingan.
+- **Elakkan menerangkan aktiviti terkawal yang anda tidak berlesen untuknya.** Sebuah
+  nama dengan "capital" atau "insurance" di dalamnya mengundang rujukan yang anda
+  tidak perlukan.
+- **Ingat bahawa nama bukanlah cap dagangan.** Kelulusan nama syarikat memberikan
+  anda hak kepada nama berdaftar itu; ia tidak memberikan anda hak jenama. Itu
+  adalah pendaftaran yang berasingan sepenuhnya.
 
-Setelah diluluskan, nama tersebut dikhaskan untuk tempoh terhad. Failkan
-dalam tempoh tersebut atau anda perlu memulakan semula.
+Setelah diluluskan, nama itu ditempah untuk suatu tempoh yang terhad. Failkan dalam
+tempoh itu atau anda perlu bermula semula.
 
-## Adakah anda memerlukan perlembagaan syarikat?
+## Adakah anda perlukan perlembagaan?
 
-Di bawah Akta Syarikat yang terdahulu, setiap syarikat mempunyai Memorandum
-dan Tataurusan Persatuan (Articles of Association). Akta Syarikat 2016
-mengubah keadaan ini: sesebuah syarikat kini boleh diperbadankan **tanpa**
-perlembagaan, dan dalam keadaan sedemikian, peruntukan Akta tersebut terpakai
+Di bawah Akta Syarikat yang terdahulu, setiap syarikat mempunyai Memorandum dan
+Tataurusan Persatuan. Akta Syarikat 2016 mengubah ini: sebuah syarikat kini boleh
+diperbadankan **tanpa** perlembagaan, dan dalam keadaan itu peruntukan Akta terpakai
 secara lalai (s.31).
 
-Bagi kebanyakan syarikat kecil, kedudukan lalai ini memadai dan lebih murah.
-Perlembagaan tersuai wajar kosnya apabila anda perlu menyimpang daripada
-kedudukan lalai tersebut — contohnya:
+Bagi kebanyakan syarikat kecil, kedudukan lalai adalah memadai dan lebih murah.
+Sebuah perlembagaan khusus berbaloi dengan kosnya apabila anda perlu menyimpang
+daripada lalai — sebagai contoh:
 
-- Pelbagai pemegang saham yang mahukan hak yang jelas berkenaan pemindahan,
-  keluar atau kebuntuan (deadlock)
+- Beberapa pemegang saham yang mahukan hak yang ditakrifkan berkenaan pemindahan,
+  pengeluaran diri atau kebuntuan
 - Kelas saham yang berbeza dengan hak yang berbeza
-- Peraturan khusus berkenaan pelantikan pengarah atau kawalan lembaga
-  pengarah
-- Keperluan pelabur sebagai syarat pembiayaan
+- Peraturan khusus tentang pelantikan pengarah atau kawalan lembaga
+- Kehendak pelabur sebagai syarat pembiayaan
 
-> **Perkara yang perlu diketahui:** pengasas sering melangkau perlembagaan
-> bagi menjimatkan kos semasa pemerbadanan, kemudian memerlukannya dalam
-> masa setahun apabila rakan pengasas menyertai atau pelabur memintanya.
-> Menyediakannya di bawah tekanan masa, semasa rundingan sedang berjalan,
-> adalah lebih mahal dan kurang seimbang berbanding menyediakannya dengan
-> tenang pada peringkat awal.
+> **Baik diketahui:** pengasas sering melangkau perlembagaan untuk menjimatkan wang
+> semasa pemerbadanan, kemudian memerlukannya dalam masa setahun apabila seorang
+> rakan pengasas menyertai atau seorang pelabur meminta. Menyusunnya di bawah
+> tekanan masa, di tengah-tengah rundingan, adalah lebih mahal dan kurang seimbang
+> berbanding menyusunnya dengan tenang pada permulaan.
 
-Jika dua orang atau lebih akan memiliki syarikat tersebut, layan susunan
-pemegang saham sebagai keputusan asas penubuhan, bukan formaliti yang boleh
-ditangguhkan.
+Jika dua orang atau lebih akan memiliki syarikat, anggap pengaturan pemegang saham
+sebagai keputusan asas dan bukannya suatu formaliti kemudian.
 
 ## Apa yang anda perlukan sebelum memfailkan
 
-Selesaikan perkara-perkara ini sebelum anda membuka portal. Separuh daripada
-semua kelewatan berpunca daripada membuat keputusan ini di tengah-tengah
-permohonan.
+Selesaikan perkara-perkara ini sebelum anda membuka portal. Separuh daripada semua
+kelewatan berpunca daripada membuat keputusan mengenainya di tengah-tengah permohonan.
 
 | Keperluan | Minimum | Nota |
 | --- | --- | --- |
-| Nama syarikat | 1 diluluskan | Dikhaskan untuk tempoh terhad setelah diluluskan |
-| Pengarah | 1 | Mesti bermastautin biasa di Malaysia (s.196) |
+| Nama syarikat | 1 diluluskan | Ditempah untuk tempoh terhad setelah diluluskan |
+| Pengarah | 1 | Mesti lazimnya bermastautin di Malaysia (s.196) |
 | Pemegang saham | 1 | Individu atau korporat; boleh menjadi orang yang sama dengan pengarah |
-| Pejabat berdaftar | 1 | Mesti berada di Malaysia dan dapat menerima penyerahan dokumen (s.46) |
-| Setiausaha syarikat | 1 | Berlesen dengan SSM atau ahli badan yang ditetapkan; perlu dilantik dalam 30 hari (s.236) |
+| Pejabat berdaftar | 1 | Mesti berada di Malaysia dan mampu menerima penyampaian dokumen (s.46) |
+| Setiausaha syarikat | 1 | Berlesen oleh SSM atau ahli badan yang ditetapkan; perlu dalam 30 hari (s.236) |
 | Modal berbayar | Tiada minimum berkanun | Lazimnya RM1 semasa pemerbadanan |
-| Aktiviti perniagaan | 1–3 kod | Mesti mencerminkan apa yang syarikat akan lakukan sebenarnya |
+| Aktiviti perniagaan | 1–3 kod | Mesti mencerminkan apa yang syarikat akan benar-benar lakukan |
 
-### Catatan mengenai modal saham
+### Nota tentang modal saham
 
-Akta Syarikat 2016 memansuhkan kedua-dua **modal dibenarkan** dan **nilai
-par**. Saham tidak lagi mempunyai nilai nominal, dan anda tidak lagi perlu
-mengisytiharkan siling yang mungkin anda keluarkan sehingga ke suatu hari
-nanti.
+Akta Syarikat 2016 memansuhkan kedua-dua **modal dibenarkan** dan **nilai tara**.
+Saham tidak lagi mempunyai nilai nominal, dan anda tidak lagi mengisytiharkan siling
+yang mungkin anda terbitkan sehingganya pada suatu hari.
 
-Dalam praktiknya, ini bermakna anda boleh diperbadankan dengan modal berbayar
-RM1 dan mengeluarkan lebih banyak saham kemudian tanpa perlu meminda fasal
-modal. Sama ada anda *patut* berbuat demikian adalah soalan yang berbeza —
-bank yang menilai kredit, pihak berkuasa yang mengeluarkan lesen, dan
-imigresen yang menilai permit kerja semuanya melihat modal berbayar sebagai
-penanda ketara sesebuah syarikat. RM1 adalah sah di sisi undang-undang. Ia
-tidak selalunya meyakinkan.
+Dalam praktik, ini bermaksud anda boleh diperbadankan dengan RM1 modal berbayar dan
+menerbitkan lebih banyak saham kemudian tanpa meminda klausa modal. Sama ada anda
+*patut* berbuat demikian adalah persoalan yang berbeza — bank yang menilai kredit,
+pihak berkuasa yang mengeluarkan lesen, dan imigresen yang menilai pas pekerjaan
+semuanya melihat modal berbayar sebagai isyarat kesahihan. RM1 adalah sah. Ia tidak
+selalunya boleh dipercayai.
 
-## Cara pendaftaran berfungsi, langkah demi langkah
+## Cara pendaftaran berjalan, langkah demi langkah
 
-1. **Buat carian dan khaskan nama.** Semak ketersediaan melalui MyCoID. Nama
-   yang sama seperti syarikat sedia ada, mengelirukan, atau menggunakan
-   perkataan terkawal akan ditolak. Nama yang diluluskan dipegang untuk
-   tempoh terhad, jadi failkan dalam tempoh tersebut.
+Pemerbadanan kini berjalan melalui **Sistem Daftar Korporat (CRS)** SSM, yang diakses
+menerusi **portal SSM4U** (https://www.ssm4u.com.my/), yang telah menggantikan portal
+MyCoID terdahulu. Pengguna kali pertama mesti mendaftar untuk akaun SSM4U dan kemudian
+melengkapkan **pengesahan identiti secara bersemuka di mana-mana kaunter SSM** — akses
+CRS hanya diberikan setelah pengesahan itu berjaya dan akaun diaktifkan. CRS menawarkan
+tiga laluan pemerbadanan: Tempahan Nama, Pendaftaran Terus, dan Pemerbadanan Terjamin.
 
-2. **Selesaikan butiran pengarah dan pemegang saham.** Dokumen pengenalan
-   diri, alamat kediaman, dan pecahan pemegangan saham yang tepat. Pastikan
-   pecahan ini betul sekarang — mengubahnya kemudian adalah satu pemindahan
-   saham, dengan akibat duti setem.
+1. **Cari dan (secara pilihan) tempah nama.** Semak ketersediaan melalui CRS (portal
+   SSM4U). Nama yang serupa dengan syarikat sedia ada, mengelirukan, atau yang
+   menggunakan perkataan terkawal akan ditolak. Menempah nama adalah pilihan; tempahan
+   yang diluluskan dipegang untuk tempoh yang terhad, jadi failkan dalam tempoh itu.
+
+2. **Selesaikan butiran pengarah dan pemegang saham.** Dokumen pengenalan, alamat
+   kediaman, dan pembahagian pemegangan saham yang tepat. Betulkan pembahagian
+   sekarang — mengubahnya kemudian ialah pemindahan saham, dengan akibat duti setem.
 
 3. **Tentukan struktur saham.** Bilangan saham dan jumlah modal berbayar.
 
-4. **Pilih kod aktiviti perniagaan anda.** Kod ini menggambarkan apa yang
-   syarikat lakukan. Pilih dengan tepat: pihak berkuasa pelesenan dan bank
-   merujuk kepadanya, dan percanggahan antara kod anda dengan perniagaan
-   sebenar anda menimbulkan masalah beberapa bulan kemudian.
+4. **Pilih kod aktiviti perniagaan anda.** Kod-kod ini menerangkan apa yang syarikat
+   lakukan. Pilih dengan tepat: pihak berkuasa pelesenan dan bank membacanya, dan
+   ketidakpadanan antara kod anda dan perdagangan sebenar anda menyebabkan masalah
+   beberapa bulan kemudian.
 
-5. **Failkan permohonan pemerbadanan dengan SSM** melalui MyCoID (s.14).
+5. **Kemukakan permohonan pemerbadanan kepada SSM** melalui CRS (portal SSM4U) (s.14).
 
-6. **Terima notis pendaftaran anda.** Pendaftar mendaftarkan syarikat
-   tersebut dan mengeluarkan notis berkenaan (s.15). **Syarikat anda wujud
-   secara sah dari tarikh ini** — inilah saat jam mula berjalan bagi semua
-   perkara di bawah.
+6. **Terima notis pendaftaran anda.** Pendaftar mendaftarkan syarikat dan mengeluarkan
+   notis itu (s.15). **Syarikat anda wujud secara sah dari tarikh ini** — inilah saat
+   jam mula berdetik untuk segala yang di bawah.
 
-7. **Lantik seorang setiausaha syarikat dalam tempoh 30 hari** (s.236).
-   Setiausaha tersebut mesti berlesen dengan SSM atau tergolong dalam badan
-   profesional yang ditetapkan.
+7. **Lantik seorang setiausaha syarikat dalam tempoh 30 hari** (s.236). Setiausaha itu
+   mesti berlesen oleh SSM atau menjadi ahli badan profesional yang ditetapkan.
 
-8. **Buka akaun bank korporat.** Bank akan meminta perlembagaan anda (jika
-   anda mengguna pakainya), resolusi lembaga pengarah, dan pengenalan diri
-   pengarah.
+8. **Buka akaun bank korporat.** Bank akan meminta perlembagaan anda (jika anda
+   menerima pakainya), sebuah resolusi lembaga, dan pengenalan pengarah.
 
-9. **Daftar dengan LHDN untuk cukai pendapatan**, dan untuk SST jika aktiviti
-   serta perolehan anda memerlukannya.
+9. **Daftar dengan LHDN untuk cukai pendapatan**, dan untuk SST jika aktiviti dan
+   pusing ganti anda memerlukannya.
 
 ## Berapa lama masa yang diambil
 
-Sebaik sahaja nama diluluskan dan butiran anda lengkap, pemerbadanan itu
-sendiri adalah pantas — hanya beberapa hari dan bukannya minggu bagi
-permohonan yang mudah.
+Setelah nama diluluskan dan butiran anda lengkap, pemerbadanan itu sendiri adalah
+pantas. Piagam pelanggan SSM ialah **satu (1) hari bekerja** untuk mendaftarkan sebuah
+syarikat setelah permohonan yang lengkap dikemukakan dengan fi dibayar. Kelulusan nama
+dan sebarang pertanyaan yang dibangkitkan oleh SSM memanjangkan masa kalendar;
+permohonan yang dipertanyakan mesti diperbetulkan dalam tempoh 30 hari atau ia ditolak
+secara automatik. Anggaran "1–3 hari bekerja" yang lazim disebut ialah anggaran dunia
+sebenar yang menyerap kelewatan kelulusan nama dan pertanyaan, bukan piawaian
+terbitan SSM.
 
-Garis masa yang realistik lebih banyak dipengaruhi oleh bahagian yang bukan
-di bawah kawalan SSM:
+Garis masa yang realistik dikuasai oleh bahagian-bahagian yang bukan milik SSM:
 
-| Peringkat | Punca biasa kelewatan |
+| Peringkat | Pemacu kelewatan yang lazim |
 | --- | --- |
-| Kelulusan nama | Nama yang ditolak; perkataan terkawal yang memerlukan rujukan |
-| Penyediaan dokumen | Menunggu dokumen pengenalan diri atau keputusan pemegang saham |
-| Pemerbadanan | Biasanya langkah yang paling pantas |
-| Pembukaan akaun bank | Sering menjadi langkah yang paling lama — jangkakan semakan pematuhan |
+| Kelulusan nama | Nama ditolak; perkataan terkawal yang memerlukan rujukan |
+| Penyediaan dokumen | Menunggu dokumen pengenalan atau keputusan pemegang saham |
+| Pemerbadanan | Biasanya langkah paling pantas |
+| Pembukaan akaun bank | Kerap kali langkah paling lama — jangkakan pemeriksaan pematuhan |
 
-Rancang mengikut jangka masa bank, bukan mengikut SSM. Pengasas sentiasa
-terkejut dengan perkara ini.
+Rancang mengelilingi bank, bukan mengelilingi SSM. Pengasas secara konsisten terkejut
+dengan hal ini.
 
 ## Berapa kosnya
 
-Kos pemerbadanan terbahagi kepada tiga kumpulan:
+Kos pemerbadanan terbahagi kepada tiga baldi:
 
-- **Yuran berkanun** yang dibayar kepada SSM — tempahan nama dan
+- **Fi berkanun** yang dibayar kepada SSM. Memperbadankan sebuah syarikat yang
+  dihadkan oleh saham dikenakan fi berkanun sebanyak **RM1,000** (Peraturan-Peraturan
+  Syarikat 2017, Jadual Fi; s.14). Semasa pemerbadanan SSM mengutip jumlah keseluruhan
+  **RM1,010** — fi RM1,000 ditambah **RM10** fi perkongsian data syarikat — yang
+  merupakan angka "RM1,010 termasuk" yang lazim disebut. Menempah nama terlebih dahulu
+  adalah pilihan dan berkos **RM50 setiap 30 hari** (s.27), sehingga maksimum 180 hari;
+  pendaftaran terus atau terjamin tidak dikenakan RM50 itu.
+- **Setiausaha syarikat** — bayaran penahan tahunan, ditambah sebarang fi perkhidmatan
   pemerbadanan.
-- **Setiausaha syarikat** — bayaran tahunan (retainer), ditambah sebarang
-  yuran perkhidmatan pemerbadanan.
-- **Pematuhan berterusan** — perakaunan, audit jika berkenaan, dan
-  pemfailan cukai.
+- **Pematuhan berterusan** — perakaunan, audit jika berkenaan, dan pemfailan cukai.
 
-> Jumlah yuran SSM semasa sengaja tidak dinyatakan di sini. Jadual yuran
-> disemak semula dari semasa ke semasa, dan angka yang lapuk dalam panduan
-> seperti ini lebih memudaratkan berbanding tiada angka langsung. Semak
-> jadual semasa di laman SSM sebelum membuat belanjawan.
+> Fi berkanun SSM disemak semula dari semasa ke semasa. Angka-angka di atas adalah
+> semasa berbanding Jadual Fi dan garis panduan pemerbadanan terbitan SSM; sahkan
+> jadual terkini di laman web SSM sebelum membuat belanjawan.
 
-Kesilapan yang perlu dielakkan ialah hanya membuat belanjawan untuk
-pemerbadanan sahaja. Kos tahunan berulang untuk menjadi sebuah syarikat —
-setiausaha, akaun, cukai, dan audit jika anda tidak layak untuk pengecualian
-— akan melebihi kos penubuhan sekali sahaja pada tahun pertama.
+Kesilapan yang wajar dielakkan ialah membuat belanjawan hanya untuk pemerbadanan. Kos
+tahunan berulang untuk menjadi sebuah syarikat — setiausaha, akaun, cukai, dan audit
+jika anda tidak layak untuk pengecualian — akan melebihi kos penyediaan sekali gus
+dalam tahun pertama.
 
 ## Pemilikan tunggal, LLP atau Sdn Bhd?
 
@@ -381,110 +387,114 @@ setiausaha, akaun, cukai, dan audit jika anda tidak layak untuk pengecualian
 | --- | --- | --- | --- |
 | Liabiliti | Tidak terhad — aset peribadi terdedah | Terhad | Terhad kepada modal saham |
 | Entiti undang-undang berasingan | Tidak | Ya | Ya |
-| Layanan cukai | Kadar cukai pendapatan peribadi | Gaya korporat | Kadar cukai korporat |
-| Mendapatkan pelaburan | Sangat sukar | Sukar | Mudah — saham dikeluarkan |
-| Penerusan kekal | Tidak | Ya | Ya |
+| Layanan cukai | Kadar cukai pendapatan peribadi | Bergaya korporat | Kadar cukai korporat |
+| Mendapatkan pelaburan | Sangat sukar | Sukar | Mudah — saham diterbitkan |
+| Kesinambungan kekal | Tidak | Ya | Ya |
 | Pematuhan berterusan | Minimum | Sederhana | Setiausaha, penyata tahunan, audit |
-| Undang-undang yang mentadbir | Registration of Businesses Act 1956 | LLP Act 2012 | Companies Act 2016 |
+| Undang-undang mengawal | Akta Pendaftaran Perniagaan 1956 | Akta LLP 2012 | Akta Syarikat 2016 |
 
-**Pilih pemilikan tunggal** jika anda sedang menguji sesuatu idea, risikonya
-rendah, dan anda mahukan beban pentadbiran yang paling ringan.
+**Pilih pemilikan tunggal** jika anda menguji sesuatu idea, risikonya rendah, dan anda
+mahukan pentadbiran seringan yang mungkin.
 
-**Pilih LLP** jika anda merupakan perkongsian profesional kecil yang
-mahukan perlindungan liabiliti tanpa pematuhan syarikat sepenuhnya.
+**Pilih LLP** jika anda sebuah perkongsian profesional kecil yang mahukan perlindungan
+liabiliti tanpa pematuhan syarikat sepenuhnya.
 
-**Pilih Sdn Bhd** jika mana-mana perkara ini benar: anda mahukan pemisahan
-liabiliti, anda berhasrat untuk mengambil pekerja, anda akan mencari
-pelaburan luar, anda memerlukan kredibiliti dengan pelanggan yang lebih
-besar, atau anda menjangkakan perniagaan itu akan kekal melebihi penglibatan
-anda.
+**Pilih Sdn Bhd** jika mana-mana daripada ini benar: anda mahukan pemisahan liabiliti,
+anda berhasrat untuk mengambil pekerja, anda akan mencari pelaburan luar, anda
+memerlukan kredibiliti dengan pelanggan yang lebih besar, atau anda menjangkakan
+perniagaan itu akan bertahan lebih lama daripada penglibatan anda.
 
 ## Menetapkan penghujung tahun kewangan anda
 
-Tiada siapa yang meminta anda memutuskan perkara ini semasa pemerbadanan,
-dan kebanyakan pengasas tidak pernah memikirkannya — tetapi penghujung
-tahun kewangan pertama anda menentukan bila akaun, audit dan pemfailan
-cukai anda perlu difailkan, setiap tahun selepas itu.
+Tiada sesiapa meminta anda memutuskan perkara ini semasa pemerbadanan, dan kebanyakan
+pengasas tidak pernah memikirkannya — tetapi penghujung tahun kewangan pertama anda
+menentukan bila akaun, audit dan pemfailan cukai anda akan tiba tarikh tamatnya, setiap
+tahun selepas itu.
 
-Sesebuah syarikat boleh memilih penghujung tahun kewangannya sendiri.
-Tempoh kewangan pertama boleh berjalan lebih panjang atau lebih pendek
-daripada dua belas bulan, dalam had berkanun, yang memberi anda sedikit
-ruang untuk menetapkannya secara sengaja dan bukan secara kebetulan.
+Sebuah syarikat boleh memilih penghujung tahun kewangannya sendiri. Tempoh kewangan
+pertama boleh berjalan lebih panjang atau lebih pendek daripada dua belas bulan, dalam
+had berkanun, yang memberi anda sedikit ruang untuk meletakkannya secara sengaja dan
+bukannya secara tidak sengaja.
 
-Dua pertimbangan yang wajar difikirkan:
+Dua pertimbangan yang wajar ditimbang:
 
-- **Masa beban kerja.** Penghujung tahun yang jatuh pada bulan perniagaan
-  yang paling sibuk bermakna semakan stok, penyediaan akaun dan audit anda
-  semuanya berlaku serentak dengan waktu puncak operasi.
-- **Tempoh tahun pertama.** Tempoh pertama yang sangat singkat bermakna
-  anda menanggung satu kitaran penuh kos perakaunan, audit dan pemfailan
-  hampir dengan serta-merta. Tempoh pertama yang lebih panjang menangguhkan
-  perkara itu, walaupun ia turut melewatkan set penyata kewangan penuh
-  pertama anda.
+- **Masa beban kerja.** Penghujung tahun yang jatuh dalam bulan perdagangan anda yang
+  paling sibuk bermakna pengiraan stok, penyediaan akaun dan audit anda semuanya
+  berlanggar dengan operasi puncak.
+- **Panjang tahun pertama.** Tempoh pertama yang sangat pendek bermakna anda menanggung
+  satu kitaran penuh kos perakaunan, audit dan pemfailan hampir serta-merta. Tempoh
+  pertama yang lebih panjang menangguhkannya, walaupun ia juga melengahkan set angka
+  penuh pertama anda.
 
-Menukar penghujung tahun kemudian adalah mungkin tetapi melibatkan
-pemberitahuan dan boleh merumitkan perbandingan angka. Adalah jauh lebih
-murah untuk membuat pilihan secara sengaja pada peringkat awal.
+Menukar penghujung tahun kemudian adalah mungkin tetapi melibatkan pemberitahuan dan
+boleh merumitkan perbandingan. Ia jauh lebih murah untuk memilih secara sengaja pada
+permulaan.
 
-## Hari selepas anda diperbadankan
+## Hari selepas anda memperbadankan
 
-Ini adalah bahagian yang kebanyakan panduan tertinggal, dan sebab syarikat
-dikenakan penalti.
+Ini ialah bahagian yang kebanyakan panduan tinggalkan, dan sebab syarikat dikenakan
+penalti.
 
 Dari tarikh pada notis pendaftaran anda:
 
 - **Setiausaha syarikat** — lantik dalam tempoh 30 hari (s.236).
-- **Pejabat berdaftar** — mesti dikekalkan, dan ia adalah tempat notis
-  diserahkan (s.46).
-- **Daftar berkanun** — daftar ahli, pengarah, setiausaha dan caj mesti
-  disimpan.
+- **Pejabat berdaftar** — mesti dikekalkan, dan di situlah notis disampaikan (s.46).
+- **Daftar berkanun** — ahli, pengarah, setiausaha dan gadaian mesti disimpan.
 - **Rekod perakaunan** — mesti disimpan dan dikekalkan (s.245).
-- **Penyata tahunan** — difailkan dalam tempoh 30 hari dari setiap ulang
-  tahun pemerbadanan (s.68). Perhatikan bahawa ini dikira dari tarikh
-  pemerbadanan anda, bukan penghujung tahun kewangan anda.
-- **Penyata kewangan** — disediakan, diedarkan dan difailkan dalam tempoh
-  masa berkanun. Audit diperlukan melainkan syarikat layak untuk
-  pengecualian.
-- **Cukai** — daftar dengan LHDN; anggarkan dan bayar cukai di bawah rejim
-  ansuran.
+- **Penyata tahunan** — dikemukakan dalam tempoh 30 hari daripada setiap ulang tahun
+  pemerbadanan (s.68). Perhatikan ini berjalan dari tarikh pemerbadanan anda, bukan
+  penghujung tahun kewangan anda.
+- **Penyata kewangan** — disediakan, diedarkan dan dikemukakan dalam garis masa
+  berkanun. Audit diperlukan melainkan syarikat itu layak untuk pengecualian.
+- **Cukai** — daftar dengan LHDN; anggarkan dan bayar cukai di bawah rejim ansuran.
 
-Tiada satu pun daripada ini datang dalam bentuk surat peringatan. Kegagalan
-mematuhinya mengakibatkan penalti, dan kegagalan berterusan boleh membawa
-kepada tindakan pembatalan (dari daftar).
+> **Pengecualian audit.** Sebuah syarikat persendirian dikecualikan daripada melantik
+> juruaudit jika ia memenuhi sekurang-kurangnya **dua daripada tiga** kriteria — hasil,
+> jumlah aset, dan bilangan pekerja — di bawah Arahan Amalan SSM No. 10/2024 (yang
+> membatalkan PD 3/2017). Ambang tersebut diperkenalkan secara berperingkat: **RM1j /
+> RM1j / 10 pekerja** bagi tahun kewangan yang bermula pada 2025, **RM2j / RM2j / 20**
+> bagi tahun yang bermula pada 2026, dan **RM3j / RM3j / 30** bagi tahun yang bermula
+> pada atau selepas 1 Januari 2027 — dengan setiap angka juga terpakai bagi tahun
+> semasa dan dua tahun kewangan sebelumnya yang berturutan. Syarikat dorman turut
+> dikecualikan. Sehingga 2026, ambang Fasa 2 (RM2j / RM2j / 20) terpakai. Pengecualian
+> ini tidak tersedia untuk syarikat yang telah memfailkan sijil syarikat persendirian
+> yang dikecualikan (s.260), untuk syarikat awam, untuk anak syarikat persendirian
+> milik syarikat awam, atau untuk syarikat asing.
 
-## Kesilapan biasa
+Tiada satu pun daripada ini tiba sebagai surat peringatan. Terlepas daripadanya
+menarik penalti, dan keingkaran berterusan boleh membawa kepada tindakan pemotongan
+nama.
 
-- **Kod aktiviti perniagaan yang tidak sepadan dengan perniagaan sebenar.**
-  Ini akan muncul kemudian sebagai halangan pelesenan atau perbankan, dan
-  sukar untuk diperbetulkan.
-- **Menganggap pemerbadanan sebagai garisan penamat.** Ia sebenarnya
-  permulaan kepada satu kitaran pematuhan.
-- **Terlepas tarikh akhir 30 hari untuk setiausaha.** Satu pelanggaran
-  berkanun pada bulan pertama anda.
-- **Menganggap syarikat tidak aktif tidak perlu memfailkan apa-apa.** Ia
-  masih perlu memfailkan penyata tahunan.
-- **Menetapkan modal berbayar semata-mata untuk berjimat.** RM1 adalah sah
-  di sisi undang-undang tetapi kelihatan tidak meyakinkan pada bank dan
-  pihak berkuasa pelesenan.
-- **Membuat kesilapan pada pecahan pemegangan saham semasa pemerbadanan.**
-  Membetulkannya kemudian adalah satu pemindahan, bukan sekadar suntingan.
+## Kesilapan yang biasa
 
-## Apa seterusnya
+- **Kod aktiviti perniagaan yang tidak sepadan dengan perniagaan sebenar.** Ini muncul
+  kemudian sebagai halangan pelesenan atau perbankan, dan ia menyusahkan untuk
+  dibetulkan.
+- **Menganggap pemerbadanan sebagai garisan penamat.** Ia adalah permulaan kitaran
+  pematuhan.
+- **Terlepas tarikh akhir setiausaha 30 hari.** Suatu pelanggaran berkanun dalam bulan
+  pertama anda.
+- **Menganggap syarikat dorman tidak memfailkan apa-apa.** Ia masih mengemukakan
+  penyata tahunan.
+- **Menetapkan modal berbayar semata-mata untuk menjimatkan.** RM1 adalah sah tetapi
+  kelihatan tipis di mata bank dan pihak berkuasa pelesenan.
+- **Menetapkan pembahagian pemegangan saham yang salah semasa pemerbadanan.**
+  Membetulkannya kemudian ialah pemindahan, bukan suatu suntingan.
 
-Dua perkara wajar diberi perhatian segera selepas pemerbadanan: melantik
-setiausaha syarikat anda dalam tempoh 30 hari, dan merancang kalendar
-pematuhan tahun pertama anda supaya tarikh akhir penyata tahunan dan cukai
-diketahui lebih awal dan bukan ditemui secara tiba-tiba.
+## Apa yang menyusul
 
-Jika anda masih dalam proses memilih antara struktur, perbandingan
-terperinci antara pemilikan tunggal dan Sdn Bhd membincangkan dengan lebih
-mendalam persoalan cukai dan liabiliti yang perlu ditimbang.
+Dua perkara wajar diberi perhatian serta-merta selepas pemerbadanan: melantik
+setiausaha syarikat anda dalam tempoh 30 hari, dan memetakan kalendar pematuhan tahun
+pertama anda supaya tarikh akhir penyata tahunan dan cukai diketahui dan bukannya
+ditemui.
+
+Jika anda masih memilih antara struktur, perbandingan terperinci antara pemilikan
+tunggal dan Sdn Bhd menyelami lebih mendalam tentang pertukaran cukai dan liabiliti.
 
 ---
 
-**Status pengesahan.** Ini adalah draf berbantukan AI yang belum lagi
-disemak oleh pakar bidang berkaitan. Rujukan berkanun adalah kepada
-Companies Act 2016. Jumlah yuran, tempoh pemprosesan semasa dan ambang
-pengecualian audit sengaja tidak dinyatakan atau hanya diterangkan secara
-kualitatif sementara menunggu pengesahan — lihat senarai pengesahan dalam
-metadata artikel ini.
+**Status pengesahan.** Ini ialah panduan berbantukan AI yang disemak berbanding sumber
+utama SSM. Rujukan berkanun adalah kepada Akta Syarikat 2016. Jumlah fi, piagam
+pelanggan satu-hari-bekerja SSM, perubahan platform CRS/SSM4U, dan ambang pengecualian
+audit masing-masing dipetik daripada Jadual Fi, garis panduan pemerbadanan, FAQ CRS,
+dan Arahan Amalan No. 10/2024 terbitan SSM.

@@ -36,10 +36,7 @@ faq:
     a: "Interest accrues at 10 per cent yearly in respect of each day of default, and the levy moves into arrears requiring a Form 3 schedule before it can be settled. Failure to pay is an offence carrying a fine not exceeding RM20,000 or imprisonment not exceeding two years, or both."
 
 verificationNeeded:
-  - "Confirm the exact maximum monthly EIS contribution in ringgit at the RM6,000 ceiling against the Second Schedule of Act 800 — PERKESO publishes this table as an image-only PDF that could not be read as text"
-  - "Confirm whether non-Malaysian citizens are excluded from EIS as a matter of the Act 800 definition of employee — PERKESO's contributions page names government employees, domestic workers and the self-employed as exempt but does not address citizenship"
   - "Confirm the precise CP38 issuance and remittance mechanics, including how a CP38 directive interacts with the running PCB amount, against a current LHDN guideline"
-  - "Confirm current EPF and SOCSO late-payment charge rates against KWSP and PERKESO directly"
 
 obligations:
   - what: "Remit EPF contributions for the wage month"
@@ -47,19 +44,19 @@ obligations:
     due: "on or before the 15th day of the month following the wage month"
     authority: "KWSP"
     statute: "EPF Act 1991, s.43(1) and Third Schedule"
-    consequence: "Late-payment charges and enforcement action"
+    consequence: "Late-payment charge at the dividend rate plus 1 per cent (minimum RM10) plus a dividend component (minimum RM1), and enforcement action"
   - what: "Remit SOCSO contributions for the wage month"
     trigger: "ongoing"
     due: "on or before the 15th day of the month following the wage month"
     authority: "PERKESO"
     statute: "Employees Social Security Act 1969 (Act 4)"
-    consequence: "Interest on late payment and prosecution"
+    consequence: "Interest on late payment at 6 per cent per annum per day of default, and prosecution"
   - what: "Remit EIS contributions for the wage month"
     trigger: "ongoing"
     due: "on or before the 15th day of the month following the wage month"
     authority: "PERKESO"
     statute: "Employment Insurance System Act 2017 (Act 800)"
-    consequence: "Interest on late payment and prosecution"
+    consequence: "Interest on late payment at 6 per cent per annum per day of default, and prosecution"
   - what: "Remit PCB/MTD deducted from employee remuneration"
     trigger: "ongoing"
     due: "on or before the 15th day of the month following the deduction"
@@ -134,17 +131,22 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-07-22
+publishedBy: "ashton-tan"
+reviewed: 2026-08-14
 reviewDue: 2027-07-22
-version: "0.1"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-20
     change: "Initial draft."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 sensitivity: "none"
 
-updated: 2026-07-20
+updated: 2026-08-14
 sources:
   - title: "Employer Mandatory Contribution"
     url: "https://www.kwsp.gov.my/en/employer/responsibilities/mandatory-contribution"
@@ -159,6 +161,18 @@ sources:
   - title: "Contribution Rate"
     url: "https://www.perkeso.gov.my/en/rate-of-contribution.html"
     publisher: "PERKESO"
+  - title: "Rate of Contribution Employment Insurance System (Act 800)"
+    url: "https://www.perkeso.gov.my/images/dokumen/151124-Rate%20Contribution%20ACT%20800.pdf"
+    publisher: "PERKESO"
+  - title: "Employment Insurance System Act 2017 (Act 800) — full text with First Schedule and s.3 definitions"
+    url: "https://www.perkeso.gov.my/images/imej/akta_dan_peraturan/EMPLOYMENT_INSURANCE_SYSTEM_ACT_2017_Act_800.pdf"
+    publisher: "PERKESO"
+  - title: "Contribution Payment — Interest on Late Payment of Contributions (ILPC)"
+    url: "https://www.perkeso.gov.my/en/uncategorised/801-contribution-payment.html"
+    publisher: "PERKESO"
+  - title: "EPF Late Payment Charge / Dividend Calculator"
+    url: "https://secure.kwsp.gov.my/KWSP_files/latePayment/LatePaymentCalculatorStep1-en.html"
+    publisher: "KWSP"
   - title: "Contributions"
     url: "https://www.perkeso.gov.my/en/our-services/employer-employee/contributions.html"
     publisher: "PERKESO"
@@ -220,6 +234,13 @@ employer who remits EPF, SOCSO, EIS and PCB punctually and forgets the HRD Corp
 levy is in default under the PSMB Act on exactly the same terms as one who
 forgot everything.
 
+The late-payment penalties are scheme-specific too. EPF imposes a late-payment
+charge at the prevailing dividend rate plus 1 per cent (minimum RM10) on top of a
+dividend component (minimum RM1). SOCSO and EIS both charge interest on late
+payment at 6 per cent per annum for each day the contribution is unpaid past the
+15th. The HRD Corp levy runs at 10 per cent yearly per day of default. There is
+no common penalty and no common calculation.
+
 ### The EPF trap that costs employers money every month
 
 Under s.43(1) of the EPF Act 1991, employer and employee are liable to
@@ -258,7 +279,10 @@ employees below 60, funds both the Employment Injury and Invalidity Schemes at
 1.75 per cent employer and 0.5 per cent employee; the Second Category, for
 employees aged 60 and above, funds Employment Injury only at 1.25 per cent
 payable by the employer. EIS under Act 800 is a flat 0.2 per cent from each side
-on assumed wages capped at RM6,000.
+on assumed wages capped at RM6,000. Because the Act 800 Second Schedule bands the
+assumed wage, the top row ("wages exceed RM6,000") fixes the maximum monthly EIS
+contribution at **RM11.90 employer and RM11.90 employee — RM23.80 in total**,
+not the RM12.00 a flat 0.2 per cent of RM6,000 would suggest.
 
 A third element now sits inside the same PERKESO contribution table and is
 responsible for a great deal of confusion: the **LINDUNG 24 Jam** non-employment
@@ -421,6 +445,10 @@ plus 10 per cent interest per day of default.
 **Assuming foreign workers sit outside the whole system.** They are now inside
 EPF at 2 per cent, inside SOCSO, and inside the mandatory limb of LINDUNG 24 Jam
 — while being outside EIS. The pattern is scheme-by-scheme, not all-or-nothing.
+Note that the EIS exclusion is a matter of PERKESO's registration practice, not
+the statute: the Act 800 definition of "employee" in s.3 carries no citizenship
+test, and the First Schedule list of excluded persons never mentions foreign
+workers, non-citizens or permanent residents.
 
 **Confusing the two SOCSO categories with the two HRD Corp categories.** SOCSO
 categories are about employee age. HRD Corp categories are about employer

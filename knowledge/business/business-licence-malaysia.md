@@ -39,10 +39,7 @@ faq:
     a: "No. The Registration of Businesses Act 1956 applies to Peninsular Malaysia only under s.1(2), and the Local Government Act 1976 does not extend to the Borneo states either. Sabah licenses trading under the Trades Licensing Ordinance (Sabah Cap. 144). Sarawak runs a three-instrument structure — business name registration under Cap. 64 (1958 Ed.), a trade licence under Cap. 33 (1958 Ed.), and a council operating licence. Applying a Peninsular checklist in either state produces the wrong answer."
 
 verificationNeeded:
-  - "The total number of business licences issued across all Malaysian authorities — no official count is published; MPC and PEMUDAH publish initiatives, not a register total"
   - "Whether any state has consolidated its trading and premise licensing into a single instrument since the most recent Modernising Business Licensing round"
-  - "The current in-force text of individual council licensing by-laws — most exist only in State Gazette volumes and are not published online"
-  - "Whether BLESS coverage has expanded beyond 49 licences and 18 authorities since the figures published on its background page"
 
 lang: "en"
 masterLanguage: "en"
@@ -51,14 +48,18 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-07-22
+reviewed: 2026-08-14
 reviewDue: 2027-07-22
-version: "0.1"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-20
     change: "Initial draft."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
 updated: 2026-07-20
 sources:

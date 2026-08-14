@@ -1,58 +1,54 @@
 ---
 topicId: MY-TAX-0048
-title: "Transfer Pricing Documentation in Malaysia — What a Mid-Sized Company Must Prepare"
-seoTitle: "Transfer Pricing Documentation Malaysia — Rules and Penalties"
+title: "Dokumentasi Penetapan Harga Pindahan di Malaysia — Apa yang Perlu Disediakan oleh Syarikat Bersaiz Sederhana"
+seoTitle: "Dokumentasi Harga Pindahan Malaysia — Peraturan dan Penalti"
 slug: "transfer-pricing-documentation"
 category: "taxation"
 subcategory: ["international-tax"]
-summary: "Bila sesebuah syarikat Malaysia mesti menyediakan dokumentasi harga pindahan kontemporari, tarikh akhir 14 hari untuk mengemukakannya, penalti bergred s.113B dan surcaj s.140A(3C) yang terpakai walaupun tiada cukai tambahan."
+summary: "Bila sesebuah syarikat Malaysia mesti menyediakan dokumentasi penetapan harga pindahan semasa (contemporaneous), tempoh penyerahan 14 hari, penalti berperingkat s.113B dan surcaj s.140A(3C) yang terpakai walaupun tiada cukai tambahan."
 
 tier: "1"
 mode: "practical"
 contentType: "guide"
 sensitivity: "none"
 
-answer: "Mana-mana orang Malaysia yang memasuki transaksi terkawal mesti menyediakan dokumentasi harga pindahan kontemporari sebelum penyata cukai itu perlu dikemukakan, melainkan salah satu daripada empat pengecualian dalam perenggan 1.5 Malaysia Transfer Pricing Guidelines 2024 terpakai. Dokumentasi penuh diperlukan apabila pendapatan perniagaan kasar melebihi RM30 juta bersama transaksi terkawal rentas sempadan RM10 juta, atau bantuan kewangan terkawal melebihi RM50 juta. LHDN boleh menghendaki dokumentasi itu dengan notis 14 hari, dan kegagalan membawa penalti RM20,000 hingga RM100,000 bagi setiap tahun taksiran di bawah s.113B."
+answer: "Mana-mana orang Malaysia yang memasuki transaksi terkawal mesti menyediakan dokumentasi penetapan harga pindahan semasa sebelum penyata cukai perlu diserahkan, melainkan salah satu daripada empat pengecualian dalam perenggan 1.5 Garis Panduan Penetapan Harga Pindahan Malaysia 2024 terpakai. Dokumentasi penuh dikehendaki apabila pendapatan perniagaan kasar melebihi RM30 juta dengan transaksi terkawal rentas sempadan bernilai RM10 juta, atau apabila bantuan kewangan terkawal melebihi RM50 juta. LHDN boleh menuntutnya dalam notis 14 hari, dan kegagalan membawa penalti RM20,000 hingga RM100,000 bagi setiap tahun taksiran di bawah s.113B."
 keyTakeaways:
-  - "Pencetus bagi sebarang dokumentasi ialah RM1 juta transaksi terkawal — jauh di bawah ambang dokumentasi penuh"
-  - "Kontemporari bermaksud dibawa ke dalam kewujudan sebelum tarikh akhir untuk mengemukakan penyata cukai, bukan sebelum audit"
-  - "Peraturan 5(3) memberi anda 14 hari daripada tarikh notis itu diserahkan, dan jam itu tidak berhenti kerana jadual ejen cukai"
-  - "Penalti s.113B(4) bergred mengikut kelewatan — RM20,000 sehingga lewat tujuh hari, RM100,000 selepas 28 hari, bagi setiap tahun taksiran"
-  - "Surcaj s.140A(3C) sehingga 5 peratus dikenakan ke atas pelarasan, jadi ia terpakai walaupun kepada syarikat yang rugi atau dikecualikan cukai"
-  - "Pendedahan sukarela membawa surcaj 0 hingga 4 peratus di bawah Transfer Pricing Audit Framework yang berkuat kuasa mulai 31 Julai 2025"
-  - "Entiti tetap (permanent establishment) mesti menyediakan dokumentasi penuh tanpa mengira sebarang ambang"
-appliesTo: "Syarikat, LLP, perkongsian dan individu Malaysia yang menjalankan perniagaan dan bertransaksi dengan pihak berkaitan, termasuk transaksi pihak berkaitan domestik dan pinjaman pemegang saham."
+  - "Pencetus kepada sebarang dokumentasi ialah RM1 juta transaksi terkawal — jauh di bawah ambang dokumentasi penuh"
+  - "Semasa (contemporaneous) bermaksud diwujudkan sebelum tarikh akhir penyerahan penyata cukai, bukan sebelum audit"
+  - "Kaedah 5(3) memberi anda 14 hari dari tarikh notis disampaikan, dan jam tidak berhenti demi jadual ejen cukai"
+  - "Penalti s.113B(4) berperingkat mengikut kelewatan — RM20,000 sehingga tujuh hari lewat, RM100,000 melebihi 28 hari, bagi setiap tahun taksiran"
+  - "Surcaj s.140A(3C) sehingga 5 peratus dikenakan atas pelarasan, jadi ia terpakai walaupun kepada syarikat yang rugi atau dikecualikan cukai"
+  - "Pendedahan sukarela menarik surcaj 0 hingga 4 peratus di bawah Rangka Kerja Audit Cukai Harga Pindahan berkuat kuasa 31 Julai 2025"
+  - "Pertubuhan tetap (permanent establishment) mesti menyediakan dokumentasi penuh tanpa mengira sebarang ambang"
+appliesTo: "Syarikat, LLP, perkongsian dan individu Malaysia yang menjalankan perniagaan yang bertransaksi dengan pihak berkaitan, termasuk transaksi pihak berkaitan domestik dan pinjaman pemegang saham."
 
 faq:
-  - q: "Adakah Sdn Bhd yang kecil memerlukan dokumentasi harga pindahan?"
-    a: "Selalunya ya, dalam bentuk yang dikurangkan. Perenggan 1.5 Malaysia Transfer Pricing Guidelines 2024 mengecualikan orang yang jumlah transaksi terkawalnya tidak melebihi RM1 juta, dan orang yang mempunyai transaksi terkawal domestik semata-mata di mana kedua-dua pihak tidak menikmati insentif, kedua-duanya dikenakan cukai pada kadar utama yang sama, dan tiada satu pun mengalami kerugian bagi dua tahun berturut-turut sebelumnya. Melebihi RM1 juta dan di luar pengecualian tersebut, dokumentasi minimum diperlukan walaupun ambang dokumentasi penuh tidak dipenuhi."
-  - q: "Apakah ambang dokumentasi harga pindahan penuh di Malaysia?"
-    a: "Perenggan 1.7 Guidelines: pendapatan perniagaan kasar melebihi RM30 juta secara keseluruhan bersama transaksi terkawal rentas sempadan berjumlah RM10 juta atau lebih setahun, atau bantuan kewangan terkawal yang diterima atau disediakan melebihi RM50 juta setahun. Memenuhi mana-mana satu syarat itu menghendaki dokumentasi penuh di bawah Income Tax (Transfer Pricing) Rules 2023."
-  - q: "Berapa lama tempoh yang saya ada untuk mengeluarkan dokumentasi harga pindahan?"
-    a: "Empat belas hari daripada tarikh notis bertulis Ketua Pengarah itu diserahkan, di bawah peraturan 5(3) P.U.(A) 165/2023. Transfer Pricing Audit Framework yang berkuat kuasa mulai 31 Julai 2025 mengukur kelewatan daripada tamat tempoh 14 hari itu sehingga dokumentasi lengkap dikemukakan, dan pendakwaan boleh menyusul jika langsung tiada respons diberikan."
+  - q: "Adakah Sdn Bhd kecil memerlukan dokumentasi penetapan harga pindahan?"
+    a: "Selalunya ya, dalam bentuk yang dikurangkan. Perenggan 1.5 Garis Panduan Penetapan Harga Pindahan Malaysia 2024 mengecualikan seseorang yang jumlah transaksi terkawalnya tidak melebihi RM1 juta, dan seseorang dengan transaksi terkawal semata-mata domestik di mana kedua-dua pihak tidak menikmati insentif, kedua-duanya dikenakan cukai pada kadar utama yang sama, dan tiada yang mengalami kerugian selama dua tahun berturut-turut sebelumnya. Melebihi RM1 juta dan di luar pengecualian tersebut, dokumentasi minimum dikehendaki walaupun ambang dokumentasi penuh tidak dicapai."
+  - q: "Apakah ambang dokumentasi penetapan harga pindahan penuh di Malaysia?"
+    a: "Perenggan 1.7 Garis Panduan: pendapatan perniagaan kasar melebihi RM30 juta secara keseluruhan bersama-sama transaksi terkawal rentas sempadan berjumlah RM10 juta atau lebih setahun, atau bantuan kewangan terkawal yang diterima atau diberi melebihi RM50 juta setahun. Memenuhi mana-mana had memerlukan dokumentasi penuh di bawah Kaedah-Kaedah Cukai Pendapatan (Penetapan Harga Pindahan) 2023."
+  - q: "Berapa lama masa yang saya ada untuk mengemukakan dokumentasi penetapan harga pindahan?"
+    a: "Empat belas hari dari tarikh notis bertulis Ketua Pengarah disampaikan, di bawah kaedah 5(3) P.U.(A) 165/2023. Rangka Kerja Audit Cukai Harga Pindahan berkuat kuasa 31 Julai 2025 mengukur kelewatan dari tamat tempoh 14 hari itu sehingga dokumentasi lengkap dikemukakan, dan pendakwaan boleh berlaku jika tiada respons langsung."
   - q: "Apakah surcaj seksyen 140A(3C)?"
-    a: "Satu caj tidak melebihi 5 peratus daripada peningkatan pendapatan, atau pengurangan sesuatu potongan atau kerugian, yang terhasil daripada pelarasan harga pindahan. FAQ LHDN mengesahkan ia dikenakan tidak kira sama ada pembayar cukai itu rugi atau dikecualikan cukai, kerana ia dikenakan ke atas pelarasan dan bukan ke atas cukai. Ia dikutip seolah-olah ia cukai tetapi tidak dianggap sebagai cukai kecuali bagi ss.103 hingga 106."
-  - q: "Siapa yang dianggap sebagai orang berkaitan bagi tujuan harga pindahan Malaysia?"
-    a: "Seksyen 140A(5) merangkumi orang di mana satu pihak mengawal pihak yang satu lagi, individu yang bersaudara, dan orang yang kedua-duanya dikawal oleh pihak ketiga. Subseksyen (5A) mentakrifkan kawalan sebagai memegang 20 peratus atau lebih modal saham ditambah satu daripada tiga faktor: kebergantungan kepada hak proprietari pihak yang satu lagi, pihak yang satu lagi menetapkan aktiviti perniagaan dan mempengaruhi harga, atau pihak yang satu lagi melantik satu atau lebih pengarah."
-
-verificationNeeded:
-  - "The Transfer Pricing Audit Framework effective 31 July 2025 is published in Malay only; the graduated s.113B(4) amounts and the 0 to 4 per cent voluntary disclosure surcharge band are translated from that text and should be read against the Malay original before being relied on in correspondence"
-  - "Whether LHDN has issued an English edition or a further amendment of the framework since 31 July 2025"
+    a: "Caj tidak lebih daripada 5 peratus daripada peningkatan pendapatan, atau pengurangan dalam potongan atau kerugian, hasil daripada pelarasan penetapan harga pindahan. FAQ LHDN mengesahkan ia dikenakan tanpa mengira sama ada pembayar cukai mengalami kerugian atau dikecualikan cukai, kerana ia dikenakan atas pelarasan dan bukan atas cukai. Ia dikutip seolah-olah ia cukai tetapi tidak dianggap sebagai cukai kecuali bagi s.103 hingga 106."
+  - q: "Siapa yang dikira sebagai orang bersekutu bagi penetapan harga pindahan Malaysia?"
+    a: "Seksyen 140A(5) merangkumi orang di mana satu pihak mengawal pihak yang lain, individu yang merupakan saudara-mara, dan orang yang kedua-duanya dikawal oleh pihak ketiga. Subseksyen (5A) mentakrifkan kawalan sebagai memegang 20 peratus atau lebih daripada modal saham ditambah salah satu daripada tiga faktor: pergantungan pada hak proprietari pihak lain, pihak lain menetapkan aktiviti perniagaan dan mempengaruhi harga, atau pihak lain melantik seorang atau lebih pengarah."
 
 obligations:
-  - what: "Prepare contemporaneous transfer pricing documentation for the year"
+  - what: "Sediakan dokumentasi penetapan harga pindahan semasa bagi tahun berkenaan"
     trigger: "financial-year-end"
-    due: "before the due date for furnishing the income tax return for that year of assessment"
+    due: "sebelum tarikh akhir penyerahan penyata cukai pendapatan bagi tahun taksiran tersebut"
     authority: "LHDN"
     statute: "Income Tax (Transfer Pricing) Rules 2023, rule 4(1)"
-    consequence: "Penalty of RM20,000 to RM100,000 per year of assessment under s.113B(4), or prosecution under s.113B(1)"
-  - what: "Furnish contemporaneous transfer pricing documentation on request"
+    consequence: "Penalti RM20,000 hingga RM100,000 bagi setiap tahun taksiran di bawah s.113B(4), atau pendakwaan di bawah s.113B(1)"
+  - what: "Kemukakan dokumentasi penetapan harga pindahan semasa apabila diminta"
     trigger: "change"
     withinDays: 14
-    due: "within 14 days from the date the Director General's notice is served"
+    due: "dalam tempoh 14 hari dari tarikh notis Ketua Pengarah disampaikan"
     authority: "LHDN"
     statute: "Income Tax (Transfer Pricing) Rules 2023, rule 5(3)"
-    consequence: "Graduated penalty from RM20,000 to RM100,000 depending on lateness, and possible prosecution"
+    consequence: "Penalti berperingkat dari RM20,000 hingga RM100,000 bergantung pada kelewatan, dan kemungkinan pendakwaan"
 
 lang: "ms"
 masterLanguage: "en"
@@ -62,9 +58,10 @@ sourceContentHash: "5153fb940652449c"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.2"
+reviewed: 2026-08-14
+reviewDue: 2027-07-22
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-20
@@ -74,8 +71,12 @@ revisions:
     date: 2026-07-21
     change: "Fixed para 1.5(d) domestic carve-out: the three conditions are cumulative (conjunctive), so 'or' in the FAQ and body corrected to 'and' to agree with Common mistakes."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-07-20
+updated: 2026-08-14
 sources:
   - title: "Income Tax (Transfer Pricing) Rules 2023, P.U.(A) 165/2023"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputp/1820059/PUA165_2023.pdf"
@@ -89,6 +90,18 @@ sources:
     url: "https://www.hasil.gov.my/wp-content/uploads/rangka-kerja-audit-cukai-harga-pindahan-2025.pdf"
     publisher: "LHDN"
     date: "2025-07-31"
+  - title: "Transfer Pricing Tax Audit Framework 2025 (English edition)"
+    url: "https://www.hasil.gov.my/media/x5daf2j4/transfer-pricing-tax-audit-framework-2025.pdf"
+    publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
+    date: "2025-07-31"
+  - title: "Transfer Pricing Tax Audit Framework (framework listing, English edition dated 31.07.2025 current)"
+    url: "https://www.hasil.gov.my/en/perundangan/rangka-kerja/"
+    publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
+    date: "2025-07-31"
+  - title: "EY Tax Alert Special Edition No. 2/2025 — Transfer Pricing Tax Audit Framework 2025"
+    url: "https://www.ey.com/en_my/technical/tax-alerts/malaysia-transfer-pricing-tax-audit-framework-2025"
+    publisher: "Ernst & Young Tax Consultants Sdn Bhd"
+    date: "2025"
   - title: "FAQ on Matters Arising from Subsection 140A(3C) of the Income Tax Act 1967, latest amendment 31 July 2025"
     url: "https://www.hasil.gov.my/wp-content/uploads/faq-sec140a-3c-31072025.pdf"
     publisher: "LHDN"
@@ -108,286 +121,275 @@ relations:
   - { rel: "governs", to: "income-tax-act-1967" }
   - { rel: "related-to", to: "cbcr-and-master-file" }
 related: ["cbcr-and-master-file", "permanent-establishment", "corporate-tax-rates", "losses-and-group-relief"]
-keywords: ["dokumentasi harga pindahan Malaysia", "TPD kontemporari Malaysia", "penalti seksyen 113B", "surcaj seksyen 140A(3C)", "P.U.(A) 165/2023", "ambang harga pindahan Malaysia"]
+keywords: ["transfer pricing documentation Malaysia", "contemporaneous TPD Malaysia", "section 113B penalty", "section 140A(3C) surcharge", "P.U.(A) 165/2023", "transfer pricing threshold Malaysia"]
 ---
 
-Tempoh 14 hari itulah yang menjatuhkan orang. LHDN mengeluarkan notis di bawah
-peraturan 5(3) Income Tax (Transfer Pricing) Rules 2023, dan empat belas hari
-kemudian, dokumentasi itu sama ada lengkap dan berada di tangan mereka atau
-tidak. Tiada peruntukan untuk lanjutan masa dalam Peraturan tersebut. Jika
-lewat dua minggu, anda mungkin menghadapi RM60,000 bagi tahun taksiran itu
-sahaja, dan penalti itu dikenakan bagi setiap tahun, bukan bagi setiap audit.
+Tempoh 14 hari itulah yang memusnahkan ramai orang. LHDN menyampaikan notis di
+bawah kaedah 5(3) Kaedah-Kaedah Cukai Pendapatan (Penetapan Harga Pindahan)
+2023, dan empat belas hari kemudian dokumentasi itu sama ada lengkap dan berada
+di tangan mereka atau tidak. Tiada peruntukan untuk lanjutan tempoh dalam
+Kaedah tersebut. Jika ia lewat dua minggu, anda berdepan dengan RM60,000 bagi
+tahun taksiran itu sahaja, dan penalti dikenakan bagi setiap tahun, bukan bagi
+setiap audit.
 
-Perkara lain yang menjatuhkan orang ialah surcaj. Kebanyakan pemilik menganggap
-bahawa syarikat yang mempunyai kerugian belum diserap tidak perlu risau
-terhadap pelarasan harga pindahan, kerana pelarasan yang tidak mewujudkan cukai
-tidak boleh mewujudkan penalti. FAQ LHDN sendiri menyatakan sebaliknya secara
-jelas: surcaj dikenakan ke atas pelarasan s.140A "tanpa mengira sama ada
-pembayar cukai berada dalam kedudukan rugi atau merupakan syarikat yang
-dikecualikan cukai", kerana 5 peratus itu dikenakan ke atas pelarasan, bukan
-ke atas cukai.
+Bahagian lain yang memusnahkan orang ialah surcaj. Kebanyakan pemilik
+menganggap bahawa syarikat dengan kerugian tidak terserap tidak perlu takut
+kepada pelarasan penetapan harga pindahan, kerana pelarasan yang tidak
+mewujudkan cukai tidak boleh mewujudkan penalti. FAQ LHDN sendiri menyatakan
+sebaliknya dengan jelas: surcaj dikenakan ke atas pelarasan s.140A "tanpa
+mengira sama ada pembayar cukai berada dalam kedudukan rugi atau syarikat yang
+dikecualikan cukai", kerana 5 peratus itu dikenakan atas pelarasan, bukan atas
+cukai.
 
-Artikel ini ditulis untuk syarikat yang berpusing ganti RM40 juta dengan satu
-syarikat induk di Singapura dan satu yuran pengurusan — bukan untuk kumpulan
-yang mempunyai fungsi cukai dalaman sendiri.
+Artikel ini ditulis untuk syarikat dengan perolehan RM40 juta yang mempunyai
+satu syarikat induk di Singapura dan yuran pengurusan — bukan untuk kumpulan
+yang mempunyai fungsi cukai dalaman.
 
-## Siapa yang terlibat, dan siapa yang sememangnya tidak
+## Siapa yang terjerat, dan siapa yang benar-benar tidak
 
-Mulakan dengan s.140A(5) dan (5A) Income Tax Act 1967, kerana transaksi itu
-mesti *dikawal* dahulu sebelum semua ini terpakai. Sesuatu transaksi dikawal
-apabila satu pihak mengawal pihak yang satu lagi, pihak-pihak itu adalah
-individu yang bersaudara, atau kedua-duanya dikawal oleh pihak ketiga.
+Mulakan dengan s.140A(5) dan (5A) Akta Cukai Pendapatan 1967, kerana transaksi
+mesti *terkawal* sebelum mana-mana daripada ini terpakai. Transaksi adalah
+terkawal apabila satu pihak mengawal pihak yang lain, pihak-pihak adalah
+individu yang merupakan saudara-mara, atau kedua-duanya dikawal oleh pihak
+ketiga.
 
 Kawalan di bawah s.140A(5A) ialah **20 peratus atau lebih daripada modal
 saham** — secara langsung, atau melalui pihak ketiga yang memegang saham dalam
-kedua-dua pihak — **ditambah sekurang-kurangnya satu daripada**:
+kedua-duanya — **ditambah sekurang-kurangnya satu daripada**:
 
-- operasi perniagaan satu pihak bergantung kepada hak proprietari seperti
-  paten, kepakaran (know-how) tanpa paten, tanda dagangan atau hak cipta yang
-  disediakan oleh pihak yang satu lagi;
-- aktiviti perniagaan satu pihak, seperti pembelian, jualan atau penerimaan
-  atau penyediaan perkhidmatan, ditetapkan oleh pihak yang satu lagi, dan
-  harga serta syarat bekalan dipengaruhi olehnya; atau
-- satu atau lebih pengarah bagi satu pihak dilantik oleh pihak yang satu lagi.
+- operasi perniagaan satu pihak bergantung pada hak proprietari seperti paten,
+  pengetahuan tidak dipatenkan, tanda dagangan atau hak cipta yang disediakan
+  oleh pihak yang lain;
+- aktiviti perniagaan satu pihak, seperti belian, jualan atau penerimaan atau
+  pemberian perkhidmatan, ditetapkan oleh pihak yang lain, dan harga serta
+  syarat bekalan dipengaruhi olehnya; atau
+- seorang atau lebih pengarah satu pihak dilantik oleh pihak yang lain.
 
-Itu adalah paras pegangan saham yang lebih rendah daripada yang dijangkakan
-oleh kebanyakan orang, dan ketiga-tiga syarat itu menggambarkan anak syarikat
-kumpulan biasa hampir secara tepat.
+Itu adalah had pegangan saham yang lebih rendah daripada jangkaan kebanyakan
+orang, dan tiga cabang itu menggambarkan anak syarikat kumpulan biasa dengan
+hampir tepat.
 
-Kemudian gunakan perenggan 1.5 Malaysia Transfer Pricing Guidelines 2024.
-Tiada dokumentasi kontemporari diperlukan bagi:
+Kemudian terapkan perenggan 1.5 Garis Panduan Penetapan Harga Pindahan Malaysia
+2024. Tiada dokumentasi semasa dikehendaki bagi:
 
 - individu yang tidak menjalankan perniagaan;
-- individu yang menjalankan perniagaan, termasuk perkongsian, yang hanya
-  terlibat dalam transaksi terkawal domestik;
-- orang yang jumlah transaksi terkawalnya **tidak melebihi RM1 juta**; atau
-- orang yang **semata-mata** memasuki transaksi terkawal domestik dengan
-  orang lain di mana kedua-dua pihak tidak menikmati insentif cukai,
-  dikenakan cukai pada kadar utama yang sama, dan tidak mengalami kerugian
-  bagi dua tahun berturut-turut sebelum transaksi tersebut.
+- individu yang menjalankan perniagaan, termasuk perkongsian, yang terlibat
+  hanya dalam transaksi terkawal domestik;
+- seseorang yang jumlah transaksi terkawalnya **tidak melebihi RM1 juta**; atau
+- seseorang yang memasuki **semata-mata** transaksi terkawal domestik dengan
+  orang lain di mana kedua-dua pihak tidak menikmati insentif cukai, dikenakan
+  cukai pada kadar utama yang sama, dan tidak mengalami kerugian selama dua tahun
+  berturut-turut sebelum transaksi.
 
-Perenggan 1.6 itulah yang menyengat: orang yang dikecualikan tetap mesti
-mematuhi prinsip harga wajar (arm's length) dan tetap mesti menyimpan dokumen
-yang menyokong cara harga ditetapkan. Kelonggaran itu adalah daripada fail
-formal, bukan daripada piawaian itu sendiri.
+Perenggan 1.6 ialah sengatannya: orang yang dikecualikan masih mesti mematuhi
+prinsip berlanggan lengkap (arm's length) dan masih mesti menyimpan dokumen yang
+menyokong bagaimana harga ditetapkan. Kelegaan itu adalah daripada fail formal,
+bukan daripada piawaian.
 
 ## Dokumentasi penuh berbanding dokumentasi minimum
 
 Perenggan 1.7 menetapkan ambang dokumentasi penuh. Seseorang mesti menyediakan
-fail kontemporari penuh jika ia:
+fail semasa penuh jika ia:
 
 - **(a)** menjana pendapatan perniagaan kasar **melebihi RM30 juta** secara
-  keseluruhan **dan** terlibat dalam transaksi terkawal rentas sempadan
-  berjumlah **RM10 juta atau lebih** setahun; **atau**
-- **(b)** menerima atau menyediakan bantuan kewangan terkawal **melebihi
-  RM50 juta** setahun.
+  keseluruhan **dan** terlibat dalam transaksi terkawal rentas sempadan berjumlah
+  **RM10 juta atau lebih** setahun; **atau**
+- **(b)** menerima atau memberi bantuan kewangan terkawal **melebihi RM50 juta**
+  setahun.
 
-Senario kerja Guidelines itu sendiri menunjukkan cara syarat-syarat ini
-terpakai. Sebuah syarikat dengan pendapatan RM40 juta, RM9 juta transaksi
-rentas sempadan dan RM10 juta transaksi domestik **terkecuali** daripada
-perenggan 1.7 — transaksi domestik tidak dikira ke arah RM10 juta itu. Sebuah
-syarikat dengan pendapatan RM5 juta sahaja tetapi pembiayaan antara syarikat
-sebanyak RM51 juta **terlibat**, melalui syarat (b). Manakala sebuah syarikat
-dengan pendapatan RM20 juta, transaksi rentas sempadan RM20 juta dan
-pembiayaan RM40 juta terkecuali daripada kedua-dua syarat itu, kerana tiada
-satu ujian pun yang dipenuhi sepenuhnya.
+Senario terperinci Garis Panduan sendiri menunjukkan bagaimana cabang-cabang itu
+berkuat kuasa. Sebuah syarikat dengan pendapatan RM40 juta, RM9 juta transaksi
+rentas sempadan dan RM10 juta transaksi domestik berada **di luar** perenggan
+1.7 — transaksi domestik tidak dikira ke arah RM10 juta. Sebuah syarikat dengan
+pendapatan RM5 juta sahaja tetapi RM51 juta pembiayaan antara syarikat berada
+**di dalam**, melalui cabang (b). Dan sebuah syarikat dengan pendapatan RM20
+juta, RM20 juta transaksi rentas sempadan dan RM40 juta pembiayaan berada di
+luar kedua-dua cabang, kerana tiada ujian dipenuhi sepenuhnya.
 
-Jika anda terkecuali daripada perenggan 1.5 dan perenggan 1.7, perenggan 1.8
+Jika anda berada di luar perenggan 1.5 dan di luar perenggan 1.7, perenggan 1.8
 meletakkan anda dalam kategori **CTPD minimum**. Dokumentasi minimum membawa
-keperluan yang dikurangkan, mesti disiapkan dan bertarikh sebelum penyata
-cukai dikemukakan, dan di bawah perenggan 1.10 membenarkan mana-mana kaedah
-yang dibenarkan oleh Ketua Pengarah yang menunjukkan pematuhan kepada prinsip
-harga wajar (arm's length). LHDN menerbitkan templat dokumentasi minimum dan
-nota penjelasan di laman harga pindahannya. Anda sentiasa boleh memilih untuk
-menyediakan fail penuh sebagai gantinya.
+keperluan yang dikurangkan, mesti dilengkapkan dan bertarikh sebelum penyata
+diserahkan, dan di bawah perenggan 1.10 membenarkan sebarang kaedah yang
+dibenarkan oleh Ketua Pengarah yang menunjukkan pematuhan kepada prinsip
+berlanggan lengkap. LHDN menerbitkan templat dokumentasi minimum dan nota
+penjelasan pada halaman penetapan harga pindahannya. Anda sentiasa boleh memilih
+untuk menyediakan fail penuh sebaliknya.
 
-Satu kategori langsung tiada ambang: **entiti tetap (permanent
-establishment)** yang mempunyai transaksi terkawal mesti menyediakan fail
-penuh tanpa mengira perenggan 1.7.
+Satu kategori tidak mempunyai ambang sama sekali: **pertubuhan tetap**
+(permanent establishment) yang mempunyai transaksi terkawal mesti menyediakan
+fail penuh tanpa mengira perenggan 1.7.
 
-## Apa maksud sebenar "kontemporari"
+## Apa maksud sebenar "semasa" (contemporaneous)
 
-Peraturan 4(1) P.U.(A) 165/2023: dokumentasi mesti "dibawa ke dalam kewujudan
-sebelum tarikh akhir untuk mengemukakan penyata dalam tempoh asas bagi tahun
-taksiran di mana transaksi terkawal itu dimasuki".
+Kaedah 4(1) P.U.(A) 165/2023: dokumentasi mesti "diwujudkan sebelum tarikh akhir
+untuk mengemukakan penyata dalam tempoh asas bagi tahun taksiran di mana
+transaksi terkawal dimasuki".
 
-Jadi tarikh akhir itu ialah tarikh akhir Borang C, bukan surat audit. Fail
-yang bertarikh minggu notis itu tiba bukanlah kontemporari, walau apa pun
-kandungannya.
+Jadi tarikh akhir adalah tarikh akhir Borang C, bukan surat audit. Fail yang
+bertarikh minggu notis tiba bukanlah semasa, apa pun kandungannya.
 
-Peraturan 4(2) menetapkan kandungannya:
+Kaedah 4(2) menetapkan kandungannya:
 
-| Keperluan | Peraturan 4(2) |
+| Keperluan | Kaedah 4(2) |
 | --- | --- |
-| Maklumat mengenai kumpulan perusahaan multinasional | (a), Schedule 1 |
-| Maklumat mengenai perniagaan orang itu sendiri | (b), Schedule 2 |
-| Maklumat pengaturan sumbangan kos | (c), Schedule 3 |
+| Maklumat mengenai kumpulan perusahaan multinasional | (a), Jadual 1 |
+| Maklumat mengenai perniagaan orang itu sendiri | (b), Jadual 2 |
+| Maklumat pengaturan sumbangan kos | (c), Jadual 3 |
 | Indeks kepada dokumen | (d) |
-| Tarikh dokumentasi itu disiapkan | (e) |
-| Dokumen yang menjadi asas, sokongan, atau dirujuk dalam analisis | (f) |
-| Maklumat, data dan dokumen yang digunakan untuk menentukan harga wajar (arm's length), termasuk perubahan ketara dalam keadaan perniagaan | (g) |
+| Tarikh dokumentasi dilengkapkan | (e) |
+| Dokumen yang menjadi asas, menyokong, atau dirujuk dalam analisis | (f) |
+| Maklumat, data dan dokumen yang digunakan untuk menentukan harga berlanggan lengkap, termasuk perubahan material dalam keadaan perniagaan | (g) |
 
-Peraturan 4(3) menghendaki anda menyatakan secara nyata jika sesuatu item
-tidak terpakai, dan bukan meninggalkannya begitu sahaja tanpa penjelasan.
-Peraturan 4(5) memberi kuasa kepada Ketua Pengarah untuk mengeluarkan garis
-panduan — dan di situlah Guidelines 2024 mendapat kekuatannya.
+Kaedah 4(3) menghendaki anda menyatakan secara nyata di mana sesuatu perkara
+tidak terpakai, dan bukan meninggalkannya secara senyap. Kaedah 4(5) memberi
+kuasa kepada Ketua Pengarah untuk mengeluarkan garis panduan — yang menjadi
+sumber kuasa Garis Panduan 2024.
 
-Perhatikan peraturan 5(1): harga wajar (arm's length) mesti berdasarkan
-maklumat boleh dipercayai yang paling terkini yang munasabah tersedia *pada
-masa penentuan*. Perenggan 11.3 Guidelines kemudiannya membenarkan anda
-mengemas kini penanda aras (benchmarking) semasa audit dengan data setara yang
-lebih terkini tanpa memusnahkan sifat kontemporari — tetapi memberi amaran
-bahawa jika kemas kini itu menghasilkan pelarasan, surcaj mungkin dikenakan ke
-atasnya.
+Perhatikan kaedah 5(1): harga berlanggan lengkap mesti berdasarkan maklumat
+paling terkini yang boleh dipercayai yang munasabah tersedia *pada masa
+penentuan*. Perenggan 11.3 Garis Panduan kemudian membenarkan anda mengemas kini
+penanda aras semasa audit dengan data setara yang lebih kemudian tanpa
+memusnahkan sifat semasa — tetapi memberi amaran bahawa jika kemas kini itu
+menghasilkan pelarasan, surcaj boleh dikenakan atasnya.
 
 ## Memilih kaedah, dan kuasa LHDN untuk menukarnya
 
-Peraturan 6(1) menghendaki **kaedah yang paling sesuai**: kaedah transaksi
-tradisional — harga tidak terkawal setara (comparable uncontrolled price),
-harga jualan semula (resale price) atau kos tambah (cost plus) — kaedah
-keuntungan transaksi, iaitu pembahagian keuntungan (profit split) atau kaedah
-margin bersih transaksi (transactional net margin method), atau mana-mana
-kaedah lain yang dibenarkan oleh Ketua Pengarah yang memberikan tahap
-kebolehbandingan yang paling tinggi.
+Kaedah 6(1) menghendaki **kaedah paling sesuai**: kaedah transaksi tradisional —
+harga tidak terkawal setara, harga jualan semula atau kos tambah — kaedah
+keuntungan transaksi, iaitu pembahagian keuntungan atau kaedah margin bersih
+transaksi, atau apa-apa kaedah lain yang dibenarkan oleh Ketua Pengarah yang
+memberi tahap kebolehbandingan tertinggi.
 
-Peraturan 6(2) kemudiannya meletakkan beban dokumentasi ke atas pemilihan itu
-sendiri. Anda mesti menjelaskan mengapa kaedah dan penunjuk paras keuntungan
-(profit level indicator) yang dipilih itu sesuai sebagai anggaran yang lebih
-baik bagi harga wajar, dan mendasarkannya pada fakta serta ciri-ciri berkaitan
-ekonomi bagi transaksi tersebut yang digariskan dengan tepat.
+Kaedah 6(2) kemudian meletakkan beban dokumentasi pada pilihan itu sendiri. Anda
+mesti menjelaskan mengapa kaedah yang dipilih dan penunjuk aras keuntungan adalah
+sesuai sebagai anggaran yang lebih baik bagi harga berlanggan lengkap, dan
+mengasaskannya pada fakta serta ciri-ciri yang relevan secara ekonomi bagi
+transaksi seperti yang digariskan dengan tepat.
 
-Peraturan 6(3) ialah bahagian yang sering dipandang rendah oleh pemfail kecil:
-Ketua Pengarah boleh menyemak semula kaedah yang anda pilih dan
-**menggantikannya** dengan kaedah lain yang disenaraikan jika beliau mempunyai
-alasan untuk mempercayai kaedah anda bukan yang paling sesuai. Fail yang
-menegaskan sesuatu kaedah tanpa menjustifikasikannya mengundang penggantian
-tersebut, dan pelarasan yang terhasil membawa surcaj seperti di bawah.
+Kaedah 6(3) ialah bahagian yang dipandang remeh oleh pemfail kecil: Ketua
+Pengarah boleh menyemak kaedah yang anda pilih dan **menggantikannya** dengan
+kaedah lain yang tersenarai jika beliau mempunyai sebab untuk mempercayai kaedah
+anda bukanlah yang paling sesuai. Fail yang menegaskan sesuatu kaedah tanpa
+mewajarkannya menjemput penggantian itu, dan pelarasan yang terhasil membawa
+surcaj di bawah.
 
-## Penalti seksyen 113B, dalam jumlah yang sebenarnya digunakan oleh LHDN
+## Penalti seksyen 113B, dalam amaun yang LHDN sebenarnya guna
 
-Seksyen 113B(1) menjadikan kemungkiran itu suatu kesalahan jenayah: apabila
-disabitkan kesalahan, denda tidak kurang daripada RM20,000 dan tidak melebihi
-RM100,000, atau penjara sehingga enam bulan, atau kedua-duanya. Seksyen
-113B(2) meletakkan beban membuktikan dokumentasi itu telah dikemukakan ke atas
-tertuduh. Seksyen 113B(3) membenarkan mahkamah memerintahkan pematuhan dalam
-tempoh 30 hari.
+Seksyen 113B(1) menjadikan keingkaran satu kesalahan jenayah: apabila disabitkan,
+denda tidak kurang daripada RM20,000 dan tidak lebih daripada RM100,000, atau
+penjara sehingga enam bulan, atau kedua-duanya. Seksyen 113B(2) meletakkan beban
+membuktikan dokumentasi telah dikemukakan pada tertuduh. Seksyen 113B(3)
+membenarkan mahkamah mengarahkan pematuhan dalam tempoh 30 hari.
 
-Seksyen 113B(4) ialah yang bakal anda hadapi. Jika tiada pendakwaan, Ketua
+Seksyen 113B(4) ialah yang akan anda hadapi. Di mana tiada pendakwaan, Ketua
 Pengarah boleh melalui notis bertulis, atau dalam notis taksiran, menghendaki
-pembayaran penalti tidak kurang daripada RM20,000 dan tidak melebihi
+pembayaran penalti tidak kurang daripada RM20,000 dan tidak lebih daripada
 RM100,000. Membayarnya menghalang pendakwaan atas fakta yang sama.
 
-Rangka Kerja Audit Cukai Harga Pindahan (Transfer Pricing Audit Framework)
-yang berkuat kuasa mulai 31 Julai 2025 menetapkan jumlah-jumlah ini. Kelewatan
-diukur daripada tamat tempoh 14 hari itu sehingga dokumentasi lengkap sampai
-ke tangan LHDN:
+Rangka Kerja Audit Cukai Harga Pindahan berkuat kuasa 31 Julai 2025 menetapkan
+amaunnya. Kelewatan diukur dari tamat tempoh 14 hari sehingga dokumentasi lengkap
+sampai kepada LHDN:
 
 | Kelewatan melebihi 14 hari | Penalti di bawah s.113B(4) |
 | --- | --- |
 | Sehingga 7 hari | RM20,000 |
-| Melebihi 7 hari sehingga 14 hari | RM40,000 |
-| Melebihi 14 hari sehingga 21 hari | RM60,000 |
-| Melebihi 21 hari sehingga 28 hari | RM80,000 |
-| Melebihi 28 hari | RM100,000 |
+| Lebih 7 hari sehingga 14 hari | RM40,000 |
+| Lebih 14 hari sehingga 21 hari | RM60,000 |
+| Lebih 21 hari sehingga 28 hari | RM80,000 |
+| Lebih 28 hari | RM100,000 |
 
-Rangka kerja itu mengenakan penalti **secara berasingan bagi setiap tahun
-taksiran**, pada peringkat penutupan audit, apabila dokumentasi dikemukakan
-lewat **atau** apabila apa yang dikemukakan tidak lengkap seperti diukur
-berbanding P.U.(A) 165/2023 dan Guidelines yang berkuat kuasa. Pendakwaan
-disediakan khas untuk pembayar cukai yang langsung tidak memberikan sebarang
-respons.
+Rangka kerja mengenakan penalti **secara berasingan bagi setiap tahun taksiran**,
+pada peringkat penutup audit, di mana dokumentasi dikemukakan lewat **atau** di
+mana apa yang dikemukakan tidak lengkap apabila diukur terhadap P.U.(A) 165/2023
+dan Garis Panduan yang berkuat kuasa. Pendakwaan dikhaskan untuk pembayar cukai
+yang tidak memberi respons langsung.
 
-Terdapat satu kelonggaran peralihan. Rangka kerja itu tidak mengenakan
-penalti s.113B(4) bagi tempoh perakaunan yang bermula **sebelum P.U.(A)
-165/2023 diwartakan pada 29 Mei 2023**. Contoh-contohnya sendiri: tempoh
-kewangan 1 Jun 2022 hingga 31 Mei 2023 mendapat kelonggaran; 1 Jun 2023
-hingga 31 Mei 2024 tidak; tahun kalendar 2023 mendapat kelonggaran; tahun
-kalendar 2024 tidak.
+Terdapat konsesi peralihan. Rangka kerja tidak menggunakan penalti s.113B(4)
+bagi tempoh perakaunan yang bermula **sebelum P.U.(A) 165/2023 diwartakan pada
+29 Mei 2023**. Contohnya sendiri: tempoh kewangan 1 Jun 2022 hingga 31 Mei 2023
+mendapat kelegaan; 1 Jun 2023 hingga 31 Mei 2024 tidak; tahun kalendar 2023
+mendapat kelegaan; tahun kalendar 2024 tidak.
 
 Notis s.113B(4) boleh dirayu kepada Pesuruhjaya Khas dalam tempoh **30 hari**,
-seolah-olah ia adalah notis taksiran.
+seolah-olah ia satu notis taksiran.
 
-## Surcaj yang dikenakan tanpa sebarang cukai berkaitan
+## Surcaj yang tiba tanpa cukai terlekat
 
-Seksyen 140A(3C) membenarkan Ketua Pengarah menghendaki pembayaran surcaj
-**tidak melebihi 5 peratus** daripada peningkatan pendapatan, atau pengurangan
-mana-mana potongan atau kerugian, yang terhasil daripada penggantian harga di
-bawah s.140A(3) atau pengabaian struktur di bawah s.140A(3A).
+Seksyen 140A(3C) membenarkan Ketua Pengarah menghendaki pembayaran surcaj **tidak
+lebih daripada 5 peratus** daripada peningkatan pendapatan, atau pengurangan
+dalam mana-mana potongan atau kerugian, hasil daripada penggantian harga di bawah
+s.140A(3) atau pengabaian struktur di bawah s.140A(3A).
 
-Empat perkara menentukan berapa besar kosnya:
+Empat perkara menentukan berapa kosnya:
 
-**Ia dikenakan ke atas pelarasan, bukan ke atas cukai.** FAQ LHDN menjawab
-soalan kes kerugian secara langsung — surcaj dikenakan apabila pembayar cukai
-gagal mematuhi prinsip harga wajar tidak kira sama ada taksiran atau taksiran
-tambahan terhasil atau tidak. Rangka kerja itu mengulanginya: surcaj masih
-boleh dikenakan walaupun tiada taksiran dibangkitkan.
+**Ia dikenakan atas pelarasan, bukan atas cukai.** FAQ LHDN menjawab soalan kes
+rugi secara terus — surcaj dikenakan di mana pembayar cukai gagal mematuhi
+prinsip berlanggan lengkap sama ada taksiran atau taksiran tambahan terhasil atau
+tidak. Rangka kerja mengulanginya: surcaj masih boleh dikenakan walaupun tiada
+taksiran dibangkitkan.
 
-**Kadar umum ialah 5 peratus.** FAQ sebagaimana dipinda pada 31 Julai 2025
-menyatakan tiada skala yang diterbitkan, bahawa kadar akhir berbeza-beza
-mengikut merit kes, dan bahawa kadar yang lebih rendah ditawarkan bagi
-pendedahan sukarela. Rangka kerja meletakkan pendedahan sukarela pada **0
-hingga 4 peratus**.
+**Kadar am ialah 5 peratus.** FAQ yang dipinda pada 31 Julai 2025 menyatakan
+tiada skala diterbitkan, kadar akhir berbeza mengikut merit, dan kadar yang lebih
+rendah ditawarkan bagi pendedahan sukarela. Rangka kerja meletakkan pendedahan
+sukarela pada **0 hingga 4 peratus**.
 
-**Ia hanya terpakai bagi tempoh asas yang bermula pada atau selepas 1 Januari
-2021.** Bagi pelarasan dalam tempoh asas yang lebih awal, LHDN sebaliknya
-mengenakan penalti s.113(2) ke atas cukai yang kurang dikenakan, pada 15
-peratus bagi kesalahan pertama, 30 peratus bagi kesalahan kedua dan 45 peratus
-selepas itu di bawah rangka kerja, dengan budi bicara s.124(3) untuk
-mengurangkan atau mengecualikan.
+**Ia hanya menjangkau tempoh asas yang bermula pada atau selepas 1 Januari
+2021.** Bagi pelarasan dalam tempoh asas yang lebih awal LHDN menggunakan penalti
+s.113(2) atas cukai kurang dikenakan sebaliknya, pada 15 peratus bagi kesalahan
+pertama, 30 peratus bagi kedua dan 45 peratus selepas itu di bawah rangka kerja,
+dengan budi bicara s.124(3) untuk mengurangkan atau meremitkan.
 
-**Ia dikutip sebagai cukai tetapi bukan cukai.** Seksyen 140A(3D): surcaj itu
-dikutip seolah-olah ia cukai yang kena dibayar, tetapi tidak dianggap sebagai
-cukai bagi mana-mana peruntukan Akta selain ss.103 hingga 106. Oleh itu ia
-dikenakan peningkatan 10 peratus atas pembayaran lewat dan mekanisme
-pemungutan, tetapi tidak menyumbang kepada pengiraan.
+**Ia dikutip sebagai cukai tetapi bukan cukai.** Seksyen 140A(3D): surcaj dikutip
+seolah-olah ia cukai kena bayar, tetapi tidak dianggap sebagai cukai bagi
+mana-mana peruntukan Akta selain s.103 hingga 106. Oleh itu ia menarik kenaikan
+10 peratus atas bayaran lewat dan jentera pemulihan, tetapi tidak menyumbang
+kepada pengiraan.
 
-Surcaj itu mengikut hasil Prosedur Persetujuan Bersama (Mutual Agreement
-Procedure, MAP) — jika pelarasan itu dikurangkan di bawah MAP, FAQ
-mengesahkan surcaj turut dilaraskan bersamanya.
+Surcaj mengikut hasil Prosedur Persetujuan Bersama (Mutual Agreement Procedure) —
+jika pelarasan dikurangkan di bawah MAP, FAQ mengesahkan surcaj dilaraskan
+bersamanya.
 
 ## Kesilapan biasa
 
-**Mempercayai transaksi domestik itu selamat.** Hanya pengecualian khusus
-dalam perenggan 1.5(d) mengecualikan urusan domestik semata-mata, dan ia gagal
-terpakai sebaik sahaja satu pihak mempunyai insentif, kadar utama yang
-berbeza, atau dua tahun berturut-turut kerugian. Yuran pengurusan daripada
-sebuah Sdn Bhd yang rugi kepada syarikat sekutu yang berkeuntungan adalah
-jelas terangkum dalam skop.
+**Mempercayai transaksi domestik selamat.** Hanya pengecualian khusus dalam
+perenggan 1.5(d) mengecualikan urusan semata-mata domestik, dan ia gagal sebaik
+sahaja satu pihak mempunyai insentif, kadar utama yang berbeza, atau dua tahun
+kerugian berturut-turut. Yuran pengurusan daripada Sdn Bhd yang rugi kepada
+syarikat kakak yang menguntungkan berada tepat dalam skop.
 
-**Menganggap ambang RM30 juta sebagai titik permulaan.** Itu adalah titik
-permulaan bagi dokumentasi *penuh*. Titik permulaan bagi dokumentasi langsung
-ialah RM1 juta transaksi terkawal.
+**Membaca ambang RM30 juta sebagai titik masuk.** Ia ialah titik masuk kepada
+dokumentasi *penuh*. Titik masuk kepada dokumentasi langsung ialah RM1 juta
+transaksi terkawal.
 
-**Mengira transaksi domestik ke arah RM10 juta itu.** Perenggan 1.7(a)
-menyebut rentas sempadan.
+**Mengira transaksi domestik ke arah RM10 juta.** Perenggan 1.7(a) menyatakan
+rentas sempadan.
 
-**Mengabaikan pinjaman antara syarikat.** Pembiayaan pengarah atau pemegang
-saham tanpa faedah melebihi RM50 juta mencetuskan dokumentasi penuh dengan
-sendirinya, tanpa sebarang ambang pendapatan, di bawah perenggan 1.7(b).
+**Mengabaikan pinjaman antara syarikat.** Pembiayaan pengarah atau pemegang saham
+tanpa faedah melebihi RM50 juta mencetuskan dokumentasi penuh dengan sendirinya,
+tanpa ambang pendapatan, di bawah perenggan 1.7(b).
 
-**Menganggap fail induk (master file) kumpulan sudah mencukupi.** Ia boleh
-menggantikan maklumat Schedule 1 apabila ia mengandungi segala yang
-diperlukan, tetapi Schedule 2 — perniagaan, fungsi dan penanda aras entiti
-Malaysia itu sendiri — perlu disediakan secara tempatan.
+**Menganggap fail induk kumpulan (group master file) sudah memadai.** Ia boleh
+menggantikan maklumat Jadual 1 di mana ia mengandungi segala yang dikehendaki,
+tetapi Jadual 2 — perniagaan, fungsi dan penanda aras entiti Malaysia sendiri —
+mesti disediakan secara tempatan.
 
-**Menganggap kedudukan rugi itu suatu perlindungan.** Ia bukan, dan ini
-merupakan salah faham yang paling biasa dalam pasaran pertengahan.
+**Menganggap kedudukan rugi sebagai perlindungan.** Ia bukan, dan inilah salah
+tanggapan paling biasa dalam pasaran sederhana.
 
-**Menarikhkan fail selepas penyata cukai.** Itu sahaja sudah menjadikannya
-tidak kontemporari, tidak kira betapa baik kualitinya.
+**Bertarikh fail selepas penyata.** Itu sahaja menjadikannya bukan semasa, tanpa
+mengira kualiti.
 
-## Langkah seterusnya
+## Apa yang seterusnya
 
-Dua perkara, secara berurutan. Pertama, kenal pasti perenggan mana yang anda
-termasuk — 1.5, 1.7 atau 1.8 — menggunakan angka tahun ini dan bukan tahun
-lepas, kerana ambang-ambang itu diuji setiap tahun. Kedua, jika anda berada
-dalam 1.7 atau 1.8, tetapkan tarikh siap kepada tarikh akhir Borang C anda dan
-bekerja ke belakang daripada situ, kerana keseluruhan rejim penalti itu
-bergantung kepada fail yang sudah wujud apabila notis tiba.
+Dua perkara, mengikut susunan. Pertama, tentukan perenggan mana anda tergolong —
+1.5, 1.7 atau 1.8 — menggunakan angka tahun ini dan bukan tahun lepas, kerana
+ambang diuji setiap tahun. Kedua, jika anda berada dalam 1.7 atau 1.8, tetapkan
+tarikh siap kepada tarikh akhir Borang C anda dan bekerja ke belakang, kerana
+seluruh rejim penalti berpaksi pada fail yang sudah wujud apabila notis tiba.
 
-Jika kumpulan anda melebihi EUR 750 juta atau RM3 bilion dalam hasil
-disatukan, baca juga `cbcr-and-master-file` — kewajipan pelaporan di situ
-berjalan mengikut jangka masa yang berasingan. Jika pihak lawan itu ialah
-syarikat induk asing yang beroperasi melalui orang di Malaysia,
-`permanent-establishment` merangkumi risiko bahawa kumpulan itu mempunyai
-kehadiran bercukai di Malaysia yang tidak berkaitan dengan harganya.
+Jika kumpulan anda melebihi EUR 750 juta atau RM3 bilion dalam hasil disatukan,
+baca juga `/ms/cbcr-and-master-file` — tugas pelaporan di sana berjalan pada jam
+berasingan. Jika pihak lawan ialah syarikat induk asing yang beroperasi melalui
+orang di Malaysia, `/ms/permanent-establishment` merangkumi risiko bahawa
+kumpulan mempunyai kehadiran bercukai di Malaysia yang berasingan daripada
+penetapan harganya.

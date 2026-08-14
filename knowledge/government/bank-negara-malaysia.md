@@ -34,7 +34,7 @@ faq:
   - q: "Which laws does BNM enforce?"
     a: "Besides its own Central Bank of Malaysia Act 2009, BNM administers the Financial Services Act 2013 (conventional) and the Islamic Financial Services Act 2013, which together replaced older laws such as the Banking and Financial Institutions Act 1989, the Insurance Act 1996, the Takaful Act 1984, the Payment Systems Act 2003 and the Exchange Control Act 1953 from 30 June 2013."
   - q: "Who owns Bank Negara Malaysia and who appoints the Governor?"
-    a: "BNM is a statutory body wholly owned by the Government, with a paid-up capital of RM100 million under Section 6 of Act 701. It is governed by a Board of Directors and led by a Governor. As at 2026 the Governor is Datuk Seri Abdul Rasheed Ghaffour, appointed for a five-year term running to 30 June 2028."
+    a: "BNM is a statutory body wholly owned by the Government, with a paid-up capital of RM100 million under Section 6 of Act 701. It is governed by a Board of Directors and led by a Governor. As at 2026 the Governor is Dato' Sri Abdul Rasheed Ghaffour, appointed for a five-year term running from 1 July 2023 to 30 June 2028."
   - q: "Where can I read the rules myself?"
     a: "The founding law is the Central Bank of Malaysia Act 2009 (Act 701), available as a Laws of Malaysia reprint. Monetary policy statements and the OPR history are published on bnm.gov.my, and the Foreign Exchange Policy Notices are at bnm.gov.my/fep."
 
@@ -45,14 +45,10 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
+reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "0.2"
-verificationNeeded:
-  - "Governor identity and title as at publication — Datuk Seri Abdul Rasheed Ghaffour is serving a five-year term to 30 June 2028; confirm he is still in office at publication and the honorific is current."
-  - "2026 MPC meeting dates (22 Jan, 5 Mar, 7 May, 9 Jul, 3 Sep, 5 Nov) against the live BNM MPC Meeting Schedule page in case of any reschedule."
-  - "Current OPR level (2.75%) against the BNM OPR Decisions page at publication, since the rate can move at any scheduled MPC meeting."
-  - "Exact subsection pin-cite for BNM's head office being in Kuala Lumpur (given as s.3 in the text; the precise subsection was not confirmed)."
+version: "0.3"
+verificationNeeded: []
 revisions:
   - version: "0.1"
     date: 2026-08-01
@@ -62,6 +58,10 @@ revisions:
     date: 2026-08-01
     change: "Correction pass: cited the Governor appointment (MOF release) and 2026 MPC schedule (BNM page), replaced weak paultan.org OPR source with the New Straits Times report, softened the s.3(4) head-office pin-cite to s.3, and added verificationNeeded."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
 updated: 2026-08-01
 sources:
@@ -90,6 +90,19 @@ sources:
     url: "https://www.nst.com.my/business/corporate/2026/03/1390459/bank-negara-keeps-opr-275pct-second-mpc-meeting"
     publisher: "New Straits Times"
     date: "2026-03-05"
+  - title: "Dato' Sri Abdul Rasheed Ghaffour — Governor"
+    url: "https://www.bnm.gov.my/governors/rasheed"
+    publisher: "Bank Negara Malaysia"
+  - title: "Policy consistency, strong fundamentals anchor investor confidence — Bank Negara governor"
+    url: "https://www.thestar.com.my/business/business-news/2026/08/14/policy-consistency-strong-fundamentals-anchor-investor-confidence---bank-negara-governo"
+    publisher: "The Star"
+    date: "2026-08-14"
+  - title: "MPC Meeting Decision Schedule — tag/mpc-2026"
+    url: "https://www.bnm.gov.my/monetary-stability/mpc-meetings/-/tag/mpc-2026"
+    publisher: "Bank Negara Malaysia"
+  - title: "Monetary Policy Statement 09072026"
+    url: "https://www.bnm.gov.my/-/monetary-policy-statement-09072026"
+    publisher: "Bank Negara Malaysia"
 
 entity: "Bank Negara Malaysia"
 relations:
@@ -120,8 +133,8 @@ is either only half right or belongs to a different agency entirely.
 | Continues | The body corporate first established under the Central Bank of Malaysia Act 1958 (now repealed) |
 | Principal objects | Monetary stability and financial stability conducive to sustainable growth (s.5(1)) |
 | Paid-up capital | RM100 million, subscribed by the Government (s.6) |
-| Head office | Kuala Lumpur (s.3) |
-| Governor (as at 2026) | Datuk Seri Abdul Rasheed Ghaffour |
+| Head office | Kuala Lumpur (s.3(4)) |
+| Governor (as at 2026) | Dato' Sri Abdul Rasheed Ghaffour |
 | Website | `bnm.gov.my` |
 
 The most important line in that table is the one about lineage. BNM is not a new

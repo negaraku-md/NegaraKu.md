@@ -12,7 +12,7 @@ tier: "1"
 mode: "practical"
 contentType: "guide"
 
-answer: "A Sdn Bhd is incorporated by lodging an application with the Companies Commission of Malaysia (SSM) through the MyCoID portal. You need at least one director who ordinarily resides in Malaysia and at least one shareholder (who need not be resident), a registered office, and a licensed company secretary appointed within 30 days of incorporation. Straightforward applications are typically registered within a few business days once the company name is approved."
+answer: "A Sdn Bhd is incorporated by lodging an application with the Companies Commission of Malaysia (SSM) through the Corporate Registry System (CRS), accessed via the SSM4U portal (which replaced the former MyCoID portal). You need at least one director who ordinarily resides in Malaysia and at least one shareholder (who need not be resident), a registered office, and a licensed company secretary appointed within 30 days of incorporation. SSM's client charter is one working day to register a complete application once the fee is paid, though name approval and any queries can extend the calendar time."
 keyTakeaways:
   - "Minimum one director who ordinarily resides in Malaysia (Companies Act 2016, s.196)"
   - "Minimum one shareholder; a private company is capped at 50 shareholders (s.42)"
@@ -43,11 +43,15 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-07-22
+reviewed: 2026-08-14
 reviewDue: 2027-07-22
 version: "0.3"
 sensitivity: "none"
 revisions:
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
   - version: "0.3"
     date: 2026-07-21
     change: "Rephrased the answer so the ordinary-residence requirement attaches only to the director, not the shareholder — a shareholder need not be resident (consistent with s.196 and the FAQ)."
@@ -62,11 +66,7 @@ revisions:
     change: "Initial draft"
     reviewer: null
 
-verificationNeeded:
-  - "Incorporation fee — widely reported by third parties as RM1,010 inclusive; confirm against SSM's published fee schedule before stating it"
-  - "Processing time — commonly cited as 1–3 working days once documents are in order; confirm SSM's current service standard"
-  - "Whether MyCoID account activation still requires in-person verification at an SSM counter — third-party guides disagree"
-  - "Audit exemption criteria — governed by SSM Practice Directive and revised periodically; confirm current thresholds"
+verificationNeeded: []
 
 obligations:
   - what: "Appoint a licensed company secretary"
@@ -107,7 +107,7 @@ obligations:
     due: "Within 14 days of the change"
     authority: "SSM"
 
-updated: 2026-07-10
+updated: 2026-08-14
 sources:
   - title: "Companies Act 2016"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Companies-Act-2016.aspx"
@@ -115,9 +115,21 @@ sources:
   - title: "Companies Commission of Malaysia (SSM)"
     url: "https://www.ssm.com.my/"
     publisher: "SSM"
-  - title: "MyCoID — online company registration portal"
-    url: "https://mycoid.ssm.com.my/"
+  - title: "SSM4U — Corporate Registry System (CRS) portal"
+    url: "https://www.ssm4u.com.my/"
     publisher: "SSM"
+  - title: "Guidelines for the Incorporation of Local Companies under Section 14 of the Companies Act 2016"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/GUIDELINES/Guidelines-For-Incorporation-of-A-Local-Company.pdf"
+    publisher: "Companies Commission of Malaysia (SSM)"
+  - title: "Table of Fees (Registration of Company)"
+    url: "https://www.ssm.com.my/Pages/Services/Registration-of-Company-(ROC)/Table-of-Fees.aspx"
+    publisher: "Companies Commission of Malaysia (SSM)"
+  - title: "Frequently Asked Questions (FAQ) — Corporate Registry System (CRS)"
+    url: "https://www.ssm.com.my/Pages/Services/Other-Services/document/CRS-FAQs.pdf"
+    publisher: "Companies Commission of Malaysia (SSM)"
+  - title: "Practice Directive No. 10/2024 — Qualifying Criteria for Audit Exemption for Certain Private Companies"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/PD10-2024-Qualifying-Criteria-for-Audit-Exemption-for-Certain-Categories-of-Private-Companies.pdf"
+    publisher: "Companies Commission of Malaysia (SSM)"
   - title: "Inland Revenue Board of Malaysia (LHDN)"
     url: "https://www.hasil.gov.my/"
     publisher: "LHDN"
@@ -136,7 +148,7 @@ keywords:
   - "SSM incorporation"
   - "cara daftar syarikat Sdn Bhd"
   - "how to open company Malaysia"
-  - "MyCoID registration"
+  - "CRS SSM4U registration"
 ---
 
 Most founders spend weeks worrying about incorporation. It is usually the easiest
@@ -274,9 +286,18 @@ RM1 is legal. It is not always credible.
 
 ## How registration works, step by step
 
-1. **Search and reserve the name.** Check availability through MyCoID. Names that
-   are identical to an existing company, misleading, or that use controlled words
-   will be rejected. An approved name is held for a limited period, so file within it.
+Incorporation now runs through SSM's **Corporate Registry System (CRS)**, accessed
+via the **SSM4U portal** (https://www.ssm4u.com.my/), which has replaced the former
+MyCoID portal. First-time users must register for an SSM4U account and then complete
+**in-person identity verification at any SSM counter** — CRS access is only granted
+once that verification succeeds and the account is activated. CRS offers three
+incorporation routes: Name Reservation, Direct Registration, and Guaranteed
+Incorporation.
+
+1. **Search and (optionally) reserve the name.** Check availability through the CRS
+   (SSM4U portal). Names that are identical to an existing company, misleading, or
+   that use controlled words will be rejected. Reserving a name is optional; an
+   approved reservation is held for a limited period, so file within it.
 
 2. **Settle director and shareholder details.** Identity documents, residential
    addresses, and the exact shareholding split. Get the split right now — changing
@@ -288,7 +309,7 @@ RM1 is legal. It is not always credible.
    Choose accurately: licensing authorities and banks read them, and a mismatch
    between your codes and your actual trade causes problems months later.
 
-5. **Lodge the incorporation application with SSM** through MyCoID (s.14).
+5. **Lodge the incorporation application with SSM** through the CRS (SSM4U portal) (s.14).
 
 6. **Receive your notice of registration.** The Registrar registers the company and
    issues the notice (s.15). **Your company legally exists from this date** — this
@@ -306,7 +327,12 @@ RM1 is legal. It is not always credible.
 ## How long it takes
 
 Once the name is approved and your details are complete, incorporation itself is
-fast — a matter of days rather than weeks for a straightforward application.
+fast. SSM's client charter is **one (1) working day** to register a company once a
+complete application is submitted with the fee paid. Name approval and any queries
+raised by SSM extend the calendar time; a queried application must be corrected
+within 30 days or it is automatically rejected. The commonly cited "1–3 working
+days" is a real-world estimate that absorbs name-approval and query delays, not
+SSM's published standard.
 
 The realistic timeline is dominated by the parts that are not SSM's:
 
@@ -323,14 +349,19 @@ Plan around the bank, not around SSM. Founders are consistently surprised by thi
 
 Incorporation costs fall into three buckets:
 
-- **Statutory fees** paid to SSM — name reservation and incorporation.
+- **Statutory fees** paid to SSM. Incorporating a company limited by shares carries
+  a statutory fee of **RM1,000** (Companies Regulations 2017, Table of Fees; s.14).
+  At incorporation SSM collects a total of **RM1,010** — the RM1,000 fee plus a
+  **RM10** company-data sharing fee — which is the widely cited "RM1,010 inclusive"
+  figure. Reserving a name beforehand is optional and costs **RM50 per 30 days**
+  (s.27), up to a maximum of 180 days; direct or guaranteed incorporation does not
+  incur the RM50.
 - **Company secretary** — an annual retainer, plus any incorporation service fee.
 - **Ongoing compliance** — accounting, audit where applicable, and tax filing.
 
-> Current SSM fee amounts are deliberately not stated here. Fee schedules are
-> revised from time to time, and an out-of-date number in a guide like this does
-> more harm than no number at all. Check the current schedule on SSM's site before
-> budgeting.
+> Statutory SSM fees are revised from time to time. The figures above are current
+> against SSM's published Table of Fees and incorporation guidelines; confirm the
+> live schedule on SSM's site before budgeting.
 
 The mistake worth avoiding is budgeting only for incorporation. The recurring
 annual cost of being a company — secretary, accounts, tax, and audit if you do not
@@ -395,6 +426,18 @@ From the date on your notice of registration:
   timelines. Audit is required unless the company qualifies for exemption.
 - **Tax** — register with LHDN; estimate and pay tax under the instalment regime.
 
+> **Audit exemption.** A private company is exempt from appointing an auditor if it
+> meets at least **two of three** criteria — revenue, total assets, and number of
+> employees — under SSM Practice Directive No. 10/2024 (which revoked PD 3/2017).
+> The thresholds phase in: **RM1m / RM1m / 10 employees** for financial years
+> commencing in 2025, **RM2m / RM2m / 20** for years commencing in 2026, and
+> **RM3m / RM3m / 30** for years commencing on or after 1 January 2027 — with each
+> figure also holding for the current year and the two immediately preceding
+> financial years. Dormant companies are exempt as well. As of 2026 the Phase 2
+> thresholds (RM2m / RM2m / 20) apply. The exemption is not available to a company
+> that has filed an exempt-private-company certificate (s.260), to public companies,
+> to private subsidiaries of a public company, or to foreign companies.
+
 None of these arrive as a reminder letter. Missing them attracts penalties, and
 persistent default can lead to strike-off action.
 
@@ -421,8 +464,8 @@ proprietorship and Sdn Bhd goes deeper into the tax and liability trade-offs.
 
 ---
 
-**Verification status.** This is an AI-assisted draft that has not yet been
-reviewed by a subject-matter expert. Statutory references are to the Companies Act
-2016. Fee amounts, current processing times and audit-exemption thresholds have
-been deliberately left unstated or described qualitatively pending confirmation —
-see the verification list in this article's metadata.
+**Verification status.** This is an AI-assisted guide reviewed against SSM primary
+sources. Statutory references are to the Companies Act 2016. Fee amounts, SSM's
+one-working-day client charter, the CRS/SSM4U platform change, and audit-exemption
+thresholds are cited to SSM's published Table of Fees, incorporation guidelines,
+CRS FAQ, and Practice Directive No. 10/2024 respectively.

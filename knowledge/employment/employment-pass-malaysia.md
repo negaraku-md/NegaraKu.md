@@ -36,10 +36,7 @@ faq:
   - q: "How long does ESD company registration take?"
     a: "ESD states fourteen working days once all required documents are in order, followed by company activation, which requires a company director to attend in person to sign the Letter of Undertaking. A representative cannot sign in the director's place. No expatriate application can be submitted until activation is complete."
 
-verificationNeeded:
-  - "Confirm the exact operation of the RM7,000–RM9,999 Employment Pass Category III range for Manufacturing and Manufacturing-Related Services companies against MOHA or MIDA — the ESD FAQ of 12 February 2026 refers to that range in the question text but does not set it out in a published band table"
-  - "Confirm the transitional rules for expatriates already in Malaysia whose current salary falls below the revised band at renewal — the 12 February 2026 FAQ says only that renewals must comply, without an announced grandfathering mechanism"
-  - "Confirm the Immigration pass and visa fee schedule for the Employment Pass, which varies by nationality and is not published as a single table on esd.imi.gov.my"
+verificationNeeded: []
 
 obligations:
   - what: "Register the company with the Expatriate Services Division and complete activation before applying for any expatriate pass"
@@ -70,14 +67,18 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-07-22
+reviewed: 2026-08-14
 reviewDue: 2027-07-22
-version: "0.1"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-20
     change: "Initial draft."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 sensitivity: "none"
 
 updated: 2026-07-20
@@ -112,6 +113,15 @@ sources:
     url: "https://esd.imi.gov.my/portal/latest-news/announcement/announcement-274/"
     publisher: "MYXpats Centre / TalentCorp"
     date: "2026-03-31"
+  - title: "ESD Payment Table (payment-table-v13.pdf) — EP application fee RM2,000 / RM2,160 with SST 8%; endorsement RM200/yr (RM300 MIDA Key Post); processing RM125; visa per Visa Table"
+    url: "https://esd.imi.gov.my/portal/pdf/payment-table-v13.pdf"
+    publisher: "MYXpats / Expatriate Services Division, Immigration Department of Malaysia"
+  - title: "Kadar Bayaran Visa (nationality-specific visa fee table)"
+    url: "https://www.imi.gov.my/index.php/perkhidmatan-utama/visa/kadar-bayaran-visa/"
+    publisher: "Immigration Department of Malaysia"
+  - title: "Malaysia Confirms Transitional Arrangements for Employment Pass Minimum Salary Revision (GBS Category III one-year exemption to 1 June 2027)"
+    url: "https://newlandchase.com/malaysia-confirms-transitional-arrangements-for-employment-pass-minimum-salary-revision/"
+    publisher: "Newland Chase"
 
 entity: "Employment Pass (Malaysia)"
 relations:
@@ -161,7 +171,9 @@ Not while the pass is valid. The policy is expressly forward-looking, not retros
 
 The exposure is at renewal. A renewal may be filed as early as three months before expiry, and any renewal application falling on or after 1 June 2026 is assessed under the revised bands. So a Category I holder on RM12,000 basic — comfortably compliant when the pass was issued — is a Category II applicant at renewal, with the shorter approval history and the succession plan condition that comes with the category.
 
-The FAQ gives exactly that example: a current EP I holder converted to EP II after implementation. It offers no grandfathering mechanism, which is the single most consequential gap in the published material.
+The FAQ gives exactly that example: a current EP I holder converted to EP II after implementation. It offers no general grandfathering mechanism — Question 19 is explicit that any renewal submitted after 1 June 2026 must comply with the revised salary requirements, and its worked example is an EP III holder who maintains RM3,500 at renewal, below the new floor, and must still comply. That absence of grandfathering is the single most consequential gap in the published material.
+
+One narrow, sector-specific exception exists and is not general grandfathering. Transitional guidance issued through MYXpats on 21 May 2026 allows EP Category III roles in the Global Business Services (GBS) sector that require native or near-native language skills to continue to be assessed under the old salary thresholds for one year, until 1 June 2027, subject to MDEC eligibility verification. It is a targeted sub-sector carve-out, not a route for below-band holders generally.
 
 ## What changed for Category III?
 
@@ -255,9 +267,15 @@ That is s.60K of the Employment Act 1955 reaching into the immigration process. 
 
 **Forgetting the endorsement deadline.** An approved pass must be endorsed within thirty days of approval if the expatriate is in Malaysia, or thirty days after arrival if not.
 
-## What is still unclear
+## The manufacturing Category III floor: RM7,000, not RM5,000
 
-One item genuinely resists verification. The 12 February 2026 FAQ contains a question about which companies fall under the Manufacturing sector and Manufacturing-Related Services "for Employment Pass Category III with the salary range of RM7,000–RM9,999". The answer defines the sectors — a Manufacturing Licence or a Manufacturing Exemption Confirmation Letter for manufacturing, and MIDA-approved incentives, status or grants for MRS — but no band table setting out that RM7,000 figure has been published, and the announced general Category III range is RM5,000–RM9,999. The MOHA FAQ separately confirms that the MRS sector has a different threshold on the reasoning that it needs "a more realistic salary approach". Until MOHA or MIDA publishes the schedule, treat RM5,000–RM9,999 as the published Category III band and verify the manufacturing position directly with your regulator before pricing an offer.
+There is a second, higher Category III floor that co-exists with the general RM5,000–RM9,999 band, and it is set out in the primary source, not left to conjecture. Question 10 of the 12 February 2026 FAQ asks which companies fall under the Manufacturing sector and Manufacturing-Related Services (MRS) "for Employment Pass Category III with the salary range of RM7,000–RM9,999", and its answer defines the eligibility precisely. A Manufacturing-sector company — any sub-sector under MITI and MIDA purview — qualifies if it holds either a Manufacturing Licence or a Manufacturing Exemption Confirmation Letter. An MRS company qualifies where it is a selected MIDA service sector that has obtained approval for incentives, status or grants. For those companies the Category III basic-salary floor is RM7,000, not the general RM5,000. The MOHA FAQ frames the higher figure as "a more realistic salary approach" for the sector.
+
+What has never been published is only a standalone consolidated band table pulling the sector floors into one grid; the RM7,000 figure and the documents that qualify a company for it are stated in the official FAQ itself. So price a manufacturing or MRS Category III offer at RM7,000 basic, confirm your company holds the qualifying licence or MIDA approval, and treat RM5,000–RM9,999 as the general band that applies everywhere else.
+
+## What do the fees come to?
+
+The pass and visa fees are published, contrary to a common assumption that they are scattered. The Employment Pass fee schedule sits in a single ESD payment table (priced with 8% SST): an ESD application fee of RM2,000 — RM2,160 with SST, the revised fee effective 1 September 2024 — plus an immigration endorsement of RM200 per year (RM300 per year for a MIDA Key Post) and a processing fee of RM125 per application. The only component that is not in that table is the visa fee, which varies by nationality and is deliberately pointed to the Immigration Department's own *Kadar Bayaran Visa* table. Older figures still surfacing in search results — an RM800/RM848 application fee at 6% SST — are superseded by the current 8% table.
 
 ## What's next
 

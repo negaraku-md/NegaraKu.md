@@ -43,9 +43,9 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-08
+reviewed: 2026-08-14
 reviewDue: 2027-08-08
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-08-08
@@ -55,15 +55,12 @@ revisions:
     date: 2026-08-08
     change: "Correction pass: added authoritative AGC/SSM full-text of Companies Act 2016 to back all cited sections (replacing reliance on an unofficial mirror) and added verificationNeeded for section-specific timelines pending human check."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-verificationNeeded:
-  - "Seksyen 270 — pelantikan semula automatik juruaudit sedia ada bagi syarikat sendirian (rujuk teks Akta untuk syarat dan pengecualiannya)."
-  - "Seksyen 258(1)(a) — tempoh enam bulan untuk mengedar penyata kewangan bagi syarikat sendirian."
-  - "Seksyen 248(1)(a) — tempoh 18 bulan untuk set penyata kewangan pertama dari tarikh penubuhan."
-  - "Rujukan seksyen mekanik pelantikan (267–270) dan lodgemen (251, 252, 258, 259, 260) — sahkan nombor seksyen tepat terhadap teks Akta Syarikat 2016 (Akta 777)."
-  - "Prosedur pemberitahuan CRS (seksyen 282) dan tempoh 21 hari peletakan jawatan (seksyen 281) — sahkan terhadap portal SSM semasa."
-
-updated: 2026-08-08
+updated: 2026-08-14
 sources:
   - title: "Companies Act 2016 (Act 777) — Official Full Text (Federal Legislation)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/aktaBI_20160915_CompaniesAct2016Act777.pdf"
@@ -76,6 +73,15 @@ sources:
     publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
   - title: "FAQs on Companies Act 2016 and Transitional Issues — Part L: Accounts, Audit, Annual General Meetings"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/FAQS-ON-COMPANIES-ACT-2016-AND-TRANSITIONAL-ISSUES/part_l.pdf"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+  - title: "FAQs on Companies Act 2016 and Transitional Issues — Part J: Auditor"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/FAQS-ON-COMPANIES-ACT-2016-AND-TRANSITIONAL-ISSUES/part_j.pdf"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+  - title: "Companies Act 2016 (Act 777) — consolidated text, arrangement of sections"
+    url: "https://www.easylaw.com.my/statutes/business/companies_act_2016_2022"
+    publisher: "Companies Act 2016 consolidated text (Easy Law)"
+  - title: "Notification of Resignation of Auditor by Company — Companies Act 2016 Section 282(1) (statutory form)"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/PDF%20Tab%202/notification_of_resignation_of_auditor_s282.pdf"
     publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
   - title: "Resignation of Auditor"
     url: "https://www.ssm.com.my/Pages/Licensed_Secretary_Auditors/Application/Resignation_of_Auditor.aspx"
@@ -187,7 +193,7 @@ Syarikat yang memilih pengecualian mesti:
 - Menyertakan **laporan pengarah, penyata oleh pengarah, dan akuan berkanun**, serta lodgemen lain di bawah seksyen 251 dan 252; dan
 - Melampirkan **sijil pengecualian audit** (Appendix 1 PD 10/2024) yang ditandatangani seorang pengarah, mengesahkan syarikat layak untuk pengecualian di bawah seksyen 267(2) dan bahawa ahli tidak menuntut audit bagi tahun tersebut.
 
-Bagi syarikat sendirian, penyata kewangan biasanya perlu **diedar dalam tempoh enam bulan** dari tarikh tahun kewangan berakhir (seksyen 258(1)(a)), dan set pertama disediakan dalam tempoh **18 bulan** dari tarikh penubuhan (seksyen 248(1)(a)). *(Kedua-dua tempoh ini disenaraikan untuk pengesahan semula terhadap teks Akta — lihat `verificationNeeded`.)*
+Bagi syarikat sendirian, penyata kewangan perlu **diedar dalam tempoh enam bulan** dari tarikh tahun kewangan berakhir (seksyen 258(1)(a)), dan set pertama disediakan dalam tempoh **18 bulan** dari tarikh penubuhan (seksyen 248(1)(a)).
 
 ## Bagaimana juruaudit dilantik?
 
@@ -196,7 +202,7 @@ Bagi syarikat yang memang perlu diaudit, mekanik pelantikan diatur oleh seksyen 
 - **Pelantikan pertama** — pengarah boleh melantik juruaudit sebelum mesyuarat agung pertama (atau, bagi syarikat sendirian, sebelum penyata kewangan pertama diedar).
 - **Pelantikan seterusnya** — ahli melantik juruaudit melalui resolusi biasa.
 - **Kegagalan melantik** — jika syarikat gagal melantik juruaudit, **Pendaftar boleh melantik** seorang juruaudit atas permohonan ahli (seksyen 268).
-- **Pelantikan semula automatik** — bagi syarikat sendirian, Akta memperuntukkan pelantikan semula automatik juruaudit sedia ada, kecuali jika ahli mengambil langkah menghalangnya (seksyen 270). *(Sahkan syarat tepat seksyen 270 terhadap teks Akta — lihat `verificationNeeded`.)*
+- **Pelantikan semula automatik** — bagi syarikat sendirian, juruaudit sedia ada disifatkan dilantik semula secara automatik (seksyen 269), kecuali jika ahli mengambil langkah menghalangnya dengan membantah sekurang-kurangnya 30 hari sebelum penyata kewangan diedar (seksyen 270).
 
 ## Bagaimana juruaudit meletak jawatan atau dipecat?
 

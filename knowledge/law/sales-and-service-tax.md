@@ -43,14 +43,11 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-08
+publishedBy: "ashton-tan"
+reviewed: 2026-08-14
 reviewDue: 2027-08-08
-version: "0.2"
-verificationNeeded:
-  - "Non-reviewable-contract exemption: the '9 June 2025' signing cut-off. The 12-month exemption to 30 June 2026 is well corroborated, but sources vary on whether the qualifying contract must be signed before the gazette date (9 June 2025) or before implementation (1 July 2025). Confirm against the gazetted amendment orders."
-  - "Private-education RM60,000-per-student-per-year fee condition (Group M) — sourced to Rödl & Partner; confirm the exact figure and its scope against the RMCD private-education service guide."
-  - "Per-group service-tax rates and thresholds (leasing 8%/RM1m, financial 8%/RM1m, construction 6%/RM1.5m, healthcare 6%/RM1.5m) — cross-checked against Rödl & Partner and press reporting; confirm each against the corresponding RMCD industry guide before relying on it for filings."
-  - "Sales Tax registrant scope and the RM500,000 manufacturer threshold, plus the list of manufacturing activities exempt from registration — verify against the current Sales Tax (Person Exempted) Order."
+version: "0.3"
+verificationNeeded: []
 revisions:
   - version: "0.1"
     date: 2026-08-07
@@ -60,8 +57,12 @@ revisions:
     date: 2026-08-07
     change: "Correction pass: fixed healthcare framing (citizens exempt, 6% on non-Malaysians), re-sourced per-group rates/thresholds to MOF/BDO/Rödl, removed contradicting/outdated ASEAN Briefing source."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-08-07
+updated: 2026-08-14
 sources:
   - title: "MySST — Official SST Portal"
     url: "https://mysst.customs.gov.my/"
@@ -84,6 +85,33 @@ sources:
   - title: "Expansion of Sales and Service Tax (SST) Scope"
     url: "https://www.mondaq.com/sales-taxes-vat-gst/1662338/expansion-of-sales-and-service-tax-sst-scope"
     publisher: "Mondaq"
+  - title: "Amendments to service tax policies (TaxNewsFlash, 17 October 2025)"
+    url: "https://kpmg.com/us/en/taxnewsflash/news/2025/10/tnf-malaysia-amendments-to-service-tax-policies.html"
+    publisher: "KPMG"
+  - title: "Important Updates to Service Tax Policies"
+    url: "https://tratax.my/important-updates-to-service-tax-policies/"
+    publisher: "WTS Tratax"
+  - title: "Non-Reviewable Contracts In The Context Of Service Tax"
+    url: "https://www.rdslawpartners.com/post/non-reviewable-contracts-in-the-context-of-service-tax"
+    publisher: "RDS Law Partners"
+  - title: "Tax Whiz: Review of Goods for Sales Tax and Expansion of Scope for Service Tax Effective 1 July 2025 (10 June 2025)"
+    url: "https://assets.kpmg.com/content/dam/kpmg/my/pdf/key-highlights-on-the-review-of-goods-for-sales-tax-and-expansion-of-scope-for-service-tax.pdf"
+    publisher: "KPMG Malaysia"
+  - title: "Guide on Private Education Services (Service Tax 2018)"
+    url: "https://mysst.customs.gov.my/assets/document/Industry%20Guides/GI/3.%20GUIDE%20ON%20PRIVATE%20EDUCATION%20SERVICES.pdf"
+    publisher: "Royal Malaysian Customs Department (RMCD)"
+  - title: "Government raises service tax threshold to support small businesses (27 June 2025)"
+    url: "https://www.nst.com.my/business/corporate/2025/06/1236817/government-raises-service-tax-threshold-support-small-businesses"
+    publisher: "New Straits Times"
+  - title: "Updates to the Expanded Sales Tax and Service Tax (June 2025)"
+    url: "https://kpmg.com/my/en/home/insights/2025/06/updates-to-the-expanded-sales-tax-and-service-tax.html"
+    publisher: "KPMG Malaysia"
+  - title: "Sales Tax 2018 General Guide"
+    url: "https://mysst.customs.gov.my/assets/document/General%20Guides/General%20Guide%20on%20Sales%20Tax%2018012019-v4.pdf"
+    publisher: "Royal Malaysian Customs Department (RMCD)"
+  - title: "Sales tax (Malaysian Tax Booklet)"
+    url: "https://www.pwc.com/my/en/publications/mtb/sales-tax.html"
+    publisher: "PwC Malaysia"
 
 entity: "Sales and Service Tax (SST)"
 relations:
@@ -174,11 +202,11 @@ Newly taxable service areas include:
 - **Financial services** (fee-based, brokerage, and similar) — 8%, RM1,000,000 threshold
 - **Construction** of non-residential infrastructure and buildings — 6%, RM1,500,000 threshold
 - **Private healthcare** — 6% on services to **non-Malaysian (foreign) patients only**; services to **Malaysian citizens are exempt** — RM1,500,000 threshold
-- **Private education** — 6%, applying where fees exceed a set level (reported as RM60,000 per student per academic year)
+- **Private education** — 6%, applying to private institutions whose fees exceed RM60,000 per student for each academic year (education provided to non-Malaysian citizens by higher-education institutions is taxable regardless of the threshold)
 
 The RM1,000,000 threshold for the leasing/rental and financial-services groups was itself a late concession: it was raised from an initially proposed RM500,000 on **27 June 2025**, just days before implementation, to keep smaller operators out of the net.
 
-The government also built in transitional protections. A widely cited relief is that **non-reviewable contracts** entered into before the changes took effect were given a **12-month exemption running to 30 June 2026**, so that businesses locked into fixed-price agreements were not caught out mid-contract. B2B exemptions and intra-group relief for leasing were also provided to prevent tax cascading within corporate groups.
+The government also built in transitional protections. A widely cited relief is that **non-reviewable contracts** entered into before the changes took effect were given a **12-month exemption running from 1 July 2025 to 30 June 2026**, so that businesses locked into fixed-price agreements were not caught out mid-contract. Under the revised service tax policy amendments issued on **17 October 2025** (backdated to 1 July 2025), a non-reviewable contract qualifies for the exemption if it was made in writing and **signed before 1 July 2025** and duly stamped with stamp duty by the Inland Revenue Board (LHDN) **before 31 December 2025**. The relief covers construction, rental/leasing and financial-services contracts. B2B exemptions and intra-group relief for leasing were also provided to prevent tax cascading within corporate groups.
 
 Because the expansion landed suddenly, RMCD and the Ministry of Finance announced a **penalty-free grace period until 31 December 2025**: businesses making genuine efforts to comply would not be penalised for late registration, late filing, or documentation errors during the transition. That grace period has now ended, and full enforcement applies from **1 January 2026**.
 

@@ -12,10 +12,10 @@ mode: "practical"
 contentType: "law"
 sensitivity: "none"
 
-answer: "The Immigration Act 1959/63 (Act 155) is the primary law controlling entry to and stay in Malaysia. A visa lets you travel to Malaysia; a pass, stamped on arrival, sets what you may actually do and for how long. Overstaying is a strict-liability offence under Section 15(4) carrying a fine of up to RM10,000, up to five years' jail, or both, plus likely detention, deportation and a re-entry blacklist. Employers and hosts of undocumented foreigners face their own offences and heavier penalties."
+answer: "The Immigration Act 1959/63 (Act 155) is the primary law controlling entry to and stay in Malaysia. A visa lets you travel to Malaysia; a pass, stamped on arrival, sets what you may actually do and for how long. Overstaying is a strict-liability offence under Section 15(4) carrying a fine of not less than RM10,000, up to five years' jail, or both, plus likely detention, deportation and a re-entry blacklist. Employers and hosts of undocumented foreigners face their own offences and heavier penalties."
 keyTakeaways:
   - "A visa is permission to travel to Malaysia; the pass stamped on entry is what actually authorises your stay and its purpose — the two are legally distinct."
-  - "Overstaying is a strict-liability offence under Section 15(4): a fine up to RM10,000, up to five years' imprisonment, or both, with a compound option and a re-entry blacklist."
+  - "Overstaying is a strict-liability offence under Section 15(4): a fine of not less than RM10,000, up to five years' imprisonment, or both, with a compound option and a re-entry blacklist."
   - "Illegal entry under Section 6(3) can additionally carry whipping of up to six strokes — a penalty overstaying alone does not attract."
   - "Employment Pass categories are set by monthly salary; since 1 June 2026 Category I and II run up to 10 years and Category III up to 5 years."
   - "Employers who hire undocumented workers (Section 55B) and anyone who harbours them (Section 56(1)(d)) commit separate offences with fines from RM10,000 to RM50,000 per person."
@@ -25,7 +25,7 @@ faq:
   - q: "What is the difference between a visa and a pass in Malaysia?"
     a: "A visa is an endorsement that permits a foreigner to travel to a Malaysian entry point; a pass is what the immigration officer grants on arrival and it defines the purpose and length of the actual stay. You can hold a valid visa and still be refused a pass, and it is the pass expiry — not the visa — that determines when an overstay begins."
   - q: "What is the penalty for overstaying in Malaysia?"
-    a: "Under Section 15(4) of the Immigration Act 1959/63, overstaying is punishable by a fine not exceeding RM10,000, imprisonment for up to five years, or both. Immigration may offer a compound (an out-of-court settlement) of up to RM3,000 in eligible cases, but overstayers also risk detention, deportation and being blacklisted from re-entry for a period set at the Immigration Department's discretion."
+    a: "Under Section 15(4) of the Immigration Act 1959/63, overstaying is punishable by a fine of not less than RM10,000, imprisonment for up to five years, or both. Immigration may offer a compound (an out-of-court settlement) of up to RM3,000 in eligible cases, but overstayers also risk detention, deportation and being blacklisted from re-entry for a period set at the Immigration Department's discretion."
   - q: "Does overstaying carry whipping?"
     a: "Overstaying under Section 15(4) does not, by itself, list whipping among its penalties. Whipping of up to six strokes is attached to illegal entry under Section 6(3) and to document falsification under Section 55D, which are separate and more serious offences."
   - q: "Can I work in Malaysia on a social visit pass?"
@@ -44,9 +44,9 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-08
+reviewed: 2026-08-14
 reviewDue: 2027-08-08
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-08-07
@@ -56,19 +56,22 @@ revisions:
     date: 2026-08-07
     change: "Correction pass: removed unsourced Section 8 penalty row and blacklist/DE Rantau duration figures, fixed Section 55E second-offence wording, corrected Anti-Trafficking Act name."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
 verificationNeeded:
-  - "Whether Section 15(1)(c) is the exact statutory subsection creating the overstaying prohibition (legally accurate but not stated on the cited IMI offences page, which references only Section 15(4))."
   - "Re-entry blacklist durations after an overstay — the cited IMI pages do not publish specific ban lengths; blacklisting is applied at the Department's discretion."
-  - "DE Rantau Nomad Pass exact validity, renewal terms and income/experience thresholds — confirm against the current MDEC DE Rantau criteria before relying on them."
-  - "Whether Indian citizens remain visa-exempt until 31 December 2026 — time-limited arrangement; confirm against the current Visa Requirement by Country list."
-  - "Whether entering as a prohibited immigrant (Section 8) carries a discrete penalty separate from the illegal-entry offence under Section 6(3) — the cited offences page lists Section 8 without penalty figures."
 
-updated: 2026-08-07
+updated: 2026-08-14
 sources:
   - title: "Frequently Committed Offences"
     url: "https://www.imi.gov.my/index.php/en/main-services/entry-requirement-into-malaysia-en/frequently-committed-offences/"
     publisher: "Immigration Department of Malaysia (JIM)"
+  - title: "Laws of Malaysia Reprint — Act 155 Immigration Act 1959/63 (ss.6, 8, 15, 57)"
+    url: "https://toolsfortransformation.net/wp-content/uploads/2017/03/Malaysian-Law-Immigration-Act-1.pdf"
+    publisher: "Laws of Malaysia (Attorney General's Chambers consolidated reprint)"
   - title: "Enforcement Division"
     url: "https://www.imi.gov.my/index.php/en/enforcement/"
     publisher: "Immigration Department of Malaysia (JIM)"
@@ -84,12 +87,21 @@ sources:
   - title: "Visa Requirement by Country"
     url: "https://www.imi.gov.my/index.php/en/main-services/visa/visa-requirement/"
     publisher: "Immigration Department of Malaysia (JIM)"
+  - title: "Visa Requirement by Country (India visa-exempt until 31 December 2026)"
+    url: "https://www.imi.gov.my/index.php/en/main-services/visa/visa-requirement-by-country/"
+    publisher: "Immigration Department of Malaysia (JIM)"
   - title: "Malaysia Immigration: ESD updates on minimum salary and Employment Pass duration from 1 June 2026"
     url: "https://vialtopartners.com/regional-alerts/malaysia-immigration-esd-updates-on-minimum-salary-and-employment-pass-duration-from-1-june-2026"
     publisher: "Vialto Partners"
   - title: "DE Rantau Nomad Pass"
     url: "https://mdec.my/derantau/foreign"
     publisher: "Malaysia Digital Economy Corporation (MDEC)"
+  - title: "DE Rantau Nomad Pass eligibility expanded (non-tech USD 60,000/yr or USD 5,000/mo)"
+    url: "https://www.digital.gov.my/en-GB/siaran/DE-Rantau-Nomad-Pass-eligibility-expanded"
+    publisher: "Malaysian Government Digital Department (JDN / digital.gov.my)"
+  - title: "Malaysia — new DE Rantau Nomad Pass for digital nomads (validity up to 12 months + 12-month renewal; tech >USD 24,000/yr)"
+    url: "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-gl/technical/tax-alerts/documents/ey-malaysia-new-de-rantau-nomad-pass-for-digital-nomads.pdf"
+    publisher: "EY (summarising MDEC criteria)"
 
 entity: "Immigration Act 1959/63 (Act 155)"
 relations:
@@ -151,7 +163,7 @@ Once you are admitted, the *pass* defines what you may lawfully do. Using the wr
 | **Long-Term Social Visit Pass (LTSVP)** | Longer family stays not covered by a Dependant Pass | Parents, older children, certain partners |
 | **DE Rantau Nomad Pass** | Remote work for a foreign employer or clients | Eligible digital nomads and remote professionals |
 
-The **DE Rantau Nomad Pass**, administered by the Malaysia Digital Economy Corporation (MDEC), lets qualified remote workers base themselves in Malaysia and is renewable. Minimum income and experience thresholds apply and differ for technology and non-technology roles, so confirm the current validity, renewal terms and eligibility criteria on MDEC's DE Rantau portal before applying.
+The **DE Rantau Nomad Pass**, administered by the Malaysia Digital Economy Corporation (MDEC), lets qualified remote workers base themselves in Malaysia for up to 12 months and is renewable for a further 12 months. Minimum income and experience thresholds apply and differ for technology and non-technology roles, so confirm the current renewal terms and eligibility criteria on MDEC's DE Rantau portal before applying.
 
 ## How long can I work on an Employment Pass?
 
@@ -177,7 +189,7 @@ The core provision is **Section 15(1)(c)**, which prohibits remaining in Malaysi
 | Element | Detail |
 |---|---|
 | **Offence** | Remaining after the pass expiry or cancellation (Section 15(1)(c) / 15(4)) |
-| **Fine** | Not exceeding RM10,000 |
+| **Fine** | Not less than RM10,000 (statutory minimum) |
 | **Imprisonment** | Up to 5 years |
 | **Combination** | Fine, imprisonment, or both |
 | **Compound** | Up to RM3,000 in eligible cases (an out-of-court settlement) |
@@ -198,7 +210,7 @@ Overstaying is only one of several offences, and some carry harsher penalties, i
 | Offence | Section | Penalty |
 |---|---|---|
 | **Illegal entry** (no genuine passport/pass, or no valid endorsement) | 6(3) | Fine up to RM10,000, or up to 5 years' jail, or both; **whipping up to 6 strokes**; compound up to RM3,000 |
-| **Overstaying** | 15(4) | Fine up to RM10,000, or up to 5 years' jail, or both; compound up to RM3,000 |
+| **Overstaying** | 15(4) | Fine of not less than RM10,000, or up to 5 years' jail, or both; compound up to RM3,000 |
 | **Document falsification / alteration** | 55D | Fine of not less than RM30,000; imprisonment of 5–10 years; whipping up to 6 strokes |
 
 The gap between illegal entry and overstaying is worth internalising: **illegal entry can attract whipping; overstaying, on its own, does not.** And forging or altering an immigration endorsement — for example, tampering with a pass to buy extra time — jumps into the most serious band, with a minimum fine of RM30,000 and mandatory imprisonment.

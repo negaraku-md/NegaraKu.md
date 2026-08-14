@@ -42,9 +42,9 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
+reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-08-01
@@ -54,19 +54,27 @@ revisions:
     date: 2026-08-01
     change: "Correction pass: re-verified all figures/dates against primary PIDM sources; confirmed joint/trust/business and Islamic-conventional separate-coverage rules on the DIS FAQ; clarified pre-2010 limit history; softened promotional framing; added verificationNeeded list."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-verificationNeeded:
-  - "Per-beneficiary trust protection (each disclosed beneficiary a separate RM250,000) and the sole-proprietor/partnership/company separate-coverage treatment — confirmed on the PIDM DIS FAQ, but spot-check against the current DIS 'Coverage' page before publishing as some sub-rules (e.g. RM250,000 collective for a partnership/company, not per partner) are nuanced."
-  - "FSA 2013 / IFSA 2013 membership statute references (commercial banks, Islamic banks, insurers, takaful operators) — accurate and standard, but confirm phrasing against the current PIDM legislation/membership pages."
-  - "Pre-2010 deposit insurance history (an earlier RM60,000 baseline limit and the temporary blanket government guarantee that ran 2008–2010) — confirm exact prior figure and dates before treating as settled fact."
-  - "The attributed '99% of retail depositors protected in full' figure originates from 2010-era PIDM press; confirm it is still PIDM's current stated coverage percentage (some later sources cite different figures)."
-  - "All coverage limits (RM250,000 deposit, RM500,000 per TIPS benefit) can be revised by PIDM; verify the current limits on pidm.gov.my before relying on them."
+verificationNeeded: []
 
-updated: 2026-08-01
+updated: 2026-08-14
 sources:
   - title: "Deposit Insurance System — Frequently Asked Questions"
     url: "https://www.pidm.gov.my/general/faqs/deposit-insurance-system"
     publisher: "Perbadanan Insurans Deposit Malaysia (PIDM)"
+  - title: "Coverage For DIS"
+    url: "https://www.pidm.gov.my/en/how-we-protect-you/deposit-insurance-system/coverage-for-dis"
+    publisher: "Perbadanan Insurans Deposit Malaysia (PIDM)"
+  - title: "Member Banks"
+    url: "https://www.pidm.gov.my/general/how-we-protect-you/member-banks"
+    publisher: "Perbadanan Insurans Deposit Malaysia (PIDM)"
+  - title: "Malaysia: Government Deposit Guarantee (Journal of Financial Crises, Vol. 4)"
+    url: "https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/18/"
+    publisher: "Yale Program on Financial Stability — Journal of Financial Crises"
   - title: "Takaful and Insurance Benefits Protection System"
     url: "https://www.pidm.gov.my/general/how-we-protect-you/takaful-and-insurance-benefits-protection-system"
     publisher: "Perbadanan Insurans Deposit Malaysia (PIDM)"
@@ -113,7 +121,7 @@ Two details do most of the work here:
 1. **The limit includes both principal and the interest or return.** If you have RM248,000 in a fixed deposit and it earns RM3,000 in profit, RM1,000 of that combined RM251,000 sits above the cap.
 2. **"Per depositor per member bank" is the unit of coverage.** You get one RM250,000 pool at each separate member bank — not one pool per account. Ten savings accounts at the same bank still share a single RM250,000 limit.
 
-When the RM250,000 limit was introduced, PIDM said it would protect the great majority of depositors in full — around 99% of retail depositors, as reported by *The Edge Malaysia*. For most households, in other words, the entire balance is covered. (This percentage dates from the 2010 announcement; confirm the current figure with PIDM.)
+The RM250,000 limit protects the great majority of depositors in full. PIDM currently states that, with the RM250,000 limit, **97% of depositors are protected in full**. (When the limit was introduced in 2010, PIDM's announcement was reported as covering around 99% of retail depositors; its current stated figure is 97%.) For most households, in other words, the entire balance is covered.
 
 ### The Islamic-vs-conventional split doubles your headroom
 

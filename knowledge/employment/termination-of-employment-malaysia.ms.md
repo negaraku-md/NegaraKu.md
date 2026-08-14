@@ -1,45 +1,43 @@
 ---
 topicId: MY-EMP-0020
-title: "Terminating employment in Malaysia"
-seoTitle: "Termination of Employment Malaysia — Rules and Notice"
+title: "Penamatan pekerjaan di Malaysia"
+seoTitle: "Penamatan Pekerjaan Malaysia — Peraturan & Notis"
 slug: "termination-of-employment-malaysia"
 category: "employment"
 subcategory: ["termination-retrenchment"]
-summary: "Malaysia tidak mengamalkan pekerjaan at-will. Empat laluan sah untuk penamatan, tempoh notis berkanun, bayaran ganti notis, dan bila gaji akhir sah dari segi undang-undang perlu dibayar."
+summary: "Malaysia tiada konsep pekerjaan sesuka hati (at-will). Empat laluan sah untuk menamatkan, tempoh notis berkanun, bayaran ganti notis, dan bila gaji akhir wajib dibayar dari segi undang-undang."
 
 tier: "1"
 mode: "practical"
 contentType: "guide"
 sensitivity: "none"
 
-answer: "Malaysia tidak mengamalkan pekerjaan at-will. Setiap pembuangan kerja mesti mempunyai sebab atau alasan yang sah, dan pekerja yang tidak bersetuju boleh memfailkan representasi s.20 di bawah Akta Perhubungan Perusahaan 1967 dalam tempoh 60 hari. Notis berkanun di bawah s.12(2) Akta Kerja 1955 ialah empat minggu bagi perkhidmatan kurang daripada dua tahun, enam minggu bagi dua hingga kurang daripada lima tahun, dan lapan minggu bagi lima tahun atau lebih, melainkan kontrak memperuntukkan tempoh yang lebih panjang."
+answer: "Malaysia tiada konsep pekerjaan sesuka hati (at-will). Setiap pemecatan mesti atas sebab atau alasan yang wajar, dan pekerja yang tidak bersetuju boleh memfailkan representasi di bawah s.20 Akta Perhubungan Perusahaan 1967 dalam tempoh 60 hari. Notis berkanun di bawah s.12(2) Akta Kerja 1955 ialah empat minggu untuk perkhidmatan kurang dua tahun, enam minggu untuk dua hingga kurang lima tahun, dan lapan minggu untuk lima tahun atau lebih, melainkan kontrak memperuntukkan tempoh yang lebih panjang."
 keyTakeaways:
-  - "Tiada pekerjaan at-will di Malaysia — sebab sentiasa diperlukan, dan beban membuktikannya terletak pada majikan."
-  - "Notis berkanun ialah 4 / 6 / 8 minggu mengikut tempoh perkhidmatan di bawah s.12(2), dan kontrak boleh menambah baik tempoh ini tetapi tidak boleh menguranginya."
-  - "Notis mesti bertulis, dan hari ia diberikan dikira sebagai sebahagian daripada tempoh tersebut — s.12(4)."
-  - "Mana-mana pihak boleh membayar ganti rugi bersamaan gaji bagi tempoh notis sebagai ganti menjalani tempoh tersebut — s.13(1)."
-  - "Gaji akhir bagi penamatan biasa perlu dibayar pada hari terakhir pekerjaan itu sendiri, bukan pada kitaran penggajian seterusnya — s.20."
-  - "Jika pekerja berhenti tanpa notis, majikan diberi tempoh sehingga hari ketiga selepas penamatan — s.21(2)."
-  - "Bayaran ganti notis dan faedah penamatan berkanun adalah kumulatif, bukan alternatif antara satu sama lain — reg 6(4) TBLB Regulations 1980."
+  - "Tiada pekerjaan sesuka hati (at-will) di Malaysia — sebab sentiasa diperlukan, dan beban membuktikannya terletak pada majikan."
+  - "Notis berkanun ialah 4 / 6 / 8 minggu mengikut tempoh perkhidmatan di bawah s.12(2), dan kontrak boleh menambah baik tetapi tidak boleh mengurangkannya."
+  - "Notis mesti secara bertulis, dan hari ia diberikan dikira sebagai sebahagian daripada tempoh — s.12(4)."
+  - "Mana-mana pihak boleh membayar indemniti bersamaan gaji bagi tempoh notis sebagai ganti berkhidmat sepanjang notis itu — s.13(1)."
+  - "Gaji akhir bagi penamatan biasa wajib dibayar pada hari terakhir pekerjaan itu sendiri, bukan pada pusingan gaji berikutnya — s.20."
+  - "Apabila pekerja meletak jawatan tanpa notis, majikan mempunyai masa sehingga hari ketiga selepas penamatan — s.21(2)."
+  - "Bayaran notis dan faedah penamatan berkanun adalah terkumpul, bukan alternatif — perkara 6(4) Peraturan TBLB 1980."
 appliesTo: "Majikan, kakitangan HR dan penggajian, serta pekerja di Semenanjung Malaysia yang berurusan dengan penamatan kontrak perkhidmatan."
 
 faq:
-  - q: "Bolehkah majikan di Malaysia menamatkan perkhidmatan pekerja tanpa memberikan sebab?"
-    a: "Tidak. Malaysia tidak mengiktiraf pekerjaan at-will. Seksyen 20 Akta Perhubungan Perusahaan 1967 membenarkan pekerja yang menganggap dirinya dibuang kerja tanpa sebab atau alasan yang sah memohon pengembalian semula ke jawatan, dan di Mahkamah Perusahaan majikan memikul beban membuktikan sebab yang tulen dan prosedur yang adil. Membayar notis penuh tidak menghapuskan pembuangan kerja yang tidak berjustifikasi — ia hanya mengelakkan tuntutan berasingan bagi bayaran ganti notis."
-  - q: "Berapakah tempoh notis untuk penamatan perkhidmatan di Malaysia?"
-    a: "Di bawah s.12(2) Akta Kerja 1955, jika tiada terma kontrak bertulis yang lebih panjang, notis mestilah sekurang-kurangnya empat minggu jika pekerja telah berkhidmat kurang daripada dua tahun, enam minggu bagi dua hingga kurang daripada lima tahun, dan lapan minggu bagi lima tahun atau lebih. Tempoh tersebut mesti sama bagi majikan dan pekerja, dan s.12(4) menghendaki ia dibuat secara bertulis dengan hari ia diberikan dikira sebagai sebahagian daripada tempoh itu."
-  - q: "Adakah ambang gaji RM4,000 memberi kesan kepada tempoh notis?"
-    a: "Tidak. Perenggan 1A Jadual Pertama kepada Akta Kerja 1955 hanya mematikan ss.60(3), 60A(3), 60C(2A), 60D(3), 60D(4) dan s.60J bagi pekerja yang berpendapatan melebihi RM4,000 sebulan. Seksyen 12, 13, 14, 20 dan 21 tiada dalam senarai tersebut, jadi peraturan notis, bayaran ganti notis dan gaji akhir terpakai kepada setiap pekerja di bawah kontrak perkhidmatan tanpa mengira gaji."
-  - q: "Bilakah gaji akhir mesti dibayar selepas penamatan perkhidmatan?"
-    a: "Bagi penamatan biasa melalui notis atau luputnya kontrak, s.20 Akta Kerja 1955 menghendaki gaji yang telah diperoleh tetapi belum dibayar dibayar tidak lewat daripada hari kontrak itu tamat. Jika majikan menamatkan tanpa notis di bawah s.13(1) atau membuang kerja di bawah s.14(1)(a), s.21(1) menetapkan hari yang sama. Hanya apabila pekerja yang menamatkan tanpa notis, majikan diberi tempoh sehingga hari ketiga selepas itu."
-  - q: "Bolehkah seorang pekerja dibuang kerja kerana tidak hadir bekerja?"
-    a: "Seksyen 15(2) menganggap pekerja telah memungkiri kontrak selepas lebih daripada dua hari bekerja berturut-turut tidak hadir tanpa cuti terlebih dahulu, melainkan terdapat alasan yang munasabah dan pekerja telah memaklumkan atau cuba memaklumkan majikan. Peruntukan anggapan ini sendiri tidak menjadikan pembuangan kerja itu adil — majikan masih lazimnya mengadakan siasatan, kerana Mahkamah Perusahaan akan menilai sama ada ketidakhadiran itu benar-benar tidak dijelaskan."
-  - q: "Adakah perjanjian perpisahan bersama boleh dikuatkuasakan di Malaysia?"
-    a: "Perpisahan bersama yang tulen menamatkan pekerjaan melalui persetujuan, bukan melalui pembuangan kerja, jadi tiada apa-apa yang boleh menjadi asas tuntutan s.20. Risikonya ialah Mahkamah Perusahaan akan menilai sama ada persetujuan itu benar-benar ikhlas. Perjanjian yang ditandatangani di bawah ancaman pembuangan kerja, tanpa masa untuk mempertimbangkannya atau mendapatkan nasihat, boleh dianggap sebagai pembuangan kerja yang disamarkan sebagai perjanjian."
+  - q: "Bolehkah majikan di Malaysia menamatkan pekerja tanpa memberikan sebab?"
+    a: "Tidak. Malaysia tidak mengiktiraf pekerjaan sesuka hati (at-will). Seksyen 20 Akta Perhubungan Perusahaan 1967 membolehkan seseorang pekerja yang menganggap dirinya dipecat tanpa sebab atau alasan yang wajar memohon pengembalian semula ke jawatan, dan di Mahkamah Perusahaan majikan memikul beban membuktikan kedua-dua sebab yang tulen dan prosedur yang adil. Membayar notis penuh tidak memulihkan pemecatan yang tidak wajar — ia hanya mengelakkan tuntutan berasingan bagi bayaran notis."
+  - q: "Apakah tempoh notis untuk penamatan di Malaysia?"
+    a: "Di bawah s.12(2) Akta Kerja 1955, jika tiada terma kontrak bertulis yang lebih panjang, notis ialah sekurang-kurangnya empat minggu jika pekerja telah berkhidmat kurang dua tahun, enam minggu untuk dua hingga kurang lima tahun, dan lapan minggu untuk lima tahun atau lebih. Tempoh itu mesti sama bagi kedua-dua majikan dan pekerja, dan s.12(4) menghendaki ia secara bertulis dengan hari pemberian dikira dalam tempoh tersebut."
+  - q: "Adakah ambang gaji RM4,000 mempengaruhi tempoh notis?"
+    a: "Tidak. Perenggan 1A Jadual Pertama kepada Akta Kerja 1955 hanya menyahaktifkan ss.60(3), 60A(3), 60C(2A), 60D(3), 60D(4) dan s.60J bagi pekerja yang berpendapatan melebihi RM4,000 sebulan. Seksyen 12, 13, 14, 20 dan 21 tiada dalam senarai itu, jadi peraturan notis, bayaran ganti notis dan gaji akhir terpakai kepada setiap pekerja di bawah kontrak perkhidmatan tanpa mengira gaji."
+  - q: "Bilakah gaji akhir mesti dibayar selepas penamatan?"
+    a: "Bagi penamatan biasa melalui notis atau tamat tempoh kontrak, s.20 Akta Kerja 1955 menghendaki gaji yang telah diperoleh tetapi belum dibayar dijelaskan tidak lewat daripada hari kontrak itu ditamatkan. Apabila majikan menamatkan tanpa notis di bawah s.13(1) atau memecat di bawah s.14(1)(a), s.21(1) menetapkan hari yang sama. Hanya apabila pekerja menamatkan tanpa notis barulah majikan mendapat masa sehingga hari ketiga selepasnya."
+  - q: "Bolehkah pekerja dipecat kerana ketidakhadiran di tempat kerja?"
+    a: "Seksyen 15(2) menganggap seseorang pekerja telah memungkiri kontrak selepas lebih daripada dua hari bekerja berturut-turut tidak hadir tanpa cuti terlebih dahulu, melainkan terdapat alasan yang munasabah dan pekerja memberitahu atau cuba memberitahu majikan. Peruntukan anggapan itu dengan sendirinya tidak menjadikan sesuatu pemecatan itu adil — majikan masih lazimnya mengadakan siasatan, kerana Mahkamah Perusahaan meneliti sama ada ketidakhadiran itu benar-benar tidak berjustifikasi."
+  - q: "Adakah perjanjian pemisahan bersama boleh dikuatkuasakan di Malaysia?"
+    a: "Pemisahan bersama yang tulen menamatkan pekerjaan melalui persetujuan dan bukan melalui pemecatan, jadi tiada apa yang boleh dijadikan asas tuntutan s.20. Risikonya ialah Mahkamah Perusahaan meneliti sama ada persetujuan itu benar. Perjanjian yang ditandatangani di bawah ancaman pemecatan, tanpa masa untuk mempertimbangkannya atau mendapatkan nasihat, boleh dianggap sebagai pemecatan yang disamarkan sebagai perjanjian."
 
-verificationNeeded:
-  - "The Employment Act 1955 reprint used here shows a numbering conflict in Part XIIB — the table of contents lists the redundancy provision as s.60M while the body prints it as s.60N, with s.60L marked deleted by Act A1651. The body text is treated as operative. Confirm the gazetted numbering with JTKSM before relying on the section number in correspondence."
-  - "Sabah and Sarawak are governed by the Sabah Labour Ordinance (Cap 67) and the Sarawak Labour Ordinance (Cap 76), not the Employment Act 1955. Notice periods and final-pay deadlines there were not verified for this article."
+verificationNeeded: []
 
 obligations:
   - what: "Give written notice of termination"
@@ -85,14 +83,15 @@ obligations:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "f357b701407326a1"
+sourceContentHash: "d80998453b1bb373"
 
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-version: "0.2"
+reviewed: 2026-08-14
+reviewDue: 2027-07-22
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-20
@@ -101,8 +100,12 @@ revisions:
   - version: "0.2"
     date: 2026-07-21
     change: "Removed the unresolved First Schedule para 1A vs para 2 verificationNeeded item — resolved against the Act text (para 2 preserves s.60J irrespective of wages for the manual/commercial-vehicle/supervisory categories, s.60J being in Part XIIA), matching the settled position in working-hours-overtime-malaysia."
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-07-20
+updated: 2026-08-14
 sources:
   - title: "Employment Act 1955 (Act 265)"
     url: "https://jtksm.mohr.gov.my/sites/default/files/2023-11/Akta%20Kerja%201955%20(Akta%20265)_0.pdf"
@@ -132,82 +135,89 @@ sources:
     url: "https://www.hasil.gov.my/en/majikan/tanggungjawab-majikan/"
     publisher: "LHDN"
     date: "2026-01-01"
+  - title: "Employment Act 1955 (Act 265), Reprint as at 1 August 2023 — Part XIIB ss.60K–60O and amendment-history table"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1744567_BI/Reprint%20Act%20265%20(Final).pdf"
+    publisher: "Attorney General's Chambers"
+    date: "2023-08-01"
+  - title: "Sabah Labour Ordinance (Sabah Cap. 67), incorporating Act A1238/2005 — s.11 notice of termination and s.108 payment of wages on termination"
+    url: "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/78256/MYS78256.pdf"
+    publisher: "ILO NATLEX"
+    date: "2005-01-01"
+  - title: "Labour Ordinance (Sarawak Cap. 76), Reprint as at 1 October 2024 — s.12 notice of termination and s.109 payment of wages on termination"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2162184_BI/Labour%20Ord.%20[Sarawak%20Cap.76]%20as%20at%201%20Oct%202024%20Online%20Final.pdf"
+    publisher: "Attorney General's Chambers"
+    date: "2024-10-01"
 
 entity: "Termination of employment"
-relations:
-  - { rel: "governs", to: "employment" }
-  - { rel: "administered-by", to: "jtksm" }
-  - { rel: "explained-in", to: "domestic-inquiry-malaysia" }
-  - { rel: "related-to", to: "unfair-dismissal-malaysia" }
-  - { rel: "related-to", to: "retrenchment-malaysia" }
-related: ["domestic-inquiry-malaysia", "unfair-dismissal-malaysia", "retrenchment-malaysia", "termination-benefits-malaysia", "offboarding-statutory-checklist"]
-keywords: ["penamatan pekerjaan malaysia", "tempoh notis malaysia", "pekerjaan at-will malaysia", "bayaran ganti notis", "sebab atau alasan yang sah", "gaji akhir selepas berhenti kerja malaysia", "seksyen 12 akta kerja"]
+relations: []
+related: []
+keywords: ["termination of employment malaysia", "notice period malaysia", "at will employment malaysia", "payment in lieu of notice", "just cause or excuse", "final salary after resignation malaysia", "section 12 employment act"]
 ---
 
-Seorang majikan di Kuala Lumpur membuat keputusan pada hari Isnin bahawa seorang pengurus tidak lagi sesuai dengan jawatannya. Peguam di tempat lain mungkin akan bertanya tentang klausa notis. Di Malaysia, soalan pertama adalah berbeza, dan itulah soalan yang menentukan kes tersebut: **apakah sebabnya, dan bolehkah anda buktikannya?**
+Seorang majikan di Kuala Lumpur memutuskan pada hari Isnin bahawa seorang pengurus tidak sesuai untuk kekal. Peguam di tempat lain akan bertanya tentang klausa notis. Di Malaysia soalan pertama adalah berbeza, dan ia adalah soalan yang menentukan kes itu: **apakah sebabnya, dan bolehkah anda membuktikannya?**
 
-Malaysia tidak mengamalkan pekerjaan at-will. Langsung tidak. Tiada versi kontrak, tiada klausa tempoh percubaan, tiada perkataan "penamatan atas keperluan syarikat", dan tiada jumlah bayaran ganti notis yang membenarkan majikan menamatkan kontrak perkhidmatan semata-mata kerana ia mahu berbuat demikian. Seksyen 20 Akta Perhubungan Perusahaan 1967 memberi mana-mana pekerja yang menganggap dirinya telah dibuang kerja **tanpa sebab atau alasan yang sah (just cause or excuse)** hak untuk memohon pengembalian semula ke jawatan — dan di Mahkamah Perusahaan, beban membuktikan sebab dan keadilan proses tersebut terletak sepenuhnya pada majikan.
+Malaysia tiada pekerjaan sesuka hati (at-will). Langsung tiada. Tiada versi kontrak, tiada klausa percubaan, tiada perkataan "penamatan atas kesesuaian", dan tiada jumlah bayaran notis yang membenarkan majikan menamatkan kontrak perkhidmatan semata-mata kerana ia mahu berbuat demikian. Seksyen 20 Akta Perhubungan Perusahaan 1967 memberi mana-mana pekerja yang menganggap dirinya dipecat **tanpa sebab atau alasan yang wajar** hak untuk memohon pengembalian semula ke jawatan — dan di Mahkamah Perusahaan beban membuktikan kedua-dua sebab dan keadilan proses itu terletak sepenuhnya pada majikan.
 
-Inilah perbezaan paling penting antara undang-undang pekerjaan Malaysia dengan bahan HR yang dipengaruhi amalan Amerika Syarikat yang mendominasi keputusan carian. Hak kontraktual untuk menamatkan perkhidmatan dengan notis adalah hak untuk menentukan *bila* kontrak itu tamat. Ia bukan hak untuk menentukan *sama ada* ia boleh ditamatkan.
+Inilah perbezaan paling penting antara undang-undang pekerjaan Malaysia dengan bahan HR berpengaruh AS yang mendominasi hasil carian. Hak kontraktual untuk menamatkan melalui notis ialah hak untuk menentukan *bila* kontrak itu berakhir. Ia bukan hak untuk menentukan *sama ada* ia boleh berakhir.
 
-## Apa maksud sebenar "just cause or excuse"
+## Apa maksud sebenar "sebab atau alasan yang wajar"
 
-Frasa ini tidak ditakrifkan dalam Akta, dan ini adalah sengaja. Ia memerlukan dua perkara serentak:
+Frasa itu tidak ditakrifkan dalam Akta, dan itu memang disengajakan. Ia menghendaki dua perkara serentak:
 
-**Justifikasi substantif.** Sebab yang tulen, berasaskan fakta, yang termasuk dalam kategori yang diiktiraf — salah laku, ketidakupayaan atau prestasi lemah, redundan, atau penamatan semula jadi hubungan pekerjaan.
+**Justifikasi substantif.** Sebab yang tulen, berasaskan fakta, yang termasuk dalam kategori yang diiktiraf — salah laku, ketakupayaan atau prestasi lemah, lebihan tenaga kerja, atau berakhirnya hubungan secara semula jadi.
 
-**Keadilan prosedur.** Proses yang bersesuaian dengan sebab tersebut, dijalankan sebelum keputusan dibuat, dan didokumentasikan.
+**Keadilan prosedur.** Proses yang sesuai dengan sebab itu, dilaksanakan sebelum keputusan dibuat, dan didokumentasikan.
 
-Majikan lebih kerap kalah pada perkara kedua berbanding yang pertama. Pembuangan kerja atas sebab kecurian yang disokong rakaman CCTV masih boleh gagal jika pekerja tidak pernah diberitahu apa yang dituduh terhadapnya. Sebaliknya, proses yang sempurna tidak dapat menyelamatkan sebab yang direka selepas keputusan dibuat.
+Majikan kalah pada perkara kedua jauh lebih kerap berbanding perkara pertama. Pemecatan atas kecurian yang disokong CCTV masih gagal jika pekerja itu tidak pernah diberitahu apa yang dituduhkan terhadapnya. Sebaliknya, proses yang sempurna tidak dapat menyelamatkan sebab yang direka selepas keputusan dibuat.
 
-## Empat laluan sah untuk penamatan
+## Empat laluan sah untuk menamatkan
 
-Hampir setiap penamatan yang boleh dipertahankan di Malaysia menggunakan salah satu daripada empat saluran ini. Ia tidak boleh ditukar ganti sesama sendiri, dan memilih laluan yang salah itu sendiri merupakan satu kecacatan.
+Hampir setiap penamatan yang boleh dipertahankan di Malaysia melalui salah satu daripada empat saluran. Ia bukan boleh ditukar ganti, dan memilih yang salah itu sendiri sudah menjadi kecacatan.
 
 ### 1. Salah laku
 
-Seksyen 14(1) Akta Kerja 1955 membenarkan majikan, atas alasan salah laku yang tidak selaras dengan syarat perkhidmatan yang nyata atau tersirat dan **selepas siasatan sewajarnya**, membuang kerja tanpa notis, menurunkan pangkat, atau mengenakan hukuman yang lebih ringan.
+Seksyen 14(1) Akta Kerja 1955 membenarkan majikan, atas alasan salah laku yang tidak selaras dengan syarat nyata atau tersirat perkhidmatan dan **selepas siasatan yang wajar**, untuk memecat tanpa notis, menurunkan pangkat, atau mengenakan hukuman yang lebih ringan.
 
-Tiga perkara berikutan daripada ini. Pertama, "selepas siasatan sewajarnya" adalah prasyarat berkanun — siasatan dalaman bukan hiasan pilihan. Kedua, pembuangan kerja di bawah laluan ini adalah **tanpa notis**, jadi tiada bayaran ganti notis timbul. Ketiga, jika hukuman yang lebih ringan itu adalah penggantungan kerja tanpa gaji, s.14(1)(c) mengehadkannya kepada dua minggu.
+Tiga perkara berikut menyusul. Pertama, "selepas siasatan yang wajar" adalah prasyarat berkanun — siasatan dalaman bukan hiasan yang boleh dipilih. Kedua, pemecatan melalui laluan ini adalah **tanpa notis**, jadi tiada bayaran notis timbul. Ketiga, apabila hukuman yang lebih ringan ialah penggantungan tanpa gaji, s.14(1)(c) menghadkannya kepada dua minggu.
 
-Seksyen 14(2) mengawal selia penggantungan kerja *semasa* siasatan dijalankan: tidak lebih daripada dua minggu, dan majikan mesti membayar **tidak kurang daripada separuh gaji pekerja**. Jika siasatan mendapati tiada salah laku, majikan mesti **memulangkan semula dengan segera jumlah penuh gaji yang ditahan**.
+Seksyen 14(2) mengawal penggantungan *semasa* siasatan: tidak lebih daripada dua minggu, dan majikan mesti membayar **tidak kurang daripada separuh gaji pekerja**. Jika siasatan tidak mendedahkan sebarang salah laku, majikan mesti **dengan serta-merta mengembalikan sepenuhnya jumlah gaji yang ditahan**.
 
-Prosedur penuh, serta kecacatan yang paling kerap menjatuhkannya, dihuraikan dalam `domestic-inquiry-malaysia`.
+Prosedur penuh, dan kecacatan yang paling kerap menjejaskannya, terdapat dalam `domestic-inquiry-malaysia`.
 
 ### 2. Prestasi lemah
 
-Ini bukan salah laku, dan menganggapnya sebagai salah laku adalah kesilapan struktur yang paling biasa dalam pembuangan kerja di Malaysia. Prestasi rendah adalah persoalan keupayaan, dan proses yang menanganinya bukan perbicaraan tetapi satu kitaran:
+Ini bukan salah laku, dan menganggapnya sebagai salah laku adalah kesilapan struktur yang paling lazim dalam pemecatan di Malaysia. Prestasi lemah ialah persoalan keupayaan, dan proses yang menanganinya bukan pendengaran tetapi satu kitaran:
 
-- pernyataan piawaian yang dikehendaki secara jelas dan boleh diukur;
-- maklum balas bertulis yang khusus bahawa piawaian tidak dipenuhi;
+- pernyataan yang jelas dan boleh diukur mengenai standard yang diharapkan;
+- maklum balas bertulis yang khusus bahawa standard itu tidak dicapai;
 - pelan penambahbaikan prestasi yang didokumentasikan dengan tempoh yang ditetapkan;
-- sokongan yang tulen — latihan, penyeliaan, sumber, beban kerja yang dikurangkan jika kegagalan berpunca daripada jumlah kerja;
-- penilaian yang adil pada akhir tempoh tersebut;
-- amaran yang semakin serius, supaya pembuangan kerja tidak pernah menjadi perkara pertama yang didengari oleh pekerja.
+- sokongan yang tulen — latihan, penyeliaan, sumber, beban yang dikurangkan jika kegagalan itu berkaitan jumlah kerja;
+- penilaian yang adil pada penghujung tempoh;
+- amaran yang meningkat, supaya pemecatan tidak pernah menjadi perkara pertama yang didengari pekerja.
 
-Penamatan melalui laluan ini adalah penamatan **dengan notis** di bawah s.12, bukan pembuangan kerja secara serta-merta. Pekerja juga kekal berhak menerima faedah penamatan berkanun, kerana prestasi lemah bukan salah satu pengecualian dalam reg 4(1) Employment (Termination and Lay-Off Benefits) Regulations 1980.
+Penamatan melalui laluan ini ialah penamatan **dengan notis** di bawah s.12, bukan pemecatan serta-merta. Pekerja juga mengekalkan faedah penamatan berkanun, kerana prestasi lemah bukan salah satu pengecualian dalam perkara 4(1) Peraturan Kerja (Faedah Penamatan dan Rehat Sementara) 1980.
 
-Pekerja dalam tempoh percubaan tidak terkecuali daripada semua ini. Pekerja percubaan yang dibuang kerja tanpa sebab atau alasan yang sah boleh membuat tuntutan s.20; tempoh percubaan hanya mengurangkan had gaji kebelakangan daripada dua puluh empat bulan kepada dua belas bulan, dan tiada apa-apa lagi.
+Pekerja dalam tempoh percubaan tidak terkecuali daripada mana-mana perkara ini. Pekerja percubaan yang dipecat tanpa sebab atau alasan yang wajar boleh membawa tuntutan s.20; tempoh percubaan hanya mengurangkan had gaji tertunggak daripada dua puluh empat bulan kepada dua belas bulan, dan tiada yang lain.
 
-### 3. Redundan
+### 3. Lebihan tenaga kerja
 
-Apabila jawatan itu sendiri yang lenyap, bukan kegagalan individu, laluannya ialah pemberhentian kerja (retrenchment). Sebabnya melekat pada **jawatan**, dan majikan mesti menunjukkan justifikasi perniagaan yang tulen — penutupan, penstrukturan semula, atau keperluan yang berkurangan untuk kerja jenis tertentu.
+Apabila jawatan itu yang hilang dan bukan orangnya yang gagal, laluannya ialah pemberhentian (retrenchment). Sebab itu melekat pada **jawatan**, dan majikan mesti menunjukkan justifikasi perniagaan yang tulen — penutupan, penyusunan semula, keperluan kerja jenis tertentu yang berkurangan.
 
-Seksyen 12(3) penting dan sering terlepas pandang. Jika penamatan itu berpunca sepenuhnya atau sebahagian besarnya daripada pemberhentian perniagaan, pemberhentian di tempat kerja, keperluan yang berkurangan untuk kerja jenis tertentu, keengganan pertukaran yang tidak dikehendaki oleh kontrak, atau perubahan pemilikan perniagaan, maka pekerja berhak menerima notis **tidak kurang daripada minimum berkanun s.12(2) walau apa pun peruntukan bertentangan dalam kontrak**. Kontrak yang menetapkan notis satu minggu tidak boleh digunakan untuk memendekkan tempoh keluar akibat redundan.
+Seksyen 12(3) adalah penting dan kerap diabaikan. Apabila penamatan itu disebabkan sepenuhnya atau terutamanya oleh pemberhentian perniagaan, pemberhentian di tempat kerja, keperluan kerja jenis tertentu yang berkurangan, penolakan pemindahan yang tidak dikehendaki oleh kontrak, atau perubahan pemilikan perniagaan, maka pekerja berhak mendapat notis **tidak kurang daripada minimum berkanun s.12(2) tanpa mengira apa-apa yang bertentangan dalam kontrak**. Kontrak yang menetapkan notis satu minggu tidak boleh digunakan untuk memendekkan penamatan lebihan tenaga kerja.
 
-Bahagian XIIB Akta menambah satu peraturan yang tiada persamaan di kebanyakan bidang kuasa lain: apabila majikan mengurangkan tenaga kerja atas sebab redundan, ia **tidak boleh menamatkan pekerja tempatan melainkan ia terlebih dahulu menamatkan semua pekerja asing yang bekerja dalam kapasiti yang serupa**. Penduduk tetap (permanent resident) bukan pekerja asing bagi tujuan ini. Satu peruntukan berasingan melarang penamatan pekerja tempatan bagi tujuan mengambil pekerja asing.
+Bahagian XIIB Akta menambah satu peraturan yang tiada persamaannya di kebanyakan bidang kuasa: apabila majikan mengurangkan tenaga kerja atas sebab lebihan, s.60N memperuntukkan bahawa ia **tidak boleh menamatkan pekerja tempatan melainkan ia terlebih dahulu menamatkan semua pekerja asing yang bekerja dalam kapasiti yang serupa**. Penduduk tetap bukan pekerja asing bagi maksud ini — s.60O mengecualikan mereka daripada Bahagian ini. Peruntukan berasingan, s.60M, melarang penamatan pekerja tempatan dengan tujuan menggaji pekerja asing. (Seksyen 60L yang terdahulu telah dimansuhkan oleh Akta A1651.)
 
-Pemberhentian kerja juga mencetuskan kewajipan pemberitahuan kepada JTKSM mengikut tempoh masa tersendiri — lihat `retrenchment-malaysia`.
+Pemberhentian juga mencetuskan kewajipan pemberitahuan kepada JTKSM mengikut tempohnya sendiri — lihat `retrenchment-malaysia`.
 
-### 4. Perpisahan bersama
+### 4. Pemisahan bersama
 
-Perjanjian perpisahan bersama menamatkan pekerjaan melalui persetujuan. Tiada pembuangan kerja berlaku, jadi tiada apa-apa yang boleh dilekatkan pada tuntutan s.20 — itulah sebabnya ia menarik, dan itulah juga sebabnya ia menarik penelitian teliti.
+Perjanjian pemisahan bersama menamatkan pekerjaan melalui persetujuan. Tiada pemecatan, jadi tiada apa yang boleh dijadikan asas s.20 — itulah sebabnya ia menarik, dan itulah juga sebabnya ia menarik penelitian.
 
-Mahkamah Perusahaan akan menilai sama ada persetujuan itu benar-benar ikhlas. Perjanjian yang dikemukakan sebagai "tandatangan ini atau dibuang kerja", ditandatangani di situ juga, tanpa peluang untuk mempertimbangkannya atau mendapatkan nasihat, terdedah untuk dianggap sebagai pembuangan kerja dalam bentuk lain. Berikan masa, catatkan terma secara bertulis, nyatakan balasan (consideration) dengan jelas, dan jangan sekali-kali menjadikan tawaran itu bersyarat kepada tandatangan segera.
+Mahkamah Perusahaan meneliti sama ada persetujuan itu benar. Perjanjian yang dikemukakan sebagai "tandatangan ini atau dipecat", ditandatangani serta-merta, tanpa peluang untuk mempertimbangkannya atau mendapatkan nasihat, terdedah untuk dianggap sebagai pemecatan dalam sampul yang berlainan. Beri masa, tuliskan terma-termanya, nyatakan balasan dengan jelas, dan jangan sekali-kali menjadikan tawaran itu bersyarat kepada tandatangan serta-merta.
 
-## Tempoh notis: tingkatan berkanun
+## Tempoh notis: peringkat berkanun
 
-Seksyen 12(1) membenarkan mana-mana pihak memberi notis niat untuk menamatkan perkhidmatan. Seksyen 12(2) kemudian menetapkan tempohnya: ia **mestilah sama bagi majikan dan pekerja**, ditentukan oleh peruntukan bertulis dalam kontrak, atau **jika tiada peruntukan sedemikian**, tidak kurang daripada —
+Seksyen 12(1) membenarkan mana-mana pihak memberi notis niat untuk menamatkan. Seksyen 12(2) kemudian menetapkan tempohnya: ia **hendaklah sama bagi kedua-dua majikan dan pekerja**, ditentukan oleh peruntukan bertulis dalam kontrak, atau **jika tiada peruntukan sedemikian**, tidak kurang daripada —
 
 | Tempoh perkhidmatan pada tarikh notis diberikan | Notis minimum |
 | --- | --- |
@@ -215,86 +225,86 @@ Seksyen 12(1) membenarkan mana-mana pihak memberi notis niat untuk menamatkan pe
 | 2 tahun atau lebih tetapi kurang daripada 5 tahun | **6 minggu** |
 | 5 tahun atau lebih | **8 minggu** |
 
-Baca mekanismenya dengan teliti, kerana tiga butiran ini memberi kesan sebenar:
+Baca mekaniknya dengan teliti, kerana tiga butiran ini benar-benar penting:
 
-**Kategori tempoh diukur pada tarikh notis diberikan**, bukan pada tarikh pekerjaan tamat. Seorang pekerja yang kekurangan dua minggu daripada genap lima tahun perkhidmatan menerima enam minggu, bukan lapan minggu.
+**Peringkat diukur pada tarikh notis diberikan**, bukan pada tarikh pekerjaan berakhir. Pekerja yang kurang dua minggu lagi genap lima tahun mendapat enam minggu, bukan lapan.
 
-**Kontrak boleh memanjangkan tempoh tersebut tetapi kedua-dua pihak mesti dilayan sama.** Seksyen 12(2) menghendaki tempoh yang sama bagi kedua-dua belah pihak. Kontrak yang memberi majikan dua minggu tetapi pekerja tiga bulan tidak mematuhi peruntukan ini.
+**Kontrak boleh memanjangkan tempoh tetapi kedua-dua pihak mesti dilayan sama.** Seksyen 12(2) menghendaki tempoh itu sama bagi kedua-dua belah pihak. Kontrak yang memberi majikan dua minggu dan pekerja tiga bulan tidak mematuhinya.
 
-**Seksyen 12(4): notis mesti bertulis, dan hari ia diberikan termasuk dalam tempoh tersebut.** Notis empat minggu yang diserahkan pada 1 Mac tamat pada 28 Mac, bukan 29 Mac. Sistem penggajian sering tersilap sehari dalam pengiraan ini.
+**Seksyen 12(4): notis mesti bertulis, dan hari ia diberikan dimasukkan dalam tempoh.** Notis empat minggu yang diserahkan pada 1 Mac tamat pada 28 Mac, bukan 29 Mac. Sistem penggajian kerap tersilap sehari dalam hal ini.
 
-Proviso kepada s.12(2) membenarkan mana-mana pihak mengetepikan hak untuk notis — tetapi penepian itu mestilah tulen dan termaklum, bukan klausa yang tersembunyi dalam kontrak yang ditandatangani pada hari pertama.
+Proviso kepada s.12(2) membenarkan mana-mana pihak mengetepikan hak untuk notis — tetapi pengetepian itu mesti tulen dan bermaklumat, bukan klausa yang tersembunyi dalam kontrak yang ditandatangani pada hari pertama.
 
-Tiada satu pun daripada ini bergantung kepada gaji. Perenggan 1A Jadual Pertama hanya menyahgunapakaikan ss.60(3), 60A(3), 60C(2A), 60D(3), 60D(4) dan s.60J bagi pekerja yang berpendapatan melebihi RM4,000 sebulan. Seksyen 12, 13, 14, 20 dan 21 tiada dalam senarai tersebut. **Notis, bayaran ganti notis dan masa pembayaran gaji akhir terpakai kepada setiap pekerja di bawah kontrak perkhidmatan, tanpa mengira gaji.**
+Tiada satu pun daripada ini bergantung pada gaji. Perenggan 1A Jadual Pertama menyahpakai hanya ss.60(3), 60A(3), 60C(2A), 60D(3), 60D(4) dan s.60J kepada pekerja yang berpendapatan melebihi RM4,000 sebulan. Seksyen 12, 13, 14, 20 dan 21 tiada dalam senarai itu. **Notis, bayaran ganti notis dan penetapan masa gaji akhir terpakai kepada setiap pekerja di bawah kontrak perkhidmatan, pada mana-mana gaji.**
 
 ## Bayaran ganti notis
 
-Seksyen 13(1) membenarkan mana-mana pihak menamatkan perkhidmatan tanpa notis — atau, jika notis telah diberikan, tanpa menunggu ia luput — dengan membayar pihak yang satu lagi **ganti rugi bersamaan dengan gaji yang sepatutnya terakru sepanjang tempoh notis atau baki tempoh yang belum luput**.
+Seksyen 13(1) membenarkan mana-mana pihak menamatkan tanpa notis — atau, apabila notis telah diberikan, tanpa menunggu ia tamat — dengan membayar pihak lain **indemniti bersamaan gaji yang akan terakru sepanjang notis atau bahagiannya yang belum luput**.
 
-Empat perkara yang sering disalah anggap oleh majikan:
+Empat perkara yang sering disalahfahami oleh majikan:
 
-**Ia berjalan dua hala.** Pekerja yang berhenti tanpa menjalani tempoh notis terhutang ganti rugi yang sama kepada majikan, dan s.69(2)(iii) secara nyata membenarkan majikan menuntutnya di hadapan Ketua Pengarah.
+**Ia berlaku dua hala.** Pekerja yang berhenti tanpa berkhidmat sepanjang notis berhutang indemniti yang sama kepada majikan, dan s.69(2)(iii) secara nyata membenarkan majikan menuntutnya di hadapan Ketua Pengarah.
 
-**Ia adalah "gaji", sebagaimana ditakrifkan dalam s.2(1).** Bukan gaji pokok semata-mata jika takrifan itu merangkumi lebih daripada itu, dan bukan juga anggaran kasar yang dibuat-buat.
+**Ia ialah "gaji", sebagaimana ditakrifkan dalam s.2(1).** Bukan gaji pokok sahaja jika takrifan itu merangkumi lebih daripada itu, dan bukan gross-up notional.
 
-**Ia tidak menggantikan faedah penamatan.** Regulation 6(4) TBLB Regulations 1980 memperuntukkan bahawa faedah berkanun tersebut adalah **tambahan kepada** mana-mana bayaran s.13. Majikan yang membayar gaji ganti dua bulan dan menganggap perkara itu selesai sebenarnya baru membayar satu daripada dua kewajipan berasingan.
+**Ia tidak menggantikan faedah penamatan.** Perkara 6(4) Peraturan TBLB 1980 memperuntukkan bahawa faedah berkanun adalah **sebagai tambahan** kepada mana-mana bayaran s.13. Majikan yang membayar dua bulan ganti notis dan menganggap perkara itu selesai hanya telah membayar satu daripada dua kewajipan berasingan.
 
-**Ia tidak menjadikan pembuangan kerja itu adil.** Membayar gaji ganti hanya melunaskan kewajipan notis dan tiada lagi. Pembuangan kerja itu tetap memerlukan sebab atau alasan yang sah.
+**Ia tidak menjadikan pemecatan itu adil.** Membayar ganti notis hanya melepaskan kewajipan notis dan tiada yang lain. Pemecatan itu masih memerlukan sebab atau alasan yang wajar.
 
-Seksyen 13(2) adalah laluan serta-merta yang berasingan: mana-mana pihak boleh menamatkan perkhidmatan tanpa notis sekiranya berlaku **pelanggaran yang disengajakan** oleh pihak yang satu lagi terhadap syarat kontrak. Pekerja yang berhenti di bawah s.13(2) tetap berhak menerima faedah penamatan berkanun, kerana reg 4(1)(c) hanya mengecualikan peletakan jawatan secara sukarela yang tidak dibuat di bawah s.13(2) atau s.14(3).
+Seksyen 13(2) ialah laluan serta-merta yang berasingan: mana-mana pihak boleh menamatkan tanpa notis sekiranya berlaku apa-apa **pelanggaran yang disengajakan** oleh pihak yang satu lagi terhadap syarat kontrak. Pekerja yang berhenti di bawah s.13(2) mengekalkan faedah penamatan berkanun, kerana perkara 4(1)(c) hanya mengecualikan peletakan jawatan sukarela yang tidak dibuat di bawah s.13(2) atau s.14(3).
 
-## Bila gaji akhir sebenarnya perlu dibayar
+## Bila gaji akhir sebenarnya wajib dibayar
 
-Inilah tarikh akhir yang paling kerap terlepas pandang oleh majikan di Malaysia, kerana naluri penggajian menyatakan "kitaran seterusnya". Akta menyatakan sebaliknya, dan ia menetapkan tiga tarikh yang berbeza.
+Inilah tarikh akhir yang paling kerap terlepas oleh majikan Malaysia, kerana naluri penggajian berkata "pusingan seterusnya". Akta menyatakan sebaliknya, dan ia menetapkan tiga tarikh berbeza.
 
 | Senario | Statut | Tarikh akhir |
 | --- | --- | --- |
-| Penamatan biasa — kontrak luput atau notis tamat tempoh | s.20 | **Pada hari kontrak itu tamat** |
-| Majikan menamatkan tanpa notis di bawah s.13(1) atau (2), atau membuang kerja di bawah s.14(1)(a) | s.21(1) | **Pada hari penamatan**, ditambah ganti rugi s.13(1) jika berkenaan |
+| Penamatan biasa — kontrak tamat tempoh atau notis luput | s.20 | **Pada hari kontrak ditamatkan** |
+| Majikan menamatkan tanpa notis di bawah s.13(1) atau (2), atau memecat di bawah s.14(1)(a) | s.21(1) | **Pada hari penamatan**, ditambah indemniti s.13(1) jika berkenaan |
 | Pekerja menamatkan tanpa notis di bawah s.13(1)/(2) atau s.14(3) | s.21(2) | **Tidak lewat daripada hari ketiga selepas** penamatan |
 
-Perhatikan ketidaksimetrian ini. Apabila majikan yang menamatkan, pembayaran perlu dibuat pada hari yang sama. Hanya apabila *pekerja* yang berhenti, majikan diberi tiga hari. Menunggu kitaran penggajian akhir bulan untuk membayar pekerja yang tamat perkhidmatan pada hari ke-8 adalah satu pelanggaran, dan s.15(1) menganggap majikan yang gagal membayar gaji mengikut Bahagian III telah memungkiri kontrak — yang boleh menukar peletakan jawatan menjadi tuntutan pembuangan kerja secara konstruktif.
+Perhatikan ketidaksimetrian ini. Apabila majikan yang menamatkannya, bayaran wajib pada hari yang sama. Hanya apabila *pekerja* yang berhenti barulah majikan mendapat tiga hari. Menunggu pusingan gaji akhir bulan untuk membayar pekerja yang berhenti pada 8 haribulan adalah satu pelanggaran, dan s.15(1) menganggap majikan yang gagal membayar gaji mengikut Bahagian III telah memungkiri kontrak — yang boleh menukar peletakan jawatan menjadi tuntutan pemecatan konstruktif.
 
-Faedah penamatan berkanun berjalan mengikut tempoh masa tersendiri: **tujuh hari selepas tarikh berkenaan** di bawah reg 11(1), dengan penyata pengiraan bertulis juga perlu diberikan pada masa yang sama di bawah reg 12(1).
+Faedah penamatan berkanun berjalan mengikut tempohnya sendiri: **tujuh hari selepas tarikh berkaitan** di bawah perkara 11(1), dengan penyata pengiraan bertulis yang perlu diberikan pada masa yang sama di bawah perkara 12(1).
 
-## Penamatan akibat operasi Akta
+## Penamatan melalui pengendalian Akta
 
-Dua peruntukan anggapan (deeming) dalam s.15 berada di luar empat laluan tersebut.
+Dua peruntukan anggapan dalam s.15 berada di luar empat laluan tersebut.
 
-**Seksyen 15(1):** majikan yang gagal membayar gaji mengikut Bahagian III dianggap telah memungkiri kontrak. Ini adalah tulang belakang berkanun bagi banyak tuntutan pembuangan kerja secara konstruktif.
+**Seksyen 15(1):** majikan yang gagal membayar gaji mengikut Bahagian III dianggap telah memungkiri kontrak. Inilah tulang belakang berkanun bagi banyak tuntutan pemecatan konstruktif.
 
-**Seksyen 15(2):** pekerja yang tidak hadir bekerja selama lebih daripada dua hari bekerja berturut-turut tanpa cuti terlebih dahulu dianggap telah memungkiri kontrak — **melainkan** dia mempunyai alasan yang munasabah dan telah memaklumkan, atau cuba memaklumkan, majikan sebelum atau pada kesempatan paling awal semasa ketidakhadiran tersebut.
+**Seksyen 15(2):** pekerja yang tidak hadir lebih daripada dua hari bekerja berturut-turut tanpa cuti terlebih dahulu dianggap telah memungkiri kontrak — **melainkan** dia mempunyai alasan yang munasabah dan telah memberitahu, atau cuba memberitahu, majikan sebelum atau pada peluang terawal semasa ketidakhadiran itu.
 
-Seksyen 15(2) sering terlalu digunakan secara melampau. Ia mewujudkan anggapan pelanggaran; ia tidak mewujudkan penamatan automatik yang tidak boleh dicabar. Majikan yang menganggap hari ketiga ketidakhadiran sebagai pembuangan kerja sendiri, tanpa cuba menghubungi dan tanpa sebarang siasatan tentang sebabnya, kerap kali mendapati Mahkamah Perusahaan tidak berpuas hati dengan tindakan itu. Hantar surat tunjuk sebab ke alamat terakhir yang diketahui, dokumenkan setiap percubaan, dan simpan fail berkenaan.
+Seksyen 15(2) terlalu banyak disandarkan. Ia mewujudkan pelanggaran yang dianggap; ia tidak mewujudkan penamatan automatik yang tidak boleh dipertikaikan. Majikan yang menganggap hari ketiga ketidakhadiran sebagai pemecatan diri, tanpa cuba menghubungi dan tanpa sebarang siasatan mengenai sebabnya, kerap mendapati Mahkamah Perusahaan tidak berpuas hati. Hantar surat tunjuk sebab ke alamat terakhir yang diketahui, dokumentasikan usaha yang dibuat, dan simpan failnya.
 
-## Kos yang ditanggung jika tersilap
+## Berapa kosnya jika tersilap
 
-Pembuangan kerja tanpa sebab atau alasan yang sah mendedahkan majikan kepada gaji kebelakangan sehingga **dua puluh empat bulan** gaji terakhir (dua belas bulan bagi pekerja percubaan) di bawah Jadual Kedua Akta Perhubungan Perusahaan 1967, ditambah pampasan sebagai ganti pengembalian jawatan pada kadar **satu bulan gaji bagi setiap tahun genap perkhidmatan** di bawah Industrial Court Practice Note No. 3 of 2019.
+Pemecatan tanpa sebab atau alasan yang wajar mendedahkan majikan kepada gaji tertunggak sehingga **dua puluh empat bulan** gaji terakhir yang diambil (dua belas bulan bagi pekerja percubaan) di bawah Jadual Kedua Akta Perhubungan Perusahaan 1967, ditambah pampasan sebagai ganti pengembalian ke jawatan pada kadar **satu bulan gaji bagi setiap tahun perkhidmatan yang genap** di bawah Nota Amalan Mahkamah Perusahaan No. 3 Tahun 2019.
 
-Secara berasingan, pelanggaran Akta Kerja 1955 membawa penalti am di bawah s.99A berupa denda sehingga **RM50,000** jika tiada penalti khusus diperuntukkan, dan perintah Ketua Pengarah di bawah s.69 membawa faedah sehingga 8% setahun dari hari ke-31, dengan ketidakpatuhan boleh didenda sehingga RM50,000 ditambah denda harian sehingga RM1,000.
+Secara berasingan, pelanggaran Akta Kerja 1955 membawa penalti am di bawah s.99A berupa denda sehingga **RM50,000** jika tiada penalti khusus diperuntukkan, dan perintah Ketua Pengarah di bawah s.69 membawa faedah sehingga 8% setahun mulai hari ketiga puluh satu, dengan ketidakpatuhan boleh dihukum denda sehingga RM50,000 ditambah denda harian sehingga RM1,000.
 
-Tempoh masa pekerja ialah enam puluh hari dari tarikh pembuangan kerja — atau, jika notis telah diberikan, sehingga enam puluh hari dari tarikh luputnya notis tersebut. Lihat `unfair-dismissal-malaysia`.
+Jam pekerja ialah enam puluh hari dari tarikh pemecatan — atau, apabila notis diberikan, sehingga enam puluh hari dari tarikh notis itu luput. Lihat `unfair-dismissal-malaysia`.
 
-## Kesilapan biasa
+## Kesilapan lazim
 
-**Menganggap bayaran ganti notis membeli hak untuk membuang kerja.** Ia hanya membeli hak untuk menamatkan kontrak lebih awal. Sebab itu tetap perlu kukuh.
+**Mempercayai bahawa bayaran notis membeli hak untuk memecat.** Ia membeli hak untuk menamatkan kontrak lebih awal. Sebabnya masih perlu kukuh.
 
-**Menggunakan siasatan salah laku untuk masalah prestasi.** Laluan yang salah, bukti yang salah, dan ia menggugurkan pembelaan pelan penambahbaikan.
+**Menggunakan siasatan salah laku untuk masalah prestasi.** Laluan salah, keterangan salah, dan ia menggugurkan pembelaan pelan penambahbaikan.
 
-**Mengenakan ambang RM4,000 kepada notis.** Ia tidak menyentuh ss.12, 13, 20 atau 21. Ia hanya melibatkan s.60J dan empat subseksyen berkaitan kerja lebih masa dan gaji cuti.
+**Mengenakan ambang RM4,000 kepada notis.** Ia tidak menyentuh ss.12, 13, 20 atau 21. Ia mencakupi s.60J dan empat subseksyen bayaran lebih masa dan cuti.
 
-**Membayar gaji akhir pada tarikh penggajian seterusnya.** Seksyen 20 dan s.21(1) kedua-duanya menyatakan hari penamatan itu sendiri.
+**Membayar gaji akhir pada tarikh gaji seterusnya.** Kedua-dua s.20 dan s.21(1) menyatakan hari penamatan.
 
-**Mengira notis bermula dari hari selepas ia diberikan.** Seksyen 12(4) memasukkan hari ia diberikan itu sendiri.
+**Mengira notis dari hari selepas ia diberikan.** Seksyen 12(4) memasukkan hari pemberian.
 
-**Menganggap bayaran ganti notis dan pampasan pemberhentian sebagai alternatif antara satu sama lain.** Regulation 6(4) menjadikan kedua-duanya kumulatif.
+**Menganggap bayaran notis dan pampasan penamatan sebagai alternatif.** Perkara 6(4) menjadikannya terkumpul.
 
 **Memberhentikan pekerja tempatan sedangkan pekerja asing kekal dalam peranan yang serupa.** Bahagian XIIB melarangnya secara mutlak.
 
-**Menarikh-belakangkan surat peletakan jawatan untuk mengemaskan fail.** Dalam perbicaraan s.20, ketidakkonsistenan dokumen menyebabkan lebih banyak kerosakan berbanding kecacatan asal.
+**Menetapkan tarikh terdahulu pada surat peletakan jawatan untuk mengemaskan fail.** Dalam pendengaran s.20, ketidakselarasan dokumen menyebabkan lebih banyak kerosakan berbanding kecacatan asal.
 
-**Menganggap undang-undang ini terpakai di seluruh negara.** Sabah dan Sarawak beroperasi di bawah Ordinan Buruh masing-masing dengan jabatan JTK mereka sendiri.
+**Menganggap undang-undang ini terpakai di seluruh negara.** Sabah dan Sarawak berjalan atas Ordinan Buruh mereka sendiri dengan jabatan JTK masing-masing. Tempoh notis mereka adalah sama dengan peringkat Semenanjung — empat, enam dan lapan minggu di bawah Sabah Cap 67 s.11(2) dan Sarawak Cap 76 s.12(2) — tetapi tarikh akhir bayaran akhir berbeza dalam satu aspek: apabila pekerja menamatkan tanpa notis, gaji wajib dibayar menjelang hari **ketujuh** selepas penamatan (Sabah s.108(5), Sarawak s.109(5)), bukan hari ketiga seperti di bawah s.21(2) Semenanjung.
 
-## Langkah seterusnya
+## Apa seterusnya
 
-Sebelum sebarang penamatan, tetapkan tiga perkara secara bertulis: laluan mana antara empat laluan tersebut yang terpakai, notis apa yang perlu dibayar di bawah s.12(2) diukur pada tarikh ia diberikan, dan apa yang perlu dibayar pada hari akhir di bawah s.20 atau s.21. Kemudian jalankan prosedur untuk laluan tersebut — `domestic-inquiry-malaysia` bagi salah laku, `retrenchment-malaysia` bagi redundan — dan selesaikan pemfailan berkanun dalam `offboarding-statutory-checklist`, di mana kewajipan penahanan kelulusan cukai (tax clearance) mewujudkan risiko peribadi bagi pengarah dan pegawai penggajian.
+Sebelum sebarang penamatan, selesaikan tiga perkara secara bertulis: yang mana antara empat laluan itu terpakai, berapa notis yang terhutang di bawah s.12(2) diukur pada tarikh pemberian, dan apa yang wajib dibayar pada hari terakhir di bawah s.20 atau s.21. Kemudian jalankan prosedur bagi laluan itu — `domestic-inquiry-malaysia` untuk salah laku, `retrenchment-malaysia` untuk lebihan tenaga kerja — dan selesaikan pemfailan berkanun dalam `offboarding-statutory-checklist`, di mana kewajipan menahan pelepasan cukai mewujudkan pendedahan peribadi kepada pengarah dan pegawai penggajian.

@@ -37,8 +37,7 @@ faq:
   - q: "Can shareholders sue a director in Malaysia, or is enforcement only by SSM?"
     a: "Both routes exist. SSM prosecutes the s.213(3) offence. Separately, a member may bring a statutory derivative action in the company's name under s.347 with the leave of the Court, after giving the directors thirty days' written notice under s.348(2), and must commence proceedings within thirty days of leave being granted. Section 346 oppression relief is a further, independent route."
 
-verificationNeeded:
-  - "Confirm whether any SSM compound schedule exists for s.213 offences — no current practice directive setting compound amounts for directors' duty offences could be located"
+verificationNeeded: []
 
 obligations:
   - what: "Give the Court thirty days' written notice to the directors of an intention to apply for leave to bring a statutory derivative action"
@@ -63,14 +62,19 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-07-22
+reviewed: 2026-08-14
 reviewDue: 2027-07-22
-version: "0.1"
+publishedBy: "ashton-tan"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-20
     change: "Initial draft, verified against the Act 777 reprint as at 1 August 2022 and Act A1701."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
 updated: 2026-07-20
 sources:
@@ -87,6 +91,15 @@ sources:
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Practice%20Directive%201_2017%20(Revised)%201%20Oct%202024.pdf"
     publisher: "SSM"
     date: "2024-10-01"
+
+  - title: "Companies Commission of Malaysia Act 2001 (Act 614), reprint as at 1 March 2018 — s.38A compounding of offences and First Schedule (Act 777 listed as item 1)"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/CCMA%20Act%20614_as%20at%201%20March%202018).pdf"
+    publisher: "SSM"
+    date: "2018-03-01"
+  - title: "MAICSA Annual Conference 2017: Three Questions Raised — confirms CA 2016 has no compounding section; the power is s.38A of the SSM Act, in force 31 January 2017 (50% cap, PP consent)"
+    url: "https://themalaysianlawyer.com/2017/09/15/maicsa-annual-conference-2017-three-questions-raised/"
+    publisher: "The Malaysian Lawyer"
+    date: "2017-09-15"
 
 entity: "Directors' duties under the Companies Act 2016"
 relations:
@@ -314,6 +327,17 @@ run down more than one.
 **1. Criminal prosecution by SSM.** The s.213(3) offence is prosecuted against
 the individual. A conviction under ss.213, 217, 218, 228 or 539 then triggers
 automatic disqualification under s.198(1)(d).
+
+There is no gazetted compound schedule or practice directive fixing a compound
+amount for a directors'-duty offence — the Companies Act 2016 contains no
+compounding provision of its own. SSM's only compounding power is the general
+one in s.38A(1) of the Companies Commission of Malaysia Act 2001 (Act 614),
+under which the Registrar may, **with the written consent of the Public
+Prosecutor**, compound an offence for an amount **not exceeding 50% of the
+maximum fine** — so up to RM1.5 million against the RM3 million ceiling. That is
+a case-by-case discretion, not a tariff. SSM's only published compound
+instrument, Practice Directive 1/2017, covers late-lodgement defaults, not
+directors'-duty offences.
 
 **2. Statutory derivative action (ss.347–348).** A complainant may, with the
 leave of the Court, bring proceedings in the company's name. The clocks are

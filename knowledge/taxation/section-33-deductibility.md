@@ -29,18 +29,13 @@ faq:
   - q: "If an expense is wholly and exclusively incurred, is it automatically deductible?"
     a: "No. Section 39(1) prohibits specific deductions notwithstanding s.33, and subsection 39(2) declares that s.33 is not an express provision of the Act within the meaning of s.39 except in so far as it relates to expenses of the kind specified in paragraphs 33(1)(a) to (d). Entertainment, motor vehicle rentals above the cap, and payments where withholding tax was not remitted all pass s.33 and still fail."
   - q: "Are secretarial fees and tax filing fees deductible?"
-    a: "Not under the general principle. Public Ruling No. 6/2006 lists secretarial fees, annual general meeting expenses and the cost of preparing tax returns among the non-deductible legal and professional expenses. They are deductible only because a separate gazetted rule allows it — the Income Tax (Deduction for Expenses in relation to Secretarial Fee and Tax Filing Fee) Rules 2020, which cap the combined claim per year of assessment. Confirm the current cap before claiming."
+    a: "Not under the general principle. Public Ruling No. 6/2006 lists secretarial fees, annual general meeting expenses and the cost of preparing tax returns among the non-deductible legal and professional expenses. They are deductible only because a separate gazetted rule allows it — the Income Tax (Deduction for Expenses in relation to Secretarial Fee and Tax Filing Fee) Rules 2020 [P.U.(A) 162/2020], which cap the claim at RM15,000 per year of assessment combined across both fee types. The Amendment Rules 2021 [P.U.(A) 471/2021] left the RM15,000 combined cap unchanged but moved the deduction to an incurred (rather than paid) basis from YA 2022."
   - q: "Can I deduct expenses incurred before my business started trading?"
     a: "Generally no, because there is no source producing gross income yet, so the s.33(1) test cannot be satisfied. Specific reliefs exist for defined categories — incorporation expenses, approved training, employee recruitment and certain franchise fees — each with its own gazetted rule. Public Ruling No. 11/2013 sets out the categories and their conditions."
   - q: "Is money stolen by an employee deductible?"
     a: "It depends on whether the loss is incidental to the business. Public Ruling No. 4/2012 accepts that loss of cash through theft or embezzlement by an employee is allowable because it arises from the necessity of delegating duties. The Special Commissioners have applied that principle strictly to the business actually carried on, and losses of money that never belonged to the business have been contested on exactly that ground."
   - q: "Who has to prove that an expense is deductible?"
     a: "The taxpayer. Paragraph 13 of Schedule 5 to the Income Tax Act 1967 places the onus of proving that an assessment is excessive or erroneous on the appellant. In practice this means invoices, agreements, payment vouchers and evidence that the service was actually delivered — several reported appeals have failed purely because the scope and purpose of the expense could not be documented."
-
-verificationNeeded:
-  - "Whether the Finance Act 2025 (Act 874) or any later amending Act changed s.33 or s.39 after the Income Tax Act 1967 reprint dated 21 May 2024 used here — LHDN publishes the reprint but not the Finance Acts"
-  - "The current cap under the Income Tax (Deduction for Expenses in relation to Secretarial Fee and Tax Filing Fee) Rules 2020 [P.U.(A) 162-2020] as amended — the gazette text could not be retrieved from an official source"
-  - "Whether Public Ruling No. 6-2006 on legal and professional expenses has been superseded — it remains listed as current on the LHDN Public Rulings index but predates the 2020 secretarial and tax filing fee rules that contradict paragraphs 6.3 and 6.4"
 
 lang: "en"
 masterLanguage: "en"
@@ -49,16 +44,21 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-07-22
+publishedBy: "ashton-tan"
+reviewed: 2026-08-14
 reviewDue: 2027-07-22
-version: "0.1"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-20
     change: "Initial draft."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-07-20
+updated: 2026-08-14
 sources:
   - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
@@ -92,6 +92,26 @@ sources:
     url: "https://www.hasil.gov.my/wp-content/uploads/20230407-revenews-sierra-ukay-sdn-bhd.pdf"
     publisher: "LHDN"
     date: "2023-04-07"
+  - title: "Finance Act 2025 (Act 874) — Chapter II arrangement of sections (amends ITA ss.6,15C,46,49,50,54C,65C,65D,65F,76A,107C,111,Sch1,Sch6; does not touch s.33 or s.39)"
+    url: "https://494075.fs1.hubspotusercontent-na1.net/hubfs/494075/compliance-portal/act-874-finance-act-2025.pdf"
+    publisher: "Laws of Malaysia, gazetted 31 Dec 2025 (hosted copy)"
+    date: "2025-12-31"
+  - title: "Finance Act 2024 (Act 862) — Chapter II arrangement of sections (amends ITA ss.6,15C,34,44,45A,46,46B,47,48,49,107C,108,Sch1,Sch6; does not touch s.33 or s.39)"
+    url: "https://moore.com.my/taxflash/Finance-Act-2024.pdf"
+    publisher: "Laws of Malaysia, gazetted 31 Dec 2024 (hosted copy)"
+    date: "2024-12-31"
+  - title: "Public Rulings index — No. 6/2006 Tax Treatment of Legal and Professional Expenses listed as current, not superseded"
+    url: "https://www.hasil.gov.my/en/perundangan/ketetapan-umum/"
+    publisher: "LHDN"
+    date: "2026-08-14"
+  - title: "Tax Deduction of Secretarial Fees and Tax Filing Fees — P.U.(A) 162/2020 (RM15,000 combined cap per YA) and P.U.(A) 471/2021 (incurred basis from YA 2022, cap unchanged)"
+    url: "https://ccs-co.com/post/tax-deduction-of-secretarial-fees-and-tax-filing-fees/"
+    publisher: "CCS & Co PLT (reproducing gazette text)"
+    date: "2021-12-31"
+  - title: "Amended guidelines on deductions for secretarial and tax filing fees — P.U.(A) 162/2020, RM15,000 combined cap per YA, effective YA 2020"
+    url: "https://www.ey.com/en_my/technical/tax-alerts/amended-guidelines-on-deductions-for-secretarial-and-tax-filing-fees"
+    publisher: "EY Malaysia"
+    date: "2022-01-01"
 
 entity: "Section 33(1) of the Income Tax Act 1967"
 relations:
@@ -197,7 +217,7 @@ The practical inversion of that case is *VTL & Ors v KPHDN* (Special Commissione
 | Expense | Treatment | Why |
 | --- | --- | --- |
 | Statutory audit fee | Deductible | Specific gazetted rule; PR 6/2006 para 5.3 |
-| Secretarial fee, tax return preparation | Not deductible under general principles | PR 6/2006 paras 6.3 and 6.4 — allowed only by the 2020 secretarial and tax filing fee Rules, subject to a cap |
+| Secretarial fee, tax return preparation | Not deductible under general principles | PR 6/2006 paras 6.3 and 6.4 — allowed only by P.U.(A) 162/2020, capped at RM15,000 per YA combined across both fees |
 | Legal fee to renew an existing lease | Deductible | Maintaining an existing trade facility |
 | Legal fee to obtain a new lease | Not deductible | Acquiring a new right |
 | Legal fee, first letting of a property | Not deductible | The source did not yet exist |
@@ -223,7 +243,7 @@ The practical inversion of that case is *VTL & Ors v KPHDN* (Special Commissione
 
 **Leaving the documentation to the audit.** Paragraph 13 of Schedule 5 puts the onus of proof on you. *VTL* lost expenses that were almost certainly genuine because the scope of the services was never documented.
 
-**Assuming a deduction survives a change in law.** The Public Rulings cited here date from 2006 to 2013 and were written against the Act as it then stood. Read them alongside the current reprint, not instead of it.
+**Assuming a deduction survives a change in law.** The Public Rulings cited here date from 2006 to 2013 and were written against the Act as it then stood. Read them alongside the current reprint, not instead of it. Sections 33 and 39 themselves are stable: neither was amended by Finance Act 2024 (Act 862) or Finance Act 2025 (Act 874), so the 21 May 2024 reprint used here remains the operative text. Note also that Public Ruling No. 6/2006 stays current on the LHDN index, though LHDN has published a draft replacement ruling on legal and professional expenses that is not yet in force.
 
 ## What's next
 

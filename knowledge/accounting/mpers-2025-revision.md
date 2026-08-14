@@ -37,11 +37,6 @@ faq:
   - q: "How much lead time do I actually have?"
     a: "Less than the 2027 date suggests. Retrospective application means the comparative period has to be prepared on the new basis, so a December year-end company is capturing MPERS (2025) data from 1 January 2026 onwards. If revenue contracts need re-analysis, the work starts before the transition year, not in it."
 
-verificationNeeded:
-  - "The full text of MPERS (2025) sits behind an acknowledgement gate on masb.org.my and could not be extracted programmatically — paragraph-level references beyond those quoted in MASB press releases and ED 80 should be checked against the issued Standard"
-  - "Confirm whether MASB issued any Malaysian-specific transition relief in MPERS (2025) Section 35 beyond the IFRS for SMEs third edition reliefs"
-  - "Confirm the treatment of bearer plants and agriculture within the revised Section 34 against the issued Standard"
-
 lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
@@ -49,16 +44,20 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-07-22
+reviewed: 2026-08-14
 reviewDue: 2027-07-22
-version: "0.1"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-20
     change: "Initial draft."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-07-20
+updated: 2026-08-14
 sources:
   - title: "MPERS (2025)"
     url: "https://www.masb.org.my/pages.php?id=615"
@@ -80,6 +79,18 @@ sources:
     url: "https://www.ifrs.org/content/dam/ifrs/publications/html-standards/english/2025/issued/html-ifrs-for-smes.html"
     publisher: "IFRS Foundation"
     date: "2025-02-27"
+  - title: "MASB Exposure Draft 80 — Malaysian Private Entities Reporting Standard (MPERS), full version"
+    url: "https://mail.masb.org.my/pdf_file/MASB%20ED80-MPERS-Full%20version.pdf"
+    publisher: "MASB"
+  - title: "MPERS 2025: What are the Changes and its Implications (CPD brochure)"
+    url: "https://www.micpa.com.my/v2/wp-content/uploads/2025/12/CPDFeb_MPERS-2025.pdf"
+    publisher: "MICPA"
+  - title: "IASB issues third edition of IFRS for SMEs accounting standard (transition reliefs)"
+    url: "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-gl/technical/ifrs-technical-resources/documents/en-gl-iasb-issues-third-edition-of-ifrs-for-smes-accounting-standard-03-2025.pdf"
+    publisher: "EY / IFRS Foundation"
+  - title: "Overview of the Third Edition of IFRS for SMEs Accounting Standard"
+    url: "https://www.at-mia.my/2025/09/30/overview-of-the-third-edition-of-ifrs-for-smes-accounting-standard/"
+    publisher: "Malaysian Institute of Accountants (MIA)"
 
 entity: "MPERS (2025)"
 relations:

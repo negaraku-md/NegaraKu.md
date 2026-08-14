@@ -42,9 +42,10 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-08
+publishedBy: "ashton-tan"
+reviewed: 2026-08-14
 reviewDue: 2027-08-08
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-08-08
@@ -54,13 +55,12 @@ revisions:
     date: 2026-08-08
     change: "Correction pass: sourced the EPC 20-member definition to CA 2016 s2 (SSM Act 777 reprint) and tightened its wording; added verificationNeeded."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-verificationNeeded:
-  - "Takrif 'exempt private company' (tidak lebih 20 ahli; tiada perbadanan sebagai ahli atau memegang kepentingan benefisial) berasal daripada seksyen 2 CA 2016, bukan daripada PD 10/2024 — sahkan terhadap teks rasmi Akta 777."
-  - "Kandungan tepat sijil pengecualian audit dalam Apendiks 1 PD 10/2024 — sahkan perkataan penuh terhadap teks arahan."
-  - "Slug rujukan (companies-act-2016, exempt-private-company, sdn-bhd-incorporation, unaudited-financial-statements) mungkin belum wujud dalam korpus — sahkan atau laraskan medan related/relations."
-
-updated: 2026-08-08
+updated: 2026-08-14
 sources:
   - title: "Practice Directive No. 10/2024 — Qualifying Criteria for Audit Exemption for Certain Private Companies in Malaysia"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/PRACTICE-DIRECTIVE-10-2024.pdf"
@@ -71,6 +71,9 @@ sources:
   - title: "Companies Act 2016 (Act 777) — Reprint, seksyen 2 (takrif 'exempt private company')"
     url: "https://www.ssm.com.my/pages/legal_framework/document/act%20777%20reprint.pdf"
     publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+  - title: "Laws of Malaysia — Act 777 Companies Act 2016 (interpretation, s2, 'exempt private company', p33; s260, p262)"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/aktaBI_20160915_CompaniesAct2016Act777.pdf"
+    publisher: "Attorney General's Chambers of Malaysia (AGC), Laws of Malaysia (lom.agc.gov.my)"
 
 entity: "Suruhanjaya Syarikat Malaysia (SSM)"
 relations:

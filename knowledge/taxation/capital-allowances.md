@@ -37,11 +37,7 @@ faq:
   - q: "Why was my capital allowance clawed back after I sold the machine early?"
     a: "Paragraph 71 of Schedule 3 withdraws allowances on an asset owned for less than two years, except by reason of death or any other reason the Director General thinks appropriate, and imposes a balancing charge equal to the allowances already made. The Special Commissioners have read this strictly — commercial justification advanced after the event has not been enough."
 
-verificationNeeded:
-  - "Whether the Finance Act 2025 (Act 874) or any later amending Act changed Schedule 3 after the Income Tax Act 1967 reprint dated 21 May 2024 used here"
-  - "The gazetted text of the Income Tax (Qualifying Plant Annual Allowances) Rules 2000 [P.U.(A) 52-2000] — the 20, 14 and 10 percent rates are taken from LHDN Public Ruling No. 12/2014, which cites those Rules, but the gazette itself could not be retrieved"
-  - "Whether Public Ruling No. 12/2014 and No. 6/2015 have been reissued to reflect paragraph 70A, which took effect after both were published"
-  - "Whether the Special Commissioners decision in SCPASB on multi-storey car parks was appealed, and how paragraph 70A applies to the same facts from the year of assessment 2021 onwards"
+verificationNeeded: []
 
 obligations:
   - what: "Claim capital allowances in the tax return for the year of assessment in which they arise"
@@ -58,9 +54,9 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-07-22
+reviewed: 2026-08-14
 reviewDue: 2027-07-22
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-20
@@ -70,8 +66,12 @@ revisions:
     date: 2026-07-21
     change: "Reconciled the disposal example with the write-off schedule: the YA2030 sale pre-empts the 2030 and 2031 rows, leaving RM60,000 residual against RM190,000 total allowances (initial plus four annuals, 2026 to 2029)."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-07-20
+updated: 2026-08-14
 sources:
   - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
@@ -105,6 +105,25 @@ sources:
     url: "https://www.hasil.gov.my/wp-content/uploads/20230705-revenews-horizon-hills-resort-bhd.pdf"
     publisher: "LHDN"
     date: "2023-07-05"
+  - title: "Finance Act 2025 (Act 874) — gazette text, arrangement of sections (Chapter II amends ITA ss.6, 15C, 46, 49, 50, 54C, 65C, 65D, 65F, 76A, 107C, 111, Schedules 1 and 6; Schedule 3 not amended)"
+    url: "https://494075.fs1.hubspotusercontent-na1.net/hubfs/494075/compliance-portal/act-874-finance-act-2025.pdf"
+    publisher: "Laws of Malaysia / Percetakan Nasional Malaysia"
+    date: "2025-12-31"
+  - title: "Finance Act 2024 (Act 862) — gazette text, arrangement of sections (Chapter II amends ITA ss.6, 15C, 34, 44, 45A, 46, 46B, 47, 48, 49, 107C, 108, Schedules 1 and 6; Schedule 3 not amended)"
+    url: "https://moore.com.my/taxflash/Finance-Act-2024.pdf"
+    publisher: "Moore Malaysia (reproducing Act 862)"
+    date: "2024-12-31"
+  - title: "Six Public Rulings updated, and two new PRs issued by the IRB (2022 batch — confirms PR 12/2014 and PR 6/2015 were not replaced)"
+    url: "https://www.ey.com/en_my/technical/tax-alerts/six-public-rulings-prs-updated-and-two-new-prs-issued-by-the-irb"
+    publisher: "EY Malaysia"
+    date: "2022-01-01"
+  - title: "High Court affirms SCP Assets's multi-storey car parks as 'plant' (DGIR's appeal dismissed, July 2026)"
+    url: "https://www.freemalaysiatoday.com/category/nation/2026/07/29/high-court-affirms-scp-assets-s-multi-storey-car-parks-as-plant"
+    publisher: "Free Malaysia Today"
+    date: "2026-07-29"
+  - title: "Reaffirming the Tropiland Case — analysis of the SCP Assets multi-storey car park appeal (paragraph 70A not retrospective)"
+    url: "https://www.rdslawpartners.com/post/reaffirming-the-tropiland-case"
+    publisher: "RDS Law Partners"
 
 entity: "Capital allowances under Schedule 3 of the Income Tax Act 1967"
 relations:
@@ -150,7 +169,7 @@ This is the question that most often decides a real dispute, and the answer chan
 
 Until the year of assessment 2020 the Act contained no definition. Everything ran on case law and the two tests set out in Public Ruling No. 12/2014 — the **functional test** (is the asset the apparatus *with which* the business is carried on?) and the **premise test** (or is it merely the setting *within which* it is carried on?). The ruling's examples are still the clearest guide available: mannequins in a boutique are plant, a ship converted into a restaurant is not, decorative lighting in a hotel is plant because ambience attracts guests, turf on a golf course is not because it is part of the course itself.
 
-That framework produced genuine conflict. In *SCPASB v DGIR* (Special Commissioners, 22 September 2023) a car park operator succeeded in claiming its eight multi-storey car parks as plant, relying on the Court of Appeal decision in *KPHDN v Tropiland Sdn Bhd*. Four months earlier, in *Horizon Hills Resort Berhad v DGIR* (High Court, Kuala Lumpur, 23 June 2023), a golf and recreation club had lost on its golf course, pools, gymnasium, tennis courts and food and beverage outlets — all held to be the premises where the business was conducted rather than apparatus with which it was conducted.
+That framework produced genuine conflict. In *SCPASB v DGIR* (Special Commissioners, 22 September 2023) a car park operator — SCP Assets Sdn Bhd, which had acquired eight multi-storey car parks between 2013 and 2016 for some RM495 million — succeeded in claiming them as plant, relying on the Court of Appeal decision in *KPHDN v Tropiland Sdn Bhd*. The DGIR appealed, and in July 2026 the High Court (Justice Alice Loke) dismissed the appeal, affirming on the functionality test that the car parks are plant eligible for capital allowances. Four months before the Special Commissioners' decision, in *Horizon Hills Resort Berhad v DGIR* (High Court, Kuala Lumpur, 23 June 2023), a golf and recreation club had lost on its golf course, pools, gymnasium, tennis courts and food and beverage outlets — all held to be the premises where the business was conducted rather than apparatus with which it was conducted.
 
 **Paragraph 70A now settles the argument by statute.** Inserted with effect from the year of assessment 2021, it provides that plant means
 
@@ -158,7 +177,7 @@ That framework produced genuine conflict. In *SCPASB v DGIR* (Special Commission
 
 and gives the Minister power to prescribe further exclusions. A structure whose function is to be the place where the business happens is out, however specialised its construction.
 
-Two consequences most guides miss. First, decisions like *Tropiland* and *SCPASB* concern years of assessment before 2021 and cannot be read across to a current claim without checking paragraph 70A. Second, some commentary still quotes paragraph 70A as also excluding *an intangible asset*. Those words were in the original wording but are **not in the current text** — the reprint of the Act as at 21 May 2024 contains no such exclusion.
+Two consequences most guides miss. First, decisions like *Tropiland* and *SCPASB* concern years of assessment before 2021 and cannot be read across to a current claim without checking paragraph 70A — the courts in the *SCP Assets* line confirmed paragraph 70A is not retrospective, so it does not touch those pre-2021 years but must be applied afresh to a claim from the year of assessment 2021 onwards. Second, some commentary still quotes paragraph 70A as also excluding *an intangible asset*. Those words were in the original wording but are **not in the current text** — the reprint of the Act as at 21 May 2024 contains no such exclusion.
 
 ## Step 3: initial and annual allowance
 

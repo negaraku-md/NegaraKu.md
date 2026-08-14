@@ -35,12 +35,9 @@ faq:
   - q: "Does the New Incentive Framework work if my group is in scope for the global minimum tax?"
     a: "Not straightforwardly. The NIF guideline itself flags that Malaysia has implemented the global minimum tax from 2025 through the Domestic Top-Up Tax in Part XI of the Income Tax Act 1967, and that a group with annual global revenue of at least EUR 750 million can face top-up tax where its Malaysian effective tax rate falls below 15%. A 0% or 5% Special Tax Rate does not survive that floor for an in-scope group — it converts a Malaysian tax saving into a top-up tax collected somewhere."
   - q: "When is the services-sector NIF starting?"
-    a: "MITI said implementation would commence with manufacturing and be followed by the services sector in the second quarter of 2026. As at July 2026 the MITI NIF page publishes implementation guidelines and an FAQ for the manufacturing sector only. Treat any stated services start date as unconfirmed until MITI publishes the services guidelines."
+    a: "MITI said implementation would commence with manufacturing and be followed by the services sector in the second quarter of 2026. As at August 2026 the MITI and MIDA NIF pages publish implementation guidelines and an FAQ for the manufacturing sector only, and the MIDA page still states only that services implementation is 'Effective Q2 2026, the exact date of implementation will be announced in due course' — a quarter that has now passed with no services guideline, scorecard or effective date published. Treat any stated services start date as unconfirmed until MITI or MIDA publishes the services guidelines."
 
 verificationNeeded:
-  - "Confirm with MITI or MIDA whether the services-sector NIF guidelines have been issued and whether PIA 1986 applications for services remain open in the interim — no services guideline was published on miti.gov.my/NIF as at 20 July 2026"
-  - "Confirm whether any subsidiary legislation implementing the Special Tax Rate under Schedule 1 Part XVII of the Income Tax Act 1967 has been gazetted — an AGC gazette search for NIF-related orders returned nothing as at July 2026"
-  - "Confirm the NIA Scorecard weightings and the numeric thresholds separating Tier 1 from Tier 2 — the published guideline lists the indicators but not the scoring"
   - "Confirm how the NIF interacts with Reinvestment Allowance under Schedule 7A and with existing PIA approvals being extended or varied"
 
 lang: "en"
@@ -50,9 +47,10 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-07-22
-reviewDue: 2027-07-22
-version: "0.2"
+publishedBy: "ashton-tan"
+reviewed: 2026-08-14
+reviewDue: 2027-08-14
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-20
@@ -62,8 +60,12 @@ revisions:
     date: 2026-07-21
     change: "Described the small-company definition as two-limbed with a common condition, rather than three-limbed, to match its actual structure (two size/equity alternatives plus one shared ownership rider)."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-07-20
+updated: 2026-08-14
 sources:
   - title: "Implementation of the New Incentive Framework (NIF) Effective 1 March 2026 — media release"
     url: "https://www.miti.gov.my/miti/resources/Media%20Release/PR_NIF_2026.pdf"
@@ -76,6 +78,9 @@ sources:
   - title: "New Incentive Framework (NIF)"
     url: "https://www.miti.gov.my/NIF"
     publisher: "MITI"
+  - title: "New Incentive Framework (NIF) — media release"
+    url: "https://www.mida.gov.my/media-release/new-incentive-framework-nif/"
+    publisher: "MIDA"
   - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
     publisher: "LHDN"
@@ -295,8 +300,9 @@ careful reader should slow down.
 - The **Investment Tax Allowance** is to be provided through subsidiary
   legislation under **s.127(3)(b) of the Income Tax Act 1967**.
 
-Note the tense. *Is to be provided.* A search of the Attorney General's Chambers
-gazette index for NIF-related orders returns nothing as at July 2026. An
+Note the tense. *Is to be provided.* The latest guideline (as at 10 July 2026)
+keeps the same future tense as the 15 January 2026 version, and no P.U.(A) order
+implementing the Special Tax Rate could be located as at August 2026. An
 approval-in-principle letter is an administrative decision; the tax relief it
 promises has to land in a gazetted order before it is claimable in a return.
 Until those orders appear, an approved company holds a commitment, not an
@@ -327,8 +333,10 @@ group below the EUR 750 million threshold, the low end is real.
 Being specific about the gaps is more useful here than filling them.
 
 **The services-sector framework.** MITI's own release promised services in Q2
-2026. That quarter has passed. As at July 2026 the MITI NIF page carries
-implementation guidelines and an FAQ for the **manufacturing sector only**. No
+2026. That quarter has passed. As at August 2026 the MITI and MIDA NIF pages
+carry implementation guidelines and an FAQ for the **manufacturing sector
+only**, and MIDA still describes services implementation only as "Effective Q2
+2026, the exact date of implementation will be announced in due course". No
 services guideline, no services scorecard, no services effective date beyond the
 original announcement.
 

@@ -35,10 +35,6 @@ faq:
   - q: "Who counts as an associated person for Malaysian transfer pricing?"
     a: "Section 140A(5) covers persons where one controls the other, individuals who are relatives, and persons both controlled by a third person. Subsection (5A) defines control as holding 20 per cent or more of the share capital plus one of three factors: dependence on the other party's proprietary rights, the other party specifying business activities and influencing prices, or the other party appointing one or more directors."
 
-verificationNeeded:
-  - "The Transfer Pricing Audit Framework effective 31 July 2025 is published in Malay only; the graduated s.113B(4) amounts and the 0 to 4 per cent voluntary disclosure surcharge band are translated from that text and should be read against the Malay original before being relied on in correspondence"
-  - "Whether LHDN has issued an English edition or a further amendment of the framework since 31 July 2025"
-
 obligations:
   - what: "Prepare contemporaneous transfer pricing documentation for the year"
     trigger: "financial-year-end"
@@ -61,9 +57,10 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-07-22
+publishedBy: "ashton-tan"
+reviewed: 2026-08-14
 reviewDue: 2027-07-22
-version: "0.2"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-20
@@ -73,8 +70,12 @@ revisions:
     date: 2026-07-21
     change: "Fixed para 1.5(d) domestic carve-out: the three conditions are cumulative (conjunctive), so 'or' in the FAQ and body corrected to 'and' to agree with Common mistakes."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-07-20
+updated: 2026-08-14
 sources:
   - title: "Income Tax (Transfer Pricing) Rules 2023, P.U.(A) 165/2023"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputp/1820059/PUA165_2023.pdf"
@@ -88,6 +89,18 @@ sources:
     url: "https://www.hasil.gov.my/wp-content/uploads/rangka-kerja-audit-cukai-harga-pindahan-2025.pdf"
     publisher: "LHDN"
     date: "2025-07-31"
+  - title: "Transfer Pricing Tax Audit Framework 2025 (English edition)"
+    url: "https://www.hasil.gov.my/media/x5daf2j4/transfer-pricing-tax-audit-framework-2025.pdf"
+    publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
+    date: "2025-07-31"
+  - title: "Transfer Pricing Tax Audit Framework (framework listing, English edition dated 31.07.2025 current)"
+    url: "https://www.hasil.gov.my/en/perundangan/rangka-kerja/"
+    publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
+    date: "2025-07-31"
+  - title: "EY Tax Alert Special Edition No. 2/2025 — Transfer Pricing Tax Audit Framework 2025"
+    url: "https://www.ey.com/en_my/technical/tax-alerts/malaysia-transfer-pricing-tax-audit-framework-2025"
+    publisher: "Ernst & Young Tax Consultants Sdn Bhd"
+    date: "2025"
   - title: "FAQ on Matters Arising from Subsection 140A(3C) of the Income Tax Act 1967, latest amendment 31 July 2025"
     url: "https://www.hasil.gov.my/wp-content/uploads/faq-sec140a-3c-31072025.pdf"
     publisher: "LHDN"

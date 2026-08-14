@@ -31,7 +31,7 @@ faq:
   - q: "Siapa yang merujuk kes ke Mahkamah Perusahaan sekarang?"
     a: "Sejak 1 Januari 2021, Ketua Pengarah Perhubungan Perusahaan (KPPP) merujuk kes yang gagal diselesaikan semasa perdamaian terus ke Mahkamah Perusahaan. Budi bicara Menteri Sumber Manusia telah dimansuhkan oleh pindaan 2020."
   - q: "Bagaimana kesatuan sekerja memperoleh pengiktirafan?"
-    a: "Kesatuan menyerahkan tuntutan pengiktirafan kepada majikan. Majikan mesti mengiktiraf atau menyatakan sebab penolakan dalam tempoh yang ditetapkan seksyen 9 (dilaporkan 21 hari). Jika ditolak, perkara dirujuk kepada KPPP yang boleh mengadakan undian sulit dan menyemak kekompetenan kesatuan melalui Ketua Pengarah Kesatuan Sekerja."
+    a: "Kesatuan menyerahkan tuntutan pengiktirafan kepada majikan. Majikan mesti, dalam tempoh 21 hari di bawah seksyen 9(3), sama ada mengiktiraf kesatuan atau memberitahu secara bertulis alasan penolakan. Jika ditolak, perkara dirujuk kepada KPPP yang boleh mengadakan undian sulit dan menyemak kekompetenan kesatuan melalui Ketua Pengarah Kesatuan Sekerja."
 
 lang: "ms"
 masterLanguage: "ms"
@@ -39,14 +39,11 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
+publishedBy: "ashton-tan"
 reviewer: "ashton-tan"
-reviewed: 2026-08-08
+reviewed: 2026-08-14
 reviewDue: 2027-08-08
-version: "0.2"
-verificationNeeded:
-  - "Tempoh respons pengiktirafan kesatuan 21 hari di bawah seksyen 9(3): fakta betul tetapi belum disokong oleh sumber primer yang diambil — sahkan terhadap teks statut semasa sebelum diterbitkan sebagai angka pasti."
-  - "Tarikh pindaan yang memperkenalkan Jadual Kedua / pengecualian pendapatan masa depan: sumber (Thomas Philip) menyebut 'pada 2007', tetapi had gaji tertunggak (Akta A1300) dilaporkan berkuat kuasa 2008 — sahkan tarikh gazet berbanding tarikh berkuat kuasa yang tepat."
-  - "Angka 72% undian sulit berasal daripada kes tertentu (Adabi Consumer Industries [2023]); ia bukan ambang berkanun — pastikan pembaca tidak menganggapnya sebagai peratusan minimum wajib."
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-08-07
@@ -56,9 +53,16 @@ revisions:
     date: 2026-08-07
     change: "Correction pass: fixed broken Industrial Court FAQ URL, re-verified every hard figure against fetched sources, softened unsourced 21-day recognition period, added verificationNeeded."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-08-07
+updated: 2026-08-14
 sources:
+  - title: "Laws of Malaysia — Industrial Relations Act 1967 (Act 177), consolidated reprint (updated as at 1 November 2021)"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1690019_BI/010721_Act%20177_final.pdf"
+    publisher: "Attorney General's Chambers of Malaysia (lom.agc.gov.my)"
   - title: "Malaysian Industrial Relations (Amendment) Act 2020 seeks to expedite dispute resolution process"
     url: "https://www.allenandgledhill.com/publication/articles/15088/my_malaysian-industrial-relations-amendment-act-2020-seeks-to-expedite-dispute-resolution-process"
     publisher: "Allen & Gledhill"
@@ -102,7 +106,7 @@ Satu perbezaan penting yang sering disalah faham: APP 1967 melindungi semua **"w
 
 Sebelum sesebuah kesatuan boleh berunding bagi pihak pekerja, ia mesti diiktiraf. Prosesnya bermula apabila kesatuan menyerahkan tuntutan pengiktirafan bertulis kepada majikan.
 
-Majikan yang menerima tuntutan mesti, dalam tempoh yang diperuntukkan di bawah seksyen 9 (dilaporkan **21 hari**), sama ada mengiktiraf kesatuan itu atau memberitahu kesatuan secara bertulis alasan penolakan. Jika majikan enggan mengiktiraf, kesatuan boleh membawa perkara itu kepada Ketua Pengarah Perhubungan Perusahaan (KPPP) untuk campur tangan di bawah seksyen 9. (Angka tempoh 21 hari ini harus disemak terhadap teks statut semasa sebelum digunakan sebagai fakta muktamad — lihat nota pengesahan.)
+Majikan yang menerima tuntutan mesti, dalam tempoh **21 hari** di bawah seksyen 9(3), sama ada mengiktiraf kesatuan itu atau memberitahu kesatuan secara bertulis alasan penolakan. Selepas itu, seksyen 9(4) memberi kesatuan pekerja tempoh 14 hari untuk melaporkan penolakan atau ketidakpatuhan kepada Ketua Pengarah Perhubungan Perusahaan (KPPP), yang boleh campur tangan di bawah seksyen 9.
 
 KPPP kemudian mempunyai beberapa kuasa penyiasatan:
 
@@ -110,7 +114,7 @@ KPPP kemudian mempunyai beberapa kuasa penyiasatan:
 - Merujuk kepada Ketua Pengarah Kesatuan Sekerja untuk memastikan **kekompetenan** kesatuan mewakili golongan pekerja berkenaan.
 - Memasuki tempat kerja untuk memeriksa rekod atau **menjalankan undian sulit** (secret ballot).
 
-Undian sulit dikendalikan oleh KPPP mengikut Peraturan 6 hingga 13 Peraturan-Peraturan Perhubungan Perusahaan 2009. Kesatuan biasanya perlu menunjukkan sokongan majoriti — dalam satu kes yang dilaporkan (Adabi Consumer Industries), lebih 72% pekerja disahkan sebagai ahli kesatuan melalui undian sulit. Setelah pengiktirafan diberi, majikan wajib berunding secara suci hati untuk membentuk perjanjian kolektif.
+Undian sulit dikendalikan oleh KPPP mengikut Peraturan 6 hingga 13 Peraturan-Peraturan Perhubungan Perusahaan 2009. Seksyen 9 tidak menetapkan sebarang peratusan sokongan berkanun yang tetap — di bawah seksyen 9(4A) KPPP memastikan peratusan pekerja yang menyokong kesatuan melalui undian sulit, dan di bawah seksyen 9(5) memberikan keputusannya berdasarkan majoriti. Angka tertentu berbeza dari kes ke kes: dalam satu kes yang dilaporkan (Adabi Consumer Industries), lebih 72% pekerja disahkan sebagai ahli kesatuan melalui undian sulit — angka ilustratif kes itu, bukan ambang minimum wajib. Setelah pengiktirafan diberi, majikan wajib berunding secara suci hati untuk membentuk perjanjian kolektif.
 
 Pindaan 2020 turut memperkenalkan konsep **"hak rundingan tunggal"** (sole bargaining rights) melalui seksyen 12A dan 12B, dan memendekkan tempoh halangan bagi tuntutan bersaing daripada tiga tahun kepada satu tahun.
 
@@ -156,7 +160,7 @@ Mahkamah boleh menolak sebahagian jumlah ini jika pekerja telah memperoleh penda
 
 **3. Pampasan sebagai ganti pengembalian (compensation in lieu of reinstatement).** Diberi apabila pengembalian tidak sesuai. Ia dikira **satu bulan gaji terakhir bagi setiap tahun perkhidmatan lengkap**, mengikut Nota Amalan No. 1 Tahun 1987 (nota amalan ini tiada kuasa undang-undang mengikat dan mahkamah mengekalkan budi bicara). Mahkamah menilai jumlah berdasarkan "ekuiti dan hati nurani yang baik" di bawah seksyen 30(5).
 
-Menurut Jadual Kedua APP 1967, award bagi kehilangan pendapatan masa depan (future earnings) tidak termasuk dalam remedi Mahkamah Perusahaan — satu sekatan yang, menurut sumber guaman, diperkenalkan menerusi pindaan yang memasukkan Jadual Kedua sekitar 2007 (tarikh berkuat kuasa yang tepat harus disemak; lihat nota pengesahan). Kos jarang diberi kecuali dalam keadaan luar biasa.
+Menurut Jadual Kedua APP 1967, award bagi kehilangan pendapatan masa depan (future earnings) tidak termasuk dalam remedi Mahkamah Perusahaan. Jadual Kedua ini dimasukkan oleh Akta A1322 (Akta Perhubungan Perusahaan (Pindaan) 2007), yang berkuat kuasa pada 28 Februari 2008, dan mengehadkan gaji tertunggak kepada tidak melebihi 24 bulan dari tarikh pembuangan berdasarkan gaji terakhir. Kos jarang diberi kecuali dalam keadaan luar biasa.
 
 Bagi award kewangan, pindaan 2020 memperkenalkan **faedah 8% setahun** di bawah seksyen 30(1A), dikira bermula pada hari ke-31 dari tarikh award dibuat — satu langkah pencegahan supaya majikan tidak melengah-lengahkan pembayaran.
 

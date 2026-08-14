@@ -37,10 +37,6 @@ faq:
   - q: "Is there still a separate Part VIII on maternity protection for lower-paid employees?"
     a: "Maternity protection now sits in Part IX and applies to female employees generally. Maternity leave is 98 consecutive days under s.37, and s.41A prohibits terminating a pregnant employee or an employee suffering from an illness arising out of her pregnancy except for misconduct, wilful breach of contract, or closure of the business."
 
-verificationNeeded:
-  - "Confirm whether any Employment (Amendment) Act after Act A1651 has changed the RM4,000 First Schedule threshold, against lom.agc.gov.my"
-  - "Confirm the current gazetted list of public holidays applied under s.60D(1)(b) for the relevant state"
-
 obligations:
   - what: "Respond in writing to a flexible working arrangement application"
     trigger: "change"
@@ -76,9 +72,10 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-07-22
+reviewed: 2026-08-14
 reviewDue: 2027-07-22
-version: "0.2"
+publishedBy: "ashton-tan"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-20
@@ -86,6 +83,10 @@ revisions:
   - version: "0.2"
     date: 2026-07-21
     change: "Corrected answer field to say six provisions switch off above RM4,000 (was Five), matching the body table, keyTakeaways and FAQ 1."
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
 updated: 2026-07-20
 sources:

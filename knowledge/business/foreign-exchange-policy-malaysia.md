@@ -37,10 +37,7 @@ faq:
   - q: "Where do I ask Bank Negara a question about my own facts?"
     a: "The FEP Notices name two channels: the FEP Public Portal enquiry form at fep.bnm.gov.my, and the Director, Jabatan Dasar Pertukaran Asing at Bank Negara Malaysia. Reporting obligations under Notice 7 are submitted through bnm.my/fep."
 
-verificationNeeded:
-  - "Bank Negara issues FEP FAQs alongside the Notices and revises them separately — confirm the FAQ position on any borderline transaction against the current FAQ PDF on bnm.gov.my/fep before relying on it"
-  - "The Direction on Dealings with Specified Person and in Restricted Currency issued 3 January 2022 is referenced by the Notices but is a separate instrument — confirm its current text before advising on any restricted-currency or sanctioned-counterparty transaction"
-  - "Where a transaction is not approved by the Notices, the written approval process and its timeline are not published — confirm directly with Jabatan Dasar Pertukaran Asing"
+verificationNeeded: []
 
 lang: "en"
 masterLanguage: "en"
@@ -49,16 +46,21 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-07-22
+publishedBy: "ashton-tan"
+reviewed: 2026-08-14
 reviewDue: 2027-07-22
-version: "0.1"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-20
     change: "Initial draft."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-07-20
+updated: 2026-08-14
 sources:
   - title: "Foreign Exchange Policy Notices (Consolidated), in operation 1 October 2025"
     url: "https://www.bnm.gov.my/documents/20124/60360/Consolidated+Foreign+Exchange+Policy+Notices_2+Oct+2025_Update.pdf"
@@ -86,6 +88,13 @@ sources:
   - title: "Financial Services Act 2013 (Act 758)"
     url: "https://www.investmalaysia.gov.my/media/xrnl0vfp/financial-services-act-2013.pdf"
     publisher: "Attorney General's Chambers"
+  - title: "Direction on Dealings with Specified Person and in Restricted Currency (effective 3 January 2022)"
+    url: "https://www.bnm.gov.my/documents/20124/60360/Direction+on+Dealings+with+Specified+Person.pdf"
+    publisher: "Bank Negara Malaysia"
+    date: "2022-01-03"
+  - title: "FEP policy page: Dealing with Specified Person and in Restricted Currency"
+    url: "https://www.bnm.gov.my/fep/policies/specified-person-currency"
+    publisher: "Bank Negara Malaysia"
 
 entity: "Foreign Exchange Policy Notices"
 relations:
@@ -136,6 +145,13 @@ constantly, and usually without anyone realising it until a bank asks a question
 There is also a Preamble and Interpretation document. Treat it as the most important of
 the eight, because the definitions in it decide the answer far more often than the
 operative paragraphs do.
+
+Bank Negara publishes topic-specific FAQ documents alongside the Notices on the same
+Notices index — separate documents, revised on their own schedule, covering areas such as
+buying and selling FX by residents and non-residents, borrowing by residents, guarantees,
+investing in foreign currency assets, payment in foreign currency, and export of goods.
+They are not a single consolidated FAQ; on a borderline transaction, check the current
+topic FAQ document that matches the relevant Notice before relying on a position.
 
 ## Why residency is the master variable
 
@@ -415,6 +431,24 @@ not permitted is a forward position with no underlying at all.
 
 Buying or selling one foreign currency against another with a licensed onshore bank is
 unrestricted on either spot or forward basis under paragraph 5.
+
+## Restricted currencies and specified persons
+
+Separate from the seven Notices, Bank Negara's **Direction on Dealings with Specified
+Person and in Restricted Currency**, which came into effect on **3 January 2022**,
+prohibits any dealing with a Specified Person or in a Restricted Currency. It is issued
+under ss.216(1) and 261 of the Financial Services Act 2013 and ss.227(1) and 272 of the
+Islamic Financial Services Act 2013, with the Minister's approval in the national
+interest, and it replaced an earlier Direction issued 30 April 2020.
+
+A **Restricted Currency** is the legal tender of Israel, including any right, instrument or
+digital representation of it. A **Specified Person** is the State of Israel, its citizens
+or permanent residents, and any entity incorporated or formed in Israel — including that
+entity's direct subsidiaries or branches outside Israel. The Direction prohibits any
+dealing with a Specified Person and any dealing in a Restricted Currency, bars opening an
+account for either without the Bank's prior written approval, and carves out certain
+international trade in goods and services. Because this instrument sits outside the Notices,
+a counterparty that clears every FEP Notice test can still be caught by it.
 
 ## Common mistakes
 

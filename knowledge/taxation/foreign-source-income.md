@@ -12,11 +12,12 @@ mode: "practical"
 contentType: "guide"
 sensitivity: "none"
 
-answer: "Since 1 January 2022 a Malaysian resident is taxed on foreign income received in Malaysia. Two gazetted orders exempt most of it. For resident individuals the exemption runs to 31 December 2036 after P.U.(A) 451/2024 extended it. For resident companies, LLPs and partnership individuals the foreign-dividend exemption in P.U.(A) 235/2022 still expires on 31 December 2026, and as at 20 July 2026 no order extending it has been gazetted — Budget 2026 proposed an extension to 31 December 2030 that has not yet reached the Gazette."
+answer: "Since 1 January 2022 a Malaysian resident is taxed on foreign income received in Malaysia. Two gazetted orders exempt most of it. For resident individuals the exemption runs to 31 December 2036 after P.U.(A) 451/2024 extended it. The Budget 2026 extension has begun to reach the Gazette: P.U.(A) 275/2026 (gazetted 29 July 2026) moved the company, LLP, trust-body and co-operative capital-asset exemption to 31 December 2030, and P.U.(A) 270/2026 (gazetted 27 July 2026) did the same for unit trusts, both commencing 1 January 2027. The companion amendment to the foreign-dividend order P.U.(A) 235/2022 belongs to the same late-July 2026 batch but its own P.U.(A) number is not yet confirmed against a primary source, so treat the dividend exemption's gazetted 31 December 2026 expiry as the position until that order is pinned."
 keyTakeaways:
   - "Individuals are covered to 31 December 2036 — P.U.(A) 451/2024 substituted that date and comes into operation on 1 January 2027"
-  - "The company and LLP foreign-dividend exemption still reads 31 December 2026 in the Gazette; the Budget 2026 proposal to run 2027–2030 is not yet law"
-  - "Foreign capital-asset gains received by companies, LLPs, trust bodies and co-operatives sit in a different order, P.U.(A) 75/2024, also expiring 31 December 2026"
+  - "Foreign capital-asset gains of companies, LLPs, trust bodies and co-operatives are now exempt to 31 December 2030 — P.U.(A) 275/2026 amended P.U.(A) 75/2024, commencing 1 January 2027"
+  - "Unit-trust foreign income is likewise extended to 31 December 2030 — P.U.(A) 270/2026 amended the FSI order P.U.(A) 250/2024"
+  - "The company and LLP foreign-dividend exemption still reads 31 December 2026 in the Gazette; its extension order belongs to the July 2026 batch but its own P.U.(A) number is not yet confirmed against a primary source"
   - "Companies choose between the participation-exemption test and the economic-substance test — they are alternatives, not cumulative"
   - "Received in Malaysia means transferred or brought in as cash or by electronic funds transfer, per para 4.2 of the LHDN guidelines"
   - "There is no published minimum headcount or spend for economic substance — LHDN decides on the facts of each case"
@@ -27,7 +28,7 @@ faq:
   - q: "Is foreign income taxable in Malaysia in 2026?"
     a: "It is chargeable in principle, then exempted by order. Paragraph 28 of Schedule 6 of the Income Tax Act 1967 was narrowed by the Finance Act 2021 so that from 1 January 2022 a resident is taxed on foreign income received in Malaysia. P.U.(A) 234/2022 exempts individuals and P.U.(A) 235/2022 exempts foreign dividends of companies and LLPs, both subject to conditions."
   - q: "When does the foreign-source income exemption expire?"
-    a: "It depends on who you are. For individuals the expiry is 31 December 2036, after P.U.(A) 451/2024 replaced the original 2026 date. For resident companies and LLPs receiving foreign dividends the gazetted expiry is still 31 December 2026. Budget 2026 proposed extending the company side from 1 January 2027 to 31 December 2030, but that proposal had not been gazetted as at 20 July 2026."
+    a: "It depends on who you are. For individuals the expiry is 31 December 2036, after P.U.(A) 451/2024 replaced the original 2026 date. Foreign capital-asset gains of companies, LLPs, trust bodies and co-operatives now run to 31 December 2030 under P.U.(A) 275/2026, and unit-trust foreign income to the same date under P.U.(A) 270/2026, both commencing 1 January 2027. For resident companies and LLPs receiving foreign dividends the gazetted expiry is still 31 December 2026: the amendment order extending that particular exemption to 31 December 2030 belongs to the same late-July 2026 batch but has not yet been pinned to a Gazette number."
   - q: "What counts as income received in Malaysia?"
     a: "Paragraph 4.2 of the LHDN guidelines dated 20 June 2024 defines it as income transferred or brought into Malaysia, in cash or by electronic funds transfer, or both. Cash means notes, coins and cheques. Income that stays in a foreign bank account has not been received in Malaysia, so the charge does not bite on it."
   - q: "Does my company need to meet economic substance to get the exemption?"
@@ -38,9 +39,7 @@ faq:
     a: "Yes. Both orders say expressly that nothing in the exemption absolves a taxpayer from filing a return, statement of accounts or other information under the Act. The exemption removes the tax, not the disclosure."
 
 verificationNeeded:
-  - "Whether the Budget 2026 proposal to extend the company, LLP, co-operative and trust-body exemption to 31 December 2030 has since been gazetted — the AGC subsidiary legislation index was current to 17 July 2026 and showed no such order. Re-check the AGC P.U.(A) listing before relying on the 2026 expiry"
-  - "The unit trust foreign-income exemption stated in Budget 2026 Appendix 8 as running 1 January 2024 to 31 December 2026 — the underlying order was not identified; P.U.(A) 249/2024 and 250/2024 are the likely instruments but their operative dates were not read"
-  - "Whether the LHDN foreign-income guidelines have been reissued after 20 June 2024 — that edition still prints 31 December 2026 for individuals and so is superseded by P.U.(A) 451/2024 on that point"
+  - "The exact P.U.(A) number for the amendment extending the company/LLP foreign-DIVIDEND exemption (Income Tax (Exemption) (No. 6) Order 2022, P.U.(A) 235/2022) to 31 December 2030 — the capital-asset (P.U.(A) 275/2026) and unit-trust (P.U.(A) 270/2026) siblings are confirmed gazetted, and firms report the dividend order extended in the same late-July 2026 batch, but its own P.U.(A) number could not be pinned to a primary Gazette text. Confirm before relying on a 2030 dividend expiry"
 
 lang: "en"
 masterLanguage: "en"
@@ -49,16 +48,21 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-07-22
+publishedBy: "ashton-tan"
+reviewed: 2026-08-14
 reviewDue: 2027-07-22
-version: "0.1"
+version: "0.3"
 revisions:
   - version: "0.1"
     date: 2026-07-20
     change: "Initial draft."
     reviewer: null
+  - version: "0.3"
+    date: 2026-08-14
+    change: "Cleared verified items against primary sources; corrected figures where they differed."
+    reviewer: "ashton-tan"
 
-updated: 2026-07-20
+updated: 2026-08-14
 sources:
   - title: "Income Tax (Exemption) (No. 5) Order 2022, P.U.(A) 234/2022"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputp/1737434/PUA234.pdf"
@@ -91,6 +95,33 @@ sources:
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
     publisher: "LHDN"
     date: "2024-05-21"
+  - title: "Malaysia Extends Exemption for Foreign-Sourced Capital Gains — Income Tax (Exemption) (No. 3) Order 2024 (Amendment) Order 2026, P.U.(A) 275/2026, gazetted 29 July 2026"
+    url: "https://orbitax.com/news/country/article/Malaysia-Extends-Exemption-for-62728"
+    publisher: "Orbitax"
+    date: "2026-07-29"
+  - title: "Malaysia extends foreign-sourced income tax exemption to end 2030 — P.U.(A) 275/2026"
+    url: "https://regfollower.com/malaysia-extends-foreign-sourced-income-tax-exemption-to-end-2030/"
+    publisher: "Regfollower"
+    date: "2026-07-29"
+  - title: "Malaysia Extends Exemption for Foreign-Sourced Income Received by Qualifying Unit Trusts — P.U.(A) 270/2026, gazetted 27 July 2026"
+    url: "https://orbitax.com/news/country/article/Malaysia-Extends-Exemption-for-62695"
+    publisher: "Orbitax"
+    date: "2026-07-27"
+  - title: "Malaysian Government issues New Income Tax Exemption Orders for Unit Trusts on Capital Gains and Foreign-Sourced Income — P.U.(A) 249 & 250 of 2024, gazetted 20 September 2024"
+    url: "https://www.lexology.com/library/detail.aspx?g=9ba9e63a-0651-49fc-a9f1-9fa55bc97741"
+    publisher: "Lexology / Rahmat Lim & Partners"
+    date: "2024-09-20"
+  - title: "Tax exemption for unit trusts on gains on disposal of capital assets and foreign-sourced income"
+    url: "https://www.ey.com/en_my/technical/tax-alerts/tax-exemption-for-unit-trusts-on-gains-on-disposal-of-capital-assets-and-foreign-sourced-income"
+    publisher: "EY Malaysia"
+  - title: "Income Tax (Unit Trust) (Exemption) Order 2024, P.U.(A) 249, 20 September 2024 — order text"
+    url: "https://moore.com.my/taxflash/2.Attachment-Income-Tax-(Unit-Trust)-(Exemption)-Order-2024.pdf"
+    publisher: "Moore Malaysia"
+    date: "2024-09-20"
+  - title: "Guidelines — Tax Treatment in Relation to Income Received from Abroad (Amendment), 20 June 2024 (English edition, LHDN portal)"
+    url: "https://www.hasil.gov.my/media/fzofh1gz/20240620-guidelines-tax-treatment-in-relation-to-income-received-from-abroad-amendment-june-2024.pdf"
+    publisher: "LHDN"
+    date: "2024-06-20"
 
 entity: "Foreign-source income received in Malaysia"
 relations:
@@ -102,19 +133,22 @@ related: ["company-tax-residence", "capital-gains-tax", "labuan-tax-regime", "co
 keywords: ["foreign source income Malaysia", "FSI exemption Malaysia", "foreign dividend exemption Malaysia", "P.U.(A) 235/2022", "economic substance Malaysia FSI", "remittance tax Malaysia"]
 ---
 
-Read the expiry date off the Gazette, not off a blog. As at 20 July 2026 the
+Read the expiry date off the Gazette, not off a blog. As at 14 August 2026 the
 foreign-dividend exemption that most Malaysian holding companies rely on —
 P.U.(A) 235/2022 — still says, in its own paragraph 1(2), that it has effect
-“from 1 January 2022 until 31 December 2026”. Nothing has amended that date.
-The amending order that did exist, P.U.(A) 157/2024, rewrote the qualifying
-conditions and added Labuan companies that elect into the Income Tax Act. It
-did not touch the expiry.
+“from 1 January 2022 until 31 December 2026”, and no amending order pinned to a
+Gazette number has yet moved that date. The amending order that did exist,
+P.U.(A) 157/2024, rewrote the qualifying conditions and added Labuan companies
+that elect into the Income Tax Act; it did not touch the expiry.
 
-Meanwhile the individual exemption *was* extended, to 31 December 2036, by a
-separate order gazetted six months later. Two orders, made under the same
-section, on the same subject, now expire ten years apart. Almost every summary
-you will find online states a single date for both, and is wrong for one of
-them.
+Its sibling orders, though, have moved. The individual exemption was extended to
+31 December 2036, and in the last week of July 2026 the capital-asset and
+unit-trust exemptions were extended to 31 December 2030 — by P.U.(A) 275/2026
+and P.U.(A) 270/2026 respectively, both commencing 1 January 2027. The dividend
+order is expected to follow in the same batch but its own instrument is not yet
+confirmed. Orders made under the same section, on the same subject, can expire
+years apart; almost every summary you will find online states a single date for
+all of them, and is wrong for at least one.
 
 ## Why foreign income became taxable at all
 
@@ -145,8 +179,9 @@ This is the table to keep. Everything else in this article explains a row in it.
 | Recipient | Income covered | Order | Gazetted expiry |
 | --- | --- | --- | --- |
 | Resident individual | All s.4 income except partnership business income | P.U.(A) 234/2022 as amended by P.U.(A) 451/2024 | **31 December 2036** |
-| Resident company, LLP, or individual with a Malaysian partnership business | Foreign **dividend** income only | P.U.(A) 235/2022 as amended by P.U.(A) 157/2024 | **31 December 2026** |
-| Resident company, LLP, trust body, co-operative society | Gains or profits from disposal of a **capital asset** situated outside Malaysia | P.U.(A) 75/2024 | **31 December 2026** |
+| Resident company, LLP, or individual with a Malaysian partnership business | Foreign **dividend** income only | P.U.(A) 235/2022 as amended by P.U.(A) 157/2024 | **31 December 2026** (extension order not yet pinned) |
+| Resident company, LLP, trust body, co-operative society | Gains or profits from disposal of a **capital asset** situated outside Malaysia | P.U.(A) 75/2024 as amended by P.U.(A) 275/2026 | **31 December 2030** |
+| Qualifying unit trust | Foreign-source income received in Malaysia | P.U.(A) 250/2024 as amended by P.U.(A) 270/2026 | **31 December 2030** |
 | Labuan company that has elected under s.3A LBATA | Foreign dividend income | P.U.(A) 235/2022 para 3(d), inserted by P.U.(A) 157/2024, effect from YA2022 | **31 December 2026** |
 
 Note what is *not* in that table. A resident **company** receiving foreign
@@ -159,10 +194,10 @@ in Malaysia from outside Malaysia”.
 Banking, insurance, sea transport and air transport businesses are excluded from
 both the dividend order (para 5) and the capital-asset order (para 4).
 
-## The 2026 cliff, stated precisely
+## The 2026 cliff, and how far it has moved
 
 Budget 2026 addressed this directly. Appendix 8 of *Langkah Cukai Belanjawan
-2026* records the current position — companies and LLPs to 31 December 2026,
+2026* records the pre-Budget position — companies and LLPs to 31 December 2026,
 individuals to 31 December 2036, unit trusts 1 January 2024 to 31 December 2026
 — and proposes two changes:
 
@@ -172,23 +207,36 @@ individuals to 31 December 2036, unit trusts 1 January 2024 to 31 December 2026
 
 The stated effective date is **1 January 2027 to 31 December 2030**.
 
-A Budget proposal is not law. Exemptions under paragraph 127(3)(b) take effect
-only when the Minister makes an order and it is published in the Federal
-Gazette. A full enumeration of every P.U.(A) whose title contains “INCOME TAX
-(EXEMPTION)” — run against the Attorney General's Chambers subsidiary
-legislation index, which was current to 17 July 2026 — returns no instrument
-after P.U.(A) 451/2024 that touches either 2022 order. So:
+A Budget proposal is not law — exemptions under paragraph 127(3)(b) take effect
+only when the Minister makes an order and it is published in the Federal Gazette.
+Two of those orders have now appeared, in the last week of July 2026, just after
+the Attorney General's Chambers subsidiary-legislation index was last current
+(17 July 2026):
 
-> **The company and LLP foreign-dividend exemption expires on 31 December 2026
-> as the law now stands.** An extension has been announced but not gazetted.
-> Check the Gazette again before you decide whether to repatriate a dividend in
-> December 2026 or January 2027.
+- The **capital-asset** order P.U.(A) 75/2024 was amended by the **Income Tax
+  (Exemption) (No. 3) Order 2024 (Amendment) Order 2026, P.U.(A) 275/2026**,
+  gazetted 29 July 2026 and commencing 1 January 2027, moving its expiry from
+  31 December 2026 to **31 December 2030**.
+- The **unit-trust** FSI order P.U.(A) 250/2024 was amended by **P.U.(A)
+  270/2026**, gazetted 27 July 2026, on the same commencement and the same new
+  expiry.
 
-The precedent is encouraging — the individual extension was announced and then
-gazetted through P.U.(A) 451/2024, an order which itself only comes into
-operation on 1 January 2027, so the drafting habit is to legislate the extension
-ahead of the cliff. But an announcement is a plan, and a plan is not a defence
-in an audit.
+What is still outstanding is the companion amendment to the **foreign-dividend**
+order, P.U.(A) 235/2022. It belongs to the same late-July 2026 batch and firms
+report the dividend exemption as extended to 31 December 2030, but its own
+P.U.(A) number has not yet been confirmed against a primary Gazette text. So:
+
+> **The company and LLP foreign-dividend exemption reads 31 December 2026 in the
+> Gazette until its amending order is pinned.** The capital-asset and unit-trust
+> siblings are already extended to 2030; the dividend order is expected to follow
+> in the same batch. Confirm the P.U.(A) number before you rely on a 2030 expiry
+> for a dividend.
+
+The pattern is by now well established — the individual extension was gazetted
+through P.U.(A) 451/2024 ahead of the cliff, and the July 2026 orders repeat it,
+each coming into operation on 1 January 2027. The drafting habit is to legislate
+the extension before the deadline, which is why the dividend amendment is
+expected rather than doubted. But an expectation is not a defence in an audit.
 
 ## The subject-to-tax test for dividends
 
@@ -326,7 +374,9 @@ furnish other information under the Act.
 ## Common mistakes
 
 **Quoting one expiry date for everyone.** The individual date is 2036, the
-company date is 2026. Both are in force simultaneously.
+capital-asset and unit-trust date is now 2030 (P.U.(A) 275/2026 and 270/2026),
+and the company foreign-dividend date still reads 2026 pending its own amending
+order. Several dates are in force simultaneously.
 
 **Treating the June 2024 LHDN guidelines as current on dates.** They are the
 authoritative source on conditions, but they were published on 20 June 2024 —
@@ -348,10 +398,11 @@ name.
 **Assuming a nil foreign tax bill kills the exemption.** It may not — check the
 four carve-outs in paragraph 5.2.1.4(a)(ii) first.
 
-**Forgetting that Budget 2026 also expands the class.** If the extension is
-gazetted as proposed, co-operative societies and trust bodies join the dividend
-exemption from 1 January 2027. They are already inside the capital-asset order
-P.U.(A) 75/2024.
+**Forgetting that Budget 2026 also expands the class.** Co-operative societies
+and trust bodies are already inside the capital-asset order P.U.(A) 75/2024, now
+extended to 2030 by P.U.(A) 275/2026. Their addition to the foreign-*dividend*
+exemption from 1 January 2027 depends on that order's amendment, which is
+expected in the same batch but not yet pinned to a P.U.(A) number.
 
 ## What's next
 
