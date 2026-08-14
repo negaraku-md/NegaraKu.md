@@ -1,46 +1,55 @@
 ---
 topicId: "MY-GOV-0096"
-title: "Ministry of Housing and Local Government (KPKT)"
-seoTitle: "Ministry of Housing & Local Government (KPKT)"
+title: "The Ministry of Housing and Local Government (KPKT): Functions, Agencies, and the Laws It Administers"
+seoTitle: "KPKT: Ministry of Housing & Local Government"
+socialTitle: "One ministry runs Malaysia's fire brigades, your rubbish collection, and the tribunal for your housing dispute"
 slug: "ministry-of-housing-local-government-kpkt"
 category: "government"
-subcategory: ["federal-ministry"]
-summary: "The federal ministry responsible for housing, local government, town planning, fire and rescue, landscape, and solid waste management in Peninsular Malaysia."
+subcategory: ["ministries"]
+summary: "KPKT (Kementerian Perumahan dan Kerajaan Tempatan) is the Malaysian federal ministry responsible for affordable housing, local government, town planning, fire and rescue, solid waste, landscaping, and moneylender/pawnbroker licensing, overseeing agencies such as JBPM (Fire and Rescue), PLANMalaysia, and the housing strata tribunal."
 tier: "3"
 mode: "practical"
 contentType: "agency"
 sensitivity: "none"
-answer: "The Ministry of Housing and Local Government (Kementerian Perumahan dan Kerajaan Tempatan, KPKT) is the Malaysian federal ministry in charge of affordable housing, local authorities, town and country planning, fire and rescue services, national landscape, and solid waste management. It oversees four federal departments and several statutory bodies, and administers cornerstone laws such as the Local Government Act 1976 and the Town and Country Planning Act 1976. Its headquarters is in Precinct 4, Putrajaya."
+answer: "The Ministry of Housing and Local Government — Kementerian Perumahan dan Kerajaan Tempatan, or KPKT — is the Malaysian federal ministry that runs affordable housing, local councils, town planning, fire and rescue, solid waste, landscaping, and community credit. It works through eight main functions, delivered by federal departments such as the Fire and Rescue Department (JBPM), the National Housing Department (JPN), and PLANMalaysia, each backed by its own Act of Parliament. Its headquarters is in Precinct 4, Putrajaya, and it is led by Minister Nga Kor Ming."
 keyTakeaways:
-  - "KPKT is led by Minister Nga Kor Ming, in office since 3 December 2022, with Deputy Minister Aiman Athirah Sabu since 12 December 2023."
-  - "The ministry was renamed back to 'Ministry of Housing and Local Government (KPKT)' by Cabinet decision on 13 December 2023, having briefly been the Ministry of Local Government Development from December 2022."
-  - "It administers major statutes including the Local Government Act 1976 (Act 171), the Town and Country Planning Act 1976 (Act 172), and the Fire Services Act 1988 (Act 341)."
-  - "Core federal departments include the Fire and Rescue Department (JBPM), Local Government Department (JKT), National Housing Department (JPN), PLANMalaysia, National Landscape Department (JLN), and National Solid Waste Management Department (JPSPN)."
-  - "Statutory and linked bodies include SWCorp, the Tribunal for Housing and Strata Management (TPPS), PR1MA, and SPNB."
-appliesTo: "Homebuyers, developers, local-authority officers, and residents dealing with housing, planning, licensing, or municipal services in Peninsular Malaysia."
+  - "KPKT works through eight main functions: affordable housing, urban planning, landscape development, local government empowerment, firefighting and rescue, solid waste management, community empowerment, and community credit and pawnbroker companies."
+  - "It was renamed from the Ministry of Local Government Development to the Ministry of Housing and Local Government by a Cabinet decision on 13 December 2023, announced 26 December 2023 and gazetted under the Ministerial Functions Act 1969."
+  - "Core federal departments are the Fire and Rescue Department (JBPM), the Local Government Department (JKT), the National Housing Department (JPN), and the National Solid Waste Management Department (JPSPN)."
+  - "Statutes it administers include the Local Government Act 1976 (Act 171), the Town and Country Planning Act 1976 (Act 172), the Housing Development (Control and Licensing) Act 1966 (Act 118), the Strata Management Act 2013 (Act 757), and the Solid Waste and Public Cleansing Management Act 2007 (Act 672)."
+  - "The current minister is Nga Kor Ming and the deputy minister is Datuk Hajah Aiman Athirah binti Sabu; KPKT targets 500,000 housing units for B40 and M40 groups under the 12th Malaysia Plan."
+appliesTo: "Homebuyers, strata residents, developers, local-authority officers, and residents dealing with housing, planning, fire safety, waste collection, or licensing in Peninsular Malaysia."
 faq:
-  - q: "What does KPKT stand for?"
-    a: "KPKT is the Malay acronym for Kementerian Perumahan dan Kerajaan Tempatan — the Ministry of Housing and Local Government."
-  - q: "Which department handles fire and rescue?"
-    a: "The Fire and Rescue Department of Malaysia (Jabatan Bomba dan Penyelamat Malaysia, JBPM) sits under KPKT and enforces the Fire Services Act 1988."
-  - q: "Does KPKT cover Sabah and Sarawak?"
-    a: "Local government and housing are largely state matters in Sabah and Sarawak, which run their own ministries; KPKT's local-government role is centred on Peninsular Malaysia and the Federal Territories."
+  - q: "Which KPKT body handles a strata or housing-delivery dispute?"
+    a: "The Tribunal for Housing and Strata Management adjudicates buyer and strata disputes; strata management is governed by the Strata Management Act 2013 (Act 757) and developer licensing by the Housing Development (Control and Licensing) Act 1966 (Act 118)."
+  - q: "Which department runs fire and rescue?"
+    a: "The Fire and Rescue Department of Malaysia (Jabatan Bomba dan Penyelamat Malaysia, JBPM) is the federal department under KPKT responsible for firefighting and rescue."
+  - q: "What was KPKT called before, and when did the name change?"
+    a: "It was the Ministry of Local Government Development; the Cabinet decided to rename it the Ministry of Housing and Local Government on 13 December 2023, announced on 26 December 2023."
 lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 status: "in-review"
 aiAssisted: true
 reviewer: null
-version: "0.1"
+version: "0.2"
 revisions:
   - version: "0.1"
     date: 2026-08-10
     change: "Initial AI draft."
     reviewer: null
+  - version: "0.2"
+    date: 2026-08-14
+    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
+    reviewer: null
 verificationNeeded:
-  - "Exact statute citation numbers for Housing Development (Control and Licensing) Act 1966 (Act 118), Strata Management Act 2013 (Act 757), Solid Waste and Public Cleansing Management Act 2007 (Act 672), Moneylenders Act 1951 (Act 400) and Pawnbrokers Act 1972 (Act 81) were drawn from general legal knowledge, not directly re-confirmed against AGC text in this draft."
-  - "Current Secretary-General name (M Noor Azman bin Taib per Wikipedia) should be confirmed against the KPKT official site before publication."
-updated: 2026-08-10
+  - "Exact current official vision and mission wording (the kpkt.gov.my homepage did not expose a formal vision/mission statement in fetched content)."
+  - "Whether PR1MA (Perbadanan PR1MA Malaysia) and URBANICE Malaysia currently sit formally under KPKT versus another ministry — listed on the portal, but reporting lines shift with cabinet reshuffles; confirm against current gazette."
+  - "Current-year federal budget allocation for KPKT."
+  - "Precise institutional lineage dates before 16 May 2013 (predecessor ministries)."
+  - "Exact current count of housing units delivered against the 500,000-unit 12MP target."
+  - "Whether SPNB (Syarikat Perumahan Negara Berhad) remains under KPKT after recent restructuring."
+updated: 2026-08-14
 sources:
   - title: "Ministry of Housing and Local Government (Malaysia)"
     url: "https://en.wikipedia.org/wiki/Ministry_of_Housing_and_Local_Government_(Malaysia)"
@@ -48,55 +57,62 @@ sources:
   - title: "KPKT Now Known As Ministry Of Housing And Local Government"
     url: "https://www.bernama.com/en/news.php?id=2257411"
     publisher: "BERNAMA"
-  - title: "KPKT now known as Ministry of Housing and Local Government"
-    url: "https://www.malaymail.com/news/malaysia/2023/12/26/kpkt-now-known-as-ministry-of-housing-and-local-government/109325"
-    publisher: "Malay Mail"
-  - title: "Official Portal of the Ministry of Housing and Local Government"
+  - title: "Portal Rasmi Kementerian Perumahan dan Kerajaan Tempatan"
     url: "https://www.kpkt.gov.my/"
-    publisher: "KPKT"
-  - title: "Nga Kor Ming"
-    url: "https://en.wikipedia.org/wiki/Nga_Kor_Ming"
+    publisher: "Ministry of Housing and Local Government (KPKT)"
+  - title: "Local Government Act 1976"
+    url: "https://en.wikipedia.org/wiki/Local_Government_Act_1976"
     publisher: "Wikipedia"
-  - title: "I-KPKT Background"
-    url: "https://ikpkt.kpkt.gov.my/en/corporate-info/background/"
-    publisher: "KPKT (I-KPKT)"
-entity: "Ministry of Housing and Local Government (KPKT), Malaysia"
+  - title: "Strata Management Act 2013"
+    url: "https://en.wikipedia.org/wiki/Strata_Management_Act_2013"
+    publisher: "Wikipedia"
+  - title: "Housing Development (Control and Licensing) Act 1966"
+    url: "https://commonlii.org/my/legis/consol_act/hdala1966416/"
+    publisher: "CommonLII"
+  - title: "Solid Waste and Public Cleansing Management Act 2007"
+    url: "https://en.wikipedia.org/wiki/Solid_Waste_and_Public_Cleansing_Management_Act_2007"
+    publisher: "Wikipedia"
+entity: "Ministry of Housing and Local Government (Kementerian Perumahan dan Kerajaan Tempatan, KPKT)"
 relations: []
 related: []
-keywords: ["KPKT", "Kementerian Perumahan dan Kerajaan Tempatan", "Ministry of Housing and Local Government", "Nga Kor Ming", "local government Malaysia", "affordable housing Malaysia", "JBPM", "PLANMalaysia"]
+keywords: ["KPKT", "Kementerian Perumahan dan Kerajaan Tempatan", "Ministry of Housing and Local Government Malaysia", "KPKT fungsi", "KPKT agensi", "JBPM", "PLANMalaysia", "Jabatan Kerajaan Tempatan", "Jabatan Perumahan Negara", "Tribunal Perumahan dan Pengurusan Strata", "SWCorp", "Strata Management Act 2013", "Local Government Act 1976", "Nga Kor Ming", "affordable housing Malaysia B40 M40"]
 ---
 
-The **Ministry of Housing and Local Government** — *Kementerian Perumahan dan Kerajaan Tempatan*, universally known by its Malay acronym **KPKT** — is the Malaysian federal ministry responsible for housing, local government, town and country planning, fire and rescue services, national landscape, and solid waste management. It is headquartered at No. 51, Persiaran Perdana, Precinct 4, Putrajaya, and is currently led by Minister **Nga Kor Ming** (in office since 3 December 2022), with Deputy Minister **Aiman Athirah Sabu** (since 12 December 2023).
+When your rubbish is not collected, when a fire-safety certificate is due, and when a developer hands over your flat two years late — the same federal ministry sits behind all three. The **Ministry of Housing and Local Government**, *Kementerian Perumahan dan Kerajaan Tempatan*, universally known as **KPKT**, is the Malaysian federal ministry for affordable housing, local government, town planning, fire and rescue, solid waste, landscaping, and community credit. Its headquarters is at No. 51, Persiaran Perdana, Precinct 4, Federal Government Administrative Centre, 62100 Putrajaya. The minister is **Nga Kor Ming** and the deputy minister is **Datuk Hajah Aiman Athirah binti Sabu**.
 
-## What KPKT does
+## What are KPKT's main functions?
 
-KPKT translates federal policy into the everyday machinery of urban life: it licenses and monitors housing developers, oversees the country's local authorities (city, municipal and district councils), sets national planning and landscape standards, runs the fire and rescue service, and manages solid waste and public cleansing in the states that have ceded that function to the federal government. Its stated thrust in recent Malaysia Plans has centred on expanding affordable housing for the B40 and M40 income groups and improving the delivery and liveability of towns and cities.
+KPKT organises its work into eight main functions: **affordable housing, urban planning, landscape development, local government empowerment, firefighting and rescue, solid waste management, community empowerment, and community credit and pawnbroker companies**. Its headline housing goal is the construction of **500,000 housing units** nationwide, aimed at the B40 and M40 income groups, under the **12th Malaysia Plan**.
 
-## History and naming
+## Which agency and law sits behind each function?
 
-The ministry traces its origin to **24 May 1964**, when it was formed as the Ministry of Local Government and Housing. Housing and local-government functions were split into separate ministries from 1971 to 1978, then reunited on **18 July 1978** as the Ministry of Housing and Local Government. Following the November 2022 general election it was briefly renamed the **Ministry of Local Government Development**, before a Cabinet decision on **13 December 2023** restored the name Ministry of Housing and Local Government, retaining the "KPKT" acronym; the change was announced on 26 December 2023 and gazetted under the Ministerial Functions Act 1969.
+Most rankings stop at a bulleted agency list. Here is the map that matters: each function, the body that delivers it, and the Act of Parliament it rests on.
 
-## Departments and agencies
-
-KPKT operates through several federal departments and statutory or linked bodies:
-
-| Body | Malay name / acronym | Role |
+| Function | Agency / body | Governing law |
 | --- | --- | --- |
-| Fire and Rescue Department | Jabatan Bomba dan Penyelamat Malaysia (JBPM) | Firefighting, rescue, fire-safety enforcement |
-| Local Government Department | Jabatan Kerajaan Tempatan (JKT) | Coordinates and supports local authorities |
-| National Housing Department | Jabatan Perumahan Negara (JPN) | Developer licensing, low-cost housing |
-| PLANMalaysia | Jabatan Perancangan Bandar dan Desa (JPBD) | Town and country planning |
-| National Landscape Department | Jabatan Landskap Negara (JLN) | Landscape and green-space policy |
-| National Solid Waste Management Dept. | Jabatan Pengurusan Sisa Pepejal Negara (JPSPN) | Solid-waste policy and regulation |
-| SWCorp | Perbadanan Pengurusan Sisa Pepejal dan Pembersihan Awam | Solid-waste and public-cleansing operations |
-| Housing & Strata Management Tribunal | Tribunal Perumahan dan Pengurusan Strata (TPPS) | Adjudicates buyer/strata disputes |
-| PR1MA | Perbadanan PR1MA Malaysia | Affordable housing for middle-income buyers |
-| SPNB | Syarikat Perumahan Negara Berhad | Public and affordable housing delivery |
+| Affordable & regulated housing | National Housing Department (JPN); SPNB | Housing Development (Control and Licensing) Act 1966 (Act 118) |
+| Strata living & disputes | Tribunal for Housing and Strata Management | Strata Management Act 2013 (Act 757) |
+| Urban & rural planning | PLANMalaysia (Federal Dept of Town and Country Planning) | Town and Country Planning Act 1976 (Act 172) |
+| Local government | Local Government Department (JKT) | Local Government Act 1976 (Act 171) |
+| Firefighting & rescue | Fire and Rescue Department (JBPM) | — |
+| Solid waste & cleansing | National Solid Waste Management Dept (JPSPN); SWCorp | Solid Waste and Public Cleansing Management Act 2007 (Act 672) |
+| Landscape | National Landscape Department (JLN) | — |
+| Community credit & pawnbroking | KPKT licensing function | — |
 
-## Key legislation administered
+Federal departments under the ministry include JBPM, JKT, JPN, and JPSPN. Federal agencies include the Tribunal for Housing and Strata Management, the Urban Wellbeing, Housing and Local Government Training Institute (I-KPKT), and SWCorp. The official portal also lists PLANMalaysia, JLN, SPNB, Perbadanan PR1MA Malaysia, and URBANICE Malaysia.
 
-KPKT and its departments enforce a cluster of core statutes, including the **Local Government Act 1976 (Act 171)**, the **Town and Country Planning Act 1976 (Act 172)**, the **Street, Drainage and Building Act 1974 (Act 133)**, the **Fire Services Act 1988 (Act 341)**, the **Housing Development (Control and Licensing) Act 1966 (Act 118)**, the **Strata Management Act 2013 (Act 757)**, and the **Solid Waste and Public Cleansing Management Act 2007 (Act 672)**. It is also the responsible ministry for moneylenders and pawnbrokers regulation.
+## Where do I go for my problem?
+
+- **A delayed or defective housing project:** developer conduct is licensed under the Housing Development (Control and Licensing) Act 1966; monetary claims go to the **Tribunal for Housing and Strata Management**.
+- **A strata / management-corporation dispute:** the **Strata Management Act 2013 (Act 757)** sets the framework and by-laws, and the same tribunal hears the case.
+- **A fire-safety certificate or inspection:** the **Fire and Rescue Department (JBPM)**.
+- **Missed rubbish collection or public cleansing:** in states that have adopted **Act 672**, this runs through **SWCorp** and JPSPN.
+- **Planning approval or a council matter:** your **local authority**, operating under the **Local Government Act 1976** and the **Town and Country Planning Act 1976**.
+
+## When did the ministry get its current name?
+
+In its current form the ministry was established on **16 May 2013**, succeeding earlier bodies including the Ministry of Urban Wellbeing, Housing and Local Government and, later, the Ministry of Local Government Development. On **13 December 2023** the Cabinet decided to rename the Ministry of Local Government Development back to the **Ministry of Housing and Local Government (KPKT)**; the change was announced on **26 December 2023** and gazetted under the Ministerial Functions Act 1969.
 
 ## What's next
 
-If you are a homebuyer facing a developer or strata dispute, the **Tribunal for Housing and Strata Management (TPPS)** is the KPKT channel for low-cost claims; for planning, licensing, or municipal-service matters, contact your local authority, which operates under the framework KPKT sets. For agency-specific detail, see the pages for the Fire and Rescue Department (JBPM) and PLANMalaysia.
+If you have a live housing or strata complaint, the **Tribunal for Housing and Strata Management** is the low-cost KPKT channel; for planning, licensing, waste, or municipal-service matters, start with your **local authority**, which operates under the framework KPKT sets. For agency-level detail, see the pages for the Fire and Rescue Department (JBPM) and PLANMalaysia.

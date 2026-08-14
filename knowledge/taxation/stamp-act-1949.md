@@ -1,108 +1,172 @@
 ---
 topicId: "MY-TAX-0137"
-title: "Stamp Act 1949"
-seoTitle: "Stamp Act 1949 (Act 378): Malaysia Stamp Duty"
+title: "The Stamp Act 1949: How Malaysia Taxes Its Documents"
+seoTitle: "Stamp Act 1949: Stamp Duty in Malaysia Explained"
+socialTitle: "Almost Every Document You Sign in Malaysia Carries a Tax — Here's the Law Behind It"
 slug: "stamp-act-1949"
 category: "taxation"
 subcategory: ["stamp-duty"]
-summary: "The principal Malaysian law imposing stamp duty on legal, commercial and financial instruments, administered by LHDN."
+summary: "The Stamp Act 1949 (Act 378) is the statute behind Malaysia's stamp duty — a tax on legal, commercial and financial documents that ranges from a flat RM10 to progressive ad valorem rates, administered by LHDN and shifting to a self-assessment system from 2026."
 tier: "2"
 mode: "practical"
 contentType: "law"
 sensitivity: "none"
-answer: "The Stamp Act 1949 (Act 378) is Malaysia's principal statute imposing stamp duty on instruments — such as agreements, transfers and securities — rather than on transactions. It is administered by the Inland Revenue Board of Malaysia (LHDN). Duty is either ad valorem (scaled to value) or fixed (from RM10), and instruments must generally be stamped within 30 days of execution."
+answer: "The Stamp Act 1949 (Act 378) is the Malaysian law that imposes stamp duty on instruments — written documents — rather than on the transactions behind them. Duty comes in two forms: ad valorem duty that scales with a document's value, and fixed duty that starts at a nominal RM10. It is administered by the Inland Revenue Board of Malaysia (LHDN), most instruments must be stamped within 30 days, and from 2026 the country is moving to a self-assessment system in which taxpayers compute and pay the duty themselves."
 keyTakeaways:
-  - "Stamp duty is charged on instruments, not transactions; the charging provision is section 4, with rates set out in the First Schedule."
-  - "Two duty types exist: ad valorem (varies with the instrument's value) and fixed duty (nominal, commonly RM10 per instrument)."
-  - "Instruments executed in Malaysia must be stamped within 30 days of execution; those executed abroad, within 30 days of first receipt in Malaysia."
-  - "Late stamping penalties are RM50 or 10% of unpaid duty (whichever is greater) if stamped within three months of the deadline, and RM100 or 20% otherwise."
-  - "A stamp duty self-assessment system (SDSAS) is being phased in from 1 January 2026, with taxpayers computing and declaring their own duty via LHDN's STAMPS platform."
-appliesTo: "Anyone executing agreements, property transfers, tenancies, loans or share transfers in Malaysia; company secretaries, conveyancing lawyers, HR teams and tax agents."
+  - "Stamp duty is charged on instruments (documents), not on transactions; chargeable instruments and their duties are listed in the First Schedule to Act 378."
+  - "There are two mechanics: ad valorem duty (varies with the value or consideration) and fixed duty (nominal, generally RM10 per instrument)."
+  - "A property transfer (Memorandum of Transfer) is taxed on a 1%–4% tiered scale; a loan/financing agreement at 0.5% of the loan sum; a tenancy by RM1–RM7 per RM250 of annual rent depending on the lease term."
+  - "Instruments executed in Malaysia must be stamped within 30 days; late stamping costs RM50 or 10% of the duty (within 3 months) rising to RM100 or 20% (beyond 3 months)."
+  - "From 1 January 2026 a self-assessment system is being phased in over 2026–2028, and the e-Duti Setem platform has replaced the older STAMPS portal."
+appliesTo: "Anyone executing property transfers, tenancies, loans, share transfers or commercial agreements in Malaysia — buyers, tenants, landlords, borrowers, company secretaries, conveyancing lawyers, HR teams and tax agents."
 faq:
   - q: "How long do I have to stamp a document in Malaysia?"
-    a: "An instrument executed in Malaysia must be stamped within 30 days of execution. If executed outside Malaysia, it must be stamped within 30 days after it is first received in Malaysia."
-  - q: "What is the penalty for late stamping?"
-    a: "If stamped within three months after the deadline, the penalty is RM50 or 10% of the unpaid duty, whichever is greater. Beyond that, it is RM100 or 20% of the unpaid duty, whichever is greater."
-  - q: "Who administers the Stamp Act 1949?"
-    a: "The Inland Revenue Board of Malaysia (Lembaga Hasil Dalam Negeri, LHDN). Stamping is done online through the STAMPS system, which is being integrated with the MyTax portal."
+    a: "An instrument executed in Malaysia must be stamped within 30 days of its execution. If it is executed outside Malaysia, it must be stamped within 30 days after it is first received in Malaysia."
+  - q: "What happens if a document is not stamped?"
+    a: "An unstamped or insufficiently stamped instrument is not admissible as evidence in a court of law, and a public officer will not act upon it. Late stamping also attracts a penalty of RM50 or 10% of the deficient duty (whichever is higher) if done within three months of the due date, or RM100 or 20% (whichever is higher) after that."
+  - q: "What is the difference between ad valorem and fixed duty?"
+    a: "Ad valorem duty varies according to the nature of the instrument and the consideration or market value involved — for example a property transfer or a loan. Fixed duty is charged without relation to the amount stated, generally starting at a nominal RM10 per instrument."
 lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 status: "in-review"
 aiAssisted: true
 reviewer: null
-version: "0.1"
+version: "0.2"
 revisions:
   - version: "0.1"
     date: 2026-08-10
     change: "Initial AI draft."
     reviewer: null
+  - version: "0.2"
+    date: 2026-08-14
+    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
+    reviewer: null
 verificationNeeded:
-  - "Exact original commencement date of the Act in West Malaysia (commonly cited as 5 December 1949) — confirm against the AGC/LHDN reprint front matter."
-  - "Current late-stamping penalty figures (RM50/10% and RM100/20%) — confirm these remain the operative amounts under the latest amendments, as penalty provisions have been revised over time."
-  - "Precise scope of each SDSAS phase (Phase 1: 2026; Phase 2: 2027; Phase 3: 2028) against LHDN's official implementation guidelines."
-updated: 2026-08-10
+  - "Exact commencement dates of the Stamp Act 1949 (reportedly in force in West Malaysia from 5 December 1949 and extended to Sabah/Sarawak from 1 October 1989) — confirm against the long title/preamble of the Act 378 official text before stating."
+  - "The flat 8% foreign-buyer transfer rate effective 1 January 2026 — confirm against the gazetted Stamp Duty (Exemption) Order / Budget 2026 Finance Act rather than secondary tax-guide reporting."
+  - "Whether the 0.5% loan-agreement rate carries any current remission or exemption thresholds for owner-occupied residential financing — verify current Stamp Duty (Exemption) Orders on LHDN before stating it as unconditional."
+  - "Exact scope wording of Self-Assessment Phase 1 instrument categories and any special penalty-waiver window announced for 2026 — confirm on LHDN e-Duti Setem guidance rather than firm blogs."
+  - "Current first-time-homebuyer / residential purchase exemption thresholds (value bands and validity period) — confirm against the live LHDN Stamp Duty Order page, since these are renewed periodically."
+updated: 2026-08-14
 sources:
-  - title: "Stamp Duty — Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
-    url: "https://www.hasil.gov.my/en/stamp-duty/"
-    publisher: "Inland Revenue Board of Malaysia (LHDN)"
-  - title: "Stamp Act 1949 (Act 378) — updated text as at 1 January 2024"
+  - title: "Pengenalan Duti Setem (Introduction to Stamp Duty)"
+    url: "https://www.hasil.gov.my/en/duti-setem/pengenalan-duti-setem/"
+    publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN / IRBM)"
+  - title: "Penalti (Duti Setem) — Stamp Duty Penalty"
+    url: "https://www.hasil.gov.my/duti-setem/penalti-duti-setem/"
+    publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN / IRBM)"
+  - title: "Stamp Act 1949 (Act 378) — official text"
     url: "https://www.hasil.gov.my/media/hwdf2s3g/20240101-stamp-act-1949-act-378.pdf"
-    publisher: "Inland Revenue Board of Malaysia (LHDN)"
-  - title: "Stamp Act 1949 amendments gazetted, laying groundwork for self-assessment regime"
-    url: "https://www.rahmatlim.com/perspectives/articles/30045/mykh-stamp-act-1949-amendments-gazetted-laying-groundwork-for-self-assessment-regime"
-    publisher: "Rahmat Lim & Partners"
-  - title: "Key Stamp Duty Changes in Malaysia From 1 January 2026"
-    url: "https://www.rdslawpartners.com/post/key-stamp-duty-changes-in-malaysia-from-1-january-2026"
-    publisher: "RDS Law Partners"
-entity: "Stamp Act 1949 (Act 378)"
-relations:
-  - { rel: "related-to", to: "stamp-duty-rates" }
-  - { rel: "related-to", to: "stamp-duty-self-assessment" }
+    publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN / IRBM)"
+  - title: "Malaysian Tax Law – Stamp Duty"
+    url: "https://oneasia.legal/en/4480"
+    publisher: "One Asia Lawyers"
+  - title: "Malaysia's New Stamp Duty Self-Assessment and Audit Framework"
+    url: "https://oneasia.legal/en/7085"
+    publisher: "One Asia Lawyers"
+  - title: "Property Law in Malaysia: Stamp Duty for Transfer of Property"
+    url: "https://chialee.com.my/property-law-in-malaysia-stamp-duty-for-transfer-of-property/"
+    publisher: "Chia, Lee & Associates"
+  - title: "Stamp Duty on Instrument of Transfer and Loan Agreement"
+    url: "https://www.lowpartners.com/stamp-duty-instrument-transfer-loan-agreement/"
+    publisher: "Low & Partners"
+  - title: "2026 Guide: Stamp Duty, e-Stamping, and Tenancy Agreement Fees in Malaysia"
+    url: "https://www.propertyguru.com.my/property-guides/stamp-duty-and-administration-fee-for-tenancy-agreement-28223"
+    publisher: "PropertyGuru Malaysia"
+  - title: "Malaysia Tenancy Agreement Stamp Duty Calculator (2026 Rates)"
+    url: "https://speedhome.com/blog/stamp-duty-tenancy-agreement-calculator/"
+    publisher: "SpeedHome"
+  - title: "Govt To Implement Self-Assessment Stamp Duty System In Phases Starting 2026 — MoF"
+    url: "https://bernama.com/en/news.php?id=2353694"
+    publisher: "BERNAMA (Malaysian National News Agency)"
+  - title: "Stamp Duty Malaysia 2026: Rates, Exemptions and Penalties"
+    url: "https://www.cleartax.com/my/en/stamp-duty-malaysia"
+    publisher: "ClearTax Malaysia"
+entity: "Stamp Act 1949 (Act 378, Malaysia)"
+relations: []
 related: []
-keywords: ["Stamp Act 1949", "Act 378", "stamp duty Malaysia", "duti setem", "LHDN", "STAMPS", "SDSAS", "ad valorem duty", "fixed duty"]
+keywords: ["stamp act 1949", "stamp duty malaysia", "LHDN stamp duty", "ad valorem duty", "fixed duty", "memorandum of transfer stamp duty", "MOT stamp duty", "loan agreement stamp duty", "tenancy agreement stamp duty", "e-stamping malaysia", "stamp duty self assessment", "stamp duty calculator malaysia", "stamp duty penalty", "stamp duty exemption", "Act 378"]
 ---
 
-The **Stamp Act 1949 (Act 378)** is Malaysia's principal statute governing **stamp duty** — a tax levied on written **instruments** rather than on the underlying transactions. It applies to a wide range of documents, including agreements, conveyances and property transfers, tenancy and lease agreements, loan and security instruments, and share transfers. The Act is administered by the **Inland Revenue Board of Malaysia (Lembaga Hasil Dalam Negeri, LHDN)**.
+Sign a tenancy, take out a housing loan, transfer a title, buy shares through a broker — and somewhere in the paperwork sits a tax you may never have noticed. That tax is **stamp duty**, and the law behind it is the **Stamp Act 1949 (Act 378)**. What makes it unusual is its target: stamp duty is charged on the **instrument** — the written document itself — and not on the transaction it records. Get the document stamped and it stands up in court; leave it unstamped and it may be worth little more than the paper it is printed on.
 
-## What the Act charges
+This is a plain, statute-level guide to what the Act taxes, how the duty is worked out for the documents people meet most often, the deadlines and penalties, and the shift to self-assessment now rolling out from 2026.
 
-Under the Act, duty attaches to the instrument that gives legal effect to a matter. The charging provision (**section 4**) makes chargeable instruments dutiable, and the **First Schedule** sets out the rates for each class of instrument. There are two categories of duty:
+## What does the Stamp Act 1949 actually tax?
 
-- **Ad valorem duty** — the amount varies with the type and value of the instrument (for example, the consideration on a property transfer or the loan sum secured).
-- **Fixed duty** — a nominal amount charged per instrument, generally starting at **RM10**.
+The Act imposes duty on **instruments, not transactions**. An instrument is any written document, and stamp duty is levied on legal, commercial and financial instruments. The Stamp Act 1949 is **Act 378** in the Laws of Malaysia, and the chargeable instruments — together with the duty each attracts — are set out in the **First Schedule** to the Act. Administration sits with the **Inland Revenue Board of Malaysia (Lembaga Hasil Dalam Negeri, LHDN / IRBM)**.
 
-An instrument that is not duly stamped may not be admissible as evidence in court, which makes stamping a practical prerequisite for enforcing many contracts.
+Because the charge attaches to the paper rather than the deal, the same underlying arrangement can produce several dutiable documents — a sale of property, for example, generates both a transfer instrument and, if financed, a loan agreement, each stamped in its own right.
 
-## Stamping deadlines and penalties
+## Ad valorem or fixed: the two ways duty is calculated
 
-The Act requires timely stamping. The table below summarises the core timing and late-stamping penalty rules.
+Every stamp duty falls into one of two mechanics.
 
-| Situation | Rule |
-|---|---|
-| Instrument executed **in** Malaysia | Stamp within **30 days** of execution |
-| Instrument executed **outside** Malaysia | Stamp within **30 days** of first receipt in Malaysia |
-| Late by up to **3 months** | Penalty: **RM50 or 10%** of unpaid duty, whichever is greater |
-| Late by **more than 3 months** | Penalty: **RM100 or 20%** of unpaid duty, whichever is greater |
-
-Stamping is carried out online through LHDN's **STAMPS** system, which is being integrated with the **MyTax** portal.
-
-## Move to self-assessment (SDSAS)
-
-Amendments introduced through the **Finance Act 2024** and the accompanying measures Act (gazetted **31 December 2024**) lay the groundwork for a **stamp duty self-assessment system (SDSAS)**, under which taxpayers compute, declare and pay their own duty rather than waiting for an LHDN assessment. Roll-out is phased:
-
-| Phase | Effective | Instruments |
+| Duty type | How it is calculated | Typical instruments |
 |---|---|---|
-| Phase 1 | **1 January 2026** | Tenancy and lease agreements, general stamping, securities instruments |
-| Phase 2 | **1 January 2027** | Instruments transferring property ownership |
-| Phase 3 | **1 January 2028** | All other chargeable instruments |
+| **Ad valorem duty** | The rate varies according to the nature of the instrument and the **consideration or market value** involved | Transfers of property (sale or gift), marketable securities and shares; instruments creating property interests such as tenancies and statutory leases; security instruments (Bond); capital-market instruments such as Contract Notes |
+| **Fixed duty** | A nominal amount imposed **without relation** to the consideration or amount stated, generally starting at **RM10** per instrument | Power or Letter of Attorney, Articles of Association, Promissory Notes, Policies of Insurance; and a duplicate, subsidiary or collateral instrument where the original principal instrument has already been duly stamped |
 
-The reforms add stronger enforcement, including offences for failing to file returns or under-assessing duty (for example under the new **section 72D**), with special penalties of up to 100% of duty undercharged where underpayment is intentional. As a transition measure, LHDN has indicated that **no penalties** will apply to good-faith errors in 2026 return submissions, with penalties resuming from 2027.
+The distinction matters in practice. Ad valorem duty on a high-value transfer can run to tens of thousands of ringgit; fixed duty on a letter of attorney is a flat RM10 whatever the sums involved behind it.
 
-## Historical note
+## How much is duty on a property transfer?
 
-The Stamp Act 1949 has applied in Peninsular Malaysia since 1949 and was extended to **Sabah and Sarawak on 1 October 1989**. It has since been amended many times, most substantially by the 2024 reforms preparing for self-assessment.
+The transfer of ownership is captured by a **Memorandum of Transfer (MOT)**, and its ad valorem duty is tiered. Effective **1 January 2019**, the scale on the transfer instrument is:
+
+| Portion of price / value | Rate |
+|---|---|
+| First RM100,000 | 1% |
+| RM100,001 to RM500,000 | 2% |
+| RM500,001 to RM1,000,000 | 3% |
+| Above RM1,000,000 | 4% |
+
+The tiers are marginal, so each band applies only to the slice of value within it. A property priced at RM600,000, for instance, is charged 1% on the first RM100,000, 2% on the next RM400,000, and 3% on the remaining RM100,000.
+
+One important carve-out changed the arithmetic for foreign buyers. From **1 January 2026**, non-citizen individuals (excluding permanent residents) and foreign companies buying residential property face a **flat 8%** stamp duty on the instrument of transfer, up from the previous 4%.
+
+## How much is duty on a loan or tenancy?
+
+**Loan and financing agreements.** Stamp duty on a loan or financing agreement is **0.5% of the total loan sum**. Financed insurance premiums — such as MRTA (Mortgage Reducing Term Assurance) or MLTA (Mortgage Level Term Assurance) — are excluded from the sum on which the 0.5% is charged.
+
+**Tenancy agreements.** A tenancy is charged per **RM250 of annual rent**, with the rate stepping up according to the length of the lease:
+
+| Lease term | Duty per RM250 of annual rent |
+|---|---|
+| Up to 1 year | RM1 |
+| Exceeding 1 to 3 years | RM3 |
+| Exceeding 3 to 5 years | RM5 |
+| Exceeding 5 years | RM7 |
+
+A **RM10 minimum** duty applies. Note that the picture tightened recently: effective **1 January 2025**, the previous **RM2,400 annual-rent exemption** for tenancy agreements was removed, so the full annual rent is now chargeable, subject only to that RM10 floor.
+
+## When must a document be stamped, and what if it is late?
+
+Timing is strict. An instrument **executed within Malaysia must be stamped within 30 days** of its execution. If it is **executed outside Malaysia**, it must be stamped within 30 days after it is **first received** in Malaysia.
+
+Missing the deadline carries two consequences. First, an **unstamped or insufficiently stamped instrument is not admissible as evidence** in a court of law, nor will a public officer act upon it — a serious problem if you ever need to enforce the document. Second, there is a monetary penalty:
+
+| Late stamping | Penalty |
+|---|---|
+| Stamped **within 3 months** after the due date | **RM50 or 10%** of the deficient duty, whichever is higher |
+| Stamped **later than 3 months** after the due date | **RM100 or 20%** of the deficient duty, whichever is higher |
+
+## How do you stamp a document now?
+
+Stamping in Malaysia is done electronically. As part of the move to self-assessment, the **e-Duti Setem** platform **replaced the earlier STAMPS portal from 1 January 2026**. Through it, a taxpayer submits the instrument, the duty is determined, and payment is made — producing the stamp certificate that evidences the document has been duly stamped.
+
+## What changes under self-assessment from 2026?
+
+The bigger reform is not the rates but **who calculates the duty**. Under the **Stamp Duty Self-Assessment System**, taxpayers **assess, declare and pay** the duty themselves, rather than waiting for LHDN to raise an assessment. The roll-out is phased across three years:
+
+| Phase | Effective | Instruments covered |
+|---|---|---|
+| Phase 1 | 1 January 2026 | Rental/lease, general encumbrance and security instruments |
+| Phase 2 | 1 January 2027 | Property transfer instruments |
+| Phase 3 | 1 January 2028 | All remaining instruments |
+
+The practical effect is a shift in responsibility. Once an instrument type moves into self-assessment, the burden of computing the right duty — and the exposure if it is under-declared — sits with the taxpayer and their advisers, not with a counter officer who checks the sum on the way in.
 
 ## What's next
 
-For current duty amounts by instrument type, see **stamp-duty-rates**. For how the new declare-and-pay model changes compliance obligations, see **stamp-duty-self-assessment**.
+Rates, exemptions and the self-assessment scope are **year-sensitive**, and several figures here — the 8% foreign-buyer rate, first-time-homebuyer exemption bands, and the exact Phase 1 wording — should be checked against the live LHDN Stamp Duty Order and e-Duti Setem guidance before you rely on them for a specific document (see the verification notes above). For the authoritative text, the **Stamp Act 1949 (Act 378)** and its **First Schedule** remain the primary reference, published by LHDN.

@@ -2,118 +2,125 @@
 topicId: "MY-LAW-0097"
 title: "Personal Data Protection Department (JPDP)"
 seoTitle: "JPDP: Malaysia's Personal Data Protection Dept"
+socialTitle: "Who actually enforces Malaysia's data privacy law? Meet JPDP"
 slug: "data-protection-department-jpdp"
 category: "law"
-subcategory: ["regulator"]
-summary: "The federal agency that enforces Malaysia's Personal Data Protection Act 2010 and administers registration, complaints, and compliance."
+subcategory: ["legal-system"]
+summary: "The Personal Data Protection Department (Jabatan Perlindungan Data Peribadi, JPDP) is the federal agency under the Digital Ministry that administers and enforces Malaysia's Personal Data Protection Act 2010, registering data controllers, handling complaints, and overseeing the 2025 reforms on breach notification and data protection officers."
 tier: "3"
 mode: "practical"
 contentType: "agency"
 sensitivity: "none"
-answer: "The Personal Data Protection Department (Jabatan Perlindungan Data Peribadi, JPDP) is the Malaysian federal agency that administers and enforces the Personal Data Protection Act 2010 (Act 709). Established on 16 May 2011 under what is now the Digital Ministry, it assists the Personal Data Protection Commissioner in regulating how personal data is processed in commercial transactions. Its work covers data-user (data-controller) registration, complaint handling, guidance, and enforcement."
+answer: "The Personal Data Protection Department (Jabatan Perlindungan Data Peribadi, JPDP) is the Malaysian federal agency that administers and enforces the Personal Data Protection Act 2010 (Act 709). Established on 16 May 2011, it operates under the Digital Ministry and assists the Personal Data Protection Commissioner in regulating how personal data is processed in commercial transactions. Day to day, that means registering data controllers, handling complaints, and enforcing the seven data protection principles — a mandate reshaped by the 2024 Amendment Act."
 keyTakeaways:
-  - "JPDP was established on 16 May 2011 to enforce the Personal Data Protection Act 2010 (Act 709)."
-  - "It operates under the Digital Ministry and assists the Personal Data Protection Commissioner, who administers the Act."
-  - "The Act binds anyone processing personal data in commercial transactions to seven Data Protection Principles (sections 6–12); the federal and state governments are exempt."
-  - "Certain classes of data users must hold a Certificate of Registration; processing without one is an offence."
-  - "The Personal Data Protection (Amendment) Act 2024 (Act A1727) added mandatory 72-hour breach notification, a Data Protection Officer duty, and direct obligations on data processors, phased in during 2025."
+  - "JPDP was established on 16 May 2011 to help enforce the Personal Data Protection Act 2010 (Act 709), which came into full force on 15 November 2013."
+  - "It operates as an agency under the Digital Ministry and assists the Personal Data Protection Commissioner."
+  - "The PDPA rests on seven principles; data users in the 13 classes specified by the 2013 Order must register with JPDP under section 14."
+  - "Individuals can complain to the Commissioner via aduan@pdp.gov.my or 03-7456 3888, and register online at daftar.pdp.gov.my."
+  - "The Personal Data Protection (Amendment) Act 2024 (Act A1727) renames 'data user' to 'data controller' and adds a mandatory 72-hour breach notification, a Data Protection Officer duty, biometric data, and a data portability right, phased in across 2025."
 appliesTo: "Businesses and organisations that process personal data in Malaysia, compliance and legal teams, and individuals seeking to understand or exercise their data-protection rights."
 faq:
   - q: "What is the difference between JPDP and the Personal Data Protection Commissioner?"
-    a: "The Commissioner is the statutory office that administers and enforces the Act; JPDP (the Department) is the government body that supports the Commissioner and carries out registration, complaints, monitoring, and legal functions. In practice the Department operates under the Commissioner's authority."
-  - q: "Does the Act apply to the government?"
-    a: "No. The Personal Data Protection Act 2010 expressly does not apply to the Federal Government and the State Governments. It regulates data processing in commercial transactions by data users (now 'data controllers')."
-  - q: "How do I file a complaint with JPDP?"
-    a: "JPDP operates a call centre and a public complaints channel. Complaints can be lodged by email to aduan@pdp.gov.my or through the department's contact lines; check pdp.gov.my for the current complaint form and procedure."
+    a: "The Commissioner is the office that enforces the Act; JPDP is the department that assists the Commissioner, carrying out registration, complaint handling, and enforcement. In practice the Department operates under the Commissioner's authority."
+  - q: "Who must register with JPDP?"
+    a: "Data users (now 'data controllers') falling within the 13 classes specified under the Personal Data Protection (Class of Data Users) Order 2013 must register under section 14 of the PDPA and obtain a valid certificate of registration. Registration is made online through the SPDP portal at daftar.pdp.gov.my."
 lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 status: "in-review"
 aiAssisted: true
 reviewer: null
-version: "0.1"
+version: "0.2"
 revisions:
   - version: "0.1"
     date: 2026-08-10
     change: "Initial AI draft."
     reviewer: null
+  - version: "0.2"
+    date: 2026-08-14
+    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
+    reviewer: null
 verificationNeeded:
-  - "Whether JPDP is formally headed by a 'Director General' (with a Deputy) distinct from the Personal Data Protection Commissioner — official pages describe the department as assisting the Commissioner; some secondary sources use 'Director General'."
-  - "The exact increased penalty figures under the 2024 amendment (widely reported as up to RM1,000,000 fine and up to 3 years' imprisonment for principle breaches; up to RM250,000 for breach-notification failure) against the gazetted text of Act A1727."
-  - "The precise phased commencement dates of Act A1727 provisions (reported as 1 January, 1 April, and 1 June 2025) against the official Gazette notifications."
-  - "The current registered classes of data users required to hold a Certificate of Registration."
-updated: 2026-08-10
+  - "Exact current internal division structure of JPDP (Malay sources cite Bahagian Pendaftaran dan Operasi, Bahagian Pemantauan, Bahagian Perundangan under a Ketua Pengarah / Timbalan Ketua Pengarah) — confirm against the live pdp.gov.my organisation chart."
+  - "Exact section-to-date mapping of the phased 2025 commencement (which sections took effect 1 Jan vs 1 Apr vs 1 June 2025) — confirm against the official commencement-date gazette on pdp.gov.my."
+  - "Current data-user registration fee range and certificate validity period — verify against the current SPDP portal / Registration Regulations."
+  - "Whether the office is still branded 'Personal Data Protection Commissioner' or has moved toward a 'Commission/Suruhanjaya' model — confirm current official title."
+  - "Latest published enforcement statistics (registrations, complaints, actions) — not yet located from a primary DOSM/JPDP source."
+updated: 2026-08-14
 sources:
   - title: "Personal Data Protection Department (JPDP) — official page"
     url: "https://www.pdp.gov.my/ppdpv1/en/personal-data-protection-department/"
-    publisher: "Jabatan Perlindungan Data Peribadi (JPDP)"
-  - title: "Personal Data Protection Act 2010 [Act 709]"
-    url: "https://www.pdp.gov.my/ppdpv1/en/akta/pdp-act-2010-en/"
-    publisher: "Jabatan Perlindungan Data Peribadi (JPDP)"
+    publisher: "Jabatan Perlindungan Data Peribadi (JPDP), Malaysia"
+  - title: "FAQ — Personal Data Protection"
+    url: "https://www.pdp.gov.my/ppdpv1/en/faq/"
+    publisher: "Jabatan Perlindungan Data Peribadi (JPDP), Malaysia"
+  - title: "Personal Data Protection Regulations (Registration of Data Users)"
+    url: "https://www.pdp.gov.my/ppdpv1/en/akta/personal-data-protection-regulations-registration-of-data-users/"
+    publisher: "Jabatan Perlindungan Data Peribadi (JPDP), Malaysia"
   - title: "Personal Data Protection (Amendment) Act 2024"
     url: "https://www.pdp.gov.my/ppdpv1/en/akta/personal-data-protection-amendment-act-2024/"
-    publisher: "Jabatan Perlindungan Data Peribadi (JPDP)"
-  - title: "Introduction (Data Controller obligations, 7 Principles)"
-    url: "https://www.pdp.gov.my/ppdpv1/en/introduction/"
-    publisher: "Jabatan Perlindungan Data Peribadi (JPDP)"
-  - title: "Akta Perlindungan Data Peribadi — quick link"
-    url: "https://www.malaysia.gov.my/en/quick-links/protection-of-personal-data"
-    publisher: "MyGovernment Portal (malaysia.gov.my)"
-  - title: "Malaysia Tightens Data Protection from June 2025"
-    url: "https://www.aseanbriefing.com/news/malaysia-tightens-data-protection-from-june-2025/"
-    publisher: "ASEAN Briefing"
-entity: "Jabatan Perlindungan Data Peribadi (Personal Data Protection Department, JPDP)"
+    publisher: "Jabatan Perlindungan Data Peribadi (JPDP), Malaysia"
+  - title: "Personal Data Protection (Amendment) Act 2024 Commencement Date Determination"
+    url: "https://www.pdp.gov.my/ppdpv1/en/personal-data-protection-amendment-act-2024-commencement-date-determination/"
+    publisher: "Jabatan Perlindungan Data Peribadi (JPDP), Malaysia"
+  - title: "A Sea Change in Malaysia's Data Protection Framework — coming into force of the PDP (Amendment) Act 2024"
+    url: "https://www.lexology.com/library/detail.aspx?g=8a53f32c-e94e-44dd-9184-a05717c559b4"
+    publisher: "Lexology"
+  - title: "News Alert: Dates of Coming into Operation of the Personal Data Protection (Amendment) Act 2024"
+    url: "https://www.christopherleeong.com/viewpoints/news-alert-dates-of-coming-into-operation-of-the-personal-data-protection-amendment-act-2024/"
+    publisher: "Christopher & Lee Ong"
+  - title: "Malaysia: Guidelines Issued on Data Breach Notification and Data Protection Officer Appointment"
+    url: "https://privacymatters.dlapiper.com/2025/03/malaysia-guidelines-issued-on-data-breach-notification-and-data-protection-officer-appointment/"
+    publisher: "DLA Piper (Privacy Matters)"
+  - title: "From Legislative Reform to Practical Guidance: Key Amendments to Malaysia's PDPA"
+    url: "https://www.mayerbrown.com/en/insights/publications/2025/07/from-legislative-reform-to-practical-guidance-key-amendments-to-malaysias-pdpa-and-the-launch-of-cross-border-transfer-guidelines"
+    publisher: "Mayer Brown"
+entity: "Personal Data Protection Department (Jabatan Perlindungan Data Peribadi, JPDP), Malaysia"
 relations: []
 related: []
-keywords: ["JPDP", "Jabatan Perlindungan Data Peribadi", "Personal Data Protection Department", "PDPA", "Act 709", "Personal Data Protection Commissioner", "pdp.gov.my", "Act A1727", "data protection Malaysia"]
+keywords: ["JPDP", "Jabatan Perlindungan Data Peribadi", "Personal Data Protection Department", "PDPA Malaysia", "Personal Data Protection Act 2010", "Act 709", "data controller registration Malaysia", "Personal Data Protection Commissioner", "pdp.gov.my", "PDPA Amendment Act 2024", "data breach notification Malaysia", "DPO Malaysia", "Suruhanjaya Perlindungan Data Peribadi", "SPDP daftar"]
 ---
 
-The **Personal Data Protection Department** — *Jabatan Perlindungan Data Peribadi* (**JPDP**) — is the Malaysian federal agency that administers and enforces the **Personal Data Protection Act 2010 (Act 709)**. It was established on **16 May 2011** after Parliament passed the Act, and it operates under the Digital Ministry. Its role is to assist the **Personal Data Protection Commissioner** in regulating how personal data is processed in commercial transactions, and to handle registration, complaints, monitoring, and enforcement.
+Almost every guide to Malaysian data privacy explains the *law*. Far fewer explain the *office that runs it*. That office is the **Personal Data Protection Department** — *Jabatan Perlindungan Data Peribadi* (**JPDP**) — established on **16 May 2011** after Parliament passed the Personal Data Protection Act 2010 (Act 709). It operates as an agency under the Digital Ministry, and its job is to assist the **Personal Data Protection Commissioner** in enforcing that Act. This is the department a Malaysian business registers with, and the one an ordinary citizen complains to.
 
-## What JPDP does
+## What does JPDP actually do?
 
-JPDP is the operational arm behind the Personal Data Protection Commissioner, the statutory office that administers Act 709. Its core functions include:
+JPDP's main responsibility is to regulate how data users process the personal data of individuals involved in commercial transactions, so that it is not misused or exploited. Its stated vision is to be the main leader in protecting personal data in achieving well-being as a developed country; its mission is to regulate data protection to build the trust that contributes to increased commercial transactions.
 
-- **Registration** of data users (renamed *data controllers* by the 2024 amendment) in specified classes, and issuing Certificates of Registration.
-- **Complaint handling** from individuals whose personal data may have been misused.
-- **Monitoring and enforcement** of compliance with the Act.
-- **Guidance**, standards, and public awareness on personal-data protection.
+In practice, the department does three things citizens and businesses touch directly:
 
-The Act it enforces regulates the processing of personal data in **commercial transactions**. It binds "data users" in the private sector but **does not apply to the Federal Government or the State Governments**.
+- **Registration** — issuing and administering certificates of registration for data controllers.
+- **Complaints** — receiving and acting on grievances that personal data has been mishandled.
+- **Enforcement and guidance** — applying Act 709 and publishing the guidelines that flesh it out.
 
-## The seven Data Protection Principles
+The Act it administers came into full force on **15 November 2013**, the first legislative framework of its kind in Malaysia.
 
-Every organisation that processes personal data must comply with seven principles set out in Part II of Act 709. Contravening any of them is an offence.
+## What are the rules JPDP enforces?
 
-| # | Principle | Section |
-|---|-----------|---------|
-| 1 | General Principle | s. 6 |
-| 2 | Notice and Choice Principle | s. 7 |
-| 3 | Disclosure Principle | s. 8 |
-| 4 | Security Principle | s. 9 |
-| 5 | Retention Principle | s. 10 |
-| 6 | Data Integrity Principle | s. 11 |
-| 7 | Access Principle | s. 12 |
+The PDPA is built on **seven Personal Data Protection Principles**: the General Principle, the Notice and Choice Principle, the Disclosure Principle, the Security Principle, the Retention Principle, the Data Integrity Principle, and the Access Principle. Together they govern how any organisation may collect, use, keep, and disclose personal data.
 
-Under the original Act, breaching a principle carried a fine of **up to RM300,000**, imprisonment of **up to 2 years**, or both. Processing personal data without a required Certificate of Registration carried a fine of **up to RM500,000** and/or up to **3 years'** imprisonment.
+Individuals whose data is processed hold matching rights — to be informed that processing is happening, to access their data, to correct it, to withdraw consent, and to prevent processing for direct marketing.
 
-## The 2024 amendment (Act A1727)
+## Who has to register, and how do I complain?
 
-The **Personal Data Protection (Amendment) Act 2024 (Act A1727)** modernised the regime and was brought into force in phases during 2025. Key changes reported by the Commissioner and legal commentators include:
+Not everyone must register, but data users within the **13 classes specified under the Personal Data Protection (Class of Data Users) Order 2013** must register with JPDP under **section 14** of the Act and hold a valid certificate. Registration is done online through the **SPDP portal at daftar.pdp.gov.my**.
 
-- Renaming **"data user"** to **"data controller"** throughout the Act.
-- **Mandatory breach notification** — data controllers must notify the Commissioner, generally within **72 hours** of becoming aware of a personal-data breach.
-- A duty to appoint a **Data Protection Officer (DPO)**.
-- **Direct obligations on data processors**, who were not previously bound directly.
-- Expanding **sensitive personal data** to include **biometric data**.
-- Higher maximum penalties for principle breaches (widely reported as up to **RM1,000,000** and/or **3 years'** imprisonment).
+If you believe your personal data was processed in breach of the Act, you can complain to the Commissioner by email at **aduan@pdp.gov.my** or by phone at **03-7456 3888**.
 
-*Exact penalty figures and the precise commencement dates for each provision should be confirmed against the Gazette text of Act A1727 — see the verification notes in this article's metadata.*
+## How did the 2024 Amendment change JPDP's mandate?
 
-## Contact
+The **Personal Data Protection (Amendment) Act 2024 (Act A1727)** was passed by the Dewan Rakyat on 16 July 2024 and the Dewan Negara on 31 July 2024, received Royal Assent on 9 October 2024, and was gazetted on 17 October 2024. On 24 December 2024 the Minister of Digital gazetted a phased commencement across **1 January, 1 April, and 1 June 2025**. Key changes:
 
-JPDP is based in **Putrajaya** (Galeria PjH, Persiaran Perdana, Precinct 4). Public enquiries and complaints go through its call centre and the email **aduan@pdp.gov.my**; official information is published at **pdp.gov.my**.
+| Change | What it means |
+|---|---|
+| "Data user" → "data controller" | The term is replaced throughout the principal Act. |
+| Data Protection Officer | From 1 June 2025, controllers and processors must appoint at least one DPO; thresholds include processing data of more than 20,000 subjects, or sensitive data of more than 10,000. |
+| Breach notification | Controllers must notify the Commissioner within **72 hours**, and affected subjects within seven days where significant harm is likely. |
+| Data portability | Subjects may ask that their data be transmitted directly to another controller, subject to technical feasibility (from June 2025). |
+| Cross-border transfer | The old "whitelist" is replaced with a risk-based framework. |
+| Sensitive data | Now expressly includes biometric data. |
+| Penalties | Maximum fine for breaching the security principle rises from RM300,000 to **RM1,000,000**, and maximum imprisonment from two to three years. |
 
 ## What's next
 
-If you run a business that handles customer or employee data, check whether your organisation falls within a registered class of data controllers, review your compliance against the seven principles, and confirm your breach-notification and DPO arrangements under the 2024 amendment. For the statutory text, consult **Act 709** and **Act A1727** on the JPDP website.
+If your organisation handles customer or employee data, check whether you fall within one of the 13 registered classes, confirm your DPO and breach-notification arrangements under Act A1727, and review your practices against the seven principles. JPDP is based at Level 8, Galeria PjH, Persiaran Perdana, Precinct 4, 62100 Putrajaya, and publishes the statutory texts and current guidelines at **pdp.gov.my**.

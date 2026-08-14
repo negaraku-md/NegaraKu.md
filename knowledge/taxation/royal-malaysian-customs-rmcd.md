@@ -1,102 +1,123 @@
 ---
 topicId: "MY-TAX-0135"
-title: "Royal Malaysian Customs Department (RMCD)"
-seoTitle: "RMCD: Royal Malaysian Customs Department Guide"
+title: "Royal Malaysian Customs Department (RMCD): What It Does and Where You Meet It"
+seoTitle: "Royal Malaysian Customs Department Explained"
+socialTitle: "The department behind Malaysia's SST, import duties and border checks"
 slug: "royal-malaysian-customs-rmcd"
 category: "taxation"
-subcategory: ["indirect-tax"]
-summary: "Malaysia's federal agency for customs duties, excise and the Sales and Service Tax, sitting under the Ministry of Finance."
+subcategory: ["tax-administration"]
+summary: "The Royal Malaysian Customs Department (RMCD/JKDM) is Malaysia's border agency and main indirect-tax collector, administering customs and excise duties, sales and service tax (SST), and enforcing anti-smuggling law under the Ministry of Finance."
 tier: "3"
 mode: "practical"
 contentType: "agency"
 sensitivity: "none"
-answer: "The Royal Malaysian Customs Department (RMCD), or Jabatan Kastam Diraja Malaysia (JKDM), is the federal agency under the Ministry of Finance responsible for collecting Malaysia's indirect taxes — customs import/export duties, excise duties, and the Sales and Service Tax (SST) — and for enforcing border and trade controls. It administers the Customs Act 1967, the Sales Tax Act 2018 and the Service Tax Act 2018, and runs the MySST registration portal. Its headquarters is in Putrajaya."
+answer: "The Royal Malaysian Customs Department (RMCD), or Jabatan Kastam Diraja Malaysia (JKDM), is the government department under the Ministry of Finance that collects Malaysia's indirect taxes, facilitates trade, and enforces customs law. It administers customs and excise duties plus the Sales and Service Tax (SST), and runs the MySST portal where businesses register. If you import goods, run an SST-registered business, or pass through a Malaysian border, RMCD is the agency you deal with."
 keyTakeaways:
-  - "RMCD is Malaysia's main indirect-tax collector and border enforcement agency, operating under the Ministry of Finance."
-  - "It administers customs duties, excise duties and SST; the Customs Act 1967 (Act 62) is its core statute."
-  - "SST replaced GST from 1 September 2018 under the Sales Tax Act 2018 and Service Tax Act 2018."
-  - "Sales tax is charged at 5% or 10%; service tax rose from 6% to 8% on 1 March 2024, with some services kept at 6%."
-  - "The general SST registration threshold is RM500,000 of taxable turnover over 12 months, done via the MySST portal."
-  - "The department was conferred royal (Diraja) status on 29 October 1963."
+  - "RMCD (Kastam) is Malaysia's main indirect-tax collector and border agency, sitting under the Ministry of Finance."
+  - "It was established in 1931 and conferred 'Royal' (Diraja) status on 29 October 1963; its headquarters is in Putrajaya."
+  - "It collects import, export, excise, sales and service taxes plus levies, and administers statutes including the Customs Act 1967, Excise Act 1976, Sales Tax Act 2018 and Service Tax Act 2018."
+  - "SST replaced GST from September 2018; service tax rose from 6% to 8% on 1 March 2024, with some services kept at 6%."
+  - "The general registration threshold for sales and service tax is RM500,000 in taxable turnover, done through the MySST portal."
+  - "RMCD collected RM55.1 billion in revenue for 2023, beating its RM53.5 billion target."
 appliesTo: "Importers, exporters, SST-registered businesses, customs agents, and anyone needing an overview of Malaysia's indirect-tax and customs authority."
 faq:
-  - q: "What taxes does RMCD collect?"
-    a: "Indirect taxes: customs import and export duties, excise duties, and the Sales and Service Tax (SST). It does not collect income tax, which is handled by the Inland Revenue Board (LHDN)."
-  - q: "What is the difference between RMCD and LHDN?"
-    a: "RMCD (Customs) administers indirect taxes such as customs duty, excise and SST. LHDN (Inland Revenue Board) administers direct taxes such as income tax and RPGT."
+  - q: "What taxes and duties does RMCD collect?"
+    a: "Import duty, export duty, excise duty, sales tax and service tax, plus levies such as the departure levy, vehicle levy, extraordinary profit levy and tourism tax. Income tax is not among them — that falls to the Inland Revenue Board (LHDN)."
   - q: "How do I register for SST?"
-    a: "Register online through the MySST portal run by RMCD, generally once taxable turnover exceeds RM500,000 over 12 months. RMCD may also auto-register businesses it identifies from its records."
+    a: "Register online through RMCD's MySST portal. Registration is generally required once taxable turnover reaches RM500,000 for sales tax (manufacturers) or service tax."
+  - q: "What service tax rate applies now?"
+    a: "8% since 1 March 2024, up from 6%, except for food and beverage, parking, logistics and telecommunications services, which remain at 6%."
 lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 status: "in-review"
 aiAssisted: true
 reviewer: null
-version: "0.1"
+version: "0.2"
 revisions:
   - version: "0.1"
     date: 2026-08-10
     change: "Initial AI draft."
     reviewer: null
+  - version: "0.2"
+    date: 2026-08-14
+    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
+    reviewer: null
 verificationNeeded:
-  - "Current Director-General's name and appointment date (not stated on the sourced pages)."
-  - "Exact present-day count of RMCD divisions (one source lists 11; confirm against the current org chart)."
-  - "Service-tax scope/rate details after the 1 July 2025 SST expansion should be re-checked against the latest MySST guides."
-updated: 2026-08-10
+  - "Exact current total staff strength — ms.Wikipedia cites 14,872 positions (2023), not confirmed against a primary RMCD/JPA source."
+  - "Precise service tax registration threshold per service category (general RM500,000 widely cited, but some categories differ) — confirm on mysst.customs.gov.my."
+  - "Full sales tax rate schedule by goods class (5% / 10% / specific / exempt) against the current Sales Tax (Rates of Tax) Order."
+  - "Exact appointment date and full title of the current Director-General Dato' Amran bin Haji Ahmad."
+  - "Revenue breakdown by tax type for 2023/2024 (import duty vs excise vs sales tax vs service tax)."
+  - "2024 actual (vs the RM56bn target) and any 2025 figures once published."
+updated: 2026-08-14
 sources:
-  - title: "History — Royal Malaysian Customs Department"
-    url: "https://www.customs.gov.my/en/corporate/history"
-    publisher: "Royal Malaysian Customs Department"
-  - title: "Organization Structure — Royal Malaysian Customs Department"
-    url: "https://www.customs.gov.my/en/corporate/organization-structure"
-    publisher: "Royal Malaysian Customs Department"
-  - title: "Understanding SST — MySST"
-    url: "https://mysst.customs.gov.my/About"
-    publisher: "Royal Malaysian Customs Department (MySST)"
-  - title: "Customs Act 1967"
-    url: "https://en.wikipedia.org/wiki/Customs_Act_1967"
+  - title: "Royal Malaysian Customs Department"
+    url: "https://en.wikipedia.org/wiki/Royal_Malaysian_Customs_Department"
     publisher: "Wikipedia"
-entity: "Royal Malaysian Customs Department (Jabatan Kastam Diraja Malaysia)"
+  - title: "Pengurusan Tertinggi Jabatan (Top Management)"
+    url: "https://www.customs.gov.my/en/corporate/top-management"
+    publisher: "Royal Malaysian Customs Department (customs.gov.my)"
+  - title: "Background — MySST"
+    url: "https://mysst.customs.gov.my/background"
+    publisher: "Royal Malaysian Customs Department (mysst.customs.gov.my)"
+  - title: "Kastam Kutip Hasil RM55.1 Bilion Tahun Lepas"
+    url: "https://mof.gov.my/portal/ms/berita/akhbar/kastam-kutip-hasil-rm55-1-bilion-tahun-lepas"
+    publisher: "Ministry of Finance Malaysia (mof.gov.my)"
+  - title: "Targeted Revision Of Sales Tax Rate And Expansion Of Service Tax Scope Effective 1 July 2025"
+    url: "https://www.mof.gov.my/portal/en/news/press-release/targeted-revision-of-sales-tax-rate-and-expansion-of-service-tax-scope-effective-1-july-2025"
+    publisher: "Ministry of Finance Malaysia (mof.gov.my)"
+  - title: "Peranan Pegawai Penguatkuasa Kastam Sebagai Benteng Memerangi Penyeludupan"
+    url: "https://www.mof.gov.my/portal/ms/berita/siaran-media/peranan-pegawai-penguatkuasa-kastam-sebagai-benteng-memerangi-penyeludupan"
+    publisher: "Ministry of Finance Malaysia (mof.gov.my)"
+entity: "Royal Malaysian Customs Department"
 relations: []
 related: []
-keywords: ["RMCD", "Royal Malaysian Customs Department", "Jabatan Kastam Diraja Malaysia", "JKDM", "Kastam", "SST", "customs duty", "MySST", "excise duty"]
+keywords: ["RMCD", "Royal Malaysian Customs Department", "Jabatan Kastam Diraja Malaysia", "JKDM", "Kastam Malaysia", "SST Malaysia", "sales and service tax", "import duty Malaysia", "customs clearance Malaysia", "MySST", "uCustoms", "excise duty Malaysia", "service tax registration"]
 ---
 
-The **Royal Malaysian Customs Department (RMCD)** — *Jabatan Kastam Diraja Malaysia* (JKDM), commonly called *Kastam* — is the federal agency under the **Ministry of Finance** responsible for collecting Malaysia's indirect taxes and enforcing border and trade controls. It collects **customs import and export duties, excise duties, and the Sales and Service Tax (SST)**, and administers the **Customs Act 1967**, the **Sales Tax Act 2018** and the **Service Tax Act 2018**. Its headquarters is in Putrajaya.
+Every time you pay tax on a restaurant bill, clear a parcel through customs, or fill up a car built on an imported engine, one department is behind the charge: the **Royal Malaysian Customs Department (RMCD)** — *Jabatan Kastam Diraja Malaysia* (JKDM), commonly called *Kastam*. It is the government department under the **Ministry of Finance** responsible for collecting indirect taxes, facilitating trade and enforcing customs law, and it is the country's main indirect-tax collector.
 
-## What RMCD does
+## What does RMCD actually collect?
 
-RMCD is Malaysia's principal **indirect-tax** collector. Its main roles are:
+RMCD gathers national revenue in the form of **import duty, export duty, excise duty, sales tax and service tax**, along with levies including the **departure levy, vehicle levy, extraordinary profit levy and tourism tax**. Income tax is not on that list — direct taxes are handled by a separate agency, the Inland Revenue Board (LHDN).
 
-- **Revenue collection** — customs duties on imports/exports, excise on goods such as vehicles, alcohol and tobacco, and SST.
-- **Trade facilitation** — clearing goods at ports, airports and land borders, and processing customs declarations.
-- **Enforcement** — combating smuggling, contraband and undeclared goods, and carrying out inspections and seizures.
+To do this it administers a whole stack of statutes, including:
 
-Direct taxes such as income tax fall to a separate agency, the **Inland Revenue Board (LHDN)** — not RMCD.
+| Law | Covers |
+|-----|--------|
+| Customs Act 1967 | Import/export duties, clearance, enforcement |
+| Excise Act 1976 | Excise on goods such as vehicles, alcohol, tobacco |
+| Sales Tax Act 2018 | Sales tax on taxable goods |
+| Service Tax Act 2018 | Service tax on taxable services |
+| Tourism Tax Act 2017 | Tourism tax on accommodation |
+| Strategic Trade Act 2010 | Controls on strategic and dual-use goods |
 
-## History and status
+The scale is substantial: RMCD collected **RM55.1 billion** in revenue for 2023, exceeding its RM53.5 billion target by RM1.6 billion, with a target of RM56 billion set for 2024.
 
-The department's roots lie in the colonial customs administrations of the **Straits Settlements** and the **Federation of Malaya**. It was conferred royal (**Diraja**) status by the Yang di-Pertuan Agong on **29 October 1963**. The **Customs Act 1967 (Act 62)** unified customs law across Peninsular Malaysia, Sabah and Sarawak, and the **Royal Malaysian Customs Academy (AKMAL)** was established in 1989 to train officers.
+## How does the Sales and Service Tax (SST) work?
 
-## Sales and Service Tax (SST)
+SST is where most businesses meet RMCD. It was **reintroduced from September 2018**, replacing the Goods and Services Tax (GST), under the Sales Tax Act 2018 and Service Tax Act 2018, and is administered through the **MySST** portal.
 
-SST is RMCD's most visible tax for businesses. It **replaced the Goods and Services Tax (GST) from 1 September 2018**, under two statutes:
+The **service tax rate** was 6% from September 2018 to February 2024, then rose to **8% effective 1 March 2024** — except for food and beverage, parking, logistics and telecommunications services, which remain at 6%. The **registration threshold** for sales tax (manufacturers) and for service tax is **RM500,000** in taxable turnover; on reaching it, a business must register through MySST.
 
-| Tax | Statute | Rate |
-|-----|---------|------|
-| Sales tax | Sales Tax Act 2018 | 5% or 10% on taxable goods (0% / exempt for many essentials) |
-| Service tax | Service Tax Act 2018 | 8% (raised from 6% on 1 March 2024); some services kept at 6% |
+The system keeps shifting. Effective **1 July 2025**, the government revised sales tax to 5% or 10% on discretionary, non-essential goods (essentials unchanged) and expanded service tax to sectors including leasing and rental, construction, financial services, private healthcare and education — with a grace period during which no penalties apply until 31 December 2025 for businesses taking steps to comply.
 
-When service tax rose to **8% on 1 March 2024**, categories including **food and beverage, telecommunications, parking and logistics** services were kept at **6%**.
+## Where do citizens and SMEs deal with RMCD?
 
-## Registration and the MySST portal
+Most people encounter the department at a few concrete touchpoints:
 
-Businesses register for SST online through RMCD's **MySST** portal. Registration is generally required once **taxable turnover exceeds RM500,000** over a 12-month period (some service groups have different thresholds). RMCD may also **auto-register** businesses it identifies from its records. Registrants receive an SST number and charge tax from their effective date.
+- **SST registration** — via the MySST portal once you cross the threshold.
+- **Import and export clearance** — declaring goods and paying the assessed duties and taxes at ports, airports and land borders.
+- **Duty and tax payment** — settling import duty, excise and SST.
+- **Enforcement** — inspections and seizures where goods are undeclared or prohibited.
 
-## Organisation
+On enforcement, RMCD is described as the nation's **first line of defence against smuggling**, ensuring imported and exported goods are correctly declared and duties paid while detecting prohibited items such as drugs and firearms — without disrupting legitimate trade.
 
-RMCD operates as a department under the Ministry of Finance, led by a **Director-General**. Its work is split across divisions covering customs, internal (indirect) tax, enforcement, compliance management, technical services, legal, IT and corporate planning, alongside the AKMAL training academy.
+## Who runs it, and since when?
+
+RMCD was **established in 1931** and conferred **'Royal' status on 29 October 1963** by the Yang di-Pertuan Agong; it is headquartered in **Putrajaya**. It is headed by a **Director-General of Customs** assisted by three deputy directors-general, with the role currently held by Dato' Haji Amran bin Haji Ahmad. Its specialised units include a **Marine Unit** (established 1917), a **K9 drug-detection dog unit** (1978) and the **Royal Malaysian Customs Academy (AKMAL)** (1989); the department also runs a Customs Museum.
 
 ## What's next
 
-If you are importing or exporting, check the relevant **customs duty** and **excise** rules and declaration procedures. If you run a business, see whether you cross the **SST registration threshold** and register through the **MySST** portal. For direct taxes such as income tax, refer instead to the **Inland Revenue Board (LHDN)**.
+If you import or export, confirm the customs duty and excise that apply before you declare your goods. If you run a business, check whether you cross the **RM500,000** SST threshold and register through **MySST**. For income tax and other direct taxes, refer instead to the Inland Revenue Board (LHDN).

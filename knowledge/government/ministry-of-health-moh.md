@@ -1,121 +1,129 @@
 ---
 topicId: "MY-GOV-0090"
 title: "Ministry of Health Malaysia (KKM)"
-seoTitle: "Ministry of Health Malaysia (KKM): Role & Structure"
+seoTitle: "Ministry of Health Malaysia (KKM): Role & Services"
+socialTitle: "How Malaysia runs one of the world's most heavily subsidised health systems"
 slug: "ministry-of-health-moh"
 category: "government"
-subcategory: ["federal-ministry"]
-summary: "Malaysia's federal ministry (KKM) that sets health policy, runs the public hospital and clinic network, and regulates medicines, food safety and private healthcare."
+subcategory: ["ministries"]
+summary: "The Ministry of Health Malaysia (Kementerian Kesihatan Malaysia, KKM) is the federal ministry that runs the country's public health system — 149 public hospitals and a nationwide clinic network delivered for a nominal RM1 outpatient fee — and regulates medicines, medical devices and private healthcare."
 tier: "3"
 mode: "practical"
 contentType: "agency"
 sensitivity: "none"
-answer: "The Ministry of Health Malaysia — Kementerian Kesihatan Malaysia (KKM) — is the federal ministry responsible for national health policy and for delivering public healthcare through a country-wide network of government hospitals and clinics. It is headquartered at Kompleks E, Putrajaya, and is led by the Minister of Health (Dzulkefly Ahmad since December 2023). As the sector regulator, it enforces laws on medicines, food safety, private hospitals and health professionals."
+answer: "The Ministry of Health Malaysia — Kementerian Kesihatan Malaysia (KKM), or MOH in English — is the federal ministry responsible for the country's health system: public health, medical care, medical research, health promotion, pharmaceutical and medical-device regulation, dental care and patient safety. It runs a tax-financed public network of 149 hospitals and nationwide clinics where an outpatient visit costs a nominal RM1, and it separately regulates private healthcare. It is headquartered at Complex E, Putrajaya, and led by the Minister of Health, Dzulkefly Ahmad."
 keyTakeaways:
-  - "KKM is Malaysia's federal health ministry, headquartered at Kompleks E, Putrajaya; general line 03-8000 8000."
-  - "The Minister of Health is Dzulkefly Ahmad, appointed 12 December 2023; the Director-General of Health is the top civil-service and technical head."
-  - "As of end-2023 it ran 149 government hospitals (138 hospitals plus 11 special medical institutions) and 3,114 health clinics."
-  - "Budget 2024 allocated RM41.2 billion to the ministry (RM35.2b operating, RM6.1b development), rising to RM45.3 billion in Budget 2025."
-  - "It regulates the sector under laws including the Private Healthcare Facilities and Services Act 1998 (Act 586) and the Food Act 1983."
-appliesTo: "Patients and the public using government health services, private healthcare operators, health professionals, and anyone researching how Malaysia's health system is governed."
+  - "KKM is Malaysia's federal health ministry, headquartered at Complex E, Putrajaya; it is led by Minister of Health Dzulkefly Ahmad (since 12 December 2023)."
+  - "Datuk Dr Mahathar Abd Wahab became Director-General of Health effective 29 May 2025."
+  - "The public sector runs 149 hospitals with 45,964 beds — about 71% of all hospital beds nationally — versus 212 private hospitals with 18,779 beds."
+  - "Public outpatient visits cost a nominal RM1 including medication; the maximum billable in a third-class ward is RM500 inclusive of everything."
+  - "Budget 2026 allocated RM46.5 billion to the ministry, up 2.8% from RM45.3 billion in Budget 2025 — the second-highest of any ministry after education."
+appliesTo: "Patients and the public using government health services, private healthcare operators, health professionals, and anyone researching how Malaysia's health system is governed and financed."
 faq:
+  - q: "How much does it cost to see a doctor at a government clinic?"
+    a: "Public health facilities charge a nominal RM1 (about USD0.30), inclusive of medication, for an outpatient attendance. The system is tax-financed and heavily subsidised; the maximum billable in a third-class hospital ward is RM500, inclusive of all procedures, medication, diagnostics and ward charges."
   - q: "What is the difference between KKM and MOH?"
     a: "They are the same body. KKM is the Malay acronym (Kementerian Kesihatan Malaysia); MOH is the English acronym (Ministry of Health). Both refer to the federal health ministry."
-  - q: "Who leads the Ministry of Health?"
-    a: "Politically it is led by the Minister of Health (Dzulkefly Ahmad since December 2023), supported by a Deputy Minister. The senior civil-service and technical head is the Director-General of Health."
   - q: "Does KKM run private hospitals?"
-    a: "No. KKM operates the public (government) hospitals and clinics and separately regulates private healthcare facilities, which must be licensed by the Director-General of Health under the Private Healthcare Facilities and Services Act 1998."
+    a: "No. KKM operates the public hospitals and clinics and separately regulates private healthcare under the Private Healthcare Facilities and Services Act 1998 (Act 586), which sets minimum quality and safety standards and caps the fees doctors may charge for procedures."
 lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 status: "in-review"
 aiAssisted: true
 reviewer: null
-version: "0.1"
+version: "0.2"
 revisions:
   - version: "0.1"
     date: 2026-08-10
     change: "Initial AI draft."
     reviewer: null
+  - version: "0.2"
+    date: 2026-08-14
+    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
+    reviewer: null
 verificationNeeded:
-  - "Current Director-General of Health: official portal lists Farida Mohd Ali, while other reporting names Mahathar Abd Wahab (appointed May 2025) — confirm the incumbent and appointment date against KKM's leadership page before naming."
-  - "Current Deputy Minister of Health identity and appointment date."
-  - "Exact founding year framing: the Minister of Health post dates to 1955; the standalone Ministry of Health (separated from social welfare) is generally dated to 1963 — confirm precise wording against KKM's official 'Brief History'."
-updated: 2026-08-10
+  - "Exact current number of Klinik Kesihatan and Community Clinics (KKom) — a snippet cited ~1,100 klinik kesihatan and 228 KKom as of 31 Dec 2023; confirm against MOH Health Facts 2023 (the official PDF returns HTTP 403 to automated fetch)."
+  - "Current Deputy Minister(s) of Health — confirm identity, spelling and number against the moh.gov.my staff directory."
+  - "Total MOH workforce headcount — Wikipedia cites 267,578 (2020); confirm the latest official figure."
+  - "Whether the RM1 outpatient fee and RM500 third-class ward cap are still current (the BMC case study is from 2012); confirm against the current Fees (Medical) Order under the Fees Act 1951."
+  - "Formal establishment year of the ministry as a distinct federal ministry — reconcile the 1963 renaming against the continuity described from 1956–1962, using the official 'Brief History' page."
+  - "Latest official counts of dental clinics and community/1Malaysia clinics from Health Facts."
+  - "Life expectancy and doctor-to-population ratio from the latest MOH Health Facts / DOSM for context."
+updated: 2026-08-14
 sources:
-  - title: "Ministry Leadership — Ministry of Health Malaysia"
-    url: "https://www.moh.gov.my/en/corporate-info/ministry-leadership"
-    publisher: "Ministry of Health Malaysia"
-  - title: "Brief History — Ministry of Health Malaysia"
-    url: "https://moh.gov.my/en/corporate-info/brief-history"
-    publisher: "Ministry of Health Malaysia"
-  - title: "Health Facts 2024 (reference data for 2023)"
-    url: "https://www.moh.gov.my/moh/resources/Penerbitan/Penerbitan%20Utama/HEALTH%20FACTS/Health_Facts_2024.pdf"
-    publisher: "Ministry of Health Malaysia"
-  - title: "Private Healthcare Facilities and Services Act 1998 (Act 586)"
-    url: "https://www.moh.gov.my/en/publications-and-reports/policies-act-policies-guide-lines/akta-kesihatan/senarai-akta-kesihatan/private-healthcare-facilities-and-services-act-1998"
-    publisher: "Ministry of Health Malaysia"
-  - title: "Food Act 1983"
-    url: "https://www.moh.gov.my/en/publications-and-reports/policies-act-policies-guide-lines/akta-kesihatan/senarai-akta-kesihatan/food-act-1983"
-    publisher: "Ministry of Health Malaysia"
-  - title: "Budget 2024: Health Ministry gets biggest increase in allocation with RM41.2bil"
-    url: "https://www.thestar.com.my/news/nation/2023/10/13/budget-2024-health-ministry-gets-biggest-increase-in-allocation-with-rm412bil"
-    publisher: "The Star"
-  - title: "Budget 2025: Health Ministry Gets RM45.3 Billion"
-    url: "https://codeblue.galencentre.org/2024/10/budget-2025-health-ministry-gets-rm45-3-billion-most-of-increased-allocation-goes-to-emoluments/"
-    publisher: "CodeBlue (Galen Centre)"
   - title: "Ministry of Health (Malaysia)"
     url: "https://en.wikipedia.org/wiki/Ministry_of_Health_(Malaysia)"
     publisher: "Wikipedia"
+  - title: "Dr Mahathar Abd Wahab appointed as Malaysia's new Director-General of Health"
+    url: "https://cancermatters.cancer.org.my/2025/05/29/dr-mahathar-abd-wahab-appointed-as-malaysias-new-director-general-of-health/"
+    publisher: "Cancer Matters (National Cancer Society Malaysia)"
+  - title: "Budget 2026: Health Spending Growth Slows, MOH Gets RM46.5 Bil"
+    url: "https://codeblue.galencentre.org/2025/10/budget-2026-health-spending-growth-slows-moh-gets-rm46-5-bil/"
+    publisher: "CodeBlue (Galen Centre)"
+  - title: "Budget 2025: Health Ministry gets second highest allocation at RM45.3bil"
+    url: "https://www.thestar.com.my/news/nation/2024/10/18/budget-2025-health-ministry-gets-second-highest-allocation-at-rm453bil"
+    publisher: "The Star"
+  - title: "Patient Arrivals In MOH Rose 18% From 2020 To 2023"
+    url: "https://codeblue.galencentre.org/2025/09/patient-arrivals-in-moh-rose-18-from-2020-to-2023/"
+    publisher: "CodeBlue (Galen Centre)"
+  - title: "Financing Universal Coverage in Malaysia: a case study"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC3381695/"
+    publisher: "BMC Public Health (PMC)"
+  - title: "Private Healthcare Facilities and Services Act 1998 (Act 586)"
+    url: "https://www.moh.gov.my/en/publications-and-reports/policies-act-policies-guide-lines/akta-kesihatan/senarai-akta-kesihatan/private-healthcare-facilities-and-services-act-1998"
+    publisher: "Ministry of Health Malaysia"
+  - title: "Sejarah Kementerian Kesihatan Malaysia (KKM)"
+    url: "https://www.mywilayah.com/2020/03/sejarah-kementerian-kesihatan-malaysia.html"
+    publisher: "MyWilayah (citing MOH brief history)"
 entity: "Ministry of Health Malaysia (Kementerian Kesihatan Malaysia)"
 relations: []
 related: []
-keywords: ["Ministry of Health Malaysia", "KKM", "Kementerian Kesihatan Malaysia", "MOH Malaysia", "Dzulkefly Ahmad", "Director-General of Health", "Putrajaya health ministry", "public hospitals Malaysia"]
+keywords: ["Ministry of Health Malaysia", "KKM", "Kementerian Kesihatan Malaysia", "MOH Malaysia", "Menteri Kesihatan Malaysia", "Director-General of Health", "Ketua Pengarah Kesihatan", "klinik kesihatan", "moh.gov.my", "Malaysia public healthcare", "Dzulkefly Ahmad", "RM1 clinic fee"]
 ---
 
-The **Ministry of Health Malaysia** — *Kementerian Kesihatan Malaysia* (**KKM**), or **MOH** in English — is the federal ministry that sets national health policy and delivers public healthcare across the country. It runs a country-wide network of government hospitals and clinics, and it acts as the sector's regulator for medicines, food safety, private healthcare facilities and health professionals. The ministry is headquartered at Kompleks E, Pusat Pentadbiran Kerajaan Persekutuan, 62590 Putrajaya, with a general line of **03-8000 8000**.
+When you walk into a Malaysian government clinic, hand over a RM1 note, and walk out with your consultation and your medicine covered, you are using one of the most heavily subsidised health systems in the world. Running it is the **Ministry of Health Malaysia** — *Kementerian Kesihatan Malaysia* (**KKM**), or **MOH** in English — the federal ministry responsible for public health, medical care, medical research, health promotion, pharmaceutical and medical-device regulation, dental care and patient safety. It is headquartered at Complex E (Blocks E1, E3, E6, E7 and E10) in the Federal Government Administrative Centre, 62590 Putrajaya.
 
-## Leadership
+## Who runs the ministry?
 
-KKM has a dual leadership structure common to Malaysian ministries:
+KKM has the dual leadership structure common to Malaysian ministries — a political head and a top civil-service head.
 
 | Role | Nature | Holder |
 |---|---|---|
-| Minister of Health | Political head, accountable to Cabinet and Parliament | Dzulkefly Ahmad (since 12 December 2023) |
-| Deputy Minister of Health | Political, assists the Minister | See verificationNeeded |
-| Director-General of Health (KPK) | Senior civil-service and technical head | See verificationNeeded |
+| Minister of Health | Political head | Datuk Seri Dr Dzulkefly Ahmad (since 12 December 2023) |
+| Director-General of Health | Senior civil-service and technical head | Datuk Dr Mahathar Abd Wahab (effective 29 May 2025) |
 
-The **Minister** directs policy and is answerable to the Prime Minister and Parliament. The **Director-General of Health** (Ketua Pengarah Kesihatan) is the top civil servant and the ministry's chief technical and professional authority — the office that, for example, licenses private hospitals.
+The **Director-General of Health** (*Ketua Pengarah Kesihatan*) is the ministry's chief technical and professional authority. Dr Mahathar succeeded Datuk Dr Muhammad Radzi Abu Hassan, who retired on 1 May 2025 after serving in the post since April 2023.
 
-## What KKM does
+## How big is the public system?
 
-The ministry's mandate spans three broad functions:
+Malaysia runs a mixed system: a large, tax-funded public sector operated by KKM alongside a private sector. The public sector operates **149 public hospitals with 45,964 beds** — about **71% of all hospital beds nationally** — compared with 212 private hospitals and 18,779 private beds.
 
-- **Policy and stewardship** — formulating national health policy, planning services and setting clinical and public-health standards.
-- **Service delivery** — operating public (government) hospitals, health clinics and rural clinics that provide heavily subsidised curative, preventive and rehabilitative care.
-- **Regulation** — licensing private healthcare facilities, registering health professionals, controlling medicines and poisons, and enforcing food safety.
+Demand has grown sharply. Patient arrivals at MOH facilities rose **18%, from 57.9 million in 2020 to 68.2 million in 2023**. In 2023 the public sector recorded roughly 2.7 million hospital admissions and 19.6 million outpatient arrivals. Delivering that care is a workforce that, on figures reported in 2025, included around 32,558 medical officers, 8,515 specialist doctors, 69,801 nurses and 15,251 assistant medical officers.
 
-## The public health network
+## How is public healthcare financed and priced?
 
-Malaysia runs a mixed system: a large, tax-funded public sector operated by KKM alongside a private sector. As of the end of 2023, the ministry recorded **149 government hospitals** (138 hospitals plus 11 special medical institutions) and **3,114 health clinics** — a mix of health clinics, rural clinics, maternal-and-child health clinics and community clinics. Public care is subsidised from general government revenue rather than through a mandatory national health-insurance scheme.
+The MOH system functions as a **tax-financed, heavily subsidised national health service** open to all Malaysians, with a policy aim of geographical access to a health facility within an average 5 km radius.
 
-## Budget
+The prices are nominal. Public facilities charge only **RM1 (about USD0.30), inclusive of medication**, for an outpatient attendance. Even inpatient care is capped: the maximum billable in a **third-class ward is RM500**, inclusive of all procedures, medication, diagnostics and ward charges.
 
-Health is one of the largest lines in the federal budget. **Budget 2024** allocated **RM41.2 billion** to the ministry — about RM35.2 billion for operating expenditure and RM6.1 billion for development — described at the time as one of the biggest year-on-year increases among ministries. The allocation rose again to **RM45.3 billion** in **Budget 2025**.
+## What does KKM regulate beyond its own hospitals?
 
-## Legislation KKM administers
+Alongside running public facilities, KKM is the sector's regulator. It administers the **Private Healthcare Facilities and Services Act 1998 (Act 586)**, which sets minimum quality and safety standards for private healthcare facilities and includes a schedule capping the fees doctors may charge for procedures.
 
-The ministry enforces a body of health law. Two frequently cited statutes are:
+Its work is carried out through a range of agencies and bodies, including:
 
-- **Private Healthcare Facilities and Services Act 1998 (Act 586)** — no private healthcare facility or service (other than a private medical or dental clinic) may be established or maintained without the approval of the Director-General of Health.
-- **Food Act 1983** — the framework for food safety and standards enforcement.
+- the **National Institutes of Health (NIH)**, with institutes for medical research, public health and health systems research;
+- the **Malaysian Health Promotion Board**;
+- the **Medical Device Authority**; and
+- the **Malaysia Healthcare Travel Council**.
 
-The ministry also administers laws governing medicines, poisons and the registration of medical, dental and pharmacy professionals.
+## Where did the ministry come from?
 
-## A short history
+Malaysia's health institutions predate independence. The **Institute for Medical Research (IMR)** was established in **1900** to study tropical infectious diseases such as malaria and beriberi, and at independence in 1957 the country had just **65 hospitals**.
 
-The office of Minister of Health dates to 1955, with health administration reorganised after independence in 1957. For periods it was combined with social welfare as the Ministry of Health and Social Welfare; the standalone **Ministry of Health** is generally dated to the 1963 formation of the Federation of Malaysia, when health functions were separated from welfare. Exact framing should be confirmed against KKM's official brief history (see verificationNeeded).
+For two periods (1956–1957 and 1960–1962) the ministry operated as the "Ministry of Health and Community Welfare"; its first minister in that form was Tun V. T. Sambanthan (1957–1959). From **1963** it took the name **Ministry of Health** under minister Abdul Rahman Talib.
 
 ## What's next
 
-For official service information, facility directories and current leadership, consult the ministry's portal at **moh.gov.my**. Related NegaraKu.md topics on specific health laws, agencies (such as the National Pharmaceutical Regulatory Agency) and public services can be linked here once those pages exist.
+For official service information, facility directories and current leadership, the ministry's portal is at **moh.gov.my**. Several figures above — clinic counts, the current fee schedule and the latest workforce total — should be confirmed against MOH's own *Health Facts* and the relevant Fees Orders (see the verification notes); a later NegaraKu.md pass will wire this page to related topics on specific health laws and agencies.

@@ -1,105 +1,113 @@
 ---
 topicId: "MY-AGR-0016"
 title: "Department of Fisheries Malaysia (DOF)"
-seoTitle: "Department of Fisheries Malaysia (DOF): Role & Law"
+seoTitle: "Department of Fisheries Malaysia (DOF): Role & Licensing"
+socialTitle: "Who governs Malaysia's fish? Inside the DOF and the law behind every licence"
 slug: "department-of-fisheries-malaysia"
 category: "agriculture"
 subcategory: ["fisheries-governance"]
-summary: "The federal agency that manages, conserves and regulates Malaysia's marine and inland fisheries under the Fisheries Act 1985."
+summary: "The Department of Fisheries Malaysia (DOF), an agency under the Ministry of Agriculture and Food Security, manages the nation's marine and aquaculture resources and licenses all fishing activity under the Fisheries Act 1985."
 tier: "4"
 mode: "practical"
 contentType: "agency"
 sensitivity: "none"
-answer: "The Department of Fisheries Malaysia (DOF), or Jabatan Perikanan Malaysia, is the federal agency responsible for managing, conserving and developing the country's fisheries and aquaculture. It sits under the Ministry of Agriculture and Food Security (MAFS) and administers the Fisheries Act 1985 (Act 317), which governs fishing licences, aquaculture, marine parks and enforcement in Malaysian fisheries waters. Its head is the Director-General of Fisheries, and its headquarters is at Wisma Tani, Putrajaya."
+answer: "The Department of Fisheries Malaysia (DOF), or Jabatan Perikanan Malaysia, is the federal agency that manages Malaysia's marine and aquaculture resources and licenses all fishing activity. It operates under the Ministry of Agriculture and Food Security (MAFS), administers the Fisheries Act 1985 (Act 317), and is led by the Director-General of Fisheries, the management authority for licences under that law. Its headquarters is at Wisma Tani, Putrajaya."
 keyTakeaways:
-  - "DOF traces its origins to the Colonial Fisheries Unit set up in 1894; the first Director-General of the modern department was appointed in 1971."
-  - "It is a federal department under the Ministry of Agriculture and Food Security (MAFS), headquartered at Wisma Tani, Putrajaya."
-  - "DOF administers and enforces the Fisheries Act 1985 (Act 317), which came into force on 30 May 1985 (Part IX from 1 January 1986) and was amended in 1993 and 2012."
-  - "The Director-General of Fisheries is the management authority for fishing licences, permits and marine parks under the Act."
-  - "The department is organised into around 13 divisions and units covering capture fisheries, aquaculture, conservation and protection, research, biosecurity and extension."
-appliesTo: "Fishers, aquaculture operators, exporters/importers of fishery products, students and researchers, and anyone needing the authoritative reference on Malaysia's fisheries regulator."
+  - "DOF is a federal agency under the Ministry of Agriculture and Food Security (MAFS), headquartered at Wisma Tani, Putrajaya, with a network of state and district offices."
+  - "It administers the Fisheries Act 1985 (Act 317), under which the Director-General of Fisheries is the management authority; Part IV governs general licensing and Part V foreign fishing vessels."
+  - "All fishing with equipment or vessels in Malaysian waters must be licensed; DOF issues vessel, deep-sea (C2), tuna (C3), marine culture (SKL) and fish-aggregate-device (MPPI) licences plus fisherman cards."
+  - "Sampan, Zone A, Zone B and Zone C licences are frozen — only deep-sea (C2) and tuna (C3) licences remain available."
+  - "Malaysia's total fisheries production value in 2023 was RM16.5 billion, up 3.6% from RM15.9 billion in 2022; edible fish production was 1.79 million tonnes."
+appliesTo: "Fishers, aquaculture operators, exporters and importers of fishery products, students, researchers, and anyone needing an authoritative reference on Malaysia's fisheries regulator."
 faq:
   - q: "Which ministry does the Department of Fisheries Malaysia report to?"
-    a: "DOF is a federal department under the Ministry of Agriculture and Food Security (MAFS), formed in December 2022 (previously the Ministry of Agriculture and Food Industry)."
+    a: "DOF operates under the Ministry of Agriculture and Food Security (MAFS)."
+  - q: "Do I need a licence to fish in Malaysian waters?"
+    a: "Yes. All fishing using equipment and boats or vessels in Malaysian waters is subject to the Fisheries Act 1985 and must be licensed by DOF. However, licences for Sampan and Zones A, B and C are currently frozen; only deep-sea (C2) and tuna (C3) licences remain available."
   - q: "What law does DOF administer?"
-    a: "Its principal statute is the Fisheries Act 1985 (Act 317), covering the conservation, management and development of fishing and fisheries in Malaysian fisheries waters, including licensing, aquaculture, turtles and marine parks."
-  - q: "Who leads the Department of Fisheries?"
-    a: "It is headed by the Director-General of Fisheries (Ketua Pengarah Perikanan), the management authority for licences and permits under the Fisheries Act 1985."
+    a: "Its principal statute is the Fisheries Act 1985 (Act 317), covering the conservation, management and development of fishing and fisheries in Malaysian waters, including licensing, aquaculture, aquatic mammals and turtles."
 lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 status: "in-review"
 aiAssisted: true
 reviewer: null
-version: "0.1"
+version: "0.2"
 revisions:
   - version: "0.1"
     date: 2026-08-10
     change: "Initial AI draft."
     reviewer: null
+  - version: "0.2"
+    date: 2026-08-14
+    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
+    reviewer: null
 verificationNeeded:
-  - "Name of the sitting Director-General of Fisheries (reported as Dato' Adnan bin Hussain, appointed 10 March 2023) — confirm against the current DOF higher-management page before publishing."
-  - "Exact current count of divisions/units (listed as ~13) may change with reorganisation; reconfirm against the DOF corporate-info page."
-  - "Total section/Part count of Act 317 (reported as 11 Parts, 62 sections as of the 2012 reprint) — confirm against the AGC consolidated text."
-updated: 2026-08-10
+  - "DOF's founding/establishment year and institutional history (predecessor Fisheries Act 1963) — not confirmed on any primary page opened."
+  - "2024 statistics reported in press (total production ~1.91 million tonnes, sector value ~RM16.9 billion, 7.1% growth) — confirm against the DOF Annual Statistics / Annual Report primary PDF before stating."
+  - "Exact statutory section numbers for licensing (e.g. section 11 for local fishing vessels) — verify against the AGC/FAOLEX text of Act 317."
+  - "Current licence and registration fees — not published in the licensing FAQ."
+  - "Exact nautical-mile boundaries defining Zones A/B/C — the FAQ gives only partial ranges."
+  - "Number and locations of DOF state and district offices — confirm from the DOF state-office-location page."
+updated: 2026-08-14
 sources:
-  - title: "Corporate Info — Department of Fisheries Malaysia Official Portal"
-    url: "https://www.dof.gov.my/en/corporate-info/"
-    publisher: "Department of Fisheries Malaysia (DOF)"
   - title: "Vision, Mission & Role — Department of Fisheries Malaysia Official Portal"
     url: "https://www.dof.gov.my/en/corporate-info/introduction/vision-mission-role/"
-    publisher: "Department of Fisheries Malaysia (DOF)"
-  - title: "Establishment History — Department of Fisheries Malaysia Official Portal"
-    url: "https://www.dof.gov.my/en/corporate-info/introduction/establishment-history/"
-    publisher: "Department of Fisheries Malaysia (DOF)"
-  - title: "Fisheries Act 1985 (Act 317)"
+    publisher: "Department of Fisheries Malaysia"
+  - title: "Contact Us — Department of Fisheries Malaysia Official Portal"
+    url: "https://www.dof.gov.my/en/contact-us/"
+    publisher: "Department of Fisheries Malaysia"
+  - title: "Licensing FAQ — Department of Fisheries Malaysia Official Portal"
+    url: "https://www.dof.gov.my/en/frequently-asked-questions/licensing-faq/"
+    publisher: "Department of Fisheries Malaysia"
+  - title: "Fisheries Industry Scenario — Department of Fisheries Malaysia Official Portal"
+    url: "https://www.dof.gov.my/en/corporate-info/introduction/fisheries-industry-scenario/"
+    publisher: "Department of Fisheries Malaysia"
+  - title: "Fisheries Act 1985 — Wikipedia"
     url: "https://en.wikipedia.org/wiki/Fisheries_Act_1985"
-    publisher: "Wikipedia (citing Act 317)"
-  - title: "Fisheries Act 1985 (No. 317 of 1985)"
-    url: "https://leap.unep.org/en/countries/my/national-legislation/fisheries-act-1985-no-317-1985"
-    publisher: "UNEP Law and Environment Assistance Platform"
+    publisher: "Wikipedia"
+  - title: "Overview of the fishery and aquaculture sectors in Malaysia — Frontiers in Sustainable Food Systems"
+    url: "https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2025.1545263/full"
+    publisher: "Frontiers in Sustainable Food Systems"
 entity: "Department of Fisheries Malaysia (Jabatan Perikanan Malaysia)"
-relations:
-  - { rel: "related-to", to: "malaysian-fisheries-industry" }
-  - { rel: "related-to", to: "ministry-of-agriculture-food-security-and-agencies" }
-related: ["malaysian-fisheries-industry", "ministry-of-agriculture-food-security-and-agencies"]
-keywords: ["Department of Fisheries Malaysia", "DOF", "Jabatan Perikanan Malaysia", "Fisheries Act 1985", "Act 317", "Director-General of Fisheries", "aquaculture Malaysia", "fishing licence Malaysia"]
+relations: []
+related: []
+keywords: ["Department of Fisheries Malaysia", "DOF", "Jabatan Perikanan Malaysia", "Fisheries Act 1985", "fishing licence Malaysia", "aquaculture Malaysia", "dof.gov.my", "fisheries statistics Malaysia", "fishing zones Malaysia", "Director-General of Fisheries"]
 ---
 
-The **Department of Fisheries Malaysia (DOF)** — *Jabatan Perikanan Malaysia* — is the federal agency that manages, conserves, regulates and develops the country's marine and inland fisheries and aquaculture. It operates under the **Ministry of Agriculture and Food Security (MAFS)** and is the authority that administers and enforces the **Fisheries Act 1985 (Act 317)**. Its head is the **Director-General of Fisheries** (*Ketua Pengarah Perikanan*), and its headquarters is at Wisma Tani, Presint 4, Putrajaya.
+Every boat that legally casts a net in Malaysian waters answers, in the end, to one agency. The **Department of Fisheries Malaysia (DOF)** — *Jabatan Perikanan Malaysia* — is the federal body that manages the nation's marine and aquaculture resources and licenses all fishing activity. It operates under the **Ministry of Agriculture and Food Security (MAFS)**, administers the **Fisheries Act 1985 (Act 317)**, and is led by the **Director-General of Fisheries**. Its headquarters is at Wisma Tani, Putrajaya, supported by a network of state and district offices.
 
-## What DOF does
+## What does DOF do?
 
-DOF's stated vision is "to be the leader in the transformation of a sustainable and competitive fishery." Its mission has three pillars: developing a dynamic, market-based fisheries industry; managing national fishery resources efficiently and in an environmentally friendly way based on scientific information and good governance; and strengthening the delivery system through skilled human capital.
+DOF's official vision is "to be the leader in the transformation of a sustainable and competitive fishery." Its mission has three strands: developing a dynamic, market-based fisheries industry through creative and innovative approaches; managing national fishery resources efficiently and in an environmentally friendly manner based on scientific information and good governance; and enhancing the delivery system through skilled, knowledgeable and professional human capital.
 
-In practice this covers:
+Its stated roles run from managing fishery resources on technical and scientific expertise, to increasing domestic food supply, generating income for target groups, contributing to national exports, implementing the National Agrofood Policy, and achieving food sovereignty through self-sufficient fish production.
 
-- **Capture fisheries** — planning and monitoring resource-management programmes under the Fisheries Act 1985 to keep exploitation of Malaysian fisheries waters and the high seas sustainable, secure food supply and reduce imports.
-- **Aquaculture** — developing policy, legislation and programmes for the marine and inland aquaculture industry, including aquaculture zoning.
-- **Conservation and protection** — coordinating enforcement and Monitoring, Control and Surveillance (MCS) to safeguard fishery resources, plus managing marine parks and turtle conservation.
-- **Research, biosecurity and extension** — data collection, the Fisheries Research Institute, fish health/biosecurity, and advisory services to fishers and farmers.
+## What law governs it?
 
-## Structure and leadership
+DOF's principal statute is the **Fisheries Act 1985 (Act 317)**, which received royal assent on 22 May 1985 and commenced on 30 May 1985 (except Part IX for Sabah, from 1 January 1986). Organised into eleven parts and 62 sections, it covers the conservation, management and development of maritime and estuarine fishing in Malaysian waters, plus protection of aquatic mammals, turtles and riverine fisheries. Under the Act the **Director-General of Fisheries is the management authority**: Part IV governs general licensing and Part V foreign fishing vessels. It has been amended by the Fisheries (Amendment) Act 1993 [Act A854] and the Fisheries (Amendment) Act 2012 [Act A1413].
 
-The department is organised into roughly **13 divisions and units**, including the Capture Fishery Resources, Aquaculture, Fisheries Conservation & Protection, Fisheries Biosecurity, Policy & Strategic Planning, Engineering, Fisheries Extension and Information Management divisions, the Fisheries Research Institute, and a Legal Office. It is led by the Director-General of Fisheries.
+## Who needs a licence?
 
-| Attribute | Detail |
+All fishing using equipment and boats or vessels in Malaysian waters is subject to the Act and must be licensed. DOF issues several categories:
+
+| Licence / permit | Covers |
 |---|---|
-| Malay name | Jabatan Perikanan Malaysia |
-| Parent ministry | Ministry of Agriculture and Food Security (MAFS) |
-| Headquarters | Wisma Tani, Presint 4, Putrajaya |
-| Principal statute | Fisheries Act 1985 (Act 317) |
-| Head of department | Director-General of Fisheries |
-| Origins | Colonial Fisheries Unit, 1894 |
+| Vessel & traditional-equipment licences | Boats and traditional fishing gear |
+| Deep-sea commercial (C2) | Deep-sea fishing operations |
+| Tuna fishing (C3) | Tuna fishing operations |
+| Marine culture (SKL) | Marine aquaculture |
+| Fish aggregate device (MPPI) | Fish-attracting installations |
+| Fisherman cards | Local and foreign crew |
 
-## History
+Crucially, the issuance of licences for **Sampan, Zone A, Zone B and Zone C is frozen** — only deep-sea (C2) and tuna (C3) licences remain available. Sampan licences, when issued, went only to a "genuine fisherman": someone holding a DOF fishing registration card, directly involved in the industry for 120 days a year, with no other occupation.
 
-The department's lineage runs back to the **Colonial Fisheries Unit founded in 1894** under British administration. Early fisheries regulation began with the **Fisheries Ordinance 1909** (amended 1912, 1924 and 1926), later replaced by the Fisheries Rules 1951. The **Fisheries Act 1963** took effect in Peninsular Malaysia on 21 January 1963. The modern department took shape when its **first Director-General was appointed in 1971**.
+## How big is the sector?
 
-## The Fisheries Act 1985 (Act 317)
+Malaysia's **total fisheries production value in 2023 was RM16.5 billion**, a 3.6% rise from RM15.9 billion in 2022. Edible fish production was 1.79 million metric tonnes (down 5.51% from 1.89 million in 2022), alongside 241 million pieces of ornamental fish and 26 million bunches of aquatic plants.
 
-Act 317 is DOF's principal legal instrument. It received royal assent on **22 May 1985** and came into force on **30 May 1985**, with Part IX applying from **1 January 1986** (except, initially, in Sabah). It covers the conservation, management and development of maritime and estuarine fishing in Malaysian fisheries waters, riverine fishing and turtles, together with licensing of fishing vessels, foreign fishing vessels, aquaculture and the establishment of marine parks and marine reserves. Under the Act the **Director-General of Fisheries is the management authority**, including the power to set conditions on permits. The Act has been amended, notably in **1993** and **2012**.
+Broader context from peer-reviewed analysis: in 2022 the sector was valued at RM15.97 billion, contributing 11.6% of agricultural GDP and 0.8% of national GDP, and directly employed 149,630 workers. Production split 69% marine capture, 30% aquaculture and 1% inland, with a food-fish self-sufficiency ratio of 90.2%, per capita consumption of 46.22 kg, and 48,605 active fishing vessels.
 
 ## What's next
 
-For the wider economic picture and catch/production figures, see the related **Malaysian fisheries industry** article; for the parent ministry and its other agencies, see **Ministry of Agriculture and Food Security and its agencies**. Always confirm current licence procedures, fees and the sitting Director-General directly on the DOF portal at dof.gov.my before relying on them.
+Confirm current licence procedures, fees and the sitting Director-General directly on the DOF portal at dof.gov.my before relying on them. The 2024 production figures and the department's institutional history remain to be verified against DOF's primary annual reports.

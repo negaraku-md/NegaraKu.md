@@ -1,107 +1,137 @@
 ---
 topicId: "MY-CS-0061"
-title: "MBRS: XBRL Financial Statement Filing to SSM"
-seoTitle: "MBRS: XBRL Financial Statement Filing to SSM"
+title: "How to File Financial Statements to SSM via MBRS (XBRL)"
+seoTitle: "MBRS Filing to SSM: XBRL Financial Statements"
+socialTitle: "The XBRL Deadline That Catches Half of Malaysia's Companies Off Guard"
 slug: "mbrs-xbrl-filing"
 category: "company-secretary"
-subcategory: ["statutory-filing"]
-summary: "How Malaysian companies lodge financial statements, annual returns and exemption applications with SSM in XBRL format through the Malaysian Business Reporting System (MBRS)."
+subcategory: ["filings"]
+summary: "MBRS is SSM's mandatory XBRL platform for lodging financial statements, annual returns and exemption applications; since MBRS 2.0's Phase 3 on 1 June 2025, virtually every Malaysian company must file its full financial statements digitally."
 tier: "3"
 mode: "practical"
 contentType: "agency"
 sensitivity: "none"
-answer: "MBRS (Malaysian Business Reporting System) is SSM's XBRL-based platform for lodging financial statements, annual returns and related exemption applications. Companies prepare filings offline in the free MBRS Preparation Tool (mTool), then a licensed company secretary or agent lodges the generated XBRL file through the MBRS Portal (mPortal). Since the MBRS 2.0 rollout, XBRL lodgement of financial statements is mandatory rather than optional."
+answer: "MBRS (Malaysian Business Reporting System) is SSM's XBRL-based platform for lodging financial statements, annual returns and exemption applications. You prepare the filing in the Excel-based MBRS Preparation Tool (mTool), tag it against the SSM Taxonomy, validate it, then lodge the generated XBRL file through the MBRS Portal (mPortal). Since MBRS 2.0 Phase 3 took effect on 1 June 2025, digital XBRL lodgement of audited financial statements is mandatory for all companies under the Companies Act 2016."
 keyTakeaways:
-  - "MBRS has three components: the SSM XBRL Taxonomy (SSMxT), the Microsoft Excel-based Preparation Tool (mTool, free of charge), and the submission portal (mPortal), accessed via SSM4U."
-  - "It covers three filing families — Annual Return (AR), Financial Statements and Key Financial Indicators (FS/KFI), and Exemption Applications (EA) — under the Companies Act 2016 (and legacy Companies Act 1965 filings)."
-  - "Financial statements are tagged against MFRS or MPERS taxonomies; the full XBRL set includes the statement of financial position, profit or loss, cash flows, changes in equity and notes, plus the directors' and auditors' reports."
-  - "A 'Maker' prepares and uploads the XBRL file; a 'Lodger' (licensed company secretary or agent, with a digital certificate) must lodge it within 3 days of upload or the filing is purged."
-  - "A Pos Digicert digital certificate is required to sign filings — RM47.70 for one year or RM95.40 for two years (inclusive of service charge); lodgement fees follow the Companies Regulations 2017."
-appliesTo: "Malaysian private and public companies, foreign companies registered in Malaysia, and the company secretaries, company agents and their assistants who prepare and lodge statutory filings with SSM."
+  - "MBRS has three core components: the SSM Taxonomy (SSMxT), the MBRS Preparation Tool (mTool) for building the XBRL file, and the MBRS Portal (mPortal) for lodgement — mPortal is reached through SSM4U and requires a Digital Certificate (PKI) for lodgers."
+  - "It handles three submission types: Annual Return (AR), Financial Statements and Reports (FS), and Exemption Applications (EA)."
+  - "SSM announced mandatory MBRS 2.0 on 26 November 2024 in three phases: 1 December 2024, 1 March 2025 and 1 June 2025."
+  - "From 1 June 2025 filing is fully mandatory, and financial institutions regulated by Bank Negara Malaysia — previously exempted — are now included."
+  - "The 1 June to 30 September 2025 waiver removed late-lodgement fees only; it did NOT extend the statutory deadlines under the Companies Act 2016."
+appliesTo: "Malaysian private and public companies, and the company secretaries and agents who prepare and lodge their statutory financial statements, annual returns and exemption applications with SSM."
 faq:
-  - q: "Is XBRL filing through MBRS now compulsory?"
-    a: "Yes. Under the phased MBRS 2.0 implementation announced by SSM, digital XBRL lodgement of financial statements became mandatory, replacing the earlier optional/scanned arrangement. Annual returns and exemption applications are also lodged through MBRS."
-  - q: "Do I still need to file both an annual return and financial statements?"
-    a: "Yes — they are separate obligations. The annual return (Section 68, Companies Act 2016) is lodged within 30 days of the company's incorporation anniversary; financial statements are lodged under Section 259 after they are circulated to or laid before members. Filing one does not satisfy the other."
-  - q: "Can a foreign company or a Bank Negara-regulated institution file via MBRS?"
-    a: "Yes. MBRS has dedicated entry points for foreign companies (FS-FC, AR3 under Section 576) and for banking/finance/insurance entities regulated by Bank Negara Malaysia (FS-BNM), in addition to MFRS, MPERS, CLBG and exempt private company templates."
-  - q: "What software do I need to run mTool?"
-    a: "mTool runs only on Windows with a supported Microsoft Office edition (2010 to 365), .NET Framework 4.8 and Visual Studio Tools for Office Runtime 4.0. It does not run on macOS."
+  - q: "When must a company lodge its financial statements?"
+    a: "Under Section 259(1) of the Companies Act 2016, a private company lodges within 30 days from the date its financial statements are circulated to members, and a public company within 30 days from its AGM."
+  - q: "Did the 2025 late-lodgement fee waiver push back my deadline?"
+    a: "No. The waiver ran from 1 June to 30 September 2025 and removed late-lodgement fees only. It did not extend any statutory lodgement deadline under the Companies Act 2016."
 lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 status: "in-review"
 aiAssisted: true
 reviewer: null
-version: "0.1"
+version: "0.2"
 revisions:
   - version: "0.1"
     date: 2026-08-10
     change: "Initial AI draft."
     reviewer: null
+  - version: "0.2"
+    date: 2026-08-14
+    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
+    reviewer: null
 verificationNeeded:
-  - "Exact MBRS 2.0 mandatory phase dates (Phase 1 ~1 December 2024, subsequent phases to ~1 June 2025) — secondary/advisory sources conflict; confirm against SSM's official announcement/circular."
-  - "Precise statutory day-counts under CA 2016 s258/s259 for circulation and lodgement of financial statements (private vs public companies) — confirm against the Act text at AGC."
-  - "Current SSMxT taxonomy version and mTool release number at time of publication."
-updated: 2026-08-10
+  - "Exact statutory basis for the requirement that a lodger hold a practising certificate under Section 241 Companies Act 2016 — sources conflicted; confirm the exact section and wording before stating it."
+  - "Precise definition/threshold of an 'exempt private company' (EPC) under the Companies Act 2016 and exactly what an EPC lodges (an EPC certificate) instead of full XBRL financial statements — confirm on a primary SSM source before detailing."
+  - "Exact current mTool and mPortal version numbers — these change over time; verify the live version on ssm.com.my or omit."
+  - "Section 68 annual-return lodgement timing (commonly within 30 days of the incorporation anniversary) — confirm against AGC statute text or SSM before stating."
+  - "Exact scope of Phase 2 (audited FS under Companies Act 1965) vs Phase 1/3 — confirm the CA 1965 vs CA 2016 split against the original 26 November 2024 SSM circular, not secondary summaries."
+  - "Whether foreign companies registered in Malaysia have a distinct MBRS filing template or deadline — confirm specifics on SSM."
+updated: 2026-08-14
 sources:
-  - title: "MBRS (Malaysian Business Reporting System) — Services"
+  - title: "Pages - MBRS"
     url: "https://www.ssm.com.my/Pages/Services/Other-Services/MBRS.aspx"
     publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "Malaysian Business Reporting System (MBRS) — Frequently Asked Questions, Version 2.4 (Oct 2024)"
-    url: "https://www.ssm.com.my/Pages/Register_Business_Company_LLP/Company/document/FAQs_Malaysian_Business_Reporting_System_MBRS.pdf"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "Practice Directive No. 7/2021 (Revised: 1 December 2024) — Lodgement of Annexure on Beneficial Ownership Information of Annual Return under Sections 68 and 576 of the Companies Act 2016"
-    url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Practice%20Directive%207%202021%20(Revised)%2028112024.pdf"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+  - title: "What is MBRS? The Malaysian Business Reporting System Explained"
+    url: "https://www.mbrs.com.my/what-is-mbrs/"
+    publisher: "MBRS.com.my"
+  - title: "SSM - Mandatory Implementation of MBRS 2.0 in Stages (Technical Announcement)"
+    url: "https://maicsa.org.my/resources/technical-research/technical-announcements/2024/241127-ssm-mandatory-implementation-of-mbrs-20-in-stages"
+    publisher: "Chartered Secretaries Malaysia (MAICSA)"
   - title: "MBRS 2.0 Malaysia: Mandatory Filing Guide for Companies"
     url: "https://malaysia.incorp.asia/guides/mbrs-2-0-malaysia-compliance/"
     publisher: "InCorp Malaysia"
-entity: "Malaysian Business Reporting System (MBRS), Suruhanjaya Syarikat Malaysia (SSM)"
+  - title: "SSM Mandates MBRS 2.0 XBRL in Malaysia Starting 1st Dec 2024"
+    url: "https://datatracks.com/my/blog/ssm-mandates-implementation-of-mbrs-2/"
+    publisher: "DataTracks"
+  - title: "SSM Waives Late Lodgement Fees for MBRS 2.0: What Malaysian Companies Need to Know"
+    url: "https://malaysia.incorp.asia/blogs/ssm-waives-late-lodgement-fees-for-mbrs-2-0/"
+    publisher: "InCorp Malaysia"
+  - title: "Companies Act 2016: Practice Note No. 3/2018 (EOT for circulation and lodgement of financial statements)"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/PDF%20Tab%205/pn_ss_609_2592_3404_eot.pdf"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+  - title: "How to Prepare MBRS XBRL Financial Statements for Filing with SSM?"
+    url: "https://datatracks.com/my/blog/how-to-prepare-xbrl-mbrs-ssm/"
+    publisher: "DataTracks"
+  - title: "Malaysian Business Reporting System (MBRS) 2.0"
+    url: "https://www.bdo.my/en-gb/insights/featured-insights/malaysian-business-reporting-system-(mbrs)-2-0"
+    publisher: "BDO Malaysia"
+  - title: "How to File XBRL with SSM MBRS Malaysia Guide"
+    url: "https://xberratagger.my/how-to-file-xbrl-ssm-malaysia"
+    publisher: "Xberra Tagger"
+entity: "Malaysian Business Reporting System (MBRS)"
+relations: []
 related: []
-keywords: ["MBRS", "XBRL", "SSM", "mTool", "mPortal", "SSMxT", "financial statements", "annual return", "MBRS 2.0"]
+keywords: ["MBRS", "MBRS 2.0", "XBRL", "SSM", "mTool", "mPortal", "SSMxT", "SSM taxonomy", "financial statements filing Malaysia", "Companies Act 2016", "annual return", "exempt private company", "Suruhanjaya Syarikat Malaysia", "MFRS", "MPERS"]
 ---
 
-The **Malaysian Business Reporting System (MBRS)** is SSM's digital submission platform, based on the eXtensible Business Reporting Language (XBRL) format. It lets companies lodge their **Annual Return (AR)**, **Financial Statements and Key Financial Indicators (FS/KFI)**, and **Exemption Applications (EA)** — the guiding scopes drawn from the Companies Act 2016 (and legacy Companies Act 1965), and from the MFRS and MPERS accounting standards. Introduced by SSM in 2018 and since upgraded to **MBRS 2.0**, XBRL lodgement of financial statements is now mandatory.
+If your company still thinks it "files accounts with SSM" by handing over a signed PDF, that era has ended. The **Malaysian Business Reporting System (MBRS)** is SSM's submission platform built on the eXtensible Business Reporting Language (XBRL) format, and since **1 June 2025** lodging audited financial statements through it is mandatory for companies under the Companies Act 2016. Through MBRS a company lodges three submission types: the **Annual Return (AR)**, **Financial Statements and Reports (FS)**, and **Exemption Applications (EA)**.
 
-## The three components
+MBRS is not new — SSM introduced it in 2018 as a digital XBRL platform that was initially voluntary before it became compulsory. What changed is the upgrade to **MBRS 2.0**, built on the latest Malaysian Financial Reporting Standards (MFRS), the Malaysian Private Entities Reporting Standard (MPERS) and the revised Companies Act 2016, while retaining taxonomy for legacy Companies Act 1965 submissions.
 
-- **SSM XBRL Taxonomy (SSMxT):** a dictionary of financial and non-financial reporting elements, embedded in the preparation tool.
-- **MBRS Preparation Tool (mTool):** a free, Microsoft Excel-based add-in used to key in data offline and generate the XBRL file. It runs only on Windows with a supported Office edition, .NET Framework 4.8 and VSTOR 4.0 — not on macOS.
-- **MBRS Portal (mPortal):** the web platform, reached through **SSM4U** (ssm4u.com.my), where the XBRL file is uploaded, digitally signed, paid for and lodged.
+## What are the three components of MBRS?
 
-MBRS is separate from MyCoID: MyCoID updates company information, while MBRS is used to submit statutory financial and return filings.
+MBRS runs on three parts that work in sequence:
 
-## What you can file
-
-| Filing family | Examples of entry points | Governing sections (CA 2016) |
+| Component | What it is | Role in filing |
 |---|---|---|
-| Annual Return | AR1 (with share capital), AR2 (without), AR3 (foreign company) | s68; s576 (foreign) |
-| Financial Statements / KFI | FS-MFRS, FS-MPERS, FS-CLBG, FS-EPC, FS-BNM, FS-FC | s259 |
-| Exemption Applications | EA2 (KFI in lieu of full XBRL, s604(2)), EA3 (waive FC lodgement, s575(7)), EA5A/EA5B (extension of time, s259(2)), EA7 (extend AR lodgement, s609(2)) | various |
+| **SSMxT** | The SSM Taxonomy | The dictionary of reporting elements your data is tagged against |
+| **mTool** | MBRS Preparation Tool | An Excel-based application to enter data and generate the XBRL file using the latest taxonomy |
+| **mPortal** | MBRS Portal | The web platform, accessed through SSM4U, where the file is uploaded and lodged |
 
-The full XBRL financial statement set covers the statement of financial position, profit or loss, cash flows and changes in equity, notes, and the directors' and auditors' reports. Companies that obtain SSM's approval under EA2 may instead file **Key Financial Indicators (KFI)** rather than a full-tagged set.
+To lodge through mPortal, a lodger must hold a **Digital Certificate (PKI)** registered with SSM.
 
-## Roles: Maker and Lodger
+## When are the MBRS 2.0 phases mandatory?
 
-Two roles operate in mPortal. A **Maker** (company secretary assistant or agent assistant) prepares and uploads the XBRL file. A **Lodger** — a licensed company secretary or company agent holding a **digital certificate** — reviews, digitally signs, pays and lodges it. The Lodger must lodge within **3 days** of the Maker's upload, or the file is purged. mPortal verifies whether a company secretary is blacklisted or has an expired licence.
+On **26 November 2024** SSM announced the mandatory implementation of MBRS 2.0 in three phases:
 
-## Statutory deadlines
-
-MBRS does not change the underlying deadlines; it only changes the format.
-
-| Obligation | Trigger | Indicative deadline |
+| Phase | Commences | Scope |
 |---|---|---|
-| Annual Return (s68) | Anniversary of incorporation | Within 30 days of the anniversary |
-| Financial Statements (s259) — private company | Circulation to members | Within 30 days of circulation |
-| Financial Statements (s259) — public company | Annual general meeting | Within 30 days of the AGM |
+| Phase 1 | 1 December 2024 | Annual Return / Annual Statement, unaudited financial statements, and the Certificate for Exempt Private Company (CA 2016) |
+| Phase 2 | 1 March 2025 | Audited financial statements under the Companies Act 1965 |
+| Phase 3 | 1 June 2025 | Audited financial statements for all companies under the Companies Act 2016 |
 
-Where a company cannot meet these dates, it applies for an **extension of time** via the relevant EA (for example EA5B for lodging financial statements, EA7 for the annual return).
+From Phase 3, digital filing is fully mandatory — and financial institutions regulated by **Bank Negara Malaysia (BNM)**, previously exempted, are now included.
 
-## Costs
+## What is the deadline, and did the 2025 waiver change it?
 
-The mTool is free. A **Pos Digicert** digital certificate is required to sign filings: **RM47.70** for one year or **RM95.40** for two years (inclusive of the service charge). Lodgement fees for the AR, FS and EA follow the **Companies Regulations 2017**. Payment in mPortal is by credit/debit card or online banking.
+MBRS changes the *format* of lodgement, not the *deadline*. Under **Section 259(1) of the Companies Act 2016**, a company lodges its financial statements and reports with the Registrar:
+
+- **Private company:** within 30 days from the date the financial statements are circulated to members.
+- **Public company:** within 30 days from the date of its AGM.
+
+To ease the transition, SSM applied a **late-lodgement-fee waiver from 1 June to 30 September 2025**. Read the fine print: the waiver removed late-lodgement fees only. It did **not** extend the statutory deadlines under the Companies Act 2016. A company that lodged late during the window avoided the fee but was still late in law.
+
+## How do you actually file?
+
+The workflow is the same every cycle:
+
+1. Prepare the statutory financial statements.
+2. Enter and tag the data in **mTool** against the **SSM Taxonomy (SSMxT)**.
+3. Run validation and clear all errors.
+4. Generate the **XBRL file**.
+5. Lodge it via **mPortal**, where submission status is tracked on a dashboard until accepted.
 
 ## What's next
 
-Confirm your company's financial year end and incorporation anniversary, ensure your company secretary holds a valid digital certificate, and prepare the XBRL set in the latest mTool well ahead of the deadline. For related obligations, see the annual return and audit-exemption pages, and download the current mTool and taxonomy from ssm.com.my.
+Confirm your financial year end and circulation or AGM date, then count 30 days from there — that is your real deadline, waiver or not. Make sure your company secretary holds a valid Digital Certificate, and prepare the XBRL set in the current mTool well before the date so validation errors do not push you past it. Download the latest mTool and taxonomy from ssm.com.my.

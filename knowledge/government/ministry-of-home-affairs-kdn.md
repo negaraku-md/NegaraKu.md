@@ -1,75 +1,78 @@
 ---
 topicId: "MY-GOV-0091"
-title: "Ministry of Home Affairs (KDN)"
-seoTitle: "Ministry of Home Affairs (KDN): Role & Agencies"
+title: "Ministry of Home Affairs (KDN): What It Does and Every Agency Under It"
+seoTitle: "Ministry of Home Affairs (KDN): Agencies & Functions"
+socialTitle: "Police, Immigration, Prisons, Censorship: the sprawling portfolio one ministry actually runs"
 slug: "ministry-of-home-affairs-kdn"
 category: "government"
-subcategory: ["internal-security"]
-summary: "Entity guide to the Ministry of Home Affairs (Kementerian Dalam Negeri, KDN) — the federal ministry for internal security, immigration, registration and enforcement, and the police, prisons, immigration and registration departments it runs."
+subcategory: ["ministries"]
+summary: "The Ministry of Home Affairs (Kementerian Dalam Negeri, KDN) is the Malaysian federal ministry responsible for internal security, public order, immigration, civil registration, societies, and censorship, overseeing agencies from the police (PDRM) and Immigration to the National Registration Department and the Film Censorship Board."
 tier: "3"
 mode: "practical"
 contentType: "agency"
 sensitivity: "none"
-answer: "The Ministry of Home Affairs — Kementerian Dalam Negeri, abbreviated KDN and known in English as MOHA — is the federal ministry responsible for Malaysia's internal security, public order, immigration and foreign workers, national registration, societies, civil defence, anti-drug work, censorship and the control of publications. It was formed in its current shape on 18 March 2008 when the former Ministry of Internal Security was folded into it, and it oversees major enforcement bodies including the Royal Malaysia Police, the Immigration Department, the Prisons Department and the National Registration Department. Its website is moha.gov.my (also reachable as kdn.gov.my)."
+answer: "The Ministry of Home Affairs — Kementerian Dalam Negeri, abbreviated KDN and known in English as MOHA — is the Malaysian federal ministry responsible for internal security, public order, immigration, civil registration, societies and censorship. It was formed in its current shape on 18 March 2008, when the Ministry of Internal Affairs (KHEDN) and the Ministry of Internal Security (KKDN) were merged after the 12th General Election. It runs the enforcement bodies most Malaysians deal with directly — among them the Royal Malaysia Police (PDRM), the Immigration Department, the Prison Department and the National Registration Department (JPN) — from its headquarters in Complex D, Putrajaya, at moha.gov.my."
 keyTakeaways:
-  - "KDN (Kementerian Dalam Negeri) is Malaysia's federal Home Affairs ministry; it took its current form on 18 March 2008 when the Ministry of Internal Security merged into it, and is headquartered in Complex D, Putrajaya"
-  - "As of 2026 the Home Minister is Datuk Seri Saifuddin Nasution bin Ismail (appointed 3 December 2022); the ministry's 2026 allocation was about RM21.18 billion"
-  - "It groups its work into roughly ten areas — security and public order, registration, immigration and foreign workers, societies, civil defence, anti-drug, control of publications and the Quran text, film censorship, volunteers, and rehabilitation of offenders"
-  - "It oversees eight federal departments — including the Royal Malaysia Police (PDRM), Immigration (JIM), Prisons, National Registration (JPN), Registry of Societies (ROS), the People's Volunteer Corps (RELA), the Maritime Enforcement Agency (MMEA) and the Eastern Sabah Security Command (ESSCOM)"
-  - "It also oversees agencies and boards including the National Anti-Drug Agency (AADK), the Film Censorship Board (LPF) and Percetakan Nasional Malaysia Berhad (PNMB)"
-  - "Its stated approach to internal security rests on three pillars: prevention, enforcement and rehabilitation"
-appliesTo: "Anyone learning how Malaysia's internal-security and enforcement machinery is organised, and readers of other pages that cross-reference the police, immigration, prisons or registration departments and need the parent ministry."
+  - "KDN took its current form on 18 March 2008, when the Ministry of Internal Affairs (KHEDN) and the Ministry of Internal Security (KKDN) merged after the 12th General Election"
+  - "As of 2026 the Home Minister is Datuk Seri Panglima Saifuddin Nasution bin Ismail (in office since 3 December 2022); the Secretary-General is Datuk Awang Alik bin Jeman"
+  - "KDN was allocated RM21.2 billion under Budget 2026 — up RM1.7 billion from RM19.5 billion in 2025 — to strengthen security assets, uniformed-personnel facilities, border control and cyber-crime capability"
+  - "Its federal departments include PDRM, Immigration (JIM), the Prison Department, National Registration (JPN), the Registry of Societies (ROS), the People's Volunteer Corps (RELA), the Maritime Enforcement Agency (MMEA) and ESSCOM"
+  - "The new Malaysian Checkpoints and Borders Agency (AKPS), created under Act 860 and gazetted 17 October 2024, consolidates border enforcement and supersedes the former land-border agency AKSEM"
+appliesTo: "Anyone learning how Malaysia's internal-security and enforcement machinery is organised, and readers who need to know which KDN agency handles a given task — a passport, a MyKad, a police report, a society registration or a film rating."
 faq:
   - q: "What is the difference between KDN and MOHA?"
-    a: "None — they are the same ministry. KDN is the Malay abbreviation (Kementerian Dalam Negeri) and MOHA is the English one (Ministry of Home Affairs). Its official portal is moha.gov.my, also reachable at kdn.gov.my."
+    a: "None — they are the same ministry. KDN is the Malay abbreviation (Kementerian Dalam Negeri) and MOHA is the English one (Ministry of Home Affairs). Its official portal is moha.gov.my."
   - q: "Which agencies come under the Ministry of Home Affairs?"
-    a: "Among others, the Royal Malaysia Police (PDRM), the Immigration Department, the Prisons Department, the National Registration Department (JPN), the Registry of Societies, the People's Volunteer Corps (RELA), the Malaysian Maritime Enforcement Agency, the National Anti-Drug Agency (AADK) and the Film Censorship Board."
-  - q: "Is the Home Ministry the same as the Defence Ministry?"
-    a: "No. KDN handles internal security — police, immigration, prisons, registration and public order. External defence and the armed forces sit with the separate Ministry of Defence (MINDEF)."
+    a: "The KDN portal lists among its agencies the Royal Malaysia Police (PDRM), the National Anti-Drug Agency (AADK), the Immigration Department, the Prison Department, the Maritime Enforcement Agency (MMEA), the National Registration Department (JPN), the Malaysian Checkpoints and Borders Agency (AKPS), ESSCOM, RELA, the Registrar of Societies (ROS) and the Independent Police Conduct Commission (IPCC)."
   - q: "Who is the Minister of Home Affairs?"
-    a: "As of 2026 the Home Minister is Datuk Seri Saifuddin Nasution bin Ismail, appointed on 3 December 2022. Cabinet portfolios change with reshuffles, so confirm the current officeholder on moha.gov.my."
+    a: "As of 2026 the Home Minister is Datuk Seri Panglima Saifuddin Nasution bin Ismail, in office since 3 December 2022. Cabinet portfolios change with reshuffles, so confirm the current officeholder on moha.gov.my."
 lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 status: "in-review"
 aiAssisted: true
 reviewer: null
-version: "0.1"
+version: "0.2"
 revisions:
   - version: "0.1"
     date: 2026-08-10
     change: "Initial AI draft."
     reviewer: null
+  - version: "0.2"
+    date: 2026-08-14
+    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
+    reviewer: null
 verificationNeeded:
-  - "2026 budget allocation (~RM21,182,930,100) is taken from the Wikipedia infobox; confirm against the primary Belanjawan 2026 / Ministry of Finance estimates before publishing."
-  - "Staff figure of 187,343 is dated (2017 on Wikipedia); treat as indicative and confirm a current figure from KDN before relying on it."
-  - "Deputy Minister identity/date: Datuk Seri Dr. Shamsul Anuar Nasarah is reported as Deputy Home Minister as of 2026, but sources differ on the effective date (10 December 2022 vs a December 2025 reaffirmation); confirm on moha.gov.my."
-  - "The exact set of eight departments and eight agencies/boards is per Wikipedia's structure; confirm the current list against the KDN corporate-information pages, as agency groupings are occasionally reorganised."
-updated: 2026-08-10
+  - "Exact appointment date and current holder of the Deputy Minister of Home Affairs post (snippets suggested Shamsul Anuar Nasarah from 17 Dec 2025; confirm against a gov.my or Hansard source before stating a date)."
+  - "Verbatim official Vision (Visi), Mission (Misi) and Motto (Moto) text — MOHA publishes these only inside an image on the misi-visi-dan-teras page, so exact Malay wording must be transcribed from the image or an alternate official document before quoting."
+  - "Current names/holders of the three Deputy Secretaries-General (Wikipedia lists them but should be cross-checked on moha.gov.my leadership pages)."
+  - "Precise, current status of IPCC (Independent Police Conduct Commission) replacing the EAIC — confirm commencement date and enabling Act (IPCC Act 2023 / Act 852) on lom.agc.gov.my before stating specifics."
+  - "Exact list of statutes KDN administers (Immigration Act 1959/63, Societies Act 1966, Printing Presses and Publications Act 1984, Film Censorship Act 2002, National Registration Act 1959, Prevention of Crime Act 1959, Prevention of Terrorism Act 2015) — confirm Act numbers on lom.agc.gov.my before listing."
+  - "Whether RELA and PNMB are currently classified as departments vs. companies/agencies under the latest KDN org chart."
+updated: 2026-08-14
 sources:
+  - title: "Pengenalan — Kementerian Dalam Negeri"
+    url: "https://www.moha.gov.my/utama/index.php/ms/component/content/article/561-pengenalan?catid=161"
+    publisher: "Ministry of Home Affairs Malaysia (moha.gov.my)"
   - title: "Ministry of Home Affairs (Malaysia)"
     url: "https://en.wikipedia.org/wiki/Ministry_of_Home_Affairs_(Malaysia)"
     publisher: "Wikipedia"
-  - title: "Fungsi Kementerian (Ministry Functions)"
-    url: "https://www.moha.gov.my/utama/index.php/ms/maklumat-korporat/fungsi-kementerian-kdn"
-    publisher: "Ministry of Home Affairs Malaysia (KDN)"
-  - title: "Kementerian Dalam Negeri — Official Portal"
+  - title: "Belanjawan 2026: Peruntukan besar KDN perkukuh aset, naik taraf kemudahan pasukan"
+    url: "https://www.sinarharian.com.my/article/751925/khas/belanjawan/belanjawan-2026-peruntukan-besar-kdn-perkukuh-aset-naik-taraf-kemudahan-pasukan"
+    publisher: "Sinar Harian"
+  - title: "Kementerian Dalam Negeri — Official Portal (English)"
     url: "https://www.moha.gov.my/utama/index.php/en"
-    publisher: "Ministry of Home Affairs Malaysia (KDN)"
-  - title: "Minister of Home Affairs (Malaysia)"
-    url: "https://en.wikipedia.org/wiki/Minister_of_Home_Affairs_(Malaysia)"
+    publisher: "Ministry of Home Affairs Malaysia (moha.gov.my)"
+  - title: "Malaysian Checkpoints and Borders Agency"
+    url: "https://en.wikipedia.org/wiki/Malaysian_Checkpoints_and_Borders_Agency"
     publisher: "Wikipedia"
-  - title: "Ministry of Internal Security (Malaysia)"
-    url: "https://en.wikipedia.org/wiki/Ministry_of_Internal_Security_(Malaysia)"
-    publisher: "Wikipedia"
-entity: "Ministry of Home Affairs (Kementerian Dalam Negeri, KDN)"
-relations:
-  - { rel: "related-to", to: "pdrm" }
-  - { rel: "related-to", to: "imigresen" }
-  - { rel: "related-to", to: "jpn" }
-  - { rel: "related-to", to: "national-security-council-mkn" }
-related: ["pdrm", "imigresen", "jpn"]
-keywords: ["KDN", "Kementerian Dalam Negeri", "Ministry of Home Affairs Malaysia", "MOHA", "moha.gov.my", "Home Minister Malaysia", "Malaysia internal security ministry", "Saifuddin Nasution"]
+  - title: "Visi, Misi, Moto & Teras Utama — Kementerian Dalam Negeri"
+    url: "https://www.moha.gov.my/utama/index.php/ms/maklumat-korporat/misi-visi-dan-teras"
+    publisher: "Ministry of Home Affairs Malaysia (moha.gov.my)"
+entity: "Ministry of Home Affairs (Malaysia) / Kementerian Dalam Negeri (KDN)"
+relations: []
+related: []
+keywords: ["KDN", "Kementerian Dalam Negeri", "Ministry of Home Affairs Malaysia", "MOHA", "KDN agencies", "KDN departments", "agensi bawah KDN", "Menteri Dalam Negeri", "fungsi KDN", "JPN", "Jabatan Imigresen", "PDRM", "AKPS", "Registry of Societies", "Lembaga Penapisan Filem"]
 ---
 
 When a Malaysian renews a passport, when the police make an arrest, when a
@@ -78,92 +81,83 @@ same ministry stands behind all four. That ministry is the **Ministry of Home
 Affairs**, known in Malay as **Kementerian Dalam Negeri (KDN)** and in English
 as **MOHA**.
 
-KDN is the federal ministry for Malaysia's *internal* affairs — security,
-public order, immigration, registration, societies and enforcement — as
-distinct from external defence, which belongs to the separate Ministry of
-Defence. Its official portal is `moha.gov.my`, also reachable at `kdn.gov.my`.
+KDN is the federal ministry for Malaysia's *internal* affairs — internal
+security, public order, immigration, civil registration, societies and
+censorship. Its official portal is `moha.gov.my`, and its mission, in its own
+framing, is to administer internal-security policy so that the nation's
+sovereignty, integrity, peace and interests are safeguarded from internal
+security threats.
 
-## At a glance
+## What is KDN, and where did it come from?
+
+The ministry took its current shape on **18 March 2008**, when the Prime
+Minister merged the **Ministry of Internal Affairs** (Kementerian Hal Ehwal
+Dalam Negeri, KHEDN) and the **Ministry of Internal Security** (Kementerian
+Keselamatan Dalam Negeri, KKDN) into one ministry during the Cabinet
+reorganisation after the 12th General Election. That consolidation is why
+police, prisons and anti-drug functions now sit in the same portfolio as
+immigration, registration and societies.
 
 | | |
 | --- | --- |
 | Official name | Kementerian Dalam Negeri (Ministry of Home Affairs) |
 | Abbreviations | KDN (Malay), MOHA (English) |
-| Type | Federal ministry |
 | Formed (current shape) | 18 March 2008 |
 | Headquarters | Block D1 & D2, Complex D, Federal Government Administrative Centre, 62546 Putrajaya |
-| Website | `moha.gov.my` / `kdn.gov.my` |
-| Minister (as of 2026) | Datuk Seri Saifuddin Nasution bin Ismail |
-| 2026 allocation | ~RM21.18 billion |
+| Website | `moha.gov.my` |
+| Minister (as of 2026) | Datuk Seri Panglima Saifuddin Nasution bin Ismail (since 3 Dec 2022) |
+| Secretary-General | Datuk Awang Alik bin Jeman |
+| 2026 allocation | RM21.2 billion |
 
-## What KDN is responsible for
+## How big is its budget?
 
-The ministry frames its remit around about **ten functional areas**: security
-and public order; registration affairs; immigration and foreign workers; the
-management of societies; civil defence; anti-drug work; the control of
-publications and the Quran text; film censorship; volunteer management; and the
-rehabilitation and carrying-out of sentences.
+KDN was allocated **RM21.2 billion under Budget 2026** — an increase of RM1.7
+billion from RM19.5 billion in 2025. Wikipedia records the figure precisely as
+MYR 21,182,930,100. The extra money is earmarked to strengthen security assets
+and uniformed-personnel facilities, enhance border control, and build capability
+against cyber threats and digital crime.
 
-Across all of these, KDN describes its internal-security approach as resting on
-three pillars — **prevention, enforcement and rehabilitation**. In its own
-words, its mission is to administer Malaysia's internal security policy so that
-the nation's sovereignty, integrity, peace and interests are safeguarded from
-internal security threats.
+## Which agencies come under KDN?
 
-## The departments and agencies it oversees
+Most of KDN's public-facing power is exercised not by headquarters staff but by
+the enforcement bodies under it — federal **departments** and various statutory
+**agencies and boards**.
 
-Most of KDN's public-facing power is exercised not by the ministry's own
-headquarters staff but by the enforcement bodies under it. These fall into
-federal **departments** and various **agencies and boards**.
-
-| Departments (jabatan) | Agencies & boards |
+| Federal departments | Statutory agencies & boards |
 | --- | --- |
 | Royal Malaysia Police (PDRM) | National Anti-Drug Agency (AADK) |
-| Immigration Department (JIM) | Film Censorship Board (LPF) |
-| Prisons Department | Institute of Public Security of Malaysia (IPSOM) |
-| National Registration Department (JPN) | Anti-Trafficking-in-Persons council (MAPO) |
-| Registry of Societies (ROS) | Prevention of Crime Board |
-| People's Volunteer Corps (RELA) | Parole Board |
-| Malaysian Maritime Enforcement Agency (MMEA) | Prevention of Terrorism Board |
-| Eastern Sabah Security Command (ESSCOM) | Percetakan Nasional Malaysia Berhad (PNMB) |
+| Immigration Department (JIM) | Institute of Public Security of Malaysia (IPSOM) |
+| Prison Department | Anti-Trafficking-in-Persons council (MAPO) |
+| National Registration Department (JPN) | Prevention of Crime Board |
+| Registry of Societies (ROS) | Parole Board |
+| People's Volunteer Corps (RELA) | Film Censorship Board |
+| Maritime Enforcement Agency (MMEA/APMM) | Prevention of Terrorism Board |
+| Eastern Sabah Security Command (ESSCOM) | National Printing (PNMB) |
+
+The KDN portal's own agency list also names two bodies from recent
+restructuring: the **Malaysian Checkpoints and Borders Agency (AKPS)** and the
+**Independent Police Conduct Commission (IPCC)**.
 
 That structure explains why so many everyday encounters with the State trace
 back to one ministry: your MyKad and birth certificate (JPN), your passport and
 entry stamp (Immigration), a police report (PDRM), a registered NGO or club
-(ROS), and a film's age rating (LPF) are all KDN business.
+(ROS) and a film's age rating (Film Censorship Board) are all KDN business.
 
-## Where KDN came from
+## What changed with the new border agency?
 
-A ministry of home affairs has existed in Malaysia in various forms since
-independence, but its **current shape dates to 18 March 2008**, when the former
-**Ministry of Internal Security** was merged into the Ministry of Home Affairs.
-That consolidation is why police, prisons and anti-drug functions — once housed
-under internal security — now sit alongside immigration, registration and
-societies in a single portfolio.
-
-## KDN versus the other security bodies
-
-Malaysia's security architecture is easy to muddle, so it helps to draw the
-lines:
-
-| Body | What it owns |
-| --- | --- |
-| **KDN** (Home Affairs) | Internal security, policing, immigration, prisons, registration, public order |
-| **MINDEF** (Defence) | External defence and the armed forces |
-| **National Security Council (MKN)** | Coordinating national security policy and emergency/crisis response across agencies |
-
-KDN runs the day-to-day internal-security machinery; MINDEF defends the country
-from external threats; and the MKN, sitting in the Prime Minister's Department,
-coordinates the whole-of-government security response.
+The biggest recent structural change is at the border. The **Malaysian
+Checkpoints and Borders Agency (AKPS)** was established under the **Malaysia
+Border Control and Protection Agency Act 2024 (Act 860)**, gazetted on **17
+October 2024**. It consolidates the enforcement of immigration, customs,
+quarantine, health and veterinary inspection across all land, sea and air entry
+points, superseding the former land-border agency **AKSEM**, and operates under
+KDN.
 
 ## What's next
 
 Several of KDN's departments have their own detailed pages worth reading next:
-the [Royal Malaysia Police](/en/government/pdrm) for policing and its legal
-basis, the [Immigration Department](/en/government/imigresen) for who may enter
-and stay, and the [National Registration Department](/en/government/jpn) for
-identity documents. For how emergency and crisis powers are coordinated across
-government, see the
-[National Security Council](/en/government/national-security-council-mkn). The
-working rule is simple: if it concerns Malaysia's *internal* security,
-registration or entry controls, the trail leads back to KDN.
+the Royal Malaysia Police (PDRM) for policing, the Immigration Department for
+who may enter and stay, and the National Registration Department (JPN) for
+identity documents. The working rule is simple: if it concerns Malaysia's
+*internal* security, civil registration or entry controls, the trail leads back
+to KDN.

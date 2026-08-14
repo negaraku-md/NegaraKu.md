@@ -1,119 +1,111 @@
 ---
 topicId: "MY-GOV-0098"
-title: "Social Welfare Department (JKM)"
-seoTitle: "JKM: Malaysia's Social Welfare Department Explained"
+title: "Social Welfare Department (JKM): Malaysia's Welfare Safety Net"
+seoTitle: "JKM (Jabatan Kebajikan Masyarakat): Aid & OKU"
+socialTitle: "The quiet government department that catches millions of Malaysians when they fall"
 slug: "social-welfare-department-jkm"
 category: "government"
 subcategory: ["agencies"]
-summary: "The federal agency under the Ministry of Women, Family and Community Development that runs Malaysia's welfare protection, disability and elderly registration, and monthly cash-aid schemes."
+summary: "Jabatan Kebajikan Masyarakat (JKM), Malaysia's Department of Social Welfare under KPWKM, administers cash aid, OKU (disability) registration, child and elderly protection, and disaster relief for the country's most vulnerable."
 tier: "4"
 mode: "practical"
 contentType: "agency"
 sensitivity: "none"
-answer: "The Social Welfare Department (Jabatan Kebajikan Masyarakat, JKM) is a federal agency under the Ministry of Women, Family and Community Development (KPWKM) that handles social welfare in Malaysia. Established in 1946, it delivers protection, rehabilitation, prevention, development and integration services for children, persons with disabilities (OKU), older persons, families and disaster victims, and it administers the main monthly financial-aid schemes such as Bantuan Kanak-Kanak and Bantuan Warga Emas."
+answer: "The Social Welfare Department — Jabatan Kebajikan Masyarakat (JKM) — is a federal agency under the Ministry of Women, Family and Community Development (KPWKM). Established in 1946 in response to the social problems caused by the Second World War, its role has since expanded to protection, rehabilitation, prevention, development and community integration. It administers Malaysia's main welfare cash-aid schemes and runs the national OKU (disability) registration that issues the OKU Card."
 keyTakeaways:
-  - "JKM was established in 1946 in the aftermath of the Second World War and now sits under the Ministry of Women, Family and Community Development (KPWKM)."
-  - "It administers several statutes, including the Children Act 2001 (Act 611), the Persons with Disabilities Act 2008 (Act 685), the Destitute Persons Act 1977 (Act 183) and the Care Centre Act 1993 (Act 506)."
-  - "It maintains the national OKU (disability) registration and issues the Kad OKU."
-  - "Bantuan Kanak-Kanak pays RM250 per child aged 6 and below and RM200 per child aged 7-18, up to RM1,000 per family per month."
-  - "Other monthly schemes include Bantuan OKU Tidak Berupaya Bekerja (BTB) at RM300, Elaun Pekerja OKU (EPOKU) at RM450, and Bantuan Penjagaan (BPT) at RM500."
-  - "Applications are made at District Welfare Offices or online through the eBantuan JKM portal (ebantuanjkm.jkm.gov.my)."
-appliesTo: "Anyone who needs to understand what JKM is and does, who wants to apply for welfare or disability aid, or who is cross-referencing Malaysia's social-protection framework."
+  - "JKM was established in 1946, initially in response to WWII social problems, and now sits under the Ministry of Women, Family and Community Development (KPWKM), which also oversees the Social Institute of Malaysia (ISM) and the National Welfare Foundation (YKNM)."
+  - "Aid is means-tested; applicants should first be registered in the National Poverty Database System (eKasih), and apply either manually with the JKM18 Form at a district office or online via the eBantuan JKM portal."
+  - "Its assistance schemes include Rahmah Basic Contribution (SARA), Rahmah Cash Contribution (STR), Federal General Assistance (Bantuan Am), Children's Financial Aid (BKK), Elderly Assistance (BWE) and Foster Child Assistance (BAP)."
+  - "Under the Persons with Disabilities Act 2008 (Act 685), Malaysia recognises seven disability categories: physical, learning, hearing, visual, speech, mental and multiple disabilities."
+  - "OKU registration uses the BPPOKU form (Amendment 2/2019) with a medical verification report and MyKad copy, submitted at a JKM counter or online via the MyDaftar OKU portal; a successful applicant receives an OKU Card indicating their category."
+  - "JKM's headquarters is at Aras 6, No. 55, Persiaran Perdana, Presint 4, 62100 Putrajaya; public enquiries go to pro_jkm@jkm.gov.my."
+appliesTo: "Anyone wanting to understand what JKM is and does, low-income families and older persons seeking cash aid, persons with disabilities registering for an OKU Card, or researchers cross-referencing Malaysia's social-protection framework."
 faq:
   - q: "Which ministry is JKM under?"
-    a: "JKM operates under the Ministry of Women, Family and Community Development (Kementerian Pembangunan Wanita, Keluarga dan Masyarakat, KPWKM), which adopted its current name on 27 March 2004."
+    a: "JKM is a department under the Ministry of Women, Family and Community Development (KPWKM), which also oversees agencies such as the Social Institute of Malaysia (ISM) and the National Welfare Foundation (YKNM)."
+  - q: "How do I apply for JKM financial aid?"
+    a: "You can apply manually with the JKM18 Form at a District, Divisional or Branch Social Welfare Office, or online through the eBantuan JKM portal. Each application is means-tested, and applicants should first be registered in the National Poverty Database System (eKasih)."
   - q: "How do I register as an OKU (person with disability)?"
-    a: "OKU registration is done through JKM at any District Welfare Office; a successful registration produces the Kad OKU, which is also the gateway to disability aid such as BTB and EPOKU and to other OKU privileges."
-  - q: "How much is Bantuan Kanak-Kanak (BKK)?"
-    a: "BKK pays RM250 a month for each child aged 6 and below and RM200 a month for each child aged 7 to 18, subject to a maximum of RM1,000 per family per month, for households at or below the extreme-poverty income line."
-  - q: "Where do I apply for JKM aid?"
-    a: "You can apply in person at your District Welfare Office (Pejabat Kebajikan Masyarakat Daerah) or online through the eBantuan JKM portal at ebantuanjkm.jkm.gov.my."
+    a: "Malaysian citizens certified by a government medical expert submit the BPPOKU registration form (Amendment 2/2019) with a medical verification report and a MyKad copy (or birth certificate for applicants under 12), either at a JKM counter or online via the MyDaftar OKU portal. A successful applicant receives an OKU Card showing their disability category."
 lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 status: "in-review"
 aiAssisted: true
 reviewer: null
-version: "0.1"
+version: "0.2"
 revisions:
   - version: "0.1"
     date: 2026-08-10
     change: "Initial AI draft."
     reviewer: null
+  - version: "0.2"
+    date: 2026-08-14
+    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
+    reviewer: null
 verificationNeeded:
-  - "Current Bantuan Warga Emas (BWE) rate: sources indicate RM500 raised to RM600 per month under Budget 2026 — confirm the exact rate now in force against the official JKM schedule."
-  - "The count of welfare institutions run by JKM (commonly cited as 300+) and the annual number of aid beneficiaries are not drawn from a primary JKM document here and should be confirmed against JKM's official statistics before publication."
-  - "Exact standard processing time (commonly cited as 25 working days) should be confirmed against the official JKM client charter."
-updated: 2026-08-10
+  - "Exact establishment month — JKM's own social media states April 1946, but confirm against an official JKM 'Sejarah/History' page before stating the month (1946 as the year is attested by Simple English Wikipedia)."
+  - "Current Director-General's name — a search surfaced a name from the KPWKM org chart, but DG appointments change; verify on kpwkm.gov.my or jkm.gov.my before naming, or keep the role generic."
+  - "Current income thresholds / B40 or PGK (Poverty Line Income) figures used in JKM means-testing — do not state a specific RM figure without confirming on an official JKM/DOSM source, as these are periodically revised."
+  - "Exact monthly amounts (RM) for each scheme (SARA, STR, Bantuan Am, BKK, BWE, BAP) — confirm current rates on jkm.gov.my before publishing any ringgit figure."
+  - "OKU registration processing time (search suggested 5–14 working days) — not stated on the official malaysia.gov.my page reviewed; verify before asserting."
+  - "Full statutory stack beyond Act 685 (e.g. Child Act 2001 / Act 611, Care Centres Act 1993 / Act 506, Destitute Persons Act 1977 / Act 183) — confirm each on lom.agc.gov.my before citing JKM's enforcement role."
+updated: 2026-08-14
 sources:
-  - title: "Jabatan Kebajikan Masyarakat (JKM) — Official Portal"
-    url: "https://www.jkm.gov.my/"
-    publisher: "Jabatan Kebajikan Masyarakat Malaysia"
-  - title: "Bantuan Bulanan"
-    url: "https://www.jkm.gov.my/main/article/bantuan-bulanan"
-    publisher: "Jabatan Kebajikan Masyarakat Malaysia"
-  - title: "Bantuan Kanak-Kanak (BKK)"
-    url: "https://ihsanmadani.gov.my/inisiatif/pendapatan/bantuan-kanak-kanak-bkk"
-    publisher: "Ihsan MADANI, Government of Malaysia"
-  - title: "Bantuan OKU Tidak Berupaya Bekerja (BTB)"
-    url: "https://www.malaysia.gov.my/my/personas/oku/mendapatkan-bantuan-pekerjaan-oku/bantuan-oku-tidak-berupaya-bekerja-btb"
-    publisher: "MyGovernment (malaysia.gov.my)"
+  - title: "Applying for Social Welfare Department (JKM) Aid"
+    url: "https://www.malaysia.gov.my/en/personas/low-income-families/mendapatkan-bantuan-asas/applying-for-social-welfare-department-jkm-aid"
+    publisher: "Malaysia Government Official Portal (malaysia.gov.my)"
+  - title: "Definition of OKU"
+    url: "https://www.malaysia.gov.my/en/personas/person-with-disabilities/mengesahkan-status-oku/definition-of-oku"
+    publisher: "Malaysia Government Official Portal (malaysia.gov.my)"
+  - title: "OKU Card Application"
+    url: "https://www.malaysia.gov.my/en/categories/personal-identification/oku-card-application"
+    publisher: "Malaysia Government Official Portal (malaysia.gov.my)"
+  - title: "OKU Registration"
+    url: "https://www.malaysia.gov.my/en/categories/personal-identification/oku-card-application/oku-registration"
+    publisher: "Malaysia Government Official Portal (malaysia.gov.my)"
   - title: "Ministry of Women, Family and Community Development"
     url: "https://en.wikipedia.org/wiki/Ministry_of_Women,_Family_and_Community_Development"
     publisher: "Wikipedia"
-entity: "Jabatan Kebajikan Masyarakat (JKM), Department of Social Welfare Malaysia"
-relations:
-  - { rel: "related-to", to: "persons-with-disabilities-employment-malaysia" }
-  - { rel: "related-to", to: "disability-and-oku-healthcare-access" }
-  - { rel: "related-to", to: "healthcare-for-seniors" }
-related:
-  - "persons-with-disabilities-employment-malaysia"
-  - "disability-and-oku-healthcare-access"
-  - "healthcare-for-seniors"
-keywords: ["JKM", "Jabatan Kebajikan Masyarakat", "Social Welfare Department", "Department of Social Welfare Malaysia", "bantuan JKM", "OKU registration", "Kad OKU", "Bantuan Kanak-Kanak", "Bantuan Warga Emas", "KPWKM"]
+  - title: "Direktori — Jabatan Kebajikan Masyarakat"
+    url: "https://www.jkm.gov.my/main/directory"
+    publisher: "Jabatan Kebajikan Masyarakat (jkm.gov.my)"
+  - title: "Department of Social Welfare (Malaysia)"
+    url: "https://simple.wikipedia.org/wiki/Department_of_Social_Welfare_(Malaysia)"
+    publisher: "Simple English Wikipedia"
+entity: "Jabatan Kebajikan Masyarakat (Department of Social Welfare, JKM)"
+relations: []
+related: []
+keywords: ["JKM", "Jabatan Kebajikan Masyarakat", "Department of Social Welfare Malaysia", "bantuan JKM", "OKU card", "OKU registration", "eBantuan JKM", "eKasih", "MyDaftar OKU", "Bantuan Kanak-Kanak BKK", "Persons with Disabilities Act 2008", "kad OKU"]
 ---
 
-The **Social Welfare Department** — *Jabatan Kebajikan Masyarakat*, universally known by its acronym **JKM** — is the federal agency responsible for social welfare in Malaysia. It was established in **1946**, in the aftermath of the Second World War, and today operates under the **Ministry of Women, Family and Community Development** (Kementerian Pembangunan Wanita, Keluarga dan Masyarakat, KPWKM), with its headquarters in Putrajaya. Its work spans five broad functions: **protection, rehabilitation, prevention, development and integration** for society's more vulnerable groups.
+The **Social Welfare Department** — *Jabatan Kebajikan Masyarakat*, known everywhere by its acronym **JKM** — is the federal agency that catches Malaysians when they fall. It was established in **1946**, initially in response to the social problems caused by the Second World War, and its role later expanded to **protection, rehabilitation, prevention, development and community integration**. Search results for JKM are dominated by year-stamped "how to claim aid" blogs and bare service pages; this page instead explains JKM as an institution and how its services connect across the whole life cycle — from children to persons with disabilities to older persons.
 
-## What JKM does
+## What is JKM and where does it sit?
 
-JKM's mandate covers a wide range of groups and services, delivered mainly through a network of **State Welfare Departments** and **District Welfare Offices** (Pejabat Kebajikan Masyarakat Daerah). Core areas include:
+JKM is a department under the **Ministry of Women, Family and Community Development (KPWKM)**, the same ministry that oversees agencies such as the **Social Institute of Malaysia (ISM)** and the **National Welfare Foundation (YKNM)**. Its headquarters is at **Aras 6, No. 55, Persiaran Perdana, Presint 4, 62100 Putrajaya**, and public enquiries are directed to **pro_jkm@jkm.gov.my**.
 
-- **Child protection and welfare** — case management, protectors under the Children Act, and children's homes.
-- **Persons with disabilities (OKU)** — national OKU registration and issuance of the **Kad OKU**, rehabilitation, and community-based rehabilitation (Pemulihan Dalam Komuniti, PDK).
-- **Older persons (warga emas)** — activity centres, care homes and elderly aid.
-- **Destitute persons** — handling begging and vagrancy cases under the Destitute Persons Act.
-- **Families and communities** — counselling, domestic-violence victim support, community development, and **disaster-relief** coordination during floods and other emergencies.
+## What financial assistance does JKM provide?
 
-## Legislation JKM administers
+JKM administers a set of assistance schemes for low-income households, children, older persons and foster families:
 
-Several statutes are administered under JKM. The principal Acts are:
+| Scheme (English name) | Short form |
+|---|---|
+| Rahmah Basic Contribution | SARA |
+| Rahmah Cash Contribution | STR |
+| Federal General Assistance | Bantuan Am |
+| Children's Financial Aid | BKK |
+| Elderly Assistance | BWE |
+| Foster Child Assistance | BAP |
 
-| Act | Number | Subject |
-|-----|--------|---------|
-| Destitute Persons Act 1977 | Act 183 | Begging and vagrancy; institutional care |
-| Care Centre Act 1993 | Act 506 | Registration and control of care centres |
-| Children Act 2001 | Act 611 | Care, protection and rehabilitation of children |
-| Persons with Disabilities Act 2008 | Act 685 | Registration, rights and support for OKU |
+Every application is **means-tested** to confirm eligibility, and applicants should first be registered in the **National Poverty Database System (eKasih)**, which JKM references as part of its eligibility framework. You can apply in two ways: a **manual application** using the **JKM18 Form** at a District, Divisional or Branch Social Welfare Office, or an **online application** through the **eBantuan JKM** portal. Applicants provide photocopies of their identity card, the identity cards and birth certificates of co-residing household members, and salary statements where applicable.
 
-## Main monthly financial-aid schemes
+## How does OKU (disability) registration work?
 
-JKM administers a set of monthly cash-assistance schemes, generally means-tested against the household income line. The headline rates are:
+Under the **Persons with Disabilities Act 2008 (Act 685)**, OKUs are people with long-term physical, mental, intellectual or sensory impairments that may prevent full and effective participation in society on an equal basis with others. Malaysia recognises **seven categories** of disability: **physical, learning, hearing, visual, speech, mental, and multiple** disabilities.
 
-| Scheme | Rate (per month) | Target group |
-|--------|------------------|--------------|
-| Bantuan Kanak-Kanak (BKK) | RM250 (aged ≤6) / RM200 (aged 7-18); max **RM1,000 per family** | Children in low-income families |
-| Bantuan OKU Tidak Berupaya Bekerja (BTB) | RM300 | OKU aged 16-59 unable to work |
-| Elaun Pekerja OKU (EPOKU) | RM450 | Working OKU on low income |
-| Bantuan Penjagaan (BPT) | RM500 | Caregivers of bedridden OKU / chronically ill |
-| Bantuan Warga Emas (BWE) | RM500 (raised to RM600 under Budget 2026 — *verify*) | Older persons aged 60+ with no fixed income |
-
-Eligibility for these schemes generally requires the applicant to be a Malaysian citizen resident in Malaysia, with household income at or below the relevant poverty line, and not residing in a JKM-run institution. The BKK rate of RM1,000 is a **ceiling**, not an automatic payment — the actual amount depends on the number and ages of eligible children and the family's assessed circumstances.
-
-## How to apply
-
-Applications can be made in person at the nearest **District Welfare Office**, or online through the **eBantuan JKM** portal at *ebantuanjkm.jkm.gov.my*. Applicants typically complete the relevant JKM form, upload supporting documents (identity, income and household details), and wait for assessment, which may include a home visit before a decision.
+To register, applicants — who must be Malaysian citizens certified by a government medical expert — submit the registration form **BPPOKU (Amendment 2/2019)** together with a medical verification report and a MyKad copy (or a birth certificate for applicants under 12). This can be done **manually at a JKM counter** or **online via the MyDaftar OKU portal**. A successful applicant receives an **OKU Card** indicating their disability category, which is used to access facilities and privileges specific to persons with disabilities.
 
 ## What's next
 
-If you are applying on behalf of a person with a disability, start with **OKU registration** and the **Kad OKU**, which unlocks BTB, EPOKU and other privileges — see the related page on disability and OKU healthcare access, and on persons-with-disabilities employment. For older-person support, see the healthcare-for-seniors page. For the current, definitive rates and forms, always check the official JKM portal at **jkm.gov.my** before applying.
+Start by confirming you are registered in **eKasih**, then choose your route — the **JKM18 Form** at a district office or the **eBantuan JKM** portal — and gather the identity, household and income documents in advance. If you are supporting a person with a disability, begin with **OKU registration** and the **OKU Card**, which is the gateway to disability-specific services. For current rates, thresholds and forms, always check the official JKM portal at **jkm.gov.my** before applying.

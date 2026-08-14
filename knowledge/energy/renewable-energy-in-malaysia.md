@@ -1,109 +1,142 @@
 ---
 topicId: "MY-ENE-0019"
-title: "Renewable Energy in Malaysia"
-seoTitle: "Renewable Energy in Malaysia: RE Act, FiT & NETR"
+title: "Renewable Energy in Malaysia: Targets, Schemes and Who Each One Is For"
+seoTitle: "Renewable Energy in Malaysia (RE): Targets & Schemes"
+socialTitle: "31%, 40% or 70%? Malaysia's Renewable Energy Targets, Decoded"
 slug: "renewable-energy-in-malaysia"
 category: "energy"
 subcategory: ["renewables"]
-summary: "How Malaysia regulates and grows renewable energy — the Renewable Energy Act 2011, SEDA's FiT/NEM/Solar ATAP schemes, Large Scale Solar, and the 70%-by-2050 target."
+summary: "A neutral, whole-of-landscape guide to renewable energy in Malaysia — the national targets (31% by 2025, 40% by 2035, 70% by 2050 under NETR), the alphabet soup of schemes (FiT, NEM 3.0, LSS, CGPP, CRESS, SELCO), and which programme fits a homeowner, a business, or a developer."
 tier: "2"
 mode: "practical"
 contentType: "guide"
 sensitivity: "none"
-answer: "Renewable energy (RE) in Malaysia is built mainly on solar and hydropower and is coordinated by the Ministry of Energy Transition and Water Transformation (PETRA) with the Sustainable Energy Development Authority (SEDA) and the Energy Commission (Suruhanjaya Tenaga). The legal backbone is the Renewable Energy Act 2011 [Act 725], which created the Feed-in Tariff (FiT) and the Renewable Energy Fund (KWTBB). National policy — the MyRER roadmap and the National Energy Transition Roadmap (NETR) — targets 31% RE in installed capacity by 2025, 40% by 2035 and 70% by 2050."
+answer: "Malaysia's renewable-energy landscape is organised around national targets and a family of participation schemes. Under the National Energy Transition Roadmap (NETR), the country targets renewable energy at 31% of installed capacity by 2025, 40% by 2035 and 70% by 2050, alongside a net-zero-emissions aspiration for 2050. Which scheme is for you depends on who you are: households and businesses join Net Energy Metering (NEM 3.0), corporates buy green power through the Corporate Green Power Programme (CGPP), and other programmes serve utility-scale developers — coordinated by SEDA, the Energy Commission and the Single Buyer under the energy ministry."
 keyTakeaways:
-  - "The Renewable Energy Act 2011 [Act 725] established the Feed-in Tariff and the RE Fund; it was amended by the Renewable Energy (Amendment) Act 2023 [Act A1689], enacted 10 November 2023."
-  - "SEDA (under the SEDA Act 2011 [Act 726]) administers RE incentives — Feed-in Tariff, Net Energy Metering (NEM) and, from 1 January 2026, Solar ATAP."
-  - "NETR and MyRER set RE-in-installed-capacity targets of 31% by 2025, 40% by 2035 and 70% by 2050 (with ~57 GW of solar PV by 2050)."
-  - "Utility-scale solar is procured through the Large Scale Solar (LSS) programme; LSS5, launched 1 April 2024, offered 2 GW across four packages."
-  - "The RE Fund (KWTBB) is financed by a 1.6% surcharge on electricity bills; domestic users at 300 kWh a month or less are exempt."
-appliesTo: "Homeowners and businesses considering solar, RE developers and investors, students, and anyone needing a plain-language overview of Malaysia's renewable-energy framework."
+  - "Under NETR, Malaysia targets renewable energy at 31% of installed capacity by 2025, 40% by 2035 and 70% by 2050 — the 70% figure is generation/installed capacity, not the whole energy system."
+  - "NEM 3.0 (2021–2025) allocates up to 2,500 MW across three programmes: NEM Rakyat (700 MW, households), NEM GoMEn (100 MW, government) and NOVA (1,700 MW, commercial and industrial)."
+  - "The Corporate Green Power Programme (CGPP) was allocated 800 MW and was fully subscribed on 8 November 2023 by 32 applicants, using virtual power purchase agreements."
+  - "NETR rests on six energy-transition levers and 10 flagship projects (over RM25 billion of investment); the broader transition is framed as an RM1.2–1.3 trillion opportunity to 2050."
+  - "Installed renewable capacity is expected to expand from about 6 GW to 14 GW as the country moves toward the 70% generation-capacity target."
+appliesTo: "Homeowners weighing rooftop solar, commercial and industrial consumers, corporates seeking green power, renewable-energy developers, and anyone needing a neutral map of Malaysia's RE targets and schemes."
 faq:
-  - q: "What is Malaysia's renewable energy target?"
-    a: "National policy targets RE at 31% of installed capacity by 2025, 40% by 2035 and 70% by 2050, per the MyRER roadmap and the National Energy Transition Roadmap (NETR). The 70% figure refers to electricity-generating capacity, not the whole energy system."
-  - q: "Which law governs renewable energy in Malaysia?"
-    a: "The Renewable Energy Act 2011 [Act 725] is the main statute. It created the Feed-in Tariff mechanism and the Renewable Energy Fund (KWTBB), and was amended by the Renewable Energy (Amendment) Act 2023 [Act A1689]."
-  - q: "How can a household take part in renewable energy?"
-    a: "Mainly through rooftop solar. The Net Energy Metering (NEM) programme ran until mid-2025 and has been replaced by Solar ATAP from 1 January 2026, both administered by SEDA."
+  - q: "Is Malaysia's renewable energy target 31%, 40% or 70%?"
+    a: "All three — they are milestones on the same trajectory. Under the National Energy Transition Roadmap (NETR), renewable energy is targeted at 31% of installed capacity by 2025, 40% by 2035 and 70% by 2050. The 70% figure refers to electricity generation/installed capacity, not total energy use."
+  - q: "Which scheme should a homeowner use for rooftop solar?"
+    a: "Households in Peninsular Malaysia participate through NEM Rakyat, one of the three NEM 3.0 programmes (700 MW quota). Excess energy exported to the grid is credited on a one-on-one offset against the bill for up to 10 years."
+  - q: "How can a company buy renewable energy without installing its own panels?"
+    a: "The Corporate Green Power Programme (CGPP) lets a corporate consumer sign a virtual power purchase agreement with a solar power producer for renewable energy and its green attributes, with firm supply backed up by the utility. Its 800 MW quota was fully subscribed in November 2023."
 lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 status: "in-review"
 aiAssisted: true
 reviewer: null
-version: "0.1"
+version: "0.2"
 revisions:
   - version: "0.1"
     date: 2026-08-10
     change: "Initial AI draft."
     reviewer: null
+  - version: "0.2"
+    date: 2026-08-14
+    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
+    reviewer: null
 verificationNeeded:
-  - "Malaysia's exact current RE share of installed capacity (sources cite 'just over 25% in 2023' and SEDA's interim 31%-by-2025 target); confirm the latest official figure and year against SEDA/Energy Commission statistics."
-  - "MyRER figures (>MYR 53 billion investment and ~46,636 jobs to 2035) are taken from SEDA's MyRER portal summary; confirm against the full MyRER document."
-  - "LSS5 package structure and dates are from developer/legal reporting citing the Energy Commission RFP; confirm against the Energy Commission's own LSS5 announcement."
-updated: 2026-08-10
+  - "Large Scale Solar (LSS) round-by-round awarded capacity (LSS1 through LSS5/LSS5+) and the lowest winning tariff (RM/kWh) — not confirmed against a primary SEDA/Energy Commission source."
+  - "Current RE share splits often quoted by secondary sources (RE ~8% of energy consumption; hydro ~6.3%; solar ~0.53%) — confirm against MyEnergyStats / Energy Commission MEIH primary data."
+  - "Claim that coal will be phased out by ~2044 — appears in reporting but was not found in the NETR/MIDA primary summary; verify against the NETR document itself."
+  - "Solar installed-capacity figure (~1.9 GW) and 'third-largest in ASEAN' ranking — secondary sources; confirm the current number from the Energy Commission."
+  - "CRESS (Corporate Renewable Energy Supply Scheme) specifics — launch date, system access charge and third-party-access mechanism — not fetched; verify on st.gov.my / singlebuyer.com.my."
+  - "NEM 3.0 2025 extension, any NEM Rakyat/NOVA quota top-ups, and any successor self-consumption scheme from 2026 — secondary sources conflict; confirm on seda.gov.my."
+  - "BESS 500 MW energy-storage target from 2030 — secondary; confirm against the NETR/official source."
+  - "MyRER's total RE installed-capacity target in MW (as opposed to the % share) — SEDA page gave % and investment/jobs but not a clean MW figure."
+  - "FiT and SELCO current scheme mechanics, quotas and rates — named in the scheme family but not confirmed against a primary source this pass."
+updated: 2026-08-14
 sources:
-  - title: "Renewable Energy Act 2011"
-    url: "https://www.seda.gov.my/policies/renewable-energy-act-2011/"
-    publisher: "SEDA Malaysia"
-  - title: "Malaysia Renewable Energy Roadmap (MyRER)"
-    url: "https://www.seda.gov.my/reportal/myrer/"
-    publisher: "SEDA Malaysia"
-  - title: "Feed-in Tariff (FiT) — Renewable Energy Malaysia"
-    url: "https://www.seda.gov.my/reportal/fit/"
-    publisher: "SEDA Malaysia"
   - title: "National Energy Transition Roadmap (NETR): Charting a Path to a Sustainable Energy Landscape"
     url: "https://www.mida.gov.my/national-energy-transition-roadmap-netr-charting-a-path-to-a-sustainable-energy-landscape/"
     publisher: "Malaysian Investment Development Authority (MIDA)"
-  - title: "Malaysia launches 2 GW solar tender (LSS5)"
-    url: "https://www.pv-magazine.com/2024/04/03/malaysia-launches-2-gw-solar-tender/"
-    publisher: "pv magazine"
-entity: "Renewable Energy Act 2011 [Act 725]"
-relations:
-  - { rel: "related-to", to: "seda-malaysia" }
-  - { rel: "related-to", to: "national-energy-transition-roadmap-netr" }
-  - { rel: "related-to", to: "solar-energy-malaysia" }
-  - { rel: "related-to", to: "hydropower-malaysia" }
+  - title: "Malaysia Renewable Energy Roadmap (MyRER)"
+    url: "https://www.seda.gov.my/reportal/myrer/"
+    publisher: "Sustainable Energy Development Authority (SEDA) Malaysia"
+  - title: "Net Energy Metering (NEM) 3.0"
+    url: "https://www.seda.gov.my/reportal/nem/"
+    publisher: "Sustainable Energy Development Authority (SEDA) Malaysia"
+  - title: "Corporate Green Power Programme (CGPP)"
+    url: "https://singlebuyer.com.my/market/market-operations/programs/cgpp"
+    publisher: "Single Buyer Malaysia (Energy Commission)"
+  - title: "Malaysia - Renewable Energy (Country Commercial Guide)"
+    url: "https://www.trade.gov/country-commercial-guides/malaysia-renewable-energy"
+    publisher: "International Trade Administration, U.S. Department of Commerce"
+entity: "Renewable energy in Malaysia"
+relations: []
 related: []
-keywords: ["renewable energy Malaysia", "tenaga boleh baharu", "Renewable Energy Act 2011", "FiT", "feed-in tariff", "SEDA", "NEM", "NETR", "MyRER", "Large Scale Solar", "LSS", "Solar ATAP"]
+keywords: ["renewable energy Malaysia", "NETR", "National Energy Transition Roadmap", "MyRER", "NEM 3.0", "Net Energy Metering Malaysia", "SEDA", "Large Scale Solar", "LSS Malaysia", "CGPP", "CRESS", "solar panel Malaysia", "feed-in tariff Malaysia", "TNB solar", "renewable energy target 2050", "Energy Commission Malaysia"]
 ---
 
-Renewable energy (RE) in Malaysia means electricity generated from solar, hydropower, biomass, biogas and small hydro — with solar photovoltaic (PV) and large hydro dams doing most of the work today. The sector is steered by the Ministry of Energy Transition and Water Transformation (PETRA), with the **Sustainable Energy Development Authority (SEDA)** running the incentive schemes and the **Energy Commission (Suruhanjaya Tenaga)** regulating the grid and licensing generators. The legal foundation is the **Renewable Energy Act 2011 [Act 725]**, and national targets aim for RE to reach 70% of installed capacity by 2050.
+If you have tried to read up on renewable energy (RE) in Malaysia, you have probably hit three different target numbers — 31%, 40% and 70% — and a wall of acronyms: FiT, NEM, LSS, CGPP, CRESS, SELCO. None of it is contradictory; it is just spread across half a dozen agencies, each documenting only its own corner. This guide pulls the whole landscape into one place: the national targets and the roadmaps behind them, the family of schemes, and — the part most sources skip — which programme is actually meant for a homeowner, a business, or a developer.
 
-## The legal and policy framework
+## Is the target 31%, 40% or 70%?
 
-Malaysia's RE push rests on two 2011 statutes and a pair of roadmaps:
+All three. They are milestones on the same trajectory, set across two overlapping roadmaps.
 
-- **Renewable Energy Act 2011 [Act 725]** — created the Feed-in Tariff (FiT) mechanism and the Renewable Energy Fund (KWTBB). It covers biomass, biogas, small hydro and solar PV, and was amended by the **Renewable Energy (Amendment) Act 2023 [Act A1689]**, enacted 10 November 2023.
-- **SEDA Act 2011 [Act 726]** — established SEDA as the statutory body that administers RE incentives.
-- **MyRER (Malaysia Renewable Energy Roadmap)** — sets the interim targets of **31% RE share by 2025** and **40% by 2035**, and estimates over **MYR 53 billion** of investment and roughly **46,636 jobs** to 2035.
-- **National Energy Transition Roadmap (NETR)** — the wider decarbonisation plan, targeting **70% RE in installed capacity by 2050**, with solar the largest contributor (on the order of 57 GW of solar PV by 2050).
+The **Malaysia Renewable Energy Roadmap (MyRER)**, published by the Sustainable Energy Development Authority (SEDA), sets the near-term marker: a **31% renewable-energy share in the national installed-capacity mix by 2025**. MyRER projects over **MYR 53 billion** in investment and **46,636 job creations** in reaching its goals.
 
-## How you can access renewable energy
+The wider **National Energy Transition Roadmap (NETR)** then carries the trajectory forward: **31% of installed capacity by 2025, 40% by 2035, and 70% by 2050**. A key nuance often lost in headlines — the 70% figure is renewable energy as a share of electricity **generation / installed capacity**, not of the whole energy system. In capacity terms, Malaysia's installed renewable capacity is expected to expand from about **6 GW to 14 GW** on the way there.
 
-SEDA runs several schemes, each aimed at a different user:
+NETR is broader than solar panels. It is built on six energy-transition levers — **Energy Efficiency, Renewable Energy, Hydrogen, Bioenergy, Green Mobility, and Carbon Capture Utilisation and Storage** — structured into **10 flagship catalytic projects**. Those flagships are expected to draw over **RM25 billion** in investment, while the broader energy transition is framed as an **RM1.2 trillion to RM1.3 trillion** opportunity by 2050. Underpinning all of it is a **net-zero greenhouse-gas-emissions aspiration by 2050**.
 
-| Scheme | For whom | Status |
+| Roadmap | Milestone | What it measures |
 | --- | --- | --- |
-| Feed-in Tariff (FiT) | Biogas, biomass, small-hydro generators | Active via periodic e-Bidding |
-| Net Energy Metering (NEM) | Homes, businesses, government | Ran until mid-2025 |
-| Solar ATAP | Domestic & non-domestic consumers | Effective 1 January 2026 |
-| Large Scale Solar (LSS) | Utility-scale solar developers | Competitive tenders |
+| MyRER | 31% by 2025 | RE share of installed-capacity mix |
+| NETR | 31% (2025) → 40% (2035) → 70% (2050) | RE share of generation/installed capacity |
+| NETR | Net-zero aspiration by 2050 | Greenhouse-gas emissions |
 
-- **Feed-in Tariff (FiT):** the oldest scheme — generators sell to the grid at a fixed rate for a set term. FiT quota is now allocated by e-Bidding for biogas, biomass and small hydro.
-- **Net Energy Metering (NEM):** let rooftop-solar owners offset their bills by exporting surplus power to the grid; it has been succeeded by **Solar ATAP** from 1 January 2026.
-- **Large Scale Solar (LSS):** the Energy Commission's competitive route for utility-scale plants. **LSS5**, launched **1 April 2024**, offered **2 GW** across four packages, including a dedicated floating-solar package.
+## Which scheme is actually for me?
 
-## Who pays for it
+The schemes sort cleanly by who you are. The two with fully documented mechanics are Net Energy Metering (for self-consumers) and the Corporate Green Power Programme (for corporates buying green power); the rest of the family serves producers and larger buyers.
 
-RE incentives are funded by the **Renewable Energy Fund (KWTBB)**, financed by a **1.6% surcharge** on electricity consumption charges. It appears as a separate line on the TNB bill; TNB is only the collecting agent, and **domestic users consuming 300 kWh a month or less are exempt**.
+| You are… | Look at | What it does |
+| --- | --- | --- |
+| A homeowner (Peninsular Malaysia) | **NEM Rakyat** (part of NEM 3.0) | Offset your bill with rooftop-solar exports |
+| A government ministry or agency | **NEM GoMEn** (part of NEM 3.0) | Same offset mechanism, public-sector quota |
+| A commercial or industrial consumer | **NOVA** (part of NEM 3.0) | Virtually aggregate solar across accounts |
+| A corporate buyer wanting green power | **CGPP** | Buy RE + green attributes via a virtual PPA |
+| An RE generator / developer | **FiT, LSS, CRESS, SELCO** | Sell to the grid or supply corporate buyers |
+
+The self-consumption schemes (NEM) and the corporate-supply scheme (CGPP) are detailed below. The generator- and developer-facing programmes — Feed-in Tariff (FiT), Large Scale Solar (LSS), the Corporate Renewable Energy Supply Scheme (CRESS) and self-consumption (SELCO) — are named here for completeness; their current quotas, tariffs and access rules should be confirmed against primary sources (see *Verification needed*).
+
+## How does Net Energy Metering (NEM 3.0) work?
+
+NEM lets you install rooftop solar, use what you generate, and send the surplus to the grid for credit. **NEM 3.0 runs from 2021 to 2025 with a total quota allocation of up to 2,500 MW**, split into three programmes for three kinds of user:
+
+- **NEM Rakyat — 700 MW**, for domestic consumers in Peninsular Malaysia.
+- **NEM GoMEn — 100 MW**, for government ministries and agencies.
+- **NOVA (Net Offset Virtual Aggregation) — 1,700 MW**, for commercial and industrial consumers.
+
+The credit mechanism differs by programme. Under **NEM Rakyat and NEM GoMEn**, excess solar energy exported to the grid is credited on a **one-on-one offset basis** against the electricity bill, for up to **10 years**. Under **NOVA**, exported credits are instead valued at the **Average System Marginal Price (SMP)** — a market-referenced rate rather than a straight one-for-one offset — which is why the household and commercial programmes are worth understanding separately before committing.
+
+## What about corporates that want green power?
+
+Not every organisation wants to own panels. The **Corporate Green Power Programme (CGPP)** lets a company contract for renewable electricity instead. Under CGPP, **a corporate consumer signs a virtual power purchase agreement (VPPA) with a solar power producer** for the renewable energy and its green attributes, while firm supply is backed up by the electricity utility company. It is, in effect, a way to claim green power without taking on grid-balancing risk yourself.
+
+Demand was strong: the CGPP was **allocated a total quota of 800 MW**, which was **fully subscribed on 8 November 2023 by 32 successful applicants**. For corporates that missed that window, other corporate-supply mechanisms (such as CRESS) have been introduced — but their specifics need verification against the Energy Commission and Single Buyer before relying on them.
+
+## Who runs all of this — and does it work the same everywhere?
+
+Responsibility is deliberately split across bodies:
+
+- **SEDA (Sustainable Energy Development Authority)** administers the self-consumption and feed-in schemes (NEM, and the MyRER roadmap).
+- **The Energy Commission (Suruhanjaya Tenaga)** and the **Single Buyer** handle programmes such as CGPP and corporate supply.
+- The **energy ministry (NRECC/PETRA)** sets overall policy and owns the NETR.
+
+One structural caveat matters before you assume any scheme applies to you: Malaysia does not run a single national power sector. **Peninsular Malaysia, Sabah and Sarawak operate under separate power-sector regimes.** The NEM programmes described above are framed for Peninsular Malaysia (NEM Rakyat explicitly covers domestic consumers there); Sabah and Sarawak run their own arrangements, so an offer or quota in one region does not automatically exist in another.
 
 ## What's next
 
-RE policy in Malaysia changes frequently — quotas open and close, and schemes are renamed or replaced (NEM to Solar ATAP being the latest example). Before committing to a solar installation or a development bid:
+Malaysia's RE framework moves quickly — quotas open and close, schemes are extended or renamed, and new corporate-supply mechanisms keep arriving. Before you act:
 
-- Confirm the current scheme, quota and rates on SEDA's official portal, since figures are updated regularly.
-- For rooftop solar, appoint a SEDA-registered PV supplier — applications cannot be filed without one.
-- For the bigger picture, see the linked pages on [SEDA](/en/energy/seda-malaysia), the [National Energy Transition Roadmap](/en/energy/national-energy-transition-roadmap-netr), [solar energy](/en/energy/solar-energy-malaysia) and [hydropower](/en/energy/hydropower-malaysia).
-
-*This article is an AI-generated draft based on official SEDA, MIDA and reputable industry sources; verify critical figures against primary documents before acting.*
+- **Match the scheme to your profile first** (household → NEM Rakyat; C&I → NOVA; corporate buyer → CGPP), then confirm the live quota and rules on the administering agency's portal — SEDA for NEM, the Energy Commission and Single Buyer for corporate programmes.
+- **Check your region.** Peninsular, Sabah and Sarawak differ; do not assume a Peninsular scheme is available where you are.
+- **Treat any figure flagged under *Verification needed* as provisional** until confirmed against a primary source — LSS round tariffs, current RE-share splits, coal-retirement dates and the latest NEM successor scheme all fall into that bucket.

@@ -1,150 +1,158 @@
 ---
 topicId: "MY-EMP-0058"
-title: "Employees Provident Fund Act 1991"
-seoTitle: "Employees Provident Fund Act 1991 (EPF/KWSP) Malaysia"
+title: "The Employees Provident Fund Act 1991: How EPF Works in Malaysia"
+seoTitle: "Employees Provident Fund Act 1991 (EPF) Guide"
+socialTitle: "The 2.5% your EPF is legally guaranteed to earn — and the law behind it"
 slug: "employees-provident-fund-act-1991"
 category: "employment"
 subcategory: ["payroll-statutory"]
-summary: "The statute (Act 452) that creates Malaysia's EPF/KWSP retirement-savings scheme and makes monthly employer and employee contributions compulsory."
+summary: "The Employees Provident Fund Act 1991 (Act 452) is Malaysia's statute governing mandatory retirement savings for private-sector and non-citizen employees, setting contribution rates, the 2.5% minimum dividend guarantee, withdrawal rules, and employer penalties."
 tier: "3"
 mode: "practical"
 contentType: "law"
 sensitivity: "none"
-answer: "The Employees Provident Fund Act 1991 (Act 452) is the Malaysian statute that establishes the Employees Provident Fund (EPF, or KWSP) and its governing Board, and makes retirement-savings contributions compulsory for most employees and employers. It came into force on 1 June 1991. Section 43 requires both the employee and the employer to pay a monthly contribution at the rates in the Third Schedule, and failure to remit by the 15th of the following month is a criminal offence."
+answer: "The Employees Provident Fund Act 1991 — cited as Act 452 — is the Malaysian statute that governs the country's mandatory retirement-savings scheme, run by the Employees Provident Fund (EPF, or KWSP). It came into force on 1 June 1991, replacing the 1951 Ordinance, and operates under the Ministry of Finance. Section 43 makes monthly employer and employee contributions compulsory, Section 27 guarantees an annual dividend of at least 2.5%, and non-payment is a criminal offence."
 keyTakeaways:
-  - "Act 452 came into force on 1 June 1991 and replaced the earlier 1951 provident-fund law; its long title is an Act to provide for a scheme of savings for employees' retirement"
-  - "Section 3 incorporates the Employees Provident Fund Board (KWSP) as a body corporate to administer and invest the Fund"
-  - "Section 43(1) makes monthly contributions compulsory at the Third Schedule rates — for a Malaysian citizen under 60, employer 13% (12% above RM5,000 wages) and employee 11%"
-  - "Section 43(2): failing to pay contributions by the 15th of the following month is an offence punishable by up to 3 years' imprisonment or a fine up to RM10,000, or both"
-  - "From the October 2025 wage month, contributions became mandatory for non-Malaysian citizen employees at 2% each under Third Schedule Part F"
-  - "Members' savings were restructured on 11 May 2024 into Akaun Persaraan (75%), Akaun Sejahtera (15%) and Akaun Fleksibel (10%); full withdrawal is generally available at age 55"
-appliesTo: "Employers, employees, payroll and HR practitioners, and anyone needing the legal basis for EPF/KWSP obligations in Malaysia."
+  - "Act 452 came into force on 1 June 1991, replacing the Employees Provident Fund Ordinance 1951, and operates under the Ministry of Finance"
+  - "Section 43 requires both employee and employer to pay monthly contributions at Third Schedule rates — for a Malaysian below 60, employee 11% and employer 13% (12% on wages above RM5,000)"
+  - "Section 43(2): an employer who fails to pay contributions is liable on conviction to up to 3 years' imprisonment or a fine up to RM10,000, or both"
+  - "Section 27 requires the Board to declare an annual dividend of not less than 2.5% — 6.30% was declared for financial year 2024"
+  - "From 1 October 2025, contributions became mandatory for non-Malaysian citizen employees at 2% each; those over 75 need not register"
+  - "Since 11 May 2024, savings are split across three accounts — Akaun Persaraan (75%), Akaun Sejahtera (15%), Akaun Fleksibel (10%)"
+appliesTo: "Employers, employees, foreign workers, and payroll or HR practitioners who need the legal basis for EPF/KWSP obligations in Malaysia."
 faq:
-  - q: "Who must contribute under the EPF Act 1991?"
-    a: "Under Section 43(1), every employee engaged under a contract of service or apprenticeship, and their employer, are liable to pay a monthly contribution at the rates set out in the Third Schedule. Since the October 2025 wage month, non-Malaysian citizen employees are also covered on a mandatory basis under Part F of that Schedule."
   - q: "What happens if an employer does not pay EPF?"
-    a: "Non-payment is a criminal offence. Section 43(2) provides that an employer who fails to pay a contribution by the 15th of the following month is liable on conviction to imprisonment of up to three years or a fine of up to RM10,000, or both, in addition to the outstanding contributions, dividend and late-payment charges owed to the Fund."
-  - q: "When can EPF savings be withdrawn?"
-    a: "The Act allows withdrawals at retirement and for certain approved purposes before then. Full withdrawal of the balance is generally available at age 55. Since the 11 May 2024 account restructuring, savings in the new Akaun Fleksibel can be withdrawn at any time for any purpose, subject to a minimum amount."
+    a: "Non-payment is a criminal offence. Under Section 43(2), an employer who fails to pay contributions is liable on conviction to imprisonment for up to three years or a fine of up to RM10,000, or both. Contributions for a wage month are due on or before the 15th day of the following month."
+  - q: "Do foreign workers have to contribute to EPF?"
+    a: "Yes. Effective 1 October 2025, EPF contributions became mandatory for non-Malaysian citizen employees, with the employer and employee each contributing 2% of monthly wages. Non-citizens over age 75 are not required to register or contribute."
 lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 status: "in-review"
 aiAssisted: true
 reviewer: null
-version: "0.1"
+version: "0.2"
 revisions:
   - version: "0.1"
     date: 2026-08-10
     change: "Initial AI draft."
     reviewer: null
+  - version: "0.2"
+    date: 2026-08-14
+    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
+    reviewer: null
 verificationNeeded:
-  - "Confirm the exact predecessor legislation wording (Employees Provident Fund Act/Ordinance 1951) against the AGC reprint's revision notes"
-  - "Confirm the precise section number that establishes the Fund itself (Part III) against the AGC statute text — cited here as Part III without pinning a specific section"
-  - "Confirm the current late-payment / dividend charge rate under Section 45 against KWSP directly, as it is set by the Board from time to time"
-updated: 2026-08-10
+  - "Exact age-60-and-above contribution rates and the several rate options — confirm against KWSP 'Mandatory Contribution' page and the Third Schedule before stating specific numbers"
+  - "Precise current wording and rate rows of the Third Schedule (the RM5,000 threshold split) — confirm against the AGC consolidated text rather than payroll-blog summaries"
+  - "Whether the minimum-dividend guarantee section is s.27 (some secondary sources cited s.54) — confirm in the AGC statute text"
+  - "Exact section number for age-55 withdrawal (a source labelled it 's.55A') — confirm in AGC text"
+  - "The financial year 2025 dividend rate (6.15% appeared in one snippet) — confirm the official KWSP press release before stating as declared"
+  - "Latest fund size (RM1.25 trillion, end-2024) and membership (16.22m total / 8.78m active) — refresh against KWSP's most recent annual report at publish time"
+updated: 2026-08-14
 sources:
-  - title: "EPF Act 1991: Legal Framework Overview"
-    url: "https://www.kwsp.gov.my/en/others/resource-centre/references/epf-act-1991"
-    publisher: "KWSP (Employees Provident Fund)"
+  - title: "Employees Provident Fund Act 1991"
+    url: "https://www.commonlii.org/my/legis/consol_act/epfa1991282/"
+    publisher: "Commonwealth Legal Information Institute (CommonLII)"
+  - title: "Employees Provident Fund (Malaysia)"
+    url: "https://en.wikipedia.org/wiki/Employees_Provident_Fund_(Malaysia)"
+    publisher: "Wikipedia"
+  - title: "Employees Provident Fund Act 1991 (statutory analysis)"
+    url: "https://www.lowpartners.com/employees-provident-fund-act-1991/"
+    publisher: "Low & Partners Advocates & Solicitors"
+  - title: "EPF Contribution Rates 2026: Employee and Employer Rates by Salary"
+    url: "https://money.com.my/guides/epf-contribution-rates-2026"
+    publisher: "money.com.my"
   - title: "Employer Mandatory Contribution"
     url: "https://www.kwsp.gov.my/en/employer/responsibilities/mandatory-contribution"
-    publisher: "KWSP (Employees Provident Fund)"
-  - title: "EPF Act 1991 Third Schedule"
-    url: "https://www.kwsp.gov.my/en/epf-act-1991-third-schedule"
-    publisher: "KWSP (Employees Provident Fund)"
-  - title: "EPF Account Restructuring Set to Address Members' Life Cycle Needs"
-    url: "https://www.kwsp.gov.my/en/w/epf-account-restructuring-"
-    publisher: "KWSP (Employees Provident Fund)"
-  - title: "Laws of Malaysia, Act 452 — Employees Provident Fund Act 1991 (reprint)"
-    url: "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/43880/MYS43880%202017.pdf"
-    publisher: "International Labour Organization (NATLEX)"
+    publisher: "Kumpulan Wang Simpanan Pekerja (EPF/KWSP)"
+  - title: "EPF Account Restructuring 2024"
+    url: "https://www.kwsp.gov.my/en/member/account-centre/account-restructuring"
+    publisher: "Kumpulan Wang Simpanan Pekerja (EPF/KWSP)"
+  - title: "No Change To Age 55 Withdrawal And Introducing Akaun Emas For Age 60 Withdrawal"
+    url: "https://www.kwsp.gov.my/en/w/no-change-to-age-55-withdrawal-and-introducing-akaun-emas-for-age-60-withdrawal"
+    publisher: "Kumpulan Wang Simpanan Pekerja (EPF/KWSP)"
+  - title: "EPF Declares 6.30% Dividend For Simpanan Konvensional And 6.30% For Simpanan Shariah"
+    url: "https://www.kwsp.gov.my/en/w/epf-declares-630-dividend-for-simpanan-konvensional-and-630-for-simpanan-shariah-ln"
+    publisher: "Kumpulan Wang Simpanan Pekerja (EPF/KWSP)"
+  - title: "EPF Sustains Solid Performance With 5.50% Dividend For Simpanan Konvensional And 5.40% For Simpanan Shariah"
+    url: "https://www.kwsp.gov.my/en/w/press-release-dividend2023"
+    publisher: "Kumpulan Wang Simpanan Pekerja (EPF/KWSP)"
+  - title: "EPF Begins Mandatory Contributions For Non-Malaysian Citizen Employees Effective October 2025"
+    url: "https://www.kwsp.gov.my/en/w/news/epf-begins-mandatory-contributions-for-non-malaysian-citizen-employees-effective-october-2025"
+    publisher: "Kumpulan Wang Simpanan Pekerja (EPF/KWSP)"
+  - title: "EPF Investment Assets At RM1.25 Trillion, 63 Pct Invested In Domestic Market"
+    url: "https://www.bernama.com/en/news.php?id=2397953"
+    publisher: "BERNAMA (Malaysian National News Agency)"
 entity: "Employees Provident Fund Act 1991 (Act 452)"
-relations:
-  - { rel: "administered-by", to: "epf" }
-  - { rel: "part-of", to: "labour-law-map-malaysia" }
-  - { rel: "explained-in", to: "epf-employer-guide" }
-  - { rel: "related-to", to: "socso-eis-employer-guide" }
-related: ["epf-employer-guide", "epf-foreign-workers-malaysia", "epf-socso-guide", "payroll-compliance-malaysia"]
-keywords: ["Employees Provident Fund Act 1991", "EPF Act 452", "KWSP Act", "Akta KWSP 1991", "EPF Malaysia law", "Third Schedule EPF", "Section 43 EPF"]
+relations: []
+related: []
+keywords: ["Employees Provident Fund Act 1991", "EPF Act 1991", "Act 452", "KWSP", "EPF contribution rate", "EPF dividend", "Akaun Persaraan Sejahtera Fleksibel", "EPF withdrawal age 55", "KWSP Malaysia", "EPF foreign worker contribution", "Kumpulan Wang Simpanan Pekerja"]
 ---
 
-The **Employees Provident Fund Act 1991** — cited as **Act 452** in the Laws of
-Malaysia — is the statute that creates the Employees Provident Fund (EPF, or
-**KWSP**, *Kumpulan Wang Simpanan Pekerja*) and makes retirement-savings
-contributions compulsory for most employees and their employers. It came into
-force on **1 June 1991**, replacing Malaysia's earlier 1951 provident-fund law.
-Its long title describes it as an Act to provide for a scheme of savings for
-employees' retirement and the management of those savings.
+Every payslip in private-sector Malaysia carries an 11% deduction that vanishes
+into a fund you cannot touch for decades — and behind that line sits a single
+statute. The **Employees Provident Fund Act 1991**, cited as **Act 452**, is
+"an Act to provide for the law relating to a scheme of savings for employees'
+retirement and the management of those savings." It came into force on
+**1 June 1991**, replacing the Employees Provident Fund Ordinance 1951 that first
+established the fund on 1 October 1951, and it operates under the purview of the
+**Ministry of Finance**.
 
-Almost every practical EPF rule an employer follows — the 13 per cent employer
-contribution, the 15th-of-the-month deadline, the penalties for non-payment —
-traces back to a provision in this Act or its schedules.
+The scheme is run by the Employees Provident Fund (EPF, or **KWSP**, *Kumpulan
+Wang Simpanan Pekerja*). As at 31 December 2024, its investment assets stood at
+**RM1.25 trillion** — 63% invested domestically — serving a total membership of
+**16.22 million**, of whom 8.78 million were active.
 
-## What the Act sets up
+## Who must contribute, and how much?
 
-**Section 3** incorporates the **Employees Provident Fund Board** as a body
-corporate with perpetual succession and a common seal, able to sue, be sued,
-hold property and enter contracts. This Board — the KWSP — administers the
-scheme. **Part III** establishes the Fund itself and makes the Board its trustee
-and investment manager; the Board is required by the Act to keep a substantial
-share of the Fund in Malaysian Government securities.
+**Section 43(1)** makes contributions compulsory: every employee, and every
+employer of an employee, must pay monthly contributions on wages at the rates in
+the **Third Schedule**. **Section 2** defines "wages" as all remuneration in
+money due under a contract of service — including bonuses and commissions — but
+excludes service charges, overtime, gratuity and retirement benefits.
 
-The EPF is a **defined-contribution** scheme: what a member receives at
-retirement is their accumulated contributions plus the annual dividend the Board
-declares, not a promised pension.
+| Employee | Employee rate | Employer rate |
+| --- | --- | --- |
+| Malaysian below age 60 | 11% | 13% (12% on wages above RM5,000) |
+| Non-Malaysian citizen (from 1 Oct 2025) | 2% | 2% |
 
-## The core obligation: Section 43 and the Third Schedule
+Since **1 October 2025**, contributions have been mandatory for non-Malaysian
+citizen employees, each side paying 2% of monthly wages; non-citizens over age
+75 need not register or contribute.
 
-**Section 43(1)** is the heart of the Act. It provides that every employee and
-every employer of a person who is an employee is liable to pay a **monthly
-contribution** on wages, at the rates set out in the **Third Schedule**.
+## What are the deadlines and penalties?
 
-The Third Schedule states the actual amounts. Its Parts are divided by the
-employee's citizenship, residence status and age:
+Contributions for a wage month must be paid by the employer **on or before the
+15th day of the following month**. Non-compliance is not merely a civil debt:
+under **Section 43(2)**, an employer who fails to pay contributions commits an
+offence and is liable, on conviction, to **imprisonment of up to three years or
+a fine of up to RM10,000, or both**.
 
-| Employee | Rate (per Third Schedule) |
-| --- | --- |
-| Malaysian citizen / PR, under 60 (Part A) | Employer 13% (12% on wages above RM5,000); employee 11% |
-| Malaysian citizen, 60 and over (Part E) | Employer 4%; employee nil |
-| Non-Malaysian citizen (Part F) | Employer 2%; employee 2% |
+## How are dividends guaranteed?
 
-For monthly wages up to RM20,000 these are read as fixed ringgit amounts from a
-banded table rather than computed as an exact percentage — a detail covered in
-the [EPF employer guide](/en/employment/epf-employer-guide).
+**Section 27** requires the Board, with ministerial approval, to declare an
+annual dividend that shall be **not less than 2.5% per annum** — a statutory
+floor that has rarely been tested in practice. For financial year 2024, the EPF
+declared **6.30%** for Simpanan Konvensional (RM63.05 billion) and 6.30% for
+Simpanan Shariah (RM10.19 billion), a total payout of RM73.24 billion. A year
+earlier, for 2023, it declared 5.50% and 5.40% respectively.
 
-## Deadlines and penalties
+## When can savings be withdrawn?
 
-Contributions for a wage month are due **on or before the 15th day of the
-following month**. **Section 43(2)** makes late or non-payment a **criminal
-offence**: on conviction, imprisonment for up to three years or a fine of up to
-RM10,000, or both. Separately, the employer remains liable for the unpaid
-contributions, the equivalent dividend and a late-payment charge set by the
-Board.
+Members reaching **age 55** have their savings consolidated into **Account 55
+(Akaun 55)** and may withdraw all or part at any time. Contributions made after
+age 55 go into **Akaun Emas**, which becomes fully accessible at **age 60**.
 
-## Recent statutory changes
-
-- **Foreign workers (from October 2025).** Contributions became mandatory for
-  non-Malaysian citizen employees under new **Part F** of the Third Schedule, at
-  2 per cent from each side, replacing the old elective RM5 employer regime. See
-  [EPF for foreign workers](/en/employment/epf-foreign-workers-malaysia).
-- **Account restructuring (11 May 2024).** Members below 55 moved from two
-  accounts to three — **Akaun Persaraan** (75% of new contributions),
-  **Akaun Sejahtera** (15%) and the new **Akaun Fleksibel** (10%), which allows
-  withdrawals at any time subject to a minimum amount.
-
-## Withdrawals
-
-The Act permits withdrawals at retirement and for approved pre-retirement
-purposes (such as housing, education and health). **Full withdrawal** of the
-balance is generally available at **age 55**, with continued contributions
-possible up to age 75.
+Separately, the **11 May 2024** restructuring split members' savings from two
+accounts into three — **Akaun Persaraan**, **Akaun Sejahtera** and **Akaun
+Fleksibel** — with new contributions allocated **75% / 15% / 10%** across them.
+Akaun Fleksibel is designed for short-term needs and can be tapped before
+retirement.
 
 ## What's next
 
-For the mechanics of computing and remitting contributions correctly, read the
-[EPF employer guide](/en/employment/epf-employer-guide). To see how EPF sits
-alongside SOCSO, EIS and PCB on the same monthly deadline, use the
-[payroll compliance calendar](/en/employment/payroll-compliance-malaysia), and
-for the wider statutory landscape see the
-[labour-law map](/en/employment/labour-law-map-malaysia).
+This is the legal skeleton; the practical mechanics — exact banded ringgit
+amounts, the several rate options at age 60 and above, and remittance through the
+i-Akaun employer portal — should be confirmed against KWSP's own Mandatory
+Contribution pages and the Third Schedule of Act 452 before you rely on any
+specific figure.

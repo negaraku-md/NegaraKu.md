@@ -1,116 +1,107 @@
 ---
 topicId: "MY-SPT-0018"
-title: "National Sports Council (MSN)"
-seoTitle: "National Sports Council (MSN) Malaysia: Role & Act 1971"
+title: "The National Sports Council (MSN): How Malaysia Builds Its Athletes"
+seoTitle: "National Sports Council (MSN): Malaysia's Body"
+socialTitle: "Who actually runs Malaysian sport? Meet MSN."
 slug: "national-sports-council-msn"
 category: "sports"
 subcategory: ["sports-governance"]
-summary: "The statutory agency under the Ministry of Youth and Sports that coordinates, funds and trains Malaysia's national athletes."
+summary: "The National Sports Council of Malaysia (Majlis Sukan Negara, MSN) is the statutory agency under the Ministry of Youth and Sports that develops the nation's athletes from grassroots to the Olympic podium, running the training programmes and Bukit Jalil facilities behind Malaysia's elite sport."
 tier: "4"
 mode: "practical"
 contentType: "agency"
 sensitivity: "none"
-answer: "The National Sports Council of Malaysia (Majlis Sukan Negara, MSN) is the federal statutory body that develops and coordinates sport in Malaysia. It was created by the National Sports Council of Malaysia Act 1971 and operates under the Ministry of Youth and Sports (KBS), running national training programmes, managing the Bukit Jalil National Sports Complex, and preparing contingents for the SEA Games, Asian Games and Olympics. Every state also has a State Sports Council established under the same Act."
+answer: "The National Sports Council of Malaysia (Majlis Sukan Negara, MSN) is the federal statutory body that develops and coordinates sport in Malaysia. It was established under the National Sports Council of Malaysia Act 1971 (amended 1979) and officially launched on 21 February 1972. It operates under the Ministry of Youth and Sports (KBS), runs the national athlete-development programmes, and is headquartered at the National Sports Complex in Bukit Jalil, Kuala Lumpur."
 keyTakeaways:
-  - "MSN is a statutory body established by the National Sports Council of Malaysia Act 1971 (Act 29, reprinted as Act 362), amended in 1979, and was officially launched on 21 February 1972 by Prime Minister Abdul Razak Hussein."
-  - "It sits under the Ministry of Youth and Sports (Kementerian Belia dan Sukan, KBS); its headquarters is the National Sports Complex (Kompleks Sukan Negara), Bukit Jalil, Kuala Lumpur."
-  - "Section 4 of the Act sets its statutory functions: advising the Minister, coordinating sports activities, recommending policy, and promoting sport locally and internationally."
-  - "Section 7 of the Act provides for a State Sports Council in every state and a Federal Territory Sports Council, giving Malaysia 13 state councils plus one federal-territory council."
-  - "MSN is distinct from the National Sports Institute (ISN), which delivers sports science, medicine and the Podium high-performance programme."
-appliesTo: "Athletes, sports officials, journalists, students and anyone researching how elite and community sport is governed and funded in Malaysia."
+  - "MSN is a government agency and statutory body under the Ministry of Youth and Sports (KBS) that governs sporting activities in Malaysia."
+  - "It was established under the National Sports Council of Malaysia Act 1971 (amended in 1979) and officially launched on 21 February 1972 by the second Prime Minister, Tun Abdul Razak Hussein."
+  - "MSN was restructured in 1981, after which it significantly expanded its programmes in line with the National Sports Policy's aim to drive sports development and elite achievement."
+  - "Its headquarters is the Kompleks Sukan Negara (National Sports Complex), Bukit Jalil, 57000 Sri Petaling, Kuala Lumpur; general enquiries: 03-89929600."
+  - "MSN runs athlete and para-athlete training programmes and sport-specific schemes in football (FAM-MSN Project), hockey, netball, rugby and cycling, plus a Women in Sports programme, and operates training complexes in several states."
+appliesTo: "Athletes, sports officials, journalists, students, and anyone researching how elite and community sport is governed and developed in Malaysia."
 faq:
   - q: "Is MSN the same as the Ministry of Youth and Sports?"
-    a: "No. The Ministry of Youth and Sports (KBS) is the government ministry that sets policy and holds the budget; MSN is a statutory implementing agency under that ministry, created by its own Act of Parliament."
-  - q: "What is the difference between MSN and ISN?"
-    a: "MSN (National Sports Council) handles athlete development, coaching, competition preparation and facilities. ISN (National Sports Institute) provides sports science, sports medicine and runs the Podium elite-athlete programme. Both operate under KBS and are based at Bukit Jalil."
-  - q: "Who runs MSN?"
-    a: "MSN is led by a Director-General appointed by the government. Jefri Ngadirin became the 10th Director-General on 4 April 2026, succeeding Abdul Rashid Yaakub."
+    a: "No. The Ministry of Youth and Sports (KBS) is the parent government ministry; MSN is a statutory agency under it, established by its own Act of Parliament in 1971 to develop and coordinate sport."
+  - q: "When was MSN founded?"
+    a: "It was established under the National Sports Council of Malaysia Act 1971 (amended in 1979) and officially launched on 21 February 1972 by Prime Minister Tun Abdul Razak Hussein."
+  - q: "Where is MSN based?"
+    a: "At the National Sports Complex (Kompleks Sukan Negara), Bukit Jalil, 57000 Sri Petaling, Kuala Lumpur. It also operates training complexes in several other states."
 lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 status: "in-review"
 aiAssisted: true
 reviewer: null
-version: "0.1"
+version: "0.2"
 revisions:
   - version: "0.1"
     date: 2026-08-10
     change: "Initial AI draft."
     reviewer: null
+  - version: "0.2"
+    date: 2026-08-14
+    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
+    reviewer: null
 verificationNeeded:
-  - "Exact council composition/membership under the Act (chairman and appointed members) not confirmed against a primary section; stated only in general terms."
-  - "The RM230 million 2025 sports development allocation is reported at ministry (KBS) level; the precise portion channelled through MSN was not confirmed against a primary budget document."
-  - "Whether the reprint is authoritatively cited as 'Act 362' vs original 'Act 29' should be confirmed against the AGC Laws of Malaysia reprint."
-updated: 2026-08-10
+  - "Exact Act number/citation of the National Sports Council of Malaysia Act 1971 (widely cited as 'Act 29') and the 1979 amendment — confirm against primary AGC statute text before stating a section or reprint number."
+  - "Verbatim official Vision (Visi) and Mission (Misi) text — nsc.gov.my publishes them only as images; OCR or a direct read is needed before quoting."
+  - "Institut Sukan Negara (ISN) founding year and the precise MSN-vs-ISN division of labour (programme management by MSN vs performance/sports-science by ISN) — not yet confirmed against a primary source."
+  - "Current Director General as of 2026 — Wikipedia lists Ahmad Shapawi Ismail; confirm he still holds the post via nsc.gov.my before treating as current."
+  - "Number and names of the state sports councils (Majlis Sukan Negeri) coordinated under the Act — not yet confirmed from a primary list."
+  - "Full verbatim statutory list of the Council's functions from the Act itself, as opposed to paraphrased functions on secondary pages."
+updated: 2026-08-14
 sources:
-  - title: "National Sports Council of Malaysia Act 1971"
-    url: "https://www.commonlii.org/my/legis/consol_act/nscoma1971362/"
-    publisher: "CommonLII"
-  - title: "Majlis Sukan Negara Malaysia — official website"
-    url: "https://www.nsc.gov.my/"
-    publisher: "National Sports Council of Malaysia"
-  - title: "Majlis Sukan Negeri (State Sports Councils)"
-    url: "https://www.nsc.gov.my/majlis-sukan-negeri/"
-    publisher: "National Sports Council of Malaysia"
   - title: "National Sports Council of Malaysia"
     url: "https://en.wikipedia.org/wiki/National_Sports_Council_of_Malaysia"
     publisher: "Wikipedia"
-  - title: "Podium Programme"
-    url: "https://isn.gov.my/podium-division/"
-    publisher: "Institut Sukan Negara (National Sports Institute)"
-  - title: "Jefri komited guna pengalaman majukan sukan negara"
-    url: "https://olympics.bernama.com/news-bm.php?id=2405015"
-    publisher: "BERNAMA"
-entity: "National Sports Council of Malaysia (Majlis Sukan Negara Malaysia)"
-relations:
-  - { rel: "related-to", to: "malaysian-sport-governance" }
-  - { rel: "related-to", to: "national-sports-policy-podium-programme" }
-  - { rel: "related-to", to: "national-sports-venues" }
-  - { rel: "related-to", to: "sukma-games" }
+  - title: "Sejarah — Majlis Sukan Negara Malaysia"
+    url: "https://www.nsc.gov.my/sejarah/"
+    publisher: "Majlis Sukan Negara Malaysia (nsc.gov.my)"
+  - title: "Majlis Sukan Negara Malaysia — Official Website"
+    url: "https://www.nsc.gov.my/en/"
+    publisher: "Majlis Sukan Negara Malaysia (nsc.gov.my)"
+entity: "Majlis Sukan Negara Malaysia (National Sports Council of Malaysia, MSN)"
+relations: []
 related: []
-keywords: ["MSN", "Majlis Sukan Negara", "National Sports Council of Malaysia", "National Sports Council Act 1971", "Bukit Jalil", "Ministry of Youth and Sports"]
+keywords: ["Majlis Sukan Negara", "MSN", "National Sports Council of Malaysia", "NSC Malaysia", "MSN Bukit Jalil", "Akta Majlis Sukan Negara 1971", "Institut Sukan Negara", "ISN", "Kompleks Sukan Negara Bukit Jalil", "Majlis Sukan Negeri", "Kementerian Belia dan Sukan", "MSN atlet", "pembangunan sukan Malaysia"]
 ---
 
-The **National Sports Council of Malaysia** — in Malay, **Majlis Sukan Negara Malaysia (MSN)** — is the federal statutory body responsible for developing and coordinating sport in Malaysia. It sits under the **Ministry of Youth and Sports** (Kementerian Belia dan Sukan, KBS) and is best known for training the country's elite athletes, running national development programmes, and managing the **National Sports Complex at Bukit Jalil**, Kuala Lumpur.
+When a Malaysian sprinter lines up at the Olympics or a young footballer is scouted into a national squad, there is a single government body standing behind the training, the coaching and the facilities that got them there: the **National Sports Council of Malaysia**, known in Malay as **Majlis Sukan Negara (MSN)**. It is the statutory agency that turns national sports policy into actual athletes.
 
-## Legal basis and history
+## What exactly is MSN?
 
-MSN was created by the **National Sports Council of Malaysia Act 1971** (Act 29, later reprinted in the Laws of Malaysia series as Act 362), which was amended in 1979. The Council was officially launched on **21 February 1972** by Malaysia's second Prime Minister, Tun Abdul Razak Hussein.
+MSN is a government agency and statutory body that governs sporting activities in Malaysia. It sits under the **Ministry of Youth and Sports** — the Kementerian Belia dan Sukan, or **KBS** — which means KBS sets the policy while MSN is the agency that develops and coordinates sport on the ground.
 
-**Section 3** of the Act establishes MSN as a body corporate that can hold and dispose of property and sue in its own name. This statutory status is what distinguishes MSN from the ministry above it: KBS sets policy and holds the budget, while MSN is the agency that implements sports programmes on the ground.
+Its headquarters is the **Kompleks Sukan Negara (National Sports Complex) in Bukit Jalil**, 57000 Sri Petaling, Kuala Lumpur, and its general enquiries line is **03-89929600**. Beyond Bukit Jalil, MSN operates additional training complexes across several states.
 
-## Statutory functions
+## When and how was it created?
 
-The Council's core duties are fixed in **Section 4** of the Act. In summary, its functions are:
+MSN was established under the **National Sports Council of Malaysia Act 1971**, which was later **amended in 1979**. The Council was **officially launched on 21 February 1972** by Malaysia's second Prime Minister, **Tun Abdul Razak Hussein**.
 
-| Function (Act 1971, s.4) | What it means in practice |
+It was then **restructured in 1981**, after which it significantly expanded its programmes and activities — in line with the National Sports Policy's aim to fully drive the encouragement, development and elite-level achievement of sport.
+
+## Who leads MSN?
+
+| Role | Holder |
 | --- | --- |
-| Advise the Minister on sport | Technical and policy guidance to KBS |
-| Coordinate sports activities | Aligning government departments and sports bodies |
-| Recommend methods, measures and policies | Shaping national sports strategy |
-| Promote and participate in sport development | Domestic programmes and international representation |
+| Director General | Ahmad Shapawi Ismail |
+| Minister of Youth and Sports | Hannah Yeoh |
+| Deputy Minister | Adam Adli |
 
-In day-to-day terms this covers athlete training, coaching, talent identification, facility management, and preparing national contingents for the **SEA Games, Asian Games, Commonwealth Games and Olympic Games**.
+The Director General runs the agency day to day, while the parent minister and deputy sit at the KBS level above it. (The current office-holders should be re-confirmed against the official site before being treated as up to date — see the verification note.)
 
-## Structure and leadership
+## What programmes does MSN actually run?
 
-MSN is administered by a **Director-General** appointed by the government. **Jefri Ngadirin** became the 10th Director-General on **4 April 2026**, succeeding Abdul Rashid Yaakub. The agency is headquartered at the **National Sports Complex (Kompleks Sukan Negara), Bukit Jalil, 57000 Kuala Lumpur**.
+MSN's real work is a pipeline of athlete- and sport-development programmes, including:
 
-Below the national body, **Section 7** of the Act provides for a **State Sports Council** in every state and a **Federal Territory Sports Council**. This gives Malaysia 13 state councils plus one federal-territory council, which run state-level programmes and organise state contingents for the biennial **Sukan Malaysia (SUKMA)** games.
+- the **Athletes Training Programme** and the **Para Athletes Training Programme**;
+- the **National Football Development Programme** (the FAM–MSN Project);
+- national development programmes for **hockey, netball and rugby**;
+- **Junior Cycling Malaysia**; and
+- the **Women in Sports** programme.
 
-## Programmes and high-performance sport
-
-MSN delivers a range of athlete and sport-development programmes, including athlete and para-athlete training programmes and sport-specific development schemes in football (the FAM–MSN project), hockey, netball, rugby and cycling, alongside its "Women in Sports" initiative.
-
-For elite, medal-focused sport, MSN works closely with the **National Sports Institute (ISN)**, a separate KBS agency that provides sports science and medicine and administers the **Podium Programme** — the national high-performance scheme launched on **22 February 2016**. Together, MSN and ISN support national initiatives such as the government's "Road to Gold" push toward future Olympic medals. (The exact split of budget between the two agencies is set annually by KBS.)
-
-## MSN versus related bodies
-
-- **KBS (Ministry of Youth and Sports)** — the parent ministry that sets policy and budget.
-- **MSN (National Sports Council)** — the statutory agency for training, competition and facilities.
-- **ISN (National Sports Institute)** — sports science, medicine and the Podium Programme.
-- **National sports associations (e.g. FAM, BAM)** and the **Olympic Council of Malaysia (OCM)** — separate, non-governmental governing and Olympic bodies that MSN coordinates with.
+Together these run from grassroots talent identification up to the preparation of national athletes for major competition.
 
 ## What's next
 
-To see how MSN fits into the wider system — including how national sports associations, the OCM and the ministry share responsibilities — read the overview of **Malaysian sport governance**, and the companion pages on the **national sports policy and Podium Programme** and the **SUKMA games** that MSN and the state councils jointly run.
+MSN is one part of a wider system that also includes the Ministry of Youth and Sports above it, the National Sports Institute (ISN), the national sports associations, and the state sports councils (Majlis Sukan Negeri). For the confirmed shape of that division of labour — and the exact statutory functions of the Act — see the verification notes attached to this entry, which flag what still needs checking against primary sources.

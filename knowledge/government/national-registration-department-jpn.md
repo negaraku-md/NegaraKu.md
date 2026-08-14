@@ -1,123 +1,121 @@
 ---
 topicId: "MY-GOV-0097"
-title: "National Registration Department (JPN)"
-seoTitle: "National Registration Department (JPN) Malaysia"
+title: "National Registration Department (JPN): Malaysia's Civil Registry and MyKad Authority"
+seoTitle: "JPN Malaysia: National Registration Dept Guide"
+socialTitle: "One agency records every Malaysian from birth to death — here's how JPN actually works"
 slug: "national-registration-department-jpn"
 category: "government"
-subcategory: ["civil registration"]
-summary: "Malaysia's agency for registering births, deaths, marriages, citizenship, and issuing the MyKad identity card."
+subcategory: ["agencies"]
+summary: "The National Registration Department (JPN), an agency under the Ministry of Home Affairs, is Malaysia's civil registry — recording births, deaths, marriages, divorces, adoptions and citizenship, and issuing the compulsory MyKad identity card."
 tier: "3"
 mode: "practical"
 contentType: "agency"
 sensitivity: "none"
-answer: "The National Registration Department (Jabatan Pendaftaran Negara, JPN) is the federal agency under the Ministry of Home Affairs that registers vital life events — births, deaths, adoptions, and non-Muslim marriages and divorces — determines citizenship status, and issues the MyKad national identity card. Every Malaysian interacts with JPN from birth registration onward, and its records underpin access to schooling, benefits, passports, and voting."
+answer: "The National Registration Department (Jabatan Pendaftaran Negara, JPN) is the agency under Malaysia's Ministry of Home Affairs that registers the important events in every individual's life — births, deaths, adoptions, marriages and divorces — determines citizenship status, and issues the MyKad national identity card. Its core business spans eight registration areas, so almost every Malaysian deals with JPN from birth registration onward."
 keyTakeaways:
-  - "JPN sits under the Ministry of Home Affairs and administers civil registration and identity documents nationwide."
-  - "Births must be registered within 14 days at a hospital or within 60 days generally under the Births and Deaths Registration Act 1957; registration after 60 days is treated as 'late'."
-  - "The MyKad smart identity card is issued under the National Registration Act 1959 and the National Registration Regulations 1990; it launched on 5 September 2001, replacing the High Quality Identity Card."
-  - "A first MyKad is free if applied for within 30 days of turning 12; a replacement card is mandatory at age 18."
-  - "JPN also processes citizenship applications and confirmations under Part III (Articles 14-31) of the Federal Constitution."
-appliesTo: "Malaysian citizens, permanent and temporary residents, and anyone registering a birth, death, marriage, or citizenship matter, or applying for a MyKad."
+  - "JPN is a department under the Ministry of Home Affairs (KDN); its core business covers eight areas — Birth, Identity Card, Adoption, Marriage, Divorce, Death, Citizenship and the MEKAR programme."
+  - "The MyKad is a compulsory smart identity card for citizens aged 12 and above, launched on 5 September 2001 — the first ID card in the world to carry photo and fingerprint biometrics on an embedded chip."
+  - "A child applies for a first MyKad on turning 12; it is free within 30 days of the 12th birthday, and RM10 after that window, with the applicant and a sponsor attending a JPN counter in person."
+  - "Replacing a lost MyKad costs RM110 for a first loss, RM310 for a second and RM1,010 for a third or subsequent loss, and requires a police report."
+  - "Birth and death registration is governed by the Births and Deaths Registration Act 1957 (Act 299), administered by JPN."
+appliesTo: "Malaysian citizens, permanent and temporary residents, and anyone registering a birth, death, marriage, adoption or citizenship matter, or applying for or replacing a MyKad."
 faq:
-  - q: "How long do I have to register a newborn's birth?"
-    a: "Hospital births are registered within 14 days; otherwise registration should be done within 60 days. After 60 days it is a 'late registration' with extra documentation and checks, under the Births and Deaths Registration Act 1957."
-  - q: "When do I get my first MyKad, and when must I replace it?"
-    a: "Malaysians register for their first identity card at age 12 — free if done within 30 days of the 12th birthday. A replacement MyKad is compulsory on turning 18."
+  - q: "When does a child get their first MyKad, and how much does it cost?"
+    a: "A child applies on turning 12 (and before 16). The first registration is free if made within 30 days of the 12th birthday, and a RM10 fee applies after that. The applicant and a sponsor must attend a JPN counter in person with original documents including the birth certificate and the sponsor's identity card."
+  - q: "How much does it cost to replace a lost MyKad?"
+    a: "RM110 for a first loss, RM310 for a second loss and RM1,010 for a third or subsequent loss. A police report must be submitted. Eligible applicants can apply online via the MyKad Replacement System where no change of photograph or particulars is involved."
   - q: "Which ministry does JPN report to?"
-    a: "JPN is a department of the Ministry of Home Affairs (Kementerian Dalam Negeri)."
+    a: "JPN is a department under the Ministry of Home Affairs (Kementerian Dalam Negeri, KDN)."
 lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 status: "in-review"
 aiAssisted: true
 reviewer: null
-version: "0.1"
+version: "0.2"
 revisions:
   - version: "0.1"
     date: 2026-08-10
     change: "Initial AI draft."
     reviewer: null
+  - version: "0.2"
+    date: 2026-08-14
+    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
+    reviewer: null
 verificationNeeded:
-  - "Exact prescribed fee schedule for lost-MyKad replacements (secondary sources cite RM100 for a first loss, escalating for repeat losses); confirm current figures against the JPN service page or gazetted National Registration Regulations."
-  - "Whether JPN published a formal vision/mission statement — the official Introduction page reviewed did not carry one."
-  - "Precise number and structure of JPN operational divisions and total staff/branch count."
-updated: 2026-08-10
+  - "Exact 'normal' vs 'late' birth-registration day thresholds (sources conflate 14, 42 and 60 days) — verify against JPN's birth core-business pages for Peninsular/Sabah/Sarawak separately, as thresholds and penalties differ by region."
+  - "Mandatory MyKad re-registration at age 18 and the exact free window (commonly cited as ages 18–25 under National Registration Regulations 1990 Reg. 18) — confirm on the JPN 'replacement at 18' service page."
+  - "Full fee-exemption list for lost-IC replacement (senior citizens 60+, disabled, robbery/snatch victims, natural-disaster victims, under-18) — verify on the JPN fee schedule or an official circular."
+  - "Current Director-General of JPN and total number of branches / UTC counters nationwide."
+  - "Whether the 12th NRIC digit strictly encodes gender by parity (odd male, even female) or functions as a check/serial digit — confirm via an official JPN NRIC-format reference."
+  - "MEKAR programme scope and current status (mobile registration outreach) — confirm on JPN's MEKAR page."
+updated: 2026-08-14
 sources:
-  - title: "Introduction — Portal Jabatan Pendaftaran Negara"
+  - title: "Portal Jabatan Pendaftaran Negara – Rakyat Di Hati JPN"
+    url: "https://www.jpn.gov.my/en/"
+    publisher: "National Registration Department (JPN), Government of Malaysia"
+  - title: "Introduction – Portal Jabatan Pendaftaran Negara"
     url: "https://www.jpn.gov.my/en/corporate-information/introduction"
-    publisher: "Jabatan Pendaftaran Negara (National Registration Department)"
-  - title: "History — Portal Jabatan Pendaftaran Negara"
-    url: "https://www.jpn.gov.my/en/corporate/history/"
-    publisher: "Jabatan Pendaftaran Negara (National Registration Department)"
-  - title: "Citizenship — Portal Jabatan Pendaftaran Negara"
-    url: "https://www.jpn.gov.my/en/services/citizenship/"
-    publisher: "Jabatan Pendaftaran Negara (National Registration Department)"
-  - title: "Personal Identification — Identity Card Application"
-    url: "https://www.malaysia.gov.my/en/categories/personal-identification/identity-card-application"
-    publisher: "MyGovernment (Government of Malaysia)"
-  - title: "Births and Deaths Registration Act 1957 (Revised 1983)"
-    url: "https://www.commonlii.org/my/legis/consol_act/badra19571983376/"
-    publisher: "CommonLII"
+    publisher: "National Registration Department (JPN), Government of Malaysia"
+  - title: "History – Portal Jabatan Pendaftaran Negara"
+    url: "https://www.jpn.gov.my/en/corporate-information/history"
+    publisher: "National Registration Department (JPN), Government of Malaysia"
   - title: "Malaysian identity card"
     url: "https://en.wikipedia.org/wiki/Malaysian_identity_card"
     publisher: "Wikipedia"
-entity: "Jabatan Pendaftaran Negara (National Registration Department), Malaysia"
-relations:
-  - { rel: "related-to", to: "malaysian-citizenship-law" }
-  - { rel: "related-to", to: "imigresen" }
+  - title: "About MyKad – MyGovernment Portal"
+    url: "https://www.malaysia.gov.my/en/categories/personal-identification/identity-card-application/about-mykad"
+    publisher: "MyGovernment (malaysia.gov.my), Government of Malaysia"
+  - title: "MyKad Application for Children Aged 12 – Portal Jabatan Pendaftaran Negara"
+    url: "https://www.jpn.gov.my/en/services/identity-card/mykad-application-for-children-aged-12/"
+    publisher: "National Registration Department (JPN), Government of Malaysia"
+  - title: "Replacement Application for Lost Identity Card (MyKad, MyTentera, MyPR or MyKAS) – Portal Jabatan Pendaftaran Negara"
+    url: "https://www.jpn.gov.my/en/services/identity-card/replacement-application-for-lost-identity-card-mykad-mytentera-mypr-or-mykas/"
+    publisher: "National Registration Department (JPN), Government of Malaysia"
+  - title: "Births and Deaths Registration Act 1957 (Revised 1983)"
+    url: "https://www.commonlii.org/my/legis/consol_act/badra19571983376/"
+    publisher: "Commonwealth Legal Information Institute (CommonLII)"
+  - title: "JPN denies viral claims of MyKad address enforcement campaign"
+    url: "https://www.malaymail.com/news/malaysia/2026/07/23/jpn-denies-viral-claims-of-mykad-address-enforcement-campaign/228644"
+    publisher: "Malay Mail"
+    date: "2026-07-23"
+entity: "National Registration Department (Jabatan Pendaftaran Negara, JPN)"
+relations: []
 related: []
-keywords: ["JPN", "Jabatan Pendaftaran Negara", "National Registration Department", "MyKad", "birth certificate Malaysia", "NRIC", "identity card Malaysia"]
+keywords: ["JPN", "Jabatan Pendaftaran Negara", "National Registration Department", "MyKad", "kad pengenalan", "NRIC", "IC Malaysia", "MyKid", "birth certificate Malaysia", "JPN online services", "MyKad replacement", "apply MyKad 12", "lost IC fee"]
 ---
 
-The **National Registration Department** — *Jabatan Pendaftaran Negara*, universally known as **JPN** — is the federal agency under the **Ministry of Home Affairs** responsible for civil registration and identity documents in Malaysia. It registers the key events of every person's life (births, deaths, adoptions, and non-Muslim marriages and divorces), determines citizenship status, and issues the **MyKad** national identity card. Because JPN records are the foundation for schooling, government aid, passports, and the electoral roll, almost every Malaysian deals with JPN from the day they are born.
+Most guides to the **National Registration Department** answer one counter question — how to replace a lost IC, or what to bring when a child turns 12. But JPN is bigger than any single transaction: it is the agency that records a Malaysian's entire legal life. The **National Registration Department** (*Jabatan Pendaftaran Negara*, or **JPN**) is a department under the **Ministry of Home Affairs** (*Kementerian Dalam Negeri*, KDN). It registers the important events in every individual's life — births, deaths, adoptions, marriages and divorces — determines citizenship status, and issues identity documents to eligible individuals.
 
-## What JPN does
+## What does JPN actually do?
 
-JPN's core business is organised around a handful of registration functions:
+JPN's core business is organised into **eight registration areas**: Birth, Identity Card, Adoption, Marriage, Divorce, Death, Citizenship, and the **MEKAR** programme. Read together, they map onto a single life cycle: a birth is registered, an identity card follows at 12, a marriage or divorce is recorded in adulthood, a death closes the record — and citizenship status is determined and documented throughout.
 
-- **Birth and death registration** — issuing birth certificates and death certificates.
-- **Identity cards** — the MyKad and its variants (see below).
-- **Marriage and divorce** — for non-Muslim marriages (Muslim marriages fall under the state religious authorities and syariah system).
-- **Adoption** — registration of adoptions.
-- **Citizenship** — processing applications, confirmations, and records under the Federal Constitution.
+## Where did JPN come from?
 
-## Legal basis
+The department's origins trace to the **Emergency (Registration Areas) Regulations 1948**, under which the first identity cards were issued and residents were required to register and hold an identity card from age 12. Identity cards for the **Federation of Malaya** began to be issued on **2 August 1960**.
 
-JPN operates under several statutes rather than a single one:
+The modern milestone came decades later. On **5 September 2001**, JPN introduced the **MyKad**, making Malaysia the first country in the world to use an identity card that incorporated both photo identification and fingerprint biometric data on an embedded computer chip. It was one of the MSC Malaysia flagship applications, conceived as a Government Multipurpose Card.
 
-| Area | Governing law |
-| --- | --- |
-| Births and deaths | Births and Deaths Registration Act 1957 |
-| Identity cards / national registration | National Registration Act 1959; National Registration Regulations 1990 |
-| Citizenship | Federal Constitution, Part III (Articles 14–31) |
+## The MyKad: who needs one, and when
 
-The department traces its origin to the **Emergency (Registration Areas) Regulations 1948**, introduced during the Emergency, which required residents to register and carry an identity card. The **Federation of Malaya identity card** began to be issued on **2 August 1960**.
+The **MyKad** is a compulsory smart identity card for Malaysian citizens, serving as the official identity document for individuals **aged 12 and above**. The 12-digit NRIC number printed on it follows the format **YYMMDD-PB-###G** — the date of birth, a place-of-birth code, a sequential number, and a final digit that relates to the holder's gender (odd for male, even for female).
 
-## The MyKad
+| Situation | What it costs | Key requirement |
+| --- | --- | --- |
+| First MyKad at age 12 | Free within 30 days of the 12th birthday; RM10 after | Applicant and sponsor attend a JPN counter in person with the birth certificate and the sponsor's IC |
+| Lost MyKad — first loss | RM110 (RM10 + RM100) | Police report required |
+| Lost MyKad — second loss | RM310 (RM10 + RM300) | Police report required |
+| Lost MyKad — third or later loss | RM1,010 (RM10 + RM1,000) | Police report required |
 
-The **MyKad** is a smart card carrying a photo, fingerprint biometric, and an embedded chip. It was launched on **5 September 2001** as one of the Multimedia Super Corridor flagship applications, replacing the earlier High Quality Identity Card, and made Malaysia one of the first countries to combine photo ID and fingerprint biometrics on a single chip card. Related cards issued by JPN include **MyKid** (children under 12), **MyPR** (permanent residents), **MyKAS** (temporary residents), and **MyTentera** (armed forces).
+A child must apply on turning 12 (and before 16). For a lost card, eligible applicants may apply online through the **MyKad Replacement System** where no change of photograph or particulars is involved; otherwise the biometric capture must be done at a counter.
 
-### Key MyKad deadlines and fees
+Holders also remain responsible for keeping their particulars current. Address updates are a longstanding requirement under **Regulation 15 of the National Registration Regulations 1990**; in July 2026, JPN publicly denied running any special enforcement campaign to compel address updates, while reminding holders to keep their details accurate.
 
-| Milestone | Requirement / fee |
-| --- | --- |
-| First IC at age 12 | Free if applied within 30 days of the 12th birthday; RM10 thereafter |
-| Replacement at age 18 | Compulsory change to a new card |
-| Damaged card | Free if the chip fails within the first year (not through misuse); RM10 if older |
-| Lost card | Penalty applies, escalating for repeat losses (see *verificationNeeded*) |
+## Which laws sit behind JPN's services?
 
-## Births and deaths: the deadlines that matter
-
-Under the **Births and Deaths Registration Act 1957**, a birth should be registered **within 14 days** where it occurs in a hospital (the hospital usually handles it before discharge) and **within 60 days** otherwise. Registration made **more than 60 days** after birth is treated as *late registration*, requiring additional documents and verification. Registering late can complicate a child's citizenship status, school enrolment, and access to benefits, so timely registration matters.
-
-## Citizenship
-
-JPN is the front door for citizenship matters. It handles applications and confirmations under the Federal Constitution — for example under **Article 14** (citizenship by operation of law), **Article 15** and **15A** (registration of a citizen's spouse or child, and minors), **Article 16**, and **Article 19** — as well as records, amendments, renunciation, and revocation. Applications are typically lodged in person at a JPN state office.
-
-## Where to find JPN
-
-JPN's headquarters has been at **Precinct 2, Federal Government Administrative Centre, Putrajaya** since December 2004, with state and district offices nationwide and counters at several Urban Transformation Centres (UTCs). Its portal is **jpn.gov.my**, and identity-card services are also listed on the national portal **malaysia.gov.my**.
+Different statutes govern different registers. Birth and death registration is administered by JPN under the **Births and Deaths Registration Act 1957 (Act 299)**. Identity-card matters run under the **National Registration Regulations 1990**. Marriage, divorce, adoption and citizenship are handled through JPN's respective registration processes.
 
 ## What's next
 
-If you are registering a newborn, sorting out a lost MyKad, or checking eligibility to confer citizenship, start at the JPN portal for the exact document checklist and current fees, and see the related NegaraKu.md guide to **Malaysian citizenship law** for how JPN's role fits the constitutional framework.
+For any single transaction — registering a newborn, applying for a first MyKad, or replacing a lost card — start at the JPN portal (**jpn.gov.my**) or the federal service portal (**malaysia.gov.my**) for the exact document checklist and current fees. Several details still awaiting confirmation against primary sources — the exact birth-registration deadlines by region, the age-18 re-registration rule, and the full lost-IC fee exemptions — are listed under *verificationNeeded* above.

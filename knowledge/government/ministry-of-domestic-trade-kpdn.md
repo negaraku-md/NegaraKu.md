@@ -2,110 +2,132 @@
 topicId: "MY-GOV-0094"
 title: "Ministry of Domestic Trade and Cost of Living (KPDN)"
 seoTitle: "KPDN: Ministry of Domestic Trade & Cost of Living"
+socialTitle: "Cheated by a trader? The ministry whose job is to fight back for you"
 slug: "ministry-of-domestic-trade-kpdn"
 category: "government"
-subcategory: ["federal-ministry"]
-summary: "The federal ministry that regulates domestic trade, controls prices of essential goods, and protects consumers in Malaysia."
+subcategory: ["ministries"]
+summary: "KPDN is Malaysia's federal ministry for domestic trade, consumer protection and cost-of-living control — enforcing price and anti-profiteering laws and overseeing agencies like SSM, MyIPO and MyCC."
 tier: "3"
 mode: "practical"
 contentType: "agency"
 sensitivity: "none"
-answer: "The Ministry of Domestic Trade and Cost of Living (Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup, KPDN) is the Malaysian federal ministry responsible for domestic trade, consumer protection, price control of essential goods, franchising, and co-operatives. Traceable to a 27 October 1990 restructuring that split it from MITI, it took its current name and cost-of-living focus on 3 December 2022. It enforces laws such as the Price Control and Anti-Profiteering Act 2011 and oversees agencies including the Companies Commission (SSM) and the Malaysia Competition Commission (MyCC)."
+answer: "The Ministry of Domestic Trade and Cost of Living (Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup, KPDN) is the Malaysian federal ministry responsible for developing domestic trade, controlling the prices of essential goods, and protecting consumers. Established on 27 October 1990, it enforces laws such as the Price Control and Anti-Profiteering Act 2011 and the Control of Supplies Act 1961, oversees agencies including SSM, MyIPO and MyCC, and runs the complaint channels and RM50,000 consumer tribunal that ordinary shoppers use when a trader cheats them."
 keyTakeaways:
-  - "KPDN traces to 27 October 1990, when the domestic-trade portfolio was split from what became MITI; it was renamed to add 'Cost of Living' on 3 December 2022."
-  - "It regulates domestic trade, monitors and controls prices of essential goods, oversees weights and measures, and runs consumer-protection and consumerism programmes."
-  - "Core laws it administers include the Price Control and Anti-Profiteering Act 2011, Consumer Protection Act 1999, Trade Descriptions Act 2011, Control of Supplies Act 1961, and the Franchise Act 1998."
-  - "Agencies under KPDN include SSM (Companies Commission), MyIPO (intellectual property), SKM (co-operatives commission), MyCC (competition), MKM, PNS, and Bank Rakyat."
-  - "As of 2026 the minister is Datuk Armizan Mohd Ali, with headquarters in Precinct 2, Putrajaya."
-appliesTo: "Consumers, traders and retailers, franchisors, co-operatives, and anyone dealing with price-control, licensing, or consumer-protection matters in Malaysia."
+  - "KPDN was established on 27 October 1990 and adopted its current 'Cost of Living' name in December 2022; its headquarters is in Precinct 2, Putrajaya."
+  - "It uses the Control of Supplies Act 1961 and the Price Control and Anti-Profiteering Act 2011 to stabilise prices of essentials like rice, eggs, cooking oil and chicken, through operations such as Ops Pantau and festive Maximum Price Schemes."
+  - "Consumers can complain via the call centre 1-800-886-800, WhatsApp 019-848 8000, the e-Aduan portal, email e-aduan@kpdn.gov.my, or the Ez ADU app."
+  - "The Tribunal for Consumer Claims (TTPM), established 15 November 1999 under the Consumer Protection Act 1999, hears claims of up to RM50,000."
+  - "Agencies under KPDN include SSM, MyIPO, MyCC, SKM, MKM, PNS and Bank Rakyat; the minister is Datuk Armizan Mohd Ali."
+appliesTo: "Consumers who have been overcharged or cheated, traders and retailers subject to price controls, and anyone dealing with company registration, competition or consumer-protection matters in Malaysia."
 faq:
-  - q: "What does KPDN stand for?"
-    a: "KPDN is the Malay abbreviation of Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup — the Ministry of Domestic Trade and Cost of Living."
-  - q: "How do I report profiteering or overpricing?"
-    a: "KPDN enforces the Price Control and Anti-Profiteering Act 2011 and the Control of Supplies Act 1961 against traders who sell controlled goods above set ceilings or make unreasonably high profits; complaints can be lodged through the ministry's enforcement channels on kpdn.gov.my."
-  - q: "Which company and business registrations does KPDN oversee?"
-    a: "Company, business, and intellectual-property registration are handled by agencies under KPDN — the Companies Commission of Malaysia (SSM) and the Intellectual Property Corporation of Malaysia (MyIPO)."
+  - q: "How do I complain to KPDN if a trader cheats me?"
+    a: "You can lodge a complaint through the call centre 1-800-886-800, WhatsApp 019-848 8000, the e-Aduan portal at eaduan.kpdn.gov.my, email e-aduan@kpdn.gov.my, or the Ez ADU KPDN smartphone app."
+  - q: "How much can I claim at the Consumer Claims Tribunal?"
+    a: "The Tribunal for Consumer Claims (TTPM), established on 15 November 1999 under Section 85 of the Consumer Protection Act 1999, hears consumer claims not exceeding RM50,000."
+  - q: "What laws does KPDN use to control prices?"
+    a: "It relies mainly on the Control of Supplies Act 1961 and the Price Control and Anti-Profiteering Act 2011, which let it set price ceilings, require price display, and act against unreasonably high profits."
 lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 status: "in-review"
 aiAssisted: true
 reviewer: null
-version: "0.1"
+version: "0.2"
 revisions:
   - version: "0.1"
     date: 2026-08-10
     change: "Initial AI draft."
     reviewer: null
+  - version: "0.2"
+    date: 2026-08-14
+    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
+    reviewer: null
 verificationNeeded:
-  - "Current minister (Datuk Armizan Mohd Ali) and deputy minister (Fuziah Salleh) — confirm still in office at time of publication, as cabinet posts change."
-  - "Exact founding date 27 October 1990 is drawn from official/secondary summaries of the KPDN background page; confirm against the live kpdn.gov.my background page."
-  - "Full statutory list (the ministry administers 30+ acts) — confirm the complete current list against the official portal."
-updated: 2026-08-10
+  - "Exact chronology and years of every ministry rename (KPDNHEP, KPDNKK/MDTCC, then KPDN in Dec 2022) — confirm each transition year against an official/Hansard source before listing them."
+  - "TTPM specifics beyond the RM50,000 ceiling (RM5 filing fee, 3-year limitation) — reconfirm on the live TTPM/KPDN page before publishing exact figures."
+  - "Consumer complaint channel numbers (1-800-886-800; WhatsApp 019-848 8000; eaduan.kpdn.gov.my; Ez ADU; e-aduan@kpdn.gov.my) — verify current on kpdn.gov.my/bantuan, as hotlines occasionally change."
+  - "Exact number of divisions/bahagian and the total count of Acts administered — confirm before stating a hard number."
+  - "Current Deputy Minister and Secretary-General — verify still in office at publication."
+updated: 2026-08-14
 sources:
-  - title: "Functions of KPDN — Official Portal"
-    url: "https://www.kpdn.gov.my/en/corporate-info/function-kpdn"
+  - title: "Latar Belakang - KPDN"
+    url: "https://www.kpdn.gov.my/ms/info-korporat/latar-belakang"
     publisher: "Ministry of Domestic Trade and Cost of Living (KPDN)"
-  - title: "Background Information — Official Portal"
-    url: "https://www.kpdn.gov.my/en/corporate-info/background-info"
+  - title: "Fungsi KPDN (Function KPDN)"
+    url: "https://www.kpdn.gov.my/en/corporate-info/function-kpdn"
     publisher: "Ministry of Domestic Trade and Cost of Living (KPDN)"
   - title: "Ministry of Domestic Trade and Costs of Living"
     url: "https://en.wikipedia.org/wiki/Ministry_of_Domestic_Trade_and_Costs_of_Living"
     publisher: "Wikipedia"
-  - title: "The Price Control and Anti-Profiteering Act — FAQ"
-    url: "https://www.kpdn.gov.my/en/faq/faq-enforcement/the-price-control-and-anti-profiteering-act"
+  - title: "Cabinet reshuffle: Armizan to continue helming Domestic Trade and Cost of Living Ministry"
+    url: "https://www.thestar.com.my/news/nation/2023/12/12/cabinet-reshuffle-armizan-to-continue-helming-domestic-trade-and-cost-of-living-ministry"
+    publisher: "The Star"
+  - title: "Anti-profiteering - KPDN"
+    url: "https://www.kpdn.gov.my/en/faq/anti-profiteering"
     publisher: "Ministry of Domestic Trade and Cost of Living (KPDN)"
-  - title: "Regulation of Controlled Goods (KSBK)"
-    url: "https://www.kpdn.gov.my/en/submenu/lets-do-business-submenu/ksbk/regulation-of-controlled-goods"
+  - title: "Tribunal For Consumer Claims - KPDN"
+    url: "https://www.kpdn.gov.my/en/faq/tribunal-for-consumer-claims"
     publisher: "Ministry of Domestic Trade and Cost of Living (KPDN)"
-entity: "Ministry of Domestic Trade and Cost of Living (KPDN)"
+  - title: "eAduan - e-Aduan KPDN"
+    url: "https://eaduan.kpdn.gov.my/login"
+    publisher: "Ministry of Domestic Trade and Cost of Living (KPDN)"
+  - title: "Protecting Consumers - KPDN"
+    url: "https://www.kpdn.gov.my/en/submenu/enforcement-submenu/protecting-consumers"
+    publisher: "Ministry of Domestic Trade and Cost of Living (KPDN)"
+entity: "Ministry of Domestic Trade and Cost of Living (Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup, KPDN)"
 relations: []
 related: []
-keywords: ["KPDN", "Ministry of Domestic Trade and Cost of Living", "Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup", "kos sara hidup", "price control Malaysia", "anti-profiteering", "consumer protection Malaysia"]
+keywords: ["KPDN", "Ministry of Domestic Trade and Cost of Living", "Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup", "KPDN aduan", "Price Control and Anti-Profiteering Act 2011", "Akta Kawalan Harga", "Ez ADU KPDN", "TTPM tribunal tuntutan pengguna", "KPDN hotline", "kawalan harga barang", "consumer protection Malaysia", "Armizan Mohd Ali", "SSM MyIPO MyCC", "Ops Pantau KPDN"]
 ---
 
-The **Ministry of Domestic Trade and Cost of Living** — *Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup*, abbreviated **KPDN** — is the Malaysian federal ministry responsible for regulating domestic trade, protecting consumers, controlling the prices of essential goods, and overseeing franchising, direct selling, and co-operatives. Its distinctive "cost of living" mandate makes it the government's front line on everyday affordability, from the price of rice and cooking oil to enforcement against profiteering.
+When a trader overcharges you for cooking oil, sells a controlled item above its ceiling price, or refuses to honour a faulty product, the federal body whose job is to act on your behalf is **KPDN** — the **Ministry of Domestic Trade and Cost of Living** (*Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup*). It develops domestic trade, keeps a lid on the prices of everyday essentials, and protects consumers, backed by real statutes, live complaint channels, and a small-claims tribunal built for ordinary shoppers.
 
-## History and name changes
+## What is KPDN and what is it for?
 
-The domestic-trade portfolio dates to **27 October 1990**, when it was restructured out of the wider trade ministry alongside the creation of the Ministry of International Trade and Industry (MITI). It first operated as the Ministry of Domestic Trade and Consumer Affairs. In June 2009 it was renamed the Ministry of Domestic Trade, Co-operatives and Consumerism (KPDNKK), reflecting an expanded co-operatives brief.
+KPDN was **established on 27 October 1990**. Its stated objective is to promote a domestic trade that is "viable, competitive and sustainable," especially in the distributive-trade sector, while protecting the interests and rights of consumers. In practice its work falls into two halves: formulating trade policy — including determining and monitoring the prices of essential goods and controlling the sale and distribution of essential goods, petroleum and petrochemical products — and consumerism, which covers consumer education, awareness, protection, and support for the consumer movement.
 
-The ministry took its **current name and "Cost of Living" focus on 3 December 2022**, under the government formed after the 15th General Election. As of 2026 the minister is **Datuk Armizan Mohd Ali**, with the deputy minister post held by **Fuziah Salleh**.
+The ministry adopted its current name, adding the "Cost of Living" emphasis, in **December 2022**. Its headquarters is at No. 13, Persiaran Perdana, Precinct 2, Federal Government Administrative Centre, 62623 Putrajaya. The minister is **Datuk Armizan Mohd Ali**, who has led the ministry since 30 July 2023.
 
-## What KPDN does
+## Which laws does KPDN use to keep prices in check?
 
-The ministry's official functions fall into two broad areas:
+KPDN and its agencies administer a body of trade and consumer legislation. The statutes an ordinary Malaysian is most likely to feel are these:
 
-**Domestic trade** — developing wholesale, retail, franchise, direct-selling, hawker, and petroleum sub-sectors; determining and monitoring the prices of essential goods; controlling the sale and distribution of controlled goods, petroleum, and direct-selling trade; regulating weights and measures (metrology); and overseeing company, business, and intellectual-property registration.
-
-**Consumerism** — running consumer education, awareness, and protection programmes, and supporting the consumer movement.
-
-## Key legislation
-
-KPDN administers a large body of trade and consumer law. Among the most frequently invoked statutes:
-
-| Act | Purpose |
+| Act | What it does for you |
 | --- | --- |
-| Price Control and Anti-Profiteering Act 2011 | Sets price ceilings and prohibits unreasonably high profits |
-| Control of Supplies Act 1961 | Licenses and controls the distribution of scheduled/controlled goods |
-| Consumer Protection Act 1999 | Protects consumers against unfair practices |
-| Trade Descriptions Act 2011 | Bans false or misleading trade descriptions |
-| Franchise Act 1998 | Registers and regulates franchises |
+| Price Control and Anti-Profiteering Act 2011 [Act 723] | Sets price ceilings, requires price display, and acts against unreasonably high profits |
+| Control of Supplies Act 1961 [Act 122] | Controls the sale and distribution of scheduled essential goods |
+| Consumer Protection Act 1999 [Act 599] | Protects consumers and establishes the claims tribunal |
+| Trade Descriptions Act 2011 [Act 730] | Bans false or misleading trade descriptions |
+| Competition Act 2010 [Act 712] | Prohibits cartels and abuse of market dominance |
+| Weights and Measures Act 1972 [Act 71] | Ensures honest measurement in trade |
+| Franchise Act 1998 [Act 590] | Registers and regulates franchises |
 
-During festive seasons the ministry applies the Festive Season Maximum Price Scheme (SHMMP) under the anti-profiteering law to cap the prices of selected controlled items.
+Using Act 122 and Act 723, KPDN works to stabilise the prices of essentials such as rice, eggs, cooking oil and chicken. It runs enforcement operations including **Ops Pantau** and **Ops Menu**, and imposes festive **Maximum Price Schemes** (*Skim Harga Maksimum Musim Perayaan*) that cap the prices of selected controlled items during celebrations — as during the October 2025 Deepavali scheme. Under Section 10 of Act 723, the minister can require any seller of goods or services to display prices.
 
-## Agencies under KPDN
+## How do you actually use KPDN when you are cheated?
 
-Several statutory bodies and agencies sit within the ministry's purview, including:
+You do not need a lawyer to start. KPDN accepts consumer complaints through several channels:
 
-- **Companies Commission of Malaysia (SSM)** — company and business registration
-- **Intellectual Property Corporation of Malaysia (MyIPO)** — patents, trademarks, and copyright
-- **Malaysia Co-operative Societies Commission (SKM)** — regulation of co-operatives
-- **Malaysia Competition Commission (MyCC)** — enforces the Competition Act 2010 against cartels and abuse of dominance
-- **Co-operative College of Malaysia (MKM)**, **Perbadanan Nasional Berhad (PNS)**, and **Bank Kerjasama Rakyat Malaysia (Bank Rakyat)**
+- **Call centre:** 1-800-886-800
+- **WhatsApp:** 019-848 8000
+- **e-Aduan portal:** eaduan.kpdn.gov.my
+- **Email:** e-aduan@kpdn.gov.my
+- **App:** the Ez ADU KPDN smartphone application
 
-The ministry's headquarters is in **Precinct 2, Putrajaya**.
+For disputes over money — a defective product, a service not delivered, an unfair charge — there is the **Tribunal for Consumer Claims (TTPM)**. Established on **15 November 1999** under Section 85, Part XII of the Consumer Protection Act 1999, it hears claims **not exceeding RM50,000** at a fraction of the cost and formality of the courts.
+
+## Which agencies sit under KPDN?
+
+Much of the ministry's day-to-day regulation is carried out by statutory bodies under its umbrella:
+
+- **SSM** — Companies Commission of Malaysia (company and business registration)
+- **MyIPO** — Intellectual Property Corporation of Malaysia (patents, trademarks, copyright)
+- **MyCC** — Malaysia Competition Commission
+- **SKM** — Malaysia Co-operative Societies Commission
+- **MKM** — Co-operative College of Malaysia
+- **PNS** — Perbadanan Nasional Berhad
+- **Bank Rakyat** — Bank Kerjasama Rakyat Malaysia Berhad
 
 ## What's next
 
-To lodge a complaint about overpricing, counterfeit goods, or false advertising, or to check licensing requirements for controlled goods, start at the official portal **kpdn.gov.my**. For company or trademark registration, go directly to the relevant agency — **SSM** for businesses and **MyIPO** for intellectual property.
+If you have been overcharged or misled, gather your receipt and evidence and lodge a complaint through one of the channels above; for a monetary dispute up to RM50,000, prepare to file at the TTPM. For company or trademark matters, go straight to the relevant agency — **SSM** for businesses, **MyIPO** for intellectual property.

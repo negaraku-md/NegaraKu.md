@@ -1,113 +1,115 @@
 ---
 topicId: "MY-BIZ-0121"
-title: "MyIPO — Intellectual Property Corporation"
-seoTitle: "MyIPO: Malaysia's IP Office (Patents, Trademarks)"
+title: "MyIPO: Malaysia's Intellectual Property Office and How to Register Every Type of IP"
+seoTitle: "MyIPO: Malaysia's Intellectual Property Office"
+socialTitle: "Patent, trademark, copyright: what MyIPO actually protects in Malaysia (and what it can't)"
 slug: "myipo-intellectual-property-corporation"
 category: "business"
 subcategory: ["intellectual-property"]
-summary: "MyIPO is Malaysia's national intellectual-property office — the single agency that registers patents, trademarks, industrial designs and geographical indications and runs copyright voluntary notification."
+summary: "MyIPO (the Intellectual Property Corporation of Malaysia) is the statutory agency that registers and administers patents, trademarks, industrial designs, geographical indications and copyright notifications in Malaysia — here is what each right covers, how long it lasts, what it costs and how to file."
 tier: "3"
 mode: "practical"
 contentType: "agency"
 sensitivity: "none"
-answer: "The Intellectual Property Corporation of Malaysia (MyIPO / Perbadanan Harta Intelek Malaysia) is the statutory body that administers Malaysia's intellectual-property system. It was established under the Intellectual Property Corporation of Malaysia Act 2002 (Act 617) and became operational on 3 March 2003, and it sits under the Ministry of Domestic Trade and Cost of Living (KPDN). MyIPO is the one office where you register patents and utility innovations, trademarks, industrial designs, geographical indications and layout-designs of integrated circuits, and where you file a voluntary notification of copyright."
+answer: "MyIPO — the Intellectual Property Corporation of Malaysia (Perbadanan Harta Intelek Malaysia) — is the single statutory agency that runs Malaysia's intellectual-property system. It was established under the Intellectual Property Corporation of Malaysia Act 2002 (Act 617), came into operation on 3 March 2003, and sits under the Ministry of Domestic Trade and Cost of Living (KPDN). It is the one office where you register patents, utility innovations, trademarks, industrial designs and geographical indications — and where you lodge a voluntary notification of copyright, because copyright itself is never registered in Malaysia."
 keyTakeaways:
-  - "MyIPO was created by the Intellectual Property Corporation of Malaysia Act 2002 (Act 617) and became operational on 3 March 2003; the Corporation was rebranded from PHIM to 'MyIPO' on 3 March 2005"
-  - "It is a statutory body under the Ministry of Domestic Trade and Cost of Living (KPDN), not a government department"
-  - "MyIPO administers patents and utility innovations (Patents Act 1983), trademarks (Trademarks Act 2019, Act 815), industrial designs (Industrial Designs Act 1996), copyright voluntary notification (Copyright Act 1987) and layout-designs of integrated circuits (Act 601)"
-  - "There is no copyright registration in Malaysia — MyIPO instead runs a voluntary notification system that produces prima facie evidence of ownership"
-  - "MyIPO is Malaysia's receiving office for international filings: PCT patent applications (Malaysia in force since 16 August 2006) and Madrid Protocol trademark applications (in force since 27 December 2019)"
-appliesTo: "Malaysian and foreign businesses, inventors, brand owners and agents who need to register, renew or search an intellectual-property right in Malaysia."
+  - "MyIPO administers Malaysia's whole IP system under one roof: patents and utility innovations (Patents Act 1983), trademarks (Trademarks Act 2019, Act 815), industrial designs (Industrial Designs Act 1996), IC layout-designs (Act 601), geographical indications (GI Act 2022, Act 836) and copyright notification (Copyright Act 1987)"
+  - "Copyright is NOT registered in Malaysia — protection is automatic on creation, and MyIPO runs only a voluntary notification system"
+  - "A trademark lasts 10 years and is renewable for successive 10-year periods; the official filing fee is RM950 per class using the pre-approved goods/services list, or RM1,100 per class if not"
+  - "A patent runs 20 years from filing; a utility innovation runs 10 years plus two 5-year extensions (max 20); an industrial design runs 5 years plus four 5-year extensions (max 25)"
+  - "MyIPO is Malaysia's Office of Origin for the Madrid System, letting a trademark owner file one international application (in English) for protection across 131+ countries, with a RM200 MyIPO handling fee on top of WIPO's fees"
+appliesTo: "Malaysian and foreign businesses, inventors, brand owners and IP agents who need to register, renew or understand an intellectual-property right in Malaysia."
 faq:
-  - q: "What does MyIPO actually do?"
-    a: "MyIPO administers and develops Malaysia's intellectual-property system. In practice that means receiving, examining and granting applications for patents, utility innovations, trademarks, industrial designs, geographical indications and IC layout-designs; maintaining the public registers; running copyright voluntary notification; and acting as Malaysia's receiving office for PCT and Madrid Protocol international filings."
-  - q: "Is MyIPO a government department?"
-    a: "No. MyIPO is a statutory body (a corporatised agency) created by Act 617, operating under the Ministry of Domestic Trade and Cost of Living (KPDN). Corporatisation on 3 March 2003 gave it more operational and financial autonomy than the former Intellectual Property Division it replaced."
   - q: "Does MyIPO register copyright?"
-    a: "No. Malaysia has no copyright registration; protection is automatic on creation of an eligible work. MyIPO instead operates a voluntary notification system under the Copyright Act 1987, which records a claim in the Register of Copyright and provides prima facie evidence of the facts stated — useful in enforcement, but not a grant of the right itself."
+    a: "No. Malaysia has no copyright registration system — a work is protected automatically upon creation. MyIPO instead operates a Copyright Voluntary Notification system. Copyright lasts for the life of the author plus 50 years for literary, musical and artistic works, and 50 years for sound recordings, films, broadcasts and published editions."
+  - q: "How much does it cost to file a trademark with MyIPO?"
+    a: "The official MyIPO trademark filing fee is RM950 per class where the goods or services are adopted from MyIPO's pre-approved list, and RM1,100 per class where they are not. Protection lasts 10 years and is renewable for successive 10-year periods."
+  - q: "Which ministry does MyIPO sit under?"
+    a: "MyIPO is a federal statutory agency under the Ministry of Domestic Trade and Cost of Living (KPDN), the ministry responsible for domestic trade and consumer affairs in Malaysia."
 lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 status: "in-review"
 aiAssisted: true
 reviewer: null
-version: "0.1"
+version: "0.2"
 revisions:
   - version: "0.1"
     date: 2026-08-10
     change: "Initial AI draft."
     reviewer: null
+  - version: "0.2"
+    date: 2026-08-14
+    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
+    reviewer: null
 verificationNeeded:
-  - "Exact current governing statute for geographical indications — the Geographical Indications Act 2000 (Act 602) has been replaced by a newer Geographical Indications Act 2022 (Act 832); confirm the in-force Act and its commencement date against AGC before citing a section"
-  - "The precise wording of MyIPO's official vision/mission and its current organisational structure were not confirmed against the live About Us page (returned HTTP 403 at time of writing)"
-  - "Registration terms in the table are the headline statutory terms; confirm renewal mechanics and any transitional provisions against each Act before relying on them"
-updated: 2026-08-10
+  - "Exact current patent official fee schedule (search summaries cite ~RM500 online filing plus separate examination fees / ~RM1,390 all-in) — confirm each line item against MyIPO's official Patent Forms and Fees page before stating a total"
+  - "Latest annual IP application/registration statistics (trademark and patent filings per year) from MyIPO's Statistic page for a current scale figure"
+  - "Current headcount of registered GIs beyond the 127 figure (as of December 2024) if a newer number is published"
+  - "Precise commencement-date wording for the IPCM Act 2002 — 3 March 2003 via P.U. (B) 102/2003 is reported by secondary sources; confirm against the AGC gazette or the Act 617 commencement notice"
+  - "Whether the current parent ministry is styled 'Ministry of Domestic Trade and Cost of Living (KPDN)' in MyIPO's own latest corporate copy"
+updated: 2026-08-14
 sources:
-  - title: "About Us — The Official Portal of Intellectual Property Corporation of Malaysia"
-    url: "https://www.myipo.gov.my/about-us/"
-    publisher: "MyIPO"
+  - title: "FAQ — Intellectual Property Corporation of Malaysia"
+    url: "https://www.myipo.gov.my/faq/"
+    publisher: "Intellectual Property Corporation of Malaysia (MyIPO)"
   - title: "Intellectual Property Corporation of Malaysia Act 2002 (Act 617)"
+    url: "https://www.myipo.gov.my/wp-content/uploads/2025/09/Intellectual-Property-Corporation-of-Malaysia-Act-2002-Act-617.pdf"
+    publisher: "Intellectual Property Corporation of Malaysia (MyIPO)"
+  - title: "Intellectual Property Corporation of Malaysia Act 2002"
     url: "https://en.wikipedia.org/wiki/Intellectual_Property_Corporation_of_Malaysia_Act_2002"
     publisher: "Wikipedia"
-  - title: "Trademarks Act 2019 (Act 815)"
-    url: "https://www.myipo.gov.my/wp-content/uploads/2025/02/ACT-815-TRADEMARKS-ACT-201.pdf"
-    publisher: "MyIPO"
-  - title: "Trademarks Act 2019, Malaysia — WIPO Lex"
-    url: "https://www.wipo.int/wipolex/en/legislation/details/19564"
-    publisher: "WIPO"
-  - title: "TREATY/PCT/175: Accession by Malaysia to the Patent Cooperation Treaty"
-    url: "https://www.wipo.int/wipolex/en/treaties/notifications/details/treaty_pct_175"
-    publisher: "WIPO"
-  - title: "Malaysia Intellectual Property Corporation (MyIPO) — IP Helpdesk"
-    url: "https://intellectual-property-helpdesk.ec.europa.eu/organisations/malaysia-intellectual-property-corporation-myipo_en"
-    publisher: "European Commission IP Helpdesk"
+  - title: "Corporate Info — Intellectual Property Corporation of Malaysia"
+    url: "https://www.myipo.gov.my/corporate-info/"
+    publisher: "Intellectual Property Corporation of Malaysia (MyIPO)"
+  - title: "Applying for a Trademark — Intellectual Property Corporation of Malaysia"
+    url: "https://www.myipo.gov.my/applying-for-a-trademark/"
+    publisher: "Intellectual Property Corporation of Malaysia (MyIPO)"
+  - title: "About Us — Intellectual Property Corporation of Malaysia"
+    url: "https://www.myipo.gov.my/about-us/"
+    publisher: "Intellectual Property Corporation of Malaysia (MyIPO)"
+  - title: "Geographical Indications Act 2022 (Act 836)"
+    url: "https://www.myipo.gov.my/wp-content/uploads/2025/09/Geographical-Indications-Act-836-Akta-836-1.pdf"
+    publisher: "Intellectual Property Corporation of Malaysia (MyIPO)"
+  - title: "Geographical indications in Malaysia: Recent developments and progress"
+    url: "https://asiaiplaw.com/section/ip-analysts/geographical-indications-in-malaysia-recent-developments-and-progress"
+    publisher: "Asia IP Law"
 entity: "Intellectual Property Corporation of Malaysia (MyIPO)"
-relations:
-  - { rel: "related-to", to: "patent-malaysia" }
-  - { rel: "related-to", to: "trademark-registration-malaysia" }
-  - { rel: "related-to", to: "copyright-malaysia" }
-  - { rel: "related-to", to: "industrial-design-malaysia" }
-  - { rel: "related-to", to: "geographical-indications-malaysia" }
+relations: []
 related: []
-keywords: ["MyIPO", "Perbadanan Harta Intelek Malaysia", "Intellectual Property Corporation of Malaysia", "Malaysia IP office", "patent trademark Malaysia", "Act 617"]
+keywords: ["MyIPO", "Intellectual Property Corporation of Malaysia", "Perbadanan Harta Intelek Malaysia", "trademark registration Malaysia", "patent registration Malaysia", "MyIPO trademark fees", "Trademarks Act 2019", "copyright Malaysia", "industrial design Malaysia", "geographical indication Malaysia", "IP registration Malaysia", "MyIPO online filing"]
 ---
 
-The **Intellectual Property Corporation of Malaysia** — known everywhere by its acronym **MyIPO**, and in Malay as **Perbadanan Harta Intelek Malaysia** — is the single national agency that runs Malaysia's intellectual-property (IP) system. It was established under the **Intellectual Property Corporation of Malaysia Act 2002 (Act 617)** and became operational on **3 March 2003**, replacing the former Intellectual Property Division of the ministry. It is a statutory body under the **Ministry of Domestic Trade and Cost of Living (KPDN)**. If you are registering a patent, a trademark, an industrial design or a geographical indication in Malaysia — or notifying copyright — MyIPO is the office you deal with.
+If you have invented something, built a brand, designed a product or want to protect a regional speciality in Malaysia, there is one door for almost all of it — and it is easy to be sent to the wrong service by a page trying to sell you a single one. **MyIPO**, the Intellectual Property Corporation of Malaysia (Malay: *Perbadanan Harta Intelek Malaysia*), is the statutory agency responsible for developing and administering Malaysia's whole intellectual-property system. That spans industrial property — patents, trademarks, industrial designs and layout-designs of integrated circuits — as well as copyright and related rights.
 
-## What MyIPO does
+MyIPO was established under the **Intellectual Property Corporation of Malaysia Act 2002 (Act 617)**, which was passed to set up the Corporation and provide for its functions and powers. It came into operation on **3 March 2003** (gazette notification P.U. (B) 102/2003), the point at which it began running as a corporatised statutory body. It is a federal agency under the **Ministry of Domestic Trade and Cost of Living (KPDN)**. Its stated mission is to provide a strong legal infrastructure and an effective administration regime that enhances creativity and the exploitation of IP.
 
-MyIPO's core job is to administer and develop Malaysia's IP framework. That covers:
+## What rights does MyIPO administer, and for how long?
 
-- **Examining and granting** applications for patents, utility innovations, trademarks, industrial designs, geographical indications and layout-designs of integrated circuits.
-- **Maintaining the public registers** and issuing certificates for each granted right.
-- **Running copyright voluntary notification** — Malaysia has no copyright *registration*, so this is the nearest official record of a copyright claim.
-- **Acting as Malaysia's receiving office** for international filings under the Patent Cooperation Treaty (PCT) and the Madrid Protocol for trademarks.
-- **Public education, agent registration and policy work** on IP.
+Each right has its own governing statute, but MyIPO administers them all. The one that trips people up is copyright: **Malaysia has no copyright registration system** — a work is protected automatically the moment it is created. MyIPO runs only a *voluntary notification* scheme for it.
 
-## The rights it administers
-
-Each right has its own governing statute; MyIPO administers them all under one roof.
-
-| Right | Governing statute | Registered? | Headline term |
+| Right | Governing statute | Registered with MyIPO? | Protection term |
 |---|---|---|---|
-| Patent | Patents Act 1983 | Yes | 20 years from filing |
-| Utility innovation | Patents Act 1983 | Yes | 10 years + two 5-year extensions |
-| Trademark | Trademarks Act 2019 (Act 815) | Yes | 10 years, renewable |
-| Industrial design | Industrial Designs Act 1996 | Yes | 5 years, extendable to 25 |
-| Geographical indication | Geographical Indications Act (see note) | Yes | 10 years, renewable |
-| Copyright | Copyright Act 1987 | No — voluntary notification only | Life + 50 years (literary/artistic works) |
-| Layout-design of IC | Act 601 (2000) | No registration | 10 years |
+| Patent | Patents Act 1983 (Act 291) | Yes | 20 years from filing |
+| Utility innovation | Patents Act 1983 (Act 291) | Yes | 10 years + two 5-year extensions (max 20) |
+| Trademark | Trademarks Act 2019 (Act 815) | Yes | 10 years, renewable for successive 10-year periods |
+| Industrial design | Industrial Designs Act 1996 (Act 552) | Yes | 5 years + four 5-year extensions (max 25) |
+| Geographical indication | Geographical Indications Act 2022 (Act 836) | Yes | See GI Act |
+| IC layout-design | Layout Designs of Integrated Circuits Act 2000 (Act 601) | Automatic (no registration) | — |
+| Copyright | Copyright Act 1987 (Act 332) | No — voluntary notification only | Life + 50 years (literary, musical, artistic); 50 years (sound recordings, films, broadcasts, published editions) |
 
-Note: geographical indications have moved to a newer statute — see `verificationNeeded` before citing a section.
+To be **patentable**, an invention must be new (novel), involve an inventive step and be industrially applicable. A **utility innovation** is the "minor invention" route — a shorter, less demanding right for incremental improvements. **Copyright voluntary notification** does not create the right; it produces an official record that can help prove ownership.
 
-## Corporatisation and rebrand
+## What does it cost to file a trademark?
 
-Act 617 corporatised what had been a government division, giving MyIPO greater operational and financial autonomy. The Corporation initially operated as **PHIM** and was rebranded to the **"MyIPO"** identity on **3 March 2005**. Its headquarters are at **Menara MyIPO, PJ Sentral, Petaling Jaya, Selangor**.
+The headline figure most businesses need is the trademark fee. MyIPO charges **RM950 per class** where the list of goods or services is adopted from its pre-approved list, and **RM1,100 per class** where it is not. A registration then lasts 10 years and can be renewed indefinitely in 10-year blocks.
 
-## International filings
+If you want protection beyond Malaysia, MyIPO is the country's **Office of Origin for the Madrid System** (administered by WIPO). A trademark owner can file a single international application through MyIPO to seek protection in over **131 member countries**. The application must be in English, and MyIPO charges a **RM200 handling fee** on top of the fees payable directly to WIPO in Swiss Francs.
 
-Malaysia acceded to the **Patent Cooperation Treaty**, which entered into force for Malaysia on **16 August 2006**, so a Malaysian resident can file an international patent application through MyIPO as the receiving office. On the trademark side, Malaysia's accession to the **Madrid Protocol** took effect on **27 December 2019** — the same date the modernised **Trademarks Act 2019** came into force, replacing the old Trade Marks Act 1976 and introducing multi-class filing and non-traditional marks (shape, colour, sound, scent and more).
+## What are geographical indications, and how many exist?
+
+A **geographical indication (GI)** protects products whose reputation is tied to their place of origin. GIs are now governed by the **Geographical Indications Act 2022 (Act 836)**, which came into force on 18 March 2022, replacing the earlier Act 602 of 2000. It allows GIs for agricultural products, foodstuffs, handicrafts and industrial goods. As of December 2024, Malaysia had registered a total of **127 geographical indications**, with nine new applications during that year.
 
 ## What's next
 
-To register a specific right, start with the dedicated guides: [patents and utility innovations](patent-malaysia), [trademark registration](trademark-registration-malaysia), [industrial designs](industrial-design-malaysia), [geographical indications](geographical-indications-malaysia) and [copyright](copyright-malaysia). For fees and forms, always check MyIPO's current published schedule at **myipo.gov.my**, as amounts and procedures change with each amendment.
+To act on a specific right, go to MyIPO's dedicated section for it — trademarks, patents, industrial designs, GIs or copyright notification each have their own forms and fee schedules on the official portal. Because patent examination fees and procedures change with amendments, confirm the exact current schedule against MyIPO's own Forms and Fees pages before you file.

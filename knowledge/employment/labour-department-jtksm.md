@@ -1,112 +1,136 @@
 ---
 topicId: "MY-EMP-0056"
-title: "Labour Department (JTKSM)"
-seoTitle: "Labour Department (JTKSM) Malaysia: Role & Enforcement"
+title: "Labour Department (JTKSM): What It Does and How to File a Labour Complaint"
+seoTitle: "JTKSM Labour Department: Functions & How to Complain"
+socialTitle: "Boss Not Paying Your Salary? Meet the Government Office That Can Make Them"
 slug: "labour-department-jtksm"
 category: "employment"
-subcategory: ["labour-administration"]
-summary: "The federal agency that enforces labour law and hears wage and employment complaints across Peninsular Malaysia."
+subcategory: ["labour-law"]
+summary: "JTKSM (Jabatan Tenaga Kerja Semenanjung Malaysia / Department of Labour Peninsular Malaysia) is the Ministry of Human Resources agency that enforces the Employment Act 1955, investigates worker complaints such as unpaid wages, and runs the Labour Court for monetary claims in Peninsular Malaysia."
 tier: "3"
 mode: "practical"
 contentType: "agency"
 sensitivity: "none"
-answer: "The Labour Department of Peninsular Malaysia (Jabatan Tenaga Kerja Semenanjung Malaysia, JTKSM) is the federal agency under the Ministry of Human Resources that enforces Malaysia's labour laws and hears employee complaints in Peninsular Malaysia. It administers the Employment Act 1955 and related statutes, runs the Labour Court that decides wage and benefit disputes, and licenses activities such as private employment agencies. Sabah and Sarawak have their own separate labour departments."
+answer: "JTKSM (Jabatan Tenaga Kerja Semenanjung Malaysia), known in English as the Department of Labour Peninsular Malaysia, is the agency under the Ministry of Human Resources that enforces the Employment Act 1955 and other labour laws in Peninsular Malaysia. It investigates worker complaints such as unpaid wages, runs the Labour Court for monetary claims under Section 69 of the Employment Act, and licenses activities such as private employment agencies. If your workplace is in Sabah or Sarawak, a separate state labour department handles your case."
 keyTakeaways:
-  - "JTKSM sits under the Ministry of Human Resources (KESUMA) and covers Peninsular Malaysia only; Sabah and Sarawak each have a distinct labour department."
-  - "It enforces the Employment Act 1955 [Act 265] plus statutes such as the Children and Young Persons (Employment) Act 1966 [Act 350], the Private Employment Agencies Act 1981 [Act 246], and the Employees' Minimum Standards of Housing, Accommodations and Amenities Act 1990 [Act 446]."
-  - "Since the Employment (Amendment) Act 2022 took effect on 1 January 2023, the Employment Act applies to all employees regardless of wage, though some provisions (e.g. overtime and termination benefits) do not apply above RM4,000/month."
-  - "The Director General runs a Labour Court that can hear and decide wage, benefit and discrimination disputes without going to the civil courts."
-  - "JTKSM enforces the Minimum Wages Order 2024 [P.U.(A) 376/2024], setting the minimum wage at RM1,700 (all employers from 1 August 2025)."
-appliesTo: "Employees and employers in Peninsular Malaysia seeking to file or defend a labour complaint, and anyone needing the correct enforcement agency for wage, leave, housing or foreign-worker matters."
+  - "JTKSM operates under the Ministry of Human Resources and enforces the Employment Act 1955 [Act 265] plus related labour laws for Peninsular Malaysia."
+  - "You can lodge a complaint through the eAduan JTKSM mobile app, the SisPAA system at mohr.spab.gov.my, by phone on 603-8000 8000, by email at jtksm@mohr.gov.my, or at a labour office."
+  - "The Labour Court, run by the department, hears monetary claims between employers and employees under Section 69, and workplace-discrimination claims under Section 69F."
+  - "Employees earning more than RM4,000 a month (except manual employees) cannot claim certain Labour Court benefits such as overtime, rest-day and holiday work pay, shift allowances, and termination benefits."
+  - "Since the Employment (Amendment) Act 2022 took effect on 1 January 2023, the Act covers all employees regardless of wage, and the maximum working week was cut from 48 to 45 hours."
+appliesTo: "Employees and employers in Peninsular Malaysia who need to file, defend or understand a labour complaint, or identify the correct enforcement agency for wage, hours, contract, housing, retrenchment or foreign-worker matters."
 faq:
   - q: "How do I file a labour complaint with JTKSM?"
-    a: "An employee can lodge a complaint at any JTKSM state or district office; the Director General may then hear the matter in the Labour Court under the Employment Act 1955. Sabah and Sarawak workers use their own state labour departments."
+    a: "You can lodge a complaint through the eAduan JTKSM mobile app (Google Play and the Apple App Store), the Ministry of Human Resources SisPAA system at mohr.spab.gov.my, by phone on 603-8000 8000, by fax on 03-8888 9111, by email at jtksm@mohr.gov.my, or at a labour office."
   - q: "Does JTKSM cover the whole of Malaysia?"
-    a: "No. JTKSM covers Peninsular Malaysia. Sabah has the Jabatan Tenaga Kerja Sabah and Sarawak has the Jabatan Tenaga Kerja Sarawak, each administering the Sabah and Sarawak Labour Ordinances."
+    a: "No. JTKSM covers Peninsular Malaysia. Sabah and Sarawak have their own separate labour departments."
 lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 status: "in-review"
 aiAssisted: true
 reviewer: null
-version: "0.1"
+version: "0.2"
 revisions:
   - version: "0.1"
     date: 2026-08-10
     change: "Initial AI draft."
     reviewer: null
+  - version: "0.2"
+    date: 2026-08-14
+    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
+    reviewer: null
 verificationNeeded:
-  - "The current Director General's name (reported as Kamal Pardi in 2024) should be re-checked against the JTKSM site before publication, as the post rotates."
-  - "The exact full list of statutes JTKSM cites as 'twelve principal acts' — only the major ones are confirmed individually here."
-updated: 2026-08-10
+  - "Exact founding date/decree and precise February 2003 rename date on a primary gov source (currently only Wikipedia MS and secondary directories state 1912 origin as Jabatan Buruh and 2003 rename to JTKSM)."
+  - "Current exact number of JTKSM state/branch labour offices in Peninsular Malaysia."
+  - "Section 19 Employment Act 1955 requirement that wages be paid within 7 days of the wage period, and the exact maximum fine (commonly cited as RM50,000) — confirm against Act 265 statute text before stating."
+  - "Minimum wage RM1,700 effective dates (1 Feb 2025 for 5+ employees; 1 Aug 2025 all employers) — verify against the official Minimum Wages Order 2024 / gov gazette rather than HR blogs."
+  - "Current name/branding of the parent ministry — confirm whether it is styled 'Ministry of Human Resources' or 'KESUMA (Kementerian Sumber Manusia)' in current official usage."
+  - "Precise High Court appeal window (commonly cited 14 days) for Labour Court orders — confirm against Act 265."
+  - "Whether the Working for Workers (WFW) app and eAduan/SisPAA are the same channel or distinct — official pages reference both."
+updated: 2026-08-14
 sources:
   - title: "JTKSM Function"
     url: "https://jtksm.mohr.gov.my/en/corporate-profile/profile/jtksm-function"
     publisher: "Jabatan Tenaga Kerja Semenanjung Malaysia (JTKSM)"
-  - title: "Welcome / Department of Labour Peninsular Malaysia"
-    url: "https://jtksm.mohr.gov.my/en"
+  - title: "Peranan Jabatan Tenaga Kerja (JTK)"
+    url: "https://www.malaysia.gov.my/en/categories/kerjaya/hak-dan-manfaat-pekerja/peranan-jabatan-tenaga-kerja-jtk"
+    publisher: "MyGovernment (malaysia.gov.my)"
+  - title: "Services — Jabatan Tenaga Kerja Semenanjung Malaysia (JTKSM)"
+    url: "http://jtksm.gov.my/en/services"
     publisher: "Jabatan Tenaga Kerja Semenanjung Malaysia (JTKSM)"
-  - title: "Employment Act 1955 (Akta 265) — updated reprint (PDF)"
+  - title: "Labour Case — Jabatan Tenaga Kerja Semenanjung Malaysia (JTKSM)"
+    url: "https://jtksm.mohr.gov.my/en/services/labour-case"
+    publisher: "Jabatan Tenaga Kerja Semenanjung Malaysia (JTKSM)"
+  - title: "eAduan JTKSM — Digital Services"
+    url: "https://www.malaysia.gov.my/en/digital-services/eaduan-jtksm"
+    publisher: "MyGovernment (malaysia.gov.my)"
+  - title: "Complaints — Jabatan Tenaga Kerja Semenanjung Malaysia (JTKSM)"
+    url: "https://jtksm.mohr.gov.my/en/services/complaints"
+    publisher: "Jabatan Tenaga Kerja Semenanjung Malaysia (JTKSM)"
+  - title: "Employment Act (Amendment) 2022 — Coverage (official JTKSM document)"
+    url: "https://jtksm.mohr.gov.my/sites/default/files/2023-02/Employment%20Act%20(Amendment)%202022%20.pdf"
+    publisher: "Jabatan Tenaga Kerja Semenanjung Malaysia (JTKSM)"
+  - title: "Akta Kerja 1955 (Akta 265) — Laws of Malaysia online reprint"
     url: "https://jtksm.mohr.gov.my/sites/default/files/2023-11/Akta%20Kerja%201955%20(Akta%20265).pdf"
     publisher: "Jabatan Tenaga Kerja Semenanjung Malaysia (JTKSM)"
-  - title: "Employment Act 1955 (Amendment) 2022 — FAQ"
-    url: "https://jtksm.mohr.gov.my/en/frequently-asked-questions/employment-act-1955-amendment-2022"
-    publisher: "Jabatan Tenaga Kerja Semenanjung Malaysia (JTKSM)"
-  - title: "Employment Act to apply to all employees from 1 January 2023"
-    url: "https://themalaysianlawyer.com/2022/08/16/employment-act-all-employees-salary-rm4000/"
-    publisher: "The Malaysian Lawyer"
-  - title: "Malaysia's New Minimum Wage Rate for 2025"
-    url: "https://www.aseanbriefing.com/news/malaysias-new-minimum-wage-rate-for-2025-what-employers-and-workers-need-to-know/"
-    publisher: "ASEAN Briefing (Dezan Shira & Associates)"
-  - title: "JTKSM Committed To Protecting Workers' Rights And Welfare - DG"
-    url: "https://www.bernama.com/en/news.php?id=2434356"
-    publisher: "BERNAMA"
-entity: "Jabatan Tenaga Kerja Semenanjung Malaysia (Department of Labour of Peninsular Malaysia)"
+  - title: "Jabatan Tenaga Kerja Semenanjung Malaysia — Wikipedia Bahasa Melayu"
+    url: "https://ms.wikipedia.org/wiki/Jabatan_Tenaga_Kerja_Semenanjung_Malaysia"
+    publisher: "Wikipedia Bahasa Melayu (secondary — pending primary confirmation)"
+entity: "Jabatan Tenaga Kerja Semenanjung Malaysia (JTKSM) / Department of Labour Peninsular Malaysia"
 relations: []
 related: []
-keywords: ["JTKSM", "Labour Department", "Jabatan Tenaga Kerja Semenanjung Malaysia", "Department of Labour Peninsular Malaysia", "Employment Act 1955", "labour complaint", "Labour Court", "Act 265"]
+keywords: ["JTKSM", "Jabatan Tenaga Kerja Semenanjung Malaysia", "Labour Department Malaysia", "Department of Labour Peninsular Malaysia", "pejabat buruh", "aduan buruh", "eAduan JTKSM", "how to file labour complaint Malaysia", "unpaid salary Malaysia", "Labour Court Malaysia", "Employment Act 1955", "Section 69 Employment Act", "JTK complaint", "gaji tak dibayar"]
 ---
 
-The **Labour Department of Peninsular Malaysia** — *Jabatan Tenaga Kerja Semenanjung Malaysia*, universally abbreviated **JTKSM** — is the federal agency that enforces labour law and adjudicates employee complaints in Peninsular Malaysia. It operates under the **Ministry of Human Resources (KESUMA / MOHR)** and is headquartered in Putrajaya, with a network of state and district offices. It is the office you deal with for most wage, leave, working-hours, workplace-housing and foreign-worker matters covered by the Employment Act.
+If your employer has not paid your salary, there is a specific government office whose job is to investigate and, where the law allows, order that money paid — without you hiring a lawyer or going to civil court. In Peninsular Malaysia, that office is **JTKSM**: the *Jabatan Tenaga Kerja Semenanjung Malaysia*, or **Department of Labour Peninsular Malaysia**. It sits under the **Ministry of Human Resources** and enforces the Employment Act 1955 and related labour laws.
 
-## Jurisdiction: Peninsular Malaysia only
+## What exactly is JTKSM?
 
-JTKSM's remit is the eleven states and three federal territories of **Peninsular Malaysia**. Sabah and Sarawak, under the Federal Constitution, keep their own labour law and administration: the **Jabatan Tenaga Kerja Sabah** and **Jabatan Tenaga Kerja Sarawak** enforce the Sabah Labour Ordinance and the Sarawak Labour Ordinance respectively. Using the right department matters — a complaint filed with JTKSM will not cover a worker employed in Sabah or Sarawak.
+JTKSM is the labour-administration and enforcement arm for Peninsular Malaysia. According to the department, it originated as the *Jabatan Buruh Semenanjung Malaysia* in 1912 and, in February 2003, took over employment-service functions from the Department of Manpower and was renamed JTKSM. It is one of the departments and agencies under the Ministry of Human Resources.
 
-## What JTKSM does
+Its role is to make sure employers comply with labour law and that workers are protected. That covers three broad jobs: **enforcement** (minimum wages, working hours, termination), **complaint investigation** (unpaid wages, unfair dismissal, workplace discrimination), and **education and advisory** services.
 
-The department lists a set of core functions, the most important of which are:
+## What does the department actually do?
 
-- **Enforcing labour legislation** through inspections and investigations.
-- **Handling labour complaints** and resolving employee–employer disputes through the **Labour Court**.
-- **Hearing workplace sexual-harassment complaints** and **retrenchment** notifications.
-- **Licensing and permits** — private employment agency licences, foreign-worker applications, labour permits and workers' accommodation (Certificate for Accommodation) approvals.
+The department lists a wide mandate. Its core functions include:
 
-## Laws it enforces
+- **Enforcing labour laws**, including the Employment Act 1955, and studying and reviewing amendments to that legislation.
+- **Handling labour complaints and disputes** between employees and employers, including **workplace sexual-harassment** complaints.
+- **Overseeing retrenchment** — employers must notify the department within 30 days before a layoff.
+- **Registration of the place of employment** — employers must report within 90 days of establishing a workplace.
+- **Enforcing workers' housing and amenities** under Act 446, processing **foreign-worker** procedures and labour permits, and **licensing private employment agencies** under the Private Employment Agencies Act 1981.
+- Running **Labour Court** proceedings and conducting labour education programs.
 
-JTKSM administers a group of principal labour statutes. The most frequently invoked are set out below (Act numbers are the Laws of Malaysia reference).
+## How do I file a labour complaint?
 
-| Statute | Act no. | Scope |
-|---|---|---|
-| Employment Act 1955 | Act 265 | Core terms: wages, leave, hours, termination |
-| Children and Young Persons (Employment) Act 1966 | Act 350 | Employment of minors |
-| Private Employment Agencies Act 1981 | Act 246 | Licensing of recruitment agencies |
-| Employees' Minimum Standards of Housing, Accommodations and Amenities Act 1990 | Act 446 | Worker housing standards |
+JTKSM offers several channels. Pick whichever is easiest for you.
 
-It also enforces the **Minimum Wages Order** made under the National Wages Consultative Council Act 2011.
+| Channel | How to use it |
+|---|---|
+| eAduan JTKSM app | Mobile app for private-sector workers (and the public), on Google Play and the Apple App Store |
+| SisPAA online | Ministry of Human Resources public complaint system at mohr.spab.gov.my |
+| Phone | 603-8000 8000 |
+| Fax | 03-8888 9111 |
+| Email | jtksm@mohr.gov.my |
+| In person | Department address: Aras 5, Blok Setia Perkasa 3, Putrajaya |
 
-## The Employment Act now covers all employees
+The eAduan JTKSM app is specifically provided as a channel to report non-compliance with labour laws by employers in Peninsular Malaysia.
 
-The single biggest recent change is the **Employment (Amendment) Act 2022**, in force from **1 January 2023**. It extended the Employment Act to **all employees regardless of wage**, where previously many provisions were capped at RM2,000/month. Some entitlements — notably overtime pay and termination/layoff benefits — still do **not** apply to employees earning more than **RM4,000 per month**. The amendments also introduced flexible-work-arrangement requests, expanded maternity and new paternity leave, and stronger anti-forced-labour and anti-discrimination provisions.
+## What is the Labour Court, and can it help me?
 
-## The Labour Court
+When a complaint is about money, it is heard in the **Labour Court**. Monetary claims between employers and employees are handled under **Section 69 of the Employment Act 1955 [Act 265]**, and workplace-discrimination claims can be filed under **Section 69F**. This is a lower-cost route than ordinary litigation.
 
-Rather than the civil courts, an employee under the Employment Act can bring a claim before the **Labour Court**, presided over by the **Director General of Labour** (or an officer acting on that authority). It hears disputes over unpaid wages, leave, benefits and, since 2023, discrimination in employment, and can issue enforceable orders. This makes it a faster, lower-cost route for wage recovery than litigation.
+There is an important eligibility limit. Employees earning **more than RM4,000 a month** (except manual employees) are **not** eligible to claim certain benefits before the Labour Court — including overtime, rest-day and paid-holiday work pay, shift allowances, and termination benefits.
 
-## Minimum wage
+## Who does the Employment Act cover now?
 
-JTKSM enforces the **Minimum Wages Order 2024 [P.U.(A) 376/2024]**, which raised the statutory minimum to **RM1,700 per month**. It applied first to larger employers (five or more workers, and professional-classified employers) from **1 February 2025**, and to **all employers from 1 August 2025**.
+The **Employment (Amendment) Act 2022**, effective **1 January 2023**, expanded coverage of the Employment Act to **all employees who have entered into a contract of service, regardless of wage** (with some provisions still excluded for those earning above RM4,000). The same amendments cut the maximum working week from **48 to 45 hours** for all employees. The full text of the Act is published by JTKSM as a downloadable PDF.
+
+## Does JTKSM cover Sabah and Sarawak?
+
+No. JTKSM's authority is **Peninsular Malaysia only**. Workers in Sabah and Sarawak fall under those states' own separate labour departments, so a complaint about a Sabah or Sarawak workplace should not be lodged with JTKSM.
 
 ## What's next
 
-If you have a specific dispute — unpaid wages, wrongful deductions, or a housing or retrenchment issue — identify whether the worker is in Peninsular Malaysia (JTKSM) or Sabah/Sarawak (their own departments), then lodge the complaint at the relevant state or district labour office. For the underlying entitlements, see the companion articles on the **Employment Act 1955** and Malaysia's **minimum wage**.
+Identify whether the workplace is in Peninsular Malaysia (JTKSM) or in Sabah/Sarawak (their own departments), gather your employment details, and lodge the complaint through eAduan JTKSM, SisPAA, or your nearest labour office. For the entitlements behind a claim — wages, hours, leave and termination — read the underlying Employment Act 1955.

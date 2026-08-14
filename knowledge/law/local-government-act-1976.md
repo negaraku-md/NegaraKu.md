@@ -1,99 +1,102 @@
 ---
 topicId: "MY-LAW-0098"
-title: "Local Government Act 1976"
-seoTitle: "Local Government Act 1976 (Act 171): Malaysia Guide"
+title: "Local Government Act 1976: The Law Behind Malaysia's Appointed Councils"
+seoTitle: "Local Government Act 1976 (Act 171) Explained"
+socialTitle: "Why can't Malaysians vote for their own mayor? Blame this 1976 law"
 slug: "local-government-act-1976"
 category: "law"
-subcategory: ["local-government"]
-summary: "Malaysia's Act 171, which revises and consolidates the law on local authorities and governs how councils are established, run and financed in Peninsular Malaysia."
+subcategory: ["key-acts"]
+summary: "The Local Government Act 1976 (Act 171) is the statute that constitutes, empowers, and finances every city, municipal, and district council in Peninsular Malaysia — and the law that replaced elected local councils with state-appointed councillors."
 tier: "3"
 mode: "practical"
 contentType: "law"
 sensitivity: "none"
-answer: "The Local Government Act 1976 (Act 171) is the federal statute that revises and consolidates the law on local government in Peninsular Malaysia. It empowers each State Authority to declare local authority areas, set their status as a Municipal Council or District Council, and appoint councillors, and it gives local authorities their powers over public places, sanitation, licensing, by-laws and the assessment rates they levy on property. It came into force on 25 March 1976 and does not apply to Sabah or Sarawak, which have their own local-government ordinances."
+answer: "The Local Government Act 1976 (Act 171) is the federal statute that revises and consolidates the law on local government in Peninsular Malaysia. It lets each State Authority declare an area a local authority, fix its status as a Municipal or District Council, and appoint the councillors who run it — and it is the law that ended local-government elections, so no Malaysian votes for a mayor or councillor. It received Royal Assent on 18 March 1976 and, by its own terms, applies only to Peninsular Malaysia; Sabah and Sarawak have their own ordinances."
 keyTakeaways:
-  - "Act 171 was passed by the Dewan Rakyat on 18 December 1975 and the Dewan Negara on 20 January 1976, received Royal Assent on 18 March 1976 and commenced on 25 March 1976."
-  - "The Act is organised into 16 Parts with 166 sections and 2 schedules in the reprinted text, covering administration, staff, finance, public places, sanitation, by-laws and rating."
-  - "Under section 3 the State Authority declares an area a local authority area and fixes its status as a Municipal Council or a District Council."
-  - "Section 10 provides for a Mayor or President plus not fewer than eight and not more than twenty-four appointed councillors; there are no elected local councils, as election provisions were suspended under section 15."
-  - "Part XV (Rating and Valuation) lets a local authority impose assessment rates under section 127, generally based on the annual value of a holding (Johor uses improved value)."
-appliesTo: "Residents, ratepayers, property owners, councillors, planning and law students, and anyone dealing with a city, municipal or district council in Peninsular Malaysia."
+  - "Section 1(1) states the Act applies only to Peninsular Malaysia — correcting the common web claim that it applies throughout the country; Sabah and Sarawak use separate ordinances (Local Government Ordinance 1961 and Local Authority Ordinance 1996)."
+  - "Section 15(1) provides that all provisions relating to local-government elections cease to have effect — the statutory basis for Malaysia's appointed, non-elected councils."
+  - "Section 10 sets a council as a Mayor or President plus 8 to 24 councillors appointed by the State Authority, each for a term not exceeding three years."
+  - "Part XV lets a council impose assessment rates (cukai pintu) under Section 127, and Part XIII lets it make and enforce by-laws with penalties, confirmed by the State Authority."
+  - "In its consolidated form the Act comprises 16 Parts, 166 sections and 2 schedules, and has been amended seven times, including by the Fire Services Act 1988 which deleted the original Part X."
+appliesTo: "Residents, ratepayers and property owners, councillors, planning and law students, and anyone dealing with a city, municipal or district council in Peninsular Malaysia."
 faq:
+  - q: "Why can't I vote for my mayor or local councillor?"
+    a: "Because Section 15(1) of Act 171 provides that all provisions relating to local-government elections cease to have effect, and Section 10 makes every councillor a State Authority appointee. Local government sits in the State List of the Federal Constitution, so it is a state matter."
   - q: "Does the Local Government Act 1976 apply to Sabah and Sarawak?"
-    a: "No. Act 171 governs local authorities in Peninsular Malaysia. Sabah applies the Local Government Ordinance 1961 and Sarawak the Local Authorities Ordinance 1996."
-  - q: "Are local councillors elected under Act 171?"
-    a: "No. Councillors are appointed by the State Authority under section 10. Local-government election provisions were suspended under section 15, so Malaysia's councils are appointed, not elected."
-  - q: "What legal basis lets a council charge assessment rates?"
-    a: "Part XV of the Act. Section 127 empowers a local authority, with the State Authority's approval, to impose rates on holdings within its area, generally calculated on the property's annual value."
+    a: "No. Section 1(1) says the Act applies only to Peninsular Malaysia. Sabah uses the Local Government Ordinance 1961 and Sarawak the Local Authority Ordinance 1996."
+  - q: "What legal basis lets a council charge assessment tax?"
+    a: "Part XV (Rating and Valuation). Section 127 empowers a local authority to impose rates on holdings in its area, with the basis of assessment set out in Section 130."
 lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 status: "in-review"
 aiAssisted: true
 reviewer: null
-version: "0.1"
+version: "0.2"
 revisions:
   - version: "0.1"
     date: 2026-08-10
     change: "Initial AI draft."
     reviewer: null
+  - version: "0.2"
+    date: 2026-08-14
+    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
+    reviewer: null
 verificationNeeded:
-  - "Exact territorial-extent wording: sources conflict between 'throughout Malaysia' (Wikipedia infobox) and the practical position that Act 171 applies to Peninsular Malaysia only. Confirm against the reprint's application clause."
-  - "Current national count of local authorities (approx. 19 city, 40 municipal, 91 district councils cited to Wikipedia) — confirm against a KPKT/JKT figure; note this national total spans Sabah and Sarawak, which are outside Act 171."
-  - "Section count '166 sections, 2 schedules, 16 Parts' is quoted from secondary summaries of the reprint as at 1 Dec 2012; confirm against the current AGC reprint."
-updated: 2026-08-10
+  - "Exact current number and breakdown of local authorities (city vs municipal vs district councils) for 2024–2026 — JKT/KPKT listed 155 PBT as of Aug 2021; the count and city-status upgrades change over time."
+  - "Precise historical date local-government elections were suspended (commonly cited as 1 March 1965) and the roles of the Athi Nahappan Royal Commission and the Local Government (Temporary Provisions) Act 1973 — confirm against a primary source before stating."
+  - "The definitive count of amending Acts and whether any amendments to Act 171 exist after 2007."
+  - "Official criteria/thresholds (population, annual revenue) for conferring City or Municipal status — needs an official KPKT source."
+  - "Exact number of Parts/sections/schedules in the most current in-force reprint (Wikipedia states 16 Parts/166 sections/2 schedules as of 1 Dec 2012; verify no structural change since)."
+updated: 2026-08-14
 sources:
-  - title: "Act 171 — Local Government Act 1976 (official reprint, PDF)"
-    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20171%20-%20Local%20Government%20Act%201976.pdf"
-    publisher: "Attorney General's Chambers of Malaysia (Laws of Malaysia)"
+  - title: "Laws of Malaysia, Act 171 Local Government Act 1976 (official reprint incorporating amendments up to 1 January 2006)"
+    url: "https://www.doa.gov.my/doa/resources/info_doa/akta171_kerajaan_tempatan_1976.pdf"
+    publisher: "Commissioner of Law Revision, Malaysia"
   - title: "Local Government Act 1976"
     url: "https://en.wikipedia.org/wiki/Local_Government_Act_1976"
     publisher: "Wikipedia"
-  - title: "Local Government Act 1976 — Part 1"
-    url: "https://www.lowpartners.com/local-government-act-1976-part-1/"
-    publisher: "Low & Partners"
-  - title: "Rating — Valuation and Property Services Department"
-    url: "https://www.jpph.gov.my/v3/en/jpph-business/valuation-and-property-services-activity/rating/"
-    publisher: "Jabatan Penilaian dan Perkhidmatan Harta (JPPH)"
   - title: "Concept of Local Government"
     url: "https://jkt.kpkt.gov.my/aboud-lgd/lgd-info/concept-of-local-government"
-    publisher: "Jabatan Kerajaan Tempatan, KPKT"
+    publisher: "Jabatan Kerajaan Tempatan (Department of Local Government), KPKT"
+  - title: "Federal Constitution of Malaysia (Reprint) — Article 95A and Ninth Schedule, State List"
+    url: "https://lom.agc.gov.my/federal-constitution.php"
+    publisher: "Attorney General's Chambers of Malaysia (AGC)"
 entity: "Local Government Act 1976 (Act 171)"
 relations: []
 related: []
-keywords: ["Local Government Act 1976", "Act 171", "LGA 1976", "Akta Kerajaan Tempatan 1976", "local authority Malaysia", "PBT", "assessment rates", "cukai taksiran", "municipal council", "district council"]
+keywords: ["Local Government Act 1976", "Act 171", "Akta Kerajaan Tempatan 1976", "local authority Malaysia", "PBT", "Pihak Berkuasa Tempatan", "majlis perbandaran", "majlis daerah", "assessment tax", "cukai pintu", "local council elections Malaysia", "appointed councillors", "National Council for Local Government", "third vote Malaysia"]
 ---
 
-The **Local Government Act 1976 (Act 171)** is the federal statute that revises and consolidates the law on local government in **Peninsular Malaysia**. It sets out how local authorities are created, staffed, financed and empowered — from control of public places and sanitation to the assessment rates councils levy on property. It received Royal Assent on 18 March 1976 and came into force on **25 March 1976**. It does not extend to Sabah or Sarawak, which retain their own local-government ordinances.
+If you have ever wondered why no Malaysian ballot has ever listed a candidate for mayor, the answer is a single statute. The **Local Government Act 1976 (Act 171)** — long title "An Act to revise and consolidate the laws relating to local government" — is the law that constitutes every city, municipal, and district council in Peninsular Malaysia, appoints the people who run them, and hands them the power to tax and fine you. It received Royal Assent on **18 March 1976** and was gazetted on 25 March 1976. Despite what much of the web says, **Section 1(1) states it applies only to Peninsular Malaysia**; Sabah and Sarawak keep their own ordinances.
 
-## Enactment and structure
+## Why are councillors appointed instead of elected?
 
-Parliament passed the Bill in the Dewan Rakyat on 18 December 1975 and the Dewan Negara on 20 January 1976. Its long title is simply "An Act to revise and consolidate the laws relating to local government," replacing an earlier patchwork that included state Town Boards Enactments and the Local Councils Ordinance 1952.
+This is the Act's most consequential feature. **Section 15(1)** provides that all provisions relating to local-government elections "shall cease to have force or effect," and Section 15(2) removed the elected councillors then in office. In their place, **Section 10** makes the council a **Mayor or President plus not fewer than eight and not more than twenty-four councillors, appointed by the State Authority**, each for a term not exceeding three years. That is the statutory root of the long-running "restore local elections" or "third vote" debate.
 
-In its reprinted form the Act runs to **16 Parts, 166 sections and 2 schedules**, spanning administration, officers and employees, conduct of business, finance, accounts and audit, public places, pollution of streams, food and sanitation, fire services, burial places, by-laws, further powers, and rating and valuation.
+It also fits the constitutional design: under the Federal Constitution's **Ninth Schedule, local government — including local authorities, local rates, and local-government elections — sits in the State List**, making it primarily a state matter. Article 95A adds a **National Council for Local Government**, chaired by a Minister with one representative per state, to set national policy.
 
-## What is a "local authority"
+## What counts as a "local authority"?
 
-Under **section 3**, a State Authority — acting in consultation with the Minister and the Election Commission — may declare an area to be a **local authority area** and fix its status as either a **Municipal Council** or a **District Council**. City status is a higher grade conferred separately, so the three familiar tiers are city, municipal and district councils, collectively known in Malay as *Pihak Berkuasa Tempatan* (PBT).
+Section 2 defines a **local authority** as any City Council, Municipal Council, or District Council (in the Federal Territory, the Commissioner of the City of Kuala Lumpur). A **City Council** is the council of a municipality that has been conferred city status. Under **Section 3**, a State Authority — consulting the Minister and the Election Commission — declares an area a local authority, names it, fixes its boundaries, and sets its status as Municipal or District, all by Gazette.
 
-| Feature | Provision |
+| Question | Provision |
 |---|---|
-| Declaration of area and status | Section 3 |
-| General directions from the State | Section 9 |
-| Composition of the council | Section 10 |
-| Suspension of local elections | Section 15 |
-| Assessment rates on holdings | Section 127 (Part XV) |
+| Where does the Act apply? | Section 1 — Peninsular Malaysia only |
+| Who creates a council and sets its status? | Section 3 |
+| How is a council made up? | Section 10 — Mayor/President + 8–24 appointees |
+| Why no elections? | Section 15 |
+| By-laws and penalties | Part XIII (Sections 102–106) |
+| Assessment rates | Part XV — Section 127 (basis in Section 130) |
 
-## Councillors are appointed, not elected
+## What can a council actually do to your daily life?
 
-**Section 10(1)** provides that a local authority consists of a Mayor or President and **not fewer than eight and not more than twenty-four councillors, appointed by the State Authority**. Section 10(2) requires appointees to be residents of the area with relevant experience. Malaysia's local councils are therefore **appointed bodies**: **section 15** suspended the provisions relating to local-government elections, and no council-level elections have been held since. Under **section 9** the State Authority may also give a local authority directions of a general character, which it must follow.
+Two Parts of the Act reach into most residents' lives. **Part XV (Rating and Valuation)** lets a local authority impose **rates — the assessment tax, or *cukai pintu*** — on holdings within its area under Section 127, with the basis of assessment set in Section 130. **Part XIII** gives councils a general power to **make by-laws**, which the State Authority must confirm (Section 103) and which may carry penalties for breaches (Section 104). Between them, they underpin the licensing, markets, sanitation, and public-place rules a council enforces.
 
-## Powers, by-laws and finance
+## How big and how old is the Act?
 
-The Act gives local authorities broad functions — control and care of public places, sanitation and refuse services, markets, licensing of trades and premises, and building control. Part XIII lets a council make **by-laws** (subject to State Authority confirmation) and attach penalties, while the further powers in Part XII underpin day-to-day administration.
-
-Councils are financed largely through **assessment rates** ("cukai taksiran"). Part XV (Rating and Valuation) — chiefly **section 127** — lets a local authority, with State approval, impose rates on **holdings** within its area. Rates are generally computed on a property's **annual value** (the estimated yearly rent it could command), except in Johor, which uses **improved value**.
+In its consolidated form the Act comprises **16 Parts, 166 sections, and 2 schedules**. It was passed by the Dewan Rakyat on 18 December 1975 and the Dewan Negara on 20 January 1976, and has since been amended seven times — including the Local Government (Amendment) Acts of 1978, 1983, 1991, 1993, and 2007, and the Fire Services Act 1988, which deleted the Act's original Part X. Nationwide, the Department of Local Government (JKT) has referenced a list of **155 local authorities (PBT)**, alongside the parallel systems in Sarawak (Local Authority Ordinance 1996) and Sabah (Local Government Ordinance 1961).
 
 ## What's next
 
-For the wider picture of how councils fit beneath the state and federal tiers, see any overview of local government in Malaysia and the role of the Ministry of Housing and Local Government (KPKT). Ratepayers wanting to check or object to a valuation should consult their council's valuation list and the notice-and-objection procedure under Part XV.
+To object to a valuation or an assessment bill, follow the notice-and-objection procedure in Part XV and your council's valuation list. To understand where councils sit beneath the state and federal tiers, look next at the Ministry of Housing and Local Government (KPKT) and the National Council for Local Government under Article 95A.

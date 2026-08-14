@@ -1,115 +1,134 @@
 ---
 topicId: "MY-LIV-0161"
-title: "Road Transport Department (JPJ)"
-seoTitle: "JPJ: Road Transport Department Malaysia Guide"
+title: "JPJ (Road Transport Department): Malaysia's Vehicle and Driver Licensing Authority"
+seoTitle: "JPJ (Road Transport Department): Functions & Services"
+socialTitle: "The agency behind every road tax, plate and licence in Malaysia"
 slug: "road-transport-department-jpj"
 category: "transport"
-subcategory: ["government-agency"]
-summary: "What Malaysia's Road Transport Department (JPJ) does — vehicle registration, driver licensing, road tax and enforcement — and how to reach its services."
+subcategory: ["driving"]
+summary: "The Road Transport Department (Jabatan Pengangkutan Jalan, JPJ) is the Ministry of Transport agency that registers vehicles, licenses drivers, collects road tax and enforces the Road Transport Act 1987 across Malaysia."
 tier: "3"
 mode: "practical"
 contentType: "agency"
 sensitivity: "none"
-answer: "The Road Transport Department (Jabatan Pengangkutan Jalan, JPJ) is the federal agency, under the Ministry of Transport, that registers all motor vehicles, licenses drivers, collects motor-vehicle (road tax) revenue, and enforces the Road Transport Act 1987. It runs branch counters nationwide plus the MyJPJ app and eServices for online transactions."
+answer: "The Road Transport Department (Jabatan Pengangkutan Jalan, JPJ) is the agency under the Ministry of Transport that registers Malaysia's motor vehicles, issues driving licences and number plates, collects the motor-vehicle licence (road tax), and enforces the Road Transport Act 1987. It runs offices in every state and federal territory alongside digital services such as the MyJPJ app."
 keyTakeaways:
-  - "JPJ operates under the Ministry of Transport and traces its founding to 1 April 1946, when the Road Transport Department was formally established."
-  - "Its core statute is the Road Transport Act 1987 (Act 333), which governs vehicle registration, licensing and road traffic."
-  - "Driver licences progress through Learner's (LDL), Probationary (PDL) and Competent (CDL) stages, covering vehicle classes such as B/B2 (motorcycles), D (cars) and E (heavy goods vehicles)."
-  - "JPJ administers the KEJARA demerit-point system to penalise repeat traffic offenders."
-  - "Common services — road tax and licence renewal, licence and summons checks, and number-plate bidding (eBid) — are available via the MyJPJ app, eServices kiosks, UTC and Pos Malaysia counters."
+  - "JPJ sits under the Land Division of the Ministry of Transport and is governed by the Road Transport Act 1987 (Act 333)."
+  - "Its core functions are vehicle registration, driver licensing, collecting the motor-vehicle licence (road tax / LKM), and enforcement."
+  - "The department traces its origin to 1937 and was re-established on 1 April 1946; the 1937 Traffic Enactment was replaced by the Road Traffic Ordinance in 1953."
+  - "JPJ administers the KEJARA demerit-points system to act against traffic offenders."
+  - "Digital platforms include the MyJPJ app, e-LKM (digital road tax from 2023), and the JPJeBid number-plate bidding system."
 appliesTo: "Anyone in Malaysia registering a vehicle, applying for or renewing a driving licence, paying road tax, or dealing with JPJ enforcement."
 faq:
   - q: "What is the difference between JPJ and PUSPAKOM?"
-    a: "JPJ is the government regulator that registers vehicles, licenses drivers and enforces road transport law. PUSPAKOM is the appointed company that carries out mandatory physical vehicle inspections; JPJ acts on the inspection results."
-  - q: "Do I have to go to a JPJ office in person?"
-    a: "Many transactions no longer need a counter visit. Road tax and driving-licence renewals, validity checks and number-plate bidding can be done through the MyJPJ mobile app or JPJ eServices; some steps (like the driving test and certain registrations) still require attendance."
-  - q: "Which law gives JPJ its powers?"
-    a: "The Road Transport Act 1987 (Act 333) is the principal statute. It provides for the registration and licensing of vehicles and drivers, road traffic rules, and enforcement powers."
+    a: "JPJ is the government department that registers vehicles, licenses drivers and enforces road transport law. PUSPAKOM carries out the physical vehicle inspection that certain vehicles — such as commercial vehicles or those over 10 years old — must pass before road tax can be renewed."
+  - q: "What is e-LKM?"
+    a: "e-LKM is the digital Motor Vehicle Licence (digital road tax) that JPJ introduced starting in 2023, replacing the physical sticker. It is accessible through the MyJPJ app or the MySIKAP portal."
 lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 status: "in-review"
 aiAssisted: true
 reviewer: null
-version: "0.1"
+version: "0.2"
 revisions:
   - version: "0.1"
     date: 2026-08-10
     change: "Initial AI draft."
     reviewer: null
+  - version: "0.2"
+    date: 2026-08-14
+    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
+    reviewer: null
 verificationNeeded:
-  - "Current Director-General (reported as Aedy Fadly bin Ramli via Wikipedia) — confirm against the official JPJ site as this post changes over time."
-  - "Exact current headquarters address (Complex D, Putrajaya) — confirm the precise block/level against jpj.gov.my."
-  - "Precise LDL validity/renewal intervals and per-class age thresholds — confirm against the official JPJ driver-licensing pages before quoting as fixed rules."
-updated: 2026-08-10
+  - "Exact current number of JPJ offices nationwide (widely cited as 'more than 160' in secondary sources; not confirmed on an official jpj.gov.my page)."
+  - "Exact effective date of e-LKM digital documents (secondary sources say 10 February 2023; official page only confirms 'starting in 2023')."
+  - "Exact date MyJPJ enabled licence and road-tax renewal (reported as 1 February 2024) and the RM5 digital-renewal rebate window (reported to expire 31 December 2024) — from news reporting, not confirmed on a government source."
+  - "How many months in advance road tax can be renewed (commonly stated as 2 months; not confirmed on the malaysia.gov.my page)."
+  - "Current Director-General name (Wikipedia lists Aedy Fadly bin Ramli — confirm against official appointment)."
+  - "Current headquarters address — official jpj.gov.my lists No. 26 Jalan Tun Hussein, Presint 4, while Wikipedia lists Block D4, Complex D; confirm which is current."
+  - "Full list and codes of Malaysian driving licence classes (L, LDL, PDL, CDL, D, B, B2, DA, etc.) — needs a primary-source licensing page."
+  - "Mechanics and thresholds of the KEJARA demerit-points system (points per offence, suspension thresholds) — needs primary source."
+  - "Whether the AES (Automated Enforcement System) is currently operated by JPJ or another body."
+updated: 2026-08-14
 sources:
-  - title: "JPJ History"
+  - title: "History of the Road Transport Department Malaysia"
     url: "https://www.jpj.gov.my/en/jpj-history/"
-    publisher: "Jabatan Pengangkutan Jalan Malaysia"
-  - title: "Act 333 (Road Transport Act 1987)"
-    url: "https://www.jpj.gov.my/en/act-333/"
-    publisher: "Jabatan Pengangkutan Jalan Malaysia"
-  - title: "JPJ Service Information"
-    url: "https://www.jpj.gov.my/en/jpj-service-information/"
-    publisher: "Jabatan Pengangkutan Jalan Malaysia"
-  - title: "Driving License (Transportation)"
-    url: "https://www.malaysia.gov.my/en/categories/transportation/driving-license"
-    publisher: "MyGovernment (Malaysia.gov.my)"
+    publisher: "Road Transport Department Malaysia (JPJ)"
+  - title: "Home - Portal Rasmi JPJ"
+    url: "https://www.jpj.gov.my/en/home/"
+    publisher: "Road Transport Department Malaysia (JPJ)"
+  - title: "Renewing Motor Vehicle Licenses (Road Tax)"
+    url: "https://www.malaysia.gov.my/en/categories/transportation/vehicle-license/renewing-motor-vehicle-licenses-road-tax"
+    publisher: "MyGovernment (malaysia.gov.my)"
   - title: "Road Transport Department (Malaysia)"
-    url: "https://en.wikipedia.org/wiki/Road_Transport_Department_(Malaysia)"
+    url: "https://en.wikipedia.org/wiki/Road_Transport_Department_Malaysia"
     publisher: "Wikipedia"
-entity: "Jabatan Pengangkutan Jalan (Road Transport Department, JPJ)"
-relations:
-  - { rel: "related-to", to: "driving-licence-malaysians" }
-  - { rel: "related-to", to: "road-tax-renewal" }
-  - { rel: "related-to", to: "traffic-summons-saman" }
-  - { rel: "related-to", to: "puspakom-vehicle-inspections" }
-related: ["driving-licence-malaysians", "road-tax-renewal", "traffic-summons-saman", "puspakom-vehicle-inspections"]
-keywords: ["JPJ", "Jabatan Pengangkutan Jalan", "Road Transport Department", "Road Transport Act 1987", "Act 333", "MyJPJ", "driving licence Malaysia", "road tax", "KEJARA"]
+entity: "Road Transport Department (Jabatan Pengangkutan Jalan, JPJ)"
+relations: []
+related: []
+keywords: ["JPJ", "Jabatan Pengangkutan Jalan", "Road Transport Department Malaysia", "MyJPJ", "road tax renewal", "driving licence renewal", "e-LKM", "e-LMM", "MySIKAP", "JPJeBid", "Road Transport Act 1987", "KEJARA demerit points", "cukai jalan", "lesen memandu"]
 ---
 
-The **Road Transport Department** — *Jabatan Pengangkutan Jalan*, universally known by its initials **JPJ** — is the federal agency under the **Ministry of Transport** responsible for registering every motor vehicle in Malaysia, licensing drivers, collecting motor-vehicle licence (road tax) revenue, and enforcing road transport law. If you own a car or motorcycle, hold a driving licence, or pay road tax, you are dealing with JPJ.
+Every road tax paid, number plate issued, and driving licence carried in Malaysia passes through one agency: the **Road Transport Department** — *Jabatan Pengangkutan Jalan*, known everywhere by its initials **JPJ**. It operates under the Land Division of the **Ministry of Transport** and is the department responsible for registering vehicles, issuing driving licences and vehicle number plates, and enforcing the Road Transport Act 1987 to ensure prudent drivers and safe vehicles.
 
-## What JPJ does
+## What does JPJ actually do?
 
-JPJ's mandate covers four broad areas:
+JPJ's work runs across a handful of core functions, organised internally into divisions:
 
-- **Vehicle registration** — registering all motor vehicles and issuing registration (number) plates.
-- **Driver licensing** — issuing and renewing driving licences and vocational licences.
-- **Revenue** — collecting the annual motor-vehicle licence, commonly called road tax.
-- **Enforcement** — enforcing the Road Transport Act 1987 to keep drivers and vehicles safe on the road.
+| Function / division | What it covers |
+|---|---|
+| Vehicle licensing | Registering motor vehicles and issuing number plates |
+| Driver licensing | Issuing and renewing driving licences via counter services |
+| Automotive engineering | Vehicle standards and inspection matters |
+| Revenue management | Collecting the motor-vehicle licence (road tax / LKM) |
+| Enforcement & road safety | Acting against offenders under road transport law |
 
-The department provides counter services for vehicle and driver licensing and enforces the law "to ensure prudent drivers and safe vehicles."
+The through-line is the department's mandate: register the vehicle, license the driver, collect the licence fee, and enforce the rules of the road.
 
-## Legal basis: the Road Transport Act 1987
+## Which law gives JPJ its powers?
 
-JPJ's core statute is the **Road Transport Act 1987 (Act 333)**, described as an Act to provide for the regulation of motor vehicles and of traffic on roads, and for the protection of third parties against risks arising from the use of motor vehicles. It succeeded earlier laws including the Road Traffic Ordinance 1958.
-
-To manage repeat offenders, JPJ operates **KEJARA**, a demerit-point system that records points against a driver's record for traffic offences and can lead to licence suspension.
-
-## A short history
+JPJ is governed by the **Road Transport Act 1987 (Act 333)**, the statute under which it registers vehicles and issues driving licences and number plates. The department's roots run deeper than the Act, however.
 
 | Year | Milestone |
-|------|-----------|
-| 1937 | Motor-vehicle control centralised under the Traffic Enactment 1937 (Road Transport Board). |
-| **1 April 1946** | The **Road Transport Department** formally established to coordinate transport nationwide. |
-| 1958 | Road Traffic Ordinance 1958 enacted. |
-| 1987 | Road Transport Act 1987 (Act 333) passed, standardising national transport law. |
+|---|---|
+| 1937 | Established under the Traffic Enactment 1937 during British administration |
+| 1 April 1946 | Reorganised and re-established, consolidating vehicle and driver registration and inspection powers |
+| 1953 | The 1937 Traffic Enactment replaced by the Road Traffic Ordinance |
+| 1987 | Road Transport Act 1987 (Act 333) enacted as the governing statute |
 
-## Driving licence stages
+## How does road tax renewal work?
 
-Malaysia's licences progress through stages, each tied to vehicle classes (for example **B/B2** for motorcycles, **D** for private cars, and **E** for heavy goods vehicles):
+The **Motor Vehicle Licence** — the road tax, or *cukai jalan* — is issued by JPJ to allow a vehicle to operate on public roads, and it can be renewed by the registered owner or their representative. Before a renewal goes through, a few conditions must be met:
 
-- **Learner's Driving Licence (LDL)** — for learning to drive under supervision after passing the theory test.
-- **Probationary Driving Licence (PDL)** — issued after passing the JPJ driving test; new drivers must display the **P** plate and complete a probationary period before upgrading.
-- **Competent Driving Licence (CDL)** — the full licence, renewable for multi-year terms.
+- Active vehicle insurance covering a minimum of one year.
+- A passed **PUSPAKOM/PPKM inspection** for certain vehicles, such as commercial vehicles or those more than 10 years old.
+- The vehicle and owner must not be blacklisted by JPJ or the police (PDRM).
 
-The driving test itself, conducted by JPJ examiners, is divided into a circuit test and a road test.
+Starting in **2023**, JPJ introduced **e-LKM**, the digital Motor Vehicle Licence that replaces the physical road-tax sticker. It is accessed through the **MyJPJ** app or the **MySIKAP** portal.
 
-## Getting things done
+## What are the digital services?
 
-Most routine transactions no longer require a full counter visit. Through the **MyJPJ** mobile app and **JPJ eServices** you can check the validity of a driving licence, motor-vehicle licence (LKM) and insurance, renew road tax and licences, review summonses, and bid for personalised registration numbers via **eBid**. Renewals can also be made at JPJ state and branch offices, Urban Transformation Centres (UTC), 1JPJ counters, eServices kiosks, and Pos Malaysia offices.
+Beyond the counter, JPJ runs several digital platforms:
+
+- **MyJPJ app** — the mobile gateway to digital documents such as e-LKM.
+- **JPJeBid** — the online system for bidding on special number plates.
+- **RCVEP** — vehicle emission testing.
+
+## How is JPJ different from PUSPAKOM and PDRM?
+
+Three bodies are easy to confuse because they all touch the same vehicle:
+
+- **JPJ** is the regulator — it registers the vehicle, licenses the driver, collects road tax, and enforces the Road Transport Act 1987.
+- **PUSPAKOM** carries out the physical vehicle inspection that certain vehicles must pass before road tax is renewed; JPJ acts on the result.
+- **PDRM** (the police) is one of the authorities whose blacklist can block a renewal.
+
+JPJ also administers the **KEJARA** demerit-points system to act against traffic offenders and reduce road accidents.
+
+## Where is JPJ located?
+
+The headquarters is in Putrajaya, at No. 26 Jalan Tun Hussein, Presint 4, Pusat Pentadbiran Kerajaan Persekutuan, 62100 WP Putrajaya, with offices listed across every Malaysian state and federal territory.
 
 ## What's next
 
-If you are new to driving in Malaysia, start with the guide on obtaining a **driving licence**. To keep a vehicle legal on the road, see **road-tax renewal** and **PUSPAKOM vehicle inspections**, and if you have received a fine, see the guide on **traffic summonses (saman)**.
+For step-by-step tasks — renewing a driving licence, paying road tax, checking summonses, or bidding for a plate — start from the MyJPJ app or a JPJ office in your state. Related NegaraKu.md guides on driver licensing, road tax, and vehicle inspection go into each process in detail.

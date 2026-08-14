@@ -1,115 +1,110 @@
 ---
 topicId: "MY-GOV-0099"
-title: "Department of National Heritage (JWN)"
-seoTitle: "Department of National Heritage (JWN) Malaysia"
+title: "Department of National Heritage (JWN): Guardian of Malaysia's Heritage"
+seoTitle: "Department of National Heritage (JWN), Malaysia"
+socialTitle: "Who decides what counts as Malaysian heritage?"
 slug: "department-of-national-heritage"
 category: "government"
-subcategory: ["heritage-agency"]
-summary: "Malaysia's federal agency that gazettes, protects and promotes national heritage under the National Heritage Act 2005."
+subcategory: ["agencies"]
+summary: "The Department of National Heritage (Jabatan Warisan Negara, JWN) is Malaysia's federal agency under MOTAC that identifies, gazettes, conserves and enforces the nation's tangible, intangible, natural and underwater heritage under the National Heritage Act 2005 (Act 645)."
 tier: "4"
 mode: "practical"
 contentType: "agency"
 sensitivity: "none"
-answer: "The Department of National Heritage (Jabatan Warisan Negara, JWN) is the Malaysian federal agency responsible for identifying, conserving, gazetting and promoting the country's cultural and natural heritage. It was established on 1 March 2006 under the National Heritage Act 2005 (Act 645) and operates under the Ministry of Tourism, Arts and Culture (MOTAC). Its Commissioner of Heritage keeps the National Heritage Register, and the Minister declares items as National Heritage by order in the Gazette."
+answer: "The Department of National Heritage (Jabatan Warisan Negara, JWN) is the Malaysian federal agency that identifies, gazettes, conserves and enforces the nation's heritage. It was established on 1 March 2006, sits under the Ministry of Tourism, Arts and Culture (MOTAC), and runs the statutory machinery of the National Heritage Act 2005 (Act 645). Its Commissioner of Heritage maintains the National Heritage Register, while the Minister formally declares items — including living persons — as National Heritage by order in the Gazette."
 keyTakeaways:
-  - "JWN was established on 1 March 2006 under the National Heritage Act 2005 (Act 645) and sits under MOTAC."
-  - "The Commissioner of Heritage, appointed under section 4 of the Act, designates heritage sites and maintains the National Heritage Register."
-  - "The National Heritage Register (section 23) lists heritage sites, heritage objects, underwater cultural heritage and declared National Heritage."
-  - "Under section 67, the Minister may declare, by order in the Gazette, a site, object, underwater cultural heritage or a living person as a National Heritage."
-  - "JWN's mandate spans research and archaeology, conservation of buildings and monuments, gazetting and enforcement, intangible heritage and natural heritage."
+  - "JWN was established on 1 March 2006 and operates under MOTAC to preserve, conserve, protect and promote Malaysia's heritage."
+  - "It administers the National Heritage Act 2005 (Act 645), covering tangible, intangible, natural, underwater cultural heritage and treasure trove."
+  - "The Commissioner of Heritage, appointed under section 4, designates sites, registers objects and maintains the National Heritage Register (section 23)."
+  - "Under section 68 any person may nominate; under section 67 the Minister declares a National Heritage by Gazette order against nine statutory considerations."
+  - "Section 114 makes it an offence to alter, demolish or deal with a National Heritage without written approval — up to 5 years' jail or a fine up to RM50,000, or both."
 appliesTo: "Researchers, conservationists, property owners, students and heritage tourists who need to understand who protects and gazettes Malaysian heritage and how the process works."
 faq:
   - q: "What is the difference between JWN and the National Heritage Act?"
-    a: "The National Heritage Act 2005 (Act 645) is the statute; JWN is the department that administers it. The Act created the offices and register that JWN operates day to day."
-  - q: "Who decides that something becomes 'National Heritage'?"
-    a: "The Commissioner of Heritage first designates and registers items, but the formal declaration of National Heritage is made by the Minister by order published in the Gazette under section 67."
+    a: "The National Heritage Act 2005 (Act 645) is the statute; JWN is the department that administers it. The Act creates the offices, the Register and the declaration process that JWN operates day to day."
+  - q: "How does something get declared National Heritage?"
+    a: "Under section 68 any person may nominate an item in the prescribed form. Under section 67 the Minister may then declare it a National Heritage by order in the Gazette, weighing nine considerations such as historical importance, aesthetic value, rarity and cultural significance."
   - q: "Can a living person be declared National Heritage?"
-    a: "Yes. Section 67 allows the Minister to declare a living person as a National Heritage, recognising exceptional bearers of Malaysian cultural knowledge and skills."
+    a: "Yes. Section 67 allows the Minister to declare a living person a National Heritage, and the National Heritage (Declaration of Living Person as a National Heritage) Order 2012 provides the formal instrument for the 'Warisan Orang Hidup' category."
 lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 status: "in-review"
 aiAssisted: true
 reviewer: null
-version: "0.1"
+version: "0.2"
 revisions:
   - version: "0.1"
     date: 2026-08-10
     change: "Initial AI draft."
     reviewer: null
+  - version: "0.2"
+    date: 2026-08-14
+    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
+    reviewer: null
 verificationNeeded:
-  - "Exact current total of items on the National Heritage Register / declared National Heritage (sources cite phased listings from 2007 onward but no confirmed running total)."
-  - "Name of the current Commissioner of Heritage (Pesuruhjaya Warisan) as of 2026."
-  - "Exact section number establishing the National Heritage Council within Act 645."
-updated: 2026-08-10
+  - "Exact current total of items on the National Heritage Register across all categories (buildings, sites, objects, intangible, natural, underwater, living persons) as of 2026 — sources give scattered, dated figures."
+  - "Name of the current Commissioner of Heritage / Director-General of JWN (Ketua Pengarah) as of 2026."
+  - "Exact number and official names of JWN's current divisions (bahagian) — homepage references Heritage Register, Conservation, Intangible Cultural Heritage, Archaeology and World Heritage, but a definitive current list was not confirmed."
+  - "The 'Warisan Orang Hidup' (WAKOH) living-person declarations count and the precise scope of the National Heritage (Declaration of Living Person) Order 2012 (No. 369)."
+  - "Current JWN main phone number — one search returned +60 3-7800 0069 but this was not confirmed on the official site."
+updated: 2026-08-14
 sources:
   - title: "History of Establishment — Jabatan Warisan Negara"
-    url: "https://www.heritage.gov.my/en/info-jwn/sejarah-penubuhan.html"
-    publisher: "Department of National Heritage (JWN)"
+    url: "https://www.heritage.gov.my/en/jwn-info/history-of-establishment.html"
+    publisher: "Department of National Heritage (Jabatan Warisan Negara)"
   - title: "Vision, Mission & Objective — Jabatan Warisan Negara"
     url: "https://www.heritage.gov.my/en/jwn-info/vision-mission-objective.html"
-    publisher: "Department of National Heritage (JWN)"
-  - title: "Official Portal — Jabatan Warisan Negara"
+    publisher: "Department of National Heritage (Jabatan Warisan Negara)"
+  - title: "Official Portal of the Department of National Heritage"
     url: "https://www.heritage.gov.my/en/"
-    publisher: "Department of National Heritage (JWN)"
-  - title: "National Heritage Act 2005 (Act 645)"
-    url: "https://www.commonlii.org/my/legis/consol_act/nha2005164/"
-    publisher: "Commonwealth Legal Information Institute (CommonLII)"
+    publisher: "Department of National Heritage (Jabatan Warisan Negara)"
   - title: "Laws of Malaysia Reprint — Act 645 National Heritage Act 2005"
     url: "https://gtwhi.com.my/wp-content/uploads/2020/12/National-Heritage-Act-2005.pdf"
-    publisher: "George Town World Heritage Incorporated"
-  - title: "Ministry of Tourism, Arts and Culture Official Portal"
-    url: "https://www.motac.gov.my/en/"
-    publisher: "Ministry of Tourism, Arts and Culture (MOTAC)"
+    publisher: "Commissioner of Law Revision, Malaysia (official reprint, hosted by George Town World Heritage Incorporated)"
+  - title: "Ministry of Tourism, Arts and Culture"
+    url: "https://en.wikipedia.org/wiki/Ministry_of_Tourism,_Arts_and_Culture"
+    publisher: "Wikipedia"
+  - title: "Perintah Warisan Kebangsaan (Perisytiharan Orang Hidup Sebagai Warisan Kebangsaan) 2012 (No. 369)"
+    url: "https://mylaw.my/legislation/perintah-warisan-kebangsaan-perisytiharan-orang-hidup-sebagai-warisan-kebangsaan-2012"
+    publisher: "MyLaw.my"
 entity: "Department of National Heritage (Jabatan Warisan Negara)"
-relations:
-  - { rel: "related-to", to: "national-heritage-sites" }
-  - { rel: "related-to", to: "unesco-world-heritage" }
-  - { rel: "related-to", to: "national-cultural-policy" }
+relations: []
 related: []
-keywords: ["Department of National Heritage", "Jabatan Warisan Negara", "JWN", "National Heritage Act 2005", "Act 645", "National Heritage Register", "Commissioner of Heritage", "warisan negara", "MOTAC heritage"]
+keywords: ["Jabatan Warisan Negara", "JWN", "Department of National Heritage", "National Heritage Act 2005", "Act 645", "Warisan Kebangsaan", "National Heritage Register", "Commissioner of Heritage", "heritage.gov.my", "MOTAC", "gazette national heritage Malaysia", "Daftar Warisan Kebangsaan", "Warisan Orang Hidup"]
 ---
 
-The **Department of National Heritage** — *Jabatan Warisan Negara* (**JWN**) — is Malaysia's federal agency for identifying, conserving, gazetting and promoting the nation's cultural and natural heritage. It was established on **1 March 2006** under the **National Heritage Act 2005 (Act 645)** and operates under the **Ministry of Tourism, Arts and Culture (MOTAC)**. Its work ranges from archaeology and building conservation to the safeguarding of intangible traditions.
+When a shophouse in George Town gets a protection order, or a *mak yong* dancer is honoured as a living treasure, one federal body sits behind the decision: the **Department of National Heritage** — *Jabatan Warisan Negara* (**JWN**). Established on **1 March 2006**, JWN identifies, conserves, gazettes and protects Malaysia's heritage, and it operates under the **Ministry of Tourism, Arts and Culture (MOTAC)**. Its stated vision is to lead in exploring and preserving heritage treasures toward forging national identity and generating the national economy.
 
-## What JWN does
+## What law does JWN run?
 
-JWN's mandate, drawn from Act 645, covers a broad span of heritage work: research and archaeology, the conservation of buildings and monuments, gazetting and enforcement, intangible heritage, and natural heritage. In practice this means the department excavates and documents sites, restores gazetted monuments, records living traditions, and coordinates Malaysia's engagement with UNESCO World Heritage matters. Its stated mission is to "explore, restore and preserve" the national heritage toward sustainable development and global recognition.
+JWN administers the **National Heritage Act 2005 (Act 645)**, which received Royal Assent on 30 December 2005 and was gazetted the next day. The Act provides for the conservation of national heritage, natural heritage, tangible and intangible cultural heritage, underwater cultural heritage and treasure trove. It reaches across research, archaeology, conservation of buildings and monuments, gazetting and enforcement.
 
-## Legal foundation
+## Who holds the power?
 
-The department administers the **National Heritage Act 2005**, which replaced older laws such as the Antiquities Act 1976 and the Treasure Trove Act 1957 with a single modern framework. The Act created two key roles the department revolves around:
+The Act builds the department around a single statutory office. Under **section 4**, the Minister appoints a **Commissioner of Heritage** — a body corporate with perpetual succession, holding office for a term of not more than three years and eligible for reappointment. **Section 6** lists the Commissioner's functions: designating sites, registering objects, maintaining the Register, supervising conservation, promoting research, authorising excavations, liaising with State Authorities and advising the Minister. **Section 8** establishes a National Heritage Council, and Part V (sections 20–22) sets up a Heritage Fund controlled by the Commissioner.
 
-- **Commissioner of Heritage** (*Pesuruhjaya Warisan*), appointed under **section 4**, whose functions include designating heritage sites, registering objects and underwater cultural heritage, establishing and maintaining the Register, overseeing conservation and restoration, promoting research, and authorising and supervising excavations.
-- A **National Heritage Council** (*Majlis Warisan Kebangsaan*), an advisory body that supports heritage policy and decisions.
+## How does something become "National Heritage"?
 
-## The National Heritage Register
+The pipeline is public and statutory:
 
-**Section 23** requires the Commissioner to establish and maintain the **National Heritage Register**, and to make it available for public inspection. The Register records the heritage the department has recognised. Categories include:
+| Step | Section | What happens |
+| --- | --- | --- |
+| Nominate | s.68 | Any person may nominate a natural, tangible, intangible, living-person or underwater heritage in the prescribed form. |
+| Register | s.23, s.24 | The Commissioner designates sites and maintains the National Heritage Register, open to public inspection. |
+| Interim protection | s.33 | An Interim Protection Order can shield a site pending a designation decision. |
+| Declare | s.67 | The Minister declares a National Heritage by Gazette order, weighing nine considerations (historical importance, aesthetics, innovation, cultural association, rarity and more). |
 
-| Category | What it covers |
-| --- | --- |
-| Heritage sites | Places of natural or cultural heritage significance |
-| Heritage objects | Movable tangible heritage, including antiquities |
-| Underwater cultural heritage | Shipwrecks and submerged heritage in Malaysian waters |
-| Intangible cultural heritage | Traditions, performing arts, knowledge and skills |
-| Declared National Heritage | Items or persons elevated to National Heritage status |
+The *living person* route is real: the **National Heritage (Declaration of Living Person as a National Heritage) Order 2012** created the *Warisan Orang Hidup* category, honouring exceptional bearers of cultural knowledge.
 
-## How something becomes "National Heritage"
+## What happens if you damage one?
 
-Recognition happens in two steps. First, the Commissioner designates a site or registers an object into the Register. Then, under **section 67**, the **Minister may, by order published in the Gazette, declare** any heritage site, heritage object or underwater cultural heritage listed in the Register — **or any living person** — to be a **National Heritage**. The declaration is made against statutory criteria set out in section 67(2). The provision allowing a *living person* to be declared National Heritage is how Malaysia honours exceptional bearers of cultural knowledge and craft.
+Under **section 114**, no one may transfer, demolish, remove, alter, renovate, export or add to a National Heritage without the Commissioner's written approval, except in urgent necessity for safety. Contravention is an offence carrying imprisonment for up to five years, a fine not exceeding **RM50,000**, or both.
 
-## Where it sits
+## Where to reach JWN
 
-| Attribute | Detail |
-| --- | --- |
-| Malay name | Jabatan Warisan Negara (JWN) |
-| Established | 1 March 2006 |
-| Governing law | National Heritage Act 2005 (Act 645) |
-| Parent ministry | Ministry of Tourism, Arts and Culture (MOTAC) |
-| Headquarters | Menara PNB (Permodalan Nasional Berhad), Jalan Tun Razak, Kuala Lumpur |
-| Register | National Heritage Register (section 23) |
+JWN's headquarters is at Aras Mezanin, 15–20, Menara Permodalan Nasional Berhad (PNB), No. 201-A, Jalan Tun Razak, 50400 Kuala Lumpur; email `info@heritage.gov.my`.
 
 ## What's next
 
-To see the heritage JWN protects on the ground, read the companion articles on **national heritage sites** and **UNESCO World Heritage in Malaysia**, and the **national cultural policy** that frames the country's broader heritage agenda. For the authoritative statute and the current Register, consult JWN's official portal at heritage.gov.my and the National Heritage Act 2005 (Act 645).
+To distinguish JWN's National Heritage list from UNESCO World Heritage and state or local heritage gazettes, and to see the sites and living persons it protects, consult the National Heritage Register through JWN's official portal at heritage.gov.my and the full text of the National Heritage Act 2005 (Act 645).

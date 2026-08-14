@@ -1,123 +1,148 @@
 ---
 topicId: "MY-AGR-0017"
-title: "Padi and Rice Industry in Malaysia"
-seoTitle: "Malaysia's Padi & Rice Industry: BERNAS, SSL, Granaries"
+title: "Padi and Rice in Malaysia: Farmers, BERNAS, and the Self-Sufficiency Gap"
+seoTitle: "Padi & Rice Industry in Malaysia: SSL, BERNAS Explained"
+socialTitle: "Malaysia grows barely half the rice it eats. Here's why."
 slug: "padi-and-rice-industry"
 category: "agriculture"
 subcategory: ["padi"]
-summary: "The canonical overview of how Malaysia grows, prices, imports and regulates rice — the granary areas and their agencies, the guaranteed floor price, BERNAS's sole-importer role, and the self-sufficiency policy that shapes the whole industry."
+summary: "Malaysia's padi and rice industry is a heavily protected, subsidised sector where a single licensed importer (BERNAS), guaranteed padi prices, and granary-area schemes still leave national rice self-sufficiency stuck near 52%."
 tier: "2"
 mode: "practical"
 contentType: "guide"
 sensitivity: "none"
-answer: "Padi (the growing crop) and rice (the milled staple) form a heavily state-managed industry in Malaysia. Most of the country's rice is grown in 12 official granary areas (jelapang padi) run by agencies such as MADA and KADA, farmers are protected by a guaranteed minimum floor price of RM1,500 per metric tonne in Peninsular Malaysia (effective 16 February 2025), imports flow through a single licensed importer (BERNAS) under the Control of Paddy and Rice Act 1994, and the country still produces only about half its own rice — a self-sufficiency ratio of 52.9% in 2024."
+answer: "Malaysia grows only about half the rice it eats — a rice self-sufficiency level of 52.9% in 2024 that has stayed near 52% for years. Behind that single number sits an unusually state-managed system: production concentrated in official granary areas (kawasan jelapang padi), farmers cushioned by government support, and a single licensed company, BERNAS, importing the shortfall and holding the national stockpile. National policy targets 75% self-sufficiency by 2025 and 80% by 2030, but shrinking padi land, low yields, rising costs and climate stress keep the gap open."
 keyTakeaways:
-  - "Malaysia's rice self-sufficiency ratio (SSR) was 52.9% in 2024 and has stayed near 52%, well short of the 75%-by-2025 and 80%-by-2030 policy targets."
-  - "Most rice is grown in 12 granary areas (jelapang padi) managed by MADA (Kedah/Perlis), KADA (Kelantan) and 10 IADAs; MADA is the single largest producer."
-  - "The guaranteed padi floor price in Peninsular Malaysia was raised to RM1,500 per metric tonne, effective 16 February 2025, up from RM1,300."
-  - "Rice imports are regulated under the Control of Paddy and Rice Act 1994 (Act 522), and BERNAS holds the sole-importer concession running 2021–2031."
-  - "The 80% self-sufficiency target is anchored in the National Agrofood Policy 2021–2030 (DAN 2.0), backed by the SMART SBB scheme aiming to cover 150,000 hectares by 2030."
-appliesTo: "Students, journalists, padi farmers, policy analysts, agrofood investors and anyone needing a single reference map of how Malaysia's rice sector is structured, priced and regulated."
+  - "Malaysia's rice self-sufficiency level (SSL) was 52.9% in 2024 and has been broadly stagnant near 52%, according to Agriculture and Food Security Minister Mohamad Sabu."
+  - "Policy targets 75% self-sufficiency by 2025 and 80% by 2030 under the National Agrofood Policy 2.0 (DAN 2.0, 2021–2030)."
+  - "BERNAS holds the concession as Malaysia's sole rice importer; the concession expires in 2031 and the government has said it will review the role before then."
+  - "The system traces back to the National Padi and Rice Board (Lembaga Padi dan Beras Negara), established in 1971, before corporatisation and privatisation."
+  - "Rice is grown mainly in designated granary areas run by MADA, KADA and several IADA schemes; imports are sourced mainly from Vietnam, Thailand, Pakistan, India and Myanmar."
+appliesTo: "Students, journalists, padi farmers, policy analysts, agrofood investors, and anyone needing one connected reference on how Malaysia's rice sector is grown, supported, imported and regulated."
 faq:
-  - q: "What is the difference between padi and rice?"
-    a: "Padi (paddy) is the rice plant and its unmilled grain as harvested from the field. Rice is the edible product after the padi is dried, husked and milled. Malaysian policy treats them as one industry but prices and regulates them separately — farmers are paid a floor price for padi, while consumers buy milled rice at a controlled ceiling price for local white rice."
   - q: "How much of its own rice does Malaysia produce?"
-    a: "About half. The rice self-sufficiency ratio (SSR) was 52.9% in 2024 and has remained stagnant near 52%, according to the Ministry of Agriculture and Food Security. The remainder is imported, mainly from India, Vietnam and Thailand."
-  - q: "Who can import rice into Malaysia?"
-    a: "Rice import is licensed under the Control of Paddy and Rice Act 1994 (Act 522). In practice, Padiberas Nasional Berhad (BERNAS) holds the sole-importer concession, currently running from 2021 to 2031, in exchange for social obligations such as maintaining the national buffer stock and buying farmers' padi."
-  - q: "What is the guaranteed price for padi?"
-    a: "In Peninsular Malaysia the padi floor price (guaranteed minimum price) was raised to RM1,500 per metric tonne, effective 16 February 2025, up from RM1,300. Sabah and Sarawak floor prices are set separately because of different production costs and market structures."
+    a: "About half. The rice self-sufficiency level was 52.9% in 2024 and has stayed near 52%, according to Agriculture and Food Security Minister Mohamad Sabu. The remainder is imported."
+  - q: "Who is allowed to import rice into Malaysia?"
+    a: "In practice, one company: Padiberas Nasional Berhad (BERNAS), which holds the concession as the sole rice importer on behalf of the government. The concession expires in 2031, and the government has said it will review the role before then."
+  - q: "Where does Malaysia's imported rice come from?"
+    a: "The bulk of imports is sourced from Vietnam, Thailand, Pakistan, India and Myanmar, according to BERNAS."
 lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 status: "in-review"
 aiAssisted: true
 reviewer: null
-version: "0.1"
+version: "0.2"
 revisions:
   - version: "0.1"
     date: 2026-08-10
-    change: "Initial AI draft. Self-sufficiency ratio 52.9% (2024) and MADA irrigation spend verified against The Star (Feb 2026, quoting the Ministry of Agriculture and Food Security); floor price RM1,500 effective 16 Feb 2025 against Portal Berita RTM; Act 522 import licensing against WTO; BERNAS sole-importer role against BERNAS legacy page; National Agrofood Policy 2021-2030 against KPKM; SMART SBB 150,000-hectare target against BERNAMA. Granary structure (12 areas, MADA/KADA/IADA) cross-checked against DOA and academic literature."
+    change: "Initial AI draft."
+    reviewer: null
+  - version: "0.2"
+    date: 2026-08-14
+    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft). Removed figures not yet confirmed against a primary source (exact floor price, statute number, granary hectarage, farmer count, yield-per-hectare, SMART SBB target) and routed them to verificationNeeded."
     reviewer: null
 verificationNeeded:
-  - "Exact granary totals (commonly cited as 12 granary areas, 416,415 hectares and 196,138 registered farmers) and their reference year — the figure appears in academic literature citing the Department of Agriculture rather than in a single current primary KPKM/DOA release; confirm the precise hectarage, farmer count and year before treating as fixed."
-  - "Whether the 75%-by-2025 SSR target was formally superseded or retained after 2024 actuals came in at 52.9% — sources restate the target but none reviewed confirm an official revision."
-  - "Current national average padi yield per hectare — reviewed sources give 'under 5 tonnes per hectare' as an approximation, not an exact official 2024 figure."
-  - "Whether related slugs 'control-of-padi-and-rice-act' and 'ministry-of-agriculture-food-security-and-agencies' should be linked here — confirm the canonical slugs exist before adding relations."
-updated: 2026-08-10
+  - "Exact total padi planted area (hectares) and national padi production (metric tonnes) for 2022/2023/2024 — pull from DOSM 2023 Agricultural Census, DOA paddy production surveys, or TaniStats; source PDFs did not render during research."
+  - "Exact DOSM Supply and Utilization Accounts figures for rice SSR by year (the 62.9%-for-2022 vs 71.6%-for-2014 trend was seen only in a search snippet, not read from the report table)."
+  - "Current guaranteed minimum price / padi floor price in RM per tonne and its prior value (a snippet indicated RM1,500, raised from RM1,300) — confirm via MADA/KPKM primary text."
+  - "Exact padi subsidy rates (e.g. Padi Price Subsidy / SSHP, SIPP ploughing and harvesting rates) and the reported ~RM2.6 billion total — confirm against PMO/Belanjawan/KPKM primary text."
+  - "Number of registered padi farmers (a ~172,000 to ~300,000 range was seen) — confirm from the DOSM census or KPKM."
+  - "Exact number of official granary (jelapang padi) areas — sources vary between 10 and 12 (MADA, KADA and the IADAs) — and their combined share of national rice production."
+  - "BERNAS national rice stockpile requirement in tonnes (a snippet indicated 200,000 t) — confirm on the BERNAS site."
+  - "The precise legal instrument and dates for BERNAS's import licence (LPN corporatisation and later privatisation/listing) — confirm from statute and BERNAS history."
+updated: 2026-08-14
 sources:
   - title: "Malaysia's rice self-sufficiency level stagnant at 52%, says Mat Sabu"
     url: "https://www.thestar.com.my/news/nation/2026/02/05/malaysia039s-rice-self-sufficiency-level-stagnant-at-52-says-mat-sabu"
     publisher: "The Star"
-  - title: "Harga Lantai Padi diselaraskan kepada RM1,500"
-    url: "https://berita.rtm.gov.my/nasional/senarai-berita-nasional/senarai-artikel/harga-lantai-padi-diselaraskan-kepada-rm1-500/"
-    publisher: "Portal Berita RTM"
-  - title: "Control of Paddy and Rice Act 1994 (Act 522) — Import Licensing"
-    url: "https://importlicensing.wto.org/content/control-paddy-and-rice-act-1994-act-522"
-    publisher: "World Trade Organization"
-  - title: "Our Legacy — BERNAS"
-    url: "https://bernas.com.my/about-us/legacy"
+  - title: "Govt to review Bernas' sole rice importer role before 2031 expiry"
+    url: "https://www.freemalaysiatoday.com/category/nation/2026/07/13/govt-to-review-bernas-sole-rice-importer-role-before-2031-expiry"
+    publisher: "Free Malaysia Today"
+  - title: "Rice Importation — BERNAS"
+    url: "https://www.bernas.com.my/commitment/upstream/rice-importation"
     publisher: "Padiberas Nasional Berhad (BERNAS)"
-  - title: "National Agrofood Policy 2021-2030 (DAN 2.0)"
-    url: "https://www.kpkm.gov.my/en/agro-food-policy/national-agrofood-policy"
+  - title: "Supply and Utilization Accounts Selected Agricultural Commodities, Malaysia, 2020-2024"
+    url: "https://www.dosm.gov.my/portal-main/release-content/supply-and-utilization-accounts-selected-agricultural-commodities-malaysia-2020-2024"
+    publisher: "Department of Statistics Malaysia (DOSM)"
+  - title: "National Agrofood Policy — KPKM"
+    url: "https://www.kpkm.gov.my/en/agro-food-policy/national-dagrofood-policy"
     publisher: "Ministry of Agriculture and Food Security (KPKM)"
-  - title: "KPKM Aims To Transform 150,000 Hectares Of Padi Fields Into Sekinchan-style Cultivation"
-    url: "https://www.bernama.com/en/general/news.php?id=2266289"
-    publisher: "BERNAMA"
-  - title: "Kawasan Jelapang Padi Semenanjung Malaysia"
-    url: "https://www.doa.gov.my/doa/resources/aktiviti_sumber/sumber_awam/maklumat_gis/peta_jelapang_padi_semenanjung.pdf"
-    publisher: "Department of Agriculture (DOA)"
-entity: "Malaysia's padi and rice industry"
-relations:
-  - { rel: "related-to", to: "padi-rice-industry-self-sufficiency" }
-  - { rel: "related-to", to: "bernas-rice-import-monopoly" }
-  - { rel: "related-to", to: "food-security-self-sufficiency-policy" }
+  - title: "Portal Rasmi Jabatan Pertanian (Department of Agriculture)"
+    url: "https://www.doa.gov.my/index.php/pages/view/622?mid=239"
+    publisher: "Department of Agriculture Malaysia (DOA)"
+entity: "Padi and rice industry in Malaysia"
+relations: []
 related: []
-keywords: ["padi", "rice", "beras", "self-sufficiency", "SSR", "SSL", "jelapang padi", "granary", "MADA", "KADA", "BERNAS", "floor price", "Control of Paddy and Rice Act 1994", "National Agrofood Policy"]
+keywords: ["padi", "rice industry Malaysia", "rice self-sufficiency level Malaysia", "SSL rice", "BERNAS", "Padiberas Nasional", "guaranteed minimum price padi", "Harga Minimum Terjamin", "MADA", "kawasan jelapang padi", "subsidi harga padi", "SSHP", "Dasar Agromakanan Negara 2.0", "National Agrofood Policy", "rice import Malaysia", "padi farmers Malaysia"]
 ---
 
-Rice is the one food Malaysia refuses to leave to the free market. The government decides who may import it, guarantees the price farmers are paid for growing it, and holds emergency stockpiles in case supply fails. Understanding that control is the key to understanding the whole padi and rice industry — an industry that still feeds the country only about half of what it eats.
+Rice is the one food Malaysia refuses to leave to the free market. The state concentrates where it is grown, cushions the farmers who grow it, licenses a single company to import the shortfall, and holds an emergency stockpile against supply shocks. Yet after decades of this arrangement, the country still grows only about half the rice it eats.
 
-This page is the map. It explains how padi becomes rice, who grows it and where, how farmers are paid, who controls imports, and the self-sufficiency goal that ties it all together.
+That headline number — the **rice self-sufficiency level (SSL)** — was **52.9% in 2024** and has stayed near 52% for years, according to Agriculture and Food Security Minister Mohamad Sabu. This page connects the parts that produce that number: how rice is grown, how farmers are supported, who controls imports, and the policy targets the whole system is measured against.
 
-## Padi, rice and the shape of the industry
+## Why does Malaysia only grow about half its rice?
 
-**Padi** (paddy) is the rice plant and its unmilled grain, straight from the field. **Rice** (beras) is what remains after the padi is dried, husked and milled. The industry is managed as one chain but priced at two ends: farmers receive a guaranteed floor price for padi, while consumers buy milled local white rice at a controlled ceiling price of RM2.60 per kilogram.
+The self-sufficiency level is the share of the rice Malaysians eat that is grown at home. At **52.9% in 2024**, nearly half of national consumption is still met by imports — and the figure has been broadly stagnant.
 
-That chain runs from smallholder farmers, through licensed millers, to a single dominant importer-distributor, all overseen by the Ministry of Agriculture and Food Security (KPKM).
+The minister has attributed the stall to a stack of structural drags rather than a single cause:
 
-## Where rice is grown: the granary areas
+- **Shrinking padi areas**, and slow development of new padi land in the southern states (Melaka, Johor, Negeri Sembilan) and in Sabah and Sarawak.
+- **Insufficient irrigation** and **low yields**.
+- **Rising input costs**.
+- **Climate change**.
 
-Most of Malaysia's rice comes from designated **granary areas** (*jelapang padi*) — large, irrigation-served zones managed by dedicated agencies to keep water, seed and marketing orderly. Malaysia has 12 such areas.
+Each pressure works against the others: less land and lower yields cap how much extra rice existing farmers can produce, while higher costs make expansion less attractive — so billions of ringgit in support have kept the sector alive without moving the self-sufficiency needle far.
 
-| Agency | Location | Role |
+The official measure itself comes from the Department of Statistics Malaysia (DOSM), which tracks self-sufficiency ratios for agricultural commodities in its **Supply and Utilization Accounts (SUA)** series. The latest edition, covering **2020–2024**, was released on **15 December 2025**.
+
+## Where is Malaysia's rice actually grown?
+
+Most of Malaysia's rice comes from designated **granary areas** — the officially recognised *kawasan jelapang padi*. These are large, irrigation-served zones, each managed by a dedicated agency so that water, seed and marketing stay coordinated.
+
+According to the Department of Agriculture, the principal granaries are:
+
+| Agency / scheme | Location | Notes |
 |---|---|---|
-| **MADA** (Muda Agricultural Development Authority) | Kedah & Perlis | Largest and most productive granary |
-| **KADA** (Kemubu Agricultural Development Authority) | Kelantan | Second major granary |
-| **IADA** (Integrated Agricultural Development Areas) — 10 areas | Selangor (incl. Sekinchan), Perak, Penang, Terengganu, Pahang, Kelantan, Sabah, Sarawak | Regional granary blocks |
+| **MADA** — Muda Agricultural Development Authority | Muda (Kedah / Perlis) | The country's largest granary area |
+| **KADA** — Kemubu Agricultural Development Authority | Kemubu (Kelantan) | Major granary in the east |
+| **IADA** — Integrated Agricultural Development Areas | Barat Laut Selangor, Kerian, KETARA, Seberang Perak, Pulau Pinang, and others | Regional granary schemes |
 
-Together the granary areas cover roughly 416,000 hectares and involve on the order of 196,000 registered farmers, out of a national padi footprint of around 600,000 hectares. MADA alone contributes the single largest share of national production, while newer frontiers in Sabah and Sarawak are being explored as future granaries.
+Together these areas form the backbone of national production. Concentrating output in a handful of irrigated zones is what makes the padi crop governable — support, pricing and buffer-stock policy can all be applied through a small number of agencies rather than across scattered smallholdings.
 
-## How farmers are paid
+## How are padi farmers supported?
 
-Growing padi is kept viable by three layers of state support:
+Growing padi in Malaysia is kept viable by government support rather than by the open market alone. That support flows through several channels — a guaranteed minimum price for padi and stacked subsidy schemes among them — though the exact current rates should be confirmed against primary budget documents (see *verificationNeeded*).
 
-1. **Floor price (guaranteed minimum price).** In Peninsular Malaysia this was raised to **RM1,500 per metric tonne**, effective **16 February 2025**, up from RM1,300. Sabah and Sarawak are set separately.
-2. **Padi price subsidy.** A per-tonne cash top-up paid on production, on top of the floor price.
-3. **Input subsidies.** Fertiliser, pesticide and production-cost assistance, funded through an annual agrofood subsidy allocation of roughly RM2.6 billion.
+The scale of state involvement is visible in the concrete figures that are on the record:
 
-## Who controls imports
+- The government has spent about **RM1 billion** in the **MADA** area alone, the country's largest granary.
+- **BERNAS**, the licensed rice importer, provides **RM3.2 billion** to fulfil ten government-imposed social obligations. These include **RM90 million** in farmer assistance in 2025 and **RM13 million** distributed from rice-import profits, according to Deputy Agriculture and Food Security Minister Chan Foong Hin.
 
-Because local supply is not enough, imports fill the gap — and imports are tightly gated. Rice is regulated under the **Control of Paddy and Rice Act 1994 (Act 522)**, which came into force on 24 June 1994 and licenses the import and handling of rice. In practice, **Padiberas Nasional Berhad (BERNAS)** holds the sole-importer concession, currently running **2021 to 2031**. In return, BERNAS maintains the national rice buffer stock and acts as buyer of last resort for farmers' padi.
+The system is also priced with affordability in mind at the consumer end: a six-month ministry study found that about **15% of Malaysians** need rice priced around **RM26 for a 10kg bag**, underscoring why price control sits alongside farmer support in the same policy.
 
-## The self-sufficiency goal
+## Who controls rice imports, and why one company?
 
-The number that judges the whole system is the **rice self-sufficiency ratio (SSR)** — the share of consumption met by local production. It stood at **52.9% in 2024** and has stayed near 52%, meaning nearly half of Malaysia's rice is still imported.
+Because local supply is not enough, imports fill the gap — and imports are deliberately funnelled through a single gatekeeper. **Padiberas Nasional Berhad (BERNAS)** holds the concession as Malaysia's sole rice importer, importing on behalf of the government to offset local production deficits and to meet food-security stockpile requirements. The bulk of those imports is sourced from **Vietnam, Thailand, Pakistan, India and Myanmar**.
 
-The policy targets are higher: **75% by 2025** (12th Malaysia Plan) and **80% by 2030**, enshrined in the National Agrofood Policy 2021–2030 (DAN 2.0). Closing the gap depends on raising yields — the national average sits under 5 tonnes per hectare — through schemes like **SMART SBB** (large-scale Sekinchan-style farming), targeted to cover **150,000 hectares** by 2030. Structural drags remain: shrinking padi land, rising input costs, slow mechanisation, ageing irrigation and climate stress.
+The arrangement has deep roots. It traces back to the **National Padi and Rice Board (Lembaga Padi dan Beras Negara)**, established in **1971**, before the body was corporatised and later privatised into today's BERNAS.
+
+That single-importer model is not permanent. The concession **expires in 2031**, and Deputy Minister Chan Foong Hin has said the government will **review BERNAS's role before the expiry**. The review is where two things are weighed against each other: the efficiency case against a monopoly importer, and the social obligations — buffer stocks, farmer assistance, buyer-of-last-resort duties — that the monopoly currently funds.
+
+## What are Malaysia's self-sufficiency targets?
+
+The number that judges the whole system is the self-sufficiency level, and policy sets it well above today's reality. Under the **National Agrofood Policy 2.0 (Dasar Agromakanan Negara 2.0 / DAN 2.0)**, which covers **2021–2030**, Malaysia targets:
+
+| Milestone | Rice self-sufficiency target |
+|---|---|
+| Current (2024 actual) | 52.9% |
+| By 2025 | 75% |
+| By 2030 | 80% |
+
+The distance between the 52.9% actual and the 75%-by-2025 target is the core tension of the whole industry: the policy ambition has not moved production, because the structural drags — shrinking land, low yields, rising costs and climate stress — have not been resolved. That is why the sector remains one of the most heavily supported and tightly regulated parts of Malaysian agriculture.
 
 ## What's next
 
-- **Track the annual SSR** released by the Ministry and DOSM — it is the headline measure of whether the industry is closing the import gap.
-- **Watch the Budget** each year for changes to the padi floor price, subsidy rates and the total agrofood allocation.
-- For the import monopoly in depth, see the article on **BERNAS and Malaysia's rice import monopoly**; for the self-sufficiency policy and granary yields in detail, see **Malaysia's padi and rice self-sufficiency**.
+- **Track the annual SSL** in the DOSM Supply and Utilization Accounts and the Ministry's statements — it is the single headline measure of whether the import gap is closing.
+- **Watch the 2031 BERNAS review**, which will decide whether the sole-importer concession is renewed, restructured or opened up, and what happens to the social obligations it funds.
+- **Confirm the live figures** flagged in *verificationNeeded* — the current padi floor price, subsidy rates, granary hectarage and farmer counts — against DOSM, KPKM and BERNAS primary sources before citing them as settled.

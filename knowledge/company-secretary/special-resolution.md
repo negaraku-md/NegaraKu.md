@@ -1,169 +1,156 @@
 ---
 topicId: "MY-CS-0060"
-title: "Special vs Ordinary Resolution"
-seoTitle: "Special vs Ordinary Resolution: Malaysia CA 2016"
+title: "Special vs Ordinary Resolution in Malaysia: Which One Your Company Needs"
+seoTitle: "Special vs Ordinary Resolution Malaysia (CA 2016)"
+socialTitle: "75% or Just 50%? The Resolution Rule That Trips Up Malaysian Directors"
 slug: "special-resolution"
 category: "company-secretary"
 subcategory: ["meetings-resolutions"]
-summary: "The difference between an ordinary resolution (simple majority) and a special resolution (75%) under the Companies Act 2016, when each is required, and the notice and labelling rules that make a special resolution valid."
-
+summary: "Under Malaysia's Companies Act 2016, an ordinary resolution passes on a simple majority (over 50%) while a special resolution needs at least 75% and longer notice — this guide maps every common corporate action to the resolution type and statute section it requires."
 tier: "3"
 mode: "practical"
 contentType: "guide"
 sensitivity: "none"
-
-answer: "Under the Companies Act 2016, an ordinary resolution passes by a simple majority — more than half of the members who vote (s.291) — while a special resolution needs a majority of not less than 75% (s.292(1)). A meeting to pass a special resolution needs 21 days' notice (s.292(1)), and a special resolution passed in writing must state on its face that it is a special resolution (s.292(2)). Where the Act and the constitution are silent on which type is required, an ordinary resolution suffices (s.290(3)); the Act reserves the special resolution for a defined list of major decisions such as amending the constitution (s.36), changing the name (s.28) and reducing capital (ss.116–117)."
+answer: "Under the Companies Act 2016, an ordinary resolution passes on a simple majority — more than half of the members who are entitled to vote and do vote (section 291). A special resolution needs a majority of not less than 75% (section 292) and at least 21 days' notice, against 14 days for ordinary business. Which one you need is fixed by the action: routine business runs on ordinary resolutions, while structural decisions — amending the constitution, changing the name, reducing capital, winding up — are reserved by statute for a special resolution."
 keyTakeaways:
-  - "Ordinary resolution = more than half of the members who vote, in person, by proxy, or on a written resolution — s.291"
-  - "Special resolution = not less than 75% of those members — s.292(1)"
-  - "A meeting to pass a special resolution needs 21 days' notice, regardless of company type — s.292(1)"
-  - "The default is ordinary: where neither the Act nor the constitution specifies the type, an ordinary resolution applies — s.290(3)"
-  - "A written special resolution is not a special resolution unless it says so and is passed as one — s.292(2)"
-  - "Special notice (28 days, s.322) is a separate concept — it does not turn an ordinary resolution into a special one"
-appliesTo: "Directors, shareholders and company secretaries deciding which type of members' resolution a decision requires, and how to word and notice it, in a Malaysian company."
-
+  - "Ordinary resolution = simple majority, more than half of members who are entitled to vote and do vote (section 291)."
+  - "Special resolution = not less than 75% of those members (section 292)."
+  - "A special resolution needs at least 21 days' notice; a meeting for ordinary business needs at least 14 days."
+  - "Private companies now pass resolutions by written resolution (section 290); a proposed written resolution lapses if not passed within 28 days of circulation (section 307)."
+  - "The action decides the type: constitution (s.36), name change (s.28), capital reduction (s.116/117) and members' voluntary winding up (s.439) all require a special resolution."
+appliesTo: "Directors, shareholders and company secretaries of a Malaysian company (especially a private Sdn Bhd) deciding which type of members' resolution a specific decision requires and how to pass it."
 faq:
   - q: "What percentage passes an ordinary resolution versus a special resolution?"
-    a: "An ordinary resolution needs a simple majority — more than half of the members entitled to vote who vote in person, by proxy where allowed, or on a written resolution (s.291 of the Companies Act 2016). A special resolution needs a majority of not less than 75% of those members (s.292(1)). The percentages are of votes cast, not of the whole membership, unless the constitution says otherwise."
+    a: "An ordinary resolution needs a simple majority — more than half of the members who are entitled to vote and do vote in person, by proxy, or on a written resolution (section 291 of the Companies Act 2016). A special resolution needs a majority of not less than 75% of those members (section 292). On a poll, the same thresholds apply to the total voting rights of the members voting."
   - q: "How much notice does a special resolution need?"
-    a: "A meeting called to pass a special resolution needs at least 21 days' notice under s.292(1) — longer than the 14 days a private company meeting otherwise needs under s.316(1). The constitution can require more, never less. The 21 days applies to both private and public companies."
-  - q: "Is special notice the same as a special resolution?"
-    a: "No. A special resolution is a 75% majority (s.292). Special notice is a separate 28-day member-to-company requirement (s.322(1)) that the Act imposes for a few specific resolutions — such as removing a director of a public company (s.206(3)) or removing an auditor (s.277). A resolution can require special notice and still be an ordinary resolution."
+    a: "A special resolution requires at least 21 days' notice, whereas a meeting for ordinary business requires at least 14 days' notice under the Companies Act 2016."
+  - q: "How does a private company pass a resolution without holding a meeting?"
+    a: "Only private companies may pass resolutions by written resolution (section 290). The procedure is set out in sections 297 to 308, and a proposed written resolution lapses if it is not passed within 28 days of circulation (section 307). When passed in writing, an ordinary resolution is agreed by a simple majority and a special resolution by at least 75% (section 306(4))."
   - q: "Which decisions require a special resolution?"
-    a: "The Act lists them expressly. The common ones are altering the constitution (s.36(1)), changing the company name (s.28), reducing share capital (s.116 court route or s.117 solvency-statement route) and a members' voluntary winding up (s.439(1)). Where no provision specifies the type, s.290(3) makes it an ordinary resolution."
-  - q: "Does a written special resolution work the same way?"
-    a: "The 75% threshold is the same (s.292(1)(b)), but s.292(2) adds a formality: a resolution of a private company passed as a written resolution is not a special resolution unless it is stated to be a special resolution and passed as one. A circular that reaches 90% agreement but never uses the words 'special resolution' is, on the face of the Act, not one."
-
-verificationNeeded:
-  - "Exact section and threshold for variation of class rights (commonly cited as s.91) — omitted from the tables pending confirmation against the statute text."
-  - "Exact subsection governing voluntary conversion of company status between private and public (commonly cited as s.41) and whether it requires a special resolution — omitted pending confirmation."
-
+    a: "Altering, adopting or revoking the constitution (section 36), changing the company name (section 28), reducing share capital by the court route (section 116) or the solvency-statement route (section 117), and commencing a members' voluntary winding up (section 439) all require a special resolution."
 lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
-
 status: "in-review"
 aiAssisted: true
 reviewer: null
-version: "0.1"
+version: "0.2"
 revisions:
   - version: "0.1"
     date: 2026-08-10
     change: "Initial AI draft."
     reviewer: null
-
-updated: 2026-08-10
+  - version: "0.2"
+    date: 2026-08-14
+    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
+    reviewer: null
+verificationNeeded:
+  - "Short-notice consent thresholds under s.316(5): private company 90% (constitution may raise up to 95%), public company 95% — appeared only in secondary summaries; confirm against the official Act 777 text."
+  - "7-day deadline to lodge the members' voluntary winding-up resolution with SSM under s.439(2)(a) — confirm exact section and day count against statute/SSM form."
+  - "Exact s.316 subsection breakdown for ordinary-business notice (private and public both 14 days, and the 21-day rule for special resolutions) — confirm precise subsection numbering."
+  - "Change of company name being s.28 specifically (vs neighbouring sections) — confirm section number against Act 777."
+  - "Whether show-of-hands vs poll mechanics are in s.291(2)/(3) and s.292(3)/(4) exactly as summarised — confirm subsection numbers."
+  - "30-day deadline to lodge an amended constitution after a s.36 special resolution and the RM10,000 / RM500-per-day penalty — confirm against statute (secondary source only)."
+updated: 2026-08-14
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022 — ss.290–293 resolutions"
+  - title: "Companies Act 2016 (Act 777), official English text"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-    date: "2022-08-01"
-  - title: "Companies Act 2016 (Act 777) — ss.28 change of name, 36 amendment of constitution, 116–117 reduction of capital, 439 and 465 winding up"
-    url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-    date: "2022-08-01"
-  - title: "Companies Act 2016 (Act 777) — official consolidated text"
-    url: "https://www.investmalaysia.gov.my/media/isofddz0/companies-act-2016.pdf"
-    publisher: "Malaysian Investment Development Authority (MIDA)"
-  - title: "Application for Change of Name of a Company — Section 28"
-    url: "https://www.ssm.com.my/Pages/Legal_Framework/PDF%20Tab%202/4._application_for_change_of_name_-_section_28.pdf"
-    publisher: "SSM"
-
-entity: "Members' resolutions under the Companies Act 2016 (ordinary and special)"
-relations:
-  - { rel: "governs", to: "companies-act-2016" }
-  - { rel: "administered-by", to: "ssm" }
-  - { rel: "related-to", to: "resolution-notice-periods" }
-  - { rel: "related-to", to: "written-resolutions" }
-related: ["resolution-notice-periods", "written-resolutions", "capital-reduction", "remove-a-director", "board-meetings-and-minutes"]
-keywords: ["special resolution Malaysia", "ordinary resolution Companies Act 2016", "75 per cent special resolution", "section 292 special resolution", "section 291 ordinary resolution", "CA 2016 resolutions"]
+    publisher: "Companies Commission of Malaysia (SSM)"
+  - title: "Three Types of Shareholder Meetings in Malaysia"
+    url: "https://malaysia.acclime.com/guides/shareholder-meetings/"
+    publisher: "Acclime Malaysia"
+  - title: "Malaysian Companies Act 2016: an overview"
+    url: "https://www.accaglobal.com/gb/en/student/exam-support-resources/fundamentals-exams-study-resources/f4/technical-articles/mys-comp-act.html"
+    publisher: "ACCA (Association of Chartered Certified Accountants)"
+  - title: "A Guide to Company Constitutions under Malaysia's Companies Act 2016"
+    url: "https://mahwengkwai.com/guide-to-company-constitutions-under-malaysias-companies-act-2016/"
+    publisher: "MahWengKwai & Associates"
+  - title: "Companies Act 1965, Section 152 — Special resolutions"
+    url: "https://www.ssm.com.my/acts/fscommand/act125s0152.htm"
+    publisher: "Companies Commission of Malaysia (SSM)"
+entity: "Companies Act 2016 (Malaysia)"
+relations: []
+related: []
+keywords: ["special resolution", "ordinary resolution", "special resolution vs ordinary resolution", "Companies Act 2016", "special resolution 75%", "ordinary resolution simple majority", "section 292 Companies Act 2016", "section 291 Companies Act 2016", "written resolution private company Malaysia", "special resolution notice period", "members resolution Malaysia", "resolusi khas", "SSM resolution Malaysia"]
 ---
 
-Two words decide how hard a shareholder decision is to pass. Call it an **ordinary
-resolution** and a bare majority carries it. Call it a **special resolution** and
-you need three-quarters of the room, three weeks' notice, and — in writing — the
-right words on the page. Getting the label wrong does not just risk a vote; it can
-make the resolution a legal nullity.
+Two numbers separate a routine shareholder decision from a structural one: 50% and
+75%. Get the resolution type wrong and you either fall short of the majority the
+Companies Act 2016 demands, or you give three weeks' notice for something that only
+needed two. This guide answers the real question — which resolution does *your*
+specific action need, and how do you actually pass it as a private Sdn Bhd?
 
-## The core difference
+## What is the actual difference between the two?
 
 Both resolution types are defined back-to-back in the Companies Act 2016, and both
-cover votes at a meeting *and* votes on a written resolution.
+cover votes at a meeting and votes on a written resolution.
 
 | | Ordinary resolution | Special resolution |
 | --- | --- | --- |
 | Majority | **More than half** of members who vote | **Not less than 75%** of members who vote |
-| Section | s.291 | s.292(1) |
-| Meeting notice | 14 days private / 21 days public AGM (s.316) | **21 days**, any company (s.292(1)) |
-| Written form | Passed on more than half agreeing (s.291) | 75% agreeing **and** stated to be special (s.292(2)) |
-| When it applies | The default — s.290(3) | Only where the Act or constitution says so |
+| Governing section | s.291 | s.292 |
+| On a poll | More than half of the total voting rights | Not less than 75% of the total voting rights |
+| Notice period | At least **14 days** (ordinary business) | At least **21 days** |
 
-The majority is measured against the votes **cast**, not the whole membership,
-unless the constitution provides otherwise. On a written resolution, s.293 gives
-each member one vote per share held (subject to the constitution).
+The majority is measured against the members who are entitled to vote and actually
+do vote — in person, by proxy, or on a written resolution — not against the whole
+membership. On a poll, an ordinary resolution passes on members representing more
+than half of the total voting rights (s.291), while a special resolution needs
+members representing not less than 75% of the total voting rights (s.292).
 
-## When the Act demands a special resolution
+## How does a private Sdn Bhd actually pass one today?
+
+Most Malaysian companies are private, and the practical reality is that they rarely
+pass resolutions in a physical meeting at all. Only a public company is required to
+hold an annual general meeting under section 340; private companies are no longer
+required to hold AGMs.
+
+Instead, only private companies may pass resolutions by **written resolution**
+(section 290). The procedure is set out in sections 297 to 308. Two mechanics matter:
+
+- A proposed written resolution **lapses if it is not passed within 28 days** of
+  circulation (section 307).
+- When passed in writing, an ordinary resolution is agreed by a simple majority and a
+  special resolution by at least 75% (section 306(4)) — the same thresholds as a
+  meeting.
+
+So the threshold does not change when you drop the meeting; only the mechanism does.
+
+## Which action needs which resolution?
 
 The Act does not leave the choice to the company. For a defined set of structural
-decisions it prescribes a special resolution, and nothing less will do:
+decisions it prescribes a special resolution, and nothing less will do.
 
-| Decision | Section |
-| --- | --- |
-| Alter or amend the constitution | s.36(1) |
-| Change the company's name | s.28(1) |
-| Reduce share capital — court-confirmed route | s.116 |
-| Reduce share capital — solvency-statement route | s.117 |
-| Members' voluntary winding up | s.439(1) |
-| Resolve that the company be wound up by the Court | s.465(1)(a) |
+| Decision | Resolution | Section |
+| --- | --- | --- |
+| Alter, adopt or revoke the constitution | Special | s.36 |
+| Change the company's name | Special | s.28 |
+| Reduce share capital — court-confirmed route | Special | s.116 |
+| Reduce share capital — solvency-statement route | Special | s.117 |
+| Members' voluntary winding up | Special | s.439 |
 
-Several of these carry a lodgement duty that runs from the resolution, not from the
-meeting: a constitution amendment must be lodged with the Registrar within **30
-days** (s.36(3)), and a change of name notified within **30 days** (s.28). A capital
-reduction takes effect only on lodgement, not on the vote.
+A company may alter, adopt or revoke its constitution only by a special resolution
+requiring not less than 75% of members (section 36). Watch the follow-on step: after
+a section 36 resolution, the company must lodge the amended constitution with SSM
+within 30 days of the resolution's date. A members' voluntary winding up is commenced
+by the members passing a special resolution to wind up the company (section 439).
 
-## The default is ordinary — s.290(3)
+For everything the Act does not single out, an ordinary resolution and its simple
+majority carry the day.
 
-For everything the Act does *not* single out, s.290(3) is the catch-all: where
-neither the Act nor the constitution specifies the type of resolution, an ordinary
-resolution suffices. So the routine business of a company runs on simple majorities:
+## Has this rule always been 75%?
 
-| Decision | Section |
-| --- | --- |
-| Appoint a director (subsequent appointment) | s.202 |
-| Remove a director of a private company | s.206(1)(a) |
-| Approve directors' fees at a general meeting (public/listed) | s.230(1) |
-| Anything the Act and constitution leave unspecified | s.290(3) |
-
-Note the removal example. Section 206(1)(a) lets a private company remove a director
-by *ordinary* resolution — a low bar — yet it must still convene a meeting to do it,
-and the removal attracts special notice. An easy threshold is not the same as an
-easy procedure.
-
-## The labelling trap
-
-A special resolution has a formality an ordinary one does not. Under s.292(2), a
-private company's written resolution **is not a special resolution unless it is
-stated to be a special resolution and passed as one**. For a meeting, s.292(5)(a)
-requires the notice to include the text of the resolution and state that it is
-proposed as a special resolution — and s.292(5)(b) then makes that binding: once the
-notice says "special", the resolution can only be passed as a special resolution.
-
-This is the single most common technical defect in Malaysian resolutions: a document
-that clears 75% but never carries the words. On the face of s.292(2), it fails.
-
-## Special notice is a different thing
-
-Do not confuse a **special resolution** (75% majority, s.292) with **special notice**
-(28 days' notice from the proposer to the company, s.322(1)). Special notice attaches
-to a handful of *ordinary* resolutions — removing a director of a public company
-(s.206(3)), removing an auditor (s.277). The resolution stays ordinary; only the
-notice is heavier. Guides that treat "special" as one idea get both wrong.
+Yes. This is stable statute law. Under the predecessor Companies Act 1965 (section
+152), a special resolution already required a majority of not less than three-fourths
+of members and not less than 21 days' notice. The 2016 Act carried that
+three-quarters / 21-day standard forward, which is why the numbers you find in older
+guidance still hold.
 
 ## What's next
 
-Confirm your constitution before you rely on the Act's defaults — a constitution can
-raise a threshold or reclassify a decision, though it can never shorten the 21-day
-special-resolution notice. For every notice period in one table, see
-`resolution-notice-periods`; for passing either type without a meeting, see
-`written-resolutions`; and for a worked example of a special resolution in practice,
-see `capital-reduction`.
+Confirm your company's constitution before relying on the Act's defaults — a
+constitution can raise a threshold, though it cannot shorten the 21-day
+special-resolution notice. Then match your specific action to the table above: if it
+appears there, you need a special resolution and its 75% majority; if it does not, an
+ordinary resolution is enough. Private companies should default to the written-
+resolution route under sections 297 to 308, mindful of the 28-day lapse.

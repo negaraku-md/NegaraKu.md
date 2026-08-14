@@ -1,107 +1,118 @@
 ---
 topicId: "MY-EMP-0057"
-title: "HRD Corp — Human Resource Development"
-seoTitle: "HRD Corp (HRDF) Malaysia: Levy & Registration Guide"
+title: "HRD Corp: How Malaysia Funds Workforce Training"
+seoTitle: "HRD Corp (HRDF): Levy, Registration & Claims"
+socialTitle: "That 1% cut on your Malaysian payroll — here's where it actually goes"
 slug: "hrd-corp"
 category: "employment"
-subcategory: ["training-levy"]
-summary: "How Malaysia's HRD Corp (formerly HRDF) collects the 1% training levy under the PSMB Act 2001 and funds employer training grants."
+subcategory: ["payroll-statutory"]
+summary: "HRD Corp (Pembangunan Sumber Manusia Berhad) is Malaysia's statutory training-levy body: employers with 10+ local staff pay 1% of monthly wages, then reclaim it as grants to upskill workers."
 tier: "3"
 mode: "practical"
 contentType: "agency"
 sensitivity: "none"
-answer: "HRD Corp (Human Resource Development Corporation), formerly HRDF, is a statutory body under the Ministry of Human Resources that administers the Human Resources Development Fund under the Pembangunan Sumber Manusia Berhad Act 2001 (Act 612). It collects a monthly training levy from covered employers — 1% of wages for employers with 10 or more Malaysian employees — and channels it back as grants that reimburse approved employee training. Registration is compulsory once an employer crosses the 10-employee threshold."
+answer: "HRD Corp is the operating name of Pembangunan Sumber Manusia Berhad (PSMB), a statutory body under the Ministry of Human Resources incorporated through the PSMB Act 2001 (Akta 612). It runs a levy-and-grant system: covered employers pay a monthly training levy into a national fund, then reclaim it as grants that reimburse approved employee training. Registration is compulsory once an employer reaches 10 or more Malaysian employees."
 keyTakeaways:
-  - "Legal basis is the Pembangunan Sumber Manusia Berhad Act 2001 (Act 612); Section 14(1) imposes the levy at 1% of an employee's monthly wages."
-  - "Employers with 10 or more Malaysian employees must register and pay 1%; those with 5–9 may register optionally and pay 0.5%."
-  - "The levy is calculated on basic wages plus fixed allowances and is due by the 15th of the following month."
-  - "Coverage was expanded to virtually all sectors from 1 March 2021 via the PSMB (Amendment of First Schedule) Order 2021, gazetted 26 February 2021."
-  - "The body was rebranded from HRDF to HRD Corp in April 2021; the fund itself dates to 1993 under the earlier Human Resources Development Act 1992."
-  - "Failing to pay the levy is an offence — on conviction, a fine of up to RM20,000 or up to two years' imprisonment, or both."
-appliesTo: "Malaysian employers assessing whether they must register and pay the HRD levy, and HR staff planning to claim training grants."
+  - "HRD Corp is the operating name of Pembangunan Sumber Manusia Berhad (PSMB), incorporated through the PSMB Act 2001 on 17 April 2001, operating as an agency under the Ministry of Human Resources."
+  - "Employers with 10 or more Malaysian employees must register (mandatory, 1% levy); those with 5–9 may register voluntarily at 0.5%."
+  - "The levy is (total wages or basic salaries + fixed allowances) × the applicable rate, and must be paid by the 15th of each month."
+  - "Coverage expanded to almost all industries from 1 March 2021 via the PSMB (Amendment of First Schedule) Order 2021, with exceptions such as federal/state government and statutory bodies."
+  - "Failing to register can draw a fine up to RM10,000 or up to one year's imprisonment; failing to pay the levy, up to RM20,000 or two years, plus 10% yearly interest per day of default."
+  - "Unused levy has been partly redirected — 15% of the remaining year-end balance funded Program Latihan MADANI under Employer Circular No. 5/2024."
+appliesTo: "Malaysian employers checking whether they must register and pay the HRD levy, and HR staff planning to reclaim it as training grants."
 faq:
-  - q: "Does my company have to register with HRD Corp?"
-    a: "Registration is compulsory if you employ 10 or more Malaysian employees in a covered sector; you then pay a 1% levy. With 5–9 Malaysian employees, registration is optional and the rate is 0.5%."
-  - q: "How is the HRD levy calculated and when is it due?"
-    a: "It is (basic wages + fixed allowances) × the applicable rate (1% or 0.5%), payable monthly for each Malaysian employee by the 15th of the following month. The levy cannot be deducted from employees' wages."
   - q: "What is the difference between HRDF and HRD Corp?"
-    a: "They are the same organisation. Pembangunan Sumber Manusia Berhad, long known by its fund name HRDF, was rebranded as HRD Corp (Human Resource Development Corporation) in April 2021."
+    a: "They are the same organisation. Pembangunan Sumber Manusia Berhad — long known by its fund name HRDF — transitioned to HRD Corp (Human Resource Development Corporation) in April 2021, reflecting an expanded mandate across all Malaysian employers and individuals."
+  - q: "Does my company have to register with HRD Corp?"
+    a: "Registration is compulsory if you employ 10 or more Malaysian employees, at a levy of 1% of monthly wages. With 5 to 9 Malaysian employees, registration is voluntary and the rate is 0.5%."
+  - q: "How is the HRD levy calculated and when is it due?"
+    a: "It is (total wages or basic salaries + fixed allowances) × 1% (or 0.5% for voluntary registrants), payable by the 15th of each month to avoid penalties."
 lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 status: "in-review"
 aiAssisted: true
 reviewer: null
-version: "0.1"
+version: "0.2"
 revisions:
   - version: "0.1"
     date: 2026-08-10
     change: "Initial AI draft."
     reviewer: null
+  - version: "0.2"
+    date: 2026-08-14
+    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
+    reviewer: null
 verificationNeeded:
-  - "Exact statutory section number for the non-payment penalty (fine up to RM20,000 / two years); confirm against Act 612 text on lom.agc.gov.my."
-  - "The interest/surcharge rate for late levy payment — a secondary source stated '10% per annum' but wording was inconsistent, so the figure is omitted here pending the regulations text."
-  - "Precise commencement date of Act 612's levy provisions (incorporation of PSMB was 17 April 2001)."
-updated: 2026-08-10
+  - "Current registered-employer, training-provider and total-levy/grant figures — do not state a headcount without a primary HRD Corp annual report or statistics page."
+  - "Exact statutory section numbers in the PSMB Act 2001 for compulsory registration, levy imposition and each penalty — the FAQ gives amounts but not section numbers; confirm against the Akta 612 text before citing 'Section X'."
+  - "The precise definition of 'wages' used for the levy (whether it excludes bonuses, overtime, or employer EPF/SOCSO) — confirm against the official levy guideline / Second Schedule."
+  - "Any grace period for newly liable employers after reaching 10 employees — confirm against an HRD Corp circular before stating."
+  - "Whether the 15% unused-levy-to-MADANI redirection is a recurring annual mechanism or year-specific — confirm current-year status (circulars exist for 2023 and 2024)."
+  - "Any current levy-payment exemptions (e.g. an education-industry exemption) — verify exact scope and dates before presenting as active."
+updated: 2026-08-14
 sources:
-  - title: "PSMB Act 2001"
-    url: "https://hrdcorp.gov.my/psmb-act-2001"
-    publisher: "HRD Corp"
-  - title: "Employers FAQ"
-    url: "https://hrdcorp.gov.my/faq"
-    publisher: "HRD Corp"
-  - title: "Employers"
-    url: "https://hrdcorp.gov.my/employers"
-    publisher: "HRD Corp"
-  - title: "Expansion of PSMB Act 2001"
-    url: "https://hrdcorp.gov.my/expansion-of-psmb-act-2001"
-    publisher: "HRD Corp"
-  - title: "Human Resources Development Fund"
-    url: "https://www.mida.gov.my/setting-up-content/human-resources-development-fund/"
-    publisher: "Malaysian Investment Development Authority (MIDA)"
-  - title: "Laws of Malaysia — Federal Legislation portal"
-    url: "https://lom.agc.gov.my/principal.php"
-    publisher: "Attorney General's Chambers (AGC)"
-entity: "Pembangunan Sumber Manusia Berhad (HRD Corp)"
+  - title: "About Us | HRD Corp"
+    url: "https://hrdcorp.gov.my/about-us/"
+    publisher: "HRD Corp (Pembangunan Sumber Manusia Berhad)"
+  - title: "Employers FAQ | HRD Corp"
+    url: "https://hrdcorp.gov.my/faq/"
+    publisher: "HRD Corp (Pembangunan Sumber Manusia Berhad)"
+  - title: "Expansion of the Coverage of Pembangunan Sumber Manusia Berhad (PSMB) Act 2001"
+    url: "https://www.at-mia.my/2023/02/13/expansion-of-the-coverage-of-pembangunan-sumber-manusia-berhad-psmb-act-2001/"
+    publisher: "Malaysian Institute of Accountants (MIA)"
+  - title: "Circulars | HRD Corp"
+    url: "https://hrdcorp.gov.my/circulars/"
+    publisher: "HRD Corp (Pembangunan Sumber Manusia Berhad)"
+  - title: "Akta Pembangunan Sumber Manusia Berhad 2001 (Akta 612)"
+    url: "https://eakta.mohr.gov.my/assets/pdf/akta_kemahiran/Akta%20pembangunan%20sumber%20manusia%20berhad%202001%20Akta612.pdf"
+    publisher: "Ministry of Human Resources Malaysia (eAkta)"
+entity: "HRD Corp (Pembangunan Sumber Manusia Berhad)"
 relations: []
 related: []
-keywords: ["HRD Corp", "HRDF", "PSMB Act 2001", "Act 612", "HRD levy", "human resources development levy", "Pembangunan Sumber Manusia Berhad"]
+keywords: ["HRD Corp", "HRDF", "HRD levy", "Pembangunan Sumber Manusia Berhad", "PSMB Act 2001", "HRDF registration", "HRD Corp claim", "HRD levy 1%", "HRD Corp claimable courses", "human resource development fund Malaysia", "HRDF levy calculation", "Akta 612"]
 ---
 
-**HRD Corp** — the Human Resource Development Corporation, formerly **HRDF** — is a statutory body under Malaysia's Ministry of Human Resources. It administers the **Human Resources Development Fund** under the **Pembangunan Sumber Manusia Berhad Act 2001 (Act 612)**, collecting a monthly training levy from covered employers and returning it as grants that reimburse approved employee training. If you employ 10 or more Malaysian workers in a covered sector, registration and payment are mandatory.
+If your company runs Malaysian payroll, one line on the payslip ledger may read as a **1% levy to HRD Corp** — and unlike EPF or SOCSO, it is not a benefit paid out to the worker. It is a training budget the *employer* pays in and then claims back. Understanding that loop is the difference between treating the levy as a tax and using it as intended.
 
-## What HRD Corp does
+**HRD Corp** is the operating name of **Pembangunan Sumber Manusia Berhad (PSMB)**, a statutory body incorporated through the enactment of the **Pembangunan Sumber Manusia Berhad Act 2001** on 17 April 2001. It operates as an agency under the **Ministry of Human Resources (KESUMA)**.
 
-The corporation runs a levy-grant cycle. Employers pay a monthly levy into the fund; registered employers then draw down that money to pay for training, upskilling, apprenticeships and related development for their workforce. The stated purpose of Act 612 is "the imposition and collection of a human resources development levy for the purpose of promoting the training and development of employees, apprentices and trainees," together with the establishment and administration of the Fund by the corporation.
+## What is HRD Corp, and what does it do?
 
-The fund traces back to **1993**, established under the earlier **Human Resources Development Act 1992**. Pembangunan Sumber Manusia Berhad was later incorporated under Act 612 (PSMB was incorporated on 17 April 2001). In **April 2021** the agency rebranded from HRDF to **HRD Corp**.
+HRD Corp administers a national **levy-and-grant** system. Covered employers pay a monthly levy into the fund; registered employers then draw that money back down as grants to train, reskill and upskill their workforce. Employers who pay the levy are eligible to claim reimbursement for approved training programmes — limited to the approved amount or the actual expenses incurred, **whichever is lower**.
 
-## Who must register and pay
+The organisation was first established in 1993 as the **Human Resources Development Council (HRDC)**. In **April 2021**, the Human Resources Development Fund (**HRDF**) transitioned to become the Human Resource Development Corporation (**HRD Corp**), reflecting new responsibilities including expanding workforce development across all Malaysian employers and individuals. HRDF and HRD Corp are the same body.
+
+## Who must register, and how much is the levy?
+
+Registration turns on your headcount of Malaysian employees.
 
 | Malaysian employees | Registration | Levy rate |
 |---|---|---|
-| 10 or more | Compulsory | 1.0% of monthly wages |
-| 5 to 9 | Optional | 0.5% of monthly wages |
-| Fewer than 5 | Not required | — |
+| 10 or more | Compulsory | 1% of monthly wages |
+| 5 to 9 | Voluntary | 0.5% of monthly wages |
 
-**Section 14(1)** of Act 612 imposes the levy on covered employers at 1% of an employee's monthly wages. The levy applies per Malaysian employee and **cannot be deducted from the employee's own wages**.
+Employers with a minimum of ten Malaysian employees are compulsorily required to register with HRD Corp. Those with 5 to 9 may register voluntarily at the reduced 0.5% rate.
 
-## How the levy is calculated and paid
+## How is the levy calculated and paid?
 
-The levy base is **basic wages plus fixed allowances**:
+The levy is worked out on wages plus fixed allowances:
 
-> Levy = (basic wages + fixed allowances) × 1% (or 0.5% for the optional category)
+> **Levy = (total wages or basic salaries + fixed allowances) × 1%** — or × 0.5% for voluntary registrants.
 
-Payment is monthly and is **due by the 15th of the following month**. Failure to pay a levy due under the Act is an offence: on conviction, an employer is liable to a fine not exceeding **RM20,000** or imprisonment not exceeding **two years**, or both.
+Payment is due **by the 15th of each month** to avoid penalties. The consequences of non-compliance are set out in the PSMB framework:
 
-## Coverage across sectors
+- **Failure to register:** a fine not exceeding **RM10,000** or imprisonment not exceeding **one year**, or both.
+- **Failure to pay the levy:** a fine not exceeding **RM20,000** or imprisonment not exceeding **two years**, or both — plus yearly interest of **10%** in respect of each day of default.
 
-Originally the levy applied only to specified sectors (manufacturing, then services and mining and quarrying). From **1 March 2021**, coverage was expanded to essentially **all industries** through the **PSMB (Amendment of First Schedule) Order 2021**, gazetted on **26 February 2021**. Federal and state government, local authorities and statutory bodies remain outside the scope. Employers newly brought in by the 2021 expansion were given a three-month levy exemption (1 March to 31 May 2021).
+## Why did coverage suddenly expand in 2021?
 
-## Claiming training grants
+For most of its history the levy reached only specified sectors. That changed with the **PSMB (Amendment of First Schedule) Order 2021** (gazetted 26 February 2021), which expanded the coverage of the PSMB Act 2001 effective **1 March 2021** to include **almost all industries**. Exceptions include the Federal Government, State Government, local councils and statutory bodies. This is why employers who had never dealt with HRDF suddenly became liable.
 
-The core benefit for registered employers is that the levy is not simply a tax — it is a training budget they can reclaim. Employers apply to HRD Corp for grants to cover approved training programmes, typically delivered through HRD Corp-registered training providers, and are reimbursed against their available levy balance. Unused levy accumulates as the employer's training entitlement.
+## Where does levy you don't spend go?
+
+Unused levy is not entirely the employer's to sit on indefinitely. HRD Corp implemented **Program Latihan MADANI**, utilising **15% of employers' remaining unused levy balance** for the year, under **Employer Circular No. 5/2024** (following No. 2/2024 for 2023). In practice, levy left unclaimed at year-end can be partly redirected to fund national training programmes rather than lapsing back to the employer.
 
 ## What's next
 
-Confirm your headcount of Malaysian employees against the 10-employee threshold, then register through the official HRD Corp portal at **hrdcorp.gov.my** and set up monthly levy payment before the 15th. For the authoritative statute text, consult **Act 612** on the AGC's Laws of Malaysia portal (lom.agc.gov.my).
+Check your Malaysian-employee headcount against the 10-employee threshold, then register through the official HRD Corp portal and set up monthly levy payment before the 15th. For the authoritative wording of the registration, levy and penalty provisions, the full text of **Akta 612** is published by the Ministry of Human Resources on its eAkta portal — the exact section numbers behind the figures above should be read there directly.

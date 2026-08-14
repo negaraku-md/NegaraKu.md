@@ -1,104 +1,119 @@
 ---
 topicId: "MY-TEC-0014"
-title: "MDEC — Malaysia Digital Economy Corporation"
-seoTitle: "MDEC: Malaysia Digital Economy Corporation Explained"
+title: "MDEC and Malaysia Digital Status: The Agency, the Status, and the Incentives Explained"
+seoTitle: "MDEC & Malaysia Digital Status: Incentives"
+socialTitle: "RM1,000 or RM50,000? What Malaysia Digital Status actually requires (and what it doesn't)"
 slug: "mdec-digital-economy-corporation"
 category: "technology"
-subcategory: ["digital economy"]
-summary: "The government agency, under the Ministry of Digital, that leads Malaysia's digital economy and administers Malaysia Digital (MD) Status."
+subcategory: ["digital"]
+summary: "MDEC (Malaysia Digital Economy Corporation) is the government agency, under the Ministry of Digital, that runs Malaysia's digital-economy agenda and awards Malaysia Digital (MD) Status — the activity-based successor to MSC Malaysia Status — which carries the 10-point Bill of Guarantees and access to a separate tax incentive."
 tier: "3"
 mode: "practical"
 contentType: "agency"
 sensitivity: "none"
-answer: "The Malaysia Digital Economy Corporation (MDEC) is the government agency, established in 1996 and now under the Ministry of Digital, that leads and coordinates Malaysia's digital economy. It administers the Malaysia Digital (MD) national initiative — including MD Status and its Bill of Guarantees — which in 2022 replaced the older MSC Malaysia programme. Its remit spans digital investment, business digitalisation, tech talent, and inclusive digital-economy policy."
+answer: "The Malaysia Digital Economy Corporation (MDEC) is the government agency, established in 1996 and now under the Ministry of Digital, that drives Malaysia's digital economy and awards Malaysia Digital (MD) Status. Three things are easy to confuse and worth keeping apart: MDEC is the agency; MD Status is the designation a qualifying company earns; and the MD Tax Incentive is a separate application with much higher capital thresholds. Getting MD Status does not automatically grant the tax break."
 keyTakeaways:
-  - "MDEC (legal entity Malaysia Digital Economy Corporation Sdn Bhd, registration 199601016995 / 389346-D) was established in 1996 as the lead agency for the Multimedia Super Corridor (MSC Malaysia)."
-  - "It sits under the Ministry of Digital, a standalone ministry created on 12 December 2023 and led by Minister Gobind Singh Deo."
-  - "On 4 July 2022, MDEC began administering Malaysia Digital (MD), the activity-based successor to the location-based MSC Malaysia initiative."
-  - "MD Status companies receive a set of rights and incentives — the Bill of Guarantees — plus tax incentives such as a Reduced Tax Rate (RTR) or Investment Tax Allowance (ITA)."
-  - "MD focuses on nine growth sectors and targets a 25.5% digital-economy contribution to national GDP by end-2025."
-appliesTo: "Founders, investors, and tech companies considering Malaysia Digital Status; students, researchers, and anyone needing a factual reference on Malaysia's lead digital-economy agency."
+  - "MDEC (legal entity Malaysia Digital Economy Corporation Sdn Bhd, registration 199601016995 / 389346-D) was established in 1996 and operates under the Ministry of Digital."
+  - "MSC Malaysia has been rebranded to Malaysia Digital (MD): the shift moved from a location-based model to an activity-based one, and MD Status succeeds the former MSC Malaysia Status."
+  - "MD Status needs only RM1,000 minimum paid-up capital; the separate MD Tax Incentive needs RM50,000 (New Investment) or RM250,000 (Expansion)."
+  - "MD Status carries the 10-point Malaysia Digital Bill of Guarantees, from freedom of ownership to no internet censorship."
+  - "There are 22 eligible MD activity areas, from AI and fintech to quantum and spatial technology, and the core activities cannot be outsourced."
+appliesTo: "Founders, investors, and tech companies weighing Malaysia Digital Status or its tax incentive; researchers and anyone needing a neutral reference on Malaysia's lead digital-economy agency."
 faq:
+  - q: "Does getting Malaysia Digital Status give me the tax break?"
+    a: "No. The Malaysia Digital tax incentive is a separate application from MD Status, with its own conditions — including much higher paid-up capital (RM50,000 for New Investment, RM250,000 for Expansion) and processing fees."
+  - q: "How much paid-up capital do I need for MD Status?"
+    a: "A minimum of RM1,000. The company must also be incorporated under the Companies Act 2016, be resident in Malaysia, and propose to carry out one or more MD activities."
   - q: "Is MDEC the same as MSC Malaysia?"
-    a: "No. MDEC is the agency; MSC Malaysia was the programme it ran from 1996. On 4 July 2022 that programme was succeeded by the Malaysia Digital (MD) initiative, which MDEC now administers."
-  - q: "Who does MDEC report to?"
-    a: "MDEC is a government agency under the Ministry of Digital (Kementerian Digital), a standalone ministry established on 12 December 2023."
-  - q: "What is Malaysia Digital (MD) Status?"
-    a: "It is the status MDEC awards to eligible companies undertaking promoted digital activities. Holders receive the Bill of Guarantees and may qualify for tax incentives. It replaced MSC Malaysia Status and lets companies operate anywhere in Malaysia rather than only inside designated cybercities."
+    a: "No. MDEC is the agency; MSC Malaysia was its earlier programme. MSC Malaysia has been rebranded to Malaysia Digital, and MD Status is the successor to the former MSC Malaysia Status."
 lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 status: "in-review"
 aiAssisted: true
 reviewer: null
-version: "0.1"
+version: "0.2"
 revisions:
   - version: "0.1"
     date: 2026-08-10
     change: "Initial AI draft."
     reviewer: null
+  - version: "0.2"
+    date: 2026-08-14
+    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
+    reviewer: null
 verificationNeeded:
-  - "Exact rebranding chronology from Multimedia Development Corporation to Malaysia Digital Economy Corporation — sources variously cite a 2004 transition and a 2016 renaming; MDEC's own About page states only 'established in 1996'."
-  - "Full enumerated list of the current Malaysia Digital Bill of Guarantees points — confirm against the latest MDEC BoG explanatory notes before listing individually."
-  - "Whether the 25.5% end-2025 digital-economy GDP target was met (figure was a target, not a confirmed outturn, at time of writing)."
-updated: 2026-08-10
+  - "MD launch date of 4 July 2022 — cited by multiple advisory firms but not confirmed against a primary .gov.my source."
+  - "MDEC's precise incorporation date (5 June 1996) and the former name 'Multimedia Development Corporation Sdn Bhd' — reported by secondary sources but not seen verbatim on the current MDEC About page."
+  - "The application deadline for the MD tax incentive (older sources cite 31 December 2027) — not stated on MDEC's current tax-incentive page; confirm against live guidelines before publishing any deadline."
+  - "Digital economy's share of Malaysia's GDP (commonly cited around 23%) — needs a primary DOSM figure with year."
+  - "Total investments facilitated / jobs created figures — source from an MDEC annual report or official impact statement before stating."
+updated: 2026-08-14
 sources:
   - title: "About | MDEC"
     url: "https://www.mdec.my/about-mdec"
-    publisher: "Malaysia Digital Economy Corporation"
-  - title: "Malaysia Digital | MDEC"
-    url: "https://www.mdec.my/en/malaysiadigital"
-    publisher: "Malaysia Digital Economy Corporation"
-  - title: "Malaysia Digital Status (formerly known as MSC Status) | MDEC"
-    url: "https://www.mdec.my/md-programmes/malaysia-digital-status"
-    publisher: "Malaysia Digital Economy Corporation"
-  - title: "Ministry of Digital — Ministry Profile"
-    url: "https://www.digital.gov.my/en-GB/profil-kementerian"
-    publisher: "Ministry of Digital, Malaysia"
-  - title: "Malaysia Digital (MD) Status"
-    url: "https://www.ey.com/en_my/technical/tax-alerts/malaysia-digital-status"
-    publisher: "EY Malaysia"
-  - title: "MDEC To Push For 25.5 Pct Digital Economy Contribution To Malaysia's GDP By End-2025"
-    url: "https://bernama.com/en/news.php?id=2393715"
-    publisher: "BERNAMA"
+    publisher: "Malaysia Digital Economy Corporation (MDEC)"
+  - title: "Guidelines on Malaysia Digital Status"
+    url: "https://www.mdec.my/md-documents/guidelines-on-malaysia-digital-status"
+    publisher: "Malaysia Digital Economy Corporation (MDEC)"
+  - title: "The Malaysia Digital (MD) Bill of Guarantees — Explanatory Notes (Amendment)"
+    url: "https://www.mdec.my/static/pdf/malaysiadigital/Malaysia%20Digital%20BOG%20Explanatory%20Notes%20(Amendment).pdf"
+    publisher: "Malaysia Digital Economy Corporation (MDEC)"
+  - title: "Malaysia Digital - Tax Incentive | MDEC"
+    url: "https://www.mdec.my/malaysiadigital/tax-incentive"
+    publisher: "Malaysia Digital Economy Corporation (MDEC)"
 entity: "Malaysia Digital Economy Corporation (MDEC)"
+relations: []
 related: []
-keywords: ["MDEC", "Malaysia Digital Economy Corporation", "Malaysia Digital", "MD Status", "MSC Malaysia", "Ministry of Digital"]
+keywords: ["MDEC", "Malaysia Digital Economy Corporation", "Malaysia Digital Status", "MD Status", "MSC Malaysia", "MSC status", "Malaysia Digital Bill of Guarantees", "Malaysia Digital tax incentive", "MD activities", "knowledge worker Malaysia", "Cyberjaya", "digital economy Malaysia"]
 ---
 
-The **Malaysia Digital Economy Corporation (MDEC)** is the government agency responsible for leading and coordinating Malaysia's digital economy. Established in 1996, it operates under the Ministry of Digital and today administers **Malaysia Digital (MD)** — the national strategic initiative that succeeded the older MSC Malaysia programme. Its work spans attracting digital investment, helping businesses go digital, building tech talent, and shaping inclusive digital-economy policy.
+Search "Malaysia Digital Status" and almost every result is a consultancy selling an application service — and most blur three separate things into one. There is the **agency** (MDEC), the **status** it awards (MD Status), and a **tax incentive** that is a wholly separate application with much steeper requirements. Keeping them apart is the difference between a RM1,000 threshold and a RM50,000 one. Here is each layer, from primary sources.
 
-## Origins and mandate
+## What is MDEC, and who does it answer to?
 
-MDEC was set up in 1996 as the lead agency to implement the **Multimedia Super Corridor (MSC Malaysia)**, Malaysia's flagship initiative to grow an ICT and multimedia industry. It began life as the Multimedia Development Corporation and later adopted its present name, Malaysia Digital Economy Corporation Sdn Bhd (company registration **199601016995 / 389346-D**), reflecting a broadened mandate across the whole digital economy.
+The Malaysia Digital Economy Corporation (MDEC) is the government agency that leads Malaysia's digital economy. Its full legal name is **Malaysia Digital Economy Corporation (MDEC) Sdn Bhd**, company registration **199601016995 (389346-D)**. It was established in 1996 and operates as an agency under the **Ministry of Digital**, from headquarters at 2360 Persiaran APEC, 63000 Cyberjaya, Selangor.
 
-MDEC describes its mission as "to drive the digital economy through catalytic high-impact initiatives, strategic and sustainable investments, and inclusive policies," with a vision for "Malaysia to be the preferred hub for world-class digital businesses and talents."
+MDEC's stated vision is for "Malaysia to be the preferred hub for world-class digital businesses and talents," and its mission is to "drive the digital economy through catalytic high-impact initiatives, strategic and sustainable investments, and inclusive policies."
 
-## Where MDEC sits in government
+## What changed when MSC Malaysia became Malaysia Digital?
 
-MDEC is a government-owned agency under the **Ministry of Digital (Kementerian Digital)**, a standalone ministry created on **12 December 2023** and led by Minister Gobind Singh Deo. The ministry was formed when the former Ministry of Communications and Digital was split in two. Alongside MDEC, agencies under the ministry include MyDIGITAL Corporation, CyberSecurity Malaysia, Digital Nasional Berhad, MYNIC Berhad, the National Digital Department (JDN), and the Department of Personal Data Protection (JPDP).
+MSC Malaysia has been rebranded to **Malaysia Digital (MD)** — an enhanced initiative designed to accelerate the sustainable growth of the digital economy. In practice the model shifted from location-based (companies clustered in designated cybercities) to **activity-based**: eligibility now turns on what you do, not where you sit. **MD Status** is the successor to the former MSC Malaysia Status.
 
-## From MSC Malaysia to Malaysia Digital
+## Who qualifies for MD Status, and what does it cost?
 
-On **4 July 2022**, the government launched **Malaysia Digital (MD)** to succeed MSC Malaysia after 26 years. The key change was a shift from a **location-based** model — companies had to sit inside a designated cybercity or cybercentre — to an **activity-based** one, letting approved companies operate, grow, and invest anywhere in Malaysia.
+To be eligible for MD Status, a company must be incorporated under the Companies Act 2016, be resident in Malaysia, propose to carry out one or more MD activities, and have a **minimum paid-up capital of RM1,000**. Within 12 months of the award, it must commence operations and employ at least **2 full-time knowledge workers** at a minimum average monthly base salary of **RM5,000**, and incur minimum annual operating expenditure of **RM50,000** on the approved activities. The core MD Approved Activities cannot be outsourced — they must be undertaken directly by the MD Status company.
 
-| Aspect | MSC Malaysia (1996) | Malaysia Digital (2022) |
+The **22 MD activity areas** include big data analytics, artificial intelligence, fintech, internet of things, cybersecurity, data centre and/or cloud computing, blockchain, creative media technology, sharing economy platform, UI/UX, IC design and/or embedded software, 3D printing, robotics, autonomous technology, systems/network architecture, global business services, extended reality (AR/VR/MR), drone technology, advanced telecommunication technology, quantum technology, spatial technology, and other next-generation technologies approved by the Approval Committee.
+
+## What is the Bill of Guarantees?
+
+MD Status entitles a company to the **Malaysia Digital Bill of Guarantees (BoGs)**, ten government commitments:
+
+1. World-class physical and information infrastructure (MD Cybercities/Cybercentres only).
+2. Employment of local and foreign knowledge workers.
+3. Freedom of ownership — exemption from local ownership requirements.
+4. Freedom to source and borrow capital globally for MD infrastructure.
+5. Competitive financial incentives (income tax exemption or investment tax allowance, plus import duty and sales tax exemption on multimedia equipment).
+6. Regional leadership in intellectual property protection and cyberlaws.
+7. No censorship of the internet.
+8. Globally competitive telecommunications tariffs (MD Cybercities/Cybercentres only).
+9. Tendering of key MD infrastructure contracts to leading companies using Malaysia as a regional hub.
+10. A high-powered implementation agency acting as a one-stop shop.
+
+## How is the tax incentive different?
+
+This is where the confusion costs money. The **Malaysia Digital tax incentive is a separate application from MD Status**, with its own thresholds:
+
+| Item | New Investment | Expansion |
 | --- | --- | --- |
-| Model | Location-based (cybercities) | Activity-based (nationwide) |
-| Company status | MSC Malaysia Status | Malaysia Digital (MD) Status |
-| Awarded by | MDEC | MDEC |
-| Focus | ICT / multimedia | Nine digital growth sectors |
+| Rate options | 0% on qualifying IP income (nexus approach); 5% or 10% on non-IP income for up to 10 years — or a 60% / 100% investment tax allowance for 5 years | 15% on qualifying IP and non-IP income for 5 years — or a 30% / 60% investment tax allowance for 5 years |
+| Minimum paid-up capital | RM50,000 | RM250,000 |
+| Other key condition | No sales invoice issued for the qualifying activity before submission | At least 36 months of operation |
+| Processing fee (incl. SST) | RM1,080 | RM2,160 |
 
-MD concentrates on **nine promoted sectors**: digital agriculture, digital services, digital cities, digital health, digital finance, digital trade, digital content, digital tourism, and the Islamic digital economy.
-
-## Malaysia Digital (MD) Status
-
-MDEC awards **MD Status** to eligible companies that undertake promoted digital activities. Status holders receive a set of rights and privileges known as the **Bill of Guarantees (BoGs)**, and may qualify for tax incentives — a **Reduced Tax Rate (RTR)** or **Investment Tax Allowance (ITA)** — as well as import-duty exemptions on qualifying multimedia and ICT equipment, subject to the applicable laws and guidelines. Companies previously on MSC Malaysia Status transitioned to the MD framework under MDEC guidelines.
-
-## Scale and targets
-
-MDEC has publicly committed to helping Malaysia reach a **25.5% digital-economy contribution to GDP by end-2025**. It reported that approved digital investments under the MD initiative reached **RM163.6 billion in 2024**, a sharp increase on the prior year, contributing to national GDP growth.
+Both routes require the company to have already been awarded MD Status and to be incorporated under the Companies Act 2016/1965 and resident in Malaysia. Evaluation is completed within 21 working days of a complete application.
 
 ## What's next
 
-If you are assessing whether your company qualifies for Malaysia Digital Status or its incentives, start from MDEC's official [Malaysia Digital Status page](https://www.mdec.my/md-programmes/malaysia-digital-status) for current eligibility criteria and the latest Bill of Guarantees, and confirm tax-incentive terms with a Malaysian tax adviser before applying.
+If you are weighing MD Status, confirm which of your activities map to the 22 approved areas and check current eligibility against MDEC's [Guidelines on Malaysia Digital Status](https://www.mdec.my/md-documents/guidelines-on-malaysia-digital-status). If the tax incentive matters to you, treat it as a second, separate application and review the [Malaysia Digital tax-incentive page](https://www.mdec.my/malaysiadigital/tax-incentive) for the current rates, capital thresholds, and processing times before you apply.
