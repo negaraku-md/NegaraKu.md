@@ -1,108 +1,119 @@
 ---
 topicId: "MY-EMP-0057"
-title: "HRD Corp — Pembangunan Sumber Manusia"
-seoTitle: "HRD Corp (HRDF) Malaysia: Panduan Levi & Pendaftaran"
+title: "HRD Corp: Bagaimana Malaysia Membiayai Latihan Tenaga Kerja"
+seoTitle: "HRD Corp (HRDF): Levi, Pendaftaran & Tuntutan"
+socialTitle: "Potongan 1% pada gaji Malaysia anda — inilah ke mana ia sebenarnya pergi"
 slug: "hrd-corp"
 category: "employment"
-subcategory: ["training-levy"]
-summary: "Bagaimana HRD Corp Malaysia (dahulu HRDF) mengutip levi latihan 1% di bawah Akta PSMB 2001 dan membiayai geran latihan majikan."
+subcategory: ["payroll-statutory"]
+summary: "HRD Corp (Pembangunan Sumber Manusia Berhad) ialah badan berkanun levi latihan Malaysia: majikan dengan 10 atau lebih pekerja tempatan membayar 1% daripada gaji bulanan, kemudian menuntutnya semula sebagai geran untuk meningkatkan kemahiran pekerja."
 tier: "3"
 mode: "practical"
 contentType: "agency"
 sensitivity: "none"
-answer: "HRD Corp (Perbadanan Pembangunan Sumber Manusia), dahulunya HRDF, ialah sebuah badan berkanun di bawah Kementerian Sumber Manusia yang mentadbir Kumpulan Wang Pembangunan Sumber Manusia di bawah Akta Pembangunan Sumber Manusia Berhad 2001 (Akta 612). Ia mengutip levi latihan bulanan daripada majikan yang tertakluk — 1% daripada upah bagi majikan yang mempunyai 10 atau lebih pekerja warganegara Malaysia — dan menyalurkannya semula sebagai geran yang membayar balik latihan pekerja yang diluluskan. Pendaftaran adalah wajib sebaik sahaja majikan melepasi ambang 10 pekerja."
+answer: "HRD Corp ialah nama operasi Pembangunan Sumber Manusia Berhad (PSMB), sebuah badan berkanun di bawah Kementerian Sumber Manusia yang diperbadankan melalui Akta PSMB 2001 (Akta 612). Ia menjalankan sistem levi-dan-geran: majikan yang dilindungi membayar levi latihan bulanan ke dalam dana kebangsaan, kemudian menuntutnya semula sebagai geran yang membayar balik latihan pekerja yang diluluskan. Pendaftaran adalah wajib apabila majikan mencapai 10 atau lebih pekerja Malaysia."
 keyTakeaways:
-  - "Asas perundangan ialah Akta Pembangunan Sumber Manusia Berhad 2001 (Akta 612); Seksyen 14(1) mengenakan levi pada kadar 1% daripada upah bulanan seseorang pekerja."
-  - "Majikan yang mempunyai 10 atau lebih pekerja warganegara Malaysia mesti mendaftar dan membayar 1%; mereka yang mempunyai 5–9 pekerja boleh mendaftar secara sukarela dan membayar 0.5%."
-  - "Levi dikira berdasarkan upah asas ditambah elaun tetap dan perlu dijelaskan menjelang 15 haribulan bulan berikutnya."
-  - "Liputan telah diperluas ke hampir semua sektor mulai 1 Mac 2021 melalui Perintah PSMB (Pindaan Jadual Pertama) 2021, yang diwartakan pada 26 Februari 2021."
-  - "Badan ini dijenamakan semula daripada HRDF kepada HRD Corp pada April 2021; kumpulan wang itu sendiri bermula sejak 1993 di bawah Akta Pembangunan Sumber Manusia 1992 yang terdahulu."
-  - "Kegagalan membayar levi adalah suatu kesalahan — apabila disabitkan, denda sehingga RM20,000 atau penjara sehingga dua tahun, atau kedua-duanya."
-appliesTo: "Majikan Malaysia yang menilai sama ada mereka wajib mendaftar dan membayar levi HRD, serta kakitangan HR yang merancang untuk menuntut geran latihan."
+  - "HRD Corp ialah nama operasi Pembangunan Sumber Manusia Berhad (PSMB), diperbadankan melalui Akta PSMB 2001 pada 17 April 2001, beroperasi sebagai agensi di bawah Kementerian Sumber Manusia."
+  - "Majikan dengan 10 atau lebih pekerja Malaysia mesti mendaftar (wajib, levi 1%); mereka yang mempunyai 5–9 pekerja boleh mendaftar secara sukarela pada kadar 0.5%."
+  - "Levi ialah (jumlah gaji atau gaji pokok + elaun tetap) × kadar yang berkenaan, dan mesti dibayar menjelang 15 haribulan setiap bulan."
+  - "Liputan diperluaskan kepada hampir semua industri berkuat kuasa 1 Mac 2021 melalui Perintah PSMB (Pindaan Jadual Pertama) 2021, dengan pengecualian seperti kerajaan persekutuan/negeri dan badan berkanun."
+  - "Kegagalan mendaftar boleh dikenakan denda sehingga RM10,000 atau penjara sehingga satu tahun; kegagalan membayar levi, sehingga RM20,000 atau dua tahun, ditambah faedah 10% setahun bagi setiap hari kemungkiran."
+  - "Levi yang tidak digunakan telah sebahagiannya dialihkan — 15% daripada baki akhir tahun yang masih ada membiayai Program Latihan MADANI di bawah Pekeliling Majikan No. 5/2024."
+appliesTo: "Majikan Malaysia yang menyemak sama ada mereka perlu mendaftar dan membayar levi HRD, serta kakitangan HR yang merancang untuk menuntutnya semula sebagai geran latihan."
 faq:
-  - q: "Adakah syarikat saya wajib mendaftar dengan HRD Corp?"
-    a: "Pendaftaran adalah wajib jika anda menggaji 10 atau lebih pekerja warganegara Malaysia dalam sektor yang tertakluk; anda kemudiannya membayar levi 1%. Dengan 5–9 pekerja warganegara Malaysia, pendaftaran adalah pilihan dan kadarnya ialah 0.5%."
-  - q: "Bagaimanakah levi HRD dikira dan bilakah ia perlu dijelaskan?"
-    a: "Ia ialah (upah asas + elaun tetap) × kadar yang berkenaan (1% atau 0.5%), perlu dibayar setiap bulan bagi setiap pekerja warganegara Malaysia menjelang 15 haribulan bulan berikutnya. Levi tidak boleh dipotong daripada upah pekerja."
   - q: "Apakah perbezaan antara HRDF dan HRD Corp?"
-    a: "Ia adalah organisasi yang sama. Pembangunan Sumber Manusia Berhad, yang lama dikenali dengan nama kumpulan wangnya HRDF, dijenamakan semula sebagai HRD Corp (Perbadanan Pembangunan Sumber Manusia) pada April 2021."
+    a: "Kedua-duanya adalah organisasi yang sama. Pembangunan Sumber Manusia Berhad — yang lama dikenali dengan nama dananya HRDF — beralih kepada HRD Corp (Human Resource Development Corporation) pada April 2021, mencerminkan mandat yang diperluas merentasi semua majikan dan individu Malaysia."
+  - q: "Adakah syarikat saya perlu mendaftar dengan HRD Corp?"
+    a: "Pendaftaran adalah wajib jika anda menggaji 10 atau lebih pekerja Malaysia, pada levi 1% daripada gaji bulanan. Dengan 5 hingga 9 pekerja Malaysia, pendaftaran adalah sukarela dan kadarnya ialah 0.5%."
+  - q: "Bagaimanakah levi HRD dikira dan bilakah ia perlu dibayar?"
+    a: "Ia adalah (jumlah gaji atau gaji pokok + elaun tetap) × 1% (atau 0.5% bagi pendaftar sukarela), perlu dibayar menjelang 15 haribulan setiap bulan untuk mengelakkan penalti."
 lang: "ms"
-sourceContentHash: "249ea5281e030489"
 masterLanguage: "en"
 translationStatus: "in-sync"
+sourceContentHash: "ff5d89d25eee1ca7"
 status: "in-review"
 aiAssisted: true
 reviewer: null
-version: "0.1"
+version: "0.2"
 revisions:
   - version: "0.1"
     date: 2026-08-10
     change: "Initial AI draft."
     reviewer: null
+  - version: "0.2"
+    date: 2026-08-14
+    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
+    reviewer: null
 verificationNeeded:
-  - "Exact statutory section number for the non-payment penalty (fine up to RM20,000 / two years); confirm against Act 612 text on lom.agc.gov.my."
-  - "The interest/surcharge rate for late levy payment — a secondary source stated '10% per annum' but wording was inconsistent, so the figure is omitted here pending the regulations text."
-  - "Precise commencement date of Act 612's levy provisions (incorporation of PSMB was 17 April 2001)."
-updated: 2026-08-10
+  - "Current registered-employer, training-provider and total-levy/grant figures — do not state a headcount without a primary HRD Corp annual report or statistics page."
+  - "Exact statutory section numbers in the PSMB Act 2001 for compulsory registration, levy imposition and each penalty — the FAQ gives amounts but not section numbers; confirm against the Akta 612 text before citing 'Section X'."
+  - "The precise definition of 'wages' used for the levy (whether it excludes bonuses, overtime, or employer EPF/SOCSO) — confirm against the official levy guideline / Second Schedule."
+  - "Any grace period for newly liable employers after reaching 10 employees — confirm against an HRD Corp circular before stating."
+  - "Whether the 15% unused-levy-to-MADANI redirection is a recurring annual mechanism or year-specific — confirm current-year status (circulars exist for 2023 and 2024)."
+  - "Any current levy-payment exemptions (e.g. an education-industry exemption) — verify exact scope and dates before presenting as active."
+updated: 2026-08-14
 sources:
-  - title: "PSMB Act 2001"
-    url: "https://hrdcorp.gov.my/psmb-act-2001"
-    publisher: "HRD Corp"
-  - title: "Employers FAQ"
-    url: "https://hrdcorp.gov.my/faq"
-    publisher: "HRD Corp"
-  - title: "Employers"
-    url: "https://hrdcorp.gov.my/employers"
-    publisher: "HRD Corp"
-  - title: "Expansion of PSMB Act 2001"
-    url: "https://hrdcorp.gov.my/expansion-of-psmb-act-2001"
-    publisher: "HRD Corp"
-  - title: "Human Resources Development Fund"
-    url: "https://www.mida.gov.my/setting-up-content/human-resources-development-fund/"
-    publisher: "Malaysian Investment Development Authority (MIDA)"
-  - title: "Laws of Malaysia — Federal Legislation portal"
-    url: "https://lom.agc.gov.my/principal.php"
-    publisher: "Attorney General's Chambers (AGC)"
-entity: "Pembangunan Sumber Manusia Berhad (HRD Corp)"
+  - title: "About Us | HRD Corp"
+    url: "https://hrdcorp.gov.my/about-us/"
+    publisher: "HRD Corp (Pembangunan Sumber Manusia Berhad)"
+  - title: "Employers FAQ | HRD Corp"
+    url: "https://hrdcorp.gov.my/faq/"
+    publisher: "HRD Corp (Pembangunan Sumber Manusia Berhad)"
+  - title: "Expansion of the Coverage of Pembangunan Sumber Manusia Berhad (PSMB) Act 2001"
+    url: "https://www.at-mia.my/2023/02/13/expansion-of-the-coverage-of-pembangunan-sumber-manusia-berhad-psmb-act-2001/"
+    publisher: "Malaysian Institute of Accountants (MIA)"
+  - title: "Circulars | HRD Corp"
+    url: "https://hrdcorp.gov.my/circulars/"
+    publisher: "HRD Corp (Pembangunan Sumber Manusia Berhad)"
+  - title: "Akta Pembangunan Sumber Manusia Berhad 2001 (Akta 612)"
+    url: "https://eakta.mohr.gov.my/assets/pdf/akta_kemahiran/Akta%20pembangunan%20sumber%20manusia%20berhad%202001%20Akta612.pdf"
+    publisher: "Ministry of Human Resources Malaysia (eAkta)"
+entity: "HRD Corp (Pembangunan Sumber Manusia Berhad)"
 relations: []
 related: []
-keywords: ["HRD Corp", "HRDF", "PSMB Act 2001", "Act 612", "HRD levy", "human resources development levy", "Pembangunan Sumber Manusia Berhad"]
+keywords: ["HRD Corp", "HRDF", "HRD levy", "Pembangunan Sumber Manusia Berhad", "PSMB Act 2001", "HRDF registration", "HRD Corp claim", "HRD levy 1%", "HRD Corp claimable courses", "human resource development fund Malaysia", "HRDF levy calculation", "Akta 612"]
 ---
 
-**HRD Corp** — Perbadanan Pembangunan Sumber Manusia, dahulunya **HRDF** — ialah sebuah badan berkanun di bawah Kementerian Sumber Manusia Malaysia. Ia mentadbir **Kumpulan Wang Pembangunan Sumber Manusia** di bawah **Akta Pembangunan Sumber Manusia Berhad 2001 (Akta 612)**, mengutip levi latihan bulanan daripada majikan yang tertakluk dan memulangkannya sebagai geran yang membayar balik latihan pekerja yang diluluskan. Jika anda menggaji 10 atau lebih pekerja warganegara Malaysia dalam sektor yang tertakluk, pendaftaran dan pembayaran adalah wajib.
+Jika syarikat anda menjalankan gaji Malaysia, satu baris pada lejar slip gaji mungkin berbunyi sebagai **levi 1% kepada HRD Corp** — dan tidak seperti KWSP atau PERKESO, ia bukan faedah yang dibayar kepada pekerja. Ia adalah bajet latihan yang dibayar oleh *majikan* dan kemudian dituntut semula. Memahami kitaran itu ialah perbezaan antara menganggap levi sebagai cukai dan menggunakannya seperti yang dihasratkan.
 
-## Apa yang dilakukan HRD Corp
+**HRD Corp** ialah nama operasi **Pembangunan Sumber Manusia Berhad (PSMB)**, sebuah badan berkanun yang diperbadankan melalui penggubalan **Akta Pembangunan Sumber Manusia Berhad 2001** pada 17 April 2001. Ia beroperasi sebagai agensi di bawah **Kementerian Sumber Manusia (KESUMA)**.
 
-Perbadanan ini menjalankan kitaran levi-geran. Majikan membayar levi bulanan ke dalam kumpulan wang; majikan yang berdaftar kemudiannya menggunakan wang itu untuk membiayai latihan, peningkatan kemahiran, perantisan dan pembangunan berkaitan bagi tenaga kerja mereka. Tujuan yang dinyatakan dalam Akta 612 ialah "pengenaan dan pengutipan levi pembangunan sumber manusia bagi maksud menggalakkan latihan dan pembangunan pekerja, perantis dan pelatih," bersama-sama dengan penubuhan dan pentadbiran Kumpulan Wang itu oleh perbadanan.
+## Apakah HRD Corp, dan apakah fungsinya?
 
-Kumpulan wang ini bermula sejak **1993**, ditubuhkan di bawah **Akta Pembangunan Sumber Manusia 1992** yang terdahulu. Pembangunan Sumber Manusia Berhad kemudiannya diperbadankan di bawah Akta 612 (PSMB diperbadankan pada 17 April 2001). Pada **April 2021** agensi ini dijenamakan semula daripada HRDF kepada **HRD Corp**.
+HRD Corp mentadbir sistem **levi-dan-geran** kebangsaan. Majikan yang dilindungi membayar levi bulanan ke dalam dana; majikan berdaftar kemudian menuntut semula wang itu sebagai geran untuk melatih, melatih semula dan meningkatkan kemahiran tenaga kerja mereka. Majikan yang membayar levi layak menuntut bayaran balik untuk program latihan yang diluluskan — terhad kepada jumlah yang diluluskan atau perbelanjaan sebenar yang ditanggung, **mana yang lebih rendah**.
 
-## Siapa yang wajib mendaftar dan membayar
+Organisasi ini mula-mula ditubuhkan pada tahun 1993 sebagai **Majlis Pembangunan Sumber Manusia (HRDC)**. Pada **April 2021**, Kumpulan Wang Pembangunan Sumber Manusia (**HRDF**) beralih menjadi Perbadanan Pembangunan Sumber Manusia (**HRD Corp**), mencerminkan tanggungjawab baharu termasuk memperluas pembangunan tenaga kerja merentasi semua majikan dan individu Malaysia. HRDF dan HRD Corp adalah badan yang sama.
 
-| Pekerja warganegara Malaysia | Pendaftaran | Kadar levi |
+## Siapa yang mesti mendaftar, dan berapakah levinya?
+
+Pendaftaran bergantung pada bilangan pekerja Malaysia anda.
+
+| Pekerja Malaysia | Pendaftaran | Kadar levi |
 |---|---|---|
-| 10 atau lebih | Wajib | 1.0% daripada upah bulanan |
-| 5 hingga 9 | Pilihan | 0.5% daripada upah bulanan |
-| Kurang daripada 5 | Tidak diperlukan | — |
+| 10 atau lebih | Wajib | 1% daripada gaji bulanan |
+| 5 hingga 9 | Sukarela | 0.5% daripada gaji bulanan |
 
-**Seksyen 14(1)** Akta 612 mengenakan levi ke atas majikan yang tertakluk pada kadar 1% daripada upah bulanan seseorang pekerja. Levi dikenakan bagi setiap pekerja warganegara Malaysia dan **tidak boleh dipotong daripada upah pekerja itu sendiri**.
+Majikan dengan sekurang-kurangnya sepuluh pekerja Malaysia diwajibkan mendaftar dengan HRD Corp. Mereka yang mempunyai 5 hingga 9 pekerja boleh mendaftar secara sukarela pada kadar terkurang 0.5%.
 
-## Bagaimana levi dikira dan dibayar
+## Bagaimanakah levi dikira dan dibayar?
 
-Asas levi ialah **upah asas ditambah elaun tetap**:
+Levi dikira berdasarkan gaji ditambah elaun tetap:
 
-> Levi = (upah asas + elaun tetap) × 1% (atau 0.5% bagi kategori pilihan)
+> **Levi = (jumlah gaji atau gaji pokok + elaun tetap) × 1%** — atau × 0.5% bagi pendaftar sukarela.
 
-Pembayaran dibuat setiap bulan dan **perlu dijelaskan menjelang 15 haribulan bulan berikutnya**. Kegagalan membayar levi yang perlu dibayar di bawah Akta ini adalah suatu kesalahan: apabila disabitkan, majikan boleh dikenakan denda tidak melebihi **RM20,000** atau penjara tidak melebihi **dua tahun**, atau kedua-duanya.
+Bayaran perlu dibuat **menjelang 15 haribulan setiap bulan** untuk mengelakkan penalti. Akibat ketidakpatuhan ditetapkan dalam rangka kerja PSMB:
 
-## Liputan merentas sektor
+- **Kegagalan mendaftar:** denda tidak melebihi **RM10,000** atau penjara tidak melebihi **satu tahun**, atau kedua-duanya.
+- **Kegagalan membayar levi:** denda tidak melebihi **RM20,000** atau penjara tidak melebihi **dua tahun**, atau kedua-duanya — ditambah faedah tahunan **10%** bagi setiap hari kemungkiran.
 
-Pada asalnya levi hanya dikenakan ke atas sektor tertentu (pembuatan, kemudian perkhidmatan serta perlombongan dan pengkuarian). Mulai **1 Mac 2021**, liputan diperluas ke hampir **semua industri** melalui **Perintah PSMB (Pindaan Jadual Pertama) 2021**, yang diwartakan pada **26 Februari 2021**. Kerajaan Persekutuan dan negeri, pihak berkuasa tempatan serta badan berkanun kekal di luar skop. Majikan yang baru dimasukkan melalui perluasan 2021 diberikan pengecualian levi selama tiga bulan (1 Mac hingga 31 Mei 2021).
+## Mengapa liputan tiba-tiba diperluaskan pada 2021?
 
-## Menuntut geran latihan
+Bagi sebahagian besar sejarahnya, levi hanya menjangkau sektor tertentu. Itu berubah dengan **Perintah PSMB (Pindaan Jadual Pertama) 2021** (diwartakan 26 Februari 2021), yang memperluas liputan Akta PSMB 2001 berkuat kuasa **1 Mac 2021** untuk merangkumi **hampir semua industri**. Pengecualian termasuk Kerajaan Persekutuan, Kerajaan Negeri, majlis tempatan dan badan berkanun. Inilah sebabnya majikan yang tidak pernah berurusan dengan HRDF tiba-tiba menjadi tertakluk.
 
-Manfaat utama bagi majikan berdaftar ialah levi bukan sekadar cukai — ia merupakan bajet latihan yang boleh dituntut semula. Majikan memohon geran daripada HRD Corp untuk menampung program latihan yang diluluskan, biasanya disampaikan melalui penyedia latihan berdaftar HRD Corp, dan dibayar balik daripada baki levi yang tersedia. Levi yang tidak digunakan terkumpul sebagai kelayakan latihan majikan.
+## Ke manakah perginya levi yang tidak anda belanjakan?
 
-## Apa yang seterusnya
+Levi yang tidak digunakan bukan sepenuhnya hak majikan untuk disimpan tanpa had. HRD Corp melaksanakan **Program Latihan MADANI**, menggunakan **15% daripada baki levi majikan yang tidak digunakan** bagi tahun itu, di bawah **Pekeliling Majikan No. 5/2024** (susulan No. 2/2024 untuk 2023). Dalam amalan, levi yang tidak dituntut pada akhir tahun boleh sebahagiannya dialihkan untuk membiayai program latihan kebangsaan dan bukannya luput kembali kepada majikan.
 
-Sahkan bilangan pekerja warganegara Malaysia anda berbanding ambang 10 pekerja, kemudian daftar melalui portal rasmi HRD Corp di **hrdcorp.gov.my** dan sediakan pembayaran levi bulanan sebelum 15 haribulan. Untuk teks statut yang berautoriti, rujuk **Akta 612** di portal Laws of Malaysia AGC (lom.agc.gov.my).
+## Apa seterusnya
+
+Semak bilangan pekerja Malaysia anda terhadap ambang 10 pekerja, kemudian daftar melalui portal rasmi HRD Corp dan sediakan bayaran levi bulanan sebelum 15 haribulan. Untuk teks berwibawa bagi peruntukan pendaftaran, levi dan penalti, teks penuh **Akta 612** diterbitkan oleh Kementerian Sumber Manusia di portal eAkta — nombor seksyen tepat di sebalik angka di atas harus dibaca terus di sana.

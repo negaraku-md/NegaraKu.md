@@ -1,108 +1,138 @@
 ---
 topicId: "MY-CS-0061"
-title: "MBRS: Pemfailan Penyata Kewangan XBRL kepada SSM"
-seoTitle: "MBRS: Pemfailan Penyata Kewangan XBRL kepada SSM"
+title: "Cara Memfailkan Penyata Kewangan kepada SSM melalui MBRS (XBRL)"
+seoTitle: "Pemfailan MBRS ke SSM: Penyata Kewangan XBRL"
+socialTitle: "Tarikh Akhir XBRL yang Menangkap Separuh Syarikat Malaysia Lengah"
 slug: "mbrs-xbrl-filing"
 category: "company-secretary"
-subcategory: ["statutory-filing"]
-summary: "Bagaimana syarikat Malaysia memfailkan penyata kewangan, penyata tahunan dan permohonan pengecualian kepada SSM dalam format XBRL melalui Sistem Pelaporan Perniagaan Malaysia (MBRS)."
+subcategory: ["filings"]
+summary: "MBRS ialah platform XBRL mandatori SSM untuk melodkan penyata kewangan, penyata tahunan dan permohonan pengecualian; sejak Fasa 3 MBRS 2.0 pada 1 Jun 2025, hampir setiap syarikat Malaysia mesti memfailkan penyata kewangan penuhnya secara digital."
 tier: "3"
 mode: "practical"
 contentType: "agency"
 sensitivity: "none"
-answer: "MBRS (Malaysian Business Reporting System) ialah platform berasaskan XBRL milik SSM untuk memfailkan penyata kewangan, penyata tahunan dan permohonan pengecualian yang berkaitan. Syarikat menyediakan pemfailan secara luar talian dalam MBRS Preparation Tool (mTool) yang percuma, kemudian setiausaha syarikat atau ejen berlesen memfailkan fail XBRL yang dijana melalui MBRS Portal (mPortal). Sejak pelaksanaan MBRS 2.0, pemfailan XBRL bagi penyata kewangan adalah wajib dan bukan lagi pilihan."
+answer: "MBRS (Malaysian Business Reporting System) ialah platform berasaskan XBRL milik SSM untuk melodkan penyata kewangan, penyata tahunan dan permohonan pengecualian. Anda menyediakan pemfailan dalam Alat Penyediaan MBRS (mTool) berasaskan Excel, menanda (tag) data terhadap Taksonomi SSM, mengesahkannya, kemudian melodkan fail XBRL yang dijana melalui Portal MBRS (mPortal). Sejak Fasa 3 MBRS 2.0 berkuat kuasa pada 1 Jun 2025, pelodan XBRL digital bagi penyata kewangan yang diaudit adalah mandatori untuk semua syarikat di bawah Akta Syarikat 2016."
 keyTakeaways:
-  - "MBRS mempunyai tiga komponen: Taksonomi XBRL SSM (SSMxT), Alat Penyediaan berasaskan Microsoft Excel (mTool, percuma), dan portal penyerahan (mPortal), yang diakses melalui SSM4U."
-  - "Ia meliputi tiga keluarga pemfailan — Penyata Tahunan (AR), Penyata Kewangan dan Petunjuk Kewangan Utama (FS/KFI), dan Permohonan Pengecualian (EA) — di bawah Akta Syarikat 2016 (serta pemfailan warisan Akta Syarikat 1965)."
-  - "Penyata kewangan ditag terhadap taksonomi MFRS atau MPERS; set XBRL penuh merangkumi penyata kedudukan kewangan, untung atau rugi, aliran tunai, perubahan ekuiti dan nota, serta laporan pengarah dan juruaudit."
-  - "Seorang 'Maker' menyediakan dan memuat naik fail XBRL; seorang 'Lodger' (setiausaha syarikat atau ejen berlesen, dengan sijil digital) mesti memfailkannya dalam tempoh 3 hari selepas dimuat naik atau pemfailan akan dipadamkan."
-  - "Sijil digital Pos Digicert diperlukan untuk menandatangani pemfailan — RM47.70 untuk satu tahun atau RM95.40 untuk dua tahun (termasuk caj perkhidmatan); yuran pemfailan mengikut Peraturan-Peraturan Syarikat 2017."
-appliesTo: "Syarikat sendirian dan awam Malaysia, syarikat asing yang berdaftar di Malaysia, serta setiausaha syarikat, ejen syarikat dan pembantu mereka yang menyediakan dan memfailkan pemfailan statutori kepada SSM."
+  - "MBRS mempunyai tiga komponen teras: Taksonomi SSM (SSMxT), Alat Penyediaan MBRS (mTool) untuk membina fail XBRL, dan Portal MBRS (mPortal) untuk pelodan — mPortal dicapai melalui SSM4U dan memerlukan Sijil Digital (PKI) bagi pihak yang melodkan."
+  - "Ia mengendalikan tiga jenis penyerahan: Penyata Tahunan (AR), Penyata Kewangan dan Laporan (FS), serta Permohonan Pengecualian (EA)."
+  - "SSM mengumumkan MBRS 2.0 mandatori pada 26 November 2024 dalam tiga fasa: 1 Disember 2024, 1 Mac 2025 dan 1 Jun 2025."
+  - "Mulai 1 Jun 2025 pemfailan menjadi mandatori sepenuhnya, dan institusi kewangan yang dikawal selia oleh Bank Negara Malaysia — yang sebelum ini dikecualikan — kini turut termasuk."
+  - "Pengecualian 1 Jun hingga 30 September 2025 hanya menghapuskan fi pelodan lewat; ia TIDAK melanjutkan tarikh akhir berkanun di bawah Akta Syarikat 2016."
+appliesTo: "Syarikat swasta dan awam Malaysia, serta setiausaha syarikat dan ejen yang menyediakan dan melodkan penyata kewangan berkanun, penyata tahunan dan permohonan pengecualian mereka dengan SSM."
 faq:
-  - q: "Adakah pemfailan XBRL melalui MBRS kini wajib?"
-    a: "Ya. Di bawah pelaksanaan berperingkat MBRS 2.0 yang diumumkan oleh SSM, pemfailan XBRL secara digital bagi penyata kewangan menjadi wajib, menggantikan pengaturan pilihan/imbasan yang terdahulu. Penyata tahunan dan permohonan pengecualian juga difailkan melalui MBRS."
-  - q: "Adakah saya masih perlu memfailkan kedua-dua penyata tahunan dan penyata kewangan?"
-    a: "Ya — ia merupakan kewajipan yang berasingan. Penyata tahunan (Seksyen 68, Akta Syarikat 2016) difailkan dalam tempoh 30 hari dari ulang tahun pemerbadanan syarikat; penyata kewangan difailkan di bawah Seksyen 259 selepas ia diedarkan kepada atau dibentangkan di hadapan ahli. Memfailkan yang satu tidak memenuhi yang lain."
-  - q: "Bolehkah syarikat asing atau institusi yang dikawal selia oleh Bank Negara memfailkan melalui MBRS?"
-    a: "Ya. MBRS mempunyai pintu masuk khusus untuk syarikat asing (FS-FC, AR3 di bawah Seksyen 576) dan untuk entiti perbankan/kewangan/insurans yang dikawal selia oleh Bank Negara Malaysia (FS-BNM), selain templat MFRS, MPERS, CLBG dan syarikat sendirian yang dikecualikan."
-  - q: "Perisian apakah yang saya perlukan untuk menjalankan mTool?"
-    a: "mTool hanya berjalan pada Windows dengan edisi Microsoft Office yang disokong (2010 hingga 365), .NET Framework 4.8 dan Visual Studio Tools for Office Runtime 4.0. Ia tidak berjalan pada macOS."
+  - q: "Bilakah syarikat mesti melodkan penyata kewangannya?"
+    a: "Di bawah Seksyen 259(1) Akta Syarikat 2016, syarikat swasta melodkan dalam tempoh 30 hari dari tarikh penyata kewangannya diedarkan kepada ahli, dan syarikat awam dalam tempoh 30 hari dari AGM-nya."
+  - q: "Adakah pengecualian fi pelodan lewat 2025 melanjutkan tarikh akhir saya?"
+    a: "Tidak. Pengecualian itu berjalan dari 1 Jun hingga 30 September 2025 dan hanya menghapuskan fi pelodan lewat. Ia tidak melanjutkan sebarang tarikh akhir pelodan berkanun di bawah Akta Syarikat 2016."
 lang: "ms"
-sourceContentHash: "5eb055efdd92c45c"
 masterLanguage: "en"
 translationStatus: "in-sync"
+sourceContentHash: "6cce56bdb89cd914"
 status: "in-review"
 aiAssisted: true
 reviewer: null
-version: "0.1"
+version: "0.2"
 revisions:
   - version: "0.1"
     date: 2026-08-10
     change: "Initial AI draft."
     reviewer: null
+  - version: "0.2"
+    date: 2026-08-14
+    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
+    reviewer: null
 verificationNeeded:
-  - "Exact MBRS 2.0 mandatory phase dates (Phase 1 ~1 December 2024, subsequent phases to ~1 June 2025) — secondary/advisory sources conflict; confirm against SSM's official announcement/circular."
-  - "Precise statutory day-counts under CA 2016 s258/s259 for circulation and lodgement of financial statements (private vs public companies) — confirm against the Act text at AGC."
-  - "Current SSMxT taxonomy version and mTool release number at time of publication."
-updated: 2026-08-10
+  - "Exact statutory basis for the requirement that a lodger hold a practising certificate under Section 241 Companies Act 2016 — sources conflicted; confirm the exact section and wording before stating it."
+  - "Precise definition/threshold of an 'exempt private company' (EPC) under the Companies Act 2016 and exactly what an EPC lodges (an EPC certificate) instead of full XBRL financial statements — confirm on a primary SSM source before detailing."
+  - "Exact current mTool and mPortal version numbers — these change over time; verify the live version on ssm.com.my or omit."
+  - "Section 68 annual-return lodgement timing (commonly within 30 days of the incorporation anniversary) — confirm against AGC statute text or SSM before stating."
+  - "Exact scope of Phase 2 (audited FS under Companies Act 1965) vs Phase 1/3 — confirm the CA 1965 vs CA 2016 split against the original 26 November 2024 SSM circular, not secondary summaries."
+  - "Whether foreign companies registered in Malaysia have a distinct MBRS filing template or deadline — confirm specifics on SSM."
+updated: 2026-08-14
 sources:
-  - title: "MBRS (Malaysian Business Reporting System) — Services"
+  - title: "Pages - MBRS"
     url: "https://www.ssm.com.my/Pages/Services/Other-Services/MBRS.aspx"
     publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "Malaysian Business Reporting System (MBRS) — Frequently Asked Questions, Version 2.4 (Oct 2024)"
-    url: "https://www.ssm.com.my/Pages/Register_Business_Company_LLP/Company/document/FAQs_Malaysian_Business_Reporting_System_MBRS.pdf"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "Practice Directive No. 7/2021 (Revised: 1 December 2024) — Lodgement of Annexure on Beneficial Ownership Information of Annual Return under Sections 68 and 576 of the Companies Act 2016"
-    url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Practice%20Directive%207%202021%20(Revised)%2028112024.pdf"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+  - title: "What is MBRS? The Malaysian Business Reporting System Explained"
+    url: "https://www.mbrs.com.my/what-is-mbrs/"
+    publisher: "MBRS.com.my"
+  - title: "SSM - Mandatory Implementation of MBRS 2.0 in Stages (Technical Announcement)"
+    url: "https://maicsa.org.my/resources/technical-research/technical-announcements/2024/241127-ssm-mandatory-implementation-of-mbrs-20-in-stages"
+    publisher: "Chartered Secretaries Malaysia (MAICSA)"
   - title: "MBRS 2.0 Malaysia: Mandatory Filing Guide for Companies"
     url: "https://malaysia.incorp.asia/guides/mbrs-2-0-malaysia-compliance/"
     publisher: "InCorp Malaysia"
-entity: "Malaysian Business Reporting System (MBRS), Suruhanjaya Syarikat Malaysia (SSM)"
+  - title: "SSM Mandates MBRS 2.0 XBRL in Malaysia Starting 1st Dec 2024"
+    url: "https://datatracks.com/my/blog/ssm-mandates-implementation-of-mbrs-2/"
+    publisher: "DataTracks"
+  - title: "SSM Waives Late Lodgement Fees for MBRS 2.0: What Malaysian Companies Need to Know"
+    url: "https://malaysia.incorp.asia/blogs/ssm-waives-late-lodgement-fees-for-mbrs-2-0/"
+    publisher: "InCorp Malaysia"
+  - title: "Companies Act 2016: Practice Note No. 3/2018 (EOT for circulation and lodgement of financial statements)"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/PDF%20Tab%205/pn_ss_609_2592_3404_eot.pdf"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+  - title: "How to Prepare MBRS XBRL Financial Statements for Filing with SSM?"
+    url: "https://datatracks.com/my/blog/how-to-prepare-xbrl-mbrs-ssm/"
+    publisher: "DataTracks"
+  - title: "Malaysian Business Reporting System (MBRS) 2.0"
+    url: "https://www.bdo.my/en-gb/insights/featured-insights/malaysian-business-reporting-system-(mbrs)-2-0"
+    publisher: "BDO Malaysia"
+  - title: "How to File XBRL with SSM MBRS Malaysia Guide"
+    url: "https://xberratagger.my/how-to-file-xbrl-ssm-malaysia"
+    publisher: "Xberra Tagger"
+entity: "Malaysian Business Reporting System (MBRS)"
+relations: []
 related: []
-keywords: ["MBRS", "XBRL", "SSM", "mTool", "mPortal", "SSMxT", "financial statements", "annual return", "MBRS 2.0"]
+keywords: ["MBRS", "MBRS 2.0", "XBRL", "SSM", "mTool", "mPortal", "SSMxT", "SSM taxonomy", "financial statements filing Malaysia", "Companies Act 2016", "annual return", "exempt private company", "Suruhanjaya Syarikat Malaysia", "MFRS", "MPERS"]
 ---
 
-**Sistem Pelaporan Perniagaan Malaysia (MBRS)** ialah platform penyerahan digital milik SSM, berasaskan format eXtensible Business Reporting Language (XBRL). Ia membolehkan syarikat memfailkan **Penyata Tahunan (AR)**, **Penyata Kewangan dan Petunjuk Kewangan Utama (FS/KFI)**, dan **Permohonan Pengecualian (EA)** — skop panduan yang berpandukan Akta Syarikat 2016 (serta Akta Syarikat 1965 yang warisan), dan piawaian perakaunan MFRS dan MPERS. Diperkenalkan oleh SSM pada tahun 2018 dan sejak itu dinaik taraf kepada **MBRS 2.0**, pemfailan XBRL bagi penyata kewangan kini adalah wajib.
+Jika syarikat anda masih menganggap ia "memfailkan akaun dengan SSM" dengan menyerahkan PDF yang ditandatangani, era itu telah berakhir. **Malaysian Business Reporting System (MBRS)** ialah platform penyerahan SSM yang dibina atas format eXtensible Business Reporting Language (XBRL), dan sejak **1 Jun 2025** pelodan penyata kewangan yang diaudit melaluinya adalah mandatori bagi syarikat di bawah Akta Syarikat 2016. Melalui MBRS, sesebuah syarikat melodkan tiga jenis penyerahan: **Penyata Tahunan (AR)**, **Penyata Kewangan dan Laporan (FS)**, serta **Permohonan Pengecualian (EA)**.
 
-## Tiga komponen
+MBRS bukanlah sesuatu yang baharu — SSM memperkenalkannya pada 2018 sebagai platform XBRL digital yang pada mulanya bersifat sukarela sebelum menjadi wajib. Yang berubah ialah naik taraf kepada **MBRS 2.0**, yang dibina atas Piawaian Pelaporan Kewangan Malaysia (MFRS) terkini, Piawaian Pelaporan Entiti Persendirian Malaysia (MPERS) dan Akta Syarikat 2016 yang disemak semula, sambil mengekalkan taksonomi bagi penyerahan legasi Akta Syarikat 1965.
 
-- **Taksonomi XBRL SSM (SSMxT):** kamus elemen pelaporan kewangan dan bukan kewangan, yang dibenamkan dalam alat penyediaan.
-- **MBRS Preparation Tool (mTool):** alat tambah (add-in) percuma berasaskan Microsoft Excel yang digunakan untuk memasukkan data secara luar talian dan menjana fail XBRL. Ia hanya berjalan pada Windows dengan edisi Office yang disokong, .NET Framework 4.8 dan VSTOR 4.0 — bukan pada macOS.
-- **MBRS Portal (mPortal):** platform web, yang dicapai melalui **SSM4U** (ssm4u.com.my), di mana fail XBRL dimuat naik, ditandatangani secara digital, dibayar dan difailkan.
+## Apakah tiga komponen MBRS?
 
-MBRS berasingan daripada MyCoID: MyCoID mengemas kini maklumat syarikat, manakala MBRS digunakan untuk menyerahkan pemfailan kewangan dan penyata statutori.
+MBRS beroperasi atas tiga bahagian yang berfungsi secara berturutan:
 
-## Apa yang boleh anda failkan
-
-| Keluarga pemfailan | Contoh pintu masuk | Seksyen yang mengawal (AS 2016) |
+| Komponen | Apakah ia | Peranan dalam pemfailan |
 |---|---|---|
-| Penyata Tahunan | AR1 (dengan modal saham), AR2 (tanpa), AR3 (syarikat asing) | s68; s576 (asing) |
-| Penyata Kewangan / KFI | FS-MFRS, FS-MPERS, FS-CLBG, FS-EPC, FS-BNM, FS-FC | s259 |
-| Permohonan Pengecualian | EA2 (KFI menggantikan XBRL penuh, s604(2)), EA3 (mengecualikan pemfailan FC, s575(7)), EA5A/EA5B (lanjutan masa, s259(2)), EA7 (melanjutkan pemfailan AR, s609(2)) | pelbagai |
+| **SSMxT** | Taksonomi SSM | Kamus elemen pelaporan yang data anda ditanda (tag) terhadapnya |
+| **mTool** | Alat Penyediaan MBRS | Aplikasi berasaskan Excel untuk memasukkan data dan menjana fail XBRL menggunakan taksonomi terkini |
+| **mPortal** | Portal MBRS | Platform web, dicapai melalui SSM4U, tempat fail dimuat naik dan dilodkan |
 
-Set penyata kewangan XBRL penuh meliputi penyata kedudukan kewangan, untung atau rugi, aliran tunai dan perubahan ekuiti, nota, serta laporan pengarah dan juruaudit. Syarikat yang memperoleh kelulusan SSM di bawah EA2 boleh sebaliknya memfailkan **Petunjuk Kewangan Utama (KFI)** dan bukannya set yang ditag sepenuhnya.
+Untuk melodkan melalui mPortal, pihak yang melodkan mesti memegang **Sijil Digital (PKI)** yang didaftarkan dengan SSM.
 
-## Peranan: Maker dan Lodger
+## Bilakah fasa MBRS 2.0 menjadi mandatori?
 
-Dua peranan beroperasi dalam mPortal. Seorang **Maker** (pembantu setiausaha syarikat atau pembantu ejen) menyediakan dan memuat naik fail XBRL. Seorang **Lodger** — setiausaha syarikat atau ejen syarikat berlesen yang memegang **sijil digital** — menyemak, menandatangani secara digital, membayar dan memfailkannya. Lodger mesti memfailkan dalam tempoh **3 hari** selepas Maker memuat naik, atau fail akan dipadamkan. mPortal mengesahkan sama ada setiausaha syarikat disenaraihitamkan atau mempunyai lesen yang telah tamat tempoh.
+Pada **26 November 2024** SSM mengumumkan pelaksanaan mandatori MBRS 2.0 dalam tiga fasa:
 
-## Tarikh akhir statutori
-
-MBRS tidak mengubah tarikh akhir yang mendasari; ia hanya mengubah format.
-
-| Kewajipan | Pencetus | Tarikh akhir indikatif |
+| Fasa | Bermula | Skop |
 |---|---|---|
-| Penyata Tahunan (s68) | Ulang tahun pemerbadanan | Dalam tempoh 30 hari dari ulang tahun |
-| Penyata Kewangan (s259) — syarikat sendirian | Pengedaran kepada ahli | Dalam tempoh 30 hari dari pengedaran |
-| Penyata Kewangan (s259) — syarikat awam | Mesyuarat agung tahunan | Dalam tempoh 30 hari dari AGM |
+| Fasa 1 | 1 Disember 2024 | Penyata Tahunan / Penyata Tahunan, penyata kewangan tidak diaudit, dan Sijil bagi Syarikat Persendirian Dikecualikan (CA 2016) |
+| Fasa 2 | 1 Mac 2025 | Penyata kewangan diaudit di bawah Akta Syarikat 1965 |
+| Fasa 3 | 1 Jun 2025 | Penyata kewangan diaudit bagi semua syarikat di bawah Akta Syarikat 2016 |
 
-Sekiranya syarikat tidak dapat memenuhi tarikh-tarikh ini, ia memohon **lanjutan masa** melalui EA yang berkaitan (contohnya EA5B untuk memfailkan penyata kewangan, EA7 untuk penyata tahunan).
+Mulai Fasa 3, pemfailan digital menjadi mandatori sepenuhnya — dan institusi kewangan yang dikawal selia oleh **Bank Negara Malaysia (BNM)**, yang sebelum ini dikecualikan, kini turut termasuk.
 
-## Kos
+## Apakah tarikh akhir, dan adakah pengecualian 2025 mengubahnya?
 
-mTool adalah percuma. Sijil digital **Pos Digicert** diperlukan untuk menandatangani pemfailan: **RM47.70** untuk satu tahun atau **RM95.40** untuk dua tahun (termasuk caj perkhidmatan). Yuran pemfailan untuk AR, FS dan EA mengikut **Peraturan-Peraturan Syarikat 2017**. Pembayaran dalam mPortal adalah melalui kad kredit/debit atau perbankan dalam talian.
+MBRS mengubah *format* pelodan, bukan *tarikh akhir*. Di bawah **Seksyen 259(1) Akta Syarikat 2016**, sesebuah syarikat melodkan penyata kewangan dan laporannya dengan Pendaftar:
 
-## Apa yang seterusnya
+- **Syarikat swasta:** dalam tempoh 30 hari dari tarikh penyata kewangan diedarkan kepada ahli.
+- **Syarikat awam:** dalam tempoh 30 hari dari tarikh AGM-nya.
 
-Sahkan akhir tahun kewangan dan ulang tahun pemerbadanan syarikat anda, pastikan setiausaha syarikat anda memegang sijil digital yang sah, dan sediakan set XBRL dalam mTool terkini jauh sebelum tarikh akhir. Untuk kewajipan berkaitan, lihat halaman penyata tahunan dan pengecualian audit, serta muat turun mTool dan taksonomi semasa dari ssm.com.my.
+Untuk memudahkan peralihan, SSM mengenakan **pengecualian fi pelodan lewat dari 1 Jun hingga 30 September 2025**. Baca butiran halusnya: pengecualian itu hanya menghapuskan fi pelodan lewat. Ia **tidak** melanjutkan tarikh akhir berkanun di bawah Akta Syarikat 2016. Syarikat yang melodkan lewat dalam tempoh tersebut terlepas daripada fi tetapi masih dianggap lewat di sisi undang-undang.
+
+## Bagaimanakah sebenarnya anda memfailkannya?
+
+Aliran kerja adalah sama setiap kitaran:
+
+1. Sediakan penyata kewangan berkanun.
+2. Masukkan dan tanda (tag) data dalam **mTool** terhadap **Taksonomi SSM (SSMxT)**.
+3. Jalankan pengesahan dan selesaikan semua ralat.
+4. Jana **fail XBRL**.
+5. Lodkan ia melalui **mPortal**, tempat status penyerahan dijejaki pada papan pemuka sehingga diterima.
+
+## Apa seterusnya
+
+Sahkan tarikh akhir tahun kewangan dan tarikh pengedaran atau AGM anda, kemudian kira 30 hari dari situ — itulah tarikh akhir sebenar anda, dengan atau tanpa pengecualian. Pastikan setiausaha syarikat anda memegang Sijil Digital yang sah, dan sediakan set XBRL dalam mTool semasa jauh lebih awal daripada tarikh tersebut supaya ralat pengesahan tidak menyebabkan anda terlepas tarikh. Muat turun mTool dan taksonomi terkini dari ssm.com.my.

@@ -1,128 +1,125 @@
 ---
 topicId: "MY-GOV-0092"
-title: "Kementerian Kewangan (MOF)"
-seoTitle: "Kementerian Kewangan (MOF) Malaysia: Peranan, Undang-undang, Agensi"
+title: "Kementerian Kewangan Malaysia (MOF): Perbendaharaan, Agensi, dan Kitaran Belanjawan"
+seoTitle: "Kementerian Kewangan Malaysia (MOF): Peranan & Agensi"
+socialTitle: "Kementerian yang Mengawal Setiap Ringgit Belanja Malaysia"
 slug: "ministry-of-finance-mof"
 category: "government"
-subcategory: ["agencies"]
-summary: "Rujukan entiti kanonik bagi Kementerian Kewangan Malaysia (Ministry of Finance) — mandatnya, statut yang memberikannya kuasa, Menteri Kewangan (Diperbadankan), serta jabatan dan agensi di bawahnya."
+subcategory: ["ministries"]
+summary: "Kementerian Kewangan Malaysia (MOF / Kementerian Kewangan) ialah agensi pusat yang menjana hasil negara, mengawal perbelanjaan persekutuan, membentangkan Belanjawan tahunan, dan menyelia Perbendaharaan serta agensi-agensi daripada Kastam dan LHDN hingga Bank Negara — dan badan yang perlu didaftari oleh perniagaan untuk menjual kepada kerajaan."
 tier: "3"
 mode: "practical"
 contentType: "agency"
 sensitivity: "none"
-answer: "Kementerian Kewangan (MOF, Kementerian Kewangan Malaysia), juga dikenali sebagai Perbendaharaan atau Treasury, ialah kementerian persekutuan yang bertanggungjawab ke atas hasil, perbelanjaan dan pinjaman kerajaan Malaysia. Ia menggubal dasar fiskal, menyediakan Belanjawan tahunan, serta menyelia pihak berkuasa cukai dan badan berkanun kewangan negara. Prosedur kewangan dan perakaunannya ditetapkan oleh Akta Tatacara Kewangan 1957 (Akta 61), dan lengan pelaburannya ialah Menteri Kewangan (Diperbadankan) di bawah Akta 375."
+answer: "Kementerian Kewangan (MOF, Kementerian Kewangan) ialah kementerian Kerajaan Malaysia yang bertanggungjawab ke atas kedua-dua perbelanjaan kerajaan dan penjanaan hasil. Ia membangunkan dasar ekonomi, menyediakan Belanjawan persekutuan yang dibentangkan oleh Menteri di Parlimen setiap bulan Oktober, serta menyelia perundangan dan pengawalseliaan kewangan. Empat jabatan persekutuan dan kira-kira empat belas agensi utama — daripada Kastam dan LHDN hingga Bank Negara — berada di bawahnya. Satu maksud yang berbeza, 'lesen MOF', merujuk kepada pendaftaran sebagai pembekal kerajaan melalui ePerolehan."
 keyTakeaways:
-  - "MOF (Kementerian Kewangan Malaysia) ialah kementerian persekutuan ke atas hasil, perbelanjaan dan pinjaman kerajaan; jentera pentadbirannya ialah Perbendaharaan (Treasury), diketuai oleh Ketua Setiausaha Perbendaharaan"
-  - "Akta Tatacara Kewangan 1957 (Akta 61) memperuntukkan kawalan dan pengurusan kewangan awam Malaysia, termasuk Kumpulan Wang Disatukan, Kumpulan Wang Luar Jangka dan pegawai pengawal"
-  - "Akta Menteri Kewangan (Pemerbadanan) 1957 (Akta 375) menjadikan Menteri Kewangan sebagai satu pertubuhan perbadanan — Menteri Kewangan (Diperbadankan) atau MKD — yang memegang syarikat berkaitan kerajaan dan aset komersial awam"
-  - "Sejak 1 Januari 2024, pengurusan fiskal kementerian ini terikat dengan Akta Kewangan Awam dan Tanggungjawab Fiskal 2023 (Akta 850)"
-  - "Agensi cukainya ialah LHDN (cukai langsung) dan Jabatan Kastam Diraja Malaysia (cukai tidak langsung); Bank Negara, Suruhanjaya Sekuriti, KWSP, KWAP dan PIDM antara badan kewangan di bawahnya"
-  - "Menteri Kewangan pada masa ini ialah Perdana Menteri Dato' Seri Anwar Ibrahim, dibantu oleh Menteri Kewangan II — pemegang jawatan berubah, jadi sahkan di mof.gov.my"
-appliesTo: "Sesiapa yang memerlukan rujukan pantas lagi berwibawa tentang apa itu Kementerian Kewangan, statut mana yang memberikannya kuasa, dan agensi kewangan mana yang berada di bawahnya."
+  - "MOF dipertanggungjawabkan ke atas perbelanjaan kerajaan dan penjanaan hasil; ia membangunkan dasar ekonomi, menyediakan Belanjawan persekutuan, serta menyelia perundangan dan pengawalseliaan kewangan"
+  - "Menteri Kewangan membentangkan Belanjawan persekutuan kepada Parlimen setiap bulan Oktober"
+  - "Ia ditubuhkan pada 31 Ogos 1957 dan beribu pejabat di Kompleks Kementerian Kewangan, Presint 2, Putrajaya"
+  - "Empat jabatan berada di bawahnya — Perbendaharaan Persekutuan, Jabatan Kastam Diraja Malaysia, Jabatan Akauntan Negara, dan Jabatan Penilaian & Perkhidmatan Harta"
+  - "Agensinya termasuk LHDN, EPF/KWSP, Bank Negara, Suruhanjaya Sekuriti, Bursa Malaysia, Bank Simpanan Nasional dan KWAP"
+  - "Menteri Kewangan (Diperbadankan), atau MOF Inc, ialah sebuah badan korporat di bawah Akta Menteri Kewangan (Pemerbadanan) 1957 yang memegang aset bagi pihak kerajaan"
+  - "'Pendaftaran MOF' yang berasingan ialah pendaftaran pembekal melalui ePerolehan — Akaun MOF berharga RM450 dan sah selama 3 tahun"
+appliesTo: "Warganegara dan pelajar yang ingin memahami apa itu Kementerian Kewangan dan bagaimana ia distrukturkan, serta pembaca yang cuba membezakan kementerian ini daripada 'pendaftaran MOF' yang diperlukan perniagaan untuk menjual kepada kerajaan."
 faq:
-  - q: "Apakah perbezaan antara Kementerian Kewangan dengan Perbendaharaan?"
-    a: "Kedua-duanya ialah badan yang sama dilihat pada dua peringkat. 'Kementerian Kewangan' ialah kementerian dari segi dasar, dipimpin oleh Menteri Kewangan. 'Perbendaharaan' (Treasury) ialah jentera pentadbiran terasnya, dipimpin oleh Ketua Setiausaha Perbendaharaan, pegawai perkhidmatan awam tertinggi kementerian ini."
-  - q: "Apakah itu Menteri Kewangan (Diperbadankan) atau MKD?"
-    a: "Di bawah Akta Menteri Kewangan (Pemerbadanan) 1957 (Akta 375), Menteri Kewangan ialah satu pertubuhan perbadanan dengan penggantian tetap — Menteri Kewangan (Diperbadankan), disingkatkan sebagai MOF Inc. atau MKD (Menteri Kewangan Diperbadankan). Ia boleh memegang harta, mendakwa dan didakwa, serta membuat kontrak, dan ia merupakan wahana persekutuan yang memegang saham dalam syarikat berkaitan kerajaan dan aset komersial lain."
-  - q: "Adakah Kementerian Kewangan mengutip cukai secara langsung?"
-    a: "Tidak. Kementerian menetapkan dasar cukai, tetapi kutipan dilaksanakan oleh agensinya: LHDN (Lembaga Hasil Dalam Negeri) bagi cukai langsung seperti cukai pendapatan dan duti setem, serta Jabatan Kastam Diraja Malaysia bagi cukai tidak langsung seperti SST dan eksais. Pertanyaan cukai yang dihantar terus kepada kementerian hanya dialihkan semula."
+  - q: "Apakah perbezaan antara MOF sebagai kementerian dan 'pendaftaran MOF'?"
+    a: "Kedua-duanya adalah dua perkara berbeza yang ditaip orang ke dalam kotak carian yang sama. MOF sebagai kementerian ialah kementerian kewangan Kerajaan Malaysia — hasil, perbelanjaan dan Belanjawan. 'Pendaftaran MOF' atau 'lesen MOF' pula bermaksud mendaftar sebagai pembekal kerajaan melalui ePerolehan, portal e-perolehan Kementerian, supaya syarikat anda boleh membida dan berurus niaga dengan kerajaan."
+  - q: "Siapa yang mengetuai Kementerian Kewangan?"
+    a: "Setakat Ogos 2026, Menteri Kewangan ialah Dato' Seri Anwar bin Ibrahim, dengan Datuk Seri Amir Hamzah bin Azizan sebagai Menteri Kewangan II dan Datuk Johan Mahmood bin Merican sebagai Ketua Setiausaha Perbendaharaan. Pemegang jawatan berubah dengan rombakan Kabinet, jadi sahkan nama semasa di mof.gov.my."
 lang: "ms"
-sourceContentHash: "9b41654461bebbbe"
 masterLanguage: "en"
 translationStatus: "in-sync"
+sourceContentHash: "d725c73359a7391e"
 status: "in-review"
 aiAssisted: true
 reviewer: null
-version: "0.1"
+version: "0.2"
 revisions:
   - version: "0.1"
     date: 2026-08-10
-    change: "Initial AI draft. Statutes (Act 61, Act 375, Act 850) and the departments/agencies list sourced to MOF portal, AGC/CommonLII statute text and the MOF Government Investment Companies FAQ."
+    change: "Initial AI draft."
+    reviewer: null
+  - version: "0.2"
+    date: 2026-08-14
+    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
     reviewer: null
 verificationNeeded:
-  - "Exact section of the Minister of Finance (Incorporation) Act 1957 (Act 375) that incorporates the Minister as a body corporate (reported variously as s.2 or s.3) — confirm against the AGC/CommonLII statute text."
-  - "Commencement dates of the Financial Procedure Act 1957 (Act 61): original Ordinance 1957, revised as Act 61 effective 1 March 1972, and extension to Sabah and Sarawak — confirm exact dates against the AGC reprint."
-  - "Current political and administrative office holders (Minister of Finance II, Deputy Minister, Secretary General of Treasury) at mof.gov.my — these change with Cabinet reshuffles."
-updated: 2026-08-10
+  - "Current officeholders change frequently — confirm the sitting Deputy Finance Minister(s) and exact appointment dates at publish time; state officeholders with an 'as of <date>' qualifier."
+  - "The MYR 46,981,917,800 (2026) figure is the ministry's own budget allocation, not the national federal budget — confirm framing and source it to the official 2026 Budget expenditure estimates before stating."
+  - "Exact current count of agencies/statutory bodies under MOF (portal says '14 major agencies', Wikipedia infobox lists 13) — reconcile against the portal's current 'Departments & Agencies' listing at publish time."
+  - "Employee headcount '30,735 (2022)' is dated — check for a newer figure before presenting as current."
+  - "Specific companies held by MOF Inc — verify each named holding against a primary/official source before listing (e.g. Petronas ownership is vested via the Petroleum Development Act, not simply 'owned by MOF Inc')."
+  - "Formation framing: history traces roots to the 1909 Federal Council and the 1951 Treasury Circular No. 15; the 31 August 1957 date is the modern-ministry date — present both rather than a single 'founded' date."
+updated: 2026-08-14
 sources:
+  - title: "Ministry of Finance (Malaysia) — Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Ministry_of_Finance_(Malaysia)"
+    publisher: "Wikipedia"
   - title: "Ministry of Finance Official Portal"
-    url: "https://www.mof.gov.my/portal/en"
-    publisher: "Kementerian Kewangan Malaysia"
-  - title: "Departments & Agencies under the Ministry of Finance"
-    url: "https://mof.gov.my/portal/en/profile/departments-agencies"
-    publisher: "Kementerian Kewangan Malaysia"
-  - title: "Financial Procedure Act 1957 (Act 61) — official reprint"
-    url: "https://mof.gov.my/portal/pdf/bahagian/gic/Akta_Tatacara_Kewangan_1957.pdf"
-    publisher: "Kementerian Kewangan Malaysia"
-  - title: "Financial Procedure Act 1957 (Revised 1972)"
-    url: "http://www.commonlii.org/my/legis/consol_act/fpa19571972252/"
-    publisher: "Commonwealth Legal Information Institute (CommonLII)"
-  - title: "Minister of Finance (Incorporation) Act 1957 (Revised 1989)"
-    url: "https://www.commonlii.org/my/legis/consol_act/mofa19571989413/"
-    publisher: "Commonwealth Legal Information Institute (CommonLII)"
-  - title: "FAQ — Government Investment Companies / Minister of Finance (Incorporated)"
-    url: "https://www.mof.gov.my/portal/pdf/bahagian/gic/faq-en.pdf"
-    publisher: "Kementerian Kewangan Malaysia"
-  - title: "Public Finance and Fiscal Responsibility Act 2023 (Act 850)"
-    url: "https://www.mof.gov.my/portal/pdf/ekonomi/akta-850-en.pdf"
-    publisher: "Kementerian Kewangan Malaysia"
-    date: "2023-12-29"
-entity: "Kementerian Kewangan Malaysia"
-relations:
-  - { rel: "related-to", to: "ministry-of-finance-treasury" }
-  - { rel: "related-to", to: "lhdn" }
-  - { rel: "related-to", to: "rmcd-kastam" }
-related: ["ministry-of-finance-treasury", "lhdn", "rmcd-kastam"]
-keywords: ["MOF", "Ministry of Finance Malaysia", "Kementerian Kewangan", "Perbendaharaan", "Treasury Malaysia", "Minister of Finance Incorporated", "MKD", "Financial Procedure Act 1957"]
+    url: "https://www.mof.gov.my/portal/en/"
+    publisher: "Ministry of Finance Malaysia"
+  - title: "Ministry of Finance Malaysia — History"
+    url: "https://www.mof.gov.my/portal/en/profile/history"
+    publisher: "Ministry of Finance Malaysia"
+  - title: "Minister of Finance (Incorporated) — Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Minister_of_Finance_(Incorporated)"
+    publisher: "Wikipedia"
+  - title: "New Supplier Registration — ePerolehan"
+    url: "https://www.eperolehan.gov.my/en/online-registration"
+    publisher: "ePerolehan / Ministry of Finance Malaysia"
+entity: "Ministry of Finance (Malaysia)"
+relations: []
+related: []
+keywords: ["Ministry of Finance Malaysia", "MOF", "Kementerian Kewangan", "MOF Malaysia", "Menteri Kewangan", "MOF Inc", "Minister of Finance Incorporated", "Perbendaharaan Malaysia", "Federal Treasury Malaysia", "Malaysia federal budget", "Belanjawan", "MOF registration", "MOF licence", "ePerolehan", "kod bidang", "Treasury Malaysia", "mof.gov.my"]
 ---
 
-Kementerian Kewangan ialah kementerian persekutuan yang menguruskan wang Kerajaan Malaysia — hasil yang dikutipnya, wang yang dibelanjakannya, dan hutang yang ditanggungnya. Dalam bahasa Inggeris ia dikenali sebagai Ministry of Finance; badan pentadbiran terasnya ialah Perbendaharaan, atau Treasury. Halaman ini merupakan rujukan ringkas tentang apa itu kementerian ini, undang-undang mana yang memberikannya kuasa, dan agensi mana yang berada di bawahnya. Untuk perincian tentang Belanjawan dan hutang negara, lihat [Kementerian Kewangan (Perbendaharaan)](/government/ministry-of-finance-treasury).
+Setiap ringgit yang dikutip dan dibelanjakan oleh kerajaan persekutuan melalui satu institusi: Kementerian Kewangan. Ia ialah kementerian Kerajaan Malaysia yang dipertanggungjawabkan ke atas kedua-dua perbelanjaan kerajaan dan penjanaan hasil — ia membangunkan dasar ekonomi, menyediakan Belanjawan persekutuan Malaysia, serta menyelia perundangan dan pengawalseliaan kewangan. Dalam bahasa Melayu ia dikenali sebagai Kementerian Kewangan, dan jentera terasnya ialah Perbendaharaan Persekutuan, atau Perbendaharaan. Halaman ini menerangkan institusi tersebut dan seterusnya memisahkannya daripada perkara berasingan yang dimaksudkan orang apabila mereka mencari "pendaftaran MOF".
 
-## Pada pandangan sepintas lalu
+## Siapa yang mengurusnya dan di mana kedudukannya?
 
-| | |
+Kementerian ini ditubuhkan pada 31 Ogos 1957 dan beribu pejabat di Kompleks Kementerian Kewangan, No. 5 Persiaran Perdana, Presint 2, Putrajaya (62592). Ia berfungsi sebagai agensi pusat bagi pengurusan kewangan dan pembangunan ekonomi negara, bekerjasama dengan Jabatan Perdana Menteri (Unit Perancang Ekonomi), kementerian-kementerian lain dan Bank Negara Malaysia.
+
+| Jawatan | Pemegang (setakat Ogos 2026) |
 | --- | --- |
-| Nama | Kementerian Kewangan Malaysia / Ministry of Finance (MOF) |
-| Jentera teras | Perbendaharaan Malaysia (Treasury) |
-| Menteri Kewangan | Dato' Seri Anwar Ibrahim (Perdana Menteri) |
-| Pegawai perkhidmatan awam tertinggi | Ketua Setiausaha Perbendaharaan |
-| Statut prosedur | Akta Tatacara Kewangan 1957 (Akta 61) |
-| Wahana pelaburan | Menteri Kewangan (Diperbadankan) — Akta 375 |
-| Undang-undang tanggungjawab fiskal | Akta Kewangan Awam dan Tanggungjawab Fiskal 2023 (Akta 850) |
-| Laman web | `mof.gov.my` |
+| Menteri Kewangan | Dato' Seri Anwar bin Ibrahim |
+| Menteri Kewangan II | Datuk Seri Amir Hamzah bin Azizan |
+| Ketua Setiausaha Perbendaharaan | Datuk Johan Mahmood bin Merican |
 
-Pemegang jawatan berubah dengan rombakan Kabinet; sahkan Menteri Kewangan II, Timbalan Menteri dan Ketua Setiausaha Perbendaharaan semasa di `mof.gov.my`.
+Pemegang jawatan berubah dengan rombakan Kabinet, jadi sahkan nama semasa dan mana-mana timbalan menteri di `mof.gov.my`.
 
-## Apa yang dilakukan oleh kementerian ini
+## Apakah sebenarnya yang dilakukan oleh Kementerian ini?
 
-Kementerian Kewangan bertanggungjawab ke atas kedua-dua belah kunci kira-kira kerajaan. Ia menggubal dasar fiskal negara, menyediakan dan membentangkan Belanjawan Persekutuan tahunan, menguruskan pengambilan dan pembayaran balik pinjaman kerajaan, mengawal perakaunan kerajaan melalui Perbendaharaan, dan menyelia pengurusan kewangan kementerian, jabatan dan badan berkanun yang lain. Ia juga merupakan kementerian peneraju bagi sistem kewangan, menyelia pihak berkuasa cukai, pasaran modal, dan pembiayaan sektor awam melalui agensinya.
+Kementerian ini berada pada kedua-dua belah kunci kira-kira kerajaan — menjana hasil dan mengawal perbelanjaan. Portal rasminya menyusun kerja tersebut ke dalam empat bidang kandungan: **Ekonomi & Fiskal**, **Belanjawan**, **Cukai**, dan **Perolehan**.
 
-## Statut yang memberikannya kuasa
+Detik yang paling ketara dalam kitaran itu ialah Belanjawan. Setiap tahun pada bulan Oktober, Menteri Kewangan membentangkan Belanjawan persekutuan Malaysia kepada Parlimen, menggariskan hasil dan perbelanjaan yang dirancang kerajaan bagi tahun mendatang.
 
-Tiga undang-undang membingkai kerja kementerian ini:
+Institusi ini lebih tua daripada yang ditunjukkan oleh tarikh 1957. Akarnya berbalik kepada pentadbiran kewangan berpusat di bawah Perjanjian Majlis Persekutuan yang ditandatangani pada 25 Oktober 1909 — Henry George Bagnall Vane berkhidmat sebagai Pesuruhjaya Kewangan pertama (1909–1915) — dan kepada Pekeliling Perbendaharaan Bil. 15 tahun 1951, yang mengintegrasikan sepenuhnya pentadbiran kewangan negeri serta menubuhkan Perbendaharaan Persekutuan sebagai agensi pusat bagi hasil dan perbelanjaan.
 
-- **Akta Tatacara Kewangan 1957 (Akta 61)** memperuntukkan kawalan dan pengurusan kewangan awam Persekutuan dan Negeri-negeri. Ia menetapkan mekanik wang awam — Kumpulan Wang Disatukan, Kumpulan Wang Luar Jangka, peranan pegawai pengawal, dan penyata akaun tahunan.
-- **Akta Menteri Kewangan (Pemerbadanan) 1957 (Akta 375)** menjadikan Menteri Kewangan sebagai satu pertubuhan perbadanan — **Menteri Kewangan (Diperbadankan)**, dikenali sebagai MOF Inc. atau MKD. Orang perbadanan ini mempunyai penggantian tetap dan boleh memegang harta, mendakwa dan didakwa, serta membuat kontrak. Ia merupakan wahana yang melaluinya kerajaan persekutuan memegang saham dalam syarikat berkaitan kerajaan dan aset komersial lain.
-- **Akta Kewangan Awam dan Tanggungjawab Fiskal 2023 (Akta 850)**, berkuat kuasa sejak 1 Januari 2024, mengikat pengurusan fiskal kementerian kepada prinsip pengurusan fiskal bertanggungjawab dan sasaran berangka jangka sederhana.
+## Jabatan dan agensi mana yang berada di bawahnya?
 
-## Jabatan dan agensi di bawahnya
+Dua lapisan berada di bawah Kementerian ini. **Jabatan** ialah sebahagian daripada perkhidmatan awam; **agensi** pula sebahagian besarnya badan berkanun dengan lembaga masing-masing. Portal menyenaraikan kira-kira empat belas agensi utama.
 
-Kementerian ini disusun kepada **jabatan** yang merupakan sebahagian daripada perkhidmatan awam dan **agensi** yang kebanyakannya badan berkanun atau syarikat milik kerajaan dengan lembaga masing-masing.
-
-| Jenis | Badan | Fungsi |
+| Jenis | Badan | Menguruskan |
 | --- | --- | --- |
-| Jabatan | Perbendaharaan Malaysia | Jentera teras kementerian |
-| Jabatan | Jabatan Kastam Diraja Malaysia (JKDM) | Cukai tidak langsung — SST, eksais, kastam |
-| Jabatan | Jabatan Akauntan Negara | Perakaunan dan pembayaran kerajaan |
-| Jabatan | Jabatan Penilaian dan Perkhidmatan Harta (JPPH) | Penilaian hartanah kerajaan |
-| Agensi | Lembaga Hasil Dalam Negeri (LHDN) | Cukai langsung — cukai pendapatan, duti setem, CKHT |
-| Agensi | Bank Negara Malaysia | Bank pusat; dasar monetari dan kawal selia perbankan |
-| Agensi | Suruhanjaya Sekuriti Malaysia | Kawal selia pasaran modal |
-| Agensi | Kumpulan Wang Simpanan Pekerja (KWSP) / KWAP | Simpanan persaraan dan pencen sektor awam |
-| Agensi | Perbadanan Insurans Deposit Malaysia (PIDM) | Insurans deposit dan takaful |
+| Jabatan | Perbendaharaan Persekutuan (Perbendaharaan) | Jentera kewangan teras |
+| Jabatan | Jabatan Kastam Diraja Malaysia | Cukai tidak langsung dan kastam |
+| Jabatan | Jabatan Akauntan Negara | Akaun dan pembayaran kerajaan |
+| Jabatan | Jabatan Penilaian & Perkhidmatan Harta | Penilaian harta kerajaan |
+| Agensi | Lembaga Hasil Dalam Negeri (LHDN) | Kutipan cukai langsung |
+| Agensi | Bank Negara Malaysia | Bank pusat; dasar monetari |
+| Agensi | Suruhanjaya Sekuriti Malaysia | Pengawalseliaan pasaran modal |
+| Agensi | Kumpulan Wang Simpanan Pekerja (EPF/KWSP) | Simpanan persaraan sektor swasta |
+| Agensi | Kumpulan Wang Persaraan (KWAP) | Pencen sektor awam |
+| Agensi | Bursa Malaysia; Bank Simpanan Nasional | Bursa saham; bank simpanan |
 
-Dua agensi paling kerap dikelirukan kerana kedua-duanya mengutip cukai: **LHDN** bagi cukai langsung dan **Kastam** bagi cukai tidak langsung. Kedua-duanya berada di bawah kementerian ini tetapi merupakan pihak berkuasa yang berasingan.
+## Apakah Menteri Kewangan (Diperbadankan), atau MOF Inc?
 
-## Apa yang seterusnya
+Menteri Kewangan (Diperbadankan) — MOF Inc — ialah sebuah badan korporat atas nama Menteri Kewangan, ditubuhkan di bawah Akta Menteri Kewangan (Pemerbadanan) 1957. Ia boleh menyertai kontrak, membuat perolehan, serta memegang aset ketara dan tidak ketara bagi pihak kerajaan. Ia ialah wahana perundangan yang melaluinya kerajaan persekutuan memiliki aset komersial, dan berbeza daripada pentadbiran harian kementerian.
 
-Untuk cara Belanjawan disediakan dan sebesar mana hutang negara, baca [Kementerian Kewangan (Perbendaharaan)](/government/ministry-of-finance-treasury). Untuk dua pengutip cukai itu, lihat [LHDN](/government/lhdn) bagi cukai langsung dan [Jabatan Kastam Diraja Malaysia](/government/rmcd-kastam) bagi cukai tidak langsung. Untuk mengesahkan mana-mana statut yang dipetik di sini, gunakan teks rasmi di `mof.gov.my` dan Jabatan Peguam Negara.
+## Adakah "pendaftaran MOF" sama dengan Kementerian?
+
+Tidak — dan inilah kekeliruan yang tidak pernah diselesaikan oleh hasil carian. **ePerolehan** ialah portal e-perolehan Malaysia, dikendalikan oleh Kementerian Kewangan, yang melaluinya pembekal mendaftar untuk berurus niaga dengan kerajaan. **Akaun Asas** adalah untuk warganegara Malaysia dengan transaksi sehingga RM20,000, tanpa yuran; **Akaun MOF** meliputi transaksi RM20,000 dan ke atas, dibahagikan kepada kategori Kontraktor dan Perunding. Akaun MOF berharga **RM450** bagi pendaftaran baharu atau pembaharuan, sah selama **3 tahun**. Jadi "lesen MOF" yang diperlukan sesebuah perniagaan ialah pendaftaran pembekal melalui ePerolehan — bukan urusan pejabat dasar kementerian.
+
+## Apa seterusnya
+
+Untuk mendaftar sebagai pembekal kerajaan, mulakan di portal ePerolehan (`eperolehan.gov.my`). Untuk mengikuti perkembangan institusi ini — kepimpinan, Belanjawan Oktober, dan senarai penuh agensinya — sumber berautoriti ialah portal rasmi di `mof.gov.my`. Ambil perhatian bahawa beberapa angka di sini (peruntukan belanjawan kementerian itu sendiri, jumlah kakitangan, dan bilangan tepat agensi) perlu disahkan semula terhadap anggaran rasmi semasa sebelum dianggap sebagai terkini.

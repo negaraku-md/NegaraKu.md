@@ -1,128 +1,125 @@
 ---
 topicId: "MY-GOV-0092"
-title: "财政部（MOF）"
-seoTitle: "马来西亚财政部（MOF）：职能、法律与机构"
+title: "马来西亚财政部（MOF）：国库、机构与预算周期"
+seoTitle: "马来西亚财政部（MOF）：职能与机构"
+socialTitle: "掌管马来西亚每一分令吉支出的部门"
 slug: "ministry-of-finance-mof"
 category: "government"
-subcategory: ["agencies"]
-summary: "马来西亚财政部（Kementerian Kewangan）的权威实体参考——其职权、赋予其权力的法规、财政部长（法团）（Minister of Finance (Incorporated)），以及其属下的各部门与机构。"
+subcategory: ["ministries"]
+summary: "马来西亚财政部（MOF / Kementerian Kewangan）是筹集国家收入、管控联邦开支、每年提呈年度预算案，并统辖国库以及从关税局、内陆税收局（LHDN）到国家银行等多个机构的中央部门，同时也是企业向政府销售商品前须注册的主管单位。"
 tier: "3"
 mode: "practical"
 contentType: "agency"
 sensitivity: "none"
-answer: "财政部（MOF，Kementerian Kewangan Malaysia），又称国库或财政库（Perbendaharaan），是负责马来西亚政府收入、支出与借贷的联邦部门。它制定财政政策、编制年度预算案，并监管国家的税务机关及金融法定机构。其财务与会计程序由《1957年财务程序法令》（第61号法令）规定，其投资载体则是根据第375号法令设立的财政部长（法团）。"
+answer: "财政部（MOF, Kementerian Kewangan）是马来西亚政府负责政府开支与收入筹集的部门。它制定经济政策，编制部长每年10月在国会提呈的联邦预算案，并监管金融立法与监管事务。四个联邦部门及约十四个主要机构——从关税局、内陆税收局（LHDN）到国家银行——皆隶属其下。另一个含义「MOF执照」，则指通过 ePerolehan 注册成为政府供应商。"
 keyTakeaways:
-  - "财政部（Kementerian Kewangan Malaysia）是主管政府收入、支出与借贷的联邦部门；其行政机构为国库（Perbendaharaan），由国库总秘书（Secretary General of Treasury）领导"
-  - "《1957年财务程序法令》（第61号法令）规定了对马来西亚公共财政的管制与管理，涵盖统一基金（Consolidated Fund）、应急基金（Contingencies Fund）及监管官员"
-  - "《1957年财政部长（法团化）法令》（第375号法令）使财政部长成为一个法人团体——财政部长（法团）或MKD——持有政府关联公司及公共商业资产"
-  - "自2024年1月1日起，财政部的财政管理受《2023年公共财政与财政责任法令》（第850号法令）约束"
-  - "其税务机构为LHDN（内陆税收局，负责直接税）与马来西亚皇家关税局（负责间接税）；国家银行（Bank Negara）、证券委员会、EPF（公积金局）、KWAP及PIDM均属其下的金融机构"
-  - "现任财政部长为首相拿督斯里安华·依布拉欣（Dato' Seri Anwar Ibrahim），并由第二财政部长协助——任职者会更替，请在 mof.gov.my 上核实"
-appliesTo: "任何需要快速、权威地了解财政部是什么、由哪些法规赋予其权力，以及哪些金融机构隶属其下的人。"
+  - "财政部负责政府开支与收入筹集；它制定经济政策、编制联邦预算案，并监管金融立法与监管事务"
+  - "财政部长每年10月向国会提呈联邦预算案"
+  - "它于1957年8月31日成立，总部设于布城第2区（Precinct 2）财政部大厦"
+  - "四个部门隶属其下——联邦国库（Perbendaharaan）、马来西亚皇家关税局、会计总长署，以及估价及产业服务局"
+  - "其属下机构包括内陆税收局（LHDN）、雇员公积金局（EPF/KWSP）、国家银行、证券监督委员会、马来西亚交易所、国民储蓄银行及公务员退休基金局（KWAP）"
+  - "财政部（公司化）（Minister of Finance (Incorporated)，简称 MOF Inc）是根据《1957年财政部长（公司化）法令》设立的法人团体，代政府持有资产"
+  - "另一独立含义的「MOF注册」指通过 ePerolehan 进行的供应商注册——一个 MOF 户口费用为 RM450，有效期3年"
+appliesTo: "希望了解财政部是什么及其架构的公民与学生，以及试图区分「财政部这个部门」与「企业向政府销售所需的 MOF 注册」的读者。"
 faq:
-  - q: "财政部与国库有什么区别？"
-    a: "两者是同一个机构在两个层面的体现。“财政部”（Kementerian Kewangan）是政策层面的部门，由财政部长领导；“国库”（Perbendaharaan）则是其核心行政机构，由国库总秘书（Secretary General of Treasury，即该部最高文官）领导。"
-  - q: "什么是财政部长（法团）或MKD？"
-    a: "根据《1957年财政部长（法团化）法令》（第375号法令），财政部长是一个具有永久存续权的法人团体——财政部长（法团），简称MOF Inc.或MKD（Menteri Kewangan Diperbadankan）。它可以持有财产、起诉与被起诉、订立合约，是联邦持有政府关联公司股份及其他商业资产的载体。"
-  - q: "财政部是否直接征税？"
-    a: "不。财政部制定税务政策，但征收工作由其属下机构执行：LHDN（内陆税收局）负责所得税、印花税等直接税，马来西亚皇家关税局负责SST（销售与服务税）、消费税等间接税。直接发给财政部本身的税务查询只会被转介。"
+  - q: "「财政部这个部门」和「MOF 注册」有什么区别？"
+    a: "这是人们输入同一个搜索框的两件不同的事。财政部这个部门是马来西亚政府的财政主管部门——负责收入、开支与预算案。而「MOF 注册」或「MOF 执照」指的是通过财政部的电子采购门户 ePerolehan 注册成为政府供应商，以便公司能够投标并与政府进行交易。"
+  - q: "谁领导财政部？"
+    a: "截至2026年8月，财政部长为拿督斯里安华·依布拉欣（Dato' Seri Anwar bin Ibrahim），第二财政部长为拿督斯里阿米尔·韩查·阿兹占（Datuk Seri Amir Hamzah bin Azizan），国库秘书长为拿督佐汉·玛慕·梅里肯（Datuk Johan Mahmood bin Merican）。官员会随内阁改组而变动，请在 mof.gov.my 核实当前姓名。"
 lang: "zh"
-sourceContentHash: "9b41654461bebbbe"
 masterLanguage: "en"
 translationStatus: "in-sync"
+sourceContentHash: "d725c73359a7391e"
 status: "in-review"
 aiAssisted: true
 reviewer: null
-version: "0.1"
+version: "0.2"
 revisions:
   - version: "0.1"
     date: 2026-08-10
-    change: "Initial AI draft. Statutes (Act 61, Act 375, Act 850) and the departments/agencies list sourced to MOF portal, AGC/CommonLII statute text and the MOF Government Investment Companies FAQ."
+    change: "Initial AI draft."
+    reviewer: null
+  - version: "0.2"
+    date: 2026-08-14
+    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
     reviewer: null
 verificationNeeded:
-  - "Exact section of the Minister of Finance (Incorporation) Act 1957 (Act 375) that incorporates the Minister as a body corporate (reported variously as s.2 or s.3) — confirm against the AGC/CommonLII statute text."
-  - "Commencement dates of the Financial Procedure Act 1957 (Act 61): original Ordinance 1957, revised as Act 61 effective 1 March 1972, and extension to Sabah and Sarawak — confirm exact dates against the AGC reprint."
-  - "Current political and administrative office holders (Minister of Finance II, Deputy Minister, Secretary General of Treasury) at mof.gov.my — these change with Cabinet reshuffles."
-updated: 2026-08-10
+  - "Current officeholders change frequently — confirm the sitting Deputy Finance Minister(s) and exact appointment dates at publish time; state officeholders with an 'as of <date>' qualifier."
+  - "The MYR 46,981,917,800 (2026) figure is the ministry's own budget allocation, not the national federal budget — confirm framing and source it to the official 2026 Budget expenditure estimates before stating."
+  - "Exact current count of agencies/statutory bodies under MOF (portal says '14 major agencies', Wikipedia infobox lists 13) — reconcile against the portal's current 'Departments & Agencies' listing at publish time."
+  - "Employee headcount '30,735 (2022)' is dated — check for a newer figure before presenting as current."
+  - "Specific companies held by MOF Inc — verify each named holding against a primary/official source before listing (e.g. Petronas ownership is vested via the Petroleum Development Act, not simply 'owned by MOF Inc')."
+  - "Formation framing: history traces roots to the 1909 Federal Council and the 1951 Treasury Circular No. 15; the 31 August 1957 date is the modern-ministry date — present both rather than a single 'founded' date."
+updated: 2026-08-14
 sources:
+  - title: "Ministry of Finance (Malaysia) — Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Ministry_of_Finance_(Malaysia)"
+    publisher: "Wikipedia"
   - title: "Ministry of Finance Official Portal"
-    url: "https://www.mof.gov.my/portal/en"
-    publisher: "Kementerian Kewangan Malaysia"
-  - title: "Departments & Agencies under the Ministry of Finance"
-    url: "https://mof.gov.my/portal/en/profile/departments-agencies"
-    publisher: "Kementerian Kewangan Malaysia"
-  - title: "Financial Procedure Act 1957 (Act 61) — official reprint"
-    url: "https://mof.gov.my/portal/pdf/bahagian/gic/Akta_Tatacara_Kewangan_1957.pdf"
-    publisher: "Kementerian Kewangan Malaysia"
-  - title: "Financial Procedure Act 1957 (Revised 1972)"
-    url: "http://www.commonlii.org/my/legis/consol_act/fpa19571972252/"
-    publisher: "Commonwealth Legal Information Institute (CommonLII)"
-  - title: "Minister of Finance (Incorporation) Act 1957 (Revised 1989)"
-    url: "https://www.commonlii.org/my/legis/consol_act/mofa19571989413/"
-    publisher: "Commonwealth Legal Information Institute (CommonLII)"
-  - title: "FAQ — Government Investment Companies / Minister of Finance (Incorporated)"
-    url: "https://www.mof.gov.my/portal/pdf/bahagian/gic/faq-en.pdf"
-    publisher: "Kementerian Kewangan Malaysia"
-  - title: "Public Finance and Fiscal Responsibility Act 2023 (Act 850)"
-    url: "https://www.mof.gov.my/portal/pdf/ekonomi/akta-850-en.pdf"
-    publisher: "Kementerian Kewangan Malaysia"
-    date: "2023-12-29"
-entity: "Kementerian Kewangan Malaysia"
-relations:
-  - { rel: "related-to", to: "ministry-of-finance-treasury" }
-  - { rel: "related-to", to: "lhdn" }
-  - { rel: "related-to", to: "rmcd-kastam" }
-related: ["ministry-of-finance-treasury", "lhdn", "rmcd-kastam"]
-keywords: ["MOF", "Ministry of Finance Malaysia", "Kementerian Kewangan", "Perbendaharaan", "Treasury Malaysia", "Minister of Finance Incorporated", "MKD", "Financial Procedure Act 1957"]
+    url: "https://www.mof.gov.my/portal/en/"
+    publisher: "Ministry of Finance Malaysia"
+  - title: "Ministry of Finance Malaysia — History"
+    url: "https://www.mof.gov.my/portal/en/profile/history"
+    publisher: "Ministry of Finance Malaysia"
+  - title: "Minister of Finance (Incorporated) — Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Minister_of_Finance_(Incorporated)"
+    publisher: "Wikipedia"
+  - title: "New Supplier Registration — ePerolehan"
+    url: "https://www.eperolehan.gov.my/en/online-registration"
+    publisher: "ePerolehan / Ministry of Finance Malaysia"
+entity: "Ministry of Finance (Malaysia)"
+relations: []
+related: []
+keywords: ["Ministry of Finance Malaysia", "MOF", "Kementerian Kewangan", "MOF Malaysia", "Menteri Kewangan", "MOF Inc", "Minister of Finance Incorporated", "Perbendaharaan Malaysia", "Federal Treasury Malaysia", "Malaysia federal budget", "Belanjawan", "MOF registration", "MOF licence", "ePerolehan", "kod bidang", "Treasury Malaysia", "mof.gov.my"]
 ---
 
-财政部是管理马来西亚政府资金的联邦部门——它征收的收入、支出的款项，以及筹措的债务。在马来文中它称为 Kementerian Kewangan；其核心行政机构是国库，即 Perbendaharaan。本页是关于该部门是什么、由哪些法律赋予其权力，以及哪些机构隶属其下的简短参考。有关预算案与国债的详情，请参阅 [财政部（国库）](/government/ministry-of-finance-treasury)。
+联邦政府征收和花费的每一分令吉，都要经过同一个机构：财政部。它是马来西亚政府负责政府开支与收入筹集的部门——制定经济政策，编制马来西亚联邦预算案，并监管金融立法与监管事务。马来文称之为 Kementerian Kewangan，其核心机制是联邦国库，即 Perbendaharaan。本页先说明这个机构，然后再把它与人们搜索「MOF 注册」时所指的另一件事区分开来。
 
-## 一览
+## 谁在主管？总部在哪里？
 
-| | |
+财政部于1957年8月31日成立，总部设于布城第2区（Precinct 2）财政部大厦，No. 5 Persiaran Perdana（62592）。它作为国家财务管理与经济发展的中央机构运作，与首相署（经济策划单位）、其他部门及马来西亚国家银行协同工作。
+
+| 职位 | 任职者（截至2026年8月） |
 | --- | --- |
-| 名称 | Kementerian Kewangan Malaysia / 财政部（MOF） |
-| 核心机构 | 马来西亚国库（Perbendaharaan） |
-| 财政部长 | 拿督斯里安华·依布拉欣（首相） |
-| 最高文官 | 国库总秘书（Secretary General of Treasury） |
-| 程序法规 | 《1957年财务程序法令》（第61号法令） |
-| 投资载体 | 财政部长（法团）——第375号法令 |
-| 财政责任法 | 《2023年公共财政与财政责任法令》（第850号法令） |
-| 网站 | `mof.gov.my` |
+| 财政部长 | 拿督斯里安华·依布拉欣（Dato' Seri Anwar bin Ibrahim） |
+| 第二财政部长 | 拿督斯里阿米尔·韩查·阿兹占（Datuk Seri Amir Hamzah bin Azizan） |
+| 国库秘书长 | 拿督佐汉·玛慕·梅里肯（Datuk Johan Mahmood bin Merican） |
 
-任职者会随内阁改组而更替；请在 `mof.gov.my` 上核实现任的第二财政部长、副部长及国库总秘书。
+官员会随内阁改组而变动，因此请在 `mof.gov.my` 核实当前姓名及任何副部长。
 
-## 该部门的职能
+## 财政部实际做些什么？
 
-财政部对政府资产负债表的两端都负有责任。它制定国家财政政策，编制并提呈年度联邦预算案，管理政府借贷的筹措与偿还，通过国库管制政府会计，并监督其他部门、机关及法定机构的财务管理。它也是主管金融体系的牵头部门，通过其属下机构监管税务机关、资本市场及公共部门融资。
+财政部处于政府资产负债表的两端——既筹集收入，又管控开支。其官方门户网站将工作划分为四个内容领域：**经济与财政**、**预算**、**税务** 及 **采购**。
 
-## 赋予其权力的法规
+这个周期中最受瞩目的时刻是预算案。每年10月，财政部长会向国会提呈马来西亚联邦预算案，列明政府来年的收入与开支计划。
 
-三项法律构建了该部门的工作框架：
+这个机构比其1957年的成立日期所显示的更为悠久。它的根源可追溯至1909年10月25日签署的《联邦议会协定》（Federal Council Agreement）下的中央财务行政管理——亨利·乔治·巴格纳尔·凡恩（Henry George Bagnall Vane）出任首任财务专员（1909–1915年）——以及1951年的第15号国库通令（Treasury Circular No. 15），该通令全面整合了各州的财务行政，并确立联邦国库为收入与开支的中央机构。
 
-- **《1957年财务程序法令》（第61号法令）** 规定了对联邦与各州公共财政的管制与管理。它确立了公共资金的运作机制——统一基金（Consolidated Fund）、应急基金（Contingencies Fund）、监管官员的角色，以及年度账目报表。
-- **《1957年财政部长（法团化）法令》（第375号法令）** 使财政部长成为一个法人团体——**财政部长（法团）**，即MOF Inc.或MKD。该法人具有永久存续权，可持有财产、起诉与被起诉、订立合约。它是联邦政府持有政府关联公司股份及其他商业资产的载体。
-- **《2023年公共财政与财政责任法令》（第850号法令）**，自2024年1月1日起生效，使该部门的财政管理须遵循负责任财政管理的原则及中期数值目标。
+## 哪些部门与机构隶属其下？
 
-## 属下的部门与机构
+财政部之下分为两个层级。**部门**属于公务体系；**机构**则大多是拥有各自董事会的法定机构。门户网站列出约十四个主要机构。
 
-该部门由属于文官体系的**部门**（departments），以及大多为拥有各自董事会的法定机构或政府所有公司的**机构**（agencies）组成。
-
-| 类别 | 机构 | 职能 |
+| 类型 | 单位 | 职掌 |
 | --- | --- | --- |
-| 部门 | 马来西亚国库 | 该部门的核心机构 |
-| 部门 | 马来西亚皇家关税局（RMCD） | 间接税——SST、消费税、关税 |
-| 部门 | 会计总长署（Accountant General's Department） | 政府会计与支付 |
-| 部门 | 估价及产业服务局（JPPH） | 政府房地产估价 |
-| 机构 | 内陆税收局（LHDN） | 直接税——所得税、印花税、产业盈利税（RPGT） |
-| 机构 | 马来西亚国家银行（Bank Negara Malaysia） | 中央银行；货币政策与银行监管 |
-| 机构 | 马来西亚证券委员会 | 资本市场监管 |
-| 机构 | 公积金局（EPF）/ KWAP | 退休储蓄与公共部门退休金 |
-| 机构 | 马来西亚存款保险机构（PIDM） | 存款与回教保险（takaful）保障 |
+| 部门 | 联邦国库（Perbendaharaan） | 核心财务机制 |
+| 部门 | 马来西亚皇家关税局 | 间接税与关税 |
+| 部门 | 会计总长署 | 政府账目与付款 |
+| 部门 | 估价及产业服务局 | 政府产业估价 |
+| 机构 | 内陆税收局（LHDN） | 直接税征收 |
+| 机构 | 马来西亚国家银行 | 中央银行；货币政策 |
+| 机构 | 马来西亚证券监督委员会 | 资本市场监管 |
+| 机构 | 雇员公积金局（EPF/KWSP） | 私人界退休储蓄 |
+| 机构 | 公务员退休基金局（KWAP） | 公共界退休金 |
+| 机构 | 马来西亚交易所；国民储蓄银行 | 证券交易所；储蓄银行 |
 
-有两个机构最常被混淆，因为两者都征税：**LHDN** 负责直接税，而**关税局**负责间接税。两者都隶属本部门，但属各自独立的机关。
+## 什么是财政部（公司化），即 MOF Inc？
 
-## 下一步
+财政部（公司化）——MOF Inc——是以财政部长名义设立的法人团体，根据《1957年财政部长（公司化）法令》成立。它可以签订合约、进行收购，并代政府持有有形与无形资产。它是联邦政府拥有商业资产的法律载体，与财政部的日常行政管理有所区别。
 
-有关预算案如何编制及国债规模如何，请阅读 [财政部（国库）](/government/ministry-of-finance-treasury)。有关两个征税机关，直接税请参阅 [LHDN](/government/lhdn)，间接税请参阅 [马来西亚皇家关税局](/government/rmcd-kastam)。若要核实此处引用的任何法规，请使用 `mof.gov.my` 及总检察署（Attorney General's Chambers）的官方文本。
+## 「MOF 注册」和财政部是同一回事吗？
+
+不是——而这正是搜索结果从未厘清的混淆之处。**ePerolehan** 是马来西亚的电子采购门户，由财政部运营，供应商通过它注册以便与政府进行交易。**基本户口**（Basic Account）供交易额不超过 RM20,000 的马来西亚公民使用，免收费用；**MOF 户口**则涵盖 RM20,000 及以上的交易，分为承包商（Contractor）与顾问（Consultant）两类。一个 MOF 户口的新注册或续期费用为 **RM450**，有效期 **3年**。因此，企业所需的「MOF 执照」是通过 ePerolehan 进行的供应商注册——而非财政部政策部门所管的事务。
+
+## 接下来
+
+若要注册成为政府供应商，请从 ePerolehan 门户（`eperolehan.gov.my`）开始。若要关注这个机构——领导层、10月的预算案，以及其完整机构名单——权威来源是 `mof.gov.my` 的官方门户网站。请注意，本页若干数据（财政部本身的预算拨款、员工人数，以及确切的机构数目）在被视为最新资料之前，应对照当前官方估算重新核实。

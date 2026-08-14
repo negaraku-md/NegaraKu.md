@@ -1,174 +1,163 @@
 ---
 topicId: "MY-CS-0060"
-title: "Resolusi Khas lawan Resolusi Biasa"
-seoTitle: "Resolusi Khas lawan Biasa: Akta Syarikat 2016 Malaysia"
+title: "Resolusi Khas lwn Resolusi Biasa di Malaysia: Yang Mana Diperlukan Syarikat Anda"
+seoTitle: "Resolusi Khas lwn Biasa Malaysia (CA 2016)"
+socialTitle: "75% atau Sekadar 50%? Peraturan Resolusi yang Mengelirukan Pengarah Malaysia"
 slug: "special-resolution"
 category: "company-secretary"
 subcategory: ["meetings-resolutions"]
-summary: "Perbezaan antara resolusi biasa (majoriti mudah) dan resolusi khas (75%) di bawah Akta Syarikat 2016, bila setiap satu diperlukan, serta peraturan notis dan pelabelan yang menjadikan resolusi khas itu sah."
-
+summary: "Di bawah Akta Syarikat 2016 Malaysia, resolusi biasa diluluskan atas majoriti mudah (melebihi 50%) manakala resolusi khas memerlukan sekurang-kurangnya 75% dan notis yang lebih panjang — panduan ini memetakan setiap tindakan korporat lazim kepada jenis resolusi dan seksyen statut yang diperlukannya."
 tier: "3"
 mode: "practical"
 contentType: "guide"
 sensitivity: "none"
-
-answer: "Di bawah Akta Syarikat 2016, resolusi biasa diluluskan dengan majoriti mudah — lebih daripada separuh ahli yang mengundi (s.291) — manakala resolusi khas memerlukan majoriti tidak kurang daripada 75% (s.292(1)). Mesyuarat untuk meluluskan resolusi khas memerlukan notis 21 hari (s.292(1)), dan resolusi khas yang diluluskan secara bertulis mesti menyatakan pada mukanya bahawa ia ialah resolusi khas (s.292(2)). Apabila Akta dan perlembagaan berdiam diri tentang jenis mana yang diperlukan, resolusi biasa memadai (s.290(3)); Akta menyimpan resolusi khas untuk senarai keputusan besar yang ditetapkan seperti meminda perlembagaan (s.36), menukar nama (s.28) dan mengurangkan modal (ss.116–117)."
+answer: "Di bawah Akta Syarikat 2016, resolusi biasa diluluskan atas majoriti mudah — lebih daripada separuh ahli yang berhak mengundi dan benar-benar mengundi (seksyen 291). Resolusi khas memerlukan majoriti tidak kurang daripada 75% (seksyen 292) dan notis sekurang-kurangnya 21 hari, berbanding 14 hari bagi urusan biasa. Yang mana diperlukan ditentukan oleh tindakan itu sendiri: urusan rutin berjalan atas resolusi biasa, manakala keputusan berstruktur — meminda perlembagaan, menukar nama, mengurangkan modal, penggulungan — dikhaskan oleh statut untuk resolusi khas."
 keyTakeaways:
-  - "Resolusi biasa = lebih daripada separuh ahli yang mengundi, secara sendiri, melalui proksi, atau atas resolusi bertulis — s.291"
-  - "Resolusi khas = tidak kurang daripada 75% ahli tersebut — s.292(1)"
-  - "Mesyuarat untuk meluluskan resolusi khas memerlukan notis 21 hari, tanpa mengira jenis syarikat — s.292(1)"
-  - "Lalai ialah biasa: apabila Akta mahupun perlembagaan tidak menyatakan jenisnya, resolusi biasa terpakai — s.290(3)"
-  - "Resolusi khas bertulis bukan resolusi khas melainkan ia menyatakannya dan diluluskan sebagai satu — s.292(2)"
-  - "Notis khas (28 hari, s.322) ialah konsep berasingan — ia tidak menjadikan resolusi biasa sebagai resolusi khas"
-appliesTo: "Pengarah, pemegang saham dan setiausaha syarikat yang menentukan jenis resolusi ahli yang diperlukan oleh sesuatu keputusan, serta cara membuat perkataan dan notisnya, dalam sesebuah syarikat Malaysia."
-
+  - "Resolusi biasa = majoriti mudah, lebih daripada separuh ahli yang berhak mengundi dan benar-benar mengundi (seksyen 291)."
+  - "Resolusi khas = tidak kurang daripada 75% ahli tersebut (seksyen 292)."
+  - "Resolusi khas memerlukan notis sekurang-kurangnya 21 hari; mesyuarat bagi urusan biasa memerlukan sekurang-kurangnya 14 hari."
+  - "Syarikat persendirian kini meluluskan resolusi melalui resolusi bertulis (seksyen 290); resolusi bertulis yang dicadangkan luput jika tidak diluluskan dalam tempoh 28 hari selepas diedarkan (seksyen 307)."
+  - "Tindakan menentukan jenisnya: perlembagaan (s.36), pertukaran nama (s.28), pengurangan modal (s.116/117) dan penggulungan sukarela ahli (s.439) semuanya memerlukan resolusi khas."
+appliesTo: "Pengarah, pemegang saham dan setiausaha syarikat sebuah syarikat Malaysia (terutamanya Sdn Bhd persendirian) yang menentukan jenis resolusi ahli yang diperlukan oleh sesuatu keputusan tertentu dan cara meluluskannya."
 faq:
-  - q: "Berapa peratus meluluskan resolusi biasa berbanding resolusi khas?"
-    a: "Resolusi biasa memerlukan majoriti mudah — lebih daripada separuh ahli yang berhak mengundi yang mengundi secara sendiri, melalui proksi apabila dibenarkan, atau atas resolusi bertulis (s.291 Akta Syarikat 2016). Resolusi khas memerlukan majoriti tidak kurang daripada 75% ahli tersebut (s.292(1)). Peratusan itu ialah daripada undi yang dibuang, bukan daripada keseluruhan keahlian, melainkan perlembagaan menyatakan sebaliknya."
+  - q: "Berapa peratus yang meluluskan resolusi biasa berbanding resolusi khas?"
+    a: "Resolusi biasa memerlukan majoriti mudah — lebih daripada separuh ahli yang berhak mengundi dan benar-benar mengundi secara sendiri, melalui proksi, atau atas resolusi bertulis (seksyen 291 Akta Syarikat 2016). Resolusi khas memerlukan majoriti tidak kurang daripada 75% ahli tersebut (seksyen 292). Pada undian, ambang yang sama terpakai kepada jumlah hak mengundi ahli yang mengundi."
   - q: "Berapa lama notis yang diperlukan oleh resolusi khas?"
-    a: "Mesyuarat yang dipanggil untuk meluluskan resolusi khas memerlukan sekurang-kurangnya notis 21 hari di bawah s.292(1) — lebih lama daripada 14 hari yang selainnya diperlukan oleh mesyuarat syarikat persendirian di bawah s.316(1). Perlembagaan boleh menetapkan lebih, tidak sekali-kali kurang. Notis 21 hari itu terpakai kepada syarikat persendirian dan syarikat awam."
-  - q: "Adakah notis khas sama dengan resolusi khas?"
-    a: "Tidak. Resolusi khas ialah majoriti 75% (s.292). Notis khas ialah keperluan berasingan 28 hari daripada ahli kepada syarikat (s.322(1)) yang dikenakan oleh Akta untuk beberapa resolusi tertentu — seperti memecat pengarah syarikat awam (s.206(3)) atau memecat juruaudit (s.277). Sesuatu resolusi boleh memerlukan notis khas dan masih menjadi resolusi biasa."
-  - q: "Keputusan yang mana memerlukan resolusi khas?"
-    a: "Akta menyenaraikannya secara nyata. Yang biasa ialah meminda perlembagaan (s.36(1)), menukar nama syarikat (s.28), mengurangkan modal saham (s.116 laluan mahkamah atau s.117 laluan penyata kesolvenan) dan penggulungan sukarela oleh ahli (s.439(1)). Apabila tiada peruntukan menyatakan jenisnya, s.290(3) menjadikannya resolusi biasa."
-  - q: "Adakah resolusi khas bertulis berfungsi dengan cara yang sama?"
-    a: "Ambang 75% adalah sama (s.292(1)(b)), tetapi s.292(2) menambah satu formaliti: resolusi syarikat persendirian yang diluluskan sebagai resolusi bertulis bukan resolusi khas melainkan ia dinyatakan sebagai resolusi khas dan diluluskan sebagai satu. Surat pekeliling yang mencapai persetujuan 90% tetapi tidak pernah menggunakan perkataan 'resolusi khas', pada muka Akta, bukan resolusi khas."
-
-verificationNeeded:
-  - "Exact section and threshold for variation of class rights (commonly cited as s.91) — omitted from the tables pending confirmation against the statute text."
-  - "Exact subsection governing voluntary conversion of company status between private and public (commonly cited as s.41) and whether it requires a special resolution — omitted pending confirmation."
-
+    a: "Resolusi khas memerlukan notis sekurang-kurangnya 21 hari, manakala mesyuarat bagi urusan biasa memerlukan notis sekurang-kurangnya 14 hari di bawah Akta Syarikat 2016."
+  - q: "Bagaimanakah syarikat persendirian meluluskan resolusi tanpa mengadakan mesyuarat?"
+    a: "Hanya syarikat persendirian boleh meluluskan resolusi melalui resolusi bertulis (seksyen 290). Prosedurnya dinyatakan dalam seksyen 297 hingga 308, dan resolusi bertulis yang dicadangkan luput jika tidak diluluskan dalam tempoh 28 hari selepas diedarkan (seksyen 307). Apabila diluluskan secara bertulis, resolusi biasa dipersetujui atas majoriti mudah dan resolusi khas atas sekurang-kurangnya 75% (seksyen 306(4))."
+  - q: "Keputusan manakah yang memerlukan resolusi khas?"
+    a: "Meminda, menerima pakai atau membatalkan perlembagaan (seksyen 36), menukar nama syarikat (seksyen 28), mengurangkan modal saham melalui laluan mahkamah (seksyen 116) atau laluan penyata kesolvenan (seksyen 117), dan memulakan penggulungan sukarela ahli (seksyen 439) semuanya memerlukan resolusi khas."
 lang: "ms"
-sourceContentHash: "324e48fbd85170ea"
 masterLanguage: "en"
 translationStatus: "in-sync"
-
+sourceContentHash: "b65d4a86d107f772"
 status: "in-review"
 aiAssisted: true
 reviewer: null
-version: "0.1"
+version: "0.2"
 revisions:
   - version: "0.1"
     date: 2026-08-10
     change: "Initial AI draft."
     reviewer: null
-
-updated: 2026-08-10
+  - version: "0.2"
+    date: 2026-08-14
+    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
+    reviewer: null
+verificationNeeded:
+  - "Short-notice consent thresholds under s.316(5): private company 90% (constitution may raise up to 95%), public company 95% — appeared only in secondary summaries; confirm against the official Act 777 text."
+  - "7-day deadline to lodge the members' voluntary winding-up resolution with SSM under s.439(2)(a) — confirm exact section and day count against statute/SSM form."
+  - "Exact s.316 subsection breakdown for ordinary-business notice (private and public both 14 days, and the 21-day rule for special resolutions) — confirm precise subsection numbering."
+  - "Change of company name being s.28 specifically (vs neighbouring sections) — confirm section number against Act 777."
+  - "Whether show-of-hands vs poll mechanics are in s.291(2)/(3) and s.292(3)/(4) exactly as summarised — confirm subsection numbers."
+  - "30-day deadline to lodge an amended constitution after a s.36 special resolution and the RM10,000 / RM500-per-day penalty — confirm against statute (secondary source only)."
+updated: 2026-08-14
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022 — ss.290–293 resolutions"
+  - title: "Companies Act 2016 (Act 777), official English text"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-    date: "2022-08-01"
-  - title: "Companies Act 2016 (Act 777) — ss.28 change of name, 36 amendment of constitution, 116–117 reduction of capital, 439 and 465 winding up"
-    url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-    date: "2022-08-01"
-  - title: "Companies Act 2016 (Act 777) — official consolidated text"
-    url: "https://www.investmalaysia.gov.my/media/isofddz0/companies-act-2016.pdf"
-    publisher: "Malaysian Investment Development Authority (MIDA)"
-  - title: "Application for Change of Name of a Company — Section 28"
-    url: "https://www.ssm.com.my/Pages/Legal_Framework/PDF%20Tab%202/4._application_for_change_of_name_-_section_28.pdf"
-    publisher: "SSM"
-
-entity: "Members' resolutions under the Companies Act 2016 (ordinary and special)"
-relations:
-  - { rel: "governs", to: "companies-act-2016" }
-  - { rel: "administered-by", to: "ssm" }
-  - { rel: "related-to", to: "resolution-notice-periods" }
-  - { rel: "related-to", to: "written-resolutions" }
-related: ["resolution-notice-periods", "written-resolutions", "capital-reduction", "remove-a-director", "board-meetings-and-minutes"]
-keywords: ["special resolution Malaysia", "ordinary resolution Companies Act 2016", "75 per cent special resolution", "section 292 special resolution", "section 291 ordinary resolution", "CA 2016 resolutions"]
+    publisher: "Companies Commission of Malaysia (SSM)"
+  - title: "Three Types of Shareholder Meetings in Malaysia"
+    url: "https://malaysia.acclime.com/guides/shareholder-meetings/"
+    publisher: "Acclime Malaysia"
+  - title: "Malaysian Companies Act 2016: an overview"
+    url: "https://www.accaglobal.com/gb/en/student/exam-support-resources/fundamentals-exams-study-resources/f4/technical-articles/mys-comp-act.html"
+    publisher: "ACCA (Association of Chartered Certified Accountants)"
+  - title: "A Guide to Company Constitutions under Malaysia's Companies Act 2016"
+    url: "https://mahwengkwai.com/guide-to-company-constitutions-under-malaysias-companies-act-2016/"
+    publisher: "MahWengKwai & Associates"
+  - title: "Companies Act 1965, Section 152 — Special resolutions"
+    url: "https://www.ssm.com.my/acts/fscommand/act125s0152.htm"
+    publisher: "Companies Commission of Malaysia (SSM)"
+entity: "Companies Act 2016 (Malaysia)"
+relations: []
+related: []
+keywords: ["special resolution", "ordinary resolution", "special resolution vs ordinary resolution", "Companies Act 2016", "special resolution 75%", "ordinary resolution simple majority", "section 292 Companies Act 2016", "section 291 Companies Act 2016", "written resolution private company Malaysia", "special resolution notice period", "members resolution Malaysia", "resolusi khas", "SSM resolution Malaysia"]
 ---
 
-Dua patah perkataan menentukan betapa sukarnya sesuatu keputusan pemegang saham
-untuk diluluskan. Namakannya **resolusi biasa** dan majoriti nipis membawanya.
-Namakannya **resolusi khas** dan anda memerlukan tiga suku daripada bilik itu, notis
-tiga minggu, dan — secara bertulis — perkataan yang betul pada halaman. Menyalahkan
-label bukan sekadar mempertaruhkan undi; ia boleh menjadikan resolusi itu ketiadaan
-undang-undang.
+Dua angka memisahkan keputusan pemegang saham yang rutin daripada keputusan yang
+berstruktur: 50% dan 75%. Salah pilih jenis resolusi, anda sama ada gagal mencapai
+majoriti yang dituntut oleh Akta Syarikat 2016, atau anda memberi notis tiga minggu
+untuk sesuatu yang hanya memerlukan dua minggu. Panduan ini menjawab persoalan
+sebenar — resolusi manakah yang diperlukan oleh tindakan *khusus* anda, dan
+bagaimanakah cara sebenar untuk meluluskannya sebagai sebuah Sdn Bhd persendirian?
 
-## Perbezaan teras
+## Apakah perbezaan sebenar antara kedua-duanya?
 
-Kedua-dua jenis resolusi ditakrifkan berturut-turut dalam Akta Syarikat 2016, dan
-kedua-duanya merangkumi undi pada mesyuarat *dan* undi atas resolusi bertulis.
+Kedua-dua jenis resolusi ditakrifkan secara berturutan dalam Akta Syarikat 2016, dan
+kedua-duanya meliputi undian pada mesyuarat serta undian atas resolusi bertulis.
 
 | | Resolusi biasa | Resolusi khas |
 | --- | --- | --- |
 | Majoriti | **Lebih daripada separuh** ahli yang mengundi | **Tidak kurang daripada 75%** ahli yang mengundi |
-| Seksyen | s.291 | s.292(1) |
-| Notis mesyuarat | 14 hari persendirian / 21 hari AGM awam (s.316) | **21 hari**, mana-mana syarikat (s.292(1)) |
-| Bentuk bertulis | Diluluskan atas lebih separuh bersetuju (s.291) | 75% bersetuju **dan** dinyatakan sebagai khas (s.292(2)) |
-| Bila ia terpakai | Lalai — s.290(3) | Hanya apabila Akta atau perlembagaan menyatakannya |
+| Seksyen yang mengawal | s.291 | s.292 |
+| Pada undian | Lebih daripada separuh jumlah hak mengundi | Tidak kurang daripada 75% jumlah hak mengundi |
+| Tempoh notis | Sekurang-kurangnya **14 hari** (urusan biasa) | Sekurang-kurangnya **21 hari** |
 
-Majoriti diukur berbanding undi yang **dibuang**, bukan keseluruhan keahlian,
-melainkan perlembagaan memperuntukkan sebaliknya. Atas resolusi bertulis, s.293
-memberi setiap ahli satu undi bagi setiap saham yang dipegang (tertakluk kepada
-perlembagaan).
+Majoriti diukur berdasarkan ahli yang berhak mengundi dan benar-benar mengundi —
+secara sendiri, melalui proksi, atau atas resolusi bertulis — bukan berdasarkan
+keseluruhan keahlian. Pada undian, resolusi biasa diluluskan oleh ahli yang mewakili
+lebih daripada separuh jumlah hak mengundi (s.291), manakala resolusi khas memerlukan
+ahli yang mewakili tidak kurang daripada 75% jumlah hak mengundi (s.292).
 
-## Bila Akta menuntut resolusi khas
+## Bagaimanakah sebuah Sdn Bhd persendirian meluluskannya pada hari ini?
 
-Akta tidak menyerahkan pilihan itu kepada syarikat. Bagi satu set keputusan
-berstruktur yang ditetapkan, ia menetapkan resolusi khas, dan tiada yang kurang
-daripada itu memadai:
+Kebanyakan syarikat Malaysia adalah persendirian, dan realiti praktikalnya ialah
+mereka jarang meluluskan resolusi dalam mesyuarat fizikal langsung. Hanya syarikat
+awam dikehendaki mengadakan mesyuarat agung tahunan di bawah seksyen 340; syarikat
+persendirian tidak lagi dikehendaki mengadakan AGM.
 
-| Keputusan | Seksyen |
-| --- | --- |
-| Mengubah atau meminda perlembagaan | s.36(1) |
-| Menukar nama syarikat | s.28(1) |
-| Mengurangkan modal saham — laluan disahkan mahkamah | s.116 |
-| Mengurangkan modal saham — laluan penyata kesolvenan | s.117 |
-| Penggulungan sukarela oleh ahli | s.439(1) |
-| Meluluskan syarikat digulung oleh Mahkamah | s.465(1)(a) |
+Sebaliknya, hanya syarikat persendirian boleh meluluskan resolusi melalui **resolusi
+bertulis** (seksyen 290). Prosedurnya dinyatakan dalam seksyen 297 hingga 308. Dua
+mekanik penting:
 
-Beberapa daripadanya membawa kewajipan pemfailan yang bermula daripada resolusi,
-bukan daripada mesyuarat: pindaan perlembagaan mesti difailkan dengan Pendaftar dalam
-tempoh **30 hari** (s.36(3)), dan penukaran nama diberitahu dalam tempoh **30 hari**
-(s.28). Pengurangan modal berkuat kuasa hanya apabila difailkan, bukan atas undi.
+- Resolusi bertulis yang dicadangkan **luput jika tidak diluluskan dalam tempoh 28
+  hari** selepas diedarkan (seksyen 307).
+- Apabila diluluskan secara bertulis, resolusi biasa dipersetujui atas majoriti mudah
+  dan resolusi khas atas sekurang-kurangnya 75% (seksyen 306(4)) — ambang yang sama
+  seperti dalam mesyuarat.
 
-## Lalai ialah biasa — s.290(3)
+Jadi ambang tidak berubah apabila anda mengetepikan mesyuarat; hanya mekanismenya
+sahaja yang berubah.
 
-Bagi segala-galanya yang Akta *tidak* asingkan, s.290(3) ialah peruntukan menyeluruh:
-apabila Akta mahupun perlembagaan tidak menyatakan jenis resolusi, resolusi biasa
-memadai. Maka urusan rutin sesebuah syarikat berjalan atas majoriti mudah:
+## Tindakan manakah memerlukan resolusi yang mana?
 
-| Keputusan | Seksyen |
-| --- | --- |
-| Melantik pengarah (pelantikan berikutnya) | s.202 |
-| Memecat pengarah syarikat persendirian | s.206(1)(a) |
-| Meluluskan yuran pengarah pada mesyuarat agung (awam/tersenarai) | s.230(1) |
-| Apa-apa yang Akta dan perlembagaan biarkan tidak dinyatakan | s.290(3) |
+Akta tidak menyerahkan pilihan ini kepada syarikat. Bagi set keputusan berstruktur
+yang ditetapkan, ia mensyaratkan resolusi khas, dan tiada yang kurang daripada itu
+akan mencukupi.
 
-Perhatikan contoh pemecatan itu. Seksyen 206(1)(a) membenarkan syarikat persendirian
-memecat pengarah melalui resolusi *biasa* — ambang yang rendah — namun ia masih mesti
-memanggil mesyuarat untuk berbuat demikian, dan pemecatan itu menarik notis khas.
-Ambang yang mudah bukan sama dengan prosedur yang mudah.
+| Keputusan | Resolusi | Seksyen |
+| --- | --- | --- |
+| Meminda, menerima pakai atau membatalkan perlembagaan | Khas | s.36 |
+| Menukar nama syarikat | Khas | s.28 |
+| Mengurangkan modal saham — laluan pengesahan mahkamah | Khas | s.116 |
+| Mengurangkan modal saham — laluan penyata kesolvenan | Khas | s.117 |
+| Penggulungan sukarela ahli | Khas | s.439 |
 
-## Perangkap pelabelan
+Sebuah syarikat boleh meminda, menerima pakai atau membatalkan perlembagaannya hanya
+melalui resolusi khas yang memerlukan tidak kurang daripada 75% ahli (seksyen 36).
+Perhatikan langkah susulan: selepas resolusi seksyen 36, syarikat mesti memfailkan
+perlembagaan yang dipinda kepada SSM dalam tempoh 30 hari dari tarikh resolusi.
+Penggulungan sukarela ahli dimulakan oleh ahli yang meluluskan resolusi khas untuk
+menggulung syarikat (seksyen 439).
 
-Resolusi khas mempunyai satu formaliti yang tiada pada resolusi biasa. Di bawah
-s.292(2), resolusi bertulis syarikat persendirian **bukan resolusi khas melainkan ia
-dinyatakan sebagai resolusi khas dan diluluskan sebagai satu**. Bagi mesyuarat,
-s.292(5)(a) menghendaki notis memasukkan teks resolusi dan menyatakan bahawa ia
-dicadangkan sebagai resolusi khas — dan s.292(5)(b) kemudiannya menjadikannya
-mengikat: sebaik sahaja notis menyatakan "khas", resolusi itu hanya boleh diluluskan
-sebagai resolusi khas.
+Bagi segala perkara yang tidak dinyatakan khusus oleh Akta, resolusi biasa dan
+majoriti mudahnya sudah memadai.
 
-Ini ialah kecacatan teknikal yang paling lazim dalam resolusi Malaysia: dokumen yang
-melepasi 75% tetapi tidak pernah membawa perkataan itu. Pada muka s.292(2), ia gagal.
+## Adakah peraturan ini sentiasa 75%?
 
-## Notis khas ialah perkara yang berbeza
-
-Jangan kelirukan **resolusi khas** (majoriti 75%, s.292) dengan **notis khas** (notis
-28 hari daripada pencadang kepada syarikat, s.322(1)). Notis khas melekat pada
-segelintir resolusi *biasa* — memecat pengarah syarikat awam (s.206(3)), memecat
-juruaudit (s.277). Resolusi itu kekal biasa; hanya notisnya yang lebih berat. Panduan
-yang menganggap "khas" sebagai satu idea salah kedua-duanya.
+Ya. Ini ialah undang-undang statut yang stabil. Di bawah Akta Syarikat 1965 yang
+terdahulu (seksyen 152), resolusi khas sudah memerlukan majoriti tidak kurang daripada
+tiga per empat ahli dan notis tidak kurang daripada 21 hari. Akta 2016 meneruskan
+standard tiga per empat / 21 hari itu, sebab itulah angka yang anda temui dalam
+panduan lama masih terpakai.
 
 ## Apa seterusnya
 
-Sahkan perlembagaan anda sebelum bergantung pada lalai Akta — perlembagaan boleh
-menaikkan ambang atau mengklasifikasikan semula sesuatu keputusan, walaupun ia tidak
-sekali-kali boleh memendekkan notis resolusi khas 21 hari. Untuk setiap tempoh notis
-dalam satu jadual, lihat `resolution-notice-periods`; untuk meluluskan mana-mana jenis
-tanpa mesyuarat, lihat `written-resolutions`; dan untuk contoh terperinci resolusi
-khas dalam amalan, lihat `capital-reduction`.
+Sahkan perlembagaan syarikat anda sebelum bergantung pada peruntukan lalai Akta —
+perlembagaan boleh menaikkan sesuatu ambang, walaupun ia tidak boleh memendekkan
+notis 21 hari bagi resolusi khas. Kemudian padankan tindakan khusus anda dengan jadual
+di atas: jika ia muncul di situ, anda memerlukan resolusi khas dan majoriti 75%-nya;
+jika tidak, resolusi biasa sudah memadai. Syarikat persendirian sepatutnya
+menggunakan laluan resolusi bertulis di bawah seksyen 297 hingga 308 sebagai lalai,
+dengan mengambil kira tempoh luput 28 hari.

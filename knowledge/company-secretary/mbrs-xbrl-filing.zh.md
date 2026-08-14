@@ -1,108 +1,138 @@
 ---
 topicId: "MY-CS-0061"
-title: "MBRS：以 XBRL 格式向 SSM 呈报财务报表"
-seoTitle: "MBRS：以 XBRL 格式向 SSM 呈报财务报表"
+title: "如何通过 MBRS（XBRL）向 SSM 提交财务报表"
+seoTitle: "MBRS 向 SSM 提交：XBRL 财务报表"
+socialTitle: "让马来西亚半数公司措手不及的 XBRL 截止日期"
 slug: "mbrs-xbrl-filing"
 category: "company-secretary"
-subcategory: ["statutory-filing"]
-summary: "马来西亚公司如何通过马来西亚商业报告系统（MBRS），以 XBRL 格式向 SSM 呈报财务报表、年度申报表及豁免申请。"
+subcategory: ["filings"]
+summary: "MBRS 是 SSM 用于呈报财务报表、周年申报表及豁免申请的强制性 XBRL 平台；自 MBRS 2.0 第三阶段于 2025 年 6 月 1 日生效以来，几乎每一家马来西亚公司都必须以数字方式提交其完整的财务报表。"
 tier: "3"
 mode: "practical"
 contentType: "agency"
 sensitivity: "none"
-answer: "MBRS（马来西亚商业报告系统，Malaysian Business Reporting System）是 SSM 以 XBRL 为基础的平台，用于呈报财务报表、年度申报表及相关豁免申请。公司先在免费的 MBRS 编制工具（mTool）中离线编制呈报文件，再由持牌公司秘书或代理通过 MBRS 门户网站（mPortal）呈交所生成的 XBRL 文件。自 MBRS 2.0 推行以来，以 XBRL 呈报财务报表已属强制，而非可选。"
+answer: "MBRS（马来西亚商业报告系统，Malaysian Business Reporting System）是 SSM 基于 XBRL 的平台，用于呈报财务报表、周年申报表及豁免申请。你在基于 Excel 的 MBRS 编制工具（mTool）中准备呈报文件，依据 SSM 分类标准（SSM Taxonomy）进行标记、验证，然后通过 MBRS 门户（mPortal）呈报所生成的 XBRL 文件。自 MBRS 2.0 第三阶段于 2025 年 6 月 1 日生效以来，根据《2016 年公司法》，所有公司均须以数字 XBRL 方式呈报经审计的财务报表。"
 keyTakeaways:
-  - "MBRS 由三个部分组成：SSM XBRL 分类标准（SSMxT）、以 Microsoft Excel 为基础的编制工具（mTool，免费）以及呈交门户网站（mPortal），通过 SSM4U 登录。"
-  - "它涵盖三类呈报——年度申报表（AR）、财务报表及关键财务指标（FS/KFI），以及豁免申请（EA）——依据《2016 年公司法》（以及旧有的《1965 年公司法》呈报事项）。"
-  - "财务报表须依 MFRS 或 MPERS 分类标准进行标记；完整的 XBRL 组合包括财务状况表、损益表、现金流量表、权益变动表及附注，另加董事报告与审计报告。"
-  - "由「编制者」（Maker）编制并上传 XBRL 文件；「呈报者」（Lodger，即持数字证书的持牌公司秘书或代理）须在上传后 3 天内完成呈报，否则该文件会被清除。"
-  - "签署呈报文件须持有 Pos Digicert 数字证书——一年 RM47.70，两年 RM95.40（已含服务费）；呈报费用依《2017 年公司条例》计算。"
-appliesTo: "马来西亚私人及公众公司、在马来西亚注册的外国公司，以及为其向 SSM 编制并呈报法定文件的公司秘书、公司代理及其助理。"
+  - "MBRS 包含三个核心组成部分：SSM 分类标准（SSMxT）、用于构建 XBRL 文件的 MBRS 编制工具（mTool），以及用于呈报的 MBRS 门户（mPortal）——mPortal 通过 SSM4U 进入，呈报人须持有数字证书（PKI）。"
+  - "它处理三种呈报类型：周年申报表（AR）、财务报表及报告（FS），以及豁免申请（EA）。"
+  - "SSM 于 2024 年 11 月 26 日宣布强制推行 MBRS 2.0，分三个阶段进行：2024 年 12 月 1 日、2025 年 3 月 1 日及 2025 年 6 月 1 日。"
+  - "自 2025 年 6 月 1 日起呈报全面强制化，此前获豁免的、受马来西亚国家银行（Bank Negara Malaysia）监管的金融机构现已纳入其中。"
+  - "2025 年 6 月 1 日至 9 月 30 日的宽免仅免除逾期呈报费用；它并未延长《2016 年公司法》下的法定截止期限。"
+appliesTo: "马来西亚私人及公众公司，以及为其准备并向 SSM 呈报法定财务报表、周年申报表和豁免申请的公司秘书与代理人。"
 faq:
-  - q: "通过 MBRS 以 XBRL 呈报现在是否已属强制？"
-    a: "是的。根据 SSM 公布的 MBRS 2.0 分阶段推行安排，以数字 XBRL 呈报财务报表已成为强制要求，取代早前可选／扫描件的做法。年度申报表与豁免申请同样通过 MBRS 呈报。"
-  - q: "我是否仍须同时呈报年度申报表和财务报表？"
-    a: "是的——两者是各自独立的义务。年度申报表（《2016 年公司法》第 68 条）须在公司注册周年日起 30 天内呈报；财务报表则依第 259 条，在向股东传阅或提交后呈报。呈报其中一项并不能满足另一项。"
-  - q: "外国公司或受马来西亚国家银行监管的机构可以通过 MBRS 呈报吗？"
-    a: "可以。除 MFRS、MPERS、CLBG 及豁免私人公司模板外，MBRS 还为外国公司（FS-FC、依第 576 条的 AR3）以及受马来西亚国家银行（Bank Negara Malaysia）监管的银行／金融／保险机构（FS-BNM）设有专门的入口。"
-  - q: "运行 mTool 需要哪些软件？"
-    a: "mTool 仅可在 Windows 上运行，须搭配受支持的 Microsoft Office 版本（2010 至 365）、.NET Framework 4.8 及 Visual Studio Tools for Office Runtime 4.0。它无法在 macOS 上运行。"
+  - q: "公司必须在何时呈报其财务报表？"
+    a: "根据《2016 年公司法》第 259(1) 条，私人公司须在其财务报表分发给成员之日起 30 天内呈报，公众公司须在其股东周年大会（AGM）之日起 30 天内呈报。"
+  - q: "2025 年的逾期呈报费用宽免是否推迟了我的截止期限？"
+    a: "没有。该宽免从 2025 年 6 月 1 日持续至 9 月 30 日，仅免除逾期呈报费用。它并未延长《2016 年公司法》下的任何法定呈报截止期限。"
 lang: "zh"
-sourceContentHash: "5eb055efdd92c45c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "in-review"
 aiAssisted: true
 reviewer: null
-version: "0.1"
+version: "0.2"
 revisions:
   - version: "0.1"
     date: 2026-08-10
     change: "Initial AI draft."
     reviewer: null
+  - version: "0.2"
+    date: 2026-08-14
+    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
+    reviewer: null
 verificationNeeded:
-  - "Exact MBRS 2.0 mandatory phase dates (Phase 1 ~1 December 2024, subsequent phases to ~1 June 2025) — secondary/advisory sources conflict; confirm against SSM's official announcement/circular."
-  - "Precise statutory day-counts under CA 2016 s258/s259 for circulation and lodgement of financial statements (private vs public companies) — confirm against the Act text at AGC."
-  - "Current SSMxT taxonomy version and mTool release number at time of publication."
-updated: 2026-08-10
+  - "Exact statutory basis for the requirement that a lodger hold a practising certificate under Section 241 Companies Act 2016 — sources conflicted; confirm the exact section and wording before stating it."
+  - "Precise definition/threshold of an 'exempt private company' (EPC) under the Companies Act 2016 and exactly what an EPC lodges (an EPC certificate) instead of full XBRL financial statements — confirm on a primary SSM source before detailing."
+  - "Exact current mTool and mPortal version numbers — these change over time; verify the live version on ssm.com.my or omit."
+  - "Section 68 annual-return lodgement timing (commonly within 30 days of the incorporation anniversary) — confirm against AGC statute text or SSM before stating."
+  - "Exact scope of Phase 2 (audited FS under Companies Act 1965) vs Phase 1/3 — confirm the CA 1965 vs CA 2016 split against the original 26 November 2024 SSM circular, not secondary summaries."
+  - "Whether foreign companies registered in Malaysia have a distinct MBRS filing template or deadline — confirm specifics on SSM."
+updated: 2026-08-14
+sourceContentHash: "6cce56bdb89cd914"
 sources:
-  - title: "MBRS (Malaysian Business Reporting System) — Services"
+  - title: "Pages - MBRS"
     url: "https://www.ssm.com.my/Pages/Services/Other-Services/MBRS.aspx"
     publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "Malaysian Business Reporting System (MBRS) — Frequently Asked Questions, Version 2.4 (Oct 2024)"
-    url: "https://www.ssm.com.my/Pages/Register_Business_Company_LLP/Company/document/FAQs_Malaysian_Business_Reporting_System_MBRS.pdf"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "Practice Directive No. 7/2021 (Revised: 1 December 2024) — Lodgement of Annexure on Beneficial Ownership Information of Annual Return under Sections 68 and 576 of the Companies Act 2016"
-    url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Practice%20Directive%207%202021%20(Revised)%2028112024.pdf"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+  - title: "What is MBRS? The Malaysian Business Reporting System Explained"
+    url: "https://www.mbrs.com.my/what-is-mbrs/"
+    publisher: "MBRS.com.my"
+  - title: "SSM - Mandatory Implementation of MBRS 2.0 in Stages (Technical Announcement)"
+    url: "https://maicsa.org.my/resources/technical-research/technical-announcements/2024/241127-ssm-mandatory-implementation-of-mbrs-20-in-stages"
+    publisher: "Chartered Secretaries Malaysia (MAICSA)"
   - title: "MBRS 2.0 Malaysia: Mandatory Filing Guide for Companies"
     url: "https://malaysia.incorp.asia/guides/mbrs-2-0-malaysia-compliance/"
     publisher: "InCorp Malaysia"
-entity: "Malaysian Business Reporting System (MBRS), Suruhanjaya Syarikat Malaysia (SSM)"
+  - title: "SSM Mandates MBRS 2.0 XBRL in Malaysia Starting 1st Dec 2024"
+    url: "https://datatracks.com/my/blog/ssm-mandates-implementation-of-mbrs-2/"
+    publisher: "DataTracks"
+  - title: "SSM Waives Late Lodgement Fees for MBRS 2.0: What Malaysian Companies Need to Know"
+    url: "https://malaysia.incorp.asia/blogs/ssm-waives-late-lodgement-fees-for-mbrs-2-0/"
+    publisher: "InCorp Malaysia"
+  - title: "Companies Act 2016: Practice Note No. 3/2018 (EOT for circulation and lodgement of financial statements)"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/PDF%20Tab%205/pn_ss_609_2592_3404_eot.pdf"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+  - title: "How to Prepare MBRS XBRL Financial Statements for Filing with SSM?"
+    url: "https://datatracks.com/my/blog/how-to-prepare-xbrl-mbrs-ssm/"
+    publisher: "DataTracks"
+  - title: "Malaysian Business Reporting System (MBRS) 2.0"
+    url: "https://www.bdo.my/en-gb/insights/featured-insights/malaysian-business-reporting-system-(mbrs)-2-0"
+    publisher: "BDO Malaysia"
+  - title: "How to File XBRL with SSM MBRS Malaysia Guide"
+    url: "https://xberratagger.my/how-to-file-xbrl-ssm-malaysia"
+    publisher: "Xberra Tagger"
+entity: "Malaysian Business Reporting System (MBRS)"
+relations: []
 related: []
-keywords: ["MBRS", "XBRL", "SSM", "mTool", "mPortal", "SSMxT", "financial statements", "annual return", "MBRS 2.0"]
+keywords: ["MBRS", "MBRS 2.0", "XBRL", "SSM", "mTool", "mPortal", "SSMxT", "SSM taxonomy", "financial statements filing Malaysia", "Companies Act 2016", "annual return", "exempt private company", "Suruhanjaya Syarikat Malaysia", "MFRS", "MPERS"]
 ---
 
-**马来西亚商业报告系统（Malaysian Business Reporting System，MBRS）**是 SSM 的数字呈交平台，以可扩展商业报告语言（eXtensible Business Reporting Language，XBRL）格式为基础。它让公司得以呈报**年度申报表（AR）**、**财务报表及关键财务指标（FS/KFI）**，以及**豁免申请（EA）**——其适用范围源自《2016 年公司法》（以及旧有的《1965 年公司法》），并依据 MFRS 与 MPERS 会计准则。MBRS 由 SSM 于 2018 年推出，其后升级为 **MBRS 2.0**，如今以 XBRL 呈报财务报表已属强制。
+如果你的公司仍以为向 SSM「提交账目」就是递交一份签署好的 PDF，那个时代已经结束了。**马来西亚商业报告系统（MBRS）**是 SSM 建立在可扩展商业报告语言（XBRL）格式之上的呈报平台，而自 **2025 年 6 月 1 日**起，根据《2016 年公司法》，通过它呈报经审计的财务报表已成为公司的强制要求。公司通过 MBRS 呈报三种类型的文件：**周年申报表（AR）**、**财务报表及报告（FS）**，以及**豁免申请（EA）**。
 
-## 三个组成部分
+MBRS 并非新事物——SSM 早在 2018 年便推出了这个数字 XBRL 平台，起初为自愿性质，之后才成为强制。改变的是升级到了 **MBRS 2.0**，它建立在最新的马来西亚财务报告准则（MFRS）、马来西亚私人实体报告准则（MPERS）以及修订后的《2016 年公司法》之上，同时保留了用于旧有《1965 年公司法》呈报的分类标准。
 
-- **SSM XBRL 分类标准（SSMxT）：** 一套财务与非财务报告要素的字典，嵌入于编制工具中。
-- **MBRS 编制工具（mTool）：** 免费、以 Microsoft Excel 为基础的加载项，用于离线录入数据并生成 XBRL 文件。它仅可在 Windows 上运行，须搭配受支持的 Office 版本、.NET Framework 4.8 及 VSTOR 4.0——无法在 macOS 上运行。
-- **MBRS 门户网站（mPortal）：** 通过 **SSM4U**（ssm4u.com.my）进入的网络平台，在此上传、以数字方式签署、缴费并呈报 XBRL 文件。
+## MBRS 的三个组成部分是什么？
 
-MBRS 与 MyCoID 互不相同：MyCoID 用于更新公司资料，而 MBRS 用于呈交法定的财务及申报文件。
+MBRS 由三个依次运作的部分组成：
 
-## 可呈报的项目
-
-| 呈报类别 | 入口示例 | 适用条文（《2016 年公司法》） |
+| 组成部分 | 它是什么 | 在呈报中的作用 |
 |---|---|---|
-| 年度申报表 | AR1（有股本）、AR2（无股本）、AR3（外国公司） | s68；s576（外国公司） |
-| 财务报表／KFI | FS-MFRS、FS-MPERS、FS-CLBG、FS-EPC、FS-BNM、FS-FC | s259 |
-| 豁免申请 | EA2（以 KFI 代替完整 XBRL，s604(2)）、EA3（豁免外国公司呈报，s575(7)）、EA5A/EA5B（延期，s259(2)）、EA7（延长年度申报表呈报期限，s609(2)） | 各条文 |
+| **SSMxT** | SSM 分类标准 | 你的数据据以标记的报告元素词典 |
+| **mTool** | MBRS 编制工具 | 一个基于 Excel 的应用程序，用于输入数据并使用最新的分类标准生成 XBRL 文件 |
+| **mPortal** | MBRS 门户 | 通过 SSM4U 进入的网络平台，文件在此上传并呈报 |
 
-完整的 XBRL 财务报表组合涵盖财务状况表、损益表、现金流量表及权益变动表、附注，以及董事报告与审计报告。获 SSM 依 EA2 批准的公司，可改为呈报**关键财务指标（KFI）**，而非完整标记的组合。
+要通过 mPortal 呈报，呈报人须持有一份向 SSM 登记的**数字证书（PKI）**。
 
-## 角色：编制者与呈报者
+## MBRS 2.0 各阶段何时成为强制？
 
-mPortal 中运作着两种角色。**编制者（Maker）**（公司秘书助理或代理助理）负责编制并上传 XBRL 文件。**呈报者（Lodger）**——持有**数字证书**的持牌公司秘书或公司代理——负责审阅、以数字方式签署、缴费并呈报。呈报者须在编制者上传后 **3 天**内完成呈报，否则该文件会被清除。mPortal 会核实公司秘书是否被列入黑名单或执照已过期。
+在 **2024 年 11 月 26 日**，SSM 宣布分三个阶段强制推行 MBRS 2.0：
 
-## 法定期限
-
-MBRS 并不改变原有的期限，仅改变呈报格式。
-
-| 义务 | 触发点 | 参考期限 |
+| 阶段 | 生效日期 | 范围 |
 |---|---|---|
-| 年度申报表（s68） | 注册周年日 | 周年日起 30 天内 |
-| 财务报表（s259）——私人公司 | 向股东传阅 | 传阅后 30 天内 |
-| 财务报表（s259）——公众公司 | 常年股东大会 | 常年股东大会后 30 天内 |
+| 第一阶段 | 2024 年 12 月 1 日 | 周年申报表／周年报表、未经审计的财务报表，以及豁免私人公司证书（《2016 年公司法》） |
+| 第二阶段 | 2025 年 3 月 1 日 | 《1965 年公司法》下经审计的财务报表 |
+| 第三阶段 | 2025 年 6 月 1 日 | 《2016 年公司法》下所有公司经审计的财务报表 |
 
-若公司无法在这些日期前完成呈报，可通过相关的 EA 申请**延期**（例如 EA5B 用于呈报财务报表，EA7 用于年度申报表）。
+从第三阶段起，数字呈报全面强制化——此前获豁免的、受**马来西亚国家银行（BNM）**监管的金融机构现已纳入其中。
 
-## 费用
+## 截止期限是什么，2025 年的宽免是否改变了它？
 
-mTool 免费。签署呈报文件须持有 **Pos Digicert** 数字证书：一年 **RM47.70**，两年 **RM95.40**（已含服务费）。年度申报表、财务报表及豁免申请的呈报费用依《**2017 年公司条例**》计算。mPortal 的付款方式为信用卡／借记卡或网上银行。
+MBRS 改变的是呈报的*格式*，而非*截止期限*。根据**《2016 年公司法》第 259(1) 条**，公司须向注册官呈报其财务报表及报告：
 
-## 下一步
+- **私人公司：** 在财务报表分发给成员之日起 30 天内。
+- **公众公司：** 在其股东周年大会（AGM）之日起 30 天内。
 
-确认公司的财政年度结束日与注册周年日，确保公司秘书持有有效的数字证书，并在期限之前及早以最新版 mTool 编制好 XBRL 组合。有关相关义务，请参阅年度申报表及审计豁免页面，并从 ssm.com.my 下载最新版 mTool 及分类标准。
+为缓解过渡，SSM 施行了**从 2025 年 6 月 1 日至 9 月 30 日的逾期呈报费用宽免**。请留意细则：该宽免仅免除逾期呈报费用。它**并未**延长《2016 年公司法》下的法定截止期限。在宽免期内逾期呈报的公司虽免除了费用，但在法律上仍属逾期。
+
+## 你究竟如何呈报？
+
+每个周期的工作流程都相同：
+
+1. 准备法定财务报表。
+2. 在 **mTool** 中输入数据，并依据 **SSM 分类标准（SSMxT）**进行标记。
+3. 运行验证并清除所有错误。
+4. 生成 **XBRL 文件**。
+5. 通过 **mPortal** 呈报，呈报状态会在仪表板上追踪，直至被接受。
+
+## 接下来该做什么
+
+确认你的财政年度结束日期以及分发或 AGM 日期，然后从那一天起计算 30 天——那才是你真正的截止期限，无论有无宽免。确保你的公司秘书持有有效的数字证书，并在截止日期前尽早以当前版本的 mTool 准备好 XBRL 文件，以免验证错误将你拖过期限。从 ssm.com.my 下载最新的 mTool 和分类标准。

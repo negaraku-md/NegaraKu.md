@@ -1,110 +1,155 @@
 ---
 topicId: "MY-LIV-0162"
-title: "马来西亚的公共医疗体系"
-seoTitle: "马来西亚公共医疗体系（卫生部）详解"
+title: "马来西亚公共医疗体系：如何运作、费用几何、覆盖何人"
+seoTitle: "马来西亚公共医疗体系（MOH）：费用与就医"
+socialTitle: "近乎全民、几近免费：走进马来西亚公共医疗体系"
 slug: "public-healthcare-system-malaysia"
 category: "healthcare"
-subcategory: ["public health"]
-summary: "马来西亚以税收拨款、由卫生部（MOH）运营的公共医疗如何运作——三级架构、RM1 诊所收费，以及谁有资格享用。"
+subcategory: ["overview"]
+summary: "马来西亚实行以税收供款的双轨制医疗体系，卫生部辖下的医院与政府诊所（klinik kesihatan）以高度补贴的象征性费用提供近乎全民的医疗服务，同时并存一个规模庞大的私营部门。"
 tier: "2"
 mode: "practical"
 contentType: "agency"
 sensitivity: "none"
-answer: "马来西亚运行着一套主要以税收拨款的全民公共医疗体系，由卫生部（MOH）管理，分为三级——设于健康诊所（Klinik Kesihatan）的初级医疗、设于县医院与综合医院的二级医疗，以及设于专科医院的三级医疗。对马来西亚公民而言，收费依据《1951 年收费法令》与《1982 年收费（医疗）令》获得大幅补贴：门诊看诊 RM1，专科门诊 RM5。它与庞大的私营医疗界并行运作。"
+answer: "马来西亚实行双轨制医疗体系：由卫生部（MOH/KKM）管理的政府公共服务，与规模庞大的私营部门并存。公共医疗完全由一般税收供款——不存在强制性的全民健康保险——因此公民只需支付象征性的、经补贴的使用者费用，部分服务甚至免费。这一模式带来了近乎全民的就医机会：马来西亚在世界卫生组织全民健康覆盖（UHC）服务覆盖指数上于2022年达到80分（满分100）。主要的取舍在于不断上升的自付支出，以及在仅占GDP适度份额的投入下，人力与病床所承受的压力。"
 keyTakeaways:
-  - "卫生部是主要出资方与提供方；公共卫生服务主要由联邦一般税收拨款，仅收取象征性的使用费。"
-  - "公民收费由《1982 年收费（医疗）令》[PU(A) 359/1982] 设定：门诊 RM1、专科门诊 RM5——公务员、退休人员及其家属、残障人士可获豁免。"
-  - "截至 2023 年 12 月 31 日，卫生部运营 149 家医院及特别医疗机构（约 45,964 张病床），另加全国逾 3,000 家健康诊所（《卫生部 2024 年卫生实况》）。"
-  - "2025 年财政预算案拨予卫生部 RM452.7 亿，约占联邦预算的 10.7%；2023 年医疗总支出约占 GDP 的 4.6%。"
-  - "2023 年自付支出约占经常性医疗支出的 38.6%，以全民覆盖的标准而言偏高（世界银行）。"
-appliesTo: "希望了解公共医院与诊所如何运作、费用几何以及体系如何筹资的马来西亚公民、居民与新来者。"
+  - "双轨制、以税收供款：公共卫生部体系与规模庞大的私营部门并行，公共一方完全由一般税收供款，没有强制性的全民保险（Wikipedia）。"
+  - "就诊时费用低廉：公共专科服务或免费、或收取低廉的使用者费用，但辅具与义肢由病患自付（Wikipedia）。"
+  - "近乎全民就医：马来西亚的世界卫生组织UHC服务覆盖指数于2022年达到80/100，高于2000年的71分，2023年预期寿命约为76.7岁（WHO；World Bank）。"
+  - "精简的支出：2022年经常性医疗支出约占GDP的3.9%，人均约458美元——但自付支出占总额的37.9%，是家庭日益沉重的负担（World Bank；WHO）。"
+  - "供给紧张：2021年每千人约有2.27名医生与1.97张病床，卫生部人力为267,578人（2020年），2026年预算约为464.52亿令吉（World Bank；Wikipedia）。"
+appliesTo: "希望了解公共医院与诊所如何运作、费用几何、体系如何供款、由谁享有额外援助的马来西亚公民、居民及新移民。"
 faq:
-  - q: "在政府诊所看医生要多少钱？"
-    a: "对马来西亚公民而言，依据《1982 年收费（医疗）令》，健康诊所（Klinik Kesihatan）门诊标准收费为 RM1，专科门诊看诊为 RM5。某些耗材、植入物或专项扫描可能另收费用。非公民则按更高的收费表缴费。"
-  - q: "使用公共医院需要保险吗？"
-    a: "不需要。公共医疗以补贴价对所有公民开放，与是否有保险无关。保险主要在使用私立医院或希望缩短轮候时间时才有意义。"
+  - q: "在马来西亚使用公共医院需要保险吗？"
+    a: "不需要。公共医疗完全由一般税收供款，没有强制性的全民保险，因此公民可以高度补贴的象征性费用就医。保险主要与私营部门相关。"
+  - q: "马来西亚的公共医疗真的免费吗？"
+    a: "大体上免费，但并非全然如此。公共专科服务或免费、或收取低廉的使用者费用；不过，辅具与义肢等项目由病患自付。非公民须按另一套更高的收费标准付费。"
   - q: "什么是 PeKa B40？"
-    a: "PeKa B40 是卫生部的一项计划，由 ProtectHealth 运营，为领取慈悯现金援助（Sumbangan Tunai Rahmah, STR）、年满 40 岁的低收入公民及其配偶提供免费健康检查（重点在非传染性疾病筛查）。"
+    a: "PeKa B40（Skim Peduli Kesihatan untuk Kumpulan B40）是卫生部的一项计划，由 ProtectHealth Corporation 负责运营。它为符合资格的低收入马来西亚人——年满40岁的慈悯现金援助（Sumbangan Tunai Rahmah）受惠者及其配偶——提供免费健康检查、高达20,000令吉的医疗器材援助、1,000令吉的癌症治疗奖励，以及交通援助。"
 lang: "zh"
-sourceContentHash: "697d7d03f794eb85"
 masterLanguage: "en"
 translationStatus: "in-sync"
+sourceContentHash: "ded2170431419527"
 status: "in-review"
 aiAssisted: true
 reviewer: null
-version: "0.1"
+version: "0.2"
 revisions:
   - version: "0.1"
     date: 2026-08-10
     change: "Initial AI draft."
     reviewer: null
+  - version: "0.2"
+    date: 2026-08-14
+    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
+    reviewer: null
 verificationNeeded:
-  - "Exact December 2023 clinic breakdown (Klinik Kesihatan vs Klinik Desa vs community clinics) — sources report slightly different sub-totals; confirm against MOH Health Facts 2024."
-  - "Whether the RM1/RM5 citizen fee reflects the latest gazetted amendment; confirm the current amendment order and effective date on the AGC federal gazette."
-  - "MADANI Medical Scheme district count and benefit values (RM75–RM250) — confirm current figures as the pilot expands."
-updated: 2026-08-10
+  - "The RM1 outpatient registration fee at government clinics/hospitals for citizens, and its statutory basis (Fees (Medical) Order 1982 under the Fees Act 1951 / Act 209) — confirm the exact order, section, and current amount before stating it as fact."
+  - "Exact counts of MOH facilities: MOH hospitals (~146–150), health clinics/klinik kesihatan (~1,000+), and rural klinik desa (~1,800+), plus non-MOH government and private hospital counts, from the MOH 'Health Facts' booklet."
+  - "The separate, higher fee schedule for non-citizens at public facilities — confirm current rates via MOH circular or a Fees (Medical) (Amendment) Order."
+  - "DOSM Malaysia National Health Accounts (MNHA) headline figures — total health expenditure in RM, the public-vs-private financing split, and per-capita in RM for the latest year — from open.dosm.gov.my."
+  - "NHMS 2023 exact prevalence figures for diabetes, hypertension, and obesity."
+  - "Health White Paper (2023) specifics: the 15-year reform horizon, the Rakan KKM premium-lane initiative, and any Health Transformation Office targets."
+  - "Whether MySalam still operates or has been folded into other schemes as of 2026, and current PeKa B40 enrolment numbers."
+  - "The precise share of hospital beds and inpatient/outpatient workload carried by the public vs private sector, and the year."
+updated: 2026-08-14
 sources:
-  - title: "MOH Health Facts 2024 (Reference Data for Year 2023)"
-    url: "https://www.moh.gov.my/moh/resources/Penerbitan/Penerbitan%20Utama/HEALTH%20FACTS/Health_Facts_2024.pdf"
-    publisher: "Ministry of Health Malaysia"
-  - title: "Fees Act 1951 - Fees (Medical) Order 1982 [PU(A) 359/1982]"
-    url: "https://www.moh.gov.my/en/publications-and-reports/policies-act-policies-guide-lines/akta-kesihatan/senarai-akta-kesihatan/fees-act-1951-fees-medical-order-1982-pu-a-359-1982"
-    publisher: "Ministry of Health Malaysia"
-  - title: "Health Facilities and Amenities"
-    url: "https://www.malaysia.gov.my/en/categories/health/health-facilities-and-amenities"
-    publisher: "Government of Malaysia (MyGov)"
-  - title: "PeKa B40"
-    url: "https://protecthealth.com.my/peka-b40-eng/"
-    publisher: "ProtectHealth Corporation"
+  - title: "Healthcare in Malaysia"
+    url: "https://en.wikipedia.org/wiki/Healthcare_in_Malaysia"
+    publisher: "Wikipedia"
+  - title: "Ministry of Health (Malaysia)"
+    url: "https://en.wikipedia.org/wiki/Ministry_of_Health_(Malaysia)"
+    publisher: "Wikipedia"
+  - title: "Current health expenditure (% of GDP) — Malaysia"
+    url: "https://data.worldbank.org/indicator/SH.XPD.CHEX.GD.ZS?locations=MY"
+    publisher: "World Bank / WHO Global Health Expenditure Database"
   - title: "Out-of-pocket expenditure (% of current health expenditure) — Malaysia"
-    url: "https://data.worldbank.org/indicator/SH.XPD.OOPC.CH.ZS?locations=MY"
+    url: "https://api.worldbank.org/v2/country/MY/indicator/SH.XPD.OOPC.CH.ZS?format=json"
+    publisher: "World Bank / WHO Global Health Expenditure Database"
+  - title: "Current health expenditure per capita (current US$) — Malaysia"
+    url: "https://api.worldbank.org/v2/country/MY/indicator/SH.XPD.CHEX.PC.CD?format=json"
+    publisher: "World Bank / WHO Global Health Expenditure Database"
+  - title: "Malaysia — WHO country profile"
+    url: "https://data.who.int/countries/458"
+    publisher: "World Health Organization"
+  - title: "UHC service coverage index — Malaysia (Global Health Observatory)"
+    url: "https://ghoapi.azureedge.net/api/UHC_INDEX_REPORTED"
+    publisher: "World Health Organization (Global Health Observatory)"
+  - title: "Life expectancy at birth, total (years) — Malaysia"
+    url: "https://api.worldbank.org/v2/country/MY/indicator/SP.DYN.LE00.IN?format=json"
     publisher: "World Bank"
-  - title: "Budget 2025: MOH To Strengthen Health Services For People's Well-being"
-    url: "https://bernama.com/en/news.php?id=2353923"
-    publisher: "BERNAMA"
-  - title: "Health White Paper for Malaysia"
-    url: "https://www.moh.gov.my/moh/resources/Penerbitan/Penerbitan%20Utama/Kertas%20Putih%20Kesihatan/Kertas_Putih_Kesihatan_(ENG)_compressed.pdf"
-    publisher: "Ministry of Health Malaysia"
-entity: "Ministry of Health Malaysia (Kementerian Kesihatan Malaysia, MOH)"
+  - title: "Physicians (per 1,000 people) — Malaysia"
+    url: "https://api.worldbank.org/v2/country/MY/indicator/SH.MED.PHYS.ZS?format=json"
+    publisher: "World Bank"
+  - title: "Hospital beds (per 1,000 people) — Malaysia"
+    url: "https://api.worldbank.org/v2/country/MY/indicator/SH.MED.BEDS.ZS?format=json"
+    publisher: "World Bank"
+  - title: "Malaysia — Healthcare (Country Commercial Guide)"
+    url: "https://www.trade.gov/country-commercial-guides/malaysia-healthcare"
+    publisher: "U.S. International Trade Administration (trade.gov)"
+  - title: "PeKa B40"
+    url: "https://protecthealth.com.my/peka-b40/"
+    publisher: "ProtectHealth Corporation (MOH company)"
+entity: "Ministry of Health Malaysia (Kementerian Kesihatan Malaysia, KKM/MOH)"
 relations: []
 related: []
-keywords: ["public healthcare Malaysia", "MOH", "Kementerian Kesihatan Malaysia", "Klinik Kesihatan", "Fees Medical Order 1982", "RM1 clinic fee", "government hospital Malaysia", "PeKa B40"]
+keywords: ["Malaysia public healthcare system", "Ministry of Health Malaysia", "MOH", "KKM", "klinik kesihatan", "government hospital Malaysia", "RM1 clinic fee", "public hospital fees Malaysia", "PeKa B40", "universal healthcare Malaysia", "healthcare in Malaysia", "Malaysia two-tier health system"]
 ---
 
-马来西亚运行着一套主要以**税收拨款的全民公共医疗体系**，由**卫生部（MOH，*Kementerian Kesihatan Malaysia*）**管理。它分为三级——设于政府健康诊所的初级医疗、设于县医院与综合医院的二级医疗，以及设于专科医院的三级医疗。对马来西亚公民而言，收费依据**《1951 年收费法令》**与**《1982 年收费（医疗）令》**获得大幅补贴：门诊看诊 **RM1**，专科看诊 **RM5**。公共体系与一个庞大、主要靠自付的私营界并行运作。
+走进马来西亚的政府诊所，柜台上的账单几乎是零。这不是慈善——而是制度设计。马来西亚实行**双轨制医疗体系**：由**卫生部（MOH，*Kementerian Kesihatan Malaysia*，KKM）**管理的政府公共服务，与规模庞大的私营部门并存。公共一方**完全由一般税收供款，没有强制性的全民保险供款**，因此医疗服务以高度补贴的象征性费用提供，而非依靠保费。这一模式在仅占国民收入适度份额的投入下，带来了近乎全民的就医机会——但如今它也承担着日益沉重的家庭费用负担与实实在在的供给压力。本指南以通俗的语言解释你如何使用这套体系、费用几何、覆盖何人，以及它在哪些方面正承受压力。
 
-## 体系如何架构
+## 体系是如何架构的？
 
-卫生部既是公共医疗的主要**出资方**，也是主要**提供方**，其经费主要来自联邦一般税收，而非社会医疗保险。医疗服务通过三级提供：
+马来西亚的医疗服务分为两条平行的渠道。**公共体系**由卫生部运营并供款，是整个体系的支柱：一般税收为其埋单，之上并没有叠加强制性的全民健康保险计划。与之并行的是一个**规模庞大的私营部门**，由诊所与医院构成，病患（或其雇主与保险公司）直接付费。
 
-| 级别 | 设施 | 角色 |
+在公共的全民体系内部，就诊时的费用结构刻意维持温和。**专科服务或免费、或收取低廉的使用者费用**，因此费用很少成为就医的障碍。在这一层面，主要的自付例外是器材：**辅具与义肢由病患自费**，不在补贴范围之内。
+
+在实践中，就医沿着转诊路径逐级向上。病患通常从基层的健康诊所（*klinik kesihatan*）进入体系，乡区社区则由规模较小的社区诊所服务，随后随着病情复杂程度的提高，被转诊至县级、州级与国家级医院。卫生部作为供款者与提供者，是这一切的支柱——它是一个真正庞大的机构，截至**2020年雇用了267,578名员工**。
+
+## 它如何供款，病患又付出多少？
+
+由于没有保险资金池，这套体系依靠联邦预算运转。卫生部**2026年获分配约464.52亿令吉的预算**。若以美元计算，政府在**2025年向卫生部拨款约101亿美元，高于2024年的约92亿美元**——这是一份不断增长、但仍属精简的投入。
+
+当与整体医疗支出相比时，「精简」正是恰如其分的形容：
+
+| 指标 | 最新数据 | 较早时点 |
 | --- | --- | --- |
-| 初级 | *Klinik Kesihatan*（健康诊所）、*Klinik Desa*（乡村诊所）、社区诊所 | 首次接触：门诊、妇幼保健、筛查、慢性病随访 |
-| 二级 | 县医院与综合医院 | 住院治疗、常见专科、急诊部门 |
-| 三级 | 专科与转诊医院、特别医疗机构 | 复杂与亚专科诊治（如癌症、心脏科、呼吸内科） |
+| 经常性医疗支出（占GDP％） | 3.90%（2022年） | 4.37%（2021年）；3.84%（2019年） |
+| 人均经常性医疗支出 | 约458美元（2022年） | 约477美元（2021年） |
+| 自付支出占医疗支出的比重 | 37.9%（2022年） | 32.1%（2021年）；36.1%（2019年） |
 
-据《卫生部 2024 年卫生实况》，截至 **2023 年 12 月 31 日**，卫生部运营 **149 家医院及特别医疗机构**，约有 **45,964 张病床**，另加全国逾 **3,000 家健康诊所**。各州卫生局在地方层面运营服务，而大学教学医院与军方设施则进一步增添公共医疗能力。
+*（World Bank / WHO Global Health Expenditure Database；世界卫生组织的国家概况记录2021年经常性医疗支出占GDP的4.38%。）*
 
-## 公民需承担的费用
+有两点尤为突出。其一，马来西亚以远低于GDP 5%的投入换来了大量的医疗覆盖。其二，**自付比重对于一个全民体系而言偏高，且一直在攀升**——2022年占经常性医疗支出的37.9%，较前一年的32.1%大幅上升。这一缺口正是私营部门的生存空间：经补贴的公共医疗虽然便宜，但可能需要排队等候，因此有能力付费的家庭越来越多地自掏腰包，以获取更快的私营治疗。公共设施对公民的象征性收费标准，以及对非公民的另一套更高标准，都处于这一图景之下，但需对照现行的法定命令加以确认（见验证注记）。
 
-使用者收费由依据《1951 年收费法令》制定的**《1982 年收费（医疗）令》[PU(A) 359/1982]** 设定。对马来西亚公民而言，主要费率为**门诊看诊 RM1** 与**专科门诊 RM5**。某些耗材、植入物或专项扫描可能另收费用。
+## 它覆盖何人，覆盖得如何？
 
-该令也**豁免**若干群体缴纳这些费用，包括公务员、政府退休人员及其家属、残障人士，以及其他依成文法享有医疗特权者。非公民则按更高的收费表缴费。由于补贴涵盖了绝大部分实际成本，公共体系承担了全国大部分的住院工作量。
+以国际通行的衡量标准来看，覆盖面十分广泛。马来西亚的**世界卫生组织全民健康覆盖服务覆盖指数于2022年达到80分（满分100）**，高于2000年的71分——这一评分反映了对基本服务的近乎全民的可及性。人口健康结果与之相印证：**2023年出生时预期寿命约为76.7岁**，此前曾在2021年疫情期间跌至73.9岁，随后回升。
 
-## 如何筹资
+支撑这些成果的人力与基础设施尚属充足，但并不宽裕：
 
-公共医疗主要通过年度联邦预算拨款。**2025 年财政预算案**拨予卫生部 **RM452.7 亿**——约占联邦预算的 **10.7%**——其中约 RM385 亿为运营开支，RM67 亿为发展开支。2023 年全国医疗总支出约占 **GDP 的 4.6%**（公共与私营合计）。
+- **2021年每千人约有2.27名医生**，高于2019年的2.02名。
+- **2021年每千人约有1.97张病床**，较2016年的1.88张缓慢上升。
 
-一个显著特点是**自付支出偏高**：2023 年约占**经常性医疗支出的 38.6%**（世界银行），反映出有能力付费者对私营诊所与医院的高度依赖。2023 年**《马来西亚卫生白皮书》**制定了一项长期改革议程，以强化初级医疗、维持财政可持续，并减轻这一自付负担。
+两项指标的走势都是积极的，但绝对密度仍属适度——在需求上升之际，这一点尤为关键。
 
-## 针对性计划与数字化服务
+## 体系承受着哪些压力？
 
-在全民补贴医疗之外，卫生部还运行若干针对性计划：
+这些压力同时是人口结构性的与财政性的。人口正在老龄化——**11.6%的马来西亚人年龄超过60岁**——慢性病也十分普遍，**约五分之一的马来西亚成年人患有糖尿病**。老龄化与非传染性疾病都在推高对公共层级所承担的专科与住院医疗的需求。
 
-- **PeKa B40** —— 为领取慈悯现金援助（Sumbangan Tunai Rahmah, STR）、年满 **40 岁**的低收入公民及其配偶提供免费健康检查（重点在非传染性疾病筛查）；由 ProtectHealth 管理。
-- **MADANI 医疗计划** —— 为福利受助者提供福利，让他们在指定诊所（panel clinics）治疗轻微病症，覆盖一组试点县。
-- **MySejahtera** —— 用于疫苗接种记录、预约挂号与筛查的国家级健康应用；**MyUBAT** 支持通过柜台、邮寄或免下车（drive-thru）取药方式补充药物。
+在这不断上升的需求之下，是前文已提到的种种约束：仅在缓慢增长的医生与病床供给，以及随着家庭绕过等候、转向私营医疗而持续扩大的自付比重。低于GDP 4%的精简投入固然高效，但在需求加速时留下的余地有限。这正是决策者试图化解的核心张力——如何在一个更年长、更多病的人口越发倚重公共医疗之际，维持近乎全民、象征性定价的公共医疗的可持续性。
 
-## 接下来该做什么
+## 谁能获得针对性援助？
 
-前往就诊前，请先确认适用于你就诊的确切收费，以及豁免或 PeKa B40 的资格，并查阅《卫生部 2024 年卫生实况》报告以获取最新的设施与人力数据。关于可解锁 PeKa B40、MADANI 医疗计划等计划的现金援助资格详情，请参阅相关的「在马来西亚生活」社会援助（STR）指南。
+在普惠性的补贴医疗之外，卫生部还推行了面向最需要保护者的计划。其中最主要的是 **PeKa B40**（*Skim Peduli Kesihatan untuk Kumpulan B40*），由卫生部旗下公司 **ProtectHealth Corporation** 负责运营。它面向符合资格的低收入马来西亚人——**年满40岁**者，具体为慈悯现金援助（Sumbangan Tunai Rahmah）受惠者及其配偶——并提供：
+
+- 在注册诊所进行**免费健康检查**（旨在及早发现非传染性疾病）。
+- **高达20,000令吉的医疗器材援助**。
+- **1,000令吉的癌症治疗奖励**。
+- 帮助病患抵达就医地点的**交通援助**。
+
+其设计逻辑是预防性与保护性的：及早筛查高风险人群，再为最无力承受的家庭缓冲最大的费用冲击（器材、癌症、交通）。
+
+## 接下来怎么做
+
+如果你正在使用这套体系，实际的路径很简单：到 *klinik kesihatan* 登记接受基层医疗，让转诊带你逐级向上进入医院医疗；如果你年满40岁并领取现金援助，则查看 PeKa B40 的资格。在引用确切价格之前，请对照现行的法定命令确认公民的现行收费与非公民的收费标准，并从最新的卫生部 *Health Facts* 与 DOSM 国家健康账目数据中查证设施数量以及公共对私营的工作量分布——这些都已在本草稿的验证注记中标示。至于改革的走向，2023年的《卫生白皮书》（Health White Paper）以及 Rakan KKM 等举措是值得关注的文件，在被作为定论陈述之前，应对照官方的卫生部来源加以确认。

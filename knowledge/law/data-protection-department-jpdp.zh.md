@@ -2,119 +2,126 @@
 topicId: "MY-LAW-0097"
 title: "个人资料保护局（JPDP）"
 seoTitle: "JPDP：马来西亚个人资料保护局"
+socialTitle: "究竟是谁在执行马来西亚的资料隐私法？认识 JPDP"
 slug: "data-protection-department-jpdp"
 category: "law"
-subcategory: ["regulator"]
-summary: "负责执行马来西亚《2010年个人资料保护法令》，并管理登记、投诉与合规事务的联邦机构。"
+subcategory: ["legal-system"]
+summary: "个人资料保护局（Jabatan Perlindungan Data Peribadi，JPDP）是隶属数字部的联邦机构，负责执掌与执行马来西亚《2010年个人资料保护法令》，登记资料控制者、处理投诉，并监督2025年关于资料外泄通报与资料保护官的改革。"
 tier: "3"
 mode: "practical"
 contentType: "agency"
 sensitivity: "none"
-answer: "个人资料保护局（Jabatan Perlindungan Data Peribadi，JPDP）是负责施行与执行《2010年个人资料保护法令》（第709号法令，Act 709）的马来西亚联邦机构。该局于2011年5月16日成立，现隶属数字部（Digital Ministry），协助个人资料保护专员（Personal Data Protection Commissioner）监管商业交易中个人资料的处理方式。其工作涵盖资料使用者（资料控制者）登记、投诉处理、指导以及执法。"
+answer: "个人资料保护局（Jabatan Perlindungan Data Peribadi，JPDP）是负责执掌与执行《2010年个人资料保护法令》（第709号法令）的马来西亚联邦机构。它于2011年5月16日成立，隶属数字部，协助个人资料保护专员规范商业交易中处理个人资料的方式。日常上，这意味着登记资料控制者、处理投诉，以及执行七项个人资料保护原则——这一职责已被2024年修正法令重新塑造。"
 keyTakeaways:
-  - "JPDP于2011年5月16日成立，以执行《2010年个人资料保护法令》（第709号法令，Act 709）。"
-  - "该局隶属数字部，协助负责施行该法令的个人资料保护专员。"
-  - "该法令约束任何在商业交易中处理个人资料的一方遵守七项资料保护原则（第6至12条）；联邦政府与州政府获豁免。"
-  - "某些类别的资料使用者必须持有登记证书；未持证而处理资料属违法行为。"
-  - "《2024年个人资料保护（修正）法令》（第A1727号法令）新增了强制性72小时数据泄露通报、委任资料保护官（DPO）的义务，以及对资料处理者的直接义务，并于2025年分阶段生效。"
-appliesTo: "在马来西亚处理个人资料的企业与机构、合规与法务团队，以及希望了解或行使自身资料保护权利的个人。"
+  - "JPDP于2011年5月16日成立，协助执行《2010年个人资料保护法令》（第709号法令），该法令于2013年11月15日全面生效。"
+  - "它是隶属数字部的机构，协助个人资料保护专员。"
+  - "PDPA建立在七项原则之上；2013年命令所指定13类别中的资料使用者必须根据第14条向JPDP登记。"
+  - "个人可通过 aduan@pdp.gov.my 或 03-7456 3888 向专员投诉，并在 daftar.pdp.gov.my 在线登记。"
+  - "《2024年个人资料保护（修正）法令》（第A1727号法令）将「资料使用者」更名为「资料控制者」，并新增强制性72小时资料外泄通报、资料保护官职责、生物特征资料及资料可携权，于2025年分阶段实施。"
+appliesTo: "在马来西亚处理个人资料的企业与机构、合规与法务团队，以及希望了解或行使其资料保护权利的个人。"
 faq:
   - q: "JPDP与个人资料保护专员有何区别？"
-    a: "专员是施行与执行该法令的法定职位；JPDP（该局）则是支持专员并执行登记、投诉、监督及法律职能的政府机构。实务上，该局在专员的权限下运作。"
-  - q: "该法令适用于政府吗？"
-    a: "不适用。《2010年个人资料保护法令》明确规定不适用于联邦政府与州政府。它规管资料使用者（现称'资料控制者'）在商业交易中的资料处理。"
-  - q: "我该如何向JPDP投诉？"
-    a: "JPDP设有客服中心与公众投诉渠道。投诉可通过电邮 aduan@pdp.gov.my 提交，或拨打该局的联络热线；请查阅 pdp.gov.my 获取现行的投诉表格与程序。"
+    a: "专员是执行该法令的机关；JPDP是协助专员的部门，负责登记、投诉处理与执法。实务上，该局在专员的权限下运作。"
+  - q: "谁必须向JPDP登记？"
+    a: "落入《2013年个人资料保护（资料使用者类别）命令》所指定13类别的资料使用者（现称「资料控制者」）必须根据PDPA第14条登记，并取得有效的登记证书。登记通过 daftar.pdp.gov.my 的SPDP门户在线办理。"
 lang: "zh"
-sourceContentHash: "1c1e1a2173218313"
 masterLanguage: "en"
 translationStatus: "in-sync"
+sourceContentHash: "a86fa7aea38102ca"
 status: "in-review"
 aiAssisted: true
 reviewer: null
-version: "0.1"
+version: "0.2"
 revisions:
   - version: "0.1"
     date: 2026-08-10
     change: "Initial AI draft."
     reviewer: null
+  - version: "0.2"
+    date: 2026-08-14
+    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
+    reviewer: null
 verificationNeeded:
-  - "Whether JPDP is formally headed by a 'Director General' (with a Deputy) distinct from the Personal Data Protection Commissioner — official pages describe the department as assisting the Commissioner; some secondary sources use 'Director General'."
-  - "The exact increased penalty figures under the 2024 amendment (widely reported as up to RM1,000,000 fine and up to 3 years' imprisonment for principle breaches; up to RM250,000 for breach-notification failure) against the gazetted text of Act A1727."
-  - "The precise phased commencement dates of Act A1727 provisions (reported as 1 January, 1 April, and 1 June 2025) against the official Gazette notifications."
-  - "The current registered classes of data users required to hold a Certificate of Registration."
-updated: 2026-08-10
+  - "Exact current internal division structure of JPDP (Malay sources cite Bahagian Pendaftaran dan Operasi, Bahagian Pemantauan, Bahagian Perundangan under a Ketua Pengarah / Timbalan Ketua Pengarah) — confirm against the live pdp.gov.my organisation chart."
+  - "Exact section-to-date mapping of the phased 2025 commencement (which sections took effect 1 Jan vs 1 Apr vs 1 June 2025) — confirm against the official commencement-date gazette on pdp.gov.my."
+  - "Current data-user registration fee range and certificate validity period — verify against the current SPDP portal / Registration Regulations."
+  - "Whether the office is still branded 'Personal Data Protection Commissioner' or has moved toward a 'Commission/Suruhanjaya' model — confirm current official title."
+  - "Latest published enforcement statistics (registrations, complaints, actions) — not yet located from a primary DOSM/JPDP source."
+updated: 2026-08-14
 sources:
   - title: "Personal Data Protection Department (JPDP) — official page"
     url: "https://www.pdp.gov.my/ppdpv1/en/personal-data-protection-department/"
-    publisher: "Jabatan Perlindungan Data Peribadi (JPDP)"
-  - title: "Personal Data Protection Act 2010 [Act 709]"
-    url: "https://www.pdp.gov.my/ppdpv1/en/akta/pdp-act-2010-en/"
-    publisher: "Jabatan Perlindungan Data Peribadi (JPDP)"
+    publisher: "Jabatan Perlindungan Data Peribadi (JPDP), Malaysia"
+  - title: "FAQ — Personal Data Protection"
+    url: "https://www.pdp.gov.my/ppdpv1/en/faq/"
+    publisher: "Jabatan Perlindungan Data Peribadi (JPDP), Malaysia"
+  - title: "Personal Data Protection Regulations (Registration of Data Users)"
+    url: "https://www.pdp.gov.my/ppdpv1/en/akta/personal-data-protection-regulations-registration-of-data-users/"
+    publisher: "Jabatan Perlindungan Data Peribadi (JPDP), Malaysia"
   - title: "Personal Data Protection (Amendment) Act 2024"
     url: "https://www.pdp.gov.my/ppdpv1/en/akta/personal-data-protection-amendment-act-2024/"
-    publisher: "Jabatan Perlindungan Data Peribadi (JPDP)"
-  - title: "Introduction (Data Controller obligations, 7 Principles)"
-    url: "https://www.pdp.gov.my/ppdpv1/en/introduction/"
-    publisher: "Jabatan Perlindungan Data Peribadi (JPDP)"
-  - title: "Akta Perlindungan Data Peribadi — quick link"
-    url: "https://www.malaysia.gov.my/en/quick-links/protection-of-personal-data"
-    publisher: "MyGovernment Portal (malaysia.gov.my)"
-  - title: "Malaysia Tightens Data Protection from June 2025"
-    url: "https://www.aseanbriefing.com/news/malaysia-tightens-data-protection-from-june-2025/"
-    publisher: "ASEAN Briefing"
-entity: "Jabatan Perlindungan Data Peribadi (Personal Data Protection Department, JPDP)"
+    publisher: "Jabatan Perlindungan Data Peribadi (JPDP), Malaysia"
+  - title: "Personal Data Protection (Amendment) Act 2024 Commencement Date Determination"
+    url: "https://www.pdp.gov.my/ppdpv1/en/personal-data-protection-amendment-act-2024-commencement-date-determination/"
+    publisher: "Jabatan Perlindungan Data Peribadi (JPDP), Malaysia"
+  - title: "A Sea Change in Malaysia's Data Protection Framework — coming into force of the PDP (Amendment) Act 2024"
+    url: "https://www.lexology.com/library/detail.aspx?g=8a53f32c-e94e-44dd-9184-a05717c559b4"
+    publisher: "Lexology"
+  - title: "News Alert: Dates of Coming into Operation of the Personal Data Protection (Amendment) Act 2024"
+    url: "https://www.christopherleeong.com/viewpoints/news-alert-dates-of-coming-into-operation-of-the-personal-data-protection-amendment-act-2024/"
+    publisher: "Christopher & Lee Ong"
+  - title: "Malaysia: Guidelines Issued on Data Breach Notification and Data Protection Officer Appointment"
+    url: "https://privacymatters.dlapiper.com/2025/03/malaysia-guidelines-issued-on-data-breach-notification-and-data-protection-officer-appointment/"
+    publisher: "DLA Piper (Privacy Matters)"
+  - title: "From Legislative Reform to Practical Guidance: Key Amendments to Malaysia's PDPA"
+    url: "https://www.mayerbrown.com/en/insights/publications/2025/07/from-legislative-reform-to-practical-guidance-key-amendments-to-malaysias-pdpa-and-the-launch-of-cross-border-transfer-guidelines"
+    publisher: "Mayer Brown"
+entity: "Personal Data Protection Department (Jabatan Perlindungan Data Peribadi, JPDP), Malaysia"
 relations: []
 related: []
-keywords: ["JPDP", "Jabatan Perlindungan Data Peribadi", "Personal Data Protection Department", "PDPA", "Act 709", "Personal Data Protection Commissioner", "pdp.gov.my", "Act A1727", "data protection Malaysia"]
+keywords: ["JPDP", "Jabatan Perlindungan Data Peribadi", "Personal Data Protection Department", "PDPA Malaysia", "Personal Data Protection Act 2010", "Act 709", "data controller registration Malaysia", "Personal Data Protection Commissioner", "pdp.gov.my", "PDPA Amendment Act 2024", "data breach notification Malaysia", "DPO Malaysia", "Suruhanjaya Perlindungan Data Peribadi", "SPDP daftar"]
 ---
 
-**个人资料保护局**——*Jabatan Perlindungan Data Peribadi*（**JPDP**）——是负责施行与执行**《2010年个人资料保护法令》（第709号法令，Act 709）**的马来西亚联邦机构。它在国会通过该法令后，于**2011年5月16日**成立，现隶属数字部（Digital Ministry）。其职责是协助**个人资料保护专员**（Personal Data Protection Commissioner）监管商业交易中个人资料的处理方式，并处理登记、投诉、监督与执法事务。
+几乎每一份马来西亚资料隐私指南都在解释这项*法律*，却鲜少有人解释*执掌它的那个机关*。那个机关就是**个人资料保护局**——*Jabatan Perlindungan Data Peribadi*（**JPDP**）——在国会通过《2010年个人资料保护法令》（第709号法令）之后，于**2011年5月16日**成立。它是隶属数字部的机构，职责是协助**个人资料保护专员**执行该法令。这正是马来西亚企业前往登记、普通公民前往投诉的部门。
 
-## JPDP的职能
+## JPDP究竟做什么？
 
-JPDP是个人资料保护专员的执行机构，而专员是施行第709号法令的法定职位。其核心职能包括：
+JPDP的主要职责，是规范资料使用者处理商业交易所涉个人资料的方式，使这些资料不被滥用或利用。其愿景是成为保护个人资料的主要领导者，以在成为发达国家的进程中实现福祉；其使命是规范资料保护，以建立信任、进而推动商业交易的增长。
 
-- **登记**特定类别的资料使用者（经2024年修正法令改称*资料控制者*），并签发登记证书。
-- **处理投诉**，受理个人资料可能遭滥用者提出的投诉。
-- **监督与执法**，确保对该法令的合规。
-- **指导**，提供个人资料保护方面的标准与公众意识宣导。
+在实务上，该部门做着三件公民与企业会直接接触到的事：
 
-它所执行的法令规管**商业交易**中个人资料的处理。它约束私营领域的"资料使用者"，但**不适用于联邦政府或州政府**。
+- **登记**——为资料控制者签发与管理登记证书。
+- **投诉**——受理并处理个人资料被不当处理的申诉。
+- **执法与指引**——适用第709号法令，并发布对其加以细化的各项指南。
 
-## 七项资料保护原则
+它所执掌的法令于**2013年11月15日**全面生效，是马来西亚首个同类立法框架。
 
-每个处理个人资料的机构都必须遵守第709号法令第II部所列明的七项原则。违反其中任何一项均属违法行为。
+## JPDP执行的是哪些规则？
 
-| # | 原则 | 条文 |
-|---|-----------|---------|
-| 1 | 一般原则 | s. 6 |
-| 2 | 通知与选择原则 | s. 7 |
-| 3 | 披露原则 | s. 8 |
-| 4 | 安全原则 | s. 9 |
-| 5 | 保存原则 | s. 10 |
-| 6 | 资料完整性原则 | s. 11 |
-| 7 | 查阅原则 | s. 12 |
+PDPA建立在**七项个人资料保护原则**之上：一般原则、通知与选择原则、披露原则、安全原则、保留原则、资料完整性原则，以及查阅原则。这些原则共同规范任何机构如何收集、使用、保存和披露个人资料。
 
-在原法令下，违反某项原则可处**高达RM300,000**罚款、**最高2年**监禁，或两者兼施。未持所需登记证书而处理个人资料，可处**高达RM500,000**罚款及／或最高**3年**监禁。
+资料被处理的个人享有相应的权利——被告知其资料正在被处理、查阅其资料、更正资料、撤回同意，以及阻止为直销目的的处理。
 
-## 2024年修正法令（第A1727号法令）
+## 谁必须登记，我又该如何投诉？
 
-**《2024年个人资料保护（修正）法令》（第A1727号法令，Act A1727）**使该制度现代化，并于2025年分阶段生效。专员与法律评论人士所报道的主要变更包括：
+并非人人都必须登记，但落入**《2013年个人资料保护（资料使用者类别）命令》所指定13类别**的资料使用者，必须根据该法令**第14条**向JPDP登记，并持有有效证书。登记通过 **daftar.pdp.gov.my 的SPDP门户**在线办理。
 
-- 在整部法令中将**"资料使用者"（data user）**改称为**"资料控制者"（data controller）**。
-- **强制性数据泄露通报**——资料控制者须在知悉个人资料泄露后，一般于**72小时**内通报专员。
-- 委任**资料保护官（DPO）**的义务。
-- 对**资料处理者的直接义务**，此前资料处理者并不直接受约束。
-- 扩大**敏感个人资料**的范围，纳入**生物识别数据**。
-- 提高违反原则的最高刑罚（广泛报道为高达**RM1,000,000**及／或**3年**监禁）。
+如果你认为自己的个人资料在违反该法令的情况下被处理，可通过电邮 **aduan@pdp.gov.my** 或致电 **03-7456 3888** 向专员投诉。
 
-*确切的刑罚数额以及各项条文的具体生效日期，应对照第A1727号法令的宪报文本加以核实——参见本文元数据中的核实说明。*
+## 2024年修正法令如何改变了JPDP的职责？
 
-## 联络方式
+**《2024年个人资料保护（修正）法令》（第A1727号法令）**于2024年7月16日经下议院通过、2024年7月31日经上议院通过，于2024年10月9日获御准，并于2024年10月17日刊宪。2024年12月24日，数字部长刊宪公布分阶段生效日期，跨越**2025年1月1日、4月1日及6月1日**。主要变动如下：
 
-JPDP设于**布城（Putrajaya）**（Galeria PjH，Persiaran Perdana，第4区／Precinct 4）。公众咨询与投诉可通过其客服中心及电邮**aduan@pdp.gov.my**处理；官方信息发布于**pdp.gov.my**。
+| 变动 | 含义 |
+|---|---|
+| 「资料使用者」→「资料控制者」 | 该用语在主法令中全面替换。 |
+| 资料保护官 | 自2025年6月1日起，控制者与处理者必须委任至少一名资料保护官（DPO）；门槛包括处理超过20,000名主体的资料，或超过10,000名主体的敏感资料。 |
+| 资料外泄通报 | 控制者必须在**72小时**内通报专员；在可能造成重大损害的情况下，须在七天内通报受影响的主体。 |
+| 资料可携 | 主体可要求将其资料直接传输给另一控制者，惟须视技术可行性而定（自2025年6月起）。 |
+| 跨境传输 | 旧有的「白名单」被以风险为本的框架取代。 |
+| 敏感资料 | 现明确涵盖生物特征资料。 |
+| 罚则 | 违反安全原则的最高罚款从RM300,000提高至**RM1,000,000**，最高监禁刑期从两年提高至三年。 |
 
-## 下一步
+## 接下来该做什么
 
-如果你经营一家处理客户或员工资料的企业，请查明你的机构是否属于登记类别的资料控制者，对照七项原则检视你的合规状况，并确认你在2024年修正法令下的数据泄露通报与资料保护官（DPO）安排。有关法定条文，请参阅JPDP网站上的**第709号法令**与**第A1727号法令**。
+如果你的机构处理客户或员工资料，请检视自己是否落入13个登记类别之一，依据第A1727号法令确认你的DPO与资料外泄通报安排，并对照七项原则审视你的实务做法。JPDP位于Level 8, Galeria PjH, Persiaran Perdana, Precinct 4, 62100 Putrajaya，并在 **pdp.gov.my** 发布法定条文与现行指南。

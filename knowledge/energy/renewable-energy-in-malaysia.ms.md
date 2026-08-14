@@ -1,110 +1,143 @@
 ---
 topicId: "MY-ENE-0019"
-title: "Tenaga Boleh Baharu di Malaysia"
-seoTitle: "Tenaga Boleh Baharu di Malaysia: Akta RE, FiT & NETR"
+title: "Tenaga Boleh Diperbaharui di Malaysia: Sasaran, Skim dan Untuk Siapa Setiap Satunya"
+seoTitle: "Tenaga Boleh Diperbaharui Malaysia (RE): Sasaran & Skim"
+socialTitle: "31%, 40% atau 70%? Sasaran Tenaga Boleh Diperbaharui Malaysia, Dihuraikan"
 slug: "renewable-energy-in-malaysia"
 category: "energy"
 subcategory: ["renewables"]
-summary: "Bagaimana Malaysia mengawal selia dan mengembangkan tenaga boleh baharu — Akta Tenaga Boleh Baharu 2011, skim FiT/NEM/Solar ATAP SEDA, Solar Skala Besar, dan sasaran 70% menjelang 2050."
+summary: "Panduan neutral dan menyeluruh tentang tenaga boleh diperbaharui di Malaysia — sasaran nasional (31% menjelang 2025, 40% menjelang 2035, 70% menjelang 2050 di bawah NETR), pelbagai skim (FiT, NEM 3.0, LSS, CGPP, CRESS, SELCO), dan program mana yang sesuai untuk pemilik rumah, perniagaan, atau pemaju."
 tier: "2"
 mode: "practical"
 contentType: "guide"
 sensitivity: "none"
-answer: "Tenaga boleh baharu (RE) di Malaysia dibina terutamanya atas solar dan hidrokuasa serta diselaraskan oleh Kementerian Peralihan Tenaga dan Transformasi Air (PETRA) bersama Pihak Berkuasa Pembangunan Tenaga Lestari (SEDA) dan Suruhanjaya Tenaga. Tunjang perundangannya ialah Akta Tenaga Boleh Baharu 2011 [Akta 725], yang mewujudkan Tarif Galakan (FiT) dan Kumpulan Wang Tenaga Boleh Baharu (KWTBB). Dasar negara — pelan hala tuju MyRER dan Pelan Hala Tuju Peralihan Tenaga Negara (NETR) — mensasarkan 31% RE dalam kapasiti terpasang menjelang 2025, 40% menjelang 2035 dan 70% menjelang 2050."
+answer: "Landskap tenaga boleh diperbaharui Malaysia disusun berdasarkan sasaran nasional dan sekumpulan skim penyertaan. Di bawah Pelan Hala Tuju Peralihan Tenaga Negara (NETR), negara mensasarkan tenaga boleh diperbaharui pada 31% daripada kapasiti terpasang menjelang 2025, 40% menjelang 2035 dan 70% menjelang 2050, seiring dengan aspirasi pelepasan sifar bersih menjelang 2050. Skim yang sesuai untuk anda bergantung pada siapa anda: isi rumah dan perniagaan menyertai Pemeteran Tenaga Bersih (NEM 3.0), korporat membeli kuasa hijau melalui Program Kuasa Hijau Korporat (CGPP), dan program lain berkhidmat untuk pemaju berskala utiliti — diselaraskan oleh SEDA, Suruhanjaya Tenaga dan Pembeli Tunggal di bawah kementerian tenaga."
 keyTakeaways:
-  - "Akta Tenaga Boleh Baharu 2011 [Akta 725] menubuhkan Tarif Galakan dan Kumpulan Wang RE; ia dipinda oleh Akta Tenaga Boleh Baharu (Pindaan) 2023 [Akta A1689], yang digubal pada 10 November 2023."
-  - "SEDA (di bawah Akta SEDA 2011 [Akta 726]) mentadbir insentif RE — Tarif Galakan, Pengukuran Tenaga Bersih (NEM) dan, mulai 1 Januari 2026, Solar ATAP."
-  - "NETR dan MyRER menetapkan sasaran RE-dalam-kapasiti-terpasang sebanyak 31% menjelang 2025, 40% menjelang 2035 dan 70% menjelang 2050 (dengan lebih kurang 57 GW solar PV menjelang 2050)."
-  - "Solar skala utiliti diperoleh melalui program Solar Skala Besar (LSS); LSS5, dilancarkan pada 1 April 2024, menawarkan 2 GW merentasi empat pakej."
-  - "Kumpulan Wang RE (KWTBB) dibiayai oleh caj tambahan 1.6% pada bil elektrik; pengguna domestik pada 300 kWh sebulan atau kurang dikecualikan."
-appliesTo: "Pemilik rumah dan perniagaan yang mempertimbangkan solar, pemaju dan pelabur RE, pelajar, dan sesiapa yang memerlukan gambaran keseluruhan rangka kerja tenaga boleh baharu Malaysia dalam bahasa yang mudah."
+  - "Di bawah NETR, Malaysia mensasarkan tenaga boleh diperbaharui pada 31% daripada kapasiti terpasang menjelang 2025, 40% menjelang 2035 dan 70% menjelang 2050 — angka 70% ialah kapasiti penjanaan/terpasang, bukan keseluruhan sistem tenaga."
+  - "NEM 3.0 (2021–2025) memperuntukkan sehingga 2,500 MW merentasi tiga program: NEM Rakyat (700 MW, isi rumah), NEM GoMEn (100 MW, kerajaan) dan NOVA (1,700 MW, komersial dan industri)."
+  - "Program Kuasa Hijau Korporat (CGPP) diperuntukkan 800 MW dan telah dilanggan sepenuhnya pada 8 November 2023 oleh 32 pemohon, menggunakan perjanjian pembelian kuasa maya."
+  - "NETR bertunjangkan enam tuas peralihan tenaga dan 10 projek utama (melebihi RM25 bilion pelaburan); peralihan yang lebih luas dirangka sebagai peluang bernilai RM1.2–1.3 trilion menjelang 2050."
+  - "Kapasiti boleh diperbaharui terpasang dijangka berkembang daripada kira-kira 6 GW kepada 14 GW apabila negara bergerak ke arah sasaran kapasiti penjanaan 70%."
+appliesTo: "Pemilik rumah yang mempertimbangkan solar bumbung, pengguna komersial dan industri, korporat yang mencari kuasa hijau, pemaju tenaga boleh diperbaharui, dan sesiapa yang memerlukan peta neutral tentang sasaran dan skim RE Malaysia."
 faq:
-  - q: "Apakah sasaran tenaga boleh baharu Malaysia?"
-    a: "Dasar negara mensasarkan RE pada 31% daripada kapasiti terpasang menjelang 2025, 40% menjelang 2035 dan 70% menjelang 2050, menurut pelan hala tuju MyRER dan Pelan Hala Tuju Peralihan Tenaga Negara (NETR). Angka 70% merujuk kepada kapasiti penjanaan elektrik, bukan keseluruhan sistem tenaga."
-  - q: "Undang-undang manakah yang mengawal tenaga boleh baharu di Malaysia?"
-    a: "Akta Tenaga Boleh Baharu 2011 [Akta 725] ialah statut utama. Ia mewujudkan mekanisme Tarif Galakan dan Kumpulan Wang Tenaga Boleh Baharu (KWTBB), dan telah dipinda oleh Akta Tenaga Boleh Baharu (Pindaan) 2023 [Akta A1689]."
-  - q: "Bagaimanakah sesebuah isi rumah boleh mengambil bahagian dalam tenaga boleh baharu?"
-    a: "Terutamanya melalui solar bumbung. Program Pengukuran Tenaga Bersih (NEM) berjalan sehingga pertengahan 2025 dan telah digantikan dengan Solar ATAP mulai 1 Januari 2026, kedua-duanya ditadbir oleh SEDA."
+  - q: "Adakah sasaran tenaga boleh diperbaharui Malaysia 31%, 40% atau 70%?"
+    a: "Ketiga-tiganya — ia adalah pencapaian sepanjang trajektori yang sama. Di bawah Pelan Hala Tuju Peralihan Tenaga Negara (NETR), tenaga boleh diperbaharui disasarkan pada 31% daripada kapasiti terpasang menjelang 2025, 40% menjelang 2035 dan 70% menjelang 2050. Angka 70% merujuk kepada penjanaan elektrik/kapasiti terpasang, bukan jumlah penggunaan tenaga."
+  - q: "Skim mana yang patut digunakan oleh pemilik rumah untuk solar bumbung?"
+    a: "Isi rumah di Semenanjung Malaysia menyertai melalui NEM Rakyat, salah satu daripada tiga program NEM 3.0 (kuota 700 MW). Tenaga lebihan yang dieksport ke grid dikreditkan atas dasar imbangan satu lawan satu terhadap bil sehingga 10 tahun."
+  - q: "Bagaimana sesebuah syarikat boleh membeli tenaga boleh diperbaharui tanpa memasang panel sendiri?"
+    a: "Program Kuasa Hijau Korporat (CGPP) membolehkan pengguna korporat menandatangani perjanjian pembelian kuasa maya dengan pengeluar kuasa solar untuk tenaga boleh diperbaharui dan sifat hijaunya, dengan bekalan teguh disokong oleh utiliti. Kuota 800 MW-nya telah dilanggan sepenuhnya pada November 2023."
 lang: "ms"
-sourceContentHash: "743c6a08d96de87a"
 masterLanguage: "en"
 translationStatus: "in-sync"
+sourceContentHash: "3b6461a76b43d697"
 status: "in-review"
 aiAssisted: true
 reviewer: null
-version: "0.1"
+version: "0.2"
 revisions:
   - version: "0.1"
     date: 2026-08-10
     change: "Initial AI draft."
     reviewer: null
+  - version: "0.2"
+    date: 2026-08-14
+    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
+    reviewer: null
 verificationNeeded:
-  - "Malaysia's exact current RE share of installed capacity (sources cite 'just over 25% in 2023' and SEDA's interim 31%-by-2025 target); confirm the latest official figure and year against SEDA/Energy Commission statistics."
-  - "MyRER figures (>MYR 53 billion investment and ~46,636 jobs to 2035) are taken from SEDA's MyRER portal summary; confirm against the full MyRER document."
-  - "LSS5 package structure and dates are from developer/legal reporting citing the Energy Commission RFP; confirm against the Energy Commission's own LSS5 announcement."
-updated: 2026-08-10
+  - "Large Scale Solar (LSS) round-by-round awarded capacity (LSS1 through LSS5/LSS5+) and the lowest winning tariff (RM/kWh) — not confirmed against a primary SEDA/Energy Commission source."
+  - "Current RE share splits often quoted by secondary sources (RE ~8% of energy consumption; hydro ~6.3%; solar ~0.53%) — confirm against MyEnergyStats / Energy Commission MEIH primary data."
+  - "Claim that coal will be phased out by ~2044 — appears in reporting but was not found in the NETR/MIDA primary summary; verify against the NETR document itself."
+  - "Solar installed-capacity figure (~1.9 GW) and 'third-largest in ASEAN' ranking — secondary sources; confirm the current number from the Energy Commission."
+  - "CRESS (Corporate Renewable Energy Supply Scheme) specifics — launch date, system access charge and third-party-access mechanism — not fetched; verify on st.gov.my / singlebuyer.com.my."
+  - "NEM 3.0 2025 extension, any NEM Rakyat/NOVA quota top-ups, and any successor self-consumption scheme from 2026 — secondary sources conflict; confirm on seda.gov.my."
+  - "BESS 500 MW energy-storage target from 2030 — secondary; confirm against the NETR/official source."
+  - "MyRER's total RE installed-capacity target in MW (as opposed to the % share) — SEDA page gave % and investment/jobs but not a clean MW figure."
+  - "FiT and SELCO current scheme mechanics, quotas and rates — named in the scheme family but not confirmed against a primary source this pass."
+updated: 2026-08-14
 sources:
-  - title: "Renewable Energy Act 2011"
-    url: "https://www.seda.gov.my/policies/renewable-energy-act-2011/"
-    publisher: "SEDA Malaysia"
-  - title: "Malaysia Renewable Energy Roadmap (MyRER)"
-    url: "https://www.seda.gov.my/reportal/myrer/"
-    publisher: "SEDA Malaysia"
-  - title: "Feed-in Tariff (FiT) — Renewable Energy Malaysia"
-    url: "https://www.seda.gov.my/reportal/fit/"
-    publisher: "SEDA Malaysia"
   - title: "National Energy Transition Roadmap (NETR): Charting a Path to a Sustainable Energy Landscape"
     url: "https://www.mida.gov.my/national-energy-transition-roadmap-netr-charting-a-path-to-a-sustainable-energy-landscape/"
     publisher: "Malaysian Investment Development Authority (MIDA)"
-  - title: "Malaysia launches 2 GW solar tender (LSS5)"
-    url: "https://www.pv-magazine.com/2024/04/03/malaysia-launches-2-gw-solar-tender/"
-    publisher: "pv magazine"
-entity: "Renewable Energy Act 2011 [Act 725]"
-relations:
-  - { rel: "related-to", to: "seda-malaysia" }
-  - { rel: "related-to", to: "national-energy-transition-roadmap-netr" }
-  - { rel: "related-to", to: "solar-energy-malaysia" }
-  - { rel: "related-to", to: "hydropower-malaysia" }
+  - title: "Malaysia Renewable Energy Roadmap (MyRER)"
+    url: "https://www.seda.gov.my/reportal/myrer/"
+    publisher: "Sustainable Energy Development Authority (SEDA) Malaysia"
+  - title: "Net Energy Metering (NEM) 3.0"
+    url: "https://www.seda.gov.my/reportal/nem/"
+    publisher: "Sustainable Energy Development Authority (SEDA) Malaysia"
+  - title: "Corporate Green Power Programme (CGPP)"
+    url: "https://singlebuyer.com.my/market/market-operations/programs/cgpp"
+    publisher: "Single Buyer Malaysia (Energy Commission)"
+  - title: "Malaysia - Renewable Energy (Country Commercial Guide)"
+    url: "https://www.trade.gov/country-commercial-guides/malaysia-renewable-energy"
+    publisher: "International Trade Administration, U.S. Department of Commerce"
+entity: "Renewable energy in Malaysia"
+relations: []
 related: []
-keywords: ["renewable energy Malaysia", "tenaga boleh baharu", "Renewable Energy Act 2011", "FiT", "feed-in tariff", "SEDA", "NEM", "NETR", "MyRER", "Large Scale Solar", "LSS", "Solar ATAP"]
+keywords: ["renewable energy Malaysia", "NETR", "National Energy Transition Roadmap", "MyRER", "NEM 3.0", "Net Energy Metering Malaysia", "SEDA", "Large Scale Solar", "LSS Malaysia", "CGPP", "CRESS", "solar panel Malaysia", "feed-in tariff Malaysia", "TNB solar", "renewable energy target 2050", "Energy Commission Malaysia"]
 ---
 
-Tenaga boleh baharu (RE) di Malaysia bermaksud elektrik yang dijana daripada solar, hidrokuasa, biojisim, biogas dan hidro kecil — dengan fotovolta (PV) solar dan empangan hidro besar melakukan sebahagian besar kerja hari ini. Sektor ini dipandu oleh Kementerian Peralihan Tenaga dan Transformasi Air (PETRA), dengan **Pihak Berkuasa Pembangunan Tenaga Lestari (SEDA)** menjalankan skim insentif dan **Suruhanjaya Tenaga** mengawal selia grid serta melesenkan penjana. Asas perundangannya ialah **Akta Tenaga Boleh Baharu 2011 [Akta 725]**, dan sasaran negara menuju supaya RE mencapai 70% daripada kapasiti terpasang menjelang 2050.
+Jika anda pernah cuba membaca tentang tenaga boleh diperbaharui (RE) di Malaysia, anda mungkin telah bertembung dengan tiga angka sasaran berbeza — 31%, 40% dan 70% — dan sederet akronim: FiT, NEM, LSS, CGPP, CRESS, SELCO. Tiada satu pun yang bercanggah; ia cuma tersebar merentasi setengah dozen agensi, masing-masing mendokumentasikan hanya sudut mereka sendiri. Panduan ini menghimpunkan keseluruhan landskap ke satu tempat: sasaran nasional dan pelan hala tuju di sebaliknya, keluarga skim yang ada, dan — bahagian yang paling banyak sumber tinggalkan — program mana yang sebenarnya ditujukan untuk pemilik rumah, perniagaan, atau pemaju.
 
-## Rangka kerja perundangan dan dasar
+## Adakah sasaran itu 31%, 40% atau 70%?
 
-Dorongan RE Malaysia bersandar pada dua statut tahun 2011 dan sepasang pelan hala tuju:
+Ketiga-tiganya. Ia adalah pencapaian sepanjang trajektori yang sama, ditetapkan merentasi dua pelan hala tuju yang bertindih.
 
-- **Akta Tenaga Boleh Baharu 2011 [Akta 725]** — mewujudkan mekanisme Tarif Galakan (FiT) dan Kumpulan Wang Tenaga Boleh Baharu (KWTBB). Ia meliputi biojisim, biogas, hidro kecil dan solar PV, serta dipinda oleh **Akta Tenaga Boleh Baharu (Pindaan) 2023 [Akta A1689]**, yang digubal pada 10 November 2023.
-- **Akta SEDA 2011 [Akta 726]** — menubuhkan SEDA sebagai badan berkanun yang mentadbir insentif RE.
-- **MyRER (Pelan Hala Tuju Tenaga Boleh Baharu Malaysia)** — menetapkan sasaran interim **31% bahagian RE menjelang 2025** dan **40% menjelang 2035**, serta menganggarkan lebih **MYR 53 bilion** pelaburan dan kira-kira **46,636 pekerjaan** menjelang 2035.
-- **Pelan Hala Tuju Peralihan Tenaga Negara (NETR)** — pelan penyahkarbonan yang lebih luas, mensasarkan **70% RE dalam kapasiti terpasang menjelang 2050**, dengan solar sebagai penyumbang terbesar (dalam lingkungan 57 GW solar PV menjelang 2050).
+**Pelan Hala Tuju Tenaga Boleh Diperbaharui Malaysia (MyRER)**, yang diterbitkan oleh Suruhanjaya Pembangunan Tenaga Lestari (SEDA), menetapkan penanda jangka pendek: **31% bahagian tenaga boleh diperbaharui dalam campuran kapasiti terpasang negara menjelang 2025**. MyRER menganggarkan lebih **MYR 53 bilion** pelaburan dan **46,636 penciptaan pekerjaan** dalam mencapai matlamatnya.
 
-## Bagaimana anda boleh mengakses tenaga boleh baharu
+**Pelan Hala Tuju Peralihan Tenaga Negara (NETR)** yang lebih luas kemudian membawa trajektori ini ke hadapan: **31% daripada kapasiti terpasang menjelang 2025, 40% menjelang 2035, dan 70% menjelang 2050**. Satu nuansa penting yang sering hilang dalam tajuk berita — angka 70% ialah tenaga boleh diperbaharui sebagai bahagian daripada **penjanaan / kapasiti terpasang** elektrik, bukan daripada keseluruhan sistem tenaga. Dari segi kapasiti, kapasiti boleh diperbaharui terpasang Malaysia dijangka berkembang daripada kira-kira **6 GW kepada 14 GW** dalam perjalanan ke arah itu.
 
-SEDA menjalankan beberapa skim, masing-masing ditujukan kepada pengguna yang berbeza:
+NETR lebih luas daripada panel solar. Ia dibina atas enam tuas peralihan tenaga — **Kecekapan Tenaga, Tenaga Boleh Diperbaharui, Hidrogen, Biotenaga, Mobiliti Hijau, dan Penangkapan, Penggunaan dan Penyimpanan Karbon** — yang disusun menjadi **10 projek pemangkin utama**. Projek-projek utama itu dijangka menarik lebih **RM25 bilion** pelaburan, manakala peralihan tenaga yang lebih luas dirangka sebagai peluang bernilai **RM1.2 trilion hingga RM1.3 trilion** menjelang 2050. Menjadi asas kepada kesemuanya ialah **aspirasi pelepasan gas rumah hijau sifar bersih menjelang 2050**.
 
-| Skim | Untuk siapa | Status |
+| Pelan Hala Tuju | Pencapaian | Apa yang diukur |
 | --- | --- | --- |
-| Tarif Galakan (FiT) | Penjana biogas, biojisim, hidro kecil | Aktif melalui e-Bidaan berkala |
-| Pengukuran Tenaga Bersih (NEM) | Rumah, perniagaan, kerajaan | Berjalan sehingga pertengahan 2025 |
-| Solar ATAP | Pengguna domestik & bukan domestik | Berkuat kuasa 1 Januari 2026 |
-| Solar Skala Besar (LSS) | Pemaju solar skala utiliti | Tender kompetitif |
+| MyRER | 31% menjelang 2025 | Bahagian RE daripada campuran kapasiti terpasang |
+| NETR | 31% (2025) → 40% (2035) → 70% (2050) | Bahagian RE daripada penjanaan/kapasiti terpasang |
+| NETR | Aspirasi sifar bersih menjelang 2050 | Pelepasan gas rumah hijau |
 
-- **Tarif Galakan (FiT):** skim tertua — penjana menjual kepada grid pada kadar tetap untuk tempoh yang ditetapkan. Kuota FiT kini diperuntukkan melalui e-Bidaan untuk biogas, biojisim dan hidro kecil.
-- **Pengukuran Tenaga Bersih (NEM):** membenarkan pemilik solar bumbung mengimbangi bil mereka dengan mengeksport kuasa lebihan ke grid; ia telah digantikan oleh **Solar ATAP** mulai 1 Januari 2026.
-- **Solar Skala Besar (LSS):** laluan kompetitif Suruhanjaya Tenaga untuk loji skala utiliti. **LSS5**, dilancarkan pada **1 April 2024**, menawarkan **2 GW** merentasi empat pakej, termasuk pakej solar terapung yang khusus.
+## Skim mana yang sebenarnya untuk saya?
 
-## Siapa yang membayarnya
+Skim-skim ini terbahagi dengan jelas mengikut siapa anda. Dua skim dengan mekanik yang didokumentasikan sepenuhnya ialah Pemeteran Tenaga Bersih (untuk pengguna kendiri) dan Program Kuasa Hijau Korporat (untuk korporat yang membeli kuasa hijau); selebihnya dalam keluarga ini berkhidmat untuk pengeluar dan pembeli yang lebih besar.
 
-Insentif RE dibiayai oleh **Kumpulan Wang Tenaga Boleh Baharu (KWTBB)**, yang dibiayai oleh **caj tambahan 1.6%** pada caj penggunaan elektrik. Ia muncul sebagai baris berasingan pada bil TNB; TNB hanya ejen pengutip, dan **pengguna domestik yang menggunakan 300 kWh sebulan atau kurang dikecualikan**.
+| Anda ialah… | Lihat | Apa yang dilakukannya |
+| --- | --- | --- |
+| Pemilik rumah (Semenanjung Malaysia) | **NEM Rakyat** (sebahagian NEM 3.0) | Imbangi bil anda dengan eksport solar bumbung |
+| Kementerian atau agensi kerajaan | **NEM GoMEn** (sebahagian NEM 3.0) | Mekanisme imbangan yang sama, kuota sektor awam |
+| Pengguna komersial atau industri | **NOVA** (sebahagian NEM 3.0) | Agregatkan solar secara maya merentasi akaun |
+| Pembeli korporat yang mahukan kuasa hijau | **CGPP** | Beli RE + sifat hijau melalui PPA maya |
+| Penjana / pemaju RE | **FiT, LSS, CRESS, SELCO** | Jual kepada grid atau bekalkan pembeli korporat |
 
-## Apa yang seterusnya
+Skim penggunaan kendiri (NEM) dan skim bekalan korporat (CGPP) diperincikan di bawah. Program yang menghadap penjana dan pemaju — Tarif Galakan (FiT), Solar Berskala Besar (LSS), Skim Bekalan Tenaga Boleh Diperbaharui Korporat (CRESS) dan penggunaan kendiri (SELCO) — dinamakan di sini bagi kelengkapan; kuota, tarif dan peraturan akses semasanya perlu disahkan terhadap sumber utama (lihat *Pengesahan diperlukan*).
 
-Dasar RE di Malaysia kerap berubah — kuota dibuka dan ditutup, dan skim dinamakan semula atau digantikan (NEM kepada Solar ATAP ialah contoh terbaharu). Sebelum komited kepada pemasangan solar atau bidaan pembangunan:
+## Bagaimana Pemeteran Tenaga Bersih (NEM 3.0) berfungsi?
 
-- Sahkan skim, kuota dan kadar semasa di portal rasmi SEDA, kerana angka dikemas kini secara berkala.
-- Untuk solar bumbung, lantik pembekal PV berdaftar dengan SEDA — permohonan tidak boleh difailkan tanpanya.
-- Untuk gambaran yang lebih besar, lihat halaman berpaut mengenai [SEDA](/ms/energy/seda-malaysia), [Pelan Hala Tuju Peralihan Tenaga Negara](/ms/energy/national-energy-transition-roadmap-netr), [tenaga solar](/ms/energy/solar-energy-malaysia) dan [hidrokuasa](/ms/energy/hydropower-malaysia).
+NEM membolehkan anda memasang solar bumbung, menggunakan apa yang anda jana, dan menghantar lebihan ke grid untuk kredit. **NEM 3.0 berjalan dari 2021 hingga 2025 dengan jumlah peruntukan kuota sehingga 2,500 MW**, dibahagikan kepada tiga program untuk tiga jenis pengguna:
 
-*Artikel ini ialah draf yang dijana AI berdasarkan sumber rasmi SEDA, MIDA dan sumber industri yang berwibawa; sahkan angka kritikal terhadap dokumen utama sebelum bertindak.*
+- **NEM Rakyat — 700 MW**, untuk pengguna domestik di Semenanjung Malaysia.
+- **NEM GoMEn — 100 MW**, untuk kementerian dan agensi kerajaan.
+- **NOVA (Net Offset Virtual Aggregation) — 1,700 MW**, untuk pengguna komersial dan industri.
+
+Mekanisme kredit berbeza mengikut program. Di bawah **NEM Rakyat dan NEM GoMEn**, tenaga solar lebihan yang dieksport ke grid dikreditkan atas **dasar imbangan satu lawan satu** terhadap bil elektrik, sehingga **10 tahun**. Di bawah **NOVA**, kredit yang dieksport pula dinilai pada **Harga Marginal Sistem Purata (SMP)** — kadar yang dirujuk pasaran dan bukannya imbangan satu lawan satu secara terus — sebab itulah program isi rumah dan komersial ini wajar difahami secara berasingan sebelum membuat komitmen.
+
+## Bagaimana pula dengan korporat yang mahukan kuasa hijau?
+
+Bukan setiap organisasi mahu memiliki panel. **Program Kuasa Hijau Korporat (CGPP)** membolehkan syarikat berkontrak untuk elektrik boleh diperbaharui sebaliknya. Di bawah CGPP, **pengguna korporat menandatangani perjanjian pembelian kuasa maya (VPPA) dengan pengeluar kuasa solar** untuk tenaga boleh diperbaharui dan sifat hijaunya, manakala bekalan teguh disokong oleh syarikat utiliti elektrik. Ia, pada dasarnya, ialah cara untuk menuntut kuasa hijau tanpa menanggung risiko pengimbangan grid sendiri.
+
+Permintaan adalah kuat: CGPP **diperuntukkan jumlah kuota sebanyak 800 MW**, yang telah **dilanggan sepenuhnya pada 8 November 2023 oleh 32 pemohon yang berjaya**. Bagi korporat yang terlepas peluang itu, mekanisme bekalan korporat lain (seperti CRESS) telah diperkenalkan — tetapi spesifikasinya perlu disahkan terhadap Suruhanjaya Tenaga dan Pembeli Tunggal sebelum bergantung padanya.
+
+## Siapa yang mengendalikan semua ini — dan adakah ia berfungsi sama di mana-mana?
+
+Tanggungjawab sengaja dibahagikan merentasi beberapa badan:
+
+- **SEDA (Suruhanjaya Pembangunan Tenaga Lestari)** mentadbir skim penggunaan kendiri dan tarif galakan (NEM, dan pelan hala tuju MyRER).
+- **Suruhanjaya Tenaga** dan **Pembeli Tunggal** mengendalikan program seperti CGPP dan bekalan korporat.
+- **Kementerian tenaga (NRECC/PETRA)** menetapkan dasar keseluruhan dan memiliki NETR.
+
+Satu kaveat struktur penting sebelum anda menganggap mana-mana skim terpakai kepada anda: Malaysia tidak menjalankan satu sektor kuasa nasional tunggal. **Semenanjung Malaysia, Sabah dan Sarawak beroperasi di bawah rejim sektor kuasa yang berasingan.** Program NEM yang diterangkan di atas dirangka untuk Semenanjung Malaysia (NEM Rakyat secara jelas meliputi pengguna domestik di sana); Sabah dan Sarawak menjalankan aturan mereka sendiri, jadi tawaran atau kuota di satu wilayah tidak secara automatik wujud di wilayah lain.
+
+## Apa seterusnya
+
+Rangka kerja RE Malaysia bergerak pantas — kuota dibuka dan ditutup, skim dilanjutkan atau dinamakan semula, dan mekanisme bekalan korporat baharu terus muncul. Sebelum anda bertindak:
+
+- **Padankan skim dengan profil anda dahulu** (isi rumah → NEM Rakyat; C&I → NOVA; pembeli korporat → CGPP), kemudian sahkan kuota dan peraturan langsung di portal agensi pentadbir — SEDA untuk NEM, Suruhanjaya Tenaga dan Pembeli Tunggal untuk program korporat.
+- **Semak wilayah anda.** Semenanjung, Sabah dan Sarawak berbeza; jangan anggap skim Semenanjung tersedia di tempat anda berada.
+- **Anggap mana-mana angka yang ditandakan di bawah *Pengesahan diperlukan* sebagai sementara** sehingga disahkan terhadap sumber utama — tarif pusingan LSS, pecahan bahagian RE semasa, tarikh persaraan arang batu dan skim pengganti NEM terkini kesemuanya termasuk dalam kategori itu.

@@ -1,124 +1,122 @@
 ---
 topicId: "MY-GOV-0097"
-title: "国民登记局（JPN）"
-seoTitle: "马来西亚国民登记局（JPN）"
+title: "国民登记局（JPN）：马来西亚的民事登记与 MyKad 身份证主管机构"
+seoTitle: "马来西亚国民登记局（JPN）指南"
+socialTitle: "一个机构记录每位马来西亚人从出生到死亡的一切——JPN 究竟如何运作"
 slug: "national-registration-department-jpn"
 category: "government"
-subcategory: ["civil registration"]
-summary: "马来西亚负责登记出生、死亡、婚姻、公民身份，并签发 MyKad 身份证的机构。"
+subcategory: ["agencies"]
+summary: "国民登记局（JPN）是隶属内政部的机构，是马来西亚的民事登记机关——负责登记出生、死亡、结婚、离婚、收养及公民身份，并签发强制性的 MyKad 身份证。"
 tier: "3"
 mode: "practical"
 contentType: "agency"
 sensitivity: "none"
-answer: "国民登记局（Jabatan Pendaftaran Negara，JPN）是隶属内政部的联邦机构，负责登记重要的人生事件——出生、死亡、收养，以及非穆斯林的婚姻与离婚——确定公民身份，并签发 MyKad 国民身份证。每一位马来西亚人从出生登记起便与 JPN 打交道，其记录是获得就学、福利、护照与投票权的基础。"
+answer: "国民登记局（Jabatan Pendaftaran Negara，JPN）是隶属马来西亚内政部的机构，负责登记每个人一生中的重要事件——出生、死亡、收养、结婚与离婚——确定公民身份，并签发 MyKad 国民身份证。其核心业务涵盖八个登记领域，因此几乎每位马来西亚人从出生登记起就与 JPN 打交道。"
 keyTakeaways:
-  - "JPN 隶属内政部，在全国范围内管理民事登记与身份证件。"
-  - "根据《1957 年出生与死亡登记法令》，在医院出生须于 14 天内登记，一般情况须于 60 天内登记；超过 60 天登记则被视为『逾期』。"
-  - "MyKad 智能身份证依据《1959 年国民登记法令》与《1990 年国民登记条例》签发；它于 2001 年 9 月 5 日推出，取代了高素质身份证。"
-  - "满 12 岁后 30 天内申请的首张 MyKad 免费；年满 18 岁时必须强制更换身份证。"
-  - "JPN 还依据《联邦宪法》第三部分（第 14 至 31 条）处理公民身份申请与确认。"
-appliesTo: "马来西亚公民、永久居民与临时居民，以及任何登记出生、死亡、婚姻或公民身份事宜，或申请 MyKad 的人士。"
+  - "JPN 是隶属内政部（KDN）的机构；其核心业务涵盖八个领域——出生、身份证、收养、结婚、离婚、死亡、公民身份以及 MEKAR 计划。"
+  - "MyKad 是面向 12 岁及以上公民的强制性智能身份证，于 2001 年 9 月 5 日推出——是世界上第一张在内嵌芯片上同时载有照片与指纹生物识别数据的身份证。"
+  - "儿童在年满 12 岁时首次申请 MyKad；在 12 岁生日后 30 天内申请免费，逾期则收费 RM10，申请人须与担保人亲自到 JPN 柜台办理。"
+  - "补办遗失的 MyKad，第一次遗失收费 RM110，第二次 RM310，第三次或以后每次 RM1,010，并须提交警察报告。"
+  - "出生与死亡登记受《1957 年出生与死亡登记法令》（Act 299）规范，由 JPN 执行。"
+appliesTo: "马来西亚公民、永久居民与临时居民，以及任何办理出生、死亡、结婚、收养或公民身份事宜，或申请、补办 MyKad 的人士。"
 faq:
-  - q: "我有多长时间登记新生儿的出生？"
-    a: "在医院出生的须于 14 天内登记；其他情况应于 60 天内登记。超过 60 天则属于『逾期登记』，依据《1957 年出生与死亡登记法令》需要额外文件与查核。"
-  - q: "我何时领取首张 MyKad，又何时必须更换？"
-    a: "马来西亚人在 12 岁时登记领取首张身份证——若在 12 岁生日后 30 天内办理则免费。年满 18 岁时必须强制更换 MyKad。"
+  - q: "儿童何时可获得首张 MyKad，费用是多少？"
+    a: "儿童在年满 12 岁时申请（须在 16 岁之前）。若在 12 岁生日后 30 天内办理，首次登记免费，逾期则收取 RM10。申请人与担保人须携带正本文件（包括出生证明及担保人的身份证）亲自到 JPN 柜台办理。"
+  - q: "补办遗失的 MyKad 需要多少费用？"
+    a: "第一次遗失收费 RM110，第二次遗失 RM310，第三次或以后每次遗失 RM1,010。须提交警察报告。若不涉及更换照片或个人资料，符合条件的申请人可通过 MyKad 补办系统在线申请。"
   - q: "JPN 隶属哪个部门？"
-    a: "JPN 是内政部（Kementerian Dalam Negeri）辖下的一个部门。"
+    a: "JPN 是隶属内政部（Kementerian Dalam Negeri，KDN）的机构。"
 lang: "zh"
-sourceContentHash: "a27b743b6f84a0ad"
 masterLanguage: "en"
 translationStatus: "in-sync"
+sourceContentHash: "67bfea3efd0d9496"
 status: "in-review"
 aiAssisted: true
 reviewer: null
-version: "0.1"
+version: "0.2"
 revisions:
   - version: "0.1"
     date: 2026-08-10
     change: "Initial AI draft."
     reviewer: null
+  - version: "0.2"
+    date: 2026-08-14
+    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
+    reviewer: null
 verificationNeeded:
-  - "Exact prescribed fee schedule for lost-MyKad replacements (secondary sources cite RM100 for a first loss, escalating for repeat losses); confirm current figures against the JPN service page or gazetted National Registration Regulations."
-  - "Whether JPN published a formal vision/mission statement — the official Introduction page reviewed did not carry one."
-  - "Precise number and structure of JPN operational divisions and total staff/branch count."
-updated: 2026-08-10
+  - "Exact 'normal' vs 'late' birth-registration day thresholds (sources conflate 14, 42 and 60 days) — verify against JPN's birth core-business pages for Peninsular/Sabah/Sarawak separately, as thresholds and penalties differ by region."
+  - "Mandatory MyKad re-registration at age 18 and the exact free window (commonly cited as ages 18–25 under National Registration Regulations 1990 Reg. 18) — confirm on the JPN 'replacement at 18' service page."
+  - "Full fee-exemption list for lost-IC replacement (senior citizens 60+, disabled, robbery/snatch victims, natural-disaster victims, under-18) — verify on the JPN fee schedule or an official circular."
+  - "Current Director-General of JPN and total number of branches / UTC counters nationwide."
+  - "Whether the 12th NRIC digit strictly encodes gender by parity (odd male, even female) or functions as a check/serial digit — confirm via an official JPN NRIC-format reference."
+  - "MEKAR programme scope and current status (mobile registration outreach) — confirm on JPN's MEKAR page."
+updated: 2026-08-14
 sources:
-  - title: "Introduction — Portal Jabatan Pendaftaran Negara"
+  - title: "Portal Jabatan Pendaftaran Negara – Rakyat Di Hati JPN"
+    url: "https://www.jpn.gov.my/en/"
+    publisher: "National Registration Department (JPN), Government of Malaysia"
+  - title: "Introduction – Portal Jabatan Pendaftaran Negara"
     url: "https://www.jpn.gov.my/en/corporate-information/introduction"
-    publisher: "Jabatan Pendaftaran Negara (National Registration Department)"
-  - title: "History — Portal Jabatan Pendaftaran Negara"
-    url: "https://www.jpn.gov.my/en/corporate/history/"
-    publisher: "Jabatan Pendaftaran Negara (National Registration Department)"
-  - title: "Citizenship — Portal Jabatan Pendaftaran Negara"
-    url: "https://www.jpn.gov.my/en/services/citizenship/"
-    publisher: "Jabatan Pendaftaran Negara (National Registration Department)"
-  - title: "Personal Identification — Identity Card Application"
-    url: "https://www.malaysia.gov.my/en/categories/personal-identification/identity-card-application"
-    publisher: "MyGovernment (Government of Malaysia)"
-  - title: "Births and Deaths Registration Act 1957 (Revised 1983)"
-    url: "https://www.commonlii.org/my/legis/consol_act/badra19571983376/"
-    publisher: "CommonLII"
+    publisher: "National Registration Department (JPN), Government of Malaysia"
+  - title: "History – Portal Jabatan Pendaftaran Negara"
+    url: "https://www.jpn.gov.my/en/corporate-information/history"
+    publisher: "National Registration Department (JPN), Government of Malaysia"
   - title: "Malaysian identity card"
     url: "https://en.wikipedia.org/wiki/Malaysian_identity_card"
     publisher: "Wikipedia"
-entity: "Jabatan Pendaftaran Negara (National Registration Department), Malaysia"
-relations:
-  - { rel: "related-to", to: "malaysian-citizenship-law" }
-  - { rel: "related-to", to: "imigresen" }
+  - title: "About MyKad – MyGovernment Portal"
+    url: "https://www.malaysia.gov.my/en/categories/personal-identification/identity-card-application/about-mykad"
+    publisher: "MyGovernment (malaysia.gov.my), Government of Malaysia"
+  - title: "MyKad Application for Children Aged 12 – Portal Jabatan Pendaftaran Negara"
+    url: "https://www.jpn.gov.my/en/services/identity-card/mykad-application-for-children-aged-12/"
+    publisher: "National Registration Department (JPN), Government of Malaysia"
+  - title: "Replacement Application for Lost Identity Card (MyKad, MyTentera, MyPR or MyKAS) – Portal Jabatan Pendaftaran Negara"
+    url: "https://www.jpn.gov.my/en/services/identity-card/replacement-application-for-lost-identity-card-mykad-mytentera-mypr-or-mykas/"
+    publisher: "National Registration Department (JPN), Government of Malaysia"
+  - title: "Births and Deaths Registration Act 1957 (Revised 1983)"
+    url: "https://www.commonlii.org/my/legis/consol_act/badra19571983376/"
+    publisher: "Commonwealth Legal Information Institute (CommonLII)"
+  - title: "JPN denies viral claims of MyKad address enforcement campaign"
+    url: "https://www.malaymail.com/news/malaysia/2026/07/23/jpn-denies-viral-claims-of-mykad-address-enforcement-campaign/228644"
+    publisher: "Malay Mail"
+    date: "2026-07-23"
+entity: "National Registration Department (Jabatan Pendaftaran Negara, JPN)"
+relations: []
 related: []
-keywords: ["JPN", "Jabatan Pendaftaran Negara", "National Registration Department", "MyKad", "birth certificate Malaysia", "NRIC", "identity card Malaysia"]
+keywords: ["JPN", "Jabatan Pendaftaran Negara", "National Registration Department", "MyKad", "kad pengenalan", "NRIC", "IC Malaysia", "MyKid", "birth certificate Malaysia", "JPN online services", "MyKad replacement", "apply MyKad 12", "lost IC fee"]
 ---
 
-**国民登记局**——*Jabatan Pendaftaran Negara*，普遍称为 **JPN**——是隶属**内政部**、负责马来西亚民事登记与身份证件的联邦机构。它登记每个人生命中的关键事件（出生、死亡、收养，以及非穆斯林的婚姻与离婚），确定公民身份，并签发 **MyKad** 国民身份证。由于 JPN 的记录是就学、政府援助、护照与选民名册的基础，几乎每一位马来西亚人从出生那天起就与 JPN 打交道。
+大多数关于**国民登记局**的指南都只回答一个柜台问题——如何补办遗失的身份证，或孩子满 12 岁时该带什么。但 JPN 远不止任何单一手续那么简单：它是记录一位马来西亚人整段法律人生的机构。**国民登记局**（*Jabatan Pendaftaran Negara*，即 **JPN**）是隶属**内政部**（*Kementerian Dalam Negeri*，KDN）的机构。它登记每个人一生中的重要事件——出生、死亡、收养、结婚与离婚——确定公民身份，并向符合条件的个人签发身份证件。
 
-## JPN 的职能
+## JPN 到底做什么？
 
-JPN 的核心业务围绕若干登记职能展开：
+JPN 的核心业务分为**八个登记领域**：出生、身份证、收养、结婚、离婚、死亡、公民身份，以及 **MEKAR** 计划。综合来看，它们对应着一个完整的生命周期：出生被登记，12 岁时随之办理身份证，成年后记录结婚或离婚，死亡为记录画上句号——而公民身份则贯穿始终地被确定与记录。
 
-- **出生与死亡登记**——签发出生证明与死亡证明。
-- **身份证**——MyKad 及其各类衍生证件（见下文）。
-- **婚姻与离婚**——针对非穆斯林婚姻（穆斯林婚姻归州宗教当局与伊斯兰教法体系管辖）。
-- **收养**——收养登记。
-- **公民身份**——依据《联邦宪法》处理申请、确认与记录。
+## JPN 从何而来？
 
-## 法律依据
+该机构的起源可追溯至**1948 年紧急状态（登记区）条例**，依据该条例签发了首批身份证，并规定居民自 12 岁起须登记并持有身份证。**马来亚联合邦**的身份证于**1960 年 8 月 2 日**开始签发。
 
-JPN 依据多部法令运作，而非单一法令：
+现代意义上的里程碑出现在数十年之后。**2001 年 9 月 5 日**，JPN 推出了 **MyKad**，使马来西亚成为世界上第一个采用在内嵌电脑芯片上同时载有照片身份识别与指纹生物识别数据的身份证的国家。它是 MSC Malaysia 旗舰应用之一，构想为一张政府多用途卡。
 
-| 领域 | 适用法律 |
-| --- | --- |
-| 出生与死亡 | 《1957 年出生与死亡登记法令》 |
-| 身份证 / 国民登记 | 《1959 年国民登记法令》；《1990 年国民登记条例》 |
-| 公民身份 | 《联邦宪法》第三部分（第 14–31 条） |
+## MyKad：谁需要，何时需要
 
-该部门的起源可追溯至紧急状态期间推行的**《1948 年紧急（登记区）条例》**，该条例要求居民登记并随身携带身份证。**马来亚联合邦身份证**于 **1960 年 8 月 2 日**开始签发。
+**MyKad** 是面向马来西亚公民的强制性智能身份证，是**12 岁及以上**个人的官方身份证件。卡上印制的 12 位 NRIC 号码遵循 **YYMMDD-PB-###G** 的格式——即出生日期、出生地代码、一个流水号，以及一个与持有人性别相关的末位数字（单数为男性，双数为女性）。
 
-## MyKad
+| 情形 | 费用 | 关键要求 |
+| --- | --- | --- |
+| 12 岁首张 MyKad | 12 岁生日后 30 天内免费；逾期 RM10 | 申请人与担保人须携带出生证明及担保人身份证亲自到 JPN 柜台办理 |
+| 遗失 MyKad——第一次 | RM110（RM10 + RM100） | 须提交警察报告 |
+| 遗失 MyKad——第二次 | RM310（RM10 + RM300） | 须提交警察报告 |
+| 遗失 MyKad——第三次或以后 | RM1,010（RM10 + RM1,000） | 须提交警察报告 |
 
-**MyKad** 是一张智能卡，载有照片、指纹生物识别信息以及内嵌芯片。它于 **2001 年 9 月 5 日**作为多媒体超级走廊旗舰应用之一推出，取代了此前的高素质身份证，使马来西亚成为最早将照片身份与指纹生物识别结合于单一芯片卡上的国家之一。JPN 签发的相关证件还包括 **MyKid**（12 岁以下儿童）、**MyPR**（永久居民）、**MyKAS**（临时居民）与 **MyTentera**（武装部队）。
+儿童须在年满 12 岁时申请（须在 16 岁之前）。对于遗失的卡，若不涉及更换照片或个人资料，符合条件的申请人可通过 **MyKad 补办系统**在线申请；否则须到柜台采集生物识别数据。
 
-### MyKad 的重要期限与费用
+持有人还须负责保持个人资料的更新。地址更新是**1990 年国民登记条例第 15 条**下的长期要求；2026 年 7 月，JPN 公开否认开展任何强制更新地址的特别执法行动，同时提醒持有人保持资料准确。
 
-| 里程碑 | 要求 / 费用 |
-| --- | --- |
-| 12 岁首张身份证 | 若在 12 岁生日后 30 天内申请则免费；此后收费 RM10 |
-| 18 岁更换 | 强制更换新卡 |
-| 损坏的卡 | 若芯片在第一年内失效（非因误用）则免费；较旧的收费 RM10 |
-| 遗失的卡 | 处以罚款，重复遗失者递增（见 *verificationNeeded*） |
+## JPN 服务背后有哪些法律？
 
-## 出生与死亡：关键期限
-
-根据**《1957 年出生与死亡登记法令》**，在医院发生的出生应于 **14 天内**登记（医院通常在出院前办理），其他情况应于 **60 天内**登记。出生**超过 60 天后**才办理的登记被视为*逾期登记*，需要额外文件与查核。逾期登记可能使孩子的公民身份、入学与福利获取变得复杂，因此及时登记很重要。
-
-## 公民身份
-
-JPN 是处理公民身份事务的第一道门。它依据《联邦宪法》处理申请与确认——例如依据**第 14 条**（依法取得公民身份）、**第 15 条**与 **15A 条**（登记公民的配偶或子女，以及未成年人）、**第 16 条**与**第 19 条**——以及记录、更正、放弃与撤销。申请通常须亲自到 JPN 州办事处办理。
-
-## 在哪里找到 JPN
-
-JPN 的总部自 2004 年 12 月起设于**布城联邦政府行政中心第 2 区（Precinct 2）**，在全国设有州与县级办事处，并在多个城市转型中心（UTC）设有柜台。其门户网站为 **jpn.gov.my**，身份证服务也列于国家门户 **malaysia.gov.my**。
+不同的登记册受不同的法令规范。出生与死亡登记由 JPN 依据**《1957 年出生与死亡登记法令》（Act 299）**执行。身份证事务依据**1990 年国民登记条例**办理。结婚、离婚、收养与公民身份则通过 JPN 各自的登记程序处理。
 
 ## 下一步
 
-如果你要为新生儿登记、处理遗失的 MyKad，或查核授予公民身份的资格，请从 JPN 门户网站开始，获取确切的文件清单与最新费用，并参阅 NegaraKu.md 相关的**马来西亚公民法**指南，了解 JPN 的角色如何契合宪法框架。
+对于任何单一手续——为新生儿登记、申请首张 MyKad 或补办遗失的卡——请先访问 JPN 门户网站（**jpn.gov.my**）或联邦服务门户（**malaysia.gov.my**），以获取确切的文件清单与现行费用。一些仍待与原始资料核实的细节——各地区确切的出生登记期限、18 岁重新登记规定，以及完整的遗失身份证费用豁免清单——已列于上文 *verificationNeeded* 中。

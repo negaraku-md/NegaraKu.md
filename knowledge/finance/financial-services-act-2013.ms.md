@@ -1,113 +1,146 @@
 ---
 topicId: "MY-FIN-0016"
-title: "Akta Perkhidmatan Kewangan 2013"
-seoTitle: "Akta Perkhidmatan Kewangan 2013 (FSA): Panduan Malaysia"
+title: "Akta Perkhidmatan Kewangan 2013 (FSA)"
+seoTitle: "Akta Perkhidmatan Kewangan 2013 (FSA): Panduan"
+socialTitle: "Undang-undang yang meletakkan bank, e-dompet dan penanggung insurans anda di bawah Bank Negara"
 slug: "financial-services-act-2013"
 category: "finance"
 subcategory: ["financial-regulation"]
-summary: "Undang-undang teras Malaysia (Akta 758) untuk mengawal selia bank, penanggung insurans dan sistem pembayaran, ditadbir oleh Bank Negara Malaysia bagi menjaga kestabilan kewangan."
+summary: "Akta Perkhidmatan Kewangan 2013 (Akta 758) ialah undang-undang perbankan dan kewangan teras Malaysia, yang menggabungkan empat akta yang dimansuhkan bagi memberi Bank Negara Malaysia kuasa luas ke atas bank, penanggung insurans, sistem pembayaran dan perlindungan pengguna."
 tier: "2"
 mode: "practical"
 contentType: "law"
 sensitivity: "none"
-answer: "Akta Perkhidmatan Kewangan 2013 (FSA, Akta 758) ialah undang-undang utama Malaysia untuk mengawal selia dan menyelia institusi kewangan konvensional, sistem pembayaran, serta pasaran wang dan pertukaran asing. Ia ditadbir oleh Bank Negara Malaysia (BNM) dan berkuat kuasa pada 30 Jun 2013, menggabungkan dan menggantikan Akta Bank dan Institusi-Institusi Kewangan 1989, Akta Insurans 1996, Akta Sistem Pembayaran 2003 dan Akta Kawalan Pertukaran Wang 1953. Objektif utamanya ialah menggalakkan kestabilan kewangan."
+answer: "Akta Perkhidmatan Kewangan 2013 (FSA, Akta 758) ialah undang-undang teras Malaysia untuk mengawal selia bank konvensional, penanggung insurans, sistem pembayaran serta pasaran wang dan pasaran pertukaran asing. Ia ditadbir dan dikuatkuasakan oleh Bank Negara Malaysia (BNM) dan mula berkuat kuasa pada 30 Jun 2013, dengan menggabungkan empat undang-undang yang dimansuhkan ke dalam satu statut tunggal. Secara ringkas, inilah sebabnya bank, penanggung insurans dan e-dompet anda mesti dilesenkan atau diluluskan oleh BNM — dan sebab menjalankan perniagaan sedemikian tanpa kebenaran boleh membawa hukuman penjara sehingga 10 tahun dan denda sehingga RM50 juta."
 keyTakeaways:
-  - "FSA disebut sebagai Akta 758; ia menerima perkenan diraja pada 18 Mac 2013 dan berkuat kuasa pada 30 Jun 2013."
-  - "Ia memansuhkan dan menggabungkan empat undang-undang terdahulu: Akta Bank dan Institusi-Institusi Kewangan 1989, Akta Insurans 1996, Akta Sistem Pembayaran 2003 dan Akta Kawalan Pertukaran Wang 1953."
-  - "Seksyen 6 menetapkan objek utama: menggalakkan kestabilan kewangan, dengan BNM memupuk keselamatan dan kekukuhan institusi kewangan serta fungsi teratur pasaran wang dan pertukaran asing."
-  - "Menjalankan perniagaan berlesen (contohnya perbankan, insurans) tanpa lesen ialah suatu kesalahan di bawah seksyen 8, boleh dihukum apabila disabitkan dengan penjara sehingga 10 tahun atau denda sehingga RM50 juta, atau kedua-duanya."
-  - "Padanan kewangan Islamnya, Akta Perkhidmatan Kewangan Islam 2013 (IFSA, Akta 759), berkuat kuasa pada hari yang sama dan mengawal perbankan Islam serta takaful."
-appliesTo: "Pelanggan bank, pemegang polisi insurans, profesional pematuhan dan undang-undang, pengendali fintech dan pembayaran, serta sesiapa yang mengkaji cara sektor kewangan Malaysia dikawal selia."
+  - "FSA disebut sebagai Akta 758, terpakai di seluruh Malaysia, dan mendapat perkenan diraja pada 18 Mac 2013; ia mula berkuat kuasa pada 30 Jun 2013 seiring dengan akta Islamnya, IFSA 2013."
+  - "Ia menggabungkan dan memansuhkan empat undang-undang terdahulu — Akta Bank dan Institusi-Institusi Kewangan 1989, Akta Insurans 1996, Akta Sistem Pembayaran 2003 dan Akta Kawalan Pertukaran Wang 1953."
+  - "Bank Negara Malaysia mentadbir dan menguatkuasakan akta ini, dengan pengawasan penyeliaan ke atas institusi kewangan, sistem pembayaran serta pasaran wang dan pasaran pertukaran asing bagi menggalakkan kestabilan kewangan."
+  - "Di bawah seksyen 8, tiada sesiapa boleh menjalankan perniagaan yang diberi kuasa melainkan dilesenkan oleh Menteri atas syor BNM atau diluluskan oleh BNM — lesen yang menjadi asas kepada setiap bank, penanggung insurans dan e-dompet yang sah."
+  - "Melanggar keperluan pelesenan adalah suatu kesalahan yang boleh dihukum, apabila disabitkan, dengan penjara sehingga 10 tahun atau denda sehingga RM50 juta, atau kedua-duanya — penalti yang menjadikan skim deposit tanpa lesen dan pengurup wang tanpa lesen menyalahi undang-undang."
+appliesTo: "Pelanggan bank biasa, pemegang polisi insurans dan takaful, pengguna e-dompet dan pembayaran, PKS yang memilih penyedia kewangan, serta profesional pematuhan, undang-undang dan fintech yang mengkaji peraturan kewangan Malaysia."
 faq:
-  - q: "Siapa yang mentadbir dan menguatkuasakan Akta Perkhidmatan Kewangan 2013?"
-    a: "Bank Negara Malaysia (bank pusat) ialah pengawal selianya. Lesen bagi perniagaan perbankan, insurans dan perbankan pelaburan diberikan oleh Menteri Kewangan atas cadangan BNM, manakala BNM meluluskan perniagaan dikawal selia lain seperti penasihat kewangan, broker insurans dan pengendali sistem pembayaran."
+  - q: "Bagaimana saya tahu bank, penanggung insurans atau e-dompet saya sah di bawah FSA?"
+    a: "Perniagaan kewangan konvensional yang sah di Malaysia mesti dilesenkan oleh Menteri Kewangan atas syor Bank Negara Malaysia, atau diluluskan oleh BNM, di bawah seksyen 8 FSA. Penyedia yang tidak dilesenkan atau diluluskan beroperasi secara menyalahi undang-undang, dan berbuat demikian adalah suatu kesalahan yang membawa hukuman penjara sehingga 10 tahun atau denda sehingga RM50 juta, atau kedua-duanya."
   - q: "Apakah perbezaan antara FSA 2013 dan IFSA 2013?"
-    a: "FSA (Akta 758) mengawal institusi dan pasaran kewangan konvensional; Akta Perkhidmatan Kewangan Islam 2013 (Akta 759) ialah setara patuh Syariahnya yang meliputi perbankan Islam dan takaful. Kedua-duanya berkuat kuasa pada 30 Jun 2013."
+    a: "FSA (Akta 758) mengawal institusi dan pasaran kewangan konvensional, manakala Akta Perkhidmatan Kewangan Islam 2013 (IFSA) ialah akta padanannya yang patuh Syariah. Kedua-duanya mula berkuat kuasa pada 30 Jun 2013; undang-undang konvensional (seperti Akta Bank dan Institusi-Institusi Kewangan 1989 dan Akta Insurans 1996) dimansuhkan di bawah FSA, manakala Akta Perbankan Islam 1983 dan Akta Takaful 1984 dimansuhkan di bawah IFSA."
 lang: "ms"
-sourceContentHash: "6a0b7ca563d0322f"
 masterLanguage: "en"
 translationStatus: "in-sync"
+sourceContentHash: "1855427a06d770f9"
 status: "in-review"
 aiAssisted: true
 reviewer: null
-version: "0.1"
+version: "0.2"
 revisions:
   - version: "0.1"
     date: 2026-08-10
     change: "Initial AI draft."
     reviewer: null
+  - version: "0.2"
+    date: 2026-08-14
+    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
+    reviewer: null
 verificationNeeded:
-  - "Total structure figures (18 Parts, 281 sections, 16 schedules) are drawn from a secondary summary of the statute and should be re-checked against the AGC consolidated text."
-  - "Section-specific penalties (s.12(5), s.13(2)) beyond s.8(3) are from a law-firm summary, not verified line-by-line against the AGC text."
-  - "The 5% control-approval and 10% individual shareholding thresholds are from BNM's press summary and should be checked against the exact wording of Part VII/Schedules."
-updated: 2026-08-10
+  - "Structure figures (18 Parts, 281 sections, 16 schedules) come from a secondary summary and should be confirmed against the AGC/BNM statute text."
+  - "Exact Part numbers and titles cited in some secondary sources (e.g. a Consumer Protection Part, an Offences and Penalties Part) should be confirmed against the AGC/BNM statute text before being stated as section-level fact."
+  - "The staggered commencement of specific provisions (e.g. money-changing/Schedule 9 provisions reportedly effective 1 January 2015 rather than 30 June 2013) needs confirmation from the official commencement notification."
+  - "Whether the FSA repealed the Exchange Control Act 1953 outright or replaced its regime via new foreign-exchange provisions should be verified against the statute's repeal/savings schedule."
+  - "Any later amendments to Act 758 (post-2013) should be checked on lom.agc.gov.my for the current consolidated version before relying on figures such as section counts."
+updated: 2026-08-14
 sources:
   - title: "Financial Services Act 2013 and Islamic Financial Services Act 2013 Come Into Force"
     url: "https://www.bnm.gov.my/-/financial-services-act-2013-and-islamic-financial-services-act-2013-come-into-force"
     publisher: "Bank Negara Malaysia"
-  - title: "Financial Services Act 2013 and Islamic Financial Services Act 2013"
-    url: "https://www.bnm.gov.my/financial-services-act-2013-and-islamic-financial-services-act-2013"
-    publisher: "Bank Negara Malaysia"
   - title: "Financial Services Act 2013 (full text, Act 758)"
     url: "https://www.bnm.gov.my/documents/20124/820862/Financial+Services+Act+2013.pdf"
     publisher: "Bank Negara Malaysia"
-  - title: "Financial Services Act 2013 (Act 758)"
+  - title: "Financial Services Act 2013 — Wikipedia"
     url: "https://en.wikipedia.org/wiki/Financial_Services_Act_2013"
     publisher: "Wikipedia"
   - title: "Financial Services Act 2013 – Part 1"
     url: "https://www.lowpartners.com/financial-services-act-2013-part-1/"
     publisher: "Low & Partners"
-entity: "Financial Services Act 2013 (Act 758)"
-relations:
-  - { rel: "related-to", to: "banking-sector-malaysia" }
-  - { rel: "related-to", to: "insurance-industry-malaysia" }
-related: ["banking-sector-malaysia", "insurance-industry-malaysia", "paynet-duitnow-payments-infrastructure"]
-keywords: ["Financial Services Act 2013", "FSA 2013", "Act 758", "Bank Negara Malaysia", "financial regulation Malaysia", "BAFIA replacement", "IFSA 2013"]
+entity: "Financial Services Act 2013"
+relations: []
+related: []
+keywords: ["Financial Services Act 2013", "FSA 2013", "FSA Malaysia", "Act 758", "Bank Negara Malaysia financial regulation", "financial institutions regulation Malaysia", "consumer protection financial services Malaysia", "unlicensed financial business penalty Malaysia", "IFSA 2013", "payment systems regulation Malaysia"]
 ---
 
-**Akta Perkhidmatan Kewangan 2013 (FSA)**, yang disebut sebagai **Akta 758**, ialah statut utama yang mengawal institusi kewangan konvensional di Malaysia. Ditadbir oleh **Bank Negara Malaysia (BNM)**, ia memperuntukkan pengawalseliaan dan penyeliaan institusi kewangan, sistem pembayaran dan entiti berkaitan lain, serta penyeliaan pasaran wang dan pasaran pertukaran asing — semuanya bagi mencapai **kestabilan kewangan**. Ia berkuat kuasa pada **30 Jun 2013**.
+Setiap kali anda mengetik e-dompet, mengambil pinjaman kereta atau membeli pelan takaful, anda berurusan dengan perniagaan yang tertakluk kepada satu pengawal selia — **Bank Negara Malaysia (BNM)** — kerana satu undang-undang. **Akta Perkhidmatan Kewangan 2013 (FSA)**, yang disebut sebagai **Akta 758**, ialah statut teras Malaysia bagi sektor kewangan konvensional. Ia terpakai di seluruh Malaysia, ditadbir dan dikuatkuasakan oleh BNM, dan mula berkuat kuasa pada **30 Jun 2013**. Kebanyakan penerangan yang ditulis untuk peguam hanya berhenti pada senarai akta yang dimansuhkan. Artikel ini menjawab persoalan yang benar-benar ada pada rakyat Malaysia biasa: apakah maksud FSA bagi wang anda, hak anda, dan pihak yang menjaganya?
 
-## Mengapa FSA diperkenalkan
+## Apakah Akta Perkhidmatan Kewangan 2013, secara ringkas?
 
-Sebelum 2013, sektor kewangan Malaysia dikawal oleh beberapa statut berasingan yang sudah lama. FSA memodenkan dan menyatukan rangka kerja ini dengan **memansuhkan dan menggabungkan empat undang-undang** menjadi satu akta berasaskan prinsip:
+FSA ialah buku peraturan yang menetapkan siapa yang dibenarkan menjalankan perniagaan kewangan di Malaysia, bagaimana mereka mesti bertindak, dan apa yang berlaku jika mereka melanggar peraturan. Ia memberi BNM pengawasan kawal selia dan penyeliaan ke atas institusi kewangan, sistem pembayaran, serta pasaran wang dan pasaran pertukaran asing, kesemuanya demi mencapai **kestabilan kewangan**.
 
-| Undang-undang dimansuhkan | Liputan sebelum FSA |
+Dalam amalan, ini bermakna FSA menjadi asas kepada hampir setiap perkhidmatan wang arus perdana yang anda gunakan:
+
+- **bank** yang menyimpan gaji anda dan mengeluarkan pinjaman anda;
+- **penanggung insurans** yang membayar tuntutan polisi motor, hayat atau perubatan anda;
+- **sistem pembayaran** atau e-dompet yang menggerakkan wang anda;
+- **pengurup wang** berlesen tempat anda membeli mata wang asing sebelum perjalanan.
+
+Setiap satu daripadanya dikawal selia kerana FSA menghendakinya dilesenkan atau diluluskan oleh BNM sebelum ia boleh beroperasi.
+
+## Bilakah ia mula berkuat kuasa, dan apa yang digantikannya?
+
+FSA mendapat perkenan diraja pada **18 Mac 2013** dan mula berkuat kuasa pada **30 Jun 2013**. Pada hari yang sama, akta seiringnya yang patuh Syariah, **Akta Perkhidmatan Kewangan Islam 2013 (IFSA)**, turut mula berkuat kuasa.
+
+Sebelum 2013, sektor ini dikawal oleh beberapa statut berasingan yang sudah lama. FSA menyatukan rangka kerja ini dengan menggabungkan dan **memansuhkan empat undang-undang konvensional** ke dalam satu akta moden yang berasaskan prinsip:
+
+| Undang-undang yang dimansuhkan | Apa yang dikawalnya dahulu |
 | --- | --- |
 | Akta Bank dan Institusi-Institusi Kewangan 1989 (BAFIA) | Bank dan syarikat kewangan |
 | Akta Insurans 1996 | Penanggung insurans konvensional dan orang tengah |
 | Akta Sistem Pembayaran 2003 | Sistem dan instrumen pembayaran |
 | Akta Kawalan Pertukaran Wang 1953 | Pentadbiran pertukaran asing |
 
-Undang-undang selari, **Akta Perkhidmatan Kewangan Islam 2013 (IFSA, Akta 759)**, berkuat kuasa pada hari yang sama dan menggabungkan Akta Bank Islam 1983 serta Akta Takaful 1984 bagi sektor patuh Syariah.
+Bahagian Islam dalam industri ini dikendalikan secara selari: **Akta Perbankan Islam 1983** dan **Akta Takaful 1984** dimansuhkan di bawah IFSA dan bukannya FSA. Bersama-sama, FSA dan IFSA bertujuan mengekalkan undang-undang yang mengawal institusi kewangan supaya kekal relevan dan berkesan — untuk mengekalkan kestabilan kewangan, menyokong pertumbuhan inklusif dalam sistem kewangan dan ekonomi yang lebih luas, serta menyediakan perlindungan yang memadai kepada pengguna.
 
-## Garis masa perundangan
+## Mengapa FSA penting kepada rakyat Malaysia biasa atau PKS?
 
-- **18 Mac 2013** — perkenan diraja
-- **22 Mac 2013** — permulaan kuat kuasa (penyiaran)
-- **30 Jun 2013** — peruntukan operatif berkuat kuasa
+Tiga perkara terhasil daripada akta ini yang menyentuh kehidupan seharian.
 
-## Apa yang dikawal oleh FSA
+**Pertama, lesen ialah petanda yang boleh anda semak.** Kerana FSA menjadikan pelesenan wajib, hakikat bahawa sesuatu bank, penanggung insurans atau e-dompet dilesenkan atau diluluskan oleh BNM adalah barisan pertahanan pertama anda terhadap penipuan. Penyedia yang tiada dalam daftar BNM bukanlah pengendali yang dikawal secara lebih longgar — ia adalah pengendali yang menyalahi undang-undang.
 
-Akta ini menetapkan rejim penyeliaan yang menyeluruh. Objek utamanya, dalam **seksyen 6**, ialah menggalakkan kestabilan kewangan; dalam mencapai matlamat ini, BNM hendaklah memupuk keselamatan dan kekukuhan institusi kewangan serta integriti dan fungsi teratur pasaran wang dan pasaran pertukaran asing. Bidang utama termasuk:
+**Kedua, FSA mengukuhkan perlindungan pengguna.** Apabila ia mula berkuat kuasa, akta ini memperkenalkan kejelasan dan ketelusan yang lebih baik, serta mengukuhkan **keperluan tatakelakuan perniagaan dan perlindungan pengguna** — peraturan yang mengawal cara institusi kewangan sepatutnya melayan anda.
 
-- **Pemberian kuasa dan pelesenan** — perniagaan perbankan, insurans dan perbankan pelaburan memerlukan **lesen yang diberikan oleh Menteri Kewangan** atas cadangan BNM, manakala aktiviti dikawal selia lain (contohnya pengurupan wang, pembrokeran insurans, pengendalian sistem pembayaran) memerlukan **kelulusan BNM**.
-- **Keperluan berhemat** — modal minimum, tadbir urus korporat dan piawaian pengurusan risiko bagi institusi berlesen.
-- **Pemilikan dan kawalan** — ambang kelulusan bagi memperoleh pegangan saham yang ketara dalam orang berlesen, serta had ke atas kawalan.
-- **Kumpulan kewangan** — penyeliaan syarikat pemegangan kewangan dan entiti berkaitan.
-- **Sistem pembayaran** — BNM boleh menetapkan sistem pembayaran yang penting dari segi sistemik dan menentukan piawaian bagi keselamatan serta kebolehpercayaannya.
-- **Kelakuan perniagaan dan perlindungan pengguna** — peraturan mengenai urus niaga adil, pendedahan dan kelakuan terlarang terhadap pengguna kewangan.
-- **Campur tangan penyeliaan dan penguatkuasaan** — kuasa untuk memeriksa institusi, mengeluarkan arahan, dan mengambil tindakan pemulihan.
+**Ketiga, FSA dibina untuk melindungi sistem, bukan sekadar pelanggan.** Ia memperkenalkan peruntukan untuk mengawal selia **syarikat induk kewangan** supaya risiko yang terbina merentas keseluruhan kumpulan kewangan boleh ditangani sebelum ia mengancam kestabilan. Bagi sesebuah PKS, keselamatan struktur itulah yang memastikan sistem perbankan yang anda harapkan terus kukuh ketika berlaku kejutan.
 
-Menurut ringkasan statut tersebut, FSA disusun kepada **18 Bahagian** yang mengandungi kira-kira **281 seksyen** dan **16 jadual**.
+## Siapa yang bertanggungjawab, dan bagaimana pelesenan berfungsi?
 
-## Kesalahan dan penalti
+Jawapan tunggalnya ialah **Bank Negara Malaysia**, yang mentadbir dan menguatkuasakan akta ini serta memegang pengawasan penyeliaan ke atas institusi kewangan, sistem pembayaran serta pasaran wang dan pasaran pertukaran asing.
 
-FSA membawa penalti yang berat untuk membendung aktiviti tanpa kebenaran. Di bawah **seksyen 8**, menjalankan perniagaan berlesen atau diluluskan tanpa kebenaran ialah suatu kesalahan yang boleh dihukum, apabila disabitkan, dengan **penjara sehingga 10 tahun atau denda sehingga RM50 juta, atau kedua-duanya**. Kesalahan lanjut — seperti gagal memenuhi keperluan modal minimum atau melanggar syarat kebenaran — membawa tempoh penjara tersendiri serta denda berjuta-juta ringgit.
+Peruntukan pintu masuknya ialah **seksyen 8**. Seksyen 8(1) memperuntukkan bahawa **tiada seorang pun boleh menjalankan apa-apa perniagaan yang diberi kuasa** melainkan:
 
-## Bagaimana ia sepadan dengan pengawal selia lain
+- **dilesenkan** oleh Menteri Kewangan atas **syor BNM** (di bawah seksyen 10); atau
+- **diluluskan** oleh **Bank Negara Malaysia** (di bawah seksyen 11).
 
-FSA mengawal institusi yang diselia oleh BNM. Pasaran modal (sekuriti, unit amanah, bursa saham) terletak di bawah **Suruhanjaya Sekuriti Malaysia** dan Akta Pasaran Modal dan Perkhidmatan 2007, manakala perlindungan deposit dan takaful/insurans disediakan oleh **PIDM**. Bersama-sama, ini membentuk seni bina pengawalseliaan kewangan Malaysia yang berlapis.
+Reka bentuk dua laluan itulah sebabnya perniagaan yang paling penting dari segi sistemik (seperti perbankan dan insurans) dilesenkan di peringkat menteri atas nasihat BNM, manakala aktiviti terkawal yang lain diluluskan terus oleh BNM. Walau apa pun, kebenaran itu akhirnya melalui bank pusat.
 
-## Apa yang seterusnya
+## Apakah penalti untuk beroperasi tanpa lesen?
 
-Untuk membaca perkataan statut yang tepat, rujuk teks penuh Akta 758 di laman web Bank Negara Malaysia atau portal undang-undang Jabatan Peguam Negara (AGC). Untuk gambaran yang lebih luas, lihat tinjauan kami tentang [sektor perbankan Malaysia](banking-sector-malaysia) dan [industri insurans](insurance-industry-malaysia).
+Inilah bahagian yang menjadikan FSA lebih daripada sekadar kertas kerja — dan bahagian yang jarang dijelaskan oleh kebanyakan sumber yang ditujukan kepada rakyat.
+
+Di bawah **seksyen 8(3)**, seseorang yang melanggar keperluan pelesenan melakukan suatu kesalahan dan, apabila disabitkan, boleh dikenakan:
+
+- **penjara selama tempoh tidak melebihi sepuluh tahun**; atau
+- **denda tidak melebihi lima puluh juta ringgit (RM50 juta)**; atau
+- **kedua-duanya**.
+
+| Aspek | Butiran |
+| --- | --- |
+| Peruntukan yang mengawal | Seksyen 8, FSA 2013 (Akta 758) |
+| Perbuatan yang dilarang | Menjalankan perniagaan yang diberi kuasa tanpa lesen atau kelulusan |
+| Penjara maksimum | 10 tahun |
+| Denda maksimum | RM50 juta |
+
+Penalti itulah gigi undang-undang di sebalik amaran yang anda dengar tentang skim pengambilan deposit haram, pengurup wang tanpa lesen dan tipu helah pelaburan "cepat kaya". Ia bukan sekadar berisiko — mengendalikannya adalah suatu kesalahan jenayah yang serius di bawah FSA.
+
+## Bagaimana akta ini disusun?
+
+Menurut ringkasan sekunder statut ini, FSA disusun kepada **18 Bahagian** yang mengandungi kira-kira **281 seksyen** dan **16 jadual**, terpakai di seluruh Malaysia. Ia merangkumi keseluruhan skop sektor konvensional: pelesenan dan pemberian kuasa, keperluan berhemat dan tatakelakuan perniagaan, sistem pembayaran, pasaran wang dan pasaran pertukaran asing, serta kesalahan dan penalti. (Nombor Bahagian yang tepat dan bilangan seksyen semasa perlu disahkan terhadap teks statut rasmi sebelum dipetik sebagai fakta yang tepat — lihat *Verification needed* dalam butiran artikel ini.)
+
+## Apa seterusnya
+
+Untuk membaca perkataan statut yang tepat, rujuk teks penuh Akta 758 yang diterbitkan oleh Bank Negara Malaysia, atau versi disatukan pada portal undang-undang Jabatan Peguam Negara. Jika anda ingin menyemak sama ada sesuatu penyedia diberi kuasa, cari status lesen atau kelulusannya pada daftar rasmi BNM sebelum anda menyerahkan sebarang wang — semakan tunggal itulah kuasa harian yang diletakkan oleh Akta Perkhidmatan Kewangan 2013 di tangan anda.

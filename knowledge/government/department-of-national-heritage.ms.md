@@ -1,116 +1,111 @@
 ---
 topicId: "MY-GOV-0099"
-title: "Jabatan Warisan Negara (JWN)"
-seoTitle: "Jabatan Warisan Negara (JWN) Malaysia"
+title: "Jabatan Warisan Negara (JWN): Penjaga Warisan Malaysia"
+seoTitle: "Jabatan Warisan Negara (JWN), Malaysia"
+socialTitle: "Siapa yang menentukan apa yang dikira warisan Malaysia?"
 slug: "department-of-national-heritage"
 category: "government"
-subcategory: ["heritage-agency"]
-summary: "Agensi persekutuan Malaysia yang mewartakan, melindungi dan mempromosikan warisan negara di bawah Akta Warisan Kebangsaan 2005."
+subcategory: ["agencies"]
+summary: "Jabatan Warisan Negara (JWN) ialah agensi persekutuan Malaysia di bawah MOTAC yang mengenal pasti, mewartakan, memulihara dan menguatkuasakan warisan ketara, tidak ketara, semula jadi dan dalam air negara di bawah Akta Warisan Kebangsaan 2005 (Akta 645)."
 tier: "4"
 mode: "practical"
 contentType: "agency"
 sensitivity: "none"
-answer: "Jabatan Warisan Negara (JWN) ialah agensi persekutuan Malaysia yang bertanggungjawab mengenal pasti, memulihara, mewartakan dan mempromosikan warisan budaya dan warisan semula jadi negara. Ia ditubuhkan pada 1 Mac 2006 di bawah Akta Warisan Kebangsaan 2005 (Akta 645) dan beroperasi di bawah Kementerian Pelancongan, Seni dan Budaya (MOTAC). Pesuruhjaya Warisannya menyelenggara Daftar Warisan Kebangsaan, dan Menteri mengisytiharkan sesuatu perkara sebagai Warisan Kebangsaan melalui perintah dalam Warta."
+answer: "Jabatan Warisan Negara (JWN) ialah agensi persekutuan Malaysia yang mengenal pasti, mewartakan, memulihara dan menguatkuasakan warisan negara. Ia ditubuhkan pada 1 Mac 2006, terletak di bawah Kementerian Pelancongan, Seni dan Budaya (MOTAC), dan menjalankan jentera berkanun Akta Warisan Kebangsaan 2005 (Akta 645). Pesuruhjaya Warisannya menyelenggara Daftar Warisan Kebangsaan, manakala Menteri secara rasmi mengisytiharkan sesuatu perkara — termasuk orang yang masih hidup — sebagai Warisan Kebangsaan melalui perintah dalam Warta."
 keyTakeaways:
-  - "JWN ditubuhkan pada 1 Mac 2006 di bawah Akta Warisan Kebangsaan 2005 (Akta 645) dan terletak di bawah MOTAC."
-  - "Pesuruhjaya Warisan, yang dilantik di bawah seksyen 4 Akta, mengumumkan tapak warisan dan menyelenggara Daftar Warisan Kebangsaan."
-  - "Daftar Warisan Kebangsaan (seksyen 23) menyenaraikan tapak warisan, objek warisan, warisan budaya dalam air dan Warisan Kebangsaan yang diisytiharkan."
-  - "Di bawah seksyen 67, Menteri boleh mengisytiharkan, melalui perintah dalam Warta, sesuatu tapak, objek, warisan budaya dalam air atau seorang yang masih hidup sebagai Warisan Kebangsaan."
-  - "Mandat JWN merangkumi penyelidikan dan arkeologi, pemuliharaan bangunan dan monumen, pewartaan dan penguatkuasaan, warisan tidak ketara dan warisan semula jadi."
+  - "JWN ditubuhkan pada 1 Mac 2006 dan beroperasi di bawah MOTAC untuk memelihara, memulihara, melindungi dan mempromosikan warisan Malaysia."
+  - "Ia mentadbir Akta Warisan Kebangsaan 2005 (Akta 645), meliputi warisan budaya ketara, tidak ketara, semula jadi, dalam air dan harta karun."
+  - "Pesuruhjaya Warisan, yang dilantik di bawah seksyen 4, menetapkan tapak, mendaftarkan objek dan menyelenggara Daftar Warisan Kebangsaan (seksyen 23)."
+  - "Di bawah seksyen 68 mana-mana orang boleh mencalonkan; di bawah seksyen 67 Menteri mengisytiharkan Warisan Kebangsaan melalui perintah Warta berdasarkan sembilan pertimbangan berkanun."
+  - "Seksyen 114 menjadikannya suatu kesalahan untuk mengubah, merobohkan atau berurusan dengan Warisan Kebangsaan tanpa kelulusan bertulis — penjara sehingga 5 tahun atau denda sehingga RM50,000, atau kedua-duanya."
 appliesTo: "Penyelidik, pemulihara, pemilik harta, pelajar dan pelancong warisan yang perlu memahami siapa yang melindungi dan mewartakan warisan Malaysia serta bagaimana prosesnya berjalan."
 faq:
-  - q: "Apakah perbezaan antara JWN dan Akta Warisan Kebangsaan?"
-    a: "Akta Warisan Kebangsaan 2005 (Akta 645) ialah statut; JWN pula ialah jabatan yang mentadbirnya. Akta ini mewujudkan jawatan dan daftar yang dikendalikan oleh JWN dari hari ke hari."
-  - q: "Siapakah yang memutuskan bahawa sesuatu itu menjadi 'Warisan Kebangsaan'?"
-    a: "Pesuruhjaya Warisan mula-mula mengumumkan dan mendaftarkan sesuatu perkara, tetapi pengisytiharan rasmi sebagai Warisan Kebangsaan dibuat oleh Menteri melalui perintah yang disiarkan dalam Warta di bawah seksyen 67."
-  - q: "Bolehkah seorang yang masih hidup diisytiharkan sebagai Warisan Kebangsaan?"
-    a: "Ya. Seksyen 67 membenarkan Menteri mengisytiharkan seorang yang masih hidup sebagai Warisan Kebangsaan, sebagai pengiktirafan kepada pembawa ilmu dan kemahiran budaya Malaysia yang luar biasa."
+  - q: "Apakah perbezaan antara JWN dengan Akta Warisan Kebangsaan?"
+    a: "Akta Warisan Kebangsaan 2005 (Akta 645) ialah statut; JWN pula ialah jabatan yang mentadbirnya. Akta ini mewujudkan jawatan, Daftar dan proses perisytiharan yang dikendalikan oleh JWN dari hari ke hari."
+  - q: "Bagaimana sesuatu diisytiharkan sebagai Warisan Kebangsaan?"
+    a: "Di bawah seksyen 68 mana-mana orang boleh mencalonkan sesuatu perkara dalam borang yang ditetapkan. Di bawah seksyen 67 Menteri kemudiannya boleh mengisytiharkannya sebagai Warisan Kebangsaan melalui perintah dalam Warta, dengan menimbang sembilan pertimbangan seperti kepentingan sejarah, nilai estetik, kejarangan dan kepentingan budaya."
+  - q: "Bolehkah orang yang masih hidup diisytiharkan sebagai Warisan Kebangsaan?"
+    a: "Ya. Seksyen 67 membenarkan Menteri mengisytiharkan orang yang masih hidup sebagai Warisan Kebangsaan, dan Perintah Warisan Kebangsaan (Perisytiharan Orang Hidup Sebagai Warisan Kebangsaan) 2012 menyediakan instrumen rasmi untuk kategori 'Warisan Orang Hidup'."
 lang: "ms"
-sourceContentHash: "c63b23f11b25bd35"
 masterLanguage: "en"
 translationStatus: "in-sync"
+sourceContentHash: "53cec54bf4113555"
 status: "in-review"
 aiAssisted: true
 reviewer: null
-version: "0.1"
+version: "0.2"
 revisions:
   - version: "0.1"
     date: 2026-08-10
     change: "Initial AI draft."
     reviewer: null
+  - version: "0.2"
+    date: 2026-08-14
+    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
+    reviewer: null
 verificationNeeded:
-  - "Exact current total of items on the National Heritage Register / declared National Heritage (sources cite phased listings from 2007 onward but no confirmed running total)."
-  - "Name of the current Commissioner of Heritage (Pesuruhjaya Warisan) as of 2026."
-  - "Exact section number establishing the National Heritage Council within Act 645."
-updated: 2026-08-10
+  - "Exact current total of items on the National Heritage Register across all categories (buildings, sites, objects, intangible, natural, underwater, living persons) as of 2026 — sources give scattered, dated figures."
+  - "Name of the current Commissioner of Heritage / Director-General of JWN (Ketua Pengarah) as of 2026."
+  - "Exact number and official names of JWN's current divisions (bahagian) — homepage references Heritage Register, Conservation, Intangible Cultural Heritage, Archaeology and World Heritage, but a definitive current list was not confirmed."
+  - "The 'Warisan Orang Hidup' (WAKOH) living-person declarations count and the precise scope of the National Heritage (Declaration of Living Person) Order 2012 (No. 369)."
+  - "Current JWN main phone number — one search returned +60 3-7800 0069 but this was not confirmed on the official site."
+updated: 2026-08-14
 sources:
   - title: "History of Establishment — Jabatan Warisan Negara"
-    url: "https://www.heritage.gov.my/en/info-jwn/sejarah-penubuhan.html"
-    publisher: "Department of National Heritage (JWN)"
+    url: "https://www.heritage.gov.my/en/jwn-info/history-of-establishment.html"
+    publisher: "Department of National Heritage (Jabatan Warisan Negara)"
   - title: "Vision, Mission & Objective — Jabatan Warisan Negara"
     url: "https://www.heritage.gov.my/en/jwn-info/vision-mission-objective.html"
-    publisher: "Department of National Heritage (JWN)"
-  - title: "Official Portal — Jabatan Warisan Negara"
+    publisher: "Department of National Heritage (Jabatan Warisan Negara)"
+  - title: "Official Portal of the Department of National Heritage"
     url: "https://www.heritage.gov.my/en/"
-    publisher: "Department of National Heritage (JWN)"
-  - title: "National Heritage Act 2005 (Act 645)"
-    url: "https://www.commonlii.org/my/legis/consol_act/nha2005164/"
-    publisher: "Commonwealth Legal Information Institute (CommonLII)"
+    publisher: "Department of National Heritage (Jabatan Warisan Negara)"
   - title: "Laws of Malaysia Reprint — Act 645 National Heritage Act 2005"
     url: "https://gtwhi.com.my/wp-content/uploads/2020/12/National-Heritage-Act-2005.pdf"
-    publisher: "George Town World Heritage Incorporated"
-  - title: "Ministry of Tourism, Arts and Culture Official Portal"
-    url: "https://www.motac.gov.my/en/"
-    publisher: "Ministry of Tourism, Arts and Culture (MOTAC)"
+    publisher: "Commissioner of Law Revision, Malaysia (official reprint, hosted by George Town World Heritage Incorporated)"
+  - title: "Ministry of Tourism, Arts and Culture"
+    url: "https://en.wikipedia.org/wiki/Ministry_of_Tourism,_Arts_and_Culture"
+    publisher: "Wikipedia"
+  - title: "Perintah Warisan Kebangsaan (Perisytiharan Orang Hidup Sebagai Warisan Kebangsaan) 2012 (No. 369)"
+    url: "https://mylaw.my/legislation/perintah-warisan-kebangsaan-perisytiharan-orang-hidup-sebagai-warisan-kebangsaan-2012"
+    publisher: "MyLaw.my"
 entity: "Department of National Heritage (Jabatan Warisan Negara)"
-relations:
-  - { rel: "related-to", to: "national-heritage-sites" }
-  - { rel: "related-to", to: "unesco-world-heritage" }
-  - { rel: "related-to", to: "national-cultural-policy" }
+relations: []
 related: []
-keywords: ["Department of National Heritage", "Jabatan Warisan Negara", "JWN", "National Heritage Act 2005", "Act 645", "National Heritage Register", "Commissioner of Heritage", "warisan negara", "MOTAC heritage"]
+keywords: ["Jabatan Warisan Negara", "JWN", "Department of National Heritage", "National Heritage Act 2005", "Act 645", "Warisan Kebangsaan", "National Heritage Register", "Commissioner of Heritage", "heritage.gov.my", "MOTAC", "gazette national heritage Malaysia", "Daftar Warisan Kebangsaan", "Warisan Orang Hidup"]
 ---
 
-**Jabatan Warisan Negara** — *Department of National Heritage* (**JWN**) — ialah agensi persekutuan Malaysia untuk mengenal pasti, memulihara, mewartakan dan mempromosikan warisan budaya dan warisan semula jadi negara. Ia ditubuhkan pada **1 Mac 2006** di bawah **Akta Warisan Kebangsaan 2005 (Akta 645)** dan beroperasi di bawah **Kementerian Pelancongan, Seni dan Budaya (MOTAC)**. Kerjanya merangkumi bidang arkeologi dan pemuliharaan bangunan sehinggalah pemeliharaan tradisi tidak ketara.
+Apabila sebuah rumah kedai di George Town menerima perintah perlindungan, atau seorang penari *mak yong* dihormati sebagai harta hidup, satu badan persekutuan berdiri di sebalik keputusan itu: **Jabatan Warisan Negara** (**JWN**). Ditubuhkan pada **1 Mac 2006**, JWN mengenal pasti, memulihara, mewartakan dan melindungi warisan Malaysia, dan ia beroperasi di bawah **Kementerian Pelancongan, Seni dan Budaya (MOTAC)**. Visinya yang dinyatakan adalah untuk menerajui usaha meneroka dan memelihara khazanah warisan ke arah membentuk jati diri negara dan menjana ekonomi negara.
 
-## Apa yang dilakukan JWN
+## Apakah undang-undang yang dijalankan JWN?
 
-Mandat JWN, yang diambil daripada Akta 645, meliputi rangkaian kerja warisan yang luas: penyelidikan dan arkeologi, pemuliharaan bangunan dan monumen, pewartaan dan penguatkuasaan, warisan tidak ketara, dan warisan semula jadi. Dalam amalannya, ini bermakna jabatan menjalankan penggalian dan mendokumentasikan tapak, memulihkan monumen yang diwartakan, merakam tradisi yang masih hidup, dan menyelaras penglibatan Malaysia dalam hal ehwal Tapak Warisan Dunia UNESCO. Misi yang dinyatakannya adalah untuk "meneroka, memulih dan memelihara" warisan negara ke arah pembangunan mampan dan pengiktirafan sedunia.
+JWN mentadbir **Akta Warisan Kebangsaan 2005 (Akta 645)**, yang menerima Perkenan Diraja pada 30 Disember 2005 dan diwartakan keesokan harinya. Akta ini memperuntukkan pemuliharaan warisan kebangsaan, warisan semula jadi, warisan budaya ketara dan tidak ketara, warisan budaya dalam air dan harta karun. Ia merangkumi penyelidikan, arkeologi, pemuliharaan bangunan dan monumen, pewartaan dan penguatkuasaan.
 
-## Asas perundangan
+## Siapa yang memegang kuasa?
 
-Jabatan ini mentadbir **Akta Warisan Kebangsaan 2005**, yang menggantikan undang-undang lama seperti Akta Benda Purba 1976 dan Akta Harta Karun 1957 dengan satu rangka kerja moden yang tunggal. Akta ini mewujudkan dua peranan utama yang menjadi tumpuan jabatan:
+Akta ini membina jabatan ini di sekeliling satu jawatan berkanun. Di bawah **seksyen 4**, Menteri melantik seorang **Pesuruhjaya Warisan** — suatu pertubuhan perbadanan dengan penerusan kekal, memegang jawatan untuk tempoh tidak melebihi tiga tahun dan layak dilantik semula. **Seksyen 6** menyenaraikan fungsi Pesuruhjaya: menetapkan tapak, mendaftarkan objek, menyelenggara Daftar, menyelia pemuliharaan, mempromosikan penyelidikan, membenarkan penggalian, berhubung dengan Pihak Berkuasa Negeri dan menasihati Menteri. **Seksyen 8** menubuhkan Majlis Warisan Kebangsaan, dan Bahagian V (seksyen 20–22) mewujudkan Kumpulan Wang Warisan yang dikawal oleh Pesuruhjaya.
 
-- **Pesuruhjaya Warisan** (*Commissioner of Heritage*), yang dilantik di bawah **seksyen 4**, yang fungsinya termasuk mengumumkan tapak warisan, mendaftarkan objek dan warisan budaya dalam air, mewujudkan dan menyelenggara Daftar, menyelia pemuliharaan dan pemulihan, mempromosikan penyelidikan, serta memberi kuasa dan menyelia penggalian.
-- Sebuah **Majlis Warisan Kebangsaan** (*National Heritage Council*), badan penasihat yang menyokong dasar dan keputusan warisan.
+## Bagaimana sesuatu menjadi "Warisan Kebangsaan"?
 
-## Daftar Warisan Kebangsaan
+Prosesnya adalah terbuka dan berkanun:
 
-**Seksyen 23** menghendaki Pesuruhjaya mewujudkan dan menyelenggara **Daftar Warisan Kebangsaan**, serta menyediakannya untuk pemeriksaan awam. Daftar ini merekodkan warisan yang telah diiktiraf oleh jabatan. Kategorinya termasuk:
+| Langkah | Seksyen | Apa yang berlaku |
+| --- | --- | --- |
+| Mencalonkan | s.68 | Mana-mana orang boleh mencalonkan warisan semula jadi, ketara, tidak ketara, orang hidup atau dalam air dalam borang yang ditetapkan. |
+| Mendaftar | s.23, s.24 | Pesuruhjaya menetapkan tapak dan menyelenggara Daftar Warisan Kebangsaan, yang terbuka untuk pemeriksaan orang awam. |
+| Perlindungan interim | s.33 | Perintah Perlindungan Interim boleh melindungi sesuatu tapak sementara menunggu keputusan penetapan. |
+| Mengisytiharkan | s.67 | Menteri mengisytiharkan Warisan Kebangsaan melalui perintah Warta, dengan menimbang sembilan pertimbangan (kepentingan sejarah, estetik, inovasi, kaitan budaya, kejarangan dan lain-lain). |
 
-| Kategori | Apa yang diliputinya |
-| --- | --- |
-| Tapak warisan | Tempat yang bererti dari segi warisan semula jadi atau budaya |
-| Objek warisan | Warisan ketara yang boleh alih, termasuk benda purba |
-| Warisan budaya dalam air | Bangkai kapal dan warisan tenggelam di perairan Malaysia |
-| Warisan budaya tidak ketara | Tradisi, seni persembahan, ilmu dan kemahiran |
-| Warisan Kebangsaan yang diisytiharkan | Perkara atau orang yang dinaikkan ke taraf Warisan Kebangsaan |
+Laluan *orang hidup* adalah nyata: **Perintah Warisan Kebangsaan (Perisytiharan Orang Hidup Sebagai Warisan Kebangsaan) 2012** mewujudkan kategori *Warisan Orang Hidup*, yang menghormati pemegang pengetahuan budaya yang luar biasa.
 
-## Bagaimana sesuatu menjadi "Warisan Kebangsaan"
+## Apa yang berlaku jika anda merosakkan salah satunya?
 
-Pengiktirafan berlaku dalam dua langkah. Pertama, Pesuruhjaya mengumumkan sesuatu tapak atau mendaftarkan sesuatu objek ke dalam Daftar. Kemudian, di bawah **seksyen 67**, **Menteri boleh, melalui perintah yang disiarkan dalam Warta, mengisytiharkan** mana-mana tapak warisan, objek warisan atau warisan budaya dalam air yang tersenarai dalam Daftar — **atau mana-mana orang yang masih hidup** — sebagai suatu **Warisan Kebangsaan**. Pengisytiharan itu dibuat berdasarkan kriteria berkanun yang ditetapkan dalam seksyen 67(2). Peruntukan yang membenarkan seorang *yang masih hidup* diisytiharkan sebagai Warisan Kebangsaan inilah cara Malaysia menghormati pembawa ilmu dan kraf budaya yang luar biasa.
+Di bawah **seksyen 114**, tiada sesiapa boleh memindahkan, merobohkan, mengalihkan, mengubah, mengubah suai, mengeksport atau menambah kepada suatu Warisan Kebangsaan tanpa kelulusan bertulis Pesuruhjaya, kecuali dalam keadaan kecemasan yang mendesak demi keselamatan. Pelanggaran ialah suatu kesalahan yang membawa hukuman penjara sehingga lima tahun, denda tidak melebihi **RM50,000**, atau kedua-duanya.
 
-## Di mana kedudukannya
+## Di mana untuk menghubungi JWN
 
-| Atribut | Butiran |
-| --- | --- |
-| Nama Bahasa Inggeris | Department of National Heritage (JWN) |
-| Ditubuhkan | 1 Mac 2006 |
-| Undang-undang yang mentadbir | Akta Warisan Kebangsaan 2005 (Akta 645) |
-| Kementerian induk | Kementerian Pelancongan, Seni dan Budaya (MOTAC) |
-| Ibu pejabat | Menara PNB (Permodalan Nasional Berhad), Jalan Tun Razak, Kuala Lumpur |
-| Daftar | Daftar Warisan Kebangsaan (seksyen 23) |
+Ibu pejabat JWN terletak di Aras Mezanin, 15–20, Menara Permodalan Nasional Berhad (PNB), No. 201-A, Jalan Tun Razak, 50400 Kuala Lumpur; e-mel `info@heritage.gov.my`.
 
-## Apa yang seterusnya
+## Apa seterusnya
 
-Untuk melihat warisan yang dilindungi JWN di lapangan, baca artikel iringan mengenai **tapak warisan negara** dan **Tapak Warisan Dunia UNESCO di Malaysia**, serta **dasar kebudayaan kebangsaan** yang membentuk agenda warisan negara yang lebih luas. Untuk statut yang berautoriti dan Daftar terkini, rujuk portal rasmi JWN di heritage.gov.my dan Akta Warisan Kebangsaan 2005 (Akta 645).
+Untuk membezakan senarai Warisan Kebangsaan JWN daripada Tapak Warisan Dunia UNESCO serta warta warisan negeri atau tempatan, dan untuk melihat tapak serta orang hidup yang dilindunginya, rujuk Daftar Warisan Kebangsaan melalui portal rasmi JWN di heritage.gov.my dan teks penuh Akta Warisan Kebangsaan 2005 (Akta 645).

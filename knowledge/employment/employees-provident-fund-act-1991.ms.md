@@ -1,156 +1,164 @@
 ---
 topicId: "MY-EMP-0058"
-title: "Akta Kumpulan Wang Simpanan Pekerja 1991"
-seoTitle: "Akta Kumpulan Wang Simpanan Pekerja 1991 (EPF/KWSP) Malaysia"
+title: "Akta Kumpulan Wang Simpanan Pekerja 1991: Bagaimana KWSP Berfungsi di Malaysia"
+seoTitle: "Akta KWSP 1991 (EPF): Panduan Lengkap"
+socialTitle: "Kadar 2.5% yang dijamin sisih diperoleh oleh KWSP anda — dan undang-undang di sebaliknya"
 slug: "employees-provident-fund-act-1991"
 category: "employment"
 subcategory: ["payroll-statutory"]
-summary: "Statut (Akta 452) yang mewujudkan skim simpanan persaraan EPF/KWSP Malaysia dan menjadikan caruman bulanan majikan dan pekerja diwajibkan."
+summary: "Akta Kumpulan Wang Simpanan Pekerja 1991 (Akta 452) ialah statut Malaysia yang mengawal simpanan persaraan wajib bagi pekerja sektor swasta dan bukan warganegara, menetapkan kadar caruman, jaminan dividen minimum 2.5%, peraturan pengeluaran, dan penalti majikan."
 tier: "3"
 mode: "practical"
 contentType: "law"
 sensitivity: "none"
-answer: "Akta Kumpulan Wang Simpanan Pekerja 1991 (Akta 452) ialah statut Malaysia yang menubuhkan Kumpulan Wang Simpanan Pekerja (EPF, atau KWSP) dan Lembaga pengelolanya, serta menjadikan caruman simpanan persaraan diwajibkan bagi kebanyakan pekerja dan majikan. Ia mula berkuat kuasa pada 1 Jun 1991. Seksyen 43 mewajibkan kedua-dua pekerja dan majikan membayar caruman bulanan pada kadar yang ditetapkan dalam Jadual Ketiga, dan kegagalan meremit menjelang 15 haribulan bulan berikutnya merupakan satu kesalahan jenayah."
+answer: "Akta Kumpulan Wang Simpanan Pekerja 1991 — disebut sebagai Akta 452 — ialah statut Malaysia yang mengawal skim simpanan persaraan wajib negara, yang diuruskan oleh Kumpulan Wang Simpanan Pekerja (EPF, atau KWSP). Ia mula berkuat kuasa pada 1 Jun 1991, menggantikan Ordinan 1951, dan beroperasi di bawah Kementerian Kewangan. Seksyen 43 menjadikan caruman bulanan majikan dan pekerja sebagai wajib, Seksyen 27 menjamin dividen tahunan sekurang-kurangnya 2.5%, dan kegagalan membayar ialah kesalahan jenayah."
 keyTakeaways:
-  - "Akta 452 mula berkuat kuasa pada 1 Jun 1991 dan menggantikan undang-undang kumpulan wang simpanan 1951 yang terdahulu; tajuk panjangnya ialah suatu Akta untuk mengadakan peruntukan bagi skim simpanan bagi persaraan pekerja"
-  - "Seksyen 3 memperbadankan Lembaga Kumpulan Wang Simpanan Pekerja (KWSP) sebagai satu pertubuhan perbadanan untuk mentadbir dan melabur Kumpulan Wang tersebut"
-  - "Seksyen 43(1) menjadikan caruman bulanan diwajibkan pada kadar Jadual Ketiga — bagi warganegara Malaysia di bawah 60 tahun, majikan 13% (12% bagi upah melebihi RM5,000) dan pekerja 11%"
-  - "Seksyen 43(2): kegagalan membayar caruman menjelang 15 haribulan bulan berikutnya merupakan satu kesalahan yang boleh dihukum penjara sehingga 3 tahun atau denda sehingga RM10,000, atau kedua-duanya"
-  - "Bermula dari bulan upah Oktober 2025, caruman menjadi wajib bagi pekerja bukan warganegara Malaysia pada kadar 2% setiap satu di bawah Jadual Ketiga Bahagian F"
-  - "Simpanan ahli distruktur semula pada 11 Mei 2024 kepada Akaun Persaraan (75%), Akaun Sejahtera (15%) dan Akaun Fleksibel (10%); pengeluaran penuh secara amnya boleh dibuat pada usia 55 tahun"
-appliesTo: "Majikan, pekerja, pengamal penggajian dan sumber manusia, serta sesiapa yang memerlukan asas undang-undang bagi kewajipan EPF/KWSP di Malaysia."
+  - "Akta 452 mula berkuat kuasa pada 1 Jun 1991, menggantikan Ordinan Kumpulan Wang Simpanan Pekerja 1951, dan beroperasi di bawah Kementerian Kewangan"
+  - "Seksyen 43 mewajibkan pekerja dan majikan membayar caruman bulanan pada kadar Jadual Ketiga — bagi warga Malaysia bawah 60 tahun, pekerja 11% dan majikan 13% (12% bagi gaji melebihi RM5,000)"
+  - "Seksyen 43(2): majikan yang gagal membayar caruman boleh, apabila disabitkan, dikenakan penjara sehingga 3 tahun atau denda sehingga RM10,000, atau kedua-duanya"
+  - "Seksyen 27 mewajibkan Lembaga mengisytiharkan dividen tahunan tidak kurang daripada 2.5% — 6.30% diisytiharkan bagi tahun kewangan 2024"
+  - "Mulai 1 Oktober 2025, caruman menjadi wajib bagi pekerja bukan warganegara Malaysia pada kadar 2% setiap satu; mereka yang berumur lebih 75 tahun tidak perlu mendaftar"
+  - "Sejak 11 Mei 2024, simpanan dibahagikan kepada tiga akaun — Akaun Persaraan (75%), Akaun Sejahtera (15%), Akaun Fleksibel (10%)"
+appliesTo: "Majikan, pekerja, pekerja asing, serta pengamal pengurusan gaji atau sumber manusia yang memerlukan asas undang-undang bagi kewajipan EPF/KWSP di Malaysia."
 faq:
-  - q: "Siapa yang mesti mencarum di bawah Akta EPF 1991?"
-    a: "Di bawah Seksyen 43(1), setiap pekerja yang diambil bekerja di bawah kontrak perkhidmatan atau perantisan, dan majikannya, bertanggungan untuk membayar caruman bulanan pada kadar yang ditetapkan dalam Jadual Ketiga. Sejak bulan upah Oktober 2025, pekerja bukan warganegara Malaysia juga dilindungi secara wajib di bawah Bahagian F Jadual tersebut."
-  - q: "Apa yang berlaku jika majikan tidak membayar EPF?"
-    a: "Kegagalan membayar merupakan satu kesalahan jenayah. Seksyen 43(2) memperuntukkan bahawa majikan yang gagal membayar caruman menjelang 15 haribulan bulan berikutnya boleh, apabila disabitkan, dikenakan penjara sehingga tiga tahun atau denda sehingga RM10,000, atau kedua-duanya, di samping caruman tertunggak, dividen dan caj bayaran lewat yang terhutang kepada Kumpulan Wang."
-  - q: "Bilakah simpanan EPF boleh dikeluarkan?"
-    a: "Akta ini membenarkan pengeluaran semasa persaraan dan bagi tujuan-tujuan tertentu yang diluluskan sebelum itu. Pengeluaran penuh baki secara amnya boleh dibuat pada usia 55 tahun. Sejak penstrukturan semula akaun pada 11 Mei 2024, simpanan dalam Akaun Fleksibel yang baharu boleh dikeluarkan pada bila-bila masa untuk apa-apa tujuan, tertakluk kepada jumlah minimum."
+  - q: "Apakah yang berlaku jika majikan tidak membayar KWSP?"
+    a: "Kegagalan membayar ialah kesalahan jenayah. Di bawah Seksyen 43(2), majikan yang gagal membayar caruman boleh, apabila disabitkan, dikenakan penjara sehingga tiga tahun atau denda sehingga RM10,000, atau kedua-duanya. Caruman bagi sesuatu bulan gaji perlu dibayar pada atau sebelum hari ke-15 bulan berikutnya."
+  - q: "Adakah pekerja asing perlu mencarum kepada KWSP?"
+    a: "Ya. Berkuat kuasa 1 Oktober 2025, caruman KWSP menjadi wajib bagi pekerja bukan warganegara Malaysia, dengan majikan dan pekerja masing-masing mencarum 2% daripada gaji bulanan. Bukan warganegara yang berumur melebihi 75 tahun tidak diwajibkan mendaftar atau mencarum."
 lang: "ms"
-sourceContentHash: "b57811d752dafc7c"
 masterLanguage: "en"
 translationStatus: "in-sync"
+sourceContentHash: "ef3ed3901e1145d3"
 status: "in-review"
 aiAssisted: true
 reviewer: null
-version: "0.1"
+version: "0.2"
 revisions:
   - version: "0.1"
     date: 2026-08-10
     change: "Initial AI draft."
     reviewer: null
+  - version: "0.2"
+    date: 2026-08-14
+    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
+    reviewer: null
 verificationNeeded:
-  - "Confirm the exact predecessor legislation wording (Employees Provident Fund Act/Ordinance 1951) against the AGC reprint's revision notes"
-  - "Confirm the precise section number that establishes the Fund itself (Part III) against the AGC statute text — cited here as Part III without pinning a specific section"
-  - "Confirm the current late-payment / dividend charge rate under Section 45 against KWSP directly, as it is set by the Board from time to time"
-updated: 2026-08-10
+  - "Exact age-60-and-above contribution rates and the several rate options — confirm against KWSP 'Mandatory Contribution' page and the Third Schedule before stating specific numbers"
+  - "Precise current wording and rate rows of the Third Schedule (the RM5,000 threshold split) — confirm against the AGC consolidated text rather than payroll-blog summaries"
+  - "Whether the minimum-dividend guarantee section is s.27 (some secondary sources cited s.54) — confirm in the AGC statute text"
+  - "Exact section number for age-55 withdrawal (a source labelled it 's.55A') — confirm in AGC text"
+  - "The financial year 2025 dividend rate (6.15% appeared in one snippet) — confirm the official KWSP press release before stating as declared"
+  - "Latest fund size (RM1.25 trillion, end-2024) and membership (16.22m total / 8.78m active) — refresh against KWSP's most recent annual report at publish time"
+updated: 2026-08-14
 sources:
-  - title: "EPF Act 1991: Legal Framework Overview"
-    url: "https://www.kwsp.gov.my/en/others/resource-centre/references/epf-act-1991"
-    publisher: "KWSP (Employees Provident Fund)"
+  - title: "Employees Provident Fund Act 1991"
+    url: "https://www.commonlii.org/my/legis/consol_act/epfa1991282/"
+    publisher: "Commonwealth Legal Information Institute (CommonLII)"
+  - title: "Employees Provident Fund (Malaysia)"
+    url: "https://en.wikipedia.org/wiki/Employees_Provident_Fund_(Malaysia)"
+    publisher: "Wikipedia"
+  - title: "Employees Provident Fund Act 1991 (statutory analysis)"
+    url: "https://www.lowpartners.com/employees-provident-fund-act-1991/"
+    publisher: "Low & Partners Advocates & Solicitors"
+  - title: "EPF Contribution Rates 2026: Employee and Employer Rates by Salary"
+    url: "https://money.com.my/guides/epf-contribution-rates-2026"
+    publisher: "money.com.my"
   - title: "Employer Mandatory Contribution"
     url: "https://www.kwsp.gov.my/en/employer/responsibilities/mandatory-contribution"
-    publisher: "KWSP (Employees Provident Fund)"
-  - title: "EPF Act 1991 Third Schedule"
-    url: "https://www.kwsp.gov.my/en/epf-act-1991-third-schedule"
-    publisher: "KWSP (Employees Provident Fund)"
-  - title: "EPF Account Restructuring Set to Address Members' Life Cycle Needs"
-    url: "https://www.kwsp.gov.my/en/w/epf-account-restructuring-"
-    publisher: "KWSP (Employees Provident Fund)"
-  - title: "Laws of Malaysia, Act 452 — Employees Provident Fund Act 1991 (reprint)"
-    url: "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/43880/MYS43880%202017.pdf"
-    publisher: "International Labour Organization (NATLEX)"
+    publisher: "Kumpulan Wang Simpanan Pekerja (EPF/KWSP)"
+  - title: "EPF Account Restructuring 2024"
+    url: "https://www.kwsp.gov.my/en/member/account-centre/account-restructuring"
+    publisher: "Kumpulan Wang Simpanan Pekerja (EPF/KWSP)"
+  - title: "No Change To Age 55 Withdrawal And Introducing Akaun Emas For Age 60 Withdrawal"
+    url: "https://www.kwsp.gov.my/en/w/no-change-to-age-55-withdrawal-and-introducing-akaun-emas-for-age-60-withdrawal"
+    publisher: "Kumpulan Wang Simpanan Pekerja (EPF/KWSP)"
+  - title: "EPF Declares 6.30% Dividend For Simpanan Konvensional And 6.30% For Simpanan Shariah"
+    url: "https://www.kwsp.gov.my/en/w/epf-declares-630-dividend-for-simpanan-konvensional-and-630-for-simpanan-shariah-ln"
+    publisher: "Kumpulan Wang Simpanan Pekerja (EPF/KWSP)"
+  - title: "EPF Sustains Solid Performance With 5.50% Dividend For Simpanan Konvensional And 5.40% For Simpanan Shariah"
+    url: "https://www.kwsp.gov.my/en/w/press-release-dividend2023"
+    publisher: "Kumpulan Wang Simpanan Pekerja (EPF/KWSP)"
+  - title: "EPF Begins Mandatory Contributions For Non-Malaysian Citizen Employees Effective October 2025"
+    url: "https://www.kwsp.gov.my/en/w/news/epf-begins-mandatory-contributions-for-non-malaysian-citizen-employees-effective-october-2025"
+    publisher: "Kumpulan Wang Simpanan Pekerja (EPF/KWSP)"
+  - title: "EPF Investment Assets At RM1.25 Trillion, 63 Pct Invested In Domestic Market"
+    url: "https://www.bernama.com/en/news.php?id=2397953"
+    publisher: "BERNAMA (Malaysian National News Agency)"
 entity: "Employees Provident Fund Act 1991 (Act 452)"
-relations:
-  - { rel: "administered-by", to: "epf" }
-  - { rel: "part-of", to: "labour-law-map-malaysia" }
-  - { rel: "explained-in", to: "epf-employer-guide" }
-  - { rel: "related-to", to: "socso-eis-employer-guide" }
-related: ["epf-employer-guide", "epf-foreign-workers-malaysia", "epf-socso-guide", "payroll-compliance-malaysia"]
-keywords: ["Employees Provident Fund Act 1991", "EPF Act 452", "KWSP Act", "Akta KWSP 1991", "EPF Malaysia law", "Third Schedule EPF", "Section 43 EPF"]
+relations: []
+related: []
+keywords: ["Employees Provident Fund Act 1991", "EPF Act 1991", "Act 452", "KWSP", "EPF contribution rate", "EPF dividend", "Akaun Persaraan Sejahtera Fleksibel", "EPF withdrawal age 55", "KWSP Malaysia", "EPF foreign worker contribution", "Kumpulan Wang Simpanan Pekerja"]
 ---
 
-**Akta Kumpulan Wang Simpanan Pekerja 1991** — dirujuk sebagai **Akta 452** dalam
-Undang-Undang Malaysia — ialah statut yang mewujudkan Kumpulan Wang Simpanan
-Pekerja (EPF, atau **KWSP**, *Kumpulan Wang Simpanan Pekerja*) dan menjadikan
-caruman simpanan persaraan diwajibkan bagi kebanyakan pekerja dan majikan mereka.
-Ia mula berkuat kuasa pada **1 Jun 1991**, menggantikan undang-undang kumpulan
-wang simpanan 1951 yang terdahulu di Malaysia. Tajuk panjangnya menerangkannya
-sebagai suatu Akta untuk mengadakan peruntukan bagi skim simpanan bagi persaraan
-pekerja dan pengurusan simpanan tersebut.
+Setiap slip gaji di sektor swasta Malaysia membawa potongan 11% yang lenyap ke
+dalam sebuah kumpulan wang yang tidak boleh anda sentuh selama berdekad-dekad —
+dan di sebalik baris itu terletak satu statut tunggal. **Akta Kumpulan Wang
+Simpanan Pekerja 1991**, disebut sebagai **Akta 452**, ialah "suatu Akta untuk
+mengadakan peruntukan bagi undang-undang berhubung dengan suatu skim simpanan
+untuk persaraan pekerja dan pengurusan simpanan itu." Ia mula berkuat kuasa pada
+**1 Jun 1991**, menggantikan Ordinan Kumpulan Wang Simpanan Pekerja 1951 yang
+mula-mula menubuhkan kumpulan wang itu pada 1 Oktober 1951, dan ia beroperasi di
+bawah bidang kuasa **Kementerian Kewangan**.
 
-Hampir setiap peraturan EPF praktikal yang diikuti majikan — caruman majikan 13
-peratus, tarikh akhir 15 haribulan, penalti bagi kegagalan membayar — berasal
-daripada suatu peruntukan dalam Akta ini atau jadual-jadualnya.
+Skim ini diuruskan oleh Kumpulan Wang Simpanan Pekerja (EPF, atau **KWSP**,
+*Kumpulan Wang Simpanan Pekerja*). Sehingga 31 Disember 2024, aset pelaburannya
+berjumlah **RM1.25 trilion** — 63% dilaburkan di dalam negara — dengan jumlah
+keahlian sebanyak **16.22 juta**, dan daripadanya 8.78 juta adalah ahli aktif.
 
-## Apa yang diwujudkan oleh Akta
+## Siapa yang wajib mencarum, dan berapa banyak?
 
-**Seksyen 3** memperbadankan **Lembaga Kumpulan Wang Simpanan Pekerja** sebagai
-satu pertubuhan perbadanan dengan penggantian berterusan dan cap mohor bersama,
-yang boleh membawa guaman, dibawa guaman terhadapnya, memegang harta dan membuat
-kontrak. Lembaga ini — KWSP — mentadbir skim tersebut. **Bahagian III**
-menubuhkan Kumpulan Wang itu sendiri dan menjadikan Lembaga sebagai pemegang
-amanah dan pengurus pelaburannya; Lembaga dikehendaki oleh Akta untuk menyimpan
-sebahagian besar Kumpulan Wang dalam sekuriti Kerajaan Malaysia.
+**Seksyen 43(1)** menjadikan caruman sebagai wajib: setiap pekerja, dan setiap
+majikan seseorang pekerja, mesti membayar caruman bulanan atas gaji pada kadar
+dalam **Jadual Ketiga**. **Seksyen 2** mentakrifkan "gaji" sebagai semua saraan
+dalam bentuk wang yang kena dibayar di bawah suatu kontrak perkhidmatan —
+termasuk bonus dan komisen — tetapi tidak termasuk caj perkhidmatan, kerja lebih
+masa, gratuiti dan faedah persaraan.
 
-EPF ialah skim **caruman tertakrif** (*defined-contribution*): apa yang diterima
-seseorang ahli semasa persaraan ialah caruman terkumpul mereka ditambah dividen
-tahunan yang diisytiharkan oleh Lembaga, bukan pencen yang dijanjikan.
+| Pekerja | Kadar pekerja | Kadar majikan |
+| --- | --- | --- |
+| Warga Malaysia bawah umur 60 tahun | 11% | 13% (12% bagi gaji melebihi RM5,000) |
+| Bukan warganegara Malaysia (mulai 1 Okt 2025) | 2% | 2% |
 
-## Kewajipan teras: Seksyen 43 dan Jadual Ketiga
+Sejak **1 Oktober 2025**, caruman telah menjadi wajib bagi pekerja bukan
+warganegara Malaysia, dengan setiap pihak membayar 2% daripada gaji bulanan;
+bukan warganegara yang berumur melebihi 75 tahun tidak perlu mendaftar atau
+mencarum.
 
-**Seksyen 43(1)** ialah nadi Akta ini. Ia memperuntukkan bahawa setiap pekerja
-dan setiap majikan seseorang yang merupakan pekerja bertanggungan untuk membayar
-**caruman bulanan** ke atas upah, pada kadar yang ditetapkan dalam **Jadual
-Ketiga**.
+## Apakah tarikh akhir dan penaltinya?
 
-Jadual Ketiga menyatakan jumlah sebenar. Bahagian-bahagiannya dibahagikan
-mengikut kewarganegaraan pekerja, status pemastautin dan usia:
+Caruman bagi sesuatu bulan gaji mesti dibayar oleh majikan **pada atau sebelum
+hari ke-15 bulan berikutnya**. Ketidakpatuhan bukan sekadar hutang sivil: di
+bawah **Seksyen 43(2)**, majikan yang gagal membayar caruman melakukan suatu
+kesalahan dan boleh, apabila disabitkan, dikenakan **penjara sehingga tiga tahun
+atau denda sehingga RM10,000, atau kedua-duanya**.
 
-| Pekerja | Kadar (mengikut Jadual Ketiga) |
-| --- | --- |
-| Warganegara Malaysia / PR, di bawah 60 (Bahagian A) | Majikan 13% (12% bagi upah melebihi RM5,000); pekerja 11% |
-| Warganegara Malaysia, 60 tahun ke atas (Bahagian E) | Majikan 4%; pekerja tiada |
-| Bukan warganegara Malaysia (Bahagian F) | Majikan 2%; pekerja 2% |
+## Bagaimana dividen dijamin?
 
-Bagi upah bulanan sehingga RM20,000, kadar ini dibaca sebagai jumlah ringgit
-tetap daripada jadual berjaluran dan bukannya dikira sebagai peratusan tepat —
-satu perincian yang diliputi dalam
-[panduan majikan EPF](/ms/employment/epf-employer-guide).
+**Seksyen 27** mewajibkan Lembaga, dengan kelulusan menteri, mengisytiharkan
+dividen tahunan yang hendaklah **tidak kurang daripada 2.5% setahun** — suatu
+paras minimum berkanun yang jarang benar-benar teruji dalam amalan. Bagi tahun
+kewangan 2024, KWSP mengisytiharkan **6.30%** untuk Simpanan Konvensional
+(RM63.05 bilion) dan 6.30% untuk Simpanan Shariah (RM10.19 bilion), dengan jumlah
+bayaran sebanyak RM73.24 bilion. Setahun sebelumnya, bagi 2023, ia
+mengisytiharkan 5.50% dan 5.40% masing-masing.
 
-## Tarikh akhir dan penalti
+## Bilakah simpanan boleh dikeluarkan?
 
-Caruman bagi sesuatu bulan upah perlu dibayar **pada atau sebelum hari ke-15
-bulan berikutnya**. **Seksyen 43(2)** menjadikan bayaran lewat atau kegagalan
-membayar sebagai satu **kesalahan jenayah**: apabila disabitkan, penjara sehingga
-tiga tahun atau denda sehingga RM10,000, atau kedua-duanya. Secara berasingan,
-majikan kekal bertanggungan bagi caruman yang tidak dibayar, dividen yang setara
-dan caj bayaran lewat yang ditetapkan oleh Lembaga.
+Ahli yang mencapai **umur 55 tahun** akan mempunyai simpanan mereka digabungkan
+ke dalam **Akaun 55 (Akaun 55)** dan boleh mengeluarkan kesemua atau sebahagian
+pada bila-bila masa. Caruman yang dibuat selepas umur 55 tahun dimasukkan ke
+dalam **Akaun Emas**, yang boleh diakses sepenuhnya pada **umur 60 tahun**.
 
-## Perubahan statut terkini
+Secara berasingan, penstrukturan semula pada **11 Mei 2024** membahagikan
+simpanan ahli daripada dua akaun kepada tiga — **Akaun Persaraan**, **Akaun
+Sejahtera** dan **Akaun Fleksibel** — dengan caruman baharu diagihkan **75% /
+15% / 10%** merentasinya. Akaun Fleksibel direka untuk keperluan jangka pendek
+dan boleh diakses sebelum persaraan.
 
-- **Pekerja asing (bermula Oktober 2025).** Caruman menjadi wajib bagi pekerja
-  bukan warganegara Malaysia di bawah **Bahagian F** baharu Jadual Ketiga, pada
-  kadar 2 peratus dari setiap pihak, menggantikan rejim pilihan RM5 majikan yang
-  lama. Lihat [EPF untuk pekerja asing](/ms/employment/epf-foreign-workers-malaysia).
-- **Penstrukturan semula akaun (11 Mei 2024).** Ahli di bawah 55 tahun beralih
-  daripada dua akaun kepada tiga — **Akaun Persaraan** (75% caruman baharu),
-  **Akaun Sejahtera** (15%) dan **Akaun Fleksibel** yang baharu (10%), yang
-  membenarkan pengeluaran pada bila-bila masa tertakluk kepada jumlah minimum.
+## Apa yang seterusnya
 
-## Pengeluaran
-
-Akta ini membenarkan pengeluaran semasa persaraan dan bagi tujuan-tujuan
-prapersaraan yang diluluskan (seperti perumahan, pendidikan dan kesihatan).
-**Pengeluaran penuh** baki secara amnya boleh dibuat pada **usia 55 tahun**,
-dengan caruman berterusan boleh dibuat sehingga usia 75 tahun.
-
-## Apa seterusnya
-
-Untuk mekanisme mengira dan meremit caruman dengan betul, baca
-[panduan majikan EPF](/ms/employment/epf-employer-guide). Untuk melihat
-bagaimana EPF berada bersama PERKESO, SIP dan PCB pada tarikh akhir bulanan yang
-sama, gunakan
-[kalendar pematuhan penggajian](/ms/employment/payroll-compliance-malaysia), dan
-untuk lanskap statut yang lebih luas lihat
-[peta undang-undang buruh](/ms/employment/labour-law-map-malaysia).
+Ini ialah rangka undang-undangnya; mekanisme praktikal — jumlah ringgit terjalur
+yang tepat, beberapa pilihan kadar pada umur 60 tahun ke atas, dan penghantaran
+caruman melalui portal majikan i-Akaun — patut disahkan terhadap laman Caruman
+Wajib KWSP sendiri dan Jadual Ketiga Akta 452 sebelum anda bergantung pada
+mana-mana angka tertentu.

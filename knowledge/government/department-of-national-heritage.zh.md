@@ -1,116 +1,111 @@
 ---
 topicId: "MY-GOV-0099"
-title: "国家遗产局（JWN）"
-seoTitle: "马来西亚国家遗产局（JWN）"
+title: "国家文化遗产局（JWN）：马来西亚遗产的守护者"
+seoTitle: "马来西亚国家文化遗产局（JWN）"
+socialTitle: "谁来决定什么算是马来西亚遗产？"
 slug: "department-of-national-heritage"
 category: "government"
-subcategory: ["heritage-agency"]
-summary: "马来西亚联邦机构，依据《2005年国家遗产法令》宪报颁布、保护并推广国家遗产。"
+subcategory: ["agencies"]
+summary: "国家文化遗产局（Jabatan Warisan Negara，JWN）是马来西亚隶属旅游、艺术及文化部（MOTAC）的联邦机构，依据《2005年国家文化遗产法令》（第645号法令）负责鉴定、宪报颁布、保护及执法，涵盖国家的有形、无形、自然及水下文化遗产。"
 tier: "4"
 mode: "practical"
 contentType: "agency"
 sensitivity: "none"
-answer: "国家遗产局（Jabatan Warisan Negara，JWN）是马来西亚联邦机构，负责鉴定、保育、宪报颁布并推广国家的文化与自然遗产。它于2006年3月1日依据《2005年国家遗产法令》（第645号法令）成立，隶属于旅游、艺术及文化部（MOTAC）。其遗产专员负责保管国家遗产名册，而部长则以宪报命令的方式宣布列入项目为国家遗产。"
+answer: "国家文化遗产局（Jabatan Warisan Negara，JWN）是马来西亚负责鉴定、宪报颁布、保护及执法国家遗产的联邦机构。它于2006年3月1日成立，隶属旅游、艺术及文化部（MOTAC），并运作《2005年国家文化遗产法令》（第645号法令）的法定机制。其遗产专员（Commissioner of Heritage）负责维护国家文化遗产名册，而部长则以宪报命令的形式正式宣布项目——包括在世人物——为国家文化遗产。"
 keyTakeaways:
-  - "JWN于2006年3月1日依据《2005年国家遗产法令》（第645号法令）成立，隶属于MOTAC。"
-  - "遗产专员依据法令第4条委任，负责指定遗产地点并维护国家遗产名册。"
-  - "国家遗产名册（第23条）载列遗产地点、遗产物品、水下文化遗产及已宣布的国家遗产。"
-  - "根据第67条，部长可以宪报命令的方式，宣布某一地点、物品、水下文化遗产或在世人物为国家遗产。"
-  - "JWN的职权范围涵盖研究与考古、建筑与古迹保育、宪报颁布与执法、非物质遗产及自然遗产。"
-appliesTo: "需要了解谁保护并宪报颁布马来西亚遗产以及相关程序如何运作的研究人员、保育工作者、业主、学生及遗产游客。"
+  - "JWN于2006年3月1日成立，隶属MOTAC，负责保存、保护、维护及推广马来西亚的遗产。"
+  - "它执行《2005年国家文化遗产法令》（第645号法令），涵盖有形、无形、自然、水下文化遗产以及埋藏珍宝。"
+  - "遗产专员依据第4条委任，负责指定遗址、登记文物并维护国家文化遗产名册（第23条）。"
+  - "依据第68条，任何人皆可提名；依据第67条，部长根据九项法定考量因素，以宪报命令宣布国家文化遗产。"
+  - "第114条规定，未经书面批准而更改、拆除或处置国家文化遗产属违法行为——最高可判监禁5年或罚款最高RM50,000，或两者兼施。"
+appliesTo: "需要了解谁保护及宪报颁布马来西亚遗产、以及流程如何运作的研究人员、文物保护工作者、业主、学生及遗产旅客。"
 faq:
-  - q: "JWN与《国家遗产法令》有什么区别？"
-    a: "《2005年国家遗产法令》（第645号法令）是法规；JWN则是执行该法令的部门。该法令设立了JWN日常运作的各项职位与名册。"
-  - q: "由谁决定某项事物成为“国家遗产”？"
-    a: "遗产专员首先指定并登记项目，但正式宣布为国家遗产是由部长根据第67条以宪报公布的命令作出的。"
-  - q: "在世人物可以被宣布为国家遗产吗？"
-    a: "可以。第67条允许部长宣布在世人物为国家遗产，以表彰马来西亚文化知识与技艺的杰出传承者。"
+  - q: "JWN与《国家文化遗产法令》有什么区别？"
+    a: "《2005年国家文化遗产法令》（第645号法令）是法规；JWN是执行该法令的部门。该法令设立了各项职务、名册以及宣布程序，而JWN则负责日常运作。"
+  - q: "某项事物如何被宣布为国家文化遗产？"
+    a: "依据第68条，任何人皆可以指定表格提名某项事物。依据第67条，部长随后可以宪报命令将其宣布为国家文化遗产，并权衡九项考量因素，例如历史重要性、美学价值、稀有性及文化意义。"
+  - q: "在世人物可以被宣布为国家文化遗产吗？"
+    a: "可以。第67条允许部长将在世人物宣布为国家文化遗产，而《2012年国家文化遗产（宣布在世人物为国家文化遗产）命令》则为「活着的遗产」（Warisan Orang Hidup）类别提供了正式的法律文书。"
 lang: "zh"
-sourceContentHash: "c63b23f11b25bd35"
 masterLanguage: "en"
 translationStatus: "in-sync"
+sourceContentHash: "53cec54bf4113555"
 status: "in-review"
 aiAssisted: true
 reviewer: null
-version: "0.1"
+version: "0.2"
 revisions:
   - version: "0.1"
     date: 2026-08-10
     change: "Initial AI draft."
     reviewer: null
+  - version: "0.2"
+    date: 2026-08-14
+    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
+    reviewer: null
 verificationNeeded:
-  - "Exact current total of items on the National Heritage Register / declared National Heritage (sources cite phased listings from 2007 onward but no confirmed running total)."
-  - "Name of the current Commissioner of Heritage (Pesuruhjaya Warisan) as of 2026."
-  - "Exact section number establishing the National Heritage Council within Act 645."
-updated: 2026-08-10
+  - "Exact current total of items on the National Heritage Register across all categories (buildings, sites, objects, intangible, natural, underwater, living persons) as of 2026 — sources give scattered, dated figures."
+  - "Name of the current Commissioner of Heritage / Director-General of JWN (Ketua Pengarah) as of 2026."
+  - "Exact number and official names of JWN's current divisions (bahagian) — homepage references Heritage Register, Conservation, Intangible Cultural Heritage, Archaeology and World Heritage, but a definitive current list was not confirmed."
+  - "The 'Warisan Orang Hidup' (WAKOH) living-person declarations count and the precise scope of the National Heritage (Declaration of Living Person) Order 2012 (No. 369)."
+  - "Current JWN main phone number — one search returned +60 3-7800 0069 but this was not confirmed on the official site."
+updated: 2026-08-14
 sources:
   - title: "History of Establishment — Jabatan Warisan Negara"
-    url: "https://www.heritage.gov.my/en/info-jwn/sejarah-penubuhan.html"
-    publisher: "Department of National Heritage (JWN)"
+    url: "https://www.heritage.gov.my/en/jwn-info/history-of-establishment.html"
+    publisher: "Department of National Heritage (Jabatan Warisan Negara)"
   - title: "Vision, Mission & Objective — Jabatan Warisan Negara"
     url: "https://www.heritage.gov.my/en/jwn-info/vision-mission-objective.html"
-    publisher: "Department of National Heritage (JWN)"
-  - title: "Official Portal — Jabatan Warisan Negara"
+    publisher: "Department of National Heritage (Jabatan Warisan Negara)"
+  - title: "Official Portal of the Department of National Heritage"
     url: "https://www.heritage.gov.my/en/"
-    publisher: "Department of National Heritage (JWN)"
-  - title: "National Heritage Act 2005 (Act 645)"
-    url: "https://www.commonlii.org/my/legis/consol_act/nha2005164/"
-    publisher: "Commonwealth Legal Information Institute (CommonLII)"
+    publisher: "Department of National Heritage (Jabatan Warisan Negara)"
   - title: "Laws of Malaysia Reprint — Act 645 National Heritage Act 2005"
     url: "https://gtwhi.com.my/wp-content/uploads/2020/12/National-Heritage-Act-2005.pdf"
-    publisher: "George Town World Heritage Incorporated"
-  - title: "Ministry of Tourism, Arts and Culture Official Portal"
-    url: "https://www.motac.gov.my/en/"
-    publisher: "Ministry of Tourism, Arts and Culture (MOTAC)"
+    publisher: "Commissioner of Law Revision, Malaysia (official reprint, hosted by George Town World Heritage Incorporated)"
+  - title: "Ministry of Tourism, Arts and Culture"
+    url: "https://en.wikipedia.org/wiki/Ministry_of_Tourism,_Arts_and_Culture"
+    publisher: "Wikipedia"
+  - title: "Perintah Warisan Kebangsaan (Perisytiharan Orang Hidup Sebagai Warisan Kebangsaan) 2012 (No. 369)"
+    url: "https://mylaw.my/legislation/perintah-warisan-kebangsaan-perisytiharan-orang-hidup-sebagai-warisan-kebangsaan-2012"
+    publisher: "MyLaw.my"
 entity: "Department of National Heritage (Jabatan Warisan Negara)"
-relations:
-  - { rel: "related-to", to: "national-heritage-sites" }
-  - { rel: "related-to", to: "unesco-world-heritage" }
-  - { rel: "related-to", to: "national-cultural-policy" }
+relations: []
 related: []
-keywords: ["Department of National Heritage", "Jabatan Warisan Negara", "JWN", "National Heritage Act 2005", "Act 645", "National Heritage Register", "Commissioner of Heritage", "warisan negara", "MOTAC heritage"]
+keywords: ["Jabatan Warisan Negara", "JWN", "Department of National Heritage", "National Heritage Act 2005", "Act 645", "Warisan Kebangsaan", "National Heritage Register", "Commissioner of Heritage", "heritage.gov.my", "MOTAC", "gazette national heritage Malaysia", "Daftar Warisan Kebangsaan", "Warisan Orang Hidup"]
 ---
 
-**国家遗产局** — *Jabatan Warisan Negara*（**JWN**）— 是马来西亚负责鉴定、保育、宪报颁布并推广国家文化与自然遗产的联邦机构。它于**2006年3月1日**依据**《2005年国家遗产法令》（第645号法令）**成立，隶属于**旅游、艺术及文化部（MOTAC）**。其工作范围从考古与建筑保育，到非物质传统的保护。
+当乔治市（George Town）的一间店屋获得保护令，或一位 *玛蓉*（*mak yong*）舞者被尊为在世珍宝时，其决定背后都有一个联邦机构：**国家文化遗产局**——*Jabatan Warisan Negara*（**JWN**）。JWN 成立于 **2006年3月1日**，负责鉴定、保护、宪报颁布及守护马来西亚的遗产，隶属 **旅游、艺术及文化部（MOTAC）**。其明确的愿景是引领探索与保存遗产瑰宝，以铸造国家认同并带动国家经济。
 
-## JWN的职能
+## JWN 执行什么法律？
 
-JWN的职权源自第645号法令，涵盖广泛的遗产工作：研究与考古、建筑与古迹的保育、宪报颁布与执法、非物质遗产以及自然遗产。在实务上，这意味着该部门发掘并记录遗址、修复已宪报颁布的古迹、记录活态传统，并协调马来西亚在联合国教科文组织（UNESCO）世界遗产事务上的参与。其宣示的使命是“探索、修复并保护”国家遗产，迈向可持续发展与国际认可。
+JWN 执行 **《2005年国家文化遗产法令》（第645号法令）**，该法令于2005年12月30日获得御准，并于翌日刊登宪报。该法令规定了对国家遗产、自然遗产、有形及无形文化遗产、水下文化遗产以及埋藏珍宝的保护，涵盖研究、考古、建筑物与古迹的保护、宪报颁布及执法。
 
-## 法律基础
+## 权力掌握在谁手中？
 
-该部门执行**《2005年国家遗产法令》**，此法令以单一的现代化框架取代了如《1976年古物法令》与《1957年宝藏法令》等旧法。该法令设立了该部门赖以运作的两个关键角色：
+该法令将部门围绕单一法定职务而建立。依据 **第4条**，部长委任一名 **遗产专员**（Commissioner of Heritage）——这是一个具永久继承权的法人团体，任期不超过三年，并可获重新委任。**第6条** 列明遗产专员的职能：指定遗址、登记文物、维护名册、监督保护工作、推动研究、授权发掘、与州政府机关联系，以及向部长提供咨询。**第8条** 设立国家文化遗产理事会，第五部分（第20至22条）设立由遗产专员管控的遗产基金。
 
-- **遗产专员**（*Pesuruhjaya Warisan*），依据**第4条**委任，其职能包括指定遗产地点、登记物品与水下文化遗产、设立并维护名册、监督保育与修复、推动研究，以及授权并监管发掘工作。
-- **国家遗产理事会**（*Majlis Warisan Kebangsaan*），一个支持遗产政策与决策的咨询机构。
+## 某项事物如何成为「国家文化遗产」？
 
-## 国家遗产名册
+这一流程是公开且法定的：
 
-**第23条**要求遗产专员设立并维护**国家遗产名册**，并开放供公众查阅。该名册记录了部门已认可的遗产。类别包括：
+| 步骤 | 条文 | 内容 |
+| --- | --- | --- |
+| 提名 | 第68条 | 任何人皆可以指定表格提名自然、有形、无形、在世人物或水下遗产。 |
+| 登记 | 第23条、第24条 | 遗产专员指定遗址并维护国家文化遗产名册，供公众查阅。 |
+| 临时保护 | 第33条 | 在作出指定决定之前，可发出临时保护令以保护某遗址。 |
+| 宣布 | 第67条 | 部长以宪报命令宣布国家文化遗产，权衡九项考量因素（历史重要性、美学、创新、文化关联、稀有性等）。 |
 
-| 类别 | 涵盖内容 |
-| --- | --- |
-| 遗产地点 | 具自然或文化遗产意义的场所 |
-| 遗产物品 | 可移动的有形遗产，包括古物 |
-| 水下文化遗产 | 马来西亚水域内的沉船与水下遗产 |
-| 非物质文化遗产 | 传统、表演艺术、知识与技艺 |
-| 已宣布的国家遗产 | 提升至国家遗产地位的项目或人物 |
+*在世人物* 途径确实存在：**《2012年国家文化遗产（宣布在世人物为国家文化遗产）命令》** 创设了 *活着的遗产*（Warisan Orang Hidup）类别，用以表彰杰出的文化知识传承者。
 
-## 某项事物如何成为“国家遗产”
+## 如果损坏国家文化遗产会怎样？
 
-认可分两个步骤进行。首先，遗产专员指定某一地点，或将某一物品登记入名册。接着，根据**第67条**，**部长可以宪报公布的命令，宣布**名册中所载列的任何遗产地点、遗产物品或水下文化遗产 — **或任何在世人物** — 为**国家遗产**。此宣布须依据第67(2)条所订定的法定标准作出。允许将*在世人物*宣布为国家遗产的条文，正是马来西亚表彰杰出文化知识与工艺传承者的方式。
+依据 **第114条**，除非因安全的紧急必要，任何人未经遗产专员的书面批准，不得转让、拆除、迁移、更改、翻新、出口或增建国家文化遗产。违反者即属犯罪，可判处最高五年监禁、不超过 **RM50,000** 的罚款，或两者兼施。
 
-## 隶属定位
+## 如何联系 JWN
 
-| 属性 | 详情 |
-| --- | --- |
-| 马来文名称 | Jabatan Warisan Negara（JWN） |
-| 成立日期 | 2006年3月1日 |
-| 主管法律 | 《2005年国家遗产法令》（第645号法令） |
-| 上级部门 | 旅游、艺术及文化部（MOTAC） |
-| 总部 | Menara PNB（国民投资机构，Permodalan Nasional Berhad），Jalan Tun Razak，吉隆坡 |
-| 名册 | 国家遗产名册（第23条） |
+JWN 的总部位于 Aras Mezanin, 15–20, Menara Permodalan Nasional Berhad (PNB), No. 201-A, Jalan Tun Razak, 50400 Kuala Lumpur；电邮 `info@heritage.gov.my`。
 
 ## 接下来
 
-若要实地了解JWN所保护的遗产，请阅读关于**国家遗产地点**与**马来西亚的UNESCO世界遗产**的配套文章，以及构成国家更广泛遗产议程框架的**国家文化政策**。如需权威法规与现行名册，请查阅JWN官方门户网站 heritage.gov.my 以及《2005年国家遗产法令》（第645号法令）。
+若要区分 JWN 的国家文化遗产名单与联合国教科文组织（UNESCO）世界遗产以及州或地方遗产宪报，并查看其保护的遗址与在世人物，请透过 JWN 的官方门户网站 heritage.gov.my 查阅国家文化遗产名册，以及《2005年国家文化遗产法令》（第645号法令）的完整文本。

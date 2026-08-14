@@ -1,114 +1,116 @@
 ---
 topicId: "MY-GOV-0095"
-title: "Kementerian Pelaburan, Perdagangan dan Industri (MITI)"
-seoTitle: "MITI Malaysia: Kementerian Pelaburan, Perdagangan & Industri"
+title: "Kementerian Pelaburan, Perdagangan dan Industri (MITI): Gerbang Malaysia untuk Perdagangan dan Pelaburan"
+seoTitle: "MITI Malaysia: Kementerian Pelaburan, Perdagangan"
+socialTitle: "MITI tetap dieja MITI — tetapi kementerian ini diam-diam mengubah maksudnya"
 slug: "ministry-of-investment-trade-industry-miti"
 category: "government"
 subcategory: ["ministries"]
-summary: "Kementerian persekutuan yang menetapkan dasar pelaburan, perdagangan dan perindustrian Malaysia, merundingkan perjanjian perdagangan bebas, serta menyelia agensi seperti MIDA dan MATRADE."
+summary: "MITI ialah kementerian persekutuan Malaysia bagi pelaburan, perdagangan antarabangsa dan dasar perindustrian — dinamakan semula daripada Kementerian Perdagangan Antarabangsa dan Industri pada 2023 — yang menyelia agensi seperti MIDA, MATRADE dan MPC serta memacu agenda perindustrian NIMP 2030."
 tier: "3"
 mode: "practical"
 contentType: "agency"
 sensitivity: "none"
-answer: "Kementerian Pelaburan, Perdagangan dan Industri (MITI) ialah kementerian persekutuan Malaysia yang bertanggungjawab merancang dan melaksanakan dasar berkaitan pelaburan, perdagangan antarabangsa dan pembangunan perindustrian. Ia menggubal dasar dan merundingkan perjanjian perdagangan, manakala agensi berkanunnya — terutamanya MIDA untuk pelaburan dan MATRADE untuk eksport — menjalankan kerja operasi. Dikenali sebagai Kementerian Perdagangan Antarabangsa dan Industri sehingga 2023, ia mengekalkan akronim MITI selepas penamaan semula. Ibu pejabatnya ialah Menara MITI di Kuala Lumpur."
+answer: "Kementerian Pelaburan, Perdagangan dan Industri (MITI; Bahasa Malaysia: Kementerian Pelaburan, Perdagangan dan Industri) ialah kementerian persekutuan Malaysia yang bertanggungjawab bagi pelaburan, perdagangan antarabangsa dan dasar perindustrian. Ia dinamakan semula daripada Kementerian Perdagangan Antarabangsa dan Industri pada April 2023 tetapi mengekalkan akronim MITI yang sama. MITI menetapkan dasar dan merundingkan perjanjian perdagangan, manakala agensi seperti MIDA dan MATRADE melaksanakan kerja barisan hadapan. Ibu pejabatnya ialah Menara MITI di Kuala Lumpur."
 keyTakeaways:
-  - "MITI menetapkan dasar pelaburan, perdagangan dan perindustrian Malaysia serta menerajui rundingan perjanjian perdagangan bebas; ia sendiri tidak meluluskan urusan pelaburan atau eksport secara individu."
-  - "Kementerian ini dinamakan semula daripada 'Kementerian Perdagangan Antarabangsa dan Industri' kepada 'Kementerian Pelaburan, Perdagangan dan Industri' pada April 2023, dengan mengekalkan akronim MITI."
-  - "Dua agensi perajunya ialah MIDA (Lembaga Pembangunan Pelaburan Malaysia) untuk promosi dan kelulusan pelaburan, serta MATRADE (Perbadanan Pembangunan Perdagangan Luar Malaysia) untuk promosi eksport."
-  - "Mulai 1 Januari 2024, MITI memusatkan fungsi promosi dan pemasaran pelaburan peringkat persekutuan di bawah MIDA untuk menghapuskan pertindihan dalam perjalanan pelabur."
-  - "Pelan Induk Perindustrian Baharu 2030 (NIMP 2030), yang dilancarkan pada September 2023, ialah pelan tindakan perindustrian MITI, menyasarkan pelaburan sebanyak RM95 bilion dan 3.3 juta pekerjaan."
-  - "Datuk Seri Johari Abdul Ghani dilantik sebagai menteri MITI dalam rombakan Kabinet Disember 2025, menggantikan Tengku Zafrul Abdul Aziz."
-appliesTo: "Pelabur, pengeksport, pengeluar, pelajar dan penyelidik yang perlu memahami badan Malaysia manakah yang menetapkan dasar perdagangan dan perindustrian serta bagaimana MITI berkaitan dengan MIDA, MATRADE dan agensi lain."
+  - "MITI dinamakan semula daripada 'Kementerian Perdagangan Antarabangsa dan Industri' kepada 'Kementerian Pelaburan, Perdagangan dan Industri' pada April 2023, mengekalkan akronim MITI walaupun perkataan 'Antarabangsa' (International) bertukar menjadi 'Pelaburan' (Investment)."
+  - "Kementerian ini berasal daripada Kementerian Perdagangan dan Perindustrian (April 1956); ia berpisah daripada kementerian perdagangan dalam negeri (KPDN) pada 27 Oktober 1990."
+  - "Bidang kuasanya merangkumi perdagangan antarabangsa, industri, pelaburan, produktiviti, PKS, pembiayaan pembangunan, halal, automotif, keluli dan perdagangan strategik."
+  - "MITI ialah badan pembuat dasar; agensi di bawahnya termasuk MIDA, MATRADE, MPC, MIDF, SIRIM, EXIM Bank, Standards Malaysia, MARii, MSI, HDC dan NAICO."
+  - "Sehingga rombakan Kabinet Disember 2025, Menterinya ialah Datuk Seri Johari Abdul Ghani dan Timbalan Menterinya ialah Sim Tze Tzin."
+  - "MITI menerima peruntukan RM1.898 bilion di bawah Belanjawan 2026 untuk menerajui pelaksanaan Pelan Induk Perindustrian Baharu 2030 (NIMP 2030)."
+appliesTo: "Pelabur, pengeksport, pengeluar, pelajar dan rakyat Malaysia biasa yang perlu memahami badan persekutuan mana yang menetapkan dasar perdagangan dan perindustrian serta bagaimana MITI berbeza daripada agensi-agensinya dan daripada KPDN."
 faq:
-  - q: "Apakah perbezaan antara MITI, MIDA dan MATRADE?"
-    a: "MITI ialah kementerian dasar. MIDA ialah agensi berkanun yang mempromosi dan meluluskan pelaburan dalam sektor pembuatan dan perkhidmatan. MATRADE ialah agensi yang mempromosi eksport Malaysia di luar negara. Kedua-dua MIDA dan MATRADE beroperasi di bawah MITI."
-  - q: "Mengapakah MITI mengekalkan akronim yang sama selepas dinamakan semula?"
-    a: "Kementerian ini bertukar daripada 'Perdagangan Antarabangsa dan Industri' kepada 'Pelaburan, Perdagangan dan Industri' pada April 2023 untuk menyerlahkan pelaburan sebagai tumpuan. Oleh sebab kedua-dua nama disingkatkan kepada MITI, akronim tersebut dikekalkan dan perubahan itu mudah terlepas pandang."
-  - q: "Adakah saya memohon kepada MITI untuk insentif pelaburan?"
-    a: "Tidak. Permohonan untuk lesen pembuatan dan insentif pelaburan dihantar kepada MIDA, yang menilai dan memprosesnya di bawah rangka kerja dasar yang ditetapkan MITI. Sejak 1 Januari 2024, MIDA ialah pusat tumpuan bagi promosi pelaburan persekutuan."
+  - q: "Apakah perbezaan antara MITI dengan agensi-agensinya seperti MIDA dan MATRADE?"
+    a: "MITI ialah kementerian pembuat dasar — ia menetapkan strategi dan merundingkan perjanjian perdagangan. MIDA (Lembaga Pembangunan Pelaburan Malaysia) dan MATRADE (Perbadanan Pembangunan Perdagangan Luar Malaysia) ialah agensi yang beroperasi di bawah MITI untuk masing-masing mempromosikan pelaburan dan eksport."
+  - q: "Mengapa MITI mengekalkan akronim yang sama selepas dinamakan semula?"
+    a: "Pada April 2023 kementerian ini berubah daripada 'Perdagangan Antarabangsa dan Industri' kepada 'Pelaburan, Perdagangan dan Industri' untuk mengutamakan pelaburan. Oleh sebab kedua-dua nama diringkaskan sebagai MITI, akronim itu dikekalkan, dan itulah sebabnya perubahan ini mudah terlepas pandang."
 lang: "ms"
-sourceContentHash: "060bdf3f22afea0c"
 masterLanguage: "en"
 translationStatus: "in-sync"
+sourceContentHash: "f325297c1a8f4c21"
 status: "in-review"
 aiAssisted: true
 reviewer: null
-version: "0.1"
+version: "0.2"
 revisions:
   - version: "0.1"
     date: 2026-08-10
     change: "Initial AI draft."
     reviewer: null
+  - version: "0.2"
+    date: 2026-08-14
+    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
+    reviewer: null
 verificationNeeded:
-  - "The exact rename date is given differently across sources (Cabinet approval on 5 April 2023 vs. public announcement on 12 April 2023); both are reflected in the text but the precise gazette/effective date was not confirmed against an official instrument."
-  - "The full current roster and exact legal form of every agency under MITI was not verified against each agency's own enabling statute; only the principal agencies are named."
-updated: 2026-08-10
+  - "Exact effective/gazette date of the 2023 rename — the Cabinet decision was reported as 5 April 2023 while some sources cite 12 April 2023 as effective; the precise gazette date was not confirmed against a primary instrument."
+  - "Exact appointment/gazette dates for the current Minister (Johari Abdul Ghani) and Deputy Minister (Sim Tze Tzin) from the December 2025 reshuffle."
+  - "The definitive current count and full official list of agencies under MITI — sources vary between roughly 8 and 14 entities and some shift over time."
+  - "NIMP 2030 official launch date and headline targets."
+  - "Current employee/staff headcount (the dated 2017 figure of 959 was not used)."
+  - "Everyday public touchpoints often attributed to MITI (Certificate of Origin endorsement, Approved Permit applications) were not confirmed against a primary source in the pack and are therefore omitted from the body."
+updated: 2026-08-14
 sources:
-  - title: "Ministry of Investment, Trade and Industry — official portal"
-    url: "https://www.miti.gov.my/index.php"
-    publisher: "Ministry of Investment, Trade and Industry (MITI)"
-  - title: "MITI renamed investment, trade and industry ministry"
-    url: "https://paultan.org/2023/04/13/miti-renamed-investment-trade-and-industry-ministry/"
-    publisher: "Paul Tan's Automotive News"
-  - title: "MITI: Investment promotion agencies' functions to be centralised under MIDA on Jan 1, 2024"
-    url: "https://www.mida.gov.my/mida-news/miti-investment-promotion-agencies-functions-to-be-centralised-under-mida-on-jan-1-2024/"
-    publisher: "Malaysian Investment Development Authority (MIDA)"
-  - title: "Launch of the New Industrial Master Plan 2030 (NIMP 2030)"
-    url: "https://www.mida.gov.my/launch-of-the-new-industrial-master-plan-2030-nimp-2030/"
-    publisher: "Malaysian Investment Development Authority (MIDA)"
-  - title: "Speech by PM Anwar for the launch of the New Industrial Master Plan 2030 (NIMP 2030)"
-    url: "https://www.pmo.gov.my/2023/09/speech-by-pm-anwar-for-the-launch-of-the-new-industrial-master-plan-2030-nimp-2030/"
-    publisher: "Prime Minister's Office of Malaysia"
-  - title: "Johari Ghani appointed as new MITI minister in cabinet reshuffle"
-    url: "https://paultan.org/2025/12/16/johari-ghani-appointed-as-new-miti-minister-in-cabinet-reshuffle-akmal-nasir-is-new-economy-minister/"
-    publisher: "Paul Tan's Automotive News"
   - title: "Ministry of Investment, Trade and Industry (Malaysia)"
     url: "https://en.wikipedia.org/wiki/Ministry_of_Investment,_Trade_and_Industry_(Malaysia)"
     publisher: "Wikipedia"
-entity: "Ministry of Investment, Trade and Industry (MITI), Malaysia"
-relations:
-  - { rel: "related-to", to: "miti" }
-  - { rel: "related-to", to: "mida" }
-  - { rel: "related-to", to: "matrade" }
-  - { rel: "related-to", to: "ministry-of-economy-malaysia-plans" }
-  - { rel: "related-to", to: "ministry-of-finance-treasury" }
+  - title: "MITI — History and Background"
+    url: "https://www.miti.gov.my/index.php/pages/view/10337"
+    publisher: "Ministry of Investment, Trade and Industry (MITI)"
+  - title: "MITI — Vision, Mission, Corporate Philosophy, Objectives and Functions"
+    url: "https://www.miti.gov.my/index.php/pages/view/2047"
+    publisher: "Ministry of Investment, Trade and Industry (MITI)"
+  - title: "Ministry of Investment, Trade and Industry — official homepage"
+    url: "https://www.miti.gov.my/index.php"
+    publisher: "Ministry of Investment, Trade and Industry (MITI)"
+entity: "Ministry of Investment, Trade and Industry (Malaysia)"
+relations: []
 related: []
-keywords: ["MITI", "Ministry of Investment Trade and Industry", "Kementerian Pelaburan Perdagangan dan Industri", "MITI Malaysia", "Malaysia trade ministry", "NIMP 2030", "MIDA MATRADE"]
+keywords: ["MITI", "Ministry of Investment Trade and Industry", "MITI Malaysia", "Kementerian Pelaburan Perdagangan dan Industri", "MITI agencies", "MIDA", "MATRADE", "MPC", "MITI minister", "NIMP 2030", "Ministry of International Trade and Industry", "KPDN"]
 ---
 
-**Kementerian Pelaburan, Perdagangan dan Industri (MITI)** ialah kementerian persekutuan Malaysia yang bertanggungjawab merancang, menggubal dan melaksanakan dasar berkaitan pelaburan, perdagangan antarabangsa dan pembangunan perindustrian. Ringkasnya: MITI menetapkan peraturan dan strategi, merundingkan perjanjian perdagangan Malaysia, dan mengemudi hala tuju perindustrian negara — manakala agensi berkanunnya menjalankan kerja barisan hadapan untuk mempromosi dan meluluskan urusan pelaburan dan eksport tertentu.
+Perhatikan empat huruf itu dengan teliti dan anda akan nampak helahnya: **MITI** dahulu bermaksud Kementerian Perdagangan *Antarabangsa* dan Industri (Ministry of *International* Trade and Industry). Sejak April 2023, ia bermaksud Kementerian **Pelaburan**, Perdagangan dan Industri (Bahasa Malaysia: *Kementerian Pelaburan, Perdagangan dan Industri*) — akronim yang sama, satu perkataan yang berubah, mandat yang sedikit berubah. Inilah kementerian persekutuan Malaysia bagi pelaburan, perdagangan antarabangsa dan dasar perindustrian, dan halaman ini menerangkan apa yang dilakukannya, siapa yang menerajuinya, dan bagaimana ia berbeza daripada agensi-agensinya sendiri.
 
-## Apa yang dilakukan MITI
+## Apakah sebenarnya yang dilakukan MITI?
 
-Fungsi teras MITI merangkumi empat bidang luas: memacu pelaburan asing dan domestik, mempromosi eksport barangan pembuatan dan perkhidmatan Malaysia, merundingkan dan mentadbir perjanjian perdagangan dua hala, serantau dan pelbagai hala, serta membangunkan asas pembuatan dan perindustrian. Ia merupakan kementerian peraju bagi penyertaan Malaysia dalam blok dan pakatan perdagangan seperti Perkongsian Ekonomi Komprehensif Serantau (RCEP) dan Perjanjian Komprehensif dan Progresif bagi Perkongsian Trans-Pasifik (CPTPP).
+MITI ialah **kementerian pembuat dasar**, bukan kaunter perkhidmatan. Tanggungjawabnya merangkumi perdagangan antarabangsa, industri, pelaburan, produktiviti, perusahaan kecil dan sederhana, pembiayaan pembangunan, industri halal, automotif, keluli dan perdagangan strategik. Pada praktiknya, ini bermakna MITI menggubal peraturan dan strategi bagi cara Malaysia berdagang dan memperindustrian, manakala kerja operasi — meluluskan pelaburan, mempromosikan eksport — terletak pada agensi-agensinya.
 
-Kementerian ini ialah **badan dasar**, bukan kaunter perkhidmatan. Pelabur yang mencari lesen pembuatan atau insentif berurusan dengan MIDA; pengeksport yang mencari sokongan akses pasaran berurusan dengan MATRADE. MITI menyediakan rangka kerja yang menjadi ruang lingkup operasi agensi-agensi tersebut.
+Visi kementerian ini adalah "Malaysia sebagai destinasi pelaburan pilihan, negara perindustrian yang mampan dan negara perdagangan yang berdaya saing." Falsafah korporatnya berpaksikan lima nilai: Bangsa Didahulukan (Nation Before Self), Berkhidmat Dengan Dedikasi (Service With Dedication), Kecemerlangan Dalam Usaha (Excellence In Endeavour), Kejayaan Melalui Kerja Berpasukan (Success Through Team Work), dan Satu Kementerian Satu Aspirasi (One Ministry One Aspiration).
 
-## Penamaan semula 2023
+## Mengapa namanya berubah tetapi akronimnya kekal?
 
-Selama lebih tiga dekad kementerian ini dikenali sebagai **Kementerian Perdagangan Antarabangsa dan Industri**. Pada April 2023 Kabinet meluluskan penamaan semula kepada **Kementerian Pelaburan, Perdagangan dan Industri**, yang diumumkan secara umum pada 12 April 2023, untuk meletakkan pelaburan sebagai keutamaan. Oleh sebab kedua-dua nama disingkatkan kepada **MITI**, akronim itu dikekalkan — jadi empat huruf yang sama kini membawa mandat yang sedikit berbeza.
+Selama beberapa dekad, kementerian ini ialah **Kementerian Perdagangan Antarabangsa dan Industri**. Pada April 2023 ia dinamakan semula sebagai **Kementerian Pelaburan, Perdagangan dan Industri**, mengutamakan pelaburan sebagai keutamaan. Oleh sebab kedua-dua nama lama dan baharu diringkaskan sebagai **MITI**, akronim yang biasa itu dikekalkan — dan itulah sebabnya ramai orang terlepas pandang bahawa ada sesuatu yang berubah.
 
-## Agensi utama di bawah MITI
+Salasilahnya lebih mendalam daripada itu:
 
-MITI menyelia sekumpulan badan berkanun dan syarikat berkaitan kerajaan. Dua yang paling menonjol ialah:
-
-| Agensi | Peranan |
+| Tahun | Peristiwa Penting |
 | --- | --- |
-| **MIDA** (Lembaga Pembangunan Pelaburan Malaysia) | Mempromosi dan menilai pelaburan dalam sektor pembuatan dan perkhidmatan; pusat tumpuan bagi promosi pelaburan persekutuan sejak 1 Januari 2024. |
-| **MATRADE** (Perbadanan Pembangunan Perdagangan Luar Malaysia) | Agensi promosi eksport kebangsaan Malaysia, ditubuhkan di bawah Akta MATRADE 1992. |
+| April 1956 | Ditubuhkan sebagai Kementerian Perdagangan dan Perindustrian. |
+| Februari 1972 | Dinamakan semula sebagai Kementerian Perdagangan dan Industri. |
+| 27 Oktober 1990 | Dipecahkan kepada dua: MITI (perdagangan antarabangsa dan industri) dan KPDN (perdagangan dalam negeri dan hal ehwal pengguna). |
+| April 2023 | Dinamakan semula sebagai Kementerian Pelaburan, Perdagangan dan Industri, mengekalkan akronim MITI. |
 
-Badan lain dalam portfolio MITI termasuk Perbadanan Produktiviti Malaysia (MPC), SIRIM Berhad dan Jabatan Standard Malaysia (standard dan kualiti), Bank Eksport-Import Malaysia (EXIM Bank) dan Malaysian Industrial Development Finance (MIDF) untuk pembiayaan perdagangan dan perindustrian, serta institut sektor seperti Institut Keluli Malaysia.
+Pemecahan pada 1990 itulah sebabnya MITI dan **KPDN** merupakan kementerian yang berasingan hari ini: MITI mengendalikan perdagangan antarabangsa dan dasar perindustrian, manakala KPDN mengendalikan perdagangan dalam negeri dan hal ehwal pengguna.
 
-Mulai **1 Januari 2024**, MITI memusatkan fungsi promosi dan pemasaran pelaburan peringkat persekutuan di bawah MIDA, supaya pelbagai agensi promosi pelaburan tidak lagi bertindih antara satu sama lain dan pelabur berdepan dengan satu pintu masuk kebangsaan yang tunggal.
+## Apakah agensi yang berada di bawah MITI?
 
-## Dasar perindustrian: NIMP 2030
+MITI menyelia sekumpulan badan berkanun dan syarikat berkaitan kerajaan yang melaksanakan kerja barisan hadapan. Pelabur dan pengeksport umumnya berurusan dengan agensi-agensi ini dan bukannya dengan kementerian secara langsung:
 
-Pelan tindakan perindustrian utama MITI ialah **Pelan Induk Perindustrian Baharu 2030 (NIMP 2030)**, yang dilancarkan pada September 2023. Ia menetapkan hala tuju perindustrian Malaysia sehingga 2030 dengan menggunakan pendekatan berasaskan misi yang dibina berpaksikan empat misi — memajukan kerumitan ekonomi, transformasi digital, dorongan ke arah sifar bersih, dan melindungi keselamatan serta keterangkuman ekonomi. NIMP 2030 menyasarkan sekitar **RM95 bilion** jumlah pelaburan dan kira-kira **3.3 juta** pekerjaan sepanjang tempohnya.
+| Agensi | Tumpuan |
+| --- | --- |
+| **MIDA** — Lembaga Pembangunan Pelaburan Malaysia | Promosi dan penilaian pelaburan |
+| **MATRADE** — Perbadanan Pembangunan Perdagangan Luar Malaysia | Promosi eksport |
+| **MPC** — Perbadanan Produktiviti Malaysia | Produktiviti dan daya saing |
+| **MIDF** & **EXIM Bank** | Pembiayaan perindustrian dan perdagangan |
+| **SIRIM Berhad** & **Standards Malaysia (JSM)** | Piawaian, kualiti dan pensijilan |
+| **MARii**, **MSI**, **HDC**, **MRM**, **NAICO** | Automotif, keluli, halal dan badan sektor lain |
 
-## Kepimpinan
+## Siapa yang menerajui MITI, dan di mana ibu pejabatnya?
 
-MITI diketuai oleh seorang menteri Kabinet yang disokong oleh seorang timbalan menteri dan seorang ketua setiausaha. Dalam rombakan Kabinet Disember 2025, **Datuk Seri Johari Abdul Ghani** dilantik sebagai Menteri Pelaburan, Perdagangan dan Industri, dengan **Sim Tze Tzin** sebagai timbalan, menggantikan **Tengku Zafrul Abdul Aziz**, yang telah mengetuai kementerian itu sejak Disember 2022. Ibu pejabat kementerian ini ialah **Menara MITI** di No. 7, Jalan Sultan Haji Ahmad Shah, Kuala Lumpur, dalam pembangunan KL Metropolis.
+Sehingga **rombakan Kabinet Disember 2025**, MITI diterajui oleh **Datuk Seri Johari Abdul Ghani** sebagai Menteri, dengan **Sim Tze Tzin** sebagai Timbalan Menteri. Ibu pejabat kementerian ini ialah **Menara MITI**, No. 7, Jalan Sultan Haji Ahmad Shah, 50480 Kuala Lumpur, dan laman web rasminya ialah miti.gov.my.
+
+Dari segi kewangan, MITI menerima peruntukan sebanyak **RM1.898 bilion** di bawah Belanjawan 2026 untuk menerajui pelaksanaan **Pelan Induk Perindustrian Baharu 2030 (NIMP 2030)**, pelan tindakan perindustrian yang memandu hala tuju pembuatan dan perindustrian Malaysia.
 
 ## Apa yang seterusnya
 
-Jika anda sedang meneruskan aktiviti pelaburan atau eksport tertentu, langkah praktikal seterusnya ialah agensi yang berkaitan dan bukannya kementerian itu sendiri — lihat halaman tentang **MIDA** (kelulusan dan insentif pelaburan) dan **MATRADE** (promosi eksport). Untuk memahami bagaimana dasar perindustrian MITI sesuai dalam perancangan pembangunan Malaysia yang lebih luas, lihat **Kementerian Ekonomi** dan pelan-pelan nasionalnya.
+Jika anda sedang mengejar aktiviti pelaburan atau eksport tertentu, langkah praktikal seterusnya ialah **agensi** yang berkaitan dan bukannya kementerian itu sendiri — MIDA untuk pelaburan, MATRADE untuk eksport. Untuk memahami kedudukan MITI dalam kalangan kementerian ekonomi Malaysia, bandingkannya dengan **KPDN**, kementerian perdagangan dalam negeri yang berpisah daripadanya pada 1990.

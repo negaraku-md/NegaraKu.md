@@ -1,114 +1,116 @@
 ---
 topicId: "MY-GOV-0095"
-title: "投资、贸易及工业部（MITI）"
-seoTitle: "马来西亚 MITI：投资、贸易及工业部"
+title: "投资、贸易及工业部（MITI）：马来西亚贸易与投资的门户"
+seoTitle: "马来西亚投资贸易工业部（MITI）简介"
+socialTitle: "MITI 仍叫 MITI——但这个部门悄悄改变了它的含义"
 slug: "ministry-of-investment-trade-industry-miti"
 category: "government"
 subcategory: ["ministries"]
-summary: "负责制定马来西亚投资、贸易及工业政策、谈判自由贸易协定，并监管马来西亚投资发展局（MIDA）、马来西亚对外贸易发展局（MATRADE）等机构的联邦部门。"
+summary: "MITI 是马来西亚负责投资、国际贸易及工业政策的联邦部门——2023 年由国际贸易及工业部更名而来——统辖 MIDA、MATRADE 和 MPC 等机构，并推动 NIMP 2030 工业议程。"
 tier: "3"
 mode: "practical"
 contentType: "agency"
 sensitivity: "none"
-answer: "投资、贸易及工业部（MITI）是负责规划和落实投资、国际贸易与工业发展政策的马来西亚联邦部门。它制定政策并谈判贸易协定，而其法定机构——主要是负责投资的马来西亚投资发展局（MIDA）和负责出口的马来西亚对外贸易发展局（MATRADE）——则承担具体执行工作。该部在 2023 年更名前称为国际贸易及工业部，更名后仍沿用 MITI 这一缩写。其总部为位于吉隆坡的 Menara MITI（MITI 大厦）。"
+answer: "投资、贸易及工业部（MITI；马来文：Kementerian Pelaburan, Perdagangan dan Industri）是马来西亚负责投资、国际贸易及工业政策的联邦部门。它于 2023 年 4 月由国际贸易及工业部更名而来，但保留了相同的 MITI 缩写。MITI 制定政策并谈判贸易协定，而 MIDA 和 MATRADE 等机构则承担一线工作。其总部为吉隆坡的 Menara MITI。"
 keyTakeaways:
-  - "MITI 制定马来西亚的投资、贸易及工业政策，并主导自由贸易协定谈判；它本身并不审批个别的投资或出口交易。"
-  - "该部于 2023 年 4 月由“国际贸易及工业部”更名为“投资、贸易及工业部”，并保留了 MITI 缩写。"
-  - "其两大主导机构是负责投资促进与审批的 MIDA（马来西亚投资发展局），以及负责出口促进的 MATRADE（马来西亚对外贸易发展局）。"
-  - "自 2024 年 1 月 1 日起，MITI 将联邦层级的投资促进与推广职能集中归口于 MIDA，以消除投资者办事流程中的重复环节。"
-  - "2023 年 9 月推出的《2030 年新工业大蓝图》（NIMP 2030）是 MITI 的工业蓝图，目标为 950 亿令吉投资额和 330 万个就业岗位。"
-  - "拿督斯里佐哈里·阿卜杜勒·加尼（Datuk Seri Johari Abdul Ghani）在 2025 年 12 月的内阁改组中被任命为 MITI 部长，接替东姑扎夫鲁·阿卜杜勒·阿齐兹（Tengku Zafrul Abdul Aziz）。"
-appliesTo: "需要了解由马来西亚哪个机构制定贸易与工业政策，以及 MITI 与 MIDA、MATRADE 等机构关系的投资者、出口商、制造商、学生和研究人员。"
+  - "MITI 于 2023 年 4 月由「国际贸易及工业部」（Ministry of International Trade and Industry）更名为「投资、贸易及工业部」（Ministry of Investment, Trade and Industry），尽管「International」（国际）变成了「Investment」（投资），仍保留了 MITI 这一缩写。"
+  - "该部门的渊源可追溯至商业及工业部（1956 年 4 月）；它于 1990 年 10 月 27 日从国内贸易部门（KPDN）中分立出来。"
+  - "其职权范围涵盖国际贸易、工业、投资、生产力、中小企业、开发金融、清真（halal）、汽车、钢铁及战略性贸易。"
+  - "MITI 是政策机构；其下属机构包括 MIDA、MATRADE、MPC、MIDF、SIRIM、EXIM Bank、Standards Malaysia、MARii、MSI、HDC 和 NAICO。"
+  - "截至 2025 年 12 月的内阁改组，部长为拿督斯里佐哈里·阿都干尼（Datuk Seri Johari Abdul Ghani），副部长为沈志强（Sim Tze Tzin）。"
+  - "在 2026 年财政预算案下，MITI 获得 18.98 亿令吉（RM1.898 billion）拨款，以主导落实《2030 年新工业大蓝图》（NIMP 2030）。"
+appliesTo: "投资者、出口商、制造商、学生以及需要了解哪个联邦机构制定贸易与工业政策、以及 MITI 与其下属机构及 KPDN 有何区别的普通马来西亚人。"
 faq:
-  - q: "MITI、MIDA 和 MATRADE 有什么区别？"
-    a: "MITI 是负责政策的部门。MIDA 是促进和审批制造业与服务业投资的法定机构。MATRADE 是在海外促进马来西亚出口的机构。MIDA 与 MATRADE 均在 MITI 之下运作。"
+  - q: "MITI 与 MIDA、MATRADE 等下属机构有何区别？"
+    a: "MITI 是政策部门——它制定战略并谈判贸易协定。MIDA（马来西亚投资发展局）和 MATRADE（马来西亚对外贸易发展局）是隶属于 MITI 的机构，分别负责推动投资和出口。"
   - q: "为什么 MITI 更名后仍沿用相同的缩写？"
-    a: "该部于 2023 年 4 月由“国际贸易及工业部”（International Trade and Industry）改为“投资、贸易及工业部”（Investment, Trade and Industry），以突出投资这一重点。由于两个名称的缩写都是 MITI，因此保留了该缩写，这一变化很容易被忽略。"
-  - q: "我要向 MITI 申请投资优惠吗？"
-    a: "不需要。制造业执照和投资优惠的申请应递交给 MIDA，由其在 MITI 制定的政策框架下评估和处理。自 2024 年 1 月 1 日起，MIDA 是联邦投资促进的归口单位。"
+    a: "2023 年 4 月，该部门由「国际贸易及工业」更名为「投资、贸易及工业」，以突出投资的重要性。由于新旧名称的缩写都是 MITI，因此保留了这一缩写，这也是这次更名容易被忽略的原因。"
 lang: "zh"
-sourceContentHash: "060bdf3f22afea0c"
 masterLanguage: "en"
 translationStatus: "in-sync"
+sourceContentHash: "f325297c1a8f4c21"
 status: "in-review"
 aiAssisted: true
 reviewer: null
-version: "0.1"
+version: "0.2"
 revisions:
   - version: "0.1"
     date: 2026-08-10
     change: "Initial AI draft."
     reviewer: null
+  - version: "0.2"
+    date: 2026-08-14
+    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
+    reviewer: null
 verificationNeeded:
-  - "The exact rename date is given differently across sources (Cabinet approval on 5 April 2023 vs. public announcement on 12 April 2023); both are reflected in the text but the precise gazette/effective date was not confirmed against an official instrument."
-  - "The full current roster and exact legal form of every agency under MITI was not verified against each agency's own enabling statute; only the principal agencies are named."
-updated: 2026-08-10
+  - "Exact effective/gazette date of the 2023 rename — the Cabinet decision was reported as 5 April 2023 while some sources cite 12 April 2023 as effective; the precise gazette date was not confirmed against a primary instrument."
+  - "Exact appointment/gazette dates for the current Minister (Johari Abdul Ghani) and Deputy Minister (Sim Tze Tzin) from the December 2025 reshuffle."
+  - "The definitive current count and full official list of agencies under MITI — sources vary between roughly 8 and 14 entities and some shift over time."
+  - "NIMP 2030 official launch date and headline targets."
+  - "Current employee/staff headcount (the dated 2017 figure of 959 was not used)."
+  - "Everyday public touchpoints often attributed to MITI (Certificate of Origin endorsement, Approved Permit applications) were not confirmed against a primary source in the pack and are therefore omitted from the body."
+updated: 2026-08-14
 sources:
-  - title: "Ministry of Investment, Trade and Industry — official portal"
-    url: "https://www.miti.gov.my/index.php"
-    publisher: "Ministry of Investment, Trade and Industry (MITI)"
-  - title: "MITI renamed investment, trade and industry ministry"
-    url: "https://paultan.org/2023/04/13/miti-renamed-investment-trade-and-industry-ministry/"
-    publisher: "Paul Tan's Automotive News"
-  - title: "MITI: Investment promotion agencies' functions to be centralised under MIDA on Jan 1, 2024"
-    url: "https://www.mida.gov.my/mida-news/miti-investment-promotion-agencies-functions-to-be-centralised-under-mida-on-jan-1-2024/"
-    publisher: "Malaysian Investment Development Authority (MIDA)"
-  - title: "Launch of the New Industrial Master Plan 2030 (NIMP 2030)"
-    url: "https://www.mida.gov.my/launch-of-the-new-industrial-master-plan-2030-nimp-2030/"
-    publisher: "Malaysian Investment Development Authority (MIDA)"
-  - title: "Speech by PM Anwar for the launch of the New Industrial Master Plan 2030 (NIMP 2030)"
-    url: "https://www.pmo.gov.my/2023/09/speech-by-pm-anwar-for-the-launch-of-the-new-industrial-master-plan-2030-nimp-2030/"
-    publisher: "Prime Minister's Office of Malaysia"
-  - title: "Johari Ghani appointed as new MITI minister in cabinet reshuffle"
-    url: "https://paultan.org/2025/12/16/johari-ghani-appointed-as-new-miti-minister-in-cabinet-reshuffle-akmal-nasir-is-new-economy-minister/"
-    publisher: "Paul Tan's Automotive News"
   - title: "Ministry of Investment, Trade and Industry (Malaysia)"
     url: "https://en.wikipedia.org/wiki/Ministry_of_Investment,_Trade_and_Industry_(Malaysia)"
     publisher: "Wikipedia"
-entity: "Ministry of Investment, Trade and Industry (MITI), Malaysia"
-relations:
-  - { rel: "related-to", to: "miti" }
-  - { rel: "related-to", to: "mida" }
-  - { rel: "related-to", to: "matrade" }
-  - { rel: "related-to", to: "ministry-of-economy-malaysia-plans" }
-  - { rel: "related-to", to: "ministry-of-finance-treasury" }
+  - title: "MITI — History and Background"
+    url: "https://www.miti.gov.my/index.php/pages/view/10337"
+    publisher: "Ministry of Investment, Trade and Industry (MITI)"
+  - title: "MITI — Vision, Mission, Corporate Philosophy, Objectives and Functions"
+    url: "https://www.miti.gov.my/index.php/pages/view/2047"
+    publisher: "Ministry of Investment, Trade and Industry (MITI)"
+  - title: "Ministry of Investment, Trade and Industry — official homepage"
+    url: "https://www.miti.gov.my/index.php"
+    publisher: "Ministry of Investment, Trade and Industry (MITI)"
+entity: "Ministry of Investment, Trade and Industry (Malaysia)"
+relations: []
 related: []
-keywords: ["MITI", "Ministry of Investment Trade and Industry", "Kementerian Pelaburan Perdagangan dan Industri", "MITI Malaysia", "Malaysia trade ministry", "NIMP 2030", "MIDA MATRADE"]
+keywords: ["MITI", "Ministry of Investment Trade and Industry", "MITI Malaysia", "Kementerian Pelaburan Perdagangan dan Industri", "MITI agencies", "MIDA", "MATRADE", "MPC", "MITI minister", "NIMP 2030", "Ministry of International Trade and Industry", "KPDN"]
 ---
 
-**投资、贸易及工业部（MITI）**是负责规划、制定和落实投资、国际贸易与工业发展政策的马来西亚联邦部门。简言之：MITI 制定规则与战略，谈判马来西亚的贸易协定，并引领国家的工业发展方向——而具体促进和审批个别投资与出口交易的一线工作则由其法定机构承担。
+仔细看这四个字母，你会发现其中的玄机：**MITI** 从前代表的是「国际」（*International*）贸易及工业部。自 2023 年 4 月起，它代表的是**投资**（Investment）、贸易及工业部（马来文：*Kementerian Pelaburan, Perdagangan dan Industri*）——相同的缩写，改了一个词，职权也略有变化。这是马来西亚负责投资、国际贸易及工业政策的联邦部门，本页将说明它的职责、由谁掌管，以及它与自身下属机构有何区别。
 
-## MITI 的职能
+## MITI 到底做什么？
 
-MITI 的核心职能涵盖四大领域：推动外来与国内投资、促进马来西亚制成品和服务的出口、谈判并管理双边、区域及多边贸易协定，以及发展制造业和工业基础。它是马来西亚参与《区域全面经济伙伴关系协定》（RCEP）和《全面与进步跨太平洋伙伴关系协定》（CPTPP）等贸易集团及协定的主导部门。
+MITI 是一个**政策部门**，而非服务柜台。它的职责涵盖国际贸易、工业、投资、生产力、中小企业、开发金融、清真（halal）产业、汽车、钢铁及战略性贸易。这在实践中意味着，MITI 负责制定马来西亚如何进行贸易与工业化的规则与战略，而具体的操作工作——审批投资、推动出口——则由其下属机构承担。
 
-该部是一个**政策机构**，而非办事窗口。寻求制造业执照或优惠的投资者应与 MIDA 打交道；寻求市场准入支持的出口商应与 MATRADE 打交道。MITI 提供这些机构运作所依据的框架。
+该部门所宣示的愿景是「让马来西亚成为首选的投资目的地、可持续的工业国及具竞争力的贸易国」。其企业理念贯穿五项价值观：国家至上（Nation Before Self）、尽忠服务（Service With Dedication）、力求卓越（Excellence In Endeavour）、团队致胜（Success Through Team Work）以及一部一愿景（One Ministry One Aspiration）。
 
-## 2023 年更名
+## 为什么名称改了、缩写却不变？
 
-三十多年来，该部一直是**国际贸易及工业部**。2023 年 4 月，内阁批准将其更名为**投资、贸易及工业部**，并于 2023 年 4 月 12 日公开宣布，以将投资置于核心位置。由于两个名称都缩写为 **MITI**，因此保留了该缩写——于是这四个熟悉的字母如今代表着略有不同的职责范围。
+数十年来，该部门一直是**国际贸易及工业部**（Ministry of International Trade and Industry）。2023 年 4 月，它更名为**投资、贸易及工业部**（Ministry of Investment, Trade and Industry），把投资凸显为优先事项。由于新旧名称的缩写都是 **MITI**，因此保留了这个熟悉的缩写——这也正是许多人没有察觉到任何变化的原因。
 
-## MITI 属下的主要机构
+其沿革比这更为久远：
 
-MITI 监管着一系列法定机构和政府相关公司。其中最突出的两个是：
-
-| 机构 | 职责 |
+| 年份 | 里程碑 |
 | --- | --- |
-| **MIDA**（马来西亚投资发展局） | 促进和评估制造业与服务业的投资；自 2024 年 1 月 1 日起成为联邦投资促进的归口单位。 |
-| **MATRADE**（马来西亚对外贸易发展局） | 马来西亚的国家出口促进机构，根据《1992 年 MATRADE 法令》设立。 |
+| 1956 年 4 月 | 成立为商业及工业部（Ministry of Commerce and Industry）。 |
+| 1972 年 2 月 | 更名为贸易及工业部（Ministry of Trade and Industry）。 |
+| 1990 年 10 月 27 日 | 一分为二：MITI（国际贸易及工业）与 KPDN（国内贸易及消费人事务）。 |
+| 2023 年 4 月 | 更名为投资、贸易及工业部，保留 MITI 缩写。 |
 
-MITI 职责范围内的其他机构还包括马来西亚生产力机构（MPC）、SIRIM Berhad 和马来西亚标准局（负责标准与质量）、马来西亚进出口银行（EXIM Bank）和马来西亚工业发展金融机构（MIDF）（负责贸易与工业融资），以及马来西亚钢铁研究院等行业研究机构。
+正是 1990 年的这次分立，使得 MITI 与 **KPDN** 至今仍是两个独立的部门：MITI 掌管国际贸易与工业政策，而 KPDN 掌管国内贸易与消费人事务。
 
-自 **2024 年 1 月 1 日**起，MITI 将联邦层级的投资促进与推广职能集中归口于 MIDA，使各投资促进机构不再彼此重复，投资者也面对单一的国家入口。
+## MITI 下辖哪些机构？
 
-## 工业政策：NIMP 2030
+MITI 统辖一批负责一线工作的法定机构与政府关联公司。投资者和出口商通常直接与这些机构打交道，而非与部门本身：
 
-MITI 的旗舰工业蓝图是 2023 年 9 月推出的**《2030 年新工业大蓝图》（NIMP 2030）**。它以任务导向的方式确定马来西亚至 2030 年的工业方向，围绕四项任务展开——提升经济复杂度、数字化转型、推进净零排放，以及保障经济安全与包容性。NIMP 2030 的目标是在其涵盖期内实现约 **950 亿令吉**的总投资额和约 **330 万**个就业岗位。
+| 机构 | 职能重点 |
+| --- | --- |
+| **MIDA** — 马来西亚投资发展局 | 投资推广与评估 |
+| **MATRADE** — 马来西亚对外贸易发展局 | 出口推广 |
+| **MPC** — 马来西亚生产力机构 | 生产力与竞争力 |
+| **MIDF** 与 **EXIM Bank** | 工业与贸易融资 |
+| **SIRIM Berhad** 与 **Standards Malaysia（JSM）** | 标准、品质与认证 |
+| **MARii**、**MSI**、**HDC**、**MRM**、**NAICO** | 汽车、钢铁、清真及其他领域机构 |
 
-## 领导层
+## MITI 由谁掌管，总部设在哪里？
 
-MITI 由一名内阁部长领导，并由一名副部长和一名秘书长辅助。在 2025 年 12 月的内阁改组中，**拿督斯里佐哈里·阿卜杜勒·加尼（Datuk Seri Johari Abdul Ghani）**被任命为投资、贸易及工业部部长，**沈志勤（Sim Tze Tzin）**任副部长，接替自 2022 年 12 月起领导该部的**东姑扎夫鲁·阿卜杜勒·阿齐兹（Tengku Zafrul Abdul Aziz）**。该部总部为位于吉隆坡 No. 7, Jalan Sultan Haji Ahmad Shah、坐落于 KL Metropolis 发展区内的 **Menara MITI（MITI 大厦）**。
+截至 **2025 年 12 月的内阁改组**，MITI 由**拿督斯里佐哈里·阿都干尼**（Datuk Seri Johari Abdul Ghani）担任部长，**沈志强**（Sim Tze Tzin）担任副部长。该部门的总部为 **Menara MITI**，地址是 No. 7, Jalan Sultan Haji Ahmad Shah, 50480 Kuala Lumpur，官方网站为 miti.gov.my。
+
+在资金方面，MITI 在 2026 年财政预算案下获得 **18.98 亿令吉（RM1.898 billion）** 拨款，以主导落实**《2030 年新工业大蓝图》（New Industrial Master Plan 2030，NIMP 2030）**——这是指引马来西亚制造业与工业方向的工业蓝图。
 
 ## 下一步
 
-如果你正在开展某项具体的投资或出口活动，实际的下一步是相关机构而非部门本身——请参阅关于 **MIDA**（投资审批与优惠）和 **MATRADE**（出口促进）的页面。关于 MITI 的工业政策如何融入马来西亚更广泛的发展规划，请参阅**经济部**及其国家计划。
+如果你正在推进某项具体的投资或出口活动，务实的下一步是找相关的**机构**，而非部门本身——投资找 MIDA，出口找 MATRADE。若要了解 MITI 在马来西亚各经济部门中的定位，可将它与 1990 年从中分立出来的国内贸易部门 **KPDN** 作比较。

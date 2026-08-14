@@ -1,100 +1,103 @@
 ---
 topicId: "MY-LAW-0098"
-title: "1976年地方政府法令"
-seoTitle: "1976年地方政府法令（第171号法令）：马来西亚指南"
+title: "1976年地方政府法令：马来西亚委任制议会背后的法律"
+seoTitle: "1976年地方政府法令（Act 171）解析"
+socialTitle: "为什么马来西亚人不能投票选出自己的市长？都怪这部1976年的法律"
 slug: "local-government-act-1976"
 category: "law"
-subcategory: ["local-government"]
-summary: "马来西亚第171号法令，修订并整合了有关地方当局的法律，规范马来西亚半岛地方议会的设立、运作与财务。"
+subcategory: ["key-acts"]
+summary: "1976年地方政府法令（Act 171）是构成、赋权并资助马来西亚半岛每一个市政厅、市议会和县议会的法规——也是以州政府委任的议员取代民选地方议会的法律。"
 tier: "3"
 mode: "practical"
 contentType: "law"
 sensitivity: "none"
-answer: "1976年地方政府法令（第171号法令）是修订并整合马来西亚半岛地方政府法律的联邦法规。它授权各州政府（State Authority）划定地方当局辖区、确定其为市议会（Municipal Council）或县议会（District Council）的地位，并委任议员；同时赋予地方当局管理公共场所、卫生、执照、附例（by-laws）以及对产业征收门牌税（assessment rates）的权力。该法令于1976年3月25日生效，不适用于沙巴与砂拉越，这两州各自拥有本身的地方政府法令。"
+answer: "1976年地方政府法令（Act 171）是修订并整合马来西亚半岛地方政府相关法律的联邦法规。它让各州权威机构（State Authority）得以宣布某一地区为地方政府机构、确定其为市议会（Municipal Council）或县议会（District Council）的地位，并委任管理该机构的议员——同时它也是终结地方政府选举的法律，因此没有马来西亚人可以投票选出市长或议员。该法令于1976年3月18日获御准，并依其本身条文规定仅适用于马来西亚半岛；沙巴和砂拉越有各自的法令。"
 keyTakeaways:
-  - "第171号法令由下议院（Dewan Rakyat）于1975年12月18日、上议院（Dewan Negara）于1976年1月20日通过，1976年3月18日获御准，并于1976年3月25日生效。"
-  - "在重印文本中，该法令分为16个部分（Parts），共166条（sections）与2个附表（schedules），涵盖行政、职员、财务、公共场所、卫生、附例与征税等内容。"
-  - "根据第3条（section 3），州政府划定某区域为地方当局辖区，并确定其为市议会或县议会的地位。"
-  - "第10条（section 10）规定设有市长（Mayor）或主席（President），以及不少于八名、不多于二十四名的受委议员；由于选举条文已依第15条（section 15）中止，故不存在民选地方议会。"
-  - "第十五部分（Part XV，征税与估价）允许地方当局依第127条（section 127）征收门牌税，一般以产业单位（holding）的年值（annual value）为基础（柔佛州采用改良值 improved value）。"
-appliesTo: "居民、纳税人、产业业主、议员、规划与法律系学生，以及任何与马来西亚半岛的市、市议会或县议会打交道的人士。"
+  - "第1(1)条规定本法令仅适用于马来西亚半岛——纠正了网络上常见的「适用于全国」的说法；沙巴和砂拉越使用各自独立的法令（1961年地方政府法令（Local Government Ordinance 1961）与1996年地方权威机构法令（Local Authority Ordinance 1996））。"
+  - "第15(1)条规定所有与地方政府选举相关的条文均停止生效——这是马来西亚委任制、非民选议会的法定依据。"
+  - "第10条规定一个议会由一名市长（Mayor）或主席（President）加上8至24名由州权威机构委任的议员组成，每人任期不超过三年。"
+  - "第十五编（Part XV）让议会得以依第127条征收门牌税（cukai pintu，即评估税），第十三编（Part XIII）则让议会得以制定并执行附有罚则、经州权威机构确认的附例（by-laws）。"
+  - "以整合形式而言，该法令共有16编（Parts）、166条（sections）和2份附表（schedules），至今已修订七次，包括1988年消防服务法令（Fire Services Act 1988）删除了原有的第十编（Part X）。"
+appliesTo: "居民、纳税人与业主、议员、规划与法律系学生，以及任何与马来西亚半岛的市政厅、市议会或县议会打交道的人。"
 faq:
+  - q: "为什么我不能投票选出我的市长或地方议员？"
+    a: "因为Act 171第15(1)条规定所有与地方政府选举相关的条文均停止生效，而第10条使每一名议员都成为州权威机构的委任人。地方政府列于联邦宪法的州事项清单（State List）之下，因此属于州的事务。"
   - q: "1976年地方政府法令适用于沙巴和砂拉越吗？"
-    a: "不适用。第171号法令规管马来西亚半岛的地方当局。沙巴适用《1961年地方政府法令》（Local Government Ordinance 1961），砂拉越适用《1996年地方当局法令》（Local Authorities Ordinance 1996）。"
-  - q: "地方议员是根据第171号法令选举产生的吗？"
-    a: "不是。议员由州政府依第10条委任。地方政府选举条文已依第15条中止，因此马来西亚的议会是受委任的，而非民选的。"
-  - q: "议会征收门牌税的法律依据是什么？"
-    a: "法令的第十五部分（Part XV）。第127条授权地方当局在获得州政府批准后，对其辖区内的产业单位征税，一般以产业的年值计算。"
+    a: "不适用。第1(1)条规定本法令仅适用于马来西亚半岛。沙巴使用1961年地方政府法令（Local Government Ordinance 1961），砂拉越使用1996年地方权威机构法令（Local Authority Ordinance 1996）。"
+  - q: "议会征收评估税的法律依据是什么？"
+    a: "第十五编（Part XV，评估与估价）。第127条赋权地方政府机构对其辖区内的产业（holdings）征税，评估基准载于第130条。"
 lang: "zh"
-sourceContentHash: "383735c6b9588a1d"
 masterLanguage: "en"
 translationStatus: "in-sync"
+sourceContentHash: "0dbf40c3c9364919"
 status: "in-review"
 aiAssisted: true
 reviewer: null
-version: "0.1"
+version: "0.2"
 revisions:
   - version: "0.1"
     date: 2026-08-10
     change: "Initial AI draft."
     reviewer: null
+  - version: "0.2"
+    date: 2026-08-14
+    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
+    reviewer: null
 verificationNeeded:
-  - "Exact territorial-extent wording: sources conflict between 'throughout Malaysia' (Wikipedia infobox) and the practical position that Act 171 applies to Peninsular Malaysia only. Confirm against the reprint's application clause."
-  - "Current national count of local authorities (approx. 19 city, 40 municipal, 91 district councils cited to Wikipedia) — confirm against a KPKT/JKT figure; note this national total spans Sabah and Sarawak, which are outside Act 171."
-  - "Section count '166 sections, 2 schedules, 16 Parts' is quoted from secondary summaries of the reprint as at 1 Dec 2012; confirm against the current AGC reprint."
-updated: 2026-08-10
+  - "Exact current number and breakdown of local authorities (city vs municipal vs district councils) for 2024–2026 — JKT/KPKT listed 155 PBT as of Aug 2021; the count and city-status upgrades change over time."
+  - "Precise historical date local-government elections were suspended (commonly cited as 1 March 1965) and the roles of the Athi Nahappan Royal Commission and the Local Government (Temporary Provisions) Act 1973 — confirm against a primary source before stating."
+  - "The definitive count of amending Acts and whether any amendments to Act 171 exist after 2007."
+  - "Official criteria/thresholds (population, annual revenue) for conferring City or Municipal status — needs an official KPKT source."
+  - "Exact number of Parts/sections/schedules in the most current in-force reprint (Wikipedia states 16 Parts/166 sections/2 schedules as of 1 Dec 2012; verify no structural change since)."
+updated: 2026-08-14
 sources:
-  - title: "Act 171 — Local Government Act 1976 (official reprint, PDF)"
-    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20171%20-%20Local%20Government%20Act%201976.pdf"
-    publisher: "Attorney General's Chambers of Malaysia (Laws of Malaysia)"
+  - title: "Laws of Malaysia, Act 171 Local Government Act 1976 (official reprint incorporating amendments up to 1 January 2006)"
+    url: "https://www.doa.gov.my/doa/resources/info_doa/akta171_kerajaan_tempatan_1976.pdf"
+    publisher: "Commissioner of Law Revision, Malaysia"
   - title: "Local Government Act 1976"
     url: "https://en.wikipedia.org/wiki/Local_Government_Act_1976"
     publisher: "Wikipedia"
-  - title: "Local Government Act 1976 — Part 1"
-    url: "https://www.lowpartners.com/local-government-act-1976-part-1/"
-    publisher: "Low & Partners"
-  - title: "Rating — Valuation and Property Services Department"
-    url: "https://www.jpph.gov.my/v3/en/jpph-business/valuation-and-property-services-activity/rating/"
-    publisher: "Jabatan Penilaian dan Perkhidmatan Harta (JPPH)"
   - title: "Concept of Local Government"
     url: "https://jkt.kpkt.gov.my/aboud-lgd/lgd-info/concept-of-local-government"
-    publisher: "Jabatan Kerajaan Tempatan, KPKT"
+    publisher: "Jabatan Kerajaan Tempatan (Department of Local Government), KPKT"
+  - title: "Federal Constitution of Malaysia (Reprint) — Article 95A and Ninth Schedule, State List"
+    url: "https://lom.agc.gov.my/federal-constitution.php"
+    publisher: "Attorney General's Chambers of Malaysia (AGC)"
 entity: "Local Government Act 1976 (Act 171)"
 relations: []
 related: []
-keywords: ["Local Government Act 1976", "Act 171", "LGA 1976", "Akta Kerajaan Tempatan 1976", "local authority Malaysia", "PBT", "assessment rates", "cukai taksiran", "municipal council", "district council"]
+keywords: ["Local Government Act 1976", "Act 171", "Akta Kerajaan Tempatan 1976", "local authority Malaysia", "PBT", "Pihak Berkuasa Tempatan", "majlis perbandaran", "majlis daerah", "assessment tax", "cukai pintu", "local council elections Malaysia", "appointed councillors", "National Council for Local Government", "third vote Malaysia"]
 ---
 
-**1976年地方政府法令（第171号法令）**是修订并整合**马来西亚半岛**地方政府法律的联邦法规。它规定了地方当局如何设立、配置人员、筹措资金及被赋予权力——从公共场所与卫生的管理，到议会对产业征收的门牌税。该法令于1976年3月18日获御准，并于**1976年3月25日**生效。它不延伸适用于沙巴或砂拉越，这两州保留各自的地方政府法令。
+如果你曾经好奇为什么马来西亚的选票上从未列出市长候选人，答案就是一部法规。**1976年地方政府法令（Act 171）**——长标题为「修订并整合地方政府相关法律的法令」——是构成马来西亚半岛每一个市政厅、市议会和县议会的法律，委任管理它们的人选，并赋予它们向你征税与罚款的权力。它于**1976年3月18日**获御准，并于1976年3月25日刊宪。尽管网络上多数说法有所不同，**第1(1)条规定本法令仅适用于马来西亚半岛**；沙巴和砂拉越保留各自的法令。
 
-## 立法与结构
+## 为什么议员是委任而非民选的？
 
-国会于1975年12月18日在下议院（Dewan Rakyat）、1976年1月20日在上议院（Dewan Negara）通过该法案。其长题（long title）简单地写为“一项修订并整合有关地方政府法律的法令”，取代了此前包括各州市镇局法令（Town Boards Enactments）与《1952年地方议会法令》（Local Councils Ordinance 1952）在内的零散法律。
+这是该法令最具影响力的特点。**第15(1)条**规定所有与地方政府选举相关的条文「应停止具有效力」，第15(2)条则罢免了当时在任的民选议员。取而代之的是，**第10条**规定议会由**一名市长或主席，加上不少于八名、不多于二十四名由州权威机构委任的议员**组成，每人任期不超过三年。这正是长期以来「恢复地方选举」或「第三张选票」争论的法定根源。
 
-在重印形式下，该法令共有**16个部分、166条与2个附表**，涵盖行政、官员与雇员、议事程序、财务、账目与审计、公共场所、河流污染、食品与卫生、消防服务、坟场、附例、其他权力，以及征税与估价。
+这也契合宪法的设计：根据联邦宪法的**第九附表，地方政府——包括地方政府机构、地方税率以及地方政府选举——列于州事项清单（State List）之下**，使其主要成为州的事务。第95A条另设立了一个**全国地方政府理事会（National Council for Local Government）**，由一名部长主持，每州各派一名代表，负责制定全国政策。
 
-## 何谓“地方当局”
+## 何谓「地方政府机构」？
 
-根据**第3条**，州政府（State Authority）——在咨询部长及选举委员会后——可宣布某区域为**地方当局辖区**，并确定其地位为**市议会**（Municipal Council）或**县议会**（District Council）。市（City）地位是另行授予的更高等级，因此常见的三个层级为市、市议会与县议会，在马来文中统称为*Pihak Berkuasa Tempatan*（PBT，地方当局）。
+第2条将**地方政府机构（local authority）**定义为任何市政厅（City Council）、市议会（Municipal Council）或县议会（District Council）（在联邦直辖区则为吉隆坡市专员，Commissioner of the City of Kuala Lumpur）。**市政厅**是指获授予城市地位的市镇之议会。根据**第3条**，州权威机构在咨询部长与选举委员会后，得以通过宪报宣布某一地区为地方政府机构、为其命名、划定其边界，并确定其为市议会或县议会的地位。
 
-| 项目 | 条文 |
+| 问题 | 条文 |
 |---|---|
-| 划定辖区与地位 | 第3条 |
-| 州政府的一般指示 | 第9条 |
-| 议会的组成 | 第10条 |
-| 中止地方选举 | 第15条 |
-| 对产业单位征收门牌税 | 第127条（第十五部分） |
+| 该法令在哪里适用？ | 第1条——仅限马来西亚半岛 |
+| 谁创立议会并确定其地位？ | 第3条 |
+| 议会如何组成？ | 第10条——市长/主席 + 8至24名委任者 |
+| 为什么没有选举？ | 第15条 |
+| 附例与罚则 | 第十三编（第102–106条） |
+| 评估税率 | 第十五编——第127条（基准见第130条） |
 
-## 议员是受委任的，而非民选的
+## 议会到底能如何影响你的日常生活？
 
-**第10(1)条**规定，地方当局由一名市长或主席，以及**不少于八名、不多于二十四名、由州政府委任的议员**组成。第10(2)条要求受委者须为该辖区居民且具备相关经验。因此马来西亚的地方议会属于**受委任机构**：**第15条**中止了有关地方政府选举的条文，此后再未举行过议会层级的选举。根据**第9条**，州政府亦可向地方当局发出一般性质的指示，地方当局必须遵从。
+该法令中有两编触及大多数居民的生活。**第十五编（评估与估价，Rating and Valuation）**让地方政府机构得以依第127条对其辖区内的产业（holdings）征收**税率——即评估税，或*门牌税（cukai pintu）***，评估基准载于第130条。**第十三编**赋予议会**制定附例（by-laws）**的一般权力，这些附例须经州权威机构确认（第103条），并可对违例者附加罚则（第104条）。两者共同构成了议会所执行的执照、市场、卫生与公共场所规则的基础。
 
-## 权力、附例与财务
+## 该法令有多大、多久了？
 
-该法令赋予地方当局广泛职能——公共场所的管理与照料、卫生与垃圾处理服务、市场、行业与场所的执照发放，以及建筑管制。第十三部分（Part XIII）允许议会制定**附例**（by-laws，须经州政府确认）并附加罚则，而第十二部分（Part XII）的其他权力则支撑日常行政。
+以整合形式而言，该法令共有**16编、166条和2份附表**。它于1975年12月18日经下议院（Dewan Rakyat）通过，1976年1月20日经上议院（Dewan Negara）通过，此后已修订七次——包括1978、1983、1991、1993与2007年的地方政府（修正）法令，以及1988年消防服务法令（Fire Services Act 1988，删除了该法令原有的第十编）。在全国范围内，地方政府局（JKT）曾引用一份载有**155个地方政府机构（PBT）**的名单，与砂拉越（1996年地方权威机构法令）和沙巴（1961年地方政府法令）的平行体系并存。
 
-议会的资金主要来自**门牌税**（“cukai taksiran”）。第十五部分（征税与估价）——主要是**第127条**——允许地方当局在获得州政府批准后，对其辖区内的**产业单位**（holdings）征税。税额一般按产业的**年值**（annual value，即其可获得的估计年租金）计算，但柔佛州除外，该州采用**改良值**（improved value）。
+## 接下来
 
-## 下一步
-
-若想了解议会如何嵌入州与联邦层级之下的更宏观图景，可参阅任何有关马来西亚地方政府的概览，以及房屋及地方政府部（KPKT）的角色。纳税人若想查核或反对某项估价，应查阅所属议会的估价册，以及第十五部分下的通知与反对程序。
+若要对估价或评估账单提出异议，请依循第十五编及你所属议会估价册中的通知与异议程序。若要了解议会在州与联邦层级之下的位置，接下来可参阅房屋及地方政府部（KPKT）以及第95A条之下的全国地方政府理事会。

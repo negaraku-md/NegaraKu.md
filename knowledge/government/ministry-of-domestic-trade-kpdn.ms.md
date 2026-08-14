@@ -1,112 +1,134 @@
 ---
 topicId: "MY-GOV-0094"
 title: "Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup (KPDN)"
-seoTitle: "KPDN: Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup"
+seoTitle: "KPDN: Kementerian Perdagangan Dalam Negeri"
+socialTitle: "Ditipu peniaga? Inilah kementerian yang bertugas membela anda"
 slug: "ministry-of-domestic-trade-kpdn"
 category: "government"
-subcategory: ["federal-ministry"]
-summary: "Kementerian persekutuan yang mengawal selia perdagangan dalam negeri, mengawal harga barang keperluan asas, dan melindungi pengguna di Malaysia."
+subcategory: ["ministries"]
+summary: "KPDN ialah kementerian persekutuan Malaysia bagi perdagangan dalam negeri, perlindungan pengguna dan kawalan kos sara hidup — menguatkuasakan undang-undang harga dan anti-pencatutan serta menyelia agensi seperti SSM, MyIPO dan MyCC."
 tier: "3"
 mode: "practical"
 contentType: "agency"
 sensitivity: "none"
-answer: "Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup (KPDN) ialah kementerian persekutuan Malaysia yang bertanggungjawab ke atas perdagangan dalam negeri, perlindungan pengguna, kawalan harga barang keperluan asas, francais, dan koperasi. Berpunca daripada penyusunan semula pada 27 Oktober 1990 yang memisahkannya daripada MITI, ia mengambil nama semasanya dan fokus kos sara hidup pada 3 Disember 2022. Ia menguatkuasakan undang-undang seperti Akta Kawalan Harga dan Antipencatutan 2011 dan menyelia agensi termasuk Suruhanjaya Syarikat (SSM) dan Suruhanjaya Persaingan Malaysia (MyCC)."
+answer: "Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup (KPDN) ialah kementerian persekutuan Malaysia yang bertanggungjawab membangunkan perdagangan dalam negeri, mengawal harga barangan keperluan, dan melindungi pengguna. Ditubuhkan pada 27 Oktober 1990, ia menguatkuasakan undang-undang seperti Akta Kawalan Harga dan Anti-Pencatutan 2011 dan Akta Kawalan Bekalan 1961, menyelia agensi termasuk SSM, MyIPO dan MyCC, serta mengendalikan saluran aduan dan tribunal pengguna RM50,000 yang digunakan oleh pembeli biasa apabila ditipu oleh peniaga."
 keyTakeaways:
-  - "KPDN berpunca daripada 27 Oktober 1990, apabila portfolio perdagangan dalam negeri dipisahkan daripada apa yang kemudiannya menjadi MITI; ia dinamakan semula untuk menambah 'Kos Sara Hidup' pada 3 Disember 2022."
-  - "Ia mengawal selia perdagangan dalam negeri, memantau dan mengawal harga barang keperluan asas, menyelia sukatan dan timbang, serta menjalankan program perlindungan pengguna dan kepenggunaan."
-  - "Undang-undang teras yang ditadbirnya termasuk Akta Kawalan Harga dan Antipencatutan 2011, Akta Perlindungan Pengguna 1999, Akta Perihal Dagangan 2011, Akta Kawalan Bekalan 1961, dan Akta Francais 1998."
-  - "Agensi di bawah KPDN termasuk SSM (Suruhanjaya Syarikat), MyIPO (harta intelek), SKM (suruhanjaya koperasi), MyCC (persaingan), MKM, PNS, dan Bank Rakyat."
-  - "Sehingga 2026, menterinya ialah Datuk Armizan Mohd Ali, dengan ibu pejabat di Presint 2, Putrajaya."
-appliesTo: "Pengguna, peniaga dan peruncit, pemberi francais, koperasi, dan sesiapa yang berurusan dengan hal ehwal kawalan harga, pelesenan, atau perlindungan pengguna di Malaysia."
+  - "KPDN ditubuhkan pada 27 Oktober 1990 dan memakai nama 'Kos Sara Hidup' yang kini digunakan pada Disember 2022; ibu pejabatnya di Presint 2, Putrajaya."
+  - "Ia menggunakan Akta Kawalan Bekalan 1961 dan Akta Kawalan Harga dan Anti-Pencatutan 2011 untuk menstabilkan harga barangan keperluan seperti beras, telur, minyak masak dan ayam, melalui operasi seperti Ops Pantau dan Skim Harga Maksimum bermusim."
+  - "Pengguna boleh membuat aduan melalui pusat panggilan 1-800-886-800, WhatsApp 019-848 8000, portal e-Aduan, e-mel e-aduan@kpdn.gov.my, atau aplikasi Ez ADU."
+  - "Tribunal Tuntutan Pengguna Malaysia (TTPM), ditubuhkan pada 15 November 1999 di bawah Akta Perlindungan Pengguna 1999, mendengar tuntutan sehingga RM50,000."
+  - "Agensi di bawah KPDN termasuk SSM, MyIPO, MyCC, SKM, MKM, PNS dan Bank Rakyat; menterinya ialah Datuk Armizan Mohd Ali."
+appliesTo: "Pengguna yang telah dikenakan bayaran berlebihan atau ditipu, peniaga dan peruncit yang tertakluk kepada kawalan harga, dan sesiapa sahaja yang berurusan dengan pendaftaran syarikat, persaingan atau hal ehwal perlindungan pengguna di Malaysia."
 faq:
-  - q: "Apakah maksud singkatan KPDN?"
-    a: "KPDN ialah singkatan bagi Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup — the Ministry of Domestic Trade and Cost of Living."
-  - q: "Bagaimana saya boleh melaporkan pencatutan atau harga berlebihan?"
-    a: "KPDN menguatkuasakan Akta Kawalan Harga dan Antipencatutan 2011 dan Akta Kawalan Bekalan 1961 terhadap peniaga yang menjual barang terkawal melebihi siling yang ditetapkan atau mengaut keuntungan yang tinggi secara tidak munasabah; aduan boleh dibuat melalui saluran penguatkuasaan kementerian di kpdn.gov.my."
-  - q: "Pendaftaran syarikat dan perniagaan yang manakah diselia oleh KPDN?"
-    a: "Pendaftaran syarikat, perniagaan, dan harta intelek dikendalikan oleh agensi di bawah KPDN — Suruhanjaya Syarikat Malaysia (SSM) dan Perbadanan Harta Intelek Malaysia (MyIPO)."
+  - q: "Bagaimana saya membuat aduan kepada KPDN jika saya ditipu oleh peniaga?"
+    a: "Anda boleh membuat aduan melalui pusat panggilan 1-800-886-800, WhatsApp 019-848 8000, portal e-Aduan di eaduan.kpdn.gov.my, e-mel e-aduan@kpdn.gov.my, atau aplikasi telefon pintar Ez ADU KPDN."
+  - q: "Berapakah jumlah yang boleh saya tuntut di Tribunal Tuntutan Pengguna?"
+    a: "Tribunal Tuntutan Pengguna Malaysia (TTPM), ditubuhkan pada 15 November 1999 di bawah Seksyen 85 Akta Perlindungan Pengguna 1999, mendengar tuntutan pengguna yang tidak melebihi RM50,000."
+  - q: "Undang-undang apakah yang digunakan KPDN untuk mengawal harga?"
+    a: "Ia bergantung terutamanya pada Akta Kawalan Bekalan 1961 dan Akta Kawalan Harga dan Anti-Pencatutan 2011, yang membolehkannya menetapkan siling harga, mewajibkan paparan harga, dan bertindak terhadap keuntungan yang tidak munasabah tinggi."
 lang: "ms"
-sourceContentHash: "fde78dc10212eb04"
 masterLanguage: "en"
 translationStatus: "in-sync"
+sourceContentHash: "4b3d1bbfe02cf7cf"
 status: "in-review"
 aiAssisted: true
 reviewer: null
-version: "0.1"
+version: "0.2"
 revisions:
   - version: "0.1"
     date: 2026-08-10
     change: "Initial AI draft."
     reviewer: null
+  - version: "0.2"
+    date: 2026-08-14
+    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
+    reviewer: null
 verificationNeeded:
-  - "Current minister (Datuk Armizan Mohd Ali) and deputy minister (Fuziah Salleh) — confirm still in office at time of publication, as cabinet posts change."
-  - "Exact founding date 27 October 1990 is drawn from official/secondary summaries of the KPDN background page; confirm against the live kpdn.gov.my background page."
-  - "Full statutory list (the ministry administers 30+ acts) — confirm the complete current list against the official portal."
-updated: 2026-08-10
+  - "Exact chronology and years of every ministry rename (KPDNHEP, KPDNKK/MDTCC, then KPDN in Dec 2022) — confirm each transition year against an official/Hansard source before listing them."
+  - "TTPM specifics beyond the RM50,000 ceiling (RM5 filing fee, 3-year limitation) — reconfirm on the live TTPM/KPDN page before publishing exact figures."
+  - "Consumer complaint channel numbers (1-800-886-800; WhatsApp 019-848 8000; eaduan.kpdn.gov.my; Ez ADU; e-aduan@kpdn.gov.my) — verify current on kpdn.gov.my/bantuan, as hotlines occasionally change."
+  - "Exact number of divisions/bahagian and the total count of Acts administered — confirm before stating a hard number."
+  - "Current Deputy Minister and Secretary-General — verify still in office at publication."
+updated: 2026-08-14
 sources:
-  - title: "Functions of KPDN — Official Portal"
-    url: "https://www.kpdn.gov.my/en/corporate-info/function-kpdn"
+  - title: "Latar Belakang - KPDN"
+    url: "https://www.kpdn.gov.my/ms/info-korporat/latar-belakang"
     publisher: "Ministry of Domestic Trade and Cost of Living (KPDN)"
-  - title: "Background Information — Official Portal"
-    url: "https://www.kpdn.gov.my/en/corporate-info/background-info"
+  - title: "Fungsi KPDN (Function KPDN)"
+    url: "https://www.kpdn.gov.my/en/corporate-info/function-kpdn"
     publisher: "Ministry of Domestic Trade and Cost of Living (KPDN)"
   - title: "Ministry of Domestic Trade and Costs of Living"
     url: "https://en.wikipedia.org/wiki/Ministry_of_Domestic_Trade_and_Costs_of_Living"
     publisher: "Wikipedia"
-  - title: "The Price Control and Anti-Profiteering Act — FAQ"
-    url: "https://www.kpdn.gov.my/en/faq/faq-enforcement/the-price-control-and-anti-profiteering-act"
+  - title: "Cabinet reshuffle: Armizan to continue helming Domestic Trade and Cost of Living Ministry"
+    url: "https://www.thestar.com.my/news/nation/2023/12/12/cabinet-reshuffle-armizan-to-continue-helming-domestic-trade-and-cost-of-living-ministry"
+    publisher: "The Star"
+  - title: "Anti-profiteering - KPDN"
+    url: "https://www.kpdn.gov.my/en/faq/anti-profiteering"
     publisher: "Ministry of Domestic Trade and Cost of Living (KPDN)"
-  - title: "Regulation of Controlled Goods (KSBK)"
-    url: "https://www.kpdn.gov.my/en/submenu/lets-do-business-submenu/ksbk/regulation-of-controlled-goods"
+  - title: "Tribunal For Consumer Claims - KPDN"
+    url: "https://www.kpdn.gov.my/en/faq/tribunal-for-consumer-claims"
     publisher: "Ministry of Domestic Trade and Cost of Living (KPDN)"
-entity: "Ministry of Domestic Trade and Cost of Living (KPDN)"
+  - title: "eAduan - e-Aduan KPDN"
+    url: "https://eaduan.kpdn.gov.my/login"
+    publisher: "Ministry of Domestic Trade and Cost of Living (KPDN)"
+  - title: "Protecting Consumers - KPDN"
+    url: "https://www.kpdn.gov.my/en/submenu/enforcement-submenu/protecting-consumers"
+    publisher: "Ministry of Domestic Trade and Cost of Living (KPDN)"
+entity: "Ministry of Domestic Trade and Cost of Living (Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup, KPDN)"
 relations: []
 related: []
-keywords: ["KPDN", "Ministry of Domestic Trade and Cost of Living", "Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup", "kos sara hidup", "price control Malaysia", "anti-profiteering", "consumer protection Malaysia"]
+keywords: ["KPDN", "Ministry of Domestic Trade and Cost of Living", "Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup", "KPDN aduan", "Price Control and Anti-Profiteering Act 2011", "Akta Kawalan Harga", "Ez ADU KPDN", "TTPM tribunal tuntutan pengguna", "KPDN hotline", "kawalan harga barang", "consumer protection Malaysia", "Armizan Mohd Ali", "SSM MyIPO MyCC", "Ops Pantau KPDN"]
 ---
 
-**Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup** — disingkatkan sebagai **KPDN** — ialah kementerian persekutuan Malaysia yang bertanggungjawab mengawal selia perdagangan dalam negeri, melindungi pengguna, mengawal harga barang keperluan asas, serta menyelia francais, jualan langsung, dan koperasi. Mandat "kos sara hidup" yang tersendiri menjadikannya barisan hadapan kerajaan dalam hal kemampuan harga harian, daripada harga beras dan minyak masak hinggalah penguatkuasaan terhadap pencatutan.
+Apabila seorang peniaga mengenakan bayaran berlebihan untuk minyak masak, menjual barangan terkawal melebihi harga silingnya, atau enggan menunaikan tanggungjawab terhadap produk yang rosak, badan persekutuan yang bertugas bertindak bagi pihak anda ialah **KPDN** — **Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup**. Ia membangunkan perdagangan dalam negeri, mengawal harga barangan keperluan harian, dan melindungi pengguna, disokong oleh statut yang sebenar, saluran aduan yang aktif, dan sebuah tribunal tuntutan kecil yang dibina untuk pembeli biasa.
 
-## Sejarah dan perubahan nama
+## Apakah KPDN dan apakah tujuannya?
 
-Portfolio perdagangan dalam negeri bermula pada **27 Oktober 1990**, apabila ia disusun semula daripada kementerian perdagangan yang lebih luas seiring dengan penubuhan Kementerian Perdagangan Antarabangsa dan Industri (MITI). Ia mula-mula beroperasi sebagai Kementerian Perdagangan Dalam Negeri dan Hal Ehwal Pengguna. Pada Jun 2009 ia dinamakan semula sebagai Kementerian Perdagangan Dalam Negeri, Koperasi dan Kepenggunaan (KPDNKK), mencerminkan bidang tugas koperasi yang diperluas.
+KPDN **ditubuhkan pada 27 Oktober 1990**. Objektif yang dinyatakannya adalah untuk menggalakkan perdagangan dalam negeri yang "berdaya maju, berdaya saing dan mampan," terutamanya dalam sektor perdagangan pengedaran, sambil melindungi kepentingan dan hak pengguna. Dalam praktiknya, kerjanya terbahagi kepada dua bahagian: menggubal dasar perdagangan — termasuk menentukan dan memantau harga barangan keperluan serta mengawal penjualan dan pengedaran barangan keperluan, produk petroleum dan petrokimia — dan kepenggunaan, yang meliputi pendidikan pengguna, kesedaran, perlindungan, dan sokongan terhadap gerakan pengguna.
 
-Kementerian ini mengambil **nama semasanya dan fokus "Kos Sara Hidup" pada 3 Disember 2022**, di bawah kerajaan yang dibentuk selepas Pilihan Raya Umum ke-15. Sehingga 2026, menterinya ialah **Datuk Armizan Mohd Ali**, dengan jawatan timbalan menteri dipegang oleh **Fuziah Salleh**.
+Kementerian ini memakai nama semasanya, dengan menambah penekanan "Kos Sara Hidup," pada **Disember 2022**. Ibu pejabatnya terletak di No. 13, Persiaran Perdana, Presint 2, Pusat Pentadbiran Kerajaan Persekutuan, 62623 Putrajaya. Menterinya ialah **Datuk Armizan Mohd Ali**, yang telah mengetuai kementerian ini sejak 30 Julai 2023.
 
-## Apa yang dilakukan KPDN
+## Undang-undang apakah yang digunakan KPDN untuk mengawal harga?
 
-Fungsi rasmi kementerian ini terbahagi kepada dua bidang utama:
+KPDN dan agensi-agensinya mentadbir sekumpulan perundangan perdagangan dan pengguna. Statut yang paling mungkin dirasai oleh rakyat Malaysia biasa adalah seperti berikut:
 
-**Perdagangan dalam negeri** — membangunkan sub-sektor borong, runcit, francais, jualan langsung, penjaja, dan petroleum; menentukan dan memantau harga barang keperluan asas; mengawal penjualan dan pengedaran barang terkawal, petroleum, dan perniagaan jualan langsung; mengawal selia sukatan dan timbang (metrologi); serta menyelia pendaftaran syarikat, perniagaan, dan harta intelek.
-
-**Kepenggunaan** — menjalankan program pendidikan, kesedaran, dan perlindungan pengguna, serta menyokong gerakan pengguna.
-
-## Perundangan utama
-
-KPDN mentadbir sekumpulan besar undang-undang perdagangan dan pengguna. Antara statut yang paling kerap digunakan:
-
-| Akta | Tujuan |
+| Akta | Apa yang dilakukannya untuk anda |
 | --- | --- |
-| Akta Kawalan Harga dan Antipencatutan 2011 | Menetapkan siling harga dan melarang keuntungan yang tinggi secara tidak munasabah |
-| Akta Kawalan Bekalan 1961 | Melesen dan mengawal pengedaran barang berjadual/terkawal |
-| Akta Perlindungan Pengguna 1999 | Melindungi pengguna daripada amalan tidak adil |
-| Akta Perihal Dagangan 2011 | Melarang perihal dagangan palsu atau mengelirukan |
-| Akta Francais 1998 | Mendaftar dan mengawal selia francais |
+| Akta Kawalan Harga dan Anti-Pencatutan 2011 [Akta 723] | Menetapkan siling harga, mewajibkan paparan harga, dan bertindak terhadap keuntungan yang tidak munasabah tinggi |
+| Akta Kawalan Bekalan 1961 [Akta 122] | Mengawal penjualan dan pengedaran barangan keperluan berjadual |
+| Akta Perlindungan Pengguna 1999 [Akta 599] | Melindungi pengguna dan menubuhkan tribunal tuntutan |
+| Akta Perihal Dagangan 2011 [Akta 730] | Mengharamkan perihal dagangan palsu atau mengelirukan |
+| Akta Persaingan 2010 [Akta 712] | Melarang kartel dan penyalahgunaan dominasi pasaran |
+| Akta Timbang dan Sukat 1972 [Akta 71] | Memastikan pengukuran yang jujur dalam perdagangan |
+| Akta Francais 1998 [Akta 590] | Mendaftar dan mengawal selia francais |
 
-Semasa musim perayaan, kementerian menguatkuasakan Skim Harga Maksimum Musim Perayaan (SHMMP) di bawah undang-undang antipencatutan untuk mengehadkan harga barang terkawal terpilih.
+Dengan menggunakan Akta 122 dan Akta 723, KPDN berusaha menstabilkan harga barangan keperluan seperti beras, telur, minyak masak dan ayam. Ia menjalankan operasi penguatkuasaan termasuk **Ops Pantau** dan **Ops Menu**, serta mengenakan **Skim Harga Maksimum Musim Perayaan** yang menghadkan harga barangan terkawal terpilih semasa perayaan — seperti ketika skim Deepavali Oktober 2025. Di bawah Seksyen 10 Akta 723, menteri boleh mewajibkan mana-mana penjual barangan atau perkhidmatan untuk memaparkan harga.
 
-## Agensi di bawah KPDN
+## Bagaimana anda sebenarnya menggunakan KPDN apabila ditipu?
 
-Beberapa badan berkanun dan agensi berada di bawah bidang kuasa kementerian, termasuk:
+Anda tidak memerlukan peguam untuk bermula. KPDN menerima aduan pengguna melalui beberapa saluran:
 
-- **Suruhanjaya Syarikat Malaysia (SSM)** — pendaftaran syarikat dan perniagaan
-- **Perbadanan Harta Intelek Malaysia (MyIPO)** — paten, cap dagangan, dan hak cipta
-- **Suruhanjaya Koperasi Malaysia (SKM)** — pengawalseliaan koperasi
-- **Suruhanjaya Persaingan Malaysia (MyCC)** — menguatkuasakan Akta Persaingan 2010 terhadap kartel dan penyalahgunaan kedudukan dominan
-- **Maktab Koperasi Malaysia (MKM)**, **Perbadanan Nasional Berhad (PNS)**, dan **Bank Kerjasama Rakyat Malaysia (Bank Rakyat)**
+- **Pusat panggilan:** 1-800-886-800
+- **WhatsApp:** 019-848 8000
+- **Portal e-Aduan:** eaduan.kpdn.gov.my
+- **E-mel:** e-aduan@kpdn.gov.my
+- **Aplikasi:** aplikasi telefon pintar Ez ADU KPDN
 
-Ibu pejabat kementerian terletak di **Presint 2, Putrajaya**.
+Bagi pertikaian mengenai wang — produk yang rosak, perkhidmatan yang tidak disampaikan, caj yang tidak adil — terdapat **Tribunal Tuntutan Pengguna Malaysia (TTPM)**. Ditubuhkan pada **15 November 1999** di bawah Seksyen 85, Bahagian XII Akta Perlindungan Pengguna 1999, ia mendengar tuntutan yang **tidak melebihi RM50,000** pada kos dan formaliti yang jauh lebih rendah berbanding mahkamah.
+
+## Agensi manakah yang berada di bawah KPDN?
+
+Sebahagian besar pengawalseliaan harian kementerian ini dijalankan oleh badan berkanun di bawah naungannya:
+
+- **SSM** — Suruhanjaya Syarikat Malaysia (pendaftaran syarikat dan perniagaan)
+- **MyIPO** — Perbadanan Harta Intelek Malaysia (paten, cap dagangan, hak cipta)
+- **MyCC** — Suruhanjaya Persaingan Malaysia
+- **SKM** — Suruhanjaya Koperasi Malaysia
+- **MKM** — Maktab Koperasi Malaysia
+- **PNS** — Perbadanan Nasional Berhad
+- **Bank Rakyat** — Bank Kerjasama Rakyat Malaysia Berhad
 
 ## Apa seterusnya
 
-Untuk membuat aduan tentang harga berlebihan, barang tiruan, atau pengiklanan palsu, atau untuk menyemak keperluan pelesenan bagi barang terkawal, mulakan di portal rasmi **kpdn.gov.my**. Untuk pendaftaran syarikat atau cap dagangan, pergi terus ke agensi yang berkaitan — **SSM** untuk perniagaan dan **MyIPO** untuk harta intelek.
+Jika anda telah dikenakan bayaran berlebihan atau diperdaya, kumpulkan resit dan bukti anda serta buat aduan melalui salah satu saluran di atas; bagi pertikaian wang sehingga RM50,000, bersedia untuk memfailkan tuntutan di TTPM. Bagi hal ehwal syarikat atau cap dagangan, terus ke agensi yang berkaitan — **SSM** untuk perniagaan, **MyIPO** untuk harta intelek.

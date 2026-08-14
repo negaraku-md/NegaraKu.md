@@ -1,100 +1,103 @@
 ---
 topicId: "MY-LAW-0098"
-title: "Akta Kerajaan Tempatan 1976"
-seoTitle: "Akta Kerajaan Tempatan 1976 (Akta 171): Panduan Malaysia"
+title: "Akta Kerajaan Tempatan 1976: Undang-undang di Sebalik Majlis Lantikan Malaysia"
+seoTitle: "Akta Kerajaan Tempatan 1976 (Act 171) Dijelaskan"
+socialTitle: "Kenapa rakyat Malaysia tak boleh undi datuk bandar sendiri? Salahkan undang-undang 1976 ini"
 slug: "local-government-act-1976"
 category: "law"
-subcategory: ["local-government"]
-summary: "Akta 171 Malaysia, yang menyemak dan menyatukan undang-undang mengenai pihak berkuasa tempatan serta mengawal cara majlis ditubuhkan, ditadbir dan dibiayai di Semenanjung Malaysia."
+subcategory: ["key-acts"]
+summary: "Akta Kerajaan Tempatan 1976 (Act 171) ialah statut yang menubuhkan, memperkasakan dan membiayai setiap majlis bandar raya, perbandaran dan daerah di Semenanjung Malaysia — dan undang-undang yang menggantikan majlis tempatan yang dipilih dengan ahli majlis yang dilantik oleh negeri."
 tier: "3"
 mode: "practical"
 contentType: "law"
 sensitivity: "none"
-answer: "Akta Kerajaan Tempatan 1976 (Akta 171) ialah statut persekutuan yang menyemak dan menyatukan undang-undang berkaitan kerajaan tempatan di Semenanjung Malaysia. Ia memberi kuasa kepada setiap Pihak Berkuasa Negeri untuk mengisytiharkan kawasan pihak berkuasa tempatan, menetapkan statusnya sebagai Majlis Perbandaran atau Majlis Daerah, dan melantik ahli majlis, serta memberikan pihak berkuasa tempatan kuasa ke atas tempat awam, kebersihan, pelesenan, undang-undang kecil dan kadar taksiran yang dikenakan ke atas harta. Ia mula berkuat kuasa pada 25 Mac 1976 dan tidak terpakai di Sabah atau Sarawak, yang mempunyai ordinan kerajaan tempatan mereka sendiri."
+answer: "Akta Kerajaan Tempatan 1976 (Act 171) ialah statut persekutuan yang menyemak dan menyatukan undang-undang berkaitan kerajaan tempatan di Semenanjung Malaysia. Ia membolehkan setiap Pihak Berkuasa Negeri mengisytiharkan sesuatu kawasan sebagai pihak berkuasa tempatan, menetapkan tarafnya sebagai Majlis Perbandaran atau Majlis Daerah, dan melantik ahli majlis yang mengurusnya — dan ia merupakan undang-undang yang menamatkan pilihan raya kerajaan tempatan, jadi tiada rakyat Malaysia mengundi datuk bandar atau ahli majlis. Ia menerima Perkenan Diraja pada 18 Mac 1976 dan, menurut terma aktanya sendiri, terpakai hanya di Semenanjung Malaysia; Sabah dan Sarawak mempunyai ordinan masing-masing."
 keyTakeaways:
-  - "Akta 171 diluluskan oleh Dewan Rakyat pada 18 Disember 1975 dan Dewan Negara pada 20 Januari 1976, menerima Perkenan Diraja pada 18 Mac 1976 dan mula berkuat kuasa pada 25 Mac 1976."
-  - "Akta ini disusun kepada 16 Bahagian dengan 166 seksyen dan 2 jadual dalam teks cetakan semula, meliputi pentadbiran, kakitangan, kewangan, tempat awam, kebersihan, undang-undang kecil dan pengkadaran."
-  - "Di bawah seksyen 3, Pihak Berkuasa Negeri mengisytiharkan sesuatu kawasan sebagai kawasan pihak berkuasa tempatan dan menetapkan statusnya sebagai Majlis Perbandaran atau Majlis Daerah."
-  - "Seksyen 10 memperuntukkan seorang Datuk Bandar atau Yang Dipertua serta tidak kurang daripada lapan dan tidak lebih daripada dua puluh empat ahli majlis yang dilantik; tiada majlis tempatan yang dipilih, kerana peruntukan pilihan raya telah digantung di bawah seksyen 15."
-  - "Bahagian XV (Pengkadaran dan Penilaian) membenarkan pihak berkuasa tempatan mengenakan kadar taksiran di bawah seksyen 127, umumnya berdasarkan nilai tahunan sesuatu pegangan (Johor menggunakan nilai yang telah dibaiki)."
-appliesTo: "Penduduk, pembayar kadar, pemilik harta, ahli majlis, pelajar perancangan dan undang-undang, serta sesiapa yang berurusan dengan majlis bandaraya, perbandaran atau daerah di Semenanjung Malaysia."
+  - "Seksyen 1(1) menyatakan Akta ini terpakai hanya di Semenanjung Malaysia — membetulkan dakwaan lazim di internet bahawa ia terpakai di seluruh negara; Sabah dan Sarawak menggunakan ordinan berasingan (Local Government Ordinance 1961 dan Local Authority Ordinance 1996)."
+  - "Seksyen 15(1) memperuntukkan bahawa semua peruntukan berkaitan pilihan raya kerajaan tempatan terhenti berkuat kuasa — asas berkanun bagi majlis Malaysia yang dilantik dan bukan dipilih."
+  - "Seksyen 10 menetapkan sesebuah majlis terdiri daripada seorang Datuk Bandar atau Yang Dipertua serta 8 hingga 24 ahli majlis yang dilantik oleh Pihak Berkuasa Negeri, masing-masing untuk tempoh tidak melebihi tiga tahun."
+  - "Bahagian XV membolehkan sesebuah majlis mengenakan kadar taksiran (cukai pintu) di bawah Seksyen 127, dan Bahagian XIII membolehkannya membuat dan menguatkuasakan undang-undang kecil dengan penalti, yang disahkan oleh Pihak Berkuasa Negeri."
+  - "Dalam bentuknya yang disatukan, Akta ini mengandungi 16 Bahagian, 166 seksyen dan 2 jadual, serta telah dipinda tujuh kali, termasuk oleh Akta Perkhidmatan Bomba 1988 yang memadamkan Bahagian X asal."
+appliesTo: "Penduduk, pembayar cukai taksiran dan pemilik harta, ahli majlis, pelajar perancangan dan undang-undang, serta sesiapa yang berurusan dengan majlis bandar raya, perbandaran atau daerah di Semenanjung Malaysia."
 faq:
+  - q: "Kenapa saya tidak boleh mengundi datuk bandar atau ahli majlis tempatan saya?"
+    a: "Kerana Seksyen 15(1) Act 171 memperuntukkan bahawa semua peruntukan berkaitan pilihan raya kerajaan tempatan terhenti berkuat kuasa, dan Seksyen 10 menjadikan setiap ahli majlis sebagai orang lantikan Pihak Berkuasa Negeri. Kerajaan tempatan terletak dalam Senarai Negeri Perlembagaan Persekutuan, jadi ia merupakan urusan negeri."
   - q: "Adakah Akta Kerajaan Tempatan 1976 terpakai di Sabah dan Sarawak?"
-    a: "Tidak. Akta 171 mengawal pihak berkuasa tempatan di Semenanjung Malaysia. Sabah memakai Ordinan Kerajaan Tempatan 1961 dan Sarawak Ordinan Pihak Berkuasa Tempatan 1996."
-  - q: "Adakah ahli majlis tempatan dipilih di bawah Akta 171?"
-    a: "Tidak. Ahli majlis dilantik oleh Pihak Berkuasa Negeri di bawah seksyen 10. Peruntukan pilihan raya kerajaan tempatan telah digantung di bawah seksyen 15, jadi majlis di Malaysia dilantik, bukan dipilih."
-  - q: "Apakah asas undang-undang yang membenarkan sesuatu majlis mengenakan kadar taksiran?"
-    a: "Bahagian XV Akta ini. Seksyen 127 memberi kuasa kepada pihak berkuasa tempatan, dengan kelulusan Pihak Berkuasa Negeri, untuk mengenakan kadar ke atas pegangan dalam kawasannya, umumnya dikira berdasarkan nilai tahunan harta tersebut."
+    a: "Tidak. Seksyen 1(1) menyatakan Akta ini terpakai hanya di Semenanjung Malaysia. Sabah menggunakan Local Government Ordinance 1961 dan Sarawak menggunakan Local Authority Ordinance 1996."
+  - q: "Apakah asas undang-undang yang membolehkan sesebuah majlis mengenakan cukai taksiran?"
+    a: "Bahagian XV (Pengadaran dan Penilaian). Seksyen 127 memberi kuasa kepada pihak berkuasa tempatan untuk mengenakan kadar ke atas pegangan dalam kawasannya, dengan asas taksiran ditetapkan dalam Seksyen 130."
 lang: "ms"
-sourceContentHash: "383735c6b9588a1d"
 masterLanguage: "en"
 translationStatus: "in-sync"
+sourceContentHash: "0dbf40c3c9364919"
 status: "in-review"
 aiAssisted: true
 reviewer: null
-version: "0.1"
+version: "0.2"
 revisions:
   - version: "0.1"
     date: 2026-08-10
     change: "Initial AI draft."
     reviewer: null
+  - version: "0.2"
+    date: 2026-08-14
+    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
+    reviewer: null
 verificationNeeded:
-  - "Exact territorial-extent wording: sources conflict between 'throughout Malaysia' (Wikipedia infobox) and the practical position that Act 171 applies to Peninsular Malaysia only. Confirm against the reprint's application clause."
-  - "Current national count of local authorities (approx. 19 city, 40 municipal, 91 district councils cited to Wikipedia) — confirm against a KPKT/JKT figure; note this national total spans Sabah and Sarawak, which are outside Act 171."
-  - "Section count '166 sections, 2 schedules, 16 Parts' is quoted from secondary summaries of the reprint as at 1 Dec 2012; confirm against the current AGC reprint."
-updated: 2026-08-10
+  - "Exact current number and breakdown of local authorities (city vs municipal vs district councils) for 2024–2026 — JKT/KPKT listed 155 PBT as of Aug 2021; the count and city-status upgrades change over time."
+  - "Precise historical date local-government elections were suspended (commonly cited as 1 March 1965) and the roles of the Athi Nahappan Royal Commission and the Local Government (Temporary Provisions) Act 1973 — confirm against a primary source before stating."
+  - "The definitive count of amending Acts and whether any amendments to Act 171 exist after 2007."
+  - "Official criteria/thresholds (population, annual revenue) for conferring City or Municipal status — needs an official KPKT source."
+  - "Exact number of Parts/sections/schedules in the most current in-force reprint (Wikipedia states 16 Parts/166 sections/2 schedules as of 1 Dec 2012; verify no structural change since)."
+updated: 2026-08-14
 sources:
-  - title: "Act 171 — Local Government Act 1976 (official reprint, PDF)"
-    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20171%20-%20Local%20Government%20Act%201976.pdf"
-    publisher: "Attorney General's Chambers of Malaysia (Laws of Malaysia)"
+  - title: "Laws of Malaysia, Act 171 Local Government Act 1976 (official reprint incorporating amendments up to 1 January 2006)"
+    url: "https://www.doa.gov.my/doa/resources/info_doa/akta171_kerajaan_tempatan_1976.pdf"
+    publisher: "Commissioner of Law Revision, Malaysia"
   - title: "Local Government Act 1976"
     url: "https://en.wikipedia.org/wiki/Local_Government_Act_1976"
     publisher: "Wikipedia"
-  - title: "Local Government Act 1976 — Part 1"
-    url: "https://www.lowpartners.com/local-government-act-1976-part-1/"
-    publisher: "Low & Partners"
-  - title: "Rating — Valuation and Property Services Department"
-    url: "https://www.jpph.gov.my/v3/en/jpph-business/valuation-and-property-services-activity/rating/"
-    publisher: "Jabatan Penilaian dan Perkhidmatan Harta (JPPH)"
   - title: "Concept of Local Government"
     url: "https://jkt.kpkt.gov.my/aboud-lgd/lgd-info/concept-of-local-government"
-    publisher: "Jabatan Kerajaan Tempatan, KPKT"
+    publisher: "Jabatan Kerajaan Tempatan (Department of Local Government), KPKT"
+  - title: "Federal Constitution of Malaysia (Reprint) — Article 95A and Ninth Schedule, State List"
+    url: "https://lom.agc.gov.my/federal-constitution.php"
+    publisher: "Attorney General's Chambers of Malaysia (AGC)"
 entity: "Local Government Act 1976 (Act 171)"
 relations: []
 related: []
-keywords: ["Local Government Act 1976", "Act 171", "LGA 1976", "Akta Kerajaan Tempatan 1976", "local authority Malaysia", "PBT", "assessment rates", "cukai taksiran", "municipal council", "district council"]
+keywords: ["Local Government Act 1976", "Act 171", "Akta Kerajaan Tempatan 1976", "local authority Malaysia", "PBT", "Pihak Berkuasa Tempatan", "majlis perbandaran", "majlis daerah", "assessment tax", "cukai pintu", "local council elections Malaysia", "appointed councillors", "National Council for Local Government", "third vote Malaysia"]
 ---
 
-**Akta Kerajaan Tempatan 1976 (Akta 171)** ialah statut persekutuan yang menyemak dan menyatukan undang-undang mengenai kerajaan tempatan di **Semenanjung Malaysia**. Ia menetapkan cara pihak berkuasa tempatan diwujudkan, dianggotai, dibiayai dan diberi kuasa — daripada kawalan tempat awam dan kebersihan hinggalah kadar taksiran yang dikenakan majlis ke atas harta. Ia menerima Perkenan Diraja pada 18 Mac 1976 dan mula berkuat kuasa pada **25 Mac 1976**. Ia tidak diperluaskan ke Sabah atau Sarawak, yang mengekalkan ordinan kerajaan tempatan mereka sendiri.
+Jika anda pernah tertanya-tanya mengapa tiada kertas undi Malaysia yang pernah menyenaraikan calon datuk bandar, jawapannya ialah satu statut. **Akta Kerajaan Tempatan 1976 (Act 171)** — tajuk panjangnya "Suatu Akta untuk menyemak dan menyatukan undang-undang berkaitan kerajaan tempatan" — ialah undang-undang yang menubuhkan setiap majlis bandar raya, perbandaran dan daerah di Semenanjung Malaysia, melantik orang yang mengurusnya, dan memberikan mereka kuasa untuk mengenakan cukai dan denda ke atas anda. Ia menerima Perkenan Diraja pada **18 Mac 1976** dan diwartakan pada 25 Mac 1976. Walaupun kebanyakan sumber di internet menyatakan sebaliknya, **Seksyen 1(1) menyatakan ia terpakai hanya di Semenanjung Malaysia**; Sabah dan Sarawak mengekalkan ordinan masing-masing.
 
-## Penggubalan dan struktur
+## Mengapa ahli majlis dilantik dan bukan dipilih?
 
-Parlimen meluluskan Rang Undang-Undang ini di Dewan Rakyat pada 18 Disember 1975 dan Dewan Negara pada 20 Januari 1976. Tajuk panjangnya hanyalah "Suatu Akta untuk menyemak dan menyatukan undang-undang berhubung dengan kerajaan tempatan," menggantikan tampalan undang-undang terdahulu yang termasuk Enakmen Lembaga Bandaran negeri dan Ordinan Majlis Tempatan 1952.
+Inilah ciri Akta yang paling besar kesannya. **Seksyen 15(1)** memperuntukkan bahawa semua peruntukan berkaitan pilihan raya kerajaan tempatan "hendaklah terhenti berkuat kuasa atau berkesan," dan Seksyen 15(2) menyingkirkan ahli majlis yang dipilih yang sedang memegang jawatan pada masa itu. Sebagai gantinya, **Seksyen 10** menjadikan majlis terdiri daripada seorang **Datuk Bandar atau Yang Dipertua serta tidak kurang daripada lapan dan tidak lebih daripada dua puluh empat ahli majlis, yang dilantik oleh Pihak Berkuasa Negeri**, masing-masing untuk tempoh tidak melebihi tiga tahun. Itulah akar berkanun bagi perdebatan berpanjangan "kembalikan pilihan raya tempatan" atau "undi ketiga".
 
-Dalam bentuk cetakan semulanya, Akta ini merangkumi **16 Bahagian, 166 seksyen dan 2 jadual**, meliputi pentadbiran, pegawai dan pekerja, pengendalian urusan, kewangan, akaun dan audit, tempat awam, pencemaran anak sungai, makanan dan kebersihan, perkhidmatan bomba, tempat pengebumian, undang-undang kecil, kuasa lanjut, serta pengkadaran dan penilaian.
+Ia juga sejajar dengan reka bentuk perlembagaan: di bawah **Jadual Kesembilan Perlembagaan Persekutuan, kerajaan tempatan — termasuk pihak berkuasa tempatan, kadar tempatan dan pilihan raya kerajaan tempatan — terletak dalam Senarai Negeri**, menjadikannya urusan negeri secara utamanya. Perkara 95A menambah suatu **Majlis Negara bagi Kerajaan Tempatan**, yang dipengerusikan oleh seorang Menteri dengan seorang wakil bagi setiap negeri, untuk menetapkan dasar kebangsaan.
 
-## Apa itu "pihak berkuasa tempatan"
+## Apakah yang dikira sebagai "pihak berkuasa tempatan"?
 
-Di bawah **seksyen 3**, Pihak Berkuasa Negeri — yang bertindak selepas berunding dengan Menteri dan Suruhanjaya Pilihan Raya — boleh mengisytiharkan sesuatu kawasan sebagai **kawasan pihak berkuasa tempatan** dan menetapkan statusnya sama ada sebagai **Majlis Perbandaran** atau **Majlis Daerah**. Status bandaraya ialah gred yang lebih tinggi yang dianugerahkan secara berasingan, jadi tiga peringkat yang lazim ialah majlis bandaraya, perbandaran dan daerah, yang secara kolektif dikenali sebagai *Pihak Berkuasa Tempatan* (PBT).
+Seksyen 2 mentakrifkan **pihak berkuasa tempatan** sebagai mana-mana Majlis Bandar Raya, Majlis Perbandaran atau Majlis Daerah (di Wilayah Persekutuan, Pesuruhjaya Ibu Kota Kuala Lumpur). Sebuah **Majlis Bandar Raya** ialah majlis bagi suatu perbandaran yang telah dianugerahkan taraf bandar raya. Di bawah **Seksyen 3**, sesuatu Pihak Berkuasa Negeri — dengan berunding dengan Menteri dan Suruhanjaya Pilihan Raya — mengisytiharkan sesuatu kawasan sebagai pihak berkuasa tempatan, menamakannya, menetapkan sempadannya, dan menetapkan tarafnya sebagai Perbandaran atau Daerah, semuanya melalui Warta.
 
-| Ciri | Peruntukan |
+| Soalan | Peruntukan |
 |---|---|
-| Pengisytiharan kawasan dan status | Seksyen 3 |
-| Arahan am daripada Negeri | Seksyen 9 |
-| Komposisi majlis | Seksyen 10 |
-| Penggantungan pilihan raya tempatan | Seksyen 15 |
-| Kadar taksiran ke atas pegangan | Seksyen 127 (Bahagian XV) |
+| Di mana Akta ini terpakai? | Seksyen 1 — Semenanjung Malaysia sahaja |
+| Siapa yang menubuhkan sesebuah majlis dan menetapkan tarafnya? | Seksyen 3 |
+| Bagaimana sesebuah majlis dibentuk? | Seksyen 10 — Datuk Bandar/Yang Dipertua + 8–24 orang lantikan |
+| Mengapa tiada pilihan raya? | Seksyen 15 |
+| Undang-undang kecil dan penalti | Bahagian XIII (Seksyen 102–106) |
+| Kadar taksiran | Bahagian XV — Seksyen 127 (asas dalam Seksyen 130) |
 
-## Ahli majlis dilantik, bukan dipilih
+## Apakah yang boleh dilakukan oleh sesebuah majlis terhadap kehidupan harian anda?
 
-**Seksyen 10(1)** memperuntukkan bahawa sesuatu pihak berkuasa tempatan terdiri daripada seorang Datuk Bandar atau Yang Dipertua serta **tidak kurang daripada lapan dan tidak lebih daripada dua puluh empat ahli majlis, yang dilantik oleh Pihak Berkuasa Negeri**. Seksyen 10(2) mensyaratkan orang yang dilantik ialah penduduk kawasan itu yang mempunyai pengalaman berkaitan. Oleh itu, majlis tempatan Malaysia ialah **badan yang dilantik**: **seksyen 15** menggantung peruntukan berhubung pilihan raya kerajaan tempatan, dan tiada pilihan raya di peringkat majlis diadakan sejak itu. Di bawah **seksyen 9**, Pihak Berkuasa Negeri juga boleh memberikan sesuatu pihak berkuasa tempatan arahan yang bersifat am, yang mesti dipatuhi.
+Dua Bahagian Akta ini menjangkau kehidupan kebanyakan penduduk. **Bahagian XV (Pengadaran dan Penilaian)** membolehkan pihak berkuasa tempatan mengenakan **kadar — cukai taksiran, atau *cukai pintu*** — ke atas pegangan dalam kawasannya di bawah Seksyen 127, dengan asas taksiran ditetapkan dalam Seksyen 130. **Bahagian XIII** memberi majlis kuasa am untuk **membuat undang-undang kecil**, yang mesti disahkan oleh Pihak Berkuasa Negeri (Seksyen 103) dan yang boleh membawa penalti bagi kesalahan (Seksyen 104). Antara keduanya, mereka mendasari peraturan pelesenan, pasar, kebersihan dan tempat awam yang dikuatkuasakan oleh sesebuah majlis.
 
-## Kuasa, undang-undang kecil dan kewangan
+## Sebesar dan setua manakah Akta ini?
 
-Akta ini memberikan pihak berkuasa tempatan fungsi yang luas — kawalan dan penjagaan tempat awam, perkhidmatan kebersihan dan sampah, pasar, pelesenan perniagaan dan premis, serta kawalan bangunan. Bahagian XIII membenarkan sesuatu majlis membuat **undang-undang kecil** (tertakluk pada pengesahan Pihak Berkuasa Negeri) dan mengenakan penalti, manakala kuasa lanjut dalam Bahagian XII menyokong pentadbiran harian.
-
-Majlis dibiayai sebahagian besarnya melalui **kadar taksiran** ("cukai taksiran"). Bahagian XV (Pengkadaran dan Penilaian) — terutamanya **seksyen 127** — membenarkan sesuatu pihak berkuasa tempatan, dengan kelulusan Negeri, mengenakan kadar ke atas **pegangan** dalam kawasannya. Kadar umumnya dikira berdasarkan **nilai tahunan** harta (anggaran sewa tahunan yang boleh diperolehnya), kecuali di Johor, yang menggunakan **nilai yang telah dibaiki**.
+Dalam bentuknya yang disatukan, Akta ini mengandungi **16 Bahagian, 166 seksyen dan 2 jadual**. Ia diluluskan oleh Dewan Rakyat pada 18 Disember 1975 dan Dewan Negara pada 20 Januari 1976, dan sejak itu telah dipinda tujuh kali — termasuk Akta Kerajaan Tempatan (Pindaan) tahun 1978, 1983, 1991, 1993 dan 2007, serta Akta Perkhidmatan Bomba 1988, yang memadamkan Bahagian X asal Akta ini. Di seluruh negara, Jabatan Kerajaan Tempatan (JKT) telah merujuk suatu senarai **155 pihak berkuasa tempatan (PBT)**, di samping sistem selari di Sarawak (Local Authority Ordinance 1996) dan Sabah (Local Government Ordinance 1961).
 
 ## Apa seterusnya
 
-Untuk gambaran lebih luas tentang cara majlis bertempat di bawah peringkat negeri dan persekutuan, lihat mana-mana gambaran keseluruhan kerajaan tempatan di Malaysia dan peranan Kementerian Perumahan dan Kerajaan Tempatan (KPKT). Pembayar kadar yang ingin menyemak atau membantah sesuatu penilaian hendaklah merujuk senarai nilaian majlis mereka dan prosedur notis-dan-bantahan di bawah Bahagian XV.
+Untuk membantah suatu penilaian atau bil taksiran, ikuti prosedur notis-dan-bantahan dalam Bahagian XV dan senarai nilaian majlis anda. Untuk memahami kedudukan majlis di bawah lapisan negeri dan persekutuan, lihat seterusnya Kementerian Perumahan dan Kerajaan Tempatan (KPKT) dan Majlis Negara bagi Kerajaan Tempatan di bawah Perkara 95A.

@@ -1,120 +1,112 @@
 ---
 topicId: "MY-GOV-0098"
-title: "Jabatan Kebajikan Masyarakat (JKM)"
-seoTitle: "JKM: Jabatan Kebajikan Masyarakat Malaysia Dijelaskan"
+title: "Jabatan Kebajikan Masyarakat (JKM): Jaring Keselamatan Kebajikan Malaysia"
+seoTitle: "JKM (Jabatan Kebajikan Masyarakat): Bantuan & OKU"
+socialTitle: "Jabatan kerajaan yang senyap menyambut jutaan rakyat Malaysia ketika mereka jatuh"
 slug: "social-welfare-department-jkm"
 category: "government"
 subcategory: ["agencies"]
-summary: "Agensi persekutuan di bawah Kementerian Pembangunan Wanita, Keluarga dan Masyarakat yang mengendalikan perlindungan kebajikan Malaysia, pendaftaran orang kurang upaya dan warga emas, serta skim bantuan tunai bulanan."
+summary: "Jabatan Kebajikan Masyarakat (JKM), Jabatan Kebajikan Masyarakat Malaysia di bawah KPWKM, mentadbir bantuan tunai, pendaftaran OKU (orang kurang upaya), perlindungan kanak-kanak dan warga emas, serta bantuan bencana untuk golongan paling terdedah di negara ini."
 tier: "4"
 mode: "practical"
 contentType: "agency"
 sensitivity: "none"
-answer: "Jabatan Kebajikan Masyarakat (JKM) ialah agensi persekutuan di bawah Kementerian Pembangunan Wanita, Keluarga dan Masyarakat (KPWKM) yang mengendalikan kebajikan sosial di Malaysia. Ditubuhkan pada tahun 1946, ia menyampaikan perkhidmatan perlindungan, pemulihan, pencegahan, pembangunan dan integrasi bagi kanak-kanak, orang kurang upaya (OKU), warga emas, keluarga dan mangsa bencana, serta mentadbir skim bantuan kewangan bulanan utama seperti Bantuan Kanak-Kanak dan Bantuan Warga Emas."
+answer: "Jabatan Kebajikan Masyarakat (JKM) ialah sebuah agensi persekutuan di bawah Kementerian Pembangunan Wanita, Keluarga dan Masyarakat (KPWKM). Ditubuhkan pada tahun 1946 sebagai tindak balas terhadap masalah sosial yang berpunca daripada Perang Dunia Kedua, peranannya sejak itu telah berkembang kepada perlindungan, pemulihan, pencegahan, pembangunan dan integrasi masyarakat. Ia mentadbir skim bantuan tunai kebajikan utama Malaysia dan mengendalikan pendaftaran OKU (orang kurang upaya) kebangsaan yang mengeluarkan Kad OKU."
 keyTakeaways:
-  - "JKM ditubuhkan pada tahun 1946 selepas Perang Dunia Kedua dan kini berada di bawah Kementerian Pembangunan Wanita, Keluarga dan Masyarakat (KPWKM)."
-  - "Ia mentadbir beberapa akta, termasuk Akta Kanak-Kanak 2001 (Akta 611), Akta Orang Kurang Upaya 2008 (Akta 685), Akta Orang-Orang Papa 1977 (Akta 183) dan Akta Pusat Jagaan 1993 (Akta 506)."
-  - "Ia menyelenggara pendaftaran OKU (orang kurang upaya) kebangsaan dan mengeluarkan Kad OKU."
-  - "Bantuan Kanak-Kanak membayar RM250 bagi setiap kanak-kanak berumur 6 tahun ke bawah dan RM200 bagi setiap kanak-kanak berumur 7-18 tahun, sehingga RM1,000 sebulan bagi setiap keluarga."
-  - "Skim bulanan lain termasuk Bantuan OKU Tidak Berupaya Bekerja (BTB) sebanyak RM300, Elaun Pekerja OKU (EPOKU) sebanyak RM450, dan Bantuan Penjagaan (BPT) sebanyak RM500."
-  - "Permohonan dibuat di Pejabat Kebajikan Masyarakat Daerah atau dalam talian melalui portal eBantuan JKM (ebantuanjkm.jkm.gov.my)."
-appliesTo: "Sesiapa yang perlu memahami apa itu JKM dan fungsinya, yang ingin memohon bantuan kebajikan atau bantuan OKU, atau yang membuat rujukan silang terhadap rangka kerja perlindungan sosial Malaysia."
+  - "JKM ditubuhkan pada tahun 1946, pada mulanya sebagai tindak balas terhadap masalah sosial Perang Dunia Kedua, dan kini berada di bawah Kementerian Pembangunan Wanita, Keluarga dan Masyarakat (KPWKM), yang turut menyelia Institut Sosial Malaysia (ISM) dan Yayasan Kebajikan Negara Malaysia (YKNM)."
+  - "Bantuan tertakluk kepada ujian kemampuan (means-tested); pemohon perlu terlebih dahulu didaftarkan dalam Sistem Pangkalan Data Kemiskinan Nasional (eKasih), dan memohon sama ada secara manual dengan Borang JKM18 di pejabat daerah atau dalam talian melalui portal eBantuan JKM."
+  - "Skim bantuannya termasuk Sumbangan Asas Rahmah (SARA), Sumbangan Tunai Rahmah (STR), Bantuan Am Persekutuan (Bantuan Am), Bantuan Kanak-Kanak (BKK), Bantuan Warga Emas (BWE) dan Bantuan Anak Pelihara (BAP)."
+  - "Di bawah Akta Orang Kurang Upaya 2008 (Akta 685), Malaysia mengiktiraf tujuh kategori kurang upaya: fizikal, pembelajaran, pendengaran, penglihatan, pertuturan, mental dan pelbagai kurang upaya."
+  - "Pendaftaran OKU menggunakan borang BPPOKU (Pindaan 2/2019) dengan laporan pengesahan perubatan dan salinan MyKad, dikemukakan di kaunter JKM atau dalam talian melalui portal MyDaftar OKU; pemohon yang berjaya menerima Kad OKU yang menunjukkan kategori mereka."
+  - "Ibu pejabat JKM terletak di Aras 6, No. 55, Persiaran Perdana, Presint 4, 62100 Putrajaya; pertanyaan awam disalurkan ke pro_jkm@jkm.gov.my."
+appliesTo: "Sesiapa yang ingin memahami apa itu JKM dan fungsinya, keluarga berpendapatan rendah dan warga emas yang mencari bantuan tunai, orang kurang upaya yang mendaftar untuk Kad OKU, atau penyelidik yang merujuk silang rangka kerja perlindungan sosial Malaysia."
 faq:
-  - q: "JKM berada di bawah kementerian yang mana?"
-    a: "JKM beroperasi di bawah Kementerian Pembangunan Wanita, Keluarga dan Masyarakat (KPWKM), yang mengambil nama semasanya pada 27 Mac 2004."
+  - q: "JKM di bawah kementerian yang mana?"
+    a: "JKM ialah sebuah jabatan di bawah Kementerian Pembangunan Wanita, Keluarga dan Masyarakat (KPWKM), yang turut menyelia agensi seperti Institut Sosial Malaysia (ISM) dan Yayasan Kebajikan Negara Malaysia (YKNM)."
+  - q: "Bagaimanakah cara saya memohon bantuan kewangan JKM?"
+    a: "Anda boleh memohon secara manual dengan Borang JKM18 di Pejabat Kebajikan Masyarakat Daerah, Bahagian atau Cawangan, atau dalam talian melalui portal eBantuan JKM. Setiap permohonan tertakluk kepada ujian kemampuan (means-tested), dan pemohon perlu terlebih dahulu didaftarkan dalam Sistem Pangkalan Data Kemiskinan Nasional (eKasih)."
   - q: "Bagaimanakah cara saya mendaftar sebagai OKU (orang kurang upaya)?"
-    a: "Pendaftaran OKU dibuat melalui JKM di mana-mana Pejabat Kebajikan Masyarakat Daerah; pendaftaran yang berjaya menghasilkan Kad OKU, yang juga merupakan laluan kepada bantuan OKU seperti BTB dan EPOKU serta keistimewaan OKU yang lain."
-  - q: "Berapakah jumlah Bantuan Kanak-Kanak (BKK)?"
-    a: "BKK membayar RM250 sebulan bagi setiap kanak-kanak berumur 6 tahun ke bawah dan RM200 sebulan bagi setiap kanak-kanak berumur 7 hingga 18 tahun, tertakluk kepada maksimum RM1,000 sebulan bagi setiap keluarga, untuk isi rumah yang berada pada atau di bawah garis pendapatan miskin tegar."
-  - q: "Di manakah saya boleh memohon bantuan JKM?"
-    a: "Anda boleh memohon secara peribadi di Pejabat Kebajikan Masyarakat Daerah anda atau dalam talian melalui portal eBantuan JKM di ebantuanjkm.jkm.gov.my."
+    a: "Warganegara Malaysia yang disahkan oleh pakar perubatan kerajaan mengemukakan borang pendaftaran BPPOKU (Pindaan 2/2019) bersama laporan pengesahan perubatan dan salinan MyKad (atau sijil kelahiran bagi pemohon di bawah 12 tahun), sama ada di kaunter JKM atau dalam talian melalui portal MyDaftar OKU. Pemohon yang berjaya menerima Kad OKU yang menunjukkan kategori kurang upaya mereka."
 lang: "ms"
-sourceContentHash: "c5d52093c29d1557"
 masterLanguage: "en"
 translationStatus: "in-sync"
+sourceContentHash: "f9a688b158d9b46c"
 status: "in-review"
 aiAssisted: true
 reviewer: null
-version: "0.1"
+version: "0.2"
 revisions:
   - version: "0.1"
     date: 2026-08-10
     change: "Initial AI draft."
     reviewer: null
+  - version: "0.2"
+    date: 2026-08-14
+    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
+    reviewer: null
 verificationNeeded:
-  - "Current Bantuan Warga Emas (BWE) rate: sources indicate RM500 raised to RM600 per month under Budget 2026 — confirm the exact rate now in force against the official JKM schedule."
-  - "The count of welfare institutions run by JKM (commonly cited as 300+) and the annual number of aid beneficiaries are not drawn from a primary JKM document here and should be confirmed against JKM's official statistics before publication."
-  - "Exact standard processing time (commonly cited as 25 working days) should be confirmed against the official JKM client charter."
-updated: 2026-08-10
+  - "Exact establishment month — JKM's own social media states April 1946, but confirm against an official JKM 'Sejarah/History' page before stating the month (1946 as the year is attested by Simple English Wikipedia)."
+  - "Current Director-General's name — a search surfaced a name from the KPWKM org chart, but DG appointments change; verify on kpwkm.gov.my or jkm.gov.my before naming, or keep the role generic."
+  - "Current income thresholds / B40 or PGK (Poverty Line Income) figures used in JKM means-testing — do not state a specific RM figure without confirming on an official JKM/DOSM source, as these are periodically revised."
+  - "Exact monthly amounts (RM) for each scheme (SARA, STR, Bantuan Am, BKK, BWE, BAP) — confirm current rates on jkm.gov.my before publishing any ringgit figure."
+  - "OKU registration processing time (search suggested 5–14 working days) — not stated on the official malaysia.gov.my page reviewed; verify before asserting."
+  - "Full statutory stack beyond Act 685 (e.g. Child Act 2001 / Act 611, Care Centres Act 1993 / Act 506, Destitute Persons Act 1977 / Act 183) — confirm each on lom.agc.gov.my before citing JKM's enforcement role."
+updated: 2026-08-14
 sources:
-  - title: "Jabatan Kebajikan Masyarakat (JKM) — Official Portal"
-    url: "https://www.jkm.gov.my/"
-    publisher: "Jabatan Kebajikan Masyarakat Malaysia"
-  - title: "Bantuan Bulanan"
-    url: "https://www.jkm.gov.my/main/article/bantuan-bulanan"
-    publisher: "Jabatan Kebajikan Masyarakat Malaysia"
-  - title: "Bantuan Kanak-Kanak (BKK)"
-    url: "https://ihsanmadani.gov.my/inisiatif/pendapatan/bantuan-kanak-kanak-bkk"
-    publisher: "Ihsan MADANI, Government of Malaysia"
-  - title: "Bantuan OKU Tidak Berupaya Bekerja (BTB)"
-    url: "https://www.malaysia.gov.my/my/personas/oku/mendapatkan-bantuan-pekerjaan-oku/bantuan-oku-tidak-berupaya-bekerja-btb"
-    publisher: "MyGovernment (malaysia.gov.my)"
+  - title: "Applying for Social Welfare Department (JKM) Aid"
+    url: "https://www.malaysia.gov.my/en/personas/low-income-families/mendapatkan-bantuan-asas/applying-for-social-welfare-department-jkm-aid"
+    publisher: "Malaysia Government Official Portal (malaysia.gov.my)"
+  - title: "Definition of OKU"
+    url: "https://www.malaysia.gov.my/en/personas/person-with-disabilities/mengesahkan-status-oku/definition-of-oku"
+    publisher: "Malaysia Government Official Portal (malaysia.gov.my)"
+  - title: "OKU Card Application"
+    url: "https://www.malaysia.gov.my/en/categories/personal-identification/oku-card-application"
+    publisher: "Malaysia Government Official Portal (malaysia.gov.my)"
+  - title: "OKU Registration"
+    url: "https://www.malaysia.gov.my/en/categories/personal-identification/oku-card-application/oku-registration"
+    publisher: "Malaysia Government Official Portal (malaysia.gov.my)"
   - title: "Ministry of Women, Family and Community Development"
     url: "https://en.wikipedia.org/wiki/Ministry_of_Women,_Family_and_Community_Development"
     publisher: "Wikipedia"
-entity: "Jabatan Kebajikan Masyarakat (JKM), Department of Social Welfare Malaysia"
-relations:
-  - { rel: "related-to", to: "persons-with-disabilities-employment-malaysia" }
-  - { rel: "related-to", to: "disability-and-oku-healthcare-access" }
-  - { rel: "related-to", to: "healthcare-for-seniors" }
-related:
-  - "persons-with-disabilities-employment-malaysia"
-  - "disability-and-oku-healthcare-access"
-  - "healthcare-for-seniors"
-keywords: ["JKM", "Jabatan Kebajikan Masyarakat", "Social Welfare Department", "Department of Social Welfare Malaysia", "bantuan JKM", "OKU registration", "Kad OKU", "Bantuan Kanak-Kanak", "Bantuan Warga Emas", "KPWKM"]
+  - title: "Direktori — Jabatan Kebajikan Masyarakat"
+    url: "https://www.jkm.gov.my/main/directory"
+    publisher: "Jabatan Kebajikan Masyarakat (jkm.gov.my)"
+  - title: "Department of Social Welfare (Malaysia)"
+    url: "https://simple.wikipedia.org/wiki/Department_of_Social_Welfare_(Malaysia)"
+    publisher: "Simple English Wikipedia"
+entity: "Jabatan Kebajikan Masyarakat (Department of Social Welfare, JKM)"
+relations: []
+related: []
+keywords: ["JKM", "Jabatan Kebajikan Masyarakat", "Department of Social Welfare Malaysia", "bantuan JKM", "OKU card", "OKU registration", "eBantuan JKM", "eKasih", "MyDaftar OKU", "Bantuan Kanak-Kanak BKK", "Persons with Disabilities Act 2008", "kad OKU"]
 ---
 
-**Jabatan Kebajikan Masyarakat** — dikenali di serata tempat dengan akronimnya **JKM** — ialah agensi persekutuan yang bertanggungjawab terhadap kebajikan sosial di Malaysia. Ia ditubuhkan pada tahun **1946**, selepas Perang Dunia Kedua, dan hari ini beroperasi di bawah **Kementerian Pembangunan Wanita, Keluarga dan Masyarakat** (KPWKM), dengan ibu pejabatnya di Putrajaya. Kerjanya merangkumi lima fungsi luas: **perlindungan, pemulihan, pencegahan, pembangunan dan integrasi** bagi kumpulan masyarakat yang lebih terdedah.
+**Jabatan Kebajikan Masyarakat** — dikenali di mana-mana dengan akronimnya **JKM** — ialah agensi persekutuan yang menyambut rakyat Malaysia ketika mereka jatuh. Ia ditubuhkan pada tahun **1946**, pada mulanya sebagai tindak balas terhadap masalah sosial yang berpunca daripada Perang Dunia Kedua, dan peranannya kemudian berkembang kepada **perlindungan, pemulihan, pencegahan, pembangunan dan integrasi masyarakat**. Hasil carian untuk JKM didominasi oleh blog "cara menuntut bantuan" bertanda tahun dan halaman perkhidmatan yang ringkas; halaman ini sebaliknya menerangkan JKM sebagai sebuah institusi dan bagaimana perkhidmatannya berkait rentas seluruh kitaran hidup — daripada kanak-kanak kepada orang kurang upaya kepada warga emas.
 
-## Apa yang dilakukan JKM
+## Apa itu JKM dan di mana kedudukannya?
 
-Mandat JKM meliputi pelbagai kumpulan dan perkhidmatan, disampaikan terutamanya melalui rangkaian **Jabatan Kebajikan Masyarakat Negeri** dan **Pejabat Kebajikan Masyarakat Daerah**. Bidang teras termasuk:
+JKM ialah sebuah jabatan di bawah **Kementerian Pembangunan Wanita, Keluarga dan Masyarakat (KPWKM)**, kementerian yang sama yang menyelia agensi seperti **Institut Sosial Malaysia (ISM)** dan **Yayasan Kebajikan Negara Malaysia (YKNM)**. Ibu pejabatnya terletak di **Aras 6, No. 55, Persiaran Perdana, Presint 4, 62100 Putrajaya**, dan pertanyaan awam disalurkan ke **pro_jkm@jkm.gov.my**.
 
-- **Perlindungan dan kebajikan kanak-kanak** — pengurusan kes, pelindung di bawah Akta Kanak-Kanak, dan rumah kanak-kanak.
-- **Orang kurang upaya (OKU)** — pendaftaran OKU kebangsaan dan pengeluaran **Kad OKU**, pemulihan, dan pemulihan dalam komuniti (Pemulihan Dalam Komuniti, PDK).
-- **Warga emas** — pusat aktiviti, rumah jagaan dan bantuan warga emas.
-- **Orang papa** — pengendalian kes meminta sedekah dan gelandangan di bawah Akta Orang-Orang Papa.
-- **Keluarga dan komuniti** — kaunseling, sokongan mangsa keganasan rumah tangga, pembangunan komuniti, dan penyelarasan **bantuan bencana** semasa banjir dan kecemasan lain.
+## Apakah bantuan kewangan yang disediakan oleh JKM?
 
-## Perundangan yang ditadbir JKM
+JKM mentadbir satu set skim bantuan untuk isi rumah berpendapatan rendah, kanak-kanak, warga emas dan keluarga pemelihara:
 
-Beberapa statut ditadbir di bawah JKM. Akta-akta utama ialah:
+| Skim (nama Inggeris) | Singkatan |
+|---|---|
+| Rahmah Basic Contribution (Sumbangan Asas Rahmah) | SARA |
+| Rahmah Cash Contribution (Sumbangan Tunai Rahmah) | STR |
+| Federal General Assistance (Bantuan Am Persekutuan) | Bantuan Am |
+| Children's Financial Aid (Bantuan Kanak-Kanak) | BKK |
+| Elderly Assistance (Bantuan Warga Emas) | BWE |
+| Foster Child Assistance (Bantuan Anak Pelihara) | BAP |
 
-| Akta | Nombor | Perkara |
-|-----|--------|---------|
-| Akta Orang-Orang Papa 1977 | Akta 183 | Meminta sedekah dan gelandangan; jagaan institusi |
-| Akta Pusat Jagaan 1993 | Akta 506 | Pendaftaran dan kawalan pusat jagaan |
-| Akta Kanak-Kanak 2001 | Akta 611 | Jagaan, perlindungan dan pemulihan kanak-kanak |
-| Akta Orang Kurang Upaya 2008 | Akta 685 | Pendaftaran, hak dan sokongan bagi OKU |
+Setiap permohonan tertakluk kepada **ujian kemampuan (means-tested)** untuk mengesahkan kelayakan, dan pemohon perlu terlebih dahulu didaftarkan dalam **Sistem Pangkalan Data Kemiskinan Nasional (eKasih)**, yang dirujuk oleh JKM sebagai sebahagian daripada rangka kerja kelayakannya. Anda boleh memohon dalam dua cara: **permohonan manual** menggunakan **Borang JKM18** di Pejabat Kebajikan Masyarakat Daerah, Bahagian atau Cawangan, atau **permohonan dalam talian** melalui portal **eBantuan JKM**. Pemohon menyediakan salinan fotokopi kad pengenalan mereka, kad pengenalan dan sijil kelahiran ahli isi rumah yang tinggal bersama, serta penyata gaji jika berkenaan.
 
-## Skim bantuan kewangan bulanan utama
+## Bagaimanakah pendaftaran OKU (orang kurang upaya) berfungsi?
 
-JKM mentadbir satu set skim bantuan tunai bulanan, yang umumnya diuji menggunakan garis pendapatan isi rumah. Kadar utama ialah:
+Di bawah **Akta Orang Kurang Upaya 2008 (Akta 685)**, OKU ialah orang yang mempunyai kekurangan jangka panjang dari segi fizikal, mental, intelek atau deria yang mungkin menghalang penyertaan penuh dan berkesan dalam masyarakat atas dasar yang sama rata dengan orang lain. Malaysia mengiktiraf **tujuh kategori** kurang upaya: kurang upaya **fizikal, pembelajaran, pendengaran, penglihatan, pertuturan, mental, dan pelbagai**.
 
-| Skim | Kadar (sebulan) | Kumpulan sasaran |
-|--------|------------------|--------------|
-| Bantuan Kanak-Kanak (BKK) | RM250 (umur ≤6) / RM200 (umur 7-18); maksimum **RM1,000 sekeluarga** | Kanak-kanak dalam keluarga berpendapatan rendah |
-| Bantuan OKU Tidak Berupaya Bekerja (BTB) | RM300 | OKU berumur 16-59 yang tidak berupaya bekerja |
-| Elaun Pekerja OKU (EPOKU) | RM450 | OKU bekerja berpendapatan rendah |
-| Bantuan Penjagaan (BPT) | RM500 | Penjaga OKU terlantar / pesakit kronik |
-| Bantuan Warga Emas (BWE) | RM500 (dinaikkan kepada RM600 di bawah Belanjawan 2026 — *sahkan*) | Warga emas berumur 60+ tanpa pendapatan tetap |
+Untuk mendaftar, pemohon — yang mesti warganegara Malaysia yang disahkan oleh pakar perubatan kerajaan — mengemukakan borang pendaftaran **BPPOKU (Pindaan 2/2019)** bersama laporan pengesahan perubatan dan salinan MyKad (atau sijil kelahiran bagi pemohon di bawah 12 tahun). Ini boleh dilakukan **secara manual di kaunter JKM** atau **dalam talian melalui portal MyDaftar OKU**. Pemohon yang berjaya menerima **Kad OKU** yang menunjukkan kategori kurang upaya mereka, yang digunakan untuk mengakses kemudahan dan keistimewaan khusus untuk orang kurang upaya.
 
-Kelayakan bagi skim-skim ini umumnya memerlukan pemohon menjadi warganegara Malaysia yang bermastautin di Malaysia, dengan pendapatan isi rumah pada atau di bawah garis kemiskinan berkaitan, dan tidak menetap di institusi yang dikendalikan JKM. Kadar RM1,000 bagi BKK ialah **had siling**, bukan bayaran automatik — jumlah sebenar bergantung pada bilangan dan umur kanak-kanak yang layak serta keadaan keluarga yang dinilai.
+## Apa seterusnya
 
-## Cara memohon
-
-Permohonan boleh dibuat secara peribadi di **Pejabat Kebajikan Masyarakat Daerah** yang terdekat, atau dalam talian melalui portal **eBantuan JKM** di *ebantuanjkm.jkm.gov.my*. Pemohon biasanya melengkapkan borang JKM yang berkaitan, memuat naik dokumen sokongan (identiti, pendapatan dan butiran isi rumah), dan menunggu penilaian, yang mungkin termasuk lawatan ke rumah sebelum keputusan dibuat.
-
-## Apa yang seterusnya
-
-Jika anda memohon bagi pihak seorang OKU, mulakan dengan **pendaftaran OKU** dan **Kad OKU**, yang membuka akses kepada BTB, EPOKU dan keistimewaan lain — lihat halaman berkaitan tentang akses penjagaan kesihatan orang kurang upaya dan OKU, serta tentang pekerjaan orang kurang upaya. Untuk sokongan warga emas, lihat halaman penjagaan kesihatan untuk warga emas. Untuk kadar dan borang terkini yang muktamad, sentiasa semak portal rasmi JKM di **jkm.gov.my** sebelum memohon.
+Mulakan dengan mengesahkan bahawa anda telah didaftarkan dalam **eKasih**, kemudian pilih laluan anda — **Borang JKM18** di pejabat daerah atau portal **eBantuan JKM** — dan kumpulkan dokumen pengenalan, isi rumah dan pendapatan terlebih dahulu. Jika anda menyokong seorang yang kurang upaya, mulakan dengan **pendaftaran OKU** dan **Kad OKU**, yang merupakan pintu masuk kepada perkhidmatan khusus kurang upaya. Untuk kadar, ambang dan borang semasa, sentiasa semak portal rasmi JKM di **jkm.gov.my** sebelum memohon.

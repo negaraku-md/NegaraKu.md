@@ -1,109 +1,119 @@
 ---
 topicId: "MY-LAW-0099"
-title: "1987年道路交通法令"
-seoTitle: "马来西亚1987年道路交通法令（第333号法令）指南"
-summary: "马来西亚规范车辆注册、驾驶执照、交通罪行与道路安全执法的主要法规（第333号法令）。"
+title: "1987年陆路交通法令：解读马来西亚的道路与交通法律"
+seoTitle: "1987年陆路交通法令（Act 333）：罪行与刑罚"
+socialTitle: "每一张JPJ罚单背后的1987年法律——以及它如今让你付出多少代价"
 slug: "road-transport-act-1987"
 category: "law"
-subcategory: ["road-traffic-law"]
+subcategory: ["key-acts"]
+summary: "1987年陆路交通法令（Act 333）是马来西亚管理机动车辆、驾驶执照、道路交通及强制第三者保险的主要法规，由陆路交通局（JPJ）执法——2020年的修正案大幅提高了无照驾驶、危险驾驶和酒后驾驶等罪行的刑罚。"
 tier: "3"
 mode: "practical"
 contentType: "law"
 sensitivity: "none"
-answer: "1987年道路交通法令（第333号法令）是马来西亚规范机动车辆与道路交通的主要法律。它涵盖车辆注册与执照、驾驶执照、定期检验、第三方保险，以及鲁莽、危险和酒后驾驶等交通罪行。此法令主要由陆路交通局（JPJ）负责管理与执法，并经2020年道路交通（修正）法令大幅加重了处罚。"
+answer: "1987年陆路交通法令（Act 333）是马来西亚管理机动车辆与道路交通的主要法律。它规范车辆注册和驾驶执照、设立强制第三者保险，并界定核心的交通罪行——无照驾驶、莽撞与危险驾驶，以及酒后驾驶。它由陆路交通局（JPJ）执法，其刑罚经2020年陆路交通（修正）法令大幅提高，该修正案自2020年10月23日起生效。"
 keyTakeaways:
-  - "第333号法令于1987年8月30日获得御准，分为五大部分，涵盖注册、执照、检验、道路、第三方保护及罪行。"
-  - "根据第26(1)条，任何人不得在没有该类车辆有效驾驶执照的情况下于道路上驾驶；根据第23条，使用没有有效机动车辆执照的车辆属于罪行。"
-  - "2020年道路交通（修正）法令（第A1618号法令）提高了处罚：因鲁莽或危险驾驶致人死亡（第41条）初犯者现可判处5至10年监禁及2万至5万令吉罚款。"
-  - "超过规定血液酒精含量（第45A条）即使未发生意外，也可判处最高两年监禁及1万至3万令吉罚款。"
-  - "源自第333号法令附属规则的KEJARA扣分制度已于2017年4月15日开始执法。"
-appliesTo: "驾驶人、摩托车骑士、车主、交通运输业者、法律系学生，以及任何需要马来西亚道路交通法权威参考的人士。"
+  - "Act 333于1987年7月通过，1987年8月30日获得御准，并于1987年9月24日生效。"
+  - "该法令分为五个主要部分，涵盖注册与发照、定期检验、外国车辆、道路、第三者保障，以及罪行。"
+  - "第26(1)条禁止在没有有效驾驶执照的情况下在道路上驾驶机动车辆。"
+  - "2020年修正案规定，因莽撞或危险驾驶致死（第41条）首次犯罪者处5至10年监禁及RM20,000至RM50,000罚款。"
+  - "同一修正案将法定呼气酒精含量上限从每100毫升35微克降至22微克，与世界卫生组织（WHO）标准一致。"
+appliesTo: "驾驶者、摩托车骑士、车主、运输业者、法律系学生，以及任何需要以浅白语言查阅马来西亚道路交通法律的人。"
 faq:
-  - q: "马来西亚的1987年道路交通法令是什么？"
-    a: "它是第333号法令，是规范机动车辆、驾驶执照、车辆注册、道路使用、第三方保险及交通罪行的主要联邦法规，主要由陆路交通局（JPJ）执法。"
-  - q: "根据此法令我需要驾驶执照吗？"
-    a: "需要。第26(1)条禁止在道路上驾驶机动车辆，除非你持有授权你驾驶该类车辆的驾驶执照。"
-  - q: "酒后驾驶的处罚是什么？"
-    a: "根据修正后的第45A条，超过规定酒精含量可判处最高两年监禁及1万至3万令吉罚款；在受影响状态下致人死亡（第44条）则处以更严厉的处罚。"
+  - q: "什么是1987年陆路交通法令？"
+    a: "它是Act 333，马来西亚管理机动车辆、驾驶执照、道路交通及强制第三者保险的主要法规。它主要由陆路交通局（JPJ）负责管理和执法。"
+  - q: "根据该法令，我需要驾驶执照吗？"
+    a: "需要。第26(1)条禁止任何人在没有有效驾驶执照的情况下在道路上驾驶机动车辆。"
+  - q: "2020年修正案带来了哪些改变？"
+    a: "2020年陆路交通（修正）法令于2020年10月23日生效。它提高了莽撞与危险驾驶以及酒后驾驶（第41至45A条）的刑罚和吊销执照期限，将规定的酒精含量上限降至WHO标准，并新增了「微型移动车辆」（micromobility vehicle）的定义。"
 lang: "zh"
-sourceContentHash: "7b341f1a45098841"
 masterLanguage: "en"
 translationStatus: "in-sync"
+sourceContentHash: "753554e9c7cc5cd0"
 status: "in-review"
 aiAssisted: true
 reviewer: null
-version: "0.1"
+version: "0.2"
 revisions:
   - version: "0.1"
     date: 2026-08-10
     change: "Initial AI draft."
     reviewer: null
+  - version: "0.2"
+    date: 2026-08-14
+    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
+    reviewer: null
 verificationNeeded:
-  - "Exact commencement date: sources give Royal Assent 30 August 1987 and general effect from 1 January 1988; confirm the precise commencement notification against the AGC gazette."
-  - "Total section count (reported as 129 sections and 3 schedules) is from a secondary source and should be checked against the official AGC reprint."
-  - "Section 44 (death/injury while under influence) penalty bands and section 42/43 figures are drawn from the 2020 amendment as reported by legal-firm and press summaries; verify against the gazetted text of Act A1618."
-updated: 2026-08-10
+  - "Exact Section 26(1) penalty for driving without a valid licence — aggregators quote 'fine not exceeding RM1,000 or imprisonment not exceeding 3 months or both,' but other sources quote RM300-RM2,000. Confirm against the lom.agc.gov.my Act 333 reprint before stating a figure."
+  - "Exact Section 90 penalty for using a vehicle without third-party insurance — secondary sources disagree (RM1,000/3 months vs RM2,000/3 years); verify against the statute."
+  - "Precise structural counts (129 sections and 3 schedules) — cross-check against the current AGC/LOM consolidated reprint (as at 15 October 2023), since amendments add and renumber sections."
+  - "Full exact wording of the DUI prescribed limits (s.45G) and the tiered penalties under s.44/45/45A — reconcile paultan reporting with the amendment's gazetted text."
+  - "Whether the further June 2026 traffic-penalty reform has been enacted and gazetted — keep this page to law currently in force and treat any proposed increases separately."
+  - "Complete authoritative list and citation numbers of all amending Acts — confirm via the AGC 'Amendments' listing for Act 333."
+updated: 2026-08-14
 sources:
   - title: "Act 333 - Road Transport Department Malaysia (JPJ)"
     url: "https://www.jpj.gov.my/en/act-333/"
-    publisher: "Road Transport Department Malaysia (JPJ)"
-  - title: "Act 333 - Road Transport Act 1987 (Reprint PDF)"
-    url: "https://www.mot.gov.my/en/Documents/Act%20333%20-%20Road%20Transport%20Act%201987.pdf"
-    publisher: "Ministry of Transport Malaysia"
-  - title: "Road Transport Act 1987 - consolidated text"
-    url: "https://www.commonlii.org/my/legis/consol_act/rta1987187/"
-    publisher: "CommonLII"
-  - title: "Demerit Points System for Traffic Offences (KEJARA)"
-    url: "https://www.jpj.gov.my/en/kejara-information/"
-    publisher: "Road Transport Department Malaysia (JPJ)"
-  - title: "Road Transport Act amendments detailed - increased fines and longer jail terms"
+    publisher: "Jabatan Pengangkutan Jalan (JPJ) / Road Transport Department Malaysia"
+  - title: "Road Transport Act 1987 — Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Road_Transport_Act_1987"
+    publisher: "Wikipedia"
+  - title: "Driving Without a License: What are your potential liabilities?"
+    url: "https://www.thomasphilip.com.my/articles/driving-without-a-license-what-are-your-potential-liabilities/"
+    publisher: "Thomas Philip Advocates and Solicitors"
+  - title: "Amendments to Road Transport Act in force from 23 October 2020"
+    url: "https://www.allenandgledhill.com/publication/articles/17102/amendments-to-road-transport-act-in-force-from-23-october-2020"
+    publisher: "Allen & Gledhill"
+  - title: "Road Transport Act amendments detailed — increased fines and longer jail terms"
     url: "https://paultan.org/2020/07/29/road-transport-act-amendments-detailed-increased-fines-and-longer-jail-terms-not-just-for-drink-driving/"
-    publisher: "Paul Tan's Automotive News"
-  - title: "Road Transport (Amendment) Act 2020"
-    url: "https://www.zulrafique.com.my/article-sample.php?id=1314"
-    publisher: "Zul Rafique & Partners"
+    publisher: "paultan.org"
 entity: "Road Transport Act 1987 (Act 333)"
 relations: []
 related: []
-keywords: ["Road Transport Act 1987", "Act 333", "Akta Pengangkutan Jalan 1987", "RTA 1987", "JPJ", "KEJARA", "drink driving Malaysia", "traffic offences Malaysia", "driving licence Malaysia"]
+keywords: ["Road Transport Act 1987", "Act 333", "Akta Pengangkutan Jalan 1987", "RTA 1987", "JPJ", "driving without licence Malaysia", "traffic offences Malaysia", "DUI Malaysia penalty", "Road Transport Amendment Act 2020", "dangerous driving Malaysia", "Section 41 RTA", "Section 44 RTA"]
 ---
 
-**1987年道路交通法令（第333号法令）** 是马来西亚规范机动车辆与道路交通的主要法律。它规范车辆注册与执照、驾驶执照、定期车辆检验、第三方保险，以及各种交通罪行。此法令主要由 **陆路交通局（Jabatan Pengangkutan Jalan, JPJ）** 负责管理与执法，并于 **1987年8月30日** 获得御准。
+在马来西亚，几乎每一张JPJ的*saman*（罚单）、每一个驾驶执照等级，以及每一份第三者保险保单，都可追溯至同一部法规：**1987年陆路交通法令（Act 333）**，马来文为*Akta Pengangkutan Jalan 1987*。它是马来西亚管理机动车辆与道路交通的主要法律，主要由**陆路交通局（Jabatan Pengangkutan Jalan, JPJ）**执法。以下以浅白的语言梳理各部分所规范的内容，以及常见罪行如今的代价。
 
-## 法令涵盖范围
+## 该法令实际涵盖哪些内容？
 
-其长标题将此法令描述为一项规范机动车辆及道路交通、保护第三方免受机动车辆使用所引致风险，并协调与管制交通工具及设施的法令。其条文分为五大部分：
+其长标题将本法令描述为：一部规范机动车辆及道路交通、以及有关道路与车辆其他事项的法令；提供针对因使用机动车辆而产生的风险的第三者保障；并协调与管制运输的方式和设施，以及机动车辆的制造与改装。简而言之：它把发照、道路使用、保险和执法整合进一个单一的框架之中。
 
-| 部分 | 主题 |
-|------|---------|
-| 第一部分 | 前言（释义、适用范围） |
-| 第二部分 | 机动车辆及驾驶人的分类、注册与执照（含有关定期检验与外国车辆的第IIA及IIB部分） |
-| 第三部分 | 道路 |
-| 第四部分 | 防范机动车辆使用所引致第三方风险的条文 |
-| 第五部分 | 罪行及杂项条文 |
+该法令由下议院（Dewan Rakyat）于1987年7月10日通过，上议院（Dewan Negara）于1987年7月17日通过，并于**1987年8月30日**获得御准，随后于**1987年9月24日**生效。JPJ负责维护现行的综合文本；最新的重印版本是修订至2023年10月15日的版本。
 
-## 注册与执照
+## 该法令的结构如何？
 
-此法令将注册与执照定为合法使用道路的基础。根据 **第26(1)条**，任何人不得在道路上驾驶机动车辆，除非持有授权其驾驶该类别或类型车辆的驾驶执照。另外，根据 **第23条**，使用没有有效 **机动车辆执照（路税）** 的车辆属于罪行。JPJ 依据此法令设立的框架发出驾驶执照并注册车辆。
+Act 333分为五个主要部分（另有两个插入的子部分），据报由129条条文和3个附表组成：
 
-## 交通罪行与2020年修正
+| 部分 | 所规范内容 |
+|------|-----------------|
+| 第一部 | 序言——释义与适用 |
+| 第二部 | 机动车辆及驾驶者的分类、注册与发照 |
+| 第二A部 | 机动车辆的定期检验 |
+| 第二B部 | 外国机动车辆 |
+| 第三部 | 道路 |
+| 第四部 | 针对第三者风险的条文（强制车辆保险） |
+| 第五部 | 罪行及杂项条文 |
 
-第五部分订明核心交通罪行。**2020年道路交通（修正）法令（第A1618号法令）** 大幅提高了处罚，尤其针对危险及酒后驾驶。主要罪行及其处罚包括：
+第四部是本法令第三者保障宗旨具体化之处：它构成了马来西亚强制第三者车辆保险制度的基础。
 
-| 条文 | 罪行 | 处罚（初犯，修正后） |
+## 主要罪行及其刑罚是什么？
+
+第五部界定核心的交通罪行。**2020年陆路交通（修正）法令**于**2020年10月23日**开始生效，大幅提高了第41至45A条项下罪行的刑罚和吊销执照期限，涵盖莽撞与危险驾驶以及受影响下驾驶。它还引入了「微型移动车辆」（micromobility vehicle）的新定义。首次犯罪的主要数字如下：
+
+| 条文 | 罪行 | 刑罚（首次犯罪，修订后） |
 |---------|---------|--------------------------------------|
-| 第41条 | 因鲁莽或危险驾驶致人死亡 | 5至10年监禁及2万至5万令吉罚款 |
-| 第42条 | 鲁莽及危险驾驶 | 最高1万令吉罚款及/或监禁；最长5年吊销资格 |
-| 第43条 | 疏忽及不体谅驾驶 | 最低5,000令吉罚款 |
-| 第44条 | 在受影响状态下致人死亡或受伤 | 高额罚款及长期监禁；致死者最少吊销资格10年 |
-| 第45A条 | 超过规定酒精含量 | 最高2年监禁及1万至3万令吉罚款 |
+| 第26(1)条 | 无有效执照驾驶 | 禁止（刑罚待核实） |
+| 第41条 | 因莽撞或危险驾驶致死 | RM20,000至RM50,000罚款及/或5至10年监禁 |
+| 第42条 | 莽撞与危险驾驶 | 最高RM5,000至RM10,000罚款及最高5年监禁；吊销执照期限提高至5年 |
+| 第44条 | 在受影响下驾驶致死或造成严重伤害 | RM50,000至RM100,000罚款及/或最高15年监禁 |
 
-根据 **第45A条**，在驾驶、尝试驾驶或掌管机动车辆时，体内酒精含量超过规定限度本身即属罪行，即使没有发生意外、死亡或受伤。
+就第41条而言，这一首次犯罪的刑罚区间，较之前的RM5,000至RM20,000罚款和2至10年监禁大幅提高；再次犯罪如今可判处RM50,000至RM100,000及最高15年监禁。第44条的再次犯罪则可判处15至20年监禁及最高RM150,000罚款。
 
-## 执法与 KEJARA 扣分制度
+## 酒后驾驶的上限如何改变？
 
-此法令下的执法权力让 JPJ 官员及警方得以拦截、检查及扣押违反安全与执照要求的车辆。为遏止重复犯罪，源自第333号法令附属规则的 **KEJARA** 扣分制度已于 **2017年4月15日** 开始执法。就列明罪行累积扣分的驾驶人将面对逐级递增的执照暂扣，最终甚至吊销执照。
+2020年修正案将规定的酒精含量上限降至世界卫生组织（WHO）标准。呼气酒精含量上限从每100毫升**35微克降至22微克**，血液酒精含量上限从每100毫升**80毫克降至50毫克**，尿液上限从每100毫升**107毫克降至67毫克**。实际上，这意味着相较2020年10月之前，驾驶者在法律上被判定超标的门槛更低了。
 
 ## 下一步
 
-有关此法令之下的具体规则与数字，请参阅 JPJ 官方网站以了解驾驶执照类别、路税费率及现行 KEJARA 列明罪行；在法律事务中依据任何条文编号之前，请查阅总检察署（AGC）的重印本以获取权威的法规文本。
+在任何法律事务中依据本页面所列的确切条文号、罚款金额或强制保险刑罚之前，请查阅总检察署（AGC/LOM）关于Act 333的权威重印版本，以及JPJ官方门户网站上现行的执照等级与执法规则。本页面若干精确数字——包括第26(1)条和第90条的刑罚——仍标记为待对照主要法规文本核实。

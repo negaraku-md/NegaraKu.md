@@ -1,115 +1,129 @@
 ---
 topicId: "MY-GOV-0093"
-title: "教育部（KPM）"
-seoTitle: "马来西亚教育部（KPM）：职责与法律"
+title: "马来西亚教育部（KPM）：职责范围与运作方式"
+seoTitle: "马来西亚教育部（KPM）：职责与架构"
+socialTitle: "谁在管理马来西亚的学校？走进教育部（KPM）"
 slug: "ministry-of-education-moe"
 category: "government"
-subcategory: ["ministry"]
-summary: "教育部（KPM）依据《1996年教育法令》负责的事务——学前、小学、中学及中学后教育——以及它与另设的高等教育部有何区别。"
+subcategory: ["ministries"]
+summary: "教育部（Kementerian Pendidikan Malaysia，KPM）是负责运作马来西亚高等教育前教育体系的联邦部门，涵盖学前教育、小学、中学与大学先修班，依据《1996年教育法令》运作，并在联邦预算中获得最大的拨款份额。"
 tier: "3"
 mode: "practical"
 contentType: "agency"
 sensitivity: "none"
-answer: "教育部（马来语 Kementerian Pendidikan Malaysia，简称 KPM）是负责马来西亚学校系统的联邦部门——涵盖学前、小学、中学及中学后（大学预科）教育。其核心法规是《1996年教育法令》（第550号法令，Act 550），据此制定国家课程、举办全国考试，并管理政府学校及政府资助学校。它不管辖大学；那属于另设的高等教育部。其官方网站为 moe.gov.my。"
+answer: "教育部（Kementerian Pendidikan Malaysia，KPM）是负责马来西亚高等教育前教育体系的联邦部门，涵盖学前教育、小学、中学与中学后教育。它依据《1996年教育法令》（第550号法令）运作，制定课程标准、教科书、标准化考试与语文政策，并管理政府学校。它不负责大学事务；大学由独立的高等教育部管辖。其官方门户网站为 moe.gov.my。"
 keyTakeaways:
-  - "KPM 是马来语 Kementerian Pendidikan Malaysia 的缩写；该部门最早于1955年成立，总部设在布城 E 区 E8 座（Block E8, Parcel E, Putrajaya）。"
-  - "其主要法律是《1996年教育法令》（第550号法令，Act 550）——1996年7月15日获御准，1996年8月1日生效——取代了《1961年教育法令》，并界定了国家教育体系。"
-  - "第550号法令下的国家教育体系涵盖学前、小学、中学及中学后教育；高等（大学）教育则另行分立。"
-  - "截至2026年，部长为法丽娜·西迪（Fadhlina Sidek，2022年12月3日上任），副部长为黄家和（Wong Kah Woh，2023年12月12日上任）。"
-  - "KPM 举办全国考试；小学 UPSR 考试已于2021年废除，初中 PT3 评估于2022年废除，而 SPM（马来西亚教育文凭，Sijil Pelajaran Malaysia）仍然保留。"
-  - "按员工人数计，KPM 是公务体系中最庞大的部门，约有587,940名员工（2022年），其中大部分是教师。"
-appliesTo: "需要了解哪个部门管辖马来西亚学校、其依据何种法律运作，以及其职权到何处为止的家长、学生、教师、记者与研究人员。"
+  - "KPM 管辖高等教育前教育（学前、小学、中学、大学先修班），以及课程、教科书、全国考试、技职教育与培训（TVET）和语文政策——大学则归独立的高等教育部管辖。"
+  - "其主要法规是《1996年教育法令》（第550号法令），于1996年7月15日获得御准，确立了国家教育体系。"
+  - "教育部长为 Fadhlina Sidek（自2022年12月上任），由副部长 Wong Kah Woh 协助。"
+  - "教育部成立于1955年，总部设于布城（Putrajaya）62604，E区（Complex E）E8座（Block E8, Parcel E）。"
+  - "根据2026年财政预算案，KPM 获得所有联邦部门中最大的拨款——RM66.2亿令吉，高于2025年的RM64.2亿令吉。"
+  - "《2013-2025年马来西亚教育发展大蓝图》（PPPM）是指导性政策，提出五项体系愿景、六项学生特质以及11项策略与运作转型。"
+appliesTo: "需要了解哪个部门管辖马来西亚学校、其运作所依据的法律，以及它与高等教育部有何区别的家长、学生、教师、记者与研究人员。"
 faq:
-  - q: "KPM 与高等教育部有何区别？"
-    a: "KPM（Kementerian Pendidikan Malaysia）管辖学校——从学前直至中学后。大学、被归类为高等教育的理工学院，以及大学先修（matriculation）层级的高等教育，则归另设的高等教育部（KPT）管辖。两者曾于2013年至2015年合并，此后一直是分立的部门。"
+  - q: "KPM 与高等教育部有什么区别？"
+    a: "KPM（Kementerian Pendidikan Malaysia）管辖高等教育前教育——从学前到中学与大学先修班。大学及高等院校归独立的高等教育部管辖。两者曾于2013年5月15日合并，但于2015年再度分拆，至今仍为独立部门。"
   - q: "教育部依据什么法律运作？"
-    a: "其主要法规是《1996年教育法令》（第550号法令，Act 550），于1996年7月15日获御准，1996年8月1日生效，取代了《1961年教育法令》。它界定了国家教育体系，以及该部门对课程、考试和机构的权力。"
-  - q: "KPM 是否仍举办 UPSR 和 PT3 考试？"
-    a: "不再举办。UPSR（小学）考试已于2021年废除，PT3（初中）评估于2022年废除，改为校本评估。高中的 SPM（马来西亚教育文凭，Sijil Pelajaran Malaysia）仍然照常举办。"
-  - q: "现任教育部长是谁？"
-    a: "截至2026年，教育部长为法丽娜·西迪（Fadhlina Sidek），自2022年12月3日上任；副部长为黄家和（Wong Kah Woh），自2023年12月12日上任。"
+    a: "其主要法规是《1996年教育法令》（第550号法令），即管辖国家教育体系的主要联邦立法。该法令于1996年7月15日获得御准。根据第29A条，部长可将小学教育规定为强制教育。"
+  - q: "教育部的预算有多大？"
+    a: "根据2026年财政预算案，KPM 获得RM66.2亿令吉——所有联邦部门中最大的拨款——高于2025年的RM64.2亿令吉。该拨款包括近RM20亿令吉，用于翻新超过520所破旧学校及兴建38所新学校。"
 lang: "zh"
-sourceContentHash: "9c21aa4545b61095"
 masterLanguage: "en"
 translationStatus: "in-sync"
+sourceContentHash: "21be9dbe8511938b"
 status: "in-review"
 aiAssisted: true
 reviewer: null
-version: "0.1"
+version: "0.2"
 revisions:
   - version: "0.1"
     date: 2026-08-10
-    change: "Initial AI draft. Statutory basis (Education Act 1996, Act 550), remit, ministry/higher-education split history, and leadership verified against the statute reprint, official MOE site and reporting."
+    change: "Initial AI draft."
+    reviewer: null
+  - version: "0.2"
+    date: 2026-08-14
+    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
     reviewer: null
 verificationNeeded:
-  - "Secretary-General (Dato' Wan Hashim bin Wan Rahim) and Director-General of Education (Datuk Dr. Mohd Azam bin Ahmad) — confirm both still in office and honorifics current against the live moe.gov.my leadership pages; sourced from the Wikipedia infobox, not a primary MOE page."
-  - "2026 KPM budget allocation of approximately RM66.2 billion — confirm against the official Budget 2026 documents; figure taken from the Wikipedia infobox."
-  - "Staff headcount of 587,940 (2022) — confirm against a KPM or Public Service Department figure; taken from the Wikipedia infobox."
-  - "Exact formation year of 1955 and headquarters address — confirm against an official MOE 'About Us' page."
-updated: 2026-08-10
+  - "Exact official English wording of KPM's vision and mission — Malay is authoritative and multiple divergent English translations appear online; confirm against the moe.gov.my English profile page before quoting."
+  - "Current total number of KPM employees/staff — sources conflict (549,159 in 2018 vs 587,940 in 2022); confirm the latest figure from KPM Quick Facts."
+  - "Exact appointment date of Deputy Minister Wong Kah Woh (reported as 12 December 2023) — confirm against an official or Parliament source."
+  - "Current total number of government schools and total student/teacher counts — pull exact latest from KPM 'Quick Facts Malaysia Education Statistics' or OpenDOSM."
+  - "Whether the Malaysia Education Blueprint 2013-2025 has a formally launched successor plan (a 2027-onward direction was signalled under Budget 2026) — confirm official name/status before stating."
+  - "Full current list of departments, divisions and agencies under KPM — verify the complete list against the moe.gov.my org chart."
+updated: 2026-08-14
 sources:
-  - title: "Education Act 1996 (Act 550) — Laws of Malaysia reprint"
-    url: "https://www.unesco.org/en/right-education/observatory/education-act-1996"
-    publisher: "Government of Malaysia (Laws of Malaysia reprint, hosted by UNESCO)"
   - title: "Ministry of Education (Malaysia)"
     url: "https://en.wikipedia.org/wiki/Ministry_of_Education_(Malaysia)"
     publisher: "Wikipedia"
-  - title: "Education Act 1996 (Malaysia)"
-    url: "https://en.wikipedia.org/wiki/Education_Act_1996_(Malaysia)"
+  - title: "Minister of Education (Malaysia)"
+    url: "https://en.wikipedia.org/wiki/Minister_of_Education_(Malaysia)"
     publisher: "Wikipedia"
-  - title: "MOE — Minister and Deputy Ministers"
-    url: "https://www.moe.gov.my/en/corporate/minister-and-deputy-ministers"
+  - title: "MOE — Vision and Mission"
+    url: "https://www.moe.gov.my/?id=1&lang=en"
     publisher: "Ministry of Education Malaysia"
-  - title: "Fadhlina welcomes new deputy minister Wong Kah Woh"
-    url: "https://www.thestar.com.my/news/nation/2023/12/12/fadhlina-welcomes-new-deputy-minister-wong-kah-woh"
+  - title: "Education Act 1996 (Act 550), Laws of Malaysia"
+    url: "https://www.unesco.org/en/right-education/observatory/education-act-1996"
+    publisher: "UNESCO"
+  - title: "Education Act 1996 (Act 550) — Laws of Malaysia Reprint"
+    url: "https://www.unesco.org/education/edurights/media/docs/86f152c6bff6581e5b8d9caee77a3c4921703faa.pdf"
+    publisher: "UNESCO / Government of Malaysia"
+  - title: "Malaysia Education Blueprint 2013-2025 (Executive Summary)"
+    url: "http://appswpkl.moe.gov.my/download/phocadownload/sektor/spm/upm/malaysiaeducationblueprint.pdf"
+    publisher: "Ministry of Education Malaysia"
+  - title: "Budget 2026: Education Ministry receives largest allocation of RM66.2bil"
+    url: "https://www.thestar.com.my/news/nation/2025/10/10/budget-2026-education-ministry-receives-largest-allocation-of-rm642bil"
     publisher: "The Star"
-    date: "2023-12-12"
-entity: "Ministry of Education Malaysia (Kementerian Pendidikan Malaysia)"
-relations:
-  - { rel: "governs", to: "malaysian-education-system" }
-  - { rel: "related-to", to: "upsr-to-spm-exams" }
-  - { rel: "related-to", to: "enrolling-in-a-government-school" }
-related: ["malaysian-education-system", "upsr-to-spm-exams", "enrolling-in-a-government-school"]
-keywords: ["Ministry of Education", "KPM", "Kementerian Pendidikan Malaysia", "MOE Malaysia", "Education Act 1996", "Act 550", "national curriculum", "SPM", "Malaysian schools", "moe.gov.my"]
+  - title: "Education ministry gets RM66.2bil allocation in Budget 2026"
+    url: "https://www.freemalaysiatoday.com/category/nation/2025/10/10/education-ministry-gets-rm66-2bil-allocation-in-budget-2026"
+    publisher: "Free Malaysia Today"
+  - title: "Search for Educational Institutions of the Ministry of Education"
+    url: "https://www.malaysia.gov.my/en/digital-services/search-for-educational-institutions-of-the-ministry-of-education"
+    publisher: "Government of Malaysia (MyGov)"
+entity: "Ministry of Education Malaysia (Kementerian Pendidikan Malaysia, KPM)"
+relations: []
+related: []
+keywords: ["Ministry of Education Malaysia", "KPM", "Kementerian Pendidikan Malaysia", "Fadhlina Sidek", "Education Act 1996", "Malaysia Education Blueprint", "PPPM", "KPM vs KPT", "Menteri Pendidikan Malaysia", "moe.gov.my", "compulsory education Malaysia", "Malaysia school system"]
 ---
 
-教育部——马来语 Kementerian Pendidikan Malaysia，普遍简称 **KPM**——是负责运作马来西亚学校系统的联邦部门。凡是涉及国民学校、孩子所修读的课程、公立学校教师的调派，或像 SPM 这样的离校文凭，都归 KPM 管。KPM *不*负责的，是大学的运作：那属于另设的一个部门，而这道界线让许多人搞混。
+凡是与马来西亚学童相关的事务——他们所学的课程、桌上的教科书、参加的全国考试，或站在讲台前的公立学校教师——都归教育部管辖。它在马来文中称为 **Kementerian Pendidikan Malaysia**，几乎总是简称为 **KPM**，是负责运作全国高等教育前教育体系的联邦部门。它*不*负责的是大学——这是一个让许多人混淆的界线。
 
-## 概览
+## KPM 管辖哪些事务？
+
+KPM 负责国家教育体系，具体而言负责**高等教育前教育**：学前教育、小学、中学与中学后（大学先修班）教育。其职责范围涵盖强制教育、技职教育与培训（TVET）、课程标准、教科书、标准化考试、语文政策，以及构成整个体系的精英学校与普通学校。
+
+该部门所述的愿景是 *Pendidikan Berkualiti, Insan Terdidik, Negara Sejahtera*——优质教育、有教养的国民、繁荣安康的国家——其使命是维系一个优质的教育体系，发展个人潜能以实现国家宏愿。
+
+## 它依据什么法律运作？
+
+**《1996年教育法令》（第550号法令）**是管辖马来西亚国家教育体系的主要联邦立法。该法令于1996年7月15日获得御准。
+
+这项法令不只是一份抽象的章程——它触及每一个家庭。根据**第29A条**，部长可将小学教育规定为强制教育，要求身为马来西亚公民的家长为在学年1月1日前已满六岁的孩子办理入学。违反此规定的家长即属犯罪，可被处以不超过RM5,000令吉的罚款、最长六个月的监禁，或两者兼施。
+
+指导性政策与法规并行。**《2013-2025年马来西亚教育发展大蓝图》**（Pelan Pembangunan Pendidikan Malaysia，PPPM）通过五项体系愿景、六项学生特质以及11项策略与运作转型，规划了高等教育前体系的转型。该蓝图历时15个月拟定，从2011年10月至2012年12月，并汲取了联合国教科文组织（UNESCO）、世界银行、经济合作与发展组织（OECD）及本地大学的意见。
+
+## KPM 与高等教育部有何不同？
+
+这是最常见的混淆点。KPM 负责学校；独立的**高等教育部**负责大学。
+
+两者的架构曾多次变动。高等教育职能于2004年3月27日分拆为独立的高等教育部，于2013年5月15日合并回单一部门，随后于2015年再度分拆。两者至今仍为独立部门——因此有关公立大学或学位课程的问题属于高等教育事务，而非 KPM 事务。
+
+## 谁在管理它，它的规模有多大？
+
+该部门成立于**1955年**，总部设于布城（Putrajaya）62604，联邦政府行政中心E区（Complex E）E8座（Block E8, Parcel E）。
 
 | | |
 | --- | --- |
-| 名称 | 教育部 / Kementerian Pendidikan Malaysia（KPM） |
-| 类型 | 联邦部门 |
-| 最早成立 | 1955年 |
-| 总部 | 布城 E 区 E8 座（Block E8, Parcel E, Putrajaya） |
-| 主要法律 | 《1996年教育法令》（第550号法令，Act 550） |
-| 职权范围 | 学前、小学、中学、中学后（大学预科）教育 |
-| 部长（2026年） | 法丽娜·西迪（Fadhlina Sidek，2022年12月3日上任） |
-| 副部长（2026年） | 黄家和（Wong Kah Woh，2023年12月12日上任） |
+| 部长 | Fadhlina Sidek（自2022年12月上任） |
+| 副部长 | Wong Kah Woh |
+| 成立 | 1955年 |
+| 总部 | 布城 E区 E8座 |
 | 网站 | `moe.gov.my` |
 
-## KPM 负责什么
+KPM 是联邦预算中最大的单一支出项目。根据**2026年财政预算案**，它获得所有联邦部门中最大的拨款——**RM66.2亿令吉**，高于2025年的RM64.2亿令吉。其中包括近RM20亿令吉，用于翻新超过520所破旧学校（尤其是在沙巴与砂拉越），以及在全国兴建38所新学校。
 
-KPM 的职责由**《1996年教育法令》（第550号法令，Act 550）**界定，该法令于1996年7月15日获御准，1996年8月1日生效，取代了较早的《1961年教育法令》。该法令确立了**国家教育体系**，并赋予该部门管理学校运作机制的权力。
-
-在实务上，这项权力涵盖：
-
-- **课程**——制定政府学校及政府资助学校所采用的国家课程。
-- **考试**——举办全国评估并颁发文凭。
-- **学校**——设立、注册及管理政府与政府资助的小学和中学，包括国民学校（SK）以及国民型华文和淡米尔文学校（SJKC、SJKT）。
-- **教师与员工**——培训、调派及管理教育服务队伍，这使 KPM 成为联邦公务体系中员工人数最多的部门（2022年约587,940名员工）。
-
-它所管辖的体系从学前教育开始，历经六年小学及最多五年中学，一直延伸至中学后（大学预科）阶段。马来西亚近年来对其考试进行了改革：小学的 **UPSR** 考试于2021年废除，初中的 **PT3** 评估于2022年废除，两者均改由校本评估取代，而高中的 **SPM**（马来西亚教育文凭，Sijil Pelajaran Malaysia）仍是主要的离校文凭。
-
-## KPM 的职权到何处为止：学校，而非大学
-
-最常见的混淆，就是 KPM 与**高等教育部（Kementerian Pendidikan Tinggi，KPT）**之间的区别。KPM 管辖学校；KPT 管辖大学及高等教育机构。两者的形态曾多次变动——高等教育于2004年被划分出去，成立了新的高等教育部；两者于2013年重新合并为单一的教育部；随后又于2015年再度分立——但截至2026年，它们是分立的两个部门。因此，关于公立大学、学位课程，或类似 PTPTN 的高等教育贷学金事宜，属于 KPT 的范畴，而非 KPM。
-
-## 领导层
-
-该部门由政治委任的**部长**领导，并由一名**副部长**协助，常务行政则由**秘书长**主管，专业教育服务由**教育总监**主管。截至2026年，部长为**法丽娜·西迪（Fadhlina Sidek）**，自2022年12月3日上任；副部长为**黄家和（Wong Kah Woh）**，于2023年12月12日获委任。
+一系列机构与团体隶属于该部门，包括国家语文局（Dewan Bahasa dan Pustaka）、马来西亚考试局（Majlis Peperiksaan Malaysia），以及14个州教育局（Jabatan Pendidikan Negeri）。
 
 ## 接下来
 
-若要查阅该部门自身的规则手册，可从《1996年教育法令》（第550号法令，Act 550）入手；若想了解它所管辖体系的样貌，请参阅[马来西亚教育体系](/zh/education/malaysian-education-system)以及[从 UPSR 到 SPM 的考试](/zh/education/upsr-to-spm-exams)。直接与 KPM 打交道的家长，最常在[为孩子报读政府学校](/zh/education/enrolling-in-a-government-school)时遇到它。至于任何最新事项——最新通令、学校日历，或现任部长——权威来源是该部门自身的网站 `moe.gov.my`。
+若要了解该部门自身的规则手册，请从《1996年教育法令》（第550号法令）入手。要查找已注册的学校，公众可通过 malaysia.gov.my 数字服务目录搜索教育机构。至于任何时事信息——通令、校历或现任部长——最权威的来源是该部门位于 `moe.gov.my` 的官方门户网站。

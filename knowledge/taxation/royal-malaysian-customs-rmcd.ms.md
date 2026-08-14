@@ -1,103 +1,124 @@
 ---
 topicId: "MY-TAX-0135"
-title: "Jabatan Kastam Diraja Malaysia (JKDM)"
-seoTitle: "JKDM: Panduan Jabatan Kastam Diraja Malaysia"
+title: "Jabatan Kastam Diraja Malaysia (RMCD): Apa yang Dilakukannya dan Di Mana Anda Berurusan Dengannya"
+seoTitle: "Jabatan Kastam Diraja Malaysia (RMCD) Dijelaskan"
+socialTitle: "Jabatan di sebalik SST, duti import dan pemeriksaan sempadan Malaysia"
 slug: "royal-malaysian-customs-rmcd"
 category: "taxation"
-subcategory: ["indirect-tax"]
-summary: "Agensi persekutuan Malaysia bagi duti kastam, eksais dan Cukai Jualan dan Perkhidmatan, yang terletak di bawah Kementerian Kewangan."
+subcategory: ["tax-administration"]
+summary: "Jabatan Kastam Diraja Malaysia (RMCD/JKDM) ialah agensi sempadan Malaysia dan pemungut utama cukai tidak langsung, mentadbir duti kastam dan eksais, cukai jualan dan perkhidmatan (SST), serta menguatkuasakan undang-undang anti-penyeludupan di bawah Kementerian Kewangan."
 tier: "3"
 mode: "practical"
 contentType: "agency"
 sensitivity: "none"
-answer: "Jabatan Kastam Diraja Malaysia (JKDM), atau Royal Malaysian Customs Department (RMCD), ialah agensi persekutuan di bawah Kementerian Kewangan yang bertanggungjawab mengutip cukai tidak langsung Malaysia — duti import/eksport kastam, duti eksais, dan Cukai Jualan dan Perkhidmatan (SST) — serta menguatkuasakan kawalan sempadan dan perdagangan. Ia mentadbir Akta Kastam 1967, Akta Cukai Jualan 2018 dan Akta Cukai Perkhidmatan 2018, serta mengendalikan portal pendaftaran MySST. Ibu pejabatnya terletak di Putrajaya."
+answer: "Jabatan Kastam Diraja Malaysia (RMCD), atau Jabatan Kastam Diraja Malaysia (JKDM), ialah jabatan kerajaan di bawah Kementerian Kewangan yang memungut cukai tidak langsung Malaysia, memudahkan perdagangan, dan menguatkuasakan undang-undang kastam. Ia mentadbir duti kastam dan eksais serta Cukai Jualan dan Perkhidmatan (SST), dan mengendalikan portal MySST tempat perniagaan mendaftar. Jika anda mengimport barang, mengendalikan perniagaan berdaftar SST, atau melintasi sempadan Malaysia, RMCD ialah agensi yang anda urus."
 keyTakeaways:
-  - "JKDM ialah pengutip cukai tidak langsung utama Malaysia dan agensi penguatkuasaan sempadan, beroperasi di bawah Kementerian Kewangan."
-  - "Ia mentadbir duti kastam, duti eksais dan SST; Akta Kastam 1967 (Akta 62) ialah statut terasnya."
-  - "SST menggantikan GST mulai 1 September 2018 di bawah Akta Cukai Jualan 2018 dan Akta Cukai Perkhidmatan 2018."
-  - "Cukai jualan dikenakan pada kadar 5% atau 10%; cukai perkhidmatan naik daripada 6% kepada 8% pada 1 Mac 2024, dengan sesetengah perkhidmatan dikekalkan pada 6%."
-  - "Ambang pendaftaran SST umum ialah RM500,000 perolehan bercukai dalam tempoh 12 bulan, dibuat melalui portal MySST."
-  - "Jabatan ini dianugerahkan taraf diraja (Diraja) pada 29 Oktober 1963."
+  - "RMCD (Kastam) ialah pemungut utama cukai tidak langsung dan agensi sempadan Malaysia, di bawah Kementerian Kewangan."
+  - "Ia ditubuhkan pada 1931 dan dikurniakan taraf 'Diraja' pada 29 Oktober 1963; ibu pejabatnya di Putrajaya."
+  - "Ia memungut cukai import, eksport, eksais, jualan dan perkhidmatan serta levi, dan mentadbir statut termasuk Akta Kastam 1967, Akta Eksais 1976, Akta Cukai Jualan 2018 dan Akta Cukai Perkhidmatan 2018."
+  - "SST menggantikan GST mulai September 2018; cukai perkhidmatan naik daripada 6% kepada 8% pada 1 Mac 2024, dengan sesetengah perkhidmatan dikekalkan pada 6%."
+  - "Ambang pendaftaran umum bagi cukai jualan dan perkhidmatan ialah RM500,000 dalam perolehan bercukai, dilakukan melalui portal MySST."
+  - "RMCD memungut hasil sebanyak RM55.1 bilion bagi tahun 2023, melebihi sasarannya sebanyak RM53.5 bilion."
 appliesTo: "Pengimport, pengeksport, perniagaan berdaftar SST, ejen kastam, dan sesiapa yang memerlukan gambaran keseluruhan tentang pihak berkuasa cukai tidak langsung dan kastam Malaysia."
 faq:
-  - q: "Apakah cukai yang dikutip oleh JKDM?"
-    a: "Cukai tidak langsung: duti import dan eksport kastam, duti eksais, dan Cukai Jualan dan Perkhidmatan (SST). Ia tidak mengutip cukai pendapatan, yang dikendalikan oleh Lembaga Hasil Dalam Negeri (LHDN)."
-  - q: "Apakah perbezaan antara JKDM dan LHDN?"
-    a: "JKDM (Kastam) mentadbir cukai tidak langsung seperti duti kastam, eksais dan SST. LHDN (Lembaga Hasil Dalam Negeri) mentadbir cukai langsung seperti cukai pendapatan dan CKHT."
-  - q: "Bagaimanakah cara untuk mendaftar SST?"
-    a: "Daftar dalam talian melalui portal MySST yang dikendalikan oleh JKDM, secara umumnya apabila perolehan bercukai melebihi RM500,000 dalam tempoh 12 bulan. JKDM juga boleh mendaftarkan secara automatik perniagaan yang dikenal pasti daripada rekodnya."
+  - q: "Cukai dan duti apakah yang dipungut oleh RMCD?"
+    a: "Duti import, duti eksport, duti eksais, cukai jualan dan cukai perkhidmatan, serta levi seperti levi pelepasan, levi kenderaan, levi keuntungan luar biasa dan cukai pelancongan. Cukai pendapatan tidak termasuk dalam senarai ini — itu di bawah tanggungjawab Lembaga Hasil Dalam Negeri (LHDN)."
+  - q: "Bagaimana saya mendaftar untuk SST?"
+    a: "Daftar dalam talian melalui portal MySST RMCD. Pendaftaran umumnya diperlukan sebaik sahaja perolehan bercukai mencapai RM500,000 bagi cukai jualan (pengilang) atau cukai perkhidmatan."
+  - q: "Kadar cukai perkhidmatan apakah yang terpakai sekarang?"
+    a: "8% sejak 1 Mac 2024, naik daripada 6%, kecuali bagi perkhidmatan makanan dan minuman, tempat letak kereta, logistik dan telekomunikasi, yang kekal pada 6%."
 lang: "ms"
-sourceContentHash: "814094945773ae3f"
 masterLanguage: "en"
 translationStatus: "in-sync"
+sourceContentHash: "e4e06f1218191c40"
 status: "in-review"
 aiAssisted: true
 reviewer: null
-version: "0.1"
+version: "0.2"
 revisions:
   - version: "0.1"
     date: 2026-08-10
     change: "Initial AI draft."
     reviewer: null
+  - version: "0.2"
+    date: 2026-08-14
+    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
+    reviewer: null
 verificationNeeded:
-  - "Current Director-General's name and appointment date (not stated on the sourced pages)."
-  - "Exact present-day count of RMCD divisions (one source lists 11; confirm against the current org chart)."
-  - "Service-tax scope/rate details after the 1 July 2025 SST expansion should be re-checked against the latest MySST guides."
-updated: 2026-08-10
+  - "Exact current total staff strength — ms.Wikipedia cites 14,872 positions (2023), not confirmed against a primary RMCD/JPA source."
+  - "Precise service tax registration threshold per service category (general RM500,000 widely cited, but some categories differ) — confirm on mysst.customs.gov.my."
+  - "Full sales tax rate schedule by goods class (5% / 10% / specific / exempt) against the current Sales Tax (Rates of Tax) Order."
+  - "Exact appointment date and full title of the current Director-General Dato' Amran bin Haji Ahmad."
+  - "Revenue breakdown by tax type for 2023/2024 (import duty vs excise vs sales tax vs service tax)."
+  - "2024 actual (vs the RM56bn target) and any 2025 figures once published."
+updated: 2026-08-14
 sources:
-  - title: "History — Royal Malaysian Customs Department"
-    url: "https://www.customs.gov.my/en/corporate/history"
-    publisher: "Royal Malaysian Customs Department"
-  - title: "Organization Structure — Royal Malaysian Customs Department"
-    url: "https://www.customs.gov.my/en/corporate/organization-structure"
-    publisher: "Royal Malaysian Customs Department"
-  - title: "Understanding SST — MySST"
-    url: "https://mysst.customs.gov.my/About"
-    publisher: "Royal Malaysian Customs Department (MySST)"
-  - title: "Customs Act 1967"
-    url: "https://en.wikipedia.org/wiki/Customs_Act_1967"
+  - title: "Royal Malaysian Customs Department"
+    url: "https://en.wikipedia.org/wiki/Royal_Malaysian_Customs_Department"
     publisher: "Wikipedia"
-entity: "Royal Malaysian Customs Department (Jabatan Kastam Diraja Malaysia)"
+  - title: "Pengurusan Tertinggi Jabatan (Top Management)"
+    url: "https://www.customs.gov.my/en/corporate/top-management"
+    publisher: "Royal Malaysian Customs Department (customs.gov.my)"
+  - title: "Background — MySST"
+    url: "https://mysst.customs.gov.my/background"
+    publisher: "Royal Malaysian Customs Department (mysst.customs.gov.my)"
+  - title: "Kastam Kutip Hasil RM55.1 Bilion Tahun Lepas"
+    url: "https://mof.gov.my/portal/ms/berita/akhbar/kastam-kutip-hasil-rm55-1-bilion-tahun-lepas"
+    publisher: "Ministry of Finance Malaysia (mof.gov.my)"
+  - title: "Targeted Revision Of Sales Tax Rate And Expansion Of Service Tax Scope Effective 1 July 2025"
+    url: "https://www.mof.gov.my/portal/en/news/press-release/targeted-revision-of-sales-tax-rate-and-expansion-of-service-tax-scope-effective-1-july-2025"
+    publisher: "Ministry of Finance Malaysia (mof.gov.my)"
+  - title: "Peranan Pegawai Penguatkuasa Kastam Sebagai Benteng Memerangi Penyeludupan"
+    url: "https://www.mof.gov.my/portal/ms/berita/siaran-media/peranan-pegawai-penguatkuasa-kastam-sebagai-benteng-memerangi-penyeludupan"
+    publisher: "Ministry of Finance Malaysia (mof.gov.my)"
+entity: "Royal Malaysian Customs Department"
 relations: []
 related: []
-keywords: ["RMCD", "Royal Malaysian Customs Department", "Jabatan Kastam Diraja Malaysia", "JKDM", "Kastam", "SST", "customs duty", "MySST", "excise duty"]
+keywords: ["RMCD", "Royal Malaysian Customs Department", "Jabatan Kastam Diraja Malaysia", "JKDM", "Kastam Malaysia", "SST Malaysia", "sales and service tax", "import duty Malaysia", "customs clearance Malaysia", "MySST", "uCustoms", "excise duty Malaysia", "service tax registration"]
 ---
 
-**Jabatan Kastam Diraja Malaysia (JKDM)** — *Royal Malaysian Customs Department* (RMCD), lazimnya dipanggil *Kastam* — ialah agensi persekutuan di bawah **Kementerian Kewangan** yang bertanggungjawab mengutip cukai tidak langsung Malaysia dan menguatkuasakan kawalan sempadan serta perdagangan. Ia mengutip **duti import dan eksport kastam, duti eksais, dan Cukai Jualan dan Perkhidmatan (SST)**, serta mentadbir **Akta Kastam 1967**, **Akta Cukai Jualan 2018** dan **Akta Cukai Perkhidmatan 2018**. Ibu pejabatnya terletak di Putrajaya.
+Setiap kali anda membayar cukai pada bil restoran, melepaskan bungkusan melalui kastam, atau mengisi minyak kereta yang dibina dengan enjin import, satu jabatan berada di sebalik caj itu: **Jabatan Kastam Diraja Malaysia (RMCD)** — *Jabatan Kastam Diraja Malaysia* (JKDM), lazimnya dipanggil *Kastam*. Ia ialah jabatan kerajaan di bawah **Kementerian Kewangan** yang bertanggungjawab memungut cukai tidak langsung, memudahkan perdagangan dan menguatkuasakan undang-undang kastam, dan ia merupakan pemungut utama cukai tidak langsung negara.
 
-## Apa yang dilakukan oleh JKDM
+## Apakah yang sebenarnya dipungut oleh RMCD?
 
-JKDM ialah pengutip **cukai tidak langsung** utama Malaysia. Peranan utamanya ialah:
+RMCD mengutip hasil negara dalam bentuk **duti import, duti eksport, duti eksais, cukai jualan dan cukai perkhidmatan**, bersama-sama levi termasuk **levi pelepasan, levi kenderaan, levi keuntungan luar biasa dan cukai pelancongan**. Cukai pendapatan tiada dalam senarai itu — cukai langsung dikendalikan oleh agensi berasingan, iaitu Lembaga Hasil Dalam Negeri (LHDN).
 
-- **Kutipan hasil** — duti kastam ke atas import/eksport, eksais ke atas barangan seperti kenderaan, alkohol dan tembakau, serta SST.
-- **Pemudahcaraan perdagangan** — melepaskan barangan di pelabuhan, lapangan terbang dan sempadan darat, serta memproses perisytiharan kastam.
-- **Penguatkuasaan** — membanteras penyeludupan, barangan seludup dan barangan yang tidak diisytiharkan, serta menjalankan pemeriksaan dan rampasan.
+Untuk melaksanakan tugas ini, ia mentadbir satu himpunan statut, termasuk:
 
-Cukai langsung seperti cukai pendapatan dikendalikan oleh agensi berasingan, iaitu **Lembaga Hasil Dalam Negeri (LHDN)** — bukan JKDM.
+| Undang-undang | Merangkumi |
+|-----|--------|
+| Akta Kastam 1967 | Duti import/eksport, pelepasan, penguatkuasaan |
+| Akta Eksais 1976 | Eksais ke atas barang seperti kenderaan, alkohol, tembakau |
+| Akta Cukai Jualan 2018 | Cukai jualan ke atas barang bercukai |
+| Akta Cukai Perkhidmatan 2018 | Cukai perkhidmatan ke atas perkhidmatan bercukai |
+| Akta Cukai Pelancongan 2017 | Cukai pelancongan ke atas penginapan |
+| Akta Perdagangan Strategik 2010 | Kawalan ke atas barang strategik dan dwiguna |
 
-## Sejarah dan taraf
+Skalanya besar: RMCD memungut hasil sebanyak **RM55.1 bilion** bagi tahun 2023, melebihi sasarannya sebanyak RM53.5 bilion dengan RM1.6 bilion, dengan sasaran RM56 bilion ditetapkan bagi tahun 2024.
 
-Akar umbi jabatan ini terletak pada pentadbiran kastam kolonial **Negeri-Negeri Selat** dan **Persekutuan Tanah Melayu**. Ia dianugerahkan taraf diraja (**Diraja**) oleh Yang di-Pertuan Agong pada **29 Oktober 1963**. **Akta Kastam 1967 (Akta 62)** menyatukan undang-undang kastam merentasi Semenanjung Malaysia, Sabah dan Sarawak, dan **Akademi Kastam Diraja Malaysia (AKMAL)** ditubuhkan pada tahun 1989 untuk melatih pegawai.
+## Bagaimana Cukai Jualan dan Perkhidmatan (SST) berfungsi?
 
-## Cukai Jualan dan Perkhidmatan (SST)
+SST ialah tempat kebanyakan perniagaan berurusan dengan RMCD. Ia **diperkenalkan semula mulai September 2018**, menggantikan Cukai Barang dan Perkhidmatan (GST), di bawah Akta Cukai Jualan 2018 dan Akta Cukai Perkhidmatan 2018, dan ditadbir melalui portal **MySST**.
 
-SST ialah cukai JKDM yang paling ketara bagi perniagaan. Ia **menggantikan Cukai Barang dan Perkhidmatan (GST) mulai 1 September 2018**, di bawah dua statut:
+**Kadar cukai perkhidmatan** ialah 6% dari September 2018 hingga Februari 2024, kemudian naik kepada **8% berkuat kuasa 1 Mac 2024** — kecuali bagi perkhidmatan makanan dan minuman, tempat letak kereta, logistik dan telekomunikasi, yang kekal pada 6%. **Ambang pendaftaran** bagi cukai jualan (pengilang) dan cukai perkhidmatan ialah **RM500,000** dalam perolehan bercukai; apabila mencapainya, sesebuah perniagaan mesti mendaftar melalui MySST.
 
-| Cukai | Statut | Kadar |
-|-----|---------|------|
-| Cukai jualan | Akta Cukai Jualan 2018 | 5% atau 10% ke atas barangan bercukai (0% / dikecualikan bagi banyak barang keperluan) |
-| Cukai perkhidmatan | Akta Cukai Perkhidmatan 2018 | 8% (dinaikkan daripada 6% pada 1 Mac 2024); sesetengah perkhidmatan dikekalkan pada 6% |
+Sistem ini sentiasa berubah. Berkuat kuasa **1 Julai 2025**, kerajaan menyemak semula cukai jualan kepada 5% atau 10% ke atas barang budi bicara yang bukan keperluan (barang keperluan tidak berubah) dan memperluas cukai perkhidmatan kepada sektor termasuk pemajakan dan penyewaan, pembinaan, perkhidmatan kewangan, penjagaan kesihatan swasta dan pendidikan — dengan tempoh tangguh yang mana tiada penalti dikenakan sehingga 31 Disember 2025 bagi perniagaan yang mengambil langkah untuk mematuhinya.
 
-Apabila cukai perkhidmatan naik kepada **8% pada 1 Mac 2024**, kategori termasuk perkhidmatan **makanan dan minuman, telekomunikasi, letak kereta dan logistik** dikekalkan pada **6%**.
+## Di manakah rakyat dan PKS berurusan dengan RMCD?
 
-## Pendaftaran dan portal MySST
+Kebanyakan orang berhadapan dengan jabatan ini di beberapa titik sentuh yang konkrit:
 
-Perniagaan mendaftar SST dalam talian melalui portal **MySST** JKDM. Pendaftaran secara umumnya diperlukan apabila **perolehan bercukai melebihi RM500,000** dalam tempoh 12 bulan (sesetengah kumpulan perkhidmatan mempunyai ambang berbeza). JKDM juga boleh **mendaftar secara automatik** perniagaan yang dikenal pasti daripada rekodnya. Pendaftar menerima nombor SST dan mengenakan cukai bermula dari tarikh berkuat kuasa mereka.
+- **Pendaftaran SST** — melalui portal MySST sebaik sahaja anda melepasi ambang.
+- **Pelepasan import dan eksport** — mengisytiharkan barang dan membayar duti serta cukai yang ditaksir di pelabuhan, lapangan terbang dan sempadan darat.
+- **Bayaran duti dan cukai** — menjelaskan duti import, eksais dan SST.
+- **Penguatkuasaan** — pemeriksaan dan rampasan apabila barang tidak diisytiharkan atau dilarang.
 
-## Organisasi
+Dari segi penguatkuasaan, RMCD digambarkan sebagai **benteng pertahanan pertama negara terhadap penyeludupan**, memastikan barang yang diimport dan dieksport diisytiharkan dengan betul dan duti dibayar sambil mengesan barang larangan seperti dadah dan senjata api — tanpa mengganggu perdagangan yang sah.
 
-JKDM beroperasi sebagai jabatan di bawah Kementerian Kewangan, diketuai oleh seorang **Ketua Pengarah**. Kerjanya dibahagikan kepada beberapa bahagian yang meliputi kastam, cukai dalaman (tidak langsung), penguatkuasaan, pengurusan pematuhan, perkhidmatan teknikal, undang-undang, IT dan perancangan korporat, di samping akademi latihan AKMAL.
+## Siapa yang mengendalikannya, dan sejak bila?
 
-## Apa yang seterusnya
+RMCD **ditubuhkan pada 1931** dan dikurniakan **taraf 'Diraja' pada 29 Oktober 1963** oleh Yang di-Pertuan Agong; ia beribu pejabat di **Putrajaya**. Ia diketuai oleh seorang **Ketua Pengarah Kastam** yang dibantu oleh tiga timbalan ketua pengarah, dengan jawatan itu kini disandang oleh Dato' Haji Amran bin Haji Ahmad. Unit khususnya termasuk **Unit Marin** (ditubuhkan 1917), **unit anjing pengesan dadah K9** (1978) dan **Akademi Kastam Diraja Malaysia (AKMAL)** (1989); jabatan ini juga mengendalikan sebuah Muzium Kastam.
 
-Jika anda mengimport atau mengeksport, semak peraturan **duti kastam** dan **eksais** yang berkaitan serta prosedur perisytiharan. Jika anda mengendalikan perniagaan, lihat sama ada anda melepasi **ambang pendaftaran SST** dan daftar melalui portal **MySST**. Bagi cukai langsung seperti cukai pendapatan, rujuk sebaliknya kepada **Lembaga Hasil Dalam Negeri (LHDN)**.
+## Apa seterusnya
+
+Jika anda mengimport atau mengeksport, sahkan duti kastam dan eksais yang terpakai sebelum anda mengisytiharkan barang anda. Jika anda mengendalikan perniagaan, semak sama ada anda melepasi ambang SST **RM500,000** dan mendaftar melalui **MySST**. Bagi cukai pendapatan dan cukai langsung yang lain, rujuk sebaliknya kepada Lembaga Hasil Dalam Negeri (LHDN).

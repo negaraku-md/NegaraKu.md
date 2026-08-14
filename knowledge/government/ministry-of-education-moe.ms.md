@@ -1,115 +1,129 @@
 ---
 topicId: "MY-GOV-0093"
-title: "Kementerian Pendidikan Malaysia (KPM)"
-seoTitle: "Kementerian Pendidikan Malaysia (KPM): Peranan & Undang-undang"
+title: "Kementerian Pendidikan Malaysia (KPM): Apa yang Ditadbir dan Bagaimana Ia Dijalankan"
+seoTitle: "Kementerian Pendidikan (KPM): Peranan & Struktur"
+socialTitle: "Siapa sebenarnya mentadbir sekolah Malaysia? Meninjau KPM"
 slug: "ministry-of-education-moe"
 category: "government"
-subcategory: ["ministry"]
-summary: "Apa yang menjadi tanggungjawab Kementerian Pendidikan Malaysia (KPM) — pendidikan prasekolah, rendah, menengah dan lepas menengah di bawah Akta Pendidikan 1996 — dan bagaimana ia berbeza daripada Kementerian Pendidikan Tinggi yang berasingan."
+subcategory: ["ministries"]
+summary: "Kementerian Pendidikan Malaysia (KPM) ialah kementerian persekutuan yang menjalankan sistem pendidikan pra-tertiari Malaysia — prasekolah, sekolah rendah, sekolah menengah dan matrikulasi — di bawah Akta Pendidikan 1996, dan memegang peruntukan terbesar dalam belanjawan persekutuan."
 tier: "3"
 mode: "practical"
 contentType: "agency"
 sensitivity: "none"
-answer: "Kementerian Pendidikan Malaysia (KPM) ialah kementerian persekutuan yang bertanggungjawab ke atas sistem persekolahan Malaysia — pendidikan prasekolah, rendah, menengah dan lepas menengah (prauniversiti). Statut terasnya ialah Akta Pendidikan 1996 (Akta 550), yang di bawahnya ia menetapkan kurikulum kebangsaan, mengendalikan peperiksaan kebangsaan, dan mengurus sekolah kerajaan serta sekolah bantuan kerajaan. Ia tidak menyelia universiti; itu adalah tanggungjawab Kementerian Pendidikan Tinggi yang berasingan. Laman rasminya ialah moe.gov.my."
+answer: "Kementerian Pendidikan Malaysia (KPM) ialah kementerian persekutuan yang bertanggungjawab ke atas sistem pendidikan pra-tertiari Malaysia — persekolahan prasekolah, rendah, menengah dan lepasan menengah. Ia beroperasi di bawah Akta Pendidikan 1996 (Akta 550), menetapkan standard kurikulum, buku teks, peperiksaan berpiawai dan dasar bahasa, serta mengendalikan sekolah kerajaan. Ia tidak menyelia universiti; itu adalah tanggungjawab Kementerian Pendidikan Tinggi yang berasingan. Portal rasminya ialah moe.gov.my."
 keyTakeaways:
-  - "KPM ialah singkatan bagi Kementerian Pendidikan Malaysia; kementerian ini mula-mula ditubuhkan pada tahun 1955 dan beribu pejabat di Blok E8, Parcel E, Putrajaya."
-  - "Undang-undang utamanya ialah Akta Pendidikan 1996 (Akta 550) — perkenan diraja 15 Julai 1996, berkuat kuasa 1 Ogos 1996 — yang menggantikan Akta Pelajaran 1961 dan mentakrifkan Sistem Pendidikan Kebangsaan."
-  - "Sistem Pendidikan Kebangsaan di bawah Akta 550 merangkumi pendidikan prasekolah, rendah, menengah dan lepas menengah; pendidikan tinggi (universiti) adalah berasingan."
-  - "Sehingga 2026 Menterinya ialah Fadhlina Sidek (sejak 3 Disember 2022) dan Timbalan Menterinya ialah Wong Kah Woh (sejak 12 Disember 2023)."
-  - "KPM mengendalikan peperiksaan kebangsaan; peperiksaan sekolah rendah UPSR dimansuhkan pada tahun 2021 dan pentaksiran menengah rendah PT3 pada tahun 2022, manakala SPM (Sijil Pelajaran Malaysia) masih dikekalkan."
-  - "KPM ialah kementerian terbesar dalam perkhidmatan awam dari segi bilangan kakitangan, dengan kira-kira 587,940 kakitangan (2022), majoritinya guru."
-appliesTo: "Ibu bapa, pelajar, guru, wartawan dan penyelidik yang perlu memahami kementerian mana yang mentadbir sekolah di Malaysia, undang-undang yang menjadi asasnya, dan di mana had bidang kuasanya berakhir."
+  - "KPM mentadbir pendidikan pra-tertiari (prasekolah, rendah, menengah, matrikulasi), serta kurikulum, buku teks, peperiksaan kebangsaan, TVET dan dasar bahasa — universiti pula terletak di bawah Kementerian Pendidikan Tinggi yang berasingan."
+  - "Statut utamanya ialah Akta Pendidikan 1996 (Akta 550), yang menerima Perkenan Diraja pada 15 Julai 1996 dan menubuhkan sistem pendidikan kebangsaan."
+  - "Menteri Pendidikan ialah Fadhlina Sidek (memegang jawatan sejak Disember 2022), disokong oleh Timbalan Menteri Wong Kah Woh."
+  - "Kementerian ini ditubuhkan pada 1955 dan beribu pejabat di Blok E8, Parcel E (Kompleks E), 62604 Putrajaya."
+  - "Di bawah Belanjawan 2026, KPM menerima peruntukan terbesar berbanding mana-mana kementerian persekutuan — RM66.2 bilion, meningkat daripada RM64.2 bilion pada 2025."
+  - "Pelan Pembangunan Pendidikan Malaysia 2013-2025 (PPPM) ialah dasar panduan, yang menetapkan lima aspirasi sistem, enam aspirasi murid dan 11 anjakan strategik dan operasi."
+appliesTo: "Ibu bapa, murid, guru, wartawan dan penyelidik yang perlu mengetahui kementerian yang mentadbir sekolah Malaysia, undang-undang yang mengawalnya, dan bagaimana ia berbeza daripada Kementerian Pendidikan Tinggi."
 faq:
   - q: "Apakah perbezaan antara KPM dan Kementerian Pendidikan Tinggi?"
-    a: "KPM (Kementerian Pendidikan Malaysia) mentadbir sekolah — daripada prasekolah hingga lepas menengah. Universiti, politeknik yang dikelaskan sebagai pengajian tinggi, dan pengajian tinggi peringkat matrikulasi terletak di bawah Kementerian Pendidikan Tinggi (KPT) yang berasingan. Kedua-duanya digabungkan dari tahun 2013 hingga 2015 tetapi telah menjadi kementerian yang berasingan sejak itu."
-  - q: "Di bawah undang-undang apa Kementerian Pendidikan beroperasi?"
-    a: "Statut utamanya ialah Akta Pendidikan 1996 (Akta 550), yang menerima perkenan diraja pada 15 Julai 1996 dan berkuat kuasa pada 1 Ogos 1996, menggantikan Akta Pelajaran 1961. Ia mentakrifkan Sistem Pendidikan Kebangsaan serta kuasa kementerian ke atas kurikulum, peperiksaan dan institusi."
-  - q: "Adakah KPM masih mengendalikan peperiksaan UPSR dan PT3?"
-    a: "Tidak. Peperiksaan UPSR (sekolah rendah) dimansuhkan pada tahun 2021 dan pentaksiran PT3 (menengah rendah) pada tahun 2022, digantikan dengan pentaksiran berasaskan sekolah. Peperiksaan menengah atas SPM (Sijil Pelajaran Malaysia) masih dikendalikan."
-  - q: "Siapakah Menteri Pendidikan pada masa ini?"
-    a: "Sehingga 2026 Menteri Pendidikan ialah Fadhlina Sidek, yang memegang jawatan sejak 3 Disember 2022, dengan Wong Kah Woh sebagai Timbalan Menteri sejak 12 Disember 2023."
+    a: "KPM (Kementerian Pendidikan Malaysia) mentadbir persekolahan pra-tertiari — prasekolah hingga menengah dan matrikulasi. Universiti dan institusi tertiari terletak di bawah Kementerian Pendidikan Tinggi yang berasingan. Kedua-duanya digabungkan pada 15 Mei 2013 tetapi dipisahkan semula pada 2015 dan kekal berasingan."
+  - q: "Undang-undang apakah yang mengawal operasi Kementerian Pendidikan?"
+    a: "Statut utamanya ialah Akta Pendidikan 1996 (Akta 550), perundangan persekutuan utama yang mengawal sistem pendidikan kebangsaan. Ia menerima Perkenan Diraja pada 15 Julai 1996. Di bawah Seksyen 29A, Menteri boleh menetapkan pendidikan rendah sebagai wajib."
+  - q: "Berapakah besar belanjawan Kementerian Pendidikan?"
+    a: "Di bawah Belanjawan 2026, KPM menerima RM66.2 bilion — peruntukan terbesar berbanding mana-mana kementerian persekutuan — meningkat daripada RM64.2 bilion pada 2025. Peruntukan itu termasuk hampir RM2 bilion untuk menaik taraf lebih daripada 520 buah sekolah daif dan membina 38 buah sekolah baharu."
 lang: "ms"
-sourceContentHash: "9c21aa4545b61095"
 masterLanguage: "en"
 translationStatus: "in-sync"
+sourceContentHash: "21be9dbe8511938b"
 status: "in-review"
 aiAssisted: true
 reviewer: null
-version: "0.1"
+version: "0.2"
 revisions:
   - version: "0.1"
     date: 2026-08-10
-    change: "Initial AI draft. Statutory basis (Education Act 1996, Act 550), remit, ministry/higher-education split history, and leadership verified against the statute reprint, official MOE site and reporting."
+    change: "Initial AI draft."
+    reviewer: null
+  - version: "0.2"
+    date: 2026-08-14
+    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
     reviewer: null
 verificationNeeded:
-  - "Secretary-General (Dato' Wan Hashim bin Wan Rahim) and Director-General of Education (Datuk Dr. Mohd Azam bin Ahmad) — confirm both still in office and honorifics current against the live moe.gov.my leadership pages; sourced from the Wikipedia infobox, not a primary MOE page."
-  - "2026 KPM budget allocation of approximately RM66.2 billion — confirm against the official Budget 2026 documents; figure taken from the Wikipedia infobox."
-  - "Staff headcount of 587,940 (2022) — confirm against a KPM or Public Service Department figure; taken from the Wikipedia infobox."
-  - "Exact formation year of 1955 and headquarters address — confirm against an official MOE 'About Us' page."
-updated: 2026-08-10
+  - "Exact official English wording of KPM's vision and mission — Malay is authoritative and multiple divergent English translations appear online; confirm against the moe.gov.my English profile page before quoting."
+  - "Current total number of KPM employees/staff — sources conflict (549,159 in 2018 vs 587,940 in 2022); confirm the latest figure from KPM Quick Facts."
+  - "Exact appointment date of Deputy Minister Wong Kah Woh (reported as 12 December 2023) — confirm against an official or Parliament source."
+  - "Current total number of government schools and total student/teacher counts — pull exact latest from KPM 'Quick Facts Malaysia Education Statistics' or OpenDOSM."
+  - "Whether the Malaysia Education Blueprint 2013-2025 has a formally launched successor plan (a 2027-onward direction was signalled under Budget 2026) — confirm official name/status before stating."
+  - "Full current list of departments, divisions and agencies under KPM — verify the complete list against the moe.gov.my org chart."
+updated: 2026-08-14
 sources:
-  - title: "Education Act 1996 (Act 550) — Laws of Malaysia reprint"
-    url: "https://www.unesco.org/en/right-education/observatory/education-act-1996"
-    publisher: "Government of Malaysia (Laws of Malaysia reprint, hosted by UNESCO)"
   - title: "Ministry of Education (Malaysia)"
     url: "https://en.wikipedia.org/wiki/Ministry_of_Education_(Malaysia)"
     publisher: "Wikipedia"
-  - title: "Education Act 1996 (Malaysia)"
-    url: "https://en.wikipedia.org/wiki/Education_Act_1996_(Malaysia)"
+  - title: "Minister of Education (Malaysia)"
+    url: "https://en.wikipedia.org/wiki/Minister_of_Education_(Malaysia)"
     publisher: "Wikipedia"
-  - title: "MOE — Minister and Deputy Ministers"
-    url: "https://www.moe.gov.my/en/corporate/minister-and-deputy-ministers"
+  - title: "MOE — Vision and Mission"
+    url: "https://www.moe.gov.my/?id=1&lang=en"
     publisher: "Ministry of Education Malaysia"
-  - title: "Fadhlina welcomes new deputy minister Wong Kah Woh"
-    url: "https://www.thestar.com.my/news/nation/2023/12/12/fadhlina-welcomes-new-deputy-minister-wong-kah-woh"
+  - title: "Education Act 1996 (Act 550), Laws of Malaysia"
+    url: "https://www.unesco.org/en/right-education/observatory/education-act-1996"
+    publisher: "UNESCO"
+  - title: "Education Act 1996 (Act 550) — Laws of Malaysia Reprint"
+    url: "https://www.unesco.org/education/edurights/media/docs/86f152c6bff6581e5b8d9caee77a3c4921703faa.pdf"
+    publisher: "UNESCO / Government of Malaysia"
+  - title: "Malaysia Education Blueprint 2013-2025 (Executive Summary)"
+    url: "http://appswpkl.moe.gov.my/download/phocadownload/sektor/spm/upm/malaysiaeducationblueprint.pdf"
+    publisher: "Ministry of Education Malaysia"
+  - title: "Budget 2026: Education Ministry receives largest allocation of RM66.2bil"
+    url: "https://www.thestar.com.my/news/nation/2025/10/10/budget-2026-education-ministry-receives-largest-allocation-of-rm642bil"
     publisher: "The Star"
-    date: "2023-12-12"
-entity: "Ministry of Education Malaysia (Kementerian Pendidikan Malaysia)"
-relations:
-  - { rel: "governs", to: "malaysian-education-system" }
-  - { rel: "related-to", to: "upsr-to-spm-exams" }
-  - { rel: "related-to", to: "enrolling-in-a-government-school" }
-related: ["malaysian-education-system", "upsr-to-spm-exams", "enrolling-in-a-government-school"]
-keywords: ["Ministry of Education", "KPM", "Kementerian Pendidikan Malaysia", "MOE Malaysia", "Education Act 1996", "Act 550", "national curriculum", "SPM", "Malaysian schools", "moe.gov.my"]
+  - title: "Education ministry gets RM66.2bil allocation in Budget 2026"
+    url: "https://www.freemalaysiatoday.com/category/nation/2025/10/10/education-ministry-gets-rm66-2bil-allocation-in-budget-2026"
+    publisher: "Free Malaysia Today"
+  - title: "Search for Educational Institutions of the Ministry of Education"
+    url: "https://www.malaysia.gov.my/en/digital-services/search-for-educational-institutions-of-the-ministry-of-education"
+    publisher: "Government of Malaysia (MyGov)"
+entity: "Ministry of Education Malaysia (Kementerian Pendidikan Malaysia, KPM)"
+relations: []
+related: []
+keywords: ["Ministry of Education Malaysia", "KPM", "Kementerian Pendidikan Malaysia", "Fadhlina Sidek", "Education Act 1996", "Malaysia Education Blueprint", "PPPM", "KPM vs KPT", "Menteri Pendidikan Malaysia", "moe.gov.my", "compulsory education Malaysia", "Malaysia school system"]
 ---
 
-Kementerian Pendidikan Malaysia — lazimnya dipendekkan kepada **KPM** — ialah kementerian persekutuan yang mengendalikan sistem persekolahan Malaysia. Jika ia berkaitan dengan sekolah kebangsaan, kurikulum yang dipelajari seorang kanak-kanak, penempatan guru sekolah awam, atau sijil tamat persekolahan seperti SPM, ia terletak di bawah KPM. Apa yang KPM *tidak* lakukan ialah mengendalikan universiti: itu adalah tanggungjawab kementerian yang berasingan, dan sempadan ini kerap mengelirukan ramai orang.
+Jika ia melibatkan seorang anak sekolah Malaysia — kurikulum yang mereka pelajari, buku teks di atas meja mereka, peperiksaan kebangsaan yang mereka duduki, atau guru sekolah awam di hadapan kelas — ia terletak di bawah Kementerian Pendidikan. Dikenali sebagai **Kementerian Pendidikan Malaysia** dan hampir selalu dipendekkan kepada **KPM**, ia ialah kementerian persekutuan yang menjalankan sistem pendidikan pra-tertiari negara. Apa yang *tidak* dijalankannya ialah universiti — satu sempadan yang sering mengelirukan ramai orang.
 
-## Sekilas pandang
+## Apakah yang ditadbir oleh KPM?
+
+KPM bertanggungjawab ke atas sistem pendidikan kebangsaan dan, khususnya, ke atas **pendidikan pra-tertiari**: persekolahan prasekolah, rendah, menengah dan lepasan menengah (matrikulasi). Bidang tugasnya merangkumi pendidikan wajib, pendidikan dan latihan teknikal dan vokasional (TVET), standard kurikulum, buku teks, ujian berpiawai, dasar bahasa, serta sekolah terpilih dan komprehensif yang membentuk sistem ini.
+
+Visi kementerian yang dinyatakan ialah *Pendidikan Berkualiti, Insan Terdidik, Negara Sejahtera* — dan misinya adalah untuk mengekalkan sistem pendidikan berkualiti yang membangunkan potensi individu bagi memenuhi aspirasi negara.
+
+## Undang-undang apakah yang mengawal operasinya?
+
+**Akta Pendidikan 1996 (Akta 550)** ialah perundangan persekutuan utama yang mengawal sistem pendidikan kebangsaan Malaysia. Ia menerima Perkenan Diraja pada 15 Julai 1996.
+
+Akta ini bukan sekadar piagam abstrak — ia menjangkau setiap keluarga. Di bawah **Seksyen 29A**, Menteri boleh menetapkan pendidikan rendah sebagai wajib, mewajibkan ibu bapa warganegara Malaysia mendaftarkan anak yang telah mencapai umur enam tahun menjelang 1 Januari tahun persekolahan. Ibu bapa yang melanggar peruntukan ini melakukan kesalahan yang boleh dihukum denda tidak melebihi RM5,000, penjara sehingga enam bulan, atau kedua-duanya.
+
+Dasar panduan wujud bersama statut ini. **Pelan Pembangunan Pendidikan Malaysia 2013-2025** (PPPM) memetakan transformasi sistem pra-tertiari melalui lima aspirasi sistem, enam aspirasi murid dan 11 anjakan strategik dan operasi. Ia dibangunkan sepanjang 15 bulan, dari Oktober 2011 hingga Disember 2012, dengan input daripada UNESCO, Bank Dunia, OECD dan universiti tempatan.
+
+## Bagaimana KPM berbeza daripada Kementerian Pendidikan Tinggi?
+
+Ini ialah punca kekeliruan yang paling biasa. KPM mengendalikan sekolah; **Kementerian Pendidikan Tinggi** yang berasingan pula mengendalikan universiti.
+
+Kedua-duanya telah berubah bentuk berulang kali. Fungsi pendidikan tinggi dipisahkan menjadi Kementerian Pendidikan Tinggi yang tersendiri pada 27 Mac 2004, digabungkan semula menjadi satu kementerian pada 15 Mei 2013, kemudian dipisahkan sekali lagi pada 2015. Kedua-duanya kekal berasingan hari ini — jadi soalan tentang universiti awam atau program ijazah ialah urusan pendidikan tinggi, bukan urusan KPM.
+
+## Siapa yang menjalankannya, dan berapa besar ia?
+
+Kementerian ini ditubuhkan pada **1955** dan beribu pejabat di Blok E8, Parcel E (Kompleks E), Pusat Pentadbiran Kerajaan Persekutuan, 62604 Putrajaya.
 
 | | |
 | --- | --- |
-| Nama | Ministry of Education / Kementerian Pendidikan Malaysia (KPM) |
-| Jenis | Kementerian persekutuan |
-| Mula ditubuhkan | 1955 |
+| Menteri | Fadhlina Sidek (memegang jawatan sejak Disember 2022) |
+| Timbalan Menteri | Wong Kah Woh |
+| Ditubuhkan | 1955 |
 | Ibu pejabat | Blok E8, Parcel E, Putrajaya |
-| Undang-undang utama | Akta Pendidikan 1996 (Akta 550) |
-| Bidang kuasa | Pendidikan prasekolah, rendah, menengah, lepas menengah (prauniversiti) |
-| Menteri (2026) | Fadhlina Sidek (sejak 3 Disember 2022) |
-| Timbalan Menteri (2026) | Wong Kah Woh (sejak 12 Disember 2023) |
 | Laman web | `moe.gov.my` |
 
-## Apa yang menjadi tanggungjawab KPM
+KPM ialah item terbesar dalam belanjawan persekutuan. Di bawah **Belanjawan 2026**, ia menerima peruntukan terbesar berbanding mana-mana kementerian persekutuan — **RM66.2 bilion**, meningkat daripada RM64.2 bilion pada 2025. Ia termasuk hampir RM2 bilion untuk menaik taraf lebih daripada 520 buah sekolah daif, terutamanya di Sabah dan Sarawak, dan membina 38 buah sekolah baharu di seluruh negara.
 
-Tugas KPM ditakrifkan oleh **Akta Pendidikan 1996 (Akta 550)**, yang menerima perkenan diraja pada 15 Julai 1996 dan berkuat kuasa pada 1 Ogos 1996, menggantikan Akta Pelajaran 1961 yang terdahulu. Akta ini menubuhkan **Sistem Pendidikan Kebangsaan** dan memberikan kementerian kuasanya ke atas jentera persekolahan.
+Satu rangkaian agensi dan badan terletak di bawah kementerian ini, termasuk Dewan Bahasa dan Pustaka, Majlis Peperiksaan Malaysia, dan 14 Jabatan Pendidikan Negeri.
 
-Dalam amalannya, kuasa itu meliputi:
+## Apa yang seterusnya
 
-- **Kurikulum** — menetapkan kurikulum kebangsaan yang digunakan di sekolah kerajaan dan sekolah bantuan kerajaan.
-- **Peperiksaan** — mengendalikan pentaksiran kebangsaan dan mengeluarkan sijil.
-- **Sekolah** — menubuh, mendaftar dan mengurus sekolah rendah dan menengah kerajaan serta bantuan kerajaan, termasuk sekolah kebangsaan (SK) dan sekolah jenis kebangsaan Cina dan Tamil (SJKC, SJKT).
-- **Guru dan kakitangan** — melatih, menempatkan dan mengurus perkhidmatan perguruan, yang menjadikan KPM kementerian terbesar dalam perkhidmatan awam persekutuan dari segi bilangan kakitangan (kira-kira 587,940 kakitangan pada 2022).
-
-Sistem yang ditadbirnya bermula daripada prasekolah, melalui enam tahun pendidikan rendah dan sehingga lima tahun pendidikan menengah, hingga ke peringkat lepas menengah (prauniversiti). Malaysia telah menyusun semula peperiksaannya dalam tahun-tahun kebelakangan ini: peperiksaan sekolah rendah **UPSR** dimansuhkan pada tahun 2021 dan pentaksiran menengah rendah **PT3** pada tahun 2022, kedua-duanya digantikan dengan pentaksiran berasaskan sekolah, manakala **SPM** (Sijil Pelajaran Malaysia) peringkat menengah atas kekal sebagai sijil tamat persekolahan yang utama.
-
-## Di mana bidang kuasa KPM berakhir: sekolah, bukan universiti
-
-Kekeliruan yang paling lazim ialah antara KPM dan **Kementerian Pendidikan Tinggi (KPT)**. KPM mengendalikan sekolah; KPT mengendalikan universiti dan institusi pengajian tinggi. Kedua-duanya telah bertukar bentuk beberapa kali — pendidikan tinggi diasingkan kepada sebuah kementerian pengajian tinggi baharu pada tahun 2004, kedua-duanya digabungkan semula menjadi satu Kementerian Pendidikan dari tahun 2013, kemudian dipisahkan semula pada tahun 2015 — tetapi sehingga 2026 keduanya adalah kementerian yang berasingan. Jadi soalan tentang universiti awam, program ijazah, atau pengajian tinggi bercorak PTPTN ialah hal ehwal KPT, bukan KPM.
-
-## Kepimpinan
-
-Kementerian ini diketuai oleh seorang **Menteri** yang dilantik secara politik, disokong oleh seorang **Timbalan Menteri**, dengan pentadbiran tetap diketuai oleh seorang **Ketua Setiausaha** dan perkhidmatan pendidikan profesional oleh seorang **Ketua Pengarah Pelajaran**. Sehingga 2026 Menterinya ialah **Fadhlina Sidek**, yang memegang jawatan sejak 3 Disember 2022, dan Timbalan Menterinya ialah **Wong Kah Woh**, yang dilantik pada 12 Disember 2023.
-
-## Apa seterusnya
-
-Untuk membaca buku peraturan kementerian itu sendiri, mulakan dengan Akta Pendidikan 1996 (Akta 550); untuk bentuk sistem yang ditadbirnya, lihat [sistem pendidikan Malaysia](/education/malaysian-education-system) dan [peperiksaan UPSR ke SPM](/education/upsr-to-spm-exams). Ibu bapa yang berurusan terus dengan KPM paling kerap akan bertemu dengannya melalui [pendaftaran di sekolah kerajaan](/education/enrolling-in-a-government-school). Untuk apa-apa yang terkini — pekeliling terbaharu, takwim sekolah, atau Menteri yang sedang memegang jawatan — sumber yang berwibawa ialah laman rasmi kementerian di `moe.gov.my`.
+Untuk rujukan rasmi kementerian itu sendiri, mulakan dengan Akta Pendidikan 1996 (Akta 550). Untuk mencari sekolah yang berdaftar, orang ramai boleh mencari institusi pendidikan melalui direktori perkhidmatan digital malaysia.gov.my. Untuk sebarang maklumat semasa — pekeliling, kalendar persekolahan, atau Menteri yang sedang memegang jawatan — sumber berautoriti ialah portal rasmi kementerian di `moe.gov.my`.

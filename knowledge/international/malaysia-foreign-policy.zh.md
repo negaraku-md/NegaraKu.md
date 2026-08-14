@@ -1,119 +1,154 @@
 ---
 topicId: "MY-INT-0016"
-title: "马来西亚的外交政策"
-seoTitle: "马来西亚外交政策：基本原则、ZOPFAN 与东盟"
+title: "马来西亚的外交政策：原则、机构与结盟取向"
+seoTitle: "马来西亚外交政策：原则、东盟与外交方针"
+socialTitle: "马来西亚如何与所有人对话、却不与任何一方结盟"
 slug: "malaysia-foreign-policy"
 category: "international"
 subcategory: ["diplomacy"]
-summary: "关于马来西亚外交政策的权威参考：其独立、有原则且务实的方针，不结盟与不干涉的核心宗旨，以东盟为中心的立场，以及 2026-2030 年战略计划。"
+summary: "马来西亚的外交政策以中立、不结盟与国家主权为基石，通过东盟中心地位、积极的多边主义（伊斯兰合作组织、不结盟运动、联合国、英联邦），以及在大国之间保持对冲式的等距外交来加以推展——其运作核心设于外交部所在地「敦拉萨大厦」（Wisma Putra）。"
 tier: "2"
 mode: "practical"
-contentType: "guide"
+contentType: "agency"
 sensitivity: "none"
-answer: "马来西亚奉行独立、有原则且务实的外交政策，以和平、人道、公正与平等为价值根基。根据《联邦宪法》，外交政策由外交部（Wisma Putra，敦拉萨大厦）负责推行，而最高层级的决策则由首相与内阁掌握。其长期以来的基本宗旨是不结盟与中立——不加入军事集团——以及不干涉他国内政。东盟是这一政策的基石，并辅以在联合国、伊斯兰合作组织（OIC）和不结盟运动中的积极角色。当前的方向由《外交部 2026-2030 年战略计划》所确立。"
+answer: "马来西亚奉行的是一个小型贸易国家的经典策略：不加入任何集团、与所有各方对话、永远不与任何一方结盟。其立国方针——中立、不结盟、国家主权与不干涉——通过东盟中心地位，以及在伊斯兰合作组织、不结盟运动、英联邦与联合国的积极参与来加以推展。相关工作由外交部（即「敦拉萨大厦」，Wisma Putra）统筹，该部成立于1956年，现任外交部长为莫哈末哈山（Mohamad Hasan）。"
 keyTakeaways:
-  - "马来西亚的官方方针是奉行『独立、有原则且务实』的外交政策，以和平、人道、公正与平等为根基，由外交部（Wisma Putra）依据《联邦宪法》推行（kln.gov.my）"
-  - "其长期以来的基本宗旨是不结盟与中立（不加入军事集团、不在大国角力中长期选边）以及不干涉他国内政"
-  - "马来西亚是东盟的创始成员国（1967 年 8 月 8 日），并将以东盟为中心视为其外交政策的基石"
-  - "马来西亚于 1957 年 9 月 17 日以马来亚联合邦身份加入联合国（成为第 82 个成员国，通过第 1134(XII) 号决议）；它同时活跃于伊斯兰合作组织（OIC）、不结盟运动及英联邦"
-  - "1971 年的《ZOPFAN 宣言》于 1971 年 11 月 27 日在吉隆坡由五个东盟国家签署，至今仍是马来西亚中立立场的重要依据"
-  - "《外交部 2026-2030 年战略计划》由首相安华·依布拉欣于 2026 年 2 月 23 日推出，涵盖 8 大战略主轴、33 项策略和 139 个项目"
-appliesTo: "学生、研究人员、记者、公务员，以及任何需要一份事实性概览来了解马来西亚外交政策是什么、其指导原则以及当前战略方向的人士。"
+  - "核心方针是中立、不结盟与不干涉——这一立场在首相阿都拉萨（Abdul Razak Hussein）任内得到巩固，强调不论意识形态如何都与所有国家维持和平关系（Wikipedia, Foreign relations of Malaysia）"
+  - "马来西亚是东盟的创始成员国，东盟于1967年8月8日正式成立；马来西亚倡导了1971年的《东南亚和平、自由与中立区宣言》（ZOPFAN），并于同年加入不结盟运动（Wikipedia, ASEAN / Foreign relations of Malaysia）"
+  - "马来西亚于1957年9月17日作为第82个成员国加入联合国，并曾四度出任联合国安全理事会非常任理事国：1965年、1989-1990年、1999-2000年及2015-2016年（Wikipedia, Malaysia and the United Nations）"
+  - "马来西亚从未承认以色列，并承认巴勒斯坦为主权国家；2023年12月，首相安华（Anwar Ibrahim）禁止所有悬挂以色列旗帜的船只进入马来西亚港口（Wikipedia, Malaysia-Israel relations）"
+  - "马来西亚于1974年5月31日与中华人民共和国建立外交关系（Wikipedia, China-Malaysia relations）"
+  - "作为2025年东盟轮值主席国，马来西亚主办了第46届东盟峰会（2025年5月26-27日）与第47届东盟峰会（2025年10月26-28日），两届均由首相安华担任主席（Wikipedia, 2025 ASEAN Summits）"
+appliesTo: "学生、研究人员、记者，以及任何需要事实性概览的人士——了解马来西亚外交政策的内容、背后的原则、统筹该政策的机构，以及其主要对外关系。"
 faq:
-  - q: "用一句话概括，马来西亚的外交政策是什么？"
-    a: "如外交部（Wisma Putra）所述，它是一项独立、有原则且务实的政策，以和平、人道、公正与平等的价值为根基，旨在捍卫马来西亚的主权与国家利益，同时为建立一个公正而平等的国际社会作出贡献。"
-  - q: "马来西亚是一个中立或不结盟的国家吗？"
-    a: "是的。马来西亚长期以来的基本宗旨包括不结盟与中立：它不加入军事集团，也不在大国角力中长期选边，但仍会就原则性议题发声。"
-  - q: "谁制定马来西亚的外交政策？"
-    a: "根据《联邦宪法》，外交部（Wisma Putra）受权推行外交政策，但最高层级的决策由首相与内阁掌握。自 2023 年 12 月 12 日起，外交部长为莫哈末·哈山（Mohamad Hasan）。"
-  - q: "当前的外交政策框架是什么？"
-    a: "两份文件很重要：2021 年的框架《延续中的聚焦：后疫情时代马来西亚外交政策框架》（于 2021 年 12 月 7 日推出），以及《外交部 2026-2030 年战略计划》（于 2026 年 2 月 23 日推出），后者确立了 8 大战略主轴、33 项策略和 139 个项目。"
-  - q: "为什么东盟对马来西亚的外交政策如此关键？"
-    a: "马来西亚是东盟的创始成员国（1967 年）。通过东盟集体行动，使一个中等规模、依赖贸易的国家在处理与大国关系时拥有比单打独斗更响亮的声音，这正是为什么以东盟为中心被视为该政策基石的原因。"
+  - q: "马来西亚承认以色列吗？"
+    a: "不承认。马来西亚从未承认以色列，也与其没有外交关系。马来西亚护照上注明「适用于除以色列以外的所有国家」，同时马来西亚承认巴勒斯坦为主权国家。其既定立场是：任何承认以色列的可能性，将取决于以色列撤出被占领的巴勒斯坦领土，并在1967年前边界内建立一个以东耶路撒冷为首都的巴勒斯坦国。"
+  - q: "马来西亚是倾向中国还是美国？"
+    a: "从政策设计上看，两者皆非。马来西亚的立国方针是不结盟与中立——它不加入军事集团，也不在大国角力中长期选边站。马来西亚与中华人民共和国维持外交关系（于1974年5月31日建交），同时全面保持各方联系，奉行一种等距外交，使这个高度依赖贸易的国家能够周旋于各大国之间，而不被任何一方所掌控。"
+  - q: "谁统筹马来西亚的外交政策？"
+    a: "外交部，即「敦拉萨大厦」（Wisma Putra），成立于1956年，总部设于布城（Putrajaya）。其架构由一名秘书长领导，下设三名副秘书长、六个联邦部门与四个联邦机构。现任外交部长为莫哈末哈山（Mohamad Hasan），于2023年12月12日获委任。"
+  - q: "为何东盟对马来西亚的外交政策如此关键？"
+    a: "马来西亚是东盟的创始成员国（1967年8月8日）。通过东盟集体行动，能让一个中等规模、依赖贸易的国家在处理与大国的关系时拥有比单打独斗更强的话语权——这正是东盟中心地位被视为该政策基石的原因。"
 lang: "zh"
-sourceContentHash: "88d10e2661ad11b0"
 masterLanguage: "en"
 translationStatus: "in-sync"
+sourceContentHash: "1b8a10e6a4a5c6ff"
 status: "in-review"
 aiAssisted: true
 reviewer: null
-version: "0.1"
+version: "0.2"
 revisions:
   - version: "0.1"
     date: 2026-08-10
     change: "Initial AI draft."
     reviewer: null
+  - version: "0.2"
+    date: 2026-08-14
+    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
+    reviewer: null
 verificationNeeded:
-  - "Exact current wording of the 'values (peace, humanity, justice, equality)' passage could not be fetched directly from kln.gov.my (TLS certificate error on the live portal); it is corroborated via search snippets of the same official page and secondary reporting."
-  - "The full published text of the Strategic Plan 2026-2030 (per-thrust KPIs and the 139 programmes) was not accessed; thrust list and totals are confirmed via BERNAMA."
-updated: 2026-08-10
+  - "Wisma Putra's OFFICIAL wording of the foreign-policy principles/thrusts — kln.gov.my/web/guest/foreign-policy returned a TLS certificate error on every fetch attempt; the primary-source text must be captured directly before quoting it as official."
+  - "Whether Malaysia was the FIRST ASEAN member state to establish diplomatic relations with the PRC (widely claimed for the 31 May 1974 Tun Razak visit) — the date is confirmed but not the 'first ASEAN' superlative."
+  - "Current number of Malaysian diplomatic missions abroad — the 112 missions / 3,255 staff figure is a 2017 snapshot and may be outdated; confirm against a current Wisma Putra source."
+  - "China as Malaysia's LARGEST overall trading partner and the exact number of consecutive years — commonly cited but not confirmed against a primary DOSM/MITI source in this pass."
+  - "Any formal MADANI-era foreign-policy white paper or doctrine statement under PM Anwar Ibrahim — asserted as continuity, needs a primary/official citation before stating specifics."
+  - "Official umbrella theme of Malaysia's 2025 ASEAN Chairmanship — 'Inclusivity and Sustainability' is confirmed for the 47th Summit (Oct 2025); confirm whether it was the full-year chairmanship theme."
+  - "Current Deputy Foreign Minister and Secretary-General names, and the live org chart (3 Deputy Sec-Gens, 6 departments, 4 agencies) — re-check against the current structure."
+updated: 2026-08-14
 sources:
-  - title: "Malaysia's Foreign Policy"
-    url: "https://www.kln.gov.my/web/guest/foreign-policy"
-    publisher: "Ministry of Foreign Affairs, Malaysia (Wisma Putra)"
-  - title: "Eight Strategic Thrusts Anchor Malaysia's Foreign Ministry Strategic Plan 2026-2030"
-    url: "https://www.bernama.com/en/news.php?id=2526782"
-    publisher: "BERNAMA"
-  - title: "Launching Ceremony of 'Focus in Continuity: A Framework for Malaysia's Foreign Policy in a Post-Pandemic World'"
-    url: "https://www.pmo.gov.my/2021/12/focus-in-continuity-a-framework-for-malaysias-foreign-policy-in-a-post-pandemic-world/"
-    publisher: "Prime Minister's Office of Malaysia"
-  - title: "Malaysia — Member States"
-    url: "https://www.un.org/en/about-us/member-states/malaysia"
-    publisher: "United Nations"
-  - title: "About ASEAN"
-    url: "https://asean.org/about-asean/"
-    publisher: "Association of Southeast Asian Nations (ASEAN)"
-  - title: "1971 Zone of Peace, Freedom and Neutrality Declaration"
-    url: "https://cil.nus.edu.sg/databasecil/1971-zone-of-peace-freedom-and-neutrality-declaration/"
-    publisher: "Centre for International Law, National University of Singapore"
-  - title: "Minister of Foreign Affairs (Malaysia)"
-    url: "https://en.wikipedia.org/wiki/Minister_of_Foreign_Affairs_(Malaysia)"
+  - title: "Ministry of Foreign Affairs (Malaysia)"
+    url: "https://en.wikipedia.org/wiki/Ministry_of_Foreign_Affairs_(Malaysia)"
     publisher: "Wikipedia"
-entity: "Ministry of Foreign Affairs, Malaysia (Wisma Putra)"
-relations:
-  - { rel: "related-to", to: "malaysia-foreign-policy-wisma-putra" }
-  - { rel: "related-to", to: "malaysia-asean-membership" }
-  - { rel: "related-to", to: "malaysia-united-nations-membership" }
-related: ["malaysia-foreign-policy-wisma-putra", "malaysia-asean-membership", "malaysia-united-nations-membership", "malaysia-oic-commonwealth-nam-membership", "malaysia-territorial-maritime-disputes"]
-keywords: ["Malaysia foreign policy", "dasar luar Malaysia", "Wisma Putra", "ZOPFAN", "non-alignment", "neutrality", "non-interference", "ASEAN centrality", "Strategic Plan 2026-2030", "Focus in Continuity"]
+  - title: "Mohamad Hasan (politician)"
+    url: "https://en.wikipedia.org/wiki/Mohamad_Hasan_(politician)"
+    publisher: "Wikipedia"
+  - title: "Foreign relations of Malaysia"
+    url: "https://en.wikipedia.org/wiki/Foreign_relations_of_Malaysia"
+    publisher: "Wikipedia"
+  - title: "ASEAN"
+    url: "https://en.wikipedia.org/wiki/ASEAN"
+    publisher: "Wikipedia"
+  - title: "Malaysia and the United Nations"
+    url: "https://en.wikipedia.org/wiki/Malaysia_and_the_United_Nations"
+    publisher: "Wikipedia"
+  - title: "Malaysia–Israel relations"
+    url: "https://en.wikipedia.org/wiki/Malaysia%E2%80%93Israel_relations"
+    publisher: "Wikipedia"
+  - title: "China–Malaysia relations"
+    url: "https://en.wikipedia.org/wiki/China%E2%80%93Malaysia_relations"
+    publisher: "Wikipedia"
+  - title: "ASEAN Summit"
+    url: "https://en.wikipedia.org/wiki/ASEAN_Summit"
+    publisher: "Wikipedia"
+  - title: "2025 ASEAN Summits"
+    url: "https://en.wikipedia.org/wiki/2025_ASEAN_Summits"
+    publisher: "Wikipedia"
+entity: "Malaysia's foreign policy (Ministry of Foreign Affairs / Wisma Putra)"
+relations: []
+related: []
+keywords: ["Malaysia foreign policy", "dasar luar negara Malaysia", "Wisma Putra", "Ministry of Foreign Affairs Malaysia", "Malaysia ASEAN", "Malaysia non-alignment", "ZOPFAN", "Malaysia Israel policy", "Malaysia China relations", "MADANI foreign policy", "Malaysia neutrality doctrine", "Malaysia UN Security Council"]
 ---
 
-马来西亚用三个词来描述自己的外交政策：**独立、有原则且务实**。根据外交部（Wisma Putra，敦拉萨大厦）的说法，这一政策以和平、人道、公正与平等的价值为根基，其总体目标是捍卫马来西亚的主权与国家利益，同时为建立一个公正而平等的国际社会作出贡献。对于一个规模不大、依赖贸易的国家而言，保持不加入任何集团的独立立场不仅是一种道德姿态——更是经济逻辑。
+马来西亚奉行的是一个小型贸易国家的经典策略：与所有人对话，却永远不与任何一方结盟。这并非优柔寡断——而是一种既定方针。这个国家的立国外交原则是中立、不结盟、国家主权与不干涉，而真正耐人寻味的并不是这些原则本身，而是一个中等规模、依赖出口的国家，如何在六十年间、历经每一次政府更替，始终如一地将它们付诸行动。
 
-## 核心原则有哪些？
+大多数参考资料要么止步于逐国罗列马来西亚与哪些国家有邦交，要么仅列出官方原则的清单。两者都无法呈现其中的主线。本文将这套方针与统筹它的机构、放大其声音的多边组织，以及那些让方针变得具体可见的现实立场——对以色列与巴勒斯坦的态度，以及在华盛顿与北京之间的平衡——连成一线。
 
-马来西亚的方针建立在一套宗旨之上，这些宗旨在历届不同政府之间都保持了非凡的稳定性：
+## 核心方针是什么？
 
-| 宗旨 | 在实践中的含义 |
+马来西亚的外交路径建立在若干在不同政府之间都保持高度稳定的原则之上。这一立场在首相阿都拉萨（Abdul Razak Hussein）任内得到巩固，他把国家推向不结盟与中立——强调不论意识形态或政治制度如何，都与所有国家维持和平关系，并维护每个国家自主处理内政的权利。
+
+| 原则 | 在实践中的含义 |
 | --- | --- |
-| **不结盟／中立** | 马来西亚不加入军事集团，也不在大国角力中长期选边 |
-| **不干涉** | 它尊重他国的主权，不干预其内政，并期望获得同样的对待 |
-| **开放经济** | 作为一个贸易国家，马来西亚通过建立关系来保护市场准入、投资与供应链 |
-| **和平与有原则的发声** | 它倾向于外交解决与地区稳定，但仍会就不公、侵略与侵犯主权的行为发声 |
+| **不结盟／中立** | 马来西亚不加入军事集团，也不在大国角力中长期选边站 |
+| **不干涉** | 尊重他国主权，不介入其内政——同时也期待获得同样的对待 |
+| **国家主权** | 捍卫领土完整与自主决定内政事务的权利，是不容妥协的核心 |
+| **秉持原则发声** | 在涉及原则的问题上仍会挺身发声——最鲜明地体现在巴勒斯坦问题上——同时倾向于以外交途径解决争端 |
 
-Wisma Putra 依据**《联邦宪法》**受权推行这一政策，使其与《东盟宪章》和《联合国宪章》的宗旨保持一致。然而，最高层级的决策由**首相与内阁**掌握；外交部长——自 2023 年 12 月 12 日起为莫哈末·哈山（Mohamad Hasan）——领导该部门，并在大多数外交场合代表马来西亚。
+其逻辑一部分出于道义，一部分出于经济考量。对一个繁荣有赖于开放贸易与稳定海上航道的国家而言，拒绝被任何单一大国所掌控，能让所有市场与所有伙伴同时保持在可运作的状态。
 
-## 中立立场从何而来？
+## 由谁统筹——又设于何处？
 
-这一方针有着正式的依据。1971 年 **11 月 27 日**，五个东盟国家——印度尼西亚、马来西亚、菲律宾、新加坡和泰国——在吉隆坡签署了**《和平、自由与中立区（ZOPFAN）宣言》**，旨在使东南亚免受外部大国的干涉。半个多世纪之后，ZOPFAN 仍被马来西亚的部长们援引为该国中立立场的依据。
+这套方针由**外交部**执行，人们普遍以其总部名称**「敦拉萨大厦」（Wisma Putra）**来称呼它。该部成立于**1956年**，正值独立前夕，总部设于布城第二区威斯玛布特拉路一号（No. 1 Jalan Wisma Putra, Precinct 2, Putrajaya）。
 
-## 为什么东盟是基石
+其职责是维护、捍卫并推进马来西亚的主权、领土完整与国家利益，并监测和分析区域与全球局势。在组织架构上，它由一名**秘书长**领导，下设**三名副秘书长**、**六个联邦部门**与**四个联邦机构**——后者包括东盟-马来西亚国家秘书处，以及外交与对外关系学院（IDFR）。
 
-如果说中立是原则，那么东盟就是实践这一原则的主要舞台。马来西亚是东盟的**创始成员国**，东盟成立于 **1967 年 8 月 8 日**，而马来西亚将以东盟为中心视为其外交政策的基石：集体行动使一个中等规模的国家在处理与大国关系时拥有比单打独斗远为响亮的声音。
+其政治首长为外交部长。现任者为**拿督斯里乌达玛莫哈末哈山**（Dato' Seri Utama Mohamad bin Haji Hasan，一般称为「Tok Mat」），于**2023年12月12日**在一次内阁改组中获委任，从赞比里（Zambry Abdul Kadir）手中接过该职。
 
-东盟并非唯一的平台。马来西亚的政策还得到在多个机构中积极成员身份的支撑：
+关于规模的一点说明：根据2017年的数据，马来西亚在全球设有**112个外交使团**，该部雇有**3,255名员工**。这一数字已属陈旧，应视为参考性而非当前的准确数字。
 
-- **联合国**——于 1957 年 9 月 17 日以马来亚联合邦身份加入（成为第 82 个成员国，通过第 1134(XII) 号决议）；是全球性议题上的一个声音，也是维和行动的贡献者。
-- **伊斯兰合作组织（OIC）**——在诸如巴勒斯坦等议题上与穆斯林占多数的国家团结一致。
-- **不结盟运动（NAM）**与**英联邦**——与马来西亚独立姿态相一致的组织。
-- **南南合作**——发展中国家之间基于相互尊重的伙伴关系。
+## 为何东盟是基石？
 
-## 当前的框架与路线图
+如果说中立是原则，那么东盟就是实践这一原则的舞台。马来西亚是东南亚国家联盟（东盟）的**创始成员国**，东盟于**1967年8月8日**成立，当时印度尼西亚、马来西亚、菲律宾、新加坡与泰国的外交部长在曼谷签署了《东盟宣言》。通过东盟集体行动，能让一个中等规模的国家在周旋于大国之间时，拥有远比单打独斗更强的筹码——这正是东盟中心地位被视为整套政策基石的原因。
 
-两份文件确立了今日的方向。2021 年，Wisma Putra 发布了**《延续中的聚焦：后疫情时代马来西亚外交政策框架》**，于 **2021 年 12 月 7 日**推出。在此基础上，**《外交部 2026-2030 年战略计划》**由首相**安华·依布拉欣**于 **2026 年 2 月 23 日**推出。它涵盖 **8 大战略主轴、33 项策略和 139 个项目**，每一项均由关键绩效指标（KPI）和监测框架支撑，并与马来西亚 MADANI 理念、第十三大马计划（RMK13）以及公共服务改革议程（ARPA）保持一致。这八大主轴涵盖双边与多边外交、在东盟中的主动角色、海洋主权、领事服务提供、公共外交、机构卓越，以及马来西亚在《化学武器公约》下的国家主管机关角色。
+马来西亚也是本区域中立框架的早期缔造者。**1971年**，东盟通过了**《东南亚和平、自由与中立区宣言》（ZOPFAN）**，这一概念正是由马来西亚所倡导；同年，马来西亚加入了**不结盟运动**，**五国防务安排**也在这一年确立。赋予东盟法律人格的《东盟宪章》于2007年11月签署，并于**2008年12月15日**生效。
 
-## 接下来是什么
+马来西亚曾多次轮值掌舵这一集团，先后于**1977年、2005年、2015年及2025年**主办东盟峰会。作为2025年轮值主席国，它于2025年5月26-27日在吉隆坡主办了**第46届东盟峰会**，并于2025年10月26-28日以*「包容与可持续」（Inclusivity and Sustainability）*为主题主办了**第47届东盟峰会**——两届均由首相安华（Anwar Ibrahim）担任主席。
 
-若要深入了解，有三条线索值得分别追踪：政策如何制定与落实的机构运作机制（参见 Wisma Putra 参考条目）、马来西亚在**东盟**和**联合国**中的具体成员身份，以及最为敏感的领域——**领土与海洋争端**，战略计划将其单独列为第四大主轴。
+## 更广泛的多边组织成员身份有哪些？
 
-> 注：这是一份经 AI 辅助、尚待人工编辑审核的草稿。文中的数据与日期取自所列来源；在正式使用前，请对照外交部的官方材料进行核实。
+除东盟外，马来西亚还通过一张密集的成员身份网络来展现其不结盟立场，每一项都与同样的独立姿态相一致。
+
+| 组织 | 马来西亚的定位 |
+| --- | --- |
+| **联合国** | 于1957年9月17日（以「马来亚」名义）加入，作为第82个成员国获一致通过接纳 |
+| **联合国安全理事会** | 四度出任非常任理事国：1965年、1989-1990年、1999-2000年、2015-2016年 |
+| **伊斯兰合作组织** | 创始成员国（伊斯兰合作组织于1969年成立）；东姑阿都拉曼于1971年出任其首任秘书长 |
+| **英联邦** | 自1957年独立以来即为成员 |
+| **不结盟运动** | 于1971年加入 |
+| **15国集团与77国集团** | 成员，与发展中的南方国家阵营站在一起 |
+
+在所有这些组织之外，马来西亚已与**189个国家**建立正式外交关系——这一广度体现了该方针中「与所有人对话」的那一半。
+
+## 方针在何处变得具体可见？
+
+原则易于宣示，却难以经受考验。有两个现实立场，展现了马来西亚所宣称的价值观如何转化为具体、有时甚至代价不菲的行动。
+
+**以色列与巴勒斯坦。** 马来西亚**从未承认以色列**，也与其没有外交关系。马来西亚护照上载有声明，注明其*适用于除以色列以外的所有国家*。反之，马来西亚正式承认**巴勒斯坦**为主权国家，其立场是：任何承认以色列的可能性，都将以以色列撤出被占领的巴勒斯坦领土、并在1967年前边界内建立一个以东耶路撒冷为首都的巴勒斯坦国为条件。这一立场并非仅停留在言辞层面：**2023年12月**，首相安华（Anwar Ibrahim）宣布，禁止所有悬挂以色列旗帜的船只停靠马来西亚港口。
+
+**中美之间的平衡。** 马来西亚于**1974年5月31日与中华人民共和国**建立外交关系，是本区域最早这样做的国家之一。此后，它一直奉行一种刻意为之的等距外交——在深化与北京经济联系的同时，也向华盛顿及其他所有各方敞开大门，拒绝把经贸往来转化为长期结盟。这种对冲正是不结盟方针最现代的形态：交往而不被掌控。
+
+## 下一步
+
+有三条线索值得分别追踪。其一是制度运作机制——敦拉萨大厦（Wisma Putra）的各部门与机构究竟如何制定并落实政策。其二是具体的成员身份，尤其是马来西亚在**东盟**以及**联合国安全理事会**中的角色，那四届历史性的任期本身就自成一段故事。其三是热点问题——南海的海事与领土争端，正是在那里，主权原则与大国平衡最直接地正面相遇。每一条都是一个鲜活的领域，立国方针在其中不断接受现实事件的重新检验。
+
+> 注：本文为AI辅助撰写的草稿，尚待人工编辑审核。文中的数字与日期取自所列来源；若干项目在正式采用前，仍标记为需对照外交部原始材料加以核实。

@@ -1,47 +1,56 @@
 ---
 topicId: "MY-GOV-0096"
-title: "房屋及地方政府部（KPKT）"
-seoTitle: "房屋及地方政府部（KPKT）"
+title: "房屋及地方政府部（KPKT）：职能、机构及其所执行的法律"
+seoTitle: "KPKT：房屋及地方政府部"
+socialTitle: "同一个部门管理着马来西亚的消防队、你的垃圾收集，以及处理你房屋纠纷的仲裁庭"
 slug: "ministry-of-housing-local-government-kpkt"
 category: "government"
-subcategory: ["federal-ministry"]
-summary: "负责马来西亚半岛住房、地方政府、城乡规划、消防与救援、景观及固体废物管理的联邦部门。"
+subcategory: ["ministries"]
+summary: "KPKT（Kementerian Perumahan dan Kerajaan Tempatan，房屋及地方政府部）是马来西亚联邦部门，负责可负担房屋、地方政府、城市规划、消防与拯救、固体废料、园林绿化，以及放贷人／当铺执照事务，统辖消防及拯救局（JBPM）、PLANMalaysia 以及房屋分层仲裁庭等机构。"
 tier: "3"
 mode: "practical"
 contentType: "agency"
 sensitivity: "none"
-answer: "房屋及地方政府部（马来文 Kementerian Perumahan dan Kerajaan Tempatan，简称 KPKT）是马来西亚联邦政府部门，主管可负担房屋、地方政府机构、城乡规划、消防与救援服务、国家景观以及固体废物管理。它统辖四个联邦部门及数个法定机构，并执行《1976 年地方政府法令》和《1976 年城乡规划法令》等基石性法律。其总部位于布城第 4 区（Precinct 4, Putrajaya）。"
+answer: "房屋及地方政府部——Kementerian Perumahan dan Kerajaan Tempatan，简称 KPKT——是马来西亚联邦部门，负责可负担房屋、地方议会、城市规划、消防与拯救、固体废料、园林绿化以及社区信贷。它透过八项主要职能运作，由多个联邦部门执行，如消防及拯救局（JBPM）、国家房屋局（JPN）和 PLANMalaysia，各自以国会法令为依据。其总部位于布城第四区（Precinct 4, Putrajaya），由部长倪可敏（Nga Kor Ming）领导。"
 keyTakeaways:
-  - "KPKT 由部长倪可敏（Nga Kor Ming）领导，自 2022 年 12 月 3 日上任；副部长为艾曼·阿蒂拉·沙布（Aiman Athirah Sabu），自 2023 年 12 月 12 日上任。"
-  - "该部曾于 2022 年 12 月起短暂改称地方政府发展部，后经内阁于 2023 年 12 月 13 日决定，重新恢复为『房屋及地方政府部（KPKT）』。"
-  - "它执行多部主要法令，包括《1976 年地方政府法令》（第 171 号法令）、《1976 年城乡规划法令》（第 172 号法令）以及《1988 年消防服务法令》（第 341 号法令）。"
-  - "核心联邦部门包括消防与救援局（JBPM）、地方政府局（JKT）、国家房屋局（JPN）、PLANMalaysia（城乡规划局）、国家景观局（JLN）以及国家固体废物管理局（JPSPN）。"
-  - "法定及关联机构包括固体废物管理机构（SWCorp）、房屋及分层地契管理仲裁庭（TPPS）、PR1MA 及 SPNB。"
-appliesTo: "在马来西亚半岛处理住房、规划、执照或市政服务事务的购房者、发展商、地方政府官员及居民。"
+  - "KPKT 透过八项主要职能运作：可负担房屋、城市规划、园林发展、赋权地方政府、消防与拯救、固体废料管理、社区赋权，以及社区信贷与当铺公司。"
+  - "它于2023年12月13日经内阁决定，由地方政府发展部更名为房屋及地方政府部，并于2023年12月26日宣布，依据《1969年部长职能法令》宪报刊登。"
+  - "核心联邦部门包括消防及拯救局（JBPM）、地方政府局（JKT）、国家房屋局（JPN）和国家固体废料管理局（JPSPN）。"
+  - "它所执行的法令包括《1976年地方政府法令》（第171号法令）、《1976年城乡规划法令》（第172号法令）、《1966年房屋发展（管制与执照）法令》（第118号法令）、《2013年分层管理法令》（第757号法令），以及《2007年固体废料与公共卫生管理法令》（第672号法令）。"
+  - "现任部长为倪可敏（Nga Kor Ming），副部长为拿督哈嘉·艾曼·阿蒂拉·沙布（Datuk Hajah Aiman Athirah binti Sabu）；KPKT 在第十二大马计划下为 B40 与 M40 群体设定50万单位房屋的目标。"
+appliesTo: "购屋者、分层产业住户、发展商、地方政府官员，以及在马来西亚半岛处理房屋、规划、消防安全、垃圾收集或执照事务的居民。"
 faq:
-  - q: "KPKT 代表什么？"
-    a: "KPKT 是马来文 Kementerian Perumahan dan Kerajaan Tempatan 的缩写，即房屋及地方政府部。"
-  - q: "哪个部门负责消防与救援？"
-    a: "马来西亚消防与救援局（Jabatan Bomba dan Penyelamat Malaysia，JBPM）隶属于 KPKT，负责执行《1988 年消防服务法令》。"
-  - q: "KPKT 是否管辖沙巴与砂拉越？"
-    a: "在沙巴与砂拉越，地方政府与住房大体上属于州事务，两州设有各自的相关部门；KPKT 在地方政府方面的职能主要集中于马来西亚半岛及联邦直辖区。"
+  - q: "哪个 KPKT 机构处理分层产业或房屋交付纠纷？"
+    a: "房屋及分层管理仲裁庭裁决购屋者与分层产业纠纷；分层管理受《2013年分层管理法令》（第757号法令）规范，发展商执照则受《1966年房屋发展（管制与执照）法令》（第118号法令）规范。"
+  - q: "哪个部门负责消防与拯救？"
+    a: "马来西亚消防及拯救局（Jabatan Bomba dan Penyelamat Malaysia，JBPM）是 KPKT 属下负责消防与拯救的联邦部门。"
+  - q: "KPKT 以前叫什么名字，何时更名？"
+    a: "它原为地方政府发展部；内阁于2023年12月13日决定将其更名为房屋及地方政府部，并于2023年12月26日宣布。"
 lang: "zh"
-sourceContentHash: "e2cead5008de16e9"
 masterLanguage: "en"
 translationStatus: "in-sync"
+sourceContentHash: "44a0632c979d6de6"
 status: "in-review"
 aiAssisted: true
 reviewer: null
-version: "0.1"
+version: "0.2"
 revisions:
   - version: "0.1"
     date: 2026-08-10
     change: "Initial AI draft."
     reviewer: null
+  - version: "0.2"
+    date: 2026-08-14
+    change: "Rebuilt through the full editorial pipeline (SERP recon → official-source research → claim-to-source mapping → tier-depth draft)."
+    reviewer: null
 verificationNeeded:
-  - "Exact statute citation numbers for Housing Development (Control and Licensing) Act 1966 (Act 118), Strata Management Act 2013 (Act 757), Solid Waste and Public Cleansing Management Act 2007 (Act 672), Moneylenders Act 1951 (Act 400) and Pawnbrokers Act 1972 (Act 81) were drawn from general legal knowledge, not directly re-confirmed against AGC text in this draft."
-  - "Current Secretary-General name (M Noor Azman bin Taib per Wikipedia) should be confirmed against the KPKT official site before publication."
-updated: 2026-08-10
+  - "Exact current official vision and mission wording (the kpkt.gov.my homepage did not expose a formal vision/mission statement in fetched content)."
+  - "Whether PR1MA (Perbadanan PR1MA Malaysia) and URBANICE Malaysia currently sit formally under KPKT versus another ministry — listed on the portal, but reporting lines shift with cabinet reshuffles; confirm against current gazette."
+  - "Current-year federal budget allocation for KPKT."
+  - "Precise institutional lineage dates before 16 May 2013 (predecessor ministries)."
+  - "Exact current count of housing units delivered against the 500,000-unit 12MP target."
+  - "Whether SPNB (Syarikat Perumahan Negara Berhad) remains under KPKT after recent restructuring."
+updated: 2026-08-14
 sources:
   - title: "Ministry of Housing and Local Government (Malaysia)"
     url: "https://en.wikipedia.org/wiki/Ministry_of_Housing_and_Local_Government_(Malaysia)"
@@ -49,55 +58,62 @@ sources:
   - title: "KPKT Now Known As Ministry Of Housing And Local Government"
     url: "https://www.bernama.com/en/news.php?id=2257411"
     publisher: "BERNAMA"
-  - title: "KPKT now known as Ministry of Housing and Local Government"
-    url: "https://www.malaymail.com/news/malaysia/2023/12/26/kpkt-now-known-as-ministry-of-housing-and-local-government/109325"
-    publisher: "Malay Mail"
-  - title: "Official Portal of the Ministry of Housing and Local Government"
+  - title: "Portal Rasmi Kementerian Perumahan dan Kerajaan Tempatan"
     url: "https://www.kpkt.gov.my/"
-    publisher: "KPKT"
-  - title: "Nga Kor Ming"
-    url: "https://en.wikipedia.org/wiki/Nga_Kor_Ming"
+    publisher: "Ministry of Housing and Local Government (KPKT)"
+  - title: "Local Government Act 1976"
+    url: "https://en.wikipedia.org/wiki/Local_Government_Act_1976"
     publisher: "Wikipedia"
-  - title: "I-KPKT Background"
-    url: "https://ikpkt.kpkt.gov.my/en/corporate-info/background/"
-    publisher: "KPKT (I-KPKT)"
-entity: "Ministry of Housing and Local Government (KPKT), Malaysia"
+  - title: "Strata Management Act 2013"
+    url: "https://en.wikipedia.org/wiki/Strata_Management_Act_2013"
+    publisher: "Wikipedia"
+  - title: "Housing Development (Control and Licensing) Act 1966"
+    url: "https://commonlii.org/my/legis/consol_act/hdala1966416/"
+    publisher: "CommonLII"
+  - title: "Solid Waste and Public Cleansing Management Act 2007"
+    url: "https://en.wikipedia.org/wiki/Solid_Waste_and_Public_Cleansing_Management_Act_2007"
+    publisher: "Wikipedia"
+entity: "Ministry of Housing and Local Government (Kementerian Perumahan dan Kerajaan Tempatan, KPKT)"
 relations: []
 related: []
-keywords: ["KPKT", "Kementerian Perumahan dan Kerajaan Tempatan", "Ministry of Housing and Local Government", "Nga Kor Ming", "local government Malaysia", "affordable housing Malaysia", "JBPM", "PLANMalaysia"]
+keywords: ["KPKT", "Kementerian Perumahan dan Kerajaan Tempatan", "Ministry of Housing and Local Government Malaysia", "KPKT fungsi", "KPKT agensi", "JBPM", "PLANMalaysia", "Jabatan Kerajaan Tempatan", "Jabatan Perumahan Negara", "Tribunal Perumahan dan Pengurusan Strata", "SWCorp", "Strata Management Act 2013", "Local Government Act 1976", "Nga Kor Ming", "affordable housing Malaysia B40 M40"]
 ---
 
-**房屋及地方政府部**——马来文 *Kementerian Perumahan dan Kerajaan Tempatan*，普遍以其马来文缩写 **KPKT** 为人所知——是马来西亚联邦政府部门，负责住房、地方政府、城乡规划、消防与救援服务、国家景观以及固体废物管理。其总部设于布城第 4 区、Persiaran Perdana 51 号（No. 51, Persiaran Perdana, Precinct 4, Putrajaya），目前由部长 **倪可敏（Nga Kor Ming）** 领导（自 2022 年 12 月 3 日上任），副部长为 **艾曼·阿蒂拉·沙布（Aiman Athirah Sabu）**（自 2023 年 12 月 12 日上任）。
+当你的垃圾无人收取、消防安全证书到期，以及发展商延迟两年才交付你的公寓时——背后都是同一个联邦部门。**房屋及地方政府部**，*Kementerian Perumahan dan Kerajaan Tempatan*，普遍简称 **KPKT**，是马来西亚负责可负担房屋、地方政府、城市规划、消防与拯救、固体废料、园林绿化以及社区信贷的联邦部门。其总部位于 No. 51, Persiaran Perdana, Precinct 4, Federal Government Administrative Centre, 62100 Putrajaya。部长为 **倪可敏（Nga Kor Ming）**，副部长为 **拿督哈嘉·艾曼·阿蒂拉·沙布（Datuk Hajah Aiman Athirah binti Sabu）**。
 
-## KPKT 的职责
+## KPKT 的主要职能有哪些？
 
-KPKT 将联邦政策转化为城市生活的日常运作：它负责发放及监管房屋发展商执照，统辖全国各地方政府机构（市政厅、市议会及县议会），制定国家规划与景观标准，运营消防与救援服务，并在已将该职能移交联邦政府的州属管理固体废物与公共清洁。在近期的马来西亚计划中，其明确的重点在于为 B40 与 M40 收入群体扩大可负担房屋供应，以及改善城镇的服务交付与宜居性。
+KPKT 将其工作组织为八项主要职能：**可负担房屋、城市规划、园林发展、赋权地方政府、消防与拯救、固体废料管理、社区赋权，以及社区信贷与当铺公司**。其标志性的房屋目标是在全国兴建 **50万单位房屋**，面向 B40 与 M40 收入群体，纳入 **第十二大马计划** 之下。
 
-## 历史与命名
+## 每项职能背后由哪个机构和法律负责？
 
-该部起源可追溯至 **1964 年 5 月 24 日**，当时成立为地方政府及房屋部。1971 年至 1978 年间，住房与地方政府职能被拆分为不同部门，随后于 **1978 年 7 月 18 日** 重新合并为房屋及地方政府部。在 2022 年 11 月大选之后，它曾短暂更名为 **地方政府发展部**，其后经内阁于 **2023 年 12 月 13 日** 决定，恢复房屋及地方政府部的名称，并保留「KPKT」缩写；该项变更于 2023 年 12 月 26 日宣布，并根据《1969 年部长职权法令》刊宪。
+大多数排名列表仅止于机构名单的罗列。以下是真正关键的对照图：每项职能、执行它的机构，以及其所依据的国会法令。
 
-## 部门与机构
-
-KPKT 通过数个联邦部门以及法定或关联机构运作：
-
-| 机构 | 马来文名称／缩写 | 职能 |
+| 职能 | 机构／单位 | 主管法律 |
 | --- | --- | --- |
-| 消防与救援局 | Jabatan Bomba dan Penyelamat Malaysia (JBPM) | 灭火、救援、消防安全执法 |
-| 地方政府局 | Jabatan Kerajaan Tempatan (JKT) | 协调并支援各地方政府机构 |
-| 国家房屋局 | Jabatan Perumahan Negara (JPN) | 发展商执照、廉价房屋 |
-| PLANMalaysia | Jabatan Perancangan Bandar dan Desa (JPBD) | 城乡规划 |
-| 国家景观局 | Jabatan Landskap Negara (JLN) | 景观与绿地政策 |
-| 国家固体废物管理局 | Jabatan Pengurusan Sisa Pepejal Negara (JPSPN) | 固体废物政策与监管 |
-| SWCorp（固体废物管理机构） | Perbadanan Pengurusan Sisa Pepejal dan Pembersihan Awam | 固体废物与公共清洁运营 |
-| 房屋及分层地契管理仲裁庭 | Tribunal Perumahan dan Pengurusan Strata (TPPS) | 裁决购房者／分层地契纠纷 |
-| PR1MA | Perbadanan PR1MA Malaysia | 面向中等收入购房者的可负担房屋 |
-| SPNB | Syarikat Perumahan Negara Berhad | 公共及可负担房屋交付 |
+| 可负担与受管制房屋 | 国家房屋局（JPN）；SPNB | 《1966年房屋发展（管制与执照）法令》（第118号法令） |
+| 分层住宅与纠纷 | 房屋及分层管理仲裁庭 | 《2013年分层管理法令》（第757号法令） |
+| 城乡规划 | PLANMalaysia（联邦城乡规划局） | 《1976年城乡规划法令》（第172号法令） |
+| 地方政府 | 地方政府局（JKT） | 《1976年地方政府法令》（第171号法令） |
+| 消防与拯救 | 消防及拯救局（JBPM） | — |
+| 固体废料与卫生 | 国家固体废料管理局（JPSPN）；SWCorp | 《2007年固体废料与公共卫生管理法令》（第672号法令） |
+| 园林 | 国家园林局（JLN） | — |
+| 社区信贷与当铺 | KPKT 执照职能 | — |
 
-## 所执行的主要法律
+该部属下的联邦部门包括 JBPM、JKT、JPN 和 JPSPN。联邦机构包括房屋及分层管理仲裁庭、城市和谐、房屋及地方政府培训学院（I-KPKT），以及 SWCorp。官方门户网站还列出 PLANMalaysia、JLN、SPNB、Perbadanan PR1MA Malaysia 和 URBANICE Malaysia。
 
-KPKT 及其属下部门执行一组核心法令，包括 **《1976 年地方政府法令》（第 171 号法令）**、**《1976 年城乡规划法令》（第 172 号法令）**、**《1974 年道路、排水与建筑物法令》（第 133 号法令）**、**《1988 年消防服务法令》（第 341 号法令）**、**《1966 年房屋发展（管制与执照）法令》（第 118 号法令）**、**《2013 年分层地契管理法令》（第 757 号法令）** 以及 **《2007 年固体废物与公共清洁管理法令》（第 672 号法令）**。它同时也是主管放债人与当铺业者监管的部门。
+## 我的问题应该找哪里？
+
+- **延迟或有缺陷的房屋项目：** 发展商行为依《1966年房屋发展（管制与执照）法令》获发执照；金钱索偿可提交 **房屋及分层管理仲裁庭**。
+- **分层产业／管理机构纠纷：** **《2013年分层管理法令》（第757号法令）** 制定了框架与附例，同一仲裁庭负责审理案件。
+- **消防安全证书或检查：** **消防及拯救局（JBPM）**。
+- **垃圾漏收或公共卫生问题：** 在已采纳 **第672号法令** 的州属，此事务由 **SWCorp** 与 JPSPN 处理。
+- **规划批准或议会事务：** 你所属的 **地方政府**，依据 **《1976年地方政府法令》** 和 **《1976年城乡规划法令》** 运作。
+
+## 该部现有名称是何时确立的？
+
+该部以现今形式于 **2013年5月16日** 成立，承接了包括城市和谐、房屋及地方政府部，以及后来的地方政府发展部等早期机构。**2023年12月13日**，内阁决定将地方政府发展部重新更名为 **房屋及地方政府部（KPKT）**；该更名于 **2023年12月26日** 宣布，并依据《1969年部长职能法令》宪报刊登。
 
 ## 下一步
 
-如果你是购房者，正面对与发展商或分层地契相关的纠纷，**房屋及分层地契管理仲裁庭（TPPS）** 是 KPKT 为小额索赔提供的渠道；至于规划、执照或市政服务事宜，请联系你所在的地方政府机构，它在 KPKT 制定的框架下运作。有关机构的具体细节，请参阅消防与救援局（JBPM）及 PLANMalaysia 的相关页面。
+若你有正在处理中的房屋或分层产业投诉，**房屋及分层管理仲裁庭** 是 KPKT 提供的低成本渠道；至于规划、执照、废料或市政服务事务，请先联系你所属的 **地方政府**，它在 KPKT 所设定的框架下运作。如需机构层面的详情，请参阅消防及拯救局（JBPM）和 PLANMalaysia 的相关页面。
