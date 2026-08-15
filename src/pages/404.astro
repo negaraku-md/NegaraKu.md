@@ -1,17 +1,53 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout.astro';
-import { localePath } from '@/lib/i18n';
 const locale = 'ms';
 ---
 
-<BaseLayout locale={locale} title="404" description="Halaman tidak dijumpai" path="/404">
+<BaseLayout locale={locale} title="404" description="Halaman tidak dijumpai · Page not found · 页面未找到" path="/404">
   <section class="container notfound">
     <p class="big">404</p>
-    <h1>Halaman tidak dijumpai</h1>
-    <p>Maaf, kandungan yang anda cari tiada di sini.</p>
-    <p><a class="btn btn-primary" href={localePath('/', locale)}>Kembali ke laman utama</a></p>
+    <h1 id="nf-title">Halaman tidak dijumpai</h1>
+    <p id="nf-desc">Maaf, kandungan yang anda cari tiada di sini.</p>
+    <p><a class="btn btn-primary" id="nf-home" href="/">Kembali ke laman utama</a></p>
   </section>
 </BaseLayout>
+
+<script>
+  // GitHub Pages serves this one 404.html for EVERY missing route, so the page's
+  // language can't be known at build time (it is built once, in the default ms
+  // locale). Detect the locale from the requested URL and localise the message,
+  // the home link and <html lang> client-side.
+  (() => {
+    const seg = location.pathname.split('/').filter(Boolean)[0];
+    const loc = seg === 'en' || seg === 'zh' ? seg : 'ms';
+    if (loc === 'ms') return; // already correct
+    const T = {
+      en: {
+        title: 'Page not found',
+        desc: 'Sorry, the content you are looking for is not here.',
+        home: 'Back to home',
+        href: '/en',
+        lang: 'en',
+      },
+      zh: {
+        title: '页面未找到',
+        desc: '抱歉，您要找的内容不在这里。',
+        home: '返回首页',
+        href: '/zh',
+        lang: 'zh-Hans',
+      },
+    }[loc];
+    document.documentElement.lang = T.lang;
+    const set = (id: string, text: string) => {
+      const el = document.getElementById(id);
+      if (el) el.textContent = text;
+    };
+    set('nf-title', T.title);
+    set('nf-desc', T.desc);
+    set('nf-home', T.home);
+    document.getElementById('nf-home')?.setAttribute('href', T.href);
+  })();
+</script>
 
 <style>
   .notfound {
