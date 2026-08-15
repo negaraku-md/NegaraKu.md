@@ -75,19 +75,15 @@ const textWidth = (s, size) => {
   return u * size;
 };
 
-// The NegaraKu.md blossom (petals + dark centre + stem + buds) — head-centre at
-// (tx,ty), scaled s. Used for the faint background watermark.
-const flower = (tx, ty, s) => `<g transform="translate(${tx - 32 * s} ${ty - 28 * s}) scale(${s})">
-    <g fill="#FFC000" transform="translate(32 28)">
-      <ellipse cx="0" cy="-13" rx="7.6" ry="11.5"/><ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(72)"/>
-      <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(144)"/><ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(216)"/>
-      <ellipse cx="0" cy="-13" rx="7.6" ry="11.5" transform="rotate(288)"/>
-    </g>
-    <circle cx="32" cy="28" r="5.3" fill="#07070A"/>
-    <path d="M32 28 C 32 39, 33 47, 35.5 54" stroke="#FFC000" stroke-width="2.6" fill="none" stroke-linecap="round"/>
-    <circle cx="35.6" cy="54.2" r="2.5" fill="#FFC000"/><circle cx="31" cy="49.5" r="1.9" fill="#FFC000"/>
-    <circle cx="38.4" cy="50.4" r="1.9" fill="#FFC000"/><circle cx="32" cy="28" r="2.4" fill="#FFC000"/>
-  </g>`;
+// A standalone Bunga Raya bloom — the SAME v2 traced flower as the badge/avatar
+// (logo-flower.mjs), gold fill, no hexagon — centred at (cx,cy) with pixel width
+// `size`. Used for the faint background watermark so every card carries the one
+// real logo (never the old abstract blossom).
+const bloom = (cx, cy, size, opacity = 1) => {
+  const sc = size / FLOWER_VB;
+  const tx = cx - FLOWER_CX * sc, ty = cy - FLOWER_CY * sc;
+  return `<g opacity="${opacity}" transform="translate(${tx.toFixed(2)} ${ty.toFixed(2)}) scale(${sc.toFixed(5)})"><path fill="#FFC000" fill-rule="evenodd" d="${FLOWER_D}"/></g>`;
+};
 
 // The hexagon BADGE — black hexagon + white border + gold Bunga Raya, centred at
 // (cx,cy), width `size` (matches public/brand/negaraku-icon.svg via logo-flower).
@@ -183,7 +179,7 @@ function articleSvg(a) {
   <rect width="1200" height="630" fill="#07070A"/>
   <rect width="1200" height="630" fill="url(#glow)"/>
   <rect x="0" y="0" width="1200" height="8" fill="#FFC000"/>
-  <g opacity="0.06">${flower(1010, 440, 4.2)}</g>
+  ${bloom(1015, 430, 360, 0.06)}
   <text x="76" y="108" font-family="${BODY_FONT}" font-size="24" font-weight="600" fill="#FFC000">${esc(crumb)}</text>
   ${chips.join('\n  ')}
   <text x="76" y="${tStart}" font-family="${TITLE_FONT}" font-size="${cjkTitle ? 52 : 50}" font-weight="800" fill="#F4F4F8">${tSpans}</text>
@@ -197,7 +193,8 @@ function articleSvg(a) {
 const defaultSvg = `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
   <rect width="1200" height="630" fill="#07070A"/>
   <rect x="0" y="0" width="1200" height="8" fill="#FFC000"/>
-  ${flower(150, 155, 2.4)}
+  ${bloom(1015, 430, 360, 0.06)}
+  ${badge(170, 200, 230)}
   <text x="90" y="400" font-family="${TITLE_FONT}" font-size="96" font-weight="700" fill="#F4F4F8">NegaraKu<tspan fill="#FFC000">.md</tspan></text>
   <text x="92" y="470" font-family="${BODY_FONT}" font-size="38" fill="#C0C0D0">An open-source, AI-friendly knowledge base about Malaysia</text>
   <text x="92" y="560" font-family="${BODY_FONT}" font-size="30" fill="#9A9AB8">Sponsored by <tspan fill="#FFC000" font-weight="700">1company</tspan></text>
