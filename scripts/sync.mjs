@@ -87,7 +87,9 @@ async function main() {
       faqCount: Array.isArray(data.faq) ? data.faq.length : 0,
       sensitivity: data.sensitivity ?? 'none',
       reviewer: data.reviewer ?? null,
-      relations: Array.isArray(data.relations) ? data.relations.map((r) => r.to) : [],
+      // Keep the typed edge {rel, to} — build-graph.mjs needs the relation kind,
+      // and the only other consumer (ArticleList) just counts them.
+      relations: Array.isArray(data.relations) ? data.relations.map((r) => ({ rel: r.rel, to: r.to })) : [],
       category: data.category ?? folder,
       subcategory: data.subcategory ?? [],
       lang: data.lang ?? 'ms',

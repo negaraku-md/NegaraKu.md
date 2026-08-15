@@ -1,0 +1,400 @@
+---
+import type { Locale } from '@/lib/categories';
+import { CATEGORY_COLORS, getCategory } from '@/lib/categories';
+import { getGraph } from '@/lib/apidata';
+import { localePath } from '@/lib/i18n';
+import PageHero from './PageHero.astro';
+
+interface Props {
+  locale: Locale;
+}
+const { locale } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+const g = getGraph();
+
+// Locale-prefixed article hrefs + localized labels; keep the client payload lean.
+const prefix = locale === 'ms' ? '' : `/${locale}`;
+const nodes = g.nodes.map((n) => ({
+  id: n.id,
+  label: n.titles[locale] ?? n.titles.ms,
+  c: n.category,
+  w: n.weight,
+  href: `${prefix}/${n.category}/${n.slug}`,
+}));
+const links = g.links.map((l) => ({ s: l.source, t: l.target, r: l.rel }));
+
+// Legend: only categories that appear, named + coloured, alphabetical.
+const legend = [...new Set(g.nodes.map((n) => n.category))]
+  .map((id) => ({ id, color: CATEGORY_COLORS[id] ?? '#FFC000', name: getCategory(id)?.name[locale] ?? id }))
+  .sort((a, b) => a.name.localeCompare(b.name));
+
+const payload = JSON.stringify({ nodes, links, colors: CATEGORY_COLORS });
+---
+
+<PageHero
+  locale={locale}
+  crumb={[{ label: 'NegaraKu.md', href: localePath('/', locale) }, { label: L('Graf Pengetahuan', 'Knowledge Graph', '知识图谱') }]}
+  title={L('Graf Pengetahuan', 'Knowledge Graph', '知识图谱')}
+  desc={L(
+    'Setiap topik dan cara ia berkait — dijana daripada rujukan silang sebenar dalam korpus.',
+    'Every topic and how it connects — generated from the real cross-references in the corpus.',
+    '每个主题及其关联——由语料库中真实的交叉引用生成。',
+  )}
+  stats={[
+    { value: g.nodeCount, label: L('topik', 'topics', '主题') },
+    { value: g.linkCount, label: L('pautan', 'links', '连接') },
+  ]}
+/>
+
+<section class="container gwrap">
+  {
+    nodes.length === 0 ? (
+      <p class="gempty">{L('Graf belum dijana lagi.', 'The graph has not been generated yet.', '图谱尚未生成。')}</p>
+    ) : (
+      <>
+        <div class="gbar">
+          <p class="ghint">
+            {L('Tatal untuk zum · seret untuk gerak · tuding untuk sorot · klik untuk buka.', 'Scroll to zoom · drag to pan · hover to highlight · click to open.', '滚动缩放 · 拖动平移 · 悬停高亮 · 点击打开。')}
+          </p>
+          <button id="greset" type="button" class="greset">{L('Set semula', 'Reset view', '重置视图')}</button>
+        </div>
+        <div class="legend" aria-label={L('Tapis mengikut kategori', 'Filter by category', '按分类筛选')}>
+          {legend.map((c) => (
+            <button class="lg" type="button" data-cat={c.id} aria-pressed="true">
+              <i style={`background:${c.color}`} />
+              {c.name}
+            </button>
+          ))}
+        </div>
+        <div id="gcanvas-wrap" class="gcanvas-wrap">
+          <canvas id="gcanvas" />
+          <div id="gtip" class="gtip" hidden />
+        </div>
+        <script type="application/json" id="gdata" set:html={payload} />
+      </>
+    )
+  }
+</section>
+
+<script>
+  import * as d3 from 'd3';
+
+  const dataEl = document.getElementById('gdata');
+  const wrap = document.getElementById('gcanvas-wrap') as HTMLDivElement | null;
+  const canvas = document.getElementById('gcanvas') as HTMLCanvasElement | null;
+  const tip = document.getElementById('gtip') as HTMLDivElement | null;
+  if (dataEl && wrap && canvas && tip) {
+    const raw = JSON.parse(dataEl.textContent || '{}');
+    const ctx = canvas.getContext('2d')!;
+    const colorFor = (c: string) => raw.colors[c] || '#FFC000';
+
+    type N = { id: string; label: string; c: string; w: number; href: string; x?: number; y?: number; fx?: number | null; fy?: number | null };
+    const nodes: N[] = raw.nodes.map((n: N) => ({ ...n }));
+    const links = raw.links.map((l: any) => ({ source: l.s, target: l.t, rel: l.r }));
+
+    // Adjacency (post-link-resolution ids) for hover highlighting.
+    const adj = new Map<string, Set<string>>();
+    for (const n of nodes) adj.set(n.id, new Set());
+    for (const l of raw.links) {
+      adj.get(l.s)?.add(l.t);
+      adj.get(l.t)?.add(l.s);
+    }
+
+    const hiddenCats = new Set<string>();
+    const rOf = (n: N) => 2.4 + Math.sqrt(n.w) * 1.25;
+
+    // Cluster centroids on a ring so categories read as constellations.
+    const cats = [...new Set(nodes.map((n) => n.c))];
+    const centroid: Record<string, { x: number; y: number }> = {};
+    cats.forEach((c, i) => {
+      const a = (i / cats.length) * 2 * Math.PI;
+      centroid[c] = { x: Math.cos(a), y: Math.sin(a) };
+    });
+
+    let width = 0,
+      height = 0;
+    const dpr = Math.min(window.devicePixelRatio || 1, 2);
+    const ring = () => Math.min(width, height) * 0.36;
+    function resize() {
+      width = wrap!.clientWidth;
+      height = wrap!.clientHeight;
+      canvas!.width = Math.round(width * dpr);
+      canvas!.height = Math.round(height * dpr);
+      canvas!.style.width = width + 'px';
+      canvas!.style.height = height + 'px';
+    }
+    resize();
+
+    const sim = d3
+      .forceSimulation(nodes as any)
+      .force('link', d3.forceLink(links).id((d: any) => d.id).distance(42).strength(0.12))
+      .force('charge', d3.forceManyBody().strength(-34).theta(0.9).distanceMax(320))
+      .force('x', d3.forceX((d: any) => width / 2 + centroid[d.c].x * ring()).strength(0.06))
+      .force('y', d3.forceY((d: any) => height / 2 + centroid[d.c].y * ring()).strength(0.06))
+      .force('collide', d3.forceCollide((d: any) => rOf(d) + 1.5))
+      .alpha(1)
+      .alphaDecay(0.03);
+
+    let transform = d3.zoomIdentity;
+    let hover: N | null = null;
+    const visible = (n: N) => !hiddenCats.has(n.c);
+
+    const zoom = d3
+      .zoom<HTMLCanvasElement, unknown>()
+      .scaleExtent([0.12, 7])
+      .on('zoom', (e) => {
+        transform = e.transform;
+        draw();
+      });
+    d3.select(canvas).call(zoom as any);
+
+    function findNode(sx: number, sy: number): N | null {
+      const [gx, gy] = transform.invert([sx, sy]);
+      let best: N | null = null;
+      let bestD = Infinity;
+      for (const n of nodes) {
+        if (!visible(n) || n.x == null) continue;
+        const d = (n.x - gx) ** 2 + (n.y! - gy) ** 2;
+        const r = rOf(n) + 4 / transform.k;
+        if (d < r * r && d < bestD) {
+          bestD = d;
+          best = n;
+        }
+      }
+      return best;
+    }
+
+    canvas.addEventListener('mousemove', (ev) => {
+      const rect = canvas!.getBoundingClientRect();
+      const n = findNode(ev.clientX - rect.left, ev.clientY - rect.top);
+      canvas!.style.cursor = n ? 'pointer' : 'grab';
+      if (n !== hover) {
+        hover = n;
+        draw();
+      }
+      if (n) {
+        tip!.hidden = false;
+        tip!.textContent = n.label;
+        tip!.style.left = ev.clientX - rect.left + 14 + 'px';
+        tip!.style.top = ev.clientY - rect.top + 14 + 'px';
+      } else {
+        tip!.hidden = true;
+      }
+    });
+    canvas.addEventListener('mouseleave', () => {
+      hover = null;
+      tip!.hidden = true;
+      draw();
+    });
+    canvas.addEventListener('click', (ev) => {
+      const rect = canvas!.getBoundingClientRect();
+      const n = findNode(ev.clientX - rect.left, ev.clientY - rect.top);
+      if (n) window.location.href = n.href;
+    });
+
+    // Legend toggles category visibility.
+    for (const btn of Array.from(document.querySelectorAll<HTMLButtonElement>('.lg'))) {
+      btn.addEventListener('click', () => {
+        const cat = btn.dataset.cat!;
+        if (hiddenCats.has(cat)) hiddenCats.delete(cat);
+        else hiddenCats.add(cat);
+        btn.setAttribute('aria-pressed', String(!hiddenCats.has(cat)));
+        btn.classList.toggle('off', hiddenCats.has(cat));
+        draw();
+      });
+    }
+
+    document.getElementById('greset')?.addEventListener('click', () => {
+      d3.select(canvas).transition().duration(400).call(zoom.transform as any, d3.zoomIdentity);
+      hiddenCats.clear();
+      for (const b of Array.from(document.querySelectorAll<HTMLButtonElement>('.lg'))) {
+        b.setAttribute('aria-pressed', 'true');
+        b.classList.remove('off');
+      }
+      sim.alpha(0.5).restart();
+    });
+
+    let ro: ResizeObserver | null = null;
+    if ('ResizeObserver' in window) {
+      ro = new ResizeObserver(() => {
+        resize();
+        draw();
+      });
+      ro.observe(wrap);
+    } else {
+      window.addEventListener('resize', () => {
+        resize();
+        draw();
+      });
+    }
+
+    // Pre-warm the layout synchronously so the first paint is a stable graph —
+    // and so it paints even when requestAnimationFrame is throttled (a hidden or
+    // background tab never ticks the rAF-driven simulation otherwise).
+    sim.stop();
+    for (let i = 0; i < 250; i++) sim.tick();
+    sim.on('tick', draw);
+    draw();
+
+    function draw() {
+      const neighbors = hover ? adj.get(hover.id) : null;
+      ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+      ctx.clearRect(0, 0, width, height);
+      ctx.translate(transform.x, transform.y);
+      ctx.scale(transform.k, transform.k);
+
+      // Links (skip hidden endpoints). Incident edges of the hovered node glow.
+      ctx.lineWidth = 0.6 / transform.k;
+      for (const l of links as any[]) {
+        const s = l.source,
+          t = l.target;
+        if (!s || !t || hiddenCats.has(s.c) || hiddenCats.has(t.c)) continue;
+        const on = hover && (s.id === hover.id || t.id === hover.id);
+        ctx.strokeStyle = on ? 'rgba(255,192,0,0.55)' : 'rgba(150,150,180,0.09)';
+        ctx.beginPath();
+        ctx.moveTo(s.x, s.y);
+        ctx.lineTo(t.x, t.y);
+        ctx.stroke();
+      }
+
+      // Nodes.
+      for (const n of nodes) {
+        if (!visible(n) || n.x == null) continue;
+        const dim = hover && n.id !== hover.id && !neighbors?.has(n.id);
+        ctx.globalAlpha = dim ? 0.18 : 1;
+        ctx.beginPath();
+        ctx.arc(n.x, n.y!, rOf(n), 0, 2 * Math.PI);
+        ctx.fillStyle = colorFor(n.c);
+        ctx.fill();
+        if (hover && n.id === hover.id) {
+          ctx.lineWidth = 2 / transform.k;
+          ctx.strokeStyle = '#F4F4F8';
+          ctx.stroke();
+        }
+      }
+      ctx.globalAlpha = 1;
+
+      // Labels in screen space: hovered + its neighbours, and — when zoomed in —
+      // the big hubs. Kept sparse so the canvas never turns into a wall of text.
+      ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+      ctx.font = '600 12px system-ui, sans-serif';
+      ctx.textBaseline = 'middle';
+      const showHub = transform.k > 1.7;
+      for (const n of nodes) {
+        if (!visible(n) || n.x == null) continue;
+        const isHover = hover && (n.id === hover.id || neighbors?.has(n.id));
+        if (!isHover && !(showHub && n.w >= 14)) continue;
+        const sx = transform.applyX(n.x);
+        const sy = transform.applyY(n.y!);
+        if (sx < -40 || sx > width + 40 || sy < -20 || sy > height + 20) continue;
+        const label = n.label.length > 42 ? n.label.slice(0, 40) + '…' : n.label;
+        const off = rOf(n) * transform.k + 4;
+        ctx.lineWidth = 3;
+        ctx.strokeStyle = 'rgba(7,7,10,0.85)';
+        ctx.strokeText(label, sx + off, sy);
+        ctx.fillStyle = isHover ? '#FFFFFF' : '#C6C6D4';
+        ctx.fillText(label, sx + off, sy);
+      }
+    }
+  }
+</script>
+
+<style>
+  .gwrap {
+    padding-bottom: 3rem;
+  }
+  .gempty {
+    color: var(--ink-soft);
+    padding: 2rem 0;
+  }
+  .gbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    flex-wrap: wrap;
+    margin: 0.5rem 0 0.75rem;
+  }
+  .ghint {
+    margin: 0;
+    font-size: 0.88rem;
+    color: var(--ink-soft);
+  }
+  .greset {
+    flex: none;
+    padding: 0.35rem 0.8rem;
+    border-radius: 999px;
+    border: 1px solid color-mix(in srgb, var(--gold) 45%, var(--line));
+    background: var(--surface-2);
+    color: var(--gold);
+    font-weight: 700;
+    font-size: 0.82rem;
+    cursor: pointer;
+  }
+  .greset:hover {
+    border-color: var(--gold);
+    background: color-mix(in srgb, var(--gold) 10%, var(--surface));
+  }
+  .legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem 0.5rem;
+    margin-bottom: 0.75rem;
+  }
+  .lg {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0.25rem 0.6rem;
+    border-radius: 999px;
+    border: 1px solid var(--line);
+    background: var(--surface);
+    color: var(--ink);
+    font-size: 0.78rem;
+    cursor: pointer;
+    transition: opacity 0.15s ease, border-color 0.15s ease;
+  }
+  .lg i {
+    width: 10px;
+    height: 10px;
+    border-radius: 3px;
+    flex: none;
+  }
+  .lg.off {
+    opacity: 0.4;
+    text-decoration: line-through;
+  }
+  .lg:hover {
+    border-color: color-mix(in srgb, var(--gold) 45%, var(--line));
+  }
+  .gcanvas-wrap {
+    position: relative;
+    width: 100%;
+    height: min(72vh, 760px);
+    min-height: 480px;
+    border: 1px solid var(--line);
+    border-radius: 14px;
+    background: radial-gradient(120% 120% at 50% 30%, color-mix(in srgb, var(--gold) 4%, var(--surface)) 0%, var(--outer) 100%);
+    overflow: hidden;
+    touch-action: none;
+  }
+  #gcanvas {
+    display: block;
+    cursor: grab;
+  }
+  .gtip {
+    position: absolute;
+    z-index: 3;
+    max-width: 320px;
+    padding: 0.3rem 0.55rem;
+    border-radius: 8px;
+    border: 1px solid color-mix(in srgb, var(--gold) 40%, var(--line));
+    background: rgba(7, 7, 10, 0.92);
+    color: var(--ink);
+    font-size: 0.82rem;
+    font-weight: 600;
+    pointer-events: none;
+    box-shadow: var(--shadow-soft);
+  }
+</style>

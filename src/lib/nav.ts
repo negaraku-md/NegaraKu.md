@@ -30,6 +30,7 @@ export const NAV: NavMenu[] = [
     label: 'nav.more',
     items: [
       { label: 'nav.aboutPage', href: '/about' },
+      { label: 'nav.graph', href: '/graph' },
       { label: 'nav.dashboard', href: '/dashboard' },
       { label: 'nav.changelog', href: '/changelog' },
       { label: 'nav.settings', href: '/settings' },

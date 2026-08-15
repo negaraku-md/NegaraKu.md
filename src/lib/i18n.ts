@@ -33,6 +33,7 @@ const STRINGS = {
   'nav.contribute': { ms: 'Sumbang', en: 'Contribute', zh: '贡献' },
   'nav.explore': { ms: 'Terokai', en: 'Explore', zh: '探索' },
   'nav.articles': { ms: 'Semua Artikel', en: 'All Articles', zh: '所有文章' },
+  'nav.graph': { ms: 'Graf Pengetahuan', en: 'Knowledge Graph', zh: '知识图谱' },
   'nav.understand': { ms: 'Kenali', en: 'Understand', zh: '认识' },
   'nav.visit': { ms: 'Lawati', en: 'Visit', zh: '游览' },
   'nav.living': { ms: 'Hidup', en: 'Living', zh: '生活' },

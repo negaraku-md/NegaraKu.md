@@ -75,3 +75,27 @@ export interface GitInfo {
 export function getGitInfo(): GitInfo {
   return read<GitInfo>('git.json', { commits: [], contributors: [] });
 }
+
+export interface GraphNode {
+  id: string;
+  slug: string;
+  category: string;
+  titles: { ms: string; en: string; zh: string };
+  weight: number;
+}
+export interface GraphLink {
+  source: string;
+  target: string;
+  rel: string;
+}
+export interface KnowledgeGraph {
+  generatedFrom?: string;
+  nodeCount: number;
+  linkCount: number;
+  nodes: GraphNode[];
+  links: GraphLink[];
+}
+
+export function getGraph(): KnowledgeGraph {
+  return read<KnowledgeGraph>('graph.json', { nodeCount: 0, linkCount: 0, nodes: [], links: [] });
+}
