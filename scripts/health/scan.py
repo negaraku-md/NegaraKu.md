@@ -319,9 +319,12 @@ def scan(articles: list[dict]) -> list[dict]:
         # reported at INFO. The graph builder skips these so readers never see
         # a dead edge.
         for r in a.get("relations", []):
-            if r in slugs or r in categories:
+            # Manifest relations are typed edges {rel, to}; tolerate the older
+            # bare-slug form too.
+            target = r.get("to") if isinstance(r, dict) else r
+            if target in slugs or target in categories:
                 continue
-            add("INFO", "relation-gap", a, f"relation '{r}' has no article yet — content gap")
+            add("INFO", "relation-gap", a, f"relation '{target}' has no article yet — content gap")
 
     # translation coverage (report once per canonical ms article)
     seen: set[str] = set()
