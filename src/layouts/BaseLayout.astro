@@ -4,7 +4,7 @@ import Header from '@/components/Header.astro';
 import Footer from '@/components/Footer.astro';
 import HeadInlineScripts from '@/components/HeadInlineScripts.astro';
 import type { Locale } from '@/lib/categories';
-import { t, LOCALES, localePath } from '@/lib/i18n';
+import { t, LOCALES, localePath, withTrailingSlash } from '@/lib/i18n';
 
 interface Props {
   locale: Locale;
@@ -45,13 +45,15 @@ const site = Astro.site ?? new URL('https://negaraku.md');
 // Append the brand only when it fits inside Google's ~60-char display budget.
 // Otherwise the suffix truncates the part that actually earns the click.
 const BRAND = ' — NegaraKu.md';
-const fullTitle =
-  title === 'NegaraKu.md'
-    ? title
-    : (title + BRAND).length <= 60
-      ? title + BRAND
-      : title;
-const canonical = new URL(localePath(path, locale), site).toString();
+const fullTitle = title.includes('NegaraKu.md')
+  ? title // already carries the wordmark (home titles, the bare brand) — don't double it
+  : (title + BRAND).length <= 60
+    ? title + BRAND
+    : title;
+// Match the trailing-slash form GitHub Pages serves (and the sitemap emits), so
+// canonical/og:url/hreflang all point at the resolved URL rather than the one
+// that 301-redirects to it.
+const canonical = new URL(withTrailingSlash(localePath(path, locale)), site).toString();
 const htmlLang = locale === 'zh' ? 'zh-Hans' : locale === 'ms' ? 'ms-MY' : 'en';
 // Per-page OG image (e.g. the article's own card), else the branded default.
 const ogImage = new URL(image ?? '/og/default.png', site).toString();
@@ -84,11 +86,11 @@ const ogImageAlt = image ? title : 'NegaraKu.md — knowledge base about Malaysi
         <link
           rel="alternate"
           hreflang={l === 'zh' ? 'zh-Hans' : l === 'ms' ? 'ms-MY' : 'en'}
-          href={new URL(localePath(path, l), site).toString()}
+          href={new URL(withTrailingSlash(localePath(path, l)), site).toString()}
         />
       ))
     }
-    <link rel="alternate" hreflang="x-default" href={new URL(localePath(path, 'ms'), site).toString()} />
+    <link rel="alternate" hreflang="x-default" href={new URL(withTrailingSlash(localePath(path, 'ms')), site).toString()} />
 
     {/* Open Graph / Twitter (drives Facebook + social link previews) */}
     <meta property="og:type" content={ogType} />

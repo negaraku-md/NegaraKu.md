@@ -197,7 +197,7 @@ const defaultSvg = `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height=
   ${badge(170, 200, 230)}
   <text x="90" y="400" font-family="${TITLE_FONT}" font-size="96" font-weight="700" fill="#F4F4F8">NegaraKu<tspan fill="#FFC000">.md</tspan></text>
   <text x="92" y="470" font-family="${BODY_FONT}" font-size="38" fill="#C0C0D0">An open-source, AI-friendly knowledge base about Malaysia</text>
-  <text x="92" y="560" font-family="${BODY_FONT}" font-size="30" fill="#9A9AB8">Sponsored by <tspan fill="#FFC000" font-weight="700">1company</tspan></text>
+  <text x="92" y="560" font-family="${BODY_FONT}" font-size="30" fill="#9A9AB8">Sponsored by <tspan fill="#FFC000" font-weight="700">1company.com</tspan></text>
 </svg>`;
 
 async function main() {

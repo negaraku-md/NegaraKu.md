@@ -3,7 +3,45 @@ import type { Locale } from './categories';
 import { getCategory } from './categories';
 import { subcatLabel, SUBCATEGORY_LABELS } from './subcategories';
 import { SITE } from './site';
-import { localePath } from './i18n';
+import { localePath, withTrailingSlash } from './i18n';
+
+/** Stable @id for the site's Organization entity — linked from publisher/sponsor. */
+export const ORG_ID = `${SITE}/#organization`;
+
+/** Absolute, trailing-slash canonical URL for a page path (matches <link canonical>). */
+function pageUrl(path: string, locale: Locale): string {
+  return SITE + withTrailingSlash(localePath(path, locale));
+}
+
+/**
+ * Standalone Organization JSON-LD — the site's brand entity. Emitted on the
+ * homepage so search engines and AI assistants can build a knowledge panel and
+ * associate the brand with its logo and social profiles; publisher/sponsor
+ * elsewhere reference it by @id.
+ */
+export function organizationJsonLd(): Record<string, unknown> {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'Organization',
+    '@id': ORG_ID,
+    name: 'NegaraKu.md',
+    alternateName: 'negaraku.md',
+    url: SITE,
+    logo: {
+      '@type': 'ImageObject',
+      url: `${SITE}/brand/negaraku-icon-1024.png`,
+      width: 1024,
+      height: 1024,
+    },
+    description: 'An open-source, AI-friendly knowledge base about Malaysia — Bahasa Melayu, English and 中文.',
+    sameAs: ['https://www.facebook.com/negaraku.md', 'https://github.com/negaraku-md'],
+    sponsor: {
+      '@type': 'Organization',
+      name: '1company',
+      url: 'https://www.1company.com',
+    },
+  };
+}
 
 /** The country term, per language, always included as a base keyword. */
 const COUNTRY: Record<Locale, string[]> = {
@@ -44,9 +82,9 @@ export function breadcrumbJsonLd(article: Article, locale: Locale): Record<strin
   const d = article.data;
   const cat = getCategory(d.category);
   const items = [
-    { name: 'NegaraKu.md', url: SITE + localePath('/', locale) },
-    { name: cat?.name[locale] ?? d.category, url: SITE + localePath(`/${d.category}`, locale) },
-    { name: d.title, url: SITE + localePath(`/${d.category}/${d.slug}`, locale) },
+    { name: 'NegaraKu.md', url: pageUrl('/', locale) },
+    { name: cat?.name[locale] ?? d.category, url: pageUrl(`/${d.category}`, locale) },
+    { name: d.title, url: pageUrl(`/${d.category}/${d.slug}`, locale) },
   ];
   return {
     '@context': 'https://schema.org',
@@ -63,12 +101,16 @@ export function breadcrumbJsonLd(article: Article, locale: Locale): Record<strin
 /** Schema.org Article JSON-LD for a knowledge entry. */
 export function articleJsonLd(article: Article, locale: Locale): Record<string, unknown> {
   const d = article.data;
-  const url = SITE + localePath(`/${d.category}/${d.slug}`, locale);
+  const url = pageUrl(`/${d.category}/${d.slug}`, locale);
   return {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: d.title,
     description: d.summary,
+    // The 30-second direct answer, machine-readable. This is the concise,
+    // liftable answer AI assistants and answer engines quote — previously it
+    // only existed as on-page text, invisible to structured-data consumers.
+    ...(d.answer ? { abstract: d.answer } : {}),
     inLanguage: locale === 'zh' ? 'zh-Hans' : locale === 'ms' ? 'ms-MY' : 'en',
     datePublished: (d.created ?? d.updated).toISOString(),
     dateModified: d.updated.toISOString(),
@@ -77,10 +119,25 @@ export function articleJsonLd(article: Article, locale: Locale): Record<string, 
     isAccessibleForFree: true,
     license: 'https://creativecommons.org/licenses/by-sa/4.0/',
     keywords: keywordsFor(article, locale).join(', '),
+    // Point voice assistants at the answer + key-takeaways blocks (the Layer-1
+    // summary). Only meaningful when the answer block actually renders.
+    ...(d.answer
+      ? {
+          speakable: {
+            '@type': 'SpeakableSpecification',
+            cssSelector: ['.l1 .answer', '.l1 .kt'],
+          },
+        }
+      : {}),
     publisher: {
       '@type': 'Organization',
+      '@id': ORG_ID,
       name: 'NegaraKu.md',
       url: SITE,
+      logo: {
+        '@type': 'ImageObject',
+        url: `${SITE}/brand/negaraku-icon-1024.png`,
+      },
     },
     sponsor: {
       '@type': 'Organization',
@@ -161,6 +218,7 @@ export function websiteJsonLd(): Record<string, unknown> {
     url: SITE,
     inLanguage: ['ms-MY', 'en', 'zh-Hans'],
     description: 'An open-source, AI-friendly knowledge base about Malaysia.',
+    publisher: { '@id': ORG_ID },
     sponsor: {
       '@type': 'Organization',
       name: '1company',

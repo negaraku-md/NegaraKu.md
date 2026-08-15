@@ -122,6 +122,21 @@ export function localePath(path: string, locale: Locale): string {
   return clean === '/' ? `/${locale}` : `/${locale}${clean}`;
 }
 
+/**
+ * Normalize a page pathname to the trailing-slash form GitHub Pages actually
+ * serves (`/x` 301-redirects to `/x/`). Used for canonical, og:url, hreflang and
+ * JSON-LD URLs so every emitted URL matches the resolved one — and the sitemap,
+ * which already emits trailing slashes. File routes (a dot in the last segment,
+ * e.g. `/llms.txt`, `/x.md`) are left untouched — only directory pages get a slash.
+ */
+export function withTrailingSlash(pathname: string): string {
+  if (!pathname) return '/';
+  if (pathname.endsWith('/')) return pathname;
+  const last = pathname.split('/').pop() ?? '';
+  if (last.includes('.')) return pathname; // file route — no slash
+  return `${pathname}/`;
+}
+
 /** Extract the active locale from an Astro URL pathname. */
 export function localeFromPath(pathname: string): Locale {
   const seg = pathname.split('/').filter(Boolean)[0];
