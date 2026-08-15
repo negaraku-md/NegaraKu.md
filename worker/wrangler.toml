@@ -1,0 +1,20 @@
+# Cloudflare Worker — NegaraKu.md Visitors analytics edge logger.
+# Deploy from this directory:  npx wrangler deploy
+# See worker/README.md for the one-time setup (dataset, route, proxied DNS, token).
+
+name = "negaraku-analytics"
+main = "src/index.js"
+compatibility_date = "2025-01-01"
+workers_dev = false
+
+# Analytics Engine dataset the Worker writes each page view to.
+# The name here must match CF_AE_DATASET used by scripts/build-analytics.mjs.
+[[analytics_engine_datasets]]
+binding = "AE"
+dataset = "negaraku_analytics"
+
+# Run on every request to the live site. REQUIRES the zone's DNS records to be
+# PROXIED (orange cloud) — a DNS-only record never reaches the Worker.
+[[routes]]
+pattern = "negaraku.md/*"
+zone_name = "negaraku.md"

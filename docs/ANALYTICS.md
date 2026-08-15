@@ -32,18 +32,28 @@ bucket is either a plain number or `{ total, byBot }`:
 Absent file → the row renders `—` and *not tracked yet*. **No numbers are ever
 invented.**
 
-## How the data gets collected (not yet wired)
+## How the data gets collected (built — deploy to activate)
 
 The site is static (GitHub Pages), which cannot see User-Agents, so classifying
-humans vs search vs AI needs a request-logging layer in front:
+humans vs search vs AI needs a request-logging layer in front. That layer is
+now in the repo:
 
-1. **Put the site behind a CDN/edge** (e.g. Cloudflare). A Worker inspects each
-   request's `User-Agent`, classifies it into `readers` / `search` / `ai` by a
-   bot list, and increments a counter (KV / Analytics Engine / D1) per path.
-2. **A build step** (`scripts/build-analytics.mjs`, to be added) pulls those
-   counts into `public/api/analytics.json` at predev/prebuild.
+1. **Edge Worker** — `worker/` is a Cloudflare Worker on the `negaraku.md/*`
+   route. It reads each request's `User-Agent`, classifies it into
+   `readers` / `search` / `ai` (`worker/src/classify.js`), writes one
+   **Analytics Engine** data point, and passes the request through to GitHub
+   Pages unchanged.
+2. **Build step** — `scripts/build-analytics.mjs` (wired into `predev`/`prebuild`)
+   queries the last `ANALYTICS_WINDOW_DAYS` (default 90) from Analytics Engine
+   via its SQL API and writes `public/api/analytics.json`.
 
-Two honest limits: counting only starts the day the edge layer is connected
-(no backfill), and AI/search classification is only as good as the maintained
-bot list. Human counts can alternatively come from a privacy-friendly analytics
-provider (GoatCounter, Plausible) via their stats API.
+**To go live** (one-time), follow `worker/README.md`: `wrangler deploy`, switch
+the `negaraku.md` DNS records to **Proxied** (orange) with SSL mode **Full**, and
+add repo secrets `CF_ACCOUNT_ID` + `CF_API_TOKEN` (token scope *Account
+Analytics: Read*) exposed to the build. Until then the build step no-ops and the
+site keeps showing **"not tracked yet"** — nothing breaks.
+
+Two honest limits: counting only starts the day the Worker is deployed (no
+backfill), and AI/search classification is only as good as the bot list in
+`worker/src/classify.js`. Human counts can alternatively come from a
+privacy-friendly analytics provider (GoatCounter, Plausible) via their stats API.
