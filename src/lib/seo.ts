@@ -98,6 +98,20 @@ export function breadcrumbJsonLd(article: Article, locale: Locale): Record<strin
   };
 }
 
+/**
+ * Article author. Content is AI-drafted and organisation-published, so the
+ * honest default author is the Organization itself. When a real human is named
+ * in the public revision history (a contributor other than "AI"), credit them
+ * as a Person — that's how an open project surfaces genuine human authorship.
+ */
+function authorFor(d: Article['data']): Record<string, unknown> {
+  const human = (d.revisions ?? [])
+    .map((r) => r.contributor)
+    .find((c): c is string => Boolean(c) && c!.trim().toLowerCase() !== 'ai');
+  if (human) return { '@type': 'Person', name: human };
+  return { '@type': 'Organization', '@id': ORG_ID, name: 'NegaraKu.md', url: SITE };
+}
+
 /** Schema.org Article JSON-LD for a knowledge entry. */
 export function articleJsonLd(article: Article, locale: Locale): Record<string, unknown> {
   const d = article.data;
@@ -116,6 +130,7 @@ export function articleJsonLd(article: Article, locale: Locale): Record<string, 
     dateModified: d.updated.toISOString(),
     mainEntityOfPage: url,
     url,
+    author: authorFor(d),
     isAccessibleForFree: true,
     license: 'https://creativecommons.org/licenses/by-sa/4.0/',
     keywords: keywordsFor(article, locale).join(', '),
@@ -144,7 +159,15 @@ export function articleJsonLd(article: Article, locale: Locale): Record<string, 
       name: '1company',
       url: 'https://www.1company.com',
     },
-    citation: d.sources.map((s) => s.url ?? s.title),
+    // Structured citations — CreativeWork objects (not bare URLs), so engines can
+    // read the source's name, publisher and date, not just a link.
+    citation: d.sources.map((s) => ({
+      '@type': 'CreativeWork',
+      name: s.title,
+      ...(s.url ? { url: s.url } : {}),
+      ...(s.publisher ? { publisher: { '@type': 'Organization', name: s.publisher } } : {}),
+      ...(s.date ? { datePublished: s.date } : {}),
+    })),
     articleSection: d.category,
   };
 }

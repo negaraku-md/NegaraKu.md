@@ -190,19 +190,41 @@ function articleSvg(a) {
 </svg>`;
 }
 
-const defaultSvg = `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
-  <rect width="1200" height="630" fill="#07070A"/>
-  <rect x="0" y="0" width="1200" height="8" fill="#FFC000"/>
-  ${bloom(1015, 430, 360, 0.06)}
-  ${badge(170, 200, 230)}
-  <text x="90" y="400" font-family="${TITLE_FONT}" font-size="96" font-weight="700" fill="#F4F4F8">NegaraKu<tspan fill="#FFC000">.md</tspan></text>
-  <text x="92" y="470" font-family="${BODY_FONT}" font-size="38" fill="#C0C0D0">An open-source, AI-friendly knowledge base about Malaysia</text>
-  <text x="92" y="560" font-family="${BODY_FONT}" font-size="30" fill="#9A9AB8">Sponsored by <tspan fill="#FFC000" font-weight="700">1company.com</tspan></text>
+// The default card (home + other non-article pages), CENTERED and LOCALIZED so a
+// /zh page's preview reads in 中文, /ms in Malay, /en in English — matching the
+// centered profile/cover lockup instead of the old left-aligned English-only card.
+function defaultCard(lang) {
+  const W = 1200, H = 630, CX = W / 2;
+  const BADGE = 200, GAP = 34, WORD_W = 500; // "NegaraKu.md" ≈ 500px at 74/800
+  const groupLeft = CX - (BADGE + GAP + WORD_W) / 2;
+  const badgeCx = groupLeft + BADGE / 2;
+  const wordX = groupLeft + BADGE + GAP;
+  const heroCy = 238;
+  const tagline = L(lang,
+    'Pangkalan pengetahuan Malaysia — sumber terbuka, mesra-AI',
+    'An open-source, AI-friendly knowledge base about Malaysia',
+    '开源、AI 友好的马来西亚知识库');
+  const gold = '<tspan fill="#FFC000" font-weight="700">1company.com</tspan>';
+  const sponsored = L(lang, `Ditaja oleh ${gold}`, `Sponsored by ${gold}`, `由 ${gold} 赞助`);
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}">
+  <defs><radialGradient id="glow" cx="50%" cy="40%" r="65%">
+    <stop offset="0%" stop-color="#FFC000" stop-opacity="0.10"/><stop offset="100%" stop-color="#FFC000" stop-opacity="0"/>
+  </radialGradient></defs>
+  <rect width="${W}" height="${H}" fill="#07070A"/>
+  <rect width="${W}" height="${H}" fill="url(#glow)"/>
+  <rect x="0" y="0" width="${W}" height="8" fill="#FFC000"/>
+  ${bloom(70, 350, 440, 0.05)}
+  ${bloom(1130, 350, 440, 0.05)}
+  ${badge(badgeCx, heroCy, BADGE)}
+  <text x="${wordX}" y="${heroCy + 26}" font-family="${TITLE_FONT}" font-size="74" font-weight="800" fill="#F4F4F8">NegaraKu<tspan fill="#FFC000">.md</tspan></text>
+  <text x="${CX}" y="430" text-anchor="middle" font-family="${BODY_FONT}" font-size="32" fill="#C6C6D4">${tagline}</text>
+  <text x="${CX}" y="504" text-anchor="middle" font-family="${BODY_FONT}" font-size="28" fill="#9A9AB8">${sponsored}</text>
 </svg>`;
+}
 
 async function main() {
   await mkdir(OUT_DIR, { recursive: true });
-  await writeFile(path.join(OUT_DIR, 'default.svg'), defaultSvg);
+  await writeFile(path.join(OUT_DIR, 'default.svg'), defaultCard('ms'));
 
   let sharp;
   try {
@@ -212,7 +234,12 @@ async function main() {
     return;
   }
   const toPng = (svg, file) => sharp(Buffer.from(svg)).png({ compressionLevel: 9 }).toFile(file);
-  await toPng(defaultSvg, path.join(OUT_DIR, 'default.png'));
+  // Localized default cards: /og/default.png (ms) + /og/{en,zh}/default.png.
+  await mkdir(path.join(OUT_DIR, 'en'), { recursive: true });
+  await mkdir(path.join(OUT_DIR, 'zh'), { recursive: true });
+  await toPng(defaultCard('ms'), path.join(OUT_DIR, 'default.png'));
+  await toPng(defaultCard('en'), path.join(OUT_DIR, 'en', 'default.png'));
+  await toPng(defaultCard('zh'), path.join(OUT_DIR, 'zh', 'default.png'));
 
   let manifest = [];
   try {

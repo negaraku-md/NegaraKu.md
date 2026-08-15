@@ -26,6 +26,9 @@ const mdHref = localePath(path, locale) + '.md';
   mdHref={mdHref}
   keywords={keywordsFor(article, locale).join(', ')}
   socialTitle={article.data.socialTitle}
+  publishedTime={(article.data.created ?? article.data.updated).toISOString()}
+  modifiedTime={article.data.updated.toISOString()}
+  section={article.data.category}
   jsonLd={[articleJsonLd(article, locale), breadcrumbJsonLd(article, locale), faqJsonLd(article)].filter(Boolean) as Record<string, unknown>[]}
 >
   <ArticleView locale={locale} article={article} />

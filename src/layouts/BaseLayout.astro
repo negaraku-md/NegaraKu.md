@@ -23,6 +23,10 @@ interface Props {
   socialTitle?: string;
   /** Per-page Open Graph image (site-root path, e.g. /og/en/law/x.png). */
   image?: string;
+  /** Article chain-of-custody → OG article:* tags. Set when ogType="article". */
+  publishedTime?: string;
+  modifiedTime?: string;
+  section?: string;
 }
 
 const {
@@ -36,6 +40,9 @@ const {
   keywords,
   socialTitle,
   image,
+  publishedTime,
+  modifiedTime,
+  section,
 } = Astro.props;
 
 // Point AI agents at the machine index for THIS language.
@@ -55,8 +62,10 @@ const fullTitle = title.includes('NegaraKu.md')
 // that 301-redirects to it.
 const canonical = new URL(withTrailingSlash(localePath(path, locale)), site).toString();
 const htmlLang = locale === 'zh' ? 'zh-Hans' : locale === 'ms' ? 'ms-MY' : 'en';
-// Per-page OG image (e.g. the article's own card), else the branded default.
-const ogImage = new URL(image ?? '/og/default.png', site).toString();
+// Per-page OG image (e.g. the article's own card), else the branded default —
+// localized so a /zh or /en page's link preview reads in its own language.
+const defaultOg = locale === 'ms' ? '/og/default.png' : `/og/${locale}/default.png`;
+const ogImage = new URL(image ?? defaultOg, site).toString();
 const ogImageAlt = image ? title : 'NegaraKu.md — knowledge base about Malaysia';
 ---
 
@@ -105,9 +114,22 @@ const ogImageAlt = image ? title : 'NegaraKu.md — knowledge base about Malaysi
     <meta property="og:image:alt" content={ogImageAlt} />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:image" content={ogImage} />
+    {/* Ties Facebook domain insights to the NegaraKu.md Meta app. */}
+    <meta property="fb:app_id" content="1554778636693740" />
+    {/* Article chain-of-custody for social + SEO (JSON-LD carries the same dates). */}
+    {ogType === 'article' && publishedTime && <meta property="article:published_time" content={publishedTime} />}
+    {ogType === 'article' && modifiedTime && <meta property="article:modified_time" content={modifiedTime} />}
+    {ogType === 'article' && section && <meta property="article:section" content={section} />}
+    {ogType === 'article' && <meta property="article:publisher" content="https://www.facebook.com/negaraku.md" />}
 
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
-    <link rel="alternate" type="application/rss+xml" title="negaraku.md" href="/rss.xml" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <link
+      rel="alternate"
+      type="application/rss+xml"
+      title="NegaraKu.md"
+      href={localePath('/rss.xml', locale)}
+    />
 
     {/* Fonts — loaded non-render-blocking so the page shows immediately with the
         system-font fallback and upgrades when the web fonts arrive. */}

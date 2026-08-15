@@ -1,0 +1,6 @@
+# NegaraKu.md — security contact (RFC 9116)
+Contact: https://github.com/negaraku-md/negaraku.md/security/advisories/new
+Policy: https://github.com/negaraku-md/negaraku.md/blob/main/SECURITY.md
+Preferred-Languages: en, ms
+Canonical: https://negaraku.md/.well-known/security.txt
+Expires: 2027-08-16T00:00:00.000Z
