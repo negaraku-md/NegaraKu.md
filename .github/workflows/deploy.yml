@@ -38,6 +38,11 @@ jobs:
           python3 scripts/health/scan.py --strict
 
       - name: Build (sync + graph + astro + pagefind)
+        env:
+          # Visitors analytics — build-analytics.mjs reads these to pull counts
+          # from Analytics Engine. Absent → it no-ops ("not tracked yet").
+          CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+          CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
         run: npm run build
 
       - uses: actions/upload-pages-artifact@v3
