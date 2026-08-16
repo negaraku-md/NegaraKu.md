@@ -44,11 +44,9 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Stamp duty is currently RM1 per RM1,000 (~0.1%), capped at RM1,000. The rate was raised to 0.15% from 1 Jan 2022 and reverted to 0.1% effective July 2023 — confirm the 0.1% rate and RM1,000 cap are still in force at publication."
   - "Service tax (SST) exemption for brokerage / securities trading fees on Bursa-listed shares — confirm the exemption is still current against the latest Bursa Malaysia SST FAQ / Royal Malaysian Customs (MySST) guidance, given the October 2025 SST expansion on financial services."
   - "Bursa Anywhere document requirements (MyKad front and back, plus a bank statement or passbook) and the no-fee position — confirm against the live app flow, which can change."
-  - "Bursa Anywhere distribution (Apple App Store and Google Play) — confirm current availability; store listings and the Bursa Assist pages bot-block automated fetch, so figures here were confirmed from search result titles and snippets rather than full page fetches."
-revisions:
+  - "Bursa Anywhere distribution (Apple App Store and Google Play) — confirm current availability; store listings and the Bursa Assist pages bot-block automated fetch, so figures here were confirmed from search result titles and snippets rather than full page fetches."revisions:
   - version: "01.00"
     date: 2026-08-01
     change: "Approved and published."
@@ -56,6 +54,9 @@ revisions:
 
 updated: 2026-08-01
 sources:
+  - title: "Stamp Duty (Remission) (No. 3) Order 2023 [P.U.(A) 208] — Remission of stamp duty on contract notes for the trading of listed shares or stocks"
+    url: "https://www.ey.com/en_my/technical/tax-alerts/remission-of-stamp-duty-on-contract-notes-for-the-trading-of-listed-shares-or-stocks"
+    publisher: "Federal Gazette P.U.(A) 208/2023 (Stamp Act 1949, First Schedule item 31(a))"
   - title: "Transaction Costs (Equities)"
     url: "https://www.bursamalaysia.com/trade/trading_resources/equities/transaction_costs"
     publisher: "Bursa Malaysia"

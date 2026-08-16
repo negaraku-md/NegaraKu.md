@@ -41,9 +41,7 @@ reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
   - "Sahkan bahawa versi ISA 580 yang dirujuk (IAASB Handbook 2012) masih sepadan dengan versi ISA 580 yang berkuat kuasa terkini di Malaysia, termasuk penomboran perenggan 4, 7, 9, 10, 11, 13, 14, 15, 17, 20, A2, A5, A6."
-  - "Sahkan rujukan Akta Syarikat 2016: subseksyen 248(1) (tempoh 6 bulan / 18 bulan), seksyen 245 (khususnya subseksyen 245(1) untuk rekod perakaunan) dan seksyen 252 (dua pengarah) terhadap teks Akta yang berkuat kuasa, bukan hanya risalah SSM."
-  - "Sahkan status semasa penerimaan ISA tanpa pengubahsuaian oleh AASB/MIA (rujukan profil IFAC Malaysia) dan sama ada Audit Oversight Board (AOB) turut relevan untuk entiti kepentingan awam."
-revisions:
+  - "Sahkan status semasa penerimaan ISA tanpa pengubahsuaian oleh AASB/MIA (rujukan profil IFAC Malaysia) dan sama ada Audit Oversight Board (AOB) turut relevan untuk entiti kepentingan awam."revisions:
   - version: "01.00"
     date: 2026-08-08
     change: "Approved and published."
@@ -51,6 +49,9 @@ revisions:
 
 updated: 2026-08-08
 sources:
+  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
+    publisher: "SSM (Suruhanjaya Syarikat Malaysia)"
   - title: "International Standard on Auditing 580, Written Representations"
     url: "https://www.ifac.org/system/files/publications/files/A033%202012%20IAASB%20Handbook%20ISA%20580.pdf"
     publisher: "IFAC / International Auditing and Assurance Standards Board (IAASB)"

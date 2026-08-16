@@ -29,9 +29,7 @@ faq:
   - q: "Mengapakah pengeluar memilih Johor berbanding Singapura?"
     a: "Kos. Tanah dan buruh jauh lebih murah berbanding di Singapura sambil masih berada dalam capaian pelabuhan, lapangan terbang dan pangkalan pelanggan Singapura. Pertukaran nilai (trade-off) inilah teras hujah pelaburan Iskandar Malaysia."
 
-verificationNeeded:
-  - "Confirm Johor's current population against the latest DOSM state population release before publication."
-
+verificationNeeded: []
 lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
@@ -51,6 +49,9 @@ sensitivity: "royalty"
 
 updated: 2026-07-23
 sources:
+  - title: "Current Population Estimates, 2024"
+    url: "https://www.dosm.gov.my/portal-main/release-content/current-population-estimates-2024"
+    publisher: "Department of Statistics Malaysia (DOSM)"
   - title: "OpenDOSM — official statistics data catalogue"
     url: "https://open.dosm.gov.my/data-catalogue"
     publisher: "Department of Statistics Malaysia"

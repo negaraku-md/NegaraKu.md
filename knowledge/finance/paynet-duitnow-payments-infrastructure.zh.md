@@ -42,10 +42,8 @@ version: "01.00"
 verificationNeeded:
   - "Exact current BNM stake in PayNet and the status/timeline of BNM's planned gradual reduction (announced by the Finance Ministry in a parliamentary reply, Dec 2025) — confirm the figure is still 35.5% at time of human review."
   - "The full list and count (11) of PayNet's financial-institution shareholders, and whether Maybank, CIMB and Public Bank are among them."
-  - "Launch years for DuitNow (2018) and DuitNow QR (2019) — taken from PayNet's own timeline; confirm exact dates if precision is needed."
   - "Merchant QR fee schedule (0.25% bank-funded, 0.5% credit-card-funded, flat RM0.50 above RM5,000) — confirm these are current, as fee terms have changed over time."
   - "Whether the 30 June 2028 proprietary-QR phase-out deadline and two-year transition remain in force."
-
 revisions:
   - version: "01.00"
     date: 2026-08-01

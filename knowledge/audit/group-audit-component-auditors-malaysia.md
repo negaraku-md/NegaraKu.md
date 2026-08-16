@@ -46,12 +46,13 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Confirm the Companies Act 2016 section (s259) and the current fine figures (up to RM50,000, plus RM1,000/day for a continuing offence) against the official SSM-published Act text."
   - "Confirm MIA/AASB has adopted ISA 600 (Revised) specifically with the 15 December 2023 effective date; IFAC confirms adoption without modification in general, but a MIA effective-date circular for ISA 600 (Revised) should be sighted."
   - "Confirm whether the specific Malaysian subsidiary in scope qualifies for any audit exemption (certain dormant/threshold-qualifying private companies) before assuming a statutory audit is required."
-
 updated: 2026-08-08
 sources:
+  - title: "Companies Act 2016 (Act 777), online updated text of reprint as at 1 August 2022"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1738979_BI/Act%20777-%20Final%20Draft%20(1.8.2022).pdf"
+    publisher: "Attorney General's Chambers of Malaysia (AGC), Federal Legislation Portal"
   - title: "International Standard on Auditing 600 (Revised), Special Considerations—Audits of Group Financial Statements (Including the Work of Component Auditors)"
     url: "https://www.iaasb.org/publications/international-standard-auditing-600-revised-special-considerations-audits-group-financial-statements"
     publisher: "IAASB"

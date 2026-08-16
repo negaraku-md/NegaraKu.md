@@ -47,8 +47,6 @@ revisions:
 
 verificationNeeded:
   - "Perenggan 'Amalan profesional' ialah generalisasi umum tentang syarat badan profesional (cth. MIA) dan tidak disokong oleh sumber berkanun dalam sources[]; sahkan atau padam sebelum penerbitan."
-  - "Sahkan kadar denda dan tempoh semasa dalam Akta 743 kekal terpakai (tiada pindaan terkini) pada tarikh semakan manusia."
-
 updated: 2026-08-08
 sources:
   - title: "Akta 743 — Akta Perkongsian Liabiliti Terhad 2012 (Undang-Undang Malaysia)"

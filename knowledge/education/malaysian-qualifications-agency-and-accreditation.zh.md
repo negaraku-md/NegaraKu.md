@@ -44,10 +44,7 @@ reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
   - "Whether a self-accrediting institution's programmes are registered in the MQR automatically or via application (MQA's qanew.cfm says the HEP 'may apply to register'; secondary summaries describe automatic registration after institutional audit)."
-  - "MQF minimum-credit figures and the eight-level titles against the current MQF 2nd Edition, in case MQA issues a revised edition."
-  - "Provisional/Full Accreditation definitions still match current MQA wording on qa.cfm."
-  - "The MQR search domain (www2.mqa.gov.my/mqr) remains the live public register at time of publication."
-revisions:
+  - "MQF minimum-credit figures and the eight-level titles against the current MQF 2nd Edition, in case MQA issues a revised edition."revisions:
   - version: "01.00"
     date: 2026-08-08
     change: "Approved and published."

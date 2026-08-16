@@ -29,9 +29,7 @@ faq:
   - q: "公司为什么选雪兰莪而不选吉隆坡？"
     a: "土地与工业空间成本较低，港口与机场都在州内，而巴生、莎阿南与万宜一带的自由工业区与保税制造仓库适合进出口业务。代价是道路拥堵，这必须纳入物流规划之中。"
 
-verificationNeeded:
-  - "Confirm Selangor's population and its share of national GDP against the latest DOSM releases before publication."
-
+verificationNeeded: []
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
@@ -52,6 +50,9 @@ sensitivity: "royalty"
 
 updated: 2026-07-20
 sources:
+  - title: "OpenDOSM population_state; DOSM GDP by State 2024"
+    url: "https://open.dosm.gov.my/data-catalogue/population_state"
+    publisher: "Department of Statistics Malaysia (DOSM)"
   - title: "OpenDOSM — official statistics data catalogue"
     url: "https://open.dosm.gov.my/data-catalogue"
     publisher: "Department of Statistics Malaysia"

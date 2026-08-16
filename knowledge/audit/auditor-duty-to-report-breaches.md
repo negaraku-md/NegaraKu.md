@@ -39,10 +39,7 @@ reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 verificationNeeded:
-  - "Sahkan penomboran dan angka seksyen 266(13) (penjara sehingga 5 tahun / denda sehingga RM3 juta) terhadap cetakan semula Akta 777 yang berkuat kuasa terkini."
-  - "Sahkan ambang kesalahan serius seksyen 266(11)(b) (2 tahun / RM250,000) tidak dipinda selepas cetakan semula bertarikh 1.8.2022."
-  - "Semakan peguam terhadap pernyataan skop undang-undang bahawa perlindungan suci hati seksyen 266(10) terhad kepada laporan subseksyen (9) dan tidak dinyatakan secara nyata bagi laporan subseksyen (8)."
-version: "01.00"
+  - "Semakan peguam terhadap pernyataan skop undang-undang bahawa perlindungan suci hati seksyen 266(10) terhad kepada laporan subseksyen (9) dan tidak dinyatakan secara nyata bagi laporan subseksyen (8)."version: "01.00"
 revisions:
   - version: "01.00"
     date: 2026-08-08

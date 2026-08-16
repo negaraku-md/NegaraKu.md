@@ -50,12 +50,8 @@ revisions:
 
 updated: 2026-08-01
 verificationNeeded:
-  - "Tarikh perkenan diraja Akta 589 (23 September 1998) dan tarikh mula berkuat kuasa (1 November 1998) — sahkan dengan teks rasmi Akta 589."
-  - "Tempoh maksimum peruntukan spektrum (sehingga 20 tahun) dan syarat pemindahan milik — sahkan dengan Peraturan Spektrum 2000 / garis panduan spektrum MCMC terkini."
-  - "Tarikh mula berkuat kuasa Peraturan Pelesenan 2000 (1 April 2000)."
   - "Status semasa model rangkaian borong tunggal 5G DNB — dasar 5G mungkin telah berubah kepada model dua rangkaian; sahkan struktur pemilikan DNB (MKD) dan rangka rangkaian 5G terkini."
-  - "Kata-kata tepat aspirasi nasional JENDELA (gigabit jalur lebar tetap, 100 Mbps mudah alih, liputan 4G 100%) — dipetik daripada portal JENDELA sebagai matlamat jangka panjang, bukan sasaran Fasa 1."
-sources:
+  - "Kata-kata tepat aspirasi nasional JENDELA (gigabit jalur lebar tetap, 100 Mbps mudah alih, liputan 4G 100%) — dipetik daripada portal JENDELA sebagai matlamat jangka panjang, bukan sasaran Fasa 1."sources:
   - title: "Malaysian Communications And Multimedia Commission Act 1998 [Act 589]"
     url: "https://www.mcmc.gov.my/en/legal/acts/malaysian-communications-and-multimedia-commission"
     publisher: "MCMC / SKMM"

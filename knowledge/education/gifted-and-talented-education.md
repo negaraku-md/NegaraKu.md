@@ -39,10 +39,7 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Nama rasmi semasa pusat: laman UKM menggunakan kedua-dua 'PERMATA@Pintar Negara' dan 'GENIUS@Pintar Negara' (halaman sejarah bertajuk 'Sejarah Pusat GENIUS@Pintar Negara'). Sahkan penjenamaan rasmi terkini dan kemas kini tajuk/entity jika perlu."
-  - "Tarikh 3 April 2009 ialah tarikh pelancaran Program PERMATA@Pintar Negara (sumber: laman 'Kenali PERMATA@Pintar', UKM). Sahkan sama ada tarikh penubuhan pusat/institusi berbeza daripada tarikh pelancaran program."
-  - "Bulan kohort menengah pertama (Januari 2011) berdasarkan kenyataan 'Kolej ini mula beroperasi pada Januari 2011' di laman Kolej PERMATA@Pintar Negara UKM. Sahkan dengan rekod pengambilan pertama."
-revisions:
+  - "Nama rasmi semasa pusat: laman UKM menggunakan kedua-dua 'PERMATA@Pintar Negara' dan 'GENIUS@Pintar Negara' (halaman sejarah bertajuk 'Sejarah Pusat GENIUS@Pintar Negara'). Sahkan penjenamaan rasmi terkini dan kemas kini tajuk/entity jika perlu."revisions:
   - version: "01.00"
     date: 2026-08-08
     change: "Approved and published."

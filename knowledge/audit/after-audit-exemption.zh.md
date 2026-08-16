@@ -38,10 +38,7 @@ faq:
 
 verificationNeeded:
   - "直接向 LHDN 查证其关于第 77A(4) 款的公告的现行文本与状态——撰写时该公告页面无法连上，此处是经由 SSM 的审计豁免 FAQ 引述的"
-  - "对照现行综合法令，查证 Income Tax Act 1967 中规范充分记录与七年保存期的条文（s.82 与 s.82A）"
-  - "在 SSM 的 MBRS 页面上查证现行 MBRS 2.0 强制阶段的日期与入口"
-
-lang: "zh"
+  - "在 SSM 的 MBRS 页面上查证现行 MBRS 2.0 强制阶段的日期与入口"lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "10c01141306ea188"
@@ -62,6 +59,9 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
+  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024"
+    url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
+    publisher: "LHDN (HASiL)"
   - title: "Practice Directive No. 10/2024 — Qualifying Criteria for Audit Exemption for Certain Private Companies in Malaysia"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/PD10-2024-Qualifying-Criteria-for-Audit-Exemption-for-Certain-Categories-of-Private-Companies.pdf"
     publisher: "SSM"

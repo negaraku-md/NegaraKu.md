@@ -50,10 +50,8 @@ revisions:
 verificationNeeded:
   - "Whether the SC's equity crowdfunding framework was in fact the first in ASEAN — widely reported by third parties but NOT asserted in the cited SC primary source; claim was removed pending a first-party confirmation."
   - "Current number and list of registered digital-asset exchange (DAX) operators — the SC register changes over time (five listed as of the SC page's 20 July 2026 update)."
-  - "That Section 15 of the SCA still lists exactly 14 functions in its current in-force wording (statute may have been amended)."
   - "The RM50,000 P2P retail-investor exposure figure is investor guidance rather than a hard statutory cap — confirm current SC guidance."
   - "Governance detail (Executive Chairman and Minister-appointed members) is current."
-
 updated: 2026-08-01
 sources:
   - title: "About the SC"

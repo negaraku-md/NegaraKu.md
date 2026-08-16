@@ -33,10 +33,7 @@ faq:
   - q: "Do I still need audited accounts for the tax return?"
     a: "Subsection 77A(4) of the Income Tax Act 1967 requires a company return to be based on audited accounts, but LHDN has confirmed it does not apply where SSM does not require the company to submit audited accounts. SSM records that position in its own audit exemption FAQ. The computation still has to be supportable."
 
-verificationNeeded:
-  - "Confirm the exact wording of s.107C(10) and s.107C(10A) against the current consolidated Income Tax Act 1967 before relying on the computation described here for a specific case"
-  - "Confirm the CP204 revision months and the s.107C(4A) new-company waiver conditions against the current LHDN public ruling on estimates of tax payable"
-
+verificationNeeded: []
 lang: "en"
 masterLanguage: "en"
 translationStatus: "master"

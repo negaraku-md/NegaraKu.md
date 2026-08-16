@@ -38,9 +38,7 @@ faq:
 
 verificationNeeded:
   - "Confirm the current text and status of LHDN's announcement on subsection 77A(4) directly with LHDN — the announcement page was not reachable at the time of writing and is cited here via SSM's audit exemption FAQ"
-  - "Confirm the Income Tax Act 1967 sections governing sufficient records and the seven-year retention period (s.82 and s.82A) against the current consolidated Act"
   - "Confirm the current MBRS 2.0 mandatory phase dates and entry points on the SSM MBRS page"
-
 lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
@@ -60,6 +58,9 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
+  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024"
+    url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
+    publisher: "LHDN (HASiL)"
   - title: "Practice Directive No. 10/2024 — Qualifying Criteria for Audit Exemption for Certain Private Companies in Malaysia"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/PD10-2024-Qualifying-Criteria-for-Audit-Exemption-for-Certain-Categories-of-Private-Companies.pdf"
     publisher: "SSM"

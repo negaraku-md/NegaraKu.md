@@ -49,14 +49,15 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "The exact Ninth Schedule State List item number for 'land' (draft states List II generally; confirm the item number against the Federal Constitution text)."
   - "That 1 January 1958 is both the Sarawak Land Code's date of commencement and the statutory cut-off for the creation of native customary rights (the two dates coincide in the sources but are conceptually distinct)."
   - "The precise wording and numerical thresholds of the Sabah Land Ordinance section 15 categories (e.g. the fruit-tree density figure) against the current official text."
   - "The original enactment year of the Sabah Land Ordinance (commonly cited as 1930)."
   - "The exact composition of the TR Sandah panel and whether the split is best described as 3:1 on outcome (secondary sources also describe a 2:2 division on the underlying legal principle)."
-
 updated: 2026-08-08
 sources:
+  - title: "Federal Constitution — Ninth Schedule (official reproduction)"
+    url: "https://sagc.sabah.gov.my/sites/default/files/law/NinthSchedule.pdf"
+    publisher: "State Attorney-General's Chambers, Sabah (reproducing the Federal Constitution)"
   - title: "Native Customary Rights (NCR) Basics"
     url: "https://landsurvey.sarawak.gov.my/web/subpage/webpage_view/614"
     publisher: "Land and Survey Department, Sarawak"

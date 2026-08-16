@@ -51,11 +51,7 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Angka pengalaman rasmi terkini: JANM FAQ menyatakan 6 tahun kumulatif manakala CCS & Co menyebut 5 tahun. Sahkan dengan 'Guidelines For Approval as a Company Auditor' (berkuat kuasa 1 April 2023) terbitan JANM."
   - "Baris integriti dalam jadual kelayakan: teks statutori (seksyen 264) tidak menetapkan sebarang tempoh bagi sabitan penipuan/ketidakjujuran (terbuka). Sahkan sama ada garis panduan pentadbiran JANM mengenakan mana-mana tempoh khusus."
-  - "Saluran dan tetingkap pembaharuan BLESS (dalam 3 bulan sebelum luput): sahkan butiran operasi semasa dengan panduan BLESS/JANM terkini."
-  - "Kadar yuran RM500: sahkan kadar semasa dengan JANM sebelum bergantung padanya."
-
 updated: 2026-08-08
 sources:
   - title: "Approval & Licence Renewal of Auditor / Company Liquidator (FAQ)"

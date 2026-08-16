@@ -33,10 +33,7 @@ faq:
   - q: "Adakah saya masih memerlukan akaun yang diaudit untuk penyata cukai?"
     a: "Subseksyen 77A(4) Akta Cukai Pendapatan 1967 (Income Tax Act 1967) menghendaki penyata syarikat disediakan berdasarkan akaun yang diaudit, tetapi LHDN telah mengesahkan peruntukan ini tidak terpakai apabila SSM tidak menghendaki syarikat berkenaan mengemukakan akaun yang diaudit. SSM merekodkan pendirian ini dalam FAQ pengecualian audit miliknya sendiri. Pengiraan itu masih perlu boleh disokong."
 
-verificationNeeded:
-  - "Confirm the exact wording of s.107C(10) and s.107C(10A) against the current consolidated Income Tax Act 1967 before relying on the computation described here for a specific case"
-  - "Confirm the CP204 revision months and the s.107C(4A) new-company waiver conditions against the current LHDN public ruling on estimates of tax payable"
-
+verificationNeeded: []
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"

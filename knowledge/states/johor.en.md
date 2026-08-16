@@ -29,9 +29,7 @@ faq:
   - q: "Why do manufacturers locate in Johor rather than Singapore?"
     a: "Cost. Land and labour are substantially cheaper than in Singapore while remaining within reach of Singapore's port, airport and customer base. That trade-off is the core of the Iskandar Malaysia investment case."
 
-verificationNeeded:
-  - "Confirm Johor's current population against the latest DOSM state population release before publication."
-
+verificationNeeded: []
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
@@ -52,6 +50,9 @@ sensitivity: "royalty"
 
 updated: 2026-07-20
 sources:
+  - title: "Current Population Estimates, 2024"
+    url: "https://www.dosm.gov.my/portal-main/release-content/current-population-estimates-2024"
+    publisher: "Department of Statistics Malaysia (DOSM)"
   - title: "OpenDOSM — official statistics data catalogue"
     url: "https://open.dosm.gov.my/data-catalogue"
     publisher: "Department of Statistics Malaysia"

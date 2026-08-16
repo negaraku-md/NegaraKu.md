@@ -38,10 +38,7 @@ faq:
 
 verificationNeeded:
   - "Sahkan teks dan status semasa pengumuman LHDN mengenai subseksyen 77A(4) terus dengan LHDN — laman pengumuman tersebut tidak dapat diakses semasa penulisan dan dipetik di sini melalui FAQ pengecualian audit SSM"
-  - "Sahkan seksyen Akta Cukai Pendapatan 1967 yang mengawal rekod yang mencukupi dan tempoh simpanan tujuh tahun (s.82 dan s.82A) berbanding Akta konsolidasi semasa"
-  - "Sahkan tarikh fasa mandatori MBRS 2.0 semasa dan titik masuk pada laman MBRS SSM"
-
-lang: "ms"
+  - "Sahkan tarikh fasa mandatori MBRS 2.0 semasa dan titik masuk pada laman MBRS SSM"lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "10c01141306ea188"
@@ -61,6 +58,9 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
+  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024"
+    url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
+    publisher: "LHDN (HASiL)"
   - title: "Practice Directive No. 10/2024 — Qualifying Criteria for Audit Exemption for Certain Private Companies in Malaysia"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/PD10-2024-Qualifying-Criteria-for-Audit-Exemption-for-Certain-Categories-of-Private-Companies.pdf"
     publisher: "SSM"

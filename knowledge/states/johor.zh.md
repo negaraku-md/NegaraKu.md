@@ -29,9 +29,7 @@ faq:
   - q: "制造商为什么选柔佛而不选新加坡？"
     a: "成本。土地与劳工比新加坡便宜得多，同时仍在新加坡的港口、机场与客户群的触及范围之内。这个取舍正是依斯干达特区投资论述的核心。"
 
-verificationNeeded:
-  - "Confirm Johor's current population against the latest DOSM state population release before publication."
-
+verificationNeeded: []
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
@@ -52,6 +50,9 @@ sensitivity: "royalty"
 
 updated: 2026-07-20
 sources:
+  - title: "Current Population Estimates, 2024"
+    url: "https://www.dosm.gov.my/portal-main/release-content/current-population-estimates-2024"
+    publisher: "Department of Statistics Malaysia (DOSM)"
   - title: "OpenDOSM — official statistics data catalogue"
     url: "https://open.dosm.gov.my/data-catalogue"
     publisher: "Department of Statistics Malaysia"

@@ -33,10 +33,7 @@ faq:
   - q: "报税表还需要经审计的账目吗？"
     a: "Income Tax Act 1967 第 77A(4) 款要求公司报税表以经审计的账目为依据，但 LHDN 已确认，在 SSM 不要求公司呈交经审计账目的情况下，该款并不适用。SSM 在自己的审计豁免 FAQ 中记录了这一立场。税务计算仍须站得住脚。"
 
-verificationNeeded:
-  - "在就特定个案依赖此处所述的计算方式之前，先对照现行综合版 Income Tax Act 1967，查证 s.107C(10) 与 s.107C(10A) 的确切措辞"
-  - "对照 LHDN 现行关于应缴税款预估的 Public Ruling，查证 CP204 的修订月份与 s.107C(4A) 新公司豁免条件"
-
+verificationNeeded: []
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"

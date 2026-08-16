@@ -53,14 +53,15 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "PDPA government exemption: the underlying legal fact (PDPA 2010 s.3 excludes Federal and State Governments) is widely stated but was not tied to a fetched primary source this pass; confirm against Act 709 s.3 before restoring any firmer wording. Text currently softened to the sourced Salim Bashir framing."
   - "Adoption figures '3 juta pengguna' and 'lebih 45 platform' menjelang Ogos 2025 — confirm exact numbers against the cited SoyaCincau (Aug 2025) report."
   - "Whether JPN is the designated pre-registration lead agency and the identity of collaborating government entities — the specific list was removed for lack of a source and should only be restored with a primary JPN/agency statement."
   - "MyBayar PDRM single sign-on enforcement date — no confirmed date found; confirm if/when officially announced."
   - "Exact parliamentary date of the government's July 2025 statement on possible mandatory registration (softened from '21 Julai 2025')."
-
 updated: 2026-08-01
 sources:
+  - title: "Personal Data Protection Act 2010 [Act 709]"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20709%2014%206%202016.pdf"
+    publisher: "Attorney General's Chambers Malaysia (Laws of Malaysia)"
   - title: "MyDigital ID — Sokongan (laman rasmi)"
     url: "https://www.digital-id.my/en/support"
     publisher: "My Digital ID Sdn. Bhd."

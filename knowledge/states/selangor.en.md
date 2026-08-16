@@ -29,9 +29,7 @@ faq:
   - q: "Why do companies pick Selangor over Kuala Lumpur?"
     a: "Land and industrial space cost less, the port and airport are inside the state, and free industrial zones and licensed manufacturing warehouses around Klang, Shah Alam and Bangi suit import and export operations. The trade-off is road congestion, which has to be built into logistics planning."
 
-verificationNeeded:
-  - "Confirm Selangor's population and its share of national GDP against the latest DOSM releases before publication."
-
+verificationNeeded: []
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
@@ -52,6 +50,9 @@ sensitivity: "royalty"
 
 updated: 2026-07-20
 sources:
+  - title: "OpenDOSM population_state; DOSM GDP by State 2024"
+    url: "https://open.dosm.gov.my/data-catalogue/population_state"
+    publisher: "Department of Statistics Malaysia (DOSM)"
   - title: "OpenDOSM — official statistics data catalogue"
     url: "https://open.dosm.gov.my/data-catalogue"
     publisher: "Department of Statistics Malaysia"

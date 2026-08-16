@@ -50,13 +50,14 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Jumlah tepat 160 daerah pentadbiran mengikut tarikh data OpenDOSM terkini."
   - "Sama ada Pegawai Daerah di setiap negeri turut memegang jawatan Pentadbir Tanah (amalan berbeza mengikut negeri)."
   - "Asas statutori dan skop tepat bidang kuasa penghulu di peringkat mukim di bawah KTN."
   - "Ketepatan istilah 'jajahan' (Kelantan) dan 'bahagian' (Sabah & Sarawak) sebagai lapisan setara/lebih tinggi daripada daerah."
-
 updated: 2026-08-08
 sources:
+  - title: "Key Findings Population and Housing Census of Malaysia 2020: Administrative District"
+    url: "https://www.dosm.gov.my/portal-main/release-content/key-findings-population-and-housing-census-of-malaysia-2020-administrative-district"
+    publisher: "Department of Statistics Malaysia (DOSM)"
   - title: "Jadual Penduduk: Daerah Pentadbiran"
     url: "https://open.dosm.gov.my/ms-MY/data-catalogue/population_district"
     publisher: "Jabatan Perangkaan Malaysia (OpenDOSM)"

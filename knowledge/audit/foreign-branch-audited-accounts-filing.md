@@ -40,10 +40,8 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Confirm the Part V, Division 1 (Foreign Companies) placement of ss.574–576 against the client's current in-force reprint of Act 777, in case of later amendment."
   - "Confirm the s.575(7) waiver grounds and any current SSM practice/guidance on how waivers are applied for and granted."
-  - "Confirm client-specific dates: the branch's financial year-end and AGM date that fix the two-month lodgement deadline under s.575(1)."
-revisions:
+  - "Confirm client-specific dates: the branch's financial year-end and AGM date that fix the two-month lodgement deadline under s.575(1)."revisions:
   - version: "01.00"
     date: 2026-08-08
     change: "Approved and published."
@@ -51,6 +49,9 @@ revisions:
 
 updated: 2026-08-08
 sources:
+  - title: "Companies Act 2016 (Act 777), online updated text of reprint as at 1 August 2022"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1738979_BI/Act%20777-%20Final%20Draft%20(1.8.2022).pdf"
+    publisher: "Attorney General's Chambers of Malaysia (AGC), Federal Legislation Portal"
   - title: "Companies Act 2016 (Act 777), Part V Division 1 — Foreign Companies (incl. ss.263, 266, 574, 575 and 576)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
     publisher: "Companies Commission of Malaysia (SSM)"
