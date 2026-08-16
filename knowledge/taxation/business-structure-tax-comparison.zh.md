@@ -38,9 +38,7 @@ faq:
     a: "会，自 YA2024 起。Schedule 1 Part I paragraph 2B(d) 规定，凡普通股实缴资本有超过 20% 由一家或多家在马来西亚境外注册的公司、或由一名或多名非公民个人直接或间接持有者，即失去优惠税率。Public Ruling No. 8/2025 的 Example 15 把它套用在一家由两名马来西亚人所拥有的新加坡公司全资持有的马来西亚公司上，该公司仍然过不了这一关。"
 
 verificationNeeded:
-  - "确认 YA2026 已公布的个人累进税率；LHDN 的税率页面仍把表格标示为 Year of Assessment 2023、2024 与 2025，而 Budget 2026 演词并未宣布级距有任何改动"
   - "确认在服务合约之外付予非执行董事的董事袍金，就 EPF 而言是否属工资；EPF 确认支薪董事须缴纳，但未直接处理袍金"
-  - "在为实得收入建模之前，向 LHDN 确认现行的 EPF 与人寿保险个人减免上限"
 
 lang: "zh"
 masterLanguage: "en"
@@ -66,6 +64,12 @@ sources:
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
     publisher: "LHDN"
     date: "2024-05-21"
+  - title: "Tax Rate — Resident Individual (table captioned Year of Assessment 2023, 2024 & 2025; unchanged for YA2026 per Budget 2026)"
+    url: "https://www.hasil.gov.my/en/individu/kadar-cukai/"
+    publisher: "LHDN"
+  - title: "Explanatory Notes, Form BE (YA2025) — item G17, Life insurance and EPF relief: life/takaful RM3,000 and EPF/approved scheme RM4,000 under paragraph 49(1)(a)"
+    url: "https://ef.hasil.gov.my/eBE2026/Pdf/Nota_BE_e.pdf"
+    publisher: "LHDN"
   - title: "Public Ruling No. 8/2025 — Tax Treatment for Micro, Small and Medium Companies"
     url: "https://www.hasil.gov.my/wp-content/uploads/pr-8-2025-tax-treatment-for-micro-small-and-medium-companies.pdf"
     publisher: "LHDN"

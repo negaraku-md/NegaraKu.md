@@ -38,9 +38,7 @@ faq:
     a: "Ya, bermula YA2024. Perenggan 2B(d) Bahagian I Jadual 1 menghapuskan kadar keistimewaan apabila lebih 20% modal saham biasa berbayar dimiliki secara langsung atau tidak langsung oleh satu atau lebih syarikat yang diperbadankan di luar Malaysia atau oleh satu atau lebih individu bukan warganegara. Public Ruling No. 8/2025 Contoh 15 mengaplikasikannya kepada sebuah syarikat Malaysia yang dipegang sepenuhnya oleh syarikat Singapura milik dua rakyat Malaysia, dan syarikat itu tetap gagal."
 
 verificationNeeded:
-  - "Confirm the individual scale rates published for YA2026; the LHDN rate page still captions its table Year of Assessment 2023, 2024 and 2025, and the Budget 2026 speech announced no change to the bands"
   - "Confirm whether directors fees paid to a non-executive director outside a contract of service are wages for EPF purposes; EPF confirms salaried directors contribute but does not address fees directly"
-  - "Confirm the current EPF and life insurance personal relief caps against LHDN before modelling take-home pay"
 
 lang: "ms"
 masterLanguage: "en"
@@ -65,6 +63,12 @@ sources:
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
     publisher: "LHDN"
     date: "2024-05-21"
+  - title: "Tax Rate — Resident Individual (table captioned Year of Assessment 2023, 2024 & 2025; unchanged for YA2026 per Budget 2026)"
+    url: "https://www.hasil.gov.my/en/individu/kadar-cukai/"
+    publisher: "LHDN"
+  - title: "Explanatory Notes, Form BE (YA2025) — item G17, Life insurance and EPF relief: life/takaful RM3,000 and EPF/approved scheme RM4,000 under paragraph 49(1)(a)"
+    url: "https://ef.hasil.gov.my/eBE2026/Pdf/Nota_BE_e.pdf"
+    publisher: "LHDN"
   - title: "Public Ruling No. 8/2025 — Tax Treatment for Micro, Small and Medium Companies"
     url: "https://www.hasil.gov.my/wp-content/uploads/pr-8-2025-tax-treatment-for-micro-small-and-medium-companies.pdf"
     publisher: "LHDN"
