@@ -39,12 +39,7 @@ reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
-verificationNeeded:
-  - "Sahkan fi semasa (RM50 carian/simpanan nama, RM100 pertukaran nama) masih terpakai di portal CRS — fi boleh dipinda dari semasa ke semasa."
-  - "Sahkan piagam pelanggan SSM (satu hari bekerja selepas penyerahan lengkap dengan bayaran penuh) masih terpakai."
-  - "Sahkan angka penalti Seksyen 591 (penjara sehingga 10 tahun dan/atau denda sehingga RM3 juta) terhadap teks Akta Syarikat 2016 yang berkuat kuasa."
-  - "Sahkan rujukan Peraturan 8(4) Peraturan-Peraturan Syarikat 2017 (fi tidak boleh dikembalikan) — kini disandarkan pada Garis Panduan SSM perkara 5.2; boleh ditambah sebagai entri sumber berasingan jika perlu."
-revisions:
+verificationNeeded: []revisions:
   - version: "01.00"
     date: 2026-08-07
     change: "Approved and published."
@@ -52,6 +47,9 @@ revisions:
 
 updated: 2026-08-07
 sources:
+  - title: "Companies Act 2016 (Act 777), SSM reprint as at 1 August 2022"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
+    publisher: "SSM"
   - title: "Akta Syarikat 2016 (Akta 777) — Seksyen 28 & 30"
     url: "https://www.ssm.com.my/acts/aktaBM_20160915_AktaSyarikat2016Akta777.pdf"
     publisher: "Suruhanjaya Syarikat Malaysia (SSM)"

@@ -49,12 +49,13 @@ revisions:
 
 verificationNeeded:
   - "Tempoh bantahan/penarikan balik 60 hari: Garis Panduan SSM (Semakan 14 Julai 2026) perenggan 11 dan 13 menyatakan 'enam puluh hari', tetapi Akta Syarikat 2016 subseksyen 552(1) (cetakan semula 1.8.2022) dan beberapa sumber sekunder masih menyebut 30 hari. Sahkan sama ada seksyen 551/552 telah dipinda (contohnya melalui Akta Syarikat (Pindaan) 2024) supaya 60 hari yang terpakai."
-  - "Rujukan seksyen 554(1)(a) bagi tanggungan berterusan pengarah/pegawai/ahli dikuatkan oleh sumber sekunder (MahWengKwai) tetapi tidak dinyatakan dalam Garis Panduan SSM — sahkan terhadap teks Akta."
   - "Sahkan nombor/format borang CRS dan Jadual Fi terkini di portal SSM sebelum memfailkan permohonan sebenar."
   - "Sumber sekunder (Allen & Gledhill dan MahWengKwai) memerihalkan versi 2019 (10 syarat, 30 hari) yang telah digantikan; dikekalkan sebagai latar belakang sahaja."
-
 updated: 2026-08-07
 sources:
+  - title: "Companies Act 2016 (Act 777), SSM reprint as at 1 August 2022"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
+    publisher: "SSM"
   - title: "Guidelines on Application by Directors or Members to Strike Off the Name of a Company under Section 550 of the Companies Act 2016 (9 June 2017, Revised 14 July 2026)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Guidelines%20Section%20549(a)_140726.pdf"
     publisher: "Suruhanjaya Syarikat Malaysia (SSM)"

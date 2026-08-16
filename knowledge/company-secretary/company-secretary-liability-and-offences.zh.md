@@ -40,12 +40,8 @@ version: "01.00"
 verificationNeeded:
   - "Seksyen tuduhan tepat bagi PP lwn Khaeromze bin Ahmad (dinyatakan seksyen 364(2) Akta Syarikat 1965) — sahkan terhadap siaran media rasmi SSM."
   - "Kes PP lwn Ho Woon Choon (setiausaha Dataco Communications; Mahkamah Rayuan Putrajaya, 16 Jun 2011; Borang 24; seksyen 364(2) Akta Syarikat 1965) — sahkan nombor kes / laporan mahkamah rasmi."
-  - "Angka penalti seksyen 68 (denda tidak melebihi RM50,000 + RM1,000/hari) — sahkan terhadap teks Akta 777."
-  - "Syarat pemastautin setiausaha di bawah seksyen 235(1) — sahkan susunan subseksyen terhadap teks Akta 777."
-  - "Tarikh kuat kuasa Akta Syarikat 2016 (31 Januari 2017) — sahkan."
   - "URL kanonik SSM bagi deck 'Common Offences Under Companies Act 2016' (kini dipetik daripada rehost pihak ketiga cwca.com.my); gantikan dengan salinan di domain ssm.com.my jika ada."
-  - "Kes PP lwn Sandhiransegaran (Venus Polymer Sdn Bhd, penjara 5 tahun) muncul dalam slaid latihan SSM tanpa nombor kes/laporan mahkamah — jangan petik semula tanpa pengesahan bebas."
-revisions:
+  - "Kes PP lwn Sandhiransegaran (Venus Polymer Sdn Bhd, penjara 5 tahun) muncul dalam slaid latihan SSM tanpa nombor kes/laporan mahkamah — jangan petik semula tanpa pengesahan bebas."revisions:
   - version: "01.00"
     date: 2026-08-07
     change: "Approved and published."

@@ -52,12 +52,12 @@ revisions:
 
 verificationNeeded:
   - "Autoriti common law bagi had pengukuhan (syarikat tidak boleh melucutkan sepenuhnya kuasa berkanunnya untuk meminda perlembagaan) — pengesahan manusia diperlukan untuk kes rujukan yang tepat (contohnya Allen v Gold Reefs of West Africa Ltd [1900] 1 Ch 656; Russell v Northern Bank Development Corp Ltd) sebelum penerbitan."
-  - "Sahkan bahawa seksyen 292 memang merangkumi kedua-dua ambang majoriti 75% DAN notis 21 hari untuk resolusi khas terhadap teks rasmi Act 777."
   - "Sahkan petikan penuh dan ringkasan fakta kes Chew Meu Jong v Lysaght (Malaysia) Sdn Bhd [2018] 1 LNS 1132 terhadap laporan penghakiman rasmi."
-  - "Semua angka denda (RM50,000 / RM10,000 / RM500 sehari) dan tempoh 30 hari perlu disemak silang dengan cetakan semula rasmi AGC/SSM bagi Act 777; sumber statut kini dihoskan oleh MOF (bukan hos rasmi biasa AGC/SSM)."
-
 updated: 2026-08-07
 sources:
+  - title: "Companies Act 2016 (Act 777), SSM reprint as at 1 August 2022"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
+    publisher: "SSM"
   - title: "Companies Act 2016 (Act 777) — full text"
     url: "https://www.mof.gov.my/portal/pdf/bahagian/gic/Companies_Act_2016_Act_777.pdf"
     publisher: "Kementerian Kewangan Malaysia (hosting Laws of Malaysia, Act 777)"
