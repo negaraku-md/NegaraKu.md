@@ -31,7 +31,8 @@ faq:
   - q: "Are cash incentives to sales agents entertainment?"
     a: "No. In NV Alliance Sdn Bhd v Ketua Pengarah Hasil Dalam Negeri the Court of Appeal held that cash incentives paid to sales agents are not hospitality within section 18, applying the noscitur a sociis and ejusdem generis rules so that hospitality of any kind takes its meaning from food, drink and recreation. The payments therefore fell outside paragraph 39(1)(l) altogether and were fully deductible."
 
-verificationNeeded: []lang: "en"
+verificationNeeded: []
+lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 

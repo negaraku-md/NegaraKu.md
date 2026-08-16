@@ -45,7 +45,8 @@ verificationNeeded:
   - "2024 statistics reported in press (total production ~1.91 million tonnes, sector value ~RM16.9 billion, 7.1% growth) — confirm against the DOF Annual Statistics / Annual Report primary PDF before stating."
   - "Current licence and registration fees — not published in the licensing FAQ."
   - "Exact nautical-mile boundaries defining Zones A/B/C — the FAQ gives only partial ranges."
-  - "Number and locations of DOF state and district offices — confirm from the DOF state-office-location page."updated: 2026-08-14
+  - "Number and locations of DOF state and district offices — confirm from the DOF state-office-location page."
+updated: 2026-08-14
 sources:
   - title: "Laws of Malaysia — Fisheries Act 1985 (Act 317), updated reprint"
     url: "https://faolex.fao.org/docs/pdf/mal1869.pdf"

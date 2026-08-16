@@ -42,7 +42,8 @@ reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
   - "Asma tidak dinamakan secara khusus dalam kedua-dua PDF JAS yang dirujuk (sumber menyebut warga tua, wanita hamil, kanak-kanak dan komplikasi jantung/paru-paru). Rujukan asma di sini ialah inferens editorial sebagai keadaan paru-paru — sahkan dengan sumber nasihat kesihatan rasmi JAS."
-  - "Band Kecemasan (>500) tidak diberi warna berasingan pada tolok rasmi JAS (warna hanya ditakrifkan sehingga Merbahaya). Sahkan sama ada satu warna rasmi wujud untuk band ini sebelum menetapkannya."revisions:
+  - "Band Kecemasan (>500) tidak diberi warna berasingan pada tolok rasmi JAS (warna hanya ditakrifkan sehingga Merbahaya). Sahkan sama ada satu warna rasmi wujud untuk band ini sebelum menetapkannya."
+revisions:
   - version: "01.00"
     date: 2026-07-28
     change: "Approved and published."

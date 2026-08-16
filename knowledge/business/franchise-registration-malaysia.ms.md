@@ -47,7 +47,8 @@ version: "01.00"
 verificationNeeded:
   - "Current prescribed official fees for franchisor, franchisee and renewal applications under MyFEX 2.0 — the article no longer states amounts because no authoritative current figure could be confirmed (only a superseded RM1,000 fee under the Franchise (Forms and Fees) Regulations 1999). Confirm on the MyFEX 2.0 portal."
   - "Exact MyFEX 2.0 launch date: most sources (Nixon Peabody, ICLG) give 28 July 2022, but ZICO Law gives 29 July 2022."
-  - "Current exact English name and acronym of the administering ministry — sources use both 'Ministry of Entrepreneur Development and Cooperatives (KUSKOP)' and 'Ministry of Entrepreneur and Cooperatives Development (MECD)'; the portal domain is kuskop.gov.my."revisions:
+  - "Current exact English name and acronym of the administering ministry — sources use both 'Ministry of Entrepreneur Development and Cooperatives (KUSKOP)' and 'Ministry of Entrepreneur and Cooperatives Development (MECD)'; the portal domain is kuskop.gov.my."
+revisions:
   - version: "01.00"
     date: 2026-08-07
     change: "Approved and published."

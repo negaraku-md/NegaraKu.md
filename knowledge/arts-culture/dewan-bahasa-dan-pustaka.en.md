@@ -44,7 +44,8 @@ reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
   - "Jumlah kumulatif penerima Anugerah Sastera Negara (dinyatakan 16 setakat 2026); sahkan tiada penerima ke-17 diumumkan selepas tarikh kemas kini."
-  - "Butiran hadiah Anugerah Sastera Negara (RM60,000 tunai, elaun bulanan RM5,000) — sahkan jumlah terkini kerana nilai boleh dikemas kini dari semasa ke semasa."revisions:
+  - "Butiran hadiah Anugerah Sastera Negara (RM60,000 tunai, elaun bulanan RM5,000) — sahkan jumlah terkini kerana nilai boleh dikemas kini dari semasa ke semasa."
+revisions:
   - version: "01.00"
     date: 2026-08-01
     change: "Approved and published."

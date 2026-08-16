@@ -49,7 +49,8 @@ updated: 2026-08-01
 verificationNeeded:
   - "Bilangan 29 lokasi melihat anak bulan — sahkan angka semasa dengan sumber rasmi terkini."
   - "Dakwaan kuasa memberhentikan Yang di-Pertuan Agong di bawah Perkara 38(6) 'tidak pernah digunakan' — sahkan terhadap sumber perlembagaan semasa."
-  - "Pengerusian bergilir dalam kalangan sembilan Raja Melayu dan kekerapan tiga mesyuarat setahun — sahkan terhadap tatacara rasmi semasa Majlis."sources:
+  - "Pengerusian bergilir dalam kalangan sembilan Raja Melayu dan kekerapan tiga mesyuarat setahun — sahkan terhadap tatacara rasmi semasa Majlis."
+sources:
   - title: "Maklumat Majlis Raja-Raja"
     url: "https://www.majlisraja-raja.gov.my/ms/maklumat-majlis-raja-raja-latest"
     publisher: "Majlis Raja-Raja / Pejabat Penyimpan Mohor Besar Raja-Raja"

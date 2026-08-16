@@ -46,7 +46,8 @@ verificationNeeded:
   - "How many months in advance road tax can be renewed (commonly stated as 2 months; not confirmed on the malaysia.gov.my page)."
   - "Full list and codes of Malaysian driving licence classes (L, LDL, PDL, CDL, D, B, B2, DA, etc.) — needs a primary-source licensing page."
   - "Mechanics and thresholds of the KEJARA demerit-points system (points per offence, suspension thresholds) — needs primary source."
-  - "Whether the AES (Automated Enforcement System) is currently operated by JPJ or another body."updated: 2026-08-14
+  - "Whether the AES (Automated Enforcement System) is currently operated by JPJ or another body."
+updated: 2026-08-14
 sources:
   - title: "Headquarter — Portal Rasmi JPJ"
     url: "https://www.jpj.gov.my/en/headquarter/"

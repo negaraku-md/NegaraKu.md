@@ -51,7 +51,8 @@ revisions:
 updated: 2026-08-01
 verificationNeeded:
   - "Status semasa model rangkaian borong tunggal 5G DNB — dasar 5G mungkin telah berubah kepada model dua rangkaian; sahkan struktur pemilikan DNB (MKD) dan rangka rangkaian 5G terkini."
-  - "Kata-kata tepat aspirasi nasional JENDELA (gigabit jalur lebar tetap, 100 Mbps mudah alih, liputan 4G 100%) — dipetik daripada portal JENDELA sebagai matlamat jangka panjang, bukan sasaran Fasa 1."sources:
+  - "Kata-kata tepat aspirasi nasional JENDELA (gigabit jalur lebar tetap, 100 Mbps mudah alih, liputan 4G 100%) — dipetik daripada portal JENDELA sebagai matlamat jangka panjang, bukan sasaran Fasa 1."
+sources:
   - title: "Malaysian Communications And Multimedia Commission Act 1998 [Act 589]"
     url: "https://www.mcmc.gov.my/en/legal/acts/malaysian-communications-and-multimedia-commission"
     publisher: "MCMC / SKMM"

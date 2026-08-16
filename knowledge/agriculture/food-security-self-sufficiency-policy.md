@@ -41,7 +41,8 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Pengesahan bahawa sasaran interim SSR beras 75% (menjelang 2025) berpunca khusus daripada Rancangan Malaysia Ke-12 (bukan sekadar sasaran umum kerajaan) — perlu disemak terhadap dokumen rasmi RMK-12; angka 75%/80% sendiri disahkan oleh The Edge Malaysia."revisions:
+  - "Pengesahan bahawa sasaran interim SSR beras 75% (menjelang 2025) berpunca khusus daripada Rancangan Malaysia Ke-12 (bukan sekadar sasaran umum kerajaan) — perlu disemak terhadap dokumen rasmi RMK-12; angka 75%/80% sendiri disahkan oleh The Edge Malaysia."
+revisions:
   - version: "01.00"
     date: 2026-08-01
     change: "Approved and published."

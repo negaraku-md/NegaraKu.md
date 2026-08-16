@@ -43,7 +43,8 @@ version: "01.00"
 verificationNeeded:
   - "Pautan muat turun Akta 645 di portal MOTAC perlu disemak sama ada ia menghala ke teks Akta sebenar (fail PDF) atau hanya halaman rangka kosong."
   - "Angka 213 makanan warisan ialah kedudukan setakat 2018; pengisytiharan berperingkat diteruskan (cth. kelompok 2024), jadi jumlah kumulatif terkini mungkin lebih tinggi — sahkan angka semasa dengan Jabatan Warisan Negara."
-  - "Ejaan/nama tepat sebahagian daripada 10 hidangan yang diwartakan (cth. 'Mi kolok' berbanding 'kolok mee') perlu disemak dengan teks Warta Kerajaan."revisions:
+  - "Ejaan/nama tepat sebahagian daripada 10 hidangan yang diwartakan (cth. 'Mi kolok' berbanding 'kolok mee') perlu disemak dengan teks Warta Kerajaan."
+revisions:
   - version: "01.00"
     date: 2026-08-01
     change: "Approved and published."

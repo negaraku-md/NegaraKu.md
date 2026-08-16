@@ -45,7 +45,8 @@ reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
   - "Klasifikasi sensitivity: topik ini menyentuh autonomi imigresen Sabah/Sarawak dalam rangka MA63 (kata kunci 'MA63 imigresen'). Isi kandungan neutral dan bukan advokasi, tetapi manusia perlu mengesahkan sama ada label 'none' memadai atau perlu dinaikkan."
-  - "Latar sejarah dalam bahagian 'Kenapa Sabah dan Sarawak ada kawalan imigresen sendiri?' (penyertaan persekutuan 1963 dan pengekalan kuasa kawalan kemasukan) ialah maklumat latar am yang tidak terikat kepada mana-mana empat sumber prosedur imigresen yang disenaraikan. Sahkan dan lampirkan sumber perlembagaan/perundangan (cth. Akta Imigresen 1959/63 Bahagian VII, atau Perlembagaan Persekutuan/MA63) sebelum diterbitkan."revisions:
+  - "Latar sejarah dalam bahagian 'Kenapa Sabah dan Sarawak ada kawalan imigresen sendiri?' (penyertaan persekutuan 1963 dan pengekalan kuasa kawalan kemasukan) ialah maklumat latar am yang tidak terikat kepada mana-mana empat sumber prosedur imigresen yang disenaraikan. Sahkan dan lampirkan sumber perlembagaan/perundangan (cth. Akta Imigresen 1959/63 Bahagian VII, atau Perlembagaan Persekutuan/MA63) sebelum diterbitkan."
+revisions:
   - version: "01.00"
     date: 2026-08-07
     change: "Approved and published."

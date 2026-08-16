@@ -38,7 +38,8 @@ faq:
 
 verificationNeeded:
   - "Sahkan teks dan status semasa pengumuman LHDN mengenai subseksyen 77A(4) terus dengan LHDN — laman pengumuman tersebut tidak dapat diakses semasa penulisan dan dipetik di sini melalui FAQ pengecualian audit SSM"
-  - "Sahkan tarikh fasa mandatori MBRS 2.0 semasa dan titik masuk pada laman MBRS SSM"lang: "ms"
+  - "Sahkan tarikh fasa mandatori MBRS 2.0 semasa dan titik masuk pada laman MBRS SSM"
+lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "10c01141306ea188"

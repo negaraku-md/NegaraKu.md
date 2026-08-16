@@ -41,7 +41,8 @@ reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
   - "Bilangan tepat Kawasan Pembangunan Pertanian Bersepadu (IADA). Angka '12' dibuang; direktori rasmi KPKM (department-and-agency-links) kini nampaknya menyenaraikan kira-kira 13 IADA berdasarkan bacaan automatik — sahkan kiraan semasa secara manual pada direktori rasmi."
-  - "Susunan semasa FELDA — sama ada masih di luar KKDW atau telah dipindahkan — kerana terdapat cadangan awam untuk meletakkannya di bawah KKDW."revisions:
+  - "Susunan semasa FELDA — sama ada masih di luar KKDW atau telah dipindahkan — kerana terdapat cadangan awam untuk meletakkannya di bawah KKDW."
+revisions:
   - version: "01.00"
     date: 2026-08-01
     change: "Approved and published."

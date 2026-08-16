@@ -40,7 +40,8 @@ reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
   - "The exact venue and city of the Malaysia Tourism Centre (MaTiC): the cited MOTAC page lists a Putrajaya address (Presint 5, 62200 Putrajaya), which may be the ministry HQ footer rather than the visitor centre's operating location. Confirm before stating a city."
-  - "The current administering authority for Malaysia My Second Home (MM2H): it is listed as a MOTAC programme, but its visa/residency administration reportedly now also involves the Ministry of Home Affairs / Immigration Department."revisions:
+  - "The current administering authority for Malaysia My Second Home (MM2H): it is listed as a MOTAC programme, but its visa/residency administration reportedly now also involves the Ministry of Home Affairs / Immigration Department."
+revisions:
   - version: "01.00"
     date: 2026-07-28
     change: "Approved and published."

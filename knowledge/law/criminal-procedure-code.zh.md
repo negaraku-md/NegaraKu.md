@@ -42,7 +42,8 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Kemas kini Akta 593 (setakat 18.10.2021 dalam pautan) perlu disemak sama ada masih cetakan terkini pada tarikh penerbitan."revisions:
+  - "Kemas kini Akta 593 (setakat 18.10.2021 dalam pautan) perlu disemak sama ada masih cetakan terkini pada tarikh penerbitan."
+revisions:
   - version: "01.00"
     date: 2026-08-07
     change: "Approved and published."

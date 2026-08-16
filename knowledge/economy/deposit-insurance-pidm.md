@@ -42,7 +42,8 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Governing statute year/citation: PIDM pages name the Act without a year; the current statute is the Malaysia Deposit Insurance Corporation Act 2011 (Act 720). Confirm before adding the year in-body."revisions:
+  - "Governing statute year/citation: PIDM pages name the Act without a year; the current statute is the Malaysia Deposit Insurance Corporation Act 2011 (Act 720). Confirm before adding the year in-body."
+revisions:
   - version: "01.00"
     date: 2026-08-08
     change: "Approved and published."

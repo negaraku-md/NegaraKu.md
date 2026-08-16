@@ -45,7 +45,8 @@ reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
   - "The Sdn Bhd comparison-row requirement of at least one Malaysia-resident director plus a company secretary is stated as general Companies Act 2016 context (ss. 196 and 235) and is not covered by the four foreign-company-focused sources cited; confirm before relying on it."
-  - "Whether a specific planned activity actually amounts to 'carrying on business' under section 561(3) for the entity in question."revisions:
+  - "Whether a specific planned activity actually amounts to 'carrying on business' under section 561(3) for the entity in question."
+revisions:
   - version: "01.00"
     date: 2026-08-07
     change: "Approved and published."

@@ -28,7 +28,8 @@ faq:
   - q: "Siapa yang mengawal selia matawang kripto di Malaysia?"
     a: "Dalam kenyataan bersama yang dikeluarkan dengan Suruhanjaya Sekuriti pada 6 Disember 2018, SC menyatakan ia akan mengawal selia tawaran syiling permulaan dan perdagangan aset digital di pertukaran aset digital, manakala BNM menegaskan semula bahawa aset digital bukan matawang sah di Malaysia. Penerbit dan pertukaran yang berurusan dengan aset digital yang mempunyai fungsi pembayaran masih perlu mematuhi undang-undang BNM mengenai pembayaran dan matawang."
 
-verificationNeeded: []lang: "ms"
+verificationNeeded: []
+lang: "ms"
 sourceContentHash: "83e47670250a0ac8"
 masterLanguage: "en"
 translationStatus: "in-sync"

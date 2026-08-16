@@ -48,7 +48,8 @@ version: "01.00"
 verificationNeeded:
   - "Gunung Mulu summit height: the park's own site conflicts — mulupark.com/mulu-world-heritage-area/ states 2,376 m, the mulupark.com homepage states 2,377 m. Draft uses ~2,376 m; confirm the authoritative figure."
   - "MDAC exemption categories: the specific claim that Singapore citizens and Malaysian permanent residents are exempt could not be substantiated (IMI pages returned only navigation chrome). Confirm the current exemption list with the Immigration Department of Malaysia."
-  - "Semenggoh feeding windows (~08:00–10:00, ~14:00–16:00) and the ~24 km distance from Kuching are cited to semenggoh.my but were not independently re-verified in this pass."revisions:
+  - "Semenggoh feeding windows (~08:00–10:00, ~14:00–16:00) and the ~24 km distance from Kuching are cited to semenggoh.my but were not independently re-verified in this pass."
+revisions:
   - version: "01.00"
     date: 2026-07-28
     change: "Approved and published."

@@ -41,7 +41,8 @@ version: "01.00"
 verificationNeeded:
   - "Etimologi tepat 'C' masih diperdebatkan (teori jenama Carnation vs. sebutan dialek Hainan bagi 'xian' 鲜); sahkan dengan sumber utama sebelum menetapkan satu penjelasan sebagai muktamad."
   - "Butiran pertandingan teh tarik (peraturan rasmi, teknik menuang khusus seperti membelakangkan cangkir) belum disahkan dengan dokumen penganjur; kekalkan penerangan umum sahaja buat masa ini."
-  - "Waktu operasi '24 jam' mamak adalah lazim tetapi berbeza mengikut lokasi dan cawangan; sahkan jika angka spesifik diperlukan."revisions:
+  - "Waktu operasi '24 jam' mamak adalah lazim tetapi berbeza mengikut lokasi dan cawangan; sahkan jika angka spesifik diperlukan."
+revisions:
   - version: "01.00"
     date: 2026-08-01
     change: "Approved and published."

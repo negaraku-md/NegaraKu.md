@@ -46,7 +46,8 @@ version: "01.00"
 verificationNeeded:
   - "Kadar pertumbuhan 2023 disemak semula: keluaran Ekonomi Digital 2025 (rujukan 2024) melaporkan pertumbuhan 2023 sebagai 3.5%, sedangkan keluaran Ekonomi Digital 2024 (rujukan 2023) melaporkannya sebagai 3.9%. Draf ini menggunakan 3.5% untuk konsisten dengan keluaran yang sama sebagai angka 5.1% (2024). Sahkan angka mana yang hendak dipaparkan."
   - "Baris sumbangan 2022 (22.9% / RM411.6 bilion) telah DIBUANG kerana ia tidak dibawa sebagai pembanding dalam mana-mana keluaran DOSM yang dipetik, dan keluaran rujukan-tahun-2022 (Ekonomi Digital 2023) tidak dapat dicapai untuk pengesahan (ralat pangkalan data laman DOSM). Jika garis tren tiga tahun dikehendaki, petik keluaran Ekonomi Digital 2023 secara langsung sebaik sahaja ia boleh dicapai."
-  - "Dakwaan kualitatif tentang jalur lebar mudah alih vs tetap dan kaitannya dengan pendapatan negeri telah DIBUANG kerana tiada sumber MCMC dalam sources[]. Jika hendak dikembalikan, tambah petikan MCMC (mis. laporan penembusan jalur lebar SKMM) yang telah dicapai."revisions:
+  - "Dakwaan kualitatif tentang jalur lebar mudah alih vs tetap dan kaitannya dengan pendapatan negeri telah DIBUANG kerana tiada sumber MCMC dalam sources[]. Jika hendak dikembalikan, tambah petikan MCMC (mis. laporan penembusan jalur lebar SKMM) yang telah dicapai."
+revisions:
   - version: "01.00"
     date: 2026-08-01
     change: "Approved and published."

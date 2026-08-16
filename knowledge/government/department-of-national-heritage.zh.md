@@ -45,7 +45,8 @@ verificationNeeded:
   - "Exact current total of items on the National Heritage Register across all categories (buildings, sites, objects, intangible, natural, underwater, living persons) as of 2026 — sources give scattered, dated figures."
   - "Name of the current Commissioner of Heritage / Director-General of JWN (Ketua Pengarah) as of 2026."
   - "Exact number and official names of JWN's current divisions (bahagian) — homepage references Heritage Register, Conservation, Intangible Cultural Heritage, Archaeology and World Heritage, but a definitive current list was not confirmed."
-  - "The 'Warisan Orang Hidup' (WAKOH) living-person declarations count and the precise scope of the National Heritage (Declaration of Living Person) Order 2012 (No. 369)."updated: 2026-08-14
+  - "The 'Warisan Orang Hidup' (WAKOH) living-person declarations count and the precise scope of the National Heritage (Declaration of Living Person) Order 2012 (No. 369)."
+updated: 2026-08-14
 sources:
   - title: "Jabatan Warisan Negara — Our Location / contact (main line 03-7800 0069)"
     url: "https://www.heritage.gov.my/en/contact-us/our-location.html"

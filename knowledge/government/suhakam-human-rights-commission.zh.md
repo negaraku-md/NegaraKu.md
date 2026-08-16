@@ -45,7 +45,8 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Tarikh sebenar keputusan Sesi ke-47 Sub-Jawatankuasa Akreditasi (SCA) GANHRI yang mengesahkan semula taraf 'A' SUHAKAM — 9 Jun 2026 ialah tarikh Kenyataan Media No. 32-2026 (pengumuman SUHAKAM), bukan tarikh keputusan SCA yang disahkan; sahkan tarikh sesi terhadap laporan rasmi SCA/GANHRI."revisions:
+  - "Tarikh sebenar keputusan Sesi ke-47 Sub-Jawatankuasa Akreditasi (SCA) GANHRI yang mengesahkan semula taraf 'A' SUHAKAM — 9 Jun 2026 ialah tarikh Kenyataan Media No. 32-2026 (pengumuman SUHAKAM), bukan tarikh keputusan SCA yang disahkan; sahkan tarikh sesi terhadap laporan rasmi SCA/GANHRI."
+revisions:
   - version: "01.00"
     date: 2026-08-01
     change: "Approved and published."

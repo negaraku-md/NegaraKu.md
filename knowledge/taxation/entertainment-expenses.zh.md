@@ -31,7 +31,8 @@ faq:
   - q: "付给销售代理的现金奖励算是招待吗？"
     a: "不算。在 NV Alliance Sdn Bhd v Ketua Pengarah Hasil Dalam Negeri 一案中，上诉庭裁定付给销售代理的现金奖励不属于 section 18 下的款待，法院援引 noscitur a sociis 与 ejusdem generis 规则，认定「任何形式的款待」须从食物、饮料与娱乐取得其含义。因此这些款项完全落在 paragraph 39(1)(l) 之外，可全额扣除。"
 
-verificationNeeded: []lang: "zh"
+verificationNeeded: []
+lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "9f630c729df1ac01"

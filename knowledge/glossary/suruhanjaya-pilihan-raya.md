@@ -48,7 +48,8 @@ revisions:
 updated: 2026-08-01
 verificationNeeded:
   - "Ketidakpadanan provenans fail: URL sumber #3 menggunakan slug 'bab-4-badan-perundangan-persekutuan.pdf' (bermaksud 'Bab 4 — Badan Perundangan Persekutuan') tetapi kandungannya sebenarnya ialah Jadual Ketiga Belas. Tajuk frontmatter melabelkannya dengan betul; manusia patut mengesahkan pautan menuju dokumen yang dimaksudkan sebelum penerbitan."
-  - "Semua nombor Perkara, seksyen dan tarikh pindaan patut disahkan sekali lagi terhadap teks Perlembagaan Persekutuan yang paling terkini kerana peruntukan berkaitan pilihan raya kerap dipinda."sources:
+  - "Semua nombor Perkara, seksyen dan tarikh pindaan patut disahkan sekali lagi terhadap teks Perlembagaan Persekutuan yang paling terkini kerana peruntukan berkaitan pilihan raya kerap dipinda."
+sources:
   - title: "Perlembagaan Persekutuan (Cetakan Semula setakat 15 Oktober 2020) — teks penuh, termasuk Perkara 46, 113, 114 dan Jadual Ketiga Belas dengan nota pindaan"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
     publisher: "Pejabat Penasihat Undang-Undang / Attorney General's Chambers (AGC), Malaysia"

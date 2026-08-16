@@ -41,7 +41,8 @@ version: "01.00"
 verificationNeeded:
   - "Tahap sensitivity kekal 'none' menepati skema semasa, tetapi penyemak manusia patut menimbang sama ada topik penggunaan daya maut wajar diberi flag sensitiviti lebih tinggi."
   - "Sahkan proposisi doktrin 'pembelaan lengkap' dan penilaian kemunasabahan/kadar kes demi kes terhadap kes terkini yang mengikat sebelum penerbitan."
-  - "Sahkan kelayakan sumber sekunder (firma guaman) dan kemas kini kepada 'empat justifikasi kardinal' jika mahkamah telah memperhalusinya."revisions:
+  - "Sahkan kelayakan sumber sekunder (firma guaman) dan kemas kini kepada 'empat justifikasi kardinal' jika mahkamah telah memperhalusinya."
+revisions:
   - version: "01.00"
     date: 2026-08-01
     change: "Approved and published."

@@ -41,7 +41,8 @@ version: "01.00"
 verificationNeeded:
   - "Kenyataan bahawa siasatan polis 'masih berjalan' dan destinasi data eksport 'belum dikenal pasti' setakat laporan Audit dibentangkan — konsisten dengan konteks CodeBlue tetapi belum disahkan perkataan demi perkataan."
   - "Butiran 'hampir 500 klinik dinaik taraf dalam dua tahun' dan '20 lagi hospital dijangka menyusul tahun ini' — angka Media Selangor yang dikaitkan dengan Dr Vivek Jason Jayaraj; sahkan terhadap kenyataan rasmi KKM."
-  - "Frasa pembangun bertindak sebagai 'operator platform' — sahkan petikan tepat Khairy Jamaluddin (Mac 2022)."revisions:
+  - "Frasa pembangun bertindak sebagai 'operator platform' — sahkan petikan tepat Khairy Jamaluddin (Mac 2022)."
+revisions:
   - version: "01.00"
     date: 2026-08-01
     change: "Approved and published."

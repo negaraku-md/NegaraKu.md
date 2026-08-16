@@ -51,7 +51,8 @@ revisions:
 updated: 2026-08-01
 verificationNeeded:
   - "Official 2024 Chinese tourist arrivals to Malaysia — China Briefing cites 'over 3.8 million'; confirm against Tourism Malaysia / Immigration Department figures (some reports give ~3.29 million)."
-  - "The 'more than 480-fold' growth in two-way trade since 1974 — confirm Bernama's base-year figures, as the cited endpoints (under US$200m in 1974 to US$212.04bn in 2024) do not arithmetically yield 480x."sources:
+  - "The 'more than 480-fold' growth in two-way trade since 1974 — confirm Bernama's base-year figures, as the cited endpoints (under US$200m in 1974 to US$212.04bn in 2024) do not arithmetically yield 480x."
+sources:
   - title: "Malaysia and China Forge Strategic Partnerships Amid U.S. Tariff Pressures"
     url: "https://www.china-briefing.com/china-outbound-news/malaysia-and-china-forge-strategic-partnerships-amid-u-s-tariff-pressures"
     publisher: "China Briefing (Dezan Shira & Associates)"

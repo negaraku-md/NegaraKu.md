@@ -46,7 +46,8 @@ verificationNeeded:
   - "Institut Sukan Negara (ISN) founding year and the precise MSN-vs-ISN division of labour (programme management by MSN vs performance/sports-science by ISN) — not yet confirmed against a primary source."
   - "Current Director General as of 2026 — Wikipedia lists Ahmad Shapawi Ismail; confirm he still holds the post via nsc.gov.my before treating as current."
   - "Number and names of the state sports councils (Majlis Sukan Negeri) coordinated under the Act — not yet confirmed from a primary list."
-  - "Full verbatim statutory list of the Council's functions from the Act itself, as opposed to paraphrased functions on secondary pages."updated: 2026-08-14
+  - "Full verbatim statutory list of the Council's functions from the Act itself, as opposed to paraphrased functions on secondary pages."
+updated: 2026-08-14
 sources:
   - title: "National Sports Council of Malaysia Act 1971 (Act 29) — Reprint"
     url: "https://www.kbs.gov.my/akta-dasar.html?download=537%3Anational-sports-council-of-malaysia-act-1971-act-29"

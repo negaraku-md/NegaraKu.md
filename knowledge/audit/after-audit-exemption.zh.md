@@ -38,7 +38,8 @@ faq:
 
 verificationNeeded:
   - "直接向 LHDN 查证其关于第 77A(4) 款的公告的现行文本与状态——撰写时该公告页面无法连上，此处是经由 SSM 的审计豁免 FAQ 引述的"
-  - "在 SSM 的 MBRS 页面上查证现行 MBRS 2.0 强制阶段的日期与入口"lang: "zh"
+  - "在 SSM 的 MBRS 页面上查证现行 MBRS 2.0 强制阶段的日期与入口"
+lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "10c01141306ea188"

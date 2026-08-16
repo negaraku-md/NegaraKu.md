@@ -38,7 +38,8 @@ faq:
     a: "Not in an ordinary arm's length sale — the buyer's qualifying expenditure is its own purchase price, regardless of what the seller had written down. It does matter where the transaction falls within paragraphs 38 to 40, which deem a controlled transfer to take place at the disposer's residual expenditure and pass that figure to the acquirer."
 
 verificationNeeded:
-  - "Whether any gazetted order currently prescribes a fraction other than three-hundredths for the annual allowance under paragraph 16"lang: "en"
+  - "Whether any gazetted order currently prescribes a fraction other than three-hundredths for the annual allowance under paragraph 16"
+lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 

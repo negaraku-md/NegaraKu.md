@@ -47,7 +47,8 @@ reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
   - "The full list and exact number of agencies under the Ministry of Economy (the official site lists 12 agencies as of the review date; the arrangement may change after a Cabinet restructuring)"
-  - "Whether the Prime Minister's Special Committee remains an endorsement layer in the current RMK preparation chain"revisions:
+  - "Whether the Prime Minister's Special Committee remains an endorsement layer in the current RMK preparation chain"
+revisions:
   - version: "01.00"
     date: 2026-08-01
     change: "Approved and published."

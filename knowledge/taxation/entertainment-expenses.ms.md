@@ -31,7 +31,8 @@ faq:
   - q: "Adakah insentif tunai kepada ejen jualan dianggap hiburan?"
     a: "Tidak. Dalam kes NV Alliance Sdn Bhd lwn Ketua Pengarah Hasil Dalam Negeri, Mahkamah Rayuan memutuskan bahawa insentif tunai yang dibayar kepada ejen jualan bukan hospitaliti dalam maksud seksyen 18, dengan menggunakan kaedah tafsiran noscitur a sociis dan ejusdem generis supaya 'hospitaliti dalam apa jua bentuk' mengambil maknanya daripada makanan, minuman dan rekreasi. Bayaran tersebut oleh itu terletak sepenuhnya di luar perenggan 39(1)(l) dan boleh ditolak sepenuhnya."
 
-verificationNeeded: []lang: "ms"
+verificationNeeded: []
+lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "9f630c729df1ac01"

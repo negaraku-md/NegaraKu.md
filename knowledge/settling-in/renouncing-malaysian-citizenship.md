@@ -43,7 +43,8 @@ reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
   - "Kenyataan JPN bertarikh 17 Disember 2025 (Bernama id=2503691) — sahkan tarikh, konteks dan nama/gelaran Ketua Pengarah JPN (Datuk Badrul Hisham Alias)."
-  - "Kenyataan Menteri Dalam Negeri 2019 'Malaysia does not recognise dual citizenship' — sahkan konteks penuh dan sama ada masih mencerminkan pendirian dasar semasa."revisions:
+  - "Kenyataan Menteri Dalam Negeri 2019 'Malaysia does not recognise dual citizenship' — sahkan konteks penuh dan sama ada masih mencerminkan pendirian dasar semasa."
+revisions:
   - version: "01.00"
     date: 2026-08-07
     change: "Approved and published."

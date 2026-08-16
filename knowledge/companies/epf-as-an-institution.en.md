@@ -45,7 +45,8 @@ verificationNeeded:
   - "Rujukan Akta KWSP 1991 dan penempatan KWSP di bawah Kementerian Kewangan — sahkan dengan teks akta atau laman rasmi KWSP."
   - "Bulan pelancaran Simpanan Shariah (dilaporkan Januari 2017) — katalog data terbuka menunjukkan dividen Shariah bermula 2017, tetapi bulan tepat belum disahkan dengan sumber utama."
   - "Angka aset pelaburan 2023 (RM1.13 trilion) yang digunakan untuk pengiraan pertumbuhan — sahkan terhadap penyata kewangan rasmi KWSP."
-  - "Jumlah pendapatan pelaburan mengikut kelas aset dalam RM (bukan hanya % dan ROI) — sahkan dengan Laporan Tahunan / penyata rasmi KWSP 2024."revisions:
+  - "Jumlah pendapatan pelaburan mengikut kelas aset dalam RM (bukan hanya % dan ROI) — sahkan dengan Laporan Tahunan / penyata rasmi KWSP 2024."
+revisions:
   - version: "01.00"
     date: 2026-07-28
     change: "Approved and published."

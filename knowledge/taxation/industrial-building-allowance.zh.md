@@ -38,7 +38,8 @@ faq:
     a: "在一般公平交易的买卖中不要紧——买方的合格开支就是它自己的购价，不管卖方摊销到了什么地步。它在交易落入 paragraph 38 至 40 时才要紧，那几段把受控转让视为按处置方的剩余开支进行，并把该数字传给取得方。"
 
 verificationNeeded:
-  - "目前是否有任何经宪报颁布的命令，为 paragraph 16 下的常年减免订明三百分之三以外的分数"lang: "zh"
+  - "目前是否有任何经宪报颁布的命令，为 paragraph 16 下的常年减免订明三百分之三以外的分数"
+lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "4788a314694d11fc"

@@ -47,7 +47,8 @@ reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
   - "Senarai penuh dan bilangan tepat agensi di bawah Kementerian Ekonomi (laman rasmi menyenaraikan 12 agensi pada tarikh semakan; susunan boleh berubah selepas penstrukturan Kabinet)"
-  - "Sama ada Jawatankuasa Khas Perdana Menteri kekal sebagai lapisan pengesahan dalam rantaian penyediaan RMK semasa"revisions:
+  - "Sama ada Jawatankuasa Khas Perdana Menteri kekal sebagai lapisan pengesahan dalam rantaian penyediaan RMK semasa"
+revisions:
   - version: "01.00"
     date: 2026-08-01
     change: "Approved and published."

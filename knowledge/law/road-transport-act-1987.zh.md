@@ -46,7 +46,8 @@ verificationNeeded:
   - "Exact Section 90 penalty for using a vehicle without third-party insurance — secondary sources disagree (RM1,000/3 months vs RM2,000/3 years); verify against the statute."
   - "Full exact wording of the DUI prescribed limits (s.45G) and the tiered penalties under s.44/45/45A — reconcile paultan reporting with the amendment's gazetted text."
   - "Whether the further June 2026 traffic-penalty reform has been enacted and gazetted — keep this page to law currently in force and treat any proposed increases separately."
-  - "Complete authoritative list and citation numbers of all amending Acts — confirm via the AGC 'Amendments' listing for Act 333."updated: 2026-08-14
+  - "Complete authoritative list and citation numbers of all amending Acts — confirm via the AGC 'Amendments' listing for Act 333."
+updated: 2026-08-14
 sources:
   - title: "Road Transport Act 1987 (Act 333) — AGC updated text of reprint, as at 15 October 2023"
     url: "https://www.apad.gov.my/index.php/en/source-of-information/akta/668-act-333-road-transport-act-1987/file"

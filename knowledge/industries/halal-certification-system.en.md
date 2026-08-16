@@ -48,7 +48,8 @@ reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
   - "Rujukan kepada perintah subsidiari di bawah Akta Perihal Dagangan 2011 (takrifan halal serta pensijilan dan penandaan halal) — sahkan tajuk dan kandungan tepat terhadap teks perundangan rasmi sebelum menyatakannya semula secara spesifik."
-  - "Fi, tempoh sah laku dan prosedur diambil daripada Manual Prosedur Pensijilan Halal Malaysia (Domestik) 2020 — sahkan angka terkini melalui sistem MYeHALAL kerana JAKIM mengemas kini manual dari semasa ke semasa."revisions:
+  - "Fi, tempoh sah laku dan prosedur diambil daripada Manual Prosedur Pensijilan Halal Malaysia (Domestik) 2020 — sahkan angka terkini melalui sistem MYeHALAL kerana JAKIM mengemas kini manual dari semasa ke semasa."
+revisions:
   - version: "01.00"
     date: 2026-07-28
     change: "Approved and published."

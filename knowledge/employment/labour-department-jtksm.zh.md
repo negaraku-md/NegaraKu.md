@@ -44,7 +44,8 @@ verificationNeeded:
   - "Current exact number of JTKSM state/branch labour offices in Peninsular Malaysia."
   - "Current name/branding of the parent ministry — confirm whether it is styled 'Ministry of Human Resources' or 'KESUMA (Kementerian Sumber Manusia)' in current official usage."
   - "Precise High Court appeal window (commonly cited 14 days) for Labour Court orders — confirm against Act 265."
-  - "Whether the Working for Workers (WFW) app and eAduan/SisPAA are the same channel or distinct — official pages reference both."updated: 2026-08-14
+  - "Whether the Working for Workers (WFW) app and eAduan/SisPAA are the same channel or distinct — official pages reference both."
+updated: 2026-08-14
 sources:
   - title: "Minimum Wages Order 2024, P.U.(A) 376/2024"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputp/2541500/PUA%20376.pdf"
