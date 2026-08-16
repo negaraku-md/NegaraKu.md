@@ -78,7 +78,7 @@ sources:
     url: "https://myttx.customs.gov.my/wp-content/uploads/2024/02/WJW23%EF%80%A21341-BI.pdf"
     publisher: "Attorney General's Chambers"
   - title: "CGT Return Form Filing Programme"
-    url: "https://www.hasil.gov.my/en/borang/program-memfail-borang-nyata-ckm/"
+    url: "https://www.hasil.gov.my/borang/program-memfail-borang-nyata-ckm/"
     publisher: "LHDN"
 
 entity: "Capital gains tax"

@@ -45,7 +45,7 @@ verificationNeeded: []
 updated: 2026-08-14
 sources:
   - title: "Pengenalan Duti Setem (Introduction to Stamp Duty)"
-    url: "https://www.hasil.gov.my/en/duti-setem/pengenalan-duti-setem/"
+    url: "https://www.hasil.gov.my/duti-setem/pengenalan-duti-setem/"
     publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN / IRBM)"
   - title: "Penalti (Duti Setem) — Stamp Duty Penalty"
     url: "https://www.hasil.gov.my/duti-setem/penalti-duti-setem/"

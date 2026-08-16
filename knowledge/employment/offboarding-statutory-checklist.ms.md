@@ -130,7 +130,7 @@ revisions:
 updated: 2026-07-20
 sources:
   - title: "Employer's responsibilities"
-    url: "https://www.hasil.gov.my/en/majikan/tanggungjawab-majikan/"
+    url: "https://www.hasil.gov.my/majikan/tanggungjawab-majikan/"
     publisher: "LHDN"
     date: "2026-01-01"
   - title: "Employment Act 1955 (Act 265)"

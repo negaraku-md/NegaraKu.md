@@ -99,7 +99,7 @@ sources:
     publisher: "LHDN"
     date: "2024-05-21"
   - title: "Tax Estimation — Submission of Estimated Tax Payable Under Section 107C"
-    url: "https://www.hasil.gov.my/en/syarikat/anggaran-cukai/"
+    url: "https://www.hasil.gov.my/syarikat/anggaran-cukai/"
     publisher: "LHDN"
   - title: "Public Ruling No. 8/2025 — Tax Treatment for Micro, Small and Medium Companies"
     url: "https://www.hasil.gov.my/wp-content/uploads/pr-8-2025-tax-treatment-for-micro-small-and-medium-companies.pdf"
@@ -109,7 +109,7 @@ sources:
     url: "https://www.hasil.gov.my/wp-content/uploads/program-memfail-bn-bagi-tahun-2026.pdf"
     publisher: "LHDN"
   - title: "Offences, Fines and Penalties"
-    url: "https://www.hasil.gov.my/en/perundangan/kesalahan-denda-dan-penalti/"
+    url: "https://www.hasil.gov.my/perundangan/kesalahan-denda-dan-penalti/"
     publisher: "LHDN"
 
 entity: "Company tax estimate and return"

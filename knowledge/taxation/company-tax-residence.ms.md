@@ -68,7 +68,7 @@ sources:
     publisher: "LHDN"
     date: "2024-05-21"
   - title: "Company Resident Status"
-    url: "https://www.hasil.gov.my/en/syarikat/taraf-mastautin-syarikat/"
+    url: "https://www.hasil.gov.my/syarikat/taraf-mastautin-syarikat/"
     publisher: "LHDN"
   - title: "Public Ruling No. 2/2025 — Group Relief for Companies"
     url: "https://www.hasil.gov.my/wp-content/uploads/pr-2-2025-group-relief-for-companies.pdf"

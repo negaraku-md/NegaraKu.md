@@ -87,7 +87,7 @@ sources:
     publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
     date: "2025-07-31"
   - title: "Transfer Pricing Tax Audit Framework (framework listing, English edition dated 31.07.2025 current)"
-    url: "https://www.hasil.gov.my/en/perundangan/rangka-kerja/"
+    url: "https://www.hasil.gov.my/perundangan/rangka-kerja/"
     publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
     date: "2025-07-31"
   - title: "EY Tax Alert Special Edition No. 2/2025 — Transfer Pricing Tax Audit Framework 2025"

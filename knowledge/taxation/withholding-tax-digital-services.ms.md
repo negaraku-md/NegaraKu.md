@@ -87,7 +87,7 @@ sources:
     publisher: "LHDN"
     date: "2024-05-21"
   - title: "Withholding Tax"
-    url: "https://www.hasil.gov.my/en/perundangan/cukai-pegangan/"
+    url: "https://www.hasil.gov.my/perundangan/cukai-pegangan/"
     publisher: "LHDN"
   - title: "Public Ruling No. 10/2019 — Withholding Tax on Special Classes of Income"
     url: "https://www.hasil.gov.my/wp-content/uploads/PR_10_2019.pdf"

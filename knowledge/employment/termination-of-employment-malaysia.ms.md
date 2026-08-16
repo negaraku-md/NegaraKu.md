@@ -125,7 +125,7 @@ sources:
     publisher: "JTKSM"
     date: "2024-01-01"
   - title: "Employer's responsibilities — cessation of employment"
-    url: "https://www.hasil.gov.my/en/majikan/tanggungjawab-majikan/"
+    url: "https://www.hasil.gov.my/majikan/tanggungjawab-majikan/"
     publisher: "LHDN"
     date: "2026-01-01"
   - title: "Employment Act 1955 (Act 265), Reprint as at 1 August 2023 — Part XIIB ss.60K–60O and amendment-history table"

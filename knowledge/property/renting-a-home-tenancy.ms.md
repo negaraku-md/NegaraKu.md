@@ -47,7 +47,7 @@ sources:
     url: "https://lom.agc.gov.my/act-detail.php?lang=BI&act=378"
     publisher: "Attorney General's Chambers of Malaysia (Jabatan Peguam Negara)"
   - title: "Duti Setem (Stamp Duty) — overview"
-    url: "https://www.hasil.gov.my/en/duti-setem/"
+    url: "https://www.hasil.gov.my/duti-setem/"
     publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN / IRBM)"
   - title: "STAMPS / Self-Assessment Stamp Duty System — FAQ"
     url: "https://stamps.hasil.gov.my/stamps/main/faq"

@@ -83,7 +83,7 @@ sources:
     url: "https://www.hasil.gov.my/en/rpgt/disposal-price-deemed-to-be-equal-to-acquisition-price/"
     publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
   - title: "Responsibilities of Disposer and Acquirer (CKHT)"
-    url: "https://www.hasil.gov.my/en/ckht/tanggungjawab-pelupus-dan-pemeroleh/"
+    url: "https://www.hasil.gov.my/ckht/tanggungjawab-pelupus-dan-pemeroleh/"
     publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
   - title: "Public Ruling No. 9/2023 - The Deceased (Part I - Introduction)"
     url: "https://www.hasil.gov.my/media/bzubsvql/public-ruling-no-92023-the-deceased-part-1-introduction.pdf"

@@ -65,7 +65,7 @@ revisions:
 updated: 2026-07-20
 sources:
   - title: "Withholding Tax"
-    url: "https://www.hasil.gov.my/en/perundangan/cukai-pegangan/"
+    url: "https://www.hasil.gov.my/perundangan/cukai-pegangan/"
     publisher: "LHDN"
   - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — Schedule 1 and ss.107A, 107D, 109, 109A, 109B, 109F"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
@@ -76,7 +76,7 @@ sources:
     publisher: "LHDN"
     date: "2019-12-10"
   - title: "Double Taxation Avoidance Agreement (DTA/DTAA)"
-    url: "https://www.hasil.gov.my/en/antarabangsa/perjanjian-pengelakan-pencukaian-dua-kali-pppdk/"
+    url: "https://www.hasil.gov.my/antarabangsa/perjanjian-pengelakan-pencukaian-dua-kali-pppdk/"
     publisher: "LHDN"
 
 entity: "Malaysian withholding tax rates"

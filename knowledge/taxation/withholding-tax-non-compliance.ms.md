@@ -62,7 +62,7 @@ sources:
     publisher: "LHDN"
     date: "2024-05-21"
   - title: "Withholding Tax — Enforcement"
-    url: "https://www.hasil.gov.my/en/perundangan/cukai-pegangan/"
+    url: "https://www.hasil.gov.my/perundangan/cukai-pegangan/"
     publisher: "LHDN"
 
 entity: "Withholding tax non-compliance"

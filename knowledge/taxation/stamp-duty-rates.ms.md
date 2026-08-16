@@ -60,10 +60,10 @@ sources:
     url: "https://www.hasil.gov.my/wp-content/uploads/garis-panduan-pengenaan-duti-setem-jadual-pertama-as-1949.pdf"
     publisher: "LHDN"
   - title: "Stamp Duty Orders and Exemption Orders"
-    url: "https://www.hasil.gov.my/en/duti-setem/perintah-duti-setem/"
+    url: "https://www.hasil.gov.my/duti-setem/perintah-duti-setem/"
     publisher: "LHDN"
   - title: "Stamp Duty Exemptions and Relief"
-    url: "https://www.hasil.gov.my/en/duti-setem/pengecualian-dan-relief/"
+    url: "https://www.hasil.gov.my/duti-setem/pengecualian-dan-relief/"
     publisher: "LHDN"
 
 entity: "Stamp duty rates"

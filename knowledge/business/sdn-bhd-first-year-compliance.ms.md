@@ -173,7 +173,7 @@ sources:
     publisher: "LHDN"
     date: "2025"
   - title: "e-Invoice Implementation Timeline (updated 7 December 2025)"
-    url: "https://www.hasil.gov.my/en/e-invois/pelaksanaan-e-invois-di-malaysia/garis-masa-pelaksanaan-e-invois/"
+    url: "https://www.hasil.gov.my/e-invois/pelaksanaan-e-invois-di-malaysia/garis-masa-pelaksanaan-e-invois/"
     publisher: "LHDN"
   - title: "IRBM e-Invoice Guideline (Version 4.7)"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"

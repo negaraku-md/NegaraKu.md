@@ -147,7 +147,7 @@ sources:
     url: "https://www.perkeso.gov.my/en/our-services/employer-employee/pembayaran.html"
     publisher: "PERKESO"
   - title: "Employers — Employer's Responsibility"
-    url: "https://www.hasil.gov.my/en/majikan/"
+    url: "https://www.hasil.gov.my/majikan/"
     publisher: "LHDN"
   - title: "Program Memfail Borang Nyata (BN) Bagi Tahun 2026"
     url: "https://www.hasil.gov.my/wp-content/uploads/program-memfail-bn-bagi-tahun-2026.pdf"

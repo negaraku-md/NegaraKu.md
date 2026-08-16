@@ -62,7 +62,7 @@ sources:
     publisher: "LHDN"
     date: "2024-05-21"
   - title: "Change In Accounting Period"
-    url: "https://www.hasil.gov.my/en/syarikat/pertukaran-tarikh-penutupan-akaun-syarikat/"
+    url: "https://www.hasil.gov.my/syarikat/pertukaran-tarikh-penutupan-akaun-syarikat/"
     publisher: "LHDN"
 
 entity: "Basis period"

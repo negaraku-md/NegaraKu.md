@@ -70,7 +70,7 @@ sources:
     publisher: "LHDN"
     date: "2025-12-22"
   - title: "Tax Rate of Company"
-    url: "https://www.hasil.gov.my/en/syarikat/kadar-cukai-syarikat/"
+    url: "https://www.hasil.gov.my/syarikat/kadar-cukai-syarikat/"
     publisher: "LHDN"
   - title: "Explanatory Notes, Form BE — Dividend Tax under Part XXII of Schedule 1"
     url: "https://ef.hasil.gov.my/eBE2026/Pdf/Nota_BE_e.pdf"

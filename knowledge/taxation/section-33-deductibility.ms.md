@@ -97,7 +97,7 @@ sources:
     publisher: "Laws of Malaysia, gazetted 31 Dec 2024 (hosted copy)"
     date: "2024-12-31"
   - title: "Public Rulings index — No. 6/2006 Tax Treatment of Legal and Professional Expenses listed as current, not superseded"
-    url: "https://www.hasil.gov.my/en/perundangan/ketetapan-umum/"
+    url: "https://www.hasil.gov.my/perundangan/ketetapan-umum/"
     publisher: "LHDN"
     date: "2026-08-14"
   - title: "Tax Deduction of Secretarial Fees and Tax Filing Fees — P.U.(A) 162/2020 (RM15,000 combined cap per YA) and P.U.(A) 471/2021 (incurred basis from YA 2022, cap unchanged)"

@@ -64,7 +64,7 @@ sources:
     url: "https://lom.agc.gov.my/act-detail.php?act=378"
     publisher: "Attorney General's Chambers"
   - title: "Stamp Duty Exemptions and Relief — relief under section 15 and section 15A"
-    url: "https://www.hasil.gov.my/en/duti-setem/pengecualian-dan-relief/"
+    url: "https://www.hasil.gov.my/duti-setem/pengecualian-dan-relief/"
     publisher: "LHDN"
   - title: "Companies Act 2016 (Act 777), s.105 and s.106 — transfer and registration of securities"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"

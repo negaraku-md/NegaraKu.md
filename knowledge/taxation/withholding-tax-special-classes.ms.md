@@ -76,7 +76,7 @@ sources:
     publisher: "LHDN"
     date: "2024-05-21"
   - title: "Withholding Tax"
-    url: "https://www.hasil.gov.my/en/perundangan/cukai-pegangan/"
+    url: "https://www.hasil.gov.my/perundangan/cukai-pegangan/"
     publisher: "LHDN"
   - title: "Form CP37D (Pin. 1/2024) — Account of Deductions from Special Classes of Income under Section 4A"
     url: "https://www.hasil.gov.my/wp-content/uploads/cp37d-pin-1_2024.pdf"

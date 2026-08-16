@@ -72,7 +72,7 @@ sources:
     publisher: "LHDN"
     date: "2024-05-21"
   - title: "Public Rulings index"
-    url: "https://www.hasil.gov.my/en/perundangan/ketetapan-umum/"
+    url: "https://www.hasil.gov.my/perundangan/ketetapan-umum/"
     publisher: "LHDN"
 
 entity: "Business loss relief"

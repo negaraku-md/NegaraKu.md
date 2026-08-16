@@ -44,7 +44,7 @@ sources:
     publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
     date: "2026-06-30"
   - title: "Sistem Taksir Sendiri Duti Setem (STSDS) — rollout phases"
-    url: "https://www.hasil.gov.my/en/duti-setem/sistem-taksir-sendiri-duti-setem-stsds/"
+    url: "https://www.hasil.gov.my/duti-setem/sistem-taksir-sendiri-duti-setem-stsds/"
     publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
   - title: "Duti Setem — general framework for ad valorem duty on transfer instruments"
     url: "https://www.hasil.gov.my/duti-setem/"

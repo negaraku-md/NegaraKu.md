@@ -77,7 +77,7 @@ sources:
     url: "https://www.hasil.gov.my/en/company/tax-estimation/"
     publisher: "Inland Revenue Board of Malaysia (LHDN)"
   - title: "Anggaran Cukai / Tax Estimation"
-    url: "https://www.hasil.gov.my/en/syarikat/anggaran-cukai/"
+    url: "https://www.hasil.gov.my/syarikat/anggaran-cukai/"
     publisher: "Inland Revenue Board of Malaysia (LHDN)"
   - title: "Employer Registration — KWSP Malaysia"
     url: "https://www.kwsp.gov.my/en/employer/responsibilities/registration"

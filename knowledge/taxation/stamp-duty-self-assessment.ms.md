@@ -73,7 +73,7 @@ sources:
     publisher: "LHDN"
     date: "2025-12-26"
   - title: "Sistem Taksir Sendiri Duti Setem (STSDS)"
-    url: "https://www.hasil.gov.my/en/stamp-duty/sistem-taksir-sendiri-duti-setem-stsds/"
+    url: "https://www.hasil.gov.my/stamp-duty/sistem-taksir-sendiri-duti-setem-stsds/"
     publisher: "LHDN"
   - title: "Stamp Act 1949 (Act 378), text as at 1 January 2024"
     url: "https://lom.agc.gov.my/act-detail.php?act=378"

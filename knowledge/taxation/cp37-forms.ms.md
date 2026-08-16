@@ -55,7 +55,7 @@ revisions:
 updated: 2026-07-20
 sources:
   - title: "Withholding Tax — types of payment, provisions, rates and forms"
-    url: "https://www.hasil.gov.my/en/perundangan/cukai-pegangan/"
+    url: "https://www.hasil.gov.my/perundangan/cukai-pegangan/"
     publisher: "LHDN"
   - title: "Form CP37 (Pin. 1/2024) — Account of Deduction from Royalty and Interest to a Non-Resident Person"
     url: "https://www.hasil.gov.my/wp-content/uploads/cp37-pin-1_2024.pdf"
