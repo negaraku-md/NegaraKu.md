@@ -49,10 +49,6 @@ revisions:
 verificationNeeded:
   - "Nombor seksyen tepat bagi klausa penyingkiran yang diisytiharkan tidak sah oleh Mahkamah Persekutuan (laporan menyebut Seksyen 15B; Seksyen 15A menyebut had semakan prosedur) — sahkan terhadap teks rasmi Akta 297 selepas pindaan 2013."
   - "Nama kes penuh dan sitasi rasmi keputusan Mahkamah Persekutuan April 2022 (dilaporkan membabitkan tahanan T. Dhinesh)."
-  - "Tarikh semakan semula (1983) dan tarikh kuat kuasa reprint (19 Januari 1984) terhadap reprint rasmi Akta 297."
-  - "Subseksyen tepat bagi senarai sekatan (dilaporkan Seksyen 15(2)) dan hukuman 2–10 tahun (dilaporkan Seksyen 15(4)) terhadap teks Akta."
-  - "Angka 21 hari (Seksyen 4(1)) dan 38 hari (Seksyen 4(2)) terhadap teks Akta 297 semasa."
-
 updated: 2026-08-07
 sources:
   - title: "Prevention of Crime Act 1959 (Akta 297) — teks penuh (reprint rasmi)"

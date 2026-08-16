@@ -41,12 +41,7 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Had reman di bawah seksyen 117 (4+3 hari sehingga 7 hari; 7+7 hari sehingga 14 hari) perlu disemak semula terhadap teks seksyen 117(2) dalam cetakan Akta 593 yang sedang berkuat kuasa."
-  - "Kandungan tepat dan sebarang pengecualian/pengehadan hak di bawah seksyen 28A perlu disahkan terhadap teks statut rasmi."
-  - "Nombor seksyen 173 (perbicaraan ringkas) dan 180 (Mahkamah Tinggi) serta 182A perlu disahkan terhadap cetakan Akta 593 semasa; pemetaan kepada jenis mahkamah boleh berubah dengan pindaan."
-  - "Rujukan Perkara 5(3) dan 5(4) Perlembagaan Persekutuan perlu disemak terhadap cetakan rasmi terkini (fail AGC berbentuk binari dan tidak dapat disahkan teksnya secara dalam-talian)."
-  - "Kemas kini Akta 593 (setakat 18.10.2021 dalam pautan) perlu disemak sama ada masih cetakan terkini pada tarikh penerbitan."
-revisions:
+  - "Kemas kini Akta 593 (setakat 18.10.2021 dalam pautan) perlu disemak sama ada masih cetakan terkini pada tarikh penerbitan."revisions:
   - version: "01.00"
     date: 2026-08-07
     change: "Approved and published."

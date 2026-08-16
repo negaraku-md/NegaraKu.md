@@ -47,14 +47,13 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Umur persaraan hakim (66 tahun) dan tempoh lanjutan (sehingga 6 bulan): sahkan terhadap teks rasmi Perkara 125(1) Perlembagaan Persekutuan di Portal Perundangan Malaysia (AGC). Nota: revisi Constitute Project 2007 memaparkan '65' yang lapuk; umur semasa ialah 66 (disokong The Edge)."
-  - "Nombor sub-fasal tepat yang menetapkan 'kod etika' dan yang menjadikan pelanggarannya alasan penyingkiran (Perkara 125(3A) berbanding 125(3B)): sahkan terhadap teks AGC. Nombor ini telah dilonggarkan dalam badan artikel sehingga disahkan."
-  - "Komposisi tribunal penyingkiran 'tidak kurang lima orang' dan rujukan sub-fasal Perkara 125(4): sahkan terhadap teks AGC."
   - "Perincian Perkara 122B (pihak yang dinasihatkan dan syarat rundingan dengan Majlis Raja-Raja bagi setiap peringkat mahkamah): sahkan terhadap teks AGC."
   - "Butiran peristiwa 2025 (tarikh persaraan Ketua Hakim Negara ketika itu dan status lanjutan tempoh perkhidmatan): sahkan dengan pengumuman rasmi terkini."
-
 updated: 2026-08-07
 sources:
+  - title: "Federal Constitution (Reprint As at 15 October 2020)"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
+    publisher: "Attorney General's Chambers of Malaysia (lom.agc.gov.my)"
   - title: "Judicial Appointments Commission Act 2009 (Act 695), updated reprint as at 1 May 2014"
     url: "https://tcclaw.com.my/wp-content/uploads/2025/08/Judicial-Appointments-Commission-Act-2009.pdf"
     publisher: "Laws of Malaysia (Attorney General's Chambers reprint)"

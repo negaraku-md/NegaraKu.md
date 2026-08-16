@@ -49,11 +49,12 @@ verificationNeeded:
   - "Pelabelan subseksyen bagi hukuman pindaan Seksyen 233 (subseksyen mana yang membawa denda RM500,000 / penjara 2 tahun bagi penyalahgunaan am, dan subseksyen mana yang membawa hukuman kesalahan melibatkan kanak-kanak RM500,000 / penjara 5 tahun) — semak terhadap teks Akta Komunikasi dan Multimedia (Pindaan) yang telah diwartakan."
   - "Angka hukuman kesalahan melibatkan kanak-kanak (RM500,000 / 5 tahun) — sahkan terhadap teks pindaan yang diwartakan."
   - "Status dan tarikh permulaan kuat kuasa Pindaan 2024 — Rang Undang-Undang diluluskan kedua-dua Dewan pada Disember 2024 tetapi mula berkuat kuasa pada tarikh yang ditetapkan Menteri melalui warta; sahkan sama ada dan bila ia telah berkuat kuasa."
-  - "Sumber msc.com.my yang menyokong hukuman asal Seksyen 233 ialah rujukan tidak rasmi; sahkan teks statutori terhadap teks Akta yang diwartakan di portal AGC/SKMM."
   - "Ambang 'lapan juta pengguna' dan tarikh kuat kuasa 1 Januari 2025 bagi lesen kelas media sosial — sahkan terhadap arahan/perintah rasmi SKMM."
-
 updated: 2026-08-07
 sources:
+  - title: "Laws of Malaysia Act 588 — Communications and Multimedia Act 1998 (official text)"
+    url: "https://www.mcmc.gov.my/skmmgovmy/media/General/pdf/Act588bi_3.pdf"
+    publisher: "Malaysian Communications and Multimedia Commission (MCMC/SKMM)"
   - title: "Section 233 – Communications and Multimedia Act 1998"
     url: "https://www.msc.com.my/cyberlaws/cma-section-233.html"
     publisher: "MSC Malaysia"

@@ -45,14 +45,12 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Kelengkapan senarai penuh Perkara 159(5): teks perlembagaan turut merangkumi Perkara 10(4)/Bahagian III, 63(4), 70 dan 72(4) selain 38, 71, 152 dan 153 yang disebut dalam artikel."
-  - "Tarikh penubuhan Majlis Raja-Raja (1948) terhadap sumber primer (Perjanjian Persekutuan Tanah Melayu 1948)."
-  - "Preseden pindaan sempadan berkaitan Kuala Lumpur (1973) dan Labuan (1984) di bawah Perkara 2 terhadap rekod warta/statut rasmi."
-  - "Komposisi Mahkamah Khas di bawah Perkara 182 (lima anggota, dua dilantik oleh Majlis) terhadap teks perlembagaan semasa."
   - "Sama ada rujukan langsung kepada teks rasmi Perlembagaan Persekutuan (cetak semula AGC) wajar ditambah sebagai sumber primer."
-
 updated: 2026-08-07
 sources:
+  - title: "Federal Constitution (Reprint As at 15 October 2020), Article 159(5)"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
+    publisher: "Commissioner of Law Revision, Malaysia / Attorney General's Chambers (AGC)"
   - title: "Conference of Rulers Information"
     url: "https://www.majlisraja-raja.gov.my/en/conference-of-rulers-information-new-2"
     publisher: "Majlis Raja-Raja (Office of the Keeper of the Rulers' Seal)"

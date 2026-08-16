@@ -39,11 +39,7 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Nombor seksyen/subseksyen tepat di bawah Akta 757 terhadap teks rasmi Akta — khususnya seksyen bagi akaun penyelenggaraan tempoh pemaju dan seksyen pengagihan caj mengikut unit syer (dibiarkan pada peringkat akta kerana sumber berbeza)."
-  - "Subseksyen tepat bagi sumbangan kumpulan wang penjelas 10% (dirujuk sebagai Seksyen 12(4)) dan tarikh akhir JMB 12 bulan (Seksyen 17) terhadap teks rasmi Akta 757."
-  - "Sama ada COB sendiri yang mengeluarkan waran penahanan harta alih, atau badan pengurusan (JMB/MC) yang memohonnya, serta seksyen yang mengawal mekanisme pemulihan tunggakan tersebut."
-  - "Nama sebenar dan status undang-undang strata Sabah dan Sarawak yang berasingan daripada Akta 318."
-revisions:
+  - "Nama sebenar dan status undang-undang strata Sabah dan Sarawak yang berasingan daripada Akta 318."revisions:
   - version: "01.00"
     date: 2026-08-07
     change: "Approved and published."
@@ -51,6 +47,9 @@ revisions:
 
 updated: 2026-08-07
 sources:
+  - title: "Strata Management Act 2013 (Act 757) — Laws of Malaysia (as enacted)"
+    url: "http://www.federalgazette.agc.gov.my/outputaktap/20130208_757_BI_AKTA%20757-BI.pdf"
+    publisher: "Attorney General's Chambers (Federal Gazette / Laws of Malaysia)"
   - title: "Strata Titles Act 1985 (Act 318)"
     url: "https://www.lowpartners.com/strata-titles-act-1985/"
     publisher: "Low & Partners"

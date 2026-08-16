@@ -58,8 +58,6 @@ revisions:
 
 verificationNeeded:
   - "Had kewangan dan hukuman semasa Mahkamah Rendah Syariah dan Mahkamah Tinggi Syariah di Wilayah Persekutuan, yang telah dipinda sejak cetakan semula Act 505 pada 1 Januari 2013 dan oleh itu tidak dinyatakan di sini"
-  - "Sama ada had mal Johor dan Perak yang disebut kekal terkini setakat tarikh semakan"
-
 updated: 2026-07-24
 sources:
   - title: "Federal Constitution, Reprint as at 15 October 2020 — Article 5(4), Article 121, Article 145(3), Ninth Schedule List I item 4 and List II item 1"

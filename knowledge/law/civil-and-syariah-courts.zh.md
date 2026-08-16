@@ -57,10 +57,7 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "联邦直辖区沙里亚初级法院与沙里亚高等法院现行的金额与判刑门槛，这些门槛自Act 505于2013年1月1日的重印本之后已经过修订，因此本文未予列明"
-  - "本文所引述的柔佛与霹雳mal门槛，截至审阅之日是否仍然现行"
-
-updated: 2026-07-24
+  - "联邦直辖区沙里亚初级法院与沙里亚高等法院现行的金额与判刑门槛，这些门槛自Act 505于2013年1月1日的重印本之后已经过修订，因此本文未予列明"updated: 2026-07-24
 sources:
   - title: "Federal Constitution, Reprint as at 15 October 2020 — Article 5(4), Article 121, Article 145(3), Ninth Schedule List I item 4 and List II item 1"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"

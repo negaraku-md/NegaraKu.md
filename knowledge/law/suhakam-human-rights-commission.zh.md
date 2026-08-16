@@ -52,12 +52,12 @@ revisions:
 
 verificationNeeded:
   - "Confirm current SUHAKAM membership count sits within the statutory 7-20 range as at publication date."
-  - "Confirm the Children Commissioner provisions (s.6A) and the s.11A selection committee remain in force in the latest consolidated Act 597 (post-Act A1714 2024)."
-  - "Confirm SUHAKAM still holds GANHRI 'A' status at publication (June 2021 SCA report recommended re-accreditation; verify no later downgrade or deferral)."
   - "Confirm no annual reports beyond 2022 have since been tabled that would update the reporting-backlog statement."
-
 updated: 2026-08-07
 sources:
+  - title: "Chart of the Status of National Institutions Accredited by GANHRI — as of 4 December 2025"
+    url: "https://ganhri.org/wp-content/uploads/2025/12/Accreditation-Status-Chart_Dec2025.pdf"
+    publisher: "Global Alliance of National Human Rights Institutions (GANHRI)"
   - title: "Human Rights Commission of Malaysia Act 1999 (Act 597) — English text"
     url: "https://suhakam.org.my/wp-content/uploads/2024/04/ACT-597-1999_English.pdf"
     publisher: "SUHAKAM"

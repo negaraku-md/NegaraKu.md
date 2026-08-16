@@ -45,9 +45,7 @@ version: "01.00"
 verificationNeeded:
   - "Kod borang JPN.KC02 (permohonan/pendaftaran perkahwinan) dan JPN.KC01C (lesen perkahwinan khas/ekspres untuk mengetepikan notis 21 hari): disahkan melalui sumber kerajaan negeri (Pejabat Daerah Serian, Sarawak), tetapi sahkan sekali lagi terhadap portal rasmi JPN kerana kod borang boleh dikemas kini."
   - "Klasifikasi sensitivity kekal 'none' seperti diarahkan, tetapi artikel menyentuh peruntukan pemelukan Islam (seksyen 51, 51A) dan pembahagian bidang kuasa sivil vs Syariah — topik antara agama yang sensitif di Malaysia. Peninjau manusia patut menilai semula sama ada tag 'none' memadai."
-  - "Seksyen 12 (ibu kini mempunyai kuasa persetujuan yang sama dengan bapa bagi perkahwinan anak di bawah umur 21 tahun): sahkan perkataan tepat pindaan; sumber sekunder mengesahkan pihak yang boleh memberi persetujuan diperluas tetapi tidak semuanya menyatakan kesetaraan ibu secara eksplisit."
-  - "Butiran fakta seksyen 54 (tempoh pengabaian dan berpisah dua tahun), sekatan masa seksyen 50, dan petisyen bersama seksyen 52 patut disemak semula terhadap teks statut rasmi sebelum penerbitan."
-revisions:
+  - "Seksyen 12 (ibu kini mempunyai kuasa persetujuan yang sama dengan bapa bagi perkahwinan anak di bawah umur 21 tahun): sahkan perkataan tepat pindaan; sumber sekunder mengesahkan pihak yang boleh memberi persetujuan diperluas tetapi tidak semuanya menyatakan kesetaraan ibu secara eksplisit."revisions:
   - version: "01.00"
     date: 2026-08-07
     change: "Approved and published."
@@ -55,6 +53,9 @@ revisions:
 
 updated: 2026-08-07
 sources:
+  - title: "Laws of Malaysia — Act 164 Law Reform (Marriage and Divorce) Act 1976 (Reprint incorporating amendments up to 1 January 2006)"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20164.pdf"
+    publisher: "Attorney General's Chambers of Malaysia (lom.agc.gov.my)"
   - title: "Soalan Lazim — Perkahwinan"
     url: "https://www.jpn.gov.my/soalan-lazim/slperkahwinan/"
     publisher: "Jabatan Pendaftaran Negara (JPN)"

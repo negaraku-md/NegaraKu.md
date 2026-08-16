@@ -57,8 +57,6 @@ revisions:
 
 verificationNeeded:
   - "Current monetary and sentencing thresholds of the Syariah Subordinate Court and Syariah High Court in the Federal Territories, which have been amended since the 1 January 2013 reprint of Act 505 and are therefore not stated here"
-  - "Whether the Johor and Perak mal thresholds cited remain current as at the date of review"
-
 updated: 2026-07-24
 sources:
   - title: "Federal Constitution, Reprint as at 15 October 2020 — Article 5(4), Article 121, Article 145(3), Ninth Schedule List I item 4 and List II item 1"

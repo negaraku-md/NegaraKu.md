@@ -51,13 +51,14 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Tarikh kuat kuasa 15 Julai 2024 dan ambang RM5 juta Akta Pusaka Kecil (Pembahagian) (Pindaan) 2022 — sahkan terhadap Warta Kerajaan / teks pindaan rasmi."
   - "Ambang RM600,000 dan syarat harta alih sahaja bagi pentadbiran ringkas Amanah Raya Berhad di bawah Akta Perbadanan Amanah Kebangsaan 1995 (Public Trust Corporation Act 1995) — sahkan angka semasa dengan Amanah Raya."
   - "Skala fi rasmi geran surat kuasa mentadbir pusaka kecil (lingkungan RM10–RM30, atau 0.2% bagi penilaian melebihi RM50,000) — sahkan sama ada masih terpakai selepas pindaan 2022."
   - "Peruntukan pusaka berasingan bagi Sabah dan anak negeri Sarawak — sahkan akta/ordinan khusus yang terpakai."
-
 updated: 2026-08-07
 sources:
+  - title: "Apakah yang dimaksudkan dengan Harta Pusaka Kecil? (JKPTG FAQ) + P.U.(A) 194/2024 Peraturan-Peraturan Harta Pusaka Kecil (Pembahagian) (Pindaan) 2024"
+    url: "https://www.jkptg.gov.my/en/soalan-lazim-3/48-faq/pusaka-kecil/am2/1801-apakah-yang-dimaksudkan-dengan-harta-pusaka-kecil"
+    publisher: "Jabatan Ketua Pengarah Tanah dan Galian Persekutuan (JKPTG) / Attorney General's Chambers (Federal Gazette)"
   - title: "Non-Muslim Inheritance Law"
     url: "https://johorebar.org.my/non-muslim-inheritance-law/"
     publisher: "Johore Bar Committee"
