@@ -85,8 +85,20 @@ export function effectiveStatus(a: Article, now: Date = new Date()): string {
   return s;
 }
 
-export async function allArticles(): Promise<Article[]> {
-  return (await getCollection('knowledge')).filter(isPublishable);
+// Build-time memoization. Content is immutable during `astro build`, so deriving
+// the published set and the per-locale article list ONCE (instead of once per
+// rendered page) turns an O(pages × articles) hot path — articlesForLocale() is
+// called on every one of ~3,000 article/category/topic pages — into O(articles).
+// Gated on import.meta.env.PROD so the dev server (HMR) always reflects edits.
+const MEMO = import.meta.env.PROD;
+let _allCache: Promise<Article[]> | undefined;
+const _localeCache = new Map<Locale, Promise<Article[]>>();
+
+export function allArticles(): Promise<Article[]> {
+  if (MEMO && _allCache) return _allCache;
+  const p = getCollection('knowledge').then((c) => c.filter(isPublishable));
+  if (MEMO) _allCache = p;
+  return p;
 }
 
 /**
@@ -116,7 +128,17 @@ export async function corpusTopics(): Promise<Article[]> {
  * Return one entry per canonical article for the requested locale, falling
  * back to the Bahasa Malaysia source when a translation is missing.
  */
-export async function articlesForLocale(locale: Locale): Promise<Article[]> {
+export function articlesForLocale(locale: Locale): Promise<Article[]> {
+  if (MEMO) {
+    const cached = _localeCache.get(locale);
+    if (cached) return cached;
+  }
+  const p = computeArticlesForLocale(locale);
+  if (MEMO) _localeCache.set(locale, p);
+  return p;
+}
+
+async function computeArticlesForLocale(locale: Locale): Promise<Article[]> {
   const all = await allArticles();
   const byKey = new Map<string, Article>();
 

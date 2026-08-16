@@ -8,14 +8,19 @@ import path from 'node:path';
 
 const API_DIR = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../../public/api');
 
+// These files are generated once (predev/prebuild) and immutable for the life of
+// the process, so parse each at most once — the analytics reader in particular is
+// hit on every one of ~3,000 article pages during a build.
+const _apiCache = new Map<string, unknown>();
 function read<T>(name: string, fallback: T): T {
+  if (_apiCache.has(name)) return _apiCache.get(name) as T;
   const file = path.join(API_DIR, name);
-  if (!existsSync(file)) return fallback;
-  try {
-    return JSON.parse(readFileSync(file, 'utf8')) as T;
-  } catch {
-    return fallback;
+  let value: T = fallback;
+  if (existsSync(file)) {
+    try { value = JSON.parse(readFileSync(file, 'utf8')) as T; } catch { /* keep fallback */ }
   }
+  _apiCache.set(name, value);
+  return value;
 }
 
 export interface Vital {
@@ -98,4 +103,14 @@ export interface KnowledgeGraph {
 
 export function getGraph(): KnowledgeGraph {
   return read<KnowledgeGraph>('graph.json', { nodeCount: 0, linkCount: 0, nodes: [], links: [] });
+}
+
+// Visitor analytics (docs/ANALYTICS.md): per-article buckets for human readers,
+// search crawlers and AI crawlers. A bucket is a bare count, or an object with a
+// per-bot breakdown. Read on every article page, so cache it (see `read`).
+export type AnalyticsBucket = number | { total: number; byBot?: Record<string, number> };
+export type Analytics = Record<string, { readers?: AnalyticsBucket; search?: AnalyticsBucket; ai?: AnalyticsBucket }>;
+
+export function getAnalytics(): Analytics {
+  return read<Analytics>('analytics.json', {});
 }

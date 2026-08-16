@@ -9,18 +9,13 @@ import { subcatLabel } from '@/lib/subcategories';
 import { FLOWER_D } from '@/lib/logo';
 import TrustBadge from './TrustBadge.astro';
 import FeedbackBar from './FeedbackBar.astro';
-import { readFileSync } from 'node:fs';
+import { getAnalytics, type AnalyticsBucket } from '@/lib/apidata';
 
 // Visitor analytics (see docs/ANALYTICS.md): three buckets — human readers,
 // search-engine crawlers, AI crawlers — tracked per named bot, summarised here.
-// Absent until an edge-logging layer is wired up → "not tracked yet".
-type Bucket = number | { total: number; byBot?: Record<string, number> };
-let analytics: Record<string, { readers?: number; search?: Bucket; ai?: Bucket }> = {};
-try {
-  analytics = JSON.parse(readFileSync('public/api/analytics.json', 'utf8'));
-} catch {
-  analytics = {};
-}
+// Absent until an edge-logging layer is wired up → "not tracked yet". Parsed
+// once (memoized in apidata) rather than re-read on each of ~3,000 pages.
+const analytics = getAnalytics();
 
 // THE THREE-LAYER ARTICLE.
 //   Layer 1  the 30-second answer      — what AI assistants extract and cite
@@ -77,13 +72,13 @@ const sensitiveLive = sensitive && (d.status === 'published' || d.status === 're
 
 // Visitor buckets for this article, summarised (per-bot detail → hover title).
 const views = analytics[`${d.category}/${d.slug}`] ?? null;
-const bTotal = (x?: Bucket) => (x == null ? null : typeof x === 'object' ? x.total : x);
-const bBreak = (x?: Bucket) =>
+const bTotal = (x?: AnalyticsBucket) => (x == null ? null : typeof x === 'object' ? x.total : x);
+const bBreak = (x?: AnalyticsBucket) =>
   x && typeof x === 'object' && x.byBot
     ? Object.entries(x.byBot).map(([k, n]) => `${k}: ${n.toLocaleString()}`).join(' · ')
     : '';
 const visitorRows = [
-  { label: L('Pembaca', 'Readers', '读者'), x: views?.readers as Bucket | undefined },
+  { label: L('Pembaca', 'Readers', '读者'), x: views?.readers as AnalyticsBucket | undefined },
   { label: L('Enjin carian', 'Search', '搜索引擎'), x: views?.search },
   { label: 'AI', x: views?.ai },
 ];
