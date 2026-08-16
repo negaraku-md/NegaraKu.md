@@ -31,11 +31,31 @@ jobs:
           node-version: 20
           cache: npm
 
+      - name: Cache node_modules
+        id: node-modules
+        uses: actions/cache@v4
+        with:
+          path: node_modules
+          key: node-modules-${{ runner.os }}-node20-${{ hashFiles('package-lock.json') }}
+
       - name: Install dependencies
+        if: steps.node-modules.outputs.cache-hit != 'true'
         run: npm ci
 
       - name: Install fonts for Open Graph images
         run: sudo apt-get update && sudo apt-get install -y fonts-noto-cjk fonts-liberation
+
+      # Restore the per-article Open Graph PNGs so build-og only regenerates the
+      # cards whose content actually changed (see scripts/build-og.mjs). The key
+      # is bumped automatically when the renderer or logo changes, forcing a full
+      # rebuild; otherwise the most recent cache is restored and topped up.
+      - name: Cache Open Graph images
+        uses: actions/cache@v4
+        with:
+          path: public/og
+          key: og-${{ hashFiles('scripts/build-og.mjs', 'scripts/logo-flower.mjs') }}-${{ github.sha }}
+          restore-keys: |
+            og-${{ hashFiles('scripts/build-og.mjs', 'scripts/logo-flower.mjs') }}-
 
       - name: Content health check
         run: |

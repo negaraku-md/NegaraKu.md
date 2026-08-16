@@ -4,7 +4,9 @@
 // NegaraKu.md badge lockup top-right. Uses `sharp` to rasterise SVG → PNG.
 // Non-fatal: if sharp is unavailable it warns, writes the default SVG, and skips.
 
-import { mkdir, writeFile, readFile } from 'node:fs/promises';
+import { mkdir, writeFile, readFile, readdir, unlink } from 'node:fs/promises';
+import { existsSync } from 'node:fs';
+import { createHash } from 'node:crypto';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { FLOWER_D, FLOWER_VB, FLOWER_CX, FLOWER_CY } from './logo-flower.mjs';
@@ -15,6 +17,32 @@ const MANIFEST = path.join(ROOT, 'public', 'api', 'articles.json');
 // "Today" for the overdue-review check. Fixed per build; that is fine for a
 // static site rebuilt on every deploy.
 const NOW = new Date();
+const CACHE_FILE = path.join(OUT_DIR, '.ogcache.json');
+
+// Incremental key for one article card: every field that articleSvg() renders,
+// plus the overdue flag (so a card flips to red on its due date without a global
+// rebuild) and a template version (so a code/logo change regenerates everything).
+const ogHash = (a, overdue, tv) =>
+  createHash('sha256')
+    .update(JSON.stringify([
+      a.lang, a.title, a.summary, a.category,
+      Array.isArray(a.subcategory) ? a.subcategory[0] : null,
+      a.mode, a.sensitivity, a.published, a.reviewed, a.updated, a.reviewDue, overdue, tv,
+    ]))
+    .digest('hex').slice(0, 16);
+
+// All .png files under public/og (for pruning cards of deleted articles).
+async function collectPngs(dir) {
+  const out = [];
+  let entries = [];
+  try { entries = await readdir(dir, { withFileTypes: true }); } catch { return out; }
+  for (const e of entries) {
+    const p = path.join(dir, e.name);
+    if (e.isDirectory()) out.push(...await collectPngs(p));
+    else if (e.name.endsWith('.png')) out.push(p);
+  }
+  return out;
+}
 
 const esc = (s) =>
   String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
@@ -250,19 +278,56 @@ async function main() {
     return;
   }
   const items = manifest.filter((a) => a.lang && a.category && a.slug && a.title);
-  let made = 0;
+
+  // Template version: a change to this renderer or the logo regenerates every card.
+  let tv = '0';
+  try {
+    const h = createHash('sha256');
+    h.update(await readFile(fileURLToPath(import.meta.url)));
+    h.update(await readFile(path.join(path.dirname(fileURLToPath(import.meta.url)), 'logo-flower.mjs')));
+    tv = h.digest('hex').slice(0, 12);
+  } catch { /* fall back to always-regenerate */ }
+
+  // Load the previous incremental cache — but only trust it if the template is
+  // unchanged; otherwise force a full rebuild.
+  let prev = {};
+  try {
+    const c = JSON.parse(await readFile(CACHE_FILE, 'utf8'));
+    if (c && c.version === tv && c.images) prev = c.images;
+  } catch { /* no cache — first run or template changed */ }
+
+  const next = {};
+  const wanted = new Set();
+  let made = 0, cached = 0;
   const CONC = 24;
   for (let i = 0; i < items.length; i += CONC) {
     await Promise.all(
       items.slice(i, i + CONC).map(async (a) => {
-        const dir = path.join(OUT_DIR, a.lang, a.category);
-        await mkdir(dir, { recursive: true });
-        await toPng(articleSvg(a), path.join(dir, `${a.slug}.png`));
+        const key = `${a.lang}/${a.category}/${a.slug}`;
+        wanted.add(key);
+        const overdue = a.reviewDue ? new Date(a.reviewDue) < NOW : false;
+        const hash = ogHash(a, overdue, tv);
+        next[key] = hash;
+        const file = path.join(OUT_DIR, a.lang, a.category, `${a.slug}.png`);
+        if (prev[key] === hash && existsSync(file)) { cached++; return; } // unchanged
+        await mkdir(path.dirname(file), { recursive: true });
+        await toPng(articleSvg(a), file);
         made++;
       }),
     );
   }
-  console.log(`[og] wrote default.png + ${made} per-article cards`);
+
+  // Prune cards for articles that no longer exist (keep the default cards).
+  const keep = new Set(['default', 'en/default', 'zh/default']);
+  let pruned = 0;
+  for (const p of await collectPngs(OUT_DIR)) {
+    const rel = path.relative(OUT_DIR, p).split(path.sep).join('/').replace(/\.png$/, '');
+    if (keep.has(rel) || wanted.has(rel)) continue;
+    try { await unlink(p); pruned++; } catch { /* ignore */ }
+  }
+
+  await writeFile(CACHE_FILE, JSON.stringify({ version: tv, images: next }));
+  console.log(`[og] default cards + ${made} regenerated, ${cached} cached, ${pruned} pruned`);
 }
 
 main().catch((err) => {
