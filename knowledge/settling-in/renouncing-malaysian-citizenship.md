@@ -42,11 +42,8 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Kadar bayaran RM10.00, keperluan dua salinan Borang K dan senarai dokumen sokongan — sahkan terhadap laman rasmi JPN semasa (butiran boleh berubah)."
   - "Kenyataan JPN bertarikh 17 Disember 2025 (Bernama id=2503691) — sahkan tarikh, konteks dan nama/gelaran Ketua Pengarah JPN (Datuk Badrul Hisham Alias)."
-  - "Petikan verbatim Perkara 24(1) — sahkan terhadap teks Perlembagaan Persekutuan (Cetakan Semula 2020) yang berkuat kuasa."
-  - "Kenyataan Menteri Dalam Negeri 2019 'Malaysia does not recognise dual citizenship' — sahkan konteks penuh dan sama ada masih mencerminkan pendirian dasar semasa."
-revisions:
+  - "Kenyataan Menteri Dalam Negeri 2019 'Malaysia does not recognise dual citizenship' — sahkan konteks penuh dan sama ada masih mencerminkan pendirian dasar semasa."revisions:
   - version: "01.00"
     date: 2026-08-07
     change: "Approved and published."

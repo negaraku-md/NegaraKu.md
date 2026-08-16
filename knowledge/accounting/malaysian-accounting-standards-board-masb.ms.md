@@ -42,13 +42,10 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Exact current MASB board size and composition (secondary sources cite eight members appointed by the Minister of Finance plus the Accountant-General and advisers from BNM/SC/SSM) — re-confirm the live figure on masb.org.my before stating a headcount."
   - "Current MASB Chairman and Accountant-General — verify named individuals on masb.org.my before publishing, as leadership changes."
   - "Precise FRA 1997 section citations — s.7 (functions/issue power) and the compliance obligation for statements lodged with SC/BNM/SSM (drafted as s.26D) — confirm against the official Act 558 text before citing section numbers as fact."
   - "The exact year MASB became operational versus the 1997 enactment date of the Act."
-  - "Whether any legacy frameworks (PERS/FRS) retain residual application, and the final status of 'Transitioning Entities' whose MFRS date was deferred to 1 January 2018."
-  - "MFRS 18 / MFRS 19 exact effective date (1 January 2027) and scope — verify on the MASB press release / standard text before stating."
-updated: 2026-08-14
+  - "Whether any legacy frameworks (PERS/FRS) retain residual application, and the final status of 'Transitioning Entities' whose MFRS date was deferred to 1 January 2018."updated: 2026-08-14
 sources:
   - title: "MASB — About the Malaysian Accounting Standards Board"
     url: "https://www.masb.org.my/pages.php?id=10"

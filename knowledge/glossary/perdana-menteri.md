@@ -50,12 +50,13 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Bilangan dan urutan Perdana Menteri antara 2018-2022 (Mahathir, Muhyiddin, Ismail Sabri, Anwar) — tiada sumber yang dipetik menyenaraikan urutan penuh ini; sahkan pada sumber sejarah rasmi sebelum menyatakan angka mutlak."
   - "Status akhir Rang Undang-Undang Perlembagaan Persekutuan (Pindaan) 2026 (had tempoh agregat 10 tahun) — sahkan sama ada telah diluluskan dua pertiga dan diwartakan pada Warta Kerajaan / AGC."
   - "Perincian prosedur pindaan 2026 (subfasal 2A, 4A-4D, tarikh cetak biru 23 Feb 2026, bacaan kedua 2 Mac 2026) hanya berdasarkan teks verbatim PMO; sahkan terhadap teks rang undang-undang rasmi apabila tersedia."
-
 updated: 2026-08-01
 sources:
+  - title: "Senarai Perdana Menteri"
+    url: "https://www.kabinet.gov.my/senarai-perdana-menteri/"
+    publisher: "BKPP, Jabatan Perdana Menteri"
   - title: "Federal Constitution (Reprint 2020) — Articles 39, 40 & 43"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
     publisher: "Attorney General's Chambers of Malaysia (AGC)"

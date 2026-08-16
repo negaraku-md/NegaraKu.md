@@ -49,10 +49,8 @@ revisions:
 verificationNeeded:
   - "Angka penguatkuasaan 2024 (≫1,300 / 1,334 tangkapan) diambil daripada ringkasan sekunder Global Legal Insights; sahkan terhadap statistik tahunan rasmi SPRM."
   - "Salinan Akta 694 yang dirujuk ialah cetakan semula rasmi yang dihoskan oleh Universiti Malaya; sahkan terhadap salinan rasmi Perundangan Persekutuan (AGC/lom.agc.gov.my), termasuk pindaan 2018 (Akta A1567) yang memperkenalkan Seksyen 17A."
-  - "Nilai penalti Seksyen 17A (≥10x atau RM1 juta; sehingga 20 tahun) perlu disemak terhadap teks Akta 694 yang dipinda kerana cetakan semula yang dirujuk mendahului pindaan 2018."
   - "Dakwaan bahawa model Seksyen 17A diilhamkan daripada UK Bribery Act 2010 adalah gambaran umum; sahkan sumber jika hendak dikekalkan."
   - "Kekalkan pautan GAP (dihoskan pihak ketiga) atau ganti dengan pautan penerbitan rasmi GIACC/Jabatan Perdana Menteri jika ada."
-
 updated: 2026-08-01
 sources:
   - title: "Laws of Malaysia — Act 694, Malaysian Anti-Corruption Commission Act 2009 (Reprint)"

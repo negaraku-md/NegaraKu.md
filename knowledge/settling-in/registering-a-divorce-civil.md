@@ -54,8 +54,6 @@ verificationNeeded:
   - "Marriage-tribunal referral form number (cited as Form JPN.KC14) and the non-reconciliation certificate (cited as Form KC29) — attributed to a single secondary source; confirm current form names with JPN."
   - "Number of in-person tribunal sessions and any nominal fees — set administratively by JPN and subject to change; confirm with the relevant JPN office."
   - "Whether the JPN marriage tribunal is, in current practice, the default conciliatory body for a given locality (Section 106(2) allows any body acceptable to both parties)."
-  - "That the section and subsection numbers cited remain current in the latest in-force reprint of Act 164 (verified here against the AGC PDF dated 2006-01-01)."
-
 updated: 2026-08-07
 sources:
   - title: "Law Reform (Marriage and Divorce) Act 1976 (Act 164) — official reprint"

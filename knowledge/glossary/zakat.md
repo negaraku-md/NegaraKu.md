@@ -45,9 +45,7 @@ verificationNeeded:
   - "Angka nisab semasa setiap negeri (contoh dalam artikel: WP RM33,996 untuk 2026 dan Pulau Pinang RM31,000 untuk 2025) — sahkan terus dengan badan zakat negeri kerana angka ini dikemas kini setiap tahun mengikut harga emas."
   - "Konstan syarak nisab = 20 mithqal (85 gram) emas disandarkan pada laman zakat wang simpanan MAINPP; sahkan sama ada takrifan yang sama digunakan bagi setiap jenis zakat harta dan setiap negeri."
   - "Takrifan kuantitatif fakir/miskin (peratusan keperluan asas) mengikut MAIDAM; negeri lain mungkin menggunakan kayu ukur (had kifayah) yang berbeza."
-  - "Kadar dan asas pengiraan zakat fitrah ditetapkan setiap negeri setiap tahun; sahkan kadar semasa negeri berkaitan sebelum digunakan."
-  - "Petikan Bahasa Inggeris Seksyen 6A(3) diambil daripada reproduksi KPMG bagi Akta 53; sahkan terhadap teks warta rasmi Akta Cukai Pendapatan 1967 sebelum diterbitkan."
-revisions:
+  - "Kadar dan asas pengiraan zakat fitrah ditetapkan setiap negeri setiap tahun; sahkan kadar semasa negeri berkaitan sebelum digunakan."revisions:
   - version: "01.00"
     date: 2026-08-01
     change: "Approved and published."
@@ -55,6 +53,9 @@ revisions:
 
 updated: 2026-08-01
 sources:
+  - title: "Income Tax Act 1967 (Act 53) — Laws of Malaysia online reprint as at 1 November 2023"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1822739_BI/ACT%2053%20AS%20AT%201.11.2023%20(REPRINT%20ONLINE%20VERSION)%20FINAL.pdf"
+    publisher: "Jabatan Peguam Negara (Attorney General's Chambers), Laws of Malaysia (lom.agc.gov.my)"
   - title: "Section 6A. Tax rebate (Income Tax Act 1967 - Act 53)"
     url: "https://kpmg.com.my/kpmg/publications/tax/22/a0053s0006a.htm"
     publisher: "KPMG Malaysia"

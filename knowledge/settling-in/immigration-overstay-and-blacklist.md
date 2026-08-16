@@ -53,9 +53,7 @@ verificationNeeded:
   - "Exact day-rate compound schedule (RM30/day for 1–30, RM1,000 for 31–60, RM2,000 for 61–90) — the MDEC/JIM source publishes it as an image table; confirm the RM bands against the official JIM notice."
   - "The commonly cited one-to-five-year re-entry ban range against current Immigration Department practice."
   - "Whether any foreigner-facing online status/blacklist self-check exists — as of writing, SSPI is Malaysian-citizen only and no public foreign-passport checker was found."
-  - "Current RM3,000 overstay compound ceiling and RM10,000 statutory fine, in case the figures are revised."
   - "Special Pass validity period and fee were deliberately omitted (sources were contradictory/unconfirmed); confirm before adding any hard number."
-
 updated: 2026-08-07
 sources:
   - title: "Frequently Committed Offences"

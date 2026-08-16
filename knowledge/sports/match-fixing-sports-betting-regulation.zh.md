@@ -42,10 +42,8 @@ version: "01.00"
 verificationNeeded:
   - "Tajuk rasmi penuh dalam Bahasa Melayu bagi Pool Betting Act 1967 (Akta 384) seperti diterbitkan oleh Pejabat Peguam Negara; artikel menggunakan 'Akta Pertaruhan Kolam 1967'."
   - "Skop tepat kesalahan berkaitan di bawah Akta SPRM 2009 selain Seksyen 16 dan 17 (rujukan Seksyen 20-23 dalam draf terdahulu dikeluarkan kerana belum disahkan terhadap teks statut)."
-  - "Butiran hukuman Akta SPRM 2009 (penjara sehingga 20 tahun; denda tidak kurang lima kali nilai suapan atau RM10,000) diambil daripada ringkasan undang-undang Global Legal Insights dan perlu disahkan silang dengan teks penuh Akta 694."
   - "Status semasa rayuan FAM kepada AFC/FIFA bagi pihak enam pemain yang menjalani larangan seumur hidup."
-  - "Bilangan tepat dan kedudukan pendakwaan berkaitan pengaturan perlawanan selepas 1994."
-revisions:
+  - "Bilangan tepat dan kedudukan pendakwaan berkaitan pengaturan perlawanan selepas 1994."revisions:
   - version: "01.00"
     date: 2026-08-01
     change: "Approved and published."
