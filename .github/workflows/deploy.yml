@@ -3,6 +3,11 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches: [main]
+    # The Visitors snapshot is committed by the accumulate workflow; a change to
+    # it alone must not trigger a full site rebuild (it refreshes on the next
+    # real deploy, which tops it up with the live tail).
+    paths-ignore:
+      - 'analytics/cumulative.json'
   workflow_dispatch:
 
 permissions:

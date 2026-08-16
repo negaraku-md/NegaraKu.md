@@ -1,0 +1,53 @@
+name: Accumulate Visitors snapshot
+
+# Folds the Analytics Engine tail into analytics/cumulative.json before AE's
+# ~90-day retention drops it, so the site can show an all-time visitor count.
+# Runs daily (well inside the retention window) and on demand. Commits the
+# snapshot but does NOT trigger a site deploy — deploy.yml ignores that path;
+# the live count refreshes on the next real deploy (build-analytics tops it up).
+
+on:
+  schedule:
+    - cron: '0 3 * * *' # daily 03:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: accumulate-analytics
+  cancel-in-progress: false
+
+jobs:
+  accumulate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+
+      # The manifest lets the accumulator drop non-article / scanner traffic.
+      - run: npm run sync
+
+      - name: Fold AE tail into the snapshot
+        env:
+          CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+          CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+        run: node scripts/accumulate-analytics.mjs
+
+      - name: Commit the snapshot if it changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet -- analytics/cumulative.json; then
+            git add analytics/cumulative.json
+            git commit -m "chore(analytics): fold visitor snapshot forward [skip deploy]"
+            git push
+          else
+            echo "snapshot unchanged — nothing to commit"
+          fi

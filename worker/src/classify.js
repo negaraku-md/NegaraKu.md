@@ -95,8 +95,13 @@ export function pathKey(pathname) {
   return seg.join('/') || 'home';
 }
 
-// Paths we never count as a "page view": build assets, endpoints, files.
-const SKIP_PATH = /^\/(?:_astro\/|api\/|pagefind\/|_a\b|assets\/|fonts\/|brand\/|og\/)|\.(?:css|m?js|json|xml|txt|png|jpe?g|gif|svg|webp|avif|ico|woff2?|ttf|map|webmanifest|pdf|zip)$/i;
+// Paths we never count as a "page view": build assets, endpoints, files, and
+// the common vulnerability-scanner probes (dot-dirs like /.git, /.env; WordPress
+// and xmlrpc paths) that use browser-like UAs and would otherwise be miscounted
+// as "readers". Real-article filtering at build time is the backstop; this just
+// avoids logging the obvious junk to Analytics Engine in the first place.
+const SKIP_PATH =
+  /^\/(?:_astro\/|api\/|pagefind\/|_a\b|assets\/|fonts\/|brand\/|og\/)|\.(?:css|m?js|json|xml|txt|png|jpe?g|gif|svg|webp|avif|ico|woff2?|ttf|map|webmanifest|pdf|zip)$|\/\.[^/]|(?:^|\/)(?:wp-(?:login|admin|content|includes|json)|xmlrpc\.php)/i;
 
 /** True when a GET for this path represents an HTML page navigation worth counting. */
 export function isPageView(pathname) {

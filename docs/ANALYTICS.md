@@ -44,16 +44,40 @@ now in the repo:
    **Analytics Engine** data point, and passes the request through to GitHub
    Pages unchanged.
 2. **Build step** — `scripts/build-analytics.mjs` (wired into `predev`/`prebuild`)
-   queries the last `ANALYTICS_WINDOW_DAYS` (default 90) from Analytics Engine
-   via its SQL API and writes `public/api/analytics.json`.
+   writes `public/api/analytics.json` as an **all-time** count (see below).
 
 **To go live** (one-time), follow `worker/README.md`: `wrangler deploy`, switch
 the `negaraku.md` DNS records to **Proxied** (orange) with SSL mode **Full**, and
 add repo secrets `CF_ACCOUNT_ID` + `CF_API_TOKEN` (token scope *Account
-Analytics: Read*) exposed to the build. Until then the build step no-ops and the
-site keeps showing **"not tracked yet"** — nothing breaks.
+Analytics: Read*) exposed to the build. Until then the build step serves the
+committed snapshot (or nothing) and the site shows **"not tracked yet"** —
+nothing breaks.
 
-Two honest limits: counting only starts the day the Worker is deployed (no
+## All-time counts beyond the 90-day window
+
+Cloudflare Analytics Engine **retains data points for ~90 days**, then deletes
+them. To keep a count that survives that, the AE data is folded forward into a
+committed snapshot before it ages out:
+
+- **`analytics/cumulative.json`** — all-time totals for every hit up to its
+  `cursor` (an exact UTC timestamp).
+- **`scripts/accumulate-analytics.mjs`** — run daily by
+  `.github/workflows/accumulate-analytics.yml`: queries AE for the untallied
+  tail `(cursor, now-5min]`, adds it to the snapshot, advances the cursor, and
+  commits the file. Daily is well inside the 90-day window, so nothing is lost.
+  The commit is ignored by `deploy.yml` (`paths-ignore`) so it never triggers a
+  full rebuild.
+- **`build-analytics.mjs`** — on every deploy, serves `snapshot + live tail
+  since cursor`, so the displayed number is all-time *and* up to the minute.
+  Precise timestamp bounds mean the tail and the fold never double-count.
+
+**Noise filtering:** only keys present in the article manifest
+(`public/api/articles.json`) are kept, so vulnerability-scanner probes
+(`wp-login.php`, `/.git/config`, `/admin/…`) that slip past the User-Agent bot
+filter are dropped rather than inflating "readers". The Worker also skips those
+probe paths up front (`SKIP_PATH` in `classify.js`).
+
+Honest limits: counting only starts the day the Worker was deployed (no
 backfill), and AI/search classification is only as good as the bot list in
-`worker/src/classify.js`. Human counts can alternatively come from a
-privacy-friendly analytics provider (GoatCounter, Plausible) via their stats API.
+`worker/src/classify.js`. High-volume counts are AE **estimates** (it samples and
+the queries sum `_sample_interval`).
