@@ -19,7 +19,7 @@ keyTakeaways:
   - "Four licensable categories: network facilities (NFP), network services (NSP), application services (ASP) and content application services (CASP)"
   - "Two licence types: individual licence (requires application and approval) and class licence (registration, lighter conditions)"
   - "Spectrum assignments may be valid for up to a maximum of 20 years and may be transferred subject to conditions"
-  - "MCMC leads JENDELA and oversees the single wholesale 5G network of Digital Nasional Berhad"
+  - "MCMC leads JENDELA and oversees Malaysia's dual 5G network (DNB and U Mobile)"
 appliesTo: "Telecommunications operators, broadcasters, application service providers, investors and advisers who need to understand Malaysia's communications licensing and regulatory framework."
 
 faq:
@@ -30,10 +30,10 @@ faq:
   - q: "What is a class licence versus an individual licence?"
     a: "An individual licence requires a formal application, specific eligibility conditions and the Minister's consideration. A class licence operates through registration by notice, has lighter conditions, and is designed for a broader category of operators."
   - q: "Does MCMC regulate Digital Nasional Berhad's 5G network?"
-    a: "Yes. DNB is licensed under the Communications and Multimedia Act 1998 to provide 5G services on a wholesale basis to other licensed operators, and is subject to MCMC's regulatory oversight like any licence holder."
+    a: "Yes. DNB is licensed under the Communications and Multimedia Act 1998 and is subject to MCMC oversight. The single-wholesale-network model has ended: the government decided in 2023 to move to a dual 5G network, and U Mobile was selected as the second network (launched January 2026). MCMC regulates both networks."
 
 lang: "en"
-sourceContentHash: "4f484b1303459aba"
+sourceContentHash: "1ff3d08e3ab648e0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -51,9 +51,11 @@ revisions:
 
 updated: 2026-08-01
 verificationNeeded:
-  - "Status semasa model rangkaian borong tunggal 5G DNB — dasar 5G mungkin telah berubah kepada model dua rangkaian; sahkan struktur pemilikan DNB (MKD) dan rangka rangkaian 5G terkini."
   - "Kata-kata tepat aspirasi nasional JENDELA (gigabit jalur lebar tetap, 100 Mbps mudah alih, liputan 4G 100%) — dipetik daripada portal JENDELA sebagai matlamat jangka panjang, bukan sasaran Fasa 1."
 sources:
+  - title: "U Mobile to lead Malaysia's second 5G network; single-wholesale (DNB) model ended — dual-network from 2024"
+    url: "https://theedgemalaysia.com/node/755009"
+    publisher: "The Edge Malaysia"
   - title: "Malaysian Communications And Multimedia Commission Act 1998 [Act 589]"
     url: "https://www.mcmc.gov.my/en/legal/acts/malaysian-communications-and-multimedia-commission"
     publisher: "MCMC / SKMM"
@@ -130,7 +132,7 @@ Beyond licensing, MCMC leads the national connectivity agenda. **JENDELA (Jalina
 
 Phase 1 (2020–2022) targeted 4G coverage rising from 91.8% to 96.9%, mobile broadband speeds from 25 Mbps to 35 Mbps, and gigabit fixed broadband access to 83% of premises nationwide. The JENDELA portal also lists long-term national aspirations — gigabit access for fixed broadband, 100 Mbps mobile broadband, and 100% 4G coverage. Phase 2 focuses on 5G rollout once the 4G platform is solid, in line with the Twelfth Malaysia Plan (RMK-12).
 
-For 5G, the government directed **Digital Nasional Berhad (DNB)** to build a single wholesale network. DNB is wholly owned by the Minister of Finance (Incorporated), acts as a neutral infrastructure provider, and is licensed under the Communications and Multimedia Act 1998 to supply 5G coverage on a wholesale basis to licensed telecommunications operators. This means DNB, like any licence holder, comes under MCMC's regulatory oversight.
+For 5G, the government initially directed **Digital Nasional Berhad (DNB)** to build a single wholesale network, licensed under the Communications and Multimedia Act 1998 to supply 5G coverage on a wholesale basis. In May 2023, however, the government decided to move to a **dual 5G network**: MCMC selected **U Mobile** as the second network operator (November 2024), which launched services in January 2026. DNB is no longer wholly owned by the Minister of Finance (Incorporated) — after U Mobile's exit, its equity is held by CelcomDigi, Maxis, YTL Power and MOF Inc. Both DNB and U Mobile operate as licensed telecommunications providers under MCMC's regulatory oversight.
 
 ## What next
 

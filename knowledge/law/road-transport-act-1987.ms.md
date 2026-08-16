@@ -29,7 +29,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "753554e9c7cc5cd0"
+sourceContentHash: "e438c79ab71a1dba"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -42,8 +42,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Exact Section 26(1) penalty for driving without a valid licence — aggregators quote 'fine not exceeding RM1,000 or imprisonment not exceeding 3 months or both,' but other sources quote RM300-RM2,000. Confirm against the lom.agc.gov.my Act 333 reprint before stating a figure."
-  - "Exact Section 90 penalty for using a vehicle without third-party insurance — secondary sources disagree (RM1,000/3 months vs RM2,000/3 years); verify against the statute."
   - "Full exact wording of the DUI prescribed limits (s.45G) and the tiered penalties under s.44/45/45A — reconcile paultan reporting with the amendment's gazetted text."
   - "Whether the further June 2026 traffic-penalty reform has been enacted and gazetted — keep this page to law currently in force and treat any proposed increases separately."
   - "Complete authoritative list and citation numbers of all amending Acts — confirm via the AGC 'Amendments' listing for Act 333."
@@ -103,10 +101,11 @@ Bahagian V mentakrifkan kesalahan trafik teras. **Akta Pengangkutan Jalan (Pinda
 
 | Seksyen | Kesalahan | Penalti (kesalahan pertama, seperti dipinda) |
 |---------|---------|--------------------------------------|
-| s.26(1) | Memandu tanpa lesen yang sah | Dilarang (penalti menunggu pengesahan) |
+| s.26(1) | Memandu tanpa lesen yang sah | Denda RM300–RM2,000 atau penjara sehingga 3 bulan, atau kedua-duanya (penalti di bawah s.26(2)) |
 | s.41 | Menyebabkan kematian akibat memandu secara melulu atau berbahaya | Denda RM20,000-RM50,000 dan/atau penjara 5-10 tahun |
 | s.42 | Memandu secara melulu dan berbahaya | Denda sehingga RM5,000-RM10,000 dan penjara sehingga 5 tahun; hilang kelayakan dinaikkan kepada 5 tahun |
 | s.44 | Menyebabkan kematian atau kecederaan serius semasa di bawah pengaruh | Denda RM50,000-RM100,000 dan/atau penjara sehingga 15 tahun |
+| s.90 | Menggunakan kenderaan tanpa insurans pihak ketiga | Denda sehingga RM1,000 atau penjara sehingga 3 bulan, atau kedua-duanya, serta hilang kelayakan (s.90(2)) |
 
 Bagi seksyen 41, jaluran kesalahan pertama itu ialah kenaikan mendadak berbanding denda RM5,000-RM20,000 dan penjara 2-10 tahun sebelum ini; kesalahan berikutnya kini membawa RM50,000-RM100,000 dan penjara sehingga 15 tahun. Kesalahan berikutnya di bawah seksyen 44 mencecah penjara 15-20 tahun dan denda sehingga RM150,000.
 
@@ -116,4 +115,4 @@ Pindaan 2020 menurunkan had alkohol yang ditetapkan kepada piawaian Pertubuhan K
 
 ## Apa seterusnya
 
-Sebelum bergantung pada mana-mana nombor seksyen, denda, atau penalti insurans wajib yang tepat dalam suatu perkara undang-undang, semak cetakan semula Act 333 yang berwibawa daripada Jabatan Peguam Negara (AGC/LOM) dan portal rasmi JPJ untuk kelas lesen dan peraturan penguatkuasaan semasa. Beberapa angka tepat pada halaman ini — termasuk penalti seksyen 26(1) dan seksyen 90 — masih ditandakan untuk pengesahan terhadap teks statut utama.
+Sebelum bergantung pada mana-mana nombor seksyen, denda, atau penalti insurans wajib yang tepat dalam suatu perkara undang-undang, semak cetakan semula Act 333 yang berwibawa daripada Jabatan Peguam Negara (AGC/LOM) dan portal rasmi JPJ untuk kelas lesen dan peraturan penguatkuasaan semasa.

@@ -19,7 +19,7 @@ keyTakeaways:
   - "Incentive-Based Regulation (IBR), in force since 2014, splits the tariff into a base tariff fixed for a regulatory period and an Imbalance Cost Pass-Through (ICPT) reviewed every six months to track fuel costs."
   - "MESI 2.0 — a 10-year master plan approved by Cabinet in September 2019 — set out to open fuel procurement, generation, transmission, distribution and retail to competition and to introduce third-party grid access."
   - "In 2020 the government said MESI 2.0 should be reviewed, citing a financial implication of about RM5 billion plus RM60–80 billion of power-purchase obligations the government would have had to assume."
-  - "CRESS, launched in September 2024, is the first operational third-party grid access framework, letting renewable developers sell green electricity directly to eligible corporate consumers for a system access charge of 25 sen/kWh (firm) or 45 sen/kWh (non-firm)."
+  - "CRESS, launched in September 2024, is the first operational third-party grid access framework, letting renewable developers sell green electricity directly to eligible corporate consumers for a system access charge of 20 sen/kWh (firm) or 40 sen/kWh (non-firm) under the RP4 tariff from 1 July 2025 (25/45 sen at the 2024 launch)."
 
 appliesTo: "Energy analysts, investors, corporate power buyers, students and policymakers tracking Peninsular Malaysia's electricity market structure and liberalisation."
 
@@ -31,7 +31,7 @@ faq:
   - q: "What is third-party access (TPA) to the grid?"
     a: "Third-party access lets a generator use the transmission and distribution network — which TNB owns — to sell electricity directly to a buyer, paying a regulated access or 'wheeling' charge for the use of the wires. It is the mechanism that makes retail competition possible. In Malaysia the first live TPA framework is CRESS, launched in September 2024 for renewable electricity."
   - q: "What is CRESS?"
-    a: "The Corporate Renewable Energy Supply Scheme, announced on 26 July 2024 and launched in September 2024, is Malaysia's first working third-party access framework. It lets renewable-energy developers sell green electricity directly to eligible commercial and industrial consumers over the grid, for a system access charge set by the Energy Commission — 25 sen/kWh for firm supply and 45 sen/kWh for non-firm (intermittent) supply."
+    a: "The Corporate Renewable Energy Supply Scheme, announced on 26 July 2024 and launched in September 2024, is Malaysia's first working third-party access framework. It lets renewable-energy developers sell green electricity directly to eligible commercial and industrial consumers over the grid, for a system access charge set by the Energy Commission — 20 sen/kWh for firm supply and 40 sen/kWh for non-firm (intermittent) supply, under the RP4 tariff from 1 July 2025 (25/45 sen at the 2024 launch)."
   - q: "Why was MESI 2.0 slowed down?"
     a: "In 2020 the then Minister of Energy and Natural Resources, Datuk Dr Shamsul Anuar Nasarah, told Parliament the plan should be reviewed because of its cost — a financial implication of about RM5 billion to the government, plus power-purchase obligations of RM60–80 billion the government would have needed to assume. Reform has since continued in smaller, targeted steps rather than a single big-bang liberalisation."
 
@@ -48,7 +48,6 @@ version: "01.00"
 verificationNeeded:
   - "Exact establishment year of the ring-fenced Single Buyer (widely reported as 2012) — could not be confirmed against the Single Buyer's own site or the Energy Commission; the specific year has been removed pending a primary source."
   - "Exact date of Minister Shamsul Anuar Nasarah's parliamentary statement recommending a MESI 2.0 review — appears to be 21 July 2020 (a Tuesday during his KeTSA tenure), but The Edge article renders a dynamic date, so the byline could not be cleanly read; year retained as 2020."
-  - "CRESS System Access Charge figures (25 sen/kWh firm; 45 sen/kWh non-firm) are sourced to Fulcrum/ISEAS; confirm against the Energy Commission's official CRESS guidelines."
   - "Formal establishment date and precise legal/organisational status of the Grid System Operator as a ring-fenced TNB unit — entity existence confirmed via its official site, but founding date is not documented in the cited sources."
 revisions:
   - version: "01.00"
@@ -58,6 +57,9 @@ revisions:
 
 updated: 2026-08-01
 sources:
+  - title: "Revised CRESS System Access Charge, effective 1 July 2025 — 20 sen/kWh (firm), 40 sen/kWh (non-firm), down from 25/45 (PETRA / Energy Commission)"
+    url: "https://www.thevibes.com/articles/news/112137/green-electricity-access-charges-cut-by-40-per-cent-to-spur-corporate-uptake"
+    publisher: "The Vibes (reporting PETRA / Suruhanjaya Tenaga)"
   - title: "RAM Ratings: MESI 2.0 has no credit implications on Peninsular Malaysia's power sector"
     url: "https://www.ram.com.my/pressrelease/?prviewid=5104"
     publisher: "RAM Rating Services"
@@ -153,8 +155,8 @@ The price of using the wires is a **System Access Charge (SAC)** set by the Ener
 
 | Supply type | System Access Charge |
 | --- | --- |
-| Firm (e.g. solar paired with storage) | 25 sen/kWh |
-| Non-firm (intermittent) | 45 sen/kWh |
+| Firm (e.g. solar paired with storage) | 20 sen/kWh (RP4, from 1 Jul 2025; 25 sen at 2024 launch) |
+| Non-firm (intermittent) | 40 sen/kWh (RP4; 45 sen at launch) |
 
 The roles map cleanly onto the MESI structure: the Energy Commission regulates, the Single Buyer and Grid System Operator handle market and system operations, and TNB continues to own the grid and physically deliver the power.
 

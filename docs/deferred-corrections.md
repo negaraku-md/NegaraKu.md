@@ -1,5 +1,10 @@
 # Deferred verification corrections — ready to apply
 
+> **STATUS (2026-08-16): all 7 applied.** #1 POCA, #2 road-transport, #3 MESI, #4 MCMC,
+> #5 judicial, #6 sport, #7 UNESCO have been corrected across all language variants
+> (js-yaml + validate + strict-health clean; translations re-stamped). This document is
+> retained as the audit trail of what was changed and why.
+
 Seven adversarially-confirmed corrections from the multi-agent verification sweep that were
 **deliberately not auto-applied** because they change published prose with legal/editorial
 judgment. Each entry gives the file(s), the exact before → after per language, the authoritative

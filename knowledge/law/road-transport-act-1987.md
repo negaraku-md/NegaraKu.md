@@ -41,8 +41,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Exact Section 26(1) penalty for driving without a valid licence — aggregators quote 'fine not exceeding RM1,000 or imprisonment not exceeding 3 months or both,' but other sources quote RM300-RM2,000. Confirm against the lom.agc.gov.my Act 333 reprint before stating a figure."
-  - "Exact Section 90 penalty for using a vehicle without third-party insurance — secondary sources disagree (RM1,000/3 months vs RM2,000/3 years); verify against the statute."
   - "Full exact wording of the DUI prescribed limits (s.45G) and the tiered penalties under s.44/45/45A — reconcile paultan reporting with the amendment's gazetted text."
   - "Whether the further June 2026 traffic-penalty reform has been enacted and gazetted — keep this page to law currently in force and treat any proposed increases separately."
   - "Complete authoritative list and citation numbers of all amending Acts — confirm via the AGC 'Amendments' listing for Act 333."
@@ -102,10 +100,11 @@ Part V defines the core traffic offences. The **Road Transport (Amendment) Act 2
 
 | Section | Offence | Penalty (first offence, as amended) |
 |---------|---------|--------------------------------------|
-| s.26(1) | Driving without a valid licence | Prohibited (penalty pending verification) |
+| s.26(1) | Driving without a valid licence | Fine RM300–RM2,000 or up to 3 months' jail, or both (penalty under s.26(2)) |
 | s.41 | Causing death by reckless or dangerous driving | RM20,000-RM50,000 fine and/or 5-10 years' jail |
 | s.42 | Reckless and dangerous driving | Up to RM5,000-RM10,000 fine and up to 5 years' jail; disqualification raised to 5 years |
 | s.44 | Causing death or serious injury while under the influence | RM50,000-RM100,000 fine and/or up to 15 years' jail |
+| s.90 | Using a vehicle without third-party insurance | Fine up to RM1,000 or up to 3 months' jail, or both, plus disqualification (s.90(2)) |
 
 For section 41, that first-offence band is a sharp rise from the previous RM5,000-RM20,000 fine and 2-10 years' jail; a subsequent offence now carries RM50,000-RM100,000 and up to 15 years. Section 44's subsequent offences run to 15-20 years' jail and a fine up to RM150,000.
 
@@ -115,4 +114,4 @@ The 2020 amendment lowered the prescribed alcohol limits to World Health Organiz
 
 ## What's next
 
-Before relying on any exact section number, fine, or the compulsory-insurance penalty in a legal matter, check the authoritative Attorney General's Chambers (AGC/LOM) reprint of Act 333 and JPJ's official portal for the current licence classes and enforcement rules. Several precise figures on this page — including the section 26(1) and section 90 penalties — remain flagged for verification against the primary statute text.
+Before relying on any exact section number, fine, or the compulsory-insurance penalty in a legal matter, check the authoritative Attorney General's Chambers (AGC/LOM) reprint of Act 333 and JPJ's official portal for the current licence classes and enforcement rules.

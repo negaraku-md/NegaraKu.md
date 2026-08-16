@@ -19,7 +19,7 @@ keyTakeaways:
   - "四大可发牌类别：网络设施提供者（NFP）、网络服务（NSP）、应用服务（ASP）与内容应用服务（CASP）"
   - "两种牌照类型：个别牌照（须提出申请并获批准）与类别牌照（登记制，条件较宽松）"
   - "频谱分配的有效期最长可达 20 年，并可在符合条件下转让"
-  - "MCMC 主导 JENDELA，并监管国家数字有限公司（Digital Nasional Berhad）的单一批发网络"
+  - "MCMC 主导 JENDELA，并监管马来西亚的双 5G 网络（DNB 与 U Mobile）"
 appliesTo: "电信运营商、广播机构、应用服务提供者，以及需要了解马来西亚通讯发牌与监管框架的投资者与顾问。"
 
 faq:
@@ -30,10 +30,10 @@ faq:
   - q: "类别牌照与个别牌照有何不同？"
     a: "个别牌照须提出正式申请、满足特定资格条件并经部长审议。类别牌照则通过登记加通知的方式运作，条件较为宽松，专为更广泛的运营商类别而设。"
   - q: "MCMC 是否监管国家数字有限公司（Digital Nasional Berhad）？"
-    a: "是的。DNB 依据《1998 年通讯及多媒体法令》获发牌照，向其他持牌运营商批发提供 5G 服务，并如同任何持牌人一样受 MCMC 的监管监督。"
+    a: "是的。DNB 依据《1998 年通讯及多媒体法令》获发牌照，并受 MCMC 监管。单一批发网络模式已经结束：政府于 2023 年决定转向双网络模式，U Mobile 获选为第二个 5G 网络（于 2026 年 1 月投入服务）。MCMC 对两个网络均进行监管。"
 
 lang: "zh"
-sourceContentHash: "4f484b1303459aba"
+sourceContentHash: "1ff3d08e3ab648e0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -51,9 +51,11 @@ revisions:
 
 updated: 2026-08-01
 verificationNeeded:
-  - "Status semasa model rangkaian borong tunggal 5G DNB — dasar 5G mungkin telah berubah kepada model dua rangkaian; sahkan struktur pemilikan DNB (MKD) dan rangka rangkaian 5G terkini."
   - "Kata-kata tepat aspirasi nasional JENDELA (gigabit jalur lebar tetap, 100 Mbps mudah alih, liputan 4G 100%) — dipetik daripada portal JENDELA sebagai matlamat jangka panjang, bukan sasaran Fasa 1."
 sources:
+  - title: "U Mobile to lead Malaysia's second 5G network; single-wholesale (DNB) model ended — dual-network from 2024"
+    url: "https://theedgemalaysia.com/node/755009"
+    publisher: "The Edge Malaysia"
   - title: "Malaysian Communications And Multimedia Commission Act 1998 [Act 589]"
     url: "https://www.mcmc.gov.my/en/legal/acts/malaysian-communications-and-multimedia-commission"
     publisher: "MCMC / SKMM"
@@ -130,7 +132,7 @@ keywords: ["MCMC", "SKMM", "Akta Komunikasi dan Multimedia 1998", "Akta 588", "A
 
 第一阶段（2020–2022）以将 4G 覆盖率从 91.8% 提升至 96.9%、移动宽带速度从 25 Mbps 提升至 35 Mbps，以及让全国 83% 的处所享有千兆固定宽带接入为目标。JENDELA 门户网站也列出了长期的国家愿景——固定宽带千兆接入、移动宽带 100 Mbps，以及 4G 覆盖率 100%。第二阶段在 4G 平台稳固之后，聚焦于 5G 的部署，与第十二大马计划（RMK-12）保持一致。
 
-在 5G 方面，政府指示 **国家数字有限公司（Digital Nasional Berhad，DNB）** 建设单一批发网络（*single wholesale network*）。DNB 由财政部（公司化）全资拥有，作为中立的基础设施提供者，并依据《1998 年通讯及多媒体法令》获发牌照，向持牌电信运营商批发供应 5G 覆盖。这意味着 DNB 如同任何持牌人一样，处于 MCMC 的监管监督之下。
+在 5G 方面，政府最初指示 **国家数字有限公司（Digital Nasional Berhad，DNB）** 建设单一批发网络（*single wholesale network*），依据《1998 年通讯及多媒体法令》获发牌照批发供应 5G 覆盖。但政府于 2023 年 5 月决定转向**双 5G 网络**模式：MCMC 选定 **U Mobile** 为第二网络运营商（2024 年 11 月），并于 2026 年 1 月投入服务。DNB 不再由财政部（公司化）全资拥有——U Mobile 退出后，其股权由 CelcomDigi、Maxis、YTL Power 与 MOF Inc 持有。DNB 与 U Mobile 均作为持牌电信提供者，处于 MCMC 的监管监督之下。
 
 ## 接下来该怎么做
 

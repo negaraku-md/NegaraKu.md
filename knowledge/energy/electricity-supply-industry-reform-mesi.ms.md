@@ -19,7 +19,7 @@ keyTakeaways:
   - "Peraturan Berasaskan Insentif (Incentive-Based Regulation, IBR), berkuat kuasa sejak 2014, membahagikan tarif kepada tarif asas yang ditetapkan bagi satu tempoh kawal selia dan Pindah Alih Kos Ketakseimbangan (Imbalance Cost Pass-Through, ICPT) yang disemak setiap enam bulan untuk menjejaki kos bahan api."
   - "MESI 2.0 — sebuah pelan induk 10 tahun yang diluluskan oleh Kabinet pada September 2019 — menetapkan matlamat untuk membuka perolehan bahan api, penjanaan, penghantaran, pengagihan dan runcit kepada persaingan serta memperkenalkan akses grid pihak ketiga."
   - "Pada 2020 kerajaan menyatakan MESI 2.0 patut disemak semula, memetik implikasi kewangan kira-kira RM5 bilion ditambah obligasi belian kuasa RM60–80 bilion yang terpaksa ditanggung oleh kerajaan."
-  - "CRESS, dilancarkan pada September 2024, ialah rangka kerja akses grid pihak ketiga yang pertama beroperasi, membolehkan pemaju tenaga boleh diperbaharui menjual elektrik hijau terus kepada pengguna korporat yang layak dengan caj akses sistem 25 sen/kWj (tegar/firm) atau 45 sen/kWj (tak tegar/non-firm)."
+  - "CRESS, dilancarkan pada September 2024, ialah rangka kerja akses grid pihak ketiga yang pertama beroperasi, membolehkan pemaju tenaga boleh diperbaharui menjual elektrik hijau terus kepada pengguna korporat yang layak dengan caj akses sistem 20 sen/kWj (tegar/firm) atau 40 sen/kWj (tak tegar/non-firm) di bawah tarif RP4 mulai 1 Julai 2025 (25/45 sen semasa pelancaran 2024)."
 
 appliesTo: "Penganalisis tenaga, pelabur, pembeli kuasa korporat, pelajar dan penggubal dasar yang menjejaki struktur pasaran elektrik dan liberalisasi Semenanjung Malaysia."
 
@@ -31,12 +31,12 @@ faq:
   - q: "Apakah akses pihak ketiga (third-party access, TPA) kepada grid?"
     a: "Akses pihak ketiga membolehkan penjana menggunakan rangkaian penghantaran dan pengagihan — yang dimiliki oleh TNB — untuk menjual elektrik terus kepada pembeli, dengan membayar caj akses atau 'wheeling' yang dikawal selia bagi penggunaan wayar. Ia mekanisme yang menjadikan persaingan runcit mungkin. Di Malaysia, rangka kerja TPA langsung yang pertama ialah CRESS, dilancarkan pada September 2024 untuk elektrik boleh diperbaharui."
   - q: "Apakah CRESS?"
-    a: "Skim Bekalan Tenaga Boleh Diperbaharui Korporat (Corporate Renewable Energy Supply Scheme), diumumkan pada 26 Julai 2024 dan dilancarkan pada September 2024, ialah rangka kerja akses pihak ketiga pertama yang berfungsi di Malaysia. Ia membolehkan pemaju tenaga boleh diperbaharui menjual elektrik hijau terus kepada pengguna komersial dan industri yang layak melalui grid, dengan caj akses sistem yang ditetapkan oleh Suruhanjaya Tenaga — 25 sen/kWj untuk bekalan tegar (firm) dan 45 sen/kWj untuk bekalan tak tegar (non-firm/terputus-putus)."
+    a: "Skim Bekalan Tenaga Boleh Diperbaharui Korporat (Corporate Renewable Energy Supply Scheme), diumumkan pada 26 Julai 2024 dan dilancarkan pada September 2024, ialah rangka kerja akses pihak ketiga pertama yang berfungsi di Malaysia. Ia membolehkan pemaju tenaga boleh diperbaharui menjual elektrik hijau terus kepada pengguna komersial dan industri yang layak melalui grid, dengan caj akses sistem yang ditetapkan oleh Suruhanjaya Tenaga — 20 sen/kWj untuk bekalan tegar (firm) dan 40 sen/kWj untuk bekalan tak tegar (non-firm/terputus-putus), di bawah tarif RP4 mulai 1 Julai 2025 (25/45 sen semasa pelancaran 2024)."
   - q: "Mengapakah MESI 2.0 diperlahankan?"
     a: "Pada 2020, Menteri Tenaga dan Sumber Asli ketika itu, Datuk Dr Shamsul Anuar Nasarah, memberitahu Parlimen bahawa pelan itu patut disemak semula kerana kosnya — implikasi kewangan kira-kira RM5 bilion kepada kerajaan, ditambah obligasi belian kuasa RM60–80 bilion yang terpaksa ditanggung oleh kerajaan. Reformasi sejak itu diteruskan dalam langkah-langkah yang lebih kecil dan bersasar dan bukannya satu liberalisasi besar-besaran sekali gus."
 
 lang: "ms"
-sourceContentHash: "a17570bafa5ec508"
+sourceContentHash: "5e135be7df9c9a11"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -49,7 +49,6 @@ version: "01.00"
 verificationNeeded:
   - "Exact establishment year of the ring-fenced Single Buyer (widely reported as 2012) — could not be confirmed against the Single Buyer's own site or the Energy Commission; the specific year has been removed pending a primary source."
   - "Exact date of Minister Shamsul Anuar Nasarah's parliamentary statement recommending a MESI 2.0 review — appears to be 21 July 2020 (a Tuesday during his KeTSA tenure), but The Edge article renders a dynamic date, so the byline could not be cleanly read; year retained as 2020."
-  - "CRESS System Access Charge figures (25 sen/kWh firm; 45 sen/kWh non-firm) are sourced to Fulcrum/ISEAS; confirm against the Energy Commission's official CRESS guidelines."
   - "Formal establishment date and precise legal/organisational status of the Grid System Operator as a ring-fenced TNB unit — entity existence confirmed via its official site, but founding date is not documented in the cited sources."
 revisions:
   - version: "01.00"
@@ -59,6 +58,9 @@ revisions:
 
 updated: 2026-08-01
 sources:
+  - title: "Revised CRESS System Access Charge, effective 1 July 2025 — 20 sen/kWh (firm), 40 sen/kWh (non-firm), down from 25/45 (PETRA / Energy Commission)"
+    url: "https://www.thevibes.com/articles/news/112137/green-electricity-access-charges-cut-by-40-per-cent-to-spur-corporate-uptake"
+    publisher: "The Vibes (reporting PETRA / Suruhanjaya Tenaga)"
   - title: "RAM Ratings: MESI 2.0 has no credit implications on Peninsular Malaysia's power sector"
     url: "https://www.ram.com.my/pressrelease/?prviewid=5104"
     publisher: "RAM Rating Services"
@@ -154,8 +156,8 @@ Harga penggunaan wayar ialah **Caj Akses Sistem (System Access Charge, SAC)** ya
 
 | Jenis bekalan | Caj Akses Sistem |
 | --- | --- |
-| Tegar (contohnya solar dipadankan dengan storan) | 25 sen/kWj |
-| Tak tegar (terputus-putus) | 45 sen/kWj |
+| Tegar (contohnya solar dipadankan dengan storan) | 20 sen/kWj (RP4, mulai 1 Jul 2025; 25 sen semasa pelancaran) |
+| Tak tegar (terputus-putus) | 40 sen/kWj (RP4; 45 sen semasa pelancaran) |
 
 Peranan-peranan itu terpeta dengan kemas kepada struktur MESI: Suruhanjaya Tenaga mengawal selia, Pembeli Tunggal dan Operator Sistem Grid mengendalikan operasi pasaran dan sistem, dan TNB terus memiliki grid serta menyampaikan kuasa secara fizikal.
 

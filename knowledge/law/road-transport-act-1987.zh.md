@@ -29,7 +29,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "753554e9c7cc5cd0"
+sourceContentHash: "e438c79ab71a1dba"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -42,8 +42,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Exact Section 26(1) penalty for driving without a valid licence — aggregators quote 'fine not exceeding RM1,000 or imprisonment not exceeding 3 months or both,' but other sources quote RM300-RM2,000. Confirm against the lom.agc.gov.my Act 333 reprint before stating a figure."
-  - "Exact Section 90 penalty for using a vehicle without third-party insurance — secondary sources disagree (RM1,000/3 months vs RM2,000/3 years); verify against the statute."
   - "Full exact wording of the DUI prescribed limits (s.45G) and the tiered penalties under s.44/45/45A — reconcile paultan reporting with the amendment's gazetted text."
   - "Whether the further June 2026 traffic-penalty reform has been enacted and gazetted — keep this page to law currently in force and treat any proposed increases separately."
   - "Complete authoritative list and citation numbers of all amending Acts — confirm via the AGC 'Amendments' listing for Act 333."
@@ -103,10 +101,11 @@ Act 333分为五个主要部分（另有两个插入的子部分），据报由1
 
 | 条文 | 罪行 | 刑罚（首次犯罪，修订后） |
 |---------|---------|--------------------------------------|
-| 第26(1)条 | 无有效执照驾驶 | 禁止（刑罚待核实） |
+| 第26(1)条 | 无有效执照驾驶 | 罚款 RM300–RM2,000 或监禁不超过 3 个月，或两者兼施（刑罚见第26(2)条） |
 | 第41条 | 因莽撞或危险驾驶致死 | RM20,000至RM50,000罚款及/或5至10年监禁 |
 | 第42条 | 莽撞与危险驾驶 | 最高RM5,000至RM10,000罚款及最高5年监禁；吊销执照期限提高至5年 |
 | 第44条 | 在受影响下驾驶致死或造成严重伤害 | RM50,000至RM100,000罚款及/或最高15年监禁 |
+| 第90条 | 使用无第三方保险的车辆 | 罚款不超过 RM1,000 或监禁不超过 3 个月，或两者兼施，并取消驾驶资格（第90(2)条） |
 
 就第41条而言，这一首次犯罪的刑罚区间，较之前的RM5,000至RM20,000罚款和2至10年监禁大幅提高；再次犯罪如今可判处RM50,000至RM100,000及最高15年监禁。第44条的再次犯罪则可判处15至20年监禁及最高RM150,000罚款。
 
@@ -116,4 +115,4 @@ Act 333分为五个主要部分（另有两个插入的子部分），据报由1
 
 ## 下一步
 
-在任何法律事务中依据本页面所列的确切条文号、罚款金额或强制保险刑罚之前，请查阅总检察署（AGC/LOM）关于Act 333的权威重印版本，以及JPJ官方门户网站上现行的执照等级与执法规则。本页面若干精确数字——包括第26(1)条和第90条的刑罚——仍标记为待对照主要法规文本核实。
+在任何法律事务中依据本页面所列的确切条文号、罚款金额或强制保险刑罚之前，请查阅总检察署（AGC/LOM）关于Act 333的权威重印版本，以及JPJ官方门户网站上现行的执照等级与执法规则。

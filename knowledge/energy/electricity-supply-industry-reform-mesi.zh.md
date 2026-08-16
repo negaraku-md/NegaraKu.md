@@ -19,7 +19,7 @@ keyTakeaways:
   - "自 2014 年起实施的基于激励的监管（IBR），把电价拆分为在一个监管周期内固定的基准电价，以及每六个月检讨一次、用以追踪燃料成本的失衡成本转嫁机制（ICPT）。"
   - "MESI 2.0——一份于 2019 年 9 月获内阁批准的十年总体规划——提出要把燃料采购、发电、输电、配电与零售向竞争开放，并引入第三方电网准入。"
   - "2020 年，政府表示 MESI 2.0 应予检讨，理由是其财务影响约达 50 亿令吉，外加政府本需承接的 600 亿至 800 亿令吉购电义务。"
-  - "2024 年 9 月推出的 CRESS，是首个投入运作的第三方电网准入框架，允许可再生能源开发商以系统准入费——稳定供应（firm）每千瓦时 25 仙、非稳定供应（non-firm）每千瓦时 45 仙——直接向符合条件的企业用户出售绿色电力。"
+  - "2024 年 9 月推出的 CRESS，是首个投入运作的第三方电网准入框架，允许可再生能源开发商以系统准入费——稳定供应（firm）每千瓦时 20 仙、非稳定供应（non-firm）每千瓦时 40 仙（依 RP4 电价自 2025 年 7 月 1 日起；2024 年推出时为 25／45 仙）——直接向符合条件的企业用户出售绿色电力。"
 
 appliesTo: "关注半岛马来西亚电力市场结构与自由化进程的能源分析师、投资者、企业购电方、学生与政策制定者。"
 
@@ -31,12 +31,12 @@ faq:
   - q: "什么是电网的第三方准入（TPA）？"
     a: "第三方准入让发电商能够使用由 TNB 拥有的输配电网络，直接向买家出售电力，并为使用这些线路支付受监管的准入费或“过网”（wheeling）费。它是使零售竞争成为可能的机制。在马来西亚，首个落地运作的 TPA 框架是 2024 年 9 月为可再生电力推出的 CRESS。"
   - q: "什么是 CRESS？"
-    a: "企业可再生能源供应计划（Corporate Renewable Energy Supply Scheme）于 2024 年 7 月 26 日公布、9 月推出，是马来西亚首个投入运作的第三方准入框架。它允许可再生能源开发商通过电网直接向符合条件的商业与工业用户出售绿色电力，按能源委员会设定的系统准入费收费——稳定供应每千瓦时 25 仙，非稳定（间歇性）供应每千瓦时 45 仙。"
+    a: "企业可再生能源供应计划（Corporate Renewable Energy Supply Scheme）于 2024 年 7 月 26 日公布、9 月推出，是马来西亚首个投入运作的第三方准入框架。它允许可再生能源开发商通过电网直接向符合条件的商业与工业用户出售绿色电力，按能源委员会设定的系统准入费收费——稳定供应每千瓦时 20 仙，非稳定（间歇性）供应每千瓦时 40 仙（依 RP4 电价自 2025 年 7 月 1 日起；2024 年推出时为 25／45 仙）。"
   - q: "MESI 2.0 为什么被放缓？"
     a: "2020 年，时任能源与天然资源部长拿督沙姆苏安努亚纳沙拉（Datuk Dr Shamsul Anuar Nasarah）在国会表示，该规划应予检讨，原因在于其成本——对政府约 50 亿令吉的财务影响，外加政府本需承接的 600 亿至 800 亿令吉购电义务。此后，改革以更小、更有针对性的步伐推进，而非一次性的大爆炸式自由化。"
 
 lang: "zh"
-sourceContentHash: "a17570bafa5ec508"
+sourceContentHash: "5e135be7df9c9a11"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -49,7 +49,6 @@ version: "01.00"
 verificationNeeded:
   - "Exact establishment year of the ring-fenced Single Buyer (widely reported as 2012) — could not be confirmed against the Single Buyer's own site or the Energy Commission; the specific year has been removed pending a primary source."
   - "Exact date of Minister Shamsul Anuar Nasarah's parliamentary statement recommending a MESI 2.0 review — appears to be 21 July 2020 (a Tuesday during his KeTSA tenure), but The Edge article renders a dynamic date, so the byline could not be cleanly read; year retained as 2020."
-  - "CRESS System Access Charge figures (25 sen/kWh firm; 45 sen/kWh non-firm) are sourced to Fulcrum/ISEAS; confirm against the Energy Commission's official CRESS guidelines."
   - "Formal establishment date and precise legal/organisational status of the Grid System Operator as a ring-fenced TNB unit — entity existence confirmed via its official site, but founding date is not documented in the cited sources."
 revisions:
   - version: "01.00"
@@ -59,6 +58,9 @@ revisions:
 
 updated: 2026-08-01
 sources:
+  - title: "Revised CRESS System Access Charge, effective 1 July 2025 — 20 sen/kWh (firm), 40 sen/kWh (non-firm), down from 25/45 (PETRA / Energy Commission)"
+    url: "https://www.thevibes.com/articles/news/112137/green-electricity-access-charges-cut-by-40-per-cent-to-spur-corporate-uptake"
+    publisher: "The Vibes (reporting PETRA / Suruhanjaya Tenaga)"
   - title: "RAM Ratings: MESI 2.0 has no credit implications on Peninsular Malaysia's power sector"
     url: "https://www.ram.com.my/pressrelease/?prviewid=5104"
     publisher: "RAM Rating Services"
@@ -154,8 +156,8 @@ MESI 2.0 是一份雄心大得多的规划。它于 2019 年 9 月作为一份 *
 
 | 供应类型 | 系统准入费 |
 | --- | --- |
-| 稳定供应（如太阳能配储能） | 每千瓦时 25 仙 |
-| 非稳定供应（间歇性） | 每千瓦时 45 仙 |
+| 稳定供应（如太阳能配储能） | 每千瓦时 20 仙（RP4，自 2025 年 7 月 1 日起；推出时 25 仙） |
+| 非稳定供应（间歇性） | 每千瓦时 40 仙（RP4；推出时 45 仙） |
 
 各方角色与 MESI 结构清晰对应：能源委员会负责监管，单一买家与电网系统运营商负责市场与系统运营，而 TNB 继续拥有电网并实际输送电力。
 
