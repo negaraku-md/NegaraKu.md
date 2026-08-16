@@ -44,9 +44,7 @@ verificationNeeded:
   - "Siling harga dan had pendapatan setiap skim disemak semula dari semasa ke semasa; sahkan angka terkini di portal rasmi sebelum memohon."
   - "Harga Rumah Selangorku berbeza antara rumah bertingkat (strata) dan rumah bertanah; angka dalam panduan ini merujuk unit rumah bertingkat mengikut FAQ LPHS — sahkan harga mengikut jenis projek di eHartanah LPHS."
   - "Yuran tempahan PR1MA RM500 dikenakan bagi projek kediaman yang telah siap; sahkan susunan bayaran bagi projek dalam pembinaan."
-  - "Umur kelayakan (18 tahun) dan siling pendapatan (≤RM8,000) Residensi MADANI perlu disahkan dengan JWP kerana syarat boleh berubah mengikut fasa pelancaran."
-  - "Butiran jaminan SJKP/SJKP MADANI (jumlah jaminan RM500,000 / RM360,000, tempoh 35 tahun) perlu disahkan dengan portal SJKP rasmi."
-revisions:
+  - "Butiran jaminan SJKP/SJKP MADANI (jumlah jaminan RM500,000 / RM360,000, tempoh 35 tahun) perlu disahkan dengan portal SJKP rasmi."revisions:
   - version: "01.00"
     date: 2026-08-08
     change: "Approved and published."

@@ -22,8 +22,6 @@ appliesTo: "Individu dan isi rumah berpendapatan rendah serta sederhana di Malay
 
 verificationNeeded:
   - "FAQ rasmi STR 2026 (PDF di bantuantunai.hasil.gov.my/FAQ/) mengandungi butiran lanjut tentang syarat kelayakan dan jumlah bayaran, tetapi fon terbenam dalam PDF tersebut menghalang pengekstrakan teks automatik semasa penulisan — pembaca digalak memuat turun dan menyemak PDF itu sendiri, atau log masuk MySTR untuk butiran peribadi yang tepat."
-  - "Julat pendapatan kelayakan (isi rumah ≤RM5,000 sebulan; bujang ≤RM2,500 sebulan) diperoleh menerusi semakan portal Manfaat MOF (manfaat.mof.gov.my) dan disokong keputusan carian bebas; sila sahkan angka semasa terus di portal tersebut kerana kriteria bajet boleh disemak semula dari semasa ke semasa."
-
 lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"

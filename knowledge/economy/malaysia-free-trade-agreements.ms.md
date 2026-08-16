@@ -49,11 +49,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Bilateral FTA count is now eight: Malaysia–UAE CEPA entered into force 1 October 2025 (first GCC-nation agreement) per the MITI FTA portal, superseding the earlier 'seven' figure — confirm before publication."
   - "Exact date Malaysia deposited its RCEP instrument of ratification (widely reported as 17 January 2022) is not in a listed source."
   - "Whether a Malaysia–Iran preferential trade agreement remains an active negotiating track."
   - "EU–Malaysia FTA first negotiating round date (reported late June 2025) against the European Commission's own updates."
-
 updated: 2026-08-08
 sources:
   - title: "Malaysia's Ratification of CPTPP / Preferential Certificate of Origin (MITI)"

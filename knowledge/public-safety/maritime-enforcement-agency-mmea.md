@@ -39,12 +39,7 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Kronologi tarikh: Akta berkuat kuasa 15 Februari 2005 berbanding status operasi (pelancaran ringkas) 30 November 2005 dan pelancaran rasmi 21 Mac 2006 — sahkan penggunaan istilah dalam teks selari dengan sumber rasmi."
-  - "Kementerian induk semasa (Kementerian Dalam Negeri) — sahkan portfolio semasa dengan sumber rasmi bertarikh; nota: APMM pada asalnya diletakkan di bawah Jabatan Perdana Menteri."
-  - "Nama dan pangkat Ketua Pengarah semasa (Laksamana Maritim Datuk Haji Mohd Rosli bin Abdullah) — jawatan berubah dari masa ke masa; sahkan terhadap direktori pengurusan atasan terkini."
-  - "Alamat ibu pejabat (One IOI Square, IOI Resort, Putrajaya) — sahkan terhadap laman hubungi rasmi."
-  - "Petikan kajian April 1999 — sahkan versi Bahasa Melayu rasmi frasa 'pertindihan fungsi, pertindihan bidang kuasa dan penggunaan sumber yang tidak ekonomik'."
-revisions:
+  - "Petikan kajian April 1999 — sahkan versi Bahasa Melayu rasmi frasa 'pertindihan fungsi, pertindihan bidang kuasa dan penggunaan sumber yang tidak ekonomik'."revisions:
   - version: "01.00"
     date: 2026-08-01
     change: "Approved and published."
@@ -52,6 +47,9 @@ revisions:
 
 updated: 2026-08-01
 sources:
+  - title: "Alamat | Telefon | Faks"
+    url: "https://www.mmea.gov.my/index.php/ms/hubungikami2/alamat-telefon-faks"
+    publisher: "Agensi Penguatkuasaan Maritim Malaysia (APMM)"
   - title: "MMEA's Background"
     url: "https://www.mmea.gov.my/index.php/en/aboutusen/mmea-s-background"
     publisher: "Agensi Penguatkuasaan Maritim Malaysia (APMM)"

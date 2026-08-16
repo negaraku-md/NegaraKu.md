@@ -42,10 +42,8 @@ version: "01.00"
 verificationNeeded:
   - "Pecahan faraid (bahagian pasangan, anak, ibu bapa) sebaik-baiknya disahkan terhadap sumber rasmi Islam (mis. JAKIM/Mufti) atau nas al-Quran secara langsung, bukan sumber komersial FaraidHub."
   - "Had wasiat 1/3 kepada bukan waris — sahkan asas statutori (mis. Enakmen Wasiat Orang Islam negeri seperti Selangor 1999, s. 26) mengikut negeri berkenaan."
-  - "Ambang harta pusaka kecil RM5 juta — sahkan angka berkuat kuasa terkini pada portal rasmi kerajaan/JKPTG."
   - "Rujukan seksyen 6 Akta Pembahagian 1958 — kini disandarkan pada sumber sekunder (Chia, Lee & Associates); reviewer boleh menggantikan dengan teks statut rasmi jika perlu."
-  - "Slug relations/related (property-buying-a-home-guide, property-real-property-gains-tax-rpgt) — sahkan artikel berkenaan wujud atau laraskan."
-revisions:
+  - "Slug relations/related (property-buying-a-home-guide, property-real-property-gains-tax-rpgt) — sahkan artikel berkenaan wujud atau laraskan."revisions:
   - version: "01.00"
     date: 2026-08-08
     change: "Approved and published."
@@ -53,6 +51,9 @@ revisions:
 
 updated: 2026-08-08
 sources:
+  - title: "Small Estate FAQ"
+    url: "https://www.jkptg.gov.my/en/soalan-lazim-3?layout=edit&id=1084"
+    publisher: "Department of Director General of Lands and Mines (JKPTG)"
   - title: "Death & Inheritance — Division of Inheritance"
     url: "https://www.malaysia.gov.my/en/categories/death--inheritance/division-of-inheritance"
     publisher: "MyGovernment (Portal Rasmi Kerajaan Malaysia)"

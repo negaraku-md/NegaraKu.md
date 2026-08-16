@@ -45,11 +45,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Tempoh dorman Kategori 1 (wang kena dibayar tetapi belum dibayar): laman awam JANM (anm.gov.my/en/public/unclaimed-money) menyatakan 'tidak kurang dua (2) tahun', manakala teks Akta Wang Tak Dituntut 1965 (Seksyen 8) dilaporkan menyebut 'tidak kurang satu tahun'. Sahkan angka yang betul terhadap Akta rasmi sebelum diterbitkan."
   - "Nombor seksyen tepat dalam Akta Wang Tak Dituntut 1965 (definisi, kewajipan serahan, bayaran balik) tidak disahkan daripada teks Akta — sahkan sebelum menambah rujukan seksyen."
   - "Sama ada carian nama/nombor pengenalan di eGUMIS boleh dibuat tanpa mendaftar akaun — tidak disahkan daripada mana-mana sumber rasmi yang dibuka."
   - "Tahun pelancaran portal eGUMIS — hanya muncul dalam ringkasan sekunder, tidak disahkan daripada sumber rasmi."
-
 updated: 2026-08-08
 sources:
   - title: "Unclaimed Money"

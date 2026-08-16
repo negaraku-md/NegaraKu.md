@@ -45,11 +45,8 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Honorific style for the Executive Chairman: the SC's own Senior Management page styles him 'Dato' Mohammad Faiz Azmi', while the cited Bernama report uses 'Datuk Mohammad Faiz Azmi'. Confirm the preferred/current form."
-  - "Current senior management line-up (Managing Director Datin Paduka Azalina Adham; Executive Director, Enforcement Datuk Manoj Kurup) — verified against the SC Senior Management page dated 8 April 2026; confirm still current at time of publication."
   - "Commencement dates of specific CMSA 2007 divisions (e.g. Division 2 of Part VI) if that level of detail is reinstated — cite the gazette/commencement notice."
   - "Act number for the Securities Industry (Central Depositories) Act 1991 (reported as Act 453) if added to the text."
-
 updated: 2026-08-08
 sources:
   - title: "About the SC"

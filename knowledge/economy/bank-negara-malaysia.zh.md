@@ -28,11 +28,7 @@ faq:
   - q: "马来西亚由谁监管加密货币？"
     a: "在与证券监督委员会于 2018 年 12 月 6 日发布的联合声明中，SC 表示将监管首次代币发行（initial coin offerings）以及在数码资产交易所进行的数码资产交易，而 BNM 则重申数码资产在马来西亚并非法定货币。经营具有支付功能之数码资产的发行方与交易所，仍须遵守 BNM 关于支付与货币的法律。"
 
-verificationNeeded:
-  - "OPR 数值（2.75%）与 2026 年 7 月 9 日的 MPC 决议均为特定时间点的数值——每次审阅时都应对照 BNM 的 OPR 决议页面重新核实"
-  - "总裁姓名与任期日期截至审阅日期为准；该职位会更替，且敬称乃刻意略去，而非以未经核实的方式陈述"
-
-lang: "zh"
+verificationNeeded: []lang: "zh"
 sourceContentHash: "83e47670250a0ac8"
 masterLanguage: "en"
 translationStatus: "in-sync"

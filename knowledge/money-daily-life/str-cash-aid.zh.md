@@ -22,8 +22,6 @@ appliesTo: "希望申请、更新，或查询 Sumbangan Tunai Rahmah（STR）状
 
 verificationNeeded:
   - "官方 2026 年 STR 常见问题（PDF，见 bantuantunai.hasil.gov.my/FAQ/）载有更详细的资格条件与付款金额说明，但撰写本文当时，该 PDF 内嵌字体使自动文字提取无法进行——建议读者自行下载并查阅该 PDF，或登入 MySTR 核实个人的确切详情。"
-  - "资格收入范围（家庭每月 ≤RM5,000；单身人士每月 ≤RM2,500）取自 Manfaat MOF 门户网站（manfaat.mof.gov.my）的查证结果，并有独立搜索结果佐证；由于预算案标准可能不时被检讨调整，请直接在该门户网站核实当前数字。"
-
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"

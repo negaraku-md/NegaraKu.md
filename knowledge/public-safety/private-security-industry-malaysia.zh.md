@@ -51,10 +51,11 @@ verificationNeeded:
   - "Angka Seksyen 3 (tinggi/berat pengawal lelaki & wanita, umur maksimum 60, pengesahan perubatan 56+, ujian air kencing 7 hari, latihan dalaman seminggu, kursus asas 3 bulan, komposisi 1/5 bekas polis/tentera, pengecualian Nepal) perlu disahkan oleh manusia terhadap dokumen rasmi KDN 'Syarat-Syarat Lesen Di Bawah Seksyen 3 Akta No. 27/71'. Angka telah disemak verbatim terhadap salinan dokumen tersebut yang diterbitkan semula oleh persatuan penduduk; salinan KDN kanonik (PDF asal) belum dicapai secara langsung."
   - "Struktur yuran lesen dan denda di bawah Akta 27 sengaja tidak disertakan — sahkan kadar semasa terus dengan KDN."
   - "Senarai majikan lazim polis bantuan selain universiti (cth. bank, lapangan terbang, KTMB, badan berkanun) hanya kes universiti (UIAM) yang bersumber; contoh lain perlu disahkan."
-  - "Kepanjangan rasmi penuh eSIMS dalam BM/BI perlu disahkan terhadap laman rasmi KDN/MOHA."
-
 updated: 2026-08-01
 sources:
+  - title: "Sistem Pengurusan Industri Keselamatan (eSIMS)"
+    url: "https://www.moha.gov.my/index.php/en/278-sistem-pengurusan-industri-keselamatan-esims"
+    publisher: "Kementerian Dalam Negeri (KDN/MOHA)"
   - title: "Syarat-Syarat Lesen Di Bawah Seksyen 3 Akta No. 27/71 (dokumen syarat pengambilan pengawal KDN, diterbitkan semula)"
     url: "https://gatedandguardedcommunity.blogspot.com/p/syarat-syarat-lesen-di-bawah-seksyen-3.html"
     publisher: "Reproduksi dokumen Kementerian Dalam Negeri (KDN)"

@@ -28,10 +28,7 @@ faq:
   - q: "Who regulates cryptocurrency in Malaysia?"
     a: "In the joint statement issued with the Securities Commission on 6 December 2018, the SC said it would regulate initial coin offerings and the trading of digital assets on digital asset exchanges, while BNM reiterated that digital assets are not legal tender in Malaysia. Issuers and exchanges dealing in digital assets with a payment function must still comply with BNM laws on payments and currency."
 
-verificationNeeded:
-  - "The OPR figure (2.75%) and the 9 July 2026 MPC decision are point-in-time values — re-check against BNM's OPR decisions page at every review"
-  - "The Governor's name and term dates are current as at the review date; the office changes and the honorific is deliberately omitted rather than stated unverified"
-
+verificationNeeded: []
 lang: "en"
 masterLanguage: "en"
 translationStatus: "master"

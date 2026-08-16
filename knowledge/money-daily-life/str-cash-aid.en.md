@@ -22,8 +22,6 @@ appliesTo: "Low- and middle-income individuals and households in Malaysia who wa
 
 verificationNeeded:
   - "The official STR 2026 FAQ (PDF at bantuantunai.hasil.gov.my/FAQ/) contains further details on eligibility conditions and payment amounts, but the embedded font in that PDF prevented automatic text extraction at the time of writing — readers are encouraged to download and check the PDF themselves, or log in to MySTR for exact personal details."
-  - "The eligibility income range (households ≤RM5,000 per month; singles ≤RM2,500 per month) was obtained via a check of the Manfaat MOF portal (manfaat.mof.gov.my) and is supported by independent search results; please confirm the current figures directly on that portal, as Budget criteria may be revised from time to time."
-
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"

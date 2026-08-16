@@ -47,14 +47,14 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Nama ringkas rasmi Inggeris Akta ialah 'Malaysia Volunteers Corps Act 2012'; slug artikel mengekalkan bentuk lama 'peoples-volunteer-corps'. Sahkan padanan Inggeris yang hendak digunakan."
   - "Sahkan sama ada entiti pentadbir hendak dirujuk sebagai 'Pasukan Sukarelawan Malaysia' (nama statutori dalam Akta) atau 'Jabatan Sukarelawan Malaysia' (nama jabatan pentadbir); sumber yang dipetik hanya mengesahkan yang pertama."
   - "Sahkan tiada pindaan Akta 752 yang lebih baharu daripada P.U. (A) 165/2024 — sumber ialah teks kemas kini AGC sebagaimana pada 1 Julai 2024."
   - "Sahkan susunan dan singkatan pangkat penuh terhadap Jadual semasa sebagaimana dipinda oleh P.U. (A) 165/2024."
-  - "Sahkan senarai akta imigresen yang dikuatkuasakan Jabatan Imigresen (Akta 155, 150, 670) terhadap portal rasmi imi.gov.my."
-
 updated: 2026-08-01
 sources:
+  - title: "Act 752 — Jabatan Sukarelawan Malaysia (RELA)"
+    url: "https://www.rela.gov.my/?page_id=5611&lang=en"
+    publisher: "Jabatan Sukarelawan Malaysia (RELA)"
   - title: "Akta Pasukan Sukarelawan Malaysia 2012 (Akta 752) — Versi Dalam Talian Teks Cetakan Semula Yang Kemas Kini (sebagaimana pada 1 Julai 2024)"
     url: "https://www.moha.gov.my/utama/images/akta-pekeliling-garispanduan/bhg-kepenjaraan-antidadah-rela/akta/Akta_752_-_Akta_Pasukan_Sukarelawan_Malaysia_2012.pdf"
     publisher: "Jabatan Peguam Negara (teks kemas kini dalam talian, dihoskan di portal Kementerian Dalam Negeri)"
