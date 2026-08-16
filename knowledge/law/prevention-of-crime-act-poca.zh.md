@@ -30,7 +30,7 @@ faq:
     a: "是防止罪案委员会——一个由具备法律资格、经政府委任的人士主持的机构——而非法院。委员会根据由部长委任的调查官（Pegawai Penyiasat）所呈报告采取行动。"
 
 lang: "zh"
-sourceContentHash: "82bf5a5f3ef45b26"
+sourceContentHash: "a6b06f9b9fdb4839"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -47,7 +47,6 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Nombor seksyen tepat bagi klausa penyingkiran yang diisytiharkan tidak sah oleh Mahkamah Persekutuan (laporan menyebut Seksyen 15B; Seksyen 15A menyebut had semakan prosedur) — sahkan terhadap teks rasmi Akta 297 selepas pindaan 2013."
   - "Nama kes penuh dan sitasi rasmi keputusan Mahkamah Persekutuan April 2022 (dilaporkan membabitkan tahanan T. Dhinesh)."
 updated: 2026-08-07
 sources:
@@ -94,7 +93,7 @@ POCA，即《Prevention of Crime Act 1959》，被称为**第297号法令**。�
 | 调查/行政扣留期限 | 由委员会扣留最长2年，可展延 | 由警方扣留最长28天（第4(5)条） |
 | 司法审查 | 排除条款经联邦法院宣布无效（2022年）；对扣留理由的审查得以恢复 | 调查期结束后嫌疑人被带上法庭起诉 |
 
-根据律师事务所Low & Partners的说明，POCA第15A条规定除涉及程序要求的遵守外，不得进行司法审查；媒体报道则提及第15B条排除了法院对委员会决定的管辖权。然而，在2022年4月14日，Free Malaysia Today报道称，联邦法院裁定POCA的排除条款因抵触联邦宪法第4(1)条而无效，从而恢复了法院审查扣留理由（而不仅是程序）的权力。简言之：POCA是以委员会为基础、针对有组织犯罪的体制，而SOSMA则是针对安全罪行的体制。
+根据律师事务所Low & Partners的说明，POCA第15B(1)条规定除涉及程序要求的遵守外，不得进行司法审查（第15A条涉及电子监控程序，而非审查限制）；媒体报道则提及第15B条排除了法院对委员会决定的管辖权。然而，在2022年4月14日，Free Malaysia Today报道称，联邦法院裁定POCA的排除条款因抵触联邦宪法第4(1)条而无效，从而恢复了法院审查扣留理由（而不仅是程序）的权力。简言之：POCA是以委员会为基础、针对有组织犯罪的体制，而SOSMA则是针对安全罪行的体制。
 
 ## 扣留程序如何进行？
 

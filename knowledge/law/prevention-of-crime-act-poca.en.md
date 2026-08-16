@@ -30,7 +30,7 @@ faq:
     a: "The Prevention of Crime Board — a body chaired by a legally qualified individual and appointed by the government — not the courts. The Board acts on the report of an Inquiry Officer appointed by the Minister."
 
 lang: "en"
-sourceContentHash: "82bf5a5f3ef45b26"
+sourceContentHash: "a6b06f9b9fdb4839"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -47,7 +47,6 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Nombor seksyen tepat bagi klausa penyingkiran yang diisytiharkan tidak sah oleh Mahkamah Persekutuan (laporan menyebut Seksyen 15B; Seksyen 15A menyebut had semakan prosedur) — sahkan terhadap teks rasmi Akta 297 selepas pindaan 2013."
   - "Nama kes penuh dan sitasi rasmi keputusan Mahkamah Persekutuan April 2022 (dilaporkan membabitkan tahanan T. Dhinesh)."
 updated: 2026-08-07
 sources:
@@ -94,7 +93,7 @@ Malaysia has several security laws that are often confused with one another. POC
 | Investigative/administrative detention period | Up to 2 years by the Board, renewable | Up to 28 days by police (Section 4(5)) |
 | Judicial review | Ouster clause declared invalid by the Federal Court (2022); review of the grounds of detention restored | Suspect brought to court to be charged after the investigation period |
 
-According to the explanation by the law firm Low & Partners, Section 15A of POCA provides that there is no judicial review except in relation to compliance with procedural requirements; media reports, meanwhile, refer to Section 15B ousting the courts' jurisdiction over the Board's decisions. However, on 14 April 2022, Free Malaysia Today reported that the Federal Court ruled POCA's ouster clause invalid as inconsistent with Article 4(1) of the Federal Constitution, thereby restoring the courts' power to review the grounds of detention and not merely procedure. In short: POCA is a board-based organised-crime regime, while SOSMA is a security-offences regime.
+According to the explanation by the law firm Low & Partners, Section 15B(1) of POCA provides that there is no judicial review except in relation to compliance with procedural requirements (Section 15A concerns the electronic-monitoring procedure, not review limits); media reports, meanwhile, refer to Section 15B ousting the courts' jurisdiction over the Board's decisions. However, on 14 April 2022, Free Malaysia Today reported that the Federal Court ruled POCA's ouster clause invalid as inconsistent with Article 4(1) of the Federal Constitution, thereby restoring the courts' power to review the grounds of detention and not merely procedure. In short: POCA is a board-based organised-crime regime, while SOSMA is a security-offences regime.
 
 ## How does the detention process work?
 

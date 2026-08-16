@@ -23,14 +23,14 @@ faq:
   - q: "马来西亚有多少处UNESCO世界遗产？"
     a: "六处，据UNESCO世界遗产中心记录：四处文化遗产，两处自然遗产。这一数字在2024年随Niah洞穴群的列入从四处增至五处，并于2025年随Forest Research Institute Malaysia Forest Park Selangor的列入增至六处。马来西亚已于1988年12月7日批准《世界遗产公约》。"
   - q: "马六甲与乔治市是两处各自独立的遗产吗？"
-    a: "不是。两者构成同一项系列遗产，名为「Melaka and George Town, Historic Cities of the Straits of Malacca」，于2008年列入，其后又获得一次小幅边界修改。这两座城市的核心区都是同一项列名之下的组成部分，这也是两者共用同一套标准的原因。"
+    a: "不是。两者构成同一项系列遗产，名为「Melaka and George Town, Historic Cities of the Straits of Malacca」，于2008年列入，其后又获得一次小幅边界修改（2011年）。这两座城市的核心区都是同一项列名之下的组成部分，这也是两者共用同一套标准的原因。"
   - q: "这些标准编号代表什么意思？"
     a: "UNESCO采用一份合并的十项甄选标准清单，(i)至(x)。标准(i)至(vi)涵盖文化价值，(vii)至(x)涵盖自然价值。一处遗产必须至少符合其中一项，其列名中所引用的标准，正是世界遗产委员会认定其具有突出普遍价值的正式记录。"
   - q: "马来西亚的预备名单仍然有效吗？"
     a: "是的。世界遗产中心记录马来西亚预备名单上有三处遗产：西马国家公园（Taman Negara）、雪兰莪冈仔石英岭（Gombak Selangor Quartz Ridge），以及双溪毛糯麻风病院（Sungai Buloh Leprosarium）。预备名单上的列名只是提名意向的声明，并非正式列入。"
 
 lang: "zh"
-sourceContentHash: "7fe92881566b7c6a"
+sourceContentHash: "6e97d47f53379902"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -47,8 +47,6 @@ revisions:
 
 verificationNeeded:
   - "六处遗产各自的列入面积（公顷）——在每一个数字都能直接从其UNESCO遗产记录中读取之前，刻意未列入表格。"
-  - "Niah洞穴群（2024年）与FRIM Forest Park Selangor（2025年）遗产记录的编号与规范网址——2024／2025年的记录编号尚未确认，因此两者均未附引用网址。"
-  - "马六甲与乔治市小幅边界修改的年份。"
   - "霹雳人（Perak Man）的年代测定，依UNESCO或国家文物局记录为准。"
 
 updated: 2026-07-24
@@ -76,9 +74,11 @@ sources:
     publisher: "UNESCO World Heritage Centre"
     date: "2012-01-01"
   - title: "The Archaeological Heritage of Niah National Park's Caves Complex — World Heritage List property record"
+    url: "https://whc.unesco.org/en/list/1014/"
     publisher: "UNESCO World Heritage Centre"
     date: "2024-01-01"
   - title: "Forest Research Institute Malaysia Forest Park Selangor — World Heritage List property record"
+    url: "https://whc.unesco.org/en/list/1734/"
     publisher: "UNESCO World Heritage Centre"
     date: "2025-01-01"
 entity: "UNESCO World Heritage Sites in Malaysia"
@@ -130,7 +130,7 @@ UNESCO维持一份合并的十项甄选标准清单。编号(i)至(vi)涵盖文�
 
 ## 常见错误
 
-- 把马六甲与乔治市当成两处遗产。这其实是一项系列列名，其后又获得一次小幅边界修改。
+- 把马六甲与乔治市当成两处遗产。这其实是一项系列列名，其后又获得一次小幅边界修改（2011年）。
 - 以为FRIM是自然遗产。它其实是文化遗产——那片森林本身就是人造物。
 - 以为京那巴鲁公园是因景致而列入。标准(vii)并未被采用。
 - 把世界遗产名录与非物质文化遗产名录混为一谈——两者属于不同的公约，参见[峇迪](/zh/arts-culture/batik)。

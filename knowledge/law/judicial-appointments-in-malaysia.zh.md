@@ -23,14 +23,14 @@ appliesTo: "任何希望了解马来西亚司法机构如何组建、如何维�
 
 faq:
   - q: "谁作出任命一名法官的最终决定？"
-    a: "最高元首（Yang di-Pertuan Agong）依据联邦宪法第122B条任命法官，根据首相的建议行事，并且就最高职位在与统治者会议（Majlis Raja-Raja）协商后作出。司法委任委员会先行筛选并建议人选，但第695号法令下的司法委任委员会阶段发生在第122B条的宪法程序之前。"
+    a: "最高元首（Yang di-Pertuan Agong）依据联邦宪法第122B条任命法官，根据首相的建议行事，并在与统治者会议（Majlis Raja-Raja）协商后作出；第122B(1)条要求所有高级法院法官的任命均须如此协商，而不仅是最高职位。司法委任委员会先行筛选并建议人选，但第695号法令下的司法委任委员会阶段发生在第122B条的宪法程序之前。"
   - q: "司法委任委员会为一个空缺建议多少个人选？"
     a: "根据第695号法令第22条，司法委任委员会为每个高等法院空缺遴选不少于三人，为其他高级法院职位遴选不少于两人。对于高级职位，首相可依据第27条要求增加两个人选。"
   - q: "一名法官能否被撤职，如何撤职？"
     a: "可以，但只能通过第125条程序。相关陈请提交给最高元首，元首随后设立一个由不少于五名现任或曾任法官职位者组成的裁判庭。撤职理由仅限于违反道德操守准则或无力履行职务。"
 
 lang: "zh"
-sourceContentHash: "61532205e353743d"
+sourceContentHash: "609ac0242c162e91"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -47,7 +47,6 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Perincian Perkara 122B (pihak yang dinasihatkan dan syarat rundingan dengan Majlis Raja-Raja bagi setiap peringkat mahkamah): sahkan terhadap teks AGC."
   - "Butiran peristiwa 2025 (tarikh persaraan Ketua Hakim Negara ketika itu dan status lanjutan tempoh perkhidmatan): sahkan dengan pengumuman rasmi terkini."
 updated: 2026-08-07
 sources:
@@ -85,7 +84,7 @@ keywords: ["pelantikan hakim", "Suruhanjaya Pelantikan Kehakiman", "Perkara 122B
 
 ## 马来西亚的法官由谁任命？
 
-高级法院法官——联邦法院、上诉法院以及两个高等法院——的正式任命，由**最高元首（Yang di-Pertuan Agong）**依据联邦宪法**第122B条**作出。元首根据首相的建议行事，而对于诸如联邦首席大法官和上诉法院院长这类最高职位，则在与统治者会议（Majlis Raja-Raja）协商后作出。
+高级法院法官——联邦法院、上诉法院以及两个高等法院——的正式任命，由**最高元首（Yang di-Pertuan Agong）**依据联邦宪法**第122B条**作出。元首根据首相的建议行事，并在与统治者会议（Majlis Raja-Raja）协商后作出——第122B(1)条要求所有高级法院法官的任命均须如此，而不仅是联邦首席大法官和上诉法院院长这类最高职位。
 
 然而，在这个宪法阶段开始之前，一道筛选程序已依据**2009年司法委任委员会法令（第695号法令）**进行。该委员会的官方门户网站说明，第695号法令下的程序是*先行于*第122B条任命程序的程序——而非取代它。这正是自2009年以来成为马来西亚制度特征的"两阶段"结构。
 

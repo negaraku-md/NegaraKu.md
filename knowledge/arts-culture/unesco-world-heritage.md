@@ -23,7 +23,7 @@ faq:
   - q: "How many UNESCO World Heritage Sites does Malaysia have?"
     a: "Six, as recorded by the UNESCO World Heritage Centre: four cultural and two natural. The count moved from four to five in 2024 with the Niah Caves Complex, and to six in 2025 with Forest Research Institute Malaysia Forest Park Selangor. Malaysia ratified the World Heritage Convention on 7 December 1988."
   - q: "Are Melaka and George Town two separate sites?"
-    a: "No. They form a single serial property, 'Melaka and George Town, Historic Cities of the Straits of Malacca', inscribed in 2008 and later given a minor boundary modification. The two city centres are components of one inscription, which is why they share one set of criteria."
+    a: "No. They form a single serial property, 'Melaka and George Town, Historic Cities of the Straits of Malacca', inscribed in 2008 and later given a minor boundary modification in 2011 in 2011. The two city centres are components of one inscription, which is why they share one set of criteria."
   - q: "What do the criteria numbers mean?"
     a: "UNESCO uses one combined list of ten selection criteria, (i) to (x). Criteria (i) to (vi) cover cultural value and (vii) to (x) cover natural value. A property must satisfy at least one, and the criteria cited in its inscription are the formal record of what the World Heritage Committee found to be of Outstanding Universal Value."
   - q: "Is Malaysia's tentative list still active?"
@@ -46,8 +46,6 @@ revisions:
 
 verificationNeeded:
   - "Inscribed property areas (hectares) for all six properties — deliberately omitted from the table until each figure is read off its own UNESCO property record."
-  - "Reference numbers and canonical URLs for the Niah Caves Complex (2024) and FRIM Forest Park Selangor (2025) property records — the 2024/2025 refs were not confirmed, so no URL is cited for either."
-  - "The year of the minor boundary modification to Melaka and George Town."
   - "The dating of Perak Man as recorded by UNESCO or the Department of National Heritage."
 
 updated: 2026-07-24
@@ -75,9 +73,11 @@ sources:
     publisher: "UNESCO World Heritage Centre"
     date: "2012-01-01"
   - title: "The Archaeological Heritage of Niah National Park's Caves Complex — World Heritage List property record"
+    url: "https://whc.unesco.org/en/list/1014/"
     publisher: "UNESCO World Heritage Centre"
     date: "2024-01-01"
   - title: "Forest Research Institute Malaysia Forest Park Selangor — World Heritage List property record"
+    url: "https://whc.unesco.org/en/list/1734/"
     publisher: "UNESCO World Heritage Centre"
     date: "2025-01-01"
 entity: "UNESCO World Heritage Sites in Malaysia"
@@ -129,7 +129,7 @@ Kinabalu Park got only (ix) and (x). Mount Kinabalu at 4,095 m is the highest mo
 
 ## Common mistakes
 
-- Treating Melaka and George Town as two sites. One serial inscription, later given a minor boundary modification.
+- Treating Melaka and George Town as two sites. One serial inscription, later given a minor boundary modification in 2011 in 2011.
 - Assuming FRIM is a natural site. It is cultural — the forest is the artefact.
 - Assuming Kinabalu was inscribed for scenery. Criterion (vii) was not applied.
 - Confusing the World Heritage List with the Intangible Cultural Heritage lists, which are a separate convention — see [batik](/en/arts-culture/batik).

@@ -46,7 +46,6 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Nombor seksyen tepat bagi klausa penyingkiran yang diisytiharkan tidak sah oleh Mahkamah Persekutuan (laporan menyebut Seksyen 15B; Seksyen 15A menyebut had semakan prosedur) — sahkan terhadap teks rasmi Akta 297 selepas pindaan 2013."
   - "Nama kes penuh dan sitasi rasmi keputusan Mahkamah Persekutuan April 2022 (dilaporkan membabitkan tahanan T. Dhinesh)."
 updated: 2026-08-07
 sources:
@@ -93,7 +92,7 @@ Malaysia mempunyai beberapa undang-undang keselamatan yang sering dikelirukan an
 | Tempoh tahanan siasatan/pentadbiran | Sehingga 2 tahun oleh Lembaga, boleh diperbaharui | Sehingga 28 hari oleh polis (Seksyen 4(5)) |
 | Semakan kehakiman | Klausa penyingkiran diisytiharkan tidak sah oleh Mahkamah Persekutuan (2022); semakan alasan tahanan dipulihkan | Suspek dibawa ke mahkamah untuk pertuduhan selepas tempoh siasatan |
 
-Menurut penerangan firma guaman Low & Partners, Seksyen 15A POCA memperuntukkan tiada semakan kehakiman kecuali berhubung pematuhan keperluan prosedur; laporan media pula menyebut Seksyen 15B menolak bidang kuasa mahkamah ke atas keputusan Lembaga. Walau bagaimanapun, pada 14 April 2022, Free Malaysia Today melaporkan bahawa Mahkamah Persekutuan memutuskan klausa penyingkiran POCA tidak sah kerana bercanggah dengan Perkara 4(1) Perlembagaan Persekutuan, sekali gus memulihkan kuasa mahkamah untuk menyemak alasan tahanan dan bukan sekadar prosedur. Ringkasnya: POCA ialah rejim jenayah terancang berasaskan lembaga, manakala SOSMA ialah rejim kesalahan keselamatan.
+Menurut penerangan firma guaman Low & Partners, Seksyen 15B(1) POCA memperuntukkan tiada semakan kehakiman kecuali berhubung pematuhan keperluan prosedur (Seksyen 15A berkenaan prosedur peranti pemantauan elektronik, bukan had semakan); laporan media pula menyebut Seksyen 15B menolak bidang kuasa mahkamah ke atas keputusan Lembaga. Walau bagaimanapun, pada 14 April 2022, Free Malaysia Today melaporkan bahawa Mahkamah Persekutuan memutuskan klausa penyingkiran POCA tidak sah kerana bercanggah dengan Perkara 4(1) Perlembagaan Persekutuan, sekali gus memulihkan kuasa mahkamah untuk menyemak alasan tahanan dan bukan sekadar prosedur. Ringkasnya: POCA ialah rejim jenayah terancang berasaskan lembaga, manakala SOSMA ialah rejim kesalahan keselamatan.
 
 ## Bagaimana proses tahanan berjalan?
 

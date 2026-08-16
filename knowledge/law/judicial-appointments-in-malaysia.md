@@ -23,7 +23,7 @@ appliesTo: "Sesiapa yang ingin memahami bagaimana badan kehakiman Malaysia diben
 
 faq:
   - q: "Siapa yang membuat keputusan akhir melantik seorang hakim?"
-    a: "Yang di-Pertuan Agong melantik hakim di bawah Perkara 122B Perlembagaan Persekutuan, bertindak atas nasihat Perdana Menteri dan selepas berunding dengan Majlis Raja-Raja bagi jawatan tertinggi. Suruhanjaya Pelantikan Kehakiman menyaring dan mencadangkan nama terlebih dahulu, tetapi peringkat SPK di bawah Akta 695 berlaku sebelum proses perlembagaan Perkara 122B."
+    a: "Yang di-Pertuan Agong melantik hakim di bawah Perkara 122B Perlembagaan Persekutuan, bertindak atas nasihat Perdana Menteri dan selepas berunding dengan Majlis Raja-Raja, yang disyaratkan oleh Perkara 122B(1) bagi semua pelantikan hakim mahkamah atasan. Suruhanjaya Pelantikan Kehakiman menyaring dan mencadangkan nama terlebih dahulu, tetapi peringkat SPK di bawah Akta 695 berlaku sebelum proses perlembagaan Perkara 122B."
   - q: "Berapa nama yang dicadangkan SPK untuk satu kekosongan?"
     a: "Di bawah seksyen 22 Akta 695, SPK memilih tidak kurang tiga orang bagi setiap kekosongan Mahkamah Tinggi, dan tidak kurang dua orang bagi jawatan mahkamah atasan yang lain. Bagi jawatan kanan, Perdana Menteri boleh meminta dua nama tambahan di bawah seksyen 27."
   - q: "Bolehkah seorang hakim disingkirkan, dan bagaimana?"
@@ -46,7 +46,6 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Perincian Perkara 122B (pihak yang dinasihatkan dan syarat rundingan dengan Majlis Raja-Raja bagi setiap peringkat mahkamah): sahkan terhadap teks AGC."
   - "Butiran peristiwa 2025 (tarikh persaraan Ketua Hakim Negara ketika itu dan status lanjutan tempoh perkhidmatan): sahkan dengan pengumuman rasmi terkini."
 updated: 2026-08-07
 sources:
@@ -84,7 +83,7 @@ Setiap kali seorang Ketua Hakim Negara baharu mengangkat sumpah, satu soalan lam
 
 ## Siapa yang melantik hakim di Malaysia?
 
-Perlantikan rasmi hakim mahkamah atasan — Mahkamah Persekutuan, Mahkamah Rayuan, dan dua Mahkamah Tinggi — dibuat oleh **Yang di-Pertuan Agong** di bawah **Perkara 122B** Perlembagaan Persekutuan. Baginda bertindak atas nasihat Perdana Menteri, dan bagi jawatan tertinggi seperti Ketua Hakim Negara dan Presiden Mahkamah Rayuan, selepas berunding dengan Majlis Raja-Raja.
+Perlantikan rasmi hakim mahkamah atasan — Mahkamah Persekutuan, Mahkamah Rayuan, dan dua Mahkamah Tinggi — dibuat oleh **Yang di-Pertuan Agong** di bawah **Perkara 122B** Perlembagaan Persekutuan. Baginda bertindak atas nasihat Perdana Menteri, dan, seperti yang disyaratkan oleh Perkara 122B(1) bagi semua pelantikan hakim mahkamah atasan (bukan hanya jawatan kanan seperti Ketua Hakim Negara dan Presiden Mahkamah Rayuan), selepas berunding dengan Majlis Raja-Raja.
 
 Namun sebelum peringkat perlembagaan itu bermula, satu proses penyaringan berlaku di bawah **Akta Suruhanjaya Pelantikan Kehakiman 2009 (Akta 695)**. Portal rasmi Suruhanjaya itu menjelaskan bahawa proses di bawah Akta 695 adalah proses yang *mendahului* proses perlantikan di bawah Perkara 122B — bukan menggantikannya. Inilah struktur "dua peringkat" yang menjadi ciri sistem Malaysia sejak 2009.
 

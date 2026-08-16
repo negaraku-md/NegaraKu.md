@@ -23,14 +23,14 @@ faq:
   - q: "Berapakah bilangan Tapak Warisan Dunia UNESCO yang dimiliki Malaysia?"
     a: "Enam, seperti yang direkodkan oleh Pusat Warisan Dunia UNESCO: empat budaya dan dua semula jadi. Bilangan itu meningkat daripada empat kepada lima pada 2024 dengan Kompleks Gua Niah, dan kepada enam pada 2025 dengan Forest Research Institute Malaysia Forest Park Selangor. Malaysia meratifikasi Konvensyen Warisan Dunia pada 7 Disember 1988."
   - q: "Adakah Melaka dan George Town dua tapak yang berasingan?"
-    a: "Tidak. Kedua-duanya membentuk satu harta bersiri tunggal, 'Melaka and George Town, Historic Cities of the Straits of Malacca', disenaraikan pada 2008 dan kemudian diberikan satu pengubahsuaian sempadan kecil. Kedua-dua pusat bandar itu adalah komponen bagi satu penyenaraian, itulah sebabnya kedua-duanya berkongsi satu set kriteria yang sama."
+    a: "Tidak. Kedua-duanya membentuk satu harta bersiri tunggal, 'Melaka and George Town, Historic Cities of the Straits of Malacca', disenaraikan pada 2008 dan kemudian diberikan satu pengubahsuaian sempadan kecil pada 2011. Kedua-dua pusat bandar itu adalah komponen bagi satu penyenaraian, itulah sebabnya kedua-duanya berkongsi satu set kriteria yang sama."
   - q: "Apakah maksud nombor-nombor kriteria itu?"
     a: "UNESCO menggunakan satu senarai gabungan sepuluh kriteria pemilihan, (i) hingga (x). Kriteria (i) hingga (vi) merangkumi nilai budaya dan (vii) hingga (x) merangkumi nilai semula jadi. Sesebuah harta mesti memenuhi sekurang-kurangnya satu, dan kriteria yang dipetik dalam penyenaraiannya merupakan rekod rasmi bagi apa yang didapati oleh Jawatankuasa Warisan Dunia sebagai Nilai Sejagat yang Cemerlang."
   - q: "Adakah Senarai Tentatif Malaysia masih aktif?"
     a: "Ya. Pusat Warisan Dunia merekodkan tiga harta dalam Senarai Tentatif Malaysia: Taman Negara Semenanjung Malaysia, Rabung Kuarza Gombak Selangor, dan Leprosarium Sungai Buloh. Penyenaraian tentatif ialah pengisytiharan niat untuk mencalonkan, bukan satu penyenaraian rasmi."
 
 lang: "ms"
-sourceContentHash: "7fe92881566b7c6a"
+sourceContentHash: "6e97d47f53379902"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -47,8 +47,6 @@ revisions:
 
 verificationNeeded:
   - "Keluasan harta yang disenaraikan (hektar) bagi keenam-enam harta — sengaja digugurkan daripada jadual sehingga setiap angka dibaca terus daripada rekod harta UNESCO masing-masing."
-  - "Nombor rujukan dan URL kanonik bagi rekod harta Kompleks Gua Niah (2024) dan FRIM Forest Park Selangor (2025) — rujukan 2024/2025 tidak disahkan, jadi tiada URL dipetik bagi kedua-duanya."
-  - "Tahun bagi pengubahsuaian sempadan kecil kepada Melaka dan George Town."
   - "Penentuan tarikh Perak Man seperti yang direkodkan oleh UNESCO atau Jabatan Warisan Negara."
 
 updated: 2026-07-24
@@ -76,9 +74,11 @@ sources:
     publisher: "UNESCO World Heritage Centre"
     date: "2012-01-01"
   - title: "The Archaeological Heritage of Niah National Park's Caves Complex — World Heritage List property record"
+    url: "https://whc.unesco.org/en/list/1014/"
     publisher: "UNESCO World Heritage Centre"
     date: "2024-01-01"
   - title: "Forest Research Institute Malaysia Forest Park Selangor — World Heritage List property record"
+    url: "https://whc.unesco.org/en/list/1734/"
     publisher: "UNESCO World Heritage Centre"
     date: "2025-01-01"
 entity: "UNESCO World Heritage Sites in Malaysia"
@@ -130,7 +130,7 @@ Taman Kinabalu hanya memperoleh (ix) dan (x). Gunung Kinabalu setinggi 4,095 m i
 
 ## Kesilapan biasa
 
-- Menganggap Melaka dan George Town sebagai dua tapak. Satu penyenaraian bersiri, kemudian diberikan satu pengubahsuaian sempadan kecil.
+- Menganggap Melaka dan George Town sebagai dua tapak. Satu penyenaraian bersiri, kemudian diberikan satu pengubahsuaian sempadan kecil pada 2011.
 - Menganggap FRIM sebagai tapak semula jadi. Ia adalah budaya — hutan itu adalah artifaknya.
 - Menganggap Kinabalu disenaraikan kerana pemandangannya. Kriteria (vii) tidak digunakan.
 - Mengelirukan Senarai Warisan Dunia dengan senarai Warisan Budaya Tidak Ketara, yang merupakan konvensyen berasingan — lihat [batik](/arts-culture/batik).

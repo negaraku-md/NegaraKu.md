@@ -23,14 +23,14 @@ appliesTo: "Anyone who wants to understand how Malaysia's judiciary is formed, h
 
 faq:
   - q: "Who makes the final decision to appoint a judge?"
-    a: "The Yang di-Pertuan Agong appoints judges under Article 122B of the Federal Constitution, acting on the advice of the Prime Minister and after consulting the Conference of Rulers for the highest posts. The Judicial Appointments Commission screens and recommends names first, but the JAC stage under Act 695 takes place before the constitutional process of Article 122B."
+    a: "The Yang di-Pertuan Agong appoints judges under Article 122B of the Federal Constitution, acting on the advice of the Prime Minister and after consulting the Conference of Rulers, which Article 122B(1) requires for all superior-court appointments. The Judicial Appointments Commission screens and recommends names first, but the JAC stage under Act 695 takes place before the constitutional process of Article 122B."
   - q: "How many names does the JAC recommend for a vacancy?"
     a: "Under section 22 of Act 695, the JAC selects not fewer than three persons for each High Court vacancy, and not fewer than two persons for other superior court posts. For senior posts, the Prime Minister may request two additional names under section 27."
   - q: "Can a judge be removed, and how?"
     a: "Yes, but only through the Article 125 process. A representation is made to the Yang di-Pertuan Agong, who then establishes a tribunal composed of not fewer than five persons who hold or have held judicial office. The grounds are limited to a breach of the code of ethics or an inability to perform the duties of office."
 
 lang: "en"
-sourceContentHash: "61532205e353743d"
+sourceContentHash: "609ac0242c162e91"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -47,7 +47,6 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Perincian Perkara 122B (pihak yang dinasihatkan dan syarat rundingan dengan Majlis Raja-Raja bagi setiap peringkat mahkamah): sahkan terhadap teks AGC."
   - "Butiran peristiwa 2025 (tarikh persaraan Ketua Hakim Negara ketika itu dan status lanjutan tempoh perkhidmatan): sahkan dengan pengumuman rasmi terkini."
 updated: 2026-08-07
 sources:
@@ -85,7 +84,7 @@ Each time a new Chief Justice takes the oath of office, an old question resurfac
 
 ## Who appoints judges in Malaysia?
 
-The formal appointment of superior court judges — of the Federal Court, the Court of Appeal, and the two High Courts — is made by the **Yang di-Pertuan Agong** under **Article 122B** of the Federal Constitution. He acts on the advice of the Prime Minister, and for the highest posts such as Chief Justice and President of the Court of Appeal, after consulting the Conference of Rulers.
+The formal appointment of superior court judges — of the Federal Court, the Court of Appeal, and the two High Courts — is made by the **Yang di-Pertuan Agong** under **Article 122B** of the Federal Constitution. He acts on the advice of the Prime Minister, and, as Article 122B(1) requires for all superior-court appointments (not only senior posts such as Chief Justice and President of the Court of Appeal), after consulting the Conference of Rulers.
 
 But before that constitutional stage begins, a screening process takes place under the **Judicial Appointments Commission Act 2009 (Act 695)**. The Commission's official portal explains that the process under Act 695 is one that *precedes* the appointment process under Article 122B — it does not replace it. This is the "two-stage" structure that has characterised the Malaysian system since 2009.
 
