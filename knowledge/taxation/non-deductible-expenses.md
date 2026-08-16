@@ -40,9 +40,7 @@ faq:
 verificationNeeded:
   - "The percentages disallowed by the Income Tax (Deductions Not Allowed for Payment Made to Labuan Company by Resident) Rules 2018 [P.U.(A) 375-2018] as amended — the gazette text could not be retrieved from an official source, so no figure is published here"
   - "Whether the s.39(1)(r) exemption in P.U.(A) 425-2021 has been extended beyond YA2025 — Labuan FSA circular 269/2021 states the effective period as YA2019 to YA2025 and no extension order was located"
-  - "Whether the Finance Act 2025 (Act 874) or any later amending Act added, deleted or amended any paragraph of s.39(1) after the Income Tax Act 1967 reprint dated 21 May 2024 used here"
   - "Whether paragraphs 39(1)(o) and 39(1)(p), which refer to the Goods and Services Tax Act 2014, remain operative following the repeal of that Act"
-
 lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
@@ -61,6 +59,9 @@ revisions:
 
 updated: 2026-07-20
 sources:
+  - title: "Finance Act 2025 (Act 874), arrangement of sections — Chapter II amends ITA ss.2, 6, 7, 12, 15C, 21, 24, 46, 49, 50, 65C-65F, 107C and 111 and Schedules 1 and 6; it does not amend s.39 or Schedule 3 (nor did Act 862)"
+    url: "https://494075.fs1.hubspotusercontent-na1.net/hubfs/494075/compliance-portal/act-874-finance-act-2025.pdf"
+    publisher: "Attorney General's Chambers (gazette)"
   - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
     publisher: "LHDN"

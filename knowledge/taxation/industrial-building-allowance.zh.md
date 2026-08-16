@@ -38,9 +38,7 @@ faq:
     a: "在一般公平交易的买卖中不要紧——买方的合格开支就是它自己的购价，不管卖方摊销到了什么地步。它在交易落入 paragraph 38 至 40 时才要紧，那几段把受控转让视为按处置方的剩余开支进行，并把该数字传给取得方。"
 
 verificationNeeded:
-  - "Finance Act 2025 (Act 874) 或其后任何修订法令，在此处所用 Income Tax Act 1967 的 2024 年 5 月 21 日重印本之后，是否改动了 Schedule 3"
-  - "目前是否有任何经宪报颁布的命令，为 paragraph 16 下的常年减免订明三百分之三以外的分数"
-lang: "zh"
+  - "目前是否有任何经宪报颁布的命令，为 paragraph 16 下的常年减免订明三百分之三以外的分数"lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "4788a314694d11fc"
@@ -60,6 +58,9 @@ revisions:
 
 updated: 2026-07-20
 sources:
+  - title: "Finance Act 2025 (Act 874), arrangement of sections — Chapter II amends ITA ss.2, 6, 7, 12, 15C, 21, 24, 46, 49, 50, 65C-65F, 107C and 111 and Schedules 1 and 6; it does not amend s.39 or Schedule 3 (nor did Act 862)"
+    url: "https://494075.fs1.hubspotusercontent-na1.net/hubfs/494075/compliance-portal/act-874-finance-act-2025.pdf"
+    publisher: "Attorney General's Chambers (gazette)"
   - title: "Public Rulings index (Ketetapan Umum) — LHDN listing confirms PR 3/2018, PR 8/2016 and PR 10/2016 on industrial buildings remain current (not reissued)"
     url: "https://www.hasil.gov.my/en/perundangan/ketetapan-umum/"
     publisher: "LHDN"

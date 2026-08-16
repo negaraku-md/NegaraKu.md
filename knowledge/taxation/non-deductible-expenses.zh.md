@@ -40,9 +40,7 @@ faq:
 verificationNeeded:
   - "Income Tax (Deductions Not Allowed for Payment Made to Labuan Company by Resident) Rules 2018 [P.U.(A) 375-2018]（经修订）所不容许的百分比——无法从官方来源取得宪报文本，因此此处不公布任何数字"
   - "P.U.(A) 425-2021 中的 s.39(1)(r) 豁免是否已延长至 YA2025 之后——Labuan FSA 通告 269/2021 载明有效期为 YA2019 至 YA2025，而找不到任何延长命令"
-  - "在此处所用的 2024 年 5 月 21 日 Income Tax Act 1967 重印本之后，Finance Act 2025（Act 874）或任何更后的修订法令是否曾增补、删除或修订 s.39(1) 的任何一段"
   - "提及 Goods and Services Tax Act 2014 的 39(1)(o) 与 39(1)(p) 段，在该法令废除之后是否仍然有效"
-
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
@@ -63,6 +61,9 @@ revisions:
 
 updated: 2026-07-20
 sources:
+  - title: "Finance Act 2025 (Act 874), arrangement of sections — Chapter II amends ITA ss.2, 6, 7, 12, 15C, 21, 24, 46, 49, 50, 65C-65F, 107C and 111 and Schedules 1 and 6; it does not amend s.39 or Schedule 3 (nor did Act 862)"
+    url: "https://494075.fs1.hubspotusercontent-na1.net/hubfs/494075/compliance-portal/act-874-finance-act-2025.pdf"
+    publisher: "Attorney General's Chambers (gazette)"
   - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
     publisher: "LHDN"

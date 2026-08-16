@@ -38,9 +38,7 @@ faq:
     a: "Tidak penting dalam jualan wajar biasa — perbelanjaan yang layak bagi pembeli ialah harga belian pembeli itu sendiri, tanpa mengira apa yang telah ditulis-turun oleh penjual. Ia menjadi penting apabila transaksi itu termasuk di bawah perenggan 38 hingga 40, yang menganggap sesuatu pemindahan terkawal berlaku pada perbelanjaan baki pihak yang melupuskan dan memindahkan angka itu kepada pihak yang memperoleh."
 
 verificationNeeded:
-  - "Whether the Finance Act 2025 (Act 874) or any later amending Act changed Schedule 3 after the Income Tax Act 1967 reprint dated 21 May 2024 used here"
-  - "Whether any gazetted order currently prescribes a fraction other than three-hundredths for the annual allowance under paragraph 16"
-lang: "ms"
+  - "Whether any gazetted order currently prescribes a fraction other than three-hundredths for the annual allowance under paragraph 16"lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "4788a314694d11fc"
@@ -59,6 +57,9 @@ revisions:
 
 updated: 2026-07-20
 sources:
+  - title: "Finance Act 2025 (Act 874), arrangement of sections — Chapter II amends ITA ss.2, 6, 7, 12, 15C, 21, 24, 46, 49, 50, 65C-65F, 107C and 111 and Schedules 1 and 6; it does not amend s.39 or Schedule 3 (nor did Act 862)"
+    url: "https://494075.fs1.hubspotusercontent-na1.net/hubfs/494075/compliance-portal/act-874-finance-act-2025.pdf"
+    publisher: "Attorney General's Chambers (gazette)"
   - title: "Public Rulings index (Ketetapan Umum) — LHDN listing confirms PR 3/2018, PR 8/2016 and PR 10/2016 on industrial buildings remain current (not reissued)"
     url: "https://www.hasil.gov.my/en/perundangan/ketetapan-umum/"
     publisher: "LHDN"

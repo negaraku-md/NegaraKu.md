@@ -31,9 +31,7 @@ faq:
   - q: "付给销售代理的现金奖励算是招待吗？"
     a: "不算。在 NV Alliance Sdn Bhd v Ketua Pengarah Hasil Dalam Negeri 一案中，上诉庭裁定付给销售代理的现金奖励不属于 section 18 下的款待，法院援引 noscitur a sociis 与 ejusdem generis 规则，认定「任何形式的款待」须从食物、饮料与娱乐取得其含义。因此这些款项完全落在 paragraph 39(1)(l) 之外，可全额扣除。"
 
-verificationNeeded:
-  - "Finance Act 2025 (Act 874) 或其后任何修订法令，在此处所用 Income Tax Act 1967 的 2024 年 5 月 21 日重印本之后，是否改动了 paragraph 39(1)(l)"
-lang: "zh"
+verificationNeeded: []lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "9f630c729df1ac01"
@@ -53,6 +51,9 @@ revisions:
 
 updated: 2026-07-20
 sources:
+  - title: "Finance Act 2025 (Act 874), arrangement of sections — Chapter II amends ITA ss.2, 6, 7, 12, 15C, 21, 24, 46, 49, 50, 65C-65F, 107C and 111 and Schedules 1 and 6; it does not amend s.39 or Schedule 3 (nor did Act 862)"
+    url: "https://494075.fs1.hubspotusercontent-na1.net/hubfs/494075/compliance-portal/act-874-finance-act-2025.pdf"
+    publisher: "Attorney General's Chambers (gazette)"
   - title: "Public Rulings index (Ketetapan Umum) — LHDN listing confirms no superseding ruling issued as at 2026"
     url: "https://www.hasil.gov.my/en/perundangan/ketetapan-umum/"
     publisher: "LHDN"

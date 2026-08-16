@@ -31,9 +31,7 @@ faq:
   - q: "Adakah insentif tunai kepada ejen jualan dianggap hiburan?"
     a: "Tidak. Dalam kes NV Alliance Sdn Bhd lwn Ketua Pengarah Hasil Dalam Negeri, Mahkamah Rayuan memutuskan bahawa insentif tunai yang dibayar kepada ejen jualan bukan hospitaliti dalam maksud seksyen 18, dengan menggunakan kaedah tafsiran noscitur a sociis dan ejusdem generis supaya 'hospitaliti dalam apa jua bentuk' mengambil maknanya daripada makanan, minuman dan rekreasi. Bayaran tersebut oleh itu terletak sepenuhnya di luar perenggan 39(1)(l) dan boleh ditolak sepenuhnya."
 
-verificationNeeded:
-  - "Whether the Finance Act 2025 (Act 874) or any later amending Act changed paragraph 39(1)(l) after the Income Tax Act 1967 reprint dated 21 May 2024 used here"
-lang: "ms"
+verificationNeeded: []lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "9f630c729df1ac01"
@@ -52,6 +50,9 @@ revisions:
 
 updated: 2026-07-20
 sources:
+  - title: "Finance Act 2025 (Act 874), arrangement of sections — Chapter II amends ITA ss.2, 6, 7, 12, 15C, 21, 24, 46, 49, 50, 65C-65F, 107C and 111 and Schedules 1 and 6; it does not amend s.39 or Schedule 3 (nor did Act 862)"
+    url: "https://494075.fs1.hubspotusercontent-na1.net/hubfs/494075/compliance-portal/act-874-finance-act-2025.pdf"
+    publisher: "Attorney General's Chambers (gazette)"
   - title: "Public Rulings index (Ketetapan Umum) — LHDN listing confirms no superseding ruling issued as at 2026"
     url: "https://www.hasil.gov.my/en/perundangan/ketetapan-umum/"
     publisher: "LHDN"

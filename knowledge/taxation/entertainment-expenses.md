@@ -31,9 +31,7 @@ faq:
   - q: "Are cash incentives to sales agents entertainment?"
     a: "No. In NV Alliance Sdn Bhd v Ketua Pengarah Hasil Dalam Negeri the Court of Appeal held that cash incentives paid to sales agents are not hospitality within section 18, applying the noscitur a sociis and ejusdem generis rules so that hospitality of any kind takes its meaning from food, drink and recreation. The payments therefore fell outside paragraph 39(1)(l) altogether and were fully deductible."
 
-verificationNeeded:
-  - "Whether the Finance Act 2025 (Act 874) or any later amending Act changed paragraph 39(1)(l) after the Income Tax Act 1967 reprint dated 21 May 2024 used here"
-lang: "en"
+verificationNeeded: []lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
@@ -51,6 +49,9 @@ revisions:
 
 updated: 2026-07-20
 sources:
+  - title: "Finance Act 2025 (Act 874), arrangement of sections — Chapter II amends ITA ss.2, 6, 7, 12, 15C, 21, 24, 46, 49, 50, 65C-65F, 107C and 111 and Schedules 1 and 6; it does not amend s.39 or Schedule 3 (nor did Act 862)"
+    url: "https://494075.fs1.hubspotusercontent-na1.net/hubfs/494075/compliance-portal/act-874-finance-act-2025.pdf"
+    publisher: "Attorney General's Chambers (gazette)"
   - title: "Public Rulings index (Ketetapan Umum) — LHDN listing confirms no superseding ruling issued as at 2026"
     url: "https://www.hasil.gov.my/en/perundangan/ketetapan-umum/"
     publisher: "LHDN"
