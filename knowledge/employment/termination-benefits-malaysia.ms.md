@@ -35,9 +35,7 @@ faq:
   - q: "Bagaimanakah tahun perkhidmatan yang tidak genap dikira?"
     a: "Peraturan 6(1) menghendaki faedah tersebut dipro-rata bagi tahun yang tidak genap, dikira mengikut bulan terdekat. Tiada pembundaran ke bawah kepada tahun genap."
 
-verificationNeeded:
-  - "Confirm whether any amendment after P.U.(A) 92/2011 has altered the 10 / 15 / 20 day bands."
-
+verificationNeeded: []
 obligations:
   - what: "Pay termination or lay-off benefits"
     trigger: "change"

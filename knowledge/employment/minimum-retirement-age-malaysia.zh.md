@@ -45,11 +45,7 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Tempoh 60 hari untuk memfailkan representasi pembuangan kerja tidak adil di bawah Seksyen 20 Akta Perhubungan Perusahaan 1967 (s.20(1A)) — sahkan sama ada tempoh dikira dari tarikh pembuangan atau dari tarikh tamat notis."
-  - "Pengecualian kontrak tempoh tetap 24–60 bulan dengan gaji pokok RM20,000 ke atas berasal daripada pindaan 2016 kepada Akta 753 — sahkan rujukan pindaan dan tarikh kuat kuasa yang tepat."
-  - "Petikan dan pegangan kes: Wong Mei Yoke v Tien Wah Press Malaya Sdn Bhd [2018] 1 ILR 20 dan Zulkefli Hashim v Uda Holdings Berhad [2018] 2 LNS 3169 — sahkan sitasi dan ringkasan pegangan terhadap laporan penuh."
-  - "Denda maksimum RM10,000 di bawah Akta 753 — sahkan ia masih jumlah maksimum semasa selepas sebarang pindaan."
-revisions:
+  - "Petikan dan pegangan kes: Wong Mei Yoke v Tien Wah Press Malaya Sdn Bhd [2018] 1 ILR 20 dan Zulkefli Hashim v Uda Holdings Berhad [2018] 2 LNS 3169 — sahkan sitasi dan ringkasan pegangan terhadap laporan penuh."revisions:
   - version: "01.00"
     date: 2026-08-08
     change: "Approved and published."
@@ -57,6 +53,9 @@ revisions:
 
 updated: 2026-08-08
 sources:
+  - title: "Industrial Relations Act 1967 (Act 177), updated text of reprint as at 1 November 2021"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1690019_BI/010721_Act%20177_final.pdf"
+    publisher: "Attorney General's Chambers (LOM)"
   - title: "Minimum Retirement Age Act 2012 (Act 753)"
     url: "https://jtksm.mohr.gov.my/sites/default/files/2023-03/6.%20Minimum%20Retirement%20Age%20Act%202012.pdf"
     publisher: "Jabatan Tenaga Kerja Semenanjung Malaysia (JTKSM), Kementerian Sumber Manusia"

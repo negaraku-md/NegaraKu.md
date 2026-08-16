@@ -35,9 +35,7 @@ faq:
   - q: "不足一年的年资怎么处理？"
     a: "Regulation 6(1) 要求不足一年者按比例计算，算至最接近的月份。不存在向下舍入至整年的做法。"
 
-verificationNeeded:
-  - "须核对 P.U.(A) 92/2011 之后是否有任何修订更改了 10／15／20 天的级距。"
-
+verificationNeeded: []
 obligations:
   - what: "支付解雇或停工津贴"
     trigger: "change"

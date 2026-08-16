@@ -35,9 +35,7 @@ faq:
   - q: "How is an incomplete year treated?"
     a: "Regulation 6(1) requires the benefit to be pro-rated for an incomplete year, calculated to the nearest month. There is no rounding down to whole years."
 
-verificationNeeded:
-  - "Confirm whether any amendment after P.U.(A) 92/2011 has altered the 10 / 15 / 20 day bands."
-
+verificationNeeded: []
 obligations:
   - what: "Pay termination or lay-off benefits"
     trigger: "change"

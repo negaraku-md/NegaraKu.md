@@ -21,9 +21,7 @@ keyTakeaways:
   - "Manual, vehicle-operating, supervisory, vessel and domestic employees stay covered irrespective of wages."
 appliesTo: "Employers deciding whether an employee is entitled to overtime, rest-day pay or termination benefits."
 
-verificationNeeded:
-  - "Confirm the RM4,000 First Schedule threshold has not been revised by any amendment later than Act A1651, against lom.agc.gov.my"
-
+verificationNeeded: []
 lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
@@ -42,6 +40,9 @@ revisions:
 
 updated: 2026-07-20
 sources:
+  - title: "Employment Act 1955 (Act 265), updated text as at 1 January 2023 — First Schedule"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1741197_BI/Act%20265_FINAL_as%20at%201%20Jan%202023%20(30.3.23).pdf"
+    publisher: "Laws of Malaysia, Attorney General's Chambers (AGC)"
   - title: "Employment Act 1955 (Act 265), updated text as at 1 January 2023 — First Schedule"
     url: "https://jtksm.mohr.gov.my/sites/default/files/2023-11/Akta%20Kerja%201955%20(Akta%20265)_0.pdf"
     publisher: "Jabatan Tenaga Kerja Semenanjung Malaysia"

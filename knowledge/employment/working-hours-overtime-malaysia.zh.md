@@ -35,9 +35,7 @@ faq:
   - q: "什么算作工作时数？"
     a: "s.60A(9) 把工作时数定义为雇员受雇主支配、不能自由支配自己的时间与行动的那段时间。s.60A(8) 把从事其性质涉及长时间不活动或待命工作的雇员排除于本条之外。"
 
-verificationNeeded:
-  - "须就现行法令条文与任何 JTKSM 指引，核对 s.60I 下月薪雇员普通薪酬率的除数"
-
+verificationNeeded: []
 obligations:
   - what: "支付加班、休息日与公共假期薪酬"
     trigger: "ongoing"

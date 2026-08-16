@@ -36,9 +36,7 @@ faq:
 verificationNeeded:
   - "Confirm the exact maximum monthly EIS contribution in ringgit at the RM6,000 ceiling against the Second Schedule to Act 800 — PERKESO publishes the rate table as an image-only PDF that could not be read as text"
   - "Confirm whether non-Malaysian citizens are excluded from EIS by the Act 800 definition of employee — PERKESO's contributions page lists government employees, domestic workers and the self-employed but does not address citizenship"
-  - "Confirm the current interest or penalty rate on late SOCSO and EIS contributions against PERKESO directly"
   - "Confirm the SOCSO registration deadline for a new employer and a new employee against PERKESO directly"
-
 obligations:
   - what: "Remit SOCSO contributions for the wage month"
     trigger: "ongoing"
@@ -83,6 +81,9 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
+  - title: "Contribution Payment — Interest on Late Payment of Contributions (ILPC)"
+    url: "https://www.perkeso.gov.my/en/uncategorised/801-contribution-payment.html"
+    publisher: "PERKESO"
   - title: "Contribution Rate"
     url: "https://www.perkeso.gov.my/en/rate-of-contribution.html"
     publisher: "PERKESO"

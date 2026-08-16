@@ -41,13 +41,16 @@ revisions:
 verificationNeeded:
   - "Exact founding date/decree and precise February 2003 rename date on a primary gov source (currently only Wikipedia MS and secondary directories state 1912 origin as Jabatan Buruh and 2003 rename to JTKSM)."
   - "Current exact number of JTKSM state/branch labour offices in Peninsular Malaysia."
-  - "Section 19 Employment Act 1955 requirement that wages be paid within 7 days of the wage period, and the exact maximum fine (commonly cited as RM50,000) — confirm against Act 265 statute text before stating."
-  - "Minimum wage RM1,700 effective dates (1 Feb 2025 for 5+ employees; 1 Aug 2025 all employers) — verify against the official Minimum Wages Order 2024 / gov gazette rather than HR blogs."
   - "Current name/branding of the parent ministry — confirm whether it is styled 'Ministry of Human Resources' or 'KESUMA (Kementerian Sumber Manusia)' in current official usage."
   - "Precise High Court appeal window (commonly cited 14 days) for Labour Court orders — confirm against Act 265."
-  - "Whether the Working for Workers (WFW) app and eAduan/SisPAA are the same channel or distinct — official pages reference both."
-updated: 2026-08-14
+  - "Whether the Working for Workers (WFW) app and eAduan/SisPAA are the same channel or distinct — official pages reference both."updated: 2026-08-14
 sources:
+  - title: "Minimum Wages Order 2024, P.U.(A) 376/2024"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputp/2541500/PUA%20376.pdf"
+    publisher: "Attorney General's Chambers (Federal Gazette)"
+  - title: "Employment Act 1955 (Act 265), s.19 and s.99A"
+    url: "https://jtksm.mohr.gov.my/sites/default/files/2023-11/Akta%20Kerja%201955%20(Akta%20265)_0.pdf"
+    publisher: "Jabatan Tenaga Kerja Semenanjung Malaysia / investmalaysia.gov.my reprint"
   - title: "JTKSM Function"
     url: "https://jtksm.mohr.gov.my/en/corporate-profile/profile/jtksm-function"
     publisher: "Jabatan Tenaga Kerja Semenanjung Malaysia (JTKSM)"

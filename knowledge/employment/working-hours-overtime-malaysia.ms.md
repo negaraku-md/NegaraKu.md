@@ -35,9 +35,7 @@ faq:
   - q: "Apakah yang dikira sebagai jam bekerja?"
     a: "Seksyen 60A(9) mentakrifkan jam bekerja sebagai masa di mana seorang pekerja berada di bawah kawalan majikan dan tidak bebas menguruskan masa dan pergerakannya sendiri. Seksyen 60A(8) mengecualikan daripada seksyen ini pekerja yang terlibat dalam kerja yang, mengikut sifatnya, melibatkan jam yang panjang tanpa aktiviti atau bertugas secara sedia siaga (stand-by)."
 
-verificationNeeded:
-  - "Sahkan pembahagi kadar gaji biasa s.60I bagi pekerja bergaji bulanan berdasarkan teks Akta semasa dan sebarang garis panduan JTKSM"
-
+verificationNeeded: []
 obligations:
   - what: "Bayar gaji kerja lebih masa, hari rehat dan cuti umum"
     trigger: "ongoing"

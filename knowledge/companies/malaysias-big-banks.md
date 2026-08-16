@@ -47,13 +47,14 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "The precise Financial Services Act 2013 shareholding limits and the sections they sit in. Reporting summarises the rule as a 5% approval threshold that an individual may raise only to about 10% with BNM approval; a human should confirm the exact thresholds (5% substantial-shareholder approval vs. the individual maximum) against the Act's text and BNM policy documents."
   - "Group total-assets figures and size ranking for Maybank, CIMB, Public Bank and Hong Leong. Specific asset numbers were removed because none of the cited FY2024 results releases disclose them; only RHB's ~RM350 billion is sourced (Bernama). A human should add each bank's audited total assets from its financial statements or Bursa Malaysia filings and confirm the size ordering."
   - "Whether Maybank's RM10.09 billion FY2024 net profit was a group record (the release does not use that word)."
   - "Hong Leong Bank's FY2024 figures are for the financial year ended 30 June 2024, not December — confirm comparability before drawing timing-sensitive conclusions."
-
 updated: 2026-07-28
 sources:
+  - title: "Financial Services Act 2013 (Act 758) — Laws of Malaysia"
+    url: "https://www.investmalaysia.gov.my/media/xrnl0vfp/financial-services-act-2013.pdf"
+    publisher: "Laws of Malaysia (official Gazette text via Invest Malaysia, .gov.my)"
   - title: "Maybank FY24 Net Profit up 7.9% to RM10.09b"
     url: "https://www.maybank.com/en/news/2025/02/26.page"
     publisher: "Malayan Banking Berhad (Maybank)"

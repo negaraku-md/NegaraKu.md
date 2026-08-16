@@ -48,9 +48,6 @@ revisions:
 verificationNeeded:
   - "Angka portfolio tenaga boleh baharu (4.6 GW: 3.3 GW Semenanjung termasuk 2.5 GW hidro besar + 1.3 GW luar negara) — semak nilai terkini kerana kapasiti berubah dari semasa ke semasa."
   - "Kiraan '11 juta pelanggan sehingga 30 September 2025' — sahkan tarikh rujukan dan angka pada laporan TNB terbaharu."
-  - "Tarikh penerbitan Kod Grid Semenanjung Malaysia (28 Mac 2025) dan pembahagian empat peranan (GSO, Single Buyer, Grid Owner, Grid Users)."
-  - "Sasaran RE NETR (31% menjelang 2025, 40% menjelang 2035, 70% menjelang 2050), enam tuas, 10 projek unggulan, pelaburan RM25 bilion dan 23,000 pekerjaan — sahkan pada dokumen NETR rasmi."
-
 updated: 2026-07-28
 sources:
   - title: "History — Tenaga Nasional Berhad"

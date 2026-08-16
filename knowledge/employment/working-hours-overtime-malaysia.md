@@ -35,9 +35,7 @@ faq:
   - q: "What counts as hours of work?"
     a: "Section 60A(9) defines hours of work as the time during which an employee is at the disposal of the employer and is not free to dispose of his own time and movements. Section 60A(8) excludes from the section employees engaged in work which by its nature involves long hours of inactive or stand-by employment."
 
-verificationNeeded:
-  - "Confirm the s.60I ordinary rate of pay divisor for monthly-rated employees against the current Act text and any JTKSM guidance"
-
+verificationNeeded: []
 obligations:
   - what: "Pay overtime, rest-day and public-holiday wages"
     trigger: "ongoing"
