@@ -63,7 +63,7 @@ sources:
     url: "https://www.commonlii.org/my/legis/consol_act/ita19671971191/"
     publisher: "CommonLII (Commonwealth Legal Information Institute)"
   - title: "Implementation of e-Invoicing in Malaysia"
-    url: "https://www.hasil.gov.my/en/e-invoice/implementation-of-e-invoicing-in-malaysia/"
+    url: "https://www.hasil.gov.my/en/e-invois"
     publisher: "Inland Revenue Board of Malaysia (LHDN/IRBM)"
   - title: "Guidelines on the Tax Treatment of Digital Currency Transactions"
     url: "https://www.ey.com/en_my/technical/tax-alerts/guidelines-on-the-tax-treatment-of-digital-currency-transactions"
