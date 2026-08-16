@@ -43,9 +43,7 @@ verificationNeeded:
   - "Mekanisme permulaan kuat kuasa Akta 861: portal perundangan AGC menunjukkan notifikasi permulaan kuat kuasa P.U. (B) 521/2024 (kuat kuasa 24 November 2024), manakala penguatkuasaan dilaporkan bermula 1 Januari 2025 — sahkan tarikh permulaan kuat kuasa penuh dan bila tepatnya ST menjadi agensi penguatkuasa."
   - "Ambang RM2.4 juta bil elektrik tahunan sebagai padanan kepada 21,600 GJ setahun ialah anggaran daripada laporan akhbar (The Star/BERNAMA); sahkan terhadap peraturan subsidiari Akta 861."
   - "Bilangan fungsi seksyen 14 Akta 610 dinyatakan sebagai 15 — sahkan terhadap teks Akta 610 semasa (termasuk sebarang pindaan)."
-  - "Struktur organisasi baharu ST yang dilaporkan berkuat kuasa 1 Januari 2026 — sahkan butiran dan kesannya kepada mandat."
-  - "Pemvestingan minyak dan gas dalam Petronas di bawah Akta Kemajuan Petroleum 1974 (Akta 144) — sahkan petikan seksyen yang tepat (s.2)."
-revisions:
+  - "Struktur organisasi baharu ST yang dilaporkan berkuat kuasa 1 Januari 2026 — sahkan butiran dan kesannya kepada mandat."revisions:
   - version: "01.00"
     date: 2026-08-01
     change: "Approved and published."
@@ -53,6 +51,9 @@ revisions:
 
 updated: 2026-08-01
 sources:
+  - title: "Petroleum Development Act 1974 (Act 144) — full text"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20144%20-%20Petroleum%20Development%20Act%201974.pdf"
+    publisher: "Pejabat Peguam Negara Malaysia (Attorney General's Chambers)"
   - title: "Energy Commission Act 2001 (Act 610) — full text"
     url: "https://faolex.fao.org/docs/pdf/mal37918.pdf"
     publisher: "FAOLEX (FAO) — repositori pengehosan; statut digubal oleh Parlimen Malaysia"

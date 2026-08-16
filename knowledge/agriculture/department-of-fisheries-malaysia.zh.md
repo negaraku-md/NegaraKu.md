@@ -44,12 +44,13 @@ revisions:
 verificationNeeded:
   - "DOF's founding/establishment year and institutional history (predecessor Fisheries Act 1963) — not confirmed on any primary page opened."
   - "2024 statistics reported in press (total production ~1.91 million tonnes, sector value ~RM16.9 billion, 7.1% growth) — confirm against the DOF Annual Statistics / Annual Report primary PDF before stating."
-  - "Exact statutory section numbers for licensing (e.g. section 11 for local fishing vessels) — verify against the AGC/FAOLEX text of Act 317."
   - "Current licence and registration fees — not published in the licensing FAQ."
   - "Exact nautical-mile boundaries defining Zones A/B/C — the FAQ gives only partial ranges."
-  - "Number and locations of DOF state and district offices — confirm from the DOF state-office-location page."
-updated: 2026-08-14
+  - "Number and locations of DOF state and district offices — confirm from the DOF state-office-location page."updated: 2026-08-14
 sources:
+  - title: "Laws of Malaysia — Fisheries Act 1985 (Act 317), updated reprint"
+    url: "https://faolex.fao.org/docs/pdf/mal1869.pdf"
+    publisher: "AGC / FAO FAOLEX (Laws of Malaysia)"
   - title: "Vision, Mission & Role — Department of Fisheries Malaysia Official Portal"
     url: "https://www.dof.gov.my/en/corporate-info/introduction/vision-mission-role/"
     publisher: "Department of Fisheries Malaysia"

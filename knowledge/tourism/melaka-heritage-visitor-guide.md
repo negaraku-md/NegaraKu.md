@@ -62,8 +62,6 @@ verificationNeeded:
   - "The year and circumstances of the Melaka sultanate's adoption of Islam (often attributed to the 15th century; the specific date '1414' is historically disputed and was removed)."
   - "The founding of Melaka around 1400 and its attribution to Parameswara."
   - "The colonial-era dates in the timeline table — Portuguese conquest 1511, Dutch takeover 1641, Anglo-Dutch Treaty 1824 — standard but not confirmed against a fetched primary source in this pass."
-  - "UNESCO reference number 1223 and the 2011 minor boundary modification: previously verified as genuine by the fact-checker, but whc.unesco.org could not be re-fetched during this correction pass — reconfirm on the official UNESCO record."
-
 sources:
   - title: "Melaka and George Town, Historic Cities of the Straits of Malacca"
     url: "https://whc.unesco.org/en/list/1223/"

@@ -45,13 +45,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Official Penang terminal proper names (Sultan Abdul Halim Terminal at Butterworth; Raja Tun Uda Terminal at Pengkalan Weld) — real-world correct but not confirmed by the Penang Port Commission source used here."
-  - "Exact Penang ferry frequency/interval beyond the confirmed 06:30-23:30 operating hours."
   - "Exact east-coast monsoon closure and reopening dates, which vary by island and operator (source confirms Terengganu resorts closing from around October to February)."
   - "Current Langkawi ferry fares and first/last daily sailing times (fares and timetables change seasonally)."
   - "Pangkor crossing time and fares — sourced here from a resort schedule page; confirm against the operator."
   - "Menumbok-Labuan passenger and vehicle (RoRo) sailing frequency and current fares."
-
 updated: 2026-08-08
 sources:
   - title: "Ferry Services"

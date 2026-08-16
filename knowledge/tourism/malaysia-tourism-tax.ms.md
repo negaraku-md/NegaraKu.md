@@ -52,12 +52,13 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "The 'imprisonment of up to one year' penalty is cited to Act A1633 via the AGC Laws of Malaysia portal, which confirms the statute but does not display the penalty text; a human should confirm the exact imprisonment term against the gazetted full text."
   - "The DPSP grace period ends 31 December 2025 (now past); confirm the current permanent post-grace-period collection rules on the live MyTTx portal."
   - "The worked invoice figures are a generic illustration of the flat-line mechanic, not a verbatim reproduction of any single numbered example in the RMCD General Guide."
-
 updated: 2026-07-28
 sources:
+  - title: "Tourism Tax Act 2017 (Act 791)"
+    url: "https://www.myttx.customs.gov.my/wp-content/uploads/2022/05/APPENDIX-1-Tourism-Tax-Act-2017.pdf"
+    publisher: "Royal Malaysian Customs Department"
   - title: "General Guide on Tourism Tax"
     url: "https://www.myttx.customs.gov.my/wp-content/uploads/2022/05/APPENDIX-A-General-Guide.pdf"
     publisher: "Royal Malaysian Customs Department"

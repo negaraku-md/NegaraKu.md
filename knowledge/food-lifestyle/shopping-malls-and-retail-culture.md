@@ -46,14 +46,8 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "IOI City Mall net lettable area (~2.5M sq ft) and 'largest regional mall in Malaysia' claim — confirm against the current IOI Properties page."
   - "1 Utama NLA (~2.19M sq ft) — The Edge Malaysia figure is a media report, not the owner's disclosure; confirm the current figure."
-  - "Pavilion Kuala Lumpur 1,370,953 sq ft NLA and 96.8% occupancy at 31 Dec 2025 — confirm against the latest Pavilion REIT filing."
-  - "Suria KLCC ~1M sq ft retail and 340+ specialty stores — confirm current figures with Suria KLCC."
-  - "Mid Valley Megamall 1,798,148 sq ft / 556 tenancies — dated as of 31 Dec 2024; refresh if a newer IGB REIT figure is published."
   - "Retail/wholesale figures (RM1.77T total, retail +6.1% to RM764.9B for 2024; RM150.1B Oct 2024, +5.5% YoY) — confirm against the latest DOSM release."
-  - "SST rates and the 1 July 2025 scope expansion — confirm current rates and covered sectors against the MOF/RMCD source at time of publication."
-
 updated: 2026-08-01
 sources:
   - title: "IOI City Mall, Putrajaya — largest regional mall in Malaysia"

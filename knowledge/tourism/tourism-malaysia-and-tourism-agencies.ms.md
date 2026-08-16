@@ -40,10 +40,8 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Whether Act 481 (Malaysia Tourism Promotion Board Act 1992) is the specific Act that constitutes Tourism Malaysia / MTPB as a statutory body — the AGC Laws of Malaysia portal confirms the Act's title, royal assent (30 January 1992) and commencement (1 May 1992), but does not quote the establishing clause itself."
   - "The exact venue and city of the Malaysia Tourism Centre (MaTiC): the cited MOTAC page lists a Putrajaya address (Presint 5, 62200 Putrajaya), which may be the ministry HQ footer rather than the visitor centre's operating location. Confirm before stating a city."
-  - "The current administering authority for Malaysia My Second Home (MM2H): it is listed as a MOTAC programme, but its visa/residency administration reportedly now also involves the Ministry of Home Affairs / Immigration Department."
-revisions:
+  - "The current administering authority for Malaysia My Second Home (MM2H): it is listed as a MOTAC programme, but its visa/residency administration reportedly now also involves the Ministry of Home Affairs / Immigration Department."revisions:
   - version: "01.00"
     date: 2026-07-28
     change: "Approved and published."
@@ -51,6 +49,9 @@ revisions:
 
 updated: 2026-07-28
 sources:
+  - title: "Malaysia Tourism Promotion Board Act 1992 (Act 481)"
+    url: "https://tcclaw.com.my/wp-content/uploads/2025/08/Malaysia-Tourism-Promotion-Board-Act-1992.pdf"
+    publisher: "Laws of Malaysia (Commissioner of Law Revision) reprint; corroborated by lom.agc.gov.my"
   - title: "Departments & Agencies"
     url: "https://www.motac.gov.my/en/departments-agencies/"
     publisher: "Ministry of Tourism, Arts and Culture Malaysia (MOTAC)"

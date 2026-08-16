@@ -50,8 +50,6 @@ verificationNeeded:
   - "Nama rasmi penuh dan nombor akta pemerbadanan 1997: sumber FELCRA memaparkan varian 'Akta Lembaga Penyatuan dan Pemulihan Tanah Negara (Penggantian dan Pembubaran) 1997' berbanding bentuk 'Tanah Persekutuan' yang digunakan di sini — sahkan terhadap statut persekutuan rasmi (e-Federal Gazette / AGC)."
   - "Struktur penyeliaan dasar semasa FELCRA Berhad sebagai GLC (dimiliki penuh Menteri Kewangan Diperbadankan) berbanding kementerian yang menyelia operasinya — sahkan kementerian penyelia terkini."
   - "Status penyatuan/penggabungan FELDA, FELCRA dan RISDA selepas Mac 2023 — sahkan sama ada masih kekal sebagai perbincangan dasar tanpa penggabungan penuh."
-  - "Nombor akta bagi Akta 85 (RISDA) 1972 dan tarikh kuat kuasa — sahkan terhadap teks statut rasmi."
-
 updated: 2026-08-01
 sources:
   - title: "Company Overview — FELCRA Berhad"

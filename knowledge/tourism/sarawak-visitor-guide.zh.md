@@ -49,9 +49,7 @@ version: "01.00"
 verificationNeeded:
   - "Gunung Mulu summit height: the park's own site conflicts — mulupark.com/mulu-world-heritage-area/ states 2,376 m, the mulupark.com homepage states 2,377 m. Draft uses ~2,376 m; confirm the authoritative figure."
   - "MDAC exemption categories: the specific claim that Singapore citizens and Malaysian permanent residents are exempt could not be substantiated (IMI pages returned only navigation chrome). Confirm the current exemption list with the Immigration Department of Malaysia."
-  - "Sarawak as Malaysia's largest state by area is stated as general knowledge and is not tied to a fetched citation; attach an authoritative source or soften."
-  - "Semenggoh feeding windows (~08:00–10:00, ~14:00–16:00) and the ~24 km distance from Kuching are cited to semenggoh.my but were not independently re-verified in this pass."
-revisions:
+  - "Semenggoh feeding windows (~08:00–10:00, ~14:00–16:00) and the ~24 km distance from Kuching are cited to semenggoh.my but were not independently re-verified in this pass."revisions:
   - version: "01.00"
     date: 2026-07-28
     change: "Approved and published."
@@ -59,6 +57,9 @@ revisions:
 
 updated: 2026-07-28
 sources:
+  - title: "Profile of East Malaysia"
+    url: "https://www.caam.gov.my/industry/public-service-obligations/profile-of-east-malaysia/"
+    publisher: "Civil Aviation Authority of Malaysia (CAAM)"
   - title: "Endorsement of Exemption Section 66"
     url: "https://www.imi.gov.my/index.php/en/main-services/pass/endorsement-of-exemption-section-66/"
     publisher: "Immigration Department of Malaysia"

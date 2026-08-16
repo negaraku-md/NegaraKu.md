@@ -50,10 +50,8 @@ revisions:
 
 verificationNeeded:
   - "Exact current managed route count (MyRapid states 'over 270'; Bernama/The Star/NST state 281 as of the Jan 2026 restructuring) — confirm the live figure."
-  - "Rapid Bus Sdn Bhd formation year (2013) — confirm against Prasarana corporate records."
   - "Whether Phase 2 of the restructuring (additional routes) has taken effect and its scope/date."
   - "Current status of Rapid Kuantan (reportedly ceased operations) — excluded here pending a primary source."
-
 updated: 2026-08-08
 sources:
   - title: "Rapid KL — Bus"

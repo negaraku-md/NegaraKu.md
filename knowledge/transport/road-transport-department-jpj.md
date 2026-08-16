@@ -43,13 +43,16 @@ verificationNeeded:
   - "Exact effective date of e-LKM digital documents (secondary sources say 10 February 2023; official page only confirms 'starting in 2023')."
   - "Exact date MyJPJ enabled licence and road-tax renewal (reported as 1 February 2024) and the RM5 digital-renewal rebate window (reported to expire 31 December 2024) — from news reporting, not confirmed on a government source."
   - "How many months in advance road tax can be renewed (commonly stated as 2 months; not confirmed on the malaysia.gov.my page)."
-  - "Current Director-General name (Wikipedia lists Aedy Fadly bin Ramli — confirm against official appointment)."
-  - "Current headquarters address — official jpj.gov.my lists No. 26 Jalan Tun Hussein, Presint 4, while Wikipedia lists Block D4, Complex D; confirm which is current."
   - "Full list and codes of Malaysian driving licence classes (L, LDL, PDL, CDL, D, B, B2, DA, etc.) — needs a primary-source licensing page."
   - "Mechanics and thresholds of the KEJARA demerit-points system (points per offence, suspension thresholds) — needs primary source."
-  - "Whether the AES (Automated Enforcement System) is currently operated by JPJ or another body."
-updated: 2026-08-14
+  - "Whether the AES (Automated Enforcement System) is currently operated by JPJ or another body."updated: 2026-08-14
 sources:
+  - title: "Headquarter — Portal Rasmi JPJ"
+    url: "https://www.jpj.gov.my/en/headquarter/"
+    publisher: "Road Transport Department Malaysia (JPJ)"
+  - title: "Director's Foreword — Portal Rasmi JPJ"
+    url: "https://www.jpj.gov.my/en/directors-foreword/"
+    publisher: "Road Transport Department Malaysia (JPJ)"
   - title: "History of the Road Transport Department Malaysia"
     url: "https://www.jpj.gov.my/en/jpj-history/"
     publisher: "Road Transport Department Malaysia (JPJ)"

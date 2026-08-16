@@ -42,10 +42,7 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Pengesahan bahawa sasaran interim SSR beras 75% (menjelang 2025) berpunca khusus daripada Rancangan Malaysia Ke-12 (bukan sekadar sasaran umum kerajaan) — perlu disemak terhadap dokumen rasmi RMK-12; angka 75%/80% sendiri disahkan oleh The Edge Malaysia."
-  - "Sasaran pertumbuhan KDNK agromakanan 5% setahun menjelang 2030 (berbanding 4.5% sepanjang RMK-12) — kini bersumberkan laporan media (Jesselton Times); sahkan terhadap dokumen rasmi DAN 2.0 / KPKM."
-  - "Tarikh pelancaran DAN 2.0 (25 Oktober 2021) dan sasaran SSL 2030 bagi susu segar 100%, daging lembu 50% dan ikan 98% — sahkan terhadap dokumen rasmi DAN 2.0."
-revisions:
+  - "Pengesahan bahawa sasaran interim SSR beras 75% (menjelang 2025) berpunca khusus daripada Rancangan Malaysia Ke-12 (bukan sekadar sasaran umum kerajaan) — perlu disemak terhadap dokumen rasmi RMK-12; angka 75%/80% sendiri disahkan oleh The Edge Malaysia."revisions:
   - version: "01.00"
     date: 2026-08-01
     change: "Approved and published."
@@ -53,6 +50,9 @@ revisions:
 
 updated: 2026-08-01
 sources:
+  - title: "Dasar Agromakanan Negara 2021-2030 (DAN 2.0)"
+    url: "https://parlimen.gov.my/resources/files/rsaindex/pdf/Dasar%20Agromakanan%20Negara%202021-2030%20(DAN%202.0)_compressed.pdf"
+    publisher: "KPKM / official DAN 2.0 document (via parlimen.gov.my)"
   - title: "Supply and Utilization Accounts Selected Agricultural Commodities, Malaysia, 2020-2024"
     url: "https://www.dosm.gov.my/portal-main/release-content/supply-and-utilization-accounts-selected-agricultural-commodities-malaysia-2020-2024"
     publisher: "Jabatan Perangkaan Malaysia (DOSM)"
