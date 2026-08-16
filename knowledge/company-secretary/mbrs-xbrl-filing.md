@@ -42,11 +42,13 @@ verificationNeeded:
   - "Exact statutory basis for the requirement that a lodger hold a practising certificate under Section 241 Companies Act 2016 — sources conflicted; confirm the exact section and wording before stating it."
   - "Precise definition/threshold of an 'exempt private company' (EPC) under the Companies Act 2016 and exactly what an EPC lodges (an EPC certificate) instead of full XBRL financial statements — confirm on a primary SSM source before detailing."
   - "Exact current mTool and mPortal version numbers — these change over time; verify the live version on ssm.com.my or omit."
-  - "Section 68 annual-return lodgement timing (commonly within 30 days of the incorporation anniversary) — confirm against AGC statute text or SSM before stating."
   - "Exact scope of Phase 2 (audited FS under Companies Act 1965) vs Phase 1/3 — confirm the CA 1965 vs CA 2016 split against the original 26 November 2024 SSM circular, not secondary summaries."
   - "Whether foreign companies registered in Malaysia have a distinct MBRS filing template or deadline — confirm specifics on SSM."
 updated: 2026-08-14
 sources:
+  - title: "FAQ Part M — Annual Returns and Financial Reporting (Companies Act 2016)"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/PART%20M.pdf"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
   - title: "Pages - MBRS"
     url: "https://www.ssm.com.my/Pages/Services/Other-Services/MBRS.aspx"
     publisher: "Suruhanjaya Syarikat Malaysia (SSM)"

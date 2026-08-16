@@ -35,8 +35,7 @@ faq:
   - q: "What happens if we appoint a director but never file with SSM?"
     a: "The appointment may still be valid internally, but the company and every officer commit an offence under s.58(4), punishable by a fine not exceeding RM50,000 plus RM500 a day for a continuing offence. SSM's public record will also continue to show the wrong board, which creates problems with banks, tenders and due diligence."
 
-verificationNeeded:
-  - "Confirm the current SSM late lodgement fee scale for s.58 notifications against the prevailing SSM practice directive on late lodgement penalties"
+verificationNeeded: []
 
 obligations:
   - what: "Effect a change of director, manager or secretary particulars in the company's own register"
@@ -80,6 +79,9 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
+  - title: "Practice Directive No. 1/2017 (Revised 1 October 2024) — Late Lodgement Penalties"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Practice%20Directive%201_2017%20(Revised)%201%20Oct%202024.pdf"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
   - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
     publisher: "SSM"

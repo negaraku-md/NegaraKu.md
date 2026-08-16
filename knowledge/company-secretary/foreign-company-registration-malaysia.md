@@ -43,7 +43,6 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "The Sdn Bhd comparison-row requirement of at least one Malaysia-resident director plus a company secretary is stated as general Companies Act 2016 context (ss. 196 and 235) and is not covered by the four foreign-company-focused sources cited; confirm before relying on it."
   - "Whether a specific planned activity actually amounts to 'carrying on business' under section 561(3) for the entity in question."
 revisions:
   - version: "01.00"
@@ -53,6 +52,9 @@ revisions:
 
 updated: 2026-08-07
 sources:
+  - title: "FAQ Part C — Incorporation (Companies Act 2016)"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/FAQS-ON-COMPANIES-ACT-2016-AND-TRANSITIONAL-ISSUES/part_c.pdf"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
   - title: "Guidelines for Registration of Foreign Company"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/GUIDELINES/gl6_bi_guidelines_for_registration_of_foreign_company_201117_0.pdf"
     publisher: "Companies Commission of Malaysia (SSM)"

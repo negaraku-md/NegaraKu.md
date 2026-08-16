@@ -35,8 +35,7 @@ faq:
   - q: "如果我们委任了董事却从未向 SSM 呈报，会怎样？"
     a: "该委任在内部或许仍然有效，但公司与每一名高职人员依 s.58(4) 触犯罪行，可处不超过 RM50,000 的罚款，持续犯罪则每日加罚 RM500。SSM 的公开记录也会继续显示错误的董事会，这在银行、投标与尽职审查上都会出问题。"
 
-verificationNeeded:
-  - "Confirm the current SSM late lodgement fee scale for s.58 notifications against the prevailing SSM practice directive on late lodgement penalties"
+verificationNeeded: []
 
 obligations:
   - what: "在公司自己的登记册中作出董事、经理或秘书详情的变更"
@@ -82,6 +81,9 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
+  - title: "Practice Directive No. 1/2017 (Revised 1 October 2024) — Late Lodgement Penalties"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Practice%20Directive%201_2017%20(Revised)%201%20Oct%202024.pdf"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
   - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
     publisher: "SSM"

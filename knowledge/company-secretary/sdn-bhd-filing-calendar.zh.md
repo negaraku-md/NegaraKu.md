@@ -21,8 +21,7 @@ keyTakeaways:
   - "休眠公司照样欠常年申报表，也照样要提交财务报表"
 appliesTo: "任何马来西亚 Sdn Bhd 的董事与公司秘书，包括休眠公司。"
 
-verificationNeeded:
-  - "Confirm the stamping deadline for an instrument of transfer against the Stamp Act 1949 — it is administered by LHDN, not SSM, and is not verified on this page"
+verificationNeeded: []
 
 obligations:
   - what: "委任第一名公司秘书"
@@ -156,6 +155,9 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
+  - title: "Stamp Act 1949 (Act 378), Section 47 — 30-day stamping period"
+    url: "https://www.investmalaysia.gov.my/media/aweottor/stamp-act-1949.pdf"
+    publisher: "Attorney General's Chambers (Stamp Act 1949)"
   - title: "Companies Act 2016 (Act 777), updated text as at 1 August 2022"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
     publisher: "SSM"

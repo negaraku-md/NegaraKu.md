@@ -21,8 +21,7 @@ keyTakeaways:
   - "A dormant company still owes the annual return and still lodges financial statements"
 appliesTo: "Directors and company secretaries of any Malaysian Sdn Bhd, including dormant companies."
 
-verificationNeeded:
-  - "Confirm the stamping deadline for an instrument of transfer against the Stamp Act 1949 — it is administered by LHDN, not SSM, and is not verified on this page"
+verificationNeeded: []
 
 obligations:
   - what: "Appoint the first company secretary"
@@ -154,6 +153,9 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
+  - title: "Stamp Act 1949 (Act 378), Section 47 — 30-day stamping period"
+    url: "https://www.investmalaysia.gov.my/media/aweottor/stamp-act-1949.pdf"
+    publisher: "Attorney General's Chambers (Stamp Act 1949)"
   - title: "Companies Act 2016 (Act 777), updated text as at 1 August 2022"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
     publisher: "SSM"

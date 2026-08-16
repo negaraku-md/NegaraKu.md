@@ -35,8 +35,7 @@ faq:
   - q: "Apa yang berlaku jika kami melantik seorang pengarah tetapi tidak pernah memfailkannya dengan SSM?"
     a: "Pelantikan itu mungkin masih sah secara dalaman, tetapi syarikat dan setiap pegawai melakukan kesalahan di bawah s.58(4), yang boleh didenda tidak melebihi RM50,000 ditambah RM500 sehari bagi kesalahan berterusan. Rekod awam SSM juga akan terus menunjukkan susunan lembaga pengarah yang salah, yang menimbulkan masalah dengan bank, tender dan due diligence."
 
-verificationNeeded:
-  - "Sahkan skala fi lewat pemfailan SSM semasa bagi pemberitahuan s.58 berbanding arahan amalan SSM yang berkuat kuasa mengenai penalti lewat pemfailan"
+verificationNeeded: []
 
 obligations:
   - what: "Melaksanakan perubahan butiran pengarah, pengurus atau setiausaha dalam daftar syarikat sendiri"
@@ -81,6 +80,9 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
+  - title: "Practice Directive No. 1/2017 (Revised 1 October 2024) — Late Lodgement Penalties"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Practice%20Directive%201_2017%20(Revised)%201%20Oct%202024.pdf"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
   - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
     publisher: "SSM"

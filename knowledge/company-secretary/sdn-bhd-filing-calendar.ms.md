@@ -21,8 +21,7 @@ keyTakeaways:
   - "Syarikat dorman tetap wajib memfailkan penyata tahunan dan tetap wajib memfailkan penyata kewangan"
 appliesTo: "Pengarah dan setiausaha syarikat bagi mana-mana Sdn Bhd di Malaysia, termasuk syarikat dorman."
 
-verificationNeeded:
-  - "Sahkan tarikh akhir penyetempan bagi instrumen pemindahan berdasarkan Stamp Act 1949 — ia ditadbir oleh LHDN, bukan SSM, dan tidak disahkan dalam halaman ini"
+verificationNeeded: []
 
 obligations:
   - what: "Lantik setiausaha syarikat pertama"
@@ -155,6 +154,9 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
+  - title: "Stamp Act 1949 (Act 378), Section 47 — 30-day stamping period"
+    url: "https://www.investmalaysia.gov.my/media/aweottor/stamp-act-1949.pdf"
+    publisher: "Attorney General's Chambers (Stamp Act 1949)"
   - title: "Companies Act 2016 (Act 777), updated text as at 1 August 2022"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
     publisher: "SSM"
