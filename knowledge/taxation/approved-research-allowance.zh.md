@@ -40,8 +40,6 @@ faq:
 verificationNeeded:
   - "MIDA 是否已发布比 2021 年 3 月 31 日版本更新的合约研发与研发公司申请指引"
   - "LHDN 就 s.34A 申请的程序指引自 2023 年 6 月 26 日的修订以来是否已再修订——只找到马来文版"
-  - "Public Ruling 5/2020 与 10/2021 是否已被取代；两者均有马来文与英文版，且在撰写时为现行版本"
-
 obligations:
   - what: "呈交 Form 1 以取得 s.34A 下研发活动的批准"
     trigger: "financial-year-end"
@@ -77,6 +75,9 @@ revisions:
 
 updated: 2026-07-20
 sources:
+  - title: "Public Rulings index (Ketetapan Umum) — LHDN listing confirms PR 5/2020 and 10/2021 remain the current R&D rulings (no superseding PR 2023-2026)"
+    url: "https://www.hasil.gov.my/en/perundangan/ketetapan-umum/"
+    publisher: "LHDN"
   - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — ss.2, 34(7), 34A, 34B and Schedule 3"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
     publisher: "LHDN"

@@ -40,8 +40,6 @@ faq:
 verificationNeeded:
   - "Whether MIDA has issued a guideline for Contract R&D and R&D company applications later than the 31 March 2021 edition"
   - "Whether the LHDN procedural guideline for s.34A applications has been revised since the 26 June 2023 amendment — only the Malay edition was located"
-  - "Whether Public Rulings 5/2020 and 10/2021 have been superseded; both are published in Malay and English editions and were the current editions at the time of writing"
-
 obligations:
   - what: "Lodge Form 1 to obtain approval of the R&D activity under s.34A"
     trigger: "financial-year-end"
@@ -75,6 +73,9 @@ revisions:
 
 updated: 2026-07-20
 sources:
+  - title: "Public Rulings index (Ketetapan Umum) — LHDN listing confirms PR 5/2020 and 10/2021 remain the current R&D rulings (no superseding PR 2023-2026)"
+    url: "https://www.hasil.gov.my/en/perundangan/ketetapan-umum/"
+    publisher: "LHDN"
   - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — ss.2, 34(7), 34A, 34B and Schedule 3"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
     publisher: "LHDN"
