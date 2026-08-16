@@ -18,7 +18,7 @@ keyTakeaways:
   - "『皇家』（DiRaja）称号由最高元首于1958年7月24日颁赐，以表彰警察在1948至1960年紧急状态期间的贡献。"
   - "『马来西亚皇家警察』这一名称在1963年9月16日马来西亚成立后开始使用。"
   - "PDRM受《1967年警察法令》（第344号法令）管辖，该法令规范其组织、纪律、权力与职务。"
-  - "部队由全国总警长领导；该职位目前由拿督斯里莫哈末卡立依斯迈（Datuk Seri Mohd Khalid Ismail）出任。"
+  - "部队由全国总警长领导；该职位目前由丹斯里莫哈末卡立依斯迈（Tan Sri Dato' Seri Haji Mohd Khalid bin Haji Ismail）出任。"
 appliesTo: "马来西亚公民、学生、研究人员，以及任何想了解国家警察机构的人士。"
 
 faq:
@@ -29,12 +29,12 @@ faq:
   - q: "哪一部法律管辖PDRM？"
     a: "PDRM受《1967年警察法令》（第344号法令）管辖，这是规范警察部队组织、纪律、权力与职务的法令。"
   - q: "谁领导PDRM？"
-    a: "部队由全国总警长（KPN）领导。该职位目前由拿督斯里莫哈末卡立依斯迈（Datuk Seri Mohd Khalid Ismail）出任，总部设于吉隆坡武吉阿曼（Bukit Aman）。"
+    a: "部队由全国总警长（KPN）领导。该职位目前由丹斯里莫哈末卡立依斯迈（Tan Sri Dato' Seri Haji Mohd Khalid bin Haji Ismail）出任，总部设于吉隆坡武吉阿曼（Bukit Aman）。"
   - q: "最高元首在PDRM中扮演什么角色？"
     a: "通过《1967年警察法令》的修订，最高元首受委任为马来西亚皇家警察荣誉名誉总监（Pesuruhjaya Yang Dipertua Kehormat）。"
 
 lang: "zh"
-sourceContentHash: "6d7bf5bd1ec4a390"
+sourceContentHash: "5b90810f9a367f77"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -45,7 +45,6 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Ketua Polis Negara semasa: Datuk Seri Mohd Khalid Ismail disahkan sebagai KPN ke-15 (dilantik 23 Jun 2025) — sahkan beliau masih menyandang jawatan pada tarikh penerbitan serta ejaan dan gelaran penuh."
   - "Struktur jabatan PDRM dalam jadual: sahkan terhadap carta organisasi rasmi terkini di rmp.gov.my (nama dan singkatan jabatan boleh berubah)."
   - "Tiga keutamaan PDRM bagi 2026 bersumberkan laporan Malay Mail (sumber berita sekunder); wajar disemak semula terhadap kenyataan rasmi PDRM."
 revisions:
@@ -56,6 +55,9 @@ revisions:
 
 updated: 2026-08-01
 sources:
+  - title: "Ketua Polis Negara — Tan Sri Dato' Seri Haji Mohd Khalid bin Haji Ismail (appointed 23 June 2025)"
+    url: "https://www.rmp.gov.my/infor-korporate/ketua-polis-negara"
+    publisher: "Polis Diraja Malaysia"
   - title: "Sejarah Penubuhan Pasukan Polis (1807-1957)"
     url: "https://apsec.upm.edu.my/artikel/sejarah_penubuhan_pasukan_polis_1807_1957-75025"
     publisher: "Pusat Polis Bantuan dan Keselamatan Universiti (APSeC), Universiti Putra Malaysia"
@@ -142,7 +144,7 @@ PDRM由**全国总警长（KPN）**领导，总部设于**吉隆坡武吉阿曼�
 
 ## 今日由谁领导PDRM？
 
-现任全国总警长是**拿督斯里莫哈末卡立依斯迈（Datuk Seri Mohd Khalid Ismail）**。就2026年而言，他列出了部队的三大优先事项：在执法行动中优化运用**人工智能（AI）技术**；强化成员的**专业精神与诚信**，以遏制贪污与滥权；以及依据「昌明大马」（Malaysia MADANI）原则，优先关注**人民与警察成员的福祉**。
+现任全国总警长是**丹斯里莫哈末卡立依斯迈（Tan Sri Dato' Seri Haji Mohd Khalid bin Haji Ismail）**。就2026年而言，他列出了部队的三大优先事项：在执法行动中优化运用**人工智能（AI）技术**；强化成员的**专业精神与诚信**，以遏制贪污与滥权；以及依据「昌明大马」（Malaysia MADANI）原则，优先关注**人民与警察成员的福祉**。
 
 这些优先事项反映出一个古老机构在适应现代挑战——从网络罪案到公众对透明度的期望——过程中的方向。
 

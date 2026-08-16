@@ -47,7 +47,6 @@ reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
   - "Exact net-worth threshold for the income-test alternative (secondary sources cite ~RM1 billion; confirm against the current official PVIP FAQ)."
-  - "The precise up-front portion of the RM200,000 participation fee (secondary sources describe a ~10% initial payment before online submission with the balance on conditional approval)."
   - "The exact participant cap, if any (older reporting referenced a cap tied to population; confirm the current figure with the Immigration Department)."
   - "The six-month deposit-withdrawal window, net-worth/onshore-income alternative and RM50,000 10-year dependent option are described as 2026 revisions by secondary sources — confirm they remain current on the official PVIP materials."
   - "Launch dates (announced 1 September 2022; open from 1 October 2022) and the current list of Immigration-appointed agents."
@@ -104,7 +103,7 @@ There are three separate money commitments, and it helps to keep them apart: a f
 | Item | Amount | Notes |
 | --- | --- | --- |
 | Fixed deposit | RM1,000,000 | Held in the applicant's name at a licensed Malaysian bank; no withdrawal on the principal at first |
-| Participation fee (principal) | RM200,000 | One-time and non-refundable; a portion (secondary sources cite ~10%) is payable before the agent submits the online application, with the balance on conditional approval |
+| Participation fee (principal) | RM200,000 | One-time and non-refundable; a portion (official PVIP FAQ: RM2,000, i.e. 1%) is payable before the agent submits the online application, with the balance on conditional approval |
 | Participation fee (each dependent) | RM100,000 | A 10-year dependent option is available for RM50,000 (half rate) under the 2026 revision |
 | Pass fee | RM2,000 per year, per person | Recurring annual fee |
 | Visa fee | Varies by nationality | Set by existing country-based rates |

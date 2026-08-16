@@ -36,7 +36,7 @@ faq:
     a: "PVIP dikendalikan oleh Jabatan Imigresen (Dalam Negeri) dan bukannya MOTAC, menambah hak bekerja dan belajar secara eksplisit, membenarkan pembelian hartanah komersial dan perindustrian (bukan hanya kediaman), dan tidak mengenakan tempoh tinggal minimum. Permohonan dibuat melalui agen yang dilantik Imigresen dan bukannya agen MM2H."
 
 lang: "ms"
-sourceContentHash: "45d9d72bc40836f5"
+sourceContentHash: "885b7aabccb192f1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -48,7 +48,6 @@ reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
   - "Exact net-worth threshold for the income-test alternative (secondary sources cite ~RM1 billion; confirm against the current official PVIP FAQ)."
-  - "The precise up-front portion of the RM200,000 participation fee (secondary sources describe a ~10% initial payment before online submission with the balance on conditional approval)."
   - "The exact participant cap, if any (older reporting referenced a cap tied to population; confirm the current figure with the Immigration Department)."
   - "The six-month deposit-withdrawal window, net-worth/onshore-income alternative and RM50,000 10-year dependent option are described as 2026 revisions by secondary sources — confirm they remain current on the official PVIP materials."
   - "Launch dates (announced 1 September 2022; open from 1 October 2022) and the current list of Immigration-appointed agents."
@@ -105,7 +104,7 @@ Terdapat tiga komitmen kewangan yang berasingan, dan adalah baik untuk membezaka
 | Item | Amaun | Nota |
 | --- | --- | --- |
 | Deposit tetap | RM1,000,000 | Disimpan atas nama pemohon di bank Malaysia berlesen; tiada pengeluaran ke atas jumlah pokok pada mulanya |
-| Yuran penyertaan (pemohon utama) | RM200,000 | Sekali sahaja dan tidak boleh dikembalikan; sebahagian (sumber sekunder menyebut ~10%) perlu dibayar sebelum agen menghantar permohonan dalam talian, dengan baki dibayar semasa kelulusan bersyarat |
+| Yuran penyertaan (pemohon utama) | RM200,000 | Sekali sahaja dan tidak boleh dikembalikan; sebahagian (FAQ rasmi PVIP: RM2,000, iaitu 1%) perlu dibayar sebelum agen menghantar permohonan dalam talian, dengan baki dibayar semasa kelulusan bersyarat |
 | Yuran penyertaan (setiap tanggungan) | RM100,000 | Pilihan tanggungan 10 tahun tersedia pada harga RM50,000 (separuh kadar) di bawah semakan 2026 |
 | Yuran pas | RM2,000 setahun, setiap orang | Yuran tahunan berulang |
 | Yuran visa | Berbeza mengikut kewarganegaraan | Ditetapkan mengikut kadar sedia ada berasaskan negara |

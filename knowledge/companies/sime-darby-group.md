@@ -47,11 +47,13 @@ revisions:
 updated: 2026-07-28
 verificationNeeded:
   - "Founding dates for Guthrie & Co (1821) and Sime, Darby and Co. (1910), and the January 2007 Synergy Drive merger date — confirm against a primary/company-heritage source; not independently re-fetched in this pass."
-  - "Current Bursa Malaysia stock short names / ticker codes for all three companies (draft shows SIME, SIMEPLT, SIMEPROP) — the plantation company's short name changed with the SD Guthrie rebrand; confirm from Bursa."
   - "PNB's exact current shareholding percentage in each of the three companies — confirm from latest annual reports / Bursa filings."
   - "Whether Sime Darby Property is the single 'largest' listed developer by land bank versus 'one of the largest' — confirm the ranking and current land-bank acreage from an authoritative source."
   - "Whether Sime Darby Berhad had, by the Nov 2024 rebrand, fully divested the trading, logistics and healthcare businesses it retained at the 2017 demerger."
 sources:
+  - title: "Bursa Malaysia Listing Directory — SD Guthrie Berhad (SDG, 5285)"
+    url: "https://www.bursamalaysia.com/trade/trading_resources/listing_directory/company-profile?stock_code=5285"
+    publisher: "Bursa Malaysia"
   - title: "Sime to acquire remaining stake in UMW / completes 61.18% acquisition"
     url: "https://paultan.org/2023/12/14/sime-darby-completes-acquisition-of-stake-in-umw/"
     publisher: "Paul Tan's Automotive News (paultan.org)"
@@ -111,7 +113,7 @@ In November 2017, Sime Darby Berhad separately listed two of its subsidiaries �
 | Company | Core business | Ticker (verify) | Notes |
 | --- | --- | --- | --- |
 | Sime Darby Berhad (now "Sime") | Automotive and industrial equipment | SIME | Distributes luxury marques and Caterpillar equipment; acquired UMW Holdings |
-| SD Guthrie Berhad (formerly Sime Darby Plantation) | Oil palm plantations and downstream | SIMEPLT | Rebranded from Sime Darby Plantation in 2024 |
+| SD Guthrie Berhad (formerly Sime Darby Plantation) | Oil palm plantations and downstream | SDG | Rebranded from Sime Darby Plantation in 2024 |
 | Sime Darby Property Berhad | Real estate development | SIMEPROP | Among Malaysia's largest listed property developers by land bank |
 
 ## What does each company do now?

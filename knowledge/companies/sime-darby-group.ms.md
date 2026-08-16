@@ -29,7 +29,7 @@ faq:
     a: "Dana pelaburan negara Malaysia, Permodalan Nasional Berhad (PNB), merupakan pemegang saham utama merentasi syarikat-syarikat Sime Darby, dan PNB ialah penjual pegangan UMW yang diperoleh Sime Darby Berhad. Peratusan pegangan saham yang tepat berubah dari semasa ke semasa dan perlu disemak terhadap pemfailan Bursa Malaysia terkini setiap syarikat."
 
 lang: "ms"
-sourceContentHash: "9e59ab60c5a1e071"
+sourceContentHash: "b6cfb2928f3fa4fa"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -48,11 +48,13 @@ revisions:
 updated: 2026-07-28
 verificationNeeded:
   - "Founding dates for Guthrie & Co (1821) and Sime, Darby and Co. (1910), and the January 2007 Synergy Drive merger date — confirm against a primary/company-heritage source; not independently re-fetched in this pass."
-  - "Current Bursa Malaysia stock short names / ticker codes for all three companies (draft shows SIME, SIMEPLT, SIMEPROP) — the plantation company's short name changed with the SD Guthrie rebrand; confirm from Bursa."
   - "PNB's exact current shareholding percentage in each of the three companies — confirm from latest annual reports / Bursa filings."
   - "Whether Sime Darby Property is the single 'largest' listed developer by land bank versus 'one of the largest' — confirm the ranking and current land-bank acreage from an authoritative source."
   - "Whether Sime Darby Berhad had, by the Nov 2024 rebrand, fully divested the trading, logistics and healthcare businesses it retained at the 2017 demerger."
 sources:
+  - title: "Bursa Malaysia Listing Directory — SD Guthrie Berhad (SDG, 5285)"
+    url: "https://www.bursamalaysia.com/trade/trading_resources/listing_directory/company-profile?stock_code=5285"
+    publisher: "Bursa Malaysia"
   - title: "Sime to acquire remaining stake in UMW / completes 61.18% acquisition"
     url: "https://paultan.org/2023/12/14/sime-darby-completes-acquisition-of-stake-in-umw/"
     publisher: "Paul Tan's Automotive News (paultan.org)"
@@ -112,7 +114,7 @@ Pada November 2017, Sime Darby Berhad menyenaraikan secara berasingan dua anak s
 | Syarikat | Perniagaan teras | Kod saham (sahkan) | Nota |
 | --- | --- | --- | --- |
 | Sime Darby Berhad (kini "Sime") | Automotif dan peralatan industri | SIME | Mengedar jenama mewah dan peralatan Caterpillar; memperoleh UMW Holdings |
-| SD Guthrie Berhad (dahulunya Sime Darby Plantation) | Perladangan kelapa sawit dan huluan-hiliran | SIMEPLT | Dijenamakan semula daripada Sime Darby Plantation pada 2024 |
+| SD Guthrie Berhad (dahulunya Sime Darby Plantation) | Perladangan kelapa sawit dan huluan-hiliran | SDG | Dijenamakan semula daripada Sime Darby Plantation pada 2024 |
 | Sime Darby Property Berhad | Pembangunan hartanah | SIMEPROP | Antara pemaju hartanah tersenarai terbesar di Malaysia mengikut bank tanah |
 
 ## Apakah yang dilakukan setiap syarikat kini?

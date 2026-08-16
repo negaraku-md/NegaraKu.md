@@ -13,7 +13,7 @@ contentType: "place"
 answer: "Sarawak ialah negeri terbesar Malaysia dari segi keluasan tanah, terletak di barat laut pulau Borneo. Ekonominya dibina atas minyak dan gas — termasuk salah satu kemudahan eksport LNG utama dunia di Bintulu — di samping balak, minyak sawit dan kuasa hidro. Sarawak memegang autonomi tersendiri di bawah Perjanjian Malaysia 1963, termasuk kawalan imigresennya sendiri."
 keyTakeaways:
   - "Negeri terbesar di Malaysia dari segi keluasan tanah, meliputi kira-kira satu pertiga daripada jumlah wilayah negara"
-  - "Ibu negeri ialah Kuching; populasi sekitar 2.9 juta"
+  - "Ibu negeri ialah Kuching; populasi sekitar 2.54 juta"
   - "Diketuai oleh seorang Yang di-Pertua Negeri (Gabenor) dan dipimpin dari segi politik oleh seorang Premier, bukan Ketua Menteri"
   - "Pengeluar utama LNG, balak, minyak sawit dan kuasa hidroelektrik"
   - "Mengekalkan autonomi tersendiri di bawah Perjanjian Malaysia 1963 (MA63), termasuk pemeriksaan imigresennya sendiri untuk kemasukan dari Semenanjung Malaysia"
@@ -29,13 +29,12 @@ faq:
   - q: "Siapakah yang diuruskan oleh pelabur tenaga di Sarawak?"
     a: "Lazimnya kedua-dua Petronas, sebagai syarikat minyak nasional persekutuan, dan entiti negeri Sarawak sendiri termasuk Petros. Pembahagian peranan antara mereka telah menjadi subjek rundingan, jadi sahkan pengaturan semasa dengan kedua-duanya sebelum menstrukturkan sesuatu projek."
 
-verificationNeeded:
-  - "Sahkan populasi dan keluasan tanah semasa Sarawak terhadap keluaran DOSM terkini sebelum penerbitan."
+verificationNeeded: []
 
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "abf87c9f6a3dcc8c"
+sourceContentHash: "fe6d42d875ef660f"
 
 status: "published"
 aiAssisted: true
@@ -52,6 +51,9 @@ sensitivity: "constitution"
 
 updated: 2026-07-20
 sources:
+  - title: "OpenDOSM — Population at state level (Sarawak ~2.54 million)"
+    url: "https://open.dosm.gov.my/data-catalogue/population_state"
+    publisher: "Department of Statistics Malaysia (DOSM)"
   - title: "Sarawak Government Official Portal"
     url: "https://sarawak.gov.my/"
     publisher: "Government of Sarawak"
@@ -84,7 +86,7 @@ negeri semenanjung.
 | | |
 | --- | --- |
 | Ibu negeri | Kuching |
-| Populasi | Sekitar 2.9 juta |
+| Populasi | Sekitar 2.54 juta |
 | Ketua negeri | Yang di-Pertua Negeri (Gabenor); kerajaan negeri dipimpin oleh seorang Premier |
 | Industri utama | Minyak & gas (LNG), balak, minyak sawit, kuasa hidro, pelancongan |
 

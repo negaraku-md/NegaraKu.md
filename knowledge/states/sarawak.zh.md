@@ -13,7 +13,7 @@ contentType: "place"
 answer: "砂拉越是马来西亚陆地面积最大的州属，位于婆罗洲岛的西北部。其经济建立在石油与天然气之上——包括位于民都鲁的全球主要液化天然气（LNG）出口设施之一——同时还有木材、棕油与水力发电。砂拉越依据1963年马来西亚协议保有独特的自治权，包括自行掌管入境管制。"
 keyTakeaways:
   - "马来西亚陆地面积最大的州属，约占全国总领土的三分之一"
-  - "州首府为古晋；人口约290万"
+  - "州首府为古晋；人口约254万"
   - "由州元首（Yang di-Pertua Negeri，州长）领衔，政治上由一位总理（Premier）领导，而非首席部长"
   - "液化天然气（LNG）、木材、棕油与水力发电的主要生产地"
   - "依据1963年马来西亚协议（MA63）保有独特的自治权，包括对来自马来半岛入境者的自行入境查验"
@@ -29,13 +29,12 @@ faq:
   - q: "能源投资者在砂拉越与谁打交道？"
     a: "通常同时与作为联邦国家石油公司的国家石油公司（Petronas），以及砂拉越自身的州级实体（包括Petros）打交道。两者之间的角色分配一直是磋商的对象，因此在筹划项目之前，请向双方确认当前的安排。"
 
-verificationNeeded:
-  - "在出版前，须依据统计局（DOSM）最新发布的数据核实砂拉越当前的人口与陆地面积。"
+verificationNeeded: []
 
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "abf87c9f6a3dcc8c"
+sourceContentHash: "fe6d42d875ef660f"
 
 status: "published"
 aiAssisted: true
@@ -52,6 +51,9 @@ sensitivity: "constitution"
 
 updated: 2026-07-20
 sources:
+  - title: "OpenDOSM — Population at state level (Sarawak ~2.54 million)"
+    url: "https://open.dosm.gov.my/data-catalogue/population_state"
+    publisher: "Department of Statistics Malaysia (DOSM)"
   - title: "Sarawak Government Official Portal"
     url: "https://sarawak.gov.my/"
     publisher: "Government of Sarawak"
@@ -82,7 +84,7 @@ keywords: ["Sarawak Malaysia", "Kuching", "Sarawak oil and gas", "Malaysia Agree
 | | |
 | --- | --- |
 | 首府 | 古晋 |
-| 人口 | 约290万 |
+| 人口 | 约254万 |
 | 州元首 | 州元首（Yang di-Pertua Negeri，州长）；州政府由一位总理（Premier）领导 |
 | 主要产业 | 石油与天然气（LNG）、木材、棕油、水力发电、旅游业 |
 

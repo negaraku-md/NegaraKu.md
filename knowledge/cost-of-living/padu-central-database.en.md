@@ -40,7 +40,6 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Sama ada kelayakan atau pendaftaran PADU turut merangkumi pemastautin tetap atau terhad kepada warganegara Malaysia 18 tahun ke atas — sumber yang dipetik hanya merujuk warganegara."
   - "Sama ada angka pendaftaran 10.85 juta (setakat 31 Mac 2024) telah berubah selepas fasa kemas kini seterusnya."
   - "Sama ada butiran kos perkakasan RM2 juta / tempoh pembinaan tujuh bulan patut dimasukkan semula dengan sumber utama kerajaan jika relevan (dikeluarkan dalam pass ini kerana bersifat promosi dan longgar kaitannya)."
   - "Pengelasan sensitivity — topik melibatkan penyasaran kelayakan subsidi melalui pangkalan data kebangsaan; sahkan sama ada 'none' kekal sesuai."

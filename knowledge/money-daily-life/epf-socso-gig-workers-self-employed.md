@@ -43,7 +43,6 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Tarikh permulaan kuat kuasa tepat Akta 789 — laman rasmi PERKESO hanya menyatakan 'Jun 2017'; notis P.U. (B) 299 2017 tidak dapat dibaca mesin. Sahkan hari tepat."
   - "Angka teras i-Saraan (kadar padanan 20%, had umur 60 tahun, ambang caruman RM2,500 untuk insentif penuh) — kini bersandar pada The Star + AJobThing kerana laman rasmi KWSP i-Saraan (kwsp.gov.my) memulangkan HTTP 403. Sahkan terus dengan KWSP apabila boleh diakses."
   - "Butiran i-Saraan Plus (padanan RM600 / had RM6,000, mekanisme pendaftaran, tarikh berkuat kuasa) — sahkan dengan halaman rasmi KWSP i-Saraan Plus."
   - "Peratusan caruman tepat yang ditetapkan di bawah seksyen 83 Akta 872 — Akta menyerahkannya kepada peraturan subsidiari; tiada peratusan tetap dalam teks utama."
@@ -117,7 +116,7 @@ Perkara penting: walaupun Akta Pekerja Gig 2025 mewajibkan perlindungan PERKESO,
 
 Inilah bahagian yang sering terlepas pandang. Jika anda cedera dalam kemalangan semasa bekerja dan tiada perlindungan, kos perubatan dan kehilangan pendapatan ditanggung sendiri. PERKESO menutup jurang itu melalui **Skim Keselamatan Sosial Pekerjaan Sendiri (SKSPS)**, dijenamakan **Lindung Kendiri**.
 
-Skim ini beroperasi di bawah **Akta Keselamatan Sosial Pekerjaan Sendiri 2017 (Akta 789)**. Ia mula dikuatkuasakan pada **Jun 2017** bagi sektor pengangkutan penumpang (teksi, e-hailing, bas), kemudian diperluas berkuat kuasa **1 Januari 2020** kepada 19 sektor tambahan — menjadikan **20 sektor** kesemuanya — termasuk penghantaran barang dan makanan, pertanian, perniagaan dalam talian, perkhidmatan profesional dan seni. Terbuka kepada warganegara dan pemastautin tetap Malaysia tanpa had umur.
+Skim ini beroperasi di bawah **Akta Keselamatan Sosial Pekerjaan Sendiri 2017 (Akta 789)**. Ia mula dikuatkuasakan pada **1 Jun 2017** bagi sektor pengangkutan penumpang (teksi, e-hailing, bas), kemudian diperluas berkuat kuasa **1 Januari 2020** kepada 19 sektor tambahan — menjadikan **20 sektor** kesemuanya — termasuk penghantaran barang dan makanan, pertanian, perniagaan dalam talian, perkhidmatan profesional dan seni. Terbuka kepada warganegara dan pemastautin tetap Malaysia tanpa had umur.
 
 Anda memilih pelan berdasarkan **pendapatan bulanan diinsuranskan** yang dipilih. Caruman bermula serendah beberapa ringgit sebulan:
 

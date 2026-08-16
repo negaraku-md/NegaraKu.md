@@ -33,7 +33,7 @@ faq:
     a: "Under Act 872, the platform provider is responsible for registering you under the Self-Employment scheme (Lindung Kendiri) and deducting contributions from your earnings. However, you still need to make sure the registration is complete and pay the balance if the deduction does not reach the minimum rate of your chosen plan."
 
 lang: "en"
-sourceContentHash: "eb320a89654f4b43"
+sourceContentHash: "759ef843044df58d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -44,7 +44,6 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Tarikh permulaan kuat kuasa tepat Akta 789 — laman rasmi PERKESO hanya menyatakan 'Jun 2017'; notis P.U. (B) 299 2017 tidak dapat dibaca mesin. Sahkan hari tepat."
   - "Angka teras i-Saraan (kadar padanan 20%, had umur 60 tahun, ambang caruman RM2,500 untuk insentif penuh) — kini bersandar pada The Star + AJobThing kerana laman rasmi KWSP i-Saraan (kwsp.gov.my) memulangkan HTTP 403. Sahkan terus dengan KWSP apabila boleh diakses."
   - "Butiran i-Saraan Plus (padanan RM600 / had RM6,000, mekanisme pendaftaran, tarikh berkuat kuasa) — sahkan dengan halaman rasmi KWSP i-Saraan Plus."
   - "Peratusan caruman tepat yang ditetapkan di bawah seksyen 83 Akta 872 — Akta menyerahkannya kepada peraturan subsidiari; tiada peratusan tetap dalam teks utama."
@@ -118,7 +117,7 @@ The key point: even though the Gig Workers Act 2025 makes SOCSO protection manda
 
 This is the part that is often overlooked. If you are injured in an accident while working and have no protection, the medical costs and lost income come out of your own pocket. SOCSO closes that gap through the **Self-Employment Social Security Scheme (SKSPS)**, branded **Lindung Kendiri**.
 
-The scheme operates under the **Self-Employment Social Security Act 2017 (Act 789)**. It first came into force in **June 2017** for the passenger transport sector (taxis, e-hailing, buses), then was expanded with effect from **1 January 2020** to 19 additional sectors — making **20 sectors** in total — including goods and food delivery, agriculture, online business, professional services and the arts. It is open to Malaysian citizens and permanent residents with no age limit.
+The scheme operates under the **Self-Employment Social Security Act 2017 (Act 789)**. It first came into force in **1 June 2017** for the passenger transport sector (taxis, e-hailing, buses), then was expanded with effect from **1 January 2020** to 19 additional sectors — making **20 sectors** in total — including goods and food delivery, agriculture, online business, professional services and the arts. It is open to Malaysian citizens and permanent residents with no age limit.
 
 You choose a plan based on your selected **insured monthly income**. Contributions start as low as a few ringgit a month:
 

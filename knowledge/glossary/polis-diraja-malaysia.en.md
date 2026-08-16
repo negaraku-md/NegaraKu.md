@@ -18,7 +18,7 @@ keyTakeaways:
   - "The 'DiRaja' (Royal) title was bestowed by the Yang di-Pertuan Agong on 24 July 1958 for service during the 1948-1960 Emergency."
   - "The name Royal Malaysia Police came into use after the formation of Malaysia on 16 September 1963."
   - "PDRM is governed by the Police Act 1967 (Act 344), which regulates its organisation, discipline, powers and duties."
-  - "The force is led by the Inspector-General of Police; the post is currently held by Datuk Seri Mohd Khalid Ismail."
+  - "The force is led by the Inspector-General of Police; the post is currently held by Tan Sri Dato' Seri Haji Mohd Khalid bin Haji Ismail."
 appliesTo: "Malaysians, students, researchers and anyone wishing to understand the national police institution."
 
 faq:
@@ -29,12 +29,12 @@ faq:
   - q: "What law governs the PDRM?"
     a: "The PDRM is governed by the Police Act 1967 (Act 344), the act that regulates the organisation, discipline, powers and duties of the police force."
   - q: "Who leads the PDRM?"
-    a: "The force is led by the Inspector-General of Police (IGP). The post is currently held by Datuk Seri Mohd Khalid Ismail, with headquarters at Bukit Aman, Kuala Lumpur."
+    a: "The force is led by the Inspector-General of Police (IGP). The post is currently held by Tan Sri Dato' Seri Haji Mohd Khalid bin Haji Ismail, with headquarters at Bukit Aman, Kuala Lumpur."
   - q: "What is the Yang di-Pertuan Agong's role in the PDRM?"
     a: "Through an amendment to the Police Act 1967, the Yang di-Pertuan Agong was appointed as the Honorary Commissioner-in-Chief of the Royal Malaysia Police."
 
 lang: "en"
-sourceContentHash: "6d7bf5bd1ec4a390"
+sourceContentHash: "5b90810f9a367f77"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -45,7 +45,6 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Ketua Polis Negara semasa: Datuk Seri Mohd Khalid Ismail disahkan sebagai KPN ke-15 (dilantik 23 Jun 2025) — sahkan beliau masih menyandang jawatan pada tarikh penerbitan serta ejaan dan gelaran penuh."
   - "Struktur jabatan PDRM dalam jadual: sahkan terhadap carta organisasi rasmi terkini di rmp.gov.my (nama dan singkatan jabatan boleh berubah)."
   - "Tiga keutamaan PDRM bagi 2026 bersumberkan laporan Malay Mail (sumber berita sekunder); wajar disemak semula terhadap kenyataan rasmi PDRM."
 revisions:
@@ -56,6 +55,9 @@ revisions:
 
 updated: 2026-08-01
 sources:
+  - title: "Ketua Polis Negara — Tan Sri Dato' Seri Haji Mohd Khalid bin Haji Ismail (appointed 23 June 2025)"
+    url: "https://www.rmp.gov.my/infor-korporate/ketua-polis-negara"
+    publisher: "Polis Diraja Malaysia"
   - title: "Sejarah Penubuhan Pasukan Polis (1807-1957)"
     url: "https://apsec.upm.edu.my/artikel/sejarah_penubuhan_pasukan_polis_1807_1957-75025"
     publisher: "Pusat Polis Bantuan dan Keselamatan Universiti (APSeC), Universiti Putra Malaysia"
@@ -142,7 +144,7 @@ This arrangement enables the PDRM to handle a broad scope of duties — from nei
 
 ## Who leads the PDRM today?
 
-The current Inspector-General of Police is **Datuk Seri Mohd Khalid Ismail**. For 2026, he outlined three priorities for the force: optimising **artificial intelligence (AI) technology** in enforcement operations; strengthening the **professionalism and integrity** of personnel to curb corruption and abuse of power; and prioritising the **well-being of the public and police personnel** in line with the Malaysia MADANI principles.
+The current Inspector-General of Police is **Tan Sri Dato' Seri Haji Mohd Khalid bin Haji Ismail**. For 2026, he outlined three priorities for the force: optimising **artificial intelligence (AI) technology** in enforcement operations; strengthening the **professionalism and integrity** of personnel to curb corruption and abuse of power; and prioritising the **well-being of the public and police personnel** in line with the Malaysia MADANI principles.
 
 These priorities reflect the direction of a long-established institution adapting itself to modern challenges — from cybercrime to public expectations of transparency.
 

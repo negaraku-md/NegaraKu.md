@@ -13,7 +13,7 @@ contentType: "place"
 answer: "Sarawak is Malaysia's largest state by land area, occupying the northwest of Borneo island. Its economy is built on oil and gas — including one of the world's major LNG export facilities at Bintulu — alongside timber, palm oil and hydropower. Sarawak holds distinct autonomy under the 1963 Malaysia Agreement, including its own immigration control."
 keyTakeaways:
   - "Largest state in Malaysia by land area, covering roughly a third of the country's total territory"
-  - "State capital is Kuching; population is around 2.9 million"
+  - "State capital is Kuching; population is around 2.54 million"
   - "Headed by a Yang di-Pertua Negeri (Governor) and led politically by a Premier, not a Chief Minister"
   - "Major producer of LNG, timber, palm oil and hydroelectric power"
   - "Retains distinct autonomy under the Malaysia Agreement 1963 (MA63), including its own immigration checks for entry from Peninsular Malaysia"
@@ -29,8 +29,7 @@ faq:
   - q: "Who do energy investors deal with in Sarawak?"
     a: "Typically both Petronas, as the federal national oil company, and Sarawak's own state entities including Petros. The allocation of roles between them has been the subject of negotiation, so confirm current arrangements with both before structuring a project."
 
-verificationNeeded:
-  - "Confirm Sarawak's current population and land area against the latest DOSM releases before publication."
+verificationNeeded: []
 
 lang: "en"
 masterLanguage: "en"
@@ -50,6 +49,9 @@ sensitivity: "constitution"
 
 updated: 2026-07-20
 sources:
+  - title: "OpenDOSM — Population at state level (Sarawak ~2.54 million)"
+    url: "https://open.dosm.gov.my/data-catalogue/population_state"
+    publisher: "Department of Statistics Malaysia (DOSM)"
   - title: "Sarawak Government Official Portal"
     url: "https://sarawak.gov.my/"
     publisher: "Government of Sarawak"
@@ -81,7 +83,7 @@ distinct constitutional standing that sets it apart from every peninsular state.
 | | |
 | --- | --- |
 | Capital | Kuching |
-| Population | Around 2.9 million |
+| Population | Around 2.54 million |
 | Head of state | Yang di-Pertua Negeri (Governor); state government led by a Premier |
 | Key industries | Oil & gas (LNG), timber, palm oil, hydropower, tourism |
 

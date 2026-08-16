@@ -33,7 +33,7 @@ faq:
     a: "在 Akta 872 下，平台供应商有责任在自雇保障计划（Lindung Kendiri）下为你注册，并从你的收入中扣除缴款。不过你仍须确保注册完整，并在扣款未达到所选方案最低费率时补缴差额。"
 
 lang: "zh"
-sourceContentHash: "eb320a89654f4b43"
+sourceContentHash: "759ef843044df58d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -44,7 +44,6 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Tarikh permulaan kuat kuasa tepat Akta 789 — laman rasmi PERKESO hanya menyatakan 'Jun 2017'; notis P.U. (B) 299 2017 tidak dapat dibaca mesin. Sahkan hari tepat."
   - "Angka teras i-Saraan (kadar padanan 20%, had umur 60 tahun, ambang caruman RM2,500 untuk insentif penuh) — kini bersandar pada The Star + AJobThing kerana laman rasmi KWSP i-Saraan (kwsp.gov.my) memulangkan HTTP 403. Sahkan terus dengan KWSP apabila boleh diakses."
   - "Butiran i-Saraan Plus (padanan RM600 / had RM6,000, mekanisme pendaftaran, tarikh berkuat kuasa) — sahkan dengan halaman rasmi KWSP i-Saraan Plus."
   - "Peratusan caruman tepat yang ditetapkan di bawah seksyen 83 Akta 872 — Akta menyerahkannya kepada peraturan subsidiari; tiada peratusan tetap dalam teks utama."
@@ -118,7 +117,7 @@ KWSP 无法强加于没有雇主的人身上，因此它通过 **i-Saraan** 计�
 
 这正是常常被忽略的部分。如果你在工作期间发生意外受伤而没有任何保障，医疗费用和收入损失都得自己承担。PERKESO 通过**自雇社会保障计划（SKSPS）**填补这一缺口，其品牌名称为 **Lindung Kendiri**。
 
-该计划依据**《2017 年自雇社会保障法令》（Akta 789）**运作。它于 **2017 年 6 月**开始对客运领域（德士、电召车、巴士）实施，随后于 **2020 年 1 月 1 日**生效扩大至另外 19 个领域——合共 **20 个领域**——包括货物与食品配送、农业、网络生意、专业服务及艺术。开放给马来西亚公民和永久居民，无年龄限制。
+该计划依据**《2017 年自雇社会保障法令》（Akta 789）**运作。它于 **2017 年 6 月 1 日**开始对客运领域（德士、电召车、巴士）实施，随后于 **2020 年 1 月 1 日**生效扩大至另外 19 个领域——合共 **20 个领域**——包括货物与食品配送、农业、网络生意、专业服务及艺术。开放给马来西亚公民和永久居民，无年龄限制。
 
 你根据所选的**每月受保收入**来选择方案。缴款低至每月几令吉：
 

@@ -32,7 +32,7 @@ faq:
     a: "Di bawah Sistem Perlindungan Manfaat Takaful dan Insurans (TIPS), manfaat dilindungi sehingga RM500,000 bagi setiap manfaat yang layak, dengan manfaat penjagaan kesihatan dilindungi sepenuhnya."
 
 lang: "ms"
-sourceContentHash: "3078921aa98bfe2e"
+sourceContentHash: "26bbf3afdbaf4a7e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -42,8 +42,7 @@ reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
-verificationNeeded:
-  - "Governing statute year/citation: PIDM pages name the Act without a year; the current statute is the Malaysia Deposit Insurance Corporation Act 2011 (Act 720). Confirm before adding the year in-body."
+verificationNeeded: []
 revisions:
   - version: "01.00"
     date: 2026-08-08
@@ -52,6 +51,9 @@ revisions:
 
 updated: 2026-08-08
 sources:
+  - title: "Malaysia Deposit Insurance Corporation Act 2011 (Act 720), Laws of Malaysia Reprint"
+    url: "https://www.pidm.gov.my/getContentAsset/8e75b536-86ed-4236-9d38-cc324205d521/188ea75b-0100-4438-8f97-d79a01d9e0cd/Malaysia-Deposit-Insurance-Corporation-Act-2011-Reprint.pdf?language=en"
+    publisher: "PIDM"
   - title: "FAQs — Deposit Insurance System"
     url: "https://www.pidm.gov.my/general/faqs/deposit-insurance-system"
     publisher: "Perbadanan Insurans Deposit Malaysia (PIDM)"
@@ -81,7 +83,7 @@ PIDM ialah agensi Kerajaan berkanun yang mentadbir dua sistem perlindungan pengg
 | --- | --- |
 | Nama penuh | Perbadanan Insurans Deposit Malaysia (PIDM) |
 | Jenis | Agensi Kerajaan / badan berkanun |
-| Undang-undang yang mentadbir | Akta Perbadanan Insurans Deposit Malaysia (Malaysia Deposit Insurance Corporation Act) |
+| Undang-undang yang mentadbir | Akta Perbadanan Insurans Deposit Malaysia (Malaysia Deposit Insurance Corporation Act 2011, Act 720) |
 | Sistem yang ditadbir | Sistem Insurans Deposit (DIS); Sistem Perlindungan Manfaat Takaful dan Insurans (TIPS) |
 | Had deposit | RM250,000 bagi setiap pendeposit bagi setiap bank ahli |
 | Had takaful/insurans | RM500,000 bagi setiap manfaat yang layak; manfaat penjagaan kesihatan dilindungi sepenuhnya |

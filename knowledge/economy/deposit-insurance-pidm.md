@@ -41,8 +41,7 @@ reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
-verificationNeeded:
-  - "Governing statute year/citation: PIDM pages name the Act without a year; the current statute is the Malaysia Deposit Insurance Corporation Act 2011 (Act 720). Confirm before adding the year in-body."
+verificationNeeded: []
 revisions:
   - version: "01.00"
     date: 2026-08-08
@@ -51,6 +50,9 @@ revisions:
 
 updated: 2026-08-08
 sources:
+  - title: "Malaysia Deposit Insurance Corporation Act 2011 (Act 720), Laws of Malaysia Reprint"
+    url: "https://www.pidm.gov.my/getContentAsset/8e75b536-86ed-4236-9d38-cc324205d521/188ea75b-0100-4438-8f97-d79a01d9e0cd/Malaysia-Deposit-Insurance-Corporation-Act-2011-Reprint.pdf?language=en"
+    publisher: "PIDM"
   - title: "FAQs — Deposit Insurance System"
     url: "https://www.pidm.gov.my/general/faqs/deposit-insurance-system"
     publisher: "Perbadanan Insurans Deposit Malaysia (PIDM)"
@@ -80,7 +82,7 @@ PIDM is a statutory Government agency that administers two consumer-protection s
 | --- | --- |
 | Full name | Perbadanan Insurans Deposit Malaysia (PIDM) |
 | Type | Government agency / statutory body |
-| Governing law | Akta Perbadanan Insurans Deposit Malaysia (Malaysia Deposit Insurance Corporation Act) |
+| Governing law | Akta Perbadanan Insurans Deposit Malaysia (Malaysia Deposit Insurance Corporation Act 2011, Act 720) |
 | Systems administered | Deposit Insurance System (DIS); Takaful and Insurance Benefits Protection System (TIPS) |
 | Deposit limit | RM250,000 per depositor per member bank |
 | Takaful/insurance limit | RM500,000 per eligible benefit; healthcare benefits protected in full |

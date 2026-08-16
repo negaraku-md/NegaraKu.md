@@ -36,7 +36,7 @@ faq:
     a: "PVIP 由移民局（内政部）而非 MOTAC 管理，明确增加了工作和就学权利，允许购买商业和工业地产（不仅限于住宅），并且不设最低居留要求。申请须通过移民局委任的代理，而非 MM2H 代理。"
 
 lang: "zh"
-sourceContentHash: "45d9d72bc40836f5"
+sourceContentHash: "885b7aabccb192f1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -48,7 +48,6 @@ reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
   - "Exact net-worth threshold for the income-test alternative (secondary sources cite ~RM1 billion; confirm against the current official PVIP FAQ)."
-  - "The precise up-front portion of the RM200,000 participation fee (secondary sources describe a ~10% initial payment before online submission with the balance on conditional approval)."
   - "The exact participant cap, if any (older reporting referenced a cap tied to population; confirm the current figure with the Immigration Department)."
   - "The six-month deposit-withdrawal window, net-worth/onshore-income alternative and RM50,000 10-year dependent option are described as 2026 revisions by secondary sources — confirm they remain current on the official PVIP materials."
   - "Launch dates (announced 1 September 2022; open from 1 October 2022) and the current list of Immigration-appointed agents."
@@ -105,7 +104,7 @@ PVIP 由内政部辖下的马来西亚移民局（Jabatan Imigresen Malaysia，J
 | 项目 | 金额 | 备注 |
 | --- | --- | --- |
 | 定期存款 | 100万令吉 | 以申请人名义存放于马来西亚持牌银行；起初本金不得提取 |
-| 参与费（主申请人） | 20万令吉 | 一次性且不可退还；其中一部分（次要来源称约10%）须在代理提交在线申请前缴付，余款于有条件批准时缴付 |
+| 参与费（主申请人） | 20万令吉 | 一次性且不可退还；其中一部分（PVIP 官方 FAQ：RM2,000，即 1%）须在代理提交在线申请前缴付，余款于有条件批准时缴付 |
 | 参与费（每名家属） | 10万令吉 | 根据2026年修订，提供10年家属选项，收费5万令吉（半价） |
 | 签证准证费 | 每人每年2,000令吉 | 经常性年费 |
 | 签证费 | 因国籍而异 | 按现行的国别费率设定 |

@@ -29,7 +29,7 @@ faq:
     a: "马来西亚国家投资基金国民投资机构（Permodalan Nasional Berhad，PNB）是森那美旗下各公司的主要股东，并且 PNB 正是 Sime Darby Berhad 所收购 UMW 股权的卖方。具体持股比例会随时间变化，应对照各公司在马来西亚交易所的最新申报文件核实。"
 
 lang: "zh"
-sourceContentHash: "9e59ab60c5a1e071"
+sourceContentHash: "b6cfb2928f3fa4fa"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -48,11 +48,13 @@ revisions:
 updated: 2026-07-28
 verificationNeeded:
   - "Founding dates for Guthrie & Co (1821) and Sime, Darby and Co. (1910), and the January 2007 Synergy Drive merger date — confirm against a primary/company-heritage source; not independently re-fetched in this pass."
-  - "Current Bursa Malaysia stock short names / ticker codes for all three companies (draft shows SIME, SIMEPLT, SIMEPROP) — the plantation company's short name changed with the SD Guthrie rebrand; confirm from Bursa."
   - "PNB's exact current shareholding percentage in each of the three companies — confirm from latest annual reports / Bursa filings."
   - "Whether Sime Darby Property is the single 'largest' listed developer by land bank versus 'one of the largest' — confirm the ranking and current land-bank acreage from an authoritative source."
   - "Whether Sime Darby Berhad had, by the Nov 2024 rebrand, fully divested the trading, logistics and healthcare businesses it retained at the 2017 demerger."
 sources:
+  - title: "Bursa Malaysia Listing Directory — SD Guthrie Berhad (SDG, 5285)"
+    url: "https://www.bursamalaysia.com/trade/trading_resources/listing_directory/company-profile?stock_code=5285"
+    publisher: "Bursa Malaysia"
   - title: "Sime to acquire remaining stake in UMW / completes 61.18% acquisition"
     url: "https://paultan.org/2023/12/14/sime-darby-completes-acquisition-of-stake-in-umw/"
     publisher: "Paul Tan's Automotive News (paultan.org)"
@@ -112,7 +114,7 @@ keywords: ["Sime Darby", "SD Guthrie", "Sime Darby Property", "Sime Darby demerg
 | 公司 | 核心业务 | 股票代码（待核实） | 备注 |
 | --- | --- | --- | --- |
 | Sime Darby Berhad（现称「Sime」） | 汽车与工业设备 | SIME | 经销豪华品牌及卡特彼勒（Caterpillar）设备；收购了 UMW Holdings |
-| SD Guthrie Berhad（前身为 Sime Darby Plantation） | 油棕种植及下游业务 | SIMEPLT | 于2024年由 Sime Darby Plantation 更名而来 |
+| SD Guthrie Berhad（前身为 Sime Darby Plantation） | 油棕种植及下游业务 | SDG | 于2024年由 Sime Darby Plantation 更名而来 |
 | Sime Darby Property Berhad | 产业地产开发 | SIMEPROP | 按土地储备计为马来西亚最大的上市产业发展商之一 |
 
 ## 如今每家公司做什么？

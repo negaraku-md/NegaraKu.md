@@ -32,7 +32,7 @@ faq:
     a: "在伊斯兰保险与保险利益保障系统（TIPS）下，利益按每项合资格利益最高 RM500,000 受保障，其中医疗保健利益获全额保障。"
 
 lang: "zh"
-sourceContentHash: "3078921aa98bfe2e"
+sourceContentHash: "26bbf3afdbaf4a7e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -42,8 +42,7 @@ reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
-verificationNeeded:
-  - "Governing statute year/citation: PIDM pages name the Act without a year; the current statute is the Malaysia Deposit Insurance Corporation Act 2011 (Act 720). Confirm before adding the year in-body."
+verificationNeeded: []
 revisions:
   - version: "01.00"
     date: 2026-08-08
@@ -52,6 +51,9 @@ revisions:
 
 updated: 2026-08-08
 sources:
+  - title: "Malaysia Deposit Insurance Corporation Act 2011 (Act 720), Laws of Malaysia Reprint"
+    url: "https://www.pidm.gov.my/getContentAsset/8e75b536-86ed-4236-9d38-cc324205d521/188ea75b-0100-4438-8f97-d79a01d9e0cd/Malaysia-Deposit-Insurance-Corporation-Act-2011-Reprint.pdf?language=en"
+    publisher: "PIDM"
   - title: "FAQs — Deposit Insurance System"
     url: "https://www.pidm.gov.my/general/faqs/deposit-insurance-system"
     publisher: "Perbadanan Insurans Deposit Malaysia (PIDM)"
@@ -81,7 +83,7 @@ PIDM 是一个法定政府机构，负责管理两套消费者保障系统，并
 | --- | --- |
 | 全称 | 马来西亚存款保险公司（Perbadanan Insurans Deposit Malaysia，PIDM） |
 | 类型 | 政府机构／法定机构 |
-| 管辖法律 | Akta Perbadanan Insurans Deposit Malaysia（马来西亚存款保险公司法令） |
+| 管辖法律 | Akta Perbadanan Insurans Deposit Malaysia 2011 (Act 720)（马来西亚存款保险公司法令） |
 | 管理的系统 | 存款保险系统（DIS）；伊斯兰保险与保险利益保障系统（TIPS） |
 | 存款保额 | 每位存款人在每家成员银行 RM250,000 |
 | 伊斯兰保险／保险保额 | 每项合资格利益 RM500,000；医疗保健利益获全额保障 |

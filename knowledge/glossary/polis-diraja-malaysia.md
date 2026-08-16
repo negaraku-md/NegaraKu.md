@@ -18,7 +18,7 @@ keyTakeaways:
   - "Gelaran 'DiRaja' dikurniakan oleh Yang di-Pertuan Agong pada 24 Julai 1958 atas khidmat sewaktu Darurat 1948-1960."
   - "Nama Polis Diraja Malaysia digunakan selepas pembentukan Malaysia pada 16 September 1963."
   - "PDRM dikawal selia oleh Akta Polis 1967 (Akta 344) yang mengatur organisasi, disiplin, kuasa dan tugas."
-  - "Pasukan diketuai oleh Ketua Polis Negara; jawatan itu kini disandang Datuk Seri Mohd Khalid Ismail."
+  - "Pasukan diketuai oleh Ketua Polis Negara; jawatan itu kini disandang Tan Sri Dato' Seri Haji Mohd Khalid bin Haji Ismail."
 appliesTo: "Rakyat Malaysia, pelajar, penyelidik dan sesiapa yang ingin memahami institusi polis negara."
 
 faq:
@@ -29,7 +29,7 @@ faq:
   - q: "Undang-undang apa yang mengawal PDRM?"
     a: "PDRM dikawal selia oleh Akta Polis 1967 (Akta 344), iaitu akta yang mengatur organisasi, disiplin, kuasa dan tugas pasukan polis."
   - q: "Siapa yang mengetuai PDRM?"
-    a: "Pasukan diketuai oleh Ketua Polis Negara (KPN). Jawatan itu kini disandang oleh Datuk Seri Mohd Khalid Ismail, dengan ibu pejabat di Bukit Aman, Kuala Lumpur."
+    a: "Pasukan diketuai oleh Ketua Polis Negara (KPN). Jawatan itu kini disandang oleh Tan Sri Dato' Seri Haji Mohd Khalid bin Haji Ismail, dengan ibu pejabat di Bukit Aman, Kuala Lumpur."
   - q: "Apa peranan Yang di-Pertuan Agong dalam PDRM?"
     a: "Menerusi pindaan Akta Polis 1967, Yang di-Pertuan Agong dilantik sebagai Pesuruhjaya Yang Dipertua Kehormat Polis Diraja Malaysia."
 
@@ -44,7 +44,6 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Ketua Polis Negara semasa: Datuk Seri Mohd Khalid Ismail disahkan sebagai KPN ke-15 (dilantik 23 Jun 2025) — sahkan beliau masih menyandang jawatan pada tarikh penerbitan serta ejaan dan gelaran penuh."
   - "Struktur jabatan PDRM dalam jadual: sahkan terhadap carta organisasi rasmi terkini di rmp.gov.my (nama dan singkatan jabatan boleh berubah)."
   - "Tiga keutamaan PDRM bagi 2026 bersumberkan laporan Malay Mail (sumber berita sekunder); wajar disemak semula terhadap kenyataan rasmi PDRM."
 revisions:
@@ -55,6 +54,9 @@ revisions:
 
 updated: 2026-08-01
 sources:
+  - title: "Ketua Polis Negara — Tan Sri Dato' Seri Haji Mohd Khalid bin Haji Ismail (appointed 23 June 2025)"
+    url: "https://www.rmp.gov.my/infor-korporate/ketua-polis-negara"
+    publisher: "Polis Diraja Malaysia"
   - title: "Sejarah Penubuhan Pasukan Polis (1807-1957)"
     url: "https://apsec.upm.edu.my/artikel/sejarah_penubuhan_pasukan_polis_1807_1957-75025"
     publisher: "Pusat Polis Bantuan dan Keselamatan Universiti (APSeC), Universiti Putra Malaysia"
@@ -141,7 +143,7 @@ Susunan ini membolehkan PDRM menangani skop tugas yang luas — daripada rondaan
 
 ## Siapa yang mengetuai PDRM hari ini?
 
-Ketua Polis Negara semasa ialah **Datuk Seri Mohd Khalid Ismail**. Bagi tahun 2026, beliau menggariskan tiga keutamaan pasukan: mengoptimumkan **teknologi kecerdasan buatan (AI)** dalam operasi penguatkuasaan; mengukuhkan **profesionalisme dan integriti** anggota bagi membendung rasuah dan penyalahgunaan kuasa; serta mengutamakan **kesejahteraan rakyat dan anggota polis** selaras dengan prinsip Malaysia MADANI.
+Ketua Polis Negara semasa ialah **Tan Sri Dato' Seri Haji Mohd Khalid bin Haji Ismail**. Bagi tahun 2026, beliau menggariskan tiga keutamaan pasukan: mengoptimumkan **teknologi kecerdasan buatan (AI)** dalam operasi penguatkuasaan; mengukuhkan **profesionalisme dan integriti** anggota bagi membendung rasuah dan penyalahgunaan kuasa; serta mengutamakan **kesejahteraan rakyat dan anggota polis** selaras dengan prinsip Malaysia MADANI.
 
 Keutamaan ini mencerminkan arah tuju sebuah institusi lama yang menyesuaikan diri dengan cabaran moden — daripada jenayah siber hinggalah jangkaan awam terhadap ketelusan.
 
