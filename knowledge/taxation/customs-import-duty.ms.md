@@ -31,7 +31,7 @@ faq:
     a: "Konsainan bernilai RM500 atau kurang secara amnya dikecualikan daripada duti import dan cukai jualan di sempadan. Walau bagaimanapun, sejak 1 Januari 2024 cukai jualan 10% berasingan ke atas Barangan Bernilai Rendah dikenakan ke atas item sedemikian yang dijual dalam talian dan dihantar ke Malaysia, dikutip oleh penjual atau pasar dalam talian yang berdaftar."
 
 lang: "ms"
-sourceContentHash: "afc2b95c90839821"
+sourceContentHash: "49578a6ca3069696"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -50,12 +50,14 @@ revisions:
 verificationNeeded:
   - "Current standard/reduced sales tax rates (10% / 5%) and whether the 2025 SST expansion altered any imported-goods categories."
   - "The RM500 import-duty/sales-tax de minimis threshold at the border remains current."
-  - "MITI's FTA count (stated as 15 concluded FTAs) — MITI updates this as agreements are added."
   - "Form D processing time (~3 working days) and 2-year validity of exporter authorisation to issue Form D."
   - "Live duty rates and tariff codes change each budget cycle and AHTN revision — confirm against RMCD's current tariff schedule before relying on any specific rate."
 
-updated: 2026-08-07
+updated: 2026-08-16
 sources:
+  - title: "Malaysia's Free Trade Agreements (MITI) — 17 concluded FTAs (8 bilateral, 9 regional) plus 2 partial-scope agreements"
+    url: "https://fta.miti.gov.my/index.php/pages/view/4"
+    publisher: "MITI"
   - title: "Customs Act 1967 (Act 235) — Laws of Malaysia"
     url: "https://www.investmalaysia.gov.my/media/o51jfcnr/customs-act-1967.pdf"
     publisher: "Laws of Malaysia (Attorney General's Chambers) via InvestMalaysia"
@@ -142,7 +144,7 @@ Jurang RM250 antara duti RM5,000 dan cukai jualan RM5,250 semata-mata kesan cuka
 
 ## Bagaimana ATIGA dan FTA memotong duti?
 
-Malaysia menjadi pihak kepada rangkaian besar perjanjian perdagangan bebas — MITI mengira **15 FTA yang telah dimuktamadkan**, termasuk Perjanjian Perdagangan Barangan ASEAN (ATIGA) dan perjanjian dua hala serta ASEAN-tambah dengan rakan kongsi seperti China, Jepun, Korea, India dan Australia-New Zealand, serta RCEP dan CPTPP. Setiap satu menawarkan duti **keutamaan** (dikurangkan atau sifar) untuk barangan yang benar-benar berasal dari ekonomi rakan kongsi.
+Malaysia menjadi pihak kepada rangkaian besar perjanjian perdagangan bebas — MITI mengira **17 FTA yang telah dimuktamadkan** (8 dua hala dan 9 serantau), serta 2 perjanjian keutamaan skop separa, termasuk Perjanjian Perdagangan Barangan ASEAN (ATIGA) dan perjanjian dua hala serta ASEAN-tambah dengan rakan kongsi seperti China, Jepun, Korea, India dan Australia-New Zealand, serta RCEP dan CPTPP. Setiap satu menawarkan duti **keutamaan** (dikurangkan atau sifar) untuk barangan yang benar-benar berasal dari ekonomi rakan kongsi.
 
 "Keutamaan" ialah perkataan operatif: kadar yang lebih rendah ialah keistimewaan yang anda mesti layak dan tuntut, bukan lalai. Tiga perkara mesti sejajar.
 

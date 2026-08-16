@@ -49,12 +49,14 @@ revisions:
 verificationNeeded:
   - "Current standard/reduced sales tax rates (10% / 5%) and whether the 2025 SST expansion altered any imported-goods categories."
   - "The RM500 import-duty/sales-tax de minimis threshold at the border remains current."
-  - "MITI's FTA count (stated as 15 concluded FTAs) — MITI updates this as agreements are added."
   - "Form D processing time (~3 working days) and 2-year validity of exporter authorisation to issue Form D."
   - "Live duty rates and tariff codes change each budget cycle and AHTN revision — confirm against RMCD's current tariff schedule before relying on any specific rate."
 
-updated: 2026-08-07
+updated: 2026-08-16
 sources:
+  - title: "Malaysia's Free Trade Agreements (MITI) — 17 concluded FTAs (8 bilateral, 9 regional) plus 2 partial-scope agreements"
+    url: "https://fta.miti.gov.my/index.php/pages/view/4"
+    publisher: "MITI"
   - title: "Customs Act 1967 (Act 235) — Laws of Malaysia"
     url: "https://www.investmalaysia.gov.my/media/o51jfcnr/customs-act-1967.pdf"
     publisher: "Laws of Malaysia (Attorney General's Chambers) via InvestMalaysia"
@@ -141,7 +143,7 @@ The RM250 gap between the RM5,000 duty and the RM5,250 sales tax is purely the t
 
 ## How do ATIGA and FTAs cut the duty?
 
-Malaysia is party to a large network of free trade agreements — MITI counts **15 concluded FTAs**, including the ASEAN Trade in Goods Agreement (ATIGA) and both bilateral and ASEAN-plus agreements with partners such as China, Japan, Korea, India and Australia-New Zealand, plus RCEP and CPTPP. Each offers **preferential** (reduced or zero) duty for goods that genuinely originate in a partner economy.
+Malaysia is party to a large network of free trade agreements — MITI counts **17 concluded FTAs** (8 bilateral and 9 regional), plus 2 partial-scope preferential agreements, including the ASEAN Trade in Goods Agreement (ATIGA) and both bilateral and ASEAN-plus agreements with partners such as China, Japan, Korea, India and Australia-New Zealand, plus RCEP and CPTPP. Each offers **preferential** (reduced or zero) duty for goods that genuinely originate in a partner economy.
 
 "Preferential" is the operative word: the lower rate is a privilege you must qualify for and claim, not a default. Three things have to line up.
 

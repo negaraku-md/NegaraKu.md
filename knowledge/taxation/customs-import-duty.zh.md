@@ -31,7 +31,7 @@ faq:
     a: "价值RM500或以下的货物，一般在关口免征进口税和销售税。不过，自2024年1月1日起，针对此类在网上销售并运入马来西亚的商品，另行征收10%的低价值商品（Low Value Goods）销售税，由已注册的卖家或电商平台代收。"
 
 lang: "zh"
-sourceContentHash: "afc2b95c90839821"
+sourceContentHash: "49578a6ca3069696"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -50,12 +50,14 @@ revisions:
 verificationNeeded:
   - "Current standard/reduced sales tax rates (10% / 5%) and whether the 2025 SST expansion altered any imported-goods categories."
   - "The RM500 import-duty/sales-tax de minimis threshold at the border remains current."
-  - "MITI's FTA count (stated as 15 concluded FTAs) — MITI updates this as agreements are added."
   - "Form D processing time (~3 working days) and 2-year validity of exporter authorisation to issue Form D."
   - "Live duty rates and tariff codes change each budget cycle and AHTN revision — confirm against RMCD's current tariff schedule before relying on any specific rate."
 
-updated: 2026-08-07
+updated: 2026-08-16
 sources:
+  - title: "Malaysia's Free Trade Agreements (MITI) — 17 concluded FTAs (8 bilateral, 9 regional) plus 2 partial-scope agreements"
+    url: "https://fta.miti.gov.my/index.php/pages/view/4"
+    publisher: "MITI"
   - title: "Customs Act 1967 (Act 235) — Laws of Malaysia"
     url: "https://www.investmalaysia.gov.my/media/o51jfcnr/customs-act-1967.pdf"
     publisher: "Laws of Malaysia (Attorney General's Chambers) via InvestMalaysia"
@@ -142,7 +144,7 @@ RM5,000的关税与RM5,250的销售税之间那RM250的差额，纯粹是税上�
 
 ## ATIGA与自贸协定如何降低关税？
 
-马来西亚参与了一个庞大的自贸协定网络——MITI统计有**15项已签订的自贸协定**，包括东盟货物贸易协定（ATIGA），以及与中国、日本、韩国、印度、澳大利亚—新西兰等伙伴签订的双边和东盟＋（ASEAN-plus）协定，再加上RCEP与CPTPP。每一项都为真正原产于某伙伴经济体的货物提供**优惠**（减免或零）关税。
+马来西亚参与了一个庞大的自贸协定网络——MITI统计有**17项已签订的自贸协定**（8项双边与9项区域），另有2项局部范围优惠协定，包括东盟货物贸易协定（ATIGA），以及与中国、日本、韩国、印度、澳大利亚—新西兰等伙伴签订的双边和东盟＋（ASEAN-plus）协定，再加上RCEP与CPTPP。每一项都为真正原产于某伙伴经济体的货物提供**优惠**（减免或零）关税。
 
 “优惠”是关键词：较低的税率是一项你必须符合条件并主动主张的待遇，而非默认适用。三件事必须同时到位。
 
