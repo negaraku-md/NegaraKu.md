@@ -38,10 +38,8 @@ faq:
     a: "Ya. Seksyen 5(8) ROBA 1956 menyatakan secara jelas bahawa pendaftaran tidak membayangkan mana-mana keperluan undang-undang lain telah dipatuhi, dan SSM mengulangi perkara ini dalam garis panduannya. Lesen premis, lesen papan tanda dan permit sektor daripada pihak berkuasa tempatan dan badan pengawal selia anda adalah permohonan yang berasingan."
 
 verificationNeeded:
-  - "Confirm whether the RM30 / RM60 / RM5 / RM10 fees are currently prescribed in the Registration of Businesses Rules 1957 as amended — the figures here are taken from SSM's own published guidelines rather than from a gazetted fee schedule retrieved directly"
   - "SSM's renewal guideline allows renewal up to twelve months after expiry, while s.5A(1) of ROBA 1956 says an application shall be made within thirty days before expiry — confirm the current administrative practice with SSM before relying on the grace period"
   - "Confirm current eligibility conditions and end date for the Skim Pendaftaran Perniagaan Perihatin (SPPP) and Skim 1 OKU 1 Perniagaan (S1O1P) fee incentives"
-
 obligations:
   - what: "Apply to the Registrar for registration of the business"
     trigger: "ongoing"
@@ -88,6 +86,9 @@ revisions:
 
 updated: 2026-07-20
 sources:
+  - title: "Registration of Businesses Rules 1957, Second Schedule (SSM) — RM30 personal name, RM60 trade name, RM5 per branch, RM10 per info copy"
+    url: "https://www.ssm.com.my/acts/fscommand/pua0282y1957sc002.htm"
+    publisher: "SSM"
   - title: "Registration of Businesses Act 1956 (Act 197)"
     url: "https://www.ssm.com.my/bm/acts/a0197pdf.pdf"
     publisher: "SSM"

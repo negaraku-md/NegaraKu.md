@@ -23,9 +23,7 @@ keyTakeaways:
   - "s.42(6): setelah dianggap awam melalui cara itu, syarikat tidak boleh ditukar semula tanpa kebenaran Mahkamah"
 appliesTo: "Pengasas yang hampir mencecah lima puluh pemegang saham, syarikat yang merancang IPO atau usaha mengumpul dana secara awam, dan sesiapa yang tidak pasti mengapa nama syarikat mereka berakhir dengan Bhd."
 
-verificationNeeded:
-  - "Confirm the current SSM lodgement fee for a notice of conversion under s.41 against the ROC Table of Fees"
-
+verificationNeeded: []
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
@@ -45,6 +43,9 @@ revisions:
 
 updated: 2026-07-20
 sources:
+  - title: "SSM ROC Table of Fees — s.41 conversion notice lodgement RM500"
+    url: "https://www.ssm.com.my/Pages/Services/Registration-of-Company-(ROC)/Table-of-Fees.aspx"
+    publisher: "SSM"
   - title: "Companies Act 2016 (Act 777), as at 1 August 2022"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
     publisher: "SSM"

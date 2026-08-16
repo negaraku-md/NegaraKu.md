@@ -23,9 +23,7 @@ keyTakeaways:
   - "s.42(6)：一旦以那种方式被视为公众公司，未经法庭许可即不得转回"
 appliesTo: "股东人数逼近五十名的创办人、正在筹划首次公开募股或公开募资的公司，以及任何搞不清楚自己公司名称为何以 Bhd 结尾的人。"
 
-verificationNeeded:
-  - "对照 ROC Table of Fees，确认目前依 s.41 呈报转换通知的 SSM 收费"
-
+verificationNeeded: []
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
@@ -46,6 +44,9 @@ revisions:
 
 updated: 2026-07-20
 sources:
+  - title: "SSM ROC Table of Fees — s.41 conversion notice lodgement RM500"
+    url: "https://www.ssm.com.my/Pages/Services/Registration-of-Company-(ROC)/Table-of-Fees.aspx"
+    publisher: "SSM"
   - title: "Companies Act 2016 (Act 777), as at 1 August 2022"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
     publisher: "SSM"

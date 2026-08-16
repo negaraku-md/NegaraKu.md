@@ -44,10 +44,11 @@ verificationNeeded:
   - "Exact current patent official fee schedule (search summaries cite ~RM500 online filing plus separate examination fees / ~RM1,390 all-in) — confirm each line item against MyIPO's official Patent Forms and Fees page before stating a total"
   - "Latest annual IP application/registration statistics (trademark and patent filings per year) from MyIPO's Statistic page for a current scale figure"
   - "Current headcount of registered GIs beyond the 127 figure (as of December 2024) if a newer number is published"
-  - "Precise commencement-date wording for the IPCM Act 2002 — 3 March 2003 via P.U. (B) 102/2003 is reported by secondary sources; confirm against the AGC gazette or the Act 617 commencement notice"
-  - "Whether the current parent ministry is styled 'Ministry of Domestic Trade and Cost of Living (KPDN)' in MyIPO's own latest corporate copy"
-updated: 2026-08-14
+  - "Precise commencement-date wording for the IPCM Act 2002 — 3 March 2003 via P.U. (B) 102/2003 is reported by secondary sources; confirm against the AGC gazette or the Act 617 commencement notice"updated: 2026-08-14
 sources:
+  - title: "Ministry of Domestic Trade and Cost of Living (KPDN) — official site"
+    url: "https://www.kpdn.gov.my/en/"
+    publisher: "Ministry of Domestic Trade and Cost of Living (KPDN)"
   - title: "FAQ — Intellectual Property Corporation of Malaysia"
     url: "https://www.myipo.gov.my/faq/"
     publisher: "Intellectual Property Corporation of Malaysia (MyIPO)"

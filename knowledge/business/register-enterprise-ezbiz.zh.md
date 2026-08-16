@@ -38,10 +38,8 @@ faq:
     a: "需要。ROBA 1956 第 5(8) 条明文订明，注册并不意味着任何其他法律要求已获遵从，SSM 在其指南中也重申了这一点。来自地方议会与监管机构的处所执照、招牌执照与行业准证，都是另外的申请。"
 
 verificationNeeded:
-  - "确认 RM30 / RM60 / RM5 / RM10 的收费目前是否载于经修订的 Registration of Businesses Rules 1957——此处的数字取自 SSM 自家公布的指南，而非直接检索取得的宪报收费表"
   - "SSM 的续期指南容许在期满后最多十二个月内续期，而 ROBA 1956 s.5A(1) 则订明申请须在期满前三十天内提出——在依赖该宽限期之前，请向 SSM 确认目前的行政实务"
   - "确认 Skim Pendaftaran Perniagaan Perihatin（SPPP）与 Skim 1 OKU 1 Perniagaan（S1O1P）收费优惠目前的资格条件与截止日期"
-
 obligations:
   - what: "向注册官申请该生意的注册"
     trigger: "ongoing"
@@ -89,6 +87,9 @@ revisions:
 
 updated: 2026-07-20
 sources:
+  - title: "Registration of Businesses Rules 1957, Second Schedule (SSM) — RM30 personal name, RM60 trade name, RM5 per branch, RM10 per info copy"
+    url: "https://www.ssm.com.my/acts/fscommand/pua0282y1957sc002.htm"
+    publisher: "SSM"
   - title: "Registration of Businesses Act 1956 (Act 197)"
     url: "https://www.ssm.com.my/bm/acts/a0197pdf.pdf"
     publisher: "SSM"

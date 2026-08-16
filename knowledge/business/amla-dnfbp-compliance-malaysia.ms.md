@@ -49,9 +49,6 @@ revisions:
 verificationNeeded:
   - "The exact FIED submission email address and postal channel — confirm against BNM's current 'Reporting to BNM' page before publishing (the specific address was not reproduced here)."
   - "The mapping of specific AMLA section numbers to each duty (STR, CDD, record keeping) — deliberately omitted; confirm against the primary Act text before adding."
-  - "The RM25,000 CTR exclusion for DNFBPs and the exact institution list — confirm against the latest BNM guidance."
-  - "Six-year record retention period — confirm against Part B (Record Keeping) of the current policy document."
-
 updated: 2026-08-07
 sources:
   - title: "AML/CFT/CPF and TFS for DNFBPs and NBFIs (policy document, issued 5 February 2024)"
