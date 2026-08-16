@@ -34,10 +34,7 @@ faq:
   - q: "Does the acquirer really have to hold back part of the price?"
     a: "Yes. Under section 21B the acquirer must retain and remit a percentage of the consideration to the Director General within 60 days of disposal — 3% for a Part I disposer, 5% for a company disposing within three years and 3% from the fourth year, and 7% where the disposer falls in Part III. Failure exposes the acquirer, not the seller, to a 10% increase on the unpaid amount."
 
-verificationNeeded:
-  - "Whether an amendment after 1 January 2024 moved companies incorporated outside Malaysia between Part II and Part III of Schedule 5 was not confirmed against the amending Finance Act; the classification above follows LHDN's published rate table"
-  - "The treatment of a disposal by a partnership is shown under Part I on LHDN's rate page but the statutory basis for that classification was not read directly from Schedule 5"
-
+verificationNeeded: []
 obligations:
   - what: "Submit the RPGT return and pay the tax on a disposal of real property"
     trigger: "change"

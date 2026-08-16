@@ -48,13 +48,14 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Precise gazetted commencement date of the Windfall Profit Levy Act 1998 (Act 592) — widely cited as 1 January 1999; confirm against the Federal Gazette / official Act reprint."
   - "The gazetted effective date of the Sabah & Sarawak rate increase from 1.5% to 3% (proposed under Budget 2022; confirm the P.U.(A) commencement date, not just the Budget announcement)."
   - "Whether the RM3,150 / RM3,650 thresholds and 3% rate remain the operative figures as of the reader's date — proposals to cut the eastern-region rate back to 1.5% have been raised publicly and should be checked against the latest Order."
   - "Statutory reference for the group-settlement-area carve-out (Land (Group Settlement Areas) Act 1960) as applied by the 2023 Order."
-
 updated: 2026-08-07
 sources:
+  - title: "Windfall Profit Levy Act 1998 (Act 592) — s.1(2): the Act came into operation on 1 January 1999"
+    url: "https://lom.agc.gov.my/act-detail.php?act=592&lang=BI"
+    publisher: "Attorney General's Chambers"
   - title: "Windfall Profit Levy (Oil Palm Fruit) Order 2023 [P.U.(A) 31/2023]"
     url: "https://ccs-co.com/post/windfall-profit-levy-oil-palm-fruit-order-2023-p-u-a-31-2023/"
     publisher: "CCS & Co (Chartered Accountants)"

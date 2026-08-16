@@ -38,10 +38,8 @@ faq:
     a: "Mohon lanjutan masa di bawah s.100 menggunakan Form N. Sejak TT2020 permohonan itu sendiri mesti dibuat dalam tempoh 7 tahun selepas tamatnya tempoh rayuan 30 hari itu. Jika Ketua Pengarah menolak, permohonan itu berserta pernyataan sebabnya (Form CP15B) dihantar kepada seorang Pesuruhjaya Khas, anda diberi 21 hari untuk membuat representasi bertulis, dan keputusan Pesuruhjaya Khas itu adalah muktamad."
 
 verificationNeeded:
-  - "Sahkan sama ada LHDN sejak itu telah membuka sebarang saluran elektronik bagi Form Q atau Form N — laman rayuan bertarikh 25 Jun 2026 menyatakan penyerahan elektronik tidak diterima"
   - "Sahkan edisi terkini Garis Panduan Prosiding Resolusi Pertikaian; versi yang diterbitkan bertarikh Mac 2019 dan masih merujuk silang kepada Ketetapan Umum 12/2017 yang telah digantikan"
   - "Sahkan sama ada fi yang ditetapkan di bawah Jadual 5 perenggan 34(6) bagi pemfailan notis rayuan ke Mahkamah Tinggi telah diterbitkan oleh Menteri — tiada perintah fi semasa dapat dikesan"
-
 obligations:
   - what: "Failkan Form Q terhadap suatu notis taksiran"
     trigger: "change"

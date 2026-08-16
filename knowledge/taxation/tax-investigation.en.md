@@ -32,7 +32,7 @@ faq:
     a: "For cases involving fraud, wilful evasion or negligence, there is no time limit. For criminal proceedings for certain offences such as Section 113, a 12-year period applies."
 
 lang: "en"
-sourceContentHash: "85b0269e3d6e503c"
+sourceContentHash: "fa0bdbadd54080b2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -43,11 +43,8 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Julat denda Seksyen 112(1) (RM200–RM2,000) sepadan dengan teks berkanun yang diterbitkan KPMG, tetapi ACP 1967 telah dipinda sejak arkib itu — sahkan angka semasa terhadap Akta Cukai Pendapatan 1967 terkini / hasil.gov.my."
   - "Sahkan bahawa kadar konsesi berperingkat Rangka Kerja Audit Cukai (15% / 30% / 45%) masih terpakai di bawah rangka kerja LHDN terkini."
-  - "Sahkan angka Seksyen 113 dan 114 terhadap Akta Cukai Pendapatan 1967 yang disatukan dan terkini, kerana pindaan berkanun berlaku dari semasa ke semasa."
-  - "Sahkan layanan penalti berkanun 100% di bawah Seksyen 113(2) bagi penyata tidak betul yang disengajakan terhadap rangka kerja pentadbiran semasa."
-revisions:
+  - "Sahkan layanan penalti berkanun 100% di bawah Seksyen 113(2) bagi penyata tidak betul yang disengajakan terhadap rangka kerja pentadbiran semasa."revisions:
   - version: "01.00"
     date: 2026-08-07
     change: "Approved and published."
@@ -55,6 +52,9 @@ revisions:
 
 updated: 2026-08-07
 sources:
+  - title: "Kesalahan, Denda dan Penalti — s.112(1) fine RM200 to RM20,000; s.113(1) RM1,000-RM10,000 +200%; s.114(1) RM1,000-RM20,000 +300%"
+    url: "https://www.hasil.gov.my/perundangan/kesalahan-denda-dan-penalti/"
+    publisher: "LHDN"
   - title: "2023 Tax Investigation Framework (TIF)"
     url: "https://www.ey.com/en_my/technical/tax-alerts/2023-tax-investigation-framework-tif"
     publisher: "EY Malaysia"
@@ -121,7 +121,7 @@ The punishments are heavier than audit penalties:
 
 | Section | Offence | Punishment |
 |---|---|---|
-| 112 | Failure to furnish return / notice of chargeability | Fine RM200–RM2,000 or imprisonment or both |
+| 112 | Failure to furnish return / notice of chargeability | Fine RM200–RM20,000 or imprisonment or both |
 | 113 | Incorrect return / wrong information | Fine RM1,000–RM10,000 and special penalty of 200% of tax undercharged (Section 113(1)) |
 | 114(1) | Wilful evasion of tax | Fine RM1,000–RM20,000 or imprisonment ≤3 years or both + special penalty of **treble** the tax undercharged |
 | 114(1A) | Assisting another person to reduce tax | Fine RM2,000–RM20,000 or imprisonment ≤3 years |

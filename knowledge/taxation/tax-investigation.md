@@ -42,11 +42,8 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Julat denda Seksyen 112(1) (RM200–RM2,000) sepadan dengan teks berkanun yang diterbitkan KPMG, tetapi ACP 1967 telah dipinda sejak arkib itu — sahkan angka semasa terhadap Akta Cukai Pendapatan 1967 terkini / hasil.gov.my."
   - "Sahkan bahawa kadar konsesi berperingkat Rangka Kerja Audit Cukai (15% / 30% / 45%) masih terpakai di bawah rangka kerja LHDN terkini."
-  - "Sahkan angka Seksyen 113 dan 114 terhadap Akta Cukai Pendapatan 1967 yang disatukan dan terkini, kerana pindaan berkanun berlaku dari semasa ke semasa."
-  - "Sahkan layanan penalti berkanun 100% di bawah Seksyen 113(2) bagi penyata tidak betul yang disengajakan terhadap rangka kerja pentadbiran semasa."
-revisions:
+  - "Sahkan layanan penalti berkanun 100% di bawah Seksyen 113(2) bagi penyata tidak betul yang disengajakan terhadap rangka kerja pentadbiran semasa."revisions:
   - version: "01.00"
     date: 2026-08-07
     change: "Approved and published."
@@ -54,6 +51,9 @@ revisions:
 
 updated: 2026-08-07
 sources:
+  - title: "Kesalahan, Denda dan Penalti — s.112(1) fine RM200 to RM20,000; s.113(1) RM1,000-RM10,000 +200%; s.114(1) RM1,000-RM20,000 +300%"
+    url: "https://www.hasil.gov.my/perundangan/kesalahan-denda-dan-penalti/"
+    publisher: "LHDN"
   - title: "2023 Tax Investigation Framework (TIF)"
     url: "https://www.ey.com/en_my/technical/tax-alerts/2023-tax-investigation-framework-tif"
     publisher: "EY Malaysia"
@@ -120,7 +120,7 @@ Hukumannya lebih berat daripada penalti audit:
 
 | Seksyen | Kesalahan | Hukuman |
 |---|---|---|
-| 112 | Gagal mengemukakan borang / notis kebolehcukaian | Denda RM200–RM2,000 atau penjara atau kedua-duanya |
+| 112 | Gagal mengemukakan borang / notis kebolehcukaian | Denda RM200–RM20,000 atau penjara atau kedua-duanya |
 | 113 | Pulangan tidak betul / maklumat salah | Denda RM1,000–RM10,000 dan penalti khas 200% cukai terkurang caj (Seksyen 113(1)) |
 | 114(1) | Pengelakan cukai secara sengaja | Denda RM1,000–RM20,000 atau penjara ≤3 tahun atau kedua-duanya + penalti khas **tiga kali ganda** cukai terkurang caj |
 | 114(1A) | Membantu orang lain mengurangkan cukai | Denda RM2,000–RM20,000 atau penjara ≤3 tahun |

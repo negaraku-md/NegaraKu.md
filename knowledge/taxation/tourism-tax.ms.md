@@ -51,8 +51,6 @@ revisions:
 verificationNeeded:
   - "Exact accounting mechanism in force from 1 December 2025 under Public Ruling No. 01/2025 (body describes the RMCD DPSP Guide hand-off; confirm the Public Ruling did not alter who collects/reimburses/accounts)."
   - "Currency of the General Guide on Tourism Tax PDF — it predates the 2021 DPSP regime; confirm figures (RM10 rate, 5-room threshold, penalties, forms) remain current."
-  - "Assign a topicId (e.g. an MY-TAX-#### id) consistent with other taxation masters before publishing."
-
 updated: 2026-08-07
 sources:
   - title: "General Guide on Tourism Tax"

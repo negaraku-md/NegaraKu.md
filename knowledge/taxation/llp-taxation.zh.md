@@ -24,9 +24,7 @@ appliesTo: "正在 LLP（PLT）与 Sdn Bhd 之间作选择的专业人士与企�
 
 verificationNeeded:
   - "部长依 Schedule 1 Part XXIII paragraph 2 所作的订明，即在个人合伙人另有其他收入来源时如何计算其应课税收入——找不到任何刊宪命令"
-  - "LHDN 是否已取代 Public Ruling No. 8/2022，该裁定仍载明 Finance Act 2025 之前的立场，即所有 LLP 分配一律免税"
   - "e-filing 宽限期具体适用于 Form PT 的情况——2026 年呈报程序的表格无法逐格读取"
-
 obligations:
   - what: "呈报 LLP 所得税报表（Form PT）"
     trigger: "financial-year-end"
@@ -68,6 +66,9 @@ revisions:
 
 updated: 2026-07-20
 sources:
+  - title: "Public Rulings index (Ketetapan Umum) — PR 8/2022 (Taxation of LLP) remains current; no superseding ruling 2023-2026"
+    url: "https://www.hasil.gov.my/en/perundangan/ketetapan-umum/"
+    publisher: "LHDN"
   - title: "Income Tax Act 1967 (Act 53), consolidated text"
     url: "https://lom.agc.gov.my/act-detail.php?act=53&lang=BI"
     publisher: "Attorney General's Chambers"

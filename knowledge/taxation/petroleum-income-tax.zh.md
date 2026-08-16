@@ -45,13 +45,14 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Confirm the 38% rate and Section 23/Section 2 wording against the official LHDN-hosted Act 543 text at hasil.gov.my (the cited copy is the UN ESCAP-hosted reprint as at 1 December 2015); check for any amendments after that reprint date."
   - "Confirm the current statutory or regulatory basis and eligibility conditions for the ~25% effective marginal-field rate (the mechanism described is an exemption of part of chargeable income)."
   - "Confirm the identity and filing obligations of the 'chargeable person' under PITA for typical PSC arrangements, and whether Petronas-linked entities file separately."
   - "Confirm the LLA incentive figures (25% rate, 20% initial / 40% annual allowance, 1 Jan 2020–31 Dec 2029 window, two-YA decommissioning carryback) against the gazetted subsidiary regulations, not only the EY summary."
-
 updated: 2026-08-07
 sources:
+  - title: "Petroleum (Income Tax) Act 1967 (Act 543) — s.23(1) charges petroleum income tax at 38%; s.2 defines 'petroleum operations'"
+    url: "https://lom.agc.gov.my/act-detail.php?act=543&lang=BI"
+    publisher: "Attorney General's Chambers"
   - title: "Petroleum (Income Tax) Act 1967 [Act 543], reprint as at 1 December 2015"
     url: "https://policy.asiapacificenergy.org/sites/default/files/Petroleum%20(Income%20Tax)%20Act%201967%20%5BAct%20543%5D%20(As%20at%201%20December%202015)_EN.pdf"
     publisher: "Laws of Malaysia (via UN ESCAP Asia Pacific Energy Portal)"

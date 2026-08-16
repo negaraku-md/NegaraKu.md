@@ -48,13 +48,14 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Current standard/reduced sales tax rates (10% / 5%) and whether the 2025 SST expansion altered any imported-goods categories."
   - "The RM500 import-duty/sales-tax de minimis threshold at the border remains current."
   - "Form D processing time (~3 working days) and 2-year validity of exporter authorisation to issue Form D."
   - "Live duty rates and tariff codes change each budget cycle and AHTN revision — confirm against RMCD's current tariff schedule before relying on any specific rate."
-
 updated: 2026-08-16
 sources:
+  - title: "Targeted Revision of Sales Tax Rate and Expansion of Service Tax Scope, effective 1 July 2025 — Sales Tax remains at 5% and 10%"
+    url: "https://www.mof.gov.my/portal/en/news/press-release/targeted-revision-of-sales-tax-rate-and-expansion-of-service-tax-scope-effective-1-july-2025"
+    publisher: "Ministry of Finance Malaysia"
   - title: "Malaysia's Free Trade Agreements (MITI) — 17 concluded FTAs (8 bilateral, 9 regional) plus 2 partial-scope agreements"
     url: "https://fta.miti.gov.my/index.php/pages/view/4"
     publisher: "MITI"

@@ -38,10 +38,8 @@ faq:
     a: "以 Form N 依 s.100 申请延长时限。自 YA2020 起，该申请本身须在 30 天上诉期结束后 7 年内提出。若总监拒绝，该申请连同他的理由陈述（Form CP15B）会送交一位特别专员，你有 21 天作出书面陈词，而该特别专员的决定是终局的。"
 
 verificationNeeded:
-  - "Confirm whether LHDN has since opened any electronic channel for Form Q or Form N — the appeal page dated 25 June 2026 states electronic submission is not accepted"
   - "Confirm the current edition of the Garis Panduan Prosiding Resolusi Pertikaian; the published version is dated March 2019 and still cross-refers to the superseded Public Ruling 12/2017"
   - "Confirm whether the prescribed fee under Schedule 5 para 34(6) for filing a notice of appeal to the High Court has been published by the Minister — no current fee order was located"
-
 obligations:
   - what: "就评税通知书呈交 Form Q"
     trigger: "change"

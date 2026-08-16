@@ -32,7 +32,7 @@ faq:
     a: "对于涉及欺诈、蓄意逃税或疏忽的案件，没有时效限制。对于某些罪行（如第 113 条）的刑事诉讼，则适用 12 年的时效。"
 
 lang: "zh"
-sourceContentHash: "85b0269e3d6e503c"
+sourceContentHash: "fa0bdbadd54080b2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -43,11 +43,8 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Julat denda Seksyen 112(1) (RM200–RM2,000) sepadan dengan teks berkanun yang diterbitkan KPMG, tetapi ACP 1967 telah dipinda sejak arkib itu — sahkan angka semasa terhadap Akta Cukai Pendapatan 1967 terkini / hasil.gov.my."
   - "Sahkan bahawa kadar konsesi berperingkat Rangka Kerja Audit Cukai (15% / 30% / 45%) masih terpakai di bawah rangka kerja LHDN terkini."
-  - "Sahkan angka Seksyen 113 dan 114 terhadap Akta Cukai Pendapatan 1967 yang disatukan dan terkini, kerana pindaan berkanun berlaku dari semasa ke semasa."
-  - "Sahkan layanan penalti berkanun 100% di bawah Seksyen 113(2) bagi penyata tidak betul yang disengajakan terhadap rangka kerja pentadbiran semasa."
-revisions:
+  - "Sahkan layanan penalti berkanun 100% di bawah Seksyen 113(2) bagi penyata tidak betul yang disengajakan terhadap rangka kerja pentadbiran semasa."revisions:
   - version: "01.00"
     date: 2026-08-07
     change: "Approved and published."
@@ -55,6 +52,9 @@ revisions:
 
 updated: 2026-08-07
 sources:
+  - title: "Kesalahan, Denda dan Penalti — s.112(1) fine RM200 to RM20,000; s.113(1) RM1,000-RM10,000 +200%; s.114(1) RM1,000-RM20,000 +300%"
+    url: "https://www.hasil.gov.my/perundangan/kesalahan-denda-dan-penalti/"
+    publisher: "LHDN"
   - title: "2023 Tax Investigation Framework (TIF)"
     url: "https://www.ey.com/en_my/technical/tax-alerts/2023-tax-investigation-framework-tif"
     publisher: "EY Malaysia"
@@ -121,7 +121,7 @@ keywords: ["siasatan cukai", "tax investigation", "LHDN", "Seksyen 114", "pengel
 
 | 条文 | 罪行 | 刑罚 |
 |---|---|---|
-| 112 | 未提交表格／可课税通知 | 罚款 RM200–RM2,000 或监禁或两者兼施 |
+| 112 | 未提交表格／可课税通知 | 罚款 RM200–RM20,000 或监禁或两者兼施 |
 | 113 | 不正确申报／错误资料 | 罚款 RM1,000–RM10,000 及相当于少征税额 200% 的特别罚款（第 113(1) 条） |
 | 114(1) | 蓄意逃税 | 罚款 RM1,000–RM20,000 或监禁 ≤3 年或两者兼施＋相当于少征税额**三倍**的特别罚款 |
 | 114(1A) | 协助他人减少税务 | 罚款 RM2,000–RM20,000 或监禁 ≤3 年 |

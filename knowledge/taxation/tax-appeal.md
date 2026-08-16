@@ -38,10 +38,8 @@ faq:
     a: "Apply for an extension of time under s.100 using Form N. Since YA2020 that application must itself be made within 7 years after the end of the 30-day appeal period. If the Director General refuses, the application and his statement of reasons (Form CP15B) go to a Special Commissioner, you get 21 days to make written representations, and the Special Commissioner's decision is final."
 
 verificationNeeded:
-  - "Confirm whether LHDN has since opened any electronic channel for Form Q or Form N — the appeal page dated 25 June 2026 states electronic submission is not accepted"
   - "Confirm the current edition of the Garis Panduan Prosiding Resolusi Pertikaian; the published version is dated March 2019 and still cross-refers to the superseded Public Ruling 12/2017"
   - "Confirm whether the prescribed fee under Schedule 5 para 34(6) for filing a notice of appeal to the High Court has been published by the Minister — no current fee order was located"
-
 obligations:
   - what: "File Form Q against a notice of assessment"
     trigger: "change"

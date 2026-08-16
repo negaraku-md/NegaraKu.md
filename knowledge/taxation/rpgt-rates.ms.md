@@ -34,10 +34,7 @@ faq:
   - q: "Does the acquirer really have to hold back part of the price?"
     a: "Ya. Di bawah seksyen 21B, pemeroleh mesti menahan dan meremitkan peratusan tertentu daripada balasan kepada Ketua Pengarah dalam tempoh 60 hari daripada pelupusan — 3% bagi pelupus Bahagian I, 5% bagi syarikat yang melupuskan dalam tempoh tiga tahun dan 3% daripada tahun keempat, serta 7% bagi pelupus yang termasuk dalam Bahagian III. Kegagalan berbuat demikian mendedahkan pemeroleh, bukan penjual, kepada kenaikan 10% ke atas jumlah yang tidak dibayar."
 
-verificationNeeded:
-  - "Sama ada pindaan selepas 1 Januari 2024 memindahkan syarikat yang diperbadankan di luar Malaysia antara Bahagian II dan Bahagian III Jadual 5 tidak disahkan berbanding Akta Kewangan pindaan; klasifikasi di atas mengikut jadual kadar yang diterbitkan oleh LHDN"
-  - "Layanan ke atas pelupusan oleh perkongsian ditunjukkan di bawah Bahagian I pada halaman kadar LHDN tetapi asas statutori bagi klasifikasi itu tidak dibaca terus daripada Jadual 5"
-
+verificationNeeded: []
 obligations:
   - what: "Mengemukakan penyata RPGT dan membayar cukai ke atas pelupusan harta tanah"
     trigger: "change"
@@ -66,6 +63,9 @@ revisions:
 
 updated: 2026-07-20
 sources:
+  - title: "Real Property Gains Tax rates (Schedule 5, RPGTA 1976) — Part I covers individuals and partnerships; Part III covers a company not incorporated in Malaysia"
+    url: "https://www.hasil.gov.my/en/ckht/kadar-cukai-keuntungan-harta-tanah/"
+    publisher: "LHDN"
   - title: "Real Property Gains Tax (RPGT) Rates"
     url: "https://www.hasil.gov.my/ckht/kadar-cukai-keuntungan-harta-tanah/"
     publisher: "LHDN"

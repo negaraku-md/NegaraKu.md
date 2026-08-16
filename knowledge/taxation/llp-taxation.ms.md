@@ -24,9 +24,7 @@ appliesTo: "Profesional dan pemilik perniagaan yang sedang memilih antara LLP (P
 
 verificationNeeded:
   - "The Minister's prescription under Schedule 1 Part XXIII paragraph 2, for computing an individual partner's chargeable income where the partner has other income sources — no gazette order was located"
-  - "Whether LHDN has replaced Public Ruling No. 8/2022, which still states the pre-Finance Act 2025 position that all LLP distributions are exempt"
   - "The e-filing grace period as it applies specifically to Form PT — the 2026 filing programme table could not be read cell by cell"
-
 obligations:
   - what: "File the LLP income tax return (Form PT)"
     trigger: "financial-year-end"
@@ -67,6 +65,9 @@ revisions:
 
 updated: 2026-07-20
 sources:
+  - title: "Public Rulings index (Ketetapan Umum) — PR 8/2022 (Taxation of LLP) remains current; no superseding ruling 2023-2026"
+    url: "https://www.hasil.gov.my/en/perundangan/ketetapan-umum/"
+    publisher: "LHDN"
   - title: "Income Tax Act 1967 (Act 53), consolidated text"
     url: "https://lom.agc.gov.my/act-detail.php?act=53&lang=BI"
     publisher: "Attorney General's Chambers"

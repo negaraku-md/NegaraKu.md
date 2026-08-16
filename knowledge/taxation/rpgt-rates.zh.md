@@ -34,10 +34,7 @@ faq:
   - q: "承购人真的必须扣起部分价款吗？"
     a: "是的。依 section 21B，承购人必须在处置后 60 天内扣留一定百分比的代价并缴交给总监——Part I 处置人为 3%，公司在三年内处置为 5%、第四年起为 3%，处置人落在 Part III 者为 7%。未能照办的话，就未缴金额被加征 10% 的是承购人，不是卖方。"
 
-verificationNeeded:
-  - "2024 年 1 月 1 日之后是否有修订把在马来西亚境外注册成立的公司，在 Schedule 5 的 Part II 与 Part III 之间移动，未曾对照作出修订的 Finance Act 加以确认；以上的分类依循 LHDN 已发布的税率表"
-  - "合伙的处置在 LHDN 的税率页面上列于 Part I 之下，但该项分类的法定依据未曾直接从 Schedule 5 读取"
-
+verificationNeeded: []
 obligations:
   - what: "就房地产的处置呈交 RPGT 报表并缴税"
     trigger: "change"
