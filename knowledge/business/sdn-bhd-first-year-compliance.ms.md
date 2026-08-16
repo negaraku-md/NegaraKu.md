@@ -166,7 +166,7 @@ sources:
     publisher: "SSM"
     date: "2024-12-16"
   - title: "Tax Estimation"
-    url: "https://www.hasil.gov.my/en/company/tax-estimation/"
+    url: "https://www.hasil.gov.my/syarikat/anggaran-cukai/"
     publisher: "LHDN"
   - title: "Public Ruling No. 8/2025 — Tax Treatment for Micro, Small and Medium Companies"
     url: "https://www.hasil.gov.my/media/fo1ptejq/pr-8-2025-tax-treatment-for-micro-small-and-medium-companies.pdf"

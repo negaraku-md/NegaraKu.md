@@ -70,7 +70,7 @@ sources:
     url: "https://www.smeinfo.com.my/legalising-your-business/step-to-register/"
     publisher: "SME Corporation Malaysia (SMEinfo Portal)"
   - title: "ITRF Deadlines — Income Tax Return Form Filing Programme"
-    url: "https://www.hasil.gov.my/en/individual/individual-life-cycle/income-declaration/itrf-deadlines/"
+    url: "https://www.hasil.gov.my/en/borang/program-memfail-borang-nyata/"
     publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
 
 entity: "Sole Proprietorship"

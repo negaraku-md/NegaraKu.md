@@ -58,7 +58,7 @@ verificationNeeded:
 updated: 2026-08-08
 sources:
   - title: "Real Property Gains Tax (RPGT) Rates"
-    url: "https://www.hasil.gov.my/en/rpgt/real-property-gains-tax-rpgt-rates/"
+    url: "https://www.hasil.gov.my/en/ckht/kadar-cukai/"
     publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
   - title: "Malaysia — Individual — Other taxes (Real property gains tax)"
     url: "https://taxsummaries.pwc.com/malaysia/individual/other-taxes"

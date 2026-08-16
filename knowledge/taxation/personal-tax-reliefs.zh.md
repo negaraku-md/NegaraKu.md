@@ -36,11 +36,11 @@ sensitivity: "none"
 updated: 2026-07-10
 sources:
   - title: "LHDN — Individual Tax Relief"
-    url: "https://www.hasil.gov.my/en/individual/individual-life-cycle/tax-reliefs/"
+    url: "https://www.hasil.gov.my/en/individual/"
     publisher: "LHDN"
   - title: "Income Tax Act 1967"
-    url: "https://www.hasil.gov.my/en/legislation/acts/"
-    publisher: "LHDN"
+    url: "https://lom.agc.gov.my/act-detail.php?act=53"
+    publisher: "Attorney General's Chambers"
 
 entity: "Personal income tax relief"
 relations:

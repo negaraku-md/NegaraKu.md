@@ -46,8 +46,8 @@ sensitivity: "none"
 updated: 2026-07-24
 sources:
   - title: "Income Tax Act 1967 (Act 53) — Section 7, Residence: Individuals"
-    url: "https://www.hasil.gov.my/en/individual/individual-life-cycle/residence-status/section-7-ita-1967/"
-    publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
+    url: "https://lom.agc.gov.my/act-detail.php?act=53"
+    publisher: "Attorney General's Chambers"
   - title: "15 Mei 2026: Tarikh Akhir Pengemukaan e-Filing Individu (Tidak Menjalankan Perniagaan) Bagi Tahun Taksiran 2025 (Media Statement HASiL/2026/04/29-26)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20260429-kenyataan-media-hasil_tarikh-akhir-e_filing-15-mei-2026.pdf"
     publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"

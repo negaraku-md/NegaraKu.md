@@ -73,7 +73,7 @@ sources:
     url: "https://mysst.customs.gov.my/background/"
     publisher: "Royal Malaysian Customs Department (RMCD)"
   - title: "Tax Estimation — Lembaga Hasil Dalam Negeri Malaysia"
-    url: "https://www.hasil.gov.my/en/company/tax-estimation/"
+    url: "https://www.hasil.gov.my/en/syarikat/anggaran-cukai/"
     publisher: "Inland Revenue Board of Malaysia (LHDN)"
   - title: "Anggaran Cukai / Tax Estimation"
     url: "https://www.hasil.gov.my/en/syarikat/anggaran-cukai/"
