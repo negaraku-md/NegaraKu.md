@@ -39,9 +39,7 @@ faq:
 
 verificationNeeded:
   - "Finance Act 2025 (Act 874) 或其后任何修订法令，在此处所用 Income Tax Act 1967 的 2024 年 5 月 21 日重印本之后，是否改动了 Schedule 3"
-  - "Public Ruling No. 3/2018 以及关于工业建筑物的 Public Rulings No. 8/2016 与 10/2016 自发布以来是否已重新发布"
   - "目前是否有任何经宪报颁布的命令，为 paragraph 16 下的常年减免订明三百分之三以外的分数"
-
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
@@ -62,6 +60,9 @@ revisions:
 
 updated: 2026-07-20
 sources:
+  - title: "Public Rulings index (Ketetapan Umum) — LHDN listing confirms PR 3/2018, PR 8/2016 and PR 10/2016 on industrial buildings remain current (not reissued)"
+    url: "https://www.hasil.gov.my/en/perundangan/ketetapan-umum/"
+    publisher: "LHDN"
   - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
     publisher: "LHDN"

@@ -39,9 +39,7 @@ faq:
 
 verificationNeeded:
   - "Whether the Finance Act 2025 (Act 874) or any later amending Act changed Schedule 3 after the Income Tax Act 1967 reprint dated 21 May 2024 used here"
-  - "Whether Public Ruling No. 3/2018 and Public Rulings No. 8/2016 and 10/2016 on industrial buildings have been reissued since publication"
   - "Whether any gazetted order currently prescribes a fraction other than three-hundredths for the annual allowance under paragraph 16"
-
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
@@ -61,6 +59,9 @@ revisions:
 
 updated: 2026-07-20
 sources:
+  - title: "Public Rulings index (Ketetapan Umum) — LHDN listing confirms PR 3/2018, PR 8/2016 and PR 10/2016 on industrial buildings remain current (not reissued)"
+    url: "https://www.hasil.gov.my/en/perundangan/ketetapan-umum/"
+    publisher: "LHDN"
   - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
     publisher: "LHDN"
