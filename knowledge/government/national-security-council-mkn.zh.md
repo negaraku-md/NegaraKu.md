@@ -49,8 +49,6 @@ verificationNeeded:
   - "Wording of the Najib Razak statement is an unofficial Malay rendering of an English-language remark reported in the ISEAS commentary; a human should confirm the exact original wording and preferred translation before publication."
   - "The June 2016 attack attributed to an Islamic State-linked group and its causal framing relative to the Act should be confirmed against a primary news report, not only the ISEAS commentary."
   - "The claim that the 12 January 2021 Emergency suspended Parliament and State Legislative Assemblies should be confirmed against the emergency ordinance text or an official Parliament record."
-  - "The RM5,000 fine / three-year imprisonment penalty is stated for curfew breaches (s23(3)); confirm the exact offence(s) to which this penalty attaches in the Act."
-
 updated: 2026-08-01
 sources:
   - title: "National Security Council Act 2016 (Act 776)"

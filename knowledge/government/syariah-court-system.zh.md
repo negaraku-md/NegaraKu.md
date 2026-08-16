@@ -33,7 +33,7 @@ faq:
     a: "三级架构——伊斯兰下级法庭、伊斯兰高等法庭与伊斯兰上诉法庭——是通行做法，但各州通过其本州的法令设立，而联邦直辖区则由第505号法令规范。民事管辖权在金额价值上的上限由各自的法令或条例订明，各州之间可能有所不同。"
 
 lang: "zh"
-sourceContentHash: "6d31c6865febc866"
+sourceContentHash: "8fac45bc244e70ad"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -50,13 +50,15 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Tarikh kuat kuasa Perkara 121(1A) (10 Jun 1988) dan rujukan akta pindaan (Constitution (Amendment) Act 1988, Akta A704) — sahkan terhadap warta rasmi atau anotasi cetakan semula AGC."
-  - "Peluasan Akta 355 ke Sabah dan Sarawak melalui Syariah Courts (Criminal Jurisdiction) (Amendment and Extension) Act 1989 — sahkan tahun dan tarikh kuat kuasa terhadap teks akta pindaan rasmi."
   - "Had nilai wang bidang kuasa mal Mahkamah Rendah Syariah dan Mahkamah Tinggi Syariah yang berbeza antara negeri — sahkan terhadap enakmen pentadbiran agama Islam setiap negeri berkenaan."
-  - "Rujukan seksyen Akta 505 (s.40, 46, 47, 51, 52) — sahkan terhadap teks Akta 505 semasa jika terdapat pindaan terkini."
-
 updated: 2026-08-01
 sources:
+  - title: "Syariah Courts (Criminal Jurisdiction) Act 1965 (Act 355) — extended to Sabah & Sarawak by Act A730, in force 5 May 1989"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20355.pdf"
+    publisher: "Attorney General's Chambers"
+  - title: "Federal Constitution (Reprint 2020) — Art 121(1A) added by Act A704, in force 10 June 1988"
+    url: "https://bhess.jpm.gov.my/wp-content/uploads/2024/06/Perlembagaan-Persekutuan-Cetakan-Semula-2020-1.pdf"
+    publisher: "Jabatan Perdana Menteri"
   - title: "Federal Constitution (Reprint as at 15 October 2020) — Article 3, Article 121 and Ninth Schedule (Federal List and State List)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
     publisher: "Attorney General's Chambers of Malaysia"
@@ -145,7 +147,7 @@ keywords: ["mahkamah syariah", "sistem mahkamah Malaysia", "Perkara 121(1A)", "b
 
 > 凡属可判处超过三年监禁，或超过五千令吉罚款，或超过六下鞭刑，或上述任何合并之刑罚的任何罪行，该管辖权不得行使。
 
-此"3–5–6"上限常被称为伊斯兰法庭刑事管辖权的上限。第355号法令原本适用于马来西亚半岛的各州（第1(2)条），其后通过《伊斯兰法庭（刑事管辖权）（修订与扩展）法令1989》扩展至包括沙巴与砂拉越在内的全部各州。（修订法令的详情及其生效日期应对照官方文本加以核实。）
+此"3–5–6"上限常被称为伊斯兰法庭刑事管辖权的上限。第355号法令原本适用于马来西亚半岛的各州（第1(2)条），其后通过《伊斯兰法庭（刑事管辖权）（修订与扩展）法令1989》扩展至包括沙巴与砂拉越在内的全部各州。
 
 须注意的是，每一级法庭在设立它的法令或条例中都有各自的刑事上限。在联邦直辖区，第505号法令第47条将伊斯兰下级法庭限于最高刑罚不超过二千令吉罚款或一年监禁、或两者兼施的罪行——处于第355号法令下更高的联邦上限范围之内。
 

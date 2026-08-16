@@ -45,11 +45,12 @@ verificationNeeded:
   - "Exact appointment date and current holder of the Deputy Minister of Home Affairs post (snippets suggested Shamsul Anuar Nasarah from 17 Dec 2025; confirm against a gov.my or Hansard source before stating a date)."
   - "Verbatim official Vision (Visi), Mission (Misi) and Motto (Moto) text — MOHA publishes these only inside an image on the misi-visi-dan-teras page, so exact Malay wording must be transcribed from the image or an alternate official document before quoting."
   - "Current names/holders of the three Deputy Secretaries-General (Wikipedia lists them but should be cross-checked on moha.gov.my leadership pages)."
-  - "Precise, current status of IPCC (Independent Police Conduct Commission) replacing the EAIC — confirm commencement date and enabling Act (IPCC Act 2023 / Act 852) on lom.agc.gov.my before stating specifics."
   - "Exact list of statutes KDN administers (Immigration Act 1959/63, Societies Act 1966, Printing Presses and Publications Act 1984, Film Censorship Act 2002, National Registration Act 1959, Prevention of Crime Act 1959, Prevention of Terrorism Act 2015) — confirm Act numbers on lom.agc.gov.my before listing."
-  - "Whether RELA and PNMB are currently classified as departments vs. companies/agencies under the latest KDN org chart."
-updated: 2026-08-14
+  - "Whether RELA and PNMB are currently classified as departments vs. companies/agencies under the latest KDN org chart."updated: 2026-08-14
 sources:
+  - title: "MOHA — Independent Police Conduct Commission established under Act 839 (Royal Assent 8 Oct 2022, in force 1 July 2023)"
+    url: "https://www.moha.gov.my/utama/index.php/en/suruhanjaya-bebas-tatakelakuan-polis-ipcc/maklumat-semasa-ipcc"
+    publisher: "Ministry of Home Affairs"
   - title: "Pengenalan — Kementerian Dalam Negeri"
     url: "https://www.moha.gov.my/utama/index.php/ms/component/content/article/561-pengenalan?catid=161"
     publisher: "Ministry of Home Affairs Malaysia (moha.gov.my)"

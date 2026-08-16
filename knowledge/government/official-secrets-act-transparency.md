@@ -41,9 +41,7 @@ reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
   - "Nombor Peraturan Mesyuarat (Standing Order) yang mendasari rujukan Rang Undang-Undang Kebebasan Maklumat 2026 kepada Jawatankuasa Pilihan Khas — sumber berita yang dipetik tidak menyatakan nombor tersebut, dan rujukan bil Dewan Rakyat lazimnya di bawah Peraturan Mesyuarat 54. Sahkan terhadap Hansard/Penyata Rasmi Dewan Rakyat."
-  - "Tarikh perkenan (26 September 1972) dan tarikh kuat kuasa (1 Oktober 1972) Akta Rahsia Rasmi 1972, serta tarikh kuat kuasa Akta A573 (20 Januari 1984) — sahkan terhadap tajuk/nota cetakan semula rasmi Akta 88."
-  - "Sama ada bacaan kedua dan ketiga Rang Undang-Undang Kebebasan Maklumat 2026 telah dijadualkan atau selesai selepas peringkat Jawatankuasa Pilihan Khas."
-revisions:
+  - "Sama ada bacaan kedua dan ketiga Rang Undang-Undang Kebebasan Maklumat 2026 telah dijadualkan atau selesai selepas peringkat Jawatankuasa Pilihan Khas."revisions:
   - version: "01.00"
     date: 2026-08-01
     change: "Approved and published."
@@ -93,7 +91,7 @@ Satu memo mesyuarat, satu laporan audit, satu kertas Kabinet — di Malaysia, ma
 
 ## Apa yang dilindungi oleh Akta Rahsia Rasmi 1972?
 
-Akta Rahsia Rasmi 1972 (Akta 88) ialah undang-undang persekutuan yang menyatukan peruntukan perlindungan rahsia rasmi. Mengikut tajuk cetakan semula rasmi Akta 88, ia diperkenankan pada 26 September 1972 dan berkuat kuasa pada 1 Oktober 1972 (tarikh ini masih perlu disahkan terhadap dokumen cetakan semula). Ia telah dipinda antaranya melalui Akta A573 (Akta Rahsia Rasmi (Pindaan) 1984) dan Akta A660 (Akta Rahsia Rasmi (Pindaan) 1986), yang memperkenalkan antara lain peruntukan berkaitan pengkelasan dan sijil.
+Akta Rahsia Rasmi 1972 (Akta 88) ialah undang-undang persekutuan yang menyatukan peruntukan perlindungan rahsia rasmi. Mengikut tajuk cetakan semula rasmi Akta 88, ia diperkenankan pada 26 September 1972 dan berkuat kuasa pada 1 Oktober 1972. Ia telah dipinda antaranya melalui Akta A573 (Akta Rahsia Rasmi (Pindaan) 1984) dan Akta A660 (Akta Rahsia Rasmi (Pindaan) 1986), yang memperkenalkan antara lain peruntukan berkaitan pengkelasan dan sijil.
 
 Seksyen 2 mentakrifkan "rahsia rasmi" sebagai apa-apa dokumen yang dinyatakan dalam Jadual Akta itu, bersama apa-apa maklumat dan bahan berkaitan, serta apa-apa dokumen rasmi lain yang dikelaskan sebagai "Rahsia Besar", "Rahsia", "Sulit" atau "Terhad". Jadual Akta menyenaraikan tiga kategori dokumen yang secara automatik menjadi rahsia rasmi:
 

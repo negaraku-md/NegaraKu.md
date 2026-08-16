@@ -29,10 +29,7 @@ faq:
   - q: "国会与州立法议会有何区别？"
     a: "两者就不同的事项立法。联邦宪法的 Ninth Schedule（第九附表）将立法权限分为联邦事项表（Federal List）、州事项表（State List）与共同事项表（Concurrent List）。国会就联邦事项表与共同事项表立法；州立法议会就州事项表与共同事项表立法。沙巴与砂拉越另有保留予它们的项目。"
 
-verificationNeeded:
-  - "须对照联邦宪法 Article 45 及国会本身的上议员名单，查证上议院目前的议员总数，以及州选与委任上议员之间的比例——撰写时 parlimen.gov.my 的上议员页面返回错误页面。"
-  - "须对照联邦宪法 Article 55，查证下议院以年计的最长任期。"
-
+verificationNeeded: []
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
@@ -52,6 +49,9 @@ revisions:
 
 updated: 2026-07-20
 sources:
+  - title: "Federal Constitution (Reprint as at 15 October 2020)"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
+    publisher: "Attorney General's Chambers"
   - title: "List of Members — House of Representatives"
     url: "https://www.parlimen.gov.my/ahli-dewan.html?uweb=dr&lang=en"
     publisher: "Parliament of Malaysia"

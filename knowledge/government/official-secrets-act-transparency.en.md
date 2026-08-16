@@ -30,7 +30,7 @@ faq:
     a: "At the federal level, there is no freedom of information law in force as of the drafting of this piece. Only the states of Selangor (gazetted 2011, in force 2013) and Penang (2010 Enactment) have freedom of information enactments, which are limited to information within the jurisdiction of the respective state governments. A federal bill was tabled in July 2026."
 
 lang: "en"
-sourceContentHash: "30a92c47c3e21cac"
+sourceContentHash: "0c522a239939eddb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -42,9 +42,7 @@ reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
   - "Nombor Peraturan Mesyuarat (Standing Order) yang mendasari rujukan Rang Undang-Undang Kebebasan Maklumat 2026 kepada Jawatankuasa Pilihan Khas — sumber berita yang dipetik tidak menyatakan nombor tersebut, dan rujukan bil Dewan Rakyat lazimnya di bawah Peraturan Mesyuarat 54. Sahkan terhadap Hansard/Penyata Rasmi Dewan Rakyat."
-  - "Tarikh perkenan (26 September 1972) dan tarikh kuat kuasa (1 Oktober 1972) Akta Rahsia Rasmi 1972, serta tarikh kuat kuasa Akta A573 (20 Januari 1984) — sahkan terhadap tajuk/nota cetakan semula rasmi Akta 88."
-  - "Sama ada bacaan kedua dan ketiga Rang Undang-Undang Kebebasan Maklumat 2026 telah dijadualkan atau selesai selepas peringkat Jawatankuasa Pilihan Khas."
-revisions:
+  - "Sama ada bacaan kedua dan ketiga Rang Undang-Undang Kebebasan Maklumat 2026 telah dijadualkan atau selesai selepas peringkat Jawatankuasa Pilihan Khas."revisions:
   - version: "01.00"
     date: 2026-08-01
     change: "Approved and published."
@@ -94,7 +92,7 @@ A meeting memo, an audit report, a Cabinet paper — in Malaysia, any of these c
 
 ## What does the Official Secrets Act 1972 protect?
 
-The Official Secrets Act 1972 (Act 88) is the federal law that consolidates provisions for the protection of official secrets. According to the title of the official reprint of Act 88, it received assent on 26 September 1972 and came into force on 1 October 1972 (these dates still need to be verified against the reprint document). It has been amended, among others, through Act A573 (the Official Secrets (Amendment) Act 1984) and Act A660 (the Official Secrets (Amendment) Act 1986), which introduced, among other things, provisions relating to classification and certificates.
+The Official Secrets Act 1972 (Act 88) is the federal law that consolidates provisions for the protection of official secrets. According to the title of the official reprint of Act 88, it received assent on 26 September 1972 and came into force on 1 October 1972. It has been amended, among others, through Act A573 (the Official Secrets (Amendment) Act 1984) and Act A660 (the Official Secrets (Amendment) Act 1986), which introduced, among other things, provisions relating to classification and certificates.
 
 Section 2 defines an "official secret" as any document specified in the Schedule to the Act, together with any related information and material, as well as any other official document classified as "Top Secret", "Secret", "Confidential" or "Restricted". The Schedule to the Act lists three categories of documents that automatically become official secrets:
 

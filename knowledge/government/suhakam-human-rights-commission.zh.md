@@ -45,10 +45,7 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Tarikh sebenar keputusan Sesi ke-47 Sub-Jawatankuasa Akreditasi (SCA) GANHRI yang mengesahkan semula taraf 'A' SUHAKAM — 9 Jun 2026 ialah tarikh Kenyataan Media No. 32-2026 (pengumuman SUHAKAM), bukan tarikh keputusan SCA yang disahkan; sahkan tarikh sesi terhadap laporan rasmi SCA/GANHRI."
-  - "Nombor rujukan PU(B) 122/2000 bagi tarikh mula berkuat kuasa 20 April 2000 — sahkan terhadap Warta Kerajaan Persekutuan."
-  - "Rujukan silang seksyen pindaan A1714 (4(2)(ea), 4(3), 5(3A), 5(3B), 6A, 13(3)) — sahkan penomboran seksyen terhadap teks berkuat kuasa terkini yang disemak semula."
-revisions:
+  - "Tarikh sebenar keputusan Sesi ke-47 Sub-Jawatankuasa Akreditasi (SCA) GANHRI yang mengesahkan semula taraf 'A' SUHAKAM — 9 Jun 2026 ialah tarikh Kenyataan Media No. 32-2026 (pengumuman SUHAKAM), bukan tarikh keputusan SCA yang disahkan; sahkan tarikh sesi terhadap laporan rasmi SCA/GANHRI."revisions:
   - version: "01.00"
     date: 2026-08-01
     change: "Approved and published."
@@ -56,6 +53,9 @@ revisions:
 
 updated: 2026-08-01
 sources:
+  - title: "Human Rights Commission of Malaysia Act 1999 (Act 597) — commencement 20 April 2000, P.U.(B) 122/2000"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20597.pdf"
+    publisher: "Attorney General's Chambers"
   - title: "Akta 597 — Human Rights Commission of Malaysia Act 1999 (teks penuh)"
     url: "https://suhakam.org.my/wp-content/uploads/2024/04/ACT-597-1999_English.pdf"
     publisher: "Suruhanjaya Hak Asasi Manusia Malaysia (SUHAKAM)"

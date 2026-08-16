@@ -33,7 +33,7 @@ faq:
     a: "The three-tier arrangement — the Syariah Subordinate Court, the Syariah High Court and the Syariah Appeal Court — is common, but each state establishes it through its own state enactment, while the Federal Territories are governed by Act 505. The monetary limits on civil jurisdiction are set by the respective enactment or act and may differ between states."
 
 lang: "en"
-sourceContentHash: "6d31c6865febc866"
+sourceContentHash: "8fac45bc244e70ad"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -50,13 +50,15 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Tarikh kuat kuasa Perkara 121(1A) (10 Jun 1988) dan rujukan akta pindaan (Constitution (Amendment) Act 1988, Akta A704) — sahkan terhadap warta rasmi atau anotasi cetakan semula AGC."
-  - "Peluasan Akta 355 ke Sabah dan Sarawak melalui Syariah Courts (Criminal Jurisdiction) (Amendment and Extension) Act 1989 — sahkan tahun dan tarikh kuat kuasa terhadap teks akta pindaan rasmi."
   - "Had nilai wang bidang kuasa mal Mahkamah Rendah Syariah dan Mahkamah Tinggi Syariah yang berbeza antara negeri — sahkan terhadap enakmen pentadbiran agama Islam setiap negeri berkenaan."
-  - "Rujukan seksyen Akta 505 (s.40, 46, 47, 51, 52) — sahkan terhadap teks Akta 505 semasa jika terdapat pindaan terkini."
-
 updated: 2026-08-01
 sources:
+  - title: "Syariah Courts (Criminal Jurisdiction) Act 1965 (Act 355) — extended to Sabah & Sarawak by Act A730, in force 5 May 1989"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20355.pdf"
+    publisher: "Attorney General's Chambers"
+  - title: "Federal Constitution (Reprint 2020) — Art 121(1A) added by Act A704, in force 10 June 1988"
+    url: "https://bhess.jpm.gov.my/wp-content/uploads/2024/06/Perlembagaan-Persekutuan-Cetakan-Semula-2020-1.pdf"
+    publisher: "Jabatan Perdana Menteri"
   - title: "Federal Constitution (Reprint as at 15 October 2020) — Article 3, Article 121 and Ninth Schedule (Federal List and State List)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
     publisher: "Attorney General's Chambers of Malaysia"
@@ -145,7 +147,7 @@ Section 2 of Act 355 gives the syariah courts jurisdiction over offences against
 
 > such jurisdiction shall not be exercised in respect of any offence punishable with imprisonment for a term exceeding three years or with any fine exceeding five thousand ringgit or with whipping exceeding six strokes or with any combination thereof.
 
-This "3–5–6" limit is often referred to as the limit on the criminal jurisdiction of the syariah courts. Act 355 originally applied to the states of Peninsular Malaysia (section 1(2)), and was later extended to all states including Sabah and Sarawak through the Syariah Courts (Criminal Jurisdiction) (Amendment and Extension) Act 1989. (The details of the amending act and its date of coming into force should be verified against the official text.)
+This "3–5–6" limit is often referred to as the limit on the criminal jurisdiction of the syariah courts. Act 355 originally applied to the states of Peninsular Malaysia (section 1(2)), and was later extended to all states including Sabah and Sarawak through the Syariah Courts (Criminal Jurisdiction) (Amendment and Extension) Act 1989.
 
 Note that each tier of court has its own criminal limit in the enactment or act that establishes it. In the Federal Territories, section 47 of Act 505 limits the Syariah Subordinate Court to offences whose maximum punishment does not exceed two thousand ringgit or one year's imprisonment, or both — within the higher federal limit under Act 355.
 

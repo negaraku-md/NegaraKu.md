@@ -47,13 +47,13 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Tahun 1993 dan kandungan tepat Constitution (Amendment) Act 1993 (Perkara 181, 182, 183) hendaklah disahkan terhadap teks Akta rasmi, bukan sekadar ringkasan sekunder."
   - "Nama rasmi badan waris takhta Perak yang diperakukan dalam sumber sebagai 'Dewan Negara (Council of Succession)', serta susunan penuh pangkat waris."
   - "Butiran pemilihan Yang di-Pertuan Besar Negeri Sembilan oleh Undang Yang Empat hendaklah disahkan terhadap Undang-Undang Tubuh Kerajaan Negeri Sembilan 1959."
-  - "Peruntukan tepat berkenaan perkenan Peguam Negara sebelum prosiding terhadap seseorang Raja (Perkara 183 Perlembagaan Persekutuan)."
-
 updated: 2026-08-01
 sources:
+  - title: "Federal Constitution (Reprint as at 15 October 2020)"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
+    publisher: "Attorney General's Chambers"
   - title: "Federal Constitution of Malaysia (Articles 32, 38, 70, 71, 181, 182 and Eighth Schedule)"
     url: "https://www.constituteproject.org/constitution/Malaysia_2007"
     publisher: "Constitute Project (Comparative Constitutions Project)"

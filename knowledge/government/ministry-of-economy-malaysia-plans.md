@@ -46,9 +46,7 @@ reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
   - "Senarai penuh dan bilangan tepat agensi di bawah Kementerian Ekonomi (laman rasmi menyenaraikan 12 agensi pada tarikh semakan; susunan boleh berubah selepas penstrukturan Kabinet)"
-  - "Sama ada Jawatankuasa Khas Perdana Menteri kekal sebagai lapisan pengesahan dalam rantaian penyediaan RMK semasa"
-  - "Kedudukan menteri semasa (Akmal Nasrullah Mohd Nasir dilantik 16 Disember 2025) — sahkan jika berlaku perubahan Kabinet selepas tarikh ini"
-revisions:
+  - "Sama ada Jawatankuasa Khas Perdana Menteri kekal sebagai lapisan pengesahan dalam rantaian penyediaan RMK semasa"revisions:
   - version: "01.00"
     date: 2026-08-01
     change: "Approved and published."
@@ -56,6 +54,9 @@ revisions:
 
 updated: 2026-08-01
 sources:
+  - title: "Ministry of Economy directory — Minister YB Akmal Nasrullah bin Mohd Nasir"
+    url: "https://ekonomi.gov.my/en/direktori-telefon/yb-tuan-haji-akmal-nasrullah-bin-haji-mohd-nasir"
+    publisher: "Kementerian Ekonomi"
   - title: "Sejarah Kementerian Ekonomi / Unit Perancang Ekonomi"
     url: "https://ekonomi.gov.my/en/department-profile/profile/history"
     publisher: "Kementerian Ekonomi"

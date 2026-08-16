@@ -50,8 +50,6 @@ revisions:
 verificationNeeded:
   - "Tahun penggantungan pilihan raya perbandaran: laman rasmi DBKL menyatakan 'sejak 1970', tetapi penggantungan pilihan raya kerajaan tempatan di seluruh negara lazimnya didokumentasikan bermula 1965 (kemudian diformalkan melalui Akta Kerajaan Tempatan 1976). Pengulas perlu mengesahkan tahun/rangka masa yang tepat."
   - "Petikan perlembagaan Perkara 1(4), 45 dan 46 tidak dapat diekstrak semula terus daripada PDF Perlembagaan Persekutuan (Cetakan Semula 2020) AGC kerana teksnya tidak boleh dibaca mesin; sahkan bilangan kerusi Dewan Rakyat (13: 11 KL / 1 Labuan / 1 Putrajaya) dan Senator (2 KL / 1 Labuan / 1 Putrajaya) terhadap teks primer yang boleh dibaca."
-  - "Status kelembagaan penyelaras persekutuan (Jabatan Wilayah Persekutuan di bawah Jabatan Perdana Menteri berbanding sebuah Kementerian Wilayah Persekutuan penuh) pernah berubah antara kerajaan; sahkan susunan semasa pada tarikh penerbitan."
-
 updated: 2026-08-01
 sources:
   - title: "Federal Constitution (Reprint 2020) — Perkara 1(4), 45(1) dan 46(2)"

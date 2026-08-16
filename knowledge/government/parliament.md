@@ -29,10 +29,7 @@ faq:
   - q: "What is the difference between Parliament and a State Legislative Assembly?"
     a: "They legislate on different subjects. The Ninth Schedule to the Federal Constitution divides legislative competence into a Federal List, a State List and a Concurrent List. Parliament legislates on the Federal and Concurrent Lists; a State Legislative Assembly legislates on the State and Concurrent Lists. Sabah and Sarawak have additional items reserved to them."
 
-verificationNeeded:
-  - "Confirm the current total membership of the Dewan Negara and the split between state-elected and appointed senators against Article 45 of the Federal Constitution and Parliament's own senator listing — the parlimen.gov.my senator pages returned an error page at the time of writing."
-  - "Confirm the maximum term of the Dewan Rakyat in years against Article 55 of the Federal Constitution."
-
+verificationNeeded: []
 lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
@@ -50,6 +47,9 @@ revisions:
 
 updated: 2026-07-20
 sources:
+  - title: "Federal Constitution (Reprint as at 15 October 2020)"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
+    publisher: "Attorney General's Chambers"
   - title: "List of Members — House of Representatives"
     url: "https://www.parlimen.gov.my/ahli-dewan.html?uweb=dr&lang=en"
     publisher: "Parliament of Malaysia"

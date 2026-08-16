@@ -30,7 +30,7 @@ faq:
     a: "在联邦层面，截至本稿撰写时尚无生效的信息自由法。只有雪兰莪州（2011年宪报颁布，2013年生效）和槟城（2010年法令）拥有信息自由法令，且仅限于各自州政府管辖范围内的信息。一项联邦法案已于2026年7月提呈。"
 
 lang: "zh"
-sourceContentHash: "30a92c47c3e21cac"
+sourceContentHash: "0c522a239939eddb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -42,9 +42,7 @@ reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
   - "Nombor Peraturan Mesyuarat (Standing Order) yang mendasari rujukan Rang Undang-Undang Kebebasan Maklumat 2026 kepada Jawatankuasa Pilihan Khas — sumber berita yang dipetik tidak menyatakan nombor tersebut, dan rujukan bil Dewan Rakyat lazimnya di bawah Peraturan Mesyuarat 54. Sahkan terhadap Hansard/Penyata Rasmi Dewan Rakyat."
-  - "Tarikh perkenan (26 September 1972) dan tarikh kuat kuasa (1 Oktober 1972) Akta Rahsia Rasmi 1972, serta tarikh kuat kuasa Akta A573 (20 Januari 1984) — sahkan terhadap tajuk/nota cetakan semula rasmi Akta 88."
-  - "Sama ada bacaan kedua dan ketiga Rang Undang-Undang Kebebasan Maklumat 2026 telah dijadualkan atau selesai selepas peringkat Jawatankuasa Pilihan Khas."
-revisions:
+  - "Sama ada bacaan kedua dan ketiga Rang Undang-Undang Kebebasan Maklumat 2026 telah dijadualkan atau selesai selepas peringkat Jawatankuasa Pilihan Khas."revisions:
   - version: "01.00"
     date: 2026-08-01
     change: "Approved and published."
@@ -94,7 +92,7 @@ keywords: ["akta rahsia rasmi", "OSA 1972", "kebebasan maklumat", "ketelusan ker
 
 ## 《1972年官方机密法令》保护什么？
 
-《1972年官方机密法令》（第88号法令）是一部整合了官方机密保护条文的联邦法律。根据第88号法令官方重印本的标题，它于1972年9月26日御准，并于1972年10月1日生效（此日期仍需对照重印文件加以核实）。该法令历经多次修订，其中包括通过第A573号法令（《1984年官方机密（修正）法令》）和第A660号法令（《1986年官方机密（修正）法令》），后者引入了包括分类与证书相关的条文。
+《1972年官方机密法令》（第88号法令）是一部整合了官方机密保护条文的联邦法律。根据第88号法令官方重印本的标题，它于1972年9月26日御准，并于1972年10月1日生效。该法令历经多次修订，其中包括通过第A573号法令（《1984年官方机密（修正）法令》）和第A660号法令（《1986年官方机密（修正）法令》），后者引入了包括分类与证书相关的条文。
 
 第2条将「官方机密」定义为该法令附表中所列明的任何文件，连同任何相关信息和材料，以及任何其他被列为「绝密」、「机密」、「秘密」或「限阅」的官方文件。该法令附表列出三类自动成为官方机密的文件：
 

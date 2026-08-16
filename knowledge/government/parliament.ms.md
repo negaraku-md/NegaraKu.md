@@ -29,10 +29,7 @@ faq:
   - q: "Apakah perbezaan antara Parlimen dan Dewan Undangan Negeri?"
     a: "Kedua-duanya menggubal undang-undang mengenai perkara yang berbeza. Jadual Kesembilan Perlembagaan Persekutuan membahagikan kuasa perundangan kepada Senarai Persekutuan, Senarai Negeri dan Senarai Bersama. Parlimen menggubal undang-undang mengenai Senarai Persekutuan dan Senarai Bersama; Dewan Undangan Negeri menggubal undang-undang mengenai Senarai Negeri dan Senarai Bersama. Sabah dan Sarawak mempunyai perkara tambahan yang dikhaskan untuk mereka."
 
-verificationNeeded:
-  - "Sahkan jumlah keahlian semasa Dewan Negara dan pembahagian antara senator yang dipilih oleh negeri dan senator yang dilantik terhadap Perkara 45 Perlembagaan Persekutuan dan senarai senator Parlimen sendiri — halaman senator parlimen.gov.my memaparkan halaman ralat pada masa penulisan."
-  - "Sahkan tempoh maksimum Dewan Rakyat dalam tahun terhadap Perkara 55 Perlembagaan Persekutuan."
-
+verificationNeeded: []
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
@@ -52,6 +49,9 @@ revisions:
 
 updated: 2026-07-20
 sources:
+  - title: "Federal Constitution (Reprint as at 15 October 2020)"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
+    publisher: "Attorney General's Chambers"
   - title: "List of Members — House of Representatives"
     url: "https://www.parlimen.gov.my/ahli-dewan.html?uweb=dr&lang=en"
     publisher: "Parliament of Malaysia"

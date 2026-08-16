@@ -49,13 +49,15 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Tarikh kuat kuasa Perkara 121(1A) (10 Jun 1988) dan rujukan akta pindaan (Constitution (Amendment) Act 1988, Akta A704) — sahkan terhadap warta rasmi atau anotasi cetakan semula AGC."
-  - "Peluasan Akta 355 ke Sabah dan Sarawak melalui Syariah Courts (Criminal Jurisdiction) (Amendment and Extension) Act 1989 — sahkan tahun dan tarikh kuat kuasa terhadap teks akta pindaan rasmi."
   - "Had nilai wang bidang kuasa mal Mahkamah Rendah Syariah dan Mahkamah Tinggi Syariah yang berbeza antara negeri — sahkan terhadap enakmen pentadbiran agama Islam setiap negeri berkenaan."
-  - "Rujukan seksyen Akta 505 (s.40, 46, 47, 51, 52) — sahkan terhadap teks Akta 505 semasa jika terdapat pindaan terkini."
-
 updated: 2026-08-01
 sources:
+  - title: "Syariah Courts (Criminal Jurisdiction) Act 1965 (Act 355) — extended to Sabah & Sarawak by Act A730, in force 5 May 1989"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20355.pdf"
+    publisher: "Attorney General's Chambers"
+  - title: "Federal Constitution (Reprint 2020) — Art 121(1A) added by Act A704, in force 10 June 1988"
+    url: "https://bhess.jpm.gov.my/wp-content/uploads/2024/06/Perlembagaan-Persekutuan-Cetakan-Semula-2020-1.pdf"
+    publisher: "Jabatan Perdana Menteri"
   - title: "Federal Constitution (Reprint as at 15 October 2020) — Article 3, Article 121 and Ninth Schedule (Federal List and State List)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
     publisher: "Attorney General's Chambers of Malaysia"
@@ -144,7 +146,7 @@ Seksyen 2 Akta 355 memberi mahkamah syariah bidang kuasa ke atas kesalahan terha
 
 > bidang kuasa itu tidak boleh dilaksanakan berkenaan apa-apa kesalahan yang boleh dihukum dengan pemenjaraan untuk tempoh melebihi tiga tahun atau dengan apa-apa denda melebihi lima ribu ringgit atau dengan sebatan melebihi enam kali atau dengan apa-apa gabungannya.
 
-Had "3–5–6" ini sering dirujuk sebagai had bidang kuasa jenayah mahkamah syariah. Akta 355 pada asalnya terpakai kepada negeri-negeri di Semenanjung Malaysia (seksyen 1(2)), dan kemudian diperluas ke seluruh negeri termasuk Sabah dan Sarawak melalui Akta Mahkamah Syariah (Bidang Kuasa Jenayah) (Pindaan dan Peluasan) 1989. (Butiran akta pindaan dan tarikh kuat kuasanya harus disahkan terhadap teks rasmi.)
+Had "3–5–6" ini sering dirujuk sebagai had bidang kuasa jenayah mahkamah syariah. Akta 355 pada asalnya terpakai kepada negeri-negeri di Semenanjung Malaysia (seksyen 1(2)), dan kemudian diperluas ke seluruh negeri termasuk Sabah dan Sarawak melalui Akta Mahkamah Syariah (Bidang Kuasa Jenayah) (Pindaan dan Peluasan) 1989.
 
 Perlu diingat bahawa setiap peringkat mahkamah mempunyai had jenayahnya sendiri dalam enakmen atau akta yang menubuhkannya. Di Wilayah Persekutuan, seksyen 47 Akta 505 mengehadkan Mahkamah Rendah Syariah kepada kesalahan yang hukuman maksimumnya tidak melebihi dua ribu ringgit atau penjara satu tahun, atau kedua-duanya — dalam lingkungan had persekutuan yang lebih tinggi di bawah Akta 355.
 

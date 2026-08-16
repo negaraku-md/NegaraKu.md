@@ -47,9 +47,7 @@ reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
   - "The full list and exact number of agencies under the Ministry of Economy (the official site lists 12 agencies as of the review date; the arrangement may change after a Cabinet restructuring)"
-  - "Whether the Prime Minister's Special Committee remains an endorsement layer in the current RMK preparation chain"
-  - "The current minister's position (Akmal Nasrullah Mohd Nasir appointed 16 December 2025) — confirm if a Cabinet change occurs after this date"
-revisions:
+  - "Whether the Prime Minister's Special Committee remains an endorsement layer in the current RMK preparation chain"revisions:
   - version: "01.00"
     date: 2026-08-01
     change: "Approved and published."
@@ -57,6 +55,9 @@ revisions:
 
 updated: 2026-08-01
 sources:
+  - title: "Ministry of Economy directory — Minister YB Akmal Nasrullah bin Mohd Nasir"
+    url: "https://ekonomi.gov.my/en/direktori-telefon/yb-tuan-haji-akmal-nasrullah-bin-haji-mohd-nasir"
+    publisher: "Kementerian Ekonomi"
   - title: "Sejarah Kementerian Ekonomi / Unit Perancang Ekonomi"
     url: "https://ekonomi.gov.my/en/department-profile/profile/history"
     publisher: "Kementerian Ekonomi"
