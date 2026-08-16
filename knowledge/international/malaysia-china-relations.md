@@ -50,11 +50,7 @@ revisions:
 updated: 2026-08-01
 verificationNeeded:
   - "Official 2024 Chinese tourist arrivals to Malaysia — China Briefing cites 'over 3.8 million'; confirm against Tourism Malaysia / Immigration Department figures (some reports give ~3.29 million)."
-  - "The 'more than 480-fold' growth in two-way trade since 1974 — confirm Bernama's base-year figures, as the cited endpoints (under US$200m in 1974 to US$212.04bn in 2024) do not arithmetically yield 480x."
-  - "Co-chairs, venue and 'common understandings' of the 16 October 2024 Langkawi bilateral maritime dialogue, per the MFA (PRC) readout."
-  - "Exact date and legal status on which the mutual/reciprocal China-Malaysia visa-exemption agreement entered into force (2025)."
-  - "Whether the April 2025 joint statement's Code-of-Conduct language commits to conclusion specifically 'in 2026' as stated."
-sources:
+  - "The 'more than 480-fold' growth in two-way trade since 1974 — confirm Bernama's base-year figures, as the cited endpoints (under US$200m in 1974 to US$212.04bn in 2024) do not arithmetically yield 480x."sources:
   - title: "Malaysia and China Forge Strategic Partnerships Amid U.S. Tariff Pressures"
     url: "https://www.china-briefing.com/china-outbound-news/malaysia-and-china-forge-strategic-partnerships-amid-u-s-tariff-pressures"
     publisher: "China Briefing (Dezan Shira & Associates)"

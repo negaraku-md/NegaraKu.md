@@ -24,9 +24,7 @@ appliesTo: "任何居住在马来西亚的人——公民、永久居民或非�
 verificationNeeded:
   - "文中所示的收费数字（RM1、RM5、RM30、RM40、RM100、RM120 等）取自 Hospital Tengku Ampuan Afzan（HTAA，一间 KKM 设施）的官方网站，仅作为示例。至于马来西亚其他政府医院是否收取完全相同的费用，因撰写本文期间，大部分其他州卫生局子网域（jknmelaka.moh.gov.my、jknselangor.moh.gov.my、jknns.moh.gov.my、hq.moh.gov.my）皆无法访问（connection refused），而主网站 moh.gov.my 又阻挡自动化访问（403 Forbidden），故无法独立查证。"
   - "针对年满 60 岁公民的特定收费豁免／折扣——据广泛报道，为豁免 RM5 专科诊所挂号费，以及三等病房收费 50% 的减免——因尝试访问官方网站 moh.gov.my 时出现 403 Forbidden，无法直接查证，因此这些数字刻意不作为已查证事实列出；本文仅概括说明其机制。"
-  - "Akta Fee 1951（Akta 209）及相关 Perintah Fee (Perubatan) 的确切内容无法直接引用，因为 lom.agc.gov.my 上的官方 PDF 文件虽已成功下载，但无法提取为可读文字；本文对该法令的提及，仅止于法令名称／编号层级，并非引用特定条文。"
   - "轮候时间统计数据（例如专科预约或择期手术的平均等候天数／小时数）本文未列出，因为撰写本文期间找不到可查证的官方 KKM 数字；轮候时间的实际情况仅以定性方式说明。"
-
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"

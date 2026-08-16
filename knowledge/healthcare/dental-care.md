@@ -24,8 +24,6 @@ appliesTo: "Sesiapa yang tinggal di Malaysia dan ingin memahami perbezaan antara
 verificationNeeded:
   - "Bilangan tepat bidang kepakaran pergigian di hospital KKM dan butiran skop klinik pakar pergigian tidak dapat disahkan secara langsung kerana laman rasmi hq.moh.gov.my/ohp tidak dapat diakses (connection refused) semasa penulisan; huraian dalam artikel ini kekal umum dan tidak menyatakan bilangan khusus."
   - "Dasar pengecualian caj bagi warga emas, kanak-kanak dan kumpulan tertentu di klinik pergigian kerajaan disebut secara meluas dalam sumber sekunder, tetapi tidak disahkan di sini kerana artikel ini sengaja tidak menyatakan caj — sila rujuk kaunter pendaftaran klinik berkenaan untuk maklumat semasa."
-  - "Keperluan pendaftaran doktor gigi dan lesen klinik swasta di bawah Akta Pergigian 2018 (Akta 804) disahkan wujud melalui laman Persatuan Pergigian Malaysia yang memaparkan tajuk dan tarikh warta akta tersebut, tetapi kandungan penuh perkara-perkara akta tidak dapat diambil untuk disemak baris demi baris pada masa penulisan."
-
 lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
@@ -44,6 +42,9 @@ revisions:
 
 updated: 2026-07-24
 sources:
+  - title: "Laws of Malaysia - Act 804 - Dental Act 2018 (AGC Federal Legislation Portal)"
+    url: "https://lom.agc.gov.my/act-detail.php?type=principal&lang=BI&act=804"
+    publisher: "Attorney General's Chambers of Malaysia (AGC) - Laws of Malaysia Online"
   - title: "Perkhidmatan Pergigian oleh KKM"
     url: "https://www.malaysia.gov.my/my/topics/perkhidmatan-pergigian-oleh-kkm"
     publisher: "Portal Rasmi Kerajaan Malaysia (MyGovernment)"

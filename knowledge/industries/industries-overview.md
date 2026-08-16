@@ -53,10 +53,11 @@ verificationNeeded:
   - "Individual GDP shares for services (~59%) and manufacturing (~23%) are derived from DOSM's published combined 82.5%; confirm the exact split against DOSM's detailed GDP-by-sector tables before presenting them as precise figures."
   - "Trade surplus: DOSM's External Trade Statistics 2024 reports RM139.1 billion; MATRADE's trade-performance release reportedly cited a slightly different figure (~RM136.9 billion). Confirm the final/revised number and which body's figure to lead with."
   - "'China has remained Malaysia's largest trading partner for more than a decade' — confirm the exact consecutive-year count against the latest DOSM statement (the earlier draft's '16 years' was not verifiable in the cited sources)."
-  - "'Malaysia is one of the world's two largest palm oil producers' — confirm current global ranking against MPOB or a comparable primary source."
-
 updated: 2026-07-28
 sources:
+  - title: "Oil Palm Economic Performance in Malaysia and R&D Progress in 2023"
+    url: "https://jopr.mpob.gov.my/oil-palm-economic-performance-in-malaysia-and-rd-progress-in-2023/"
+    publisher: "Journal of Oil Palm Research (Malaysian Palm Oil Board, MPOB)"
   - title: "Gross Domestic Product 2024"
     url: "https://www.dosm.gov.my/portal-main/release-content/gross-domestic-product-2024"
     publisher: "Department of Statistics Malaysia (DOSM)"

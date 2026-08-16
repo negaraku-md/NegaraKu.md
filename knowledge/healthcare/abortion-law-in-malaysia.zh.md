@@ -49,13 +49,14 @@ revisions:
 
 verificationNeeded:
   - "Sejarah pindaan: sumber Thomas Philip menyebut pindaan 1971 (menyelamatkan nyawa) dan pindaan 1989 (memperluaskan alasan kesihatan mental/fizikal), tetapi laporan lain mengaitkan klausa pengecualian dengan Akta Pindaan Kanun Keseksaan 1989 (Akta 727) sahaja, sementara '1971' merujuk kepada Akta Perubatan. Sahkan susunan dan tahun sebenar terhadap teks statut."
-  - "Hukuman Seksyen 313, 314 dan 315 dalam jadual: sahkan angka tepat terhadap teks rasmi Kanun Keseksaan (Akta 574), bukan hanya ringkasan sekunder."
   - "Takrif dan syarat Garis Panduan Penamatan Kehamilan KKM 2012 (had 22 minggu / 500 gram, dua pengamal, seorang pakar): sahkan terhadap dokumen PDF rasmi KKM."
   - "Faktor ketidakseragaman akses (bantahan hati nurani, perbezaan fasiliti awam/swasta): dinyatakan secara umum tanpa sumber langsung — perlu pengesahan atau sumber tambahan sebelum diterbitkan."
   - "Pandangan Jawatankuasa Fatwa Kebangsaan 2002 (tempoh 120 hari): sahkan kandungan dan tarikh terhadap sumber rasmi selain laporan media."
-
 updated: 2026-08-01
 sources:
+  - title: "Laws of Malaysia, Act 574, Penal Code (official reprint)"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Penal%20Code%2018%20Dis%202018.pdf"
+    publisher: "Attorney General's Chambers of Malaysia (lom.agc.gov.my)"
   - title: "Malaysia's Abortion Provisions"
     url: "https://reproductiverights.org/maps/provision/malaysias-abortion-provisions/"
     publisher: "Center for Reproductive Rights"

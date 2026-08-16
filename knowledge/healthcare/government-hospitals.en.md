@@ -24,9 +24,7 @@ appliesTo: "Anyone living in Malaysia — citizens, permanent residents or non-c
 verificationNeeded:
   - "The charge figures shown (RM1, RM5, RM30, RM40, RM100, RM120, and so on) are taken from the official website of Hospital Tengku Ampuan Afzan (HTAA), a KKM facility, as an EXAMPLE only. Whether every other government hospital in Malaysia charges exactly the same amounts could not be independently confirmed, because most of the other state health department sub-domains (jknmelaka.moh.gov.my, jknselangor.moh.gov.my, jknns.moh.gov.my, hq.moh.gov.my) could not be accessed (connection refused) at the time of writing, and the main moh.gov.my site blocks automated access (403 Forbidden)."
   - "The specific charge exemption/discount for citizens aged 60 and above — widely reported as an exemption from the RM5 specialist clinic registration charge and a 50% reduction on the Class 3 charge — could not be confirmed directly on the official moh.gov.my website (403 Forbidden when access was attempted), so those figures are deliberately not stated as confirmed fact; only the mechanism is described in general terms."
-  - "The exact content of the Akta Fee 1951 (Akta 209) and the related Fees (Medical) Order could not be quoted directly, because the official PDF file at lom.agc.gov.my was successfully downloaded but could not be extracted as readable text; the reference to this Act here is at the level of the Act's name/number only, not a citation of specific sections."
   - "Waiting-time statistics (for example, the average number of days/hours for a specialist appointment or elective surgery) are not stated, because no confirmable official KKM figures could be found at the time of writing; the reality of waiting times is described qualitatively only."
-
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"

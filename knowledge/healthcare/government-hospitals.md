@@ -24,9 +24,7 @@ appliesTo: "Sesiapa yang tinggal di Malaysia — warganegara, penduduk tetap ata
 verificationNeeded:
   - "Angka caj yang dipaparkan (RM1, RM5, RM30, RM40, RM100, RM120, dan seterusnya) diambil daripada laman rasmi Hospital Tengku Ampuan Afzan (HTAA), sebuah kemudahan KKM, sebagai CONTOH sahaja. Sama ada setiap hospital kerajaan lain di Malaysia mengenakan caj tepat yang sama tidak dapat disahkan secara bebas kerana kebanyakan sub-domain jabatan kesihatan negeri lain (jknmelaka.moh.gov.my, jknselangor.moh.gov.my, jknns.moh.gov.my, hq.moh.gov.my) tidak dapat diakses (connection refused) semasa penulisan, dan laman utama moh.gov.my menyekat capaian automatik (403 Forbidden)."
   - "Pengecualian/diskaun caj khusus untuk warganegara berumur 60 tahun ke atas — dilaporkan secara meluas sebagai pengecualian caj pendaftaran klinik pakar RM5 dan pengurangan 50% caj Kelas 3 — tidak dapat disahkan secara langsung pada laman rasmi moh.gov.my (403 Forbidden semasa cubaan capaian), maka angka tersebut sengaja tidak dinyatakan sebagai fakta disahkan; mekanisme sahaja diterangkan secara umum."
-  - "Kandungan tepat Akta Fee 1951 (Akta 209) dan Perintah Fee (Perubatan) berkaitan tidak dapat dipetik secara langsung kerana fail PDF rasmi di lom.agc.gov.my berjaya dimuat turun tetapi tidak dapat diekstrak sebagai teks yang boleh dibaca; rujukan kepada Akta ini di sini adalah pada peringkat nama/nombor Akta sahaja, bukan petikan seksyen."
   - "Statistik masa menunggu (contohnya bilangan hari/jam purata untuk temujanji pakar atau pembedahan elektif) tidak dinyatakan kerana tiada angka rasmi KKM yang dapat disahkan ditemui semasa penulisan; realiti masa menunggu diterangkan secara kualitatif sahaja."
-
 lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"

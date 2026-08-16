@@ -48,8 +48,6 @@ revisions:
 verificationNeeded:
   - "Nilai potong ringgit rasmi B40/M40/T20 bagi 2024 (pendapatan pada persentil ke-40 dan ke-80) belum disenaraikan dalam artikel — sahkan dan tambah daripada laporan penuh DOSM 2024 jika perlu."
   - "Sama ada kerajaan secara rasmi menggunakan pecahan lebih halus (cth. T15) untuk penyasaran subsidi — dakwaan asal dibuang kerana tiada sumber rasmi dalam laporan DOSM yang dipetik; sahkan sumber sebelum menambah semula."
-  - "Angka median negeri teratas 2024 (KL RM10,805, Putrajaya RM10,769, Selangor RM10,726) disahkan melalui siaran DOSM — pengesah manusia digalakkan menyemak silang dengan jadual laporan penuh."
-
 updated: 2026-08-08
 sources:
   - title: "Household Income Survey Report, Malaysia & States 2024 (dikeluarkan 2025-10-08)"

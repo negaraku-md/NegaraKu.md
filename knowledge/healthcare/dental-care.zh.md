@@ -24,8 +24,6 @@ appliesTo: "居住在马来西亚、想了解在政府机构与私人诊所接�
 verificationNeeded:
   - "KKM医院的牙科专科领域确切数目，以及牙科专科诊所服务范围的详情，因官方网站 hq.moh.gov.my/ohp 在撰写本文期间无法访问（连接被拒），故无法直接查证；本文相关描述维持概括说明，不列明具体数目。"
   - "政府牙科诊所对乐龄人士、儿童及特定群体豁免收费的政策在次要资料来源中被广泛提及，但本文因刻意不列明具体收费而未在此查证——请向相关诊所的挂号柜台查询最新资讯。"
-  - "牙医注册及私人诊所根据 Akta Pergigian 2018（Akta 804）领取执照的规定，经马来西亚牙医公会（Malaysian Dental Association）网站确认存在，该网站列出了该法令的标题与宪报颁布日期，但撰写本文期间无法取得该法令条文全文以逐条查核。"
-
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
@@ -45,6 +43,9 @@ revisions:
 updated: 2026-07-24
 sourceContentHash: "4e874b9f524ab414"
 sources:
+  - title: "Laws of Malaysia - Act 804 - Dental Act 2018 (AGC Federal Legislation Portal)"
+    url: "https://lom.agc.gov.my/act-detail.php?type=principal&lang=BI&act=804"
+    publisher: "Attorney General's Chambers of Malaysia (AGC) - Laws of Malaysia Online"
   - title: "Perkhidmatan Pergigian oleh KKM"
     url: "https://www.malaysia.gov.my/my/topics/perkhidmatan-pergigian-oleh-kkm"
     publisher: "Portal Rasmi Kerajaan Malaysia (MyGovernment)"

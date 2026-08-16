@@ -42,9 +42,7 @@ reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
   - "Asma tidak dinamakan secara khusus dalam kedua-dua PDF JAS yang dirujuk (sumber menyebut warga tua, wanita hamil, kanak-kanak dan komplikasi jantung/paru-paru). Rujukan asma di sini ialah inferens editorial sebagai keadaan paru-paru — sahkan dengan sumber nasihat kesihatan rasmi JAS."
-  - "Band Kecemasan (>500) tidak diberi warna berasingan pada tolok rasmi JAS (warna hanya ditakrifkan sehingga Merbahaya). Sahkan sama ada satu warna rasmi wujud untuk band ini sebelum menetapkannya."
-  - "Nama dan alamat portal bacaan langsung (APIMS di apims.doe.gov.my) tidak didokumenkan dalam kedua-dua PDF yang dirujuk. Sahkan nama serta URL portal rasmi semasa untuk bacaan IPU langsung."
-revisions:
+  - "Band Kecemasan (>500) tidak diberi warna berasingan pada tolok rasmi JAS (warna hanya ditakrifkan sehingga Merbahaya). Sahkan sama ada satu warna rasmi wujud untuk band ini sebelum menetapkannya."revisions:
   - version: "01.00"
     date: 2026-07-28
     change: "Approved and published."
@@ -52,6 +50,9 @@ revisions:
 
 updated: 2026-07-28
 sources:
+  - title: "Air Pollutant Index Management System (APIMS) — dataset"
+    url: "https://radars.mosti.gov.my/dataset/air-pollutant-index-management-system-apims/"
+    publisher: "Kementerian Sains, Teknologi dan Inovasi (MOSTI) — RADARS open-data catalogue (gov.my)"
   - title: "Pengiraan Indeks Pencemar Udara (IPU) / Air Pollutant Index (API) Calculation"
     url: "https://www.doe.gov.my/wp-content/uploads/2021/09/API_Calculation.pdf"
     publisher: "Jabatan Alam Sekitar (Department of Environment)"

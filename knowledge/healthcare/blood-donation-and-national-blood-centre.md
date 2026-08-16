@@ -39,13 +39,8 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Angka '1 pain (586ml)' dipetik terus daripada FAQ rasmi PDN, tetapi tidak sepadan dengan pain imperial piawai (568ml) mahupun pain AS (473ml). Sahkan nilai terkini yang diterbitkan PDN sebelum penerbitan."
-  - "Ambang dan tempoh keistimewaan penderma (1-5, 2 kali/12 bulan, 21-30, 51-75, lebih 100 kali) — sahkan terhadap halaman 'Keistimewaan Penderma' PDN terkini kerana dasar boleh berubah."
-  - "Had umur (17-60 kali pertama, 17-65 ulangan) dan keperluan Laporan Kesihatan bagi 60 tahun ke atas — sahkan terhadap garis panduan kelayakan PDN versi terkini."
   - "Bilangan 22 tapak pungutan darah (BBIS v2) — sahkan terhadap papan pemuka KKMNOW/PDN semasa."
-  - "Nombor telefon (03-2613 2688) dan alamat PDN — sahkan masih tepat."
-  - "Keputusan editorial: sama ada bendera sensitivity perlu dinaikkan melebihi 'none' memandangkan kriteria penangguhan MSM/pekerja seks/penyuntik dadah dihasilkan semula (dipetik verbatim daripada garis panduan rasmi PDN, tanpa bahasa advokasi)."
-revisions:
+  - "Keputusan editorial: sama ada bendera sensitivity perlu dinaikkan melebihi 'none' memandangkan kriteria penangguhan MSM/pekerja seks/penyuntik dadah dihasilkan semula (dipetik verbatim daripada garis panduan rasmi PDN, tanpa bahasa advokasi)."revisions:
   - version: "01.00"
     date: 2026-08-01
     change: "Approved and published."

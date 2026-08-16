@@ -24,8 +24,6 @@ appliesTo: "Anyone living in Malaysia who wants to understand the difference bet
 verificationNeeded:
   - "The exact number of dental specialty fields at KKM hospitals and the detailed scope of specialist dental clinics could not be verified directly, because the official site hq.moh.gov.my/ohp was inaccessible (connection refused) at the time of writing; the description in this article remains general and does not state specific numbers."
   - "The policy on charge exemptions for senior citizens, children and certain groups at government dental clinics is widely mentioned in secondary sources, but is not verified here because this article deliberately does not state charges — please check with the registration counter of the relevant clinic for current information."
-  - "The registration requirement for dentists and the licensing of private clinics under Akta Pergigian 2018 (Akta 804) is confirmed to exist via the Malaysian Dental Association's website, which displays the title and gazette date of the Act, but the full content of the Act's provisions could not be retrieved for line-by-line review at the time of writing."
-
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
@@ -45,6 +43,9 @@ revisions:
 updated: 2026-07-24
 sourceContentHash: "4e874b9f524ab414"
 sources:
+  - title: "Laws of Malaysia - Act 804 - Dental Act 2018 (AGC Federal Legislation Portal)"
+    url: "https://lom.agc.gov.my/act-detail.php?type=principal&lang=BI&act=804"
+    publisher: "Attorney General's Chambers of Malaysia (AGC) - Laws of Malaysia Online"
   - title: "Perkhidmatan Pergigian oleh KKM"
     url: "https://www.malaysia.gov.my/my/topics/perkhidmatan-pergigian-oleh-kkm"
     publisher: "Portal Rasmi Kerajaan Malaysia (MyGovernment)"

@@ -49,9 +49,6 @@ revisions:
 verificationNeeded:
   - "Whether MITI's own headline tally counts the in-force network as 17 (core FTAs) or 19 (including TPS-OIC and D-8) at the time of human review."
   - "The 'more than 90% of Malaysia's exports' duty-free coverage figure for MEEPA once it enters into force."
-  - "TPS-OIC and D-8 Preferential Tariff Agreement entry-into-force dates (recorded as 1 October 2023)."
-  - "Live status of MEEPA — confirm no entry-into-force date has since been recorded by MITI."
-
 updated: 2026-08-01
 sources:
   - title: "Free Trade Agreements (FTA)"
