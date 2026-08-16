@@ -20,9 +20,7 @@ keyTakeaways:
   - "地税、门牌税、贷款利息、火险与维修，是 s.4(d) 下的核心扣除项目"
   - "物业出租过之后的空置，只要明确仍可供再度出租，就不会中断扣除"
 
-verificationNeeded:
-  - "Public Ruling 12/2018 仍是目前有关房地产出租收入的现行指引；在依赖第 7 段的归类规则之前，请查证是否已有第四版"
-
+verificationNeeded: []
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
@@ -43,6 +41,9 @@ revisions:
 
 updated: 2026-07-20
 sources:
+  - title: "Public Rulings index (Ketetapan Umum) — LHDN listing confirms no superseding ruling issued as at 2026"
+    url: "https://www.hasil.gov.my/en/perundangan/ketetapan-umum/"
+    publisher: "LHDN"
   - title: "Ketetapan Umum No. 12/2018 — Pendapatan Daripada Sewaan Harta Tanah"
     url: "https://www.hasil.gov.my/wp-content/uploads/KU_12_2018.pdf"
     publisher: "Lembaga Hasil Dalam Negeri Malaysia"

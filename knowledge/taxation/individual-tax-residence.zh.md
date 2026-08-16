@@ -35,9 +35,7 @@ faq:
   - q: "在一整年都没踏足马来西亚的年份里，我还可能是税务居民吗？"
     a: "可以，依 s.7(1)(d)。如果你在下一个基年是居民，而且在紧接的前三个基年每一年都是居民，那么即使当中那一年在场天数为零，你在那一年仍是居民。Public Ruling 11/2017 的 Examples 16 与 17 都说明了这一点。"
 
-verificationNeeded:
-  - "Public Ruling 11/2017 是目前关于个人居民身份的现行公布指引；请查证 LHDN 是否已发出替代文件，因为该裁定的发布早于 YA2022 的外国来源收入改动"
-
+verificationNeeded: []
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
@@ -58,6 +56,9 @@ revisions:
 
 updated: 2026-07-20
 sources:
+  - title: "Public Rulings index (Ketetapan Umum) — LHDN listing confirms no superseding ruling issued as at 2026"
+    url: "https://www.hasil.gov.my/en/perundangan/ketetapan-umum/"
+    publisher: "LHDN"
   - title: "Income Tax Act 1967 (Act 53), reprint of 21 May 2024 — s.7"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
     publisher: "Attorney General's Chambers"

@@ -32,9 +32,7 @@ faq:
     a: "不算。在 NV Alliance Sdn Bhd v Ketua Pengarah Hasil Dalam Negeri 一案中，上诉庭裁定付给销售代理的现金奖励不属于 section 18 下的款待，法院援引 noscitur a sociis 与 ejusdem generis 规则，认定「任何形式的款待」须从食物、饮料与娱乐取得其含义。因此这些款项完全落在 paragraph 39(1)(l) 之外，可全额扣除。"
 
 verificationNeeded:
-  - "Public Ruling No. 4/2015 是否已重新发布——它在 LHDN 的 Public Rulings 索引上仍列为现行，但发布于 2015 年"
   - "Finance Act 2025 (Act 874) 或其后任何修订法令，在此处所用 Income Tax Act 1967 的 2024 年 5 月 21 日重印本之后，是否改动了 paragraph 39(1)(l)"
-
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
@@ -55,6 +53,9 @@ revisions:
 
 updated: 2026-07-20
 sources:
+  - title: "Public Rulings index (Ketetapan Umum) — LHDN listing confirms no superseding ruling issued as at 2026"
+    url: "https://www.hasil.gov.my/en/perundangan/ketetapan-umum/"
+    publisher: "LHDN"
   - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
     publisher: "LHDN"

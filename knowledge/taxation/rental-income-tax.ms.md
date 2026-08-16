@@ -20,9 +20,7 @@ keyTakeaways:
   - "Cukai tanah (quit rent), cukai taksiran, faedah pinjaman, insurans kebakaran dan pembaikan adalah tolakan teras s.4(d)"
   - "Kekosongan selepas harta pernah disewakan tidak menghentikan tolakan jika harta itu jelas tersedia untuk disewakan semula"
 
-verificationNeeded:
-  - "Ketetapan Umum 12/2018 kekal sebagai panduan semasa mengenai pendapatan daripada penyewaan harta tanah; semak sama ada terdapat edisi keempat sebelum bergantung pada peraturan pengumpulan dalam perenggan 7"
-
+verificationNeeded: []
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
@@ -42,6 +40,9 @@ revisions:
 
 updated: 2026-07-20
 sources:
+  - title: "Public Rulings index (Ketetapan Umum) — LHDN listing confirms no superseding ruling issued as at 2026"
+    url: "https://www.hasil.gov.my/en/perundangan/ketetapan-umum/"
+    publisher: "LHDN"
   - title: "Ketetapan Umum No. 12/2018 — Pendapatan Daripada Sewaan Harta Tanah"
     url: "https://www.hasil.gov.my/wp-content/uploads/KU_12_2018.pdf"
     publisher: "Lembaga Hasil Dalam Negeri Malaysia"

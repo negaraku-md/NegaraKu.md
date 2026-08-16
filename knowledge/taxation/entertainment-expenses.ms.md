@@ -32,9 +32,7 @@ faq:
     a: "Tidak. Dalam kes NV Alliance Sdn Bhd lwn Ketua Pengarah Hasil Dalam Negeri, Mahkamah Rayuan memutuskan bahawa insentif tunai yang dibayar kepada ejen jualan bukan hospitaliti dalam maksud seksyen 18, dengan menggunakan kaedah tafsiran noscitur a sociis dan ejusdem generis supaya 'hospitaliti dalam apa jua bentuk' mengambil maknanya daripada makanan, minuman dan rekreasi. Bayaran tersebut oleh itu terletak sepenuhnya di luar perenggan 39(1)(l) dan boleh ditolak sepenuhnya."
 
 verificationNeeded:
-  - "Whether Public Ruling No. 4/2015 has been reissued — it remains listed as current on the LHDN Public Rulings index but was published in 2015"
   - "Whether the Finance Act 2025 (Act 874) or any later amending Act changed paragraph 39(1)(l) after the Income Tax Act 1967 reprint dated 21 May 2024 used here"
-
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
@@ -54,6 +52,9 @@ revisions:
 
 updated: 2026-07-20
 sources:
+  - title: "Public Rulings index (Ketetapan Umum) — LHDN listing confirms no superseding ruling issued as at 2026"
+    url: "https://www.hasil.gov.my/en/perundangan/ketetapan-umum/"
+    publisher: "LHDN"
   - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
     publisher: "LHDN"

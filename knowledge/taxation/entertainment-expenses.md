@@ -32,9 +32,7 @@ faq:
     a: "No. In NV Alliance Sdn Bhd v Ketua Pengarah Hasil Dalam Negeri the Court of Appeal held that cash incentives paid to sales agents are not hospitality within section 18, applying the noscitur a sociis and ejusdem generis rules so that hospitality of any kind takes its meaning from food, drink and recreation. The payments therefore fell outside paragraph 39(1)(l) altogether and were fully deductible."
 
 verificationNeeded:
-  - "Whether Public Ruling No. 4/2015 has been reissued — it remains listed as current on the LHDN Public Rulings index but was published in 2015"
   - "Whether the Finance Act 2025 (Act 874) or any later amending Act changed paragraph 39(1)(l) after the Income Tax Act 1967 reprint dated 21 May 2024 used here"
-
 lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
@@ -53,6 +51,9 @@ revisions:
 
 updated: 2026-07-20
 sources:
+  - title: "Public Rulings index (Ketetapan Umum) — LHDN listing confirms no superseding ruling issued as at 2026"
+    url: "https://www.hasil.gov.my/en/perundangan/ketetapan-umum/"
+    publisher: "LHDN"
   - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
     publisher: "LHDN"

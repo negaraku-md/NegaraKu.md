@@ -35,9 +35,7 @@ faq:
   - q: "Bolehkah saya menjadi pemastautin cukai bagi satu tahun yang langsung tidak saya jejakkan kaki di Malaysia?"
     a: "Ya, di bawah s.7(1)(d). Jika anda adalah pemastautin bagi tahun asas berikutnya dan telah menjadi pemastautin bagi setiap tiga tahun asas sebelum itu, anda adalah pemastautin bagi tahun di antaranya walaupun dengan sifar hari kehadiran. Contoh 16 dan 17 Public Ruling 11/2017 kedua-duanya menggambarkan perkara ini."
 
-verificationNeeded:
-  - "Public Ruling 11/2017 adalah panduan terbitan semasa mengenai taraf mastautin individu; semak sama ada LHDN telah mengeluarkan penggantinya, kerana ruling itu terbit sebelum perubahan pendapatan bersumber luar negara YA2022"
-
+verificationNeeded: []
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
@@ -57,6 +55,9 @@ revisions:
 
 updated: 2026-07-20
 sources:
+  - title: "Public Rulings index (Ketetapan Umum) — LHDN listing confirms no superseding ruling issued as at 2026"
+    url: "https://www.hasil.gov.my/en/perundangan/ketetapan-umum/"
+    publisher: "LHDN"
   - title: "Income Tax Act 1967 (Act 53), reprint of 21 May 2024 — s.7"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
     publisher: "Attorney General's Chambers"

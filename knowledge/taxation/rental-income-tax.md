@@ -20,9 +20,7 @@ keyTakeaways:
   - "Quit rent, assessment, loan interest, fire insurance and repairs are the core s.4(d) deductions"
   - "Vacancy after a property has been let does not stop deductions if it is clearly available to be re-let"
 
-verificationNeeded:
-  - "Public Ruling 12/2018 remains the current guidance on income from letting of real property; check for a fourth edition before relying on the grouping rules in paragraph 7"
-
+verificationNeeded: []
 lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
@@ -41,6 +39,9 @@ revisions:
 
 updated: 2026-07-20
 sources:
+  - title: "Public Rulings index (Ketetapan Umum) — LHDN listing confirms no superseding ruling issued as at 2026"
+    url: "https://www.hasil.gov.my/en/perundangan/ketetapan-umum/"
+    publisher: "LHDN"
   - title: "Ketetapan Umum No. 12/2018 — Pendapatan Daripada Sewaan Harta Tanah"
     url: "https://www.hasil.gov.my/wp-content/uploads/KU_12_2018.pdf"
     publisher: "Lembaga Hasil Dalam Negeri Malaysia"

@@ -35,9 +35,7 @@ faq:
   - q: "Can I be tax resident in a year I never set foot in Malaysia?"
     a: "Yes, under s.7(1)(d). If you are resident for the following basis year and were resident for each of the three immediately preceding basis years, you are resident for the year in between even with zero days of presence. Public Ruling 11/2017 Examples 16 and 17 both illustrate this."
 
-verificationNeeded:
-  - "Public Ruling 11/2017 is the current published guidance on individual residence; check whether LHDN has issued a replacement, as the ruling predates the YA2022 foreign-source income changes"
-
+verificationNeeded: []
 lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
@@ -56,6 +54,9 @@ revisions:
 
 updated: 2026-07-20
 sources:
+  - title: "Public Rulings index (Ketetapan Umum) — LHDN listing confirms no superseding ruling issued as at 2026"
+    url: "https://www.hasil.gov.my/en/perundangan/ketetapan-umum/"
+    publisher: "LHDN"
   - title: "Income Tax Act 1967 (Act 53), reprint of 21 May 2024 — s.7"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
     publisher: "Attorney General's Chambers"
