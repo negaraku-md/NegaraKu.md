@@ -88,6 +88,31 @@ const { locale, path } = Astro.props;
           ))
         }
       </div>
+
+      {/* Compact language picker for phones — a native <details> dropdown that
+          shows only the current locale, saving the width of three pills. Desktop
+          keeps the pill group above; only one is visible at a time (see CSS). */}
+      <details class="lang-menu">
+        <summary aria-label={LOCALE_NAMES[locale]} title={LOCALE_NAMES[locale]}>
+          <span>{locale.toUpperCase()}</span>
+          <span class="caret" aria-hidden="true">▾</span>
+        </summary>
+        <div class="lang-menu-list" role="group" aria-label="Language">
+          {
+            LOCALES.map((l) => (
+              <a
+                class:list={['lang-opt', { active: l === locale }]}
+                href={localePath(path || '/', l)}
+                hreflang={l}
+                aria-current={l === locale ? 'true' : undefined}
+              >
+                <span class="lang-opt-code">{l.toUpperCase()}</span>
+                <span class="lang-opt-name">{LOCALE_NAMES[l]}</span>
+              </a>
+            ))
+          }
+        </div>
+      </details>
     </div>
   </div>
 </header>
@@ -321,6 +346,73 @@ const { locale, path } = Astro.props;
     color: var(--accent-contrast);
   }
 
+  /* Compact language dropdown (phones only; hidden on desktop). Native <details>
+     so it needs no JavaScript — the summary is the trigger, the list the popover. */
+  .lang-menu {
+    display: none;
+    position: relative;
+  }
+  .lang-menu > summary {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.2rem;
+    list-style: none;
+    cursor: pointer;
+    height: 30px;
+    padding: 0 0.45rem;
+    border: 1px solid color-mix(in srgb, var(--gold) 55%, var(--line));
+    border-radius: 999px;
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    color: var(--ink-soft);
+  }
+  .lang-menu > summary::-webkit-details-marker { display: none; }
+  .lang-menu > summary:hover {
+    border-color: var(--gold);
+    color: var(--gold);
+  }
+  .lang-menu > summary .caret {
+    font-size: 0.7em;
+    opacity: 0.7;
+  }
+  .lang-menu[open] > summary .caret { transform: rotate(180deg); }
+  .lang-menu-list {
+    position: absolute;
+    top: calc(100% + 6px);
+    /* On mobile `.tools` is order:-1 (bar's left edge), so open rightward to stay
+       on-screen rather than off the left edge. */
+    left: 0;
+    min-width: 168px;
+    display: flex;
+    flex-direction: column;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    padding: 0.35rem;
+    box-shadow: var(--shadow-card);
+    z-index: 40;
+  }
+  .lang-opt {
+    display: flex;
+    align-items: center;
+    gap: 0.55rem;
+    padding: 0.5rem 0.6rem;
+    border-radius: 8px;
+    color: var(--ink-soft);
+    text-decoration: none;
+  }
+  .lang-opt:hover { background: var(--surface-2); color: var(--gold); }
+  .lang-opt-code {
+    font-size: 0.68rem;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    color: var(--muted);
+    min-width: 1.6rem;
+  }
+  .lang-opt.active .lang-opt-code { color: var(--gold); }
+  .lang-opt.active { color: var(--ink); font-weight: 600; }
+
   /* Mobile */
   .nav-toggle,
   .hamburger {
@@ -398,12 +490,12 @@ const { locale, path } = Astro.props;
       width: 30px;
       height: 30px;
     }
+    /* Swap the three MS/EN/ZH pills for the single-pill dropdown to reclaim width. */
     .lang {
-      gap: 0;
+      display: none;
     }
-    .lang-link {
-      padding: 0.2rem 0.32rem;
-      letter-spacing: 0;
+    .lang-menu {
+      display: inline-block;
     }
     .hamburger {
       padding: 0.4rem 0.1rem;

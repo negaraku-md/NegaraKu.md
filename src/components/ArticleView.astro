@@ -43,6 +43,18 @@ const isMasterFile = d.lang === (d.masterLanguage ?? d.lang);
 const sourceFile = `knowledge/${d.category}/${d.slug}${isMasterFile ? '' : `.${d.lang}`}.md`;
 const { Content, headings } = await render(article);
 
+// Revision-history `change` notes are authored once (English) and stored on every
+// language file, so they render as English on the ms/zh pages. Translate the known
+// canonical phrases at render time (the corpus currently uses a single one).
+const CHANGE_I18N: Record<string, [string, string, string]> = {
+  'Approved and published.': ['Diluluskan dan diterbitkan.', 'Approved and published.', '已批准并发布。'],
+  'Initial publication.': ['Penerbitan awal.', 'Initial publication.', '首次发布。'],
+};
+const changeLabel = (c: string): string => {
+  const tr = CHANGE_I18N[(c ?? '').trim()];
+  return tr ? L(tr[0], tr[1], tr[2]) : c;
+};
+
 // Report an error / Suggest an improvement — prefilled GitHub issues, shown in
 // the sidebar Edit & Source box (site-wide `report` / `suggestion` labels).
 const fbMeta = `\n\n---\nArticle: ${d.title}\nTopic ID: ${d.topicId}\nVersion: ${d.version}\nLanguage: ${locale}\nPath: ${localePath(path, locale)}\n`;
@@ -404,7 +416,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
                         <tr>
                           <td>{r.version}</td>
                           <td>{fmt(r.date)}</td>
-                          <td>{r.change}</td>
+                          <td>{changeLabel(r.change)}</td>
                           <td>{r.contributor ?? r.reviewer ?? '—'}</td>
                         </tr>
                       ))}

@@ -67,6 +67,7 @@ const shares = [
           <a
             class="share-ico"
             data-share
+            data-net={s.key}
             style={`--brand:${BRAND[s.key]}`}
             href={s.href}
             aria-label={s.label}
@@ -113,6 +114,18 @@ const shares = [
   if (nativeBtn && typeof navigator.share === 'function') {
     nativeBtn.hidden = false;
     nativeBtn.addEventListener('click', () => {
+      navigator.share({ title: document.title, url: location.href }).catch(() => {});
+    });
+  }
+
+  // Facebook's web sharer (facebook.com/sharer/sharer.php) is unreliable inside the
+  // iOS/Android Facebook app: the universal link opens the app but composes nothing.
+  // Where a native share sheet exists (i.e. mobile), route Facebook through it so the
+  // user reaches a real Facebook composer; desktop keeps the web sharer link.
+  const fbLink = document.querySelector<HTMLAnchorElement>('.fb [data-net="facebook"]');
+  if (fbLink && typeof navigator.share === 'function') {
+    fbLink.addEventListener('click', (e) => {
+      e.preventDefault();
       navigator.share({ title: document.title, url: location.href }).catch(() => {});
     });
   }
