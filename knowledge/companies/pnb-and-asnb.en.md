@@ -43,13 +43,13 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Tarikh sejarah: penubuhan PNB (17 Mac 1978), YPB (9 Januari 1978), ASNB (22 Mei 1979) dan pelancaran ASB (2 Januari 1990) — sahkan terhadap laman rasmi PNB/ASNB kerana ia tidak terkandung dalam siaran akhbar Disember 2025 yang dipetik."
-  - "Klausa kelayakan Bumiputera ASB — sahkan perkataan tepat, nombor klausa dan halaman dalam Prospektus Induk ASNB semasa. Kelayakan TIDAK terkandung dalam PHS ASB yang dipetik; ia dinyatakan dalam Prospektus/Prospektus Induk."
+  - "Historical dates: the founding of PNB (17 March 1978), YPB (9 January 1978), ASNB (22 May 1979) and the launch of ASB (2 January 1990) — confirm against the official PNB/ASNB websites, as they are not contained in the December 2025 press release cited."
+  - "The ASB Bumiputera eligibility clause — confirm the exact wording, clause number and page in the current ASNB Master Prospectus. The eligibility is NOT contained in the cited ASB PHS; it is stated in the Prospectus / Master Prospectus."
   - "Penanda aras Kadar Deposit Tetap 12 Bulan Maybank FY2025: siaran akhbar menyatakan purata 2.29% manakala PHS menyenaraikan 2.28% — sahkan angka muktamad dan tarikh pengiraan (siaran akhbar merujuk purata sehingga 28 November 2025)."
   - "Rekonsiliasi bilangan unit/akaun: siaran akhbar menyebut ~280 bilion unit merentas ~15 juta akaun (nota korporat) berbanding 13 juta pemegang akaun unik (badan teks); laman About-Us berasingan menyebut angka unit yang lebih tinggi. Sahkan definisi 'akaun' berbanding 'pemegang akaun unik'."
   - "Butiran PHS (kategori dana, peruntukan aset, yuran pengurusan 0.35%, penanda aras, pemegang amanah AmanahRaya Trustees Berhad) — sahkan terhadap PHS ASB bertarikh 25 Mei 2026."
-  - "Struktur dua kelas unit ASB (Kelas A / Kelas B) berkuat kuasa 25 Mei 2026 — sahkan terhadap dokumen rasmi ASNB semasa."
-  - "URL Prospektus Induk ASNB dalam senarai sumber tidak dapat diambil semasa penyediaan draf ini (ralat sijil TLS); sahkan pautan langsung dan dokumen semasa."
+  - "The two-class ASB unit structure (Class A / Class B) effective 25 May 2026 — confirm against the current official ASNB documents."
+  - "The ASNB Master Prospectus URL in the source list could not be retrieved while preparing this draft (TLS certificate error); confirm the direct link and the current document."
 revisions:
   - version: "01.00"
     date: 2026-07-28

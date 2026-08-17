@@ -43,9 +43,9 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Rendering rasmi tajuk kertas kerja dalam bahasa Melayu ('Malaysia: Melangkah Ke Hadapan'): teks asal yang dirujuk berbahasa Inggeris ('Malaysia: The Way Forward'). Sahkan tajuk Melayu rasmi daripada arkib kerajaan."
-  - "Angka purata pertumbuhan tahunan 5.8% (1990-2018) berasal daripada laporan media (The Rakyat Post) yang memetik data Bank Dunia, bukan siaran rasmi Bank Dunia secara langsung; sahkan terhadap data pertumbuhan KDNK rasmi."
-  - "Tarikh dan tempat pelancaran (28 Februari 1991, mesyuarat sulung Majlis Perdagangan Malaysia) disahkan menerusi teks ucapan dan kertas akademik; sahkan sekali lagi terhadap arkib rasmi Jabatan Perdana Menteri jika tersedia."
+  - "The official Malay rendering of the working paper title ('Malaysia: Melangkah Ke Hadapan'): the original text referenced is in English ('Malaysia: The Way Forward'). Confirm the official Malay title from the government archives."
+  - "The average annual growth figure of 5.8% (1990-2018) comes from a media report (The Rakyat Post) citing World Bank data, not directly from an official World Bank release; confirm against official GDP growth data."
+  - "The launch date and place (28 February 1991, the inaugural meeting of the Malaysian Business Council) were verified through the speech text and academic papers; confirm once more against the official Prime Minister's Department archive if available."
 revisions:
   - version: "01.00"
     date: 2026-08-08

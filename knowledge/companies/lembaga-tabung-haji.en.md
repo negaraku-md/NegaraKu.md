@@ -41,9 +41,9 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Pengelasan TH sebagai salah satu 'GLIC' (Government-Linked Investment Companies) dan sebagai 'salah satu pelabur institusi utama' — sahkan terhadap senarai/definisi rasmi GLIC daripada Kementerian Kewangan atau sumber berwibawa lain sebelum diterbitkan."
-  - "Hubungan pegangan strategik dengan Bank Islam Malaysia dan Syarikat Takaful Malaysia Keluarga — sahkan status semasa dan peratusan (jika ada) terhadap penyata kewangan rasmi TH/syarikat berkaitan, dengan mengambil kira penstrukturan semula kumpulan BIMB pada 2023."
-  - "Bahagian tadbir urus dan penstrukturan semula 2018-2019 (topik sensitif) — perlu semakan editor manusia dan rujukan terus kepada teks rasmi laporan RCI serta kenyataan pihak berkaitan."
+  - "Classifying TH as one of the 'GLICs' (Government-Linked Investment Companies) and as 'one of the major institutional investors' — confirm against the official GLIC list/definition from the Ministry of Finance or another authoritative source before publication."
+  - "The strategic shareholding relationship with Bank Islam Malaysia and Syarikat Takaful Malaysia Keluarga — confirm the current status and percentages (if any) against the official financial statements of TH/the related companies, taking into account the 2023 restructuring of the BIMB group."
+  - "The governance and 2018-2019 restructuring section (a sensitive topic) — requires human editor review and direct reference to the official text of the RCI report as well as statements by the relevant parties."
 revisions:
   - version: "01.00"
     date: 2026-07-28

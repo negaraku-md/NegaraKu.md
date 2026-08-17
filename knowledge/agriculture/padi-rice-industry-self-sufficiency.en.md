@@ -46,7 +46,7 @@ reviewed: "2026-08-14"
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Angka hasil padi sehektar khusus mengikut kawasan (cth. Kelantan/KADA) — tiada sumber utama yang disemak memberikan angka per-hektar untuk kawasan tertentu; hanya purata kebangsaan bawah 5 tan sehektar dan lokasi perintis Kedah yang lebih tinggi disahkan."
+  - "Specific paddy yield per hectare by area (e.g. Kelantan/KADA) — none of the primary sources reviewed provides a per-hectare figure for a specific area; only the national average of below 5 tonnes per hectare and the higher figure for the Kedah pilot location are confirmed."
 revisions:
   - version: "01.00"
     date: 2026-08-14

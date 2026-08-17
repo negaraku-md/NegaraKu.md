@@ -50,7 +50,7 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Had nilai wang bidang kuasa mal Mahkamah Rendah Syariah dan Mahkamah Tinggi Syariah yang berbeza antara negeri — sahkan terhadap enakmen pentadbiran agama Islam setiap negeri berkenaan."
+  - "The monetary jurisdiction limits for civil matters in the Lower Syariah Court and the High Syariah Court, which differ between states — confirm against the Islamic religious administration enactment of each relevant state."
 updated: 2026-08-01
 sources:
   - title: "Syariah Courts (Criminal Jurisdiction) Act 1965 (Act 355) — extended to Sabah & Sarawak by Act A730, in force 5 May 1989"

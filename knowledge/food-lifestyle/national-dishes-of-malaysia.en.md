@@ -45,10 +45,10 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Tarikh dan wilayah tepat asal roti canai (dahulu 'abad ke-19 / Tamil Nadu') — kini dilembutkan kerana tiada sumber rasmi yang dirujuk menyokongnya; sahkan dengan sumber sejarah primer sebelum menyatakan tarikh."
-  - "Naratif asal nasi lemak kini disandarkan pada BERNAMA (bungkusan daun pisang oleh peniaga Melayu); pengaitan dengan petani/nelayan telah dibuang kerana tidak tersokong — sahkan jika sumber warisan primer wujud."
+  - "The exact date and region of origin of roti canai (previously '19th century / Tamil Nadu') — now softened because no referenced official source supports it; confirm with a primary historical source before stating a date."
+  - "The origin narrative of nasi lemak is now anchored to BERNAMA (banana-leaf wrapping by Malay traders); the association with farmers/fishermen has been removed as unsupported — confirm if a primary heritage source exists."
   - "Angka '213 makanan warisan menjelang 2018' berkemungkinan telah bertambah menjelang 2024; sahkan jumlah terkini dengan Jabatan Warisan Negara."
-  - "Senarai penuh 'World's 50 Best Foods' CNN 2020 dan status eksklusif asam laksa dalam sepuluh teratas — disahkan daripada teks artikel The Star; sahkan semula terhadap sumber CNN asal jika perlu."
+  - "The full list of CNN's 2020 'World's 50 Best Foods' and asam laksa's exclusive standing in the top ten — confirmed from the text of The Star article; re-confirm against the original CNN source if needed."
 revisions:
   - version: "01.00"
     date: 2026-08-01

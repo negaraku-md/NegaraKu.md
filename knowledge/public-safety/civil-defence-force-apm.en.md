@@ -42,7 +42,7 @@ reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
   - "Rujukan '1958 — pertahanan awam menjadi unsur tetap mengikut Jadual Kesembilan Perlembagaan Persekutuan': ayat ini terdapat pada laman sejarah rasmi APM, namun rujukan perlembagaan ini wajar disemak semula terhadap teks Perlembagaan Persekutuan sebenar oleh penyemak manusia."
-  - "Tarikh dan pewartaan penukaran nama JPAM -> APM (berkuat kuasa 1 September 2016): disahkan melalui laporan media (mStar); sahkan terhadap Warta Kerajaan rasmi jika tersedia."
+  - "The date and gazetting of the name change from JPAM -> APM (in force 1 September 2016): confirmed via a media report (mStar); confirm against the official Government Gazette if available."
   - "Nama penuh dan status semasa program Kor SISPA dan Pasukan Bantuan Pertahanan Awam (CDA)."
 revisions:
   - version: "01.00"

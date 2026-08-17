@@ -49,7 +49,7 @@ revisions:
 
 verificationNeeded:
   - "Nama rasmi badan waris takhta Perak yang diperakukan dalam sumber sebagai 'Dewan Negara (Council of Succession)', serta susunan penuh pangkat waris."
-  - "Butiran pemilihan Yang di-Pertuan Besar Negeri Sembilan oleh Undang Yang Empat hendaklah disahkan terhadap Undang-Undang Tubuh Kerajaan Negeri Sembilan 1959."
+  - "The details of the election of the Yang di-Pertuan Besar of Negeri Sembilan by the Undang Yang Empat should be confirmed against the Undang-Undang Tubuh Kerajaan Negeri Sembilan 1959."
 updated: 2026-08-01
 sources:
   - title: "Federal Constitution (Reprint as at 15 October 2020)"

@@ -46,8 +46,8 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Jadual penuh sumbangan bagi Kategori II dan III (band pendapatan lebih tinggi) di bawah Peraturan Bantuan Guaman (Fi dan Sumbangan) 2023 — hanya band RM50,001-RM55,000 disemak secara terperinci."
-  - "Ambang ujian kemampuan RM50,000 setahun YBGK bagi peringkat perbicaraan dan rayuan — sahkan sama ada masih terpakai dan skopnya."
+  - "The full contribution schedule for Category II and III (the higher income bands) under the Legal Aid (Fees and Contributions) Regulations 2023 — only the RM50,001-RM55,000 band was checked in detail."
+  - "The RM50,000-a-year YBGK means-test threshold for the trial and appeal stages — confirm whether it still applies and its scope."
   - "Skop tepat 'kes jenayah tertentu' yang dikendalikan JBG berbanding YBGK."
   - "Nombor talian bebas tol YBGK (1 800 88 9245) — sahkan masih aktif sebelum diterbitkan."
 

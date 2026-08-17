@@ -44,10 +44,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Kadar komponen terperinci (Caj Kapasiti 4.55, Caj Rangkaian 12.85, Caj Tenaga 27.03/37.03 sen/kWj) kini bersandar pada liputan media sekunder — sahkan terhadap jadual tarif rasmi Suruhanjaya Tenaga atau kalkulator myTNB."
-  - "Kadar Time-of-Use (puncak 28.52 / luar puncak 24.43 sen/kWj) serta tetingkap waktu puncak dan luar puncak — sahkan terhadap jadual ToU rasmi ST/TNB."
+  - "The detailed component rates (Capacity Charge 4.55, Network Charge 12.85, Energy Charge 27.03/37.03 sen/kWh) currently rely on secondary media coverage — confirm against the official Energy Commission tariff schedule or the myTNB calculator."
+  - "The Time-of-Use rates (peak 28.52 / off-peak 24.43 sen/kWh) and the peak and off-peak time windows — confirm against the official ST/TNB ToU schedule."
   - "AFA berubah setiap bulan; -1.45 sen/kWj hanya sah untuk Ogos 2025 — pengguna perlu menyemak nilai bulan semasa yang diumumkan Suruhanjaya Tenaga."
-  - "Rebat Insentif Kecekapan Tenaga (EEI) sehingga 25 sen/kWj bagi penggunaan ≤1,000 kWj dan pengecualian Caj Runcit RM10 bagi ≤600 kWj — sahkan syarat dan kadar terhadap dokumen rasmi ST."
+  - "The Energy Efficiency Incentive (EEI) rebate of up to 25 sen/kWh for consumption ≤1,000 kWh and the RM10 Retail Charge exemption for ≤600 kWh — confirm the conditions and rates against official ST documents."
   - "Had turun naik AFA ±3 sen/kWj sebulan — sahkan terhadap dokumen kawal selia RP4 rasmi."
 
 updated: 2026-08-01

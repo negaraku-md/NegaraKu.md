@@ -44,8 +44,8 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Sama ada terdapat tempoh pemprosesan rasmi bagi penukaran syarikat awam kepada sendirian (s.41(1)) — garis panduan SSM yang dirujuk tidak menyatakan sebarang tempoh untuk arah ini."
-  - "Sama ada syarikat boleh memohon menukar semula status secara sukarela di bawah seksyen 41 (selain sekatan s.42(6)), dan syarat yang berkenaan — tidak dinyatakan dalam sumber yang dirujuk."
+  - "Whether there is an official processing period for the conversion of a public company to a private one (s.41(1)) — the referenced SSM guidelines do not state any period for this direction."
+  - "Whether a company may voluntarily apply to convert its status back under section 41 (apart from the s.42(6) restriction), and the applicable conditions — not stated in the sources referenced."
   - "Sahkan fi pemfailan RM500 masih terpakai mengikut jadual fi SSM terkini."
 
 updated: 2026-08-07

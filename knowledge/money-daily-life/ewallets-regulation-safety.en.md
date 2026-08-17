@@ -45,7 +45,7 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Ambang modal minimum (min. capital funds) yang tepat di bawah s.12(1) FSA / Appendix 3 dokumen dasar — sengaja tidak dinyatakan; sahkan angka sebenar sebelum menambah semula."
+  - "The exact minimum capital funds threshold under s.12(1) FSA / Appendix 3 of the policy document — deliberately not stated; confirm the actual figure before adding it back."
   - "Status pendaftaran semasa keempat-empat pengeluar yang dinamakan (senarai rasmi BNM berubah dari semasa ke semasa; terdapat lebih 40 pengeluar bukan bank keseluruhannya)."
   - "Sama ada penambahan dana dalam 'satu (1) hari bekerja' (perenggan 16.4) adalah kewajipan mutlak atau garis panduan/anjuran."
   - "Angka bayaran balik 14 hari / 30 hari (perenggan 20.10–20.13) dan takrifan 'kes rumit'."

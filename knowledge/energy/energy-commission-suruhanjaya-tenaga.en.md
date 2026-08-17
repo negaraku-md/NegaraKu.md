@@ -41,9 +41,9 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Mekanisme permulaan kuat kuasa Akta 861: portal perundangan AGC menunjukkan notifikasi permulaan kuat kuasa P.U. (B) 521/2024 (kuat kuasa 24 November 2024), manakala penguatkuasaan dilaporkan bermula 1 Januari 2025 — sahkan tarikh permulaan kuat kuasa penuh dan bila tepatnya ST menjadi agensi penguatkuasa."
-  - "Ambang RM2.4 juta bil elektrik tahunan sebagai padanan kepada 21,600 GJ setahun ialah anggaran daripada laporan akhbar (The Star/BERNAMA); sahkan terhadap peraturan subsidiari Akta 861."
-  - "Struktur organisasi baharu ST yang dilaporkan berkuat kuasa 1 Januari 2026 — sahkan butiran dan kesannya kepada mandat."
+  - "The commencement mechanism of Act 861: the AGC legislation portal shows a commencement notification P.U. (B) 521/2024 (in force 24 November 2024), while enforcement is reported to begin on 1 January 2025 — confirm the full commencement date and exactly when ST becomes the enforcement agency."
+  - "The RM2.4 million annual electricity bill threshold as an equivalent of 21,600 GJ per year is an estimate from newspaper reports (The Star/BERNAMA); confirm against the subsidiary regulations of Act 861."
+  - "The new ST organisational structure reported to take effect on 1 January 2026 — confirm the details and its impact on the mandate."
 revisions:
   - version: "01.00"
     date: 2026-08-01

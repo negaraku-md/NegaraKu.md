@@ -49,7 +49,7 @@ verificationNeeded:
   - "Tarikh cuti tambahan Hari Raya Aidilfitri 2026 untuk sekolah (KPM melaporkan cuti tambahan sekitar 19–20 Mac) — sahkan bilangan hari tepat setiap kumpulan terhadap Surat Siaran KPM Bil. 3 Tahun 2025."
   - "Cuti umum Aidilfitri khusus negeri 2026 (cth. hari ketiga Melaka, hari tambahan Johor 24 Mac) — sahkan senarai gazet negeri masing-masing."
   - "Bilangan hari cuti akhir tahun (27–28 hari) — semak kiraan rangkuman terhadap teks rasmi Surat Siaran KPM."
-  - "Semua tarikh jadual 2026 diambil daripada laman rasmi KPM dan sumber yang mengulang semula edaran; PDF rasmi tidak dapat dihurai secara automatik, jadi baik disemak mata terhadap PDF asal."
+  - "All 2026 schedule dates are taken from the official KPM website and sources that re-report the circular; the official PDF could not be parsed automatically, so it is best to eyeball-check against the original PDF."
 
 updated: 2026-08-08
 sources:

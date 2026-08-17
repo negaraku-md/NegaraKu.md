@@ -56,11 +56,11 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Tarikh/tahun tepat pelancaran program 'Digital Malaysia' (biasanya disebut 2012) tidak dapat disahkan daripada sumber rasmi yang berjaya dibuka; ia dinyatakan secara deskriptif sebagai program awal 2010-an. Sahkan tahun tepat terhadap dokumen rasmi MDEC/kerajaan sebelum menyatakan tarikh keras."
-  - "Angka asal sasaran NeSR 2016 (contohnya menggandakan kadar pertumbuhan e-dagang dan sasaran sumbangan KDNK) tidak dimasukkan kerana teks sumber PDF tidak dapat dibaca; tambah semula hanya dengan angka tepat daripada sumber rasmi yang dibuka."
-  - "Tarikh tepat pelancaran Dasar Revolusi Perindustrian Keempat Negara (N4IRP) — sering disebut 1 Julai 2021 — dan sumber rasminya (contohnya Unit Perancang Ekonomi/EPU) tidak dapat disahkan daripada halaman yang berjaya dibuka; tarikh keras telah dikeluarkan sementara menanti pengesahan. Sahkan dan tambah petikan sebelum menyatakan semula tarikh."
-  - "Label tempoh 'NeSR pertama 2016-2020' tidak disahkan secara eksplisit oleh halaman MDEC yang dibuka (halaman itu mengesahkan NeSR 2.0 2021-2025 dan data kumulatif PKS dari 2016, tetapi tidak menamakan fasa pertama '2016-2020'). Sahkan label fasa pertama terhadap dokumen roadmap MDEC sebelum menyatakannya sebagai tarikh keras."
-  - "Nama dan skop 'Strategi AI Kebangsaan 2026-2030' hanya disokong oleh sumber sekunder (Tech For Good Institute); halaman rasmi pelancaran NAIO (mydigital.gov.my) tidak menamakannya. Sahkan terhadap dokumen strategi rasmi sebelum menyatakannya sebagai fakta tanpa atribusi."
+  - "The exact launch date/year of the 'Digital Malaysia' programme (usually cited as 2012) could not be verified from the official sources successfully accessed; it is described descriptively as an early-2010s programme. Confirm the exact year against official MDEC/government documents before stating a hard date."
+  - "The original figures of the 2016 NeSR targets (e.g. doubling the e-commerce growth rate and the GDP contribution target) were not included because the source PDF text could not be read; re-add them only with exact figures from an opened official source."
+  - "The exact launch date of the National Fourth Industrial Revolution Policy (N4IRP) — often cited as 1 July 2021 — and its official source (for example the Economic Planning Unit/EPU) could not be verified from the pages that opened successfully; the hard date has been removed pending confirmation. Confirm and add a citation before restating the date."
+  - "The period label 'first NeSR 2016-2020' is not explicitly confirmed by the MDEC page that was opened (that page confirms NeSR 2.0 2021-2025 and cumulative SME data from 2016, but does not name the first phase '2016-2020'). Confirm the first-phase label against the MDEC roadmap document before stating it as a hard date."
+  - "The name and scope of the 'National AI Strategy 2026-2030' are only supported by a secondary source (Tech For Good Institute); the official NAIO launch page (mydigital.gov.my) does not name it. Confirm against the official strategy document before stating it as fact without attribution."
 
 updated: 2026-08-01
 sources:

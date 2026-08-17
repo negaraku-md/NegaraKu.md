@@ -53,11 +53,11 @@ revisions:
 updated: 2026-08-01
 
 verificationNeeded:
-  - "Angka SSR daging ayam yang tepat bagi 2022 (draf hanya menyatakan 'di bawah 100%'; sahkan peratusan sebenar dalam jadual DOSM SUA 2018-2022)."
-  - "Kaitan lonjakan harga bijirin global 2022 dengan perang Rusia–Ukraine dinyatakan sebagai konteks umum, bukan daripada sumber yang dipetik — sahkan sebelum menegaskannya sebagai punca."
-  - "Kebergantungan Singapura pada ayam Malaysia dinyatakan sebagai pengetahuan umum, bukan daripada sumber yang dipetik — sahkan dengan sumber rasmi jika hendak dikekalkan."
-  - "Penerangan umum peranan institusi JPV (pengawasan, pensijilan, kawalan pergerakan) tidak dikaitkan dengan satu sumber tunggal — sahkan dengan laman rasmi JPV/DVS."
-  - "Butiran wabak ASF Pulau Pinang (dilapor 9 Julai 2025; 578 dimusnahkan, 124 mati) dipetik daripada CodeBlue yang memetik jawapan parlimen Menteri — sahkan dengan pengumuman rasmi DVS/JPV."
+  - "The exact chicken-meat SSR figure for 2022 (the draft only states 'below 100%'; confirm the actual percentage in the DOSM SUA 2018-2022 table)."
+  - "The link between the 2022 global grain price surge and the Russia–Ukraine war is stated as general context, not drawn from the cited source — confirm before asserting it as the cause."
+  - "Singapore's dependence on Malaysian chicken is stated as common knowledge, not from a cited source — confirm with an official source if it is to be retained."
+  - "The general description of JPV's institutional role (surveillance, certification, movement control) is not tied to a single source — confirm with the official JPV/DVS website."
+  - "Details of the Penang ASF outbreak (reported 9 July 2025; 578 culled, 124 dead) are cited from CodeBlue, which quoted the Minister's parliamentary reply — confirm with an official DVS/JPV announcement."
 
 sources:
   - title: "Supply and Utilization Accounts Selected Agricultural Commodities, Malaysia 2018-2022"

@@ -40,11 +40,11 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Struktur dalaman kementerian (bilangan sektor dan bahagian): laman rasmi digital.gov.my tidak boleh diakses buat masa penyusunan, jadi angka struktur telah dikeluarkan sehingga sumber rasmi disahkan."
+  - "The ministry's internal structure (the number of sectors and divisions): the official digital.gov.my website was not accessible at the time of compilation, so the structural figures were removed until an official source is confirmed."
   - "Rangka tiga teras (ekonomi digital, masyarakat digital, kerajaan digital) — sahkan terhadap penyata dasar rasmi kementerian."
-  - "Penempatan MyDIGITAL Corporation di bawah Kementerian Digital — tidak disahkan oleh sumber penempatan yang dipetik; dikeluarkan sehingga sumber utama diperoleh."
+  - "The placement of MyDIGITAL Corporation under the Ministry of Digital — not confirmed by the placement source cited; removed until a primary source is obtained."
   - "Sejarah organisasi terperinci CyberSecurity Malaysia (asal-usul MyCERT, pemindahan portfolio) — dikeluarkan sehingga sumber primer diperoleh."
-  - "Angka liputan 5G DNB (82.1% / 80.2%) dan tarikh rujukan tepat — sahkan terhadap laporan rasmi MCMC/DNB."
+  - "The DNB 5G coverage figures (82.1% / 80.2%) and the exact reference date — confirm against official MCMC/DNB reports."
 revisions:
   - version: "01.00"
     date: 2026-08-01

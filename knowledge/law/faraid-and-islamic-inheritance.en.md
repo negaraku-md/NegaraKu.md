@@ -49,9 +49,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Sumber utama bagi kaedah harta diserahkan kepada Baitulmal apabila tiada waris (rujukan berkanun atau enakmen negeri yang khusus)."
-  - "Tarikh sebenar had pusaka kecil RM5 juta mula berkuat kuasa melalui perintah Menteri (Skrine Mac 2022 mencatatkan pindaan belum berkuat kuasa pada tarikh itu; MyGov kini menyenaraikan RM5 juta sebagai had operasi)."
-  - "Perincian penuh takrif 'harta' yang diperluas di bawah Akta Pusaka Kecil (Pembahagian) 1955 selepas pindaan 2022."
+  - "A primary source for the rule that property passes to the Baitulmal when there is no heir (a specific statutory reference or state enactment)."
+  - "The actual date the RM5 million small estates limit came into force via a ministerial order (Skrine, March 2022, noted the amendment had not yet come into force at that date; MyGov now lists RM5 million as the operating limit)."
+  - "The full detail of the expanded definition of 'property' under the Small Estates (Distribution) Act 1955 following the 2022 amendment."
 
 updated: 2026-08-07
 sources:

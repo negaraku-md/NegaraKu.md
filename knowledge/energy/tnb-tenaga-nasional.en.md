@@ -41,11 +41,11 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Tahun penyenaraian TNB di Bursa Malaysia (dilaporkan secara meluas sebagai 1992, IPO KLSE) — sahkan dengan rekod penyenaraian rasmi Bursa Malaysia; tidak dapat disahkan daripada mana-mana sumber utama yang boleh dicapai semasa pruf ini."
-  - "Pegangan TNB dalam Sabah Electricity (82.75%) dan pelan pemindahan penuh kepada Kerajaan Negeri Sabah menjelang 2030 — sahkan dengan laporan tahunan TNB atau pengumuman rasmi terkini kerana struktur ini berubah."
-  - "Portfolio tenaga boleh baharu 3.3 GW (kasar) termasuk 2.5 GW hidro besar — sahkan angka terkini dengan laporan tahunan TNB."
+  - "The year of TNB's listing on Bursa Malaysia (widely reported as 1992, a KLSE IPO) — confirm with the official Bursa Malaysia listing records; could not be verified from any accessible primary source during this proofing."
+  - "TNB's holding in Sabah Electricity (82.75%) and the plan for a full transfer to the Sabah State Government by 2030 — confirm against TNB's annual report or the latest official announcement, as this structure is changing."
+  - "The renewable energy portfolio of 3.3 GW (gross) including 2.5 GW of large hydro — confirm the latest figures against TNB's annual report."
   - "Bahagian Runcit ditubuhkan pada 2018 — sahkan tarikh penubuhan rasmi."
-  - "Sambungan silang grid ke Thailand dan Singapura — sahkan status dan kapasiti terkini."
+  - "The cross-border grid interconnections to Thailand and Singapore — confirm the latest status and capacity."
   - "Nombor pendaftaran syarikat (199001009294 / 200866-W) — sahkan dengan SSM/Bursa."
 revisions:
   - version: "01.00"

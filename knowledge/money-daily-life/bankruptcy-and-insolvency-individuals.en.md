@@ -47,10 +47,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Titik permulaan tempoh lima tahun bagi sijil pelepasan KPI (s.33A/33B): sumber Thomas Philip menyebut 'daripada tarikh perintah kebankrapan luput', manakala teks Akta 360 boleh dibaca sebagai lima tahun dari tarikh perintah dibuat — sahkan terhadap teks Akta rasmi."
+  - "The starting point of the five-year period for the KPI discharge certificate (s.33A/33B): the Thomas Philip source states 'from the date the bankruptcy order lapses', while the text of Act 360 can be read as five years from the date the order was made — confirm against the official Act text."
   - "Sifat 'sukarela/pilihan' penyertaan DMP AKPK — tiada pernyataan rasmi eksplisit; disifatkan berdasarkan mekanisme opt-in dan kontras dengan perintah mahkamah."
   - "Angka 'lebih 1 juta individu' dikaunseling AKPK — sahkan angka terkini terhadap penerbitan rasmi AKPK/BNM."
-  - "Nombor seksyen dan kategori terperinci s.33C — sahkan terhadap teks rasmi Akta 360."
+  - "The section number and detailed categories of s.33C — confirm against the official text of Act 360."
   - "Angka ~14,000 kes hutang bawah RM50,000 dilepaskan setakat Julai 2023 — sahkan terhadap penyata rasmi MDI."
 
 updated: 2026-08-08

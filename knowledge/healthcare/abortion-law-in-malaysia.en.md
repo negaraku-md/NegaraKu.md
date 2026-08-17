@@ -48,10 +48,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Sejarah pindaan: sumber Thomas Philip menyebut pindaan 1971 (menyelamatkan nyawa) dan pindaan 1989 (memperluaskan alasan kesihatan mental/fizikal), tetapi laporan lain mengaitkan klausa pengecualian dengan Akta Pindaan Kanun Keseksaan 1989 (Akta 727) sahaja, sementara '1971' merujuk kepada Akta Perubatan. Sahkan susunan dan tahun sebenar terhadap teks statut."
-  - "Takrif dan syarat Garis Panduan Penamatan Kehamilan KKM 2012 (had 22 minggu / 500 gram, dua pengamal, seorang pakar): sahkan terhadap dokumen PDF rasmi KKM."
+  - "Amendment history: the Thomas Philip source mentions a 1971 amendment (to save life) and a 1989 amendment (broadening the mental/physical health grounds), but other reports associate the exception clause with the Penal Code (Amendment) Act 1989 (Act 727) only, while '1971' refers to the Medical Act. Confirm the actual sequence and years against the statute text."
+  - "The definitions and conditions of the KKM 2012 Termination of Pregnancy Guidelines (22-week / 500-gram limit, two practitioners, one specialist): confirm against the official KKM PDF document."
   - "Faktor ketidakseragaman akses (bantahan hati nurani, perbezaan fasiliti awam/swasta): dinyatakan secara umum tanpa sumber langsung — perlu pengesahan atau sumber tambahan sebelum diterbitkan."
-  - "Pandangan Jawatankuasa Fatwa Kebangsaan 2002 (tempoh 120 hari): sahkan kandungan dan tarikh terhadap sumber rasmi selain laporan media."
+  - "The 2002 National Fatwa Committee view (the 120-day period): confirm the content and date against an official source beyond media reports."
 updated: 2026-08-01
 sources:
   - title: "Laws of Malaysia, Act 574, Penal Code (official reprint)"

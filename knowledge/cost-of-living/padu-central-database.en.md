@@ -41,7 +41,7 @@ reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
   - "Sama ada angka pendaftaran 10.85 juta (setakat 31 Mac 2024) telah berubah selepas fasa kemas kini seterusnya."
-  - "Sama ada butiran kos perkakasan RM2 juta / tempoh pembinaan tujuh bulan patut dimasukkan semula dengan sumber utama kerajaan jika relevan (dikeluarkan dalam pass ini kerana bersifat promosi dan longgar kaitannya)."
+  - "Whether the RM2 million hardware cost / seven-month build period details should be reinstated with a primary government source if relevant (removed in this pass as promotional and loosely connected)."
   - "Pengelasan sensitivity — topik melibatkan penyasaran kelayakan subsidi melalui pangkalan data kebangsaan; sahkan sama ada 'none' kekal sesuai."
 revisions:
   - version: "01.00"

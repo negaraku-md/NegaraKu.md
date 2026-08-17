@@ -46,10 +46,10 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Senarai penuh jenis sukan yang diliputi Program Podium telah dibuang daripada draf ini kerana tiada sumber rasmi yang menyenaraikan sukan tersebut ditemui; sahkan senarai rasmi daripada ISN atau MSN sebelum ia dimasukkan semula."
-  - "Sasaran Program Podium yang disenaraikan (Pingat Emas Tokyo 2020, 10 Teratas Gold Coast 2018 dan Jakarta 2018, dsb.) ialah sasaran era pelancaran seperti yang tersiar di laman ISN; sahkan sama ada ISN telah menerbitkan sasaran kitaran semasa yang dikemas kini."
-  - "Bilangan atlet (393 — 307 biasa dan 86 para) serta terma kontrak dua tahun adalah angka setakat Januari 2024; sahkan angka terkini."
-  - "Butiran dana RM240 juta / RM60 juta setahun / 41 jenis sukan bagi kitaran 2022; sahkan status pelaksanaan dan sama ada kitaran pembiayaan baharu telah diumumkan sejak itu."
+  - "The full list of sport types covered by the Podium Programme was removed from this draft because no official source listing those sports was found; confirm the official list from ISN or MSN before it is reinstated."
+  - "The listed Podium Programme targets (Gold Medal at Tokyo 2020, Top 10 at Gold Coast 2018 and Jakarta 2018, etc.) are launch-era targets as published on the ISN website; confirm whether ISN has published updated targets for the current cycle."
+  - "The number of athletes (393 — 307 regular and 86 para) and the two-year contract terms are figures as at January 2024; confirm the latest figures."
+  - "The funding details of RM240 million / RM60 million a year / 41 sports for the 2022 cycle; confirm the implementation status and whether a new funding cycle has been announced since."
 revisions:
   - version: "01.00"
     date: 2026-08-01

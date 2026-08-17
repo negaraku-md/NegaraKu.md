@@ -44,9 +44,9 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Kadar pertumbuhan 2023 disemak semula: keluaran Ekonomi Digital 2025 (rujukan 2024) melaporkan pertumbuhan 2023 sebagai 3.5%, sedangkan keluaran Ekonomi Digital 2024 (rujukan 2023) melaporkannya sebagai 3.9%. Draf ini menggunakan 3.5% untuk konsisten dengan keluaran yang sama sebagai angka 5.1% (2024). Sahkan angka mana yang hendak dipaparkan."
-  - "Baris sumbangan 2022 (22.9% / RM411.6 bilion) telah DIBUANG kerana ia tidak dibawa sebagai pembanding dalam mana-mana keluaran DOSM yang dipetik, dan keluaran rujukan-tahun-2022 (Ekonomi Digital 2023) tidak dapat dicapai untuk pengesahan (ralat pangkalan data laman DOSM). Jika garis tren tiga tahun dikehendaki, petik keluaran Ekonomi Digital 2023 secara langsung sebaik sahaja ia boleh dicapai."
-  - "Dakwaan kualitatif tentang jalur lebar mudah alih vs tetap dan kaitannya dengan pendapatan negeri telah DIBUANG kerana tiada sumber MCMC dalam sources[]. Jika hendak dikembalikan, tambah petikan MCMC (mis. laporan penembusan jalur lebar SKMM) yang telah dicapai."
+  - "The 2023 growth rate was revised: the Digital Economy 2025 release (2024 reference) reports 2023 growth as 3.5%, whereas the Digital Economy 2024 release (2023 reference) reports it as 3.9%. This draft uses 3.5% for consistency with the same release as the 5.1% figure (2024). Confirm which figure should be displayed."
+  - "The 2022 contribution row (22.9% / RM411.6 billion) has been REMOVED because it is not carried as a comparator in any of the DOSM releases cited, and the 2022-reference-year release (Digital Economy 2023) could not be accessed for verification (a database error on the DOSM site). If a three-year trend line is wanted, cite the Digital Economy 2023 release directly once it becomes accessible."
+  - "The qualitative claim about mobile vs fixed broadband and its link to state income has been REMOVED because there was no MCMC source in sources[]. To reinstate it, add a retrieved MCMC citation (e.g. an SKMM broadband penetration report)."
 revisions:
   - version: "01.00"
     date: 2026-08-01

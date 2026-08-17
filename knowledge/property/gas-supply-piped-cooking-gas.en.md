@@ -48,9 +48,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Yuran sebenar dan terkini untuk membuka akaun gas paip baharu Gas Malaysia (yuran pentadbiran, deposit, yuran meter) — jumlah dilaporkan sekitar RM350 oleh pemohon; sahkan terus dengan Gas Malaysia."
+  - "The actual and current fees to open a new Gas Malaysia piped gas account (administration fee, deposit, meter fee) — the total is reported to be around RM350 by applicants; confirm directly with Gas Malaysia."
   - "Harga siling semasa tong komersial 14kg (dilaporkan sekitar RM70, dan meningkat kira-kira RM14 selepas pelarasan harga komersial 2026)."
-  - "Nilai subsidi setong RM43.40 dan jumlah beban subsidi LPG RM3.4 bilion (2024) — berasal daripada laporan akhbar; sahkan terhadap angka rasmi KPDN/Kementerian Kewangan."
+  - "The per-cylinder subsidy value of RM43.40 and the total LPG subsidy burden of RM3.4 billion (2024) — derived from newspaper reports; confirm against official KPDN / Ministry of Finance figures."
   - "Harga siling semasa RM26.60 untuk tong 14kg isi rumah — sahkan dengan KPDN kerana harga disemak dari semasa ke semasa."
   - "Status penguatkuasaan Ops Gasak selepas 31 Oktober 2025 dan sama ada sekatan tong isi rumah kepada isi rumah sahaja kekal secara tetap."
 

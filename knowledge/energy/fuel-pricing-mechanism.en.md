@@ -38,10 +38,10 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Hari pengumuman sebelum 3 Mac 2021 (Jumaat atau Khamis) — sumber sekunder (paultan.org) menyebut peralihan kepada Rabu tetapi tidak jelas hari asal; sahkan dengan siaran rasmi jika perlu."
-  - "Tarikh mula tepat 'April 2017' bagi mekanisme mingguan APM — kini bersandar pada nota latar katalog OpenDOSM; sahkan dengan sumber dasar rasmi."
+  - "The announcement day before 3 March 2021 (Friday or Thursday) — a secondary source (paultan.org) mentions the switch to Wednesday but is unclear on the original day; confirm with an official release if needed."
+  - "The exact start date of 'April 2017' for the weekly APM mechanism — currently relying on the OpenDOSM catalogue background note; confirm with an official policy source."
   - "Harga RON97 minggu sebelumnya (RM3.24) diperoleh secara aritmetik daripada pengurangan 8 sen yang dinyatakan dalam siaran MOF, bukan tersurat dalam siaran itu."
-  - "Sahkan sama ada kadar BUDI95 RM1.99 dan harga pasaran am RON95 masih terkini pada tarikh penerbitan."
+  - "Confirm whether the BUDI95 rate of RM1.99 and the general market RON95 price are still current as at the publication date."
 revisions:
   - version: "01.00"
     date: 2026-08-01

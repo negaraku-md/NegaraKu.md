@@ -44,10 +44,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Sitasi rasmi P.U.(A) gazet dan tajuk Melayu yang tepat — sumber rasmi (MKN) menggunakan 'Kaedah-Kaedah Lalu Lintas Jalan', manakala sebahagian akhbar menyebut 'Peraturan-Peraturan'; sahkan tajuk gazet yang betul."
-  - "Percanggahan hukuman: hukuman berkanun di bawah Seksyen 54 APJ 1987 (denda RM1,000-RM5,000, penjara sehingga 12 bulan) berbanding kenyataan JPJ Melaka dalam FMT 2025 ('denda sehingga RM1,000 atau penjara sehingga 3 bulan') dan laporan kompaun RM300 — sahkan hukuman/kompaun sebenar yang dikenakan dalam amalan."
+  - "The official P.U.(A) gazette citation and the exact Malay title — the official source (MKN) uses 'Kaedah-Kaedah Lalu Lintas Jalan', while some newspapers say 'Peraturan-Peraturan'; confirm the correct gazette title."
+  - "Penalty discrepancy: the statutory penalty under Section 54 APJ 1987 (fine of RM1,000-RM5,000, imprisonment up to 12 months) versus the JPJ Melaka statement in FMT 2025 ('fine up to RM1,000 or imprisonment up to 3 months') and the reported RM300 compound — confirm the penalty/compound actually imposed in practice."
   - "Sama ada 'bahu jalan' termasuk secara nyata dalam skop teks gazet — sumber tersedia hanya menyebut 'mana-mana bahagian jalan termasuk lintasan pejalan kaki'."
-  - "Keperluan umur dan topi keledar (helmet) untuk basikal elektik MS2514 — tidak ditemui dalam mana-mana sumber yang diperiksa."
+  - "The age and helmet requirements for MS2514 electric bicycles — not found in any of the sources examined."
   - "Sama ada projek sandbox mikromobiliti (GPPSM) di bawah kelulusan Kementerian Pengangkutan mengubah kedudukan penggunaan di jalan raya bagi kawasan tertentu."
 
 updated: 2026-08-08

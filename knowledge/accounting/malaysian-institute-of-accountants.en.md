@@ -44,8 +44,8 @@ reviewed: 2026-08-14
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Sama ada terdapat standard perancangan cukai MIA dengan tarikh berkuat kuasa tertentu pada 2025 (angka '15 Julai 2025' dalam draf asal dibuang kerana tidak dapat disahkan) — sahkan terhadap pekeliling By-Laws MIA."
-  - "Bilangan/volum kes tatatertib MIA (angka '74 kes 2023' dalam draf asal dibuang) — sahkan terhadap MIA Annual Report 2023 jika angka diperlukan semula."
+  - "Whether there is an MIA tax-planning standard with a specific effective date in 2025 (the figure '15 July 2025' in the original draft was removed because it could not be verified) — confirm against the MIA By-Laws circular."
+  - "MIA disciplinary case count/volume (the '74 cases 2023' figure in the original draft was removed) — confirm against the MIA Annual Report 2023 if the figure is needed again."
 revisions:
   - version: "01.00"
     date: 2026-08-14

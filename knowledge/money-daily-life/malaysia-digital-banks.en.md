@@ -45,10 +45,10 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Tarikh GXBank dibuka kepada orang ramai — beta terhad kepada 20,000 pengguna pada 14 Nov 2023, pelancaran rasmi umum sekitar 30 Nov 2023; sahkan tarikh 'orang ramai penuh' yang hendak digunakan."
+  - "The date GXBank opened to the public — a limited beta of 20,000 users on 14 Nov 2023, official public launch around 30 Nov 2023; confirm the 'full public' date to be used."
   - "Tarikh dan status pelancaran Boost Bank kepada orang ramai (dilaporkan beta Jan 2024, umum Jun 2024) — belum ada sumber utama dalam sources[]."
   - "Tarikh dan status operasi penuh KAF Digital Bank (dinyatakan '2025') — perlu pengesahan sumber rasmi."
-  - "Kadar keuntungan/faedah (AEON 3.88%, Ryt sehingga 4% harian) adalah kadar pelancaran yang berubah dari semasa ke semasa — sahkan kadar semasa sebelum diterbitkan."
+  - "The profit/interest rates (AEON 3.88%, Ryt up to 4% daily) are launch rates that change from time to time — confirm the current rates before publishing."
   - "Sahkan struktur konsortium/pemilik setiap bank kekal tepat pada tarikh terbitan."
 revisions:
   - version: "01.00"

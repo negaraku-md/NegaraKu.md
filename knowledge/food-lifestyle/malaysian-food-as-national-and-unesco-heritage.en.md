@@ -41,9 +41,9 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Pautan muat turun Akta 645 di portal MOTAC perlu disemak sama ada ia menghala ke teks Akta sebenar (fail PDF) atau hanya halaman rangka kosong."
-  - "Angka 213 makanan warisan ialah kedudukan setakat 2018; pengisytiharan berperingkat diteruskan (cth. kelompok 2024), jadi jumlah kumulatif terkini mungkin lebih tinggi — sahkan angka semasa dengan Jabatan Warisan Negara."
-  - "Ejaan/nama tepat sebahagian daripada 10 hidangan yang diwartakan (cth. 'Mi kolok' berbanding 'kolok mee') perlu disemak dengan teks Warta Kerajaan."
+  - "The download link for Act 645 on the MOTAC portal needs to be checked to see whether it leads to the actual text of the Act (a PDF file) or just an empty skeleton page."
+  - "The figure of 213 heritage foods is the standing as of 2018; phased declarations have continued (e.g. the 2024 batch), so the latest cumulative total may be higher — confirm the current figure with the Department of National Heritage."
+  - "The exact spelling/name of some of the 10 gazetted dishes (e.g. 'Mi kolok' versus 'kolok mee') needs to be checked against the Government Gazette text."
 revisions:
   - version: "01.00"
     date: 2026-08-01

@@ -50,7 +50,7 @@ verificationNeeded:
   - "Nama rasmi penuh suruhanjaya halal yang dicadangkan di bawah RMK-13 (sumber semasa hanya menyebut 'halal commission', bukan nama rasmi)."
   - "Status cadangan penggabungan atau penyelarasan HDC dengan MATRADE — dikeluarkan buat sementara kerana tiada sumber rasmi diperoleh."
   - "Anggaran saiz pasaran halal global di bawah HIMP 2030 (angka RM5 trilion dalam draf asal dikeluarkan sementara menunggu pengesahan sumber rasmi)."
-  - "Sasaran GDP 11% dan eksport RM80 bilion di bawah RMK-13 — sahkan terhadap dokumen RMK-13 rasmi apabila diterbitkan sepenuhnya."
+  - "The GDP target of 11% and exports of RM80 billion under RMK-13 — confirm against the official RMK-13 document once it is fully published."
 
 updated: 2026-08-08
 sources:

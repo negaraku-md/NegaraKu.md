@@ -50,9 +50,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Kedudukan tepat, jumlah mata (draf asal menyebut ~2,127) dan tarikh 'setakat' ranking hoki lelaki FIH Malaysia: halaman FIH yang dipetik adalah sahih dan berwibawa tetapi kandungannya terpotong ketika diambil, jadi angka mata dan tarikh tepat tidak dapat disahkan; kedudukan sekitar ke-13 munasabah tetapi perlu disahkan terhadap halaman FIH terkini."
-  - "Gelaran ordinal 'Yang di-Pertuan Agong ke-9': benar dari segi fakta tetapi ordinal '(ke-9)' dikeluarkan kerana sumber Persekutuan Hoki Asia yang dipetik hanya mengesahkan baginda menjadi Raja Malaysia dari 1989 hingga 1994, bukan ordinal ke-9; boleh dimasukkan semula jika sumber rasmi ditambah."
-  - "Butiran keputusan Piala Sultan Azlan Shah 2025 (Belgium juara, tewaskan India 1–0, Stockbroekx, New Zealand tempat ketiga, 92 gol/15 perlawanan) bergantung terutamanya pada satu sumber (thesportscol.com); sumber Hockey India yang dipetik hanya mengesahkan lokasi Ipoh, bukan keputusan akhir. Pengesahan silang dengan sumber rasmi FIH/MHC digalakkan."
+  - "The exact ranking, total points (the original draft mentioned ~2,127) and the 'as of' date of Malaysia's FIH men's hockey ranking: the cited FIH page is genuine and authoritative but its content was truncated when retrieved, so the points figure and exact date could not be confirmed; a ranking around 13th is plausible but should be confirmed against the latest FIH page."
+  - "The ordinal title '9th Yang di-Pertuan Agong': factually true but the ordinal '(9th)' was removed because the cited Asian Hockey Federation source only confirms that he was King of Malaysia from 1989 to 1994, not the 9th ordinal; it can be reinstated if an official source is added."
+  - "The details of the 2025 Sultan Azlan Shah Cup result (Belgium champions, beating India 1–0, Stockbroekx, New Zealand third, 92 goals/15 matches) rely mainly on a single source (thesportscol.com); the cited Hockey India source only confirms the Ipoh location, not the final result. Cross-confirmation with the official FIH/MHC sources is encouraged."
 
 updated: 2026-08-01
 sources:

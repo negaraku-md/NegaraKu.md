@@ -45,10 +45,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Pilihan rakyat mengikut wilayah bercanggah antara sumber rasmi: malaysia.gov.my menyebut penduduk Pantai Timur cenderung kepada bunga raya, manakala MKN menyebut mereka cenderung kepada bunga mawar (kedua-dua sumber setuju Pantai Barat cenderung kepada bunga melur). Kekal umum sehingga disahkan manusia."
-  - "Penggunaan imej bunga raya pada duit syiling, dokumen rasmi, atau artifak tertentu tidak dapat disahkan daripada mana-mana sumber rasmi yang dibuka; perlu pengesahan sebelum dinyatakan secara khusus."
-  - "Maksud warna merah (keberanian serta keteguhan politik dan ekonomi) disandarkan hanya kepada satu sumber (UPM); wajar disahkan silang dengan sumber rasmi lain."
-  - "Perkaitan lima kelopak dengan lima prinsip Rukun Negara ialah lambang yang dibina kemudian (Rukun Negara diisytiharkan 1970, sepuluh tahun selepas pemilihan bunga); pastikan pembingkaian ini kekal jelas."
+  - "Popular preference by region conflicts between official sources: malaysia.gov.my says East Coast residents lean towards the hibiscus, while MKN says they lean towards the rose (both sources agree the West Coast leans towards jasmine). Keep it general until confirmed by a human."
+  - "The use of the hibiscus image on coins, official documents, or particular artefacts could not be verified from any official source accessed; verification is needed before stating it specifically."
+  - "The meaning of the colour red (courage and political and economic resilience) rests on only one source (UPM); it should be cross-confirmed with other official sources."
+  - "The association of the five petals with the five principles of the Rukun Negara is a symbolism constructed later (the Rukun Negara was proclaimed in 1970, ten years after the flower was chosen); ensure this framing remains clear."
 
 updated: 2026-08-08
 sources:

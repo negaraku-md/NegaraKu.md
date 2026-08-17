@@ -41,7 +41,7 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Pautan entiti masyarakat asal: relasi 'related-to → orang-asli' telah dibuang kerana salah (kaum Iban ialah kaum Dayak/Orang Asal Sarawak, bukan Orang Asli Semenanjung). Sahkan sama ada wujud halaman entiti Dayak/Orang Asal Sarawak yang sesuai untuk diganti."
+  - "Indigenous community entity link: the 'related-to → orang-asli' relation was removed because it is incorrect (the Iban are a Dayak / Orang Asal Sarawak people, not Peninsular Orang Asli). Confirm whether a suitable Dayak / Orang Asal Sarawak entity page exists to replace it."
   - "Asal usul abad ke-16 dicatat ICHLinks sebagai kepercayaan tradisi ('strongly believed'), bukan tarikh sejarah yang disahkan. Sahkan sebagai kepercayaan komuniti."
   - "Berat lesung sehingga 20 kg (Ngajat Lesong) ialah keterangan deskriptif JKKN tentang aksi tarian, bukan ukuran piawai. Sahkan angka ini."
   - "Kredit penyumbang ICHLinks (MACPA) dibaca dari halaman langsung. Sahkan susunan kata kredit penyumbang terus pada rekod ICHLinks."

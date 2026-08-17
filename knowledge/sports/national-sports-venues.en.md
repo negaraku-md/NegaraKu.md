@@ -45,9 +45,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Litar Antarabangsa Sepang: panjang trek tepat (kira-kira 5.5 km), bilangan selekoh (kira-kira 15), kapasiti (lebih kurang 130,000), tahun dibuka (1999) dan pereka (Hermann Tilke) — laman rasmi pengendali (sepangcircuit.com) menyekat capaian automatik (HTTP 403); sahkan terus dengan pengendali litar."
-  - "Kapasiti Stadium Hoki Nasional (Stadium 1): halaman rasmi stadium.gov.my tidak konsisten dengan sendirinya (10,000 dalam jadual spesifikasi, 12,000 dalam teks); sahkan angka sebenar."
-  - "Status 'stadium terbesar di Asia Tenggara' untuk TM Stadium Nasional telah dibuang kerana tiada dalam sumber yang dipetik; sahkan jika ada sumber berwibawa."
+  - "Sepang International Circuit: exact track length (about 5.5 km), number of corners (about 15), capacity (roughly 130,000), year opened (1999) and designer (Hermann Tilke) — the operator's official site (sepangcircuit.com) blocks automated access (HTTP 403); confirm directly with the circuit operator."
+  - "The capacity of the National Hockey Stadium (Stadium 1): the official stadium.gov.my page is internally inconsistent (10,000 in the specification table, 12,000 in the text); confirm the actual figure."
+  - "The 'largest stadium in Southeast Asia' status for the TM National Stadium was removed because it is not in the cited sources; confirm if there is an authoritative source."
   - "Status padang hoki (misalnya 'FIH Global Elite') telah dibuang kerana tiada sumber sokongan; sahkan jika terdapat rekod rasmi FIH."
 
 updated: 2026-08-01

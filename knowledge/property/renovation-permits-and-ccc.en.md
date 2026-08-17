@@ -45,9 +45,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Had keluasan bagi 'kerja kecil'/permit kerja kecil berbeza mengikut PBT — sahkan angka sebenar (jika ada) dalam undang-undang kecil PBT berkenaan sebelum menyatakan sebarang nilai spesifik."
-  - "Ketersediaan dan syarat 'Pelan Setara' untuk rumah teres berbeza mengikut PBT — sahkan dengan PBT berkaitan."
-  - "Amaun kompaun (RM25,000 / RM50,000) dan fi sehingga 10 kali ganda diambil daripada panduan MBPJ — sahkan jadual semasa MBPJ dan bahawa nilai serupa terpakai di PBT lain."
+  - "The area limit for 'minor works'/minor-works permits varies by PBT — confirm the actual figure (if any) in the relevant PBT by-laws before stating any specific value."
+  - "The availability and conditions of the 'Pelan Setara' for terrace houses vary by PBT — confirm with the relevant PBT."
+  - "The compound amounts (RM25,000 / RM50,000) and fees of up to 10 times are taken from MBPJ guidelines — confirm the current MBPJ schedule and that similar values apply in other local authorities (PBT)."
 
 updated: 2026-08-08
 sources:

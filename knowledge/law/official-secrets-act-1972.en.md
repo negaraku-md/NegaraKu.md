@@ -49,11 +49,11 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Tarikh dan status tepat pembebasan Mohammad Ezam bin Mohd Nor oleh Mahkamah Tinggi (dilaporkan 2004; nombor kes 42-22-2002) — perlu disahkan terhadap rekod/laporan mahkamah kerana sumber yang dipetik hanya mengesahkan sabitan dan hukuman, bukan pembebasan."
+  - "The exact date and status of Mohammad Ezam bin Mohd Nor's release by the High Court (reported 2004; case number 42-22-2002) — needs to be confirmed against court records/reports because the cited source only confirms the conviction and sentence, not the release."
   - "Perincian bahawa kes Ezam berkaitan pendedahan 'laporan Badan Pencegah Rasuah (ACA)' — bersandar pada laporan media sekunder, perlu disahkan."
   - "Sama ada pindaan A573 (1984) dan A660 (1987) benar-benar memperkenalkan penjara minimum wajib buat kali pertama, berbanding meminda peruntukan hukuman sedia ada — perlu rujukan sejarah perundangan."
   - "Sebutan 'keharmonian nasional' dalam laporan The Star disuarakan oleh seorang penganalisis, bukan kenyataan rasmi kerajaan — sahkan terhadap teks penuh."
-  - "Status semasa cadangan Akta Kebebasan Maklumat persekutuan dan sebarang pindaan OSA — perlu semakan berkala kerana keadaan boleh berubah selepas draf ini."
+  - "The current status of the proposed federal Freedom of Information Act and any OSA amendments — needs periodic review as the situation may change after this draft."
 
 updated: 2026-08-07
 sources:

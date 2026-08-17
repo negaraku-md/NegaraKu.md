@@ -42,10 +42,10 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Kadar cukai individu dalam Jadual 1 dipetik daripada teks Akta 53 setakat cetakan semula 1 November 2023; sahkan tiada pindaan terkini mengubah banjaran atau kadar bagi tahun taksiran semasa."
-  - "Senarai jenis zakat yang dianggap 'wajib' untuk tujuan rebat (contohnya zakat simpanan) bergantung pada tafsiran pihak berkuasa agama negeri dan amalan LHDN; sahkan bagi negeri berkenaan."
+  - "The individual tax rates in Schedule 1 are cited from the text of Act 53 as at the 1 November 2023 reprint; confirm that no recent amendment changes the brackets or rates for the current assessment year."
+  - "The list of zakat types considered 'obligatory' for rebate purposes (e.g. zakat on savings) depends on the interpretation of the state religious authorities and LHDN practice; confirm for the relevant state."
   - "Kedudukan medan zakat dalam antara muka e-Filing/MyTax semasa perlu disahkan dengan portal rasmi LHDN."
-  - "Seksyen 82A memerlukan penyimpanan dokumen tujuh tahun bagi menyokong pendapatan bercukai; sahkan pemakaian khusus kepada resit rebat zakat dengan LHDN."
+  - "Section 82A requires document retention for seven years to support taxable income; confirm the specific application to zakat rebate receipts with LHDN."
 revisions:
   - version: "01.00"
     date: 2026-08-08

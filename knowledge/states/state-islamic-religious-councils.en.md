@@ -45,10 +45,10 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Kesan undang-undang fatwa yang diwartakan: kenyataan umum ini perlu disokong dengan rujukan enakmen negeri khusus (mis. Enakmen Pentadbiran Agama Islam negeri berkenaan) semasa semakan manusia."
-  - "Nombor seksyen enakmen negeri (mis. peruntukan pemegang amanah tunggal wakaf dan kuasa kutipan zakat) sengaja ditinggalkan kerana tidak dapat disahkan daripada sumber rasmi yang dibuka; sila sahkan dan masukkan jika perlu."
-  - "Tarikh penubuhan Majlis Kebangsaan Bagi Hal Ehwal Ugama Islam Malaysia (MKI) sengaja ditinggalkan kerana tidak dapat disahkan daripada sumber rasmi; sila sahkan."
-  - "Slug hubungan 'federal-constitution-malaysia' dan 'syariah-courts-malaysia' ialah rujukan sementara — sahkan slug ini benar-benar wujud dalam korpus sebelum diterbitkan."
+  - "The effect of gazetted fatwa law: this general statement should be supported with references to specific state enactments (e.g. the Islamic Religious Administration Enactment of the relevant state) during human review."
+  - "The section numbers of the state enactments (e.g. the provisions on the sole trustee of waqf and the zakat collection power) were deliberately omitted because they could not be verified from the official sources accessed; please confirm and include them if needed."
+  - "The establishment date of the National Council for Islamic Religious Affairs Malaysia (MKI) was deliberately left out because it could not be confirmed from an official source; please confirm."
+  - "The relation slugs 'federal-constitution-malaysia' and 'syariah-courts-malaysia' are placeholder references — confirm these slugs actually exist in the corpus before publication."
 
 updated: 2026-08-08
 sources:

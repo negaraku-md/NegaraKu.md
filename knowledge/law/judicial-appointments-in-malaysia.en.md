@@ -47,7 +47,7 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Butiran peristiwa 2025 (tarikh persaraan Ketua Hakim Negara ketika itu dan status lanjutan tempoh perkhidmatan): sahkan dengan pengumuman rasmi terkini."
+  - "Details of the 2025 events (the retirement date of the then Chief Justice and the status of the service extension): confirm with the latest official announcement."
 updated: 2026-08-07
 sources:
   - title: "Federal Constitution (Reprint As at 15 October 2020)"

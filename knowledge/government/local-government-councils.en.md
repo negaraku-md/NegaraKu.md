@@ -40,11 +40,11 @@ revisions:
 
 updated: 2026-08-01
 verificationNeeded:
-  - "Bilangan tepat PBT mengikut kategori (dinyatakan 151 keseluruhan: 19 Majlis/Dewan Bandaraya, 40 Majlis Perbandaran, 92 Majlis Daerah menurut portal JKT KPKT) — jumlah ini berubah dari semasa ke semasa dan perlu disahkan terhadap statistik KPKT terkini pada tarikh penerbitan"
-  - "Nombor Bahagian/Seksyen tepat dalam Akta 171 yang mengawal kadar/cukai taksiran (rating) — badan artikel hanya menerangkan kuasa itu secara umum tanpa menyebut nombor peruntukan, kerana teks itu tidak dapat diekstrak daripada PDF akta"
-  - "Nama rasmi dan tarikh instrumen darurat yang menggantung pilihan raya tempatan (dirujuk sebagai Emergency (Suspension of Local Government Elections) Regulations 1965) dan Local Government (Temporary Provisions) Act 1973 — disebut dalam sumber sekunder tetapi belum disahkan terhadap teks perundangan asal"
+  - "The exact number of PBT by category (stated as 151 in total: 19 City Councils/City Halls, 40 Municipal Councils, 92 District Councils according to the JKT KPKT portal) — this total changes from time to time and needs to be confirmed against the latest KPKT statistics on the publication date"
+  - "The exact Part/Section number in Act 171 governing assessment rates/tax (rating) — the body of the article only describes the power in general terms without citing the provision number, because the text could not be extracted from the Act's PDF"
+  - "The official name and date of the emergency instrument that suspended local elections (referred to as the Emergency (Suspension of Local Government Elections) Regulations 1965) and the Local Government (Temporary Provisions) Act 1973 — mentioned in secondary sources but not yet verified against the original legislative text"
   - "Tahun terakhir pilihan raya kerajaan tempatan diadakan di Sarawak (beberapa sumber sekunder menyebut sekitar 1981) — perlu disahkan terhadap rekod rasmi sebelum dinyatakan sebagai fakta"
-  - "Kriteria naik taraf kategori PBT: angka penduduk/hasil di sini diambil daripada portal JKT KPKT; sahkan terhadap pekeliling KPKT terkini kerana kriteria pernah dikaji semula"
+  - "Criteria for upgrading the PBT category: the population/revenue figures here are taken from the JKT KPKT portal; confirm against the latest KPKT circular, as the criteria have been revised before."
 sources:
   - title: "Akta Kerajaan Tempatan 1976 (Akta 171) — portal rujukan perundangan"
     url: "https://www.mpaj.gov.my/en/mpaj/resources/legislation/akta-kerajaan-tempatan-1976-akta-171"

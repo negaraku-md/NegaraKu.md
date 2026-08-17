@@ -46,7 +46,7 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Perenggan 'Amalan profesional' ialah generalisasi umum tentang syarat badan profesional (cth. MIA) dan tidak disokong oleh sumber berkanun dalam sources[]; sahkan atau padam sebelum penerbitan."
+  - "The 'Professional practice' paragraph is a broad generalisation about professional-body requirements (e.g. MIA) and is not supported by a statutory source in sources[]; confirm or delete before publication."
 updated: 2026-08-08
 sources:
   - title: "Akta 743 — Akta Perkongsian Liabiliti Terhad 2012 (Undang-Undang Malaysia)"

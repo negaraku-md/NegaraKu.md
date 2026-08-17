@@ -48,9 +48,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Asal-usul nama 'Piala Malaya' daripada kapal HMS Malaya — tidak dapat disahkan melalui sumber primer bukan-Wikipedia; petikan NLB Infopedia asal kembali kosong pada dua percubaan."
+  - "The origin of the name 'Piala Malaya' from the ship HMS Malaya — could not be verified through a non-Wikipedia primary source; the original NLB Infopedia citation came back empty on two attempts."
   - "Sama ada nisbah pembahagian 40%/30% berterusan selepas enam tahun pertama (2016–2021) — sumber perjanjian tidak menyatakannya."
-  - "Jumlah pasukan dalam divisyen teratas dan format Piala Malaysia setiap musim — berubah dari tahun ke tahun; semak terhadap MFL/FAM rasmi."
+  - "The number of teams in the top division and the Malaysia Cup format each season — these change from year to year; check against official MFL/FAM."
   - "Pengesahan lantikan jurulatih Xisco Muñoz (Jun 2025) dan tarikh perlawanan AFC Champions League Elite menentang Al Ahli (16 April 2026) terhadap sumber rasmi kelab/AFC terkini."
   - "Penyertaan pasukan jemputan asing dalam era moden Piala Malaysia (kejohanan sulung 1921 disertai Singapura, disahkan RSSSF)."
 

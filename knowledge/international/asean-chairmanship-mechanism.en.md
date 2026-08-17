@@ -42,8 +42,8 @@ reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
   - "Rangka masa tepat dan syarat penyertaan penuh Timor-Leste (anggota ke-11, diterima 26 Oktober 2025) dalam kitaran pengerusian mengikut abjad."
-  - "Pengesahan bahawa penyerahan pengerusian daripada Malaysia kepada Filipina berkuat kuasa tepat pada 1 Januari 2026."
-  - "Kerangka sebab-akibat pelepasan giliran 2026 oleh Myanmar — sama ada dirujuk secara khusus kepada rampasan kuasa 2021 dan sekatan penyertaan ASEAN, atau kepada ketidakstabilan domestik yang lebih luas."
+  - "Confirmation that the handover of the chairmanship from Malaysia to the Philippines takes effect exactly on 1 January 2026."
+  - "The causal framing of Myanmar giving up its 2026 turn — whether it is attributed specifically to the 2021 coup and ASEAN participation restrictions, or to broader domestic instability."
 revisions:
   - version: "01.00"
     date: 2026-08-01

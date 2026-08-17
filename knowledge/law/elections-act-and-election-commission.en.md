@@ -50,10 +50,10 @@ revisions:
 
 updated: 2026-08-07
 verificationNeeded:
-  - "Tajuk panjang dan peruntukan Akta Kesalahan Pilihan Raya 1954 (Akta 5): amalan rasuah (penyamaran, layanan, pengaruh tak wajar, rasuah), pelantikan ejen pilihan raya, kawalan perbelanjaan pilihan raya, dan petisyen pilihan raya — sahkan nombor seksyen terhadap teks rasmi Akta 5 di portal AGC (lom.agc.gov.my)."
-  - "Peruntukan operasi khusus Akta Pilihan Raya 1958 (Akta 19): pendaftaran pemilih dalam satu bahagian pilihan raya sahaja, pelantikan pegawai pengurus (returning officer), dan rujukan Peraturan-Peraturan Pilihan Raya (Penjalanan Pilihan Raya) 1981 [P.U.(A) 386/1981] — sahkan nombor seksyen terhadap teks rasmi Akta 19."
-  - "Langkah pembentangan dan kelulusan cadangan persempadanan di Dewan Rakyat berpunca daripada Jadual Ketiga Belas Perlembagaan (bukan Perkara 113) — sahkan terhadap teks Jadual Ketiga Belas."
-  - "Kedudukan pentadbiran SPR di bawah Jabatan Perdana Menteri — sahkan terhadap sumber rasmi kerajaan atau SPR."
+  - "The long title and provisions of the Election Offences Act 1954 (Act 5): corrupt practices (personation, treating, undue influence, bribery), appointment of election agents, control of election expenses, and election petitions — confirm the section numbers against the official text of Act 5 on the AGC portal (lom.agc.gov.my)."
+  - "The specific operational provisions of the Elections Act 1958 (Act 19): registration of voters in only one constituency, appointment of the returning officer, and reference to the Elections (Conduct of Elections) Regulations 1981 [P.U.(A) 386/1981] — confirm the section numbers against the official text of Act 19."
+  - "The steps for tabling and approving delimitation proposals in the Dewan Rakyat stem from the Thirteenth Schedule of the Constitution (not Article 113) — confirm against the text of the Thirteenth Schedule."
+  - "The administrative position of the SPR under the Prime Minister's Department — confirm against official government or SPR sources."
 sources:
   - title: "Perlembagaan Persekutuan — Perkara 113: Penjalanan Pilihan Raya"
     url: "https://spr.gov.my/wp-content/uploads/2024/10/perkara-113-penjalanan-pilihanraya.pdf"

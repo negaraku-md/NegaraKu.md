@@ -49,7 +49,7 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Pegangan utama semasa dan peratus kepentingan Khazanah dalam CIMB, Telekom Malaysia, Axiata dan IHH Healthcare — sahkan dengan pemfailan pemegang saham penting terkini di Bursa Malaysia (peratus berubah mengikut masa)."
+  - "Khazanah's current major holdings and percentage interests in CIMB, Telekom Malaysia, Axiata and IHH Healthcare — confirm against the latest substantial-shareholder filings on Bursa Malaysia (percentages change over time)."
   - "Sama ada Tenaga Nasional wajar disenaraikan sebagai pegangan utama Khazanah — kepentingan langsung dipercayai kecil/telah dilupuskan; dikeluarkan sementara menunggu pengesahan."
   - "Kiraan inisiatif Dana Impak 2025 (lebih 40 firma bersaiz sederhana; 3 syarikat semikonduktor) — sahkan terhadap teks penuh The Khazanah Report 2025."
   - "Satu saham khas yang dipegang oleh Pesuruhjaya Tanah Persekutuan — sahkan masih terkini dalam perlembagaan/laporan tahunan terbaharu."

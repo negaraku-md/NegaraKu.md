@@ -42,10 +42,10 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Tahun 1960-an sebagai asal usul bazar Jalan Raja Alang, Kampung Baru — hanya bersumberkan liputan sekunder (ANTARA); sahkan dengan sumber sejarah/DBKL yang berwibawa."
-  - "Butiran penguatkuasaan spesifik (pengesanan jualan tapak melalui WhatsApp dan laporan polis) — bersumberkan RTM; sahkan ia terpakai bagi musim Ramadan 2026."
-  - "Sewa tapak Putrajaya RM1,000 bagi 2026 — sahkan dengan pengumuman rasmi Perbadanan Putrajaya."
-  - "Bilangan lokasi 2026 (9 DBKL / 32 persatuan penjaja) — sahkan ia kekal tepat pada tarikh penerbitan kerana angka boleh berubah sebelum Ramadan."
+  - "The 1960s as the origin of the Jalan Raja Alang bazaar, Kampung Baru — sourced only from secondary coverage (ANTARA); confirm with an authoritative historical/DBKL source."
+  - "The specific enforcement details (tracking stall sales via WhatsApp and police reports) — sourced from RTM; confirm they apply for the Ramadan 2026 season."
+  - "The Putrajaya site rental of RM1,000 for 2026 — confirm with an official Perbadanan Putrajaya announcement."
+  - "The number of 2026 locations (9 DBKL / 32 hawker associations) — confirm it remains accurate on the publication date, as the figure may change before Ramadan."
 revisions:
   - version: "01.00"
     date: 2026-08-01

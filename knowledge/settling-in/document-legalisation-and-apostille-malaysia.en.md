@@ -43,9 +43,9 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Arah laluan alternatif dalam negara (misi diplomatik negara pengeluar di Malaysia mengesahkan dokumen, kemudian Bahagian Konsular Wisma Putra mengendors) untuk dokumen ASING yang hendak digunakan di Malaysia — halaman KLN menerangkan proses pengesahan dokumen Malaysia untuk kegunaan di LUAR negara; sahkan arah masuk ini terus dengan Wisma Putra."
-  - "Generalisasi bahawa dokumen taraf sivil (kelahiran, perkahwinan, kematian) biasanya boleh terus ke peringkat pengesahan tanpa notari sementara dokumen lain perlu dinotarikan dahulu — tidak terikat pada satu sumber rasmi tertentu; sahkan dengan misi diplomatik Malaysia berkenaan."
-  - "Yuran dan tempoh masa setiap lapisan berbeza mengikut negara dan misi; yuran RM18 yang disebut ialah yuran perkhidmatan Kedutaan Korea di Kuala Lumpur sahaja, bukan kadar am legalisasi pihak Malaysia."
+  - "The alternative in-country route (the issuing country's diplomatic mission in Malaysia certifies the document, then the Consular Division of Wisma Putra endorses it) for FOREIGN documents to be used in Malaysia — the KLN page describes the process of certifying Malaysian documents for use ABROAD; confirm this inbound direction directly with Wisma Putra."
+  - "The generalisation that civil-status documents (birth, marriage, death) can usually proceed straight to the attestation stage without notarisation while other documents must be notarised first — not tied to any one particular official source; confirm with the relevant Malaysian diplomatic mission."
+  - "The fee and turnaround time for each layer vary by country and mission; the RM18 fee mentioned is the service fee of the Korean Embassy in Kuala Lumpur only, not a general Malaysian legalisation rate."
 revisions:
   - version: "01.00"
     date: 2026-08-07

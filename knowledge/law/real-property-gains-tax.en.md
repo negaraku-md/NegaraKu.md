@@ -51,9 +51,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Kadar pegangan Seksyen 21B bagi Bahagian II (syarikat) disahkan berperingkat oleh LHDN (5% dalam 3 tahun, 3% dari tahun ke-4) — sahkan sama ada masih terpakai selepas pindaan berkuat kuasa 1 Januari 2026 yang membenarkan pemeroleh meremit amaun yang lebih rendah."
-  - "Rekonsiliasi tarikh CGT: permulaan CGT ialah 1 Januari 2024 tetapi pengenaan ke atas pelupusan saham (termasuk saham RPC) oleh syarikat/PLT/badan amanah/koperasi berkuat kuasa 1 Mac 2024 — sahkan layanan pelupusan antara 1 Januari–29 Februari 2024."
-  - "Kadar CGT 10% keuntungan bersih atau pilihan 2% harga jualan kasar bagi saham yang diperoleh sebelum 1 Januari 2024 — sahkan mekanik penuh dengan Garis Panduan CGT LHDN."
+  - "The Section 21B retention rate for Part II (companies) is confirmed in tiers by LHDN (5% within 3 years, 3% from the 4th year) — confirm whether it still applies after the amendment effective 1 January 2026 that allows the acquirer to remit a lower amount."
+  - "CGT date reconciliation: CGT commenced on 1 January 2024 but the charge on disposals of shares (including RPC shares) by companies/LLPs/trust bodies/co-operatives took effect on 1 March 2024 — confirm the treatment of disposals between 1 January–29 February 2024."
+  - "The CGT rate of 10% on net gains or the option of 2% on gross sale price for shares acquired before 1 January 2024 — confirm the full mechanics with the LHDN CGT Guidelines."
   - "Perubahan 2025 (e-CKHT wajib, Sistem Taksir Sendiri, tempoh bayaran 90 hari, kenaikan 10%, simpanan rekod 7 tahun) — sahkan dengan Garis Panduan Operasi CKHT 2025 LHDN."
 
 updated: 2026-08-07

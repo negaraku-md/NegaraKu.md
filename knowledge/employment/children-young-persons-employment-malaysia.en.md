@@ -52,10 +52,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Tarikh kuat kuasa pindaan 2019 (Akta A1586) dilaporkan 1 Februari 2019 melalui pemberitahuan Menteri dalam Warta (P.U.(B)) — sahkan nombor P.U.(B) dan tarikh terhadap Warta Persekutuan rasmi (Akta A1586 sendiri hanya menyebut 'tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta')."
-  - "Butiran ringkasan Jadual Keempat (kerja berbahaya) dan Jadual Kelima (larangan mutlak) hendaklah disemak semula terhadap teks penuh Jadual semasa Akta 350 yang telah dipinda."
+  - "The effective date of the 2019 amendment (Act A1586) is reported as 1 February 2019 via a ministerial notification in the Gazette (P.U.(B)) — confirm the P.U.(B) number and date against the official Federal Gazette (Act A1586 itself only refers to 'the date appointed by the Minister by notification in the Gazette')."
+  - "The summary details of the Fourth Schedule (hazardous work) and the Fifth Schedule (absolute prohibitions) should be reviewed again against the full text of the current Schedules of Act 350 as amended."
   - "Butiran Jadual Ketiga (pemeriksaan perubatan tidak kurang sekali setiap tiga bulan; had persembahan empat jam) hendaklah disahkan masih terkini."
-  - "Semak sama ada terdapat pindaan atau cetakan semula Akta 350 yang lebih baru selepas cetakan semula 'setakat 1 Oktober 2019'."
+  - "Check whether there is a newer amendment or reprint of Act 350 after the reprint 'as at 1 October 2019'."
 
 updated: 2026-08-08
 sources:

@@ -40,10 +40,10 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Pengesahan bahawa garis dasar dan sasaran PuTERA35 (30% ekuiti; 70% pekerjaan mahir tinggi dengan garis dasar 61%/2022; 15% KDNK dengan garis dasar 9.1%/2022) kekal seperti diterbitkan TERAJU dan tidak dikemas kini selepas 2024."
+  - "Confirmation that the PuTERA35 baselines and targets (30% equity; 70% high-skilled employment with a baseline of 61%/2022; 15% of GDP with a baseline of 9.1%/2022) remain as published by TERAJU and have not been updated after 2024."
   - "Pengesahan angka 18.4% (2020) terhadap sumber statistik rasmi asal (mis. Jabatan Perangkaan / RMK) kerana ia dipetik semula oleh TERAJU, bukan diterbitkan oleh ISEAS."
-  - "Pengesahan ambang peratusan tepat bagi setiap kategori kod SWEC PETRONAS (ekuiti, lembaga pengarah, pengurusan, pekerja) daripada garis panduan pelesenan PETRONAS terkini, kerana ringkasan firma guaman tidak menyenaraikan setiap ambang."
-  - "Pengesahan modal berbayar minimum RM100,000 dan kepentingan Petronas Carigali ≥15% dalam PSC terhadap terbitan rasmi PETRONAS, kerana kedua-dua angka dipetik daripada ringkasan firma guaman."
+  - "Confirmation of the exact percentage thresholds for each PETRONAS SWEC code category (equity, board of directors, management, employees) from the latest PETRONAS licensing guidelines, since the law-firm summary does not list every threshold."
+  - "Confirmation of the minimum paid-up capital of RM100,000 and Petronas Carigali's ≥15% interest in the PSC against official PETRONAS publications, because both figures are cited from a law firm summary."
   - "Pengesahan status semasa MEDAC sebagai penyelia VDP, kerana penstrukturan semula kementerian boleh mengubah agensi yang bertanggungjawab."
 
 revisions:

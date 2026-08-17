@@ -49,7 +49,7 @@ revisions:
 
 updated: 2026-08-14
 verificationNeeded:
-  - "Statistik pasar tani 2024 (223 pasar tani, 8,542 usahawan, nilai jualan RM244.6 juta) bersandar pada laporan Free Malaysia Today, bukan dokumen rasmi FAMA — sahkan dengan penerbitan rasmi FAMA atau DOSM/TaniStats."
+  - "The 2024 farmers' market statistics (223 farmers' markets, 8,542 entrepreneurs, sales value RM244.6 million) rely on a Free Malaysia Today report, not an official FAMA document — confirm with an official FAMA publication or DOSM/TaniStats."
 sources:
   - title: "Pasar Tani"
     url: "https://www.fama.gov.my/pasar-tani"

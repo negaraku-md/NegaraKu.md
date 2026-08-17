@@ -49,8 +49,8 @@ revisions:
 
 verificationNeeded:
   - "Saiz lot tanaman setiap peneroka (angka 4–6 hektar / 10 ekar sering disebut secara umum tetapi tiada dalam sumber rasmi yang dirujuk) — dibuang sehingga disahkan dengan sumber primer."
-  - "Pengasas/pelopor idea FELDA (sering dikaitkan dengan Tun Abdul Razak Hussein secara sejarah) — tidak ditemui dalam sumber yang dirujuk; perlu pengesahan sumber primer."
-  - "Bilangan tepat pemilik yang dibenarkan didaftarkan bagi satu lot di bawah Akta 1960 (undang-undang semasa) — sumber hanya menyatakan 'mengehadkan bilangan pemilik' tanpa angka; had 'dua nama' ialah cadangan pindaan 2026."
+  - "The founder/originator of the FELDA idea (historically often attributed to Tun Abdul Razak Hussein) — not found in the sources cited; requires primary-source confirmation."
+  - "The exact number of owners allowed to be registered for a single lot under the 1960 Act (current law) — the source only states 'limiting the number of owners' without a figure; the 'two names' cap is a 2026 proposed amendment."
   - "Bulan tepat pembukaan Rancangan Air Lanas (The Edge menyatakan Mac 1957) — sahkan dengan rekod FELDA."
   - "Angka 1990: 114,400 keluarga / 500,000 hektar — sahkan sumber primer FELDA."
 

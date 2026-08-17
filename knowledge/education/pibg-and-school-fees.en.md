@@ -41,8 +41,8 @@ reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
   - "Tarikh kuat kuasa Peraturan-Peraturan Pendidikan (Persatuan Ibu Bapa-Guru) 1998 — sahkan terhadap Warta Kerajaan Persekutuan / P.U.(A) rasmi sebelum menyatakan tarikh tepat."
-  - "Ketiga-tiga punca pendapatan PIBG yang dibenarkan — sahkan terhadap teks penuh Perlembagaan PIBG (SPI Bil. 4/2004)."
-  - "Tarikh sebenar pemansuhan yuran khas berkuat kuasa (dinyatakan 'sejak 2008') — sahkan terhadap teks penuh SPI Bil. 13/2007."
+  - "The three permitted sources of PIBG income — confirm against the full text of the PIBG Constitution (SPI Bil. 4/2004)."
+  - "The actual effective date of the abolition of the special fees (stated as 'since 2008') — confirm against the full text of SPI Bil. 13/2007."
 revisions:
   - version: "01.00"
     date: 2026-08-08

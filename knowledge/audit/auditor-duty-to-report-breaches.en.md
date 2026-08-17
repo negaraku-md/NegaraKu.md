@@ -40,7 +40,7 @@ reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 verificationNeeded:
-  - "Semakan peguam terhadap pernyataan skop undang-undang bahawa perlindungan suci hati seksyen 266(10) terhad kepada laporan subseksyen (9) dan tidak dinyatakan secara nyata bagi laporan subseksyen (8)."
+  - "Lawyer's review of the legal-scope statement that the good-faith protection under section 266(10) is limited to subsection (9) reports and is not expressly stated for subsection (8) reports."
 version: "01.00"
 revisions:
   - version: "01.00"

@@ -52,8 +52,8 @@ revisions:
 
 verificationNeeded:
   - "Jumlah tepat Jawatankuasa Peguam Negeri (State Bar Committees) di Semenanjung — senarai rasmi Majlis Peguam berkunci log masuk; angka 'dua belas' tidak dapat disahkan dan telah dibuang."
-  - "Nombor seksyen sokongan yang tidak dipetik secara langsung dalam ringkasan sumber rasmi — s.4, s.10-12, s.28, s.29/32, s.36/37, s.40J, s.103A, s.103C, s.103E — perlu disahkan terhadap teks Akta yang terkini."
-  - "Tahun dan petikan tepat Ordinan Peguam (Advocates Ordinance) 1953 bagi Sabah dan Sarawak (rujukan Cap.) — sahkan setiap satu terhadap teks ordinan."
+  - "The supporting section numbers not directly cited in the summary of official sources — s.4, s.10-12, s.28, s.29/32, s.36/37, s.40J, s.103A, s.103C, s.103E — need to be verified against the latest text of the Act."
+  - "The exact year and citation of the Advocates Ordinance 1953 for Sabah and Sarawak (Cap. references) — confirm each against the text of the ordinance."
 updated: 2026-08-07
 sources:
   - title: "Legal Profession Act 1976 (as at 1 August 2018)"

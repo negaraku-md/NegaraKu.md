@@ -47,10 +47,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Halaman perkhidmatan JPN (jpn.gov.my, Perkara 14 kelahiran luar negara) tidak dapat diambil secara automatik di sini (ECONNREFUSED); sahkan terus dengan JPN: siapa boleh memohon, syarat hadir sendiri, senarai semak dokumen, bilangan gambar (tiga keping berlatar biru), dan kadar bayaran semasa."
-  - "Sahkan kadar bayaran rasmi dan senarai semak dokumen terkini terus di jpn.gov.my atau misi Malaysia berkenaan (nilai RM20/RM30/RM10 di sini dipetik daripada panduan Family Frontiers)."
+  - "The JPN service page (jpn.gov.my, Article 14 birth abroad) could not be fetched automatically here (ECONNREFUSED); confirm directly with JPN: who may apply, the in-person attendance requirement, the document checklist, the number of photos (three with a blue background), and the current fees."
+  - "Confirm the official fee rates and the latest document checklist directly at jpn.gov.my or the relevant Malaysian mission (the RM20/RM30/RM10 values here are cited from a Family Frontiers guide)."
   - "Sahkan tarikh kuat kuasa sebenar Akta Perlembagaan (Pindaan) 2024 apabila diwartakan (draf ini menyatakan sasaran 1 Jun 2026 mengikut kenyataan menteri Februari 2026)."
-  - "Sahkan petikan penuh dan keputusan kes Mahkamah Rayuan 5 Ogos 2023 (Suriani Kempe & Ors lwn Kerajaan Malaysia) terhadap rekod mahkamah rasmi."
+  - "Confirm the full citation and decision of the Court of Appeal case of 5 August 2023 (Suriani Kempe & Ors v Kerajaan Malaysia) against the official court records."
   - "Sahkan slug perhubungan/berkaitan (jabatan-pendaftaran-negara, federal-constitution-citizenship, applying-for-malaysian-citizenship-article-15, malaysian-birth-registration) terhadap taksonomi langsung."
 
 updated: 2026-08-07

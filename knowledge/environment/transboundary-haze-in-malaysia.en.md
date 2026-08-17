@@ -49,8 +49,8 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Jumlah stesen pemantauan automatik (CAQM): dokumen DOE yang dirujuk menyebut 52 stesen automatik + 14 stesen manual, tetapi rangkaian mungkin telah berkembang sejak dokumen itu diterbitkan — sahkan bilangan terkini dengan DOE."
-  - "Tafsiran band 'Berbahaya' dan 'Kecemasan': jadual rasmi DOE menulis '>300' (Berbahaya) dan '>500' (Kecemasan) secara terbuka; secara praktik Berbahaya bermaksud 301–500. Sahkan penyampaian yang paling terkini dengan DOE."
+  - "The total number of automatic monitoring stations (CAQM): the referenced DOE document mentions 52 automatic stations + 14 manual stations, but the network may have expanded since that document was published — confirm the latest number with DOE."
+  - "Interpretation of the 'Hazardous' and 'Emergency' bands: the official DOE table writes '>300' (Hazardous) and '>500' (Emergency) open-ended; in practice Hazardous means 301–500. Confirm the most current presentation with DOE."
   - "Tahun ASEAN menerima pakai Peta Jalan Kerjasama ke arah Kawalan Pencemaran Jerebu Rentas Sempadan (lazim dirujuk 2016) — halaman COM DOE hanya menyebut 'a roadmap in the following year' tanpa memasti tahun; sahkan dengan dokumen ASEAN rasmi."
   - "Ambang SOP penutupan sekolah (dilaporkan API 200) — sahkan dengan SOP KPM/DOE terkini."
   - "Anggaran kerugian ekonomi krisis jerebu 1997 (AS$9 bilion, menurut CSIS) — sahkan sumber asal angka."

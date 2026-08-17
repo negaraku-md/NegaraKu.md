@@ -41,10 +41,10 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Sahkan petikan verbatim Perkara 4(1), 159(3), 159(4), 159(5) dan 161E(2) terhadap teks bercetak Perlembagaan Persekutuan (Cetakan Semula 2020) versi bahasa Melayu — rencana ini menggunakan frasa sah 'tidak sah setakat ketidakselarasan itu' dan 'jumlah bilangan ahli', bukan parafrasa terjemahan."
+  - "Confirm the verbatim quotations of Article 4(1), 159(3), 159(4), 159(5) and 161E(2) against the printed text of the Federal Constitution (2020 Reprint) Malay-language version — this article uses the legal phrases 'tidak sah setakat ketidakselarasan itu' and 'jumlah bilangan ahli', not a translated paraphrase."
   - "Sahkan kedudukan teks sah bahasa Melayu di bawah Perkara 160B (bila teks kebangsaan diperakukan sebagai teks sah) sebelum menyandarkan petikan Melayu kepadanya sepenuhnya."
-  - "Sahkan senarai peruntukan yang dilindungi Perkara 159(5) dan perkara Sabah/Sarawak yang dilindungi Perkara 161E(2) sekiranya butiran spesifik hendak disenaraikan."
-  - "Sahkan slug pautan dalaman wujud: /law/federal-constitution, /law/constitutional-amendment, /glossary/akta, /government/majlis-raja-raja, /glossary/yang-di-pertuan-agong."
+  - "Confirm the list of provisions protected by Article 159(5) and the Sabah/Sarawak matters protected by Article 161E(2) if specific details are to be listed."
+  - "Confirm that the internal link slugs exist: /law/federal-constitution, /law/constitutional-amendment, /glossary/akta, /government/majlis-raja-raja, /glossary/yang-di-pertuan-agong."
 revisions:
   - version: "01.00"
     date: 2026-08-01

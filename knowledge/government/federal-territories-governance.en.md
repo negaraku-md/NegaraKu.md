@@ -49,8 +49,8 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Tahun penggantungan pilihan raya perbandaran: laman rasmi DBKL menyatakan 'sejak 1970', tetapi penggantungan pilihan raya kerajaan tempatan di seluruh negara lazimnya didokumentasikan bermula 1965 (kemudian diformalkan melalui Akta Kerajaan Tempatan 1976). Pengulas perlu mengesahkan tahun/rangka masa yang tepat."
-  - "Petikan perlembagaan Perkara 1(4), 45 dan 46 tidak dapat diekstrak semula terus daripada PDF Perlembagaan Persekutuan (Cetakan Semula 2020) AGC kerana teksnya tidak boleh dibaca mesin; sahkan bilangan kerusi Dewan Rakyat (13: 11 KL / 1 Labuan / 1 Putrajaya) dan Senator (2 KL / 1 Labuan / 1 Putrajaya) terhadap teks primer yang boleh dibaca."
+  - "The year municipal elections were suspended: the official DBKL site states 'since 1970', but the nationwide suspension of local government elections is usually documented as starting in 1965 (later formalised through the Local Government Act 1976). A reviewer needs to confirm the exact year/timeframe."
+  - "The constitutional citations Article 1(4), 45 and 46 could not be re-extracted directly from the AGC's Federal Constitution PDF (2020 Reprint) because its text is not machine-readable; confirm the number of Dewan Rakyat seats (13: 11 KL / 1 Labuan / 1 Putrajaya) and Senators (2 KL / 1 Labuan / 1 Putrajaya) against a machine-readable primary text."
 updated: 2026-08-01
 sources:
   - title: "Federal Constitution (Reprint 2020) — Perkara 1(4), 45(1) dan 46(2)"

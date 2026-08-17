@@ -47,8 +47,8 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Klasifikasi tepat tuisyen di rumah dan kelas dalam talian di bawah takrif 'institusi pendidikan' Akta 550, termasuk mana-mana pengecualian statutori."
-  - "Sama ada permit mengajar diwajibkan untuk setiap guru pusat tuisyen dan seksyen Akta yang berkenaan."
+  - "The exact classification of home tuition and online classes under the 'educational institution' definition in Act 550, including any statutory exemptions."
+  - "Whether a teaching permit is required for every tuition-centre teacher and the relevant section of the Act."
   - "Modal berbayar minimum, yuran lesen dan sebarang yuran pendaftaran semasa (tidak dimasukkan kerana tiada sumber rasmi terbuka disahkan)."
 
 updated: 2026-08-08

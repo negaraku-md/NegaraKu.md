@@ -46,7 +46,7 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Nilai potong ringgit rasmi B40/M40/T20 bagi 2024 (pendapatan pada persentil ke-40 dan ke-80) belum disenaraikan dalam artikel — sahkan dan tambah daripada laporan penuh DOSM 2024 jika perlu."
+  - "The official ringgit cut-off values for B40/M40/T20 for 2024 (income at the 40th and 80th percentiles) are not yet listed in the article — confirm and add from the full DOSM 2024 report if needed."
   - "Sama ada kerajaan secara rasmi menggunakan pecahan lebih halus (cth. T15) untuk penyasaran subsidi — dakwaan asal dibuang kerana tiada sumber rasmi dalam laporan DOSM yang dipetik; sahkan sumber sebelum menambah semula."
 updated: 2026-08-08
 sources:

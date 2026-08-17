@@ -51,11 +51,11 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Perincian dan struktur logo halal rasmi (bentuk bintang, tulisan khat Arab dan Rumi, bintang kecil) — sahkan dengan penerangan rasmi JAKIM/portal Halal Malaysia sebelum menyatakan geometri tepat."
-  - "Jadual fi (contohnya RM2,100 pemohon ASEAN luar negara, RM200 setiap dapur, cetak semula ~RM50) dan syarat bayaran dalam 14 hari bekerja diambil daripada FAQ portal negeri Sarawak (KISWA); sahkan kadar semasa dan sama ada terpakai seragam di seluruh negara melalui portal MYeHALAL."
-  - "Tempoh sah dua tahun terpakai bagi kebanyakan skim tetapi boleh berbeza mengikut skim; sahkan dalam Manual Prosedur Pensijilan Halal Malaysia (MPPHM) terkini."
+  - "The details and structure of the official halal logo (the star shape, the Arabic and Roman script, the small stars) — confirm against the official JAKIM description / Halal Malaysia portal before stating the exact geometry."
+  - "The fee schedule (e.g. RM2,100 for overseas ASEAN applicants, RM200 per kitchen, reprint ~RM50) and the payment-within-14-working-days condition are taken from the Sarawak state portal FAQ (KISWA); confirm the current rates and whether they apply uniformly nationwide via the MYeHALAL portal."
+  - "The two-year validity period applies to most schemes but can vary by scheme; confirm in the latest Malaysian Halal Certification Procedure Manual (MPPHM)."
   - "Tempoh pengeluaran sijil (dinyatakan 30 hari) — sahkan versi terkini Piagam Pelanggan JAKIM."
-  - "Angka industri (9,162 pemegang sijil, ~1,600 pengeksport pada 16 Januari 2025; >70% bukan Bumiputera) — sahkan terhadap penerbitan HDC/Bernama terkini kerana angka boleh berubah."
+  - "The industry figures (9,162 certificate holders, ~1,600 exporters as of 16 January 2025; >70% non-Bumiputera) — confirm against the latest HDC/Bernama publications, as the figures can change."
 
 updated: 2026-08-01
 sources:

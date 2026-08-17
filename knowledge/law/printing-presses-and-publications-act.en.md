@@ -40,10 +40,10 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Sahkan bahawa penomboran seksyen yang dirujuk (3, 5, 6, 7, 12, 13, 13A, 13B) kekal sama dalam teks Akta 301 yang berkuat kuasa hari ini selepas pindaan 2012 dan mana-mana pindaan berikutnya."
-  - "Sahkan tarikh dan nombor rujukan pindaan 2012 (dilaporkan sebagai Akta A1436, berkuat kuasa 15 Julai 2012) terhadap Warta Kerajaan rasmi."
-  - "Sahkan butiran perintah larangan 19 Disember 2024 terhadap enam judul terhadap teks perintah rasmi dalam Warta, bukan hanya laporan berita Bernama."
-  - "Sahkan tarikh dan status perundangan majlis media 2025 (dilaporkan diluluskan Parlimen 26 Februari 2025) terhadap rekod Parlimen atau Warta rasmi."
+  - "Confirm that the referenced section numbering (3, 5, 6, 7, 12, 13, 13A, 13B) remains the same in the text of Act 301 in force today after the 2012 amendment and any subsequent amendments."
+  - "Confirm the date and reference number of the 2012 amendment (reported as Act A1436, in force 15 July 2012) against the official Government Gazette."
+  - "Confirm the details of the 19 December 2024 banning order against six titles against the text of the official order in the Gazette, not just the Bernama news report."
+  - "Confirm the date and legislative status of the 2025 media council (reported as passed by Parliament on 26 February 2025) against parliamentary records or the official Gazette."
 revisions:
   - version: "01.00"
     date: 2026-08-07

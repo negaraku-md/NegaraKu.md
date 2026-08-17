@@ -48,9 +48,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Angka prestasi AKPK (hampir 1.4 juta individu; kira-kira 495,000 peminjam PPK; hampir 60,000 selesai pinjaman) adalah setakat Disember 2024 dari petikan akhbar MOF — sahkan terhadap laporan tahunan AKPK/BNM terkini apabila tersedia."
-  - "Kriteria kelayakan penuh PPK (cth. jumlah hutang minimum, tempoh tunggakan minimum, syarat pendapatan boleh guna bersih positif) — sahkan terus dengan AKPK kerana butiran khusus mungkin berubah."
-  - "Langkah proses permohonan PPK — sahkan terhadap laman rasmi AKPK kerana aliran proses boleh dikemas kini dari semasa ke semasa."
+  - "The AKPK performance figures (almost 1.4 million individuals; about 495,000 PPK borrowers; nearly 60,000 who completed their loans) are as at December 2024 from an MOF press citation — confirm against the latest AKPK/BNM annual report when available."
+  - "The full eligibility criteria for the PPK (e.g. minimum total debt, minimum arrears period, positive net disposable income requirement) — confirm directly with AKPK as the specific details may change."
+  - "The steps in the DMP application process — confirm against the official AKPK website, as the process flow can be updated from time to time."
 
 updated: 2026-08-08
 sources:

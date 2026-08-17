@@ -47,8 +47,8 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Sama ada pindaan selepas 1 Disember 2012 (portal rasmi Pejabat Peguam Negara menyenaraikan versi sehingga November 2024) mengubah bilangan atau kandungan mana-mana seksyen yang dirujuk; semak terhadap teks rasmi terkini di lom.agc.gov.my."
-  - "Kata-kata tepat versi Bahasa Melayu bagi setiap seksyen yang dipetik — angka dan huraian dalam draf ini disahkan terhadap teks Inggeris cetakan semula, manakala artikel ini berbahasa Melayu (master ms)."
+  - "Whether amendments after 1 December 2012 (the official Attorney General's Chambers portal lists versions up to November 2024) changed the numbering or content of any section referenced; check against the latest official text at lom.agc.gov.my."
+  - "The exact wording of the Malay-language version of each cited section — the numbers and descriptions in this draft were verified against the English reprint text, whereas this article is in Malay (master ms)."
   - "Tarikh cetakan semula rasmi terkini serta pautan PDF muat turun rasmi dari portal Pejabat Peguam Negara untuk rujukan arkib (portal menyenaraikan versi tetapi tidak mendedahkan pautan PDF langsung)."
 
 updated: 2026-08-07

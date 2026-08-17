@@ -43,9 +43,9 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Tafsiran simbolik Intrudu sebagai 'penyucian dosa' — amalan menyimbah air dan masanya (Ahad sebelum Rabu Abu) disahkan oleh The Star, tetapi makna penyucian/pembasuhan dosa hanya muncul dalam sumber blog/media sosial, bukan sumber utama yang berwibawa; perlu disahkan atau digugurkan."
+  - "The symbolic interpretation of Intrudu as 'cleansing of sin' — the water-splashing practice and its timing (the Sunday before Ash Wednesday) is confirmed by The Star, but the cleansing/washing-away-of-sin meaning appears only in blog/social-media sources, not authoritative primary sources; needs to be confirmed or dropped."
   - "Kronologi pembinaan Perkampungan Portugis (kira-kira 28 ekar; 10 rumah menjelang awal 1930-an berkembang kepada kira-kira 60) bersumberkan ExpatGo (sekunder) — wajar disahkan silang dengan rekod kolonial/arkib."
-  - "Anggaran 'kurang daripada 100 penutur fasih di Singapura' dan pengelasan 'terancam kritikal' — sahkan tahun rujukan dan takrif yang digunakan penyelidik."
+  - "The estimate of 'fewer than 100 fluent speakers in Singapore' and the 'critically endangered' classification — confirm the reference year and the definition used by researchers."
 revisions:
   - version: "01.00"
     date: 2026-08-01

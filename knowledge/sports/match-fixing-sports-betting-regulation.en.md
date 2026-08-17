@@ -40,9 +40,9 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Tajuk rasmi penuh dalam Bahasa Melayu bagi Pool Betting Act 1967 (Akta 384) seperti diterbitkan oleh Pejabat Peguam Negara; artikel menggunakan 'Akta Pertaruhan Kolam 1967'."
-  - "Skop tepat kesalahan berkaitan di bawah Akta SPRM 2009 selain Seksyen 16 dan 17 (rujukan Seksyen 20-23 dalam draf terdahulu dikeluarkan kerana belum disahkan terhadap teks statut)."
-  - "Status semasa rayuan FAM kepada AFC/FIFA bagi pihak enam pemain yang menjalani larangan seumur hidup."
+  - "The full official Malay title of the Pool Betting Act 1967 (Act 384) as published by the Attorney General's Chambers; the article uses 'Akta Pertaruhan Kolam 1967'."
+  - "The exact scope of related offences under the SPRM Act 2009 besides Sections 16 and 17 (the reference to Sections 20-23 in an earlier draft was removed as not yet confirmed against the statutory text)."
+  - "The current status of FAM's appeal to AFC/FIFA on behalf of the six players serving a lifetime ban."
   - "Bilangan tepat dan kedudukan pendakwaan berkaitan pengaturan perlawanan selepas 1994."
 revisions:
   - version: "01.00"

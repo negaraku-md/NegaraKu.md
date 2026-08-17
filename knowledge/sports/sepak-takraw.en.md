@@ -52,8 +52,8 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Tahun penubuhan ISTAF — laman rasmi ISTAF menyebut 1982, manakala Wikipedia dan kebanyakan sumber sekunder menyebut 1988 (berkembang daripada Asian Sepaktakraw Federation/ASTAF). Percanggahan primer-sekunder ini tidak dapat diselaraskan; badan artikel tidak menyatakan sebarang tahun. Status PSM sebagai ahli pengasas telah disahkan."
-  - "Tarikh penubuhan PSM (rujukan carian menyebut persidangan awal 28 Januari 1960 di Pulau Pinang, diikuti perlembagaan rasmi 25 Jun 1960) belum disahkan daripada sumber rasmi/primer PSM dan sengaja tidak dinyatakan dalam badan artikel."
+  - "The founding year of ISTAF — the official ISTAF site says 1982, while Wikipedia and most secondary sources say 1988 (developed from the Asian Sepaktakraw Federation/ASTAF). This primary-secondary discrepancy cannot be reconciled; the body of the article does not state any year. PSM's status as a founding member has been confirmed."
+  - "The founding date of PSM (search references mention an initial conference on 28 January 1960 in Penang, followed by the official constitution on 25 June 1960) has not been confirmed from official/primary PSM sources and is deliberately not stated in the body of the article."
 
 updated: 2026-08-14
 sources:

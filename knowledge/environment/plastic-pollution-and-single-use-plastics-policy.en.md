@@ -46,10 +46,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Status tadbir urus rasmi Peta Jalan 2018-2030 — dokumen roadmap sendiri tidak menyebut kelulusan Kabinet; sahkan sama ada ia diluluskan Kabinet dan tarikhnya."
+  - "The official governance status of the 2018-2030 Roadmap — the roadmap document itself does not mention Cabinet approval; confirm whether it was approved by the Cabinet and the date."
   - "Status semasa skim EPR: adakah ia benar-benar menjadi mandatori bagi pembungkusan plastik pada 2026 seperti disasarkan (tarikh kini telah tiba)."
   - "Kadar caj beg plastik semasa mengikut negeri, melebihi minimum 20 sen (kadar berubah dari semasa ke semasa)."
-  - "Sama ada sasaran interim 2025/2030 dan sasaran 100% menjelang 2050 masih kekal di bawah Kementerian Sumber Asli dan Kelestarian Alam (NRES)."
+  - "Whether the interim 2025/2030 targets and the 100% target by 2050 still stand under the Ministry of Natural Resources and Environmental Sustainability (NRES)."
 
 updated: 2026-07-28
 sources:

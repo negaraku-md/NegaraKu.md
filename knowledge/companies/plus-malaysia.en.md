@@ -47,9 +47,9 @@ revisions:
 updated: 2026-07-28
 
 verificationNeeded:
-  - "Panjang tepat Lebuh Raya Utara-Selatan dalam km — sumber tidak konsisten (772 km berbanding 848 km) dan tiada sumber primer/berautoriti yang disahkan; figura km khusus telah dikeluarkan sementara menunggu pengesahan."
+  - "The exact length of the North-South Expressway in km — sources are inconsistent (772 km versus 848 km) and no primary/authoritative source has been verified; the specific km figure has been removed pending confirmation."
   - "Tarikh pengenalan pertama kad Touch 'n Go — sumber rasmi Touch 'n Go hanya mengesahkan tahun 1997, bukan tarikh (hari/bulan) tepat."
-  - "Sebarang butiran integrasi MyPLUS / MYJalan (KKR) dan tahunnya — dakwaan produk-dan-tarikh telah dikeluarkan kerana tiada sumber; sahkan sebelum ditambah semula."
+  - "Any details of MyPLUS / MYJalan (KKR) integration and its year — the product-and-date claim was removed for lack of a source; confirm before adding it back."
   - "Pecahan pengurangan tol 18% mengikut setiap lebuh raya — contoh sen/km (13.6 kepada 11.15) yang disumberkan hanya untuk Lebuh Raya Utara-Selatan."
 
 sources:

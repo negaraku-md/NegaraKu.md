@@ -46,9 +46,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Ejaan dan butiran penuh KRIS: sumber menyebut 'Kesatuan Rakyat Indonesia Semenanjung' (juga dieja KERIS), ditubuhkan Julai 1945; sahkan ejaan rasmi dan peranan Dr. Burhanuddin al-Helmy dengan sumber sejarah primer."
-  - "Penyertaan wanita Melayu dalam demonstrasi anti-Malayan Union 1946 (mis. ucapan di Kuala Kangsar, Angkatan Wanita Sedar) — didokumenkan di tempat lain tetapi tidak disahkan terhadap sumber yang dipetik; perlu sumber primer/akademik sebelum dinyatakan semula."
-  - "Butiran simbol berkabung (kain/ikat putih, sama ada dililit pada songkok) — kini bersandar pada sumber berita sekunder; sahkan dengan laporan akhbar sezaman atau kajian akademik."
+  - "The spelling and full details of KRIS: the source mentions 'Kesatuan Rakyat Indonesia Semenanjung' (also spelt KERIS), established July 1945; confirm the official spelling and the role of Dr. Burhanuddin al-Helmy with primary historical sources."
+  - "The participation of Malay women in the 1946 anti-Malayan Union demonstrations (e.g. the speech at Kuala Kangsar, Angkatan Wanita Sedar) — documented elsewhere but not verified against the cited sources; a primary/academic source is needed before restating it."
+  - "The details of the mourning symbol (a white cloth/band, whether wrapped around the songkok) — currently rely on secondary news sources; confirm with contemporary newspaper reports or academic studies."
   - "Angka penduduk (kira-kira dua juta Melayu di Tanah Melayu; puluhan juta di Kepulauan Indonesia) — sahkan angka tepat dengan sumber demografi zaman itu."
   - "Julat tarikh pendudukan Jepun (1942-1945): sahkan tarikh permulaan/penamat yang tepat (kejatuhan Singapura 15 Februari 1942; penyerahan Jepun Ogos-September 1945) mengikut keperluan petikan."
 

@@ -51,11 +51,11 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Komposisi kaum peneroka Lurah Bilut: Kertas Putih FELDA 2019 mencatat 67.0% Melayu dan 33.0% kaum lain, tetapi laporan akhbar sezaman (mis. New Straits Times, 2019) mencatat 404 Melayu, 163 Cina dan 49 India (≈ 65.6% Melayu). Sahkan pecahan tepat sebelum menyatakan sebarang peratusan."
+  - "The ethnic composition of Lurah Bilut settlers: the FELDA 2019 White Paper records 67.0% Malay and 33.0% other races, but contemporary press reports (e.g. New Straits Times, 2019) record 404 Malays, 163 Chinese and 49 Indians (≈ 65.6% Malay). Confirm the exact breakdown before stating any percentage."
   - "Garis masa kemasukan peneroka Lurah Bilut: penerokaan/pembukaan tanah bermula 1958 tetapi peneroka dilaporkan mula ditempatkan secara berperingkat dari sekitar 1959. Sahkan tarikh sebenar kemasukan penuh 616 peneroka."
-  - "Purata pendapatan peneroka RM591 (1980) → RM2,336 (2016) adalah angka pendapatan bulanan purata dalam Kertas Putih FELDA 2019; terbitan kerajaan lain memetik angka berbeza bagi tahun/metrik lain. Sahkan takrif dan tempoh sebelum membandingkan."
-  - "Angka awal Ayer Lanas (1,620 hektar, 1957), Lurah Bilut (2,631 hektar) dan Taib Andak (3,385 hektar; 628 peneroka) berpunca daripada Kertas Putih FELDA 2019; sahkan silang dengan rekod tanah rasmi jika ketepatan kritikal."
-  - "Fasa FELDA berhenti membuka tanah rancangan/mengambil peneroka baharu (lazimnya dikaitkan dengan awal 1990-an) tidak disahkan oleh sumber yang dipetik; sahkan tarikh sebelum menyatakannya."
+  - "The average settler income of RM591 (1980) → RM2,336 (2016) are average monthly income figures in the FELDA White Paper 2019; other government publications cite different figures for other years/metrics. Confirm the definitions and periods before comparing."
+  - "The early figures for Ayer Lanas (1,620 hectares, 1957), Lurah Bilut (2,631 hectares) and Taib Andak (3,385 hectares; 628 settlers) come from the 2019 FELDA White Paper; cross-check against official land records if accuracy is critical."
+  - "The phase in which FELDA stopped opening new settlement land/taking in new settlers (commonly associated with the early 1990s) is not confirmed by the cited sources; confirm the date before stating it."
   - "Kebanyakan figura kewangan dalam artikel ini bertarikh sehingga 2018–2019 (Kertas Putih FELDA 2019); semak penyata kewangan terkini FELDA untuk kedudukan semasa."
 
 updated: 2026-08-01

@@ -51,10 +51,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Kekerapan tahunan pemeriksaan e-hailing perlu disahkan terus dengan garis panduan rasmi PUSPAKOM (Garis Panduan Pemeriksaan E-Hailing dalam bentuk PDF imbasan tidak dapat dibaca automatik; kini disandarkan pada Paul Tan dan Grab)."
+  - "The annual frequency of e-hailing inspections needs to be confirmed directly with official PUSPAKOM guidelines (the E-Hailing Inspection Guidelines in scanned-PDF form cannot be read automatically; currently relying on Paul Tan and Grab)."
   - "Sama ada ambang 'tiga tahun ke atas' dikira dari tarikh pendaftaran atau tahun pembuatan."
-  - "Butiran kompaun/saman JPJ di bawah Akta Pengangkutan Jalan 1987 (tiada nombor seksyen atau jumlah RM disahkan dari sumber primer)."
-  - "Kod pemeriksaan tepat (B1, B3, B4) yang tidak ditakrifkan dalam sumber yang disemak; jadual hanya meliputi kod yang disahkan (B2, B5, B6, B7)."
+  - "Details of JPJ compounds/summonses under the Road Transport Act 1987 (no section number or RM amount verified from a primary source)."
+  - "The exact inspection codes (B1, B3, B4) that are not defined in the sources reviewed; the table only covers the confirmed codes (B2, B5, B6, B7)."
 
 updated: 2026-08-08
 sources:

@@ -43,10 +43,10 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Nama tepat (verbatim) tiga tunjang Kertas Putih Pertahanan — Pencegahan Sepusat (Concentric Deterrence), Pertahanan Menyeluruh (Comprehensive Defence) dan Perkongsian Boleh Dipercayai (Credible Partnerships) — perlu disahkan terus daripada dokumen Kertas Putih Pertahanan; laman pendaratan MINDEF yang dirujuk memaparkan label berbeza."
+  - "The exact (verbatim) names of the three pillars of the Defence White Paper — Pencegahan Sepusat (Concentric Deterrence), Pertahanan Menyeluruh (Comprehensive Defence) and Perkongsian Boleh Dipercayai (Credible Partnerships) — need to be confirmed directly from the Defence White Paper document; the referenced MINDEF landing page displays different labels."
   - "Ketersediaan salinan rasmi .mil.my (legal.airforce.mil.my) bagi Akta 77 — kembali HTTP 503 semasa semakan; portal AGC digunakan sebagai sumber rasmi utama."
   - "Senarai pemegang jawatan semasa Ahli Majlis Angkatan Tentera dan pegawai kanan MINDEF perlu disemak kerana ia berubah dari semasa ke semasa."
-  - "Butiran program latihan warganegara/khidmat negara semasa (jika ada) perlu disahkan daripada sumber dasar terkini sebelum sebarang angka disebut."
+  - "The details of the current citizen training / national service programme (if any) need to be confirmed from the latest policy sources before any figures are stated."
 revisions:
   - version: "01.00"
     date: 2026-08-01

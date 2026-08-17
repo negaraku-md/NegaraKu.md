@@ -40,12 +40,12 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Tarikh pelantikan Ketua Pegawai Eksekutif Ahmad Zulqarnain Onn (dilaporkan berkuat kuasa 19 Februari 2024) — tidak diliputi oleh mana-mana sumber yang disenaraikan."
-  - "Tarikh penubuhan 1 Oktober 1951 dan rujukan Ordinan KWSP 1951 — fakta institusi/perundangan tanpa sumber utama yang di-fetch; sahkan dengan penerbitan rasmi KWSP atau Warta Kerajaan."
-  - "Rujukan Akta KWSP 1991 dan penempatan KWSP di bawah Kementerian Kewangan — sahkan dengan teks akta atau laman rasmi KWSP."
+  - "The appointment date of Chief Executive Officer Ahmad Zulqarnain Onn (reported to take effect on 19 February 2024) — not covered by any of the listed sources."
+  - "The establishment date of 1 October 1951 and the reference to the KWSP Ordinance 1951 — institutional/legislative facts without a fetched primary source; confirm with an official KWSP publication or the Government Gazette."
+  - "The reference to the EPF Act 1991 and the placement of KWSP under the Ministry of Finance — confirm with the text of the act or the official KWSP website."
   - "Bulan pelancaran Simpanan Shariah (dilaporkan Januari 2017) — katalog data terbuka menunjukkan dividen Shariah bermula 2017, tetapi bulan tepat belum disahkan dengan sumber utama."
-  - "Angka aset pelaburan 2023 (RM1.13 trilion) yang digunakan untuk pengiraan pertumbuhan — sahkan terhadap penyata kewangan rasmi KWSP."
-  - "Jumlah pendapatan pelaburan mengikut kelas aset dalam RM (bukan hanya % dan ROI) — sahkan dengan Laporan Tahunan / penyata rasmi KWSP 2024."
+  - "The 2023 investment-assets figure (RM1.13 trillion) used for the growth calculation — confirm against KWSP's official financial statements."
+  - "Total investment income by asset class in RM (not just % and ROI) — confirm against the KWSP 2024 Annual Report / official statements."
 revisions:
   - version: "01.00"
     date: 2026-07-28

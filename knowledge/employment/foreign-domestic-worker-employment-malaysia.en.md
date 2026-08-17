@@ -52,7 +52,7 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Kadar levi tahunan semasa bagi pembantu rumah asing (berbeza mengikut sektor/wilayah dan boleh berubah) — sahkan dengan Jabatan Imigresen sebelum menyatakan angka."
+  - "The current annual levy rate for foreign domestic helpers (varies by sector/region and may change) — confirm with the Immigration Department before stating a figure."
 
 updated: 2026-08-08
 sources:

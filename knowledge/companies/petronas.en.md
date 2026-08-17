@@ -45,9 +45,9 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Angka kewangan tepat 2024 (hasil ~RM320 bilion, untung bersih ~RM55.1 bilion, dan perbandingan 2023 RM343.6 bilion / RM80.7 bilion) — sahkan terhadap Keputusan Kewangan Kumpulan PETRONAS FY2024 yang diumumkan 5 Februari 2025 (dokumen PDF rasmi)."
+  - "The exact 2024 financial figures (revenue ~RM320 billion, net profit ~RM55.1 billion, and the 2023 comparison of RM343.6 billion / RM80.7 billion) — confirm against the PETRONAS Group Financial Results FY2024 announced on 5 February 2025 (official PDF document)."
   - "Anggaran hasil 'sehingga RM20 bilion setahun' untuk Sarawak — anggaran penganalisis, bukan angka rasmi; sahkan sumber dan asas pengiraan."
-  - "Peratusan kargo LNG Petronas yang berasal daripada atau melalui Sarawak — angka spesifik telah dibuang kerana tiada sumber utama yang disahkan."
+  - "The percentage of Petronas LNG cargo originating from or passing through Sarawak — the specific figure was removed because there is no confirmed primary source."
   - "Tarikh dan kandungan tepat perjanjian tambahan royalti 5% (1975-76) antara Petronas dan negeri-negeri."
   - "Status terkini rundingan dan sebarang tindakan undang-undang Petronas-PETROS selepas tarikh sumber (Mei 2025)."
 revisions:

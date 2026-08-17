@@ -44,7 +44,7 @@ version: "01.00"
 verificationNeeded:
   - "Siling harga dan had pendapatan setiap skim disemak semula dari semasa ke semasa; sahkan angka terkini di portal rasmi sebelum memohon."
   - "Harga Rumah Selangorku berbeza antara rumah bertingkat (strata) dan rumah bertanah; angka dalam panduan ini merujuk unit rumah bertingkat mengikut FAQ LPHS — sahkan harga mengikut jenis projek di eHartanah LPHS."
-  - "Yuran tempahan PR1MA RM500 dikenakan bagi projek kediaman yang telah siap; sahkan susunan bayaran bagi projek dalam pembinaan."
+  - "The PR1MA booking fee of RM500 applies to completed residential projects; confirm the payment arrangement for projects under construction."
   - "Butiran jaminan SJKP/SJKP MADANI (jumlah jaminan RM500,000 / RM360,000, tempoh 35 tahun) perlu disahkan dengan portal SJKP rasmi."
 revisions:
   - version: "01.00"

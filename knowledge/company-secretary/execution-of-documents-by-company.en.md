@@ -51,9 +51,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Kedudukan di bawah Akta Syarikat 1965 yang dimansuhkan: sahkan sama ada cop mohor benar-benar diwajibkan untuk setiap syarikat (dakwaan ini telah dilembutkan kepada 'perubahan kedudukan' kerana tiada petikan sumber primer diperoleh; sumber yang dipetik hanya mengesahkan cop mohor kini pilihan di bawah Seksyen 61(1))."
+  - "The position under the repealed Companies Act 1965: confirm whether the common seal was genuinely mandatory for every company (this claim has been softened to 'a change in position' because no primary-source citation was obtained; the cited source only confirms that the common seal is now optional under Section 61(1))."
   - "Petikan verbatim Bahasa Inggeris SSM FAQ Part G telah disahkan byte-by-byte terhadap PDF SSM pada 2026-08-07; pengulas manusia digalakkan membuka semula PDF sebagai semakan akhir."
-  - "Keperluan penyempurnaan khusus semasa pihak berkuasa lain (contohnya Pejabat Tanah, bank) yang mungkin melangkaui Akta Syarikat 2016 — sahkan mengikut transaksi sebenar."
+  - "The specific execution requirements of other current authorities (for example the Land Office, banks) that may go beyond the Companies Act 2016 — confirm according to the actual transaction."
 
 updated: 2026-08-07
 sources:

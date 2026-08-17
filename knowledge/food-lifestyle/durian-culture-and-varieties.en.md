@@ -45,10 +45,10 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Nombor pendaftaran klon rasmi Jabatan Pertanian bagi Musang King (lazim disebut D197) dan Black Thorn (lazim disebut D200) — sahkan dengan senarai klon durian berdaftar rasmi DOA/MARDI, bukan sumber pasaran."
-  - "Jumlah klon durian berdaftar di Malaysia dan tahun bermulanya pendaftaran klon (dakwaan 'lebih 200 klon sejak 1930-an' telah dibuang kerana tiada sumber yang boleh disahkan)."
-  - "Tetingkap musim durian (musim besar sekitar Jun–Ogos dengan kemuncak Jun–Julai; musim kecil sekitar Disember–Januari) — sahkan dengan sumber rasmi MARDI/DOA."
-  - "Senarai penuh klon yang diluluskan untuk eksport durian segar ke China, termasuk kedudukan klon IOI (disebut oleh Fruitnet) — sahkan dengan pengumuman rasmi Jabatan Pertanian/GACC."
+  - "The Department of Agriculture's official clone registration numbers for Musang King (commonly referred to as D197) and Black Thorn (commonly referred to as D200) — confirm against the official DOA/MARDI list of registered durian clones, not market sources."
+  - "The total number of registered durian clones in Malaysia and the year clone registration began (the claim of 'more than 200 clones since the 1930s' was removed because there is no verifiable source)."
+  - "The durian season windows (the main season around June–August with a peak in June–July; the minor season around December–January) — confirm with official MARDI/DOA sources."
+  - "The full list of clones approved for fresh-durian export to China, including the standing of the IOI clone (mentioned by Fruitnet) — confirm with an official announcement from the Department of Agriculture/GACC."
 revisions:
   - version: "01.00"
     date: 2026-08-01

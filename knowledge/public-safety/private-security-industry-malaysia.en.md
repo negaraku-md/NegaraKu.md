@@ -48,8 +48,8 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Angka Seksyen 3 (tinggi/berat pengawal lelaki & wanita, umur maksimum 60, pengesahan perubatan 56+, ujian air kencing 7 hari, latihan dalaman seminggu, kursus asas 3 bulan, komposisi 1/5 bekas polis/tentera, pengecualian Nepal) perlu disahkan oleh manusia terhadap dokumen rasmi KDN 'Syarat-Syarat Lesen Di Bawah Seksyen 3 Akta No. 27/71'. Angka telah disemak verbatim terhadap salinan dokumen tersebut yang diterbitkan semula oleh persatuan penduduk; salinan KDN kanonik (PDF asal) belum dicapai secara langsung."
-  - "Struktur yuran lesen dan denda di bawah Akta 27 sengaja tidak disertakan — sahkan kadar semasa terus dengan KDN."
+  - "The Section 3 figures (male & female guard height/weight, maximum age 60, medical certification at 56+, 7-day urine test, one week of in-house training, 3-month basic course, composition of 1/5 ex-police/military, Nepal exemption) need to be verified by a human against the official KDN document 'Syarat-Syarat Lesen Di Bawah Seksyen 3 Akta No. 27/71'. The figures have been checked verbatim against a copy of that document republished by a residents' association; the canonical KDN copy (the original PDF) has not been accessed directly."
+  - "The licence fee and penalty structure under Act 27 is deliberately not included — confirm the current rates directly with KDN."
   - "Senarai majikan lazim polis bantuan selain universiti (cth. bank, lapangan terbang, KTMB, badan berkanun) hanya kes universiti (UIAM) yang bersumber; contoh lain perlu disahkan."
 updated: 2026-08-01
 sources:

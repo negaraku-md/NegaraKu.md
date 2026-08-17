@@ -52,9 +52,9 @@ revisions:
 
 verificationNeeded:
   - "Kadar yuran memfailkan tuntutan di Tribunal (mis. Borang 1) — angka RM tepat sengaja ditinggalkan; sahkan dengan Peraturan-Peraturan Pengurusan Strata (Tribunal Pengurusan Strata) 2015."
-  - "Pemetaan seksyen kumpulan wang penjelas 10%: Seksyen 52(3) menyebut 'bersamaan 10%', manakala Seksyen 61(3) (dan 68(3) bagi anak-MC) menyebut 'tidak kurang 10% melainkan ditetapkan lebih tinggi di mesyuarat agung' — sahkan peruntukan yang terpakai bagi konteks pembaca."
-  - "Peruntukan tepat bagi larangan wakil peguam dan pengecualiannya, serta tempoh/alasan mencabar award di Mahkamah Tinggi (Akta 757 / kaedah Tribunal)."
-  - "Skop kuasa penyiasatan dan pendakwaan Pesuruhjaya Bangunan (COB) di bawah Akta 757 — sahkan seksyen berkaitan."
+  - "The section mapping of the 10% sinking fund: Section 52(3) says 'equal to 10%', while Section 61(3) (and 68(3) for a subsidiary MC) says 'not less than 10% unless a higher amount is fixed at the general meeting' — confirm the provision that applies to the reader's context."
+  - "The exact provisions on the prohibition of legal representation and its exceptions, and the period/grounds for challenging an award in the High Court (Act 757 / Tribunal rules)."
+  - "The scope of the Commissioner of Buildings' (COB) investigation and prosecution powers under Act 757 — confirm the relevant sections."
 
 updated: 2026-08-08
 sources:

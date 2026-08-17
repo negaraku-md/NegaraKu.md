@@ -48,8 +48,8 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Sahkan tajuk penuh Bahagian XI dan XIIA terhadap cetakan semula rasmi terkini (semakan telah dibuat terhadap cetakan semula 'As at 15 October 2020')."
-  - "Sahkan senarai peruntukan Perkara 159(5) dan pengecualian Perkara 159(4) tidak berubah dalam mana-mana pindaan selepas cetakan semula 2020."
+  - "Confirm the full titles of Part XI and XIIA against the latest official reprint (the review was done against the reprint 'As at 15 October 2020')."
+  - "Confirm the list of Article 159(5) provisions and the Article 159(4) exception have not changed in any amendment after the 2020 reprint."
 updated: 2026-08-01
 sources:
   - title: "Federal Constitution (Reprint, As at 15 October 2020) — Article 4, Article 159, Article 160, Part XI"

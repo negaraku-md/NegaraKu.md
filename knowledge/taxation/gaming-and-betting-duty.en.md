@@ -46,10 +46,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Yuran lesen kasino tahunan RM150 juta (daripada RM120 juta) dan yuran lesen pengedar mesin RM50,000 (daripada RM10,000) — sahkan terhadap warta / Akta Kewangan Bajet 2019."
+  - "The annual casino licence fee of RM150 million (up from RM120 million) and the machine dealer licence fee of RM50,000 (up from RM10,000) — confirm against the gazette / the Budget 2019 Finance Act."
   - "Sahkan tiada kenaikan kadar duti kasino, mesin permainan, atau pertaruhan pool dalam mana-mana bajet selepas 2019."
   - "Sumbangan 10% keuntungan sebelum cukai kepada Majlis Sukan Negara — sahkan asas statutori semasa."
-  - "Pecahan tiket Sports Toto RM2 (16 sen, 14.72 sen, RM1.10, 4.39 sen SST) ialah satu contoh; nilai sebenar boleh berbeza mengikut permainan dan cabutan."
+  - "The RM2 Sports Toto ticket breakdown (16 sen, 14.72 sen, RM1.10, 4.39 sen SST) is one example; the actual values may differ by game and draw."
 
 updated: 2026-08-07
 sources:

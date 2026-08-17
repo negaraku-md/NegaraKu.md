@@ -46,8 +46,8 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Nombor seksyen tepat dalam Akta Wang Tak Dituntut 1965 (definisi, kewajipan serahan, bayaran balik) tidak disahkan daripada teks Akta — sahkan sebelum menambah rujukan seksyen."
-  - "Sama ada carian nama/nombor pengenalan di eGUMIS boleh dibuat tanpa mendaftar akaun — tidak disahkan daripada mana-mana sumber rasmi yang dibuka."
+  - "The exact section numbers in the Unclaimed Moneys Act 1965 (definitions, remittance obligation, refunds) are not verified from the text of the Act — confirm before adding section references."
+  - "Whether a name/identification-number search on eGUMIS can be done without registering an account — not confirmed from any official source that could be opened."
   - "Tahun pelancaran portal eGUMIS — hanya muncul dalam ringkasan sekunder, tidak disahkan daripada sumber rasmi."
 updated: 2026-08-08
 sources:

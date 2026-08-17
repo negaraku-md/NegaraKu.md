@@ -52,7 +52,7 @@ revisions:
 
 verificationNeeded:
   - "Glos 'maksud ringkas' setiap prinsip dalam jadual — rumusan pentafsiran editorial, patut disemak terhadap teks rasmi Jabatan Perpaduan Negara."
-  - "Sumber MKN 2024-09-24 hanya menyebut lima nilai secara prosa; ia tidak memerincikan tarikh 1970, pengisytihar, MAGERAN atau 13 Mei — spesifik itu dibawa oleh trivia MKN 2022 + MyGov. Pertimbang menambah satu sumber primer yang memerinci/menghurai lima prinsip."
+  - "The MKN 2024-09-24 source only mentions the five values in prose; it does not detail the 1970 date, the proclaimer, MAGERAN or 13 May — those specifics are carried by MKN 2022 trivia + MyGov. Consider adding a primary source that details/explains the five principles."
   - "Dakwaan 'lima prinsip lazimnya dicetak di kulit belakang buku latihan sekolah' — pengetahuan umum, belum disahkan sumber."
   - "Lagu Negaraku 'dilindungi di bawah undang-undang lagu kebangsaan' (rujukan Akta Lagu Kebangsaan 1968) — belum disahkan sumber primer."
   - "Bingkai 'kesilapan lazim' bersifat pedagogi; kekerapan sebenar kesilapan tidak diukur oleh mana-mana sumber."

@@ -51,11 +51,11 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Tarikh tepat saman Kelantan terhadap Petronas dan Kerajaan Persekutuan serta tarikh ia ditarik balik (tarikh spesifik telah dibuang kerana tiada dalam mana-mana sumber yang dipetik)."
-  - "Tarikh dan bentuk instrumen permulaan kuat kuasa Akta 144 (rujukan nombor Warta P.U.(B) telah dibuang kerana tidak dapat disahkan terhadap sumber utama)."
-  - "Usul Dewan Undangan Negeri Sarawak menolak Akta Laut Wilayah 2012 (dilaporkan Disember 2015 oleh Adil Legal) — sahkan terhadap rekod DUN Sarawak."
+  - "The exact date of Kelantan's suit against Petronas and the Federal Government as well as the date it was withdrawn (the specific dates were removed because they were not in any of the cited sources)."
+  - "The date and form of the commencement instrument of Act 144 (the P.U.(B) gazette number reference was removed because it could not be confirmed against a primary source)."
+  - "The Sarawak State Legislative Assembly motion rejecting the Territorial Sea Act 2012 (reported in December 2015 by Adil Legal) — confirm against the Sarawak DUN records."
   - "Terma tepat perjanjian penyerahhakan 1975-76, termasuk kadar 5%+5%, terhadap dokumen penyerahhakan asal; sumber Low & Partners menyebut kadar ini tetapi tersilap menamakan Akta sebagai 'Petroleum Development Act 1975'."
-  - "Wujud atau tidak sebarang 'Perjanjian Penyelesaian Komersial' berasingan antara Petronas dan Sarawak (selain penyelesaian cukai jualan Mei 2020) dan tarikhnya."
+  - "Whether any separate 'Commercial Settlement Agreement' exists between Petronas and Sarawak (apart from the May 2020 sales-tax settlement) and its date."
 
 updated: 2026-08-01
 sources:

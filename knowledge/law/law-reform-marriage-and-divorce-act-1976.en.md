@@ -44,9 +44,9 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Kod borang JPN.KC02 (permohonan/pendaftaran perkahwinan) dan JPN.KC01C (lesen perkahwinan khas/ekspres untuk mengetepikan notis 21 hari): disahkan melalui sumber kerajaan negeri (Pejabat Daerah Serian, Sarawak), tetapi sahkan sekali lagi terhadap portal rasmi JPN kerana kod borang boleh dikemas kini."
-  - "Klasifikasi sensitivity kekal 'none' seperti diarahkan, tetapi artikel menyentuh peruntukan pemelukan Islam (seksyen 51, 51A) dan pembahagian bidang kuasa sivil vs Syariah — topik antara agama yang sensitif di Malaysia. Peninjau manusia patut menilai semula sama ada tag 'none' memadai."
-  - "Seksyen 12 (ibu kini mempunyai kuasa persetujuan yang sama dengan bapa bagi perkahwinan anak di bawah umur 21 tahun): sahkan perkataan tepat pindaan; sumber sekunder mengesahkan pihak yang boleh memberi persetujuan diperluas tetapi tidak semuanya menyatakan kesetaraan ibu secara eksplisit."
+  - "The form codes JPN.KC02 (marriage application/registration) and JPN.KC01C (special/express marriage licence to waive the 21-day notice): confirmed via a state government source (Serian District Office, Sarawak), but re-confirm against the official JPN portal because form codes may be updated."
+  - "The sensitivity classification remains 'none' as directed, but the article touches on provisions on conversion to Islam (sections 51, 51A) and the division of civil vs Syariah jurisdiction — an inter-religious topic that is sensitive in Malaysia. A human reviewer should reassess whether the 'none' tag is adequate."
+  - "Section 12 (a mother now has the same consent power as a father for the marriage of a child under the age of 21): confirm the exact wording of the amendment; secondary sources confirm the parties who may give consent were expanded but not all state the mother's equal standing explicitly."
 revisions:
   - version: "01.00"
     date: 2026-08-07

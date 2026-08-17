@@ -47,7 +47,7 @@ reviewed: "2026-08-14"
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Asal-usul import daging lembu (negara pembekal utama): dilembutkan kerana tiada sumber primer diambil dalam pas ini — sahkan terhadap data perdagangan DOSM atau MAQIS jika mahu menamakan negara."
+  - "Origin of beef imports (the main supplier countries): softened because no primary source was captured in this pass — confirm against DOSM or MAQIS trade data if naming specific countries."
 revisions:
   - version: "01.00"
     date: 2026-08-14

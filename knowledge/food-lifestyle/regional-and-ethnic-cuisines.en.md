@@ -44,11 +44,11 @@ reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 verificationNeeded:
-  - "Asal usul dan etimologi masakan Peranakan/Nyonya — istilah Baba/Nyonya dan cerita perkahwinan campur peniaga Cina dengan wanita tempatan di Negeri-Negeri Selat; perlu sumber berwibawa (bukan Wikipedia)."
-  - "Dakwaan masakan pantai timur (Kelantan/Terengganu) 'lebih manis' dan penggunaan gula kabung/gula melaka serta budu; perlu sumber."
+  - "The origin and etymology of Peranakan/Nyonya cuisine — the terms Baba/Nyonya and the story of intermarriage between Chinese traders and local women in the Straits Settlements; needs an authoritative source (not Wikipedia)."
+  - "The claim that east coast (Kelantan/Terengganu) cuisine is 'sweeter' and the use of gula kabung/gula melaka and budu; needs a source."
   - "Asal usul masakan Mamak (pendatang Muslim-India, ramainya dari Tamil Nadu, zaman kolonial British), asal nasi kandar di Pulau Pinang, dan asal roti canai India Selatan; perlu sumber."
-  - "Sejarah kehadiran Portugis di Melaka dan pembentukan masyarakat Kristang/Eurasia, termasuk tahun/abad yang tepat (kini dinyatakan tanpa angka); perlu sumber primer/sejarah."
-  - "Etimologi 'debal' daripada 'devil' (kari syaitan) — perlu sumber linguistik; dan tradisi kari debal dimasak daripada lebihan hidangan Krismas — perlu disahkan sebagai tradisi, bukan makna perkataan."
+  - "The history of the Portuguese presence in Melaka and the formation of the Kristang/Eurasian community, including the exact year/century (currently stated without a figure); requires primary/historical sources."
+  - "The etymology of 'debal' from 'devil' (devil's curry) — needs a linguistic source; and the tradition of curry debal being cooked from Christmas leftovers — needs to be confirmed as a tradition, not the meaning of the word."
   - "Butiran hidangan Sabah (hinava, tuhau, bosou, tuaran mee) dan status pengiktirafannya dalam program makanan warisan; belum ada sumber sepadan dalam senarai sumber."
 version: "01.00"
 revisions:

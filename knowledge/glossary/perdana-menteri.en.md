@@ -51,7 +51,7 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Status akhir Rang Undang-Undang Perlembagaan Persekutuan (Pindaan) 2026 (had tempoh agregat 10 tahun) — sahkan sama ada telah diluluskan dua pertiga dan diwartakan pada Warta Kerajaan / AGC."
+  - "The final status of the Federal Constitution (Amendment) Bill 2026 (the 10-year aggregate term limit) — confirm whether it has passed by a two-thirds majority and been gazetted in the Government Gazette / AGC."
   - "Perincian prosedur pindaan 2026 (subfasal 2A, 4A-4D, tarikh cetak biru 23 Feb 2026, bacaan kedua 2 Mac 2026) hanya berdasarkan teks verbatim PMO; sahkan terhadap teks rang undang-undang rasmi apabila tersedia."
 updated: 2026-08-01
 sources:

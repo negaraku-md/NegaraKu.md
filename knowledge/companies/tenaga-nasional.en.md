@@ -47,7 +47,7 @@ revisions:
 
 verificationNeeded:
   - "Angka portfolio tenaga boleh baharu (4.6 GW: 3.3 GW Semenanjung termasuk 2.5 GW hidro besar + 1.3 GW luar negara) — semak nilai terkini kerana kapasiti berubah dari semasa ke semasa."
-  - "Kiraan '11 juta pelanggan sehingga 30 September 2025' — sahkan tarikh rujukan dan angka pada laporan TNB terbaharu."
+  - "The count of '11 million customers as at 30 September 2025' — confirm the reference date and figure against the latest TNB report."
 updated: 2026-07-28
 sources:
   - title: "History — Tenaga Nasional Berhad"

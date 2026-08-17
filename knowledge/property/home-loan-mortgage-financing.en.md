@@ -52,10 +52,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Formula dan syarat pengeluaran maksimum KWSP Akaun Sejahtera (deposit / kurangkan pokok / ansuran bulanan) perlu disahkan pada halaman rasmi kwsp.gov.my; halaman rasmi wujud tetapi tidak dapat dicapai secara automatik semasa semakan."
+  - "The formula and conditions for the maximum KWSP Akaun Sejahtera withdrawal (deposit / reduce principal / monthly instalment) need to be confirmed on the official kwsp.gov.my page; the official page exists but could not be accessed automatically during the review."
   - "Had tempoh maksimum 35 tahun disokong oleh siaran akhbar BNM (2016), bukan dokumen dasar Pembiayaan Bertanggungjawab semasa — sahkan terhadap dokumen dasar terkini."
-  - "Ambang RM500,000 dan tarikh tamat 31 Disember 2027 bagi pengecualian duti setem Belanjawan 2026 perlu disahkan terhadap Akta Kewangan / warta rasmi apabila diterbitkan."
-  - "Margin 90% bagi rumah pertama/kedua ialah amalan pasaran bank (bukan had ditetapkan BNM) — sahkan kadar LTV semasa yang lazim ditawarkan bank."
+  - "The RM500,000 threshold and the 31 December 2027 end date for the Budget 2026 stamp-duty exemption need to be confirmed against the Finance Act / official gazette once published."
+  - "The 90% margin for a first/second home is a bank market practice (not a limit set by BNM) — confirm the current LTV rate usually offered by banks."
 
 updated: 2026-08-08
 sources:

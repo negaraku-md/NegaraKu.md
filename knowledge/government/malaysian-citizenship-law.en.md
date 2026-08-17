@@ -46,9 +46,9 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Status penuh proses perundangan Rang Undang-Undang Perlembagaan (Pindaan) 2024 selepas kelulusan Dewan Rakyat (17 Okt 2024): sahkan tarikh kelulusan Dewan Negara, tarikh perkenan Yang di-Pertuan Agong, dan tarikh pewartaan/kuat kuasa sebenar (kuat kuasa disasarkan pertengahan 2026)."
-  - "Tarikh kuat kuasa tepat pindaan Jadual Kedua Bahagian II (rujukan 'salah seorang ibu bapa') dan sama ada laluan peralihan Perkara 15(2) bagi anak sedia ada di bawah 18 tahun kekal terpakai selepas kuat kuasa."
-  - "Syarat pemastautin tetap (PR) bagi pemohon Perkara 15(1)/15(2) — sahkan amalan JPN semasa berbanding teks Perlembagaan, kerana syarat PR dinyatakan oleh portal dan bukan secara eksplisit dalam Perkara 15."
+  - "The full legislative status of the Constitution (Amendment) Bill 2024 after Dewan Rakyat approval (17 Oct 2024): confirm the Dewan Negara approval date, the date of the Yang di-Pertuan Agong's assent, and the actual gazetting/commencement date (commencement targeted for mid-2026)."
+  - "The exact effective date of the amendment to the Second Schedule Part II (the 'either parent' reference) and whether the Article 15(2) transitional pathway for existing children under 18 remains available after commencement."
+  - "The permanent resident (PR) requirement for applicants under Article 15(1)/15(2) — confirm current JPN practice against the Constitution text, because the PR requirement is stated by the portal and not explicitly in Article 15."
   - "Tahap sensitiviti metadata ditetapkan 'none' mengikut spesifikasi; memandangkan topik menyentuh ketiadaan kewarganegaraan dan peruntukan lampau berasaskan jantina, sahkan sama ada tahap ini wajar dinaikkan oleh penyemak manusia."
 revisions:
   - version: "01.00"

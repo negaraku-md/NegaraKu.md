@@ -45,7 +45,7 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Tarikh sebenar keputusan Sesi ke-47 Sub-Jawatankuasa Akreditasi (SCA) GANHRI yang mengesahkan semula taraf 'A' SUHAKAM — 9 Jun 2026 ialah tarikh Kenyataan Media No. 32-2026 (pengumuman SUHAKAM), bukan tarikh keputusan SCA yang disahkan; sahkan tarikh sesi terhadap laporan rasmi SCA/GANHRI."
+  - "The actual date of the decision at the 47th Session of the GANHRI Sub-Committee on Accreditation (SCA) that re-confirmed SUHAKAM's 'A' status — 9 June 2026 is the date of Media Statement No. 32-2026 (the SUHAKAM announcement), not the confirmed date of the SCA decision; confirm the session date against the official SCA/GANHRI report."
 revisions:
   - version: "01.00"
     date: 2026-08-01

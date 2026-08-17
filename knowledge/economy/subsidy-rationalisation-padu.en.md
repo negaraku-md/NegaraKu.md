@@ -43,7 +43,7 @@ reviewed: "2026-08-14"
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Peruntukan subsidi elektrik separuh pertama dan kos operasi PADU sengaja ditinggalkan kerana sumber utama tidak dapat disahkan; tambah hanya jika sumber rasmi diperoleh."
+  - "The first-half electricity subsidy allocation and PADU operating costs were deliberately omitted because the primary sources could not be verified; add only if an official source is obtained."
 revisions:
   - version: "01.00"
     date: 2026-08-14

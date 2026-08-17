@@ -41,8 +41,8 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Asma tidak dinamakan secara khusus dalam kedua-dua PDF JAS yang dirujuk (sumber menyebut warga tua, wanita hamil, kanak-kanak dan komplikasi jantung/paru-paru). Rujukan asma di sini ialah inferens editorial sebagai keadaan paru-paru — sahkan dengan sumber nasihat kesihatan rasmi JAS."
-  - "Band Kecemasan (>500) tidak diberi warna berasingan pada tolok rasmi JAS (warna hanya ditakrifkan sehingga Merbahaya). Sahkan sama ada satu warna rasmi wujud untuk band ini sebelum menetapkannya."
+  - "Asthma is not specifically named in either of the two JAS PDFs referenced (the sources mention the elderly, pregnant women, children and heart/lung complications). The reference to asthma here is an editorial inference as a lung condition — confirm with an official JAS health advisory source."
+  - "The Emergency band (>500) is not given a separate colour on the official JAS gauge (colours are defined only up to Hazardous). Confirm whether an official colour exists for this band before assigning one."
 revisions:
   - version: "01.00"
     date: 2026-07-28

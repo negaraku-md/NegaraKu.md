@@ -42,12 +42,12 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Tarikh dan majlis sebenar pengumuman kenaikan geran khas interim kepada RM600 juta (draf asal menyebut 12 September 2024) — sumber Bernama yang dipetik mengesahkan jumlah RM600 juta, berkuat kuasa 2025 dan kitaran semakan lima tahun, tetapi tidak mengesahkan tarikh pengumuman tertentu itu."
-  - "Pecahan 13 tuntutan selesai mengikut pentadbiran (dilaporkan media sebagai 9 di bawah kerajaan MADANI dan 4 sebelumnya) — tidak disahkan dalam sumber Bernama utama yang dipetik untuk tally 13/29, jadi pecahan itu ditanggalkan daripada teks."
+  - "The actual date and occasion of the announcement of the increase in the interim special grant to RM600 million (the original draft mentioned 12 September 2024) — the cited Bernama source confirms the RM600 million amount, effective 2025, and a five-year review cycle, but does not confirm that specific announcement date."
+  - "The breakdown of the 13 resolved claims by administration (reported by the media as 9 under the MADANI government and 4 previously) — not confirmed in the primary Bernama source cited for the 13/29 tally, so the breakdown was removed from the text."
   - "Angka semasa tuntutan selesai/dirundingkan (13 selesai, 16 dirundingkan) berubah mengikut masa; sahkan angka terkini pada tarikh penerbitan."
   - "Butiran undian bacaan kedua (200) dan ketiga (199) Rang Undang-Undang Perlembagaan (Pindaan) 2021 disahkan oleh Bernama; wajar disemak silang dengan Hansard rasmi Dewan Rakyat."
   - "Tarikh 8 September 2022 (MKMA63 menyokong 35 peratus kerusi) serta pecahan 78/56 kerusi — dipetik daripada Bernama tetapi belum disemak semula dalam pusingan pembetulan ini."
-  - "Kandungan penuh Akta A1642 (takrif 'Hari Malaysia' dalam Perkara 160 dan pindaan Perkara 161A) — sahkan dengan teks Akta di lom.agc.gov.my."
+  - "The full content of Act A1642 (the definition of 'Malaysia Day' in Article 160 and the amendment to Article 161A) — confirm with the text of the Act at lom.agc.gov.my."
 revisions:
   - version: "01.00"
     date: 2026-08-01

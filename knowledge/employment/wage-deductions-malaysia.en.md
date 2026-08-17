@@ -46,10 +46,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Sahkan setiap petikan subseksyen terhadap cetakan rasmi Akta 265 dari Pejabat Peguam Negara (agc.gov.my); rujukan utama yang digunakan di sini ialah teks cetakan kemas kini rasmi yang dihoskan di portal Kerajaan (mp.gov.my)."
-  - "Sahkan pengelasan caruman berkanun (KWSP/PERKESO/EIS/PCB) sebagai potongan di bawah Seksyen 24(2)(d) ('undang-undang bertulis lain')."
-  - "Sahkan syarat penuh pendahuluan gaji di bawah Seksyen 22 (had jumlah pendahuluan) sebelum diterbitkan."
-  - "Sahkan nuans perluasan Akta kepada semua pekerja mulai 1 Januari 2023 (sesetengah peruntukan masih tertakluk ambang) dengan JTKSM."
+  - "Confirm each subsection citation against the official print of Act 265 from the Attorney General's Chambers (agc.gov.my); the primary reference used here is the official updated print text hosted on the Government portal (mp.gov.my)."
+  - "Confirm the classification of statutory contributions (KWSP/PERKESO/EIS/PCB) as deductions under Section 24(2)(d) ('other written law')."
+  - "Confirm the full conditions for salary advances under Section 22 (limit on the advance amount) before publishing."
+  - "Confirm with JTKSM the nuance of the Act's extension to all employees from 1 January 2023 (some provisions are still subject to a threshold)."
 
 updated: 2026-08-08
 sources:

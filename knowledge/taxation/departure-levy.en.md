@@ -40,9 +40,9 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Sahkan kadar dan pengecualian masih terpakai pada 2026 — Panduan RMCD bertarikh 20 Ogos 2019; pastikan tiada pindaan kepada Akta Levi Pelepasan 2019 atau perintah-perintahnya sejak itu."
-  - "Sahkan bahawa pengecualian pengangkutan darat dan laut (peringkat pelaksanaan awal, di bawah kuasa Menteri Kewangan) masih berkuat kuasa pada 2026."
-  - "Sahkan prosedur tepat pendaftaran ejen dalam talian bagi pengendali asing yang tiada tempat perniagaan di Malaysia, serta pasangan borang DL-01 (pendaftaran) dan DL-02 (penyata pemungutan)."
+  - "Confirm the rates and exemptions still apply in 2026 — the RMCD Guide is dated 20 August 2019; make sure there have been no amendments to the Departure Levy Act 2019 or its orders since then."
+  - "Confirm that the exemption for land and sea transport (early implementation phase, under the authority of the Minister of Finance) is still in force in 2026."
+  - "Confirm the exact online agent registration procedure for foreign operators with no place of business in Malaysia, as well as the pairing of forms DL-01 (registration) and DL-02 (collection statement)."
 revisions:
   - version: "01.00"
     date: 2026-08-07

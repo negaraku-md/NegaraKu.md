@@ -47,11 +47,11 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Angka kewangan TK2021 (hasil ~RM4.67 bilion, keuntungan selepas cukai RM182.26 juta, jualan beras ~RM3.42 bilion / 73%) — sahkan terhadap laporan tahunan rasmi BERNAS; tidak dapat diverifikasi semula secara bebas dalam pas pembetulan ini."
-  - "Harga lantai belian padi khusus di Sabah dan Sarawak (dilaporkan kekal RM1,300 setan metrik) — sahkan angka dan tarikh berkuat kuasa terhadap pengumuman KPKM rasmi sebelum menyatakannya."
-  - "Tahun LPN/BERNAS mula memegang status pengimport tunggal — sumber bercanggah (Free Malaysia Today menyebut 1973; halaman legasi BERNAS menyebut LPN mengambil alih pengimportan beras pada 1974). Artikel sengaja tidak menyatakan tahun; sahkan sebelum menambah mana-mana tahun."
-  - "Sejarah asal dasar harga minimum dijamin (didakwa bermula 1949 dalam literatur akademik) — sahkan dengan sumber akademik/primer yang boleh dipetik sebelum menyatakan tahun tertentu."
-  - "Bilangan tepat obligasi sosial (sepuluh, digandakan daripada lima) dan angka stok penimbal (200,000 tan, dinaikkan daripada 150,000) — sahkan terhadap dokumen konsesi rasmi 2021–2031."
+  - "The TK2021 financial figures (revenue ~RM4.67 billion, profit after tax RM182.26 million, rice sales ~RM3.42 billion / 73%) — confirm against the official BERNAS annual report; could not be independently re-verified in this correction pass."
+  - "The specific paddy floor purchase price in Sabah and Sarawak (reported to remain RM1,300 per metric tonne) — confirm the figure and effective date against the official KPKM announcement before stating it."
+  - "The year LPN/BERNAS began holding sole-importer status — sources conflict (Free Malaysia Today cites 1973; the BERNAS legacy page says LPN took over rice importation in 1974). The article deliberately omits the year; confirm before adding any year."
+  - "The origin history of the guaranteed minimum price policy (claimed to have begun in 1949 in the academic literature) — confirm with a citable academic/primary source before stating a specific year."
+  - "The exact number of social obligations (ten, doubled from five) and the buffer stock figure (200,000 tonnes, raised from 150,000) — confirm against the official 2021–2031 concession document."
 
 updated: 2026-08-01
 sources:

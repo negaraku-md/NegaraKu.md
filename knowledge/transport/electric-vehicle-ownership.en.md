@@ -50,10 +50,10 @@ revisions:
 updated: 2026-08-08
 
 verificationNeeded:
-  - "Peratusan '85% lebih rendah (secara purata)' dan 'sehingga 89%' merujuk perbandingan dengan kadar cukai jalan EV yang DITETAPKAN SEBELUM INI (struktur lama), BUKAN dengan kereta petrol/ICE — disahkan oleh The Star dan paultan.org (kedua-dua 4 Jun 2024). Sahkan tafsiran ini kekal betul jika teks diedit semula."
-  - "Struktur 'blok 9,999 watt' berasal daripada laporan media automotif (paultan.org / SoyaCincau) yang menerangkan semakan Jun 2024, BUKAN daripada garis panduan LKM v2 (2022) JPJ yang boleh diakses. PDF v2 itu mengandungi struktur lama (kenaikan per-50 watt, kadar asas jauh lebih tinggi) yang nampaknya telah digantikan oleh kadar semakan; hanya kadar minimum RM20 (≤50 kW) yang boleh disahkan merentas kedua-dua sumber rasmi dan media"
-  - "Angka tepat kadar asas dan tambahan bagi jalur kuasa pertengahan dan tinggi (100 kW ke atas) diambil daripada laporan media (paultan.org, SoyaCincau, Motorist). Sahkan terhadap garis panduan rasmi JPJ terkini apabila diterbitkan"
-  - "Penjelasan bahawa QV-E (150 kW) membayar lebih daripada Seal 6 (160 kW) 'kerana kelas badan (saloon berbanding bukan-saloon)' adalah TAFSIRAN penulis — munasabah kerana garis panduan JPJ mempunyai jadual saloon/bukan-saloon berasingan, tetapi punca tepat tidak dinyatakan dalam mana-mana sumber yang dipetik"
+  - "The percentages '85% lower (on average)' and 'up to 89%' refer to a comparison with the PREVIOUSLY SET EV road tax rates (the old structure), NOT with petrol/ICE cars — confirmed by The Star and paultan.org (both 4 June 2024). Confirm this interpretation remains correct if the text is re-edited."
+  - "The '9,999 watt block' structure comes from automotive media reports (paultan.org / SoyaCincau) describing the June 2024 revision, NOT from the accessible JPJ LKM v2 (2022) guidelines. That v2 PDF contains the old structure (per-50-watt increments, a much higher base rate) that appears to have been superseded by the revised rates; only the minimum rate of RM20 (≤50 kW) can be verified across both official and media sources"
+  - "The exact base and additional rates for the mid and high power bands (100 kW and above) are taken from media reports (paultan.org, SoyaCincau, Motorist). Confirm against the latest official JPJ guidelines once published."
+  - "The explanation that the QV-E (150 kW) pays more than the Seal 6 (160 kW) 'because of the body class (saloon versus non-saloon)' is the author's INTERPRETATION — plausible because the JPJ guidelines have separate saloon/non-saloon tables, but the exact cause is not stated in any of the cited sources"
   - "Contoh cukai jalan model tertentu adalah petunjuk sahaja — sahkan jumlah tepat kenderaan anda melalui aplikasi MyJPJ"
 
 sources:

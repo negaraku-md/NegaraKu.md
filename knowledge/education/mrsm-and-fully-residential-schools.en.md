@@ -40,8 +40,8 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Nama rasmi kementerian induk MARA yang tepat dan sejarah pertukaran namanya (Kementerian Pembangunan Luar Bandar berbanding Kementerian Kemajuan Desa dan Wilayah)."
-  - "Tempoh Rancangan Malaysia yang dikaitkan dengan pengembangan SBP: halaman rasmi KPM melabel tempoh 1975–1980 sebagai 'Rancangan Malaysia Kedua', tetapi mengikut garis masa lazim Rancangan Malaysia Kedua ialah 1971–1975 (1976–1980 ialah Rancangan Malaysia Ketiga). Perlu disahkan sumber rasmi."
+  - "The exact official name of MARA's parent ministry and the history of its name changes (Kementerian Pembangunan Luar Bandar versus Kementerian Kemajuan Desa dan Wilayah)."
+  - "The Malaysia Plan period linked to the SBP expansion: the official KPM page labels the 1975–1980 period as the 'Second Malaysia Plan', but by the usual timeline the Second Malaysia Plan is 1971–1975 (1976–1980 is the Third Malaysia Plan). Needs confirmation from an official source."
   - "Bilangan SBP semasa (halaman KPM tidak menyenaraikan jumlah pada teks; sumber sekunder menyebut angka berbeza)."
   - "Syarat akademik terperinci kemasukan SBP Tingkatan 1 dan Tingkatan 4 mengikut pekeliling/portal PKSK KPM terkini."
 revisions:

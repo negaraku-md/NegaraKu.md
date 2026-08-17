@@ -50,9 +50,9 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Penalti bayaran lewat 10% ke atas cukai tertunggak — sahkan kadar dan mekanisme semasa terhadap panduan penalti rasmi LHDN (Seksyen 21/29 RPGTA)."
-  - "Senarai pengecualian (sekali seumur hidup, pindah milik keluarga atas kasih sayang, kerajaan/badan amal, kematian/penceraian) — sahkan perincian syarat terhadap Jadual 4 dan Perintah Pengecualian RPGT semasa."
-  - "Nombor dan proses borang CKHT (1A/1B/2A/3) serta e-CKHT melalui MyTax — sahkan terhadap portal rasmi LHDN."
+  - "The 10% late payment penalty on outstanding tax — confirm the current rate and mechanism against LHDN's official penalty guidance (Section 21/29 RPGTA)."
+  - "The list of exemptions (once in a lifetime, family transfers by way of love and affection, government/charitable bodies, death/divorce) — confirm the details of the conditions against Schedule 4 and the current RPGT Exemption Order."
+  - "The numbers and process of the CKHT forms (1A/1B/2A/3) and e-CKHT via MyTax — confirm against the official LHDN portal."
 
 updated: 2026-08-08
 sources:

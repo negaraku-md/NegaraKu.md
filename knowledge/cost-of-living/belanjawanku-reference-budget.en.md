@@ -47,9 +47,9 @@ revisions:
 
 verificationNeeded:
   - "Lokasi pelancaran edisi 2024/2025: siaran akhbar rasmi KWSP menyatakan datelin 'Kwasa Damansara', bukan Menara KWSP — sahkan venue sebenar sebelum menamakannya."
-  - "Angka perbandingan edisi 2022/2023 lawan 2024/2025 (RM2,600/RM2,800, RM6,890/RM7,440, RM2,520/RM2,690, RM3,210/RM3,390) diambil daripada laporan The Vibes; sahkan dengan buku panduan Belanjawanku rasmi."
+  - "The comparison figures for the 2022/2023 versus 2024/2025 editions (RM2,600/RM2,800, RM6,890/RM7,440, RM2,520/RM2,690, RM3,210/RM3,390) are taken from The Vibes report; confirm with the official Belanjawanku guidebook."
   - "Senarai penuh 'sembilan kategori isi rumah' — buku panduan rasmi hanya empat baris disebut dalam laporan media; sahkan sembilan kategori penuh."
-  - "Angka khusus mengikut bandar (cth. Alor Setar termurah) belum diperincikan secara berangka; sahkan daripada buku panduan rasmi jika perincian bandar diperlukan."
+  - "City-specific figures (e.g. Alor Setar being the cheapest) have not yet been detailed numerically; confirm from the official guidebook if city-level detail is needed."
 
 updated: 2026-08-08
 sources:

@@ -40,10 +40,10 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Kod warta rasmi 'P.U. (A) 43/1973' bagi Kaedah-Kaedah Motosikal (Topi Keledar) 1973 — nama kaedah dan kandungannya disahkan menerusi sumber sekunder yang dibuka, tetapi kod P.U.(A) itu sendiri belum disahkan terhadap teks Warta Persekutuan primer."
+  - "The official gazette code 'P.U. (A) 43/1973' for the Motorcycles (Safety Helmets) Rules 1973 — the name and contents of the rules are confirmed through opened secondary sources, but the P.U.(A) code itself has not been confirmed against the primary Federal Gazette text."
   - "Tahun sebenar lorong motosikal Lebuhraya Persekutuan dibina — KKR menyebut 1977 manakala Free Malaysia Today menyebut 'awal 1970-an'. Perlu disahkan terhadap rekod JKR/LLM."
-  - "Status semasa cadangan sekatan kapasiti enjin (dakwaan negatif) — sahkan tiada peraturan berkuat kuasa pada tarikh semakan."
-  - "Revisi standard MS 1 yang berkuat kuasa (sumber menyebut MS 1:2011); sahkan versi mandatori semasa."
+  - "The current status of the proposed engine-capacity restriction (a negative claim) — confirm that no regulation is in force as at the review date."
+  - "The revision of the MS 1 standard in force (the source mentions MS 1:2011); confirm the current mandatory version."
   - "Sama ada slug relasi 'road-transport-act-1987' wujud dalam korpus."
 revisions:
   - version: "01.00"
