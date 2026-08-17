@@ -25,7 +25,6 @@ appliesTo: "Anyone choosing a legal structure in Malaysia for the first time, or
 
 verificationNeeded:
   - "Confirm the eligibility rules for registering a sole proprietorship or conventional partnership under the Registration of Businesses Act 1956, and whether non-citizens or non-residents may register"
-  - "Confirm the current SSM lodgement fee for registration of a foreign company under s.562"
   - "Confirm current Labuan FSA incorporation and annual fees"
   - "Confirm the registration position for businesses in Sabah and Sarawak, which operate under state ordinances rather than the Registration of Businesses Act 1956"
 
@@ -47,6 +46,9 @@ revisions:
 
 updated: 2026-07-20
 sources:
+  - title: "Companies Regulations 2017 (P.U.(A) 37), Schedule of Fees item 32"
+    url: "https://www.ssm.com.my/Pages/Services/Registration-of-Business-(ROB)/table-of-fees/lampiran_2-table_of_feese.pdf"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
   - title: "Companies Act 2016 (Act 777), as at 1 August 2022"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
     publisher: "SSM"

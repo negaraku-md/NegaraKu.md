@@ -23,7 +23,6 @@ keyTakeaways:
 appliesTo: "作出慈善捐款的个人与公司，以及在申索前查核收据的财务团队。"
 
 verificationNeeded:
-  - "s.44(6) 批准的标准有效期与续批周期——LHDN 在 2026 年 5 月重建门户网站后，相关指引页面均为 404，因此批准具有期限这一点，是从查询工具本身的状态值推断出来的。"
   - "一张有效的 s.44(6) 捐款收据须载明哪些细节——LHDN 关于收据用途的说明页面无法取得。"
 
 lang: "zh"
@@ -46,6 +45,9 @@ revisions:
 
 updated: 2026-07-20
 sources:
+  - title: "Garis Panduan Kelulusan di bawah Subseksyen 44(6) ACP 1967, para 8.1 (5-year approval)"
+    url: "https://www.hasil.gov.my/wp-content/uploads/GP_44_6_1_05092019_P.pdf"
+    publisher: "Lembaga Hasil Dalam Negeri (LHDN)"
   - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — s.44(6) to s.44(12)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
     publisher: "LHDN"

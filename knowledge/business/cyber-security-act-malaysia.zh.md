@@ -40,7 +40,6 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Exact Act 854 section numbers for NCII designation, code of practice, risk assessment/audit and incident notification — published law-firm summaries differ (some cite s.20, others s.22 for assessment/audit), so confirm each against the gazetted text of Act 854."
   - "That the 6-hour initial notification and 14-day follow-up windows are stated in the Cyber Security (Notification of Cyber Security Incident) Regulations 2024, per the regulation's own wording."
   - "That the annual risk-assessment and biennial audit frequencies come from the Cyber Security (Period for Cyber Security Risk Assessment and Audit) Regulations 2024."
   - "The current official list of NCII sectors and sector leads, and whether a given organisation has in fact been designated."
@@ -52,6 +51,9 @@ revisions:
 
 updated: 2026-08-07
 sources:
+  - title: "Cyber Security Act 2024 (Act 854), ss.17/21/22/23 — gazetted text"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2177706_BI/Act%20854.pdf"
+    publisher: "Attorney General's Chambers (Federal Gazette)"
   - title: "Cyber Security Act 2024 [Act 854]"
     url: "https://www.nacsa.gov.my/act854.php"
     publisher: "National Cyber Security Agency (NACSA)"

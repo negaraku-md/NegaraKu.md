@@ -23,7 +23,6 @@ keyTakeaways:
 appliesTo: "Individuals and companies making charitable donations, and finance teams checking a receipt before claiming."
 
 verificationNeeded:
-  - "The standard duration of a s.44(6) approval and its renewal cycle — LHDN's guideline pages on this were 404 after the portal was rebuilt in May 2026, so the periodic nature of approval is inferred from the checker's own status values."
   - "The required particulars of a valid s.44(6) donation receipt — LHDN's receipt-usage explainer page could not be retrieved."
 
 lang: "en"
@@ -44,6 +43,9 @@ revisions:
 
 updated: 2026-07-20
 sources:
+  - title: "Garis Panduan Kelulusan di bawah Subseksyen 44(6) ACP 1967, para 8.1 (5-year approval)"
+    url: "https://www.hasil.gov.my/wp-content/uploads/GP_44_6_1_05092019_P.pdf"
+    publisher: "Lembaga Hasil Dalam Negeri (LHDN)"
   - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — s.44(6) to s.44(12)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
     publisher: "LHDN"

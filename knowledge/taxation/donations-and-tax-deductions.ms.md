@@ -23,7 +23,6 @@ keyTakeaways:
 appliesTo: "Individu dan syarikat yang membuat derma amal, serta pasukan kewangan yang menyemak resit sebelum membuat tuntutan."
 
 verificationNeeded:
-  - "Tempoh piawai kelulusan s.44(6) dan kitaran pembaharuannya — halaman garis panduan LHDN mengenai perkara ini memberikan ralat 404 selepas portal dibina semula pada Mei 2026, jadi sifat berkala kelulusan ini disimpulkan daripada nilai status penyemak itu sendiri."
   - "Butiran yang diperlukan bagi resit derma s.44(6) yang sah — halaman penjelasan penggunaan resit LHDN tidak dapat diperoleh."
 
 lang: "ms"
@@ -45,6 +44,9 @@ revisions:
 
 updated: 2026-07-20
 sources:
+  - title: "Garis Panduan Kelulusan di bawah Subseksyen 44(6) ACP 1967, para 8.1 (5-year approval)"
+    url: "https://www.hasil.gov.my/wp-content/uploads/GP_44_6_1_05092019_P.pdf"
+    publisher: "Lembaga Hasil Dalam Negeri (LHDN)"
   - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — s.44(6) to s.44(12)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
     publisher: "LHDN"
