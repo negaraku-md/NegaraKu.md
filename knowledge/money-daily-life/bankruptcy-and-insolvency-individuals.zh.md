@@ -50,7 +50,7 @@ verificationNeeded:
   - "Titik permulaan tempoh lima tahun bagi sijil pelepasan KPI (s.33A/33B): sumber Thomas Philip menyebut 'daripada tarikh perintah kebankrapan luput', manakala teks Akta 360 boleh dibaca sebagai lima tahun dari tarikh perintah dibuat — sahkan terhadap teks Akta rasmi."
   - "Sifat 'sukarela/pilihan' penyertaan DMP AKPK — tiada pernyataan rasmi eksplisit; disifatkan berdasarkan mekanisme opt-in dan kontras dengan perintah mahkamah."
   - "Angka 'lebih 1 juta individu' dikaunseling AKPK — sahkan angka terkini terhadap penerbitan rasmi AKPK/BNM."
-  - "Kategori terperinci s.33B(2A), s.33C dan nombor seksyen — sahkan terhadap teks rasmi Akta 360 (fail PDF rasmi tidak dapat dihurai secara automatik)."
+  - "Nombor seksyen dan kategori terperinci s.33C — sahkan terhadap teks rasmi Akta 360."
   - "Angka ~14,000 kes hutang bawah RM50,000 dilepaskan setakat Julai 2023 — sahkan terhadap penyata rasmi MDI."
 
 updated: 2026-08-08
@@ -130,7 +130,7 @@ Akta 360提供三项主要的解除机制。下表加以概括：
 
 首先，**《2023年无力偿债（修订）法令》**于2023年10月6日生效（据The Star报道，引述首相署部长的宣布），引入了所谓的**「第二次机会政策」**。其中的变化包括：
 
-- 在第33B(2A)条之下新增类别，包括因精神疾病而无法自理者（须由政府医院精神科专科医生确认），以及年满70岁及以上的个人。
+- 强化第33B(2A)条，使债权人不得反对特定受保护类别破产人的解除破产——包括社会担保人、依据2008年残疾人士法令（第685号法令）登记的残疾人士、已故破产人，以及经政府医务官确认患有严重疾病的破产人。
 - 以由破产总监按个人财务能力所定的付款条件，取代固定的和解金额。
 - 容许自动解除在债务人提交资产申报之日起**三至五年**之间发生，破产总监有权在条件未获符合时将解除延后最多两年。
 

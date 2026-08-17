@@ -50,7 +50,7 @@ verificationNeeded:
   - "Titik permulaan tempoh lima tahun bagi sijil pelepasan KPI (s.33A/33B): sumber Thomas Philip menyebut 'daripada tarikh perintah kebankrapan luput', manakala teks Akta 360 boleh dibaca sebagai lima tahun dari tarikh perintah dibuat — sahkan terhadap teks Akta rasmi."
   - "Sifat 'sukarela/pilihan' penyertaan DMP AKPK — tiada pernyataan rasmi eksplisit; disifatkan berdasarkan mekanisme opt-in dan kontras dengan perintah mahkamah."
   - "Angka 'lebih 1 juta individu' dikaunseling AKPK — sahkan angka terkini terhadap penerbitan rasmi AKPK/BNM."
-  - "Kategori terperinci s.33B(2A), s.33C dan nombor seksyen — sahkan terhadap teks rasmi Akta 360 (fail PDF rasmi tidak dapat dihurai secara automatik)."
+  - "Nombor seksyen dan kategori terperinci s.33C — sahkan terhadap teks rasmi Akta 360."
   - "Angka ~14,000 kes hutang bawah RM50,000 dilepaskan setakat Julai 2023 — sahkan terhadap penyata rasmi MDI."
 
 updated: 2026-08-08
@@ -130,7 +130,7 @@ Two recent developments expanded the paths to discharge.
 
 First, the **Insolvency (Amendment) Act 2023**, which came into effect on **6 October 2023** (as reported by The Star, citing the announcement of the Minister in the Prime Minister's Department), introduced what is referred to as the **Second Chance Policy**. Among its changes:
 
-- Adding new categories under section 33B(2A), including individuals who are unable to manage themselves due to mental illness (certified by a government hospital psychiatrist) and individuals aged 70 and above.
+- Strengthening section 33B(2A) so that no creditor may object to the discharge of protected categories of bankrupt — a social guarantor, a person registered as disabled under the Persons with Disabilities Act 2008 (Act 685), a deceased bankrupt, and a bankrupt suffering from a serious illness certified by a Government Medical Officer.
 - Replacing the fixed settlement amount with payment terms determined by the DGI based on the individual's financial capacity.
 - Enabling automatic discharge to occur between **three and five years** from the date the debtor submits their declaration of assets, with the DGI empowered to suspend the discharge for up to two years if conditions are not met.
 

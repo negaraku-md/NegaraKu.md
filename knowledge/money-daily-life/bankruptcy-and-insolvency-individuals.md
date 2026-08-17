@@ -49,7 +49,7 @@ verificationNeeded:
   - "Titik permulaan tempoh lima tahun bagi sijil pelepasan KPI (s.33A/33B): sumber Thomas Philip menyebut 'daripada tarikh perintah kebankrapan luput', manakala teks Akta 360 boleh dibaca sebagai lima tahun dari tarikh perintah dibuat — sahkan terhadap teks Akta rasmi."
   - "Sifat 'sukarela/pilihan' penyertaan DMP AKPK — tiada pernyataan rasmi eksplisit; disifatkan berdasarkan mekanisme opt-in dan kontras dengan perintah mahkamah."
   - "Angka 'lebih 1 juta individu' dikaunseling AKPK — sahkan angka terkini terhadap penerbitan rasmi AKPK/BNM."
-  - "Kategori terperinci s.33B(2A), s.33C dan nombor seksyen — sahkan terhadap teks rasmi Akta 360 (fail PDF rasmi tidak dapat dihurai secara automatik)."
+  - "Nombor seksyen dan kategori terperinci s.33C — sahkan terhadap teks rasmi Akta 360."
   - "Angka ~14,000 kes hutang bawah RM50,000 dilepaskan setakat Julai 2023 — sahkan terhadap penyata rasmi MDI."
 
 updated: 2026-08-08
@@ -129,7 +129,7 @@ Dua perkembangan terbaharu memperluas laluan pelepasan.
 
 Pertama, **Akta Insolvensi (Pindaan) 2023**, yang berkuat kuasa pada **6 Oktober 2023** (dilaporkan oleh The Star, memetik pengumuman Menteri di Jabatan Perdana Menteri), memperkenalkan apa yang dirujuk sebagai **Dasar Peluang Kedua**. Antara perubahannya:
 
-- Menambah kategori baharu di bawah seksyen 33B(2A), termasuk individu yang tidak berupaya menguruskan diri akibat penyakit mental (disahkan oleh pakar psikiatri hospital kerajaan) dan individu berumur 70 tahun ke atas.
+- Memperkukuh seksyen 33B(2A) supaya pemiutang tidak boleh membantah pelepasan bagi kategori terlindung — penjamin sosial, orang kurang upaya yang berdaftar di bawah Akta Orang Kurang Upaya 2008 (Akta 685), bankrap yang telah meninggal dunia, dan bankrap yang menghidap penyakit serius yang disahkan oleh Pegawai Perubatan Kerajaan.
 - Menggantikan amaun penyelesaian tetap dengan syarat pembayaran yang ditentukan oleh KPI berdasarkan kemampuan kewangan individu.
 - Membolehkan pelepasan automatik berlaku antara **tiga hingga lima tahun** daripada tarikh penghutang menyerahkan pengisytiharan aset, dengan KPI berkuasa menggantung pelepasan sehingga dua tahun jika syarat tidak dipenuhi.
 
