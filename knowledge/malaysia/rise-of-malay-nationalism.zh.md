@@ -46,11 +46,11 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Ejaan dan butiran penuh KRIS: sumber menyebut 'Kesatuan Rakyat Indonesia Semenanjung' (juga dieja KERIS), ditubuhkan Julai 1945; sahkan ejaan rasmi dan peranan Dr. Burhanuddin al-Helmy dengan sumber sejarah primer."
-  - "Penyertaan wanita Melayu dalam demonstrasi anti-Malayan Union 1946 (mis. ucapan di Kuala Kangsar, Angkatan Wanita Sedar) — didokumenkan di tempat lain tetapi tidak disahkan terhadap sumber yang dipetik; perlu sumber primer/akademik sebelum dinyatakan semula."
-  - "Butiran simbol berkabung (kain/ikat putih, sama ada dililit pada songkok) — kini bersandar pada sumber berita sekunder; sahkan dengan laporan akhbar sezaman atau kajian akademik."
-  - "Angka penduduk (kira-kira dua juta Melayu di Tanah Melayu; puluhan juta di Kepulauan Indonesia) — sahkan angka tepat dengan sumber demografi zaman itu."
-  - "Julat tarikh pendudukan Jepun (1942-1945): sahkan tarikh permulaan/penamat yang tepat (kejatuhan Singapura 15 Februari 1942; penyerahan Jepun Ogos-September 1945) mengikut keperluan petikan."
+  - "KRIS 的拼写及完整细节：来源提及「Kesatuan Rakyat Indonesia Semenanjung」（亦拼作 KERIS），成立于 1945 年 7 月；请以一手史料核实其官方拼写及 Dr. Burhanuddin al-Helmy 的角色。"
+  - "马来女性参与 1946 年反马来亚联邦（anti-Malayan Union）示威（例如在 Kuala Kangsar 的演讲、Angkatan Wanita Sedar）——在其他地方有记载，但未对照所引用的来源核实；重新陈述前需第一手／学术来源。"
+  - "哀悼象征的细节（白布／白结，是否缠绕在 songkok 上）——目前依赖二手新闻来源；请以同期报纸报道或学术研究核实。"
+  - "人口数字（马来亚约有两百万马来人；印度尼西亚群岛有数千万）——请以当时的人口来源核实确切数字。"
+  - "日本占领的年份范围（1942-1945）：请依引用需要核实确切的起止日期（新加坡沦陷于 1942 年 2 月 15 日；日本投降于 1945 年 8 月至 9 月）。"
 
 updated: 2026-08-08
 sources:

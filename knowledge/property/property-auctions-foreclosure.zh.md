@@ -47,10 +47,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "LACA deposit (5%) and balance period (90 days) are conventional figures set by each auction's Proclamation of Sale and Conditions of Sale, not by statute — confirm against the specific POS, as they can vary by bank."
-  - "The National Land Code / Order for Sale / High-Court-vs-Land-Office framework is sourced to a law-firm article and a legal-citation report, not read directly from the statute — confirm against the National Land Code (Revised 2020) (Act 828) itself for any legally material use."
-  - "The one-working-day deposit-lodgement deadline is from the Judiciary e-Lelong Terms & Conditions and may vary by court or platform — confirm for the specific auction."
-  - "Related/relation slugs 'property-sale-purchase-agreement' and 'national-land-code-1965' may not yet exist in the corpus and would render as unresolved links — confirm on next build and update slug if the Land Code article is created under a revised slug."
+  - "LACA的订金（5%）与余款期限（90天）是各拍卖的Proclamation of Sale及Conditions of Sale所设定的惯常数字，而非法定——请对照具体的POS核实，因为它们可能因银行而异。"
+  - "National Land Code／拍卖令（Order for Sale）／高等法院对土地局的框架来源于一篇律师事务所的文章和一份法律引证报告，并非直接读取自法规——如作任何具法律重要性的用途，请对照 National Land Code (Revised 2020) (Act 828) 本身核实。"
+  - "一个工作日内缴存按金的期限出自司法机构 e-Lelong 的条款与条件，且可能因法院或平台而异——请就具体拍卖核实。"
+  - "相关／关联 slug「property-sale-purchase-agreement」及「national-land-code-1965」可能在语料库中尚不存在，会呈现为无法解析的链接——请在下次构建时确认，若 Land Code 文章以修订后的 slug 创建，则更新该 slug。"
 
 updated: 2026-08-08
 sources:

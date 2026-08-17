@@ -44,12 +44,12 @@ reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 verificationNeeded:
-  - "Asal usul dan etimologi masakan Peranakan/Nyonya — istilah Baba/Nyonya dan cerita perkahwinan campur peniaga Cina dengan wanita tempatan di Negeri-Negeri Selat; perlu sumber berwibawa (bukan Wikipedia)."
-  - "Dakwaan masakan pantai timur (Kelantan/Terengganu) 'lebih manis' dan penggunaan gula kabung/gula melaka serta budu; perlu sumber."
-  - "Asal usul masakan Mamak (pendatang Muslim-India, ramainya dari Tamil Nadu, zaman kolonial British), asal nasi kandar di Pulau Pinang, dan asal roti canai India Selatan; perlu sumber."
-  - "Sejarah kehadiran Portugis di Melaka dan pembentukan masyarakat Kristang/Eurasia, termasuk tahun/abad yang tepat (kini dinyatakan tanpa angka); perlu sumber primer/sejarah."
-  - "Etimologi 'debal' daripada 'devil' (kari syaitan) — perlu sumber linguistik; dan tradisi kari debal dimasak daripada lebihan hidangan Krismas — perlu disahkan sebagai tradisi, bukan makna perkataan."
-  - "Butiran hidangan Sabah (hinava, tuhau, bosou, tuaran mee) dan status pengiktirafannya dalam program makanan warisan; belum ada sumber sepadan dalam senarai sumber."
+  - "娘惹（Peranakan/Nyonya）菜肴的起源与词源——Baba/Nyonya一词以及华商与海峡殖民地（Negeri-Negeri Selat）当地女子通婚的故事；须有权威来源（非维基百科）。"
+  - "关于东海岸（Kelantan/Terengganu）菜肴「更甜」以及使用gula kabung/gula melaka及budu的说法；须有来源。"
+  - "Mamak 饮食的起源（英国殖民时期来自印度的穆斯林移民，多数来自 Tamil Nadu）、nasi kandar 源自槟城（Pulau Pinang）的起源，以及 roti canai 源自南印度的起源；均需提供来源。"
+  - "葡萄牙人在马六甲的存在史及 Kristang／欧亚裔社群的形成，包括确切的年份／世纪（现以不含数字的方式陈述）；需要原始／历史来源。"
+  - "「debal」源自「devil」（魔鬼咖喱）的词源——需要语言学来源；以及debal咖喱以圣诞剩菜烹制的传统——需确认为一种传统，而非仅是词义。"
+  - "Sabah菜肴（hinava、tuhau、bosou、tuaran mee）的细节及其在传统美食计划中的认可状态；来源清单中尚无相应来源。"
 version: "01.00"
 revisions:
   - version: "01.00"

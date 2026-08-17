@@ -36,9 +36,9 @@ faq:
     a: "是的。P.U.(A) 230/2016 的第 3(1) 号附例将其列为先决条件——只有在按需取得规划许可并已发出营业场所执照后，场所方可用于经营。在吉隆坡，该许可来自《1982 年联邦直辖区（规划）法令》，而针对吉隆坡联邦直辖区的新《规划许可申请规则》已于 2025 年制定。"
 
 verificationNeeded:
-  - "DBKL signboard and advertisement licence rates — the Advertisements (Federal Territory) By-Laws 1982 are published as a scanned image with no text layer"
-  - "Current development charge rates under the Federal Territory (Planning) (Development Charge) Rules 2013 — the rules are listed by DBKL but the rate table was not retrievable"
-  - "Kuala Lumpur share of national GDP as a published percentage — DOSM publishes the ringgit value and the ranking but not the KL share directly"
+  - "DBKL招牌与广告执照费率——Advertisements (Federal Territory) By-Laws 1982以扫描图像形式发布，没有文字层"
+  - "Federal Territory (Planning) (Development Charge) Rules 2013项下现行的发展费率——该规则由DBKL列出，但费率表无法取得。"
+  - "以已公布百分比表示的 Kuala Lumpur 占全国 GDP 的比重——DOSM 公布的是令吉数值和排名，但未直接公布 KL 的占比"
 
 lang: "zh"
 masterLanguage: "en"

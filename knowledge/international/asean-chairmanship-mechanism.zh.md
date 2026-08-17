@@ -41,9 +41,9 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Rangka masa tepat dan syarat penyertaan penuh Timor-Leste (anggota ke-11, diterima 26 Oktober 2025) dalam kitaran pengerusian mengikut abjad."
-  - "Pengesahan bahawa penyerahan pengerusian daripada Malaysia kepada Filipina berkuat kuasa tepat pada 1 Januari 2026."
-  - "Kerangka sebab-akibat pelepasan giliran 2026 oleh Myanmar — sama ada dirujuk secara khusus kepada rampasan kuasa 2021 dan sekatan penyertaan ASEAN, atau kepada ketidakstabilan domestik yang lebih luas."
+  - "Timor-Leste（第11个成员国，于2025年10月26日获接纳）纳入按字母顺序轮任主席周期的确切时间表与条件。"
+  - "确认主席国由马来西亚移交予菲律宾恰好于1 Januari 2026生效。"
+  - "缅甸放弃 2026 年轮值的因果框架——是具体归因于 2021 年政变及东盟（ASEAN）的参与限制，还是归因于更广泛的国内动荡。"
 revisions:
   - version: "01.00"
     date: 2026-08-01

@@ -47,9 +47,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Klasifikasi tepat tuisyen di rumah dan kelas dalam talian di bawah takrif 'institusi pendidikan' Akta 550, termasuk mana-mana pengecualian statutori."
-  - "Sama ada permit mengajar diwajibkan untuk setiap guru pusat tuisyen dan seksyen Akta yang berkenaan."
-  - "Modal berbayar minimum, yuran lesen dan sebarang yuran pendaftaran semasa (tidak dimasukkan kerana tiada sumber rasmi terbuka disahkan)."
+  - "家庭补习与线上课程在 Akta 550「教育机构」定义下的确切归类，包括任何法定豁免。"
+  - "是否每位补习中心教师都必须持有教学准证，以及相关的法令条文。"
+  - "最低实收资本、执照费及任何当前的注册费（因无经核实的公开官方来源而未纳入）。"
 
 updated: 2026-08-08
 sources:

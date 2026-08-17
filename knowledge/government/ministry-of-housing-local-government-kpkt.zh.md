@@ -42,12 +42,12 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Exact current official vision and mission wording (the kpkt.gov.my homepage did not expose a formal vision/mission statement in fetched content)."
-  - "Whether PR1MA (Perbadanan PR1MA Malaysia) and URBANICE Malaysia currently sit formally under KPKT versus another ministry — listed on the portal, but reporting lines shift with cabinet reshuffles; confirm against current gazette."
-  - "Current-year federal budget allocation for KPKT."
-  - "Precise institutional lineage dates before 16 May 2013 (predecessor ministries)."
-  - "Exact current count of housing units delivered against the 500,000-unit 12MP target."
-  - "Whether SPNB (Syarikat Perumahan Negara Berhad) remains under KPKT after recent restructuring."
+  - "现行官方愿景与使命的确切措辞（kpkt.gov.my主页在抓取到的内容中并未呈现正式的愿景／使命声明）。"
+  - "PR1MA（Perbadanan PR1MA Malaysia）与URBANICE Malaysia当前是正式隶属KPKT还是另一部门——门户上有列出，但汇报关系会随内阁改组变动；须根据当前宪报核实。"
+  - "KPKT 本年度的联邦预算拨款。"
+  - "2013 年 5 月 16 日之前确切的机构沿革日期（前身部门）。"
+  - "相对于12MP的500,000单位目标，已交付房屋单位的确切当前数量。"
+  - "经近期重组后SPNB（Syarikat Perumahan Negara Berhad）是否仍隶属KPKT。"
 updated: 2026-08-14
 sources:
   - title: "Ministry of Housing and Local Government (Malaysia)"

@@ -47,9 +47,9 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Jumlah 600 kawasan DUN ialah snapshot katalog DOSM mengikut sempadan 2015–2018; sahkan angka semasa terhadap warta SPR selepas persempadanan semula Sarawak (kenaikan 82→99 diluluskan Julai 2025) selesai."
-  - "Tarikh kuat kuasa peruntukan Undi18 (Akta A1603) menurunkan had umur seksyen 5 Jadual Kelapan daripada 21 kepada 18 — sahkan tarikh warta rasmi (dilaporkan 15 Disember 2021) apabila ia menjadi load-bearing."
-  - "Butiran per-negeri persempadanan semula (Sarawak 2015: 71→82; Sabah 2016: 60→73; Semenanjung 2018) tidak dipetakan oleh sumber DOSM; sahkan terhadap warta/laporan SPR jika hendak dinyatakan semula secara spesifik."
+  - "600 个 DUN 选区的总数是 DOSM 目录按 2015–2018 年边界的快照；待砂拉越重新划界（82→99 的增加已于 2025 年 7 月获批）完成后，请对照 SPR 宪报核实当前数字。"
+  - "Undi18条文（Akta A1603）将Jadual Kelapan第5条的年龄下限由21岁降至18岁的生效日期——当此点成为关键依据时，请确认官方宪报日期（据报为15 Disember 2021）。"
+  - "各州选区重新划分的细节（Sarawak 2015：71→82；Sabah 2016：60→73；Semenanjung 2018）未由DOSM来源加以对应；若要具体重述，请对照SPR的宪报／报告核实。"
 revisions:
   - version: "01.00"
     date: 2026-08-01

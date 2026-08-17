@@ -41,11 +41,11 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 
 verificationNeeded:
-  - "The 21 June 2024 Ministerial Direction and the exact 700MHz (2×20MHz) / 3.5GHz (100MHz) allocation currently rest on SoyaCincau's reporting; confirm against the MCMC primary press-release PDF and FAQ."
-  - "5G Phase 1 coverage figures: confirm 47.1% (Q4 2022, Phase 1 final report) versus 54.7% (Feb 2023) against MCMC's official JENDELA Phase 1 report."
-  - "U Mobile's coverage roadmap beyond 80% by H2 2026 (an earlier '95% by 2028' figure was removed as unverified) — confirm any later target against a primary U Mobile or MCMC statement."
-  - "The JENDELA Phase 2 'JP2' RFP is reported by The Edge as issued on 'March 31'; confirm the year is 2026 against an MCMC/Communications Ministry source."
-  - "Ministerial Direction No. 3 of 2021 issuance date (31 May 2021) is drawn from SoyaCincau; confirm against the official gazette or MCMC record."
+  - "21 June 2024 的部长指示以及确切的 700MHz (2×20MHz)／3.5GHz (100MHz) 频谱分配目前依据的是 SoyaCincau 的报道；请对照 MCMC 第一手新闻稿 PDF 及 FAQ 核实。"
+  - "5G 第一阶段覆盖率数字：请对照 MCMC 官方的 JENDELA Phase 1 报告，核实 47.1%（2022 年第四季度，第一阶段最终报告）与 54.7%（2023 年 2 月）。"
+  - "U Mobile 在 2026 年下半年达到 80% 之后的覆盖路线图（较早的 2028 年达 95% 数字因未经证实而删除）——请对照 U Mobile 或 MCMC 的原始声明核实任何后续目标。"
+  - "JENDELA 第二阶段「JP2」的 RFP 据 The Edge 报道于「3 月 31 日」发出；请对照 MCMC/通讯部来源确认年份为 2026 年。"
+  - "Ministerial Direction No. 3 of 2021 的发布日期（2021 年 5 月 31 日）取自 SoyaCincau；请对照官方宪报或 MCMC 记录核实。"
 
 status: "published"
 aiAssisted: true

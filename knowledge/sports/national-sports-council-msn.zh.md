@@ -42,11 +42,11 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Verbatim official Vision (Visi) and Mission (Misi) text — nsc.gov.my publishes them only as images; OCR or a direct read is needed before quoting."
-  - "Institut Sukan Negara (ISN) founding year and the precise MSN-vs-ISN division of labour (programme management by MSN vs performance/sports-science by ISN) — not yet confirmed against a primary source."
-  - "Current Director General as of 2026 — Wikipedia lists Ahmad Shapawi Ismail; confirm he still holds the post via nsc.gov.my before treating as current."
-  - "Number and names of the state sports councils (Majlis Sukan Negeri) coordinated under the Act — not yet confirmed from a primary list."
-  - "Full verbatim statutory list of the Council's functions from the Act itself, as opposed to paraphrased functions on secondary pages."
+  - "官方愿景（Visi）与使命（Misi）的逐字文本——nsc.gov.my 仅以图片形式发布；引用前需 OCR 或直接读取。"
+  - "Institut Sukan Negara（ISN）的成立年份，以及MSN与ISN之间确切的分工（由MSN负责计划管理，ISN负责竞技表现／运动科学）——尚未对照主要来源证实。"
+  - "截至2026年的现任总监——Wikipedia列为Ahmad Shapawi Ismail；在视为现任之前，须通过nsc.gov.my确认他仍在任。"
+  - "该法令之下所协调的各州体育理事会（Majlis Sukan Negeri）的数量与名称——尚未从原始名单获得证实。"
+  - "直接取自该法令本身的理事会职能的完整逐字法定列表，而非次要页面上经改写的职能。"
 updated: 2026-08-14
 sources:
   - title: "National Sports Council of Malaysia Act 1971 (Act 29) — Reprint"

@@ -52,7 +52,7 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Kadar levi tahunan semasa bagi pembantu rumah asing (berbeza mengikut sektor/wilayah dan boleh berubah) — sahkan dengan Jabatan Imigresen sebelum menyatakan angka."
+  - "外籍女佣当前的年度征费率（因领域/地区而异且可能变动）——在陈述数字前请向 Jabatan Imigresen 核实。"
 
 updated: 2026-08-08
 sources:

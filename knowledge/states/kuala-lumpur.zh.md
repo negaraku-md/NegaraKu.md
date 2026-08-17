@@ -30,7 +30,7 @@ faq:
     a: "KLCC 一带的优质办公室租金是全国最高的。常见的模式是在吉隆坡设注册或代表办事处，而把后勤与营运职能放在八打灵再也、赛城或雪兰莪其他地方，那里的空间成本较低。"
 
 verificationNeeded:
-  - "Confirm the Kuala Lumpur and Greater Kuala Lumpur population figures, and the GDP per capita ranking, against the latest DOSM releases before publication."
+  - "发布前，请对照 DOSM 最新公布的数据核实吉隆坡与大吉隆坡的人口数字，以及人均 GDP 排名。"
 
 lang: "zh"
 masterLanguage: "ms"

@@ -44,10 +44,10 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Sama ada peranan SPNB (dilantik oleh Kementerian Kewangan pada 2001 sebagai ejen pemulihan) kekal sebagai mekanisme pemulihan projek terbengkalai yang aktif hari ini, memandangkan SPNB diletakkan di bawah kawalan KPKT sejak 3 Ogos 2018."
-  - "Interaksi tepat antara pengesahan status oleh Pengawal Perumahan dan pengisytiharan terbengkalai oleh Menteri di bawah Seksyen 11(1)(a) Akta 118 — pengesahan actor berkanun yang betul."
-  - "Nombor seksyen tepat bagi penalti ketidakpatuhan award Tribunal (dirujuk sebagai 16AD dalam sesetengah sumber) dan pengesahan peruntukan bayaran balik penuh dalam tempoh 30 hari."
-  - "Perkataan tepat penalti kesalahan pengabaian di bawah Seksyen 18A berbanding teks konsolidasi Akta 118 yang dikemas kini (pindaan 2011)."
+  - "SPNB 的角色（2001 年由财政部委任为复苏代理）今天是否仍是烂尾项目复苏的活跃机制，鉴于 SPNB 自 2018 年 8 月 3 日起被置于 KPKT 的管辖之下。"
+  - "房屋管制官确认状态与部长依 Seksyen 11(1)(a) Akta 118 宣布项目烂尾之间的确切互动关系——需确认正确的法定主体。"
+  - "不遵守仲裁庭裁决之罚则的确切条文编号（部分来源称为16AD），以及30天内全额退款条款的确认。"
+  - "Seksyen 18A下遗弃罪刑罚的确切措辞，对照经更新的Akta 118合并文本（2011年修订）。"
 revisions:
   - version: "01.00"
     date: 2026-08-08

@@ -38,10 +38,10 @@ faq:
     a: "贸易执照是第 33 章的州级文书，实质上是对经营列明行业征收的一种税。营运执照是地方当局自身的执照，依据《1996 年地方当局条例》第 20 章下的附例制定。第 33 章第 3(4) 条明确规定，持有贸易执照不影响依任何其他法律取得执照的任何义务，因此两者确实叠加。"
 
 verificationNeeded:
-  - "The Cap. 64 Schedule on its face applies the Ordinance only to mining businesses in all districts, and to import/export or wholesale-retail trading on titled land in the 20 named districts of the second column. Section 4(4) lets the Minister amend the Schedule by gazette, and current practice is plainly broader, but no gazette notification effecting that expansion was located — treat the scope as unresolved"
-  - "No current gazette notification appointing the Kuching Registrar under Cap. 64 s.3(1) was found. The Ordinance's own footnote names the Probate Officer, Public Trustee's Office, Kuching (G.N. No. 1653/67), which is clearly superseded. LHDN Kuching's role is confirmed operationally by its SPNP portal but not by a located gazette instrument"
-  - "Business Names (Fees) Rules 1959 (G.N.S. 57 of 1959) is cited in the Cap. 64 s.15 footnote but was not retrievable — administrative fees such as extracts and cancellation charges published by divisional offices could not be traced to it"
-  - "Per-council operating licence by-law titles, fee schedules and validity periods for DBKU, MBKS, Padawan, Miri, Sibu and Bintulu were not confirmed from primary sources. Note that at least one Kuching by-law is cited under a predecessor council's initials rather than the current council's, so by-law titles must be checked rather than inferred"
+  - "Cap. 64 附表从字面上看，仅将该法令适用于所有县的采矿业务，以及第二栏所列 20 个县内在有地契土地上的进出口或批发零售贸易。Section 4(4) 允许部长通过刊宪修订该附表，现行做法显然更为宽泛，但未能找到实现此扩大的刊宪公告 — 应将其适用范围视为尚未确定"
+  - "未找到根据Cap. 64 s.3(1)委任Kuching Registrar的现行宪报公告。该Ordinance本身的脚注指名的是Probate Officer, Public Trustee's Office, Kuching (G.N. No. 1653/67)，这显然已被取代。LHDN Kuching的角色由其SPNP门户在运作层面得到确认，但未有找到的宪报文书为证"
+  - "Business Names (Fees) Rules 1959 (G.N.S. 57 of 1959)在Cap. 64 s.15的脚注中被引用，但无法取得——各省办事处公布的行政费用（如摘录及注销费）无法追溯至该规则。"
+  - "DBKU、MBKS、Padawan、Miri、Sibu 和 Bintulu 各议会的营业执照附例名称、收费表及有效期限均未从一手来源确认。请注意，至少有一项 Kuching 的附例是以前身议会的缩写而非现任议会的缩写引用的，因此附例名称必须核对而不能推断"
 
 obligations:
   - what: "向注册官提供营业名称注册所需的详情"

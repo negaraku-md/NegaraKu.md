@@ -34,7 +34,7 @@ faq:
     a: "EPF 表明，就缴纳金而言，非马来西亚公民雇员（不含家庭帮佣）的金额，至少须按现行 Minimum Wages Order 所订的最低薪金率计算。该法令本身的执法归人力资源部，但 EPF 就计算缴纳金另订自己的下限。"
 
 verificationNeeded:
-  - "Confirm whether any specific pass classes — for example student passes, dependant passes with work endorsement, or Professional Visit Passes — fall outside the Part F requirement, against KWSP directly; the employer guidance reviewed does not enumerate pass classes"
+  - "请直接向 KWSP 确认是否有任何特定准证类别 — 例如学生准证、附带工作批注的家属准证，或 Professional Visit Pass — 不在 Part F 要求的范围内；所审阅的雇主指南并未逐一列出准证类别"
 
 obligations:
   - what: "为非马来西亚公民雇员向 EPF 注册"

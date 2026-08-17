@@ -59,10 +59,10 @@ revisions:
 updated: 2026-07-28
 
 verificationNeeded:
-  - "Exact construction years of the Stadthuys (commonly cited c. 1650) and Christ Church (commonly cited 1753) — softened to 'mid-17th century' / '18th century' pending a primary heritage source."
-  - "The year and circumstances of the Melaka sultanate's adoption of Islam (often attributed to the 15th century; the specific date '1414' is historically disputed and was removed)."
-  - "The founding of Melaka around 1400 and its attribution to Parameswara."
-  - "The colonial-era dates in the timeline table — Portuguese conquest 1511, Dutch takeover 1641, Anglo-Dutch Treaty 1824 — standard but not confirmed against a fetched primary source in this pass."
+  - "荷兰红屋（Stadthuys，常被引为约 1650 年）与基督堂（Christ Church，常被引为 1753 年）的确切建造年份——在获得原始遗产来源前，已淡化处理为「17 世纪中叶」／「18 世纪」。"
+  - "马六甲苏丹国皈依伊斯兰教的年份与背景（常被归于 15 世纪；具体年份「1414」在史学上存在争议，已被移除）。"
+  - "Melaka约于1400年建立及其归功于Parameswara一事。"
+  - "时间线表中殖民时期的年份——葡萄牙征服1511年、荷兰接管1641年、Anglo-Dutch Treaty 1824年——属标准说法，但本轮未对照所抓取的原始来源加以确认。"
 sources:
   - title: "Melaka and George Town, Historic Cities of the Straits of Malacca"
     url: "https://whc.unesco.org/en/list/1223/"

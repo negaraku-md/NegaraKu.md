@@ -48,9 +48,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "The RM500 import-duty/sales-tax de minimis threshold at the border remains current."
-  - "Form D processing time (~3 working days) and 2-year validity of exporter authorisation to issue Form D."
-  - "Live duty rates and tariff codes change each budget cycle and AHTN revision — confirm against RMCD's current tariff schedule before relying on any specific rate."
+  - "边境 RM500 进口税／销售税的最低征税门槛仍然有效。"
+  - "Form D 的处理时间（约 3 个工作日）及出口商签发 Form D 授权的 2 年有效期。"
+  - "实时的关税税率与税则编码会随每个预算周期及 AHTN 修订而变动——在依赖任何具体税率之前，请对照 RMCD 现行的税则表核实。"
 updated: 2026-08-16
 sources:
   - title: "Targeted Revision of Sales Tax Rate and Expansion of Service Tax Scope, effective 1 July 2025 — Sales Tax remains at 5% and 10%"

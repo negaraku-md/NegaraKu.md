@@ -43,8 +43,8 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Sahkan bahawa kadar konsesi berperingkat Rangka Kerja Audit Cukai (15% / 30% / 45%) masih terpakai di bawah rangka kerja LHDN terkini."
-  - "Sahkan layanan penalti berkanun 100% di bawah Seksyen 113(2) bagi penyata tidak betul yang disengajakan terhadap rangka kerja pentadbiran semasa."
+  - "核实税务审计框架的分级优惠费率（15% / 30% / 45%）在LHDN最新框架下仍然适用。"
+  - "请对照当前的行政框架核实 Seksyen 113(2) 项下对故意作出不实报表所适用的 100% 法定罚则处理方式。"
 revisions:
   - version: "01.00"
     date: 2026-08-07

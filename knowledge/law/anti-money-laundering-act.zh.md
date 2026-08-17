@@ -40,9 +40,9 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Exact current short-title citation form: 'Anti-Restricted Activity Financing' was added to the Act's title by Act A1761 (in force 1 March 2026); confirm the precise wording against the latest official reprint once published."
-  - "Penalty-schedule section mappings (record-retention/disclosure/false-information cited under sections 14A, 17 and 18, while the record-keeping obligation itself is section 13) should be confirmed against the current reprint incorporating Act A1761; section 17 in the pre-A1761 reprint concerns secrecy obligations."
-  - "Section numbering (CDD s.16, compliance programme s.19, forfeiture ss.55-56) was verified against the SPRM reprint that does not yet incorporate Act A1761; confirm numbering is unchanged after the 1 March 2026 amendment."
+  - "当前短标题引用形式的确切写法：「Anti-Restricted Activity Financing」经 Act A1761（2026 年 3 月 1 日生效）加入该法令标题；一旦最新官方重印本发布，请对照核实确切措辞。"
+  - "罚则附表的条文对应（记录保存／披露／虚假资料被列在 sections 14A, 17 and 18 之下，而记录保存义务本身为 section 13），应对照纳入 Act A1761 的现行重印本核实；在 A1761 之前的重印本中，section 17 涉及的是保密义务。"
+  - "条文编号（CDD s.16、合规计划 s.19、没收 ss.55-56）是对照尚未纳入 Act A1761 的 SPRM 重印本核实的；请确认在 2026 年 3 月 1 日的修订之后编号未有改变。"
 revisions:
   - version: "01.00"
     date: 2026-08-07

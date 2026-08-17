@@ -46,7 +46,7 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Sama ada rujukan langsung kepada teks rasmi Perlembagaan Persekutuan (cetak semula AGC) wajar ditambah sebagai sumber primer."
+  - "是否应将对联邦宪法官方原文（AGC 重印本）的直接引用作为原始来源加入。"
 updated: 2026-08-07
 sources:
   - title: "Federal Constitution (Reprint As at 15 October 2020), Article 159(5)"

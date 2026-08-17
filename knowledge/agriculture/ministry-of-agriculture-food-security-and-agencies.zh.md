@@ -41,8 +41,8 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Bilangan tepat Kawasan Pembangunan Pertanian Bersepadu (IADA). Angka '12' dibuang; direktori rasmi KPKM (department-and-agency-links) kini nampaknya menyenaraikan kira-kira 13 IADA berdasarkan bacaan automatik — sahkan kiraan semasa secara manual pada direktori rasmi."
-  - "Susunan semasa FELDA — sama ada masih di luar KKDW atau telah dipindahkan — kerana terdapat cadangan awam untuk meletakkannya di bawah KKDW."
+  - "综合农业发展区（IADA）的确切数目。「12」这个数字已删除；根据自动读取，KPKM 官方名录（department-and-agency-links）目前似乎列出约 13 个 IADA——请在官方名录上手动核实当前的数目。"
+  - "FELDA 的现行归属安排——是仍在 KKDW 之外还是已被划转——因为曾有公开建议将其置于 KKDW 之下。"
 revisions:
   - version: "01.00"
     date: 2026-08-01

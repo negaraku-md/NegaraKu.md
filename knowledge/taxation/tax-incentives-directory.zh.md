@@ -23,10 +23,10 @@ keyTakeaways:
 appliesTo: "需要知道哪一项奖掖仍然存在、由谁管理、以及它靠哪一份法律文书的顾问、财务团队与投资规划人员。"
 
 verificationNeeded:
-  - "Confirm the current application window for the Accelerated Capital Allowance on automation equipment — P.U.(A) 252/2017 as amended by P.U.(A) 173/2020 was read for mechanism but the qualifying-expenditure window could not be fixed with confidence against the amending instrument"
-  - "Confirm with MIDA whether the Green Investment Tax Allowance and Green Income Tax Exemption were reopened after the windows in P.U.(A) 243/2024 to 247/2024 closed on 31 December 2023 — MIDA publishes revised green technology guidelines but no later gazette order was located"
-  - "Confirm whether any subsidiary legislation implementing the Global Services Hub special tax rate, the JS-SEZ special tax rate, or the New Incentive Framework has been gazetted — an AGC subsidiary-legislation sweep current to 8 July 2026 returned nothing for any of the three"
-  - "Confirm the current status of the BioNexus investment deduction and of Malaysia Digital status incentives, both of which are verified by an agency other than MIDA and are not fully traceable to a single gazetted instrument"
+  - "核实自动化设备加速资本免税额目前的申请窗口期——已阅读 P.U.(A) 252/2017（经 P.U.(A) 173/2020 修订）以了解机制，但合格支出窗口期未能对照该修订文书确切定案"
+  - "向 MIDA 核实，在 P.U.(A) 243/2024 至 247/2024 的窗口期于 2023 年 12 月 31 日结束后，Green Investment Tax Allowance 与 Green Income Tax Exemption 是否重新开放——MIDA 发布了修订后的绿色科技指南，但未能找到更晚的宪报命令。"
+  - "请核实是否有任何实施 Global Services Hub 特别税率、JS-SEZ 特别税率或 New Incentive Framework 的附属法规已刊宪——截至 2026 年 7 月 8 日的 AGC 附属法规检索对这三者均无结果。"
+  - "须核实BioNexus投资扣除及Malaysia Digital地位奖掖的当前状态，两者均由MIDA以外的机构核实，且无法完全追溯至单一已宪报的文书"
 
 lang: "zh"
 masterLanguage: "en"

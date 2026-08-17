@@ -38,7 +38,7 @@ faq:
     a: "s.252(4) 规定，任何董事若未采取一切合理步骤确保遵守 s.252(1)，可被罚款最高 RM500,000 或监禁最高一年或两者兼施。s.252(5) 就违反 s.252(2) 的批准与签署要求，对公司与每一名高职人员处以最高 RM20,000 罚款。s.251(4) 则就财务报表那一项载有 RM500,000 或一年或两者兼施的罚则。"
 
 verificationNeeded:
-  - "Confirm whether the Registrar has prescribed any additional directors' report details under paragraph 1(p) of the Fifth Schedule, which permits any other details as determined by the Registrar"
+  - "请确认Registrar是否已根据Fifth Schedule第1(p)段规定任何额外的董事报告事项，该段允许由Registrar决定的任何其他事项"
 
 obligations:
   - what: "就该财政年度编制董事报告，并附于财务报表"

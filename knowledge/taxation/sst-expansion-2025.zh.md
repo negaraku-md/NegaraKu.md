@@ -39,7 +39,7 @@ faq:
     a: "需要。本文所述的每一项宽减，都是依据《2018年服务税法令》第34条对税款缴纳的豁免，而不是把该服务从第一附表中移除。第12(2)条检验的是所有应税服务的总价值，因此获豁免的供应仍会计入，并可能使你超过门槛。"
 
 verificationNeeded:
-  - "The term wellness centre in Group C is no longer defined in the Service Tax Regulations 2018 after P.U.(A) 201/2025 deleted the proposed definition — confirm the current administrative boundary between a taxable wellness centre and a non-taxable beauty salon with RMCD"
+  - "在 P.U.(A) 201/2025 删除拟议定义后，Group C 中的 wellness centre 一词在 Service Tax Regulations 2018 中已不再有定义——请向 RMCD 核实应税的 wellness centre 与免税的美容院之间当前的行政界线。"
 
 obligations:
   - what: "Apply for service tax registration after crossing a group threshold"

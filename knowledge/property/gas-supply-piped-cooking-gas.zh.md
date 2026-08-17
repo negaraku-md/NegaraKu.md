@@ -48,11 +48,11 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Yuran sebenar dan terkini untuk membuka akaun gas paip baharu Gas Malaysia (yuran pentadbiran, deposit, yuran meter) — jumlah dilaporkan sekitar RM350 oleh pemohon; sahkan terus dengan Gas Malaysia."
-  - "Harga siling semasa tong komersial 14kg (dilaporkan sekitar RM70, dan meningkat kira-kira RM14 selepas pelarasan harga komersial 2026)."
-  - "Nilai subsidi setong RM43.40 dan jumlah beban subsidi LPG RM3.4 bilion (2024) — berasal daripada laporan akhbar; sahkan terhadap angka rasmi KPDN/Kementerian Kewangan."
-  - "Harga siling semasa RM26.60 untuk tong 14kg isi rumah — sahkan dengan KPDN kerana harga disemak dari semasa ke semasa."
-  - "Status penguatkuasaan Ops Gasak selepas 31 Oktober 2025 dan sama ada sekatan tong isi rumah kepada isi rumah sahaja kekal secara tetap."
+  - "开立Gas Malaysia新管道燃气账户的实际及当前费用（行政费、押金、表费）——申请者报告的金额约为RM350；须直接向Gas Malaysia核实。"
+  - "14 公斤商用煤气罐的当前顶价（据报道约 RM70，并在 2026 年商用价格调整后上涨约 RM14）。"
+  - "每桶 RM43.40 的补贴额及 LPG 补贴总负担 RM3.4 bilion（2024 年）— 源自报章报道；请对照 KPDN／财政部的官方数字加以确认。"
+  - "家用14kg装当前的顶价RM26.60——请向KPDN确认，因为价格会不时检讨。"
+  - "Ops Gasak在2025年10月31日之后的执法状况，以及将家用钢瓶限于家庭用户的限制是否永久保留。"
 
 updated: 2026-08-08
 sources:

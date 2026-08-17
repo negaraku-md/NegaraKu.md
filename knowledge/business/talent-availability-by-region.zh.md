@@ -40,11 +40,11 @@ faq:
     a: "官方无人确知。新加坡人力部按准证类别公布其外籍劳动力，但无国籍细分，DOSM也没有维护任何跨境通勤数据集。广为流传的约30万人这一数字无法追溯至任何一方政府。可将其对柔佛的薪资影响视为真实，但将人数视为未经核实。"
 
 verificationNeeded:
-  - "Reconcile DOSM's own two 2025 series — the annual Labour Force Survey gives Sabah unemployment at 7.2 per cent and Selangor LFPR at 78.4 per cent, while the revised quarterly table implies 6.3 per cent and 77.4 per cent. The divergence appears to be a population-base difference specific to the 2025 vintage and is not explained in either publication"
-  - "Confirm manufacturing or sector employment by state — DOSM publishes none in open data, and the state breakdown of the Employment Statistics release sits behind the eStatistik login"
-  - "Confirm the stock of electrical and electronics workers in Penang — no official figure exists on InvestPenang, the Penang state portal or MIDA"
-  - "Confirm graduate output by state — the Ministry of Higher Education publishes enrolment by campus state but not output by state"
-  - "Confirm the count of documented foreign workers holding a PLKS, nationally and by state — DOSM publishes non-citizen population, which includes dependants, students, permanent residents and undocumented persons"
+  - "需调和 DOSM 自身的两套 2025 年数据——年度 Labour Force Survey 给出沙巴失业率 7.2%、雪兰莪 LFPR 78.4%，而修订后的季度表则显示为 6.3% 和 77.4%。这一差异似乎是 2025 年这一版本特有的人口基数差别，两份刊物均未加以说明。"
+  - "须核实按州划分的制造业或各行业就业数据——DOSM并未在公开数据中公布，而Employment Statistics发布中的州别细分则须登录eStatistik才能取得"
+  - "核实槟城电气与电子行业从业人员的存量——InvestPenang、槟城州门户或MIDA上均无官方数字。"
+  - "请核实各州的毕业生产出数量——高等教育部（Ministry of Higher Education）公布的是按校园所在州划分的招生人数，而非按州划分的毕业生产出。"
+  - "请确认持有 PLKS 的有证外籍劳工人数（全国及按州属划分）— DOSM 公布的是非公民人口，其中包含家属、学生、永久居民及无证人士"
 
 lang: "zh"
 masterLanguage: "en"

@@ -46,8 +46,8 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Nilai potong ringgit rasmi B40/M40/T20 bagi 2024 (pendapatan pada persentil ke-40 dan ke-80) belum disenaraikan dalam artikel — sahkan dan tambah daripada laporan penuh DOSM 2024 jika perlu."
-  - "Sama ada kerajaan secara rasmi menggunakan pecahan lebih halus (cth. T15) untuk penyasaran subsidi — dakwaan asal dibuang kerana tiada sumber rasmi dalam laporan DOSM yang dipetik; sahkan sumber sebelum menambah semula."
+  - "2024 年 B40/M40/T20 官方的令吉分界值（第 40 与第 80 百分位的收入）尚未列于文中——如有需要，请从 DOSM 2024 完整报告核实并补充。"
+  - "政府是否正式采用更细的分层（例如 T15）来进行补贴对象锁定——原有说法已删除，因为所引用的 DOSM 报告中没有官方来源；在重新加入前请核实来源。"
 updated: 2026-08-08
 sources:
   - title: "Household Income Survey Report, Malaysia & States 2024 (dikeluarkan 2025-10-08)"

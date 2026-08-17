@@ -42,10 +42,10 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Exact MFRS 10 paragraph numbers cited for the three-element control test (stated here as para 7) and for the intermediate-parent exemption (stated here as para 4(a)) — confirm against the in-force MASB text."
-  - "Whether the version of MFRS 10 in force for the reader's financial year reflects later amendments (e.g. Annual Improvements); this draft cites the BV2021 consolidated text."
-  - "The exact subject and timing wording of Companies Act 2016 ss244, 245, 248, 250, 258 and 259 against the current SSM-published Act (the source PDF could not be machine-read during drafting)."
-  - "MBRS 2.0 announcement date (26 Nov 2024) and phased rollout dates against SSM's own MBRS notice, as the currently cited source is a professional-firm summary."
+  - "本文引用的 MFRS 10 段落编号——三要素控制测试（此处标示为 para 7）以及中间母公司豁免（此处标示为 para 4(a)）——请对照现行有效的 MASB 文本核实。"
+  - "读者财政年度所适用的 MFRS 10 版本是否已纳入后续修订（例如 Annual Improvements）；本稿引用的是 BV2021 综合文本。"
+  - "对照 SSM 目前公布的 Companies Act 2016，核实第 ss244、245、248、250、258 及 259 条关于事项与时限的确切措辞（撰稿期间源 PDF 无法机器读取）。"
+  - "就 MBRS 2.0 的公布日期（26 Nov 2024）及分阶段推行日期，对照 SSM 本身的 MBRS 通告核实，因为目前引用的来源是专业事务所的摘要。"
 revisions:
   - version: "01.00"
     date: 2026-08-08

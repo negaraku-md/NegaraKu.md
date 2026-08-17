@@ -51,8 +51,8 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Confirm current SUHAKAM membership count sits within the statutory 7-20 range as at publication date."
-  - "Confirm no annual reports beyond 2022 have since been tabled that would update the reporting-backlog statement."
+  - "请确认截至出版日期，SUHAKAM 现有成员人数处于法定的 7 至 20 人范围内。"
+  - "请确认自 2022 年以来没有再提呈过任何年度报告，以致须更新关于报告积压的陈述。"
 updated: 2026-08-07
 sources:
   - title: "Chart of the Status of National Institutions Accredited by GANHRI — as of 4 December 2025"

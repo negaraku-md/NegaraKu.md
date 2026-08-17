@@ -44,9 +44,9 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Kod borang JPN.KC02 (permohonan/pendaftaran perkahwinan) dan JPN.KC01C (lesen perkahwinan khas/ekspres untuk mengetepikan notis 21 hari): disahkan melalui sumber kerajaan negeri (Pejabat Daerah Serian, Sarawak), tetapi sahkan sekali lagi terhadap portal rasmi JPN kerana kod borang boleh dikemas kini."
-  - "Klasifikasi sensitivity kekal 'none' seperti diarahkan, tetapi artikel menyentuh peruntukan pemelukan Islam (seksyen 51, 51A) dan pembahagian bidang kuasa sivil vs Syariah — topik antara agama yang sensitif di Malaysia. Peninjau manusia patut menilai semula sama ada tag 'none' memadai."
-  - "Seksyen 12 (ibu kini mempunyai kuasa persetujuan yang sama dengan bapa bagi perkahwinan anak di bawah umur 21 tahun): sahkan perkataan tepat pindaan; sumber sekunder mengesahkan pihak yang boleh memberi persetujuan diperluas tetapi tidak semuanya menyatakan kesetaraan ibu secara eksplisit."
+  - "表格代码JPN.KC02（结婚申请／登记）及JPN.KC01C（用以豁免21天公告的特别／快速结婚准证）：已通过州政府来源（Sarawak州Serian县办事处）确认，但由于表格代码可能更新，请再对照JPN官方门户核实一次。"
+  - "sensitivity 分类依指示保持为「none」，但文章触及皈依伊斯兰教的条文（seksyen 51, 51A）以及民事与伊斯兰教法（Syariah）管辖权的划分——这是马来西亚敏感的宗教间议题。人工审阅者应重新评估「none」标签是否足够。"
+  - "Seksyen 12（母亲现在就 21 岁以下子女的婚姻拥有与父亲同等的同意权）：请确认修订的确切措辞；二手来源确认可给予同意的一方已扩大，但并非全部都明确表述母亲的同等地位。"
 revisions:
   - version: "01.00"
     date: 2026-08-07

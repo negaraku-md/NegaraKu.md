@@ -41,10 +41,10 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Isu sosial dan alam sekitar projek empangan mega (Bakun, Murum) — penempatan semula masyarakat orang asal dan kesan ekologi — memerlukan sumber utama berasingan sebelum sebarang butiran khusus ditambah."
-  - "Sumbangan Press Metal kira-kira 40% adalah khusus bagi separuh pertama 2025 (1H 2025) mengikut RAM; sahkan angka bagi tempoh terkini."
-  - "Tarikh penugasan Baleh (suku keempat 2030) tertakluk kepada kemajuan pembinaan; sahkan dengan kemas kini SEB terkini."
-  - "Angka kapasiti dan kewangan berubah mengikut masa; sahkan dengan laporan tahunan dan siaran media terkini SEB."
+  - "大型水坝项目（Bakun、Murum）的社会与环境问题——原住民社群的重新安置及生态影响——在加入任何具体细节之前，需要另行取得主要来源。"
+  - "据 RAM，Press Metal 约 40% 的贡献专指 2025 年上半年（1H 2025）；请核实最近期的数字。"
+  - "Baleh的投产日期（2030年第四季）视建设进度而定；须以SEB最新动态核实。"
+  - "产能与财务数字会随时间变化；须以SEB最新的年报及新闻稿核实。"
 revisions:
   - version: "01.00"
     date: 2026-08-01

@@ -47,9 +47,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Sahkan sama ada entiti pentadbir hendak dirujuk sebagai 'Pasukan Sukarelawan Malaysia' (nama statutori dalam Akta) atau 'Jabatan Sukarelawan Malaysia' (nama jabatan pentadbir); sumber yang dipetik hanya mengesahkan yang pertama."
-  - "Sahkan tiada pindaan Akta 752 yang lebih baharu daripada P.U. (A) 165/2024 — sumber ialah teks kemas kini AGC sebagaimana pada 1 Julai 2024."
-  - "Sahkan susunan dan singkatan pangkat penuh terhadap Jadual semasa sebagaimana dipinda oleh P.U. (A) 165/2024."
+  - "请核实主管实体应称为「Pasukan Sukarelawan Malaysia」（法令中的法定名称）还是「Jabatan Sukarelawan Malaysia」（主管部门的名称）；所引用来源仅确认前者。"
+  - "须核实没有比P.U. (A) 165/2024更新的Akta 752修订——来源为AGC截至2024年7月1日的更新文本。"
+  - "须根据经P.U. (A) 165/2024修订的现行附表，核实完整的军衔排序与缩写。"
 updated: 2026-08-01
 sources:
   - title: "Act 752 — Jabatan Sukarelawan Malaysia (RELA)"

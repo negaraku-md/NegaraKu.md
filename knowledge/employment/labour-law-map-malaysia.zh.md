@@ -23,9 +23,9 @@ keyTakeaways:
 appliesTo: "需要知道该敲哪一扇门的人力资源、薪资与合规团队。"
 
 verificationNeeded:
-  - "Confirm the legal instrument establishing the Malaysian Gig Economy Commission (SEGiM) and its powers — it is not established by the Gig Workers Act 2025"
-  - "Confirm whether the Gig Workers Tribunal has a standalone registry address or portal separate from eAduan Gig"
-  - "Confirm Act numbers 612, 732, 789, 800, 840 and 872 against lom.agc.gov.my once those PDFs are served — they are currently confirmed from agency sites rather than the LOM repository"
+  - "须确认设立马来西亚零工经济委员会（SEGiM）的法律文书及其权力——它并非由Gig Workers Act 2025设立"
+  - "核实零工劳动者仲裁庭（Gig Workers Tribunal）是否设有独立于eAduan Gig的登记处地址或门户。"
+  - "待 lom.agc.gov.my 上的相关 PDF 可供访问后，请对照该网站核实法令编号 612、732、789、800、840 与 872——这些目前是依据各机构网站而非 LOM 库确认的。"
 
 lang: "zh"
 masterLanguage: "en"

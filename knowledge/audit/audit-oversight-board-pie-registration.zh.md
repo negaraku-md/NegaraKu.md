@@ -53,9 +53,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "That the Accountants Act 1967 [Act 94] is the statute establishing the MIA and the Chartered Accountant (CA(M)) designation — the 'Membership as a professional accountant' row. Companies Act 2016 s.263(7) cites the Accountants Act 1967 for the definition of 'chartered accountant', but MIA's own pages were not machine-fetchable to confirm the establishing provision."
-  - "The exact Schedule reference under Part IIIA of the SCMA 1993 that defines 'public interest entity' and 'schedule fund' — the draft attributes these to Part IIIA generally rather than pinning a specific Schedule number."
-  - "The 13 June 2024 revision date of the AOB Handbook for Registration and the Form 3 / Form 4 recognition details against the current AOB handbooks on the SC website."
+  - "Accountants Act 1967 [Act 94] 是否为设立 MIA 及特许会计师（CA(M)）资格的法规——即「Membership as a professional accountant」一行。Companies Act 2016 s.263(7) 就「chartered accountant」的定义援引 Accountants Act 1967，但 MIA 本身的网页无法由机器抓取以确认该设立条文。"
+  - "SCMA 1993 第 Part IIIA 项下界定「public interest entity」与「schedule fund」的确切附表引用——草稿只笼统归于 Part IIIA，而未指明具体的附表编号。"
+  - "须将AOB Handbook for Registration的2024年6月13日修订日期，以及Form 3／Form 4的认可细节，与SC网站上现行的AOB手册核对。"
 
 updated: 2026-08-08
 sources:

@@ -51,7 +51,7 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "The ~1.5-day sailing-time saving for the ECRL land bridge is a Kuantan Port estimate originally reported in a 2017 article; confirm the figure against current routing analysis."
+  - "ECRL陆桥节省约1.5天航行时间是Kuantan Port的估计，最初于2017年的一篇文章中报道；须对照当前的航线分析核实该数字。"
 
 updated: 2026-08-14
 sources:

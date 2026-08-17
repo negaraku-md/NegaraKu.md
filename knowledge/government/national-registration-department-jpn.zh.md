@@ -42,12 +42,12 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Exact 'normal' vs 'late' birth-registration day thresholds (sources conflate 14, 42 and 60 days) — verify against JPN's birth core-business pages for Peninsular/Sabah/Sarawak separately, as thresholds and penalties differ by region."
-  - "Mandatory MyKad re-registration at age 18 and the exact free window (commonly cited as ages 18–25 under National Registration Regulations 1990 Reg. 18) — confirm on the JPN 'replacement at 18' service page."
-  - "Full fee-exemption list for lost-IC replacement (senior citizens 60+, disabled, robbery/snatch victims, natural-disaster victims, under-18) — verify on the JPN fee schedule or an official circular."
-  - "Current Director-General of JPN and total number of branches / UTC counters nationwide."
-  - "Whether the 12th NRIC digit strictly encodes gender by parity (odd male, even female) or functions as a check/serial digit — confirm via an official JPN NRIC-format reference."
-  - "MEKAR programme scope and current status (mobile registration outreach) — confirm on JPN's MEKAR page."
+  - "「正常」与「逾期」出生登记的确切天数门槛（来源将14、42及60天混为一谈）——须分别对照JPN关于Peninsular／Sabah／Sarawak出生核心业务的页面核实，因为门槛与罚则因地区而异。"
+  - "18岁强制重新登记MyKad及确切的免费期限（常被引述为National Registration Regulations 1990 Reg. 18下的18–25岁）——须在JPN的「18岁换领」服务页面上核实。"
+  - "补办遗失身份证的完整费用豁免清单（60 岁以上年长者、残障人士、抢劫／扒窃受害者、天灾受害者、18 岁以下）——请在 JPN 费用表或官方通令上核实。"
+  - "现任 JPN 总监，以及全国分行／UTC 柜台的总数。"
+  - "NRIC第12位数字究竟是严格以奇偶来编码性别（奇数为男、偶数为女），还是作为校验／序号位——请通过JPN官方的NRIC格式参考加以确认。"
+  - "MEKAR计划的范围与当前状况（流动登记外展）——请在JPN的MEKAR页面上核实。"
 updated: 2026-08-14
 sources:
   - title: "Portal Jabatan Pendaftaran Negara – Rakyat Di Hati JPN"

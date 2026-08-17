@@ -36,7 +36,7 @@ faq:
     a: "通过 BLESS 2.0 申请。KPDN 的检查清单将 BLESS 列为渠道，只有在系统故障时才以柜台提交作为后备。有效期本身并未公布，但 KPDN 确实规定续期申请须在到期日前至少三个月提出——所以要尽早弄清自己的到期日，并据此倒推安排。"
 
 verificationNeeded:
-  - "The length of a WRT approval's validity period — only the three-month renewal lead time is published"
+  - "WRT 批准的有效期长度——目前仅公布了三个月的续期提前时限。"
 
 lang: "zh"
 masterLanguage: "en"

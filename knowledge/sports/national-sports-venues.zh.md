@@ -45,10 +45,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Litar Antarabangsa Sepang: panjang trek tepat (kira-kira 5.5 km), bilangan selekoh (kira-kira 15), kapasiti (lebih kurang 130,000), tahun dibuka (1999) dan pereka (Hermann Tilke) — laman rasmi pengendali (sepangcircuit.com) menyekat capaian automatik (HTTP 403); sahkan terus dengan pengendali litar."
-  - "Kapasiti Stadium Hoki Nasional (Stadium 1): halaman rasmi stadium.gov.my tidak konsisten dengan sendirinya (10,000 dalam jadual spesifikasi, 12,000 dalam teks); sahkan angka sebenar."
-  - "Status 'stadium terbesar di Asia Tenggara' untuk TM Stadium Nasional telah dibuang kerana tiada dalam sumber yang dipetik; sahkan jika ada sumber berwibawa."
-  - "Status padang hoki (misalnya 'FIH Global Elite') telah dibuang kerana tiada sumber sokongan; sahkan jika terdapat rekod rasmi FIH."
+  - "雪邦国际赛道：确切赛道长度（约 5.5 km）、弯道数量（约 15 个）、容量（约 130,000）、启用年份（1999）及设计师（Hermann Tilke）——运营方官方网站（sepangcircuit.com）阻止自动访问（HTTP 403）；请直接向赛道运营方核实。"
+  - "国家曲棍球体育场（Stadium 1）的容量：stadium.gov.my的官方页面自相矛盾（规格表中为10,000，正文中为12,000）；须核实实际数字。"
+  - "TM Stadium Nasional「东南亚最大体育场」的说法因不在所引用来源中而被删除；如有权威来源须核实。"
+  - "曲棍球场地的等级（例如「FIH Global Elite」）因缺乏佐证来源已予删除；若有 FIH 官方记录请予核实。"
 
 updated: 2026-08-01
 sources:

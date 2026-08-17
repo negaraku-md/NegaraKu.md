@@ -39,7 +39,7 @@ faq:
     a: "是的。两道豁免令都明文规定，豁免中的任何内容都不免除纳税人依法令提交报税表、账目报表或其他资料的义务。豁免免除的是税款，而非披露义务。"
 
 verificationNeeded:
-  - "The exact P.U.(A) number for the amendment extending the company/LLP foreign-DIVIDEND exemption (Income Tax (Exemption) (No. 6) Order 2022, P.U.(A) 235/2022) to 31 December 2030 — the capital-asset (P.U.(A) 275/2026) and unit-trust (P.U.(A) 270/2026) siblings are confirmed gazetted, and firms report the dividend order extended in the same late-July 2026 batch, but its own P.U.(A) number could not be pinned to a primary Gazette text. Confirm before relying on a 2030 dividend expiry"
+  - "将公司／LLP 外国股息豁免（Income Tax (Exemption) (No. 6) Order 2022，P.U.(A) 235/2022）延长至 2030 年 12 月 31 日的修订的确切 P.U.(A) 编号 — 资本资产（P.U.(A) 275/2026）与单位信托（P.U.(A) 270/2026）的同类命令已确认刊宪，各公司也报告股息命令在 2026 年 7 月下旬同一批次中获延长，但其本身的 P.U.(A) 编号无法锚定到原始宪报文本。依赖 2030 年股息到期之前请加以确认"
 
 lang: "zh"
 masterLanguage: "en"

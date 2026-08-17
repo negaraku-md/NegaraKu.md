@@ -51,11 +51,11 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Tarikh tepat saman Kelantan terhadap Petronas dan Kerajaan Persekutuan serta tarikh ia ditarik balik (tarikh spesifik telah dibuang kerana tiada dalam mana-mana sumber yang dipetik)."
-  - "Tarikh dan bentuk instrumen permulaan kuat kuasa Akta 144 (rujukan nombor Warta P.U.(B) telah dibuang kerana tidak dapat disahkan terhadap sumber utama)."
-  - "Usul Dewan Undangan Negeri Sarawak menolak Akta Laut Wilayah 2012 (dilaporkan Disember 2015 oleh Adil Legal) — sahkan terhadap rekod DUN Sarawak."
-  - "Terma tepat perjanjian penyerahhakan 1975-76, termasuk kadar 5%+5%, terhadap dokumen penyerahhakan asal; sumber Low & Partners menyebut kadar ini tetapi tersilap menamakan Akta sebagai 'Petroleum Development Act 1975'."
-  - "Wujud atau tidak sebarang 'Perjanjian Penyelesaian Komersial' berasingan antara Petronas dan Sarawak (selain penyelesaian cukai jualan Mei 2020) dan tarikhnya."
+  - "吉兰丹对 Petronas 及联邦政府提起诉讼的确切日期及其撤回日期（具体日期已删除，因为任何所引用来源中都没有）。"
+  - "Akta 144生效的日期及生效文书的形式（P.U.(B)宪报编号引用因无法对照主要来源核实而被删除）。"
+  - "砂拉越州立法议会否决Akta Laut Wilayah 2012的动议（由Adil Legal报告于Disember 2015）——须根据DUN Sarawak的记录核实。"
+  - "1975-76 年让与协议的确切条款，包括 5%+5% 的费率——请对照原始让与文件核实；Low & Partners 来源提及了此费率，但错误地将该法令称为「Petroleum Development Act 1975」。"
+  - "Petronas 与砂拉越之间是否存在任何单独的「商业和解协议」（除 2020 年 5 月的销售税和解之外）及其日期。"
 
 updated: 2026-08-01
 sources:

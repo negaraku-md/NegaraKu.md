@@ -34,8 +34,8 @@ faq:
     a: "经常是的，而且跑两把不同的时钟。文书须依 section 47 在签立后 30 天内盖印花。另外，若处置人是公司、LLP、信托机构或合作社，则须在处置日起 60 天内通过 e-Filing 呈交资本利得税报表，税款亦在同一个 60 天内缴付。一笔交易，两份呈报，两个期限，两个当局要交代。"
 
 verificationNeeded:
-  - "The share valuation guideline is dated 6 November 2019 and effective 1 June 2019; whether LHDN has reissued it since was not confirmed, and it should be re-checked before relying on the category table"
-  - "Whether stamp duty relief under s.15 or s.15A is available on a particular intra-group share transfer depends on conditions not examined here and should be confirmed with the State Director's Office"
+  - "该股份估值指南日期为 2019 年 11 月 6 日，生效日为 2019 年 6 月 1 日；LHDN 此后是否曾重新发布尚未获证实，在依据该分类表之前应重新核对。"
+  - "某项集团内股份转让是否可享有 s.15 或 s.15A 下的印花税减免，取决于此处未审查的条件，应向 State Director's Office 确认"
 
 obligations:
   - what: "为股份转让文书加盖印花"

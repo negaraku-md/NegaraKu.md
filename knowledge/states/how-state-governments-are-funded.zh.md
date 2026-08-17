@@ -41,10 +41,10 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Ketepatan setiap angka ISEAS (RM926 hasil negeri per kapita; RM8,969 hasil persekutuan per kapita; RM4,414 hasil per kapita Sarawak; bahagian tanah Selangor 82%; hasil hutan Pahang/Kelantan 18–20%; geran perkapita Selangor RM77.2 juta) serta tahun rujukan tepat bagi setiap satu, terhadap jadual asal kajian."
-  - "Percanggahan dalaman dalam kajian ISEAS: teks naratif menyebut hasil persekutuan RM28,153 per kapita, tetapi Jadual 1 kajian yang sama menunjukkan RM8,969 per kapita. Hanya angka RM8,969 selaras dengan nisbah 10.3% yang dinyatakan dan dengan anggaran hasil persekutuan sebenar. Sahkan angka rasmi hasil persekutuan per kapita daripada Kementerian Kewangan / Laporan Ekonomi."
-  - "Nilai semasa geran khas Sabah dan Sarawak selepas mana-mana semakan di bawah Perkara 112D."
-  - "Tahun rujukan tepat bagi bahagian hasil hutan Pahang dan Kelantan (data kajian dilaporkan meliputi tempoh 2009–2019)."
+  - "每一项 ISEAS 数字的准确性（州收入人均 RM926；联邦收入人均 RM8,969；砂拉越人均收入 RM4,414；雪兰莪土地收入占比 82%；彭亨/吉兰丹森林收入 18–20%；雪兰莪人均补助金 RM77.2 juta）及各自的确切参考年份，须对照该研究的原始表格核实。"
+  - "ISEAS 研究内部的矛盾：叙述文字提到联邦人均收入为 RM28,153，但同一研究的 Jadual 1 却显示人均 RM8,969。只有 RM8,969 这个数字与所述的 10.3% 比例及实际联邦收入估算相符。请从 Kementerian Kewangan / Laporan Ekonomi 核实官方的联邦人均收入数字。"
+  - "依Perkara 112D进行任何检讨之后，Sabah与Sarawak特别拨款的当前数额。"
+  - "Pahang与Kelantan森林收入份额的确切参照年份（研究数据据报涵盖2009–2019期间）。"
 revisions:
   - version: "01.00"
     date: 2026-08-08

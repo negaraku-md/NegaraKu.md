@@ -39,9 +39,9 @@ faq:
     a: "它依据 2022 至 2030 年的第三份综合发展计划规划、便利并协调发展，并与柔佛投资局及 MIDA 共同主导柔佛投资大马便利中心。IMFC-J 签发 MIDA 作为申请先决条件所要求的、位于某 JS-SEZ 旗舰区内的位置确认书。"
 
 verificationNeeded:
-  - "P.U.(B) 56/2007, the original determination of the Iskandar Development Region containing the mukim-level delineation, is listed as not available on the AGC portal. Do not publish a mukim list."
-  - "Whether the approved developer limbs of P.U.(A) 417/2007 were extended by any amendment gazetted between 2008 and 2010. AGC coverage of that period is sparse, so a negative search is not conclusive."
-  - "All widely repeated corporate facts about Medini Iskandar Malaysia Sdn Bhd and its shareholders come from non-official sources and were not verified"
+  - "P.U.(B) 56/2007，即包含mukim层级划界的Iskandar Development Region原始确定文件，在AGC门户上标示为无法取得。请勿发布mukim清单。"
+  - "P.U.(A) 417/2007 中有关认可发展商的条款分支，是否曾被 2008 至 2010 年间任何经宪报公布的修订所延长。AGC 对该时期的收录较为稀疏，因此搜索无果并不足以定论。"
+  - "关于 Medini Iskandar Malaysia Sdn Bhd 及其股东的所有广为流传的公司资料均来自非官方来源，且未经核实"
 
 lang: "zh"
 masterLanguage: "en"

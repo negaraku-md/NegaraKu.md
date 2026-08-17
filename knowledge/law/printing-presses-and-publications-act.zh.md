@@ -40,10 +40,10 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Sahkan bahawa penomboran seksyen yang dirujuk (3, 5, 6, 7, 12, 13, 13A, 13B) kekal sama dalam teks Akta 301 yang berkuat kuasa hari ini selepas pindaan 2012 dan mana-mana pindaan berikutnya."
-  - "Sahkan tarikh dan nombor rujukan pindaan 2012 (dilaporkan sebagai Akta A1436, berkuat kuasa 15 Julai 2012) terhadap Warta Kerajaan rasmi."
-  - "Sahkan butiran perintah larangan 19 Disember 2024 terhadap enam judul terhadap teks perintah rasmi dalam Warta, bukan hanya laporan berita Bernama."
-  - "Sahkan tarikh dan status perundangan majlis media 2025 (dilaporkan diluluskan Parlimen 26 Februari 2025) terhadap rekod Parlimen atau Warta rasmi."
+  - "请核实所引用的条文编号（3, 5, 6, 7, 12, 13, 13A, 13B）在经 2012 年修订及其后任何修订后、今日生效的 Akta 301 文本中保持不变。"
+  - "请对照官方宪报（Warta Kerajaan）核实 2012 年修订的日期及参考编号（报道为 Akta A1436，于 15 Julai 2012 生效）。"
+  - "请对照宪报中的官方命令文本核实 2024 年 12 月 19 日针对六个刊物标题的查禁令详情，而非仅凭 Bernama 的新闻报道。"
+  - "请对照国会记录或官方宪报，核实 2025 年媒体理事会立法的日期与状态（据报于 26 Februari 2025 获国会通过）。"
 revisions:
   - version: "01.00"
     date: 2026-08-07

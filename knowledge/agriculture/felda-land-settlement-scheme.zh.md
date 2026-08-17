@@ -48,11 +48,11 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Saiz lot tanaman setiap peneroka (angka 4–6 hektar / 10 ekar sering disebut secara umum tetapi tiada dalam sumber rasmi yang dirujuk) — dibuang sehingga disahkan dengan sumber primer."
-  - "Pengasas/pelopor idea FELDA (sering dikaitkan dengan Tun Abdul Razak Hussein secara sejarah) — tidak ditemui dalam sumber yang dirujuk; perlu pengesahan sumber primer."
-  - "Bilangan tepat pemilik yang dibenarkan didaftarkan bagi satu lot di bawah Akta 1960 (undang-undang semasa) — sumber hanya menyatakan 'mengehadkan bilangan pemilik' tanpa angka; had 'dua nama' ialah cadangan pindaan 2026."
-  - "Bulan tepat pembukaan Rancangan Air Lanas (The Edge menyatakan Mac 1957) — sahkan dengan rekod FELDA."
-  - "Angka 1990: 114,400 keluarga / 500,000 hektar — sahkan sumber primer FELDA."
+  - "每名垦殖民的种植地段面积（4–6 公顷／10 英亩这一数字常被泛泛提及，但在所引用的官方来源中并不存在）——在以原始来源证实之前予以删除。"
+  - "FELDA 理念的创立者／倡导者（历史上常与 Tun Abdul Razak Hussein 联系在一起）— 在所引用的资料中未找到；需要原始资料来源加以确认。"
+  - "根据Akta 1960（现行法律），一块地段获准登记的确切业主人数——来源仅说明「限制业主人数」而未给出数字；「两个名字」的上限是2026年的修订建议。"
+  - "Air Lanas计划开垦的确切月份（The Edge指为1957年3月）——请与FELDA的记录核实。"
+  - "1990 年数据：114,400 户家庭／500,000 公顷——请对照 FELDA 一手来源核实。"
 
 updated: 2026-08-01
 sources:

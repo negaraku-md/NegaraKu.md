@@ -48,11 +48,11 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Kelantan Dec 2024 JAHEIK hotel-alcohol directive: confirm current status, scope, and whether it is a formal order or advisory (sourced to news media, not an official gazette)."
-  - "Customs minimum-absence periods (72h general / 48h Langkawi / 24h Labuan): the CAAM AIP still lists these, but a cited consumer source notes current JKDM published tables may omit them — confirm the live position with the Royal Malaysian Customs Department (RMCD)."
-  - "Licence categories (retail / wholesale / public house) and associated fees: currently rest on industry guidance; confirm with the relevant local authority and RMCD."
-  - "Tioman and Pangkor duty-free status and the Budget 2021 tobacco taxation change: currently rest on consumer guidance; confirm with RMCD."
-  - "Compounded hard liquor 700 ml minimum-bottle rule and the RM10,000 / RM5,000 / two-year penalty figures: confirm against the gazetted Food (Amendment) Regulations 2016 text."
+  - "吉兰丹 2024 年 12 月 JAHEIK 酒店酒类指令：请确认当前状态、范围，以及它究竟是正式命令还是建议（来源为新闻媒体，而非官方宪报）。"
+  - "海关最短离境时长（一般72h／Langkawi 48h／Labuan 24h）：CAAM AIP仍列有这些数字，但一处引用的消费者来源指出，JKDM当前公布的表格可能已省略它们——请向Royal Malaysian Customs Department (RMCD)确认现行立场。"
+  - "执照类别（零售／批发／public house）及相关费用：目前依据行业指引；请与相关地方当局及RMCD核实。"
+  - "Tioman 和 Pangkor 的免税地位以及 Budget 2021 的烟草税变动：目前依据的是消费者指南；请向 RMCD 核实。"
+  - "复配烈酒 700 ml 最低瓶装规定，以及 RM10,000／RM5,000／两年刑期的罚则数字：请对照宪报公布的 Food (Amendment) Regulations 2016 文本核实。"
 
 updated: 2026-08-01
 sources:

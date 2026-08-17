@@ -47,11 +47,11 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Penang island land area — the precise figure (previously '293 km²') was removed as unsourced; confirm against a primary source (e.g. Department of Statistics Malaysia or Penang state government) before reinstating any number."
-  - "Whether Penang National Park is Malaysia's smallest national park — the 'one of the smallest in the world' superlative was removed as unsupported and likely overstated; confirm any superlative against an authoritative source before adding it back."
-  - "The meromictic lake at Penang National Park (Pantai Kerachut) — retained as a descriptive feature; confirm details with a primary source."
-  - "'More than 500 years of trade' — tracks the UNESCO Outstanding Universal Value framing but is not explicitly stated in the quoted GTWHI excerpt; confirm exact wording."
-  - "MDAC specifics ('free', 'submitted through the Immigration Department's portal') — the cited IMI page renders largely as navigation chrome; confirm the substantive details against the live MDAC portal (imigresen-online.imi.gov.my/mdac)."
+  - "槟岛的土地面积——确切数字（原为「293 km²」）因无来源而被删除；在重新加入任何数字前，须对照主要来源（例如Department of Statistics Malaysia或Penang州政府）核实。"
+  - "槟城国家公园是否为马来西亚最小的国家公园——「世界上最小之一」这一最高级说法因缺乏支持且可能夸大而被删除；重新加入任何最高级说法前，须根据权威来源核实。"
+  - "槟城国家公园（Pantai Kerachut）的分层湖（meromictic lake）——作为描述性特征予以保留；请以原始来源核实细节。"
+  - "「超过 500 年的贸易」— 呼应 UNESCO 突出普世价值的表述，但在所引用的 GTWHI 摘录中并未明确写出；请核实确切措辞。"
+  - "MDAC的具体细节（「免费」、「通过Immigration Department门户提交」）——所引用的IMI页面呈现的大多是导航框架内容；请对照MDAC实际门户（imigresen-online.imi.gov.my/mdac）确认实质细节。"
 revisions:
   - version: "01.00"
     date: 2026-07-28

@@ -45,8 +45,8 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Struktur jabatan PDRM dalam jadual: sahkan terhadap carta organisasi rasmi terkini di rmp.gov.my (nama dan singkatan jabatan boleh berubah)."
-  - "Tiga keutamaan PDRM bagi 2026 bersumberkan laporan Malay Mail (sumber berita sekunder); wajar disemak semula terhadap kenyataan rasmi PDRM."
+  - "表中的 PDRM 部门架构：请对照 rmp.gov.my 上最新的官方组织图核实（部门名称和缩写可能变动）。"
+  - "PDRM 2026 年的三项优先事项出自 Malay Mail 的报道（二手新闻来源）；宜对照 PDRM 官方声明重新核查。"
 revisions:
   - version: "01.00"
     date: 2026-08-01

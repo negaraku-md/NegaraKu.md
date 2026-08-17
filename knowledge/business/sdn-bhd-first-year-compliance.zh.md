@@ -38,7 +38,7 @@ faq:
     a: "只有在你符合 SSM《2024 年第 10 号执业指令》标准的情况下才可以——在营业额、总资产和员工人数三项测试中至少符合两项，或属于休眠公司。这些门槛是分阶段实施的，取决于你的财政年度。豁免免除的是审计，而非提交义务：未经审计的报表仍须提交给 SSM。"
 
 verificationNeeded:
-  - "Confirm the current PERKESO registration deadline in days — the PERKESO employer registration page states the duty to register without stating a period"
+  - "请确认现行PERKESO登记期限的具体天数——PERKESO雇主登记页面只说明有登记义务，未说明期限。"
 
 obligations:
   - what: "Appoint a licensed company secretary"

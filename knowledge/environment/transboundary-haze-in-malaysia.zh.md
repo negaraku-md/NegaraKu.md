@@ -49,12 +49,12 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Jumlah stesen pemantauan automatik (CAQM): dokumen DOE yang dirujuk menyebut 52 stesen automatik + 14 stesen manual, tetapi rangkaian mungkin telah berkembang sejak dokumen itu diterbitkan — sahkan bilangan terkini dengan DOE."
-  - "Tafsiran band 'Berbahaya' dan 'Kecemasan': jadual rasmi DOE menulis '>300' (Berbahaya) dan '>500' (Kecemasan) secara terbuka; secara praktik Berbahaya bermaksud 301–500. Sahkan penyampaian yang paling terkini dengan DOE."
-  - "Tahun ASEAN menerima pakai Peta Jalan Kerjasama ke arah Kawalan Pencemaran Jerebu Rentas Sempadan (lazim dirujuk 2016) — halaman COM DOE hanya menyebut 'a roadmap in the following year' tanpa memasti tahun; sahkan dengan dokumen ASEAN rasmi."
-  - "Ambang SOP penutupan sekolah (dilaporkan API 200) — sahkan dengan SOP KPM/DOE terkini."
-  - "Anggaran kerugian ekonomi krisis jerebu 1997 (AS$9 bilion, menurut CSIS) — sahkan sumber asal angka."
-  - "Tarikh perjanjian ASEAN diratifikasi oleh semua anggota (20 Januari 2015) — sahkan dengan rekod ASEAN/DOE."
+  - "自动监测站（CAQM）总数：所引用的 DOE 文件提到 52 个自动站 + 14 个人工站，但该网络自文件发布以来可能已有扩展——请向 DOE 核实最新数量。"
+  - "「Berbahaya（危险）」与「Kecemasan（紧急）」等级的诠释：DOE 的官方表格公开写为「>300」（Berbahaya）及「>500」（Kecemasan）；实务上 Berbahaya 指 301–500。请向 DOE 确认最新的表述方式。"
+  - "ASEAN采纳《跨境烟霾污染控制合作路线图》的年份（通常引为2016年）——COM DOE页面仅提到「a roadmap in the following year」而未确定年份；请以ASEAN官方文件确认。"
+  - "停课SOP的门槛（据报为API 200）——请与最新的KPM/DOE SOP核实。"
+  - "1997 年霾害危机经济损失的估算（据 CSIS 为 US$9 billion）——请核实该数字的原始来源。"
+  - "ASEAN 协定获所有成员国批准的日期（20 Januari 2015）——请对照 ASEAN/DOE 的记录核实。"
 
 updated: 2026-07-28
 sources:

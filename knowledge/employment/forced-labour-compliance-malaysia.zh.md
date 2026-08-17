@@ -32,8 +32,8 @@ faq:
     a: "截至 CBP 现行已公布数据集的日期 2026 年 6 月 23 日为止，没有；该数据集中没有马来西亚条目。2019 至 2022 年间曾对马来西亚手套与棕油生产商发出八项行动，其中两项从暂扣令升级为正式的 Finding，而此后全部已修改或撤销。CBP 表示，相关公司已补付超过 8,500 万美元的被扣薪金。"
 
 verificationNeeded:
-  - "Confirm whether the National Action Plan on Forced Labour 2026–2030 has received Cabinet approval — the 2021–2025 plan has lapsed and the successor was still in draft following the November 2025 review workshop"
-  - "Confirm how the words without lawful authority in s.12(1)(f) of the Passports Act 1966 are construed where a worker consents to employer safekeeping — no case law or AGC guidance on the point could be located"
+  - "请确认 National Action Plan on Forced Labour 2026–2030 是否已获内阁批准——2021–2025 年计划已失效，而其后续计划在 2025 年 11 月的检讨研讨会之后仍处于草案阶段。"
+  - "核实在工人同意由雇主保管的情形下，Passports Act 1966 s.12(1)(f) 中 without lawful authority 一语如何诠释——就此点未能找到判例或 AGC 指引"
 
 lang: "zh"
 masterLanguage: "en"

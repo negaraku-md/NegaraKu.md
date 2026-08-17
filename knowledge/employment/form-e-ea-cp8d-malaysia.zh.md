@@ -37,8 +37,8 @@ faq:
     a: "全部。e-E 自 2016 薪酬年度起对公司与纳闽公司为强制，自 2023 薪酬年度起对公司以外的雇主为强制。纸本 Form E 已不再是获接受的方式。"
 
 verificationNeeded:
-  - "Confirm the e-Data Praisi opening and cut-off dates for remuneration year 2026 when LHDN issues the 2027 filing programme"
-  - "Confirm whether LHDN publishes a separate compound scale for late Form E under s.120(1) beyond the statutory fine range"
+  - "待 LHDN 发布 2027 年报税计划时，请确认 2026 薪酬年度的 e-Data Praisi 开放及截止日期"
+  - "请确认LHDN是否在法定罚款范围之外，另行公布根据s.120(1)针对逾期Form E的罚款标准"
 
 obligations:
   - what: "为每一名雇员编制并交付 Form EA（C.P.8A）或 Form EC（C.P.8C）"

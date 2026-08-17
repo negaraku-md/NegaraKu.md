@@ -50,9 +50,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "MIDA's regional-representative-office page mixes years: the RM145.1 million investment is labelled 2025 while the source-country breakdown (Singapore 15, China 11, Korea 8, Japan 6, Spain 5) is labelled 2023. Confirm whether the 70-approvals and 787-jobs totals are 2025 figures and locate a same-year country breakdown before publishing."
-  - "The same MIDA page lists 47 REs (57.3%) and 35 ROs (42.7%), which sums to 82 rather than the 70 total also shown. Confirm MIDA's current RE-vs-RO split and the correct total from an authoritative statistics table."
-  - "OPEX thresholds, the RM5,000 minimum expatriate salary, the two-year minimum tenure, the three-month extension window, qualification tiers and the 2:1 expatriate ratio are drawn from the 24 March 2023 RE/RO guideline PDF; confirm no newer guideline has superseded these figures before filing."
+  - "MIDA 的区域代表处页面混用了年份：RM145.1 million 投资标示为 2025，而来源国分布（Singapore 15、China 11、Korea 8、Japan 6、Spain 5）标示为 2023。发布前请核实 70 项批准与 787 个职位的总数是否为 2025 年数字，并找出同一年的国别分布。"
+  - "同一 MIDA 页面列出 47 个 RE（57.3%）与 35 个 RO（42.7%），合计为 82，而非页面同时显示的总数 70。请从权威统计表核实 MIDA 当前的 RE 与 RO 分布及正确的总数。"
+  - "OPEX 门槛、RM5,000 的外派人员最低薪资、两年最短任期、三个月的延期窗口、资格等级以及 2:1 的外派人员比例均取自 2023 年 3 月 24 日的 RE/RO 指南 PDF；在提交前请核实没有更新的指南取代这些数字。"
 
 updated: 2026-08-07
 sources:

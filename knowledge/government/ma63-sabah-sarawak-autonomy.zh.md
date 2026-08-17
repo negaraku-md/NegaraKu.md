@@ -42,12 +42,12 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Tarikh dan majlis sebenar pengumuman kenaikan geran khas interim kepada RM600 juta (draf asal menyebut 12 September 2024) — sumber Bernama yang dipetik mengesahkan jumlah RM600 juta, berkuat kuasa 2025 dan kitaran semakan lima tahun, tetapi tidak mengesahkan tarikh pengumuman tertentu itu."
-  - "Pecahan 13 tuntutan selesai mengikut pentadbiran (dilaporkan media sebagai 9 di bawah kerajaan MADANI dan 4 sebelumnya) — tidak disahkan dalam sumber Bernama utama yang dipetik untuk tally 13/29, jadi pecahan itu ditanggalkan daripada teks."
-  - "Angka semasa tuntutan selesai/dirundingkan (13 selesai, 16 dirundingkan) berubah mengikut masa; sahkan angka terkini pada tarikh penerbitan."
-  - "Butiran undian bacaan kedua (200) dan ketiga (199) Rang Undang-Undang Perlembagaan (Pindaan) 2021 disahkan oleh Bernama; wajar disemak silang dengan Hansard rasmi Dewan Rakyat."
-  - "Tarikh 8 September 2022 (MKMA63 menyokong 35 peratus kerusi) serta pecahan 78/56 kerusi — dipetik daripada Bernama tetapi belum disemak semula dalam pusingan pembetulan ini."
-  - "Kandungan penuh Akta A1642 (takrif 'Hari Malaysia' dalam Perkara 160 dan pindaan Perkara 161A) — sahkan dengan teks Akta di lom.agc.gov.my."
+  - "将临时特别拨款提高至 RM600 million 的公告的实际日期与场合（原始草稿提及 2024 年 9 月 12 日）——所引用的 Bernama 来源确认了 RM600 million 的金额、2025 年生效及五年检讨周期，但未确认那一具体的公告日期。"
+  - "已解决的 13 项诉求按行政当局的细分（媒体报道为 MADANI 政府任内 9 项、此前 4 项）——在所引用作为 13/29 计数的主要 Bernama 来源中未获确认，因此该细分已从正文中删除。"
+  - "已解决／协商中索求的当前数字（13 项已解决、16 项协商中）会随时间变动；请在发布日期核实最新数字。"
+  - "Rang Undang-Undang Perlembagaan (Pindaan) 2021 二读（200 票）与三读（199 票）的表决细节由 Bernama 证实；宜与 Dewan Rakyat 官方 Hansard 交叉核对。"
+  - "2022 年 9 月 8 日的日期（MKMA63 支持 35% 的议席）以及 78/56 议席的分布——引自 Bernama，但在本轮更正中尚未重新查核。"
+  - "Akta A1642 的完整内容（Perkara 160 中「马来西亚日」的定义及 Perkara 161A 的修订）——请以 lom.agc.gov.my 上的法令文本核实。"
 revisions:
   - version: "01.00"
     date: 2026-08-01

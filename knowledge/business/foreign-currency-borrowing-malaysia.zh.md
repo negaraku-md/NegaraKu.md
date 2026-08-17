@@ -24,8 +24,8 @@ keyTakeaways:
 appliesTo: "正在筹措离岸债务、接受外国母公司股东贷款，或规划集团内部资金调度的马来西亚公司。"
 
 verificationNeeded:
-  - "Bank Negara publishes a separate FAQ on resident ringgit and foreign currency borrowing which elaborates on the group test and on permitted source and receipt accounts — check the current FAQ before structuring a facility"
-  - "Where a proposed facility exceeds the RM100 million equivalent limit, the written approval process and its assessment criteria are not published in full; the FAQ notes only that BNM will take stated factors into account"
+  - "Bank Negara就居民令吉与外币借款另行发布了常见问答，其中详细说明了集团测试以及获准的来源与收款账户——在设计融资安排前应查阅当前的常见问答。"
+  - "当拟议融资额度超过等值 RM100 million 的上限时，其书面批准程序及评估标准并未完整公布；该 FAQ 仅指出 BNM 会将所列因素纳入考量。"
 
 lang: "zh"
 masterLanguage: "en"

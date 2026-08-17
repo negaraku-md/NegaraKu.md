@@ -45,9 +45,9 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Definisi tepat kategori pendaftaran kontraktor CIDB (contohnya B, CE, ME, F) dan senarai kod pengkhususan di bawahnya — sahkan terhadap 'Manual Pengguna Pendaftaran Kontraktor' rasmi CIDB sebelum sebarang butiran kategori terperinci ditambah semula."
-  - "Sama ada Seksyen 25 Akta 520 dipinda pada 2011 (Akta A1403) — sahkan terhadap teks Akta 520 dan pindaannya yang rasmi."
-  - "Sama ada NCP 2030 secara rasmi menggantikan/menggantikan tempat CITP 2016–2020 — halaman NCP 2030 CIDB hanya merujuk CITP sebagai program terdahulu, bukan menyatakan hubungan penggantian formal."
+  - "CIDB 承包商注册类别（例如 B、CE、ME、F）的确切定义及其下的专业代码清单——在重新加入任何详细的类别资料前，请对照 CIDB 官方的「Manual Pengguna Pendaftaran Kontraktor」核实。"
+  - "Akta 520 第 25 条（Seksyen 25）是否于 2011 年经修订（Akta A1403）——请对照 Akta 520 及其修正案的官方文本核实。"
+  - "NCP 2030 是否正式取代 CITP 2016–2020 的地位——CIDB 的 NCP 2030 页面仅将 CITP 称为先前的计划，并未说明正式的接替关系。"
 revisions:
   - version: "01.00"
     date: 2026-08-01

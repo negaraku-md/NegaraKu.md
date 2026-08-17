@@ -47,10 +47,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Exact Bursa Malaysia listing date of IOI Properties Group Berhad (reported to be early 2014; the cited 2013 The Edge article describes only the then-planned relisting, not the completed listing)."
-  - "SPOTT reports 15 company-owned mills but 14 as RSPO-certified; confirm whether one mill is uncertified or whether this reflects a 2024-to-2025 change in the mill count."
-  - "FY2024 full-year dividend of 9.5 sen: the cited news release headlines a 5 sen fourth-quarter dividend; confirm the full-year total against the audited annual report."
-  - "FY2024 revenue decline of 17.09% versus RM11.58 billion: confirm against the audited annual report."
+  - "IOI Properties Group Berhad在Bursa Malaysia的确切上市日期（据报为2014年初；所引2013年The Edge文章只描述了当时计划中的重新上市，而非已完成的上市）。"
+  - "SPOTT 报告称公司自有工厂为 15 家，但通过 RSPO 认证的为 14 家；请确认是否有一家工厂未获认证，或这是否反映了 2024 年至 2025 年工厂数量的变化。"
+  - "FY2024 全年股息 9.5 sen：所引用的新闻稿以第四季度 5 sen 股息为标题；请对照经审计的年报确认全年总额。"
+  - "FY2024 营收下滑 17.09% 至 RM11.58 billion：请对照经审计的年报核实。"
 
 updated: 2026-07-28
 sources:

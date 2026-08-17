@@ -43,12 +43,12 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Exact establishment month — JKM's own social media states April 1946, but confirm against an official JKM 'Sejarah/History' page before stating the month (1946 as the year is attested by Simple English Wikipedia)."
-  - "Current Director-General's name — a search surfaced a name from the KPWKM org chart, but DG appointments change; verify on kpwkm.gov.my or jkm.gov.my before naming, or keep the role generic."
-  - "Current income thresholds / B40 or PGK (Poverty Line Income) figures used in JKM means-testing — do not state a specific RM figure without confirming on an official JKM/DOSM source, as these are periodically revised."
-  - "Exact monthly amounts (RM) for each scheme (SARA, STR, Bantuan Am, BKK, BWE, BAP) — confirm current rates on jkm.gov.my before publishing any ringgit figure."
-  - "OKU registration processing time (search suggested 5–14 working days) — not stated on the official malaysia.gov.my page reviewed; verify before asserting."
-  - "Full statutory stack beyond Act 685 (e.g. Child Act 2001 / Act 611, Care Centres Act 1993 / Act 506, Destitute Persons Act 1977 / Act 183) — confirm each on lom.agc.gov.my before citing JKM's enforcement role."
+  - "确切的成立月份——JKM自己的社交媒体称为1946年4月，但在陈述月份前请对照JKM官方的「Sejarah/History」页面确认（1946年作为年份已由Simple English Wikipedia佐证）。"
+  - "现任总监的姓名——一次搜索从KPWKM组织架构图中查出一个姓名，但总监任命会变动；具名前请在kpwkm.gov.my或jkm.gov.my上核实，或将该职务表述得笼统一些。"
+  - "JKM 家计调查中使用的现行收入门槛／B40 或 PGK（贫困线收入）数字——未在 JKM/DOSM 官方来源确认前，请勿陈述具体的 RM 数字，因为这些数字会定期修订。"
+  - "每项计划（SARA、STR、Bantuan Am、BKK、BWE、BAP）的确切每月金额（RM）——在发布任何令吉数字前，请在 jkm.gov.my 上确认现行费率。"
+  - "OKU 注册处理时间（搜索显示为 5–14 个工作日）——所查阅的官方 malaysia.gov.my 页面并未载明；断言前须核实。"
+  - "Act 685 以外完整的法规体系（例如 Child Act 2001 / Act 611、Care Centres Act 1993 / Act 506、Destitute Persons Act 1977 / Act 183）——在引述 JKM 的执法角色前，请逐一在 lom.agc.gov.my 上核实。"
 updated: 2026-08-14
 sources:
   - title: "Applying for Social Welfare Department (JKM) Aid"

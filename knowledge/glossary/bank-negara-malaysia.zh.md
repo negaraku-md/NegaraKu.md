@@ -57,8 +57,8 @@ revisions:
 updated: 2026-08-01
 
 verificationNeeded:
-  - "Confirm the latest published international reserves figure; the US$116.2 billion / 5.0 months-of-imports figure is as at 31 December 2024 and is updated by BNM twice monthly."
-  - "Confirm the BNM short URL (bnm.gov.my/introduction) resolves to the canonical About page at build time; if it does not, use the explicit index.php about URL instead."
+  - "请核实最新公布的国际储备数字；US$116.2 billion／相当于 5.0 个月进口额的数字是截至 2024 年 12 月 31 日的，BNM 每月更新两次。"
+  - "核实 BNM 短网址（bnm.gov.my/introduction）在构建时能解析到规范的 About 页面；若不能，则改用明确的 index.php about 网址。"
 sources:
   - title: "OPR Decisions"
     url: "https://www.bnm.gov.my/monetary-stability/opr-decisions"

@@ -51,11 +51,11 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Whether the MDAC is genuinely free of charge — widely reported as such, but not confirmed here against an authoritative opened source; the 'free' assertion was removed pending confirmation."
-  - "Current visa-free days-of-stay granted per nationality — the Immigration Department table is the authoritative reference and durations change."
-  - "That the India unilateral visa waiver (to 31 December 2026) and the China–Malaysia mutual visa-exemption agreement are still in force and unchanged at review date."
-  - "Exact eVisa and eNTRI fee amounts — not asserted in this draft; confirm current figures from the official portals."
-  - "The full, current MDAC exemption categories (PR holders, MACS holders, Singapore-transit travellers) against the official Immigration portal."
+  - "MDAC是否确实免费——普遍如此报道，但此处未根据权威且可打开的来源加以确认；「免费」的说法在确认前已被删除。"
+  - "按国籍给予的当前免签停留天数——移民局（Immigration Department）的表格是权威参照，且停留期限会有变动。"
+  - "印度单方面免签（至 2026 年 12 月 31 日）及中国—马来西亚互免签证协议在审查之日是否仍然有效且未有变动。"
+  - "eVisa与eNTRI的确切费用金额——本稿未作断言；请从官方门户确认当前数字。"
+  - "就移民局官方门户核实完整、当前的MDAC豁免类别（PR持有人、MACS持有人、经Singapore中转的旅客）。"
 
 updated: 2026-08-07
 sources:

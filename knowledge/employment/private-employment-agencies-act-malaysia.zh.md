@@ -46,9 +46,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Sahkan keperluan awalan nama 'Agensi Pekerjaan' terhadap syarat lesen rasmi JTKSM terkini."
-  - "Sahkan had yuran satu bulan gaji pokok bagi pekerja bukan warganegara — pastikan ia terpakai untuk semua kategori dan tidak berubah selepas pindaan terbaru."
-  - "Sahkan jumlah modal berbayar, jaminan wang, tempoh sah 24 bulan dan yuran permohonan RM300 terhadap jadual syarat lesen rasmi JTKSM semasa (angka boleh dipinda)."
+  - "请对照 JTKSM 最新的官方执照条件，核实名称须冠以「Agensi Pekerjaan」前缀的要求。"
+  - "核实非公民工人一个月底薪的费用上限——确认它适用于所有类别，且在最近修订后未有变动。"
+  - "请对照 JTKSM 现行官方执照条件表，核实实收资本额、金钱担保、24 个月的有效期及 RM300 的申请费（数字可能会修订）。"
 
 updated: 2026-08-08
 sources:

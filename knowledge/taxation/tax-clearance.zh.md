@@ -38,8 +38,8 @@ faq:
     a: "可以。Section 104 容许总监向警察总监或移民局总监发出证明书，要求阻止某人离开马来西亚，直至税款、款项与债务已缴或已提供担保；GPHDN 2/2024 para 6.3 表明，凡 SPC 中所索的金额未缴，LHDN 即可动用它。仍然离境属 s.115(1) 下的罪行，罚款 RM200 至 RM20,000 或至多 6 个月。"
 
 verificationNeeded:
-  - "Confirm the current LHDN Client Charter turnaround for issuing an SPC — GPHDN 2/2024 para 6.1.1 refers to the Piagam Pelanggan without stating a number of days"
-  - "Section 120(1)(c) on its face covers failure to give the notices under s.83(2), (3) and (4) only; GPHDN 2/2024 para 3.4 and the LHDN employer page also apply s.120(1) to a breach of s.83(5). Confirm the basis for extending the offence to the withholding duty"
+  - "请确认 LHDN 现行客户约章就发出 SPC 的处理时限——GPHDN 2/2024 第 6.1.1 段提及 Piagam Pelanggan 但未列明天数。"
+  - "Section 120(1)(c) 表面上仅涵盖未依 s.83(2)、(3) 及 (4) 发出通知的情形；GPHDN 2/2024 第 3.4 段及 LHDN 雇主页面还将 s.120(1) 适用于违反 s.83(5) 的情形。请核实将该罪行扩及预扣义务的依据。"
 
 obligations:
   - what: "通知 LHDN 有雇员停止受雇（CP22A 或 CP22B）"

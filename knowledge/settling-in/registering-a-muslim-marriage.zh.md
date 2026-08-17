@@ -49,11 +49,11 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "The public SPPIM portal domain (commonly cited as sppim.gov.my) — the coverage claim here is sourced to the Government of Malaysia service portal on malaysia.gov.my, which was the page actually fetched."
-  - "The precise current list of SPPIM states, including whether Terengganu is fully onboarded — the cited page states coverage as all states except Kelantan, Pahang, Penang, Sabah, and Sarawak, from which the included set is inferred."
-  - "Per-state registration fees and document checklists beyond the Selangor/Federal Territories examples given."
-  - "Whether the subcategory slug 'marriage' matches an existing settling-in topic cluster, or should be adjusted."
-  - "Whether additional health screening (e.g. thalassaemia) is required in any specific state, which is not covered by the cited sources."
+  - "公开的 SPPIM 门户域名（通常引作 sppim.gov.my）— 此处的涵盖范围说法来源于 malaysia.gov.my 上的马来西亚政府服务门户，那才是实际抓取的页面。"
+  - "SPPIM覆盖各州的确切当前名单，包括Terengganu是否已完全接入——所引用的页面称覆盖范围为除Kelantan、Pahang、Penang、Sabah与Sarawak以外的所有州，纳入的名单即由此推断而来。"
+  - "除所给Selangor／Federal Territories示例之外各州的登记费用与文件清单。"
+  - "子类别 slug「marriage」是否与现有的 settling-in 主题群集匹配，或应予调整。"
+  - "是否有任何特定州属要求额外的健康筛查（例如地中海贫血），这一点所引用的来源并未涵盖。"
 
 updated: 2026-08-07
 sources:

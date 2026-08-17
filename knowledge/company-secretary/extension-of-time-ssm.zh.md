@@ -37,8 +37,8 @@ faq:
     a: "Practice Note 3/2018 第 7 段订明，在到期日之后提交的文件，若是在获批准的延长期间内提交，即视为在订明期间内提交。延期是把「迟了」这件事抵销掉，而不只是减轻罚款。"
 
 verificationNeeded:
-  - "Confirm the current channel for submitting an extension of time application — Practice Note 3/2018 predates MBRS 2.0, and extension applications now fall within the MBRS 2.0 mandatory scope announced on 26 November 2024"
-  - "Confirm whether SSM publishes a maximum extension period; Practice Note 3/2018 leaves the length to the Registrar's discretion and states no cap"
+  - "请核实当前提交延期申请的渠道——Practice Note 3/2018 早于 MBRS 2.0，而延期申请现已纳入 2024 年 11 月 26 日公布的 MBRS 2.0 强制范围之内。"
+  - "请确认 SSM 是否公布最长展延期限；Practice Note 3/2018 将期限交由注册官酌情决定，并未规定上限"
 
 obligations:
   - what: "申请延长传阅或提交财务报表的时限"

@@ -51,11 +51,11 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Perincian dan struktur logo halal rasmi (bentuk bintang, tulisan khat Arab dan Rumi, bintang kecil) — sahkan dengan penerangan rasmi JAKIM/portal Halal Malaysia sebelum menyatakan geometri tepat."
-  - "Jadual fi (contohnya RM2,100 pemohon ASEAN luar negara, RM200 setiap dapur, cetak semula ~RM50) dan syarat bayaran dalam 14 hari bekerja diambil daripada FAQ portal negeri Sarawak (KISWA); sahkan kadar semasa dan sama ada terpakai seragam di seluruh negara melalui portal MYeHALAL."
-  - "Tempoh sah dua tahun terpakai bagi kebanyakan skim tetapi boleh berbeza mengikut skim; sahkan dalam Manual Prosedur Pensijilan Halal Malaysia (MPPHM) terkini."
-  - "Tempoh pengeluaran sijil (dinyatakan 30 hari) — sahkan versi terkini Piagam Pelanggan JAKIM."
-  - "Angka industri (9,162 pemegang sijil, ~1,600 pengeksport pada 16 Januari 2025; >70% bukan Bumiputera) — sahkan terhadap penerbitan HDC/Bernama terkini kerana angka boleh berubah."
+  - "官方清真标志的细节与结构（星形、阿拉伯书法与罗马字、小星星）——在陈述确切几何形状之前，须以JAKIM／Halal Malaysia门户的官方说明核实。"
+  - "收费表（例如海外东盟申请者RM2,100，每间厨房RM200，重印约RM50）及14个工作日内付款的条件取自砂拉越州门户（KISWA）的常见问答；须通过MYeHALAL门户核实当前费率以及是否在全国统一适用。"
+  - "两年有效期适用于大多数计划，但可能因计划而异；请在最新版《马来西亚清真认证程序手册》（MPPHM）中核实。"
+  - "证书签发时限（列为 30 天）— 请核实 JAKIM 客户宪章（Piagam Pelanggan）的最新版本。"
+  - "行业数字（截至16 Januari 2025，9,162名持证者、约1,600家出口商；>70%为非土著）——由于数字可能变动，请对照HDC/Bernama的最新出版物加以确认。"
 
 updated: 2026-08-01
 sources:

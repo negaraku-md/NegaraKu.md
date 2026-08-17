@@ -40,7 +40,7 @@ reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 verificationNeeded:
-  - "Semakan peguam terhadap pernyataan skop undang-undang bahawa perlindungan suci hati seksyen 266(10) terhad kepada laporan subseksyen (9) dan tidak dinyatakan secara nyata bagi laporan subseksyen (8)."
+  - "由律师复核关于法律范围的陈述，即seksyen 266(10)的善意保护仅限于subseksyen (9)的报告，而未明文涵盖subseksyen (8)的报告。"
 version: "01.00"
 revisions:
   - version: "01.00"

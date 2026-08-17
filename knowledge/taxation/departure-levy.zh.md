@@ -40,9 +40,9 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Sahkan kadar dan pengecualian masih terpakai pada 2026 — Panduan RMCD bertarikh 20 Ogos 2019; pastikan tiada pindaan kepada Akta Levi Pelepasan 2019 atau perintah-perintahnya sejak itu."
-  - "Sahkan bahawa pengecualian pengangkutan darat dan laut (peringkat pelaksanaan awal, di bawah kuasa Menteri Kewangan) masih berkuat kuasa pada 2026."
-  - "Sahkan prosedur tepat pendaftaran ejen dalam talian bagi pengendali asing yang tiada tempat perniagaan di Malaysia, serta pasangan borang DL-01 (pendaftaran) dan DL-02 (penyata pemungutan)."
+  - "须核实税率与豁免在2026年仍然适用——RMCD指南日期为2019年8月20日；须确认自此之后Akta Levi Pelepasan 2019或其各项命令没有任何修订。"
+  - "核实陆路与海路运输的豁免（实施初期阶段，属财政部长权限）在2026年仍然有效。"
+  - "请核实在马来西亚没有营业场所的外国经营者进行在线代理注册的确切程序，以及 DL-01（注册）与 DL-02（征收申报）这一组表格。"
 revisions:
   - version: "01.00"
     date: 2026-08-07

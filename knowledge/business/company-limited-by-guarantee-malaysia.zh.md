@@ -46,9 +46,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Scope of SSM Guidelines paragraph 6 ('no other company can be formed for these objects'): confirm with counsel how this interacts with an ordinary Sdn Bhd that carries on a commercial business, since section 45 CA 2016 itself restricts only the CLBG, not other company types."
-  - "Confirm the current SSM model constitution still designates the mandatory incorporation template as 'Part A' (per paragraph 14 of the 27 September 2021 Guidelines) in case a newer version has re-lettered it."
-  - "Confirm no post-2021 amendment has changed the RM1 million initial fund, the six-month cash-collection window, or the two-year thresholds before relying on the figures."
+  - "SSM Guidelines第6段（「不得为这些宗旨另设其他公司」）的适用范围：须向法律顾问确认这与经营商业业务的普通Sdn Bhd如何相互作用，因为section 45 CA 2016本身只限制CLBG，而非其他公司类型。"
+  - "确认现行SSM标准章程仍将强制性注册成立范本指定为「Part A」（依据27 September 2021指南第14段），以防较新版本已重新编号。"
+  - "在依据这些数字之前，请确认 2021 年之后没有任何修订更改过 RM1 million 的初始基金、六个月的现金募集窗口期，或两年期门槛。"
 
 updated: 2026-08-07
 sources:

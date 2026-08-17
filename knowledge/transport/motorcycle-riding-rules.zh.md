@@ -40,11 +40,11 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Kod warta rasmi 'P.U. (A) 43/1973' bagi Kaedah-Kaedah Motosikal (Topi Keledar) 1973 — nama kaedah dan kandungannya disahkan menerusi sumber sekunder yang dibuka, tetapi kod P.U.(A) itu sendiri belum disahkan terhadap teks Warta Persekutuan primer."
-  - "Tahun sebenar lorong motosikal Lebuhraya Persekutuan dibina — KKR menyebut 1977 manakala Free Malaysia Today menyebut 'awal 1970-an'. Perlu disahkan terhadap rekod JKR/LLM."
-  - "Status semasa cadangan sekatan kapasiti enjin (dakwaan negatif) — sahkan tiada peraturan berkuat kuasa pada tarikh semakan."
-  - "Revisi standard MS 1 yang berkuat kuasa (sumber menyebut MS 1:2011); sahkan versi mandatori semasa."
-  - "Sama ada slug relasi 'road-transport-act-1987' wujud dalam korpus."
+  - "Kaedah-Kaedah Motosikal (Topi Keledar) 1973 的官方宪报代号「P.U. (A) 43/1973」— 规则的名称及内容已通过所打开的次要来源确认，但该 P.U.(A) 代号本身尚未对照原始联邦宪报（Warta Persekutuan）文本加以确认。"
+  - "Lebuhraya Persekutuan摩托车道实际建成的年份——KKR称为1977年，而Free Malaysia Today称为「1970年代初」。需对照JKR/LLM的记录确认。"
+  - "引擎容量限制建议的当前状况（否定性主张）——请核实在审查日期并无相关法规生效。"
+  - "现行有效的 MS 1 标准修订版（来源提及 MS 1:2011）；请核实当前的强制性版本。"
+  - "关系 slug「road-transport-act-1987」是否存在于语料库中。"
 revisions:
   - version: "01.00"
     date: 2026-08-08

@@ -46,10 +46,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Sahkan setiap petikan subseksyen terhadap cetakan rasmi Akta 265 dari Pejabat Peguam Negara (agc.gov.my); rujukan utama yang digunakan di sini ialah teks cetakan kemas kini rasmi yang dihoskan di portal Kerajaan (mp.gov.my)."
-  - "Sahkan pengelasan caruman berkanun (KWSP/PERKESO/EIS/PCB) sebagai potongan di bawah Seksyen 24(2)(d) ('undang-undang bertulis lain')."
-  - "Sahkan syarat penuh pendahuluan gaji di bawah Seksyen 22 (had jumlah pendahuluan) sebelum diterbitkan."
-  - "Sahkan nuans perluasan Akta kepada semua pekerja mulai 1 Januari 2023 (sesetengah peruntukan masih tertakluk ambang) dengan JTKSM."
+  - "请对照Pejabat Peguam Negara（agc.gov.my）的Akta 265官方印本核实每一处分节引用；此处所用的主要参考为托管在政府门户（mp.gov.my）上的官方更新印本文本。"
+  - "请核实将法定缴款（KWSP/PERKESO/EIS/PCB）归类为Seksyen 24(2)(d)（「其他成文法」）项下的扣除。"
+  - "在发布前，请核实 Seksyen 22 下工资预支的完整条件（预支金额上限）。"
+  - "请向 JTKSM 确认自 1 Januari 2023 起该法令扩大适用于所有雇员的细微之处（部分条文仍受门槛限制）。"
 
 updated: 2026-08-08
 sources:

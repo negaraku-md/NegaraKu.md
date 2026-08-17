@@ -46,8 +46,8 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Commencement dates of specific CMSA 2007 divisions (e.g. Division 2 of Part VI) if that level of detail is reinstated — cite the gazette/commencement notice."
-  - "Act number for the Securities Industry (Central Depositories) Act 1991 (reported as Act 453) if added to the text."
+  - "若恢复到该细节程度，需列明 CMSA 2007 特定分部（例如 Part VI 的 Division 2）的生效日期 — 请引用刊宪／生效公告。"
+  - "若在正文中加入，Securities Industry (Central Depositories) Act 1991的法令编号（据报为Act 453）。"
 updated: 2026-08-08
 sources:
   - title: "About the SC"

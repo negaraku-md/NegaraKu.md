@@ -46,7 +46,7 @@ reviewed: "2026-08-14"
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Angka hasil padi sehektar khusus mengikut kawasan (cth. Kelantan/KADA) — tiada sumber utama yang disemak memberikan angka per-hektar untuk kawasan tertentu; hanya purata kebangsaan bawah 5 tan sehektar dan lokasi perintis Kedah yang lebih tinggi disahkan."
+  - "按地区划分的每公顷稻谷产量数字（例如 Kelantan/KADA）——所查核的主要来源均未提供特定地区的每公顷数字；仅确认了全国平均每公顷低于 5 吨，以及 Kedah 试点地区较高的产量。"
 revisions:
   - version: "01.00"
     date: 2026-08-14

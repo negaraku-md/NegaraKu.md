@@ -51,10 +51,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Kadar yuran memfailkan tuntutan di Tribunal (mis. Borang 1) — angka RM tepat sengaja ditinggalkan; sahkan dengan Peraturan-Peraturan Pengurusan Strata (Tribunal Pengurusan Strata) 2015."
-  - "Pemetaan seksyen kumpulan wang penjelas 10%: Seksyen 52(3) menyebut 'bersamaan 10%', manakala Seksyen 61(3) (dan 68(3) bagi anak-MC) menyebut 'tidak kurang 10% melainkan ditetapkan lebih tinggi di mesyuarat agung' — sahkan peruntukan yang terpakai bagi konteks pembaca."
-  - "Peruntukan tepat bagi larangan wakil peguam dan pengecualiannya, serta tempoh/alasan mencabar award di Mahkamah Tinggi (Akta 757 / kaedah Tribunal)."
-  - "Skop kuasa penyiasatan dan pendakwaan Pesuruhjaya Bangunan (COB) di bawah Akta 757 — sahkan seksyen berkaitan."
+  - "向仲裁庭提交索偿的收费率（例如 Borang 1）——确切的 RM 数字被有意省略；请对照 Peraturan-Peraturan Pengurusan Strata (Tribunal Pengurusan Strata) 2015 核实。"
+  - "清缴基金 10% 条文的对应关系：Seksyen 52(3) 提及「相当于 10%」，而 Seksyen 61(3)（及子 MC 适用的 68(3)）提及「不少于 10%，除非在大会上定得更高」——请核实适用于读者情境的条文。"
+  - "关于禁止律师代理及其例外的确切条文，以及在高等法院挑战裁决的期限／理由（Akta 757／审裁处规则）。"
+  - "建筑物专员（COB）在 Akta 757 之下的调查与检控权力范围——请核实相关条文。"
 
 updated: 2026-08-08
 sources:

@@ -44,8 +44,8 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Butiran prosedur Jadual Pertama vs Jadual Kedua (pameran awam; pejabat JAS negeri vs ibu pejabat JAS) — sahkan terhadap teks penuh Perintah Kualiti Alam Sekeliling (Aktiviti Yang Ditetapkan)(EIA) 2015, bukan hanya laman muat turun JAS."
-  - "Butiran denda kes Kulim (jumlah RM60,000: RM50,000 di bawah s34A(8) EQA + RM10,000 di bawah Peraturan Udara Bersih 2014; Mahkamah Sesyen Kulim, 16 April 2025) — sahkan terhadap rekod mahkamah rasmi jika ketepatan mutlak diperlukan."
+  - "Jadual Pertama 与 Jadual Kedua 的程序细节（公众展示；JAS 州办事处对比 JAS 总部）——请对照 Perintah Kualiti Alam Sekeliling (Aktiviti Yang Ditetapkan)(EIA) 2015 全文核实，而不仅是 JAS 的下载页面。"
+  - "Kulim案罚款细节（总额RM60,000：s34A(8) EQA之下RM50,000＋Peraturan Udara Bersih 2014之下RM10,000；Mahkamah Sesyen Kulim，2025年4月16日）——若需要绝对准确，须对照官方法庭记录核实。"
 revisions:
   - version: "01.00"
     date: 2026-08-07

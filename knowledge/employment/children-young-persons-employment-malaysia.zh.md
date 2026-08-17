@@ -52,10 +52,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Tarikh kuat kuasa pindaan 2019 (Akta A1586) dilaporkan 1 Februari 2019 melalui pemberitahuan Menteri dalam Warta (P.U.(B)) — sahkan nombor P.U.(B) dan tarikh terhadap Warta Persekutuan rasmi (Akta A1586 sendiri hanya menyebut 'tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta')."
-  - "Butiran ringkasan Jadual Keempat (kerja berbahaya) dan Jadual Kelima (larangan mutlak) hendaklah disemak semula terhadap teks penuh Jadual semasa Akta 350 yang telah dipinda."
-  - "Butiran Jadual Ketiga (pemeriksaan perubatan tidak kurang sekali setiap tiga bulan; had persembahan empat jam) hendaklah disahkan masih terkini."
-  - "Semak sama ada terdapat pindaan atau cetakan semula Akta 350 yang lebih baru selepas cetakan semula 'setakat 1 Oktober 2019'."
+  - "2019 年修正案（Akta A1586）的生效日期据报为 2019 年 2 月 1 日，经由部长在宪报（P.U.(B)）中的公告生效——请对照官方联邦宪报核实 P.U.(B) 的编号与日期（Akta A1586 本身仅提及「由部长通过宪报公告所定的日期」）。"
+  - "第四附表（危险工作）与第五附表（绝对禁止）的摘要细节，应对照经修订的 Akta 350 现行附表全文重新核对。"
+  - "第三附表（Jadual Ketiga）的细节（体检不少于每三个月一次；演出时限四小时）应予确认仍属最新。"
+  - "请查核在「截至 2019 年 10 月 1 日」的重印本之后，是否有更新的 Akta 350 修订或重印本。"
 
 updated: 2026-08-08
 sources:

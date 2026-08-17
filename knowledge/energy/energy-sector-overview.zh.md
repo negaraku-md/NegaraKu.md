@@ -45,10 +45,10 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Peratusan campuran janaan mengikut kawasan (Semenanjung 20.2% RE 2021, Sabah 79.3% gas, Sarawak 74% hidro) dan jumlah kapasiti >27 GW kini disandarkan kepada Global Legal Insights (penerbit panduan guaman komersial). Sahkan semula terhadap sumber statistik rasmi primer — Suruhanjaya Tenaga / Malaysia Energy Statistics Handbook (ST) — untuk artikel tier-1."
-  - "Pentadbiran program Solar Skala Besar (LSS): teks menyenaraikan LSS di bawah SEDA, tetapi bidaan kompetitif LSS lazimnya diselia oleh Suruhanjaya Tenaga. Sahkan peranan tepat SEDA berbanding ST bagi LSS."
-  - "Pembahagian tanggungjawab Labuan (ST mengawal selia; SESB membekal) dinyatakan tanpa petikan khusus tunggal; sahkan terhadap laman rasmi ST dan SESB."
-  - "Angka tarif asas RP4 (45.40 sen sekWj, berbanding 45.62 sen diluluskan Disember 2024) dan potensi penurunan kos sehingga 19% — sahkan terhadap kenyataan rasmi ST/KeTSA selain laporan BERNAMA."
+  - "按区域划分的发电结构百分比（半岛 2021 年 20.2% RE、沙巴 79.3% 天然气、砂拉越 74% 水电）与总容量 >27 GW 目前依据 Global Legal Insights（一家商业法律指南出版商）。对于 tier-1 文章，请重新对照官方第一手统计来源——Suruhanjaya Tenaga / Malaysia Energy Statistics Handbook (ST)——核实。"
+  - "大型太阳能（LSS）计划的管理：文中将LSS列在SEDA之下，但LSS的竞标一般由Suruhanjaya Tenaga监管。须核实SEDA相对于ST在LSS上的确切角色。"
+  - "纳闽的职责划分（ST负责监管；SESB负责供电）在陈述时没有单一的具体引用；须根据ST与SESB的官方网站核实。"
+  - "RP4 的基础电价数字（45.40 仙／kWj，相较 2024 年 12 月核准的 45.62 仙）以及成本潜在下降最高达 19%——除 BERNAMA 报道外，请对照 ST/KeTSA 的官方声明核实。"
 revisions:
   - version: "01.00"
     date: 2026-08-01

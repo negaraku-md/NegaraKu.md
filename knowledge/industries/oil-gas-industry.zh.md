@@ -55,10 +55,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Uncited descriptive claims: Melaka refineries, Petron/BHPetrol retail networks, the Peninsular Gas Utilisation pipeline grid, and the MISC-operated tanker/LNG-carrier fleet — general-industry facts stated without a primary source."
-  - "Bintulu LNG Complex train count/naming (eight physical trains vs the 'Train 9' label) and current ~29.3 mtpa capacity are drawn from a trade source (Offshore Technology); confirm against current PETRONAS primary material."
-  - "Pengerang Integrated Complex figures (300,000 bpd refinery, ~3.4 mtpa steam cracker, ~3.3 mtpa petrochemicals) are stated without a fetched line-item source; confirm against the PETRONAS PIC page or Integrated Report."
-  - "Contract-type family descriptions (R/C, SFA, LLA, EPT, RSC) should be reconciled against the current Malaysia Petroleum Management fiscal-terms pages, which are periodically revised."
+  - "未引用来源的描述性说法：Melaka炼油厂、Petron/BHPetrol零售网络、Peninsular Gas Utilisation管道网，以及MISC营运的油轮/LNG运输船队——属未附一手来源陈述的一般行业事实。"
+  - "Bintulu LNG Complex 的生产线数量／命名（八条实体生产线对比「Train 9」标签）以及当前约 29.3 mtpa 的产能取自一个行业来源（Offshore Technology）；请对照 PETRONAS 当前的原始资料核实。"
+  - "Pengerang Integrated Complex 的数字（300,000 bpd 炼油、约 3.4 mtpa 蒸汽裂解、约 3.3 mtpa 石化产品）在陈述时没有抓取到逐项来源；请对照 PETRONAS PIC 页面或 Integrated Report 加以确认。"
+  - "各类合约（R/C、SFA、LLA、EPT、RSC）的描述应对照Malaysia Petroleum Management当前的财务条款页面加以核对，这些页面会定期修订。"
 
 updated: 2026-07-28
 sources:

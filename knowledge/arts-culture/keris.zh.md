@@ -22,9 +22,9 @@ keyTakeaways:
 appliesTo: "学生、文化研究者、收藏家、锻造工艺从业者，以及任何希望了解马来短剑作为马来物质文化标志的人士。"
 
 verificationNeeded:
-  - "Whether 13 is the customary maximum number of luk in tradition, and to what extent very-high-luk keris are accepted — the sources found do not agree (some mention up to 29)."
-  - "Details of the cause and full list of items in the Malaysia–Indonesia cultural 'overlapping claims' debate — requires official historical/diplomatic sources, not a general characterization."
-  - "Details of the Keris Taming Sari legend (number of metals, mystical powers, lineage, dates) — oral tradition, not official record."
+  - "传统上 13 是否为 luk 的惯常最大数目，以及极高 luk 数的 keris 被接受的程度 — 所找到的资料并不一致（有些提到多达 29）。"
+  - "马来西亚与印尼文化「重叠主张」争论的起因细节及完整清单——需要官方的历史／外交来源，而非笼统的概括。"
+  - "Keris Taming Sari传说的细节（金属种类数量、神秘力量、传承脉络、年份）——属口述传统，而非官方记录。"
 
 faq:
   - q: "马来短剑属于马来西亚还是印尼？"

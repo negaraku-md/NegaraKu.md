@@ -36,7 +36,7 @@ faq:
     a: "能。s.224(7) 订明，本条中任何内容均不阻止公司追回任何贷款的款额，或追回其因违反本条而给予的担保或抵押所须承担的任何款额。s.225(3) 就关联人士贷款载有相同规则。即使作出该笔贷款是一项罪行，贷款本身仍可追回。"
 
 verificationNeeded:
-  - "Confirm the current statutory definition and qualifying conditions for an exempt private company as applied by SSM in practice, including the s.260 certificate route"
+  - "请核实 SSM 在实务中所适用的豁免私人公司的现行法定定义与符合条件的要件，包括 s.260 证书途径"
 
 obligations:
   - what: "就未经事先批准而给予董事的贷款、担保或抵押，以决议案取得公司批准——私人公司"

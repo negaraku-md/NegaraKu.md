@@ -48,9 +48,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Angka prestasi AKPK (hampir 1.4 juta individu; kira-kira 495,000 peminjam PPK; hampir 60,000 selesai pinjaman) adalah setakat Disember 2024 dari petikan akhbar MOF — sahkan terhadap laporan tahunan AKPK/BNM terkini apabila tersedia."
-  - "Kriteria kelayakan penuh PPK (cth. jumlah hutang minimum, tempoh tunggakan minimum, syarat pendapatan boleh guna bersih positif) — sahkan terus dengan AKPK kerana butiran khusus mungkin berubah."
-  - "Langkah proses permohonan PPK — sahkan terhadap laman rasmi AKPK kerana aliran proses boleh dikemas kini dari semasa ke semasa."
+  - "AKPK 的绩效数字（近 140 万人；约 495,000 名 PPK 借款人；近 60,000 人已还清贷款）截至 2024 年 12 月，来自 MOF 的新闻引述——待可取得时，请对照 AKPK/BNM 最新年报核实。"
+  - "PPK 的完整资格标准（例如最低债务总额、最低拖欠期限、净可支配收入为正的条件）— 请直接向 AKPK 确认，因为具体细节可能变动。"
+  - "PPK申请流程的步骤——请对照AKPK官方网站确认，因为流程可能不时更新。"
 
 updated: 2026-08-08
 sources:

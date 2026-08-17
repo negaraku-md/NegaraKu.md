@@ -54,10 +54,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "The By-Laws figures are cited from the April-2024 edition (footer 'Updated 2 January 2024'). A human should confirm the Section 540 rotation and cooling-off provisions against the current edition (updated November 2024, effective 15 December 2024)."
-  - "The PIE definition was expanded effective 15 December 2024, adding an assessment of an entity's sectoral importance and potential systemic impact for deciding whether other entities should be treated as PIEs. Confirm the exact wording of the four listed categories in the current By-Laws edition."
-  - "The historical rotation table's 'Previous regime (before 15 Dec 2018)' column is an editorial label; the ESB 2018 report titles that column 'Current'. Confirm the label reads accurately for publication."
-  - "The SC media release describes the Grant Thornton partner's involvement (2013–2017) generally; confirm his exact role designation (engagement partner and/or engagement quality reviewer) if that distinction is stated in the body."
+  - "本会章程（By-Laws）的数字引自 2024 年 4 月版（页脚标注「Updated 2 January 2024」）。应由人工对照当前版本（2024 年 11 月更新，2024 年 12 月 15 日生效）核实 Section 540 的轮换与冷却期条款。"
+  - "PIE 的定义自 2024 年 12 月 15 日起扩大，新增了对实体行业重要性及潜在系统性影响的评估，用以判定其他实体是否应被视为 PIE。请对照现行 By-Laws 版本核实所列四个类别的确切措辞。"
+  - "历史轮换表中「Previous regime (before 15 Dec 2018)」一栏是编辑加上的标签；ESB 2018报告将该栏命名为「Current」。请确认此标签在发布时表述准确。"
+  - "SC的新闻稿笼统地描述了这位Grant Thornton合伙人的参与情况（2013–2017年）；如正文中有作此区分，请确认其确切的职务身份（业务合伙人及／或业务质量复核人）。"
 
 updated: 2026-08-08
 sources:

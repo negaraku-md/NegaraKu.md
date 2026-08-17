@@ -43,10 +43,10 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Tarikh sebenar NSRC mula beroperasi 24 jam — The Star (Mac 2026) melaporkan ia kini beroperasi 24/7 tetapi tidak menyatakan tarikh permulaan."
-  - "Nama dan pangkat Pengarah CCID semasa — tidak dinyatakan dalam sumber yang dipetik."
-  - "Sama ada angka RM780 juta yang disekat industri perbankan meliputi tempoh 2023–2024 secara gabungan (berdasarkan penyampaian Bernama)."
-  - "Nombor faks dan sebarang kemas kini butiran hubungan CCID."
+  - "NSRC 开始 24 小时运作的实际日期——The Star（2026 年 3 月）报道称其现已 24/7 运作，但未说明起始日期。"
+  - "现任 CCID 主管的姓名与职级 — 在所引用的来源中未有说明。"
+  - "银行业所拦截的RM780 juta数字是否涵盖2023–2024年合计期间（根据Bernama的表述）。"
+  - "CCID的传真号码及任何联络方式的更新。"
 revisions:
   - version: "01.00"
     date: 2026-08-01

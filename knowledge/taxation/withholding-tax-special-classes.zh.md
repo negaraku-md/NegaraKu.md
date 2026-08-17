@@ -36,8 +36,8 @@ faq:
     a: "Section 109H 容许付款人以该税不应缴付为由，在到期日起 30 天内向特别专员上诉。该上诉在三种情形下被挡住——该非居民已经上诉、该款项已依 s.39 被裁定不获扣除，或该预扣税尚未缴付。"
 
 verificationNeeded:
-  - "Public Ruling No. 10/2019 is dated 10 December 2019 and remains the current edition — it has not been reissued to reflect any post-2019 amendment, so treat its examples as guidance of that vintage"
-  - "P.U.(A) 323/2017 was read through Public Ruling 10/2019 paras 5.2 and 21 rather than from the gazette text itself; confirm the Order has not been revoked or superseded before relying on the offshore-services exemption"
+  - "Public Ruling No. 10/2019日期为2019年12月10日，仍为现行版本——它未曾为反映2019年之后的任何修订而重新发布，故应将其示例视为该时期的指引。"
+  - "P.U.(A) 323/2017 是通过 Public Ruling 10/2019 第 5.2 及 21 段解读的，而非取自宪报文本本身；在依据境外服务豁免之前，请核实该命令未被撤销或取代"
 
 obligations:
   - what: "就付给非居民的 s.4A 收入扣缴并缴交 10% 预扣税"

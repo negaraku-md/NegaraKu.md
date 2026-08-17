@@ -41,10 +41,10 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Pecahan faraid (bahagian pasangan, anak, ibu bapa) sebaik-baiknya disahkan terhadap sumber rasmi Islam (mis. JAKIM/Mufti) atau nas al-Quran secara langsung, bukan sumber komersial FaraidHub."
-  - "Had wasiat 1/3 kepada bukan waris — sahkan asas statutori (mis. Enakmen Wasiat Orang Islam negeri seperti Selangor 1999, s. 26) mengikut negeri berkenaan."
-  - "Rujukan seksyen 6 Akta Pembahagian 1958 — kini disandarkan pada sumber sekunder (Chia, Lee & Associates); reviewer boleh menggantikan dengan teks statut rasmi jika perlu."
-  - "Slug relations/related (property-buying-a-home-guide, property-real-property-gains-tax-rpgt) — sahkan artikel berkenaan wujud atau laraskan."
+  - "法拉伊德 faraid 遗产分配（配偶、子女、父母的份额）最好对照伊斯兰官方来源（如 JAKIM/Mufti）或直接依据古兰经经文核实，而非商业来源 FaraidHub。"
+  - "遗嘱给予非继承人上限 1/3——请依相关州属核实其法定依据（例如州属的穆斯林遗嘱法令，如 Selangor 1999, s. 26）。"
+  - "seksyen 6 Akta Pembahagian 1958 的引用——目前依据二手来源（Chia, Lee & Associates）；审校者可在必要时替换为官方法规文本。"
+  - "relations/related的slug（property-buying-a-home-guide、property-real-property-gains-tax-rpgt）——须核实相关文章是否存在或加以调整。"
 revisions:
   - version: "01.00"
     date: 2026-08-08

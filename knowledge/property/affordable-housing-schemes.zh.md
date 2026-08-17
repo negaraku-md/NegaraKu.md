@@ -42,10 +42,10 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Siling harga dan had pendapatan setiap skim disemak semula dari semasa ke semasa; sahkan angka terkini di portal rasmi sebelum memohon."
-  - "Harga Rumah Selangorku berbeza antara rumah bertingkat (strata) dan rumah bertanah; angka dalam panduan ini merujuk unit rumah bertingkat mengikut FAQ LPHS — sahkan harga mengikut jenis projek di eHartanah LPHS."
-  - "Yuran tempahan PR1MA RM500 dikenakan bagi projek kediaman yang telah siap; sahkan susunan bayaran bagi projek dalam pembinaan."
-  - "Butiran jaminan SJKP/SJKP MADANI (jumlah jaminan RM500,000 / RM360,000, tempoh 35 tahun) perlu disahkan dengan portal SJKP rasmi."
+  - "各计划的价格上限与收入上限会不时检讨；申请前请在官方门户核实最新数字。"
+  - "Rumah Selangorku 的价格在分层房屋（strata）与有地房屋之间有所不同；本指南中的数字依 LPHS 常见问题指的是分层房屋单位——请在 eHartanah LPHS 上按项目类型核实价格。"
+  - "PR1MA 的 RM500 预订费适用于已竣工的住宅项目；请核实在建项目的付款安排。"
+  - "SJKP／SJKP MADANI的担保细节（担保额RM500,000／RM360,000，期限35年）须以官方SJKP门户核实。"
 revisions:
   - version: "01.00"
     date: 2026-08-08

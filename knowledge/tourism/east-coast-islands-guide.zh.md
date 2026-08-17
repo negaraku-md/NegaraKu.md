@@ -42,10 +42,10 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Jetty departure points, crossing times and boat fares for each island — the cited DOF sources do not cover boat logistics; confirm current mainland departure points and fares with operators or the Terengganu/Pahang tourism offices."
-  - "The granular in-water rule list (mooring-buoy/anchoring specifics, water-sports limits, boat-passage-lane exclusions) — DOF's online pages state the governing Act but do not enumerate these; confirm against the Establishment of Marine Parks Malaysia Order 1994 and on-site DOF signage."
-  - "Whether specific east-coast islands fall under the two-nautical-mile or the one-nautical-mile marine-park boundary (DOF notes exceptions for certain Terengganu islands)."
-  - "Monsoon closure dates vary by operator and year; confirm current-season schedules before quoting fixed months."
+  - "前往各岛屿的码头出发点、航程时间与船票费用——所引用的 DOF 来源未涵盖船运信息；请向运营方或登嘉楼（Terengganu）／彭亨（Pahang）旅游局核实当前的大陆出发点与票价。"
+  - "细致的水中规则清单（系泊浮标／抛锚的具体规定、水上运动限制、船只航道排除区）— DOF 的在线页面说明了主管法令，但未逐一列出这些；请对照 Establishment of Marine Parks Malaysia Order 1994 及现场 DOF 告示牌加以确认。"
+  - "具体的东海岸岛屿究竟属于两海里还是一海里的海洋公园边界（DOF指出某些Terengganu岛屿属例外）。"
+  - "季风季节的关闭日期因经营者与年份而异；在引用固定月份之前，请核实当季的时间安排。"
 revisions:
   - version: "01.00"
     date: 2026-07-28

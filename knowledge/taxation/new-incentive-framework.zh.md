@@ -38,7 +38,7 @@ faq:
     a: "MITI 表示推行将从制造业开始，服务业随后于 2026 年第二季跟进。截至 2026 年 8 月，MITI 与 MIDA 的 NIF 页面仅就制造业发布了实施指南与常见问答，而 MIDA 页面对服务业仍仅注明「自 2026 年第二季生效，确切实施日期将适时公布」——如今该季度已过，仍无服务业指南、计分卡或生效日期公布。在 MITI 或 MIDA 公布服务业指南之前，请将任何声称的服务业起始日期视为未获确认。"
 
 verificationNeeded:
-  - "Confirm how the NIF interacts with Reinvestment Allowance under Schedule 7A and with existing PIA approvals being extended or varied"
+  - "核实 NIF 如何与 Schedule 7A 下的再投资免税额，以及与正在展延或变更的现有 PIA 批准相互作用"
 
 lang: "zh"
 masterLanguage: "en"

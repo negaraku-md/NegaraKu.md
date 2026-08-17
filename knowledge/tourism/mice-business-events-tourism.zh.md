@@ -42,12 +42,12 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "MyCEB labels the RM20.18 billion as 'Estimated Economic Impact' on its homepage, which also displays a separate, ambiguously labelled figure (1,656,942); confirm the intended label and value with MyCEB directly."
-  - "The Meetings Show London figures (6,625 delegates, RM116 million, 2017–2023) come from a MyCEB press release and were not re-fetched in this correction pass; confirm before relying on them."
-  - "MITEC's 12,530 sqm column-free area (per CIDB) sits within — not in addition to — the 52,000 sqm total exhibition space stated on MITEC's official site; confirm the relationship of the two figures."
-  - "Exhibition-space totals differ by source: MITEC's official site states 52,000 sqm, while CIDB describes 'one million square feet' (~92,900 sqm), likely gross floor area versus net exhibition space; confirm which basis applies."
-  - "MITEC's precise location descriptor (near Dutamas / KL Metropolis; the wider district is Segambut) should be confirmed against MITEC's own site; the cited CIDB source uses 'near Dutamas'."
-  - "All venue capacities and BCCK2 construction details are subject to change; confirm current published figures directly with each centre before publication."
+  - "MyCEB 在其主页上将 RM20.18 billion 标示为「Estimated Economic Impact」，主页上还显示了另一个标示含糊的数字（1,656,942）；请直接向 MyCEB 核实其意指的标签与数值。"
+  - "The Meetings Show London 的数字（6,625 名代表、RM116 million、2017–2023）出自 MyCEB 的一份新闻稿，且在本次修正过程中未重新获取；在依赖前请核实。"
+  - "MITEC 的 12,530 平方米无柱面积（据 CIDB）是包含在——而非额外附加于——MITEC 官方网站所述的 52,000 平方米展览总面积之内；请核实两个数字之间的关系。"
+  - "展览面积总数因来源而异：MITEC 官方网站称 52,000 平方米，而 CIDB 描述为一百万平方英尺（约 92,900 平方米），可能是总建筑面积与净展览面积之别；请核实所依据的口径。"
+  - "MITEC 确切的位置描述（邻近 Dutamas / KL Metropolis；更大的区域为 Segambut）应对照 MITEC 自身的网站核实；所引用的 CIDB 来源使用「near Dutamas」。"
+  - "所有场馆容量及 BCCK2 的建设细节均可能变动；发布前请直接向各中心核实当前公布的数字。"
 revisions:
   - version: "01.00"
     date: 2026-07-28

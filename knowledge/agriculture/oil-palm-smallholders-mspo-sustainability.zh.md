@@ -49,10 +49,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Currency of the ~250,000 independent smallholder licence figure (MSPO cites it as of December 2021); confirm the latest MSPO licence count."
-  - "EUDR application dates (30 Dec 2026 / 30 June 2027) are subject to further EU legislative change; confirm they still hold at time of human review."
-  - "Whether EUDR requires polygon geolocation for all smallholder plots or permits single-point coordinates below a size threshold."
-  - "Wilmar's ~190 smallholders in Bintulu and the attributed conservation-lead quote (via Eco-Business) — confirm figure and attribution are still accurate."
+  - "约250,000个独立小农执照数字的时效性（MSPO引用的是截至2021年12月的数据）；须核实MSPO最新的执照数目。"
+  - "EUDR的适用日期（30 Dec 2026 / 30 June 2027）可能因欧盟后续立法变动而改变；在人工审核时须确认其仍然有效。"
+  - "EUDR 是否要求所有小农地块提供多边形地理定位，抑或在某一面积门槛以下允许使用单点坐标。"
+  - "Wilmar 在 Bintulu 的约 190 名小农，以及所引用的保育主管言论（经由 Eco-Business）— 请确认该数字与出处是否仍然准确。"
 
 updated: 2026-08-01
 sources:

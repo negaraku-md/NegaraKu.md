@@ -40,13 +40,13 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Exact current number of JPJ offices nationwide (widely cited as 'more than 160' in secondary sources; not confirmed on an official jpj.gov.my page)."
-  - "Exact effective date of e-LKM digital documents (secondary sources say 10 February 2023; official page only confirms 'starting in 2023')."
-  - "Exact date MyJPJ enabled licence and road-tax renewal (reported as 1 February 2024) and the RM5 digital-renewal rebate window (reported to expire 31 December 2024) — from news reporting, not confirmed on a government source."
-  - "How many months in advance road tax can be renewed (commonly stated as 2 months; not confirmed on the malaysia.gov.my page)."
-  - "Full list and codes of Malaysian driving licence classes (L, LDL, PDL, CDL, D, B, B2, DA, etc.) — needs a primary-source licensing page."
-  - "Mechanics and thresholds of the KEJARA demerit-points system (points per offence, suspension thresholds) — needs primary source."
-  - "Whether the AES (Automated Enforcement System) is currently operated by JPJ or another body."
+  - "全国 JPJ 办事处的确切当前数量（在二手来源中被广泛引用为「超过 160 家」；未在官方 jpj.gov.my 页面确认）。"
+  - "e-LKM 电子文件的确切生效日期（二手来源称 10 February 2023；官方页面仅确认「2023 年起」）。"
+  - "MyJPJ 启用驾照及路税续期的确切日期（据报为 2024 年 2 月 1 日）以及 RM5 数字续期回扣窗口（据报于 2024 年 12 月 31 日届满）——来自新闻报道，未在政府来源上获得确认。"
+  - "路税最多可提前多少个月续期（常被说成 2 个月；malaysia.gov.my 页面未予证实）。"
+  - "马来西亚驾驶执照类别的完整清单与代码（L、LDL、PDL、CDL、D、B、B2、DA 等）——需要一个主要来源的执照页面。"
+  - "KEJARA 记分制度的运作机制与门槛（每项违规的记分、吊销门槛）——需第一手来源。"
+  - "AES（Automated Enforcement System）目前是由JPJ还是另一机构运营。"
 updated: 2026-08-14
 sources:
   - title: "Headquarter — Portal Rasmi JPJ"

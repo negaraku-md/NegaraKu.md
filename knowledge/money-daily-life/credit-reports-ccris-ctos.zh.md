@@ -45,8 +45,8 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Sejauh mana majikan di Malaysia benar-benar menyemak laporan kredit (CCRIS/CTOS) sebagai sebahagian saringan pekerjaan — amalan ini nampaknya terhad kepada jawatan sektor kewangan tertentu dan tidak disokong oleh sumber rasmi utama; sahkan atau keluarkan."
-  - "Butiran perkhidmatan Saringan Penyewa CTOS (skop laporan, keperluan kebenaran bertulis penyewa) perlu disahkan terus dengan CTOS kerana laman produk gagal dimuatkan sepenuhnya semasa semakan."
+  - "马来西亚雇主在多大程度上确实将查阅信用报告（CCRIS/CTOS）作为求职筛选的一部分——此做法似乎仅限于特定的金融领域职位，且没有权威官方来源支持；请核实或删除。"
+  - "CTOS 租客筛查服务的详情（报告范围、租客书面同意的要求）需直接向 CTOS 核实，因为查核时产品页面未能完整加载。"
 revisions:
   - version: "01.00"
     date: 2026-08-08

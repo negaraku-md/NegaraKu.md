@@ -31,7 +31,7 @@ faq:
     a: "它可以做生意，但没法合规。法定的提交是由秘书以该身份作出的，而 SSM 的 practice note 确认，已卸任的人不得再为该公司提交文件。没有秘书的公司，按定义就是违反了 s.235(1)。"
 
 verificationNeeded:
-  - "Confirm whether SSM applies any compound or administrative penalty for s.240 or s.235 breaches in practice, and at what rate — SSM does not publish a compound schedule for these sections alongside the Act text"
+  - "请核实 SSM 在实务上是否对 s.240 或 s.235 的违规适用任何和解金或行政罚款，以及费率为何——SSM 并未随法令条文一并公布这些条款的和解金收费表。"
 
 obligations:
   - what: "填补悬空的公司秘书职位"

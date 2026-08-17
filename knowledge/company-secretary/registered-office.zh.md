@@ -36,8 +36,8 @@ faq:
     a: "会。s.68(3)(a) 要求常年申报表述明注册办事处的地址，而 s.68(3)(d) 与 (e) 则要求在成员登记册与财务记录并非存放于注册办事处时，述明其存放地址。"
 
 verificationNeeded:
-  - "Confirm whether SSM has issued any practice directive or guideline specifying minimum standards or documentation for a registered office address beyond s.46 — no such directive was located on ssm.com.my"
-  - "Confirm the current SSM late lodgement fee scale for a s.46(3) notification against the prevailing SSM practice directive on late lodgement penalties"
+  - "请确认 SSM 是否发布过任何在 s.46 之外、就注册办事处地址规定最低标准或所需文件的实务指令或指南 — 在 ssm.com.my 上未找到此类指令"
+  - "请对照SSM现行有关逾期提交罚款的实务指令，确认当前针对s.46(3)通知的SSM逾期提交收费标准"
 
 obligations:
   - what: "就注册办事处地址的变更通报注册官"

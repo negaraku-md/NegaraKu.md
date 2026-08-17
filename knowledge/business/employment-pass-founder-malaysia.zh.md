@@ -40,10 +40,10 @@ faq:
     a: "不需要。内政部的常见问答确认，准证仍然有效的持证人无须提交新申请。但任何落在 2026 年 6 月 1 日当日或之后的续期，都依修订后的政策评估，而续期最早可在届满前三个月提交。目前的第 I 类持证人，可能会在续期时被重新归入第 II 类。"
 
 verificationNeeded:
-  - "Reconcile the Category III band. The ESD announcement states RM5,000 to RM9,999 generally, while the MOHA FAQ question 10 describes a RM7,000 to RM9,999 range specifically for the Manufacturing Sector and Manufacturing-Related Services under MITI and MIDA. Confirm which applies to a non-manufacturing employer."
-  - "Confirm whether the ESD Online Guidebook paid-up capital table has been reissued since version 6 dated 14 April 2025, and whether the figures changed alongside the 1 June 2026 salary revision."
-  - "Confirm the current list of KPDN distributive trade sub-sectors in which long-term passes are not permitted — KPDN publishes the restriction but the operative list was not retrievable"
-  - "Confirm whether the ICT restriction to Professional Visit Pass-Expert only, stated in the ESD guidebook, still stands given the Malaysia Digital route through MDEC"
+  - "须厘清Category III的薪资区间。ESD公告一般列为RM5,000至RM9,999，而MOHA FAQ第10题则针对MITI与MIDA之下的制造业及制造相关服务业，描述为RM7,000至RM9,999区间。须确认非制造业雇主适用哪一个。"
+  - "确认ESD Online Guidebook的实收资本表在14 April 2025的第6版之后是否已重新发布，以及相关数字是否随1 June 2026的薪资调整而改变。"
+  - "请核实 KPDN 当前不允许长期准证的分销贸易子行业清单——KPDN 公布了该项限制，但可据以操作的清单无法取得。"
+  - "请确认 ESD 指南所载、将 ICT 限于 Professional Visit Pass-Expert 的规定，在经由 MDEC 的 Malaysia Digital 途径下是否仍然适用"
 
 obligations:
   - what: "在申请任何外籍人士准证之前，先向外籍人士服务组（ESD）为公司办理登记"

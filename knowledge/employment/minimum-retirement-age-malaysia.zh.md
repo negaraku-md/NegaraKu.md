@@ -45,7 +45,7 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Petikan dan pegangan kes: Wong Mei Yoke v Tien Wah Press Malaya Sdn Bhd [2018] 1 ILR 20 dan Zulkefli Hashim v Uda Holdings Berhad [2018] 2 LNS 3169 — sahkan sitasi dan ringkasan pegangan terhadap laporan penuh."
+  - "案件引述及判决要旨：Wong Mei Yoke v Tien Wah Press Malaya Sdn Bhd [2018] 1 ILR 20 与 Zulkefli Hashim v Uda Holdings Berhad [2018] 2 LNS 3169——请对照完整判例报告确认引注及判决要旨摘要。"
 revisions:
   - version: "01.00"
     date: 2026-08-08

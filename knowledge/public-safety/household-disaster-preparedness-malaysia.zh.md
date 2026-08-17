@@ -45,10 +45,10 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Angka 8,481 PPS / kapasiti 2,158,743 mangsa berasal daripada kenyataan kesediaan JKM bagi Monsun Timur Laut 2024/2025 (BuletinTV3, Nov 2024) — sahkan angka setara bagi musim 2025/2026."
-  - "4,619 kawasan tumpuan banjir, 543 siren dan 737 pam mudah alih dipetik daripada kenyataan NADMA Oktober 2024 — sahkan jumlah terkini bagi 2025/2026."
-  - "Jumlah BWI RM78.342 juta kepada 78,342 ketua isi rumah ialah keadaan setakat 21 Januari 2026 — kemas kini kepada jumlah akhir musim apabila tersedia."
-  - "Sahkan mekanisme permohonan dan bayaran BWI semasa (MyIBJKM / EFT / kaunter BSN) pada masa penerbitan."
+  - "8,481 个 PPS／可容纳 2,158,743 名灾民的数字，出自 JKM 就 2024/2025 东北季候风的备灾声明（BuletinTV3, Nov 2024）——请核实 2025/2026 季度的对应数字。"
+  - "4,619 个水灾热点、543 座警报器及 737 台移动式抽水泵引自 NADMA 2024 年 10 月的声明——请核实 2025/2026 年的最新数目。"
+  - "向 78,342 名户主发放的 BWI 总额 RM78.342 juta 是截至 2026 年 1 月 21 日的情况——待可用时请更新为季末最终总额。"
+  - "须在出版时核实现行BWI的申请与付款机制（MyIBJKM／EFT／BSN柜台）。"
 revisions:
   - version: "01.00"
     date: 2026-08-01

@@ -46,10 +46,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Exact incorporation date of Petroliam Nasional Berhad (commonly cited as 17 August 1974) and confirmation that its 100% government shareholding is documented in the PETRONAS Financial Report 2024 rather than only the general About Us page."
-  - "FY2024 shareholders' equity (RM451.2 billion) and capital expenditure (RM54.2 billion) — confirm line items against the audited PETRONAS Financial Report 2024, as these two were not independently re-verified in the correction pass."
-  - "The three Bursa Malaysia-listed group subsidiaries (Petronas Gas Berhad, Petronas Chemicals Group Berhad, Petronas Dagangan Berhad) remain listed and majority-held as stated."
-  - "Cumulative figures ('RM1.5 trillion to the nation since 1974' and 'RM13.5 billion into the National Trust Fund') are self-reported by Petronas; confirm these are the company's stated rounded totals before citing as precise."
+  - "Petroliam Nasional Berhad 的确切注册成立日期（通常引用为 1974 年 8 月 17 日），并确认其 100% 政府持股是记载于 PETRONAS Financial Report 2024，而非仅见于一般的 About Us 页面。"
+  - "FY2024 股东权益（RM451.2 billion）与资本开支（RM54.2 billion）——请对照经审计的 PETRONAS Financial Report 2024 逐项核实，因为这两项在更正过程中未经独立重新验证。"
+  - "三家在 Bursa Malaysia 上市的集团子公司（Petronas Gas Berhad、Petronas Chemicals Group Berhad、Petronas Dagangan Berhad）如所述仍维持上市并由集团控股。"
+  - "累计数字（「自 1974 年以来向国家贡献 RM1.5 trillion」和「向国家信托基金注入 RM13.5 billion」）由 Petronas 自行报告；在作为精确数字引用之前，请核实这些是该公司所述的约整总额。"
 
 updated: 2026-07-28
 sources:

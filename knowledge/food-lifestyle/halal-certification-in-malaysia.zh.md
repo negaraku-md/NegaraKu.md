@@ -53,12 +53,12 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Exact current edition of MS 1500 in force — the JAKIM panduan portal references MS 1500:2009 while other secondary sources cite MS 1500:2019; confirm with Jabatan Standard Malaysia (MS Online)."
-  - "Effective/enforcement date of the Manual Prosedur Pensijilan Halal Malaysia (Domestik) 2020 and which prior edition it supersedes."
-  - "Exact title and citation of the order under Akta Perihal Dagangan 2011 [Akta 730] that designates JAKIM/MAIN/JAIN as the competent authority (Perintah Perihal Dagangan (Perakuan dan Penandaan Halal) 2011 vs (Takrif Halal) 2011)."
-  - "Current halal certification fee schedule (yuran) amounts under MPPHM (Domestik) 2020 / MYeHALAL."
-  - "Precise specification of the official Halal Malaysia logo per the JAKIM logo guideline."
-  - "Extent and basis of JAKIM certification recognition by international halal bodies."
+  - "当前生效的 MS 1500 确切版本 — JAKIM panduan 门户引用 MS 1500:2009，而其他次要来源引用 MS 1500:2019；请向 Jabatan Standard Malaysia（MS Online）确认。"
+  - "Manual Prosedur Pensijilan Halal Malaysia (Domestik) 2020的生效／实施日期，以及它取代了哪一个先前版本。"
+  - "根据Akta Perihal Dagangan 2011 [Akta 730]指定JAKIM/MAIN/JAIN为主管当局的命令的确切名称及引用（Perintah Perihal Dagangan (Perakuan dan Penandaan Halal) 2011与(Takrif Halal) 2011之间的区别）。"
+  - "MPPHM (Domestik) 2020 / MYeHALAL 下清真认证收费表（yuran）的现行金额。"
+  - "官方 Halal Malaysia 标志的精确规格，依据 JAKIM 的标志指引。"
+  - "JAKIM 认证获国际清真机构承认的范围及依据。"
 
 updated: 2026-08-01
 sources:

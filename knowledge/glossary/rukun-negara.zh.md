@@ -51,11 +51,11 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Glos 'maksud ringkas' setiap prinsip dalam jadual — rumusan pentafsiran editorial, patut disemak terhadap teks rasmi Jabatan Perpaduan Negara."
-  - "Sumber MKN 2024-09-24 hanya menyebut lima nilai secara prosa; ia tidak memerincikan tarikh 1970, pengisytihar, MAGERAN atau 13 Mei — spesifik itu dibawa oleh trivia MKN 2022 + MyGov. Pertimbang menambah satu sumber primer yang memerinci/menghurai lima prinsip."
-  - "Dakwaan 'lima prinsip lazimnya dicetak di kulit belakang buku latihan sekolah' — pengetahuan umum, belum disahkan sumber."
-  - "Lagu Negaraku 'dilindungi di bawah undang-undang lagu kebangsaan' (rujukan Akta Lagu Kebangsaan 1968) — belum disahkan sumber primer."
-  - "Bingkai 'kesilapan lazim' bersifat pedagogi; kekerapan sebenar kesilapan tidak diukur oleh mana-mana sumber."
+  - "表格中每条原则的「简要含义」注释——属编辑性诠释的表述，应对照 Jabatan Perpaduan Negara 的官方文本查核。"
+  - "MKN 2024-09-24的来源仅以散文形式提及五项价值观；它并未详述1970年的日期、宣布者、MAGERAN或5月13日——那些细节是由MKN 2022的趣闻加上MyGov提供的。可考虑增添一个详述／阐释这五项原则的主要来源。"
+  - "「五大原则通常印在学校练习簿封底」的说法——属常识，尚未获来源证实。"
+  - "国歌 Negaraku「受国歌法律保护」（引自 Akta Lagu Kebangsaan 1968）——尚未获原始来源证实。"
+  - "「常见错误」的框架属于教学性质；错误的实际发生频率并未有任何来源加以衡量。"
 
 updated: 2026-08-01
 sources:

@@ -47,9 +47,9 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Anggaran kerugian RM3–6 bilion dan ~980,000 tan setahun berasal daripada kenyataan Jabatan Perikanan 2019 (Malay Mail); sahkan sama ada terdapat anggaran DOF yang lebih terkini."
-  - "Angka pekerjaan (149,630), bot berlesen (48,605) dan dagangan (import RM7.34b / eksport RM4.21b) merujuk 2022 — sahkan konsisten dengan laporan statistik DOF terbaharu."
-  - "Akta A1601 turut memperkenalkan siling denda berasingan RM4 juta bagi kesalahan di laut lepas; tidak dimasukkan dalam badan artikel — pertimbangkan sama ada perlu ditambah."
+  - "RM3–6 bilion的损失估计以及每年约980,000吨的数字，源自Jabatan Perikanan 2019年的声明（Malay Mail）；请确认是否有更新的DOF估计数字。"
+  - "就业人数（149,630）、持牌渔船（48,605）及贸易额（进口RM7.34b／出口RM4.21b）均指2022年——请核实其与DOF最新统计报告一致。"
+  - "Akta A1601 还针对公海上的违法行为引入了单独的 RM4 million 罚款上限；本文正文未纳入此点——请考虑是否需要补充。"
 revisions:
   - version: "01.00"
     date: 2026-08-01

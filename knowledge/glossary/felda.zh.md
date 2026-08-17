@@ -51,12 +51,12 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Komposisi kaum peneroka Lurah Bilut: Kertas Putih FELDA 2019 mencatat 67.0% Melayu dan 33.0% kaum lain, tetapi laporan akhbar sezaman (mis. New Straits Times, 2019) mencatat 404 Melayu, 163 Cina dan 49 India (≈ 65.6% Melayu). Sahkan pecahan tepat sebelum menyatakan sebarang peratusan."
-  - "Garis masa kemasukan peneroka Lurah Bilut: penerokaan/pembukaan tanah bermula 1958 tetapi peneroka dilaporkan mula ditempatkan secara berperingkat dari sekitar 1959. Sahkan tarikh sebenar kemasukan penuh 616 peneroka."
-  - "Purata pendapatan peneroka RM591 (1980) → RM2,336 (2016) adalah angka pendapatan bulanan purata dalam Kertas Putih FELDA 2019; terbitan kerajaan lain memetik angka berbeza bagi tahun/metrik lain. Sahkan takrif dan tempoh sebelum membandingkan."
-  - "Angka awal Ayer Lanas (1,620 hektar, 1957), Lurah Bilut (2,631 hektar) dan Taib Andak (3,385 hektar; 628 peneroka) berpunca daripada Kertas Putih FELDA 2019; sahkan silang dengan rekod tanah rasmi jika ketepatan kritikal."
-  - "Fasa FELDA berhenti membuka tanah rancangan/mengambil peneroka baharu (lazimnya dikaitkan dengan awal 1990-an) tidak disahkan oleh sumber yang dipetik; sahkan tarikh sebelum menyatakannya."
-  - "Kebanyakan figura kewangan dalam artikel ini bertarikh sehingga 2018–2019 (Kertas Putih FELDA 2019); semak penyata kewangan terkini FELDA untuk kedudukan semasa."
+  - "Lurah Bilut 垦殖民的族群构成：FELDA 2019 白皮书记录为 67.0% 马来人和 33.0% 其他族群，但同期的报章报道（例如 New Straits Times, 2019）记录为 404 名马来人、163 名华人和 49 名印度人（≈ 65.6% 马来人）。在陈述任何百分比之前，请核实确切的细分。"
+  - "Lurah Bilut 垦殖民迁入的时间脉络：土地开垦／开辟始于 1958 年，但据报垦殖民约从 1959 年起分阶段安置。请确认 616 名垦殖民全部迁入的实际日期。"
+  - "垦殖民平均收入 RM591（1980 年）→ RM2,336（2016 年）是 Kertas Putih FELDA 2019 中的月平均收入数字；其他政府刊物就其他年份／指标引用不同数字。在比较之前，请核实定义与时段。"
+  - "Ayer Lanas（1,620 公顷，1957）、Lurah Bilut（2,631 公顷）与 Taib Andak（3,385 公顷；628 名垦殖民）的早期数字出自 Kertas Putih FELDA 2019；若准确性至关重要，请与官方土地记录交叉核实。"
+  - "FELDA 停止开发垦殖地/接收新垦殖民的阶段（通常与 1990 年代初关联），未由所引用的来源证实；陈述前请核实日期。"
+  - "本文中大多数财务数字的时点在 2018–2019 年（2019 年 FELDA 白皮书）；如需了解当前状况请查核 FELDA 的最新财务报表。"
 
 updated: 2026-08-01
 sources:

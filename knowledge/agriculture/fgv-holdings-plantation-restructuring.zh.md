@@ -49,9 +49,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Exact last-trading date of FGV shares (reported externally as 22 August 2025); the cited news sources confirm only the 25 August 2025 suspension and a final traded price of RM1.30."
-  - "FGV operational figures (3% of global and 14% of national CPO output, seven countries, over 51,000 employees) are drawn from FGV's own, undated corporate Company Overview page — confirm against the latest FGV annual report for the current reporting period."
-  - "Proportion of fresh fruit bunches from FELDA settlers and smallholders: FGV's delisting press release states 'more than 70%', while its Company Overview page states 'approximately two-thirds' — confirm the current figure."
+  - "FGV 股票的确切最后交易日（外部报道为 22 August 2025）；所引用的新闻来源仅确认 25 August 2025 的停牌以及 RM1.30 的最后成交价。"
+  - "FGV 的运营数据（占全球 CPO 产量的 3%、占全国的 14%、七个国家、逾 51,000 名员工）取自 FGV 自家未注明日期的公司 Company Overview 页面——请对照 FGV 最新年报核实当前报告期的数据。"
+  - "来自 FELDA 垦殖民与小园主的鲜果串比例：FGV 的除牌新闻稿称「超过 70%」，而其公司概览页面称「约三分之二」——请核实当前数字。"
 
 updated: 2026-08-01
 sources:

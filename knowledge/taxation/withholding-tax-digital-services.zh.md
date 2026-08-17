@@ -36,9 +36,9 @@ faq:
     a: "用小额展期。凡单一付款交易的预扣税不超过 RM500，且此类交易在相关的六个月期间内发生超过一次，缴交可展期至：12 月 1 日至 5 月 31 日窗口为 6 月 30 日，6 月 1 日至 11 月 30 日窗口为 12 月 31 日；特许权使用费与利息用 Form CP37S，s.4A 收入用 Form CP37DS。"
 
 verificationNeeded:
-  - "LHDN's Guidelines on Taxation of Electronic Commerce were last revised 13 May 2019 and Practice Note 1/2018 was issued 16 March 2018 — neither has been reissued to address current SaaS, AI or usage-based pricing models, so the routing test is being applied to business models it did not contemplate"
-  - "No official LHDN determination could be found for any named platform. Statements circulating in the market that a specific provider is taxed at a specific treaty rate are not verifiable from LHDN sources and are not reproduced here"
-  - "Whether a particular foreign provider is registered as a foreign registered person under the digital services regime must be checked on the provider's own invoice — RMCD's register was not retrieved"
+  - "LHDN 的 Guidelines on Taxation of Electronic Commerce 最后一次修订于 2019 年 5 月 13 日，Practice Note 1/2018 于 2018 年 3 月 16 日发布——两者都未曾重新发布以应对当前的 SaaS、AI 或按使用量计价模式，因此该归属判定标准正被套用于其未曾设想的商业模式。"
+  - "找不到LHDN针对任何具名平台的官方裁定。市场上流传关于某特定供应商按某特定协定税率征税的说法，无法从LHDN来源核实，故在此不予转载"
+  - "某特定外国供应商是否已根据数字服务制度登记为外国注册人，须在该供应商本身的发票上查核——RMCD的登记册未能取得。"
 
 obligations:
   - what: "就付给非居民软件或平台供应商的特许权使用费扣缴并缴交预扣税"

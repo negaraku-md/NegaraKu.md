@@ -46,10 +46,10 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Senarai penuh jenis sukan yang diliputi Program Podium telah dibuang daripada draf ini kerana tiada sumber rasmi yang menyenaraikan sukan tersebut ditemui; sahkan senarai rasmi daripada ISN atau MSN sebelum ia dimasukkan semula."
-  - "Sasaran Program Podium yang disenaraikan (Pingat Emas Tokyo 2020, 10 Teratas Gold Coast 2018 dan Jakarta 2018, dsb.) ialah sasaran era pelancaran seperti yang tersiar di laman ISN; sahkan sama ada ISN telah menerbitkan sasaran kitaran semasa yang dikemas kini."
-  - "Bilangan atlet (393 — 307 biasa dan 86 para) serta terma kontrak dua tahun adalah angka setakat Januari 2024; sahkan angka terkini."
-  - "Butiran dana RM240 juta / RM60 juta setahun / 41 jenis sukan bagi kitaran 2022; sahkan status pelaksanaan dan sama ada kitaran pembiayaan baharu telah diumumkan sejak itu."
+  - "Program Podium 所涵盖运动项目的完整名单已从本稿中删除，因为未找到列出这些项目的官方来源；在重新纳入之前，请向 ISN 或 MSN 确认官方名单。"
+  - "所列的 Program Podium 目标（东京 2020 金牌、黄金海岸 2018 及雅加达 2018 前十名等）是刊登在 ISN 网站上的启动时期目标；请核实 ISN 是否已发布更新后的当前周期目标。"
+  - "运动员人数（393 名——307 名常规与 86 名残障）及两年合约条款为截至 2024 年 1 月的数字；请核实最新数字。"
+  - "2022 周期的资金细节 RM240 juta / 每年 RM60 juta / 41 种运动项目；请核实执行状态，以及此后是否已公布新的资助周期。"
 revisions:
   - version: "01.00"
     date: 2026-08-01

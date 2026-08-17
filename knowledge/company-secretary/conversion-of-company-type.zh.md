@@ -44,9 +44,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Sama ada terdapat tempoh pemprosesan rasmi bagi penukaran syarikat awam kepada sendirian (s.41(1)) — garis panduan SSM yang dirujuk tidak menyatakan sebarang tempoh untuk arah ini."
-  - "Sama ada syarikat boleh memohon menukar semula status secara sukarela di bawah seksyen 41 (selain sekatan s.42(6)), dan syarat yang berkenaan — tidak dinyatakan dalam sumber yang dirujuk."
-  - "Sahkan fi pemfailan RM500 masih terpakai mengikut jadual fi SSM terkini."
+  - "公众公司转为私人公司（s.41(1)）是否有官方处理时限——所引 SSM 指南并未就此方向说明任何时限。"
+  - "公司是否可依 seksyen 41 自愿申请转回其身份（除 s.42(6) 的限制外），及相关条件——所引用的来源中未有说明。"
+  - "请核实 RM500 的申报费依 SSM 最新收费表是否仍然适用。"
 
 updated: 2026-08-07
 sources:

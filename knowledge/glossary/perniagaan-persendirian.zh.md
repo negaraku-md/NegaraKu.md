@@ -50,10 +50,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Form B deadlines (30 June statutory / 15 July e-Filing grace) and the mandatory-e-Filing-from-YA2024 rule — confirm against the current LHDN (Lembaga Hasil Dalam Negeri) return-form filing programme; the official ITRF Deadlines page could not be directly retrieved during this pass."
-  - "Current SSM fees (RM30 / RM60 / RM5 / RM10) and the ~1-hour certificate issuance time — gazetted fees and service standards can change; confirm on SSM's ezbiz portal."
-  - "Form PNA.42 remains the current SSM business-name approval form (verified against the SMEinfo step-to-register page, but form numbers are administrative and can be superseded)."
-  - "Comparison-table figures for the Sdn Bhd (e.g. maximum 50 shareholders) are general background and are not separately cited."
+  - "Form B 的截止日期（法定 6 月 30 日／e-Filing 宽限至 7 月 15 日）以及自 YA2024 起强制 e-Filing 的规定——请对照当前 LHDN（Lembaga Hasil Dalam Negeri）的报税表呈交时间表核实；本轮未能直接取得官方的 ITRF Deadlines 页面。"
+  - "当前 SSM 收费（RM30 / RM60 / RM5 / RM10）及约 1 小时的证书签发时间 — 宪报所列收费与服务标准可能变动；请在 SSM 的 ezbiz 门户上确认。"
+  - "Form PNA.42仍是当前SSM的商业名称核准表格（已对照SMEinfo的注册步骤页核实，但表格编号属行政性质，可能被取代）。"
+  - "比较表中关于Sdn Bhd的数字（例如最多50名股东）属一般背景资料，并未单独引证。"
 
 updated: 2026-08-01
 sources:

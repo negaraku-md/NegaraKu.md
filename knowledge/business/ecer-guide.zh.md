@@ -39,7 +39,7 @@ faq:
     a: "根据交通部2026年1月29日的文告，第一期建设完工目标为2026年12月，商业客运服务自2027年1月起。由鹅唛（Gombak）至巴生港（Port Klang）的第二期，建设完工目标为2027年12月，营运自2028年1月起。进度在2025年12月为90.81%。"
 
 verificationNeeded:
-  - "Any 2025 or 2026 official target for Kuantan New Deep Water Terminal Phase 2. As of April 2025 Phase 2 remained in planning; the only firm dated milestone found is contractual (completion by December 2039 to secure a concession extension to 2075), not a near-term start or completion target."
+  - "Kuantan New Deep Water Terminal第2期在2025年或2026年的任何官方目标。截至2025年4月，第2期仍处于规划阶段；所找到唯一确定的有日期里程碑属合约性质（须在2039年12月前完工以取得展延至2075年的特许经营权），而非近期的动工或完工目标。"
 
 lang: "zh"
 masterLanguage: "en"

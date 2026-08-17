@@ -51,9 +51,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Kedudukan di bawah Akta Syarikat 1965 yang dimansuhkan: sahkan sama ada cop mohor benar-benar diwajibkan untuk setiap syarikat (dakwaan ini telah dilembutkan kepada 'perubahan kedudukan' kerana tiada petikan sumber primer diperoleh; sumber yang dipetik hanya mengesahkan cop mohor kini pilihan di bawah Seksyen 61(1))."
-  - "Petikan verbatim Bahasa Inggeris SSM FAQ Part G telah disahkan byte-by-byte terhadap PDF SSM pada 2026-08-07; pengulas manusia digalakkan membuka semula PDF sebagai semakan akhir."
-  - "Keperluan penyempurnaan khusus semasa pihak berkuasa lain (contohnya Pejabat Tanah, bank) yang mungkin melangkaui Akta Syarikat 2016 — sahkan mengikut transaksi sebenar."
+  - "已废除的 Akta Syarikat 1965 下的规定：请核实公司印章是否确实对每家公司都是强制性的（此说法已弱化为「立场的变化」，因为未取得第一手来源的引证；所引用来源仅确认印章现在依 Seksyen 61(1) 属可选）。"
+  - "SSM FAQ Part G的英文逐字引文已于2026-08-07与SSM PDF逐字节核实；鼓励人工审阅者重新打开该PDF作最后查核。"
+  - "其他主管机构（例如土地局、银行）当下可能超出Akta Syarikat 2016的特定签立要求——须依实际交易核实。"
 
 updated: 2026-08-07
 sources:

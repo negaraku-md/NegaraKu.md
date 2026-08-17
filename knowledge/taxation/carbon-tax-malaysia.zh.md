@@ -47,10 +47,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "No official carbon tax rate has been gazetted as of this pass. The RM35-45 (US$8-11)/tonne figure is media/advisory-reported and unconfirmed; other, lower estimates have circulated in later reporting. A human should confirm the actual rate once published."
-  - "Sensitivity is set to 'none', but this is a politically-charged fiscal and climate policy topic. A human editor should confirm whether that classification is appropriate."
-  - "Current parliamentary status and expected tabling window of the Climate Change Bill (RUU PIN)."
-  - "Whether the 'by 2026' start date still holds given official signals that implementation may be reviewed."
+  - "截至本次核订，尚无官方碳税税率刊宪。RM35-45（US$8-11）/吨的数字为媒体/咨询机构报道且未经证实；后续报道中亦流传其他更低的估算。一旦正式公布，应由人工确认实际税率。"
+  - "敏感度设为「none」，但这是一个具有政治敏感性的财政与气候政策议题。应由人工编辑确认该分类是否恰当。"
+  - "Climate Change Bill（RUU PIN）当前的国会状态及预计提呈的时间窗口。"
+  - "鉴于官方释出实施可能被检讨的信号，「到2026年」的起始日期是否仍然成立。"
 
 updated: 2026-08-07
 sources:

@@ -36,7 +36,7 @@ faq:
     a: "利息按每年10%就每一逾期日计收，且征费转为欠款，须先备妥Form 3明细表方可结清。不缴付属违法行为，可处不超过RM20,000罚款或不超过两年监禁，或两者兼施。"
 
 verificationNeeded:
-  - "Confirm the precise CP38 issuance and remittance mechanics, including how a CP38 directive interacts with the running PCB amount, against a current LHDN guideline"
+  - "请对照 LHDN 现行指引，核实 CP38 的确切签发与缴款机制，包括 CP38 指令如何与正在计算的 PCB 金额相互作用。"
 
 obligations:
   - what: "Remit EPF contributions for the wage month"

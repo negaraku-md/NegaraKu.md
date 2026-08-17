@@ -38,7 +38,7 @@ faq:
     a: "Act 709第5至12条中的七项原则未被重新编号或重写。改变的是它们约束谁以及违反的代价。第9条的安全原则如今作为资料控制者和资料处理者的义务，因此处理者不再躲在控制者的保证之后。第5(2)条下的最高罚款翻了三倍。"
 
 verificationNeeded:
-  - "The outcome of Public Consultation Paper 4/2025 on proposed amendments to the Personal Data Protection Regulations 2013 (issued 25 August 2025) — still at public consultation with no gazetted amendment as at 14 August 2026"
+  - "关于建议修订 Personal Data Protection Regulations 2013 的 Public Consultation Paper 4/2025（于 25 August 2025 发布）的结果——截至 14 August 2026 仍处于公众咨询阶段，尚无宪报公布的修订。"
 
 obligations:
   - what: "向专员通报造成或可能造成重大伤害的个人资料泄露"

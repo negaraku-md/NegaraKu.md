@@ -51,11 +51,11 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "2001 SEA Games: only the gold count (111) and overall-champion placing are sourced (The ASEAN Post). The silver/bronze split and 323-vs-other totals are not yet confirmed against an official record."
-  - "The superlative 'most Olympic medals of any nation without a gold' should be confirmed against an official/primary source (IOC/olympics.com); it is currently an interpretive framing."
-  - "Prefer official sources where they load — olympics.com, commonwealthsport.com, Olympic Council of Malaysia — over Topend Sports (hobbyist stats) and First Classe (lifestyle listicle), which were used as fallbacks after the official sites timed out or returned 403."
-  - "2017 SEA Games: sources disagree on the silver/bronze split (91/85 vs 92/86); the article deliberately uses gold count and placing only. Confirm the exact non-gold totals if published."
-  - "Kuala Lumpur 1998 Commonwealth Games participant figure (~5,250) and nation count (70) rest on Topend Sports; confirm against official commonwealthsport.com records."
+  - "2001 年 SEA Games：仅金牌数（111）及总冠军排名有来源（The ASEAN Post）。银牌／铜牌的分布及 323 与其他总数之间的差异尚未对照官方记录加以确认。"
+  - "「在从未获得金牌的国家中拥有最多奥运奖牌」这一最高级说法，应对照官方／一手来源（IOC/olympics.com）确认；目前它属于一种诠释性表述。"
+  - "凡能加载时应优先采用官方来源——olympics.com、commonwealthsport.com、Olympic Council of Malaysia——而非Topend Sports（业余爱好者统计）与First Classe（生活方式清单文章）；后两者是在官方网站超时或返回403后用作备用的。"
+  - "2017 年 SEA Games：各来源对银牌／铜牌的细分存在分歧（91/85 对 92/86）；文章特意仅采用金牌数与排名。如有公布，请核实确切的非金牌总数。"
+  - "Kuala Lumpur 1998 Commonwealth Games 的参赛人数（约 5,250）及参赛国数目（70）依据的是 Topend Sports；请对照 commonwealthsport.com 官方记录核实。"
 
 updated: 2026-08-01
 sources:

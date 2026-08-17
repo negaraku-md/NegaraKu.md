@@ -35,10 +35,10 @@ faq:
     a: "有，而且有两项经常被漏掉。Schedule IA 自工人受雇第 11 年起另收一个费率——依 2019 年 4 月 30 日生效的 P.U.(A) 122/2019，一般为每年 RM6,000，种植与农业为 RM2,000。Schedule IB 则依 2023 年 8 月 1 日生效的 P.U.(A) 231/2023，向参与特别重新调配计划的雇主每张准证统一收取 RM1,500。"
 
 verificationNeeded:
-  - "Confirm the Sabah and Sarawak rate for services (island resort) — the gazetted PDF column layout is unreliable at that row, and the figure is taken from the Immigration table"
-  - "Confirm the deadline for levy payment on a new application — Immigration states the approval letter is issued only after the employer pays within two days, while ePPAx states within 30 days of quota approval"
-  - "Confirm current levy rebate or refund rules — no official statement of eligibility, deadline or quantum could be located"
-  - "Confirm Sabah and Sarawak state immigration positions directly — applications for those states remain subject to the respective State Governments and their portals were unreachable"
+  - "请核实沙巴与砂拉越服务业（海岛度假村）的费率——宪报 PDF 在该行的栏位排版不可靠，此数字取自移民局表格。"
+  - "须确认新申请缴纳征费的期限——移民局称批准信只在雇主于两天内缴付后才发出，而ePPAx则称在配额批准后30天内"
+  - "核实当前的征费回扣或退款规则——无法找到关于资格、期限或金额的官方说明。"
+  - "请直接向沙巴与砂拉越州移民当局核实其立场——这两州的申请仍受各自州政府管辖，而其门户网站无法访问。"
 
 obligations:
   - what: "就每一张签发或延期的准证缴付外劳人头税"

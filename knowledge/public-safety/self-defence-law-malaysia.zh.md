@@ -39,9 +39,9 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Tahap sensitivity kekal 'none' menepati skema semasa, tetapi penyemak manusia patut menimbang sama ada topik penggunaan daya maut wajar diberi flag sensitiviti lebih tinggi."
-  - "Sahkan proposisi doktrin 'pembelaan lengkap' dan penilaian kemunasabahan/kadar kes demi kes terhadap kes terkini yang mengikat sebelum penerbitan."
-  - "Sahkan kelayakan sumber sekunder (firma guaman) dan kemas kini kepada 'empat justifikasi kardinal' jika mahkamah telah memperhalusinya."
+  - "敏感度等级维持为「none」符合当前方案，但人工审核者应斟酌关于使用致命武力的主题是否应被标记为更高的敏感度。"
+  - "发布前，请对照最新的具约束力判例，核实「完全抗辩」的法理主张，以及逐案进行的合理性／比例评估。"
+  - "确认二手来源（律师事务所）的资质，若法院已对「四大基本理由」作出细化，则加以更新。"
 revisions:
   - version: "01.00"
     date: 2026-08-01

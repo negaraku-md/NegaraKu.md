@@ -33,7 +33,7 @@ faq:
     a: "不是。2026 年呈报计划给予个人、合伙、社团、遗产与印裔联合家庭的表格 15 天延期。一个月的延期适用于 Form E 以及公司、LLP、合作社与信托机构的表格。"
 
 verificationNeeded:
-  - "Dates here are taken from the filing programme issued 30 December 2025 and updated 1 April 2026, which governs returns for year of assessment 2025. LHDN issues a new programme each year — re-read it before relying on a later cycle"
+  - "此处的日期取自于 30 December 2025 发布并于 1 April 2026 更新的报税时间表，该时间表适用于 2025 课税年的报税。LHDN 每年发布新的时间表——在依赖较后年度的周期前请重新阅读。"
 
 lang: "zh"
 masterLanguage: "en"

@@ -42,9 +42,9 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Exact total padi planted area (hectares) and national padi production (metric tonnes) for 2022/2023/2024 — pull from DOSM 2023 Agricultural Census, DOA paddy production surveys, or TaniStats; source PDFs did not render during research. (Note: the DOSM SUA gives milled-rice production, not padi hectarage.)"
-  - "Historical rice self-sufficiency ratio for 2014 (a '71.6%' figure appeared only in a search snippet and could not be verified against any primary DOSM source). DOSM changed the SSR calculation basis in 2023, so pre-2023 and post-2023 figures are not directly comparable — only 2024 = 52.9% is primary-confirmed."
-  - "Number of registered padi farmers (a ~172,000 to ~300,000 range was seen; best-supported range is roughly 200,000–240,000) — confirm a definitive KPKM/DOSM padi-specific figure."
+  - "2022/2023/2024年稻谷种植总面积（公顷）与全国稻谷产量（公吨）的确切数字——请从DOSM 2023 Agricultural Census、DOA稻谷产量调查或TaniStats取得；研究时来源PDF无法正常显示。（注意：DOSM SUA提供的是碾磨后大米的产量，而非稻谷种植面积。）"
+  - "2014年的历史稻米自给率（一个「71.6%」的数字仅出现在搜索摘要中，无法对照任何DOSM原始来源加以核实）。DOSM在2023年更改了SSR的计算基准，因此2023年前与2023年后的数字不可直接比较——只有2024年=52.9%经原始来源确认。"
+  - "注册稻农的数量（所见范围约为 172,000 至 300,000；最有依据的区间大致为 200,000–240,000）——请核实一个来自 KPKM/DOSM 的确切稻米专项数字。"
 updated: 2026-08-14
 sources:
   - title: "Malaysia's rice self-sufficiency level stagnant at 52%, says Mat Sabu"

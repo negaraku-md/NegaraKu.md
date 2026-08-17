@@ -40,11 +40,11 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "GI renewal (GIA19), renewal-with-surcharge (GIA20) and restoration fee amounts — the specific RM figures in the earlier draft (RM420 / RM630 / RM670) could not be independently verified and appear to overlap with the trademark fee schedule; confirm the actual GI amounts against the Second Schedule of the Guidelines before publishing."
-  - "The exact designated origin area(s) for the Musang King GI — news reports indicate Pahang and Johor; confirm against the live MyIPO GI Register entry."
-  - "Open the two MyIPO PDFs (Act 836 and the Guidelines of Geographical Indication 2022) directly to confirm anchor content — both return HTTP 403 to automated fetches and were confirmed only via search indexing and WIPO Lex."
-  - "Confirm section 10 is the provision covering both the generic-name/refusal grounds and the earlier-trademark-conflict ground, and that the GIA1 application fee is still RM250."
-  - "Confirm the illustrative registered GIs and their states (Sarawak Pepper, Kek Lapis Sarawak, Harumanis, Tenom coffee, Sabah Batik) against the current MyIPO GI register."
+  - "GI 续期（GIA19）、附加费续期（GIA20）与恢复费的金额——早前草稿中的具体金额（RM420 / RM630 / RM670）无法独立核实，且似乎与商标收费表重叠；发布前请对照《指南》Second Schedule 核实实际的 GI 金额。"
+  - "Musang King地理标志确切的指定原产地区——新闻报道指为Pahang与Johor；须对照MyIPO地理标志注册册的现行条目核实。"
+  - "直接打开两份MyIPO的PDF（Act 836与Guidelines of Geographical Indication 2022）以确认关键内容——两者对自动抓取均返回HTTP 403，仅通过搜索索引及WIPO Lex加以确认。"
+  - "请确认 section 10 即为同时涵盖通用名称／驳回理由与在先商标冲突理由的条文，并确认 GIA1 申请费仍为 RM250。"
+  - "请对照现行 MyIPO 地理标志（GI）注册册，核实作为示例的已注册地理标志及其所属州属（Sarawak Pepper、Kek Lapis Sarawak、Harumanis、Tenom coffee、Sabah Batik）。"
 revisions:
   - version: "01.00"
     date: 2026-08-07

@@ -42,9 +42,9 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Current MASB Chairman and Accountant-General — verify named individuals on masb.org.my before publishing, as leadership changes."
-  - "The exact year MASB became operational versus the 1997 enactment date of the Act."
-  - "Whether any legacy frameworks (PERS/FRS) retain residual application, and the final status of 'Transitioning Entities' whose MFRS date was deferred to 1 January 2018."
+  - "现任 MASB 主席及会计总长 — 领导层会更替，发布前请在 masb.org.my 核实所列人名。"
+  - "MASB实际开始运作的确切年份，与该法令1997年颁布的日期之间的差异。"
+  - "是否有任何旧有框架（PERS/FRS）仍保留残余适用性，以及那些MFRS生效日期被延后至2018年1月1日的「过渡实体」（Transitioning Entities）的最终状态。"
 updated: 2026-08-14
 sources:
   - title: "Financial Reporting Act 1997 (Act 558), s.7 & s.26D"

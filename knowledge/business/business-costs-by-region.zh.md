@@ -37,14 +37,14 @@ faq:
     a: "取不到。NAPIC，即估价及产业服务局属下的国家产业资讯中心，按州公布产业存量、未来供应、交易宗数与金额，以及入住率——但没有工业或办公楼的租金指数。它的区域报告只就个别具名建筑物引述租金。网上流传的每一个州级租金区间，源头都是地产代理行，不是政府来源。"
 
 verificationNeeded:
-  - "Confirm the exact energy, capacity, network and retail charges for the Non-Domestic Medium Voltage and High Voltage tariff categories effective 1 July 2025 — the Energy Commission publishes the average base tariff and the component structure but the full schedule could not be retrieved from an official source, and mytnb.com.my blocks automated access"
-  - "Confirm the effective date of Sarawak Energy's published industrial and commercial tariff schedule — no effective date is stated on the page"
-  - "Confirm Sabah's current average base tariff and industrial tariff schedule with the Energy Commission of Sabah — SESB restructured its site and its tariff pages return no rate data; the 34.52 sen/kWh figure below is the RP1 rate for 2022 to 2024 and an adjustment reported for 1 February 2026 could not be verified officially"
-  - "Resolve the conflict between two Energy Commission statements of its own jurisdiction — its 2022 Sabah tariff release says Peninsular Malaysia and Sabah, its 2025 RP4 release says Peninsular Malaysia and Labuan"
-  - "Confirm the current gazetted non-domestic water tariff for each Peninsular state other than Selangor — SPAN's comparative sheet carries per-state effective dates no later than 1 January 2023 and predates both the February 2024 and September 2025 adjustments"
-  - "Confirm the non-domestic water tariffs applying in Sabah and Sarawak, which sit outside SPAN's jurisdiction"
-  - "Confirm DBKL's business licence fee schedule — the licensing guidelines sit behind a download button with no exposed URL"
-  - "No official median industrial or office rent by state exists. Confirm whether JPPH publishes any rental series not visible in the Property Stock Report or the regional Property Market Reports"
+  - "确认自1 July 2025起生效的非住宅中压与高压电价类别的确切能源、容量、网络及零售费用——Energy Commission公布了平均基本电价及组成结构，但完整费率表无法从官方来源取得，且mytnb.com.my封锁了自动访问。"
+  - "请核实 Sarawak Energy 所公布的工业与商业电价表的生效日期——该页面上并未注明生效日期。"
+  - "请向 Energy Commission of Sabah 确认沙巴当前的平均基本电价及工业电价表 — SESB 已重构其网站，其电价页面不再提供费率数据；下方 34.52 sen/kWh 的数字为 2022 至 2024 年的 RP1 费率，而据报 2026 年 2 月 1 日的调整未能获得官方核实"
+  - "解决Energy Commission关于其自身管辖范围的两份声明之间的矛盾——其2022年Sabah电费声明称为Peninsular Malaysia与Sabah，而其2025年RP4声明称为Peninsular Malaysia与Labuan"
+  - "请确认Selangor以外各半岛州属现行宪报公布的非民用水费——SPAN的比较表所载各州生效日期不晚于2023年1月1日，早于2024年2月及2025年9月两次调整。"
+  - "请核实适用于 Sabah 和 Sarawak 的非民用水费，这两地不在 SPAN 的管辖范围内"
+  - "请确认 DBKL 的营业执照收费表——相关执照指南隐藏在一个下载按钮之后，没有公开的 URL。"
+  - "目前没有按州划分的官方工业或办公室租金中位数。请确认 JPPH 是否发布过任何未见于 Property Stock Report 或各区域 Property Market Reports 的租金数据系列。"
 
 lang: "zh"
 masterLanguage: "en"

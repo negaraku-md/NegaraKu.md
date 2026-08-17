@@ -55,9 +55,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Tarikh penubuhan MOM (FMOC November 1953, pengiktirafan IOC Mei 1954, penamaan semula Majlis Olimpik Malaysia 1964) — laman sejarah rasmi MOM (olympics.com.my/overview-history) menyekat capaian automatik (HTTP 403); tarikh tepat perlu disahkan manual dengan MOM."
-  - "Tarikh dan perincian pemakaian penuh Akta 576 di Sabah, Sarawak dan Wilayah Persekutuan Labuan — semak terus dengan Pejabat Pesuruhjaya Sukan."
-  - "Bilangan tepat persatuan sukan kebangsaan (NSA) bergabung dengan MOM dan nama presiden MOM semasa — sengaja tidak dinyatakan; sahkan jika hendak dimasukkan."
+  - "MOM的成立日期（FMOC 1953年11月、IOC于1954年5月承认、1964年更名为Majlis Olimpik Malaysia）——MOM官方历史页面（olympics.com.my/overview-history）阻止自动访问（HTTP 403）；确切日期需与MOM人工确认。"
+  - "Akta 576在Sabah、Sarawak及Wilayah Persekutuan Labuan全面适用的日期与细节——请直接向体育专员办事处查询。"
+  - "加入 MOM 的国家体育协会（NSA）的确切数量以及 MOM 现任主席的姓名——有意未予说明；如欲纳入，请核实。"
 
 updated: 2026-08-01
 sources:

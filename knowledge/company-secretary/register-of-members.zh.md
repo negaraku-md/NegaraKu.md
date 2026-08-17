@@ -35,7 +35,7 @@ faq:
     a: "可以，但有限度。s.54(1) 允许登记册与索引存放于公司在马来西亚境内另一处备置它们的办事处，或备置它们的代理在马来西亚的办事处。若该地址不是注册办事处，则须依 s.68(3)(d) 在常年申报表中披露。"
 
 verificationNeeded:
-  - "Confirm current SSM late lodgement fee scale for a s.51 notification against the prevailing SSM practice directive on late lodgement penalties"
+  - "请对照 SSM 现行关于逾期报送罚款的实务指令，核实 s.51 通知当前的 SSM 逾期报送收费标准。"
 
 obligations:
   - what: "把受让人的姓名记入成员登记册"

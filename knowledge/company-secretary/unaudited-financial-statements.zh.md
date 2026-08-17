@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "正准备向 SSM 呈报的获审计豁免私人公司的董事与公司秘书。"
 
 verificationNeeded:
-  - "Confirm whether SSM has issued any amendment to Practice Directive 10/2024 affecting the certificate content in Appendix 1"
+  - "请确认SSM是否已就Practice Directive 10/2024发布任何影响Appendix 1证书内容的修订。"
 
 obligations:
   - what: "呈报未经审计财务报表，连同审计豁免证明书"

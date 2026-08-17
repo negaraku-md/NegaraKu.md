@@ -43,12 +43,12 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Exact official English wording of KPM's vision and mission — Malay is authoritative and multiple divergent English translations appear online; confirm against the moe.gov.my English profile page before quoting."
-  - "Current total number of KPM employees/staff — sources conflict (549,159 in 2018 vs 587,940 in 2022); confirm the latest figure from KPM Quick Facts."
-  - "Exact appointment date of Deputy Minister Wong Kah Woh (reported as 12 December 2023) — confirm against an official or Parliament source."
-  - "Current total number of government schools and total student/teacher counts — pull exact latest from KPM 'Quick Facts Malaysia Education Statistics' or OpenDOSM."
-  - "Whether the Malaysia Education Blueprint 2013-2025 has a formally launched successor plan (a 2027-onward direction was signalled under Budget 2026) — confirm official name/status before stating."
-  - "Full current list of departments, divisions and agencies under KPM — verify the complete list against the moe.gov.my org chart."
+  - "KPM 愿景与使命的确切官方英文措辞——马来文为准，网上出现多种分歧的英译；引用前请对照 moe.gov.my 英文简介页面核实。"
+  - "KPM 员工/职员的当前总数——各来源相互矛盾（2018 年 549,159 对比 2022 年 587,940）；请从 KPM Quick Facts 核实最新数字。"
+  - "副部长 Wong Kah Woh 的确切委任日期（据报为 2023 年 12 月 12 日）——请对照官方或国会来源核实。"
+  - "政府学校的现有总数以及学生／教师总人数——须从KPM「Quick Facts Malaysia Education Statistics」或OpenDOSM取得确切的最新数据。"
+  - "Malaysia Education Blueprint 2013-2025是否已有正式推出的后续计划（Budget 2026下已释出2027年起的方向）——陈述前须确认官方名称/状态。"
+  - "KPM 属下部门、司处及机构的当前完整清单——请对照 moe.gov.my 的组织架构图核实完整名单。"
 updated: 2026-08-14
 sources:
   - title: "Ministry of Education (Malaysia)"

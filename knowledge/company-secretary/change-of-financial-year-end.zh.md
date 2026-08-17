@@ -41,10 +41,10 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Tarikh akhir tepat pemfailan Borang CP204B bagi tempoh perakaunan yang dipendekkan (kurang 12 bulan) berbanding yang dipanjangkan (melebihi 12 bulan) — perlu disahkan terhadap Ketetapan Umum LHDN semasa; tiada sumber primer LHDN dapat dicapai untuk mengesahkan angka '30 hari sebelum'."
-  - "Kewujudan dan kandungan Ketetapan Umum (Public Ruling) 4/2025 serta dakwaan bahawa notis manual (surat) tidak lagi diterima — tidak dapat disahkan; URL LHDN yang didakwa (hasil.gov.my/en/company/change-in-accounting-period/) mengembalikan HTTP 404."
-  - "Sama ada penyata tahunan (annual return) atau mana-mana borang SSM lain turut merekodkan FYE yang ditukar secara berasingan — artikel hanya menyatakan SSM mengetahui FYE baharu melalui penyata kewangan yang difailkan (s.259)."
-  - "Pemakaian tempoh penyelarasan dua tahun s.247 secara khusus kepada perubahan FYE sukarela oleh syarikat berdiri sendiri (s.247 mengawal subsidiari dalam kumpulan, bukan syarikat tunggal)."
+  - "就缩短的会计期间（少于 12 个月）相较于延长的会计期间（超过 12 个月）提交 CP204B 表格的确切截止日期——须对照 LHDN 现行公共裁定核实；无法取得 LHDN 主要来源以证实「提前 30 天」这一数字。"
+  - "Ketetapan Umum (Public Ruling) 4/2025 的存在与内容，以及关于不再接受人工通知（信函）的说法——无法核实；所称的 LHDN URL（hasil.gov.my/en/company/change-in-accounting-period/）返回 HTTP 404。"
+  - "年度申报表（annual return）或任何其他SSM表格是否也另行记录已更改的FYE——本文仅说明SSM是通过所提交的财务报表（s.259）得知新的FYE。"
+  - "将s.247两年调整期专门适用于独立公司自愿变更FYE的情形（s.247规范的是集团内的子公司，而非单一公司）。"
 revisions:
   - version: "01.00"
     date: 2026-08-07

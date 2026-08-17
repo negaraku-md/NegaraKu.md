@@ -45,10 +45,10 @@ revisions:
 
 updated: 2026-08-07
 verificationNeeded:
-  - "Whether the Competition (Amendment) Bill 2026 has since received royal assent and been gazetted, and its commencement date (as of the correction date, only passage by both Houses of Parliament is confirmed by cited sources; no royal assent or gazettement is confirmed)."
-  - "The interim-directions / warning-letter powers and the late-payment charges are supported only by the ZICO Law commentary; confirm against the gazetted amendment text once available."
-  - "The >60% market-share dominance indicator and the Section 4(2)/Section 10/Section 41 numbering against the current consolidated MyCC guidelines and Act text."
-  - "Whether the settlement-reduction provision sits at Section 38A in the enacted amendment (news commentary cites Section 38A)."
+  - "Competition (Amendment) Bill 2026 此后是否已获御准并刊宪，以及其生效日期（截至更正日期，所引用的资料仅确认已获国会两院通过；未确认御准或刊宪）。"
+  - "临时指示／警告函权力以及逾期付款收费仅由ZICO Law的评述支持；一旦可取得已宪报的修订文本，请加以确认。"
+  - "就现行综合MyCC指引及法令文本核实市场份额>60%的支配地位指标以及Section 4(2)/Section 10/Section 41的条文编号。"
+  - "和解减免条款在已颁布的修正案中是否位于 Section 38A（新闻评论引用为 Section 38A）。"
 sources:
   - title: "MyCC Guidelines Series: Chapter 1 Prohibition – Anti-Competitive Agreements"
     url: "https://www.richardweechambers.com/mycc-guidelines-series-chapter-1-prohibition-anti-competitive-agreements/"

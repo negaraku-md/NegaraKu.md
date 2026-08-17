@@ -45,9 +45,9 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Service tax (SST) exemption for brokerage / securities trading fees on Bursa-listed shares — confirm the exemption is still current against the latest Bursa Malaysia SST FAQ / Royal Malaysian Customs (MySST) guidance, given the October 2025 SST expansion on financial services."
-  - "Bursa Anywhere document requirements (MyKad front and back, plus a bank statement or passbook) and the no-fee position — confirm against the live app flow, which can change."
-  - "Bursa Anywhere distribution (Apple App Store and Google Play) — confirm current availability; store listings and the Bursa Assist pages bot-block automated fetch, so figures here were confirmed from search result titles and snippets rather than full page fetches."
+  - "Bursa 挂牌股票的经纪／证券交易费的服务税（SST）豁免——鉴于 2025 年 10 月 SST 对金融服务的扩大，请对照最新的 Bursa Malaysia SST FAQ／Royal Malaysian Customs（MySST）指引，核实该豁免是否仍然有效。"
+  - "Bursa Anywhere 的文件要求（MyKad 正反面，外加银行月结单或存折）及免费的立场——请对照应用程序的实际流程核实，此流程可能会变动。"
+  - "Bursa Anywhere 的分发（Apple App Store 与 Google Play）——请核实当前的可用性；商店页面与 Bursa Assist 页面会拦截机器人的自动抓取，因此此处的数字是根据搜索结果的标题与摘要确认的，而非完整页面抓取。"
 revisions:
   - version: "01.00"
     date: 2026-08-01

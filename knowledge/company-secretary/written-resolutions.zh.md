@@ -38,7 +38,7 @@ faq:
     a: "并非全类都需要。并没有呈报每一项决议的一般性义务。呈报义务是就特定事项而言的——例如，配发股份的批准须依 s.76(2) 在 14 天内呈报，公司章程修订须依 s.36(3) 在 30 天内呈报，而罢免审计师的通知须依 s.278(1) 在 14 天内呈报。"
 
 verificationNeeded:
-  - "Whether SSM has issued any practice directive or guideline on the form of authentication acceptable for electronic signification of agreement under s.306 — none was located in the SSM legal framework library"
+  - "SSM 是否就 s.306 下以电子方式表示同意所可接受的认证形式发布过任何实务指令或指引——在 SSM 的法律框架资料库中未找到任何相关文件。"
 
 obligations:
   - what: "将成员要求传阅的书面决议传阅给每一名合资格成员"

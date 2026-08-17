@@ -22,10 +22,10 @@ keyTakeaways:
 appliesTo: "在马来西亚处理薪资的薪资管理人员、人力资源团队、财务人员与公司秘书。"
 
 verificationNeeded:
-  - "EPF late-payment dividend and penalty rates are not included — confirm the current charge against kwsp.gov.my before publishing a figure"
-  - "SOCSO Category 2 employee share and the full Third Schedule band tables are not reproduced here — read them from perkeso.gov.my"
-  - "Foreign worker levy rates and the multi-tier levy gazette status are outside this page and unverified"
-  - "Confirm the minimum interest charge for late SOCSO and EIS contributions against perkeso.gov.my"
+  - "未纳入EPF逾期缴款的股息及罚款率——在公布任何数字前，须对照kwsp.gov.my核实现行收费"
+  - "SOCSO第2类的雇员分担额及完整的Third Schedule级距表在此未予转载——请从perkeso.gov.my查阅。"
+  - "外劳征费费率及多层级征费的宪报公布状态不属于本页范围，且未经核实。"
+  - "请对照 perkeso.gov.my 确认逾期缴纳 SOCSO 及 EIS 供款的最低利息收费"
 
 obligations:
   - what: "缴交该薪金月份的 EPF 缴纳金"

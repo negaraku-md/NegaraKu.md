@@ -55,7 +55,7 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Re-entry blacklist durations after an overstay — the cited IMI pages do not publish specific ban lengths; blacklisting is applied at the Department's discretion."
+  - "逾期居留后再入境黑名单的期限——所引用的 IMI 页面并未公布具体的禁令时长；列入黑名单由该部门酌情决定。"
 
 updated: 2026-08-14
 sources:

@@ -52,9 +52,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Ambang RM600,000 dan syarat harta alih sahaja bagi pentadbiran ringkas Amanah Raya Berhad di bawah Akta Perbadanan Amanah Kebangsaan 1995 (Public Trust Corporation Act 1995) — sahkan angka semasa dengan Amanah Raya."
-  - "Skala fi rasmi geran surat kuasa mentadbir pusaka kecil (lingkungan RM10–RM30, atau 0.2% bagi penilaian melebihi RM50,000) — sahkan sama ada masih terpakai selepas pindaan 2022."
-  - "Peruntukan pusaka berasingan bagi Sabah dan anak negeri Sarawak — sahkan akta/ordinan khusus yang terpakai."
+  - "Amanah Raya Berhad 在 Akta Perbadanan Amanah Kebangsaan 1995 (Public Trust Corporation Act 1995) 下简易管理的 RM600,000 门槛与仅限动产的条件——请向 Amanah Raya 核实当前数字。"
+  - "小额遗产管理授权书的官方收费标准（约RM10–RM30，或估值超过RM50,000者为0.2%）——须核实2022年修订后是否仍然适用。"
+  - "针对Sabah与Sarawak土著的独立遗产继承条款——须核实所适用的具体法令/条例。"
 updated: 2026-08-07
 sources:
   - title: "Apakah yang dimaksudkan dengan Harta Pusaka Kecil? (JKPTG FAQ) + P.U.(A) 194/2024 Peraturan-Peraturan Harta Pusaka Kecil (Pembahagian) (Pindaan) 2024"

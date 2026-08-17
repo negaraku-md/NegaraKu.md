@@ -40,11 +40,11 @@ revisions:
 
 updated: 2026-08-01
 verificationNeeded:
-  - "Bilangan tepat PBT mengikut kategori (dinyatakan 151 keseluruhan: 19 Majlis/Dewan Bandaraya, 40 Majlis Perbandaran, 92 Majlis Daerah menurut portal JKT KPKT) — jumlah ini berubah dari semasa ke semasa dan perlu disahkan terhadap statistik KPKT terkini pada tarikh penerbitan"
-  - "Nombor Bahagian/Seksyen tepat dalam Akta 171 yang mengawal kadar/cukai taksiran (rating) — badan artikel hanya menerangkan kuasa itu secara umum tanpa menyebut nombor peruntukan, kerana teks itu tidak dapat diekstrak daripada PDF akta"
-  - "Nama rasmi dan tarikh instrumen darurat yang menggantung pilihan raya tempatan (dirujuk sebagai Emergency (Suspension of Local Government Elections) Regulations 1965) dan Local Government (Temporary Provisions) Act 1973 — disebut dalam sumber sekunder tetapi belum disahkan terhadap teks perundangan asal"
-  - "Tahun terakhir pilihan raya kerajaan tempatan diadakan di Sarawak (beberapa sumber sekunder menyebut sekitar 1981) — perlu disahkan terhadap rekod rasmi sebelum dinyatakan sebagai fakta"
-  - "Kriteria naik taraf kategori PBT: angka penduduk/hasil di sini diambil daripada portal JKT KPKT; sahkan terhadap pekeliling KPKT terkini kerana kriteria pernah dikaji semula"
+  - "按类别划分的地方政府（PBT）确切数量（陈述为共151个：19个市政局/市厅、40个市议会、92个县议会，据KPKT的JKT门户）——此数目会不时变动，须在发布之日根据KPKT最新统计核实。"
+  - "Akta 171 中管辖评估费／评估税（rating）的确切部分／条文编号——文章正文仅一般性地描述该权力，而未提及条文编号，因为该文本无法从法令 PDF 中提取。"
+  - "暂停地方选举的紧急状态文书（被引称为 Emergency (Suspension of Local Government Elections) Regulations 1965）及 Local Government (Temporary Provisions) Act 1973 的官方名称与日期 — 在次要来源中被提及，但尚未对照原始立法文本加以确认"
+  - "Sarawak最后一次举行地方政府选举的年份（若干二手来源提及约1981年）——在作为事实陈述前，需对照官方记录加以确认"
+  - "PBT类别升格的标准：此处的人口／收入数字取自KPKT的JKT门户；由于该标准曾被检讨修订，请对照最新的KPKT通函核实。"
 sources:
   - title: "Akta Kerajaan Tempatan 1976 (Akta 171) — portal rujukan perundangan"
     url: "https://www.mpaj.gov.my/en/mpaj/resources/legislation/akta-kerajaan-tempatan-1976-akta-171"

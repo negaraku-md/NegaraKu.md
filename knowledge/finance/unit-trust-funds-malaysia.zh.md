@@ -45,9 +45,9 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Public Mutual's leadership figures (largest private manager, 44.6% retail-funds share, 51.8% PRS share, RM119bn NAV, 171 funds) are self-reported from the company's own profile page; confirm against an independent source (e.g. SC or FIMM statistics) or soften if uncorroborated."
-  - "Sales-charge table (equity 3.1%->1.9%, mixed 2.9%->1.8%, bond 0.7%->0.6%; equity 0.9% via EPF by 2020) is from FIMM 2021 research as reported by The Edge; confirm against the original FIMM research if the primary document can be located."
-  - "EPF i-Invest launch (August 2019) and the 12-month upfront-fee waiver from 1 May 2020 are corroborated via RinggitPlus; confirm against EPF/KWSP's own press release if accessible."
+  - "Public Mutual的领先地位数字（最大私营管理公司、44.6%零售基金市占、51.8% PRS市占、RM119bn资产净值、171只基金）取自该公司自家简介页面的自述；须对照独立来源（例如SC或FIMM统计）核实，若无法佐证则应弱化表述。"
+  - "销售费用表（股票型3.1%->1.9%，混合型2.9%->1.8%，债券型0.7%->0.6%；通过EPF的股票型至2020年为0.9%）出自FIMM 2021年研究，经The Edge报道；若能找到一手文件，须根据FIMM原始研究核实。"
+  - "EPF i-Invest 的推出（2019 年 8 月）及自 2020 年 5 月 1 日起为期 12 个月的前期费用豁免，均通过 RinggitPlus 获得佐证；如可访问，请对照 EPF/KWSP 自身的新闻稿核实。"
 revisions:
   - version: "01.00"
     date: 2026-08-01

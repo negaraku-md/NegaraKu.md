@@ -43,12 +43,12 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Current registered-employer, training-provider and total-levy/grant figures — do not state a headcount without a primary HRD Corp annual report or statistics page."
-  - "Exact statutory section numbers in the PSMB Act 2001 for compulsory registration, levy imposition and each penalty — the FAQ gives amounts but not section numbers; confirm against the Akta 612 text before citing 'Section X'."
-  - "The precise definition of 'wages' used for the levy (whether it excludes bonuses, overtime, or employer EPF/SOCSO) — confirm against the official levy guideline / Second Schedule."
-  - "Any grace period for newly liable employers after reaching 10 employees — confirm against an HRD Corp circular before stating."
-  - "Whether the 15% unused-levy-to-MADANI redirection is a recurring annual mechanism or year-specific — confirm current-year status (circulars exist for 2023 and 2024)."
-  - "Any current levy-payment exemptions (e.g. an education-industry exemption) — verify exact scope and dates before presenting as active."
+  - "当前的注册雇主、培训提供者及征费/拨款总额数字——在没有HRD Corp一手年报或统计页面的情况下，请勿陈述具体数目。"
+  - "PSMB Act 2001 中关于强制注册、征费征收及各项罚则的确切法定条文编号——该 FAQ 给出了金额但未给出条文编号；在引述「Section X」之前请对照 Akta 612 原文核实。"
+  - "征费所采用的「工资」的确切定义（是否不包括花红、加班费或雇主的 EPF/SOCSO）— 请对照官方征费指南／Second Schedule 加以确认。"
+  - "雇员人数达到10人后，新纳入责任范围的雇主是否有任何宽限期——陈述前请对照HRD Corp的通告加以确认。"
+  - "将15%未使用征费转拨予MADANI这一做法是每年经常性的机制还是特定年度的安排——请确认本年度的状况（2023年及2024年均有通函）。"
+  - "任何现行的征费缴纳豁免（例如教育行业豁免）——在呈述为有效之前，请核实确切的范围与日期。"
 updated: 2026-08-14
 sources:
   - title: "About Us | HRD Corp"

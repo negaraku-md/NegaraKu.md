@@ -46,10 +46,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Exact Basic Savings schedule figures and any phase-in timeline for the RM390,000-at-age-60 target under the schedule effective 1 January 2026 (KWSP publishes a full by-age table that a human should confirm against the live i-Akaun calculator)."
-  - "Whether the RM1,625/month and 20-year (age 60 to 80) assumptions behind Basic Savings are still the current KWSP framing at time of review."
-  - "Current maximum agent sales charge (the '3%' baseline is the standard pre-promotion cap; confirm no permanent reduction has since taken effect)."
-  - "Sensitivity/tier classification: this directs retirement money into market-linked funds; a human editor should review whether tier 3 / sensitivity 'none' remains appropriate and whether the framing is fully neutral."
+  - "2026 年 1 月 1 日生效的表定基本储蓄（Basic Savings）确切数字，以及 60 岁达到 RM390,000 目标的任何分阶段实施时间表（KWSP 公布了一份完整的按年龄划分的表格，应由人工对照在线 i-Akaun 计算器核实）。"
+  - "Basic Savings 背后 RM1,625/month 及 20 年（60 至 80 岁）的假设，在审阅时是否仍为 KWSP 现行的表述。"
+  - "当前代理销售费的上限（「3%」的基准是促销前的标准上限；请确认此后未有永久性下调生效）。"
+  - "敏感度／层级分类：此举将退休金引导至与市场挂钩的基金；应由人工编辑审查tier 3／敏感度「none」是否仍然恰当，以及表述是否完全中立。"
 
 updated: 2026-08-01
 sources:

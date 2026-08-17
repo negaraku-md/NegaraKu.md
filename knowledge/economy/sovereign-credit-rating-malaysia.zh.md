@@ -49,10 +49,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Exact date of S&P's September 2025 rating action: the InvestMalaysia snapshot shows 'as of 20 September 2025', while The Edge reported the affirmation on 19 September 2025."
-  - "A dedicated Moody's or MoF press release confirming the 14 July 2026 A3 affirmation. Only the InvestMalaysia snapshot currently documents that date; the 3.8%/4.3% deficit figures, the Public Finance and Fiscal Responsibility Act 2023 attribution and the 'fastest-growing A-rated economy' line all derive from Moody's earlier 25 January 2025 affirmation."
-  - "Exact date of Fitch's December 2025 action: Xinhua reported the affirmation on 8 December 2025, while the InvestMalaysia snapshot shows 'as of 9 December 2025'."
-  - "The exact Moody's wording recognising the Public Finance and Fiscal Responsibility Act 2023 in the 25 January 2025 affirmation (a fact-checker query flagged this attribution; the MoF release text should be quoted verbatim by a human)."
+  - "S&P在2025年9月评级行动的确切日期：InvestMalaysia的快照显示「截至2025年9月20日」，而The Edge则报道该确认发生在2025年9月19日。"
+  - "一份专门确认 2026 年 7 月 14 日 A3 评级确认的 Moody's 或 MoF 新闻稿。目前仅有 InvestMalaysia 的快照记录了该日期；3.8%／4.3% 的赤字数字、对 Public Finance and Fiscal Responsibility Act 2023 的归因，以及「增长最快的 A 级经济体」这一说法，全部源自 Moody's 更早的 2025 年 1 月 25 日的评级确认。"
+  - "Fitch 于 2025 年 12 月行动的确切日期：Xinhua 报道确认评级的日期为 8 December 2025，而 InvestMalaysia 的快照显示为「as of 9 December 2025」。"
+  - "2025 年 1 月 25 日的评级确认中，Moody's 承认 Public Finance and Fiscal Responsibility Act 2023 的确切措辞（一名事实核查者对此归属提出疑问；MoF 新闻稿文本应由人工逐字引用）。"
 
 updated: 2026-08-08
 sources:

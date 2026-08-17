@@ -39,9 +39,9 @@ faq:
     a: "州属与此毫无关系。《2016年公司法令》并未规定最低实缴资本——第 9 条只要求有一股或以上，而第 14(3) 条并未把资本金额列入公司注册的必备事项。流传中的 RM250,000、RM350,000、RM500,000 和 RM1,000,000 这些数字，是移民局外籍人士服务部门（Expatriate Services Division）为公司注册以保荐就业准证（Employment Pass）所设的标准。"
 
 verificationNeeded:
-  - "Market wage differentials between Malaysian states are not verified here against DOSM salary and wages data — treat any wage-gap claim as a research task, not a published rule."
-  - "DBKL's business licensing guideline could not be retrieved — its licensing guidelines PDF sits behind a download control with no exposed URL, so Federal Territory conditions must not be inferred from Selangor's published guideline."
-  - "Sabah's carve-out list under the Labour Ordinance of Sabah (Amendment) Act 2025 (Act A1753) could not be read; the hosted PDF returns a 404."
+  - "马来西亚各州之间的市场薪资差异在此并未根据DOSM的薪金与工资数据加以核实——任何薪资差距的说法应视为研究课题，而非已公布的规则。"
+  - "无法取得 DBKL 的营业执照指南——其执照指南 PDF 位于一个未公开 URL 的下载控件之后，因此不得由雪兰莪（Selangor）已公布的指南推断联邦直辖区的条件。"
+  - "Labour Ordinance of Sabah (Amendment) Act 2025（Act A1753）下沙巴的豁除清单无法读取；所托管的 PDF 返回 404。"
 
 lang: "zh"
 masterLanguage: "en"

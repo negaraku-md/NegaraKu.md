@@ -50,9 +50,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Whether a section 366(1) scheme meeting can be dispensed with for a wholly-owned or uncontested internal reorganisation - a contested, fact-sensitive interpretive point; confirm current Malaysian court guidance before relying on either position."
-  - "Whether section 371 (90% compulsory acquisition threshold) and its interaction with an asset-based amalgamation is correctly characterised for the reader's specific deal."
-  - "That the SSM consolidated Companies Act 2016 PDF cited remains the current in-force text at time of use (check for later amendments)."
+  - "对于全资或无争议的内部重组，是否可以免除 section 366(1) 的方案会议——这是一个有争议且取决于事实的解释性问题；在依据任一立场之前，请核实马来西亚法院当前的指引。"
+  - "section 371（90% 强制收购门槛）及其与基于资产的合并之间的相互作用，是否针对读者的具体交易作了正确的定性。"
+  - "所引用的 SSM 合订版 Companies Act 2016 PDF 在使用时仍为现行有效文本（须查核是否有后续修订）。"
 
 updated: 2026-08-07
 sources:

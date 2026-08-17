@@ -50,7 +50,7 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Total count of foreign branch campuses ('around a dozen' / 'roughly eleven') — confirm against a current MOHE or MQA register."
+  - "外国分校的总数（「约十余所」／「大约十一所」）——请对照当前的 MOHE 或 MQA 名录核实。"
 
 updated: 2026-08-08
 sources:

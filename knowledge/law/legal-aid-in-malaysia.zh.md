@@ -46,10 +46,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Jadual penuh sumbangan bagi Kategori II dan III (band pendapatan lebih tinggi) di bawah Peraturan Bantuan Guaman (Fi dan Sumbangan) 2023 — hanya band RM50,001-RM55,000 disemak secara terperinci."
-  - "Ambang ujian kemampuan RM50,000 setahun YBGK bagi peringkat perbicaraan dan rayuan — sahkan sama ada masih terpakai dan skopnya."
-  - "Skop tepat 'kes jenayah tertentu' yang dikendalikan JBG berbanding YBGK."
-  - "Nombor talian bebas tol YBGK (1 800 88 9245) — sahkan masih aktif sebelum diterbitkan."
+  - "Peraturan Bantuan Guaman (Fi dan Sumbangan) 2023 下第 II 及 III 类（较高收入带）的完整供款表——仅详细核对了 RM50,001-RM55,000 这一收入带。"
+  - "YBGK 就审讯与上诉阶段每年 RM50,000 的经济能力审查门槛——请核实其是否仍然适用及其适用范围。"
+  - "JBG 相较于 YBGK 所处理的「特定刑事案件」的确切范围。"
+  - "YBGK 的免费热线号码（1 800 88 9245）——发布前请核实其仍然有效。"
 
 updated: 2026-08-07
 sources:

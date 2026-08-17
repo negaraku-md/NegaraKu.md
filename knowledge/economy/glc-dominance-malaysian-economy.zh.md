@@ -49,10 +49,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Exact as-at dates for the per-fund AUM figures (drawn from Deputy Finance Minister Steven Sim's written parliamentary answer; the RM451.3 billion equity holding is as at 30 Sep 2023, Khazanah's RM122.5 billion portfolio value is as at 31 Dec 2022, and the remaining AUM figures should be pinned to their reporting dates against the Hansard)."
-  - "Whether the per-fund 'share held in local listed equities' percentages (EPF 24.4%, PNB 74.4%, KWAP 45.2%, LTH 18.3%, LTAT 52%) remain current, and that they are read as share-of-fund-in-local-equities rather than domestic-allocation percentages."
-  - "The eight-GLIC framing: PERKUKUH is applied to six GLICs and the PCG historically listed five; confirm the current official enumeration before publication."
-  - "Follow-through on the 2025 GEAR-uP/GLIC pledges (RM120b DDI, RM100b market-cap growth, 7.5% returns, RM540b Bursa holdings, RM3,100 living wage for ~153,000 staff) against the latest MoF and GLIC disclosures."
+  - "各基金 AUM 数字的确切截至日期（取自财政部副部长 Steven Sim 的国会书面答复；RM451.3 billion 的股权持有截至 2023 年 9 月 30 日，Khazanah 的 RM122.5 billion 投资组合价值截至 2022 年 12 月 31 日，其余 AUM 数字应对照 Hansard 锚定到各自的报告日期）。"
+  - "各基金「持有本地上市股票比例」的百分比（EPF 24.4%、PNB 74.4%、KWAP 45.2%、LTH 18.3%、LTAT 52%）是否仍为最新，以及这些数字应被理解为基金投入本地股票的比例，而非国内配置百分比。"
+  - "「八家GLIC」的表述：PERKUKUH适用于六家GLIC，而PCG历来列出五家；发布前请核实当前的官方列举。"
+  - "对照 MoF 和 GLIC 最新的披露，跟进 2025 年 GEAR-uP/GLIC 的承诺（RM120b DDI、RM100b 市值增长、7.5% 回报、RM540b 于 Bursa 的持仓、为约 153,000 名员工提供 RM3,100 的生活工资）落实情况。"
 
 updated: 2026-08-08
 sources:

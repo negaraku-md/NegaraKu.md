@@ -40,7 +40,7 @@ faq:
     a: "雪邦市议会（Majlis Perbandaran Sepang, Sepang Municipal Council），它已于2008年将总部迁入赛城。营业场所执照、招牌执照与规划批准，由雪邦市议会依据《1976年地方政府法令》（Local Government Act 1976）处理，方式与该县任何其他地方相同。没有独立的赛城发牌机关。"
 
 verificationNeeded:
-  - "Confirm whether Cyberjaya holds, or has applied for, recognition as an MD Hub, MD Nexus or MD Tech Zone, and how existing MD Cybercity and Cybercentre designations map onto MD Location Recognition. As of 2026-08-14 no MDEC primary source names Cyberjaya under any category, and the only MD Location Recognition granted to date is Menara Merdeka 118, launched as Malaysia's first MD Nexus on 5 February 2026."
+  - "请核实 Cyberjaya 是否持有或已申请 MD Hub、MD Nexus 或 MD Tech Zone 的认定，以及现有的 MD Cybercity 与 Cybercentre 称号如何对应到 MD Location Recognition。截至 2026-08-14，没有任何 MDEC 第一手来源将 Cyberjaya 列入任何类别，而迄今唯一获授 MD Location Recognition 的是 Menara Merdeka 118，它于 2026 年 2 月 5 日作为马来西亚首个 MD Nexus 启用。"
 
 lang: "zh"
 masterLanguage: "en"

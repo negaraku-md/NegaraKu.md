@@ -44,8 +44,8 @@ reviewed: "2026-08-14"
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Tahun penugasan Temengor dan loji lata Sungai Perak yang lain — halaman TNB yang dipetik tidak menyatakan sebarang tahun."
-  - "Sama ada tahap sensitiviti wajar dinaikkan melebihi 'none' memandangkan fokus pada penempatan semula masyarakat peribumi."
+  - "Temengor 及其他 Sungai Perak 梯级电站的投产年份——所引 TNB 页面并未说明任何年份。"
+  - "鉴于本文聚焦于原住民社群的重新安置，敏感度级别是否应从「none」上调。"
 revisions:
   - version: "01.00"
     date: 2026-08-14

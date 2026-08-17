@@ -36,8 +36,8 @@ faq:
     a: "《1976 年地方政府法令》第 102(c) 条明确包含移除广告的权力，第 104 条将附例刑罚限制在最高 RM2,000 罚款、最高一年监禁或两者兼施，另加定罪后罪行持续每日 RM200。实务上，当招牌未被拆除时，地方政府首先动用的是没收按金。"
 
 verificationNeeded:
-  - "The specific compound amount for an unlicensed signboard at any of the four councils — only the statutory ceiling in s.104 is confirmed"
-  - "MBSA's area-based annual signboard tariff — only the advertisement processing fee and the flat bunting and banner rates are published"
+  - "四个市议会中任何一个针对无牌招牌的具体和解罚款金额——目前仅确认了 s.104 中的法定上限。"
+  - "MBSA 按面积计算的年度招牌费率——目前仅公布了广告处理费以及横幅（bunting 与 banner）的统一费率。"
 
 lang: "zh"
 masterLanguage: "en"

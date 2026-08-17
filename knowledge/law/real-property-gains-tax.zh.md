@@ -51,10 +51,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Kadar pegangan Seksyen 21B bagi Bahagian II (syarikat) disahkan berperingkat oleh LHDN (5% dalam 3 tahun, 3% dari tahun ke-4) — sahkan sama ada masih terpakai selepas pindaan berkuat kuasa 1 Januari 2026 yang membenarkan pemeroleh meremit amaun yang lebih rendah."
-  - "Rekonsiliasi tarikh CGT: permulaan CGT ialah 1 Januari 2024 tetapi pengenaan ke atas pelupusan saham (termasuk saham RPC) oleh syarikat/PLT/badan amanah/koperasi berkuat kuasa 1 Mac 2024 — sahkan layanan pelupusan antara 1 Januari–29 Februari 2024."
-  - "Kadar CGT 10% keuntungan bersih atau pilihan 2% harga jualan kasar bagi saham yang diperoleh sebelum 1 Januari 2024 — sahkan mekanik penuh dengan Garis Panduan CGT LHDN."
-  - "Perubahan 2025 (e-CKHT wajib, Sistem Taksir Sendiri, tempoh bayaran 90 hari, kenaikan 10%, simpanan rekod 7 tahun) — sahkan dengan Garis Panduan Operasi CKHT 2025 LHDN."
+  - "Seksyen 21B 就第二部分（公司）的预扣税率由 LHDN 分阶段确认（3 年内 5%，第 4 年起 3%）——请确认在允许收购方汇缴较低金额、于 2026 年 1 月 1 日生效的修订之后，是否仍然适用。"
+  - "CGT 日期的调和：CGT 起始于 2024 年 1 月 1 日，但对公司/PLT/信托机构/合作社处置股份（包括 RPC 股份）的征税自 2024 年 3 月 1 日生效——请核实 2024 年 1 月 1 日至 2 月 29 日之间处置的处理方式。"
+  - "对于2024年1月1日之前取得的股份，CGT为净收益的10%或可选择毛售价的2%——须以LHDN的CGT指南核实完整机制。"
+  - "2025年的变动（强制e-CKHT、自我评估制度、90天付款期限、10%加征、记录保存7年）——须以LHDN的CKHT 2025作业指南核实。"
 
 updated: 2026-08-07
 sources:

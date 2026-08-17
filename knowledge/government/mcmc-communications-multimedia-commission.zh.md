@@ -44,10 +44,10 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Tarikh atau tahun pelaksanaan berperingkat seksyen tertentu Akta 588 — jika hendak menyatakan tahun spesifik, sahkan daripada warta P.U.(B) yang berkaitan (kini disebut secara umum tanpa tahun)."
-  - "Nama kementerian dan menteri induk semasa yang bertanggungjawab bagi MCMC (portfolio pernah disusun semula beberapa kali)."
-  - "Klasifikasi sensitiviti: pertimbangkan sama ada topik penapisan Internet (Seksyen 3(3)) dan penguatkuasaan Seksyen 233 wajar dinaikkan daripada \"none\", memandangkan konteks ucapan dalam talian/politik."
-  - "Ayat mengenai perdebatan awam tentang penguatkuasaan Seksyen 233 — perlu disokong dengan sumber primer/berwibawa jika hendak dikekalkan atau diperincikan."
+  - "Akta 588 特定条文分阶段实施的日期或年份——若要陈述具体年份，请从相关的 P.U.(B) 宪报核实（目前仅笼统提及而不含年份）。"
+  - "目前负责 MCMC 的主管部门与部长名称（该职权曾多次改组）。"
+  - "敏感度分类：考虑到网络／政治言论的背景，须斟酌互联网审查（Seksyen 3(3)）主题及Seksyen 233的执法是否应从「none」提升。"
+  - "关于Seksyen 233执法的公众争议的句子——若要保留或详述，须有一手/权威来源支持。"
 revisions:
   - version: "01.00"
     date: 2026-08-01

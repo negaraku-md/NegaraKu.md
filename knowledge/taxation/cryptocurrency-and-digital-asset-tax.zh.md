@@ -41,10 +41,10 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Exact section of the Income Tax Act 1967 under which crypto income is charged: the charging provision is s.3, while the Ministry of Finance's Aug 2025 statement refers to crypto income being taxed as business income under s.4 — confirm the precise citation for the article's framing."
-  - "Whether the August 2025 Ministry of Finance statement changes the law or merely clarifies that existing service tax already applies to crypto trading-platform services, and the applicable service-tax rate and registration threshold."
-  - "The current e-Invoice (MyInvois) phase, deadline and turnover threshold applicable to a specific crypto business — thresholds and dates are being revised (RM1 million exemption per latest IRBM guidance)."
-  - "FIFO cost-basis tracking and the treatment of airdrops and hard-fork tokens as stated here are drawn from professional summaries of the LHDN guidelines; confirm against the current guideline text before relying on them."
+  - "对加密货币收入征税所依据的Income Tax Act 1967的确切条文：征税条文为s.3，而财政部2025年8月的声明则提到加密货币收入按s.4作为营业收入课税——请为本文的表述核实确切引用。"
+  - "2025 年 8 月财政部的声明是改变了法律，还是仅澄清现行服务税已适用于加密货币交易平台服务，以及适用的服务税率与注册门槛。"
+  - "适用于特定加密货币业务的现行 e-Invoice (MyInvois) 阶段、截止日期及营业额门槛——门槛及日期正在修订中（根据 IRBM 最新指引为 RM1 million 豁免）。"
+  - "此处所述的 FIFO 成本基础追踪，以及将空投和硬分叉代币的处理方式，取自对 LHDN 指南的专业摘要；在依据它们之前，请对照现行指南文本核实。"
 revisions:
   - version: "01.00"
     date: 2026-08-07

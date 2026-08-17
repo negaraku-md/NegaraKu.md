@@ -44,7 +44,7 @@ reviewDue: 2027-08-03
 publishedBy: "ashton-tan"
 version: "01.00"
 verificationNeeded:
-  - "The characterisation of Press Metal's production costs as 'first quartile of the global cost curve' — sourced only to the 2019 RAM note; confirm it still holds."
+  - "将Press Metal的生产成本描述为「全球成本曲线的第一四分位」——仅出自2019年的RAM报告；须确认该说法是否仍然成立。"
 revisions:
   - version: "01.00"
     date: 2026-07-28

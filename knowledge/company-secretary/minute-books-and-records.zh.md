@@ -36,7 +36,7 @@ faq:
     a: "仅限马来西亚境外的运作，且附带条件。s.245(5) 允许马来西亚境外运作的记录存放于海外，但须送交并存放于马来西亚境内某处，且随时可供董事查阅。依 s.245(7)，注册官可要求把它们在马来西亚提交。"
 
 verificationNeeded:
-  - "Confirm whether SSM has issued any guideline prescribing a time limit for entering minutes in the minute book — none was located in the Companies Act 2016, the Third Schedule, or on ssm.com.my"
+  - "请确认SSM是否发布过任何规定在会议记录簿中录入会议记录时限的指南——在Companies Act 2016、Third Schedule或ssm.com.my上均未找到"
 
 obligations:
   - what: "在会计及其他记录中作出适当分录"

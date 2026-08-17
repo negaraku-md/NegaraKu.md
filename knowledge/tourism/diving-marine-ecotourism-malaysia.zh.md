@@ -42,11 +42,11 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Terengganu's marine-park island count: the DOF marine-park-management page groups Terengganu into archipelagos (Redang, Perhentian and neighbours) without stating a firm per-island figure; the state's exact island count should be confirmed against the gazette."
-  - "Sipadan's daily permit quota (given as ~178 divers/day) is drawn from 2022 news reporting and is revised over time — reconfirm the current figure with Sabah Parks before publication."
-  - "The DOF activity fees (dive operator RM150/month, camping RM10/night, commercial filming RM100/day, cruise entry RM100, research permit RM200 + RM500 deposit) should be re-checked line-by-line against the current Fees (Marine Parks Malaysia) Order."
-  - "The specific list of marine park conduct rules (no touching/collecting coral, no anchoring on reefs, no diving in boat-passage lanes) should be verified against the Department of Fisheries' published marine park regulations rather than a third-party tourism site."
-  - "Sipadan dive-operation rules (two dives per day, 50 divers per site, ~7:00am–4:30pm window, one dive master per four divers) date from the 2022 revision — confirm they remain current."
+  - "登嘉楼海洋公园的岛屿数量：DOF 海洋公园管理页面将登嘉楼按群岛归类（Redang、Perhentian 及邻近岛屿），并未给出确定的逐岛数字；该州确切的岛屿数量应对照宪报核实。"
+  - "西巴丹（Sipadan）的每日准证配额（列为每日约 178 名潜水员）取自 2022 年的新闻报道，且会随时间修订——发布前请向 Sabah Parks 重新确认当前的数字。"
+  - "DOF 活动收费（潜水运营商 RM150/月、露营 RM10/晚、商业拍摄 RM100/天、邮轮入园 RM100、研究许可 RM200 + RM500 押金）应对照现行的 Fees (Marine Parks Malaysia) Order 逐项重新核对。"
+  - "海洋公园行为守则的具体清单（不触摸／采集珊瑚、不在珊瑚礁上抛锚、不在船只通道内潜水）应对照Department of Fisheries公布的海洋公园法规核实，而非第三方旅游网站。"
+  - "Sipadan潜水作业规则（每天两潜、每处潜点50名潜水员、约7:00am–4:30pm时段、每四名潜水员配一名潜水长）源自2022年的修订——须确认其仍然有效。"
 revisions:
   - version: "01.00"
     date: 2026-07-28

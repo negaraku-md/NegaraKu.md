@@ -44,7 +44,7 @@ reviewDue: 2027-08-03
 publishedBy: "ashton-tan"
 version: "01.00"
 verificationNeeded:
-  - "Exact month DNB was established in 2021 — DNB's own website states only the year 2021 (its company registration number 201701005338 dates to 2017); the previously drafted 'March 2021' could not be confirmed against a primary source."
+  - "DNB于2021年成立的确切月份——DNB自身网站只列出2021年（其公司注册编号201701005338可追溯至2017年）；此前草拟的「2021年3月」无法对照原始来源加以确认。"
 revisions:
   - version: "01.00"
     date: 2026-07-28

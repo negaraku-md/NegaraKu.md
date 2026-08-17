@@ -49,7 +49,7 @@ reviewed: "2026-08-14"
 reviewDue: 2027-08-14
 version: "01.00"
 verificationNeeded:
-  - "Klasifikasi sensitivity ditetapkan 'none' mengikut templat, tetapi rasionalisasi subsidi bahan api ialah isu dasar yang boleh menimbulkan perdebatan politik; editor manusia perlu menilai semula sama ada 'none' sesuai."
+  - "sensitivity 分类按模板设定为「none」，但燃油补贴合理化是可能引发政治争论的政策议题；人工编辑应重新评估「none」是否恰当。"
 revisions:
   - version: "01.00"
     date: 2026-08-14

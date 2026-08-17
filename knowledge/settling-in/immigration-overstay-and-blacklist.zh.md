@@ -51,10 +51,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Exact day-rate compound schedule (RM30/day for 1–30, RM1,000 for 31–60, RM2,000 for 61–90) — the MDEC/JIM source publishes it as an image table; confirm the RM bands against the official JIM notice."
-  - "The commonly cited one-to-five-year re-entry ban range against current Immigration Department practice."
-  - "Whether any foreigner-facing online status/blacklist self-check exists — as of writing, SSPI is Malaysian-citizen only and no public foreign-passport checker was found."
-  - "Special Pass validity period and fee were deliberately omitted (sources were contradictory/unconfirmed); confirm before adding any hard number."
+  - "确切的每日复合罚款表（1–30 天为 RM30/day，31–60 天为 RM1,000，61–90 天为 RM2,000）——MDEC/JIM 来源将其以图片表格发布；请对照 JIM 官方通告核实各 RM 档位。"
+  - "普遍引述的一至五年再入境禁令范围，须对照移民局当前的做法核实。"
+  - "是否存在任何面向外国人的在线状态/黑名单自助查询——截至撰写时，SSPI 仅限马来西亚公民，且未发现面向公众的外国护照查询工具。"
+  - "Special Pass的有效期与费用被刻意略去（来源相互矛盾／未获证实）；在加入任何确切数字前须加以核实。"
 updated: 2026-08-07
 sources:
   - title: "Frequently Committed Offences"

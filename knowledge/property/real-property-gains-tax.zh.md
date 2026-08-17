@@ -50,9 +50,9 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Penalti bayaran lewat 10% ke atas cukai tertunggak — sahkan kadar dan mekanisme semasa terhadap panduan penalti rasmi LHDN (Seksyen 21/29 RPGTA)."
-  - "Senarai pengecualian (sekali seumur hidup, pindah milik keluarga atas kasih sayang, kerajaan/badan amal, kematian/penceraian) — sahkan perincian syarat terhadap Jadual 4 dan Perintah Pengecualian RPGT semasa."
-  - "Nombor dan proses borang CKHT (1A/1B/2A/3) serta e-CKHT melalui MyTax — sahkan terhadap portal rasmi LHDN."
+  - "对拖欠税款征收10%的逾期付款罚款——须根据LHDN官方罚款指南（RPGTA的Seksyen 21/29）核实当前的费率与机制。"
+  - "豁免清单（一生一次、基于亲情的家庭产权转让、政府／慈善机构、身故／离婚）——请对照当前的 Jadual 4 及 RPGT 豁免令核实各项条件的细节。"
+  - "CKHT 表格编号及流程（1A/1B/2A/3）以及通过 MyTax 的 e-CKHT — 请对照 LHDN 官方门户加以确认。"
 
 updated: 2026-08-08
 sources:

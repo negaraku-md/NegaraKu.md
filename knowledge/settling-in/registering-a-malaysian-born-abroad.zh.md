@@ -47,11 +47,11 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Halaman perkhidmatan JPN (jpn.gov.my, Perkara 14 kelahiran luar negara) tidak dapat diambil secara automatik di sini (ECONNREFUSED); sahkan terus dengan JPN: siapa boleh memohon, syarat hadir sendiri, senarai semak dokumen, bilangan gambar (tiga keping berlatar biru), dan kadar bayaran semasa."
-  - "Sahkan kadar bayaran rasmi dan senarai semak dokumen terkini terus di jpn.gov.my atau misi Malaysia berkenaan (nilai RM20/RM30/RM10 di sini dipetik daripada panduan Family Frontiers)."
-  - "Sahkan tarikh kuat kuasa sebenar Akta Perlembagaan (Pindaan) 2024 apabila diwartakan (draf ini menyatakan sasaran 1 Jun 2026 mengikut kenyataan menteri Februari 2026)."
-  - "Sahkan petikan penuh dan keputusan kes Mahkamah Rayuan 5 Ogos 2023 (Suriani Kempe & Ors lwn Kerajaan Malaysia) terhadap rekod mahkamah rasmi."
-  - "Sahkan slug perhubungan/berkaitan (jabatan-pendaftaran-negara, federal-constitution-citizenship, applying-for-malaysian-citizenship-article-15, malaysian-birth-registration) terhadap taksonomi langsung."
+  - "JPN 服务页面（jpn.gov.my，Perkara 14 海外出生）无法在此自动抓取（ECONNREFUSED）；请直接向 JPN 核实：谁可申请、亲自到场的要求、文件核对清单、照片数量（三张蓝底）及当前收费。"
+  - "请直接在 jpn.gov.my 或相关的马来西亚使领馆核实官方收费标准与最新的文件清单（此处的 RM20/RM30/RM10 金额引自 Family Frontiers 的指南）。"
+  - "须核实Akta Perlembagaan (Pindaan) 2024宪报刊登时的实际生效日期（本稿依2026年2月的部长声明列出目标为2026年6月1日）。"
+  - "须根据官方法院记录核实上诉法院5 Ogos 2023案件（Suriani Kempe & Ors lwn Kerajaan Malaysia）的完整引注与判决。"
+  - "请对照实际的分类体系核实相关／关联的 slug（jabatan-pendaftaran-negara、federal-constitution-citizenship、applying-for-malaysian-citizenship-article-15、malaysian-birth-registration）。"
 
 updated: 2026-08-07
 sources:

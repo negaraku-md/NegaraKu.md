@@ -42,8 +42,8 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Current RE share splits often quoted by secondary sources (RE ~8% of energy consumption; hydro ~6.3%; solar ~0.53%) — confirm against MyEnergyStats / Energy Commission MEIH primary data."
-  - "MyRER's total RE installed-capacity target in MW (as opposed to the % share) — SEDA page gave % and investment/jobs but not a clean MW figure."
+  - "二手来源常引用的当前可再生能源占比（RE 约占能源消耗的 8%；水电约 6.3%；太阳能约 0.53%）——请对照 MyEnergyStats／Energy Commission MEIH 的一手数据核实。"
+  - "MyRER 以 MW 计的可再生能源装机总容量目标（相对于百分比份额）——SEDA 页面给出了百分比与投资／就业数据，却没有明确的 MW 数字。"
 updated: 2026-08-14
 sources:
   - title: "National Energy Transition Roadmap (NETR): Charting a Path to a Sustainable Energy Landscape"

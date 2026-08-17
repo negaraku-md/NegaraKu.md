@@ -34,8 +34,8 @@ faq:
     a: "只有在他是自然人的情况下才是。若他是持有 20% 或以上普通股的个人，他符合标准 A。但持有多数股权并不等于分析到此为止——你仍须评估全部六项标准，因为可能另有他人分别符合标准 C、D、E 或 F。"
 
 verificationNeeded:
-  - "Confirm SSM's treatment of discretionary trusts where no beneficiary has a vested interest, against the separate guidelines on beneficial ownership of legal arrangements which SSM has indicated will be issued for trust arrangements"
-  - "Whether a trust company registered under the Trust Companies Act 1949 is necessarily a public company subject to the full beneficial ownership framework — asserted in some commentary but not pinned to a provision of that Act"
+  - "请对照 SSM 表示将针对信托安排发布的、关于法律安排受益所有权的单独指引，核实 SSM 对无任何受益人拥有既得权益的酌情信托的处理方式"
+  - "根据 Trust Companies Act 1949 注册的信托公司是否必然属于受完整实益拥有权框架约束的公众公司——某些评述如此主张，但并未落实到该法令的具体条文。"
 
 lang: "zh"
 masterLanguage: "en"

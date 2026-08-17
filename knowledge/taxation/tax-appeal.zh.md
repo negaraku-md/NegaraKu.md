@@ -38,8 +38,8 @@ faq:
     a: "以 Form N 依 s.100 申请延长时限。自 YA2020 起，该申请本身须在 30 天上诉期结束后 7 年内提出。若总监拒绝，该申请连同他的理由陈述（Form CP15B）会送交一位特别专员，你有 21 天作出书面陈词，而该特别专员的决定是终局的。"
 
 verificationNeeded:
-  - "Confirm the current edition of the Garis Panduan Prosiding Resolusi Pertikaian; the published version is dated March 2019 and still cross-refers to the superseded Public Ruling 12/2017"
-  - "Confirm whether the prescribed fee under Schedule 5 para 34(6) for filing a notice of appeal to the High Court has been published by the Minister — no current fee order was located"
+  - "请确认Garis Panduan Prosiding Resolusi Pertikaian的当前版本；已发布的版本日期为March 2019，且仍交叉引用已被取代的Public Ruling 12/2017"
+  - "请确认部长是否已就向High Court提交上诉通知公布Schedule 5 para 34(6)项下规定的费用——未找到现行的费用命令。"
 obligations:
   - what: "就评税通知书呈交 Form Q"
     trigger: "change"

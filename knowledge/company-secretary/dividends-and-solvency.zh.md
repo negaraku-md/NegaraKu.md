@@ -38,7 +38,7 @@ faq:
     a: "Act 并未加以区分。s.131 与 s.132 讲的是分派，其定义以公司向股东分派为参照，而无论分派在何时作出，同一套盈利与偿债能力要求都适用。实务上的差别在于，中期股息是依管理账目而非经审计账目来判断的，这提高了董事「信纳」一事在举证上的门槛。"
 
 verificationNeeded:
-  - "Whether SSM has issued any guidance on what evidence directors should retain to demonstrate satisfaction under s.132(2) — no practice directive or practice note on the point was located"
+  - "SSM 是否就董事应保留哪些证据以证明其在 s.132(2) 下已获信纳发布过任何指引——未找到关于此点的执业指令或执业指引"
 
 obligations:
   - what: "在董事不再信纳偿债能力时，采取一切必要步骤制止该项分派"

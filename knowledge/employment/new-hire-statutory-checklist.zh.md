@@ -73,8 +73,8 @@ obligations:
     consequence: "General penalty of up to RM50,000 under s.99A"
 
 verificationNeeded:
-  - "Confirm the PERKESO registration period in days — the duty is published but the period is not, and the commonly quoted 30 days is not on perkeso.gov.my"
-  - "Confirm the current particulars prescribed for the s.61 register against the Employment Regulations in force"
+  - "核实 PERKESO 注册期限的天数——义务已公布，但期限未公布，而常被引用的 30 天并不见于 perkeso.gov.my"
+  - "对照现行 Employment Regulations，核实 s.61 登记册目前所规定的详情。"
 
 lang: "zh"
 masterLanguage: "en"

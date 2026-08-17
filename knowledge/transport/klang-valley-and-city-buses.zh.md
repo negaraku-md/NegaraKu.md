@@ -49,9 +49,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Exact current managed route count (MyRapid states 'over 270'; Bernama/The Star/NST state 281 as of the Jan 2026 restructuring) — confirm the live figure."
-  - "Whether Phase 2 of the restructuring (additional routes) has taken effect and its scope/date."
-  - "Current status of Rapid Kuantan (reportedly ceased operations) — excluded here pending a primary source."
+  - "当前受管理路线的确切数目（MyRapid称「超过270条」；Bernama／The Star／NST称截至2026年1月重组时为281条）——须核实实时数字。"
+  - "重组的第二阶段（新增路线）是否已生效及其范围/日期。"
+  - "Rapid Kuantan 的当前状态（据报道已停止运营）——在获得原始来源前，此处予以排除。"
 updated: 2026-08-08
 sources:
   - title: "Rapid KL — Bus"

@@ -39,11 +39,11 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Exact statutory basis for the requirement that a lodger hold a practising certificate under Section 241 Companies Act 2016 — sources conflicted; confirm the exact section and wording before stating it."
-  - "Precise definition/threshold of an 'exempt private company' (EPC) under the Companies Act 2016 and exactly what an EPC lodges (an EPC certificate) instead of full XBRL financial statements — confirm on a primary SSM source before detailing."
-  - "Exact current mTool and mPortal version numbers — these change over time; verify the live version on ssm.com.my or omit."
-  - "Exact scope of Phase 2 (audited FS under Companies Act 1965) vs Phase 1/3 — confirm the CA 1965 vs CA 2016 split against the original 26 November 2024 SSM circular, not secondary summaries."
-  - "Whether foreign companies registered in Malaysia have a distinct MBRS filing template or deadline — confirm specifics on SSM."
+  - "关于报送人须持有执业证书这一要求在 Section 241 Companies Act 2016 下的确切法定依据——各来源相互矛盾；在陈述之前请核实确切的条款与措辞。"
+  - "Companies Act 2016之下「豁免私人公司」（EPC）的确切定义／门槛，以及EPC究竟提交什么（EPC证书）以代替完整的XBRL财务报表——在详述之前须以SSM主要来源核实。"
+  - "mTool与mPortal当前的确切版本号——这些会随时间变化；须在ssm.com.my上核实实时版本，或予以略去。"
+  - "第二阶段（Companies Act 1965 下的经审计财务报表）与第一／第三阶段的确切范围——请对照 2024 年 11 月 26 日的 SSM 原始通令核实 CA 1965 与 CA 2016 的划分，而非依据二手摘要。"
+  - "在马来西亚注册的外国公司是否有独立的 MBRS 提交模板或期限 — 请在 SSM 确认具体细节。"
 updated: 2026-08-14
 sourceContentHash: "6cce56bdb89cd914"
 sources:

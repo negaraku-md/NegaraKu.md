@@ -38,7 +38,7 @@ faq:
     a: "这完全取决于地方政府，而它们的立场确实各不相同。雪兰莪于2022年发布网上业务发照指南，明确依据1976年《地方政府法令》第107(1)条；MBPJ亦公布居家网上业务执照，附带条件——业务须完全在线进行、面积上限为建筑楼面的25%、须获邻居及管理层同意，并列有禁止活动清单。其他地方政府则公布相反规定或全无规定。请询问你所属的地方政府。"
 
 verificationNeeded:
-  - "Whether an offence created by subsidiary legislation attracts the general penalty in s.145 of the Consumer Protection Act 1999 — regulation 9 creates the offence but prescribes no penalty, so this is an inference"
+  - "由附属法例设立的罪行是否适用Consumer Protection Act 1999 s.145所定的一般刑罚——regulation 9设立了该罪行但未规定刑罚，故此属推断。"
 
 lang: "zh"
 masterLanguage: "en"

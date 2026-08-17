@@ -41,10 +41,10 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Istilah fiqh 'syiqaq' bagi seksyen 48 — tajuk Inggeris rasmi Akta 303 hanya 'Arbitration by Hakam' (timbang tara oleh Hakam); rujukan 'syiqaq' ialah huraian fiqh (teks Melayu rasmi menggunakan 'syiqaq'). Sahkan padanan istilah pada enakmen negeri berkenaan."
-  - "Nombor seksyen, umur minimum nikah, dan butiran peruntukan pada enakmen negeri masing-masing — mungkin berbeza daripada Akta 303 (Wilayah Persekutuan) dan perlu disemak terhadap teks enakmen negeri berkenaan."
-  - "Tempoh pelaporan tujuh hari bagi talaq di luar mahkamah — dinyatakan oleh portal Kerajaan (MyGovernment); sahkan terhadap peruntukan/prosedur negeri yang berkaitan."
-  - "Peruntukan pilihan anak mumaiyiz selepas tamat tempoh hadhanah (seksyen 84) — sahkan pemakaian dan tafsiran semasa Mahkamah."
+  - "seksyen 48的教法术语「syiqaq」——Akta 303的官方英文标题仅为「Arbitration by Hakam」（由Hakam进行仲裁）；「syiqaq」的提法是教法上的阐释（官方马来文本使用「syiqaq」）。须核实相关州属敕令中对应的术语。"
+  - "各州法令中的条文编号、最低结婚年龄及条款细节——可能与Akta 303（联邦直辖区）不同，须根据相关州属法令的文本核对。"
+  - "庭外休妻（talaq）七天的申报期限——由政府门户网站（MyGovernment）说明；请对照相关的州条文／程序核实。"
+  - "已辨识事理的孩子（mumaiyiz）在 hadhanah 监护期届满后的选择权条文（seksyen 84）— 请核实法院当前的适用与诠释。"
 revisions:
   - version: "01.00"
     date: 2026-08-07

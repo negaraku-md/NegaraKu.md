@@ -41,13 +41,13 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Exact date and venue of the 1990 settlement that ended the Sarawak insurgency. Press accounts and encyclopaedic entries give 17 October 1990 at Wisma Bapa Malaysia, Kuching, but this is not confirmed in the cited authoritative sources; the Kyoto Review states only '1990'."
-  - "Number of guerrillas in the 1990 Sarawak settlement (Kyoto Review: 'roughly 50'; press accounts: 52, led by Ang Cho Teng)."
-  - "Exact day of the Perak CPO Khoo Chong Kong killing. Cited sources (The Rakyat Post, Arkib Negara) give only November 1975 / 1975; external reporting gives 13 November 1975."
-  - "The 20 vs 21 October 1973 dating of the Sri Aman memorandum. The cited Sarawak Museum Department and Sarawak Tribune both give 21 October 1973; some accounts give 20 October."
-  - "Date of the Baling talks (stated here as December 1955) against a primary source."
-  - "Framing of the renewed insurgency's span: cited Arkib Negara entries variously describe a 1968-1978 'Second Emergency' and a 21-year (1968-1989) insurgency."
-  - "Kroh-Betong ambush casualty figures (16 killed, 17 wounded) and the 26 August 1975 Tugu Negara bombing figures (2 killed, 41 injured) against the cited Arkib Negara entries."
+  - "结束Sarawak叛乱的1990年和解的确切日期与地点。新闻报道与百科条目给出的是17 October 1990于Wisma Bapa Malaysia, Kuching，但这在所引用的权威来源中未获证实；Kyoto Review仅注明「1990」。"
+  - "1990年Sarawak和解中游击队员的人数（Kyoto Review：「约50人」；新闻报道：52人，由Ang Cho Teng领导）。"
+  - "Perak 州总警长 Khoo Chong Kong 遇刺的确切日期。所引用的来源（The Rakyat Post、Arkib Negara）仅给出 1975 年 11 月／1975 年；外部报道给出 1975 年 11 月 13 日。"
+  - "Sri Aman 备忘录的日期是 20 还是 21 October 1973。所引用的 Sarawak Museum Department 及 Sarawak Tribune 都给出 21 October 1973；部分记述给出 10 月 20 日。"
+  - "Baling 会谈的日期（此处记为 1955 年 12 月），须对照一手来源核实。"
+  - "对新一轮叛乱时间跨度的表述：所引 Arkib Negara 条目对其描述不一，或称 1968-1978 年的第二次紧急状态，或称长达 21 年（1968-1989）的叛乱。"
+  - "Kroh-Betong 伏击的伤亡数字（16 人死亡、17 人受伤）及 1975 年 8 月 26 日 Tugu Negara 爆炸的数字（2 人死亡、41 人受伤），须对照所引用的 Arkib Negara 条目核实。"
 revisions:
   - version: "01.00"
     date: 2026-08-08

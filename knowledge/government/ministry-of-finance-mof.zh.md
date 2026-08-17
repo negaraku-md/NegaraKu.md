@@ -42,12 +42,12 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Current officeholders change frequently — confirm the sitting Deputy Finance Minister(s) and exact appointment dates at publish time; state officeholders with an 'as of <date>' qualifier."
-  - "The MYR 46,981,917,800 (2026) figure is the ministry's own budget allocation, not the national federal budget — confirm framing and source it to the official 2026 Budget expenditure estimates before stating."
-  - "Exact current count of agencies/statutory bodies under MOF (portal says '14 major agencies', Wikipedia infobox lists 13) — reconcile against the portal's current 'Departments & Agencies' listing at publish time."
-  - "Employee headcount '30,735 (2022)' is dated — check for a newer figure before presenting as current."
-  - "Specific companies held by MOF Inc — verify each named holding against a primary/official source before listing (e.g. Petronas ownership is vested via the Petroleum Development Act, not simply 'owned by MOF Inc')."
-  - "Formation framing: history traces roots to the 1909 Federal Council and the 1951 Treasury Circular No. 15; the 31 August 1957 date is the modern-ministry date — present both rather than a single 'founded' date."
+  - "现任任职者更替频繁 — 发布时请确认在任的财政部副部长及确切的委任日期；陈述任职者时请附上「截至<日期>」的限定语。"
+  - "MYR 46,981,917,800（2026）这一数字是该部本身的预算拨款，而非全国联邦预算——陈述前请确认表述方式，并将其来源标注为官方2026 Budget开支预算。"
+  - "MOF属下机构／法定机构的确切现有数目（门户网站称「14家主要机构」，Wikipedia信息框列出13家）——发布时请对照门户网站当前的「Departments & Agencies」列表加以核对。"
+  - "员工人数「30,735（2022 年）」已过时——在呈述为当前数据之前，请查找更新的数字。"
+  - "MOF Inc 持有的具体公司——在列出之前，请对照第一手／官方来源核实每一项具名持股（例如 Petronas 的所有权是通过 Petroleum Development Act 授予的，而非单纯「由 MOF Inc 拥有」）。"
+  - "成立背景的表述：历史可追溯至 1909 年的 Federal Council 及 1951 年的 Treasury Circular No. 15；1957 年 8 月 31 日是现代部门的成立日期——应同时呈现两者，而非单一的「成立」日期。"
 updated: 2026-08-14
 sources:
   - title: "Ministry of Finance (Malaysia) — Wikipedia"

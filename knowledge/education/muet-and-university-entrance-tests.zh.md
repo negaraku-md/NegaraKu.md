@@ -52,7 +52,7 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Ambang band minimum khusus mengikut program (perubatan, undang-undang, kejuruteraan) — ditetapkan oleh Senat dan berbeza mengikut universiti/sesi; contoh dalam teks adalah panduan umum, bukan angka rasmi."
+  - "按课程划分的特定最低 band 门槛（医学、法律、工程）——由各大学评议会（Senat）设定，且因大学／学年而异；文中示例仅为一般指引，并非官方数字。"
 
 updated: 2026-08-14
 sources:

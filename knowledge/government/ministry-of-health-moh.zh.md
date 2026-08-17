@@ -42,13 +42,13 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Exact current number of Klinik Kesihatan and Community Clinics (KKom) — a snippet cited ~1,100 klinik kesihatan and 228 KKom as of 31 Dec 2023; confirm against MOH Health Facts 2023 (the official PDF returns HTTP 403 to automated fetch)."
-  - "Current Deputy Minister(s) of Health — confirm identity, spelling and number against the moh.gov.my staff directory."
-  - "Total MOH workforce headcount — Wikipedia cites 267,578 (2020); confirm the latest official figure."
-  - "Whether the RM1 outpatient fee and RM500 third-class ward cap are still current (the BMC case study is from 2012); confirm against the current Fees (Medical) Order under the Fees Act 1951."
-  - "Formal establishment year of the ministry as a distinct federal ministry — reconcile the 1963 renaming against the continuity described from 1956–1962, using the official 'Brief History' page."
-  - "Latest official counts of dental clinics and community/1Malaysia clinics from Health Facts."
-  - "Life expectancy and doctor-to-population ratio from the latest MOH Health Facts / DOSM for context."
+  - "Klinik Kesihatan与社区诊所（KKom）目前的确切数目——某片段引述截至2023年12月31日约有1,100间klinik kesihatan及228间KKom；须对照MOH Health Facts 2023核实（该官方PDF对自动抓取返回HTTP 403）。"
+  - "现任卫生部副部长——须根据moh.gov.my的职员名录核实身份、拼写及人数。"
+  - "MOH 的员工总数——Wikipedia 引述为 267,578（2020 年）；请核实最新的官方数字。"
+  - "RM1 门诊费及 RM500 三等病房上限是否仍为现行（BMC 案例研究出自 2012 年）；请对照 Fees Act 1951 下现行的 Fees (Medical) Order 加以确认。"
+  - "该部作为独立联邦部门的正式成立年份——请利用官方「Brief History」页面，将1963年的更名与1956–1962年间所描述的延续性相互印证。"
+  - "来自Health Facts的牙科诊所及社区／1Malaysia诊所的最新官方数目。"
+  - "用作背景的、来自最新 MOH Health Facts / DOSM 的预期寿命和医生对人口比例。"
 updated: 2026-08-14
 sources:
   - title: "Ministry of Health (Malaysia)"

@@ -46,11 +46,11 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Tahun penubuhan HDC (dilaporkan 2006) — perlu pengesahan daripada sumber primer rasmi HDC/MITI sebelum angka tahun dinyatakan semula."
-  - "Nama rasmi penuh suruhanjaya halal yang dicadangkan di bawah RMK-13 (sumber semasa hanya menyebut 'halal commission', bukan nama rasmi)."
-  - "Status cadangan penggabungan atau penyelarasan HDC dengan MATRADE — dikeluarkan buat sementara kerana tiada sumber rasmi diperoleh."
-  - "Anggaran saiz pasaran halal global di bawah HIMP 2030 (angka RM5 trilion dalam draf asal dikeluarkan sementara menunggu pengesahan sumber rasmi)."
-  - "Sasaran GDP 11% dan eksport RM80 bilion di bawah RMK-13 — sahkan terhadap dokumen RMK-13 rasmi apabila diterbitkan sepenuhnya."
+  - "HDC 的成立年份（报道为 2006 年）——在重新陈述该年份数字之前，须获得 HDC/MITI 官方第一手来源的确认。"
+  - "RMK-13 下拟设立的清真事务委员会的正式全称（当前来源仅提及「halal commission」，并非正式名称）。"
+  - "HDC 与 MATRADE 合并或协调建议的状态——因未取得官方来源而暂时删除。"
+  - "HIMP 2030 之下全球清真市场规模的估算（原草稿中的 RM5 trilion 数字已暂予删除，等待官方来源确认）。"
+  - "RMK-13 下 GDP 11% 与出口 RM80 bilion 的目标——待 RMK-13 官方文件全文发布后请对照核实。"
 
 updated: 2026-08-08
 sources:

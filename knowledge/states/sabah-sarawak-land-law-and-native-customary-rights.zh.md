@@ -49,10 +49,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "That 1 January 1958 is both the Sarawak Land Code's date of commencement and the statutory cut-off for the creation of native customary rights (the two dates coincide in the sources but are conceptually distinct)."
-  - "The precise wording and numerical thresholds of the Sabah Land Ordinance section 15 categories (e.g. the fruit-tree density figure) against the current official text."
-  - "The original enactment year of the Sabah Land Ordinance (commonly cited as 1930)."
-  - "The exact composition of the TR Sandah panel and whether the split is best described as 3:1 on outcome (secondary sources also describe a 2:2 division on the underlying legal principle)."
+  - "1 January 1958既是Sarawak Land Code的生效日期，也是设立原住民习俗权利的法定截止日期（在来源中两个日期相同，但在概念上是各自独立的）。"
+  - "就现行官方文本核实Sabah Land Ordinance section 15各类别的确切措辞与数值门槛（例如果树密度数字）。"
+  - "Sabah Land Ordinance 最初的制定年份（通常引用为 1930 年）。"
+  - "TR Sandah 案合议庭的确切组成，以及就判决结果而言是否最宜描述为 3:1 的分歧（二手来源也将底层法律原则上的分歧描述为 2:2）。"
 updated: 2026-08-08
 sources:
   - title: "Federal Constitution — Ninth Schedule (official reproduction)"

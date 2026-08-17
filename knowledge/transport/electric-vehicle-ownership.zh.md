@@ -50,11 +50,11 @@ revisions:
 updated: 2026-08-08
 
 verificationNeeded:
-  - "Peratusan '85% lebih rendah (secara purata)' dan 'sehingga 89%' merujuk perbandingan dengan kadar cukai jalan EV yang DITETAPKAN SEBELUM INI (struktur lama), BUKAN dengan kereta petrol/ICE — disahkan oleh The Star dan paultan.org (kedua-dua 4 Jun 2024). Sahkan tafsiran ini kekal betul jika teks diedit semula."
-  - "Struktur 'blok 9,999 watt' berasal daripada laporan media automotif (paultan.org / SoyaCincau) yang menerangkan semakan Jun 2024, BUKAN daripada garis panduan LKM v2 (2022) JPJ yang boleh diakses. PDF v2 itu mengandungi struktur lama (kenaikan per-50 watt, kadar asas jauh lebih tinggi) yang nampaknya telah digantikan oleh kadar semakan; hanya kadar minimum RM20 (≤50 kW) yang boleh disahkan merentas kedua-dua sumber rasmi dan media"
-  - "Angka tepat kadar asas dan tambahan bagi jalur kuasa pertengahan dan tinggi (100 kW ke atas) diambil daripada laporan media (paultan.org, SoyaCincau, Motorist). Sahkan terhadap garis panduan rasmi JPJ terkini apabila diterbitkan"
-  - "Penjelasan bahawa QV-E (150 kW) membayar lebih daripada Seal 6 (160 kW) 'kerana kelas badan (saloon berbanding bukan-saloon)' adalah TAFSIRAN penulis — munasabah kerana garis panduan JPJ mempunyai jadual saloon/bukan-saloon berasingan, tetapi punca tepat tidak dinyatakan dalam mana-mana sumber yang dipetik"
-  - "Contoh cukai jalan model tertentu adalah petunjuk sahaja — sahkan jumlah tepat kenderaan anda melalui aplikasi MyJPJ"
+  - "「（平均）低85%」与「最高达89%」的百分比，指的是与此前所定的EV道路税率（旧结构）相比，而非与汽油／ICE汽车相比——已由The Star与paultan.org证实（两者均为4 Jun 2024）。若正文重新编辑，请确认此诠释仍然正确。"
+  - "「9,999瓦区块」结构源自描述2024年6月修订的汽车媒体报道（paultan.org／SoyaCincau），而非源自可查阅的JPJ LKM v2（2022）指南。该v2 PDF包含旧结构（每50瓦递增、基本费率高得多），看来已被修订后的费率取代；只有RM20的最低费率（≤50 kW）能在官方与媒体两类来源中获得确认。"
+  - "中高功率区间（100 kW 及以上）基本费率与附加费率的确切数字取自媒体报道（paultan.org、SoyaCincau、Motorist）。请在 JPJ 最新官方指南发布后对照核实"
+  - "关于 QV-E (150 kW) 比 Seal 6 (160 kW) 缴付更多「是因为车身类别（saloon 相对于非 saloon）」的说明属于作者的诠释——这有其合理性，因为 JPJ 指南设有独立的 saloon／非 saloon 表格，但所引用的任何来源均未说明确切原因。"
+  - "特定车型的路税示例仅供参考——请通过 MyJPJ 应用核实您车辆的确切金额。"
 
 sources:
   - title: "Garis Panduan Pengiraan Kadar Lesen Kenderaan Motor (LKM) Bagi Kenderaan Elektrik (v2)"

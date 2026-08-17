@@ -40,9 +40,9 @@ faq:
     a: "不。自由区身份是一道关税边界，不带任何税率、豁免期或扣减。任何财政优惠均来自另一项独立的国家级文书，须经MIDA申请。自2026年2月28日下午3时起，先锋地位已对新的制造业申请关闭，而新的制造业优惠申请自2026年3月1日起依据《新优惠框架》评估。"
 
 verificationNeeded:
-  - "P.U.(A) 356/1974, the original Free Trade Zones declaration for Bayan Lepas, could not be retrieved — the AGC subsidiary legislation database does not index the P.U.(A) series that far back. Its title and 10 October 1974 gazette date are confirmed only by recital in P.U.(B) 510/2024."
-  - "The Free Zone Authority for Bayan Lepas Phases II onward is unresolved. RMCD lists only Phase I, and the 2024 re-declaration covers four plans as a single zone entry, which may have superseded the phase structure."
-  - "The widely circulated figure of RM435 billion of Penang exports, or 31 per cent of national, could not be tied to any official page."
+  - "P.U.(A) 356/1974，即 Bayan Lepas 最初的自由贸易区宣告，无法调取——AGC 的附属法规数据库并未收录追溯至该年代的 P.U.(A) 系列。其标题及 1974 年 10 月 10 日的宪报日期，仅由 P.U.(B) 510/2024 的引述部分予以确认。"
+  - "Bayan Lepas 第二阶段及以后的自由区主管机构尚未厘清。RMCD 仅列出第一阶段，而 2024 年的重新宪报公告将四份规划作为单一区块条目处理，可能已取代原有的阶段结构。"
+  - "广为流传的槟城出口额 RM435 billion（即占全国 31%）这一数字，无法与任何官方页面对应。"
 
 lang: "zh"
 masterLanguage: "en"

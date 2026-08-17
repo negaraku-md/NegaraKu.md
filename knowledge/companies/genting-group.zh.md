@@ -46,10 +46,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Minimum entry age for the casino gaming floor (commonly reported as 21) — no opened primary source confirms it; the official Resorts World Genting casino pages were under maintenance when checked."
-  - "Whether Resorts World Genting operationally denies entry to Muslims at the door, as distinct from the Syariah-law prohibition on Muslims gambling — not established by any cited source (Fortune explicitly does not state Muslims are barred from the floor)."
-  - "Exact pre- and post-offer shareholding percentages held by Genting Berhad in Genting Malaysia — The Edge confirms the RM2.35/share price and an under-50% starting stake but not the precise figures."
-  - "Syariah penalties (fine amount and imprisonment term) for Muslims caught gambling — described only qualitatively here; the exact statutory figures were not sourced."
+  - "进入赌场博彩区的最低年龄（普遍报道为 21 岁）——没有可打开的主要来源予以证实；查核时官方 Resorts World Genting 赌场页面正在维护中。"
+  - "Resorts World Genting 是否在实际操作上于入口拒绝穆斯林进入，这有别于伊斯兰教法禁止穆斯林赌博——没有任何所引用来源予以证实（Fortune 明确未表示穆斯林被禁止进入赌场大厅）。"
+  - "Genting Berhad在Genting Malaysia于收购要约前后确切的持股百分比——The Edge证实了每股RM2.35的价格及低于50%的起始持股，但未证实确切数字。"
+  - "对被查获赌博的穆斯林的伊斯兰法（Syariah）刑罚（罚款金额及监禁期限）——此处仅作定性描述；确切的法定数字未取得来源。"
 
 updated: 2026-07-28
 sources:

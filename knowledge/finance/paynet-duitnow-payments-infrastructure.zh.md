@@ -40,10 +40,10 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Exact current BNM stake in PayNet and the status/timeline of BNM's planned gradual reduction (announced by the Finance Ministry in a parliamentary reply, Dec 2025) — confirm the figure is still 35.5% at time of human review."
-  - "The full list and count (11) of PayNet's financial-institution shareholders, and whether Maybank, CIMB and Public Bank are among them."
-  - "Merchant QR fee schedule (0.25% bank-funded, 0.5% credit-card-funded, flat RM0.50 above RM5,000) — confirm these are current, as fee terms have changed over time."
-  - "Whether the 30 June 2028 proprietary-QR phase-out deadline and two-year transition remain in force."
+  - "BNM目前在PayNet的确切持股，以及BNM计划逐步减持的状态／时间表（由财政部在2025年12月的国会答复中宣布）——须在人工审阅时确认该数字仍为35.5%。"
+  - "PayNet金融机构股东的完整名单及数量（11家），以及Maybank、CIMB与Public Bank是否名列其中。"
+  - "商户 QR 收费表（银行账户付款 0.25%、信用卡付款 0.5%、超过 RM5,000 统一收 RM0.50）——请确认这些为最新，因为收费条款曾随时间变动。"
+  - "2028 年 6 月 30 日专有 QR 淘汰期限及两年过渡期是否仍然有效。"
 revisions:
   - version: "01.00"
     date: 2026-08-01

@@ -41,10 +41,10 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Sahkan petikan verbatim Perkara 4(1), 159(3), 159(4), 159(5) dan 161E(2) terhadap teks bercetak Perlembagaan Persekutuan (Cetakan Semula 2020) versi bahasa Melayu — rencana ini menggunakan frasa sah 'tidak sah setakat ketidakselarasan itu' dan 'jumlah bilangan ahli', bukan parafrasa terjemahan."
-  - "Sahkan kedudukan teks sah bahasa Melayu di bawah Perkara 160B (bila teks kebangsaan diperakukan sebagai teks sah) sebelum menyandarkan petikan Melayu kepadanya sepenuhnya."
-  - "Sahkan senarai peruntukan yang dilindungi Perkara 159(5) dan perkara Sabah/Sarawak yang dilindungi Perkara 161E(2) sekiranya butiran spesifik hendak disenaraikan."
-  - "Sahkan slug pautan dalaman wujud: /law/federal-constitution, /law/constitutional-amendment, /glossary/akta, /government/majlis-raja-raja, /glossary/yang-di-pertuan-agong."
+  - "对照《联邦宪法》（Perlembagaan Persekutuan，Cetakan Semula 2020）马来文版本的印刷文本，核实 Perkara 4(1)、159(3)、159(4)、159(5) 及 161E(2) 的逐字引文——本文使用法定用语「tidak sah setakat ketidakselarasan itu」与「jumlah bilangan ahli」，而非翻译的意译。"
+  - "在完全依赖马来文引文之前，请核实马来文权威文本在 Perkara 160B 下的地位（即国语文本何时被核准为权威文本）。"
+  - "若要列出具体细节，须核实受Perkara 159(5)保护的条款清单，以及受Perkara 161E(2)保护的Sabah/Sarawak事项。"
+  - "核实以下内部链接slug存在：/law/federal-constitution、/law/constitutional-amendment、/glossary/akta、/government/majlis-raja-raja、/glossary/yang-di-pertuan-agong。"
 revisions:
   - version: "01.00"
     date: 2026-08-01

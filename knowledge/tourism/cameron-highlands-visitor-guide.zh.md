@@ -48,7 +48,7 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Orang Asli village tour operators, durations and departure points — not stated by the cited source (Penang Travel Tips)."
+  - "Orang Asli村庄游的旅游经营者、时长与出发地点——所引用的来源（Penang Travel Tips）并未说明。"
 
 updated: 2026-08-14
 sources:

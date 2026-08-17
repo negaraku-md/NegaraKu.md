@@ -38,10 +38,10 @@ faq:
     a: "2016 年附例载有一份按活动分类的完整年费最低与最高额度 Jadual（收费表）——车辆修理厂为 RM200 至 RM1,000，食品制造 RM300 至 RM1,000，电子产品业务 RM2,000 至 RM4,000，酒吧、夜总会或卡拉 OK 场所 RM750 至 RM2,000。依附例 10(3)，执照转让费为 RM50。依附例 3(2)，有效期不足六个月的临时执照按收费表所列费用的两倍计收。"
 
 verificationNeeded:
-  - "Any official Malaysian count of residents commuting to Singapore for work — no government source publishes one; the widely quoted figures come from news outlets and are mutually inconsistent"
-  - "Causeway and Second Link vehicle or passenger throughput — Immigration Malaysia confirms both as ICQS control points but publishes no volumes"
-  - "Current specifications, occupancy and tenant counts for the Senai, Tebrau and Kulai industrial areas — no official operator pages with confirmable figures were located"
-  - "RTS Link fare structure and confirmed first day of passenger service — MRT Corp publishes an end-2026 infrastructure completion target and a January 2027 service start, while Singapore LTA phrases it as service by December 2026"
+  - "任何马来西亚官方对通勤往新加坡工作居民的统计——没有任何政府来源公布此类数据；广为引用的数字来自新闻媒体，且彼此不一致"
+  - "长堤（Causeway）与第二通道（Second Link）的车辆或旅客流量——Immigration Malaysia确认两者均为ICQS管制站，但未公布流量数据。"
+  - "Senai、Tebrau 与 Kulai 工业区的当前规格、入驻率与租户数量——未能找到载有可核实数字的官方运营方页面。"
+  - "RTS Link 的票价结构及确定的首日载客服务日期 — MRT Corp 公布的基础设施完工目标为 2026 年底、服务启动为 2027 年 1 月，而 Singapore LTA 的说法则是 2026 年 12 月前投入服务"
 
 lang: "zh"
 masterLanguage: "en"

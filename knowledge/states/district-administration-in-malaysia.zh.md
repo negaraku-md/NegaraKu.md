@@ -50,9 +50,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Sama ada Pegawai Daerah di setiap negeri turut memegang jawatan Pentadbir Tanah (amalan berbeza mengikut negeri)."
-  - "Asas statutori dan skop tepat bidang kuasa penghulu di peringkat mukim di bawah KTN."
-  - "Ketepatan istilah 'jajahan' (Kelantan) dan 'bahagian' (Sabah & Sarawak) sebagai lapisan setara/lebih tinggi daripada daerah."
+  - "各州的县长（Pegawai Daerah）是否同时兼任土地管理员（Pentadbir Tanah）（各州做法不同）。"
+  - "penghulu 在 mukim 层级的职权在 KTN 之下的法定依据及确切范围。"
+  - "「jajahan」（Kelantan）与「bahagian」（Sabah & Sarawak）作为与县（daerah）同级／更高层级用语的准确性。"
 updated: 2026-08-08
 sources:
   - title: "Key Findings Population and Housing Census of Malaysia 2020: Administrative District"

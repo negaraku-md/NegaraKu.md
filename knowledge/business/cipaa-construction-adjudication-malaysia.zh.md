@@ -48,11 +48,11 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Exact gazette date and P.U.(A) number of the Construction Industry Payment and Adjudication (Amendment) Regulations 2025 — practitioner sources give 24 December 2025, but at least one page states 13 October 2025; confirm against the Federal Gazette."
-  - "Whether Act A1738 retained the section 12 45-working-day decision period and its 'void if made late' consequence unchanged, or altered them (sources describe 'tighter default periods; extension requires consent of parties and adjudicator')."
-  - "The precise substantive amendments to the section 5 payment claim and section 6 payment response, and the prescribed forms mandated by the 2025 Regulations."
-  - "Confirm the 'Director'-to-'President' renaming against the gazetted text of Act A1738 (currently supported only by law-firm commentary)."
-  - "The exact scope of the 'clarified and expanded definitions' and the 'strengthened enforcement route / clearer grounds for setting aside' described in secondary sources."
+  - "Construction Industry Payment and Adjudication (Amendment) Regulations 2025的确切宪报日期与P.U.(A)编号——从业者来源给出24 December 2025，但至少有一个页面写为13 October 2025；请对照Federal Gazette加以确认。"
+  - "Act A1738是否原封不动地保留了section 12所定的45个工作日裁决期限及其「逾期作出即无效」的后果，抑或作出了更改（有来源描述为「更严格的默认期限；延期须经各方及裁决人同意」）。"
+  - "section 5 付款申索与 section 6 付款回应的确切实质性修订，以及 2025 Regulations 所规定的指定表格。"
+  - "请对照 Act A1738 的宪报文本确认由「Director」改称「President」一事（目前仅有律师事务所的评述支持）。"
+  - "二手来源所描述的「厘清并扩大的定义」以及「强化的执行途径／更明确的撤销理由」的确切范围。"
 
 updated: 2026-08-07
 sources:

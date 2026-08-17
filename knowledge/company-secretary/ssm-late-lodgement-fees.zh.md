@@ -23,8 +23,8 @@ keyTakeaways:
 appliesTo: "正在核对一宗逾期呈报，或评估一项过期提交风险的公司秘书与董事。"
 
 verificationNeeded:
-  - "Confirm whether SSM has issued any waiver of late lodgement fees after the peak-period waiver expired on 31 March 2026"
-  - "Compound rates for specific Companies Act 2016 offences are set by SSM's compound schedule under s.588 and are not published in Practice Directive 1/2017 — no compound figure is stated on this page because none could be confirmed against an official source"
+  - "请核实在高峰期豁免于 2026 年 3 月 31 日到期后，SSM 是否发布过任何逾期报送费豁免。"
+  - "特定Companies Act 2016罪行的复合罚款率由SSM依据s.588的复合罚款表订定，并未在Practice Directive 1/2017中公布——由于无法对照官方来源加以证实，本页未列出任何复合罚款数字"
 
 lang: "zh"
 masterLanguage: "en"

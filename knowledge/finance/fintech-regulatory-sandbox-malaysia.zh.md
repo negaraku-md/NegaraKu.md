@@ -41,7 +41,7 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "'More than 110 applications since 2016' reflects the figure as of the Feb 2024 enhanced framework (per fintechnews.my); confirm the latest cumulative count against BNM's own sandbox page (bnm.gov.my/sandbox) for currency."
+  - "「自 2016 年以来超过 110 份申请」反映的是截至 2024 年 2 月强化框架时的数字（据 fintechnews.my）；请对照 BNM 自身的沙盒页面（bnm.gov.my/sandbox）核实最新的累计数量以确保时效。"
 revisions:
   - version: "01.00"
     date: 2026-08-01

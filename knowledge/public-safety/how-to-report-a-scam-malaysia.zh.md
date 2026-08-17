@@ -48,7 +48,7 @@ reviewed: 2026-08-14
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Nombor 112 sebagai alternatif kecemasan dari telefon bimbit: tidak dapat disahkan terhadap sumber kerajaan berwibawa dalam pusingan semakan ini, khususnya dakwaan ia berfungsi tanpa SIM/kredit dan dihalakan ke 999. Perincian teknikal telah dilembutkan; sahkan dengan MCMC atau JPAM sebelum menegaskannya semula."
+  - "112 作为手机拨打的紧急替代号码：在本轮审查中无法对照权威政府来源加以确认，特别是关于它可在无 SIM 卡／无话费的情况下使用并转接至 999 的说法。技术细节已软化处理；重新确证之前请向 MCMC 或 JPAM 确认。"
 revisions:
   - version: "01.00"
     date: 2026-08-14

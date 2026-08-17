@@ -37,7 +37,7 @@ faq:
     a: "会发生两件事。一是依 Practice Directive 1/2017 收取行政上的逾期提交罚款——私人公司为 RM50 至 RM200，视延误长短而定。另外，s.259(3) 使之成为每一名高职人员的罪行，一经定罪可处最高 RM50,000 罚款，另加罪行持续期间每日最高 RM1,000。"
 
 verificationNeeded:
-  - "Confirm whether the Companies (Amendment) Act 2024 made any consequential change to sections 257 to 260 — the Act text consulted is the updated reprint as at 1 August 2022"
+  - "请确认Companies (Amendment) Act 2024是否对第257至260条作出任何相应修改——所参阅的法令文本为截至1 August 2022的更新重印本"
 
 obligations:
   - what: "向成员传阅财务报表与各项报告"

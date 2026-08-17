@@ -24,8 +24,8 @@ keyTakeaways:
 appliesTo: "管理陪产假的雇主，以及半岛马来西亚与纳闽的准父亲。"
 
 verificationNeeded:
-  - "Confirm whether rest days and gazetted public holidays falling within the seven consecutive days are counted against the entitlement, against JTKSM guidance"
-  - "Confirm whether the twelve-month service condition tolerates a break in service, and how continuous service is computed for s.60FA"
+  - "对照 JTKSM 指引，核实落在连续七天内的休息日与宪报公共假期是否计入该福利额度"
+  - "确认十二个月的服务条件是否容许服务中断，以及 s.60FA 的连续服务如何计算。"
 
 lang: "zh"
 masterLanguage: "en"

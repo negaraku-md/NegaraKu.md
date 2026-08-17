@@ -42,7 +42,7 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Pengesahan bahawa sasaran interim SSR beras 75% (menjelang 2025) berpunca khusus daripada Rancangan Malaysia Ke-12 (bukan sekadar sasaran umum kerajaan) — perlu disemak terhadap dokumen rasmi RMK-12; angka 75%/80% sendiri disahkan oleh The Edge Malaysia."
+  - "确认稻米自给率（SSR）75% 的中期目标（至 2025 年）确实源自 Rancangan Malaysia Ke-12（而非仅为政府的一般目标）——须对照 RMK-12 官方文件查核；75%/80% 这两个数字本身已由 The Edge Malaysia 证实。"
 revisions:
   - version: "01.00"
     date: 2026-08-01

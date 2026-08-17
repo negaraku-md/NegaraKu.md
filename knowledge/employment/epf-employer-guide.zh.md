@@ -34,8 +34,8 @@ faq:
     a: "注册并作为 EPF 会员缴纳的最低年龄是 14 岁。缴纳的最高年龄是 75 岁。非马来西亚公民雇员适用同一上限——必须未满 75 岁才可注册并为其缴纳。"
 
 verificationNeeded:
-  - "Confirm the current EPF late-payment charge or dividend-equivalent penalty rate against KWSP directly — not stated on the pages reviewed"
-  - "Confirm the precise statutory definition of wages for EPF purposes, and the treatment of specific allowances and bonuses, against the EPF Act 1991 s.2 definition and current KWSP guidance"
+  - "直接向KWSP核实当前的EPF逾期缴款费用或等同股息的罚款率——所查阅的页面并未列明。"
+  - "请对照 EPF Act 1991 s.2 的定义及 KWSP 现行指引，核实用于 EPF 目的的「工资」精确法定定义，以及特定津贴与花红的处理方式。"
 
 obligations:
   - what: "缴交该薪金月份的 EPF 缴纳金"

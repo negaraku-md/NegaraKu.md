@@ -54,9 +54,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Whether sensitivity 'none' and tier '1' remain appropriate: palm oil is a contested topic (deforestation, peatland loss, EU Deforestation Regulation, migrant/forced-labour concerns). Human editor to reconsider classification."
-  - "Number of MSPO-certified independent smallholders — specific figure removed pending a primary MSPO source; add back only if sourced."
-  - "Breadth of export markets (exact number of destination countries) — the previous '150 countries' claim was unsourced and has been softened; confirm before quoting a precise count."
+  - "敏感度「none」与层级「1」是否仍然恰当：棕榈油是一个具争议的话题（森林砍伐、泥炭地流失、EU Deforestation Regulation、移工／强迫劳动方面的关切）。应由人工编辑重新考虑分类。"
+  - "获 MSPO 认证的独立小农的数量——具体数字已删除，等待一手的 MSPO 来源；仅在有出处时才重新加入。"
+  - "出口市场的广度（目的地国家的确切数目）——先前「150 个国家」的说法没有来源，已作弱化处理；在引用精确数目前请先核实。"
 
 updated: 2026-08-14
 sources:

@@ -44,11 +44,11 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Sitasi rasmi P.U.(A) gazet dan tajuk Melayu yang tepat — sumber rasmi (MKN) menggunakan 'Kaedah-Kaedah Lalu Lintas Jalan', manakala sebahagian akhbar menyebut 'Peraturan-Peraturan'; sahkan tajuk gazet yang betul."
-  - "Percanggahan hukuman: hukuman berkanun di bawah Seksyen 54 APJ 1987 (denda RM1,000-RM5,000, penjara sehingga 12 bulan) berbanding kenyataan JPJ Melaka dalam FMT 2025 ('denda sehingga RM1,000 atau penjara sehingga 3 bulan') dan laporan kompaun RM300 — sahkan hukuman/kompaun sebenar yang dikenakan dalam amalan."
-  - "Sama ada 'bahu jalan' termasuk secara nyata dalam skop teks gazet — sumber tersedia hanya menyebut 'mana-mana bahagian jalan termasuk lintasan pejalan kaki'."
-  - "Keperluan umur dan topi keledar (helmet) untuk basikal elektik MS2514 — tidak ditemui dalam mana-mana sumber yang diperiksa."
-  - "Sama ada projek sandbox mikromobiliti (GPPSM) di bawah kelulusan Kementerian Pengangkutan mengubah kedudukan penggunaan di jalan raya bagi kawasan tertentu."
+  - "官方 P.U.(A) 宪报引用与确切的马来文标题——官方来源（MKN）使用「Kaedah-Kaedah Lalu Lintas Jalan」，而部分报章称为「Peraturan-Peraturan」；请核实正确的宪报标题。"
+  - "刑罚不一致：Seksyen 54 APJ 1987之下的法定刑罚（罚款RM1,000-RM5,000，监禁最长12个月）对比JPJ Melaka在FMT 2025中的说法（「罚款最高RM1,000或监禁最长3个月」）及RM300罚单的报道——须核实实务上实际施加的刑罚／罚单。"
+  - "「路肩」是否明文纳入宪报文本的范围——现有来源仅提及「道路的任何部分，包括行人穿越处」。"
+  - "MS2514 标准下电动自行车的年龄与头盔要求——在所查阅的任何来源中均未找到。"
+  - "在交通部批准下的微移动沙盒项目（GPPSM）是否改变了特定地区在道路上使用的法律地位。"
 
 updated: 2026-08-08
 sources:

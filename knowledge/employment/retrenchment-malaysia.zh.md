@@ -38,10 +38,10 @@ faq:
     a: "JTKSM 表明，未遵守的雇主即触犯 Employment Act 1955 s.63 下的罪行，每一项罪行可被罚款最高 RM50,000。法定的挂钩点是 s.99A，即一般罚则条文，因为 s.63 本身并未订明罚则。"
 
 verificationNeeded:
-  - "JTKSM's own English and Malay pages disagree about which parts of Form PK the Lampiran 1 employee schedule accompanies. The English page attaches it to Part VI; the Malay page attaches it to Parts I to IV and to Part V. The form's own reminder box mentions no Lampiran at all. Confirm with the JTK branch office before filing."
-  - "The gazette text of P.U.(B) 430/2004 could not be retrieved — federalgazette.agc.gov.my did not respond. The P.U.(B) number and the 11 November 2004 date rest on JTKSM's published FAQ, and the operative provision cited on the form is paragraph 4(3)(a). The underlying gazette wording is unverified."
-  - "No online submission channel for Form PK was found on any government domain. Confirm the current filing channel with the relevant JTK branch, as submission practice may have changed."
-  - "Whether any minimum headcount triggers the notification duty — no threshold was found in JTKSM's published material."
+  - "JTKSM 自己的英文与马来文页面对于 Lampiran 1 雇员清单应随附于 Form PK 的哪些部分说法不一。英文页面将其附于 Part VI；马来文页面将其附于 Part I 至 IV 以及 Part V。而表格自身的提醒栏根本未提及任何 Lampiran。提交前请向 JTK 分局核实。"
+  - "P.U.(B) 430/2004 的宪报文本无法取得 — federalgazette.agc.gov.my 没有响应。该 P.U.(B) 编号及 2004 年 11 月 11 日的日期依据的是 JTKSM 公布的 FAQ，而表格上所引用的操作性条文为 paragraph 4(3)(a)。其底层宪报措辞未经核实。"
+  - "在任何政府域名上均未找到Form PK的在线提交渠道。由于提交做法可能已改变，请向相关的JTK分处确认当前的提交渠道。"
+  - "是否有任何最低人数会触发通报义务——在JTKSM公布的材料中未找到任何门槛。"
 
 obligations:
   - what: "提交 Form PK Parts I 至 IV，就计划中的裁员、停工、自愿离职计划或减薪通报 JTKSM"

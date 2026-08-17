@@ -51,7 +51,7 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Sama ada Menteri Luar akan menegaskan semula pendirian ini dalam perbahasan Perhimpunan Agung PBB akan datang."
+  - "外交部长是否会在即将举行的联合国大会辩论中重申这一立场。"
 
 updated: 2026-08-14
 sources:

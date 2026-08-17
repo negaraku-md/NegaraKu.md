@@ -36,9 +36,9 @@ faq:
     a: "分期与预估条文。ITA s.107C(9) 就未缴的 CP204 分期加征 10%；s.107C(10) 就最终税款超出预估逾 30% 的部分加征 10%；s.107C(10A) 在完全未呈交预估时就整笔税款加征 10%。Section 140A(3C) 就调整额加征至多 5% 的转让定价附加费，无须有额外税款。这些是可当作税款追讨的加征，不是罪行。"
 
 verificationNeeded:
-  - "Confirm whether the Sales Tax Act 2018 and Service Tax Act 2018 s.26 penalty scales have been amended since the 28 August 2018 gazetted text — no consolidated official version is published and mysst.customs.gov.my is not reliable as an index"
-  - "Confirm the current RPGT retention rates under s.21B; the AGC reprint used here is as at 20 December 2021 and shows 3% and 7% only, while later amendments introduced a 5% band"
-  - "Confirm whether any Sales Tax Act equivalent of Service Tax Act s.26A exists for imported goods — the 2018 reprint contains none"
+  - "请确认 Sales Tax Act 2018 及 Service Tax Act 2018 s.26 的罚则等级自 2018 年 8 月 28 日刊宪文本以来是否曾被修订 — 没有发布任何合并的官方版本，且 mysst.customs.gov.my 作为索引并不可靠"
+  - "请确认s.21B下当前的RPGT预扣率；此处所用的AGC重印本为截至20 December 2021，仅显示3%与7%，而其后的修订引入了5%的级别"
+  - "请确认Sales Tax Act中是否存在相当于Service Tax Act s.26A、适用于进口货物的条文——2018年重印本中并无此条。"
 
 lang: "zh"
 masterLanguage: "en"

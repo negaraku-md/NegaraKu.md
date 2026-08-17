@@ -24,7 +24,7 @@ keyTakeaways:
 appliesTo: "任何未扣预扣税就付款给非居民的马来西亚付款人，以及任何在量化该风险敞口的顾问。"
 
 verificationNeeded:
-  - "The 100 per cent s.113(2) rate used below is LHDN's own illustrative figure in Public Ruling 10/2019 Example 18 — the Ruling notes the rate in an actual case follows the Tax Audit Framework in force, which was not retrieved"
+  - "下文所用 s.113(2) 项下的 100% 费率是 LHDN 在 Public Ruling 10/2019 Example 18 中自身的示例数字——该裁定指出实际案件中的费率须依据当时生效的 Tax Audit Framework，而后者未能取得。"
 
 obligations:
   - what: "一经发现失误，缴付预扣税连同 10% 的加征"

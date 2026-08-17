@@ -46,11 +46,11 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Full-year FY2024 segment breakdown: draft cites only the Q4 FY2024 table; confirm construction was the largest full-year revenue contributor."
-  - "Reconcile the group's reported licensed-bed increase (1,240 to 1,396) with SMC Damansara's own stated capacity of more than 345 beds."
-  - "GIC's remaining stake and the full post-listing shareholding structure of SUNMED after the 18 March 2026 IPO."
-  - "Whether Tan Sri Dato' (Dr.) Chew Chee Kin remains group president as of publication."
-  - "Whether the 6.00 sen dividend is the total declared for FY2024 or a single distribution."
+  - "FY2024 全年分部细分：草稿仅引用了 Q4 FY2024 的表格；请确认建筑业务是否为全年营收的最大贡献来源。"
+  - "请将集团报告的持牌病床增加（由 1,240 张增至 1,396 张）与 SMC Damansara 自称超过 345 张病床的容量相互核对。"
+  - "2026 年 3 月 18 日 IPO 之后，GIC 剩余的持股及 SUNMED 上市后的完整股权结构。"
+  - "截至发布时，Tan Sri Dato' (Dr.) Chew Chee Kin 是否仍任集团总裁。"
+  - "6.00 sen 的股息是 FY2024 宣派的总额，还是单次派发。"
 
 updated: 2026-07-28
 sources:

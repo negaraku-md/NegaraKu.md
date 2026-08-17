@@ -51,7 +51,7 @@ revisions:
 
 updated: 2026-08-01
 verificationNeeded:
-  - "Kata-kata tepat aspirasi nasional JENDELA (gigabit jalur lebar tetap, 100 Mbps mudah alih, liputan 4G 100%) — dipetik daripada portal JENDELA sebagai matlamat jangka panjang, bukan sasaran Fasa 1."
+  - "JENDELA国家愿景的确切措辞（吉比特固定宽带、100 Mbps移动网络、100% 4G覆盖）——引自JENDELA门户，作为长期目标，而非第一阶段的指标。"
 sources:
   - title: "U Mobile to lead Malaysia's second 5G network; single-wholesale (DNB) model ended — dual-network from 2024"
     url: "https://theedgemalaysia.com/node/755009"

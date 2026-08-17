@@ -52,10 +52,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Exact wording, subsections and current in-force status of Act 164 ss 3, 50, 51, 52, 53, 54 and 106 — the cited AGC reprint incorporates amendments only up to 1 January 2006, and Act 164 was later amended (e.g. by Act A1546 in 2017); confirm against the latest in-force text."
-  - "State-specific Islamic divorce procedure (talak, taklik, fasakh, khuluk forms; the 7-day out-of-court talak reporting rule; iddah) as set by the enactment of the particular state relevant to the reader, since these vary by state."
-  - "Current coverage and operation of the federal e-Syariah case-management system across the states."
-  - "The contested Section 51 conversion/custody questions, which turn on facts and evolving case law and should be confirmed with a qualified practitioner."
+  - "Act 164 ss 3, 50, 51, 52, 53, 54 and 106 的确切措辞、子条款及当前生效状态——所引用的 AGC 重印本仅纳入截至 2006 年 1 月 1 日的修订，而 Act 164 后来又有修订（例如 2017 年的 Act A1546）；请对照最新的生效文本核实。"
+  - "因州而异的伊斯兰离婚程序（talak、taklik、fasakh、khuluk等形式；庭外talak须于7天内呈报的规定；iddah），依与读者相关的特定州属敕令而定，因为这些规定各州不同。"
+  - "联邦e-Syariah案件管理系统在各州当前的覆盖范围与运作情况。"
+  - "存在争议的 Section 51 改教／抚养权问题，其取决于具体事实及不断演变的判例法，应向合格执业者核实。"
 
 updated: 2026-08-07
 sources:

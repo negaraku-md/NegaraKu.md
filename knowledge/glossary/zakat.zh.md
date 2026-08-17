@@ -43,10 +43,10 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Angka nisab semasa setiap negeri (contoh dalam artikel: WP RM33,996 untuk 2026 dan Pulau Pinang RM31,000 untuk 2025) — sahkan terus dengan badan zakat negeri kerana angka ini dikemas kini setiap tahun mengikut harga emas."
-  - "Konstan syarak nisab = 20 mithqal (85 gram) emas disandarkan pada laman zakat wang simpanan MAINPP; sahkan sama ada takrifan yang sama digunakan bagi setiap jenis zakat harta dan setiap negeri."
-  - "Takrifan kuantitatif fakir/miskin (peratusan keperluan asas) mengikut MAIDAM; negeri lain mungkin menggunakan kayu ukur (had kifayah) yang berbeza."
-  - "Kadar dan asas pengiraan zakat fitrah ditetapkan setiap negeri setiap tahun; sahkan kadar semasa negeri berkaitan sebelum digunakan."
+  - "各州当前的 nisab 数字（文中例子：联邦直辖区 2026 年 RM33,996，槟城 2025 年 RM31,000）——请直接向各州天课机构核实，因为此数字每年依金价更新。"
+  - "教法定数 nisab = 20 mithqal（85 克）黄金依据 MAINPP 的储蓄天课页面；请核实每一类财产天课及每个州是否都采用相同定义。"
+  - "依MAIDAM对赤贫／贫穷的量化定义（基本需求的百分比）；其他州属可能采用不同的衡量标准（had kifayah）。"
+  - "天课（zakat fitrah）的费率与计算基准由各州每年设定；使用前须核实相关州属的当前费率。"
 revisions:
   - version: "01.00"
     date: 2026-08-01

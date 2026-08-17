@@ -38,7 +38,7 @@ faq:
     a: "s.109(3) 把本分节中有关转让权与转让登记的限制、约束与条文，适用于 s.109(2) 下的通知或转让——也就是有权者选择让另一人获登记的情形。因此任何拒绝的权力，都必须溯源自本 Act 或公司章程，一如 s.106(1)(a) 下的一般转让。"
 
 verificationNeeded:
-  - "The stamp duty treatment of a transmission where no instrument of transfer is executed was not confirmed against a current LHDN guideline or ruling; the 2019 share valuation guideline addresses transfers, not transmissions, and the position should be confirmed with the LHDN State Director's Office"
+  - "在未签立转让文书的情况下，股份转承的印花税处理方式未对照现行LHDN指南或裁定加以确认；2019年股份估值指南处理的是转让而非转承，此立场应向LHDN State Director's Office确认"
 
 obligations:
   - what: "把因转移而有权的人登记为股东"

@@ -42,9 +42,9 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Dakwaan Tunku Abdul Rahman sebagai Setiausaha Agung pertama OIC (mulai 1971) bergantung pada satu sumber sahaja (Yayasan Kepimpinan Perdana); sumber OIC/GlobaLex tidak mengesahkannya — sahkan dengan sumber OIC rasmi."
-  - "Bilangan anggota semasa setiap pertubuhan (OIC 57, Komanwel 56, APEC 21 ekonomi) berubah dari semasa ke semasa — sahkan angka terkini di laman rasmi."
-  - "Sumber Dasar Luar dihoskan di pmo.gov.my (Pejabat Perdana Menteri) walaupun footer PDF menyatakan 'Sumber: Kementerian Luar Negeri, Malaysia' — sahkan penerbit rasmi."
+  - "关于Tunku Abdul Rahman为OIC首任秘书长（自1971年起）的说法仅依赖单一来源（Yayasan Kepimpinan Perdana）；OIC/GlobaLex的来源并未证实——须以OIC官方来源核实。"
+  - "各组织的当前成员数量（OIC 57 个、英联邦（Komanwel）56 个、APEC 21 个经济体）会不时变动——请在官方网站核实最新数字。"
+  - "外交政策来源托管于 pmo.gov.my（首相署），尽管 PDF 页脚写明「Sumber: Kementerian Luar Negeri, Malaysia」— 请确认官方发布方。"
 revisions:
   - version: "01.00"
     date: 2026-08-01

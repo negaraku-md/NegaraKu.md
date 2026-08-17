@@ -41,9 +41,9 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Tarikh kuat kuasa tepat SEDA (dilaporkan 1 September 2011): laman rasmi SEDA yang dipetik hanya mengesahkan penubuhan 'di bawah Akta SEDA 2011 [Akta 726]', bukan bulan/tarikh tepat. Sahkan terhadap Akta SEDA 2011 (gazet/AGC)."
-  - "Kementerian penyelia semasa (PETRA): tidak dinyatakan secara eksplisit pada laman SEDA yang dipetik. Sahkan nama kementerian penyelia terkini dan petik halaman rasmi yang menyatakannya."
-  - "Solar ATAP: sama ada permohonan sentiasa terbuka atau dibuka melalui tetingkap permohonan berkala dengan tarikh buka/tutup ditetapkan kerajaan — sumber berbeza-beza; sahkan pada portal eATAP / garis panduan SEDA terkini."
+  - "SEDA 确切的生效日期（据报道为 2011 年 9 月 1 日）：所引用的 SEDA 官方网站仅确认其设立「依据 Akta SEDA 2011 [Akta 726]」，而非确切的月份／日期。请对照 Akta SEDA 2011（宪报／AGC）核实。"
+  - "现任主管部门（PETRA）：在所引用的 SEDA 网站上并未明确说明。请确认最新的主管部门名称，并引用载明这一点的官方页面。"
+  - "Solar ATAP：申请究竟是长期开放，还是通过政府设定开／闭日期的定期申请窗口开放——来源说法不一；请在 eATAP 门户／SEDA 最新指南上核实。"
 revisions:
   - version: "01.00"
     date: 2026-08-01

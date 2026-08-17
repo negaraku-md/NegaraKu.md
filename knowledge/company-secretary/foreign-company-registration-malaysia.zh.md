@@ -44,7 +44,7 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Whether a specific planned activity actually amounts to 'carrying on business' under section 561(3) for the entity in question."
+  - "就相关实体而言，某项特定的计划活动是否实际构成section 561(3)所指的「经营业务」。"
 revisions:
   - version: "01.00"
     date: 2026-08-07

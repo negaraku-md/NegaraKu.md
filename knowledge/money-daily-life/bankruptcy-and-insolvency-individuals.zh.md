@@ -47,11 +47,11 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Titik permulaan tempoh lima tahun bagi sijil pelepasan KPI (s.33A/33B): sumber Thomas Philip menyebut 'daripada tarikh perintah kebankrapan luput', manakala teks Akta 360 boleh dibaca sebagai lima tahun dari tarikh perintah dibuat — sahkan terhadap teks Akta rasmi."
-  - "Sifat 'sukarela/pilihan' penyertaan DMP AKPK — tiada pernyataan rasmi eksplisit; disifatkan berdasarkan mekanisme opt-in dan kontras dengan perintah mahkamah."
-  - "Angka 'lebih 1 juta individu' dikaunseling AKPK — sahkan angka terkini terhadap penerbitan rasmi AKPK/BNM."
-  - "Nombor seksyen dan kategori terperinci s.33C — sahkan terhadap teks rasmi Akta 360."
-  - "Angka ~14,000 kes hutang bawah RM50,000 dilepaskan setakat Julai 2023 — sahkan terhadap penyata rasmi MDI."
+  - "KPI解除证明书（s.33A/33B）五年期限的起算点：Thomas Philip来源称为「自破产令失效之日起」，而Akta 360的文本可解读为自作出命令之日起五年——请对照官方法令文本核实。"
+  - "AKPK 的 DMP 参与的「自愿／可选」性质——没有明确的官方声明；此性质是根据其选择加入（opt-in）机制以及与法院命令的对比而推断的。"
+  - "AKPK 辅导过「超过 100 万人」的数字——请对照 AKPK/BNM 官方出版物确认最新数字。"
+  - "s.33C 的条文编号与详细类别——请对照 Akta 360 的官方文本核实。"
+  - "截至 2023 年 7 月，约 14,000 宗债务低于 RM50,000 的个案获解除——请对照 MDI 官方声明核实。"
 
 updated: 2026-08-08
 sources:

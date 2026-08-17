@@ -44,12 +44,12 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Short-notice consent thresholds under s.316(5): private company 90% (constitution may raise up to 95%), public company 95% — appeared only in secondary summaries; confirm against the official Act 777 text."
-  - "7-day deadline to lodge the members' voluntary winding-up resolution with SSM under s.439(2)(a) — confirm exact section and day count against statute/SSM form."
-  - "Exact s.316 subsection breakdown for ordinary-business notice (private and public both 14 days, and the 21-day rule for special resolutions) — confirm precise subsection numbering."
-  - "Change of company name being s.28 specifically (vs neighbouring sections) — confirm section number against Act 777."
-  - "Whether show-of-hands vs poll mechanics are in s.291(2)/(3) and s.292(3)/(4) exactly as summarised — confirm subsection numbers."
-  - "30-day deadline to lodge an amended constitution after a s.36 special resolution and the RM10,000 / RM500-per-day penalty — confirm against statute (secondary source only)."
+  - "s.316(5)项下短期通知同意的门槛：私人公司90%（章程可提高至95%）、公众公司95%——仅出现在二手摘要中；请对照官方Act 777文本核实。"
+  - "依据 s.439(2)(a) 向 SSM 提交成员自愿清盘决议的 7 天期限——请对照法规／SSM 表格核实确切的条文编号与天数。"
+  - "关于一般事务通知的 s.316 确切细项分列（私人公司与公众公司均为 14 天，以及特别决议的 21 天规则）——请确认准确的细项编号。"
+  - "更改公司名称是否确切为 s.28（而非相邻条文）——请对照 Act 777 核实条文编号。"
+  - "举手表决与记名投票的机制是否确如摘要所述见于 s.291(2)/(3) 与 s.292(3)/(4)——请核实各分节编号。"
+  - "在 s.36 特别决议后提交经修订章程的 30 天期限，以及 RM10,000 / 每日 RM500 的罚款——请对照法规核实（目前仅为次要来源）。"
 updated: 2026-08-14
 sources:
   - title: "Companies Act 2016 (Act 777), official English text"

@@ -49,9 +49,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Tempoh bantahan/penarikan balik 60 hari: Garis Panduan SSM (Semakan 14 Julai 2026) perenggan 11 dan 13 menyatakan 'enam puluh hari', tetapi Akta Syarikat 2016 subseksyen 552(1) (cetakan semula 1.8.2022) dan beberapa sumber sekunder masih menyebut 30 hari. Sahkan sama ada seksyen 551/552 telah dipinda (contohnya melalui Akta Syarikat (Pindaan) 2024) supaya 60 hari yang terpakai."
-  - "Sahkan nombor/format borang CRS dan Jadual Fi terkini di portal SSM sebelum memfailkan permohonan sebenar."
-  - "Sumber sekunder (Allen & Gledhill dan MahWengKwai) memerihalkan versi 2019 (10 syarat, 30 hari) yang telah digantikan; dikekalkan sebagai latar belakang sahaja."
+  - "60 天的异议／撤回期限：SSM 指南（2026 年 7 月 14 日修订版）第 11 及第 13 段写明「六十天」，但 Akta Syarikat 2016 subseksyen 552(1)（2022 年 8 月 1 日重印本）及若干二手来源仍称 30 天。请确认 seksyen 551/552 是否已被修订（例如通过 Akta Syarikat (Pindaan) 2024），以致适用的是 60 天。"
+  - "在实际提交申请前，请在 SSM 门户上核实最新的 CRS 表格编号／格式及收费表（Jadual Fi）。"
+  - "二手来源（Allen & Gledhill与MahWengKwai）所描述的是已被取代的2019年版本（10项条件、30天）；此处仅作为背景保留。"
 updated: 2026-08-07
 sources:
   - title: "Companies Act 2016 (Act 777), SSM reprint as at 1 August 2022"

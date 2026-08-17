@@ -38,7 +38,7 @@ faq:
     a: "根据《2020 年纳闽商业活动税（豁免）令》，纯股权控股活动的雇员获豁免，但纳闽当地每年 RM20,000 的最低营运开支仍然适用，还有 P.U.(A) 423-2021 第 3 条规定的控制与管理条件——每年至少在纳闽召开一次董事会、纳闽注册办事处、纳闽居民秘书，以及在纳闽保存记录。"
 
 verificationNeeded:
-  - "Which of Malaysia's double taxation agreements exclude Labuan entities from benefits, and on what basis"
+  - "马来西亚的哪些双重征税协定将 Labuan 实体排除在优惠之外，以及依据为何。"
 
 obligations:
   - what: "File the Labuan entity return of profits (Form LE1) and pay the tax"

@@ -24,8 +24,8 @@ keyTakeaways:
 appliesTo: "在马来西亚半岛与纳闽收到弹性工作申请的雇主，以及提出申请的雇员。"
 
 verificationNeeded:
-  - "Confirm the current form and manner determined by the Director General for a s.60Q(1) application, against jtksm.mohr.gov.my"
-  - "Confirm whether JTKSM has published guidance on what constitutes an adequate ground of refusal under s.60Q(3)"
+  - "请对照 jtksm.mohr.gov.my 核实总监就 s.60Q(1) 申请所定的现行表格与方式"
+  - "请确认 JTKSM 是否已就 s.60Q(3) 下何谓充分的拒绝理由发布指引。"
 
 obligations:
   - what: "批准或拒绝弹性工作安排申请"

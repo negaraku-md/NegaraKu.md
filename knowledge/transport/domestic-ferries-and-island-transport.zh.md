@@ -46,10 +46,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Exact east-coast monsoon closure and reopening dates, which vary by island and operator (source confirms Terengganu resorts closing from around October to February)."
-  - "Current Langkawi ferry fares and first/last daily sailing times (fares and timetables change seasonally)."
-  - "Pangkor crossing time and fares — sourced here from a resort schedule page; confirm against the operator."
-  - "Menumbok-Labuan passenger and vehicle (RoRo) sailing frequency and current fares."
+  - "东海岸季候风关闭及重新开放的确切日期，因岛屿及经营者而异（来源确认 Terengganu 度假村约从 10 月关闭至 2 月）。"
+  - "当前兰卡威渡轮票价及每日首／末班航行时间（票价与时刻表随季节变动）。"
+  - "邦咯（Pangkor）渡轮航程时间与票价——此处引自度假村的班次页面；请向营运方核实。"
+  - "Menumbok-Labuan 客运与车辆（RoRo）的航班频率及当前票价。"
 updated: 2026-08-08
 sources:
   - title: "Ferry Services"

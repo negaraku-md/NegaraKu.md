@@ -43,7 +43,7 @@ verificationNeeded:
   - "请确认目前管辖 RECODA 的法律文书——VERIFIED-SOURCES 记载砂拉越同时运行两套并行的章节编号系列，而 RECODA 的法令属于现行系列的 Cap. 64"
   - "sedia.com.my 上所载的 SEDIA 法令 PDF 带有「FOR REFERENCE ONLY August 2010」的水印——请查核宪报文本，看此后是否有任何修订"
   - "请调和 MIDA 公布的两个 2025 年投资总额——2026 年 3 月《Investment Performance Report》中的 RM426,736.8 million，与 2026 年 6 月修订版各州表格中的 RM431,080.6 million"
-  - "请确认此后是否已有任何附属法规经宪报颁布，依 Income Tax Act 1967 s.65B 订定 JS-SEZ、National Global Services Hub 或 New Investment Incentive Framework 的税率"
+  - "请确认此后是否已有任何附属法规经宪报颁布，依 Income Tax Act 1967 s.65B 订定 JS-SEZ、National Global Services Hub 或 New Investment Incentive Framework 的税率。"
 
 lang: "zh"
 masterLanguage: "en"

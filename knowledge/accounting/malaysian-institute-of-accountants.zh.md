@@ -44,8 +44,8 @@ reviewed: 2026-08-14
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Sama ada terdapat standard perancangan cukai MIA dengan tarikh berkuat kuasa tertentu pada 2025 (angka '15 Julai 2025' dalam draf asal dibuang kerana tidak dapat disahkan) — sahkan terhadap pekeliling By-Laws MIA."
-  - "Bilangan/volum kes tatatertib MIA (angka '74 kes 2023' dalam draf asal dibuang) — sahkan terhadap MIA Annual Report 2023 jika angka diperlukan semula."
+  - "是否存在具有 2025 年特定生效日期的 MIA 税务规划标准（原始草稿中的「15 Julai 2025」这一日期因无法核实而删除）——请对照 MIA 的 By-Laws 通函核实。"
+  - "MIA 纪律案件的数量／数目（原稿中的「2023 年 74 宗」数字已删除）——若需重新引用该数字，请对照 MIA Annual Report 2023 核实。"
 revisions:
   - version: "01.00"
     date: 2026-08-14

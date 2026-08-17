@@ -47,9 +47,9 @@ revisions:
 
 updated: 2026-08-07
 verificationNeeded:
-  - "Confirm all fee figures (RM20/RM200 processing; RM100/400/700/1,000 annual bands) against the current official MYeHALAL fee schedule at myehalal.halal.gov.my — the four load-bearing citations are commercial/consultancy sources, not the primary JAKIM schedule."
-  - "Confirm the renewal window (submit six-to-three months before expiry) against JAKIM's Malaysian Halal Certification Procedure Manual (MPPHM), which is the primary rule behind the cited secondary source."
-  - "The commercial market-access point (that many retailers and institutional buyers prefer or require certified suppliers) is a general industry observation, not a cited statistic — confirm or attribute before treating as fact."
+  - "请对照myehalal.halal.gov.my上当前官方的MYeHALAL收费表，核实所有费用数字（处理费RM20/RM200；年费级别RM100/400/700/1,000）——四处关键引用均为商业／咨询来源，而非JAKIM的一手收费表。"
+  - "请对照JAKIM的Malaysian Halal Certification Procedure Manual (MPPHM)核实续证窗口期（于到期前六至三个月内提交），该手册是所引二手来源背后的原始规则。"
+  - "关于商业市场准入的这一点（即许多零售商和机构买家偏好或要求获得认证的供应商）是行业的一般观察，而非有出处的统计数据——在当作事实之前请加以核实或注明出处。"
 sources:
   - title: "P.U. (A) 431 — Trade Descriptions (Certification and Marking of Halal) Order 2011"
     url: "https://food.chemlinked.com/database/view/5640"

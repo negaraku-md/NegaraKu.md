@@ -36,10 +36,10 @@ faq:
     a: "不。1976年地方政府法令仅适用于马来西亚半岛。沙巴实行1961年地方政府条例，其第49(1)条载有对用于贸易、业务、工业或专业的场所的平行权力。砂拉越实行1996年地方当局条例 (第20章)，其中第91(b)条是广告权力，第145条则是第107条的对应条款。在亚庇，主要的商业执照根本不是地方政府附例执照——它是依据《商业执照条例》(沙巴第144章) 发出的贸易执照。"
 
 verificationNeeded:
-  - "MBPJ premise and trade licence fee figures — MBPJ cross-references the Second Schedule to its Food Establishment By-Laws 2007 without reproducing the rates"
-  - "MBSA's licence validity term, renewal deadline and late-payment penalty, and DBKK's specific late-renewal penalty — these remain unpublished (DBKK's validity term itself is now fixed by Cap 144 s.6 to 31 December)"
-  - "Whether DBKK requires any fire department approval — no such requirement appears in its published lists, which is an absence of evidence rather than evidence of absence"
-  - "Whether SSM registration is formally required for Sabah sole proprietors — DBKK does not list it among the required documents"
+  - "MBPJ 的营业场所与营业执照费用数字——MBPJ 交叉引用其 Food Establishment By-Laws 2007 的 Second Schedule，却未复述具体费率。"
+  - "MBSA 的执照有效期、续期期限与逾期缴付罚款，以及 DBKK 具体的逾期续期罚款——这些仍未公布（DBKK 的有效期本身现已由 Cap 144 s.6 定为 31 December）"
+  - "DBKK 是否要求任何消防局批准——其公布的清单中未见此项要求，但这属于证据缺失，而非缺失的证据。"
+  - "沙巴独资经营者是否正式要求 SSM 注册——DBKK 并未将其列入所需文件之中。"
 
 lang: "zh"
 masterLanguage: "en"

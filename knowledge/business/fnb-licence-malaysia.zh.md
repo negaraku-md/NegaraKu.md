@@ -41,7 +41,7 @@ faq:
     a: "不是关税局。依据《1976年关税法令》（第176号法令）第31条，部长设立发牌委员会，而第35(1)条赋予某地区委员会酌情核发或转让执照的权力。第35(1)条设有四类——供在场所内饮用的公共酒馆执照（public house licence）与啤酒馆执照（beer house licence）、供在场所外饮用的零售商店执照（retail shop licence），以及批发商执照（wholesale dealer's licence）。第35(3)条允许委员会在不给出任何理由且不予赔偿的情况下拒绝、暂停或取消执照，这正是各地区结果差异如此显著的原因。"
 
 verificationNeeded:
-  - "Any published liquor licensing policy for individual states such as Kelantan or Terengganu — none was confirmed, and variation appears to flow from Licensing Board discretion rather than published policy"
+  - "Kelantan或Terengganu等个别州属任何公开的酒类执照政策——均未获证实，其差异似乎源自执照局的酌情权，而非公开政策"
 
 lang: "zh"
 masterLanguage: "en"

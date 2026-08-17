@@ -48,12 +48,12 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "The RM50,000 fine / up to one year imprisonment penalty for false 999 calls (attributed to Section 233 of the Communications and Multimedia Act 1998 on civildefence.gov.my) — confirm the section and amount against the current statute before publication."
-  - "Whether the two-SIM-per-telco cap and three-month tourist-SIM validity are fully in force at the visitor's travel date (the MCMC mandatory standard was registered 26 February 2026; confirm the enforcement/effective date)."
-  - "SIM registration document rules beyond 'original passport / biometric verification' — the cited source does not address whether photocopies or scans are ever accepted; confirm with each telco if relevant."
-  - "Disruption of east-coast island boat and resort operations during the Northeast Monsoon is general travel guidance, not stated in the cited MET Malaysia source; confirm operator schedules directly."
-  - "Malaria being advised only for rural/forested areas and dengue being present nationwide with no licensed traveller vaccine — confirm against the current CDC Malaysia page at travel time."
-  - "That related articles 'getting-around-malaysia' exists in the corpus and resolves at build."
+  - "虚假拨打999的RM50,000罚款/最高一年监禁的刑罚（在civildefence.gov.my上归因于Communications and Multimedia Act 1998的Section 233）——发布前须根据现行法令核实条文与金额。"
+  - "每家电信商两张 SIM 卡的上限及旅客 SIM 卡三个月有效期，在访客出行日期是否已完全生效（MCMC 的强制标准于 2026 年 2 月 26 日登记；请核实执行／生效日期）。"
+  - "「护照正本／生物识别验证」之外的 SIM 卡登记文件规则 — 所引用的来源并未说明是否曾接受复印件或扫描件；如相关请向各电信公司确认。"
+  - "东北季候风期间东海岸岛屿船只与度假村营运受影响一事属于一般旅游指引，并未在所引用的MET Malaysia来源中说明；请直接向经营者确认时间表。"
+  - "关于疟疾仅建议针对乡村／林区、而登革热则遍布全国且尚无获批的旅客疫苗——请在出行时对照当前的CDC Malaysia页面核实。"
+  - "相关文章「getting-around-malaysia」确实存在于语料库中并在构建时能够解析。"
 
 updated: 2026-07-28
 sources:

@@ -35,10 +35,10 @@ faq:
     a: "雇主须负责缴付其雇员应缴的全部税款，而该笔金额构成欠政府的债务，可透过民事诉讼追讨。在没有合理理由的情况下未遵守通知义务，一经定罪可被罚款不少于 RM200 且不超过 RM20,000，或监禁不超过六个月，或两者兼施。"
 
 verificationNeeded:
-  - "Confirm the precise CP38 issuance and remittance mechanics — including how a CP38 instruction interacts with the running PCB figure and whether it is capped by reference to salary — against a current LHDN guideline"
-  - "Confirm when PCB is treated as final tax and the conditions an employee must satisfy to be relieved of filing, against the current Income Tax (Deduction from Remuneration) Rules 1994 as amended"
-  - "Confirm the current treatment and valuation rules for benefits in kind and perquisites in the PCB computation against the applicable LHDN Public Ruling"
-  - "Confirm the minimum monthly remuneration threshold at which PCB becomes payable against LHDN directly"
+  - "请对照现行LHDN指南，确认CP38的确切签发与缴款机制——包括CP38指示如何与正在计算的PCB数额相互作用，以及是否以工资为参照设有上限"
+  - "请对照现行经修订的Income Tax (Deduction from Remuneration) Rules 1994核实PCB何时视为最终税款，以及雇员须满足哪些条件方可免于报税。"
+  - "请对照适用的 LHDN Public Ruling 核实 PCB 计算中实物福利与额外津贴的现行处理及估值规则"
+  - "请直接向 LHDN 确认开始须缴纳 PCB 的最低月薪门槛。"
 
 obligations:
   - what: "从雇员酬劳中扣缴 PCB／MTD 并缴交予 LHDN"

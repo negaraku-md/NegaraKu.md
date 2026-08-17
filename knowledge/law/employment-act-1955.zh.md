@@ -30,7 +30,7 @@ faq:
     a: "不适用。Act 265 的适用范围是马来半岛与纳闽联邦直辖区。沙巴与砂拉越受各自的劳工法令管辖，结构大致相似，但细节不同，包括适用范围的门槛与部分程序步骤。"
 
 verificationNeeded:
-  - "Confirm the exact commencement instrument for Act A1651 against the Federal Gazette; the project source register records P.U.(B) 394/2022 for the 1 January 2023 date."
+  - "对照联邦宪报核实 Act A1651 的确切生效文书；项目来源登记册就 2023 年 1 月 1 日的日期记录为 P.U.(B) 394/2022。"
 
 lang: "zh"
 masterLanguage: "en"

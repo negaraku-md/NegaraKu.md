@@ -37,7 +37,7 @@ faq:
     a: "并非自动如此。依 AIAC Fast Track Procedure，裁决须在仲裁庭组成后六个月内作出，而该程序在当事人约定采用时、在国际仲裁争议金额低于 USD3,000,000 或本地仲裁低于 RM2,000,000 时，或在情况异常紧急时可用。一宗复杂建筑争议的三人仲裁庭完整仲裁，并不快。"
 
 verificationNeeded:
-  - "Confirm the current AIAC fee schedules and deposit requirements directly from AIAC before advising on cost"
+  - "在就费用提供意见之前，请直接向 AIAC 确认现行的 AIAC 收费表及按金要求。"
 
 lang: "zh"
 masterLanguage: "en"

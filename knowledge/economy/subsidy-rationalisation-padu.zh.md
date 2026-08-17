@@ -43,7 +43,7 @@ reviewed: "2026-08-14"
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Peruntukan subsidi elektrik separuh pertama dan kos operasi PADU sengaja ditinggalkan kerana sumber utama tidak dapat disahkan; tambah hanya jika sumber rasmi diperoleh."
+  - "上半年电力补贴拨款与 PADU 运营成本已刻意略去，因主要来源无法核实；仅在取得官方来源时才补充。"
 revisions:
   - version: "01.00"
     date: 2026-08-14

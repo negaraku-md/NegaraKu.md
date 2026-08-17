@@ -40,12 +40,12 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Tarikh pelantikan Ketua Pegawai Eksekutif Ahmad Zulqarnain Onn (dilaporkan berkuat kuasa 19 Februari 2024) — tidak diliputi oleh mana-mana sumber yang disenaraikan."
-  - "Tarikh penubuhan 1 Oktober 1951 dan rujukan Ordinan KWSP 1951 — fakta institusi/perundangan tanpa sumber utama yang di-fetch; sahkan dengan penerbitan rasmi KWSP atau Warta Kerajaan."
-  - "Rujukan Akta KWSP 1991 dan penempatan KWSP di bawah Kementerian Kewangan — sahkan dengan teks akta atau laman rasmi KWSP."
-  - "Bulan pelancaran Simpanan Shariah (dilaporkan Januari 2017) — katalog data terbuka menunjukkan dividen Shariah bermula 2017, tetapi bulan tepat belum disahkan dengan sumber utama."
-  - "Angka aset pelaburan 2023 (RM1.13 trilion) yang digunakan untuk pengiraan pertumbuhan — sahkan terhadap penyata kewangan rasmi KWSP."
-  - "Jumlah pendapatan pelaburan mengikut kelas aset dalam RM (bukan hanya % dan ROI) — sahkan dengan Laporan Tahunan / penyata rasmi KWSP 2024."
+  - "首席执行员Ahmad Zulqarnain Onn的委任日期（据报于2024年2月19日生效）——所列来源均未涵盖。"
+  - "成立日期1 Oktober 1951及Ordinan KWSP 1951的引用——属机构/法律事实但未抓取一手来源；须以KWSP官方出版物或Warta Kerajaan核实。"
+  - "对 Akta KWSP 1991 的引用以及 KWSP 隶属于财政部（Kementerian Kewangan）的说法——请以该法令原文或 KWSP 官方网站核实。"
+  - "Simpanan Shariah 的推出月份（据报为 2017 年 1 月）— 开放数据目录显示伊斯兰（Shariah）股息始于 2017 年，但确切月份尚未以主要来源加以确认。"
+  - "用于计算增长的2023年投资资产数字（RM1.13 trilion）——请对照KWSP的官方财务报表加以确认。"
+  - "按资产类别划分的投资收益总额（以RM计，而不仅是%与ROI）——请与KWSP 2024年年报／官方报表核实。"
 revisions:
   - version: "01.00"
     date: 2026-07-28

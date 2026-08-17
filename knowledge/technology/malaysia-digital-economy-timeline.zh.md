@@ -56,11 +56,11 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Tarikh/tahun tepat pelancaran program 'Digital Malaysia' (biasanya disebut 2012) tidak dapat disahkan daripada sumber rasmi yang berjaya dibuka; ia dinyatakan secara deskriptif sebagai program awal 2010-an. Sahkan tahun tepat terhadap dokumen rasmi MDEC/kerajaan sebelum menyatakan tarikh keras."
-  - "Angka asal sasaran NeSR 2016 (contohnya menggandakan kadar pertumbuhan e-dagang dan sasaran sumbangan KDNK) tidak dimasukkan kerana teks sumber PDF tidak dapat dibaca; tambah semula hanya dengan angka tepat daripada sumber rasmi yang dibuka."
-  - "Tarikh tepat pelancaran Dasar Revolusi Perindustrian Keempat Negara (N4IRP) — sering disebut 1 Julai 2021 — dan sumber rasminya (contohnya Unit Perancang Ekonomi/EPU) tidak dapat disahkan daripada halaman yang berjaya dibuka; tarikh keras telah dikeluarkan sementara menanti pengesahan. Sahkan dan tambah petikan sebelum menyatakan semula tarikh."
-  - "Label tempoh 'NeSR pertama 2016-2020' tidak disahkan secara eksplisit oleh halaman MDEC yang dibuka (halaman itu mengesahkan NeSR 2.0 2021-2025 dan data kumulatif PKS dari 2016, tetapi tidak menamakan fasa pertama '2016-2020'). Sahkan label fasa pertama terhadap dokumen roadmap MDEC sebelum menyatakannya sebagai tarikh keras."
-  - "Nama dan skop 'Strategi AI Kebangsaan 2026-2030' hanya disokong oleh sumber sekunder (Tech For Good Institute); halaman rasmi pelancaran NAIO (mydigital.gov.my) tidak menamakannya. Sahkan terhadap dokumen strategi rasmi sebelum menyatakannya sebagai fakta tanpa atribusi."
+  - "「Digital Malaysia」计划确切的推出日期／年份（通常称为 2012 年）无法从成功打开的官方来源证实；它被描述性地表述为 2010 年代初的一项计划。在陈述确切日期之前，请对照 MDEC／政府的官方文件核实确切年份。"
+  - "NeSR 2016 目标的原始数字（例如使电子商务增长率翻倍及对 GDP 贡献的目标）未予纳入，因来源 PDF 文本无法读取；仅在从所打开的官方来源取得确切数字时才重新补入。"
+  - "国家第四次工业革命政策（N4IRP）的确切推出日期——常被提及为 2021 年 7 月 1 日——及其官方来源（例如经济策划单位/EPU）无法从成功打开的页面证实；确切日期已暂予删除，等待确认。在重新陈述日期之前请核实并补上引用。"
+  - "「首个 NeSR 2016-2020」这一时期标签未被所打开的 MDEC 页面明确证实（该页面确认了 NeSR 2.0 2021-2025 及自 2016 年起的 PKS 累计数据，但未将第一阶段命名为「2016-2020」）。在将其作为确定日期陈述之前，请对照 MDEC 的路线图文件核实第一阶段的标签。"
+  - "「Strategi AI Kebangsaan 2026-2030」的名称与范围仅有二手来源（Tech For Good Institute）支持；NAIO官方启动页面（mydigital.gov.my）并未提及此名称。在未标注出处而将其陈述为事实之前，须对照官方策略文件核实。"
 
 updated: 2026-08-01
 sources:

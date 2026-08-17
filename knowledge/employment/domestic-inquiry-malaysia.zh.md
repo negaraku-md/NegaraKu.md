@@ -38,9 +38,9 @@ faq:
     a: "不能这么说。妥善进行的调查是支持解雇的证据，不是申索的障碍。雇员仍可依 Industrial Relations Act 1967 第 s.20 条提出陈情，并可另行在 60 天内依 Employment Act 1955 第 s.69(3) 条向劳工总监投诉。"
 
 verificationNeeded:
-  - "The requirements of natural justice applied to domestic inquiries — impartial panel, notice of the charge, opportunity to be heard, right to question witnesses — are judicial developments of the Industrial Court and superior courts, not statutory text. Confirm the leading authorities before citing any case name."
-  - "Confirm whether JTKSM publishes a departmental guideline on domestic inquiry procedure; none was located on jtksm.mohr.gov.my."
-  - "Whether the equivalent of s.14 applies in Sabah and Sarawak under the Sabah Labour Ordinance (Cap 67) and Sarawak Labour Ordinance (Cap 76) — not verified here."
+  - "适用于内部调查的自然正义原则要求——公正的审理小组、告知控状、陈述机会、盘问证人的权利——属于Industrial Court及上级法院的司法发展成果，而非成文法条文。在引用任何案例名称前，请确认主要判例依据。"
+  - "请确认JTKSM是否发布关于内部调查程序的部门指引；在jtksm.mohr.gov.my上未找到任何相关文件。"
+  - "依据 Sabah Labour Ordinance (Cap 67) 和 Sarawak Labour Ordinance (Cap 76)，s.14 的对应条文是否适用于 Sabah 和 Sarawak——此处未经核实。"
 
 obligations:
   - what: "在调查未揭示不当行为的情况下，补回停职期间被扣起的薪金"

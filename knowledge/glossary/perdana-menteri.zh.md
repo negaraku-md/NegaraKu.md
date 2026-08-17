@@ -51,8 +51,8 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Status akhir Rang Undang-Undang Perlembagaan Persekutuan (Pindaan) 2026 (had tempoh agregat 10 tahun) — sahkan sama ada telah diluluskan dua pertiga dan diwartakan pada Warta Kerajaan / AGC."
-  - "Perincian prosedur pindaan 2026 (subfasal 2A, 4A-4D, tarikh cetak biru 23 Feb 2026, bacaan kedua 2 Mac 2026) hanya berdasarkan teks verbatim PMO; sahkan terhadap teks rang undang-undang rasmi apabila tersedia."
+  - "Rang Undang-Undang Perlembagaan Persekutuan (Pindaan) 2026（累计任期上限 10 年）的最终状态——请核实其是否已获三分之二多数通过并在联邦宪报／AGC 上刊宪。"
+  - "2026 年修订程序的细节（分条款 2A、4A-4D，蓝图日期 23 Feb 2026，二读 2 Mac 2026）仅根据 PMO 的逐字文本；一旦官方法案文本可得，请对照核实。"
 updated: 2026-08-01
 sources:
   - title: "Senarai Perdana Menteri"

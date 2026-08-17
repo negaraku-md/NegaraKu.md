@@ -40,9 +40,9 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Sahkan peraturan tarikh berulang 'Sabtu minggu kedua bulan Oktober' terhadap sumber rasmi KBS/JBSN (kini disandarkan pada ecentral.my, sebuah portal sekunder, disokong oleh tarikh rasmi 11 Oktober 2025 dan 10 Oktober 2026 yang kedua-duanya jatuh pada Sabtu minggu kedua)."
-  - "Sahkan tarikh HSN 2026 (10 Oktober 2026) apabila pengumuman rasmi portal untuk 2026 diterbitkan."
-  - "Sahkan saluran hubungan / e-mel rasmi sekretariat HSN dan alamat pejabat — dialih keluar buat sementara kerana tiada sumber rasmi yang mengesahkannya (e-mel 'hsn@kbs.gov.my' dan lokasi 'Menara KBS, Putrajaya' tidak muncul dalam mana-mana sumber yang dipetik)."
+  - "请对照KBS/JBSN官方来源确认「10月第二个星期六」这一日期重复规则（目前依据的是ecentral.my这个二手门户，并由官方日期11 Oktober 2025与10 Oktober 2026佐证，二者均落在第二个星期六）。"
+  - "待2026年门户官方公告发布后，请核实HSN 2026的日期（2026年10月10日）。"
+  - "核实 HSN 秘书处的官方联系渠道／电邮及办公地址——因无任何官方来源证实而暂时删除（电邮「hsn@kbs.gov.my」及地点「Menara KBS, Putrajaya」未出现在任何所引用的来源中）。"
 revisions:
   - version: "01.00"
     date: 2026-08-01

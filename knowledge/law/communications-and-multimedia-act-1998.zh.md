@@ -47,10 +47,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Pelabelan subseksyen bagi hukuman pindaan Seksyen 233 (subseksyen mana yang membawa denda RM500,000 / penjara 2 tahun bagi penyalahgunaan am, dan subseksyen mana yang membawa hukuman kesalahan melibatkan kanak-kanak RM500,000 / penjara 5 tahun) — semak terhadap teks Akta Komunikasi dan Multimedia (Pindaan) yang telah diwartakan."
-  - "Angka hukuman kesalahan melibatkan kanak-kanak (RM500,000 / 5 tahun) — sahkan terhadap teks pindaan yang diwartakan."
-  - "Status dan tarikh permulaan kuat kuasa Pindaan 2024 — Rang Undang-Undang diluluskan kedua-dua Dewan pada Disember 2024 tetapi mula berkuat kuasa pada tarikh yang ditetapkan Menteri melalui warta; sahkan sama ada dan bila ia telah berkuat kuasa."
-  - "Ambang 'lapan juta pengguna' dan tarikh kuat kuasa 1 Januari 2025 bagi lesen kelas media sosial — sahkan terhadap arahan/perintah rasmi SKMM."
+  - "Seksyen 233修订刑罚的分节标注（哪一分节对一般滥用规定RM500,000罚款／2年监禁，哪一分节对涉及儿童的罪行规定RM500,000罚款／5年监禁）——请对照已宪报的Akta Komunikasi dan Multimedia (Pindaan)文本核查。"
+  - "涉及儿童罪行的刑罚数额（RM500,000／5年）——请对照已宪报的修订文本核实。"
+  - "2024 年修正案的状态及生效开始日期——法案已于 2024 年 12 月获两院通过，但自部长通过宪报所定的日期起生效；请核实其是否以及何时已经生效。"
+  - "社交媒体类别牌照的「八百万用户」门槛及 1 Januari 2025 的生效日期——请对照 SKMM 官方指示／命令核实。"
 updated: 2026-08-07
 sources:
   - title: "Laws of Malaysia Act 588 — Communications and Multimedia Act 1998 (official text)"

@@ -38,8 +38,8 @@ faq:
     a: "Section 578(1) 要求外国公司在不再于马来西亚设有营业地点或不再经营业务后七天内呈交通知。自通知呈交之日起，除已逾期者外，呈交进一步文件的义务即告终止。注册官在通知发出十二个月后把该名称从登记册上除去。"
 
 verificationNeeded:
-  - "Confirm the statutory test for corporate tax residence in Malaysia and the exact subsection of the Income Tax Act 1967, together with the current LHDN guidance on certificates of residence for branches"
-  - "Confirm whether MIDA's RE/RO guideline dated 24 March 2023 remains the current version"
+  - "请核实马来西亚公司税务居民身份的法定判定标准以及 Income Tax Act 1967 的确切条款，连同 LHDN 现行关于分行居民证明的指引。"
+  - "须确认MIDA日期为2023年3月24日的RE/RO指南是否仍为现行版本"
 
 obligations:
   - what: "呈交该外国公司的常年申报表"

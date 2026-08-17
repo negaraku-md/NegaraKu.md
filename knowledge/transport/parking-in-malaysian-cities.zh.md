@@ -40,12 +40,12 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Kadar bulanan letak kereta Petaling Jaya (dilaporkan RM100 sebulan) — tidak disahkan oleh laman Setel MBPJ semasa; perlu pengesahan langsung MBPJ sebelum dinyatakan semula."
-  - "Sama ada portal MyGov ePBT kini saluran rasmi untuk menyemak kompaun letak kereta DBKL — disebut dalam laporan Malay Mail tetapi tidak tersenarai pada laman rasmi DBKL (yang hanya menyenaraikan MySMS 15888, PAY@KL dan kaunter)."
-  - "Kadar letak kereta di majlis Selangor selepas peralihan kepada operator baharu pada 1 Ogos 2025 — sahkan tiada perubahan kadar."
-  - "Status terkini sama ada MBPJ telah menandatangani perjanjian Selangor Intelligent Parking (SIP) selepas Julai 2026."
-  - "Kadar letak kereta pusat beli-belah (Suria KLCC, Pavilion KL, NU Sentral) — kerap berubah; sahkan di pintu masuk."
-  - "Waktu penguatkuasaan dan kadar zon DBKL tepi jalan — sahkan versi terkini di laman rasmi DBKL kerana kadar boleh dikemas kini."
+  - "八打灵再也（Petaling Jaya）月租停车费（据报每月 RM100）——当前 MBPJ Setel 网站未予证实；重新陈述前须向 MBPJ 直接核实。"
+  - "MyGov ePBT 门户是否已成为查询 DBKL 停车罚单的官方渠道——Malay Mail 报道有提及，但未列于 DBKL 官方网站（该网站仅列出 MySMS 15888、PAY@KL 与柜台）。"
+  - "雪兰莪各市议会在 2025 年 8 月 1 日转由新营运商接手后的停车收费——请确认收费没有变动。"
+  - "MBPJ 在 2026 年 7 月之后是否已签署 Selangor Intelligent Parking (SIP) 协议的最新状态。"
+  - "购物中心的泊车费率（Suria KLCC、Pavilion KL、NU Sentral）——经常变动；须在入口处核实。"
+  - "DBKL路边分区的执法时间与费率——须在DBKL官方网站上核实最新版本，因费率可能会更新。"
 revisions:
   - version: "01.00"
     date: 2026-08-08

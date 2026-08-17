@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "负责马来西亚 Sdn Bhd 日常法定记录的公司秘书与董事。"
 
 verificationNeeded:
-  - "Confirm the current SSM late lodgement fee scale for register-related notifications against the prevailing SSM practice directive on late lodgement penalties"
+  - "根据现行SSM关于逾期呈报罚款的实务指令，核实与登记册相关通知的现行SSM逾期呈报收费标准。"
 
 lang: "zh"
 masterLanguage: "en"

@@ -47,9 +47,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Nama rasmi penuh dan nombor akta pemerbadanan 1997: sumber FELCRA memaparkan varian 'Akta Lembaga Penyatuan dan Pemulihan Tanah Negara (Penggantian dan Pembubaran) 1997' berbanding bentuk 'Tanah Persekutuan' yang digunakan di sini — sahkan terhadap statut persekutuan rasmi (e-Federal Gazette / AGC)."
-  - "Struktur penyeliaan dasar semasa FELCRA Berhad sebagai GLC (dimiliki penuh Menteri Kewangan Diperbadankan) berbanding kementerian yang menyelia operasinya — sahkan kementerian penyelia terkini."
-  - "Status penyatuan/penggabungan FELDA, FELCRA dan RISDA selepas Mac 2023 — sahkan sama ada masih kekal sebagai perbincangan dasar tanpa penggabungan penuh."
+  - "1997 年公司化法令的完整官方名称与编号：FELCRA 来源显示的版本为「Akta Lembaga Penyatuan dan Pemulihan Tanah Negara (Penggantian dan Pembubaran) 1997」，与此处使用的「Tanah Persekutuan」形式不同——请对照官方联邦法规（e-Federal Gazette / AGC）核实。"
+  - "FELCRA Berhad作为官联公司（由Menteri Kewangan Diperbadankan全资持有）目前的政策监管架构，以及监管其运作的部门——须核实最新的主管部门。"
+  - "FELDA、FELCRA与RISDA于Mac 2023之后的整合/合并状态——核实是否仍停留在政策讨论阶段而未完成全面合并。"
 updated: 2026-08-01
 sources:
   - title: "Company Overview — FELCRA Berhad"

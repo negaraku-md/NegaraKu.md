@@ -38,9 +38,9 @@ faq:
     a: "不是。保障措施座落在另一部法规之下，即 Safeguards Act 2006（Act 657），针对的是进口激增，而不是不公平定价或补贴。保障措施适用于所有来源，而不是适用于具名国家，也不需要作出倾销或补贴的认定。"
 
 verificationNeeded:
-  - "Malaysia does not publish a running total of countervailing measures ever imposed — the measures-in-force table showed no countervailing measure as at July 2026, but MITI does not state this expressly"
-  - "MITI does not publish duty rate percentages in its measures-in-force table; rates must be read from each gazetted Customs Order individually and are not tabulated here"
-  - "Response periods for supplementary questionnaires are set case by case in the questionnaire itself and are not fixed by the Regulations"
+  - "马来西亚不公布历来所征收反补贴措施的累计总数——截至2026年7月，现行措施列表中并无任何反补贴措施，但MITI并未明确说明这一点"
+  - "MITI并未在其现行措施表中公布税率百分比；税率须从每份宪报颁布的Customs Order中逐一查阅，此处不作列表汇总。"
+  - "补充问卷的答复期限是在问卷本身中逐案设定的，并非由该法规固定规定"
 
 lang: "zh"
 masterLanguage: "en"

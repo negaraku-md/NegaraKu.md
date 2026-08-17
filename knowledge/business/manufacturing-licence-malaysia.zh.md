@@ -39,10 +39,10 @@ faq:
     a: "制造业不行。MITI 宣布新奖掖框架自 2026年3月1日 起生效，首先适用于制造业，且政府将不再接受《1986年投资促进法令》下的新制造业奖掖申请 —— 最终截止日期为 2026年2月28日。已获批准并享有《1986年投资促进法令》奖掖的公司不受影响，其批准依原有条款继续有效。"
 
 verificationNeeded:
-  - "The P.U.(A) number, date and gazette text of the exemption order under s.11 of the ICA 1975 — the AGC subsidiary legislation database returns only a licence revocation notification for Act 156, and MITI's own ICA page lists no exemption order"
-  - "The form number for a manufacturing licence application — MIDA publishes a guideline and an online portal link but no form number, so the ICA 1 designation in circulation is unconfirmed"
-  - "Whether the relaxation of the 80 per cent Malaysian workforce condition was extended beyond 31 December 2024"
-  - "Whether the ICA 10 confirmation letter supports bank facility applications — MIDA does not say so"
+  - "根据ICA 1975 s.11作出的豁免命令的P.U.(A)编号、日期及宪报文本——AGC附属法例数据库只返回Act 156的一项执照撤销通知，而MITI自身的ICA页面也未列出任何豁免命令。"
+  - "制造许可证申请的表格编号——MIDA 公布了指南和在线门户链接，但没有表格编号，因此流传的 ICA 1 这一编号尚未获得确认"
+  - "80% 马来西亚籍员工条件的放宽措施是否已延长至 31 December 2024 之后。"
+  - "ICA 10 确认函是否可用于支持银行融资申请——MIDA 并未如此说明。"
 
 lang: "zh"
 masterLanguage: "en"

@@ -48,9 +48,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Angka Seksyen 3 (tinggi/berat pengawal lelaki & wanita, umur maksimum 60, pengesahan perubatan 56+, ujian air kencing 7 hari, latihan dalaman seminggu, kursus asas 3 bulan, komposisi 1/5 bekas polis/tentera, pengecualian Nepal) perlu disahkan oleh manusia terhadap dokumen rasmi KDN 'Syarat-Syarat Lesen Di Bawah Seksyen 3 Akta No. 27/71'. Angka telah disemak verbatim terhadap salinan dokumen tersebut yang diterbitkan semula oleh persatuan penduduk; salinan KDN kanonik (PDF asal) belum dicapai secara langsung."
-  - "Struktur yuran lesen dan denda di bawah Akta 27 sengaja tidak disertakan — sahkan kadar semasa terus dengan KDN."
-  - "Senarai majikan lazim polis bantuan selain universiti (cth. bank, lapangan terbang, KTMB, badan berkanun) hanya kes universiti (UIAM) yang bersumber; contoh lain perlu disahkan."
+  - "第 3 条（Seksyen 3）的数据（男女保安员的身高／体重、最高年龄 60 岁、56 岁以上的体检、7 天尿检、为期一周的内部培训、3 个月的基础课程、五分之一为前警察／军人的组成、尼泊尔籍的豁免）须由人工对照 KDN 的官方文件「Syarat-Syarat Lesen Di Bawah Seksyen 3 Akta No. 27/71」核实。这些数字已对照由居民协会转载的该文件副本逐字核对；KDN 的权威正本（原始 PDF）尚未直接取得。"
+  - "Akta 27 下的执照费与罚款结构已刻意不予纳入——请直接向 KDN 核实现行费率。"
+  - "辅警的常见雇主清单（大学以外，例如银行、机场、KTMB、法定机构），只有大学（UIAM）的例子有来源；其他例子需要核实。"
 updated: 2026-08-01
 sources:
   - title: "Sistem Pengurusan Industri Keselamatan (eSIMS)"

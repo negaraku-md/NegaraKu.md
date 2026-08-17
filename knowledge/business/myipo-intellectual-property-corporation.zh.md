@@ -42,9 +42,9 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Exact current patent official fee schedule (search summaries cite ~RM500 online filing plus separate examination fees / ~RM1,390 all-in) — confirm each line item against MyIPO's official Patent Forms and Fees page before stating a total"
-  - "Latest annual IP application/registration statistics (trademark and patent filings per year) from MyIPO's Statistic page for a current scale figure"
-  - "Current headcount of registered GIs beyond the 127 figure (as of December 2024) if a newer number is published"
+  - "目前专利官方收费表的确切内容（检索摘要引述在线申报约 RM500 外加另计的审查费／全包约 RM1,390）——在列出总额前，请就每个项目对照 MyIPO 官方的 Patent Forms and Fees 页面核实"
+  - "来自 MyIPO Statistic 页面的最新年度知识产权申请/注册统计（每年的商标与专利申请量），以取得当前的规模数字。"
+  - "若有更新数字发布，超出 127 项（截至 2024 年 12 月）之外已注册 GI 的当前数量。"
 updated: 2026-08-14
 sources:
   - title: "Ministry of Domestic Trade and Cost of Living (KPDN) — official site"

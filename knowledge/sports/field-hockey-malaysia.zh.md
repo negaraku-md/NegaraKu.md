@@ -50,9 +50,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Kedudukan tepat, jumlah mata (draf asal menyebut ~2,127) dan tarikh 'setakat' ranking hoki lelaki FIH Malaysia: halaman FIH yang dipetik adalah sahih dan berwibawa tetapi kandungannya terpotong ketika diambil, jadi angka mata dan tarikh tepat tidak dapat disahkan; kedudukan sekitar ke-13 munasabah tetapi perlu disahkan terhadap halaman FIH terkini."
-  - "Gelaran ordinal 'Yang di-Pertuan Agong ke-9': benar dari segi fakta tetapi ordinal '(ke-9)' dikeluarkan kerana sumber Persekutuan Hoki Asia yang dipetik hanya mengesahkan baginda menjadi Raja Malaysia dari 1989 hingga 1994, bukan ordinal ke-9; boleh dimasukkan semula jika sumber rasmi ditambah."
-  - "Butiran keputusan Piala Sultan Azlan Shah 2025 (Belgium juara, tewaskan India 1–0, Stockbroekx, New Zealand tempat ketiga, 92 gol/15 perlawanan) bergantung terutamanya pada satu sumber (thesportscol.com); sumber Hockey India yang dipetik hanya mengesahkan lokasi Ipoh, bukan keputusan akhir. Pengesahan silang dengan sumber rasmi FIH/MHC digalakkan."
+  - "马来西亚男子曲棍球FIH排名的确切名次、积分（原稿提及约2,127）及「截至」日期：所引用的FIH页面真实且权威，但抓取时内容被截断，因此积分数字与确切日期无法确认；约第13位的名次合理，但需对照最新的FIH页面确认。"
+  - "序数头衔「第9任Yang di-Pertuan Agong」：就事实而言属实，但序数「（第9任）」已被删除，因为所引亚洲曲棍球联合会来源仅确认陛下于1989至1994年担任马来西亚国王，而非确认第9任这一序数；若补充官方来源可重新加入。"
+  - "2025 年 Sultan Azlan Shah 杯赛果的细节（比利时夺冠，1–0 击败印度，Stockbroekx，新西兰第三名，92 球／15 场）主要依赖单一来源（thesportscol.com）；所引用的 Hockey India 来源仅确认赛事地点 Ipoh，而非最终赛果。建议与 FIH/MHC 官方来源交叉核实。"
 
 updated: 2026-08-01
 sources:

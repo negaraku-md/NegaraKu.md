@@ -34,8 +34,8 @@ faq:
     a: "Section 60D(1)(a)(iii) 把它系于雇员依其服务合约全部或主要工作所在的州；若雇员全部或主要在联邦直辖区工作，则给予联邦直辖区日。对完全远程的员工而言，合约上的工作地点就是参照点，这也是把它在合约中明确写出来的一个理由。"
 
 verificationNeeded:
-  - "Confirm the state-by-state applicability of each state-level holiday in the 2026 schedule — the state columns in the Cabinet Division PDF are graphical and do not extract as text, so applicability must be read off the source document or each State gazette"
-  - "Confirm dates marked as subject to change in the Cabinet Division schedule — Hari Raya Puasa, Hari Raya Qurban, Deepavali, Awal Ramadan and Hari Raya Qurban second day are all flagged"
+  - "须核实2026年时间表中各州级假期按州划分的适用情况——Cabinet Division PDF中的州属栏位为图形，无法作为文本提取，因此适用情况须从原始文件或各州宪报中读取"
+  - "核实内阁厅时间表中标注为可能变动的日期——Hari Raya Puasa、Hari Raya Qurban、Deepavali、Awal Ramadan及Hari Raya Qurban次日均被标记。"
 
 lang: "zh"
 masterLanguage: "en"

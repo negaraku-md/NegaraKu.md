@@ -42,9 +42,9 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Full exact wording of the DUI prescribed limits (s.45G) and the tiered penalties under s.44/45/45A — reconcile paultan reporting with the amendment's gazetted text."
-  - "Whether the further June 2026 traffic-penalty reform has been enacted and gazetted — keep this page to law currently in force and treat any proposed increases separately."
-  - "Complete authoritative list and citation numbers of all amending Acts — confirm via the AGC 'Amendments' listing for Act 333."
+  - "酒驾（DUI）法定限值（s.45G）以及 s.44/45/45A 项下分级罚则的完整确切措辞——请将 paultan 的报道与该修订经宪报公布的原文相互核对。"
+  - "2026 年 6 月进一步的交通罚则改革是否已经制定并刊宪 — 本页面应仅限于当前生效的法律，并将任何拟议的加重另作处理。"
+  - "所有修订法令的完整权威清单及引注编号——请通过AGC针对Act 333的「Amendments」列表确认。"
 updated: 2026-08-14
 sources:
   - title: "Road Transport Act 1987 (Act 333) — AGC updated text of reprint, as at 15 October 2023"

@@ -39,7 +39,7 @@ faq:
     a: "截至 2026 年 7 月尚未。检索 AGC 联邦宪报，未见任何标题涉及柔佛-新加坡经济特区的 P.U.(A)。MIDA 本身的指南以将来时描述该机制——该奖掖将通过 1967 年所得税法令（Income Tax Act 1967）第 65B 条下的附属立法提供。对比森林城市，其十一份文书已于 2025 年 10 月 3 日宪报颁布。"
 
 verificationNeeded:
-  - "The administering agency and application route for the JS-SEZ knowledge worker incentive is not stated in the MIDA guideline — Appendix B of the snapshot lists it under other incentives without naming a route. Confirm with MIDA or IRDA before advising."
+  - "JS-SEZ知识工作者激励的主管机构与申请途径未在MIDA指南中说明——快照的Appendix B将其列在其他激励项目下，但未指明途径。在提供建议前，请向MIDA或IRDA确认。"
 
 lang: "zh"
 masterLanguage: "en"

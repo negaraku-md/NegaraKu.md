@@ -50,8 +50,8 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "A June 2024 arrest of four Cambodian nationals inside a royal tiger reserve appeared in the original draft but could not be confirmed in any cited source; it was removed. Confirm and re-add with a source if accurate."
-  - "Updated official tiger population figures were promised ('to be announced soon' as of July 2026) — replace the fewer-than-150 estimate once released."
+  - "原稿中曾出现一起June 2024在皇家老虎保护区内逮捕四名柬埔寨国民的事件，但无法在任何所引用的来源中获得确认，已予删除。若属实，须核实并附来源后重新加入。"
+  - "官方承诺将公布更新的老虎数量数字（截至 2026 年 7 月为「即将公布」）——一经发布，即以其替换少于 150 只的估计值。"
 
 updated: 2026-07-28
 sources:

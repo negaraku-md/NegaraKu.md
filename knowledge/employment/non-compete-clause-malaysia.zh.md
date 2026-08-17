@@ -23,8 +23,8 @@ keyTakeaways:
 appliesTo: "起草限制性契约的雇主，以及被告知不得加入竞争对手的雇员。"
 
 verificationNeeded:
-  - "Confirm the leading Malaysian appellate authority on s.28 and on the treatment of non-solicitation clauses, against reported judgments"
-  - "Confirm whether any Malaysian court has upheld a post-termination non-solicitation of customers clause as falling outside s.28"
+  - "请对照已报道的判决，核实马来西亚关于 s.28 及不招揽条款处理的主要上诉法院判例。"
+  - "须确认是否有任何马来西亚法院曾裁定离职后不招揽客户条款不受s.28约束"
 
 lang: "zh"
 masterLanguage: "en"

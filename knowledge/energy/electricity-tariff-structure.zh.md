@@ -44,11 +44,11 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Kadar komponen terperinci (Caj Kapasiti 4.55, Caj Rangkaian 12.85, Caj Tenaga 27.03/37.03 sen/kWj) kini bersandar pada liputan media sekunder — sahkan terhadap jadual tarif rasmi Suruhanjaya Tenaga atau kalkulator myTNB."
-  - "Kadar Time-of-Use (puncak 28.52 / luar puncak 24.43 sen/kWj) serta tetingkap waktu puncak dan luar puncak — sahkan terhadap jadual ToU rasmi ST/TNB."
-  - "AFA berubah setiap bulan; -1.45 sen/kWj hanya sah untuk Ogos 2025 — pengguna perlu menyemak nilai bulan semasa yang diumumkan Suruhanjaya Tenaga."
-  - "Rebat Insentif Kecekapan Tenaga (EEI) sehingga 25 sen/kWj bagi penggunaan ≤1,000 kWj dan pengecualian Caj Runcit RM10 bagi ≤600 kWj — sahkan syarat dan kadar terhadap dokumen rasmi ST."
-  - "Had turun naik AFA ±3 sen/kWj sebulan — sahkan terhadap dokumen kawal selia RP4 rasmi."
+  - "详细的组成费率（容量费 4.55、网络费 12.85、能源费 27.03/37.03 sen/kWj）目前依赖二手媒体报道——请对照 Suruhanjaya Tenaga 的官方电价表或 myTNB 计算器核实。"
+  - "分时电价（高峰28.52／非高峰24.43 sen/kWj）以及高峰与非高峰时段——须对照ST／TNB官方ToU表核实。"
+  - "AFA每月变动；-1.45 sen/kWj仅适用于Ogos 2025——用户须查阅Suruhanjaya Tenaga公布的当月数值。"
+  - "能源效率奖励回扣（EEI）——用电量 ≤1,000 kWj 时最高 25 仙／kWj，以及用电量 ≤600 kWj 时豁免 RM10 的零售费——请对照 ST 官方文件核实其条件与费率。"
+  - "AFA 每月 ±3 sen/kWj 的波动上限 — 请对照官方 RP4 监管文件加以确认。"
 
 updated: 2026-08-01
 sources:

@@ -51,10 +51,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Whether the appointment of a Board of Inquiry (Lembaga Siasatan) and the emergency stop-strike power under s.44A remain with the Minister after the 2020 amendment, or were also transferred to the Director-General."
-  - "Exact current wording and subsection numbering of s.26 after the 2020 amendment (the referral power now vests in the Director-General; confirm whether the old s.26(1)/(2) joint-request vs own-motion structure was renumbered)."
-  - "That every section number and period cited (s.9(3) 21 days, s.9(4) 14 days, s.12A/12B, s.13(2) 90 days, s.13(4) 14 days, s.13(5) 30 days, s.14(2)(b) 3 years, s.16(1) 1 month, s.40(3) RM5,000, s.43 42/21 days, s.46 RM5,000 + RM50/day) matches the current consolidated Act 177 text, as the official PDF is image-based and could not be machine-verified line by line."
-  - "Trade Unions Act 1959 s.25A secret-ballot threshold (more than half of votes with at least 60% of eligible members voting) reflects the current in-force text after the 2022 amendments."
+  - "在2020年修订之后，委任调查委员会（Lembaga Siasatan）的权力及s.44A之下紧急停止罢工的权力是否仍归部长，抑或也一并转移给总监。"
+  - "s.26在2020年修订后的确切现行措辞与分节编号（转介权现归属于Director-General；须确认旧有s.26(1)/(2)联合请求与主动提起的结构是否已重新编号）。"
+  - "所引用的每一处条文编号与期限（s.9(3) 21 天、s.9(4) 14 天、s.12A/12B、s.13(2) 90 天、s.13(4) 14 天、s.13(5) 30 天、s.14(2)(b) 3 年、s.16(1) 1 个月、s.40(3) RM5,000、s.43 42/21 天、s.46 RM5,000 + RM50/天）是否与当前合订本 Act 177 的原文一致，因为官方 PDF 为图像格式，无法逐行机器核验。"
+  - "Trade Unions Act 1959 s.25A 的无记名投票门槛（过半数票且至少 60% 合资格会员参与投票）反映的是 2022 年修订后的现行有效条文。"
 
 updated: 2026-08-08
 sources:

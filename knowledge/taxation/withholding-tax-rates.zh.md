@@ -33,8 +33,8 @@ faq:
     a: "要。无论合约怎么写，义务都在付款人身上。凡付款人依合约承担该税，LHDN 在 Public Ruling 10/2019 中确认，自 2018 年 12 月 5 日起，s.109B 的税款按支付的总额计算，不作反算还原——但付款人所承担的税，在其自身账目中不可扣除。"
 
 verificationNeeded:
-  - "Form CP107D and its appendix CP107D(1) for the s.107D 2 per cent deduction could not be retrieved from any live hasil.gov.my path — the rate, threshold and remittance rule below come from the Act itself, not from the form"
-  - "Treaty rates for specific countries are not reproduced here — check each agreement on the LHDN DTA page, as reduced rates vary by article and by country"
+  - "用于 s.107D 2% 扣缴的 Form CP107D 及其附录 CP107D(1) 无法从任何现行的 hasil.gov.my 路径取得 — 下方的税率、门槛及汇缴规则来自该法令本身，而非来自该表格"
+  - "此处未复述具体国家的协定税率——请在LHDN DTA页面查阅每一份协定，因为优惠税率因条款及国家而异"
 
 obligations:
   - what: "缴交从付给非居民的款项中扣下的预扣税"

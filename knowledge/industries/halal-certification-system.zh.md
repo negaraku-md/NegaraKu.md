@@ -47,8 +47,8 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Rujukan kepada perintah subsidiari di bawah Akta Perihal Dagangan 2011 (takrifan halal serta pensijilan dan penandaan halal) — sahkan tajuk dan kandungan tepat terhadap teks perundangan rasmi sebelum menyatakannya semula secara spesifik."
-  - "Fi, tempoh sah laku dan prosedur diambil daripada Manual Prosedur Pensijilan Halal Malaysia (Domestik) 2020 — sahkan angka terkini melalui sistem MYeHALAL kerana JAKIM mengemas kini manual dari semasa ke semasa."
+  - "对Akta Perihal Dagangan 2011下附属法令（清真的定义以及清真认证与标示）的引用——在具体转述前，须根据官方法律文本核实确切的标题与内容。"
+  - "费用、有效期与程序取自《马来西亚清真认证程序手册（国内）2020》——请通过 MYeHALAL 系统核实最新数字，因为 JAKIM 会不时更新该手册。"
 revisions:
   - version: "01.00"
     date: 2026-07-28

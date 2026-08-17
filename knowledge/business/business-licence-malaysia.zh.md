@@ -39,7 +39,7 @@ faq:
     a: "不。《1956 年商业注册法令》依第 1(2) 条仅适用于马来西亚半岛,《1976 年地方政府法令》也不延伸至这两个婆罗洲州属。沙巴依《贸易发牌条例》(沙巴第 144 章)为经营活动发牌。砂拉越采用三项文书的结构——依第 64 章(1958 年版)的商号注册、依第 33 章(1958 年版)的贸易执照,以及一张议会营运执照。在这两州套用半岛清单会得出错误的答案。"
 
 verificationNeeded:
-  - "Whether any state has consolidated its trading and premise licensing into a single instrument since the most recent Modernising Business Licensing round"
+  - "自最近一轮 Modernising Business Licensing 以来，是否有任何州已将其营业执照与场所执照整合为单一文书"
 
 lang: "zh"
 masterLanguage: "en"

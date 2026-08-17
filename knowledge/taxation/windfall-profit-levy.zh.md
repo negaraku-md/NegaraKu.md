@@ -48,9 +48,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "The gazetted effective date of the Sabah & Sarawak rate increase from 1.5% to 3% (proposed under Budget 2022; confirm the P.U.(A) commencement date, not just the Budget announcement)."
-  - "Whether the RM3,150 / RM3,650 thresholds and 3% rate remain the operative figures as of the reader's date — proposals to cut the eastern-region rate back to 1.5% have been raised publicly and should be checked against the latest Order."
-  - "Statutory reference for the group-settlement-area carve-out (Land (Group Settlement Areas) Act 1960) as applied by the 2023 Order."
+  - "沙巴与砂拉越税率从 1.5% 上调至 3% 的刊宪生效日期（在 2022 年财政预算案中提出；请核实 P.U.(A) 的生效日期，而非仅是预算案公告）。"
+  - "截至读者所在日期，RM3,150 / RM3,650 门槛与 3% 税率是否仍为现行数字——公开有人提议将东部地区税率下调回 1.5%，应对照最新的法令核实。"
+  - "2023 年命令所适用的集体安置区豁免的法定引注（Land (Group Settlement Areas) Act 1960）。"
 updated: 2026-08-07
 sources:
   - title: "Windfall Profit Levy Act 1998 (Act 592) — s.1(2): the Act came into operation on 1 January 1999"

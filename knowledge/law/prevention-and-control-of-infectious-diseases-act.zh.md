@@ -41,8 +41,8 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Label item COVID-19 dalam teks warta Bahasa Melayu Jadual Pertama (teks kemas kini bahasa Inggeris terbitan Pejabat Peguam Negara memberi item 3A; sesetengah rujukan menyebut 17A bagi susunan abjad teks Melayu). Sahkan penomboran teks Melayu sebelum terbit."
-  - "Status penguatkuasaan pindaan 2024 (sama ada telah diwartakan dan berkuat kuasa). Kadar penalti operasi terkini bergantung pada tarikh kuat kuasa instrumen berkenaan."
+  - "COVID-19 在 Jadual Pertama 马来文宪报文本中的项目标号（总检察署发布的英文更新文本给出 item 3A；某些参考资料就马来文文本的字母顺序提到 17A）。发布前请核实马来文文本的编号。"
+  - "2024年修订的实施状态（是否已宪报并生效）。当前实际适用的罚则取决于相关文书的生效日期。"
 revisions:
   - version: "01.00"
     date: 2026-08-07

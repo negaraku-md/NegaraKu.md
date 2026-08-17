@@ -45,10 +45,10 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Budget 2025 figures for MSPO support: the specific ringgit amounts (previously RM65m total / RM50m for certification / RM15m for anti-campaign work) were removed because no cited source substantiated them. Reconfirm against the official Budget 2025 documents or an MPOB/Ministry statement before restoring any figure."
-  - "The downstream licence-renewal claim (MPOB Licensing Enforcement Circular 02/2025, the MS2530-4-3:2022 standard reference, and a 1 January 2026 effective date) currently rests on a compliance-consultancy blog, not an MPOB primary source. Confirm the circular number, standard code and effective date against an official MPOB circular."
-  - "Reconcile the Minister's 'more than half a million smallholders' with the 210,891 figure for licensed independent smallholders — these appear to count different populations (all smallholders vs licensed independents)."
-  - "EU wording: the EEAS joint statement uses 'credible sustainability scheme'; the MSPO press release uses 'credible sustainability standard'. Confirm preferred phrasing."
+  - "支持 MSPO 的 Budget 2025 数字：具体的令吉金额（此前为总额 RM65m／认证 RM50m／反抵制工作 RM15m）已被移除，因为没有所引用的来源能够佐证。恢复任何数字之前，请对照官方 Budget 2025 文件或 MPOB／部门声明重新确认。"
+  - "有关下游执照续期的说法（MPOB Licensing Enforcement Circular 02/2025、MS2530-4-3:2022标准引用，以及1 January 2026的生效日期）目前依据的是一个合规咨询博客，而非MPOB的一手来源。请对照MPOB官方通告确认通告编号、标准代码与生效日期。"
+  - "请协调部长所称「逾五十万名小农」与持牌独立小农210,891这一数字之间的差异——两者似乎统计的是不同群体（全体小农对持牌独立小农）。"
+  - "欧盟措辞：EEAS 联合声明使用「credible sustainability scheme」；MSPO 新闻稿使用「credible sustainability standard」。请确认首选措辞。"
 revisions:
   - version: "01.00"
     date: 2026-07-28

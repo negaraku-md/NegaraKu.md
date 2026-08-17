@@ -44,9 +44,9 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Tarikh tepat penubuhan Jawatankuasa Putrajaya untuk Prestasi Tinggi GLC (PCG) dan sebarang tarikh pelancaran rasmi GLCTP pada 2005 — sumber Khazanah yang dipetik hanya mengesahkan pelancaran/pengumuman pada 14 Mei 2004; dakwaan '29 Julai 2005' dan 'Januari 2005' telah dibuang kerana tidak dapat disahkan."
-  - "Klasifikasi sensitiviti: frontmatter ditetapkan 'none' mengikut piawaian, tetapi artikel menyentuh Dasar Ekonomi Baru, peristiwa 1969 dan ekuiti Bumiputera; semakan editorial manusia patut menilai semula sama ada 'none' sesuai."
-  - "Angka semasa GEAR-uP (RM11 bilion digerakkan, RM22 bilion dikenal pasti, ikrar RM25 bilion) adalah setakat 30 Jun 2025; sahkan kemas kini terbaru terus daripada siaran MOF sebelum dipetik."
+  - "布城 GLC 高绩效委员会（PCG）的确切成立日期，以及 GLCTP 在 2005 年任何正式启动日期——所引用的 Khazanah 来源仅证实了 2004 年 5 月 14 日的启动／公布；「2005 年 7 月 29 日」及「2005 年 1 月」的说法因无法证实已予删除。"
+  - "敏感度分类：frontmatter 依标准设为「none」，但文章触及新经济政策（Dasar Ekonomi Baru）、1969 年事件及土著（Bumiputera）股权；人工编辑审查应重新评估「none」是否合适。"
+  - "GEAR-uP的当前数字（已动用RM11 bilion、已识别RM22 bilion、承诺RM25 bilion）为截至30 Jun 2025的数据；引用前请直接根据MOF的发布确认最新更新。"
 revisions:
   - version: "01.00"
     date: 2026-07-28

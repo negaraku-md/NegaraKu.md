@@ -51,10 +51,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Kekerapan tahunan pemeriksaan e-hailing perlu disahkan terus dengan garis panduan rasmi PUSPAKOM (Garis Panduan Pemeriksaan E-Hailing dalam bentuk PDF imbasan tidak dapat dibaca automatik; kini disandarkan pada Paul Tan dan Grab)."
-  - "Sama ada ambang 'tiga tahun ke atas' dikira dari tarikh pendaftaran atau tahun pembuatan."
-  - "Butiran kompaun/saman JPJ di bawah Akta Pengangkutan Jalan 1987 (tiada nombor seksyen atau jumlah RM disahkan dari sumber primer)."
-  - "Kod pemeriksaan tepat (B1, B3, B4) yang tidak ditakrifkan dalam sumber yang disemak; jadual hanya meliputi kod yang disahkan (B2, B5, B6, B7)."
+  - "e-hailing 车辆每年检验的频率需直接对照 PUSPAKOM 官方指南核实（《e-Hailing 检验指南》为扫描版 PDF，无法自动读取；目前依据 Paul Tan 与 Grab）。"
+  - "「三年及以上」的门槛是从注册日期还是制造年份起算。"
+  - "根据Akta Pengangkutan Jalan 1987的JPJ罚款／传票细节（没有从一手来源确认的条文编号或RM金额）。"
+  - "确切的检验代码（B1、B3、B4）在所审查的来源中未有定义；表格只涵盖已确认的代码（B2、B5、B6、B7）。"
 
 updated: 2026-08-08
 sources:

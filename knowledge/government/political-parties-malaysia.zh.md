@@ -33,11 +33,11 @@ faq:
     a: "它指的是在2022年第15届全国大选后组成的联邦政府，由此前分开参选的一个以上政治阵营联合组成。选举结果产生悬峙国会后，最高元首呼吁组建团结政府，安华·依布拉欣依据宪法第40(2)(a)条及第43(2)(a)条于2022年11月24日出任第10任首相。"
 
 verificationNeeded:
-  - "Nombor seksyen khusus dalam badan halaman ini (takrif 'parti politik'; permohonan pendaftaran; pendaftaran dan penolakan; perakuan pendaftaran; pembatalan dan penggantungan) disemak terhadap teks Akta Pertubuhan 1966 yang diterbitkan oleh ICNL. Sahkan nombor seksyen tersebut terhadap teks warta rasmi Akta 832 (Disemak 2021) di portal Jabatan Peguam Negara, kerana sesuatu penyemakan undang-undang boleh menomborkan semula peruntukan."
-  - "Bilangan kerusi setiap gabungan dalam PRU15 dilaporkan dengan sedikit variasi antara sumber pada peringkat awal (contohnya Pakatan Harapan pernah dilaporkan 81 atau 82 kerusi) kerana beberapa kerusi ditangguhkan dan dikira kemudian. Angka yang dipaparkan di sini (PH 81) sepadan dengan papan keputusan rasmi MalaysiaNow; sahkan angka muktamad terhadap keputusan rasmi Suruhanjaya Pilihan Raya (SPR)."
-  - "Komposisi parti komponen bagi setiap gabungan berubah dari semasa ke semasa. Sahkan senarai komponen semasa terhadap pengumuman rasmi gabungan berkenaan dan daftar Pendaftar Pertubuhan."
-  - "Jabatan Pendaftaran Pertubuhan Malaysia (ROS) beroperasi di bawah kementerian yang bertanggungjawab bagi pertubuhan; sahkan kementerian penaung semasa terhadap laman rasmi ros.gov.my."
-  - "Tempoh sejarah setiap gabungan memerintah dan tahun penubuhan (contohnya bila Barisan Nasional memerintah di peringkat persekutuan, dan bila Perikatan Nasional ditubuhkan) tidak dinyatakan sebagai tarikh keras dalam halaman ini kerana tiada sumber utama disemak untuknya dalam pusingan ini. Tambah tarikh bersumber jika perlu."
+  - "本页正文中的具体条款编号（「政党」定义；注册申请；注册与拒绝；注册证书；注销与中止）是对照 ICNL 发布的 Akta Pertubuhan 1966 文本查核的。请在 Jabatan Peguam Negara 门户上对照 Akta 832（2021 年修订）的官方宪报文本核实这些条款编号，因为法律修订可能会对条文重新编号。"
+  - "PRU15中各阵营的议席数目在初期于不同来源之间有些许出入（例如Pakatan Harapan曾被报道为81或82席），因为部分议席延后并稍后才计入。此处显示的数字（PH 81）与MalaysiaNow官方计分板一致；须对照Suruhanjaya Pilihan Raya（SPR）的官方结果核实最终数字。"
+  - "各联盟成员党的构成会不时变动。须根据相关联盟的官方公告及社团注册官（Pendaftar Pertubuhan）的登记册核实当前的成员名单。"
+  - "马来西亚社团注册局（ROS）在主管社团事务的部门属下运作；请对照 ros.gov.my 官方网站核实当前的主管部门。"
+  - "各执政联盟的历史执政时期及成立年份（例如 Barisan Nasional 何时在联邦层级执政，以及 Perikatan Nasional 何时成立）在本页面中未以确切日期陈述，因为本轮没有为此查证主要来源。如有需要请补充有来源的日期。"
 
 lang: "zh"
 sourceContentHash: "71a255fc70d35340"

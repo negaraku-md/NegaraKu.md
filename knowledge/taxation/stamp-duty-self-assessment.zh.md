@@ -37,8 +37,8 @@ faq:
     a: "对于处在已启动的 STSDS 阶段之内的文书，报表本身即作出评估，没有另外的裁定步骤。对于仍在第二或第三阶段的文书，在该阶段开始前继续适用正式评估，因此仍是呈交文件、由 LHDN 按惯常方式发出评税通知书。"
 
 verificationNeeded:
-  - "The Stamp Duty Audit Framework (Rangka Kerja Audit Duti Setem) dated 1 January 2025 is referenced in LHDN's media release but the framework document itself was not retrieved, so its penalty and voluntary disclosure terms are not stated here"
-  - "The scope and conditions of the 2026 penalty remission programme under s.72D(3) are described in LHDN's operational guidelines but the enabling instrument was not read directly"
+  - "日期为2025年1月1日的Stamp Duty Audit Framework（Rangka Kerja Audit Duti Setem）在LHDN的媒体文告中被提及，但该框架文件本身未能取得，因此其罚则及自愿披露条款在此不作陈述"
+  - "s.72D(3)下2026年罚款减免计划的范围与条件在LHDN的作业指南中有说明，但相关授权法律文书未被直接查阅。"
 
 obligations:
   - what: "为应课印花税的文书加盖印花"

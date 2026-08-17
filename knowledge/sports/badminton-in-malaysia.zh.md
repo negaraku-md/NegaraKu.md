@@ -48,10 +48,10 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Tarikh tepat final Piala Thomas 1992 — dilembutkan kepada 'Mei 1992' kerana hari sebenar (kerap dinyatakan 16 Mei) tidak dibawa oleh mana-mana sumber yang dipetik; venue Stadium Negara disahkan oleh Tatler."
-  - "Identiti tiga pemain Malaysia yang menjuarai All England pada abad ini — sumber Tatler menyatakan 'ketiga' tetapi tidak menamakan mereka (dijangka Hafiz Hashim 2003, Lee Chong Wei, Lee Zii Jia)."
-  - "Pecahan penuh lima pingat emas Sukan Komanwel Lee Chong Wei (acara dan tahun tepat) — BAM mengesahkan jumlah lima emas tetapi tidak mengitemkan setiap acara."
-  - "Angka kemarau ('melebihi 32 tahun') berasal daripada petikan Rashid Sidek pada April 2024; setakat tarikh artikel (2026) ia lebih hampir 34 tahun."
+  - "1992年Piala Thomas决赛的确切日期——已弱化为「1992年5月」，因为实际日期（常被列为5月16日）并无任何所引来源支持；场地Stadium Negara由Tatler证实。"
+  - "本世纪夺得All England冠军的三名马来西亚球员的身份——Tatler来源提到「三人」但未点名（预计为Hafiz Hashim 2003、Lee Chong Wei、Lee Zii Jia）。"
+  - "Lee Chong Wei 五枚英联邦运动会（Sukan Komanwel）金牌的完整明细（确切项目与年份）——BAM 证实了五金总数，但未逐项列出每个项目。"
+  - "「超过 32 年」的荒旱期数字源自 Rashid Sidek 在 2024 年 4 月的引述；截至文章日期（2026 年），它更接近 34 年。"
 revisions:
   - version: "01.00"
     date: 2026-08-01

@@ -38,8 +38,8 @@ faq:
     a: "适用。Part IX 不在 First Schedule paragraph 1A 排除适用的六项条文之内，那六项只涵盖 ss.60(3)、60A(3)、60C(2A)、60D(3)、60D(4) 与 s.60J。真正的排除对象是家庭雇员，paragraph 2(5) 对他们完全排除 Part IX 的适用。"
 
 verificationNeeded:
-  - "Confirm whether SOCSO or any other scheme currently funds any part of the maternity allowance for private-sector employees, against perkeso.gov.my"
-  - "Confirm the prescribed form of the s.44 register of maternity allowances against the regulations in force"
+  - "请对照perkeso.gov.my核实SOCSO或任何其他计划目前是否为私营领域雇员的产假津贴提供任何部分的资助。"
+  - "请对照现行有效的法规核实 s.44 生育津贴登记册的指定表格"
 
 obligations:
   - what: "以与薪金相同的方式支付产假津贴"

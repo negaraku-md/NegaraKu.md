@@ -41,12 +41,12 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Exact effective/gazette date of the 2023 rename — the Cabinet decision was reported as 5 April 2023 while some sources cite 12 April 2023 as effective; the precise gazette date was not confirmed against a primary instrument."
-  - "Exact appointment/gazette dates for the current Minister (Johari Abdul Ghani) and Deputy Minister (Sim Tze Tzin) from the December 2025 reshuffle."
-  - "The definitive current count and full official list of agencies under MITI — sources vary between roughly 8 and 14 entities and some shift over time."
-  - "NIMP 2030 official launch date and headline targets."
-  - "Current employee/staff headcount (the dated 2017 figure of 959 was not used)."
-  - "Everyday public touchpoints often attributed to MITI (Certificate of Origin endorsement, Approved Permit applications) were not confirmed against a primary source in the pack and are therefore omitted from the body."
+  - "2023 年更名确切的生效／刊宪日期——内阁决定据报道为 2023 年 4 月 5 日，而部分来源引用 2023 年 4 月 12 日为生效日；确切的刊宪日期未对照一手文书确认。"
+  - "现任部长（Johari Abdul Ghani）及副部长（Sim Tze Tzin）在 2025 年 12 月改组中的确切委任／宪报日期。"
+  - "MITI 属下机构的确切当前数目及完整官方名单——各来源在约 8 至 14 个实体之间不一，且部分会随时间变动。"
+  - "NIMP 2030 的官方推出日期与主要目标。"
+  - "当前的员工/职员人数（未采用 2017 年的旧数字 959）。"
+  - "常被归于 MITI 的日常公众接触点（原产地证书背书、Approved Permit 申请）未在资料包中对照第一手来源核实，因此从正文中略去。"
 updated: 2026-08-14
 sources:
   - title: "Ministry of Investment, Trade and Industry (Malaysia)"

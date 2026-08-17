@@ -46,10 +46,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Yuran lesen kasino tahunan RM150 juta (daripada RM120 juta) dan yuran lesen pengedar mesin RM50,000 (daripada RM10,000) — sahkan terhadap warta / Akta Kewangan Bajet 2019."
-  - "Sahkan tiada kenaikan kadar duti kasino, mesin permainan, atau pertaruhan pool dalam mana-mana bajet selepas 2019."
-  - "Sumbangan 10% keuntungan sebelum cukai kepada Majlis Sukan Negara — sahkan asas statutori semasa."
-  - "Pecahan tiket Sports Toto RM2 (16 sen, 14.72 sen, RM1.10, 4.39 sen SST) ialah satu contoh; nilai sebenar boleh berbeza mengikut permainan dan cabutan."
+  - "赌场年度牌照费RM150 juta（由RM120 juta调整）以及机台经销商牌照费RM50,000（由RM10,000调整）——请对照宪报／Akta Kewangan Bajet 2019确认。"
+  - "请核实在2019年之后的任何财政预算案中，赌场、博彩机或彩池投注的税率均无上调。"
+  - "向国家体育理事会（Majlis Sukan Negara）缴纳税前利润的 10% 捐款——请核实现行的法定依据。"
+  - "Sports Toto RM2 彩票的细分（16 sen、14.72 sen、RM1.10、4.39 sen SST）只是一个示例；实际数值可能因游戏及开彩而异。"
 
 updated: 2026-08-07
 sources:

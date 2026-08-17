@@ -40,10 +40,10 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Exact current internal division structure of JPDP (Malay sources cite Bahagian Pendaftaran dan Operasi, Bahagian Pemantauan, Bahagian Perundangan under a Ketua Pengarah / Timbalan Ketua Pengarah) — confirm against the live pdp.gov.my organisation chart."
-  - "Exact section-to-date mapping of the phased 2025 commencement (which sections took effect 1 Jan vs 1 Apr vs 1 June 2025) — confirm against the official commencement-date gazette on pdp.gov.my."
-  - "Current data-user registration fee range and certificate validity period — verify against the current SPDP portal / Registration Regulations."
-  - "Latest published enforcement statistics (registrations, complaints, actions) — not yet located from a primary DOSM/JPDP source."
+  - "JPDP 当前的确切内部部门架构（马来文来源引述在总监（Ketua Pengarah）／副总监（Timbalan Ketua Pengarah）之下设有 Bahagian Pendaftaran dan Operasi、Bahagian Pemantauan、Bahagian Perundangan）——请对照 pdp.gov.my 的现行组织架构图核实。"
+  - "2025 年分阶段生效的确切条文对应日期（哪些条文于 2025 年 1 月 1 日、4 月 1 日或 6 月 1 日生效）— 请对照 pdp.gov.my 上的官方生效日期宪报加以确认。"
+  - "当前数据使用者的注册费用范围与证书有效期——请对照当前的SPDP门户／Registration Regulations核实。"
+  - "最新公布的执法统计数据（注册、投诉、行动）——尚未从DOSM/JPDP原始来源找到。"
 updated: 2026-08-14
 sources:
   - title: "Personal Data Protection Department (JPDP) — official page"

@@ -47,10 +47,10 @@ revisions:
 updated: 2026-07-28
 
 verificationNeeded:
-  - "Panjang tepat Lebuh Raya Utara-Selatan dalam km — sumber tidak konsisten (772 km berbanding 848 km) dan tiada sumber primer/berautoriti yang disahkan; figura km khusus telah dikeluarkan sementara menunggu pengesahan."
-  - "Tarikh pengenalan pertama kad Touch 'n Go — sumber rasmi Touch 'n Go hanya mengesahkan tahun 1997, bukan tarikh (hari/bulan) tepat."
-  - "Sebarang butiran integrasi MyPLUS / MYJalan (KKR) dan tahunnya — dakwaan produk-dan-tarikh telah dikeluarkan kerana tiada sumber; sahkan sebelum ditambah semula."
-  - "Pecahan pengurangan tol 18% mengikut setiap lebuh raya — contoh sen/km (13.6 kepada 11.15) yang disumberkan hanya untuk Lebuh Raya Utara-Selatan."
+  - "南北大道（Lebuh Raya Utara-Selatan）以公里计的确切长度 — 各来源并不一致（772 km 对比 848 km），且没有经确认的原始／权威来源；具体公里数已暂时移除，等待确认。"
+  - "Touch 'n Go卡首次推出的日期——Touch 'n Go的官方来源仅确认为1997年，而非确切日期（日／月）。"
+  - "有关MyPLUS／MYJalan（KKR）整合的任何细节及其年份——因缺乏来源，产品与日期的说法已被删除；重新加入前请先核实。"
+  - "18% 过路费下调按各条高速公路的细分——所引用的每公里仙数示例（13.6 降至 11.15）仅针对南北大道（Lebuh Raya Utara-Selatan）。"
 
 sources:
   - title: "PLUS Malaysia Berhad — Korporat"

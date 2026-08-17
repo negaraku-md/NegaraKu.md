@@ -36,8 +36,8 @@ faq:
     a: "解雇与临时解雇福利由 Employment Act 1955 第 s.60J 条之下所订立的条例规定，而 s.60J 正是 First Schedule 第 1A 段在月薪超过 RM4,000 时不适用的六项条文之一。若该固定期限属真实且已期满，一般立场是期满时不产生解雇福利；若该合约被重新定性为长期雇佣、而雇员实际上被裁员，则该福利制度即启动。在支付或拒绝之前，请先在条例中确认计算公式与资格条件。"
 
 verificationNeeded:
-  - "Confirm the leading appellate authority on recharacterisation of fixed-term contracts and the factors applied, against reported judgments"
-  - "Confirm the current text and qualifying conditions of the Employment (Termination and Lay-Off Benefits) Regulations 1980 as they apply to expiry of a fixed term"
+  - "请对照已报道的判决，确认关于定期合约重新定性的主要上诉审判例及其所适用的因素"
+  - "请核实Employment (Termination and Lay-Off Benefits) Regulations 1980适用于定期合约期满时的现行文本及资格条件。"
 
 lang: "zh"
 masterLanguage: "en"

@@ -42,10 +42,10 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Angka jualan RM122 juta (1 Sept–18 Okt 2021) dan pecahan 368 lokasi adalah petikan akhbar 2021 — bukan data terkini; sahkan sama ada FAMA menerbitkan angka rasmi terkini sebelum digunakan sebagai statistik semasa."
-  - "Komponen lokasi yang disenaraikan (35 pasar tani kekal, 266 pasar tani, 19 gerai buah segar, 5 Agrobazaar, 5 pasar tamu) berjumlah 330, tidak 368; sumber sendiri melaporkan jurang ini. Perkataan 'termasuk' menandakan senarai separa — sahkan pecahan penuh dengan FAMA jika angka tepat diperlukan."
-  - "Bilangan tepat, lokasi dan waktu operasi outlet (Pasar Tani Kekal, My Farm Outlet, Agrobazaar, GBBS) berubah dari semasa ke semasa; sahkan di fama.gov.my pada tarikh penerbitan."
-  - "Tajuk, tahun kuat kuasa dan rujukan P.U.(A) peraturan subsidiari perlu disemak semula terhadap teks warta rasmi (bukan ringkasan laman FAMA) sebelum sebarang penggunaan undang-undang."
+  - "RM122 juta 的销售额（2021 年 9 月 1 日至 10 月 18 日）以及 368 个地点的细分数据出自 2021 年的新闻报道——并非最新数据；在作为当前统计使用前，请确认 FAMA 是否已发布更新的官方数字。"
+  - "所列各类地点（35 个常设农民市场、266 个农民市场、19 个鲜果摊位、5 个 Agrobazaar、5 个 pasar tamu）合计为 330 而非 368；来源本身也报告了这一差距。「包括」一词表明这是不完整的清单——若需要精确数字，请向 FAMA 核实完整明细。"
+  - "各门市（Pasar Tani Kekal、My Farm Outlet、Agrobazaar、GBBS）的确切数量、地点和营业时间会不时变动；请在发布日期于 fama.gov.my 核实。"
+  - "附属法规的标题、生效年份及 P.U.(A) 引注，须在任何法律用途之前，对照官方宪报文本（而非 FAMA 网站摘要）重新查核。"
 revisions:
   - version: "01.00"
     date: 2026-08-01

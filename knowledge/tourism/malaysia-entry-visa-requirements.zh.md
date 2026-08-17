@@ -42,7 +42,7 @@ translationStatus: "in-sync"
 sourceContentHash: "cdbee74bde6667f6"
 
 verificationNeeded:
-  - "Whether a blank passport page is formally required for entry (not stated on the cited MIDA source)."
+  - "入境是否正式要求护照留有空白页（所引用的 MIDA 来源未说明）。"
 
 status: "published"
 publishedBy: "ashton-tan"

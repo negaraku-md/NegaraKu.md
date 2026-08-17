@@ -46,10 +46,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Status tadbir urus rasmi Peta Jalan 2018-2030 — dokumen roadmap sendiri tidak menyebut kelulusan Kabinet; sahkan sama ada ia diluluskan Kabinet dan tarikhnya."
-  - "Status semasa skim EPR: adakah ia benar-benar menjadi mandatori bagi pembungkusan plastik pada 2026 seperti disasarkan (tarikh kini telah tiba)."
-  - "Kadar caj beg plastik semasa mengikut negeri, melebihi minimum 20 sen (kadar berubah dari semasa ke semasa)."
-  - "Sama ada sasaran interim 2025/2030 dan sasaran 100% menjelang 2050 masih kekal di bawah Kementerian Sumber Asli dan Kelestarian Alam (NRES)."
+  - "Peta Jalan 2018-2030 的官方管治地位——路线图文件本身并未提及内阁批准；请确认它是否获内阁批准及其日期。"
+  - "EPR 计划的当前状态：它是否真的如目标所定在 2026 年成为塑料包装的强制要求（该日期现已到来）。"
+  - "各州目前的塑料袋收费费率，高于 20 sen 的最低标准（费率会不时变动）。"
+  - "2025/2030 年的中期目标及 2050 年前 100% 的目标，在 Kementerian Sumber Asli dan Kelestarian Alam（NRES）之下是否仍然维持。"
 
 updated: 2026-07-28
 sources:

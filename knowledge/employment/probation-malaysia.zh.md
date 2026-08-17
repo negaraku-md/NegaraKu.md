@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "设有试用期的雇主，以及被辞退的试用期雇员。"
 
 verificationNeeded:
-  - "Confirm the leading appellate authority on probationer dismissal and on deemed confirmation by conduct against reported judgments"
+  - "请对照已报道的判决，核实关于试用期员工解雇及以行为视为转正的主要上诉法院判例。"
 
 lang: "zh"
 masterLanguage: "en"

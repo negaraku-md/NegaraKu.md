@@ -51,9 +51,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Whether Malaysian statutory financial statements and the SSM MBRS submission are legally required to be presented in Ringgit Malaysia (no Companies Act 2016 / MBRS clause was located; MASB material only confirms the MYR-presentation scenario exists, not a statutory mandate)."
-  - "Verbatim paragraph text of MFRS 121 (paras 9, 10, 11, 38, 39) against the current MASB compiled standard BV2021CR_MFRS121.pdf — cited but not machine-readable via automated fetch; paragraph 39 wording was cross-checked against the official IFRS IAS 21 text, which MASB adopts verbatim."
-  - "The Inland Revenue Board's 24 July 2015 foreign-exchange guidelines against the primary LHDN PDF (hasil.gov.my was unreachable at drafting; tax points currently rest on The Edge Malaysia's report of that guidance)."
+  - "马来西亚法定财务报表及 SSM MBRS 呈报是否在法律上必须以令吉（Ringgit Malaysia）呈列（未能找到 Companies Act 2016 / MBRS 相关条文；MASB 资料仅确认存在以 MYR 呈列的情形，而非法定强制要求）。"
+  - "MFRS 121（第 9、10、11、38、39 段）的逐字段落文本需对照现行 MASB 编纂标准 BV2021CR_MFRS121.pdf 核对——已引用但无法通过自动抓取机器读取；第 39 段的措辞已对照官方 IFRS IAS 21 文本交叉核对，MASB 逐字采纳该文本。"
+  - "须将内陆税收局2015年7月24日的外汇指南与LHDN原始PDF核对（撰稿时hasil.gov.my无法访问；相关税务要点目前依据The Edge Malaysia对该指南的报道）。"
 
 updated: 2026-08-08
 sources:

@@ -51,9 +51,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Jumlah tepat Jawatankuasa Peguam Negeri (State Bar Committees) di Semenanjung — senarai rasmi Majlis Peguam berkunci log masuk; angka 'dua belas' tidak dapat disahkan dan telah dibuang."
-  - "Nombor seksyen sokongan yang tidak dipetik secara langsung dalam ringkasan sumber rasmi — s.4, s.10-12, s.28, s.29/32, s.36/37, s.40J, s.103A, s.103C, s.103E — perlu disahkan terhadap teks Akta yang terkini."
-  - "Tahun dan petikan tepat Ordinan Peguam (Advocates Ordinance) 1953 bagi Sabah dan Sarawak (rujukan Cap.) — sahkan setiap satu terhadap teks ordinan."
+  - "半岛各州律师委员会（State Bar Committees）的确切数目——Majlis Peguam的官方名单需登录才能查阅；「十二」这个数字无法证实，已被删除。"
+  - "在官方来源摘要中未直接引用的佐证条文编号——s.4、s.10-12、s.28、s.29/32、s.36/37、s.40J、s.103A、s.103C、s.103E——须根据最新的法令文本核实。"
+  - "沙巴与砂拉越的律师法令（Advocates Ordinance）1953 的确切年份与引证（Cap. 编号）——请逐一对照该法令原文核实。"
 updated: 2026-08-07
 sources:
   - title: "Legal Profession Act 1976 (as at 1 August 2018)"

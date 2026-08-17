@@ -46,10 +46,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Teks rasmi Ordinan Pengagihan Gas 2016 dan Ordinan Pengagihan Gas (Pindaan) 2023 untuk mengesahkan tarikh penggubalan, tarikh kuat kuasa (1 Julai 2018), dan skop peranan agregator Petros."
-  - "Sama ada hujah Sarawak bahawa PDA 1974 diluluskan dalam kerangka Ordinan Darurat 1969 (dimansuhkan 2011) merupakan pendirian rasmi kerajaan negeri atau tafsiran yang dilaporkan media; sahkan dengan kenyataan rasmi Kerajaan Sarawak."
-  - "Butiran akhir perjanjian komersial Petronas–Petros dan status pengecualian LNG pada tarikh penerbitan."
-  - "Status terkini sebarang prosiding atau cabaran undang-undang antara Petronas dan Petros selepas Mac 2025."
+  - "Ordinan Pengagihan Gas 2016 及 Ordinan Pengagihan Gas (Pindaan) 2023 的官方原文，用以核实制定日期、生效日期（2018 年 7 月 1 日）及 Petros 作为聚合者角色的范围。"
+  - "砂拉越关于 PDA 1974 是在 Ordinan Darurat 1969（已于 2011 年废除）框架下通过的这一论点，究竟是州政府的官方立场还是媒体报道的诠释；请以砂拉越州政府的官方声明加以确认。"
+  - "截至发布之日，Petronas–Petros商业协议的最终细节以及LNG豁免的状态。"
+  - "2025年3月之后Petronas与Petros之间任何诉讼程序或法律挑战的最新状况。"
 
 updated: 2026-08-01
 sources:

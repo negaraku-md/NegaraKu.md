@@ -48,10 +48,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Whether additional cyber security service categories beyond managed SOC monitoring and penetration testing have been designated as regulated under subsequent regulations to Act 854."
-  - "The specific CyberSecurity Malaysia service lines listed in the services table (digital forensics laboratory, ISMS and Common Criteria certification, MySEF, CyberGuru training) — confirm each against the current CyberSecurity Malaysia corporate/services pages, as they were not individually re-fetched in this pass."
-  - "Current, live Cyber999 reporting channels (online form and mobile app) — confirm against cybersecurity.my / mycert.org.my before publication."
-  - "That NACSA remains located at the Perdana Putra building, Putrajaya."
+  - "除托管 SOC 监控及渗透测试外，是否有其他网络安全服务类别已根据 Act 854 的后续条例被列为受监管。"
+  - "服务表中所列 CyberSecurity Malaysia 的具体服务线（数字取证实验室、ISMS 与 Common Criteria 认证、MySEF、CyberGuru 培训）——请逐一对照 CyberSecurity Malaysia 当前的公司／服务页面核实，因为本轮并未逐项重新抓取。"
+  - "Cyber999 目前实际有效的举报渠道（在线表格与移动应用）——发布前请对照 cybersecurity.my / mycert.org.my 核实。"
+  - "NACSA 是否仍设于布城的 Perdana Putra 大厦。"
 
 updated: 2026-08-01
 sources:

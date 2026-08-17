@@ -47,8 +47,8 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "The exact FIED submission email address and postal channel — confirm against BNM's current 'Reporting to BNM' page before publishing (the specific address was not reproduced here)."
-  - "The mapping of specific AMLA section numbers to each duty (STR, CDD, record keeping) — deliberately omitted; confirm against the primary Act text before adding."
+  - "FIED 提交的确切电子邮件地址与邮寄渠道——发布前请对照 BNM 当前的「Reporting to BNM」页面核实（此处未复述具体地址）。"
+  - "将具体 AMLA 条文编号对应到各项义务（STR、CDD、记录保存）— 此处刻意略去；添加前请对照原始法令条文加以确认。"
 updated: 2026-08-07
 sources:
   - title: "AML/CFT/CPF and TFS for DNFBPs and NBFIs (policy document, issued 5 February 2024)"

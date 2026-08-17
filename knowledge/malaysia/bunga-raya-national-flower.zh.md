@@ -45,10 +45,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Pilihan rakyat mengikut wilayah bercanggah antara sumber rasmi: malaysia.gov.my menyebut penduduk Pantai Timur cenderung kepada bunga raya, manakala MKN menyebut mereka cenderung kepada bunga mawar (kedua-dua sumber setuju Pantai Barat cenderung kepada bunga melur). Kekal umum sehingga disahkan manusia."
-  - "Penggunaan imej bunga raya pada duit syiling, dokumen rasmi, atau artifak tertentu tidak dapat disahkan daripada mana-mana sumber rasmi yang dibuka; perlu pengesahan sebelum dinyatakan secara khusus."
-  - "Maksud warna merah (keberanian serta keteguhan politik dan ekonomi) disandarkan hanya kepada satu sumber (UPM); wajar disahkan silang dengan sumber rasmi lain."
-  - "Perkaitan lima kelopak dengan lima prinsip Rukun Negara ialah lambang yang dibina kemudian (Rukun Negara diisytiharkan 1970, sepuluh tahun selepas pemilihan bunga); pastikan pembingkaian ini kekal jelas."
+  - "按地区划分的民众偏好在官方来源之间相互矛盾：malaysia.gov.my 称东海岸居民倾向于大红花，而 MKN 称他们倾向于玫瑰（两个来源都同意西海岸倾向于茉莉花）。在人工确认之前保持笼统表述。"
+  - "木槿花图像在硬币、官方文件或特定文物上的使用，无法从任何已查阅的官方来源获得证实；在具体陈述之前需要核实。"
+  - "红色的含义（勇气以及政治与经济上的坚定）仅依据单一来源（UPM）；宜与其他官方来源交叉核实。"
+  - "将五片花瓣与 Rukun Negara 五项原则相联系，是后来构建的象征意义（Rukun Negara 于 1970 年宣布，在选定此花十年之后）；请确保这一表述框架保持清晰。"
 
 updated: 2026-08-08
 sources:

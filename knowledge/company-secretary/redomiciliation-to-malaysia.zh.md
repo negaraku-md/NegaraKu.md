@@ -46,10 +46,10 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Current Labuan FSA processing time for a section 16 application and any name-reservation holding period — no authoritative published figure was located; confirm with a licensed Labuan trust company and Labuan FSA."
-  - "Current prescribed fees for the section 16 registration and the section 17 approval-in-principle."
-  - "Whether the applicant's home jurisdiction permits outward continuance / redomiciliation — this is jurisdiction-specific and must be confirmed case by case."
-  - "The section 16, 17 and 133 text was line-verified against the InvestMalaysia and Labuan FSA published PDFs of Act 441; confirm against the latest in-force reprint before publishing."
+  - "Labuan FSA当前处理section 16申请的时间以及任何名称保留的保留期——未找到权威公布的数字；请向持牌的Labuan信托公司及Labuan FSA核实。"
+  - "section 16 注册与 section 17 原则性批准的现行规定费用。"
+  - "申请人的原属司法管辖区是否允许对外延续／迁册——这因司法管辖区而异，须逐案确认。"
+  - "第 16、17 及 133 条的文本已对照 InvestMalaysia 与 Labuan FSA 公布的 Act 441 PDF 逐行核对；发布前请再对照最新的现行重印本核实。"
 revisions:
   - version: "01.00"
     date: 2026-08-07

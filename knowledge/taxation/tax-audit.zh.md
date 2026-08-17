@@ -38,7 +38,7 @@ faq:
     a: "该框架订下自稽查开始起算的案件了结期：税务或雇主稽查 90 个日历日；预扣税稽查对付款人 90 天、对收款人 180 天；金融与保险各类别 90 至 240 天；石油 450 天。凡需要向其他方作进一步确认的，这些期限不适用。"
 
 verificationNeeded:
-  - "Confirm whether LHDN has published a separate Dispute Resolution Department or Dispute Resolution Proceedings guideline — the previously circulated URL is dead after the portal migration and the 2025 audit framework does not mention the department"
+  - "请核实 LHDN 是否发布了单独的争议解决部门（Dispute Resolution Department）或争议解决程序（Dispute Resolution Proceedings）指引——先前流传的 URL 在门户迁移后已失效，且 2025 年审计框架未提及该部门"
 
 obligations:
   - what: "回复 Surat Memohon Dokumen dan Maklumat"

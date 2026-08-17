@@ -41,8 +41,8 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Ambang pelaporan NADOPOD 2004 (lebih 4 hari tidak dapat bekerja) — sahkan terhadap teks peraturan rasmi, bukan panduan sekunder."
-  - "Skop kewajipan Seksyen 16 (polisi keselamatan bertulis) dan sama ada terpakai ambang bilangan pekerja tertentu."
+  - "NADOPOD 2004 的通报门槛（超过 4 天无法工作）——请对照官方法规文本核实，而非二手指南。"
+  - "Seksyen 16 义务（书面安全政策）的范围，以及是否适用某一员工人数门槛。"
 revisions:
   - version: "01.00"
     date: 2026-08-07

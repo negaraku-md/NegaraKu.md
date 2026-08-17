@@ -36,8 +36,8 @@ faq:
     a: "s.25(1) 要求所赚取薪金的全部金额，扣除合法扣款后，须存入由金融机构以雇员名义开立的账户，或按雇员指定以雇员与他人联名开立的账户。规定以现金支付的合约条款较此为不利，并不能取代该条文。"
 
 verificationNeeded:
-  - "Confirm the current judicial approach to s.75 Contracts Act 1950 on training bonds against reported appellate authority"
-  - "Confirm whether the Director General has issued any exemption or general permission under s.24(7) that changes the deduction categories in practice"
+  - "请对照已报道的上诉法院判例，核实法院目前对 s.75 Contracts Act 1950 就培训服务契约的处理立场。"
+  - "须确认总监是否曾依据s.24(7)发出任何在实务上改变扣除类别的豁免或一般许可"
 
 obligations:
   - what: "发出载有终止条款的书面 contract of service"

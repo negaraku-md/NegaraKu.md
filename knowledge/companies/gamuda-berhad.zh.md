@@ -43,10 +43,10 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "FY2025 revenue is reported as RM15.97 billion (+20%) by The Star and Gamuda's own results release, but some outlets cite a ~RM16.4 billion group revenue figure. Confirm which basis (statutory revenue vs. including share of joint ventures/associates) the final article should use."
-  - "The Xizhi Donghu MRT table row shows the full RM4.3 billion contract value for consistency with the Australian rows; Gamuda's 75% joint-venture share is about RM3.2 billion. Confirm which basis a human editor prefers to present."
-  - "Gamuda's earlier Taiwan metro track record: the October 2024 press release calls Xizhi Donghu its 'biggest win to date in Taiwan,' confirming prior wins, but does not state when that track record began. The removed 'early 2000s' start date is unverified and should be confirmed before re-adding."
-  - "The autonomous TBMs cited for Sydney Metro West were deployed on the earlier Western Tunnelling Package (awarded 2022), a different package from the Stations Package West row (A$2.7 billion) in the table. Confirm the two are not conflated in the final copy."
+  - "The Star 及 Gamuda 自己的业绩发布将 FY2025 营收报告为 RM15.97 billion（+20%），但部分媒体引用约 RM16.4 billion 的集团营收数字。请确认最终文章应采用哪一口径（法定营收，还是包含合营企业／联营公司应占份额）。"
+  - "表中 Xizhi Donghu MRT 一行显示的是 RM4.3 billion 的完整合约价值，以与澳大利亚各行保持一致；Gamuda 在合资企业中 75% 的份额约为 RM3.2 billion。请确认人工编辑倾向以哪种口径呈现。"
+  - "Gamuda 早年在台湾捷运的业绩记录：2024 年 10 月的新闻稿称 Xizhi Donghu 案为其「迄今在台湾最大的中标」，证实此前已有中标，但并未说明该业绩记录始于何时。已删除的「2000 年代初」起始日期未经证实，重新加入前应先核实。"
+  - "就 Sydney Metro West 所引述的自动化 TBM 是部署于较早的 Western Tunnelling Package（2022 年批出），与表中 Stations Package West 一行（A$2.7 billion）是不同的配套。请确认最终文稿中未将两者混为一谈。"
 revisions:
   - version: "01.00"
     date: 2026-07-28

@@ -36,8 +36,8 @@ faq:
     a: "依 s.360(1) 提交清偿或解除陈述书，须在付款、清偿、解除或终止起十四天内提交注册官，并依 s.360(2) 附上充分证据。这比当初登记抵押所容许的 30 天更短。"
 
 verificationNeeded:
-  - "Confirm the current SSM prescribed fee for lodging a statement of particulars of charge under s.352(1) against the Companies Regulations 2017 fee schedule"
-  - "Confirm the current SSM late lodgement fee scale for charge-related lodgements against the prevailing SSM practice directive on late lodgement penalties"
+  - "对照 Companies Regulations 2017 的费用表，核实根据 s.352(1) 提交押记详情陈述现行的 SSM 规定收费"
+  - "对照 SSM 现行有关逾期提交罚款的实务指示，核实 SSM 目前就押记相关提交的逾期提交收费标准。"
 
 obligations:
   - what: "向注册官提交抵押详情陈述书"

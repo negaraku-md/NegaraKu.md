@@ -38,9 +38,9 @@ faq:
     a: "适用，透过两条路径。Section 17 课予每一名雇主与自雇人士一项责任，即在经营其业务时，使非其雇员的人不致暴露于安全或健康风险之中。Section 18A 就承包商、分包商与在主事人指示下工作的人，课予**主事人**责任，涵盖机械与工作系统、充足时间与预算的分配、资讯、指示、培训与督导，以及紧急应变程序。"
 
 verificationNeeded:
-  - "Confirm the notification periods and forms prescribed by the Occupational Safety and Health (Notification of Accident, Dangerous Occurrence, Occupational Poisoning and Occupational Disease) Regulations 2004 — the DOSH PDF could not be retrieved"
-  - "Confirm the current Minister's order under s.29(1) specifying the classes of place of work that require a safety and health officer"
-  - "Confirm the training or registration requirements DOSH imposes on an appointed OSH coordinator"
+  - "请核实 Occupational Safety and Health (Notification of Accident, Dangerous Occurrence, Occupational Poisoning and Occupational Disease) Regulations 2004 所规定的通报期限与表格——无法获取该 DOSH PDF"
+  - "请确认部长根据 s.29(1) 发出的现行命令，其中列明须设安全与卫生主任的工作场所类别。"
+  - "请核实 DOSH 对受委任的 OSH 协调员所设的培训或注册要求。"
 
 obligations:
   - what: "委任一名职业安全与卫生协调员"

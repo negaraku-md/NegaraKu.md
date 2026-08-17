@@ -38,7 +38,7 @@ faq:
     a: "不迟。你随时可以用特别决议采纳一份。实务上的难题在于时机：采纳章程需要 75% 的支持，而这在创办人还合得来时很容易，一旦合不来就很难。写下规则最便宜的时刻，是在还没有人需要它之前。"
 
 verificationNeeded:
-  - "Confirm the current SSM lodgement fee for adoption of a constitution — the published table lists RM30 for constitution amendment; verify the fee applicable to first adoption"
+  - "核实 SSM 目前采纳公司章程的存档费——已公布的费用表列出章程修订为 RM30；请查证首次采纳所适用的费用"
 
 obligations:
   - what: "采纳后向注册官呈交章程"

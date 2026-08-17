@@ -41,8 +41,8 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Asma tidak dinamakan secara khusus dalam kedua-dua PDF JAS yang dirujuk (sumber menyebut warga tua, wanita hamil, kanak-kanak dan komplikasi jantung/paru-paru). Rujukan asma di sini ialah inferens editorial sebagai keadaan paru-paru — sahkan dengan sumber nasihat kesihatan rasmi JAS."
-  - "Band Kecemasan (>500) tidak diberi warna berasingan pada tolok rasmi JAS (warna hanya ditakrifkan sehingga Merbahaya). Sahkan sama ada satu warna rasmi wujud untuk band ini sebelum menetapkannya."
+  - "在所引用的两份 JAS PDF 中并未特别点名哮喘（来源提到年长者、孕妇、儿童及心肺并发症）。此处提及哮喘是编辑推断将其归为肺部状况 — 请以 JAS 官方健康建议来源加以确认。"
+  - "紧急级别（>500）在JAS官方量表上未被赋予单独的颜色（颜色仅定义到「危险」级别）。在为此级别设定颜色之前，请确认是否存在一个官方颜色。"
 revisions:
   - version: "01.00"
     date: 2026-07-28

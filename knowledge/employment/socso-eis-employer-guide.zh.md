@@ -34,9 +34,9 @@ faq:
     a: "因为 PERKESO 现行的缴纳金表把 LINDUNG 24 Jam 折进了与 Act 4 费率同一份文件里，所以最高额会因是否包含 SKBBK 而不同。对收入高于顶限的雇员而言，Category 1 的雇主份额为 RM104.15，雇员的残疾份额为 RM29.75；在该计划适用时，SKBBK 那一栏再加上 RM44.65 的雇员缴纳金。不同来源挑选了那些栏位的不同子集。"
 
 verificationNeeded:
-  - "Confirm the exact maximum monthly EIS contribution in ringgit at the RM6,000 ceiling against the Second Schedule to Act 800 — PERKESO publishes the rate table as an image-only PDF that could not be read as text"
-  - "Confirm whether non-Malaysian citizens are excluded from EIS by the Act 800 definition of employee — PERKESO's contributions page lists government employees, domestic workers and the self-employed but does not address citizenship"
-  - "Confirm the SOCSO registration deadline for a new employer and a new employee against PERKESO directly"
+  - "根据Act 800的Second Schedule，核实在RM6,000上限下EIS每月最高缴款额（以令吉计）的确切数字——PERKESO将费率表作为纯图像PDF发布，无法以文本方式读取。"
+  - "请核实非马来西亚公民是否因 Act 800 对「雇员」的定义而被排除在 EIS 之外——PERKESO 的缴款页面列出了政府雇员、家庭佣工与自雇人士，但并未论及公民身份。"
+  - "请直接向 PERKESO 确认新雇主及新员工的 SOCSO 注册期限"
 obligations:
   - what: "缴交该薪金月份的 SOCSO 缴纳金"
     trigger: "ongoing"

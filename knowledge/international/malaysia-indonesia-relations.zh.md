@@ -48,7 +48,7 @@ reviewed: 2026-08-14
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Rizab dan unjuran pengeluaran Ambalat (~40,000 tong sehari; sehingga 1 bilion tong / 40 tcf) — dilaporkan oleh satu penerbit (Jakarta Globe); perlu pengesahan lanjut."
+  - "Ambalat的储量与产量预测（每天约40,000桶；高达10亿桶／40 tcf）——由单一媒体（Jakarta Globe）报道；须进一步核实。"
 revisions:
   - version: "01.00"
     date: 2026-08-01

@@ -45,9 +45,9 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Senarai penuh parameter WQI (khususnya DO, COD dan pH selain BOD5, ammonia nitrogen dan pepejal terampai) — sahkan dengan penerbitan rasmi Jabatan Alam Sekitar; sumber OpenDOSM yang dipetik hanya menamakan BOD5, ammonia nitrogen dan pepejal terampai."
-  - "Pecahan 2024 (475/170/27 daripada 672 sungai) berasal daripada kenyataan Timbalan Perdana Menteri yang dilaporkan Malay Mail — sahkan terhadap Laporan Kualiti Alam Sekitar/JAS rasmi apabila diterbitkan."
-  - "Bilangan tepat loji rawatan dan akaun/isi rumah terjejas bagi setiap kejadian gangguan bekalan mungkin berbeza mengikut laporan rasmi terkini."
+  - "WQI 参数的完整清单（特别是除 BOD5、氨氮和悬浮固体之外的 DO、COD 和 pH）——请以 Jabatan Alam Sekitar 的官方刊物核实；所引用的 OpenDOSM 来源仅列出 BOD5、氨氮和悬浮固体。"
+  - "2024年的细分（672条河流中的475/170/27）源自Malay Mail所报道的副首相声明——须在官方Laporan Kualiti Alam Sekitar／JAS发布时加以核实。"
+  - "每起供水中断事件所影响的处理厂及账户/家庭的确切数量，可能因最新官方报告而有所不同。"
 revisions:
   - version: "01.00"
     date: 2026-07-28

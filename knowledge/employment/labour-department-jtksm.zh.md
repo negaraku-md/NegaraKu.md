@@ -40,11 +40,11 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Exact founding date/decree and precise February 2003 rename date on a primary gov source (currently only Wikipedia MS and secondary directories state 1912 origin as Jabatan Buruh and 2003 rename to JTKSM)."
-  - "Current exact number of JTKSM state/branch labour offices in Peninsular Malaysia."
-  - "Current name/branding of the parent ministry — confirm whether it is styled 'Ministry of Human Resources' or 'KESUMA (Kementerian Sumber Manusia)' in current official usage."
-  - "Precise High Court appeal window (commonly cited 14 days) for Labour Court orders — confirm against Act 265."
-  - "Whether the Working for Workers (WFW) app and eAduan/SisPAA are the same channel or distinct — official pages reference both."
+  - "请在政府第一手来源上确认确切的成立日期／法令以及 2003 年 2 月更名的准确日期（目前仅有 Wikipedia MS 及二手目录称其 1912 年以 Jabatan Buruh 起源，并于 2003 年更名为 JTKSM）。"
+  - "目前 JTKSM 在马来西亚半岛的州／分区劳工办事处的确切数目。"
+  - "上级部门目前的名称／称谓——请核实在现行官方用法中，其写法是 Ministry of Human Resources 还是 KESUMA (Kementerian Sumber Manusia)。"
+  - "针对劳工法庭命令向高等法院上诉的确切期限（普遍引述为 14 天）——请对照 Act 265 核实。"
+  - "Working for Workers (WFW) 应用与 eAduan/SisPAA 是同一渠道还是各自独立——官方页面两者皆有提及。"
 updated: 2026-08-14
 sources:
   - title: "Minimum Wages Order 2024, P.U.(A) 376/2024"

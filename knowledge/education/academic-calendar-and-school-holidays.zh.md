@@ -46,10 +46,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Tarikh cuti tambahan Hari Raya Aidilfitri 2026 untuk sekolah (KPM melaporkan cuti tambahan sekitar 19–20 Mac) — sahkan bilangan hari tepat setiap kumpulan terhadap Surat Siaran KPM Bil. 3 Tahun 2025."
-  - "Cuti umum Aidilfitri khusus negeri 2026 (cth. hari ketiga Melaka, hari tambahan Johor 24 Mac) — sahkan senarai gazet negeri masing-masing."
-  - "Bilangan hari cuti akhir tahun (27–28 hari) — semak kiraan rangkuman terhadap teks rasmi Surat Siaran KPM."
-  - "Semua tarikh jadual 2026 diambil daripada laman rasmi KPM dan sumber yang mengulang semula edaran; PDF rasmi tidak dapat dihurai secara automatik, jadi baik disemak mata terhadap PDF asal."
+  - "2026 年学校开斋节（Hari Raya Aidilfitri）额外假期的日期（KPM 报告额外假期约在 3 月 19–20 日）——请对照 Surat Siaran KPM Bil. 3 Tahun 2025 核实每一组别的确切天数。"
+  - "2026 年各州特有的开斋节公共假期（例如马六甲的第三天、柔佛 3 月 24 日的额外假日）——请核实各州的宪报清单。"
+  - "年终假期的天数（27–28天）——须对照KPM Surat Siaran官方文本核对汇总的计算。"
+  - "所有2026年时间表日期均取自KPM官方网站及转述该通告的来源；官方PDF无法自动解析，因此最好以肉眼对照原始PDF核对。"
 
 updated: 2026-08-08
 sources:

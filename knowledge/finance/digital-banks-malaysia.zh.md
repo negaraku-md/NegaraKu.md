@@ -47,9 +47,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "GXBank's exact commencement-of-operations date in 2023 is stated as a year only; no GXBank-specific primary source is cited for the day/month."
-  - "The two BNM pages (digital-bank-5-licences and the licensing-framework policy document) returned HTTP 403 to automated fetching; a human should open them to confirm they still state the five licence winners, 29 applications, the end-2020 framework, the three-to-five-year foundational phase and the RM3 billion asset cap."
-  - "Exact PIDM membership commencement dates for each of the five banks (the article gives ranges/years, not per-bank effective dates)."
+  - "GXBank 在 2023 年确切的开业日期仅注明了年份；没有引用任何 GXBank 专属的第一手来源来确定具体日/月。"
+  - "这两个BNM页面（digital-bank-5-licences及牌照框架政策文件）对自动抓取返回HTTP 403；应由人工打开，以确认它们仍载明五家牌照得主、29份申请、2020年底的框架、三至五年的基础阶段以及RM3 billion的资产上限。"
+  - "五家银行各自加入PIDM会员资格的确切生效日期（本文给出的是区间/年份，而非各家银行的生效日期）。"
 
 updated: 2026-08-01
 sources:

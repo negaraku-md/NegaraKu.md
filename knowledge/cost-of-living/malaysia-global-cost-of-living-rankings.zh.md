@@ -47,11 +47,11 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "EIU figures are from the November 2023 (2023 edition) Worldwide Cost of Living survey; re-confirm against the latest EIU edition before publication."
-  - "Numbeo indices are crowd-sourced and update continuously; re-pull the South-East Asia country index and the Malaysia page at publication time."
-  - "Confirm Mercer explicitly characterised Johor Bahru as the least-expensive Southeast Asian city rather than it simply being the lowest-ranked SE-Asian entry shown in the 2023 release."
-  - "Re-verify the Mercer 2024 'eight cities' quality-of-living list against Mercer's current city-ranking page."
-  - "Confirm the DOSM CPI / Household Expenditure Survey methodological characterisation against DOSM's technical notes."
+  - "EIU 的数字来自 2023 年 11 月（2023 年版）的 Worldwide Cost of Living 调查；发布前请对照最新的 EIU 版本重新确认。"
+  - "Numbeo指数由众包数据构成且持续更新；请在发布时重新抓取东南亚国家指数及马来西亚页面的数据。"
+  - "请确认Mercer是否明确将Johor Bahru定性为东南亚最便宜的城市，而非仅仅是2023年发布中所列排名最低的东南亚城市。"
+  - "请对照 Mercer 当前的城市排名页面重新核实 Mercer 2024 年「八座城市」生活质量榜单。"
+  - "请对照 DOSM 的技术说明确认对 DOSM CPI／Household Expenditure Survey 方法论的描述。"
 
 updated: 2026-08-08
 sources:

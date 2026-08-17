@@ -48,8 +48,8 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Nama dan prosedur portal serah simpan dalam talian (MyLLP) — sahkan portal semasa dan langkah serahan perakuan tahunan dengan panduan rasmi SSM terkini."
-  - "Kriteria pengecualian audit Sdn Bhd yang ditetapkan oleh Pendaftar (dirujuk secara umum sahaja dalam artikel) — sahkan ambang semasa jika angka spesifik hendak ditambah."
+  - "在线呈交存档门户（MyLLP）的名称与程序——根据SSM最新官方指南核实当前门户及年度申报表呈交步骤。"
+  - "由注册官（Pendaftar）设定的 Sdn Bhd 审计豁免标准（文章中仅作一般性引述）——若要加入具体数字，请核实当前的门槛。"
 revisions:
   - version: "01.00"
     date: 2026-08-08

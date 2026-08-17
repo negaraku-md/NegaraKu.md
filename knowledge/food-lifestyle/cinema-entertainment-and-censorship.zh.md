@@ -51,9 +51,9 @@ revisions:
 
 updated: 2026-08-01
 verificationNeeded:
-  - "Tahun sebenar sistem klasifikasi tiga tahap (U, P13, 18) diperkenalkan — dirujuk tanpa tahun kerana tiada sumber rasmi mengesahkan tarikh '2012'; siaran MKN hanya menyebut tahun-tahun perubahan (1953, 1996, 2010, 2012) tanpa mengikat komposisi tiga tahap kepada 2012."
-  - "Syarat dan yuran lesen karaoke keluarga DBKL serta yuran lesen MACP (persembahan awam RM1,200–RM27,000; muzik rakaman restoran RM847–RM1,376) dirujuk daripada sumber panduan perniagaan sekunder (MISHU); sahkan dengan DBKL/PBT dan MACP Berhad."
-  - "Penempatan kategori 'food-lifestyle' dan sensitivity 'none' bagi topik penapisan negara — manusia boleh menilai semula sama ada klasifikasi ini wajar bagi topik undang-undang/penapisan."
+  - "三级分级制度（U、P13、18）实际推出的年份——因无官方来源证实「2012」这一日期而未标注年份；MKN 的公告仅提及若干变更年份（1953、1996、2010、2012），并未将三级制的构成绑定到 2012 年。"
+  - "DBKL 家庭卡拉OK执照的条件与费用，以及 MACP 执照费用（公开表演 RM1,200–RM27,000；餐厅录制音乐 RM847–RM1,376），引自二手的商业指南来源（MISHU）；请向 DBKL/PBT 与 MACP Berhad 核实。"
+  - "就国家审查这一主题将其归入「food-lifestyle」类别及「none」敏感度——人工可重新评估此分类对于法律/审查类主题是否适当。"
 sources:
   - title: "Akta Penapisan Filem 2002 (Akta 620), s.6 / s.10(1) / s.2(3)"
     url: "https://www.moha.gov.my/utama/images/Akta%20Perundangan/PEJABAT%20PENAPISAN%20FILEM/AKTA-PENAPISAN-FILEM.pdf"

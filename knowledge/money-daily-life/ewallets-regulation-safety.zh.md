@@ -45,11 +45,11 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Ambang modal minimum (min. capital funds) yang tepat di bawah s.12(1) FSA / Appendix 3 dokumen dasar — sengaja tidak dinyatakan; sahkan angka sebenar sebelum menambah semula."
-  - "Status pendaftaran semasa keempat-empat pengeluar yang dinamakan (senarai rasmi BNM berubah dari semasa ke semasa; terdapat lebih 40 pengeluar bukan bank keseluruhannya)."
-  - "Sama ada penambahan dana dalam 'satu (1) hari bekerja' (perenggan 16.4) adalah kewajipan mutlak atau garis panduan/anjuran."
-  - "Angka bayaran balik 14 hari / 30 hari (perenggan 20.10–20.13) dan takrifan 'kes rumit'."
-  - "Ambang 'eligible EMI' (500,000 pengguna aktif / 5% bahagian pasaran) di Appendix 1 — sahkan tempoh pengukuran dan takrifan tepat."
+  - "根据s.12(1) FSA／政策文件Appendix 3的确切最低资本门槛（最低资本金）——此处刻意未列出；在重新加入前请确认实际数字。"
+  - "所列名的四家发行商当前的注册状态（BNM官方名单会不时变动；非银行发行商总数逾40家）。"
+  - "在「一 (1) 个工作日」内充值（第 16.4 段）是绝对义务还是指引／建议。"
+  - "14 天／30 天退款的数字（第 20.10–20.13 段）及「复杂个案」的定义。"
+  - "Appendix 1 中「eligible EMI」的门槛（500,000 名活跃用户／5% 市场份额）——请核实其衡量时段与确切定义。"
 revisions:
   - version: "01.00"
     date: 2026-08-08

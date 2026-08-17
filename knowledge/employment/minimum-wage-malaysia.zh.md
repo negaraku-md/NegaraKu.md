@@ -35,7 +35,7 @@ faq:
     a: "有。依 s.24(8)，任何一个月内的扣除总额不得超过该月薪金的 50%。该上限不适用于 s.13(1) 的赔偿、终止服务时的最终付款扣除，或房屋贷款还款——后者在取得总监书面许可后可再多扣 25%。"
 
 verificationNeeded:
-  - "Monitor gajiminimum.mohr.gov.my for the outcome of the announced review of the Minimum Wages Order 2024 and any 2026 or 2027 Order"
+  - "关注 gajiminimum.mohr.gov.my，以了解已宣布的 Minimum Wages Order 2024 检讨结果以及任何 2026 或 2027 年的命令。"
 
 obligations:
   - what: "至少按经宪报颁布的最低薪金每月 RM1,700 支薪"

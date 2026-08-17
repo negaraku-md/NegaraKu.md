@@ -34,11 +34,11 @@ faq:
     a: "该准证系于担保的雇主，因此必须予以取消或缩短期限，而不是任由它继续有效。手续透过外籍人士服务组（ESD）门户或相关领域的监管机构办理。具体期限无法从已公布的 ESD 资料中查证，应直接向 ESD 或移民局确认。"
 
 verificationNeeded:
-  - "The Income Tax Act 1967 section numbers underlying CP22A, CP21 and the 90-day withholding duty were not confirmed — LHDN's employer page states the duties without citing sections, and phl.hasil.gov.my refused connections. Do not cite s.83(3) or s.83(4) without checking the Act text."
-  - "Whether an employer who releases money before tax clearance becomes personally liable for the employee's outstanding tax. This is widely asserted online and is plausible given the withholding duty, but no official statement of a liability transfer was located. The confirmed consequence is the s.120(1) penalty of RM200 to RM20,000 or up to six months' imprisonment."
-  - "Whether EPF requires any per-employee cessation filing. KWSP's published duties address cessation as an employer, not individual leavers; the practical position appears to be that contributions simply stop. Confirm with KWSP."
-  - "The PERKESO channel for recording an individual resignation is the ASSIST portal, but no statutory deadline for it was located. The 30-day period found relates to cessation as an employer using Form 1A (Act 4) and Form SIP 3 (Act 800)."
-  - "Employment Pass and PLKS cancellation deadlines — not verifiable from esd.imi.gov.my, which serves a login shell to automated retrieval."
+  - "CP22A、CP21及90天预扣义务所依据的Income Tax Act 1967条文编号未获确认——LHDN的雇主页面陈述了这些义务但未引用条文，且phl.hasil.gov.my拒绝连接。在核对法令文本之前，请勿引用s.83(3)或s.83(4)。"
+  - "在税务清算前发放款项的雇主是否须为雇员的欠税承担个人责任。此说法在网上被广泛主张，鉴于扣缴义务亦属合理，但未能找到关于责任转移的官方声明。已获证实的后果是 s.120(1) 项下 RM200 至 RM20,000 的罚款，或最长六个月的监禁。"
+  - "EPF 是否要求就每名员工提交离职申报。KWSP 公布的义务针对的是雇主身份的停止，而非个别离职者；实际情形似乎是缴款直接停止。请向 KWSP 确认。"
+  - "用于记录个人辞职的PERKESO渠道是ASSIST门户，但未找到相关的法定期限。所找到的30天期限，涉及的是雇主以Form 1A (Act 4)与Form SIP 3 (Act 800)办理停止雇主身份的情形。"
+  - "Employment Pass与PLKS的注销期限——无法从esd.imi.gov.my核实，该网站对自动抓取只提供一个登录外壳页面。"
 
 obligations:
   - what: "以 Form CP22A 向 LHDN 通报服务终止"

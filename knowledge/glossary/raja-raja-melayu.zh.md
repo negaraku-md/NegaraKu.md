@@ -47,9 +47,9 @@ revisions:
 
 updated: 2026-08-01
 verificationNeeded:
-  - "Bilangan 29 lokasi melihat anak bulan — sahkan angka semasa dengan sumber rasmi terkini."
-  - "Dakwaan kuasa memberhentikan Yang di-Pertuan Agong di bawah Perkara 38(6) 'tidak pernah digunakan' — sahkan terhadap sumber perlembagaan semasa."
-  - "Pengerusian bergilir dalam kalangan sembilan Raja Melayu dan kekerapan tiga mesyuarat setahun — sahkan terhadap tatacara rasmi semasa Majlis."
+  - "29 个观测新月地点的数目——请以最新的官方来源核实当前数字。"
+  - "关于根据 Perkara 38(6) 罢免 Yang di-Pertuan Agong 的权力「从未被动用」的说法——请对照现行宪法来源核实。"
+  - "九位马来统治者之间轮流担任主席，以及每年三次会议的频率——请对照理事会现行的官方程序核实。"
 sources:
   - title: "Maklumat Majlis Raja-Raja"
     url: "https://www.majlisraja-raja.gov.my/ms/maklumat-majlis-raja-raja-latest"

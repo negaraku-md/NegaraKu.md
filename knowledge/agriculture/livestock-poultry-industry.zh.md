@@ -53,11 +53,11 @@ revisions:
 updated: 2026-08-01
 
 verificationNeeded:
-  - "Angka SSR daging ayam yang tepat bagi 2022 (draf hanya menyatakan 'di bawah 100%'; sahkan peratusan sebenar dalam jadual DOSM SUA 2018-2022)."
-  - "Kaitan lonjakan harga bijirin global 2022 dengan perang Rusia–Ukraine dinyatakan sebagai konteks umum, bukan daripada sumber yang dipetik — sahkan sebelum menegaskannya sebagai punca."
-  - "Kebergantungan Singapura pada ayam Malaysia dinyatakan sebagai pengetahuan umum, bukan daripada sumber yang dipetik — sahkan dengan sumber rasmi jika hendak dikekalkan."
-  - "Penerangan umum peranan institusi JPV (pengawasan, pensijilan, kawalan pergerakan) tidak dikaitkan dengan satu sumber tunggal — sahkan dengan laman rasmi JPV/DVS."
-  - "Butiran wabak ASF Pulau Pinang (dilapor 9 Julai 2025; 578 dimusnahkan, 124 mati) dipetik daripada CodeBlue yang memetik jawapan parlimen Menteri — sahkan dengan pengumuman rasmi DVS/JPV."
+  - "2022 年鸡肉 SSR 的精确数字（草稿仅注明「低于 100%」；请在 DOSM SUA 2018-2022 表格中核实实际百分比）。"
+  - "2022年全球谷物价格飙升与俄乌战争的关联是作为一般背景陈述的，并非出自所引来源——在断定其为成因之前须加以核实。"
+  - "新加坡对马来西亚鸡肉的依赖是作为常识陈述，而非出自所引用的来源——若要保留，须以官方来源核实。"
+  - "对 JPV 机构角色的一般性描述（监管、认证、移动管制）未与单一来源挂钩——请以 JPV/DVS 官方网站核实。"
+  - "Pulau Pinang 的 ASF 疫情详情（据报 2025 年 7 月 9 日；销毁 578 头、死亡 124 头）引自 CodeBlue，而后者援引部长的国会答复 — 请以 DVS/JPV 的官方公告加以确认。"
 
 sources:
   - title: "Supply and Utilization Accounts Selected Agricultural Commodities, Malaysia 2018-2022"

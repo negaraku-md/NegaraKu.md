@@ -38,10 +38,10 @@ faq:
     a: "只有在该平台获 SC 批准经营二级市场时才可以，而且只限于在该平台托管并成功募足的股份。交易最早只能在募资活动完成六个月后开始，而发起人的股份要在交易开始之后再过六个月才能出售。"
 
 verificationNeeded:
-  - "The SC's dedicated List of Registered Recognized Market Operators page was returning an error and could not be read; operator names were taken from the SC Digital Initiatives page, which carries no last-updated date. Confirm current registration status on the SC's register before relying on any name"
-  - "No ECF or P2P specific funds-raised figure for 2025 could be located on an SC page — the RM5.7 billion in the Annual Report 2025 landing page is a broader alternative fundraising category and is not an ECF and P2P figure"
-  - "Whether any operator registration has been revoked or withdrawn could not be verified from an SC source"
-  - "The Guidelines prescribe no minimum or maximum tenure for a P2P investment note; only a 3-month minimum remaining repayment period for secondary market admission was located"
+  - "SC专门的Registered Recognized Market Operators名单页面返回错误，无法读取；运营商名称取自SC Digital Initiatives页面，而该页面没有标注最后更新日期。在依赖任何名称之前，请在SC的注册名册上确认当前的注册状态"
+  - "在SC的网页上找不到2025年ECF或P2P的专门筹资数字——Annual Report 2025着陆页上的RM5.7 billion属于更广义的另类融资类别，并非ECF与P2P的数字。"
+  - "是否有任何运营商注册已被撤销或注销，无法从 SC 来源核实"
+  - "该指南并未就 P2P 投资票据规定最短或最长期限；仅找到二级市场准入所需的 3 个月最短剩余还款期。"
 
 lang: "zh"
 masterLanguage: "en"

@@ -36,9 +36,9 @@ faq:
     a: "不可以。人力资源部在其官方常见问答中表明，当事人在零工工作者仲裁庭不得由律师代表出庭，理由是该仲裁庭的设计是一个快速、低成本的处理场所，模式与消费人索偿仲裁庭相同。就裁决提出的上诉须在十四天内向高等法院提出。"
 
 verificationNeeded:
-  - "Confirm the P.U.(B) commencement notification bringing Act 872 into operation on 31 March 2026, against lom.agc.gov.my"
-  - "Confirm the 1.25% deduction rate in the gazetted Gig Workers (Social Security) Regulations 2026 — the figure is currently taken from the Ministry of Human Resources official FAQ, which describes it as set for the time being"
-  - "Confirm the status, legal basis and powers of the Malaysian Gig Economy Commission (SEGIM), which is not established by Act 872"
+  - "请对照lom.agc.gov.my核实使Act 872于2026年3月31日生效的P.U.(B)生效通知。"
+  - "请核实已宪报颁布的 Gig Workers (Social Security) Regulations 2026 中 1.25% 的扣除率——该数字目前取自人力资源部官方 FAQ，其中将其描述为暂定的比率"
+  - "请确认 Malaysian Gig Economy Commission (SEGIM) 的地位、法律依据及权力，该委员会并非由 Act 872 设立。"
 
 obligations:
   - what: "从零工工作者的收入中扣除社会保障缴纳金并缴予 PERKESO"

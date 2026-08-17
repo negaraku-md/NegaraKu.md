@@ -52,10 +52,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Formula dan syarat pengeluaran maksimum KWSP Akaun Sejahtera (deposit / kurangkan pokok / ansuran bulanan) perlu disahkan pada halaman rasmi kwsp.gov.my; halaman rasmi wujud tetapi tidak dapat dicapai secara automatik semasa semakan."
-  - "Had tempoh maksimum 35 tahun disokong oleh siaran akhbar BNM (2016), bukan dokumen dasar Pembiayaan Bertanggungjawab semasa — sahkan terhadap dokumen dasar terkini."
-  - "Ambang RM500,000 dan tarikh tamat 31 Disember 2027 bagi pengecualian duti setem Belanjawan 2026 perlu disahkan terhadap Akta Kewangan / warta rasmi apabila diterbitkan."
-  - "Margin 90% bagi rumah pertama/kedua ialah amalan pasaran bank (bukan had ditetapkan BNM) — sahkan kadar LTV semasa yang lazim ditawarkan bank."
+  - "KWSP Akaun Sejahtera 最高提取额的公式与条件（首付／减少本金／每月分期）需在官方页面 kwsp.gov.my 核实；官方页面存在，但在核查时无法自动访问。"
+  - "最长 35 年期限的上限依据的是 BNM 的新闻稿（2016 年），而非现行的负责任融资（Pembiayaan Bertanggungjawab）政策文件——请对照最新政策文件核实。"
+  - "RM500,000 的门槛及 2027 年 12 月 31 日的截止日期（适用于 2026 年财政预算案的印花税豁免），在相关法令公布时须对照 Akta Kewangan／官方宪报核实。"
+  - "首套／第二套房 90% 的贷款比率是银行的市场惯例（并非 BNM 设定的上限）——请核实银行目前常见提供的 LTV 比率。"
 
 updated: 2026-08-08
 sources:

@@ -40,8 +40,8 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Bilangan 22 tapak pungutan darah (BBIS v2) — sahkan terhadap papan pemuka KKMNOW/PDN semasa."
-  - "Keputusan editorial: sama ada bendera sensitivity perlu dinaikkan melebihi 'none' memandangkan kriteria penangguhan MSM/pekerja seks/penyuntik dadah dihasilkan semula (dipetik verbatim daripada garis panduan rasmi PDN, tanpa bahasa advokasi)."
+  - "22个采血点的数目（BBIS v2）——请对照当前的KKMNOW/PDN仪表板加以确认。"
+  - "编辑决定：鉴于MSM／性工作者／注射毒品者的延缓捐血标准被复述（逐字引自PDN官方指引，未加任何倡导性措辞），敏感度标记是否需要提高至「none」以上。"
 revisions:
   - version: "01.00"
     date: 2026-08-01

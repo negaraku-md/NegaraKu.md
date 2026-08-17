@@ -24,9 +24,9 @@ keyTakeaways:
 appliesTo: "首次为马来西亚业务选择法律结构的人，或正在重新审视多年前所作选择的人。"
 
 verificationNeeded:
-  - "Confirm the eligibility rules for registering a sole proprietorship or conventional partnership under the Registration of Businesses Act 1956, and whether non-citizens or non-residents may register"
-  - "Confirm current Labuan FSA incorporation and annual fees"
-  - "Confirm the registration position for businesses in Sabah and Sarawak, which operate under state ordinances rather than the Registration of Businesses Act 1956"
+  - "确认依据 Registration of Businesses Act 1956 注册独资企业或传统合伙的资格规则，以及非公民或非居民是否可注册。"
+  - "请核实 Labuan FSA 目前的注册费与年费。"
+  - "须确认Sabah与Sarawak商号的注册情况，这些商号是依据州法令而非Registration of Businesses Act 1956运作的"
 
 lang: "zh"
 masterLanguage: "en"

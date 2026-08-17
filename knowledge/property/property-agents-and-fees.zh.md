@@ -45,9 +45,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Akronim dan nama rasmi Lembaga: laman web semasa menjenamakan diri sebagai 'LPEPH', tetapi nama Inggeris rasmi ialah 'Board of Valuers, Appraisers, Estate Agents and Property Managers' (BOVAEA/BOVAEP) dan akronim Melayu lama ialah 'LPPEH'. Sahkan penggunaan 'LPEPH' konsisten dengan penerbitan rasmi terkini."
-  - "Rujukan 'Jadual Ketujuh (Kaedah 48)' disahkan pada laman fi LPEPH; sahkan silang dengan teks penuh Kaedah-Kaedah Penilai, Pentaksir dan Ejen Harta Tanah 1986 (P.U.(A) 64/1986) untuk nombor jadual dan kaedah yang tepat."
-  - "Nombor telefon (+603-2288 8815/16/17) dan e-mel (info@lpeph.gov.my) Lembaga — sahkan masih terkini sebelum penerbitan."
+  - "该局的缩写与官方名称：当前网站将自身品牌标示为「LPEPH」，但官方英文名称为「Board of Valuers, Appraisers, Estate Agents and Property Managers」（BOVAEA/BOVAEP），而旧的马来文缩写为「LPPEH」。请确认使用「LPEPH」与最新官方出版物一致。"
+  - "「Jadual Ketujuh (Kaedah 48)」的引用已在 LPEPH 收费页面上得到确认；请与 Kaedah-Kaedah Penilai, Pentaksir dan Ejen Harta Tanah 1986（P.U.(A) 64/1986）全文交叉核对，以确定确切的附表及规则编号。"
+  - "该Lembaga的电话号码（+603-2288 8815/16/17）与电邮（info@lpeph.gov.my）——发布前请确认仍为最新。"
 
 updated: 2026-08-08
 sources:

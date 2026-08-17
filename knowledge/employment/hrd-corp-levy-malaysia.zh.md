@@ -37,9 +37,9 @@ faq:
     a: "可以。First Schedule Part II 让在所列行业中雇有五至九名雇员的雇主选择性注册。但一旦注册，0.5% 的义务与缴交期限即完全适用，你不能因为当初是自愿加入就干脆停止缴交。"
 
 verificationNeeded:
-  - "Confirm the exact statutory deadline for registering after crossing the ten-employee threshold against the PSMB (Registration of Employers and Payment of Levy) Regulations 2001 — the gazetted regulations are only published as a scanned reprint"
-  - "Confirm the current service fee charged on HRD Corp Claimable Courses disbursements"
-  - "Confirm whether the RM10,000 residual balance figure has been revised since the forfeiture mechanism was introduced"
+  - "对照 PSMB (Registration of Employers and Payment of Levy) Regulations 2001，核实跨过十名雇员门槛后注册的确切法定截止期限——该宪报法规仅以扫描重印本形式发布。"
+  - "请核实 HRD Corp Claimable Courses 拨款目前所收取的服务费。"
+  - "须确认自没收机制推行以来，RM10,000的剩余余额数字是否已被修订"
 
 obligations:
   - what: "在 First Schedule Part I 行业中雇员达到十名或以上马来西亚籍时，向 HRD Corp 注册"

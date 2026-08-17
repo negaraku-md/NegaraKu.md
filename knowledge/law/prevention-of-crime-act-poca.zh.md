@@ -47,7 +47,7 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Nama kes penuh dan sitasi rasmi keputusan Mahkamah Persekutuan April 2022 (dilaporkan membabitkan tahanan T. Dhinesh)."
+  - "联邦法院2022年4月判决的完整案件名称及官方引用（据报涉及被扣押人T. Dhinesh）。"
 updated: 2026-08-07
 sources:
   - title: "Prevention of Crime Act 1959 (Akta 297) — teks penuh (reprint rasmi)"

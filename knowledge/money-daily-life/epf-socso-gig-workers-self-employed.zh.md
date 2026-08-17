@@ -44,10 +44,10 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Angka teras i-Saraan (kadar padanan 20%, had umur 60 tahun, ambang caruman RM2,500 untuk insentif penuh) — kini bersandar pada The Star + AJobThing kerana laman rasmi KWSP i-Saraan (kwsp.gov.my) memulangkan HTTP 403. Sahkan terus dengan KWSP apabila boleh diakses."
-  - "Butiran i-Saraan Plus (padanan RM600 / had RM6,000, mekanisme pendaftaran, tarikh berkuat kuasa) — sahkan dengan halaman rasmi KWSP i-Saraan Plus."
-  - "Peratusan caruman tepat yang ditetapkan di bawah seksyen 83 Akta 872 — Akta menyerahkannya kepada peraturan subsidiari; tiada peratusan tetap dalam teks utama."
-  - "Tarikh pewartaan (31 Disember 2025) Akta 872 — bersandar pada Human Resources Online; sahkan dengan warta kerajaan rasmi."
+  - "i-Saraan的核心数字（20%配对率、60岁年龄上限、享有全额奖掖的RM2,500缴费门槛）——目前依赖The Star加AJobThing，因为KWSP i-Saraan官方页面（kwsp.gov.my）返回HTTP 403。可访问时须直接向KWSP核实。"
+  - "i-Saraan Plus的细节（RM600配对/RM6,000上限、注册机制、生效日期）——须以KWSP的i-Saraan Plus官方页面核实。"
+  - "seksyen 83 Akta 872 项下所订定的确切缴款百分比——该法令将其交由附属条例规定；主文中并无固定的百分比。"
+  - "Akta 872 的刊宪日期（2025 年 12 月 31 日）— 依据 Human Resources Online；请以政府官方宪报加以确认。"
 revisions:
   - version: "01.00"
     date: 2026-08-08

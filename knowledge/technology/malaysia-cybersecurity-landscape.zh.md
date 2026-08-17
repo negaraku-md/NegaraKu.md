@@ -53,10 +53,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Exact statutory section numbers for the cyber security service licensing prerequisites and the six-year record-retention duty under Act 854 — the cited secondary sources confirm the substance but not reliable section references (the earlier draft's 'section 28' and 'section 33' were dropped as section 33 in fact governs licence revocation)."
-  - "Whether the six-hour incident-notification window is materially stricter than comparable ASEAN regimes — the earlier 'strictest in the region' comparison was removed pending a cited comparative source."
-  - "The year-by-year split of reported scam losses (RM1.57 billion in 2024, RM2.97 billion in 2025, RM830 million in early 2026) against the primary Home Ministry / Dewan Rakyat record rather than press reporting."
-  - "Malaysia's placement in the top 'role-modelling' tier of the ITU Global Cybersecurity Index 2024, confirmed against the published ITU report."
+  - "Act 854下网络安全服务牌照的先决条件及六年记录保存义务的确切法定条文编号——所引用的二手来源证实了实质内容，但未提供可靠的条文引用（早前草稿中的「section 28」与「section 33」已被删除，因section 33实际上规范的是牌照吊销）。"
+  - "六小时的事件通报窗口期是否实质上比东盟（ASEAN）同类制度更为严格——先前「区域内最严格」的比较说法已删除，有待引用的比较来源。"
+  - "按年划分的报案诈骗损失（2024 年 RM1.57 billion、2025 年 RM2.97 billion、2026 年初 RM830 million）应对照内政部／Dewan Rakyat 的原始记录，而非报章报道。"
+  - "马来西亚在ITU Global Cybersecurity Index 2024中位居最高「role-modelling」层级一事，请对照已发布的ITU报告确认。"
 
 updated: 2026-08-01
 sources:

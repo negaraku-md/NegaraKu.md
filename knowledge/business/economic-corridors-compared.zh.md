@@ -37,12 +37,12 @@ faq:
     a: "在 MIDA 的走廊清单里不算，那份清单只列五个。JS-SEZ 是 2025 年 1 月 8 日宣布、由 MIDA 管理的另一套奖掖配套，覆盖在 Iskandar Malaysia 已经涵盖的柔佛地理范围之上。Forest City 则是另一个由证券监督委员会规管的独立计划。三者在地图上重叠，在主管机构上却完全分开，所以在认监管者之前，先认清是哪一个计划。"
 
 verificationNeeded:
-  - "Whether the District of Segamat has been added to ECER. MIDA's corridor page names Mersing and Segamat; Act 688 s.4 as reprinted names Mersing alone, and no gazette notification adding Segamat was located."
-  - "The exact commencement date of the New Investment Incentive Framework for the services sector. MIDA's FAQ updated 19 January 2026 says Q2 2026 to be announced separately, and no announcement was found as at July 2026."
-  - "Whether any corridor-specific incentive survives the New Investment Incentive Framework. The NIF FAQ makes no mention of any corridor at all — that is silence, not a stated repeal, and should not be read as abolition."
-  - "A gazetted P.U.(A) underpinning the SDC incentives MIDA describes for Sabah. MIDA's own page carries a disclaimer that they are subject to expiration or revision."
-  - "The gazette notification constituting RECODA under s.4 of the Regional Corridors Development Authorities Ordinance 2006, and the notification declaring SCORE under s.3. Neither could be located on Sarawak LawNet."
-  - "ECERDC's own incentives page at ecerdc.com.my returns 404, so ECERDC's current statement of its own incentive route could not be obtained."
+  - "Segamat 县是否已被纳入 ECER。MIDA 的走廊页面列出了 Mersing 和 Segamat；而重印的 Act 688 s.4 仅列出 Mersing，且未找到将 Segamat 纳入的宪报公告。"
+  - "服务业 New Investment Incentive Framework 的确切生效日期。MIDA 于 19 January 2026 更新的 FAQ 称将在 Q2 2026 另行公布，而截至 July 2026 仍未发现任何公告。"
+  - "是否有任何针对特定走廊的激励措施在 New Investment Incentive Framework 之下仍然有效。NIF 的常见问答完全未提及任何走廊——这是沉默，而非明文废除，不应解读为已被取消。"
+  - "支撑 MIDA 为沙巴所述 SDC 奖掖的宪报 P.U.(A)。MIDA 自身页面附有免责声明，指这些奖掖可能到期或修订。"
+  - "依 Regional Corridors Development Authorities Ordinance 2006 s.4 设立 RECODA 的宪报公告，以及依 s.3 宣布 SCORE 的公告。两者均无法在 Sarawak LawNet 上找到。"
+  - "ECERDC 自己位于 ecerdc.com.my 的奖掖页面返回 404，因此无法取得 ECERDC 对其奖掖途径的现行说明。"
 
 lang: "zh"
 masterLanguage: "en"

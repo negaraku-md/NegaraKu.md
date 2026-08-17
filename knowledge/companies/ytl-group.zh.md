@@ -47,10 +47,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Malayan Cement's exact YTL ownership percentage: sources conflict (The Edge cites 72.09%; other reports cite 76.98% rising to a projected ~78.58% after a proposed transaction and private placement). Confirm the current figure from Bursa filings before restating a precise number."
-  - "YTL Power's market capitalisation is a moving figure (RM35.99 billion / USD8.78 billion stated as of \"2026-06-30\" on the company's About page); confirm the latest value before relying on it."
-  - "YTL Corporation FY2024 headline figures (revenue RM30.53bn, net profit RM2.14bn, 4.5 sen dividend) against the audited annual report / Bursa announcement."
-  - "The full 600MW build-out target and timeline for the Kulai, Johor data-centre park, and the current operational capacity, against the latest company disclosure."
+  - "YTL 对 Malayan Cement 的确切持股百分比：各来源相互矛盾（The Edge 引述 72.09%；其他报道引述 76.98%，并在一项拟议交易与私下配售后预计升至约 78.58%）。在重述精确数字之前，请从 Bursa 呈报文件核实当前数字。"
+  - "YTL Power 的市值是一个不断变动的数字（公司 About 页面上列明截至「2026-06-30」为 RM35.99 billion / USD8.78 billion）；采用前请确认最新数值。"
+  - "YTL Corporation的FY2024主要数字（营收RM30.53bn、净利RM2.14bn、股息4.5 sen）——请对照经审计的年报／Bursa公告核实。"
+  - "就最新的公司披露核实Johor州Kulai数据中心园区完整的600MW建设目标与时间表，以及当前的运营容量。"
 
 updated: 2026-07-28
 sources:

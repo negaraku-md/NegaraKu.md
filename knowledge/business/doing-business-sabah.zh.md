@@ -38,10 +38,10 @@ faq:
     a: "有。《1998年州销售税法令》允许州财政部长以命令方式对所列货品征收销售税。原棕油按体积以每月 MPOB 沙巴平均价为准征税 7.5%，仅在该平均价超过 RM1,000 时适用。一项 2025 年的命令对原油、凝析油、液化天然气、天然气、氨、尿素和甲醇征收 5%。其他命令涵盖鱼类和甲壳类、废铁、硅、油棕生物质，以及在沙巴开采的金和银。它与联邦 SST 并行，而非取代之。"
 
 verificationNeeded:
-  - "Whether DBKK has adopted the Uniform (Licensing the Use of Premises) By-laws 2022 — DBKK's pages still cite only Cap. 144 and its own 1966 to 1984 by-laws, and adoption requires a resolution of each Authority under s.50A of the Local Government Ordinance 1961"
-  - "The current statutory fee schedules under Cap. 144 — the reference version published by the State Attorney-General's Chambers renders all First Schedule fees in pre-decimal dollars and flattens the Second Schedule, so no statutory rate is quotable"
-  - "Trading licence fees, processing fees, renewal windows and document lists for Majlis Perbandaran Sandakan and Majlis Perbandaran Tawau — neither publishes them"
-  - "Current tenant counts and committed investment at POIC Lahad Datu and SOGIP Sipitang — the operator sites carry figures dated 2020 to 2022 and aspirational totals"
+  - "DBKK 是否已采纳 Uniform (Licensing the Use of Premises) By-laws 2022——DBKK 的网页仍仅援引 Cap. 144 及其自身 1966 至 1984 年的附例，而采纳须依 Local Government Ordinance 1961 s.50A 经各 Authority 决议通过。"
+  - "Cap. 144 项下的现行法定收费表——State Attorney-General's Chambers 发布的参考版本将 First Schedule 的所有费用以十进制改制前的元列示，并把 Second Schedule 压平处理，因此没有可引用的法定费率。"
+  - "Majlis Perbandaran Sandakan与Majlis Perbandaran Tawau的营业执照费用、处理费、更新期限及文件清单——两者均未公布"
+  - "POIC Lahad Datu与SOGIP Sipitang当前的入驻企业数量及已承诺投资额——运营方网站所载数字标注为2020至2022年，且为愿景性的总量。"
 
 lang: "zh"
 masterLanguage: "en"

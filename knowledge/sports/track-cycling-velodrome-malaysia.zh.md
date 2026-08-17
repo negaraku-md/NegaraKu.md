@@ -46,11 +46,11 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Sama ada gangsa keirin Rio 2016 Azizulhasni ialah pingat Olimpik lumba basikal (trek) pertama Malaysia — dakwaan 'pertama Malaysia' dibuang kerana tiada sumber utama diperoleh; sahkan dengan Majlis Olimpik Malaysia atau Olympics.com."
-  - "Sama ada Azizulhasni satu-satunya rakyat Malaysia yang memenangi pingat Olimpik acara keirin — superlatif dibuang; sahkan jika ingin dimasukkan semula."
-  - "Sama ada Velodrom Nasional Nilai pernah menjadi tuan rumah pusingan Piala Dunia Trek UCI — dakwaan dibuang kerana tiada sumber; sahkan sebelum dimasukkan semula."
-  - "Kapasiti penonton tepat (~2,000) dan sama ada laman fasiliti KBS menyenaraikan spesifikasi trek (kini kosong; spesifikasi disandarkan pada velotrack.de dan gruppedynamic.com)."
-  - "Status terkini cadangan menamakan semula velodrom selepas 3 Mei 2026."
+  - "Azizulhasni 在 Rio 2016 凯林赛（keirin）所获铜牌是否为马来西亚首枚场地自行车奥运奖牌——「马来西亚首枚」的说法因未取得主要来源已予删除；请向马来西亚奥林匹克理事会或 Olympics.com 核实。"
+  - "Azizulhasni 是否是唯一赢得凯林赛（keirin）奥运奖牌的马来西亚人 — 该最高级表述已被删除；如欲重新加入请加以确认。"
+  - "Velodrom Nasional Nilai是否曾主办UCI场地自行车世界杯分站——因缺乏来源该说法已被删除；重新加入前请确认。"
+  - "确切的观众容量（约2,000）以及KBS设施页面是否列出赛道规格（目前为空白；规格依据velotrack.de与gruppedynamic.com）。"
+  - "2026 年 5 月 3 日之后有关自行车馆更名提议的最新状态。"
 
 updated: 2026-08-01
 sources:

@@ -53,10 +53,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Adoption figures '3 juta pengguna' and 'lebih 45 platform' menjelang Ogos 2025 — confirm exact numbers against the cited SoyaCincau (Aug 2025) report."
-  - "Whether JPN is the designated pre-registration lead agency and the identity of collaborating government entities — the specific list was removed for lack of a source and should only be restored with a primary JPN/agency statement."
-  - "MyBayar PDRM single sign-on enforcement date — no confirmed date found; confirm if/when officially announced."
-  - "Exact parliamentary date of the government's July 2025 statement on possible mandatory registration (softened from '21 Julai 2025')."
+  - "截至 2025 年 8 月的采用数字「3 juta pengguna」及「lebih 45 platform」— 请对照所引用的 SoyaCincau（2025 年 8 月）报道核实确切数字。"
+  - "JPN是否为指定的预注册牵头机构，以及协作政府实体的身份——因缺乏来源，具体名单已被删除，仅应在有JPN／机构一手声明时才予恢复。"
+  - "MyBayar PDRM单点登录的强制实施日期——未找到经确认的日期；请在正式宣布时／若已宣布加以确认。"
+  - "政府 2025 年 7 月关于可能强制注册声明的确切国会日期（已从「21 Julai 2025」放宽表述）。"
 updated: 2026-08-01
 sources:
   - title: "Personal Data Protection Act 2010 [Act 709]"

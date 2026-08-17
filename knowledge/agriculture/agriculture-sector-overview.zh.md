@@ -47,7 +47,7 @@ reviewed: "2026-08-14"
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Asal-usul import daging lembu (negara pembekal utama): dilembutkan kerana tiada sumber primer diambil dalam pas ini — sahkan terhadap data perdagangan DOSM atau MAQIS jika mahu menamakan negara."
+  - "牛肉进口来源（主要供应国）：因本轮未取得第一手来源而作了模糊处理——若要点名具体国家，请对照 DOSM 或 MAQIS 的贸易数据核实。"
 revisions:
   - version: "01.00"
     date: 2026-08-14

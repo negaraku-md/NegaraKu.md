@@ -36,9 +36,9 @@ faq:
     a: "被列入的区域由乔治市特别区域计划管辖,该计划作为核心区与缓冲区的保育管理计划,与 MBPP 列为自身管辖法规之一的 2011 年槟城州遗产法令并行。实务上,历史核心区内的改建、装修与招牌都受到约束。遗产约束并非仅是岛上的事项——MBSP 自己的招牌指南为威省具遗产价值的商业物业订立了另一套规格。"
 
 verificationNeeded:
-  - "MBPP premise, trade and advertisement licence fee rates — MBPP publishes its by-laws only as scanned images with no text layer, so no rate is machine-readable"
-  - "The size and language rule in the Advertisement By-Laws (MPPP) 2000 — the same scanning problem prevents reading the operative text"
-  - "Whether the Bayan Lepas and Perai free industrial zone declarations under the Free Zones Act 1990 have been amended, and the current gazetted zone boundaries"
+  - "MBPP 的场所、营业及广告执照收费率——MBPP 仅以扫描图像形式发布其附例，没有文本层，因此没有任何费率可被机器读取。"
+  - "Advertisement By-Laws (MPPP) 2000 中关于尺寸与语文的规定——同样的扫描问题使人无法读取其正式条文。"
+  - "依据 Free Zones Act 1990 就 Bayan Lepas 与 Perai 自由工业区所作的公告是否已修订，以及目前宪报公布的区界"
 
 lang: "zh"
 masterLanguage: "en"

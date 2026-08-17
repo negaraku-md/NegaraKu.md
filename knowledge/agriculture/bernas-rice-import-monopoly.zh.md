@@ -47,11 +47,11 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Angka kewangan TK2021 (hasil ~RM4.67 bilion, keuntungan selepas cukai RM182.26 juta, jualan beras ~RM3.42 bilion / 73%) — sahkan terhadap laporan tahunan rasmi BERNAS; tidak dapat diverifikasi semula secara bebas dalam pas pembetulan ini."
-  - "Harga lantai belian padi khusus di Sabah dan Sarawak (dilaporkan kekal RM1,300 setan metrik) — sahkan angka dan tarikh berkuat kuasa terhadap pengumuman KPKM rasmi sebelum menyatakannya."
-  - "Tahun LPN/BERNAS mula memegang status pengimport tunggal — sumber bercanggah (Free Malaysia Today menyebut 1973; halaman legasi BERNAS menyebut LPN mengambil alih pengimportan beras pada 1974). Artikel sengaja tidak menyatakan tahun; sahkan sebelum menambah mana-mana tahun."
-  - "Sejarah asal dasar harga minimum dijamin (didakwa bermula 1949 dalam literatur akademik) — sahkan dengan sumber akademik/primer yang boleh dipetik sebelum menyatakan tahun tertentu."
-  - "Bilangan tepat obligasi sosial (sepuluh, digandakan daripada lima) dan angka stok penimbal (200,000 tan, dinaikkan daripada 150,000) — sahkan terhadap dokumen konsesi rasmi 2021–2031."
+  - "TK2021 财务数字（营收约 RM4.67 bilion，税后利润 RM182.26 juta，稻米销售约 RM3.42 bilion / 73%）——对照 BERNAS 官方年报核实；本次更正过程中无法独立重新验证。"
+  - "沙巴与砂拉越专属的稻谷收购底价（据报仍维持每公吨 RM1,300）——在陈述前，请对照 KPKM 官方公告核实数字与生效日期。"
+  - "LPN/BERNAS 开始拥有唯一进口商地位的年份——来源相互矛盾（Free Malaysia Today 称 1973 年；BERNAS 的历史沿革页称 LPN 于 1974 年接管稻米进口）。本文特意不注明年份；在添加任何年份前请先核实。"
+  - "保证最低价格政策的起源历史（学术文献声称始于1949年）——在指明具体年份前，须以可引用的学术／原始来源加以核实。"
+  - "社会义务的确切数量（十项，由五项增加一倍）及缓冲库存数字（200,000吨，由150,000吨上调）——根据2021–2031年官方特许权文件核实。"
 
 updated: 2026-08-01
 sources:

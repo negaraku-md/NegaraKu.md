@@ -43,10 +43,10 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Nama tepat (verbatim) tiga tunjang Kertas Putih Pertahanan — Pencegahan Sepusat (Concentric Deterrence), Pertahanan Menyeluruh (Comprehensive Defence) dan Perkongsian Boleh Dipercayai (Credible Partnerships) — perlu disahkan terus daripada dokumen Kertas Putih Pertahanan; laman pendaratan MINDEF yang dirujuk memaparkan label berbeza."
-  - "Ketersediaan salinan rasmi .mil.my (legal.airforce.mil.my) bagi Akta 77 — kembali HTTP 503 semasa semakan; portal AGC digunakan sebagai sumber rasmi utama."
-  - "Senarai pemegang jawatan semasa Ahli Majlis Angkatan Tentera dan pegawai kanan MINDEF perlu disemak kerana ia berubah dari semasa ke semasa."
-  - "Butiran program latihan warganegara/khidmat negara semasa (jika ada) perlu disahkan daripada sumber dasar terkini sebelum sebarang angka disebut."
+  - "国防白皮书（Kertas Putih Pertahanan）三大支柱的确切（逐字）名称——同心威慑（Pencegahan Sepusat / Concentric Deterrence）、全面防御（Pertahanan Menyeluruh / Comprehensive Defence）与可信伙伴关系（Perkongsian Boleh Dipercayai / Credible Partnerships）——需直接从国防白皮书文件核实；所引用的 MINDEF 首页显示的标签有所不同。"
+  - "Akta 77 的 .mil.my 官方副本（legal.airforce.mil.my）的可取得性 — 审查时返回 HTTP 503；已改用 AGC 门户作为主要官方来源。"
+  - "Ahli Majlis Angkatan Tentera及MINDEF高级官员的现任名单需要核查，因为它会不时变动。"
+  - "当前公民训练／国民服役计划的细节（如有），在提及任何数字之前须从最新的政策来源加以确认。"
 revisions:
   - version: "01.00"
     date: 2026-08-01

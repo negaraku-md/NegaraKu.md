@@ -49,7 +49,7 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Currency of the General Guide on Tourism Tax PDF — it predates the 2021 DPSP regime; confirm figures (RM10 rate, 5-room threshold, penalties, forms) remain current."
+  - "General Guide on Tourism Tax PDF 的时效性——它早于 2021 年 DPSP 制度；请核实各项数据（RM10 费率、5 间客房门槛、罚则、表格）仍为最新。"
 updated: 2026-08-07
 sources:
   - title: "General Guide on Tourism Tax"

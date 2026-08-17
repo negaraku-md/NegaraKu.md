@@ -48,10 +48,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Sejarah pindaan: sumber Thomas Philip menyebut pindaan 1971 (menyelamatkan nyawa) dan pindaan 1989 (memperluaskan alasan kesihatan mental/fizikal), tetapi laporan lain mengaitkan klausa pengecualian dengan Akta Pindaan Kanun Keseksaan 1989 (Akta 727) sahaja, sementara '1971' merujuk kepada Akta Perubatan. Sahkan susunan dan tahun sebenar terhadap teks statut."
-  - "Takrif dan syarat Garis Panduan Penamatan Kehamilan KKM 2012 (had 22 minggu / 500 gram, dua pengamal, seorang pakar): sahkan terhadap dokumen PDF rasmi KKM."
-  - "Faktor ketidakseragaman akses (bantahan hati nurani, perbezaan fasiliti awam/swasta): dinyatakan secara umum tanpa sumber langsung — perlu pengesahan atau sumber tambahan sebelum diterbitkan."
-  - "Pandangan Jawatankuasa Fatwa Kebangsaan 2002 (tempoh 120 hari): sahkan kandungan dan tarikh terhadap sumber rasmi selain laporan media."
+  - "修订历史：Thomas Philip的来源提及1971年的修订（挽救生命）及1989年的修订（扩大心理／身体健康理由），但其他报道仅将例外条款与Akta Pindaan Kanun Keseksaan 1989（Akta 727）相联系，而「1971」则指Akta Perubatan。须对照法规文本核实实际的顺序与年份。"
+  - "KKM 2012年终止妊娠指南的定义与条件（22周/500克上限、两名执业医师、一名专科医生）：须根据KKM官方PDF文件核实。"
+  - "造成可及性不均的因素（良心拒绝、公立／私立设施之间的差异）：仅作一般性陈述而无直接来源——发布前需核实或补充来源。"
+  - "国家法特瓦委员会（Jawatankuasa Fatwa Kebangsaan）2002 年的意见（120 天期限）：请以媒体报道以外的官方来源核实其内容与日期。"
 updated: 2026-08-01
 sources:
   - title: "Laws of Malaysia, Act 574, Penal Code (official reprint)"

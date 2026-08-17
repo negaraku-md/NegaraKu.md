@@ -44,9 +44,9 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Amendment-history dates: confirm the Arbitration (Amendment) Act 2011 (in force ~1 July 2011) and the two 2018 amendments (reported in force 28 Feb 2018 and 8 May 2018) against the Federal Gazette."
-  - "Arbitration (Amendment) Act 2024 in-force date of 1 January 2026 — confirm against the official commencement notification in the Federal Gazette."
-  - "Third-party funding Code of Practice RM 10 million capital-adequacy figure — confirm against the published Code itself, not a secondary summary."
+  - "修订沿革日期：请对照 Federal Gazette 核实 Arbitration (Amendment) Act 2011（约于 2011 年 7 月 1 日生效）以及两次 2018 年修订（据报于 2018 年 2 月 28 日及 2018 年 5 月 8 日生效）。"
+  - "Arbitration (Amendment) Act 2024于2026年1月1日生效的日期——须对照Federal Gazette中的官方生效公告核实。"
+  - "第三方资助实务守则中RM 10 million的资本充足数字——须根据已发布的守则本身核实，而非二手摘要。"
 revisions:
   - version: "01.00"
     date: 2026-08-07

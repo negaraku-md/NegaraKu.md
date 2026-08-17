@@ -47,10 +47,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "People's Progressive Party (PPP) was historically a BN component; a primary/authoritative source was not attached, so its listing was removed pending confirmation."
-  - "Detailed roster and timeline of Sabah and Sarawak component parties within BN over the decades."
-  - "The 1977 Kelantan crisis sequence (PAS split, state emergency, PAS expulsion, Berjasa's admission) against a primary or authoritative historical source."
-  - "Characterisation of the 1974 result and the coalition's parliamentary majorities over time against official Election Commission (SPR) records."
+  - "People's Progressive Party（PPP）历史上曾是 BN 的成员党；由于未附上原始／权威来源，其列项已被移除，等待确认。"
+  - "数十年来BN内Sabah与Sarawak成员党的详细名单与时间线。"
+  - "就原始或权威历史来源核实1977年Kelantan危机的经过（PAS分裂、州紧急状态、PAS被开除、Berjasa获接纳）。"
+  - "对照官方选举委员会（SPR）记录，核实对 1974 年结果的描述以及该联盟历年在国会的多数席位。"
 
 updated: 2026-08-08
 sources:

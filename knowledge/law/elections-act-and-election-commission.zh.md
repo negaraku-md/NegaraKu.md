@@ -50,10 +50,10 @@ revisions:
 
 updated: 2026-08-07
 verificationNeeded:
-  - "Tajuk panjang dan peruntukan Akta Kesalahan Pilihan Raya 1954 (Akta 5): amalan rasuah (penyamaran, layanan, pengaruh tak wajar, rasuah), pelantikan ejen pilihan raya, kawalan perbelanjaan pilihan raya, dan petisyen pilihan raya — sahkan nombor seksyen terhadap teks rasmi Akta 5 di portal AGC (lom.agc.gov.my)."
-  - "Peruntukan operasi khusus Akta Pilihan Raya 1958 (Akta 19): pendaftaran pemilih dalam satu bahagian pilihan raya sahaja, pelantikan pegawai pengurus (returning officer), dan rujukan Peraturan-Peraturan Pilihan Raya (Penjalanan Pilihan Raya) 1981 [P.U.(A) 386/1981] — sahkan nombor seksyen terhadap teks rasmi Akta 19."
-  - "Langkah pembentangan dan kelulusan cadangan persempadanan di Dewan Rakyat berpunca daripada Jadual Ketiga Belas Perlembagaan (bukan Perkara 113) — sahkan terhadap teks Jadual Ketiga Belas."
-  - "Kedudukan pentadbiran SPR di bawah Jabatan Perdana Menteri — sahkan terhadap sumber rasmi kerajaan atau SPR."
+  - "Akta Kesalahan Pilihan Raya 1954 (Akta 5) 的长标题及其条文：舞弊行为（冒充、款待、不当影响、贿赂）、选举代理人的委任、选举开支的管控，以及选举呈请——请对照 AGC 门户（lom.agc.gov.my）上 Akta 5 的官方文本核实条文编号。"
+  - "Akta Pilihan Raya 1958 (Akta 19) 的具体运作条文：只在一个选区登记为选民、委任选务官（returning officer），以及 Peraturan-Peraturan Pilihan Raya (Penjalanan Pilihan Raya) 1981 [P.U.(A) 386/1981] 的引用——请对照 Akta 19 官方文本核实条文编号。"
+  - "在 Dewan Rakyat 提呈及核准选区划分建议的步骤源自宪法第十三附表（Jadual Ketiga Belas，而非 Perkara 113）——请对照第十三附表的文本核实。"
+  - "SPR 隶属首相署的行政地位——请对照政府或 SPR 官方来源核实。"
 sources:
   - title: "Perlembagaan Persekutuan — Perkara 113: Penjalanan Pilihan Raya"
     url: "https://spr.gov.my/wp-content/uploads/2024/10/perkara-113-penjalanan-pilihanraya.pdf"

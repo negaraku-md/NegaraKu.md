@@ -36,9 +36,9 @@ faq:
     a: "不会。SSM 确认，秘书的名字会留在公司的公司资料档上，直至公司依 s.58 更新为止。若你已依 Practice Note 4/2018 向注册官提交辞职通知的副本，该文件会在支付订明费用后向任何人提供——这正是辞职如何在公司不合作的情况下仍被看见。"
 
 verificationNeeded:
-  - "Confirm the prescribed fee SSM charges to supply a copy of a lodged resignation notice under Practice Note 4/2018, paragraph 10"
-  - "Confirm the current lodgement channel and any fee for the Notice of Intention to Vacate the Office of Secretary under s.237(2), which SSM publishes as a standalone form"
-  - "Confirm whether SSM has issued any Practice Note superseding or supplementing PN 4/2018 after its 13 March 2023 FAQ update"
+  - "请核实 SSM 根据 Practice Note 4/2018 第 10 段就提供一份已存档辞任通知副本所收取的规定费用。"
+  - "核实根据 s.237(2) 提交拟辞去秘书职位通知现行的存档渠道及任何费用，SSM 将其作为独立表格公布"
+  - "确认 SSM 在其 2023 年 3 月 13 日的常见问题更新之后，是否发布了任何取代或补充 PN 4/2018 的实务通知。"
 
 obligations:
   - what: "秘书在向董事会发出辞职通知后卸任"

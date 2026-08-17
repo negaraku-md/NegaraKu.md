@@ -38,9 +38,9 @@ faq:
     a: "只能在严格的州级限制内。Pekeliling PTG Selangor Bil. 1/2014 为住宅设定第 1、2 区最低 RM2 million、第 3 区 RM1 million，并将外国住宅购置限于分层地契。商业与工业均设 RM3 million 下限，上限为非土著单位的 10%。有地住宅、农业地与马来保留地皆不开放。在依赖这些门槛前请向 PTG Selangor 确认当前数字——该通令订于 2014 年。"
 
 verificationNeeded:
-  - "Whether Pekeliling PTG Selangor Bil. 1/2014 minimum purchase thresholds remain current in 2026 — residential and commercial figures are corroborated by current legal guides, but no primary PTG/state publication of the circular text is available and no gazetted supersession between 2015 and 2026 could be located, so its 2026 currency is unconfirmed"
-  - "MBSJ fee schedule and the full text of its by-law — the MBSJ page confirms the 12-month term and 6-month permit cap but publishes only category listings and guideline PDFs, with no ringgit fee schedule and no full by-law text"
-  - "MBPJ annual premise licence rates — the by-law PDF published by MBPJ is a scanned image with no text layer, so no ringgit rate is machine-readable"
+  - "Pekeliling PTG Selangor Bil. 1/2014 所定的最低购置门槛在 2026 年是否仍然有效——住宅与商业数字获现行法律指南佐证，但没有 PTG／州政府对该通令原文的原始出版物可查，也未能找到 2015 至 2026 年间任何经宪报公布的取代版本，因此其在 2026 年的时效性未获证实。"
+  - "MBSJ 的收费表及其附例全文 — MBSJ 页面确认了 12 个月的期限及 6 个月的准证上限，但仅公布类别列表与指南 PDF，没有以令吉列明的收费表，也没有附例全文"
+  - "MBPJ年度营业场所执照费率——MBPJ发布的附例PDF为扫描图像，没有文字层，因此没有任何令吉费率可供机器读取"
 
 lang: "zh"
 masterLanguage: "en"

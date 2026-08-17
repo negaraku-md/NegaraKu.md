@@ -51,7 +51,7 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Baris integriti dalam jadual kelayakan: teks statutori (seksyen 264) tidak menetapkan sebarang tempoh bagi sabitan penipuan/ketidakjujuran (terbuka). Sahkan sama ada garis panduan pentadbiran JANM mengenakan mana-mana tempoh khusus."
+  - "资格表中的诚信一行：法定条文（seksyen 264）并未就欺诈／不诚实定罪规定任何期限（无限制）。请核实 JANM 的行政指引是否设定了任何特定期限。"
 updated: 2026-08-08
 sources:
   - title: "Approval & Licence Renewal of Auditor / Company Liquidator (FAQ)"

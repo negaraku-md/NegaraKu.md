@@ -40,10 +40,10 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Whether the Bursa Carbon Exchange restricts listings to Verra-issued projects from 2016 onwards (claim removed pending a primary BCX/Bursa Malaysia source; the cited BCX About page does not state this)."
-  - "The current list and count of Malaysian-origin projects listed on the BCX (e.g. the Kuamut Rainforest Conservation Project), with a dated authoritative source (claim removed pending verification)."
-  - "The exact tabling date and status of the National Climate Change Bill (The Edge reported it was expected to be tabled in July 2026)."
-  - "Whether the carbon tax remains on hold after the Climate Change Bill is tabled, and the latest official status from NRES / Ministry of Finance."
+  - "Bursa Carbon Exchange 是否将挂牌限于 2016 年起由 Verra 签发的项目（该说法因缺乏 BCX/Bursa Malaysia 一手来源而已删除；所引用的 BCX About 页面并未如此说明）。"
+  - "BCX 上挂牌的马来西亚本土项目当前清单与数量（例如 Kuamut Rainforest Conservation Project），并附注明日期的权威来源（相关表述在核实前已删除）。"
+  - "National Climate Change Bill 的确切提呈日期及状态（The Edge 报道预计将于 2026 年 7 月提呈）。"
+  - "在 Climate Change Bill 提呈后碳税是否仍搁置，以及来自 NRES / Ministry of Finance 的最新官方状态。"
 revisions:
   - version: "01.00"
     date: 2026-07-28

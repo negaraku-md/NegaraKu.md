@@ -39,11 +39,11 @@ faq:
     a: "由它自行发放的拨款与人才计划，主要是 NCER 科技创新中心。在其 ATMP 项目下，课程费用上限为每人 6,000 令吉，津贴上限为每人每月 600 令吉、为期六个月，训练时数至少 64 小时。发放采报销方式、分阶段进行，并扣除 5% 的行政费。"
 
 verificationNeeded:
-  - "NCIA's own NTAX page cited its broad-based incentives as resting on P.U.(A) 112 and 113 of the Income Tax Act 1967 without a year. That citation could not be resolved against the AGC gazette for 2010, 2012 or 2013 — do not reproduce it."
-  - "No gazetted income tax exemption order naming the Northern Corridor Economic Region could be located on lom.agc.gov.my as at 20 July 2026"
-  - "Whether NCIA has published a successor to the NCER Strategic Development Plan 2021–2025, which expired at the end of 2025"
-  - "The APIRC targets widely reported as 12 SMEs and RM8.5 billion by 2030 appear only in news media and could not be verified on any NCIA or MIDA source"
-  - "Whether any tax incentive specific to the National Semiconductor Strategy has been gazetted — none was found"
+  - "NCIA自家的NTAX页面引述其普惠性奖掖是依据Income Tax Act 1967的P.U.(A) 112与113，但未注明年份。该引用无法与AGC在2010、2012或2013年的宪报相互印证——请勿转载。"
+  - "截至20 July 2026，在lom.agc.gov.my上无法找到任何点名Northern Corridor Economic Region的宪报所得税豁免令。"
+  - "NCIA 是否已发布 NCER Strategic Development Plan 2021–2025（已于 2025 年底到期）的后续接替计划。"
+  - "被广泛报道的 APIRC 目标（到 2030 年达成 12 家中小企业及 RM8.5 billion）仅见于新闻媒体，无法在任何 NCIA 或 MIDA 来源上核实"
+  - "是否已有专门针对National Semiconductor Strategy的税务激励被宪报——未找到任何相关记录"
 
 lang: "zh"
 masterLanguage: "en"

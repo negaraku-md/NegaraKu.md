@@ -37,8 +37,8 @@ faq:
     a: "不可以。第60M条禁止为聘用外籍员工而终止本地员工的合约；第60N条要求，在有必要裁减人力时，雇主必须先终止所有以与该本地员工相似身份受雇的外籍员工。"
 
 verificationNeeded:
-  - "Confirm the MYFutureJobs advertising period (number of days) required before a s.60K application — JTKSM confirms a PERKESO advertising step exists by referring to positions exempted from it, but publishes no number of days, and no authoritative primary figure is obtainable (secondary sources variously cite 7, 14 or 30 days for expatriates versus foreign workers). The statutory vacancy-notification duty sits in s.45F of the Employment Insurance System Act 2017 (Act 800), given legal force by the EIS (Amendment) Bill 2025 (passed by the Dewan Negara on 12 March 2026 and the Dewan Rakyat on 30 June 2026) with a reported enforcement moratorium of up to two years — but the required advertising period itself remains unconfirmed against a primary source"
-  - "Confirm the entry-point clearance period — the Immigration foreign worker page states six hours in the Phase 1 text and 24 hours in the Phase 2 text of the same document"
+  - "请核实提出 s.60K 申请前所需的 MYFutureJobs 广告刊登期（天数）——JTKSM 通过提及获豁免此步骤的职位，证实存在 PERKESO 广告刊登步骤，但并未公布天数，也无法从权威一手来源取得确切数字（二手来源就外籍专才与外籍劳工分别引用 7、14 或 30 天不等）。法定的职缺通报义务载于 Employment Insurance System Act 2017 (Act 800) 第 s.45F 条，由 EIS (Amendment) Bill 2025 赋予法律效力（Dewan Negara 于 2026 年 3 月 12 日通过、Dewan Rakyat 于 2026 年 6 月 30 日通过），据报设有最长两年的执行暂缓期——但所需的广告刊登期本身仍未对照一手来源获得确认。"
+  - "核实入境点通关时限——移民局外籍劳工页面在同一份文件中，Phase 1 文本称六小时，Phase 2 文本称 24 小时"
 
 obligations:
   - what: "在聘用外籍员工之前取得劳工总监的事先批准"

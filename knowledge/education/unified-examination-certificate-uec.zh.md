@@ -47,12 +47,12 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Bilangan tepat universiti luar negara yang menerima UEC (angka 'lebih 1,000' dipetik secara meluas tetapi perlu disahkan terhadap senarai rasmi Dong Zong)."
-  - "Skop tepat pengiktirafan UEC di Sabah berbanding Sarawak (jenis institusi/perkhidmatan yang dilindungi)."
-  - "Butiran pengiktirafan Sarawak 2016 (kolej/universiti negeri, pinjaman pendidikan, perkhidmatan awam negeri) terhadap sumber rasmi kerajaan negeri."
-  - "Sumber asal dan konteks angka kemuncak ~81,000 dan penurunan di bawah 80,000 pelajar (dilaporkan oleh FMT; punca data asal belum disahkan)."
-  - "Kata-kata tepat kenyataan 2023 Menteri Pendidikan Fadhlina Sidek dan kenyataan Perdana Menteri Anwar Ibrahim mengenai UEC."
-  - "Kadar lulus Bahasa Melayu SPM 2022–2024 dalam kalangan pelajar SMPC berbanding data rasmi Lembaga Peperiksaan Malaysia (angka setakat ini bersumberkan Dong Zong)."
+  - "承认 UEC 的外国大学确切数量（「超过 1,000 所」这一数字被广泛引用，但需对照董总（Dong Zong）的官方名单核实）。"
+  - "UEC 在沙巴与砂拉越获承认的确切范围（所涵盖的机构／服务类型）。"
+  - "Sarawak 2016年承认的细节（州立学院／大学、教育贷款、州公共服务）——对照州政府的官方来源。"
+  - "约81,000名学生的峰值数字及降至80,000名以下这一数字的原始来源与背景（由FMT报道；原始数据出处尚未获得确认）。"
+  - "教育部长 Fadhlina Sidek 2023 年声明以及首相 Anwar Ibrahim 关于 UEC 声明的确切措辞。"
+  - "SMPC 学生 2022–2024 年 SPM Bahasa Melayu 的及格率与 Lembaga Peperiksaan Malaysia 官方数据的对比（目前数字出自 Dong Zong）。"
 
 updated: 2026-08-08
 sources:

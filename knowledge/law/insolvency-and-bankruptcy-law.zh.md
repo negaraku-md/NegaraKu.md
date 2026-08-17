@@ -51,10 +51,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Confirm the exact statutory starting point of the Section 33A five-year discharge trigger against the current reprint of the Insolvency Act 1967 — the cited source frames it as five years from the date the bankruptcy order lapses, which the table now follows."
-  - "Confirm the current Section 466(1)(a) indebtedness threshold (exceeding RM50,000, in force since 1 April 2021 with no sunset) against the latest gazetted prescription order before relying on it."
-  - "Confirm the corporate rescue provisions and their references (judicial management ss.403-430, CVA s.395, scheme of arrangement s.366, 180-day period, 75%-by-value majority) against the current reprint of the Companies Act 2016."
-  - "Confirm the correct knowledge-graph target for the administering body (Malaysian Department of Insolvency / Director General of Insolvency); the previous administered-by relation to the Attorney General's Chambers was removed as unsupported."
+  - "请对照 Insolvency Act 1967 的现行重印本，核实 Section 33A 五年解除破产触发点的确切法定起算点——所引用的来源将其表述为自破产令失效之日起五年，本表现已依此。"
+  - "在依赖之前，请对照最新的宪报规定令核实现行 Section 466(1)(a) 的负债门槛（超过 RM50,000，自 1 April 2021 起生效且无日落条款）。"
+  - "对照 Companies Act 2016 现行重印本，核实公司拯救条文及其引注（司法管理 ss.403-430、CVA s.395、债务重整方案 s.366、180 天期限、按价值 75% 的多数）。"
+  - "请核实主管机构（Malaysian Department of Insolvency / Director General of Insolvency）在知识图谱中的正确目标；先前指向 Attorney General's Chambers 的「由…管理」关系因缺乏依据已被移除。"
 
 updated: 2026-08-07
 sources:

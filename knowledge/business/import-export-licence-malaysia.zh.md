@@ -48,10 +48,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Whether batik/textiles currently require a MITI Approved Permit — the live MITI AP portal (miti.gov.my/ap) lists motor vehicles, heavy machinery, iron & steel, and chemicals, not batik; confirm against the current Customs (Prohibition of Imports) Order."
-  - "Permit lead times in the planning table are practitioner-reported (DNE Logistics), not official SLAs — confirm current processing times with each agency; note MITI's own AP portal quotes 2–5 working days for processing, distinct from the arrival-planning buffer."
-  - "Exact current uCustoms declaration form designations across all ports — K1 (import) and K2 (export) are confirmed in use under uCustoms at major ports, but rollout was station-by-station."
-  - "MAQIS import-permit validity periods vary by commodity — verify the specific validity for any given consignment directly with MAQIS."
+  - "峇迪／纺织品目前是否需要 MITI Approved Permit——现行的 MITI AP 门户（miti.gov.my/ap）列出的是机动车辆、重型机械、钢铁及化学品，而非峇迪；请对照现行的 Customs (Prohibition of Imports) Order 核实。"
+  - "规划表中的准证处理时限为业界从业者（DNE Logistics）所报，并非官方 SLA——请向各机构核实当前处理时间；注意 MITI 自家的 AP 门户列明处理需 2–5 个工作日，这与到货规划的缓冲时间不同。"
+  - "各港口目前 uCustoms 报关表格的确切代号——K1（进口）与 K2（出口）已确认在主要港口的 uCustoms 下使用，但推行是逐个关站进行的。"
+  - "MAQIS 进口准证的有效期因商品而异——任何特定货运的具体有效期，请直接向 MAQIS 核实。"
 
 updated: 2026-08-07
 sources:

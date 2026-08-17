@@ -42,11 +42,11 @@ faq:
     a: "最清楚的排除在分销贸易。外资参与不获准进入销售楼面面积低于 3,000 平方米的超市与迷你市场、杂货店与一般小贩、24 小时便利店、报摊与杂货商店、药材店、附设便利店的油站、巴刹内的固定摊位与路边固定摊位、涉及国家战略利益的事项，以及布庄、非高档餐馆、小酒馆与珠宝店。"
 
 verificationNeeded:
-  - "The commonly quoted 30 percent foreign shareholding cap for commercial banks and 70 percent for insurers and investment banks could not be verified. bnm.gov.my sits behind a web application firewall that defeats automated retrieval, so BNM's 27 April 2009 liberalisation announcement and its Shareholder Suitability policy document were not read. Verify manually before treating either figure as current."
-  - "The repeal of the Foreign Investment Committee guidelines on 30 June 2009 is universally reported but no official government page confirming it was located. Note that MCMC's own 2025 Licensing Guidebook still requests documentation on compliance with Foreign Investment Committee requirements in its annexure checklist — a stale reference, not a live requirement."
-  - "MIDA Booklet 8 (2021) refers to the distributive trade guidelines as amended in 2010, while KPDN refers to a Pindaan 2022 edition. Obtain the 2022 text and confirm whether the format thresholds or the exclusion list changed."
-  - "Per-state minimum purchase price thresholds for foreign property acquisition were not verified against state land office sources. The RM1,000,000 figure is the federal floor; states set their own, often higher."
-  - "Private higher education: Act 555 confers a discretion on the Minister over equity participation rather than setting a numeric cap. The 100 percent allowance for private universities derives from the MITI liberalisation tranche, not from Act 555 itself."
+  - "常被引用的商业银行外资持股上限 30 percent、保险公司与投资银行 70 percent 未能核实。bnm.gov.my 位于一道使自动抓取失效的网站应用防火墙之后，因此 BNM 于 2009 年 4 月 27 日的自由化公告及其 Shareholder Suitability 政策文件均未能读取。将任一数字视为现行之前请手动核实。"
+  - "Foreign Investment Committee指南于30 June 2009废除一事被普遍报道，但未能找到确认此事的官方政府页面。请注意，MCMC自己的2025 Licensing Guidebook在其附录清单中仍要求提供符合Foreign Investment Committee要求的文件——这是一处过时的引用，而非现行要求。"
+  - "MIDA Booklet 8 (2021)引用的是2010年修订的分销贸易指引，而KPDN引用的是Pindaan 2022版本。请取得2022年文本，确认业态门槛或排除清单是否有变。"
+  - "各州对外国人购置房产的最低购买价门槛未对照各州土地局来源核实。RM1,000,000 这一数字是联邦下限；各州自行设定，往往更高。"
+  - "私立高等教育：Act 555 赋予部长对股权参与的酌情权，而非设定数字上限。私立大学 100% 的允许比例源自 MITI 的自由化措施，而非 Act 555 本身。"
 
 lang: "zh"
 masterLanguage: "en"

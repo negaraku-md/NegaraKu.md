@@ -54,9 +54,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Establishment-level ICT adoption rates (share of establishments using computers, with internet access, and with a web presence) were removed pending a citable DOSM ICT-Use-and-Access-by-Establishments release; re-add with an exact figure and fetched source if a human confirms one."
-  - "MD Status specific privileges (any 'bill of guarantees', talent/immigration privileges): confirm the precise wording against an authoritative MDEC/Malaysia Digital Status document, as the cited MD Status landing page does not enumerate them."
-  - "DE Rantau Nomad Pass finer detail (3-to-12-month initial band, renewal for a further 12 months, income thresholds): confirm against the official MDEC DE Rantau/immigration source if these specifics are added."
+  - "机构层面的 ICT 采用率（使用计算机、具备互联网接入及拥有网站的机构占比）已删除，等待可引用的 DOSM ICT-Use-and-Access-by-Establishments 发布；若有人工确认，请以确切数字及已抓取的来源重新加入。"
+  - "MD Status 的具体特权（任何「bill of guarantees」、人才/移民特权）：请对照权威的 MDEC/Malaysia Digital Status 文件核实确切措辞，因为所引用的 MD Status 落地页并未逐项列出。"
+  - "DE Rantau Nomad Pass的更细节内容（初始3至12个月区间、可再续12个月、收入门槛）：若加入这些具体内容，须对照MDEC DE Rantau／移民局官方来源核实。"
 
 updated: 2026-07-28
 sources:

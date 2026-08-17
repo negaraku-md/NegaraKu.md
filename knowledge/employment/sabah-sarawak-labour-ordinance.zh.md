@@ -35,10 +35,10 @@ faq:
     a: "没有。Employees Provident Fund Act 1991、Employees Social Security Act 1969 与 Employment Insurance System Act 2017 是全国适用的联邦法令，分别由 KWSP 与 PERKESO 掌管。只有劳工标准那一层是按州而异的。"
 
 verificationNeeded:
-  - "Confirm the exact P.U.(B) commencement notification numbers for Act A1753 and Act A1754 against lom.agc.gov.my"
-  - "Confirm whether Part IVA of either Ordinance has since been brought into operation, against jtksabah.gov.my and jtkswk.gov.my"
-  - "Confirm the treatment of manual-labour and supervisory categories in the replacement Sarawak First Schedule against the gazetted schedule — the column alignment in the Act A1754 PDF is ambiguous"
-  - "Confirm the Sabah replacement First Schedule carve-out list section by section against the gazetted Act A1753 text"
+  - "对照 lom.agc.gov.my，核实 Act A1753 与 Act A1754 确切的 P.U.(B) 生效通知编号"
+  - "对照 jtksabah.gov.my 与 jtkswk.gov.my，确认两部条例中的任一 Part IVA 此后是否已开始实施。"
+  - "请对照宪报附表，核实替换后的砂拉越 First Schedule 中体力劳动与监督类别的处理方式——Act A1754 PDF 中的栏位对齐含糊不清。"
+  - "须逐条对照已宪报的Act A1753文本，核实Sabah替换的First Schedule豁除清单"
 
 lang: "zh"
 masterLanguage: "en"

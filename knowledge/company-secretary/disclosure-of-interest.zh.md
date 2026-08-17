@@ -38,7 +38,7 @@ faq:
     a: "有。s.221(2) 豁免因身为在该合约中拥有利益的法团的成员或债权人而产生的利益，但以该项利益并不重大为限。s.221(3) 订明，董事不会仅因其为公司的贷款作担保、或因该合约是与依 s.7 视为关联的法团订立，而被视为拥有利益——不过 s.221(3) 明文不凌驾公司本身章程中更严格的条文。"
 
 verificationNeeded:
-  - "Confirm whether SSM has issued any practice directive or guidance on the form of a s.221(4) general notice — none was located in the SSM legal framework library"
+  - "请确认SSM是否就s.221(4)一般通知的格式发布过任何实务指令或指引——在SSM法律框架库中未找到任何相关文件。"
 
 obligations:
   - what: "在董事局会议上申报在公司合约或拟议合约中所拥有利益的性质"

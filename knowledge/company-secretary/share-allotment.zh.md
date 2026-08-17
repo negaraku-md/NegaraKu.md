@@ -38,7 +38,7 @@ faq:
     a: "不是。它们是分开的义务。s.77(1) 要求在配发起 14 天内把该次配发登记于成员登记册。s.78(1) 要求在配发起 14 天内向注册官提交股份配发申报表。s.51(1) 另行要求在变更起 14 天内通报登记册的变更。"
 
 verificationNeeded:
-  - "Whether SSM treats the s.78 return of allotment as also discharging the s.51 notification duty where the only register change is the allotment — no practice directive addressing the overlap was located"
+  - "在登记册唯一变动即为配股的情况下，SSM是否将s.78的配股申报视为同时履行s.51的通知义务——未找到处理此重叠的实务指令"
 
 obligations:
   - what: "向注册官提交批准行使股份配发权力的决议"

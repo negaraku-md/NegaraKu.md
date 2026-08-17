@@ -42,10 +42,10 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "The 30% rate applied to non-resident individuals is the standard non-resident individual rate reported by press/advisory coverage of Practice Note 2/2026; confirm the exact rate and its statutory basis (Part II, Schedule 1, ITA 1967) against the Practice Note itself."
-  - "The stated rationale for ending the concession (REIT sector maturity) is drawn from EY's and press summaries of the Practice Note; confirm the precise wording and attribution (Treasury/government vs LHDN) against the primary Practice Note."
-  - "Confirm whether section 109D withholding continues to operate as the collection mechanism for non-resident unit holders from YA 2026, and the exact reporting line for resident individuals."
-  - "Scale rates (0%–30%) and thresholds can change each Budget; re-verify the current-year figures before relying on them."
+  - "适用于非居民个人的30%税率是媒体/咨询机构在报道Practice Note 2/2026时所引述的标准非居民个人税率；须根据Practice Note本身核实确切税率及其法定依据（Part II, Schedule 1, ITA 1967）。"
+  - "终止该优惠所述的理由（REIT 行业已趋成熟）取自 EY 及新闻界对该 Practice Note 的摘要；请对照 Practice Note 原件核实确切措辞与出处归属（财政部／政府对比 LHDN）。"
+  - "请确认 section 109D 预扣税从 YA 2026 起是否仍作为非居民单位持有人的征收机制，以及居民个人的确切申报栏位。"
+  - "累进税率（0%–30%）与各级门槛可能在每次Budget时变动；在依赖当年数字之前，请重新核实。"
 revisions:
   - version: "01.00"
     date: 2026-08-07

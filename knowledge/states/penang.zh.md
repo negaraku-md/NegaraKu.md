@@ -30,7 +30,7 @@ faq:
     a: "1970 年代设立的 Bayan Lepas 自由工业区带来了早期的外国电子投资。五十年的这类投资，建立起一支熟练的工程人才队伍，以及由零件制造商、测试商与物流供应商构成的密集本地供应链；正是这个生态系统，而非任何单一奖掖，让新投资持续到来。"
 
 verificationNeeded:
-  - "Confirm Penang's current population against the latest DOSM state population release before publication."
+  - "发布前请对照最新的 DOSM 州人口数据核实槟城当前的人口。"
 
 lang: "zh"
 masterLanguage: "ms"

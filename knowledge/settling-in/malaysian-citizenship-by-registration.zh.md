@@ -46,11 +46,11 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Bayaran semasa (dilaporkan RM10.00 permohonan dan RM300.00 sijil kewarganegaraan) — sahkan terhadap jadual fi rasmi JPN terkini; nilai berasal daripada panduan NGO, bukan portal JPN."
-  - "Tempoh sebelum semakan status dalam talian bermula (dilaporkan lebih kurang enam bulan) — sahkan dengan JPN."
-  - "Kenyataan bahawa permohonan boleh berlarutan bertahun-tahun dan sama ada alasan penolakan diberikan — belum disahkan terhadap statistik atau sumber rasmi."
-  - "Status semasa pindaan Perlembagaan berkaitan kewarganegaraan (2024-2026) dan sama ada ia telah berkuat kuasa serta kesannya."
-  - "Butiran prosedur (borang, kehadiran suami isteri, senarai dokumen) berasal sebahagian besarnya daripada satu pertubuhan (Family Frontiers); sahkan dengan senarai semak rasmi JPN."
+  - "现行费用（据报道申请为 RM10.00、公民证书为 RM300.00）——请对照 JPN 最新的官方收费表核实；数值来源于 NGO 指南，而非 JPN 门户。"
+  - "在线状态查询开始前的等待期（据报约六个月）——请向 JPN 确认。"
+  - "关于申请可能拖延数年、以及是否会给出拒绝理由的陈述——尚未对照统计数据或官方来源核实。"
+  - "与国籍相关的宪法修订（2024-2026）的当前状态，以及它是否已生效及其影响。"
+  - "程序细节（表格、夫妻双方到场、文件清单）大部分来自一个组织（Family Frontiers）；请以 JPN 官方核对清单核实。"
 
 updated: 2026-08-07
 sources:

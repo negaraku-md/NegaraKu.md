@@ -38,8 +38,8 @@ faq:
     a: "适用。s.17 对每一名雇主与自雇人士课以对非其雇员者的责任。s.18A 对主事人课以对承包商、分包商及在主事人指示下工作者的责任。s.18B 要求每一名雇主、自雇人士与主事人进行风险评估。把工作外包出去，并不能把安全责任一并外包出去。"
 
 verificationNeeded:
-  - "Confirm the Act 872 social-security deduction rate and remittance cycle against PERKESO and the Ministry of Human Resources at the time of reading, since the rate is stated as set for the time being"
-  - "Confirm the leading Malaysian appellate authority on the control and integration tests against reported judgments"
+  - "由于该费率被表述为暂定，请在阅读时对照 PERKESO 及 Ministry of Human Resources 确认 Act 872 的社会保障扣除率及缴纳周期。"
+  - "请对照已公布的判决，核实马来西亚在控制标准与整合标准方面的主要上诉法院权威判例。"
 
 lang: "zh"
 masterLanguage: "en"

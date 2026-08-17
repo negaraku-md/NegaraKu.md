@@ -22,8 +22,8 @@ keyTakeaways:
 appliesTo: "公司秘书、代理人，以及任何需要了解 e-BOS 是什么、存放了什么的人。"
 
 verificationNeeded:
-  - "Confirm the current fee schedule for late lodgement and rectification through e-BOS against SSM's published fees"
-  - "Confirm whether online access to beneficial ownership information has replaced the counter-only facility at Menara SSM@Sentral"
+  - "对照 SSM 公布的费用，核实透过 e-BOS 进行逾期存档与更正的现行收费表"
+  - "确认受益所有权信息的在线查阅是否已取代 Menara SSM@Sentral 仅限柜台的服务。"
 
 lang: "zh"
 masterLanguage: "en"

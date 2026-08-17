@@ -41,8 +41,8 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Exact age-60-and-above contribution rates and the several rate options — confirm against KWSP 'Mandatory Contribution' page and the Third Schedule before stating specific numbers"
-  - "Latest fund size (RM1.25 trillion, end-2024) and membership (16.22m total / 8.78m active) — refresh against KWSP's most recent annual report at publish time"
+  - "60 岁及以上的确切缴款率及数种费率选项——在列出具体数字前，请对照 KWSP 的 Mandatory Contribution 页面与 Third Schedule 核实"
+  - "最新的基金规模（RM1.25 trillion，2024 年底）与会员人数（总计 16.22m / 活跃 8.78m）——发布时请对照 KWSP 最新年度报告更新。"
 updated: 2026-08-14
 sources:
   - title: "Third Schedule to the EPF Act 1991 (effective 1 October 2025) — contribution rates"

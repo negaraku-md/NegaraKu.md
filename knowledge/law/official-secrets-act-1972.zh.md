@@ -49,11 +49,11 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Tarikh dan status tepat pembebasan Mohammad Ezam bin Mohd Nor oleh Mahkamah Tinggi (dilaporkan 2004; nombor kes 42-22-2002) — perlu disahkan terhadap rekod/laporan mahkamah kerana sumber yang dipetik hanya mengesahkan sabitan dan hukuman, bukan pembebasan."
-  - "Perincian bahawa kes Ezam berkaitan pendedahan 'laporan Badan Pencegah Rasuah (ACA)' — bersandar pada laporan media sekunder, perlu disahkan."
-  - "Sama ada pindaan A573 (1984) dan A660 (1987) benar-benar memperkenalkan penjara minimum wajib buat kali pertama, berbanding meminda peruntukan hukuman sedia ada — perlu rujukan sejarah perundangan."
-  - "Sebutan 'keharmonian nasional' dalam laporan The Star disuarakan oleh seorang penganalisis, bukan kenyataan rasmi kerajaan — sahkan terhadap teks penuh."
-  - "Status semasa cadangan Akta Kebebasan Maklumat persekutuan dan sebarang pindaan OSA — perlu semakan berkala kerana keadaan boleh berubah selepas draf ini."
+  - "高等法院释放 Mohammad Ezam bin Mohd Nor 的确切日期与状态（据报为 2004 年；案件编号 42-22-2002）——须对照法院记录/报告核实，因为所引用的来源仅证实了定罪与判刑，而非释放。"
+  - "关于 Ezam 案涉及披露「Badan Pencegah Rasuah (ACA) 报告」的细节——依赖二手媒体报道，需核实。"
+  - "A573（1984）及A660（1987）的修订是否真的首次引入强制性最低刑期，抑或只是修订既有的刑罚条款——须参考立法沿革。"
+  - "The Star报道中提到的「国家和谐」是由一名分析人士所言，而非政府官方声明——须根据全文核实。"
+  - "联邦信息自由法令提案及任何 OSA 修订的当前状态——需定期检查，因为情况可能在本草稿之后发生变化。"
 
 updated: 2026-08-07
 sources:

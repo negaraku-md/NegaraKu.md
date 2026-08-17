@@ -46,9 +46,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Struktur dan nama tepat program pembangunan MSN (Program Bakat; Program Pelapis Negeri/Serantau/Kebangsaan) — pastikan penamaan terkini."
-  - "Kriteria pemilihan khusus atlet ke Program Podium ISN — perincian tidak disenaraikan pada laman rasmi."
-  - "Kenyataan umum tentang pelaburan infrastruktur tuan rumah dan kelebihan gelanggang sendiri — belum disokong sumber khusus; sahkan atau gugurkan."
+  - "MSN 发展计划的结构与确切名称（Program Bakat；Program Pelapis Negeri/Serantau/Kebangsaan）——请确认最新的命名。"
+  - "运动员入选ISN Program Podium的具体遴选标准——官方网站未列出详情。"
+  - "关于东道主基础设施投资及主场优势的笼统陈述——尚未有具体来源支持；须核实或删除。"
 updated: 2026-08-01
 sources:
   - title: "10,000 atlet bakal meriahkan SUKMA XXII, Para SUKMA Selangor 2026"

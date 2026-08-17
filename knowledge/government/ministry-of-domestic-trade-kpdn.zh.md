@@ -42,11 +42,11 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Exact chronology and years of every ministry rename (KPDNHEP, KPDNKK/MDTCC, then KPDN in Dec 2022) — confirm each transition year against an official/Hansard source before listing them."
-  - "TTPM specifics beyond the RM50,000 ceiling (RM5 filing fee, 3-year limitation) — reconfirm on the live TTPM/KPDN page before publishing exact figures."
-  - "Consumer complaint channel numbers (1-800-886-800; WhatsApp 019-848 8000; eaduan.kpdn.gov.my; Ez ADU; e-aduan@kpdn.gov.my) — verify current on kpdn.gov.my/bantuan, as hotlines occasionally change."
-  - "Exact number of divisions/bahagian and the total count of Acts administered — confirm before stating a hard number."
-  - "Current Deputy Minister and Secretary-General — verify still in office at publication."
+  - "该部历次更名的确切时序与年份（KPDNHEP、KPDNKK/MDTCC，其后于 2022 年 12 月改为 KPDN）——在逐一列出之前，请对照官方／国会议事录（Hansard）来源核实每一次更名的年份。"
+  - "RM50,000 上限之外的 TTPM 细节（RM5 提交费、3 年时效）— 发布确切数字之前请在 TTPM/KPDN 的现行页面上重新确认。"
+  - "消费者投诉渠道号码（1-800-886-800；WhatsApp 019-848 8000；eaduan.kpdn.gov.my；Ez ADU；e-aduan@kpdn.gov.my）——由于热线偶有变动，请在kpdn.gov.my/bantuan上核实是否为最新。"
+  - "部门／bahagian的确切数目以及所执掌法令的总数——在给出确切数字前请先核实。"
+  - "现任副部长与秘书长——请核实在发布时仍在任。"
 updated: 2026-08-14
 sources:
   - title: "Latar Belakang - KPDN"

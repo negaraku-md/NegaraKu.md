@@ -45,8 +45,8 @@ translationStatus: "in-sync"
 sourceContentHash: "1a47d7c7f9cef605"
 
 verificationNeeded:
-  - "Syarat kelayakan e-Reporting (warganegara Malaysia, umur 18 tahun ke atas) dan senarai penuh item yang boleh dilaporkan — portal rasmi ereporting.rmp.gov.my tidak dapat dicapai untuk pengesahan langsung; sahkan terhadap portal rasmi."
-  - "Sama ada bukan warganegara benar-benar dikecualikan sepenuhnya daripada e-Reporting (draf tidak lagi menyatakan pengecualian ini secara eksplisit)."
+  - "e-Reporting的资格条件（马来西亚公民、18岁及以上）及可举报事项的完整清单——官方门户ereporting.rmp.gov.my无法访问以直接核实；须根据官方门户核实。"
+  - "非公民是否确实被完全排除在 e-Reporting 之外（本草稿已不再明确陈述此项排除）。"
 
 status: "published"
 aiAssisted: true

@@ -39,11 +39,11 @@ faq:
     a: "电力、土地与港口通道。砂拉越在 Batang Ai、Bakun 与 Murum 拥有约 3,558 MW 的可用大型水电产能，Baleh 正在兴建中。5 MW 以上的负荷将脱离已公布电价，转为协商式购电协议——Sarawak Energy 形容其以低于已公布电价的折扣提供，期限最长 20 年。MIDA 公布 Samalaju 土地起价为每平方英尺 RM2.50，优先产业享 25% 折扣。以上均非税务优惠，也均不可申领——而是协商而来的。"
 
 verificationNeeded:
-  - "The gazette notification under s.3 of the Regional Corridors Development Authorities Ordinance 2006 declaring SCORE, and the notification under s.4 constituting RECODA, could not be located on Sarawak LawNet. RECODA's existence is confirmed by its own site and by MIDA, but the constituting instrument number is not published."
-  - "Whether any state or RECODA-administered fiscal incentive exists for SCORE. MIDA acknowledges that incentives provided by RECODA exist but publishes none; RECODA describes only land, tariff and water terms. Assert neither existence nor absence."
-  - "The official list of administrative divisions comprising SCORE. RECODA describes the corridor by region and by growth node, and its own page gives two different node lists — one adding Limbang and Lawas to the five."
-  - "The name, duration and fee of any work pass required by a non-Sarawakian Malaysian citizen. The legal position under ss.65 and 66 is clear, but no official page names the instrument or its cost."
-  - "The LawNet consolidated text of the Sarawak Labour Ordinance Cap. 76 is current only to 31 July 2006 and must be read with Act A1754 rather than instead of it."
+  - "依据Regional Corridors Development Authorities Ordinance 2006 s.3宣布SCORE的宪报公告，以及依据s.4设立RECODA的公告，均无法在Sarawak LawNet上找到。RECODA的存在已由其自家网站及MIDA证实，但其设立文书的编号并未公布。"
+  - "SCORE是否存在任何由州政府或RECODA管理的财政奖掖。MIDA承认RECODA提供的奖掖确实存在，但未公布任何细节；RECODA仅说明土地、关税与水务条款。既不可断言其存在，也不可断言其不存在。"
+  - "构成 SCORE 的行政区划官方清单。RECODA 以区域及增长节点来描述该走廊，而其自身页面给出了两份不同的节点清单——其中一份在原有五个之外再加入 Limbang 与 Lawas。"
+  - "非砂拉越籍马来西亚公民所需任何工作准证的名称、有效期及费用。ss.65 and 66 下的法律立场是明确的，但没有官方页面点明该文书或其费用。"
+  - "LawNet关于Sarawak Labour Ordinance Cap. 76的综合文本仅更新至31 July 2006，必须与Act A1754一并阅读，而不能以它取代Act A1754。"
 
 lang: "zh"
 masterLanguage: "en"

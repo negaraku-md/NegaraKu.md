@@ -40,11 +40,11 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Nilai risiko PAC: sumber (The Edge node 745683) menyebut 'sehingga separuh dana' / ~RM5 bilion daripada ~RM11.5 bilion AUM (2023); sahkan angka dan konteks laporan PAC November 2024 asal."
-  - "Pegangan aset strategik: dua angka wujud (62.9% dalam laporan lama vs 56% dalam temu bual Mac 2025); draf menggunakan 56% — sahkan angka semasa yang betul."
-  - "Pegangan Affin Bank ~22%: sahkan peratusan semasa dan sama ada terdapat sebarang pelupusan/jualan yang berkaitan."
-  - "Nama semasa Ketua Pegawai Eksekutif (Mohammad Ashraf Md Radzi) dan Pengerusi (Jeneral (B) Tan Sri Azizan Ariffin) — sahkan masih memegang jawatan."
-  - "Pegangan BHIC (dilaporkan ~72.38% dalam snippet carian yang tidak dapat dibuka) sengaja tidak dimasukkan; sahkan dan tambah jika perlu."
+  - "PAC 风险值：来源（The Edge node 745683）提及「多达一半资金」／约 RM5 bilion，占约 RM11.5 bilion AUM（2023）；请核实原始 PAC November 2024 报告的数字与脉络。"
+  - "战略资产持股：存在两个数字（旧报告中的 62.9% 对比 2025 年 3 月访谈中的 56%）；草稿采用 56%——请核实当前正确的数字。"
+  - "Affin Bank 约 22% 的持股：请核实当前百分比以及是否有任何相关的脱售/出售。"
+  - "现任首席执行员（Mohammad Ashraf Md Radzi）与主席（Jeneral (B) Tan Sri Azizan Ariffin）的姓名——须核实其是否仍在任。"
+  - "BHIC的持股（在无法打开的搜索摘要中报告为约72.38%）已刻意未纳入；如有需要须核实并补充。"
 revisions:
   - version: "01.00"
     date: 2026-07-28

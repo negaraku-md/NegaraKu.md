@@ -51,12 +51,12 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Exact count (stated as 14) and total area (stated as 200,000+ acres) of HALMAS-certified halal parks — currently sourced only to commercial industry summaries; confirm against a primary HDC or MITI source."
-  - "Current HALMAS-certified status of the named parks (Selangor Halal Hub / Pulau Indah, Penang International Halal Hub, PKFZ National Halal Park, Techpark @ Enstek, Iskandar Business Park, POIC Tanjung Langsat)."
-  - "Breadth of international recognition of JAKIM halal certification — the previously stated 'over 100 countries' figure could not be confirmed against a JAKIM/HDC primary source and has been removed; confirm the correct figure before restating a number."
-  - "Full list of quality standards eligible for the double-deduction incentive — HACCP and GMP are confirmed by the cited source; any additional standards (e.g. Codex) are unverified."
-  - "MIHAS 2025 exact dates and venue — no primary source found; the specific '17–20 September 2025' date has been removed pending confirmation with the official MIHAS organiser."
-  - "Status and timeline of the approved HDC–MATRADE merger."
+  - "获 HALMAS 认证的清真园区的确切数量（列为 14 个）及总面积（列为 200,000+ 英亩）— 目前仅来源于商业行业摘要；请对照 HDC 或 MITI 的原始来源加以确认。"
+  - "所列各园区（Selangor Halal Hub / Pulau Indah、Penang International Halal Hub、PKFZ National Halal Park、Techpark @ Enstek、Iskandar Business Park、POIC Tanjung Langsat）当前的HALMAS认证状态。"
+  - "JAKIM清真认证获国际认可的广度——此前所述「逾100个国家」的数字无法对照JAKIM/HDC原始来源加以确认，已被删除；重新给出数字前请核实正确数字。"
+  - "符合双重扣税激励资格的质量标准的完整名单——HACCP 和 GMP 已由所引用的来源确认；任何额外标准（例如 Codex）尚未核实。"
+  - "MIHAS 2025 的确切日期及场地——未找到第一手来源；在向 MIHAS 官方主办方确认之前，具体的「17–20 September 2025」日期已被删除。"
+  - "已批准的 HDC–MATRADE 合并的状态与时间表。"
 
 updated: 2026-07-28
 sources:

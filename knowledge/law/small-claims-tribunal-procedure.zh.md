@@ -54,7 +54,7 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Anggaran perbicaraan ditetapkan 'dalam masa sebulan' dari pemfailan writ — ini anggaran sumber peguam, bukan tempoh berkanun; bergantung pada jadual mahkamah."
+  - "审讯「在一个月内」自入禀令状起排期的估计——这是律师来源的估算，而非法定期限；取决于法院的排期。"
 
 updated: 2026-08-14
 sources:

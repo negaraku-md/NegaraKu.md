@@ -38,8 +38,8 @@ faq:
     a: "不一样。沙巴与砂拉越由各自的 Labour Ordinance 管辖，两者分别于 2025 年经 Acts A1753 与 A1754 修订，除住宿标准的 Part IVA 外，皆自 2025 年 5 月 1 日起生效。砂拉越替换后的 First Schedule 在结构上与 Employment Act 的不同，因此一份 Act 265 的合规对照表不能靠查找替换直接搬过去。任何东马人手，请查阅适用的 Ordinance。"
 
 verificationNeeded:
-  - "Confirm whether paid annual leave and sick leave days are counted as calendar days or working days where a rest day or gazetted holiday falls within the period"
-  - "Confirm the equivalent annual, sick and hospitalisation leave bands under the Sabah and Sarawak Labour Ordinances as amended in 2025"
+  - "当休息日或宪报所列假期落在期间内时，请确认带薪年假及病假日数是按日历日还是工作日计算"
+  - "请确认经2025年修订的Sabah与Sarawak Labour Ordinances下相应的年假、病假与住院假级别"
 
 lang: "zh"
 masterLanguage: "en"

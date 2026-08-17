@@ -44,9 +44,9 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Kadar pertumbuhan 2023 disemak semula: keluaran Ekonomi Digital 2025 (rujukan 2024) melaporkan pertumbuhan 2023 sebagai 3.5%, sedangkan keluaran Ekonomi Digital 2024 (rujukan 2023) melaporkannya sebagai 3.9%. Draf ini menggunakan 3.5% untuk konsisten dengan keluaran yang sama sebagai angka 5.1% (2024). Sahkan angka mana yang hendak dipaparkan."
-  - "Baris sumbangan 2022 (22.9% / RM411.6 bilion) telah DIBUANG kerana ia tidak dibawa sebagai pembanding dalam mana-mana keluaran DOSM yang dipetik, dan keluaran rujukan-tahun-2022 (Ekonomi Digital 2023) tidak dapat dicapai untuk pengesahan (ralat pangkalan data laman DOSM). Jika garis tren tiga tahun dikehendaki, petik keluaran Ekonomi Digital 2023 secara langsung sebaik sahaja ia boleh dicapai."
-  - "Dakwaan kualitatif tentang jalur lebar mudah alih vs tetap dan kaitannya dengan pendapatan negeri telah DIBUANG kerana tiada sumber MCMC dalam sources[]. Jika hendak dikembalikan, tambah petikan MCMC (mis. laporan penembusan jalur lebar SKMM) yang telah dicapai."
+  - "2023年增长率经修订：Ekonomi Digital 2025刊物（参照2024年）将2023年增长报告为3.5%，而Ekonomi Digital 2024刊物（参照2023年）则报告为3.9%。本草稿采用3.5%，以与提供5.1%（2024年）数字的同一刊物保持一致。请核实应显示哪一个数字。"
+  - "2022 年贡献一行（22.9% / RM411.6 billion）已被删除，因为它未在任何所引用的 DOSM 刊物中作为比较项出现，且以 2022 年为参照年的刊物（Ekonomi Digital 2023）无法访问以供核实（DOSM 网站数据库错误）。如需三年趋势线，请在 Ekonomi Digital 2023 刊物可访问后直接引用之。"
+  - "关于移动宽带与固定宽带及其与州属收入关系的定性论断已被删除，因为 sources[] 中没有 MCMC 来源。若要恢复，请加入已获取的 MCMC 引用（例如 SKMM 的宽带普及率报告）。"
 revisions:
   - version: "01.00"
     date: 2026-08-01

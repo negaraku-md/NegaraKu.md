@@ -52,10 +52,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Sensitivity classification: currently set to 'none' per the correction brief's required frontmatter, but the review brief treats corporate-bribery / anti-corruption legal content as a sensitive (tier S) topic. A human editor should confirm the final sensitivity value."
-  - "Exact statutory wording and subsection numbering (s.17A(1)-(8)) should be confirmed against the official gazetted text of the MACC (Amendment) Act 2018 and the consolidated MACC Act 2009 before publication."
-  - "Confirm the canonical/official URL for the GIACC 'Guidelines on Adequate Procedures' PDF (the GIACC/JPM site path can change); verify the hosted copy matches the version issued pursuant to s.17A(5)."
-  - "Confirm this remains current law as at the publication date (no later amendment to Section 17A penalties or the adequate-procedures framework)."
+  - "敏感度分类：目前依据更正简报所要求的frontmatter设为「none」，但审查简报将企业贿赂／反贪腐法律内容视为敏感（tier S）主题。最终敏感度值应由人工编辑确认。"
+  - "确切的法定措辞与分节编号（s.17A(1)-(8)）应在发布前根据MACC (Amendment) Act 2018的官方宪报文本及经合并的MACC Act 2009加以确认。"
+  - "请核实 GIACC「Guidelines on Adequate Procedures」PDF 的规范／官方 URL（GIACC/JPM 网站路径可能变动）；并核实所托管的副本与依据 s.17A(5) 发布的版本一致。"
+  - "请确认这在发布日期时仍为现行法律（Section 17A 的罚则或充分程序框架此后没有修订）。"
 
 updated: 2026-08-07
 sources:

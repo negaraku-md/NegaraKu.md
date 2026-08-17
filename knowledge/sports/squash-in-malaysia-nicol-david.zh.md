@@ -48,7 +48,7 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Jansher Khan's world-championship count, if it is to be cited (referenced only generally here, not from the cited PSA Hall of Fame notice)."
+  - "Jansher Khan 的世界冠军次数（若要引用的话）（此处仅笼统提及，并非出自所引用的 PSA Hall of Fame 通告）。"
 
 updated: 2026-08-01
 sources:

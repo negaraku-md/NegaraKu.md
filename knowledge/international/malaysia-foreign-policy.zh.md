@@ -46,7 +46,7 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "The live Wisma Putra organisation chart (Secretary-General + 3 Deputy Secretaries-General, 6 federal departments, 4 federal agencies) — the 3/6/4 breakdown could not be re-verified line-by-line against the current KLN organisation chart (kln.gov.my returns TLS certificate errors on direct fetch); confirm against the primary org chart before stating the exact counts."
+  - "Wisma Putra 现行的组织架构图（秘书长 + 3 名副秘书长、6 个联邦部门、4 个联邦机构）——3/6/4 的细分未能对照现行 KLN 组织架构图逐项重新核实（kln.gov.my 直接抓取时返回 TLS 证书错误）；在列出确切数目前，请对照原始组织架构图核实。"
 updated: 2026-08-14
 sources:
   - title: "Ministry of Foreign Affairs (Malaysia)"

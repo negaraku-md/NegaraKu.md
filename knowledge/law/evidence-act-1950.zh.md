@@ -47,9 +47,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Sama ada pindaan selepas 1 Disember 2012 (portal rasmi Pejabat Peguam Negara menyenaraikan versi sehingga November 2024) mengubah bilangan atau kandungan mana-mana seksyen yang dirujuk; semak terhadap teks rasmi terkini di lom.agc.gov.my."
-  - "Kata-kata tepat versi Bahasa Melayu bagi setiap seksyen yang dipetik — angka dan huraian dalam draf ini disahkan terhadap teks Inggeris cetakan semula, manakala artikel ini berbahasa Melayu (master ms)."
-  - "Tarikh cetakan semula rasmi terkini serta pautan PDF muat turun rasmi dari portal Pejabat Peguam Negara untuk rujukan arkib (portal menyenaraikan versi tetapi tidak mendedahkan pautan PDF langsung)."
+  - "1 Disember 2012之后的修订（Pejabat Peguam Negara官方门户列出的版本至November 2024）是否更改了所引用任何条文的编号或内容；须根据lom.agc.gov.my上最新的官方文本核对。"
+  - "所引用每一条文的马来文版本确切措辞——本草稿中的数字与说明是对照英文重印本核实的，而本文以马来文撰写（master 为 ms）。"
+  - "最新的官方重印日期，以及来自总检察署门户的官方下载 PDF 链接，供存档参考（该门户列出了版本，但未公开直接的 PDF 链接）。"
 
 updated: 2026-08-07
 sources:

@@ -40,11 +40,11 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Pengesahan bahawa garis dasar dan sasaran PuTERA35 (30% ekuiti; 70% pekerjaan mahir tinggi dengan garis dasar 61%/2022; 15% KDNK dengan garis dasar 9.1%/2022) kekal seperti diterbitkan TERAJU dan tidak dikemas kini selepas 2024."
-  - "Pengesahan angka 18.4% (2020) terhadap sumber statistik rasmi asal (mis. Jabatan Perangkaan / RMK) kerana ia dipetik semula oleh TERAJU, bukan diterbitkan oleh ISEAS."
-  - "Pengesahan ambang peratusan tepat bagi setiap kategori kod SWEC PETRONAS (ekuiti, lembaga pengarah, pengurusan, pekerja) daripada garis panduan pelesenan PETRONAS terkini, kerana ringkasan firma guaman tidak menyenaraikan setiap ambang."
-  - "Pengesahan modal berbayar minimum RM100,000 dan kepentingan Petronas Carigali ≥15% dalam PSC terhadap terbitan rasmi PETRONAS, kerana kedua-dua angka dipetik daripada ringkasan firma guaman."
-  - "Pengesahan status semasa MEDAC sebagai penyelia VDP, kerana penstrukturan semula kementerian boleh mengubah agensi yang bertanggungjawab."
+  - "确认 PuTERA35 的基线与目标（30% 股权；70% 高技能就业，基线为 61%／2022 年；15% GDP，基线为 9.1%／2022 年）与 TERAJU 所公布的一致，且在 2024 年之后未有更新。"
+  - "对照原始官方统计来源（如 Jabatan Perangkaan／RMK）核实 18.4%（2020 年）这一数字，因为它是由 TERAJU 转引，而非由 ISEAS 发布。"
+  - "从PETRONAS最新的发牌指南确认SWEC代码各类别（股权、董事会、管理层、员工）的确切百分比门槛，因为律师事务所的摘要并未列出每一个门槛。"
+  - "就PETRONAS官方出版物核实最低实缴资本RM100,000以及Petronas Carigali在PSC中≥15%的权益，因为这两个数字均引自律师事务所的摘要。"
+  - "核实 MEDAC 作为 VDP 监管机构的当前状态，因为部门重组可能会改变负责的机构。"
 
 revisions:
   - version: "01.00"

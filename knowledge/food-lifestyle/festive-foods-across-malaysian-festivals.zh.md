@@ -44,10 +44,10 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "lihing (wain beras Sabah) dibuang daripada draf ini kerana artikel The Star yang dirujuk (2026-05-31) hanya menyebut tuak, montoku dan tumpung — bukan lihing. Boleh dimasukkan semula jika sumber primer yang sahih ditemui."
-  - "Perincian bahawa tumpung 'diminum melalui sedut daripada bekas secara berkongsi' perlu disahkan semula terhadap teks The Star."
-  - "Pemeriksa fakta menandakan jadual makna simbolik yang ialah 'direka'; namun semakan semula terhadap The Rakyat Post mengesahkan setiap baris (lobak putih = peluang pekerjaan, minyak membulat = rezeki dari segenap arah, sos plum = manisnya kehidupan/ikatan, kacang tanah = kekayaan, lobak merah = nasib baik, keropok = emas). Manusia perlu menyelaraskan percanggahan ini."
-  - "Tempoh '15 hari pertama' dan kerangka Loke Ching Fatt (1940-an/1960-an) telah disahkan semula terhadap The Rakyat Post dan dikekalkan."
+  - "lihing（沙巴米酒）已从本草稿中删除，因为所引用的 The Star 文章（2026-05-31）只提到 tuak、montoku 和 tumpung——而没有 lihing。若找到可靠的第一手来源可重新纳入。"
+  - "关于tumpung「以吸管从容器中共享饮用」的细节须再对照The Star的文本核实。"
+  - "事实核查者将象征意义表标记为「杜撰」；然而对The Rakyat Post的再次核查确认了每一行（白萝卜=工作机会，绕圈淋油=四方来财，酸梅酱=生活的甜蜜/情谊，花生=财富，红萝卜=好运，虾饼=黄金）。须由人工厘清这一矛盾。"
+  - "「首 15 天」的时段以及 Loke Ching Fatt 的年代框架（1940 年代／1960 年代）已重新对照 The Rakyat Post 核实并予保留。"
 revisions:
   - version: "01.00"
     date: 2026-08-01

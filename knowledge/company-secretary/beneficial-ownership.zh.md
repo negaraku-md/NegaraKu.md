@@ -37,7 +37,7 @@ faq:
     a: "第60B(5)条要求公司将已不再是受益所有人者的信息，自其终止之日起保存七年。佐证文件以及第60C条通知与回复须与登记册一并保存相同期限。"
 
 verificationNeeded:
-  - "Confirm the exact late lodgement fee scale applied to beneficial ownership lodgements after 30 September 2024 against SSM's published fee schedule — SSM states late lodgement fees apply but the amounts are not stated in PD 9/2024"
+  - "对照 SSM 公布的费用表，核实 30 September 2024 之后受益权存档所适用的确切逾期存档费标准——SSM 声明会征收逾期存档费，但 PD 9/2024 中并未列明金额"
 
 obligations:
   - what: "Record beneficial ownership information in the register of beneficial owners"

@@ -42,12 +42,12 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Exact current 5-year passport fee post-June-2026 (whether RM200/RM100 tiers still coexist with the new 10-year option, or were replaced) — confirm against P.U.(A) 208/2026 gazette text on lom.agc.gov.my."
-  - "Total number of JIM state/branch offices and overseas Immigration attaché posts — get an exact count from the imi.gov.my directory rather than stating a figure."
-  - "Current total JIM personnel/headcount — the ~14,000 figure is dated ~2014 reporting and needs a current official source."
-  - "Whether the MDAC exemption list (Singapore citizens, Bruneian GCI holders, Thai/Indonesian border-pass holders, etc.) is current — confirm on imigresen-online.imi.gov.my/mdac before relying on it."
-  - "Exact eVisa / eNTRI eligibility and current fees via malaysiavisa.imi.gov.my."
-  - "Confirm the 10-year passport rollout is publicly live nationwide (reporting as of 4 June 2026 did not confirm full public commencement)."
+  - "2026 年 6 月之后 5 年期护照的确切当前费用（RM200/RM100 的等级是否仍与新的 10 年期选项并存，抑或已被取代）— 请对照 lom.agc.gov.my 上 P.U.(A) 208/2026 的宪报文本加以确认。"
+  - "JIM各州／分处办事处及海外移民专员职位的总数——请从imi.gov.my的目录取得确切数目，而非直接给出一个数字。"
+  - "JIM当前的总人员／编制人数——约14,000这一数字源自约2014年的报道，需要一个当前的官方来源。"
+  - "MDAC 豁免名单（新加坡公民、文莱 GCI 持有者、泰国／印尼边境通行证持有者等）是否为最新——在依据之前，请在 imigresen-online.imi.gov.my/mdac 上核实。"
+  - "通过 malaysiavisa.imi.gov.my 确认确切的 eVisa／eNTRI 资格及现行费用。"
+  - "请确认 10 年期护照的推行已在全国范围公开上线（截至 2026 年 6 月 4 日的报道尚未确认全面公开启动）。"
 updated: 2026-08-14
 sources:
   - title: "Introduction – Malaysian Immigration Department"

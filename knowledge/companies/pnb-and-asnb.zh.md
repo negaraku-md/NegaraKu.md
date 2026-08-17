@@ -43,13 +43,13 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Tarikh sejarah: penubuhan PNB (17 Mac 1978), YPB (9 Januari 1978), ASNB (22 Mei 1979) dan pelancaran ASB (2 Januari 1990) — sahkan terhadap laman rasmi PNB/ASNB kerana ia tidak terkandung dalam siaran akhbar Disember 2025 yang dipetik."
-  - "Klausa kelayakan Bumiputera ASB — sahkan perkataan tepat, nombor klausa dan halaman dalam Prospektus Induk ASNB semasa. Kelayakan TIDAK terkandung dalam PHS ASB yang dipetik; ia dinyatakan dalam Prospektus/Prospektus Induk."
-  - "Penanda aras Kadar Deposit Tetap 12 Bulan Maybank FY2025: siaran akhbar menyatakan purata 2.29% manakala PHS menyenaraikan 2.28% — sahkan angka muktamad dan tarikh pengiraan (siaran akhbar merujuk purata sehingga 28 November 2025)."
-  - "Rekonsiliasi bilangan unit/akaun: siaran akhbar menyebut ~280 bilion unit merentas ~15 juta akaun (nota korporat) berbanding 13 juta pemegang akaun unik (badan teks); laman About-Us berasingan menyebut angka unit yang lebih tinggi. Sahkan definisi 'akaun' berbanding 'pemegang akaun unik'."
-  - "Butiran PHS (kategori dana, peruntukan aset, yuran pengurusan 0.35%, penanda aras, pemegang amanah AmanahRaya Trustees Berhad) — sahkan terhadap PHS ASB bertarikh 25 Mei 2026."
-  - "Struktur dua kelas unit ASB (Kelas A / Kelas B) berkuat kuasa 25 Mei 2026 — sahkan terhadap dokumen rasmi ASNB semasa."
-  - "URL Prospektus Induk ASNB dalam senarai sumber tidak dapat diambil semasa penyediaan draf ini (ralat sijil TLS); sahkan pautan langsung dan dokumen semasa."
+  - "历史日期：PNB 的成立（17 Mac 1978）、YPB（9 Januari 1978）、ASNB（22 Mei 1979）以及 ASB 的推出（2 Januari 1990）——由于这些日期未包含在所引用的 2025 年 12 月新闻稿中，请对照 PNB/ASNB 官方网站核实。"
+  - "ASB 的土著（Bumiputera）资格条款——请对照当前的 ASNB Prospektus Induk 核实确切措辞、条款编号及页码。该资格条件并不载于所引用的 ASB PHS 之中；它载于 Prospektus/Prospektus Induk。"
+  - "Maybank FY2025 十二个月定期存款利率基准：新闻稿称平均 2.29%，而 PHS 列出 2.28%——请核实最终数字与计算日期（新闻稿引用的是截至 28 November 2025 的平均值）。"
+  - "单位/账户数目的核对：新闻稿提及约 2,800 亿单位、横跨约 1,500 万账户（企业注记），而正文提及 1,300 万独立账户持有人；另一 About-Us 页面则提及更高的单位数字。请确认「账户」与「独立账户持有人」的定义。"
+  - "PHS 详情（基金类别、资产配置、0.35% 管理费、基准、受托人 AmanahRaya Trustees Berhad）——请对照日期为 2026 年 5 月 25 日的 PHS ASB 核实。"
+  - "自2026年5月25日生效的ASB双单位类别架构（Kelas A／Kelas B）——须对照ASNB现行官方文件核实。"
+  - "来源清单中ASNB主招股书（Prospektus Induk）的URL在编写本稿时无法取得（TLS证书错误）；须核实直接链接及当前文件。"
 revisions:
   - version: "01.00"
     date: 2026-07-28

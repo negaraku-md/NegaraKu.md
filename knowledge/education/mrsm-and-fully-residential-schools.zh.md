@@ -40,10 +40,10 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Nama rasmi kementerian induk MARA yang tepat dan sejarah pertukaran namanya (Kementerian Pembangunan Luar Bandar berbanding Kementerian Kemajuan Desa dan Wilayah)."
-  - "Tempoh Rancangan Malaysia yang dikaitkan dengan pengembangan SBP: halaman rasmi KPM melabel tempoh 1975–1980 sebagai 'Rancangan Malaysia Kedua', tetapi mengikut garis masa lazim Rancangan Malaysia Kedua ialah 1971–1975 (1976–1980 ialah Rancangan Malaysia Ketiga). Perlu disahkan sumber rasmi."
-  - "Bilangan SBP semasa (halaman KPM tidak menyenaraikan jumlah pada teks; sumber sekunder menyebut angka berbeza)."
-  - "Syarat akademik terperinci kemasukan SBP Tingkatan 1 dan Tingkatan 4 mengikut pekeliling/portal PKSK KPM terkini."
+  - "MARA 主管部门的确切官方名称及其更名历史（Kementerian Pembangunan Luar Bandar 对比 Kementerian Kemajuan Desa dan Wilayah）。"
+  - "与SBP扩展相关的马来西亚计划时期：KPM官方页面将1975–1980年时期标为「Rancangan Malaysia Kedua」，但按照通行的时间线，Rancangan Malaysia Kedua为1971–1975年（1976–1980年为Rancangan Malaysia Ketiga）。需以官方来源确认。"
+  - "当前SBP的数目（KPM页面正文未列出总数；二手来源给出不同的数字）。"
+  - "依据 KPM 最新的 PKSK 通函／门户，SBP 中一及中四入学的详细学业要求。"
 revisions:
   - version: "01.00"
     date: 2026-08-08

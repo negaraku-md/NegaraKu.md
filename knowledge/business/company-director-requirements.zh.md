@@ -38,8 +38,8 @@ faq:
     a: "一般而言不必——公司是一个独立法人。但这面盾牌并非绝对。Section 540 容许法庭宣告，明知而参与以欺诈债权人为意图经营业务者，须对公司的债务承担无责任上限的个人责任。Section 539 则在未妥善保存账簿时，把刑事责任加诸于高级职员身上。"
 
 verificationNeeded:
-  - "Confirm what evidence SSM currently accepts as proof of a principal place of residence in Malaysia at incorporation and on a change of director"
-  - "Confirm whether any practice note or guideline currently supplements the s.196(4) ordinarily-resident test"
+  - "确认 SSM 目前在公司注册成立时及更换董事时，接受哪些证据作为在马来西亚主要居住地的证明。"
+  - "请核实目前是否有任何实务说明或指引补充 s.196(4) 的「通常居住」判定标准。"
 
 obligations:
   - what: "维持最低人数的通常居住于马来西亚的董事"

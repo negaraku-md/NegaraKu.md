@@ -45,9 +45,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Had keluasan bagi 'kerja kecil'/permit kerja kecil berbeza mengikut PBT — sahkan angka sebenar (jika ada) dalam undang-undang kecil PBT berkenaan sebelum menyatakan sebarang nilai spesifik."
-  - "Ketersediaan dan syarat 'Pelan Setara' untuk rumah teres berbeza mengikut PBT — sahkan dengan PBT berkaitan."
-  - "Amaun kompaun (RM25,000 / RM50,000) dan fi sehingga 10 kali ganda diambil daripada panduan MBPJ — sahkan jadual semasa MBPJ dan bahawa nilai serupa terpakai di PBT lain."
+  - "「小型工程」／小型工程准证的面积上限因PBT而异——在陈述任何具体数值前，请在相关PBT的附例中确认实际数字（如有）。"
+  - "排屋「Pelan Setara」的可用性与条件因PBT而异——请与相关PBT核实。"
+  - "罚款金额（RM25,000 / RM50,000）及最高达 10 倍的费用取自 MBPJ 指南——请核实 MBPJ 的现行收费表，以及类似数值是否适用于其他地方政府（PBT）。"
 
 updated: 2026-08-08
 sources:

@@ -34,8 +34,8 @@ faq:
     a: "通过 SSM4U 门户 ssm4u.com.my。用户必须先是已注册并通过核实的 SSM4U 用户，然后从 e-BOS 仪表板申请升级为 Verified Professional User，之后才能提交。"
 
 verificationNeeded:
-  - "Confirm the current late lodgement fee scale applied to beneficial ownership lodgements after 30 September 2024 against SSM's published fee schedule"
-  - "Confirm the commencement date of paragraph 68(3)(ia) of the Companies Act 2016, which will require beneficial ownership information to be lodged with the annual return — SSM stated this would be enforced on a date to be determined by the Registrar"
+  - "请对照 SSM 公布的收费表，确认 30 September 2024 之后适用于实益拥有权呈报的现行逾期呈报收费标准。"
+  - "请核实 Companies Act 2016 第 68(3)(ia) 段的生效日期，该段将要求把实益拥有权信息随年报一并存档——SSM 表示这将在注册官（Registrar）确定的日期起执行。"
 
 obligations:
   - what: "通过 e-BOS 向注册官提交实益拥有权资料"

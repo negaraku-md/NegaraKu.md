@@ -38,9 +38,9 @@ faq:
     a: "DBKK 公布的发照指南要求申请人须为沙巴的本地居民或永久居民，或者如果来自砂拉越或马来西亚半岛，则须持有工作准证。其申请表对被列为执照经理的公司董事重复了这一点。沙巴的入境自主权建立在《联邦宪法》第161E条以及《1959/63年移民法令》第七部之上。"
 
 verificationNeeded:
-  - "The current in-force text and amendment history of the Trades Licensing Ordinance (Sabah Cap. 144) — the version published by the Sabah State Attorney-General's Chambers is stamped FOR REFERENCE ONLY (October 2011) and carries no amendment table"
-  - "Published trading licence fee schedules for Majlis Perbandaran Sandakan, Majlis Perbandaran Tawau and the district councils — only DBKK publishes a rate"
-  - "The specific pass class, duration and cost of a Sabah work pass for a non-Sabahan Malaysian business owner — Jabatan Imigresen Sabah does not publish this in a retrievable form"
+  - "Trades Licensing Ordinance (Sabah Cap. 144)现行有效的条文及修订历史——由Sabah State Attorney-General's Chambers公布的版本盖有FOR REFERENCE ONLY（2011年10月）字样，且不附修订表"
+  - "Majlis Perbandaran Sandakan、Majlis Perbandaran Tawau及各县议会公布的营业执照收费表——仅DBKK公布了费率。"
+  - "非沙巴籍马来西亚企业主所需的沙巴工作准证的具体准证类别、期限与费用——Jabatan Imigresen Sabah 并未以可取得的形式公布这些信息。"
 
 obligations:
   - what: "在沙巴经营任何生意之前，为每一处营业地点持有一张有效的贸易执照"

@@ -46,10 +46,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Sensitivity rating: this entry foregrounds federal-budget dependence on PETRONAS and references the Sarawak/Sabah petroleum-revenue (royalty) debates — a live federal/state political tension. A human reviewer should confirm whether 'none' is the correct sensitivity classification or whether it should be raised."
-  - "The RM72.4 billion government-contribution breakdown (RM32.0bn dividend, RM26.8bn taxes, RM13.1bn cash payments, RM0.5bn National Trust Fund) and the per-segment revenue/PAT figures are supported by the PETRONAS Integrated Report 2024 PDF, not by the FY2024 results press release. Confirm each figure against the Integrated Report before publication."
-  - "Downstream FY2024 result: the Integrated Report presents a Downstream loss after tax; the RM1.7 billion shown is the figure excluding the impact of the Engen Group deconsolidation. Confirm the exact reported figure and the footnote wording."
-  - "PDA 1974 wording: the quoted description follows Malaysia Petroleum Management's regulatory overview, which is a summary of the statute. If the Act itself is to be quoted, confirm the verbatim statutory language (the operative section refers to exploring, exploiting, winning and obtaining petroleum) against the primary legislative text."
+  - "敏感度评级：本条目突出了联邦预算对PETRONAS的依赖，并提及Sarawak／Sabah石油收入（矿区使用费）的争论——这是一项现实存在的联邦／州政治张力。人工审稿者应确认「none」是否为正确的敏感度分类，抑或应予提高。"
+  - "RM72.4 billion对政府贡献的明细（RM32.0bn股息、RM26.8bn税款、RM13.1bn现金支付、RM0.5bn National Trust Fund）以及各业务分部的收入／PAT数字，其依据是PETRONAS Integrated Report 2024的PDF，而非FY2024业绩新闻稿。发布前请对照该Integrated Report核实每一项数字。"
+  - "下游业务 FY2024 业绩：综合报告呈列的是下游业务的税后亏损；所显示的 RM1.7 billion 是不计 Engen Group 剥离并表影响的数字。请核实确切的报告数字及脚注措辞。"
+  - "PDA 1974 的措辞：所引述的描述沿用 Malaysia Petroleum Management 的监管概述，而这只是对该法令的摘要。若要引用法令本身，请对照第一手立法文本确认逐字的法定用语（相关条文提及勘探、开采、获取及取得石油）。"
 
 updated: 2026-08-01
 sources:
