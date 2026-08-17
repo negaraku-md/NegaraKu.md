@@ -18,10 +18,17 @@ const { locale } = Astro.props;
 const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 // Newest-first, and only articles that actually exist in this locale (not master
-// fallbacks) — same rule as All Articles.
+// fallbacks) — same rule as All Articles. Then bound the list to "recent": keep
+// articles updated within the last 30 days, and never more than 100 cards —
+// whichever limit is reached first (so a busy month still stops at 100).
+const RECENT_DAYS = 30;
+const MAX_ITEMS = 100;
+const cutoff = Date.now() - RECENT_DAYS * 24 * 60 * 60 * 1000;
 const canonical = (await articlesForLocale(locale))
   .filter((a) => a.data.lang === locale)
-  .sort((a, b) => +new Date(b.data.updated) - +new Date(a.data.updated));
+  .sort((a, b) => +new Date(b.data.updated) - +new Date(a.data.updated))
+  .filter((a) => +new Date(a.data.updated) >= cutoff)
+  .slice(0, MAX_ITEMS);
 
 const secCount = new Set(canonical.map((a) => getPillar(a.data.category)).filter(Boolean)).size;
 const catCount = new Set(canonical.map((a) => a.data.category)).size;
@@ -36,9 +43,9 @@ const topCount = new Set(canonical.flatMap((a) => (a.data.subcategory ?? []).map
   ]}
   title={L('Artikel Terkini', 'Latest Articles', '最新文章')}
   desc={L(
-    'Setiap artikel, terbaharu dahulu — dikumpulkan mengikut tarikh kemas kini.',
-    'Every article, newest first — grouped by the date it was last updated.',
-    '每篇文章，最新优先——按最后更新日期分组。',
+    'Kemas kini terbaharu — artikel yang berubah dalam 30 hari lepas (sehingga 100), dikumpulkan mengikut tarikh.',
+    'The most recent updates — articles changed in the last 30 days (up to 100), grouped by date.',
+    '最新更新——过去 30 天内变更的文章（最多 100 篇），按日期分组。',
   )}
   stats={[
     { value: secCount, label: L('seksyen', 'sections', '版块') },
