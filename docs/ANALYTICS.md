@@ -32,7 +32,7 @@ bucket is either a plain number or `{ total, byBot }`:
 Absent file → the row renders `—` and *not tracked yet*. **No numbers are ever
 invented.**
 
-## How the data gets collected (built — deploy to activate)
+## How the data gets collected — LIVE since 2026-08-17
 
 The site is static (GitHub Pages), which cannot see User-Agents, so classifying
 humans vs search vs AI needs a request-logging layer in front. That layer is
@@ -46,12 +46,13 @@ now in the repo:
 2. **Build step** — `scripts/build-analytics.mjs` (wired into `predev`/`prebuild`)
    writes `public/api/analytics.json` as an **all-time** count (see below).
 
-**To go live** (one-time), follow `worker/README.md`: `wrangler deploy`, switch
-the `negaraku.md` DNS records to **Proxied** (orange) with SSL mode **Full**, and
-add repo secrets `CF_ACCOUNT_ID` + `CF_API_TOKEN` (token scope *Account
-Analytics: Read*) exposed to the build. Until then the build step serves the
-committed snapshot (or nothing) and the site shows **"not tracked yet"** —
-nothing breaks.
+**Activation (completed 2026-08-17).** The one-time setup in `worker/README.md`
+is done: the Worker `negaraku-analytics` is deployed (`wrangler deploy`) on the
+`negaraku.md/*` route, the DNS is **Proxied** (orange) with SSL mode **Full**, and
+the repo secrets `CF_ACCOUNT_ID` + `CF_API_TOKEN` (token scope *Account Analytics:
+Read*) are set and exposed to the build. If a secret is ever missing/invalid the
+build fails open — it serves the committed snapshot and the card shows **"not
+tracked yet"** — nothing breaks. See **Operations & troubleshooting** below.
 
 ## All-time counts beyond the 90-day window
 
@@ -81,3 +82,31 @@ Honest limits: counting only starts the day the Worker was deployed (no
 backfill), and AI/search classification is only as good as the bot list in
 `worker/src/classify.js`. High-volume counts are AE **estimates** (it samples and
 the queries sum `_sample_interval`).
+
+## Operations & troubleshooting
+
+The card shows `—` / *not tracked yet* whenever `public/api/analytics.json` is
+`{}`. Three real-world causes, in the order they bit during activation:
+
+1. **The Worker isn't deployed / the domain isn't proxied** → nothing is logged.
+   Confirm `curl -I https://negaraku.md/` returns a `CF-Ray` header and that
+   `negaraku-analytics` shows in Cloudflare → Workers on the `negaraku.md/*` route.
+2. **The deploy never ran.** An **empty commit does NOT trigger `deploy.yml`** —
+   `paths-ignore` plus zero file changes makes GitHub skip the push. Force a
+   rebuild with **workflow_dispatch** (Actions → *Deploy to GitHub Pages* → *Run
+   workflow*), not an empty commit.
+3. **`build-analytics` logs `AE SQL API 401`.** The `CF_API_TOKEN` *secret* is
+   invalid/expired or lacks *Account Analytics → Read* — even when a local token
+   works fine. Fix by updating the secret with a valid token, then re-dispatch.
+
+**Diagnostics:**
+- `curl https://negaraku.md/api/analytics.json` — `{}` means nothing was baked.
+- `npm run verify:analytics` (with `CF_ACCOUNT_ID` + a read token) queries AE
+  **directly**, bypassing the build. Real figures here but `{}` on the page ⇒ a
+  build/secret problem, not a logging one.
+- Read the CI **Build** step log for the `[analytics] …` line to see which branch
+  ran: `no CF creds` (secret not reaching the build) / `live tail query failed …
+  401` (bad token) / `snapshot + N live tail row(s)` (working).
+- Numbers are **build-time**, not live — a visit surfaces only after the next
+  deploy runs `build-analytics`. A page shows Search/AI only once a crawler has
+  actually hit *that* page.
