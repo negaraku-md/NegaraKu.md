@@ -35,7 +35,6 @@ faq:
 
 verificationNeeded:
   - "Confirm whether any specific pass classes — for example student passes, dependant passes with work endorsement, or Professional Visit Passes — fall outside the Part F requirement, against KWSP directly; the employer guidance reviewed does not enumerate pass classes"
-  - "Confirm the treatment of non-citizen employees aged 60 and over under Part F, and whether any reduced rate applies, against KWSP directly"
 
 obligations:
   - what: "为非马来西亚公民雇员向 EPF 注册"

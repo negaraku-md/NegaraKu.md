@@ -43,11 +43,9 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Exact KLRCA founding date: cited law-firm sources give 1978 (one gives 17 April 1978); confirm the precise founding date against an AIAC/AALCO primary record."
   - "Amendment-history dates: confirm the Arbitration (Amendment) Act 2011 (in force ~1 July 2011) and the two 2018 amendments (reported in force 28 Feb 2018 and 8 May 2018) against the Federal Gazette."
   - "Arbitration (Amendment) Act 2024 in-force date of 1 January 2026 — confirm against the official commencement notification in the Federal Gazette."
   - "Third-party funding Code of Practice RM 10 million capital-adequacy figure — confirm against the published Code itself, not a secondary summary."
-  - "AIAC Arbitration Rules 2023 Fast-Track thresholds (USD 300,000 / RM 1,000,000) and 6-/9-month award deadlines — confirm against the Rules text."
 revisions:
   - version: "01.00"
     date: 2026-08-07
@@ -56,6 +54,12 @@ revisions:
 
 updated: 2026-08-07
 sources:
+  - title: "About AIAC — established 1978 (as KLRCA) under AALCO"
+    url: "https://www.aiac.world/"
+    publisher: "Asian International Arbitration Centre (AIAC)"
+  - title: "AIAC Arbitration Rules 2023, Schedule 4 (Fast Track Procedure)"
+    url: "https://admin.aiac.world/uploads/ckupload/ckupload_20230825011746_12.pdf"
+    publisher: "Asian International Arbitration Centre (AIAC)"
   - title: "The (new) AIAC Arbitration Rules 2023: Flexibility and Efficiency"
     url: "https://www.skrine.com/insights/alerts/september-2023/the-new-aiac-arbitration-rules-2023-flexibility-an"
     publisher: "Skrine"

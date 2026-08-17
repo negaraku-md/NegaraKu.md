@@ -45,7 +45,6 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Sahkan syarat pemilikan 51% saham oleh warga Malaysia terhadap dokumen primer JTKSM (Garis Panduan Prosedur Perlesenan APS / Penetapan Syarat-syarat Lesen), bukan hanya ringkasan firma guaman."
   - "Sahkan keperluan awalan nama 'Agensi Pekerjaan' terhadap syarat lesen rasmi JTKSM terkini."
   - "Sahkan had yuran satu bulan gaji pokok bagi pekerja bukan warganegara — pastikan ia terpakai untuk semua kategori dan tidak berubah selepas pindaan terbaru."
   - "Sahkan jumlah modal berbayar, jaminan wang, tempoh sah 24 bulan dan yuran permohonan RM300 terhadap jadual syarat lesen rasmi JTKSM semasa (angka boleh dipinda)."

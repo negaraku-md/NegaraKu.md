@@ -35,7 +35,6 @@ faq:
 
 verificationNeeded:
   - "Sahkan sama ada mana-mana kelas pas tertentu — contohnya pas pelajar, pas tanggungan dengan endorsan kerja, atau Pas Lawatan Profesional (Professional Visit Pass) — terkecuali daripada keperluan Part F, terus dengan KWSP; panduan majikan yang disemak tidak menyenaraikan kelas-kelas pas"
-  - "Sahkan layanan terhadap pekerja bukan warganegara berumur 60 tahun ke atas di bawah Part F, dan sama ada terdapat kadar dikurangkan yang terpakai, terus dengan KWSP"
 
 obligations:
   - what: "Daftarkan pekerja bukan warganegara Malaysia dengan KWSP"

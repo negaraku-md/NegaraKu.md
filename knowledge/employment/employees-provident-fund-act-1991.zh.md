@@ -42,11 +42,12 @@ revisions:
     reviewer: null
 verificationNeeded:
   - "Exact age-60-and-above contribution rates and the several rate options — confirm against KWSP 'Mandatory Contribution' page and the Third Schedule before stating specific numbers"
-  - "Precise current wording and rate rows of the Third Schedule (the RM5,000 threshold split) — confirm against the AGC consolidated text rather than payroll-blog summaries"
-  - "Exact section number for age-55 withdrawal (a source labelled it 's.55A') — confirm in AGC text"
   - "Latest fund size (RM1.25 trillion, end-2024) and membership (16.22m total / 8.78m active) — refresh against KWSP's most recent annual report at publish time"
 updated: 2026-08-14
 sources:
+  - title: "Third Schedule to the EPF Act 1991 (effective 1 October 2025) — contribution rates"
+    url: "https://www.kwsp.gov.my/documents/d/guest/third_schedule_from_-1-october-2025"
+    publisher: "Kumpulan Wang Simpanan Pekerja (KWSP)"
   - title: "EPF Declares 6.15% Dividend for Simpanan Konvensional and 6.15% for Simpanan Shariah"
     url: "https://www.kwsp.gov.my/en/w/news/epf-declares-6-15-dividend-for-simpanan-konvensional-and-6-15-for-simpanan-shariah"
     publisher: "Kumpulan Wang Simpanan Pekerja (EPF/KWSP)"
