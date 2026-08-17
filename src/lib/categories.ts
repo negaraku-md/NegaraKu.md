@@ -652,6 +652,9 @@ export const CATEGORY_COLORS: Record<string, string> = {
   energy: '#FACC15',
   environment: '#4ADE80',
   sports: '#FB7185',
+  'settling-in': '#5EEAD4',
+  'money-daily-life': '#93C5FD',
+  'cost-of-living': '#FDBA74',
 };
 
 export function getCategoryColor(id: string): string {
