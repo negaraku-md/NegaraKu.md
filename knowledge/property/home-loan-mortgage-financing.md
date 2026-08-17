@@ -51,7 +51,6 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Item tepat Jadual Pertama Akta Setem 1949 yang mengawal duti setem surat cara pinjaman perumahan (perjanjian pinjaman lazimnya Item 22(1), gadaian/charge di bawah Item 27) — kadar 0.5% disahkan, tetapi sub-item tepat perlu dirujuk pada teks akta rasmi."
   - "Formula dan syarat pengeluaran maksimum KWSP Akaun Sejahtera (deposit / kurangkan pokok / ansuran bulanan) perlu disahkan pada halaman rasmi kwsp.gov.my; halaman rasmi wujud tetapi tidak dapat dicapai secara automatik semasa semakan."
   - "Had tempoh maksimum 35 tahun disokong oleh siaran akhbar BNM (2016), bukan dokumen dasar Pembiayaan Bertanggungjawab semasa — sahkan terhadap dokumen dasar terkini."
   - "Ambang RM500,000 dan tarikh tamat 31 Disember 2027 bagi pengecualian duti setem Belanjawan 2026 perlu disahkan terhadap Akta Kewangan / warta rasmi apabila diterbitkan."
@@ -59,6 +58,9 @@ verificationNeeded:
 
 updated: 2026-08-08
 sources:
+  - title: "Stamp Act 1949 (Act 378), First Schedule Item 27 (0.5% on loan/charge)"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20378.pdf"
+    publisher: "Attorney General's Chambers"
   - title: "Responsible lending guidelines ensures borrowers' affordability"
     url: "https://www.bnm.gov.my/-/responsible-lending-guidelines-ensures-borrowers-affordability"
     publisher: "Bank Negara Malaysia"

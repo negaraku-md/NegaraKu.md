@@ -41,7 +41,6 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Denda di bawah Akta Makanan 1983 (sehingga RM100,000 / penjara sehingga 10 tahun) dan rujukan Peraturan-Peraturan Kebersihan Makanan 2009 — sahkan terhadap teks statut sebenar dan seksyen kesalahan yang berkaitan (bukan sekadar liputan berita)."
   - "Tahun 1960-an sebagai asal usul bazar Jalan Raja Alang, Kampung Baru — hanya bersumberkan liputan sekunder (ANTARA); sahkan dengan sumber sejarah/DBKL yang berwibawa."
   - "Butiran penguatkuasaan spesifik (pengesanan jualan tapak melalui WhatsApp dan laporan polis) — bersumberkan RTM; sahkan ia terpakai bagi musim Ramadan 2026."
   - "Sewa tapak Putrajaya RM1,000 bagi 2026 — sahkan dengan pengumuman rasmi Perbadanan Putrajaya."
@@ -54,6 +53,9 @@ revisions:
 
 updated: 2026-08-01
 sources:
+  - title: "Food Act 1983 (Act 281), s.13(1)"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20281%20-%20Food%20Act%201983.pdf"
+    publisher: "Attorney General's Chambers"
   - title: "Sewa Tapak Bazar Ramadan 2026 DBKL Diturunkan Kepada RM400"
     url: "https://bernama.com/bm/news.php?id=2515966"
     publisher: "Bernama"

@@ -35,7 +35,6 @@ faq:
     a: "根据 Judicial Appointments Commission Act 2009，该委员会甄选具备资格、够格获委任为上级法院法官的人选，供首相考虑；接受申请；制定并落实甄选机制；并建议改善司法行政的方案。该委员会自身的门户网站将其程序描述为第122B条（Article 122B）所定委任程序之前的程序。"
 
 verificationNeeded:
-  - "请直接对照 Subordinate Courts Act 1948 第65及90条（sections 65 and 90）的现行文本，核实地庭与推事庭民事管辖权的金额限额——本文所用数字取自马来西亚司法机构自身门户网站所公布者，因撰写本文时，AGC 门户网站未提供 Act 92 的可下载文本。"
   - "请核实 Courts of Judicature Act 1964 第68(1)(a)条（section 68(1)(a)）所定 RM250,000 门槛是否仍然现行——所参考的 AGC 文本，为截至2014年8月1日（1 August 2014）重印本的网上版本。"
   - "请核实由 P.U. (A) 163/2009、P.U. (A) 164/2009 及 P.U. (A) 384/2006 所设定的法官人数上限，是否已被最高元首后续的命令所取代。"
 
@@ -58,6 +57,9 @@ revisions:
 
 updated: 2026-07-24
 sources:
+  - title: "Subordinate Courts Act 1948 (Act 92), s.65(1)(b) & s.90 — civil jurisdiction limits"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/Act%2092.pdf"
+    publisher: "Attorney General's Chambers"
   - title: "Federal Constitution (Reprint as at 15 October 2020) — Part IX, The Judiciary"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
     publisher: "Attorney General's Chambers of Malaysia"

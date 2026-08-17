@@ -41,7 +41,6 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Confirm the s.575(7) waiver grounds and any current SSM practice/guidance on how waivers are applied for and granted."
   - "Confirm client-specific dates: the branch's financial year-end and AGM date that fix the two-month lodgement deadline under s.575(1)."
 revisions:
   - version: "01.00"

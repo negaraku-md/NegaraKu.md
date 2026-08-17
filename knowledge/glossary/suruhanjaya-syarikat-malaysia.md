@@ -53,10 +53,12 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Confirm the exact MBRS 2.0 phased-mandatory dates (1 December 2024 start; full enforcement mid-2025) against SSM's own official media release / AD 2024 Overview of MBRS v2 PDF (currently corroborated via XBRL International)."
+verificationNeeded: []
 updated: 2026-08-01
 sources:
+  - title: "SSM Announcement — Phased Mandatory MBRS 2.0 (Fasa 1: 1 Dis 2024; Fasa 3: 1 Jun 2025)"
+    url: "https://www.ssm.com.my/Lists/Announcement/AnnouncementDetails.aspx?ID=379"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
   - title: "Companies Commission of Malaysia Act 2001 (Act 614), official reprint as at 1 March 2018"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/CCMA%20Act%20614_as%20at%201%20March%202018).pdf"
     publisher: "Suruhanjaya Syarikat Malaysia (SSM)"

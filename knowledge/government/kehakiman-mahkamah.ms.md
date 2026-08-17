@@ -35,7 +35,6 @@ faq:
     a: "Di bawah Judicial Appointments Commission Act 2009, Suruhanjaya memilih orang yang layak dan bersesuaian untuk dilantik sebagai hakim mahkamah atasan bagi pertimbangan Perdana Menteri, menerima permohonan, merangka dan melaksanakan mekanisme pemilihan, serta mengesyorkan program untuk menambah baik pentadbiran keadilan. Portal Suruhanjaya itu sendiri menerangkan prosesnya sebagai proses yang mendahului proses pelantikan di bawah Perkara 122B."
 
 verificationNeeded:
-  - "Sahkan had kewangan bidang kuasa sivil Mahkamah Sesyen dan Mahkamah Majistret secara langsung terhadap teks semasa seksyen 65 dan 90 Subordinate Courts Act 1948 — angka yang digunakan di sini adalah yang diterbitkan oleh portal Badan Kehakiman sendiri, kerana portal AGC tidak menyediakan teks Act 92 yang boleh dimuat turun pada masa penulisan."
   - "Sahkan sama ada ambang RM250,000 dalam seksyen 68(1)(a) Courts of Judicature Act 1964 masih terkini — teks AGC yang dirujuk ialah versi dalam talian cetakan semula setakat 1 Ogos 2014 (1 August 2014)."
   - "Sahkan bahawa had siling bilangan hakim yang ditetapkan oleh P.U. (A) 163/2009, P.U. (A) 164/2009 dan P.U. (A) 384/2006 tidak digantikan oleh perintah Yang di-Pertuan Agong yang lebih terkini."
 
@@ -58,6 +57,9 @@ revisions:
 
 updated: 2026-07-24
 sources:
+  - title: "Subordinate Courts Act 1948 (Act 92), s.65(1)(b) & s.90 — civil jurisdiction limits"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/Act%2092.pdf"
+    publisher: "Attorney General's Chambers"
   - title: "Federal Constitution (Reprint as at 15 October 2020) — Part IX, The Judiciary"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
     publisher: "Attorney General's Chambers of Malaysia"

@@ -50,12 +50,14 @@ revisions:
     reviewer: null
 verificationNeeded:
   - "Penalti bayaran lewat 10% ke atas cukai tertunggak — sahkan kadar dan mekanisme semasa terhadap panduan penalti rasmi LHDN (Seksyen 21/29 RPGTA)."
-  - "Kadar penahanan Seksyen 21B: 3% (individu warganegara/PR), 5% (syarikat, berkuat kuasa 1.1.2022), 7% (bukan warganegara/bukan PR) — sahkan terhadap panduan RPGT LHDN terkini."
   - "Senarai pengecualian (sekali seumur hidup, pindah milik keluarga atas kasih sayang, kerajaan/badan amal, kematian/penceraian) — sahkan perincian syarat terhadap Jadual 4 dan Perintah Pengecualian RPGT semasa."
   - "Nombor dan proses borang CKHT (1A/1B/2A/3) serta e-CKHT melalui MyTax — sahkan terhadap portal rasmi LHDN."
 
 updated: 2026-08-08
 sources:
+  - title: "Real Property Gains Tax Act 1976 (Act 169), s.21B(1)/(1A)(a)/(b) — 3%/5%/7% retention"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1982253_BI/Act%20169%20(Online%202025).pdf"
+    publisher: "Attorney General's Chambers"
   - title: "Real Property Gains Tax (RPGT) Rates"
     url: "https://www.hasil.gov.my/ckht/kadar-cukai/"
     publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"

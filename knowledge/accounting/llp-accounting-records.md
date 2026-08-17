@@ -47,7 +47,6 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Teks penalti s.68(7) telah disemak semula terhadap Akta 743 (teks kemas kini 1 Ogos 2022) dan bersifat disjunktif (penjara ATAU denda ATAU kedua-duanya); sila sahkan sekali lagi terhadap teks bercetak Warta yang terkini."
   - "Nama dan prosedur portal serah simpan dalam talian (MyLLP) — sahkan portal semasa dan langkah serahan perakuan tahunan dengan panduan rasmi SSM terkini."
   - "Kriteria pengecualian audit Sdn Bhd yang ditetapkan oleh Pendaftar (dirujuk secara umum sahaja dalam artikel) — sahkan ambang semasa jika angka spesifik hendak ditambah."
 revisions:

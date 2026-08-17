@@ -35,7 +35,6 @@ faq:
     a: "Under the Judicial Appointments Commission Act 2009, the Commission selects suitably qualified persons who merit appointment as judges of the superior court for the Prime Minister's consideration, receives applications, formulates and implements selection mechanisms, and recommends programmes to improve the administration of justice. The Commission's own portal describes its process as the process preceding the appointment process under Article 122B."
 
 verificationNeeded:
-  - "Confirm the monetary limits of the Sessions Court and Magistrates' Court civil jurisdiction directly against the current text of sections 65 and 90 of the Subordinate Courts Act 1948 — the figures used here are those published by the Judiciary's own portal, as the AGC portal did not serve a downloadable text of Act 92 at the time of writing."
   - "Confirm that the RM250,000 threshold in section 68(1)(a) of the Courts of Judicature Act 1964 is still current — the AGC text consulted was the online version of the reprint as at 1 August 2014."
   - "Confirm that the judge-number ceilings set by P.U. (A) 163/2009, P.U. (A) 164/2009 and P.U. (A) 384/2006 have not been superseded by a later order of the Yang di-Pertuan Agong."
 
@@ -57,6 +56,9 @@ revisions:
 
 updated: 2026-07-24
 sources:
+  - title: "Subordinate Courts Act 1948 (Act 92), s.65(1)(b) & s.90 — civil jurisdiction limits"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/Act%2092.pdf"
+    publisher: "Attorney General's Chambers"
   - title: "Federal Constitution (Reprint as at 15 October 2020) — Part IX, The Judiciary"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
     publisher: "Attorney General's Chambers of Malaysia"

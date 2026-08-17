@@ -51,12 +51,14 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "The prohibition on a single company holding a composite (life + general) licence — true under FSA 2013 but not directly substantiated by the cited AGC act-detail page; confirm against FSA 2013 Schedule 9 or a BNM policy document before publication."
   - "2025 general insurance line-level underwriting results (motor loss RM289.3m, fire profit RM700.8m, MAT profit RM108.1m) and combined ratios — confirm against the full PIAM statistical release, not only the summary press release."
   - "Life insurance in-force totals (roughly 13 million policies, RM46.3 billion premium in force, ~RM2 trillion sums assured in force) and the 58.6% penetration rate — confirm against LIAM's own published statistics."
 
 updated: 2026-08-01
 sources:
+  - title: "Financial Services Act 2013 (Act 758), s.16(1) — composite licence prohibition"
+    url: "https://www.investmalaysia.gov.my/media/xrnl0vfp/financial-services-act-2013.pdf"
+    publisher: "Attorney General's Chambers"
   - title: "Malaysia's General Insurance Industry Posts RM1.2 Billion Underwriting Profit"
     url: "https://piam.org.my/news-media/stay-ahead/press-releases/article/Malaysia-s-General-Insurance-Industry-Posts-RM1-2-Billion-Underwriting-Profit-Reinforcing-Financial-Resilience-for-Malaysians/"
     publisher: "Persatuan Insurans Am Malaysia (PIAM)"
