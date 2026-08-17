@@ -380,9 +380,9 @@ const { locale, path } = Astro.props;
   .lang-menu-list {
     position: absolute;
     top: calc(100% + 6px);
-    /* On mobile `.tools` is order:-1 (bar's left edge), so open rightward to stay
-       on-screen rather than off the left edge. */
-    left: 0;
+    /* `.tools` sits at the bar's right edge on mobile, so open the menu leftward
+       (anchor its right edge) to stay on-screen rather than off the right edge. */
+    right: 0;
     min-width: 168px;
     display: flex;
     flex-direction: column;
@@ -423,7 +423,7 @@ const { locale, path } = Astro.props;
       display: inline-flex;
       flex-direction: column;
       gap: 4px;
-      margin-inline-start: auto;
+      order: 3; /* the menu stays last (far right) */
       cursor: pointer;
       padding: 0.4rem;
     }
@@ -465,8 +465,12 @@ const { locale, path } = Astro.props;
       width: 100%;
       justify-content: space-between;
     }
+    /* Logo stays left; search/GitHub/language sit right-aligned after it; the
+       menu (hamburger) stays last. `margin-inline-start: auto` pushes the tools
+       cluster (and the menu after it) to the right edge. */
     .tools {
-      order: -1;
+      order: 2;
+      margin-inline-start: auto;
     }
   }
 
