@@ -36,6 +36,7 @@ export const NAV: NavMenu[] = [
       { label: 'nav.businessMalaysia', href: '/doing-business' },
       { label: 'nav.categories', href: '/categories' },
       { label: 'nav.graph', href: '/graph' },
+      { label: 'nav.articles', href: '/articles' },
     ],
   },
   {
@@ -67,5 +68,4 @@ export const NAV: NavMenu[] = [
       { label: 'nav.settings', href: '/settings' },
     ],
   },
-  { label: 'nav.articles', href: '/articles', secret: true },
 ];
