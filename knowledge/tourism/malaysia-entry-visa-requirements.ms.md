@@ -42,7 +42,7 @@ translationStatus: "in-sync"
 sourceContentHash: "cdbee74bde6667f6"
 
 verificationNeeded:
-  - "Whether a blank passport page is formally required for entry (not stated on the cited MIDA source)."
+  - "Sama ada muka surat pasport kosong secara formal diperlukan untuk masuk (tidak dinyatakan pada sumber MIDA yang dipetik)."
 
 status: "published"
 publishedBy: "ashton-tan"

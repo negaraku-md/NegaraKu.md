@@ -46,8 +46,8 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Commencement dates of specific CMSA 2007 divisions (e.g. Division 2 of Part VI) if that level of detail is reinstated — cite the gazette/commencement notice."
-  - "Act number for the Securities Industry (Central Depositories) Act 1991 (reported as Act 453) if added to the text."
+  - "Tarikh permulaan kuat kuasa bahagian CMSA 2007 tertentu (cth. Division 2 of Part VI) jika tahap perincian itu dipulihkan — petik warta/notis permulaan kuat kuasa."
+  - "Nombor Akta bagi Securities Industry (Central Depositories) Act 1991 (dilaporkan sebagai Act 453) jika ditambah ke dalam teks."
 updated: 2026-08-08
 sources:
   - title: "About the SC"

@@ -37,8 +37,8 @@ faq:
     a: "Bagi instrumen yang berada dalam fasa STSDS yang sudah berkuat kuasa, borang pulangan itu sendiri membuat taksiran dan tiada langkah pengadjudikasian berasingan diperlukan. Bagi instrumen yang masih dalam Fasa 2 atau Fasa 3, taksiran formal terus terpakai sehingga fasa itu bermula, jadi dokumen tersebut diserahkan dan LHDN mengeluarkan notis taksiran seperti biasa."
 
 verificationNeeded:
-  - "The Stamp Duty Audit Framework (Rangka Kerja Audit Duti Setem) dated 1 January 2025 is referenced in LHDN's media release but the framework document itself was not retrieved, so its penalty and voluntary disclosure terms are not stated here"
-  - "The scope and conditions of the 2026 penalty remission programme under s.72D(3) are described in LHDN's operational guidelines but the enabling instrument was not read directly"
+  - "Stamp Duty Audit Framework (Rangka Kerja Audit Duti Setem) bertarikh 1 Januari 2025 dirujuk dalam siaran media LHDN tetapi dokumen rangka kerja itu sendiri tidak diperoleh, jadi terma penalti dan pendedahan sukarelanya tidak dinyatakan di sini"
+  - "Skop dan syarat program pengurangan penalti 2026 di bawah s.72D(3) diperihalkan dalam garis panduan operasi LHDN tetapi instrumen pemboleh tidak dibaca secara langsung"
 
 obligations:
   - what: "Stamp an instrument chargeable with duty"

@@ -47,8 +47,8 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Confirm MIA/AASB has adopted ISA 600 (Revised) specifically with the 15 December 2023 effective date; IFAC confirms adoption without modification in general, but a MIA effective-date circular for ISA 600 (Revised) should be sighted."
-  - "Confirm whether the specific Malaysian subsidiary in scope qualifies for any audit exemption (certain dormant/threshold-qualifying private companies) before assuming a statutory audit is required."
+  - "Sahkan MIA/AASB telah menerima pakai ISA 600 (Revised) secara khusus dengan tarikh kuat kuasa 15 Disember 2023; IFAC mengesahkan penerimaan pakai tanpa pengubahsuaian secara amnya, tetapi pekeliling tarikh kuat kuasa MIA bagi ISA 600 (Revised) perlu dilihat."
+  - "Sahkan sama ada anak syarikat Malaysia tertentu yang dalam skop layak mendapat sebarang pengecualian audit (syarikat persendirian tertentu yang dorman/memenuhi ambang) sebelum menganggap audit statutori diperlukan."
 updated: 2026-08-08
 sources:
   - title: "Companies Act 2016 (Act 777), online updated text of reprint as at 1 August 2022"

@@ -36,8 +36,8 @@ faq:
     a: "Seksyen 102(c) Akta Kerajaan Tempatan 1976 secara nyata memasukkan kuasa untuk membuang iklan, dan s.104 mengehadkan penalti undang-undang kecil pada denda sehingga RM2,000, penjara sehingga satu tahun, atau kedua-duanya, tambah RM200 bagi setiap hari kesalahan itu diteruskan selepas sabitan. Dalam amalan, majlis lebih dahulu menggunakan pelucuthakan deposit apabila papan tanda tidak diturunkan."
 
 verificationNeeded:
-  - "The specific compound amount for an unlicensed signboard at any of the four councils — only the statutory ceiling in s.104 is confirmed"
-  - "MBSA's area-based annual signboard tariff — only the advertisement processing fee and the flat bunting and banner rates are published"
+  - "Amaun kompaun khusus bagi papan tanda tanpa lesen di mana-mana daripada empat majlis tersebut — hanya siling berkanun dalam s.104 yang disahkan"
+  - "Tarif papan tanda tahunan berdasarkan keluasan MBSA — hanya yuran pemprosesan iklan dan kadar rata bunting dan sepanduk yang diterbitkan"
 
 lang: "ms"
 masterLanguage: "en"

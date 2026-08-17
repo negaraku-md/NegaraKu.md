@@ -24,9 +24,9 @@ keyTakeaways:
 appliesTo: "Pengasas yang membina dompet, produk nilai simpanan (stored-value), skim kesetiaan dan ganjaran, pasaran (marketplace) yang memegang dana, dan sesiapa yang diberitahu mereka memerlukan lesen pembayaran."
 
 verificationNeeded:
-  - "Whether a specific marketplace or escrow-style flow amounts to operating a payment system under Schedule 1 turns on the facts; BNM publishes no general perimeter guidance and the position should be confirmed with the Bank"
-  - "Remittance and cross-border money transfer sit under the Money Services Business Act 2011, a separate licensing regime not covered here"
-  - "BNM's own Gazette Order page for payment systems does not list P.U.(A) 468/2024, which amends the registered business requirements — treat that index as incomplete and check the AGC gazette portal"
+  - "Sama ada aliran gaya pasaran atau eskrow tertentu terjumlah kepada pengendalian sistem pembayaran di bawah Schedule 1 bergantung kepada fakta; BNM tidak menerbitkan panduan perimeter am dan pendirian itu hendaklah disahkan dengan Bank"
+  - "Kiriman wang dan pemindahan wang rentas sempadan terletak di bawah Money Services Business Act 2011, satu rejim pelesenan berasingan yang tidak diliputi di sini"
+  - "Halaman Gazette Order BNM sendiri untuk sistem pembayaran tidak menyenaraikan P.U.(A) 468/2024, yang meminda keperluan perniagaan berdaftar — anggap indeks itu sebagai tidak lengkap dan semak portal warta AGC"
 
 lang: "ms"
 masterLanguage: "en"

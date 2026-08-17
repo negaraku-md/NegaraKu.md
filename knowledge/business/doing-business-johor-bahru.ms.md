@@ -38,10 +38,10 @@ faq:
     a: "Undang-undang kecil 2016 membawa Jadual penuh fi tahunan minimum dan maksimum mengikut aktiviti — bengkel kenderaan berkisar RM200 hingga RM1,000, pembuatan makanan RM300 hingga RM1,000, operasi barangan elektronik RM2,000 hingga RM4,000, dan pub, kelab malam atau outlet karaoke RM750 hingga RM2,000. Pindah milik lesen berkos RM50 di bawah undang-undang kecil 10(3). Lesen sementara di bawah enam bulan dikenakan caj dua kali ganda fi berjadual di bawah undang-undang kecil 3(2)."
 
 verificationNeeded:
-  - "Any official Malaysian count of residents commuting to Singapore for work — no government source publishes one; the widely quoted figures come from news outlets and are mutually inconsistent"
+  - "Sebarang kiraan rasmi Malaysia bagi penduduk yang berulang-alik ke Singapura untuk bekerja — tiada sumber kerajaan menerbitkannya; angka yang meluas dipetik datang daripada media berita dan tidak konsisten antara satu sama lain"
   - "Causeway and Second Link vehicle or passenger throughput — Immigration Malaysia confirms both as ICQS control points but publishes no volumes"
-  - "Current specifications, occupancy and tenant counts for the Senai, Tebrau and Kulai industrial areas — no official operator pages with confirmable figures were located"
-  - "RTS Link fare structure and confirmed first day of passenger service — MRT Corp publishes an end-2026 infrastructure completion target and a January 2027 service start, while Singapore LTA phrases it as service by December 2026"
+  - "Spesifikasi semasa, kadar penghunian dan bilangan penyewa bagi kawasan perindustrian Senai, Tebrau dan Kulai — tiada laman pengendali rasmi dengan angka yang boleh disahkan ditemui"
+  - "Struktur tambang RTS Link dan hari pertama perkhidmatan penumpang yang disahkan — MRT Corp menerbitkan sasaran penyiapan infrastruktur pada akhir 2026 dan permulaan perkhidmatan pada Januari 2027, manakala LTA Singapura menyatakannya sebagai perkhidmatan menjelang Disember 2026"
 
 lang: "ms"
 masterLanguage: "en"

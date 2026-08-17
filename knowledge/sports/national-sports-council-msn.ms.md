@@ -42,11 +42,11 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Verbatim official Vision (Visi) and Mission (Misi) text — nsc.gov.my publishes them only as images; OCR or a direct read is needed before quoting."
-  - "Institut Sukan Negara (ISN) founding year and the precise MSN-vs-ISN division of labour (programme management by MSN vs performance/sports-science by ISN) — not yet confirmed against a primary source."
-  - "Current Director General as of 2026 — Wikipedia lists Ahmad Shapawi Ismail; confirm he still holds the post via nsc.gov.my before treating as current."
-  - "Number and names of the state sports councils (Majlis Sukan Negeri) coordinated under the Act — not yet confirmed from a primary list."
-  - "Full verbatim statutory list of the Council's functions from the Act itself, as opposed to paraphrased functions on secondary pages."
+  - "Teks rasmi Visi dan Misi kata demi kata — nsc.gov.my menerbitkannya hanya sebagai imej; OCR atau bacaan langsung diperlukan sebelum memetik."
+  - "Tahun penubuhan Institut Sukan Negara (ISN) dan pembahagian tugas MSN lawan ISN yang tepat (pengurusan program oleh MSN berbanding prestasi/sains sukan oleh ISN) — belum disahkan terhadap sumber utama."
+  - "Ketua Pengarah semasa setakat 2026 — Wikipedia menyenaraikan Ahmad Shapawi Ismail; sahkan beliau masih memegang jawatan melalui nsc.gov.my sebelum menganggapnya semasa."
+  - "Bilangan dan nama majlis sukan negeri (Majlis Sukan Negeri) yang diselaraskan di bawah Akta itu — belum disahkan daripada senarai utama."
+  - "Senarai statutori kata demi kata penuh fungsi Majlis daripada Akta itu sendiri, berbanding fungsi yang diparafrasa pada halaman sekunder."
 updated: 2026-08-14
 sources:
   - title: "National Sports Council of Malaysia Act 1971 (Act 29) — Reprint"

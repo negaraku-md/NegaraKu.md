@@ -24,8 +24,8 @@ keyTakeaways:
 appliesTo: "Majikan yang mentadbir cuti paterniti, dan bapa yang bakal mendapat anak di Semenanjung Malaysia dan Labuan."
 
 verificationNeeded:
-  - "Confirm whether rest days and gazetted public holidays falling within the seven consecutive days are counted against the entitlement, against JTKSM guidance"
-  - "Confirm whether the twelve-month service condition tolerates a break in service, and how continuous service is computed for s.60FA"
+  - "Sahkan sama ada hari rehat dan cuti umum yang diwartakan yang jatuh dalam tempoh tujuh hari berturut-turut dikira terhadap kelayakan, terhadap panduan JTKSM"
+  - "Sahkan sama ada syarat perkhidmatan dua belas bulan membenarkan gangguan dalam perkhidmatan, dan bagaimana perkhidmatan berterusan dikira bagi s.60FA"
 
 lang: "ms"
 masterLanguage: "en"

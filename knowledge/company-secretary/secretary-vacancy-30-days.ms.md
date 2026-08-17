@@ -31,7 +31,7 @@ faq:
     a: "Ia boleh terus berniaga, tetapi ia tidak boleh mematuhi undang-undang. Pemfailan berkanun dibuat oleh setiausaha dalam kapasiti itu, dan nota amalan SSM mengesahkan bahawa seseorang yang telah berhenti memegang jawatan itu tidak lagi boleh memfailkan dokumen bagi pihak syarikat. Sebuah syarikat tanpa setiausaha, mengikut definisinya, adalah dalam pelanggaran s.235(1)."
 
 verificationNeeded:
-  - "Confirm whether SSM applies any compound or administrative penalty for s.240 or s.235 breaches in practice, and at what rate — SSM does not publish a compound schedule for these sections alongside the Act text"
+  - "Sahkan sama ada SSM mengenakan sebarang penalti kompaun atau pentadbiran bagi pelanggaran s.240 atau s.235 dalam amalan, dan pada kadar berapa — SSM tidak menerbitkan jadual kompaun bagi seksyen ini bersama teks Akta"
 
 obligations:
   - what: "Fill a vacant company secretary office"

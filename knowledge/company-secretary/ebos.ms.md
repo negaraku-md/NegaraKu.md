@@ -22,8 +22,8 @@ keyTakeaways:
 appliesTo: "Setiausaha syarikat, ejen dan sesiapa sahaja yang perlu memahami apa itu e-BOS dan apa yang disimpannya."
 
 verificationNeeded:
-  - "Confirm the current fee schedule for late lodgement and rectification through e-BOS against SSM's published fees"
-  - "Confirm whether online access to beneficial ownership information has replaced the counter-only facility at Menara SSM@Sentral"
+  - "Sahkan jadual yuran semasa bagi penyerahan lewat dan pembetulan melalui e-BOS terhadap yuran yang diterbitkan SSM"
+  - "Sahkan sama ada akses dalam talian kepada maklumat pemilikan benefisial telah menggantikan kemudahan di kaunter sahaja di Menara SSM@Sentral"
 
 lang: "ms"
 masterLanguage: "en"

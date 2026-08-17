@@ -36,9 +36,9 @@ faq:
     a: "Tidak dengan sendirinya. Ketetapan Umum (Public Ruling) LHDN mengenai pemajuan hartanah membincangkan pemaju yang menyewakan unit yang tidak terjual dan menganggapnya tidak setara dengan pengeluaran stok, jadi jualan kemudiannya kekal boleh dikenakan cukai sebagai pendapatan perniagaan di bawah perenggan 4(a). Penyewaan boleh menjadi bukti niat pelaburan, tetapi ia tidak dengan sendirinya menukar stok perdagangan menjadi aset modal."
 
 verificationNeeded:
-  - "LHDN publishes its enumerated badges of trade in the Guidelines on Tax Treatment on Digital Currency Transaction — the framework is general but it has not been reissued as a cross-asset Public Ruling, so its application to property and shares is by analogy rather than by express LHDN statement"
-  - "No LHDN Public Ruling or guideline was found stating when share dealing becomes a business under paragraph 4(a); the badges framework is the only official analytical tool located"
-  - "No Malaysian case authority on badges of trade was found cited in any official LHDN document, so no case law is stated on this page"
+  - "LHDN menerbitkan lencana perdagangan yang disenaraikannya dalam Guidelines on Tax Treatment on Digital Currency Transaction — rangka kerja itu adalah am tetapi ia belum dikeluarkan semula sebagai Public Ruling merentas aset, jadi pemakaiannya kepada hartanah dan saham adalah secara analogi dan bukan melalui kenyataan LHDN yang nyata"
+  - "Tiada LHDN Public Ruling atau garis panduan ditemui yang menyatakan bila urus niaga saham menjadi suatu perniagaan di bawah perenggan 4(a); rangka kerja badges ialah satu-satunya alat analisis rasmi yang ditemui"
+  - "Tiada autoriti kes Malaysia mengenai badges of trade ditemui dipetik dalam mana-mana dokumen rasmi LHDN, jadi tiada undang-undang kes dinyatakan pada halaman ini"
 
 lang: "ms"
 masterLanguage: "en"

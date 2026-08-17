@@ -38,7 +38,7 @@ faq:
     a: "Pekerja dikecualikan untuk aktiviti pegangan ekuiti tulen di bawah Perintah Cukai Aktiviti Perniagaan Labuan (Pengecualian) 2020, tetapi minimum perbelanjaan operasi tahunan RM20,000 di Labuan masih terpakai, bersama-sama syarat kawalan dan pengurusan dalam peraturan 3 P.U.(A) 423-2021 — mesyuarat lembaga di Labuan sekurang-kurangnya sekali setahun, pejabat berdaftar Labuan, setiausaha pemastautin Labuan, dan rekod disimpan di Labuan."
 
 verificationNeeded:
-  - "Which of Malaysia's double taxation agreements exclude Labuan entities from benefits, and on what basis"
+  - "Antara perjanjian pengelakan cukai dua kali Malaysia yang manakah mengecualikan entiti Labuan daripada manfaat, dan atas dasar apa"
 
 obligations:
   - what: "File the Labuan entity return of profits (Form LE1) and pay the tax"

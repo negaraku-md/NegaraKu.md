@@ -36,10 +36,10 @@ faq:
     a: "Mungkin, tetapi bukan secara sepihak. Seksyen 15 Akta Setem 1949 memberikan relief ke atas instrumen dalam satu penyusunan semula (reconstruction) atau penggabungan (amalgamation) syarikat, dan seksyen 15A memberikan relief ke atas pemindahan harta antara syarikat berkaitan (associated companies). LHDN menganggap kedua-duanya sebagai permohonan, yang perlu dikemukakan kepada Pejabat Pengarah Negeri yang berhampiran untuk pertimbangan, dengan syarat-syarat yang dikenakan. Jangan anggap apa-apa sehingga relief itu diluluskan, dan ambil perhatian bahawa penyusunan semula yang dilakukan sejurus sebelum satu jualan mengundang penelitian teliti."
 
 verificationNeeded:
-  - "The detailed qualifying conditions and clawback periods for stamp duty relief under s.15 and s.15A of the Stamp Act 1949 were not read from a consolidated statutory text — there is no consolidated reprint incorporating the recent Finance Act amendments — and must be confirmed with the LHDN State Director's Office"
-  - "Whether the Industrial Co-ordination Act 1975 provides for transfer of a manufacturing licence, and MIDA's current post-licensing procedure for a change of shareholding in a licensed manufacturer, should be confirmed with MIDA before signing"
-  - "The change-of-ownership provisions in the Employment (Termination and Lay-Off Benefits) Regulations 1980 govern whether termination benefits fall due on an asset sale; the exact regulation and its conditions were not verified against the gazetted text"
-  - "Whether KPDN requires a fresh WRT application or permits variation on a change of the licensee's shareholding was not confirmed against a KPDN guideline"
+  - "Syarat kelayakan terperinci dan tempoh tuntut semula bagi pelepasan duti setem di bawah s.15 dan s.15A Stamp Act 1949 tidak dibaca daripada teks statut yang disatukan — tiada cetakan semula disatukan yang menggabungkan pindaan Finance Act terbaharu — dan mesti disahkan dengan Pejabat Pengarah Negeri LHDN"
+  - "Sama ada Industrial Co-ordination Act 1975 memperuntukkan pemindahan lesen pembuatan, dan prosedur pasca-pelesenan MIDA semasa bagi perubahan pegangan saham dalam pengeluar berlesen, harus disahkan dengan MIDA sebelum menandatangani"
+  - "Peruntukan pertukaran pemilikan dalam Employment (Termination and Lay-Off Benefits) Regulations 1980 mengawal sama ada faedah penamatan menjadi kena dibayar apabila jualan aset; peraturan tepat dan syaratnya tidak disahkan terhadap teks berwarta"
+  - "Sama ada KPDN memerlukan permohonan WRT baharu atau membenarkan variasi semasa pertukaran pegangan saham pemegang lesen tidak disahkan terhadap garis panduan KPDN"
 
 lang: "ms"
 masterLanguage: "en"

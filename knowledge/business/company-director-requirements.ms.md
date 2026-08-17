@@ -38,8 +38,8 @@ faq:
     a: "Secara umumnya tidak — syarikat adalah orang di sisi undang-undang yang berasingan. Tetapi perisai itu tidak mutlak. Seksyen 540 membenarkan Mahkamah mengisytiharkan seseorang yang secara sedar menjadi pihak dalam menjalankan perniagaan dengan niat menipu pemiutang sebagai bertanggungan secara peribadi, tanpa had liabiliti, bagi hutang syarikat. Seksyen 539 mengenakan liabiliti jenayah ke atas pegawai apabila rekod perakaunan yang wajar tidak disimpan."
 
 verificationNeeded:
-  - "Confirm what evidence SSM currently accepts as proof of a principal place of residence in Malaysia at incorporation and on a change of director"
-  - "Confirm whether any practice note or guideline currently supplements the s.196(4) ordinarily-resident test"
+  - "Sahkan apakah bukti yang diterima SSM pada masa ini sebagai bukti tempat kediaman utama di Malaysia semasa pemerbadanan dan semasa pertukaran pengarah"
+  - "Sahkan sama ada terdapat sebarang nota amalan atau garis panduan yang kini melengkapi ujian pemastautin biasa s.196(4)"
 
 obligations:
   - what: "Maintain the minimum number of directors ordinarily resident in Malaysia"

@@ -24,13 +24,13 @@ keyTakeaways:
 appliesTo: "PKS dan mikroperusahaan milik Malaysia yang memerlukan modal kerja, pembiayaan perbelanjaan modal, atau geran peringkat awal."
 
 verificationNeeded:
-  - "The current PENJANA Tourism Financing rate for approvals after 31 December 2025 is not published by BNM or SME Bank — the 3.5% figure applied only to financing approved by that date"
-  - "Allocations for the Micro Enterprises Facility, PENJANA Tourism Financing and the Relief and Adaptation Facility are not published"
-  - "Terms of the RM10 billion BNM-CGC guarantee schemes sit on cgc.com.my and were not verified against a primary BNM source"
-  - "SME Bank publishes no open or closed status for any programme, and does not publish the current Base Financing Rate, so all BFR-linked rates are spreads rather than effective rates"
-  - "Cradle does not state whether CIP Spark or CIP Sprint applications are currently open; Cradle Elevate could not be read at all"
-  - "MTDC publishes no status for any fund except SemiconStart, whose page advertised itself as open past its own stated closing date"
-  - "TEKUN publishes no open or closed flag per scheme, and its Ar Rahnu 4u figures are typographically malformed on the live page"
+  - "Kadar PENJANA Tourism Financing semasa bagi kelulusan selepas 31 Disember 2025 tidak diterbitkan oleh BNM atau SME Bank — angka 3.5% terpakai hanya kepada pembiayaan yang diluluskan menjelang tarikh tersebut"
+  - "Peruntukan bagi Micro Enterprises Facility, PENJANA Tourism Financing dan Relief and Adaptation Facility tidak diterbitkan"
+  - "Terma skim jaminan BNM-CGC bernilai RM10 bilion terletak di cgc.com.my dan tidak disahkan terhadap sumber primer BNM"
+  - "SME Bank tidak menerbitkan status terbuka atau tertutup bagi mana-mana program, dan tidak menerbitkan Base Financing Rate semasa, jadi semua kadar berkaitan BFR adalah spread dan bukannya kadar berkesan"
+  - "Cradle tidak menyatakan sama ada permohonan CIP Spark atau CIP Sprint kini dibuka; Cradle Elevate langsung tidak dapat dibaca"
+  - "MTDC tidak menerbitkan status bagi mana-mana dana kecuali SemiconStart, yang halamannya mengiklankan dirinya sebagai terbuka melepasi tarikh tutup yang dinyatakannya sendiri"
+  - "TEKUN tidak menerbitkan penanda buka atau tutup bagi setiap skim, dan angka Ar Rahnu 4unya cacat secara tipografi pada laman langsung"
 
 lang: "ms"
 masterLanguage: "en"

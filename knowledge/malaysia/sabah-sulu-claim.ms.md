@@ -46,11 +46,11 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Exact day of the 1878 agreement: the English text of the instrument is dated 22 January 1878, but the arbitration record notes the Spanish translation carries a different date; a human should confirm which is cited."
-  - "The precise spelling and identity of the 1878 Sultan of Sulu, rendered variously as Jamalul Alam, Muhammad Jamal al-Alam and Jamal ul-Azam."
-  - "The Lahad Datu casualty figures (at least 68 members of the armed group and 10 security personnel), which are drawn from Malaysian reporting and vary across sources."
-  - "The identity and reported valuation of the two Petronas subsidiaries seized in Luxembourg in July 2022."
-  - "The current formal status of the Philippine claim and whether it has been reaffirmed or withdrawn in recent diplomatic exchanges."
+  - "Hari tepat perjanjian 1878: teks Inggeris instrumen itu bertarikh 22 Januari 1878, tetapi rekod timbang tara mencatatkan terjemahan Sepanyol membawa tarikh yang berbeza; manusia perlu mengesahkan yang mana dipetik."
+  - "Ejaan dan identiti tepat Sultan Sulu 1878, yang dirujuk secara pelbagai sebagai Jamalul Alam, Muhammad Jamal al-Alam dan Jamal ul-Azam."
+  - "Angka korban Lahad Datu (sekurang-kurangnya 68 anggota kumpulan bersenjata dan 10 anggota keselamatan), yang diambil daripada laporan Malaysia dan berbeza merentas sumber."
+  - "Identiti dan penilaian yang dilaporkan bagi dua anak syarikat Petronas yang dirampas di Luxembourg pada Julai 2022."
+  - "Status formal semasa tuntutan Filipina dan sama ada ia telah disahkan semula atau ditarik balik dalam pertukaran diplomatik baru-baru ini."
 
 updated: 2026-08-08
 sources:

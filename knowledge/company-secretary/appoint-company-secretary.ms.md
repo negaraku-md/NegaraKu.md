@@ -37,7 +37,7 @@ faq:
     a: "Minta untuk melihat sijil amalan semasa yang dikeluarkan di bawah s.241(4)(b) dan catatkan nombornya, kerana SSM menghendaki nombor itu dinyatakan setiap kali setiausaha melaksanakan atau memfailkan sesuatu dokumen. Sejak November 2024 SSM turut menerbitkan Company Secretary Information Data (CSID) melalui portal datanya, merangkumi kelayakan setiausaha dan jenis penggajian."
 
 verificationNeeded:
-  - "Confirm the current SSM prescribed form and any fee for the s.58 notification of a secretary appointment against SSM's live filing guidance, as MBRS 2.0 changed the submission route"
+  - "Sahkan borang preskripsi SSM semasa dan sebarang fi bagi pemberitahuan s.58 pelantikan setiausaha terhadap panduan failan langsung SSM, memandangkan MBRS 2.0 telah mengubah laluan penyerahan"
 
 lang: "ms"
 masterLanguage: "en"

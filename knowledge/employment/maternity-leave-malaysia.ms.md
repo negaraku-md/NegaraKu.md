@@ -38,8 +38,8 @@ faq:
     a: "Ya. Bahagian IX bukan antara enam peruntukan yang tidak terpakai di bawah perenggan 1A Jadual Pertama, yang hanya meliputi ss.60(3), 60A(3), 60C(2A), 60D(3), 60D(4) dan s.60J. Pengecualian sebenar ialah pekerja domestik, yang baginya perenggan 2(5) mengecualikan keseluruhan Bahagian IX."
 
 verificationNeeded:
-  - "Confirm whether SOCSO or any other scheme currently funds any part of the maternity allowance for private-sector employees, against perkeso.gov.my"
-  - "Confirm the prescribed form of the s.44 register of maternity allowances against the regulations in force"
+  - "Sahkan sama ada SOCSO atau mana-mana skim lain kini membiayai mana-mana bahagian elaun bersalin bagi pekerja sektor swasta, terhadap perkeso.gov.my"
+  - "Sahkan borang preskripsi daftar elaun bersalin s.44 terhadap peraturan yang berkuat kuasa"
 
 obligations:
   - what: "Pay maternity allowance in the same manner as wages"

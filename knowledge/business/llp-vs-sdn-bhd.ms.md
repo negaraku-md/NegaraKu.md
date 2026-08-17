@@ -38,9 +38,9 @@ faq:
     a: "Boleh. Bahagian V Akta LLP 2012 memperuntukkan penukaran daripada perkongsian konvensional (s.29) dan daripada syarikat sendirian (s.30), dengan penyata yang perlu difailkan ditetapkan dalam s.31. Seksyen 41 mengekalkan liabiliti dan kewajipan rakan kongsi dari sebelum penukaran, dan s.42 mewajibkan notis penukaran itu dinyatakan pada invois dan surat-menyurat. SSM mengenakan RM500 bagi permohonan penukaran."
 
 verificationNeeded:
-  - "Confirm the current preferential tax rate and the capital-contribution threshold that an LLP must meet to access it, against the Income Tax Act 1967 and the current LHDN Public Ruling"
-  - "Confirm whether the Accountants Act 1967 and the current MIA By-Laws permit any form of incorporated public practice for non-audit accounting services"
-  - "Confirm the position for other regulated professions, including architects, engineers and medical practitioners, whose governing statutes permit incorporation on conditions"
+  - "Sahkan kadar cukai keutamaan semasa dan ambang sumbangan modal yang mesti dipenuhi oleh sesuatu LLP untuk mengaksesnya, terhadap Income Tax Act 1967 dan Public Ruling LHDN semasa"
+  - "Sahkan sama ada Accountants Act 1967 dan MIA By-Laws semasa membenarkan sebarang bentuk amalan awam yang diperbadankan bagi perkhidmatan perakaunan bukan audit"
+  - "Sahkan kedudukan bagi profesion terkawal yang lain, termasuk arkitek, jurutera dan pengamal perubatan, yang statut mengawalnya membenarkan pemerbadanan dengan syarat"
 
 obligations:
   - what: "Lodge the LLP annual declaration"

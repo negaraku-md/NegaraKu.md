@@ -44,7 +44,7 @@ reviewDue: 2027-08-03
 publishedBy: "ashton-tan"
 version: "01.00"
 verificationNeeded:
-  - "The characterisation of Press Metal's production costs as 'first quartile of the global cost curve' — sourced only to the 2019 RAM note; confirm it still holds."
+  - "Pencirian kos pengeluaran Press Metal sebagai 'kuartil pertama keluk kos global' — hanya bersumberkan nota RAM 2019; sahkan ia masih berkuat kuasa."
 revisions:
   - version: "01.00"
     date: 2026-07-28

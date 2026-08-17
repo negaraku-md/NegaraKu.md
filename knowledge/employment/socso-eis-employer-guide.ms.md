@@ -34,9 +34,9 @@ faq:
     a: "Kerana jadual caruman semasa PERKESO menggabungkan LINDUNG 24 Jam ke dalam dokumen yang sama dengan kadar Akta 4, jadi jumlah maksimum berbeza bergantung pada sama ada SKBBK disertakan. Bagi pekerja yang berpendapatan melebihi siling, bahagian majikan Kategori 1 ialah RM104.15 dan bahagian keilatan pekerja RM29.75; lajur SKBBK menambah lagi RM44.65 caruman pekerja apabila skim itu terpakai. Sumber yang berlainan memilih subset lajur yang berbeza."
 
 verificationNeeded:
-  - "Confirm the exact maximum monthly EIS contribution in ringgit at the RM6,000 ceiling against the Second Schedule to Act 800 — PERKESO publishes the rate table as an image-only PDF that could not be read as text"
-  - "Confirm whether non-Malaysian citizens are excluded from EIS by the Act 800 definition of employee — PERKESO's contributions page lists government employees, domestic workers and the self-employed but does not address citizenship"
-  - "Confirm the SOCSO registration deadline for a new employer and a new employee against PERKESO directly"
+  - "Sahkan caruman EIS bulanan maksimum tepat dalam ringgit pada siling RM6,000 terhadap Second Schedule to Act 800 — PERKESO menerbitkan jadual kadar sebagai PDF imej sahaja yang tidak dapat dibaca sebagai teks"
+  - "Sahkan sama ada bukan warganegara Malaysia dikecualikan daripada EIS oleh takrif pekerja Act 800 — halaman caruman PERKESO menyenaraikan pekerja kerajaan, pekerja domestik dan bekerja sendiri tetapi tidak menangani kewarganegaraan"
+  - "Sahkan tarikh akhir pendaftaran SOCSO untuk majikan baharu dan pekerja baharu terhadap PERKESO secara langsung"
 obligations:
   - what: "Remit SOCSO contributions for the wage month"
     trigger: "ongoing"

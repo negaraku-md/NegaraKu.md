@@ -32,7 +32,7 @@ faq:
     a: "Pekerja sepenuh masa dalam senarai gaji pada akhir setiap tahun kewangan yang berkenaan. SSM mentakrifkan sepenuh masa sebagai pekerja bergaji yang bekerja tidak kurang daripada 6 jam sehari selama sekurang-kurangnya 20 hari sebulan, atau sekurang-kurangnya 120 jam sebulan. Pekerja tempatan, asing, kontrak dan dalam tempoh percubaan dikira. Pengarah-pekerja, pemegang saham-pekerja serta ahli keluarga atau kawan yang tidak dibayar atau bergaji tidak tetap tidak dikira."
 
 verificationNeeded:
-  - "Confirm whether SSM has issued any amendment to PD 10/2024 revising the Phase 3 thresholds — the directive marks them as unchanged unless reviewed by the Registrar"
+  - "Sahkan sama ada SSM telah mengeluarkan sebarang pindaan kepada PD 10/2024 yang menyemak semula ambang Fasa 3 — arahan itu menandakannya sebagai tidak berubah melainkan disemak semula oleh Pendaftar"
 
 lang: "ms"
 masterLanguage: "en"

@@ -36,9 +36,9 @@ faq:
     a: "Seksyen 341 mengenakan kewajipan penyimpanan, bukan tarikh akhir kemasukan. Ia menghendaki rekod resolusi ahli dan minit mesyuarat ahli disimpan sekurang-kurangnya tujuh tahun, dan s.341(3) membawa denda tidak melebihi RM10,000 dengan RM500 bagi setiap hari kesalahan berterusan itu berlanjutan. Banyak panduan menyatakan tempoh tetap untuk memasukkan minit ke dalam buku minit; seksyen itu sendiri tidak menetapkan sebarang tempoh sedemikian."
 
 verificationNeeded:
-  - "Confirm the current procedure and any SSM fee for transferring MBRS and MyCoID access between secretarial firms — SSM documents the systems but does not publish a consolidated handover procedure"
-  - "Confirm the beneficial ownership register retention period and lodgement deadlines under Division 8A, which were inserted by the Companies (Amendment) Act 2024 and are not in the 1 August 2022 reprint of Act 777"
-  - "Confirm whether SSM treats a change of secretarial firm at the same registered office address as requiring a s.46(3) notification where the address string is unchanged"
+  - "Sahkan prosedur semasa dan sebarang yuran SSM bagi memindahkan akses MBRS dan MyCoID antara firma setiausaha — SSM mendokumenkan sistem tersebut tetapi tidak menerbitkan prosedur penyerahan yang bersepadu"
+  - "Sahkan tempoh pengekalan daftar pemilik benefisial dan tarikh akhir pemfailan di bawah Division 8A, yang dimasukkan oleh Companies (Amendment) Act 2024 dan tiada dalam cetakan semula Act 777 bertarikh 1 Ogos 2022"
+  - "Sahkan sama ada SSM menganggap pertukaran firma kesetiausahaan di alamat pejabat berdaftar yang sama sebagai memerlukan pemberitahuan s.46(3) apabila rentetan alamat tidak berubah"
 
 obligations:
   - what: "Notify SSM that a person has ceased to be, and that a person has become, company secretary"

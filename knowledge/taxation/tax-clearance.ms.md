@@ -38,8 +38,8 @@ faq:
     a: "Boleh. Seksyen 104 membenarkan Ketua Pengarah mengeluarkan sijil kepada Ketua Polis atau Ketua Pengarah Imigresen meminta seseorang dihalang daripada meninggalkan Malaysia sehingga cukai, jumlah dan hutang tersebut dibayar atau dicagarkan, dan GPHDN 2/2024 perenggan 6.3 menyatakan LHDN boleh menggunakannya jika jumlah yang dituntut dalam SPC tidak dibayar. Meninggalkan negara walaupun begitu merupakan suatu kesalahan di bawah s.115(1), dengan denda RM200 hingga RM20,000 atau penjara sehingga 6 bulan."
 
 verificationNeeded:
-  - "Confirm the current LHDN Client Charter turnaround for issuing an SPC — GPHDN 2/2024 para 6.1.1 refers to the Piagam Pelanggan without stating a number of days"
-  - "Section 120(1)(c) on its face covers failure to give the notices under s.83(2), (3) and (4) only; GPHDN 2/2024 para 3.4 and the LHDN employer page also apply s.120(1) to a breach of s.83(5). Confirm the basis for extending the offence to the withholding duty"
+  - "Sahkan tempoh penyelesaian Piagam Pelanggan LHDN semasa bagi mengeluarkan SPC — GPHDN 2/2024 perenggan 6.1.1 merujuk kepada Piagam Pelanggan tanpa menyatakan bilangan hari"
+  - "Section 120(1)(c) pada zahirnya meliputi kegagalan memberi notis di bawah s.83(2), (3) dan (4) sahaja; GPHDN 2/2024 para 3.4 dan halaman majikan LHDN turut memakai s.120(1) kepada pelanggaran s.83(5). Sahkan asas bagi memperluas kesalahan itu kepada kewajipan penahanan"
 
 obligations:
   - what: "Notify LHDN of an employee ceasing employment (CP22A or CP22B)"

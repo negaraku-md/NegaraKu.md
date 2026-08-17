@@ -47,10 +47,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "LACA deposit (5%) and balance period (90 days) are conventional figures set by each auction's Proclamation of Sale and Conditions of Sale, not by statute — confirm against the specific POS, as they can vary by bank."
-  - "The National Land Code / Order for Sale / High-Court-vs-Land-Office framework is sourced to a law-firm article and a legal-citation report, not read directly from the statute — confirm against the National Land Code (Revised 2020) (Act 828) itself for any legally material use."
-  - "The one-working-day deposit-lodgement deadline is from the Judiciary e-Lelong Terms & Conditions and may vary by court or platform — confirm for the specific auction."
-  - "Related/relation slugs 'property-sale-purchase-agreement' and 'national-land-code-1965' may not yet exist in the corpus and would render as unresolved links — confirm on next build and update slug if the Land Code article is created under a revised slug."
+  - "Deposit LACA (5%) dan tempoh baki (90 hari) adalah angka konvensional yang ditetapkan oleh Proclamation of Sale dan Conditions of Sale bagi setiap lelongan, bukan oleh statut — sahkan terhadap POS tertentu, kerana ia boleh berbeza mengikut bank."
+  - "Rangka kerja National Land Code / Order for Sale / Mahkamah Tinggi lawan Pejabat Tanah bersumberkan artikel firma guaman dan laporan petikan undang-undang, bukan dibaca terus daripada statut — sahkan terhadap National Land Code (Revised 2020) (Act 828) itu sendiri bagi sebarang penggunaan yang penting dari segi undang-undang."
+  - "Tarikh akhir penyerahan deposit satu hari bekerja adalah daripada Judiciary e-Lelong Terms & Conditions dan mungkin berbeza mengikut mahkamah atau platform — sahkan bagi lelong tertentu."
+  - "Slug berkaitan/hubungan 'property-sale-purchase-agreement' dan 'national-land-code-1965' mungkin belum wujud dalam korpus dan akan dipaparkan sebagai pautan yang tidak terselesai — sahkan pada binaan seterusnya dan kemas kini slug jika artikel Land Code dicipta di bawah slug yang disemak semula."
 
 updated: 2026-08-08
 sources:

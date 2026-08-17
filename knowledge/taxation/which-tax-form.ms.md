@@ -33,7 +33,7 @@ faq:
     a: "Tidak. Program memfail 2026 memberikan lanjutan 15 hari kepada borang individu, perkongsian, persatuan, harta pusaka dan keluarga bersama Hindu. Lanjutan sebulan terpakai kepada Borang E serta borang syarikat, PLT, koperasi dan badan amanah."
 
 verificationNeeded:
-  - "Dates here are taken from the filing programme issued 30 December 2025 and updated 1 April 2026, which governs returns for year of assessment 2025. LHDN issues a new programme each year — re-read it before relying on a later cycle"
+  - "Tarikh di sini diambil daripada program pemfailan yang dikeluarkan 30 December 2025 dan dikemas kini 1 April 2026, yang mentadbir pulangan bagi tahun taksiran 2025. LHDN mengeluarkan program baharu setiap tahun — baca semula sebelum bergantung pada kitaran yang lebih kemudian"
 
 lang: "ms"
 masterLanguage: "en"

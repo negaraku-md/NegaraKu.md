@@ -38,10 +38,10 @@ faq:
     a: "Tidak, bagi kumpulan syarikat yang berhasil global tahunan sekurang-kurangnya EUR 750 juta. Cukai Tambahan Domestik (Domestic Top-Up Tax) Malaysia di bawah Bahagian XI Akta Cukai Pendapatan 1967 telah berkuat kuasa mulai 1 Januari 2025, dan kedua-dua garis panduan JS-SEZ dan Global Services Hub sendiri menyatakan demikian. Kadar Malaysia 5% dalam sesebuah kumpulan yang berada dalam skop menghasilkan kadar efektif di bawah 15%, dan perbezaannya akan dikutip sebagai cukai tambahan di suatu tempat. Bagi kumpulan-kumpulan itu, syarat bukan cukai lebih penting berbanding kadar utama."
 
 verificationNeeded:
-  - "Confirm whether subsidiary legislation for the JS-SEZ special tax rate, the JS-SEZ knowledge-worker rate or the Global Services Hub rate has been gazetted since 8 July 2026 — none existed at that date"
-  - "Confirm the Forest City special tax rate for licensed financial institutions and capital market licence holders — the 20 September 2024 announcement is referred to in MIDA's JS-SEZ guideline but no gazetted rate order for that class was located, only the Single Family Office rules"
-  - "Confirm current corridor incentives for Iskandar Malaysia, NCER, the Sabah Development Corridor and the Sarawak corridor — no gazetted income tax rate instrument was located for any of them"
-  - "Confirm the statutory basis MIDA relies on for the JS-SEZ Smart Logistics Complex ITA — the guideline cites P.U.(A) 113/2006, a pre-2011 instrument outside reliable AGC coverage, and its operative text was not retrieved"
+  - "Sahkan sama ada perundangan subsidiari bagi kadar cukai khas JS-SEZ, kadar pekerja berpengetahuan JS-SEZ atau kadar Global Services Hub telah diwartakan sejak 8 Julai 2026 — tiada wujud pada tarikh tersebut"
+  - "Sahkan kadar cukai khas Forest City bagi institusi kewangan berlesen dan pemegang lesen pasaran modal — pengumuman 20 September 2024 dirujuk dalam garis panduan JS-SEZ MIDA tetapi tiada perintah kadar yang diwartakan bagi kelas tersebut ditemui, hanya peraturan Single Family Office"
+  - "Sahkan insentif koridor semasa bagi Iskandar Malaysia, NCER, Sabah Development Corridor dan koridor Sarawak — tiada instrumen kadar cukai pendapatan berwarta dapat dikesan bagi mana-mana daripadanya"
+  - "Sahkan asas statutori yang digunakan MIDA bagi ITA JS-SEZ Smart Logistics Complex — garis panduan menyebut P.U.(A) 113/2006, satu instrumen pra-2011 di luar liputan AGC yang boleh dipercayai, dan teks operatifnya tidak diperoleh"
 
 lang: "ms"
 masterLanguage: "en"

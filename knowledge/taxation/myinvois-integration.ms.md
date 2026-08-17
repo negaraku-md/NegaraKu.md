@@ -39,8 +39,8 @@ faq:
 
 verificationNeeded:
   - "Numeric per-endpoint API rate limits — the SDK FAQ refers to Integration Practices without publishing figures"
-  - "Any LHDN accreditation, certification or approved-vendor list for technology providers — none was located on hasil.gov.my or the SDK"
-  - "The maximum number of rows accepted in the MyInvois Portal batch upload spreadsheet — LHDN describes a certain number without stating it"
+  - "Sebarang pentauliahan, pensijilan atau senarai vendor diluluskan LHDN bagi penyedia teknologi — tiada ditemui di hasil.gov.my atau SDK"
+  - "Bilangan maksimum baris yang diterima dalam hamparan muat naik kelompok MyInvois Portal — LHDN menerangkan sesuatu bilangan tanpa menyatakannya"
 
 lang: "ms"
 masterLanguage: "en"

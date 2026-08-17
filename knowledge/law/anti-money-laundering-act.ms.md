@@ -40,9 +40,9 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Exact current short-title citation form: 'Anti-Restricted Activity Financing' was added to the Act's title by Act A1761 (in force 1 March 2026); confirm the precise wording against the latest official reprint once published."
-  - "Penalty-schedule section mappings (record-retention/disclosure/false-information cited under sections 14A, 17 and 18, while the record-keeping obligation itself is section 13) should be confirmed against the current reprint incorporating Act A1761; section 17 in the pre-A1761 reprint concerns secrecy obligations."
-  - "Section numbering (CDD s.16, compliance programme s.19, forfeiture ss.55-56) was verified against the SPRM reprint that does not yet incorporate Act A1761; confirm numbering is unchanged after the 1 March 2026 amendment."
+  - "Bentuk petikan tajuk pendek semasa yang tepat: 'Anti-Restricted Activity Financing' telah ditambah kepada tajuk Akta oleh Act A1761 (berkuat kuasa 1 March 2026); sahkan perkataan tepat terhadap cetakan semula rasmi terkini setelah diterbitkan."
+  - "Pemetaan seksyen jadual penalti (penyimpanan rekod/pendedahan/maklumat palsu dipetik di bawah seksyen 14A, 17 dan 18, manakala kewajipan penyimpanan rekod itu sendiri ialah seksyen 13) harus disahkan terhadap cetakan semula semasa yang menggabungkan Act A1761; seksyen 17 dalam cetakan semula pra-A1761 berkaitan kewajipan kerahsiaan."
+  - "Penomboran seksyen (CDD s.16, program pematuhan s.19, pelucuthakan ss.55-56) telah disahkan terhadap cetakan semula SPRM yang belum menggabungkan Act A1761; sahkan penomboran tidak berubah selepas pindaan 1 Mac 2026."
 revisions:
   - version: "01.00"
     date: 2026-08-07

@@ -38,10 +38,10 @@ faq:
     a: "Ya. Enakmen Cukai Jualan Negeri 1998 membenarkan Menteri Kewangan Negeri mengenakan cukai jualan melalui Perintah ke atas barangan yang tersenarai. Minyak sawit mentah dikenakan cukai pada 7.5 peratus daripada isi padu terhadap harga purata bulanan MPOB Sabah, terpakai hanya apabila purata tersebut melebihi RM1,000. Satu Perintah 2025 mengenakan 5 peratus ke atas minyak petroleum mentah, kondensat, LNG, gas asli, ammonia, urea dan metanol. Perintah lain merangkumi ikan dan krustasea, besi buruk, silika, biojisim kelapa sawit, serta emas dan perak yang dilombong di Sabah. Ini wujud bersama, bukan menggantikan, SST persekutuan."
 
 verificationNeeded:
-  - "Whether DBKK has adopted the Uniform (Licensing the Use of Premises) By-laws 2022 — DBKK's pages still cite only Cap. 144 and its own 1966 to 1984 by-laws, and adoption requires a resolution of each Authority under s.50A of the Local Government Ordinance 1961"
-  - "The current statutory fee schedules under Cap. 144 — the reference version published by the State Attorney-General's Chambers renders all First Schedule fees in pre-decimal dollars and flattens the Second Schedule, so no statutory rate is quotable"
-  - "Trading licence fees, processing fees, renewal windows and document lists for Majlis Perbandaran Sandakan and Majlis Perbandaran Tawau — neither publishes them"
-  - "Current tenant counts and committed investment at POIC Lahad Datu and SOGIP Sipitang — the operator sites carry figures dated 2020 to 2022 and aspirational totals"
+  - "Sama ada DBKK telah menerima pakai Uniform (Licensing the Use of Premises) By-laws 2022 — laman DBKK masih hanya memetik Cap. 144 dan undang-undang kecilnya sendiri dari 1966 hingga 1984, dan penerimaan pakai memerlukan resolusi setiap Pihak Berkuasa di bawah s.50A Local Government Ordinance 1961"
+  - "Jadual yuran berkanun semasa di bawah Cap. 144 — versi rujukan yang diterbitkan oleh Jabatan Peguam Besar Negeri memaparkan semua yuran Jadual Pertama dalam dolar pra-perpuluhan dan meratakan Jadual Kedua, jadi tiada kadar berkanun yang boleh dipetik"
+  - "Yuran lesen perniagaan, yuran pemprosesan, tempoh pembaharuan dan senarai dokumen bagi Majlis Perbandaran Sandakan dan Majlis Perbandaran Tawau — kedua-duanya tidak menerbitkannya"
+  - "Kiraan penyewa semasa dan pelaburan yang dikomitkan di POIC Lahad Datu dan SOGIP Sipitang — laman pengendali membawa angka bertarikh 2020 hingga 2022 dan jumlah aspirasi"
 
 lang: "ms"
 masterLanguage: "en"

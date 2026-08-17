@@ -36,8 +36,8 @@ faq:
     a: "Ya. Seksyen 68(3)(a) menghendaki penyata tahunan menyatakan alamat pejabat berdaftar, dan s.68(3)(d) serta (e) menghendaki alamat tempat daftar ahli dan rekod kewangan disimpan jika ia tidak berada di pejabat berdaftar."
 
 verificationNeeded:
-  - "Confirm whether SSM has issued any practice directive or guideline specifying minimum standards or documentation for a registered office address beyond s.46 — no such directive was located on ssm.com.my"
-  - "Confirm the current SSM late lodgement fee scale for a s.46(3) notification against the prevailing SSM practice directive on late lodgement penalties"
+  - "Sahkan sama ada SSM telah mengeluarkan sebarang arahan amalan atau garis panduan yang menetapkan standard minimum atau dokumentasi bagi alamat pejabat berdaftar melebihi s.46 — tiada arahan sedemikian ditemui di ssm.com.my"
+  - "Sahkan skala yuran penyerahan lewat SSM semasa bagi notifikasi s.46(3) terhadap arahan amalan SSM semasa mengenai penalti penyerahan lewat"
 
 obligations:
   - what: "Notify the Registrar of a change in the address of the registered office"

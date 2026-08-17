@@ -38,8 +38,8 @@ faq:
     a: "Ya, melalui pindaan berbangkit kepada MFRS 107. Untung operasi menjadi titik permulaan bagi kaedah tidak langsung, dan alternatif pembentangan bagi aliran tunai faedah dan dividen dibuang bagi kebanyakan entiti — dividen dan faedah yang dibayar umumnya diletakkan dalam pembiayaan, dividen dan faedah yang diterima umumnya diletakkan dalam pelaburan."
 
 verificationNeeded:
-  - "Confirm the precise scope of the undue cost or effort relief for allocating foreign exchange differences against the issued MFRS 18 text"
-  - "Confirm whether Bursa Malaysia will issue transitional guidance for quarterly reporting in the first MFRS 18 year"
+  - "Sahkan skop tepat pelepasan kos atau usaha yang tidak wajar bagi memperuntukkan perbezaan pertukaran asing terhadap teks MFRS 18 yang dikeluarkan"
+  - "Sahkan sama ada Bursa Malaysia akan mengeluarkan panduan peralihan bagi pelaporan suku tahunan pada tahun pertama MFRS 18"
 
 lang: "ms"
 masterLanguage: "en"

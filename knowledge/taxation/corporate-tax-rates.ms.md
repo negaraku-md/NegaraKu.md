@@ -36,7 +36,7 @@ faq:
     a: "Sebuah syarikat sedia ada perlu memfailkan tidak lewat daripada 30 hari sebelum permulaan tempoh asas. Sebuah syarikat baharu yang tempoh asas pertamanya sekurang-kurangnya enam bulan perlu memfailkan dalam tempoh tiga bulan dari memulakan operasi, dengan ansuran bermula pada bulan keenam. Semakan semula dibenarkan pada bulan ke-6, ke-9 atau ke-11."
 
 verificationNeeded:
-  - "Confirm whether Budget 2027 or any subsequent Finance Act alters the SME bands or the 20% foreign-ownership limb"
+  - "Sahkan sama ada Bajet 2027 atau mana-mana Finance Act seterusnya mengubah jalur SME atau limbung had pemilikan asing 20%"
 
 obligations:
   - what: "Submit CP204 estimate of tax payable"

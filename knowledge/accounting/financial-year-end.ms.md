@@ -36,9 +36,9 @@ faq:
     a: "Tidak. Fasa pelaksanaan ditentukan berdasarkan penyata kewangan yang diaudit bagi tahun kewangan 2022 atau penyata cukai tahun taksiran 2022, diselaraskan secara pro-rata jika penghujung tahun berubah, dan ia ditetapkan secara kekal selepas itu. Perubahan yang dibuat sekarang tidak menggerakkan anda ke fasa yang lebih lewat."
 
 verificationNeeded:
-  - "The audit exemption criteria and phase thresholds should be read directly from Practice Directive 10/2024 for any borderline case — the interaction between a short period and the two-preceding-years test is not addressed expressly in the directive"
-  - "Confirm the current e-Invoice guideline version and phase table before relying on a phase determination, as this regime has been revised repeatedly"
-  - "Public Ruling 8/2014 remains the published ruling on basis periods; confirm no superseding ruling has been issued before relying on the failure-year treatment"
+  - "Kriteria pengecualian audit dan ambang fasa hendaklah dibaca terus daripada Practice Directive 10/2024 bagi mana-mana kes sempadan — interaksi antara tempoh pendek dengan ujian dua tahun sebelumnya tidak dinyatakan secara nyata dalam arahan tersebut"
+  - "Sahkan versi garis panduan e-Invois semasa dan jadual fasa sebelum bergantung pada sesuatu penentuan fasa, kerana rejim ini telah disemak semula berulang kali"
+  - "Public Ruling 8/2014 kekal sebagai ketetapan yang diterbitkan mengenai tempoh asas; sahkan bahawa tiada ketetapan yang menggantikannya telah dikeluarkan sebelum bergantung pada layanan tahun kegagalan"
 
 obligations:
   - what: "Prepare the first financial statements"

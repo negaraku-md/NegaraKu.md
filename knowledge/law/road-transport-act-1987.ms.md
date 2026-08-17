@@ -42,9 +42,9 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Full exact wording of the DUI prescribed limits (s.45G) and the tiered penalties under s.44/45/45A — reconcile paultan reporting with the amendment's gazetted text."
-  - "Whether the further June 2026 traffic-penalty reform has been enacted and gazetted — keep this page to law currently in force and treat any proposed increases separately."
-  - "Complete authoritative list and citation numbers of all amending Acts — confirm via the AGC 'Amendments' listing for Act 333."
+  - "Perkataan tepat penuh had ditetapkan DUI (s.45G) dan penalti berperingkat di bawah s.44/45/45A — selaraskan laporan paultan dengan teks pindaan yang diwartakan."
+  - "Sama ada pembaharuan penalti trafik Jun 2026 yang lanjut telah digubal dan diwartakan — kekalkan halaman ini kepada undang-undang yang sedang berkuat kuasa dan uruskan sebarang cadangan kenaikan secara berasingan."
+  - "Senarai berwibawa lengkap dan nombor petikan semua Akta pindaan — sahkan melalui penyenaraian 'Amendments' AGC bagi Act 333."
 updated: 2026-08-14
 sources:
   - title: "Road Transport Act 1987 (Act 333) — AGC updated text of reprint, as at 15 October 2023"

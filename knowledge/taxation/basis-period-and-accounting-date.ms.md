@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Sdn Bhd yang baru diperbadankan, LLP, badan amanah dan koperasi, serta mana-mana syarikat yang menukar tahun kewangannya."
 
 verificationNeeded:
-  - "Confirm the current CP204B submission address and whether e-filing of CP204B is available; the LHDN page states deadlines are printed on the reverse of the form"
+  - "Sahkan alamat penyerahan CP204B semasa dan sama ada e-pemfailan CP204B tersedia; halaman LHDN menyatakan tarikh akhir dicetak pada bahagian belakang borang"
 
 obligations:
   - what: "Notify a change of accounting date on Form CP204B"

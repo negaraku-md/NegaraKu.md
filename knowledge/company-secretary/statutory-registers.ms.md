@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Setiausaha syarikat dan pengarah yang bertanggungjawab terhadap rekod berkanun berterusan sebuah Sdn Bhd di Malaysia."
 
 verificationNeeded:
-  - "Confirm the current SSM late lodgement fee scale for register-related notifications against the prevailing SSM practice directive on late lodgement penalties"
+  - "Sahkan skala fi pemfailan lewat SSM semasa bagi pemberitahuan berkaitan daftar terhadap arahan amalan SSM semasa mengenai penalti pemfailan lewat"
 
 lang: "ms"
 masterLanguage: "en"

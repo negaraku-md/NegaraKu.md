@@ -34,8 +34,8 @@ faq:
     a: "Hanya jika mereka seorang orang perseorangan. Jika mereka seorang individu yang memegang 20% atau lebih saham biasa, mereka memenuhi Kriteria A. Namun, memegang majoriti saham tidak mencukupi bagi keseluruhan analisis — anda tetap perlu menilai kesemua enam kriteria, kerana orang lain mungkin secara berasingan memenuhi Kriteria C, D, E atau F."
 
 verificationNeeded:
-  - "Confirm SSM's treatment of discretionary trusts where no beneficiary has a vested interest, against the separate guidelines on beneficial ownership of legal arrangements which SSM has indicated will be issued for trust arrangements"
-  - "Whether a trust company registered under the Trust Companies Act 1949 is necessarily a public company subject to the full beneficial ownership framework — asserted in some commentary but not pinned to a provision of that Act"
+  - "Sahkan layanan SSM terhadap amanah budi bicara yang tiada benefisiari mempunyai kepentingan terletak hak, terhadap garis panduan berasingan mengenai pemilikan benefisial pengaturan perundangan yang telah dinyatakan oleh SSM akan dikeluarkan bagi pengaturan amanah"
+  - "Sama ada syarikat amanah yang didaftarkan di bawah Trust Companies Act 1949 semestinya syarikat awam yang tertakluk kepada rangka kerja pemilikan benefisial penuh — ditegaskan dalam sesetengah ulasan tetapi tidak dikaitkan dengan sesuatu peruntukan Akta tersebut"
 
 lang: "ms"
 masterLanguage: "en"

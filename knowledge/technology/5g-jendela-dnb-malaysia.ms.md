@@ -41,11 +41,11 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 
 verificationNeeded:
-  - "The 21 June 2024 Ministerial Direction and the exact 700MHz (2×20MHz) / 3.5GHz (100MHz) allocation currently rest on SoyaCincau's reporting; confirm against the MCMC primary press-release PDF and FAQ."
+  - "Arahan Menteri 21 Jun 2024 dan peruntukan tepat 700MHz (2×20MHz) / 3.5GHz (100MHz) pada masa ini bergantung pada laporan SoyaCincau; sahkan terhadap PDF siaran akhbar utama dan FAQ MCMC."
   - "5G Phase 1 coverage figures: confirm 47.1% (Q4 2022, Phase 1 final report) versus 54.7% (Feb 2023) against MCMC's official JENDELA Phase 1 report."
-  - "U Mobile's coverage roadmap beyond 80% by H2 2026 (an earlier '95% by 2028' figure was removed as unverified) — confirm any later target against a primary U Mobile or MCMC statement."
-  - "The JENDELA Phase 2 'JP2' RFP is reported by The Edge as issued on 'March 31'; confirm the year is 2026 against an MCMC/Communications Ministry source."
-  - "Ministerial Direction No. 3 of 2021 issuance date (31 May 2021) is drawn from SoyaCincau; confirm against the official gazette or MCMC record."
+  - "Peta jalan liputan U Mobile melebihi 80% menjelang H2 2026 (angka terdahulu '95% menjelang 2028' telah dibuang kerana tidak disahkan) — sahkan sebarang sasaran kemudian terhadap kenyataan utama U Mobile atau MCMC."
+  - "RFP JENDELA Fasa 2 'JP2' dilaporkan oleh The Edge sebagai dikeluarkan pada '31 Mac'; sahkan bahawa tahunnya ialah 2026 terhadap sumber MCMC/Kementerian Komunikasi."
+  - "Tarikh pengeluaran Ministerial Direction No. 3 of 2021 (31 Mei 2021) diambil daripada SoyaCincau; sahkan terhadap warta rasmi atau rekod MCMC."
 
 status: "published"
 aiAssisted: true

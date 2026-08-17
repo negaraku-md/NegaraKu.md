@@ -38,8 +38,8 @@ faq:
     a: "Ya, satu lapisan tambahan terpakai. Juruaudit bagi entiti kepentingan awam dan dana berjadual juga mesti didaftarkan dengan Lembaga Pengawasan Audit (Audit Oversight Board) di bawah Bahagian IIIA Akta Suruhanjaya Sekuriti Malaysia 1993 (Securities Commission Malaysia Act 1993). Kelulusan Menteri Kewangan dan keahlian MIA sahaja tidak mencukupi bagi audit tersebut."
 
 verificationNeeded:
-  - "Confirm the current Audit Oversight Board registration criteria and the definition of public interest entity in Schedule 1 of the Securities Commission Malaysia Act 1993 directly against the SC AOB pages, which were read in summary only"
-  - "Confirm whether the Minister of Finance has formally delegated the s.263 approval function, and to which body, since s.263(5) permits but does not compel delegation"
+  - "Sahkan kriteria pendaftaran Audit Oversight Board semasa dan takrifan public interest entity dalam Schedule 1 of the Securities Commission Malaysia Act 1993 terus terhadap laman SC AOB, yang hanya dibaca secara ringkasan"
+  - "Sahkan sama ada Menteri Kewangan telah secara rasmi mewakilkan fungsi kelulusan s.263, dan kepada badan yang mana, memandangkan s.263(5) membenarkan tetapi tidak mewajibkan perwakilan"
 
 lang: "ms"
 masterLanguage: "en"

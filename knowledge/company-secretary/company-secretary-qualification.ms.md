@@ -36,9 +36,9 @@ faq:
     a: "Seorang pengarah boleh memegang kedua-dua jawatan itu, tetapi s.242 Akta Syarikat 2016 melarang bertindak dalam kapasiti berganda di mana Akta menghendaki atau membenarkan sesuatu perkara dilakukan oleh seorang pengarah dan seorang setiausaha. Pada praktiknya, ini bermakna seorang pengarah tunggal tidak boleh menandatangani instrumen yang sama dalam kedua-dua kapasiti, dan syarikat berpengarah tunggal mesti melantik orang lain sebagai setiausaha."
 
 verificationNeeded:
-  - "Confirm the fee charged for purchasing Company Secretary Information Data (CSID) — SSM's notice states it is available in Excel format through authorised portals but does not publish a price"
-  - "Confirm whether the Fourth Schedule body is correctly cited as Sabah Law Society (Act 777 Fourth Schedule) or Sabah Law Association (SSM Part K FAQ) — the two SSM documents differ"
-  - "Confirm the current prescribed application fee and eligibility criteria for a s.20G licence, which SSM publishes separately from the s.241 practising certificate fees"
+  - "Sahkan yuran yang dikenakan untuk membeli Company Secretary Information Data (CSID) — notis SSM menyatakan ia tersedia dalam format Excel melalui portal yang dibenarkan tetapi tidak menerbitkan harga"
+  - "Sahkan sama ada badan Fourth Schedule dipetik dengan betul sebagai Sabah Law Society (Act 777 Fourth Schedule) atau Sabah Law Association (SSM Part K FAQ) — kedua-dua dokumen SSM berbeza"
+  - "Sahkan yuran permohonan yang ditetapkan semasa dan kriteria kelayakan bagi lesen s.20G, yang diterbitkan SSM secara berasingan daripada yuran sijil amalan s.241"
 
 obligations:
   - what: "Renew the SSM practising certificate for secretaries"

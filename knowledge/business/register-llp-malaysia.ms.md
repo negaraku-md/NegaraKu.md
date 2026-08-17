@@ -38,9 +38,9 @@ faq:
     a: "Di bawah s.27(3) hingga (5), pegawai pematuhan memberi notis bertulis kepada PLT, kemudian boleh memfailkan notis dengan Pendaftar, dan berhenti memegang jawatan itu selepas tamat tempoh satu bulan dari tarikh notis itu difailkan. Sehingga masa itu, liabiliti peribadi di bawah s.27(7) masih berkuat kuasa."
 
 verificationNeeded:
-  - "Section 27(1) of the LLP Act 2012 still refers to persons qualified to act as secretaries under the Companies Act 1965, which was repealed by the Companies Act 2016 — confirm with SSM how the qualification is currently assessed in practice"
-  - "Confirm current MyLLP processing times; SSM does not publish a service standard for LLP registration comparable to the one-working-day figure it publishes for foreign company registration"
-  - "Confirm the current requirement for a compliance officer to attend an SSM office in person for identity verification — this appears in the General Guidelines for Registration of LLP and may have been superseded by online verification"
+  - "Section 27(1) of the LLP Act 2012 masih merujuk kepada orang yang layak bertindak sebagai setiausaha di bawah Companies Act 1965, yang telah dimansuhkan oleh Companies Act 2016 — sahkan dengan SSM bagaimana kelayakan itu dinilai dalam amalan pada masa ini"
+  - "Sahkan masa pemprosesan MyLLP semasa; SSM tidak menerbitkan standard perkhidmatan bagi pendaftaran LLP yang setanding dengan angka satu hari bekerja yang diterbitkannya bagi pendaftaran syarikat asing"
+  - "Sahkan keperluan semasa bagi pegawai pematuhan untuk hadir ke pejabat SSM secara peribadi bagi pengesahan identiti — ini muncul dalam General Guidelines for Registration of LLP dan mungkin telah digantikan oleh pengesahan dalam talian"
 
 obligations:
   - what: "Lodge notification of any change in the registered particulars of the LLP"

@@ -38,7 +38,7 @@ faq:
     a: "Akta tidak membezakan antara kedua-duanya. Seksyen 131 dan 132 merujuk kepada pengagihan, yang ditakrifkan dengan merujuk kepada syarikat yang mengagihkan kepada pemegang saham, dan keperluan untung serta solvensi yang sama terpakai bila-bila masa pengagihan itu dibuat. Perbezaan praktikalnya ialah dividen interim dinilai berdasarkan angka pengurusan dan bukannya angka yang diaudit, yang menaikkan tahap keperluan bukti bagi kepuasan hati pengarah."
 
 verificationNeeded:
-  - "Whether SSM has issued any guidance on what evidence directors should retain to demonstrate satisfaction under s.132(2) — no practice directive or practice note on the point was located"
+  - "Sama ada SSM telah mengeluarkan sebarang panduan mengenai bukti yang perlu disimpan oleh pengarah untuk menunjukkan kepuasan hati di bawah s.132(2) — tiada arahan amalan atau nota amalan mengenai perkara itu ditemui"
 
 obligations:
   - what: "Take all necessary steps to prevent a distribution where the directors cease to be satisfied on solvency"

@@ -36,8 +36,8 @@ faq:
     a: "Seksyen 109H membenarkan pembayar merayu kepada Pesuruhjaya Khas dalam tempoh 30 hari dari tarikh akhir, atas alasan bahawa cukai itu tidak kena dibayar. Rayuan itu disekat dalam tiga keadaan — apabila bukan pemastautin itu telah pun merayu, apabila bayaran itu telah pun ditolak di bawah s.39, atau apabila cukai pegangan itu belum dibayar."
 
 verificationNeeded:
-  - "Public Ruling No. 10/2019 is dated 10 December 2019 and remains the current edition — it has not been reissued to reflect any post-2019 amendment, so treat its examples as guidance of that vintage"
-  - "P.U.(A) 323/2017 was read through Public Ruling 10/2019 paras 5.2 and 21 rather than from the gazette text itself; confirm the Order has not been revoked or superseded before relying on the offshore-services exemption"
+  - "Public Ruling No. 10/2019 bertarikh 10 Disember 2019 dan kekal sebagai edisi semasa — ia belum dikeluarkan semula untuk mencerminkan sebarang pindaan pasca-2019, jadi anggap contohnya sebagai panduan dari zaman itu"
+  - "P.U.(A) 323/2017 dibaca melalui Public Ruling 10/2019 perenggan 5.2 dan 21 dan bukan daripada teks warta itu sendiri; sahkan Perintah itu tidak dibatalkan atau digantikan sebelum bergantung pada pengecualian perkhidmatan luar pesisir"
 
 obligations:
   - what: "Deduct and remit 10 per cent withholding tax on s.4A income paid to a non-resident"

@@ -42,9 +42,9 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "MD launch date of 4 July 2022 — cited by multiple advisory firms but not confirmed against a primary .gov.my source."
-  - "MDEC's precise incorporation date (5 June 1996) and the former name 'Multimedia Development Corporation Sdn Bhd' — reported by secondary sources but not seen verbatim on the current MDEC About page."
-  - "The application deadline for the MD tax incentive (older sources cite 31 December 2027) — not stated on MDEC's current tax-incentive page; confirm against live guidelines before publishing any deadline."
+  - "Tarikh pelancaran MD 4 July 2022 — dipetik oleh beberapa firma penasihat tetapi tidak disahkan terhadap sumber .gov.my utama."
+  - "Tarikh pemerbadanan tepat MDEC (5 Jun 1996) dan nama terdahulu 'Multimedia Development Corporation Sdn Bhd' — dilaporkan oleh sumber sekunder tetapi tidak dilihat kata demi kata pada halaman About MDEC semasa."
+  - "Tarikh akhir permohonan bagi insentif cukai MD (sumber lama memetik 31 Disember 2027) — tidak dinyatakan pada halaman insentif cukai MDEC semasa; sahkan terhadap garis panduan terkini sebelum menerbitkan sebarang tarikh akhir."
   - "Digital economy's share of Malaysia's GDP (commonly cited around 23%) — needs a primary DOSM figure with year."
   - "Total investments facilitated / jobs created figures — source from an MDEC annual report or official impact statement before stating."
 updated: 2026-08-14

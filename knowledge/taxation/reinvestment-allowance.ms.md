@@ -38,7 +38,7 @@ faq:
     a: "Tidak. Perenggan 13.2 Ketetapan Umum Bil. 10/2022 mengesahkan bahawa tiada kelulusan bertulis diperlukan, tetapi tuntutan itu mesti direkodkan pada borang tuntutan RA yang boleh dimuat turun daripada portal LHDN, dan salinan asal disimpan bersama semua dokumen sokongan."
 
 verificationNeeded:
-  - "The prescribed level of productivity that unlocks the 100% exemption in the proviso to paragraph 3 of Schedule 7A is set by the Minister and computed on the RA claim form; the current prescribed threshold was not confirmed from a primary source."
+  - "Tahap produktiviti preskripsi yang membuka pengecualian 100% dalam proviso kepada perenggan 3 Schedule 7A ditetapkan oleh Menteri dan dikira pada borang tuntutan RA; ambang preskripsi semasa tidak disahkan daripada sumber utama."
 
 lang: "ms"
 masterLanguage: "en"

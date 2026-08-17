@@ -42,11 +42,11 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Exact current number and breakdown of local authorities (city vs municipal vs district councils) for 2024–2026 — JKT/KPKT listed 155 PBT as of Aug 2021; the count and city-status upgrades change over time."
-  - "Precise historical date local-government elections were suspended (commonly cited as 1 March 1965) and the roles of the Athi Nahappan Royal Commission and the Local Government (Temporary Provisions) Act 1973 — confirm against a primary source before stating."
-  - "The definitive count of amending Acts and whether any amendments to Act 171 exist after 2007."
+  - "Bilangan semasa yang tepat dan pecahan pihak berkuasa tempatan (majlis bandaraya berbanding majlis perbandaran berbanding majlis daerah) bagi 2024–2026 — JKT/KPKT menyenaraikan 155 PBT setakat Ogos 2021; kiraan dan peningkatan taraf bandaraya berubah dari semasa ke semasa."
+  - "Tarikh sejarah tepat pilihan raya kerajaan tempatan digantung (biasa dipetik sebagai 1 March 1965) dan peranan Suruhanjaya Diraja Athi Nahappan serta Local Government (Temporary Provisions) Act 1973 — sahkan terhadap sumber utama sebelum menyatakannya."
+  - "Bilangan muktamad Akta pindaan dan sama ada sebarang pindaan kepada Act 171 wujud selepas 2007."
   - "Official criteria/thresholds (population, annual revenue) for conferring City or Municipal status — needs an official KPKT source."
-  - "Exact number of Parts/sections/schedules in the most current in-force reprint (Wikipedia states 16 Parts/166 sections/2 schedules as of 1 Dec 2012; verify no structural change since)."
+  - "Bilangan tepat Bahagian/seksyen/jadual dalam cetakan semula terkini yang berkuat kuasa (Wikipedia menyatakan 16 Bahagian/166 seksyen/2 jadual setakat 1 Dis 2012; sahkan tiada perubahan struktur sejak itu)."
 updated: 2026-08-14
 sources:
   - title: "Laws of Malaysia, Act 171 Local Government Act 1976 (official reprint incorporating amendments up to 1 January 2006)"

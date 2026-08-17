@@ -51,10 +51,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Exact day-rate compound schedule (RM30/day for 1–30, RM1,000 for 31–60, RM2,000 for 61–90) — the MDEC/JIM source publishes it as an image table; confirm the RM bands against the official JIM notice."
-  - "The commonly cited one-to-five-year re-entry ban range against current Immigration Department practice."
-  - "Whether any foreigner-facing online status/blacklist self-check exists — as of writing, SSPI is Malaysian-citizen only and no public foreign-passport checker was found."
-  - "Special Pass validity period and fee were deliberately omitted (sources were contradictory/unconfirmed); confirm before adding any hard number."
+  - "Jadual kompaun kadar harian sebenar (RM30/hari untuk 1–30, RM1,000 untuk 31–60, RM2,000 untuk 61–90) — sumber MDEC/JIM menerbitkannya sebagai jadual imej; sahkan jalur RM terhadap notis JIM rasmi."
+  - "Julat larangan masuk semula satu hingga lima tahun yang lazim dipetik terhadap amalan Jabatan Imigresen semasa."
+  - "Sama ada mana-mana semakan sendiri status/senarai hitam dalam talian yang menghadap orang asing wujud — pada masa penulisan, SSPI hanya untuk warganegara Malaysia dan tiada penyemak pasport asing awam ditemui."
+  - "Tempoh sah dan yuran Special Pass sengaja ditinggalkan (sumber bercanggah/tidak disahkan); sahkan sebelum menambah sebarang angka pasti."
 updated: 2026-08-07
 sources:
   - title: "Frequently Committed Offences"

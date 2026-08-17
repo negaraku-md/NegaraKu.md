@@ -38,7 +38,7 @@ faq:
     a: "Seksyen 109(3) mengenakan segala had, sekatan dan peruntukan subbahagian yang berkaitan dengan hak untuk membuat pindah milik dan pendaftaran pindah milik ke atas sesuatu notis atau pindah milik di bawah s.109(2) — iaitu, ke atas kes di mana orang yang berhak itu memilih untuk mendaftarkan orang lain. Oleh itu, sebarang kuasa untuk enggan mesti dikesan kembali kepada Akta itu atau perlembagaan syarikat, sebagaimana bagi suatu pindah milik biasa di bawah s.106(1)(a)."
 
 verificationNeeded:
-  - "The stamp duty treatment of a transmission where no instrument of transfer is executed was not confirmed against a current LHDN guideline or ruling; the 2019 share valuation guideline addresses transfers, not transmissions, and the position should be confirmed with the LHDN State Director's Office"
+  - "Layanan duti setem terhadap peralihan hakmilik di mana tiada surat cara pindah milik disempurnakan tidak disahkan terhadap garis panduan atau ketetapan LHDN semasa; garis panduan penilaian saham 2019 menangani pindah milik, bukan peralihan hakmilik, dan kedudukan itu harus disahkan dengan Pejabat Pengarah Negeri LHDN"
 
 obligations:
   - what: "Register a person entitled by transmission as a shareholder"

@@ -41,10 +41,10 @@ faq:
     a: "Tidak. Port Klang Free Zone diwartakan secara berasingan dan muncul dalam senarai kastam sebagai kedua-dua zon perdagangan bebas dan zon perindustrian bebas, dengan Pihak Berkuasanya sendiri yang dilantik. Ia adalah zon konvensional di bawah Akta Zon Bebas 1990 dan tidak berkaitan dengan program DFTZ."
 
 verificationNeeded:
-  - "Which body, if any, holds POLICY custodianship of DFTZ as at July 2026. Operational custody of the eServices Platform is MDEC's and is documented. No official statement of transfer, wind-down or succession exists on any domain. MITI could not be ruled out because its site search sits behind single sign-on. Do not assert that the programme is ownerless."
-  - "Whether the DFTZ eServices Platform actually went live. MDEC's page still reads 'will go live on 27 April 2026' in future tense nearly three months after that date, and no RMCD confirmation is locatable — but customs.gov.my's search index is broken (the controls 'SST', 'kastam' and 'cukai' all return zero), so this is a null result, not evidence the go-live failed."
-  - "Whether the Satellite Services Hub was ever delivered. MDEC's current DFTZ page does not mention it."
-  - "Any DFTZ throughput or trade-value statistic after 2020. None exists from an official source, and after MAHB's delisting on 25 February 2025 none can be obtained — this is structurally unobtainable, not merely unfound."
+  - "Badan mana, jika ada, yang memegang jagaan DASAR DFTZ setakat Julai 2026. Jagaan operasi eServices Platform ialah milik MDEC dan didokumenkan. Tiada kenyataan rasmi tentang pemindahan, penamatan atau penggantian wujud pada mana-mana domain. MITI tidak dapat diketepikan kerana carian tapaknya berada di sebalik single sign-on. Jangan tegaskan bahawa program ini tidak bertuan."
+  - "Sama ada DFTZ eServices Platform benar-benar mula beroperasi. Halaman MDEC masih membaca 'will go live on 27 April 2026' dalam bentuk masa hadapan hampir tiga bulan selepas tarikh tersebut, dan tiada pengesahan RMCD dapat ditemui — tetapi indeks carian customs.gov.my rosak (kawalan 'SST', 'kastam' dan 'cukai' semuanya memulangkan kosong), jadi ini merupakan keputusan nol, bukan bukti bahawa pelancaran itu gagal."
+  - "Sama ada Satellite Services Hub pernah disiapkan. Laman DFTZ semasa MDEC tidak menyebutnya."
+  - "Sebarang statistik pemprosesan atau nilai dagangan DFTZ selepas 2020. Tiada yang wujud daripada sumber rasmi, dan selepas penyahsenaraian MAHB pada 25 Februari 2025 tiada yang boleh diperoleh — ini secara strukturnya tidak boleh diperoleh, bukan sekadar tidak dijumpai."
 
 lang: "ms"
 masterLanguage: "en"

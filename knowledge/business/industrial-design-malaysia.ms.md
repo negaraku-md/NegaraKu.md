@@ -35,9 +35,9 @@ faq:
     a: "Boleh, di bawah s.15, dengan syarat ia berkaitan dengan kelas yang sama mengikut Pengelasan Antarabangsa bagi Reka Bentuk Perindustrian (International Classification for Industrial Designs) atau set atau gubahan artikel yang sama. Setiap reka bentuk tambahan dalam permohonan itu tetap dikenakan yuran RM480 tersendiri."
 
 verificationNeeded:
-  - "The Industrial Designs Act 1996 PDF hosted on myipo.gov.my is the reprint as at 1 January 2013 and does NOT include the Industrial Designs (Amendment) Act 2013 (Act A1449) — the commencement notification for A1449 could not be located; 1 July 2013 is inferred from the Industrial Designs (Amendment) Regulations 2013 [P.U. (A) 182/2013], which came into force on that date"
-  - "Confirm with MyIPO whether the Registrar conducts a substantive novelty search on an industrial design application or only a formalities check"
-  - "Confirm the current edition of the International Classification for Industrial Designs (Locarno) applied by MyIPO"
+  - "PDF Industrial Designs Act 1996 yang dihoskan di myipo.gov.my ialah cetakan semula setakat 1 Januari 2013 dan TIDAK termasuk Industrial Designs (Amendment) Act 2013 (Act A1449) — notifikasi permulaan kuat kuasa bagi A1449 tidak dapat ditemui; 1 Julai 2013 disimpulkan daripada Industrial Designs (Amendment) Regulations 2013 [P.U. (A) 182/2013], yang mula berkuat kuasa pada tarikh tersebut"
+  - "Sahkan dengan MyIPO sama ada Pendaftar menjalankan carian kebaharuan substantif ke atas permohonan reka bentuk perindustrian atau hanya semakan formaliti"
+  - "Sahkan edisi semasa International Classification for Industrial Designs (Locarno) yang digunakan oleh MyIPO"
 
 obligations:
   - what: "Apply to extend the period of registration of an industrial design"

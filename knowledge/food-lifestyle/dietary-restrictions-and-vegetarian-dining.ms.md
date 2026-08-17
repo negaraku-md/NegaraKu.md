@@ -46,10 +46,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Exact citation form of the Trade Descriptions (Certification and Marking of Halal) Order 2011 (P.U.(A) 431) and its paragraph empowering JAKIM/MAIN as competent authorities — confirm against the gazetted text via AGC/KPDN."
-  - "Current MS 1500 revision year (article and sources reference MS 1500; JAKIM's 2020s import statement cites MS 1500 without a fixed year — confirm the version in force)."
-  - "That the two JAKIM media-statement URLs (4581, 4800) remain live and that their wording still supports the legal, DVS and MS 1500 claims."
-  - "Currency of the MYeHALAL portal URL and the ITC 'Halal Food Adventures' quotation."
+  - "Bentuk petikan tepat Trade Descriptions (Certification and Marking of Halal) Order 2011 (P.U.(A) 431) dan perenggannya yang memberi kuasa kepada JAKIM/MAIN sebagai pihak berkuasa berwibawa — sahkan terhadap teks berwarta melalui AGC/KPDN."
+  - "Tahun semakan MS 1500 semasa (artikel dan sumber merujuk MS 1500; kenyataan import JAKIM 2020-an menyebut MS 1500 tanpa tahun tetap — sahkan versi yang berkuat kuasa)."
+  - "Bahawa kedua-dua URL kenyataan media JAKIM (4581, 4800) kekal aktif dan bahawa perkataannya masih menyokong tuntutan perundangan, DVS dan MS 1500."
+  - "Kesahihan semasa URL portal MYeHALAL dan petikan ITC 'Halal Food Adventures'."
 
 updated: 2026-08-01
 sources:

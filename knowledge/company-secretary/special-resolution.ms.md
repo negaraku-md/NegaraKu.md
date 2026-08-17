@@ -44,12 +44,12 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Short-notice consent thresholds under s.316(5): private company 90% (constitution may raise up to 95%), public company 95% — appeared only in secondary summaries; confirm against the official Act 777 text."
-  - "7-day deadline to lodge the members' voluntary winding-up resolution with SSM under s.439(2)(a) — confirm exact section and day count against statute/SSM form."
-  - "Exact s.316 subsection breakdown for ordinary-business notice (private and public both 14 days, and the 21-day rule for special resolutions) — confirm precise subsection numbering."
-  - "Change of company name being s.28 specifically (vs neighbouring sections) — confirm section number against Act 777."
-  - "Whether show-of-hands vs poll mechanics are in s.291(2)/(3) and s.292(3)/(4) exactly as summarised — confirm subsection numbers."
-  - "30-day deadline to lodge an amended constitution after a s.36 special resolution and the RM10,000 / RM500-per-day penalty — confirm against statute (secondary source only)."
+  - "Ambang persetujuan notis pendek di bawah s.316(5): syarikat persendirian 90% (perlembagaan boleh menaikkan sehingga 95%), syarikat awam 95% — hanya muncul dalam ringkasan sekunder; sahkan terhadap teks rasmi Act 777."
+  - "Tarikh akhir 7 hari untuk menyerahkan resolusi penggulungan sukarela ahli kepada SSM di bawah s.439(2)(a) — sahkan seksyen tepat dan kiraan hari terhadap statut/borang SSM."
+  - "Pecahan subseksyen s.316 yang tepat bagi notis urusan biasa (persendirian dan awam kedua-duanya 14 hari, dan peraturan 21 hari bagi resolusi khas) — sahkan penomboran subseksyen yang tepat."
+  - "Penukaran nama syarikat sebagai s.28 secara khusus (berbanding seksyen berdekatan) — sahkan nombor seksyen terhadap Act 777."
+  - "Sama ada mekanik undian angkat tangan berbanding undi rasmi terdapat dalam s.291(2)/(3) dan s.292(3)/(4) tepat seperti yang diringkaskan — sahkan nombor subseksyen."
+  - "Tarikh akhir 30 hari untuk memfailkan perlembagaan yang dipinda selepas resolusi khas s.36 dan penalti RM10,000 / RM500 sehari — sahkan terhadap statut (sumber sekunder sahaja)."
 updated: 2026-08-14
 sources:
   - title: "Companies Act 2016 (Act 777), official English text"

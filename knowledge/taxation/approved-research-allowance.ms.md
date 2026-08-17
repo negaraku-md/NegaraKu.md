@@ -38,8 +38,8 @@ faq:
     a: "Tidak. Definisi s.2, yang dipinda berkuat kuasa 28 Disember 2018, memerlukan kajian yang sistematik, siasatan dan eksperimen yang melibatkan unsur kebaharuan atau risiko teknikal dalam sains atau teknologi, dan secara jelas mengecualikan kawalan kualiti atau ujian rutin, penyelidikan dalam sains sosial atau kemanusiaan, pengumpulan data rutin, kajian kecekapan dan kajian pengurusan, penyelidikan pasaran dan promosi jualan, pengubahsuaian rutin bahan, peralatan, proses atau kaedah pengeluaran, dan perubahan kosmetik atau gaya."
 
 verificationNeeded:
-  - "Whether MIDA has issued a guideline for Contract R&D and R&D company applications later than the 31 March 2021 edition"
-  - "Whether the LHDN procedural guideline for s.34A applications has been revised since the 26 June 2023 amendment — only the Malay edition was located"
+  - "Sama ada MIDA telah mengeluarkan garis panduan bagi permohonan Contract R&D dan syarikat R&D lebih lewat daripada edisi 31 March 2021"
+  - "Sama ada garis panduan prosedur LHDN bagi permohonan s.34A telah disemak semula sejak pindaan 26 Jun 2023 — hanya edisi Bahasa Melayu ditemui"
 obligations:
   - what: "Lodge Form 1 to obtain approval of the R&D activity under s.34A"
     trigger: "financial-year-end"

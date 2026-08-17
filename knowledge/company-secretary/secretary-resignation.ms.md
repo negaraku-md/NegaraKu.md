@@ -36,9 +36,9 @@ faq:
     a: "Tidak. SSM mengesahkan bahawa nama setiausaha kekal pada profil korporat syarikat sehingga syarikat mengemas kininya di bawah s.58. Jika anda telah memfailkan salinan notis peletakan jawatan anda dengan Pendaftar di bawah Practice Note 4/2018, dokumen itu disediakan kepada mana-mana orang atas bayaran fi yang ditetapkan, itulah cara peletakan jawatan menjadi kelihatan walaupun syarikat tidak bekerjasama."
 
 verificationNeeded:
-  - "Confirm the prescribed fee SSM charges to supply a copy of a lodged resignation notice under Practice Note 4/2018, paragraph 10"
-  - "Confirm the current lodgement channel and any fee for the Notice of Intention to Vacate the Office of Secretary under s.237(2), which SSM publishes as a standalone form"
-  - "Confirm whether SSM has issued any Practice Note superseding or supplementing PN 4/2018 after its 13 March 2023 FAQ update"
+  - "Sahkan yuran ditetapkan yang dikenakan SSM untuk membekalkan salinan notis peletakan jawatan yang difailkan di bawah Practice Note 4/2018, perenggan 10"
+  - "Sahkan saluran pemfailan semasa dan sebarang yuran bagi Notice of Intention to Vacate the Office of Secretary di bawah s.237(2), yang diterbitkan SSM sebagai borang berasingan"
+  - "Sahkan sama ada SSM telah mengeluarkan sebarang Practice Note yang menggantikan atau menambah PN 4/2018 selepas kemas kini FAQ 13 March 2023"
 
 obligations:
   - what: "Secretary ceases to hold office after notice of resignation to the Board"

@@ -50,9 +50,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Whether a section 366(1) scheme meeting can be dispensed with for a wholly-owned or uncontested internal reorganisation - a contested, fact-sensitive interpretive point; confirm current Malaysian court guidance before relying on either position."
-  - "Whether section 371 (90% compulsory acquisition threshold) and its interaction with an asset-based amalgamation is correctly characterised for the reader's specific deal."
-  - "That the SSM consolidated Companies Act 2016 PDF cited remains the current in-force text at time of use (check for later amendments)."
+  - "Sama ada mesyuarat skim section 366(1) boleh dikecualikan bagi penyusunan semula dalaman milik penuh atau tanpa pertikaian - suatu isu tafsiran yang dipertikaikan dan sensitif kepada fakta; sahkan panduan mahkamah Malaysia semasa sebelum bergantung pada mana-mana kedudukan."
+  - "Sama ada section 371 (ambang pengambilalihan wajib 90%) dan interaksinya dengan penggabungan berasaskan aset dicirikan dengan betul bagi urus niaga khusus pembaca."
+  - "Bahawa PDF Companies Act 2016 bersepadu SSM yang dipetik kekal sebagai teks berkuat kuasa semasa pada masa penggunaan (semak pindaan kemudian)."
 
 updated: 2026-08-07
 sources:

@@ -49,10 +49,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "AI Malaysia Berhad launch date (28 July 2026): The Edge article (published 1 August 2026) says the PM officiated the launch 'on Tuesday' rather than giving a numeric date; confirm the exact calendar date against an official source."
-  - "Shamsul Izhan Abdul Majid's departure: source states he 'ended his tenure in June' as NAIO head; confirm the year (2026) and exact date."
-  - "Risk-based AI governance bill 'end of 2026' target: reported by The Edge (Aug 2026); an earlier ministerial statement (Malay Mail, July 2025) referred to a framework 'by mid-next year'. Confirm the current official timeline."
-  - "Malaysian AI Safety Institute: confirm its establishment, legal status and mandate (safety assessments, model testing, red-teaming) against an official government source once published."
+  - "Tarikh pelancaran AI Malaysia Berhad (28 Julai 2026): artikel The Edge (diterbitkan 1 Ogos 2026) menyatakan PM merasmikan pelancaran itu 'pada hari Selasa' dan bukannya memberikan tarikh berangka; sahkan tarikh kalendar tepat terhadap sumber rasmi."
+  - "Pemergian Shamsul Izhan Abdul Majid: sumber menyatakan beliau 'ended his tenure in June' sebagai ketua NAIO; sahkan tahun (2026) dan tarikh tepat."
+  - "Sasaran rang undang-undang tadbir urus AI berasaskan risiko 'penghujung 2026': dilaporkan oleh The Edge (Aug 2026); kenyataan menteri terdahulu (Malay Mail, July 2025) merujuk rangka kerja 'menjelang pertengahan tahun depan'. Sahkan garis masa rasmi semasa."
+  - "Malaysian AI Safety Institute: sahkan penubuhan, status undang-undang dan mandatnya (penilaian keselamatan, pengujian model, red-teaming) terhadap sumber kerajaan rasmi setelah diterbitkan."
   - "Company registration number 202601028115 (1690210-V) for AI Malaysia Berhad: confirm active/registered status."
 
 updated: 2026-08-01

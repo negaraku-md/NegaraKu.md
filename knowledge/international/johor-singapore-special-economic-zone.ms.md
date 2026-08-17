@@ -43,10 +43,10 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Flagship-area naming varies across official and legal-advisory sources (e.g. 'Johor Bahru Waterfront' vs 'Johor Bahru City Centre'; 'Kulai–Sedenak' vs 'Sedenak'). Confirm the definitive government wording before publication."
-  - "No public source assigns a specific sector/anchor role to each individual flagship area; the per-flagship 'tailor-made' incentives were not detailed at the time of writing. Confirm once flagship-specific incentive guidelines are published."
-  - "Investment figures (RM30.1bn Q1-2025; RM76.98bn approved with ~57% materialised) trace to a July 2026 Economy Ministry update reported by The Star; confirm against the ministry's own release."
-  - "The Singapore JS-SEZ Project Office 'April 2025' start date and the IMFC-J 'February 2025' operational date should be reconfirmed against MTI/EDB and IRDA primary sources."
+  - "Penamaan kawasan utama berbeza merentas sumber rasmi dan nasihat undang-undang (cth. 'Johor Bahru Waterfront' berbanding 'Johor Bahru City Centre'; 'Kulai–Sedenak' berbanding 'Sedenak'). Sahkan perkataan kerajaan yang muktamad sebelum penerbitan."
+  - "Tiada sumber awam yang memberikan peranan sektor/sauh tertentu kepada setiap kawasan utama individu; insentif 'buatan khas' setiap kawasan utama tidak diperincikan pada masa penulisan. Sahkan sebaik sahaja garis panduan insentif khusus setiap kawasan utama diterbitkan."
+  - "Angka pelaburan (RM30.1 bilion S1-2025; RM76.98 bilion diluluskan dengan ~57% terlaksana) berpunca daripada kemas kini Kementerian Ekonomi Julai 2026 yang dilaporkan oleh The Star; sahkan terhadap kenyataan kementerian itu sendiri."
+  - "Tarikh mula 'April 2025' Singapore JS-SEZ Project Office dan tarikh operasi 'February 2025' IMFC-J harus disahkan semula terhadap sumber utama MTI/EDB dan IRDA."
 revisions:
   - version: "01.00"
     date: 2026-08-01

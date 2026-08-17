@@ -43,12 +43,12 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Exact current total staff strength — ms.Wikipedia cites 14,872 positions (2023), not confirmed against a primary RMCD/JPA source."
+  - "Jumlah kekuatan kakitangan semasa yang tepat — ms.Wikipedia memetik 14,872 jawatan (2023), tidak disahkan terhadap sumber primer RMCD/JPA."
   - "Precise service tax registration threshold per service category (general RM500,000 widely cited, but some categories differ) — confirm on mysst.customs.gov.my."
-  - "Full sales tax rate schedule by goods class (5% / 10% / specific / exempt) against the current Sales Tax (Rates of Tax) Order."
-  - "Exact appointment date and full title of the current Director-General Dato' Amran bin Haji Ahmad."
+  - "Jadual kadar cukai jualan penuh mengikut kelas barangan (5% / 10% / khusus / dikecualikan) terhadap Sales Tax (Rates of Tax) Order semasa."
+  - "Tarikh pelantikan tepat dan gelaran penuh Ketua Pengarah semasa Dato' Amran bin Haji Ahmad."
   - "Revenue breakdown by tax type for 2023/2024 (import duty vs excise vs sales tax vs service tax)."
-  - "2024 actual (vs the RM56bn target) and any 2025 figures once published."
+  - "Angka sebenar 2024 (berbanding sasaran RM56bn) dan sebarang angka 2025 sebaik sahaja diterbitkan."
 updated: 2026-08-14
 sources:
   - title: "Royal Malaysian Customs Department"

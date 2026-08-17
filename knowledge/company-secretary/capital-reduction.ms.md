@@ -38,7 +38,7 @@ faq:
     a: "Di bawah laluan mahkamah, s.116(6) memperuntukkan bahawa resolusi itu, sebagaimana disahkan oleh perintah itu, berkuat kuasa apabila perintah itu difailkan dengan Pendaftar. Di bawah laluan kesolvenan, s.119(3) memperuntukkan bahawa pengurangan itu berkuat kuasa apabila Pendaftar telah merekodkan maklumat yang difailkan itu dalam daftar yang berkenaan."
 
 verificationNeeded:
-  - "Whether SSM prescribes a specific form or template for the solvency statement under s.113(1)(a), which requires it to be made in a manner as may be determined by the Registrar — no published template was located"
+  - "Sama ada SSM menetapkan borang atau templat khusus bagi penyata kesolvenan di bawah s.113(1)(a), yang menghendaki ia dibuat mengikut cara yang ditentukan oleh Pendaftar — tiada templat diterbitkan ditemui"
 
 obligations:
   - what: "Send notice of the capital reduction resolution to the Registrar and to the Director General of Inland Revenue"

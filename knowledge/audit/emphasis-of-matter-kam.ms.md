@@ -34,7 +34,7 @@ faq:
     a: "Tidak. Itulah penyalahgunaan khusus yang cuba dicegah oleh perenggan 8(a) ISA 706. Apabila sesuatu perkara memerlukan pengubahsuaian di bawah ISA 705 (Revised), pendapat itu mesti diubah suai, dan emphasis bukanlah alternatif yang tersedia."
 
 verificationNeeded:
-  - "Confirm how listed entity is defined for Malaysian purposes across the Bursa Malaysia Main Market, ACE Market and LEAP Market, and whether LEAP Market issuers fall within the ISA 701 requirement"
+  - "Sahkan cara entiti tersenarai ditakrifkan bagi tujuan Malaysia merentasi Bursa Malaysia Main Market, ACE Market dan LEAP Market, dan sama ada penerbit LEAP Market termasuk dalam keperluan ISA 701"
 
 lang: "ms"
 masterLanguage: "en"

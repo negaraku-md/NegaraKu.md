@@ -37,14 +37,14 @@ faq:
     a: "Anda tidak boleh. NAPIC, Pusat Maklumat Harta Tanah Negara di bawah Jabatan Penilaian dan Perkhidmatan Harta, menerbitkan stok harta tanah, bekalan akan datang, jumlah dan nilai transaksi, serta kadar penghunian mengikut negeri — tetapi tiada indeks sewa untuk ruang perindustrian atau pejabat. Laporan wilayahnya hanya memetik sewa bagi bangunan tertentu yang dinamakan. Setiap julat sewa peringkat negeri yang tersebar dalam talian berasal daripada ejensi hartanah, bukan sumber kerajaan."
 
 verificationNeeded:
-  - "Confirm the exact energy, capacity, network and retail charges for the Non-Domestic Medium Voltage and High Voltage tariff categories effective 1 July 2025 — the Energy Commission publishes the average base tariff and the component structure but the full schedule could not be retrieved from an official source, and mytnb.com.my blocks automated access"
-  - "Confirm the effective date of Sarawak Energy's published industrial and commercial tariff schedule — no effective date is stated on the page"
-  - "Confirm Sabah's current average base tariff and industrial tariff schedule with the Energy Commission of Sabah — SESB restructured its site and its tariff pages return no rate data; the 34.52 sen/kWh figure below is the RP1 rate for 2022 to 2024 and an adjustment reported for 1 February 2026 could not be verified officially"
-  - "Resolve the conflict between two Energy Commission statements of its own jurisdiction — its 2022 Sabah tariff release says Peninsular Malaysia and Sabah, its 2025 RP4 release says Peninsular Malaysia and Labuan"
-  - "Confirm the current gazetted non-domestic water tariff for each Peninsular state other than Selangor — SPAN's comparative sheet carries per-state effective dates no later than 1 January 2023 and predates both the February 2024 and September 2025 adjustments"
-  - "Confirm the non-domestic water tariffs applying in Sabah and Sarawak, which sit outside SPAN's jurisdiction"
-  - "Confirm DBKL's business licence fee schedule — the licensing guidelines sit behind a download button with no exposed URL"
-  - "No official median industrial or office rent by state exists. Confirm whether JPPH publishes any rental series not visible in the Property Stock Report or the regional Property Market Reports"
+  - "Sahkan caj tenaga, kapasiti, rangkaian dan runcit yang tepat bagi kategori tarif Non-Domestic Medium Voltage dan High Voltage berkuat kuasa 1 Julai 2025 — Suruhanjaya Tenaga menerbitkan tarif asas purata dan struktur komponen tetapi jadual penuh tidak dapat diperoleh daripada sumber rasmi, dan mytnb.com.my menyekat akses automatik"
+  - "Sahkan tarikh berkuat kuasa jadual tarif industri dan komersial yang diterbitkan Sarawak Energy — tiada tarikh berkuat kuasa dinyatakan pada laman tersebut"
+  - "Sahkan tarif asas purata semasa Sabah dan jadual tarif industri dengan Suruhanjaya Tenaga Sabah — SESB telah menstruktur semula tapaknya dan halaman tarifnya tidak memaparkan sebarang data kadar; angka 34.52 sen/kWh di bawah ialah kadar RP1 bagi 2022 hingga 2024 dan pelarasan yang dilaporkan bagi 1 Februari 2026 tidak dapat disahkan secara rasmi"
+  - "Selesaikan percanggahan antara dua kenyataan Suruhanjaya Tenaga tentang bidang kuasanya sendiri — kenyataan tarif Sabah 2022 menyebut Semenanjung Malaysia dan Sabah, kenyataan RP4 2025 menyebut Semenanjung Malaysia dan Labuan"
+  - "Sahkan tarif air bukan domestik yang diwartakan semasa bagi setiap negeri Semenanjung selain Selangor — helaian perbandingan SPAN membawa tarikh berkuat kuasa mengikut negeri tidak lewat daripada 1 Januari 2023 dan mendahului kedua-dua pelarasan Februari 2024 dan September 2025"
+  - "Sahkan tarif air bukan domestik yang terpakai di Sabah dan Sarawak, yang berada di luar bidang kuasa SPAN"
+  - "Sahkan jadual fi lesen perniagaan DBKL — garis panduan pelesenan terletak di sebalik butang muat turun tanpa URL yang didedahkan"
+  - "Tiada sewa industri atau pejabat median rasmi mengikut negeri wujud. Sahkan sama ada JPPH menerbitkan sebarang siri sewaan yang tidak kelihatan dalam Property Stock Report atau Property Market Reports serantau"
 
 lang: "ms"
 masterLanguage: "en"

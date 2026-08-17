@@ -40,11 +40,11 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Exact statutory basis for the requirement that a lodger hold a practising certificate under Section 241 Companies Act 2016 — sources conflicted; confirm the exact section and wording before stating it."
-  - "Precise definition/threshold of an 'exempt private company' (EPC) under the Companies Act 2016 and exactly what an EPC lodges (an EPC certificate) instead of full XBRL financial statements — confirm on a primary SSM source before detailing."
-  - "Exact current mTool and mPortal version numbers — these change over time; verify the live version on ssm.com.my or omit."
-  - "Exact scope of Phase 2 (audited FS under Companies Act 1965) vs Phase 1/3 — confirm the CA 1965 vs CA 2016 split against the original 26 November 2024 SSM circular, not secondary summaries."
-  - "Whether foreign companies registered in Malaysia have a distinct MBRS filing template or deadline — confirm specifics on SSM."
+  - "Asas statutori tepat bagi keperluan bahawa pemfail memegang sijil amalan di bawah Section 241 Companies Act 2016 — sumber bercanggah; sahkan seksyen dan perkataan tepat sebelum menyatakannya."
+  - "Definisi/ambang tepat 'syarikat persendirian dikecualikan' (EPC) di bawah Companies Act 2016 dan apa sebenarnya yang difailkan oleh EPC (sijil EPC) berbanding penyata kewangan XBRL penuh — sahkan pada sumber primer SSM sebelum memperincikan."
+  - "Nombor versi mTool dan mPortal semasa yang tepat — ini berubah dari semasa ke semasa; sahkan versi langsung di ssm.com.my atau tinggalkan."
+  - "Skop sebenar Fasa 2 (FS beraudit di bawah Companies Act 1965) berbanding Fasa 1/3 — sahkan pembahagian CA 1965 berbanding CA 2016 terhadap pekeliling asal SSM 26 November 2024, bukan ringkasan sekunder."
+  - "Sama ada syarikat asing yang didaftarkan di Malaysia mempunyai templat atau tarikh akhir pemfailan MBRS yang berasingan — sahkan butiran khusus dengan SSM."
 updated: 2026-08-14
 sources:
   - title: "FAQ Part M — Annual Returns and Financial Reporting (Companies Act 2016)"

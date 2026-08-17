@@ -40,13 +40,13 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Exact current number of JPJ offices nationwide (widely cited as 'more than 160' in secondary sources; not confirmed on an official jpj.gov.my page)."
+  - "Bilangan tepat semasa pejabat JPJ di seluruh negara (banyak disebut sebagai 'lebih daripada 160' dalam sumber sekunder; tidak disahkan pada halaman jpj.gov.my rasmi)."
   - "Exact effective date of e-LKM digital documents (secondary sources say 10 February 2023; official page only confirms 'starting in 2023')."
-  - "Exact date MyJPJ enabled licence and road-tax renewal (reported as 1 February 2024) and the RM5 digital-renewal rebate window (reported to expire 31 December 2024) — from news reporting, not confirmed on a government source."
-  - "How many months in advance road tax can be renewed (commonly stated as 2 months; not confirmed on the malaysia.gov.my page)."
+  - "Tarikh tepat MyJPJ membolehkan pembaharuan lesen dan cukai jalan (dilaporkan sebagai 1 Februari 2024) dan tempoh rebat pembaharuan digital RM5 (dilaporkan tamat pada 31 Disember 2024) — daripada laporan berita, tidak disahkan pada sumber kerajaan."
+  - "Berapa bulan lebih awal cukai jalan boleh diperbaharui (lazim dinyatakan sebagai 2 bulan; tidak disahkan pada halaman malaysia.gov.my)."
   - "Full list and codes of Malaysian driving licence classes (L, LDL, PDL, CDL, D, B, B2, DA, etc.) — needs a primary-source licensing page."
-  - "Mechanics and thresholds of the KEJARA demerit-points system (points per offence, suspension thresholds) — needs primary source."
-  - "Whether the AES (Automated Enforcement System) is currently operated by JPJ or another body."
+  - "Mekanik dan ambang sistem mata demerit KEJARA (mata setiap kesalahan, ambang penggantungan) — memerlukan sumber utama."
+  - "Sama ada AES (Automated Enforcement System) kini dikendalikan oleh JPJ atau badan lain."
 updated: 2026-08-14
 sources:
   - title: "Headquarter — Portal Rasmi JPJ"

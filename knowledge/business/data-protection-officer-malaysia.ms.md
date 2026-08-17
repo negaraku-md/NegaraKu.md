@@ -38,9 +38,9 @@ faq:
     a: "Tidak. Seksyen 12A(4) menyatakan bahawa pelantikan itu tidak melepaskan pengawal data atau pemproses data daripada sebarang kewajipan atau fungsi di bawah Akta, dan perenggan 6.1 garis panduan itu mengulangi perkara yang sama. Organisasi itu kekal bertanggungjawab dan bertanggungan atas ketidakpatuhan."
 
 verificationNeeded:
-  - "Whether JPDP treats a first-party analytics tool without behavioural profiling as regular and systematic monitoring — the guideline gives examples but no test"
-  - "The full text of the DPO Competency Guideline of 1 August 2025 and whether it sets any mandatory training"
-  - "Whether the 21-day registration duty in paragraph 7.1 applies to a data processor, which appoints under s.12A(2) but is not named in that paragraph"
+  - "Sama ada JPDP menganggap alat analitik pihak pertama tanpa pemprofilan tingkah laku sebagai pemantauan berkala dan sistematik — garis panduan memberikan contoh tetapi tiada ujian"
+  - "Teks penuh DPO Competency Guideline bertarikh 1 August 2025 dan sama ada ia menetapkan sebarang latihan mandatori"
+  - "Sama ada kewajipan pendaftaran 21 hari dalam perenggan 7.1 terpakai kepada pemproses data, yang melantik di bawah s.12A(2) tetapi tidak dinamakan dalam perenggan tersebut"
 
 obligations:
   - what: "Register the appointed data protection officer with the Commissioner"

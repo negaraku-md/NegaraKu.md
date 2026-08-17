@@ -42,11 +42,11 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Terengganu's marine-park island count: the DOF marine-park-management page groups Terengganu into archipelagos (Redang, Perhentian and neighbours) without stating a firm per-island figure; the state's exact island count should be confirmed against the gazette."
-  - "Sipadan's daily permit quota (given as ~178 divers/day) is drawn from 2022 news reporting and is revised over time — reconfirm the current figure with Sabah Parks before publication."
-  - "The DOF activity fees (dive operator RM150/month, camping RM10/night, commercial filming RM100/day, cruise entry RM100, research permit RM200 + RM500 deposit) should be re-checked line-by-line against the current Fees (Marine Parks Malaysia) Order."
-  - "The specific list of marine park conduct rules (no touching/collecting coral, no anchoring on reefs, no diving in boat-passage lanes) should be verified against the Department of Fisheries' published marine park regulations rather than a third-party tourism site."
-  - "Sipadan dive-operation rules (two dives per day, 50 divers per site, ~7:00am–4:30pm window, one dive master per four divers) date from the 2022 revision — confirm they remain current."
+  - "Kiraan pulau taman laut Terengganu: halaman pengurusan taman laut DOF mengumpulkan Terengganu ke dalam kepulauan (Redang, Perhentian dan sekitarnya) tanpa menyatakan angka setiap pulau yang tetap; kiraan pulau tepat negeri itu harus disahkan terhadap warta."
+  - "Kuota permit harian Sipadan (diberikan sebagai ~178 penyelam/hari) diambil daripada laporan berita 2022 dan disemak semula dari masa ke masa — sahkan semula angka semasa dengan Sabah Parks sebelum penerbitan."
+  - "Yuran aktiviti DOF (pengendali selam RM150/bulan, berkhemah RM10/malam, penggambaran komersial RM100/hari, kemasukan pelayaran RM100, permit penyelidikan RM200 + deposit RM500) harus disemak semula baris demi baris terhadap Fees (Marine Parks Malaysia) Order semasa."
+  - "Senarai khusus peraturan tingkah laku taman marin (tidak menyentuh/mengutip batu karang, tidak berlabuh di terumbu, tidak menyelam di lorong laluan bot) perlu disahkan terhadap peraturan taman marin yang diterbitkan oleh Department of Fisheries dan bukannya tapak pelancongan pihak ketiga."
+  - "Peraturan operasi menyelam Sipadan (dua selaman sehari, 50 penyelam setiap tapak, tempoh ~7:00am–4:30pm, seorang dive master bagi setiap empat penyelam) bertarikh daripada semakan 2022 — sahkan ia kekal semasa."
 revisions:
   - version: "01.00"
     date: 2026-07-28

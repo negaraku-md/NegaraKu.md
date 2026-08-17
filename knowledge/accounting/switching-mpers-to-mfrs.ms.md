@@ -37,8 +37,8 @@ faq:
     a: "Pengiraan cukai bermula daripada untung perakaunan, jadi perubahan rangka kerja turut memberi kesan kepadanya. Angka perbandingan yang dinyatakan semula tidak dengan sendirinya membuka semula Borang C yang telah difailkan, tetapi pengiraan bagi tahun peralihan perlu diselaraskan daripada asas perakaunan baharu, dan kedudukan cukai tertunda lazimnya turut berubah semasa peralihan."
 
 verificationNeeded:
-  - "Confirm the current MFRS 1 list of mandatory exceptions and optional exemptions against the issued MFRS 1 text, including the June 2024 amendments made when MFRS 18 was issued"
-  - "Confirm whether MASB has issued any specific guidance on re-adoption of MPERS by an entity that previously moved to MFRS"
+  - "Sahkan senarai semasa pengecualian mandatori dan pengecualian pilihan MFRS 1 terhadap teks MFRS 1 yang dikeluarkan, termasuk pindaan Jun 2024 yang dibuat semasa MFRS 18 dikeluarkan"
+  - "Sahkan sama ada MASB telah mengeluarkan sebarang panduan khusus mengenai penggunaan semula MPERS oleh sesuatu entiti yang sebelum ini beralih kepada MFRS"
 
 lang: "ms"
 masterLanguage: "en"

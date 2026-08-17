@@ -38,7 +38,7 @@ faq:
     a: "Boleh. Peletakan jawatan separuh jalan dalam sesuatu penglibatan, atau pemecatan yang diikuti pelantikan baharu sejurus sebelum laporan patut disiapkan, adalah kelihatan pada fail SSM dan merupakan penanda semakan kredit yang standard. Banyak perjanjian kemudahan menghendaki pemberitahuan tentang pertukaran juruaudit, dan pengurus perhubungan biasanya akan bertanya apa yang diberitahu kepada firma yang keluar."
 
 verificationNeeded:
-  - "Confirm whether SSM prescribes a specific form for the s.278 notice of removal and the s.282 notice of resignation, and the applicable lodgement fee, against the current ROC Table of Fees"
+  - "Sahkan sama ada SSM menetapkan borang tertentu bagi notis pemecatan s.278 dan notis peletakan jawatan s.282, dan fi pemfailan yang terpakai, terhadap ROC Table of Fees semasa"
 
 lang: "ms"
 masterLanguage: "en"

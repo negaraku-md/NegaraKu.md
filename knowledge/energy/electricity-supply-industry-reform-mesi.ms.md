@@ -47,9 +47,9 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Exact establishment year of the ring-fenced Single Buyer (widely reported as 2012) — could not be confirmed against the Single Buyer's own site or the Energy Commission; the specific year has been removed pending a primary source."
-  - "Exact date of Minister Shamsul Anuar Nasarah's parliamentary statement recommending a MESI 2.0 review — appears to be 21 July 2020 (a Tuesday during his KeTSA tenure), but The Edge article renders a dynamic date, so the byline could not be cleanly read; year retained as 2020."
-  - "Formal establishment date and precise legal/organisational status of the Grid System Operator as a ring-fenced TNB unit — entity existence confirmed via its official site, but founding date is not documented in the cited sources."
+  - "Tahun penubuhan tepat Single Buyer yang berpagar (dilaporkan secara meluas sebagai 2012) — tidak dapat disahkan terhadap laman Single Buyer sendiri atau Suruhanjaya Tenaga; tahun khusus itu telah dibuang sementara menunggu sumber primer."
+  - "Tarikh tepat kenyataan parlimen Menteri Shamsul Anuar Nasarah yang mengesyorkan semakan MESI 2.0 — nampaknya 21 Julai 2020 (hari Selasa semasa penggal KeTSA beliau), tetapi artikel The Edge memaparkan tarikh dinamik, jadi baris kredit tidak dapat dibaca dengan jelas; tahun dikekalkan sebagai 2020."
+  - "Tarikh penubuhan formal dan status perundangan/organisasi tepat Grid System Operator sebagai unit TNB yang dipagari — kewujudan entiti disahkan melalui tapak rasminya, tetapi tarikh penubuhan tidak didokumentasikan dalam sumber yang dipetik."
 revisions:
   - version: "01.00"
     date: 2026-08-01

@@ -38,7 +38,7 @@ faq:
     a: "Tidak. Kedua-duanya adalah kewajipan yang berasingan. Seksyen 77(1) menghendaki peruntukan itu didaftarkan dalam daftar ahli dalam tempoh 14 hari dari tarikh peruntukan. Seksyen 78(1) menghendaki penyata peruntukan difailkan dengan Pendaftar dalam tempoh 14 hari dari tarikh peruntukan. Seksyen 51(1) secara berasingan menghendaki notifikasi perubahan dalam daftar dalam tempoh 14 hari dari tarikh perubahan."
 
 verificationNeeded:
-  - "Whether SSM treats the s.78 return of allotment as also discharging the s.51 notification duty where the only register change is the allotment — no practice directive addressing the overlap was located"
+  - "Sama ada SSM menganggap penyata peruntukan s.78 sebagai turut melepaskan kewajipan pemberitahuan s.51 apabila satu-satunya perubahan daftar ialah peruntukan itu — tiada arahan amalan yang menangani pertindihan itu ditemui"
 
 obligations:
   - what: "Lodge with the Registrar the resolution approving the exercise of the power to allot shares"

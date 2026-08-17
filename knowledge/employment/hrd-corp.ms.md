@@ -43,12 +43,12 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Current registered-employer, training-provider and total-levy/grant figures — do not state a headcount without a primary HRD Corp annual report or statistics page."
-  - "Exact statutory section numbers in the PSMB Act 2001 for compulsory registration, levy imposition and each penalty — the FAQ gives amounts but not section numbers; confirm against the Akta 612 text before citing 'Section X'."
-  - "The precise definition of 'wages' used for the levy (whether it excludes bonuses, overtime, or employer EPF/SOCSO) — confirm against the official levy guideline / Second Schedule."
-  - "Any grace period for newly liable employers after reaching 10 employees — confirm against an HRD Corp circular before stating."
-  - "Whether the 15% unused-levy-to-MADANI redirection is a recurring annual mechanism or year-specific — confirm current-year status (circulars exist for 2023 and 2024)."
-  - "Any current levy-payment exemptions (e.g. an education-industry exemption) — verify exact scope and dates before presenting as active."
+  - "Angka majikan berdaftar, penyedia latihan dan jumlah levi/geran semasa — jangan nyatakan bilangan tanpa laporan tahunan atau laman statistik primer HRD Corp."
+  - "Nombor seksyen statutori tepat dalam PSMB Act 2001 bagi pendaftaran wajib, pengenaan levi dan setiap penalti — FAQ memberikan amaun tetapi bukan nombor seksyen; sahkan terhadap teks Akta 612 sebelum menyebut 'Section X'."
+  - "Takrifan tepat 'upah' yang digunakan untuk levi (sama ada ia mengecualikan bonus, kerja lebih masa, atau EPF/SOCSO majikan) — sahkan terhadap garis panduan levi rasmi / Second Schedule."
+  - "Sebarang tempoh tangguh bagi majikan yang baru bertanggungan selepas mencapai 10 pekerja — sahkan terhadap pekeliling HRD Corp sebelum menyatakan."
+  - "Sama ada pengalihan 15% levi tidak digunakan kepada MADANI ialah mekanisme tahunan berulang atau khusus tahun — sahkan status tahun semasa (pekeliling wujud bagi 2023 dan 2024)."
+  - "Sebarang pengecualian pembayaran levi semasa (cth. pengecualian industri pendidikan) — sahkan skop dan tarikh yang tepat sebelum membentangkannya sebagai aktif."
 updated: 2026-08-14
 sources:
   - title: "About Us | HRD Corp"

@@ -38,7 +38,7 @@ faq:
     a: "Ya, bagi transaksi yang dilindunginya. Seksyen 8.4 menyatakan bahawa sebaik sahaja e-Invois belian sendiri dikeluarkan dan disahkan, pihak yang satu lagi tidak lagi perlu mengeluarkan e-Invois bagi transaksi tersebut. e-Invois belian sendiri yang telah disahkan itu adalah bukti perbelanjaan anda bagi tujuan cukai."
 
 verificationNeeded:
-  - "Whether the betting and gaming carve-out for casinos and gaming machines has been lifted — LHDN states it applies until further notice with no end date published"
+  - "Sama ada pengecualian pertaruhan dan perjudian bagi kasino dan mesin permainan telah ditarik balik — LHDN menyatakan ia terpakai sehingga pemberitahuan lanjut tanpa tarikh tamat yang diterbitkan"
 
 lang: "ms"
 masterLanguage: "en"

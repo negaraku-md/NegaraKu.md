@@ -22,8 +22,8 @@ keyTakeaways:
   - "Sale or Contribution of Assets between an Investor and its Associate or Joint Venture (MFRS 10 dan MFRS 128) kekal ditangguhkan tanpa tarikh kuat kuasa"
 
 verificationNeeded:
-  - "This index is a snapshot as at July 2026 taken from the MASB standards listing — re-check MASB directly before relying on any single effective date"
-  - "MFRS 139 remains listed by MASB; confirm its current application status for any entity still within its scope"
+  - "Indeks ini merupakan petikan pada Julai 2026 yang diambil daripada senarai piawaian MASB — semak semula terus dengan MASB sebelum bergantung pada mana-mana tarikh berkuat kuasa tunggal"
+  - "MFRS 139 masih tersenarai oleh MASB; sahkan status pemakaian semasanya bagi mana-mana entiti yang masih berada dalam skopnya"
 
 lang: "ms"
 masterLanguage: "en"

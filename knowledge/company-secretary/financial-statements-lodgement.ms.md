@@ -37,7 +37,7 @@ faq:
     a: "Dua perkara berlaku. Satu penalti pentadbiran kerana lewat memfailkan dikenakan di bawah Practice Directive 1/2017 — RM50 hingga RM200 bagi syarikat persendirian bergantung kepada tempoh kelewatan. Secara berasingan, seksyen 259(3) menjadikannya suatu kesalahan bagi setiap pegawai, boleh dihukum apabila disabitkan dengan denda sehingga RM50,000 ditambah sehingga RM1,000 bagi setiap hari kesalahan itu diteruskan."
 
 verificationNeeded:
-  - "Confirm whether the Companies (Amendment) Act 2024 made any consequential change to sections 257 to 260 — the Act text consulted is the updated reprint as at 1 August 2022"
+  - "Sahkan sama ada Companies (Amendment) Act 2024 membuat sebarang perubahan berbangkit kepada seksyen 257 hingga 260 — teks Akta yang dirujuk ialah cetakan semula yang dikemas kini setakat 1 Ogos 2022"
 
 obligations:
   - what: "Circulate financial statements and reports to members"

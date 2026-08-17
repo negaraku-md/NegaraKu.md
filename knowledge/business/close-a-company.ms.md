@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Pengarah dan pemegang saham sebuah Sdn Bhd yang telah berhenti beroperasi, sedang digulungkan secara sengaja, mengalami kesusahan kewangan, atau sedang dijual."
 
 verificationNeeded:
-  - "This page states no fees, rates or processing times of its own; every figure lives on the linked route pages and is sourced there"
+  - "Halaman ini tidak menyatakan sebarang yuran, kadar atau tempoh pemprosesannya sendiri; setiap angka terdapat pada halaman laluan yang dipautkan dan disumberkan di sana"
 
 lang: "ms"
 masterLanguage: "en"

@@ -33,7 +33,7 @@ faq:
     a: "Perenggan 20 ISA 580 mewajibkan juruaudit menafikan pendapat jika dua representasi mandatori tersebut tidak diberikan, atau jika terdapat keraguan yang mencukupi tentang integriti pihak pengurusan sehingga representasi tersebut tidak boleh dipercayai. Penafian pendapat adalah hasil yang lebih buruk berbanding mana-mana pendapat bersyarat."
 
 verificationNeeded:
-  - "Confirm whether any Malaysian banking covenant practice or Bursa Malaysia listing requirement attaches a specific consequence to a Material Uncertainty Related to Going Concern section — the commercial effects described here are practitioner observation, not a published rule"
+  - "Sahkan sama ada mana-mana amalan waad perbankan Malaysia atau keperluan penyenaraian Bursa Malaysia mengaitkan akibat tertentu dengan seksyen Material Uncertainty Related to Going Concern — kesan komersial yang diterangkan di sini adalah pemerhatian pengamal, bukan peraturan yang diterbitkan"
 
 lang: "ms"
 masterLanguage: "en"

@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Setiausaha syarikat dan pengarah yang berdepan dengan pemegang saham yang tidak bekerjasama atau pengawal yang tidak dapat dikenal pasti."
 
 verificationNeeded:
-  - "Confirm whether SSM has issued any enforcement guidance on the interval expected between the first and second s.60C notices"
+  - "Sahkan sama ada SSM telah mengeluarkan sebarang panduan penguatkuasaan mengenai sela masa yang dijangka antara notis s.60C pertama dan kedua"
 
 lang: "ms"
 masterLanguage: "en"

@@ -36,9 +36,9 @@ faq:
     a: "Peruntukan ansuran dan anggaran. ITA s.107C(9) menambah 10% ke atas ansuran CP204 yang tidak dibayar, s.107C(10) menambah 10% daripada jumlah cukai muktamad yang melebihi anggaran lebih daripada 30%, dan s.107C(10A) menambah 10% daripada keseluruhan cukai apabila tiada anggaran dikemukakan. Seksyen 140A(3C) menambah surcaj harga pindahan sehingga 5% daripada pelarasan tanpa memerlukan cukai tambahan. Ini adalah kenaikan yang boleh dituntut sebagai cukai, bukan kesalahan."
 
 verificationNeeded:
-  - "Confirm whether the Sales Tax Act 2018 and Service Tax Act 2018 s.26 penalty scales have been amended since the 28 August 2018 gazetted text — no consolidated official version is published and mysst.customs.gov.my is not reliable as an index"
-  - "Confirm the current RPGT retention rates under s.21B; the AGC reprint used here is as at 20 December 2021 and shows 3% and 7% only, while later amendments introduced a 5% band"
-  - "Confirm whether any Sales Tax Act equivalent of Service Tax Act s.26A exists for imported goods — the 2018 reprint contains none"
+  - "Sahkan sama ada skala penalti s.26 Sales Tax Act 2018 dan Service Tax Act 2018 telah dipinda sejak teks yang diwartakan pada 28 Ogos 2018 — tiada versi rasmi bersepadu diterbitkan dan mysst.customs.gov.my tidak boleh dipercayai sebagai indeks"
+  - "Sahkan kadar tahanan RPGT semasa di bawah s.21B; cetakan semula AGC yang digunakan di sini adalah setakat 20 December 2021 dan menunjukkan 3% dan 7% sahaja, manakala pindaan kemudian memperkenalkan jaluran 5%"
+  - "Sahkan sama ada terdapat setara Sales Tax Act bagi Service Tax Act s.26A untuk barangan yang diimport — cetakan semula 2018 tidak mengandungi sebarang peruntukan sedemikian"
 
 lang: "ms"
 masterLanguage: "en"

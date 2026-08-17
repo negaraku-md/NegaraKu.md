@@ -49,7 +49,7 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Exact date Malaysia deposited its RCEP instrument of ratification (widely reported as 17 January 2022) is not in a listed source."
+  - "Tarikh tepat Malaysia mendepositkan instrumen ratifikasi RCEP-nya (dilaporkan secara meluas sebagai 17 Januari 2022) tiada dalam sumber yang disenaraikan."
   - "Whether a Malaysia–Iran preferential trade agreement remains an active negotiating track."
   - "EU–Malaysia FTA first negotiating round date (reported late June 2025) against the European Commission's own updates."
 updated: 2026-08-08

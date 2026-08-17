@@ -47,11 +47,11 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Penang island land area — the precise figure (previously '293 km²') was removed as unsourced; confirm against a primary source (e.g. Department of Statistics Malaysia or Penang state government) before reinstating any number."
-  - "Whether Penang National Park is Malaysia's smallest national park — the 'one of the smallest in the world' superlative was removed as unsupported and likely overstated; confirm any superlative against an authoritative source before adding it back."
-  - "The meromictic lake at Penang National Park (Pantai Kerachut) — retained as a descriptive feature; confirm details with a primary source."
-  - "'More than 500 years of trade' — tracks the UNESCO Outstanding Universal Value framing but is not explicitly stated in the quoted GTWHI excerpt; confirm exact wording."
-  - "MDAC specifics ('free', 'submitted through the Immigration Department's portal') — the cited IMI page renders largely as navigation chrome; confirm the substantive details against the live MDAC portal (imigresen-online.imi.gov.my/mdac)."
+  - "Keluasan tanah pulau Pulau Pinang — angka tepat (sebelum ini '293 km²') telah dikeluarkan kerana tiada sumber; sahkan terhadap sumber utama (cth. Jabatan Perangkaan Malaysia atau kerajaan negeri Pulau Pinang) sebelum mengembalikan sebarang angka."
+  - "Sama ada Penang National Park ialah taman negara terkecil Malaysia — superlatif 'salah satu yang terkecil di dunia' dibuang kerana tidak disokong dan berkemungkinan dilebih-lebihkan; sahkan sebarang superlatif terhadap sumber berwibawa sebelum menambahnya semula."
+  - "Tasik meromiktik di Taman Negara Pulau Pinang (Pantai Kerachut) — dikekalkan sebagai ciri deskriptif; sahkan butirannya dengan sumber utama."
+  - "'Lebih 500 tahun perdagangan' — mengikut pembingkaian Outstanding Universal Value UNESCO tetapi tidak dinyatakan secara jelas dalam petikan GTWHI yang dipetik; sahkan perkataan tepat."
+  - "Spesifik MDAC ('percuma', 'diserahkan melalui portal Jabatan Imigresen') — halaman IMI yang disebut dipaparkan sebahagian besarnya sebagai kroma navigasi; sahkan butiran substantif terhadap portal MDAC langsung (imigresen-online.imi.gov.my/mdac)."
 revisions:
   - version: "01.00"
     date: 2026-07-28

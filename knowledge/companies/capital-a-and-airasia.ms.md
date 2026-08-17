@@ -47,10 +47,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Exact legal completion day of the disposal: AirAsia's newsroom dates completion to \"2026-01-18\", while The Star frames the transfer as \"2026-01-16\" with new AAX shares listed on \"2026-01-19\". Confirm which date the company treats as completion."
-  - "Current composition of Capital A's non-airline units: the March 2025 regularisation plan referenced six businesses (including BigPay and ABC International), whereas 2026 reporting lists five (ADE, Teleport, AirAsia MOVE, AirAsia Next, Santan). Confirm the five-unit line-up against Capital A's latest disclosures."
-  - "That AirAsia Group Berhad retained ticker AAGB and stock code 5238 after the July 2026 rename — confirm against the current Bursa Malaysia listing."
-  - "Post-consolidation operating metrics for AirAsia Group Berhad (fleet size, route network, profitability) are not yet in filings; confirm when published."
+  - "Hari penyelesaian sah pelupusan yang tepat: bilik berita AirAsia menetapkan penyelesaian pada '2026-01-18', manakala The Star merangka pemindahan sebagai '2026-01-16' dengan saham AAX baharu disenaraikan pada '2026-01-19'. Sahkan tarikh mana yang dianggap syarikat sebagai penyelesaian."
+  - "Komposisi semasa unit bukan penerbangan Capital A: pelan penyusunan semula Mac 2025 merujuk kepada enam perniagaan (termasuk BigPay dan ABC International), manakala pelaporan 2026 menyenaraikan lima (ADE, Teleport, AirAsia MOVE, AirAsia Next, Santan). Sahkan susunan lima unit itu terhadap pendedahan terkini Capital A."
+  - "Bahawa AirAsia Group Berhad mengekalkan ticker AAGB dan kod saham 5238 selepas penamaan semula Julai 2026 — sahkan terhadap penyenaraian Bursa Malaysia semasa."
+  - "Metrik operasi selepas penyatuan bagi AirAsia Group Berhad (saiz armada, rangkaian laluan, keuntungan) masih belum ada dalam pemfailan; sahkan apabila diterbitkan."
 
 updated: 2026-07-28
 sources:

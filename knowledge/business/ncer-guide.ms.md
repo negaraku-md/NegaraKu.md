@@ -39,11 +39,11 @@ faq:
     a: "Program geran dan bakat yang ia bayar sendiri, terutamanya Pusat Inovasi Teknologi NCER. Di bawah aliran ATMP-nya, yuran kursus dihadkan pada RM6,000 setiap orang dan elaun pada RM600 setiap orang sebulan untuk enam bulan, dengan minimum 64 jam latihan. Pembayaran dibuat secara pembayaran balik, berperingkat, selepas ditolak yuran pentadbiran 5 peratus."
 
 verificationNeeded:
-  - "NCIA's own NTAX page cited its broad-based incentives as resting on P.U.(A) 112 and 113 of the Income Tax Act 1967 without a year. That citation could not be resolved against the AGC gazette for 2010, 2012 or 2013 — do not reproduce it."
-  - "No gazetted income tax exemption order naming the Northern Corridor Economic Region could be located on lom.agc.gov.my as at 20 July 2026"
-  - "Whether NCIA has published a successor to the NCER Strategic Development Plan 2021–2025, which expired at the end of 2025"
-  - "The APIRC targets widely reported as 12 SMEs and RM8.5 billion by 2030 appear only in news media and could not be verified on any NCIA or MIDA source"
-  - "Whether any tax incentive specific to the National Semiconductor Strategy has been gazetted — none was found"
+  - "Halaman NTAX NCIA sendiri memetik insentif berasaskan luasnya sebagai bersandarkan P.U.(A) 112 dan 113 of the Income Tax Act 1967 tanpa tahun. Petikan itu tidak dapat diselesaikan terhadap warta AGC bagi 2010, 2012 atau 2013 — jangan diterbitkan semula."
+  - "Tiada perintah pengecualian cukai pendapatan berwarta yang menamakan Northern Corridor Economic Region dapat dikesan di lom.agc.gov.my setakat 20 Julai 2026"
+  - "Sama ada NCIA telah menerbitkan pengganti kepada NCER Strategic Development Plan 2021–2025, yang tamat tempoh pada penghujung 2025"
+  - "Sasaran APIRC yang meluas dilaporkan sebagai 12 PKS dan RM8.5 bilion menjelang 2030 hanya muncul dalam media berita dan tidak dapat disahkan pada mana-mana sumber NCIA atau MIDA"
+  - "Sama ada sebarang insentif cukai khusus untuk National Semiconductor Strategy telah diwartakan — tiada yang ditemui"
 
 lang: "ms"
 masterLanguage: "en"

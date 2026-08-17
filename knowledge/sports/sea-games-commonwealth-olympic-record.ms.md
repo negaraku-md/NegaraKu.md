@@ -51,11 +51,11 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "2001 SEA Games: only the gold count (111) and overall-champion placing are sourced (The ASEAN Post). The silver/bronze split and 323-vs-other totals are not yet confirmed against an official record."
-  - "The superlative 'most Olympic medals of any nation without a gold' should be confirmed against an official/primary source (IOC/olympics.com); it is currently an interpretive framing."
-  - "Prefer official sources where they load — olympics.com, commonwealthsport.com, Olympic Council of Malaysia — over Topend Sports (hobbyist stats) and First Classe (lifestyle listicle), which were used as fallbacks after the official sites timed out or returned 403."
-  - "2017 SEA Games: sources disagree on the silver/bronze split (91/85 vs 92/86); the article deliberately uses gold count and placing only. Confirm the exact non-gold totals if published."
-  - "Kuala Lumpur 1998 Commonwealth Games participant figure (~5,250) and nation count (70) rest on Topend Sports; confirm against official commonwealthsport.com records."
+  - "Sukan SEA 2001: hanya kiraan emas (111) dan kedudukan juara keseluruhan yang disumberkan (The ASEAN Post). Pecahan perak/gangsa dan jumlah 323-berbanding-lain belum disahkan terhadap rekod rasmi."
+  - "Kata terunggul 'pingat Olimpik terbanyak bagi mana-mana negara tanpa pingat emas' hendaklah disahkan terhadap sumber rasmi/primer (IOC/olympics.com); ia kini merupakan pembingkaian tafsiran."
+  - "Utamakan sumber rasmi di mana ia dimuatkan — olympics.com, commonwealthsport.com, Olympic Council of Malaysia — berbanding Topend Sports (statistik hobi) dan First Classe (senarai gaya hidup), yang digunakan sebagai sandaran selepas laman rasmi tamat masa atau mengembalikan 403."
+  - "Sukan SEA 2017: sumber tidak sependapat mengenai pembahagian perak/gangsa (91/85 berbanding 92/86); artikel ini sengaja menggunakan kiraan emas dan kedudukan sahaja. Sahkan jumlah bukan emas sebenar jika diterbitkan."
+  - "Angka peserta Sukan Komanwel Kuala Lumpur 1998 (~5,250) dan kiraan negara (70) bergantung pada Topend Sports; sahkan terhadap rekod rasmi commonwealthsport.com."
 
 updated: 2026-08-01
 sources:

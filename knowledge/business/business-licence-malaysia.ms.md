@@ -39,7 +39,7 @@ faq:
     a: "Tidak. Akta Pendaftaran Perniagaan 1956 terpakai hanya untuk Semenanjung Malaysia di bawah s.1(2), dan Akta Kerajaan Tempatan 1976 juga tidak meliputi negeri-negeri Borneo. Sabah melesenkan perdagangan di bawah Trades Licensing Ordinance (Sabah Cap. 144). Sarawak menggunakan struktur tiga instrumen — pendaftaran nama perniagaan di bawah Cap. 64 (Ed. 1958), lesen dagangan di bawah Cap. 33 (Ed. 1958), dan lesen operasi majlis. Menggunakan senarai semak Semenanjung di mana-mana negeri itu menghasilkan jawapan yang salah."
 
 verificationNeeded:
-  - "Whether any state has consolidated its trading and premise licensing into a single instrument since the most recent Modernising Business Licensing round"
+  - "Sama ada mana-mana negeri telah menyatukan pelesenan perniagaan dan premisnya ke dalam satu instrumen tunggal sejak pusingan Modernising Business Licensing terkini"
 
 lang: "ms"
 masterLanguage: "en"

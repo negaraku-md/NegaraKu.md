@@ -35,10 +35,10 @@ faq:
     a: "Tidak secara langsung, dan belum lagi. NSRF menyatakan pindaan berbangkit akan dibuat kepada Akta Pelaporan Kewangan 1997, Akta Syarikat 2016, Akta Suruhanjaya Sekuriti Malaysia 1993, Akta Perkhidmatan dan Pasaran Modal 2007, keperluan penyenaraian Bursa dan piawaian Bank Negara yang berkaitan. Ia juga menjangkakan peranan MASB berkembang untuk menetapkan piawaian pendedahan kemampanan, dijangka sekitar awal 2027. Sehingga pindaan tersebut berkuat kuasa, kewajipan bagi penerbit tersenarai berjalan melalui keperluan penyenaraian."
 
 verificationNeeded:
-  - "The mandatory assurance timeline is expressly stated in the NSRF as subject to further consultations — confirm the position before planning an assurance engagement"
-  - "The framework for sustainability assurance, including who may act as an assurance provider, had not been announced at the date of this page"
-  - "SSM's Consultative Document on proposed Companies Act 2016 sustainability reporting amendments closed for comment on 2 June 2026; the outcome, and whether the proposed thresholds and timeline survive, was not published at the date of this page"
-  - "Confirm whether the legislative amendments listed in section IX of the NSRF have been enacted before treating the NSRF as a statutory obligation for a non-listed company"
+  - "Garis masa jaminan mandatori dinyatakan secara jelas dalam NSRF sebagai tertakluk kepada perundingan lanjut — sahkan pendirian sebelum merancang penglibatan jaminan"
+  - "Rangka kerja bagi jaminan kelestarian, termasuk siapa yang boleh bertindak sebagai penyedia jaminan, belum diumumkan pada tarikh halaman ini"
+  - "Dokumen Perundingan SSM mengenai cadangan pindaan pelaporan kemampanan Companies Act 2016 telah ditutup untuk maklum balas pada 2 Jun 2026; hasilnya, dan sama ada ambang serta garis masa yang dicadangkan kekal, belum diterbitkan pada tarikh halaman ini"
+  - "Sahkan sama ada pindaan perundangan yang disenaraikan dalam seksyen IX NSRF telah digubal sebelum menganggap NSRF sebagai kewajipan statutori bagi syarikat yang tidak tersenarai"
 
 lang: "ms"
 masterLanguage: "en"

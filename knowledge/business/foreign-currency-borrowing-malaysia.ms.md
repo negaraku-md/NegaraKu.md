@@ -24,8 +24,8 @@ keyTakeaways:
 appliesTo: "Syarikat Malaysia yang mengumpul hutang luar pesisir, menerima pinjaman pemegang saham daripada induk asing, atau merancang pembiayaan perbendaharaan dalam kumpulan."
 
 verificationNeeded:
-  - "Bank Negara publishes a separate FAQ on resident ringgit and foreign currency borrowing which elaborates on the group test and on permitted source and receipt accounts — check the current FAQ before structuring a facility"
-  - "Where a proposed facility exceeds the RM100 million equivalent limit, the written approval process and its assessment criteria are not published in full; the FAQ notes only that BNM will take stated factors into account"
+  - "Bank Negara menerbitkan FAQ berasingan tentang pinjaman ringgit dan mata wang asing pemastautin yang menghuraikan ujian kumpulan serta akaun sumber dan penerimaan yang dibenarkan — semak FAQ semasa sebelum menstrukturkan sesuatu kemudahan"
+  - "Apabila kemudahan yang dicadangkan melebihi had bersamaan RM100 juta, proses kelulusan bertulis dan kriteria penilaiannya tidak diterbitkan sepenuhnya; FAQ hanya menyatakan bahawa BNM akan mengambil kira faktor-faktor yang dinyatakan"
 
 lang: "ms"
 masterLanguage: "en"

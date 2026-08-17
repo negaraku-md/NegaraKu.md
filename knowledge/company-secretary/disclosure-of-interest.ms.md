@@ -38,7 +38,7 @@ faq:
     a: "Ya. Seksyen 221(2) mengecualikan kepentingan yang timbul daripada menjadi ahli atau pemiutang sesuatu perbadanan yang berkepentingan dalam kontrak itu, di mana kepentingan itu tidak material. Seksyen 221(3) memperuntukkan bahawa seorang pengarah tidak dianggap berkepentingan semata-mata kerana telah menjamin pinjaman kepada syarikat, atau di mana kontrak itu adalah dengan perbadanan yang dianggap berkaitan di bawah s.7 — namun s.221(3) secara nyata tidak mengatasi peruntukan yang lebih ketat dalam perlembagaan syarikat itu sendiri."
 
 verificationNeeded:
-  - "Confirm whether SSM has issued any practice directive or guidance on the form of a s.221(4) general notice — none was located in the SSM legal framework library"
+  - "Sahkan sama ada SSM telah mengeluarkan sebarang arahan amalan atau panduan mengenai bentuk notis am s.221(4) — tiada ditemui dalam perpustakaan rangka kerja perundangan SSM"
 
 obligations:
   - what: "Mengisytiharkan sifat kepentingan dalam suatu kontrak atau cadangan kontrak dengan syarikat pada suatu mesyuarat lembaga pengarah"

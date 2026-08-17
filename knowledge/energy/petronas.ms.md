@@ -46,10 +46,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Sensitivity rating: this entry foregrounds federal-budget dependence on PETRONAS and references the Sarawak/Sabah petroleum-revenue (royalty) debates — a live federal/state political tension. A human reviewer should confirm whether 'none' is the correct sensitivity classification or whether it should be raised."
-  - "The RM72.4 billion government-contribution breakdown (RM32.0bn dividend, RM26.8bn taxes, RM13.1bn cash payments, RM0.5bn National Trust Fund) and the per-segment revenue/PAT figures are supported by the PETRONAS Integrated Report 2024 PDF, not by the FY2024 results press release. Confirm each figure against the Integrated Report before publication."
-  - "Downstream FY2024 result: the Integrated Report presents a Downstream loss after tax; the RM1.7 billion shown is the figure excluding the impact of the Engen Group deconsolidation. Confirm the exact reported figure and the footnote wording."
-  - "PDA 1974 wording: the quoted description follows Malaysia Petroleum Management's regulatory overview, which is a summary of the statute. If the Act itself is to be quoted, confirm the verbatim statutory language (the operative section refers to exploring, exploiting, winning and obtaining petroleum) against the primary legislative text."
+  - "Penarafan kesensitifan: entri ini mengetengahkan kebergantungan belanjawan persekutuan kepada PETRONAS dan merujuk perdebatan hasil (royalti) petroleum Sarawak/Sabah — ketegangan politik persekutuan/negeri yang aktif. Penyemak manusia hendaklah mengesahkan sama ada 'none' ialah klasifikasi kesensitifan yang betul atau sama ada ia patut dinaikkan."
+  - "Pecahan sumbangan kerajaan RM72.4 bilion (dividen RM32.0bn, cukai RM26.8bn, bayaran tunai RM13.1bn, Kumpulan Wang Amanah Negara RM0.5bn) dan angka hasil/PAT setiap segmen disokong oleh PDF PETRONAS Integrated Report 2024, bukan oleh siaran akhbar keputusan FY2024. Sahkan setiap angka terhadap Integrated Report sebelum penerbitan."
+  - "Keputusan Hiliran FY2024: Integrated Report membentangkan kerugian Hiliran selepas cukai; RM1.7 bilion yang ditunjukkan ialah angka yang tidak mengambil kira kesan penyahsatuan Engen Group. Sahkan angka tepat yang dilaporkan dan perkataan nota kaki."
+  - "Perkataan PDA 1974: huraian yang dipetik mengikut tinjauan kawal selia Malaysia Petroleum Management, yang merupakan ringkasan statut tersebut. Sekiranya Akta itu sendiri hendak dipetik, sahkan bahasa statutori verbatim (seksyen operatif merujuk kepada meneroka, mengeksploitasi, memperoleh dan mendapatkan petroleum) terhadap teks perundangan utama."
 
 updated: 2026-08-01
 sources:

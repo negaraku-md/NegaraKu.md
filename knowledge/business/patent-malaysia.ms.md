@@ -35,9 +35,9 @@ faq:
     a: "Jika anda seorang pemastautin, pada dasarnya ya. Seksyen 23A melarang pemastautin daripada memfail permohonan paten di luar Malaysia melainkan permohonan bagi ciptaan yang sama telah difailkan di Pejabat Pendaftaran Paten sekurang-kurangnya dua bulan lebih awal, atau Pendaftar telah memberikan kebenaran bertulis melalui Borang 1B (RM200). Pelanggaran adalah kesalahan di bawah s.62A."
 
 verificationNeeded:
-  - "MyIPO's fee schedule lists Form 1 (Request for Grant of Patent) at RM290 and Form 14 (Application for Grant of a Certificate for a Utility Innovation) at RM140 — confirm with MyIPO which form and fee combination applies to a first utility innovation filing"
-  - "The Patents Regulations 1986 consolidation hosted on myipo.gov.my predates the 2022 and 2025 amendments — it still shows a two-month period to respond to an examiner's report, which P.U. (A) 68/2022 changed to three months. Check any regulation against the amending instruments"
-  - "Section 14 of the Patents (Amendment) Act 2022, inserting s.26C on the deposit of microorganisms, does not appear in any commencement notification located — confirm its status with MyIPO before relying on it"
+  - "Jadual yuran MyIPO menyenaraikan Form 1 (Request for Grant of Patent) pada RM290 dan Form 14 (Application for Grant of a Certificate for a Utility Innovation) pada RM140 — sahkan dengan MyIPO kombinasi borang dan yuran yang mana terpakai bagi pemfailan inovasi utiliti pertama"
+  - "Penyatuan Patents Regulations 1986 yang dihoskan di myipo.gov.my mendahului pindaan 2022 dan 2025 — ia masih menunjukkan tempoh dua bulan untuk membalas laporan pemeriksa, yang telah diubah oleh P.U. (A) 68/2022 kepada tiga bulan. Semak mana-mana peraturan terhadap instrumen pindaan"
+  - "Section 14 of the Patents (Amendment) Act 2022, yang memasukkan s.26C mengenai deposit mikroorganisma, tidak muncul dalam sebarang notifikasi permulaan kuat kuasa yang ditemui — sahkan statusnya dengan MyIPO sebelum bergantung padanya"
   - "MyIPO publishes no standard end-to-end grant timeline for a patent or a utility innovation"
 
 obligations:

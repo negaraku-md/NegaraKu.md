@@ -35,10 +35,10 @@ faq:
     a: "Tidak. Akta Kumpulan Wang Simpanan Pekerja 1991, Akta Keselamatan Sosial Pekerja 1969 dan Akta Sistem Insurans Pekerjaan 2017 adalah statut persekutuan yang terpakai di seluruh negara, ditadbir oleh KWSP dan PERKESO masing-masing. Hanya lapisan standard buruh yang khusus mengikut negeri."
 
 verificationNeeded:
-  - "Confirm the exact P.U.(B) commencement notification numbers for Act A1753 and Act A1754 against lom.agc.gov.my"
-  - "Confirm whether Part IVA of either Ordinance has since been brought into operation, against jtksabah.gov.my and jtkswk.gov.my"
-  - "Confirm the treatment of manual-labour and supervisory categories in the replacement Sarawak First Schedule against the gazetted schedule — the column alignment in the Act A1754 PDF is ambiguous"
-  - "Confirm the Sabah replacement First Schedule carve-out list section by section against the gazetted Act A1753 text"
+  - "Sahkan nombor notifikasi permulaan kuat kuasa P.U.(B) yang tepat bagi Act A1753 dan Act A1754 terhadap lom.agc.gov.my"
+  - "Sahkan sama ada Part IVA salah satu Ordinan itu telah dikuatkuasakan sejak itu, terhadap jtksabah.gov.my dan jtkswk.gov.my"
+  - "Sahkan layanan kategori buruh manual dan penyeliaan dalam Sarawak First Schedule gantian terhadap jadual yang diwartakan — penjajaran lajur dalam PDF Act A1754 adalah kabur"
+  - "Sahkan senarai pengecualian First Schedule gantian Sabah seksyen demi seksyen terhadap teks Act A1753 yang diwartakan"
 
 lang: "ms"
 masterLanguage: "en"

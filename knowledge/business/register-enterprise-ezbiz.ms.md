@@ -38,8 +38,8 @@ faq:
     a: "Ya. Seksyen 5(8) ROBA 1956 menyatakan secara jelas bahawa pendaftaran tidak membayangkan mana-mana keperluan undang-undang lain telah dipatuhi, dan SSM mengulangi perkara ini dalam garis panduannya. Lesen premis, lesen papan tanda dan permit sektor daripada pihak berkuasa tempatan dan badan pengawal selia anda adalah permohonan yang berasingan."
 
 verificationNeeded:
-  - "SSM's renewal guideline allows renewal up to twelve months after expiry, while s.5A(1) of ROBA 1956 says an application shall be made within thirty days before expiry — confirm the current administrative practice with SSM before relying on the grace period"
-  - "Confirm current eligibility conditions and end date for the Skim Pendaftaran Perniagaan Perihatin (SPPP) and Skim 1 OKU 1 Perniagaan (S1O1P) fee incentives"
+  - "Garis panduan pembaharuan SSM membenarkan pembaharuan sehingga dua belas bulan selepas tamat tempoh, manakala s.5A(1) ROBA 1956 menyatakan permohonan hendaklah dibuat dalam tempoh tiga puluh hari sebelum tamat tempoh — sahkan amalan pentadbiran semasa dengan SSM sebelum bergantung pada tempoh tangguh"
+  - "Sahkan syarat kelayakan semasa dan tarikh tamat bagi insentif fi Skim Pendaftaran Perniagaan Perihatin (SPPP) dan Skim 1 OKU 1 Perniagaan (S1O1P)"
 obligations:
   - what: "Apply to the Registrar for registration of the business"
     trigger: "ongoing"

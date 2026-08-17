@@ -34,8 +34,8 @@ faq:
     a: "Dua belas bulan kesemuanya. ESD menyatakan bahawa tiada lanjutan dibenarkan melebihi dua belas bulan, dan kontrak dihadkan kepada satu kontrak atau projek pada satu masa. Lanjutan dalam tempoh dua belas bulan itu mesti dipohon sekurang-kurangnya satu bulan sebelum pas tamat tempoh, dan pemohon tidak perlu meninggalkan negara semasa ia diproses."
 
 verificationNeeded:
-  - "Confirm current Immigration pass and visa fees for each pass type — the schedule varies by nationality and is not published as a single consolidated table"
-  - "Confirm whether the DE Rantau Sarawak variant carries different income floors or duration from the federal DE Rantau Nomad Pass"
+  - "Sahkan yuran pas dan visa Imigresen semasa bagi setiap jenis pas — jadual berbeza mengikut kewarganegaraan dan tidak diterbitkan sebagai satu jadual disatukan tunggal"
+  - "Sahkan sama ada varian DE Rantau Sarawak membawa lantai pendapatan atau tempoh yang berbeza daripada DE Rantau Nomad Pass persekutuan"
 
 lang: "ms"
 masterLanguage: "en"

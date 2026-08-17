@@ -52,9 +52,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Exact current officeholder of Minister of Foreign Affairs (given as Dato' Seri Utama Mohamad Hasan, correct as of Aug 2026) — confirm on kln.gov.my before publishing, as Cabinet portfolios change with reshuffles."
-  - "The two kln.gov.my content paths (role-function, assistance-abroad) resolve in search but could not be fetched directly (site TLS chain); confirm they remain live and match the cited wording."
-  - "The eight named strategic thrusts and the economic-diplomacy framing (Malaysia as a 'bridge' between the Global North and South; halal industry, digital economy, high-value semiconductors) against the primary Strategic Plan document / Wisma Putra press release, not only the Business Today report."
+  - "Pemegang jawatan semasa yang tepat bagi Menteri Luar Negeri (dinyatakan sebagai Dato' Seri Utama Mohamad Hasan, betul setakat Ogos 2026) — sahkan pada kln.gov.my sebelum menerbitkan, kerana portfolio Kabinet berubah dengan rombakan."
+  - "Dua laluan kandungan kln.gov.my (role-function, assistance-abroad) muncul dalam carian tetapi tidak dapat diperoleh secara langsung (rantaian TLS tapak); sahkan ia kekal aktif dan sepadan dengan perkataan yang dipetik."
+  - "Lapan teras strategik yang dinamakan dan rangka diplomasi ekonomi (Malaysia sebagai 'jambatan' antara Global Utara dan Selatan; industri halal, ekonomi digital, semikonduktor bernilai tinggi) terhadap dokumen Strategic Plan utama / kenyataan akhbar Wisma Putra, bukan hanya laporan Business Today."
 
 updated: 2026-08-01
 sources:

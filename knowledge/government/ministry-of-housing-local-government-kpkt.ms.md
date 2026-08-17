@@ -42,11 +42,11 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Exact current official vision and mission wording (the kpkt.gov.my homepage did not expose a formal vision/mission statement in fetched content)."
-  - "Whether PR1MA (Perbadanan PR1MA Malaysia) and URBANICE Malaysia currently sit formally under KPKT versus another ministry — listed on the portal, but reporting lines shift with cabinet reshuffles; confirm against current gazette."
+  - "Susunan kata visi dan misi rasmi semasa yang tepat (halaman utama kpkt.gov.my tidak mendedahkan pernyataan visi/misi formal dalam kandungan yang dicapai)."
+  - "Sama ada PR1MA (Perbadanan PR1MA Malaysia) dan URBANICE Malaysia pada masa ini berada secara formal di bawah KPKT berbanding kementerian lain — disenaraikan pada portal, tetapi garis pelaporan berubah dengan rombakan kabinet; sahkan terhadap warta semasa."
   - "Current-year federal budget allocation for KPKT."
   - "Precise institutional lineage dates before 16 May 2013 (predecessor ministries)."
-  - "Exact current count of housing units delivered against the 500,000-unit 12MP target."
+  - "Bilangan semasa yang tepat bagi unit perumahan yang telah disiapkan berbanding sasaran 500,000 unit 12MP."
   - "Whether SPNB (Syarikat Perumahan Negara Berhad) remains under KPKT after recent restructuring."
 updated: 2026-08-14
 sources:

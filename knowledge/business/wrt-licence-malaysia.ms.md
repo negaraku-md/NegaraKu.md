@@ -36,7 +36,7 @@ faq:
     a: "Melalui BLESS 2.0. Senarai semak KPDN menamakan BLESS sebagai salurannya, dengan penyerahan di kaunter hanya sebagai sandaran apabila sistem tidak berfungsi. Tempoh sah itu sendiri tidak diterbitkan, tetapi KPDN memang menyatakan bahawa permohonan pembaharuan mesti diserahkan sekurang-kurangnya tiga bulan sebelum tarikh tamat tempoh — jadi ketahui tarikh tamat tempoh anda sendiri awal-awal dan kira ke belakang daripadanya."
 
 verificationNeeded:
-  - "The length of a WRT approval's validity period — only the three-month renewal lead time is published"
+  - "Tempoh sah bagi sesuatu kelulusan WRT — hanya tempoh masa pembaharuan tiga bulan diterbitkan"
 
 lang: "ms"
 masterLanguage: "en"

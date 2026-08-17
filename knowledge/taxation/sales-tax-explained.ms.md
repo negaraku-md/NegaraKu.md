@@ -34,9 +34,9 @@ faq:
     a: "Schedule B adalah untuk pengilang barang tidak bercukai yang diluluskan, membolehkan mereka membeli input bebas cukai jualan. Schedule C adalah untuk pengilang berdaftar barang bercukai. Pengilang yang outputnya dikecualikan tidak boleh menggunakan Schedule C, kerana Schedule C memerlukan pendaftaran — dan itulah sebabnya perbezaan ini lebih penting daripada yang kelihatan."
 
 verificationNeeded:
-  - "The precise one-to-one mapping of the old CJ5 to Schedule C items 1 and 2 and CJ5A to items 3 and 4 could not be read off a live official page — RMCD confirms only that Schedule C collectively replaced CJ5, CJ5A and CJ5B"
-  - "Confirm the current tariff classifications against the Customs Duties Order 2025, P.U.(A) 384/2025 — the 1 November 2025 amendments rebased the sales tax schedules onto the 2025 nomenclature"
-  - "Sales Tax Policy No. 2/2025 is listed on the RMCD policy index but no PDF is served in either language; its content is unverified"
+  - "Pemetaan satu-dengan-satu yang tepat bagi CJ5 lama kepada Schedule C item 1 dan 2 serta CJ5A kepada item 3 dan 4 tidak dapat dibaca daripada halaman rasmi langsung — RMCD hanya mengesahkan bahawa Schedule C secara kolektif menggantikan CJ5, CJ5A dan CJ5B"
+  - "Sahkan pengelasan tarif semasa terhadap Customs Duties Order 2025, P.U.(A) 384/2025 — pindaan 1 November 2025 mengasaskan semula jadual cukai jualan kepada tatanama 2025"
+  - "Sales Tax Policy No. 2/2025 disenaraikan pada indeks polisi RMCD tetapi tiada PDF disajikan dalam mana-mana bahasa; kandungannya tidak disahkan"
 
 obligations:
   - what: "Apply for sales tax registration as a manufacturer of taxable goods"

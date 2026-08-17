@@ -42,8 +42,8 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Current RE share splits often quoted by secondary sources (RE ~8% of energy consumption; hydro ~6.3%; solar ~0.53%) — confirm against MyEnergyStats / Energy Commission MEIH primary data."
-  - "MyRER's total RE installed-capacity target in MW (as opposed to the % share) — SEDA page gave % and investment/jobs but not a clean MW figure."
+  - "Pembahagian bahagian RE yang sering dipetik oleh sumber sekunder (RE ~8% daripada penggunaan tenaga; hidro ~6.3%; solar ~0.53%) — sahkan terhadap data primer MyEnergyStats / MEIH Suruhanjaya Tenaga."
+  - "Sasaran jumlah kapasiti terpasang RE MyRER dalam MW (berbanding bahagian %) — halaman SEDA memberikan % dan pelaburan/pekerjaan tetapi bukan angka MW yang jelas."
 updated: 2026-08-14
 sources:
   - title: "National Energy Transition Roadmap (NETR): Charting a Path to a Sustainable Energy Landscape"

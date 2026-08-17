@@ -49,7 +49,7 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Currency of the General Guide on Tourism Tax PDF — it predates the 2021 DPSP regime; confirm figures (RM10 rate, 5-room threshold, penalties, forms) remain current."
+  - "Kekinian PDF General Guide on Tourism Tax — ia mendahului rejim DPSP 2021; sahkan angka (kadar RM10, ambang 5 bilik, penalti, borang) kekal semasa."
 updated: 2026-08-07
 sources:
   - title: "General Guide on Tourism Tax"

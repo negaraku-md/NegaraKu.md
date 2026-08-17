@@ -35,10 +35,10 @@ faq:
     a: "Majikan bertanggungjawab membayar jumlah penuh cukai yang perlu dibayar oleh pekerja mereka, dan jumlah tersebut merupakan hutang kepada Kerajaan yang boleh dituntut melalui tindakan sivil. Kegagalan mematuhi kewajipan pemberitahuan tanpa alasan munasabah membawa, apabila disabitkan, denda tidak kurang daripada RM200 dan tidak melebihi RM20,000, atau penjara tidak melebihi enam bulan, atau kedua-duanya."
 
 verificationNeeded:
-  - "Confirm the precise CP38 issuance and remittance mechanics — including how a CP38 instruction interacts with the running PCB figure and whether it is capped by reference to salary — against a current LHDN guideline"
-  - "Confirm when PCB is treated as final tax and the conditions an employee must satisfy to be relieved of filing, against the current Income Tax (Deduction from Remuneration) Rules 1994 as amended"
-  - "Confirm the current treatment and valuation rules for benefits in kind and perquisites in the PCB computation against the applicable LHDN Public Ruling"
-  - "Confirm the minimum monthly remuneration threshold at which PCB becomes payable against LHDN directly"
+  - "Sahkan mekanik pengeluaran dan penghantaran CP38 yang tepat — termasuk cara arahan CP38 berinteraksi dengan angka PCB semasa dan sama ada ia dihadkan dengan merujuk kepada gaji — terhadap garis panduan LHDN semasa"
+  - "Sahkan bila PCB dianggap sebagai cukai muktamad dan syarat yang mesti dipenuhi oleh pekerja untuk dilepaskan daripada pemfailan, terhadap Income Tax (Deduction from Remuneration) Rules 1994 semasa seperti yang dipinda"
+  - "Sahkan peraturan layanan dan penilaian semasa bagi faedah berupa barangan dan perkuisit dalam pengiraan PCB terhadap Public Ruling LHDN yang terpakai"
+  - "Sahkan ambang saraan bulanan minimum di mana PCB menjadi kena dibayar terhadap LHDN secara langsung"
 
 obligations:
   - what: "Deduct PCB/MTD from employee remuneration and remit to LHDN"

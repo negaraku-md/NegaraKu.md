@@ -38,10 +38,10 @@ faq:
     a: "JTKSM menyatakan bahawa majikan yang gagal mematuhi melakukan suatu kesalahan di bawah s.63 Akta Kerja 1955 dan boleh didenda sehingga RM50,000 bagi setiap kesalahan. Asas undang-undangnya ialah s.99A, peruntukan penalti am, kerana s.63 sendiri tidak menetapkan sebarang penalti."
 
 verificationNeeded:
-  - "JTKSM's own English and Malay pages disagree about which parts of Form PK the Lampiran 1 employee schedule accompanies. The English page attaches it to Part VI; the Malay page attaches it to Parts I to IV and to Part V. The form's own reminder box mentions no Lampiran at all. Confirm with the JTK branch office before filing."
-  - "The gazette text of P.U.(B) 430/2004 could not be retrieved — federalgazette.agc.gov.my did not respond. The P.U.(B) number and the 11 November 2004 date rest on JTKSM's published FAQ, and the operative provision cited on the form is paragraph 4(3)(a). The underlying gazette wording is unverified."
-  - "No online submission channel for Form PK was found on any government domain. Confirm the current filing channel with the relevant JTK branch, as submission practice may have changed."
-  - "Whether any minimum headcount triggers the notification duty — no threshold was found in JTKSM's published material."
+  - "Halaman Bahasa Inggeris dan Bahasa Melayu JTKSM sendiri bercanggah tentang bahagian Form PK yang mana disertai oleh jadual pekerja Lampiran 1. Halaman Bahasa Inggeris melampirkannya pada Part VI; halaman Bahasa Melayu melampirkannya pada Parts I hingga IV dan pada Part V. Kotak peringatan borang itu sendiri tidak menyebut sebarang Lampiran. Sahkan dengan pejabat cawangan JTK sebelum memfailkan."
+  - "Teks warta P.U.(B) 430/2004 tidak dapat diperoleh — federalgazette.agc.gov.my tidak memberi respons. Nombor P.U.(B) dan tarikh 11 November 2004 bergantung pada FAQ yang diterbitkan JTKSM, dan peruntukan operatif yang dipetik pada borang ialah perenggan 4(3)(a). Perkataan warta yang mendasarinya belum disahkan."
+  - "Tiada saluran penyerahan dalam talian bagi Form PK ditemui pada mana-mana domain kerajaan. Sahkan saluran pemfailan semasa dengan cawangan JTK yang berkenaan, kerana amalan penyerahan mungkin telah berubah."
+  - "Sama ada sebarang bilangan pekerja minimum mencetuskan kewajipan pemberitahuan — tiada ambang ditemui dalam bahan JTKSM yang diterbitkan."
 
 obligations:
   - what: "Submit Form PK Parts I to IV notifying JTKSM of a planned retrenchment, lay-off, voluntary separation scheme or salary reduction"

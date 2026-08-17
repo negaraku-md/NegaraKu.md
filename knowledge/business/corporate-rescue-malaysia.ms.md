@@ -36,9 +36,9 @@ faq:
     a: "Seksyen 415A yang baharu, dimasukkan oleh Akta A1701, membenarkan Mahkamah, atas permohonan pengurus kehakiman, memberikan keutamaan tertinggi kepada hutang yang timbul daripada pembiayaan penyelamatan. Perintah itu boleh meletakkan hutang tersebut sejurus selepas kos dan perbelanjaan penggulungan di bawah s.527(1)(a), walau apa pun s.527(1), atau membenarkannya dicagarkan ke atas harta tidak terbeban atau melalui kepentingan sekuriti subordinat."
 
 verificationNeeded:
-  - "The exact P.U.(B) numbers appointing the commencement dates of Act A1701 were not retrieved from the Federal Gazette; the 1 April 2024 and 31 January 2025 dates are reported consistently by practitioner sources and should be confirmed against the gazette notification before being relied on"
-  - "Whether the Eighth Schedule has been amended by any instrument after Act A1701 to align paragraph 1 with the substituted s.395 — no such amendment was found"
-  - "Court filing fees and insolvency practitioner remuneration for each mechanism are not published centrally and no cost range is stated here"
+  - "Nombor P.U.(B) tepat yang melantik tarikh permulaan kuat kuasa Act A1701 tidak diperoleh daripada Warta Persekutuan; tarikh 1 April 2024 dan 31 Januari 2025 dilaporkan secara konsisten oleh sumber pengamal dan hendaklah disahkan terhadap notifikasi warta sebelum dijadikan sandaran"
+  - "Sama ada Jadual Kelapan telah dipinda oleh mana-mana instrumen selepas Act A1701 untuk menyelaraskan perenggan 1 dengan s.395 yang telah digantikan — tiada pindaan sedemikian ditemui"
+  - "Yuran pemfailan mahkamah dan saraan pengamal insolvensi bagi setiap mekanisme tidak diterbitkan secara berpusat dan tiada julat kos dinyatakan di sini"
 
 lang: "ms"
 masterLanguage: "en"

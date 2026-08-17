@@ -37,12 +37,12 @@ faq:
     a: "Tidak dalam senarai koridor MIDA, yang menamakan lima sahaja. JS-SEZ ialah pakej insentif berasingan yang diumumkan pada 8 Januari 2025 dan ditadbir oleh MIDA, terletak di atas geografi Johor yang sudah diliputi oleh Iskandar Malaysia. Forest City pula ialah skim berasingan yang lain, dikawal selia melalui Suruhanjaya Sekuriti. Ketiga-tiganya bertindih di peta tetapi berbeza sepenuhnya dari segi autoriti, jadi kenal pasti skim itu dahulu sebelum mengenal pasti pengawal selianya."
 
 verificationNeeded:
-  - "Whether the District of Segamat has been added to ECER. MIDA's corridor page names Mersing and Segamat; Act 688 s.4 as reprinted names Mersing alone, and no gazette notification adding Segamat was located."
-  - "The exact commencement date of the New Investment Incentive Framework for the services sector. MIDA's FAQ updated 19 January 2026 says Q2 2026 to be announced separately, and no announcement was found as at July 2026."
-  - "Whether any corridor-specific incentive survives the New Investment Incentive Framework. The NIF FAQ makes no mention of any corridor at all — that is silence, not a stated repeal, and should not be read as abolition."
-  - "A gazetted P.U.(A) underpinning the SDC incentives MIDA describes for Sabah. MIDA's own page carries a disclaimer that they are subject to expiration or revision."
-  - "The gazette notification constituting RECODA under s.4 of the Regional Corridors Development Authorities Ordinance 2006, and the notification declaring SCORE under s.3. Neither could be located on Sarawak LawNet."
-  - "ECERDC's own incentives page at ecerdc.com.my returns 404, so ECERDC's current statement of its own incentive route could not be obtained."
+  - "Sama ada Daerah Segamat telah ditambah ke ECER. Laman koridor MIDA menamakan Mersing dan Segamat; Act 688 s.4 seperti dicetak semula menamakan Mersing sahaja, dan tiada notifikasi warta yang menambah Segamat ditemui."
+  - "Tarikh permulaan tepat New Investment Incentive Framework bagi sektor perkhidmatan. FAQ MIDA yang dikemas kini pada 19 Januari 2026 menyatakan Q2 2026 akan diumumkan secara berasingan, dan tiada pengumuman ditemui setakat Julai 2026."
+  - "Sama ada mana-mana insentif khusus koridor terus wujud di bawah New Investment Incentive Framework. FAQ NIF tidak menyebut sebarang koridor langsung — itu ialah kesenyapan, bukan pemansuhan yang dinyatakan, dan tidak seharusnya ditafsirkan sebagai penghapusan."
+  - "Suatu P.U.(A) yang diwartakan yang mendasari insentif SDC yang MIDA huraikan bagi Sabah. Halaman MIDA sendiri membawa penafian bahawa ia tertakluk kepada tamat tempoh atau semakan."
+  - "Notifikasi warta yang menubuhkan RECODA di bawah s.4 Regional Corridors Development Authorities Ordinance 2006, dan notifikasi yang mengisytiharkan SCORE di bawah s.3. Kedua-duanya tidak dapat dikesan di Sarawak LawNet."
+  - "Halaman insentif ECERDC sendiri di ecerdc.com.my mengembalikan 404, jadi pernyataan semasa ECERDC mengenai laluan insentifnya sendiri tidak dapat diperoleh."
 
 lang: "ms"
 masterLanguage: "en"

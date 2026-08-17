@@ -55,9 +55,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Whether sensitivity 'none' and tier '1' remain appropriate: palm oil is a contested topic (deforestation, peatland loss, EU Deforestation Regulation, migrant/forced-labour concerns). Human editor to reconsider classification."
+  - "Sama ada sensitiviti 'none' dan tier '1' kekal sesuai: minyak sawit ialah topik yang dipertikaikan (penyahutanan, kehilangan tanah gambut, EU Deforestation Regulation, kebimbangan buruh migran/paksa). Editor manusia perlu menimbang semula klasifikasi."
   - "Number of MSPO-certified independent smallholders — specific figure removed pending a primary MSPO source; add back only if sourced."
-  - "Breadth of export markets (exact number of destination countries) — the previous '150 countries' claim was unsourced and has been softened; confirm before quoting a precise count."
+  - "Keluasan pasaran eksport (bilangan tepat negara destinasi) — dakwaan '150 negara' sebelum ini tidak bersumber dan telah dilembutkan; sahkan sebelum memetik kiraan yang tepat."
 
 updated: 2026-08-14
 sources:

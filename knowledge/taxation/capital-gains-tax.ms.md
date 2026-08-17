@@ -35,9 +35,9 @@ faq:
     a: "Perenggan 34A(5A) Schedule 2 kepada Akta Cukai Keuntungan Harta Tanah 1976 (Real Property Gains Tax Act 1976) tidak lagi memakai peruntukan RPC kepada pemerolehan atau pelupusan saham oleh syarikat, PLT, badan amanah atau koperasi pada atau selepas 1 Januari 2024. Pelupusan tersebut kini jatuh di bawah CKM sebaliknya. Individu yang melupuskan saham RPC kekal di bawah RPGT."
 
 verificationNeeded:
-  - "The full list of CGT exemption orders beyond P.U.(A) 410/2023 and P.U.(A) 57/2024 — including any exemption for initial public offering restructurings and intra-group reorganisations — was not enumerated from a gazetted source and should be confirmed against the Federal Gazette before relying on any exemption"
-  - "Whether the rate election under Part XXI Schedule 1 is irrevocable once made in the e-CKM return is not stated in the Guidelines and was not confirmed"
-  - "The penalty rates applied specifically to a late or incorrect CGT return were not published in the Guidelines; section 112 and section 113 of the Income Tax Act 1967 apply in principle but the administrative rates were not verified"
+  - "Senarai penuh perintah pengecualian CGT selain P.U.(A) 410/2023 dan P.U.(A) 57/2024 — termasuk sebarang pengecualian bagi penstrukturan semula terbitan awam permulaan dan penyusunan semula dalam kumpulan — tidak disenaraikan daripada sumber yang diwartakan dan perlu disahkan terhadap Warta Persekutuan sebelum bergantung pada sebarang pengecualian"
+  - "Sama ada pilihan kadar di bawah Part XXI Schedule 1 tidak boleh ditarik balik setelah dibuat dalam borang e-CKM tidak dinyatakan dalam Garis Panduan dan tidak disahkan"
+  - "Kadar penalti yang dikenakan khusus kepada penyata CGT yang lewat atau tidak betul tidak diterbitkan dalam Garis Panduan; seksyen 112 dan seksyen 113 Income Tax Act 1967 terpakai pada prinsipnya tetapi kadar pentadbiran tidak disahkan"
 
 obligations:
   - what: "Failkan penyata cukai keuntungan modal dan bayar cukai tersebut"

@@ -45,7 +45,7 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Institutional history: the department is often described as having begun as an Environment Division around 1975 and upgraded to a full department on 1 September 1983. These hard dates were removed in the 0.2 correction pass because they could not be confirmed against a primary source — DOE's own site carries no extractable institutional history (the vision/mission page renders only as images). A human should source and reinstate these dates if wanted."
+  - "Sejarah institusi: jabatan ini sering diterangkan sebagai bermula sebagai Bahagian Alam Sekitar sekitar 1975 dan dinaik taraf kepada jabatan penuh pada 1 September 1983. Tarikh pasti ini telah dibuang dalam pusingan pembetulan 0.2 kerana ia tidak dapat disahkan terhadap sumber utama — laman DOE sendiri tidak membawa sejarah institusi yang boleh diekstrak (halaman visi/misi dipaparkan hanya sebagai imej). Seorang manusia perlu mencari dan mengembalikan semula tarikh ini jika dikehendaki."
 revisions:
   - version: "01.00"
     date: 2026-07-28

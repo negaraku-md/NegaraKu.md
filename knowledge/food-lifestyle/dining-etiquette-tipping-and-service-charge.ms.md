@@ -40,10 +40,10 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Confirm the 10% service charge is still the prevailing market rate and that it remains unregulated by government."
-  - "Confirm the attribution and exact wording of the former Deputy Finance Minister's remark that the service charge is not compulsory 'as it is a tip' — this reaches us through secondary reporting (The Edge Malaysia), not a primary transcript."
-  - "The '++' vs 'nett' menu-notation convention is described from common Malaysian practice and is not backed by an authoritative citation; a human should confirm before relying on it."
-  - "The statement that a displayed service charge is 'customarily paid as part of the bill' reflects social custom, not a legal obligation — verify the framing."
+  - "Sahkan caj perkhidmatan 10% masih kadar pasaran yang berkuat kuasa dan bahawa ia kekal tidak dikawal selia oleh kerajaan."
+  - "Sahkan sumber rujukan dan perkataan tepat kenyataan bekas Timbalan Menteri Kewangan bahawa caj perkhidmatan tidak wajib 'kerana ia adalah tip' — ini sampai kepada kami melalui laporan sekunder (The Edge Malaysia), bukan transkrip utama."
+  - "Konvensyen notasi menu '++' berbanding 'nett' diperihalkan daripada amalan biasa Malaysia dan tidak disokong oleh petikan berwibawa; manusia perlu mengesahkan sebelum bergantung padanya."
+  - "Kenyataan bahawa caj perkhidmatan yang dipaparkan 'lazimnya dibayar sebagai sebahagian daripada bil' mencerminkan adat sosial, bukan kewajipan undang-undang — sahkan rangkanya."
 revisions:
   - version: "01.00"
     date: 2026-08-01

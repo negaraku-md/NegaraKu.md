@@ -39,9 +39,9 @@ faq:
     a: "Negeri itu tidak ada kaitan dengannya. Akta Syarikat 2016 tidak mengenakan modal berbayar minimum — s.9 memerlukan satu atau lebih syer dan s.14(3) tidak menyenaraikan jumlah modal antara butiran pemerbadanan. Angka RM250,000, RM350,000, RM500,000 dan RM1,000,000 yang beredar ialah kriteria Bahagian Perkhidmatan Ekspatriat Jabatan Imigresen untuk mendaftarkan syarikat bagi menaja Pas Penggajian."
 
 verificationNeeded:
-  - "Market wage differentials between Malaysian states are not verified here against DOSM salary and wages data — treat any wage-gap claim as a research task, not a published rule."
-  - "DBKL's business licensing guideline could not be retrieved — its licensing guidelines PDF sits behind a download control with no exposed URL, so Federal Territory conditions must not be inferred from Selangor's published guideline."
-  - "Sabah's carve-out list under the Labour Ordinance of Sabah (Amendment) Act 2025 (Act A1753) could not be read; the hosted PDF returns a 404."
+  - "Perbezaan gaji pasaran antara negeri di Malaysia tidak disahkan di sini terhadap data gaji dan upah DOSM — anggap sebarang dakwaan jurang gaji sebagai tugasan penyelidikan, bukan peraturan yang diterbitkan."
+  - "Garis panduan pelesenan perniagaan DBKL tidak dapat diperoleh — PDF garis panduan pelesenannya terletak di sebalik kawalan muat turun tanpa URL yang terdedah, jadi syarat Wilayah Persekutuan tidak boleh disimpulkan daripada garis panduan Selangor yang diterbitkan."
+  - "Senarai pengecualian Sabah di bawah Labour Ordinance of Sabah (Amendment) Act 2025 (Act A1753) tidak dapat dibaca; PDF yang dihoskan mengembalikan ralat 404."
 
 lang: "ms"
 masterLanguage: "en"

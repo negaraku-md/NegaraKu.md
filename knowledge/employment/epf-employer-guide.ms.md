@@ -34,8 +34,8 @@ faq:
     a: "Umur minimum untuk berdaftar dan mencarum sebagai ahli EPF ialah 14 tahun. Umur maksimum caruman ialah 75 tahun. Bagi pekerja bukan warganegara Malaysia, had atas yang sama terpakai — mereka mesti berumur di bawah 75 tahun untuk didaftarkan dan dicarumkan."
 
 verificationNeeded:
-  - "Confirm the current EPF late-payment charge or dividend-equivalent penalty rate against KWSP directly — not stated on the pages reviewed"
-  - "Confirm the precise statutory definition of wages for EPF purposes, and the treatment of specific allowances and bonuses, against the EPF Act 1991 s.2 definition and current KWSP guidance"
+  - "Sahkan caj bayaran lewat EPF semasa atau kadar penalti setara dividen terhadap KWSP secara langsung — tidak dinyatakan pada laman yang disemak"
+  - "Sahkan takrif statutori tepat upah bagi tujuan EPF, dan layanan elaun dan bonus tertentu, terhadap takrif s.2 EPF Act 1991 dan panduan KWSP semasa"
 
 obligations:
   - what: "Menjelaskan caruman EPF bagi bulan gaji berkenaan"

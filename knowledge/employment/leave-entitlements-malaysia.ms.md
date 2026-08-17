@@ -38,8 +38,8 @@ faq:
     a: "Tidak. Sabah dan Sarawak ditadbir oleh Labour Ordinance masing-masing, dipinda pada 2025 oleh Acts A1753 dan A1754 masing-masing, kedua-duanya berkuat kuasa dari 1 Mei 2025 kecuali Part IVA mengenai piawaian perumahan. First Schedule gantian Sarawak berbeza dari segi struktur berbanding Employment Act, jadi jadual pematuhan Act 265 tidak boleh sekadar dicari-ganti terus. Semak Ordinance yang berkenaan bagi mana-mana tenaga kerja di Malaysia Timur."
 
 verificationNeeded:
-  - "Confirm whether paid annual leave and sick leave days are counted as calendar days or working days where a rest day or gazetted holiday falls within the period"
-  - "Confirm the equivalent annual, sick and hospitalisation leave bands under the Sabah and Sarawak Labour Ordinances as amended in 2025"
+  - "Sahkan sama ada hari cuti tahunan bergaji dan cuti sakit dikira sebagai hari kalendar atau hari bekerja apabila hari rehat atau cuti umum berwarta jatuh dalam tempoh tersebut"
+  - "Sahkan jalur cuti tahunan, cuti sakit dan cuti kemasukan hospital yang setara di bawah Sabah dan Sarawak Labour Ordinances seperti yang dipinda pada 2025"
 
 lang: "ms"
 masterLanguage: "en"

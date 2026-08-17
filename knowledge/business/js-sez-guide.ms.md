@@ -39,7 +39,7 @@ faq:
     a: "Belum, sehingga Julai 2026. Carian dalam warta persekutuan AGC tidak mengembalikan sebarang P.U.(A) yang tajuknya merujuk kepada Zon Ekonomi Khas Johor-Singapura. Garis panduan MIDA sendiri menghuraikan mekanisme itu dalam bentuk masa hadapan — insentif itu akan disediakan melalui perundangan subsidiari di bawah seksyen 65B Akta Cukai Pendapatan 1967. Bandingkan dengan Forest City, di mana sebelas instrumen telah diwartakan pada 3 Oktober 2025."
 
 verificationNeeded:
-  - "The administering agency and application route for the JS-SEZ knowledge worker incentive is not stated in the MIDA guideline — Appendix B of the snapshot lists it under other incentives without naming a route. Confirm with MIDA or IRDA before advising."
+  - "Agensi pentadbir dan laluan permohonan bagi insentif pekerja berpengetahuan JS-SEZ tidak dinyatakan dalam garis panduan MIDA — Appendix B petikan tersebut menyenaraikannya di bawah insentif lain tanpa menamakan laluan. Sahkan dengan MIDA atau IRDA sebelum menasihati."
 
 lang: "ms"
 masterLanguage: "en"

@@ -38,7 +38,7 @@ faq:
     a: "Tidak. Kerja lapangan dijalankan berdasarkan imbangan duga yang telah dikunci. Jika imbangan duga terus berubah, setiap jadual yang telah diuji perlu disemak dan dipadankan semula, dan itulah cara paling pantas untuk menukar kerja lapangan dua minggu menjadi enam minggu."
 
 verificationNeeded:
-  - "Confirm the current MFRS 124 disclosure requirements and any amendments effective for the relevant financial year against the MASB published standard"
+  - "Sahkan keperluan pendedahan MFRS 124 semasa dan sebarang pindaan yang berkuat kuasa bagi tahun kewangan berkenaan terhadap piawaian terbitan MASB"
 
 lang: "ms"
 masterLanguage: "en"

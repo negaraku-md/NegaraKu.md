@@ -23,10 +23,10 @@ keyTakeaways:
 appliesTo: "Setiausaha syarikat, juruwakil pindah milik hartanah (conveyancers), pasukan kewangan dan sesiapa sahaja yang mengira duti sebelum mengemukakan suratcara untuk penyeteman."
 
 verificationNeeded:
-  - "There is no consolidated text of the Stamp Act 1949 incorporating the 2024 and 2025 Finance Act amendments — the rates here are assembled from the AGC reprint as at 1 January 2024 read together with Act 862, Act 863 and Act 874, and any later amending Act has not been traced"
-  - "The duty on item 2, affidavits and statutory declarations, could not be read cleanly from the consolidated text due to column misalignment and is therefore omitted from the table"
-  - "Currently-in-force stamp duty exemption and remission orders were not enumerated exhaustively; LHDN's own stamp duty order index lists nothing after P.U.(A) 470/2024 and appears stale, so first-home and other current exemption thresholds should be read from the Federal Gazette"
-  - "Item 12 (assignment) was substituted by Act 862 and its revised life-insurance bands are not reproduced here"
+  - "Tiada teks disatukan Stamp Act 1949 yang menggabungkan pindaan Finance Act 2024 dan 2025 — kadar di sini dihimpunkan daripada cetakan semula AGC setakat 1 January 2024 dibaca bersama Act 862, Act 863 dan Act 874, dan mana-mana Akta pindaan kemudian belum dijejaki"
+  - "Duti pada item 2, afidavit dan akuan berkanun, tidak dapat dibaca dengan jelas daripada teks bersepadu disebabkan ketaksejajaran lajur dan oleh itu ditinggalkan daripada jadual"
+  - "Perintah pengecualian dan pelepasan duti setem yang berkuat kuasa semasa tidak disenaraikan secara menyeluruh; indeks perintah duti setem LHDN sendiri tidak menyenaraikan apa-apa selepas P.U.(A) 470/2024 dan nampaknya lapuk, jadi ambang pengecualian rumah pertama dan lain-lain semasa perlu dibaca daripada Warta Persekutuan"
+  - "Item 12 (penyerahan hak) telah diganti oleh Act 862 dan jalur insurans hayatnya yang disemak semula tidak dikeluarkan semula di sini"
 
 lang: "ms"
 masterLanguage: "en"

@@ -40,11 +40,11 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "GI renewal (GIA19), renewal-with-surcharge (GIA20) and restoration fee amounts — the specific RM figures in the earlier draft (RM420 / RM630 / RM670) could not be independently verified and appear to overlap with the trademark fee schedule; confirm the actual GI amounts against the Second Schedule of the Guidelines before publishing."
-  - "The exact designated origin area(s) for the Musang King GI — news reports indicate Pahang and Johor; confirm against the live MyIPO GI Register entry."
-  - "Open the two MyIPO PDFs (Act 836 and the Guidelines of Geographical Indication 2022) directly to confirm anchor content — both return HTTP 403 to automated fetches and were confirmed only via search indexing and WIPO Lex."
-  - "Confirm section 10 is the provision covering both the generic-name/refusal grounds and the earlier-trademark-conflict ground, and that the GIA1 application fee is still RM250."
-  - "Confirm the illustrative registered GIs and their states (Sarawak Pepper, Kek Lapis Sarawak, Harumanis, Tenom coffee, Sabah Batik) against the current MyIPO GI register."
+  - "Jumlah yuran pembaharuan GI (GIA19), pembaharuan-dengan-caj tambahan (GIA20) dan pemulihan — angka RM khusus dalam draf terdahulu (RM420 / RM630 / RM670) tidak dapat disahkan secara bebas dan nampaknya bertindih dengan jadual yuran cap dagangan; sahkan jumlah GI sebenar terhadap Second Schedule of the Guidelines sebelum menerbitkan."
+  - "Kawasan asal yang ditetapkan dengan tepat bagi GI Musang King — laporan berita menunjukkan Pahang dan Johor; sahkan terhadap entri Daftar GI MyIPO yang aktif."
+  - "Buka dua PDF MyIPO (Act 836 dan Guidelines of Geographical Indication 2022) secara langsung untuk mengesahkan kandungan sauh — kedua-duanya mengembalikan HTTP 403 kepada pengambilan automatik dan hanya disahkan melalui pengindeksan carian dan WIPO Lex."
+  - "Sahkan seksyen 10 ialah peruntukan yang meliputi kedua-dua alasan nama generik/penolakan dan alasan percanggahan tanda dagangan terdahulu, dan bahawa yuran permohonan GIA1 masih RM250."
+  - "Sahkan GI berdaftar ilustratif dan negeri masing-masing (Sarawak Pepper, Kek Lapis Sarawak, Harumanis, kopi Tenom, Sabah Batik) terhadap daftar GI MyIPO semasa."
 revisions:
   - version: "01.00"
     date: 2026-08-07

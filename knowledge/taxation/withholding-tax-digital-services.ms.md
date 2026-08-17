@@ -36,9 +36,9 @@ faq:
     a: "Gunakan penangguhan nilai-kecil. Jika cukai pegangan bagi satu transaksi pembayaran tidak melebihi RM500 dan transaksi sedemikian berlaku lebih daripada sekali dalam tempoh enam bulan berkenaan, penghantaran boleh ditangguhkan ke 30 Jun bagi tempoh 1 Disember hingga 31 Mei, atau 31 Disember bagi tempoh 1 Jun hingga 30 November, menggunakan Borang CP37S untuk royalti dan faedah atau Borang CP37DS untuk pendapatan s.4A."
 
 verificationNeeded:
-  - "LHDN's Guidelines on Taxation of Electronic Commerce were last revised 13 May 2019 and Practice Note 1/2018 was issued 16 March 2018 — neither has been reissued to address current SaaS, AI or usage-based pricing models, so the routing test is being applied to business models it did not contemplate"
-  - "No official LHDN determination could be found for any named platform. Statements circulating in the market that a specific provider is taxed at a specific treaty rate are not verifiable from LHDN sources and are not reproduced here"
-  - "Whether a particular foreign provider is registered as a foreign registered person under the digital services regime must be checked on the provider's own invoice — RMCD's register was not retrieved"
+  - "Guidelines on Taxation of Electronic Commerce LHDN kali terakhir disemak pada 13 Mei 2019 dan Practice Note 1/2018 dikeluarkan pada 16 Mac 2018 — tiada satu pun yang telah diterbitkan semula untuk menangani model penetapan harga SaaS, AI atau berasaskan penggunaan semasa, jadi ujian penghalaan sedang diterapkan kepada model perniagaan yang tidak diambil kira olehnya"
+  - "Tiada penentuan LHDN rasmi ditemui bagi mana-mana platform yang dinamakan. Kenyataan yang beredar di pasaran bahawa penyedia tertentu dikenakan cukai pada kadar perjanjian tertentu tidak dapat disahkan daripada sumber LHDN dan tidak dikeluarkan semula di sini"
+  - "Sama ada sesuatu pembekal asing tertentu berdaftar sebagai foreign registered person di bawah rejim perkhidmatan digital mesti disemak pada invois pembekal itu sendiri — daftar RMCD tidak diperoleh"
 
 obligations:
   - what: "Deduct and remit withholding tax on royalty paid to a non-resident software or platform provider"

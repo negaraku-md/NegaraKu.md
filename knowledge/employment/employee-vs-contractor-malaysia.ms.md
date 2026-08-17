@@ -38,8 +38,8 @@ faq:
     a: "Ya. Seksyen 17 mengenakan kewajipan ke atas setiap majikan dan orang yang bekerja sendiri terhadap orang yang bukan pekerja mereka. Seksyen 18A mengenakan kewajipan ke atas prinsipal terhadap kontraktor, subkontraktor dan orang yang bekerja di bawah arahan prinsipal itu. Seksyen 18B menghendaki setiap majikan, orang yang bekerja sendiri dan prinsipal menjalankan penilaian risiko. Mengkontrak keluar kerja itu tidak mengkontrak keluar kewajipan keselamatan."
 
 verificationNeeded:
-  - "Confirm the Act 872 social-security deduction rate and remittance cycle against PERKESO and the Ministry of Human Resources at the time of reading, since the rate is stated as set for the time being"
-  - "Confirm the leading Malaysian appellate authority on the control and integration tests against reported judgments"
+  - "Sahkan kadar potongan keselamatan sosial Act 872 dan kitaran remitan terhadap PERKESO dan Kementerian Sumber Manusia pada masa pembacaan, memandangkan kadar tersebut dinyatakan sebagai ditetapkan buat masa ini"
+  - "Sahkan autoriti rayuan Malaysia terkemuka mengenai ujian kawalan dan integrasi terhadap penghakiman yang dilaporkan"
 
 lang: "ms"
 masterLanguage: "en"

@@ -40,9 +40,9 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "That the 6-hour initial notification and 14-day follow-up windows are stated in the Cyber Security (Notification of Cyber Security Incident) Regulations 2024, per the regulation's own wording."
-  - "That the annual risk-assessment and biennial audit frequencies come from the Cyber Security (Period for Cyber Security Risk Assessment and Audit) Regulations 2024."
-  - "The current official list of NCII sectors and sector leads, and whether a given organisation has in fact been designated."
+  - "Bahawa tempoh pemberitahuan awal 6 jam dan susulan 14 hari dinyatakan dalam Cyber Security (Notification of Cyber Security Incident) Regulations 2024, menurut perkataan peraturan itu sendiri."
+  - "Bahawa kekerapan penilaian risiko tahunan dan audit dwitahunan berasal daripada Cyber Security (Period for Cyber Security Risk Assessment and Audit) Regulations 2024."
+  - "Senarai rasmi semasa sektor NCII dan ketua sektor, dan sama ada sesuatu organisasi sememangnya telah ditetapkan."
 revisions:
   - version: "01.00"
     date: 2026-08-07

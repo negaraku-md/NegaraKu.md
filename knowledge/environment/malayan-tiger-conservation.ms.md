@@ -50,8 +50,8 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "A June 2024 arrest of four Cambodian nationals inside a royal tiger reserve appeared in the original draft but could not be confirmed in any cited source; it was removed. Confirm and re-add with a source if accurate."
-  - "Updated official tiger population figures were promised ('to be announced soon' as of July 2026) — replace the fewer-than-150 estimate once released."
+  - "Penangkapan empat warganegara Kemboja di dalam sebuah rizab harimau diraja pada Jun 2024 muncul dalam draf asal tetapi tidak dapat disahkan dalam mana-mana sumber yang dipetik; ia telah dibuang. Sahkan dan tambah semula dengan sumber jika tepat."
+  - "Angka populasi harimau rasmi yang dikemas kini telah dijanjikan ('to be announced soon' setakat Julai 2026) — gantikan anggaran kurang daripada 150 setelah dikeluarkan."
 
 updated: 2026-07-28
 sources:

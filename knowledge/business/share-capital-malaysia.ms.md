@@ -38,8 +38,8 @@ faq:
     a: "Ya. Apabila terdapat amaun yang masih belum berbayar ke atas sesuatu saham, pengarah boleh membuat satu panggilan (call), dan s.83 menetapkan prosedur lucut hak (forfeiture) sekiranya panggilan itu tidak dibayar, termasuk satu notis yang menyatakan tarikh pembayaran dan amaran lucut hak. Pemegang saham yang dilucutkan haknya tetap bertanggungan ke atas wang yang kena dibayar pada tarikh lucut hak tersebut."
 
 verificationNeeded:
-  - "Minimum paid-up capital figures quoted for foreign-owned companies, WRT licensing and employment pass applications are set by KPDN, MIDA and Immigration, not by SSM — verify each against the responsible authority rather than a general figure"
-  - "Confirm current stamp duty treatment on transfers of shares in a Malaysian company before planning a restructuring"
+  - "Angka modal berbayar minimum yang dipetik untuk syarikat milik asing, pelesenan WRT dan permohonan pas penggajian ditetapkan oleh KPDN, MIDA dan Imigresen, bukan oleh SSM — sahkan setiap satu terhadap pihak berkuasa yang bertanggungjawab dan bukannya angka umum"
+  - "Sahkan layanan duti setem semasa ke atas pemindahan saham dalam syarikat Malaysia sebelum merancang penstrukturan semula"
 
 obligations:
   - what: "Obtain prior members' approval before the directors allot shares or grant rights"

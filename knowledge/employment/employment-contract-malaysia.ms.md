@@ -36,8 +36,8 @@ faq:
     a: "Seksyen 25(1) memerlukan keseluruhan jumlah gaji yang diperoleh, ditolak potongan yang sah, dibayar ke dalam akaun yang dibuka oleh institusi kewangan atas nama pekerja, atau atas nama pekerja bersama-sama dengan orang lain sebagaimana yang ditetapkan oleh pekerja. Klausa kontraktual yang memperuntukkan bayaran tunai adalah kurang baik berbanding itu dan tidak menggantikan seksyen ini."
 
 verificationNeeded:
-  - "Confirm the current judicial approach to s.75 Contracts Act 1950 on training bonds against reported appellate authority"
-  - "Confirm whether the Director General has issued any exemption or general permission under s.24(7) that changes the deduction categories in practice"
+  - "Sahkan pendekatan kehakiman semasa terhadap s.75 Contracts Act 1950 mengenai bon latihan berdasarkan autoriti rayuan yang dilaporkan"
+  - "Sahkan sama ada Ketua Pengarah telah mengeluarkan sebarang pengecualian atau kebenaran umum di bawah s.24(7) yang mengubah kategori potongan dalam amalan"
 
 obligations:
   - what: "Issue a written contract of service containing a termination clause"

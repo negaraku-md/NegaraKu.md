@@ -36,8 +36,8 @@ faq:
     a: "Faedah penamatan dan pemberhentian buruh ditetapkan oleh peraturan-peraturan yang dibuat di bawah s.60J Akta Kerja 1955, dan s.60J adalah salah satu daripada enam peruntukan yang tidak terpakai di atas RM4,000 sebulan menurut perenggan 1A Jadual Pertama. Apabila tempoh tetap itu tulen dan tamat tempoh, kedudukan biasa ialah tiada faedah penamatan yang timbul apabila tamat tempoh; apabila kontrak itu ditakrifkan semula sebagai tetap dan pekerja itu sebenarnya diberhentikan kerja, rejim faedah itu terpakai. Sahkan formula dan syarat kelayakan dalam peraturan-peraturan berkenaan sebelum membayar atau menolak."
 
 verificationNeeded:
-  - "Confirm the leading appellate authority on recharacterisation of fixed-term contracts and the factors applied, against reported judgments"
-  - "Confirm the current text and qualifying conditions of the Employment (Termination and Lay-Off Benefits) Regulations 1980 as they apply to expiry of a fixed term"
+  - "Sahkan autoriti rayuan utama mengenai pencirian semula kontrak tempoh tetap dan faktor-faktor yang diterapkan, terhadap penghakiman yang dilaporkan"
+  - "Sahkan teks semasa dan syarat kelayakan Employment (Termination and Lay-Off Benefits) Regulations 1980 sebagaimana ia terpakai kepada tamat tempoh kontrak tetap"
 
 lang: "ms"
 masterLanguage: "en"

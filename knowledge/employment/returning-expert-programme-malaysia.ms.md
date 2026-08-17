@@ -46,9 +46,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Exact duties covered by the vehicle exemption (excise only vs. import and excise) — the TalentCorp REP page mentions excise duty; the MyHeart FAQ describes a combined RM100,000 duty cap."
-  - "Current tax filing mechanics with LHDN (PCB deduction at 15%, use of Form e-BT, and the requirement to elect within two years of return) — confirm against the applicable LHDN Public Ruling."
-  - "Whether the two-year validity window and post-election deadlines still apply as stated on the MyHeart FAQ at time of reading."
+  - "Duti tepat yang diliputi oleh pengecualian kenderaan (eksais sahaja berbanding import dan eksais) — halaman REP TalentCorp menyebut duti eksais; FAQ MyHeart menerangkan had duti gabungan RM100,000."
+  - "Mekanik pemfailan cukai semasa dengan LHDN (potongan PCB pada 15%, penggunaan Form e-BT, dan keperluan untuk membuat pilihan dalam tempoh dua tahun selepas kembali) — sahkan terhadap LHDN Public Ruling yang berkenaan."
+  - "Sama ada tempoh sah laku dua tahun dan tarikh akhir selepas pemilihan masih terpakai seperti yang dinyatakan pada FAQ MyHeart pada masa pembacaan."
 
 updated: 2026-08-08
 sources:

@@ -48,12 +48,12 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "The RM50,000 fine / up to one year imprisonment penalty for false 999 calls (attributed to Section 233 of the Communications and Multimedia Act 1998 on civildefence.gov.my) — confirm the section and amount against the current statute before publication."
-  - "Whether the two-SIM-per-telco cap and three-month tourist-SIM validity are fully in force at the visitor's travel date (the MCMC mandatory standard was registered 26 February 2026; confirm the enforcement/effective date)."
-  - "SIM registration document rules beyond 'original passport / biometric verification' — the cited source does not address whether photocopies or scans are ever accepted; confirm with each telco if relevant."
-  - "Disruption of east-coast island boat and resort operations during the Northeast Monsoon is general travel guidance, not stated in the cited MET Malaysia source; confirm operator schedules directly."
-  - "Malaria being advised only for rural/forested areas and dengue being present nationwide with no licensed traveller vaccine — confirm against the current CDC Malaysia page at travel time."
-  - "That related articles 'getting-around-malaysia' exists in the corpus and resolves at build."
+  - "Denda RM50,000 / penjara sehingga satu tahun bagi panggilan 999 palsu (dikaitkan dengan Section 233 Communications and Multimedia Act 1998 di civildefence.gov.my) — sahkan seksyen dan jumlah terhadap statut semasa sebelum penerbitan."
+  - "Sama ada had dua SIM setiap telko dan tempoh sah SIM pelancong tiga bulan berkuat kuasa sepenuhnya pada tarikh perjalanan pelawat (standard mandatori MCMC didaftarkan pada 26 Februari 2026; sahkan tarikh penguatkuasaan/berkuat kuasa)."
+  - "Peraturan dokumen pendaftaran SIM melebihi 'pasport asal / pengesahan biometrik' — sumber yang dipetik tidak menangani sama ada salinan fotostat atau imbasan pernah diterima; sahkan dengan setiap telko jika berkaitan."
+  - "Gangguan operasi bot dan resort pulau pantai timur semasa Monsun Timur Laut ialah panduan perjalanan umum, tidak dinyatakan dalam sumber MET Malaysia yang dipetik; sahkan jadual pengendali secara langsung."
+  - "Malaria dinasihatkan hanya untuk kawasan luar bandar/berhutan dan denggi wujud di seluruh negara tanpa vaksin pelancong berlesen — sahkan terhadap halaman CDC Malaysia semasa pada masa perjalanan."
+  - "Bahawa artikel berkaitan 'getting-around-malaysia' wujud dalam korpus dan diselesaikan semasa pembinaan."
 
 updated: 2026-07-28
 sources:

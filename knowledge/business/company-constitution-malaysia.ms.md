@@ -38,7 +38,7 @@ faq:
     a: "Tidak. Anda boleh menerima pakai satu pada bila-bila masa melalui resolusi khas. Masalah praktikalnya ialah masa: menerima pakai perlembagaan memerlukan sokongan 75%, yang mudah semasa para pengasas bersetuju dan sukar sebaik sahaja mereka tidak bersetuju. Saat paling murah untuk menulis peraturan itu adalah sebelum sesiapa memerlukannya."
 
 verificationNeeded:
-  - "Confirm the current SSM lodgement fee for adoption of a constitution — the published table lists RM30 for constitution amendment; verify the fee applicable to first adoption"
+  - "Sahkan fi pemfailan SSM semasa bagi pemakaian perlembagaan — jadual yang diterbitkan menyenaraikan RM30 bagi pindaan perlembagaan; sahkan fi yang terpakai bagi pemakaian pertama"
 
 obligations:
   - what: "Lodge the constitution with the Registrar after adoption"

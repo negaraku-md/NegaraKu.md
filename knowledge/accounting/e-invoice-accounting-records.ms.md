@@ -38,8 +38,8 @@ faq:
     a: "IRBM tidak menerbitkan sebarang komitmen tempoh penyimpanan bagi dokumen yang disimpan dalam pangkalan data MyInvois, dan garis panduan itu membingkai penyimpanannya sebagai tambahan kepada, bukan pengganti, rekod anda sendiri. Jangan rangka dasar penyimpanan yang bergantung pada keupayaan mendapatkan semula dokumen daripada MyInvois pada tahun keenam."
 
 verificationNeeded:
-  - "IRBM publishes no stated retention period or availability guarantee for validated e-Invoices held in the MyInvois database"
-  - "Confirm the Sales Tax Act 2018 and Service Tax Act 2018 record retention periods separately before extending this analysis to SST documents"
+  - "IRBM tidak menerbitkan sebarang tempoh penyimpanan atau jaminan ketersediaan yang dinyatakan bagi e-Invois yang telah disahkan dan disimpan dalam pangkalan data MyInvois"
+  - "Sahkan tempoh penyimpanan rekod di bawah Sales Tax Act 2018 dan Service Tax Act 2018 secara berasingan sebelum meluaskan analisis ini kepada dokumen SST"
 
 lang: "ms"
 masterLanguage: "en"

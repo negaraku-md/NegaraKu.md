@@ -38,8 +38,8 @@ faq:
     a: "Seksyen 578(1) mewajibkan syarikat asing mengemukakan notis dalam tempoh tujuh hari selepas ia tidak lagi mempunyai tempat perniagaan atau tidak lagi menjalankan perniagaan di Malaysia. Mulai hari notis itu dikemukakan, kewajipan untuk mengemukakan dokumen selanjutnya terhenti, kecuali apa-apa yang sudah tertunggak. Pendaftar akan mengeluarkan nama itu daripada daftar dua belas bulan selepas notis tersebut."
 
 verificationNeeded:
-  - "Confirm the statutory test for corporate tax residence in Malaysia and the exact subsection of the Income Tax Act 1967, together with the current LHDN guidance on certificates of residence for branches"
-  - "Confirm whether MIDA's RE/RO guideline dated 24 March 2023 remains the current version"
+  - "Sahkan ujian statutori bagi pemastautin cukai korporat di Malaysia dan subseksyen tepat Income Tax Act 1967, bersama-sama panduan LHDN semasa mengenai sijil pemastautin bagi cawangan"
+  - "Sahkan sama ada garis panduan RE/RO MIDA bertarikh 24 Mac 2023 kekal sebagai versi semasa"
 
 obligations:
   - what: "Lodge the foreign company's annual return"

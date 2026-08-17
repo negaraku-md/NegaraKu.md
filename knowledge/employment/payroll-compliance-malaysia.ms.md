@@ -36,7 +36,7 @@ faq:
     a: "Faedah terakru pada kadar 10 peratus setahun bagi setiap hari kelewatan, dan levi tersebut beralih menjadi tunggakan yang memerlukan jadual Borang 3 sebelum ia boleh diselesaikan. Kegagalan membayar adalah satu kesalahan yang membawa denda tidak melebihi RM20,000 atau penjara tidak melebihi dua tahun, atau kedua-duanya."
 
 verificationNeeded:
-  - "Confirm the precise CP38 issuance and remittance mechanics, including how a CP38 directive interacts with the running PCB amount, against a current LHDN guideline"
+  - "Sahkan mekanik pengeluaran dan penghantaran CP38 yang tepat, termasuk bagaimana arahan CP38 berinteraksi dengan amaun PCB berjalan, terhadap garis panduan LHDN semasa"
 
 obligations:
   - what: "Remit EPF contributions for the wage month"

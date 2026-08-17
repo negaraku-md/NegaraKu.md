@@ -52,10 +52,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Sensitivity classification: currently set to 'none' per the correction brief's required frontmatter, but the review brief treats corporate-bribery / anti-corruption legal content as a sensitive (tier S) topic. A human editor should confirm the final sensitivity value."
-  - "Exact statutory wording and subsection numbering (s.17A(1)-(8)) should be confirmed against the official gazetted text of the MACC (Amendment) Act 2018 and the consolidated MACC Act 2009 before publication."
-  - "Confirm the canonical/official URL for the GIACC 'Guidelines on Adequate Procedures' PDF (the GIACC/JPM site path can change); verify the hosted copy matches the version issued pursuant to s.17A(5)."
-  - "Confirm this remains current law as at the publication date (no later amendment to Section 17A penalties or the adequate-procedures framework)."
+  - "Pengelasan sensitiviti: kini ditetapkan sebagai 'none' menurut frontmatter yang diperlukan dalam taklimat pembetulan, tetapi taklimat semakan menganggap kandungan undang-undang rasuah korporat / antirasuah sebagai topik sensitif (tier S). Seorang editor manusia harus mengesahkan nilai sensitiviti akhir."
+  - "Perkataan statutori tepat dan penomboran subseksyen (s.17A(1)-(8)) perlu disahkan terhadap teks warta rasmi MACC (Amendment) Act 2018 dan MACC Act 2009 yang disatukan sebelum penerbitan."
+  - "Sahkan URL rasmi/kanonik bagi PDF GIACC 'Guidelines on Adequate Procedures' (laluan laman GIACC/JPM boleh berubah); sahkan salinan yang dihoskan sepadan dengan versi yang dikeluarkan menurut s.17A(5)."
+  - "Sahkan bahawa ini kekal sebagai undang-undang semasa setakat tarikh penerbitan (tiada pindaan kemudian kepada penalti Section 17A atau rangka kerja prosedur mencukupi)."
 
 updated: 2026-08-07
 sources:

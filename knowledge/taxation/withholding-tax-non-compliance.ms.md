@@ -24,7 +24,7 @@ keyTakeaways:
 appliesTo: "Mana-mana pembayar Malaysia yang telah membayar bukan pemastautin tanpa memotong cukai pegangan, dan mana-mana penasihat yang mengira pendedahan risiko tersebut."
 
 verificationNeeded:
-  - "The 100 per cent s.113(2) rate used below is LHDN's own illustrative figure in Public Ruling 10/2019 Example 18 — the Ruling notes the rate in an actual case follows the Tax Audit Framework in force, which was not retrieved"
+  - "Kadar s.113(2) 100 peratus yang digunakan di bawah ialah angka ilustratif LHDN sendiri dalam Public Ruling 10/2019 Example 18 — Ruling itu menyatakan kadar dalam kes sebenar mengikut Tax Audit Framework yang berkuat kuasa, yang tidak diperoleh"
 
 obligations:
   - what: "Pay the withholding tax plus the 10 per cent increase once a failure is identified"

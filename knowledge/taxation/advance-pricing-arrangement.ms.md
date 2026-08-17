@@ -38,9 +38,9 @@ faq:
     a: "Bagi transaksi liputan dalam tempoh liputan, ya. Perenggan 23.1 Garis Panduan menyatakan bahawa tiada penalti di bawah Akta akan dikenakan selagi perjanjian itu kekal berkuat kuasa dan pembayar cukai mematuhi terma-termanya. Perenggan 23.2 mengecualikan tahun-tahun rollback — pelarasan bagi tahun-tahun tersebut masih boleh dikenakan peruntukan penalti atau caj tambahan yang berkaitan, termasuk caj tambahan s.140A(3C)."
 
 verificationNeeded:
-  - "The typical elapsed time from pre-filing request to a signed arrangement in Malaysia — LHDN publishes no service standard for this and paragraph 19.1 of the Guidelines expressly declines to state one"
-  - "Whether LHDN maintains a published statistic of APAs concluded, in progress or declined — no such publication was located on hasil.gov.my"
-  - "Paragraph 9.3 of the Guidelines sets a permissible period for preliminary discussion of at least three months before the pre-filing request; confirm the current practice with the Department of International Taxation before scheduling"
+  - "Masa berlalu tipikal daripada permintaan prafailan kepada perjanjian yang ditandatangani di Malaysia — LHDN tidak menerbitkan sebarang standard perkhidmatan bagi ini dan perenggan 19.1 Garis Panduan secara nyata enggan menyatakannya"
+  - "Sama ada LHDN menyelenggara statistik yang diterbitkan mengenai APA yang dimuktamadkan, dalam proses atau ditolak — tiada penerbitan sedemikian ditemui di hasil.gov.my"
+  - "Perenggan 9.3 Garis Panduan menetapkan tempoh yang dibenarkan bagi perbincangan awal sekurang-kurangnya tiga bulan sebelum permohonan pra-pemfailan; sahkan amalan semasa dengan Department of International Taxation sebelum menjadualkan"
 
 obligations:
   - what: "Submit the written request for a pre-filing meeting"

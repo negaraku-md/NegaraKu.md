@@ -36,9 +36,9 @@ faq:
     a: "Tidak. Kementerian Sumber Manusia menyatakan dalam Soalan-Soalan Lazim rasminya bahawa pihak-pihak tidak boleh diwakili oleh peguam bela dan peguam cara di Tribunal Pekerja Gig, atas alasan bahawa Tribunal ini direka sebagai forum yang pantas dan murah, mengikut corak yang sama seperti Tribunal Tuntutan Pengguna. Rayuan terhadap sesuatu award boleh dibuat ke Mahkamah Tinggi dalam tempoh empat belas hari."
 
 verificationNeeded:
-  - "Confirm the P.U.(B) commencement notification bringing Act 872 into operation on 31 March 2026, against lom.agc.gov.my"
-  - "Confirm the 1.25% deduction rate in the gazetted Gig Workers (Social Security) Regulations 2026 — the figure is currently taken from the Ministry of Human Resources official FAQ, which describes it as set for the time being"
-  - "Confirm the status, legal basis and powers of the Malaysian Gig Economy Commission (SEGIM), which is not established by Act 872"
+  - "Sahkan notifikasi permulaan kuat kuasa P.U.(B) yang membawa Act 872 berkuat kuasa pada 31 Mac 2026, terhadap lom.agc.gov.my"
+  - "Sahkan kadar potongan 1.25% dalam Gig Workers (Social Security) Regulations 2026 yang diwartakan — angka itu buat masa ini diambil daripada FAQ rasmi Kementerian Sumber Manusia, yang menerangkannya sebagai ditetapkan buat masa ini"
+  - "Sahkan status, asas perundangan dan kuasa Suruhanjaya Ekonomi Gig Malaysia (SEGIM), yang tidak ditubuhkan oleh Act 872"
 
 obligations:
   - what: "Deduct social security contributions from gig worker earnings and remit to PERKESO"

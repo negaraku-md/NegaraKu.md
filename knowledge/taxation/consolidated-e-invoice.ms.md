@@ -38,8 +38,8 @@ faq:
     a: "Tidak. Di bawah sections 3.6.10 dan 4.3.5, LHDN memberitahu pembekal sahaja, tiada laluan penolakan pembeli, dan e-Invois disatukan yang disahkan berfungsi sebagai bukti pendapatan pembekal. Ia tidak dikongsi dengan pembeli."
 
 verificationNeeded:
-  - "The activation date and scope for the luxury goods and jewellery category in Table 3.6 — LHDN states details will be released in due course and consolidation remains allowed until further notice"
-  - "Whether the casino and gaming-machine carve-out from the betting pay-out rule has an end date — LHDN states until further notice"
+  - "Tarikh pengaktifan dan skop bagi kategori barangan mewah dan barang kemas dalam Table 3.6 — LHDN menyatakan butiran akan dikeluarkan pada masa yang sesuai dan penyatuan kekal dibenarkan sehingga pemberitahuan lanjut"
+  - "Sama ada pengecualian kasino dan mesin permainan daripada peraturan bayaran pertaruhan mempunyai tarikh tamat — LHDN menyatakan sehingga pemberitahuan selanjutnya"
 
 lang: "ms"
 masterLanguage: "en"

@@ -23,9 +23,9 @@ keyTakeaways:
 appliesTo: "Pembayar Malaysia yang memotong cukai ke atas pembayaran rentas sempadan, dan bukan pemastautin yang menuntut pelepasan perjanjian ke atas pendapatan bersumber Malaysia."
 
 verificationNeeded:
-  - "Several 'Effective from' dates precede the 'Treaty in force' date — Kuwait (effective 1 January 1988, in force 29 May 2007) and Sudan are the extreme cases. These reproduce LHDN's own published DTA table verbatim (confirmed against LHDN and PwC's Malaysian Tax Booklet); the anomaly is in the source, not a transcription error. Treat any single effective date as indicative and confirm it against the relevant gazette order before relying on it"
-  - "Footnote (iv) qualifying the Belgium interest rate as 15/10 and footnote (v) qualifying the technical fee column were not retrievable as text from the LHDN rate page — read them on the page itself before relying on either column for those cases"
-  - "Rates are the general treaty ceilings published by LHDN, not article-by-article rates. Several treaties reduce interest to nil for payments to a government, central bank or approved institution; check the relevant article before applying the table rate"
+  - "Beberapa tarikh 'Effective from' mendahului tarikh 'Treaty in force' — Kuwait (berkuat kuasa 1 January 1988, kuat kuasa 29 May 2007) dan Sudan adalah kes yang paling melampau. Ini mengeluarkan semula jadual DTA LHDN sendiri yang diterbitkan kata demi kata (disahkan terhadap LHDN dan Malaysian Tax Booklet PwC); anomali itu ada dalam sumber, bukan ralat transkripsi. Anggap mana-mana tarikh kuat kuasa tunggal sebagai indikatif dan sahkan terhadap perintah warta yang berkaitan sebelum bergantung padanya"
+  - "Nota kaki (iv) yang mensyaratkan kadar faedah Belgium sebagai 15/10 dan nota kaki (v) yang mensyaratkan lajur yuran teknikal tidak dapat diperoleh sebagai teks daripada halaman kadar LHDN — baca pada halaman itu sendiri sebelum bergantung pada mana-mana lajur bagi kes tersebut"
+  - "Kadar ialah siling perjanjian umum yang diterbitkan oleh LHDN, bukan kadar perkara demi perkara. Beberapa perjanjian mengurangkan faedah kepada sifar bagi bayaran kepada kerajaan, bank pusat atau institusi yang diluluskan; semak perkara yang berkaitan sebelum menggunakan kadar jadual"
 
 lang: "ms"
 masterLanguage: "en"

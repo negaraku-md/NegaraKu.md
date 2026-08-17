@@ -51,7 +51,7 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "The ~1.5-day sailing-time saving for the ECRL land bridge is a Kuantan Port estimate originally reported in a 2017 article; confirm the figure against current routing analysis."
+  - "Penjimatan masa pelayaran ~1.5 hari bagi jambatan darat ECRL ialah anggaran Pelabuhan Kuantan yang asalnya dilaporkan dalam artikel 2017; sahkan angka itu terhadap analisis penghalaan semasa."
 
 updated: 2026-08-14
 sources:

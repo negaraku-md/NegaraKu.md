@@ -39,10 +39,10 @@ faq:
     a: "Garis panduan secara khusus mengecualikan perdagangan, pembuatan, perkhidmatan telekomunikasi, perbankan digital, penyumberan luar bukan teknikal seperti pusat panggilan bernilai rendah, kemasukan data dan penyumberan luar proses pengambilan pekerja, serta rantaian bekalan untuk tembakau, alkohol dan perjudian. Perhatikan bahawa senarai kelayakan untuk Taraf MD lebih luas berbanding senarai kelayakan untuk insentif cukai."
 
 verificationNeeded:
-  - "The gazetted subsidiary legislation for the current MD Tax Incentive could not be located on lom.agc.gov.my or hasil.gov.my. The guidelines state the reduced rate is granted under s.65B and the allowance under s.127(3)(b) of the Income Tax Act 1967 and refer to the subsidiary legislation in the future tense — do not cite a P.U.(A) number for the MD incentive until one is confirmed."
-  - "Confirm the current list of designated MD Cybercities and Cybercentres, and how existing designations map onto the MD Hub, MD Nexus and MD Tech Zone categories under MD Location Recognition"
-  - "Confirm whether the MD Tax Incentive application window closing 31 December 2027 has been extended"
-  - "DESAC (the Digital Ecosystem Acceleration Scheme) is published by MIDA, not MDEC, and is not listed on MDEC's Malaysia Digital incentives page — confirm the relationship between DESAC and the MD Tax Incentive before treating them as alternatives"
+  - "Perundangan subsidiari yang diwartakan untuk MD Tax Incentive semasa tidak dapat ditemui di lom.agc.gov.my atau hasil.gov.my. Garis panduan menyatakan kadar dikurangkan diberikan di bawah s.65B dan elaun di bawah s.127(3)(b) Income Tax Act 1967 serta merujuk kepada perundangan subsidiari dalam bentuk masa hadapan — jangan memetik sebarang nombor P.U.(A) untuk insentif MD sehingga satu disahkan."
+  - "Sahkan senarai semasa MD Cybercities dan Cybercentres yang ditetapkan, dan cara penetapan sedia ada dipetakan ke kategori MD Hub, MD Nexus dan MD Tech Zone di bawah MD Location Recognition"
+  - "Sahkan sama ada tempoh permohonan MD Tax Incentive yang ditutup pada 31 December 2027 telah dilanjutkan"
+  - "DESAC (Digital Ecosystem Acceleration Scheme) diterbitkan oleh MIDA, bukan MDEC, dan tidak disenaraikan pada halaman insentif Malaysia Digital MDEC — sahkan hubungan antara DESAC dengan MD Tax Incentive sebelum menganggapnya sebagai alternatif"
 
 obligations:
   - what: "Meet the MD Status post-award conditions"

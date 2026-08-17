@@ -38,11 +38,11 @@ faq:
     a: "LHDN menyatakan ia akan mematuhi OECD Transitional Penalty Relief, yang di bawahnya tiada penalti dikenakan ke atas GloBE Information Return yang difailkan semasa tempoh peralihan sekiranya pihak pentadbir menganggap kumpulan itu telah mengambil langkah munasabah dan bertindak dengan suci hati. Kelonggaran itu bersifat peralihan dan bersyarat, bukan pengecualian daripada pemfailan."
 
 verificationNeeded:
-  - "Whether Malaysia requires a separate GMT registration or notification, and its deadline — neither the Domestic Top-up Tax guidelines of 3 February 2026 nor FAQ version 7.0 sets one out"
-  - "The prescribed form number and format for the Top-up Tax Return — LHDN states guidance notes will be issued in due time, since the first return is not expected before 2027"
-  - "The specific penalty provisions and amounts in Chapter 17 of Part XI of the ITA 1967"
-  - "The scope and status of any Malaysian incentive redesigned in response to the global minimum tax, including any strategic investment tax credit"
-  - "Whether Malaysia's Domestic Top-up Tax has been confirmed as holding OECD qualified status under the transitional qualification mechanism"
+  - "Sama ada Malaysia menghendaki pendaftaran atau notifikasi GMT yang berasingan, dan tarikh akhirnya — baik garis panduan Domestic Top-up Tax bertarikh 3 Februari 2026 mahupun FAQ versi 7.0 tidak menetapkannya"
+  - "Nombor borang preskripsi dan format bagi Top-up Tax Return — LHDN menyatakan nota panduan akan dikeluarkan pada masa yang sesuai, memandangkan penyata pertama tidak dijangka sebelum 2027"
+  - "Peruntukan penalti dan jumlah tertentu dalam Chapter 17 of Part XI ITA 1967"
+  - "Skop dan status mana-mana insentif Malaysia yang direka bentuk semula sebagai tindak balas kepada cukai minimum global, termasuk mana-mana kredit cukai pelaburan strategik"
+  - "Sama ada Domestic Top-up Tax Malaysia telah disahkan memegang status kelayakan OECD di bawah mekanisme kelayakan peralihan"
 
 obligations:
   - what: "File the Top-up Tax Return for each Malaysian constituent entity"

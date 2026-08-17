@@ -33,8 +33,8 @@ faq:
     a: "Ya. Kewajipan itu terletak pada pembayar tanpa mengira apa yang dinyatakan dalam kontrak. Apabila pembayar menanggung cukai itu secara kontraktual, LHDN mengesahkan dalam Ruling Awam 10/2019 bahawa berkuat kuasa 5 Disember 2018, cukai s.109B dikira atas jumlah kasar yang dibayar, tanpa pengkasaran semula (regrossing) — tetapi cukai yang ditanggung oleh pembayar tidak boleh ditolak dalam akaunnya sendiri."
 
 verificationNeeded:
-  - "Form CP107D and its appendix CP107D(1) for the s.107D 2 per cent deduction could not be retrieved from any live hasil.gov.my path — the rate, threshold and remittance rule below come from the Act itself, not from the form"
-  - "Treaty rates for specific countries are not reproduced here — check each agreement on the LHDN DTA page, as reduced rates vary by article and by country"
+  - "Form CP107D dan lampirannya CP107D(1) bagi potongan 2 peratus s.107D tidak dapat diperoleh daripada mana-mana laluan hasil.gov.my langsung — kadar, ambang dan peraturan pengiriman di bawah datang daripada Akta itu sendiri, bukan daripada borang tersebut"
+  - "Kadar perjanjian bagi negara tertentu tidak dihasilkan semula di sini — semak setiap perjanjian di laman DTA LHDN, kerana kadar yang dikurangkan berbeza mengikut artikel dan mengikut negara"
 
 obligations:
   - what: "Remit withholding tax deducted from a payment to a non-resident"

@@ -14,8 +14,8 @@ contentType: "guide"
 answer: "Sebuah syarikat dorman dikecualikan daripada audit di bawah Panduan Amalan 10/2024 jika ia telah dorman sejak pemerbadanan, atau dorman sepanjang tahun kewangan semasa dan tahun kewangan sebelumnya. Dorman bermaksud syarikat tidak menjalankan sebarang perniagaan dan tiada transaksi perakaunan berlaku. Transaksi yang timbul daripada obligasi yang dikehendaki oleh undang-undang untuk dibayar oleh syarikat, dan kos pematuhan yang berkaitan, tidak mematahkan status dorman. Laluan ini berasingan daripada ambang hasil, aset dan pekerja."
 
 verificationNeeded:
-  - "Confirm with SSM whether the allotment of subscriber shares on incorporation is treated as breaking dormancy for a company relying on the dormant-since-incorporation limb"
-  - "Confirm SSM's treatment of bank charges and interest credited on a dormant company account — the directive excludes only obligations the company is legally required to pay"
+  - "Sahkan dengan SSM sama ada peruntukan saham pelanggan semasa pemerbadanan dianggap memecahkan status dorman bagi syarikat yang bergantung pada tuntutan dorman-sejak-pemerbadanan"
+  - "Sahkan layanan SSM terhadap caj bank dan faedah yang dikreditkan pada akaun syarikat dorman — arahan itu hanya mengecualikan obligasi yang syarikat diwajibkan membayar dari segi undang-undang"
 
 lang: "ms"
 masterLanguage: "en"

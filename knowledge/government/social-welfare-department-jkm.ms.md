@@ -43,12 +43,12 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Exact establishment month — JKM's own social media states April 1946, but confirm against an official JKM 'Sejarah/History' page before stating the month (1946 as the year is attested by Simple English Wikipedia)."
-  - "Current Director-General's name — a search surfaced a name from the KPWKM org chart, but DG appointments change; verify on kpwkm.gov.my or jkm.gov.my before naming, or keep the role generic."
-  - "Current income thresholds / B40 or PGK (Poverty Line Income) figures used in JKM means-testing — do not state a specific RM figure without confirming on an official JKM/DOSM source, as these are periodically revised."
-  - "Exact monthly amounts (RM) for each scheme (SARA, STR, Bantuan Am, BKK, BWE, BAP) — confirm current rates on jkm.gov.my before publishing any ringgit figure."
-  - "OKU registration processing time (search suggested 5–14 working days) — not stated on the official malaysia.gov.my page reviewed; verify before asserting."
-  - "Full statutory stack beyond Act 685 (e.g. Child Act 2001 / Act 611, Care Centres Act 1993 / Act 506, Destitute Persons Act 1977 / Act 183) — confirm each on lom.agc.gov.my before citing JKM's enforcement role."
+  - "Bulan penubuhan yang tepat — media sosial JKM sendiri menyatakan April 1946, tetapi sahkan terhadap halaman 'Sejarah/History' JKM rasmi sebelum menyatakan bulan (1946 sebagai tahun disahkan oleh Simple English Wikipedia)."
+  - "Nama Ketua Pengarah semasa — carian menemui satu nama daripada carta organisasi KPWKM, tetapi pelantikan KP berubah; sahkan di kpwkm.gov.my atau jkm.gov.my sebelum menamakan, atau kekalkan peranan itu secara generik."
+  - "Ambang pendapatan semasa / angka B40 atau PGK (Pendapatan Garis Kemiskinan) yang digunakan dalam ujian kemampuan JKM — jangan nyatakan angka RM tertentu tanpa mengesahkannya pada sumber JKM/DOSM rasmi, kerana ini disemak semula secara berkala."
+  - "Amaun bulanan tepat (RM) bagi setiap skim (SARA, STR, Bantuan Am, BKK, BWE, BAP) — sahkan kadar semasa di jkm.gov.my sebelum menerbitkan sebarang angka ringgit."
+  - "Masa pemprosesan pendaftaran OKU (carian mencadangkan 5–14 hari bekerja) — tidak dinyatakan pada halaman rasmi malaysia.gov.my yang disemak; sahkan sebelum menegaskannya."
+  - "Susunan statutori penuh melangkaui Act 685 (cth. Child Act 2001 / Act 611, Care Centres Act 1993 / Act 506, Destitute Persons Act 1977 / Act 183) — sahkan setiap satu pada lom.agc.gov.my sebelum memetik peranan penguatkuasaan JKM."
 updated: 2026-08-14
 sources:
   - title: "Applying for Social Welfare Department (JKM) Aid"

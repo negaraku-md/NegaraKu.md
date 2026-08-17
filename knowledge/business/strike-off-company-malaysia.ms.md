@@ -36,9 +36,9 @@ faq:
     a: "Permohonan masih boleh dikemukakan. Perenggan 5(a) garis panduan itu membenarkannya apabila majoriti yang diperlukan tidak dapat diperoleh kerana seorang pemegang saham tidak dapat dikesan, dengan syarat percubaan telah dibuat melalui pos berdaftar ke alamat kediaman dalam rekod Pendaftar, dan bukti percubaan tersebut dilampirkan."
 
 verificationNeeded:
-  - "SSM publishes no service standard for the total elapsed time of a section 550 striking off — any month range should be treated as observed practice, not a published commitment"
-  - "Whether SSM has issued a further striking-off moratorium after the 16 April to 30 September 2025 window — none was found in the SSM legal framework library as at July 2026"
-  - "Whether the tax clearance practice referenced in paragraph 5(e) of the guidelines is now handled through a specific LHDN form or portal step should be confirmed with LHDN before relying on a stated turnaround"
+  - "SSM tidak menerbitkan sebarang piagam perkhidmatan untuk jumlah masa berlalu bagi pembatalan seksyen 550 — sebarang julat bulan harus dianggap sebagai amalan yang diperhatikan, bukan komitmen yang diterbitkan"
+  - "Sama ada SSM telah mengeluarkan moratorium pemotongan nama lanjut selepas tempoh 16 April hingga 30 September 2025 — tiada yang ditemui dalam perpustakaan rangka kerja perundangan SSM setakat Julai 2026"
+  - "Sama ada amalan pelepasan cukai yang dirujuk dalam perenggan 5(e) garis panduan kini dikendalikan melalui borang LHDN khusus atau langkah portal hendaklah disahkan dengan LHDN sebelum bergantung pada tempoh pusing ganti yang dinyatakan"
 
 obligations:
   - what: "Respond to the Registrar's notice of intention to strike off"

@@ -51,11 +51,11 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "The RM12 billion 2030 figure: MHTC's industry-overview page labels it a 'revenue goal', while Free Malaysia Today frames RM7 billion as the healthcare-traveller revenue target and RM10–12 billion as the broader economic-impact (multiplier) figure. Confirm which reading is authoritative."
+  - "Angka RM12 bilion 2030: halaman tinjauan industri MHTC melabelkannya sebagai 'matlamat hasil', manakala Free Malaysia Today merangka RM7 bilion sebagai sasaran hasil pelancong penjagaan kesihatan dan RM10–12 bilion sebagai angka kesan ekonomi (pengganda) yang lebih luas. Sahkan bacaan mana yang berautoriti."
   - "Whether MHTC's ~1.8 million 'annual' healthcare-traveller headline corresponds to a specific year (2025 or later)."
-  - "Indonesia as the single largest source market — asserted from industry reporting but not confirmed in the fetched primary sources."
-  - "Current exact count of MHTC member hospitals (cited as ~80; sources round the figure)."
-  - "2025 revenue of ~RM3.35 billion is provisional — confirm the finalised figure when MHTC publishes it."
+  - "Indonesia sebagai pasaran sumber tunggal terbesar — ditegaskan daripada laporan industri tetapi tidak disahkan dalam sumber primer yang diperoleh."
+  - "Kiraan tepat semasa hospital ahli MHTC (disebut sebagai ~80; sumber membundarkan angka)."
+  - "Hasil 2025 sebanyak ~RM3.35 bilion adalah sementara — sahkan angka muktamad apabila MHTC menerbitkannya."
 
 updated: 2026-07-28
 sources:

@@ -22,10 +22,10 @@ keyTakeaways:
 appliesTo: "Pentadbir payroll, pasukan HR, kakitangan kewangan dan setiausaha syarikat yang menguruskan payroll di Malaysia."
 
 verificationNeeded:
-  - "EPF late-payment dividend and penalty rates are not included — confirm the current charge against kwsp.gov.my before publishing a figure"
-  - "SOCSO Category 2 employee share and the full Third Schedule band tables are not reproduced here — read them from perkeso.gov.my"
-  - "Foreign worker levy rates and the multi-tier levy gazette status are outside this page and unverified"
-  - "Confirm the minimum interest charge for late SOCSO and EIS contributions against perkeso.gov.my"
+  - "Kadar dividen bayaran lewat dan penalti EPF tidak disertakan — sahkan caj semasa terhadap kwsp.gov.my sebelum menerbitkan sebarang angka"
+  - "Bahagian pekerja Kategori 2 SOCSO dan jadual jalur Third Schedule penuh tidak dihasilkan semula di sini — baca daripada perkeso.gov.my"
+  - "Kadar levi pekerja asing dan status warta levi berbilang peringkat berada di luar laman ini dan tidak disahkan"
+  - "Sahkan caj faedah minimum bagi caruman SOCSO dan EIS yang lewat terhadap perkeso.gov.my"
 
 obligations:
   - what: "Remit EPF contributions for the wage month"

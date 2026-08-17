@@ -45,10 +45,10 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Budget 2025 figures for MSPO support: the specific ringgit amounts (previously RM65m total / RM50m for certification / RM15m for anti-campaign work) were removed because no cited source substantiated them. Reconfirm against the official Budget 2025 documents or an MPOB/Ministry statement before restoring any figure."
-  - "The downstream licence-renewal claim (MPOB Licensing Enforcement Circular 02/2025, the MS2530-4-3:2022 standard reference, and a 1 January 2026 effective date) currently rests on a compliance-consultancy blog, not an MPOB primary source. Confirm the circular number, standard code and effective date against an official MPOB circular."
-  - "Reconcile the Minister's 'more than half a million smallholders' with the 210,891 figure for licensed independent smallholders — these appear to count different populations (all smallholders vs licensed independents)."
-  - "EU wording: the EEAS joint statement uses 'credible sustainability scheme'; the MSPO press release uses 'credible sustainability standard'. Confirm preferred phrasing."
+  - "Angka Budget 2025 bagi sokongan MSPO: amaun ringgit khusus (sebelum ini RM65j jumlah / RM50j untuk pensijilan / RM15j untuk kerja anti-kempen) telah dibuang kerana tiada sumber yang dipetik menyokongnya. Sahkan semula terhadap dokumen rasmi Budget 2025 atau kenyataan MPOB/Kementerian sebelum memulihkan sebarang angka."
+  - "Dakwaan pembaharuan lesen hiliran (MPOB Licensing Enforcement Circular 02/2025, rujukan piawai MS2530-4-3:2022, dan tarikh berkuat kuasa 1 Januari 2026) kini bergantung pada blog perundingan pematuhan, bukan sumber utama MPOB. Sahkan nombor pekeliling, kod piawai dan tarikh berkuat kuasa terhadap pekeliling rasmi MPOB."
+  - "Selaraskan 'lebih daripada setengah juta pekebun kecil' Menteri dengan angka 210,891 bagi pekebun kecil bebas berlesen — ini nampaknya mengira populasi yang berbeza (semua pekebun kecil berbanding pekebun bebas berlesen)."
+  - "Perkataan EU: kenyataan bersama EEAS menggunakan 'credible sustainability scheme'; kenyataan akhbar MSPO menggunakan 'credible sustainability standard'. Sahkan frasa yang diutamakan."
 revisions:
   - version: "01.00"
     date: 2026-07-28

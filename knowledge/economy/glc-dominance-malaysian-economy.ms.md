@@ -49,10 +49,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Exact as-at dates for the per-fund AUM figures (drawn from Deputy Finance Minister Steven Sim's written parliamentary answer; the RM451.3 billion equity holding is as at 30 Sep 2023, Khazanah's RM122.5 billion portfolio value is as at 31 Dec 2022, and the remaining AUM figures should be pinned to their reporting dates against the Hansard)."
-  - "Whether the per-fund 'share held in local listed equities' percentages (EPF 24.4%, PNB 74.4%, KWAP 45.2%, LTH 18.3%, LTAT 52%) remain current, and that they are read as share-of-fund-in-local-equities rather than domestic-allocation percentages."
-  - "The eight-GLIC framing: PERKUKUH is applied to six GLICs and the PCG historically listed five; confirm the current official enumeration before publication."
-  - "Follow-through on the 2025 GEAR-uP/GLIC pledges (RM120b DDI, RM100b market-cap growth, 7.5% returns, RM540b Bursa holdings, RM3,100 living wage for ~153,000 staff) against the latest MoF and GLIC disclosures."
+  - "Tarikh setakat sebenar untuk angka AUM setiap dana (diambil daripada jawapan parlimen bertulis Timbalan Menteri Kewangan Steven Sim; pegangan ekuiti RM451.3 bilion adalah setakat 30 Sep 2023, nilai portfolio Khazanah RM122.5 bilion adalah setakat 31 Dis 2022, dan angka AUM yang selebihnya harus dipadankan dengan tarikh pelaporannya terhadap Hansard)."
+  - "Sama ada peratusan 'share held in local listed equities' setiap dana (EPF 24.4%, PNB 74.4%, KWAP 45.2%, LTH 18.3%, LTAT 52%) kekal semasa, dan bahawa ia dibaca sebagai bahagian-dana-dalam-ekuiti-tempatan dan bukannya peratusan peruntukan-domestik."
+  - "Rangka lapan GLIC: PERKUKUH dikenakan kepada enam GLIC dan PCG dari segi sejarah menyenaraikan lima; sahkan penyenaraian rasmi semasa sebelum penerbitan."
+  - "Susulan terhadap ikrar GEAR-uP/GLIC 2025 (RM120b DDI, pertumbuhan permodalan pasaran RM100b, pulangan 7.5%, pegangan Bursa RM540b, gaji sara hidup RM3,100 untuk ~153,000 kakitangan) terhadap pendedahan MoF dan GLIC terkini."
 
 updated: 2026-08-08
 sources:

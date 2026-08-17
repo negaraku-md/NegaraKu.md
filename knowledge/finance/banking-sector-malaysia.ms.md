@@ -45,10 +45,10 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Exact institution counts (24 commercial, 16 Islamic, 1 international Islamic, 10 investment banks) against BNM's Financial Sector Participants Directory — these move over time with mergers, exits and new licences."
-  - "The precise FSA 2013 provisions that commenced after 30 June 2013 (per the AGC page, section 129 and Schedule 9) and the exact effective dates."
-  - "The full repeal lists in the FSA 2013 and IFSA 2013 schedules (BAFIA 1989, Insurance Act 1996, Payment Systems Act 2003, Exchange Control Act 1953; Islamic Banking Act 1983, Takaful Act 1984)."
-  - "The named lists of specific commercial banks, investment banks, DFIs and the single international Islamic bank (PT. Bank Muamalat Indonesia) against BNM's directory before formal use."
+  - "Bilangan institusi tepat (24 bank perdagangan, 16 bank Islam, 1 bank Islam antarabangsa, 10 bank pelaburan) terhadap Financial Sector Participants Directory BNM — angka ini berubah dari semasa ke semasa dengan penggabungan, penarikan diri dan lesen baharu."
+  - "Peruntukan FSA 2013 tepat yang berkuat kuasa selepas 30 Jun 2013 (menurut halaman AGC, section 129 dan Schedule 9) dan tarikh berkuat kuasa yang tepat."
+  - "Senarai pemansuhan penuh dalam jadual FSA 2013 dan IFSA 2013 (BAFIA 1989, Insurance Act 1996, Payment Systems Act 2003, Exchange Control Act 1953; Islamic Banking Act 1983, Takaful Act 1984)."
+  - "Senarai nama bank perdagangan tertentu, bank pelaburan, DFI dan bank Islam antarabangsa tunggal (PT. Bank Muamalat Indonesia) terhadap direktori BNM sebelum penggunaan formal."
 revisions:
   - version: "01.00"
     date: 2026-08-01

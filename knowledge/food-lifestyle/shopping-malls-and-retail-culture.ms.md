@@ -47,8 +47,8 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "1 Utama NLA (~2.19M sq ft) — The Edge Malaysia figure is a media report, not the owner's disclosure; confirm the current figure."
-  - "Retail/wholesale figures (RM1.77T total, retail +6.1% to RM764.9B for 2024; RM150.1B Oct 2024, +5.5% YoY) — confirm against the latest DOSM release."
+  - "NLA 1 Utama (~2.19J kaki persegi) — angka The Edge Malaysia ialah laporan media, bukan pendedahan pemilik; sahkan angka semasa."
+  - "Angka runcit/borong (jumlah RM1.77T, runcit +6.1% kepada RM764.9B bagi 2024; RM150.1B Oktober 2024, +5.5% tahun ke tahun) — sahkan terhadap terbitan DOSM terkini."
 updated: 2026-08-01
 sources:
   - title: "IOI City Mall, Putrajaya — largest regional mall in Malaysia"

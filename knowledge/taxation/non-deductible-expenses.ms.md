@@ -38,9 +38,9 @@ faq:
     a: "Ya. Subseksyen 39(1A) memperuntukkan bahawa apabila seseorang dikehendaki di bawah s.81 mengemukakan maklumat dalam tempoh masa yang dinyatakan dalam notis, dan maklumat itu berkaitan dengan potongan yang dituntut, tiada potongan dibenarkan jika maklumat itu tidak dikemukakan dalam tempoh masa itu atau sebarang lanjutan yang dibenarkan oleh Ketua Pengarah."
 
 verificationNeeded:
-  - "The percentages disallowed by the Income Tax (Deductions Not Allowed for Payment Made to Labuan Company by Resident) Rules 2018 [P.U.(A) 375-2018] as amended — the gazette text could not be retrieved from an official source, so no figure is published here"
-  - "Whether the s.39(1)(r) exemption in P.U.(A) 425-2021 has been extended beyond YA2025 — Labuan FSA circular 269/2021 states the effective period as YA2019 to YA2025 and no extension order was located"
-  - "Whether paragraphs 39(1)(o) and 39(1)(p), which refer to the Goods and Services Tax Act 2014, remain operative following the repeal of that Act"
+  - "Peratusan yang tidak dibenarkan oleh Income Tax (Deductions Not Allowed for Payment Made to Labuan Company by Resident) Rules 2018 [P.U.(A) 375-2018] sebagaimana dipinda — teks warta tidak dapat diperoleh daripada sumber rasmi, jadi tiada angka diterbitkan di sini"
+  - "Sama ada pengecualian s.39(1)(r) dalam P.U.(A) 425-2021 telah dilanjutkan melebihi YA2025 — pekeliling Labuan FSA 269/2021 menyatakan tempoh berkuat kuasa sebagai YA2019 hingga YA2025 dan tiada perintah lanjutan ditemui"
+  - "Sama ada perenggan 39(1)(o) dan 39(1)(p), yang merujuk kepada Goods and Services Tax Act 2014, kekal beroperasi berikutan pemansuhan Akta tersebut"
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"

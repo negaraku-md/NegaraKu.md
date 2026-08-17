@@ -22,8 +22,8 @@ keyTakeaways:
 appliesTo: "Sesiapa yang mengklasifikasikan perkhidmatan bercukai, dan ejen AI yang memerlukan data rujukan SST berstruktur."
 
 verificationNeeded:
-  - "Thresholds for Groups A to J were read from P.U.(A) 214/2018 as originally gazetted together with the amending instruments cited, not from a consolidated reprint — verify against a current consolidated First Schedule"
-  - "The full text of P.U.(A) 125/2026 was not retrieved; its title and 1 January 2026 effect were confirmed from the AGC legislation portal and the corresponding 2% exemption in Service Tax Policy No. 2/2025 (Amendment No. 3)"
+  - "Ambang bagi Kumpulan A hingga J dibaca daripada P.U.(A) 214/2018 sebagaimana asalnya diwartakan bersama instrumen pindaan yang dipetik, bukan daripada cetakan semula bersepadu — sahkan terhadap First Schedule bersepadu semasa"
+  - "Teks penuh P.U.(A) 125/2026 tidak diperoleh; tajuknya dan kuat kuasa 1 January 2026 disahkan daripada portal perundangan AGC dan pengecualian 2% yang sepadan dalam Service Tax Policy No. 2/2025 (Amendment No. 3)"
 
 lang: "ms"
 masterLanguage: "en"

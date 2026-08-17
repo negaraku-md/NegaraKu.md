@@ -22,7 +22,7 @@ keyTakeaways:
   - "Hanya seorang pasangan boleh membuat pilihan, dan hanya dalam penyata di bawah s.77(1)"
 
 verificationNeeded:
-  - "The illustrative break-even figures in this article are arithmetic on the published band table, not an LHDN-published threshold; they move with the reliefs each couple actually claims"
+  - "Angka pulang modal ilustratif dalam artikel ini ialah aritmetik pada jadual banjaran yang diterbitkan, bukan ambang yang diterbitkan LHDN; ia berubah mengikut pelepasan yang sebenarnya dituntut oleh setiap pasangan"
 
 lang: "ms"
 masterLanguage: "en"

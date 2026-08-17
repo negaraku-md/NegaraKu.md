@@ -48,11 +48,11 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Kelantan Dec 2024 JAHEIK hotel-alcohol directive: confirm current status, scope, and whether it is a formal order or advisory (sourced to news media, not an official gazette)."
-  - "Customs minimum-absence periods (72h general / 48h Langkawi / 24h Labuan): the CAAM AIP still lists these, but a cited consumer source notes current JKDM published tables may omit them — confirm the live position with the Royal Malaysian Customs Department (RMCD)."
-  - "Licence categories (retail / wholesale / public house) and associated fees: currently rest on industry guidance; confirm with the relevant local authority and RMCD."
-  - "Tioman and Pangkor duty-free status and the Budget 2021 tobacco taxation change: currently rest on consumer guidance; confirm with RMCD."
-  - "Compounded hard liquor 700 ml minimum-bottle rule and the RM10,000 / RM5,000 / two-year penalty figures: confirm against the gazetted Food (Amendment) Regulations 2016 text."
+  - "Arahan alkohol-hotel JAHEIK Kelantan Dis 2024: sahkan status semasa, skop, dan sama ada ia perintah formal atau nasihat (bersumberkan media berita, bukan warta rasmi)."
+  - "Tempoh ketiadaan minimum Kastam (72j umum / 48j Langkawi / 24j Labuan): AIP CAAM masih menyenaraikannya, tetapi sumber pengguna yang dipetik menyatakan jadual JKDM yang diterbitkan semasa mungkin meninggalkannya — sahkan kedudukan langsung dengan Royal Malaysian Customs Department (RMCD)."
+  - "Kategori lesen (runcit / borong / rumah awam) dan yuran berkaitan: kini bergantung pada panduan industri; sahkan dengan pihak berkuasa tempatan yang berkaitan dan RMCD."
+  - "Status bebas cukai Tioman dan Pangkor serta perubahan percukaian tembakau Budget 2021: buat masa ini bergantung pada panduan pengguna; sahkan dengan RMCD."
+  - "Peraturan botol minimum 700 ml arak keras terkompaun dan angka penalti RM10,000 / RM5,000 / dua tahun: sahkan terhadap teks Food (Amendment) Regulations 2016 yang diwartakan."
 
 updated: 2026-08-01
 sources:

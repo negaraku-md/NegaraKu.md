@@ -42,12 +42,12 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Exact 'normal' vs 'late' birth-registration day thresholds (sources conflate 14, 42 and 60 days) — verify against JPN's birth core-business pages for Peninsular/Sabah/Sarawak separately, as thresholds and penalties differ by region."
-  - "Mandatory MyKad re-registration at age 18 and the exact free window (commonly cited as ages 18–25 under National Registration Regulations 1990 Reg. 18) — confirm on the JPN 'replacement at 18' service page."
-  - "Full fee-exemption list for lost-IC replacement (senior citizens 60+, disabled, robbery/snatch victims, natural-disaster victims, under-18) — verify on the JPN fee schedule or an official circular."
-  - "Current Director-General of JPN and total number of branches / UTC counters nationwide."
-  - "Whether the 12th NRIC digit strictly encodes gender by parity (odd male, even female) or functions as a check/serial digit — confirm via an official JPN NRIC-format reference."
-  - "MEKAR programme scope and current status (mobile registration outreach) — confirm on JPN's MEKAR page."
+  - "Ambang hari pendaftaran kelahiran 'biasa' berbanding 'lewat' yang tepat (sumber mengelirukan 14, 42 dan 60 hari) — sahkan terhadap halaman teras kelahiran JPN bagi Semenanjung/Sabah/Sarawak secara berasingan, kerana ambang dan penalti berbeza mengikut wilayah."
+  - "Pendaftaran semula MyKad mandatori pada umur 18 dan tempoh percuma tepat (biasanya dipetik sebagai umur 18–25 di bawah National Registration Regulations 1990 Reg. 18) — sahkan pada laman perkhidmatan 'penggantian pada 18' JPN."
+  - "Senarai penuh pengecualian yuran bagi penggantian IC yang hilang (warga emas 60+, orang kurang upaya, mangsa rompakan/ragut, mangsa bencana alam, bawah 18 tahun) — sahkan pada jadual yuran JPN atau pekeliling rasmi."
+  - "Ketua Pengarah JPN semasa dan jumlah bilangan cawangan / kaunter UTC di seluruh negara."
+  - "Sama ada digit ke-12 NRIC mengekod jantina secara ketat melalui pariti (ganjil lelaki, genap perempuan) atau berfungsi sebagai digit semak/siri — sahkan melalui rujukan format NRIC JPN yang rasmi."
+  - "Skop dan status semasa program MEKAR (jangkauan pendaftaran bergerak) — sahkan di laman MEKAR JPN."
 updated: 2026-08-14
 sources:
   - title: "Portal Jabatan Pendaftaran Negara – Rakyat Di Hati JPN"

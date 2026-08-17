@@ -39,7 +39,7 @@ faq:
     a: "Berdasarkan kenyataan Kementerian Pengangkutan pada 29 Januari 2026, penyiapan pembinaan Fasa 1 disasarkan pada Disember 2026 dengan perkhidmatan penumpang komersial dari Januari 2027. Fasa 2 dari Gombak ke Pelabuhan Klang menyasarkan penyiapan pembinaan pada Disember 2027 dan operasi dari Januari 2028. Kemajuan ialah 90.81 peratus pada Disember 2025."
 
 verificationNeeded:
-  - "Any 2025 or 2026 official target for Kuantan New Deep Water Terminal Phase 2. As of April 2025 Phase 2 remained in planning; the only firm dated milestone found is contractual (completion by December 2039 to secure a concession extension to 2075), not a near-term start or completion target."
+  - "Sebarang sasaran rasmi 2025 atau 2026 bagi Kuantan New Deep Water Terminal Phase 2. Setakat April 2025 Fasa 2 masih dalam peringkat perancangan; satu-satunya pencapaian bertarikh yang tetap ditemui adalah kontraktual (siap menjelang Disember 2039 untuk mendapatkan lanjutan konsesi hingga 2075), bukan sasaran permulaan atau penyiapan jangka dekat."
 
 lang: "ms"
 masterLanguage: "en"

@@ -35,7 +35,7 @@ faq:
     a: "Ya. Di bawah s.24(8), jumlah potongan dalam mana-mana satu bulan tidak boleh melebihi 50% daripada gaji bulan itu. Had ini tidak terpakai kepada ganti rugi s.13(1), potongan bayaran akhir semasa penamatan, atau bayaran balik pinjaman perumahan, yang dengan kebenaran bertulis Ketua Pengarah boleh mencapai tambahan 25% lagi."
 
 verificationNeeded:
-  - "Monitor gajiminimum.mohr.gov.my for the outcome of the announced review of the Minimum Wages Order 2024 and any 2026 or 2027 Order"
+  - "Pantau gajiminimum.mohr.gov.my untuk hasil semakan yang diumumkan terhadap Minimum Wages Order 2024 dan sebarang Perintah 2026 atau 2027"
 
 obligations:
   - what: "Pay at least the gazetted minimum wage of RM1,700 a month"

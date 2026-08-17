@@ -23,9 +23,9 @@ keyTakeaways:
 appliesTo: "Syarikat baharu yang sedang memilih alamat, dan syarikat yang menggunakan alamat setiausaha syarikat atau penyedia pejabat maya."
 
 verificationNeeded:
-  - "Confirm the current KPDN requirement for physical business premises in a WRT / distributive trade application against the Guidelines on Foreign Participation in the Distributive Trade Services"
-  - "Local authority premise licence (lesen premis) requirements vary by council — confirm with the specific PBT rather than assuming a national rule"
-  - "Confirm whether LHDN and the banks currently accept a company secretary's or virtual office address as a correspondence address for their own onboarding purposes"
+  - "Sahkan keperluan KPDN semasa untuk premis perniagaan fizikal dalam permohonan WRT / perdagangan pengedaran terhadap Guidelines on Foreign Participation in the Distributive Trade Services"
+  - "Keperluan lesen premis pihak berkuasa tempatan (lesen premis) berbeza mengikut majlis — sahkan dengan PBT tertentu dan bukannya mengandaikan peraturan kebangsaan"
+  - "Sahkan sama ada LHDN dan bank-bank pada masa ini menerima alamat setiausaha syarikat atau alamat pejabat maya sebagai alamat surat-menyurat bagi tujuan onboarding mereka sendiri"
 
 obligations:
   - what: "Maintain a registered office in Malaysia, open and accessible to the public during ordinary business hours"

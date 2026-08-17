@@ -23,8 +23,8 @@ keyTakeaways:
 appliesTo: "Pembayar di Malaysia yang mengirim cukai pegangan kepada LHDN, serta kakitangan kewangan yang menyediakan borang-borang tersebut."
 
 verificationNeeded:
-  - "LHDN's Withholding Tax page states that payment forms and supporting documents need not be submitted and should be retained, while Public Ruling 10/2019 para 13.1 requires CP37D to be completed and submitted with invoice copies and remittance evidence, and para 18.1(a) requires a certificate of residence to be submitted with CP37D. The two have not been reconciled in any document retrieved — confirm current practice with the Revenue Management Centre before relying on either"
-  - "Form CP107D and its appendix CP107D(1) for the s.107D 2 per cent deduction, and Form CP154 for non-resident public entertainers, could not be retrieved from any live hasil.gov.my path"
+  - "Laman Withholding Tax LHDN menyatakan bahawa borang pembayaran dan dokumen sokongan tidak perlu diserahkan dan hendaklah disimpan, manakala Public Ruling 10/2019 perenggan 13.1 menghendaki CP37D dilengkapkan dan diserahkan dengan salinan invois dan bukti kiriman wang, dan perenggan 18.1(a) menghendaki sijil pemastautin diserahkan dengan CP37D. Kedua-duanya belum diselaraskan dalam mana-mana dokumen yang diperoleh — sahkan amalan semasa dengan Pusat Pengurusan Hasil sebelum bergantung pada mana-mana satu"
+  - "Borang CP107D dan lampirannya CP107D(1) bagi potongan 2 peratus s.107D, dan Borang CP154 bagi penghibur awam bukan pemastautin, tidak dapat diperoleh daripada mana-mana laluan hasil.gov.my langsung"
 
 obligations:
   - what: "Remit withholding tax with the correct CP37-series form and a generated bill number"

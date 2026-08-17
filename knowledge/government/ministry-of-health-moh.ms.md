@@ -42,13 +42,13 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Exact current number of Klinik Kesihatan and Community Clinics (KKom) — a snippet cited ~1,100 klinik kesihatan and 228 KKom as of 31 Dec 2023; confirm against MOH Health Facts 2023 (the official PDF returns HTTP 403 to automated fetch)."
-  - "Current Deputy Minister(s) of Health — confirm identity, spelling and number against the moh.gov.my staff directory."
+  - "Bilangan tepat semasa Klinik Kesihatan dan Klinik Komuniti (KKom) — satu petikan memetik ~1,100 klinik kesihatan dan 228 KKom setakat 31 Dis 2023; sahkan terhadap MOH Health Facts 2023 (PDF rasmi memulangkan HTTP 403 kepada perolehan automatik)."
+  - "Timbalan Menteri Kesihatan semasa — sahkan identiti, ejaan dan bilangan terhadap direktori kakitangan moh.gov.my."
   - "Total MOH workforce headcount — Wikipedia cites 267,578 (2020); confirm the latest official figure."
-  - "Whether the RM1 outpatient fee and RM500 third-class ward cap are still current (the BMC case study is from 2012); confirm against the current Fees (Medical) Order under the Fees Act 1951."
-  - "Formal establishment year of the ministry as a distinct federal ministry — reconcile the 1963 renaming against the continuity described from 1956–1962, using the official 'Brief History' page."
-  - "Latest official counts of dental clinics and community/1Malaysia clinics from Health Facts."
-  - "Life expectancy and doctor-to-population ratio from the latest MOH Health Facts / DOSM for context."
+  - "Sama ada yuran pesakit luar RM1 dan had wad kelas ketiga RM500 masih semasa (kajian kes BMC adalah dari 2012); sahkan terhadap Fees (Medical) Order semasa di bawah Fees Act 1951."
+  - "Tahun penubuhan formal kementerian sebagai kementerian persekutuan yang tersendiri — selaraskan penamaan semula 1963 terhadap kesinambungan yang diterangkan dari 1956–1962, menggunakan halaman 'Brief History' rasmi."
+  - "Kiraan rasmi terkini klinik pergigian dan klinik komuniti/1Malaysia daripada Health Facts."
+  - "Jangka hayat dan nisbah doktor kepada populasi daripada MOH Health Facts / DOSM terkini bagi konteks."
 updated: 2026-08-14
 sources:
   - title: "Ministry of Health (Malaysia)"

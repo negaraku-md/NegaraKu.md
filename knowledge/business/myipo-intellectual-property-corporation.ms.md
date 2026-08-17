@@ -42,9 +42,9 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Exact current patent official fee schedule (search summaries cite ~RM500 online filing plus separate examination fees / ~RM1,390 all-in) — confirm each line item against MyIPO's official Patent Forms and Fees page before stating a total"
-  - "Latest annual IP application/registration statistics (trademark and patent filings per year) from MyIPO's Statistic page for a current scale figure"
-  - "Current headcount of registered GIs beyond the 127 figure (as of December 2024) if a newer number is published"
+  - "Jadual yuran rasmi paten semasa yang tepat (ringkasan carian memetik ~RM500 pemfailan dalam talian ditambah yuran pemeriksaan berasingan / ~RM1,390 keseluruhan) — sahkan setiap butiran terhadap laman rasmi Patent Forms and Fees MyIPO sebelum menyatakan jumlah"
+  - "Statistik permohonan/pendaftaran IP tahunan terkini (pemfailan cap dagangan dan paten setiap tahun) daripada halaman Statistik MyIPO bagi angka skala semasa"
+  - "Bilangan semasa GI berdaftar melebihi angka 127 (setakat Disember 2024) jika angka yang lebih baharu diterbitkan"
 updated: 2026-08-14
 sources:
   - title: "Ministry of Domestic Trade and Cost of Living (KPDN) — official site"

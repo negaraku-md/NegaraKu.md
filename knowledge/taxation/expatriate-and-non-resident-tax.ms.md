@@ -36,9 +36,9 @@ faq:
     a: "15% ke atas pendapatan boleh cukai, di bawah Jadual 1 Bahagian XIV, bagi seorang individu yang merupakan pekerja pengetahuan yang bermastautin di suatu kawasan yang ditetapkan dan menjalankan pekerjaan dengan seseorang yang menjalankan aktiviti layak di sana. Definisi pekerja pengetahuan, aktiviti layak dan kawasan yang ditetapkan ditetapkan oleh peraturan Menteri. Individu Returning Expert Programme yang diluluskan mendapat 15% yang sama di bawah Bahagian XV."
 
 verificationNeeded:
-  - "The Ministerial rules defining knowledge worker, qualified activity and specified region under Schedule 1 Part XIV were not retrieved — the widely quoted Iskandar Malaysia designation and the P.U.(A) instrument number should be confirmed against the gazette before publication"
-  - "The number of years of assessment for which the Returning Expert Programme 15% rate runs is set by Ministerial rules and was not verified; Schedule 1 Part XV refers only to a specified year of assessment"
-  - "Schedule 1 Part XVIII caps the rate for a resident non-citizen in a key position under an approved incentive scheme at not more than 20% — the applicable rate is prescribed scheme by scheme and was not verified"
+  - "Peraturan Menteri yang mentakrifkan pekerja berpengetahuan, aktiviti layak dan kawasan ditentukan di bawah Schedule 1 Part XIV tidak diperoleh — penetapan Iskandar Malaysia yang meluas dipetik dan nombor instrumen P.U.(A) harus disahkan terhadap warta sebelum penerbitan"
+  - "Bilangan tahun taksiran yang mana kadar 15% Returning Expert Programme terpakai ditetapkan oleh peraturan Menteri dan tidak disahkan; Schedule 1 Part XV hanya merujuk kepada tahun taksiran yang dinyatakan"
+  - "Schedule 1 Part XVIII mengehadkan kadar bagi bukan warganegara pemastautin dalam jawatan utama di bawah skim insentif yang diluluskan pada tidak lebih daripada 20% — kadar terpakai ditetapkan skim demi skim dan tidak disahkan"
 
 lang: "ms"
 masterLanguage: "en"

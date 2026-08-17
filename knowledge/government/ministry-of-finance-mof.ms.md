@@ -42,12 +42,12 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Current officeholders change frequently — confirm the sitting Deputy Finance Minister(s) and exact appointment dates at publish time; state officeholders with an 'as of <date>' qualifier."
-  - "The MYR 46,981,917,800 (2026) figure is the ministry's own budget allocation, not the national federal budget — confirm framing and source it to the official 2026 Budget expenditure estimates before stating."
-  - "Exact current count of agencies/statutory bodies under MOF (portal says '14 major agencies', Wikipedia infobox lists 13) — reconcile against the portal's current 'Departments & Agencies' listing at publish time."
-  - "Employee headcount '30,735 (2022)' is dated — check for a newer figure before presenting as current."
-  - "Specific companies held by MOF Inc — verify each named holding against a primary/official source before listing (e.g. Petronas ownership is vested via the Petroleum Development Act, not simply 'owned by MOF Inc')."
-  - "Formation framing: history traces roots to the 1909 Federal Council and the 1951 Treasury Circular No. 15; the 31 August 1957 date is the modern-ministry date — present both rather than a single 'founded' date."
+  - "Pemegang jawatan semasa kerap berubah — sahkan Timbalan Menteri Kewangan yang sedang memegang jawatan dan tarikh pelantikan tepat pada masa penerbitan; nyatakan pemegang jawatan dengan penerang 'setakat <tarikh>'."
+  - "Angka MYR 46,981,917,800 (2026) ialah peruntukan belanjawan kementerian itu sendiri, bukan belanjawan persekutuan negara — sahkan pembingkaian dan sumberkannya kepada anggaran perbelanjaan Belanjawan 2026 rasmi sebelum menyatakan."
+  - "Kiraan semasa tepat agensi/badan berkanun di bawah MOF (portal menyatakan '14 agensi utama', kotak maklumat Wikipedia menyenaraikan 13) — selaraskan terhadap senarai 'Departments & Agencies' semasa portal pada masa penerbitan."
+  - "Bilangan pekerja '30,735 (2022)' sudah lapuk — semak untuk angka yang lebih baharu sebelum membentangkannya sebagai semasa."
+  - "Syarikat tertentu yang dipegang oleh MOF Inc — sahkan setiap pegangan yang dinamakan terhadap sumber utama/rasmi sebelum menyenaraikannya (cth. pemilikan Petronas terletak hak melalui Petroleum Development Act, bukan sekadar 'owned by MOF Inc')."
+  - "Rangka penubuhan: sejarah menjejaki akar kepada Majlis Persekutuan 1909 dan Pekeliling Perbendaharaan No. 15 tahun 1951; tarikh 31 August 1957 ialah tarikh kementerian moden — persembahkan kedua-duanya dan bukannya satu tarikh 'penubuhan'."
 updated: 2026-08-14
 sources:
   - title: "Ministry of Finance (Malaysia) — Wikipedia"

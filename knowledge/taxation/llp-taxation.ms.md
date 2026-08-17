@@ -23,8 +23,8 @@ keyTakeaways:
 appliesTo: "Profesional dan pemilik perniagaan yang sedang memilih antara LLP (PLT) dengan Sdn Bhd, serta pegawai pematuhan bagi LLP sedia ada."
 
 verificationNeeded:
-  - "The Minister's prescription under Schedule 1 Part XXIII paragraph 2, for computing an individual partner's chargeable income where the partner has other income sources — no gazette order was located"
-  - "The e-filing grace period as it applies specifically to Form PT — the 2026 filing programme table could not be read cell by cell"
+  - "Preskripsi Menteri di bawah Schedule 1 Part XXIII perenggan 2, bagi mengira pendapatan bercukai seorang rakan kongsi individu di mana rakan kongsi itu mempunyai sumber pendapatan lain — tiada perintah warta dapat dikesan"
+  - "Tempoh tangguh e-failan sebagaimana ia terpakai khusus kepada Borang PT — jadual program pemfailan 2026 tidak dapat dibaca sel demi sel"
 obligations:
   - what: "File the LLP income tax return (Form PT)"
     trigger: "financial-year-end"

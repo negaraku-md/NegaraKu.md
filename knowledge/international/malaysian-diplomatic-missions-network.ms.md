@@ -43,9 +43,9 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "The 111 missions / 85 countries figure and its full breakdown (66 embassies, 18 high commissions, 21 consulates general, 2 consulate offices, 2 UN permanent representatives, 1 ASEAN permanent representative, 1 Friendship and Trade Centre) were confirmed against the official Ministry of Foreign Affairs 'Malaysian Mission' page text via web search; the source page itself could not be machine-fetched due to a TLS certificate-chain error on kln.gov.my. A human should re-open the live MFA page and confirm the current numbers, which the ministry updates over time."
-  - "Whether a Certificate of Good Conduct is issued specifically through the online e-Consular system (rather than as a separate over-the-counter consular service) was not confirmed in a primary source and the claim was removed; confirm before re-adding."
-  - "Consular services vary by mission (a small consulate office may route passport processing to its supervising embassy); confirm scope per post before relying on it."
+  - "Angka 111 misi / 85 negara dan pecahan penuhnya (66 kedutaan, 18 suruhanjaya tinggi, 21 konsulat besar, 2 pejabat konsulat, 2 wakil tetap PBB, 1 wakil tetap ASEAN, 1 Pusat Persahabatan dan Perdagangan) disahkan terhadap teks halaman 'Malaysian Mission' Kementerian Luar Negeri rasmi melalui carian web; halaman sumber itu sendiri tidak dapat diambil mesin disebabkan ralat rantaian sijil TLS di kln.gov.my. Seorang manusia perlu membuka semula halaman MFA langsung dan mengesahkan nombor semasa, yang dikemas kini kementerian dari semasa ke semasa."
+  - "Sama ada Certificate of Good Conduct dikeluarkan khusus melalui sistem e-Consular dalam talian (dan bukan sebagai perkhidmatan konsular di kaunter yang berasingan) tidak disahkan dalam sumber utama dan tuntutan itu telah dibuang; sahkan sebelum menambahnya semula."
+  - "Perkhidmatan konsular berbeza mengikut misi (pejabat konsulat kecil mungkin menyalurkan pemprosesan pasport ke kedutaan penyelianya); sahkan skop bagi setiap wakil sebelum bergantung padanya."
 revisions:
   - version: "01.00"
     date: 2026-08-01

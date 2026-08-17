@@ -38,7 +38,7 @@ faq:
     a: "Tidak lebih daripada 70% kerugian terlaras syarikat penyerah bagi tempoh asas itu, dan tidak boleh melebihi pendapatan agregat yang ditakrifkan bagi syarikat penuntut. Ia hanya kerugian tahun semasa — kerugian yang dibawa ke hadapan tidak boleh diserahkan."
 
 verificationNeeded:
-  - "Confirm whether any Ministerial exemption under s.44(5D) has been granted in individual cases beyond the general YA2006 relaxation; only the general position is published"
+  - "Sahkan sama ada sebarang pengecualian Menteri di bawah s.44(5D) telah diberikan dalam kes individu di luar pelonggaran umum YA2006; hanya kedudukan umum yang diterbitkan"
 
 lang: "ms"
 masterLanguage: "en"

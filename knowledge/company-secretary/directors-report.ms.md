@@ -38,7 +38,7 @@ faq:
     a: "Seksyen 252(4) mendedahkan mana-mana pengarah yang gagal mengambil semua langkah munasabah untuk memastikan pematuhan s.252(1) kepada denda sehingga RM500,000 atau penjara sehingga satu tahun atau kedua-duanya. Seksyen 252(5) mengenakan denda ke atas syarikat dan setiap pegawai sehingga RM20,000 bagi pelanggaran keperluan kelulusan dan tandatangan dalam s.252(2). Seksyen 251(4) membawa RM500,000 atau satu tahun atau kedua-duanya bagi bahagian penyata kewangan."
 
 verificationNeeded:
-  - "Confirm whether the Registrar has prescribed any additional directors' report details under paragraph 1(p) of the Fifth Schedule, which permits any other details as determined by the Registrar"
+  - "Sahkan sama ada Pendaftar telah menetapkan sebarang butiran laporan pengarah tambahan di bawah perenggan 1(p) Jadual Kelima, yang membenarkan sebarang butiran lain sebagaimana ditentukan oleh Pendaftar"
 
 obligations:
   - what: "Prepare a directors' report for the financial year and attach it to the financial statements"

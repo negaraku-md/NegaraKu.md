@@ -47,8 +47,8 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Whether MITI's own headline tally counts the in-force network as 17 (core FTAs) or 19 (including TPS-OIC and D-8) at the time of human review."
-  - "The 'more than 90% of Malaysia's exports' duty-free coverage figure for MEEPA once it enters into force."
+  - "Sama ada tally utama MITI sendiri mengira rangkaian yang berkuat kuasa sebagai 17 (FTA teras) atau 19 (termasuk TPS-OIC dan D-8) pada masa semakan manusia."
+  - "Angka liputan bebas duti 'lebih daripada 90% eksport Malaysia' bagi MEEPA sebaik ia berkuat kuasa."
 updated: 2026-08-01
 sources:
   - title: "Free Trade Agreements (FTA)"

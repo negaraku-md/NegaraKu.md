@@ -42,12 +42,12 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "MyCEB labels the RM20.18 billion as 'Estimated Economic Impact' on its homepage, which also displays a separate, ambiguously labelled figure (1,656,942); confirm the intended label and value with MyCEB directly."
-  - "The Meetings Show London figures (6,625 delegates, RM116 million, 2017–2023) come from a MyCEB press release and were not re-fetched in this correction pass; confirm before relying on them."
-  - "MITEC's 12,530 sqm column-free area (per CIDB) sits within — not in addition to — the 52,000 sqm total exhibition space stated on MITEC's official site; confirm the relationship of the two figures."
-  - "Exhibition-space totals differ by source: MITEC's official site states 52,000 sqm, while CIDB describes 'one million square feet' (~92,900 sqm), likely gross floor area versus net exhibition space; confirm which basis applies."
-  - "MITEC's precise location descriptor (near Dutamas / KL Metropolis; the wider district is Segambut) should be confirmed against MITEC's own site; the cited CIDB source uses 'near Dutamas'."
-  - "All venue capacities and BCCK2 construction details are subject to change; confirm current published figures directly with each centre before publication."
+  - "MyCEB melabelkan RM20.18 bilion sebagai 'Estimated Economic Impact' pada halaman utamanya, yang juga memaparkan angka berasingan yang dilabel secara samar (1,656,942); sahkan label dan nilai yang dimaksudkan dengan MyCEB terus."
+  - "Angka Meetings Show London (6,625 perwakilan, RM116 juta, 2017–2023) berasal daripada kenyataan akhbar MyCEB dan tidak diperoleh semula dalam pusingan pembetulan ini; sahkan sebelum bergantung padanya."
+  - "Kawasan bebas tiang 12,530 meter persegi MITEC (menurut CIDB) terletak dalam — bukan sebagai tambahan kepada — jumlah ruang pameran 52,000 meter persegi yang dinyatakan di laman rasmi MITEC; sahkan hubungan kedua-dua angka."
+  - "Jumlah ruang pameran berbeza mengikut sumber: tapak rasmi MITEC menyatakan 52,000 meter persegi, manakala CIDB menerangkan 'satu juta kaki persegi' (~92,900 meter persegi), berkemungkinan keluasan lantai kasar berbanding ruang pameran bersih; sahkan asas yang mana terpakai."
+  - "Deskriptor lokasi tepat MITEC (berhampiran Dutamas / KL Metropolis; daerah yang lebih luas ialah Segambut) harus disahkan terhadap tapak MITEC sendiri; sumber CIDB yang dipetik menggunakan 'near Dutamas'."
+  - "Semua kapasiti tempat dan butiran pembinaan BCCK2 tertakluk kepada perubahan; sahkan angka terbitan semasa secara langsung dengan setiap pusat sebelum penerbitan."
 revisions:
   - version: "01.00"
     date: 2026-07-28

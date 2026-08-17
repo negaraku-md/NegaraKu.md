@@ -39,10 +39,10 @@ faq:
     a: "Tidak untuk pembuatan. MITI mengumumkan bahawa Rangka Kerja Insentif Baharu berkuat kuasa mulai 1 Mac 2026, bermula dengan sektor pembuatan, dan bahawa Kerajaan tidak lagi menerima permohonan insentif pembuatan baharu di bawah Akta Penggalakan Pelaburan 1986 — tarikh akhir terakhir ialah 28 Februari 2026. Syarikat yang telah diluluskan dan menikmati insentif PIA 1986 tidak terjejas dan kelulusan mereka kekal sah pada terma yang diluluskan."
 
 verificationNeeded:
-  - "The P.U.(A) number, date and gazette text of the exemption order under s.11 of the ICA 1975 — the AGC subsidiary legislation database returns only a licence revocation notification for Act 156, and MITI's own ICA page lists no exemption order"
-  - "The form number for a manufacturing licence application — MIDA publishes a guideline and an online portal link but no form number, so the ICA 1 designation in circulation is unconfirmed"
-  - "Whether the relaxation of the 80 per cent Malaysian workforce condition was extended beyond 31 December 2024"
-  - "Whether the ICA 10 confirmation letter supports bank facility applications — MIDA does not say so"
+  - "Nombor P.U.(A), tarikh dan teks warta perintah pengecualian di bawah s.11 ICA 1975 — pangkalan data perundangan subsidiari AGC mengembalikan hanya pemberitahuan pembatalan lesen bagi Act 156, dan halaman ICA MITI sendiri tidak menyenaraikan sebarang perintah pengecualian"
+  - "Nombor borang bagi permohonan lesen pembuatan — MIDA menerbitkan garis panduan dan pautan portal dalam talian tetapi tiada nombor borang, jadi gelaran ICA 1 yang beredar tidak disahkan"
+  - "Sama ada pelonggaran syarat 80 peratus tenaga kerja Malaysia telah dilanjutkan melebihi 31 Disember 2024"
+  - "Sama ada surat pengesahan ICA 10 menyokong permohonan kemudahan bank — MIDA tidak menyatakan sedemikian"
 
 lang: "ms"
 masterLanguage: "en"

@@ -32,8 +32,8 @@ faq:
     a: "Tidak setakat 23 Jun 2026, tarikh set data terkini yang diterbitkan oleh CBP, yang tidak mengandungi sebarang entri Malaysia. Lapan tindakan telah dikeluarkan terhadap pengeluar sarung tangan dan minyak sawit Malaysia antara 2019 dan 2022, dua daripadanya meningkat daripada withhold release order kepada Findings rasmi, dan semuanya sejak itu telah diubah suai atau dibatalkan. CBP menyatakan bahawa syarikat-syarikat telah membayar balik lebih 85 juta dolar AS dalam gaji yang ditahan."
 
 verificationNeeded:
-  - "Confirm whether the National Action Plan on Forced Labour 2026–2030 has received Cabinet approval — the 2021–2025 plan has lapsed and the successor was still in draft following the November 2025 review workshop"
-  - "Confirm how the words without lawful authority in s.12(1)(f) of the Passports Act 1966 are construed where a worker consents to employer safekeeping — no case law or AGC guidance on the point could be located"
+  - "Sahkan sama ada National Action Plan on Forced Labour 2026–2030 telah menerima kelulusan Kabinet — pelan 2021–2025 telah luput dan pelan pengganti masih dalam draf berikutan bengkel semakan November 2025"
+  - "Sahkan bagaimana perkataan without lawful authority dalam s.12(1)(f) Passports Act 1966 ditafsirkan apabila seseorang pekerja bersetuju dengan penyimpanan selamat oleh majikan — tiada duluan kes atau panduan AGC mengenai perkara itu dapat ditemui"
 
 lang: "ms"
 masterLanguage: "en"

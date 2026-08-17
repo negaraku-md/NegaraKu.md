@@ -45,10 +45,10 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Whether the 2025 spouse-route reform (3-year marriage + 1-year LTSVP, points test scrapped, ~6-month processing, rollout by end-September 2025) was actually implemented as announced; capture the current operative requirement directly from Immigration/MOHA."
-  - "The exact current Family Frontiers spouse PR document checklist length (stated here as about fourteen items)."
-  - "That the RM120 Entry Permit fee and the RM500/5-year Residence Pass fee are still current on the live imi.gov.my fee schedule."
-  - "That the points-based test was scrapped only for foreign spouses while a merit assessment still applies to other categories — confirm scope with a primary Immigration/MOHA source."
+  - "Sama ada pembaharuan laluan pasangan 2025 (perkahwinan 3 tahun + LTSVP 1 tahun, ujian mata dimansuhkan, pemprosesan ~6 bulan, pelaksanaan menjelang akhir September 2025) benar-benar dilaksanakan seperti yang diumumkan; rakam keperluan operatif semasa terus daripada Imigresen/MOHA."
+  - "Panjang senarai semak dokumen PR pasangan Family Frontiers semasa yang tepat (dinyatakan di sini sebagai kira-kira empat belas butiran)."
+  - "Bahawa yuran Entry Permit RM120 dan yuran Residence Pass RM500/5 tahun masih terkini pada jadual yuran aktif imi.gov.my."
+  - "Bahawa ujian berasaskan mata telah dimansuhkan hanya bagi pasangan asing manakala penilaian merit masih terpakai kepada kategori lain — sahkan skop dengan sumber primer Imigresen/MOHA."
 revisions:
   - version: "01.00"
     date: 2026-08-07

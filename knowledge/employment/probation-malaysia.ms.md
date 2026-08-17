@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Majikan yang menjalankan tempoh percubaan, dan pekerja dalam tempoh percubaan yang telah diberhentikan kerja."
 
 verificationNeeded:
-  - "Confirm the leading appellate authority on probationer dismissal and on deemed confirmation by conduct against reported judgments"
+  - "Sahkan autoriti rayuan utama mengenai pemecatan pekerja dalam percubaan dan pengesahan tersirat melalui kelakuan terhadap penghakiman yang dilaporkan"
 
 lang: "ms"
 masterLanguage: "en"

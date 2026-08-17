@@ -53,7 +53,7 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Neutrality: the sovereignty / non-AI-freeze framing is lightly interpretive; re-review tone if this article is ever reclassified above tier 1 or as sensitive."
+  - "Kesaksamaan: rangka kedaulatan / bukan-pembekuan-AI adalah tafsiran ringan; semak semula nada jika artikel ini pernah diklasifikasikan semula melebihi tier 1 atau sebagai sensitif."
 
 updated: 2026-08-14
 sources:

@@ -34,7 +34,7 @@ faq:
     a: "Majikan, pada amalannya. Di bawah s.33, orang yang bertanggungjawab ialah orang yang dinyatakan dalam Jadual Ketiga, dan bagi kontrak penggajian itu ialah orang yang menandatangani instrumen itu dahulu. LHDN menyatakan bahawa majikan biasanya menandatangani surat tawaran itu dahulu dan oleh itu adalah pihak yang bertanggungjawab terhadap duti tersebut."
 
 verificationNeeded:
-  - "LHDN's employment contract FAQ is dated 3 July 2025 and predates the Finance Act 2025 increase of the item 4 wage exemption to RM3,000 per month; LHDN has not reissued the FAQ to address how the raised threshold interacts with its stamping guidance, and that interaction should be confirmed before advising on contracts under RM3,000 a month"
+  - "FAQ kontrak pekerjaan LHDN bertarikh 3 Julai 2025 dan mendahului peningkatan Finance Act 2025 ke atas pengecualian upah item 4 kepada RM3,000 sebulan; LHDN tidak mengeluarkan semula FAQ itu untuk menangani cara ambang yang dinaikkan berinteraksi dengan panduan penyetemannya, dan interaksi itu perlu disahkan sebelum menasihati tentang kontrak di bawah RM3,000 sebulan"
 
 obligations:
   - what: "Menyetem kontrak penggajian"

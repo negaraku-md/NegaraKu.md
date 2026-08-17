@@ -40,10 +40,10 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"
 verificationNeeded:
-  - "Statutory quote is reproduced from the Attorney General's Chambers text of Laws of Malaysia Act 759 (IFSA 2013), Section 2; confirm no later amendment has altered the wording of the takaful definition."
-  - "All 2024 industry figures are Malaysian Takaful Association (MTA) figures as reported by Bernama; confirm against MTA's own annual release and/or Bank Negara Malaysia insurance and takaful statistics before publication."
-  - "The characterisation of riba, gharar and maisir as the concerns takaful is structured to address is a general description of Islamic commercial principles; confirm the phrasing against a neutral scholarly or regulatory source."
-  - "Confirm the current licensing status of any specific operator or insurer directly against Bank Negara Malaysia's list of regulated entities before consumers rely on it."
+  - "Petikan berkanun dikeluarkan semula daripada teks Attorney General's Chambers bagi Laws of Malaysia Act 759 (IFSA 2013), Section 2; sahkan tiada pindaan kemudian telah mengubah perkataan takrifan takaful."
+  - "Semua angka industri 2024 adalah angka Malaysian Takaful Association (MTA) sebagaimana dilaporkan oleh Bernama; sahkan terhadap siaran tahunan MTA sendiri dan/atau statistik insurans dan takaful Bank Negara Malaysia sebelum penerbitan."
+  - "Pencirian riba, gharar dan maisir sebagai kebimbangan yang distrukturkan oleh takaful untuk menanganinya ialah perihalan umum prinsip komersial Islam; sahkan susunan katanya terhadap sumber ilmiah atau pengawal selia yang neutral."
+  - "Sahkan status pelesenan semasa mana-mana pengendali atau penanggung insurans tertentu terus terhadap senarai entiti terkawal Bank Negara Malaysia sebelum pengguna bergantung padanya."
 revisions:
   - version: "01.00"
     date: 2026-08-01

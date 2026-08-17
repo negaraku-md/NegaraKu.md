@@ -49,10 +49,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Exact date of S&P's September 2025 rating action: the InvestMalaysia snapshot shows 'as of 20 September 2025', while The Edge reported the affirmation on 19 September 2025."
-  - "A dedicated Moody's or MoF press release confirming the 14 July 2026 A3 affirmation. Only the InvestMalaysia snapshot currently documents that date; the 3.8%/4.3% deficit figures, the Public Finance and Fiscal Responsibility Act 2023 attribution and the 'fastest-growing A-rated economy' line all derive from Moody's earlier 25 January 2025 affirmation."
-  - "Exact date of Fitch's December 2025 action: Xinhua reported the affirmation on 8 December 2025, while the InvestMalaysia snapshot shows 'as of 9 December 2025'."
-  - "The exact Moody's wording recognising the Public Finance and Fiscal Responsibility Act 2023 in the 25 January 2025 affirmation (a fact-checker query flagged this attribution; the MoF release text should be quoted verbatim by a human)."
+  - "Tarikh tepat tindakan penarafan S&P September 2025: petikan InvestMalaysia menunjukkan 'setakat 20 September 2025', manakala The Edge melaporkan pengesahan pada 19 September 2025."
+  - "Kenyataan akhbar khusus daripada Moody's atau MoF yang mengesahkan pengesahan A3 pada 14 Julai 2026. Hanya petikan InvestMalaysia kini mendokumentasikan tarikh tersebut; angka defisit 3.8%/4.3%, atribusi Public Finance and Fiscal Responsibility Act 2023 dan baris 'ekonomi berpangkat A yang paling pesat berkembang' semuanya berpunca daripada pengesahan Moody's yang lebih awal pada 25 Januari 2025."
+  - "Tarikh tepat tindakan Fitch pada Disember 2025: Xinhua melaporkan pengesahan pada 8 Disember 2025, manakala petikan InvestMalaysia menunjukkan 'as of 9 December 2025'."
+  - "Perkataan tepat Moody's yang mengiktiraf Public Finance and Fiscal Responsibility Act 2023 dalam pengesahan 25 January 2025 (pertanyaan penyemak fakta menandakan atribusi ini; teks siaran MoF hendaklah dipetik kata demi kata oleh manusia)."
 
 updated: 2026-08-08
 sources:

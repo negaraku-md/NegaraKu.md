@@ -52,9 +52,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Marriage-tribunal referral form number (cited as Form JPN.KC14) and the non-reconciliation certificate (cited as Form KC29) — attributed to a single secondary source; confirm current form names with JPN."
-  - "Number of in-person tribunal sessions and any nominal fees — set administratively by JPN and subject to change; confirm with the relevant JPN office."
-  - "Whether the JPN marriage tribunal is, in current practice, the default conciliatory body for a given locality (Section 106(2) allows any body acceptable to both parties)."
+  - "Nombor borang rujukan tribunal perkahwinan (dipetik sebagai Form JPN.KC14) dan sijil tidak damai (dipetik sebagai Form KC29) — dikaitkan dengan satu sumber sekunder tunggal; sahkan nama borang semasa dengan JPN."
+  - "Bilangan sesi tribunal bersemuka dan sebarang yuran nominal — ditetapkan secara pentadbiran oleh JPN dan tertakluk kepada perubahan; sahkan dengan pejabat JPN yang berkaitan."
+  - "Sama ada tribunal perkahwinan JPN, dalam amalan semasa, merupakan badan pendamaian lalai bagi sesuatu kawasan (Section 106(2) membenarkan mana-mana badan yang boleh diterima oleh kedua-dua pihak)."
 updated: 2026-08-07
 sources:
   - title: "Law Reform (Marriage and Divorce) Act 1976 (Act 164) — official reprint"

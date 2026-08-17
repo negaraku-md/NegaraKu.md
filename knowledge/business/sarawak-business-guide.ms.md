@@ -39,11 +39,11 @@ faq:
     a: "Kuasa, tanah dan akses pelabuhan. Sarawak mempunyai kira-kira 3,558 MW kapasiti hidro besar yang tersedia merentasi Batang Ai, Bakun dan Murum, dengan Baleh sedang dalam pembinaan. Beban melebihi 5 MW beralih daripada tarif yang diterbitkan kepada perjanjian pembelian kuasa yang dirunding yang diperihalkan oleh Sarawak Energy sebagai tersedia pada diskaun kepada tarif yang diterbitkan, dengan terma sehingga 20 tahun. MIDA menerbitkan tanah Samalaju dari RM2.50 setiap kaki persegi dengan diskaun 25 peratus untuk industri keutamaan. Tiada satu pun daripada itu ialah insentif cukai, dan tiada satu pun daripadanya boleh dituntut — ia dirunding."
 
 verificationNeeded:
-  - "The gazette notification under s.3 of the Regional Corridors Development Authorities Ordinance 2006 declaring SCORE, and the notification under s.4 constituting RECODA, could not be located on Sarawak LawNet. RECODA's existence is confirmed by its own site and by MIDA, but the constituting instrument number is not published."
-  - "Whether any state or RECODA-administered fiscal incentive exists for SCORE. MIDA acknowledges that incentives provided by RECODA exist but publishes none; RECODA describes only land, tariff and water terms. Assert neither existence nor absence."
-  - "The official list of administrative divisions comprising SCORE. RECODA describes the corridor by region and by growth node, and its own page gives two different node lists — one adding Limbang and Lawas to the five."
-  - "The name, duration and fee of any work pass required by a non-Sarawakian Malaysian citizen. The legal position under ss.65 and 66 is clear, but no official page names the instrument or its cost."
-  - "The LawNet consolidated text of the Sarawak Labour Ordinance Cap. 76 is current only to 31 July 2006 and must be read with Act A1754 rather than instead of it."
+  - "Notifikasi warta di bawah s.3 Regional Corridors Development Authorities Ordinance 2006 yang mengisytiharkan SCORE, dan notifikasi di bawah s.4 yang menubuhkan RECODA, tidak dapat dikesan di Sarawak LawNet. Kewujudan RECODA disahkan oleh lamannya sendiri dan oleh MIDA, tetapi nombor instrumen penubuhan tidak diterbitkan."
+  - "Sama ada sebarang insentif fiskal negeri atau yang ditadbir RECODA wujud bagi SCORE. MIDA mengakui bahawa insentif yang disediakan oleh RECODA wujud tetapi tidak menerbitkan sebarang; RECODA hanya menerangkan terma tanah, tarif dan air. Jangan tegaskan sama ada kewujudan mahupun ketiadaan."
+  - "Senarai rasmi bahagian pentadbiran yang membentuk SCORE. RECODA menerangkan koridor mengikut wilayah dan mengikut nod pertumbuhan, dan halamannya sendiri memberikan dua senarai nod yang berbeza — satu menambah Limbang dan Lawas kepada lima itu."
+  - "Nama, tempoh dan fi mana-mana pas kerja yang diperlukan oleh warganegara Malaysia bukan Sarawak. Kedudukan undang-undang di bawah ss.65 dan 66 adalah jelas, tetapi tiada halaman rasmi menamakan instrumen atau kosnya."
+  - "Teks disatukan LawNet bagi Sarawak Labour Ordinance Cap. 76 hanya terkini sehingga 31 July 2006 dan mesti dibaca bersama Act A1754 dan bukan menggantikannya."
 
 lang: "ms"
 masterLanguage: "en"

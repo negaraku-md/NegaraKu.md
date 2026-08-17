@@ -45,11 +45,11 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Whether a future merger-control regime is specifically tied to the 13th Malaysia Plan (2026-2030). This pass could not confirm the 13MP link against any citable source, so the attribution was softened to 'future legislation or subsidiary regulation'."
-  - "The 60% market-share figure cited as a general indicator of dominance under Section 10."
+  - "Sama ada rejim kawalan penggabungan masa hadapan secara khusus dikaitkan dengan Rancangan Malaysia Ke-13 (2026-2030). Pusingan ini tidak dapat mengesahkan pautan 13MP terhadap mana-mana sumber yang boleh dipetik, jadi atribusi itu dilembutkan kepada 'perundangan masa hadapan atau peraturan subsidiari'."
+  - "Angka bahagian pasaran 60% yang dipetik sebagai penunjuk umum penguasaan di bawah seksyen 10."
   - "The safe-harbour thresholds: 20% combined share (horizontal) and 25% per party (vertical)."
-  - "The poultry-feed case specifics: infringement period January 2020 to June 2022, the RM415.5 million penalty, and the Competition Appeal Tribunal's 11 February 2026 dismissal of the appeals."
-  - "The RM667.3 million / 270 companies aggregate is a point-in-time figure stated by Deputy Minister Fuziah Salleh for the period 2012 to July 2026; confirm it is current before republishing later."
+  - "Butiran khusus kes makanan ternakan ayam: tempoh pelanggaran January 2020 hingga June 2022, penalti RM415.5 juta, dan penolakan rayuan oleh Tribunal Rayuan Persaingan pada 11 February 2026."
+  - "Agregat RM667.3 juta / 270 syarikat ialah angka pada satu masa tertentu yang dinyatakan oleh Timbalan Menteri Fuziah Salleh bagi tempoh 2012 hingga Julai 2026; sahkan bahawa ia terkini sebelum menerbitkannya semula kemudian."
 revisions:
   - version: "01.00"
     date: 2026-08-07

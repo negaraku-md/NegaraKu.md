@@ -44,7 +44,7 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Whether a specific planned activity actually amounts to 'carrying on business' under section 561(3) for the entity in question."
+  - "Sama ada aktiviti terancang tertentu sebenarnya terjumlah kepada 'menjalankan perniagaan' di bawah section 561(3) bagi entiti berkenaan."
 revisions:
   - version: "01.00"
     date: 2026-08-07

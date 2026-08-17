@@ -29,8 +29,8 @@ faq:
     a: "Tidak. Seksyen 599(1) Akta Syarikat 2016 memberikan salinan atau petikan daripada dokumen yang difailkan dengan Pendaftar, yang disahkan sebagai salinan benar serta ditandatangani dan dimeteraikan oleh Pendaftar, kebolehterimaan sebagai keterangan dengan kesahan yang sama seperti dokumen asal. Taraf berkanun itu terpakai kepada pengesahan Pendaftar, bukan kepada pengesahan setiausaha syarikat."
 
 verificationNeeded:
-  - "Confirm the endorsement wording, process steps and effective date set out in the full text of the MAICSA Updated Best Practice — the document itself is member-gated and only the public announcement summary could be verified"
-  - "Confirm whether SSM has issued any practice directive or guideline on certification of documents by company secretaries — none was located on ssm.com.my"
+  - "Sahkan perkataan pengesahan, langkah proses dan tarikh berkuat kuasa yang ditetapkan dalam teks penuh MAICSA Updated Best Practice — dokumen itu sendiri terhad kepada ahli dan hanya ringkasan pengumuman awam dapat disahkan"
+  - "Sahkan sama ada SSM telah mengeluarkan sebarang arahan amalan atau garis panduan tentang pengesahan dokumen oleh setiausaha syarikat — tiada ditemui pada ssm.com.my"
 
 lang: "ms"
 masterLanguage: "en"

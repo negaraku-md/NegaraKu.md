@@ -36,10 +36,10 @@ faq:
     a: "Tidak. Akta Kerajaan Tempatan 1976 terpakai hanya kepada Semenanjung Malaysia. Sabah menjalankan Local Government Ordinance 1961, yang s.49(1)-nya membawa kuasa selari ke atas premis yang digunakan untuk perdagangan, perniagaan, industri atau profesion. Sarawak menjalankan Local Authorities Ordinance 1996 (Cap. 20), yang s.91(b)-nya ialah kuasa pengiklanan dan s.145 ialah analog kepada s.107. Di Kota Kinabalu, lesen perniagaan utama bukanlah lesen undang-undang kecil kerajaan tempatan sama sekali — ia ialah lesen perdagangan di bawah Trades Licensing Ordinance (Sabah Cap. 144)."
 
 verificationNeeded:
-  - "MBPJ premise and trade licence fee figures — MBPJ cross-references the Second Schedule to its Food Establishment By-Laws 2007 without reproducing the rates"
-  - "MBSA's licence validity term, renewal deadline and late-payment penalty, and DBKK's specific late-renewal penalty — these remain unpublished (DBKK's validity term itself is now fixed by Cap 144 s.6 to 31 December)"
-  - "Whether DBKK requires any fire department approval — no such requirement appears in its published lists, which is an absence of evidence rather than evidence of absence"
-  - "Whether SSM registration is formally required for Sabah sole proprietors — DBKK does not list it among the required documents"
+  - "Angka yuran lesen premis dan perdagangan MBPJ — MBPJ merujuk silang kepada Second Schedule to its Food Establishment By-Laws 2007 tanpa menerbitkan semula kadarnya"
+  - "Tempoh sah lesen MBSA, tarikh akhir pembaharuan dan penalti bayaran lewat, serta penalti pembaharuan lewat khusus DBKK — ini masih tidak diterbitkan (tempoh sah DBKK sendiri kini ditetapkan oleh Cap 144 s.6 kepada 31 Disember)"
+  - "Sama ada DBKK memerlukan sebarang kelulusan jabatan bomba — tiada keperluan sedemikian muncul dalam senarai terbitannya, yang merupakan ketiadaan bukti dan bukannya bukti ketiadaan"
+  - "Sama ada pendaftaran SSM secara formal diperlukan untuk pemilik tunggal Sabah — DBKK tidak menyenaraikannya antara dokumen yang diperlukan"
 
 lang: "ms"
 masterLanguage: "en"

@@ -49,10 +49,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Currency of the ~250,000 independent smallholder licence figure (MSPO cites it as of December 2021); confirm the latest MSPO licence count."
-  - "EUDR application dates (30 Dec 2026 / 30 June 2027) are subject to further EU legislative change; confirm they still hold at time of human review."
+  - "Kesahihan semasa angka ~250,000 lesen pekebun kecil bebas (MSPO memetiknya setakat Disember 2021); sahkan kiraan lesen MSPO terkini."
+  - "Tarikh pemakaian EUDR (30 Dis 2026 / 30 Jun 2027) tertakluk kepada perubahan perundangan EU yang lanjut; sahkan bahawa ia masih terpakai pada masa semakan oleh manusia."
   - "Whether EUDR requires polygon geolocation for all smallholder plots or permits single-point coordinates below a size threshold."
-  - "Wilmar's ~190 smallholders in Bintulu and the attributed conservation-lead quote (via Eco-Business) — confirm figure and attribution are still accurate."
+  - "Kira-kira 190 pekebun kecil Wilmar di Bintulu dan petikan ketua pemuliharaan yang dikaitkan (melalui Eco-Business) — sahkan angka dan atribusi masih tepat."
 
 updated: 2026-08-01
 sources:

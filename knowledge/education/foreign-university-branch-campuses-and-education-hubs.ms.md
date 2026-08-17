@@ -51,7 +51,7 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Total count of foreign branch campuses ('around a dozen' / 'roughly eleven') — confirm against a current MOHE or MQA register."
+  - "Jumlah bilangan kampus cawangan asing ('kira-kira sedozen' / 'lebih kurang sebelas') — sahkan terhadap daftar MOHE atau MQA semasa."
 
 updated: 2026-08-08
 sources:

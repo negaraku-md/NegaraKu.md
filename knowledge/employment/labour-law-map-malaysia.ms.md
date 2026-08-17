@@ -23,9 +23,9 @@ keyTakeaways:
 appliesTo: "Pasukan HR, penggajian dan pematuhan yang perlu tahu pintu mana yang perlu diketuk."
 
 verificationNeeded:
-  - "Confirm the legal instrument establishing the Malaysian Gig Economy Commission (SEGiM) and its powers — it is not established by the Gig Workers Act 2025"
-  - "Confirm whether the Gig Workers Tribunal has a standalone registry address or portal separate from eAduan Gig"
-  - "Confirm Act numbers 612, 732, 789, 800, 840 and 872 against lom.agc.gov.my once those PDFs are served — they are currently confirmed from agency sites rather than the LOM repository"
+  - "Sahkan instrumen perundangan yang menubuhkan Malaysian Gig Economy Commission (SEGiM) dan kuasanya — ia tidak ditubuhkan oleh Gig Workers Act 2025"
+  - "Sahkan sama ada Tribunal Pekerja Gig mempunyai alamat pendaftaran atau portal tersendiri yang berasingan daripada eAduan Gig"
+  - "Sahkan nombor Akta 612, 732, 789, 800, 840 dan 872 terhadap lom.agc.gov.my setelah PDF tersebut disediakan — ia kini disahkan daripada tapak agensi dan bukan repositori LOM"
 
 lang: "ms"
 masterLanguage: "en"

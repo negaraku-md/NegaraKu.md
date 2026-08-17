@@ -43,8 +43,8 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "MACC June 2025 statement — confirm the quoted wording and context via a primary MACC release if available, not only the FMT report."
-  - "Whether any post-2016 amendment to Act 711 has taken effect that changes the protections, Section 11 grounds, or the commencement position stated here."
+  - "Kenyataan MACC Jun 2025 — sahkan perkataan yang dipetik dan konteksnya melalui siaran utama MACC jika ada, bukan hanya laporan FMT."
+  - "Sama ada mana-mana pindaan selepas 2016 kepada Act 711 telah berkuat kuasa yang mengubah perlindungan, alasan Section 11, atau kedudukan permulaan kuat kuasa yang dinyatakan di sini."
 revisions:
   - version: "01.00"
     date: 2026-08-07

@@ -34,9 +34,9 @@ faq:
     a: "MyIPO secara nyata tidak menggalakkannya. Tajuk kelas hanyalah petunjuk am dan mungkin tidak meliputi barangan atau perkhidmatan spesifik yang anda perlukan. Sebaliknya, itemkan spesifikasi anda."
 
 verificationNeeded:
-  - "Confirm which edition of the Nice Classification MyIPO currently applies — MyIPO's published class descriptions do not state an edition number"
-  - "The class descriptions below are condensed summaries for orientation, not the authoritative Nice class headings — check the specification against MyIPO's pre-approved goods and services list before filing"
-  - "The Trademarks (Reduction of Fee) Regulations 2025 [P.U. (A) 315/2025] reduced the per-class filing fee by RM300 only for over-the-counter filings by applicants meeting the criteria in the Registrar's practice directions, between 1 September and 31 December 2025 — confirm whether any successor instrument has been gazetted"
+  - "Sahkan edisi Nice Classification yang mana kini terpakai oleh MyIPO — huraian kelas yang diterbitkan MyIPO tidak menyatakan nombor edisi"
+  - "Penerangan kelas di bawah merupakan ringkasan padat untuk panduan, bukan tajuk kelas Nice yang berautoriti — semak spesifikasi terhadap senarai barangan dan perkhidmatan pra-lulus MyIPO sebelum memfailkan"
+  - "Trademarks (Reduction of Fee) Regulations 2025 [P.U. (A) 315/2025] mengurangkan yuran pemfailan setiap kelas sebanyak RM300 hanya untuk pemfailan di kaunter oleh pemohon yang memenuhi kriteria dalam arahan amalan Pendaftar, antara 1 September dan 31 December 2025 — sahkan sama ada mana-mana instrumen pengganti telah diwartakan"
 
 lang: "ms"
 masterLanguage: "en"

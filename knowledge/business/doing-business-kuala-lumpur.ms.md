@@ -36,9 +36,9 @@ faq:
     a: "Ya. Undang-undang kecil 3(1) P.U.(A) 230/2016 menjadikannya prasyarat — premis hanya boleh digunakan untuk perniagaan setelah kebenaran merancang diperoleh apabila dikehendaki dan lesen premis perniagaan telah dikeluarkan. Di Kuala Lumpur kebenaran itu datang daripada Akta (Perancangan) Wilayah Persekutuan 1982, dan Kaedah-Kaedah Permohonan Kebenaran Merancang yang baharu untuk Wilayah Persekutuan Kuala Lumpur telah dibuat pada 2025."
 
 verificationNeeded:
-  - "DBKL signboard and advertisement licence rates — the Advertisements (Federal Territory) By-Laws 1982 are published as a scanned image with no text layer"
-  - "Current development charge rates under the Federal Territory (Planning) (Development Charge) Rules 2013 — the rules are listed by DBKL but the rate table was not retrievable"
-  - "Kuala Lumpur share of national GDP as a published percentage — DOSM publishes the ringgit value and the ranking but not the KL share directly"
+  - "Kadar lesen papan tanda dan iklan DBKL — Advertisements (Federal Territory) By-Laws 1982 diterbitkan sebagai imej imbasan tanpa lapisan teks"
+  - "Kadar caj pembangunan semasa di bawah Federal Territory (Planning) (Development Charge) Rules 2013 — peraturan tersebut disenaraikan oleh DBKL tetapi jadual kadarnya tidak dapat diperoleh"
+  - "Bahagian Kuala Lumpur daripada KDNK negara sebagai peratusan yang diterbitkan — DOSM menerbitkan nilai ringgit dan kedudukan tetapi bukan bahagian KL secara langsung"
 
 lang: "ms"
 masterLanguage: "en"

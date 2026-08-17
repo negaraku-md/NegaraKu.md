@@ -38,7 +38,7 @@ faq:
     a: "MITI menyatakan pelaksanaan akan bermula dengan pembuatan dan diikuti oleh sektor perkhidmatan pada suku kedua 2026. Setakat Ogos 2026 halaman NIF MITI dan MIDA menerbitkan garis panduan pelaksanaan dan FAQ bagi sektor pembuatan sahaja, dan halaman MIDA masih hanya menyatakan bahawa pelaksanaan perkhidmatan 'Effective Q2 2026, the exact date of implementation will be announced in due course' — suku tahun yang kini telah berlalu tanpa garis panduan, scorecard atau tarikh berkuat kuasa perkhidmatan diterbitkan. Anggap mana-mana tarikh mula perkhidmatan yang dinyatakan sebagai belum disahkan sehingga MITI atau MIDA menerbitkan garis panduan perkhidmatan."
 
 verificationNeeded:
-  - "Confirm how the NIF interacts with Reinvestment Allowance under Schedule 7A and with existing PIA approvals being extended or varied"
+  - "Sahkan bagaimana NIF berinteraksi dengan Reinvestment Allowance di bawah Schedule 7A dan dengan kelulusan PIA sedia ada yang dilanjutkan atau diubah"
 
 lang: "ms"
 masterLanguage: "en"

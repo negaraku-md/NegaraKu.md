@@ -35,8 +35,8 @@ faq:
     a: "Menjelang hari ke-15 bulan kalendar berikutan bulan potongan itu dibuat. Kelewatan remitan mendedahkan majikan, bukan pekerja, kepada risiko, dan pekerja tetap mendapat kredit bagi jumlah yang dipotong."
 
 verificationNeeded:
-  - "The Table 1 values of P, M, R and B in the Schedule to the MTD Rules were last seen in P.U.(A) 123/2021, which still carries the pre-YA2023 band structure. Confirm the current Table 1 against the operative amending instrument before quoting any coefficient — this article deliberately quotes none"
-  - "Confirm the PCB deduction rate applied to a non-resident employee is the Schedule 1 Part I para 1A flat rate as a matter of the MTD Rules, not only of the underlying charge"
+  - "Nilai Table 1 bagi P, M, R dan B dalam Jadual kepada MTD Rules terakhir dilihat dalam P.U.(A) 123/2021, yang masih membawa struktur jaluran pra-YA2023. Sahkan Table 1 semasa terhadap instrumen pindaan operatif sebelum memetik sebarang pekali — artikel ini sengaja tidak memetik satu pun"
+  - "Sahkan bahawa kadar potongan PCB yang dikenakan kepada pekerja bukan pemastautin ialah kadar rata Schedule 1 Part I perenggan 1A sebagai suatu perkara di bawah MTD Rules, bukan hanya di bawah caj asasnya"
 
 lang: "ms"
 masterLanguage: "en"

@@ -23,8 +23,8 @@ keyTakeaways:
 appliesTo: "Majikan yang menggubal kovenan sekatan, dan pekerja yang diberitahu mereka tidak boleh menyertai pesaing."
 
 verificationNeeded:
-  - "Confirm the leading Malaysian appellate authority on s.28 and on the treatment of non-solicitation clauses, against reported judgments"
-  - "Confirm whether any Malaysian court has upheld a post-termination non-solicitation of customers clause as falling outside s.28"
+  - "Sahkan autoriti rayuan Malaysia yang utama mengenai s.28 dan mengenai layanan terhadap klausa larangan pemujukan, terhadap penghakiman yang dilaporkan"
+  - "Sahkan sama ada mana-mana mahkamah Malaysia telah mengekalkan klausa larangan pemujukan pelanggan selepas penamatan sebagai terletak di luar s.28"
 
 lang: "ms"
 masterLanguage: "en"

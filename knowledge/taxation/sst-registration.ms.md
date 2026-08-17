@@ -34,7 +34,7 @@ faq:
     a: "Ya. Setiap kumpulan mempunyai ambangnya sendiri dalam lajur (3), jadi sebuah perniagaan dengan hasil dalam dua kumpulan menguji setiap satu terhadap angkanya sendiri. Kumpulan G profesional adalah pengecualian yang menggabungkan secara dalaman — seorang kena cukai Kumpulan G menjadi bertanggungan sebaik sahaja nilai gabungan mana-mana satu atau lebih perkhidmatan Kumpulan G melebihi RM500,000."
 
 verificationNeeded:
-  - "Confirm the current threshold for Group I items other than 14 to 16 against a consolidated reprint of the First Schedule — figures here were read from P.U.(A) 214/2018 as originally gazetted plus the amendments cited, not from a consolidated text"
+  - "Sahkan ambang semasa bagi item Kumpulan I selain 14 hingga 16 terhadap cetakan semula bersepadu Jadual Pertama — angka di sini dibaca daripada P.U.(A) 214/2018 sebagaimana asalnya diwartakan serta pindaan yang dipetik, bukan daripada teks bersepadu"
 
 obligations:
   - what: "Apply for service tax registration"

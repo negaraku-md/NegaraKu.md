@@ -23,10 +23,10 @@ keyTakeaways:
 appliesTo: "Penasihat, pasukan kewangan dan perancang pelaburan yang perlu tahu insentif mana yang masih wujud, siapa mentadbirnya, dan instrumen apa yang menjadi asasnya."
 
 verificationNeeded:
-  - "Confirm the current application window for the Accelerated Capital Allowance on automation equipment — P.U.(A) 252/2017 as amended by P.U.(A) 173/2020 was read for mechanism but the qualifying-expenditure window could not be fixed with confidence against the amending instrument"
-  - "Confirm with MIDA whether the Green Investment Tax Allowance and Green Income Tax Exemption were reopened after the windows in P.U.(A) 243/2024 to 247/2024 closed on 31 December 2023 — MIDA publishes revised green technology guidelines but no later gazette order was located"
-  - "Confirm whether any subsidiary legislation implementing the Global Services Hub special tax rate, the JS-SEZ special tax rate, or the New Incentive Framework has been gazetted — an AGC subsidiary-legislation sweep current to 8 July 2026 returned nothing for any of the three"
-  - "Confirm the current status of the BioNexus investment deduction and of Malaysia Digital status incentives, both of which are verified by an agency other than MIDA and are not fully traceable to a single gazetted instrument"
+  - "Sahkan tempoh permohonan semasa bagi Accelerated Capital Allowance ke atas peralatan automasi — P.U.(A) 252/2017 seperti yang dipinda oleh P.U.(A) 173/2020 dibaca untuk mekanisme tetapi tempoh perbelanjaan layak tidak dapat ditetapkan dengan yakin terhadap instrumen pindaan"
+  - "Sahkan dengan MIDA sama ada Green Investment Tax Allowance dan Green Income Tax Exemption dibuka semula selepas tingkap dalam P.U.(A) 243/2024 hingga 247/2024 ditutup pada 31 Disember 2023 — MIDA menerbitkan garis panduan teknologi hijau yang disemak tetapi tiada perintah warta kemudian dapat dikesan"
+  - "Sahkan sama ada sebarang perundangan subsidiari yang melaksanakan kadar cukai khas Global Services Hub, kadar cukai khas JS-SEZ, atau New Incentive Framework telah diwartakan — pemeriksaan perundangan subsidiari AGC yang semasa sehingga 8 Julai 2026 tidak mengembalikan apa-apa bagi mana-mana daripada ketiga-tiganya"
+  - "Sahkan status semasa potongan pelaburan BioNexus dan insentif status Malaysia Digital, yang kedua-duanya disahkan oleh agensi selain MIDA dan tidak dapat dikesan sepenuhnya kepada satu instrumen yang diwartakan"
 
 lang: "ms"
 masterLanguage: "en"

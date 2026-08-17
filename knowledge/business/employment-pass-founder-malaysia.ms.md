@@ -40,10 +40,10 @@ faq:
     a: "Tidak. FAQ Kementerian Dalam Negeri (MOHA) mengesahkan bahawa pemegang pas yang pasnya masih sah tidak perlu mengemukakan permohonan baharu. Tetapi mana-mana pembaharuan yang jatuh pada atau selepas 1 Jun 2026 dinilai di bawah dasar yang disemak semula, dan pembaharuan boleh dikemukakan seawal tiga bulan sebelum tamat tempoh. Seorang pemegang Kategori I sedia ada mungkin didapati diklasifikasikan semula ke Kategori II semasa pembaharuan."
 
 verificationNeeded:
-  - "Reconcile the Category III band. The ESD announcement states RM5,000 to RM9,999 generally, while the MOHA FAQ question 10 describes a RM7,000 to RM9,999 range specifically for the Manufacturing Sector and Manufacturing-Related Services under MITI and MIDA. Confirm which applies to a non-manufacturing employer."
-  - "Confirm whether the ESD Online Guidebook paid-up capital table has been reissued since version 6 dated 14 April 2025, and whether the figures changed alongside the 1 June 2026 salary revision."
-  - "Confirm the current list of KPDN distributive trade sub-sectors in which long-term passes are not permitted — KPDN publishes the restriction but the operative list was not retrievable"
-  - "Confirm whether the ICT restriction to Professional Visit Pass-Expert only, stated in the ESD guidebook, still stands given the Malaysia Digital route through MDEC"
+  - "Selaraskan jalur Kategori III. Pengumuman ESD menyatakan RM5,000 hingga RM9,999 secara umum, manakala soalan 10 FAQ MOHA menerangkan julat RM7,000 hingga RM9,999 khusus untuk Sektor Pembuatan dan Perkhidmatan Berkaitan Pembuatan di bawah MITI dan MIDA. Sahkan yang mana terpakai kepada majikan bukan pembuatan."
+  - "Sahkan sama ada jadual modal berbayar ESD Online Guidebook telah diterbitkan semula sejak versi 6 bertarikh 14 April 2025, dan sama ada angka tersebut berubah seiring dengan semakan gaji 1 Jun 2026."
+  - "Sahkan senarai semasa subsektor perdagangan pengedaran KPDN yang tidak membenarkan pas jangka panjang — KPDN menerbitkan sekatan itu tetapi senarai operatif tidak dapat diperoleh"
+  - "Sahkan sama ada sekatan ICT kepada Professional Visit Pass-Expert sahaja, seperti yang dinyatakan dalam buku panduan ESD, masih terpakai memandangkan laluan Malaysia Digital melalui MDEC"
 
 obligations:
   - what: "Register the company with the Expatriate Services Division before applying for any expatriate pass"

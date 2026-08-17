@@ -41,10 +41,10 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Exact section of the Income Tax Act 1967 under which crypto income is charged: the charging provision is s.3, while the Ministry of Finance's Aug 2025 statement refers to crypto income being taxed as business income under s.4 — confirm the precise citation for the article's framing."
-  - "Whether the August 2025 Ministry of Finance statement changes the law or merely clarifies that existing service tax already applies to crypto trading-platform services, and the applicable service-tax rate and registration threshold."
-  - "The current e-Invoice (MyInvois) phase, deadline and turnover threshold applicable to a specific crypto business — thresholds and dates are being revised (RM1 million exemption per latest IRBM guidance)."
-  - "FIFO cost-basis tracking and the treatment of airdrops and hard-fork tokens as stated here are drawn from professional summaries of the LHDN guidelines; confirm against the current guideline text before relying on them."
+  - "Seksyen tepat Income Tax Act 1967 di mana pendapatan kripto dikenakan cukai: peruntukan pengenaan ialah s.3, manakala kenyataan Kementerian Kewangan Ogos 2025 merujuk kepada pendapatan kripto yang dikenakan cukai sebagai pendapatan perniagaan di bawah s.4 — sahkan petikan tepat untuk rangka artikel."
+  - "Sama ada kenyataan Kementerian Kewangan Ogos 2025 mengubah undang-undang atau sekadar menjelaskan bahawa cukai perkhidmatan sedia ada sudah terpakai kepada perkhidmatan platform dagangan kripto, dan kadar cukai perkhidmatan serta ambang pendaftaran yang berkenaan."
+  - "Fasa e-Invois (MyInvois) semasa, tarikh akhir dan ambang pusing ganti yang terpakai kepada sesuatu perniagaan kripto tertentu — ambang dan tarikh sedang disemak semula (pengecualian RM1 juta menurut panduan IRBM terkini)."
+  - "Penjejakan asas kos FIFO dan layanan terhadap airdrop dan token hard-fork seperti yang dinyatakan di sini diambil daripada ringkasan profesional garis panduan LHDN; sahkan terhadap teks garis panduan semasa sebelum bergantung padanya."
 revisions:
   - version: "01.00"
     date: 2026-08-07

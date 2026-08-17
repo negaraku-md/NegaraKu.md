@@ -45,9 +45,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Confirm the current statutory or regulatory basis and eligibility conditions for the ~25% effective marginal-field rate (the mechanism described is an exemption of part of chargeable income)."
-  - "Confirm the identity and filing obligations of the 'chargeable person' under PITA for typical PSC arrangements, and whether Petronas-linked entities file separately."
-  - "Confirm the LLA incentive figures (25% rate, 20% initial / 40% annual allowance, 1 Jan 2020–31 Dec 2029 window, two-YA decommissioning carryback) against the gazetted subsidiary regulations, not only the EY summary."
+  - "Sahkan asas statutori atau kawal selia semasa serta syarat kelayakan bagi kadar berkesan medan marginal ~25% (mekanisme yang diperihalkan ialah pengecualian sebahagian pendapatan boleh dikenakan cukai)."
+  - "Sahkan identiti dan kewajipan pemfailan 'chargeable person' di bawah PITA bagi susunan PSC lazim, dan sama ada entiti berkaitan Petronas memfail secara berasingan."
+  - "Sahkan angka insentif LLA (kadar 25%, elaun awal 20% / elaun tahunan 40%, tingkap 1 Jan 2020–31 Dis 2029, bawa balik penyahtauliahan dua-YA) terhadap peraturan subsidiari berwarta, bukan hanya ringkasan EY."
 updated: 2026-08-07
 sources:
   - title: "Petroleum (Income Tax) Act 1967 (Act 543) — s.23(1) charges petroleum income tax at 38%; s.2 defines 'petroleum operations'"

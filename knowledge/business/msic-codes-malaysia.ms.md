@@ -33,9 +33,9 @@ faq:
     a: "Jabatan Perangkaan Malaysia menyelenggara MSIC 2008 dan menerbitkan kedua-dua sistem carian di msic.stats.gov.my serta set data melalui OpenDOSM. SSM menerbitkan senarai kod MSIC sendiri bagi pendaftaran ROB dan ROC."
 
 verificationNeeded:
-  - "Confirm how many MSIC codes SSM currently permits at incorporation and on a change of activity — the commonly quoted figure of three is practitioner guidance, not an SSM publication we have verified"
-  - "Confirm whether SSM currently uses MSIC 2008 version 1.0 or a later revision for ROC registration; the DOSM system publishes version 1.0"
-  - "Bank risk classification by MSIC is institution-specific and not published — treat the effect described here as a pattern, not a rule"
+  - "Sahkan berapa banyak kod MSIC yang dibenarkan SSM pada masa ini semasa pemerbadanan dan semasa pertukaran aktiviti — angka tiga yang lazim disebut adalah panduan pengamal, bukan penerbitan SSM yang telah kami sahkan"
+  - "Sahkan sama ada SSM kini menggunakan MSIC 2008 version 1.0 atau semakan yang lebih baharu untuk pendaftaran ROC; sistem DOSM menerbitkan version 1.0"
+  - "Pengelasan risiko bank mengikut MSIC adalah khusus institusi dan tidak diterbitkan — anggap kesan yang diterangkan di sini sebagai corak, bukan peraturan"
 
 lang: "ms"
 masterLanguage: "en"

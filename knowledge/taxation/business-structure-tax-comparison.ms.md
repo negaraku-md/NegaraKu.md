@@ -38,7 +38,7 @@ faq:
     a: "Ya, bermula YA2024. Perenggan 2B(d) Bahagian I Jadual 1 menghapuskan kadar keistimewaan apabila lebih 20% modal saham biasa berbayar dimiliki secara langsung atau tidak langsung oleh satu atau lebih syarikat yang diperbadankan di luar Malaysia atau oleh satu atau lebih individu bukan warganegara. Public Ruling No. 8/2025 Contoh 15 mengaplikasikannya kepada sebuah syarikat Malaysia yang dipegang sepenuhnya oleh syarikat Singapura milik dua rakyat Malaysia, dan syarikat itu tetap gagal."
 
 verificationNeeded:
-  - "Confirm whether directors fees paid to a non-executive director outside a contract of service are wages for EPF purposes; EPF confirms salaried directors contribute but does not address fees directly"
+  - "Sahkan sama ada yuran pengarah yang dibayar kepada pengarah bukan eksekutif di luar kontrak perkhidmatan merupakan upah bagi tujuan EPF; EPF mengesahkan pengarah bergaji mencarum tetapi tidak menangani yuran secara langsung"
 
 lang: "ms"
 masterLanguage: "en"

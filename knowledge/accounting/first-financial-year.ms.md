@@ -23,8 +23,8 @@ keyTakeaways:
 appliesTo: "Pengarah Sdn Bhd yang baru diperbadankan yang sedang memilih akhir tahun kewangan pertama."
 
 verificationNeeded:
-  - "Practice Directive 10/2024 does not address how the current-and-immediate-past-two-financial-years test applies to a company that has fewer than three financial years, and the SSM audit exemption FAQ does not either — confirm the treatment with SSM or your auditor before relying on exemption in the first or second year"
-  - "Confirm the SSM lodgement fee for financial statements and the annual return before budgeting, as the Companies Regulations 2017 table of fees is amended from time to time"
+  - "Practice Directive 10/2024 tidak menangani cara ujian tahun kewangan semasa-dan-dua-tahun-kewangan-lepas-terdekat terpakai kepada syarikat yang mempunyai kurang daripada tiga tahun kewangan, dan FAQ pengecualian audit SSM juga tidak — sahkan layanannya dengan SSM atau juruaudit anda sebelum bergantung pada pengecualian dalam tahun pertama atau kedua"
+  - "Sahkan yuran pemfailan SSM bagi penyata kewangan dan penyata tahunan sebelum membuat belanjawan, kerana jadual yuran dalam Companies Regulations 2017 dipinda dari semasa ke semasa"
 
 obligations:
   - what: "Prepare the first financial statements"

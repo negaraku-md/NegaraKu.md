@@ -34,8 +34,8 @@ faq:
     a: "Seksyen 60D(1)(a)(iii) mengaitkannya dengan Negeri tempat pekerja itu seluruhnya atau kebanyakannya bekerja di bawah kontrak perkhidmatannya, dan memberikan Hari Wilayah Persekutuan jika pekerja itu seluruhnya atau kebanyakannya bekerja di Wilayah Persekutuan. Bagi kakitangan yang bekerja sepenuhnya secara jarak jauh, tempat kerja yang dinyatakan dalam kontrak menjadi titik rujukan — inilah salah satu sebab ia perlu dinyatakan secara jelas dalam kontrak."
 
 verificationNeeded:
-  - "Confirm the state-by-state applicability of each state-level holiday in the 2026 schedule — the state columns in the Cabinet Division PDF are graphical and do not extract as text, so applicability must be read off the source document or each State gazette"
-  - "Confirm dates marked as subject to change in the Cabinet Division schedule — Hari Raya Puasa, Hari Raya Qurban, Deepavali, Awal Ramadan and Hari Raya Qurban second day are all flagged"
+  - "Sahkan kebolehgunaan mengikut negeri bagi setiap cuti peringkat negeri dalam jadual 2026 — lajur negeri dalam PDF Bahagian Kabinet adalah grafik dan tidak boleh diekstrak sebagai teks, jadi kebolehgunaan mesti dibaca daripada dokumen sumber atau warta setiap Negeri"
+  - "Sahkan tarikh yang ditanda sebagai tertakluk kepada perubahan dalam jadual Bahagian Kabinet — Hari Raya Puasa, Hari Raya Qurban, Deepavali, Awal Ramadan dan hari kedua Hari Raya Qurban kesemuanya ditandakan"
 
 lang: "ms"
 masterLanguage: "en"

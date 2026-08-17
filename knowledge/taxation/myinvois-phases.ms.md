@@ -24,8 +24,8 @@ keyTakeaways:
 appliesTo: "Mana-mana perniagaan Malaysia, LLP, perkongsian atau pemilikan tunggal yang cuba mengetahui bila e-Invois terpakai kepada mereka, serta pelaksana yang menjadualkan pelancaran."
 
 verificationNeeded:
-  - "Whether the luxury goods and jewellery category in Table 3.6 of the e-Invoice Specific Guideline has been activated — LHDN still states details will be released in due course"
-  - "The exact ringgit penalty applied in practice under s.120(1)(d) ITA 1967 for a failed e-Invoice — the range is statutory but LHDN publishes no assessment concession scale"
+  - "Sama ada kategori barang mewah dan barang kemas dalam Table 3.6 e-Invoice Specific Guideline telah diaktifkan — LHDN masih menyatakan butiran akan dikeluarkan pada masa yang sesuai"
+  - "Penalti ringgit tepat yang dikenakan dalam amalan di bawah s.120(1)(d) ITA 1967 bagi e-Invois yang gagal — julatnya adalah statutori tetapi LHDN tidak menerbitkan sebarang skala konsesi penilaian"
 
 obligations:
   - what: "Issue and transmit e-Invoices for validation — taxpayers with FY2022 turnover above RM100 million"

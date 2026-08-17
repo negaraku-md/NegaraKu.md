@@ -39,7 +39,7 @@ faq:
     a: "Ya. Setiap pelepasan yang diterangkan di sini ialah pengecualian daripada pembayaran cukai di bawah seksyen 34 Akta Cukai Perkhidmatan 2018, bukan penyingkiran perkhidmatan daripada Jadual Pertama. Seksyen 12(2) menguji jumlah nilai semua perkhidmatan bercukai, jadi bekalan yang dikecualikan masih dikira dan boleh menolak anda melepasi ambang."
 
 verificationNeeded:
-  - "The term wellness centre in Group C is no longer defined in the Service Tax Regulations 2018 after P.U.(A) 201/2025 deleted the proposed definition — confirm the current administrative boundary between a taxable wellness centre and a non-taxable beauty salon with RMCD"
+  - "Istilah wellness centre dalam Group C tidak lagi ditakrifkan dalam Service Tax Regulations 2018 selepas P.U.(A) 201/2025 memadamkan takrifan yang dicadangkan — sahkan sempadan pentadbiran semasa antara wellness centre yang boleh dicukai dan salun kecantikan yang tidak boleh dicukai dengan RMCD"
 
 obligations:
   - what: "Apply for service tax registration after crossing a group threshold"

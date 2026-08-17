@@ -42,10 +42,10 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "The 30% rate applied to non-resident individuals is the standard non-resident individual rate reported by press/advisory coverage of Practice Note 2/2026; confirm the exact rate and its statutory basis (Part II, Schedule 1, ITA 1967) against the Practice Note itself."
-  - "The stated rationale for ending the concession (REIT sector maturity) is drawn from EY's and press summaries of the Practice Note; confirm the precise wording and attribution (Treasury/government vs LHDN) against the primary Practice Note."
-  - "Confirm whether section 109D withholding continues to operate as the collection mechanism for non-resident unit holders from YA 2026, and the exact reporting line for resident individuals."
-  - "Scale rates (0%–30%) and thresholds can change each Budget; re-verify the current-year figures before relying on them."
+  - "Kadar 30% yang dikenakan kepada individu bukan pemastautin ialah kadar individu bukan pemastautin standard yang dilaporkan oleh liputan akhbar/nasihat mengenai Practice Note 2/2026; sahkan kadar tepat dan asas statutorinya (Part II, Schedule 1, ITA 1967) terhadap Practice Note itu sendiri."
+  - "Rasional yang dinyatakan untuk menamatkan konsesi (kematangan sektor REIT) diambil daripada ringkasan EY dan akhbar mengenai Practice Note; sahkan susunan kata dan atribusi yang tepat (Perbendaharaan/kerajaan berbanding LHDN) terhadap Practice Note utama."
+  - "Sahkan sama ada pegangan cukai seksyen 109D terus beroperasi sebagai mekanisme kutipan bagi pemegang unit bukan pemastautin dari YA 2026, dan baris pelaporan tepat bagi individu pemastautin."
+  - "Kadar berskala (0%–30%) dan ambang boleh berubah setiap Bajet; sahkan semula angka tahun semasa sebelum bergantung padanya."
 revisions:
   - version: "01.00"
     date: 2026-08-07

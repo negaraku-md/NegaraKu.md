@@ -52,8 +52,8 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "The DPSP grace period ends 31 December 2025 (now past); confirm the current permanent post-grace-period collection rules on the live MyTTx portal."
-  - "The worked invoice figures are a generic illustration of the flat-line mechanic, not a verbatim reproduction of any single numbered example in the RMCD General Guide."
+  - "Tempoh tangguh DPSP tamat pada 31 Disember 2025 (kini telah berlalu); sahkan peraturan kutipan kekal semasa selepas tempoh tangguh pada portal MyTTx yang aktif."
+  - "Angka invois yang dikira ialah ilustrasi generik mekanik kadar rata, bukan pengeluaran semula kata demi kata bagi mana-mana contoh bernombor tunggal dalam RMCD General Guide."
 updated: 2026-07-28
 sources:
   - title: "Tourism Tax Act 2017 (Act 791)"

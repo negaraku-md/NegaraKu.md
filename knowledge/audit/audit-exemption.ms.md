@@ -31,7 +31,7 @@ faq:
     a: "Tidak. Syarikat yang dikecualikan tetap perlu menyerahkan penyata kewangan tidak diaudit kepada Pendaftar, berserta laporan pengarah, penyata oleh pengarah, akuan berkanun dan sijil pengecualian audit yang ditandatangani."
 
 verificationNeeded:
-  - "Confirm whether SSM has issued any amendment or further practice directive after PD 10/2024 that alters the Phase 2 or Phase 3 thresholds"
+  - "Sahkan sama ada SSM telah mengeluarkan sebarang pindaan atau arahan amalan lanjut selepas PD 10/2024 yang mengubah ambang Fasa 2 atau Fasa 3"
 
 lang: "ms"
 masterLanguage: "en"

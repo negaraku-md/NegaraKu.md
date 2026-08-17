@@ -41,7 +41,7 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Exact age-60-and-above contribution rates and the several rate options — confirm against KWSP 'Mandatory Contribution' page and the Third Schedule before stating specific numbers"
+  - "Kadar caruman tepat bagi umur 60 tahun ke atas dan beberapa pilihan kadar — sahkan terhadap halaman 'Mandatory Contribution' KWSP dan Jadual Ketiga sebelum menyatakan angka tertentu"
   - "Latest fund size (RM1.25 trillion, end-2024) and membership (16.22m total / 8.78m active) — refresh against KWSP's most recent annual report at publish time"
 updated: 2026-08-14
 sources:

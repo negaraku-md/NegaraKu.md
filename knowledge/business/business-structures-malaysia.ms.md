@@ -24,9 +24,9 @@ keyTakeaways:
 appliesTo: "Sesiapa sahaja yang memilih struktur undang-undang di Malaysia buat kali pertama, atau menilai semula struktur yang dipilih bertahun-tahun lalu."
 
 verificationNeeded:
-  - "Confirm the eligibility rules for registering a sole proprietorship or conventional partnership under the Registration of Businesses Act 1956, and whether non-citizens or non-residents may register"
-  - "Confirm current Labuan FSA incorporation and annual fees"
-  - "Confirm the registration position for businesses in Sabah and Sarawak, which operate under state ordinances rather than the Registration of Businesses Act 1956"
+  - "Sahkan peraturan kelayakan untuk mendaftarkan pemilikan tunggal atau perkongsian konvensional di bawah Registration of Businesses Act 1956, dan sama ada bukan warganegara atau bukan pemastautin boleh mendaftar"
+  - "Sahkan yuran pemerbadanan dan yuran tahunan Labuan FSA semasa"
+  - "Sahkan kedudukan pendaftaran bagi perniagaan di Sabah dan Sarawak, yang beroperasi di bawah ordinan negeri dan bukan Registration of Businesses Act 1956"
 
 lang: "ms"
 masterLanguage: "en"

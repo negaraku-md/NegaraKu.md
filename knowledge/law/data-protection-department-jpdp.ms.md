@@ -40,9 +40,9 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Exact current internal division structure of JPDP (Malay sources cite Bahagian Pendaftaran dan Operasi, Bahagian Pemantauan, Bahagian Perundangan under a Ketua Pengarah / Timbalan Ketua Pengarah) — confirm against the live pdp.gov.my organisation chart."
-  - "Exact section-to-date mapping of the phased 2025 commencement (which sections took effect 1 Jan vs 1 Apr vs 1 June 2025) — confirm against the official commencement-date gazette on pdp.gov.my."
-  - "Current data-user registration fee range and certificate validity period — verify against the current SPDP portal / Registration Regulations."
+  - "Struktur bahagian dalaman semasa yang tepat bagi JPDP (sumber Melayu memetik Bahagian Pendaftaran dan Operasi, Bahagian Pemantauan, Bahagian Perundangan di bawah seorang Ketua Pengarah / Timbalan Ketua Pengarah) — sahkan terhadap carta organisasi pdp.gov.my terkini."
+  - "Pemetaan seksyen-ke-tarikh tepat bagi permulaan kuat kuasa berperingkat 2025 (seksyen mana yang berkuat kuasa 1 Jan berbanding 1 Apr berbanding 1 June 2025) — sahkan terhadap warta tarikh permulaan kuat kuasa rasmi di pdp.gov.my."
+  - "Julat fi pendaftaran pengguna data semasa dan tempoh sah sijil — sahkan terhadap portal SPDP semasa / Registration Regulations."
   - "Latest published enforcement statistics (registrations, complaints, actions) — not yet located from a primary DOSM/JPDP source."
 updated: 2026-08-14
 sources:

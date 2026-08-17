@@ -57,8 +57,8 @@ revisions:
 updated: 2026-08-01
 
 verificationNeeded:
-  - "Confirm the latest published international reserves figure; the US$116.2 billion / 5.0 months-of-imports figure is as at 31 December 2024 and is updated by BNM twice monthly."
-  - "Confirm the BNM short URL (bnm.gov.my/introduction) resolves to the canonical About page at build time; if it does not, use the explicit index.php about URL instead."
+  - "Sahkan angka rizab antarabangsa terkini yang diterbitkan; angka US$116.2 bilion / 5.0 bulan import adalah setakat 31 Disember 2024 dan dikemas kini oleh BNM dua kali sebulan."
+  - "Sahkan URL pendek BNM (bnm.gov.my/introduction) menghala ke halaman About kanonik pada masa binaan; jika tidak, gunakan URL about index.php yang eksplisit sebagai ganti."
 sources:
   - title: "OPR Decisions"
     url: "https://www.bnm.gov.my/monetary-stability/opr-decisions"

@@ -33,8 +33,8 @@ faq:
     a: "e-Residence merangkumi negara yang mempunyai perjanjian percukaian. Bagi negara yang tiada perjanjian percukaian dua hala dengan Malaysia, pemohon perlu menghantar Form STM1 berserta dokumen sokongan melalui e-mel sebagai gantinya."
 
 verificationNeeded:
-  - "The e-Residence user manual and FAQ linked from the LHDN page were not retrieved; screen-level detail such as field validation and rejection codes is not confirmed here"
-  - "Whether a Certificate of Residence can be issued for a year in which the residence test is only met after the application date was not addressed on the LHDN page"
+  - "Manual pengguna e-Residence dan FAQ yang dipautkan daripada halaman LHDN tidak diperoleh; butiran peringkat skrin seperti pengesahan medan dan kod penolakan tidak disahkan di sini"
+  - "Sama ada Certificate of Residence boleh dikeluarkan bagi tahun yang mana ujian pemastautinan hanya dipenuhi selepas tarikh permohonan tidak ditangani pada laman LHDN"
 
 lang: "ms"
 masterLanguage: "en"

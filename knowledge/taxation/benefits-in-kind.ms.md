@@ -38,7 +38,7 @@ faq:
     a: "Masih ya, tetapi nilai yang ditetapkan bagi komponen kereta dikurangkan kepada separuh. Pengurangan itu hanya terpakai di bawah kaedah nilai yang ditetapkan — perenggan 6.1.8 Public Ruling 11/2019 menyatakan dengan jelas bahawa ia tidak terpakai apabila kaedah formula digunakan."
 
 verificationNeeded:
-  - "The full text of the Income Tax (Deduction for Benefit and Gift From Employer to Employee) Rules 2009, P.U.(A) 153/2009, was not retrieved from a primary source; its scope is described as cited in paragraph 12.1 of Public Ruling 11/2019."
+  - "Teks penuh Income Tax (Deduction for Benefit and Gift From Employer to Employee) Rules 2009, P.U.(A) 153/2009, tidak diperoleh daripada sumber utama; skopnya dihuraikan seperti yang dipetik dalam perenggan 12.1 Public Ruling 11/2019."
 
 lang: "ms"
 masterLanguage: "en"

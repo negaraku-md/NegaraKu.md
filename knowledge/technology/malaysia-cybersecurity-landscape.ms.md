@@ -53,10 +53,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Exact statutory section numbers for the cyber security service licensing prerequisites and the six-year record-retention duty under Act 854 — the cited secondary sources confirm the substance but not reliable section references (the earlier draft's 'section 28' and 'section 33' were dropped as section 33 in fact governs licence revocation)."
-  - "Whether the six-hour incident-notification window is materially stricter than comparable ASEAN regimes — the earlier 'strictest in the region' comparison was removed pending a cited comparative source."
-  - "The year-by-year split of reported scam losses (RM1.57 billion in 2024, RM2.97 billion in 2025, RM830 million in early 2026) against the primary Home Ministry / Dewan Rakyat record rather than press reporting."
-  - "Malaysia's placement in the top 'role-modelling' tier of the ITU Global Cybersecurity Index 2024, confirmed against the published ITU report."
+  - "Nombor seksyen berkanun tepat bagi prasyarat pelesenan perkhidmatan keselamatan siber dan kewajipan pengekalan rekod enam tahun di bawah Act 854 — sumber sekunder yang dipetik mengesahkan intipatinya tetapi bukan rujukan seksyen yang boleh dipercayai (draf terdahulu 'section 28' dan 'section 33' digugurkan kerana section 33 sebenarnya mengawal pembatalan lesen)."
+  - "Sama ada tempoh pemberitahuan insiden enam jam adalah jauh lebih ketat berbanding rejim ASEAN yang setanding — perbandingan 'paling ketat di rantau ini' yang terdahulu telah dibuang sementara menunggu sumber perbandingan yang disebut."
+  - "Pembahagian tahun demi tahun kerugian penipuan yang dilaporkan (RM1.57 bilion pada 2024, RM2.97 bilion pada 2025, RM830 juta pada awal 2026) terhadap rekod utama Kementerian Dalam Negeri / Dewan Rakyat dan bukannya laporan akhbar."
+  - "Kedudukan Malaysia dalam tingkat teratas 'role-modelling' ITU Global Cybersecurity Index 2024, disahkan terhadap laporan ITU yang diterbitkan."
 
 updated: 2026-08-01
 sources:

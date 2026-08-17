@@ -39,8 +39,8 @@ faq:
     a: "Ya. Ia telah dilanjutkan ke seluruh negara melalui Contracts (Malay States) (Amendment and Extension) Act 1974. Jangan andaikan perkara yang sama bagi statut-statut berjiran — Akta Had Masa 1953 hanya terpakai di Semenanjung Malaysia, dan Sabah serta Sarawak mempunyai ordinan had masa mereka sendiri."
 
 verificationNeeded:
-  - "Confirm the judicial gloss on s.75 — the Federal Court has developed a legitimate-interest and proportionality analysis, but this is case law and is not stated on the face of the Act"
-  - "Confirm whether any post-2006 amendment to Act 136 exists; the AGC updated text is stated as at 1 January 2006 and its list of sections amended stops at 1974"
+  - "Sahkan tafsiran kehakiman terhadap s.75 — Mahkamah Persekutuan telah membangunkan analisis kepentingan sah dan kadar berpatutan, tetapi ini adalah undang-undang kes dan tidak dinyatakan secara jelas dalam Akta itu"
+  - "Sahkan sama ada terdapat sebarang pindaan selepas 2006 kepada Act 136; teks kemas kini AGC dinyatakan setakat 1 Januari 2006 dan senarai seksyen yang dipindanya berhenti pada 1974"
 
 lang: "ms"
 masterLanguage: "en"

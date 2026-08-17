@@ -49,9 +49,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Exact last-trading date of FGV shares (reported externally as 22 August 2025); the cited news sources confirm only the 25 August 2025 suspension and a final traded price of RM1.30."
-  - "FGV operational figures (3% of global and 14% of national CPO output, seven countries, over 51,000 employees) are drawn from FGV's own, undated corporate Company Overview page — confirm against the latest FGV annual report for the current reporting period."
-  - "Proportion of fresh fruit bunches from FELDA settlers and smallholders: FGV's delisting press release states 'more than 70%', while its Company Overview page states 'approximately two-thirds' — confirm the current figure."
+  - "Tarikh dagangan terakhir sebenar saham FGV (dilaporkan secara luaran sebagai 22 Ogos 2025); sumber berita yang dipetik hanya mengesahkan penggantungan pada 25 Ogos 2025 dan harga dagangan akhir RM1.30."
+  - "Angka operasi FGV (3% daripada pengeluaran CPO global dan 14% daripada pengeluaran CPO negara, tujuh negara, lebih 51,000 pekerja) diambil daripada halaman Company Overview korporat FGV sendiri yang tidak bertarikh — sahkan terhadap laporan tahunan FGV terkini bagi tempoh pelaporan semasa."
+  - "Nisbah tandan buah segar daripada peneroka dan pekebun kecil FELDA: siaran akhbar penyahsenaraian FGV menyatakan 'lebih daripada 70%', manakala laman Company Overviewnya menyatakan 'kira-kira dua pertiga' — sahkan angka semasa."
 
 updated: 2026-08-01
 sources:

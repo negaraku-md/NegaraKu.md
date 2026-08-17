@@ -49,8 +49,8 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Exact current managed route count (MyRapid states 'over 270'; Bernama/The Star/NST state 281 as of the Jan 2026 restructuring) — confirm the live figure."
-  - "Whether Phase 2 of the restructuring (additional routes) has taken effect and its scope/date."
+  - "Kiraan laluan terurus semasa yang tepat (MyRapid menyatakan 'lebih 270'; Bernama/The Star/NST menyatakan 281 setakat penstrukturan semula Jan 2026) — sahkan angka langsung."
+  - "Sama ada Fasa 2 penstrukturan semula (laluan tambahan) telah berkuat kuasa dan skop/tarikhnya."
   - "Current status of Rapid Kuantan (reportedly ceased operations) — excluded here pending a primary source."
 updated: 2026-08-08
 sources:

@@ -48,9 +48,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "The exact freelancer client-mix rule: MDEC's FAQ V8 states freelancers may also serve Malaysian clients, but several third-party guides claim all income must be foreign-sourced. Confirm the current official wording before relying on it."
-  - "Current processing fee (RM1,080 / RM540) and SST rate (8%) — confirm against the latest MDEC FAQ, as fees and tax rates change."
-  - "Processing time (6-8 weeks), passport validity requirement (>14 months) and nationality exclusions — confirm they are still current."
+  - "Peraturan campuran pelanggan pekerja bebas yang tepat: FAQ V8 MDEC menyatakan pekerja bebas juga boleh melayani pelanggan Malaysia, tetapi beberapa panduan pihak ketiga mendakwa semua pendapatan mesti bersumberkan luar negara. Sahkan perkataan rasmi semasa sebelum bergantung padanya."
+  - "Yuran pemprosesan semasa (RM1,080 / RM540) dan kadar SST (8%) — sahkan terhadap FAQ MDEC terkini, kerana yuran dan kadar cukai berubah."
+  - "Masa pemprosesan (6-8 minggu), keperluan kesahihan pasport (>14 bulan) dan pengecualian kewarganegaraan — sahkan bahawa ia masih terkini."
 
 updated: 2026-08-07
 sources:

@@ -48,13 +48,13 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Whether the authoritative total detained is 106 or 119, and the composition behind each figure."
-  - "The operation's formal end date (some accounts give 20 November 1987), which is omitted here."
+  - "Sama ada jumlah berautoriti yang ditahan ialah 106 atau 119, dan komposisi di sebalik setiap angka."
+  - "Tarikh tamat formal operasi itu (sesetengah laporan memberikan 20 November 1987), yang ditiadakan di sini."
   - "Watan's exact closure year (1996) and Sin Chew Jit Poh's change of ownership."
-  - "The precise number and titles of publications affected (some accounts describe 'two dailies and two weeklies')."
+  - "Bilangan dan tajuk tepat penerbitan yang terjejas (sesetengah catatan menerangkan 'two dailies and two weeklies')."
   - "Tunku Abdul Rahman's exact recorded statements about the operation and their original documentary source."
-  - "The precise legal and chronological relationship between the 1988 judicial crisis and Operation Lalang."
-  - "The full list and number of DAP and other elected representatives detained."
+  - "Hubungan undang-undang dan kronologi yang tepat antara krisis kehakiman 1988 dan Operasi Lalang."
+  - "Senarai penuh dan bilangan wakil rakyat DAP dan wakil rakyat lain yang ditahan."
 
 updated: 2026-08-08
 sources:

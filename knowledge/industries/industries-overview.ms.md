@@ -51,9 +51,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Individual GDP shares for services (~59%) and manufacturing (~23%) are derived from DOSM's published combined 82.5%; confirm the exact split against DOSM's detailed GDP-by-sector tables before presenting them as precise figures."
-  - "Trade surplus: DOSM's External Trade Statistics 2024 reports RM139.1 billion; MATRADE's trade-performance release reportedly cited a slightly different figure (~RM136.9 billion). Confirm the final/revised number and which body's figure to lead with."
-  - "'China has remained Malaysia's largest trading partner for more than a decade' — confirm the exact consecutive-year count against the latest DOSM statement (the earlier draft's '16 years' was not verifiable in the cited sources)."
+  - "Bahagian KDNK individu untuk perkhidmatan (~59%) dan pembuatan (~23%) diperoleh daripada gabungan 82.5% yang diterbitkan DOSM; sahkan pembahagian tepat terhadap jadual KDNK-mengikut-sektor terperinci DOSM sebelum membentangkannya sebagai angka yang tepat."
+  - "Lebihan dagangan: External Trade Statistics 2024 DOSM melaporkan RM139.1 bilion; siaran prestasi dagangan MATRADE dilaporkan memetik angka yang sedikit berbeza (~RM136.9 bilion). Sahkan angka muktamad/disemak semula dan angka badan yang mana harus diketengahkan."
+  - "'China telah kekal sebagai rakan dagang terbesar Malaysia selama lebih sedekad' — sahkan kiraan tahun berturut-turut yang tepat terhadap kenyataan DOSM terkini (draf terdahulu '16 tahun' tidak dapat disahkan dalam sumber yang dipetik)."
 updated: 2026-07-28
 sources:
   - title: "Oil Palm Economic Performance in Malaysia and R&D Progress in 2023"

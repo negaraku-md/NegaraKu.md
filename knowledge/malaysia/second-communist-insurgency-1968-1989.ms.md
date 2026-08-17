@@ -41,13 +41,13 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Exact date and venue of the 1990 settlement that ended the Sarawak insurgency. Press accounts and encyclopaedic entries give 17 October 1990 at Wisma Bapa Malaysia, Kuching, but this is not confirmed in the cited authoritative sources; the Kyoto Review states only '1990'."
-  - "Number of guerrillas in the 1990 Sarawak settlement (Kyoto Review: 'roughly 50'; press accounts: 52, led by Ang Cho Teng)."
-  - "Exact day of the Perak CPO Khoo Chong Kong killing. Cited sources (The Rakyat Post, Arkib Negara) give only November 1975 / 1975; external reporting gives 13 November 1975."
-  - "The 20 vs 21 October 1973 dating of the Sri Aman memorandum. The cited Sarawak Museum Department and Sarawak Tribune both give 21 October 1973; some accounts give 20 October."
-  - "Date of the Baling talks (stated here as December 1955) against a primary source."
-  - "Framing of the renewed insurgency's span: cited Arkib Negara entries variously describe a 1968-1978 'Second Emergency' and a 21-year (1968-1989) insurgency."
-  - "Kroh-Betong ambush casualty figures (16 killed, 17 wounded) and the 26 August 1975 Tugu Negara bombing figures (2 killed, 41 injured) against the cited Arkib Negara entries."
+  - "Tarikh dan tempat tepat penyelesaian 1990 yang menamatkan pemberontakan Sarawak. Catatan akhbar dan entri ensiklopedia memberikan 17 Oktober 1990 di Wisma Bapa Malaysia, Kuching, tetapi ini tidak disahkan dalam sumber berautoriti yang dipetik; Kyoto Review hanya menyatakan '1990'."
+  - "Bilangan gerila dalam penyelesaian Sarawak 1990 (Kyoto Review: 'kira-kira 50'; laporan akhbar: 52, dipimpin oleh Ang Cho Teng)."
+  - "Hari tepat pembunuhan CPO Perak Khoo Chong Kong. Sumber yang dipetik (The Rakyat Post, Arkib Negara) hanya memberikan November 1975 / 1975; laporan luar memberikan 13 November 1975."
+  - "Penetapan tarikh 20 berbanding 21 Oktober 1973 bagi memorandum Sri Aman. Sarawak Museum Department dan Sarawak Tribune yang dipetik kedua-duanya memberikan 21 Oktober 1973; sesetengah laporan memberikan 20 Oktober."
+  - "Tarikh rundingan Baling (dinyatakan di sini sebagai Disember 1955) terhadap sumber utama."
+  - "Pembingkaian tempoh pemberontakan yang diperbaharui: entri Arkib Negara yang dipetik pelbagai menggambarkan 'Darurat Kedua' 1968-1978 dan pemberontakan 21 tahun (1968-1989)."
+  - "Angka korban serang hendap Kroh-Betong (16 terbunuh, 17 cedera) dan angka pengeboman Tugu Negara 26 Ogos 1975 (2 terbunuh, 41 cedera) terhadap entri Arkib Negara yang disebut."
 revisions:
   - version: "01.00"
     date: 2026-08-08

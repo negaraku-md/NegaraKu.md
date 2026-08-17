@@ -48,11 +48,11 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Exact gazette date and P.U.(A) number of the Construction Industry Payment and Adjudication (Amendment) Regulations 2025 — practitioner sources give 24 December 2025, but at least one page states 13 October 2025; confirm against the Federal Gazette."
-  - "Whether Act A1738 retained the section 12 45-working-day decision period and its 'void if made late' consequence unchanged, or altered them (sources describe 'tighter default periods; extension requires consent of parties and adjudicator')."
-  - "The precise substantive amendments to the section 5 payment claim and section 6 payment response, and the prescribed forms mandated by the 2025 Regulations."
-  - "Confirm the 'Director'-to-'President' renaming against the gazetted text of Act A1738 (currently supported only by law-firm commentary)."
-  - "The exact scope of the 'clarified and expanded definitions' and the 'strengthened enforcement route / clearer grounds for setting aside' described in secondary sources."
+  - "Tarikh warta sebenar dan nombor P.U.(A) bagi Construction Industry Payment and Adjudication (Amendment) Regulations 2025 — sumber pengamal memberikan 24 Disember 2025, tetapi sekurang-kurangnya satu halaman menyatakan 13 Oktober 2025; sahkan terhadap Warta Persekutuan."
+  - "Sama ada Act A1738 mengekalkan tempoh keputusan 45 hari bekerja di bawah seksyen 12 dan akibat 'void if made late' tanpa perubahan, atau mengubahnya (sumber menerangkan 'tighter default periods; extension requires consent of parties and adjudicator')."
+  - "Pindaan substantif yang tepat terhadap tuntutan bayaran seksyen 5 dan respons bayaran seksyen 6, serta borang yang ditetapkan yang diwajibkan oleh Peraturan 2025."
+  - "Sahkan penamaan semula 'Director' kepada 'President' terhadap teks berwarta Act A1738 (kini disokong hanya oleh ulasan firma guaman)."
+  - "Skop tepat 'definisi yang diperjelas dan diperluas' serta 'laluan penguatkuasaan yang diperkukuh / alasan yang lebih jelas untuk mengetepikan' yang diperihalkan dalam sumber sekunder."
 
 updated: 2026-08-07
 sources:

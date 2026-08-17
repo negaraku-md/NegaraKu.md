@@ -38,9 +38,9 @@ faq:
     a: "Jarang berlaku dalam praktiknya. Pengembalian kerja adalah remedi berkanun yang utama, tetapi apabila hubungan pekerjaan telah putus, Mahkamah biasanya memberikan pampasan sebagai ganti pengembalian kerja, dikira pada kadar gaji sebulan bagi setiap tahun perkhidmatan yang lengkap di bawah Nota Amalan 3 Tahun 2019, di samping gaji balik."
 
 verificationNeeded:
-  - "No statutory time limit governs the conciliation stage. Section 20(2) requires only that the Director General take steps so that an expeditious settlement is arrived at. Any published figure for how long conciliation takes is administrative reporting, not law, and none was confirmed."
-  - "Section 30(3) requires the Court to make its award without delay and where practicable within thirty days from the date of reference. Actual disposal times are not published as a verified statistic and are not stated here."
-  - "Whether Industrial Court filing carries any fee — not confirmed against mp.gov.my."
+  - "Tiada had masa statutori yang mengawal peringkat konsiliasi. Seksyen 20(2) hanya memerlukan Ketua Pengarah mengambil langkah supaya penyelesaian yang cepat dicapai. Sebarang angka yang diterbitkan tentang berapa lama konsiliasi mengambil masa adalah pelaporan pentadbiran, bukan undang-undang, dan tiada yang disahkan."
+  - "Seksyen 30(3) menghendaki Mahkamah membuat awardnya tanpa berlengah dan jika boleh dilaksanakan dalam tempoh tiga puluh hari dari tarikh rujukan. Masa pelupusan sebenar tidak diterbitkan sebagai statistik yang disahkan dan tidak dinyatakan di sini."
+  - "Sama ada pemfailan di Mahkamah Perusahaan dikenakan sebarang yuran — belum disahkan terhadap mp.gov.my."
 
 obligations:
   - what: "File a s.20 representation for reinstatement after dismissal"

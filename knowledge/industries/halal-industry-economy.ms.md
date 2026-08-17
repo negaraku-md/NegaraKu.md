@@ -51,12 +51,12 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Exact count (stated as 14) and total area (stated as 200,000+ acres) of HALMAS-certified halal parks — currently sourced only to commercial industry summaries; confirm against a primary HDC or MITI source."
-  - "Current HALMAS-certified status of the named parks (Selangor Halal Hub / Pulau Indah, Penang International Halal Hub, PKFZ National Halal Park, Techpark @ Enstek, Iskandar Business Park, POIC Tanjung Langsat)."
-  - "Breadth of international recognition of JAKIM halal certification — the previously stated 'over 100 countries' figure could not be confirmed against a JAKIM/HDC primary source and has been removed; confirm the correct figure before restating a number."
-  - "Full list of quality standards eligible for the double-deduction incentive — HACCP and GMP are confirmed by the cited source; any additional standards (e.g. Codex) are unverified."
-  - "MIHAS 2025 exact dates and venue — no primary source found; the specific '17–20 September 2025' date has been removed pending confirmation with the official MIHAS organiser."
-  - "Status and timeline of the approved HDC–MATRADE merger."
+  - "Kiraan tepat (dinyatakan sebagai 14) dan jumlah keluasan (dinyatakan sebagai 200,000+ ekar) taman halal yang diperakui HALMAS — kini bersumber hanya kepada ringkasan industri komersial; sahkan terhadap sumber utama HDC atau MITI."
+  - "Status pensijilan HALMAS semasa bagi taman yang dinamakan (Selangor Halal Hub / Pulau Indah, Penang International Halal Hub, PKFZ National Halal Park, Techpark @ Enstek, Iskandar Business Park, POIC Tanjung Langsat)."
+  - "Keluasan pengiktirafan antarabangsa pensijilan halal JAKIM — angka 'melebihi 100 negara' yang dinyatakan sebelum ini tidak dapat disahkan terhadap sumber primer JAKIM/HDC dan telah dibuang; sahkan angka yang betul sebelum menyatakan semula sesuatu nombor."
+  - "Senarai penuh piawaian kualiti yang layak untuk insentif potongan dua kali — HACCP dan GMP disahkan oleh sumber yang dipetik; sebarang piawaian tambahan (cth. Codex) tidak disahkan."
+  - "Tarikh dan tempat tepat MIHAS 2025 — tiada sumber primer ditemui; tarikh khusus '17–20 September 2025' telah dibuang sementara menunggu pengesahan dengan penganjur rasmi MIHAS."
+  - "Status dan garis masa penggabungan HDC–MATRADE yang diluluskan."
 
 updated: 2026-07-28
 sources:

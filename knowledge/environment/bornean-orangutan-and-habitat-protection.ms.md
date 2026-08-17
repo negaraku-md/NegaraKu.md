@@ -53,9 +53,9 @@ revisions:
 updated: 2026-07-28
 
 verificationNeeded:
-  - "IUCN Red List page for Pongo pygmaeus (species/17975/17966347) returns HTTP 403 to automated fetch; the Critically Endangered status is corroborated by the fetched PLOS ONE paper, which cites the IUCN Red List 2016 (errata 2018) assessment by Ancrenaz et al. A human should open the IUCN page to confirm the live URL and current category."
-  - "The FAOLEX PDF (mal22259.pdf) could not be text-extracted to confirm it is the full Wildlife Conservation Enactment 1997; the URL is a legitimate FAOLEX law-database entry, and the 2016 penalty figures are corroborated by the Malay Mail report rather than the primary PDF text."
-  - "Per-region 2002–2017 pairings (Deramakot+Segama, Tabin, Kulamba) were confirmed against the PLOS ONE full text; a human should re-check the exact figures against the published article and its supplementary tables before the article is finalised."
+  - "Halaman IUCN Red List untuk Pongo pygmaeus (species/17975/17966347) mengembalikan HTTP 403 kepada capaian automatik; status Kritikal Terancam disokong oleh kertas PLOS ONE yang diperoleh, yang memetik penilaian IUCN Red List 2016 (errata 2018) oleh Ancrenaz et al. Seorang manusia harus membuka halaman IUCN untuk mengesahkan URL langsung dan kategori semasa."
+  - "PDF FAOLEX (mal22259.pdf) tidak dapat diekstrak teksnya untuk mengesahkan ia adalah Wildlife Conservation Enactment 1997 penuh; URL tersebut ialah entri pangkalan data undang-undang FAOLEX yang sah, dan angka penalti 2016 disokong oleh laporan Malay Mail dan bukannya teks PDF utama."
+  - "Pasangan setiap kawasan 2002–2017 (Deramakot+Segama, Tabin, Kulamba) telah disahkan terhadap teks penuh PLOS ONE; manusia hendaklah menyemak semula angka tepat terhadap artikel yang diterbitkan dan jadual tambahannya sebelum artikel dimuktamadkan."
 
 sources:
   - title: "Wildlife Conservation Enactment 1997 (full text)"

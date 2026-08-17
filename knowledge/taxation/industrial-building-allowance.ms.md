@@ -38,7 +38,7 @@ faq:
     a: "Tidak penting dalam jualan wajar biasa — perbelanjaan yang layak bagi pembeli ialah harga belian pembeli itu sendiri, tanpa mengira apa yang telah ditulis-turun oleh penjual. Ia menjadi penting apabila transaksi itu termasuk di bawah perenggan 38 hingga 40, yang menganggap sesuatu pemindahan terkawal berlaku pada perbelanjaan baki pihak yang melupuskan dan memindahkan angka itu kepada pihak yang memperoleh."
 
 verificationNeeded:
-  - "Whether any gazetted order currently prescribes a fraction other than three-hundredths for the annual allowance under paragraph 16"
+  - "Sama ada mana-mana perintah berwarta kini menetapkan pecahan selain tiga per seratus bagi elaun tahunan di bawah perenggan 16"
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"

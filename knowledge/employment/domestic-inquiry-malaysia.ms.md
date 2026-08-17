@@ -38,9 +38,9 @@ faq:
     a: "Tidak. Siasatan yang dijalankan dengan betul adalah keterangan yang menyokong pemberhentian itu, bukan penghalang kepada sebarang tuntutan. Pekerja masih boleh memfailkan representasi s.20 di bawah Akta Perhubungan Perusahaan 1967, dan secara berasingan boleh membuat aduan kepada Ketua Pengarah Buruh di bawah s.69(3) Akta Kerja 1955 dalam tempoh 60 hari."
 
 verificationNeeded:
-  - "The requirements of natural justice applied to domestic inquiries — impartial panel, notice of the charge, opportunity to be heard, right to question witnesses — are judicial developments of the Industrial Court and superior courts, not statutory text. Confirm the leading authorities before citing any case name."
-  - "Confirm whether JTKSM publishes a departmental guideline on domestic inquiry procedure; none was located on jtksm.mohr.gov.my."
-  - "Whether the equivalent of s.14 applies in Sabah and Sarawak under the Sabah Labour Ordinance (Cap 67) and Sarawak Labour Ordinance (Cap 76) — not verified here."
+  - "Keperluan keadilan asasi yang terpakai kepada siasatan dalaman — panel yang saksama, notis pertuduhan, peluang untuk didengar, hak untuk menyoal saksi — merupakan perkembangan kehakiman Mahkamah Perusahaan dan mahkamah atasan, bukan teks berkanun. Sahkan autoriti utama sebelum memetik sebarang nama kes."
+  - "Sahkan sama ada JTKSM menerbitkan garis panduan jabatan mengenai prosedur siasatan dalaman; tiada yang ditemui di jtksm.mohr.gov.my."
+  - "Sama ada persamaan s.14 terpakai di Sabah dan Sarawak di bawah Sabah Labour Ordinance (Cap 67) dan Sarawak Labour Ordinance (Cap 76) — tidak disahkan di sini."
 
 obligations:
   - what: "Restore wages withheld during a suspension where the inquiry discloses no misconduct"

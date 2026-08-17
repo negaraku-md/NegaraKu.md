@@ -38,7 +38,7 @@ faq:
     a: "Hanya jika anda memenuhi kriteria dalam Arahan Amalan SSM 10/2024 — sekurang-kurangnya dua daripada tiga ujian mengenai hasil, jumlah aset dan bilangan pekerja, atau syarikat tidak aktif (dorman). Ambang tersebut dilaksanakan secara berperingkat dan bergantung kepada tahun kewangan anda. Pengecualian menghapuskan audit, bukan pemfailan: penyata yang tidak diaudit masih perlu diserahkan kepada SSM."
 
 verificationNeeded:
-  - "Confirm the current PERKESO registration deadline in days — the PERKESO employer registration page states the duty to register without stating a period"
+  - "Sahkan tarikh akhir pendaftaran PERKESO semasa dalam bilangan hari — halaman pendaftaran majikan PERKESO menyatakan kewajipan untuk mendaftar tanpa menyatakan sesuatu tempoh"
 
 obligations:
   - what: "Appoint a licensed company secretary"

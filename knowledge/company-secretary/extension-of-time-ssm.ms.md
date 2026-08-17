@@ -37,8 +37,8 @@ faq:
     a: "Perenggan 7 Practice Note 3/2018 memperuntukkan bahawa dokumen yang difailkan selepas tarikh akhir dianggap difailkan dalam tempoh yang ditetapkan jika ia difailkan dalam tempoh lanjutan yang diluluskan. Lanjutan masa ini meneutralkan kelewatan itu sepenuhnya, bukan sekadar mengurangkan penalti."
 
 verificationNeeded:
-  - "Confirm the current channel for submitting an extension of time application — Practice Note 3/2018 predates MBRS 2.0, and extension applications now fall within the MBRS 2.0 mandatory scope announced on 26 November 2024"
-  - "Confirm whether SSM publishes a maximum extension period; Practice Note 3/2018 leaves the length to the Registrar's discretion and states no cap"
+  - "Sahkan saluran semasa untuk mengemukakan permohonan lanjutan masa — Practice Note 3/2018 mendahului MBRS 2.0, dan permohonan lanjutan kini termasuk dalam skop mandatori MBRS 2.0 yang diumumkan pada 26 November 2024"
+  - "Sahkan sama ada SSM menerbitkan tempoh lanjutan maksimum; Practice Note 3/2018 menyerahkan tempohnya kepada budi bicara Pendaftar dan tidak menyatakan sebarang had"
 
 obligations:
   - what: "Apply for an extension of time to circulate or lodge financial statements"

@@ -42,11 +42,11 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Exact chronology and years of every ministry rename (KPDNHEP, KPDNKK/MDTCC, then KPDN in Dec 2022) — confirm each transition year against an official/Hansard source before listing them."
-  - "TTPM specifics beyond the RM50,000 ceiling (RM5 filing fee, 3-year limitation) — reconfirm on the live TTPM/KPDN page before publishing exact figures."
-  - "Consumer complaint channel numbers (1-800-886-800; WhatsApp 019-848 8000; eaduan.kpdn.gov.my; Ez ADU; e-aduan@kpdn.gov.my) — verify current on kpdn.gov.my/bantuan, as hotlines occasionally change."
-  - "Exact number of divisions/bahagian and the total count of Acts administered — confirm before stating a hard number."
-  - "Current Deputy Minister and Secretary-General — verify still in office at publication."
+  - "Kronologi tepat dan tahun setiap penamaan semula kementerian (KPDNHEP, KPDNKK/MDTCC, kemudian KPDN pada Dec 2022) — sahkan setiap peralihan tahun terhadap sumber rasmi/Hansard sebelum menyenaraikannya."
+  - "Butiran TTPM di luar had siling RM50,000 (yuran pemfailan RM5, had masa 3 tahun) — sahkan semula pada halaman TTPM/KPDN yang aktif sebelum menerbitkan angka tepat."
+  - "Nombor saluran aduan pengguna (1-800-886-800; WhatsApp 019-848 8000; eaduan.kpdn.gov.my; Ez ADU; e-aduan@kpdn.gov.my) — sahkan kekiniannya pada kpdn.gov.my/bantuan, kerana talian hotline kadangkala berubah."
+  - "Bilangan tepat bahagian dan jumlah kiraan Akta yang ditadbir — sahkan sebelum menyatakan angka yang tetap."
+  - "Timbalan Menteri dan Ketua Setiausaha semasa — sahkan masih memegang jawatan setakat penerbitan."
 updated: 2026-08-14
 sources:
   - title: "Latar Belakang - KPDN"

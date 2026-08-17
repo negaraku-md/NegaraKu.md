@@ -43,8 +43,8 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Whether a self-accrediting institution's programmes are registered in the MQR automatically or via application (MQA's qanew.cfm says the HEP 'may apply to register'; secondary summaries describe automatic registration after institutional audit)."
-  - "MQF minimum-credit figures and the eight-level titles against the current MQF 2nd Edition, in case MQA issues a revised edition."
+  - "Sama ada program institusi swaakreditasi didaftarkan dalam MQR secara automatik atau melalui permohonan (qanew.cfm MQA menyatakan HEP 'may apply to register'; ringkasan sekunder memerihalkan pendaftaran automatik selepas audit institusi)."
+  - "Angka kredit minimum MQF dan lapan tajuk peringkat terhadap MQF 2nd Edition semasa, sekiranya MQA mengeluarkan edisi yang disemak."
 revisions:
   - version: "01.00"
     date: 2026-08-08

@@ -23,8 +23,8 @@ keyTakeaways:
 appliesTo: "Sesiapa yang membaca dokumen korporat Malaysia, invois setiausaha syarikat, atau panduan lama yang masih merujuk kepada borang-borang Akta Syarikat 1965."
 
 verificationNeeded:
-  - "SSM portal names and URLs change over time — confirm the current portal for each service on ssm.com.my before filing"
-  - "Confirm the current scope of agencies participating in BLESS and MalaysiaBiz, which is expanded periodically"
+  - "Nama portal dan URL SSM berubah dari semasa ke semasa — sahkan portal semasa bagi setiap perkhidmatan di ssm.com.my sebelum memfailkan"
+  - "Sahkan skop semasa agensi yang menyertai BLESS dan MalaysiaBiz, yang diperluas secara berkala"
 
 lang: "ms"
 masterLanguage: "en"

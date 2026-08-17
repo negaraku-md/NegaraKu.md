@@ -24,8 +24,8 @@ keyTakeaways:
 appliesTo: "Pembangun yang membina integrasi MyInvois, perunding ERP yang memetakan data induk, serta pasukan kewangan yang menyahpepijat penyerahan yang ditolak."
 
 verificationNeeded:
-  - "The full published list of granular validation error codes (CF, DS, ST prefixes) — the SDK documents the seven validator categories and standard HTTP error codes but does not publish an exhaustive code-to-condition table"
-  - "Per-endpoint API rate limits — the SDK refers to Integration Practices without stating numeric limits on the FAQ page"
+  - "Senarai penuh yang diterbitkan bagi kod ralat pengesahan berbutir (awalan CF, DS, ST) — SDK mendokumenkan tujuh kategori pengesah dan kod ralat HTTP standard tetapi tidak menerbitkan jadual kod-ke-keadaan yang menyeluruh"
+  - "Had kadar API setiap titik akhir — SDK merujuk kepada Integration Practices tanpa menyatakan had berangka pada laman FAQ"
 
 lang: "ms"
 masterLanguage: "en"

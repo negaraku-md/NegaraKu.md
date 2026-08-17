@@ -23,9 +23,9 @@ keyTakeaways:
 appliesTo: "Pengasas, setiausaha syarikat dan pasukan kewangan yang membajet kos pengemukaan SSM."
 
 verificationNeeded:
-  - "The RM30 / RM60 / RM5 / RM10 business registration fees are taken from SSM's published guidelines rather than from a retrieved gazetted schedule under the Registration of Businesses Rules 1957 as amended — confirm against the Rules before relying on them in a fee quotation"
-  - "Confirm whether any fee waiver or incentive scheme is currently open — the SPPP and S1O1P schemes referenced in SSM's EzBiz guidelines carry their own eligibility conditions and end dates"
-  - "SSM publishes no general processing-time service standard for company incorporation; the figures given here come from individual guidelines of varying dates"
+  - "Yuran pendaftaran perniagaan RM30 / RM60 / RM5 / RM10 diambil daripada garis panduan yang diterbitkan SSM dan bukan daripada jadual berwarta yang diperoleh di bawah Registration of Businesses Rules 1957 sebagaimana dipinda — sahkan terhadap Rules tersebut sebelum bergantung padanya dalam sebutan harga yuran"
+  - "Sahkan sama ada mana-mana pengecualian yuran atau skim insentif sedang dibuka — skim SPPP dan S1O1P yang dirujuk dalam garis panduan EzBiz SSM membawa syarat kelayakan dan tarikh tamatnya sendiri"
+  - "SSM tidak menerbitkan sebarang piagam standard tempoh pemprosesan umum bagi pemerbadanan syarikat; angka yang diberikan di sini datang daripada garis panduan individu yang berbeza tarikh"
 
 lang: "ms"
 masterLanguage: "en"

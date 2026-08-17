@@ -45,7 +45,7 @@ reviewDue: 2027-08-03
 publishedBy: "ashton-tan"
 version: "01.00"
 verificationNeeded:
-  - "Post-2025 revised capacities: the draft cites the original targets (150,000 t/year ammonia; 88,000 t/year MCH). Confirm the reduced capacities after the 2025 scale-down."
+  - "Kapasiti disemak semula selepas 2025: draf memetik sasaran asal (150,000 t/tahun ammonia; 88,000 t/tahun MCH). Sahkan kapasiti yang dikurangkan selepas penurunan skala 2025."
 revisions:
   - version: "01.00"
     date: 2026-08-01

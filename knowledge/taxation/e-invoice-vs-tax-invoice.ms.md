@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Perniagaan berdaftar SST yang turut berada dalam skop e-Invois, dan sesiapa yang mereka bentuk templat invois yang perlu memenuhi kedua-dua pengawal selia."
 
 verificationNeeded:
-  - "Whether RMCD has issued a dedicated guide reconciling the e-Invoice visual representation with the SST invoice particulars — none was located on mysst.customs.gov.my"
+  - "Sama ada RMCD telah mengeluarkan panduan khusus yang menyelaraskan perwakilan visual e-Invois dengan butiran invois SST — tiada yang ditemui di mysst.customs.gov.my"
 
 lang: "ms"
 masterLanguage: "en"

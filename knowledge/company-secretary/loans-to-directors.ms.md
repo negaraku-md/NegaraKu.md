@@ -36,7 +36,7 @@ faq:
     a: "Ya. Seksyen 224(7) memperuntukkan bahawa tiada apa-apa dalam seksyen ini menghalang syarikat daripada menuntut semula jumlah mana-mana pinjaman, atau mana-mana jumlah yang menjadikannya bertanggungan di bawah jaminan atau cagaran yang diberikan secara bercanggah dengan seksyen ini. Seksyen 225(3) mengandungi peraturan yang setara bagi pinjaman kepada orang yang berkaitan. Pinjaman itu kekal boleh dituntut semula walaupun tindakan memberikannya adalah suatu kesalahan."
 
 verificationNeeded:
-  - "Confirm the current statutory definition and qualifying conditions for an exempt private company as applied by SSM in practice, including the s.260 certificate route"
+  - "Sahkan takrifan statutori semasa dan syarat kelayakan untuk syarikat persendirian dikecualikan seperti yang diamalkan oleh SSM dalam praktik, termasuk laluan sijil s.260"
 
 obligations:
   - what: "Perolehi kelulusan syarikat melalui resolusi bagi pinjaman, jaminan atau cagaran yang diberikan kepada pengarah tanpa kelulusan terlebih dahulu — syarikat persendirian"

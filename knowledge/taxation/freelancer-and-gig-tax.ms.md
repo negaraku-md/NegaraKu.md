@@ -36,8 +36,8 @@ faq:
     a: "Tidak. Akta 872 adalah statut klasifikasi untuk tujuan buruh dan keselamatan sosial dan mentakrifkan siapa yang dikira sebagai pekerja gig di bawah perjanjian perkhidmatan. Klasifikasi cukai pendapatan anda masih bergantung kepada s.4 Akta Cukai Pendapatan 1967, dan berada di bawah Akta 872 tidak menjadikan anda pekerja bergaji untuk tujuan cukai."
 
 verificationNeeded:
-  - "The badges-of-trade factors used here to separate s.4(a) from s.4(f) are drawn from the statutory language and general Malaysian practice, not from a Public Ruling on freelance income — LHDN has not published one specific to gig or creator income"
-  - "Whether platform operators are required to issue self-billed e-Invoices for payments to individual gig workers, and at which phase, should be confirmed against the current e-Invoice Specific Guideline"
+  - "Faktor badges-of-trade yang digunakan di sini untuk memisahkan s.4(a) daripada s.4(f) diambil daripada bahasa statutori dan amalan umum Malaysia, bukan daripada Public Ruling tentang pendapatan pekerja bebas — LHDN tidak menerbitkan satu yang khusus untuk pendapatan gig atau pencipta kandungan"
+  - "Sama ada pengendali platform dikehendaki mengeluarkan e-Invois bil sendiri bagi pembayaran kepada pekerja gig individu, dan pada fasa mana, harus disahkan terhadap e-Invoice Specific Guideline semasa"
 
 lang: "ms"
 masterLanguage: "en"

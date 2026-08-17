@@ -35,7 +35,7 @@ faq:
     a: "Hanya dengan kelulusan ahli. Seksyen 227(1) menjadikannya menyalahi undang-undang bagi sesebuah syarikat membayar pampasan kepada pengarah bagi kehilangan jawatan, atau berhubung persaraan, melainkan butiran termasuk jumlahnya telah didedahkan kepada ahli dan cadangan itu diluluskan oleh mereka. Jika bayaran yang menyalahi undang-undang dibuat, s.227(1) menganggap pengarah itu memegang jumlah tersebut secara amanah untuk syarikat."
 
 verificationNeeded:
-  - "Confirm the treatment of executive directors as workmen under s.20 of the Industrial Relations Act 1967 — this turns on case law, not on the face of the statute"
+  - "Sahkan layanan pengarah eksekutif sebagai pekerja di bawah s.20 Industrial Relations Act 1967 — perkara ini bergantung pada undang-undang kes, bukan pada teks jelas statut"
 
 lang: "ms"
 masterLanguage: "en"

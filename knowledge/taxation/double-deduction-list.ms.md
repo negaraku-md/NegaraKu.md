@@ -23,9 +23,9 @@ keyTakeaways:
 appliesTo: "Penyedia cukai syarikat, pasukan kewangan dalaman dan penasihat yang menyemak sama ada sesuatu insentif masih wujud."
 
 verificationNeeded:
-  - "Pre-2000 double deductions (approved training P.U.(A) 61/1992, export credit insurance premiums, promotion of exports) are not retrievable in full text from the AGC subsidiary-legislation database — the Promotion of Exports Rules survive only as amendment P.U.(A) 267/2003. Confirm current status with LHDN before claiming."
-  - "Income Tax (Deductions for the Employment of Disabled Persons) Rules 1982, P.U.(A) 73/1982 — only the 2019 amending instrument is retrievable; the parent text was not located, so the mechanism is described from the amendment."
-  - "Whether P.U.(A) 164/2019 was further extended beyond YA2025 by an instrument gazetted after this page was written."
+  - "Potongan berganda pra-2000 (latihan diluluskan P.U.(A) 61/1992, premium insurans kredit eksport, promosi eksport) tidak boleh diperoleh dalam teks penuh daripada pangkalan data perundangan subsidiari AGC — Promotion of Exports Rules hanya wujud sebagai pindaan P.U.(A) 267/2003. Sahkan status semasa dengan LHDN sebelum menuntut."
+  - "Income Tax (Deductions for the Employment of Disabled Persons) Rules 1982, P.U.(A) 73/1982 — hanya instrumen pindaan 2019 yang boleh diperoleh; teks induk tidak ditemui, jadi mekanisme itu diterangkan daripada pindaan tersebut."
+  - "Sama ada P.U.(A) 164/2019 telah dilanjutkan lagi melangkaui YA2025 oleh instrumen yang diwartakan selepas halaman ini ditulis."
 
 lang: "ms"
 masterLanguage: "en"

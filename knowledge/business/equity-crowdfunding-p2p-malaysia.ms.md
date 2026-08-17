@@ -38,10 +38,10 @@ faq:
     a: "Hanya jika platform itu mempunyai kelulusan SC untuk mengendalikan pasaran sekunder, dan hanya bagi saham yang dihoskan serta berjaya dibiayai di platform tersebut. Perdagangan boleh bermula paling awal enam bulan selepas kempen pengumpulan dana selesai, dan saham promoter hanya boleh dijual selepas satu lagi tempoh enam bulan dari permulaan perdagangan."
 
 verificationNeeded:
-  - "The SC's dedicated List of Registered Recognized Market Operators page was returning an error and could not be read; operator names were taken from the SC Digital Initiatives page, which carries no last-updated date. Confirm current registration status on the SC's register before relying on any name"
-  - "No ECF or P2P specific funds-raised figure for 2025 could be located on an SC page — the RM5.7 billion in the Annual Report 2025 landing page is a broader alternative fundraising category and is not an ECF and P2P figure"
-  - "Whether any operator registration has been revoked or withdrawn could not be verified from an SC source"
-  - "The Guidelines prescribe no minimum or maximum tenure for a P2P investment note; only a 3-month minimum remaining repayment period for secondary market admission was located"
+  - "Halaman khusus List of Registered Recognized Market Operators SC mengembalikan ralat dan tidak dapat dibaca; nama pengendali diambil daripada halaman SC Digital Initiatives, yang tidak membawa tarikh kemas kini terakhir. Sahkan status pendaftaran semasa pada daftar SC sebelum bergantung pada mana-mana nama"
+  - "Tiada angka dana dikumpul khusus ECF atau P2P bagi 2025 dapat ditemui pada halaman SC — RM5.7 bilion dalam halaman utama Annual Report 2025 merupakan kategori pengumpulan dana alternatif yang lebih luas dan bukan angka ECF dan P2P"
+  - "Sama ada mana-mana pendaftaran pengendali telah dibatalkan atau ditarik balik tidak dapat disahkan daripada sumber SC"
+  - "Garis Panduan tidak menetapkan sebarang tempoh minimum atau maksimum bagi nota pelaburan P2P; hanya tempoh baki pembayaran balik minimum 3 bulan bagi kemasukan pasaran sekunder yang ditemui"
 
 lang: "ms"
 masterLanguage: "en"

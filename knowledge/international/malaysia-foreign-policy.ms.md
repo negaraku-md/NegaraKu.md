@@ -46,7 +46,7 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "The live Wisma Putra organisation chart (Secretary-General + 3 Deputy Secretaries-General, 6 federal departments, 4 federal agencies) — the 3/6/4 breakdown could not be re-verified line-by-line against the current KLN organisation chart (kln.gov.my returns TLS certificate errors on direct fetch); confirm against the primary org chart before stating the exact counts."
+  - "Carta organisasi Wisma Putra terkini (Ketua Setiausaha + 3 Timbalan Ketua Setiausaha, 6 jabatan persekutuan, 4 agensi persekutuan) — pecahan 3/6/4 tidak dapat disahkan semula baris demi baris terhadap carta organisasi KLN semasa (kln.gov.my mengembalikan ralat sijil TLS pada capaian langsung); sahkan terhadap carta organisasi primer sebelum menyatakan kiraan yang tepat."
 updated: 2026-08-14
 sources:
   - title: "Ministry of Foreign Affairs (Malaysia)"

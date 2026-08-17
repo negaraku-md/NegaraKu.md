@@ -38,9 +38,9 @@ faq:
     a: "Dari segi kos pendaftaran, sebuah Sdn Bhd yang diperbadankan secara tempatan pada RM1,000 jauh lebih murah berbanding yuran minimum cawangan sebanyak RM5,000. Dari segi pemfailan tahunan, cawangan membayar RM500 untuk penyata tahunan dan RM200 untuk penyata kewangan, berbanding RM150 dan RM50 bagi syarikat persendirian. Cawangan juga menanggung penyata teraudit Malaysia di bawah s.575(5) dan mendedahkan keseluruhan syarikat asing itu berbanding sebuah entiti tempatan yang berpagar."
 
 verificationNeeded:
-  - "Confirm current SSM processing time for foreign company registration — the guideline states a notice of registration within one working day, but that guideline is dated 2017"
-  - "Confirm the current MyCoID or MBRS lodgement route for foreign company annual returns and financial statements following the MBRS 2.0 Phase 2 rollout"
-  - "Whether a certificate of registration of a foreign company is issued only on request and the prescribed fee for it — SSM's guideline says on request without stating the amount"
+  - "Sahkan masa pemprosesan SSM semasa bagi pendaftaran syarikat asing — garis panduan menyatakan notis pendaftaran dalam satu hari bekerja, tetapi garis panduan itu bertarikh 2017"
+  - "Sahkan laluan pemfailan MyCoID atau MBRS semasa bagi penyata tahunan dan penyata kewangan syarikat asing berikutan pelancaran MBRS 2.0 Fasa 2"
+  - "Sama ada sijil pendaftaran syarikat asing dikeluarkan hanya atas permintaan dan yuran yang ditetapkan baginya — garis panduan SSM menyatakan atas permintaan tanpa menyatakan jumlahnya"
 
 obligations:
   - what: "Lodge with the Registrar the situation of the registered office in Malaysia"

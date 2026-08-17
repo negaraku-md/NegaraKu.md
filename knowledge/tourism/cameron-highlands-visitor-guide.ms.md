@@ -48,7 +48,7 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Orang Asli village tour operators, durations and departure points — not stated by the cited source (Penang Travel Tips)."
+  - "Pengendali pelancongan kampung Orang Asli, tempoh dan titik berlepas — tidak dinyatakan oleh sumber yang dipetik (Penang Travel Tips)."
 
 updated: 2026-08-14
 sources:

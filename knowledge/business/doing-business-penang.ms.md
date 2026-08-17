@@ -36,9 +36,9 @@ faq:
     a: "Kawasan yang tersenarai ditadbir oleh Pelan Kawasan Khas George Town, yang berfungsi sebagai pelan pengurusan pemuliharaan bagi zon teras dan zon penampan, di samping Enakmen Warisan Negeri Pulau Pinang 2011 yang disenaraikan oleh MBPP antara perundangan yang mentadbirnya sendiri. Secara praktikal, pengubahsuaian, kelengkapan dalaman dan papan tanda di teras bersejarah adalah terhad. Kekangan warisan bukan hanya urusan pulau — garis panduan papan tanda MBSP sendiri menetapkan spesifikasi berasingan bagi premis perniagaan bernilai warisan di Seberang Perai."
 
 verificationNeeded:
-  - "MBPP premise, trade and advertisement licence fee rates — MBPP publishes its by-laws only as scanned images with no text layer, so no rate is machine-readable"
-  - "The size and language rule in the Advertisement By-Laws (MPPP) 2000 — the same scanning problem prevents reading the operative text"
-  - "Whether the Bayan Lepas and Perai free industrial zone declarations under the Free Zones Act 1990 have been amended, and the current gazetted zone boundaries"
+  - "Kadar fi lesen premis, perdagangan dan pengiklanan MBPP — MBPP menerbitkan undang-undang kecilnya hanya sebagai imej yang diimbas tanpa lapisan teks, jadi tiada kadar yang boleh dibaca mesin"
+  - "Peraturan saiz dan bahasa dalam Advertisement By-Laws (MPPP) 2000 — masalah pengimbasan yang sama menghalang pembacaan teks operatif"
+  - "Sama ada pengisytiharan zon perindustrian bebas Bayan Lepas dan Perai di bawah Free Zones Act 1990 telah dipinda, dan sempadan zon yang diwartakan semasa"
 
 lang: "ms"
 masterLanguage: "en"

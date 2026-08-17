@@ -39,9 +39,9 @@ faq:
     a: "Ia merancang, memudahkan dan menyelaraskan pembangunan di bawah Pelan Pembangunan Komprehensif iii bagi 2022 hingga 2030, dan turut mengetuai Pusat Pemudah Cara Pelaburan Malaysia Johor bersama Invest Johor dan MIDA. IMFC-J mengeluarkan pengesahan lokasi dalam zon flagship JS-SEZ yang diperlukan MIDA sebagai prasyarat permohonan."
 
 verificationNeeded:
-  - "P.U.(B) 56/2007, the original determination of the Iskandar Development Region containing the mukim-level delineation, is listed as not available on the AGC portal. Do not publish a mukim list."
-  - "Whether the approved developer limbs of P.U.(A) 417/2007 were extended by any amendment gazetted between 2008 and 2010. AGC coverage of that period is sparse, so a negative search is not conclusive."
-  - "All widely repeated corporate facts about Medini Iskandar Malaysia Sdn Bhd and its shareholders come from non-official sources and were not verified"
+  - "P.U.(B) 56/2007, penetapan asal Iskandar Development Region yang mengandungi pembahagian peringkat mukim, disenaraikan sebagai tidak tersedia di portal AGC. Jangan terbitkan senarai mukim."
+  - "Sama ada cabang pemaju yang diluluskan dalam P.U.(A) 417/2007 dilanjutkan oleh sebarang pindaan yang diwartakan antara 2008 dan 2010. Liputan AGC bagi tempoh tersebut adalah terhad, jadi carian negatif tidak muktamad."
+  - "Semua fakta korporat yang meluas diulang mengenai Medini Iskandar Malaysia Sdn Bhd dan pemegang sahamnya datang daripada sumber tidak rasmi dan tidak disahkan"
 
 lang: "ms"
 masterLanguage: "en"

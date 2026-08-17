@@ -40,11 +40,11 @@ faq:
     a: "Tiada pihak rasmi yang tahu. Kementerian Tenaga Manusia Singapura menerbitkan tenaga kerja asingnya mengikut jenis pas tanpa pecahan kewarganegaraan, dan DOSM tidak menyelenggara set data ulang-alik rentas sempadan. Angka yang kerap diulang sekitar 300,000 tidak dapat dijejaki kepada mana-mana kerajaan. Anggap kesan gaji ke atas Johor sebagai nyata dan jumlah kepala sebagai tidak disahkan."
 
 verificationNeeded:
-  - "Reconcile DOSM's own two 2025 series — the annual Labour Force Survey gives Sabah unemployment at 7.2 per cent and Selangor LFPR at 78.4 per cent, while the revised quarterly table implies 6.3 per cent and 77.4 per cent. The divergence appears to be a population-base difference specific to the 2025 vintage and is not explained in either publication"
-  - "Confirm manufacturing or sector employment by state — DOSM publishes none in open data, and the state breakdown of the Employment Statistics release sits behind the eStatistik login"
-  - "Confirm the stock of electrical and electronics workers in Penang — no official figure exists on InvestPenang, the Penang state portal or MIDA"
-  - "Confirm graduate output by state — the Ministry of Higher Education publishes enrolment by campus state but not output by state"
-  - "Confirm the count of documented foreign workers holding a PLKS, nationally and by state — DOSM publishes non-citizen population, which includes dependants, students, permanent residents and undocumented persons"
+  - "Selaraskan dua siri 2025 DOSM sendiri — Labour Force Survey tahunan memberikan pengangguran Sabah pada 7.2 peratus dan LFPR Selangor pada 78.4 peratus, manakala jadual suku tahunan yang disemak semula membayangkan 6.3 peratus dan 77.4 peratus. Perbezaan ini nampaknya merupakan perbezaan asas populasi khusus bagi versi 2025 dan tidak dijelaskan dalam mana-mana penerbitan"
+  - "Sahkan guna tenaga pembuatan atau sektor mengikut negeri — DOSM tidak menerbitkan sebarang data terbuka, dan pecahan mengikut negeri bagi terbitan Employment Statistics berada di sebalik log masuk eStatistik"
+  - "Sahkan stok pekerja elektrik dan elektronik di Pulau Pinang — tiada angka rasmi wujud di InvestPenang, portal negeri Pulau Pinang atau MIDA"
+  - "Sahkan pengeluaran graduan mengikut negeri — Kementerian Pengajian Tinggi menerbitkan enrolmen mengikut negeri kampus tetapi bukan pengeluaran mengikut negeri"
+  - "Sahkan kiraan pekerja asing berdokumen yang memegang PLKS, secara nasional dan mengikut negeri — DOSM menerbitkan populasi bukan warganegara, yang termasuk tanggungan, pelajar, pemastautin tetap dan individu tanpa dokumen"
 
 lang: "ms"
 masterLanguage: "en"

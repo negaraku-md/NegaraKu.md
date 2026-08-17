@@ -47,10 +47,10 @@ revisions:
 
 updated: 2026-07-28
 verificationNeeded:
-  - "Founding dates for Guthrie & Co (1821) and Sime, Darby and Co. (1910), and the January 2007 Synergy Drive merger date — confirm against a primary/company-heritage source; not independently re-fetched in this pass."
-  - "PNB's exact current shareholding percentage in each of the three companies — confirm from latest annual reports / Bursa filings."
-  - "Whether Sime Darby Property is the single 'largest' listed developer by land bank versus 'one of the largest' — confirm the ranking and current land-bank acreage from an authoritative source."
-  - "Whether Sime Darby Berhad had, by the Nov 2024 rebrand, fully divested the trading, logistics and healthcare businesses it retained at the 2017 demerger."
+  - "Tarikh penubuhan Guthrie & Co (1821) dan Sime, Darby and Co. (1910), dan tarikh penggabungan Synergy Drive Januari 2007 — sahkan terhadap sumber utama/warisan syarikat; tidak diambil semula secara bebas dalam pusingan ini."
+  - "Peratusan pegangan saham semasa sebenar PNB dalam setiap tiga syarikat itu — sahkan daripada laporan tahunan terkini / pemfailan Bursa."
+  - "Sama ada Sime Darby Property ialah pemaju tersenarai 'terbesar' tunggal mengikut bank tanah berbanding 'salah satu yang terbesar' — sahkan kedudukan dan keluasan bank tanah semasa daripada sumber berautoriti."
+  - "Sama ada Sime Darby Berhad telah, menjelang penjenamaan semula Nov 2024, melupuskan sepenuhnya perniagaan perdagangan, logistik dan penjagaan kesihatan yang dikekalkannya semasa penyahcantuman 2017."
 sources:
   - title: "Bursa Malaysia Listing Directory — SD Guthrie Berhad (SDG, 5285)"
     url: "https://www.bursamalaysia.com/trade/trading_resources/listing_directory/company-profile?stock_code=5285"

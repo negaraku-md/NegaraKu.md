@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Pengarah dan setiausaha syarikat bagi syarikat persendirian yang dikecualikan audit yang bersedia untuk memfailkan dengan SSM."
 
 verificationNeeded:
-  - "Confirm whether SSM has issued any amendment to Practice Directive 10/2024 affecting the certificate content in Appendix 1"
+  - "Sahkan sama ada SSM telah mengeluarkan sebarang pindaan kepada Practice Directive 10/2024 yang mempengaruhi kandungan sijil dalam Appendix 1"
 
 obligations:
   - what: "Lodge unaudited financial statements with the audit exemption certificate"

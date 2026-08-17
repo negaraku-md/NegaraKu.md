@@ -54,10 +54,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "The By-Laws figures are cited from the April-2024 edition (footer 'Updated 2 January 2024'). A human should confirm the Section 540 rotation and cooling-off provisions against the current edition (updated November 2024, effective 15 December 2024)."
-  - "The PIE definition was expanded effective 15 December 2024, adding an assessment of an entity's sectoral importance and potential systemic impact for deciding whether other entities should be treated as PIEs. Confirm the exact wording of the four listed categories in the current By-Laws edition."
-  - "The historical rotation table's 'Previous regime (before 15 Dec 2018)' column is an editorial label; the ESB 2018 report titles that column 'Current'. Confirm the label reads accurately for publication."
-  - "The SC media release describes the Grant Thornton partner's involvement (2013–2017) generally; confirm his exact role designation (engagement partner and/or engagement quality reviewer) if that distinction is stated in the body."
+  - "Angka By-Laws dipetik daripada edisi April 2024 (pengaki 'Updated 2 January 2024'). Seorang manusia perlu mengesahkan peruntukan penggiliran dan tempoh bersara Section 540 terhadap edisi semasa (dikemas kini November 2024, berkuat kuasa 15 Disember 2024)."
+  - "Takrifan PIE telah diperluas berkuat kuasa 15 Disember 2024, menambah penilaian kepentingan sektoral sesuatu entiti dan potensi kesan sistemik untuk menentukan sama ada entiti lain harus dianggap sebagai PIE. Sahkan susunan kata tepat bagi empat kategori yang disenaraikan dalam edisi By-Laws semasa."
+  - "Lajur jadual penggiliran sejarah 'Previous regime (before 15 Dec 2018)' ialah label editorial; laporan ESB 2018 menajukkan lajur itu sebagai 'Current'. Sahkan label itu terbaca dengan tepat untuk penerbitan."
+  - "Kenyataan media SC menerangkan penglibatan rakan kongsi Grant Thornton (2013–2017) secara umum; sahkan gelaran peranannya yang tepat (rakan kongsi tugasan dan/atau pengulas kualiti tugasan) jika perbezaan itu dinyatakan dalam kandungannya."
 
 updated: 2026-08-08
 sources:

@@ -41,7 +41,7 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 version: "01.00"
 verificationNeeded:
-  - "Confirm client-specific dates: the branch's financial year-end and AGM date that fix the two-month lodgement deadline under s.575(1)."
+  - "Sahkan tarikh khusus pelanggan: tarikh akhir tahun kewangan cawangan dan tarikh AGM yang menetapkan tempoh penyerahan dua bulan di bawah s.575(1)."
 revisions:
   - version: "01.00"
     date: 2026-08-08

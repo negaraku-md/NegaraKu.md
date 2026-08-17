@@ -55,7 +55,7 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Re-entry blacklist durations after an overstay — the cited IMI pages do not publish specific ban lengths; blacklisting is applied at the Department's discretion."
+  - "Tempoh senarai hitam kemasukan semula selepas tempoh lebih masa — halaman IMI yang disebut tidak menerbitkan tempoh larangan tertentu; penyenaraian hitam dikenakan atas budi bicara Jabatan."
 
 updated: 2026-08-14
 sources:

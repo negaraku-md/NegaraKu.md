@@ -43,12 +43,12 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Exact official English wording of KPM's vision and mission — Malay is authoritative and multiple divergent English translations appear online; confirm against the moe.gov.my English profile page before quoting."
-  - "Current total number of KPM employees/staff — sources conflict (549,159 in 2018 vs 587,940 in 2022); confirm the latest figure from KPM Quick Facts."
-  - "Exact appointment date of Deputy Minister Wong Kah Woh (reported as 12 December 2023) — confirm against an official or Parliament source."
-  - "Current total number of government schools and total student/teacher counts — pull exact latest from KPM 'Quick Facts Malaysia Education Statistics' or OpenDOSM."
-  - "Whether the Malaysia Education Blueprint 2013-2025 has a formally launched successor plan (a 2027-onward direction was signalled under Budget 2026) — confirm official name/status before stating."
-  - "Full current list of departments, divisions and agencies under KPM — verify the complete list against the moe.gov.my org chart."
+  - "Perkataan bahasa Inggeris rasmi tepat visi dan misi KPM — bahasa Melayu adalah berautoriti dan pelbagai terjemahan bahasa Inggeris yang bercanggah muncul dalam talian; sahkan terhadap halaman profil bahasa Inggeris moe.gov.my sebelum memetik."
+  - "Jumlah bilangan pekerja/kakitangan KPM semasa — sumber bercanggah (549,159 pada 2018 berbanding 587,940 pada 2022); sahkan angka terkini daripada KPM Quick Facts."
+  - "Tarikh pelantikan tepat Timbalan Menteri Wong Kah Woh (dilaporkan sebagai 12 Disember 2023) — sahkan terhadap sumber rasmi atau Parlimen."
+  - "Jumlah bilangan sekolah kerajaan semasa dan jumlah bilangan pelajar/guru — dapatkan angka terkini tepat daripada 'Quick Facts Malaysia Education Statistics' KPM atau OpenDOSM."
+  - "Sama ada Malaysia Education Blueprint 2013-2025 mempunyai pelan pengganti yang telah dilancarkan secara rasmi (satu hala tuju bermula 2027 telah diisyaratkan di bawah Bajet 2026) — sahkan nama/status rasmi sebelum menyatakannya."
+  - "Senarai semasa penuh jabatan, bahagian dan agensi di bawah KPM — sahkan senarai lengkap terhadap carta organisasi moe.gov.my."
 updated: 2026-08-14
 sources:
   - title: "Ministry of Education (Malaysia)"

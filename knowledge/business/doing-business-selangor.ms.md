@@ -38,9 +38,9 @@ faq:
     a: "Hanya dalam had negeri yang ketat. Pekeliling PTG Selangor Bil. 1/2014 menetapkan minimum RM2 juta di Zon 1 dan 2 serta RM1 juta di Zon 3 untuk kediaman, dan mengehadkan pemerolehan kediaman asing kepada hakmilik strata sahaja. Komersial dan perindustrian kedua-duanya membawa lantai RM3 juta, dengan had 10 peratus unit bukan Bumiputera. Kediaman bertanah, tanah pertanian dan tanah Rizab Melayu adalah tertutup. Sahkan ambang semasa dengan PTG Selangor sebelum bergantung padanya — pekeliling itu bertarikh 2014."
 
 verificationNeeded:
-  - "Whether Pekeliling PTG Selangor Bil. 1/2014 minimum purchase thresholds remain current in 2026 — residential and commercial figures are corroborated by current legal guides, but no primary PTG/state publication of the circular text is available and no gazetted supersession between 2015 and 2026 could be located, so its 2026 currency is unconfirmed"
-  - "MBSJ fee schedule and the full text of its by-law — the MBSJ page confirms the 12-month term and 6-month permit cap but publishes only category listings and guideline PDFs, with no ringgit fee schedule and no full by-law text"
-  - "MBPJ annual premise licence rates — the by-law PDF published by MBPJ is a scanned image with no text layer, so no ringgit rate is machine-readable"
+  - "Sama ada ambang belian minimum Pekeliling PTG Selangor Bil. 1/2014 masih terpakai pada 2026 — angka kediaman dan komersial disokong oleh panduan undang-undang semasa, tetapi tiada penerbitan primer PTG/negeri bagi teks pekeliling itu tersedia dan tiada pemansuhan berwarta antara 2015 dan 2026 dapat dikesan, jadi kesahihannya pada 2026 tidak disahkan"
+  - "Jadual fi MBSJ dan teks penuh undang-undang kecilnya — halaman MBSJ mengesahkan tempoh 12 bulan dan had permit 6 bulan tetapi hanya menerbitkan senarai kategori dan PDF garis panduan, tanpa jadual fi ringgit dan tanpa teks penuh undang-undang kecil"
+  - "Kadar lesen premis tahunan MBPJ — PDF undang-undang kecil yang diterbitkan oleh MBPJ adalah imej imbasan tanpa lapisan teks, jadi tiada kadar ringgit yang boleh dibaca mesin"
 
 lang: "ms"
 masterLanguage: "en"

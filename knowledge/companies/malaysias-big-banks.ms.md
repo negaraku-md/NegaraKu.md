@@ -48,9 +48,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Group total-assets figures and size ranking for Maybank, CIMB, Public Bank and Hong Leong. Specific asset numbers were removed because none of the cited FY2024 results releases disclose them; only RHB's ~RM350 billion is sourced (Bernama). A human should add each bank's audited total assets from its financial statements or Bursa Malaysia filings and confirm the size ordering."
-  - "Whether Maybank's RM10.09 billion FY2024 net profit was a group record (the release does not use that word)."
-  - "Hong Leong Bank's FY2024 figures are for the financial year ended 30 June 2024, not December — confirm comparability before drawing timing-sensitive conclusions."
+  - "Angka jumlah aset kumpulan dan kedudukan saiz bagi Maybank, CIMB, Public Bank dan Hong Leong. Angka aset tertentu telah dibuang kerana tiada satu pun daripada terbitan keputusan FY2024 yang disebut mendedahkannya; hanya kira-kira RM350 bilion RHB yang bersumber (Bernama). Seorang manusia perlu menambah jumlah aset teraudit setiap bank daripada penyata kewangannya atau failan Bursa Malaysia dan mengesahkan susunan saiznya."
+  - "Sama ada keuntungan bersih FY2024 Maybank sebanyak RM10.09 bilion merupakan rekod kumpulan (kenyataan itu tidak menggunakan perkataan tersebut)."
+  - "Angka FY2024 Hong Leong Bank adalah bagi tahun kewangan berakhir 30 Jun 2024, bukan Disember — sahkan kebolehbandingan sebelum membuat kesimpulan yang sensitif terhadap masa."
 updated: 2026-07-28
 sources:
   - title: "Financial Services Act 2013 (Act 758) — Laws of Malaysia"

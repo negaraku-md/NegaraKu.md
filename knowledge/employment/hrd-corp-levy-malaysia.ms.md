@@ -37,9 +37,9 @@ faq:
     a: "Boleh. Bahagian II Jadual Pertama menjadikan pendaftaran sebagai pilihan bagi majikan dengan lima hingga sembilan pekerja dalam industri yang disenaraikan. Tetapi sebaik sahaja anda mendaftar, kewajipan 0.5% dan tarikh akhir pembayaran terpakai sepenuhnya, dan anda tidak boleh berhenti membayar begitu sahaja hanya kerana ia bermula sebagai pilihan."
 
 verificationNeeded:
-  - "Confirm the exact statutory deadline for registering after crossing the ten-employee threshold against the PSMB (Registration of Employers and Payment of Levy) Regulations 2001 — the gazetted regulations are only published as a scanned reprint"
-  - "Confirm the current service fee charged on HRD Corp Claimable Courses disbursements"
-  - "Confirm whether the RM10,000 residual balance figure has been revised since the forfeiture mechanism was introduced"
+  - "Sahkan tarikh akhir berkanun yang tepat untuk mendaftar selepas melepasi ambang sepuluh pekerja terhadap PSMB (Registration of Employers and Payment of Levy) Regulations 2001 — peraturan berwarta itu hanya diterbitkan sebagai cetakan semula yang diimbas"
+  - "Sahkan yuran perkhidmatan semasa yang dikenakan ke atas pembayaran HRD Corp Claimable Courses"
+  - "Sahkan sama ada angka baki residual RM10,000 telah disemak semula sejak mekanisme pelucuthakan diperkenalkan"
 
 obligations:
   - what: "Register with HRD Corp on reaching ten or more Malaysian employees in a First Schedule Part I industry"

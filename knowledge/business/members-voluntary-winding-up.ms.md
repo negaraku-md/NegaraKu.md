@@ -36,9 +36,9 @@ faq:
     a: "Jauh lebih mahal. Pembatalan (dari daftar) hanya memerlukan fi SSM sebanyak RM100 dan tiada pelikuidasi. Penggulungan sukarela ahli memerlukan pelikuidasi yang diluluskan yang saraannya ditetapkan oleh syarikat, ditambah pengiklanan akhbar dalam dua bahasa pada kedua-dua peringkat resolusi dan peringkat mesyuarat akhir, ditambah pemfailan berkanun oleh pelikuidasi. Pertukaran nilainya ialah ia merupakan satu-satunya laluan yang tersedia apabila syarikat itu mempunyai aset, modal atau anak syarikat."
 
 verificationNeeded:
-  - "Liquidators' fee scales in a members' voluntary winding up are commercially negotiated and are not published by SSM — no cost range is stated here for that reason"
-  - "Whether the Companies (Winding Up) Rules prescribe additional forms or timelines beyond the Act was not examined and should be checked with the appointed liquidator"
-  - "The lodgement fees for winding-up documents are not itemised in the SSM figures confirmed for this article and should be read from the current Companies Regulations 2017 Schedule of Fees"
+  - "Skala yuran pembubar dalam penggulungan sukarela ahli dirundingkan secara komersial dan tidak diterbitkan oleh SSM — tiada julat kos dinyatakan di sini atas sebab itu"
+  - "Sama ada Companies (Winding Up) Rules menetapkan borang atau tempoh masa tambahan di luar Akta tidak diperiksa dan harus disemak dengan pelikuidasi yang dilantik"
+  - "Fi pemfailan bagi dokumen penggulungan tidak diperincikan dalam angka SSM yang disahkan bagi artikel ini dan hendaklah dibaca daripada Companies Regulations 2017 Schedule of Fees semasa"
 
 obligations:
   - what: "Lodge the special resolution for voluntary winding up"

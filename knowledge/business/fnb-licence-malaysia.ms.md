@@ -41,7 +41,7 @@ faq:
     a: "Bukan Kastam. Di bawah s.31 Akta Eksais 1976 (Akta 176) Menteri menubuhkan Lembaga Pelesenan, dan s.35(1) memberi Lembaga bagi sesuatu kawasan kuasa mengikut budi bicaranya untuk mengeluarkan atau memindahkan lesen. Seksyen 35(1) menetapkan empat kelas — lesen rumah awam dan lesen rumah bir untuk peminuman di premis, lesen kedai runcit untuk peminuman di luar premis, dan lesen peniaga borong. Seksyen 35(3) membenarkan Lembaga menolak, menggantung atau membatalkan tanpa memberi apa-apa sebab dan tanpa pampasan, dan itulah sebabnya keputusan berbeza dengan begitu ketara antara kawasan."
 
 verificationNeeded:
-  - "Any published liquor licensing policy for individual states such as Kelantan or Terengganu — none was confirmed, and variation appears to flow from Licensing Board discretion rather than published policy"
+  - "Sebarang dasar pelesenan arak yang diterbitkan bagi negeri tertentu seperti Kelantan atau Terengganu — tiada yang disahkan, dan variasi nampaknya berpunca daripada budi bicara Lembaga Pelesenan dan bukan dasar yang diterbitkan"
 
 lang: "ms"
 masterLanguage: "en"

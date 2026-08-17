@@ -42,12 +42,12 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Exact current 5-year passport fee post-June-2026 (whether RM200/RM100 tiers still coexist with the new 10-year option, or were replaced) — confirm against P.U.(A) 208/2026 gazette text on lom.agc.gov.my."
-  - "Total number of JIM state/branch offices and overseas Immigration attaché posts — get an exact count from the imi.gov.my directory rather than stating a figure."
-  - "Current total JIM personnel/headcount — the ~14,000 figure is dated ~2014 reporting and needs a current official source."
-  - "Whether the MDAC exemption list (Singapore citizens, Bruneian GCI holders, Thai/Indonesian border-pass holders, etc.) is current — confirm on imigresen-online.imi.gov.my/mdac before relying on it."
+  - "Yuran pasport 5 tahun semasa yang tepat selepas Jun 2026 (sama ada peringkat RM200/RM100 masih wujud bersama pilihan 10 tahun yang baharu, atau telah digantikan) — sahkan terhadap teks warta P.U.(A) 208/2026 pada lom.agc.gov.my."
+  - "Jumlah bilangan pejabat negeri/cawangan JIM dan jawatan atase Imigresen di luar negara — dapatkan kiraan tepat daripada direktori imi.gov.my dan bukannya menyatakan sesuatu angka."
+  - "Jumlah kakitangan/bilangan anggota JIM semasa — angka ~14,000 adalah pelaporan bertarikh ~2014 dan memerlukan sumber rasmi semasa."
+  - "Sama ada senarai pengecualian MDAC (warganegara Singapura, pemegang GCI Brunei, pemegang pas sempadan Thai/Indonesia, dsb.) adalah terkini — sahkan di imigresen-online.imi.gov.my/mdac sebelum bergantung padanya."
   - "Exact eVisa / eNTRI eligibility and current fees via malaysiavisa.imi.gov.my."
-  - "Confirm the 10-year passport rollout is publicly live nationwide (reporting as of 4 June 2026 did not confirm full public commencement)."
+  - "Sahkan pelaksanaan pasport 10 tahun aktif secara umum di seluruh negara (laporan setakat 4 Jun 2026 tidak mengesahkan permulaan awam penuh)."
 updated: 2026-08-14
 sources:
   - title: "Introduction – Malaysian Immigration Department"

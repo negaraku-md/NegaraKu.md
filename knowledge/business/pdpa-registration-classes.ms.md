@@ -24,9 +24,9 @@ keyTakeaways:
 appliesTo: "Mana-mana pengawal data di Malaysia yang ingin menyemak sama ada ia perlu memegang sijil pendaftaran daripada Pesuruhjaya Perlindungan Data Peribadi."
 
 verificationNeeded:
-  - "Whether JPDP reads class 9(b) as conjunctive, requiring both retail and wholesale dealing, or as covering either — no published interpretation exists"
-  - "Whether the references to the Companies Act 1965 in classes 9(a), 9(b) and 9(c) are read as references to the Companies Act 2016 by operation of the Interpretation Acts — the order has never been amended"
-  - "Whether an online retailer selling only non-controlled articles falls within the Control of Supplies Act 1961 definitions of retail and wholesale dealing"
+  - "Sama ada JPDP membaca kelas 9(b) sebagai konjunktif, memerlukan kedua-dua urus niaga runcit dan borong, atau sebagai meliputi mana-mana satu — tiada tafsiran diterbitkan wujud"
+  - "Sama ada rujukan kepada Companies Act 1965 dalam kelas 9(a), 9(b) dan 9(c) dibaca sebagai rujukan kepada Companies Act 2016 melalui operasi Interpretation Acts — perintah itu tidak pernah dipinda"
+  - "Sama ada peruncit dalam talian yang menjual hanya barang tidak dikawal termasuk dalam definisi urusan runcit dan borong Control of Supplies Act 1961"
 
 obligations:
   - what: "Apply for renewal of the certificate of registration"

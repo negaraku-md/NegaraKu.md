@@ -37,7 +37,7 @@ faq:
     a: "Seksyen 60B(5) mengkehendaki syarikat menyimpan maklumat seseorang yang telah berhenti menjadi pemilik benefisial selama tujuh tahun dari tarikh pemberhentian itu. Dokumen sokongan serta notis dan jawapan s.60C mesti disimpan bersama daftar untuk tempoh yang sama."
 
 verificationNeeded:
-  - "Confirm the exact late lodgement fee scale applied to beneficial ownership lodgements after 30 September 2024 against SSM's published fee schedule — SSM states late lodgement fees apply but the amounts are not stated in PD 9/2024"
+  - "Sahkan skala yuran pemfailan lewat sebenar yang dikenakan pada pemfailan pemilikan benefisial selepas 30 September 2024 terhadap jadual yuran yang diterbitkan SSM — SSM menyatakan yuran pemfailan lewat dikenakan tetapi jumlahnya tidak dinyatakan dalam PD 9/2024"
 
 obligations:
   - what: "Record beneficial ownership information in the register of beneficial owners"

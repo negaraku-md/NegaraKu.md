@@ -24,9 +24,9 @@ keyTakeaways:
 appliesTo: "Perniagaan yang membuat keputusan tentang di mana hendak memfailkan tuntutan komersial, dan sesiapa yang menilai kos dan risiko rayuan sesuatu pertikaian sebelum ia bermula."
 
 verificationNeeded:
-  - "Current filing, sealing and service fees for each registry — no official fee schedule was retrievable at the time of writing"
-  - "Limitation periods for contract claims arising in Sabah and Sarawak, which are governed by their own ordinances and not by the Limitation Act 1953"
-  - "The practice directions constituting the specialised High Court divisions (New Commercial Court, Construction Court, Intellectual Property Court) and their allocation criteria — these are administrative arrangements of the Judiciary, not statutory courts"
+  - "Fi pemfailan, pemeteraian dan penyampaian semasa bagi setiap pendaftaran — tiada jadual fi rasmi yang dapat diperoleh pada masa penulisan"
+  - "Tempoh had masa bagi tuntutan kontrak yang timbul di Sabah dan Sarawak, yang tertakluk kepada ordinan masing-masing dan bukan kepada Limitation Act 1953"
+  - "Arahan amalan yang membentuk bahagian khusus Mahkamah Tinggi (New Commercial Court, Construction Court, Intellectual Property Court) dan kriteria peruntukannya — ini adalah susunan pentadbiran Badan Kehakiman, bukan mahkamah berkanun"
 
 lang: "ms"
 masterLanguage: "en"

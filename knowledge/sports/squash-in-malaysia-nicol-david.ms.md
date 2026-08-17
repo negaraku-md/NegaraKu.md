@@ -49,7 +49,7 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Jansher Khan's world-championship count, if it is to be cited (referenced only generally here, not from the cited PSA Hall of Fame notice)."
+  - "Kiraan kejohanan dunia Jansher Khan, jika ia hendak dipetik (dirujuk hanya secara umum di sini, bukan daripada notis PSA Hall of Fame yang dipetik)."
 
 updated: 2026-08-01
 sources:

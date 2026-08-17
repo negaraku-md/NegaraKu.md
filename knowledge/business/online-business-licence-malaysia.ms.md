@@ -38,7 +38,7 @@ faq:
     a: "Ia bergantung sepenuhnya kepada majlis tempatan, dan mereka memang berselisih pendapat. Selangor mengeluarkan garis panduan 2022 untuk pelesenan perniagaan dalam talian, secara nyata di bawah s.107(1) Akta Kerajaan Tempatan 1976, dan MBPJ menerbitkan lesen perniagaan dalam talian berasaskan rumah dengan syarat — perniagaan dijalankan sepenuhnya dalam talian, had 25 peratus daripada keluasan lantai binaan, kebenaran jiran dan pihak pengurusan, dan senarai aktiviti yang dilarang. Majlis lain menerbitkan sebaliknya atau tiada apa-apa langsung. Tanya majlis anda."
 
 verificationNeeded:
-  - "Whether an offence created by subsidiary legislation attracts the general penalty in s.145 of the Consumer Protection Act 1999 — regulation 9 creates the offence but prescribes no penalty, so this is an inference"
+  - "Sama ada sesuatu kesalahan yang diwujudkan oleh perundangan subsidiari menarik penalti am dalam s.145 Consumer Protection Act 1999 — peraturan 9 mewujudkan kesalahan itu tetapi tidak menetapkan penalti, jadi ini adalah inferens"
 
 lang: "ms"
 masterLanguage: "en"

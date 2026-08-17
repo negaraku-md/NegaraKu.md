@@ -39,10 +39,10 @@ faq:
     a: "Tidak, di bawah program semasa. Kesemua empat tingkat yang diterbitkan oleh MOTAC memerlukan kehadiran di Malaysia selama 90 hari kumulatif dalam setahun. Bagi peserta berusia 25 hingga 49 tahun, syarat ini boleh dipenuhi oleh peserta utama dan/atau tanggungan mereka. Peraturan lama bahawa golongan berusia lebih 50 tahun tiada syarat tempoh tinggal tidak disokong oleh laman rasmi semasa."
 
 verificationNeeded:
-  - "S-MM2H, the separately administered Sarawak programme, could not be verified — the Sarawak MTCP page returns a web application firewall rejection. The commonly quoted deposit and income figures for S-MM2H are not published here."
-  - "PVIP does not appear in the Immigration Department's main pass index and is published only on the eServices document server — confirm the programme is still open before relying on it. Several PVIP-branded websites are not government domains."
-  - "Confirm whether an MM2H Platinum holder permitted to undertake business activities may be appointed a director of a Malaysian company without a separate pass, and how that interacts with the ordinarily-resident test in s.196(4) of the Companies Act 2016"
-  - "DE Rantau is a Professional Visit Pass and local employment is generally understood to be excluded, but no explicit prohibition was found in the official FAQ — do not assert one"
+  - "S-MM2H, program Sarawak yang ditadbir secara berasingan, tidak dapat disahkan — halaman MTCP Sarawak memulangkan penolakan web application firewall. Angka deposit dan pendapatan yang biasa dipetik bagi S-MM2H tidak diterbitkan di sini."
+  - "PVIP tidak muncul dalam indeks pas utama Jabatan Imigresen dan hanya diterbitkan di pelayan dokumen eServices — sahkan bahawa program itu masih dibuka sebelum bergantung padanya. Beberapa laman web berjenama PVIP bukan domain kerajaan."
+  - "Sahkan sama ada pemegang MM2H Platinum yang dibenarkan menjalankan aktiviti perniagaan boleh dilantik sebagai pengarah syarikat Malaysia tanpa pas berasingan, dan bagaimana ia berinteraksi dengan ujian pemastautin biasa dalam s.196(4) Companies Act 2016"
+  - "DE Rantau ialah Pas Lawatan Ikhtisas dan pekerjaan tempatan secara amnya difahami sebagai dikecualikan, tetapi tiada larangan eksplisit ditemui dalam FAQ rasmi — jangan menegaskan sebarang larangan"
 
 lang: "ms"
 masterLanguage: "en"

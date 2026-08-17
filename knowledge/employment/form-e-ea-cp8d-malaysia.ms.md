@@ -37,8 +37,8 @@ faq:
     a: "Semua majikan. e-E telah diwajibkan bagi syarikat dan syarikat Labuan sejak tahun remunerasi 2016, dan bagi majikan selain syarikat sejak tahun remunerasi 2023. Form E dalam bentuk kertas tidak lagi diterima sebagai kaedah pemfailan."
 
 verificationNeeded:
-  - "Confirm the e-Data Praisi opening and cut-off dates for remuneration year 2026 when LHDN issues the 2027 filing programme"
-  - "Confirm whether LHDN publishes a separate compound scale for late Form E under s.120(1) beyond the statutory fine range"
+  - "Sahkan tarikh pembukaan dan tarikh akhir e-Data Praisi bagi tahun saraan 2026 apabila LHDN mengeluarkan program pemfailan 2027"
+  - "Sahkan sama ada LHDN menerbitkan skala kompaun berasingan bagi Form E lewat di bawah s.120(1) melangkaui julat denda statutori"
 
 obligations:
   - what: "Prepare and give Form EA (C.P.8A) or Form EC (C.P.8C) to every employee"
