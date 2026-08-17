@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0081
-title: "Bumiputera Equity Requirements in Malaysian Business Regulation"
+title: "马来西亚商业法规中的土著股权要求"
 seoTitle: "Bumiputera Equity Requirements Malaysia"
 slug: "bumiputera-equity-requirements"
 category: "business"

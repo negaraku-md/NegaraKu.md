@@ -1,6 +1,6 @@
 ---
 topicId: MY-GLO-0008
-title: "Wilayah Persekutuan"
+title: "联邦直辖区"
 slug: "wilayah-persekutuan"
 category: "glossary"
 subcategory: ["government"]

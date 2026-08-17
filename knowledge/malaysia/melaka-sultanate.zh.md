@@ -1,6 +1,6 @@
 ---
 topicId: MY-HIS-0001
-title: "The Melaka Sultanate: The Port That Built a Civilisation"
+title: "马六甲苏丹王朝：缔造文明的港口"
 slug: "melaka-sultanate"
 category: "malaysia"
 subcategory: ["sultanates"]

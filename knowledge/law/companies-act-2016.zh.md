@@ -1,6 +1,6 @@
 ---
 topicId: MY-LAW-0001
-title: "Companies Act 2016 (Act 777)"
+title: "2016年公司法令（第777号法令）"
 slug: "companies-act-2016"
 category: "law"
 subcategory: ["corporate"]

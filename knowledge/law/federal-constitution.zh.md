@@ -1,6 +1,6 @@
 ---
 topicId: MY-LAW-0004
-title: "Federal Constitution of Malaysia"
+title: "马来西亚联邦宪法"
 slug: "federal-constitution"
 category: "law"
 subcategory: ["constitutional"]

@@ -1,6 +1,6 @@
 ---
 topicId: MY-LAW-0002
-title: "Income Tax Act 1967 (Act 53)"
+title: "1967年所得税法令（第53号法令）"
 slug: "income-tax-act-1967"
 category: "law"
 subcategory: ["tax"]

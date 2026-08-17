@@ -1,6 +1,6 @@
 ---
 topicId: MY-HIS-0003
-title: "Merdeka: How 31 August 1957 Actually Happened"
+title: "独立日：1957年8月31日究竟如何发生"
 slug: "independence-1957"
 category: "malaysia"
 subcategory: ["independence"]

@@ -1,6 +1,6 @@
 ---
 topicId: MY-LAW-0003
-title: "Employment Act 1955 (Act 265)"
+title: "1955年雇佣法令（第265号法令）"
 slug: "employment-act-1955"
 category: "law"
 subcategory: ["employment"]
