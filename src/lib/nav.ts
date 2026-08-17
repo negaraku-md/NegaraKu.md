@@ -31,7 +31,6 @@ export const NAV: NavMenu[] = [
     label: 'nav.explore',
     items: [
       { label: 'nav.exploreMalaysia', href: '/explore' },
-      { label: 'nav.latest', href: '/latest' },
       { label: 'nav.understandMalaysia', href: '/understand' },
       { label: 'nav.livingMalaysia', href: '/living' },
       { label: 'nav.businessMalaysia', href: '/doing-business' },

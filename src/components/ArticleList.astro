@@ -30,14 +30,9 @@ interface Props {
   locale: Locale;
   articles: Article[]; // already scoped by the caller (all, or one section/category/topic)
   filters?: FilterKey[];
-  /** Hide the Sort row and lock the order to newest-first (used by /latest). */
-  hideSort?: boolean;
-  /** Insert a date header before each new day's run of cards (newest-first). */
-  groupByDate?: boolean;
 }
-const { locale, articles, filters = ['sec', 'cat', 'top', 'status'], hideSort = false, groupByDate = false } = Astro.props;
+const { locale, articles, filters = ['sec', 'cat', 'top', 'status'] } = Astro.props;
 const has = (f: FilterKey) => filters.includes(f);
-const dateLocale = locale === 'zh' ? 'zh-Hans' : locale === 'ms' ? 'ms-MY' : 'en-GB';
 const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 // Which languages each topic exists in (publishable files only).
@@ -155,17 +150,15 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
         </div>
       )
     }
-    {!hideSort && (
-      <div class="tb-line">
-        <span class="tb-label">{L('Isih', 'Sort', '排序')}</span>
-        <div class="tabs" role="tablist">
-          <button class="tab on" data-sort="upd" data-dir="desc">{L('Terkini', 'Latest', '最新')}</button>
-          <button class="tab" data-sort="t" data-dir="asc">{L('A–Z', 'A–Z', 'A–Z')}</button>
-          <button class="tab" data-sort="src" data-dir="desc">{L('Paling banyak sumber', 'Most sourced', '来源最多')}</button>
-          <button class="tab" data-sort="conn" data-dir="desc">{L('Paling terhubung', 'Most linked', '关联最多')}</button>
-        </div>
+    <div class="tb-line">
+      <span class="tb-label">{L('Isih', 'Sort', '排序')}</span>
+      <div class="tabs" role="tablist">
+        <button class="tab on" data-sort="upd" data-dir="desc">{L('Terkini', 'Latest', '最新')}</button>
+        <button class="tab" data-sort="t" data-dir="asc">{L('A–Z', 'A–Z', 'A–Z')}</button>
+        <button class="tab" data-sort="src" data-dir="desc">{L('Paling banyak sumber', 'Most sourced', '来源最多')}</button>
+        <button class="tab" data-sort="conn" data-dir="desc">{L('Paling terhubung', 'Most linked', '关联最多')}</button>
       </div>
-    )}
+    </div>
     <div class="tb-line">
       <span class="tb-label">{L('Papar', 'Display', '显示')}</span>
       <div class="tabs">
@@ -265,15 +258,12 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
     overdue: L('Semakan tertunggak', 'Review overdue', '审阅逾期'),
     contributor: L('Penyumbang', 'Contributor', '贡献者'),
     classification: L('Klasifikasi', 'Classification', '分类'),
-    noDate: L('Tiada tarikh', 'No date', '无日期'),
   })}
 ></script>
-<script type="application/json" id="articles-config" set:html={JSON.stringify({ groupByDate, dateLocale })}></script>
 
 <script>
   const rows = JSON.parse(document.getElementById('articles-data')?.textContent || '[]');
   const I18N = JSON.parse(document.getElementById('articles-i18n')?.textContent || '{}');
-  const CFG = JSON.parse(document.getElementById('articles-config')?.textContent || '{}');
   const $ = (id) => document.getElementById(id);
   const on = (id, ev, fn) => { const el = $(id); if (el) el.addEventListener(ev, fn); };
   const $$ = (cls) => Array.from(document.querySelectorAll('.' + cls));
@@ -384,7 +374,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
     } else {
       const langHref = (l, p) => (l === 'ms' ? p : `/${l}${p}`);
       const allRowsOff = ALL_ROWS.every((x) => !showRow(x));
-      const cardHtml = (r) => `
+      body.innerHTML = slice.map((r) => `
         <article class="acard">
           <a class="atitle" href="${r.h}">${r.t}</a>
           <div class="acard-meta">
@@ -413,23 +403,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
             ${showRow('visitors') ? visitorsHtml(r.views) : ''}
             ${allRowsOff ? compactHtml(r) : ''}
           </div>
-        </article>`;
-      if (CFG.groupByDate) {
-        const fmt = new Intl.DateTimeFormat(CFG.dateLocale || 'en-GB', { year: 'numeric', month: 'long', day: 'numeric' });
-        let out = '', last = null;
-        for (const r of slice) {
-          const d = r.upd || '';
-          if (d !== last) {
-            last = d;
-            const label = d ? fmt.format(new Date(d + 'T00:00:00')) : (I18N.noDate || '');
-            out += `<div class="date-head"><time class="dh-label">${label}</time><span class="dh-line"></span></div>`;
-          }
-          out += cardHtml(r);
-        }
-        body.innerHTML = out;
-      } else {
-        body.innerHTML = slice.map(cardHtml).join('');
-      }
+        </article>`).join('');
     }
 
     const a = total ? start + 1 : 0;
@@ -593,14 +567,6 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
   #f-reset[hidden] { display: none; }
 
   .acards { display: flex; flex-direction: column; gap: 0.7rem; }
-  /* Date group header (grouped view only): gold label + a rule filling the row. */
-  .acards :global(.date-head) { display: flex; align-items: center; gap: 0.9rem; margin: 0.9rem 0 0.1rem; }
-  .acards :global(.date-head:first-child) { margin-top: 0; }
-  .acards :global(.dh-label) {
-    flex: none; font-family: var(--font-title); font-weight: 700; font-size: 0.95rem;
-    color: var(--gold); font-variant-numeric: tabular-nums;
-  }
-  .acards :global(.dh-line) { flex: 1; height: 1px; background: var(--line); }
   .acards :global(.acard) {
     border: 1px solid var(--line); border-left: 3px solid color-mix(in srgb, var(--gold) 55%, var(--line));
     border-radius: 12px; background: var(--surface);
