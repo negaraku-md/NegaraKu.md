@@ -47,7 +47,7 @@ const STRINGS = {
   'nav.changelog': { ms: 'Log Perubahan', en: 'Changelog', zh: '更新日志' },
   'nav.site': { ms: 'Laman', en: 'Site', zh: '网站' },
   'nav.exploreMalaysia': { ms: 'Terokai Malaysia', en: 'Explore Malaysia', zh: '探索马来西亚' },
-  'nav.latest': { ms: 'Artikel Terkini', en: 'Latest Articles', zh: '最新文章' },
+  'nav.latest': { ms: 'Terkini', en: 'Latest', zh: '最新' },
   'nav.timeline': { ms: 'Garis Masa', en: 'Timeline', zh: '时间线' },
   'nav.trending': { ms: 'Paling Banyak Dibaca', en: 'Most Read', zh: '最多阅读' },
   'nav.understandMalaysia': { ms: 'Kenali Malaysia', en: 'Understand Malaysia', zh: '认识马来西亚' },
