@@ -7,7 +7,7 @@ import ArticleCard from './ArticleCard.astro';
 
 // A compact "Most read" strip for hub pages (Explore, section hubs). Ranks the
 // supplied pool by reader analytics, falling back to most-recently-updated so it
-// is never empty while analytics are still young — same rule as /trending. Gets
+// is never empty while analytics are still young — same rule as /most-read. Gets
 // visitors into actual articles instead of another wall of category tiles.
 
 interface Props {
@@ -15,7 +15,7 @@ interface Props {
   /** Pool to rank (whole corpus on Explore, one section on a pillar hub). */
   articles: Article[];
   limit?: number;
-  /** Optional "see more" link (locale-agnostic path, e.g. "/trending"). */
+  /** Optional "see more" link (locale-agnostic path, e.g. "/most-read"). */
   moreHref?: string;
 }
 const { locale, articles, limit = 4, moreHref } = Astro.props;

@@ -43,7 +43,7 @@ export const NAV: NavMenu[] = [
       { label: 'nav.exploreMalaysia', href: '/explore' },
       { label: 'nav.categories', href: '/categories' },
       { label: 'nav.latest', href: '/latest' },
-      { label: 'nav.trending', href: '/trending' },
+      { label: 'nav.trending', href: '/most-read' },
       { label: 'nav.timeline', href: '/malaysia/timeline-of-malaysia' },
       { label: 'nav.grpSections', href: '', heading: true },
       { label: 'nav.understandMalaysia', href: '/understand' },

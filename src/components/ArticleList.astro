@@ -34,10 +34,10 @@ interface Props {
   hideSort?: boolean;
   /** Insert a date header before each new day's run of cards (newest-first). */
   groupByDate?: boolean;
-  /** Preserve the caller's order instead of client-sorting (used by /trending,
+  /** Preserve the caller's order instead of client-sorting (used by /most-read,
       where the caller pre-ranks by reads with a recency fallback). */
   fixedOrder?: boolean;
-  /** Show a rank number + reader count on each card (used by /trending). */
+  /** Show a rank number + reader count on each card (used by /most-read). */
   showRank?: boolean;
 }
 const {

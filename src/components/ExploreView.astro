@@ -28,7 +28,7 @@ const pillarStats = PILLARS.map((p) => {
 const ways = [
   { href: '/categories', icon: '🗂️', title: t('nav.categories', locale), blurb: L('Semak imbas kesemua kategori.', 'Browse the full category index.', '浏览完整分类索引。') },
   { href: '/latest', icon: '🆕', title: t('nav.latest', locale), blurb: L('Kemas kini terbaharu, disusun mengikut tarikh.', 'The newest updates, grouped by date.', '最新更新，按日期分组。') },
-  { href: '/trending', icon: '🔥', title: t('nav.trending', locale), blurb: L('Artikel paling banyak dibaca sekarang.', 'The most-read articles right now.', '当前阅读量最高的文章。') },
+  { href: '/most-read', icon: '🔥', title: t('nav.trending', locale), blurb: L('Artikel paling banyak dibaca sekarang.', 'The most-read articles right now.', '当前阅读量最高的文章。') },
   { href: '/malaysia/timeline-of-malaysia', icon: '📜', title: t('nav.timeline', locale), blurb: L('Sejarah Malaysia dalam satu garis masa.', "Malaysia's history on one timeline.", '一条时间线看马来西亚历史。') },
   { href: '/graph', icon: '🕸️', title: t('nav.graph', locale), blurb: L('Setiap topik dan cara ia berhubung.', 'Every topic and how it connects.', '每个主题及其关联。') },
 ];
@@ -93,7 +93,7 @@ const ways = [
   </div>
 </section>
 
-<MostReadStrip locale={locale} articles={nonAbout} moreHref="/trending" />
+<MostReadStrip locale={locale} articles={nonAbout} moreHref="/most-read" />
 
 <section class="container block">
   <div class="psec psec-gold">
