@@ -35,7 +35,7 @@ export const NAV: NavMenu[] = [
   { label: 'nav.business', href: '/doing-business' },
   {
     label: 'nav.explore',
-    // Grouped by intent so the 8 links read as three scannable clusters:
+    // Grouped by intent so the links read as three scannable clusters:
     //  Discover (start + the two highest-value browse paths), Sections (the three
     //  pillars in full — the site-wide term for them), Tools (exploratory / power).
     items: [
@@ -43,6 +43,7 @@ export const NAV: NavMenu[] = [
       { label: 'nav.exploreMalaysia', href: '/explore' },
       { label: 'nav.categories', href: '/categories' },
       { label: 'nav.latest', href: '/latest' },
+      { label: 'nav.trending', href: '/trending' },
       { label: 'nav.timeline', href: '/malaysia/timeline-of-malaysia' },
       { label: 'nav.grpSections', href: '', heading: true },
       { label: 'nav.understandMalaysia', href: '/understand' },

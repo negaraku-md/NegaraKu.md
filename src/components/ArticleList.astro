@@ -34,8 +34,21 @@ interface Props {
   hideSort?: boolean;
   /** Insert a date header before each new day's run of cards (newest-first). */
   groupByDate?: boolean;
+  /** Preserve the caller's order instead of client-sorting (used by /trending,
+      where the caller pre-ranks by reads with a recency fallback). */
+  fixedOrder?: boolean;
+  /** Show a rank number + reader count on each card (used by /trending). */
+  showRank?: boolean;
 }
-const { locale, articles, filters = ['sec', 'cat', 'top', 'status'], hideSort = false, groupByDate = false } = Astro.props;
+const {
+  locale,
+  articles,
+  filters = ['sec', 'cat', 'top', 'status'],
+  hideSort = false,
+  groupByDate = false,
+  fixedOrder = false,
+  showRank = false,
+} = Astro.props;
 const has = (f: FilterKey) => filters.includes(f);
 const dateLocale = locale === 'zh' ? 'zh-Hans' : locale === 'ms' ? 'ms-MY' : 'en-GB';
 const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
@@ -60,7 +73,7 @@ const SENS_LABEL: Record<string, string> = {
 
 const iso = (v: unknown) => (v ? new Date(v as string).toISOString().slice(0, 10) : '');
 
-const rows = articles.map((a) => {
+const rows = articles.map((a, i) => {
   const d = a.data;
   const key = `${d.category}/${d.slug}`;
   const conn = (d.related?.length ?? 0) + (d.relations?.length ?? 0);
@@ -103,6 +116,7 @@ const rows = articles.map((a) => {
     upd: d.updated ? new Date(d.updated).toISOString().slice(0, 10) : '',
     custody,
     views: analytics[key] ?? null,
+    rank: i + 1,
   };
 });
 
@@ -268,7 +282,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
     noDate: L('Tiada tarikh', 'No date', '无日期'),
   })}
 ></script>
-<script type="application/json" id="articles-config" set:html={JSON.stringify({ groupByDate, dateLocale })}></script>
+<script type="application/json" id="articles-config" set:html={JSON.stringify({ groupByDate, dateLocale, fixedOrder, showRank })}></script>
 
 <script>
   const rows = JSON.parse(document.getElementById('articles-data')?.textContent || '[]');
@@ -356,6 +370,14 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
       `<div class="vwrap">${metric(I18N.vReaders, v?.readers)}${metric(I18N.vSearch, v?.search)}${metric(I18N.vAI, v?.ai)}${note}</div></div>`;
   }
 
+  // Trending rank badge: the leaderboard position plus the reader count (or
+  // "not tracked yet" when analytics haven't reached this article).
+  function trendReads(r) {
+    const n = bTotal(r.views?.readers);
+    if (n == null) return `<span class="areads pend">${I18N.notTracked}</span>`;
+    return `<span class="areads">👁 ${Number(n).toLocaleString()} ${I18N.vReaders}</span>`;
+  }
+
   // Compact one-line summary shown when every display row is OFF, so a collapsed
   // card still carries the essentials: master language · contributor · published
   // date · next review.
@@ -371,7 +393,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
   }
 
   function render() {
-    const data = filtered().sort(cmp);
+    const data = CFG.fixedOrder ? filtered() : filtered().sort(cmp);
     const total = data.length;
     const pages = Math.max(1, Math.ceil(total / state.size));
     if (state.page > pages) state.page = pages;
@@ -385,7 +407,8 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
       const langHref = (l, p) => (l === 'ms' ? p : `/${l}${p}`);
       const allRowsOff = ALL_ROWS.every((x) => !showRow(x));
       const cardHtml = (r) => `
-        <article class="acard">
+        <article class="acard${CFG.showRank ? ' ranked' : ''}">
+          ${CFG.showRank ? `<div class="atrend"><span class="arank">#${r.rank}</span>${trendReads(r)}</div>` : ''}
           <a class="atitle" href="${r.h}">${r.t}</a>
           <div class="acard-meta">
             ${!showRow('path') ? '' : `
@@ -615,6 +638,14 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
     color: var(--ink); text-decoration: none;
   }
   .acards :global(.acard:hover .atitle) { color: var(--gold); }
+  /* Trending rank badge: leaderboard position + reader count above the title. */
+  .acards :global(.atrend) { display: flex; align-items: baseline; gap: 0.6rem; margin-bottom: 0.3rem; }
+  .acards :global(.arank) {
+    font-family: var(--font-title); font-weight: 800; font-size: 0.95rem; color: var(--gold);
+    font-variant-numeric: tabular-nums;
+  }
+  .acards :global(.areads) { font-size: 0.78rem; color: var(--ink-soft); font-variant-numeric: tabular-nums; }
+  .acards :global(.areads.pend) { color: var(--muted); font-style: italic; }
   .acards :global(.apath) { margin: 0; flex: 1; min-width: 0; padding-top: 0.2rem; font-size: 0.8rem; color: var(--muted); }
   .acards :global(.apath span) { color: var(--ink-soft); }
   .acards :global(.apath .sep) { margin: 0 0.5rem; color: var(--muted); opacity: 0.55; font-size: 0.9rem; }
