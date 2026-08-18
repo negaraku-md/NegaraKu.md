@@ -20,10 +20,8 @@ interface Props {
   activeTopic?: string;
   /** Draw a full-width rule above, when another content block precedes this one. */
   topSeparator?: boolean;
-  /** Which group header to render in gold (the page's primary group). Others stay bright ink. */
-  goldGroup?: 'topics' | 'categories';
 }
-const { locale, pillar, activeCategory, categoryId, activeTopic, topSeparator, goldGroup } = Astro.props;
+const { locale, pillar, activeCategory, categoryId, activeTopic, topSeparator } = Astro.props;
 const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 const cats = categoriesInPillar(pillar);
@@ -47,7 +45,7 @@ const topicCount = (t: string) => catArticles.filter((a) => a.data.subcategory.i
 <div class="container block hub-groups" data-pagefind-ignore>
   {
     topics.length > 0 && (
-      <section class={`psec${goldGroup === 'topics' ? ' psec-gold' : ''}`}>
+      <section class="psec">
         <header>
           <span>{L('Topik', 'Topics', '主题')}</span>
           <span>{topics.length}</span>
@@ -74,7 +72,7 @@ const topicCount = (t: string) => catArticles.filter((a) => a.data.subcategory.i
 
   {topics.length > 0 && <hr class="gsep" />}
 
-  <section class={`psec${goldGroup === 'categories' ? ' psec-gold' : ''}`}>
+  <section class="psec">
     <header>
       <span>{L('Kategori', 'Categories', '分类')}</span>
       <span>{cats.length}</span>
