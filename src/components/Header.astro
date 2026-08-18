@@ -260,7 +260,9 @@ const { locale, path } = Astro.props;
     left: 0;
     min-width: 200px;
     background: var(--surface);
-    border: 1px solid var(--line);
+    /* Brighter, more visible edge than the site-wide --line: mix the bright ink
+       into the line so it reads whiter on dark and stays crisp on light. */
+    border: 1px solid color-mix(in srgb, var(--ink) 38%, var(--line));
     border-radius: 12px;
     padding: 0.4rem;
     box-shadow: var(--shadow-card);
