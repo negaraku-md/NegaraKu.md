@@ -48,6 +48,7 @@ const STRINGS = {
   'nav.site': { ms: 'Laman', en: 'Site', zh: '网站' },
   'nav.exploreMalaysia': { ms: 'Terokai Malaysia', en: 'Explore Malaysia', zh: '探索马来西亚' },
   'nav.latest': { ms: 'Artikel Terkini', en: 'Latest Articles', zh: '最新文章' },
+  'nav.timeline': { ms: 'Garis Masa', en: 'Timeline', zh: '时间线' },
   'nav.understandMalaysia': { ms: 'Kenali Malaysia', en: 'Understand Malaysia', zh: '认识马来西亚' },
   'nav.livingMalaysia': { ms: 'Hidup di Malaysia', en: 'Living in Malaysia', zh: '在马来西亚生活' },
   'nav.businessMalaysia': { ms: 'Berniaga di Malaysia', en: 'Doing Business in Malaysia', zh: '在马来西亚经商' },
