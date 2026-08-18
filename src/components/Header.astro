@@ -47,7 +47,13 @@ const { locale, path } = Astro.props;
               </button>
               <div class="dropdown">
                 {menu.items.map((it) => (
-                  <a href={it.external ? it.href : localePath(it.href, locale)}>{t(it.label, locale)}</a>
+                  <a
+                    href={it.external ? it.href : localePath(it.href, locale)}
+                    data-secret-nav={it.secret ? '' : undefined}
+                    hidden={it.secret}
+                  >
+                    {t(it.label, locale)}
+                  </a>
                 ))}
               </div>
             </div>
@@ -235,6 +241,8 @@ const { locale, path } = Astro.props;
      `.menu-link { display: inline-flex }` above would otherwise override the
      UA `[hidden] { display: none }`. Higher specificity, no !important. */
   .nav .menu-link[hidden] { display: none; }
+  /* Same guard for a secret item living inside a dropdown (e.g. "All Articles"). */
+  .dropdown a[hidden] { display: none; }
   .menu-btn:hover,
   .menu-link:hover,
   .menu:hover .menu-btn,

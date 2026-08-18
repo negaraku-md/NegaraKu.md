@@ -5,6 +5,9 @@ export interface NavItem {
   label: StringKey;
   href: string; // locale-agnostic path; Header applies localePath(). External URLs pass through untouched.
   external?: boolean;
+  /** Hidden from the dropdown by default; toggled on/off with Ctrl+Alt+Shift+A
+      (persisted in localStorage). The page stays reachable by URL regardless. */
+  secret?: boolean;
 }
 
 export interface NavMenu {
@@ -37,7 +40,7 @@ export const NAV: NavMenu[] = [
       { label: 'nav.businessMalaysia', href: '/doing-business' },
       { label: 'nav.categories', href: '/categories' },
       { label: 'nav.graph', href: '/graph' },
-      { label: 'nav.articles', href: '/articles' },
+      { label: 'nav.articles', href: '/articles', secret: true }, // hidden; Ctrl+Alt+Shift+A toggles it
     ],
   },
   {
