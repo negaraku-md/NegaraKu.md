@@ -29,6 +29,12 @@ const STRINGS = {
   },
   'nav.categories': { ms: 'Kategori', en: 'Categories', zh: '分类' },
   'nav.search': { ms: 'Cari', en: 'Search', zh: '搜索' },
+  // One placeholder for every site-wide search box (home hero, Explore, /search).
+  'search.placeholder': {
+    ms: 'Cari Malaysia — orang, tempat, peristiwa…',
+    en: 'Search Malaysia — people, places, events…',
+    zh: '搜索马来西亚 — 人物、地点、事件…',
+  },
   'nav.about': { ms: 'Tentang', en: 'About', zh: '关于' },
   'nav.contribute': { ms: 'Sumbang', en: 'Contribute', zh: '贡献' },
   'nav.explore': { ms: 'Terokai', en: 'Explore', zh: '探索' },

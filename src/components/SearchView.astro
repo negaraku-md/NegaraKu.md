@@ -12,7 +12,7 @@ const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale
 const stats = await siteStats(locale);
 
 const I18N = {
-  placeholder: L('Cari Malaysia — orang, tempat, peristiwa…', 'Search Malaysia — people, places, events…', '搜索马来西亚 — 人物、地点、事件…'),
+  placeholder: t('search.placeholder', locale),
   resultsFor: L('hasil untuk', 'results for', '条结果'),
   noResults: L('Tiada hasil untuk', 'No results for', '未找到结果'),
   start: L('Taip untuk mencari seluruh korpus.', 'Type to search the whole corpus.', '输入以搜索整个语料库。'),
