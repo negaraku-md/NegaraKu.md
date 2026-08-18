@@ -1,6 +1,6 @@
 ---
 import type { Locale } from '@/lib/categories';
-import { PILLARS } from '@/lib/categories';
+import { PILLARS, getPillarColor } from '@/lib/categories';
 import { t, localePath } from '@/lib/i18n';
 import { articlesForLocale } from '@/lib/content';
 import { mostReadKeys } from '@/lib/apidata';
@@ -85,7 +85,7 @@ const stats = [
   <h2 class="ways-title">{L('Apa yang membawa anda ke sini?', 'What brings you here?', '您为何而来？')}</h2>
   <div class="pillars">
     {PILLARS.map((p) => (
-      <a class="card pillar" href={localePath(`/${p.id}`, locale)} style={`--c:${p.id === 'business' ? 'var(--gold)' : p.id === 'living' ? '#38BDF8' : '#A78BFA'}`}>
+      <a class="card pillar" href={localePath(`/${p.id}`, locale)} style={`--c:${getPillarColor(p.id)}`}>
         <span class="picon" aria-hidden="true">{p.icon}</span>
         <b>{p.name[locale]}</b>
         <span class="pdesc">{p.tagline[locale]}</span>
@@ -181,7 +181,9 @@ const stats = [
 
   .ways-title { text-align: center; margin-bottom: 1.4rem; font-size: 1.6rem; }
   .pillars { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; }
-  .pillar { display: flex; flex-direction: column; gap: 0.5rem; padding: 1.9rem 1.6rem; border-top-width: 3px; border-top-color: var(--c); }
+  .pillar { display: flex; flex-direction: column; gap: 0.5rem; padding: 1.9rem 1.6rem; border-top-width: 3px; border-top-color: var(--c); transition: border-color 0.15s ease, transform 0.15s ease, box-shadow 0.15s ease; }
+  /* Change B: on hover the whole border takes the section's colour. */
+  .pillar:hover { border-color: var(--c); }
   .pillar .picon { font-size: 2.2rem; }
   .pillar b { font-family: var(--font-title); font-size: 1.35rem; }
   .pillar .pdesc { color: var(--ink-soft); font-size: 0.95rem; flex: 1; }

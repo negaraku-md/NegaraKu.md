@@ -46,13 +46,14 @@ const top = [...articles]
 const heading = sort === 'recent'
   ? L('Terkini', 'Latest', '最新')
   : L('Paling banyak dibaca', 'Most read', '最多阅读');
+const headIcon = sort === 'recent' ? '🆕' : '🔥';
 ---
 
 {
   top.length > 0 && (
     <section class="container block">
       <div class="mr-head">
-        <h2>{heading}</h2>
+        <h2><span class="mr-ico" aria-hidden="true">{headIcon}</span>{heading}</h2>
         {moreHref && (
           <a class="mr-more" href={localePath(moreHref, locale)}>
             {L('Lihat semua', 'See all', '查看全部')} →
@@ -77,7 +78,8 @@ const heading = sort === 'recent'
     gap: 1rem;
     margin-bottom: 1.1rem;
   }
-  .mr-head h2 { margin: 0; font-size: 1.5rem; }
+  .mr-head h2 { margin: 0; font-size: 1.5rem; display: inline-flex; align-items: center; gap: 0.55rem; }
+  .mr-head .mr-ico { font-size: 1.3rem; line-height: 1; }
   .mr-more {
     color: var(--gold);
     font-weight: 700;

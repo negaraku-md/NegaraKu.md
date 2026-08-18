@@ -660,3 +660,16 @@ export const CATEGORY_COLORS: Record<string, string> = {
 export function getCategoryColor(id: string): string {
   return CATEGORY_COLORS[id] ?? '#FFC000';
 }
+
+// Section (pillar) accent colours — used for the coloured top-border on Section
+// cards across the hub, category, topic and Explore pages, matching the way each
+// category card carries its own colour.
+export const PILLAR_COLORS: Record<Pillar, string> = {
+  understand: '#A78BFA',
+  living: '#38BDF8',
+  'doing-business': '#FFC000',
+};
+
+export function getPillarColor(id: string): string {
+  return PILLAR_COLORS[id as Pillar] ?? '#FFC000';
+}
