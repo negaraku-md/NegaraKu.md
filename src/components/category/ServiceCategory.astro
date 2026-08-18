@@ -1,5 +1,6 @@
 ---
 import type { Locale, Category } from '@/lib/categories';
+import { getCategoryColor } from '@/lib/categories';
 import type { Article } from '@/lib/content';
 import { orderedSubcats, subcatLabel } from '@/lib/subcategories';
 import { localePath } from '@/lib/i18n';
@@ -32,14 +33,18 @@ const inSub = (s: string) => articles.filter((a) => a.data.subcategory.includes(
 <section class="container block">
   <div class="catsec">
     <header>
-      <span>{L('Topik', 'Topics', '主题')}</span>
+      <span>
+        <span class="pi" aria-hidden="true">🧭</span>
+        {L('Topik', 'Topics', '主题')}
+      </span>
       <span>{subcats.length}</span>
     </header>
     <div class="catsec-body">
       <div class="topic-grid">
         {
           subcats.map((s) => (
-            <a class="topic-card" href={topicHref(s)}>
+            <a class="topic-card" href={topicHref(s)} style={`--cat:${getCategoryColor(category.id)}`}>
+              <span class="bar" aria-hidden="true" />
               <b>{subcatLabel(s, locale)}</b>
               <span class="tc-count">
                 {inSub(s).length} {L('artikel', 'articles', '篇')} →
@@ -66,25 +71,33 @@ const inSub = (s: string) => articles.filter((a) => a.data.subcategory.includes(
     text-transform: uppercase; color: var(--muted); background: var(--surface-2);
     border-bottom: 1px solid var(--line);
   }
-  /* The TOPICS group is this page's PRIMARY listing → gold header (title + count).
-     Only rendered on category ("Topic") pages. Title font, 1.05rem. */
+  /* Group header: a MUTED all-caps section label (matches the hub groups), so it
+     frames the bright item titles below rather than competing with them. Gold is
+     reserved for links/accents, not headers. */
   .catsec > header span:first-child {
+    display: inline-flex; align-items: center; gap: 0.5rem;
     font-family: var(--font-title); font-size: 1.05rem; font-weight: 700;
-    text-transform: uppercase; letter-spacing: 0.03em; line-height: 1.2; color: var(--gold);
+    text-transform: uppercase; letter-spacing: 0.03em; line-height: 1.2; color: var(--muted);
   }
+  .catsec > header .pi { font-size: 1.2rem; }
   .catsec > header span:last-child {
     font-family: var(--font-title); font-size: 1.05rem; font-weight: 700; line-height: 1.2;
-    letter-spacing: 0; color: var(--gold); font-variant-numeric: tabular-nums;
+    letter-spacing: 0; color: var(--muted); font-variant-numeric: tabular-nums;
   }
   .catsec-body { padding: 1.1rem; }
   .topic-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); gap: 0.8rem; }
   .topic-card {
+    position: relative; overflow: hidden;
     display: flex; flex-direction: column; gap: 0.25rem;
     background: var(--surface-2); border: 1px solid var(--line); border-radius: 10px;
     padding: 0.9rem 1rem; text-decoration: none; color: inherit;
     transition: border-color 0.15s ease, transform 0.15s ease;
   }
-  .topic-card:hover { border-color: color-mix(in srgb, var(--gold) 55%, var(--line)); transform: translateY(-2px); }
+  .topic-card .bar {
+    position: absolute; top: 0; left: 0; right: 0; height: 4px;
+    background: var(--cat, var(--gold));
+  }
+  .topic-card:hover { border-color: var(--cat, var(--gold)); transform: translateY(-2px); }
   .topic-card b { font-family: var(--font-title); font-size: 1rem; color: var(--ink); }
   .tc-count { color: var(--muted); font-size: 0.85rem; }
 </style>

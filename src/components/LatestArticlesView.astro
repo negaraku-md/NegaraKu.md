@@ -1,0 +1,58 @@
+---
+import type { Locale } from '@/lib/categories';
+import { getPillar } from '@/lib/categories';
+import { articlesForLocale } from '@/lib/content';
+import { localePath, t } from '@/lib/i18n';
+import PageHero from './PageHero.astro';
+import ArticleList from './ArticleList.astro';
+
+// Latest Articles — the whole corpus as a reverse-chronological timeline. Same
+// list as All Articles (filters, display toggles, search, pagination), but the
+// Sort row is removed (order is locked to newest-first) and the cards are grouped
+// under a date header per day.
+
+interface Props {
+  locale: Locale;
+}
+const { locale } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+// Newest-first, and only articles that actually exist in this locale (not master
+// fallbacks) — same rule as All Articles. Then bound the list to "recent": keep
+// articles updated within the last 30 days, and never more than 100 cards —
+// whichever limit is reached first (so a busy month still stops at 100).
+const RECENT_DAYS = 30;
+const MAX_ITEMS = 100;
+const cutoff = Date.now() - RECENT_DAYS * 24 * 60 * 60 * 1000;
+const canonical = (await articlesForLocale(locale))
+  .filter((a) => a.data.lang === locale)
+  .sort((a, b) => +new Date(b.data.updated) - +new Date(a.data.updated))
+  .filter((a) => +new Date(a.data.updated) >= cutoff)
+  .slice(0, MAX_ITEMS);
+
+const secCount = new Set(canonical.map((a) => getPillar(a.data.category)).filter(Boolean)).size;
+const catCount = new Set(canonical.map((a) => a.data.category)).size;
+const topCount = new Set(canonical.flatMap((a) => (a.data.subcategory ?? []).map((s) => `${a.data.category}/${s}`))).size;
+---
+
+<PageHero
+  locale={locale}
+  crumb={[
+    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
+    { label: t('nav.latest', locale) },
+  ]}
+  title={t('nav.latest', locale)}
+  desc={L(
+    'Kemas kini terbaharu — artikel yang berubah dalam 30 hari lepas (sehingga 100), dikumpulkan mengikut tarikh.',
+    'The most recent updates — articles changed in the last 30 days (up to 100), grouped by date.',
+    '最新更新——过去 30 天内变更的文章（最多 100 篇），按日期分组。',
+  )}
+  stats={[
+    { value: secCount, label: L('seksyen', 'sections', '版块') },
+    { value: catCount, label: L('kategori', 'categories', '分类') },
+    { value: topCount, label: L('topik', 'topics', '主题') },
+    { value: canonical.length, label: L('artikel', 'articles', '文章') },
+  ]}
+/>
+
+<ArticleList locale={locale} articles={canonical} filters={['sec', 'cat', 'top', 'status']} hideSort groupByDate />

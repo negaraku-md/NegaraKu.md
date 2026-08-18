@@ -1,9 +1,16 @@
 import type { StringKey } from './i18n';
+import { REPO } from './site';
 
 export interface NavItem {
   label: StringKey;
-  href: string; // locale-agnostic path; Header applies localePath()
+  href: string; // locale-agnostic path; Header applies localePath(). External URLs pass through untouched.
   external?: boolean;
+  /** Hidden from the dropdown by default; toggled on/off with Ctrl+Alt+Shift+A
+      (persisted in localStorage). The page stays reachable by URL regardless. */
+  secret?: boolean;
+  /** Non-interactive section label inside a dropdown (href ignored). Groups the
+      items that follow it until the next heading. */
+  heading?: boolean;
 }
 
 export interface NavMenu {
@@ -15,26 +22,65 @@ export interface NavMenu {
   secret?: boolean;
 }
 
+// The three visitor-intent pillars stay top-level (one click). Everything else is
+// grouped into four dropdowns — Explore / About / Contribute / Site — so the bar
+// stays scannable as the site grows. Items point at real destinations: existing
+// pages, anchors on /contribute, or GitHub for the developer/participation links.
+// NOTE (interim): a few labels the design calls for don't have dedicated pages yet
+// (Our Team, FAQ, Donate Your AI Token, Support, CLI Tool) — they point at the
+// nearest existing hub for now and are flagged to get their own pages.
 export const NAV: NavMenu[] = [
-  // The three visitor-intent pillars lead the nav.
   { label: 'nav.understand', href: '/understand' },
   { label: 'nav.living', href: '/living' },
   { label: 'nav.business', href: '/doing-business' },
-  // Explore is a destination, not a dropdown: the /explore page already gathers
-  // search, categories and featured reading. Latest, Graph, Map, Terminology and
-  // Random were removed from the menu pending redevelopment — the pages still
-  // build and remain reachable by URL.
-  { label: 'nav.explore', href: '/explore' },
-  { label: 'nav.articles', href: '/articles', secret: true },
   {
-    label: 'nav.more',
+    label: 'nav.explore',
+    // Grouped by intent so the links read as three scannable clusters:
+    //  Discover (start + the two highest-value browse paths), Sections (the three
+    //  pillars in full — the site-wide term for them), Tools (exploratory / power).
+    items: [
+      { label: 'nav.grpDiscover', href: '', heading: true },
+      { label: 'nav.exploreMalaysia', href: '/explore' },
+      { label: 'nav.categories', href: '/categories' },
+      { label: 'nav.latest', href: '/latest' },
+      { label: 'nav.trending', href: '/most-read' },
+      { label: 'nav.timeline', href: '/malaysia/timeline-of-malaysia' },
+      { label: 'nav.grpSections', href: '', heading: true },
+      { label: 'nav.understandMalaysia', href: '/understand' },
+      { label: 'nav.livingMalaysia', href: '/living' },
+      { label: 'nav.businessMalaysia', href: '/doing-business' },
+      { label: 'nav.grpTools', href: '', heading: true },
+      { label: 'nav.graph', href: '/graph' },
+      { label: 'nav.articles', href: '/articles', secret: true }, // hidden; Ctrl+Alt+Shift+A toggles it
+    ],
+  },
+  {
+    label: 'nav.about',
     items: [
       { label: 'nav.aboutPage', href: '/about' },
-      { label: 'nav.graph', href: '/graph' },
+      { label: 'nav.team', href: '/about' }, // TODO: dedicated /about team section or page
+      { label: 'nav.faq', href: '/about' }, // TODO: dedicated /faq page
+    ],
+  },
+  {
+    label: 'nav.contribute',
+    items: [
+      { label: 'nav.submitArticle', href: '/contribute#contribute' },
+      { label: 'nav.donate', href: '/contribute' }, // TODO: dedicated donate/support page
+      { label: 'nav.support', href: '/contribute' }, // TODO: dedicated support page
+      { label: 'nav.whyContribute', href: '/contribute' },
+      { label: 'nav.cli', href: REPO, external: true }, // TODO: point at CLI docs if/when they exist
+      { label: 'nav.github', href: REPO, external: true },
+    ],
+  },
+  {
+    label: 'nav.site',
+    items: [
       { label: 'nav.dashboard', href: '/dashboard' },
+      { label: 'nav.reportIssue', href: '/contribute#report' },
+      { label: 'nav.suggest', href: '/contribute#suggest' },
       { label: 'nav.changelog', href: '/changelog' },
       { label: 'nav.settings', href: '/settings' },
     ],
   },
-  { label: 'nav.contribute', href: '/contribute' },
 ];

@@ -1,0 +1,207 @@
+---
+import type { Locale } from '@/lib/categories';
+import { PILLARS, categoriesInPillar, getCategoryColor } from '@/lib/categories';
+import { articlesForLocale, siteStats } from '@/lib/content';
+import { t, localePath } from '@/lib/i18n';
+import PageHero from './PageHero.astro';
+
+// The /categories hub — the definitive "browse everything" surface. Every
+// launched category, grouped by its section (Understand / Living / Business),
+// each card carrying its own colour, article count and blurb, with a live
+// client-side filter. Reuses the .psec / .cat-grid / .cat-card system from the
+// section and Explore pages so it reads as one house style. Works on every
+// device: the grid reflows via auto-fit, and this same page is where the nav's
+// "Categories" points on phones/tablets (no cramped dropdown).
+
+interface Props {
+  locale: Locale;
+}
+const { locale } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+const stats = await siteStats(locale);
+const items = await articlesForLocale(locale);
+const counts: Record<string, number> = {};
+for (const a of items) counts[a.data.category] = (counts[a.data.category] ?? 0) + 1;
+
+const groups = PILLARS.map((p) => ({ def: p, cats: categoriesInPillar(p.id) }));
+---
+
+<PageHero
+  locale={locale}
+  crumb={[
+    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
+    { label: t('nav.categories', locale) },
+  ]}
+  title={t('nav.categories', locale)}
+  desc={L(
+    'Layari setiap kategori mengikut seksyen — pilih satu untuk meneroka topik dan artikelnya.',
+    'Browse every category by section — pick one to explore its topics and articles.',
+    '按版块浏览每个分类——选择一个，探索其主题与文章。',
+  )}
+  stats={[
+    { value: stats.sections, label: L('seksyen', 'sections', '版块') },
+    { value: stats.categories, label: L('kategori', 'categories', '分类') },
+    { value: stats.topics, label: L('topik', 'topics', '主题') },
+    { value: stats.articles, label: L('artikel', 'articles', '文章') },
+  ]}
+/>
+
+<section class="container block">
+  <div class="filter">
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><path d="m21 21-4.3-4.3"></path></svg>
+    <input
+      id="cat-filter"
+      type="text"
+      autocomplete="off"
+      placeholder={L('Tapis kategori…', 'Filter categories…', '筛选分类…')}
+      aria-label={L('Tapis kategori', 'Filter categories', '筛选分类')}
+    />
+  </div>
+
+  <p id="cat-empty" class="empty" hidden>
+    {L('Tiada kategori sepadan.', 'No categories match your search.', '没有符合的分类。')}
+  </p>
+
+  {
+    groups.map((g) => (
+      <div class="psec" data-box>
+        <header>
+          <span>
+            <span class="pi" aria-hidden="true">{g.def.icon}</span>
+            {g.def.name[locale]}
+          </span>
+          <span data-box-count>{g.cats.length}</span>
+        </header>
+        <div class="psec-body">
+          <div class="cat-grid">
+            {g.cats.map((c) => (
+              <a
+                class="cat-card"
+                data-cat
+                data-name={`${c.name[locale]} ${c.blurb[locale]}`.toLowerCase()}
+                href={localePath(`/${c.id}`, locale)}
+                style={`--cat:${getCategoryColor(c.id)}`}
+              >
+                <span class="bar" aria-hidden="true" />
+                <span class="ci-row">
+                  <span class="ci" aria-hidden="true">{c.icon}</span>
+                  {counts[c.id] ? <span class="cc">{counts[c.id]}</span> : null}
+                </span>
+                <b>{c.name[locale]}</b>
+                <span class="cd">{c.blurb[locale]}</span>
+              </a>
+            ))}
+          </div>
+        </div>
+      </div>
+    ))
+  }
+</section>
+
+<script>
+  // Live, no-reload filter across all category cards. Hides non-matching cards,
+  // collapses a section box when all its cards are hidden, keeps each box's
+  // count in sync, and shows an empty-state when nothing matches.
+  const input = document.getElementById('cat-filter') as HTMLInputElement | null;
+  const empty = document.getElementById('cat-empty');
+  const boxes = Array.from(document.querySelectorAll<HTMLElement>('[data-box]'));
+
+  function apply(q: string) {
+    const needle = q.trim().toLowerCase();
+    let anyVisible = false;
+    for (const box of boxes) {
+      const cards = Array.from(box.querySelectorAll<HTMLElement>('[data-cat]'));
+      let shown = 0;
+      for (const card of cards) {
+        const hit = !needle || (card.dataset.name ?? '').includes(needle);
+        card.hidden = !hit;
+        if (hit) shown++;
+      }
+      box.hidden = shown === 0;
+      const c = box.querySelector('[data-box-count]');
+      if (c) c.textContent = String(shown);
+      if (shown) anyVisible = true;
+    }
+    if (empty) empty.hidden = anyVisible;
+  }
+
+  input?.addEventListener('input', () => apply(input.value));
+</script>
+
+<style>
+  .block { margin-top: 1.4rem; }
+
+  .filter {
+    display: flex;
+    align-items: center;
+    gap: 0.55rem;
+    background: var(--surface-2);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    padding: 0 0.85rem;
+    height: 44px;
+    max-width: 30rem;
+    color: var(--muted);
+    margin-bottom: 1.4rem;
+  }
+  .filter:focus-within {
+    border-color: color-mix(in srgb, var(--gold) 60%, var(--line));
+  }
+  .filter input {
+    flex: 1;
+    background: none;
+    border: 0;
+    outline: none;
+    color: var(--ink);
+    font: inherit;
+    font-size: 0.95rem;
+    height: 100%;
+  }
+  .filter input::placeholder { color: var(--muted); }
+
+  .empty { color: var(--ink-soft); margin: 0 0 1.4rem; }
+
+  .psec { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; overflow: hidden; }
+  .psec + .psec { margin-top: 1.4rem; }
+  .psec > header {
+    display: flex; justify-content: space-between; align-items: center; gap: 0.5rem;
+    padding: 0.5rem 0.95rem; background: var(--surface-2); border-bottom: 1px solid var(--line);
+  }
+  .psec > header span:first-child {
+    display: inline-flex; align-items: center; gap: 0.5rem;
+    font-family: var(--font-title); font-size: 1.05rem; font-weight: 700;
+    text-transform: uppercase; letter-spacing: 0.03em; line-height: 1.2; color: var(--muted);
+  }
+  .psec > header .pi { font-size: 1.2rem; }
+  .psec > header span:last-child {
+    font-family: var(--font-title); font-size: 1.05rem; font-weight: 700; line-height: 1.2;
+    color: var(--muted); font-variant-numeric: tabular-nums;
+  }
+  .psec-body { padding: 1.1rem; }
+
+  .cat-grid { display: grid; gap: 0.8rem; grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); }
+  .cat-card {
+    position: relative; overflow: hidden;
+    background: var(--surface-2); border: 1px solid var(--line); border-radius: 10px;
+    text-decoration: none; color: inherit; transition: border-color 0.15s, transform 0.15s;
+    display: flex; flex-direction: column; gap: 0.55rem; align-items: flex-start; padding: 1.05rem 1.05rem 1rem;
+  }
+  .cat-card .bar {
+    position: absolute; top: 0; left: 0; right: 0; height: 4px;
+    background: var(--cat, var(--gold));
+  }
+  .cat-card:hover { border-color: var(--cat, var(--gold)); transform: translateY(-2px); }
+  .cat-card .ci-row { width: 100%; display: flex; justify-content: space-between; align-items: center; }
+  .cat-card .ci {
+    font-size: 1.5rem; line-height: 1;
+    width: 2.4rem; height: 2.4rem; display: inline-flex; align-items: center; justify-content: center;
+    border-radius: 9px; background: color-mix(in srgb, var(--cat, var(--gold)) 15%, transparent);
+  }
+  .cat-card b { font-family: var(--font-title); font-size: 1rem; }
+  .cat-card .cc {
+    font-family: var(--font-title); font-size: 0.95rem; font-weight: 700; line-height: 1;
+    color: var(--ink); font-variant-numeric: tabular-nums;
+  }
+  .cat-card .cd { color: var(--ink-soft); font-size: 0.85rem; line-height: 1.5; }
+</style>

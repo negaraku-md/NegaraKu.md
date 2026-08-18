@@ -1,10 +1,11 @@
 ---
 import type { Locale } from '@/lib/categories';
-import { CATEGORIES, getPillar, PILLARS, categoriesInPillar } from '@/lib/categories';
+import { getPillar, PILLARS, getPillarColor } from '@/lib/categories';
 import { articlesForLocale, siteStats } from '@/lib/content';
-import { localePath } from '@/lib/i18n';
+import { mostReadKeys } from '@/lib/apidata';
+import { localePath, t } from '@/lib/i18n';
 import PageHero from './PageHero.astro';
-import ArticleCard from './ArticleCard.astro';
+import ArticleStrip from './ArticleStrip.astro';
 
 interface Props {
   locale: Locale;
@@ -14,20 +15,28 @@ const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale
 const stats = await siteStats(locale);
 
 const items = await articlesForLocale(locale);
-const counts: Record<string, number> = {};
-for (const a of items) counts[a.data.category] = (counts[a.data.category] ?? 0) + 1;
-
 const nonAbout = items.filter((a) => a.data.category !== 'about');
-const featured = nonAbout.filter((a) => a.data.featured || a.data.status === 'verified').slice(0, 4);
-// Only categories that actually have content (matches the site-wide count).
-const contentCats = CATEGORIES.filter((c) => c.id !== 'about' && (counts[c.id] ?? 0) > 0);
-const catCount = stats.categories;
+// Shared ranking so the Latest strip excludes what Most read already shows.
+const mrKeys = mostReadKeys(nonAbout, 4);
 
 // Per-section rollup — the site's spine (Understand / Living / Business).
 const pillarStats = PILLARS.map((p) => {
   const arts = nonAbout.filter((a) => getPillar(a.data.category) === p.id).length;
-  return { id: p.id, name: p.name[locale], icon: p.icon, blurb: p.blurb?.[locale], arts };
+  // Sections describe themselves with `tagline` (pillars have no `blurb`); the
+  // hub's SECTIONS group uses the same field, so the cards match everywhere.
+  return { id: p.id, name: p.name[locale], icon: p.icon, blurb: p.tagline[locale], arts };
 });
+
+// "More ways to explore" — the non-section entry points, mirroring the Explore
+// menu so the page and the dropdown stay in step. The exhaustive category index
+// lives at /categories; Explore only points to it rather than duplicating it.
+const ways = [
+  { href: '/categories', icon: '🗂️', color: '#38BDF8', title: t('nav.categories', locale), blurb: L('Semak imbas kesemua kategori.', 'Browse the full category index.', '浏览完整分类索引。') },
+  { href: '/latest', icon: '🆕', color: '#4ADE80', title: t('nav.latest', locale), blurb: L('Kemas kini terbaharu, disusun mengikut tarikh.', 'The newest updates, grouped by date.', '最新更新，按日期分组。') },
+  { href: '/most-read', icon: '🔥', color: '#FB923C', title: t('nav.trending', locale), blurb: L('Artikel paling banyak dibaca sekarang.', 'The most-read articles right now.', '当前阅读量最高的文章。') },
+  { href: '/malaysia/timeline-of-malaysia', icon: '📜', color: '#FFC000', title: t('nav.timeline', locale), blurb: L('Sejarah Malaysia dalam satu garis masa.', "Malaysia's history on one timeline.", '一条时间线看马来西亚历史。') },
+  { href: '/graph', icon: '🕸️', color: '#A78BFA', title: t('nav.graph', locale), blurb: L('Setiap topik dan cara ia berhubung.', 'Every topic and how it connects.', '每个主题及其关联。') },
+];
 ---
 
 <PageHero
@@ -38,9 +47,9 @@ const pillarStats = PILLARS.map((p) => {
   ]}
   title={L('Terokai NegaraKu.md', 'Explore NegaraKu.md', '探索 NegaraKu.md')}
   desc={L(
-    'Selami Malaysia mengikut seksyen, kategori dan topik — dalam tiga bahasa.',
-    'Dive into Malaysia by section, category and topic — in three languages.',
-    '按版块、分类与主题深入了解马来西亚——三种语言呈现。',
+    'Mula di sini — cari, terokai mengikut seksyen, atau lompat terus ke yang popular.',
+    'Start here — search, browse by section, or jump straight to what’s popular.',
+    '从这里开始——搜索、按版块浏览，或直达热门内容。',
   )}
   stats={[
     { value: stats.sections, label: L('seksyen', 'sections', '版块') },
@@ -51,15 +60,39 @@ const pillarStats = PILLARS.map((p) => {
 />
 
 <section class="container block">
-  <div class="psec psec-gold">
+  <form class="ex-search" role="search" action={localePath('/search', locale)} method="get">
+    <span class="ex-sico" aria-hidden="true">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"></circle><path d="m21 21-4.3-4.3"></path></svg>
+    </span>
+    <input
+      type="search"
+      name="q"
+      autocomplete="off"
+      placeholder={t('search.placeholder', locale)}
+      aria-label={t('nav.search', locale)}
+    />
+    <button type="submit">{t('nav.search', locale)}</button>
+  </form>
+</section>
+
+<ArticleStrip locale={locale} articles={nonAbout} moreHref="/latest" sort="recent" exclude={mrKeys} />
+
+<ArticleStrip locale={locale} articles={nonAbout} moreHref="/most-read" />
+
+<section class="container block">
+  <div class="psec">
     <header>
-      <span>{L('Seksyen', 'Sections', '版块')}</span>
+      <span>
+        <span class="pi" aria-hidden="true">🗺️</span>
+        {L('Seksyen', 'Sections', '版块')}
+      </span>
       <span>{PILLARS.length}</span>
     </header>
     <div class="psec-body">
       <div class="cat-grid">
         {pillarStats.map((p) => (
-          <a class="cat-card" href={localePath(`/${p.id}`, locale)}>
+          <a class="cat-card" href={localePath(`/${p.id}`, locale)} style={`--cat:${getPillarColor(p.id)}`}>
+            <span class="bar" aria-hidden="true" />
             <span class="ci-row">
               <span class="ci" aria-hidden="true">{p.icon}</span>
               <span class="cc">{p.arts}</span>
@@ -73,22 +106,22 @@ const pillarStats = PILLARS.map((p) => {
   </div>
 </section>
 
-<section id="categories" class="container block">
-  <div class="psec psec-gold">
+<section class="container block">
+  <div class="psec">
     <header>
-      <span>{L('Kategori', 'Categories', '分类')}</span>
-      <span>{catCount}</span>
+      <span>
+        <span class="pi" aria-hidden="true">✨</span>
+        {L('Cara lain untuk meneroka', 'More ways to explore', '更多探索方式')}
+      </span>
     </header>
     <div class="psec-body">
       <div class="cat-grid">
-        {contentCats.map((c) => (
-          <a class="cat-card" href={localePath(`/${c.id}`, locale)}>
-            <span class="ci-row">
-              <span class="ci" aria-hidden="true">{c.icon}</span>
-              {counts[c.id] ? <span class="cc">{counts[c.id]}</span> : null}
-            </span>
-            <b>{c.name[locale]}</b>
-            <span class="cd">{c.blurb[locale]}</span>
+        {ways.map((w) => (
+          <a class="cat-card" href={localePath(w.href, locale)} style={`--cat:${w.color}`}>
+            <span class="bar" aria-hidden="true" />
+            <span class="ci-row"><span class="ci" aria-hidden="true">{w.icon}</span></span>
+            <b>{w.title}</b>
+            <span class="cd">{w.blurb}</span>
           </a>
         ))}
       </div>
@@ -96,17 +129,31 @@ const pillarStats = PILLARS.map((p) => {
   </div>
 </section>
 
-{featured.length > 0 && (
-  <section class="container block">
-    <div class="sec-head"><h2>{L('Bacaan pilihan', 'Featured deep-dives', '深度精选')}</h2></div>
-    <div class="rows">{featured.map((a) => <ArticleCard article={a} locale={locale} row />)}</div>
-  </section>
-)}
-
 <style>
   .block { margin-top: 1.6rem; }
-  .sec-head { margin-bottom: 1.1rem; }
-  .sec-head h2 { margin: 0; font-size: 1.5rem; }
+
+  /* Gateway search — a prominent GET form that hands off to /search (?q=). */
+  .ex-search { position: relative; display: flex; align-items: center; gap: 0.6rem; }
+  .ex-sico {
+    position: absolute; left: 1rem; color: var(--muted);
+    display: grid; place-items: center; pointer-events: none;
+  }
+  .ex-search input {
+    flex: 1; min-width: 0; font: inherit; font-size: 1.05rem;
+    padding: 0.85rem 1rem 0.85rem 2.9rem;
+    border-radius: 12px; border: 1px solid var(--line);
+    background: var(--surface); color: var(--ink);
+  }
+  .ex-search input:focus { outline: none; border-color: var(--gold); }
+  .ex-search button {
+    flex: none; font: inherit; font-weight: 700; cursor: pointer;
+    padding: 0.85rem 1.3rem; border-radius: 12px;
+    border: 1px solid var(--gold); background: var(--gold); color: var(--accent-contrast);
+  }
+  .ex-search button:hover { background: var(--gold-600); border-color: var(--gold-600); }
+  @media (max-width: 520px) {
+    .ex-search button { padding: 0.85rem 1rem; }
+  }
 
   /* Section box + category cards — identical to the standard used on the section
      and category pages (HubGroups), so Explore reads as one system. */
@@ -116,23 +163,30 @@ const pillarStats = PILLARS.map((p) => {
     padding: 0.45rem 0.95rem; background: var(--surface-2); border-bottom: 1px solid var(--line);
   }
   .psec > header span:first-child {
+    display: inline-flex; align-items: center; gap: 0.5rem;
     font-family: var(--font-title); font-size: 1.05rem; font-weight: 700;
-    text-transform: uppercase; letter-spacing: 0.03em; line-height: 1.2; color: var(--ink);
+    text-transform: uppercase; letter-spacing: 0.03em; line-height: 1.2; color: var(--muted);
   }
+  .psec > header .pi { font-size: 1.2rem; }
   .psec > header span:last-child {
     font-family: var(--font-title); font-size: 1.05rem; font-weight: 700; line-height: 1.2;
-    color: var(--ink); font-variant-numeric: tabular-nums;
+    color: var(--muted); font-variant-numeric: tabular-nums;
   }
   .psec-gold > header span:first-child, .psec-gold > header span:last-child { color: var(--gold); }
   .psec-body { padding: 1.1rem; }
 
   .cat-grid { display: grid; gap: 0.8rem; grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); }
   .cat-card {
+    position: relative; overflow: hidden;
     background: var(--surface-2); border: 1px solid var(--line); border-radius: 10px;
     text-decoration: none; color: inherit; transition: border-color 0.15s, transform 0.15s;
     display: flex; flex-direction: column; gap: 0.55rem; align-items: flex-start; padding: 1rem 1.05rem;
   }
-  .cat-card:hover { border-color: color-mix(in srgb, var(--gold) 55%, var(--line)); transform: translateY(-2px); }
+  .cat-card .bar {
+    position: absolute; top: 0; left: 0; right: 0; height: 4px;
+    background: var(--cat, var(--gold));
+  }
+  .cat-card:hover { border-color: var(--cat, var(--gold)); transform: translateY(-2px); }
   .cat-card .ci-row { width: 100%; display: flex; justify-content: space-between; align-items: center; }
   .cat-card .ci { font-size: 1.6rem; line-height: 1; }
   .cat-card b { font-family: var(--font-title); font-size: 1rem; }

@@ -1,6 +1,6 @@
 ---
 import type { Locale, Pillar } from '@/lib/categories';
-import { categoriesInPillar, PILLARS, getPillar } from '@/lib/categories';
+import { categoriesInPillar, PILLARS, getPillar, getCategoryColor, getPillarColor } from '@/lib/categories';
 import { articlesForLocale } from '@/lib/content';
 import { orderedSubcats, subcatLabel } from '@/lib/subcategories';
 import { localePath } from '@/lib/i18n';
@@ -20,10 +20,8 @@ interface Props {
   activeTopic?: string;
   /** Draw a full-width rule above, when another content block precedes this one. */
   topSeparator?: boolean;
-  /** Which group header to render in gold (the page's primary group). Others stay bright ink. */
-  goldGroup?: 'topics' | 'categories';
 }
-const { locale, pillar, activeCategory, categoryId, activeTopic, topSeparator, goldGroup } = Astro.props;
+const { locale, pillar, activeCategory, categoryId, activeTopic, topSeparator } = Astro.props;
 const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 const cats = categoriesInPillar(pillar);
@@ -47,9 +45,12 @@ const topicCount = (t: string) => catArticles.filter((a) => a.data.subcategory.i
 <div class="container block hub-groups" data-pagefind-ignore>
   {
     topics.length > 0 && (
-      <section class={`psec${goldGroup === 'topics' ? ' psec-gold' : ''}`}>
+      <section class="psec">
         <header>
-          <span>{L('Topik', 'Topics', '主题')}</span>
+          <span>
+            <span class="pi" aria-hidden="true">🧭</span>
+            {L('Topik', 'Topics', '主题')}
+          </span>
           <span>{topics.length}</span>
         </header>
         <div class="psec-body">
@@ -59,11 +60,11 @@ const topicCount = (t: string) => catArticles.filter((a) => a.data.subcategory.i
                 class={`cat-card topic${t === activeTopic ? ' current' : ''}`}
                 href={localePath(`/${categoryId}/topic/${t}`, locale)}
                 aria-current={t === activeTopic ? 'page' : undefined}
+                style={`--cat:${getCategoryColor(categoryId!)}`}
               >
-                <span class="ci-row">
-                  <span class="cc">{topicCount(t)}</span>
-                </span>
+                <span class="bar" aria-hidden="true" />
                 <b>{subcatLabel(t, locale)}</b>
+                <span class="tc-count">{topicCount(t)} {L('artikel', 'articles', '篇')} →</span>
               </a>
             ))}
           </div>
@@ -74,9 +75,12 @@ const topicCount = (t: string) => catArticles.filter((a) => a.data.subcategory.i
 
   {topics.length > 0 && <hr class="gsep" />}
 
-  <section class={`psec${goldGroup === 'categories' ? ' psec-gold' : ''}`}>
+  <section class="psec">
     <header>
-      <span>{L('Kategori', 'Categories', '分类')}</span>
+      <span>
+        <span class="pi" aria-hidden="true">🗂️</span>
+        {L('Kategori', 'Categories', '分类')}
+      </span>
       <span>{cats.length}</span>
     </header>
     <div class="psec-body">
@@ -87,7 +91,9 @@ const topicCount = (t: string) => catArticles.filter((a) => a.data.subcategory.i
               class={`cat-card${c.id === activeCategory ? ' current' : ''}`}
               href={localePath(`/${c.id}`, locale)}
               aria-current={c.id === activeCategory ? 'page' : undefined}
+              style={`--cat:${getCategoryColor(c.id)}`}
             >
+              <span class="bar" aria-hidden="true" />
               <span class="ci-row">
                 <span class="ci" aria-hidden="true">{c.icon}</span>
                 {catCounts[c.id] ? <span class="cc">{catCounts[c.id]}</span> : null}
@@ -105,7 +111,10 @@ const topicCount = (t: string) => catArticles.filter((a) => a.data.subcategory.i
 
   <section class="psec">
     <header>
-      <span>{L('Seksyen', 'Sections', '版块')}</span>
+      <span>
+        <span class="pi" aria-hidden="true">🗺️</span>
+        {L('Seksyen', 'Sections', '版块')}
+      </span>
       <span>{PILLARS.length}</span>
     </header>
     <div class="psec-body">
@@ -116,7 +125,9 @@ const topicCount = (t: string) => catArticles.filter((a) => a.data.subcategory.i
               class={`cat-card${s.id === pillar ? ' current' : ''}`}
               href={localePath(`/${s.id}`, locale)}
               aria-current={s.id === pillar ? 'page' : undefined}
+              style={`--cat:${getPillarColor(s.id)}`}
             >
+              <span class="bar" aria-hidden="true" />
               <span class="ci-row">
                 <span class="ci" aria-hidden="true">{s.icon}</span>
                 {sectionCounts[s.id] ? <span class="cc">{sectionCounts[s.id]}</span> : null}
@@ -153,15 +164,19 @@ const topicCount = (t: string) => catArticles.filter((a) => a.data.subcategory.i
     text-transform: uppercase; color: var(--muted); background: var(--surface-2);
     border-bottom: 1px solid var(--line);
   }
-  /* Group title: all-caps header label at a readable size, title font, bright ink. */
+  /* Group header: a MUTED all-caps section label — quiet chrome that frames the
+     bright-white item titles below, so the header and the content read as two
+     distinct tiers (gold is reserved for links/accents, not headers). Carries a
+     small leading icon, matching the /categories reference design. */
   .psec > header span:first-child {
+    display: inline-flex; align-items: center; gap: 0.5rem;
     font-family: var(--font-title); font-size: 1.05rem; font-weight: 700;
-    text-transform: uppercase; letter-spacing: 0.03em; line-height: 1.2; color: var(--ink);
+    text-transform: uppercase; letter-spacing: 0.03em; line-height: 1.2; color: var(--muted);
   }
-  /* Group count follows the title exactly — font, size and colour (bright ink). */
+  .psec > header .pi { font-size: 1.2rem; }
   .psec > header span:last-child {
     font-family: var(--font-title); font-size: 1.05rem; font-weight: 700; line-height: 1.2;
-    letter-spacing: 0; color: var(--ink); font-variant-numeric: tabular-nums;
+    letter-spacing: 0; color: var(--muted); font-variant-numeric: tabular-nums;
   }
   /* The page's primary group header is gold; other groups stay bright ink.
      Must match the base rules' specificity (they use :first/:last-child), so
@@ -173,15 +188,30 @@ const topicCount = (t: string) => catArticles.filter((a) => a.data.subcategory.i
   .cat-grid { display: grid; gap: 0.8rem; grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); }
   /* Vertical card: icon (line 1), title + count (line 2), description (line 3). */
   .cat-card {
+    position: relative; overflow: hidden;
     background: var(--surface-2); border: 1px solid var(--line); border-radius: 10px;
     text-decoration: none; color: inherit; transition: border-color 0.15s, transform 0.15s;
     display: flex; flex-direction: column; gap: 0.55rem; align-items: flex-start; padding: 1rem 1.05rem;
   }
-  .cat-card:hover { border-color: color-mix(in srgb, var(--gold) 55%, var(--line)); transform: translateY(-2px); }
+  /* Change A: a coloured top bar per card (category colour, or the pillar colour
+     for Section cards, or the parent category's colour for Topic cards). */
+  .cat-card .bar {
+    position: absolute; top: 0; left: 0; right: 0; height: 4px;
+    background: var(--cat, var(--gold));
+  }
+  /* Change B: on hover the border takes the card's own top-bar colour. */
+  .cat-card:hover { border-color: var(--cat, var(--gold)); transform: translateY(-2px); }
+  /* Highlight (current) card: gold border + tint mark "you are here". Its top bar
+     is bright ink (not gold) so it stays visible against the gold box, and the
+     hover border follows that same bar colour. */
   .cat-card.current { border-color: var(--gold); background: color-mix(in srgb, var(--gold) 8%, var(--surface-2)); }
+  .cat-card.current .bar { background: var(--ink); }
+  .cat-card.current:hover { border-color: var(--ink); }
   .cat-card .ci-row { width: 100%; display: flex; justify-content: space-between; align-items: center; }
-  /* Topic cards have no icon — keep the count on the right of the top row. */
-  .cat-card.topic .ci-row { justify-content: flex-end; }
+  /* Topic cards: name, then a labelled + clickable article count (same design as
+     the category page's Topics group). No icon, tighter than a category card. */
+  .cat-card.topic { gap: 0.3rem; }
+  .cat-card .tc-count { color: var(--muted); font-size: 0.85rem; }
   .cat-card .ci { font-size: 1.6rem; line-height: 1; }
   .cat-card b { font-family: var(--font-title); font-size: 1rem; }
   /* Card count follows the card title — same font, size and colour. */

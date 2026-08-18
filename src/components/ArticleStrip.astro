@@ -1,0 +1,96 @@
+---
+import type { Locale } from '@/lib/categories';
+import type { Article } from '@/lib/content';
+import { getAnalytics } from '@/lib/apidata';
+import { localePath } from '@/lib/i18n';
+import ArticleCard from './ArticleCard.astro';
+
+// A compact article strip for hub pages (Explore, section hubs). Two flavours via
+// `sort`: "reads" ranks by reader analytics (recency fallback, same rule as
+// /most-read) and "recent" is newest-first (same as /latest). Gets visitors into
+// actual articles instead of another wall of category tiles.
+
+interface Props {
+  locale: Locale;
+  /** Pool to rank (whole corpus on Explore, one section on a pillar hub). */
+  articles: Article[];
+  limit?: number;
+  /** Optional "see more" link (locale-agnostic path, e.g. "/most-read"). */
+  moreHref?: string;
+  /** "reads" = Most read (analytics), "recent" = Latest (by updated date). */
+  sort?: 'reads' | 'recent';
+  /** Article keys ("category/slug") to skip — lets a second strip (e.g. Latest)
+      avoid repeating what the first (Most read) already showed. */
+  exclude?: string[];
+}
+const { locale, articles, limit = 4, moreHref, sort = 'reads', exclude = [] } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+const analytics = getAnalytics();
+const readsOf = (a: Article): number => {
+  const r = analytics[`${a.data.category}/${a.data.slug}`]?.readers;
+  return r == null ? 0 : typeof r === 'object' ? r.total ?? 0 : r;
+};
+const recency = (a: Article, b: Article) => +new Date(b.data.updated) - +new Date(a.data.updated);
+
+const skip = new Set(exclude);
+const top = [...articles]
+  .filter((a) => a.data.category !== 'about' && !skip.has(`${a.data.category}/${a.data.slug}`))
+  .sort((a, b) => {
+    if (sort === 'recent') return recency(a, b);
+    const d = readsOf(b) - readsOf(a);
+    return d !== 0 ? d : recency(a, b);
+  })
+  .slice(0, limit);
+
+const heading = sort === 'recent'
+  ? L('Terkini', 'Latest', '最新')
+  : L('Paling banyak dibaca', 'Most read', '最多阅读');
+const headIcon = sort === 'recent' ? '🆕' : '🔥';
+---
+
+{
+  top.length > 0 && (
+    <section class="container block">
+      <div class="mr-head">
+        <h2><span class="mr-ico" aria-hidden="true">{headIcon}</span>{heading}</h2>
+        {moreHref && (
+          <a class="mr-more" href={localePath(moreHref, locale)}>
+            {L('Lihat semua', 'See all', '查看全部')} →
+          </a>
+        )}
+      </div>
+      <div class="mr-grid">
+        {top.map((a) => (
+          <ArticleCard article={a} locale={locale} />
+        ))}
+      </div>
+    </section>
+  )
+}
+
+<style>
+  .block { margin-top: 1.6rem; }
+  .mr-head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-bottom: 1.1rem;
+  }
+  .mr-head h2 { margin: 0; font-size: 1.5rem; display: inline-flex; align-items: center; gap: 0.55rem; }
+  .mr-head .mr-ico { font-size: 1.3rem; line-height: 1; }
+  .mr-more {
+    color: var(--gold);
+    font-weight: 700;
+    font-size: 0.85rem;
+    text-decoration: none;
+    white-space: nowrap;
+  }
+  .mr-more:hover { text-decoration: underline; }
+  .mr-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+    gap: 1rem;
+  }
+</style>

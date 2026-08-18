@@ -1,0 +1,92 @@
+---
+import type { Locale } from '@/lib/categories';
+import { getPillar } from '@/lib/categories';
+import { articlesForLocale } from '@/lib/content';
+import { getAnalytics } from '@/lib/apidata';
+import { localePath, t } from '@/lib/i18n';
+import PageHero from './PageHero.astro';
+import ArticleList from './ArticleList.astro';
+
+// Most Read — the corpus ranked by reader popularity (visitor analytics), with a
+// recency fallback so the list is never empty while analytics are still young:
+// articles with reads sort first (most-read → least), then everything else by
+// most-recently-updated. Capped at the top 50; the order is fixed (no sort row).
+
+interface Props {
+  locale: Locale;
+}
+const { locale } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+const analytics = getAnalytics();
+const readsOf = (cat: string, slug: string): number => {
+  const r = analytics[`${cat}/${slug}`]?.readers;
+  return r == null ? 0 : typeof r === 'object' ? r.total ?? 0 : r;
+};
+
+const MAX_ITEMS = 50;
+const canonical = (await articlesForLocale(locale))
+  .filter((a) => a.data.lang === locale)
+  .sort((a, b) => {
+    const ra = readsOf(a.data.category, a.data.slug);
+    const rb = readsOf(b.data.category, b.data.slug);
+    if (rb !== ra) return rb - ra; // most-read first
+    return +new Date(b.data.updated) - +new Date(a.data.updated); // then freshest
+  })
+  .slice(0, MAX_ITEMS);
+
+const tracked = canonical.filter((a) => readsOf(a.data.category, a.data.slug) > 0).length;
+
+const secCount = new Set(canonical.map((a) => getPillar(a.data.category)).filter(Boolean)).size;
+const catCount = new Set(canonical.map((a) => a.data.category)).size;
+const topCount = new Set(canonical.flatMap((a) => (a.data.subcategory ?? []).map((s) => `${a.data.category}/${s}`))).size;
+---
+
+<PageHero
+  locale={locale}
+  crumb={[
+    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
+    { label: t('nav.trending', locale) },
+  ]}
+  title={t('nav.trending', locale)}
+  desc={L(
+    'Artikel paling banyak dibaca — disusun mengikut lawatan pembaca, dengan yang terbaharu diutamakan sementara data masih terkumpul.',
+    'The most-read articles — ranked by reader visits, with the freshest first while analytics are still building.',
+    '阅读量最高的文章——按读者访问量排序；在数据仍在积累时，优先展示最新文章。',
+  )}
+  stats={[
+    { value: secCount, label: L('seksyen', 'sections', '版块') },
+    { value: catCount, label: L('kategori', 'categories', '分类') },
+    { value: topCount, label: L('topik', 'topics', '主题') },
+    { value: canonical.length, label: L('artikel', 'articles', '文章') },
+  ]}
+/>
+
+<section class="container">
+  <p class="tr-note">
+    <span aria-hidden="true">ℹ️</span>
+    {L(
+      'Disusun mengikut lawatan pembaca dan dikemas kini setiap hari. Artikel yang belum dijejak disusun mengikut kemas kini terbaharu, jadi senarai ini terus terisi apabila data bertambah.',
+      'Ranked by reader visits and refreshed daily. Articles not tracked yet are ordered by most recent update, so the list fills out as analytics grow.',
+      '按读者访问量排序，每日更新。尚未被追踪的文章按最近更新排序，随着数据积累，列表会逐渐充实。',
+    )}
+  </p>
+</section>
+
+<ArticleList locale={locale} articles={canonical} filters={['sec', 'cat', 'top', 'status']} hideSort fixedOrder showRank />
+
+<style>
+  .tr-note {
+    display: flex;
+    gap: 0.5rem;
+    align-items: flex-start;
+    margin: 0.2rem 0 0;
+    padding: 0.7rem 0.9rem;
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    background: var(--surface);
+    color: var(--muted);
+    font-size: 0.84rem;
+    line-height: 1.5;
+  }
+</style>

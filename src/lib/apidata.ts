@@ -1,6 +1,7 @@
 import { readFileSync, existsSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import path from 'node:path';
+import type { Article } from './content';
 
 // Build-time readers for the generated JSON in public/api/. These files are
 // produced by scripts/{build-dashboard,build-changelog,build-git-info}.mjs
@@ -113,4 +114,24 @@ export type Analytics = Record<string, { readers?: AnalyticsBucket; search?: Ana
 
 export function getAnalytics(): Analytics {
   return read<Analytics>('analytics.json', {});
+}
+
+// Article keys ("category/slug") ranked by reader analytics with a recency
+// fallback, top N. Lets a pair of strips (Most read + Latest) share one ranking
+// so the Latest strip can exclude what Most read already showed — matches the
+// internal ranking in ArticleStrip's "reads" mode.
+export function mostReadKeys(articles: Article[], limit = 4): string[] {
+  const a = getAnalytics();
+  const reads = (x: Article): number => {
+    const r = a[`${x.data.category}/${x.data.slug}`]?.readers;
+    return r == null ? 0 : typeof r === 'object' ? r.total ?? 0 : r;
+  };
+  return [...articles]
+    .filter((x) => x.data.category !== 'about')
+    .sort((p, q) => {
+      const d = reads(q) - reads(p);
+      return d !== 0 ? d : +new Date(q.data.updated) - +new Date(p.data.updated);
+    })
+    .slice(0, limit)
+    .map((x) => `${x.data.category}/${x.data.slug}`);
 }
