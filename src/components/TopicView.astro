@@ -2,10 +2,12 @@
 import type { Locale } from '@/lib/categories';
 import { getCategory, getPillar, getPillarDef, categoriesInPillar, PILLARS } from '@/lib/categories';
 import { type Article, articlesForLocale } from '@/lib/content';
+import { mostReadKeys } from '@/lib/apidata';
 import { subcatLabel, orderedSubcats } from '@/lib/subcategories';
 import { localePath } from '@/lib/i18n';
 import PageHero from './PageHero.astro';
 import ArticleList from './ArticleList.astro';
+import ArticleStrip from './ArticleStrip.astro';
 import HubGroups from './HubGroups.astro';
 
 // TOPIC (subcategory) page — the level between a category and an article.
@@ -30,6 +32,12 @@ const label = subcatLabel(topic, locale);
 // Sibling topics in this category — used for the hero's Topics stat.
 const catArticles = (await articlesForLocale(locale)).filter((a) => a.data.category === categoryId);
 const topics = orderedSubcats(categoryId, catArticles.flatMap((a) => a.data.subcategory));
+
+// Latest + Most-read strips scoped to the parent CATEGORY (not this narrow topic,
+// whose full list already sits above) — onward discovery beyond the current topic.
+// Latest excludes the Most-read picks so the two strips never overlap.
+const STRIP = 4;
+const mrKeys = mostReadKeys(catArticles, STRIP);
 ---
 
 <PageHero
@@ -64,3 +72,7 @@ const topics = orderedSubcats(categoryId, catArticles.flatMap((a) => a.data.subc
     />
   )
 }
+
+<ArticleStrip locale={locale} articles={catArticles} moreHref="/latest" sort="recent" limit={STRIP} exclude={mrKeys} />
+
+<ArticleStrip locale={locale} articles={catArticles} moreHref="/most-read" limit={STRIP} />
