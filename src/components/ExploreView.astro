@@ -22,7 +22,9 @@ const mrKeys = mostReadKeys(nonAbout, 4);
 // Per-section rollup — the site's spine (Understand / Living / Business).
 const pillarStats = PILLARS.map((p) => {
   const arts = nonAbout.filter((a) => getPillar(a.data.category) === p.id).length;
-  return { id: p.id, name: p.name[locale], icon: p.icon, blurb: p.blurb?.[locale], arts };
+  // Sections describe themselves with `tagline` (pillars have no `blurb`); the
+  // hub's SECTIONS group uses the same field, so the cards match everywhere.
+  return { id: p.id, name: p.name[locale], icon: p.icon, blurb: p.tagline[locale], arts };
 });
 
 // "More ways to explore" — the non-section entry points, mirroring the Explore
