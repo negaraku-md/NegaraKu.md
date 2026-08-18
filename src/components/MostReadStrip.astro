@@ -1,0 +1,82 @@
+---
+import type { Locale } from '@/lib/categories';
+import type { Article } from '@/lib/content';
+import { getAnalytics } from '@/lib/apidata';
+import { localePath } from '@/lib/i18n';
+import ArticleCard from './ArticleCard.astro';
+
+// A compact "Most read" strip for hub pages (Explore, section hubs). Ranks the
+// supplied pool by reader analytics, falling back to most-recently-updated so it
+// is never empty while analytics are still young — same rule as /trending. Gets
+// visitors into actual articles instead of another wall of category tiles.
+
+interface Props {
+  locale: Locale;
+  /** Pool to rank (whole corpus on Explore, one section on a pillar hub). */
+  articles: Article[];
+  limit?: number;
+  /** Optional "see more" link (locale-agnostic path, e.g. "/trending"). */
+  moreHref?: string;
+}
+const { locale, articles, limit = 4, moreHref } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+const analytics = getAnalytics();
+const readsOf = (a: Article): number => {
+  const r = analytics[`${a.data.category}/${a.data.slug}`]?.readers;
+  return r == null ? 0 : typeof r === 'object' ? r.total ?? 0 : r;
+};
+
+const top = [...articles]
+  .filter((a) => a.data.category !== 'about')
+  .sort((a, b) => {
+    const d = readsOf(b) - readsOf(a);
+    return d !== 0 ? d : +new Date(b.data.updated) - +new Date(a.data.updated);
+  })
+  .slice(0, limit);
+---
+
+{
+  top.length > 0 && (
+    <section class="container block">
+      <div class="mr-head">
+        <h2>{L('Paling banyak dibaca', 'Most read', '最多阅读')}</h2>
+        {moreHref && (
+          <a class="mr-more" href={localePath(moreHref, locale)}>
+            {L('Lihat sohor kini', 'See trending', '查看热门')} →
+          </a>
+        )}
+      </div>
+      <div class="mr-grid">
+        {top.map((a) => (
+          <ArticleCard article={a} locale={locale} />
+        ))}
+      </div>
+    </section>
+  )
+}
+
+<style>
+  .block { margin-top: 1.6rem; }
+  .mr-head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-bottom: 1.1rem;
+  }
+  .mr-head h2 { margin: 0; font-size: 1.5rem; }
+  .mr-more {
+    color: var(--gold);
+    font-weight: 700;
+    font-size: 0.85rem;
+    text-decoration: none;
+    white-space: nowrap;
+  }
+  .mr-more:hover { text-decoration: underline; }
+  .mr-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+    gap: 1rem;
+  }
+</style>

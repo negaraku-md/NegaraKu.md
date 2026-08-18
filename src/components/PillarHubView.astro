@@ -5,6 +5,7 @@ import { articlesForLocale } from '@/lib/content';
 import { localePath } from '@/lib/i18n';
 import PageHero from './PageHero.astro';
 import HubGroups from './HubGroups.astro';
+import MostReadStrip from './MostReadStrip.astro';
 
 // SECTION (pillar) hub. Same system as every other page: hero with breadcrumb +
 // scoped search, then section boxes. Adds two things a lone category grid lacked
@@ -39,5 +40,7 @@ const topicCount = new Set(
     { value: inPillar.length, label: L('artikel', 'articles', '文章') },
   ]}
 />
+
+<MostReadStrip locale={locale} articles={inPillar} moreHref="/trending" />
 
 <HubGroups locale={locale} pillar={pillar} goldGroup="categories" />

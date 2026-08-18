@@ -5,6 +5,7 @@ import { articlesForLocale, siteStats } from '@/lib/content';
 import { localePath } from '@/lib/i18n';
 import PageHero from './PageHero.astro';
 import ArticleCard from './ArticleCard.astro';
+import MostReadStrip from './MostReadStrip.astro';
 
 interface Props {
   locale: Locale;
@@ -72,6 +73,8 @@ const pillarStats = PILLARS.map((p) => {
     </div>
   </div>
 </section>
+
+<MostReadStrip locale={locale} articles={nonAbout} moreHref="/trending" />
 
 <section id="categories" class="container block">
   <div class="psec psec-gold">
