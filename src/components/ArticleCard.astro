@@ -15,6 +15,11 @@ const { category, slug, title, summary, status, hero } = article.data;
 const cat = getCategory(category);
 const href = localePath(`/${category}/${slug}`, locale);
 const color = getCategoryColor(category);
+// No per-article photos exist, but every article has an auto-generated OG card
+// (scripts/build-og.mjs) — reuse it as the thumbnail. Falls back to the category
+// glyph if the PNG is missing (e.g. a brand-new article on the dev server, where
+// build-og hasn't run). Generated at build for production, so it's always there.
+const ogSrc = `/og/${locale}/${category}/${slug}.png`;
 const mins = readingTime(article);
 const nSrc = article.data.sources.length;
 const citeLabel = locale === 'zh' ? '引用' : locale === 'en' ? 'cites' : 'rujukan';
@@ -23,7 +28,16 @@ const minLabel = locale === 'zh' ? '分钟' : 'min';
 
 <a class:list={['card article-card', { row }]} href={href} style={`--c:${color}`}>
   <div class="thumb">
-    {hero ? <img src={hero} alt="" loading="lazy" /> : <span class="glyph" aria-hidden="true">{cat?.icon}</span>}
+    {
+      hero ? (
+        <img src={hero} alt="" loading="lazy" />
+      ) : (
+        <>
+          <span class="glyph" aria-hidden="true">{cat?.icon}</span>
+          <img class="og" src={ogSrc} alt="" loading="lazy" data-og />
+        </>
+      )
+    }
   </div>
   <div class="cbody">
     <div class="top">
@@ -38,6 +52,17 @@ const minLabel = locale === 'zh' ? '分钟' : 'min';
     </div>
   </div>
 </a>
+
+<script>
+  // If an OG thumbnail 404s (a new article the build hasn't rendered yet), hide
+  // it so the category glyph beneath shows instead of a broken-image icon. Also
+  // catches images that already errored before this script ran.
+  for (const img of document.querySelectorAll<HTMLImageElement>('img.og[data-og]')) {
+    const hide = () => (img.style.display = 'none');
+    if (img.complete && img.naturalWidth === 0) hide();
+    else img.addEventListener('error', hide, { once: true });
+  }
+</script>
 
 <style>
   .article-card {
