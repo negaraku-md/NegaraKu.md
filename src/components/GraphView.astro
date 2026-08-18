@@ -59,6 +59,21 @@ const payload = JSON.stringify({ nodes, links, colors: CATEGORY_COLORS });
           </p>
           <button id="greset" type="button" class="greset">{L('Set semula', 'Reset view', '重置视图')}</button>
         </div>
+        <div class="gsearch">
+          <span class="gs-ico" aria-hidden="true">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"></circle><path d="m21 21-4.3-4.3"></path></svg>
+          </span>
+          <input
+            id="gsearch"
+            type="search"
+            autocomplete="off"
+            placeholder={L('Cari topik…', 'Search topics…', '搜索主题…')}
+            aria-label={L('Cari topik dalam graf', 'Search topics in the graph', '在图谱中搜索主题')}
+            data-lbl-matches={L('padanan', 'matches', '个匹配')}
+            data-lbl-none={L('tiada padanan', 'no matches', '无匹配')}
+          />
+          <span id="gsearch-count" class="gs-count" aria-live="polite" />
+        </div>
         <div class="legend" aria-label={L('Tapis mengikut kategori', 'Filter by category', '按分类筛选')}>
           {legend.map((c) => (
             <button class="lg" type="button" data-cat={c.id} aria-pressed="true">
@@ -138,6 +153,8 @@ const payload = JSON.stringify({ nodes, links, colors: CATEGORY_COLORS });
 
     let transform = d3.zoomIdentity;
     let hover: N | null = null;
+    let query = '';
+    let matches = new Set<string>();
     const visible = (n: N) => !hiddenCats.has(n.c);
 
     const zoom = d3
@@ -201,9 +218,54 @@ const payload = JSON.stringify({ nodes, links, colors: CATEGORY_COLORS });
         else hiddenCats.add(cat);
         btn.setAttribute('aria-pressed', String(!hiddenCats.has(cat)));
         btn.classList.toggle('off', hiddenCats.has(cat));
+        recomputeMatches();
         draw();
       });
     }
+
+    // Search: highlight matching nodes (dim the rest), count them, and zoom to
+    // fit them on Enter. A node matches if its label contains the query.
+    const searchEl = document.getElementById('gsearch') as HTMLInputElement | null;
+    const countEl = document.getElementById('gsearch-count');
+    const LBL_MATCH = searchEl?.dataset.lblMatches ?? 'matches';
+    const LBL_NONE = searchEl?.dataset.lblNone ?? 'no matches';
+
+    function recomputeMatches() {
+      matches = new Set();
+      if (query) {
+        for (const n of nodes) {
+          if (visible(n) && n.label.toLowerCase().includes(query)) matches.add(n.id);
+        }
+      }
+      if (countEl) {
+        countEl.textContent = !query ? '' : matches.size ? `${matches.size} ${LBL_MATCH}` : LBL_NONE;
+      }
+    }
+
+    function zoomToMatches() {
+      const ms = nodes.filter((n) => matches.has(n.id) && n.x != null && visible(n));
+      if (!ms.length) return;
+      let minX = Infinity, minY = Infinity, maxX = -Infinity, maxY = -Infinity;
+      for (const n of ms) {
+        minX = Math.min(minX, n.x!); maxX = Math.max(maxX, n.x!);
+        minY = Math.min(minY, n.y!); maxY = Math.max(maxY, n.y!);
+      }
+      const pad = 80;
+      const bw = Math.max(maxX - minX, 1), bh = Math.max(maxY - minY, 1);
+      const k = Math.max(0.12, Math.min(4, 0.9 * Math.min(width / (bw + pad * 2), height / (bh + pad * 2))));
+      const cx = (minX + maxX) / 2, cy = (minY + maxY) / 2;
+      const tf = d3.zoomIdentity.translate(width / 2 - k * cx, height / 2 - k * cy).scale(k);
+      d3.select(canvas).transition().duration(500).call(zoom.transform as any, tf);
+    }
+
+    searchEl?.addEventListener('input', () => {
+      query = searchEl.value.trim().toLowerCase();
+      recomputeMatches();
+      draw();
+    });
+    searchEl?.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') { e.preventDefault(); zoomToMatches(); }
+    });
 
     document.getElementById('greset')?.addEventListener('click', () => {
       d3.select(canvas).transition().duration(400).call(zoom.transform as any, d3.zoomIdentity);
@@ -212,6 +274,9 @@ const payload = JSON.stringify({ nodes, links, colors: CATEGORY_COLORS });
         b.setAttribute('aria-pressed', 'true');
         b.classList.remove('off');
       }
+      if (searchEl) searchEl.value = '';
+      query = '';
+      recomputeMatches();
       sim.alpha(0.5).restart();
     });
 
@@ -239,6 +304,7 @@ const payload = JSON.stringify({ nodes, links, colors: CATEGORY_COLORS });
 
     function draw() {
       const neighbors = hover ? adj.get(hover.id) : null;
+      const searching = query.length > 0;
       ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
       ctx.clearRect(0, 0, width, height);
       ctx.translate(transform.x, transform.y);
@@ -261,8 +327,10 @@ const payload = JSON.stringify({ nodes, links, colors: CATEGORY_COLORS });
       // Nodes.
       for (const n of nodes) {
         if (!visible(n) || n.x == null) continue;
-        const dim = hover && n.id !== hover.id && !neighbors?.has(n.id);
-        ctx.globalAlpha = dim ? 0.18 : 1;
+        const dim = hover
+          ? n.id !== hover.id && !neighbors?.has(n.id)
+          : searching && !matches.has(n.id);
+        ctx.globalAlpha = dim ? 0.12 : 1;
         ctx.beginPath();
         ctx.arc(n.x, n.y!, rOf(n), 0, 2 * Math.PI);
         ctx.fillStyle = colorFor(n.c);
@@ -270,6 +338,10 @@ const payload = JSON.stringify({ nodes, links, colors: CATEGORY_COLORS });
         if (hover && n.id === hover.id) {
           ctx.lineWidth = 2 / transform.k;
           ctx.strokeStyle = '#F4F4F8';
+          ctx.stroke();
+        } else if (!hover && searching && matches.has(n.id)) {
+          ctx.lineWidth = 2 / transform.k;
+          ctx.strokeStyle = '#FFC000';
           ctx.stroke();
         }
       }
@@ -281,10 +353,14 @@ const payload = JSON.stringify({ nodes, links, colors: CATEGORY_COLORS });
       ctx.font = '600 12px system-ui, sans-serif';
       ctx.textBaseline = 'middle';
       const showHub = transform.k > 1.7;
+      // Label matches too — but only when the result set is small enough that the
+      // labels stay legible rather than becoming a wall of text.
+      const labelMatches = searching && matches.size > 0 && matches.size <= 40;
       for (const n of nodes) {
         if (!visible(n) || n.x == null) continue;
         const isHover = hover && (n.id === hover.id || neighbors?.has(n.id));
-        if (!isHover && !(showHub && n.w >= 14)) continue;
+        const isMatch = labelMatches && matches.has(n.id);
+        if (!isHover && !isMatch && !(showHub && n.w >= 14)) continue;
         const sx = transform.applyX(n.x);
         const sy = transform.applyY(n.y!);
         if (sx < -40 || sx > width + 40 || sy < -20 || sy > height + 20) continue;
@@ -293,7 +369,7 @@ const payload = JSON.stringify({ nodes, links, colors: CATEGORY_COLORS });
         ctx.lineWidth = 3;
         ctx.strokeStyle = 'rgba(7,7,10,0.85)';
         ctx.strokeText(label, sx + off, sy);
-        ctx.fillStyle = isHover ? '#FFFFFF' : '#C6C6D4';
+        ctx.fillStyle = isHover || isMatch ? '#FFFFFF' : '#C6C6D4';
         ctx.fillText(label, sx + off, sy);
       }
     }
@@ -335,6 +411,42 @@ const payload = JSON.stringify({ nodes, links, colors: CATEGORY_COLORS });
   .greset:hover {
     border-color: var(--gold);
     background: color-mix(in srgb, var(--gold) 10%, var(--surface));
+  }
+  .gsearch {
+    position: relative;
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    margin-bottom: 0.6rem;
+  }
+  .gs-ico {
+    position: absolute;
+    left: 0.75rem;
+    color: var(--muted);
+    display: grid;
+    place-items: center;
+    pointer-events: none;
+  }
+  #gsearch {
+    flex: 1;
+    min-width: 0;
+    max-width: 420px;
+    font: inherit;
+    font-size: 0.92rem;
+    padding: 0.5rem 0.8rem 0.5rem 2.3rem;
+    border-radius: 10px;
+    border: 1px solid var(--line);
+    background: var(--surface);
+    color: var(--ink);
+  }
+  #gsearch:focus {
+    outline: none;
+    border-color: var(--gold);
+  }
+  .gs-count {
+    font-size: 0.8rem;
+    color: var(--muted);
+    white-space: nowrap;
   }
   .legend {
     display: flex;
