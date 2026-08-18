@@ -2,7 +2,7 @@
 import type { Locale, Pillar } from '@/lib/categories';
 import { getPillarDef, categoriesInPillar, getPillar, PILLARS } from '@/lib/categories';
 import { articlesForLocale } from '@/lib/content';
-import { getAnalytics } from '@/lib/apidata';
+import { mostReadKeys } from '@/lib/apidata';
 import { localePath } from '@/lib/i18n';
 import PageHero from './PageHero.astro';
 import HubGroups from './HubGroups.astro';
@@ -28,22 +28,10 @@ const topicCount = new Set(
   inPillar.flatMap((a) => (a.data.subcategory ?? []).map((s) => `${a.data.category}/${s}`)),
 ).size;
 
-// The Most-read strip picks its top 4 by reads (recency fallback). Compute the
-// same keys here so the Latest strip below can exclude them — otherwise, before
-// analytics accumulate, both strips would show the identical four articles.
+// The Latest strip excludes what Most read already shows, so before analytics
+// accumulate the two strips don't render the identical four articles.
 const STRIP = 4;
-const analytics = getAnalytics();
-const readsOf = (a: (typeof inPillar)[number]): number => {
-  const r = analytics[`${a.data.category}/${a.data.slug}`]?.readers;
-  return r == null ? 0 : typeof r === 'object' ? r.total ?? 0 : r;
-};
-const mostReadKeys = [...inPillar]
-  .sort((a, b) => {
-    const d = readsOf(b) - readsOf(a);
-    return d !== 0 ? d : +new Date(b.data.updated) - +new Date(a.data.updated);
-  })
-  .slice(0, STRIP)
-  .map((a) => `${a.data.category}/${a.data.slug}`);
+const mrKeys = mostReadKeys(inPillar, STRIP);
 ---
 
 <PageHero
@@ -61,6 +49,6 @@ const mostReadKeys = [...inPillar]
 
 <ArticleStrip locale={locale} articles={inPillar} moreHref="/most-read" limit={STRIP} />
 
-<ArticleStrip locale={locale} articles={inPillar} moreHref="/latest" sort="recent" limit={STRIP} exclude={mostReadKeys} />
+<ArticleStrip locale={locale} articles={inPillar} moreHref="/latest" sort="recent" limit={STRIP} exclude={mrKeys} />
 
 <HubGroups locale={locale} pillar={pillar} goldGroup="categories" />

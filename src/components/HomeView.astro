@@ -2,6 +2,9 @@
 import type { Locale } from '@/lib/categories';
 import { PILLARS } from '@/lib/categories';
 import { t, localePath } from '@/lib/i18n';
+import { articlesForLocale } from '@/lib/content';
+import { mostReadKeys } from '@/lib/apidata';
+import ArticleStrip from './ArticleStrip.astro';
 
 interface Props {
   locale: Locale;
@@ -13,6 +16,12 @@ interface Props {
 }
 const { locale } = Astro.props;
 const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+// Site-wide Most-read + Latest strips. Latest excludes the Most-read picks so the
+// two never repeat the same articles.
+const items = (await articlesForLocale(locale)).filter((a) => a.data.category !== 'about');
+const STRIP = 4;
+const mrKeys = mostReadKeys(items, STRIP);
 
 // Distinctive facts, not factbook figures. Each is verified: Peninsular + Borneo
 // split by the South China Sea; Taman Negara ~130M yrs (older than the Amazon);
@@ -85,6 +94,10 @@ const stats = [
     ))}
   </div>
 </section>
+
+<ArticleStrip locale={locale} articles={items} moreHref="/most-read" limit={STRIP} />
+
+<ArticleStrip locale={locale} articles={items} moreHref="/latest" sort="recent" limit={STRIP} exclude={mrKeys} />
 
 <style>
   /* Microsoft-style structure, 1company brand: eyebrow → headline → pitch →

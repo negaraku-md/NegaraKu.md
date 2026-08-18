@@ -2,9 +2,11 @@
 import type { Locale, Category } from '@/lib/categories';
 import { getPillar, getPillarDef, categoriesInPillar, PILLARS } from '@/lib/categories';
 import type { Article } from '@/lib/content';
+import { mostReadKeys } from '@/lib/apidata';
 import { localePath } from '@/lib/i18n';
 import PageHero from './PageHero.astro';
 import HubGroups from './HubGroups.astro';
+import ArticleStrip from './ArticleStrip.astro';
 
 import ServiceCategory from './category/ServiceCategory.astro';
 
@@ -29,6 +31,14 @@ const catCount = pillar ? categoriesInPillar(pillar).length : 0;
 
 // Every category uses the service archetype now — one uniform, scalable body.
 const Body = ServiceCategory;
+
+// Most-read + Latest strips, but only on substantial categories — on a short one
+// the strips would just repeat the list the body shows right below. Latest
+// excludes the Most-read picks so the two strips never overlap.
+const STRIP = 4;
+const MIN_FOR_STRIPS = 12;
+const showStrips = articles.length >= MIN_FOR_STRIPS;
+const mrKeys = showStrips ? mostReadKeys(articles, STRIP) : [];
 ---
 
 <PageHero
@@ -47,6 +57,15 @@ const Body = ServiceCategory;
     { value: articles.length, label: L('artikel', 'articles', '文章') },
   ]}
 />
+
+{
+  showStrips && (
+    <>
+      <ArticleStrip locale={locale} articles={articles} limit={STRIP} />
+      <ArticleStrip locale={locale} articles={articles} sort="recent" limit={STRIP} exclude={mrKeys} />
+    </>
+  )
+}
 
 <Body locale={locale} category={category} articles={articles} />
 
