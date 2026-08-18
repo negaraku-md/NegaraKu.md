@@ -262,11 +262,11 @@ const { locale, path } = Astro.props;
     position: absolute;
     top: calc(100% + 4px);
     left: 0;
-    min-width: 200px;
+    min-width: 240px;
     background: var(--surface);
-    /* Brighter, more visible edge than the site-wide --line: mix the bright ink
-       into the line so it reads whiter on dark and stays crisp on light. */
-    border: 1px solid color-mix(in srgb, var(--ink) 38%, var(--line));
+    /* Light, clearly-visible edge: mostly the bright ink so it reads near-white
+       on dark and stays crisp on light. */
+    border: 1px solid color-mix(in srgb, var(--ink) 60%, var(--line));
     border-radius: 12px;
     padding: 0.4rem;
     box-shadow: var(--shadow-card);
@@ -282,6 +282,7 @@ const { locale, path } = Astro.props;
     border-radius: 8px;
     color: var(--ink-soft);
     text-decoration: none;
+    white-space: nowrap; /* keep long labels on one line; the panel widens to fit */
   }
   .dropdown a:hover {
     background: var(--surface-2);
@@ -490,6 +491,11 @@ const { locale, path } = Astro.props;
       box-shadow: none;
       padding: 0 0 0.5rem 0.8rem;
       min-width: 0;
+    }
+    /* On phones the panel is full-width, so let long labels wrap instead of
+       overflowing horizontally. */
+    .dropdown a {
+      white-space: normal;
     }
     .menu-btn {
       width: 100%;
