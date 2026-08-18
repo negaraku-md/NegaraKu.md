@@ -2,10 +2,11 @@
 import type { Locale, Pillar } from '@/lib/categories';
 import { getPillarDef, categoriesInPillar, getPillar, PILLARS } from '@/lib/categories';
 import { articlesForLocale } from '@/lib/content';
+import { getAnalytics } from '@/lib/apidata';
 import { localePath } from '@/lib/i18n';
 import PageHero from './PageHero.astro';
 import HubGroups from './HubGroups.astro';
-import MostReadStrip from './MostReadStrip.astro';
+import ArticleStrip from './ArticleStrip.astro';
 
 // SECTION (pillar) hub. Same system as every other page: hero with breadcrumb +
 // scoped search, then section boxes. Adds two things a lone category grid lacked
@@ -26,6 +27,23 @@ const inPillar = items.filter((a) => getPillar(a.data.category) === pillar);
 const topicCount = new Set(
   inPillar.flatMap((a) => (a.data.subcategory ?? []).map((s) => `${a.data.category}/${s}`)),
 ).size;
+
+// The Most-read strip picks its top 4 by reads (recency fallback). Compute the
+// same keys here so the Latest strip below can exclude them — otherwise, before
+// analytics accumulate, both strips would show the identical four articles.
+const STRIP = 4;
+const analytics = getAnalytics();
+const readsOf = (a: (typeof inPillar)[number]): number => {
+  const r = analytics[`${a.data.category}/${a.data.slug}`]?.readers;
+  return r == null ? 0 : typeof r === 'object' ? r.total ?? 0 : r;
+};
+const mostReadKeys = [...inPillar]
+  .sort((a, b) => {
+    const d = readsOf(b) - readsOf(a);
+    return d !== 0 ? d : +new Date(b.data.updated) - +new Date(a.data.updated);
+  })
+  .slice(0, STRIP)
+  .map((a) => `${a.data.category}/${a.data.slug}`);
 ---
 
 <PageHero
@@ -41,6 +59,8 @@ const topicCount = new Set(
   ]}
 />
 
-<MostReadStrip locale={locale} articles={inPillar} moreHref="/most-read" />
+<ArticleStrip locale={locale} articles={inPillar} moreHref="/most-read" limit={STRIP} />
+
+<ArticleStrip locale={locale} articles={inPillar} moreHref="/latest" sort="recent" limit={STRIP} exclude={mostReadKeys} />
 
 <HubGroups locale={locale} pillar={pillar} goldGroup="categories" />

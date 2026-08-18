@@ -4,7 +4,7 @@ import { getPillar, PILLARS } from '@/lib/categories';
 import { articlesForLocale, siteStats } from '@/lib/content';
 import { localePath, t } from '@/lib/i18n';
 import PageHero from './PageHero.astro';
-import MostReadStrip from './MostReadStrip.astro';
+import ArticleStrip from './ArticleStrip.astro';
 
 interface Props {
   locale: Locale;
@@ -93,7 +93,7 @@ const ways = [
   </div>
 </section>
 
-<MostReadStrip locale={locale} articles={nonAbout} moreHref="/most-read" />
+<ArticleStrip locale={locale} articles={nonAbout} moreHref="/most-read" />
 
 <section class="container block">
   <div class="psec psec-gold">
