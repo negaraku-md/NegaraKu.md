@@ -33,7 +33,7 @@ const groups = PILLARS.map((p) => ({ def: p, cats: categoriesInPillar(p.id) }));
     { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
     { label: t('nav.categories', locale) },
   ]}
-  title={L('Semua Kategori', 'All Categories', '所有分类')}
+  title={t('nav.categories', locale)}
   desc={L(
     'Layari setiap kategori mengikut seksyen — pilih satu untuk meneroka topik dan artikelnya.',
     'Browse every category by section — pick one to explore its topics and articles.',

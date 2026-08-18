@@ -2,7 +2,7 @@
 import type { Locale } from '@/lib/categories';
 import { getPillar } from '@/lib/categories';
 import { articlesForLocale } from '@/lib/content';
-import { localePath } from '@/lib/i18n';
+import { localePath, t } from '@/lib/i18n';
 import PageHero from './PageHero.astro';
 import ArticleList from './ArticleList.astro';
 
@@ -39,9 +39,9 @@ const topCount = new Set(canonical.flatMap((a) => (a.data.subcategory ?? []).map
   locale={locale}
   crumb={[
     { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
-    { label: L('Artikel Terkini', 'Latest Articles', '最新文章') },
+    { label: t('nav.latest', locale) },
   ]}
-  title={L('Artikel Terkini', 'Latest Articles', '最新文章')}
+  title={t('nav.latest', locale)}
   desc={L(
     'Kemas kini terbaharu — artikel yang berubah dalam 30 hari lepas (sehingga 100), dikumpulkan mengikut tarikh.',
     'The most recent updates — articles changed in the last 30 days (up to 100), grouped by date.',

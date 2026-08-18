@@ -3,7 +3,7 @@ import type { Locale } from '@/lib/categories';
 import { getPillar } from '@/lib/categories';
 import { articlesForLocale } from '@/lib/content';
 import { getAnalytics } from '@/lib/apidata';
-import { localePath } from '@/lib/i18n';
+import { localePath, t } from '@/lib/i18n';
 import PageHero from './PageHero.astro';
 import ArticleList from './ArticleList.astro';
 
@@ -46,9 +46,9 @@ const topCount = new Set(canonical.flatMap((a) => (a.data.subcategory ?? []).map
   locale={locale}
   crumb={[
     { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
-    { label: L('Paling Banyak Dibaca', 'Most Read', '最多阅读') },
+    { label: t('nav.trending', locale) },
   ]}
-  title={L('Paling Banyak Dibaca', 'Most Read', '最多阅读')}
+  title={t('nav.trending', locale)}
   desc={L(
     'Artikel paling banyak dibaca — disusun mengikut lawatan pembaca, dengan yang terbaharu diutamakan sementara data masih terkumpul.',
     'The most-read articles — ranked by reader visits, with the freshest first while analytics are still building.',
