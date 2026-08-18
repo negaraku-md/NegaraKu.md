@@ -8,6 +8,9 @@ export interface NavItem {
   /** Hidden from the dropdown by default; toggled on/off with Ctrl+Alt+Shift+A
       (persisted in localStorage). The page stays reachable by URL regardless. */
   secret?: boolean;
+  /** Non-interactive section label inside a dropdown (href ignored). Groups the
+      items that follow it until the next heading. */
+  heading?: boolean;
 }
 
 export interface NavMenu {
@@ -32,13 +35,19 @@ export const NAV: NavMenu[] = [
   { label: 'nav.business', href: '/doing-business' },
   {
     label: 'nav.explore',
+    // Grouped by intent so the 8 links read as three scannable clusters:
+    //  Discover (start + the two highest-value browse paths), By area (the three
+    //  pillars in full), Tools (exploratory / power features).
     items: [
+      { label: 'nav.grpDiscover', href: '', heading: true },
       { label: 'nav.exploreMalaysia', href: '/explore' },
+      { label: 'nav.categories', href: '/categories' },
       { label: 'nav.latest', href: '/latest' },
+      { label: 'nav.grpByArea', href: '', heading: true },
       { label: 'nav.understandMalaysia', href: '/understand' },
       { label: 'nav.livingMalaysia', href: '/living' },
       { label: 'nav.businessMalaysia', href: '/doing-business' },
-      { label: 'nav.categories', href: '/categories' },
+      { label: 'nav.grpTools', href: '', heading: true },
       { label: 'nav.graph', href: '/graph' },
       { label: 'nav.articles', href: '/articles', secret: true }, // hidden; Ctrl+Alt+Shift+A toggles it
     ],

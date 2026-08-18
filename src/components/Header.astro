@@ -46,15 +46,19 @@ const { locale, path } = Astro.props;
                 <span class="caret" aria-hidden="true">▾</span>
               </button>
               <div class="dropdown">
-                {menu.items.map((it) => (
-                  <a
-                    href={it.external ? it.href : localePath(it.href, locale)}
-                    data-secret-nav={it.secret ? '' : undefined}
-                    hidden={it.secret}
-                  >
-                    {t(it.label, locale)}
-                  </a>
-                ))}
+                {menu.items.map((it) =>
+                  it.heading ? (
+                    <div class="dd-head">{t(it.label, locale)}</div>
+                  ) : (
+                    <a
+                      href={it.external ? it.href : localePath(it.href, locale)}
+                      data-secret-nav={it.secret ? '' : undefined}
+                      hidden={it.secret}
+                    >
+                      {t(it.label, locale)}
+                    </a>
+                  ),
+                )}
               </div>
             </div>
           ) : (
@@ -282,6 +286,22 @@ const { locale, path } = Astro.props;
   .dropdown a:hover {
     background: var(--surface-2);
     color: var(--gold);
+  }
+  /* Non-interactive section labels grouping the dropdown items (Explore menu). */
+  .dropdown .dd-head {
+    padding: 0.5rem 0.7rem 0.2rem;
+    font-size: 0.64rem;
+    font-weight: 700;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    color: var(--muted);
+    pointer-events: none;
+    user-select: none;
+  }
+  .dropdown .dd-head:not(:first-child) {
+    margin-top: 0.25rem;
+    padding-top: 0.55rem;
+    border-top: 1px solid var(--line);
   }
 
   .tools {
