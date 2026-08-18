@@ -1,6 +1,88 @@
 {
   "schema": 1,
-  "cursor": "1970-01-01 00:00:00",
-  "updatedAt": null,
-  "pages": {}
+  "cursor": "2026-08-18 03:31:25",
+  "updatedAt": "2026-08-18T03:36:25.716Z",
+  "pages": {
+    "states/how-state-governments-are-funded": {
+      "readers": 15,
+      "search": {
+        "total": 0,
+        "byBot": {}
+      },
+      "ai": {
+        "total": 0,
+        "byBot": {}
+      }
+    },
+    "accounting/malaysian-accounting-standards-board-masb": {
+      "readers": 1,
+      "search": {
+        "total": 0,
+        "byBot": {}
+      },
+      "ai": {
+        "total": 0,
+        "byBot": {}
+      }
+    },
+    "accounting/accounting-software-malaysia": {
+      "readers": 3,
+      "search": {
+        "total": 2,
+        "byBot": {
+          "Googlebot": 2
+        }
+      },
+      "ai": {
+        "total": 2,
+        "byBot": {
+          "ClaudeBot": 2
+        }
+      }
+    },
+    "healthcare/buying-medicine-pharmacies": {
+      "readers": 7,
+      "search": {
+        "total": 0,
+        "byBot": {}
+      },
+      "ai": {
+        "total": 0,
+        "byBot": {}
+      }
+    },
+    "economy/epf-as-investor": {
+      "readers": 1,
+      "search": {
+        "total": 0,
+        "byBot": {}
+      },
+      "ai": {
+        "total": 0,
+        "byBot": {}
+      }
+    },
+    "accounting/audit-exemption-criteria": {
+      "readers": 6,
+      "search": {
+        "total": 0,
+        "byBot": {}
+      },
+      "ai": {
+        "total": 0,
+        "byBot": {}
+      }
+    },
+    "public-safety/private-security-industry-malaysia": {
+      "readers": 3,
+      "search": {
+        "total": 0,
+        "byBot": {}
+      },
+      "ai": {
+        "total": 0,
+        "byBot": {}
+      }
+    }
+  }
 }
