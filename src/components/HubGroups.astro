@@ -58,10 +58,8 @@ const topicCount = (t: string) => catArticles.filter((a) => a.data.subcategory.i
                 href={localePath(`/${categoryId}/topic/${t}`, locale)}
                 aria-current={t === activeTopic ? 'page' : undefined}
               >
-                <span class="ci-row">
-                  <span class="cc">{topicCount(t)}</span>
-                </span>
                 <b>{subcatLabel(t, locale)}</b>
+                <span class="tc-count">{topicCount(t)} {L('artikel', 'articles', '篇')} →</span>
               </a>
             ))}
           </div>
@@ -179,8 +177,10 @@ const topicCount = (t: string) => catArticles.filter((a) => a.data.subcategory.i
   .cat-card:hover { border-color: color-mix(in srgb, var(--gold) 55%, var(--line)); transform: translateY(-2px); }
   .cat-card.current { border-color: var(--gold); background: color-mix(in srgb, var(--gold) 8%, var(--surface-2)); }
   .cat-card .ci-row { width: 100%; display: flex; justify-content: space-between; align-items: center; }
-  /* Topic cards have no icon — keep the count on the right of the top row. */
-  .cat-card.topic .ci-row { justify-content: flex-end; }
+  /* Topic cards: name, then a labelled + clickable article count (same design as
+     the category page's Topics group). No icon, tighter than a category card. */
+  .cat-card.topic { gap: 0.3rem; }
+  .cat-card .tc-count { color: var(--muted); font-size: 0.85rem; }
   .cat-card .ci { font-size: 1.6rem; line-height: 1; }
   .cat-card b { font-family: var(--font-title); font-size: 1rem; }
   /* Card count follows the card title — same font, size and colour. */
