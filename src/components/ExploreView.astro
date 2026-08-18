@@ -2,6 +2,7 @@
 import type { Locale } from '@/lib/categories';
 import { getPillar, PILLARS } from '@/lib/categories';
 import { articlesForLocale, siteStats } from '@/lib/content';
+import { mostReadKeys } from '@/lib/apidata';
 import { localePath, t } from '@/lib/i18n';
 import PageHero from './PageHero.astro';
 import ArticleStrip from './ArticleStrip.astro';
@@ -15,6 +16,8 @@ const stats = await siteStats(locale);
 
 const items = await articlesForLocale(locale);
 const nonAbout = items.filter((a) => a.data.category !== 'about');
+// Shared ranking so the Latest strip excludes what Most read already shows.
+const mrKeys = mostReadKeys(nonAbout, 4);
 
 // Per-section rollup — the site's spine (Understand / Living / Business).
 const pillarStats = PILLARS.map((p) => {
@@ -70,6 +73,10 @@ const ways = [
   </form>
 </section>
 
+<ArticleStrip locale={locale} articles={nonAbout} moreHref="/latest" sort="recent" exclude={mrKeys} />
+
+<ArticleStrip locale={locale} articles={nonAbout} moreHref="/most-read" />
+
 <section class="container block">
   <div class="psec psec-gold">
     <header>
@@ -92,8 +99,6 @@ const ways = [
     </div>
   </div>
 </section>
-
-<ArticleStrip locale={locale} articles={nonAbout} moreHref="/most-read" />
 
 <section class="container block">
   <div class="psec psec-gold">

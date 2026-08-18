@@ -95,9 +95,9 @@ const stats = [
   </div>
 </section>
 
-<ArticleStrip locale={locale} articles={items} moreHref="/most-read" limit={STRIP} />
-
 <ArticleStrip locale={locale} articles={items} moreHref="/latest" sort="recent" limit={STRIP} exclude={mrKeys} />
+
+<ArticleStrip locale={locale} articles={items} moreHref="/most-read" limit={STRIP} />
 
 <style>
   /* Microsoft-style structure, 1company brand: eyebrow → headline → pitch →
