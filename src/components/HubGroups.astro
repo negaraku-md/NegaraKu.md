@@ -199,12 +199,14 @@ const topicCount = (t: string) => catArticles.filter((a) => a.data.subcategory.i
     position: absolute; top: 0; left: 0; right: 0; height: 4px;
     background: var(--cat, var(--gold));
   }
-  /* Change B: on hover the border takes the card's own colour. */
-  .cat-card:hover { border-color: color-mix(in srgb, var(--cat, var(--gold)) 60%, var(--line)); transform: translateY(-2px); }
-  /* Highlight (current) card: gold border + tint, and its top bar switches to
-     gold so "you are here" reads distinctly from the neutral colour bars. */
+  /* Change B: on hover the border takes the card's own top-bar colour. */
+  .cat-card:hover { border-color: var(--cat, var(--gold)); transform: translateY(-2px); }
+  /* Highlight (current) card: gold border + tint mark "you are here". Its top bar
+     is bright ink (not gold) so it stays visible against the gold box, and the
+     hover border follows that same bar colour. */
   .cat-card.current { border-color: var(--gold); background: color-mix(in srgb, var(--gold) 8%, var(--surface-2)); }
-  .cat-card.current .bar { background: var(--gold); }
+  .cat-card.current .bar { background: var(--ink); }
+  .cat-card.current:hover { border-color: var(--ink); }
   .cat-card .ci-row { width: 100%; display: flex; justify-content: space-between; align-items: center; }
   /* Topic cards: name, then a labelled + clickable article count (same design as
      the category page's Topics group). No icon, tighter than a category card. */
