@@ -1,34 +1,47 @@
 ---
 import type { Locale } from '@/lib/categories';
+import { getCategory } from '@/lib/categories';
+import type { Article } from '@/lib/content';
 import { localePath } from '@/lib/i18n';
 import { TIMELINE } from '@/lib/timeline';
 import PageHero from './PageHero.astro';
 
 // Timeline of Malaysia — a dedicated, non-list view: an era-grouped vertical
-// spine with a marker per milestone. Content lives in src/lib/timeline.ts.
+// spine with a marker per milestone. Content lives in src/lib/timeline.ts. When
+// rendered from the corpus article (contentType: 'timeline') the matching entry
+// is passed in so the hero title/summary and breadcrumb come from the article.
 
 interface Props {
   locale: Locale;
+  article?: Article;
 }
-const { locale } = Astro.props;
+const { locale, article } = Astro.props;
 const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 const eraCount = TIMELINE.length;
 const eventCount = TIMELINE.reduce((n, e) => n + e.events.length, 0);
+
+const cat = article ? getCategory(article.data.category) : null;
+const heroTitle = article?.data.title ?? L('Garis Masa Malaysia', 'Timeline of Malaysia', '马来西亚时间线');
+const heroDesc =
+  article?.data.summary ??
+  L(
+    'Kisah Malaysia dalam satu garis masa — daripada Kesultanan Melaka hingga hari ini.',
+    "Malaysia's story on a single timeline — from the Melaka Sultanate to today.",
+    '一条时间线看马来西亚——从马六甲苏丹国到今天。',
+  );
+const crumb = [
+  { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
+  ...(cat ? [{ label: cat.name[locale], href: localePath(`/${article!.data.category}`, locale) }] : []),
+  { label: article ? heroTitle : L('Garis Masa', 'Timeline', '时间线') },
+];
 ---
 
 <PageHero
   locale={locale}
-  crumb={[
-    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
-    { label: L('Garis Masa', 'Timeline', '时间线') },
-  ]}
-  title={L('Garis Masa Malaysia', 'Timeline of Malaysia', '马来西亚时间线')}
-  desc={L(
-    'Kisah Malaysia dalam satu garis masa — daripada Kesultanan Melaka hingga hari ini.',
-    "Malaysia's story on a single timeline — from the Melaka Sultanate to today.",
-    '一条时间线看马来西亚——从马六甲苏丹国到今天。',
-  )}
+  crumb={crumb}
+  title={heroTitle}
+  desc={heroDesc}
   stats={[
     { value: eraCount, label: L('era', 'eras', '时代') },
     { value: eventCount, label: L('peristiwa', 'milestones', '里程碑') },
