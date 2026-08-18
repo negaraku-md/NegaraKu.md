@@ -1,7 +1,6 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import ArticleView from '@/components/ArticleView.astro';
-import TimelineView from '@/components/TimelineView.astro';
 import { articlePaths } from '@/lib/paths';
 import { articleJsonLd, breadcrumbJsonLd, keywordsFor, faqJsonLd, seoTitleFor } from '@/lib/seo';
 import { localePath } from '@/lib/i18n';
@@ -32,5 +31,5 @@ const mdHref = localePath(path, locale) + '.md';
   section={article.data.category}
   jsonLd={[articleJsonLd(article, locale), breadcrumbJsonLd(article, locale), faqJsonLd(article)].filter(Boolean) as Record<string, unknown>[]}
 >
-  {article.data.contentType === 'timeline' ? <TimelineView locale={locale} article={article} /> : <ArticleView locale={locale} article={article} />}
+  <ArticleView locale={locale} article={article} />
 </BaseLayout>
