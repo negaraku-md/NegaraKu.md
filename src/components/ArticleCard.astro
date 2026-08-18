@@ -70,14 +70,11 @@ const minLabel = locale === 'zh' ? '分钟' : 'min';
     overflow: hidden;
     display: flex;
     flex-direction: column;
-    /* Change A: the top border carries the article's category colour (overriding
-       the global gold), so the coloured upper edge matches the strip cards to
-       the category/section cards elsewhere. */
-    border-top-color: var(--c);
     transition: border-color 0.15s ease, transform 0.15s ease, box-shadow 0.15s ease;
   }
-  /* Change B: on hover the whole border follows that same upper-border colour. */
-  .article-card:hover { border-color: var(--c); }
+  /* The strip cards keep the brand gold top border (from the global .card rule);
+     on hover the whole border follows that same gold. */
+  .article-card:hover { border-color: var(--gold); }
   .thumb {
     position: relative;
     aspect-ratio: 16 / 8;
