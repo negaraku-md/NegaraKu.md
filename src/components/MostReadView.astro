@@ -65,15 +65,21 @@ const topCount = new Set(canonical.flatMap((a) => (a.data.subcategory ?? []).map
 <section class="container">
   <p class="tr-note">
     <span aria-hidden="true">ℹ️</span>
-    {L(
-      'Disusun mengikut lawatan pembaca dan dikemas kini setiap hari. Artikel yang belum dijejak disusun mengikut kemas kini terbaharu, jadi senarai ini terus terisi apabila data bertambah.',
-      'Ranked by reader visits and refreshed daily. Articles not tracked yet are ordered by most recent update, so the list fills out as analytics grow.',
-      '按读者访问量排序，每日更新。尚未被追踪的文章按最近更新排序，随着数据积累，列表会逐渐充实。',
-    )}
+    {tracked === 0
+      ? L(
+          'Analitik pembaca masih terkumpul, jadi buat masa ini senarai ini menunjukkan artikel yang paling baru dikemas kini — bukan kedudukan populariti.',
+          'Reader analytics are still building, so for now this shows the most recently updated articles — not a popularity ranking yet.',
+          '读者分析仍在积累中，因此目前显示的是最近更新的文章——尚非人气排名。',
+        )
+      : L(
+          'Disusun mengikut lawatan pembaca dan dikemas kini setiap hari. Artikel yang belum dijejak disusun mengikut kemas kini terbaharu, jadi senarai ini terus terisi apabila data bertambah.',
+          'Ranked by reader visits and refreshed daily. Articles not tracked yet are ordered by most recent update, so the list fills out as analytics grow.',
+          '按读者访问量排序，每日更新。尚未被追踪的文章按最近更新排序，随着数据积累，列表会逐渐充实。',
+        )}
   </p>
 </section>
 
-<ArticleList locale={locale} articles={canonical} filters={['sec', 'cat', 'top', 'status']} hideSort fixedOrder showRank />
+<ArticleList locale={locale} articles={canonical} filters={['sec', 'cat', 'top', 'status']} hideSort fixedOrder showRank={tracked > 0} />
 
 <style>
   .tr-note {
