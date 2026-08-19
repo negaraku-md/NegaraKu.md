@@ -46,8 +46,22 @@ function fromGit() {
     .map((line) => {
       const [hash, author, date, subject] = line.split('\x1f');
       const type = TYPE(subject);
-      return { hash, author, date, subject, type: type.key, icon: type.icon };
-    });
+      return { hash, author, date, subject: cleanSubject(subject), type: type.key, icon: type.icon };
+    })
+    // The changelog is READER-facing, so drop developer-only noise (chore, build,
+    // ci, refactor, style — all bucketed as `chore`). This also removes internal
+    // commits a visitor should never see (e.g. the "EXPERIMENT" branch commits).
+    // The reader-relevant history — content, translations, features, fixes — stays.
+    .filter((e) => e.type !== 'chore');
+}
+
+// Strip a conventional-commit prefix ("feat:", "content(gov):", "fix!:") so the
+// changelog shows the human message, not the developer tag. Leaves ordinary
+// prose (e.g. "1963: Building Malaysia…") untouched, and capitalises the result.
+function cleanSubject(subject) {
+  const m = subject.match(/^[a-z]+(\([^)]*\))?!?:\s*(.+)$/i);
+  const text = m ? m[2].trim() : subject.trim();
+  return text.charAt(0).toUpperCase() + text.slice(1);
 }
 
 async function fromManifest() {
