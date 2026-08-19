@@ -44,9 +44,9 @@ aiAssisted: true
 reviewer: "ashton-tan"
 published: 2026-08-18
 reviewDue: 2027-08-18
-revision: 0
+revision: 2
 revisions:
-  - revision: 0
+  - revision: 2
     date: 2026-08-18
     change: "将现代时期分为两个时代，并研究至2026年——马哈迪的数十年、2018年以来的五位首相，以及安华·依布拉欣的团结政府。"
     reviewer: null
@@ -54,7 +54,7 @@ revisions:
     date: 2026-08-18
     change: "重写为按时代叙述、并链接完整历史文章的时间线。"
     reviewer: null
-  - revision: 2
+  - revision: 0
     date: 2026-08-18
     change: "Initial publication."
     reviewer: null

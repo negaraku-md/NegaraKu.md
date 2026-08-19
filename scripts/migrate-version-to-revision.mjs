@@ -10,6 +10,12 @@
 // touched lines. DRY-RUN by default — reports what it would do and flags
 // anomalies; pass --apply to write. Run on CLEAN frontmatter (i.e. AFTER the
 // all-hidden experiment is reverted) so this rewrite doesn't tangle with that.
+//
+// NOTE: this pass numbered revisions[] by array position and pinned the
+// top-level slot to 0. Because the array is stored newest-first, that inverted
+// the numbering and hid the current revision. scripts/fix-revision-numbering.mjs
+// corrected it (oldest = 0; top-level = latest published revision). Any re-use of
+// THIS script should adopt that corrected numbering.
 
 import { readdir, readFile, writeFile } from 'node:fs/promises';
 import path from 'node:path';
