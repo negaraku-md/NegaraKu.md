@@ -92,7 +92,6 @@ const related = await relatedArticles(article, locale);
 const mins = readingTime(article);
 const pillar = getPillar(d.category);
 const pillarDef = pillar ? getPillarDef(pillar) : undefined;
-const isBusiness = pillar === 'doing-business';
 const sensitive = d.sensitivity !== 'none';
 // A sensitive article that is already live gets a calmer, accurate notice — not
 // the "requires review before publication" warning, which only fits pre-live states.
@@ -146,7 +145,8 @@ const lifecycle = [
   {
     key: 'drafted',
     label: L('Dirangka', 'Drafted', '起草'),
-    date: d.created ?? d.revisions?.[0]?.date ?? d.updated,
+    // revisions are stored newest-first, so the FIRST draft is the last entry.
+    date: d.created ?? d.revisions?.at(-1)?.date ?? d.updated,
     by: draftBy,
     done: true,
   },
@@ -177,7 +177,6 @@ const ICON = {
   answer: svg('<polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/>'),
   explanation: svg('<path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/>'),
   faq: svg('<circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><line x1="12" y1="17" x2="12.01" y2="17"/>'),
-  sponsored: svg('<polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/>'),
   sources: svg('<path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/>'),
   related: svg('<path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/>'),
   toc: svg('<line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/><line x1="8" y1="18" x2="21" y2="18"/><line x1="3" y1="6" x2="3.01" y2="6"/><line x1="3" y1="12" x2="3.01" y2="12"/><line x1="3" y1="18" x2="3.01" y2="18"/>'),
@@ -300,9 +299,11 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
           <section class="layer l1">
             <header>
               <span class="sec-h"><span class="ico" set:html={ICON.answer} />{L('Jawapan pantas', '30-second answer', '30秒速答')}</span>
-              <span>
-                {L('Disemak', 'Reviewed', '审阅于')} {fmt(d.reviewed)}
-              </span>
+              {d.reviewed && (
+                <span>
+                  {L('Disemak', 'Reviewed', '审阅于')} {fmt(d.reviewed)}
+                </span>
+              )}
             </header>
             <div class="lb">
               <p class="answer">{d.answer}</p>
@@ -543,7 +544,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
         </div>
 
         <div class="r r-custody-head">
-          <span>{L('Status', 'Status', '状态')}</span>
+          <span>{L('Rantaian kawalan', 'Chain of custody', '保管链')}</span>
         </div>
         <ol class="chain">
           {
@@ -589,14 +590,15 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
           {!views && <span class="muted vnote">{L('belum dijejak', 'not tracked yet', '尚未追踪')}</span>}
         </div>
         {
-          visitorRows.map((vr) => (
-            <div class="r r-visit">
-              <span>{vr.label}</span>
-              <span class="vval" title={bBreak(vr.x) || undefined}>
-                {bTotal(vr.x) == null ? '—' : bTotal(vr.x)!.toLocaleString()}
-              </span>
-            </div>
-          ))
+          views &&
+            visitorRows.map((vr) => (
+              <div class="r r-visit">
+                <span>{vr.label}</span>
+                <span class="vval" title={bBreak(vr.x) || undefined}>
+                  {bTotal(vr.x) == null ? '—' : bTotal(vr.x)!.toLocaleString()}
+                </span>
+              </div>
+            ))
         }
       </div>
 
@@ -732,6 +734,9 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
   .prose :global(h3) { margin: 1.2rem 0 0.5rem; }
   .prose :global(p) { margin: 0.7rem 0; }
   .prose :global(table) { width: 100%; border-collapse: collapse; font-size: 0.9rem; margin: 1rem 0; display: block; overflow-x: auto; }
+  /* Long code blocks / unbroken tokens must scroll inside their box, never the page. */
+  .prose :global(pre) { overflow-x: auto; max-width: 100%; }
+  .prose :global(code) { overflow-wrap: anywhere; }
   .prose :global(th), .prose :global(td) { text-align: left; padding: 0.5rem 0.7rem; border-bottom: 1px solid var(--line); }
   .prose :global(th) { color: var(--muted); font-size: 0.74rem; text-transform: uppercase; letter-spacing: 0.06em; }
   .prose :global(blockquote) {

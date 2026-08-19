@@ -29,6 +29,15 @@ const topicCount = new Set(articles.flatMap((a) => a.data.subcategory)).size;
 // this section) · Topics · Articles.
 const catCount = pillar ? categoriesInPillar(pillar).length : 0;
 
+// Hero stats: drop the "categories" tile for a category with no parent pillar,
+// rather than showing a meaningless "0 categories".
+const heroStats = [
+  { value: PILLARS.length, label: L('seksyen', 'sections', '版块') },
+  ...(pillar ? [{ value: catCount, label: L('kategori', 'categories', '分类') }] : []),
+  { value: topicCount, label: L('topik', 'topics', '主题') },
+  { value: articles.length, label: L('artikel', 'articles', '文章') },
+];
+
 // Every category uses the service archetype now — one uniform, scalable body.
 const Body = ServiceCategory;
 
@@ -50,12 +59,7 @@ const mrKeys = showStrips ? mostReadKeys(articles, STRIP) : [];
   ]}
   title={category.name[locale]}
   desc={category.blurb[locale]}
-  stats={[
-    { value: PILLARS.length, label: L('seksyen', 'sections', '版块') },
-    { value: catCount, label: L('kategori', 'categories', '分类') },
-    { value: topicCount, label: L('topik', 'topics', '主题') },
-    { value: articles.length, label: L('artikel', 'articles', '文章') },
-  ]}
+  stats={heroStats}
 />
 
 <Body locale={locale} category={category} articles={articles} />
