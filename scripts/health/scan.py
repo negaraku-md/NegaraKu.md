@@ -279,6 +279,24 @@ def scan(articles: list[dict]) -> list[dict]:
                 a,
                 f"reviewer '{rvr}' is not in {REVIEWERS_FILE.name} — badge claims a sign-off nobody gave",
             )
+        # FOUR-EYES (separation of duties): whoever signs off a reviewed/published
+        # article must not be the same person who did the work on it — a
+        # self-approval is not an independent review. "Did the work" = the current
+        # assignee, or the contributor named on the latest revision.
+        if status in ("reviewed", "published") and rvr:
+            workers = set()
+            if a.get("assignee"):
+                workers.add(a["assignee"])
+            revs = a.get("revisions") or []
+            if revs and revs[-1].get("contributor"):
+                workers.add(revs[-1]["contributor"])
+            if rvr in workers:
+                add(
+                    "ERROR",
+                    "four-eyes",
+                    a,
+                    f"reviewer '{rvr}' also did the work on it — a sign-off needs an independent approver",
+                )
         # 3R+1 HARD GATE: sensitive content may never reach a published state
         # without a named human reviewer. This is the one rule with legal weight.
         if a.get("sensitivity", "none") != "none":

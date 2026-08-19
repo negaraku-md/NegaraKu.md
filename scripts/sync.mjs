@@ -104,6 +104,9 @@ async function main() {
       // articles were AI-drafted so the credit is honest.
       author: data.author ?? 'NegaraKu.md Editorial',
       aiAssisted: data.aiAssisted ?? true,
+      // Who is doing the current work — the health scan's four-eyes rule checks
+      // that a sign-off's reviewer isn't the same person (separation of duties).
+      assignee: data.assignee ?? null,
       // Editorial mode + chain-of-custody dates — surfaced for the OG social
       // cards (and any other consumer) so they need not re-parse frontmatter.
       mode: data.mode ?? 'practical',
