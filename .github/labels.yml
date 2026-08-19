@@ -1,0 +1,33 @@
+# Repository labels, defined as code (spec §10 feedback → triage taxonomy).
+# Synced to GitHub by .github/workflows/labels.yml on every push to main that
+# touches this file. The five feedback types here are a CONTRACT shared with
+# src/lib/feedback.ts, the on-site entry points, and the auto-flip workflow —
+# renaming one here without updating feedback.ts silently breaks the loop.
+
+# --- Feedback types (one per reader action) ---
+- name: article-issue
+  color: d73a4a
+  description: A problem in an article (wrong fact, outdated, broken link). Auto-flips the article to needs-update.
+- name: article-request
+  color: 0e8a16
+  description: Request for a new article / topic we don't cover yet.
+- name: translation-issue
+  color: 1d76db
+  description: A bad, unclear, or out-of-date English / 中文 translation.
+- name: site-improvement
+  color: a2eeef
+  description: An idea to make the website itself better.
+- name: site-bug
+  color: b60205
+  description: Something on the website is broken (display, layout, a control).
+
+# --- Triage / routing modifiers ---
+- name: scope:feature
+  color: c2e0c6
+  description: Website feature work (pairs with site-improvement).
+- name: scope:infra
+  color: bfdadc
+  description: Website infrastructure / build / bug work (pairs with site-bug).
+- name: new-category
+  color: fbca04
+  description: An article request that also proposes a brand-new category.

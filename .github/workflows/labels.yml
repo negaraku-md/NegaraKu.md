@@ -1,0 +1,30 @@
+name: Sync labels
+
+# Labels-as-code: keep the repo's GitHub labels in sync with .github/labels.yml,
+# so the feedback → triage taxonomy (src/lib/feedback.ts, the issue templates,
+# and the auto-flip workflow) always has the labels it depends on. Runs on a
+# push that changes the label set, or on demand.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/labels.yml
+      - .github/workflows/labels.yml
+  workflow_dispatch:
+
+permissions:
+  issues: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: crazy-max/ghaction-github-labeler@v5
+        with:
+          yaml-file: .github/labels.yml
+          # Keep labels not listed here (GitHub defaults, and any legacy
+          # correction/improvement/report/suggestion labels) — remove those by
+          # hand once no open issues use them. Set to false to prune to the file.
+          skip-delete: true
