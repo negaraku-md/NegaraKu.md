@@ -75,6 +75,15 @@ const STRINGS = {
   'nav.grpDiscover': { ms: 'Temui', en: 'Discover', zh: '发现' },
   'nav.grpSections': { ms: 'Seksyen', en: 'Sections', zh: '版块' },
   'nav.grpTools': { ms: 'Alat', en: 'Tools', zh: '工具' },
+  // Section headings inside the Contribute dropdown.
+  'nav.grpGetStarted': { ms: 'Bermula', en: 'Get started', zh: '开始' },
+  'nav.grpContent': { ms: 'Kandungan', en: 'Content', zh: '内容' },
+  'nav.grpSupportUs': { ms: 'Sokong Kami', en: 'Support us', zh: '支持我们' },
+  'nav.grpDevelop': { ms: 'Bangunkan', en: 'Develop', zh: '开发' },
+  // New nav destinations.
+  'nav.worklist': { ms: 'Senarai Kerja', en: 'Worklist', zh: '工作清单' },
+  'nav.siteBug': { ms: 'Laporkan Pepijat Laman', en: 'Report a Site Bug', zh: '报告网站故障' },
+  'nav.forAI': { ms: 'Untuk AI · llms.txt', en: 'For AI · llms.txt', zh: '面向 AI · llms.txt' },
   'nav.menu': { ms: 'Menu', en: 'Menu', zh: '菜单' },
   'reader.title': { ms: 'Tetapan bacaan', en: 'Reading settings', zh: '阅读设置' },
   'reader.theme': { ms: 'Tema', en: 'Theme', zh: '主题' },

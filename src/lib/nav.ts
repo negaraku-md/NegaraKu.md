@@ -26,9 +26,10 @@ export interface NavMenu {
 // grouped into four dropdowns — Explore / About / Contribute / Site — so the bar
 // stays scannable as the site grows. Items point at real destinations: existing
 // pages, anchors on /contribute, or GitHub for the developer/participation links.
-// NOTE (interim): a few labels the design calls for don't have dedicated pages yet
-// (Our Team, FAQ, Donate Your AI Token, Support, CLI Tool) — they point at the
-// nearest existing hub for now and are flagged to get their own pages.
+// Each dropdown has one clear intent: About (what/who), Contribute (every way to
+// take part, grouped), Site (the website itself). All destinations are real pages
+// or /contribute anchors; the Contribute menu is grouped with headings the way
+// Explore is, so it stays scannable at ~9 items.
 export const NAV: NavMenu[] = [
   { label: 'nav.understand', href: '/understand' },
   { label: 'nav.living', href: '/living' },
@@ -54,32 +55,45 @@ export const NAV: NavMenu[] = [
       { label: 'nav.articles', href: '/articles', secret: true }, // hidden; Ctrl+Alt+Shift+A toggles it
     ],
   },
+  // About = what this project is and who's behind it. FAQ sits above the credit
+  // page because it answers the most-asked questions first.
   {
     label: 'nav.about',
     items: [
       { label: 'nav.aboutPage', href: '/about' },
-      { label: 'nav.contributors', href: '/contributors' },
       { label: 'nav.faq', href: '/faq' },
+      { label: 'nav.contributors', href: '/contributors' },
     ],
   },
+  // Contribute = every way to take part, grouped by intent so the (now larger)
+  // menu stays scannable: learn → do content → give → build.
   {
     label: 'nav.contribute',
     items: [
-      { label: 'nav.submitArticle', href: '/contribute#contribute' },
-      { label: 'nav.donate', href: '/donate' },
-      { label: 'nav.support', href: '/support' },
+      { label: 'nav.grpGetStarted', href: '', heading: true },
       { label: 'nav.whyContribute', href: '/contribute' },
       { label: 'nav.roles', href: '/roles' },
+      { label: 'nav.grpContent', href: '', heading: true },
+      { label: 'nav.submitArticle', href: '/contribute#contribute' },
+      { label: 'nav.reportIssue', href: '/contribute#report' },
+      { label: 'nav.suggest', href: '/contribute#suggest' },
+      { label: 'nav.grpSupportUs', href: '', heading: true },
+      { label: 'nav.donate', href: '/donate' },
+      { label: 'nav.support', href: '/support' },
+      { label: 'nav.grpDevelop', href: '', heading: true },
+      { label: 'nav.worklist', href: '/worklist' },
       { label: 'nav.github', href: REPO, external: true },
     ],
   },
+  // Site = the website itself: its status, its history, how to report problems
+  // WITH it, machine access, and your reading preferences.
   {
     label: 'nav.site',
     items: [
       { label: 'nav.dashboard', href: '/dashboard' },
-      { label: 'nav.reportIssue', href: '/contribute#report' },
-      { label: 'nav.suggest', href: '/contribute#suggest' },
       { label: 'nav.changelog', href: '/changelog' },
+      { label: 'nav.siteBug', href: '/contribute#site' },
+      { label: 'nav.forAI', href: '/llms.txt' },
       { label: 'nav.settings', href: '/settings' },
     ],
   },
