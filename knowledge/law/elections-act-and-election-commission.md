@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LAW-0068
 title: "Akta Pilihan Raya 1958 dan Suruhanjaya Pilihan Raya"
 seoTitle: "Akta Pilihan Raya 1958 & Suruhanjaya Pilihan Raya (SPR)"

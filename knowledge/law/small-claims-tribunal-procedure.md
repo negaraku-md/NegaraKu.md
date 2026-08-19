@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LAW-0090
 title: "Menyaman Seseorang di Malaysia: Asas Tuntutan Kecil dan Prosedur Sivil"
 seoTitle: "Prosedur Tuntutan Kecil Malaysia: Cara Saman di Mahkamah Majistret"

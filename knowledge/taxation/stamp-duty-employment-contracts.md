@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TAX-0046
 title: "Stamp Duty on Employment Contracts in Malaysia"
 slug: "stamp-duty-employment-contracts"

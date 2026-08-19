@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-BIZ-0055
 title: "Accepting Payments in Malaysia: When You Need Bank Negara Approval"
 seoTitle: "Payment Regulation Malaysia: When BNM Approval Applies"

@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LIV-0096
 title: "Status Halal Vaksin dan Ubat: Bagaimana Ia Diputuskan"
 seoTitle: "Status Halal Vaksin & Ubat di Malaysia: Fatwa & Hukum"

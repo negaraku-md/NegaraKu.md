@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TOU-0017
 title: "Tourism Malaysia, MOTAC and Malaysia's Tourism Institutions"
 seoTitle: "Tourism Malaysia, MOTAC & State Tourism Boards Explained"

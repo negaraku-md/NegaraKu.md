@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LIV-0126
 title: "Lima Bank Digital Malaysia: GXBank, Boost Bank, AEON Bank, KAF Digital dan Ryt Bank"
 seoTitle: "Bank Digital Malaysia: 5 Bank Berlesen BNM & Perlindungan PIDM"

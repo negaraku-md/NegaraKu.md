@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TOU-0018
 title: "Practical Tips for Tourists: Safety, Health and Everyday Logistics"
 seoTitle: "Malaysia Travel Tips: SIM Cards, Emergency Numbers, Monsoon & Health"

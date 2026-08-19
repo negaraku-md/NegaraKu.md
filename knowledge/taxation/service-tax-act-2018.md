@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: "MY-TAX-0136"
 title: "The Service Tax Act 2018: How Malaysia Taxes Services Under SST"
 seoTitle: "Service Tax Act 2018 (SST): Rates, Scope & Rules"

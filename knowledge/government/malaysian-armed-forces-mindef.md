@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-GOV-0079
 title: "Angkatan Tentera Malaysia (ATM) dan Kementerian Pertahanan"
 seoTitle: "Angkatan Tentera Malaysia (ATM) & Kementerian Pertahanan: Struktur dan Peranan"

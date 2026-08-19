@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-HIS-0063
 title: "Capital Controls, the Ringgit Peg, and Reformasi: Malaysia's Response to the Asian Financial Crisis"
 seoTitle: "Malaysia 1998: Capital Controls, RM3.80 Ringgit Peg and Reformasi"

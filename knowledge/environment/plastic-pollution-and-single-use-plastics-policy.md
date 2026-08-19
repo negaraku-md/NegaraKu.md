@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ENV-0014
 title: "Pencemaran Plastik dan Peta Jalan Plastik Sekali Guna Malaysia"
 seoTitle: "Peta Jalan Plastik Sekali Guna Malaysia: Caj Beg & Sasaran"

@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-EMP-0007
 title: "Form E, Form EA and CP8D: The Employer Filing Trio"
 seoTitle: "Form E, EA and CP8D Malaysia: Deadlines"

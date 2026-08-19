@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-IND-0016
 title: "Palm Oil Sustainability and Certification in Malaysia"
 seoTitle: "Malaysian Palm Oil Sustainability: MSPO, RSPO and EUDR Explained"

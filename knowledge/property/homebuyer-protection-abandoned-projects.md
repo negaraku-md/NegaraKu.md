@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LIV-0132
 title: "Perlindungan Pembeli Rumah: Akta HDA, Tribunal, dan Projek Terbengkalai"
 seoTitle: "Perlindungan Pembeli Rumah Malaysia: HDA, Tribunal Pembeli Rumah & Projek Terbengkalai"

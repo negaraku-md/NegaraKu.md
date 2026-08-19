@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ECO-0001
 title: "Malaysia GDP Overview"
 slug: "gdp-overview"

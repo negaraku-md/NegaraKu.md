@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-CS-0027
 title: "Directors' Duties Under the Companies Act 2016 and Your Personal Liability"
 seoTitle: "Directors Duties Malaysia: s.213 CA 2016 and Liability"

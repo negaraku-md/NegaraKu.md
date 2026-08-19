@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TAX-0113
 title: "Surviving an LHDN Tax Audit"
 seoTitle: "LHDN Tax Audit Malaysia: Process, Triggers and Penalties"

@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LIV-0002
 title: "Kad Touch 'n Go, Kad NFC dan eWallet: Tiga Nama, Tiga Kegunaan Berbeza"
 slug: "touch-n-go"

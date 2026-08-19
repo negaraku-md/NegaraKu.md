@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LIV-0022
 title: "Daftar Kelahiran Anak: Bagaimana Proses JPN dan Sijil Kelahiran Sebenarnya Berfungsi"
 slug: "registering-a-birth"

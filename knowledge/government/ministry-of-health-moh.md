@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: "MY-GOV-0090"
 title: "Ministry of Health Malaysia (KKM)"
 seoTitle: "Ministry of Health Malaysia (KKM): Role & Services"

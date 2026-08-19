@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-EMP-0020
 title: "Terminating employment in Malaysia"
 seoTitle: "Termination of Employment Malaysia — Rules and Notice"

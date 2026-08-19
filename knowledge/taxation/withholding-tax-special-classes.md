@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TAX-0026
 title: "Section 109B — Withholding Tax on Special Classes of Income"
 seoTitle: "Section 109B Withholding Tax Malaysia — s.4A Income"

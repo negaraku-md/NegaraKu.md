@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TOU-0009
 title: "Malaysia's Tourism Tax: Rate, Who Pays, and How It's Collected"
 seoTitle: "Malaysia Tourism Tax (TTx): RM10 Rate, Exemptions & MyTTx"

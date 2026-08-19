@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-BIZ-0078
 title: "Bayan Lepas Free Industrial Zone — What Free Zone Status Actually Does"
 seoTitle: "Bayan Lepas Free Industrial Zone Explained"

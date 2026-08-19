@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LIV-0100
 title: "Pendermaan Organ di Malaysia: Cara Berikrar, Pandangan Agama dan Kadar Penderma yang Rendah"
 seoTitle: "Pendermaan Organ Malaysia: Ikrar, Fatwa dan Pandangan Agama"

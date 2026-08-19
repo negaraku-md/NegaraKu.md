@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ENE-0012
 title: "Petronas: Malaysia's National Oil Corporation"
 seoTitle: "PETRONAS: Malaysia's National Oil and Gas Company Explained"

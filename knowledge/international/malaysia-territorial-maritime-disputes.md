@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-INT-0012
 title: "Pertikaian Wilayah dan Maritim Malaysia"
 seoTitle: "Pertikaian Wilayah dan Maritim Malaysia: Laut China Selatan, Batu Puteh, Sabah"

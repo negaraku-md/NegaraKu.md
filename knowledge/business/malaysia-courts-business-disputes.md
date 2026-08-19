@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-BIZ-0073
 title: "Which Malaysian Court Hears Your Business Dispute"
 seoTitle: "Malaysian Court Jurisdiction for Business Disputes"

@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LIV-0046
 title: "Di Sebalik Kaunter Farmasi: Preskripsi, Ubat Bebas dan Ubat Terkawal di Malaysia"
 slug: "buying-medicine-pharmacies"

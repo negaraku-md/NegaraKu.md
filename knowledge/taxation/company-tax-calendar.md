@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TAX-0023
 title: "Company Tax Compliance Calendar Malaysia"
 slug: "company-tax-calendar"

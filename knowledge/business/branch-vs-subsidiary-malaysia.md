@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-BIZ-0018
 title: "Branch, Subsidiary or Representative Office in Malaysia?"
 seoTitle: "Branch vs Subsidiary Malaysia: A Decision Framework"

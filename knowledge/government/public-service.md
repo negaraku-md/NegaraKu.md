@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: "MY-GOV-0072"
 title: "Malaysia's Public Service: The Commission That Appoints and the Department That Designs"
 slug: "public-service"

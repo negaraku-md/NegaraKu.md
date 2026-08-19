@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TAX-0125
 title: "Import (Customs) Duty in Malaysia: Tariffs, HS Codes and ATIGA Preference"
 seoTitle: "Malaysia Import Customs Duty: Tariffs, HS Codes, ATIGA Rates"

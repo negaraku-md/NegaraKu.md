@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-GLO-0017
 title: "LLP (Perkongsian Liabiliti Terhad): the body corporate that files like a partnership"
 seoTitle: "LLP Malaysia: Perkongsian Liabiliti Terhad Explained"

@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ENV-0017
 title: "Pengurusan Sisa Pepejal dan Kitar Semula di Malaysia"
 seoTitle: "Akta 672, SWCorp dan Kadar Kitar Semula Malaysia"

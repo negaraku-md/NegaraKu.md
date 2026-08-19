@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ART-0032
 title: "Orang Asli: Masyarakat Peribumi Semenanjung, Tiga Kumpulan Utama dan Peranan JAKOA"
 slug: "orang-asli"

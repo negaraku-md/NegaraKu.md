@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ART-0061
 title: "Silat Melayu: Seni Bela Diri yang Menjadi Warisan Dunia"
 seoTitle: "Silat Melayu: Seni Bela Diri Warisan UNESCO Malaysia"

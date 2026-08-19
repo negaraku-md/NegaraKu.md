@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: timeline-of-malaysia
 title: "Garis Masa Malaysia"
 slug: "timeline-of-malaysia"

@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TAX-0012
 title: "When Is a Company Tax Resident in Malaysia?"
 seoTitle: "Company Tax Residence Malaysia: Management and Control"

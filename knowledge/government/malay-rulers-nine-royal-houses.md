@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-GOV-0078
 title: "Sembilan Raja Melayu dan Istana Negeri Mereka"
 seoTitle: "Sembilan Raja Melayu: Peranan, Pewarisan Takhta dan Kedaulatan Negeri"

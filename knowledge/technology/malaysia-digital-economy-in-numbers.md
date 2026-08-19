@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TEC-0005
 title: "Ekonomi Digital Malaysia dalam Angka"
 seoTitle: "Ekonomi Digital Malaysia dalam Angka — Sumbangan kepada KDNK"

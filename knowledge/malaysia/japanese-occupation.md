@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: "MY-HIS-0012"
 title: "Pendudukan Jepun di Tanah Melayu: Lapan Minggu Menakluk, Tiga Tahun Lapan Bulan Memerintah"
 seoTitle: "Pendudukan Jepun di Tanah Melayu: Kronologi dan Kesan"

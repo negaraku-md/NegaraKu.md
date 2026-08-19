@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-SPT-0007
 title: "Bagaimana Sukan Malaysia Ditadbir: Kementerian, Majlis dan Majlis Olimpik"
 seoTitle: "Struktur Tadbir Urus Sukan Malaysia: KBS, MSN, ISN & MOM"

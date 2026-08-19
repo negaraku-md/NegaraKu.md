@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ECO-0021
 title: "Rancangan Malaysia: Rangka Lima Tahun yang Membentuk Setiap Belanjawan Tahunan"
 slug: "malaysia-plans"

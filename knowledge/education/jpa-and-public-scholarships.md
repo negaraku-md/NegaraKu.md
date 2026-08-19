@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LIV-0114
 title: "JPA dan Skim Biasiswa Awam Utama Malaysia"
 seoTitle: "Biasiswa JPA & Penajaan Awam Malaysia: Panduan & Perbandingan"

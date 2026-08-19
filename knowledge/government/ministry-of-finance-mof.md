@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: "MY-GOV-0092"
 title: "Malaysia's Ministry of Finance (MOF): Treasury, Agencies, and the Budget Cycle"
 seoTitle: "Ministry of Finance Malaysia (MOF): Role & Agencies"

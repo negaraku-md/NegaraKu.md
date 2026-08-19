@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ART-0052
 title: "Gamelan Melayu: Muzik Istana yang Berpindah antara Pahang dan Terengganu"
 seoTitle: "Gamelan Melayu: Sejarah, Alat Muzik dan Warisan Istana"

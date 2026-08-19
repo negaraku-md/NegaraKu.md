@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-GOV-0002
 title: "LHDN — Inland Revenue Board of Malaysia"
 slug: "lhdn"

@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LAW-0011
 title: "Daripada Bacaan Pertama ke Warta: Bagaimana Rang Undang-Undang Menjadi Akta"
 slug: "how-a-bill-becomes-law"

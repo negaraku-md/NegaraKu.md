@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-INT-0006
 title: "Dasar Luar Malaysia dan Wisma Putra"
 seoTitle: "Dasar Luar Malaysia & Wisma Putra: Prinsip, Kementerian Luar Negeri"

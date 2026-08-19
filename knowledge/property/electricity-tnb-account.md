@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: "MY-LIV-0035"
 title: "Akaun Elektrik TNB, SESB dan Sarawak Energy: Kenapa Tiga Syarikat Berbeza, Tiga Proses Berbeza"
 slug: "electricity-tnb-account"

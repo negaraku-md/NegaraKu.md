@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-BIZ-0020
 title: "Malaysian Business Structures Compared"
 seoTitle: "Business Structures in Malaysia: One Comparison Table"

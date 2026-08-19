@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LIV-0147
 title: "Registering a Civil Divorce in Malaysia: The Court Process for Non-Muslims"
 seoTitle: "Civil Divorce in Malaysia: Marriage Tribunal, Court Petition & Decree Absolute"

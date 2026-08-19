@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TAX-0131
 title: "Tax Treatment of REITs and Property Trust Funds"
 seoTitle: "Malaysia REIT & Property Trust Fund Taxation Explained"

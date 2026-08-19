@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ACC-0024
 title: "What Counts as an Accounting Record Under Section 245"
 seoTitle: "Accounting Records: Section 245 Companies Act 2016"

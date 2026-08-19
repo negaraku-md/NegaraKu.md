@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-FIN-0004
 title: "Credit Reporting in Malaysia: CCRIS, CTOS and Your Credit Score"
 seoTitle: "CCRIS vs CTOS in Malaysia: How Credit Reporting Works"

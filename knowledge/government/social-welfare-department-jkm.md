@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: "MY-GOV-0098"
 title: "Social Welfare Department (JKM): Malaysia's Welfare Safety Net"
 seoTitle: "JKM (Jabatan Kebajikan Masyarakat): Aid & OKU"

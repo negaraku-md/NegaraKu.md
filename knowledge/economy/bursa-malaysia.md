@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ECO-0018
 title: "Bursa Malaysia: Three Markets, Three Very Different Entry Prices"
 slug: "bursa-malaysia"

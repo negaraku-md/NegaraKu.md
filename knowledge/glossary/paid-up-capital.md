@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-GLO-0001
 title: "Paid-up Capital"
 slug: "paid-up-capital"

@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LIV-0009
 title: "Opening a Bank Account in Malaysia: What Citizens Need, What Foreigners Need, and What a Tourist Visa Won't Get You"
 slug: "opening-bank-account"

@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-BIZ-0104
 title: "Ports, Airports, Rail and Broadband by Malaysian Region — the Official Numbers"
 seoTitle: "Malaysia Infrastructure by Region"

@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-EMP-0055
 title: "Apa yang Boleh dan Tidak Boleh Dipotong Majikan daripada Gaji"
 seoTitle: "Potongan Gaji yang Sah di Malaysia — Seksyen 24 Akta Kerja 1955"

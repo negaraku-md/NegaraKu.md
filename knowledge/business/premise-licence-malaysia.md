@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-BIZ-0027
 title: "Business Premise Licence: Why No Two Councils Agree"
 seoTitle: "Business Premise Licence Malaysia (Lesen Premis)"

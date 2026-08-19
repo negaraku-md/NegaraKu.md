@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-BIZ-0111
 title: "Company Limited by Guarantee (CLBG): Malaysia's Non-Profit Company Structure"
 seoTitle: "Company Limited by Guarantee (CLBG) Malaysia: SSM Guide"

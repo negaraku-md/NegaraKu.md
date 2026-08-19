@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-GOV-0081
 title: "MCMC — Suruhanjaya Komunikasi dan Multimedia Malaysia"
 seoTitle: "MCMC (SKMM): pelesenan, penyiaran dan kandungan internet"

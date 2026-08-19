@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-AUD-0015
 title: "Reading a Malaysian Auditor's Report, Section by Section"
 seoTitle: "Malaysian Auditor's Report: Field-by-Field Guide"

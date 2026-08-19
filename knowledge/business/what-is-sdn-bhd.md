@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-BIZ-0002
 title: "What Is a Sdn Bhd? A Plain-Language Guide"
 seoTitle: "What Is a Sdn Bhd in Malaysia?"

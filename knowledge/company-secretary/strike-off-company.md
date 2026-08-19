@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-CS-0059
 title: "Memotong Nama Syarikat daripada Daftar SSM"
 seoTitle: "Cara Memohon Memotong Nama Syarikat (Seksyen 550)"

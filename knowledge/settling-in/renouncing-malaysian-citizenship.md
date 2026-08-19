@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LIV-0150
 title: "Melepaskan Kewarganegaraan Malaysia dan Sebab Malaysia Tidak Membenarkan Dwikewarganegaraan"
 seoTitle: "Melepaskan Kewarganegaraan Malaysia: Perkara 23, 24 & Dwikewarganegaraan"

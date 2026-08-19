@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LIV-0103
 title: "Telemedicine in Malaysia: Seeing a Doctor Online"
 seoTitle: "Telemedicine in Malaysia: Are Online Doctor Apps Legal?"

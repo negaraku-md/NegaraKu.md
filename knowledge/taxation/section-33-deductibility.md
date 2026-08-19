@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TAX-0050
 title: "Section 33: What Wholly and Exclusively Actually Means"
 seoTitle: "Section 33 Deductibility Malaysia: the Real Test"

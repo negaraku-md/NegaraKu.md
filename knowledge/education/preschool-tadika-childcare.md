@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LIV-0055
 title: "Taska, Tadika, Prasekolah: Ejaan Hampir Sama, Tapi Diselia Kementerian Berbeza"
 slug: "preschool-tadika-childcare"

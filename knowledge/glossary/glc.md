@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-GLO-0009
 title: "GLC — Government-Linked Company"
 slug: "glc"

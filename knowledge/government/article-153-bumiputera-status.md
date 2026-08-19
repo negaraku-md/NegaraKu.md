@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-GOV-0073
 title: "Perkara 153: Kedudukan Istimewa Orang Melayu dan Bumiputera serta Kepentingan Sah Kaum Lain"
 seoTitle: "Perkara 153 Perlembagaan Persekutuan: Apa yang Diperuntukkan"

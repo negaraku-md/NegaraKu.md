@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ART-0045
 title: "Ukiran Kayu Melayu: Bahasa Awan Larat di Sebalik Istana, Rumah dan Perabot"
 seoTitle: "Ukiran Kayu Melayu: Motif Awan Larat, Flora dan Pusat Kraf Besut"

@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-CS-0002
 title: "Annual Return: What It Is and When to File It"
 seoTitle: "SSM Annual Return Malaysia: Deadline and Rules"

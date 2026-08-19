@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LIV-0117
 title: "MUET dan Ujian Kemasukan Universiti"
 seoTitle: "MUET: Band, Syarat Kemasukan Universiti dan Cara Daftar"

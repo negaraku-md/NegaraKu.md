@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ENE-0001
 title: "Cara Struktur Tarif Elektrik Berfungsi di Malaysia"
 seoTitle: "Struktur Tarif Elektrik TNB: Cara Membaca Bil Anda (RP4)"

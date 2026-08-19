@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-GOV-0012
 title: "Dewan Rakyat: Cara 222 Kerusi Bertukar Menjadi Undang-Undang Persekutuan"
 slug: "dewan-rakyat"

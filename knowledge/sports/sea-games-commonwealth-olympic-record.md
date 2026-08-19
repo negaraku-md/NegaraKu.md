@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-SPT-0012
 title: "Malaysia at the SEA Games, Commonwealth Games and Olympics: The Medal Record"
 seoTitle: "Malaysia's Medal Record: SEA Games, Commonwealth Games and Olympics"

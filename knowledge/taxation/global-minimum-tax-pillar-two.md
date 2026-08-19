@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TAX-0021
 title: "Global Minimum Tax in Malaysia: DTT and MTT"
 seoTitle: "Global Minimum Tax Malaysia: DTT, MTT and Pillar Two"

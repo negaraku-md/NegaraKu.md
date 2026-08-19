@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TEC-0006
 title: "Ekonomi Digital Malaysia: Dari MSC ke MyDIGITAL, Satu Garis Masa Dasar"
 seoTitle: "Garis Masa Dasar Ekonomi Digital Malaysia: MSC ke MyDIGITAL & NAIO"

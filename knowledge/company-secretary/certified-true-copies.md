@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-CS-0007
 title: "Certified True Copies vs Original Sighted: What Actually Differs"
 seoTitle: "Certified True Copy vs Original Sighted Malaysia"

@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TAX-0133
 title: "Tourism Tax (TTx): Who Collects It and Who Pays"
 seoTitle: "Malaysia Tourism Tax (TTx) Explained: Rate, Exemptions, Rules"

@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-IND-0019
 title: "The Semiconductor Industry & National Semiconductor Strategy"
 seoTitle: "Malaysia Semiconductor Industry & National Semiconductor Strategy Explained"

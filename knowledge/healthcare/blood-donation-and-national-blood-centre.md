@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LIV-0092
 title: "Pendermaan Darah di Malaysia: Pusat Darah Negara dan Cara Menderma"
 seoTitle: "Derma Darah Malaysia: Syarat, Pusat Darah Negara & Keistimewaan Penderma"

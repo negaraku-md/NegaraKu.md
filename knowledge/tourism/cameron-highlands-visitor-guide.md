@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TOU-0001
 title: "Cameron Highlands Visitor Guide"
 seoTitle: "Cameron Highlands Guide: Towns, Tea Farms & Orang Asli Visits"

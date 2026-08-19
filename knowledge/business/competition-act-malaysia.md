@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-BIZ-0112
 title: "Competition Act 2010: Cartel and Abuse-of-Dominance Rules for Malaysian Businesses"
 seoTitle: "Competition Act 2010 Malaysia: Cartels, Abuse of Dominance & MyCC Penalties"

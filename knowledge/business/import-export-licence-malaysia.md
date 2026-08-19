@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-BIZ-0118
 title: "Import and Export Licensing in Malaysia: The Trader's Registration Stack"
 seoTitle: "Import & Export Licence Malaysia: AP, SIRIM, MAQIS & Customs Registration"

@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-GOV-0080
 title: "Kewarganegaraan Malaysia: Bagaimana Ia Diperoleh"
 seoTitle: "Undang-Undang Kewarganegaraan Malaysia: Kuat Kuasa Undang-Undang, Pendaftaran, Penaturalisasian"

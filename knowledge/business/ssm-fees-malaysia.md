@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-BIZ-0025
 title: "SSM Fees: Companies, Businesses and LLPs"
 seoTitle: "SSM Fees Malaysia: Full Official Fee Tables"

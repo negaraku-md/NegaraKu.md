@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-PS-0003
 title: "Rukun Tetangga dan Kepolisan Komuniti: Skim Rondaan Sukarela di Malaysia"
 seoTitle: "Rukun Tetangga & Skim Rondaan Sukarela: Kepolisan Komuniti Malaysia"

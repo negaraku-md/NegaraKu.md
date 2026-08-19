@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-FDL-0001
 title: "Alcohol Rules in Malaysia: Licensing, Duty-Free Zones and State Variations"
 seoTitle: "Alcohol Rules in Malaysia: Licensing, Duty-Free and State Laws"

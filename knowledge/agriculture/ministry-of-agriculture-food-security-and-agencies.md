@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-AGR-0013
 title: "Kementerian Pertanian dan Keterjaminan Makanan (KPKM) dan Agensinya"
 seoTitle: "KPKM: Kementerian Pertanian dan Keterjaminan Makanan dan Agensi di Bawahnya"

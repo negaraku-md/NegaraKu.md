@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-GOV-0086
 title: "Akta Rahsia Rasmi dan Ketelusan Kerajaan"
 seoTitle: "Akta Rahsia Rasmi 1972 dan Kebebasan Maklumat di Malaysia"

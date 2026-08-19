@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LIV-0093
 title: "COVID-19 di Malaysia: Tindak Balas Pandemik dan Legasinya"
 seoTitle: "COVID-19 Malaysia: PKP, Vaksinasi PICK dan Legasi Sistem Kesihatan"

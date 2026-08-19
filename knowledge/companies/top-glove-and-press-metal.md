@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-CO-0020
 title: "Malaysia's Global Manufacturing Champions: Top Glove and Press Metal"
 seoTitle: "Top Glove and Press Metal: Malaysia's World-Leading Manufacturers"

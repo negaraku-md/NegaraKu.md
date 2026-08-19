@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-IND-0005
 title: "Data Centres & Cloud Infrastructure in Malaysia"
 seoTitle: "Malaysia Data Centre & Cloud Industry: Boom, Incentives, Limits"

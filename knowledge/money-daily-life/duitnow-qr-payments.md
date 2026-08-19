@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LIV-0010
 title: "DuitNow dan DuitNow QR: Bayar Guna Nombor Telefon, Bukan Nombor Akaun"
 seoTitle: "DuitNow & DuitNow QR: Cara Pembayaran Segera Malaysia Berfungsi"

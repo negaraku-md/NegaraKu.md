@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-EMP-0047
 title: "Menggaji Kanak-Kanak dan Orang Muda di Malaysia"
 seoTitle: "Menggaji Kanak-Kanak & Orang Muda: Akta 350 Malaysia"

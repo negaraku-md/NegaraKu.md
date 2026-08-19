@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LIV-0003
 title: "Behind the App: How Grab and Malaysia's E-Hailing Trade Are Regulated"
 slug: "e-hailing-grab"

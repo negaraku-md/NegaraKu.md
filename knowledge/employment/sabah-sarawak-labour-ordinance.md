@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-EMP-0017
 title: "Sabah and Sarawak: the Labour Ordinances, not the Employment Act"
 seoTitle: "Sabah and Sarawak Labour Ordinance — 2025 amendments"

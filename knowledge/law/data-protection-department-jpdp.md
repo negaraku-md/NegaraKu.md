@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: "MY-LAW-0097"
 title: "Personal Data Protection Department (JPDP)"
 seoTitle: "JPDP: Malaysia's Personal Data Protection Dept"

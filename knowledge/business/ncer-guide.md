@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-BIZ-0052
 title: "Northern Corridor (NCER) — What NCIA Can Actually Give You"
 seoTitle: "NCER Northern Corridor Incentives Malaysia"

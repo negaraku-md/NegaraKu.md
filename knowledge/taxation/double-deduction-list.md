@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TAX-0037
 title: "Double and Further Deduction Directory — Gazetted Income Tax Rules"
 seoTitle: "Double Deduction Malaysia — Gazette Order Directory"

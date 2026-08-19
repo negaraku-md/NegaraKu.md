@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LAW-0003
 title: "Employment Act 1955 (Act 265)"
 slug: "employment-act-1955"

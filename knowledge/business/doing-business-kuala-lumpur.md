@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-BIZ-0084
 title: "Doing Business in Kuala Lumpur: What Federal Territory Status Changes"
 seoTitle: "Doing Business in Kuala Lumpur: DBKL Licensing Guide"

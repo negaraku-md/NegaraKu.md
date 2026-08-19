@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LIV-0148
 title: "Mendaftarkan Warganegara Malaysia yang Lahir di Luar Negara: Kewarganegaraan secara Keturunan"
 seoTitle: "Kewarganegaraan Keturunan: Daftar Anak Warga Malaysia Lahir Luar Negara"

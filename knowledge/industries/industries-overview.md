@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-IND-0010
 title: "Malaysia's Key Industries: An Overview"
 seoTitle: "Malaysia's Key Industries and Economic Sectors Explained"

@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-GLO-0033
 title: "Bank Negara Malaysia (BNM): Malaysia's Central Bank Explained"
 seoTitle: "Bank Negara Malaysia (BNM): What the Central Bank Does"

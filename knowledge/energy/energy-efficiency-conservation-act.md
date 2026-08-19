@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ENE-0003
 title: "Akta Kecekapan dan Konservasi Tenaga"
 seoTitle: "Akta Kecekapan dan Konservasi Tenaga (Akta 861): Panduan Pematuhan Malaysia"

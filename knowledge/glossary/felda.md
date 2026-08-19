@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-GLO-0037
 title: "FELDA (Lembaga Kemajuan Tanah Persekutuan)"
 seoTitle: "FELDA: Sejarah, Peneroka dan Model Tanah Rancangan"

@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ACC-0002
 title: "Preparing an MBRS 2.0 Filing: mTool, the SSMxT Taxonomy and the Rejection Loop"
 seoTitle: "MBRS 2.0 Filing Guide: mTool & SSMxT Tagging"

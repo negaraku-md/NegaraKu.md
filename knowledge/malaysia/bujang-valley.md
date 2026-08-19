@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: "MY-HIS-0047"
 title: "Lembah Bujang: Candi Purba dan Bukti Tamadun Kedah Tua"
 slug: "bujang-valley"

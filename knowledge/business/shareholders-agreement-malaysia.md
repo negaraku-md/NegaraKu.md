@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-BIZ-0061
 title: "Shareholders Agreements in Malaysia — What the Document Can and Cannot Override"
 seoTitle: "Shareholders Agreement Malaysia: Constitution and s.346"

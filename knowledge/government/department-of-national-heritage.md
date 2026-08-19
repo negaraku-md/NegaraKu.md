@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: "MY-GOV-0099"
 title: "Department of National Heritage (JWN): Guardian of Malaysia's Heritage"
 seoTitle: "Department of National Heritage (JWN), Malaysia"

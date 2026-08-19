@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TAX-0010
 title: "MyInvois Implementation Phases, Thresholds and Relaxation Dates"
 seoTitle: "MyInvois Phases and Dates: LHDN e-Invoice Timeline"

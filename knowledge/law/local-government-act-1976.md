@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: "MY-LAW-0098"
 title: "Local Government Act 1976: The Law Behind Malaysia's Appointed Councils"
 seoTitle: "Local Government Act 1976 (Act 171) Explained"

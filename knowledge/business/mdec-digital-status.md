@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-BIZ-0036
 title: "Malaysia Digital Status — What Replaced MSC Malaysia, and Who Qualifies"
 seoTitle: "Malaysia Digital Status MDEC Explained"

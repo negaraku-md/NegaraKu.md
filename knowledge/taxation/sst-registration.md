@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TAX-0031
 title: "SST Registration Thresholds by Service Group"
 slug: "sst-registration"

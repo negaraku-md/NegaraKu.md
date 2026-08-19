@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ART-0013
 title: "Bahasa Melayu: Bahasa Kebangsaan Malaysia dan Perjalanannya dari Jawi ke Rumi"
 slug: "bahasa-melayu"

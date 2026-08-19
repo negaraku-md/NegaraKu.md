@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TOU-0007
 title: "Langkawi Visitor Guide"
 seoTitle: "Langkawi Visitor Guide: Duty-Free, Geopark, Cable Car & Islands"

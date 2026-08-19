@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-BIZ-0042
 title: "Copyright in Malaysia"
 seoTitle: "Copyright Malaysia: Automatic, But Prove It"

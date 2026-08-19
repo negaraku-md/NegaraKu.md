@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ENE-0016
 title: "Tenaga Solar di Malaysia: NEM, LSS dan Program Solar Bumbung"
 seoTitle: "Tenaga Solar Malaysia: NEM, LSS, CGPP, CRESS & CREAM"

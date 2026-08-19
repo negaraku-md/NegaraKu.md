@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-AUD-0003
 title: "Companies That Can Never Claim Audit Exemption in Malaysia"
 seoTitle: "Who Cannot Claim Audit Exemption in Malaysia"

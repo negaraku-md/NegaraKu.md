@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ECO-0032
 title: "Securities Commission Malaysia: The Capital Markets Regulator"
 seoTitle: "Securities Commission Malaysia (SC): Powers, Laws and Licensing"

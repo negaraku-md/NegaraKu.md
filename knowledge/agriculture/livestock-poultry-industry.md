@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-AGR-0010
 title: "Industri Ternakan dan Ayam Itik Malaysia"
 seoTitle: "Industri Ternakan dan Ayam Itik Malaysia: Pengeluaran, Biosekuriti dan Bekalan"

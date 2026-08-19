@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TOU-0012
 title: "MICE and Business Events Tourism in Malaysia"
 seoTitle: "Malaysia MICE & Business Events: MyCEB, KLCC, MITEC & Convention Venues"

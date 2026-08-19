@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-BIZ-0083
 title: "Digital Free Trade Zone — What It Is, and What Can Still Be Confirmed"
 seoTitle: "Digital Free Trade Zone Malaysia DFTZ Explained"

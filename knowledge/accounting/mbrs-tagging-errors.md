@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ACC-0003
 title: "SSMxT Tagging Errors: Why MBRS Filings Fail Validation"
 seoTitle: "MBRS Tagging Errors: SSMxT Validation Failures"

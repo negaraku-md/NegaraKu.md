@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-CS-0017
 title: "Register of Charges: Miss 30 Days and the Security Is Void"
 seoTitle: "Register of Charges Malaysia: s.352 and s.362 Duties"

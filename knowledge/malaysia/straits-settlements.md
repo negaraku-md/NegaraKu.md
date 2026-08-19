@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-HIS-0011
 title: "The Straits Settlements: How Penang, Melaka and Singapore Became Britain's Template for Ruling the Malay States"
 seoTitle: "Straits Settlements: How British Malaya Was Built"

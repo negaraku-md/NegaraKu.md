@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ACC-0025
 title: "Keeping Accounting Records Outside Malaysia"
 slug: "records-outside-malaysia"

@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-GOV-0031
 title: "Suruhanjaya Pilihan Raya (SPR): Mandat dan Fungsinya di Bawah Perkara 113-114 Perlembagaan"
 slug: "spr-election-commission"

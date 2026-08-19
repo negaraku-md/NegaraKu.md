@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-BIZ-0077
 title: "Where Should You Set Up in Malaysia? A Decision Framework"
 seoTitle: "Choosing a Business Location in Malaysia"

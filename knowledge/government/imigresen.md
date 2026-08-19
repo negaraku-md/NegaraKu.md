@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-GOV-0018
 title: "Jabatan Imigresen Malaysia: jabatan yang menentukan siapa masuk, siapa tinggal, siapa keluar"
 slug: "imigresen"

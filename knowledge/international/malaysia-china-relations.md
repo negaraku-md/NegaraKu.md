@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-INT-0004
 title: "Malaysia-China Relations"
 seoTitle: "Malaysia-China Relations: Trade, Diplomacy and the South China Sea"

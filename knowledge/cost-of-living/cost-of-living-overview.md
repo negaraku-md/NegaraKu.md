@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LIV-0074
 title: "Malaysia's Cost of Living, By the Official Numbers"
 slug: "cost-of-living-overview"

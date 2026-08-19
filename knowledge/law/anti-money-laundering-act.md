@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LAW-0061
 title: "Anti-Money Laundering and Anti-Terrorism Financing Act (AMLA)"
 seoTitle: "AMLA Malaysia (Act 613): Reporting Duties, Freezing Powers, BNM"

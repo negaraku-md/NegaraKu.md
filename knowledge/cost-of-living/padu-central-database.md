@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LIV-0108
 title: "PADU: Pangkalan Data Utama yang Menentukan Siapa Layak Terima Subsidi"
 seoTitle: "PADU (Pangkalan Data Utama): Apa Itu, Cara Daftar & Guna Subsidi"

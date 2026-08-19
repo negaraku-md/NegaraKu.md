@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LAW-0051
 title: "SOSMA (Act 747): The Special Procedures Malaysia Uses for Security Offences"
 slug: "sosma"

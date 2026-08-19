@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ST-0004
 title: "Johor"
 slug: "johor"

@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-BIZ-0074
 title: "Social Media Licensing in Malaysia: Who Actually Needs the ASP(C) Licence"
 seoTitle: "Social Media Licensing Malaysia: The ASP(C) Framework"

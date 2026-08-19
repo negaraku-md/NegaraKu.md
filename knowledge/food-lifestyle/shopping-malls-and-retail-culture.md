@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-FDL-0015
 title: "Shopping Malls & Retail Culture in Malaysia"
 seoTitle: "Malaysia Shopping Malls & Retail Culture: Formats, Sizes, Pricing"

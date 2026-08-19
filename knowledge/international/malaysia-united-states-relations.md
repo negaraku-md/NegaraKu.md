@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-INT-0014
 title: "Malaysia-United States Relations"
 seoTitle: "Malaysia-US Relations: Trade, Partnership and Security Ties"

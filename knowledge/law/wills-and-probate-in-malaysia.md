@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LAW-0094
 title: "Wasiat, Probet dan Pembahagian Pusaka Tanpa Wasiat bagi Bukan Islam"
 seoTitle: "Wasiat, Probet & Pembahagian Pusaka Bukan Islam di Malaysia"

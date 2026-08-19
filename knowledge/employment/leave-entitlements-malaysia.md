@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-EMP-0030
 title: "Leave entitlements under the Employment Act 1955"
 seoTitle: "Leave entitlement Malaysia — annual, sick, hospitalisation"

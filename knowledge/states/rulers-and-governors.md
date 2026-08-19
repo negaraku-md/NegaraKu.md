@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-STA-0020
 title: "Raja dan Yang di-Pertua Negeri: dua jenis ketua negeri di Malaysia"
 slug: "rulers-and-governors"

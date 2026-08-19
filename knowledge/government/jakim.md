@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-GOV-0040
 title: "JAKIM: badan persekutuan yang menyelaras hal ehwal Islam tanpa mengatasi kuasa agama negeri"
 slug: "jakim"

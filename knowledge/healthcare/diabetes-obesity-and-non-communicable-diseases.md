@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LIV-0094
 title: "Diabetes, Obesiti dan Penyakit Tidak Berjangkit: Cabaran Kesihatan Terbesar Malaysia"
 seoTitle: "Diabetes, Obesiti & NCD di Malaysia: Data, Cukai Gula & Saringan"

@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-HIS-0077
 title: "The Communist Insurgency, 1968-1989: Renewed Conflict and the Hat Yai Peace Accords"
 seoTitle: "Second Communist Insurgency in Malaysia (1968-1989) and the Hat Yai Peace Agreement"

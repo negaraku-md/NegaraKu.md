@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LIV-0121
 title: "AKPK: Agensi Kaunseling Hutang Percuma Malaysia dan Program Pengurusan Kredit"
 seoTitle: "AKPK & Program Pengurusan Kredit (PPK): Kaunseling Hutang Percuma"

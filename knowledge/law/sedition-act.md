@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LAW-0050
 title: "The Sedition Act 1948: What Malaysian Law Defines as a Seditious Tendency"
 slug: "sedition-act"

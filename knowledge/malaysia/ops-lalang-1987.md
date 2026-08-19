@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-HIS-0074
 title: "Ops Lalang: The 1987 ISA Mass-Arrest Operation and Its Legal Aftermath"
 seoTitle: "Ops Lalang 1987: ISA Mass Arrests and Aftermath Explained"

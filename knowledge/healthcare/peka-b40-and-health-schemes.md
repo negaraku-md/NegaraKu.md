@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: "MY-LIV-0086"
 title: "PeKa B40: Apa Sebenarnya Dilindungi, dan Apa Ia Bukan"
 slug: "peka-b40-and-health-schemes"

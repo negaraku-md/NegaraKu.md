@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TAX-0018
 title: "Stamp Duty Self-Assessment (STSDS) in Malaysia"
 slug: "stamp-duty-self-assessment"

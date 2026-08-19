@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ECO-0009
 title: "Who Owns Malaysia's Oil: Petronas, the Petroleum Development Act and the Federal Budget"
 slug: "oil-gas-petronas"

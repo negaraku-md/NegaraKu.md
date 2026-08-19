@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-GLO-0013
 title: "Balik Kampung — Perpindahan Musim Perayaan Malaysia"
 slug: "balik-kampung"

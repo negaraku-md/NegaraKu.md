@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-CO-0009
 title: "Lembaga Tabung Haji: Dana Haji dan Pelabur Institusi"
 seoTitle: "Lembaga Tabung Haji: Fungsi Kewangan, Pelaburan dan Tadbir Urus"

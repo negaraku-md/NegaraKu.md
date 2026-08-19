@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-CS-0051
 title: "Menukar Status Syarikat Antara Sendirian Berhad dan Awam"
 seoTitle: "Cara Tukar Syarikat Sdn Bhd kepada Berhad (Awam) di SSM"

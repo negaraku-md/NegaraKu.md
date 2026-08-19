@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-GOV-0083
 title: "Kementerian Kewangan Malaysia (Ministry of Finance / Treasury)"
 seoTitle: "Kementerian Kewangan Malaysia: Perbendaharaan, Belanjawan dan Hutang Negara"

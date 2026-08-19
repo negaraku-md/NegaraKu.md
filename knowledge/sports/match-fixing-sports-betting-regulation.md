@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-SPT-0008
 title: "Pengaturan Perlawanan dan Pengawalseliaan Pertaruhan Sukan di Malaysia"
 seoTitle: "Pengaturan Perlawanan & Pertaruhan Sukan Malaysia: Undang-Undang"

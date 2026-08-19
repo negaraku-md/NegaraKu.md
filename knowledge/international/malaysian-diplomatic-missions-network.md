@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-INT-0015
 title: "Malaysia's Diplomatic Missions and Foreign Embassies"
 seoTitle: "Malaysia's Diplomatic Missions Abroad and Foreign Embassies in Malaysia"

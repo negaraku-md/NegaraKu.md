@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-GLO-0044
 title: "Polis Diraja Malaysia (PDRM)"
 seoTitle: "Polis Diraja Malaysia (PDRM): Sejarah, Struktur dan Peranan"

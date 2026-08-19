@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LIV-0133
 title: "Bekerja Dengan Ejen Hartanah: Pendaftaran REN dan Norma Fi"
 seoTitle: "Ejen Hartanah Malaysia: Semak REN, Fi Komisen & LPEPH"

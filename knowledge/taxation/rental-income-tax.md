@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TAX-0029
 title: "Tax on Rental Income: the Pre-Letting Expense Line"
 seoTitle: "Rental Income Tax Malaysia: What You Can Deduct"

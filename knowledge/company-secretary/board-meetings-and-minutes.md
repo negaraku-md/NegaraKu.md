@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-CS-0037
 title: "Board Meetings and Minutes: The Third Schedule Is Your Default Rulebook"
 seoTitle: "Board Meetings Malaysia: Third Schedule Procedure"

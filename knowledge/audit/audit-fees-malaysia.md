@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-AUD-0008
 title: "Audit Fees in Malaysia: There Is No Official Fee Schedule"
 seoTitle: "Audit Fees Malaysia: RPG 7 Withdrawn, No Fee Scale"

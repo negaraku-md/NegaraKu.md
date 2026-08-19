@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-HIS-0051
 title: "Kesultanan Johor-Riau: Bagaimana Takhta Melaka Diteruskan ke Selatan"
 slug: "johor-riau-sultanate"

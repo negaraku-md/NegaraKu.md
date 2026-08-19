@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-HIS-0031
 title: "Malaysia's Population by Religion: What the Census Recorded"
 slug: "religion-statistics"

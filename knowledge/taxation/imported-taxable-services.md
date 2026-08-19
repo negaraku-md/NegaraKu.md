@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TAX-0033
 title: "Imported Taxable Services and the SST-02A Declaration"
 slug: "imported-taxable-services"

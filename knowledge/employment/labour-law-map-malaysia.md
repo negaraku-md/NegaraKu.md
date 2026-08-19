@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-EMP-0010
 title: "Malaysian labour law map: statute, regulator, portal, scope"
 seoTitle: "Malaysia labour law — statutes and regulators map"

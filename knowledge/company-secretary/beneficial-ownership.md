@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-CS-0004
 title: "Beneficial Ownership Reporting in Malaysia"
 slug: "beneficial-ownership"

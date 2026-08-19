@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TAX-0016
 title: "Capital Gains Tax on Unlisted Shares in Malaysia"
 slug: "capital-gains-tax"

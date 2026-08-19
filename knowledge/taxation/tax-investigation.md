@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TAX-0132
 title: "Siasatan Cukai LHDN dan Bezanya dengan Audit Cukai"
 seoTitle: "Siasatan Cukai LHDN vs Audit Cukai: Seksyen 114 & Pendakwaan"

@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ENV-0005
 title: "Department of Environment (DOE): Malaysia's Environmental Regulator"
 seoTitle: "Department of Environment (DOE) Malaysia — Mandate, Powers, EIA"

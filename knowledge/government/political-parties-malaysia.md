@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-GOV-0087
 title: "Sistem Parti Politik Malaysia"
 seoTitle: "Parti Politik Malaysia: Pendaftaran, Gabungan dan Kerajaan Perpaduan"

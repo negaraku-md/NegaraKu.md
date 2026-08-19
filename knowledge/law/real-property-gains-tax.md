@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LAW-0088
 title: "Cukai Keuntungan Harta Tanah (CKHT / RPGT)"
 seoTitle: "Cukai Keuntungan Harta Tanah (CKHT/RPGT): Kadar & Pengecualian"

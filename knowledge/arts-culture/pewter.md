@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ART-0033
 title: Malaysian Pewter, the Craft Tin Wealth Built
 slug: pewter

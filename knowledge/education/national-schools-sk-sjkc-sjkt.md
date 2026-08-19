@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: "MY-LIV-0087"
 title: "SK, SJKC dan SJKT: Tiga Bahasa Pengantar dalam Satu Sistem Sekolah Rendah Kerajaan"
 slug: "national-schools-sk-sjkc-sjkt"

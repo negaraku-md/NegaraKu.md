@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-AUD-0017
 title: "Materiality and Sampling in a Malaysian Statutory Audit, Explained"
 seoTitle: "Audit Materiality and Sampling in Malaysia (ISA 320, 450, 530)"

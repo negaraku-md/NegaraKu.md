@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-BIZ-0047
 title: "Borrowing in Foreign Currency: What a Malaysian Company May Do"
 seoTitle: "Foreign Currency Borrowing Malaysia: BNM Limits"

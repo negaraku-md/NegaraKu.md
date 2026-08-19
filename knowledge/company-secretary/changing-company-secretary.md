@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-CS-0008
 title: "Changing Your Company Secretary: The Handover Checklist"
 slug: "changing-company-secretary"

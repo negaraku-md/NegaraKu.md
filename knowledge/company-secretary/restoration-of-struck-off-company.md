@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-CS-0057
 title: "Memulihkan Nama Syarikat yang Telah Dipotong daripada Daftar"
 seoTitle: "Cara Memulihkan Syarikat yang Dipotong (Seksyen 555 CA 2016)"

@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LIV-0023
 title: "Registering a Civil Marriage in Malaysia: The JPN Process for Non-Muslims"
 slug: "registering-a-marriage-civil"

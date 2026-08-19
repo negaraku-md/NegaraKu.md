@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-GOV-0013
 title: "Dewan Negara"
 slug: "dewan-negara"

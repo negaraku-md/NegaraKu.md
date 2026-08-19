@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ART-0027
 title: "Kaamatan: Sabah's Harvest Festival, the Rice Spirit, and the Maiden Crowned by the Sun"
 seoTitle: "Pesta Kaamatan: Sabah's Kadazandusun Harvest Festival"

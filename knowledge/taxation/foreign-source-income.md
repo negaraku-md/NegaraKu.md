@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TAX-0027
 title: "Foreign-Source Income in Malaysia — Exemption, Substance and Remittance"
 seoTitle: "Foreign Source Income Tax Malaysia — Exemption Rules"

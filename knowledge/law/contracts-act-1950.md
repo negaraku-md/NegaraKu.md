@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: "MY-LAW-0030"
 title: "Contracts Act 1950 (Act 136): Malaysia's General Law of Contract"
 slug: "contracts-act-1950"

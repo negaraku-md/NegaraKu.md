@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-BIZ-0105
 title: "Doing Business in Johor Bahru: Three Councils and a Border"
 seoTitle: "Doing Business in Johor Bahru: MBJB Licensing"

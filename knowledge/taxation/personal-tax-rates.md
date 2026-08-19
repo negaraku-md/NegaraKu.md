@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TAX-0055
 title: "Malaysia Personal Income Tax Rates — YA2023 to YA2026"
 seoTitle: "Personal Income Tax Rates Malaysia by YA"

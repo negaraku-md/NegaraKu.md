@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-HIS-0064
 title: "The 14th General Election and Malaysia's First Federal Change of Government"
 seoTitle: "GE14 2018: Malaysia's First Federal Change of Government, the Record"

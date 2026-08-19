@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-BIZ-0080
 title: "Equity Crowdfunding and P2P Financing for Malaysian Businesses"
 seoTitle: "ECF and P2P Financing Malaysia: SME Guide"

@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-FDL-0011
 title: "Hidangan Kebangsaan Malaysia: Nasi Lemak, Roti Canai, Char Kuey Teow & Laksa"
 seoTitle: "Hidangan Kebangsaan Malaysia — Nasi Lemak, Roti Canai, Laksa"

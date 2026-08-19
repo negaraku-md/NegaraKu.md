@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LAW-0032
 title: "Common Law in Malaysia: How the Civil Law Act 1956 Imported — and Froze — English Law"
 slug: "common-law-in-malaysia"

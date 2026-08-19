@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TAX-0043
 title: "Capital or Revenue? Routing a Gain to CGT, RPGT or Income Tax"
 seoTitle: "Capital or Revenue: CGT, RPGT or Income Tax"

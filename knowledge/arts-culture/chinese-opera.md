@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: "MY-ART-0042"
 title: "锣鼓为神而奏：马来西亚的华人大戏与酬神传统"
 slug: "chinese-opera"

@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ART-0025
 title: "Wesak Day in Malaysia: The Buddhist Full-Moon Observance and Why the Date Moves Each Year"
 slug: "wesak"

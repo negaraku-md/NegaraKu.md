@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-STA-0025
 title: "Bagaimana Kerajaan Negeri Dibiayai di Malaysia"
 seoTitle: "Bagaimana Kerajaan Negeri Dibiayai: Hasil, Geran & Perlembagaan"

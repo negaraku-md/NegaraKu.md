@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ECO-0022
 title: "Dasar Ekonomi Bumiputera: Bagaimana Matlamat Penyusunan Semula DEB Bersambung hingga Hari Ini"
 slug: "bumiputera-economic-policy"

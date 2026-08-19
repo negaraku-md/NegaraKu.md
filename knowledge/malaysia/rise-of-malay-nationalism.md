@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-HIS-0075
 title: "Kebangkitan Nasionalisme Politik Melayu, 1930-an hingga 1945"
 seoTitle: "Kebangkitan Nasionalisme Melayu 1930-an-1945: KMM, Persatuan Melayu dan Malayan Union"

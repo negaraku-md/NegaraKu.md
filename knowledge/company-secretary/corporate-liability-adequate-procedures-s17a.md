@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-CS-0052
 title: "Corporate Liability for Corruption: MACC Act Section 17A and Adequate Procedures"
 seoTitle: "Section 17A MACC Act: Corporate Liability & Adequate Procedures"

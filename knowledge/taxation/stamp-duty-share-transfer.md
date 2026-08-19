@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TAX-0047
 title: "Stamp Duty on Share Transfers and the Form of Transfer of Securities"
 seoTitle: "Stamp Duty on Share Transfers in Malaysia"

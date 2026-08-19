@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ENE-0009
 title: "The National Energy Transition Roadmap (NETR)"
 seoTitle: "Malaysia's National Energy Transition Roadmap (NETR): Pillars, Targets and Projects"

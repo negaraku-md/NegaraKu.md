@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ECO-0017
 title: "Bank Negara Malaysia: What the Central Bank Is Legally Required to Do"
 seoTitle: "Bank Negara Malaysia: Roles, Powers and Limits"

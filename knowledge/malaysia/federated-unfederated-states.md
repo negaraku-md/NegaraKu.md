@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-HIS-0066
 title: "Federated and Unfederated Malay States: The Two Groupings Britain Governed Through Residents and Advisers"
 seoTitle: "Federated vs Unfederated Malay States Explained"

@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-AUD-0012
 title: "Audit Adjustments and Your Tax Computation"
 seoTitle: "Audit Adjustments and Form C Malaysia: The Tax Link"

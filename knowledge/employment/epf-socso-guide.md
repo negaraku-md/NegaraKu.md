@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-EMP-0001
 title: "EPF, SOCSO and EIS: Where to Start as an Employer"
 seoTitle: "EPF SOCSO EIS Malaysia: Employer Starting Point"

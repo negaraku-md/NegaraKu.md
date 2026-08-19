@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LAW-0091
 title: "Akta Hakmilik Strata dan Hidup dalam Skim Strata"
 seoTitle: "Akta Hakmilik Strata & Akta Pengurusan Strata Malaysia"

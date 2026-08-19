@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TAX-0014
 title: "e-Invoice Data Fields Reference"
 seoTitle: "e-Invoice Data Fields Malaysia: 55 Fields Reference"

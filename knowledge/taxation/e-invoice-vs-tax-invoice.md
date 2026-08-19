@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TAX-0006
 title: "e-Invoice vs SST Tax Invoice: Two Regimes, Two Documents"
 seoTitle: "e-Invoice vs Tax Invoice Malaysia: LHDN vs RMCD"

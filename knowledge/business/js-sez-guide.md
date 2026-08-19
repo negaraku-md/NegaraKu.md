@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-BIZ-0051
 title: "Johor-Singapore Special Economic Zone — Incentives, Conditions and Clawbacks"
 seoTitle: "JS-SEZ Tax Incentives Malaysia Explained"

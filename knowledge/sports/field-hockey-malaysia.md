@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-SPT-0003
 title: "Hoki Padang di Malaysia: Konfederasi Hoki Malaysia dan Piala Sultan Azlan Shah"
 seoTitle: "Hoki Malaysia: MHC, Piala Azlan Shah dan Kedudukan Dunia"

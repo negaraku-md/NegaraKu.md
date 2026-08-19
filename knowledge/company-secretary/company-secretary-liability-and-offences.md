@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-CS-0050
 title: "Liabiliti Statutori dan Kesalahan Setiausaha Syarikat"
 seoTitle: "Liabiliti & Kesalahan Setiausaha Syarikat di Bawah Akta Syarikat 2016"

@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TAX-0025
 title: "Withholding Tax Rates in Malaysia by Payment Type"
 seoTitle: "Withholding Tax Rates Malaysia — Section, Rate, Form"

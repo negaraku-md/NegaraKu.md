@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-HIS-0065
 title: "Jata Negara: Membaca Perisai Kebangsaan Malaysia, Elemen demi Elemen"
 slug: "coat-of-arms"

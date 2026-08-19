@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: "MY-LAW-0096"
 title: "Malaysia's Personal Data Protection Act (PDPA): Your Rights and a Business's Duties"
 seoTitle: "PDPA Malaysia: Personal Data Protection Act"

@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: "MY-SPT-0018"
 title: "The National Sports Council (MSN): How Malaysia Builds Its Athletes"
 seoTitle: "National Sports Council (MSN): Malaysia's Body"

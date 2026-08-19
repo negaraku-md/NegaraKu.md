@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-BIZ-0032
 title: "Employment Pass for Founders and Directors — the Sequencing Trap"
 seoTitle: "Employment Pass for Founders Malaysia"

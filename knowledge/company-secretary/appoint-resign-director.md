@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-CS-0030
 title: "Appointing and Resigning a Director of a Malaysian Company"
 seoTitle: "Appoint or Resign a Director Malaysia: CA 2016 Rules"

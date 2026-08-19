@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TEC-0004
 title: "Malaysia's Cybersecurity Posture: Threats, Strategy and Global Standing"
 seoTitle: "Malaysia Cybersecurity: Threats, Cyber Security Act 2024 and Global Standing"

@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-CO-0012
 title: "Malaysia's Telcos and the 5G Network: CelcomDigi, Maxis, U Mobile"
 seoTitle: "Malaysia 5G Networks and Telcos: CelcomDigi, Maxis, U Mobile Explained"

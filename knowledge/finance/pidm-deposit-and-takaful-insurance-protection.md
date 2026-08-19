@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-FIN-0013
 title: "PIDM: Deposit Insurance and Takaful/Insurance Benefits Protection"
 seoTitle: "PIDM Explained: Deposit Insurance and Takaful/Insurance Protection in Malaysia"

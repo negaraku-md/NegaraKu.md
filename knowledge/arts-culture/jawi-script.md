@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ART-0029
 title: "Tulisan Jawi: Aksara Arab yang Menulis Bahasa Melayu — Sejarah, Sistem dan Kedudukannya Kini"
 slug: "jawi-script"

@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-HIS-0062
 title: "Konfrontasi: Perang Tidak Diisytiharkan yang Menyambut Kelahiran Malaysia"
 slug: "konfrontasi"

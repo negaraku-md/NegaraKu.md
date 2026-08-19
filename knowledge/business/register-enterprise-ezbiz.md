@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-BIZ-0013
 title: "How to Register a Sole Proprietorship or Partnership on EzBiz"
 seoTitle: "Register a Business on EzBiz: Full Guide"

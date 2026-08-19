@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ART-0053
 title: "Kristang dan Masyarakat Portugis-Eurasia Melaka"
 seoTitle: "Kristang: Bahasa, Budaya dan Perkampungan Portugis Melaka"

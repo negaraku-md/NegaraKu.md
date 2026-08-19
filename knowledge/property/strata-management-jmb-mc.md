@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LIV-0138
 title: "Tadbir Urus Hartanah Strata: JMB, MC dan Tribunal Pengurusan Strata"
 seoTitle: "JMB vs MC & Tribunal Pengurusan Strata di Malaysia"

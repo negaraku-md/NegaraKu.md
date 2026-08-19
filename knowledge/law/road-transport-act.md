@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: "MY-LAW-0041"
 title: "Road Transport Act 1987 (Act 333): The Statute Behind Every Driving Licence and Number Plate"
 slug: "road-transport-act"

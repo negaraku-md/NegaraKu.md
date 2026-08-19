@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-BIZ-0079
 title: "Anti-Dumping and Countervailing Duties on Imports into Malaysia"
 seoTitle: "Anti-Dumping Duties Malaysia: Importer Guide"

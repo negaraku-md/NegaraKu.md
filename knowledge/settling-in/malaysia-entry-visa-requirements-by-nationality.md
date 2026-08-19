@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LIV-0143
 title: "Who Needs a Visa to Enter Malaysia: Visa-Exempt Countries, eVisa and eNTRI"
 seoTitle: "Malaysia Entry Visa Requirements by Nationality: Visa-Free, eVisa, eNTRI"

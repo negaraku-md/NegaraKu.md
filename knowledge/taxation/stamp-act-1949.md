@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: "MY-TAX-0137"
 title: "The Stamp Act 1949: How Malaysia Taxes Its Documents"
 seoTitle: "Stamp Act 1949: Stamp Duty in Malaysia Explained"

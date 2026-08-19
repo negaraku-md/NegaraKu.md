@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: "MY-GLO-0026"
 title: "Merdeka: Makna Perkataan di Sebalik Laungan Kebangsaan"
 slug: "merdeka"

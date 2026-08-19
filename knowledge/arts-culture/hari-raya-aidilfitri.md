@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ART-0020
 title: "Hari Raya Aidilfitri: Menandakan Berakhirnya Ramadan, dan Sebuah Perayaan Pulang"
 slug: "hari-raya-aidilfitri"

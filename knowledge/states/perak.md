@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-STA-0011
 title: "Perak: bijih timah, Perjanjian Pangkor dan permulaan sistem Residen British"
 slug: "perak"

@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: "MY-HIS-0071"
 title: "Why Malaysia Is One of the World's Megadiverse Countries"
 slug: "climate-and-biodiversity"

@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-GOV-0060
 title: "Ketua Audit Negara: Pegawai Kerajaan yang Perlembagaan Lindungi Daripada Kerajaan"
 slug: "auditor-general"

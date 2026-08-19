@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ACC-0023
 title: "Malaysian Accounting Standards Index: MFRS and MPERS"
 seoTitle: "Malaysian Accounting Standards Index: MFRS and MPERS"

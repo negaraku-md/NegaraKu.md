@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-IND-0001
 title: "The Aerospace & MRO Industry in Malaysia"
 seoTitle: "Malaysia Aerospace & MRO Industry: Blueprint 2030 Targets"

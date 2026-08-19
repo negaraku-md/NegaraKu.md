@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-GLO-0011
 title: "Warta Kerajaan: mengapa undang-undang hanya berkuat kuasa selepas diwartakan"
 slug: "warta-kerajaan"

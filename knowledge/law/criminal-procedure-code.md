@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LAW-0067
 title: "Kanun Tatacara Jenayah: Dari Tangkapan ke Perbicaraan"
 seoTitle: "Kanun Tatacara Jenayah Malaysia (Akta 593): Tangkapan, Reman, Jamin, Bicara"

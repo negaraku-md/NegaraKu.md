@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-AUD-0014
 title: "Emphasis of Matter, Other Matter and Key Audit Matters"
 seoTitle: "Emphasis of Matter vs KAM Malaysia: The Difference"

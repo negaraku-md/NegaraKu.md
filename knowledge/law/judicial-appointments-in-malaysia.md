@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LAW-0079
 title: "Cara Hakim Dilantik (dan Disingkirkan) di Malaysia"
 seoTitle: "Pelantikan dan penyingkiran hakim di Malaysia"

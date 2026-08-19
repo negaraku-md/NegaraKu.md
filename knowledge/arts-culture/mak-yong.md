@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ART-0012
 title: "Mak Yong: Teater Tarian Kelantan yang Bermula dengan Sebuah Rebab"
 seoTitle: "Mak Yong: Teater Tarian Tradisional Kelantan"

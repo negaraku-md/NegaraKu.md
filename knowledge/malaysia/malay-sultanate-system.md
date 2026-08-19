@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-HIS-0052
 title: "Sultan, Daulat dan Pembesar: Bagaimana Kesultanan Melayu Diperintah"
 slug: "malay-sultanate-system"

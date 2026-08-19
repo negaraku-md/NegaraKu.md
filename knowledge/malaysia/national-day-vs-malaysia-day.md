@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-HIS-0043
 title: "Mengapa Malaysia Mempunyai Dua Hari Kebesaran: 31 Ogos dan 16 September"
 slug: "national-day-vs-malaysia-day"

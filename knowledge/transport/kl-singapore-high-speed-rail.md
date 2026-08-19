@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LIV-0155
 title: "The Kuala Lumpur-Singapore High-Speed Rail: What Happened and Where the Revived Project Stands"
 seoTitle: "KL-Singapore High-Speed Rail (HSR): Termination, Revival and Current Status"

@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LIV-0077
 title: "Why Kuala Lumpur Is Malaysia's Most Expensive Place to Live"
 slug: "cost-of-living-kuala-lumpur"

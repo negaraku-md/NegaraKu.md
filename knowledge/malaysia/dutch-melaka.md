@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: "MY-HIS-0067"
 title: "Dutch Melaka: Why the VOC Conquered a Port It Then Refused to Develop"
 seoTitle: "Dutch Melaka (1641-1824): The VOC's Reluctant Colony"

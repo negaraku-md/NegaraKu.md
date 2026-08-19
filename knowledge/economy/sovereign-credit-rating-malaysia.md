@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ECO-0033
 title: "Malaysia's Sovereign Credit Rating: What S&P, Moody's and Fitch Say"
 seoTitle: "Malaysia Sovereign Credit Rating: S&P, Moody's, Fitch Explained"

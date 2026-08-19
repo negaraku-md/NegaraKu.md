@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LAW-0093
 title: "Whistleblower Protection Act 2010: What It Covers and Its Limits"
 seoTitle: "Whistleblower Protection Act 2010 Malaysia: Protections and Limits"

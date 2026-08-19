@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TAX-0039
 title: "Donations, Gifts and Section 44(6) Approved Institutions"
 seoTitle: "Tax Deductible Donations Malaysia — s.44(6) Explained"

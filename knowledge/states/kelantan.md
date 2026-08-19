@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-STA-0007
 title: "Kelantan: profil negeri Darul Naim, ekonomi dan kraf tangan"
 slug: "kelantan"

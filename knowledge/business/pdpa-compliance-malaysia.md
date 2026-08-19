@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-BIZ-0056
 title: "PDPA Compliance in Malaysia After the 2024 Amendment"
 seoTitle: "PDPA Malaysia: Compliance Guide After Act A1727"

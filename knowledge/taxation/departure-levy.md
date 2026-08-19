@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TAX-0126
 title: "Levi Pelepasan: Cukai Keluar untuk Penerbangan dari Malaysia"
 seoTitle: "Levi Pelepasan Malaysia: Kadar, Siapa Bayar, Pengecualian"

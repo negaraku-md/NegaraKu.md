@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ART-0062
 title: "Rumah Melayu Tradisional dan Seni Bina Vernakular"
 seoTitle: "Rumah Melayu Tradisional: Ciri, Reka Bentuk dan Variasi Wilayah"

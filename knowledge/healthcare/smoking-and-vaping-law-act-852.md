@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LIV-0102
 title: "Akta 852: Undang-Undang Kawalan Rokok dan Vape Malaysia"
 seoTitle: "Akta 852: Undang-Undang Kawalan Produk Merokok dan Vape di Malaysia"

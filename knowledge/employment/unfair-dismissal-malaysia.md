@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-EMP-0021
 title: "Unfair dismissal claims under section 20 of the Industrial Relations Act 1967"
 seoTitle: "Unfair Dismissal Malaysia — s.20 Claims and Remedies"

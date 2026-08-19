@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-CS-0016
 title: "Minute Books and Records: Every Retention Clock in One Place"
 seoTitle: "Minute Books and Records Malaysia: Retention Rules"

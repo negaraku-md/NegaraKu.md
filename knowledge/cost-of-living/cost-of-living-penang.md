@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LIV-0078
 title: "Penang's Cost of Living Splits at the Strait: Island vs Mainland"
 slug: "cost-of-living-penang"

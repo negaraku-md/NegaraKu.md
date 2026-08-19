@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LIV-0076
 title: "Where Malaysia's Household Ringgit Actually Goes Each Month"
 slug: "household-spending-breakdown"

@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TAX-0115
 title: "Special Zones and Hub Incentives Compared on Tax"
 seoTitle: "JS-SEZ, Forest City SFZ and Global Services Hub — Tax Compared"

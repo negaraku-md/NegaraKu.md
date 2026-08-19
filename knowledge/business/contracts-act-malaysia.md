@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-BIZ-0065
 title: "The Contracts Act 1950 Is Not English Law — Five Places Malaysia Diverges"
 seoTitle: "Contracts Act 1950 Malaysia: What Makes a Contract Binding"

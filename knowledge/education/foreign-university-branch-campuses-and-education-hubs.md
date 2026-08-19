@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LIV-0111
 title: "Foreign University Branch Campuses and Education Hubs"
 seoTitle: "Foreign University Branch Campuses in Malaysia: The Education Hub Model"

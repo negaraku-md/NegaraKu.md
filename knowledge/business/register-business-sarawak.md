@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-BIZ-0023
 title: "Registering a Business in Sarawak"
 seoTitle: "Business Registration in Sarawak: BNR, TL and OL"

@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-EMP-0004
 title: "Who the Employment Act covers, and what RM4,000 actually switches off"
 seoTitle: "Employment Act coverage Malaysia — the RM4,000 rule"

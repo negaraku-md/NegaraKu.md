@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ECO-0029
 title: "B40, M40, T20 dan Garis Kemiskinan: Bagaimana Malaysia Mengukur Ketaksamaan Pendapatan"
 seoTitle: "B40 M40 T20 dan Garis Kemiskinan Malaysia: Cara Pengiraan DOSM"

@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: "MY-CS-0060"
 title: "Special vs Ordinary Resolution in Malaysia: Which One Your Company Needs"
 seoTitle: "Special vs Ordinary Resolution Malaysia (CA 2016)"

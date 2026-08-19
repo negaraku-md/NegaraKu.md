@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ACC-0008
 title: "Financial Reporting Deadlines for a Malaysian Company"
 seoTitle: "Financial Reporting Deadlines Malaysia: SSM and LHDN"

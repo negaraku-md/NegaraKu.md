@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-EMP-0035
 title: "Probation and confirmation in Malaysia"
 seoTitle: "Probation Malaysia — can you terminate a probationer?"

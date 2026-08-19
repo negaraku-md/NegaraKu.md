@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: "MY-ART-0044"
 title: "Gasing: Kayu Berputar yang Jadi Ujian Kekuatan dan Ketahanan di Pantai Timur"
 slug: "gasing"

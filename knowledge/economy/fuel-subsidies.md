@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ECO-0015
 title: "Subsidi Bahan Api Malaysia: Bagaimana APM Menetapkan Harga dan Mengapa Bebannya Berubah Setiap Bulan"
 slug: "fuel-subsidies"

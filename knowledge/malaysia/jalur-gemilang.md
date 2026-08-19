@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-HIS-0018
 title: "Jalur Gemilang: Mengapa 14 Jalur untuk 13 Buah Negeri"
 slug: "jalur-gemilang"

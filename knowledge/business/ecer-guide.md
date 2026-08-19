@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-BIZ-0044
 title: "East Coast Economic Region (ECER) — Gazetted Incentives, and Why Every Window Has Closed"
 seoTitle: "ECER Incentives Malaysia — ECERDC Guide"

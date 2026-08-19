@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-GLO-0019
 title: "Menteri Besar atau Ketua Menteri: mengapa 13 negeri menggunakan tiga gelaran berbeza"
 slug: "menteri-besar"

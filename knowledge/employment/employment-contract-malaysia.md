@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-EMP-0024
 title: "The Malaysian employment contract, clause by clause"
 seoTitle: "Employment contract Malaysia — what is unenforceable"

@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-IND-0015
 title: "Malaysia's Palm Oil Industry"
 seoTitle: "Malaysia Palm Oil Industry: Structure, Exports and Regulators"

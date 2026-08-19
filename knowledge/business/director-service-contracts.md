@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-BIZ-0067
 title: "Director Service Contracts — Office, Employment, and the s.231 Disclosure Rule"
 seoTitle: "Director Service Contracts Malaysia: s.231 Explained"

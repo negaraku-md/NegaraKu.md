@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LIV-0017
 title: "The Employment Pass: The Work Visa You Can Never Apply for Yourself"
 slug: "employment-pass"

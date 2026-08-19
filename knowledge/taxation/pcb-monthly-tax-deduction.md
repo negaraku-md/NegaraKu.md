@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TAX-0057
 title: "PCB and the Final-Tax Election: Why Not Filing Costs You"
 seoTitle: "PCB Monthly Tax Deduction and Final Tax Election"

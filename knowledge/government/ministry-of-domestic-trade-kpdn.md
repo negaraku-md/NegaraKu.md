@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: "MY-GOV-0094"
 title: "Ministry of Domestic Trade and Cost of Living (KPDN)"
 seoTitle: "KPDN: Ministry of Domestic Trade & Cost of Living"

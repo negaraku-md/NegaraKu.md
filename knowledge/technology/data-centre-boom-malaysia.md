@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TEC-0003
 title: "Malaysia's Data Centre Boom: Capacity, Strain and Policy Response"
 seoTitle: "Malaysia Data Centre Boom: Power, Water and Policy Explained"

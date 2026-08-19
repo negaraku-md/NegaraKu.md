@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-IND-0002
 title: "The Automotive Industry: Proton, Perodua and the National Car Policy"
 seoTitle: "Malaysia's Automotive Industry: Proton, Perodua & the National Car Policy"

@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-SPT-0002
 title: "Kes Naturalisasi Bola Sepak Malaysia: Pemain Warisan, Sekatan FIFA dan CAS"
 seoTitle: "Kes Naturalisasi FAM: Pemain Warisan, Sekatan FIFA dan Keputusan CAS"

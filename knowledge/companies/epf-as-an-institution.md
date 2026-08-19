@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-CO-0002
 title: "KWSP: Kumpulan Wang Simpanan Pekerja Sebagai Institusi"
 seoTitle: "KWSP (EPF): Dana Persaraan & Pelabur Institusi Terbesar Malaysia"

@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-CS-0033
 title: "Directors' Fees and Compensation: Who Approves What"
 seoTitle: "Directors Fees Approval Malaysia: s.230 and s.227"

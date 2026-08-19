@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-AGR-0001
 title: "Subsidi Pertanian dan Bantuan Input Ladang untuk Pesawah"
 seoTitle: "Subsidi Baja Padi, SBPKP & SIPP: Panduan Bantuan Input Pesawah"

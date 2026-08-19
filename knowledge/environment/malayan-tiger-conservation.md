@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ENV-0008
 title: "The Malayan Tiger: Status and Conservation Efforts"
 seoTitle: "Malayan Tiger Conservation: Status, Numbers and Efforts"

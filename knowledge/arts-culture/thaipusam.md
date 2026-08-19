@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ART-0024
 title: "Thaipusam in Malaysia: the pilgrimage to Batu Caves, the silver chariot and the kavadi"
 seoTitle: "Thaipusam in Malaysia — Batu Caves, the chariot and the kavadi"

@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TAX-0015
 title: "Sdn Bhd vs Sole Proprietor vs Partnership: Tax Compared"
 seoTitle: "Sdn Bhd vs Sole Prop Tax Malaysia: Worked Comparison"

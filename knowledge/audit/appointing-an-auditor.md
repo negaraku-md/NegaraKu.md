@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-AUD-0006
 title: "Appointing an Auditor for a Malaysian Company"
 seoTitle: "Appointing an Auditor Malaysia: s.263, s.264, s.267"

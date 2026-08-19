@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-BIZ-0049
 title: "Who Owns the IP Your Staff and Contractors Create?"
 seoTitle: "IP Ownership Malaysia: Employees and Contractors"

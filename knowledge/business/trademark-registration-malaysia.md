@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-BIZ-0072
 title: "Registering a Trademark with MyIPO"
 seoTitle: "Trademark Registration Malaysia: Process and Cost"

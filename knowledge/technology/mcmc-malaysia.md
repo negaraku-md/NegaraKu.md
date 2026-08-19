@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TEC-0008
 title: "MCMC: Pengawal Selia Komunikasi dan Multimedia Malaysia"
 seoTitle: "MCMC (SKMM): Fungsi, Pelesenan dan Spektrum"

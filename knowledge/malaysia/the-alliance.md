@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-HIS-0061
 title: "The Alliance: The Coalition That Negotiated Malaya's Independence"
 slug: "the-alliance"

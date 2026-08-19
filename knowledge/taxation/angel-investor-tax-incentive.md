@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TAX-0121
 title: "Angel Investor Tax Incentive — the Gazetted Deadline Passed on 31 December 2023"
 seoTitle: "Angel Investor Tax Incentive Malaysia — Status and Conditions"

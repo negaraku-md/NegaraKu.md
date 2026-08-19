@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-AGR-0012
 title: "MARDI: Malaysia's Agricultural Research and Development Institute"
 seoTitle: "MARDI: Malaysia's Agricultural Research Institute Explained"

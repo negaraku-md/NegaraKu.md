@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LIV-0127
 title: "Wang Tak Dituntut di Malaysia: Cara Semak dan Tuntut Melalui eGUMIS"
 seoTitle: "Wang Tak Dituntut (eGUMIS): Cara Semak & Tuntut di Malaysia"

@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: "MY-BIZ-0121"
 title: "MyIPO: Malaysia's Intellectual Property Office and How to Register Every Type of IP"
 seoTitle: "MyIPO: Malaysia's Intellectual Property Office"

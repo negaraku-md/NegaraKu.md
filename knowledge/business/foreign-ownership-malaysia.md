@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-BIZ-0029
 title: "Can a Foreigner Own 100% of a Malaysian Company? Sector by Sector"
 seoTitle: "Foreign Ownership Limits Malaysia by Sector"

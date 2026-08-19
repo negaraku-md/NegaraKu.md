@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-STA-0027
 title: "Majlis Agama Islam Negeri di Malaysia"
 seoTitle: "Majlis Agama Islam Negeri (MAIN): Peranan dan Kuasa"

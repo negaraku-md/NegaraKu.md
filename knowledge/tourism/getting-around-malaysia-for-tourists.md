@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TOU-0005
 title: "Getting Around Malaysia as a Tourist"
 seoTitle: "Getting Around Malaysia: Trains, Flights, Ferries & E-Hailing"

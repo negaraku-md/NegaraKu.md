@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: "MY-LIV-0063"
 title: "Bukan Semua Jalan Menuju Universiti: Memahami Sistem TVET Malaysia"
 slug: "tvet-and-skills-training"

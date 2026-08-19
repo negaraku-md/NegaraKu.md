@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-EMP-0027
 title: "Employee, gig worker or independent contractor?"
 seoTitle: "Employee vs contractor Malaysia — the three-way test"

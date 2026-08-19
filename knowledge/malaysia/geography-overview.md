@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-HIS-0044
 title: "How Malaysia's Mountains and Monsoons Shaped Where Malaysians Live"
 slug: "geography-overview"

@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-BIZ-0007
 title: "Who Can Be a Director of a Malaysian Company — and What You Sign Up For"
 seoTitle: "Company Director Requirements Malaysia"

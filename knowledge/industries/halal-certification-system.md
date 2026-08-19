@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-IND-0008
 title: "Sistem Pensijilan Halal Malaysia"
 seoTitle: "Sistem Pensijilan Halal Malaysia: JAKIM, MS 1500 & SPHM Digital"

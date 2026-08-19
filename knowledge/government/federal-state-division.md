@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: "MY-GOV-0033"
 title: "Who Decides What: The Federal, State and Concurrent Lists of the Ninth Schedule"
 slug: "federal-state-division"

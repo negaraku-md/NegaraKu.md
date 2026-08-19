@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-BIZ-0068
 title: "Debt Recovery in Malaysia — The Escalation Ladder, Not the Lawsuit"
 seoTitle: "Debt Recovery Malaysia: Demand to Winding-Up Petition"

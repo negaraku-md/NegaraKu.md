@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-CO-0001
 title: "Capital A and AirAsia: The Airline Restructuring"
 seoTitle: "Capital A and AirAsia: PN17 Exit and Airline Consolidation Explained"

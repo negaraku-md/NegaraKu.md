@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-EMP-0045
 title: "Are non-compete clauses enforceable in Malaysia?"
 seoTitle: "Non-compete clause Malaysia — void under s.28 Contracts Act"

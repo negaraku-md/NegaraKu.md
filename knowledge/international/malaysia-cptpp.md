@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-INT-0005
 title: "Malaysia and the CPTPP"
 seoTitle: "Malaysia and the CPTPP: Membership, Tariffs and Obligations"

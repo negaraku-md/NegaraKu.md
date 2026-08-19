@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LIV-0130
 title: "Gas Supply at Home: Piped Natural Gas and Cooking Gas Cylinders"
 seoTitle: "Gas di Rumah Malaysia: Gas Paip Asli vs Tong Gas LPG"

@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-CS-0041
 title: "Allotting New Shares and the Return of Allotment"
 seoTitle: "Share Allotment Malaysia: s.75, s.78 and Deadlines"

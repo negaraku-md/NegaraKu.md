@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-BIZ-0019
 title: "Labuan Company vs Sdn Bhd: When Labuan Is the Wrong Answer"
 seoTitle: "Labuan Company vs Sdn Bhd: An Honest Comparison"

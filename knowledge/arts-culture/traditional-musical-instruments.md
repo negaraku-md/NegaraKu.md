@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ART-0064
 title: "Alat Muzik Tradisional Malaysia"
 seoTitle: "Alat Muzik Tradisional Malaysia: Kompang, Gendang, Serunai, Sape"

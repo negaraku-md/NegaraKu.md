@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-BIZ-0021
 title: "Partnership in Malaysia: The Structure Most People Should Avoid"
 seoTitle: "Partnership Malaysia: Liability Under the Partnership Act"

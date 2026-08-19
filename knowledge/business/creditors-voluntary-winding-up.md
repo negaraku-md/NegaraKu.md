@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-BIZ-0064
 title: "Creditors' Voluntary Winding Up and Director Liability"
 seoTitle: "Creditors Voluntary Winding Up Malaysia"

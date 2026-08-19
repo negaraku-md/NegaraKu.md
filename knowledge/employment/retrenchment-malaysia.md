@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-EMP-0016
 title: "Retrenchment and redundancy: the correct procedure"
 seoTitle: "Retrenchment Malaysia — Form PK and Correct Procedure"

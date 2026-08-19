@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-GLO-0040
 title: "Orang Asli: Masyarakat Peribumi Semenanjung dan Kerangka Undang-Undangnya"
 seoTitle: "Orang Asli: Definisi, Kumpulan dan Rangka Undang-Undang JAKOA"

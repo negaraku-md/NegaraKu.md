@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-CS-0039
 title: "How Members Can Force a Company to Hold a Meeting"
 seoTitle: "EGM Requisition Malaysia: Section 311 Explained"

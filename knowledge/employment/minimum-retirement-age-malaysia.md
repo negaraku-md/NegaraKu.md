@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-EMP-0050
 title: "Akta Umur Persaraan Minimum 2012: Umur Persaraan Berkanun 60 Tahun"
 seoTitle: "Umur Persaraan Minimum Malaysia: Akta 753 dan Umur 60 Tahun"

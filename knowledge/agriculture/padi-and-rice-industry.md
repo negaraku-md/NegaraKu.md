@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: "MY-AGR-0017"
 title: "Padi and Rice in Malaysia: Farmers, BERNAS, and the Self-Sufficiency Gap"
 seoTitle: "Padi & Rice Industry in Malaysia: SSL, BERNAS Explained"

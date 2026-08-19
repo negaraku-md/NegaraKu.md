@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-GOV-0082
 title: "Kementerian Ekonomi dan Rancangan Malaysia"
 seoTitle: "Kementerian Ekonomi Malaysia dan Kitaran Rancangan Malaysia"

@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-CS-0012
 title: "Applying for an Extension of Time from SSM"
 seoTitle: "SSM Extension of Time (EOT): Rules & Deadlines"

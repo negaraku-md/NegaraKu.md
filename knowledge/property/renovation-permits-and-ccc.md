@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LIV-0137
 title: "Kelulusan Ubah Suai Rumah dan Sijil Perakuan Siap dan Pematuhan (CCC)"
 seoTitle: "Ubah Suai Rumah: Bila Perlu Kelulusan PBT dan Apa Itu CCC"

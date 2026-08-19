@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-CO-0015
 title: "PLUS Malaysia: Pemegang Konsesi Lebuh Raya Nasional"
 seoTitle: "PLUS Malaysia Berhad: Pemilikan, Konsesi & Lebuh Raya Utara-Selatan"

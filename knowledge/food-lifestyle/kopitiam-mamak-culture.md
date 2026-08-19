@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-FDL-0009
 title: "Budaya Kopitiam dan Mamak: Tempat Makan Harian Rakyat Malaysia"
 seoTitle: "Budaya Kopitiam & Mamak Malaysia: Sejarah, Cara Pesan, UNESCO"

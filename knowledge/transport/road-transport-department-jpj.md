@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: "MY-LIV-0161"
 title: "JPJ (Road Transport Department): Malaysia's Vehicle and Driver Licensing Authority"
 seoTitle: "JPJ (Road Transport Department): Functions & Services"

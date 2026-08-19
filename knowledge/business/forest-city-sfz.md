@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-BIZ-0048
 title: "Forest City Special Financial Zone — Not the Same Thing as the JS-SEZ"
 seoTitle: "Forest City Special Financial Zone Explained"

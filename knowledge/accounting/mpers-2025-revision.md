@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ACC-0020
 title: "MPERS (2025): What Changes for Private Entities in 2027"
 seoTitle: "MPERS 2025 Revision: Section-by-Section Guide"

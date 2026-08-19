@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-CO-0016
 title: "Permodalan Nasional Berhad (PNB) dan Amanah Saham Bumiputera"
 seoTitle: "PNB dan ASNB: Amanah Saham Bumiputera (ASB) Dijelaskan"

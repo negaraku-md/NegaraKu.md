@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-GOV-0010
 title: "Yang di-Pertuan Agong: Raja Bergilir yang Dipilih Setiap Lima Tahun"
 slug: "yang-di-pertuan-agong"

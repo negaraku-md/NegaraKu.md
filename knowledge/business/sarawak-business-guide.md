@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-BIZ-0075
 title: "Doing Business in Sarawak — SCORE, State Licensing, State Immigration and the Land Code"
 seoTitle: "Doing Business in Sarawak: SCORE and State Law"

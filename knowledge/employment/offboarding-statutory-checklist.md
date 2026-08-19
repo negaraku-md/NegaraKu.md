@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-EMP-0012
 title: "Offboarding statutory checklist"
 seoTitle: "Offboarding Checklist Malaysia — Statutory Duties"

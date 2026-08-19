@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LIV-0021
 title: "MyKad, MyPR dan MyKAS: Tiga Kad Pengenalan JPN, Tiga Status Berbeza"
 slug: "mykad-and-identity-documents"

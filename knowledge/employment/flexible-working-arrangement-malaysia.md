@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-EMP-0033
 title: "Flexible working arrangement requests under s.60P and s.60Q"
 seoTitle: "Flexible working arrangement Malaysia — the 60-day duty"

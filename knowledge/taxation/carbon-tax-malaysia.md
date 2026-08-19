@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TAX-0123
 title: "Malaysia's Incoming Carbon Tax on Iron, Steel and Energy"
 seoTitle: "Malaysia Carbon Tax: Rate, Sectors and Timeline"

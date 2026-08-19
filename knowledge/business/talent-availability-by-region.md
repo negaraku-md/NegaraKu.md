@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-BIZ-0103
 title: "Where Malaysia's Workforce Actually Is — and What It Costs by State"
 seoTitle: "Talent Availability by Region Malaysia"

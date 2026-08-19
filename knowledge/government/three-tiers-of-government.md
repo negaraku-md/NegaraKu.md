@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: "MY-GOV-0050"
 title: "Malaysia's Three Tiers of Government — and the One Malaysians Don't Elect"
 slug: "three-tiers-of-government"

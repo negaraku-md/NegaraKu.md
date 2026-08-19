@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LIV-0080
 title: "Why a Tin of Milo Costs More in Kota Kinabalu Than in Klang"
 slug: "cost-of-living-east-malaysia"

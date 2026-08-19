@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TAX-0134
 title: "Windfall Profit Levy on Crude Palm Oil"
 seoTitle: "Windfall Profit Levy on Palm Oil in Malaysia: Thresholds, Rates and Rules"

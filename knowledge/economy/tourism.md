@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ECO-0010
 title: "Malaysia's Tourism Sector: Why Arrivals and Receipts Tell Two Different Stories"
 slug: "tourism"

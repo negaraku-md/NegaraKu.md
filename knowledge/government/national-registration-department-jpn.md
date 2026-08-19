@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: "MY-GOV-0097"
 title: "National Registration Department (JPN): Malaysia's Civil Registry and MyKad Authority"
 seoTitle: "JPN Malaysia: National Registration Dept Guide"

@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-BIZ-0022
 title: "Registering and Licensing a Business in Sabah"
 seoTitle: "Business Registration in Sabah: The Real Rules"

@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-CS-0047
 title: "Menukar Nama Berdaftar Syarikat"
 seoTitle: "Cara Tukar Nama Syarikat di SSM (Seksyen 28 Akta Syarikat 2016)"

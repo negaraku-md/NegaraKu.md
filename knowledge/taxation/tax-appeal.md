@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TAX-0064
 title: "Appealing an LHDN Tax Assessment"
 seoTitle: "Tax Appeal Malaysia: Form Q, the SCIT and the 30-Day Clock"

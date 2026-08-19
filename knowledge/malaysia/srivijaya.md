@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: "MY-HIS-0048"
 title: "Srivijaya: The Sea Kingdom Behind Melaka's Founding Dynasty"
 slug: "srivijaya"

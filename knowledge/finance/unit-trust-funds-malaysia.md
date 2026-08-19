@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: "MY-FIN-0001"
 title: "Unit Trust Funds in Malaysia: How the Industry Works"
 seoTitle: "Unit Trust Funds in Malaysia: Fees, Categories and How They Work"

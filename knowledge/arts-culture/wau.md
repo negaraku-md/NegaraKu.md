@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ART-0011
 title: "Wau: Layang-Layang yang Berbunyi Sendiri, dan Kenapa Wau Bulan Jadi Lambang Negara"
 seoTitle: "Wau: Layang-Layang Tradisional Malaysia"

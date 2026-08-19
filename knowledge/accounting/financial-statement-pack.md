@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ACC-0004
 title: "What a Malaysian Statutory Financial Statement Pack Contains"
 seoTitle: "Financial Statement Pack Malaysia: 5 Documents"

@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-BIZ-0054
 title: "Patents and Utility Innovations in Malaysia"
 seoTitle: "Patent Malaysia: Utility Innovation vs Patent"

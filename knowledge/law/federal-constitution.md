@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LAW-0004
 title: "Federal Constitution of Malaysia"
 slug: "federal-constitution"

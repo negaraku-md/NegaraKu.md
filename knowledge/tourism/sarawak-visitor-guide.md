@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TOU-0015
 title: "Sarawak Visitor Guide"
 seoTitle: "Sarawak Travel Guide: Entry Rules, Kuching, Mulu & Longhouses"

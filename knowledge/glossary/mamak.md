@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-GLO-0032
 title: "Mamak: Dari Panggilan 'Pak Cik' kepada Nama Sejenis Kedai"
 slug: "mamak"

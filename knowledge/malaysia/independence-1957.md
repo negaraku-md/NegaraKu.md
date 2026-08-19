@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-HIS-0003
 title: "Merdeka: How 31 August 1957 Actually Happened"
 slug: "independence-1957"

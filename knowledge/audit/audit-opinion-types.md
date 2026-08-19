@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-AUD-0013
 title: "The Four Audit Opinions, and Which One You Get"
 seoTitle: "Audit Opinion Types Malaysia: The Two-Axis Test"

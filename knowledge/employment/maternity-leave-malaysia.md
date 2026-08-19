@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-EMP-0031
 title: "Maternity leave and pregnancy protection"
 seoTitle: "Maternity leave Malaysia — 98 days and s.41A protection"

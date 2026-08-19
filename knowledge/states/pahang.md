@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-STA-0010
 title: "Pahang: negeri terluas di Semenanjung, tetapi hanya 46 orang bagi setiap kilometer persegi"
 slug: "pahang"

@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ART-0031
 title: "Peranakan Culture: The Baba-Nyonya World of Melaka and Penang"
 slug: "peranakan"

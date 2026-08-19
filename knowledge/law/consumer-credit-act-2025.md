@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LAW-0066
 title: "Akta Kredit Pengguna 2025 dan Pengawalan Sewa Beli"
 seoTitle: "Akta Kredit Pengguna 2025 & Akta Sewa Beli Malaysia: Panduan"

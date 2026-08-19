@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-CS-0025
 title: "Unaudited Financial Statements: What You Actually Lodge When Exempt"
 seoTitle: "Unaudited Financial Statements Malaysia: Lodgement"

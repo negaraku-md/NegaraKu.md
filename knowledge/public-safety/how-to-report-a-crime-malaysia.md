@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-PS-0007
 title: "Cara Membuat Laporan Polis di Malaysia"
 seoTitle: "Cara Buat Laporan Polis Malaysia: Panduan Langkah demi Langkah"

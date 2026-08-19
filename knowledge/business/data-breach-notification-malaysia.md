@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-BIZ-0066
 title: "Data Breach Notification in Malaysia: The 72-Hour Rule"
 seoTitle: "Data Breach Notification Malaysia: 72 Hours, Explained"

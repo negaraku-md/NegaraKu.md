@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ECO-0024
 title: "Malaysia's Automotive Industry: National Cars, the NAP and the EV Push"
 seoTitle: "Malaysia Automotive Industry: Proton, Perodua, NAP and EVs"

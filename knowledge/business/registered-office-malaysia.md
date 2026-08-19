@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-BIZ-0008
 title: "Registered Office, Business Address and Virtual Office in Malaysia"
 seoTitle: "Registered Office Malaysia: Rules and Limits"

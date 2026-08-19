@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ACC-0026
 title: "A Director's Right to Inspect the Accounting Records"
 slug: "director-right-to-inspect-records"

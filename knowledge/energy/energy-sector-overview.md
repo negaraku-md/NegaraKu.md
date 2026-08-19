@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ENE-0004
 title: "Sektor Tenaga Malaysia: Peta Lengkap Siapa Buat Apa"
 seoTitle: "Sektor Tenaga Malaysia: Gambaran Menyeluruh dan Peta Institusi"

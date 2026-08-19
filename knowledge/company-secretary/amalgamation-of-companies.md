@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-CS-0046
 title: "Amalgamation of Companies under the Companies Act 2016"
 seoTitle: "Amalgamation of Companies in Malaysia (CA 2016 ss.366 & 370)"

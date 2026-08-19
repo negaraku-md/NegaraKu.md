@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TAX-0004
 title: "Malaysia Personal Tax Reliefs Checklist"
 slug: "personal-tax-reliefs"

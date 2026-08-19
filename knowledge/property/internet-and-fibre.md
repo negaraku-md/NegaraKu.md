@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: "MY-LIV-0037"
 title: "Home Fibre Broadband in Malaysia: Unifi, Maxis, TIME and How to Actually Choose"
 slug: "internet-and-fibre"

@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-FDL-0013
 title: "Bazar Ramadan dan Budaya Juadah Sepanjang Bulan Puasa"
 seoTitle: "Bazar Ramadan Malaysia: Lesen, Juadah dan Etika Pengunjung"

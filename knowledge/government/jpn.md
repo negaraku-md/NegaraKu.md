@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-GOV-0017
 title: "JPN — Jabatan Pendaftaran Negara: dari sijil kelahiran hingga sijil kematian"
 slug: "jpn"

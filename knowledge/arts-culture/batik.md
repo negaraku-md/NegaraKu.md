@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ART-0002
 title: "Batik: The Craft That Draws With Wax Instead of Dye"
 slug: "batik"

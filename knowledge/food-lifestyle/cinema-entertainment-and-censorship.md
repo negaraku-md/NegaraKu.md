@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-FDL-0002
 title: "Pawagam, Hiburan dan Peraturan Penapisan di Malaysia"
 seoTitle: "Klasifikasi Filem, Penapisan & Lesen Hiburan Malaysia"

@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-BIZ-0016
 title: "Registering a Foreign Company Branch in Malaysia"
 seoTitle: "Foreign Company Branch Malaysia: s.561-562 Guide"

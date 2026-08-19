@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TAX-0032
 title: "Sales Tax in Malaysia — Rates, Mechanics and Exemptions"
 slug: "sales-tax-explained"

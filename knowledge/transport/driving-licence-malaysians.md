@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LIV-0005
 title: "Lesen L, P, CDL: Bagaimana Proses Lesen Memandu JPJ Sebenarnya Berfungsi"
 slug: "driving-licence-malaysians"

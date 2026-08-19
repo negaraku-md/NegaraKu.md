@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-AUD-0023
 title: "Mengapa PLT Tidak Perlu Diaudit (dan Bila Ia Masih Perlu)"
 seoTitle: "Adakah Perkongsian Liabiliti Terhad (PLT) Perlu Diaudit di Malaysia?"

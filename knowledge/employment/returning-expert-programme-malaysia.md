@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-EMP-0053
 title: "Returning Expert Programme: Hiring Back Malaysian Diaspora Talent"
 seoTitle: "Returning Expert Programme (REP) Malaysia: 15% Tax Rate & Eligibility"

@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-BIZ-0107
 title: "Doing Business in Sabah: A Different Statute Book"
 seoTitle: "Doing Business in Sabah: Cap. 144 and State Law"

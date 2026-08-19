@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: "MY-GOV-0100"
 title: "Local Government in Malaysia: Councils, Powers, and the Missing Third Vote"
 seoTitle: "Local Government in Malaysia (PBT): Councils & Powers"

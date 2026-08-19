@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TAX-0036
 title: "Service Tax Groups A to M — Rate and Threshold Reference"
 seoTitle: "SST Rate Table Malaysia — Groups A to M"

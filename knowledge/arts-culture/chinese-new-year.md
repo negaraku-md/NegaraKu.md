@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: "MY-ART-0021"
 title: "马来西亚的农历新年：团圆饭、红包与舞狮背后的意义"
 slug: "chinese-new-year"

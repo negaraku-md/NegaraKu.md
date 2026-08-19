@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LIV-0089
 title: "Sumbangan Tunai Rahmah (STR): Siapa Layak, dan Cara Sebenar Memohon atau Menyemak"
 slug: "str-cash-aid"

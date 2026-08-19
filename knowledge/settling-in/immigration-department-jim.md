@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: "MY-LIV-0160"
 title: "The Immigration Department of Malaysia (JIM): What It Does and Every Service It Runs"
 seoTitle: "Immigration Dept of Malaysia (JIM): Services & Fees"

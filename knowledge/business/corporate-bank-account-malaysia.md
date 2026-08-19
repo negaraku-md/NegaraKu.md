@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-BIZ-0040
 title: "Opening a Corporate Bank Account in Malaysia — Including Why Foreign-Owned Companies Get Declined"
 seoTitle: "Corporate Bank Account Malaysia: The Honest Guide"

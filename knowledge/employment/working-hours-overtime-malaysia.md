@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-EMP-0022
 title: "Working hours, rest days and overtime pay"
 seoTitle: "Overtime pay Malaysia — rates, caps and payment deadline"

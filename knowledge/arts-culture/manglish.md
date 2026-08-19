@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ART-0028
 title: "Manglish: The Grammar, Particles and Loanwords Behind Malaysia's Everyday English"
 slug: "manglish"

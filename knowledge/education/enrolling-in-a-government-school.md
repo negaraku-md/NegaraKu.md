@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LIV-0054
 title: "Cara Daftarkan Anak ke Sekolah Kerajaan: Umur Masuk, Dokumen dan Sistem idMe"
 slug: "enrolling-in-a-government-school"

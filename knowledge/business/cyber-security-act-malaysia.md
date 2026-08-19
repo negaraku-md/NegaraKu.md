@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-BIZ-0113
 title: "Cyber Security Act 2024: NCII Obligations for Malaysian Businesses"
 seoTitle: "Malaysia Cyber Security Act 2024 (Act 854): NCII Duties Explained"

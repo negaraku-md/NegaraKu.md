@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-BIZ-0010
 title: "Share Capital, Paid-Up Capital and Allotting Shares in Malaysia"
 seoTitle: "Share Capital Malaysia: No Par Value and Paid-Up"

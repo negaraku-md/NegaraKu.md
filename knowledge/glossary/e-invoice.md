@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-GLO-0006
 title: "e-Invoice"
 slug: "e-invoice"

@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-FIN-0012
 title: "PayNet and DuitNow: Malaysia's National Payments Infrastructure"
 seoTitle: "PayNet & DuitNow Explained: Malaysia's Payment Network"

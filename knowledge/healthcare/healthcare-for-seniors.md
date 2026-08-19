@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: "MY-LIV-0049"
 title: "When a Parent Can No Longer Manage Alone: Elderly Care Options in Malaysia"
 slug: "healthcare-for-seniors"

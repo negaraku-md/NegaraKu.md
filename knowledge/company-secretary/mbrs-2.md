@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-CS-0015
 title: "MBRS 2.0: Filing Annual Returns and Financial Statements to SSM in XBRL"
 seoTitle: "MBRS 2.0 Malaysia: Filing Guide & Requirements"

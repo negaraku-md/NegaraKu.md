@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ECO-0034
 title: "PADU: Enjin Data di Sebalik Rasionalisasi Subsidi Malaysia"
 seoTitle: "PADU dan Rasionalisasi Subsidi Bersasar Malaysia"

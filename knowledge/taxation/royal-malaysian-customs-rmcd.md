@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: "MY-TAX-0135"
 title: "Royal Malaysian Customs Department (RMCD): What It Does and Where You Meet It"
 seoTitle: "Royal Malaysian Customs Department Explained"

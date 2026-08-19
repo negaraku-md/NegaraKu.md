@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LIV-0142
 title: "Overstaying a Pass in Malaysia: Compounds, the Blacklist, and Getting Off It"
 seoTitle: "Malaysia Immigration Overstay: Fines, Blacklist & Appeals"

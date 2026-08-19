@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ENE-0008
 title: "Hidrokuasa di Malaysia"
 seoTitle: "Hidrokuasa Malaysia: Kenyir, Bakun, Murum & Baleh"

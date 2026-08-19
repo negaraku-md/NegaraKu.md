@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-EMP-0025
 title: "Hiring Foreign Workers — the Full Approval Chain"
 seoTitle: "Hiring Foreign Workers Malaysia: s.60K to PLKS"

@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LAW-0021
 title: "Article 152: The Six Clauses That Define Malaysia's National Language"
 slug: "article-152-language"

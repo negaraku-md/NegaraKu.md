@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TAX-0062
 title: "Joint or Separate Assessment: Where the Break-Even Sits"
 seoTitle: "Joint or Separate Assessment Malaysia"

@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-LAW-0063
 title: "Jabatan Peguam Negara: Peguam Kerajaan dan Pendakwa Raya"
 seoTitle: "Jabatan Peguam Negara Malaysia: Peranan dan Kuasa Perkara 145"

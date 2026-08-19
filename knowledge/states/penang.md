@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ST-0003
 title: "Penang"
 slug: "penang"

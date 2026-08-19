@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TAX-0110
 title: "The New Incentive Framework — Malaysia's Replacement for Pioneer Status"
 seoTitle: "New Incentive Framework Malaysia: NIF Replaces Pioneer Status"

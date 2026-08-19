@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-IND-0011
 title: "Malaysia's Logistics & Ports Industry"
 seoTitle: "Malaysia Ports & Logistics: Port Klang, PTP and the Freight Hub Explained"

@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-STA-0008
 title: "Melaka: negeri tanpa Sultan, bandar berlapis Portugis, Belanda dan British"
 slug: "melaka"

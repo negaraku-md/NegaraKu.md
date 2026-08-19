@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ACC-0001
 title: "MFRS or MPERS: Which Framework Does Your Company Use?"
 seoTitle: "MFRS vs MPERS Malaysia: Which Applies"

@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-ACC-0029
 title: "Consolidated Financial Statements: When a Group Must Report as One"
 seoTitle: "Consolidated Financial Statements in Malaysia: MFRS 10 Control Test"

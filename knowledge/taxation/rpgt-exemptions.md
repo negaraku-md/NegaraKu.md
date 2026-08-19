@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TAX-0042
 title: "RPGT Exemptions and the CKHT Forms"
 slug: "rpgt-exemptions"

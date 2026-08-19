@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-PS-0001
 title: "Angkatan Pertahanan Awam Malaysia (APM)"
 seoTitle: "APM: Peranan, Sejarah dan Struktur Angkatan Pertahanan Awam Malaysia"

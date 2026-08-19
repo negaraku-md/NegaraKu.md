@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TAX-0061
 title: "Malaysia's Double Taxation Agreement Network — Treaty Rates by Country"
 seoTitle: "Malaysia DTA Rates — Dividends, Interest, Royalties"

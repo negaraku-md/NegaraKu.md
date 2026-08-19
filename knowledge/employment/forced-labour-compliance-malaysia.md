@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-EMP-0038
 title: "Forced Labour Compliance and Export Exposure"
 seoTitle: "Forced Labour Compliance Malaysia: s.90B and WROs"

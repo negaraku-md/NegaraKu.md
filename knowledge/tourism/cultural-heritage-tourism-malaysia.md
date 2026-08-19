@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-TOU-0002
 title: "Cultural and Heritage Tourism in Malaysia"
 seoTitle: "Malaysia Cultural & Heritage Tourism: UNESCO Sites, Homestays, Etiquette"

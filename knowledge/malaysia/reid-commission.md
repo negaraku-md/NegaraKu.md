@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-HIS-0060
 title: "The Reid Commission: How Five Commonwealth Jurists Drafted Malaya's Constitution"
 slug: "reid-commission"

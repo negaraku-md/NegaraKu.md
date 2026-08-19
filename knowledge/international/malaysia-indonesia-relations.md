@@ -1,5 +1,4 @@
 ---
-hidden: true
 topicId: MY-INT-0008
 title: "Hubungan Malaysia–Indonesia"
 seoTitle: "Hubungan Malaysia–Indonesia: Pekerja Migran, Sempadan & Kerjasama"
