@@ -89,31 +89,26 @@ const values = [
   },
 ];
 
-const timeline = [
-  { date: '2026-07-22', text: L('NegaraKu.md dilancarkan sebagai projek sumber terbuka.', 'NegaraKu.md launches as an open-source project.', 'NegaraKu.md 作为开源项目启动。') },
-  { date: '2026-08-10', text: L('Korpus mencapai paras tiga bahasa penuh — 1,015 topik × 3.', 'Corpus reaches full trilingual parity — 1,015 topics × 3.', '语料库达成完整三语对等——1,015 个主题 × 3。') },
-];
-
-const faqs = [
+// "Explore more" — point to the dedicated pages instead of duplicating them
+// here (the FAQ and a real, live changelog both have their own pages now).
+const more = [
   {
-    q: L('Apa bezanya dengan Wikipedia?', 'How is this different from Wikipedia?', '与维基百科有何不同？'),
-    a: L('NegaraKu.md ialah naratif yang dikurasi dalam Markdown, direka untuk manusia dan AI, dengan satu sumber kebenaran di GitHub — bukan ensiklopedia yang boleh disunting sesiapa secara langsung.', 'NegaraKu.md is curated narrative in Markdown, designed for humans and AI, with a single source of truth on GitHub — not an encyclopedia anyone edits live.', 'NegaraKu.md 是以 Markdown 撰写、面向人类与 AI 的策展叙事，事实来源统一存于 GitHub——并非任何人都能实时编辑的百科。'),
+    icon: '❓',
+    title: L('Soalan Lazim', 'FAQ', '常见问题'),
+    desc: L('Jawapan kepada soalan yang paling kerap ditanya.', 'Answers to the most common questions.', '最常见问题的解答。'),
+    href: localePath('/faq', locale),
   },
   {
-    q: L('Bagaimana kualiti dijamin?', 'How is quality ensured?', '如何保证质量？'),
-    a: L('Setiap artikel dipetik sumbernya dan melalui tangga draf → disemak → diterbitkan, dengan pengimbas kesihatan automatik pada setiap binaan.', 'Every article is cited and moves through a draft → reviewed → published ladder, with an automated health scanner on every build.', '每篇文章都注明来源，并经过草稿→审阅→发布的流程，每次构建都有自动健康扫描。'),
+    icon: '📝',
+    title: L('Log Perubahan', 'Changelog', '更新日志'),
+    desc: L('Apa yang berubah — terus daripada sejarah GitHub.', 'What’s changed — straight from the GitHub history.', '有何变化——直接来自 GitHub 历史。'),
+    href: localePath('/changelog', locale),
   },
   {
-    q: L('Bagaimana isu sensitif dikendalikan?', 'How are sensitive topics handled?', '如何处理敏感话题？'),
-    a: L('Topik sensitif (kaum, agama, institusi diraja, perlembagaan) dilabel mengikut satu piawai klasifikasi, mesti bersumber dan neutral, dan disemak manusia sebelum diterbitkan.', 'Sensitive topics (race, religion, royalty, the constitution) are labelled by a single classification standard, must be sourced and neutral, and are human-reviewed before publishing.', '敏感话题（种族、宗教、王室、宪法）依统一的分类标准标注，必须注明来源、保持中立，并在发布前经人工审阅。'),
-  },
-  {
-    q: L('Bolehkah AI menggunakan kandungan ini?', 'Can AI use this content?', 'AI 可以使用这些内容吗？'),
-    a: L('Ya — setiap halaman menyediakan Markdown mentah, dan laman ini menerbitkan llms.txt untuk model bahasa besar.', 'Yes — every page offers its raw Markdown, and the site publishes an llms.txt for large language models.', '可以——每个页面都提供原始 Markdown，网站也发布 llms.txt 供大型语言模型使用。'),
-  },
-  {
-    q: L('Apakah lesennya?', 'What is the license?', '采用什么许可？'),
-    a: L('Kandungan di bawah CC BY-SA 4.0; kod di bawah MIT.', 'Content under CC BY-SA 4.0; code under MIT.', '内容采用 CC BY-SA 4.0，代码采用 MIT。'),
+    icon: '👥',
+    title: L('Penyumbang', 'Contributors', '贡献者'),
+    desc: L('Orang yang menulis dan menyemak korpus ini.', 'The people who write and review this corpus.', '撰写和审阅本语料库的人。'),
+    href: localePath('/contributors', locale),
   },
 ];
 ---
@@ -255,24 +250,19 @@ const faqs = [
   </div>
 </section>
 
-<section class="container block two">
+<section class="container block">
   <div class="psec">
-    <header><span>{L('Garis masa', 'Timeline', '时间线')}</span></header>
+    <header><span>{L('Ketahui lebih lanjut', 'Explore more', '了解更多')}</span></header>
     <div class="psec-body">
-      <ul class="timeline">
-        {timeline.map((m) => <li><span class="tl-date">{m.date}</span><span>{m.text}</span></li>)}
-      </ul>
-    </div>
-  </div>
-  <div class="psec">
-    <header><span>{L('Soalan lazim', 'FAQ', '常见问题')}</span></header>
-    <div class="psec-body">
-      {faqs.map((f) => (
-        <details class="faq">
-          <summary>{f.q}</summary>
-          <p>{f.a}</p>
-        </details>
-      ))}
+      <div class="morecards">
+        {more.map((m) => (
+          <a class="morecard" href={m.href}>
+            <span class="mico" aria-hidden="true">{m.icon}</span>
+            <b>{m.title} <span class="arr">→</span></b>
+            <p>{m.desc}</p>
+          </a>
+        ))}
+      </div>
     </div>
   </div>
 </section>
@@ -360,15 +350,19 @@ const faqs = [
   .pcard p { margin: 0; color: var(--ink-soft); font-size: 0.9rem; line-height: 1.6; }
 
   .two { display: grid; grid-template-columns: 1fr 1fr; gap: 1.6rem; }
-  .timeline { list-style: none; padding: 0; margin: 0; }
-  .timeline li { display: grid; grid-template-columns: 6.5rem 1fr; gap: 0.75rem; padding: 0.55rem 0; border-left: 2px solid var(--gold); padding-left: 1rem; }
-  .timeline li + li { margin-top: 0.1rem; }
-  .tl-date { color: var(--gold); font-weight: 700; font-size: 0.82rem; }
 
-  .faq { border: 1px solid var(--line); border-radius: 10px; padding: 0.2rem 1rem; margin: 0 0 0.55rem; background: var(--surface-2); }
-  .faq:last-child { margin-bottom: 0; }
-  .faq summary { cursor: pointer; font-weight: 700; padding: 0.55rem 0; }
-  .faq p { color: var(--ink-soft); margin: 0 0 0.6rem; line-height: 1.6; }
+  /* Explore more — link cards to the dedicated pages (FAQ, Changelog, Contributors). */
+  .morecards { display: grid; grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr)); gap: 1rem; }
+  .morecard {
+    display: block; text-decoration: none; background: var(--surface-2);
+    border: 1px solid var(--line); border-radius: 10px; padding: 1.1rem 1.15rem;
+    transition: border-color 0.15s, transform 0.15s;
+  }
+  .morecard:hover { border-color: var(--gold); transform: translateY(-2px); }
+  .mico { font-size: 1.4rem; }
+  .morecard b { display: block; font-family: var(--font-title); font-size: 1.02rem; margin: 0.4rem 0 0.35rem; color: var(--ink); }
+  .morecard .arr { color: var(--gold); }
+  .morecard p { margin: 0; color: var(--ink-soft); font-size: 0.9rem; line-height: 1.6; }
 
   .sponsor-block { padding-bottom: 3rem; }
   .split-body { display: flex; align-items: center; justify-content: space-between; gap: 1.5rem; flex-wrap: wrap; }
