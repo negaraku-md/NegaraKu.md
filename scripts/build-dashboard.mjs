@@ -26,7 +26,11 @@ async function main() {
   // — and About, Explore, every pillar — read 1015. The 36 in-review drafts are
   // real work, but they are NOT live; they appear ONLY in the editorial-pipeline
   // sections below (lifecycle matrix + needsReview), never in a size figure.
-  const LIVE_STATUSES = new Set(['published', 'needs-update', 'in-update']);
+  // Keep in lockstep with src/lib/content.ts LIVE_STATUSES.
+  const LIVE_STATUSES = new Set([
+    'published', 'needs-update', 'in-update',
+    'request-redraft', 'in-redraft', 'request-archive', 'in-archive',
+  ]);
   const isPublishable = (a) =>
     LIVE_STATUSES.has(a.status) &&
     (!a.sensitivity || a.sensitivity === 'none' || Boolean(a.reviewer));
