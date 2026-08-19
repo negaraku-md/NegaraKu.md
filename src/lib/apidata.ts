@@ -135,3 +135,25 @@ export function mostReadKeys(articles: Article[], limit = 4): string[] {
     .slice(0, limit)
     .map((x) => `${x.data.category}/${x.data.slug}`);
 }
+
+// Auto-generated contributor roll (scripts/build-credits.mjs → credits.json).
+export interface CreditPerson {
+  name: string;
+  roles: string[]; // subset of author | contributor | reviewer
+  articles: number;
+  authored: number;
+  contributions: number;
+  reviews: number;
+}
+export interface Credits {
+  generatedAt: string;
+  stats: { people: number; topics: number; aiAssistedTopics: number; reviews: number; contributions: number };
+  people: CreditPerson[];
+}
+export function getCredits(): Credits {
+  return read<Credits>('credits.json', {
+    generatedAt: '',
+    stats: { people: 0, topics: 0, aiAssistedTopics: 0, reviews: 0, contributions: 0 },
+    people: [],
+  });
+}

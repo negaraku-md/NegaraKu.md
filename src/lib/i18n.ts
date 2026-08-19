@@ -65,6 +65,8 @@ const STRINGS = {
   'nav.donate': { ms: 'Derma Token AI Anda', en: 'Donate Your AI Token', zh: '捐赠你的 AI Token' },
   'nav.support': { ms: 'Sokong NegaraKu.md', en: 'Support NegaraKu.md', zh: '支持 NegaraKu.md' },
   'nav.whyContribute': { ms: 'Kenapa Menyumbang', en: 'Why Contribute', zh: '为何贡献' },
+  'nav.roles': { ms: 'Peranan & Cara Ia Berfungsi', en: 'Roles & How It Works', zh: '角色与运作方式' },
+  'nav.contributors': { ms: 'Penyumbang', en: 'Contributors', zh: '贡献者' },
   'nav.cli': { ms: 'Alat CLI', en: 'CLI Tool', zh: 'CLI 工具' },
   'nav.github': { ms: 'GitHub', en: 'GitHub', zh: 'GitHub' },
   'nav.reportIssue': { ms: 'Laporkan Isu', en: 'Report an Issue', zh: '报告问题' },

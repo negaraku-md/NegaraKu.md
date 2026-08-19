@@ -1,0 +1,216 @@
+---
+import type { Locale } from '@/lib/categories';
+import { localePath } from '@/lib/i18n';
+import { REPO } from '@/lib/site';
+import PageHero from './PageHero.astro';
+
+interface Props {
+  locale: Locale;
+}
+const { locale } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+// Prefilled "request org access" issue (spec §12, step 2).
+const requestAccessUrl =
+  `${REPO}/issues/new?` +
+  new URLSearchParams({
+    labels: 'scope:community',
+    title: 'Request access: contributor',
+    body:
+      "I'd like org membership so I can claim Worklist items and push branches.\n\n" +
+      '**GitHub username:**\n\n**What I want to work on:**\n\n**Accepted PRs so far (links, if any):**\n',
+  }).toString();
+
+// The four cumulative roles (spec §9). Each can do everything above it, plus its
+// own row. `become` explains how you get there (ties to §12).
+const roles = [
+  {
+    key: 'reader',
+    icon: '📖',
+    name: L('Pembaca', 'Reader', '读者'),
+    tag: L('Terbuka untuk semua', 'Open to all', '人人可参与'),
+    open: true,
+    can: [
+      L('Baca setiap artikel dalam tiga bahasa', 'Read every article in three languages', '以三种语言阅读所有文章'),
+      L('Laporkan isu atau masalah terjemahan pada mana-mana halaman', 'Report an issue or translation problem on any page', '在任意页面报告问题或翻译问题'),
+      L('Cadangkan topik baharu atau penambahbaikan laman', 'Suggest a new topic or a site improvement', '建议新主题或网站改进'),
+    ],
+    become: L(
+      'Tiada apa-apa diperlukan untuk membaca. Untuk memfailkan maklum balas, anda hanya perlukan akaun GitHub percuma — setiap butang “Laporkan” membuka isu yang telah diisi.',
+      'Nothing is needed to read. To file feedback you only need a free GitHub account — every “Report” button opens a pre-filled issue.',
+      '阅读无需任何条件。提交反馈只需一个免费的 GitHub 账户——每个"报告"按钮都会打开预填的 issue。',
+    ),
+  },
+  {
+    key: 'contributor',
+    icon: '✍️',
+    name: L('Penyumbang', 'Contributor', '贡献者'),
+    tag: L('Akses org', 'Org access', '组织权限'),
+    open: false,
+    can: [
+      L('Menulis dan menterjemah artikel (dipandu AI, mengikut piawai)', 'Write and translate articles (AI-guided, to standard)', '撰写和翻译文章（AI 引导，符合标准）'),
+      L('Tuntut item dalam Senarai Kerja dan kerjakannya', 'Claim an item in the Worklist and work it', '认领工作清单中的条目并处理'),
+      L('Buka pull request; ditambah ke sejarah perubahan artikel', 'Open pull requests; added to an article’s change history', '发起 pull request；记入文章的修改历史'),
+    ],
+    become: L(
+      'Sesiapa boleh menyumbang buat kali pertama melalui fork + pull request — tiada keahlian org diperlukan. Keahlian org (yang membuka penuntutan item Senarai Kerja) diberikan atas permintaan atau selepas beberapa PR diterima.',
+      'Anyone can make a first contribution via fork + pull request — no org membership needed. Org membership (which unlocks claiming Worklist items) is granted on request or after a few accepted PRs.',
+      '任何人都可以通过 fork + pull request 进行首次贡献——无需组织成员资格。组织成员资格（可认领工作清单条目）在申请后或若干 PR 被接受后授予。',
+    ),
+    cta: { label: L('Mohon akses org', 'Request org access', '申请组织权限'), href: requestAccessUrl, external: true },
+  },
+  {
+    key: 'reviewer',
+    icon: '✓',
+    name: L('Penyemak', 'Reviewer', '审阅者'),
+    tag: L('Dijemput', 'Nominated', '提名'),
+    open: false,
+    can: [
+      L('Luluskan artikel yang telah disemak — di mana pelulus ≠ pelaksana (empat mata)', 'Approve reviewed articles — where approver ≠ the person who did the work (four-eyes)', '批准已审阅的文章——批准者 ≠ 执行者（四眼原则）'),
+      L('Tandatangani kandungan sensitif (3R+1) untuk penerbitan', 'Sign off sensitive (3R+1) content for publication', '为敏感（3R+1）内容签署发布'),
+      L('Beri lencana “Disemak manusia” yang menjadi asas kepercayaan laman', 'Grant the “Human-reviewed” badge that underpins the site’s trust', '授予支撑网站信任的"人工审阅"徽章'),
+    ],
+    become: L(
+      'Status Penyemak diperoleh, bukan diminta: rekod sumbangan yang bermakna, tabiat memetik sumber utama, kepakaran domain sebenar, dan neutraliti. Seorang penyelenggara mencalonkan anda melalui PR yang menambah nama anda ke scripts/health/reviewers.txt.',
+      'Reviewer status is earned, not requested: a real track record, a habit of citing primary sources, genuine domain footing, and neutrality. A maintainer nominates you via a PR adding your name to scripts/health/reviewers.txt.',
+      '审阅者身份是赢得的，而非申请的：真实的贡献记录、引用一手来源的习惯、真正的领域功底以及中立性。由维护者通过 PR 将你的名字加入 scripts/health/reviewers.txt 来提名。',
+    ),
+    cta: { label: L('Kriteria penuh penyemak', 'Full reviewer criteria', '完整审阅者标准'), href: `${REPO}/blob/main/scripts/health/reviewers.txt`, external: true },
+  },
+  {
+    key: 'maintainer',
+    icon: '🛡️',
+    name: L('Penyelenggara', 'Maintainer', '维护者'),
+    tag: L('Akses tulis repo', 'Repo write', '仓库写入'),
+    open: false,
+    can: [
+      L('Triaj maklum balas pembaca ke dalam barisan kerja', 'Triage reader feedback into the work queues', '将读者反馈分流到工作队列'),
+      L('Sahkan pengarkiban dan kendalikan lata ke semua terjemahan', 'Confirm archival and handle the cascade to all translations', '确认归档并处理向所有翻译的级联'),
+      L('Jemput penyumbang baharu; gabungkan pull request', 'Invite new contributors; merge pull requests', '邀请新贡献者；合并 pull request'),
+    ],
+    become: L(
+      'Penyelenggara ialah penyumbang dan penyemak yang dipercayai yang mengambil tanggungjawab operasi. Diberikan oleh penyelenggara sedia ada apabila keperluan dan kepercayaan wujud.',
+      'Maintainers are trusted contributors and reviewers who take on operational responsibility. Granted by existing maintainers when the need and the trust are there.',
+      '维护者是承担运营职责的受信任贡献者和审阅者。在需要与信任具备时，由现有维护者授予。',
+    ),
+  },
+];
+---
+
+<PageHero
+  locale={locale}
+  crumb={[
+    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
+    { label: L('Peranan', 'Roles', '角色') },
+  ]}
+  title={L('Peranan & cara ia berfungsi', 'Roles & how it works', '角色与运作方式')}
+  desc={L(
+    'Empat peranan terkumpul. Setiap satu boleh melakukan segala di atasnya, ditambah keupayaannya sendiri — daripada membaca hingga menyelenggara.',
+    'Four cumulative roles. Each can do everything above it, plus its own — from reading all the way to maintaining.',
+    '四个累进的角色。每个角色都能做其上方的一切，外加自身的能力——从阅读一直到维护。',
+  )}
+/>
+
+<!-- Cumulative ladder -->
+<section class="container block">
+  <div class="ladder" aria-hidden="true">
+    {roles.map((r, i) => (
+      <>
+        <span class="rung">{r.icon} {r.name}</span>
+        {i < roles.length - 1 && <span class="rung-join">⊂</span>}
+      </>
+    ))}
+  </div>
+  <p class="ladder-note">{L('“⊂” bermaksud “termasuk dalam” — keupayaan terkumpul ke kanan.', '“⊂” means “is included in” — capabilities accumulate to the right.', '"⊂" 表示"包含于"——能力向右累积。')}</p>
+</section>
+
+<!-- Role cards -->
+<section class="container block roles">
+  {roles.map((r) => (
+    <div class={`psec role-${r.key}`}>
+      <header>
+        <span class="rh"><span class="ri" aria-hidden="true">{r.icon}</span>{r.name}</span>
+        <span class={`rtag ${r.open ? 'open' : 'gated'}`}>{r.tag}</span>
+      </header>
+      <div class="psec-body">
+        <b class="sub">{L('Apa anda boleh buat', 'What you can do', '你能做什么')}</b>
+        <ul class="can">
+          {r.can.map((c) => <li>{c}</li>)}
+        </ul>
+        <b class="sub">{L('Cara menjadi satu', 'How to become one', '如何成为')}</b>
+        <p class="become">{r.become}</p>
+        {r.cta && (
+          <a class="btn btn-ghost" href={r.cta.href} {...(r.cta.external ? { rel: 'noopener' } : {})}>
+            {r.cta.label} ↗
+          </a>
+        )}
+      </div>
+    </div>
+  ))}
+</section>
+
+<!-- Get access ladder (§12) -->
+<section class="container block">
+  <div class="psec">
+    <header><span>{L('Mendapat akses', 'Getting access', '获取权限')}</span></header>
+    <div class="psec-body">
+      <ol class="access">
+        <li>
+          <b>{L('Sumbang dengan akaun GitHub sendiri', 'Contribute with your own GitHub account', '用你自己的 GitHub 账户贡献')}</b>
+          <span>{L('Fork + pull request. Tiada keahlian org diperlukan untuk sumbangan pertama.', 'Fork + pull request. No org membership needed for a first contribution.', 'Fork + pull request。首次贡献无需组织成员资格。')}</span>
+        </li>
+        <li>
+          <b>{L('Keahlian org negaraku-md', 'negaraku-md org membership', 'negaraku-md 组织成员')}</b>
+          <span>{L('Membuka penuntutan item Senarai Kerja dan cabang layan-diri. Diberi atas permintaan atau selepas beberapa PR diterima.', 'Unlocks claiming Worklist items and self-service branches. Granted on request or after a few accepted PRs.', '可认领工作清单条目和自助分支。在申请后或若干 PR 被接受后授予。')} <a href={requestAccessUrl} rel="noopener">{L('Mohon akses', 'Request access', '申请权限')} ↗</a></span>
+        </li>
+        <li>
+          <b>{L('Status Penyemak', 'Reviewer status', '审阅者身份')}</b>
+          <span>{L('Selain itu memerlukan penambahan ke reviewers.txt melalui proses pencalonan.', 'Additionally requires being added to reviewers.txt via the nomination process.', '此外还需通过提名流程加入 reviewers.txt。')}</span>
+        </li>
+      </ol>
+      <div class="join-acts">
+        <a class="btn btn-primary" href={localePath('/contribute', locale)}>{L('Mula menyumbang', 'Start contributing', '开始贡献')} →</a>
+        <a class="btn btn-ghost" href={localePath('/contributors', locale)}>{L('Lihat penyumbang', 'See contributors', '查看贡献者')} →</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+  .block { margin-top: 1.6rem; }
+  .psec { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; overflow: hidden; }
+  .psec > header {
+    display: flex; align-items: center; justify-content: space-between; gap: 1rem;
+    padding: 0.55rem 0.95rem; background: var(--surface-2); border-bottom: 1px solid var(--line);
+  }
+  .rh { display: inline-flex; align-items: center; gap: 0.5rem; font-family: var(--font-title); font-size: 1.1rem; font-weight: 700; color: var(--ink); }
+  .ri { font-size: 1.2rem; }
+  .rtag { font-size: 0.64rem; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; border-radius: 999px; padding: 0.14rem 0.6rem; border: 1px solid var(--line); }
+  .rtag.open { color: #4ade80; border-color: color-mix(in srgb, #4ade80 45%, var(--line)); }
+  .rtag.gated { color: var(--gold); border-color: color-mix(in srgb, var(--gold) 45%, var(--line)); }
+  .psec-body { padding: 1.2rem; }
+
+  /* Ladder */
+  .ladder { display: flex; flex-wrap: wrap; align-items: center; gap: 0.55rem; }
+  .rung { font-weight: 700; color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: 999px; padding: 0.35rem 0.9rem; font-size: 0.9rem; }
+  .rung-join { color: var(--gold); font-weight: 800; }
+  .ladder-note { margin: 0.6rem 0 0; color: var(--muted); font-size: 0.82rem; }
+
+  .roles { display: grid; grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr)); gap: 1rem; }
+  .sub { display: block; font-family: var(--font-title); font-size: 0.72rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); margin: 0 0 0.5rem; }
+  .can { margin: 0 0 1.1rem; padding-left: 1.1rem; display: grid; gap: 0.4rem; color: var(--ink-soft); font-size: 0.92rem; line-height: 1.5; }
+  .become { margin: 0 0 1rem; color: var(--ink-soft); font-size: 0.9rem; line-height: 1.6; }
+
+  .access { list-style: none; counter-reset: acc; margin: 0 0 1.2rem; padding: 0; display: grid; gap: 0.7rem; }
+  .access li { display: grid; grid-template-columns: auto 1fr; gap: 0.15rem 0.9rem; counter-increment: acc; }
+  .access li::before {
+    content: counter(acc); grid-row: 1 / span 2; align-self: start;
+    display: inline-flex; align-items: center; justify-content: center; width: 1.7rem; height: 1.7rem;
+    border-radius: 999px; background: var(--surface-2); border: 1px solid var(--line); color: var(--gold); font-weight: 800; font-family: var(--font-title);
+  }
+  .access b { font-family: var(--font-title); color: var(--ink); }
+  .access span { color: var(--ink-soft); font-size: 0.9rem; line-height: 1.55; }
+  .access a { color: var(--gold); text-decoration: underline; text-underline-offset: 2px; font-weight: 600; }
+
+  .join-acts { display: flex; flex-wrap: wrap; gap: 0.6rem; }
+</style>

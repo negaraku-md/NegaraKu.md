@@ -1,0 +1,9 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import ContributorsView from '@/components/ContributorsView.astro';
+const locale = 'zh';
+---
+
+<BaseLayout locale={locale} title="贡献者" path="/contributors">
+  <ContributorsView locale={locale} />
+</BaseLayout>

@@ -99,6 +99,11 @@ async function main() {
       slug: data.slug ?? null,
       summary: data.summary ?? '',
       status: data.status ?? 'draft',
+      // Byline + AI-assist disclosure — the credits page (build-credits.mjs)
+      // aggregates real people from here + the revision log, and counts how many
+      // articles were AI-drafted so the credit is honest.
+      author: data.author ?? 'NegaraKu.md Editorial',
+      aiAssisted: data.aiAssisted ?? true,
       // Editorial mode + chain-of-custody dates — surfaced for the OG social
       // cards (and any other consumer) so they need not re-parse frontmatter.
       mode: data.mode ?? 'practical',

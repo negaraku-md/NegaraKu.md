@@ -1,0 +1,9 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import RolesView from '@/components/RolesView.astro';
+const locale = 'zh';
+---
+
+<BaseLayout locale={locale} title="角色与运作方式" path="/roles">
+  <RolesView locale={locale} />
+</BaseLayout>

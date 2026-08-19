@@ -1,0 +1,9 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import RolesView from '@/components/RolesView.astro';
+const locale = 'en';
+---
+
+<BaseLayout locale={locale} title="Roles & how it works" path="/roles">
+  <RolesView locale={locale} />
+</BaseLayout>

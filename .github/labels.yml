@@ -21,6 +21,11 @@
   color: b60205
   description: Something on the website is broken (display, layout, a control).
 
+# --- Access / community ---
+- name: scope:community
+  color: 5319e7
+  description: Community / access requests (e.g. "request org membership to claim worklist items").
+
 # --- Triage / routing modifiers ---
 - name: scope:feature
   color: c2e0c6

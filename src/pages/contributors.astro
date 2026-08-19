@@ -1,0 +1,9 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import ContributorsView from '@/components/ContributorsView.astro';
+const locale = 'ms';
+---
+
+<BaseLayout locale={locale} title="Penyumbang" path="/contributors">
+  <ContributorsView locale={locale} />
+</BaseLayout>

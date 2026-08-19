@@ -1,0 +1,158 @@
+---
+import type { Locale } from '@/lib/categories';
+import { localePath } from '@/lib/i18n';
+import { getCredits } from '@/lib/apidata';
+import PageHero from './PageHero.astro';
+
+interface Props {
+  locale: Locale;
+}
+const { locale } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+const credits = getCredits();
+const { people, stats } = credits;
+
+const ROLE = {
+  author: { icon: '✍️', label: L('Penulis', 'Author', '作者') },
+  contributor: { icon: '🔧', label: L('Penyumbang', 'Contributor', '贡献者') },
+  reviewer: { icon: '✓', label: L('Penyemak', 'Reviewer', '审阅者') },
+} as const;
+type RoleKey = keyof typeof ROLE;
+
+const initials = (name: string) =>
+  name
+    .replace(/[^\p{L}\p{N} -]/gu, ' ')
+    .split(/[\s-]+/)
+    .filter(Boolean)
+    .slice(0, 2)
+    .map((w) => w[0]!.toUpperCase())
+    .join('') || '·';
+
+const num = (n: number) => n.toLocaleString(locale === 'zh' ? 'zh' : 'en');
+---
+
+<PageHero
+  locale={locale}
+  crumb={[
+    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
+    { label: L('Penyumbang', 'Contributors', '贡献者') },
+  ]}
+  title={L('Penyumbang', 'Contributors', '贡献者')}
+  desc={L(
+    'Orang yang menulis, menyunting dan menyemak NegaraKu.md. Halaman ini dijana automatik daripada sejarah perubahan setiap artikel.',
+    'The people who write, edit and review NegaraKu.md. This page is generated automatically from every article’s change history.',
+    '撰写、编辑和审阅 NegaraKu.md 的人。本页根据每篇文章的修改历史自动生成。',
+  )}
+  stats={[
+    { value: stats.people, label: L('orang', 'people', '人') },
+    { value: stats.reviews, label: L('semakan', 'reviews', '审阅') },
+    { value: stats.topics, label: L('topik', 'topics', '主题') },
+    { value: stats.aiAssistedTopics, label: L('draf AI', 'AI-drafted', 'AI 起草') },
+  ]}
+/>
+
+<!-- AI-assist honesty note (§13) -->
+<section class="container block">
+  <div class="ai-note">
+    <span class="ai-ico" aria-hidden="true">🤖</span>
+    <p>
+      {L(
+        `Kebanyakan artikel bermula sebagai draf berpandukan AI (${num(stats.aiAssistedTopics)} daripada ${num(stats.topics)} topik), kemudian disunting dan disemak oleh manusia yang disenaraikan di bawah. Kami mengiktiraf kedua-duanya secara jujur.`,
+        `Most articles begin as AI-guided drafts (${num(stats.aiAssistedTopics)} of ${num(stats.topics)} topics), then are edited and reviewed by the humans listed below. We credit both, honestly.`,
+        `大多数文章最初是 AI 引导的草稿（${num(stats.topics)} 个主题中的 ${num(stats.aiAssistedTopics)} 个），随后由下方列出的人进行编辑和审阅。我们如实标注两者。`,
+      )}
+    </p>
+  </div>
+</section>
+
+<!-- People -->
+<section class="container block">
+  <div class="psec">
+    <header><span>{L('Orang', 'People', '成员')}</span></header>
+    <div class="psec-body">
+      {people.length === 0 ? (
+        <p class="empty">{L('Belum ada penyumbang manusia direkodkan lagi.', 'No human contributors recorded yet.', '尚未记录人工贡献者。')}</p>
+      ) : (
+        <ul class="people">
+          {people.map((p) => (
+            <li class="person">
+              <span class="avatar" aria-hidden="true">{initials(p.name)}</span>
+              <div class="pmain">
+                <b class="pname">{p.name}</b>
+                <div class="proles">
+                  {(p.roles as RoleKey[]).map((r) => (
+                    <span class={`role role-${r}`}>{ROLE[r].icon} {ROLE[r].label}</span>
+                  ))}
+                </div>
+              </div>
+              <div class="pstats">
+                {p.authored > 0 && <span>{num(p.authored)} {L('ditulis', 'authored', '撰写')}</span>}
+                {p.contributions > 0 && <span>{num(p.contributions)} {L('suntingan', 'edits', '编辑')}</span>}
+                {p.reviews > 0 && <span>{num(p.reviews)} {L('semakan', 'reviews', '审阅')}</span>}
+                <span class="pdim">· {num(p.articles)} {L('artikel', 'articles', '篇文章')}</span>
+              </div>
+            </li>
+          ))}
+        </ul>
+      )}
+    </div>
+  </div>
+</section>
+
+<!-- Join CTA -->
+<section class="container block">
+  <div class="join">
+    <div>
+      <b>{L('Mahu nama anda di sini?', 'Want your name here?', '想让你的名字出现在这里？')}</b>
+      <p>{L('Sesiapa boleh menyumbang. Ketahui peranan dan cara menyertai.', 'Anyone can contribute. Learn the roles and how to join.', '人人都能贡献。了解各角色及加入方式。')}</p>
+    </div>
+    <div class="join-acts">
+      <a class="btn btn-primary" href={localePath('/roles', locale)}>{L('Peranan & cara ia berfungsi', 'Roles & how it works', '角色与运作方式')} →</a>
+      <a class="btn btn-ghost" href={localePath('/contribute', locale)}>{L('Sumbang', 'Contribute', '贡献')} →</a>
+    </div>
+  </div>
+</section>
+
+<style>
+  .block { margin-top: 1.6rem; }
+  .psec { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; overflow: hidden; }
+  .psec > header {
+    padding: 0.45rem 0.95rem; font-size: 1.05rem; font-weight: 700; letter-spacing: 0.03em;
+    text-transform: uppercase; background: var(--surface-2); border-bottom: 1px solid var(--line); font-family: var(--font-title);
+  }
+  .psec > header span { color: var(--gold); }
+  .psec-body { padding: 1.2rem; }
+  .empty { margin: 0; color: var(--muted); }
+
+  .ai-note { display: flex; gap: 0.9rem; align-items: flex-start; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 1rem 1.2rem; }
+  .ai-ico { font-size: 1.4rem; line-height: 1.4; }
+  .ai-note p { margin: 0; color: var(--ink-soft); line-height: 1.6; font-size: 0.92rem; }
+
+  .people { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr)); gap: 0.7rem; }
+  .person { display: flex; align-items: center; gap: 0.85rem; padding: 0.8rem 0.9rem; background: var(--surface-2); border: 1px solid var(--line); border-radius: 10px; }
+  .avatar {
+    flex: none; width: 2.6rem; height: 2.6rem; border-radius: 50%; display: grid; place-items: center;
+    background: color-mix(in srgb, var(--gold) 16%, var(--surface)); color: var(--gold);
+    font-family: var(--font-title); font-weight: 800; font-size: 0.95rem; border: 1px solid color-mix(in srgb, var(--gold) 40%, var(--line));
+  }
+  .pmain { flex: 1; min-width: 0; }
+  .pname { display: block; font-family: var(--font-title); font-size: 1rem; color: var(--ink); }
+  .proles { display: flex; flex-wrap: wrap; gap: 0.3rem; margin-top: 0.25rem; }
+  .role { font-size: 0.7rem; font-weight: 700; letter-spacing: 0.02em; border-radius: 999px; padding: 0.08rem 0.5rem; border: 1px solid var(--line); color: var(--ink-soft); background: var(--surface); }
+  .role-reviewer { color: #4ade80; border-color: color-mix(in srgb, #4ade80 45%, var(--line)); }
+  .role-author { color: var(--gold); border-color: color-mix(in srgb, var(--gold) 45%, var(--line)); }
+  .role-contributor { color: #38bdf8; border-color: color-mix(in srgb, #38bdf8 45%, var(--line)); }
+  .pstats { display: flex; flex-direction: column; align-items: flex-end; gap: 0.1rem; font-size: 0.76rem; color: var(--ink-soft); text-align: right; white-space: nowrap; }
+  .pdim { color: var(--muted); }
+
+  .join { display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: space-between; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 1.2rem 1.4rem; }
+  .join b { font-family: var(--font-title); font-size: 1.05rem; color: var(--ink); }
+  .join p { margin: 0.2rem 0 0; color: var(--ink-soft); font-size: 0.9rem; }
+  .join-acts { display: flex; flex-wrap: wrap; gap: 0.6rem; }
+
+  @media (max-width: 560px) {
+    .person { flex-wrap: wrap; }
+    .pstats { flex-direction: row; flex-wrap: wrap; align-items: baseline; gap: 0.5rem; width: 100%; }
+  }
+</style>
