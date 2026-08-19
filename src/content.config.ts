@@ -184,8 +184,15 @@ const knowledge = defineCollection({
         'in-review',
         'reviewed',
         'published',
+        // Update route (auto/flag → claim → work → review → publish):
         'needs-update',
         'in-update',
+        // Redraft route (human-requested substantive rework):
+        'request-redraft',
+        'in-redraft',
+        // Archive route (retire; cascades to all languages):
+        'request-archive',
+        'in-archive',
         'archived',
       ])
       .default('draft'),
@@ -206,6 +213,23 @@ const knowledge = defineCollection({
     reviewDue: z.coerce.date().nullable().optional(),
     version: z.string().default('0.1'),
     revisions: z.array(revisionSchema).default([]),
+    /**
+     * Two-field lifecycle model (docs/LIFECYCLE-AND-CONTRIBUTION-SPEC.md §2).
+     * `revision` is the PUBLISHED-VERSION slot: null = never published (draft);
+     * 0 = first published; +1 on each later publish (archive does not increment).
+     * Introduced alongside `version`; a migration will make it authoritative and
+     * retire `version`.
+     */
+    revision: z.number().int().nonnegative().nullable().default(null),
+    /**
+     * Work-assignment (contributor worklist, spec §7). When an article is in an
+     * `in-*` state, `assignee` is who claimed it and `claimedAt` is when.
+     */
+    assignee: z.string().nullable().default(null),
+    claimedAt: z.coerce.date().nullable().optional(),
+    /** For `request-redraft` / `request-archive`: who raised it, and why. */
+    requestedBy: z.string().nullable().default(null),
+    requestReason: z.string().nullable().optional(),
     /**
      * 3R+1 and other sensitive classes. Anything other than `none` blocks
      * publication until a named human reviewer signs off.

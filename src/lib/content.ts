@@ -55,7 +55,19 @@ export function readingTime(article: Article): number {
  * (needs-update → in-update) must NOT unpublish a working page: the current
  * version stays live while the next one is prepared.
  */
-export const LIVE_STATUSES = ['published', 'needs-update', 'in-update'] as const;
+// A working page stays LIVE (reader sees the CURRENT version) through every
+// update/redraft/pending-archive state — the next version is prepared without
+// unpublishing. Only draft / in-review / reviewed (pre-first-publish) and the
+// terminal `archived` are not live.
+export const LIVE_STATUSES = [
+  'published',
+  'needs-update',
+  'in-update',
+  'request-redraft',
+  'in-redraft',
+  'request-archive',
+  'in-archive',
+] as const;
 export function isLive(status: string): boolean {
   return (LIVE_STATUSES as readonly string[]).includes(status);
 }
@@ -108,13 +120,19 @@ export function allArticles(): Promise<Article[]> {
   if (MEMO && _allCache) return _allCache;
   const p = getCollection('knowledge').then((c) => {
     if (PREVIEW_ALL) return [...c]; // preview: serve every article, gate off
-    // Hiding the MASTER hides the whole topic — every translation goes with it.
-    const hiddenTopics = new Set(
+    // Withdrawing the MASTER withdraws the whole topic — every translation goes
+    // with it. Two triggers: `hidden` (explicit off switch) and `archived` (the
+    // terminal lifecycle state). A translation can't outlive a retired master.
+    const retiredTopics = new Set(
       c
-        .filter((a) => a.data.hidden && a.data.lang === (a.data.masterLanguage ?? a.data.lang))
+        .filter(
+          (a) =>
+            a.data.lang === (a.data.masterLanguage ?? a.data.lang) &&
+            (a.data.hidden || a.data.status === 'archived'),
+        )
         .map((a) => a.data.topicId),
     );
-    return c.filter((a) => isPublishable(a) && !hiddenTopics.has(a.data.topicId));
+    return c.filter((a) => isPublishable(a) && !retiredTopics.has(a.data.topicId));
   });
   if (MEMO) _allCache = p;
   return p;
