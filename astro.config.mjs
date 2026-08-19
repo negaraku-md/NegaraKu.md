@@ -45,6 +45,14 @@ export default defineConfig({
   // Honor a harness/CI-assigned PORT (enables preview autoPort when 4321 is
   // busy); fall back to Astro's default 4321 for a plain `npm run dev`.
   server: { port: Number(process.env.PORT) || 4321, host: true },
+  vite: {
+    server: {
+      // Let the dev server be reached through a Cloudflare quick tunnel — the
+      // host is a random *.trycloudflare.com, which Vite otherwise blocks (403).
+      // Dev-only; has no effect on `astro build` / production.
+      allowedHosts: ['.trycloudflare.com'],
+    },
+  },
   i18n: {
     defaultLocale: 'ms',
     locales: ['ms', 'en', 'zh'],
