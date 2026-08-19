@@ -32,7 +32,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "958a75d0f014a9a7"
+sourceContentHash: "ef592db783187fbc"
 
 status: "published"
 aiAssisted: true
@@ -127,6 +127,6 @@ keywords: ["SSM Malaysia", "Suruhanjaya Syarikat Malaysia", "Companies Commissio
 | 法令 | [Companies Act 2016](/zh/law/companies-act-2016) |
 | 注册成立公司 | [注册一家 Sdn Bhd](/zh/business/register-sdn-bhd) |
 | 注册 enterprise | [在 EzBiz 注册 enterprise](/zh/business/register-enterprise-ezbiz) |
-| 收费 | [SSM 收费](/zh/company-secretary/ssm-fees-malaysia) |
+| 收费 | [SSM 收费](/zh/business/ssm-fees-malaysia) |
 | 逾期提交罚则 | [SSM 逾期提交费用](/zh/company-secretary/ssm-late-lodgement-fees) |
 | XBRL 提交 | [MBRS 2.0](/zh/company-secretary/mbrs-2) |

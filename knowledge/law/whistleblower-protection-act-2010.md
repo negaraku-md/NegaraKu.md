@@ -105,6 +105,6 @@ The Act protects disclosures made to an enforcement agency — not disclosures b
 ## What's next
 
 - Under the Act, the protections attach where a disclosure is made to a relevant enforcement agency (such as MACC) and before the information is made public.
-- The [MACC / SPRM](/en/law/macc-sprm) overview describes the main agency that handles corruption disclosures.
+- The [MACC / SPRM](/en/government/macc-sprm) overview describes the main agency that handles corruption disclosures.
 - The [Employment Act 1955](/en/law/employment-act-1955) covers related protections and remedies relevant to reprisal in the employment context.
 - Note that Parliament has been debating amendments to Act 711; the protections and grounds above reflect the Act as currently in force, not any proposed changes.

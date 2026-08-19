@@ -30,7 +30,7 @@ faq:
     a: "Jika akses kepada maklumat komponen atau juruaudit dihadkan dan komponen tersebut ketara, juruaudit kumpulan mungkin tidak dapat memperoleh bukti yang mencukupi dan sesuai, yang boleh membawa kepada pendapat berkelayakan atau penafian pendapat ke atas penyata kewangan kumpulan."
 
 lang: "ms"
-sourceContentHash: "8ab11d0e8c3cc635"
+sourceContentHash: "871221203173410a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

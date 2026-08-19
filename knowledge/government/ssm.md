@@ -128,6 +128,6 @@ question from the Act alone is answering from an incomplete source.
 | The statute | [Companies Act 2016](/en/law/companies-act-2016) |
 | Incorporating a company | [Register a Sdn Bhd](/en/business/register-sdn-bhd) |
 | Registering an enterprise | [Register an enterprise on EzBiz](/en/business/register-enterprise-ezbiz) |
-| Fees | [SSM fees](/en/company-secretary/ssm-fees-malaysia) |
+| Fees | [SSM fees](/en/business/ssm-fees-malaysia) |
 | Late lodgement penalties | [SSM late lodgement fees](/en/company-secretary/ssm-late-lodgement-fees) |
 | XBRL lodgement | [MBRS 2.0](/en/company-secretary/mbrs-2) |

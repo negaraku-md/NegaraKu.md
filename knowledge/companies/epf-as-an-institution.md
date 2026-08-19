@@ -156,7 +156,7 @@ KWSP juga sebahagian daripada ekosistem dana milik kerajaan yang lebih luas bers
 
 ## What's next
 
-- Untuk melihat cara KWSP bertindak di pasaran saham dan bon, baca [KWSP sebagai pelabur](/companies/epf-as-investor).
-- Bandingkan mandatnya dengan dua dana kerajaan lain: [Khazanah Nasional](/companies/khazanah) dan [PNB](/companies/pnb).
-- Untuk memahami pasaran tempat KWSP melabur, lihat [Bursa Malaysia](/companies/bursa-malaysia).
+- Untuk melihat cara KWSP bertindak di pasaran saham dan bon, baca [KWSP sebagai pelabur](/economy/epf-as-investor).
+- Bandingkan mandatnya dengan dua dana kerajaan lain: [Khazanah Nasional](/economy/khazanah) dan [PNB](/economy/pnb).
+- Untuk memahami pasaran tempat KWSP melabur, lihat [Bursa Malaysia](/economy/bursa-malaysia).
 - Semak laman rasmi KWSP di kwsp.gov.my untuk laporan tahunan penuh dan pengisytiharan dividen terkini, kerana angka aset dan dividen dikemas kini setiap tahun.

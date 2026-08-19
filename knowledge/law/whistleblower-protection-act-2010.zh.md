@@ -32,7 +32,7 @@ faq:
     a: "第2条将不当行为定义为任何一经证实即构成纪律罪行或刑事罪行的行为。「纪律罪行」另有定义，涵盖公共或私人机构根据法律、行为准则、道德守则、通令或雇佣合约所规定的违纪行为，因此该术语所涵盖的不当行为范围甚广，从贪污到职场不当行为均包括在内。"
 
 lang: "zh"
-sourceContentHash: "e7afd6030df45232"
+sourceContentHash: "b93871feeca0ccf6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -106,6 +106,6 @@ keywords: ["whistleblower protection act 2010", "act 711", "improper conduct", "
 ## 接下来
 
 - 根据本法令，保护适用于向相关执法机构（如MACC）作出、且在资料被公开之前作出的披露。
-- [MACC / SPRM](/zh/law/macc-sprm) 概览介绍了处理贪污披露的主要机构。
+- [MACC / SPRM](/zh/government/macc-sprm) 概览介绍了处理贪污披露的主要机构。
 - [1955年雇佣法令](/zh/law/employment-act-1955) 涵盖在雇佣情境中与报复相关的保护与救济。
 - 请注意，国会一直在辩论对第711号法令的修订；上述保护与理由反映的是现行有效的法令，而非任何拟议的修改。

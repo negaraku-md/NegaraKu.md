@@ -343,4 +343,4 @@ Related reading on NegaraKu.md:
 [SME financing in Malaysia](/en/business/sme-financing-malaysia) ·
 [Equity crowdfunding and P2P financing](/en/business/equity-crowdfunding-p2p-malaysia) ·
 [Cyberjaya tech hub](/en/business/cyberjaya-tech-hub) ·
-[Malaysia's digital economy overview](/en/technology/digital-economy-overview)
+[Malaysia's digital economy overview](/en/industries/digital-economy-overview)

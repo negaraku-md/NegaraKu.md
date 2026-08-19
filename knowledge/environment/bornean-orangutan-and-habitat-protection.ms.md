@@ -34,7 +34,7 @@ faq:
     a: "Tidak semestinya. Tinjauan itu mendapati bahawa populasi di hutan yang diuruskan dengan baik dan dibalak secara lestari seperti Deramakot dan Segama kekal stabil selama 15 tahun, menunjukkan bahawa orangutan boleh terus hidup di hutan pengeluaran apabila ia diuruskan dengan berhati-hati dan kekal terhubung."
 
 lang: "ms"
-sourceContentHash: "2c43ebead37bba0a"
+sourceContentHash: "3e08558cd6bea030"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -135,5 +135,5 @@ Pendekatan Sabah bergantung pada tiga bahagian yang berfungsi bersama. **Undang-
 
 - **Ikuti cerita koridor.** Perhatikan sama ada usaha penghutanan semula dan pembelian tanah di Kinabatangan Hilir menghubungkan semula hutan yang mencukupi untuk menstabilkan populasi itu.
 - **Jejaki tinjauan seterusnya.** Anggaran populasi ketinggalan bertahun-tahun; kiraan yang lebih baharu akan menunjukkan sama ada kenaikan hukuman 2016 dan perlindungan berterusan telah mengubah trend timur.
-- **Baca artikel iringan.** Lihat gambaran keseluruhan kami tentang [Enakmen Pemuliharaan Hidupan Liar 1997](/environment/wildlife-conservation-enactment-1997) dan konteks yang lebih luas mengenai [kelapa sawit dan penebangan hutan](/environment/palm-oil-and-deforestation) di Malaysia.
+- **Baca artikel iringan.** Lihat gambaran keseluruhan kami tentang Enakmen Pemuliharaan Hidupan Liar 1997 dan konteks yang lebih luas mengenai kelapa sawit dan penebangan hutan di Malaysia.
 - **Jika anda melawat,** pilih pengendali dan pusat, seperti Sepilok, yang menyalurkan sokongan kepada kerja pemuliharaan dan pemulihan Jabatan Hidupan Liar Sabah dan bukannya pelancongan sentuhan rapat.

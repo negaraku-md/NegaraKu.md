@@ -33,7 +33,7 @@ faq:
     a: "马来西亚统计局（DOSM）每年发布 ICT 卫星账户（《马来西亚数字经济》刊物），确定 ICT 与电子商务对 GDP 的贡献。统计局也开展《ICT 使用与接入报告》以提供家庭与个人的普及率数字。宽带普及率则由马来西亚通讯及多媒体委员会（SKMM/MCMC）另行发布。"
 
 lang: "zh"
-sourceContentHash: "5e281fea516ae8d6"
+sourceContentHash: "9a3a89f709e2b7ae"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -138,4 +138,4 @@ keywords: ["ekonomi digital malaysia", "sumbangan ict kepada kdnk malaysia", "ak
 
 ## 接下来
 
-在引用任何马来西亚数字经济数字之前，先确定你所指的是哪个指标：对 GDP 的贡献（4513 亿令吉）、增加值（GVAICT 或电子商务 GVA），还是交易额（12301 亿令吉）。关于支持该行业的政策背景与激励措施，请参阅 [MDEC 数字地位](/technology/mdec-digital-status) 与 [数字自由贸易区](/technology/digital-free-trade-zone)。ICT 卫星账户的完整数字由统计局每年更新，通常在第四季度，因此每次都要重新核对参考年份。
+在引用任何马来西亚数字经济数字之前，先确定你所指的是哪个指标：对 GDP 的贡献（4513 亿令吉）、增加值（GVAICT 或电子商务 GVA），还是交易额（12301 亿令吉）。关于支持该行业的政策背景与激励措施，请参阅 [MDEC 数字地位](/business/mdec-digital-status) 与 [数字自由贸易区](/business/digital-free-trade-zone)。ICT 卫星账户的完整数字由统计局每年更新，通常在第四季度，因此每次都要重新核对参考年份。

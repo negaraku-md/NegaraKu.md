@@ -38,7 +38,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "dacae43a07b8e16f"
+sourceContentHash: "0c6b5fee40e498df"
 
 status: "published"
 aiAssisted: true
@@ -229,4 +229,4 @@ NegaraKu.md 上的相关阅读：
 [马来西亚的中小企业融资](/zh/business/sme-financing-malaysia) ·
 [股权众筹与 P2P 融资](/zh/business/equity-crowdfunding-p2p-malaysia) ·
 [赛城科技枢纽](/zh/business/cyberjaya-tech-hub) ·
-[马来西亚数字经济概览](/zh/technology/digital-economy-overview)
+[马来西亚数字经济概览](/zh/industries/digital-economy-overview)

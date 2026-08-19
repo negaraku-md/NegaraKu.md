@@ -32,7 +32,7 @@ faq:
     a: "Seksyen 2 mentakrifkan kelakuan tidak wajar sebagai apa-apa kelakuan yang, jika dibuktikan, merupakan suatu kesalahan tatatertib atau suatu kesalahan jenayah. 'Kesalahan tatatertib' ditakrifkan secara berasingan untuk meliputi pelanggaran tatatertib dalam sesuatu badan awam atau swasta di bawah sesuatu undang-undang, kod tatakelakuan, kod etika, pekeliling atau kontrak pekerjaan, jadi istilah itu merangkumi pelbagai jenis kesalahan, daripada rasuah hinggalah salah laku di tempat kerja."
 
 lang: "ms"
-sourceContentHash: "e7afd6030df45232"
+sourceContentHash: "b93871feeca0ccf6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

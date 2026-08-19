@@ -32,7 +32,7 @@ faq:
     a: "DEB为期20年的期限于1990年结束。它于1991年由国家发展政策（DPN）取代，其后又有其他发展政策。不过，其若干要素与原则在后续政策中得以延续。"
 
 lang: "zh"
-sourceContentHash: "05f71444f540cee7"
+sourceContentHash: "386092ea82711d48"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -84,7 +84,7 @@ keywords: ["Dasar Ekonomi Baru", "DEB", "New Economic Policy", "NEP", "serampang
 
 ## 什么是DEB，它何时开始？
 
-DEB是一项**于1971年推出**的社会经济政策框架，作为[第二个马来西亚计划](/economy/rancangan-malaysia)（1971-1975）的一部分。根据 Economic History Malaysia，该政策文件的最终草案**于1971年7月12日在国会提呈**。
+DEB是一项**于1971年推出**的社会经济政策框架，作为第二个马来西亚计划（1971-1975）的一部分。根据 Economic History Malaysia，该政策文件的最终草案**于1971年7月12日在国会提呈**。
 
 其背景很重要。在1969年5月13日事件之后，国家由**敦阿都拉萨（Tun Abdul Razak Hussein）**领导的**国家行动理事会（Majlis Gerakan Negara，MAGERAN / National Operations Council）**在紧急统治下治理。在那段时期，两种政策思路相互竞争——一种来自更强调增长的经济策划单位（EPU），另一种来自国民团结局，后者主张国家进行更广泛的干预以缩小种族之间的不平等。将这些考量综合起来的结果便成了DEB。
 

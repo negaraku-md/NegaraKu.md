@@ -29,7 +29,7 @@ faq:
     a: "根据《1991年雇员公积金局法令》，传统储蓄每年获保证至少2.50%的回报。伊斯兰储蓄则完全取决于投资组合的实际表现，没有最低保证。"
 
 lang: "zh"
-sourceContentHash: "6c0fa598fd47728f"
+sourceContentHash: "e680578dd6d6768e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -157,7 +157,7 @@ keywords: ["KWSP", "EPF", "dana persaraan", "pelabur institusi", "dividen KWSP",
 
 ## 接下来
 
-- 想了解雇员公积金局如何在股市和债市中运作，请阅读[雇员公积金局作为投资者](/companies/epf-as-investor)。
-- 将其使命与另外两个政府基金进行比较：[国库控股](/companies/khazanah)与[PNB](/companies/pnb)。
-- 想了解雇员公积金局投资的市场，请查看[马来西亚交易所](/companies/bursa-malaysia)。
+- 想了解雇员公积金局如何在股市和债市中运作，请阅读[雇员公积金局作为投资者](/economy/epf-as-investor)。
+- 将其使命与另外两个政府基金进行比较：[国库控股](/economy/khazanah)与[PNB](/economy/pnb)。
+- 想了解雇员公积金局投资的市场，请查看[马来西亚交易所](/economy/bursa-malaysia)。
 - 请浏览雇员公积金局官方网站kwsp.gov.my，查阅完整的年度报告及最新的股息宣布，因为资产和股息数字每年都会更新。

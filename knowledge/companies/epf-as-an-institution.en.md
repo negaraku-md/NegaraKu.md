@@ -29,7 +29,7 @@ faq:
     a: "Conventional Savings are guaranteed a minimum of 2.50% per year under the EPF Act 1991. Shariah Savings, on the other hand, depend entirely on the actual performance of the portfolio, with no minimum guarantee."
 
 lang: "en"
-sourceContentHash: "6c0fa598fd47728f"
+sourceContentHash: "e680578dd6d6768e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -157,7 +157,7 @@ The EPF is also part of a broader ecosystem of government-linked funds alongside
 
 ## What's next
 
-- To see how the EPF acts in the stock and bond markets, read [The EPF as an investor](/companies/epf-as-investor).
-- Compare its mandate with two other government funds: [Khazanah Nasional](/companies/khazanah) and [PNB](/companies/pnb).
-- To understand the market in which the EPF invests, see [Bursa Malaysia](/companies/bursa-malaysia).
+- To see how the EPF acts in the stock and bond markets, read [The EPF as an investor](/economy/epf-as-investor).
+- Compare its mandate with two other government funds: [Khazanah Nasional](/economy/khazanah) and [PNB](/economy/pnb).
+- To understand the market in which the EPF invests, see [Bursa Malaysia](/economy/bursa-malaysia).
 - Check the official EPF website at kwsp.gov.my for the full annual report and the latest dividend declarations, as asset and dividend figures are updated every year.

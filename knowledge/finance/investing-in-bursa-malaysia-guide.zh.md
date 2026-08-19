@@ -34,7 +34,7 @@ faq:
     a: "买入和卖出双方均适用三项收费：券商佣金（由你的券商设定）、交易金额 0.03% 的清算费（上限 1,000 令吉），以及每 1,000 令吉（不足亦以此计）价值 1 令吉的印花税（上限 1,000 令吉）。马交所上市股票的经纪佣金目前豁免服务税。"
 
 lang: "zh"
-sourceContentHash: "231fce269badb85e"
+sourceContentHash: "2aa2d9243406a229"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -137,4 +137,4 @@ CDS 账户是保险库；交易账户是你下单的柜台。两者你都需要�
 
 ## 下一步
 
-在下定决心之前先比较券商：佣金费率由各家公司自行设定，因此平台、研究资源和最低收费差异很大。阅读我们的配套文章[马交所的上市板块与指数机制](/finance/bursa-malaysia)，以了解你所购买的*究竟是什么*，并阅读[马来西亚证券监督委员会](/finance/securities-commission-malaysia)概览，了解谁在监管这个市场。如果挑选个别股票让你觉得望而生畏，[单位信托基金](/finance/unit-trust-funds-malaysia)提供了一种由专业人士管理的集合式替代方案。
+在下定决心之前先比较券商：佣金费率由各家公司自行设定，因此平台、研究资源和最低收费差异很大。阅读我们的配套文章[马交所的上市板块与指数机制](/economy/bursa-malaysia)，以了解你所购买的*究竟是什么*，并阅读[马来西亚证券监督委员会](/finance/securities-commission-malaysia)概览，了解谁在监管这个市场。如果挑选个别股票让你觉得望而生畏，[单位信托基金](/finance/unit-trust-funds-malaysia)提供了一种由专业人士管理的集合式替代方案。

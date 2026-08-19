@@ -34,7 +34,7 @@ faq:
     a: "宏愿（如团结与公正社会等五大国家目标）是要达成的目的，而五大原则则是实现这些宏愿的生活基础与指南。两者共同构成了完整的国家原则誓言。"
 
 lang: "zh"
-sourceContentHash: "34b17e1fed62d4ef"
+sourceContentHash: "3c9f3379f62cda66"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -259,16 +259,16 @@ Shah）**作出。通过将宣布放在独立日，国家原则在象征意义�
 
 ## 相关术语
 
-- [独立（Merdeka）：国家呼号背后的词义](/malaysia/merdeka)
-- [最高元首（Yang di-Pertuan Agong）——被推选的联邦王位](/malaysia/yang-di-pertuan-agong)
-- [人民（Rakyat）](/malaysia/rakyat)
-- [土著（Bumiputera）](/malaysia/bumiputera)
+- [独立（Merdeka）：国家呼号背后的词义](/glossary/merdeka)
+- [最高元首（Yang di-Pertuan Agong）——被推选的联邦王位](/government/yang-di-pertuan-agong)
+- [人民（Rakyat）](/glossary/rakyat)
+- [土著（Bumiputera）](/glossary/bumiputera)
 
 ## 接下来是什么
 
 如果你想了解作为国家原则在8月31日宣布之背景的独立脉络，
-请从[独立（Merdeka）](/malaysia/merdeka)开始。要理解第二原则
+请从[独立（Merdeka）](/glossary/merdeka)开始。要理解第二原则
 以及作为忠诚支柱的君主体制，请参阅
-[最高元首（Yang di-Pertuan Agong）](/malaysia/yang-di-pertuan-agong)。
+[最高元首（Yang di-Pertuan Agong）](/government/yang-di-pertuan-agong)。
 要理解第三原则——维护宪法——下一步便是阅读关于联邦宪法
 作为国家最高法律的内容，那正是国家原则本身呼吁人民去尊崇的文件。

@@ -33,7 +33,7 @@ faq:
     a: "The Department of Statistics Malaysia (DOSM) publishes the ICT Satellite Account annually (the Malaysia Digital Economy release), which sets the contribution of ICT and e-commerce to GDP. DOSM also conducts the ICT Use and Access Report for household and individual penetration figures. Broadband penetration rates are published separately by the Malaysian Communications and Multimedia Commission (MCMC)."
 
 lang: "en"
-sourceContentHash: "5e281fea516ae8d6"
+sourceContentHash: "9a3a89f709e2b7ae"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -138,4 +138,4 @@ Individual internet use rose from 98.0 percent in 2024 to 98.3 percent in 2025 â
 
 ## What's next
 
-Before citing any of Malaysia's digital economy figures, first establish which metric you mean: GDP contribution (RM451.3 billion), value added (GVAICT or e-commerce GVA), or transaction value (RM1,230.1 billion). For the policy context and incentives that support the sector, see [MDEC's Digital Status](/technology/mdec-digital-status) and the [Digital Free Trade Zone](/technology/digital-free-trade-zone). The full ICT Satellite Account figures are updated annually by DOSM, usually in the fourth quarter, so recheck the reference year each time.
+Before citing any of Malaysia's digital economy figures, first establish which metric you mean: GDP contribution (RM451.3 billion), value added (GVAICT or e-commerce GVA), or transaction value (RM1,230.1 billion). For the policy context and incentives that support the sector, see [MDEC's Digital Status](/business/mdec-digital-status) and the [Digital Free Trade Zone](/business/digital-free-trade-zone). The full ICT Satellite Account figures are updated annually by DOSM, usually in the fourth quarter, so recheck the reference year each time.

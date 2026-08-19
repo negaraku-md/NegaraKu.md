@@ -32,7 +32,7 @@ faq:
     a: "The NEP's 20-year period ended in 1990. It was succeeded by the National Development Policy (NDP) in 1991, and subsequently by other development policies. However, several of its elements and principles were continued in later policies."
 
 lang: "en"
-sourceContentHash: "05f71444f540cee7"
+sourceContentHash: "386092ea82711d48"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -84,7 +84,7 @@ This article describes the NEP descriptively as a policy: what its goals were, h
 
 ## What is the NEP, and when did it begin?
 
-The NEP is a socioeconomic policy framework **launched in 1971** as part of the [Second Malaysia Plan](/economy/rancangan-malaysia) (1971-1975). According to Economic History Malaysia, the final draft of the policy document was **tabled in Parliament on 12 July 1971**.
+The NEP is a socioeconomic policy framework **launched in 1971** as part of the Second Malaysia Plan (1971-1975). According to Economic History Malaysia, the final draft of the policy document was **tabled in Parliament on 12 July 1971**.
 
 Its background matters. In the wake of the 13 May 1969 events, the country was administered under emergency rule by the **National Operations Council (MAGERAN / Majlis Gerakan Negara)** led by **Tun Abdul Razak Hussein**. During that period, two streams of policy thinking competed — one from the Economic Planning Unit (EPU) that placed greater emphasis on growth, and another from the Department of National Unity that pushed for broader state intervention to reduce inequality between the races. The combined result of those deliberations became the NEP.
 

@@ -34,7 +34,7 @@ faq:
     a: "Tiga caj dikenakan pada kedua-dua pembelian dan penjualan: komisen broker (ditetapkan oleh broker anda), yuran penjelasan 0.03% daripada nilai urus niaga dihadkan pada RM1,000, dan duti setem RM1 bagi setiap RM1,000 (atau sebahagian daripadanya) nilai, dihadkan pada RM1,000. Brokeraj bagi saham yang tersenarai di Bursa Malaysia buat masa ini dikecualikan daripada cukai perkhidmatan."
 
 lang: "ms"
-sourceContentHash: "231fce269badb85e"
+sourceContentHash: "2aa2d9243406a229"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -137,4 +137,4 @@ Jadi pembelian RM10,000 dikenakan kira-kira RM3 yuran penjelasan dan RM10 duti s
 
 ## Apa seterusnya
 
-Bandingkan broker sebelum anda membuat keputusan: kadar komisen ditetapkan oleh setiap firma, jadi platform, akses penyelidikan dan caj minimum sangat berbeza-beza. Baca rencana pelengkap kami tentang [papan penyenaraian dan mekanik indeks Bursa Malaysia](/finance/bursa-malaysia) untuk memahami *apa* yang anda beli, dan gambaran keseluruhan [Suruhanjaya Sekuriti Malaysia](/finance/securities-commission-malaysia) untuk melihat siapa yang mengawal selia pasaran. Jika memilih saham individu terasa membebankan, [dana unit amanah](/finance/unit-trust-funds-malaysia) menawarkan alternatif terkumpul yang diurus secara profesional.
+Bandingkan broker sebelum anda membuat keputusan: kadar komisen ditetapkan oleh setiap firma, jadi platform, akses penyelidikan dan caj minimum sangat berbeza-beza. Baca rencana pelengkap kami tentang [papan penyenaraian dan mekanik indeks Bursa Malaysia](/economy/bursa-malaysia) untuk memahami *apa* yang anda beli, dan gambaran keseluruhan [Suruhanjaya Sekuriti Malaysia](/finance/securities-commission-malaysia) untuk melihat siapa yang mengawal selia pasaran. Jika memilih saham individu terasa membebankan, [dana unit amanah](/finance/unit-trust-funds-malaysia) menawarkan alternatif terkumpul yang diurus secara profesional.

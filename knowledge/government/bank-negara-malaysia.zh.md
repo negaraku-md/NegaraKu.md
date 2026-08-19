@@ -41,7 +41,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "193b60227689828d"
+sourceContentHash: "295c9b83682e382f"
 
 status: "published"
 aiAssisted: true
@@ -309,7 +309,7 @@ Malaysia）依据另一套资本市场法律负责的。混淆两者，是人们
 利率见隔夜政策利率决定页面，其推理见货币政策声明，外汇规则见外汇政策部分。至于
 更宏观的经济图景——国内生产总值、通胀与劳动力市场——发布机构是
 [马来西亚统计局](/zh/government/dosm)，而非国家银行。关于政府如何筹集与支出资金，
-请参阅[联邦预算案](/zh/government/federal-budget)；至于账簿的税务一端，请参阅
+请参阅[联邦预算案](/zh/economy/federal-budget)；至于账簿的税务一端，请参阅
 [内陆税收局](/zh/government/lhdn)。若要自己阅读规则，请从《2009年马来西亚中央
 银行法令》（第701号法令）入手——它足够简短，可以快速浏览，也足够权威，几乎可以
 解决关于马来西亚国家银行被允许与不被允许做什么的任何争论。

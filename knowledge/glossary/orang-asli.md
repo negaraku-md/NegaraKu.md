@@ -167,7 +167,7 @@ Sejauh mana peruntukan-peruntukan ini melindungi hak tanah adat Orang Asli merup
 
 ## Apa yang seterusnya
 
-Untuk memahami bagaimana Orang Asli terletak dalam kategori peribumi yang lebih luas, lihat [Bumiputera](/glossary/bumiputera), yang menerangkan asas perlembagaan bagi orang Melayu, anak negeri Sabah dan Sarawak, serta Orang Asli. Untuk gambaran kumpulan etnik dalam jumlah penduduk negara, lihat [komposisi penduduk Malaysia](/malaysia/population-composition). Dan untuk teks perundangan yang menjadi asas status mereka, lihat [Akta Orang Asli 1954](/law/aboriginal-peoples-act-1954).
+Untuk memahami bagaimana Orang Asli terletak dalam kategori peribumi yang lebih luas, lihat [Bumiputera](/glossary/bumiputera), yang menerangkan asas perlembagaan bagi orang Melayu, anak negeri Sabah dan Sarawak, serta Orang Asli. Untuk gambaran kumpulan etnik dalam jumlah penduduk negara, lihat [komposisi penduduk Malaysia](/malaysia/population-composition). Dan untuk teks perundangan yang menjadi asas status mereka, lihat Akta Orang Asli 1954.
 
 ---
 

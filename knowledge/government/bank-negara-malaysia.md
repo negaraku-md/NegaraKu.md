@@ -353,7 +353,7 @@ section for the forex rules. For the wider economic picture — GDP, inflation a
 the labour market — the publishing authority is the
 [Department of Statistics Malaysia](/en/government/dosm), not BNM. For how the
 Government raises and spends money, see the
-[federal budget](/en/government/federal-budget); and for the tax side of the
+[federal budget](/en/economy/federal-budget); and for the tax side of the
 ledger, the [Inland Revenue Board](/en/government/lhdn). To read the rules
 yourself, start with the Central Bank of Malaysia Act 2009 (Act 701) — it is short
 enough to skim and definitive enough to settle almost any argument about what

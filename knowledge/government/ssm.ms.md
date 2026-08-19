@@ -32,7 +32,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "958a75d0f014a9a7"
+sourceContentHash: "ef592db783187fbc"
 
 status: "published"
 aiAssisted: true
@@ -133,6 +133,6 @@ tidak lengkap.
 | Statut | [Akta Syarikat 2016](/law/companies-act-2016) |
 | Memperbadankan syarikat | [Mendaftar Sdn Bhd](/business/register-sdn-bhd) |
 | Mendaftar perusahaan | [Mendaftar perusahaan di EzBiz](/business/register-enterprise-ezbiz) |
-| Fi | [Fi SSM](/company-secretary/ssm-fees-malaysia) |
+| Fi | [Fi SSM](/business/ssm-fees-malaysia) |
 | Penalti lewat pemfailan | [Fi lewat pemfailan SSM](/company-secretary/ssm-late-lodgement-fees) |
 | Pemfailan XBRL | [MBRS 2.0](/company-secretary/mbrs-2) |

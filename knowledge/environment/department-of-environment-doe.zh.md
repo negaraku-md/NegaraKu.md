@@ -34,7 +34,7 @@ faq:
     a: "环境局公布了一条投诉热线（03-8889 1972）及一条免费热线（1-800-88-2727）供举报环境投诉。在依赖这些号码之前，请在 doe.gov.my 上核实当前号码。"
 
 lang: "zh"
-sourceContentHash: "bd9f2a6569eb1f42"
+sourceContentHash: "4c9f56d8128428a2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -167,9 +167,9 @@ keywords: ["Department of Environment", "DOE", "Jabatan Alam Sekitar", "JAS", "E
 
 如果你的问题是关于环境影响评估流程本身——门槛、报告类型与时间表——请
 阅读专门的
-[环境影响评估](/zh/environment/environmental-impact-assessment-eia)
+环境影响评估
 页面。关于危险废物的处理与处置义务，请参阅
-[列表废物](/zh/environment/scheduled-waste)。而由于环境局的权力完全
+列表废物。而由于环境局的权力完全
 源自一部法规，对任何数字、条文或执照条件最可靠的原始核查，就是
 [《1974年环境素质法令》（第127号法令，Act 127）](https://www.doe.gov.my/wp-content/uploads/2022/11/Environmental_Quality_Act_1974_-_ACT_127.pdf)
 本身，它发布在该部门自己的网站上。

@@ -34,7 +34,7 @@ faq:
     a: "不一定。调查发现，在德拉马科特与实马当等管理良好、可持续伐木的森林中，种群在15年间保持稳定，显示只要森林受到审慎管理并保持连通，猩猩便能在生产林中继续生存。"
 
 lang: "zh"
-sourceContentHash: "2c43ebead37bba0a"
+sourceContentHash: "3e08558cd6bea030"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -135,5 +135,5 @@ keywords: ["Bornean orangutan", "Sabah", "Wildlife Conservation Enactment 1997",
 
 - **关注走廊的进展。** 留意京那巴当岸河下游的再造林与土地收购工作，能否重新连接足够的森林以稳定该种群。
 - **追踪下一次调查。** 种群估计往往滞后数年；更新的统计将显示2016年的罚则提高与持续的保护是否改变了东部的趋势。
-- **阅读相关篇章。** 参阅我们对[《1997年野生动物保护法令》](/environment/wildlife-conservation-enactment-1997)的概述，以及关于马来西亚[油棕与森林砍伐](/environment/palm-oil-and-deforestation)的更广泛背景。
+- **阅读相关篇章。** 参阅我们对《1997年野生动物保护法令》的概述，以及关于马来西亚油棕与森林砍伐的更广泛背景。
 - **若你前往当地，** 请选择将支持投入沙巴野生动物局的保育与复育工作的运营商和中心（例如西必洛），而非近距离接触式旅游。

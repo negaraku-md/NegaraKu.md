@@ -30,7 +30,7 @@ faq:
     a: "如果对组成部分信息或审计师的取得受到限制，而该组成部分具有重要性，集团审计师可能无法获取充分、适当的审计证据，这可能导致对集团财务报表出具保留意见或无法表示意见。"
 
 lang: "zh"
-sourceContentHash: "8ab11d0e8c3cc635"
+sourceContentHash: "871221203173410a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -129,4 +129,4 @@ keywords: ["ISA 600", "group audit", "component auditor", "group engagement part
 
 ## 下一步
 
-如果你是拥有马来西亚组成部分的**集团团队**，应尽早向本地审计师传达集团重要性和风险评估，并在决定依赖其工作之前确认你能取得其档案。如果你是承接组成部分工作的**马来西亚事务所**，应预期自己会被视为集团业务团队的一部分——包括接受指挥、监督和复核——并据此为双向沟通合理定价。请结合[认可公司审计师制度](/zh/audit/approved-company-auditor-malaysia)与[马来西亚会计师公会](/zh/audit/malaysian-institute-of-accountants)的介绍一并阅读，以了解本地的执照与准则制定全貌。
+如果你是拥有马来西亚组成部分的**集团团队**，应尽早向本地审计师传达集团重要性和风险评估，并在决定依赖其工作之前确认你能取得其档案。如果你是承接组成部分工作的**马来西亚事务所**，应预期自己会被视为集团业务团队的一部分——包括接受指挥、监督和复核——并据此为双向沟通合理定价。请结合认可公司审计师制度与[马来西亚会计师公会](/zh/accounting/malaysian-institute-of-accountants)的介绍一并阅读，以了解本地的执照与准则制定全貌。

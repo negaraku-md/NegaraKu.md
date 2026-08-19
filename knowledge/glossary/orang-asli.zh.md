@@ -34,7 +34,7 @@ faq:
     a: "原住民发展局（JAKOA）是负责管理原住民事务的政府部门，工作范围包括社会经济发展、教育、卫生及人力资本发展。它隶属乡村与区域发展部。"
 
 lang: "zh"
-sourceContentHash: "797992a9ed4bcc1e"
+sourceContentHash: "772260093134c451"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -168,7 +168,7 @@ JAKOA 如今隶属**乡村与区域发展部**。据该部门自身所述，其�
 
 ## 接下来
 
-要了解原住民如何置于更广泛的土著类别之中，请参阅[土著（Bumiputera）](/glossary/bumiputera)，其中说明了马来人、沙巴与砂拉越土著以及原住民的宪法基础。要了解全国人口中的族群概况，请参阅[马来西亚人口构成](/malaysia/population-composition)。而要查阅作为其地位基础的法律文本，请参阅[《1954年原住民法令》](/law/aboriginal-peoples-act-1954)。
+要了解原住民如何置于更广泛的土著类别之中，请参阅[土著（Bumiputera）](/glossary/bumiputera)，其中说明了马来人、沙巴与砂拉越土著以及原住民的宪法基础。要了解全国人口中的族群概况，请参阅[马来西亚人口构成](/malaysia/population-composition)。而要查阅作为其地位基础的法律文本，请参阅《1954年原住民法令》。
 
 ---
 

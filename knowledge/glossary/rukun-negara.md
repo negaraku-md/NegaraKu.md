@@ -292,18 +292,18 @@ Rukun Negara kekal hidup dalam kehidupan sivik Malaysia:
 
 ## Istilah berkaitan
 
-- [Merdeka: Makna Perkataan di Sebalik Laungan Kebangsaan](/malaysia/merdeka)
-- [Yang di-Pertuan Agong — Takhta Persekutuan yang Dipilih](/malaysia/yang-di-pertuan-agong)
-- [Rakyat](/malaysia/rakyat)
-- [Bumiputera](/malaysia/bumiputera)
+- [Merdeka: Makna Perkataan di Sebalik Laungan Kebangsaan](/glossary/merdeka)
+- [Yang di-Pertuan Agong — Takhta Persekutuan yang Dipilih](/government/yang-di-pertuan-agong)
+- [Rakyat](/glossary/rakyat)
+- [Bumiputera](/glossary/bumiputera)
 
 ## Apa yang seterusnya
 
 Jika anda ingin memahami konteks kemerdekaan yang menjadi latar
 pengisytiharan Rukun Negara pada 31 Ogos, mulakan dengan
-[Merdeka](/malaysia/merdeka). Untuk memahami prinsip kedua dan institusi
+[Merdeka](/glossary/merdeka). Untuk memahami prinsip kedua dan institusi
 Raja yang menjadi tunjang kesetiaan, rujuk
-[Yang di-Pertuan Agong](/malaysia/yang-di-pertuan-agong). Bagi memahami
+[Yang di-Pertuan Agong](/government/yang-di-pertuan-agong). Bagi memahami
 prinsip ketiga — Keluhuran Perlembagaan — langkah seterusnya ialah membaca
 tentang Perlembagaan Persekutuan sebagai undang-undang tertinggi negara,
 dokumen yang Rukun Negara sendiri menyeru rakyat untuk memuliakannya.

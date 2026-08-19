@@ -34,7 +34,7 @@ faq:
     a: "The Department of Orang Asli Development (JAKOA) is the government department responsible for managing Orang Asli affairs, including socioeconomic development, education, health and human capital development. It operates under the Ministry of Rural and Regional Development."
 
 lang: "en"
-sourceContentHash: "797992a9ed4bcc1e"
+sourceContentHash: "772260093134c451"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -168,7 +168,7 @@ The extent to which these provisions protect the customary land rights of the Or
 
 ## What's next
 
-To understand how the Orang Asli fit within the broader indigenous category, see [Bumiputera](/glossary/bumiputera), which explains the constitutional basis for the Malays, the natives of Sabah and Sarawak, and the Orang Asli. For an overview of ethnic groups within the national population, see [Malaysia's population composition](/malaysia/population-composition). And for the legislative text that underpins their status, see the [Aboriginal Peoples Act 1954](/law/aboriginal-peoples-act-1954).
+To understand how the Orang Asli fit within the broader indigenous category, see [Bumiputera](/glossary/bumiputera), which explains the constitutional basis for the Malays, the natives of Sabah and Sarawak, and the Orang Asli. For an overview of ethnic groups within the national population, see [Malaysia's population composition](/malaysia/population-composition). And for the legislative text that underpins their status, see the Aboriginal Peoples Act 1954.
 
 ---
 

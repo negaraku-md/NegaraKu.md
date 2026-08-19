@@ -34,7 +34,7 @@ faq:
     a: "The aspirations (five national goals such as unity and a just society) are the ends to be achieved, while the five principles are the foundations and guides for living by which those aspirations are reached. Together they form the full pledge of the Rukun Negara."
 
 lang: "en"
-sourceContentHash: "34b17e1fed62d4ef"
+sourceContentHash: "3c9f3379f62cda66"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -294,18 +294,18 @@ The Rukun Negara remains alive in Malaysia's civic life:
 
 ## Related terms
 
-- [Merdeka: The Meaning of the Word Behind the National Cry](/malaysia/merdeka)
-- [Yang di-Pertuan Agong — The Elected Federal Throne](/malaysia/yang-di-pertuan-agong)
-- [Rakyat](/malaysia/rakyat)
-- [Bumiputera](/malaysia/bumiputera)
+- [Merdeka: The Meaning of the Word Behind the National Cry](/glossary/merdeka)
+- [Yang di-Pertuan Agong — The Elected Federal Throne](/government/yang-di-pertuan-agong)
+- [Rakyat](/glossary/rakyat)
+- [Bumiputera](/glossary/bumiputera)
 
 ## What comes next
 
 If you want to understand the context of independence that forms the
 backdrop of the Rukun Negara's proclamation on 31 August, begin with
-[Merdeka](/malaysia/merdeka). To understand the second principle and the
+[Merdeka](/glossary/merdeka). To understand the second principle and the
 institution of the Rulers that anchors loyalty, refer to
-[Yang di-Pertuan Agong](/malaysia/yang-di-pertuan-agong). To understand the
+[Yang di-Pertuan Agong](/government/yang-di-pertuan-agong). To understand the
 third principle — Supremacy of the Constitution — the next step is to read
 about the Federal Constitution as the supreme law of the land, the document
 that the Rukun Negara itself calls upon citizens to honour.

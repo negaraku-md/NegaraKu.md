@@ -34,7 +34,7 @@ faq:
     a: "JAS menerbitkan talian aduan (03-8889 1972) dan talian bebas tol (1-800-88-2727) untuk aduan alam sekitar. Sahkan nombor semasa di doe.gov.my sebelum bergantung padanya."
 
 lang: "ms"
-sourceContentHash: "bd9f2a6569eb1f42"
+sourceContentHash: "4c9f56d8128428a2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -175,9 +175,9 @@ SWCorp operates under the Ministry of Housing and Local Government (KPKT).
 
 If your question is about the EIA process itself — thresholds, report types and
 timelines — read the dedicated
-[Environmental Impact Assessment](/en/environment/environmental-impact-assessment-eia)
+Environmental Impact Assessment
 page. For hazardous waste handling and disposal duties, see
-[scheduled waste](/en/environment/scheduled-waste). And because the DOE's
+scheduled waste. And because the DOE's
 authority flows entirely from one statute, the surest primary check for any
 figure, section or licence condition is the
 [Environmental Quality Act 1974 (Act 127)](https://www.doe.gov.my/wp-content/uploads/2022/11/Environmental_Quality_Act_1974_-_ACT_127.pdf)

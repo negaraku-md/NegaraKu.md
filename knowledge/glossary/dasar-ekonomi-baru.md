@@ -83,7 +83,7 @@ Rencana ini menerangkan DEB secara deskriptif sebagai satu dasar: apa matlamatny
 
 ## Apa itu DEB, dan bila ia bermula?
 
-DEB ialah rangka dasar sosioekonomi yang **dilancarkan pada 1971** sebagai sebahagian daripada [Rancangan Malaysia Kedua](/economy/rancangan-malaysia) (1971-1975). Menurut Economic History Malaysia, draf akhir dokumen dasar itu **dibentangkan di Parlimen pada 12 Julai 1971**.
+DEB ialah rangka dasar sosioekonomi yang **dilancarkan pada 1971** sebagai sebahagian daripada Rancangan Malaysia Kedua (1971-1975). Menurut Economic History Malaysia, draf akhir dokumen dasar itu **dibentangkan di Parlimen pada 12 Julai 1971**.
 
 Latar belakangnya penting. Susulan peristiwa 13 Mei 1969, negara ditadbir di bawah pemerintahan darurat oleh **Majlis Gerakan Negara (MAGERAN / National Operations Council)** yang dipimpin oleh **Tun Abdul Razak Hussein**. Dalam tempoh itu, dua aliran pemikiran dasar bersaing — satu daripada Unit Perancang Ekonomi (EPU) yang lebih menekankan pertumbuhan, dan satu lagi daripada Jabatan Perpaduan Negara yang mendesak campur tangan negara yang lebih meluas untuk mengurangkan ketidaksamaan antara kaum. Hasil gabungan pertimbangan itulah menjadi DEB.
 

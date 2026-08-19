@@ -134,5 +134,5 @@ Sabah's approach rests on three parts working together. The **law** designates t
 
 - **Follow the corridor story.** Watch whether reforestation and land-purchase efforts in the Lower Kinabatangan reconnect enough forest to stabilise that population.
 - **Track the next survey.** Population estimates lag by years; a newer count will show whether the 2016 penalty increases and continued protection have changed the eastern trend.
-- **Read the companion pieces.** See our overview of the [Wildlife Conservation Enactment 1997](/environment/wildlife-conservation-enactment-1997) and the wider context on [palm oil and deforestation](/environment/palm-oil-and-deforestation) in Malaysia.
+- **Read the companion pieces.** See our overview of the Wildlife Conservation Enactment 1997 and the wider context on palm oil and deforestation in Malaysia.
 - **If you visit,** choose operators and centres, such as Sepilok, that channel support into the Sabah Wildlife Department's conservation and rehabilitation work rather than close-contact tourism.
