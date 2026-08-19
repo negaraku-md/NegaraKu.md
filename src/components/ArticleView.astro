@@ -5,6 +5,7 @@ import { getCategory, getPillar, getPillarDef } from '@/lib/categories';
 import { type Article, relatedArticles, readingTime, articlesForLocale } from '@/lib/content';
 import { localePath } from '@/lib/i18n';
 import { REPO } from '@/lib/site';
+import { newIssueUrl, articleMetaFooter } from '@/lib/feedback';
 import { subcatLabel } from '@/lib/subcategories';
 import { FLOWER_D } from '@/lib/logo';
 import TrustBadge from './TrustBadge.astro';
@@ -55,23 +56,38 @@ const changeLabel = (c: string): string => {
   return tr ? L(tr[0], tr[1], tr[2]) : c;
 };
 
-// Report an error / Suggest an improvement — prefilled GitHub issues, shown in
-// the sidebar Edit & Source box (site-wide `report` / `suggestion` labels).
-const fbMeta = `\n\n---\nArticle: ${d.title}\nTopic ID: ${d.topicId}\nVersion: ${d.version}\nLanguage: ${locale}\nPath: ${localePath(path, locale)}\n`;
-const reportUrl =
-  `${REPO}/issues/new?` +
-  new URLSearchParams({
-    labels: 'report',
-    title: `Report: ${d.title}`,
-    body: `**What is incorrect?**\n\n\n**What should it say instead?**\n\n\n**Source supporting the correction (link):**\n${fbMeta}`,
-  }).toString();
-const suggestUrl =
-  `${REPO}/issues/new?` +
-  new URLSearchParams({
-    labels: 'suggestion',
-    title: `Suggestion: ${d.title}`,
-    body: `**What could be clearer or more complete?**\n${fbMeta}`,
-  }).toString();
+// Reader feedback → prefilled, correctly-labelled GitHub issues (spec §10),
+// shown in the sidebar Edit & Source box. The taxonomy + label contract lives in
+// src/lib/feedback.ts (shared with the Contribute page and the auto-flip
+// workflow). The metadata footer carries the canonical /category/slug path so
+// the workflow can auto-flip THIS article to needs-update, in any language.
+const fbMeta = articleMetaFooter({
+  title: d.title,
+  topicId: d.topicId,
+  category: d.category,
+  slug: d.slug,
+  locale,
+});
+const reportUrl = newIssueUrl({
+  type: 'article-issue',
+  title: `Report: ${d.title}`,
+  body: `**What is incorrect?**\n\n\n**What should it say instead?**\n\n\n**Source supporting the correction (link):**\n${fbMeta}`,
+});
+const suggestUrl = newIssueUrl({
+  type: 'article-issue',
+  title: `Suggestion: ${d.title}`,
+  body: `**What could be clearer or more complete?**\n${fbMeta}`,
+});
+// A reader on a translated page can flag a bad/stale translation (routes to
+// translationStatus: stale, not the article's content). Only meaningful when the
+// page actually is a translation, i.e. the reader's locale isn't the master.
+const masterLang = d.masterLanguage ?? 'ms';
+const showTranslationReport = locale !== masterLang;
+const translationUrl = newIssueUrl({
+  type: 'translation-issue',
+  title: `Translation (${locale}): ${d.title}`,
+  body: `**What reads wrong or is out of date in the ${locale} translation?**\n\n\n**Suggested wording (optional):**\n${fbMeta}`,
+});
 const related = await relatedArticles(article, locale);
 const mins = readingTime(article);
 const pillar = getPillar(d.category);
@@ -595,6 +611,11 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
         <a class="edit" href={reportUrl} rel="noopener">
           {L('Laporkan isu', 'Report an issue', '报告问题')} ↗
         </a>
+        {showTranslationReport && (
+          <a class="edit" href={translationUrl} rel="noopener">
+            {L('Laporkan masalah terjemahan', 'Report a translation problem', '报告翻译问题')} ↗
+          </a>
+        )}
         <a class="edit" href={localePath(path, locale) + '.md'}>
           {L('Markdown mentah', 'Raw Markdown', '原始 Markdown')} ↗
         </a>

@@ -1,12 +1,13 @@
-name: Suggestion → needs-update
+name: Article issue → needs-update
 
-# Closes the correction loop. A reader's "Report an error" / "Suggest an
-# improvement" on an article files a prefilled issue; this flags that article
-# `needs-update` so it shows honestly to every reader and lands in the
-# dashboard's Outstanding worklist — without a maintainer having to notice.
+# Closes the correction loop. A reader's "Report an issue" on an article files a
+# prefilled `article-issue` issue (see src/lib/feedback.ts); this flags that
+# article `needs-update` so it shows honestly to every reader and lands in the
+# Worklist — without a maintainer having to notice.
 #
-# `topic-request` is deliberately excluded: it asks for a NEW article, so there
-# is nothing to flag.
+# Only `article-issue` auto-flips (spec §10). `article-request` (a NEW article),
+# `translation-issue`, `site-improvement` and `site-bug` are triaged by hand:
+# there is no published article for this script to flag.
 
 on:
   issues:
@@ -18,9 +19,7 @@ permissions:
 
 jobs:
   flag:
-    if: >-
-      contains(github.event.issue.labels.*.name, 'correction') ||
-      contains(github.event.issue.labels.*.name, 'improvement')
+    if: contains(github.event.issue.labels.*.name, 'article-issue')
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4

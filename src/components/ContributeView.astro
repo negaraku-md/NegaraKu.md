@@ -4,6 +4,7 @@ import { PILLARS, categoriesInPillar } from '@/lib/categories';
 import { siteStats, articlesForLocale } from '@/lib/content';
 import { localePath } from '@/lib/i18n';
 import { REPO } from '@/lib/site';
+import { FEEDBACK_LABELS, newIssueUrl } from '@/lib/feedback';
 import PageHero from './PageHero.astro';
 
 interface Props {
@@ -101,6 +102,23 @@ const aiPrompt = L(
 const REQUEST_INVITE =
   `${REPO}/discussions/new?category=general&title=${encodeURIComponent('Hello — I’d like to contribute')}` +
   `&body=${encodeURIComponent('Hi! I’d like to help with NegaraKu.md.\n\n**Area(s) of expertise:**\n\n**Languages (MS / EN / 中文):**\n\n**Anything else:**\n')}`;
+
+// Feedback about the WEBSITE itself (not article content) — the last two of the
+// five triage types (spec §10). Prefilled, correctly-labelled via feedback.ts.
+const siteBugUrl = newIssueUrl({
+  type: 'site-bug',
+  title: 'Site bug: ',
+  body: '**What’s broken?**\n\n\n**Where (URL) and how to reproduce:**\n\n\n**Browser / device:**\n',
+});
+const siteImproveUrl = newIssueUrl({
+  type: 'site-improvement',
+  title: 'Site improvement: ',
+  body: '**What would make the site better?**\n\n\n**Why it helps readers:**\n',
+});
+// Labels handed to the client-side form builders so this file stays the one
+// place the taxonomy is defined.
+const SUGGEST_LABELS = FEEDBACK_LABELS['article-request'].join(',');
+const REPORT_LABELS = FEEDBACK_LABELS['article-issue'].join(',');
 ---
 
 <PageHero
@@ -168,7 +186,7 @@ const REQUEST_INVITE =
     <div class="psec-body">
       <p class="lead">{L('Pilih di mana topik anda sesuai. Jika kategori atau topik belum ada, cadangkan yang baharu.', 'Choose where your topic fits. If the category or topic doesn’t exist yet, propose a new one.', '选择你的主题所属位置。若分类或主题尚不存在，可提议新增。')}</p>
       <div class="form-grid">
-      <form class="cform sform" data-repo={REPO}>
+      <form class="cform sform" data-repo={REPO} data-labels={SUGGEST_LABELS}>
         <label>{L('Seksyen', 'Section', '版块')}
           <select name="section" required>
             <option value="" disabled selected>{L('Pilih seksyen…', 'Choose a section…', '选择版块……')}</option>
@@ -220,7 +238,7 @@ const REQUEST_INVITE =
     <div class="psec-body">
       <p class="lead">{L('Laporan berkaitan halaman tertentu. Cara terpantas: guna pautan “Laporkan isu” di bahagian bawah mana-mana artikel — ia telah mengisi tajuk dan URL untuk anda.', 'A report is about a specific page. The fastest way: use the “Report an issue” link at the bottom of any article — it pre-fills the title and URL for you.', '报告针对具体页面。最快方式：使用任意文章底部的"报告问题"链接——它已为你预填标题和网址。')}</p>
       <div class="form-grid">
-      <form class="cform rform" data-repo={REPO}>
+      <form class="cform rform" data-repo={REPO} data-labels={REPORT_LABELS}>
         <label>{L('URL halaman', 'Page URL', '页面网址')}<input name="url" required placeholder="https://negaraku.md/…" /></label>
         <label>{L('Jenis', 'Type', '类型')}
           <select name="type" required>
@@ -256,6 +274,21 @@ const REQUEST_INVITE =
         </ol>
       </aside>
       </div>
+    </div>
+  </div>
+</section>
+
+<!-- SITE FEEDBACK (the website itself, not article content) -->
+<section class="container block" id="site">
+  <div class="psec">
+    <header><span>🛠️ {L('Tentang laman ini', 'About the website itself', '关于本网站')}</span></header>
+    <div class="psec-body">
+      <p class="lead">{L('Bukan tentang kandungan artikel, tetapi laman web ini — pepijat paparan, atau idea untuk menjadikannya lebih baik.', 'Not about an article’s content, but the website — a display bug, or an idea to make it better.', '与文章内容无关，而是关于网站本身——显示故障，或让它更好的想法。')}</p>
+      <div class="site-acts">
+        <a class="btn btn-primary" href={siteBugUrl} rel="noopener">🐞 {L('Laporkan pepijat laman', 'Report a website bug', '报告网站故障')} ↗</a>
+        <a class="btn btn-ghost" href={siteImproveUrl} rel="noopener">✨ {L('Cadangkan penambahbaikan laman', 'Suggest a site improvement', '建议网站改进')} ↗</a>
+      </div>
+      <p class="muted">{L('Membuka isu GitHub yang telah diisi.', 'Opens a pre-filled GitHub issue.', '打开一个预填的 GitHub issue。')}</p>
     </div>
   </div>
 </section>
@@ -353,7 +386,8 @@ const REQUEST_INVITE =
       const newCat = catSel.value === NEW;
       const catName = newCat ? (newCatInput.value.trim() || 'New category') : (sec?.categories.find((c) => c.id === catSel.value)?.name || catSel.value);
       const topic = topicInput.value.trim();
-      const labels = ['suggestion', newCat ? 'new-category' : ''].filter(Boolean).join(',');
+      // Base label(s) come from feedback.ts via data-labels; add new-category when proposing one.
+      const labels = [sform.dataset.labels, newCat ? 'new-category' : ''].filter(Boolean).join(',');
       const title = `Suggestion: ${topic} (${sec?.name} › ${catName})`;
       const body = [
         `**Section:** ${sec?.name || ''}`,
@@ -391,7 +425,8 @@ const REQUEST_INVITE =
         `**Issue:** ${v('detail')}`,
         `**Source:** ${v('source') || '—'}`,
       ].join('\n');
-      const url = `${rform.dataset.repo}/issues/new?labels=report&title=${encodeURIComponent(title)}&body=${encodeURIComponent(body)}`;
+      const labels = rform.dataset.labels || 'article-issue';
+      const url = `${rform.dataset.repo}/issues/new?labels=${encodeURIComponent(labels)}&title=${encodeURIComponent(title)}&body=${encodeURIComponent(body)}`;
       window.open(url, '_blank', 'noopener');
     });
   }
@@ -466,6 +501,7 @@ const REQUEST_INVITE =
   .cform input:focus, .cform select:focus, .cform textarea:focus { outline: none; border-color: var(--gold); }
   .cform select:disabled { opacity: 0.5; }
   .cform button { justify-self: start; }
+  .site-acts { display: flex; flex-wrap: wrap; gap: 0.7rem; margin-bottom: 0.8rem; }
   .dupe-hint { color: var(--gold); font-weight: 600; font-size: 0.8rem; }
   .muted { color: var(--muted); font-size: 0.85rem; }
   .muted.small { font-size: 0.8rem; line-height: 1.55; margin: 0.8rem 0 0; }
