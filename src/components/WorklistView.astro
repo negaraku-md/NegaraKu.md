@@ -1,0 +1,227 @@
+---
+import type { Locale } from '@/lib/categories';
+import { getCategory } from '@/lib/categories';
+import { corpusTopics, effectiveStatus, type Article } from '@/lib/content';
+import { REPO } from '@/lib/site';
+import { localePath } from '@/lib/i18n';
+import PageHero from './PageHero.astro';
+
+// EDITORIAL WORKLIST (lifecycle spec §11). A contributor surface: the three
+// queues (needs-update / redraft-requested / archive-requested), work in
+// progress with its assignee, items awaiting approval (four-eyes), and drafts.
+// Reads the OPS census (corpusTopics — every status, past the publish gate), so
+// it lists titles that are NOT public. It therefore renders ONLY in the dev /
+// preview environment; on the public build it shows a short notice instead.
+
+interface Props {
+  locale: Locale;
+}
+const { locale } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+const CONTRIB_ONLY = import.meta.env.DEV || process.env.PREVIEW_ALL === '1';
+
+const topics: Article[] = CONTRIB_ONLY ? await corpusTopics() : [];
+const now = new Date();
+const st = (a: Article) => effectiveStatus(a, now);
+const editUrl = (a: Article) => `${REPO}/edit/main/knowledge/${a.data.category}/${a.data.slug}.md`;
+const ageDays = (d: unknown) => (d ? Math.max(0, Math.round((now.getTime() - new Date(d as string).getTime()) / 86_400_000)) : null);
+const worker = (a: Article) => a.data.assignee || a.data.revisions?.at(-1)?.contributor || a.data.author || '—';
+const catName = (a: Article) => getCategory(a.data.category)?.name[locale] ?? a.data.category;
+
+const needsUpdate = topics.filter((a) => st(a) === 'needs-update');
+const reqRedraft = topics.filter((a) => a.data.status === 'request-redraft');
+const reqArchive = topics.filter((a) => a.data.status === 'request-archive');
+const inProgress = topics.filter((a) => ['in-update', 'in-redraft', 'in-archive', 'in-review'].includes(a.data.status));
+const awaiting = topics.filter((a) => a.data.status === 'reviewed');
+const drafts = topics.filter((a) => a.data.status === 'draft');
+
+// Assignee tally for the In-progress board (so no one double-claims).
+const byAssignee: Record<string, number> = {};
+for (const a of inProgress) {
+  const k = a.data.assignee || L('belum dituntut', 'unclaimed', '未认领');
+  byAssignee[k] = (byAssignee[k] || 0) + 1;
+}
+const assigneeSummary = Object.entries(byAssignee).map(([k, n]) => `${k}: ${n}`).join('  ·  ');
+
+const stats = [
+  { value: needsUpdate.length, label: L('perlu kemas kini', 'needs update', '需更新') },
+  { value: reqRedraft.length + reqArchive.length, label: L('permintaan', 'requests', '请求') },
+  { value: inProgress.length, label: L('dalam proses', 'in progress', '进行中') },
+  { value: awaiting.length, label: L('menunggu kelulusan', 'awaiting', '待批准') },
+];
+---
+
+<PageHero
+  locale={locale}
+  crumb={[
+    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
+    { label: L('Senarai Kerja', 'Worklist', '工作清单') },
+  ]}
+  title={L('Senarai Kerja Editorial', 'Editorial Worklist', '编辑工作清单')}
+  desc={L(
+    'Barisan kerja penyumbang — apa yang perlu dikemas kini, ditulis semula, diarkibkan atau diluluskan.',
+    "The contributor queue — what needs updating, redrafting, archiving or approving.",
+    '贡献者工作队列——需要更新、重写、归档或批准的内容。',
+  )}
+  stats={CONTRIB_ONLY ? stats : []}
+/>
+
+{
+  !CONTRIB_ONLY && (
+    <section class="container block">
+      <div class="notice">
+        <p>
+          <b>{L('Alat penyumbang', 'Contributor tool', '贡献者工具')}.</b>{' '}
+          {L(
+            'Senarai kerja hanya dipaparkan dalam persekitaran pembangunan / pratonton, kerana ia menyenaraikan tajuk draf yang belum diterbitkan.',
+            'The worklist only renders in the dev / preview environment, because it lists unpublished draft titles.',
+            '工作清单仅在开发／预览环境中显示，因为它会列出未发布的草稿标题。',
+          )}
+        </p>
+        <p class="muted">
+          {L('Jalankan', 'Run', '运行')} <code>npm run dev</code>{' '}
+          {L('untuk membukanya.', 'to open it.', '以打开它。')}
+        </p>
+      </div>
+    </section>
+  )
+}
+
+{
+  CONTRIB_ONLY && (
+    <section class="container block wl">
+      {[
+        { key: 'nu', label: L('Perlu Kemas Kini', 'Needs update', '需更新'), hint: L('auto: semakan tertunggak · atau dilaporkan pembaca', 'auto: review overdue · or reader-flagged', '自动：审阅逾期 · 或读者标记'), items: needsUpdate, action: L('Tuntut & sunting', 'Claim & edit', '认领并编辑') },
+        { key: 'rr', label: L('Permintaan Tulis Semula', 'Redraft requested', '重写请求'), hint: L('diminta manusia', 'human-requested', '人工请求'), items: reqRedraft, action: L('Tuntut', 'Claim', '认领') },
+        { key: 'ra', label: L('Permintaan Arkib', 'Archive requested', '归档请求'), hint: L('untuk pengesahan pentadbir', 'maintainer to confirm', '维护者确认'), items: reqArchive, action: L('Tuntut', 'Claim', '认领') },
+      ].map((sec) => (
+        <div class="wl-sec">
+          <header>
+            <span>{sec.label} <b>{sec.items.length}</b></span>
+            <span class="wl-hint">{sec.hint}</span>
+          </header>
+          {sec.items.length === 0 ? (
+            <p class="wl-empty">{L('Tiada.', 'Nothing here.', '暂无。')}</p>
+          ) : (
+            <ul>
+              {sec.items.map((a) => (
+                <li>
+                  <span class="wl-title">{a.data.title}</span>
+                  <span class="wl-meta">
+                    {catName(a)}
+                    {a.data.requestReason && <> · “{a.data.requestReason}”</>}
+                    {a.data.requestedBy && <> · {a.data.requestedBy}</>}
+                    {sec.key === 'nu' && a.data.reviewDue && <> · {L('semakan', 'review due', '应审阅')} {new Date(a.data.reviewDue).toISOString().slice(0, 10)}</>}
+                  </span>
+                  <a class="wl-act" href={editUrl(a)} target="_blank" rel="noopener">{sec.action} ↗</a>
+                </li>
+              ))}
+            </ul>
+          )}
+        </div>
+      ))}
+
+      <div class="wl-sec">
+        <header>
+          <span>{L('Dalam Proses', 'In progress', '进行中')} <b>{inProgress.length}</b></span>
+          {assigneeSummary && <span class="wl-hint">{assigneeSummary}</span>}
+        </header>
+        {inProgress.length === 0 ? (
+          <p class="wl-empty">{L('Tiada.', 'Nothing here.', '暂无。')}</p>
+        ) : (
+          <ul>
+            {inProgress.map((a) => (
+              <li>
+                <span class="wl-title">{a.data.title}</span>
+                <span class="wl-meta">
+                  <span class="wl-status">{a.data.status}</span> · {worker(a)}
+                  {ageDays(a.data.claimedAt) != null && <> · {ageDays(a.data.claimedAt)}{L('h', 'd', '天')}</>}
+                </span>
+                <a class="wl-act" href={editUrl(a)} target="_blank" rel="noopener">{L('Sunting', 'Edit', '编辑')} ↗</a>
+              </li>
+            ))}
+          </ul>
+        )}
+      </div>
+
+      <div class="wl-sec">
+        <header>
+          <span>{L('Menunggu Kelulusan', 'Awaiting approval', '待批准')} <b>{awaiting.length}</b></span>
+          <span class="wl-hint">{L('kelulusan mesti ≠ pelaksana', 'approver must ≠ the person who did the work', '批准者须≠执行者')}</span>
+        </header>
+        {awaiting.length === 0 ? (
+          <p class="wl-empty">{L('Tiada.', 'Nothing here.', '暂无。')}</p>
+        ) : (
+          <ul>
+            {awaiting.map((a) => (
+              <li>
+                <span class="wl-title">{a.data.title}</span>
+                <span class="wl-meta">{catName(a)} · {L('dibuat oleh', 'did', '完成者')}: {worker(a)} · {L('perlu pelulus ≠', 'needs approver ≠', '需批准者≠')} {worker(a)}</span>
+                <a class="wl-act" href={editUrl(a)} target="_blank" rel="noopener">{L('Luluskan', 'Approve', '批准')} ↗</a>
+              </li>
+            ))}
+          </ul>
+        )}
+      </div>
+
+      <div class="wl-sec">
+        <header>
+          <span>{L('Draf', 'Drafts', '草稿')} <b>{drafts.length}</b></span>
+          <span class="wl-hint">{L('artikel baharu sedang ditulis', 'new articles being written', '正在撰写的新文章')}</span>
+        </header>
+        {drafts.length === 0 ? (
+          <p class="wl-empty">{L('Tiada.', 'Nothing here.', '暂无。')}</p>
+        ) : (
+          <ul>
+            {drafts.map((a) => (
+              <li>
+                <span class="wl-title">{a.data.title}</span>
+                <span class="wl-meta">
+                  {catName(a)}
+                  {a.data.sensitivity !== 'none' && <> · <span class="wl-sens">🔒 {a.data.sensitivity}</span></>}
+                  {ageDays(a.data.created) != null && <> · {ageDays(a.data.created)}{L('h', 'd', '天')}</>}
+                </span>
+                <a class="wl-act" href={editUrl(a)} target="_blank" rel="noopener">{L('Sunting', 'Edit', '编辑')} ↗</a>
+              </li>
+            ))}
+          </ul>
+        )}
+      </div>
+    </section>
+  )
+}
+
+<style>
+  .block { margin-top: 1.4rem; }
+  .notice { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 1.4rem 1.6rem; }
+  .notice p { margin: 0 0 0.5rem; }
+  .notice .muted { color: var(--muted); font-size: 0.9rem; margin: 0; }
+  .notice code { background: var(--surface-2); border: 1px solid var(--line); border-radius: 5px; padding: 0.1rem 0.4rem; }
+
+  .wl { display: flex; flex-direction: column; gap: 1.1rem; }
+  .wl-sec { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; overflow: hidden; }
+  .wl-sec > header {
+    display: flex; justify-content: space-between; align-items: baseline; gap: 1rem; flex-wrap: wrap;
+    padding: 0.7rem 1.05rem; background: var(--surface-2); border-bottom: 1px solid var(--line);
+  }
+  .wl-sec > header > span:first-child {
+    font-family: var(--font-title); font-size: 1.05rem; font-weight: 700; text-transform: uppercase;
+    letter-spacing: 0.03em; color: var(--muted);
+  }
+  .wl-sec > header b { color: var(--gold); margin-left: 0.35rem; font-variant-numeric: tabular-nums; }
+  .wl-hint { font-size: 0.8rem; color: var(--muted); }
+  .wl-empty { margin: 0; padding: 0.9rem 1.05rem; color: var(--ink-soft); font-size: 0.9rem; }
+  .wl-sec ul { list-style: none; margin: 0; padding: 0.4rem; display: flex; flex-direction: column; }
+  .wl-sec li {
+    display: flex; align-items: baseline; gap: 0.6rem; flex-wrap: wrap;
+    padding: 0.6rem 0.65rem; border-radius: 8px;
+  }
+  .wl-sec li:hover { background: var(--surface-2); }
+  .wl-title { font-family: var(--font-title); font-weight: 600; font-size: 0.98rem; }
+  .wl-meta { color: var(--muted); font-size: 0.82rem; flex: 1; min-width: 12rem; }
+  .wl-status { color: var(--ink-soft); font-weight: 600; }
+  .wl-sens { color: var(--gold); }
+  .wl-act { margin-inline-start: auto; color: var(--gold); font-weight: 700; font-size: 0.85rem; text-decoration: none; white-space: nowrap; }
+  .wl-act:hover { text-decoration: underline; }
+</style>

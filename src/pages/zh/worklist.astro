@@ -1,0 +1,9 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import WorklistView from '@/components/WorklistView.astro';
+const locale = 'zh';
+---
+
+<BaseLayout locale={locale} title="编辑工作清单" path="/worklist">
+  <WorklistView locale={locale} />
+</BaseLayout>

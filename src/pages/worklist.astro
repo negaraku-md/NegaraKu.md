@@ -1,0 +1,9 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import WorklistView from '@/components/WorklistView.astro';
+const locale = 'ms';
+---
+
+<BaseLayout locale={locale} title="Senarai Kerja Editorial" path="/worklist">
+  <WorklistView locale={locale} />
+</BaseLayout>
