@@ -1,0 +1,200 @@
+---
+import type { Locale } from '@/lib/categories';
+import { localePath } from '@/lib/i18n';
+import { REPO } from '@/lib/site';
+import PageHero from './PageHero.astro';
+
+interface Props {
+  locale: Locale;
+}
+const { locale } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+const steps = [
+  {
+    n: 1,
+    title: L('Dapatkan kunci API Claude anda', 'Get your Claude API key', '获取你的 Claude API 密钥'),
+    body: L(
+      'Buat kunci di Anthropic Console. Anda membayar penggunaan token anda sendiri — projek tidak menanggung kos API.',
+      'Create a key at the Anthropic Console. You pay for your own token usage — the project bears no API cost.',
+      '在 Anthropic Console 创建密钥。你为自己的 token 用量付费——项目不承担任何 API 费用。',
+    ),
+    code: null,
+    link: { href: 'https://console.anthropic.com/', label: L('Buka Anthropic Console', 'Open the Anthropic Console', '打开 Anthropic Console') },
+  },
+  {
+    n: 2,
+    title: L('Tetapkan kunci dalam terminal anda', 'Set the key in your terminal', '在终端中设置密钥'),
+    body: L('Ia dibaca daripada persekitaran; tidak pernah disimpan dalam repo.', "It's read from the environment; never stored in the repo.", '它从环境变量读取；绝不存入仓库。'),
+    code: 'export ANTHROPIC_API_KEY=sk-ant-…',
+  },
+  {
+    n: 3,
+    title: L('Draf terjemahan', 'Draft the translation', '起草翻译'),
+    body: L(
+      'Alat membaca artikel induk dan menulis draf mesin untuk dua bahasa yang lain, mengikut docs/TRANSLATION-SPEC.md dan glosari.',
+      'The tool reads the master article and writes a machine draft for the other two languages, following docs/TRANSLATION-SPEC.md and the glossary.',
+      '该工具读取母版文章，并按照 docs/TRANSLATION-SPEC.md 和词汇表，为另外两种语言生成机器草稿。',
+    ),
+    code: 'node scripts/translate.mjs --file knowledge/<category>/<slug>.md',
+  },
+  {
+    n: 4,
+    title: L('Semak draf — anda penterjemah rekod', 'Review the draft — you are the translator of record', '审阅草稿——你是署名译者'),
+    body: L(
+      'Jangan sekali-kali terbit secara membuta. Draf mendarat sebagai status: draft, translationStatus: pending, reviewer: null. Semak setiap angka, tarikh dan petikan terhadap induk. Anda menterjemah, bukan mengarang — jangan betulkan fakta secara senyap; laporkannya.',
+      'Never blind-publish. The draft lands as status: draft, translationStatus: pending, reviewer: null. Check every figure, date and citation against the master. You are translating, not authoring — don’t silently fix facts; report them.',
+      '切勿盲目发布。草稿以 status: draft、translationStatus: pending、reviewer: null 落地。对照母版核对每个数字、日期和引用。你是在翻译而非创作——不要私自"修正"事实，请如实报告。',
+    ),
+    code: null,
+  },
+  {
+    n: 5,
+    title: L('Cap & buka pull request', 'Stamp & open a pull request', '标记并发起 pull request'),
+    body: L(
+      'Rakam versi induk yang anda terjemah, kemudian buka PR untuk semakan.',
+      'Record which master version you translated, then open a PR for review.',
+      '记录你翻译的母版版本，然后发起 PR 供审阅。',
+    ),
+    code: 'node scripts/sync.mjs && npm run translate:stamp',
+  },
+];
+
+const links = [
+  { href: `${REPO}/blob/main/docs/TRANSLATION-SPEC.md`, label: L('Spesifikasi terjemahan', 'Translation spec', '翻译规范') },
+  { href: `${REPO}/blob/main/docs/plan/GLOSSARY-ZH.md`, label: L('Glosari Cina', 'Chinese glossary', '中文词汇表') },
+  { href: `${REPO}/blob/main/docs/plan/GLOSSARY-MS.md`, label: L('Glosari Melayu', 'Malay glossary', '马来文词汇表') },
+];
+---
+
+<PageHero
+  locale={locale}
+  crumb={[
+    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
+    { label: L('Sumbang', 'Contribute', '贡献'), href: localePath('/contribute', locale) },
+    { label: L('Derma Token AI', 'Donate AI Tokens', '捐赠 AI Token') },
+  ]}
+  title={L('Derma Token AI Anda', 'Donate Your AI Token', '捐赠你的 AI Token')}
+  desc={L(
+    'Bantu menterjemah pangkalan pengetahuan Malaysia menggunakan kunci Claude anda sendiri. Anda membelanjakan token anda; projek membelanjakan sifar. Terjemahan ialah keperluan terbuka terbesar kami.',
+    'Help translate Malaysia’s knowledge base using your own Claude key. You spend your tokens; the project spends none. Translation is our single largest open need.',
+    '用你自己的 Claude 密钥帮助翻译马来西亚知识库。你花费自己的 token；项目分文不花。翻译是我们最大的开放需求。',
+  )}
+/>
+
+<!-- Why -->
+<section class="container block">
+  <div class="why">
+    <span class="why-ico" aria-hidden="true">🌐</span>
+    <p>{L(
+      'Setiap artikel perlu hidup dalam tiga bahasa. Menterjemah dengan token anda sendiri menjadikan usaha ini berskala tanpa kos API pusat — dan setiap draf disemak manusia sebelum terbit.',
+      'Every article needs to live in three languages. Translating with your own tokens scales the effort without central API cost — and every draft is human-reviewed before it publishes.',
+      '每篇文章都需要以三种语言呈现。用你自己的 token 翻译，能在不产生中央 API 成本的情况下扩大规模——而每份草稿在发布前都经人工审阅。',
+    )}</p>
+  </div>
+</section>
+
+<!-- Steps -->
+<section class="container block">
+  <div class="psec">
+    <header><span>{L('Cara ia berfungsi', 'How it works', '运作方式')}</span></header>
+    <div class="psec-body">
+      <ol class="steps">
+        {steps.map((s) => (
+          <li>
+            <span class="sn">{s.n}</span>
+            <div class="scontent">
+              <b>{s.title}</b>
+              <p>{s.body}</p>
+              {s.code && (
+                <div class="cmd">
+                  <code>{s.code}</code>
+                  <button type="button" class="copy" data-copy={s.code} aria-label={L('Salin', 'Copy', '复制')}>⧉</button>
+                </div>
+              )}
+              {s.link && <a class="steplink" href={s.link.href} rel="noopener">{s.link.label} ↗</a>}
+            </div>
+          </li>
+        ))}
+      </ol>
+    </div>
+  </div>
+</section>
+
+<!-- The one rule + references -->
+<section class="container block two">
+  <div class="psec">
+    <header><span>{L('Satu peraturan yang penting', 'The one rule that matters', '唯一重要的规则')}</span></header>
+    <div class="psec-body">
+      <p class="lead">{L(
+        'Anda menterjemah, bukan mengarang. Setiap angka, tarikh dan petikan dalam induk telah disahkan terhadap sumber utama. Jika sesuatu kelihatan salah, terjemah dengan setia dan laporkannya — jangan betulkan secara senyap.',
+        'You are translating, not authoring. Every figure, date and citation in the master was verified against a primary source. If something looks wrong, translate it faithfully and report it — don’t fix it silently.',
+        '你是在翻译，而非创作。母版中的每个数字、日期和引用都经过一手来源核实。若发现疑似有误，请忠实翻译并报告——切勿私自修改。',
+      )}</p>
+      <p class="muted">{L(
+        'Draf mesin tidak pernah diterbitkan secara automatik. Ia menunggu semakan manusia dan kelulusan penyemak, sama seperti mana-mana sumbangan.',
+        'Machine drafts are never auto-published. They wait for human review and a reviewer’s sign-off, like any contribution.',
+        '机器草稿绝不会自动发布。它们与任何贡献一样，需等待人工审阅和审阅者签署。',
+      )}</p>
+    </div>
+  </div>
+  <div class="psec">
+    <header><span>{L('Rujukan', 'References', '参考')}</span></header>
+    <div class="psec-body links">
+      {links.map((l) => <a href={l.href} rel="noopener">{l.label} ↗</a>)}
+      <a href={localePath('/roles', locale)}>{L('Peranan & cara ia berfungsi', 'Roles & how it works', '角色与运作方式')} →</a>
+      <a href={localePath('/contribute', locale)}>{L('Semua cara untuk menyumbang', 'All the ways to contribute', '所有贡献方式')} →</a>
+    </div>
+  </div>
+</section>
+
+<script>
+  document.querySelectorAll('.copy').forEach((btn) => {
+    btn.addEventListener('click', async () => {
+      try {
+        await navigator.clipboard.writeText(btn.getAttribute('data-copy') || '');
+        const prev = btn.textContent;
+        btn.textContent = '✓';
+        setTimeout(() => (btn.textContent = prev), 1200);
+      } catch {}
+    });
+  });
+</script>
+
+<style>
+  .block { margin-top: 1.6rem; }
+  .psec { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; overflow: hidden; }
+  .psec > header {
+    padding: 0.45rem 0.95rem; font-size: 1.05rem; font-weight: 700; letter-spacing: 0.03em;
+    text-transform: uppercase; background: var(--surface-2); border-bottom: 1px solid var(--line); font-family: var(--font-title);
+  }
+  .psec > header span { color: var(--gold); }
+  .psec-body { padding: 1.2rem; }
+  .lead { margin: 0 0 0.9rem; color: var(--ink-soft); line-height: 1.6; }
+  .muted { margin: 0; color: var(--muted); font-size: 0.88rem; line-height: 1.55; }
+
+  .why { display: flex; gap: 0.9rem; align-items: flex-start; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 1rem 1.2rem; }
+  .why-ico { font-size: 1.4rem; line-height: 1.4; }
+  .why p { margin: 0; color: var(--ink-soft); line-height: 1.6; }
+
+  .steps { list-style: none; counter-reset: none; margin: 0; padding: 0; display: grid; gap: 1.1rem; }
+  .steps li { display: grid; grid-template-columns: auto 1fr; gap: 0.9rem; }
+  .sn {
+    display: inline-flex; align-items: center; justify-content: center; width: 1.9rem; height: 1.9rem;
+    border-radius: 999px; background: var(--gold); color: var(--accent-contrast); font-weight: 800; font-family: var(--font-title); font-size: 0.9rem;
+  }
+  .scontent b { display: block; font-family: var(--font-title); color: var(--ink); font-size: 1.02rem; margin-bottom: 0.25rem; }
+  .scontent p { margin: 0 0 0.55rem; color: var(--ink-soft); font-size: 0.92rem; line-height: 1.55; }
+  .cmd { display: flex; align-items: center; gap: 0.5rem; background: var(--surface-2); border: 1px solid var(--line); border-radius: 8px; padding: 0.5rem 0.7rem; margin-bottom: 0.5rem; overflow-x: auto; }
+  .cmd code { font-family: var(--font-mono, monospace); font-size: 0.85rem; color: var(--ink); white-space: pre; }
+  .copy { margin-left: auto; flex: none; background: none; border: 1px solid var(--line); border-radius: 6px; color: var(--muted); cursor: pointer; padding: 0.1rem 0.45rem; font-size: 0.9rem; }
+  .copy:hover { border-color: var(--gold); color: var(--gold); }
+  .steplink { color: var(--gold); text-decoration: underline; text-underline-offset: 2px; font-weight: 600; font-size: 0.9rem; }
+
+  .two { display: grid; grid-template-columns: 1.3fr 1fr; gap: 1.2rem; align-items: start; }
+  .links { display: grid; gap: 0.6rem; }
+  .links a { color: var(--gold); text-decoration: none; font-weight: 600; font-size: 0.9rem; }
+  .links a:hover { text-decoration: underline; }
+
+  @media (max-width: 800px) { .two { grid-template-columns: 1fr; } }
+</style>

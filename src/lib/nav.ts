@@ -66,8 +66,8 @@ export const NAV: NavMenu[] = [
     label: 'nav.contribute',
     items: [
       { label: 'nav.submitArticle', href: '/contribute#contribute' },
-      { label: 'nav.donate', href: '/contribute' }, // TODO: dedicated donate/support page
-      { label: 'nav.support', href: '/contribute' }, // TODO: dedicated support page
+      { label: 'nav.donate', href: '/donate' },
+      { label: 'nav.support', href: '/support' },
       { label: 'nav.whyContribute', href: '/contribute' },
       { label: 'nav.roles', href: '/roles' },
       { label: 'nav.cli', href: REPO, external: true }, // TODO: point at CLI docs if/when they exist

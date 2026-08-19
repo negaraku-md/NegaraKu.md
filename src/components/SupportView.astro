@@ -1,0 +1,69 @@
+---
+import type { Locale } from '@/lib/categories';
+import { localePath } from '@/lib/i18n';
+import PageHero from './PageHero.astro';
+
+interface Props {
+  locale: Locale;
+}
+const { locale } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+---
+
+<PageHero
+  locale={locale}
+  crumb={[
+    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
+    { label: L('Sumbang', 'Contribute', '贡献'), href: localePath('/contribute', locale) },
+    { label: L('Sokong', 'Support', '支持') },
+  ]}
+  title={L('Sokong NegaraKu.md', 'Support NegaraKu.md', '支持 NegaraKu.md')}
+  desc={L(
+    'Sumbangan wang akan datang. Buat masa ini, cara paling berkesan untuk membantu ialah menyumbang kandungan atau token AI anda.',
+    'Money donations are coming. For now, the most effective way to help is to contribute content or your AI tokens.',
+    '资金捐赠即将推出。目前，最有效的帮助方式是贡献内容或你的 AI token。',
+  )}
+/>
+
+<section class="container block">
+  <div class="psec">
+    <header><span>💛 {L('Akan datang', 'Coming soon', '即将推出')}</span></header>
+    <div class="psec-body">
+      <p class="lead">{L(
+        'Kami sedang menyediakan cara yang selamat dan telus untuk menerima sumbangan wang. Sehingga itu, dua cara ini membantu paling banyak:',
+        'We’re setting up a safe, transparent way to accept money donations. Until then, these two help the most:',
+        '我们正在搭建一种安全、透明的资金捐赠方式。在此之前，以下两种方式帮助最大：',
+      )}</p>
+      <div class="cards">
+        <a class="card" href={localePath('/donate', locale)}>
+          <span class="ci" aria-hidden="true">🌐</span>
+          <b>{L('Derma Token AI Anda', 'Donate Your AI Token', '捐赠你的 AI Token')}</b>
+          <p>{L('Terjemah artikel dengan kunci Claude anda sendiri.', 'Translate articles with your own Claude key.', '用你自己的 Claude 密钥翻译文章。')}</p>
+        </a>
+        <a class="card" href={localePath('/contribute', locale)}>
+          <span class="ci" aria-hidden="true">✍️</span>
+          <b>{L('Sumbang kandungan', 'Contribute content', '贡献内容')}</b>
+          <p>{L('Lapor, cadang atau tulis artikel.', 'Report, suggest, or author articles.', '报告、建议或撰写文章。')}</p>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+  .block { margin-top: 1.6rem; }
+  .psec { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; overflow: hidden; }
+  .psec > header {
+    padding: 0.45rem 0.95rem; font-size: 1.05rem; font-weight: 700; letter-spacing: 0.03em;
+    text-transform: uppercase; background: var(--surface-2); border-bottom: 1px solid var(--line); font-family: var(--font-title);
+  }
+  .psec > header span { color: var(--gold); }
+  .psec-body { padding: 1.2rem; }
+  .lead { margin: 0 0 1.1rem; color: var(--ink-soft); line-height: 1.6; }
+  .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr)); gap: 1rem; }
+  .card { display: block; text-decoration: none; background: var(--surface-2); border: 1px solid var(--line); border-radius: 12px; padding: 1.2rem 1.25rem; transition: border-color 0.15s, transform 0.15s; }
+  .card:hover { border-color: var(--gold); transform: translateY(-2px); }
+  .ci { font-size: 1.7rem; }
+  .card b { display: block; font-family: var(--font-title); font-size: 1.1rem; margin: 0.5rem 0 0.3rem; color: var(--ink); }
+  .card p { margin: 0; color: var(--ink-soft); font-size: 0.9rem; line-height: 1.5; }
+</style>

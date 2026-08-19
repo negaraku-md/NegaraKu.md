@@ -1,0 +1,9 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import DonateTokenView from '@/components/DonateTokenView.astro';
+const locale = 'zh';
+---
+
+<BaseLayout locale={locale} title="捐赠你的 AI Token" path="/donate">
+  <DonateTokenView locale={locale} />
+</BaseLayout>
