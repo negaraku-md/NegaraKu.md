@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-TOU-0006
 title: "Kuala Lumpur Visitor Guide"
 seoTitle: "Kuala Lumpur Visitor Guide: Towers, Batu Caves, Transport & Tips"

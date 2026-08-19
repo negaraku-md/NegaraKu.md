@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: "MY-EMP-0056"
 title: "Labour Department (JTKSM): What It Does and How to File a Labour Complaint"
 seoTitle: "JTKSM Labour Department: Functions & How to Complain"

@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-ART-0060
 title: "Komuniti Sikh dan Punjabi di Malaysia"
 seoTitle: "Komuniti Sikh dan Punjabi di Malaysia: Sejarah, Gurdwara dan Budaya"

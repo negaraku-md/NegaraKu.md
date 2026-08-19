@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-LAW-0086
 title: "Akta Pencegahan Jenayah (POCA): Tahanan Pencegahan bagi Jenayah Terancang"
 seoTitle: "Akta Pencegahan Jenayah 1959 (POCA): Tahanan & Lembaga"

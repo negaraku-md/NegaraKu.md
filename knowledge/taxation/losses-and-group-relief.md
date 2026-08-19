@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-TAX-0007
 title: "Losses, Group Relief and Unabsorbed Capital Allowances"
 seoTitle: "Business Loss Carry Forward and Group Relief Malaysia"

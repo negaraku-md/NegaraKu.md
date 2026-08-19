@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: "MY-BIZ-0122"
 title: "How to Start a Business in Malaysia"
 seoTitle: "How to Start a Business in Malaysia (SSM Guide)"

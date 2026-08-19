@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-CS-0019
 title: "Register of Members: Two Duties, Two Separate Clocks"
 slug: "register-of-members"

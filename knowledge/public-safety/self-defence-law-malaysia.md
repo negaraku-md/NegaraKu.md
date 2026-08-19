@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-PS-0016
 title: "Undang-Undang Pertahanan Diri di Malaysia"
 seoTitle: "Pertahanan Diri dan Undang-Undang di Malaysia: Hak dan Had"

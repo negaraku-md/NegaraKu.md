@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-ECO-0002
 title: "Malaysia's Palm Oil Sector"
 slug: "palm-oil-sector"

@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-BIZ-0120
 title: "Compulsory Winding Up by the Court: Creditor Petitions in Malaysia"
 seoTitle: "Winding Up by the Court Malaysia: Section 466 Creditor Petitions"

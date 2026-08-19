@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-EMP-0041
 title: "The Employment Pass After the 1 June 2026 Salary Revision"
 seoTitle: "Employment Pass Malaysia: 2026 Salary Bands"

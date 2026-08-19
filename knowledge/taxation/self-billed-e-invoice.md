@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-TAX-0009
 title: "Self-Billed e-Invoices: When the Buyer Has to Issue"
 seoTitle: "Self-Billed e-Invoice Malaysia: Rules and Scenarios"

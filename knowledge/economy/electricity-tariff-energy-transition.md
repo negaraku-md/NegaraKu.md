@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-ECO-0026
 title: "Tarif Elektrik Malaysia dan Peralihan Tenaga Negara"
 seoTitle: "Tarif Elektrik Malaysia RP4 & Pelan Peralihan Tenaga (NETR)"

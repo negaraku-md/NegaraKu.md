@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-LIV-0122
 title: "Diisytihar Bankrap di Malaysia: Proses Insolvensi dan Laluan ke Pelepasan"
 seoTitle: "Kebankrapan Individu di Malaysia: Proses, Ambang & Pelepasan"

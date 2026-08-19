@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-LIV-0141
 title: "Getting Divorced in Malaysia: Why It Splits by Religion Too"
 seoTitle: "Divorce in Malaysia: Civil vs Syariah — How the Two Systems Work"

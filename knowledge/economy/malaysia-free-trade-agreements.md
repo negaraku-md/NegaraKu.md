@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-ECO-0030
 title: "Malaysia's Free Trade Agreements: CPTPP, RCEP and the Rest of the Portfolio"
 seoTitle: "Malaysia Free Trade Agreements (FTAs): CPTPP, RCEP & Full List"

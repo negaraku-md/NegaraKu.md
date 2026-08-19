@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-IND-0012
 title: "Manufacturing Beyond E&E and Autos"
 seoTitle: "Malaysia Manufacturing Beyond Electronics and Automotive"

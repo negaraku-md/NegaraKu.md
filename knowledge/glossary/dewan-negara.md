@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-GLO-0021
 title: "Dewan Negara: Dewan Tinggi Parlimen yang Tidak Melalui Pilihan Raya Umum"
 slug: "dewan-negara"

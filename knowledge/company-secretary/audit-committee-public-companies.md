@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-CS-0045
 title: "The Audit Committee: What Malaysian Public Companies Actually Have to Do"
 seoTitle: "Audit Committee Requirements Malaysia"

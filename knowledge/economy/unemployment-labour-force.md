@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-ECO-0004
 title: "Malaysia's Unemployment Rate and the Labour Force Behind It"
 slug: "unemployment-labour-force"

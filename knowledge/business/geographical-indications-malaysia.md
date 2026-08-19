@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-BIZ-0116
 title: "Geographical Indications: Registering a Regional Product Name in Malaysia"
 seoTitle: "Geographical Indications in Malaysia: GI Act 2022 & MyIPO Registration"

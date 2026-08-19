@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-BIZ-0039
 title: "Malaysia's Foreign Exchange Policy: A Founder's Guide to the FEP Notices"
 seoTitle: "Foreign Exchange Policy Malaysia: FEP Rules"

@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-TAX-0034
 title: "The SST B2B Exemption and What Your Invoice Must Show"
 slug: "sst-b2b-exemption"

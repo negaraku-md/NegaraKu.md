@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-GLO-0007
 title: "MyKad"
 slug: "mykad"

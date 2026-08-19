@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-ENV-0013
 title: "Palm Oil Sustainability: MSPO Certification and the Deforestation Debate"
 seoTitle: "MSPO Certification, EUDR and Palm Oil Deforestation Explained"

@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-AUD-0025
 title: "Why Auditors Scrutinise Related Party Transactions"
 seoTitle: "Related Party Transactions: The ISA 550 Audit Focus"

@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: "MY-GOV-0096"
 title: "The Ministry of Housing and Local Government (KPKT): Functions, Agencies, and the Laws It Administers"
 seoTitle: "KPKT: Ministry of Housing & Local Government"

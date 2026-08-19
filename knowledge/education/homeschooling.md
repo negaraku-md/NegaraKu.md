@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-LIV-0061
 title: "Homeschooling in Malaysia: Legal, But Only Through a Ministerial Exemption"
 slug: "homeschooling"

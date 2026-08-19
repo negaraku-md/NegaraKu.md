@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-TAX-0022
 title: "How a Limited Liability Partnership is Taxed in Malaysia"
 seoTitle: "LLP Tax Malaysia: Rates, Capital Test and Filing"

@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-BIZ-0085
 title: "Doing Business in Penang: Two Councils, Two Sets of Rules"
 seoTitle: "Doing Business in Penang: MBPP and MBSP Licensing"

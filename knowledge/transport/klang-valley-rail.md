@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-LIV-0001
 title: "How Kuala Lumpur's MRT, LRT, Monorail and KTM Lines Connect"
 slug: "klang-valley-rail"

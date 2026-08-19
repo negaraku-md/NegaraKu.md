@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-CS-0053
 title: "Cara Syarikat Menyempurnakan Dokumen (Cop Mohor dan Alternatifnya)"
 seoTitle: "Penyempurnaan Dokumen oleh Syarikat: Cop Mohor & Tandatangan (Seksyen 66)"

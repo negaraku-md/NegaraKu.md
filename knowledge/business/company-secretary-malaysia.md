@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-BIZ-0006
 title: "Do I Need a Company Secretary in Malaysia, and What Do They Actually Do?"
 seoTitle: "Company Secretary Malaysia: What the Law Requires"

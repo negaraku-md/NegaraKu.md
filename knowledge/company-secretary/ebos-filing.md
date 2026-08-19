@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-CS-0010
 title: "Filing Beneficial Ownership Information Through e-BOS"
 slug: "ebos-filing"

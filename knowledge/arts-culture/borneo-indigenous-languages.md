@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-ART-0048
 title: "The Indigenous Languages of Sabah and Sarawak: Borneo's Main Language Families"
 seoTitle: "Indigenous Languages of Sabah and Sarawak Explained"

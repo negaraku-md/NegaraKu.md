@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-SPT-0017
 title: "Sepak Takraw: Sukan Menendang Bola Rotan dari Alam Melayu"
 seoTitle: "Sepak Takraw Malaysia: Sejarah, Peraturan dan Rekod"

@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-CS-0031
 title: "Removing a Director: Why a Written Resolution Will Not Work"
 seoTitle: "Remove a Director Malaysia: s.206 and the s.297 Trap"

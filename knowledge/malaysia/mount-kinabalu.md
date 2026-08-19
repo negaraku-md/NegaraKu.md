@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: "MY-HIS-0046"
 title: "Mount Kinabalu: How a Six-Metre Correction Rewrote Malaysia's Highest Point"
 seoTitle: "Mount Kinabalu: Height, Geology and Protected Status"

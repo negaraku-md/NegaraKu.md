@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-ART-0026
 title: "Gawai Dayak: Sarawak's Harvest Festival and the Longhouse Rituals Behind It"
 seoTitle: "Gawai Dayak: Sarawak's Dayak Harvest Festival Explained"

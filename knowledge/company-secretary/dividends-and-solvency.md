@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-CS-0043
 title: "Dividends and the Solvency Test: When a Sdn Bhd Can Actually Pay"
 seoTitle: "Dividends Malaysia: Profits and Solvency Test"

@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-LAW-0010
 title: "Malaysia's court hierarchy — which court hears what, and the exact money and sentencing limits"
 slug: "court-hierarchy"

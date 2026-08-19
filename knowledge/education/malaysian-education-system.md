@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-LIV-0051
 title: "Malaysia's Education System, From Preschool to University"
 slug: "malaysian-education-system"

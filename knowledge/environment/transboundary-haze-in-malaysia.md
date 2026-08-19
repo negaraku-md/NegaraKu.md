@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-ENV-0018
 title: "Jerebu Rentas Sempadan di Malaysia: Punca, Kesan Kesihatan dan Tindak Balas Serantau"
 seoTitle: "Jerebu Rentas Sempadan di Malaysia: Punca, API dan Tindak Balas"

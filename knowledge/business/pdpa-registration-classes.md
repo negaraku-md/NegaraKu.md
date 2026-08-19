@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-BIZ-0057
 title: "Which Businesses Must Register Under the PDPA?"
 seoTitle: "PDPA Registration Classes Malaysia: All 13 Listed"

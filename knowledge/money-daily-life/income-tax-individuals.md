@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-LIV-0012
 title: "Do You Have to File Income Tax in Malaysia? Start With the Residency Test, Not the Salary Number"
 seoTitle: "Malaysia Personal Income Tax: Residency Test & How to e-File"

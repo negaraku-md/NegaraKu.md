@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-EMP-0037
 title: "Worker Accommodation and the Certificate for Accommodation"
 seoTitle: "Act 446 Worker Accommodation Malaysia"

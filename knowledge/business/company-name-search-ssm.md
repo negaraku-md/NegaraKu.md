@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-BIZ-0015
 title: "Company Name Search, Reservation and Rejection at SSM"
 seoTitle: "SSM Company Name Search and Rejection Rules"

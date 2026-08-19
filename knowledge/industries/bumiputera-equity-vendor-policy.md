@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-IND-0003
 title: "Dasar Ekuiti Bumiputera dan Pembangunan Vendor dalam Industri Strategik"
 seoTitle: "Ekuiti Bumiputera & Program Vendor dalam Industri Strategik Malaysia"

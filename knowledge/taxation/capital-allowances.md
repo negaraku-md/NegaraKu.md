@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-TAX-0051
 title: "Capital Allowances Under Schedule 3, Worked End to End"
 seoTitle: "Capital Allowances Malaysia: Schedule 3 Explained"

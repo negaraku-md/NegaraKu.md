@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-ENE-0011
 title: "Akta Kemajuan Petroleum 1974: Rangka Kerja Minyak & Gas Malaysia"
 seoTitle: "Akta Kemajuan Petroleum 1974: Pemilikan Petroleum & Petronas"

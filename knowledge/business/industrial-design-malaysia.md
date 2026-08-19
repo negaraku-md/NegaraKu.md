@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-BIZ-0043
 title: "Industrial Design Registration in Malaysia"
 seoTitle: "Industrial Design Registration Malaysia (MyIPO)"

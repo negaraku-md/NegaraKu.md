@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-LIV-0105
 title: "B40, M40, T20: Bagaimana Malaysia Mengelaskan Kumpulan Pendapatan"
 seoTitle: "B40, M40, T20: Maksud dan Cara Pengelasan Pendapatan Isi Rumah Malaysia"

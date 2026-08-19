@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-GLO-0030
 title: "Rakyat: mengapa Malaysia ada dua perkataan untuk 'orang ramai' — dan satu lagi untuk 'warganegara'"
 slug: "rakyat"

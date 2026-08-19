@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-GOV-0032
 title: "Undi18 dan Pendaftaran Pemilih Automatik: Apa yang Diubah oleh Akta A1603"
 slug: "undi18"

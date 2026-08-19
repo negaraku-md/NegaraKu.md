@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-LAW-0062
 title: "Arbitration and Alternative Dispute Resolution"
 seoTitle: "Arbitration & ADR in Malaysia: Act 2005, AIAC, Mediation"

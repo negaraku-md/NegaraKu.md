@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-BIZ-0110
 title: "AMLA Compliance for Malaysian Businesses: Reporting Institutions and DNFBPs"
 seoTitle: "AMLA DNFBP Compliance Malaysia: CDD and STR Obligations"

@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-BIZ-0082
 title: "Cyberjaya — The Place, and Malaysia Digital, the Status That Left It Behind"
 seoTitle: "Cyberjaya Tech Hub and Malaysia Digital Status"

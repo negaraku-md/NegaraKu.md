@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: "MY-ENE-0019"
 title: "Renewable Energy in Malaysia: Targets, Schemes and Who Each One Is For"
 seoTitle: "Renewable Energy in Malaysia (RE): Targets & Schemes"

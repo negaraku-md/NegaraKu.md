@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-BIZ-0026
 title: "The Malaysian Business Licence Map: Federal, State and Local"
 seoTitle: "Business Licence Malaysia: Who Issues What"

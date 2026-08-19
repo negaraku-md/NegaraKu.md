@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-EMP-0003
 title: "The Employment Act 1955 as it stands today"
 seoTitle: "Employment Act 1955 Malaysia — current law, by section"

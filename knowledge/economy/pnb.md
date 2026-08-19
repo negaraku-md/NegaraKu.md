@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-ECO-0020
 title: "Permodalan Nasional Berhad: The Manager Behind ASB and ASN"
 slug: "pnb"

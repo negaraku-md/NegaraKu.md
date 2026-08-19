@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-BIZ-0058
 title: "Repatriating Profits and Dividends from Malaysia"
 seoTitle: "Repatriate Profits Malaysia: Dividends and Tax"

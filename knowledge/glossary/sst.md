@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-GLO-0004
 title: "SST"
 slug: "sst"

@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-TOU-0003
 title: "Diving and Marine Ecotourism in Malaysia"
 seoTitle: "Diving in Malaysia: Permits, Marine Park Fees and Rules"

@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-SPT-0004
 title: "Football in Malaysia: FAM, Harimau Malaya and a Century of the Malaysia Cup"
 seoTitle: "Bola Sepak Malaysia: FAM, Harimau Malaya dan Piala Malaysia"

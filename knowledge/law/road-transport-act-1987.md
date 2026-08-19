@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: "MY-LAW-0099"
 title: "Road Transport Act 1987: Malaysia's Road and Traffic Law, Decoded"
 seoTitle: "Road Transport Act 1987 (Act 333): Offences & Penalties"

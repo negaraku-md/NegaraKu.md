@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-BIZ-0037
 title: "The Resident Director Requirement and the Nominee Director Trap"
 seoTitle: "Resident Director Malaysia — Nominee Risks"

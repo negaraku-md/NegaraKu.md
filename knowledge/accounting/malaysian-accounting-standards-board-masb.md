@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: "MY-ACC-0035"
 title: "Malaysian Accounting Standards Board (MASB)"
 seoTitle: "MASB: Malaysia's Accounting Standards Board"

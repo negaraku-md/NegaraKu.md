@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-LAW-0013
 title: "Penal Code (Act 574): Malaysia's Principal Criminal Statute"
 slug: "penal-code"

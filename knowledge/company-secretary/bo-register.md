@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-CS-0006
 title: "Keeping the Register of Beneficial Owners (s.60B)"
 slug: "bo-register"

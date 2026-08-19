@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-ART-0046
 title: "Malaysia's Museums: What Muzium Negara, the Islamic Arts Museum and the State Museums Actually Hold"
 slug: "malaysian-museums"

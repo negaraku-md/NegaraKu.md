@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-ENE-0006
 title: "Sistem Subsidi Bahan Api Malaysia: RON95, Diesel dan Rasionalisasi Bersasar"
 seoTitle: "Subsidi Bahan Api Malaysia: BUDI95, RON95 RM1.99, Diesel & PADU"

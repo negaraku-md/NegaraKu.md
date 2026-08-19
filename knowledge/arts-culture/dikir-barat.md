@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-ART-0040
 title: "Dikir Barat: Apabila Dua Kumpulan Berbalas Pantun di Atas Pentas"
 slug: "dikir-barat"

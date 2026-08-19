@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-BIZ-0076
 title: "Malaysia's Economic Corridors Compared"
 seoTitle: "Malaysia Economic Corridors Compared"

@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-ART-0047
 title: "同是华人，各说各话：马来西亚华人的方言版图"
 slug: "chinese-dialects"

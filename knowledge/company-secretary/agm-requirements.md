@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-CS-0038
 title: "AGM Requirements in Malaysia: Who Still Has to Hold One"
 seoTitle: "AGM Requirements Malaysia: Who Must Hold One"

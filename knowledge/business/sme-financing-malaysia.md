@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-BIZ-0070
 title: "Government Financing and Guarantee Schemes for Malaysian SMEs"
 seoTitle: "SME Financing Malaysia: Schemes and Eligibility"

@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-ST-0001
 title: "Selangor"
 slug: "selangor"

@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: "MY-ECO-0019"
 title: "Khazanah Nasional: What Malaysia's Sovereign Wealth Fund Actually Owns and Owes"
 seoTitle: "Khazanah Nasional: Malaysia's Sovereign Wealth Fund Explained"

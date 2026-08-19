@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-CS-0023
 title: "The 30-Day Company Secretary Vacancy Rule"
 slug: "secretary-vacancy-30-days"

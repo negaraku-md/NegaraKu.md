@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-LIV-0059
 title: "PTPTN Bukan Biasiswa: Begini Cara Pinjaman Pendidikan Ini Sebenarnya Berfungsi"
 seoTitle: "PTPTN: Kelayakan dan Konsep Bayaran Balik"

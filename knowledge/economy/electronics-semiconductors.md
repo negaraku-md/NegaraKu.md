@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-ECO-0008
 title: "Electronics and Semiconductors: The Sector That Carries Malaysia's Exports"
 slug: "electronics-semiconductors"

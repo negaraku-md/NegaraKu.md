@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-EMP-0002
 title: "Domestic inquiry: running one that survives the Industrial Court"
 seoTitle: "Domestic Inquiry Malaysia — Procedure and Defects"

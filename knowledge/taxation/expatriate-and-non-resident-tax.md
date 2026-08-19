@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-TAX-0059
 title: "Expatriate and Non-Resident Tax: the Flat 30% and the Escapes"
 seoTitle: "Expatriate Tax Malaysia: Non-Resident Rates"

@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-LIV-0116
 title: "MRSM dan Sekolah Berasrama Penuh (SBP)"
 seoTitle: "MRSM dan SBP: Perbezaan, Kemasukan dan Dasar Kuota"

@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-CO-0017
 title: "Sime Darby: From Colonial Trading House to Three Listed Companies"
 seoTitle: "Sime Darby Group: The 2017 Demerger Into Three Companies"

@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-ENV-0006
 title: "Environmental Impact Assessment (EIA) in Malaysia: When It's Required and How It Works"
 seoTitle: "EIA Malaysia: Prescribed Activities, Schedules & Approval Process"

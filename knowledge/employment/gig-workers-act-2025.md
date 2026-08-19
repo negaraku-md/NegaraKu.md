@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-EMP-0008
 title: "The Gig Workers Act 2025: a classification statute with a social-security bolt-on"
 seoTitle: "Gig Workers Act 2025 Malaysia (Act 872) — what it changes"

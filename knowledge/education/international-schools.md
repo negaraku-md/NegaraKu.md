@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-LIV-0052
 title: "International Schools in Malaysia: The Curricula, the Rules Behind Them, and Why Fees Vary So Widely"
 slug: "international-schools"

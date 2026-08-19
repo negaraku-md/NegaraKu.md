@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-SPT-0015
 title: "SUKMA: Sukan Malaysia dan Saluran Bakat Muda Negara"
 seoTitle: "SUKMA (Sukan Malaysia): Apa Itu dan Bagaimana Ia Menyuap Atlet Elit"

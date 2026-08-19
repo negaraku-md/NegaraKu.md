@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-TAX-0117
 title: "Malaysian Tax Penalties and Offences Reference"
 seoTitle: "Tax Penalties Malaysia: Offence, Statute, Rate and Concession"

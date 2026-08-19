@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-ENV-0002
 title: "The Bornean Orangutan and Habitat Protection in Sabah"
 seoTitle: "Bornean Orangutan Conservation and Habitat Protection in Sabah"

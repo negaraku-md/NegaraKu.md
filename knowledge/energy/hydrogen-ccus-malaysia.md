@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-ENE-0007
 title: "Hydrogen and Carbon Capture (CCUS) in Malaysia"
 seoTitle: "Malaysia Hydrogen and CCUS: H2biscus, H2ornbill and Kasawari Explained"

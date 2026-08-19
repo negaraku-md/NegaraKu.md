@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-ECO-0025
 title: "PIDM: What Happens to Your Money If a Malaysian Bank Fails"
 seoTitle: "PIDM Deposit Insurance Malaysia — Limits, Coverage & TIPS Explained"

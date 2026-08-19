@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-ART-0023
 title: "How Malaysia Marks Christmas — From Midnight Mass to the Open House"
 slug: "christmas-malaysia"

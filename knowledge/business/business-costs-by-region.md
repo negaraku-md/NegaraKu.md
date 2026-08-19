@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-BIZ-0102
 title: "What It Costs to Operate in Each Malaysian Region — the Figures That Are Actually Published"
 seoTitle: "Business Costs by Region Malaysia"

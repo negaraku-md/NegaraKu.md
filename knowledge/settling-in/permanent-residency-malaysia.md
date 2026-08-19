@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-LIV-0145
 title: "Permanent Residency in Malaysia: The Red IC (MyPR) Route"
 seoTitle: "Malaysia Permanent Residency (MyPR): Eligibility & How to Apply"

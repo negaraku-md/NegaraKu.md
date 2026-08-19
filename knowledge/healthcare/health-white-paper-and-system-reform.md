@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-LIV-0097
 title: "Kertas Putih Kesihatan: Pelan Malaysia Membaik Pulih Sistem Kesihatannya"
 seoTitle: "Kertas Putih Kesihatan Malaysia: Reformasi Sistem Kesihatan"

@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-TOU-0011
 title: "Melaka Heritage: A Visitor's Guide to the UNESCO Old Town"
 seoTitle: "Melaka Heritage Guide: Jonker Street, A Famosa, Baba Nyonya & UNESCO"

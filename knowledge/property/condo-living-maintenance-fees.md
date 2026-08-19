@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-LIV-0040
 title: "Condo Living in Malaysia: Why Your Maintenance Fee Has a Sibling Called the Sinking Fund"
 slug: "condo-living-maintenance-fees"

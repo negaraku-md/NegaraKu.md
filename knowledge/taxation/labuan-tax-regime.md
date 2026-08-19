@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-TAX-0020
 title: "Labuan Tax: the 3% Regime, Substance Rules and When It Fails"
 seoTitle: "Labuan Tax Regime Malaysia: 3% Rate and Substance"

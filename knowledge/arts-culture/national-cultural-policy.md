@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-ART-0056
 title: "Dasar Kebudayaan Kebangsaan 1971"
 seoTitle: "Dasar Kebudayaan Kebangsaan 1971: Kongres, Tiga Prinsip & Perdebatan"

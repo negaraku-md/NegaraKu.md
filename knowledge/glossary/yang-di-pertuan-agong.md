@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-GLO-0022
 title: "Yang di-Pertuan Agong — Takhta Persekutuan yang Dipilih, Bukan Diwarisi"
 slug: "yang-di-pertuan-agong"

@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-ART-0054
 title: "Industri Filem Malaysia"
 seoTitle: "Industri Filem Malaysia: Sejarah, FINAS dan Sinema Hari Ini"

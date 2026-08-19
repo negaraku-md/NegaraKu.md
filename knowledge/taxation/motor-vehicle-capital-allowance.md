@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-TAX-0038
 title: "Motor Vehicles and the Capital Allowance Restriction"
 seoTitle: "Motor Vehicle Capital Allowance Malaysia — RM50k or RM100k"

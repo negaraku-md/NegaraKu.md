@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: "MY-GOV-0091"
 title: "Ministry of Home Affairs (KDN): What It Does and Every Agency Under It"
 seoTitle: "Ministry of Home Affairs (KDN): Agencies & Functions"

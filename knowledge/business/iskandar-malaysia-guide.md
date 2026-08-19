@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-BIZ-0050
 title: "Iskandar Malaysia and IRDA — What Survives Now the JS-SEZ Overlays It"
 seoTitle: "Iskandar Malaysia Incentives and IRDA Today"

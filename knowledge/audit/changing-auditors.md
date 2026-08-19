@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-AUD-0007
 title: "Changing Auditors: Removal, Resignation and Special Notice"
 seoTitle: "Changing Auditors Malaysia: Removal and Resignation"

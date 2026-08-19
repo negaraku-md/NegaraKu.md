@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-GOV-0003
 title: "Parliament of Malaysia"
 slug: "parliament"

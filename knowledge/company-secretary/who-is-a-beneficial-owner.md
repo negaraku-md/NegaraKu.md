@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-CS-0026
 title: "Who Counts as a Beneficial Owner in Malaysia?"
 slug: "who-is-a-beneficial-owner"

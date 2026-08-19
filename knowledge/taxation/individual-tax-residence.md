@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-TAX-0056
 title: "Tax Residence for Individuals: the Four Tests in s.7(1)"
 seoTitle: "Tax Residence Malaysia: the Four s.7(1) Tests"

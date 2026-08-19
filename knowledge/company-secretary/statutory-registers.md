@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-CS-0003
 title: "Statutory Registers Every Sdn Bhd Must Keep: A Checklist"
 slug: "statutory-registers"

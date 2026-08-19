@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: "MY-LIV-0011"
 title: "Buying a Mobile SIM in Malaysia: Prepaid, Postpaid, and the Registration Step You Can't Skip"
 slug: "mobile-sim-plans"

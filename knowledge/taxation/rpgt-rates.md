@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-TAX-0017
 title: "RPGT Rates and How to Compute the Gain"
 slug: "rpgt-rates"

@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-HIS-0010
 title: "Sepuluh Hari yang Menamatkan Melaka: Mengapa Pelabuhan Terkaya Nusantara Tumbang Begitu Cepat"
 seoTitle: "Kejatuhan Melaka kepada Portugis: Sebab dan Kesan"

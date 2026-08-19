@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-LIV-0015
 title: "Moving to Malaysia: The Order to Sort Out Your Pass, Entry, and First-Week Admin"
 slug: "moving-to-malaysia-first-steps"

@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: "MY-TEC-0014"
 title: "MDEC and Malaysia Digital Status: The Agency, the Status, and the Incentives Explained"
 seoTitle: "MDEC & Malaysia Digital Status: Incentives"

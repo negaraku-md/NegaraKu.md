@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-ECO-0003
 title: "Malaysia's Inflation Rate and What the CPI Actually Measures"
 slug: "inflation-cpi"

@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-IND-0013
 title: "New Industrial Master Plan 2030 (NIMP 2030)"
 seoTitle: "NIMP 2030: Malaysia's New Industrial Master Plan Explained"

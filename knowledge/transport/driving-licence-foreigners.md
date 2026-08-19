@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-LIV-0004
 title: "Driving in Malaysia as a Foreigner: IDP, Licence Conversion and What JPJ Actually Allows"
 seoTitle: "Foreigner Driving Licence Malaysia — IDP and Conversion Rules"

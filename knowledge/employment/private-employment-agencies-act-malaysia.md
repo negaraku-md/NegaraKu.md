@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-EMP-0052
 title: "Akta Agensi Pekerjaan Swasta 1981: Lesen untuk Firma Pengambilan dan Headhunting"
 seoTitle: "Akta Agensi Pekerjaan Swasta 1981 (Akta 246): Lesen A, B, C"

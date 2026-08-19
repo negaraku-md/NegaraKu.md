@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-LIV-0125
 title: "E-Wallet di Malaysia: Cara Ia Dikawal Selia dan Nasib Wang Anda Jika Pengeluar Gagal"
 seoTitle: "Regulasi E-Wallet Malaysia: Safeguarding, PIDM dan Keselamatan Baki Anda"

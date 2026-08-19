@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-TAX-0052
 title: "Section 39: The Expenses You Can Never Deduct"
 seoTitle: "Non-Deductible Expenses Malaysia: Section 39 Listed"

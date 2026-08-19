@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-HIS-0040
 title: "What Malaysia Actually Is: A Federation, Explained From the Ground Up"
 slug: "what-malaysia-is"

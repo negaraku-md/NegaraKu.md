@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-ART-0058
 title: "Ngajat: Tarian Pahlawan Kaum Iban Sarawak"
 seoTitle: "Tarian Ngajat Iban Sarawak: Maksud, Sejarah dan Jenis"

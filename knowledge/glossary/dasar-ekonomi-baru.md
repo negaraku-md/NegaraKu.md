@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-GLO-0035
 title: "Dasar Ekonomi Baru (DEB): Rangka Tindakan Afirmatif 1971 dan Dua Matlamatnya"
 seoTitle: "Dasar Ekonomi Baru (DEB / NEP): Maksud, Matlamat dan Sasaran"

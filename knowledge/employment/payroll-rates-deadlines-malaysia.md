@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-EMP-0014
 title: "Statutory Contribution Rates and Payroll Deadlines"
 seoTitle: "Malaysia Payroll Rates and Deadlines Reference"

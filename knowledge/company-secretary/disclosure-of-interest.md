@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-CS-0028
 title: "Disclosure of Interest in Contracts: s.221 and s.222 in Practice"
 seoTitle: "Disclosure of Interest Malaysia: s.221 CA 2016 Explained"

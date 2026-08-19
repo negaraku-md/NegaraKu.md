@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-FDL-0007
 title: "Pensijilan Halal di Malaysia: Cara Sijil JAKIM Berfungsi"
 seoTitle: "Pensijilan Halal Malaysia: Panduan Sijil Halal JAKIM & MS 1500"

@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-BIZ-0009
 title: "Company Constitution or the Companies Act Default? What You Inherit by Skipping It"
 seoTitle: "Company Constitution Malaysia: Do You Need One?"

@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-EMP-0026
 title: "Fixed-term contracts and when they become permanent employment"
 seoTitle: "Fixed-term contract Malaysia — renewals and dismissal risk"

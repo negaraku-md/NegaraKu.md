@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: "MY-LIV-0073"
 title: "999, 997, and the First Hour After You Realise You've Been Scammed"
 slug: "staying-safe-scams-and-emergencies"

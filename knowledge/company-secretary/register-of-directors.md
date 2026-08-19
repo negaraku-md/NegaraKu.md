@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-CS-0018
 title: "Register of Directors, Managers and Secretaries: s.57 vs s.58"
 seoTitle: "Register of Directors Malaysia: s.57 and s.58 Duties"

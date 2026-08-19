@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-BIZ-0045
 title: "Corporate Rescue in Malaysia — Before You Close the Company"
 seoTitle: "Corporate Rescue Malaysia — JM, Schemes, CVA"

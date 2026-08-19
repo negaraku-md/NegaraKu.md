@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-LAW-0022
 title: "Article 153: What the Federal Constitution Actually Reserves, and What It Cannot Touch"
 slug: "article-153-special-position"

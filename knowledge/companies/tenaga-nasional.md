@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-CO-0019
 title: "Tenaga Nasional Berhad: Utiliti Elektrik Negara"
 seoTitle: "Tenaga Nasional Berhad (TNB): Sejarah, Monopoli Grid & Peranan NETR"

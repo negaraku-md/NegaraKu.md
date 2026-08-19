@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-ECO-0011
 title: "Islamic Finance in Malaysia: The Contracts Beneath the Headline Numbers"
 slug: "islamic-finance"

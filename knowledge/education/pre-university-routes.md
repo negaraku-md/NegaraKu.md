@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-LIV-0057
 title: "STPM, Matriculation, Foundation or A-Levels: What Actually Separates Malaysia's Pre-University Routes"
 seoTitle: "STPM vs Matrikulasi vs Foundation vs A-Level Malaysia"

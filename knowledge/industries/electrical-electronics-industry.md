@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-IND-0007
 title: "The Electrical & Electronics (E&E) Industry"
 seoTitle: "Malaysia's Electrical & Electronics (E&E) Industry Explained"

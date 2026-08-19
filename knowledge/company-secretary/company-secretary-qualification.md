@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-CS-0009
 title: "Who Can Be a Company Secretary in Malaysia"
 slug: "company-secretary-qualification"

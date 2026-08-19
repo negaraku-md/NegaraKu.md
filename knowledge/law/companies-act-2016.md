@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-LAW-0001
 title: "Companies Act 2016 (Act 777)"
 slug: "companies-act-2016"

@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-LAW-0070
 title: "EPF dan SOCSO: Skim Perlindungan Pekerja Wajib di Malaysia"
 seoTitle: "EPF, SOCSO & SIP Malaysia: Kadar Caruman, Faedah & Tanggungjawab Majikan"

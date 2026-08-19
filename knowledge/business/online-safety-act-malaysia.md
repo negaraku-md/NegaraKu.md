@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-BIZ-0053
 title: "The Online Safety Act 2025: Who It Binds and What It Demands"
 seoTitle: "Online Safety Act 2025 Malaysia: Duties and Deadlines"

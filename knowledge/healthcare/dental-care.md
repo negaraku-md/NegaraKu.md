@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-LIV-0048
 title: "Klinik Pergigian Kerajaan atau Swasta? Memahami Dua Sistem Penjagaan Gigi Malaysia"
 slug: "dental-care"

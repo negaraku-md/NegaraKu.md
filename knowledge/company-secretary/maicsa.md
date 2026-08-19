@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-CS-0014
 title: "MAICSA — Chartered Secretaries Malaysia"
 slug: "maicsa"

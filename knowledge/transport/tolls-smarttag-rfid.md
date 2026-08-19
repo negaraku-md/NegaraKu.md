@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: "MY-LIV-0066"
 title: "Tol Lebuh Raya Malaysia: Daripada Kad Disentuh Kepada Lorong Tanpa Palang"
 slug: "tolls-smarttag-rfid"

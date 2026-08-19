@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-AUD-0022
 title: "Group Audits: How Component Auditors Work for Malaysian Subsidiaries"
 seoTitle: "ISA 600 Group Audits & Component Auditors in Malaysia"

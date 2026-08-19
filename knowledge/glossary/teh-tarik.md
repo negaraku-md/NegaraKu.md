@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-GLO-0014
 title: "Teh Tarik: Apa yang Sebenarnya Berlaku Semasa Teh Itu Ditarik"
 seoTitle: "Teh Tarik: Kenapa Teh Itu Perlu Ditarik"

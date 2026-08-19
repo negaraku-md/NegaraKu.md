@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: "MY-GOV-0070"
 title: "The Prime Minister's Department: Malaysia's Central Coordinating Agency"
 slug: "prime-ministers-department"

@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-BIZ-0059
 title: "Who Regulates What: Malaysian Sector Licence Directory"
 seoTitle: "Malaysia Sector Licence Directory by Regulator"

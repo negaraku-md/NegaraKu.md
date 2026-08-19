@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: "MY-EMP-0057"
 title: "HRD Corp: How Malaysia Funds Workforce Training"
 seoTitle: "HRD Corp (HRDF): Levy, Registration & Claims"

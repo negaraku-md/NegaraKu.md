@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-LIV-0113
 title: "Sekolah Islam dan Agama di Malaysia: SABK, Sekolah Agama dan Tahfiz"
 seoTitle: "SABK, Sekolah Agama & Tahfiz: Panduan Pendidikan Agama Malaysia"

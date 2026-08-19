@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-BIZ-0081
 title: "Bumiputera Equity Requirements in Malaysian Business Regulation"
 seoTitle: "Bumiputera Equity Requirements Malaysia"

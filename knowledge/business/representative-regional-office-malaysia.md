@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-BIZ-0119
 title: "Setting Up a Representative or Regional Office in Malaysia (MIDA RE/RO Status)"
 seoTitle: "MIDA Representative Office & Regional Office Malaysia: Rules and Requirements"

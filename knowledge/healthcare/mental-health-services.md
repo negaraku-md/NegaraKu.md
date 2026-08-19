@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: "MY-LIV-0085"
 title: "Where to Get Mental Health Help in Malaysia: Public Care, Private Options and Crisis Helplines"
 slug: "mental-health-services"

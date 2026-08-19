@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-LIV-0028
 title: "Before You Leave Malaysia: The Tax Clearance Letter Your Employer Has to File First"
 slug: "leaving-malaysia-tax-clearance"

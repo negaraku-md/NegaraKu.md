@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-BIZ-0109
 title: "CIPAA: Statutory Adjudication for Construction Payment Disputes"
 seoTitle: "CIPAA Malaysia: Construction Adjudication Explained"

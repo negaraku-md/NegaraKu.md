@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-LIV-0106
 title: "Belanjawanku: Berapa Kos Sebenar untuk Hidup Selesa di Malaysia?"
 seoTitle: "Belanjawanku: Panduan Kos Sara Hidup Bulanan Malaysia"

@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-LAW-0082
 title: "Akta Profesion Guaman 1976 dan Majlis Peguam"
 seoTitle: "Akta Profesion Guaman 1976: Majlis Peguam & Lembaga Tatatertib"

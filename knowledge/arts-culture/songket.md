@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-ART-0010
 title: "Songket: Kenapa Sehelai Kain Boleh Mengambil Masa Berbulan-bulan untuk Ditenun"
 seoTitle: "Songket: Teknik Tenunan Benang Emas dan Kos Sebenarnya"

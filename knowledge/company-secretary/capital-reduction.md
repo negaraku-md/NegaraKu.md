@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-CS-0042
 title: "Reducing Share Capital: The Court Route and the Solvency Statement Route"
 seoTitle: "Capital Reduction Malaysia: s.116 vs s.117"

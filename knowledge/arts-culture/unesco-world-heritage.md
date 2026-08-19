@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-ART-0014
 title: "Malaysia's UNESCO World Heritage Sites and What Each One Was Actually Inscribed For"
 slug: "unesco-world-heritage"

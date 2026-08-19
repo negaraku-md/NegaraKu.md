@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-BIZ-0115
 title: "Franchising in Malaysia: Registering a Franchisor or Franchisee"
 seoTitle: "Franchise Registration in Malaysia: Franchisor & Franchisee Guide"

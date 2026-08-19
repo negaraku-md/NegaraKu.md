@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-BIZ-0108
 title: "Doing Business in Ipoh and Perak: The Cost Case"
 seoTitle: "Doing Business in Ipoh: MBI Licensing and Costs"

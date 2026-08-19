@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-LAW-0031
 title: "National Land Code 1965 — the statute that put a name on every title in Peninsular Malaysia"
 slug: "national-land-code"

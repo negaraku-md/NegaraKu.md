@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-FIN-0005
 title: "Development Financial Institutions in Malaysia"
 seoTitle: "Development Financial Institutions in Malaysia: DFIs, Mandates and the DFIA 2002"

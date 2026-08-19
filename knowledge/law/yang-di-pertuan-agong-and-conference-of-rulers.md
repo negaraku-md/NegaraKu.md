@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-LAW-0095
 title: "Yang di-Pertuan Agong dan Majlis Raja-Raja"
 seoTitle: "Yang di-Pertuan Agong dan Majlis Raja-Raja: Peranan Perlembagaan"

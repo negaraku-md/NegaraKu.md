@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-ART-0043
 title: "Bharatanatyam: The South Indian Classical Dance That Took Root in Malaysia"
 slug: "bharatanatyam"

@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-EMP-0005
 title: "EPF for Employers: Why the Third Schedule Is a Table, Not a Percentage"
 seoTitle: "EPF Employer Guide Malaysia: Third Schedule Rates"

@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-GOV-0019
 title: "RMCD — Royal Malaysian Customs Department: The Other Half of Malaysia's Tax System"
 seoTitle: "RMCD Malaysia — Customs, Excise and SST"

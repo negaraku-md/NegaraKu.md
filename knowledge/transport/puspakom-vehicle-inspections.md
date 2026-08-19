@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-LIV-0159
 title: "Pemeriksaan Puspakom: Bila Wajib, Kod Pemeriksaan, Kos dan Akibat Jika Dilangkau"
 seoTitle: "Pemeriksaan Puspakom: Kitaran 6 Bulan, Kod, Kos & Denda"

@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-LIV-0139
 title: "DE Rantau: Malaysia's Digital Nomad Pass"
 seoTitle: "DE Rantau Nomad Pass: Malaysia's Digital Nomad Visa"

@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-LIV-0135
 title: "Pewarisan Harta: Faraid dan Akta Pembahagian"
 seoTitle: "Pewarisan Harta di Malaysia: Faraid dan Akta Pembahagian 1958"

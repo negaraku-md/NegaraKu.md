@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-BIZ-0106
 title: "Doing Business in Selangor: Twelve Councils, One State"
 seoTitle: "Doing Business in Selangor: Council Licensing Variance"

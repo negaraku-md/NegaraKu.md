@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-LIV-0033
 title: "Freehold, Leasehold, Strata, Landed: The Four Words on a Malaysian Title That Decide What You Actually Own"
 slug: "freehold-leasehold-strata-landed"

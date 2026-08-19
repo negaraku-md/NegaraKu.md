@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: "MY-LIV-0060"
 title: "Studying in Malaysia as an International Student: Choosing an Institution and Getting In"
 slug: "international-students-studying-in-malaysia"

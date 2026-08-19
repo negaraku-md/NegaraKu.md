@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-CS-0032
 title: "Loans to Directors: the s.224 Prohibition and Its Exemptions"
 seoTitle: "Loans to Directors Malaysia: s.224 CA 2016 Rules"

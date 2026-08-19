@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-PS-0015
 title: "Polis Diraja Malaysia (PDRM): Struktur dan Peranan"
 seoTitle: "Polis Diraja Malaysia (PDRM): Struktur, Pangkat dan Pengawasan"

@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-AUD-0005
 title: "Life After Audit Exemption: What Your Company Still Owes"
 seoTitle: "After Audit Exemption Malaysia: Duties That Survive"

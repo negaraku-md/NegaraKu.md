@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-STA-0006
 title: "Kedah: satu negeri, tiga ekonomi — padi, cip dan tinggalan Kedah Tua"
 slug: "kedah"

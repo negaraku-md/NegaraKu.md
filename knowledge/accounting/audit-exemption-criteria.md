@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-ACC-0028
 title: "Pengecualian Audit untuk Syarikat Persendirian: Adakah Anda Layak?"
 seoTitle: "Kriteria Pengecualian Audit Sdn Bhd Malaysia (PD 10/2024)"

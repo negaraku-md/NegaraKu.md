@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-AGR-0015
 title: "Industri Padi dan Beras Malaysia"
 seoTitle: "Industri Padi dan Beras Malaysia: Kadar Sara Diri, Jelapang dan Subsidi"

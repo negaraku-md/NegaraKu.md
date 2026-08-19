@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-GOV-0043
 title: "MITI — Ministry of Investment, Trade and Industry"
 slug: "miti"

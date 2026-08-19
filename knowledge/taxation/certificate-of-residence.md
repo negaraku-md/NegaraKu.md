@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-TAX-0063
 title: "Certificate of Residence Malaysia — Applying Through e-Residence"
 seoTitle: "Certificate of Residence Malaysia — e-Residence Application"

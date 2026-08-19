@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: "MY-INT-0016"
 title: "Malaysia's Foreign Policy: Principles, Institutions, and Alignments"
 seoTitle: "Malaysia Foreign Policy: Principles, ASEAN & Doctrine"

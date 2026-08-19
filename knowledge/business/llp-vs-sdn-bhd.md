@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-BIZ-0017
 title: "LLP vs Sdn Bhd: Which One Actually Fits"
 seoTitle: "LLP vs Sdn Bhd Malaysia: The Real Differences"

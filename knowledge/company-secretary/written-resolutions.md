@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-CS-0035
 title: "Written Resolutions of a Sdn Bhd: How They Work and What They Cannot Do"
 seoTitle: "Written Resolutions Malaysia: Rules Under s.297"

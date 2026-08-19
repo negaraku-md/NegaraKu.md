@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-ART-0057
 title: "Daftar Warisan Kebangsaan di bawah Akta Warisan Kebangsaan 2005"
 seoTitle: "Daftar Warisan Kebangsaan Malaysia: Akta 645 & Jabatan Warisan Negara"

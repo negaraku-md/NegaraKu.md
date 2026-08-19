@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-EMP-0023
 title: "Workplace sexual harassment: the employer's two live duties"
 seoTitle: "Sexual harassment at work Malaysia — employer duties"

@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-GLO-0002
 title: "Annual Return"
 slug: "annual-return"

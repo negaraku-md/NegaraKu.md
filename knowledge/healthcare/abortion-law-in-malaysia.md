@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-LIV-0090
 title: "Undang-undang Pengguguran di Malaysia: Apa yang Sah dan Apa yang Tidak"
 seoTitle: "Undang-undang Pengguguran di Malaysia: Kedudukan Sah di Bawah Kanun Keseksaan"

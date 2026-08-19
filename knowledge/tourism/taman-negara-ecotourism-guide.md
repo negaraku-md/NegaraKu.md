@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-TOU-0016
 title: "Taman Negara: Malaysia's Oldest Rainforest National Park"
 seoTitle: "Taman Negara Guide: Permits, Canopy Walk, Trekking & Access"

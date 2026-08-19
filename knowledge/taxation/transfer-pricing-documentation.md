@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-TAX-0048
 title: "Transfer Pricing Documentation in Malaysia — What a Mid-Sized Company Must Prepare"
 seoTitle: "Transfer Pricing Documentation Malaysia — Rules and Penalties"

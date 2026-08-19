@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-CS-0040
 title: "Transferring Shares in a Sdn Bhd: The Correct Sequence"
 seoTitle: "Share Transfer Malaysia: Steps, Forms and Deadlines"

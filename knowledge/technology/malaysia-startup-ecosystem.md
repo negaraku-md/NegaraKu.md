@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-TEC-0007
 title: "Malaysia's Startup Ecosystem: Agencies, Funding and Support"
 seoTitle: "Malaysia Startup Ecosystem: Agencies, Grants and VC Explained"

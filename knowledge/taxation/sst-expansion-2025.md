@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-TAX-0030
 title: "The 1 July 2025 Service Tax Expansion, Sector by Sector"
 seoTitle: "Service Tax Expansion 2025 Malaysia — Sector Guide"

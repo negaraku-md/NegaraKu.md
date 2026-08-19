@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-TAX-0011
 title: "Form C and CP204: Estimating and Paying Company Tax"
 seoTitle: "Form C and CP204 Malaysia: Estimates and Penalties"

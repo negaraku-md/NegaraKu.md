@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-ENV-0019
 title: "The Wildlife Conservation Act 2010 and PERHILITAN's Role"
 seoTitle: "Wildlife Conservation Act 2010 (Act 716) & PERHILITAN Explained"

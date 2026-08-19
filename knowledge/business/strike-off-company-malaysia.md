@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-BIZ-0062
 title: "Striking Off a Company Under Section 550"
 seoTitle: "Strike Off a Company in Malaysia — Section 550"

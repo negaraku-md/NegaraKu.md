@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-EMP-0042
 title: "Malaysian Work Passes Compared"
 seoTitle: "Malaysia Work Passes: EP, PVP, RP-T, DE Rantau"

@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-BIZ-0004
 title: "Closing or Exiting a Sdn Bhd — Which Route Applies"
 seoTitle: "How to Close a Sdn Bhd in Malaysia"

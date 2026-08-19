@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-HIS-0032
 title: "Malaysia's National Language, and the Many Others Spoken Beside It"
 slug: "languages-spoken"

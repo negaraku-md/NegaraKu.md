@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-AUD-0024
 title: "Surat Perwakilan Pengurusan: Apa Ia dan Mengapa Juruaudit Memerlukannya"
 seoTitle: "Surat Perwakilan Pengurusan (ISA 580): Panduan Ringkas"

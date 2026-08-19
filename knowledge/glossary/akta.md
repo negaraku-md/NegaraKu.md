@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-GLO-0010
 title: "Akta"
 slug: "akta"

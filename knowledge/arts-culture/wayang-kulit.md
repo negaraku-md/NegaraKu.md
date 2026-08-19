@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-ART-0001
 title: "Wayang Kulit: A Puppet Master, a Lamp, and an All-Night Story"
 seoTitle: "Wayang Kulit: Malaysian Shadow Puppet Theatre"

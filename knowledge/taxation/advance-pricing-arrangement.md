@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-TAX-0120
 title: "Advance Pricing Arrangement in Malaysia — Who Qualifies, What It Costs and How Long the Clocks Are"
 seoTitle: "Advance Pricing Arrangement Malaysia — Rules, Fees, Rollback"

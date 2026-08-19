@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-TAX-0116
 title: "Tax Clearance: CP21, CP22A and the 90-Day Rule"
 seoTitle: "Tax Clearance Malaysia: CP21, CP22A and the 90-Day Rule"

@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-GLO-0023
 title: "Bumiputera: Istilah yang Tidak Wujud dalam Perlembagaan, Tetapi Berakar pada Perkara 153, 160 dan 161A"
 slug: "bumiputera"

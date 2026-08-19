@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-LAW-0074
 title: "Immigration Act 1959/63: Entry, Passes and Overstaying in Malaysia"
 seoTitle: "Malaysia Immigration Act 1959/63: Visas, Passes & Overstay Penalties"

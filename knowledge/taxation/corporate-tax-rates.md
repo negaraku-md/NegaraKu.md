@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-TAX-0001
 title: "Malaysia Corporate Tax Rates"
 seoTitle: "Malaysia Corporate Tax Rates & SME Test (2026)"

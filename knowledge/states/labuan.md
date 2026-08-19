@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-STA-0015
 title: "Labuan: The Federal Territory With Its Own Tax Act"
 slug: "labuan"

@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-INT-0009
 title: "Malaysia dalam OIC, Komanwel, NAM dan Kumpulan Antarabangsa Lain"
 seoTitle: "Keahlian Malaysia dalam OIC, Komanwel, NAM, D-8 dan APEC"

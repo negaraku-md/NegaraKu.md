@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-CO-0011
 title: "Malaysia's Big Banks: Maybank, CIMB, Public Bank, RHB and Hong Leong"
 seoTitle: "Malaysia's Big Banks Compared: Maybank, CIMB, Public Bank, RHB, Hong Leong"

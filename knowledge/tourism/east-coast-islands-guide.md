@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-TOU-0004
 title: "Peninsular Malaysia's East-Coast Islands: Perhentian, Redang, Tioman and Kapas"
 seoTitle: "East-Coast Islands Guide: Perhentian, Redang, Tioman, Kapas"

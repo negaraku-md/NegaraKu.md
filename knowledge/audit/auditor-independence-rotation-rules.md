@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-AUD-0020
 title: "Auditor Independence and Partner Rotation Rules in Malaysia"
 seoTitle: "Auditor Independence & Partner Rotation Rules Malaysia (MIA By-Laws)"

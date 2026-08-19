@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-SPT-0005
 title: "Liga Bola Sepak Domestik Malaysia: Liga Super, Piala Malaysia dan MFL"
 seoTitle: "Liga Super, Piala Malaysia & MFL: Panduan Bola Sepak Domestik Malaysia"

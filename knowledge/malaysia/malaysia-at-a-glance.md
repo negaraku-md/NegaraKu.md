@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: "MY-HIS-0041"
 title: "Malaysia at a Glance: The Numbers Behind the Country, Sourced One by One"
 slug: "malaysia-at-a-glance"

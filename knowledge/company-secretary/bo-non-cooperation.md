@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-CS-0005
 title: "When the Beneficial Owner Will Not Respond"
 slug: "bo-non-cooperation"

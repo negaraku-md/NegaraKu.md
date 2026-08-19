@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-BIZ-0035
 title: "Which Malaysian Agency Approves What — and in What Order"
 seoTitle: "Malaysia Investment Agency Directory"

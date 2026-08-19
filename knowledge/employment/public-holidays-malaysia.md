@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-EMP-0046
 title: "Public holidays in Malaysia and the Employment Act rule"
 seoTitle: "Public holidays Malaysia — federal, state and the EA rule"

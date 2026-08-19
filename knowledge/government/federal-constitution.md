@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-GOV-0075
 title: "Perlembagaan Persekutuan: Undang-Undang Tertinggi Malaysia"
 seoTitle: "Perlembagaan Persekutuan Malaysia: Struktur, Ketertinggian dan Prosedur Pindaan"

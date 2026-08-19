@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-PS-0006
 title: "Persediaan Bencana dan Banjir untuk Isi Rumah di Malaysia"
 seoTitle: "Persediaan Banjir & Bencana Isi Rumah Malaysia: Panduan Lengkap"

@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-FIN-0003
 title: "How Bank Financing Works: Consumer and Housing Loans in Malaysia"
 seoTitle: "Consumer and Housing Loan Financing in Malaysia: SBR, DSR and Hire Purchase Explained"

@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-FIN-0002
 title: "Malaysia's Banking Sector: Commercial, Islamic and Investment Banks"
 seoTitle: "Malaysia Banking Sector: Types of Banks and How They Are Licensed"

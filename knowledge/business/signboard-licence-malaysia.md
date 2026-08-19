@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-BIZ-0038
 title: "Signboard Licence: DBP Vetting and the Bahasa Malaysia Rules"
 seoTitle: "Signboard Licence Malaysia: DBP and Language Rules"

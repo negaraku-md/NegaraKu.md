@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-AGR-0014
 title: "Oil Palm Smallholders and MSPO Sustainability Certification"
 seoTitle: "Oil Palm Smallholders and MSPO Certification in Malaysia"

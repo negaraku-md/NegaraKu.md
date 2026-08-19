@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-EMP-0019
 title: "Termination and lay-off benefits in Malaysia"
 seoTitle: "Termination Benefits Malaysia — TBLB 1980 Formula"

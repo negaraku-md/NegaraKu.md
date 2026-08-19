@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-CO-0010
 title: "LTAT dan Boustead Holdings: Kumpulan Wang Tentera dan Lengan Korporatnya"
 seoTitle: "LTAT dan Boustead Holdings: Kumpulan Wang Angkatan Tentera"

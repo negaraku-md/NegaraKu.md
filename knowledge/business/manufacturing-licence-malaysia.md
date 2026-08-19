@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-BIZ-0030
 title: "Manufacturing Licence and the ICA 1975 Exemption"
 seoTitle: "Manufacturing Licence Malaysia: ICA 1975 and ICA 10"

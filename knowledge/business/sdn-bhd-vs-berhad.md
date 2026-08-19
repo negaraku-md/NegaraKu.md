@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-BIZ-0024
 title: "Sdn Bhd vs Berhad: The 50-Shareholder Ceiling"
 seoTitle: "Sdn Bhd vs Berhad Malaysia: What Forces Conversion"

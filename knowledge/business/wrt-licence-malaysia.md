@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-BIZ-0028
 title: "The WRT Licence: Distributive Trade Approval for Foreign-Owned Companies"
 seoTitle: "WRT Licence Malaysia: What KPDN Actually Requires"

@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-LIV-0104
 title: "Perubatan Tradisional dan Komplementari: Peraturan bagi TCM, Perubatan Melayu dan Ayurveda"
 seoTitle: "Perubatan Tradisional dan Komplementari Malaysia: Akta 775 dan Pendaftaran Pengamal"

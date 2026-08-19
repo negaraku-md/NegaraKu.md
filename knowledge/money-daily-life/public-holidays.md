@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-LIV-0014
 title: "Cuti umum persekutuan lawan cuti negeri: kenapa senarai cuti berbeza ikut negeri"
 slug: "public-holidays"

@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-FIN-0010
 title: "Malaysia's Insurance Industry: Life, General Insurance and Regulation"
 seoTitle: "Malaysia Insurance Industry: Life, General & Motor Cover Explained"

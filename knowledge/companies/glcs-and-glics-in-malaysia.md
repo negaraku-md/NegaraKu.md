@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-CO-0005
 title: "Syarikat Berkaitan Kerajaan dan Syarikat Pelaburan Kerajaan (GLC & GLIC) di Malaysia"
 seoTitle: "GLC dan GLIC Malaysia: Khazanah, KWSP, PNB, KWAP, LTAT, Tabung Haji"

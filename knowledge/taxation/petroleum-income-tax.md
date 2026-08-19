@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-TAX-0130
 title: "Petroleum Income Tax: A Separate Regime from Corporate Tax"
 seoTitle: "Petroleum Income Tax in Malaysia: The 38% PITA Regime Explained"

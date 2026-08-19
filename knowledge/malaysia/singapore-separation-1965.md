@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-HIS-0015
 title: "How Singapore Left Malaysia: What the Separation Documents Actually Say"
 slug: "singapore-separation-1965"

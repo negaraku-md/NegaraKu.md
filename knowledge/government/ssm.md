@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-GOV-0001
 title: "SSM — Companies Commission of Malaysia"
 slug: "ssm"

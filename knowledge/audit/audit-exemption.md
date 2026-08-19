@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-AUD-0001
 title: "Audit Exemption for Small Companies in Malaysia"
 seoTitle: "Audit Exemption Malaysia: Do You Qualify? (2026)"

@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-CS-0020
 title: "Registered Office: Rules, Change and the Public Access Duty"
 seoTitle: "Registered Office Malaysia: Rules, Change, Public Access"

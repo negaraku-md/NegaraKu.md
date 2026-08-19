@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-FDL-0004
 title: "Dining Etiquette, Tipping & Service Charge in Malaysia"
 seoTitle: "Tipping & Service Charge in Malaysia: What's on Your Bill"

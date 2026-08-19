@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-CS-0013
 title: "Circulating and Lodging Financial Statements: The Two Deadlines"
 seoTitle: "Financial Statements Deadline Malaysia: s.258 & s.259"

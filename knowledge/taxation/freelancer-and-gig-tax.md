@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-TAX-0060
 title: "Tax for Freelancers, Gig Workers and Creators in Malaysia"
 seoTitle: "Freelancer and Gig Worker Tax Malaysia"

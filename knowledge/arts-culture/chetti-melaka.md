@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-ART-0050
 title: "Chetti Melaka: Komuniti Peranakan India Melaka"
 seoTitle: "Chetti Melaka: Siapa Komuniti Peranakan India di Kampung Chetti?"

@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-BIZ-0031
 title: "Minimum Paid-Up Capital for a Foreign-Owned Malaysian Company"
 seoTitle: "Paid-Up Capital Foreign Company Malaysia"

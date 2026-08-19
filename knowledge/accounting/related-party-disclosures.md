@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-ACC-0033
 title: "Pendedahan Pihak Berkaitan: Akaun Semasa Pengarah dan Pemegang Saham"
 seoTitle: "Pendedahan Pihak Berkaitan MFRS 124: Akaun Semasa Pengarah Sdn Bhd"

@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-SPT-0010
 title: "Dasar Sukan Negara dan Program Podium Malaysia"
 seoTitle: "Dasar Sukan Negara dan Program Podium: Cara Malaysia Membiayai Atlet Elit"

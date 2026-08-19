@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-BIZ-0069
 title: "Arbitration or Court? Choosing a Dispute Clause Under Malaysian Law"
 seoTitle: "Arbitration vs Litigation Malaysia: AIAC and Act 646"

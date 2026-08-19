@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-BIZ-0034
 title: "Visas for Business Owners — Employment Pass, MM2H, PVIP and Dependant Pass Compared"
 seoTitle: "Malaysia Business Visa Comparison"

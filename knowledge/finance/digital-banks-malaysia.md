@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-FIN-0006
 title: "Digital Banks in Malaysia: The Five Licensed Digital Banks Explained"
 seoTitle: "Digital Banks in Malaysia: GXBank, Boost, Ryt, AEON, KAF"

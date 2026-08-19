@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-HIS-0013
 title: "Malayan Union dan Persekutuan Tanah Melayu: Dua Jawapan Perlembagaan kepada Soalan Siapa Berdaulat dan Siapa Rakyat"
 seoTitle: "Malayan Union dan Persekutuan Tanah Melayu"

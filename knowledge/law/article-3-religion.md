@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-LAW-0020
 title: "Article 3: What the Constitution Says About Islam, and What Article 11 Says Alongside It"
 slug: "article-3-religion"

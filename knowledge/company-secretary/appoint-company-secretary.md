@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-CS-0001
 title: "How to Appoint a Company Secretary in Malaysia"
 seoTitle: "Appoint a Company Secretary in Malaysia"

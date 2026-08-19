@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: "MY-AGR-0016"
 title: "Department of Fisheries Malaysia (DOF)"
 seoTitle: "Department of Fisheries Malaysia (DOF): Role & Licensing"

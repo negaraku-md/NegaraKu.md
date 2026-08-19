@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: "MY-HIS-0069"
 title: "The Titiwangsa Range: The Ridge That Decides Which Coast a River Reaches"
 seoTitle: "Titiwangsa Range: Geography of Peninsular Malaysia's Main Range"

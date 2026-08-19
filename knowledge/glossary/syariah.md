@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-GLO-0024
 title: "Syariah — undang-undang Islam sebagai perkara negeri dalam sistem Malaysia"
 slug: "syariah"

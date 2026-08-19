@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: "MY-GOV-0093"
 title: "Ministry of Education Malaysia (KPM): What It Governs and How It's Run"
 seoTitle: "Ministry of Education Malaysia (KPM): Role & Structure"

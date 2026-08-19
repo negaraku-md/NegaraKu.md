@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-HIS-0002
 title: "Langkasuka: The Kingdom Chinese Records Remember and Archaeology Can't Quite Place"
 seoTitle: "Langkasuka: Malaysia's Oldest Recorded Kingdom"

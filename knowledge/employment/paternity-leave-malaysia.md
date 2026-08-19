@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-EMP-0032
 title: "Paternity leave in Malaysia"
 seoTitle: "Paternity leave Malaysia — 7 days and the 5-confinement cap"

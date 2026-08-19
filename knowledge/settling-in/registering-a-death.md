@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-LIV-0024
 title: "Mendaftar Kematian di Malaysia: Proses JPN, Sijil Kematian dan Apa Yang Menyusul"
 slug: "registering-a-death"

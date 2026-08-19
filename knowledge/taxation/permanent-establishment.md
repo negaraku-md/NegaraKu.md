@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-TAX-0028
 title: "Permanent Establishment in Malaysia — Treaty Test and Domestic Test"
 seoTitle: "Permanent Establishment Malaysia — When a Foreign Firm Is Taxed"

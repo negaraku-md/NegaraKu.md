@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-LIV-0140
 title: "Mengesahkan Dokumen Asing untuk Digunakan di Malaysia: Legalisasi dan Apostille"
 seoTitle: "Legalisasi Dokumen Asing di Malaysia: Apostille & Pengesahan Konsular"

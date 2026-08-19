@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: "MY-LIV-0162"
 title: "Malaysia's Public Healthcare System: How It Works, What It Costs, and Who It Covers"
 seoTitle: "Malaysia Public Healthcare System (MOH): Costs & Access"

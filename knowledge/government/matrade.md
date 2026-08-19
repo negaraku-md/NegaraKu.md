@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-GOV-0071
 title: "MATRADE — Malaysia External Trade Development Corporation: Exports Out, Not Investment In"
 slug: "matrade"

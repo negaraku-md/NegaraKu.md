@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-CO-0007
 title: "Khazanah Nasional: Dana Kekayaan Negara Malaysia"
 seoTitle: "Khazanah Nasional: Dana Kekayaan Negara (Sovereign Wealth Fund) Malaysia"

@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-GLO-0047
 title: "Suruhanjaya Pencegahan Rasuah Malaysia (SPRM / MACC)"
 seoTitle: "SPRM / MACC — Suruhanjaya Pencegahan Rasuah Malaysia"

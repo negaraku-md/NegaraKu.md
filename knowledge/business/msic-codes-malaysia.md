@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-BIZ-0011
 title: "MSIC Codes: How to Pick Yours, and What It Decides Later"
 seoTitle: "MSIC Code Malaysia: How to Choose Yours"

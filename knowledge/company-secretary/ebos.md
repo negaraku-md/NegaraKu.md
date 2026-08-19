@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-CS-0011
 title: "e-BOS — Electronic Beneficial Ownership System"
 slug: "ebos"

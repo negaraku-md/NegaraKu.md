@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-ENV-0004
 title: "Deforestation and Forest Loss in Malaysia: Data, Drivers and Debate"
 seoTitle: "Malaysia Deforestation and Forest Loss: Data, Drivers and Debate"

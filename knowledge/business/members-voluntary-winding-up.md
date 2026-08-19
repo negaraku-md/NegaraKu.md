@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-BIZ-0063
 title: "Members' Voluntary Winding Up of a Solvent Company"
 seoTitle: "Members Voluntary Winding Up Malaysia"

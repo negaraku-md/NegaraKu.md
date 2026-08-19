@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-STA-0009
 title: "Negeri Sembilan: takhta yang dipilih dan pusaka yang diwarisi sebelah ibu"
 slug: "negeri-sembilan"

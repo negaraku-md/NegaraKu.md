@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-ART-0049
 title: "Bangsawan: Opera Melayu yang Lahir daripada Teater Parsi"
 seoTitle: "Bangsawan: Sejarah dan Warisan Opera Melayu"

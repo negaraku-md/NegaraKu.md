@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-ENE-0018
 title: "Electricity Supply Industry Reform: MESI 1.0 and 2.0"
 seoTitle: "MESI 2.0 Explained: Malaysia's Electricity Market Reform, Unbundling and Third-Party Grid Access"

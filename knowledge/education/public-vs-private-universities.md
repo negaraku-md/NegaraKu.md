@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-LIV-0058
 title: "IPTA or IPTS? How Malaysia's Public and Private Universities Actually Differ"
 seoTitle: "Public vs Private Universities Malaysia — IPTA, IPTS, UPU, MQA"

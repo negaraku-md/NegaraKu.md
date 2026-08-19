@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-GOV-0042
 title: "MIDA — Malaysian Investment Development Authority: The Agency That Evaluates, Not the Ministry That Approves"
 seoTitle: "MIDA Malaysia — Investment Development Authority"

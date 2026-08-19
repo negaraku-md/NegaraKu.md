@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-LIV-0026
 title: "Bringing Your Dog or Cat Into Malaysia: The Permit and Quarantine Rules"
 slug: "bringing-pets-into-malaysia"

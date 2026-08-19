@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-STA-0013
 title: "Terengganu: Batu Bersurat Jawi Tertua dan Minyak yang Tidak Muncul dalam KDNK Negeri"
 seoTitle: "Terengganu: Profil Negeri, Batu Bersurat dan Ekonomi Minyak"

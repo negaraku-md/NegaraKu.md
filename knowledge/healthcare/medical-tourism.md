@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-LIV-0050
 title: "Malaysia's Quiet Medical Tourism Boom, and the Agency Behind It"
 slug: "medical-tourism"

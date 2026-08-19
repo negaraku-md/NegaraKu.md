@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-ART-0065
 title: "Keris: Senjata Warisan Bangsa Melayu"
 seoTitle: "Keris Melayu: Sejarah, Bahagian, Empu dan Status Warisan"

@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-BIZ-0003
 title: "Sole Proprietorship vs Sdn Bhd: Which Should You Register?"
 seoTitle: "Sole Proprietorship vs Sdn Bhd Malaysia"

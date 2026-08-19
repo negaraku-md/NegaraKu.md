@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-SPT-0014
 title: "Squash in Malaysia: The Nicol David Era and What Came After"
 seoTitle: "Squash in Malaysia: Nicol David and the National Pipeline"

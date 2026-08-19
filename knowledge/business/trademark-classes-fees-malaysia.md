@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-BIZ-0071
 title: "Trademark Classes and MyIPO Fees"
 seoTitle: "Trademark Classes and Fees Malaysia (MyIPO)"

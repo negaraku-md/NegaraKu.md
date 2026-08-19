@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-TAX-0124
 title: "How Malaysia Taxes Cryptocurrency and Digital Assets"
 seoTitle: "Cryptocurrency and Digital Asset Tax in Malaysia"

@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-CS-0049
 title: "Perlembagaan Syarikat: Pakai, Pinda dan Kukuhkan"
 seoTitle: "Perlembagaan Syarikat di Malaysia: Cara Pakai, Pinda & Kukuhkan (CA 2016)"

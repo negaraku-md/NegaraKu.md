@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-ST-0002
 title: "Kuala Lumpur"
 slug: "kuala-lumpur"

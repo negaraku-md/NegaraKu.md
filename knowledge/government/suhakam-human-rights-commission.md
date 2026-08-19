@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-GOV-0088
 title: "SUHAKAM: Suruhanjaya Hak Asasi Manusia Malaysia"
 seoTitle: "SUHAKAM — Suruhanjaya Hak Asasi Manusia Malaysia (Akta 597)"

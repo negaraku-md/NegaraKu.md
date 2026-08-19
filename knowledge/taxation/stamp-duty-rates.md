@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-TAX-0045
 title: "Malaysia Stamp Duty Rates — First Schedule Reference"
 slug: "stamp-duty-rates"

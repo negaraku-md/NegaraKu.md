@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-BIZ-0033
 title: "Do You Need a Licence to Sell Online in Malaysia?"
 seoTitle: "Online Business Licence Malaysia: The Real Rules"

@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-ECO-0027
 title: "How Much of the Malaysian Economy Is Government-Owned"
 seoTitle: "GLC and GLIC Dominance in the Malaysian Economy Explained"

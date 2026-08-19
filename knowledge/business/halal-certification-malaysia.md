@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-BIZ-0117
 title: "Halal Certification for Malaysian Businesses: JAKIM Process, Cost and Timeline"
 seoTitle: "JAKIM Halal Certification Malaysia: Process, Fees and Timeline"

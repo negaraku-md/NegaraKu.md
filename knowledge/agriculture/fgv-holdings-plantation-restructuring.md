@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-AGR-0008
 title: "FGV Holdings: From Bursa Listing to Delisting and Restructuring"
 seoTitle: "FGV Holdings Berhad: IPO, Delisting and FELDA Restructuring"

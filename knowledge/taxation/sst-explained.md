@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-TAX-0002
 title: "SST in Malaysia: Which Tax Are You Actually Dealing With?"
 seoTitle: "SST Malaysia Explained: Sales Tax vs Service Tax"

@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-HIS-0050
 title: "The New Economic Policy: Two Stated Objectives, One Twenty-Year Framework"
 slug: "new-economic-policy"

@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-CS-0022
 title: "Resigning as a Company Secretary in Malaysia"
 slug: "secretary-resignation"

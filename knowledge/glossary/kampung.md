@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-GLO-0012
 title: "Kampung"
 slug: "kampung"

@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-TAX-0114
 title: "Malaysian Tax Incentives Directory — Agency, Mechanism, Instrument, Status"
 seoTitle: "Malaysia Tax Incentives Directory — Agency and Status"

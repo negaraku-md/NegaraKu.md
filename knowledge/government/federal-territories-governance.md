@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-GOV-0076
 title: "Wilayah Persekutuan: Bagaimana Kuala Lumpur, Putrajaya dan Labuan Ditadbir"
 seoTitle: "Wilayah Persekutuan Malaysia: Cara KL, Putrajaya & Labuan Ditadbir"

@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-GLO-0020
 title: "Dewan Rakyat: 222 kerusi, lima tahun, dan kuasa yang diberikan Perlembagaan"
 slug: "dewan-rakyat"

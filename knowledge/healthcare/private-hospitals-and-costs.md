@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-LIV-0044
 title: "Two Bills for One Stay: How Private Hospitals in Malaysia Actually Charge You"
 slug: "private-hospitals-and-costs"

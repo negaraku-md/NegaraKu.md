@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-ART-0030
 title: "Tamil in Malaysia: Its Speakers, Its Tamil-Medium Schools, and Its Place in the Language Landscape"
 slug: "tamil-in-malaysia"

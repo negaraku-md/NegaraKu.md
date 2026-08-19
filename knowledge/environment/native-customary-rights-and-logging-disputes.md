@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-ENV-0012
 title: "Native Customary Rights, Logging and Land Disputes in Sarawak and Sabah"
 seoTitle: "Native Customary Rights (NCR) Land and Logging Disputes in Sarawak & Sabah"

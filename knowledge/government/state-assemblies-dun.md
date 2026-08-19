@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-GOV-0052
 title: "Dewan Undangan Negeri: Cara Sesebuah Negeri Membuat Undang-Undangnya Sendiri"
 slug: "state-assemblies-dun"

@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-ACC-0006
 title: "Sdn Bhd Bookkeeping: A Chart of Accounts That Survives Filing Season"
 seoTitle: "Sdn Bhd Bookkeeping & Chart of Accounts Malaysia"

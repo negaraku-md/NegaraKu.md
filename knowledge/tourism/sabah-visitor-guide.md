@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-TOU-0014
 title: "Sabah Visitor Guide"
 seoTitle: "Sabah Travel Guide: Entry Rules, Kinabalu, Sipadan & Wildlife"

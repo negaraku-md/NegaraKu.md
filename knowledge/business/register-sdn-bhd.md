@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-BIZ-0001
 title: "How to Register a Sdn Bhd in Malaysia: Requirements, Cost and What Comes Next"
 seoTitle: "Register a Sdn Bhd in Malaysia: What Comes Next"

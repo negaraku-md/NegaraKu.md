@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-CO-0003
 title: "Gamuda: Construction, Infrastructure and Regional Expansion"
 seoTitle: "Gamuda Berhad: Malaysia's Infrastructure Builder Going Regional"

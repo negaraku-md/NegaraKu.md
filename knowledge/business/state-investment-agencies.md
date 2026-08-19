@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-BIZ-0101
 title: "Malaysia's State and Corridor Investment Agencies — What Each One Can Actually Approve"
 seoTitle: "State Investment Agencies Malaysia"

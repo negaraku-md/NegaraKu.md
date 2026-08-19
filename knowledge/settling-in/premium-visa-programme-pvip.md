@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-LIV-0146
 title: "The Premium Visa Programme (PVIP): Malaysia's 20-Year Residency-by-Investment Visa"
 seoTitle: "Malaysia Premium Visa Programme (PVIP): Requirements, Fees and How It Works"

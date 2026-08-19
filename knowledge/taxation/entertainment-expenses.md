@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-TAX-0054
 title: "Entertainment Expenses: 50 Per Cent or 100 Per Cent?"
 seoTitle: "Entertainment Expenses Malaysia: 50% or 100% Rule"

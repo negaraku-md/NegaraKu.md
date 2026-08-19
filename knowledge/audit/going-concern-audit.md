@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-AUD-0011
 title: "Going Concern and the Management Representation Letter"
 seoTitle: "Going Concern Audit Malaysia and the Rep Letter"

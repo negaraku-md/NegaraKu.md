@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-IND-0017
 title: "Petronas: Malaysia's National Oil Company"
 seoTitle: "Petronas Profile: Legal Structure, Mandate and Revenue Role"

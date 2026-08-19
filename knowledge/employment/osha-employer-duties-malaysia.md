@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-EMP-0044
 title: "OSHA 1994 employer duties after the 2022 amendment"
 seoTitle: "OSHA employer duties Malaysia — OSH coordinator at 5"

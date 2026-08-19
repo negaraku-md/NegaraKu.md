@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-EMP-0006
 title: "EPF for Foreign Workers: The 2 Per Cent Mandate Under Part F"
 seoTitle: "EPF for Foreign Workers Malaysia: 2% Mandate"

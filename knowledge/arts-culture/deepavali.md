@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-ART-0022
 title: "Deepavali in Malaysia: The Festival of Lights, and Why It Isn't a Holiday in Sarawak"
 seoTitle: "Deepavali in Malaysia: Festival of Lights and Public Holiday"

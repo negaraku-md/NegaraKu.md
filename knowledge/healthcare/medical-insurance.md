@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-LIV-0045
 title: "Medical Insurance in Malaysia: What a Card Actually Buys You, and What It Doesn't"
 slug: "medical-insurance"

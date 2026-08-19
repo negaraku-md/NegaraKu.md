@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-EMP-0029
 title: "New-hire statutory registration checklist"
 seoTitle: "New hire checklist Malaysia — CP22, EPF, SOCSO, HRD Corp"

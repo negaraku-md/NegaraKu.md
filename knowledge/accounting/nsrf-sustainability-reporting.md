@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-ACC-0005
 title: "NSRF: Who Has to Report Sustainability Information, and From When"
 seoTitle: "NSRF Malaysia: Reporting Groups and Timeline"

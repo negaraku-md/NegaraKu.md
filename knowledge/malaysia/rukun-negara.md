@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-HIS-0019
 title: "Rukun Negara: Lima Prinsip, dan Fail Arkib yang Merakam Penggubalannya"
 seoTitle: "Rukun Negara: Lima Prinsip dan Sejarah Penggubalan"

@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-FIN-0014
 title: "Securities Commission Malaysia: Mandate and Regulatory Powers"
 seoTitle: "Securities Commission Malaysia (SC): Mandate, Powers, What It Regulates"

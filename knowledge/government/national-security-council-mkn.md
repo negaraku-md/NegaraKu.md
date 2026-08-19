@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-GOV-0085
 title: "Majlis Keselamatan Negara (MKN) dan Kuasa Darurat"
 seoTitle: "Majlis Keselamatan Negara (MKN), Akta 776 dan Kuasa Darurat"

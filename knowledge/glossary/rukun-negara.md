@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-GLO-0046
 title: "Rukun Negara: Lima Prinsip yang Menjadi Ikrar Kebangsaan Malaysia"
 seoTitle: "Rukun Negara: Lima Prinsip, Sejarah dan Maksudnya"

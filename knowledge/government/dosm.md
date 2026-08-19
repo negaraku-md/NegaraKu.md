@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-GOV-0016
 title: "DOSM — Department of Statistics Malaysia: What It Publishes, and When"
 slug: "dosm"

@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-TAX-0053
 title: "Industrial Building Allowance: What Actually Qualifies"
 seoTitle: "Industrial Building Allowance Malaysia: IBA Rules"

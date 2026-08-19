@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-LAW-0025
 title: "Civil courts and Syariah courts — the constitutional line between Malaysia's two court systems"
 slug: "civil-and-syariah-courts"

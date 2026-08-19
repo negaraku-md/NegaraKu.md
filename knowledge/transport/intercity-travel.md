@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-LIV-0067
 title: "Getting Between Cities in Malaysia: Trains, Buses and Flights Compared"
 slug: "intercity-travel"

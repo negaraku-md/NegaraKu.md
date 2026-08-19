@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-STA-0012
 title: "Perlis: negeri terkecil Malaysia dan satu-satunya yang diketuai seorang Raja"
 slug: "perlis"

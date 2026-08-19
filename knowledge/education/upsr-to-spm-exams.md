@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-LIV-0056
 title: "Daripada UPSR ke SPM: Apa Yang Tinggal Selepas Peperiksaan Besar Dimansuhkan"
 slug: "upsr-to-spm-exams"

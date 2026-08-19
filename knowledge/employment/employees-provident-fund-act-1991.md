@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: "MY-EMP-0058"
 title: "The Employees Provident Fund Act 1991: How EPF Works in Malaysia"
 seoTitle: "Employees Provident Fund Act 1991 (EPF) Guide"

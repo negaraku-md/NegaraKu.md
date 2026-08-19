@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-ENV-0003
 title: "Malaysia's Carbon Market: Carbon Pricing, Carbon Credits and the National Carbon Market Policy"
 seoTitle: "Malaysia Carbon Market & Carbon Pricing Explained"

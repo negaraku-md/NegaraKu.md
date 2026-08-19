@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-CO-0004
 title: "Genting Group: Gaming, Leisure and Plantations"
 seoTitle: "Genting Group: Structure, Casino Licence and Plantations"

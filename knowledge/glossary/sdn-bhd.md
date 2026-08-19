@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-GLO-0003
 title: "Sdn Bhd"
 slug: "sdn-bhd"

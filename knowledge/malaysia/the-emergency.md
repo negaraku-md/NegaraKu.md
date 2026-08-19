@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-HIS-0014
 title: "The Malayan Emergency: The Insurgency, the Resettlement, and the Machinery It Left Behind"
 slug: "the-emergency"

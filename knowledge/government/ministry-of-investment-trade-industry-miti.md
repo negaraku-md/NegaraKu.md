@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: "MY-GOV-0095"
 title: "Ministry of Investment, Trade and Industry (MITI): Malaysia's Gateway for Trade and Investment"
 seoTitle: "MITI Malaysia: Investment, Trade and Industry Ministry"

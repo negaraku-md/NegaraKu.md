@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-LAW-0087
 title: "Akta Mesin Cetak dan Penerbitan 1984"
 seoTitle: "Akta Mesin Cetak dan Penerbitan 1984 (Akta 301): Lesen, Permit & Kuasa Menteri"

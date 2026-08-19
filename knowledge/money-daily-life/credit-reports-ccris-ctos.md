@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-LIV-0123
 title: "CCRIS dan CTOS: Cara Laporan Kredit Malaysia Berfungsi dan Cara Menyemaknya"
 seoTitle: "CCRIS vs CTOS: Semak Laporan Kredit Malaysia Secara Percuma"

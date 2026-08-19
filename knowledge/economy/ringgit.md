@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-ECO-0007
 title: "The Ringgit: What Moves Malaysia's Currency"
 slug: "ringgit"

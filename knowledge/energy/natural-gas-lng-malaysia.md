@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-ENE-0010
 title: "Natural Gas and LNG in Malaysia"
 seoTitle: "Natural Gas and LNG in Malaysia: Supply, Exports and Pricing"

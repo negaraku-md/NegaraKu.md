@@ -1,4 +1,5 @@
 ---
+hidden: true
 topicId: MY-BIZ-0041
 title: "Licences for a Restaurant or Café in Malaysia"
 seoTitle: "Restaurant Licence Malaysia: The Full Stack"
