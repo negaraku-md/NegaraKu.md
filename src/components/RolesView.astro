@@ -53,9 +53,9 @@ const roles = [
       L('Buka pull request; ditambah ke sejarah perubahan artikel', 'Open pull requests; added to an article’s change history', '发起 pull request；记入文章的修改历史'),
     ],
     become: L(
-      'Sesiapa boleh menyumbang buat kali pertama melalui fork + pull request — tiada keahlian org diperlukan. Keahlian org (yang membuka penuntutan item Senarai Kerja) diberikan atas permintaan atau selepas beberapa PR diterima.',
-      'Anyone can make a first contribution via fork + pull request — no org membership needed. Org membership (which unlocks claiming Worklist items) is granted on request or after a few accepted PRs.',
-      '任何人都可以通过 fork + pull request 进行首次贡献——无需组织成员资格。组织成员资格（可认领工作清单条目）在申请后或若干 PR 被接受后授予。',
+      'Sesiapa boleh menyumbang buat kali pertama melalui fork + pull request — tiada keahlian org diperlukan. Keahlian org (yang membuka penuntutan item Senarai Kerja) diberikan atas permintaan — seorang penyelenggara menjemput anda.',
+      'Anyone can make a first contribution via fork + pull request — no org membership needed. Org membership (which unlocks claiming Worklist items) is granted on request — a maintainer invites you.',
+      '任何人都可以通过 fork + pull request 进行首次贡献——无需组织成员资格。组织成员资格（可认领工作清单条目）经申请后由维护者邀请授予。',
     ),
     cta: { label: L('Mohon akses org', 'Request org access', '申请组织权限'), href: requestAccessUrl, external: true },
   },
@@ -69,6 +69,7 @@ const roles = [
       L('Luluskan artikel yang telah disemak — di mana pelulus ≠ pelaksana (empat mata)', 'Approve reviewed articles — where approver ≠ the person who did the work (four-eyes)', '批准已审阅的文章——批准者 ≠ 执行者（四眼原则）'),
       L('Tandatangani kandungan sensitif (3R+1) untuk penerbitan', 'Sign off sensitive (3R+1) content for publication', '为敏感（3R+1）内容签署发布'),
       L('Beri lencana “Disemak manusia” yang menjadi asas kepercayaan laman', 'Grant the “Human-reviewed” badge that underpins the site’s trust', '授予支撑网站信任的"人工审阅"徽章'),
+      L('Ajukan permintaan arkib untuk topik yang usang (penyelenggara mengesahkan)', 'Raise a request to archive an outdated topic (a maintainer confirms)', '发起归档过时主题的请求（由维护者确认）'),
     ],
     become: L(
       'Status Penyemak diperoleh, bukan diminta: rekod sumbangan yang bermakna, tabiat memetik sumber utama, kepakaran domain sebenar, dan neutraliti. Seorang penyelenggara mencalonkan anda melalui PR yang menambah nama anda ke scripts/health/reviewers.txt.',
@@ -161,7 +162,7 @@ const roles = [
         </li>
         <li>
           <b>{L('Keahlian org negaraku-md', 'negaraku-md org membership', 'negaraku-md 组织成员')}</b>
-          <span>{L('Membuka penuntutan item Senarai Kerja dan cabang layan-diri. Diberi atas permintaan atau selepas beberapa PR diterima.', 'Unlocks claiming Worklist items and self-service branches. Granted on request or after a few accepted PRs.', '可认领工作清单条目和自助分支。在申请后或若干 PR 被接受后授予。')} <a href={requestAccessUrl} rel="noopener">{L('Mohon akses', 'Request access', '申请权限')} ↗</a></span>
+          <span>{L('Membuka penuntutan item Senarai Kerja dan cabang layan-diri. Diberi atas permintaan — seorang penyelenggara menjemput anda.', 'Unlocks claiming Worklist items and self-service branches. Granted on request — a maintainer invites you.', '可认领工作清单条目和自助分支。经申请后由维护者邀请授予。')} <a href={requestAccessUrl} rel="noopener">{L('Mohon akses', 'Request access', '申请权限')} ↗</a></span>
         </li>
         <li>
           <b>{L('Status Penyemak', 'Reviewer status', '审阅者身份')}</b>
