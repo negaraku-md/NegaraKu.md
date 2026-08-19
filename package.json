@@ -19,7 +19,7 @@
     "analytics:accumulate": "node scripts/accumulate-analytics.mjs",
     "verify:analytics": "node scripts/verify-analytics.mjs",
     "build:graph": "node scripts/build-graph.mjs",
-    "prebuild": "node scripts/clean-cache.mjs && node scripts/validate-frontmatter.mjs && node scripts/translation-sync.mjs && node scripts/sync.mjs && node scripts/build-og.mjs && node scripts/build-git-info.mjs && node scripts/build-changelog.mjs && node scripts/build-dashboard.mjs && node scripts/build-graph.mjs && node scripts/build-analytics.mjs && node scripts/check-internal-links.mjs --enforce",
+    "prebuild": "node scripts/clean-cache.mjs && node scripts/validate-frontmatter.mjs && node scripts/translation-sync.mjs && node scripts/sync.mjs && node scripts/build-og.mjs && node scripts/build-git-info.mjs && node scripts/build-changelog.mjs && node scripts/build-dashboard.mjs && node scripts/build-graph.mjs && node scripts/build-analytics.mjs && node scripts/check-internal-links.mjs --strict",
     "build": "astro build && pagefind --site dist",
     "preview": "astro preview",
     "astro": "astro",
