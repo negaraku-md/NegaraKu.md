@@ -10,7 +10,7 @@ summary: "Part III of the Federal Constitution sets out three paths to becoming 
 tier: "2"
 mode: "practical"
 contentType: "guide"
-sensitivity: "none"
+sensitivity: "constitution"
 
 answer: "A person becomes a Malaysian citizen through one of three paths under Part III of the Federal Constitution. First, by operation of law at birth (Article 14 and the Second Schedule): a baby born in Malaysia is a citizen if at least one parent was a citizen or permanent resident at the time of birth. Second, by registration upon application — for the foreign wife of a citizen (Article 15(1)), a minor child (Articles 15(2) and 15A) and a person born in the Federation before Merdeka (Article 16). Third, by naturalisation for long-resident non-citizen adults (Article 19)."
 keyTakeaways:

@@ -58,7 +58,7 @@ revisions:
     date: 2026-08-18
     change: "Initial publication."
     reviewer: null
-sensitivity: "none"
+sensitivity: "race"
 
 created: 2026-08-18
 updated: 2026-08-18

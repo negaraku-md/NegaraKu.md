@@ -10,7 +10,7 @@ summary: "国家原则（Rukun Negara）是马来西亚的国家誓言，建立�
 tier: "1"
 mode: "narrative"
 contentType: "glossary"
-sensitivity: "none"
+sensitivity: "race"
 
 answer: "国家原则（Rukun Negara）是马来西亚的国家哲学与正式誓言，建立在五大原则之上：信奉上苍；忠于君国；维护宪法；尊崇法治；以及培养德行。它由国家行动理事会（MAGERAN）之下的国家协商理事会在1969年5月13日事件之后拟定，并由第四任最高元首端姑依斯迈纳西鲁丁沙（Tuanku Ismail Nasiruddin Shah）于1970年8月31日、配合国家独立13周年纪念日宣布。每一次宣誓在列出这五大原则之前，都会先以国家的五大宏愿开始。"
 keyTakeaways:

@@ -11,7 +11,7 @@ summary: "Rukun Negara ialah ikrar kebangsaan Malaysia yang dibina atas lima pri
 tier: "1"
 mode: "narrative"
 contentType: "glossary"
-sensitivity: "none"
+sensitivity: "race"
 
 answer: "Rukun Negara ialah falsafah kebangsaan dan ikrar rasmi Malaysia yang dibina atas lima prinsip: Kepercayaan kepada Tuhan; Kesetiaan kepada Raja dan Negara; Keluhuran Perlembagaan; Kedaulatan Undang-Undang; dan Kesopanan dan Kesusilaan. Ia digubal oleh Majlis Perundingan Negara di bawah Majlis Gerakan Negara (MAGERAN) selepas peristiwa 13 Mei 1969, dan diisytiharkan oleh Yang di-Pertuan Agong ke-IV, Tuanku Ismail Nasiruddin Shah, pada 31 Ogos 1970 sempena ulang tahun kemerdekaan negara yang ke-13. Setiap ikrar bermula dengan lima cita-cita negara sebelum menyenaraikan lima prinsip tersebut."
 keyTakeaways:

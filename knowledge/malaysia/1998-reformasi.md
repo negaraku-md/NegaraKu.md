@@ -34,7 +34,7 @@ revisions:
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
-sensitivity: "none"
+sensitivity: "constitution"
 updated: 2026-07-24
 sources:
   - title: "Significant Milestones in the Malaysian Foreign Exchange Market"

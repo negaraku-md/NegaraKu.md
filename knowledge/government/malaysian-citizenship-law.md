@@ -11,7 +11,7 @@ summary: "Perlembagaan Persekutuan Bahagian III menetapkan tiga jalan menjadi wa
 tier: "2"
 mode: "practical"
 contentType: "guide"
-sensitivity: "none"
+sensitivity: "constitution"
 
 answer: "Seseorang menjadi warganegara Malaysia menerusi salah satu daripada tiga jalan di bawah Bahagian III Perlembagaan Persekutuan. Pertama, secara kuat kuasa undang-undang semasa lahir (Perkara 14 dan Jadual Kedua): seorang bayi yang lahir di Malaysia adalah warganegara jika sekurang-kurangnya seorang ibu bapanya ialah warganegara atau pemastautin tetap ketika kelahiran. Kedua, secara pendaftaran atas permohonan — bagi isteri asing seorang warganegara (Perkara 15(1)), anak di bawah umur (Perkara 15(2) dan 15A) dan orang yang lahir di Persekutuan sebelum Merdeka (Perkara 16). Ketiga, secara penaturalisasian bagi orang dewasa bukan warganegara yang bermastautin lama (Perkara 19)."
 keyTakeaways:

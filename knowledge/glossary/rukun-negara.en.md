@@ -10,7 +10,7 @@ summary: "The Rukun Negara is Malaysia's national pledge built upon five princip
 tier: "1"
 mode: "narrative"
 contentType: "glossary"
-sensitivity: "none"
+sensitivity: "race"
 
 answer: "The Rukun Negara is Malaysia's national philosophy and official pledge, built upon five principles: Belief in God; Loyalty to King and Country; Supremacy of the Constitution; Rule of Law; and Courtesy and Morality. It was drafted by the National Consultative Council under the National Operations Council (MAGERAN) after the 13 May 1969 incident, and proclaimed by the fourth Yang di-Pertuan Agong, Tuanku Ismail Nasiruddin Shah, on 31 August 1970 to mark the nation's 13th anniversary of independence. Each pledge opens with the five national aspirations before listing the five principles."
 keyTakeaways:

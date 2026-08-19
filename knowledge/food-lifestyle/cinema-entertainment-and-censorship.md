@@ -11,7 +11,7 @@ summary: "Setiap filem yang ditayangkan untuk tontonan awam di Malaysia wajib di
 tier: "2"
 mode: "practical"
 contentType: "guide"
-sensitivity: "none"
+sensitivity: "constitution"
 
 answer: "Di Malaysia, semua filem untuk tontonan awam wajib ditapis dan diluluskan oleh Lembaga Penapisan Filem (LPF) di bawah Akta Penapisan Filem 2002 (Akta 620) sebelum boleh ditayangkan, dan setiap filem diberi salah satu daripada lima klasifikasi umur — U, P12, 13, 16 atau 18 — di bawah sistem Klasifikasi Filem 2023 yang berkuat kuasa mulai 2 Februari 2023. Penapisan pra-tayangan ini terpakai untuk pawagam tetapi tidak untuk filem di internet. Premis hiburan seperti pusat karaoke pula tidak dilesenkan oleh LPF, sebaliknya oleh pihak berkuasa tempatan (PBT) mengikut undang-undang kecil hiburan yang berbeza dari satu kawasan ke kawasan lain."
 keyTakeaways:

@@ -10,7 +10,7 @@ summary: "Every film screened for public viewing in Malaysia must first be appro
 tier: "2"
 mode: "practical"
 contentType: "guide"
-sensitivity: "none"
+sensitivity: "constitution"
 
 answer: "In Malaysia, all films for public viewing must be censored and approved by the Film Censorship Board (LPF) under the Film Censorship Act 2002 (Act 620) before they can be screened, and every film is given one of five age classifications — U, P12, 13, 16 or 18 — under the Film Classification 2023 system that took effect on 2 February 2023. This pre-screening censorship applies to cinemas but not to films on the internet. Entertainment premises such as karaoke centres are not licensed by the LPF, but by local authorities (PBT) under entertainment by-laws that differ from one area to another."
 keyTakeaways:
