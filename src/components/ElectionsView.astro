@@ -29,7 +29,8 @@ const facts = [
     <div><b id="cd-hrs">–</b><span>{L('jam', 'hours', '小时')}</span></div>
     <div><b id="cd-min">–</b><span>{L('minit', 'minutes', '分钟')}</span></div>
   </div>
-  <p class="muted">{L('Sasaran anggaran', 'Indicative target', '估计目标')}: {target}</p>
+  <p class="cd-expired" hidden>{L('Sasaran anggaran telah berlalu — PRU16 mungkin akan diadakan. Semak SPR untuk tarikh yang diwartakan.', 'The indicative date has passed — GE16 may be due. Check the SPR for the gazetted date.', '估计日期已过——GE16 可能即将举行。请查看 SPR 的正式日期。')}</p>
+  <p class="muted cd-target">{L('Sasaran anggaran', 'Indicative target', '估计目标')}: {target}</p>
 </section>
 
 <section class="container block">
@@ -51,8 +52,8 @@ const facts = [
     </ul>
     <h2 style="margin-top:1.5rem">{L('Alat sivik', 'Civic tools', '公民工具')}</h2>
     <ul class="reads">
-      <li><a href="https://www.spr.gov.my" rel="noopener">SPR — Suruhanjaya Pilihan Raya ↗</a></li>
-      <li><a href="https://undi.info" rel="noopener">Undi.info ↗</a></li>
+      <li><a href="https://www.spr.gov.my" target="_blank" rel="noopener">SPR — Suruhanjaya Pilihan Raya ↗</a></li>
+      <li><a href="https://undi.info" target="_blank" rel="noopener">Undi.info ↗</a></li>
     </ul>
   </div>
 </section>
@@ -61,11 +62,21 @@ const facts = [
   const el = document.querySelector<HTMLElement>('.countdown');
   if (el?.dataset.target) {
     const target = new Date(el.dataset.target + 'T00:00:00').getTime();
+    const expired = document.querySelector<HTMLElement>('.cd-expired');
+    const targetLine = document.querySelector<HTMLElement>('.cd-target');
     const tick = () => {
-      const diff = Math.max(0, target - Date.now());
-      const d = Math.floor(diff / 86400000);
-      const h = Math.floor((diff % 86400000) / 3600000);
-      const m = Math.floor((diff % 3600000) / 60000);
+      const raw = target - Date.now();
+      // Once the indicative date passes, a frozen "0 0 0" is worse than nothing —
+      // swap the ticker for a message pointing at the authoritative source.
+      if (raw <= 0) {
+        el.hidden = true;
+        if (targetLine) targetLine.hidden = true;
+        if (expired) expired.hidden = false;
+        return;
+      }
+      const d = Math.floor(raw / 86400000);
+      const h = Math.floor((raw % 86400000) / 3600000);
+      const m = Math.floor((raw % 3600000) / 60000);
       const set = (id: string, v: number) => { const n = document.getElementById(id); if (n) n.textContent = String(v); };
       set('cd-days', d); set('cd-hrs', h); set('cd-min', m);
     };

@@ -196,7 +196,14 @@ const groups = [...new Set(unique.map((r) => r.trigger))];
       const cell = tr.querySelector<HTMLElement>('.computed');
       if (!cell) return;
       const within = tr.dataset.within ? Number(tr.dataset.within) : null;
-      if (!base || within === null || Number.isNaN(base.getTime())) {
+      // Only duties whose clock genuinely starts at incorporation (or its yearly
+      // anniversary) can be dated from the incorporation date. Event-triggered
+      // duties — "within 30 days of a change", "six months after financial
+      // year-end", ongoing obligations — depend on an event we don't know here,
+      // so computing a confident date off incorporation would be wrong. Show "—".
+      const trigger = tr.dataset.trigger;
+      const incorporationBased = trigger === 'incorporation' || trigger === 'anniversary';
+      if (!base || within === null || Number.isNaN(base.getTime()) || !incorporationBased) {
         cell.textContent = '—';
         cell.removeAttribute('data-soon');
         return;
