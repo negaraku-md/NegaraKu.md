@@ -40,7 +40,7 @@ translationStatus: "master"
 
 status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 version: "01.00"

@@ -41,7 +41,7 @@ translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 published: 2026-08-18
 reviewDue: 2027-08-18
 version: "03.00"
