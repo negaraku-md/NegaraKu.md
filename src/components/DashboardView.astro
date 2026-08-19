@@ -207,9 +207,9 @@ const avgSources = sourced ? (sources / sourced).toFixed(1) : '0';
     <div class="psec-body">
       <p class="hint">
         {L(
-          `${sensitiveCount} daripada ${totalTopics} subjek menyentuh domain sensitif Malaysia (kaum, agama, institusi diraja, perlembagaan) dan dilabel untuk semakan berhati-hati.`,
-          `${sensitiveCount} of ${totalTopics} subjects touch Malaysia's sensitive domains (race, religion, royalty, the constitution) and are labelled for careful review.`,
-          `${totalTopics} 个主题中有 ${sensitiveCount} 个涉及马来西亚的敏感领域（种族、宗教、王室、宪法），已标注以便审慎审阅。`,
+          `${sensitiveCount} daripada ${totalTopics} subjek menyentuh domain sensitif Malaysia (seperti kaum, agama, institusi diraja dan perlembagaan) dan dilabel untuk semakan berhati-hati.`,
+          `${sensitiveCount} of ${totalTopics} subjects touch Malaysia's sensitive domains (such as race, religion, royalty and the constitution) and are labelled for careful review.`,
+          `${totalTopics} 个主题中有 ${sensitiveCount} 个涉及马来西亚的敏感领域（如种族、宗教、王室与宪法），已标注以便审慎审阅。`,
         )}
       </p>
       <div class="sens">
@@ -243,6 +243,7 @@ const avgSources = sourced ? (sources / sourced).toFixed(1) : '0';
           </div>
         </div>
       ))}
+      <p class="cov-more"><a href={localePath('/categories', locale)}>{L('Layari semua kategori', 'Browse all categories', '浏览所有分类')} →</a></p>
     </div>
   </div>
 </section>
@@ -291,34 +292,6 @@ const avgSources = sourced ? (sources / sourced).toFixed(1) : '0';
         </ul>
       )}
       <p class="more"><a href={localePath('/changelog', locale)}>{L('Lihat log perubahan penuh →', 'See the full changelog →', '查看完整更新日志 →')}</a></p>
-    </div>
-  </div>
-</section>
-
-<section class="container block">
-  <div class="psec">
-    <header><span>{L('Struktur pengetahuan', 'Knowledge structure', '知识结构')}</span></header>
-    <div class="psec-body">
-      <p class="hint">{L('Seksyen → Kategori → Topik', 'Section → Category → Topic', '版块 → 分类 → 主题')}</p>
-      <div class="ia">
-        {sections.map((s) => (
-          <details class="ia-sec">
-            <summary>
-              <span class="ia-ico">{s.icon}</span>
-              <span class="ia-name">{s.name}</span>
-              <span class="ia-count">{s.total}</span>
-            </summary>
-            <ul class="ia-cats">
-              {s.cats.map((c) => (
-                <li>
-                  <a href={localePath(`/${c.id}`, locale)}>{c.name}</a>
-                  <span class="ia-count sm">{c.total}</span>
-                </li>
-              ))}
-            </ul>
-          </details>
-        ))}
-      </div>
     </div>
   </div>
 </section>
@@ -397,6 +370,9 @@ const avgSources = sourced ? (sources / sourced).toFixed(1) : '0';
   .ladder { list-style: none; padding: 0; margin: 0; display: grid; gap: 0.15rem; }
   .ladder li { display: flex; align-items: center; gap: 0.65rem; padding: 0.5rem 0.2rem; border-bottom: 1px dashed var(--line); }
   .ladder li:last-child { border-bottom: 0; }
+  /* Empty rungs (a status no article currently sits in) recede, so a 0 reads as
+     "unused stage", not a broken metric. */
+  .ladder li:not(.has) { opacity: 0.5; }
   .ld-dot { width: 0.6rem; height: 0.6rem; border-radius: 50%; background: var(--surface-2); border: 1px solid var(--muted); flex: none; }
   .ladder li.has .ld-dot { background: var(--gold); border-color: var(--gold); }
   .ladder li[data-status='published'].has .ld-dot { background: #4ade80; border-color: #4ade80; }
@@ -413,20 +389,9 @@ const avgSources = sourced ? (sources / sourced).toFixed(1) : '0';
   .more { margin: 0.9rem 0 0; }
   .more a { color: var(--gold); text-decoration: none; font-size: 0.85rem; font-weight: 600; }
 
-  /* Knowledge structure */
-  .ia { display: grid; grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr)); gap: 0.7rem; align-items: start; }
-  .ia-sec { border: 1px solid var(--line); border-radius: 12px; background: var(--surface-2); overflow: hidden; }
-  .ia-sec > summary { display: flex; align-items: center; gap: 0.6rem; cursor: pointer; list-style: none; padding: 0.7rem 0.95rem; font-weight: 800; }
-  .ia-sec > summary::-webkit-details-marker { display: none; }
-  .ia-ico { font-size: 1.05rem; }
-  .ia-name { flex: 1; }
-  .ia-count { font-variant-numeric: tabular-nums; font-weight: 800; color: var(--gold); background: color-mix(in srgb, var(--gold) 12%, transparent); border-radius: 999px; padding: 0.05rem 0.55rem; font-size: 0.8rem; }
-  .ia-count.sm { color: var(--muted); background: none; padding: 0 0.2rem; }
-  .ia-cats { list-style: none; margin: 0; padding: 0.2rem 0.6rem 0.7rem; }
-  .ia-cats li { display: flex; align-items: center; justify-content: space-between; gap: 0.6rem; padding: 0.3rem 0.3rem; border-bottom: 1px dashed color-mix(in srgb, var(--line) 55%, transparent); }
-  .ia-cats li:last-child { border-bottom: 0; }
-  .ia-cats a { color: var(--ink-soft); text-decoration: none; font-size: 0.86rem; }
-  .ia-cats a:hover { color: var(--gold); }
+  .cov-more { margin: 1.1rem 0 0; }
+  .cov-more a { color: var(--gold); text-decoration: none; font-weight: 600; font-size: 0.9rem; }
+  .cov-more a:hover { text-decoration: underline; }
 
   @media (max-width: 800px) { .two-col { grid-template-columns: 1fr; } }
 </style>

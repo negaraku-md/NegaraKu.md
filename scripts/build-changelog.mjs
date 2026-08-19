@@ -36,7 +36,7 @@ const TYPE = (subject) => {
 function fromGit() {
   const log = execFileSync(
     'git',
-    ['log', '-500', '--no-merges', '--pretty=format:%h\x1f%an\x1f%ad\x1f%s', '--date=short'],
+    ['log', '-1500', '--no-merges', '--pretty=format:%h\x1f%an\x1f%ad\x1f%s', '--date=short'],
     { cwd: ROOT, encoding: 'utf8' },
   ).trim();
   if (!log) return null;

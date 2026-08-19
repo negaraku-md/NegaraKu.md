@@ -50,7 +50,16 @@ const I18N = {
   date: L('Tarikh', 'Date', '日期'),
   commit: L('Komit', 'Commit', '提交'),
   none: L('Tiada rekod.', 'No entries.', '没有记录。'),
+  contributorsUrl: localePath('/contributors', locale),
 };
+
+// The change descriptions come from the git history, which is kept in English
+// (the project's working language); only the interface around them is localised.
+const enNote = L(
+  'Penerangan perubahan dalam bahasa Inggeris — bahasa kerja projek; antara mukanya diterjemah.',
+  'Change descriptions are in English — the project’s working language; the interface around them is translated.',
+  '变更说明为英文——项目的工作语言；其外围界面已翻译。',
+);
 ---
 
 <PageHero
@@ -73,6 +82,7 @@ const I18N = {
 />
 
 <section class="container clwrap" id="clwrap">
+  <p class="cl-note">{enNote}</p>
   <div class="art-toolbar">
     <div class="tb-line">
       <span class="tb-label">{L('Isih', 'Sort', '排序')}</span>
@@ -179,7 +189,7 @@ const I18N = {
       const bits = [];
       if (r.typeLabel) bits.push(`<span class="chip type" data-t="${esc(r.type)}">${esc(I.type)}: ${esc(r.typeLabel)}</span>`);
       if (r.cat) bits.push(`<span class="chip">${esc(I.category)}: ${esc(r.cat)}</span>`);
-      if (r.author) bits.push(`<span class="chip">${esc(I.contributor)}: ${esc(r.author)}</span>`);
+      if (r.author) bits.push(`<a class="chip contrib" href="${esc(I.contributorsUrl)}">${esc(I.contributor)}: ${esc(r.author)}</a>`);
       if (r.date) bits.push(`<span class="chip dim">${esc(I.date)}: ${esc(r.date)}</span>`);
       if (r.hash)
         bits.push(`<a class="chip sha" href="${esc(r.url)}" target="_blank" rel="noopener">${esc(I.commit)}: ${esc(r.hash)}</a>`);
@@ -248,6 +258,7 @@ const I18N = {
 
 <style>
   .clwrap { padding-block: 1.6rem 3rem; }
+  .cl-note { margin: 0 0 1.2rem; color: var(--muted); font-size: 0.82rem; line-height: 1.5; }
 
   /* Toolbar — identical to the All-Articles page. */
   .art-toolbar { display: flex; flex-direction: column; gap: 1.1rem; margin-bottom: 1.6rem; padding-bottom: 1.3rem; border-bottom: 1px solid var(--line); }
@@ -293,6 +304,8 @@ const I18N = {
   .cl-list :global(.chip.dim) { color: var(--muted); }
   .cl-list :global(.chip.sha) { font-family: monospace; color: var(--gold); text-decoration: none; }
   .cl-list :global(.chip.sha:hover) { border-color: var(--gold); }
+  .cl-list :global(a.chip.contrib) { text-decoration: none; }
+  .cl-list :global(a.chip.contrib:hover) { border-color: var(--gold); color: var(--gold); }
   .cl-list :global(.chip.type) { font-weight: 700; }
   .cl-list :global(.chip.type[data-t='content']) { color: #4ade80; border-color: color-mix(in srgb, #4ade80 40%, var(--line)); }
   .cl-list :global(.chip.type[data-t='translate']) { color: #60a5fa; border-color: color-mix(in srgb, #60a5fa 40%, var(--line)); }
