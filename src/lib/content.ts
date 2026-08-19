@@ -61,6 +61,10 @@ export function isLive(status: string): boolean {
 }
 
 export function isPublishable(a: Article): boolean {
+  // Explicit off switch — a `hidden` article is pulled from the public site no
+  // matter its status. (Master-level `hidden` cascades to every language in
+  // allArticles(); this line also hides a single translation on its own.)
+  if (a.data.hidden) return false;
   // The public site serves FINISHED work only. Draft / in-review / reviewed are
   // in-progress states — visible on the Dashboard and in git, but never on the
   // reader-facing pages. Contributors work through GitHub, not the rendered site.
@@ -96,7 +100,15 @@ const _localeCache = new Map<Locale, Promise<Article[]>>();
 
 export function allArticles(): Promise<Article[]> {
   if (MEMO && _allCache) return _allCache;
-  const p = getCollection('knowledge').then((c) => c.filter(isPublishable));
+  const p = getCollection('knowledge').then((c) => {
+    // Hiding the MASTER hides the whole topic — every translation goes with it.
+    const hiddenTopics = new Set(
+      c
+        .filter((a) => a.data.hidden && a.data.lang === (a.data.masterLanguage ?? a.data.lang))
+        .map((a) => a.data.topicId),
+    );
+    return c.filter((a) => isPublishable(a) && !hiddenTopics.has(a.data.topicId));
+  });
   if (MEMO) _allCache = p;
   return p;
 }

@@ -189,6 +189,12 @@ const knowledge = defineCollection({
         'archived',
       ])
       .default('draft'),
+    /**
+     * Explicit off switch — force-hide from the public site regardless of
+     * status. Set on a MASTER file it hides every language of the topic; set on
+     * a single translation it hides only that language.
+     */
+    hidden: z.boolean().default(false),
     /** True when the text was AI-drafted — disclosed on the page. */
     aiAssisted: z.boolean().default(true),
     reviewer: z.string().nullable().default(null),
