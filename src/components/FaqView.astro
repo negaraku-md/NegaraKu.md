@@ -1,0 +1,289 @@
+---
+import type { Locale } from '@/lib/categories';
+import { localePath } from '@/lib/i18n';
+import { REPO } from '@/lib/site';
+import PageHero from './PageHero.astro';
+
+interface Props {
+  locale: Locale;
+}
+const { locale } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+// Grouped project FAQ. Each item: question + plain-text answer (used for the
+// FAQPage JSON-LD too) + optional links rendered under the answer.
+type Item = { q: string; a: string; links?: { href: string; label: string }[] };
+type Group = { title: string; items: Item[] };
+
+const groups: Group[] = [
+  {
+    title: L('Tentang projek', 'About the project', '关于项目'),
+    items: [
+      {
+        q: L('Apakah NegaraKu.md?', 'What is NegaraKu.md?', 'NegaraKu.md 是什么？'),
+        a: L(
+          'Pangkalan pengetahuan sumber terbuka tentang Malaysia, ditulis dalam Markdown dan direka untuk dibaca oleh manusia dan AI. Namanya diambil daripada lagu kebangsaan Malaysia. Setiap topik hidup sebagai fail di GitHub.',
+          'An open-source knowledge base about Malaysia, written in Markdown and designed to be read by people and AI alike. Its name comes from Malaysia’s national anthem. Every topic lives as a file on GitHub.',
+          '一个关于马来西亚的开源知识库，以 Markdown 撰写，面向人类与 AI 阅读。名字取自马来西亚国歌。每个主题都以 GitHub 上的文件形式存在。',
+        ),
+      },
+      {
+        q: L('Apa bezanya dengan Wikipedia?', 'How is it different from Wikipedia?', '与维基百科有何不同？'),
+        a: L(
+          'Ia naratif yang dikurasi dengan satu sumber kebenaran di GitHub — bukan ensiklopedia yang boleh disunting sesiapa secara langsung. Perubahan melalui semakan sebelum ia disiarkan.',
+          'It’s curated narrative with a single source of truth on GitHub — not an encyclopedia anyone edits live. Changes pass through review before they go live.',
+          '它是有单一事实来源（存于 GitHub）的策展叙事——并非任何人都能实时编辑的百科。改动须经审阅才会上线。',
+        ),
+      },
+      {
+        q: L('Siapa yang menjalankannya?', 'Who runs it?', '谁在运营它？'),
+        a: L(
+          'Projek sumber terbuka, ditaja oleh 1company, dibina oleh penyumbang dan penyemak. Kredit dijana automatik daripada sejarah perubahan setiap artikel.',
+          'An open-source project, sponsored by 1company, built by contributors and reviewers. Credit is auto-generated from every article’s change history.',
+          '一个由 1company 赞助的开源项目，由贡献者和审阅者共同建设。署名根据每篇文章的修改历史自动生成。',
+        ),
+        links: [
+          { href: localePath('/contributors', locale), label: L('Lihat penyumbang', 'See contributors', '查看贡献者') },
+          { href: localePath('/roles', locale), label: L('Peranan', 'Roles', '角色') },
+        ],
+      },
+      {
+        q: L('Apakah lesennya?', 'What’s the license?', '采用什么许可？'),
+        a: L('Kandungan di bawah CC BY-SA 4.0; kod di bawah lesen MIT.', 'Content is under CC BY-SA 4.0; code is under the MIT license.', '内容采用 CC BY-SA 4.0；代码采用 MIT 许可。'),
+      },
+    ],
+  },
+  {
+    title: L('Membaca & bahasa', 'Reading & languages', '阅读与语言'),
+    items: [
+      {
+        q: L('Bahasa apa yang tersedia?', 'What languages are available?', '有哪些语言？'),
+        a: L(
+          'Tiga: Bahasa Malaysia (lalai, di /), Inggeris (di /en) dan Cina (di /zh). Setiap topik disasarkan untuk hadir penuh dalam ketiga-tiganya.',
+          'Three: Bahasa Malaysia (default, at /), English (at /en) and Chinese (at /zh). Every topic aims to be present fully in all three.',
+          '三种：马来文（默认，位于 /）、英文（位于 /en）和中文（位于 /zh）。每个主题都力求以三种语言完整呈现。',
+        ),
+      },
+      {
+        q: L('Bagaimana jika terjemahan tiada?', 'What if a translation is missing?', '如果缺少翻译怎么办？'),
+        a: L(
+          'Halaman berpatah balik kepada bahasa induk topik itu, jadi anda tidak pernah menemui halaman kosong. Terjemahan yang lapuk ditanda supaya ia tidak menyesatkan.',
+          'The page falls back to the topic’s master language, so you never hit a blank page. Stale translations are flagged so they don’t mislead.',
+          '页面会回退到该主题的母版语言，因此你不会遇到空白页。过时的翻译会被标记，以免误导。',
+        ),
+      },
+      {
+        q: L('Bagaimana saya tahu halaman itu terkini?', 'How do I know a page is current?', '我如何知道页面是否最新？'),
+        a: L(
+          'Artikel memaparkan lencana amanah — sama ada ia disemak manusia, dan bila ia perlu disemak semula — dan setiap halaman memautkan sejarah perubahannya di GitHub.',
+          'Articles show trust badges — whether they’re human-reviewed, and when they’re due for re-review — and every page links its change history on GitHub.',
+          '文章会显示信任徽章——是否经人工审阅、何时应重新审阅——每个页面都链接其在 GitHub 上的修改历史。',
+        ),
+      },
+    ],
+  },
+  {
+    title: L('Kualiti & sumber', 'Quality & sourcing', '质量与来源'),
+    items: [
+      {
+        q: L('Bagaimana kualiti dijamin?', 'How is quality ensured?', '如何保证质量？'),
+        a: L(
+          'Setiap dakwaan yang boleh disemak dipetik sumbernya. Artikel bergerak melalui tangga draf → disemak → diterbitkan, dan pengimbas kesihatan automatik berjalan pada setiap binaan.',
+          'Every checkable claim is cited. Articles move through a draft → reviewed → published ladder, and an automated health scanner runs on every build.',
+          '每个可核查的说法都注明来源。文章经过草稿→审阅→发布的流程，每次构建都会运行自动健康扫描。',
+        ),
+      },
+      {
+        q: L('Adakah artikel dijana AI?', 'Are the articles AI-generated?', '文章是 AI 生成的吗？'),
+        a: L(
+          'Kebanyakan bermula sebagai draf berpandukan AI, kemudian disunting dan disemak oleh manusia. Kami mendedahkannya secara jujur pada setiap artikel dan pada halaman penyumbang.',
+          'Most begin as AI-guided drafts, then are edited and reviewed by humans. We disclose this honestly on each article and on the contributors page.',
+          '大多数最初是 AI 引导的草稿，随后由人编辑和审阅。我们在每篇文章和贡献者页面上如实披露这一点。',
+        ),
+      },
+      {
+        q: L('Bagaimana saya melaporkan kesilapan?', 'How do I report an error?', '我如何报告错误？'),
+        a: L(
+          'Guna pautan “Laporkan isu” di bahagian bawah mana-mana artikel — ia membuka isu GitHub yang telah diisi. Laporan yang sah menandakan artikel itu “perlu kemas kini” secara automatik.',
+          'Use the “Report an issue” link at the bottom of any article — it opens a pre-filled GitHub issue. A valid report automatically flags the article as “needs update”.',
+          '使用任意文章底部的"报告问题"链接——它会打开一个预填的 GitHub issue。有效的报告会自动将该文章标记为"需更新"。',
+        ),
+        links: [{ href: localePath('/contribute', locale), label: L('Cara melapor & mencadang', 'How to report & suggest', '如何报告与建议') }],
+      },
+    ],
+  },
+  {
+    title: L('Topik sensitif', 'Sensitive topics', '敏感话题'),
+    items: [
+      {
+        q: L('Bagaimana isu sensitif dikendalikan?', 'How are sensitive topics handled?', '如何处理敏感话题？'),
+        a: L(
+          'Topik yang menyentuh kaum, agama, institusi diraja atau perlembagaan dilabel mengikut satu piawai klasifikasi. Ia mesti bersumber dan neutral, dan tidak boleh diterbitkan tanpa semakan manusia bernama.',
+          'Topics touching race, religion, royalty or the constitution are labelled by a single classification standard. They must be sourced and neutral, and cannot be published without a named human review.',
+          '涉及种族、宗教、王室或宪法的主题依统一的分类标准标注。它们必须注明来源、保持中立，且未经具名的人工审阅不得发布。',
+        ),
+      },
+      {
+        q: L('Kenapa nadanya neutral?', 'Why is the tone neutral?', '为什么语气保持中立？'),
+        a: L(
+          'Matlamatnya menerangkan, bukan menetapkan. Pada isu yang dipertikaikan, kami menyampaikan fakta dan kedudukan yang bersumber tanpa mengambil pihak.',
+          'The goal is to describe, not prescribe. On contested subjects we present sourced facts and positions without taking a side.',
+          '目标是描述而非主张。在有争议的议题上，我们呈现有据可查的事实与立场，而不选边站。',
+        ),
+      },
+    ],
+  },
+  {
+    title: L('Menyumbang', 'Contributing', '参与贡献'),
+    items: [
+      {
+        q: L('Bolehkah saya menyumbang?', 'Can I contribute?', '我可以贡献吗？'),
+        a: L(
+          'Ya. Sesiapa boleh melapor atau mencadang tanpa jemputan. Menulis dan menterjemah adalah melalui fork + pull request, dengan keahlian org diberikan atas permintaan atau selepas beberapa PR diterima.',
+          'Yes. Anyone can report or suggest without an invitation. Authoring and translating are via fork + pull request, with org membership granted on request or after a few accepted PRs.',
+          '可以。任何人无需邀请即可报告或建议。撰写和翻译通过 fork + pull request 进行，组织成员资格在申请后或若干 PR 被接受后授予。',
+        ),
+        links: [{ href: localePath('/roles', locale), label: L('Peranan & cara menyertai', 'Roles & how to join', '角色与加入方式') }],
+      },
+      {
+        q: L('Saya tidak biasa dengan GitHub.', 'I’m not familiar with GitHub.', '我不熟悉 GitHub。'),
+        a: L(
+          'Itu tidak mengapa. Borang berpandu di laman membuka isu yang telah diisi untuk anda — tiada pengetahuan Git diperlukan untuk melapor atau mencadang.',
+          'That’s fine. The guided forms on the site open a pre-filled issue for you — no Git knowledge is needed to report or suggest.',
+          '没关系。网站上的引导表单会为你打开一个预填的 issue——报告或建议无需任何 Git 知识。',
+        ),
+      },
+      {
+        q: L('Bagaimana saya membantu menterjemah?', 'How do I help translate?', '我如何帮助翻译？'),
+        a: L(
+          '“Derma Token AI Anda” — gunakan kunci Claude anda sendiri untuk mendraf terjemahan, semaknya, kemudian buka PR. Anda membelanjakan token anda; projek membelanjakan sifar.',
+          '“Donate your AI Token” — use your own Claude key to draft a translation, review it, then open a PR. You spend your tokens; the project spends none.',
+          '"捐赠你的 AI Token"——用你自己的 Claude 密钥起草翻译、审阅，然后发起 PR。你花费自己的 token；项目分文不花。',
+        ),
+        links: [{ href: localePath('/donate', locale), label: L('Derma Token AI Anda', 'Donate Your AI Token', '捐赠你的 AI Token') }],
+      },
+    ],
+  },
+  {
+    title: L('Untuk AI & pembangun', 'For AI & developers', '面向 AI 与开发者'),
+    items: [
+      {
+        q: L('Bolehkah AI menggunakan kandungan ini?', 'Can AI use this content?', 'AI 可以使用这些内容吗？'),
+        a: L(
+          'Ya. Setiap halaman menawarkan Markdown mentahnya, dan laman ini menerbitkan llms.txt untuk model bahasa besar. Kandungan di bawah CC BY-SA 4.0.',
+          'Yes. Every page offers its raw Markdown, and the site publishes an llms.txt for large language models. Content is under CC BY-SA 4.0.',
+          '可以。每个页面都提供原始 Markdown，网站也发布 llms.txt 供大型语言模型使用。内容采用 CC BY-SA 4.0。',
+        ),
+        links: [{ href: '/llms.txt', label: 'llms.txt' }],
+      },
+      {
+        q: L('Bolehkah saya fork atau hos sendiri?', 'Can I fork or self-host it?', '我可以 fork 或自建吗？'),
+        a: L(
+          'Boleh. Kod di bawah lesen MIT dan keseluruhan repositori adalah awam. Fork ia, bina secara statik, dan hos di mana-mana.',
+          'You can. The code is under the MIT license and the whole repository is public. Fork it, build it statically, and host it anywhere.',
+          '可以。代码采用 MIT 许可，整个仓库都是公开的。fork 它、静态构建，然后托管在任何地方。',
+        ),
+        links: [{ href: REPO, label: L('Repositori GitHub', 'GitHub repository', 'GitHub 仓库') }],
+      },
+    ],
+  },
+];
+
+// FAQPage structured data (localized) — the site is built to be machine-legible.
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: groups.flatMap((g) =>
+    g.items.map((it) => ({
+      '@type': 'Question',
+      name: it.q,
+      acceptedAnswer: { '@type': 'Answer', text: it.a },
+    })),
+  ),
+};
+
+const isExternal = (href: string) => /^https?:\/\//.test(href);
+---
+
+<PageHero
+  locale={locale}
+  crumb={[
+    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
+    { label: L('Soalan Lazim', 'FAQ', '常见问题') },
+  ]}
+  title={L('Soalan Lazim', 'Frequently asked questions', '常见问题')}
+  desc={L(
+    'Perkara yang paling kerap ditanya tentang NegaraKu.md — apa itu, bagaimana kualitinya dijaga, dan cara mengambil bahagian.',
+    'The things most often asked about NegaraKu.md — what it is, how its quality is kept, and how to take part.',
+    '关于 NegaraKu.md 最常被问到的问题——它是什么、如何保证质量，以及如何参与。',
+  )}
+/>
+
+<section class="container block faq">
+  {groups.map((g) => (
+    <div class="fgroup">
+      <h2 class="ftitle">{g.title}</h2>
+      <div class="fitems">
+        {g.items.map((it) => (
+          <details class="fitem">
+            <summary>
+              <span class="fq">{it.q}</span>
+              <span class="fchev" aria-hidden="true">＋</span>
+            </summary>
+            <div class="fa">
+              <p>{it.a}</p>
+              {it.links && (
+                <p class="flinks">
+                  {it.links.map((l) => (
+                    <a href={l.href} {...(isExternal(l.href) ? { rel: 'noopener' } : {})}>{l.label} {isExternal(l.href) ? '↗' : '→'}</a>
+                  ))}
+                </p>
+              )}
+            </div>
+          </details>
+        ))}
+      </div>
+    </div>
+  ))}
+
+  <div class="more">
+    <p>{L('Tidak menemui jawapannya?', 'Didn’t find your answer?', '没找到答案？')}</p>
+    <div class="more-acts">
+      <a class="btn btn-primary" href={localePath('/contribute', locale)}>{L('Tanya atau laporkan', 'Ask or report', '提问或报告')} →</a>
+      <a class="btn btn-ghost" href={localePath('/about', locale)}>{L('Tentang NegaraKu.md', 'About NegaraKu.md', '关于 NegaraKu.md')} →</a>
+    </div>
+  </div>
+</section>
+
+<script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+
+<style>
+  .block { margin-top: 1.6rem; }
+  .faq { display: grid; gap: 1.8rem; padding-bottom: 1rem; }
+  .ftitle {
+    font-family: var(--font-title); font-size: 0.78rem; letter-spacing: 0.1em; text-transform: uppercase;
+    color: var(--gold); margin: 0 0 0.7rem; padding-bottom: 0.4rem; border-bottom: 1px solid var(--line);
+  }
+  .fitems { display: grid; gap: 0.6rem; }
+  .fitem {
+    background: var(--surface); border: 1px solid var(--line); border-radius: 10px; overflow: hidden;
+  }
+  .fitem[open] { border-color: color-mix(in srgb, var(--gold) 45%, var(--line)); }
+  .fitem > summary {
+    list-style: none; cursor: pointer; display: flex; align-items: center; justify-content: space-between; gap: 1rem;
+    padding: 0.9rem 1.05rem; font-family: var(--font-title); font-weight: 600; font-size: 1rem; color: var(--ink);
+  }
+  .fitem > summary::-webkit-details-marker { display: none; }
+  .fitem > summary:hover { color: var(--gold); }
+  .fchev { flex: none; color: var(--gold); font-weight: 700; font-size: 1.1rem; transition: transform 0.18s; }
+  .fitem[open] .fchev { transform: rotate(45deg); }
+  .fa { padding: 0 1.05rem 1.05rem; }
+  .fa p { margin: 0; color: var(--ink-soft); line-height: 1.65; font-size: 0.94rem; }
+  .flinks { margin-top: 0.7rem !important; display: flex; flex-wrap: wrap; gap: 0.2rem 1.1rem; }
+  .flinks a { color: var(--gold); text-decoration: none; font-weight: 600; font-size: 0.88rem; }
+  .flinks a:hover { text-decoration: underline; }
+
+  .more { text-align: center; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 1.4rem; }
+  .more p { margin: 0 0 0.8rem; font-family: var(--font-title); font-size: 1.05rem; color: var(--ink); }
+  .more-acts { display: flex; flex-wrap: wrap; gap: 0.6rem; justify-content: center; }
+</style>

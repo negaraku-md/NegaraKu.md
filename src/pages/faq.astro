@@ -1,0 +1,9 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import FaqView from '@/components/FaqView.astro';
+const locale = 'ms';
+---
+
+<BaseLayout locale={locale} title="Soalan Lazim" path="/faq">
+  <FaqView locale={locale} />
+</BaseLayout>

@@ -59,7 +59,7 @@ export const NAV: NavMenu[] = [
     items: [
       { label: 'nav.aboutPage', href: '/about' },
       { label: 'nav.contributors', href: '/contributors' },
-      { label: 'nav.faq', href: '/about' }, // TODO: dedicated /faq page
+      { label: 'nav.faq', href: '/faq' },
     ],
   },
   {
@@ -70,7 +70,6 @@ export const NAV: NavMenu[] = [
       { label: 'nav.support', href: '/support' },
       { label: 'nav.whyContribute', href: '/contribute' },
       { label: 'nav.roles', href: '/roles' },
-      { label: 'nav.cli', href: REPO, external: true }, // TODO: point at CLI docs if/when they exist
       { label: 'nav.github', href: REPO, external: true },
     ],
   },

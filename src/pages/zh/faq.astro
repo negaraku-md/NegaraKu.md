@@ -1,0 +1,9 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import FaqView from '@/components/FaqView.astro';
+const locale = 'zh';
+---
+
+<BaseLayout locale={locale} title="常见问题" path="/faq">
+  <FaqView locale={locale} />
+</BaseLayout>
