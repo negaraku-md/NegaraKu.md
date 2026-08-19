@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "cursor": "2026-08-18 03:31:25",
-  "updatedAt": "2026-08-18T03:36:25.716Z",
+  "cursor": "2026-08-19 03:32:46",
+  "updatedAt": "2026-08-19T03:37:46.698Z",
   "pages": {
     "states/how-state-governments-are-funded": {
       "readers": 15,
@@ -41,7 +41,7 @@
       }
     },
     "healthcare/buying-medicine-pharmacies": {
-      "readers": 7,
+      "readers": 9,
       "search": {
         "total": 0,
         "byBot": {}
@@ -75,6 +75,39 @@
     },
     "public-safety/private-security-industry-malaysia": {
       "readers": 3,
+      "search": {
+        "total": 0,
+        "byBot": {}
+      },
+      "ai": {
+        "total": 0,
+        "byBot": {}
+      }
+    },
+    "taxation/individual-tax-residence": {
+      "readers": 3,
+      "search": {
+        "total": 0,
+        "byBot": {}
+      },
+      "ai": {
+        "total": 0,
+        "byBot": {}
+      }
+    },
+    "malaysia/timeline-of-malaysia": {
+      "readers": 2,
+      "search": {
+        "total": 0,
+        "byBot": {}
+      },
+      "ai": {
+        "total": 0,
+        "byBot": {}
+      }
+    },
+    "taxation/capital-allowances": {
+      "readers": 2,
       "search": {
         "total": 0,
         "byBot": {}
