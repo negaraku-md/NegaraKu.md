@@ -476,6 +476,15 @@ const { locale, path } = Astro.props;
       border-bottom: 1px solid var(--line);
       padding: 0.5rem 1.25rem 1rem;
       margin: 0;
+      /* Cap the open menu to the screen and scroll INSIDE it, so a long menu
+         (Explore + About expanded) is fully reachable on phones instead of
+         running off the bottom with nothing to scroll. dvh handles mobile
+         browser chrome; vh is the fallback for older engines. */
+      max-height: calc(100vh - var(--nav-height));
+      max-height: calc(100dvh - var(--nav-height));
+      overflow-y: auto;
+      overscroll-behavior: contain;
+      -webkit-overflow-scrolling: touch;
     }
     .nav-toggle:checked ~ .nav {
       display: flex;
