@@ -66,6 +66,11 @@ const cols = [
 
   <div class="container legal">
     <p>© {year} <span class="wm">NegaraKu<span class="dot">.md</span></span> · {t('footer.license', locale)}</p>
+    <nav class="legal-links" aria-label={L('Undang-undang', 'Legal', '法律')}>
+      <a href={localePath('/terms', locale)}>{L('Terma Penggunaan', 'Terms of Use', '使用条款')}</a>
+      <a href={localePath('/privacy', locale)}>{L('Dasar Privasi', 'Privacy Policy', '隐私政策')}</a>
+      <a href={localePath('/cookies', locale)}>{L('Dasar Kuki', 'Cookie Policy', 'Cookie 政策')}</a>
+    </nav>
   </div>
 </footer>
 
@@ -102,8 +107,12 @@ const cols = [
     border-top: 1px solid var(--line);
     padding-block: 1.1rem 1.4rem;
     color: var(--muted); font-size: 0.82rem;
+    display: flex; flex-wrap: wrap; gap: 0.5rem 1.4rem; align-items: center; justify-content: space-between;
   }
   .legal p { margin: 0; }
+  .legal-links { display: flex; flex-wrap: wrap; gap: 0.4rem 1.2rem; }
+  .legal-links a { color: var(--muted); text-decoration: none; }
+  .legal-links a:hover { color: var(--gold); }
 
   @media (max-width: 720px) {
     .foot-grid { grid-template-columns: 1fr 1fr; }

@@ -1,0 +1,9 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import LegalView from '@/components/LegalView.astro';
+const locale = 'ms';
+---
+
+<BaseLayout locale={locale} title="Dasar Privasi" path="/privacy">
+  <LegalView locale={locale} doc="privacy" />
+</BaseLayout>

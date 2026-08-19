@@ -1,0 +1,319 @@
+---
+import type { Locale } from '@/lib/categories';
+import { localePath } from '@/lib/i18n';
+import { REPO } from '@/lib/site';
+import PageHero from './PageHero.astro';
+
+// Shared renderer for the three policy pages (Terms / Privacy / Cookies).
+// Content is grounded in what the site ACTUALLY does: a static knowledge base on
+// GitHub Pages behind Cloudflare, no accounts, no on-site personal-data forms,
+// no tracking cookies — only client-side localStorage preferences and cookieless
+// edge analytics. These are honest, plain-language drafts; the operator should
+// have them reviewed by a lawyer and add their legal-entity + contact details.
+
+interface Props {
+  locale: Locale;
+  doc: 'terms' | 'privacy' | 'cookies';
+}
+const { locale, doc } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+const UPDATED = '2026-08-20';
+type Section = { h: string; p?: string[]; list?: string[] };
+
+const contactP = L(
+  `Soalan tentang dasar ini? Buka isu atau perbincangan di repositori GitHub kami (${REPO}). Operator projek patut menambah entiti sah dan e-mel hubungan rasmi di sini.`,
+  `Questions about this policy? Open an issue or discussion in our GitHub repository (${REPO}). The project operator should add a legal entity and an official contact email here.`,
+  `对本政策有疑问？请在我们的 GitHub 仓库（${REPO}）中提交 issue 或讨论。项目运营方应在此补充法律主体与官方联系邮箱。`,
+);
+
+const changesP = L(
+  'Kami boleh mengemas kini dasar ini dari semasa ke semasa. Perubahan penting akan dicatat dalam sejarah GitHub projek dan tarikh "Dikemas kini" di atas akan berubah. Penggunaan berterusan selepas perubahan bermakna anda menerimanya.',
+  'We may update this policy from time to time. Material changes are recorded in the project’s GitHub history and the "Updated" date above will change. Continued use after a change means you accept it.',
+  '我们可能会不时更新本政策。重大变更会记录在项目的 GitHub 历史中，上方的"更新"日期也会随之变化。变更后继续使用即表示您接受该变更。',
+);
+
+const DOCS: Record<Props['doc'], { title: string; tagline: string; sections: Section[] }> = {
+  terms: {
+    title: L('Terma Penggunaan', 'Terms of Use', '使用条款'),
+    tagline: L(
+      'Syarat penggunaan NegaraKu.md — sila baca sebelum bergantung pada kandungannya.',
+      'The terms for using NegaraKu.md — please read before relying on its content.',
+      '使用 NegaraKu.md 的条款——在依赖其内容之前请先阅读。',
+    ),
+    sections: [
+      {
+        h: L('Penerimaan', 'Acceptance', '接受条款'),
+        p: [L(
+          'Dengan mengakses atau menggunakan NegaraKu.md ("laman ini"), anda bersetuju dengan terma ini. Jika anda tidak bersetuju, sila jangan gunakan laman ini.',
+          'By accessing or using NegaraKu.md (the "site"), you agree to these terms. If you do not agree, please do not use the site.',
+          '访问或使用 NegaraKu.md（"本网站"）即表示您同意这些条款。若您不同意，请勿使用本网站。',
+        )],
+      },
+      {
+        h: L('Apa itu laman ini', 'What this site is', '本网站是什么'),
+        p: [L(
+          'NegaraKu.md ialah pangkalan pengetahuan sumber terbuka tentang Malaysia untuk tujuan maklumat am dan pendidikan. Ia diselenggara secara terbuka dan kandungannya berkembang.',
+          'NegaraKu.md is an open-source knowledge base about Malaysia for general information and educational purposes. It is maintained openly and its content evolves.',
+          'NegaraKu.md 是一个关于马来西亚的开源知识库，用于一般信息和教育目的。它以开放方式维护，内容会不断更新。',
+        )],
+      },
+      {
+        h: L('Bukan nasihat profesional', 'Not professional advice', '并非专业建议'),
+        p: [L(
+          'Kandungan di sini — termasuk topik undang-undang, cukai, perakaunan dan perniagaan — adalah maklumat am sahaja dan BUKAN nasihat undang-undang, cukai, kewangan atau profesional lain. Undang-undang dan peraturan berubah, dan kes anda mungkin berbeza. Sahkan sebelum bertindak dengan sumber rasmi (cth. AGC, LHDN, SSM) atau seorang profesional bertauliah.',
+          'The content here — including law, tax, accounting and business topics — is general information only and is NOT legal, tax, financial or other professional advice. Laws and rules change, and your situation may differ. Before acting, verify with official sources (e.g. AGC, LHDN, SSM) or a qualified professional.',
+          '此处内容——包括法律、税务、会计和商业主题——仅为一般信息，并非法律、税务、财务或其他专业建议。法律与规则会变化，您的情况也可能不同。采取行动前，请通过官方来源（如 AGC、LHDN、SSM）或合资格的专业人士核实。',
+        )],
+      },
+      {
+        h: L('Ketepatan & tiada jaminan', 'Accuracy & no warranty', '准确性与免责'),
+        p: [L(
+          'Kami berusaha memetik sumber utama dan memastikan ketepatan, tetapi laman ini disediakan "sebagaimana adanya" tanpa sebarang jaminan. Kami tidak bertanggungjawab atas kerugian yang timbul daripada pergantungan pada kandungannya, setakat yang dibenarkan undang-undang.',
+          'We strive to cite primary sources and be accurate, but the site is provided "as is" without warranties of any kind. To the extent permitted by law, we are not liable for any loss arising from reliance on its content.',
+          '我们力求引用一手来源并保持准确，但本网站按"现状"提供，不作任何形式的保证。在法律允许的范围内，我们不对因依赖其内容而产生的任何损失负责。',
+        )],
+      },
+      {
+        h: L('Lesen & penggunaan kandungan', 'Licence & use of content', '许可与内容使用'),
+        p: [L(
+          'Kandungan artikel dilesenkan di bawah Creative Commons BY-SA 4.0: anda boleh berkongsi dan menyesuaikannya, dengan syarat memberi pengiktirafan dan berkongsi di bawah lesen yang sama. Kod sumber laman ini di bawah lesen MIT. Nama dan tanda dagangan "NegaraKu.md" dan "1company" tidak termasuk dalam lesen ini.',
+          'Article content is licensed under Creative Commons BY-SA 4.0: you may share and adapt it, provided you give attribution and share under the same licence. The site’s source code is under the MIT licence. The "NegaraKu.md" and "1company" names and marks are not covered by these licences.',
+          '文章内容采用 Creative Commons BY-SA 4.0 许可：您可以分享和改编，前提是注明出处并以相同许可分享。本网站的源代码采用 MIT 许可。"NegaraKu.md" 与 "1company" 名称及标志不在上述许可范围内。',
+        )],
+      },
+      {
+        h: L('Penggunaan yang boleh diterima', 'Acceptable use', '可接受的使用'),
+        list: [
+          L('Jangan gunakan laman ini untuk tujuan menyalahi undang-undang atau memudaratkan.', 'Don’t use the site for unlawful or harmful purposes.', '请勿将本网站用于非法或有害目的。'),
+          L('Jangan cuba mengganggu, merosakkan atau mengakses laman ini secara tidak dibenarkan.', 'Don’t attempt to disrupt, damage, or gain unauthorised access to the site.', '请勿试图干扰、破坏或未经授权访问本网站。'),
+          L('Automasi/pengaisan yang munasabah dialu-alukan — Markdown mentah dan llms.txt disediakan untuk itu — tetapi jangan bebankan perkhidmatan.', 'Reasonable automation/scraping is welcome — raw Markdown and llms.txt are provided for it — but don’t overload the service.', '欢迎合理的自动化/抓取——我们为此提供原始 Markdown 和 llms.txt——但请勿使服务过载。'),
+        ],
+      },
+      {
+        h: L('Pautan luar', 'External links', '外部链接'),
+        p: [L(
+          'Laman ini memaut ke laman pihak ketiga (cth. sumber rasmi, GitHub). Kami tidak mengawal dan tidak bertanggungjawab atas kandungan atau amalan mereka.',
+          'The site links to third-party sites (e.g. official sources, GitHub). We don’t control and aren’t responsible for their content or practices.',
+          '本网站链接到第三方网站（如官方来源、GitHub）。我们不控制也不对其内容或做法负责。',
+        )],
+      },
+      {
+        h: L('Perubahan pada terma', 'Changes to these terms', '条款变更'),
+        p: [changesP],
+      },
+      {
+        h: L('Undang-undang yang mentadbir', 'Governing law', '适用法律'),
+        p: [L(
+          'Terma ini ditadbir oleh undang-undang Malaysia, tanpa mengambil kira peruntukan percanggahan undang-undangnya.',
+          'These terms are governed by the laws of Malaysia, without regard to its conflict-of-laws provisions.',
+          '本条款受马来西亚法律管辖，不考虑其法律冲突条款。',
+        )],
+      },
+      {
+        h: L('Hubungi', 'Contact', '联系我们'),
+        p: [contactP],
+      },
+    ],
+  },
+  privacy: {
+    title: L('Dasar Privasi', 'Privacy Policy', '隐私政策'),
+    tagline: L(
+      'Kami mengumpul sesedikit mungkin — tiada akaun, tiada kuki penjejak.',
+      'We collect as little as possible — no accounts, no tracking cookies.',
+      '我们尽可能少地收集信息——无账户，无跟踪 cookie。',
+    ),
+    sections: [
+      {
+        h: L('Ringkasnya', 'In short', '简而言之'),
+        p: [L(
+          'NegaraKu.md ialah laman statik untuk dibaca. Ia tidak mempunyai akaun pengguna, borang log masuk, atau borang yang mengumpul data peribadi anda di laman ini. Ia tidak menetapkan kuki penjejak atau pengiklanan.',
+          'NegaraKu.md is a static site you read. It has no user accounts, no login, and no forms that collect your personal data on the site. It sets no tracking or advertising cookies.',
+          'NegaraKu.md 是一个供阅读的静态网站。它没有用户账户、没有登录，也没有在本网站收集您个人数据的表单。它不设置跟踪或广告 cookie。',
+        )],
+      },
+      {
+        h: L('Simpanan setempat (keutamaan anda)', 'Local storage (your preferences)', '本地存储（您的偏好）'),
+        p: [L(
+          'Keutamaan bacaan anda — tema (nk-theme), saiz teks (nk-text-size) dan bahasa lalai (nk-default-lang) — disimpan dalam pelayar anda menggunakan localStorage. Ia kekal di peranti anda, tidak pernah dihantar kepada kami, dan boleh dikosongkan bila-bila masa melalui tetapan pelayar anda.',
+          'Your reading preferences — theme (nk-theme), text size (nk-text-size) and default language (nk-default-lang) — are stored in your browser using localStorage. They stay on your device, are never sent to us, and can be cleared anytime via your browser settings.',
+          '您的阅读偏好——主题 (nk-theme)、文字大小 (nk-text-size) 和默认语言 (nk-default-lang)——通过 localStorage 存储在您的浏览器中。它们保留在您的设备上，绝不会发送给我们，并可随时通过浏览器设置清除。',
+        )],
+      },
+      {
+        h: L('Analitik', 'Analytics', '分析统计'),
+        p: [L(
+          'Kami menyimpan kiraan pelawat agregat (cth. bilangan bacaan) melalui analitik di peringkat edge, tanpa kuki dan tanpa menjejaki anda merentas laman. Kami tidak membina profil individu atau menjual data.',
+          'We keep aggregate visitor counts (e.g. read counts) via edge-level analytics, without cookies and without tracking you across sites. We do not build individual profiles or sell data.',
+          '我们通过边缘层面的分析保留汇总的访客计数（如阅读数），不使用 cookie，也不跨站点跟踪您。我们不建立个人档案，也不出售数据。',
+        )],
+      },
+      {
+        h: L('Pengehosan & penghantaran', 'Hosting & delivery', '托管与分发'),
+        p: [L(
+          'Laman ini dihoskan di GitHub Pages dan dihantar melalui Cloudflare. Untuk menghantar halaman dengan selamat, penyedia ini memproses data teknikal seperti alamat IP anda bagi tujuan penyampaian, keselamatan dan pencegahan penyalahgunaan. Amalan mereka dilindungi oleh dasar privasi GitHub dan Cloudflare masing-masing.',
+          'The site is hosted on GitHub Pages and delivered through Cloudflare. To serve pages securely, these providers process technical data such as your IP address for delivery, security and abuse prevention. Their practices are covered by GitHub’s and Cloudflare’s respective privacy policies.',
+          '本网站托管于 GitHub Pages，并通过 Cloudflare 分发。为安全地提供页面，这些服务商会处理诸如您的 IP 地址等技术数据，用于分发、安全和防滥用。其做法分别受 GitHub 和 Cloudflare 各自的隐私政策约束。',
+        )],
+      },
+      {
+        h: L('Maklum balas & sumbangan', 'Feedback & contributions', '反馈与贡献'),
+        p: [L(
+          'Butang "Laporkan isu" dan "Cadang" membuka isu di GitHub. Apa sahaja yang anda taip di sana diuruskan oleh GitHub (di bawah dasar privasi mereka) dan biasanya boleh dilihat umum. Jangan sertakan maklumat sensitif dalam isu awam.',
+          'The "Report an issue" and "Suggest" buttons open an issue on GitHub. Anything you type there is handled by GitHub (under their privacy policy) and is usually publicly visible. Don’t include sensitive information in a public issue.',
+          '"报告问题"和"建议"按钮会在 GitHub 上创建 issue。您在其中输入的任何内容都由 GitHub 处理（受其隐私政策约束），且通常公开可见。请勿在公开 issue 中包含敏感信息。',
+        )],
+      },
+      {
+        h: L('Pautan luar & perkongsian', 'External links & sharing', '外部链接与分享'),
+        p: [L(
+          'Butang kongsi memaut ke perkhidmatan pihak ketiga (WhatsApp, Telegram, X, dll.). Apabila anda menggunakannya, dasar privasi perkhidmatan tersebut terpakai.',
+          'Share buttons link out to third-party services (WhatsApp, Telegram, X, etc.). When you use them, those services’ privacy policies apply.',
+          '分享按钮链接到第三方服务（WhatsApp、Telegram、X 等）。当您使用它们时，适用这些服务的隐私政策。',
+        )],
+      },
+      {
+        h: L('Kanak-kanak', 'Children', '儿童'),
+        p: [L(
+          'Laman ini untuk khalayak umum dan tidak ditujukan untuk mengumpul data daripada kanak-kanak. Kerana kami tidak mengumpul data peribadi di laman ini, tiada data khusus kanak-kanak dikumpul.',
+          'The site is for a general audience and is not aimed at collecting data from children. Because we don’t collect personal data on the site, no child-specific data is collected.',
+          '本网站面向普通受众，并非旨在收集儿童数据。由于我们不在本网站收集个人数据，因此不会收集任何针对儿童的数据。',
+        )],
+      },
+      {
+        h: L('Perubahan', 'Changes', '变更'),
+        p: [changesP],
+      },
+      {
+        h: L('Hubungi', 'Contact', '联系我们'),
+        p: [contactP],
+      },
+    ],
+  },
+  cookies: {
+    title: L('Dasar Kuki', 'Cookie Policy', 'Cookie 政策'),
+    tagline: L(
+      'Versi pendek: laman ini tidak menetapkan kuki penjejak atau pengiklanan.',
+      'The short version: this site sets no tracking or advertising cookies.',
+      '简短版：本网站不设置任何跟踪或广告 cookie。',
+    ),
+    sections: [
+      {
+        h: L('Versi pendek', 'The short version', '简短版'),
+        p: [L(
+          'NegaraKu.md tidak menetapkan kuki penjejak, analitik atau pengiklanan. Kami tidak menggunakan kuki untuk memprofil anda.',
+          'NegaraKu.md does not set tracking, analytics or advertising cookies. We do not use cookies to profile you.',
+          'NegaraKu.md 不设置跟踪、分析或广告 cookie。我们不使用 cookie 来分析您的个人画像。',
+        )],
+      },
+      {
+        h: L('Apa yang kami guna sebaliknya', 'What we use instead', '我们改用什么'),
+        p: [L(
+          'Untuk mengingati keutamaan anda (tema, saiz teks, bahasa), kami menggunakan localStorage pelayar — bukan kuki. Data ini kekal di peranti anda dan tidak pernah dihantar kepada kami. Lihat Dasar Privasi kami untuk butiran.',
+          'To remember your preferences (theme, text size, language), we use the browser’s localStorage — not cookies. This data stays on your device and is never sent to us. See our Privacy Policy for details.',
+          '为记住您的偏好（主题、文字大小、语言），我们使用浏览器的 localStorage——而非 cookie。这些数据保留在您的设备上，绝不会发送给我们。详见我们的隐私政策。',
+        )],
+      },
+      {
+        h: L('Kuki yang benar-benar perlu', 'Strictly necessary cookies', '严格必要的 cookie'),
+        p: [L(
+          'Penyedia infrastruktur kami (Cloudflare) mungkin menetapkan kuki yang benar-benar perlu untuk keselamatan dan prestasi (cth. mengurangkan serangan). Kuki jenis ini tidak menjejaki anda untuk pengiklanan dan biasanya tidak memerlukan persetujuan di bawah undang-undang privasi.',
+          'Our infrastructure provider (Cloudflare) may set strictly necessary cookies for security and performance (e.g. mitigating attacks). These do not track you for advertising and generally do not require consent under privacy law.',
+          '我们的基础设施服务商（Cloudflare）可能会设置用于安全和性能的严格必要 cookie（如缓解攻击）。这些 cookie 不会为广告目的跟踪您，且通常无需根据隐私法获得同意。',
+        )],
+      },
+      {
+        h: L('Tiada kuki pihak ketiga penjejak', 'No third-party tracking cookies', '无第三方跟踪 cookie'),
+        p: [L(
+          'Kami tidak memuatkan skrip analitik atau pengiklanan pihak ketiga yang menetapkan kuki. Butang kongsi hanya memaut keluar; ia tidak menetapkan kuki melainkan anda melawat perkhidmatan tersebut.',
+          'We don’t load third-party analytics or advertising scripts that set cookies. Share buttons only link out; they don’t set cookies unless you visit those services.',
+          '我们不加载会设置 cookie 的第三方分析或广告脚本。分享按钮仅链接外部；除非您访问这些服务，否则它们不会设置 cookie。',
+        )],
+      },
+      {
+        h: L('Mengurus simpanan', 'Managing storage', '管理存储'),
+        p: [L(
+          'Anda boleh mengosongkan localStorage dan sebarang kuki melalui tetapan pelayar anda pada bila-bila masa. Mengosongkannya hanya menetapkan semula keutamaan anda; ia tidak menjejaskan keupayaan membaca laman ini.',
+          'You can clear localStorage and any cookies through your browser settings at any time. Clearing them simply resets your preferences; it doesn’t affect your ability to read the site.',
+          '您可以随时通过浏览器设置清除 localStorage 和任何 cookie。清除它们只会重置您的偏好，不会影响您阅读本网站的能力。',
+        )],
+      },
+      {
+        h: L('Perubahan', 'Changes', '变更'),
+        p: [changesP],
+      },
+      {
+        h: L('Hubungi', 'Contact', '联系我们'),
+        p: [contactP],
+      },
+    ],
+  },
+};
+
+const d = DOCS[doc];
+const crumbLabel = L('Undang-undang', 'Legal', '法律');
+---
+
+<PageHero
+  locale={locale}
+  crumb={[
+    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
+    { label: d.title },
+  ]}
+  title={d.title}
+  desc={d.tagline}
+/>
+
+<section class="container legal-doc">
+  <p class="updated">{L('Dikemas kini', 'Updated', '更新')}: {UPDATED}</p>
+
+  <div class="disclaimer">
+    {L(
+      'Dokumen ini disediakan sebagai templat am yang jujur berdasarkan cara laman ini berfungsi. Ia bukan nasihat undang-undang. Operator patut menyemaknya dengan peguam dan mengisi butiran entiti sah serta hubungan sebelum bergantung padanya.',
+      'This document is provided as an honest general template based on how the site works. It is not legal advice. The operator should have it reviewed by a lawyer and fill in legal-entity and contact details before relying on it.',
+      '本文件是基于本网站运作方式提供的诚实通用模板。它不构成法律建议。运营方应在依赖之前请律师审阅，并补充法律主体与联系方式。',
+    )}
+  </div>
+
+  {d.sections.map((s, i) => (
+    <section class="lsec">
+      <h2>{i + 1}. {s.h}</h2>
+      {s.p?.map((para) => <p>{para}</p>)}
+      {s.list && (
+        <ul>{s.list.map((li) => <li>{li}</li>)}</ul>
+      )}
+    </section>
+  ))}
+
+  <nav class="cross" aria-label={crumbLabel}>
+    <a href={localePath('/terms', locale)} class={doc === 'terms' ? 'on' : ''}>{L('Terma Penggunaan', 'Terms of Use', '使用条款')}</a>
+    <a href={localePath('/privacy', locale)} class={doc === 'privacy' ? 'on' : ''}>{L('Dasar Privasi', 'Privacy Policy', '隐私政策')}</a>
+    <a href={localePath('/cookies', locale)} class={doc === 'cookies' ? 'on' : ''}>{L('Dasar Kuki', 'Cookie Policy', 'Cookie 政策')}</a>
+  </nav>
+</section>
+
+<style>
+  .legal-doc { max-width: 52rem; padding-block: 1.6rem 3rem; }
+  .updated { color: var(--muted); font-size: 0.85rem; margin: 0 0 1.1rem; }
+  .disclaimer {
+    background: color-mix(in srgb, var(--gold) 8%, var(--surface));
+    border: 1px solid color-mix(in srgb, var(--gold) 35%, var(--line));
+    border-radius: 10px; padding: 0.9rem 1.1rem; color: var(--ink-soft);
+    font-size: 0.9rem; line-height: 1.6; margin-bottom: 2rem;
+  }
+  .lsec { margin-bottom: 1.6rem; }
+  .lsec h2 {
+    font-family: var(--font-title); font-size: 1.15rem; font-weight: 700;
+    color: var(--ink); margin: 0 0 0.5rem;
+  }
+  .lsec p { margin: 0 0 0.7rem; color: var(--ink-soft); line-height: 1.7; }
+  .lsec ul { margin: 0 0 0.7rem; padding-left: 1.2rem; display: grid; gap: 0.4rem; color: var(--ink-soft); line-height: 1.6; }
+
+  .cross {
+    display: flex; flex-wrap: wrap; gap: 0.5rem 1.4rem; margin-top: 2.4rem;
+    padding-top: 1.2rem; border-top: 1px solid var(--line);
+  }
+  .cross a { color: var(--gold); text-decoration: none; font-weight: 600; font-size: 0.9rem; }
+  .cross a:hover { text-decoration: underline; }
+  .cross a.on { color: var(--ink); text-decoration: underline; pointer-events: none; }
+</style>

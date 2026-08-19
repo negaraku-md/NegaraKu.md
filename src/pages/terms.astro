@@ -1,0 +1,9 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import LegalView from '@/components/LegalView.astro';
+const locale = 'ms';
+---
+
+<BaseLayout locale={locale} title="Terma Penggunaan" path="/terms">
+  <LegalView locale={locale} doc="terms" />
+</BaseLayout>

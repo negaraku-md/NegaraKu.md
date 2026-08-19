@@ -1,0 +1,9 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import LegalView from '@/components/LegalView.astro';
+const locale = 'ms';
+---
+
+<BaseLayout locale={locale} title="Dasar Kuki" path="/cookies">
+  <LegalView locale={locale} doc="cookies" />
+</BaseLayout>
