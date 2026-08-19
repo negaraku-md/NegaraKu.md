@@ -38,7 +38,7 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "确认 PuTERA35 的基线与目标（30% 股权；70% 高技能就业，基线为 61%／2022 年；15% GDP，基线为 9.1%／2022 年）与 TERAJU 所公布的一致，且在 2024 年之后未有更新。"
   - "对照原始官方统计来源（如 Jabatan Perangkaan／RMK）核实 18.4%（2020 年）这一数字，因为它是由 TERAJU 转引，而非由 ISEAS 发布。"
@@ -47,7 +47,7 @@ verificationNeeded:
   - "核实 MEDAC 作为 VDP 监管机构的当前状态，因为部门重组可能会改变负责的机构。"
 
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null

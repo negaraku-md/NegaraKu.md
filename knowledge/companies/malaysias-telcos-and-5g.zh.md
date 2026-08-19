@@ -42,11 +42,11 @@ reviewer: null
 reviewed: "2026-08-14"
 reviewDue: 2027-08-03
 publishedBy: "ashton-tan"
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "DNB于2021年成立的确切月份——DNB自身网站只列出2021年（其公司注册编号201701005338可追溯至2017年）；此前草拟的「2021年3月」无法对照原始来源加以确认。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null

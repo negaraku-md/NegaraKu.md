@@ -38,7 +38,7 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Exact date and venue of the 1990 settlement that ended the Sarawak insurgency. Press accounts and encyclopaedic entries give 17 October 1990 at Wisma Bapa Malaysia, Kuching, but this is not confirmed in the cited authoritative sources; the Kyoto Review states only '1990'."
   - "Number of guerrillas in the 1990 Sarawak settlement (Kyoto Review: 'roughly 50'; press accounts: 52, led by Ang Cho Teng)."
@@ -48,7 +48,7 @@ verificationNeeded:
   - "Framing of the renewed insurgency's span: cited Arkib Negara entries variously describe a 1968-1978 'Second Emergency' and a 21-year (1968-1989) insurgency."
   - "Kroh-Betong ambush casualty figures (16 killed, 17 wounded) and the 26 August 1975 Tugu Negara bombing figures (2 killed, 41 injured) against the cited Arkib Negara entries."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null

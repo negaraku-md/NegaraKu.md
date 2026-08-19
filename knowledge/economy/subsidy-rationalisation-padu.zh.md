@@ -41,11 +41,11 @@ reviewer: null
 publishedBy: "ashton-tan"
 reviewed: "2026-08-14"
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "上半年电力补贴拨款与 PADU 运营成本已刻意略去，因主要来源无法核实；仅在取得官方来源时才补充。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null

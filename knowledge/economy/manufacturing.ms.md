@@ -30,9 +30,9 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2026-10-24
-version: "01.00"
+revision: 0
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null

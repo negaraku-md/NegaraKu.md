@@ -39,9 +39,9 @@ aiAssisted: true
 reviewer: null
 published: null
 reviewDue: null
-version: "0.1"
+revision: null
 revisions:
-  - version: "0.1"
+  - revision: 0
     date: 2026-08-19
     change: "Initial neutral draft — pending human/legal review (sensitive, ongoing proceedings)."
     contributor: "NegaraKu.md Editorial"

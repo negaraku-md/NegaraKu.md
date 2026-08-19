@@ -41,12 +41,12 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Butiran prosedur Jadual Pertama vs Jadual Kedua (pameran awam; pejabat JAS negeri vs ibu pejabat JAS) — sahkan terhadap teks penuh Perintah Kualiti Alam Sekeliling (Aktiviti Yang Ditetapkan)(EIA) 2015, bukan hanya laman muat turun JAS."
   - "Butiran denda kes Kulim (jumlah RM60,000: RM50,000 di bawah s34A(8) EQA + RM10,000 di bawah Peraturan Udara Bersih 2014; Mahkamah Sesyen Kulim, 16 April 2025) — sahkan terhadap rekod mahkamah rasmi jika ketepatan mutlak diperlukan."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null

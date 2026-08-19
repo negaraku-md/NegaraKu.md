@@ -40,14 +40,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Siling harga dan had pendapatan setiap skim disemak semula dari semasa ke semasa; sahkan angka terkini di portal rasmi sebelum memohon."
   - "Harga Rumah Selangorku berbeza antara rumah bertingkat (strata) dan rumah bertanah; angka dalam panduan ini merujuk unit rumah bertingkat mengikut FAQ LPHS — sahkan harga mengikut jenis projek di eHartanah LPHS."
   - "The PR1MA booking fee of RM500 applies to completed residential projects; confirm the payment arrangement for projects under construction."
   - "Butiran jaminan SJKP/SJKP MADANI (jumlah jaminan RM500,000 / RM360,000, tempoh 35 tahun) perlu disahkan dengan portal SJKP rasmi."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null

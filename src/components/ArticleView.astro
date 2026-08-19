@@ -421,7 +421,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
                   <table>
                     <thead>
                       <tr>
-                        <th>{L('Versi', 'Version', '版本')}</th>
+                        <th>{L('Semakan', 'Revision', '修订')}</th>
                         <th>{L('Tarikh', 'Date', '日期')}</th>
                         <th>{L('Perubahan', 'Change', '变更')}</th>
                         <th>{L('Oleh', 'By', '修订者')}</th>
@@ -430,7 +430,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
                     <tbody>
                       {d.revisions.map((r) => (
                         <tr>
-                          <td>{r.version}</td>
+                          <td>{r.revision}</td>
                           <td>{fmt(r.date)}</td>
                           <td>{changeLabel(r.change)}</td>
                           <td>{r.contributor ?? r.reviewer ?? '—'}</td>
@@ -580,7 +580,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
             </div>
           )
         }
-        <div class="r"><span>{L('Versi', 'Version', '版本')}</span><span>{d.version}</span></div>
+        <div class="r"><span>{L('Semakan', 'Revision', '修订')}</span><span>{d.revision ?? '—'}</span></div>
         <div class="r"><span>{L('Bahasa induk', 'Master language', '主语言')}</span><span>{d.masterLanguage.toUpperCase()}</span></div>
         <div class="r"><span>{L('Sumber', 'Sources', '来源')}</span><span>{d.sources.length}</span></div>
 

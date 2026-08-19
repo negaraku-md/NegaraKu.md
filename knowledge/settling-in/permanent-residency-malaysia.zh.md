@@ -43,14 +43,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "2025 年配偶途径改革（结婚满 3 年 + 持 LTSVP 满 1 年、取消积分测试、约 6 个月处理、于 2025 年 9 月底前推行）是否已如宣布般实际实施；请直接从 Immigration/MOHA 获取当前有效的要求。"
   - "Family Frontiers配偶永久居留文件清单当前的确切项数（此处列为约十四项）。"
   - "RM120的入境准证费及RM500/5年的居留准证费在imi.gov.my实时收费表上仍然有效。"
   - "积分制测评仅对外籍配偶取消，而其他类别仍适用绩效评估——请向移民局／MOHA 的原始来源核实其适用范围。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null

@@ -43,13 +43,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "The full list of WQI parameters (specifically DO, COD and pH in addition to BOD5, ammonia nitrogen and suspended solids) — confirm with the official Department of Environment publication; the OpenDOSM source cited only names BOD5, ammonia nitrogen and suspended solids."
   - "The 2024 breakdown (475/170/27 of 672 rivers) comes from a Deputy Prime Minister statement reported by Malay Mail — confirm against the official Environmental Quality Report/JAS once published."
   - "Bilangan tepat loji rawatan dan akaun/isi rumah terjejas bagi setiap kejadian gangguan bekalan mungkin berbeza mengikut laporan rasmi terkini."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null

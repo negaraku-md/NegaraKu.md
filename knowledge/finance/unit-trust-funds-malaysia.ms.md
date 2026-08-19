@@ -43,13 +43,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Angka kepimpinan Public Mutual (pengurus swasta terbesar, bahagian dana runcit 44.6%, bahagian PRS 51.8%, NAV RM119b, 171 dana) dilaporkan sendiri daripada laman profil syarikat itu; sahkan terhadap sumber bebas (cth. statistik SC atau FIMM) atau perlembutkan jika tidak disokong."
   - "Jadual caj jualan (ekuiti 3.1%->1.9%, campuran 2.9%->1.8%, bon 0.7%->0.6%; ekuiti 0.9% melalui EPF menjelang 2020) adalah daripada penyelidikan FIMM 2021 sebagaimana dilaporkan oleh The Edge; sahkan terhadap penyelidikan FIMM asal jika dokumen utama dapat ditemui."
   - "Pelancaran EPF i-Invest (Ogos 2019) dan pengecualian yuran pendahuluan 12 bulan dari 1 Mei 2020 disokong melalui RinggitPlus; sahkan terhadap kenyataan akhbar EPF/KWSP sendiri jika boleh dicapai."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

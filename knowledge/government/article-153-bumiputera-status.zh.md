@@ -42,13 +42,13 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "请核实 Perkara 161A(7) 在阅读日期的状态：据报道，于 2022 年 2 月生效的宪法修订修改了 Perkara 161A(6) 并废除了 Perkara 161A(7)，允许砂拉越通过州法律订定原住民定义。本文引用的是 2020 年 10 月 15 日重印本，其第 (7) 款仍列有各族群名单；请检查引用是否需要更新至最新原文。"
   - "请核实现代术语的对应：「Sea Dayak」=Iban、「Land Dayak」=Bidayuh 是作为惯用对应加以查证的，而非宪法文本本身所用的术语。"
   - "发布前对整篇Tier S文章（敏感度：种族）进行人工审查，包括对照最新官方文本核实每一处条款引用。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

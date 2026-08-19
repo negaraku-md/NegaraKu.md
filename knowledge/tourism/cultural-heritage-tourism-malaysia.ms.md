@@ -40,14 +40,14 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Sama ada Sarawak Chamber di Taman Negara Gunung Mulu ialah dewan gua terbesar di dunia (superlatif ini dibuang daripada pengenalan sementara menunggu sumber utama; halaman inskripsi UNESCO tidak dapat diperoleh semasa pusingan ini)."
   - "Sama ada masjid utama, termasuk Masjid Negara, meminjamkan jubah pelawat secara percuma (dakwaan 'percuma' diperlembutkan kepada 'tersedia untuk dipinjam')."
   - "Tempoh khusus perdagangan Timur–Barat di bandar-bandar Selat: angka '500 tahun' / 'hampir 500 tahun' telah dibuang kerana ia tidak terdapat dalam sumber GTWHI yang disebut; sahkan terhadap sumber UNESCO utama sebelum mengembalikan sebarang angka."
   - "Tahun tersenarai untuk Kinabalu Park (2000), Gunung Mulu (2000), Melaka & George Town (2008), Lembah Lenggong (2012) dan Gua Niah (2024) dipetik daripada halaman MOTAC FRIM; semakan silang terhadap UNESCO World Heritage List disyorkan."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null

@@ -40,13 +40,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "The 111 missions / 85 countries figure and its full breakdown (66 embassies, 18 high commissions, 21 consulates general, 2 consulate offices, 2 UN permanent representatives, 1 ASEAN permanent representative, 1 Friendship and Trade Centre) were confirmed against the official Ministry of Foreign Affairs 'Malaysian Mission' page text via web search; the source page itself could not be machine-fetched due to a TLS certificate-chain error on kln.gov.my. A human should re-open the live MFA page and confirm the current numbers, which the ministry updates over time."
   - "Whether a Certificate of Good Conduct is issued specifically through the online e-Consular system (rather than as a separate over-the-counter consular service) was not confirmed in a primary source and the claim was removed; confirm before re-adding."
   - "Consular services vary by mission (a small consulate office may route passport processing to its supervising embassy); confirm scope per post before relying on it."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

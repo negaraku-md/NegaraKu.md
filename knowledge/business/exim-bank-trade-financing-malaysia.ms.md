@@ -38,14 +38,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Harga, kelayakan, dan had perlindungan semasa untuk Trade Credit Takaful/Insurance (sahkan terhadap Product Disclosure Sheet terkini sebelum bergantung pada angka 90%/95%)."
   - "The specific overseas markets EXIM Bank prioritises — the source pages describe 'non-traditional markets' generically without naming regions."
   - "Tempoh ECR pra-penghantaran (120 hari) dan pasca-penghantaran (183 hari) serta terma tanpa cagaran, yang mungkin dikemas kini secara berkala."
   - "Butiran lesen tetingkap perbankan Islam EXIM Bank dan integrasinya di bawah kumpulan BPMB selepas 1 May 2025."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null

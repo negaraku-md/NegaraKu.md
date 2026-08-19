@@ -40,14 +40,14 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Gunung Mulu National Park内的Sarawak Chamber是否为世界最大的洞穴厅室（在取得原始来源之前，这一最高级表述已从引言中删除；本轮无法抓取UNESCO的列名页面）。"
   - "包括国家清真寺（Masjid Negara）在内的主要清真寺是否免费出借访客长袍（「免费」的说法已放宽为「可供借用」）。"
   - "海峡城市东西方贸易的具体持续时间：「500 年」／「近 500 年」的数字已被删除，因为它并未出现在所引用的 GTWHI 来源中；在恢复任何数字前，请对照 UNESCO 第一手来源核实。"
   - "Kinabalu Park（2000）、Gunung Mulu（2000）、Melaka & George Town（2008）、Lenggong Valley（2012）及 Niah Caves（2024）的列入年份引自 MOTAC FRIM 页面；建议对照 UNESCO World Heritage List 交叉核对。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null

@@ -39,14 +39,14 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "The fiqh term 'syiqaq' for section 48 — the official English title of Act 303 is only 'Arbitration by Hakam' (arbitration by Hakam); the reference to 'syiqaq' is a fiqh explanation (the official Malay text uses 'syiqaq'). Confirm the equivalent term in the relevant state enactment."
   - "The section numbers, minimum marriage age, and provision details in the respective state enactments — may differ from Act 303 (Federal Territories) and need to be checked against the text of the relevant state enactment."
   - "The seven-day reporting period for a talaq pronounced outside the court — stated by the Government portal (MyGovernment); confirm against the relevant state provisions/procedures."
   - "The provision on the choice of a mumaiyiz child after the hadhanah period ends (section 84) — confirm the current application and interpretation by the Court."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null

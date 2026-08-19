@@ -38,13 +38,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "全国安宁疗护伞式机构的官方名称与缩写（参考资料在 malaysianhospicecouncil.com 提及 Malaysian Hospice Council；其他外部来源在 mhpcc.com.my 使用 Malaysian Hospice and Palliative Care Council / MHPCC）。请核实正确名称，以及 Hospis Malaysia 是否为其成员。"
   - "全国安宁疗护理事会之下 NGO/会员组织的数目——具体数字已删除，因为没有可访问的来源能够证实（理事会网站返回访问错误）。"
   - "KKM 目前的姑息治疗专科医生人数（2025 年 10 月为 34 人），以及居家（domiciliary）计划自 2016 年以来是否已扩展至最初四个州之外。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

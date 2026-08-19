@@ -43,11 +43,11 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "案件引述及判决要旨：Wong Mei Yoke v Tien Wah Press Malaya Sdn Bhd [2018] 1 ILR 20 与 Zulkefli Hashim v Uda Holdings Berhad [2018] 2 LNS 3169——请对照完整判例报告确认引注及判决要旨摘要。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null

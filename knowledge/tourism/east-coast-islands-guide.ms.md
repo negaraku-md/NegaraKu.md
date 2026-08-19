@@ -40,14 +40,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Titik berlepas jeti, masa penyeberangan dan tambang bot bagi setiap pulau — sumber DOF yang dipetik tidak meliputi logistik bot; sahkan titik berlepas tanah besar semasa dan tambang dengan pengendali atau pejabat pelancongan Terengganu/Pahang."
   - "Senarai peraturan dalam air yang terperinci (spesifik boya tambatan/berlabuh, had sukan air, pengecualian lorong laluan bot) — halaman dalam talian DOF menyatakan Akta yang mentadbir tetapi tidak menyenaraikannya; sahkan terhadap Establishment of Marine Parks Malaysia Order 1994 dan papan tanda DOF di tapak."
   - "Sama ada pulau pantai timur tertentu berada di bawah sempadan taman marin dua batu nautika atau satu batu nautika (DOF mencatatkan pengecualian bagi pulau Terengganu tertentu)."
   - "Tarikh penutupan monsun berbeza mengikut pengendali dan tahun; sahkan jadual musim semasa sebelum memetik bulan yang tetap."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null

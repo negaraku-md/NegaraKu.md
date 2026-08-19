@@ -39,14 +39,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Tahun penubuhan SME Bank 2005: halaman 'About Us' rasmi SME Bank (smebank.com.my) memulangkan HTTP 403 kepada capaian automatik, jadi tarikh tersebut disahkan melalui carian domain rasmi dan penyenaraian DFI BNM dan bukannya capaian halaman secara langsung. Sahkan terhadap halaman langsung dalam pelayar."
   - "Tarikh kuat kuasa DFIA (Amendment) Act 2015 (31 January 2016) dan keperluan Syariah Bahagian IIIA baharu yang diselaraskan dengan IFSA 2013: sahkan petikan tepat terhadap Warta Persekutuan atau laman Legislation BNM (laman Legislation BNM memulangkan HTTP 403 kepada capaian automatik)."
   - "Dua pautan BNM (dfi-overview dan Act 618) mengembalikan HTTP 403 kepada pengambilan automatik walaupun ia halaman BNM yang sahih; sahkan bahawa ia dapat dibuka dalam pelayar. Halaman DFI BNM yang berkanun ialah bnm.gov.my/index.php?ch=fs&pg=fs_mfs_dfi&ac=162."
   - "Penyatuan BPMB Group pada 1 Mei 2025 (EXIM Bank dan SME Bank menjadi anak syarikat BPMB) dan mandat Budget 2026 'melebihi RM9 bilion': sahkan semula terhadap siaran akhbar BPMB semasa sebelum penerbitan."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

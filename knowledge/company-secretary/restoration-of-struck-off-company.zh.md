@@ -37,14 +37,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Bestar来源的URL在单词中间含有「reinst-ate」这一分隔符（…/application-to-reinst-ate-company-under-section-555-1-…）。它返回HTTP 200（Wix实际的规范slug），但请手动核实该token没有损坏或被悄然误抄。"
   - "SSM 依据 Seksyen 555(1) 发布的指引的日期 2023 年 1 月 30 日是通过 MAICSA 和 TACPro 的技术公告确认的；如可获取，请对照 SSM 自身的官方指引副本核实。"
   - "Aturan 88 Kaedah 2 Kaedah-Kaedah Mahkamah 2012 的引用出自二手来源（MAICSA/TACPro）；请对照现行有效的 Kaedah-Kaedah Mahkamah 2012 文本核实。"
 
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null

@@ -38,14 +38,14 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Sahkan petikan verbatim Perkara 4(1), 159(3), 159(4), 159(5) dan 161E(2) terhadap teks bercetak Perlembagaan Persekutuan (Cetakan Semula 2020) versi bahasa Melayu — rencana ini menggunakan frasa sah 'tidak sah setakat ketidakselarasan itu' dan 'jumlah bilangan ahli', bukan parafrasa terjemahan."
   - "Sahkan kedudukan teks sah bahasa Melayu di bawah Perkara 160B (bila teks kebangsaan diperakukan sebagai teks sah) sebelum menyandarkan petikan Melayu kepadanya sepenuhnya."
   - "Sahkan senarai peruntukan yang dilindungi Perkara 159(5) dan perkara Sabah/Sarawak yang dilindungi Perkara 161E(2) sekiranya butiran spesifik hendak disenaraikan."
   - "Sahkan slug pautan dalaman wujud: /law/federal-constitution, /law/constitutional-amendment, /glossary/akta, /government/majlis-raja-raja, /glossary/yang-di-pertuan-agong."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

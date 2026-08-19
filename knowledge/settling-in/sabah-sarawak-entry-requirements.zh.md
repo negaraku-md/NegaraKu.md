@@ -42,12 +42,12 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "敏感度分级：本主题触及 MA63 框架下沙巴/砂拉越的移民自主权（关键词「MA63 imigresen」）。内容中立且非倡导性，但需要人工确认「none」标签是否足够，或是否需要上调。"
   - "「为什么沙巴和砂拉越有自己的移民管制？」一节中的历史背景（1963 年加入联邦及保留入境管制权）属于通用背景信息，未与所列四个移民程序来源中的任何一个挂钩。发布前请核实并附上宪法/法律来源（例如 Akta Imigresen 1959/63 Bahagian VII，或 Perlembagaan Persekutuan/MA63）。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null

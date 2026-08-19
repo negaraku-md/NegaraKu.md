@@ -38,12 +38,12 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Ambang pelaporan NADOPOD 2004 (lebih 4 hari tidak dapat bekerja) — sahkan terhadap teks peraturan rasmi, bukan panduan sekunder."
   - "Skop kewajipan Seksyen 16 (polisi keselamatan bertulis) dan sama ada terpakai ambang bilangan pekerja tertentu."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null

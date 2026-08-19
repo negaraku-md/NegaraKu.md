@@ -41,13 +41,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "供外国文件在马来西亚使用的另一种国内途径（由签发国驻马来西亚的外交使团认证文件，再由 Wisma Putra 领事司背书）——KLN 页面说明的是认证马来西亚文件供境外使用的流程；请就此入境方向直接向 Wisma Putra 核实。"
   - "一种概括说法：民事身份文件（出生、结婚、死亡）通常可直接进入认证阶段而无需公证，而其他文件须先经公证——此说并未依据某一特定官方来源；请向相关的马来西亚外交使团核实。"
   - "每一层级的费用与所需时间因国家与使领馆而异；文中提及的 RM18 费用仅为韩国驻吉隆坡大使馆的服务费，而非马来西亚方面认证的一般收费。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null

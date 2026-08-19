@@ -44,14 +44,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Exact net-worth threshold for the income-test alternative (secondary sources cite ~RM1 billion; confirm against the current official PVIP FAQ)."
   - "The exact participant cap, if any (older reporting referenced a cap tied to population; confirm the current figure with the Immigration Department)."
   - "The six-month deposit-withdrawal window, net-worth/onshore-income alternative and RM50,000 10-year dependent option are described as 2026 revisions by secondary sources — confirm they remain current on the official PVIP materials."
   - "Launch dates (announced 1 September 2022; open from 1 October 2022) and the current list of Immigration-appointed agents."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null

@@ -39,7 +39,7 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Date of the FIFA Disciplinary Committee decision: the CAS media release states 25 September 2025, while FIFA's official announcement page is dated 26 September 2025 (a 'today' notification). This draft uses 25 September 2025 as the decision date (consistent with CAS and the ban's credited period) and records FIFA's announcement on 26 September 2025. A human must confirm which date should be displayed as the decision date."
   - "The full CAS award with reasons had not been released as of this draft; confirm the details once published (only the official written text is legally binding)."
@@ -47,7 +47,7 @@ verificationNeeded:
   - "The AFC referral and possible points deduction in the 2027 Asian Cup qualifiers have not been finalised."
   - "The outcome of the Malaysian police investigation into the allegedly forged birth certificates has not yet been finalised."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

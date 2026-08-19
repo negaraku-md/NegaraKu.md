@@ -38,7 +38,7 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Bulan sebenar perayaan Sembahyang Dato Chachar berubah mengikut kalendar Tamil; sumber yang dipetik (The Star, 2012) merekodkan perayaan sekitar akhir April pada tahun tersebut — sahkan tarikh bagi tahun semasa."
   - "Asas perundangan sebenar bagi perlindungan kawasan warisan Kampung Chetti pada Jun 2000 tidak dinyatakan oleh mana-mana sumber yang dipetik (perlindungan ini mendahului Akta Warisan Kebangsaan 2005)."
@@ -46,7 +46,7 @@ verificationNeeded:
   - "Contoh kosa kata kreol (nenek/thatha) bersifat ilustrasi dan belum disahkan terhadap kajian linguistik yang dipetik (Grimes 1996, Noriah Mohamed 2009)."
   - "Angka bilangan keluarga berbeza antara sumber: kurang 50 keluarga (Roots) berbanding 20–30 keluarga (Free Malaysia Today)."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

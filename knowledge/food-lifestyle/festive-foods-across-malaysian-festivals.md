@@ -41,14 +41,14 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "lihing (wain beras Sabah) dibuang daripada draf ini kerana artikel The Star yang dirujuk (2026-05-31) hanya menyebut tuak, montoku dan tumpung — bukan lihing. Boleh dimasukkan semula jika sumber primer yang sahih ditemui."
   - "Perincian bahawa tumpung 'diminum melalui sedut daripada bekas secara berkongsi' perlu disahkan semula terhadap teks The Star."
   - "Pemeriksa fakta menandakan jadual makna simbolik yang ialah 'direka'; namun semakan semula terhadap The Rakyat Post mengesahkan setiap baris (lobak putih = peluang pekerjaan, minyak membulat = rezeki dari segenap arah, sos plum = manisnya kehidupan/ikatan, kacang tanah = kekayaan, lobak merah = nasib baik, keropok = emas). Manusia perlu menyelaraskan percanggahan ini."
   - "Tempoh '15 hari pertama' dan kerangka Loke Ching Fatt (1940-an/1960-an) telah disahkan semula terhadap The Rakyat Post dan dikekalkan."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

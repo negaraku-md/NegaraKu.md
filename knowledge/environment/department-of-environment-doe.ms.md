@@ -43,11 +43,11 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Sejarah institusi: jabatan ini sering diterangkan sebagai bermula sebagai Bahagian Alam Sekitar sekitar 1975 dan dinaik taraf kepada jabatan penuh pada 1 September 1983. Tarikh pasti ini telah dibuang dalam pusingan pembetulan 0.2 kerana ia tidak dapat disahkan terhadap sumber utama — laman DOE sendiri tidak membawa sejarah institusi yang boleh diekstrak (halaman visi/misi dipaparkan hanya sebagai imej). Seorang manusia perlu mencari dan mengembalikan semula tarikh ini jika dikehendaki."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null

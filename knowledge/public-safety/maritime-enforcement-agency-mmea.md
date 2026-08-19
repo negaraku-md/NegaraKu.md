@@ -37,11 +37,11 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Petikan kajian April 1999 — sahkan versi Bahasa Melayu rasmi frasa 'pertindihan fungsi, pertindihan bidang kuasa dan penggunaan sumber yang tidak ekonomik'."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

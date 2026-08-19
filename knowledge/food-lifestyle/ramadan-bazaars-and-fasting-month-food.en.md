@@ -40,14 +40,14 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "The 1960s as the origin of the Jalan Raja Alang bazaar, Kampung Baru — sourced only from secondary coverage (ANTARA); confirm with an authoritative historical/DBKL source."
   - "The specific enforcement details (tracking stall sales via WhatsApp and police reports) — sourced from RTM; confirm they apply for the Ramadan 2026 season."
   - "The Putrajaya site rental of RM1,000 for 2026 — confirm with an official Perbadanan Putrajaya announcement."
   - "The number of 2026 locations (9 DBKL / 32 hawker associations) — confirm it remains accurate on the publication date, as the figure may change before Ramadan."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

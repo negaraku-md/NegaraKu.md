@@ -40,7 +40,7 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "登嘉楼海洋公园的岛屿数量：DOF 海洋公园管理页面将登嘉楼按群岛归类（Redang、Perhentian 及邻近岛屿），并未给出确定的逐岛数字；该州确切的岛屿数量应对照宪报核实。"
   - "西巴丹（Sipadan）的每日准证配额（列为每日约 178 名潜水员）取自 2022 年的新闻报道，且会随时间修订——发布前请向 Sabah Parks 重新确认当前的数字。"
@@ -48,7 +48,7 @@ verificationNeeded:
   - "海洋公园行为守则的具体清单（不触摸／采集珊瑚、不在珊瑚礁上抛锚、不在船只通道内潜水）应对照Department of Fisheries公布的海洋公园法规核实，而非第三方旅游网站。"
   - "Sipadan潜水作业规则（每天两潜、每处潜点50名潜水员、约7:00am–4:30pm时段、每四名潜水员配一名潜水长）源自2022年的修订——须确认其仍然有效。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null

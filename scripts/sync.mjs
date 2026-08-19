@@ -118,8 +118,9 @@ async function main() {
       related: data.related ?? [],
       // Public change history — who did what, when. contributor/reviewer are
       // null until a human is named (articles start as AI drafts).
+      revision: data.revision ?? null,
       revisions: (data.revisions ?? []).map((r) => ({
-        version: r.version ?? null,
+        revision: r.revision ?? null,
         date: r.date ? new Date(r.date).toISOString().slice(0, 10) : null,
         change: r.change ?? '',
         contributor: r.contributor ?? null,

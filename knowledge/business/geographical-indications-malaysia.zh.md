@@ -38,7 +38,7 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "GI 续期（GIA19）、附加费续期（GIA20）与恢复费的金额——早前草稿中的具体金额（RM420 / RM630 / RM670）无法独立核实，且似乎与商标收费表重叠；发布前请对照《指南》Second Schedule 核实实际的 GI 金额。"
   - "Musang King地理标志确切的指定原产地区——新闻报道指为Pahang与Johor；须对照MyIPO地理标志注册册的现行条目核实。"
@@ -46,7 +46,7 @@ verificationNeeded:
   - "请确认 section 10 即为同时涵盖通用名称／驳回理由与在先商标冲突理由的条文，并确认 GIA1 申请费仍为 RM250。"
   - "请对照现行 MyIPO 地理标志（GI）注册册，核实作为示例的已注册地理标志及其所属州属（Sarawak Pepper、Kek Lapis Sarawak、Harumanis、Tenom coffee、Sabah Batik）。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null

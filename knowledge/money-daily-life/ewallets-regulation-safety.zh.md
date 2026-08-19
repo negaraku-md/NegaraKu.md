@@ -43,7 +43,7 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "根据s.12(1) FSA／政策文件Appendix 3的确切最低资本门槛（最低资本金）——此处刻意未列出；在重新加入前请确认实际数字。"
   - "所列名的四家发行商当前的注册状态（BNM官方名单会不时变动；非银行发行商总数逾40家）。"
@@ -51,7 +51,7 @@ verificationNeeded:
   - "14 天／30 天退款的数字（第 20.10–20.13 段）及「复杂个案」的定义。"
   - "Appendix 1 中「eligible EMI」的门槛（500,000 名活跃用户／5% 市场份额）——请核实其衡量时段与确切定义。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null

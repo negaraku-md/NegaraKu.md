@@ -45,12 +45,12 @@ reviewer: null
 publishedBy: "ashton-tan"
 reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Exact Perodua minority shareholding percentages (Daihatsu Motor, PNB, Daihatsu Malaysia, Mitsui) — only the UMW 38% stake and MBM Resources' 20% associate interest are confirmable from listed-company disclosures; the Daihatsu/PNB/Mitsui splits appear only in secondary compilations, not in any accessible primary source."
   - "Perodua QV-E details beyond the launch announcement, including Battery-as-a-Service pricing terms and battery-lease costs."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null

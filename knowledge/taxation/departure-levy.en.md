@@ -38,13 +38,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Confirm the rates and exemptions still apply in 2026 — the RMCD Guide is dated 20 August 2019; make sure there have been no amendments to the Departure Levy Act 2019 or its orders since then."
   - "Confirm that the exemption for land and sea transport (early implementation phase, under the authority of the Minister of Finance) is still in force in 2026."
   - "Confirm the exact online agent registration procedure for foreign operators with no place of business in Malaysia, as well as the pairing of forms DL-01 (registration) and DL-02 (collection statement)."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null

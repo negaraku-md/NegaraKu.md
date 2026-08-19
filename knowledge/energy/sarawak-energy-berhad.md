@@ -38,14 +38,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Isu sosial dan alam sekitar projek empangan mega (Bakun, Murum) — penempatan semula masyarakat orang asal dan kesan ekologi — memerlukan sumber utama berasingan sebelum sebarang butiran khusus ditambah."
   - "Sumbangan Press Metal kira-kira 40% adalah khusus bagi separuh pertama 2025 (1H 2025) mengikut RAM; sahkan angka bagi tempoh terkini."
   - "Tarikh penugasan Baleh (suku keempat 2030) tertakluk kepada kemajuan pembinaan; sahkan dengan kemas kini SEB terkini."
   - "Angka kapasiti dan kewangan berubah mengikut masa; sahkan dengan laporan tahunan dan siaran media terkini SEB."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

@@ -37,9 +37,9 @@ reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 sourceContentHash: "2c9607178a97bd26"
-version: "01.00"
+revision: 0
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null

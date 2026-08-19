@@ -41,12 +41,12 @@ reviewer: null
 publishedBy: "ashton-tan"
 reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Tahun penugasan Temengor dan loji lata Sungai Perak yang lain — halaman TNB yang dipetik tidak menyatakan sebarang tahun."
   - "Sama ada tahap sensitiviti wajar dinaikkan melebihi 'none' memandangkan fokus pada penempatan semula masyarakat peribumi."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null

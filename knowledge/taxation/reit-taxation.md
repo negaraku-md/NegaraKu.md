@@ -39,14 +39,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "The 30% rate applied to non-resident individuals is the standard non-resident individual rate reported by press/advisory coverage of Practice Note 2/2026; confirm the exact rate and its statutory basis (Part II, Schedule 1, ITA 1967) against the Practice Note itself."
   - "The stated rationale for ending the concession (REIT sector maturity) is drawn from EY's and press summaries of the Practice Note; confirm the precise wording and attribution (Treasury/government vs LHDN) against the primary Practice Note."
   - "Confirm whether section 109D withholding continues to operate as the collection mechanism for non-resident unit holders from YA 2026, and the exact reporting line for resident individuals."
   - "Scale rates (0%–30%) and thresholds can change each Budget; re-verify the current-year figures before relying on them."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null

@@ -37,13 +37,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Nama rasmi dan akronim badan payung hospis kebangsaan (rujukan menyebut 'Malaysian Hospice Council' di malaysianhospicecouncil.com; sumber luar lain menggunakan 'Malaysian Hospice and Palliative Care Council / MHPCC' di mhpcc.com.my). Sahkan nama yang betul dan sama ada Hospis Malaysia ialah ahli."
   - "Bilangan NGO/organisasi ahli di bawah majlis hospis kebangsaan — angka spesifik dikeluarkan kerana tiada sumber yang boleh dicapai dapat mengesahkannya (laman majlis memulangkan ralat capaian)."
   - "Bilangan semasa pakar paliatif KKM (34 pada Okt 2025) dan sama ada program domiciliary telah berkembang melebihi empat negeri awal sejak 2016."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

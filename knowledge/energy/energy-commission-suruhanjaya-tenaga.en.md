@@ -39,13 +39,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "The commencement mechanism of Act 861: the AGC legislation portal shows a commencement notification P.U. (B) 521/2024 (in force 24 November 2024), while enforcement is reported to begin on 1 January 2025 — confirm the full commencement date and exactly when ST becomes the enforcement agency."
   - "The RM2.4 million annual electricity bill threshold as an equivalent of 21,600 GJ per year is an estimate from newspaper reports (The Star/BERNAMA); confirm against the subsidiary regulations of Act 861."
   - "The new ST organisational structure reported to take effect on 1 January 2026 — confirm the details and its impact on the mandate."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

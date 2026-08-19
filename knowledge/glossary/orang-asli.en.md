@@ -43,13 +43,13 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "The renaming dates of JHEOA (1963) and JAKOA (effective 2011) as well as the current parent ministry — confirm against the latest official sources (the JAKOA History page / government gazette)."
   - "The standing of the Semai as among the largest sub-groups and the Orang Kanaq as among the smallest at the sub-group level — the DOSM report only provides a breakdown by ethnic group (Senoi/Proto-Malay/Negrito), not figures for each sub-group."
   - "The Section 3 text quoted is a reprint of the Attorney General's Chambers translation (incorporating amendments up to 1 January 2006); confirm against the latest in-force version before publication."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

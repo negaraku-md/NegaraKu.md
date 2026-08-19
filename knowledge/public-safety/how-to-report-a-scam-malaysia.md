@@ -45,11 +45,11 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Nombor 112 sebagai alternatif kecemasan dari telefon bimbit: tidak dapat disahkan terhadap sumber kerajaan berwibawa dalam pusingan semakan ini, khususnya dakwaan ia berfungsi tanpa SIM/kredit dan dihalakan ke 999. Perincian teknikal telah dilembutkan; sahkan dengan MCMC atau JPAM sebelum menegaskannya semula."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null

@@ -40,11 +40,11 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-08-14
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Sama ada Malaysia memenangi sebarang pingat Paralimpik sebelum Beijing 2008 (draf asal mendakwa pingat pertama di Seoul 1988; rekod rasmi IPC hanya menyenaraikan pingat dari Beijing 2008)."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

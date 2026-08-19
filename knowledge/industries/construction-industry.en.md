@@ -43,13 +43,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "The exact definitions of the CIDB contractor registration categories (e.g. B, CE, ME, F) and the list of specialisation codes under them — confirm against the official CIDB 'Contractor Registration User Manual' before any detailed category information is re-added."
   - "Whether Section 25 of Act 520 was amended in 2011 (Act A1403) — confirm against the official text of Act 520 and its amendments."
   - "Sama ada NCP 2030 secara rasmi menggantikan/menggantikan tempat CITP 2016–2020 — halaman NCP 2030 CIDB hanya merujuk CITP sebagai program terdahulu, bukan menyatakan hubungan penggantian formal."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

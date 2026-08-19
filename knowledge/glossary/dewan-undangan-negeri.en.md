@@ -45,13 +45,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "The total of 600 DUN constituencies is a snapshot of the DOSM catalogue based on the 2015–2018 boundaries; verify the current figure against EC gazettes after the Sarawak redelineation (increase 82→99 approved July 2025) is completed."
   - "The effective date of the Undi18 provision (Act A1603) lowering the section 5 Eighth Schedule age limit from 21 to 18 — verify the official gazette date (reported 15 December 2021) when it becomes load-bearing."
   - "The per-state details of the redelineation (Sarawak 2015: 71→82; Sabah 2016: 60→73; Peninsula 2018) are not mapped by the DOSM source; verify against EC gazettes/reports if they are to be restated specifically."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

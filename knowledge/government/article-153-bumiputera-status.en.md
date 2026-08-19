@@ -42,13 +42,13 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Confirm the status of Article 161A(7) at the reading date: a Constitutional amendment that came into force in February 2022 reportedly amended Article 161A(6) and repealed Article 161A(7), allowing Sarawak to set the definition of natives through State law. This article cites the 15 October 2020 Reprint, which still contains the list of races in clause (7); check whether the reference needs updating to the latest text."
   - "Sahkan padanan istilah moden: 'Sea Dayak' = Iban dan 'Land Dayak' = Bidayuh disemak sebagai padanan lazim, bukan istilah dalam teks perlembagaan itu sendiri."
   - "Semakan manusia untuk keseluruhan artikel Tier S (sensitiviti: kaum) sebelum penerbitan, termasuk pengesahan setiap petikan fasal terhadap teks rasmi terkini."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

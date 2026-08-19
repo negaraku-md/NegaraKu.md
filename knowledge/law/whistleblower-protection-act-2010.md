@@ -40,12 +40,12 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "MACC June 2025 statement — confirm the quoted wording and context via a primary MACC release if available, not only the FMT report."
   - "Whether any post-2016 amendment to Act 711 has taken effect that changes the protections, Section 11 grounds, or the commencement position stated here."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null

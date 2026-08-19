@@ -43,11 +43,11 @@ reviewer: null
 publishedBy: "ashton-tan"
 reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Angka hasil padi sehektar khusus mengikut kawasan (cth. Kelantan/KADA) — tiada sumber utama yang disemak memberikan angka per-hektar untuk kawasan tertentu; hanya purata kebangsaan bawah 5 tan sehektar dan lokasi perintis Kedah yang lebih tinggi disahkan."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null

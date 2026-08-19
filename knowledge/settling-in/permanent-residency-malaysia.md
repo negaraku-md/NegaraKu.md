@@ -42,14 +42,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Whether the 2025 spouse-route reform (3-year marriage + 1-year LTSVP, points test scrapped, ~6-month processing, rollout by end-September 2025) was actually implemented as announced; capture the current operative requirement directly from Immigration/MOHA."
   - "The exact current Family Frontiers spouse PR document checklist length (stated here as about fourteen items)."
   - "That the RM120 Entry Permit fee and the RM500/5-year Residence Pass fee are still current on the live imi.gov.my fee schedule."
   - "That the points-based test was scrapped only for foreign spouses while a merit assessment still applies to other categories — confirm scope with a primary Immigration/MOHA source."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null

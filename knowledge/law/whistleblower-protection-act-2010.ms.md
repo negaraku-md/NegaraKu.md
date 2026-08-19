@@ -41,12 +41,12 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Kenyataan MACC Jun 2025 — sahkan perkataan yang dipetik dan konteksnya melalui siaran utama MACC jika ada, bukan hanya laporan FMT."
   - "Sama ada mana-mana pindaan selepas 2016 kepada Act 711 telah berkuat kuasa yang mengubah perlindungan, alasan Section 11, atau kedudukan permulaan kuat kuasa yang dinyatakan di sini."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null

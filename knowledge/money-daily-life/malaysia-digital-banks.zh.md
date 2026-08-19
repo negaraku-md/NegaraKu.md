@@ -43,7 +43,7 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "GXBank 向公众开放的日期——于 14 Nov 2023 推出限定 20,000 名用户的测试版，正式面向大众推出约在 30 Nov 2023；请核实要采用的全面向公众开放日期。"
   - "Boost Bank 向公众推出的日期与状态（据报 2024 年 1 月为测试版，2024 年 6 月公开）——sources[] 中尚无主要来源。"
@@ -51,7 +51,7 @@ verificationNeeded:
   - "利润／利息率（AEON 3.88%，Ryt每日高达4%）是会不时变动的推广利率——刊载前须核实现行利率。"
   - "核实各银行的财团/所有权结构在发布之日仍然准确。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null

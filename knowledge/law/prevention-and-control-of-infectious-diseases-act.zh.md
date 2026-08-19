@@ -39,12 +39,12 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "COVID-19 在 Jadual Pertama 马来文宪报文本中的项目标号（总检察署发布的英文更新文本给出 item 3A；某些参考资料就马来文文本的字母顺序提到 17A）。发布前请核实马来文文本的编号。"
   - "2024年修订的实施状态（是否已宪报并生效）。当前实际适用的罚则取决于相关文书的生效日期。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null

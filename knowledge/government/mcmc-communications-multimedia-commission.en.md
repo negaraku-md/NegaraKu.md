@@ -42,14 +42,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "The date or year of phased implementation of particular sections of Act 588 — if a specific year is to be stated, confirm from the relevant P.U.(B) gazette (currently mentioned in general terms without a year)."
   - "The current ministry and minister responsible for MCMC (the portfolio has been reshuffled several times)."
   - "Sensitivity classification: consider whether the topics of Internet censorship (Section 3(3)) and Section 233 enforcement warrant being raised from 'none', given the online-speech/political context."
   - "The sentence about the public debate on the enforcement of Section 233 — needs to be supported by a primary/authoritative source if it is to be retained or elaborated."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

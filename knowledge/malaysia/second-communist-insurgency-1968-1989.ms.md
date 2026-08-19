@@ -39,7 +39,7 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Tarikh dan tempat tepat penyelesaian 1990 yang menamatkan pemberontakan Sarawak. Catatan akhbar dan entri ensiklopedia memberikan 17 Oktober 1990 di Wisma Bapa Malaysia, Kuching, tetapi ini tidak disahkan dalam sumber berautoriti yang dipetik; Kyoto Review hanya menyatakan '1990'."
   - "Bilangan gerila dalam penyelesaian Sarawak 1990 (Kyoto Review: 'kira-kira 50'; laporan akhbar: 52, dipimpin oleh Ang Cho Teng)."
@@ -49,7 +49,7 @@ verificationNeeded:
   - "Pembingkaian tempoh pemberontakan yang diperbaharui: entri Arkib Negara yang dipetik pelbagai menggambarkan 'Darurat Kedua' 1968-1978 dan pemberontakan 21 tahun (1968-1989)."
   - "Angka korban serang hendap Kroh-Betong (16 terbunuh, 17 cedera) dan angka pengeboman Tugu Negara 26 Ogos 1975 (2 terbunuh, 41 cedera) terhadap entri Arkib Negara yang disebut."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null

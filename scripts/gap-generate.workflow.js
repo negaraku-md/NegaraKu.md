@@ -58,9 +58,9 @@ translationStatus: "master"
 status: "in-review"
 aiAssisted: true
 reviewer: null
-version: "0.1"
+revision: null
 revisions:
-  - version: "0.1"
+  - revision: 0
     date: ${TODAY}
     change: "Initial AI draft."
     reviewer: null

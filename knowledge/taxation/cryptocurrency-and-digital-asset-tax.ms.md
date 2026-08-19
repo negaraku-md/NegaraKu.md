@@ -39,14 +39,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Seksyen tepat Income Tax Act 1967 di mana pendapatan kripto dikenakan cukai: peruntukan pengenaan ialah s.3, manakala kenyataan Kementerian Kewangan Ogos 2025 merujuk kepada pendapatan kripto yang dikenakan cukai sebagai pendapatan perniagaan di bawah s.4 — sahkan petikan tepat untuk rangka artikel."
   - "Sama ada kenyataan Kementerian Kewangan Ogos 2025 mengubah undang-undang atau sekadar menjelaskan bahawa cukai perkhidmatan sedia ada sudah terpakai kepada perkhidmatan platform dagangan kripto, dan kadar cukai perkhidmatan serta ambang pendaftaran yang berkenaan."
   - "Fasa e-Invois (MyInvois) semasa, tarikh akhir dan ambang pusing ganti yang terpakai kepada sesuatu perniagaan kripto tertentu — ambang dan tarikh sedang disemak semula (pengecualian RM1 juta menurut panduan IRBM terkini)."
   - "Penjejakan asas kos FIFO dan layanan terhadap airdrop dan token hard-fork seperti yang dinyatakan di sini diambil daripada ringkasan profesional garis panduan LHDN; sahkan terhadap teks garis panduan semasa sebelum bergantung padanya."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null

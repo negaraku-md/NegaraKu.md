@@ -41,13 +41,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "111个使团／85个国家的数字及其完整明细（66个大使馆、18个高级专员公署、21个总领事馆、2个领事办事处、2名联合国常驻代表、1名ASEAN常驻代表、1个Friendship and Trade Centre）已通过网络搜索对照外交部官方「Malaysian Mission」页面文本加以确认；但因kln.gov.my存在TLS证书链错误，该来源页面本身无法由机器抓取。应由人工重新打开实时的MFA页面，确认当前数字，因为该部会不时更新这些数字。"
   - "品行良好证明（Certificate of Good Conduct）是否专门通过在线 e-Consular 系统签发（而非作为单独的柜台领事服务）未在一手来源中得到确认，该说法已被删除；重新加入前请核实。"
   - "领事服务因使领馆而异（小型领事馆可能将护照办理转交其上级大使馆）；在依赖之前，请逐一确认各驻处的服务范围。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

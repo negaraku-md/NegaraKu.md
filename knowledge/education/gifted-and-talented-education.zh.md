@@ -38,11 +38,11 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "该中心当前的官方名称：UKM 网站同时使用「PERMATA@Pintar Negara」与「GENIUS@Pintar Negara」（历史页面标题为「Sejarah Pusat GENIUS@Pintar Negara」）。请确认最新的官方命名，并在必要时更新标题／实体名称。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null

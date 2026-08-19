@@ -37,14 +37,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Current pricing, eligibility, and coverage caps for Trade Credit Takaful/Insurance (confirm against the latest Product Disclosure Sheet before relying on the 90%/95% figures)."
   - "The specific overseas markets EXIM Bank prioritises — the source pages describe 'non-traditional markets' generically without naming regions."
   - "ECR pre-shipment (120-day) and post-shipment (183-day) tenures and the no-collateral term, which may be updated periodically."
   - "Details of EXIM Bank's Islamic banking window licence and its integration under the BPMB group post-1 May 2025."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null

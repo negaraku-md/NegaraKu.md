@@ -42,12 +42,12 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "是否存在具有 2025 年特定生效日期的 MIA 税务规划标准（原始草稿中的「15 Julai 2025」这一日期因无法核实而删除）——请对照 MIA 的 By-Laws 通函核实。"
   - "MIA 纪律案件的数量／数目（原稿中的「2023 年 74 宗」数字已删除）——若需重新引用该数字，请对照 MIA Annual Report 2023 核实。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null

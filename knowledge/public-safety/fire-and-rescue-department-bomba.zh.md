@@ -40,13 +40,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "MERS 999 名单中民防机构的现行官方名称：该机构的官方网站（civildefence.gov.my）使用「Angkatan Pertahanan Awam Malaysia (APM)」，而 malaysia.gov.my 上的 MERS 999 页面仍将其列为「Jabatan Pertahanan Awam (JPAM)」。请核实最新的官方名称。"
   - "据报 NG MERS 999 系统于 16 November 2025 开始运作——请确认它是否改变了此处所述的五个机构名单或「五个机构」框架。"
   - "JBPM 的主管部门（KPKT）——部门职权范围会不时重组；在官方文件中依据它之前，请核实当前的编排。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

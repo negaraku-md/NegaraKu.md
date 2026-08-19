@@ -43,13 +43,13 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Sipadan daily permit quota of 252 and the ~6-permits-per-resort allocation — stated as firm figures but currently rest on a secondary dive-news source; confirm directly with Sabah Parks before publication."
   - "Sepilok Orangutan Rehabilitation Centre entry fees, camera charge and feeding-session times — confirm current rates and schedule with the Sabah Wildlife Department close to travel date."
   - "Current Sabah social visit-pass duration, Document in Lieu of Internal Travel Document conditions and the Section 66 exemption — reconfirm with the Immigration Department of Malaysia, as pass rules are periodically revised."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null

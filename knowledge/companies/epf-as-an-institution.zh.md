@@ -38,7 +38,7 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "首席执行员Ahmad Zulqarnain Onn的委任日期（据报于2024年2月19日生效）——所列来源均未涵盖。"
   - "成立日期1 Oktober 1951及Ordinan KWSP 1951的引用——属机构/法律事实但未抓取一手来源；须以KWSP官方出版物或Warta Kerajaan核实。"
@@ -47,7 +47,7 @@ verificationNeeded:
   - "用于计算增长的2023年投资资产数字（RM1.13 trilion）——请对照KWSP的官方财务报表加以确认。"
   - "按资产类别划分的投资收益总额（以RM计，而不仅是%与ROI）——请与KWSP 2024年年报／官方报表核实。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null

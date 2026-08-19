@@ -38,7 +38,7 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "The ministry's internal structure (the number of sectors and divisions): the official digital.gov.my website was not accessible at the time of compilation, so the structural figures were removed until an official source is confirmed."
   - "Rangka tiga teras (ekonomi digital, masyarakat digital, kerajaan digital) — sahkan terhadap penyata dasar rasmi kementerian."
@@ -46,7 +46,7 @@ verificationNeeded:
   - "Sejarah organisasi terperinci CyberSecurity Malaysia (asal-usul MyCERT, pemindahan portfolio) — dikeluarkan sehingga sumber primer diperoleh."
   - "The DNB 5G coverage figures (82.1% / 80.2%) and the exact reference date — confirm against official MCMC/DNB reports."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

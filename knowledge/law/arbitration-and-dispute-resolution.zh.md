@@ -42,13 +42,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "修订沿革日期：请对照 Federal Gazette 核实 Arbitration (Amendment) Act 2011（约于 2011 年 7 月 1 日生效）以及两次 2018 年修订（据报于 2018 年 2 月 28 日及 2018 年 5 月 8 日生效）。"
   - "Arbitration (Amendment) Act 2024于2026年1月1日生效的日期——须对照Federal Gazette中的官方生效公告核实。"
   - "第三方资助实务守则中RM 10 million的资本充足数字——须根据已发布的守则本身核实，而非二手摘要。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null

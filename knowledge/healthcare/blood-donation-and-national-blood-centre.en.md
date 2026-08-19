@@ -38,12 +38,12 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Bilangan 22 tapak pungutan darah (BBIS v2) — sahkan terhadap papan pemuka KKMNOW/PDN semasa."
   - "Keputusan editorial: sama ada bendera sensitivity perlu dinaikkan melebihi 'none' memandangkan kriteria penangguhan MSM/pekerja seks/penyuntik dadah dihasilkan semula (dipetik verbatim daripada garis panduan rasmi PDN, tanpa bahasa advokasi)."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

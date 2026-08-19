@@ -37,7 +37,7 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Pengesahan bahawa garis dasar dan sasaran PuTERA35 (30% ekuiti; 70% pekerjaan mahir tinggi dengan garis dasar 61%/2022; 15% KDNK dengan garis dasar 9.1%/2022) kekal seperti diterbitkan TERAJU dan tidak dikemas kini selepas 2024."
   - "Pengesahan angka 18.4% (2020) terhadap sumber statistik rasmi asal (mis. Jabatan Perangkaan / RMK) kerana ia dipetik semula oleh TERAJU, bukan diterbitkan oleh ISEAS."
@@ -46,7 +46,7 @@ verificationNeeded:
   - "Pengesahan status semasa MEDAC sebagai penyelia VDP, kerana penstrukturan semula kementerian boleh mengubah agensi yang bertanggungjawab."
 
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null

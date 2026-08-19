@@ -38,13 +38,13 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Bentuk petikan tajuk pendek semasa yang tepat: 'Anti-Restricted Activity Financing' telah ditambah kepada tajuk Akta oleh Act A1761 (berkuat kuasa 1 March 2026); sahkan perkataan tepat terhadap cetakan semula rasmi terkini setelah diterbitkan."
   - "Pemetaan seksyen jadual penalti (penyimpanan rekod/pendedahan/maklumat palsu dipetik di bawah seksyen 14A, 17 dan 18, manakala kewajipan penyimpanan rekod itu sendiri ialah seksyen 13) harus disahkan terhadap cetakan semula semasa yang menggabungkan Act A1761; seksyen 17 dalam cetakan semula pra-A1761 berkaitan kewajipan kerahsiaan."
   - "Penomboran seksyen (CDD s.16, program pematuhan s.19, pelucuthakan ss.55-56) telah disahkan terhadap cetakan semula SPRM yang belum menggabungkan Act A1761; sahkan penomboran tidak berubah selepas pindaan 1 Mac 2026."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null

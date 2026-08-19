@@ -42,13 +42,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "The 2023 growth rate was revised: the Digital Economy 2025 release (2024 reference) reports 2023 growth as 3.5%, whereas the Digital Economy 2024 release (2023 reference) reports it as 3.9%. This draft uses 3.5% for consistency with the same release as the 5.1% figure (2024). Confirm which figure should be displayed."
   - "The 2022 contribution row (22.9% / RM411.6 billion) has been REMOVED because it is not carried as a comparator in any of the DOSM releases cited, and the 2022-reference-year release (Digital Economy 2023) could not be accessed for verification (a database error on the DOSM site). If a three-year trend line is wanted, cite the Digital Economy 2023 release directly once it becomes accessible."
   - "The qualitative claim about mobile vs fixed broadband and its link to state income has been REMOVED because there was no MCMC source in sources[]. To reinstate it, add a retrieved MCMC citation (e.g. an SKMM broadband penetration report)."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

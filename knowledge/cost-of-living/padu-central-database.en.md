@@ -38,13 +38,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Sama ada angka pendaftaran 10.85 juta (setakat 31 Mac 2024) telah berubah selepas fasa kemas kini seterusnya."
   - "Whether the RM2 million hardware cost / seven-month build period details should be reinstated with a primary government source if relevant (removed in this pass as promotional and loosely connected)."
   - "Pengelasan sensitivity — topik melibatkan penyasaran kelayakan subsidi melalui pangkalan data kebangsaan; sahkan sama ada 'none' kekal sesuai."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null

@@ -38,13 +38,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Senarai pendek konsortium (tiga kumpulan, ahli dan peneraju) dilaporkan akhbar oleh The Edge, tidak disahkan secara rasmi oleh MyHSR Corp; sahkan sebelum menganggapnya muktamad."
   - "Status semasa (semakan Kabinet, model diterajui sektor swasta, belum ada RFP) mencerminkan kenyataan sehingga Feb 2025; semak sebarang pengumuman kerajaan yang lebih baharu."
   - "Tujuh lokasi stesen Malaysia diambil daripada laporan akhbar; sahkan terhadap gambaran keseluruhan projek rasmi MyHSR Corp."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null

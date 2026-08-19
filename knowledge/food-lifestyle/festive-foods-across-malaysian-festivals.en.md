@@ -42,14 +42,14 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "lihing (Sabah rice wine) was removed from this draft because the referenced The Star article (2026-05-31) only mentions tuak, montoku and tumpung — not lihing. It can be reinstated if a valid primary source is found."
   - "The detail that tumpung is 'drunk by sipping from a shared container' should be re-confirmed against The Star text."
   - "A fact-checker flagged the table of symbolic meanings as 'fabricated'; however, a re-check against The Rakyat Post confirms each row (white radish = job opportunities, circling oil = prosperity from all directions, plum sauce = the sweetness of life/bonds, peanuts = wealth, carrot = good luck, crackers = gold). A human needs to reconcile this discrepancy."
   - "The 'first 15 days' period and the Loke Ching Fatt framing (1940s/1960s) have been re-confirmed against The Rakyat Post and retained."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

@@ -39,13 +39,13 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Classifying TH as one of the 'GLICs' (Government-Linked Investment Companies) and as 'one of the major institutional investors' — confirm against the official GLIC list/definition from the Ministry of Finance or another authoritative source before publication."
   - "The strategic shareholding relationship with Bank Islam Malaysia and Syarikat Takaful Malaysia Keluarga — confirm the current status and percentages (if any) against the official financial statements of TH/the related companies, taking into account the 2023 restructuring of the BIMB group."
   - "The governance and 2018-2019 restructuring section (a sensitive topic) — requires human editor review and direct reference to the official text of the RCI report as well as statements by the relevant parties."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null

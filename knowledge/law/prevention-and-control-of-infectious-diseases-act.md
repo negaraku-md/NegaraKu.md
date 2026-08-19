@@ -38,12 +38,12 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Label item COVID-19 dalam teks warta Bahasa Melayu Jadual Pertama (teks kemas kini bahasa Inggeris terbitan Pejabat Peguam Negara memberi item 3A; sesetengah rujukan menyebut 17A bagi susunan abjad teks Melayu). Sahkan penomboran teks Melayu sebelum terbit."
   - "Status penguatkuasaan pindaan 2024 (sama ada telah diwartakan dan berkuat kuasa). Kadar penalti operasi terkini bergantung pada tarikh kuat kuasa instrumen berkenaan."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null

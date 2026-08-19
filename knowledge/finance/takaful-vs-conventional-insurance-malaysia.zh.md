@@ -38,14 +38,14 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "法定引文转载自总检察署（Attorney General's Chambers）版本的 Laws of Malaysia Act 759 (IFSA 2013) 第 2 条；请确认没有后续修订更改过 takaful 定义的措辞。"
   - "所有 2024 年行业数字均为 Bernama 所报道的 Malaysian Takaful Association（MTA）数据；发布前请对照 MTA 自身的年度发布及／或 Bank Negara Malaysia 的保险与回教保险统计核实。"
   - "将 riba、gharar 与 maisir 描述为 takaful 的架构所要应对的问题，属于对伊斯兰商业原则的一般性描述；请对照中立的学术或监管来源核实其措辞。"
   - "在消费者据以行事之前，请直接对照 Bank Negara Malaysia 的受监管实体名单，核实任何特定经营者或保险公司的当前牌照状态。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

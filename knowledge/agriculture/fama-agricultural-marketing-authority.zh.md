@@ -40,14 +40,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "RM122 juta 的销售额（2021 年 9 月 1 日至 10 月 18 日）以及 368 个地点的细分数据出自 2021 年的新闻报道——并非最新数据；在作为当前统计使用前，请确认 FAMA 是否已发布更新的官方数字。"
   - "所列各类地点（35 个常设农民市场、266 个农民市场、19 个鲜果摊位、5 个 Agrobazaar、5 个 pasar tamu）合计为 330 而非 368；来源本身也报告了这一差距。「包括」一词表明这是不完整的清单——若需要精确数字，请向 FAMA 核实完整明细。"
   - "各门市（Pasar Tani Kekal、My Farm Outlet、Agrobazaar、GBBS）的确切数量、地点和营业时间会不时变动；请在发布日期于 fama.gov.my 核实。"
   - "附属法规的标题、生效年份及 P.U.(A) 引注，须在任何法律用途之前，对照官方宪报文本（而非 FAMA 网站摘要）重新查核。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

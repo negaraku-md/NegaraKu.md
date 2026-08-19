@@ -40,7 +40,7 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "将临时特别拨款提高至 RM600 million 的公告的实际日期与场合（原始草稿提及 2024 年 9 月 12 日）——所引用的 Bernama 来源确认了 RM600 million 的金额、2025 年生效及五年检讨周期，但未确认那一具体的公告日期。"
   - "已解决的 13 项诉求按行政当局的细分（媒体报道为 MADANI 政府任内 9 项、此前 4 项）——在所引用作为 13/29 计数的主要 Bernama 来源中未获确认，因此该细分已从正文中删除。"
@@ -49,7 +49,7 @@ verificationNeeded:
   - "2022 年 9 月 8 日的日期（MKMA63 支持 35% 的议席）以及 78/56 议席的分布——引自 Bernama，但在本轮更正中尚未重新查核。"
   - "Akta A1642 的完整内容（Perkara 160 中「马来西亚日」的定义及 Perkara 161A 的修订）——请以 lom.agc.gov.my 上的法令文本核实。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

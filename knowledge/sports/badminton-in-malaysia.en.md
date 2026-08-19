@@ -46,14 +46,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "The exact date of the 1992 Thomas Cup final — softened to 'May 1992' because the actual day (often stated as 16 May) is not carried by any of the cited sources; the Stadium Negara venue is confirmed by Tatler."
   - "The identity of the three Malaysian players who won the All England this century — the Tatler source states 'the three' but does not name them (expected to be Hafiz Hashim 2003, Lee Chong Wei, Lee Zii Jia)."
   - "Pecahan penuh lima pingat emas Sukan Komanwel Lee Chong Wei (acara dan tahun tepat) — BAM mengesahkan jumlah lima emas tetapi tidak mengitemkan setiap acara."
   - "Angka kemarau ('melebihi 32 tahun') berasal daripada petikan Rashid Sidek pada April 2024; setakat tarikh artikel (2026) ia lebih hampir 34 tahun."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

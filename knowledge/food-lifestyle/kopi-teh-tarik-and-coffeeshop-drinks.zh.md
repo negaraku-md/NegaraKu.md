@@ -38,13 +38,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "「C」的确切词源仍有争议（Carnation 品牌说，对海南方言中「鲜」xian 的读音说）；在把某一解释定为定论之前，请以主要来源核实。"
   - "拉茶（teh tarik）比赛的细节（正式规则、特定的倒茶技巧如背对杯子）尚未以主办方文件证实；目前请仅保留一般性描述。"
   - "mamak 餐厅「24 小时」的营业时间虽属常见，但因地点与分店而异；如需具体数字请核实。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

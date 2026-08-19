@@ -47,11 +47,11 @@ reviewer: null
 publishedBy: "ashton-tan"
 reviewed: 2026-08-14
 reviewDue: 2027-08-14
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "The sensitivity classification is set to 'none' per the template, but fuel-subsidy rationalisation is a policy issue that can spark political debate; a human editor should reassess whether 'none' is appropriate."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null

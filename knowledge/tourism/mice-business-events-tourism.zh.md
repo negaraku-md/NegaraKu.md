@@ -40,7 +40,7 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "MyCEB 在其主页上将 RM20.18 billion 标示为「Estimated Economic Impact」，主页上还显示了另一个标示含糊的数字（1,656,942）；请直接向 MyCEB 核实其意指的标签与数值。"
   - "The Meetings Show London 的数字（6,625 名代表、RM116 million、2017–2023）出自 MyCEB 的一份新闻稿，且在本次修正过程中未重新获取；在依赖前请核实。"
@@ -49,7 +49,7 @@ verificationNeeded:
   - "MITEC 确切的位置描述（邻近 Dutamas / KL Metropolis；更大的区域为 Segambut）应对照 MITEC 自身的网站核实；所引用的 CIDB 来源使用「near Dutamas」。"
   - "所有场馆容量及 BCCK2 的建设细节均可能变动；发布前请直接向各中心核实当前公布的数字。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null

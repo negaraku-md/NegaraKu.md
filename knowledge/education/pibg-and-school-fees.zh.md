@@ -38,13 +38,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Peraturan-Peraturan Pendidikan (Persatuan Ibu Bapa-Guru) 1998 的生效日期——在陈述确切日期之前，请对照官方的联邦政府宪报／P.U.(A) 核实。"
   - "PIBG 三项获准的收入来源——请对照 PIBG 章程全文（SPI Bil. 4/2004）核实。"
   - "特别费用废除的实际生效日期（文中称「自 2008 年起」）——请对照 SPI Bil. 13/2007 的完整文本核实。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null

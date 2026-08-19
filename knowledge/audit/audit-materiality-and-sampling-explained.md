@@ -38,13 +38,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Re-check the ISA 320, 450 and 530 paragraph numbers against the current IAASB Handbook edition. The article cites the 2012-2013 handbook; these standards have not been substantively revised, but paragraph references should be reconfirmed against the latest published handbook a human reviewer relies on."
   - "Confirm the specific Companies Act 2016 provision (commonly cited as s.267 on appointment of auditors) if a section-level statutory citation is wanted; the article currently names only the Act, sourced to the IFAC Malaysia member profile."
   - "Confirm the preferred canonical citation form for the ISAs (the IAASB Handbook publication landing page used here vs. the IAASB per-standard electronic standards portal)."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null

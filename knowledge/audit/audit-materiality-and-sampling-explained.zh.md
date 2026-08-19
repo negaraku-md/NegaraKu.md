@@ -39,13 +39,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "请对照现行 IAASB Handbook 版本重新核对 ISA 320、450 及 530 的段落编号。本文引用的是 2012-2013 年版手册；这些准则未经实质性修订，但段落引用应对照人工审核者所依据的最新出版手册重新确认。"
   - "若需要具体到条文的法定引用，请核实 Companies Act 2016 的相关条文（关于委任审计师，通常引用为 s.267）；本文目前仅列出该法令名称，来源为 IFAC 的马来西亚会员简介。"
   - "核实 ISAs 首选的规范引用形式（此处使用的 IAASB Handbook 出版物着陆页，与 IAASB 分准则电子标准门户之间）。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null

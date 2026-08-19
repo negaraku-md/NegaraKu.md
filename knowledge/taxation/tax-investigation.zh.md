@@ -41,12 +41,12 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "核实税务审计框架的分级优惠费率（15% / 30% / 45%）在LHDN最新框架下仍然适用。"
   - "请对照当前的行政框架核实 Seksyen 113(2) 项下对故意作出不实报表所适用的 100% 法定罚则处理方式。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null

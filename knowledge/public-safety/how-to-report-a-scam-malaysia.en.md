@@ -46,11 +46,11 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "The number 112 as an emergency alternative from a mobile phone: could not be confirmed against an authoritative government source in this review round, in particular the claim that it works without a SIM/credit and is routed to 999. The technical details have been softened; confirm with MCMC or JPAM before asserting it again."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null

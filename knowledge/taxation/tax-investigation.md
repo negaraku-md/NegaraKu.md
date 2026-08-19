@@ -40,12 +40,12 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Sahkan bahawa kadar konsesi berperingkat Rangka Kerja Audit Cukai (15% / 30% / 45%) masih terpakai di bawah rangka kerja LHDN terkini."
   - "Sahkan layanan penalti berkanun 100% di bawah Seksyen 113(2) bagi penyata tidak betul yang disengajakan terhadap rangka kerja pentadbiran semasa."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null

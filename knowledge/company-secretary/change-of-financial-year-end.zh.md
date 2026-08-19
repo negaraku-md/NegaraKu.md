@@ -39,14 +39,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "就缩短的会计期间（少于 12 个月）相较于延长的会计期间（超过 12 个月）提交 CP204B 表格的确切截止日期——须对照 LHDN 现行公共裁定核实；无法取得 LHDN 主要来源以证实「提前 30 天」这一数字。"
   - "Ketetapan Umum (Public Ruling) 4/2025 的存在与内容，以及关于不再接受人工通知（信函）的说法——无法核实；所称的 LHDN URL（hasil.gov.my/en/company/change-in-accounting-period/）返回 HTTP 404。"
   - "年度申报表（annual return）或任何其他SSM表格是否也另行记录已更改的FYE——本文仅说明SSM是通过所提交的财务报表（s.259）得知新的FYE。"
   - "将s.247两年调整期专门适用于独立公司自愿变更FYE的情形（s.247规范的是集团内的子公司，而非单一公司）。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null

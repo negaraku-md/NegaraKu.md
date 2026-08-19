@@ -38,7 +38,7 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Tarikh keputusan Jawatankuasa Tatatertib FIFA: kenyataan media CAS menyatakan 25 September 2025, manakala halaman pengumuman rasmi FIFA bertarikh 26 September 2025 (pemberitahuan 'hari ini'). Draf ini menggunakan 25 September 2025 sebagai tarikh keputusan (selaras dengan CAS dan tempoh kredit larangan) dan mencatatkan pengumuman FIFA pada 26 September 2025. Manusia perlu mengesahkan tarikh mana yang hendak dipaparkan sebagai tarikh keputusan."
   - "Award CAS penuh beserta alasan belum dikeluarkan setakat draf ini; sahkan butiran apabila diterbitkan (hanya teks bertulis rasmi yang mengikat dari segi undang-undang)."
@@ -46,7 +46,7 @@ verificationNeeded:
   - "Rujukan AFC dan kemungkinan potongan mata dalam kelayakan Piala Asia 2027 belum dimuktamadkan."
   - "Hasil siasatan polis Malaysia berhubung sijil kelahiran yang didakwa palsu masih belum dimuktamadkan."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

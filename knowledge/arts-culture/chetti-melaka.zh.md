@@ -39,7 +39,7 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Sembahyang Dato Chachar 庆典的实际月份会随泰米尔历而变动；所引来源（The Star, 2012）记录该年庆典约在 4 月底举行——请核实当前年份的日期。"
   - "Kampung Chetti 遗产区在 Jun 2000 受保护的真正法律依据，未见于任何所引来源（此项保护早于 Akta Warisan Kebangsaan 2005）。"
@@ -47,7 +47,7 @@ verificationNeeded:
   - "克里奥尔语词汇示例（nenek/thatha）仅为示意，尚未对照所引用的语言学研究（Grimes 1996、Noriah Mohamed 2009）核实。"
   - "家庭数目的数字在不同来源之间有所出入：少于50个家庭（Roots）对比20–30个家庭（Free Malaysia Today）。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

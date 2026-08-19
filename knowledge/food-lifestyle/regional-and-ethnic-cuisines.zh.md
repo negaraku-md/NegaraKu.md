@@ -50,9 +50,9 @@ verificationNeeded:
   - "葡萄牙人在马六甲的存在史及 Kristang／欧亚裔社群的形成，包括确切的年份／世纪（现以不含数字的方式陈述）；需要原始／历史来源。"
   - "「debal」源自「devil」（魔鬼咖喱）的词源——需要语言学来源；以及debal咖喱以圣诞剩菜烹制的传统——需确认为一种传统，而非仅是词义。"
   - "Sabah菜肴（hinava、tuhau、bosou、tuaran mee）的细节及其在传统美食计划中的认可状态；来源清单中尚无相应来源。"
-version: "01.00"
+revision: 0
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

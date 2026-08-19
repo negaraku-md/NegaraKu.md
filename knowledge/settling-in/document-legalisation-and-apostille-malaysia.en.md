@@ -41,13 +41,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "The alternative in-country route (the issuing country's diplomatic mission in Malaysia certifies the document, then the Consular Division of Wisma Putra endorses it) for FOREIGN documents to be used in Malaysia — the KLN page describes the process of certifying Malaysian documents for use ABROAD; confirm this inbound direction directly with Wisma Putra."
   - "The generalisation that civil-status documents (birth, marriage, death) can usually proceed straight to the attestation stage without notarisation while other documents must be notarised first — not tied to any one particular official source; confirm with the relevant Malaysian diplomatic mission."
   - "The fee and turnaround time for each layer vary by country and mission; the RM18 fee mentioned is the service fee of the Korean Embassy in Kuala Lumpur only, not a general Malaysian legalisation rate."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null

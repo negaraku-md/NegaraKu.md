@@ -42,14 +42,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "i-Saraan的核心数字（20%配对率、60岁年龄上限、享有全额奖掖的RM2,500缴费门槛）——目前依赖The Star加AJobThing，因为KWSP i-Saraan官方页面（kwsp.gov.my）返回HTTP 403。可访问时须直接向KWSP核实。"
   - "i-Saraan Plus的细节（RM600配对/RM6,000上限、注册机制、生效日期）——须以KWSP的i-Saraan Plus官方页面核实。"
   - "seksyen 83 Akta 872 项下所订定的确切缴款百分比——该法令将其交由附属条例规定；主文中并无固定的百分比。"
   - "Akta 872 的刊宪日期（2025 年 12 月 31 日）— 依据 Human Resources Online；请以政府官方宪报加以确认。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null

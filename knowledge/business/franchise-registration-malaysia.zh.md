@@ -43,13 +43,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "MyFEX 2.0 下特许经营者、受许经营者及续期申请当前规定的官方费用——本文不再列出金额，因为无法确认任何权威的现行数字（仅有 Franchise (Forms and Fees) Regulations 1999 下已被取代的 RM1,000 费用）。请在 MyFEX 2.0 门户上核实。"
   - "MyFEX 2.0 的确切推出日期：多数来源（Nixon Peabody、ICLG）给出 28 July 2022，而 ZICO Law 给出 29 July 2022。"
   - "主管部门当前确切的英文名称与缩写——各来源同时使用「Ministry of Entrepreneur Development and Cooperatives (KUSKOP)」与「Ministry of Entrepreneur and Cooperatives Development (MECD)」；门户网站域名为 kuskop.gov.my。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null

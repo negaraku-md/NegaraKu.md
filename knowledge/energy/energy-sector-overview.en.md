@@ -43,14 +43,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "The regional generation-mix percentages (Peninsular 20.2% RE 2021, Sabah 79.3% gas, Sarawak 74% hydro) and the total capacity of >27 GW are currently sourced to Global Legal Insights (a publisher of commercial legal guides). Re-confirm against primary official statistical sources — Suruhanjaya Tenaga / Malaysia Energy Statistics Handbook (ST) — for a tier-1 article."
   - "Administration of the Large Scale Solar (LSS) programme: the text lists LSS under SEDA, but the competitive LSS bidding is usually overseen by the Energy Commission. Confirm the exact roles of SEDA versus ST for LSS."
   - "The division of responsibility in Labuan (ST regulates; SESB supplies) is stated without a single specific citation; confirm against the official ST and SESB websites."
   - "The RP4 base tariff figure (45.40 sen per kWh, compared with 45.62 sen approved in December 2024) and the potential cost reduction of up to 19% — confirm against official ST/KeTSA statements beyond the BERNAMA report."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

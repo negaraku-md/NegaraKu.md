@@ -43,12 +43,12 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "将janggau（Aporosa confusa）专门与「棕色调」相关联——The Star将tarum、engkudu与janggau一并列为红棕色与黑色的产色植物，而未按各植物分别区分颜色。"
   - "关于布料结构「两幅镜像对称、缝合在一起的布幅」及其「1920 年之后」为外界所知的细节——请对照砂拉越博物馆局（Jabatan Muzium Sarawak）／EC-APR 核实。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

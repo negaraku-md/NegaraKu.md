@@ -42,12 +42,12 @@ reviewer: null
 publishedBy: "ashton-tan"
 reviewed: "2026-08-14"
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Temengor 及其他 Sungai Perak 梯级电站的投产年份——所引 TNB 页面并未说明任何年份。"
   - "鉴于本文聚焦于原住民社群的重新安置，敏感度级别是否应从「none」上调。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null

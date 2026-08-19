@@ -40,12 +40,12 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Confirm the Malaysian Institute of Accountants (MIA) adoption of ISA 550 is textually identical to the IAASB source text for every paragraph relied on (paras 2, 10, 13, 14, 15, 18, 23, 24, 26, 27)."
   - "Confirm the IFAC-hosted ISA 550 handbook PDF remains live; if not, substitute the IAASB publications page or the then-current IAASB Handbook volume."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null

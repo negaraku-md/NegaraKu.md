@@ -38,7 +38,7 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Jumlah yuran pembaharuan GI (GIA19), pembaharuan-dengan-caj tambahan (GIA20) dan pemulihan — angka RM khusus dalam draf terdahulu (RM420 / RM630 / RM670) tidak dapat disahkan secara bebas dan nampaknya bertindih dengan jadual yuran cap dagangan; sahkan jumlah GI sebenar terhadap Second Schedule of the Guidelines sebelum menerbitkan."
   - "Kawasan asal yang ditetapkan dengan tepat bagi GI Musang King — laporan berita menunjukkan Pahang dan Johor; sahkan terhadap entri Daftar GI MyIPO yang aktif."
@@ -46,7 +46,7 @@ verificationNeeded:
   - "Sahkan seksyen 10 ialah peruntukan yang meliputi kedua-dua alasan nama generik/penolakan dan alasan percanggahan tanda dagangan terdahulu, dan bahawa yuran permohonan GIA1 masih RM250."
   - "Sahkan GI berdaftar ilustratif dan negeri masing-masing (Sarawak Pepper, Kek Lapis Sarawak, Harumanis, kopi Tenom, Sabah Batik) terhadap daftar GI MyIPO semasa."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null

@@ -41,14 +41,14 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "国防白皮书（Kertas Putih Pertahanan）三大支柱的确切（逐字）名称——同心威慑（Pencegahan Sepusat / Concentric Deterrence）、全面防御（Pertahanan Menyeluruh / Comprehensive Defence）与可信伙伴关系（Perkongsian Boleh Dipercayai / Credible Partnerships）——需直接从国防白皮书文件核实；所引用的 MINDEF 首页显示的标签有所不同。"
   - "Akta 77 的 .mil.my 官方副本（legal.airforce.mil.my）的可取得性 — 审查时返回 HTTP 503；已改用 AGC 门户作为主要官方来源。"
   - "Ahli Majlis Angkatan Tentera及MINDEF高级官员的现任名单需要核查，因为它会不时变动。"
   - "当前公民训练／国民服役计划的细节（如有），在提及任何数字之前须从最新的政策来源加以确认。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

@@ -41,12 +41,12 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Sama ada program institusi swaakreditasi didaftarkan dalam MQR secara automatik atau melalui permohonan (qanew.cfm MQA menyatakan HEP 'may apply to register'; ringkasan sekunder memerihalkan pendaftaran automatik selepas audit institusi)."
   - "Angka kredit minimum MQF dan lapan tajuk peringkat terhadap MQF 2nd Edition semasa, sekiranya MQA mengeluarkan edisi yang disemak."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null

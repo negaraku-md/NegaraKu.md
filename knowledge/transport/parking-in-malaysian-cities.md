@@ -37,7 +37,7 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Kadar bulanan letak kereta Petaling Jaya (dilaporkan RM100 sebulan) — tidak disahkan oleh laman Setel MBPJ semasa; perlu pengesahan langsung MBPJ sebelum dinyatakan semula."
   - "Sama ada portal MyGov ePBT kini saluran rasmi untuk menyemak kompaun letak kereta DBKL — disebut dalam laporan Malay Mail tetapi tidak tersenarai pada laman rasmi DBKL (yang hanya menyenaraikan MySMS 15888, PAY@KL dan kaunter)."
@@ -46,7 +46,7 @@ verificationNeeded:
   - "Kadar letak kereta pusat beli-belah (Suria KLCC, Pavilion KL, NU Sentral) — kerap berubah; sahkan di pintu masuk."
   - "Waktu penguatkuasaan dan kadar zon DBKL tepi jalan — sahkan versi terkini di laman rasmi DBKL kerana kadar boleh dikemas kini."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null

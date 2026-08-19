@@ -36,14 +36,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "The exact charging section in PP v Khaeromze bin Ahmad (stated as section 364(2) of the Companies Act 1965) — confirm against the official SSM media release."
   - "The case PP v Ho Woon Choon (secretary of Dataco Communications; Court of Appeal Putrajaya, 16 June 2011; Form 24; section 364(2) of the Companies Act 1965) — confirm the case number / official court report."
   - "The canonical SSM URL for the deck 'Common Offences Under Companies Act 2016' (currently cited from the third-party rehost cwca.com.my); replace with a copy on the ssm.com.my domain if available."
   - "Kes PP lwn Sandhiransegaran (Venus Polymer Sdn Bhd, penjara 5 tahun) muncul dalam slaid latihan SSM tanpa nombor kes/laporan mahkamah — jangan petik semula tanpa pengesahan bebas."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null

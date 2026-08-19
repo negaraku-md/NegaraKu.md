@@ -32,7 +32,10 @@ const relationSchema = z.object({
 
 /** One entry in the article's revision history (shown in the trust block). */
 const revisionSchema = z.object({
-  version: z.string(),
+  /** 0-based index of this published revision (was the string `version`). */
+  revision: z.number().int().nonnegative(),
+  /** Optional git commit this revision landed in (link-to-commit history). */
+  commit: z.string().optional(),
   date: z.coerce.date(),
   change: z.string(),
   /**
@@ -211,14 +214,13 @@ const knowledge = defineCollection({
     publishedBy: z.string().nullable().default(null),
     /** When this page should next be checked — drives the freshness queue. */
     reviewDue: z.coerce.date().nullable().optional(),
-    version: z.string().default('0.1'),
     revisions: z.array(revisionSchema).default([]),
     /**
      * Two-field lifecycle model (docs/LIFECYCLE-AND-CONTRIBUTION-SPEC.md §2).
      * `revision` is the PUBLISHED-VERSION slot: null = never published (draft);
      * 0 = first published; +1 on each later publish (archive does not increment).
-     * Introduced alongside `version`; a migration will make it authoritative and
-     * retire `version`.
+     * This is authoritative — the old string `version` field was retired by
+     * scripts/migrate-version-to-revision.mjs.
      */
     revision: z.number().int().nonnegative().nullable().default(null),
     /**

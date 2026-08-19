@@ -42,13 +42,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "2023年增长率经修订：Ekonomi Digital 2025刊物（参照2024年）将2023年增长报告为3.5%，而Ekonomi Digital 2024刊物（参照2023年）则报告为3.9%。本草稿采用3.5%，以与提供5.1%（2024年）数字的同一刊物保持一致。请核实应显示哪一个数字。"
   - "2022 年贡献一行（22.9% / RM411.6 billion）已被删除，因为它未在任何所引用的 DOSM 刊物中作为比较项出现，且以 2022 年为参照年的刊物（Ekonomi Digital 2023）无法访问以供核实（DOSM 网站数据库错误）。如需三年趋势线，请在 Ekonomi Digital 2023 刊物可访问后直接引用之。"
   - "关于移动宽带与固定宽带及其与州属收入关系的定性论断已被删除，因为 sources[] 中没有 MCMC 来源。若要恢复，请加入已获取的 MCMC 引用（例如 SKMM 的宽带普及率报告）。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

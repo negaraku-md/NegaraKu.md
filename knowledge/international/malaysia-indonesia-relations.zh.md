@@ -46,11 +46,11 @@ publishedBy: "ashton-tan"
 reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Ambalat的储量与产量预测（每天约40,000桶；高达10亿桶／40 tcf）——由单一媒体（Jakarta Globe）报道；须进一步核实。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

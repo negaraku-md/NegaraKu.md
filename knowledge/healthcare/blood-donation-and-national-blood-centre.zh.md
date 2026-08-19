@@ -38,12 +38,12 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "22个采血点的数目（BBIS v2）——请对照当前的KKMNOW/PDN仪表板加以确认。"
   - "编辑决定：鉴于MSM／性工作者／注射毒品者的延缓捐血标准被复述（逐字引自PDN官方指引，未加任何倡导性措辞），敏感度标记是否需要提高至「none」以上。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

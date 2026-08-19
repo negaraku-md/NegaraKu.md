@@ -45,7 +45,7 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "槟岛的土地面积——确切数字（原为「293 km²」）因无来源而被删除；在重新加入任何数字前，须对照主要来源（例如Department of Statistics Malaysia或Penang州政府）核实。"
   - "槟城国家公园是否为马来西亚最小的国家公园——「世界上最小之一」这一最高级说法因缺乏支持且可能夸大而被删除；重新加入任何最高级说法前，须根据权威来源核实。"
@@ -53,7 +53,7 @@ verificationNeeded:
   - "「超过 500 年的贸易」— 呼应 UNESCO 突出普世价值的表述，但在所引用的 GTWHI 摘录中并未明确写出；请核实确切措辞。"
   - "MDAC的具体细节（「免费」、「通过Immigration Department门户提交」）——所引用的IMI页面呈现的大多是导航框架内容；请对照MDAC实际门户（imigresen-online.imi.gov.my/mdac）确认实质细节。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null

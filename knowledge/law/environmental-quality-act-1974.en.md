@@ -42,12 +42,12 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "The procedural details of the First Schedule vs the Second Schedule (public display; state JAS office vs JAS headquarters) — confirm against the full text of the Environmental Quality (Prescribed Activities)(EIA) Order 2015, not just the JAS download page."
   - "The fine details in the Kulim case (total RM60,000: RM50,000 under s34A(8) EQA + RM10,000 under the Clean Air Regulations 2014; Kulim Sessions Court, 16 April 2025) — confirm against the official court records if absolute accuracy is required."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null

@@ -45,14 +45,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Ambang nilai bersih tepat bagi alternatif ujian pendapatan (sumber sekunder memetik ~RM1 bilion; sahkan terhadap FAQ PVIP rasmi semasa)."
   - "Had peserta yang tepat, jika ada (laporan lama merujuk had yang dikaitkan dengan populasi; sahkan angka semasa dengan Jabatan Imigresen)."
   - "Tempoh pengeluaran deposit enam bulan, alternatif nilai bersih/pendapatan dalam negara dan pilihan tanggungan 10 tahun RM50,000 diterangkan sebagai semakan 2026 oleh sumber sekunder — sahkan ia masih semasa pada bahan PVIP rasmi."
   - "Tarikh pelancaran (diumumkan 1 September 2022; dibuka mulai 1 Oktober 2022) dan senarai semasa ejen yang dilantik Imigresen."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null

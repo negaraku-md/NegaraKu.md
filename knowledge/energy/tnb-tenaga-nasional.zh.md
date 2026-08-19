@@ -39,7 +39,7 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "TNB 在 Bursa Malaysia 的上市年份（普遍报道为 1992 年，KLSE 首次公开发售）——请以 Bursa Malaysia 官方上市记录核实；本次校对期间无法从任何可取得的主要来源加以证实。"
   - "TNB 在 Sabah Electricity 的持股（82.75%）及在 2030 年前全面移交予沙巴州政府的计划——由于此结构会变动，请以 TNB 年度报告或最新官方公告核实。"
@@ -48,7 +48,7 @@ verificationNeeded:
   - "通往泰国与新加坡的电网互联——须核实最新的状态与容量。"
   - "公司注册号（199001009294 / 200866-W）——请以 SSM/Bursa 核实。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

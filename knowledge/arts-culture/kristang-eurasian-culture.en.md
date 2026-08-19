@@ -41,13 +41,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "The symbolic interpretation of Intrudu as 'cleansing of sin' — the water-splashing practice and its timing (the Sunday before Ash Wednesday) is confirmed by The Star, but the cleansing/washing-away-of-sin meaning appears only in blog/social-media sources, not authoritative primary sources; needs to be confirmed or dropped."
   - "Kronologi pembinaan Perkampungan Portugis (kira-kira 28 ekar; 10 rumah menjelang awal 1930-an berkembang kepada kira-kira 60) bersumberkan ExpatGo (sekunder) — wajar disahkan silang dengan rekod kolonial/arkib."
   - "The estimate of 'fewer than 100 fluent speakers in Singapore' and the 'critically endangered' classification — confirm the reference year and the definition used by researchers."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

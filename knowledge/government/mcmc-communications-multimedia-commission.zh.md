@@ -42,14 +42,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Akta 588 特定条文分阶段实施的日期或年份——若要陈述具体年份，请从相关的 P.U.(B) 宪报核实（目前仅笼统提及而不含年份）。"
   - "目前负责 MCMC 的主管部门与部长名称（该职权曾多次改组）。"
   - "敏感度分类：考虑到网络／政治言论的背景，须斟酌互联网审查（Seksyen 3(3)）主题及Seksyen 233的执法是否应从「none」提升。"
   - "关于Seksyen 233执法的公众争议的句子——若要保留或详述，须有一手/权威来源支持。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

@@ -42,12 +42,12 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Struktur jabatan PDRM dalam jadual: sahkan terhadap carta organisasi rasmi terkini di rmp.gov.my (nama dan singkatan jabatan boleh berubah)."
   - "Tiga keutamaan PDRM bagi 2026 bersumberkan laporan Malay Mail (sumber berita sekunder); wajar disemak semula terhadap kenyataan rasmi PDRM."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

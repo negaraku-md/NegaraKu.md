@@ -39,14 +39,14 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "对照《联邦宪法》（Perlembagaan Persekutuan，Cetakan Semula 2020）马来文版本的印刷文本，核实 Perkara 4(1)、159(3)、159(4)、159(5) 及 161E(2) 的逐字引文——本文使用法定用语「tidak sah setakat ketidakselarasan itu」与「jumlah bilangan ahli」，而非翻译的意译。"
   - "在完全依赖马来文引文之前，请核实马来文权威文本在 Perkara 160B 下的地位（即国语文本何时被核准为权威文本）。"
   - "若要列出具体细节，须核实受Perkara 159(5)保护的条款清单，以及受Perkara 161E(2)保护的Sabah/Sarawak事项。"
   - "核实以下内部链接slug存在：/law/federal-constitution、/law/constitutional-amendment、/glossary/akta、/government/majlis-raja-raja、/glossary/yang-di-pertuan-agong。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

@@ -38,14 +38,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Exact section of the Income Tax Act 1967 under which crypto income is charged: the charging provision is s.3, while the Ministry of Finance's Aug 2025 statement refers to crypto income being taxed as business income under s.4 — confirm the precise citation for the article's framing."
   - "Whether the August 2025 Ministry of Finance statement changes the law or merely clarifies that existing service tax already applies to crypto trading-platform services, and the applicable service-tax rate and registration threshold."
   - "The current e-Invoice (MyInvois) phase, deadline and turnover threshold applicable to a specific crypto business — thresholds and dates are being revised (RM1 million exemption per latest IRBM guidance)."
   - "FIFO cost-basis tracking and the treatment of airdrops and hard-fork tokens as stated here are drawn from professional summaries of the LHDN guidelines; confirm against the current guideline text before relying on them."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null

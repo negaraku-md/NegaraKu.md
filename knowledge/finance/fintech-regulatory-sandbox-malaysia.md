@@ -38,11 +38,11 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "'More than 110 applications since 2016' reflects the figure as of the Feb 2024 enhanced framework (per fintechnews.my); confirm the latest cumulative count against BNM's own sandbox page (bnm.gov.my/sandbox) for currency."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

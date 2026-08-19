@@ -41,14 +41,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "NSRC 开始 24 小时运作的实际日期——The Star（2026 年 3 月）报道称其现已 24/7 运作，但未说明起始日期。"
   - "现任 CCID 主管的姓名与职级 — 在所引用的来源中未有说明。"
   - "银行业所拦截的RM780 juta数字是否涵盖2023–2024年合计期间（根据Bernama的表述）。"
   - "CCID的传真号码及任何联络方式的更新。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

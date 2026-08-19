@@ -43,11 +43,11 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "机构历史：该部门常被描述为约在1975年以环境组的形式起步，并于1983年9月1日升格为一个完整的部门。这些确切日期在0.2版更正中被删除，因为无法对照主要来源加以证实——DOE自家网站没有可提取的机构历史（愿景／使命页面仅以图片形式呈现）。如有需要，应由人工查找来源并重新加入这些日期。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null

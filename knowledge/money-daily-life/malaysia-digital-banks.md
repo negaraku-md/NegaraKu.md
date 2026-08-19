@@ -42,7 +42,7 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Tarikh GXBank dibuka kepada orang ramai — beta terhad kepada 20,000 pengguna pada 14 Nov 2023, pelancaran rasmi umum sekitar 30 Nov 2023; sahkan tarikh 'orang ramai penuh' yang hendak digunakan."
   - "Tarikh dan status pelancaran Boost Bank kepada orang ramai (dilaporkan beta Jan 2024, umum Jun 2024) — belum ada sumber utama dalam sources[]."
@@ -50,7 +50,7 @@ verificationNeeded:
   - "Kadar keuntungan/faedah (AEON 3.88%, Ryt sehingga 4% harian) adalah kadar pelancaran yang berubah dari semasa ke semasa — sahkan kadar semasa sebelum diterbitkan."
   - "Sahkan struktur konsortium/pemilik setiap bank kekal tepat pada tarikh terbitan."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null

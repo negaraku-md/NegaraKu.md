@@ -38,13 +38,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Rangka masa tepat dan syarat penyertaan penuh Timor-Leste (anggota ke-11, diterima 26 Oktober 2025) dalam kitaran pengerusian mengikut abjad."
   - "Pengesahan bahawa penyerahan pengerusian daripada Malaysia kepada Filipina berkuat kuasa tepat pada 1 Januari 2026."
   - "Kerangka sebab-akibat pelepasan giliran 2026 oleh Myanmar — sama ada dirujuk secara khusus kepada rampasan kuasa 2021 dan sekatan penyertaan ASEAN, atau kepada ketidakstabilan domestik yang lebih luas."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

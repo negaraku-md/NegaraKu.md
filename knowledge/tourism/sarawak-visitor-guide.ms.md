@@ -45,13 +45,13 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Ketinggian puncak Gunung Mulu: tapak taman itu sendiri bercanggah — mulupark.com/mulu-world-heritage-area/ menyatakan 2,376 m, halaman utama mulupark.com menyatakan 2,377 m. Draf menggunakan ~2,376 m; sahkan angka yang berautoriti."
   - "Kategori pengecualian MDAC: dakwaan khusus bahawa warganegara Singapura dan pemastautin tetap Malaysia dikecualikan tidak dapat disokong (halaman IMI mengembalikan hanya elemen navigasi laman). Sahkan senarai pengecualian semasa dengan Jabatan Imigresen Malaysia."
   - "Tempoh pemberian makan Semenggoh (~08:00–10:00, ~14:00–16:00) dan jarak ~24 km dari Kuching dipetik kepada semenggoh.my tetapi tidak disahkan semula secara bebas dalam pusingan ini."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null

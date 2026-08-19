@@ -39,12 +39,12 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "The NADOPOD 2004 reporting threshold (more than 4 days unable to work) — confirm against the official regulation text, not secondary guidance."
   - "Skop kewajipan Seksyen 16 (polisi keselamatan bertulis) dan sama ada terpakai ambang bilangan pekerja tertentu."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null

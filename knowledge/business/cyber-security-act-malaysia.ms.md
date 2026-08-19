@@ -38,13 +38,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Bahawa tempoh pemberitahuan awal 6 jam dan susulan 14 hari dinyatakan dalam Cyber Security (Notification of Cyber Security Incident) Regulations 2024, menurut perkataan peraturan itu sendiri."
   - "Bahawa kekerapan penilaian risiko tahunan dan audit dwitahunan berasal daripada Cyber Security (Period for Cyber Security Risk Assessment and Audit) Regulations 2024."
   - "Senarai rasmi semasa sektor NCII dan ketua sektor, dan sama ada sesuatu organisasi sememangnya telah ditetapkan."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null

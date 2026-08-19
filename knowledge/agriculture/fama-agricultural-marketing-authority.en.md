@@ -40,14 +40,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "The RM122 million sales figure (1 Sept–18 Oct 2021) and the breakdown of 368 locations are from a 2021 news report — not current data; confirm whether FAMA publishes more recent official figures before using them as current statistics."
   - "The listed location components (35 permanent farmers' markets, 266 farmers' markets, 19 fresh-fruit stalls, 5 Agrobazaar, 5 pasar tamu) add up to 330, not 368; the source itself reports this gap. The word 'including' signals a partial list — confirm the full breakdown with FAMA if an exact figure is needed."
   - "The exact number, locations and operating hours of the outlets (Pasar Tani Kekal, My Farm Outlet, Agrobazaar, GBBS) change from time to time; confirm at fama.gov.my on the publication date."
   - "The title, year of commencement and P.U.(A) reference of the subsidiary regulations should be re-checked against the official gazette text (not the FAMA website summary) before any legal use."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

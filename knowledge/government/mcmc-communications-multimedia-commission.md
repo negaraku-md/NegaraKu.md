@@ -41,14 +41,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Tarikh atau tahun pelaksanaan berperingkat seksyen tertentu Akta 588 — jika hendak menyatakan tahun spesifik, sahkan daripada warta P.U.(B) yang berkaitan (kini disebut secara umum tanpa tahun)."
   - "Nama kementerian dan menteri induk semasa yang bertanggungjawab bagi MCMC (portfolio pernah disusun semula beberapa kali)."
   - "Klasifikasi sensitiviti: pertimbangkan sama ada topik penapisan Internet (Seksyen 3(3)) dan penguatkuasaan Seksyen 233 wajar dinaikkan daripada \"none\", memandangkan konteks ucapan dalam talian/politik."
   - "Ayat mengenai perdebatan awam tentang penguatkuasaan Seksyen 233 — perlu disokong dengan sumber primer/berwibawa jika hendak dikekalkan atau diperincikan."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

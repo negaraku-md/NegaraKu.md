@@ -40,14 +40,14 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "The individual tax rates in Schedule 1 are cited from the text of Act 53 as at the 1 November 2023 reprint; confirm that no recent amendment changes the brackets or rates for the current assessment year."
   - "The list of zakat types considered 'obligatory' for rebate purposes (e.g. zakat on savings) depends on the interpretation of the state religious authorities and LHDN practice; confirm for the relevant state."
   - "Kedudukan medan zakat dalam antara muka e-Filing/MyTax semasa perlu disahkan dengan portal rasmi LHDN."
   - "Section 82A requires document retention for seven years to support taxable income; confirm the specific application to zakat rebate receipts with LHDN."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null

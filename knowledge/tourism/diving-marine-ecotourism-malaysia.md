@@ -39,7 +39,7 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Terengganu's marine-park island count: the DOF marine-park-management page groups Terengganu into archipelagos (Redang, Perhentian and neighbours) without stating a firm per-island figure; the state's exact island count should be confirmed against the gazette."
   - "Sipadan's daily permit quota (given as ~178 divers/day) is drawn from 2022 news reporting and is revised over time — reconfirm the current figure with Sabah Parks before publication."
@@ -47,7 +47,7 @@ verificationNeeded:
   - "The specific list of marine park conduct rules (no touching/collecting coral, no anchoring on reefs, no diving in boat-passage lanes) should be verified against the Department of Fisheries' published marine park regulations rather than a third-party tourism site."
   - "Sipadan dive-operation rules (two dives per day, 50 divers per site, ~7:00am–4:30pm window, one dive master per four divers) date from the 2022 revision — confirm they remain current."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null

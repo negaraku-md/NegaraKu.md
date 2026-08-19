@@ -40,14 +40,14 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Jadual 1中的个人税率引自截至2023年11月1日重印本的Akta 53文本；请核实没有任何近期修订更改了本课税年度的税级或税率。"
   - "就退税目的而言被视为「必须缴纳」的天课（zakat）类型清单（例如储蓄天课）取决于州宗教当局的诠释及 LHDN 的实务；请就相关州属核实。"
   - "天课字段在现行 e-Filing/MyTax 界面中的位置须向 LHDN 官方门户确认。"
   - "Seksyen 82A 要求保存文件七年以支持应课税收入；请向 LHDN 核实其对 zakat 回扣收据的具体适用。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null

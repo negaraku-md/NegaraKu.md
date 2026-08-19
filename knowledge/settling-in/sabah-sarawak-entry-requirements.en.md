@@ -42,12 +42,12 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Sensitivity classification: this topic touches on Sabah/Sarawak immigration autonomy within the MA63 framework (keyword 'MA63 immigration'). The content is neutral and non-advocacy, but a human should confirm whether the 'none' label is adequate or should be raised."
   - "The historical background in the section 'Why do Sabah and Sarawak have their own immigration control?' (the 1963 federation and the retention of entry-control powers) is general background information not tied to any of the four listed immigration procedure sources. Confirm and attach a constitutional/legislative source (e.g. the Immigration Act 1959/63 Part VII, or the Federal Constitution/MA63) before publishing."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null

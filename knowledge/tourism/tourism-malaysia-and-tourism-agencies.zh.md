@@ -38,12 +38,12 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Malaysia Tourism Centre (MaTiC) 的确切场地与城市：所引用的 MOTAC 页面列出一个布城地址（Presint 5, 62200 Putrajaya），这可能是部门总部页脚，而非游客中心的运营地点。在注明城市之前请核实。"
   - "Malaysia My Second Home（MM2H）当前的主管机构：它被列为MOTAC的一项计划，但据报其签证／居留的管理如今也涉及Ministry of Home Affairs／Immigration Department。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null

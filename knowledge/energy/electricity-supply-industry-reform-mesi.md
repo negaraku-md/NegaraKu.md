@@ -44,13 +44,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Exact establishment year of the ring-fenced Single Buyer (widely reported as 2012) — could not be confirmed against the Single Buyer's own site or the Energy Commission; the specific year has been removed pending a primary source."
   - "Exact date of Minister Shamsul Anuar Nasarah's parliamentary statement recommending a MESI 2.0 review — appears to be 21 July 2020 (a Tuesday during his KeTSA tenure), but The Edge article renders a dynamic date, so the byline could not be cleanly read; year retained as 2020."
   - "Formal establishment date and precise legal/organisational status of the Grid System Operator as a ring-fenced TNB unit — entity existence confirmed via its official site, but founding date is not documented in the cited sources."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

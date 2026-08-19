@@ -39,14 +39,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "SME Bank 的 2005 年成立年份：SME Bank 官方的「About Us」页面（smebank.com.my）对自动抓取返回 HTTP 403，因此该日期是通过搜索官方域名及 BNM 的 DFI 名录确认的，而非直接抓取页面。请在浏览器中对照实时页面核实。"
   - "DFIA (Amendment) Act 2015 的生效日期（2016 年 1 月 31 日）以及与 IFSA 2013 相一致的新 Part IIIA 伊斯兰教法要求：请对照联邦宪报或 BNM 的立法页面核实确切引用（BNM 立法页面对自动抓取返回 HTTP 403）。"
   - "两个 BNM 链接（dfi-overview 与 Act 618）对自动抓取返回 HTTP 403，尽管它们是真实的 BNM 页面；请在浏览器中验证它们能否打开。BNM DFI 的规范页面为 bnm.gov.my/index.php?ch=fs&pg=fs_mfs_dfi&ac=162。"
   - "2025 年 5 月 1 日的 BPMB Group 整合（EXIM Bank 与 SME Bank 成为 BPMB 子公司）及「逾 RM9 billion」的 Budget 2026 授权：发布前请对照 BPMB 现行新闻稿重新确认。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

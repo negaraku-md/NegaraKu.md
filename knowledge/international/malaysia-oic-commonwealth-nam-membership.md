@@ -39,13 +39,13 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Dakwaan Tunku Abdul Rahman sebagai Setiausaha Agung pertama OIC (mulai 1971) bergantung pada satu sumber sahaja (Yayasan Kepimpinan Perdana); sumber OIC/GlobaLex tidak mengesahkannya — sahkan dengan sumber OIC rasmi."
   - "Bilangan anggota semasa setiap pertubuhan (OIC 57, Komanwel 56, APEC 21 ekonomi) berubah dari semasa ke semasa — sahkan angka terkini di laman rasmi."
   - "Sumber Dasar Luar dihoskan di pmo.gov.my (Pejabat Perdana Menteri) walaupun footer PDF menyatakan 'Sumber: Kementerian Luar Negeri, Malaysia' — sahkan penerbit rasmi."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

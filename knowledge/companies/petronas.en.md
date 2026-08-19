@@ -43,7 +43,7 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "The exact 2024 financial figures (revenue ~RM320 billion, net profit ~RM55.1 billion, and the 2023 comparison of RM343.6 billion / RM80.7 billion) — confirm against the PETRONAS Group Financial Results FY2024 announced on 5 February 2025 (official PDF document)."
   - "Anggaran hasil 'sehingga RM20 bilion setahun' untuk Sarawak — anggaran penganalisis, bukan angka rasmi; sahkan sumber dan asas pengiraan."
@@ -51,7 +51,7 @@ verificationNeeded:
   - "Tarikh dan kandungan tepat perjanjian tambahan royalti 5% (1975-76) antara Petronas dan negeri-negeri."
   - "Status terkini rundingan dan sebarang tindakan undang-undang Petronas-PETROS selepas tarikh sumber (Mei 2025)."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null

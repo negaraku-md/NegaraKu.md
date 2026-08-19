@@ -38,12 +38,12 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Tempat dan bandar tepat Malaysia Tourism Centre (MaTiC): laman MOTAC yang dipetik menyenaraikan alamat Putrajaya (Presint 5, 62200 Putrajaya), yang mungkin nota kaki ibu pejabat kementerian dan bukan lokasi operasi pusat pelawat. Sahkan sebelum menyatakan sesebuah bandar."
   - "Pihak berkuasa pentadbir semasa bagi Malaysia My Second Home (MM2H): ia disenaraikan sebagai program MOTAC, tetapi pentadbiran visa/pemastautinnya dilaporkan kini turut melibatkan Kementerian Dalam Negeri / Jabatan Imigresen."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null

@@ -38,13 +38,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "MOF PPK FAQ used as the primary source is dated December 2020 — confirm the section 11 penalty (RM1m / 3 years), the named agency roster, and the two-year post-discharge rule are still current against the latest PPK publication or the Credit Reporting Agencies Act 2010 in force."
   - "Confirm the current list of agencies registered with PPK against the live Register of Credit Reporting Agencies (the article lists CTOS, FIS Data Reference, Credit Bureau Malaysia, Dun & Bradstreet Malaysia, Basis Corporation and RAMCI as of the Dec 2020 FAQ)."
   - "CTOS Score range (300–850) and the 45/20/14/14/7 factor weights reflect CTOS's published methodology at time of access — confirm CTOS has not revised the model."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

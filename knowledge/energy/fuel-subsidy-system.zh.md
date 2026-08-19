@@ -47,11 +47,11 @@ reviewer: null
 publishedBy: "ashton-tan"
 reviewed: "2026-08-14"
 reviewDue: 2027-08-14
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "sensitivity 分类按模板设定为「none」，但燃油补贴合理化是可能引发政治争论的政策议题；人工编辑应重新评估「none」是否恰当。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null

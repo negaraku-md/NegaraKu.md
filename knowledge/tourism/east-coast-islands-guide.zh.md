@@ -40,14 +40,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "前往各岛屿的码头出发点、航程时间与船票费用——所引用的 DOF 来源未涵盖船运信息；请向运营方或登嘉楼（Terengganu）／彭亨（Pahang）旅游局核实当前的大陆出发点与票价。"
   - "细致的水中规则清单（系泊浮标／抛锚的具体规定、水上运动限制、船只航道排除区）— DOF 的在线页面说明了主管法令，但未逐一列出这些；请对照 Establishment of Marine Parks Malaysia Order 1994 及现场 DOF 告示牌加以确认。"
   - "具体的东海岸岛屿究竟属于两海里还是一海里的海洋公园边界（DOF指出某些Terengganu岛屿属例外）。"
   - "季风季节的关闭日期因经营者与年份而异；在引用固定月份之前，请核实当季的时间安排。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null

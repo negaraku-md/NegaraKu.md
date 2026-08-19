@@ -38,11 +38,11 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "The centre's current official name: the UKM site uses both 'PERMATA@Pintar Negara' and 'GENIUS@Pintar Negara' (the history page is titled 'Sejarah Pusat GENIUS@Pintar Negara'). Confirm the latest official branding and update the title/entity if needed."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null

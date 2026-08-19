@@ -41,13 +41,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Angka 111 misi / 85 negara dan pecahan penuhnya (66 kedutaan, 18 suruhanjaya tinggi, 21 konsulat besar, 2 pejabat konsulat, 2 wakil tetap PBB, 1 wakil tetap ASEAN, 1 Pusat Persahabatan dan Perdagangan) disahkan terhadap teks halaman 'Malaysian Mission' Kementerian Luar Negeri rasmi melalui carian web; halaman sumber itu sendiri tidak dapat diambil mesin disebabkan ralat rantaian sijil TLS di kln.gov.my. Seorang manusia perlu membuka semula halaman MFA langsung dan mengesahkan nombor semasa, yang dikemas kini kementerian dari semasa ke semasa."
   - "Sama ada Certificate of Good Conduct dikeluarkan khusus melalui sistem e-Consular dalam talian (dan bukan sebagai perkhidmatan konsular di kaunter yang berasingan) tidak disahkan dalam sumber utama dan tuntutan itu telah dibuang; sahkan sebelum menambahnya semula."
   - "Perkhidmatan konsular berbeza mengikut misi (pejabat konsulat kecil mungkin menyalurkan pemprosesan pasport ke kedutaan penyelianya); sahkan skop bagi setiap wakil sebelum bergantung padanya."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

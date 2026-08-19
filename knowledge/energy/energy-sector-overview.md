@@ -42,14 +42,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Peratusan campuran janaan mengikut kawasan (Semenanjung 20.2% RE 2021, Sabah 79.3% gas, Sarawak 74% hidro) dan jumlah kapasiti >27 GW kini disandarkan kepada Global Legal Insights (penerbit panduan guaman komersial). Sahkan semula terhadap sumber statistik rasmi primer — Suruhanjaya Tenaga / Malaysia Energy Statistics Handbook (ST) — untuk artikel tier-1."
   - "Pentadbiran program Solar Skala Besar (LSS): teks menyenaraikan LSS di bawah SEDA, tetapi bidaan kompetitif LSS lazimnya diselia oleh Suruhanjaya Tenaga. Sahkan peranan tepat SEDA berbanding ST bagi LSS."
   - "Pembahagian tanggungjawab Labuan (ST mengawal selia; SESB membekal) dinyatakan tanpa petikan khusus tunggal; sahkan terhadap laman rasmi ST dan SESB."
   - "Angka tarif asas RP4 (45.40 sen sekWj, berbanding 45.62 sen diluluskan Disember 2024) dan potensi penurunan kos sehingga 19% — sahkan terhadap kenyataan rasmi ST/KeTSA selain laporan BERNAMA."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

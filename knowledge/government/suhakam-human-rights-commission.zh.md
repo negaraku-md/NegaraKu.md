@@ -43,11 +43,11 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "GANHRI 认证小组委员会（SCA）第 47 届会议重新确认 SUHAKAM「A」级地位的决议实际日期——2026 年 6 月 9 日是第 32-2026 号媒体声明（SUHAKAM 公告）的日期，而非经确认的 SCA 决议日期；请对照 SCA/GANHRI 官方报告核实会议日期。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

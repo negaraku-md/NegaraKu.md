@@ -39,12 +39,12 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "The Standing Order number underlying the referral of the Freedom of Information Bill 2026 to the Select Committee — the cited news source does not state the number, and Dewan Rakyat bill referrals are usually under Standing Order 54. Confirm against the Hansard / Official Record of the Dewan Rakyat."
   - "Sama ada bacaan kedua dan ketiga Rang Undang-Undang Kebebasan Maklumat 2026 telah dijadualkan atau selesai selepas peringkat Jawatankuasa Pilihan Khas."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

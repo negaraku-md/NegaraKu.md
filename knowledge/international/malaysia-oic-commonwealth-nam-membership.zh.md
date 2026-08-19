@@ -40,13 +40,13 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "关于Tunku Abdul Rahman为OIC首任秘书长（自1971年起）的说法仅依赖单一来源（Yayasan Kepimpinan Perdana）；OIC/GlobaLex的来源并未证实——须以OIC官方来源核实。"
   - "各组织的当前成员数量（OIC 57 个、英联邦（Komanwel）56 个、APEC 21 个经济体）会不时变动——请在官方网站核实最新数字。"
   - "外交政策来源托管于 pmo.gov.my（首相署），尽管 PDF 页脚写明「Sumber: Kementerian Luar Negeri, Malaysia」— 请确认官方发布方。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

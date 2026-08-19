@@ -41,12 +41,12 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "国家文学奖得主的累计人数（陈述为截至2026年共16位）；须核实在更新日期之后是否未有第17位得主获宣布。"
   - "国家文学奖（Anugerah Sastera Negara）奖金细节（现金 RM60,000，每月津贴 RM5,000）——请核实最新金额，因为其数额可能不时更新。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

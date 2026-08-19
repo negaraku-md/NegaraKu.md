@@ -38,7 +38,7 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "PAC 风险值：来源（The Edge node 745683）提及「多达一半资金」／约 RM5 bilion，占约 RM11.5 bilion AUM（2023）；请核实原始 PAC November 2024 报告的数字与脉络。"
   - "战略资产持股：存在两个数字（旧报告中的 62.9% 对比 2025 年 3 月访谈中的 56%）；草稿采用 56%——请核实当前正确的数字。"
@@ -46,7 +46,7 @@ verificationNeeded:
   - "现任首席执行员（Mohammad Ashraf Md Radzi）与主席（Jeneral (B) Tan Sri Azizan Ariffin）的姓名——须核实其是否仍在任。"
   - "BHIC的持股（在无法打开的搜索摘要中报告为约72.38%）已刻意未纳入；如有需要须核实并补充。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null

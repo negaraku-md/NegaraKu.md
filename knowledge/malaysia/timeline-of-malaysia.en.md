@@ -44,17 +44,17 @@ aiAssisted: true
 reviewer: "ashton-tan"
 published: 2026-08-18
 reviewDue: 2027-08-18
-version: "03.00"
+revision: 0
 revisions:
-  - version: "03.00"
+  - revision: 0
     date: 2026-08-18
     change: "Split the modern period into two eras and researched it through 2026 — the Mahathir decades, the five prime ministers since 2018, and Anwar Ibrahim's unity government."
     reviewer: null
-  - version: "02.00"
+  - revision: 1
     date: 2026-08-18
     change: "Rewrote as an era-narrative timeline linking the full history articles."
     reviewer: null
-  - version: "01.00"
+  - revision: 2
     date: 2026-08-18
     change: "Initial publication."
     reviewer: null

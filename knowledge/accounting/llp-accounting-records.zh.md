@@ -46,12 +46,12 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "在线呈交存档门户（MyLLP）的名称与程序——根据SSM最新官方指南核实当前门户及年度申报表呈交步骤。"
   - "由注册官（Pendaftar）设定的 Sdn Bhd 审计豁免标准（文章中仅作一般性引述）——若要加入具体数字，请核实当前的门槛。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null

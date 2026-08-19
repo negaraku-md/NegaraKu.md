@@ -41,13 +41,13 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "The official Malay rendering of the working paper title ('Malaysia: Melangkah Ke Hadapan'): the original text referenced is in English ('Malaysia: The Way Forward'). Confirm the official Malay title from the government archives."
   - "The average annual growth figure of 5.8% (1990-2018) comes from a media report (The Rakyat Post) citing World Bank data, not directly from an official World Bank release; confirm against official GDP growth data."
   - "The launch date and place (28 February 1991, the inaugural meeting of the Malaysian Business Council) were verified through the speech text and academic papers; confirm once more against the official Prime Minister's Department archive if available."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null

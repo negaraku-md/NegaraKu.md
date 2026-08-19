@@ -38,14 +38,14 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Pejabat Peguam Negara 所发布的 Pool Betting Act 1967 (Akta 384) 的完整马来文正式名称；本文使用「Akta Pertaruhan Kolam 1967」。"
   - "SPRM 2009 法令下除 Seksyen 16 及 17 以外相关罪行的确切范围（早前草稿中对 Seksyen 20-23 的引用因未对照法规文本核实而删除）。"
   - "FAM 代表六名遭终身禁赛球员向 AFC/FIFA 提出上诉的当前状态。"
   - "1994 年之后与操纵比赛相关的检控的确切数量与状态。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

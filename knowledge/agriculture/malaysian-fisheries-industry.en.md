@@ -45,13 +45,13 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "The estimated losses of RM3–6 billion and ~980,000 tonnes per year come from a 2019 Department of Fisheries statement (Malay Mail); confirm whether a more recent DOF estimate exists."
   - "The employment figure (149,630), licensed boats (48,605) and trade (imports RM7.34b / exports RM4.21b) refer to 2022 — confirm they are consistent with the latest DOF statistical report."
   - "Act A1601 also introduced a separate RM4 million fine ceiling for offences on the high seas; not included in the body of the article — consider whether it should be added."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

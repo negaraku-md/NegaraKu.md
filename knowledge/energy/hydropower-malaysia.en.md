@@ -42,12 +42,12 @@ reviewer: null
 publishedBy: "ashton-tan"
 reviewed: "2026-08-14"
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "The commissioning year of Temengor and the other Sungai Perak cascade plants — the cited TNB page states no year."
   - "Sama ada tahap sensitiviti wajar dinaikkan melebihi 'none' memandangkan fokus pada penempatan semula masyarakat peribumi."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null

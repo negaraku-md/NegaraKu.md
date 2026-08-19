@@ -39,14 +39,14 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Whether the Sarawak Chamber in Gunung Mulu National Park is the world's largest cave chamber (the superlative was removed from the intro pending a primary source; UNESCO's inscription page could not be fetched during this pass)."
   - "Whether major mosques, including the National Mosque (Masjid Negara), lend visitor robes free of charge (the 'free of charge' claim was softened to 'available to borrow')."
   - "The specific duration of East–West trade at the Straits cities: the '500 years' / 'nearly 500 years' figure was removed because it is not present in the cited GTWHI source; confirm against a primary UNESCO source before restoring any number."
   - "Inscription years for Kinabalu Park (2000), Gunung Mulu (2000), Melaka & George Town (2008), Lenggong Valley (2012) and Niah Caves (2024) are cited to the MOTAC FRIM page; a cross-check against the UNESCO World Heritage List is recommended."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null

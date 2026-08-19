@@ -38,13 +38,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "财团入围名单（三个集团及其成员与主导方）由 The Edge 报道，未经 MyHSR Corp 官方确认；在视为定案前请核实。"
   - "当前状态（内阁审议、私营领域主导模式、尚无 RFP）反映的是截至 2025 年 2 月的声明；请查看是否有更新的政府公告。"
   - "马来西亚七个车站的位置来自新闻报道；请对照 MyHSR Corp 的官方项目概览核实。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null

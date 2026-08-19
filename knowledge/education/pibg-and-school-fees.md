@@ -37,13 +37,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Tarikh kuat kuasa Peraturan-Peraturan Pendidikan (Persatuan Ibu Bapa-Guru) 1998 — sahkan terhadap Warta Kerajaan Persekutuan / P.U.(A) rasmi sebelum menyatakan tarikh tepat."
   - "Ketiga-tiga punca pendapatan PIBG yang dibenarkan — sahkan terhadap teks penuh Perlembagaan PIBG (SPI Bil. 4/2004)."
   - "Tarikh sebenar pemansuhan yuran khas berkuat kuasa (dinyatakan 'sejak 2008') — sahkan terhadap teks penuh SPI Bil. 13/2007."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null

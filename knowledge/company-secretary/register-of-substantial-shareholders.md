@@ -42,13 +42,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Confirm these figures against the current in-force text of the Companies Act 2016 at the date of use (check for any amendments after the 1.8.2022 reprint)."
   - "The RM10 inspection fee under section 144(2) is a statutory maximum ('or such lesser sum as the company requires'); confirm the company's own fee, which may be lower."
   - "The notification penalty is attributed to 'sections 137–139' as shorthand; each of sections 137, 138 and 139 carries its own subsection (5) offence provision (fine only, no imprisonment). Confirm this phrasing is acceptable for the intended audience."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null

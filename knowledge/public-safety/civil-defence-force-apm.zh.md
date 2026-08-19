@@ -39,13 +39,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "关于「1958 年——民防依联邦宪法 Jadual Kesembilan 成为常设要素」的说法：此句见于 APM 官方历史页面，但此宪法引用宜由人工审校者对照真正的联邦宪法文本重新查核。"
   - "JPAM -> APM更名的日期与宪报刊登（2016年9月1日生效）：已透过媒体报道（mStar）证实；如有官方Warta Kerajaan，须加以核实。"
   - "Kor SISPA及民防辅助队（CDA）计划的全称与当前状态。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

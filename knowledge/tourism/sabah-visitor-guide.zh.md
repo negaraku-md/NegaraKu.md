@@ -44,13 +44,13 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Sipadan每日252个许可证的配额以及每家度假村约6个许可证的分配——虽以确定数字陈述，但目前依据的是二手潜水新闻来源；发布前请直接向Sabah Parks核实。"
   - "Sepilok Orangutan Rehabilitation Centre 的入场费、相机收费及喂食时段——请在接近出行日期时向 Sabah Wildlife Department 核实当前的费率与时间表。"
   - "现行的 Sabah 社交访问准证期限、Document in Lieu of Internal Travel Document 的条件以及 Section 66 豁免——请向 Immigration Department of Malaysia 重新确认，因为准证规则会定期修订。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null

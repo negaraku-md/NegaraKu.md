@@ -37,13 +37,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Consortium shortlist (three groups, members and leads) is press-reported by The Edge, not officially confirmed by MyHSR Corp; confirm before treating as final."
   - "Current status (Cabinet review, private-sector-led model, no RFP yet) reflects statements up to Feb 2025; check for any newer government announcement."
   - "The seven Malaysian station locations come from press reporting; confirm against MyHSR Corp's official project overview."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null

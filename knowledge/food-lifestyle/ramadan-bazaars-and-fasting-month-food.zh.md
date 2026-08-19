@@ -40,14 +40,14 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Kampung Baru 的 Jalan Raja Alang 集市源自 1960 年代的说法——仅以二手报道（ANTARA）为来源；请以权威的历史／DBKL 来源核实。"
   - "具体的执法细节（透过 WhatsApp 追踪摊位销售及报警）——来源为 RTM；请核实其是否适用于 2026 年斋戒月 Ramadan 2026。"
   - "2026 年布城摊位租金 RM1,000——请以 Perbadanan Putrajaya 官方公告核实。"
   - "2026 年的地点数量（DBKL 9 处 / 小贩公会 32 处）——请核实其在发布日仍准确，因为该数字在斋月前可能变动。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

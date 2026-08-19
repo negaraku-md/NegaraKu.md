@@ -39,14 +39,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "大型水坝项目（Bakun、Murum）的社会与环境问题——原住民社群的重新安置及生态影响——在加入任何具体细节之前，需要另行取得主要来源。"
   - "据 RAM，Press Metal 约 40% 的贡献专指 2025 年上半年（1H 2025）；请核实最近期的数字。"
   - "Baleh的投产日期（2030年第四季）视建设进度而定；须以SEB最新动态核实。"
   - "产能与财务数字会随时间变化；须以SEB最新的年报及新闻稿核实。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

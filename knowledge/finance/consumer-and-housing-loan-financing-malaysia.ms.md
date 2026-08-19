@@ -40,14 +40,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Nilai SBR langsung dan BLR Hong Leong Bank (2.75% / 6.64% setahun setakat 14 July 2025) — sahkan terhadap laman kadar rujukan semasa yang diterbitkan bank sebelum bergantung padanya, dan semak sebarang perubahan OPR/SBR selepas tarikh itu."
   - "Slug URL BNM Monetary Policy Statement yang tepat bagi keputusan OPR 9 Julai 2025 (tapak BNM menyekat pengambilan automatik; kandungan disahkan melalui BERNAMA dan laporan sekunder)."
   - "Angka Hire Purchase Act 1967 (deposit minimum 10%, siling caj tempoh kadar rata 10%, peraturan mungkir dua ansuran berturut-turut, notis 21 hari, ambang perintah mahkamah 75%) — sahkan terhadap teks berkuat kuasa semasa Act 212 dan mana-mana peraturan subsidiari, kerana ini telah tertakluk pada pindaan."
   - "Bahawa angka 60% dalam contoh kerja hanyalah ambang keselesaan ilustrasi, bukan siling yang diterbitkan bank; siling DSR bank individu dan takrifan pendapatan tidak didedahkan secara umum."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

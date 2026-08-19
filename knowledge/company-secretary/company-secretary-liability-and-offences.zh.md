@@ -36,14 +36,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "PP lwn Khaeromze bin Ahmad案的确切控罪条文（据称为seksyen 364(2) Akta Syarikat 1965）——请对照SSM的官方媒体发布加以确认。"
   - "PP lwn Ho Woon Choon一案（Dataco Communications的秘书；Putrajaya上诉法院，2011年6月16日；Borang 24；seksyen 364(2) Akta Syarikat 1965）——请核实案件编号／官方法院判决报告。"
   - "SSM 关于「Common Offences Under Companies Act 2016」演示文档的规范 URL（目前引用自第三方转载的 cwca.com.my）；如有，请替换为 ssm.com.my 域名上的副本。"
   - "PP lwn Sandhiransegaran 案（Venus Polymer Sdn Bhd，监禁 5 年）出现在 SSM 的培训幻灯片中，但没有案件编号／法庭报告——未经独立核实，请勿再次引用。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null

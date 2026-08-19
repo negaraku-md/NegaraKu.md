@@ -40,14 +40,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "本文引用的 MFRS 10 段落编号——三要素控制测试（此处标示为 para 7）以及中间母公司豁免（此处标示为 para 4(a)）——请对照现行有效的 MASB 文本核实。"
   - "读者财政年度所适用的 MFRS 10 版本是否已纳入后续修订（例如 Annual Improvements）；本稿引用的是 BV2021 综合文本。"
   - "对照 SSM 目前公布的 Companies Act 2016，核实第 ss244、245、248、250、258 及 259 条关于事项与时限的确切措辞（撰稿期间源 PDF 无法机器读取）。"
   - "就 MBRS 2.0 的公布日期（26 Nov 2024）及分阶段推行日期，对照 SSM 本身的 MBRS 通告核实，因为目前引用的来源是专业事务所的摘要。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null

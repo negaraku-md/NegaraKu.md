@@ -41,11 +41,11 @@ reviewer: null
 publishedBy: "ashton-tan"
 reviewed: "2026-08-14"
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "The first-half electricity subsidy allocation and PADU operating costs were deliberately omitted because the primary sources could not be verified; add only if an official source is obtained."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null

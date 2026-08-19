@@ -44,14 +44,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Labuan FSA当前处理section 16申请的时间以及任何名称保留的保留期——未找到权威公布的数字；请向持牌的Labuan信托公司及Labuan FSA核实。"
   - "section 16 注册与 section 17 原则性批准的现行规定费用。"
   - "申请人的原属司法管辖区是否允许对外延续／迁册——这因司法管辖区而异，须逐案确认。"
   - "第 16、17 及 133 条的文本已对照 InvestMalaysia 与 Labuan FSA 公布的 Act 441 PDF 逐行核对；发布前请再对照最新的现行重印本核实。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null

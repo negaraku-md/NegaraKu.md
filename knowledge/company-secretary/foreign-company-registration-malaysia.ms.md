@@ -42,11 +42,11 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Sama ada aktiviti terancang tertentu sebenarnya terjumlah kepada 'menjalankan perniagaan' di bawah section 561(3) bagi entiti berkenaan."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null

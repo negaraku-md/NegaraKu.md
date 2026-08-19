@@ -37,14 +37,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Confirm the 10% service charge is still the prevailing market rate and that it remains unregulated by government."
   - "Confirm the attribution and exact wording of the former Deputy Finance Minister's remark that the service charge is not compulsory 'as it is a tip' — this reaches us through secondary reporting (The Edge Malaysia), not a primary transcript."
   - "The '++' vs 'nett' menu-notation convention is described from common Malaysian practice and is not backed by an authoritative citation; a human should confirm before relying on it."
   - "The statement that a displayed service charge is 'customarily paid as part of the bill' reflects social custom, not a legal obligation — verify the framing."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

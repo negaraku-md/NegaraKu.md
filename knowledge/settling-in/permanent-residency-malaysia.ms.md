@@ -43,14 +43,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Sama ada pembaharuan laluan pasangan 2025 (perkahwinan 3 tahun + LTSVP 1 tahun, ujian mata dimansuhkan, pemprosesan ~6 bulan, pelaksanaan menjelang akhir September 2025) benar-benar dilaksanakan seperti yang diumumkan; rakam keperluan operatif semasa terus daripada Imigresen/MOHA."
   - "Panjang senarai semak dokumen PR pasangan Family Frontiers semasa yang tepat (dinyatakan di sini sebagai kira-kira empat belas butiran)."
   - "Bahawa yuran Entry Permit RM120 dan yuran Residence Pass RM500/5 tahun masih terkini pada jadual yuran aktif imi.gov.my."
   - "Bahawa ujian berasaskan mata telah dimansuhkan hanya bagi pasangan asing manakala penilaian merit masih terpakai kepada kategori lain — sahkan skop dengan sumber primer Imigresen/MOHA."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null

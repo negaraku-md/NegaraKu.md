@@ -43,13 +43,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Pengecualian cukai perkhidmatan (SST) bagi fi pembrokeran / dagangan sekuriti ke atas saham tersenarai Bursa — sahkan pengecualian masih semasa terhadap FAQ SST Bursa Malaysia terkini / panduan Kastam Diraja Malaysia (MySST), memandangkan perluasan SST Oktober 2025 ke atas perkhidmatan kewangan."
   - "Keperluan dokumen Bursa Anywhere (MyKad depan dan belakang, serta penyata bank atau buku akaun) dan kedudukan tanpa yuran — sahkan terhadap aliran aplikasi langsung, yang boleh berubah."
   - "Pengedaran Bursa Anywhere (Apple App Store dan Google Play) — sahkan ketersediaan semasa; penyenaraian gedung dan halaman Bursa Assist menyekat bot terhadap capaian automatik, jadi angka di sini disahkan daripada tajuk dan petikan hasil carian dan bukannya capaian halaman penuh."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

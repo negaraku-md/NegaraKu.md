@@ -40,14 +40,14 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Nama tepat (verbatim) tiga tunjang Kertas Putih Pertahanan — Pencegahan Sepusat (Concentric Deterrence), Pertahanan Menyeluruh (Comprehensive Defence) dan Perkongsian Boleh Dipercayai (Credible Partnerships) — perlu disahkan terus daripada dokumen Kertas Putih Pertahanan; laman pendaratan MINDEF yang dirujuk memaparkan label berbeza."
   - "Ketersediaan salinan rasmi .mil.my (legal.airforce.mil.my) bagi Akta 77 — kembali HTTP 503 semasa semakan; portal AGC digunakan sebagai sumber rasmi utama."
   - "Senarai pemegang jawatan semasa Ahli Majlis Angkatan Tentera dan pegawai kanan MINDEF perlu disemak kerana ia berubah dari semasa ke semasa."
   - "Butiran program latihan warganegara/khidmat negara semasa (jika ada) perlu disahkan daripada sumber dasar terkini sebelum sebarang angka disebut."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

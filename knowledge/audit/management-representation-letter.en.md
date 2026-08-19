@@ -38,12 +38,12 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Confirm that the version of ISA 580 referenced (IAASB Handbook 2012) still matches the latest ISA 580 in force in Malaysia, including the numbering of paragraphs 4, 7, 9, 10, 11, 13, 14, 15, 17, 20, A2, A5, A6."
   - "Sahkan status semasa penerimaan ISA tanpa pengubahsuaian oleh AASB/MIA (rujukan profil IFAC Malaysia) dan sama ada Audit Oversight Board (AOB) turut relevan untuk entiti kepentingan awam."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null

@@ -41,12 +41,12 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "须确认Malaysian Institute of Accountants（MIA）所采纳的ISA 550，在所有引用的段落（paras 2, 10, 13, 14, 15, 18, 23, 24, 26, 27）上与IAASB原文逐字一致。"
   - "确认IFAC托管的ISA 550手册PDF仍然有效；若失效，则改用IAASB出版物页面或当时最新的IAASB Handbook册。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null

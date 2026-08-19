@@ -50,13 +50,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "FAM 的确切成立日期／年份——各来源在 1926 年与 1933 年之间存在分歧；在获得第一手来源之前，正文中保持含糊表述。"
   - "吉隆坡三连霸 Malaysia Cup 冠军的确切年份（此处给出为 1987–1989）——所引用来源证实吉隆坡是最后一支连续三次夺冠的球队，但并未明确锁定确切年份。"
   - "HMS Malaya 资金的确切性质（公众／马来联邦对该皇家海军军舰的捐献）——请对照海军或历史的主要来源核实。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

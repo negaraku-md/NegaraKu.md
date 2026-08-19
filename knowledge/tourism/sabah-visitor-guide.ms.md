@@ -44,13 +44,13 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Kuota permit harian Sipadan sebanyak 252 dan peruntukan ~6-permit-setiap-resort — dinyatakan sebagai angka tetap tetapi kini bergantung pada sumber berita menyelam sekunder; sahkan secara langsung dengan Sabah Parks sebelum penerbitan."
   - "Fi masuk Sepilok Orangutan Rehabilitation Centre, caj kamera dan waktu sesi pemakanan — sahkan kadar dan jadual semasa dengan Sabah Wildlife Department menghampiri tarikh perjalanan."
   - "Tempoh pas lawatan sosial Sabah semasa, syarat Document in Lieu of Internal Travel Document dan pengecualian Section 66 — sahkan semula dengan Jabatan Imigresen Malaysia, kerana peraturan pas disemak semula secara berkala."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null

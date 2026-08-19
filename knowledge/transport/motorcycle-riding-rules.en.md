@@ -38,7 +38,7 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "The official gazette code 'P.U. (A) 43/1973' for the Motorcycles (Safety Helmets) Rules 1973 — the name and contents of the rules are confirmed through opened secondary sources, but the P.U.(A) code itself has not been confirmed against the primary Federal Gazette text."
   - "Tahun sebenar lorong motosikal Lebuhraya Persekutuan dibina — KKR menyebut 1977 manakala Free Malaysia Today menyebut 'awal 1970-an'. Perlu disahkan terhadap rekod JKR/LLM."
@@ -46,7 +46,7 @@ verificationNeeded:
   - "The revision of the MS 1 standard in force (the source mentions MS 1:2011); confirm the current mandatory version."
   - "Sama ada slug relasi 'road-transport-act-1987' wujud dalam korpus."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null

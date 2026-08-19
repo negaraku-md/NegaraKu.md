@@ -38,14 +38,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Sama ada Bursa Carbon Exchange mengehadkan penyenaraian kepada projek yang dikeluarkan Verra dari 2016 dan seterusnya (dakwaan dikeluarkan sementara menunggu sumber utama BCX/Bursa Malaysia; halaman About BCX yang dipetik tidak menyatakannya)."
   - "Senarai dan bilangan semasa projek asal Malaysia yang disenaraikan pada BCX (cth. Kuamut Rainforest Conservation Project), dengan sumber berwibawa bertarikh (dakwaan dibuang sementara menunggu pengesahan)."
   - "Tarikh pembentangan tepat dan status National Climate Change Bill (The Edge melaporkan ia dijangka dibentangkan pada Julai 2026)."
   - "Sama ada cukai karbon kekal ditangguhkan selepas Climate Change Bill dibentangkan, dan status rasmi terkini daripada NRES / Kementerian Kewangan."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null

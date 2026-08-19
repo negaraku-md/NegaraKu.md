@@ -39,11 +39,11 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "'Lebih daripada 110 permohonan sejak 2016' mencerminkan angka setakat rangka kerja dipertingkat Feb 2024 (menurut fintechnews.my); sahkan kiraan kumulatif terkini terhadap halaman sandbox BNM sendiri (bnm.gov.my/sandbox) untuk kekinian."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

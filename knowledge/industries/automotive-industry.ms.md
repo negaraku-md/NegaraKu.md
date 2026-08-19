@@ -46,12 +46,12 @@ reviewer: null
 publishedBy: "ashton-tan"
 reviewed: "2026-08-14"
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Peratusan pegangan saham minoriti Perodua yang tepat (Daihatsu Motor, PNB, Daihatsu Malaysia, Mitsui) — hanya pegangan 38% UMW dan kepentingan bersekutu 20% MBM Resources yang boleh disahkan daripada pendedahan syarikat tersenarai; pecahan Daihatsu/PNB/Mitsui hanya muncul dalam kompilasi sekunder, bukan dalam mana-mana sumber utama yang boleh diakses."
   - "Butiran Perodua QV-E melebihi pengumuman pelancaran, termasuk terma harga Battery-as-a-Service dan kos pajakan bateri."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null

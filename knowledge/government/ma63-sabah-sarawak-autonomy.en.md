@@ -40,7 +40,7 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "The actual date and occasion of the announcement of the increase in the interim special grant to RM600 million (the original draft mentioned 12 September 2024) — the cited Bernama source confirms the RM600 million amount, effective 2025, and a five-year review cycle, but does not confirm that specific announcement date."
   - "The breakdown of the 13 resolved claims by administration (reported by the media as 9 under the MADANI government and 4 previously) — not confirmed in the primary Bernama source cited for the 13/29 tally, so the breakdown was removed from the text."
@@ -49,7 +49,7 @@ verificationNeeded:
   - "Tarikh 8 September 2022 (MKMA63 menyokong 35 peratus kerusi) serta pecahan 78/56 kerusi — dipetik daripada Bernama tetapi belum disemak semula dalam pusingan pembetulan ini."
   - "The full content of Act A1642 (the definition of 'Malaysia Day' in Article 160 and the amendment to Article 161A) — confirm with the text of the Act at lom.agc.gov.my."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

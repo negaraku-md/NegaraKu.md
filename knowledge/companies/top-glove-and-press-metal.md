@@ -41,11 +41,11 @@ reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-08-03
 publishedBy: "ashton-tan"
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "The characterisation of Press Metal's production costs as 'first quartile of the global cost curve' — sourced only to the 2019 RAM note; confirm it still holds."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null

@@ -40,7 +40,7 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Kiraan pulau taman laut Terengganu: halaman pengurusan taman laut DOF mengumpulkan Terengganu ke dalam kepulauan (Redang, Perhentian dan sekitarnya) tanpa menyatakan angka setiap pulau yang tetap; kiraan pulau tepat negeri itu harus disahkan terhadap warta."
   - "Kuota permit harian Sipadan (diberikan sebagai ~178 penyelam/hari) diambil daripada laporan berita 2022 dan disemak semula dari masa ke masa — sahkan semula angka semasa dengan Sabah Parks sebelum penerbitan."
@@ -48,7 +48,7 @@ verificationNeeded:
   - "Senarai khusus peraturan tingkah laku taman marin (tidak menyentuh/mengutip batu karang, tidak berlabuh di terumbu, tidak menyelam di lorong laluan bot) perlu disahkan terhadap peraturan taman marin yang diterbitkan oleh Department of Fisheries dan bukannya tapak pelancongan pihak ketiga."
   - "Peraturan operasi menyelam Sipadan (dua selaman sehari, 50 penyelam setiap tapak, tempoh ~7:00am–4:30pm, seorang dive master bagi setiap empat penyelam) bertarikh daripada semakan 2022 — sahkan ia kekal semasa."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null

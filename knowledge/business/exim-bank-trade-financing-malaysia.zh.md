@@ -38,14 +38,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Trade Credit Takaful/Insurance 当前的定价、资格条件及承保上限（在依据 90%/95% 的数字之前，请对照最新的 Product Disclosure Sheet 核实）。"
   - "EXIM Bank 优先拓展的具体海外市场——来源页面泛称「非传统市场」，未点明具体地区。"
   - "ECR 装运前（120 天）与装运后（183 天）的期限及免抵押条款，这些可能会定期更新。"
   - "EXIM Bank 的伊斯兰银行窗口牌照详情，以及其在 2025 年 5 月 1 日之后并入 BPMB 集团的情况。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null

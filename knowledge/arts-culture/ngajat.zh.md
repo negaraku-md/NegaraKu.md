@@ -39,14 +39,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "原住民群体实体链接：关系「related-to → orang-asli」已因错误而移除（Iban 族属于 Dayak／砂拉越原住民 Orang Asal Sarawak，而非半岛的 Orang Asli）。请核实是否存在合适的 Dayak／砂拉越原住民 Orang Asal Sarawak 实体页面可供替换。"
   - "16 世纪的起源被 ICHLinks 记载为传统信念（「strongly believed」），而非经证实的历史年代。请将其确认为社群信念。"
   - "臼重达 20 kg（Ngajat Lesong）是 JKKN 对舞蹈动作的描述性说明，而非标准量度。请核实此数字。"
   - "ICHLinks（MACPA）的贡献者署名是从该页面直接读取的。须直接对照ICHLinks记录核实贡献者署名的措辞。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

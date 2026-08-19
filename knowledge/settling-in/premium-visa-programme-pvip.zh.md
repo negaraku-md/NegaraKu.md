@@ -45,14 +45,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "收入测试替代方案的确切净资产门槛（次要来源引述约 RM1 billion；请对照现行官方 PVIP FAQ 加以确认）。"
   - "参与者上限的确切数字（如有）（较早的报道提及一个与人口挂钩的上限；请向Immigration Department确认当前数字）。"
   - "六个月的存款提取窗口期、净资产／境内收入的替代方案以及RM50,000的10年家属选项被二手来源描述为2026年的修订——请在PVIP官方材料上确认它们仍然有效。"
   - "推出日期（2022 年 9 月 1 日宣布；自 2022 年 10 月 1 日开放）以及移民局委任代理的当前名单。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null

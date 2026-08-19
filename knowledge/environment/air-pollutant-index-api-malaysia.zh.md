@@ -39,12 +39,12 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "在所引用的两份 JAS PDF 中并未特别点名哮喘（来源提到年长者、孕妇、儿童及心肺并发症）。此处提及哮喘是编辑推断将其归为肺部状况 — 请以 JAS 官方健康建议来源加以确认。"
   - "紧急级别（>500）在JAS官方量表上未被赋予单独的颜色（颜色仅定义到「危险」级别）。在为此级别设定颜色之前，请确认是否存在一个官方颜色。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null

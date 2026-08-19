@@ -42,14 +42,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Whether SPNB's role (appointed by the Ministry of Finance in 2001 as a recovery agent) remains an active mechanism for reviving abandoned projects today, given that SPNB was placed under KPKT's control from 3 August 2018."
   - "The exact interaction between the status confirmation by the Housing Controller and the declaration of abandonment by the Minister under Section 11(1)(a) of Act 118 — confirming the correct statutory actor."
   - "The exact section number for the penalty for non-compliance with a Tribunal award (referred to as 16AD in some sources) and confirmation of the provision for full refund within 30 days."
   - "The exact wording of the penalty for the abandonment offence under Section 18A versus the updated consolidated text of Act 118 (2011 amendment)."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null

@@ -41,9 +41,9 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 verificationNeeded:
   - "Lawyer's review of the legal-scope statement that the good-faith protection under section 266(10) is limited to subsection (9) reports and is not expressly stated for subsection (8) reports."
-version: "01.00"
+revision: 0
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null

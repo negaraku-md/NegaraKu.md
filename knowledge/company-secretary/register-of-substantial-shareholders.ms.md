@@ -43,13 +43,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Sahkan angka-angka ini terhadap teks Companies Act 2016 yang berkuat kuasa semasa pada tarikh penggunaan (semak sebarang pindaan selepas cetakan semula 1.8.2022)."
   - "Fi pemeriksaan RM10 di bawah section 144(2) adalah maksimum statutori ('atau apa-apa jumlah yang lebih rendah sebagaimana yang dikehendaki syarikat'); sahkan fi syarikat sendiri, yang mungkin lebih rendah."
   - "Penalti pemberitahuan dikaitkan dengan 'seksyen 137–139' sebagai singkatan; setiap seksyen 137, 138 dan 139 membawa peruntukan kesalahan subseksyen (5) tersendiri (denda sahaja, tanpa pemenjaraan). Sahkan bahawa perkataan ini boleh diterima untuk khalayak yang dituju."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null

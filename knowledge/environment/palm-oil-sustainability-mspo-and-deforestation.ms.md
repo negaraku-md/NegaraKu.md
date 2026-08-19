@@ -43,14 +43,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Angka Budget 2025 bagi sokongan MSPO: amaun ringgit khusus (sebelum ini RM65j jumlah / RM50j untuk pensijilan / RM15j untuk kerja anti-kempen) telah dibuang kerana tiada sumber yang dipetik menyokongnya. Sahkan semula terhadap dokumen rasmi Budget 2025 atau kenyataan MPOB/Kementerian sebelum memulihkan sebarang angka."
   - "Dakwaan pembaharuan lesen hiliran (MPOB Licensing Enforcement Circular 02/2025, rujukan piawai MS2530-4-3:2022, dan tarikh berkuat kuasa 1 Januari 2026) kini bergantung pada blog perundingan pematuhan, bukan sumber utama MPOB. Sahkan nombor pekeliling, kod piawai dan tarikh berkuat kuasa terhadap pekeliling rasmi MPOB."
   - "Selaraskan 'lebih daripada setengah juta pekebun kecil' Menteri dengan angka 210,891 bagi pekebun kecil bebas berlesen — ini nampaknya mengira populasi yang berbeza (semua pekebun kecil berbanding pekebun bebas berlesen)."
   - "Perkataan EU: kenyataan bersama EEAS menggunakan 'credible sustainability scheme'; kenyataan akhbar MSPO menggunakan 'credible sustainability standard'. Sahkan frasa yang diutamakan."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null

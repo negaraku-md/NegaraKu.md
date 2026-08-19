@@ -38,7 +38,7 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "八打灵再也（Petaling Jaya）月租停车费（据报每月 RM100）——当前 MBPJ Setel 网站未予证实；重新陈述前须向 MBPJ 直接核实。"
   - "MyGov ePBT 门户是否已成为查询 DBKL 停车罚单的官方渠道——Malay Mail 报道有提及，但未列于 DBKL 官方网站（该网站仅列出 MySMS 15888、PAY@KL 与柜台）。"
@@ -47,7 +47,7 @@ verificationNeeded:
   - "购物中心的泊车费率（Suria KLCC、Pavilion KL、NU Sentral）——经常变动；须在入口处核实。"
   - "DBKL路边分区的执法时间与费率——须在DBKL官方网站上核实最新版本，因费率可能会更新。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null

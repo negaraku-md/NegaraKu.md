@@ -38,14 +38,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "请确认 10% 的服务费仍是市场通行费率，且仍未受政府监管。"
   - "请确认前财政部副部长关于服务费并非强制、「因为它是小费」这一言论的出处与确切措辞——此内容是经由二手报道（The Edge Malaysia）而非一手记录传达给我们的。"
   - "菜单标注中「++」与「nett」的惯例是根据马来西亚常见做法描述的，并无权威引证支持；依赖之前应由人工核实。"
   - "关于所标示服务费「按惯例作为账单的一部分支付」的说法反映的是社会习俗，而非法律义务——请核实这一表述。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

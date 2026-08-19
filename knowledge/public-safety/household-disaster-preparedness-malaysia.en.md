@@ -43,14 +43,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "The figure of 8,481 PPS / capacity of 2,158,743 victims comes from the JKM readiness statement for the 2024/2025 Northeast Monsoon (BuletinTV3, Nov 2024) — confirm the equivalent figures for the 2025/2026 season."
   - "The 4,619 flood-prone areas, 543 sirens and 737 mobile pumps are cited from a NADMA statement of October 2024 — confirm the latest totals for 2025/2026."
   - "The BWI total of RM78.342 million to 78,342 heads of household is the position as at 21 January 2026 — update to the final season total when available."
   - "Confirm the current BWI application and payment mechanism (MyIBJKM / EFT / BSN counter) at the time of publication."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

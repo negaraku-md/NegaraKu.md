@@ -45,12 +45,12 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "The reference to subsidiary orders under the Trade Descriptions Act 2011 (the definition of halal and halal certification and marking) — confirm the exact title and content against the official legislative text before restating it specifically."
   - "The fees, validity periods and procedures are taken from the Malaysia Halal Certification Procedure Manual (Domestic) 2020 — confirm the latest figures through the MYeHALAL system, as JAKIM updates the manual from time to time."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null

@@ -38,13 +38,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Kenyataan bahawa siasatan polis 'masih berjalan' dan destinasi data eksport 'belum dikenal pasti' setakat laporan Audit dibentangkan — konsisten dengan konteks CodeBlue tetapi belum disahkan perkataan demi perkataan."
   - "The details of 'nearly 500 clinics upgraded in two years' and '20 more hospitals expected to follow this year' — Media Selangor figures attributed to Dr Vivek Jason Jayaraj; confirm against an official KKM statement."
   - "Frasa pembangun bertindak sebagai 'operator platform' — sahkan petikan tepat Khairy Jamaluddin (Mac 2022)."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

@@ -41,14 +41,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Penamaan kawasan utama berbeza merentas sumber rasmi dan nasihat undang-undang (cth. 'Johor Bahru Waterfront' berbanding 'Johor Bahru City Centre'; 'Kulai–Sedenak' berbanding 'Sedenak'). Sahkan perkataan kerajaan yang muktamad sebelum penerbitan."
   - "Tiada sumber awam yang memberikan peranan sektor/sauh tertentu kepada setiap kawasan utama individu; insentif 'buatan khas' setiap kawasan utama tidak diperincikan pada masa penulisan. Sahkan sebaik sahaja garis panduan insentif khusus setiap kawasan utama diterbitkan."
   - "Angka pelaburan (RM30.1 bilion S1-2025; RM76.98 bilion diluluskan dengan ~57% terlaksana) berpunca daripada kemas kini Kementerian Ekonomi Julai 2026 yang dilaporkan oleh The Star; sahkan terhadap kenyataan kementerian itu sendiri."
   - "Tarikh mula 'April 2025' Singapore JS-SEZ Project Office dan tarikh operasi 'February 2025' IMFC-J harus disahkan semula terhadap sumber utama MTI/EDB dan IRDA."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

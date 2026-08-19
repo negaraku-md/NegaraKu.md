@@ -69,9 +69,9 @@ translationStatus: "master"
 status: "draft"
 aiAssisted: true
 reviewer: null
-version: "0.1"
+revision: null
 revisions:
-  - version: "0.1"
+  - revision: 0
     date: ${TODAY}
     change: "Initial AI draft."
     reviewer: null
@@ -123,7 +123,7 @@ RULES:
 3. Every remaining hard figure MUST have a matching fetched source in sources[]; otherwise remove or soften it.
 4. Keep EXACT frontmatter format and: status "draft", reviewer null, aiAssisted true, tier "${r.tier}", sensitivity "${r.sens}", lang "${r.master}", masterLanguage "${r.master}", translationStatus "master". Keep the article in ${lang}.
 5. Add frontmatter verificationNeeded: (YAML list) for anything a human should still confirm.
-6. Bump version to "0.2" and append a revisions entry: { version "0.2", date ${TODAY}, change "Correction pass: <one line>", reviewer: null }.
+6. Append a revisions entry: { revision 1, date ${TODAY}, change "Correction pass: <one line>", reviewer: null } (revision is a 0-based index; leave the top-level `revision` slot unchanged until publish).
 ${r.tier === 'S' ? '7. Ensure strictly neutral, descriptive framing throughout.' : ''}
 
 Return the corrected full .md, a short changelog, and any remaining_flags.

@@ -43,13 +43,13 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "JHEOA更名（1963年）及JAKOA更名（2011年生效）的日期以及现任主管部门——请对照最新官方来源（JAKOA的历史页面／政府宪报）核实。"
   - "Semai 作为最大族群之一、Orang Kanaq 作为最小族群之一的地位（就各具体族群层面而言）——DOSM 的报告仅按族群大类（Senoi/Melayu-Proto/Negrito）提供细分，而非每个具体族群的人数。"
   - "所引用的 Seksyen 3 文本是 Jabatan Peguam Negara 译本的重印本（包含截至 1 Januari 2006 的修订）；出版前请对照最新的现行有效版本核实。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

@@ -39,13 +39,13 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "将 TH 归类为「GLIC」（Government-Linked Investment Companies，政府关联投资公司）之一，以及「主要机构投资者之一」——在发布前请对照财政部或其他权威来源的官方 GLIC 名单／定义核实。"
   - "与 Bank Islam Malaysia 及 Syarikat Takaful Malaysia Keluarga 的策略性持股关系——请对照 TH／相关公司的官方财务报表确认当前状态及持股百分比（若有），并考虑到 BIMB 集团于 2023 年的重组。"
   - "2018-2019 年治理与重组部分（敏感话题）——需要人工编辑审核，并直接参照 RCI 报告的官方文本及相关方的声明。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null

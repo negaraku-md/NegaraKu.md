@@ -39,14 +39,14 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Confirm the verbatim quotations of Article 4(1), 159(3), 159(4), 159(5) and 161E(2) against the printed text of the Federal Constitution (2020 Reprint) Malay-language version — this article uses the legal phrases 'tidak sah setakat ketidakselarasan itu' and 'jumlah bilangan ahli', not a translated paraphrase."
   - "Sahkan kedudukan teks sah bahasa Melayu di bawah Perkara 160B (bila teks kebangsaan diperakukan sebagai teks sah) sebelum menyandarkan petikan Melayu kepadanya sepenuhnya."
   - "Confirm the list of provisions protected by Article 159(5) and the Sabah/Sarawak matters protected by Article 161E(2) if specific details are to be listed."
   - "Confirm that the internal link slugs exist: /law/federal-constitution, /law/constitutional-amendment, /glossary/akta, /government/majlis-raja-raja, /glossary/yang-di-pertuan-agong."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

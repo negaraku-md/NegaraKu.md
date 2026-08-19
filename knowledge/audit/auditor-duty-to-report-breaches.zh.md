@@ -41,9 +41,9 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 verificationNeeded:
   - "由律师复核关于法律范围的陈述，即seksyen 266(10)的善意保护仅限于subseksyen (9)的报告，而未明文涵盖subseksyen (8)的报告。"
-version: "01.00"
+revision: 0
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null

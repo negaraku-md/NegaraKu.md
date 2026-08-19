@@ -45,13 +45,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "MD2030的启动地点（「在Putrajaya」，2026年6月29日）及执行机构的完整名单（NAIO、GovTech Malaysia/JDN、MDEC、CyberSecurity Malaysia、MyDIGITAL Corporation、MyCentre4IR）目前透过Malay Mail的报道获证实；须在MD2030官方文件发布时交叉核对。"
   - "MD2030的主要目标（500,000个就业机会、节省RM4.5 bilion、95%服务在线化）目前依据Malay Mail的报道——须根据MD2030官方行动计划核实。"
   - "原始 Blueprint 中的 2030 年子目标（85% 端到端整合、50,000 项知识产权、5 家总部设于马来西亚的独角兽企业、2,500 所 My Digital Maker 冠军学校）——请对照 Blueprint PDF 中的相关页面核实。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

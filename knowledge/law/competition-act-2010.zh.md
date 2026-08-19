@@ -43,7 +43,7 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "未来的合并管制制度是否明确与第 13 个马来西亚计划（2026-2030）挂钩。本轮无法对照任何可引用来源确认与 13MP 的关联，因此已将该归属弱化为「未来立法或附属法规」。"
   - "被引用为 Section 10 下市场支配地位一般指标的 60% 市场份额数字。"
@@ -51,7 +51,7 @@ verificationNeeded:
   - "家禽饲料案的具体细节：违规期间为 2020 年 1 月至 2022 年 6 月、RM415.5 million 的罚款，以及 Competition Appeal Tribunal 于 2026 年 2 月 11 日驳回上诉。"
   - "RM667.3 million／270家公司的累计数字是副部长Fuziah Salleh就2012年至2026年7月期间陈述的某一时点数据；日后再次刊载前须确认其仍为最新。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null

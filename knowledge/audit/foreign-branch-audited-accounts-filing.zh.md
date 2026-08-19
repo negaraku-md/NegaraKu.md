@@ -39,11 +39,11 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "请核实客户专属的日期：分行的财政年度结束日及股东年会（AGM）日期，这两个日期决定了 s.575(1) 下的两个月提交期限。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null

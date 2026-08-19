@@ -39,12 +39,12 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Asthma is not specifically named in either of the two JAS PDFs referenced (the sources mention the elderly, pregnant women, children and heart/lung complications). The reference to asthma here is an editorial inference as a lung condition — confirm with an official JAS health advisory source."
   - "The Emergency band (>500) is not given a separate colour on the official JAS gauge (colours are defined only up to Hazardous). Confirm whether an official colour exists for this band before assigning one."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null

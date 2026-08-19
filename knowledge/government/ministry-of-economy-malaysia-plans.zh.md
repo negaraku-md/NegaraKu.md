@@ -44,12 +44,12 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Kementerian Ekonomi 属下机构的完整名单及确切数目（官方网站在查核日期列出 12 个机构；内阁重组后排列可能有所变动）。"
   - "Jawatankuasa Khas Perdana Menteri 是否在当前 RMK 编制链中仍作为一个核准层级。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

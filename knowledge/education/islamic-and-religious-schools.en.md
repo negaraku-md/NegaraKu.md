@@ -38,14 +38,14 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "The ratio of ~800 unregistered tahfiz centres in Selangor out of ~1,000 nationwide (Bernama figure; internally it looks unbalanced and should be checked against the latest JAIS/JAKIM data)."
   - "Angka 234 SABK setakat 29 Januari 2026 (kenyataan KPM seperti dilaporkan Sinar Harian; sahkan dengan siaran rasmi KPM)."
   - "The breakdown of 21 students and two teachers for the 2017 fire (supported by a CBS News report citing the Chief of Police; the cited Bernama source only mentions 23 individuals)."
   - "Butiran kebakaran Julai 2023 di Kampung Medan, Teluk Panglima Garang (seperti dilaporkan Bernama; sahkan tarikh tepat dan status pendaftaran JAIS)."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null

@@ -40,14 +40,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Kadar 30% yang dikenakan kepada individu bukan pemastautin ialah kadar individu bukan pemastautin standard yang dilaporkan oleh liputan akhbar/nasihat mengenai Practice Note 2/2026; sahkan kadar tepat dan asas statutorinya (Part II, Schedule 1, ITA 1967) terhadap Practice Note itu sendiri."
   - "Rasional yang dinyatakan untuk menamatkan konsesi (kematangan sektor REIT) diambil daripada ringkasan EY dan akhbar mengenai Practice Note; sahkan susunan kata dan atribusi yang tepat (Perbendaharaan/kerajaan berbanding LHDN) terhadap Practice Note utama."
   - "Sahkan sama ada pegangan cukai seksyen 109D terus beroperasi sebagai mekanisme kutipan bagi pemegang unit bukan pemastautin dari YA 2026, dan baris pelaporan tepat bagi individu pemastautin."
   - "Kadar berskala (0%–30%) dan ambang boleh berubah setiap Bajet; sahkan semula angka tahun semasa sebelum bergantung padanya."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null

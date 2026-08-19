@@ -43,7 +43,7 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "The date GXBank opened to the public — a limited beta of 20,000 users on 14 Nov 2023, official public launch around 30 Nov 2023; confirm the 'full public' date to be used."
   - "Tarikh dan status pelancaran Boost Bank kepada orang ramai (dilaporkan beta Jan 2024, umum Jun 2024) — belum ada sumber utama dalam sources[]."
@@ -51,7 +51,7 @@ verificationNeeded:
   - "The profit/interest rates (AEON 3.88%, Ryt up to 4% daily) are launch rates that change from time to time — confirm the current rates before publishing."
   - "Sahkan struktur konsortium/pemilik setiap bank kekal tepat pada tarikh terbitan."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null

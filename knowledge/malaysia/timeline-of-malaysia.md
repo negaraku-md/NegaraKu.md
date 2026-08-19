@@ -43,17 +43,17 @@ aiAssisted: true
 reviewer: "ashton-tan"
 published: 2026-08-18
 reviewDue: 2027-08-18
-version: "03.00"
+revision: 0
 revisions:
-  - version: "03.00"
+  - revision: 0
     date: 2026-08-18
     change: "Membahagikan tempoh moden kepada dua era dan menyelidikinya hingga 2026 — dekad-dekad Mahathir, lima perdana menteri sejak 2018, dan kerajaan perpaduan Anwar Ibrahim."
     reviewer: null
-  - version: "02.00"
+  - revision: 1
     date: 2026-08-18
     change: "Ditulis semula sebagai garis masa era-naratif yang berpaut ke artikel sejarah penuh."
     reviewer: null
-  - version: "01.00"
+  - revision: 2
     date: 2026-08-18
     change: "Initial publication."
     reviewer: null

@@ -42,12 +42,12 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Whether there is an MIA tax-planning standard with a specific effective date in 2025 (the figure '15 July 2025' in the original draft was removed because it could not be verified) — confirm against the MIA By-Laws circular."
   - "MIA disciplinary case count/volume (the '74 cases 2023' figure in the original draft was removed) — confirm against the MIA Annual Report 2023 if the figure is needed again."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null

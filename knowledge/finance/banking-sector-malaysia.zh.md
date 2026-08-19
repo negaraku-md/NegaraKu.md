@@ -43,14 +43,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "各类机构的确切数目（24 家商业银行、16 家伊斯兰银行、1 家国际伊斯兰银行、10 家投资银行），须对照 BNM 的 Financial Sector Participants Directory 核实——这些数字会随合并、退出及新牌照的发放而变动。"
   - "FSA 2013 中在 30 June 2013 之后生效的确切条文（据 AGC 页面为 section 129 与 Schedule 9），以及确切的生效日期。"
   - "FSA 2013 与 IFSA 2013 附表中完整的废除清单（BAFIA 1989、Insurance Act 1996、Payment Systems Act 2003、Exchange Control Act 1953；Islamic Banking Act 1983、Takaful Act 1984）。"
   - "具名列出的具体商业银行、投资银行、DFI 以及唯一一家国际伊斯兰银行（PT. Bank Muamalat Indonesia），在正式使用前请对照 BNM 的名录核实。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

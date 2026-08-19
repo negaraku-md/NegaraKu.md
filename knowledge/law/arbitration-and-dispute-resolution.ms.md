@@ -42,13 +42,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Tarikh sejarah pindaan: sahkan Arbitration (Amendment) Act 2011 (berkuat kuasa ~1 July 2011) dan dua pindaan 2018 (dilaporkan berkuat kuasa 28 Feb 2018 dan 8 May 2018) terhadap Federal Gazette."
   - "Tarikh kuat kuasa Arbitration (Amendment) Act 2024 pada 1 Januari 2026 — sahkan terhadap notifikasi permulaan kuat kuasa rasmi dalam Warta Persekutuan."
   - "Angka kecukupan modal RM 10 juta Code of Practice pembiayaan pihak ketiga — sahkan terhadap Code yang diterbitkan itu sendiri, bukan ringkasan sekunder."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null

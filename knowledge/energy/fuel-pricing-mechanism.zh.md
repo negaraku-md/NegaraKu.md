@@ -36,14 +36,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "2021 年 3 月 3 日之前的公布日（星期五或星期四）— 次要来源（paultan.org）提到改为星期三，但原本是星期几并不清楚；如有需要请以官方公告加以确认。"
   - "APM每周机制的确切起始日期「April 2017」——目前依据的是OpenDOSM目录的背景注释；请以官方政策来源确认。"
   - "上一周RON97的价格（RM3.24）是根据MOF公告所述下调8仙以算术方式推算得出的，并非公告中明确列出的。"
   - "请核实 BUDI95 的 RM1.99 费率及 RON95 的一般市场价在发布之日是否仍为最新。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

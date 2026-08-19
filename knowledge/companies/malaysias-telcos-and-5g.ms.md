@@ -42,11 +42,11 @@ reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-08-03
 publishedBy: "ashton-tan"
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Bulan sebenar DNB ditubuhkan pada 2021 — laman web DNB sendiri hanya menyatakan tahun 2021 (nombor pendaftaran syarikatnya 201701005338 bertarikh 2017); 'March 2021' yang dirangka sebelum ini tidak dapat disahkan terhadap sumber utama."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null

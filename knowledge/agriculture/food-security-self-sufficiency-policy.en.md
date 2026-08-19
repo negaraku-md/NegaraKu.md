@@ -40,11 +40,11 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Confirmation that the interim 75% rice SSR target (by 2025) derives specifically from the 12th Malaysia Plan (rather than merely a general government target) — should be checked against the official RMK-12 document; the 75%/80% figures themselves are confirmed by The Edge Malaysia."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

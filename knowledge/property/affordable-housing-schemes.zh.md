@@ -40,14 +40,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "各计划的价格上限与收入上限会不时检讨；申请前请在官方门户核实最新数字。"
   - "Rumah Selangorku 的价格在分层房屋（strata）与有地房屋之间有所不同；本指南中的数字依 LPHS 常见问题指的是分层房屋单位——请在 eHartanah LPHS 上按项目类型核实价格。"
   - "PR1MA 的 RM500 预订费适用于已竣工的住宅项目；请核实在建项目的付款安排。"
   - "SJKP／SJKP MADANI的担保细节（担保额RM500,000／RM360,000，期限35年）须以官方SJKP门户核实。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null

@@ -39,13 +39,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "作为主要来源的MOF PPK常见问答日期为December 2020——请对照最新的PPK出版物或现行的Credit Reporting Agencies Act 2010，确认第11条的罚则（RM1m／3年）、所列机构名单以及债务解除后两年的规则是否仍为最新。"
   - "请对照实时的Register of Credit Reporting Agencies核实当前向PPK注册的机构名单（本文列出的为截至2020年12月常见问题解答时的CTOS、FIS Data Reference、Credit Bureau Malaysia、Dun & Bradstreet Malaysia、Basis Corporation及RAMCI）。"
   - "CTOS 评分区间（300–850）及 45/20/14/14/7 的因子权重反映的是访问时 CTOS 公布的方法论——请确认 CTOS 未修订该模型。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

@@ -38,7 +38,7 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "军人退休金的角色：来源仅确认KWAP负责联邦公务员退休人员；军人退休金通常由LTAT管理——需人工核实。"
   - "EPF 与 KWAP 规模的比较采用了不同的参照日期（EPF 于 2023 年 8 月约 RM1.1 trilion，KWAP 于 2024 年底为 RM185.6 bilion）——如有更新的 EPF 数字，请予核实。"
@@ -46,7 +46,7 @@ verificationNeeded:
   - "任何养老金改革的进展（例如针对新公务员的固定缴款计划）在陈述前都需参照官方来源。"
   - "KWAP发布年报／新闻稿的惯常时间未获官方来源确认。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null

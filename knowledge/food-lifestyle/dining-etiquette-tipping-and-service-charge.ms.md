@@ -38,14 +38,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Sahkan caj perkhidmatan 10% masih kadar pasaran yang berkuat kuasa dan bahawa ia kekal tidak dikawal selia oleh kerajaan."
   - "Sahkan sumber rujukan dan perkataan tepat kenyataan bekas Timbalan Menteri Kewangan bahawa caj perkhidmatan tidak wajib 'kerana ia adalah tip' — ini sampai kepada kami melalui laporan sekunder (The Edge Malaysia), bukan transkrip utama."
   - "Konvensyen notasi menu '++' berbanding 'nett' diperihalkan daripada amalan biasa Malaysia dan tidak disokong oleh petikan berwibawa; manusia perlu mengesahkan sebelum bergantung padanya."
   - "Kenyataan bahawa caj perkhidmatan yang dipaparkan 'lazimnya dibayar sebagai sebahagian daripada bil' mencerminkan adat sosial, bukan kewajipan undang-undang — sahkan rangkanya."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

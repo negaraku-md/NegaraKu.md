@@ -39,7 +39,7 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "The actual month of the Sembahyang Dato Chachar festival shifts with the Tamil calendar; the cited source (The Star, 2012) records the festival around late April in that year — verify the date for the current year."
   - "The exact legal basis for the June 2000 heritage-zone protection of Kampung Chetti is not stated by any cited source (this protection predates the National Heritage Act 2005)."
@@ -47,7 +47,7 @@ verificationNeeded:
   - "The creole vocabulary examples (nenek/thatha) are illustrative and have not been verified against the cited linguistic studies (Grimes 1996, Noriah Mohamed 2009)."
   - "The number of families varies between sources: fewer than 50 families (Roots) versus 20–30 families (Free Malaysia Today)."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

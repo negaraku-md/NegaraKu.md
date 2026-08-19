@@ -44,13 +44,13 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Anggaran kerugian RM3–6 bilion dan ~980,000 tan setahun berasal daripada kenyataan Jabatan Perikanan 2019 (Malay Mail); sahkan sama ada terdapat anggaran DOF yang lebih terkini."
   - "Angka pekerjaan (149,630), bot berlesen (48,605) dan dagangan (import RM7.34b / eksport RM4.21b) merujuk 2022 — sahkan konsisten dengan laporan statistik DOF terbaharu."
   - "Akta A1601 turut memperkenalkan siling denda berasingan RM4 juta bagi kesalahan di laut lepas; tidak dimasukkan dalam badan artikel — pertimbangkan sama ada perlu ditambah."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

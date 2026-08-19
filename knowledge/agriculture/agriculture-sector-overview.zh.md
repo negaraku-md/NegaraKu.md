@@ -45,11 +45,11 @@ reviewer: null
 publishedBy: "ashton-tan"
 reviewed: "2026-08-14"
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "牛肉进口来源（主要供应国）：因本轮未取得第一手来源而作了模糊处理——若要点名具体国家，请对照 DOSM 或 MAQIS 的贸易数据核实。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null

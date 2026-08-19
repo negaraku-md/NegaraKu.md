@@ -44,14 +44,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Masa pemprosesan Labuan FSA semasa bagi permohonan seksyen 16 dan sebarang tempoh pegangan pemeliharaan nama — tiada angka diterbitkan yang berwibawa ditemui; sahkan dengan syarikat amanah Labuan berlesen dan Labuan FSA."
   - "Yuran ditetapkan semasa bagi pendaftaran seksyen 16 dan kelulusan prinsip seksyen 17."
   - "Sama ada bidang kuasa asal pemohon membenarkan penerusan keluar / pemindahan domisil — ini khusus mengikut bidang kuasa dan mesti disahkan kes demi kes."
   - "Teks section 16, 17 dan 133 telah disahkan baris demi baris terhadap PDF Act 441 yang diterbitkan oleh InvestMalaysia dan Labuan FSA; sahkan terhadap cetakan semula berkuat kuasa terkini sebelum menerbitkan."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null

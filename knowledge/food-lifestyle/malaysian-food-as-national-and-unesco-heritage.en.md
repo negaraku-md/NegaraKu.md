@@ -39,13 +39,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "The download link for Act 645 on the MOTAC portal needs to be checked to see whether it leads to the actual text of the Act (a PDF file) or just an empty skeleton page."
   - "The figure of 213 heritage foods is the standing as of 2018; phased declarations have continued (e.g. the 2024 batch), so the latest cumulative total may be higher — confirm the current figure with the Department of National Heritage."
   - "The exact spelling/name of some of the 10 gazetted dishes (e.g. 'Mi kolok' versus 'kolok mee') needs to be checked against the Government Gazette text."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

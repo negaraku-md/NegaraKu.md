@@ -40,14 +40,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "实时SBR与Hong Leong Bank BLR数值（截至2025年7月14日为2.75%／6.64% p.a.）——在依赖它们之前，须对照该银行现行公布的参考利率页面核实，并查核该日期之后是否有任何OPR/SBR变动。"
   - "9 July 2025 OPR决定的BNM货币政策声明的确切URL slug（BNM网站封锁自动抓取；内容通过BERNAMA及二手报道核实）。"
   - "Hire Purchase Act 1967 的各项数字（10% 最低首付、10% 单利利息上限、连续两期违约规则、21 天通知期、75% 法院令门槛）——请对照 Act 212 当前有效原文及任何附属条例核实，因为这些内容曾经历修订。"
   - "示例计算中的 60% 数字只是一个用作说明的舒适门槛，并非银行公布的上限；各家银行的 DSR 上限及收入定义并未公开披露。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

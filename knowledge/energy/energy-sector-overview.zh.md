@@ -43,14 +43,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "按区域划分的发电结构百分比（半岛 2021 年 20.2% RE、沙巴 79.3% 天然气、砂拉越 74% 水电）与总容量 >27 GW 目前依据 Global Legal Insights（一家商业法律指南出版商）。对于 tier-1 文章，请重新对照官方第一手统计来源——Suruhanjaya Tenaga / Malaysia Energy Statistics Handbook (ST)——核实。"
   - "大型太阳能（LSS）计划的管理：文中将LSS列在SEDA之下，但LSS的竞标一般由Suruhanjaya Tenaga监管。须核实SEDA相对于ST在LSS上的确切角色。"
   - "纳闽的职责划分（ST负责监管；SESB负责供电）在陈述时没有单一的具体引用；须根据ST与SESB的官方网站核实。"
   - "RP4 的基础电价数字（45.40 仙／kWj，相较 2024 年 12 月核准的 45.62 仙）以及成本潜在下降最高达 19%——除 BERNAMA 报道外，请对照 ST/KeTSA 的官方声明核实。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

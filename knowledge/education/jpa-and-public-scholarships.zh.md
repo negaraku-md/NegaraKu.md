@@ -38,7 +38,7 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Tunas Yayasan Peneraju 计划当前的正式名称（公开引用称「Tunas Potensi」，但官方网站现列为「Peneraju Tunas」）以及最新的收入／家庭条件。"
   - "penajaan.jpa.gov.my 门户上每项 JPA SPM/STPM 毕业生赞助计划的完整清单与官方名称——名额、领域与目的地国家每年变动。"
@@ -46,7 +46,7 @@ verificationNeeded:
   - "在 GLC/私人机构服务的 JPA 受惠者须偿还 50%-100% 的条件——源自 2016 年的一篇评论文章；请核实是否仍然适用。"
   - "JPA赞助中属于可转换贷款相对于全额奖学金的比例／百分比。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null

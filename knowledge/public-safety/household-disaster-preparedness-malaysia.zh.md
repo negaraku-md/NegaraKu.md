@@ -43,14 +43,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "8,481 个 PPS／可容纳 2,158,743 名灾民的数字，出自 JKM 就 2024/2025 东北季候风的备灾声明（BuletinTV3, Nov 2024）——请核实 2025/2026 季度的对应数字。"
   - "4,619 个水灾热点、543 座警报器及 737 台移动式抽水泵引自 NADMA 2024 年 10 月的声明——请核实 2025/2026 年的最新数目。"
   - "向 78,342 名户主发放的 BWI 总额 RM78.342 juta 是截至 2026 年 1 月 21 日的情况——待可用时请更新为季末最终总额。"
   - "须在出版时核实现行BWI的申请与付款机制（MyIBJKM／EFT／BSN柜台）。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

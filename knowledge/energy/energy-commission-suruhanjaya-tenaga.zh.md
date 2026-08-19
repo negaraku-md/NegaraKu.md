@@ -39,13 +39,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Akta 861的生效机制：AGC的立法门户显示生效通告P.U. (B) 521/2024（自24 November 2024生效），而据报执法自1 Januari 2025开始——请确认全面生效的日期以及ST确切在何时成为执法机构。"
   - "将年度电费RM2.4 million门槛对应于每年21,600 GJ这一说法是来自报章报道（The Star/BERNAMA）的估算；请对照Akta 861的附属法规核实。"
   - "据报道于 2026 年 1 月 1 日生效的 ST 新组织架构——请核实其细节及对职权范围的影响。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

@@ -39,14 +39,14 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "每一项 ISEAS 数字的准确性（州收入人均 RM926；联邦收入人均 RM8,969；砂拉越人均收入 RM4,414；雪兰莪土地收入占比 82%；彭亨/吉兰丹森林收入 18–20%；雪兰莪人均补助金 RM77.2 juta）及各自的确切参考年份，须对照该研究的原始表格核实。"
   - "ISEAS 研究内部的矛盾：叙述文字提到联邦人均收入为 RM28,153，但同一研究的 Jadual 1 却显示人均 RM8,969。只有 RM8,969 这个数字与所述的 10.3% 比例及实际联邦收入估算相符。请从 Kementerian Kewangan / Laporan Ekonomi 核实官方的联邦人均收入数字。"
   - "依Perkara 112D进行任何检讨之后，Sabah与Sarawak特别拨款的当前数额。"
   - "Pahang与Kelantan森林收入份额的确切参照年份（研究数据据报涵盖2009–2019期间）。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null

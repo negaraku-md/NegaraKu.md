@@ -43,7 +43,7 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Sama ada rejim kawalan penggabungan masa hadapan secara khusus dikaitkan dengan Rancangan Malaysia Ke-13 (2026-2030). Pusingan ini tidak dapat mengesahkan pautan 13MP terhadap mana-mana sumber yang boleh dipetik, jadi atribusi itu dilembutkan kepada 'perundangan masa hadapan atau peraturan subsidiari'."
   - "Angka bahagian pasaran 60% yang dipetik sebagai penunjuk umum penguasaan di bawah seksyen 10."
@@ -51,7 +51,7 @@ verificationNeeded:
   - "Butiran khusus kes makanan ternakan ayam: tempoh pelanggaran January 2020 hingga June 2022, penalti RM415.5 juta, dan penolakan rayuan oleh Tribunal Rayuan Persaingan pada 11 February 2026."
   - "Agregat RM667.3 juta / 270 syarikat ialah angka pada satu masa tertentu yang dinyatakan oleh Timbalan Menteri Fuziah Salleh bagi tempoh 2012 hingga Julai 2026; sahkan bahawa ia terkini sebelum menerbitkannya semula kemudian."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null

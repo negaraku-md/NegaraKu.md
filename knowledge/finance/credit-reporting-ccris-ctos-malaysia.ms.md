@@ -39,13 +39,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "FAQ PPK MOF yang digunakan sebagai sumber primer bertarikh Disember 2020 — sahkan bahawa penalti seksyen 11 (RM1j / 3 tahun), senarai agensi yang dinamakan, dan peraturan dua tahun selepas pelepasan masih terkini terhadap penerbitan PPK terkini atau Credit Reporting Agencies Act 2010 yang berkuat kuasa."
   - "Sahkan senarai semasa agensi yang berdaftar dengan PPK terhadap Register of Credit Reporting Agencies langsung (artikel menyenaraikan CTOS, FIS Data Reference, Credit Bureau Malaysia, Dun & Bradstreet Malaysia, Basis Corporation dan RAMCI setakat FAQ Disember 2020)."
   - "Julat CTOS Score (300–850) dan pemberat faktor 45/20/14/14/7 mencerminkan metodologi CTOS yang diterbitkan pada masa capaian — sahkan CTOS tidak menyemak semula model itu."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

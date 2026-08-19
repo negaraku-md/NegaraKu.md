@@ -40,14 +40,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "旧的 2008 年条例的正式名称及废除状态——一般理解为 Efficient Management of Electrical Energy Regulations 2008 (EMEER)，但所引用的来源均未确认此废除；请对照官方条例／法令文本核实。"
   - "BEI 250 kWh/m²/tahun 究竟是法定强制上限还是指引性基准——请对照 Peraturan-Peraturan Kecekapan dan Konservasi Tenaga 2024 的附表核实。"
   - "RM50,000 罚款额（EnMS 失责及审计／报告失责）——源自律师事务所的分析；请对照 Akta 861 官方条文核实。"
   - "MEPS 的 10 类产品清单及其是否全面生效——请对照 Suruhanjaya Tenaga 官方的 MEPS 法规核实。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

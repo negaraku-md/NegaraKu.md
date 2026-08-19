@@ -37,13 +37,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Tahap sensitivity kekal 'none' menepati skema semasa, tetapi penyemak manusia patut menimbang sama ada topik penggunaan daya maut wajar diberi flag sensitiviti lebih tinggi."
   - "Confirm the 'complete defence' doctrine proposition and the case-by-case reasonableness/proportionality assessment against the latest binding case law before publication."
   - "Confirm the reliability of the secondary source (a law firm) and any update to the 'four cardinal justifications' if the courts have refined them."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

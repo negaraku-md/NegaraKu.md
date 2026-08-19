@@ -41,11 +41,11 @@ reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-08-03
 publishedBy: "ashton-tan"
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Exact month DNB was established in 2021 — DNB's own website states only the year 2021 (its company registration number 201701005338 dates to 2017); the previously drafted 'March 2021' could not be confirmed against a primary source."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null

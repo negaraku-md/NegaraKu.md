@@ -38,14 +38,14 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Selangor约800所未注册tahfiz中心占全国约1,000所的比例（Bernama的数字；内部看来不成比例，应对照JAIS/JAKIM的最新数据核查）。"
   - "截至2026年1月29日234所SABK的数字（KPM的声明，据Sinar Harian报道；请与KPM官方公告核实）。"
   - "2017 年火灾中 21 名学生和两名教师的细分（有引用警察总长的 CBS News 报道支持；所引用的 Bernama 来源仅提及 23 人）。"
   - "Teluk Panglima Garang 的 Kampung Medan 于 2023 年 7 月火灾的详情（据 Bernama 报道；请确认确切日期及 JAIS 的注册状态）。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null

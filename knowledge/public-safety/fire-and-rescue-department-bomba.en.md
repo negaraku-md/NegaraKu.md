@@ -40,13 +40,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Nama rasmi semasa agensi pertahanan awam dalam senarai MERS 999: laman rasmi agensi (civildefence.gov.my) menggunakan 'Angkatan Pertahanan Awam Malaysia (APM)', manakala laman MERS 999 di malaysia.gov.my masih menyenaraikannya sebagai 'Jabatan Pertahanan Awam (JPAM)'. Sahkan tatanama rasmi terkini."
   - "The NG MERS 999 system is reported to have begun operating on 16 November 2025 — confirm whether it changes the list of five agencies or the 'five agencies' framework stated here."
   - "Kementerian induk JBPM (KPKT) — portfolio kementerian disusun semula dari semasa ke semasa; sahkan susunan semasa sebelum bergantung padanya dalam dokumen rasmi."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

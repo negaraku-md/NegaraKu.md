@@ -44,13 +44,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Jumlah 600 kawasan DUN ialah snapshot katalog DOSM mengikut sempadan 2015–2018; sahkan angka semasa terhadap warta SPR selepas persempadanan semula Sarawak (kenaikan 82→99 diluluskan Julai 2025) selesai."
   - "Tarikh kuat kuasa peruntukan Undi18 (Akta A1603) menurunkan had umur seksyen 5 Jadual Kelapan daripada 21 kepada 18 — sahkan tarikh warta rasmi (dilaporkan 15 Disember 2021) apabila ia menjadi load-bearing."
   - "Butiran per-negeri persempadanan semula (Sarawak 2015: 71→82; Sabah 2016: 60→73; Semenanjung 2018) tidak dipetakan oleh sumber DOSM; sahkan terhadap warta/laporan SPR jika hendak dinyatakan semula secara spesifik."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

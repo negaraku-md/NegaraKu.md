@@ -39,14 +39,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "The exact filing deadline for Form CP204B for a shortened accounting period (less than 12 months) versus an extended one (more than 12 months) — needs to be confirmed against the current LHDN Public Ruling; no primary LHDN source could be accessed to confirm the '30 days before' figure."
   - "The existence and content of Public Ruling 4/2025 and the claim that manual notices (by letter) are no longer accepted — could not be verified; the alleged LHDN URL (hasil.gov.my/en/company/change-in-accounting-period/) returns HTTP 404."
   - "Whether the annual return or any other SSM form also separately records the changed FYE — the article states only that SSM becomes aware of the new FYE through the filed financial statements (s.259)."
   - "Pemakaian tempoh penyelarasan dua tahun s.247 secara khusus kepada perubahan FYE sukarela oleh syarikat berdiri sendiri (s.247 mengawal subsidiari dalam kumpulan, bukan syarikat tunggal)."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null

@@ -45,13 +45,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "The MD2030 launch location ('in Putrajaya', 29 June 2026) and the full list of implementing agencies (NAIO, GovTech Malaysia/JDN, MDEC, CyberSecurity Malaysia, MyDIGITAL Corporation, MyCentre4IR) are currently confirmed through a Malay Mail report; they need to be cross-checked against the official MD2030 document when it is published."
   - "The key MD2030 targets (500,000 jobs, RM4.5 billion in savings, 95% of services online) currently rely on a Malay Mail report — confirm against the official MD2030 action plan."
   - "Sub-sasaran 2030 dalam Blueprint asal (85% bersepadu hujung-ke-hujung, 50,000 harta intelek, 5 unicorn beribu pejabat di Malaysia, 2,500 Sekolah Juara My Digital Maker) — sahkan terhadap muka surat berkaitan dalam PDF Blueprint."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

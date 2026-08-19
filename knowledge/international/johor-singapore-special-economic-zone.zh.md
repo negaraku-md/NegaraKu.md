@@ -41,14 +41,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "旗舰区域的命名在官方与法律咨询来源之间各有不同（例如「Johor Bahru Waterfront」对比「Johor Bahru City Centre」；「Kulai–Sedenak」对比「Sedenak」）。发布前请确认政府的权威表述。"
   - "没有公开来源为每一个旗舰区域指定具体的行业／锚定角色；撰写时各旗舰区的「量身定制」激励尚未详述。一旦公布针对各旗舰区的激励指南，请加以确认。"
   - "投资数字（2025年第一季RM30.1bn；获批RM76.98bn且约57%已落实）追溯自The Star报道的2026年7月经济部更新；请对照经济部自身的公告核实。"
   - "新加坡 JS-SEZ 项目办公室的「2025 年 4 月」启动日期与 IMFC-J 的「2025 年 2 月」运营日期，应对照 MTI/EDB 和 IRDA 的一手来源重新确认。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

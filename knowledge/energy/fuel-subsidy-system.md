@@ -46,11 +46,11 @@ reviewer: null
 publishedBy: "ashton-tan"
 reviewed: 2026-08-14
 reviewDue: 2027-08-14
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Klasifikasi sensitivity ditetapkan 'none' mengikut templat, tetapi rasionalisasi subsidi bahan api ialah isu dasar yang boleh menimbulkan perdebatan politik; editor manusia perlu menilai semula sama ada 'none' sesuai."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null

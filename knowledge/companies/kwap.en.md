@@ -38,7 +38,7 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Peranan pencen tentera: sumber hanya sahkan KWAP menampung pesara penjawat awam Persekutuan; pencen tentera biasanya dikendalikan LTAT — perlu disahkan manusia."
   - "The size comparison of EPF vs KWAP uses different reference dates (EPF ~RM1.1 trillion in August 2023 vs KWAP RM185.6 billion at end-2024) — confirm a more recent EPF figure if available."
@@ -46,7 +46,7 @@ verificationNeeded:
   - "Sebarang perkembangan reformasi pencen (mis. skim caruman tertakrif untuk penjawat awam baharu) perlu dirujuk kepada sumber rasmi sebelum dinyatakan."
   - "Masa lazim penerbitan Laporan Tahunan / siaran media KWAP tidak disahkan oleh sumber rasmi."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null

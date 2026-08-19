@@ -38,7 +38,7 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "部门的内部结构（sektor 及 bahagian 的数目）：编写时无法访问官方网站 digital.gov.my，因此在官方来源获得确认之前，结构数字已被移除。"
   - "三大支柱框架（数字经济、数字社会、数字政府）——请对照该部门的官方政策声明核实。"
@@ -46,7 +46,7 @@ verificationNeeded:
   - "CyberSecurity Malaysia 详尽的组织沿革（MyCERT 的起源、职权范围的转移）——在取得主要来源之前已予删除。"
   - "5G DNB 覆盖率数字（82.1% / 80.2%）与确切的参考日期——请对照 MCMC/DNB 的官方报告核实。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

@@ -37,7 +37,7 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Tarikh pelantikan Ketua Pegawai Eksekutif Ahmad Zulqarnain Onn (dilaporkan berkuat kuasa 19 Februari 2024) — tidak diliputi oleh mana-mana sumber yang disenaraikan."
   - "Tarikh penubuhan 1 Oktober 1951 dan rujukan Ordinan KWSP 1951 — fakta institusi/perundangan tanpa sumber utama yang di-fetch; sahkan dengan penerbitan rasmi KWSP atau Warta Kerajaan."
@@ -46,7 +46,7 @@ verificationNeeded:
   - "Angka aset pelaburan 2023 (RM1.13 trilion) yang digunakan untuk pengiraan pertumbuhan — sahkan terhadap penyata kewangan rasmi KWSP."
   - "Jumlah pendapatan pelaburan mengikut kelas aset dalam RM (bukan hanya % dan ROI) — sahkan dengan Laporan Tahunan / penyata rasmi KWSP 2024."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null

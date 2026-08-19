@@ -41,7 +41,7 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "股权数字 2.4%（1970）与 12.5%（1980）的定义范围：EHM 来源将其称为由公共机构代表土著（Bumiputera）持有的股权——须确认它代表的是土著企业股权的总额，还是仅为机构/信托机构所持有的部分。"
   - "1990 年土著股权数字：不同来源给出不同数值（例如「超过 19%」对比另一篇 EHM 文章中的 20.3%）——请核实政府的官方数字。"
@@ -49,7 +49,7 @@ verificationNeeded:
   - "Tun Abdul Razak在拟定DEB时的确切头衔（1969年为MAGERAN主任/副首相，而在1971年提呈前为首相）。"
   - "「约 60%」的贫困率数字：请核实 EHM 来源所使用的确切参照年份及贫困定义。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

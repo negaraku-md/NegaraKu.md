@@ -41,7 +41,7 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Historical dates: the founding of PNB (17 March 1978), YPB (9 January 1978), ASNB (22 May 1979) and the launch of ASB (2 January 1990) — confirm against the official PNB/ASNB websites, as they are not contained in the December 2025 press release cited."
   - "The ASB Bumiputera eligibility clause — confirm the exact wording, clause number and page in the current ASNB Master Prospectus. The eligibility is NOT contained in the cited ASB PHS; it is stated in the Prospectus / Master Prospectus."
@@ -51,7 +51,7 @@ verificationNeeded:
   - "The two-class ASB unit structure (Class A / Class B) effective 25 May 2026 — confirm against the current official ASNB documents."
   - "The ASNB Master Prospectus URL in the source list could not be retrieved while preparing this draft (TLS certificate error); confirm the direct link and the current document."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null

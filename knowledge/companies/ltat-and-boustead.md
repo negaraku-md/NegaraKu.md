@@ -37,7 +37,7 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Nilai risiko PAC: sumber (The Edge node 745683) menyebut 'sehingga separuh dana' / ~RM5 bilion daripada ~RM11.5 bilion AUM (2023); sahkan angka dan konteks laporan PAC November 2024 asal."
   - "Pegangan aset strategik: dua angka wujud (62.9% dalam laporan lama vs 56% dalam temu bual Mac 2025); draf menggunakan 56% — sahkan angka semasa yang betul."
@@ -45,7 +45,7 @@ verificationNeeded:
   - "Nama semasa Ketua Pegawai Eksekutif (Mohammad Ashraf Md Radzi) dan Pengerusi (Jeneral (B) Tan Sri Azizan Ariffin) — sahkan masih memegang jawatan."
   - "Pegangan BHIC (dilaporkan ~72.38% dalam snippet carian yang tidak dapat dibuka) sengaja tidak dimasukkan; sahkan dan tambah jika perlu."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null

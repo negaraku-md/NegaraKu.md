@@ -41,12 +41,12 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "JPN 于 2025 年 12 月 17 日的声明（Bernama id=2503691）——请核实日期、背景及 JPN 总监的姓名／头衔（Datuk Badrul Hisham Alias）。"
   - "内政部长 2019 年的声明 Malaysia does not recognise dual citizenship——请核实完整脉络，以及它是否仍反映现行政策立场。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null

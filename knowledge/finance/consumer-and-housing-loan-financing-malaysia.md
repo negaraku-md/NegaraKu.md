@@ -39,14 +39,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Live SBR and Hong Leong Bank BLR values (2.75% / 6.64% p.a. as at 14 July 2025) — confirm against the bank's current published reference-rate page before relying on them, and check for any OPR/SBR change after that date."
   - "Exact BNM Monetary Policy Statement URL slug for the 9 July 2025 OPR decision (the BNM site blocks automated fetching; content verified via BERNAMA and secondary reporting)."
   - "Hire Purchase Act 1967 figures (10% minimum deposit, 10% flat-rate term-charge ceiling, two-successive-instalment default rule, 21-day notice, 75% court-order threshold) — confirm against the current in-force text of Act 212 and any subsidiary regulations, as these have been subject to amendment."
   - "That the 60% figure in the worked example is only an illustrative comfort threshold, not a bank-published ceiling; individual bank DSR ceilings and income definitions are not publicly disclosed."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

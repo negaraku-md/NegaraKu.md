@@ -45,11 +45,11 @@ publishedBy: "ashton-tan"
 reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Rizab dan unjuran pengeluaran Ambalat (~40,000 tong sehari; sehingga 1 bilion tong / 40 tcf) — dilaporkan oleh satu penerbit (Jakarta Globe); perlu pengesahan lanjut."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

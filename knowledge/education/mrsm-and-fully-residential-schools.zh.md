@@ -38,14 +38,14 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "MARA 主管部门的确切官方名称及其更名历史（Kementerian Pembangunan Luar Bandar 对比 Kementerian Kemajuan Desa dan Wilayah）。"
   - "与SBP扩展相关的马来西亚计划时期：KPM官方页面将1975–1980年时期标为「Rancangan Malaysia Kedua」，但按照通行的时间线，Rancangan Malaysia Kedua为1971–1975年（1976–1980年为Rancangan Malaysia Ketiga）。需以官方来源确认。"
   - "当前SBP的数目（KPM页面正文未列出总数；二手来源给出不同的数字）。"
   - "依据 KPM 最新的 PKSK 通函／门户，SBP 中一及中四入学的详细学业要求。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null

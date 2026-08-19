@@ -28,7 +28,7 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-version: "01.00"
+revision: 0
 sensitivity: "constitution"
 
 updated: 2026-07-10

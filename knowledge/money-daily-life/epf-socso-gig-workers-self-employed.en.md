@@ -42,14 +42,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "The core i-Saraan figures (20% matching rate, age cap of 60, RM2,500 contribution threshold for the full incentive) — currently rely on The Star + AJobThing because the official KWSP i-Saraan page (kwsp.gov.my) returns HTTP 403. Confirm directly with KWSP when accessible."
   - "Details of i-Saraan Plus (RM600 matching / RM6,000 cap, registration mechanism, effective date) — confirm against the official KWSP i-Saraan Plus page."
   - "The exact contribution percentage set under section 83 of Act 872 — the Act leaves it to subsidiary regulations; there is no fixed percentage in the main text."
   - "The gazetting date (31 December 2025) of Act 872 — relies on Human Resources Online; confirm with the official government gazette."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null

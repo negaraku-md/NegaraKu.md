@@ -38,13 +38,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "1,085 万的注册人数（截至 2024 年 3 月 31 日）在下一个更新阶段之后是否已有变动。"
   - "硬件成本 RM2 juta／七个月建设期的细节，若相关，是否应以政府主要来源重新纳入（本次已删除，因其带宣传性质且关联松散）。"
   - "敏感度分级——本主题涉及通过全国数据库进行补贴资格锁定；请确认「none」是否仍然适当。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null

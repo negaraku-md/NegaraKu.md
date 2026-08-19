@@ -50,9 +50,9 @@ verificationNeeded:
   - "The history of the Portuguese presence in Melaka and the formation of the Kristang/Eurasian community, including the exact year/century (currently stated without a figure); requires primary/historical sources."
   - "The etymology of 'debal' from 'devil' (devil's curry) — needs a linguistic source; and the tradition of curry debal being cooked from Christmas leftovers — needs to be confirmed as a tradition, not the meaning of the word."
   - "Butiran hidangan Sabah (hinava, tuhau, bosou, tuaran mee) dan status pengiktirafannya dalam program makanan warisan; belum ada sumber sepadan dalam senarai sumber."
-version: "01.00"
+revision: 0
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

@@ -46,11 +46,11 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "112 作为手机拨打的紧急替代号码：在本轮审查中无法对照权威政府来源加以确认，特别是关于它可在无 SIM 卡／无话费的情况下使用并转接至 999 的说法。技术细节已软化处理；重新确证之前请向 MCMC 或 JPAM 确认。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null

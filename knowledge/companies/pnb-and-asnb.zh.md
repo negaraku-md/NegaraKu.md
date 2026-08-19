@@ -41,7 +41,7 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "历史日期：PNB 的成立（17 Mac 1978）、YPB（9 Januari 1978）、ASNB（22 Mei 1979）以及 ASB 的推出（2 Januari 1990）——由于这些日期未包含在所引用的 2025 年 12 月新闻稿中，请对照 PNB/ASNB 官方网站核实。"
   - "ASB 的土著（Bumiputera）资格条款——请对照当前的 ASNB Prospektus Induk 核实确切措辞、条款编号及页码。该资格条件并不载于所引用的 ASB PHS 之中；它载于 Prospektus/Prospektus Induk。"
@@ -51,7 +51,7 @@ verificationNeeded:
   - "自2026年5月25日生效的ASB双单位类别架构（Kelas A／Kelas B）——须对照ASNB现行官方文件核实。"
   - "来源清单中ASNB主招股书（Prospektus Induk）的URL在编写本稿时无法取得（TLS证书错误）；须核实直接链接及当前文件。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null

@@ -44,11 +44,11 @@ reviewer: null
 publishedBy: "ashton-tan"
 reviewed: "2026-08-14"
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "按地区划分的每公顷稻谷产量数字（例如 Kelantan/KADA）——所查核的主要来源均未提供特定地区的每公顷数字；仅确认了全国平均每公顷低于 5 吨，以及 Kedah 试点地区较高的产量。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null

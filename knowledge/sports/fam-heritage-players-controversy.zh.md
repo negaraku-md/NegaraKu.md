@@ -39,7 +39,7 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "国际足联纪律委员会裁决日期：CAS新闻稿注明为2025年9月25日，而国际足联官方公告页面日期为2025年9月26日（“今日”通知）。本草稿以2025年9月25日为裁决日期（与CAS及禁令抵扣期一致），并记录国际足联于2025年9月26日的公告。须由人工确认应以哪一日期作为裁决日期显示。"
   - "截至本草稿，CAS附理由的完整裁决书尚未发布；发布后须核实细节（唯有正式书面文本具有法律约束力）。"
@@ -47,7 +47,7 @@ verificationNeeded:
   - "涉及AFC的转介以及2027年亚洲杯资格赛可能扣分事宜尚未定案。"
   - "马来西亚警方就涉嫌伪造出生证明的调查结果仍未定案。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

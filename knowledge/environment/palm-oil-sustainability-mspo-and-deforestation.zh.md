@@ -43,14 +43,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "支持 MSPO 的 Budget 2025 数字：具体的令吉金额（此前为总额 RM65m／认证 RM50m／反抵制工作 RM15m）已被移除，因为没有所引用的来源能够佐证。恢复任何数字之前，请对照官方 Budget 2025 文件或 MPOB／部门声明重新确认。"
   - "有关下游执照续期的说法（MPOB Licensing Enforcement Circular 02/2025、MS2530-4-3:2022标准引用，以及1 January 2026的生效日期）目前依据的是一个合规咨询博客，而非MPOB的一手来源。请对照MPOB官方通告确认通告编号、标准代码与生效日期。"
   - "请协调部长所称「逾五十万名小农」与持牌独立小农210,891这一数字之间的差异——两者似乎统计的是不同群体（全体小农对持牌独立小农）。"
   - "欧盟措辞：EEAS 联合声明使用「credible sustainability scheme」；MSPO 新闻稿使用「credible sustainability standard」。请确认首选措辞。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null

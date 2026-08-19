@@ -39,12 +39,12 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Label item COVID-19 dalam teks warta Bahasa Melayu Jadual Pertama (teks kemas kini bahasa Inggeris terbitan Pejabat Peguam Negara memberi item 3A; sesetengah rujukan menyebut 17A bagi susunan abjad teks Melayu). Sahkan penomboran teks Melayu sebelum terbit."
   - "The enforcement status of the 2024 amendment (whether it has been gazetted and come into force). The current operative penalty rates depend on the effective date of the relevant instrument."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null

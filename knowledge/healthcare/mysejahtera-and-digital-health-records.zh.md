@@ -38,13 +38,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "关于警方调查「仍在进行」以及导出数据的去向截至审计报告呈交时「尚未确定」的说法——与 CodeBlue 的背景一致，但尚未逐字核实。"
   - "「两年内近 500 间诊所获得提升」及「今年预计再有 20 间医院跟进」的细节——出自 Media Selangor 并归于 Dr Vivek Jason Jayaraj 的数字；请对照 KKM 官方声明核实。"
   - "开发者充当「平台运营者」的措辞——请核实 Khairy Jamaluddin（2022 年 3 月）的确切引述。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

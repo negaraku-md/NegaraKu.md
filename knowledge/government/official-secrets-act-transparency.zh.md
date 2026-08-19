@@ -39,12 +39,12 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "将 Rang Undang-Undang Kebebasan Maklumat 2026 提交予特别遴选委员会所依据的议事常规（Standing Order）编号——所引新闻来源并未说明该编号，而 Dewan Rakyat 提交法案通常依据议事常规第 54 条。请对照 Dewan Rakyat 的 Hansard／官方议事录核实。"
   - "2026 年信息自由法案（Rang Undang-Undang Kebebasan Maklumat 2026）的二读与三读，在特别遴选委员会阶段之后是否已排期或完成。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

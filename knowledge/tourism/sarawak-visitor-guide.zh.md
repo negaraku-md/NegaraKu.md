@@ -45,13 +45,13 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Gunung Mulu 峰顶高度：公园自家网站存在冲突——mulupark.com/mulu-world-heritage-area/ 标为 2,376 m，mulupark.com 主页标为 2,377 m。草稿采用约 2,376 m；请核实权威数字。"
   - "MDAC 豁免类别：关于新加坡公民与马来西亚永久居民获豁免的具体说法无法证实（IMI 页面仅返回导航框架）。请向马来西亚移民局核实现行的豁免清单。"
   - "Semenggoh 的喂食时段（约 08:00–10:00、约 14:00–16:00）及距古晋约 24 公里的距离引自 semenggoh.my，但在本轮中未经独立重新核实。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null

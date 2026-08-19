@@ -38,14 +38,14 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Confirm that the referenced section numbering (3, 5, 6, 7, 12, 13, 13A, 13B) remains the same in the text of Act 301 in force today after the 2012 amendment and any subsequent amendments."
   - "Confirm the date and reference number of the 2012 amendment (reported as Act A1436, in force 15 July 2012) against the official Government Gazette."
   - "Confirm the details of the 19 December 2024 banning order against six titles against the text of the official order in the Gazette, not just the Bernama news report."
   - "Confirm the date and legislative status of the 2025 media council (reported as passed by Parliament on 26 February 2025) against parliamentary records or the official Gazette."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null

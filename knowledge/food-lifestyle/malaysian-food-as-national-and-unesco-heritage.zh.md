@@ -39,13 +39,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "MOTAC门户上Akta 645的下载链接须查核其是指向法令实际文本（PDF文件）还是仅为空白框架页面。"
   - "213项遗产食品的数字为截至2018年的情况；分阶段的宣布仍在继续（例如2024年那一批），因此最新的累计总数可能更高——须向Jabatan Warisan Negara核实当前数字。"
   - "10 道获宪报公布菜肴中部分菜名的确切拼写／名称（例如「Mi kolok」对比「kolok mee」）需对照政府宪报（Warta Kerajaan）原文核对。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

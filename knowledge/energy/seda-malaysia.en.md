@@ -39,13 +39,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "SEDA's exact effective date (reported as 1 September 2011): the cited official SEDA page only confirms establishment 'under the SEDA Act 2011 [Act 726]', not the exact month/date. Confirm against the SEDA Act 2011 (gazette/AGC)."
   - "The current supervising ministry (PETRA): not explicitly stated on the cited SEDA page. Confirm the name of the latest supervising ministry and cite an official page that states it."
   - "Solar ATAP: whether applications are always open or open through periodic application windows with open/close dates set by the government — sources vary; confirm on the eATAP portal / the latest SEDA guidelines."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

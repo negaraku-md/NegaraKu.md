@@ -42,13 +42,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "The form codes JPN.KC02 (marriage application/registration) and JPN.KC01C (special/express marriage licence to waive the 21-day notice): confirmed via a state government source (Serian District Office, Sarawak), but re-confirm against the official JPN portal because form codes may be updated."
   - "The sensitivity classification remains 'none' as directed, but the article touches on provisions on conversion to Islam (sections 51, 51A) and the division of civil vs Syariah jurisdiction — an inter-religious topic that is sensitive in Malaysia. A human reviewer should reassess whether the 'none' tag is adequate."
   - "Section 12 (a mother now has the same consent power as a father for the marriage of a child under the age of 21): confirm the exact wording of the amendment; secondary sources confirm the parties who may give consent were expanded but not all state the mother's equal standing explicitly."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null

@@ -40,14 +40,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Nombor perenggan MFRS 10 yang tepat yang dipetik bagi ujian kawalan tiga elemen (dinyatakan di sini sebagai perenggan 7) dan bagi pengecualian syarikat induk perantaraan (dinyatakan di sini sebagai perenggan 4(a)) — sahkan terhadap teks MASB yang sedang berkuat kuasa."
   - "Sama ada versi MFRS 10 yang berkuat kuasa bagi tahun kewangan pembaca mencerminkan pindaan kemudian (cth. Annual Improvements); draf ini memetik teks disatukan BV2021."
   - "Perkataan tepat mengenai subjek dan pemasaan Companies Act 2016 ss244, 245, 248, 250, 258 dan 259 terhadap Akta yang diterbitkan SSM semasa (PDF sumber tidak dapat dibaca mesin semasa penyediaan draf)."
   - "Tarikh pengumuman MBRS 2.0 (26 Nov 2024) dan tarikh pelaksanaan berperingkat terhadap notis MBRS SSM sendiri, kerana sumber yang dipetik pada masa ini ialah ringkasan firma profesional."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null

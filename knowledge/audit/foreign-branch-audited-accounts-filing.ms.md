@@ -39,11 +39,11 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Sahkan tarikh khusus pelanggan: tarikh akhir tahun kewangan cawangan dan tarikh AGM yang menetapkan tempoh penyerahan dua bulan di bawah s.575(1)."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null

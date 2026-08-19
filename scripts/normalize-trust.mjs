@@ -29,15 +29,15 @@ function transform(raw) {
   //    non-sensitive content becomes reviewer-null / "AI-verified".
   const reviewerLine = sens === 'none' ? 'reviewer: null' : 'reviewer: "ashton-tan"';
   out = out.replace(/^reviewer:.*$/m, reviewerLine);
-  // 2. approved articles: version 01.00 + single-entry revision history
+  // 2. approved articles: revision 0 + single-entry revision history
   if (LIVE.has(status)) {
-    out = out.replace(/^version:.*$/m, 'version: "01.00"');
+    out = out.replace(/^revision:.*$/m, 'revision: 0');
     // CRLF-tolerant: match the revisions: line and every following indented
     // line (revision entries), preserving the file's line endings.
     const nl = out.includes('\r\n') ? '\r\n' : '\n';
     const rev =
       `revisions:${nl}` +
-      `  - version: "01.00"${nl}` +
+      `  - revision: 0${nl}` +
       `    date: ${updated}${nl}` +
       `    change: "Approved and published."${nl}` +
       `    reviewer: null${nl}`;

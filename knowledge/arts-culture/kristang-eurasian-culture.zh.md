@@ -41,13 +41,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "将 Intrudu 象征性地诠释为「洗涤罪孽」——泼水的习俗及其时间（圣灰星期三前的星期日）已由 The Star 证实，但洗净／洗涤罪孽的含义仅出现在博客／社交媒体来源中，而非权威的一手来源；需加以核实或删除。"
   - "Perkampungan Portugis 兴建的时间脉络（约 28 英亩；到 1930 年代初有 10 间房屋，后增至约 60 间）出自 ExpatGo（二手来源）——宜与殖民时期／档案记录交叉核实。"
   - "「新加坡不足 100 名流利使用者」的估计与「极度濒危」的分类——请核实研究者所用的参考年份与定义。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

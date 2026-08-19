@@ -39,14 +39,14 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Pecahan faraid (bahagian pasangan, anak, ibu bapa) sebaik-baiknya disahkan terhadap sumber rasmi Islam (mis. JAKIM/Mufti) atau nas al-Quran secara langsung, bukan sumber komersial FaraidHub."
   - "Had wasiat 1/3 kepada bukan waris — sahkan asas statutori (mis. Enakmen Wasiat Orang Islam negeri seperti Selangor 1999, s. 26) mengikut negeri berkenaan."
   - "The reference to section 6 of the Distribution Act 1958 — currently relies on a secondary source (Chia, Lee & Associates); a reviewer may replace it with the official statutory text if needed."
   - "Slug relations/related (property-buying-a-home-guide, property-real-property-gains-tax-rpgt) — sahkan artikel berkenaan wujud atau laraskan."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null

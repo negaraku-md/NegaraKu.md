@@ -42,13 +42,13 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Tarikh penamaan semula JHEOA (1963) dan JAKOA (berkuat kuasa 2011) serta kementerian induk semasa — sahkan terhadap sumber rasmi terkini (halaman Sejarah JAKOA / warta kerajaan)."
   - "Kedudukan Semai sebagai antara suku kaum terbesar dan Orang Kanaq sebagai antara yang terkecil pada peringkat suku kaum — Laporan DOSM hanya menyediakan pecahan mengikut kumpulan kaum (Senoi/Melayu-Proto/Negrito), bukan bilangan bagi setiap suku kaum."
   - "Teks Seksyen 3 yang dipetik ialah cetakan semula terjemahan Jabatan Peguam Negara (mengandungi pindaan hingga 1 Januari 2006); sahkan terhadap versi berkuat kuasa terkini sebelum penerbitan."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

@@ -43,11 +43,11 @@ reviewer: null
 reviewed: "2026-08-14"
 reviewDue: 2027-08-03
 publishedBy: "ashton-tan"
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "2025 年后修订的产能：草稿引用的是原定目标（每年 150,000 吨氨；每年 88,000 吨 MCH）。请核实 2025 年缩减规模后降低的产能。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

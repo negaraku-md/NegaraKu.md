@@ -42,11 +42,11 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Petikan dan pegangan kes: Wong Mei Yoke v Tien Wah Press Malaya Sdn Bhd [2018] 1 ILR 20 dan Zulkefli Hashim v Uda Holdings Berhad [2018] 2 LNS 3169 — sahkan sitasi dan ringkasan pegangan terhadap laporan penuh."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null

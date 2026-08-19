@@ -40,7 +40,7 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "MyCEB melabelkan RM20.18 bilion sebagai 'Estimated Economic Impact' pada halaman utamanya, yang juga memaparkan angka berasingan yang dilabel secara samar (1,656,942); sahkan label dan nilai yang dimaksudkan dengan MyCEB terus."
   - "Angka Meetings Show London (6,625 perwakilan, RM116 juta, 2017–2023) berasal daripada kenyataan akhbar MyCEB dan tidak diperoleh semula dalam pusingan pembetulan ini; sahkan sebelum bergantung padanya."
@@ -49,7 +49,7 @@ verificationNeeded:
   - "Deskriptor lokasi tepat MITEC (berhampiran Dutamas / KL Metropolis; daerah yang lebih luas ialah Segambut) harus disahkan terhadap tapak MITEC sendiri; sumber CIDB yang dipetik menggunakan 'near Dutamas'."
   - "Semua kapasiti tempat dan butiran pembinaan BCCK2 tertakluk kepada perubahan; sahkan angka terbitan semasa secara langsung dengan setiap pusat sebelum penerbitan."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null

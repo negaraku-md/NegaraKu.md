@@ -43,13 +43,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "WQI 参数的完整清单（特别是除 BOD5、氨氮和悬浮固体之外的 DO、COD 和 pH）——请以 Jabatan Alam Sekitar 的官方刊物核实；所引用的 OpenDOSM 来源仅列出 BOD5、氨氮和悬浮固体。"
   - "2024年的细分（672条河流中的475/170/27）源自Malay Mail所报道的副首相声明——须在官方Laporan Kualiti Alam Sekitar／JAS发布时加以核实。"
   - "每起供水中断事件所影响的处理厂及账户/家庭的确切数量，可能因最新官方报告而有所不同。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null

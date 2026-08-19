@@ -46,10 +46,10 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-14
 reviewDue: 2027-08-14
-version: "01.00"
+revision: 0
 verificationNeeded: []
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null

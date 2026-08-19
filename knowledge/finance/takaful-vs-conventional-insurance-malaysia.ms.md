@@ -38,14 +38,14 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Petikan berkanun dikeluarkan semula daripada teks Attorney General's Chambers bagi Laws of Malaysia Act 759 (IFSA 2013), Section 2; sahkan tiada pindaan kemudian telah mengubah perkataan takrifan takaful."
   - "Semua angka industri 2024 adalah angka Malaysian Takaful Association (MTA) sebagaimana dilaporkan oleh Bernama; sahkan terhadap siaran tahunan MTA sendiri dan/atau statistik insurans dan takaful Bank Negara Malaysia sebelum penerbitan."
   - "Pencirian riba, gharar dan maisir sebagai kebimbangan yang distrukturkan oleh takaful untuk menanganinya ialah perihalan umum prinsip komersial Islam; sahkan susunan katanya terhadap sumber ilmiah atau pengawal selia yang neutral."
   - "Sahkan status pelesenan semasa mana-mana pengendali atau penanggung insurans tertentu terus terhadap senarai entiti terkawal Bank Negara Malaysia sebelum pengguna bergantung padanya."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

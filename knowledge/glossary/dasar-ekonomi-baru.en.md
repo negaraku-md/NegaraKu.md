@@ -41,7 +41,7 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "The definitional scope of the equity figures 2.4% (1970) and 12.5% (1980): the EHM source refers to them as equity held by public institutions on behalf of Bumiputera — needs to be confirmed whether they represent total Bumiputera corporate equity or only the portion held by trust institutions/agencies."
   - "Angka ekuiti Bumiputera 1990: sumber berbeza memberikan nilai berbeza (contohnya 'lebih 19%' berbanding 20.3% dalam artikel EHM lain) — sahkan angka rasmi kerajaan."
@@ -49,7 +49,7 @@ verificationNeeded:
   - "Gelaran tepat Tun Abdul Razak semasa DEB dirangka (Pengarah MAGERAN / Timbalan Perdana Menteri pada 1969 berbanding Perdana Menteri menjelang pembentangan 1971)."
   - "The poverty figure of 'about 60 percent': confirm the exact reference year and the poverty definition used by the EHM source."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

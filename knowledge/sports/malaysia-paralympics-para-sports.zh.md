@@ -41,11 +41,11 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-08-14
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "马来西亚在 Beijing 2008 之前是否赢得过任何残奥会奖牌（原始草稿声称首枚奖牌在 Seoul 1988；IPC 官方记录只列出自 Beijing 2008 起的奖牌）。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

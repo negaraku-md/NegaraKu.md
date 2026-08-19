@@ -45,13 +45,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Tahun penubuhan tepat Single Buyer yang berpagar (dilaporkan secara meluas sebagai 2012) — tidak dapat disahkan terhadap laman Single Buyer sendiri atau Suruhanjaya Tenaga; tahun khusus itu telah dibuang sementara menunggu sumber primer."
   - "Tarikh tepat kenyataan parlimen Menteri Shamsul Anuar Nasarah yang mengesyorkan semakan MESI 2.0 — nampaknya 21 Julai 2020 (hari Selasa semasa penggal KeTSA beliau), tetapi artikel The Edge memaparkan tarikh dinamik, jadi baris kredit tidak dapat dibaca dengan jelas; tahun dikekalkan sebagai 2020."
   - "Tarikh penubuhan formal dan status perundangan/organisasi tepat Grid System Operator sebagai unit TNB yang dipagari — kewujudan entiti disahkan melalui tapak rasminya, tetapi tarikh penubuhan tidak didokumentasikan dalam sumber yang dipetik."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

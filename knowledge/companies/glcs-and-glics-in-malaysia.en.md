@@ -42,13 +42,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "The exact establishment date of the Putrajaya Committee on GLC High Performance (PCG) and any official GLCTP launch date in 2005 — the cited Khazanah source only confirms the launch/announcement on 14 May 2004; the claims of '29 July 2005' and 'January 2005' were removed because they could not be confirmed."
   - "Klasifikasi sensitiviti: frontmatter ditetapkan 'none' mengikut piawaian, tetapi artikel menyentuh Dasar Ekonomi Baru, peristiwa 1969 dan ekuiti Bumiputera; semakan editorial manusia patut menilai semula sama ada 'none' sesuai."
   - "The current GEAR-uP figures (RM11 billion mobilised, RM22 billion identified, RM25 billion pledged) are as at 30 June 2025; confirm the latest update directly from the MOF release before citing."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null

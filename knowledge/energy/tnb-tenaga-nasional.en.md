@@ -39,7 +39,7 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "The year of TNB's listing on Bursa Malaysia (widely reported as 1992, a KLSE IPO) — confirm with the official Bursa Malaysia listing records; could not be verified from any accessible primary source during this proofing."
   - "TNB's holding in Sabah Electricity (82.75%) and the plan for a full transfer to the Sabah State Government by 2030 — confirm against TNB's annual report or the latest official announcement, as this structure is changing."
@@ -48,7 +48,7 @@ verificationNeeded:
   - "The cross-border grid interconnections to Thailand and Singapore — confirm the latest status and capacity."
   - "Nombor pendaftaran syarikat (199001009294 / 200866-W) — sahkan dengan SSM/Bursa."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

@@ -38,7 +38,7 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Nama rasmi semasa program Tunas Yayasan Peneraju (rujukan awam menyebut 'Tunas Potensi', tetapi laman rasmi kini menyenaraikan 'Peneraju Tunas') serta syarat pendapatan/keluarga terkini."
   - "Senarai penuh dan nama rasmi setiap program penajaan JPA lepasan SPM/STPM di portal penajaan.jpa.gov.my — kuota, bidang dan negara destinasi berubah setiap tahun."
@@ -46,7 +46,7 @@ verificationNeeded:
   - "The 50%-100% repayment condition for JPA recipients who serve in a GLC / the private sector — derived from a 2016 opinion piece; confirm whether it still applies."
   - "Nisbah/peratusan penajaan JPA yang berbentuk pinjaman boleh ubah berbanding biasiswa penuh."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null

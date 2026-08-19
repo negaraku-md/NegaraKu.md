@@ -39,7 +39,7 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "结束Sarawak叛乱的1990年和解的确切日期与地点。新闻报道与百科条目给出的是17 October 1990于Wisma Bapa Malaysia, Kuching，但这在所引用的权威来源中未获证实；Kyoto Review仅注明「1990」。"
   - "1990年Sarawak和解中游击队员的人数（Kyoto Review：「约50人」；新闻报道：52人，由Ang Cho Teng领导）。"
@@ -49,7 +49,7 @@ verificationNeeded:
   - "对新一轮叛乱时间跨度的表述：所引 Arkib Negara 条目对其描述不一，或称 1968-1978 年的第二次紧急状态，或称长达 21 年（1968-1989）的叛乱。"
   - "Kroh-Betong 伏击的伤亡数字（16 人死亡、17 人受伤）及 1975 年 8 月 26 日 Tugu Negara 爆炸的数字（2 人死亡、41 人受伤），须对照所引用的 Arkib Negara 条目核实。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null

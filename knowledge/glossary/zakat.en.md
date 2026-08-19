@@ -41,14 +41,14 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "The current nisab figures for each state (examples in the article: WP RM33,996 for 2026 and Pulau Pinang RM31,000 for 2025) — confirm directly with the state zakat bodies because these figures are updated each year according to the gold price."
   - "The syarak constant nisab = 20 mithqal (85 grams) of gold is anchored to the MAINPP savings-zakat page; confirm whether the same definition is used for every type of wealth zakat and every state."
   - "Takrifan kuantitatif fakir/miskin (peratusan keperluan asas) mengikut MAIDAM; negeri lain mungkin menggunakan kayu ukur (had kifayah) yang berbeza."
   - "Kadar dan asas pengiraan zakat fitrah ditetapkan setiap negeri setiap tahun; sahkan kadar semasa negeri berkaitan sebelum digunakan."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

@@ -42,14 +42,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Tarikh dan wilayah tepat asal roti canai (dahulu 'abad ke-19 / Tamil Nadu') — kini dilembutkan kerana tiada sumber rasmi yang dirujuk menyokongnya; sahkan dengan sumber sejarah primer sebelum menyatakan tarikh."
   - "Naratif asal nasi lemak kini disandarkan pada BERNAMA (bungkusan daun pisang oleh peniaga Melayu); pengaitan dengan petani/nelayan telah dibuang kerana tidak tersokong — sahkan jika sumber warisan primer wujud."
   - "Angka '213 makanan warisan menjelang 2018' berkemungkinan telah bertambah menjelang 2024; sahkan jumlah terkini dengan Jabatan Warisan Negara."
   - "Senarai penuh 'World's 50 Best Foods' CNN 2020 dan status eksklusif asam laksa dalam sepuluh teratas — disahkan daripada teks artikel The Star; sahkan semula terhadap sumber CNN asal jika perlu."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

@@ -43,7 +43,7 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "2024 年的确切财务数字（营收约 RM320 bilion、净利约 RM55.1 bilion，以及 2023 年的对比 RM343.6 bilion / RM80.7 bilion）——请对照 2025 年 2 月 5 日公布的 PETRONAS FY2024 集团财务业绩（官方 PDF 文件）核实。"
   - "砂拉越「每年最多 RM20 bilion」的收入估算——属分析师估算，而非官方数字；请核实来源与计算依据。"
@@ -51,7 +51,7 @@ verificationNeeded:
   - "Petronas与各州之间5%特许权补充协议（1975-76）的确切日期与内容。"
   - "消息来源日期（2025 年 5 月）之后，Petronas-PETROS 谈判的最新进展及任何法律行动。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null

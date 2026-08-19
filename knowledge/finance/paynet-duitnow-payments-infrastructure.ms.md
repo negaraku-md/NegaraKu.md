@@ -38,14 +38,14 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Pegangan BNM tepat semasa dalam PayNet dan status/garis masa pengurangan beransur-ansur BNM yang dirancang (diumumkan oleh Kementerian Kewangan dalam jawapan parlimen, Dec 2025) — sahkan angka masih 35.5% pada masa semakan manusia."
   - "Senarai penuh dan bilangan (11) pemegang saham institusi kewangan PayNet, dan sama ada Maybank, CIMB dan Public Bank termasuk dalam kalangannya."
   - "Jadual yuran QR peniaga (0.25% dibiayai bank, 0.5% dibiayai kad kredit, kadar rata RM0.50 melebihi RM5,000) — sahkan ini semasa, kerana terma yuran telah berubah dari semasa ke semasa."
   - "Sama ada tarikh akhir penamatan QR proprietari 30 June 2028 dan peralihan dua tahun kekal berkuat kuasa."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

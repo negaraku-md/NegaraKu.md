@@ -44,11 +44,11 @@ reviewer: null
 publishedBy: "ashton-tan"
 reviewed: "2026-08-14"
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Specific paddy yield per hectare by area (e.g. Kelantan/KADA) — none of the primary sources reviewed provides a per-hectare figure for a specific area; only the national average of below 5 tonnes per hectare and the higher figure for the Kedah pilot location are confirmed."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null

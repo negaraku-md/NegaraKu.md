@@ -38,13 +38,13 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "The official name and acronym of the national hospice umbrella body (the reference mentions 'Malaysian Hospice Council' at malaysianhospicecouncil.com; another external source uses 'Malaysian Hospice and Palliative Care Council / MHPCC' at mhpcc.com.my). Confirm the correct name and whether Hospis Malaysia is a member."
   - "The number of member NGOs/organisations under the national hospice council — the specific figure was removed because no accessible source could confirm it (the council's website returned an access error)."
   - "Bilangan semasa pakar paliatif KKM (34 pada Okt 2025) dan sama ada program domiciliary telah berkembang melebihi empat negeri awal sejak 2016."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

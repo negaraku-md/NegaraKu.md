@@ -39,11 +39,11 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "「自 2016 年以来超过 110 份申请」反映的是截至 2024 年 2 月强化框架时的数字（据 fintechnews.my）；请对照 BNM 自身的沙盒页面（bnm.gov.my/sandbox）核实最新的累计数量以确保时效。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

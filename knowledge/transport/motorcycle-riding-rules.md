@@ -37,7 +37,7 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Kod warta rasmi 'P.U. (A) 43/1973' bagi Kaedah-Kaedah Motosikal (Topi Keledar) 1973 — nama kaedah dan kandungannya disahkan menerusi sumber sekunder yang dibuka, tetapi kod P.U.(A) itu sendiri belum disahkan terhadap teks Warta Persekutuan primer."
   - "Tahun sebenar lorong motosikal Lebuhraya Persekutuan dibina — KKR menyebut 1977 manakala Free Malaysia Today menyebut 'awal 1970-an'. Perlu disahkan terhadap rekod JKR/LLM."
@@ -45,7 +45,7 @@ verificationNeeded:
   - "Revisi standard MS 1 yang berkuat kuasa (sumber menyebut MS 1:2011); sahkan versi mandatori semasa."
   - "Sama ada slug relasi 'road-transport-act-1987' wujud dalam korpus."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null

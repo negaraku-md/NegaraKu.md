@@ -38,12 +38,12 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "确认所引用的 ISA 580 版本（IAASB Handbook 2012）仍与马来西亚现行生效的 ISA 580 版本一致，包括段落编号 4、7、9、10、11、13、14、15、17、20、A2、A5、A6。"
   - "请核实 AASB/MIA 目前不加修改地采纳 ISA 的现状（参考 IFAC 马来西亚概况），以及 Audit Oversight Board (AOB) 是否也适用于公共利益实体。"
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null

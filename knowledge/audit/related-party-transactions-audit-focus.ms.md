@@ -41,12 +41,12 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Sahkan bahawa pemakaian ISA 550 oleh Malaysian Institute of Accountants (MIA) adalah sama secara teks dengan teks sumber IAASB bagi setiap perenggan yang bergantung padanya (perenggan 2, 10, 13, 14, 15, 18, 23, 24, 26, 27)."
   - "Sahkan PDF buku panduan ISA 550 yang dihoskan IFAC masih aktif; jika tidak, gantikan dengan halaman penerbitan IAASB atau jilid IAASB Handbook yang berkuat kuasa pada masa itu."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null

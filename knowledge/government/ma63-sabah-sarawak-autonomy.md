@@ -39,7 +39,7 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Tarikh dan majlis sebenar pengumuman kenaikan geran khas interim kepada RM600 juta (draf asal menyebut 12 September 2024) — sumber Bernama yang dipetik mengesahkan jumlah RM600 juta, berkuat kuasa 2025 dan kitaran semakan lima tahun, tetapi tidak mengesahkan tarikh pengumuman tertentu itu."
   - "Pecahan 13 tuntutan selesai mengikut pentadbiran (dilaporkan media sebagai 9 di bawah kerajaan MADANI dan 4 sebelumnya) — tidak disahkan dalam sumber Bernama utama yang dipetik untuk tally 13/29, jadi pecahan itu ditanggalkan daripada teks."
@@ -48,7 +48,7 @@ verificationNeeded:
   - "Tarikh 8 September 2022 (MKMA63 menyokong 35 peratus kerusi) serta pecahan 78/56 kerusi — dipetik daripada Bernama tetapi belum disemak semula dalam pusingan pembetulan ini."
   - "Kandungan penuh Akta A1642 (takrif 'Hari Malaysia' dalam Perkara 160 dan pindaan Perkara 161A) — sahkan dengan teks Akta di lom.agc.gov.my."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null

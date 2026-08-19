@@ -38,7 +38,7 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "The appointment date of Chief Executive Officer Ahmad Zulqarnain Onn (reported to take effect on 19 February 2024) — not covered by any of the listed sources."
   - "The establishment date of 1 October 1951 and the reference to the KWSP Ordinance 1951 — institutional/legislative facts without a fetched primary source; confirm with an official KWSP publication or the Government Gazette."
@@ -47,7 +47,7 @@ verificationNeeded:
   - "The 2023 investment-assets figure (RM1.13 trillion) used for the growth calculation — confirm against KWSP's official financial statements."
   - "Total investment income by asset class in RM (not just % and ROI) — confirm against the KWSP 2024 Annual Report / official statements."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null

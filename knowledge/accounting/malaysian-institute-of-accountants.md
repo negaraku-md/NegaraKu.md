@@ -41,12 +41,12 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "Sama ada terdapat standard perancangan cukai MIA dengan tarikh berkuat kuasa tertentu pada 2025 (angka '15 Julai 2025' dalam draf asal dibuang kerana tidak dapat disahkan) — sahkan terhadap pekeliling By-Laws MIA."
   - "Bilangan/volum kes tatatertib MIA (angka '74 kes 2023' dalam draf asal dibuang) — sahkan terhadap MIA Annual Report 2023 jika angka diperlukan semula."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null

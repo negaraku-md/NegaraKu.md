@@ -43,12 +43,12 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-version: "01.00"
+revision: 0
 verificationNeeded:
   - "The extent to which employers in Malaysia actually check credit reports (CCRIS/CTOS) as part of employment screening — the practice appears limited to certain financial-sector positions and is not supported by a primary official source; confirm or remove."
   - "Butiran perkhidmatan Saringan Penyewa CTOS (skop laporan, keperluan kebenaran bertulis penyewa) perlu disahkan terus dengan CTOS kerana laman produk gagal dimuatkan sepenuhnya semasa semakan."
 revisions:
-  - version: "01.00"
+  - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null
