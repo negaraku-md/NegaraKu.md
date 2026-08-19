@@ -98,9 +98,16 @@ const MEMO = import.meta.env.PROD;
 let _allCache: Promise<Article[]> | undefined;
 const _localeCache = new Map<Locale, Promise<Article[]>>();
 
+// Local dev (or an explicit PREVIEW_ALL=1 build) relaxes the publish gate so
+// contributors can PREVIEW work-in-progress — hidden, draft, in-review, even
+// sensitive-without-reviewer — in the browser. The deployed PROD build always
+// applies the gate (PREVIEW_ALL is false), so the public never sees any of it.
+const PREVIEW_ALL = import.meta.env.DEV || process.env.PREVIEW_ALL === '1';
+
 export function allArticles(): Promise<Article[]> {
   if (MEMO && _allCache) return _allCache;
   const p = getCollection('knowledge').then((c) => {
+    if (PREVIEW_ALL) return [...c]; // preview: serve every article, gate off
     // Hiding the MASTER hides the whole topic — every translation goes with it.
     const hiddenTopics = new Set(
       c
