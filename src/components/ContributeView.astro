@@ -56,12 +56,12 @@ const paths = [
   {
     id: 'contribute',
     icon: '✍️',
-    open: false,
+    open: true,
     title: L('Sumbang', 'Contribute', '贡献'),
     desc: L(
-      'Menulis atau menterjemah artikel. Secara jemputan pada fasa awal — mohon jemputan untuk menyertai.',
-      'Author or translate articles. Invitation-only in our early phase — request an invitation to join.',
-      '撰写或翻译文章。早期阶段采用邀请制——申请邀请以加入。',
+      'Menulis atau menterjemah artikel melalui fork + pull request. Tiada jemputan diperlukan untuk bermula.',
+      'Author or translate articles via fork + pull request. No invitation needed to start.',
+      '通过 fork + pull request 撰写或翻译文章。无需邀请即可开始。',
     ),
   },
 ];
@@ -76,7 +76,7 @@ const stages = [
   {
     n: 2,
     title: L('Draf', 'Draft', '起草'),
-    body: L('Penyumbang yang dijemput menulisnya — dipandu AI, mengikut piawai kami.', 'An invited contributor writes it — AI-guided, to our standard.', '受邀贡献者撰写——AI 引导，遵循我们的标准。'),
+    body: L('Seorang penyumbang menulisnya — dipandu AI, mengikut piawai kami.', 'A contributor writes it — AI-guided, to our standard.', '一位贡献者撰写——AI 引导，遵循我们的标准。'),
   },
   {
     n: 3,
@@ -129,9 +129,9 @@ const REPORT_LABELS = FEEDBACK_LABELS['article-issue'].join(',');
   ]}
   title={L('Sumbang kepada NegaraKu.md', 'Contribute to NegaraKu.md', '为 NegaraKu.md 做贡献')}
   desc={L(
-    'Tiga cara untuk mengambil bahagian. Melapor dan mencadang terbuka untuk semua; menulis adalah secara jemputan pada fasa awal kami.',
-    'Three ways to take part. Reporting and suggesting are open to all; authoring is by invitation during our early phase.',
-    '三种参与方式。报告与建议人人可参与；撰写在我们的早期阶段采用邀请制。',
+    'Tiga cara untuk mengambil bahagian — semuanya terbuka. Lapor, cadang, atau tulis dan terjemah artikel melalui fork + pull request.',
+    'Three ways to take part — all open. Report, suggest, or author and translate articles via fork + pull request.',
+    '三种参与方式——全部开放。通过 fork + pull request 报告、建议，或撰写与翻译文章。',
   )}
   stats={[
     { value: stats.sections, label: L('seksyen', 'sections', '版块') },
@@ -222,7 +222,7 @@ const REPORT_LABELS = FEEDBACK_LABELS['article-issue'].join(',');
         <ol>
           <li>{L('Disemak untuk kesesuaian & pertindihan', 'Checked for fit and duplicates', '检查适配性与去重')}</li>
           <li>{L('Ditambah ke backlog', 'Added to the backlog', '加入待办')}</li>
-          <li>{L('Didraf oleh penyumbang yang dijemput', 'Drafted by an invited contributor', '由受邀贡献者起草')}</li>
+          <li>{L('Didraf oleh seorang penyumbang', 'Drafted by a contributor', '由贡献者起草')}</li>
           <li>{L('Diterbitkan dalam tiga bahasa', 'Published in three languages', '以三语发布')}</li>
         </ol>
       </aside>
@@ -269,7 +269,7 @@ const REPORT_LABELS = FEEDBACK_LABELS['article-issue'].join(',');
         <b>{L('Apa yang berlaku seterusnya', 'What happens next', '接下来会怎样')}</b>
         <ol>
           <li>{L('Ditriaj dan disahkan dengan sumber', 'Triaged and verified against the source', '分流并对照来源核实')}</li>
-          <li>{L('Dibetulkan oleh penyumbang yang dijemput', 'Fixed by an invited contributor', '由受邀贡献者修正')}</li>
+          <li>{L('Dibetulkan oleh seorang penyumbang', 'Fixed by a contributor', '由贡献者修正')}</li>
           <li>{L('Diterbitkan semula dalam tiga bahasa', 'Republished in all three languages', '以三语重新发布')}</li>
         </ol>
       </aside>
@@ -293,27 +293,31 @@ const REPORT_LABELS = FEEDBACK_LABELS['article-issue'].join(',');
   </div>
 </section>
 
-<!-- CONTRIBUTE (by invitation) -->
+<!-- CONTRIBUTE (open via GitHub) -->
 <section class="container block two" id="contribute">
   <div class="psec">
-    <header><span>✍️ {L('Sumbang — secara jemputan', 'Contribute — by invitation', '贡献 — 邀请制')}</span></header>
+    <header><span>✍️ {L('Sumbang — terbuka melalui GitHub', 'Contribute — open via GitHub', '贡献 — 通过 GitHub 开放')}</span></header>
     <div class="psec-body">
-      <p class="lead">{L('Pada fasa awal, penulisan dan terjemahan adalah secara jemputan untuk melindungi kualiti dan topik sensitif. Begini cara menyertai:', 'In our early phase, authoring and translation are invitation-only to protect quality and sensitive topics. Here’s how to join:', '在早期阶段，撰写与翻译采用邀请制，以保障质量与敏感主题。加入方式如下：')}</p>
+      <p class="lead">{L('Penulisan dan terjemahan terbuka untuk semua melalui fork + pull request — tiada jemputan diperlukan. Topik sensitif disemak manusia sebelum terbit.', 'Authoring and translation are open to all via fork + pull request — no invitation needed. Sensitive topics get a human review before publishing.', '撰写与翻译通过 fork + pull request 向所有人开放——无需邀请。敏感主题在发布前经人工审阅。')}</p>
       <ol class="steps">
-        <li><b>{L('Mohon jemputan', 'Request an invitation', '申请邀请')}</b><span><a class="steplink" href={REQUEST_INVITE} rel="noopener">{L('Sapa kami di GitHub Discussions', 'Say hello in GitHub Discussions', '在 GitHub Discussions 打个招呼')}</a>{L(' — ceritakan bidang kepakaran dan bahasa anda.', ' — tell us your area of expertise and languages.', '——告诉我们你的专长与语言。')}</span></li>
-        <li><b>{L('Onboarding', 'Onboarding', '入门引导')}</b><span>{L('Kami semak dan tambah anda sebagai penyumbang, dengan akses menyunting.', 'We review and add you as a contributor, with editing access.', '我们审核并将你加为贡献者，授予编辑权限。')}</span></li>
-        <li><b>{L('Latihan penyumbang', 'Contributor training', '贡献者培训')}</b><span>{L('Pelajari piawai kami dan gunakan alat draf berpandukan AI di sebelah.', 'Learn our standard and use the AI-guided drafting tool on the right.', '学习我们的标准，并使用右侧的 AI 引导起草工具。')}</span></li>
-        <li><b>{L('Draf → PR → terbit', 'Draft → PR → publish', '起草 → PR → 发布')}</b><span>{L('Tulis dalam Markdown, buka pull request, disemak, kemudian disiarkan tiga bahasa.', 'Write in Markdown, open a pull request, get reviewed, then publish in three languages.', '用 Markdown 撰写，发起 pull request，经审阅后以三语发布。')}</span></li>
+        <li><b>{L('Fork & draf', 'Fork & draft', 'Fork 并起草')}</b><span>{L('Fork repo dan tulis artikel anda dalam Markdown — gunakan gesaan AI di sebelah, ikut CONTRIBUTING.md.', 'Fork the repo and write your article in Markdown — use the AI prompt on the right, following CONTRIBUTING.md.', 'Fork 仓库并用 Markdown 撰写文章——使用右侧的 AI 提示，遵循 CONTRIBUTING.md。')}</span></li>
+        <li><b>{L('Buka pull request', 'Open a pull request', '发起 pull request')}</b><span>{L('Hantar — sesiapa boleh, tiada jemputan diperlukan.', 'Submit it — anyone can, no invitation needed.', '提交——任何人都可以，无需邀请。')}</span></li>
+        <li><b>{L('Semakan', 'Review', '审阅')}</b><span>{L('Seorang penyemak menyemaknya; kandungan sensitif mendapat tandatangan manusia.', 'A reviewer checks it; sensitive content gets a human sign-off.', '审阅者进行检查；敏感内容需人工签署。')}</span></li>
+        <li><b>{L('Terbit', 'Publish', '发布')}</b><span>{L('Digabung dan disiarkan tiga bahasa — anda ditambah ke sejarah perubahan.', 'Merged and live in three languages — you’re added to the change history.', '合并并以三语上线——你会被加入修改历史。')}</span></li>
       </ol>
-      <a class="btn btn-primary" href={REQUEST_INVITE} rel="noopener">{L('Mohon jemputan menyumbang', 'Request an invitation', '申请贡献者邀请')}</a>
+      <div class="cbtns">
+        <a class="btn btn-primary" href={`${REPO}/blob/main/CONTRIBUTING.md`} rel="noopener">{L('Mula di GitHub', 'Start on GitHub', '在 GitHub 开始')} ↗</a>
+        <a class="btn btn-ghost" href={localePath('/roles', locale)}>{L('Peranan & akses', 'Roles & access', '角色与权限')} →</a>
+      </div>
+      <p class="muted small">{L('Mahu menuntut item Senarai Kerja atau menolak cabang tanpa fork? Keahlian org diberi atas permintaan.', 'Want to claim Worklist items or push branches without a fork? Org membership is granted on request.', '想认领工作清单条目或无需 fork 直接推送分支？组织成员资格经申请授予。')} <a href={REQUEST_INVITE} rel="noopener">{L('Sapa kami', 'Say hello', '打个招呼')} ↗</a></p>
     </div>
   </div>
 
   <div class="side">
     <div class="psec">
-      <header><span>🤖 {L('Latihan: draf berpandukan AI', 'Training: AI-guided drafting', '培训：AI 引导起草')}</span></header>
+      <header><span>🤖 {L('Draf berpandukan AI', 'AI-guided drafting', 'AI 引导起草')}</span></header>
       <div class="psec-body">
-        <p class="hint">{L('Sebahagian daripada latihan penyumbang. Salin, tampal ke dalam AI kegemaran anda, dan tukar [TOPIK].', 'Part of contributor training. Copy, paste into your favourite AI, and swap in [TOPIC].', '贡献者培训的一部分。复制并粘贴到你常用的 AI 中，替换 [主题]。')}</p>
+        <p class="hint">{L('Salin, tampal ke dalam AI kegemaran anda, dan tukar [TOPIK].', 'Copy, paste into your favourite AI, and swap in [TOPIC].', '复制并粘贴到你常用的 AI 中，替换 [主题]。')}</p>
         <pre class="prompt"><code>{aiPrompt}</code></pre>
         <button type="button" class="btn btn-ghost copy-prompt" data-prompt={aiPrompt}>{L('Salin gesaan', 'Copy prompt', '复制提示词')}</button>
       </div>
@@ -519,6 +523,7 @@ const REPORT_LABELS = FEEDBACK_LABELS['article-issue'].join(',');
   .steps span { color: var(--ink-soft); font-size: 0.9rem; line-height: 1.5; }
   .steplink { color: var(--gold); text-decoration: underline; text-underline-offset: 2px; font-weight: 600; }
   .steplink:hover { color: var(--gold-600); }
+  .cbtns { display: flex; flex-wrap: wrap; gap: 0.6rem; margin-bottom: 0.8rem; }
 
   .two { display: grid; grid-template-columns: 1.3fr 1fr; gap: 1.6rem; align-items: start; padding-bottom: 3rem; }
   .side { display: grid; gap: 1.6rem; }

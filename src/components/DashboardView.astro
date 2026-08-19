@@ -111,8 +111,8 @@ const avgSources = sourced ? (sources / sourced).toFixed(1) : '0';
   stats={[
     { value: sections.length, label: L('seksyen', 'sections', '版块') },
     { value: catSet.size, label: L('kategori', 'categories', '分类') },
-    { value: subcatSet.size, label: L('topik', 'topics', '主题') },
-    { value: totalTopics, label: L('artikel', 'articles', '文章') },
+    { value: subcatSet.size, label: L('subkategori', 'subcategories', '子分类') },
+    { value: totalTopics, label: L('topik', 'topics', '主题') },
   ]}
 />
 
@@ -145,19 +145,30 @@ const avgSources = sourced ? (sources / sourced).toFixed(1) : '0';
   <div class="psec">
     <header><span>{L('Liputan tiga bahasa', 'Trilingual coverage', '三语覆盖')}</span></header>
     <div class="psec-body">
-      <p class="hint">
-        {L(
-          `Daripada ${d.trilingual.topics} subjek, ${d.trilingual.full} (${d.trilingual.fullPct}%) wujud dalam ketiga-tiga bahasa. Baki ${d.trilingual.one} baru diterbitkan dalam bahasa asalnya dan masih menunggu terjemahan.`,
-          `Of ${d.trilingual.topics} subjects, ${d.trilingual.full} (${d.trilingual.fullPct}%) exist in all three languages. The other ${d.trilingual.one} were just published in their original language and still await translation.`,
-          `在 ${d.trilingual.topics} 个主题中，${d.trilingual.full} 个（${d.trilingual.fullPct}%）已具备三种语言。其余 ${d.trilingual.one} 个刚以原语言发布，仍待翻译。`,
-        )}
-      </p>
-
-      <div class="tri-sum">
-        <div class="tri-stat"><b>{d.trilingual.full}</b><span>{L('tiga bahasa', 'all three', '三语齐全')}</span></div>
-        <div class="tri-stat"><b>{d.trilingual.two}</b><span>{L('dua bahasa', 'two languages', '两种语言')}</span></div>
-        <div class="tri-stat"><b>{d.trilingual.one}</b><span>{L('satu bahasa', 'one language', '单一语言')}</span></div>
-      </div>
+      {d.trilingual.one === 0 && d.trilingual.two === 0 ? (
+        <p class="hint">
+          {L(
+            `Kesemua ${d.trilingual.topics} subjek wujud dalam ketiga-tiga bahasa — liputan tiga bahasa penuh.`,
+            `All ${d.trilingual.topics} subjects exist in all three languages — full trilingual parity.`,
+            `全部 ${d.trilingual.topics} 个主题均具备三种语言——完整三语对等。`,
+          )}
+        </p>
+      ) : (
+        <>
+          <p class="hint">
+            {L(
+              `Daripada ${d.trilingual.topics} subjek, ${d.trilingual.full} (${d.trilingual.fullPct}%) wujud dalam ketiga-tiga bahasa. Baki ${d.trilingual.one + d.trilingual.two} masih menunggu terjemahan penuh.`,
+              `Of ${d.trilingual.topics} subjects, ${d.trilingual.full} (${d.trilingual.fullPct}%) exist in all three languages. The other ${d.trilingual.one + d.trilingual.two} still await full translation.`,
+              `在 ${d.trilingual.topics} 个主题中，${d.trilingual.full} 个（${d.trilingual.fullPct}%）已具备三种语言。其余 ${d.trilingual.one + d.trilingual.two} 个仍待完整翻译。`,
+            )}
+          </p>
+          <div class="tri-sum">
+            <div class="tri-stat"><b>{d.trilingual.full}</b><span>{L('tiga bahasa', 'all three', '三语齐全')}</span></div>
+            <div class="tri-stat"><b>{d.trilingual.two}</b><span>{L('dua bahasa', 'two languages', '两种语言')}</span></div>
+            <div class="tri-stat"><b>{d.trilingual.one}</b><span>{L('satu bahasa', 'one language', '单一语言')}</span></div>
+          </div>
+        </>
+      )}
 
       <p class="legend">
         <span class="key"><i class="sw src" /> {L('Ditulis asal (induk)', 'Authored here (master)', '原创（主语言）')}</span>
@@ -267,14 +278,18 @@ const avgSources = sourced ? (sources / sourced).toFixed(1) : '0';
   <div class="psec">
     <header><span>{L('Kemas kini terkini', 'Recently updated', '最近更新')}</span></header>
     <div class="psec-body">
-      <ul class="recent">
-        {d.recentlyUpdated.map((a) => (
-          <li>
-            <a href={localePath(`/${a.category}/${a.slug}`, locale)}>{a.title[locale]}</a>
-            <span class="cmeta">{getCategory(a.category)?.name[locale] ?? a.category} · {a.updated}</span>
-          </li>
-        ))}
-      </ul>
+      {d.recentlyUpdated.length === 0 ? (
+        <p class="hint">{L('Tiada kemas kini terkini direkodkan.', 'No recent updates recorded.', '暂无最近更新记录。')}</p>
+      ) : (
+        <ul class="recent">
+          {d.recentlyUpdated.map((a) => (
+            <li>
+              <a href={localePath(`/${a.category}/${a.slug}`, locale)}>{a.title[locale]}</a>
+              <span class="cmeta">{getCategory(a.category)?.name[locale] ?? a.category} · {a.updated}</span>
+            </li>
+          ))}
+        </ul>
+      )}
       <p class="more"><a href={localePath('/changelog', locale)}>{L('Lihat log perubahan penuh →', 'See the full changelog →', '查看完整更新日志 →')}</a></p>
     </div>
   </div>
