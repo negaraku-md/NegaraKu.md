@@ -261,7 +261,7 @@ Alat pengawasan hariannya terletak dalam Peraturan Mesyuarat.
 
 - **Pertanyaan.** Peraturan 21(1) membenarkan pertanyaan diarahkan kepada
   Menteri mengenai hal dalam urusan jawatan mereka. Peraturan 22(2) mensyaratkan
-  notis bertulis tidak lewat daripada 14 hari bekerja sebelum mesyuarat
+  notis bertulis tidak lewat daripada 10 hari bekerja sebelum mesyuarat
   dimulakan, dan Peraturan 22(3) mengehadkan setiap ahli kepada tiga pertanyaan
   bertanda "Jawab Lisan" bagi satu hari mesyuarat.
 - **Jawatankuasa Kira-kira Wang Negara.** Peraturan 77 mensyaratkan jawatankuasa

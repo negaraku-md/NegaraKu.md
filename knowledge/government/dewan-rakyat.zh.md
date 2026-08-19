@@ -39,7 +39,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "aa7db0b279695c70"
+sourceContentHash: "ce348e711538fac4"
 
 status: "published"
 aiAssisted: true
@@ -220,7 +220,7 @@ keywords: ["Dewan Rakyat", "dewan rendah Parlimen", "Perkara 46", "Perkara 55", 
 其日常监督工具载于议事常规之中。
 
 - **质询。** 议事常规第21(1)条容许向部长提出关乎其职务范围内事务的质询。议
-  事常规第22(2)条规定，须于会议开始前不迟于14个工作日发出书面通知，而议事
+  事常规第22(2)条规定，须于会议开始前不迟于10个工作日发出书面通知，而议事
   常规第22(3)条则将每名议员在一个开会日内可提出、标注为「口头回答」的质询
   限制为三则。
 - **公共账目委员会。** 议事常规第77条规定，本委员会须在每一届国会开始时获委

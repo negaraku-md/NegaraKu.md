@@ -39,7 +39,7 @@ verificationNeeded:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "aa7db0b279695c70"
+sourceContentHash: "ce348e711538fac4"
 
 status: "published"
 aiAssisted: true
@@ -262,7 +262,7 @@ Its day-to-day instruments of oversight lie within the Standing Orders.
 
 - **Questions.** Standing Order 21(1) allows a question to be addressed to
   a Minister on a matter within his official duties. Standing Order 22(2)
-  requires written notice not later than 14 working days before the sitting
+  requires written notice not later than 10 working days before the sitting
   begins, and Standing Order 22(3) limits each member to three questions
   marked "For Oral Answer" for one sitting day.
 - **Public Accounts Committee.** Standing Order 77 requires this Committee

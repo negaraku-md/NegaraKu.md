@@ -90,7 +90,7 @@ If it concerns a Malaysian schoolchild — the curriculum they study, the textbo
 
 KPM is responsible for the national education system and, specifically, for **pre-tertiary education**: preschool, primary, secondary and post-secondary (matriculation) schooling. Its remit spans compulsory education, technical and vocational education and training (TVET), curriculum standards, textbooks, standardised tests, language policy, and the selective and comprehensive schools that make up the system.
 
-The ministry's stated vision is *Pendidikan Berkualiti, Insan Terdidik, Negara Sejahtera* — Quality Education, Educated Individuals, Prosperous Nation — and its mission is to sustain a quality education system that develops individual potential to fulfil national aspirations.
+The ministry's stated vision is *Pendidikan Bermutu, Insan Terdidik, Negara Sejahtera* — Quality Education, Educated Individuals, Prosperous Nation — and its mission is to sustain a quality education system that develops individual potential to fulfil national aspirations.
 
 ## What law does it operate under?
 

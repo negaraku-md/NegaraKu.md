@@ -30,7 +30,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "21be9dbe8511938b"
+sourceContentHash: "1933adbc7603ea58"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -90,7 +90,7 @@ Jika ia melibatkan seorang anak sekolah Malaysia — kurikulum yang mereka pelaj
 
 KPM bertanggungjawab ke atas sistem pendidikan kebangsaan dan, khususnya, ke atas **pendidikan pra-tertiari**: persekolahan prasekolah, rendah, menengah dan lepasan menengah (matrikulasi). Bidang tugasnya merangkumi pendidikan wajib, pendidikan dan latihan teknikal dan vokasional (TVET), standard kurikulum, buku teks, ujian berpiawai, dasar bahasa, serta sekolah terpilih dan komprehensif yang membentuk sistem ini.
 
-Visi kementerian yang dinyatakan ialah *Pendidikan Berkualiti, Insan Terdidik, Negara Sejahtera* — dan misinya adalah untuk mengekalkan sistem pendidikan berkualiti yang membangunkan potensi individu bagi memenuhi aspirasi negara.
+Visi kementerian yang dinyatakan ialah *Pendidikan Bermutu, Insan Terdidik, Negara Sejahtera* — dan misinya adalah untuk mengekalkan sistem pendidikan berkualiti yang membangunkan potensi individu bagi memenuhi aspirasi negara.
 
 ## Undang-undang apakah yang mengawal operasinya?
 

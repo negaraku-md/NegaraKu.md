@@ -30,7 +30,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "21be9dbe8511938b"
+sourceContentHash: "1933adbc7603ea58"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -90,7 +90,7 @@ keywords: ["Ministry of Education Malaysia", "KPM", "Kementerian Pendidikan Mala
 
 KPM 负责国家教育体系，具体而言负责**高等教育前教育**：学前教育、小学、中学与中学后（大学先修班）教育。其职责范围涵盖强制教育、技职教育与培训（TVET）、课程标准、教科书、标准化考试、语文政策，以及构成整个体系的精英学校与普通学校。
 
-该部门所述的愿景是 *Pendidikan Berkualiti, Insan Terdidik, Negara Sejahtera*——优质教育、有教养的国民、繁荣安康的国家——其使命是维系一个优质的教育体系，发展个人潜能以实现国家宏愿。
+该部门所述的愿景是 *Pendidikan Bermutu, Insan Terdidik, Negara Sejahtera*——优质教育、有教养的国民、繁荣安康的国家——其使命是维系一个优质的教育体系，发展个人潜能以实现国家宏愿。
 
 ## 它依据什么法律运作？
 
