@@ -43,7 +43,17 @@ jobs:
         run: npm ci
 
       - name: Install fonts for Open Graph images
-        run: sudo apt-get update && sudo apt-get install -y fonts-noto-cjk fonts-liberation
+        # Bounded + retried: a stalled apt mirror once hung this step for 16+ min
+        # (the whole build waits behind it). Fail fast, retry transient errors.
+        timeout-minutes: 5
+        run: |
+          for i in 1 2 3; do
+            sudo apt-get update && \
+            sudo apt-get install -y --no-install-recommends fonts-noto-cjk fonts-liberation && \
+            exit 0
+            echo "apt attempt $i failed; retrying in 5s"; sleep 5
+          done
+          echo "font install failed after 3 attempts"; exit 1
 
       # Restore the per-article Open Graph PNGs so build-og only regenerates the
       # cards whose content actually changed (see scripts/build-og.mjs). The key
