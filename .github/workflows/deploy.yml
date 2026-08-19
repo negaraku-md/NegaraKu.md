@@ -43,17 +43,20 @@ jobs:
         run: npm ci
 
       - name: Install fonts for Open Graph images
-        # Bounded + retried: a stalled apt mirror once hung this step for 16+ min
-        # (the whole build waits behind it). Fail fast, retry transient errors.
+        # BEST-EFFORT — OG social-card fonts must never block the site deploy.
+        # A stalled mirror once hung this step 16+ min; a broken one then failed
+        # the whole build. Now: bounded (5 min), retried, and non-fatal. sharp
+        # renders the cards without these fonts (CJK just falls back to whatever
+        # is present) — it does not crash — so a bad apt only degrades the cards.
+        continue-on-error: true
         timeout-minutes: 5
         run: |
           for i in 1 2 3; do
             sudo apt-get update && \
             sudo apt-get install -y --no-install-recommends fonts-noto-cjk fonts-liberation && \
-            exit 0
+            break
             echo "apt attempt $i failed; retrying in 5s"; sleep 5
           done
-          echo "font install failed after 3 attempts"; exit 1
 
       # Restore the per-article Open Graph PNGs so build-og only regenerates the
       # cards whose content actually changed (see scripts/build-og.mjs). The key
