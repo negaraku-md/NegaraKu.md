@@ -89,7 +89,7 @@ const NAV_GROUPS = [
     <div class="tools">
       {/* Reader/Contributor switch — hidden unless a verified contributor is
           recognised (html[data-contributor]); label flips with the current view. */}
-      <button type="button" class="view-toggle" data-view-toggle>
+      <button type="button" class="view-toggle" data-view-toggle aria-label={t('cnav.viewSwitch', locale)}>
         <span class="vt-ico" aria-hidden="true">⇄</span>
         <span data-when-view="reader">{t('cnav.toContributor', locale)}</span>
         <span data-when-view="contributor">{t('cnav.toReader', locale)}</span>
@@ -248,6 +248,16 @@ const NAV_GROUPS = [
       }
     })
     .catch(() => {});
+
+  // Clean sign-out: clear the client view flags before the browser follows the
+  // link to /api/auth/logout (which clears the cookie server-side), so we land
+  // back on a fresh Reader state with no stale toggle or view.
+  document.querySelectorAll('a[href="/api/auth/logout"]').forEach((a) =>
+    a.addEventListener('click', () => {
+      localStorage.removeItem(CONTRIB_KEY);
+      localStorage.removeItem(VIEW_KEY);
+    }),
+  );
 </script>
 
 <style>
@@ -696,4 +706,11 @@ const NAV_GROUPS = [
   .view-toggle .vt-ico { font-size: 0.95em; opacity: 0.85; }
   :global(html[data-view='reader']) .view-toggle [data-when-view='contributor'] { display: none; }
   :global(html[data-view='contributor']) .view-toggle [data-when-view='reader'] { display: none; }
+  /* Phones: collapse the switch to its ⇄ icon so it doesn't crowd the bar
+     (the aria-label keeps it named for assistive tech). */
+  @media (max-width: 900px) {
+    .view-toggle { padding: 0 0.55rem; gap: 0; }
+    .view-toggle [data-when-view] { display: none; }
+    .view-toggle .vt-ico { font-size: 1.05em; }
+  }
 </style>

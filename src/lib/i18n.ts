@@ -102,6 +102,7 @@ const STRINGS = {
   'cnav.toContributor': { ms: 'Paparan Penyumbang', en: 'Contributor view', zh: '贡献者视图' },
   'cnav.toReader': { ms: 'Paparan Pembaca', en: 'Reader view', zh: '读者视图' },
   'cnav.signout': { ms: 'Log keluar', en: 'Sign out', zh: '退出登录' },
+  'cnav.viewSwitch': { ms: 'Tukar paparan (Pembaca / Penyumbang)', en: 'Switch view (Reader / Contributor)', zh: '切换视图（读者 / 贡献者）' },
   'nav.signin': { ms: 'Log masuk penyumbang', en: 'Contributor sign-in', zh: '贡献者登录' },
   'reader.title': { ms: 'Tetapan bacaan', en: 'Reading settings', zh: '阅读设置' },
   'reader.theme': { ms: 'Tema', en: 'Theme', zh: '主题' },
