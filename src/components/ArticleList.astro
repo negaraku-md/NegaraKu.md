@@ -4,7 +4,7 @@ import type { Article } from '@/lib/content';
 import { getCategory, getPillar, getPillarDef, PILLARS } from '@/lib/categories';
 import { allArticles, effectiveStatus, readingTime } from '@/lib/content';
 import { subcatLabel } from '@/lib/subcategories';
-import { localePath, t } from '@/lib/i18n';
+import { t } from '@/lib/i18n';
 import { readFileSync } from 'node:fs';
 
 // Optional visitor analytics, keyed by "category/slug". Three buckets — human
@@ -94,14 +94,17 @@ const rows = articles.map((a, i) => {
   // human actor → "AI draft" (draft step); a step not yet reached is "pending".
   const isReviewed = d.status === 'reviewed' || d.status === 'published';
   const isPublished = d.status === 'published';
+  // Compact [who, date, reached] triples in fixed order (draft, reviewed,
+  // published); the client maps the index back to the stage. Dropping the
+  // repeated key/field names across ~1,000 rows trims the inline JSON ~120 KB.
   const custody = [
-    { key: 'draft', who: d.aiAssisted ? null : first?.contributor ?? d.author ?? null, date: iso(d.created ?? first?.date ?? d.updated), reached: true },
-    { key: 'reviewed', who: isReviewed ? d.reviewer ?? null : null, date: isReviewed ? iso(d.reviewed) : '', reached: isReviewed },
-    { key: 'published', who: isPublished ? d.publishedBy ?? d.reviewer ?? null : null, date: isPublished ? iso(d.published ?? d.reviewed) : '', reached: isPublished },
+    [d.aiAssisted ? null : first?.contributor ?? d.author ?? null, iso(d.created ?? first?.date ?? d.updated), true],
+    [isReviewed ? d.reviewer ?? null : null, isReviewed ? iso(d.reviewed) : '', isReviewed],
+    [isPublished ? d.publishedBy ?? d.reviewer ?? null : null, isPublished ? iso(d.published ?? d.reviewed) : '', isPublished],
   ];
   return {
     t: d.title,
-    h: localePath(`/${d.category}/${d.slug}`, locale),
+    // `h` (the localized href) is derived client-side from `p` — saves ~40 KB.
     p: `/${d.category}/${d.slug}`,
     sec: pillar ? getPillarDef(pillar)?.name[locale] ?? pillar : '—',
     secId: pillar ?? '',
@@ -346,19 +349,25 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
 
   const esc = (s) => String(s).replace(/[<>&]/g, (c) => ({ '<': '&lt;', '>': '&gt;', '&': '&amp;' }[c]));
   const STAGE = { draft: I18N.stageDrafted, reviewed: I18N.stageReviewed, published: I18N.stagePublished };
+  const STAGE_KEYS = ['draft', 'reviewed', 'published'];
+  // Derive the localized href from the bare `/category/slug` path (the server
+  // drops the pre-built `h` to keep the inline row payload small).
+  const _lang = (document.documentElement.lang || 'en').slice(0, 2);
+  const href = (p) => (_lang === 'ms' ? p : `/${_lang}${p}`);
 
   // Chain of custody as a progress track: a dot per lifecycle step (filled when
   // reached, hollow when pending) with the accountable actor + date. Unknown
   // human actor → "AI draft" (draft) or nothing (later steps); unreached → pending.
   function custodyHtml(cust) {
     if (!cust || !cust.length) return '';
-    const items = cust.map((c) => {
+    const items = cust.map((c, i) => {
+      const who = c[0], date = c[1], reached = c[2], key = STAGE_KEYS[i];
       let actor = '';
-      if (!c.reached) actor = `<span class="pend">${I18N.pending}</span>`;
-      else if (c.who) actor = `<span class="who">${esc(c.who)}</span>`;
-      else if (c.key === 'draft') actor = `<span class="ai">${I18N.aiDraft}</span>`;
-      const date = c.reached && c.date ? `<time>${c.date}</time>` : '';
-      return `<li class="${c.reached ? 'done' : 'todo'}"><span class="dot"></span><span class="stg">${STAGE[c.key]}</span>${actor}${date}</li>`;
+      if (!reached) actor = `<span class="pend">${I18N.pending}</span>`;
+      else if (who) actor = `<span class="who">${esc(who)}</span>`;
+      else if (key === 'draft') actor = `<span class="ai">${I18N.aiDraft}</span>`;
+      const dt = reached && date ? `<time>${date}</time>` : '';
+      return `<li class="${reached ? 'done' : 'todo'}"><span class="dot"></span><span class="stg">${STAGE[key]}</span>${actor}${dt}</li>`;
     }).join('');
     return `<div class="meta-row custody"><span class="hlabel">${I18N.custodyLabel}</span><ol class="steps">${items}</ol></div>`;
   }
@@ -392,12 +401,13 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
   // card still carries the essentials: master language · contributor · published
   // date · next review.
   function compactHtml(r) {
-    const pub = (r.custody || []).find((c) => c.key === 'published' && c.reached)
-      || (r.custody || []).find((c) => c.reached && c.who);
+    // published triple (index 2) if reached, else any reached step with an actor.
+    let pub = r.custody && r.custody[2] && r.custody[2][2] ? r.custody[2] : null;
+    if (!pub) pub = (r.custody || []).find((c) => c[2] && c[0]) || null;
     const bits = [`<span class="chip${r.sens ? ' sens' : ''}">${I18N.classification}: ${r.sens ? '🔒 ' : ''}${esc(r.cls)}</span>`];
     bits.push(`<span class="chip">${I18N.master}: ${r.ml}</span>`);
-    if (pub && pub.who) bits.push(`<span class="chip">${I18N.contributor}: ${esc(pub.who)}</span>`);
-    if (pub && pub.date) bits.push(`<span class="chip dim">${I18N.stagePublished}: ${pub.date}</span>`);
+    if (pub && pub[0]) bits.push(`<span class="chip">${I18N.contributor}: ${esc(pub[0])}</span>`);
+    if (pub && pub[1]) bits.push(`<span class="chip dim">${I18N.stagePublished}: ${pub[1]}</span>`);
     if (r.rev) bits.push(`<span class="chip ${r.revOverdue ? 'overdue' : 'dim'}"${r.revOverdue ? ` title="${I18N.overdue}"` : ''}>${r.revOverdue ? '⚠ ' : ''}${I18N.nextReview}: ${r.rev}</span>`);
     return `<div class="meta-row compact"><div class="achips">${bits.join('')}</div></div>`;
   }
@@ -419,7 +429,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
       const cardHtml = (r) => `
         <article class="acard${CFG.showRank ? ' ranked' : ''}">
           ${CFG.showRank ? `<div class="atrend"><span class="arank">#${r.rank}</span>${trendReads(r)}</div>` : ''}
-          <a class="atitle" href="${r.h}">${r.t}</a>
+          <a class="atitle" href="${href(r.p)}">${r.t}</a>
           <div class="acard-meta">
             ${!showRow('path') ? '' : `
             <div class="meta-row">
