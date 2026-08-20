@@ -30,10 +30,10 @@ const pillarStats = PILLARS.map((p) => {
 // "More ways to explore" — the non-section entry points, mirroring the Explore
 // menu so the page and the dropdown stay in step. The exhaustive category index
 // lives at /categories; Explore only points to it rather than duplicating it.
+// Latest and Most-read are already rendered as full strips above, so this grid
+// only carries the entry points the page doesn't already show inline.
 const ways = [
   { href: '/categories', icon: '🗂️', color: '#38BDF8', title: t('nav.categories', locale), blurb: L('Semak imbas kesemua kategori.', 'Browse the full category index.', '浏览完整分类索引。') },
-  { href: '/latest', icon: '🆕', color: '#4ADE80', title: t('nav.latest', locale), blurb: L('Kemas kini terbaharu, disusun mengikut tarikh.', 'The newest updates, grouped by date.', '最新更新，按日期分组。') },
-  { href: '/most-read', icon: '🔥', color: '#FB923C', title: t('nav.trending', locale), blurb: L('Artikel paling banyak dibaca sekarang.', 'The most-read articles right now.', '当前阅读量最高的文章。') },
   { href: '/malaysia/timeline-of-malaysia', icon: '📜', color: '#FFC000', title: t('nav.timeline', locale), blurb: L('Sejarah Malaysia dalam satu garis masa.', "Malaysia's history on one timeline.", '一条时间线看马来西亚历史。') },
   { href: '/graph', icon: '🕸️', color: '#A78BFA', title: t('nav.graph', locale), blurb: L('Setiap topik dan cara ia berhubung.', 'Every topic and how it connects.', '每个主题及其关联。') },
 ];

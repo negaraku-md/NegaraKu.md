@@ -1,7 +1,6 @@
 ---
 import type { Locale } from '@/lib/categories';
-import { getPillar } from '@/lib/categories';
-import { articlesForLocale } from '@/lib/content';
+import { articlesForLocale, siteStats } from '@/lib/content';
 import { localePath, t } from '@/lib/i18n';
 import PageHero from './PageHero.astro';
 import ArticleList from './ArticleList.astro';
@@ -32,9 +31,9 @@ const sorted = (await articlesForLocale(locale))
 const recent = sorted.filter((a) => +new Date(a.data.updated) >= cutoff);
 const canonical = (recent.length >= MIN_ITEMS ? recent : sorted).slice(0, MAX_ITEMS);
 
-const secCount = new Set(canonical.map((a) => getPillar(a.data.category)).filter(Boolean)).size;
-const catCount = new Set(canonical.map((a) => a.data.category)).size;
-const topCount = new Set(canonical.flatMap((a) => (a.data.subcategory ?? []).map((s) => `${a.data.category}/${s}`))).size;
+// Hero shows the whole-corpus figures (same rule as every other page), so counts
+// reconcile site-wide; the list below is the recent slice.
+const stats = await siteStats(locale);
 ---
 
 <PageHero
@@ -50,10 +49,10 @@ const topCount = new Set(canonical.flatMap((a) => (a.data.subcategory ?? []).map
     '最近更新的文章（最多 100 篇），按日期分组。',
   )}
   stats={[
-    { value: secCount, label: L('seksyen', 'sections', '版块') },
-    { value: catCount, label: L('kategori', 'categories', '分类') },
-    { value: topCount, label: L('subkategori', 'subcategories', '子分类') },
-    { value: canonical.length, label: L('topik', 'topics', '主题') },
+    { value: stats.sections, label: L('seksyen', 'sections', '版块') },
+    { value: stats.categories, label: L('kategori', 'categories', '分类') },
+    { value: stats.topics, label: L('subkategori', 'subcategories', '子分类') },
+    { value: stats.articles, label: L('topik', 'topics', '主题') },
   ]}
 />
 
