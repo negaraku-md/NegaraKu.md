@@ -211,6 +211,10 @@ const NAV_GROUPS = [
   // authoritative and overrides this.
   document.addEventListener('keydown', (e) => {
     if (!(e.ctrlKey && e.altKey && e.shiftKey) || e.code !== 'KeyC') return;
+    // DEV ONLY. On production the /api/auth/me org-membership check below is the
+    // sole, authoritative gate, so this manual preview is disabled off localhost —
+    // a non-contributor must never be able to reveal the switch on the live site.
+    if (location.hostname !== 'localhost' && location.hostname !== '127.0.0.1') return;
     e.preventDefault();
     const on = localStorage.getItem(CONTRIB_KEY) !== '1';
     localStorage.setItem(CONTRIB_KEY, on ? '1' : '0');
