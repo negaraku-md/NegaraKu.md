@@ -202,6 +202,12 @@ const NAV_GROUPS = [
       const next = root.dataset.view === 'contributor' ? 'reader' : 'contributor';
       localStorage.setItem(VIEW_KEY, next);
       applyView(next);
+      // On phones the nav is collapsed in the hamburger, so a bare tap has no
+      // visible effect. Open the menu to reveal the view you just switched to.
+      if (window.matchMedia('(max-width: 900px)').matches) {
+        const cb = document.getElementById('nav-toggle');
+        if (cb instanceof HTMLInputElement) cb.checked = true;
+      }
     }),
   );
 
@@ -708,6 +714,11 @@ const NAV_GROUPS = [
     border-color: var(--gold);
     background: color-mix(in srgb, var(--gold) 10%, var(--surface));
     color: var(--gold);
+  }
+  /* Filled when Contributor View is active — a clear on/off signal, especially on
+     mobile where the button is icon-only and the nav change is behind the menu. */
+  :global(html[data-view='contributor']) .view-toggle {
+    background: var(--gold); border-color: var(--gold); color: var(--accent-contrast, #07070a);
   }
   .view-toggle .vt-ico { font-size: 0.95em; opacity: 0.85; }
   :global(html[data-view='reader']) .view-toggle [data-when-view='contributor'] { display: none; }
