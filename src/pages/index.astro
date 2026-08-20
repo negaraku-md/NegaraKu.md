@@ -1,14 +1,12 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import HomeView from '@/components/HomeView.astro';
-import { homeData } from '@/lib/homedata';
 import { websiteJsonLd, organizationJsonLd } from '@/lib/seo';
 import { t } from '@/lib/i18n';
 
 const locale = 'ms';
-const { essentials, all, counts, total } = await homeData(locale);
 ---
 
 <BaseLayout locale={locale} title="Pangkalan Pengetahuan Malaysia Sumber Terbuka | NegaraKu.md" description={t('site.tagline', locale)} path="/" jsonLd={[websiteJsonLd(), organizationJsonLd()]}>
-  <HomeView locale={locale} essentials={essentials} all={all} counts={counts} total={total} />
+  <HomeView locale={locale} />
 </BaseLayout>

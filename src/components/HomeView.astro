@@ -3,25 +3,18 @@ import type { Locale } from '@/lib/categories';
 import { PILLARS, getPillarColor } from '@/lib/categories';
 import { t, localePath } from '@/lib/i18n';
 import { articlesForLocale } from '@/lib/content';
-import { mostReadKeys } from '@/lib/apidata';
 import ArticleStrip from './ArticleStrip.astro';
 
 interface Props {
   locale: Locale;
-  // Accepted for route compatibility; the trimmed home page no longer uses them.
-  essentials?: unknown;
-  all?: unknown;
-  counts?: unknown;
-  total?: unknown;
 }
 const { locale } = Astro.props;
 const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
-// Site-wide Most-read + Latest strips. Latest excludes the Most-read picks so the
-// two never repeat the same articles.
+// A single "Latest" strip on the home page. The full Latest + Most-read pair
+// lives on /explore, so the home page offers one taste instead of repeating both.
 const items = (await articlesForLocale(locale)).filter((a) => a.data.category !== 'about');
 const STRIP = 4;
-const mrKeys = mostReadKeys(items, STRIP);
 
 // Distinctive facts, not factbook figures. Each is verified: Peninsular + Borneo
 // split by the South China Sea; Taman Negara ~130M yrs (older than the Amazon);
@@ -95,9 +88,7 @@ const stats = [
   </div>
 </section>
 
-<ArticleStrip locale={locale} articles={items} moreHref="/latest" sort="recent" limit={STRIP} exclude={mrKeys} />
-
-<ArticleStrip locale={locale} articles={items} moreHref="/most-read" limit={STRIP} />
+<ArticleStrip locale={locale} articles={items} moreHref="/latest" sort="recent" limit={STRIP} />
 
 <style>
   /* Microsoft-style structure, 1company brand: eyebrow → headline → pitch →
@@ -141,8 +132,6 @@ const stats = [
   }
   .hsearch button:hover { border-color: var(--gold); background: color-mix(in srgb, var(--gold) 10%, var(--surface)); }
   .cta { display: flex; gap: 1.1rem; flex-wrap: wrap; align-items: center; }
-  .ghlink { display: inline-flex; align-items: center; gap: 0.45rem; font-size: 0.9rem; color: var(--ink-soft); text-decoration: none; }
-  .ghlink:hover { color: var(--gold); }
 
   .stats { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem; margin: 0; }
   .stat {
@@ -163,21 +152,6 @@ const stats = [
 
   .block { margin-top: 3rem; }
   .block > h2 { font-size: 1.6rem; margin-bottom: 1.1rem; }
-  .sec-head { display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 1.1rem; }
-  .sec-head h2 { margin: 0; font-size: 1.6rem; }
-  .sec-head h3 { margin: 0; font-size: 1.3rem; font-family: var(--font-title); }
-  .total { color: var(--muted); font-size: 0.9rem; }
-
-  .all-cats-title { font-size: 1.9rem; margin-bottom: 1.8rem; }
-  .pillar-group { margin-bottom: 2.6rem; }
-  .pillar-group .sec-head { margin-bottom: 0.35rem; }
-  .pillar-tagline { color: var(--ink-soft); font-size: 0.95rem; margin: 0 0 1.1rem; }
-
-  .why-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr)); gap: 1rem; }
-  .why-grid .card { display: flex; flex-direction: column; gap: 0.3rem; }
-  .dicon { font-size: 1.6rem; }
-  .why-grid b { font-family: var(--font-title); }
-  .why-grid p { color: var(--ink-soft); font-size: 0.9rem; margin: 0; }
 
   .ways-title { text-align: center; margin-bottom: 1.4rem; font-size: 1.6rem; }
   .pillars { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; }
@@ -189,50 +163,5 @@ const stats = [
   .pillar .pdesc { color: var(--ink-soft); font-size: 0.95rem; flex: 1; }
   .pillar .pgo { color: var(--c); font-weight: 700; font-size: 0.9rem; }
   @media (max-width: 800px) { .pillars { grid-template-columns: 1fr; } }
-  .see-all { color: var(--gold); text-decoration: none; font-weight: 600; font-size: 0.9rem; white-space: nowrap; }
 
-  .cover { scroll-margin-top: calc(var(--nav-height) + 1rem); }
-  .cover-inner { max-width: 46rem; margin-inline: auto; text-align: center; padding-block: 1rem; }
-  .cover-inner h2 { font-size: clamp(1.7rem, 4vw, 2.4rem); margin: 0 0 1rem; }
-  .cover-inner p { font-size: 1.2rem; line-height: 1.7; color: var(--ink-soft); margin: 0 0 0.8rem; }
-  .cover-inner .btn { margin-top: 1rem; }
-
-  .organism { display: grid; grid-template-columns: 1fr 1.2fr; gap: 2rem; align-items: center; background: var(--surface); border: 1px solid var(--line); border-radius: 16px; padding: 2rem; }
-  .kicker2 { color: var(--gold); font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; font-size: 0.78rem; margin: 0 0 0.3rem; }
-  .org-copy h2 { margin: 0 0 0.5rem; }
-  .org-copy p { color: var(--ink-soft); }
-  .org-vitals { display: grid; grid-template-columns: repeat(auto-fit, minmax(6rem, 1fr)); gap: 1rem; }
-  .ov { text-align: center; }
-  .ov-score { --v: 0; width: 68px; height: 68px; margin: 0 auto 0.4rem; border-radius: 50%; display: grid; place-items: center;
-    background: radial-gradient(closest-side, var(--surface) 68%, transparent 69%), conic-gradient(var(--gold) calc(var(--v) * 1%), var(--line) 0); }
-  .ov-score span { font-family: var(--font-title); font-weight: 800; }
-  .ov-name { font-size: 0.78rem; color: var(--ink-soft); }
-
-  .narrative { display: grid; grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr)); gap: 1.5rem; }
-  .part { border-top: 2px solid var(--gold); padding-top: 0.8rem; }
-  .pnum { font-family: var(--font-title); font-weight: 900; color: var(--gold); font-size: 1.4rem; margin: 0; }
-  .part h3 { margin: 0.2rem 0 0.6rem; font-size: 1.05rem; }
-  .part ul { list-style: none; padding: 0; margin: 0; display: grid; gap: 0.35rem; }
-  .part a { color: var(--ink-soft); text-decoration: none; font-size: 0.92rem; }
-  .part a:hover { color: var(--gold); }
-
-  .live { display: grid; grid-template-columns: auto 1fr; gap: 2rem; border: 1px solid var(--line); border-radius: 16px; padding: 1.5rem; }
-  .live-counters { display: grid; gap: 0.75rem; align-content: start; }
-  .live-counters b { font-family: var(--font-title); font-size: 1.6rem; color: var(--gold); }
-  .live-counters span { color: var(--muted); font-size: 0.8rem; margin-left: 0.4rem; }
-  .live-feed h3 { margin: 0 0 0.5rem; font-size: 1rem; }
-  .live-feed ul { list-style: none; padding: 0; margin: 0 0 0.5rem; font-size: 0.9rem; }
-  .live-feed code { color: var(--gold); }
-  .muted { color: var(--muted); }
-
-  .feedback { overflow: hidden; border-block: 1px solid var(--line); padding: 1.25rem 0; }
-  .marquee { display: flex; gap: 2rem; width: max-content; animation: scroll 40s linear infinite; }
-  .quote { color: var(--ink-soft); font-style: italic; white-space: nowrap; }
-  @keyframes scroll { to { transform: translateX(-50%); } }
-  @media (prefers-reduced-motion: reduce) { .marquee { animation: none; flex-wrap: wrap; width: auto; } }
-
-  @media (max-width: 800px) {
-    .organism, .live { grid-template-columns: 1fr; }
-    .live { grid-template-columns: 1fr; }
-  }
 </style>
