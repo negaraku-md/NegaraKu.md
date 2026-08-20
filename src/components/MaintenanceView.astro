@@ -1,8 +1,6 @@
 ---
 import type { Locale } from '@/lib/categories';
-import { REPO } from '@/lib/site';
 import { MAINTENANCE_UNTIL } from '@/lib/maintenance';
-import { FLOWER_D } from '@/lib/logo';
 
 interface Props {
   locale: Locale;
@@ -23,33 +21,26 @@ if (MAINTENANCE_UNTIL) {
 ---
 
 <section class="maint">
-  <div class="mwrap">
-    <svg class="mflower" viewBox="0 0 776 776" aria-hidden="true">
-      <path fill="currentColor" fill-rule="evenodd" d={FLOWER_D} />
-    </svg>
+  <div class="mrow">
+    <!-- The NegaraKu.md brand icon (the Facebook-profile hexagon lockup). -->
+    <img class="micon" src="/brand/negaraku-icon.svg" width="512" height="512" alt="NegaraKu.md" />
 
-    <p class="mmark">NegaraKu<span class="dot">.md</span></p>
-
-    <h1>{L('Kami akan kembali sebentar lagi', 'We’ll be right back', '我们很快就回来')}</h1>
-
-    <p class="mlead">
-      {L(
-        'NegaraKu.md sedang menjalani penyelenggaraan ringkas untuk menjadi lebih baik. Terima kasih atas kesabaran anda.',
-        'NegaraKu.md is undergoing brief maintenance to make things better. Thanks for your patience.',
-        'NegaraKu.md 正在进行简短维护以提升体验。感谢您的耐心等待。',
-      )}
-    </p>
-
-    {untilText && (
-      <p class="muntil">
-        <span class="mlabel">{L('Dijangka kembali menjelang', 'Expected back by', '预计恢复时间')}</span>
-        <b>{untilText}</b>
+    <div class="mtext">
+      <p class="mmark">NegaraKu<span class="dot">.md</span></p>
+      <h1>{L('Kami akan kembali sebentar lagi', 'We’ll be right back', '我们很快就回来')}</h1>
+      <p class="mlead">
+        {L(
+          'NegaraKu.md sedang menjalani penyelenggaraan ringkas untuk menjadi lebih baik. Terima kasih atas kesabaran anda.',
+          'NegaraKu.md is undergoing brief maintenance to make things better. Thanks for your patience.',
+          'NegaraKu.md 正在进行简短维护以提升体验。感谢您的耐心等待。',
+        )}
       </p>
-    )}
-
-    <div class="macts">
-      <a class="mbtn" href={REPO} rel="noopener">{L('Ikuti perkembangan di GitHub', 'Follow progress on GitHub', '在 GitHub 上关注进展')} ↗</a>
-      <a class="mbtn ghost" href={`${REPO}/deployments`} rel="noopener">{L('Status laman', 'Site status', '网站状态')} ↗</a>
+      {untilText && (
+        <p class="muntil">
+          <span class="mlabel">{L('Dijangka kembali menjelang', 'Expected back by', '预计恢复时间')}</span>
+          <b>{untilText}</b>
+        </p>
+      )}
     </div>
   </div>
 </section>
@@ -58,49 +49,53 @@ if (MAINTENANCE_UNTIL) {
   .maint {
     min-height: 100dvh; min-height: 100vh;
     display: grid; place-items: center;
-    padding: 2rem 1.25rem;
+    padding: 2rem 1.5rem;
     background:
-      radial-gradient(720px 460px at 50% -8%, color-mix(in srgb, var(--gold) 12%, transparent), transparent),
+      radial-gradient(760px 460px at 50% -8%, color-mix(in srgb, var(--gold) 12%, transparent), transparent),
       var(--bg, #07070a);
   }
-  .mwrap { position: relative; max-width: 40rem; text-align: center; }
-  .mflower {
-    width: clamp(90px, 18vw, 150px); height: auto; color: var(--gold);
-    opacity: 0.9; margin: 0 auto 1.4rem; display: block;
+
+  /* Icon on the left, text on the right. */
+  .mrow {
+    display: flex; align-items: center; gap: clamp(1.5rem, 4vw, 3.25rem);
+    max-width: 56rem;
+  }
+  .micon {
+    flex: none; width: clamp(120px, 20vw, 200px); height: auto;
     animation: mfloat 6s ease-in-out infinite;
   }
-  @media (prefers-reduced-motion: reduce) { .mflower { animation: none; } }
+  @media (prefers-reduced-motion: reduce) { .micon { animation: none; } }
   @keyframes mfloat { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-8px); } }
 
+  .mtext { text-align: left; min-width: 0; }
   .mmark {
-    font-family: var(--font-title, system-ui); font-weight: 800; font-size: 1.35rem;
-    letter-spacing: 0.01em; color: var(--ink, #f4f4f8); margin: 0 0 1.3rem;
+    font-family: var(--font-title, system-ui); font-weight: 800; font-size: 1.3rem;
+    letter-spacing: 0.01em; color: var(--ink, #f4f4f8); margin: 0 0 0.6rem;
   }
   .mmark .dot { color: var(--gold); }
-
   .maint h1 {
     font-family: var(--font-title, system-ui); font-weight: 900;
-    font-size: clamp(1.9rem, 5vw, 3rem); line-height: 1.1; letter-spacing: -0.02em;
-    color: var(--ink, #f4f4f8); margin: 0 0 1rem;
+    font-size: clamp(1.9rem, 5vw, 3rem); line-height: 1.08; letter-spacing: -0.02em;
+    color: var(--ink, #f4f4f8); margin: 0 0 0.9rem;
   }
-  .mlead { color: var(--ink-soft, #c6c6d4); font-size: clamp(1rem, 2.2vw, 1.15rem); line-height: 1.65; margin: 0 auto 1.7rem; max-width: 34rem; }
-
+  .mlead {
+    color: var(--ink-soft, #c6c6d4); font-size: clamp(1rem, 2.2vw, 1.15rem);
+    line-height: 1.6; margin: 0 0 1.5rem; max-width: 38rem;
+  }
   .muntil {
-    display: inline-flex; flex-direction: column; gap: 0.15rem; align-items: center;
-    background: var(--surface, #101018); border: 1px solid color-mix(in srgb, var(--gold) 35%, var(--line, #26263a));
-    border-radius: 12px; padding: 0.8rem 1.4rem; margin: 0 0 1.9rem;
+    display: inline-flex; flex-direction: column; gap: 0.15rem;
+    background: var(--surface, #101018);
+    border: 1px solid color-mix(in srgb, var(--gold) 35%, var(--line, #26263a));
+    border-radius: 12px; padding: 0.75rem 1.35rem; margin: 0;
   }
   .muntil .mlabel { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted, #9a9ab8); }
   .muntil b { font-family: var(--font-title, system-ui); font-size: 1.1rem; color: var(--gold); font-variant-numeric: tabular-nums; }
 
-  .macts { display: flex; flex-wrap: wrap; gap: 0.7rem; justify-content: center; }
-  .mbtn {
-    font-family: var(--font-sans, system-ui); font-weight: 700; font-size: 0.92rem; text-decoration: none;
-    padding: 0.7rem 1.3rem; border-radius: 999px;
-    background: var(--gold); color: var(--accent-contrast, #07070a);
-    border: 1px solid var(--gold); transition: background 0.15s, border-color 0.15s;
+  /* Stack on narrow screens: icon on top, centered text below. */
+  @media (max-width: 640px) {
+    .mrow { flex-direction: column; text-align: center; gap: 1.6rem; }
+    .mtext { text-align: center; }
+    .muntil { align-items: center; }
+    .mlead { margin-inline: auto; }
   }
-  .mbtn:hover { background: var(--gold-600, #d9a300); border-color: var(--gold-600, #d9a300); }
-  .mbtn.ghost { background: transparent; color: var(--ink, #f4f4f8); border-color: color-mix(in srgb, var(--gold) 45%, var(--line, #26263a)); }
-  .mbtn.ghost:hover { border-color: var(--gold); background: color-mix(in srgb, var(--gold) 10%, transparent); }
 </style>
