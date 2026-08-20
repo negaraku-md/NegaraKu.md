@@ -55,7 +55,7 @@ const payload = JSON.stringify({ nodes, links, colors: CATEGORY_COLORS });
       <>
         <div class="gbar">
           <p class="ghint">
-            {L('Tatal untuk zum · seret untuk gerak · tuding untuk sorot · klik untuk buka.', 'Scroll to zoom · drag to pan · hover to highlight · click to open.', '滚动缩放 · 拖动平移 · 悬停高亮 · 点击打开。')}
+            {L('Tatal/dua jari untuk zum · seret untuk gerak · tuding atau ketik untuk sorot · klik/ketik dua kali untuk buka.', 'Scroll or two fingers to zoom · drag to pan · hover or tap to highlight · click / double-tap to open.', '滚动或双指缩放 · 拖动平移 · 悬停或轻点高亮 · 点击/双击打开。')}
           </p>
           <button id="greset" type="button" class="greset">{L('Set semula', 'Reset view', '重置视图')}</button>
         </div>
@@ -153,6 +153,8 @@ const payload = JSON.stringify({ nodes, links, colors: CATEGORY_COLORS });
 
     let transform = d3.zoomIdentity;
     let hover: N | null = null;
+    let armed: N | null = null; // touch: the node a first tap previewed
+    let touchPointer = false; // whether the last pointerdown was a finger
     let query = '';
     let matches = new Set<string>();
     const visible = (n: N) => !hiddenCats.has(n.c);
@@ -160,11 +162,18 @@ const payload = JSON.stringify({ nodes, links, colors: CATEGORY_COLORS });
     const zoom = d3
       .zoom<HTMLCanvasElement, unknown>()
       .scaleExtent([0.12, 7])
+      // Let a single finger scroll the PAGE (paired with touch-action: pan-y); the
+      // graph only pans/zooms with two fingers on touch — or wheel/drag on desktop.
+      .filter((e: any) => {
+        if (e.type === 'touchstart' || e.type === 'touchmove') return e.touches && e.touches.length >= 2;
+        return !e.button;
+      })
       .on('zoom', (e) => {
         transform = e.transform;
         draw();
       });
     d3.select(canvas).call(zoom as any);
+    canvas.addEventListener('pointerdown', (e) => { touchPointer = (e as PointerEvent).pointerType === 'touch'; });
 
     function findNode(sx: number, sy: number): N | null {
       const [gx, gy] = transform.invert([sx, sy]);
@@ -207,6 +216,19 @@ const payload = JSON.stringify({ nodes, links, colors: CATEGORY_COLORS });
     canvas.addEventListener('click', (ev) => {
       const rect = canvas!.getBoundingClientRect();
       const n = findNode(ev.clientX - rect.left, ev.clientY - rect.top);
+      // Touch has no hover, so a first tap PREVIEWS the node (highlight + label)
+      // and a second tap on the same node opens it; a tap on empty space clears.
+      if (touchPointer) {
+        if (!n) { if (armed) { armed = hover = null; tip!.hidden = true; draw(); } return; }
+        if (armed?.id !== n.id) {
+          armed = hover = n;
+          const [sx, sy] = transform.apply([n.x!, n.y!]);
+          tip!.hidden = false; tip!.textContent = n.label;
+          tip!.style.left = sx + 14 + 'px'; tip!.style.top = sy + 14 + 'px';
+          draw();
+          return;
+        }
+      }
       if (n) window.location.href = n.href;
     });
 
@@ -489,7 +511,8 @@ const payload = JSON.stringify({ nodes, links, colors: CATEGORY_COLORS });
     border-radius: 14px;
     background: radial-gradient(120% 120% at 50% 30%, color-mix(in srgb, var(--gold) 4%, var(--surface)) 0%, var(--outer) 100%);
     overflow: hidden;
-    touch-action: none;
+    /* pan-y: a single finger scrolls the page; two fingers pinch-zoom the graph. */
+    touch-action: pan-y;
   }
   #gcanvas {
     display: block;
