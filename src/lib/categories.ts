@@ -170,7 +170,9 @@ export const CATEGORIES: Category[] = [
   // ---------------- Understand ----------------
   {
     id: 'malaysia',
-    icon: '🇲🇾',
+    // 🌺 Bunga Raya (hibiscus), Malaysia's national flower — a Windows-safe icon.
+    // (The 🇲🇾 flag emoji renders as the bare letters "MY" on Windows.)
+    icon: '🌺',
     name: { ms: 'Malaysia', en: 'Malaysia', zh: '马来西亚' },
     blurb: {
       ms: 'Gambaran negara, sejarah, geografi, identiti nasional dan statistik.',
