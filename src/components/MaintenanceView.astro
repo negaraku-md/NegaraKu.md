@@ -22,7 +22,6 @@ if (MAINTENANCE_UNTIL) {
 ---
 
 <section class="maint">
-  <div class="mwrap">
   <div class="mrow">
     <!-- Full brand lockup (matches the Facebook profile logo): hexagon +
          hibiscus, the NegaraKu.md wordmark, and the MALAYSIA sub-line. -->
@@ -47,19 +46,18 @@ if (MAINTENANCE_UNTIL) {
           <b>{untilText}</b>
         </p>
       )}
-    </div>
-  </div>
 
-    <!-- Language switch — below the content, aligned under the logo. The page is
-         chrome-less (bare), so a visitor on the Malay default needs a way to reach
-         English / 中文; each shows in its own script, linking to that locale. -->
-    <nav class="mlang" aria-label="Language">
-      {LOCALES.map((l) => (
-        l === locale
-          ? <span class="mlang-cur" aria-current="true">{LOCALE_NAMES[l]}</span>
-          : <a href={localePath('/maintenance', l)}>{LOCALE_NAMES[l]}</a>
-      ))}
-    </nav>
+      <!-- Language switch — under the message. The page is chrome-less (bare), so
+           a visitor on the Malay default needs a way to reach English / 中文; each
+           shows in its own script, linking to that locale. -->
+      <nav class="mlang" aria-label="Language">
+        {LOCALES.map((l) => (
+          l === locale
+            ? <span class="mlang-cur" aria-current="true">{LOCALE_NAMES[l]}</span>
+            : <a href={localePath('/maintenance', l)}>{LOCALE_NAMES[l]}</a>
+        ))}
+      </nav>
+    </div>
   </div>
 </section>
 
@@ -74,15 +72,10 @@ if (MAINTENANCE_UNTIL) {
       var(--bg, #07070a);
   }
 
-  /* Wrapper stacks the content and, below it, the language switch. */
-  .mwrap {
-    display: flex; flex-direction: column; align-items: flex-start;
-    gap: clamp(1.75rem, 4vw, 2.75rem);
-  }
-
-  /* Language switch — sits below the content, aligned under the logo. */
+  /* Language switch — sits under the message, aligned to the text. */
   .mlang {
     display: flex; flex-wrap: wrap; gap: 0.35rem; align-items: center;
+    margin-top: 0.75rem;
     font-family: var(--font-title, system-ui); font-size: 0.85rem;
   }
   .mlang a, .mlang .mlang-cur {
@@ -141,7 +134,6 @@ if (MAINTENANCE_UNTIL) {
 
   /* Stack on narrow screens: icon on top, centered text below. */
   @media (max-width: 640px) {
-    .mwrap { align-items: center; }
     .mlang { justify-content: center; }
     .mrow { flex-direction: column; text-align: center; gap: 1.6rem; }
     .mtext { text-align: center; }
