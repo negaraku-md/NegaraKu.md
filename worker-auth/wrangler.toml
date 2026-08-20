@@ -8,8 +8,8 @@ compatibility_date = "2025-01-01"
 workers_dev = false
 
 [vars]
-# Public OAuth App client id — safe to commit. Fill in after registering the app.
-GITHUB_CLIENT_ID = ""
+# Public OAuth App client id — safe to commit.
+GITHUB_CLIENT_ID = "Ov23liDuIL9QvWJ5uQmJ"
 # Org whose membership marks a visitor as an "approved contributor".
 ORG = "negaraku-md"
 # Session cookie name.

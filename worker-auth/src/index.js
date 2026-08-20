@@ -77,20 +77,33 @@ async function handleCallback(url, env) {
   }
   const returnTo = safePath(state.r);
 
-  // Exchange the code for a user access token.
+  // Exchange the code for a user access token. GitHub's token endpoint expects
+  // form-encoded parameters; ask for a JSON response with Accept.
+  const form = new URLSearchParams({
+    client_id: env.GITHUB_CLIENT_ID,
+    client_secret: env.GITHUB_CLIENT_SECRET,
+    code,
+    redirect_uri: `${url.origin}/api/auth/callback`,
+  });
   const tokenRes = await fetch('https://github.com/login/oauth/access_token', {
     method: 'POST',
-    headers: { accept: 'application/json', 'content-type': 'application/json', 'user-agent': UA },
-    body: JSON.stringify({
-      client_id: env.GITHUB_CLIENT_ID,
-      client_secret: env.GITHUB_CLIENT_SECRET,
-      code,
-      redirect_uri: `${url.origin}/api/auth/callback`,
-    }),
+    headers: {
+      accept: 'application/json',
+      'content-type': 'application/x-www-form-urlencoded',
+      'user-agent': UA,
+    },
+    body: form.toString(),
   });
   const tokenData = await tokenRes.json().catch(() => ({}));
   const token = tokenData && tokenData.access_token;
-  if (!token) return json({ error: 'token_exchange_failed' }, 401);
+  if (!token) {
+    // Surface GitHub's own error code (e.g. incorrect_client_credentials) — these
+    // are diagnostic codes, not secrets.
+    return json(
+      { error: 'token_exchange_failed', gh: tokenData.error || null, desc: tokenData.error_description || null },
+      401,
+    );
+  }
 
   // Identify the user and check org membership.
   const login = await ghLogin(token);
