@@ -22,11 +22,15 @@ if (MAINTENANCE_UNTIL) {
 
 <section class="maint">
   <div class="mrow">
-    <!-- The NegaraKu.md brand icon (the Facebook-profile hexagon lockup). -->
-    <img class="micon" src="/brand/negaraku-icon.svg" width="512" height="512" alt="NegaraKu.md" />
+    <!-- Full brand lockup (matches the Facebook profile logo): hexagon +
+         hibiscus, the NegaraKu.md wordmark, and the MALAYSIA sub-line. -->
+    <div class="mlogo">
+      <img class="micon" src="/brand/negaraku-icon.svg" width="512" height="512" alt="" />
+      <p class="mmark">NegaraKu<span class="dot">.md</span></p>
+      <p class="mtag">Malaysia</p>
+    </div>
 
     <div class="mtext">
-      <p class="mmark">NegaraKu<span class="dot">.md</span></p>
       <h1>{L('Kami akan kembali sebentar lagi', 'We’ll be right back', '我们很快就回来')}</h1>
       <p class="mlead">
         {L(
@@ -67,12 +71,23 @@ if (MAINTENANCE_UNTIL) {
   @media (prefers-reduced-motion: reduce) { .micon { animation: none; } }
   @keyframes mfloat { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-8px); } }
 
+  .mlogo {
+    flex: none; display: flex; flex-direction: column; align-items: center;
+    gap: 0.5rem; text-align: center;
+  }
   .mtext { text-align: left; min-width: 0; }
   .mmark {
-    font-family: var(--font-title, system-ui); font-weight: 800; font-size: 1.3rem;
-    letter-spacing: 0.01em; color: var(--ink, #f4f4f8); margin: 0 0 0.6rem;
+    font-family: var(--font-title, system-ui); font-weight: 800;
+    font-size: clamp(1.25rem, 2.4vw, 1.6rem);
+    letter-spacing: 0.01em; color: var(--ink, #f4f4f8); margin: 0;
   }
   .mmark .dot { color: var(--gold); }
+  .mtag {
+    font-family: var(--font-title, system-ui); font-weight: 700;
+    font-size: clamp(0.7rem, 1.4vw, 0.85rem); text-transform: uppercase;
+    letter-spacing: 0.42em; text-indent: 0.42em;
+    color: var(--ink-soft, #c6c6d4); margin: 0;
+  }
   .maint h1 {
     font-family: var(--font-title, system-ui); font-weight: 900;
     font-size: clamp(1.9rem, 5vw, 3rem); line-height: 1.08; letter-spacing: -0.02em;
