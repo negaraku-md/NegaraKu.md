@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "cursor": "2026-08-19 03:32:46",
-  "updatedAt": "2026-08-19T03:37:46.698Z",
+  "cursor": "2026-08-20 03:33:27",
+  "updatedAt": "2026-08-20T03:38:28.116Z",
   "pages": {
     "states/how-state-governments-are-funded": {
       "readers": 15,
@@ -96,7 +96,7 @@
       }
     },
     "malaysia/timeline-of-malaysia": {
-      "readers": 2,
+      "readers": 5,
       "search": {
         "total": 0,
         "byBot": {}
@@ -108,6 +108,17 @@
     },
     "taxation/capital-allowances": {
       "readers": 2,
+      "search": {
+        "total": 0,
+        "byBot": {}
+      },
+      "ai": {
+        "total": 0,
+        "byBot": {}
+      }
+    },
+    "government/lhdn": {
+      "readers": 1,
       "search": {
         "total": 0,
         "byBot": {}
