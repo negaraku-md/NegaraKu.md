@@ -1,7 +1,7 @@
 ---
 import type { Locale } from '@/lib/categories';
 import { t, localePath, LOCALES, LOCALE_NAMES } from '@/lib/i18n';
-import { NAV } from '@/lib/nav';
+import { NAV, CONTRIBUTOR_NAV } from '@/lib/nav';
 import { FLOWER_D, FLOWER_VB, FLOWER_CX, FLOWER_CY } from '@/lib/logo';
 // Centre the traced Bunga Raya on its CENTROID in the 512 badge at ~300 units.
 const LOGO_S = 300 / FLOWER_VB;
@@ -15,6 +15,13 @@ interface Props {
   path: string;
 }
 const { locale, path } = Astro.props;
+
+// Reader + Contributor navs both ship in every page; the browser shows one based
+// on <html data-view> (set client-side, no flash). Same template renders both.
+const NAV_GROUPS = [
+  { view: 'reader', menus: NAV },
+  { view: 'contributor', menus: CONTRIBUTOR_NAV },
+] as const;
 ---
 
 <header class="site-header" data-pagefind-ignore>
@@ -38,44 +45,55 @@ const { locale, path } = Astro.props;
 
     <nav class="nav" aria-label="Primary">
       {
-        NAV.map((menu) =>
-          menu.items ? (
-            <div class="menu">
-              <button type="button" class="menu-btn" aria-haspopup="true">
-                {t(menu.label, locale)}
-                <span class="caret" aria-hidden="true">▾</span>
-              </button>
-              <div class="dropdown">
-                {menu.items.map((it) =>
-                  it.heading ? (
-                    <div class="dd-head">{t(it.label, locale)}</div>
-                  ) : (
-                    <a
-                      href={it.external ? it.href : localePath(it.href, locale)}
-                      data-secret-nav={it.secret ? '' : undefined}
-                      hidden={it.secret}
-                    >
-                      {t(it.label, locale)}
-                    </a>
-                  ),
-                )}
-              </div>
-            </div>
-          ) : (
-            <a
-              class="menu-link"
-              href={localePath(menu.href ?? '/', locale)}
-              data-secret-nav={menu.secret ? '' : undefined}
-              hidden={menu.secret}
-            >
-              {t(menu.label, locale)}
-            </a>
-          ),
-        )
+        NAV_GROUPS.map((grp) => (
+          <div class="nav-group" data-view-nav={grp.view}>
+            {grp.menus.map((menu) =>
+              menu.items ? (
+                <div class="menu">
+                  <button type="button" class="menu-btn" aria-haspopup="true">
+                    {t(menu.label, locale)}
+                    <span class="caret" aria-hidden="true">▾</span>
+                  </button>
+                  <div class="dropdown">
+                    {menu.items.map((it) =>
+                      it.heading ? (
+                        <div class="dd-head">{t(it.label, locale)}</div>
+                      ) : (
+                        <a
+                          href={it.external ? it.href : localePath(it.href, locale)}
+                          data-secret-nav={it.secret ? '' : undefined}
+                          hidden={it.secret}
+                        >
+                          {t(it.label, locale)}
+                        </a>
+                      ),
+                    )}
+                  </div>
+                </div>
+              ) : (
+                <a
+                  class="menu-link"
+                  href={localePath(menu.href ?? '/', locale)}
+                  data-secret-nav={menu.secret ? '' : undefined}
+                  hidden={menu.secret}
+                >
+                  {t(menu.label, locale)}
+                </a>
+              ),
+            )}
+          </div>
+        ))
       }
     </nav>
 
     <div class="tools">
+      {/* Reader/Contributor switch — hidden unless a verified contributor is
+          recognised (html[data-contributor]); label flips with the current view. */}
+      <button type="button" class="view-toggle" data-view-toggle>
+        <span class="vt-ico" aria-hidden="true">⇄</span>
+        <span data-when-view="reader">{t('cnav.toContributor', locale)}</span>
+        <span data-when-view="contributor">{t('cnav.toReader', locale)}</span>
+      </button>
       <a class="search-btn" data-search-link href={localePath('/search', locale)} aria-label={t('nav.search', locale)} title={`${t('nav.search', locale)} (/)`}>
         <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"></circle><path d="m21 21-4.3-4.3"></path></svg>
         <kbd aria-hidden="true">/</kbd>
@@ -162,6 +180,44 @@ const { locale, path } = Astro.props;
       apply(next);
     });
   }
+
+  // Reader / Contributor view mode. Both navs ship in the page; <html data-view>
+  // decides which shows (set pre-paint by the inline script in BaseLayout). The
+  // choice persists in localStorage (multi-page static site). P1: contributor
+  // recognition is a MANUAL preview flag toggled with Ctrl+Alt+Shift+C — P2 will
+  // replace it with the /api/auth/me org-membership check.
+  const VIEW_KEY = 'nk:view';
+  const CONTRIB_KEY = 'nk:contributor';
+  const root = document.documentElement;
+  const applyView = (v: string) => {
+    root.dataset.view = v === 'contributor' ? 'contributor' : 'reader';
+  };
+  const setContributor = (on: boolean) => {
+    if (on) root.dataset.contributor = 'true';
+    else delete root.dataset.contributor;
+  };
+
+  document.querySelectorAll('[data-view-toggle]').forEach((btn) =>
+    btn.addEventListener('click', () => {
+      const next = root.dataset.view === 'contributor' ? 'reader' : 'contributor';
+      localStorage.setItem(VIEW_KEY, next);
+      applyView(next);
+    }),
+  );
+
+  // P1 manual recognition (mirrors the secret-nav shortcut). Leaving contributor
+  // also drops back to Reader, so a non-contributor never stays in Contributor view.
+  document.addEventListener('keydown', (e) => {
+    if (!(e.ctrlKey && e.altKey && e.shiftKey) || e.code !== 'KeyC') return;
+    e.preventDefault();
+    const on = localStorage.getItem(CONTRIB_KEY) !== '1';
+    localStorage.setItem(CONTRIB_KEY, on ? '1' : '0');
+    setContributor(on);
+    if (!on) {
+      localStorage.setItem(VIEW_KEY, 'reader');
+      applyView('reader');
+    }
+  });
 </script>
 
 <style>
@@ -573,4 +629,36 @@ const { locale, path } = Astro.props;
       font-size: 0.68rem;
     }
   }
+
+  /* --- Reader / Contributor view switch ------------------------------------ */
+  /* Both navs ship in every page; the browser shows one based on <html data-view>
+     (set client-side before paint, so no flash). display:contents lets each
+     group's menus flow into the .nav flex as if they were direct children. */
+  .nav-group { display: contents; }
+  /* Contributor menus hidden by default (and for no-JS / bots) and in Reader view. */
+  [data-view-nav='contributor'] { display: none; }
+  :global(html[data-view='contributor']) [data-view-nav='reader'] { display: none; }
+  :global(html[data-view='contributor']) [data-view-nav='contributor'] { display: contents; }
+
+  /* The switch is hidden until a contributor is recognised (html[data-contributor]).
+     Its label flips to match the current view. */
+  .view-toggle {
+    display: none;
+    align-items: center; gap: 0.35rem;
+    height: 34px; padding: 0 0.7rem;
+    border: 1px solid color-mix(in srgb, var(--gold) 55%, var(--line));
+    border-radius: 8px;
+    background: none; cursor: pointer;
+    font-family: var(--font-interface); font-weight: 600; font-size: 0.82rem;
+    color: var(--ink-soft); white-space: nowrap;
+  }
+  :global(html[data-contributor='true']) .view-toggle { display: inline-flex; }
+  .view-toggle:hover {
+    border-color: var(--gold);
+    background: color-mix(in srgb, var(--gold) 10%, var(--surface));
+    color: var(--gold);
+  }
+  .view-toggle .vt-ico { font-size: 0.95em; opacity: 0.85; }
+  :global(html[data-view='reader']) .view-toggle [data-when-view='contributor'] { display: none; }
+  :global(html[data-view='contributor']) .view-toggle [data-when-view='reader'] { display: none; }
 </style>

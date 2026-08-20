@@ -14,6 +14,11 @@
       if (theme === 'black-red') d.setAttribute('data-theme', theme);
       var size = localStorage.getItem('nk-text-size');
       if (size === 'large' || size === 'xlarge') d.setAttribute('data-text-size', size);
+      // Reader / Contributor view mode (see Header.astro). Set before paint so the
+      // right nav shows with no flash. In P1, contributor recognition is a manual
+      // preview flag (Ctrl+Alt+Shift+C); P2 gates it on /api/auth/me org membership.
+      d.dataset.view = localStorage.getItem('nk:view') === 'contributor' ? 'contributor' : 'reader';
+      if (localStorage.getItem('nk:contributor') === '1') d.dataset.contributor = 'true';
       // Default-language preference (Settings): only redirect from the home
       // roots, only once per session, never mid-browse. Manual MS/EN/ZH always wins.
       var pref = localStorage.getItem('nk-default-lang');

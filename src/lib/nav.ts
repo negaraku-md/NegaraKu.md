@@ -98,3 +98,51 @@ export const NAV: NavMenu[] = [
     ],
   },
 ];
+
+/** The Reader nav is the default nav (everyone, incl. bots). Alias for clarity. */
+export const READER_NAV = NAV;
+
+// Contributor View — a launchpad, NOT a second copy of the site. It re-arranges
+// the nav around the article lifecycle and deep-links into the real tooling on
+// GitHub (PRs, issues, Actions); nothing private is exposed — drafts live in the
+// repo where GitHub enforces access. Lean 3-menu cut: Lifecycle / About / Site.
+// Shown client-side only when a verified contributor switches to it (see the
+// view-mode script in Header.astro + the /api/auth/me gate). About/Site reuse the
+// existing i18n keys; the lifecycle labels are the new cnav.* strings.
+export const CONTRIBUTOR_NAV: NavMenu[] = [
+  {
+    label: 'cnav.lifecycle',
+    items: [
+      { label: 'cnav.grpOnSite', href: '', heading: true },
+      { label: 'nav.worklist', href: '/worklist' },
+      { label: 'nav.dashboard', href: '/dashboard' },
+      { label: 'nav.changelog', href: '/changelog' },
+      { label: 'cnav.grpOnGitHub', href: '', heading: true },
+      { label: 'cnav.reviewQueue', href: `${REPO}/pulls?q=is%3Apr+is%3Aopen`, external: true },
+      { label: 'cnav.drafts', href: 'https://github.com/search?q=repo%3Anegaraku-md%2FNegaraKu.md+%22status%3A+%5C%22draft%5C%22%22&type=code', external: true },
+      { label: 'cnav.articleIssues', href: `${REPO}/issues?q=is%3Aissue+is%3Aopen+label%3Aarticle-issue`, external: true },
+      { label: 'cnav.articleRequests', href: `${REPO}/issues?q=is%3Aissue+is%3Aopen+label%3Aarticle-request`, external: true },
+      { label: 'cnav.translationIssues', href: `${REPO}/issues?q=is%3Aissue+is%3Aopen+label%3Atranslation-issue`, external: true },
+      { label: 'cnav.grpBuild', href: '', heading: true },
+      { label: 'cnav.newArticle', href: `${REPO}/blob/main/docs/ARTICLE-TEMPLATE.md`, external: true },
+      { label: 'cnav.actions', href: `${REPO}/actions`, external: true },
+    ],
+  },
+  {
+    label: 'nav.about',
+    items: [
+      { label: 'nav.aboutPage', href: '/about' },
+      { label: 'nav.faq', href: '/faq' },
+      { label: 'nav.contributors', href: '/contributors' },
+    ],
+  },
+  {
+    label: 'nav.site',
+    items: [
+      { label: 'nav.changelog', href: '/changelog' },
+      { label: 'cnav.deploy', href: `${REPO}/actions/workflows/deploy.yml`, external: true },
+      { label: 'nav.forAI', href: '/llms.txt' },
+      { label: 'nav.settings', href: '/settings' },
+    ],
+  },
+];
