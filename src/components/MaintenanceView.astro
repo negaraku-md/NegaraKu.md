@@ -1,0 +1,106 @@
+---
+import type { Locale } from '@/lib/categories';
+import { REPO } from '@/lib/site';
+import { MAINTENANCE_UNTIL } from '@/lib/maintenance';
+import { FLOWER_D } from '@/lib/logo';
+
+interface Props {
+  locale: Locale;
+}
+const { locale } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+// "Expected back by" — only when the operator set MAINTENANCE_UNTIL. Format it
+// readably for the locale; if it isn't a valid date, show the raw value.
+let untilText = '';
+if (MAINTENANCE_UNTIL) {
+  const d = new Date(MAINTENANCE_UNTIL);
+  const bcp = locale === 'zh' ? 'zh-Hans' : locale === 'ms' ? 'ms-MY' : 'en-GB';
+  untilText = Number.isNaN(d.getTime())
+    ? MAINTENANCE_UNTIL
+    : d.toLocaleString(bcp, { dateStyle: 'medium', timeStyle: 'short' });
+}
+---
+
+<section class="maint">
+  <div class="mwrap">
+    <svg class="mflower" viewBox="0 0 776 776" aria-hidden="true">
+      <path fill="currentColor" fill-rule="evenodd" d={FLOWER_D} />
+    </svg>
+
+    <p class="mmark">NegaraKu<span class="dot">.md</span></p>
+
+    <h1>{L('Kami akan kembali sebentar lagi', 'We’ll be right back', '我们很快就回来')}</h1>
+
+    <p class="mlead">
+      {L(
+        'NegaraKu.md sedang menjalani penyelenggaraan ringkas untuk menjadi lebih baik. Terima kasih atas kesabaran anda.',
+        'NegaraKu.md is undergoing brief maintenance to make things better. Thanks for your patience.',
+        'NegaraKu.md 正在进行简短维护以提升体验。感谢您的耐心等待。',
+      )}
+    </p>
+
+    {untilText && (
+      <p class="muntil">
+        <span class="mlabel">{L('Dijangka kembali menjelang', 'Expected back by', '预计恢复时间')}</span>
+        <b>{untilText}</b>
+      </p>
+    )}
+
+    <div class="macts">
+      <a class="mbtn" href={REPO} rel="noopener">{L('Ikuti perkembangan di GitHub', 'Follow progress on GitHub', '在 GitHub 上关注进展')} ↗</a>
+      <a class="mbtn ghost" href={`${REPO}/deployments`} rel="noopener">{L('Status laman', 'Site status', '网站状态')} ↗</a>
+    </div>
+  </div>
+</section>
+
+<style>
+  .maint {
+    min-height: 100dvh; min-height: 100vh;
+    display: grid; place-items: center;
+    padding: 2rem 1.25rem;
+    background:
+      radial-gradient(720px 460px at 50% -8%, color-mix(in srgb, var(--gold) 12%, transparent), transparent),
+      var(--bg, #07070a);
+  }
+  .mwrap { position: relative; max-width: 40rem; text-align: center; }
+  .mflower {
+    width: clamp(90px, 18vw, 150px); height: auto; color: var(--gold);
+    opacity: 0.9; margin: 0 auto 1.4rem; display: block;
+    animation: mfloat 6s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .mflower { animation: none; } }
+  @keyframes mfloat { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-8px); } }
+
+  .mmark {
+    font-family: var(--font-title, system-ui); font-weight: 800; font-size: 1.35rem;
+    letter-spacing: 0.01em; color: var(--ink, #f4f4f8); margin: 0 0 1.3rem;
+  }
+  .mmark .dot { color: var(--gold); }
+
+  .maint h1 {
+    font-family: var(--font-title, system-ui); font-weight: 900;
+    font-size: clamp(1.9rem, 5vw, 3rem); line-height: 1.1; letter-spacing: -0.02em;
+    color: var(--ink, #f4f4f8); margin: 0 0 1rem;
+  }
+  .mlead { color: var(--ink-soft, #c6c6d4); font-size: clamp(1rem, 2.2vw, 1.15rem); line-height: 1.65; margin: 0 auto 1.7rem; max-width: 34rem; }
+
+  .muntil {
+    display: inline-flex; flex-direction: column; gap: 0.15rem; align-items: center;
+    background: var(--surface, #101018); border: 1px solid color-mix(in srgb, var(--gold) 35%, var(--line, #26263a));
+    border-radius: 12px; padding: 0.8rem 1.4rem; margin: 0 0 1.9rem;
+  }
+  .muntil .mlabel { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted, #9a9ab8); }
+  .muntil b { font-family: var(--font-title, system-ui); font-size: 1.1rem; color: var(--gold); font-variant-numeric: tabular-nums; }
+
+  .macts { display: flex; flex-wrap: wrap; gap: 0.7rem; justify-content: center; }
+  .mbtn {
+    font-family: var(--font-sans, system-ui); font-weight: 700; font-size: 0.92rem; text-decoration: none;
+    padding: 0.7rem 1.3rem; border-radius: 999px;
+    background: var(--gold); color: var(--accent-contrast, #07070a);
+    border: 1px solid var(--gold); transition: background 0.15s, border-color 0.15s;
+  }
+  .mbtn:hover { background: var(--gold-600, #d9a300); border-color: var(--gold-600, #d9a300); }
+  .mbtn.ghost { background: transparent; color: var(--ink, #f4f4f8); border-color: color-mix(in srgb, var(--gold) 45%, var(--line, #26263a)); }
+  .mbtn.ghost:hover { border-color: var(--gold); background: color-mix(in srgb, var(--gold) 10%, transparent); }
+</style>

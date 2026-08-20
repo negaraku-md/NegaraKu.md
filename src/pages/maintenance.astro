@@ -1,0 +1,9 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import MaintenanceView from '@/components/MaintenanceView.astro';
+const locale = 'ms';
+---
+
+<BaseLayout locale={locale} title="Penyelenggaraan" path="/maintenance" bare>
+  <MaintenanceView locale={locale} />
+</BaseLayout>
