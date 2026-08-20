@@ -22,17 +22,7 @@ if (MAINTENANCE_UNTIL) {
 ---
 
 <section class="maint">
-  <!-- Language switch — the page is chrome-less (bare), so a visitor who lands on
-       the Malay default needs a way to reach English / 中文. Each language shows
-       in its own script; links go to the maintenance page in that locale. -->
-  <nav class="mlang" aria-label="Language">
-    {LOCALES.map((l) => (
-      l === locale
-        ? <span class="mlang-cur" aria-current="true">{LOCALE_NAMES[l]}</span>
-        : <a href={localePath('/maintenance', l)}>{LOCALE_NAMES[l]}</a>
-    ))}
-  </nav>
-
+  <div class="mwrap">
   <div class="mrow">
     <!-- Full brand lockup (matches the Facebook profile logo): hexagon +
          hibiscus, the NegaraKu.md wordmark, and the MALAYSIA sub-line. -->
@@ -59,6 +49,18 @@ if (MAINTENANCE_UNTIL) {
       )}
     </div>
   </div>
+
+    <!-- Language switch — below the content, aligned under the logo. The page is
+         chrome-less (bare), so a visitor on the Malay default needs a way to reach
+         English / 中文; each shows in its own script, linking to that locale. -->
+    <nav class="mlang" aria-label="Language">
+      {LOCALES.map((l) => (
+        l === locale
+          ? <span class="mlang-cur" aria-current="true">{LOCALE_NAMES[l]}</span>
+          : <a href={localePath('/maintenance', l)}>{LOCALE_NAMES[l]}</a>
+      ))}
+    </nav>
+  </div>
 </section>
 
 <style>
@@ -72,9 +74,14 @@ if (MAINTENANCE_UNTIL) {
       var(--bg, #07070a);
   }
 
-  /* Language switch, pinned to the top-right corner. */
+  /* Wrapper stacks the content and, below it, the language switch. */
+  .mwrap {
+    display: flex; flex-direction: column; align-items: flex-start;
+    gap: clamp(1.75rem, 4vw, 2.75rem);
+  }
+
+  /* Language switch — sits below the content, aligned under the logo. */
   .mlang {
-    position: absolute; top: clamp(1rem, 3vw, 1.75rem); right: clamp(1rem, 3vw, 2rem);
     display: flex; flex-wrap: wrap; gap: 0.35rem; align-items: center;
     font-family: var(--font-title, system-ui); font-size: 0.85rem;
   }
@@ -134,8 +141,9 @@ if (MAINTENANCE_UNTIL) {
 
   /* Stack on narrow screens: icon on top, centered text below. */
   @media (max-width: 640px) {
-    .mlang { left: 0; right: 0; justify-content: center; top: clamp(1rem, 4vw, 1.4rem); }
-    .mrow { flex-direction: column; text-align: center; gap: 1.6rem; margin-top: 2.5rem; }
+    .mwrap { align-items: center; }
+    .mlang { justify-content: center; }
+    .mrow { flex-direction: column; text-align: center; gap: 1.6rem; }
     .mtext { text-align: center; }
     .muntil { align-items: center; }
     .mlead { margin-inline: auto; }
