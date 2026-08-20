@@ -9,6 +9,15 @@ on:
     paths-ignore:
       - 'analytics/cumulative.json'
   workflow_dispatch:
+    inputs:
+      maintenance:
+        description: 'Maintenance mode — show the maintenance screen on EVERY page. Turn off and re-run to restore the live site.'
+        type: boolean
+        default: false
+      maintenance_until:
+        description: 'Optional "expected back by" time, ISO (e.g. 2026-08-21T09:00). Blank = no time shown.'
+        type: string
+        default: ''
 
 permissions:
   contents: read
@@ -81,6 +90,10 @@ jobs:
           # from Analytics Engine. Absent → it no-ops ("not tracked yet").
           CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
           CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+          # Maintenance mode — only ever on via a manual "Run workflow" with the
+          # toggle. A normal push (inputs empty) always deploys the live site.
+          MAINTENANCE: ${{ github.event.inputs.maintenance == 'true' && '1' || '' }}
+          MAINTENANCE_UNTIL: ${{ github.event.inputs.maintenance_until }}
         run: npm run build
 
       - uses: actions/upload-pages-artifact@v3
