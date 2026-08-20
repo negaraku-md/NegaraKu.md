@@ -101,6 +101,8 @@ const STRINGS = {
   'cnav.deploy': { ms: 'Deploy + mod penyelenggaraan', en: 'Deploy + maintenance', zh: '部署 + 维护' },
   'cnav.toContributor': { ms: 'Paparan Penyumbang', en: 'Contributor view', zh: '贡献者视图' },
   'cnav.toReader': { ms: 'Paparan Pembaca', en: 'Reader view', zh: '读者视图' },
+  'cnav.signout': { ms: 'Log keluar', en: 'Sign out', zh: '退出登录' },
+  'nav.signin': { ms: 'Log masuk penyumbang', en: 'Contributor sign-in', zh: '贡献者登录' },
   'reader.title': { ms: 'Tetapan bacaan', en: 'Reading settings', zh: '阅读设置' },
   'reader.theme': { ms: 'Tema', en: 'Theme', zh: '主题' },
   'reader.dark': { ms: 'Gelap', en: 'Dark', zh: '深色' },

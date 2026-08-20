@@ -83,6 +83,9 @@ export const NAV: NavMenu[] = [
       { label: 'nav.grpDevelop', href: '', heading: true },
       { label: 'nav.worklist', href: '/worklist' },
       { label: 'nav.github', href: REPO, external: true },
+      // Establishes the contributor session; approved org members then get the
+      // Reader/Contributor switch. Dark (503) until the auth Worker is configured.
+      { label: 'nav.signin', href: '/api/auth/login', external: true },
     ],
   },
   // Site = the website itself: its status, its history, how to report problems
@@ -143,6 +146,7 @@ export const CONTRIBUTOR_NAV: NavMenu[] = [
       { label: 'cnav.deploy', href: `${REPO}/actions/workflows/deploy.yml`, external: true },
       { label: 'nav.forAI', href: '/llms.txt' },
       { label: 'nav.settings', href: '/settings' },
+      { label: 'cnav.signout', href: '/api/auth/logout', external: true },
     ],
   },
 ];

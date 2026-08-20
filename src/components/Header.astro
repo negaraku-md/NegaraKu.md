@@ -205,8 +205,10 @@ const NAV_GROUPS = [
     }),
   );
 
-  // P1 manual recognition (mirrors the secret-nav shortcut). Leaving contributor
-  // also drops back to Reader, so a non-contributor never stays in Contributor view.
+  // Manual recognition for LOCAL DEV (mirrors the secret-nav shortcut): the auth
+  // Worker isn't reachable on localhost, so Ctrl+Alt+Shift+C fakes recognition so
+  // the switch can be tested. On production the /api/auth/me check below is
+  // authoritative and overrides this.
   document.addEventListener('keydown', (e) => {
     if (!(e.ctrlKey && e.altKey && e.shiftKey) || e.code !== 'KeyC') return;
     e.preventDefault();
@@ -218,6 +220,30 @@ const NAV_GROUPS = [
       applyView('reader');
     }
   });
+
+  // P2 recognition: ask the auth Worker whether this visitor is an approved
+  // contributor (a negaraku-md org member). Same-origin; the signed cookie is
+  // sent automatically. A 404/error (e.g. localhost, or the Worker not deployed
+  // yet) leaves any manual dev preview untouched. A 200 is authoritative: it
+  // reveals the switch for members and, for everyone else — including expired
+  // sessions — clears recognition and drops back to Reader.
+  fetch('/api/auth/me', { credentials: 'same-origin', headers: { accept: 'application/json' } })
+    .then((r) => (r.ok ? r.json() : null))
+    .then((d) => {
+      if (!d) return;
+      if (d.isContributor) {
+        setContributor(true);
+        localStorage.setItem(CONTRIB_KEY, '1');
+      } else {
+        setContributor(false);
+        localStorage.removeItem(CONTRIB_KEY);
+        if (root.dataset.view === 'contributor') {
+          localStorage.setItem(VIEW_KEY, 'reader');
+          applyView('reader');
+        }
+      }
+    })
+    .catch(() => {});
 </script>
 
 <style>
