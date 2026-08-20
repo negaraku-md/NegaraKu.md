@@ -1,6 +1,7 @@
 ---
 import type { Locale } from '@/lib/categories';
 import { MAINTENANCE_UNTIL } from '@/lib/maintenance';
+import { LOCALES, LOCALE_NAMES, localePath } from '@/lib/i18n';
 
 interface Props {
   locale: Locale;
@@ -21,6 +22,17 @@ if (MAINTENANCE_UNTIL) {
 ---
 
 <section class="maint">
+  <!-- Language switch — the page is chrome-less (bare), so a visitor who lands on
+       the Malay default needs a way to reach English / 中文. Each language shows
+       in its own script; links go to the maintenance page in that locale. -->
+  <nav class="mlang" aria-label="Language">
+    {LOCALES.map((l) => (
+      l === locale
+        ? <span class="mlang-cur" aria-current="true">{LOCALE_NAMES[l]}</span>
+        : <a href={localePath('/maintenance', l)}>{LOCALE_NAMES[l]}</a>
+    ))}
+  </nav>
+
   <div class="mrow">
     <!-- Full brand lockup (matches the Facebook profile logo): hexagon +
          hibiscus, the NegaraKu.md wordmark, and the MALAYSIA sub-line. -->
@@ -51,6 +63,7 @@ if (MAINTENANCE_UNTIL) {
 
 <style>
   .maint {
+    position: relative;
     min-height: 100dvh; min-height: 100vh;
     display: grid; place-items: center;
     padding: 2rem 1.5rem;
@@ -58,6 +71,19 @@ if (MAINTENANCE_UNTIL) {
       radial-gradient(760px 460px at 50% -8%, color-mix(in srgb, var(--gold) 12%, transparent), transparent),
       var(--bg, #07070a);
   }
+
+  /* Language switch, pinned to the top-right corner. */
+  .mlang {
+    position: absolute; top: clamp(1rem, 3vw, 1.75rem); right: clamp(1rem, 3vw, 2rem);
+    display: flex; flex-wrap: wrap; gap: 0.35rem; align-items: center;
+    font-family: var(--font-title, system-ui); font-size: 0.85rem;
+  }
+  .mlang a, .mlang .mlang-cur {
+    padding: 0.3rem 0.7rem; border-radius: 999px; line-height: 1; white-space: nowrap;
+  }
+  .mlang a { color: var(--ink-soft, #c6c6d4); text-decoration: none; transition: color 0.15s, background 0.15s; }
+  .mlang a:hover, .mlang a:focus-visible { color: var(--ink, #f4f4f8); background: color-mix(in srgb, var(--gold) 14%, transparent); }
+  .mlang .mlang-cur { color: var(--bg, #07070a); background: var(--gold); font-weight: 700; }
 
   /* Icon on the left, text on the right. */
   .mrow {
@@ -108,7 +134,8 @@ if (MAINTENANCE_UNTIL) {
 
   /* Stack on narrow screens: icon on top, centered text below. */
   @media (max-width: 640px) {
-    .mrow { flex-direction: column; text-align: center; gap: 1.6rem; }
+    .mlang { left: 0; right: 0; justify-content: center; top: clamp(1rem, 4vw, 1.4rem); }
+    .mrow { flex-direction: column; text-align: center; gap: 1.6rem; margin-top: 2.5rem; }
     .mtext { text-align: center; }
     .muntil { align-items: center; }
     .mlead { margin-inline: auto; }
