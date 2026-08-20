@@ -49,7 +49,7 @@ const NAV_GROUPS = [
           <div class="nav-group" data-view-nav={grp.view}>
             {grp.menus.map((menu) =>
               menu.items ? (
-                <div class="menu">
+                <div class="menu" data-nav-key={menu.label}>
                   <button type="button" class="menu-btn" aria-haspopup="true">
                     {t(menu.label, locale)}
                     <span class="caret" aria-hidden="true">▾</span>
@@ -669,6 +669,11 @@ const NAV_GROUPS = [
   [data-view-nav='contributor'] { display: none; }
   :global(html[data-view='contributor']) [data-view-nav='reader'] { display: none; }
   :global(html[data-view='contributor']) [data-view-nav='contributor'] { display: contents; }
+
+  /* A recognised contributor already knows how to take part, so drop the Reader
+     "Contribute" menu (the "how to join" menu) for them — the Contributor View
+     carries the real tools. Everyone else still sees it. */
+  :global(html[data-contributor='true']) [data-view-nav='reader'] [data-nav-key='nav.contribute'] { display: none; }
 
   /* The switch is hidden until a contributor is recognised (html[data-contributor]).
      Its label flips to match the current view. */
