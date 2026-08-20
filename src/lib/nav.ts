@@ -46,23 +46,26 @@ export const NAV: NavMenu[] = [
       { label: 'nav.latest', href: '/latest' },
       { label: 'nav.trending', href: '/most-read' },
       { label: 'nav.timeline', href: '/malaysia/timeline-of-malaysia' },
-      { label: 'nav.grpSections', href: '', heading: true },
-      { label: 'nav.understandMalaysia', href: '/understand' },
-      { label: 'nav.livingMalaysia', href: '/living' },
-      { label: 'nav.businessMalaysia', href: '/doing-business' },
       { label: 'nav.grpTools', href: '', heading: true },
       { label: 'nav.graph', href: '/graph' },
       { label: 'nav.articles', href: '/articles', secret: true }, // hidden; Ctrl+Alt+Shift+A toggles it
     ],
   },
-  // About = what this project is and who's behind it. FAQ sits above the credit
-  // page because it answers the most-asked questions first.
+  // About = what this project is + who's behind it, AND the website itself (the
+  // old "Site" menu is folded in as a second group so the bar stays lean).
   {
     label: 'nav.about',
     items: [
+      { label: 'nav.grpAbout', href: '', heading: true },
       { label: 'nav.aboutPage', href: '/about' },
       { label: 'nav.faq', href: '/faq' },
       { label: 'nav.contributors', href: '/contributors' },
+      { label: 'nav.grpThisSite', href: '', heading: true },
+      { label: 'nav.dashboard', href: '/dashboard' },
+      { label: 'nav.changelog', href: '/changelog' },
+      { label: 'nav.settings', href: '/settings' },
+      { label: 'nav.forAI', href: '/llms.txt' },
+      { label: 'nav.siteBug', href: '/contribute#site' },
     ],
   },
   // Contribute = every way to take part, grouped by intent so the (now larger)
@@ -86,18 +89,6 @@ export const NAV: NavMenu[] = [
       // Establishes the contributor session; approved org members then get the
       // Reader/Contributor switch. Dark (503) until the auth Worker is configured.
       { label: 'nav.signin', href: '/api/auth/login', external: true },
-    ],
-  },
-  // Site = the website itself: its status, its history, how to report problems
-  // WITH it, machine access, and your reading preferences.
-  {
-    label: 'nav.site',
-    items: [
-      { label: 'nav.dashboard', href: '/dashboard' },
-      { label: 'nav.changelog', href: '/changelog' },
-      { label: 'nav.siteBug', href: '/contribute#site' },
-      { label: 'nav.forAI', href: '/llms.txt' },
-      { label: 'nav.settings', href: '/settings' },
     ],
   },
 ];
@@ -134,14 +125,11 @@ export const CONTRIBUTOR_NAV: NavMenu[] = [
   {
     label: 'nav.about',
     items: [
+      { label: 'nav.grpAbout', href: '', heading: true },
       { label: 'nav.aboutPage', href: '/about' },
       { label: 'nav.faq', href: '/faq' },
       { label: 'nav.contributors', href: '/contributors' },
-    ],
-  },
-  {
-    label: 'nav.site',
-    items: [
+      { label: 'nav.grpThisSite', href: '', heading: true },
       { label: 'nav.changelog', href: '/changelog' },
       { label: 'cnav.deploy', href: `${REPO}/actions/workflows/deploy.yml`, external: true },
       { label: 'nav.forAI', href: '/llms.txt' },
