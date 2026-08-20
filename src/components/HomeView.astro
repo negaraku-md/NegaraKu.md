@@ -3,6 +3,7 @@ import type { Locale } from '@/lib/categories';
 import { PILLARS, getPillarColor } from '@/lib/categories';
 import { t, localePath } from '@/lib/i18n';
 import { articlesForLocale } from '@/lib/content';
+import { mostReadKeys } from '@/lib/apidata';
 import ArticleStrip from './ArticleStrip.astro';
 
 interface Props {
@@ -11,10 +12,11 @@ interface Props {
 const { locale } = Astro.props;
 const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
-// A single "Latest" strip on the home page. The full Latest + Most-read pair
-// lives on /explore, so the home page offers one taste instead of repeating both.
+// Latest + Most-read strips on the home page (same pairing as /explore and the
+// section hubs). Latest excludes what Most-read shows so the two don't overlap.
 const items = (await articlesForLocale(locale)).filter((a) => a.data.category !== 'about');
 const STRIP = 4;
+const mrKeys = mostReadKeys(items, STRIP);
 
 // Distinctive facts, not factbook figures. Each is verified: Peninsular + Borneo
 // split by the South China Sea; Taman Negara ~130M yrs (older than the Amazon);
@@ -88,7 +90,9 @@ const stats = [
   </div>
 </section>
 
-<ArticleStrip locale={locale} articles={items} moreHref="/latest" sort="recent" limit={STRIP} />
+<ArticleStrip locale={locale} articles={items} moreHref="/latest" sort="recent" limit={STRIP} exclude={mrKeys} />
+
+<ArticleStrip locale={locale} articles={items} moreHref="/most-read" limit={STRIP} />
 
 <style>
   /* Microsoft-style structure, 1company brand: eyebrow → headline → pitch →
