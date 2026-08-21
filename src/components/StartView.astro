@@ -3,6 +3,7 @@ import type { Locale } from '@/lib/categories';
 import { PILLARS, getPillarColor } from '@/lib/categories';
 import { localePath } from '@/lib/i18n';
 import PageHero from './PageHero.astro';
+import BecomeContributor from './BecomeContributor.astro';
 
 interface Props {
   locale: Locale;
@@ -202,6 +203,8 @@ const guides = [
     </div>
   </div>
 </section>
+
+<BecomeContributor locale={locale} />
 
 <style>
   .block { margin-top: 1.6rem; }

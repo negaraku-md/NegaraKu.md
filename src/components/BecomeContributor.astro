@@ -1,0 +1,42 @@
+---
+import type { Locale } from '@/lib/categories';
+import { localePath } from '@/lib/i18n';
+import { REPO } from '@/lib/site';
+
+interface Props {
+  locale: Locale;
+}
+const { locale } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+---
+
+<section class="become container block" data-pre-contributor data-pagefind-ignore>
+  <div class="become-card">
+    <div class="become-text">
+      <b class="become-title">{L('Bantu bina NegaraKu.md', 'Help build NegaraKu.md', '一起建设 NegaraKu.md')}</b>
+      <p>{L(
+        'Sesiapa boleh menambah baik — betulkan kesilapan, isi kekurangan, atau cadang topik baharu. Semuanya terbuka di GitHub, dan setiap perubahan disemak.',
+        'Anyone can improve it — fix an error, fill a gap, or suggest a new topic. It’s all open on GitHub, and every change is reviewed.',
+        '人人都能改进它——更正错误、补足缺漏，或建议新主题。一切都在 GitHub 上公开，每处改动都会经过审阅。',
+      )}</p>
+    </div>
+    <div class="become-actions">
+      <a class="btn btn-primary" href={REPO} rel="noopener">★ {L('Bintangkan di GitHub', 'Star on GitHub', '在 GitHub 点星')}</a>
+      <a class="btn btn-ghost" href={localePath('/contribute', locale)}>{L('Cara menyumbang', 'How to contribute', '如何贡献')} →</a>
+    </div>
+  </div>
+</section>
+
+<style>
+  .become { margin-top: 1.6rem; }
+  .become-card {
+    display: flex; align-items: center; justify-content: space-between; gap: 1.5rem 2rem; flex-wrap: wrap;
+    background: var(--surface);
+    border: 1px solid color-mix(in srgb, var(--gold) 35%, var(--line));
+    border-radius: 12px; padding: 1.4rem 1.6rem;
+  }
+  .become-title { display: block; font-family: var(--font-title); font-size: 1.2rem; color: var(--ink); margin-bottom: 0.35rem; }
+  .become-text p { margin: 0; color: var(--ink-soft); line-height: 1.6; max-width: 60ch; }
+  .become-actions { display: flex; gap: 0.8rem; flex-wrap: wrap; }
+  .become-actions .btn { white-space: nowrap; }
+</style>

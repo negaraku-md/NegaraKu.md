@@ -5,6 +5,7 @@ import { t, localePath } from '@/lib/i18n';
 import { articlesForLocale } from '@/lib/content';
 import { mostReadKeys } from '@/lib/apidata';
 import ArticleStrip from './ArticleStrip.astro';
+import WelcomeCard from './WelcomeCard.astro';
 
 interface Props {
   locale: Locale;
@@ -75,6 +76,8 @@ const stats = [
     </dl>
   </div>
 </section>
+
+<WelcomeCard locale={locale} />
 
 <section class="container block">
   <h2 class="ways-title">{L('Apa yang membawa anda ke sini?', 'What brings you here?', '您为何而来？')}</h2>

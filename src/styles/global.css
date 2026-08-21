@@ -307,3 +307,12 @@ main img {
   border-color: var(--gold);
   background: color-mix(in srgb, var(--gold) 10%, var(--surface));
 }
+
+/* Pre-contributor promo layer — anything nudging a visitor to BECOME a
+   contributor (join CTAs, Star-us, the first-visit welcome). A recognised
+   contributor has already crossed that line, so hide it all for them. The
+   `data-contributor` flag on <html> is set by the /api/auth/me check (see
+   Header.astro). Everyone else sees these normally. */
+html[data-contributor='true'] [data-pre-contributor] {
+  display: none !important;
+}

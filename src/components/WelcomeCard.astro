@@ -1,0 +1,66 @@
+---
+import type { Locale } from '@/lib/categories';
+import { localePath } from '@/lib/i18n';
+
+interface Props {
+  locale: Locale;
+}
+const { locale } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+---
+
+<section class="welcome container" data-pre-contributor data-pagefind-ignore>
+  <div class="welcome-card">
+    <span class="welcome-ico" aria-hidden="true">👋</span>
+    <div class="welcome-text">
+      <b>{L('Baharu di NegaraKu.md?', 'New to NegaraKu.md?', '初次来到 NegaraKu.md？')}</b>
+      <p>{L(
+        'Lihat panduan dua minit — apa ia, cara ia disusun, dan apa yang boleh anda lakukan.',
+        'Take the two-minute tour — what it is, how it’s organized, and what you can do.',
+        '花两分钟看看导览——它是什么、如何组织，以及你能做什么。',
+      )}</p>
+    </div>
+    <a class="btn btn-primary welcome-go" href={localePath('/start', locale)}>{L('Mula di sini', 'Start here', '从这里开始')} →</a>
+    <button type="button" class="welcome-x" data-welcome-dismiss aria-label={L('Tutup', 'Dismiss', '关闭')}>✕</button>
+  </div>
+</section>
+
+<script>
+  document.querySelectorAll('[data-welcome-dismiss]').forEach((b) =>
+    b.addEventListener('click', () => {
+      try {
+        localStorage.setItem('nk:welcomed', '1');
+      } catch (e) {}
+      document.documentElement.dataset.welcomed = '1';
+    }),
+  );
+</script>
+
+<style>
+  .welcome { margin-top: 1.5rem; }
+  /* Returning visitors have data-welcomed set pre-paint (HeadInlineScripts), so
+     the card never flashes for them; first-timers see it immediately. */
+  :global(html[data-welcomed='1']) .welcome { display: none; }
+  .welcome-card {
+    position: relative; display: flex; align-items: center; gap: 1rem;
+    background: var(--surface);
+    border: 1px solid color-mix(in srgb, var(--gold) 35%, var(--line));
+    border-radius: 12px; padding: 0.9rem 2.4rem 0.9rem 1.1rem;
+  }
+  .welcome-ico { font-size: 1.6rem; flex: none; }
+  .welcome-text { flex: 1; min-width: 0; }
+  .welcome-text b { font-family: var(--font-title); color: var(--ink); font-size: 1.02rem; }
+  .welcome-text p { margin: 0.15rem 0 0; color: var(--ink-soft); font-size: 0.92rem; line-height: 1.5; }
+  .welcome-go { white-space: nowrap; flex: none; }
+  .welcome-x {
+    position: absolute; top: 0.5rem; right: 0.55rem;
+    background: none; border: 0; color: var(--muted); font-size: 0.95rem; line-height: 1;
+    cursor: pointer; padding: 0.3rem 0.4rem; border-radius: 6px;
+  }
+  .welcome-x:hover { color: var(--ink); background: var(--surface-2); }
+  @media (max-width: 620px) {
+    .welcome-card { flex-wrap: wrap; }
+    .welcome-text { flex-basis: 100%; }
+    .welcome-go { width: 100%; text-align: center; }
+  }
+</style>

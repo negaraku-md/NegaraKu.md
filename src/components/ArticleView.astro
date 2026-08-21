@@ -11,6 +11,7 @@ import { FLOWER_D } from '@/lib/logo';
 import TrustBadge from './TrustBadge.astro';
 import FeedbackBar from './FeedbackBar.astro';
 import ShareButton from './ShareButton.astro';
+import BecomeContributor from './BecomeContributor.astro';
 import { getAnalytics, type AnalyticsBucket } from '@/lib/apidata';
 
 // Visitor analytics (see docs/ANALYTICS.md): three buckets — human readers,
@@ -629,6 +630,8 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
     </aside>
   </div>
 </article>
+
+<BecomeContributor locale={locale} />
 
 <style>
   /* Same hero treatment as the home / section heroes (PageHero): the gold-tinted
