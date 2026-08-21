@@ -57,6 +57,7 @@ export const NAV: NavMenu[] = [
     label: 'nav.about',
     items: [
       { label: 'nav.grpAbout', href: '', heading: true },
+      { label: 'nav.startHere', href: '/start' },
       { label: 'nav.aboutPage', href: '/about' },
       { label: 'nav.faq', href: '/faq' },
       { label: 'nav.contributors', href: '/contributors' },

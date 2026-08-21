@@ -85,6 +85,7 @@ const STRINGS = {
   'nav.siteBug': { ms: 'Laporkan Pepijat Laman', en: 'Report a Site Bug', zh: '报告网站故障' },
   'nav.forAI': { ms: 'Untuk AI · llms.txt', en: 'For AI · llms.txt', zh: '面向 AI · llms.txt' },
   'nav.menu': { ms: 'Menu', en: 'Menu', zh: '菜单' },
+  'nav.startHere': { ms: 'Mula di sini', en: 'Start here', zh: '从这里开始' },
   'nav.grpAbout': { ms: 'Tentang NegaraKu.md', en: 'About NegaraKu.md', zh: '关于 NegaraKu.md' },
   'nav.grpThisSite': { ms: 'Laman ini', en: 'This site', zh: '本网站' },
 

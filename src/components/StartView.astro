@@ -1,0 +1,252 @@
+---
+import type { Locale } from '@/lib/categories';
+import { PILLARS, getPillarColor } from '@/lib/categories';
+import { localePath } from '@/lib/i18n';
+import PageHero from './PageHero.astro';
+
+interface Props {
+  locale: Locale;
+}
+const { locale } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+// What you can do here — each action names the "how" in one line.
+const actions = [
+  {
+    icon: '📖',
+    title: L('Baca', 'Read', '阅读'),
+    body: L(
+      'Semak lalu tiga tonggak — Fahami, Hidup, Bisnes — atau layari mengikut kategori.',
+      'Browse the three pillars — Understand, Living, Business — or dive in by category.',
+      '浏览三大支柱——认识、生活、营商——或按分类深入了解。',
+    ),
+  },
+  {
+    icon: '🔍',
+    title: L('Cari', 'Search', '搜索'),
+    body: L(
+      'Tekan “/” di mana-mana, atau ketik ikon carian, dan taip apa sahaja.',
+      'Press “/” anywhere, or tap the search icon, and type anything.',
+      '在任意页面按“/”，或点击搜索图标，输入任何内容。',
+    ),
+  },
+  {
+    icon: '🔗',
+    title: L('Kongsi', 'Share', '分享'),
+    body: L(
+      'Setiap artikel ada butang Kongsi — salin pautan atau salin Markdown mentahnya.',
+      'Every article has a Share button — copy the link, or copy its raw Markdown.',
+      '每篇文章都有分享按钮——复制链接，或复制其原始 Markdown。',
+    ),
+  },
+  {
+    icon: '📌',
+    title: L('Petik', 'Cite', '引用'),
+    body: L(
+      'Setiap dakwaan yang boleh disemak membawa sumbernya, disenaraikan di hujung artikel.',
+      'Every checkable claim carries its source, listed at the foot of each article.',
+      '每条可核查的陈述都附有来源，列于文章末尾。',
+    ),
+  },
+  {
+    icon: '🤖',
+    title: L('Tanya AI', 'Ask an AI', '询问 AI'),
+    body: L(
+      'Kandungannya Markdown biasa — salin dan tampal terus ke dalam alat AI anda.',
+      'The content is plain Markdown — copy and paste it straight into your AI tool.',
+      '内容是纯 Markdown——直接复制粘贴到你的 AI 工具中。',
+    ),
+  },
+  {
+    icon: '✍️',
+    title: L('Sumbang', 'Contribute', '贡献'),
+    body: L(
+      'Terjumpa kesilapan atau kekurangan? Cadangkan pembetulan di GitHub — sesiapa boleh.',
+      'Spotted an error or a gap? Suggest a fix on GitHub — anyone can.',
+      '发现错误或缺漏？在 GitHub 上提出更正——人人都可以。',
+    ),
+  },
+];
+
+// Step-by-step mini-guides for the four things newcomers most want to do.
+const guides = [
+  {
+    icon: '🔍',
+    title: L('Cari sesuatu', 'Find something', '查找内容'),
+    steps: [
+      L('Tekan “/” pada papan kekunci, atau ketik ikon carian di bar atas.', 'Press “/” on your keyboard, or tap the search icon in the top bar.', '按键盘上的“/”，或点击顶栏的搜索图标。'),
+      L('Taip nama orang, tempat atau peristiwa — carian sepadan semasa anda menaip.', 'Type a person, place, or event — it matches as you type.', '输入人物、地点或事件——边输入边匹配。'),
+      L('Buka mana-mana hasil untuk membaca artikel penuh.', 'Open any result to read the full article.', '打开任意结果即可阅读全文。'),
+    ],
+  },
+  {
+    icon: '📖',
+    title: L('Baca dan petik', 'Read and cite', '阅读与引用'),
+    steps: [
+      L('Buka artikel daripada tonggak, kategori atau carian.', 'Open an article from a pillar, category, or search.', '从支柱、分类或搜索打开文章。'),
+      L('Tatal ke bahagian “Sumber” di hujung — setiap fakta membawa rujukannya.', 'Scroll to the “Sources” at the foot — every fact carries its reference.', '滚动到末尾的“来源”——每条事实都附有引用。'),
+      L('Ikuti pautan sumber untuk mengesahkan sendiri.', 'Follow a source link to verify it yourself.', '点击来源链接自行查证。'),
+    ],
+  },
+  {
+    icon: '🔗',
+    title: L('Kongsi artikel', 'Share an article', '分享文章'),
+    steps: [
+      L('Buka artikel dan cari butang Kongsi berhampiran tajuk.', 'Open an article and find the Share button near the title.', '打开文章，在标题附近找到分享按钮。'),
+      L('Pilih Salin pautan untuk berkongsi, atau Salin Markdown untuk AI.', 'Choose Copy link to share, or Copy Markdown for an AI.', '选择复制链接以分享，或复制 Markdown 供 AI 使用。'),
+      L('Tampal di mana sahaja — sembang, e-mel, atau alat AI anda.', 'Paste it anywhere — a chat, an email, or your AI tool.', '粘贴到任何地方——聊天、邮件或你的 AI 工具。'),
+    ],
+  },
+  {
+    icon: '✍️',
+    title: L('Cadangkan perubahan', 'Suggest a change', '建议修改'),
+    steps: [
+      L('Di hujung mana-mana artikel, cari pautan “Sunting / Lapor”.', 'At the foot of any article, find the “Edit / Report” link.', '在任意文章末尾，找到“编辑 / 报告”链接。'),
+      L('Ia membuka GitHub, tempat setiap perubahan disemak secara terbuka.', 'It opens GitHub, where every change is reviewed in the open.', '它会打开 GitHub，每处改动都在此公开审阅。'),
+      L('Tiada akaun GitHub? Anda masih boleh membaca segalanya — ini pilihan sahaja.', 'No GitHub account? You can still read everything — this is optional.', '没有 GitHub 账户？你仍可阅读一切——这是可选的。'),
+    ],
+  },
+];
+---
+
+<PageHero
+  locale={locale}
+  crumb={[
+    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
+    { label: L('Mula di sini', 'Start here', '从这里开始') },
+  ]}
+  title={L('Mula di sini', 'Start here', '从这里开始')}
+  desc={L(
+    'Baharu di NegaraKu.md? Inilah apa ia, cara ia disusun, dan segala yang boleh anda lakukan — dalam dua minit.',
+    'New to NegaraKu.md? Here’s what it is, how it’s organized, and everything you can do — in two minutes.',
+    '初次来到 NegaraKu.md？这里用两分钟讲清楚：它是什么、如何组织，以及你能做的一切。',
+  )}
+/>
+
+<section class="container block">
+  <div class="psec">
+    <header><span>{L('Apa itu NegaraKu.md', 'What is NegaraKu.md', '什么是 NegaraKu.md')}</span></header>
+    <div class="psec-body prose">
+      <p>{L(
+        'Pangkalan pengetahuan sumber terbuka tentang Malaysia — setiap topik ialah satu fail Markdown, dipetik sumbernya, dan disemak komuniti. Dibina supaya manusia dan AI sama-sama boleh membacanya, dalam Bahasa Melayu, Inggeris dan Cina.',
+        'An open-source knowledge base about Malaysia — every topic is a Markdown file, sourced and community-reviewed. Built so people and AI can both read it, in Malay, English, and Chinese.',
+        '一个关于马来西亚的开源知识库——每个主题都是一个注明来源、经社区审阅的 Markdown 文件。它面向人类与 AI，皆可阅读，提供马来文、英文和中文。',
+      )}</p>
+      <p class="more-about"><a href={localePath('/about', locale)}>{L('Baca kisah penuh di Tentang Kami', 'Read the full story on About', '在“关于”阅读完整故事')} →</a></p>
+    </div>
+  </div>
+</section>
+
+<section class="container block">
+  <div class="psec">
+    <header><span>{L('Cara ia disusun', 'How it’s organized', '如何组织')}</span></header>
+    <div class="psec-body">
+      <p class="lead">{L(
+        'Kandungan bermula daripada tiga tonggak, dipecahkan kepada kategori, kemudian artikel individu. Carian dan Graf Pengetahuan membantu anda melompat terus ke apa yang anda perlukan.',
+        'Content flows from three pillars, into categories, then individual articles. Search and the Knowledge Graph help you jump straight to what you need.',
+        '内容从三大支柱出发，进入各分类，再到具体文章。搜索与知识图谱帮你直达所需。',
+      )}</p>
+      <div class="pillars">
+        {PILLARS.map((p) => (
+          <a class="pillar" href={localePath(`/${p.id}`, locale)} style={`--c:${getPillarColor(p.id)}`}>
+            <span class="picon" aria-hidden="true">{p.icon}</span>
+            <b>{p.name[locale]}</b>
+            <span class="pdesc">{p.tagline[locale]}</span>
+          </a>
+        ))}
+      </div>
+      <div class="orient-more">
+        <a class="omore" href={localePath('/categories', locale)}>{L('Semua kategori', 'All categories', '所有分类')} →</a>
+        <a class="omore" href={localePath('/graph', locale)}>{L('Graf Pengetahuan', 'Knowledge Graph', '知识图谱')} →</a>
+        <a class="omore" href={localePath('/explore', locale)}>{L('Terokai Malaysia', 'Explore Malaysia', '探索马来西亚')} →</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="container block">
+  <div class="psec">
+    <header><span>{L('Apa yang boleh anda lakukan', 'What you can do here', '你能做什么')}</span></header>
+    <div class="psec-body">
+      <div class="acards">
+        {actions.map((a) => (
+          <div class="acard">
+            <span class="aico" aria-hidden="true">{a.icon}</span>
+            <div>
+              <b>{a.title}</b>
+              <p>{a.body}</p>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="container block">
+  <div class="psec">
+    <header><span>{L('Panduan ringkas', 'Quick guide', '快速指南')}</span></header>
+    <div class="psec-body">
+      <div class="guides">
+        {guides.map((g) => (
+          <div class="guide">
+            <b class="ghead"><span class="gico" aria-hidden="true">{g.icon}</span>{g.title}</b>
+            <ol class="gsteps">
+              {g.steps.map((s) => (
+                <li>{s}</li>
+              ))}
+            </ol>
+          </div>
+        ))}
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+  .block { margin-top: 1.6rem; }
+  .psec { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; overflow: hidden; }
+  .psec > header {
+    padding: 0.45rem 0.95rem; font-size: 1.05rem; font-weight: 700; letter-spacing: 0.03em;
+    text-transform: uppercase; background: var(--surface-2); border-bottom: 1px solid var(--line);
+    font-family: var(--font-title);
+  }
+  .psec > header span { color: var(--gold); }
+  .psec-body { padding: 1.2rem; }
+  .psec-body.prose p { margin: 0 0 0.9rem; line-height: 1.75; color: var(--ink-soft); }
+  .psec-body.prose p:last-child { margin-bottom: 0; }
+  .more-about a { color: var(--gold); text-decoration: none; font-weight: 700; }
+  .lead { margin: 0 0 1.1rem; color: var(--ink-soft); line-height: 1.7; }
+
+  /* Structure pillars — compact link cards, section colour on the top rule. */
+  .pillars { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; }
+  .pillar {
+    display: flex; flex-direction: column; gap: 0.4rem; text-decoration: none;
+    background: var(--surface-2); border: 1px solid var(--line); border-top: 3px solid var(--c);
+    border-radius: 10px; padding: 1.1rem 1.2rem; transition: border-color 0.15s, transform 0.15s;
+  }
+  .pillar:hover { border-color: var(--c); transform: translateY(-2px); }
+  .pillar .picon { font-size: 1.8rem; }
+  .pillar b { font-family: var(--font-title); font-size: 1.15rem; color: var(--ink); }
+  .pillar .pdesc { color: var(--ink-soft); font-size: 0.9rem; line-height: 1.5; }
+  @media (max-width: 720px) { .pillars { grid-template-columns: 1fr; } }
+
+  .orient-more { display: flex; flex-wrap: wrap; gap: 0.5rem 1.4rem; margin-top: 1.1rem; }
+  .omore { color: var(--gold); text-decoration: none; font-weight: 700; font-size: 0.9rem; }
+  .omore:hover { text-decoration: underline; }
+
+  /* Action cards — icon + one-line "how". */
+  .acards { display: grid; grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); gap: 1rem; }
+  .acard { display: flex; gap: 0.85rem; background: var(--surface-2); border: 1px solid var(--line); border-radius: 10px; padding: 1rem 1.1rem; }
+  .aico { font-size: 1.5rem; line-height: 1; flex: none; }
+  .acard b { display: block; font-family: var(--font-title); font-size: 1.02rem; color: var(--ink); margin-bottom: 0.2rem; }
+  .acard p { margin: 0; color: var(--ink-soft); font-size: 0.9rem; line-height: 1.55; }
+
+  /* Quick guide — numbered steps in cards. */
+  .guides { display: grid; grid-template-columns: repeat(auto-fit, minmax(17rem, 1fr)); gap: 1rem; }
+  .guide { background: var(--surface-2); border: 1px solid var(--line); border-radius: 10px; padding: 1.1rem 1.2rem; }
+  .ghead { display: flex; align-items: center; gap: 0.5rem; font-family: var(--font-title); font-size: 1.05rem; color: var(--ink); margin-bottom: 0.6rem; }
+  .gico { font-size: 1.25rem; }
+  .gsteps { margin: 0; padding-left: 1.3rem; display: grid; gap: 0.5rem; color: var(--ink-soft); font-size: 0.92rem; line-height: 1.55; }
+  .gsteps li::marker { color: var(--gold); font-weight: 700; }
+</style>
