@@ -21,6 +21,8 @@
       if (localStorage.getItem('nk:contributor') === '1') d.dataset.contributor = 'true';
       // First-visit welcome card (home): hide pre-paint for returning visitors.
       if (localStorage.getItem('nk:welcomed') === '1') d.dataset.welcomed = '1';
+      // Contributor-View first-switch orientation: hide once dismissed.
+      if (localStorage.getItem('nk:cv-oriented') === '1') d.dataset.cvOriented = '1';
       // Default-language preference (Settings): only redirect from the home
       // roots, only once per session, never mid-browse. Manual MS/EN/ZH always wins.
       var pref = localStorage.getItem('nk-default-lang');

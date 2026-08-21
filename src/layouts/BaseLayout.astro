@@ -4,6 +4,7 @@ import Header from '@/components/Header.astro';
 import Footer from '@/components/Footer.astro';
 import MaintenanceView from '@/components/MaintenanceView.astro';
 import HeadInlineScripts from '@/components/HeadInlineScripts.astro';
+import ContributorWelcome from '@/components/ContributorWelcome.astro';
 import type { Locale } from '@/lib/categories';
 import { t, LOCALES, localePath, withTrailingSlash } from '@/lib/i18n';
 import { MAINTENANCE } from '@/lib/maintenance';
@@ -163,6 +164,7 @@ const ogImageAlt = image ? title : 'NegaraKu.md — knowledge base about Malaysi
       <>
         {!bare && <a class="skip-link" href="#main" data-pagefind-ignore>{t('a11y.skip', locale)}</a>}
         {!bare && <Header locale={locale} path={path} />}
+        {!bare && <ContributorWelcome locale={locale} />}
         <main id="main">
           <slot />
         </main>

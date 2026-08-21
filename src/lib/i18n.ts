@@ -91,6 +91,7 @@ const STRINGS = {
 
   // Contributor View (launchpad) — lifecycle nav + the view-mode toggle.
   'cnav.lifecycle': { ms: 'Kitaran Hayat', en: 'Lifecycle', zh: '生命周期' },
+  'cnav.guide': { ms: 'Panduan penyumbang', en: 'Contributor guide', zh: '贡献者指南' },
   'cnav.grpOnSite': { ms: 'Di laman ini', en: 'On this site', zh: '本站' },
   'cnav.grpOnGitHub': { ms: 'Di GitHub', en: 'On GitHub', zh: '在 GitHub' },
   'cnav.grpBuild': { ms: 'Bina', en: 'Build', zh: '构建' },

@@ -1,0 +1,61 @@
+---
+import type { Locale } from '@/lib/categories';
+import { localePath } from '@/lib/i18n';
+
+interface Props {
+  locale: Locale;
+}
+const { locale } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+---
+
+<aside class="cv-welcome" data-pagefind-ignore aria-label={L('Orientasi penyumbang', 'Contributor orientation', '贡献者引导')}>
+  <div class="container cv-inner">
+    <span class="cv-ico" aria-hidden="true">🚀</span>
+    <div class="cv-text">
+      <b>{L('Selamat datang ke Paparan Penyumbang', 'Welcome to Contributor View', '欢迎来到贡献者视图')}</b>
+      <p>{L(
+        'Ini pelancar anda — barisan semakan, draf, senarai kerja, papan pemuka dan deploy, kebanyakannya terus ke GitHub.',
+        'This is your launchpad — review queue, drafts, worklist, dashboard and deploy, mostly straight into GitHub.',
+        '这是你的启动台——审核队列、草稿、工作清单、仪表板与部署，多数直达 GitHub。',
+      )}</p>
+    </div>
+    <a class="btn btn-ghost cv-go" href={localePath('/contributor-guide', locale)}>{L('Panduan penyumbang', 'Contributor guide', '贡献者指南')} →</a>
+    <button type="button" class="cv-x" data-cv-dismiss aria-label={L('Tutup', 'Dismiss', '关闭')}>✕</button>
+  </div>
+</aside>
+
+<script>
+  document.querySelectorAll('[data-cv-dismiss]').forEach((b) =>
+    b.addEventListener('click', () => {
+      try {
+        localStorage.setItem('nk:cv-oriented', '1');
+      } catch (e) {}
+      document.documentElement.dataset.cvOriented = '1';
+    }),
+  );
+</script>
+
+<style>
+  /* Shown only the FIRST time a recognised contributor is in Contributor View
+     (until dismissed → data-cv-oriented, set pre-paint by HeadInlineScripts). */
+  .cv-welcome { display: none; background: color-mix(in srgb, var(--gold) 8%, var(--surface)); border-bottom: 1px solid color-mix(in srgb, var(--gold) 35%, var(--line)); }
+  :global(html[data-contributor='true'][data-view='contributor']:not([data-cv-oriented])) .cv-welcome { display: block; }
+  .cv-inner { position: relative; display: flex; align-items: center; gap: 1rem; padding: 0.7rem 2.4rem 0.7rem 0; }
+  .cv-ico { font-size: 1.5rem; flex: none; }
+  .cv-text { flex: 1; min-width: 0; }
+  .cv-text b { font-family: var(--font-title); color: var(--ink); font-size: 1rem; }
+  .cv-text p { margin: 0.1rem 0 0; color: var(--ink-soft); font-size: 0.9rem; line-height: 1.5; }
+  .cv-go { white-space: nowrap; flex: none; }
+  .cv-x {
+    position: absolute; top: 50%; right: 0.2rem; transform: translateY(-50%);
+    background: none; border: 0; color: var(--muted); font-size: 0.95rem; line-height: 1;
+    cursor: pointer; padding: 0.3rem 0.4rem; border-radius: 6px;
+  }
+  .cv-x:hover { color: var(--ink); background: var(--surface-2); }
+  @media (max-width: 620px) {
+    .cv-inner { flex-wrap: wrap; }
+    .cv-text { flex-basis: 100%; }
+    .cv-go { width: 100%; text-align: center; }
+  }
+</style>

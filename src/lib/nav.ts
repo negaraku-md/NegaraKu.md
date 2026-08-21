@@ -109,6 +109,7 @@ export const CONTRIBUTOR_NAV: NavMenu[] = [
     label: 'cnav.lifecycle',
     items: [
       { label: 'cnav.grpOnSite', href: '', heading: true },
+      { label: 'cnav.guide', href: '/contributor-guide' },
       { label: 'nav.worklist', href: '/worklist' },
       { label: 'nav.dashboard', href: '/dashboard' },
       { label: 'nav.changelog', href: '/changelog' },

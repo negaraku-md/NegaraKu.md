@@ -1,0 +1,216 @@
+---
+import type { Locale } from '@/lib/categories';
+import { localePath } from '@/lib/i18n';
+import { REPO } from '@/lib/site';
+import PageHero from './PageHero.astro';
+
+interface Props {
+  locale: Locale;
+}
+const { locale } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+// The Contributor View launchpad, explained tool by tool.
+const tools = [
+  {
+    icon: '🔀',
+    title: L('Barisan semakan', 'Review queue', '审核队列'),
+    body: L('Pull request terbuka menunggu semakan — bantu semak dan luluskan.', 'Open pull requests awaiting review — help review and approve.', '等待审核的开放 PR——帮忙审阅与批准。'),
+  },
+  {
+    icon: '📝',
+    title: L('Artikel draf', 'Draft articles', '草稿文章'),
+    body: L('Draf yang belum terbit — sesuai untuk disiapkan atau disemak.', 'Drafts not yet published — good candidates to finish or review.', '尚未发布的草稿——适合完善或审阅。'),
+  },
+  {
+    icon: '🐛',
+    title: L('Isu artikel & terjemahan', 'Article & translation issues', '文章与翻译问题'),
+    body: L('Isu berlabel di GitHub — pembetulan, permintaan, masalah terjemahan.', 'Labelled issues on GitHub — fixes, requests, translation problems.', 'GitHub 上带标签的问题——更正、请求、翻译问题。'),
+  },
+  {
+    icon: '🗂️',
+    title: L('Senarai kerja', 'Worklist', '工作清单'),
+    body: L('Pandangan di laman tentang apa yang perlu perhatian seterusnya.', 'An on-site view of what needs attention next.', '站内视图，显示接下来需要关注的内容。'),
+  },
+  {
+    icon: '📊',
+    title: L('Papan pemuka', 'Dashboard', '仪表板'),
+    body: L('Kesihatan korpus — liputan, keterkinian terjemahan, semakan tertunggak.', 'Corpus health — coverage, translation freshness, overdue reviews.', '语料库健康度——覆盖率、翻译新鲜度、逾期审阅。'),
+  },
+  {
+    icon: '🚀',
+    title: L('Tindakan & deploy', 'Actions & deploy', '操作与部署'),
+    body: L('Sejarah larian dan suis penyelenggaraan — terus ke GitHub Actions.', 'Run history and the maintenance switch — straight to GitHub Actions.', '运行历史与维护开关——直达 GitHub Actions。'),
+  },
+];
+
+const guides = [
+  {
+    icon: '✏️',
+    title: L('Perbaiki artikel', 'Fix or improve an article', '修改或改进文章'),
+    steps: [
+      L('Buka artikel dan klik “Sunting di GitHub” di kotak sisi.', 'Open the article and click “Edit on GitHub” in the side box.', '打开文章，点击侧栏的“在 GitHub 编辑”。'),
+      L('Sunting Markdown — setiap dakwaan patut membawa sumbernya.', 'Edit the Markdown — every claim should carry its source.', '编辑 Markdown——每条陈述都应附有来源。'),
+      L('Buka pull request; ia disemak secara terbuka sebelum digabung.', 'Open a pull request; it’s reviewed in the open before merging.', '提交 PR；合并前会公开审阅。'),
+    ],
+  },
+  {
+    icon: '➕',
+    title: L('Tambah artikel baharu', 'Add a new article', '新增文章'),
+    steps: [
+      L('Fork repo, dan tambah knowledge/<kategori>/<slug>.md.', 'Fork the repo, and add knowledge/<category>/<slug>.md.', 'Fork 仓库，新增 knowledge/<分类>/<slug>.md。'),
+      L('Isi frontmatter (tajuk, kategori, sumber) dan tulis dalam Markdown.', 'Fill the frontmatter (title, category, sources) and write in Markdown.', '填写 frontmatter（标题、分类、来源），并用 Markdown 撰写。'),
+      L('Buka PR; artikel mula sebagai draf sehingga disemak dan diterbitkan.', 'Open a PR; the article starts as a draft until reviewed and published.', '提交 PR；文章先为草稿，经审阅后发布。'),
+    ],
+  },
+  {
+    icon: '💬',
+    title: L('Balas semakan', 'Respond to review', '回应审阅'),
+    steps: [
+      L('Penyemak mengulas pada PR anda — jawab atau tolak dengan sebab.', 'Reviewers comment on your PR — answer, or push back with reason.', '审阅者在你的 PR 上评论——回应，或有理由地反驳。'),
+      L('Tolak kemas kini ke cawangan yang sama; PR mengemas kini automatik.', 'Push updates to the same branch; the PR updates automatically.', '推送更新到同一分支；PR 会自动更新。'),
+      L('Setelah diluluskan ia digabung dan laman deploy semula.', 'Once approved it merges and the site redeploys.', '获批准后即合并，网站重新部署。'),
+    ],
+  },
+  {
+    icon: '⇄',
+    title: L('Tukar antara paparan', 'Switch between views', '在视图间切换'),
+    steps: [
+      L('Log masuk sekali setiap pelayar melalui “Log masuk penyumbang”.', 'Sign in once per browser via “Contributor sign-in”.', '通过“贡献者登录”在每个浏览器登录一次。'),
+      L('Guna suis Pembaca / Penyumbang di bar atas.', 'Use the Reader / Contributor switch in the top bar.', '使用顶栏的读者 / 贡献者切换。'),
+      L('Paparan Penyumbang ialah pelancar anda ke semua alat di atas.', 'Contributor View is your launchpad to all the tools above.', '贡献者视图是通往上述所有工具的启动台。'),
+    ],
+  },
+];
+---
+
+<PageHero
+  locale={locale}
+  crumb={[
+    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
+    { label: L('Panduan penyumbang', 'Contributor guide', '贡献者指南') },
+  ]}
+  title={L('Panduan penyumbang', 'Contributor guide', '贡献者指南')}
+  desc={L(
+    'Cara sebenar untuk menyumbang — alat anda, kitaran hayat artikel, dan langkah demi langkah.',
+    'How contributing actually works — your tools, the article lifecycle, and step by step.',
+    '贡献的实际运作方式——你的工具、文章生命周期，以及分步指引。',
+  )}
+/>
+
+<section class="container block">
+  <div class="psec">
+    <header><span>{L('Cara ia berfungsi', 'How it works', '运作方式')}</span></header>
+    <div class="psec-body prose">
+      <p>{L(
+        'NegaraKu.md ialah pangkalan pengetahuan terbuka — setiap topik ialah fail Markdown di GitHub. Anda menyumbang dengan fork dan pull request; setiap perubahan disemak secara terbuka, dipetik sumbernya, dan hanya yang diterbitkan muncul di laman awam. Topik sensitif disemak manusia dahulu.',
+        'NegaraKu.md is an open knowledge base — every topic is a Markdown file on GitHub. You contribute by fork and pull request; every change is reviewed in the open, sourced, and only published ones appear on the public site. Sensitive topics are human-reviewed first.',
+        'NegaraKu.md 是一个开放知识库——每个主题都是 GitHub 上的 Markdown 文件。你通过 fork 和 PR 贡献；每处改动都公开审阅、注明来源，只有已发布的才出现在公开网站上。敏感主题会先经人工审阅。',
+      )}</p>
+      <p class="more-about"><a href={localePath('/contribute', locale)}>{L('Kenapa menyumbang & cara mula', 'Why contribute & how to start', '为何贡献及如何开始')} →</a></p>
+    </div>
+  </div>
+</section>
+
+<section class="container block">
+  <div class="psec">
+    <header><span>{L('Pelancar anda', 'Your launchpad', '你的启动台')}</span></header>
+    <div class="psec-body">
+      <p class="lead">{L(
+        'Tukar ke Paparan Penyumbang dan navigasi bar berubah menjadi pelancar ini — kebanyakannya pautan terus ke alat sebenar di GitHub.',
+        'Switch to Contributor View and the nav becomes this launchpad — mostly direct links into the real tools on GitHub.',
+        '切换到贡献者视图，导航栏会变成这个启动台——多数是直达 GitHub 上真实工具的链接。',
+      )}</p>
+      <div class="tcards">
+        {tools.map((tval) => (
+          <div class="tcard">
+            <span class="tico" aria-hidden="true">{tval.icon}</span>
+            <div>
+              <b>{tval.title}</b>
+              <p>{tval.body}</p>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="container block">
+  <div class="psec">
+    <header><span>{L('Kitaran hayat artikel', 'The article lifecycle', '文章生命周期')}</span></header>
+    <div class="psec-body">
+      <div class="lifecycle">
+        <span class="lc">{L('Draf', 'Draft', '草稿')}</span>
+        <span class="lc-arrow" aria-hidden="true">→</span>
+        <span class="lc">{L('Dalam semakan', 'In review', '审阅中')}</span>
+        <span class="lc-arrow" aria-hidden="true">→</span>
+        <span class="lc lc-live">{L('Diterbitkan', 'Published', '已发布')}</span>
+        <span class="lc-arrow" aria-hidden="true">→</span>
+        <span class="lc">{L('Semakan', 'Revision', '修订')}</span>
+      </div>
+      <p class="lc-note">{L(
+        'Hanya artikel yang diterbitkan muncul di laman awam. Draf dan artikel dalam semakan kekal di repo sehingga diluluskan. Setiap penerbitan semula direkod sebagai semakan bernombor.',
+        'Only published articles appear on the public site. Drafts and in-review articles stay in the repo until approved. Each re-publish is recorded as a numbered revision.',
+        '只有已发布的文章才出现在公开网站上。草稿与审阅中的文章保留在仓库，直到获批。每次重新发布都记录为带编号的修订。',
+      )}</p>
+    </div>
+  </div>
+</section>
+
+<section class="container block">
+  <div class="psec">
+    <header><span>{L('Langkah demi langkah', 'Step by step', '分步指引')}</span></header>
+    <div class="psec-body">
+      <div class="guides">
+        {guides.map((g) => (
+          <div class="guide">
+            <b class="ghead"><span class="gico" aria-hidden="true">{g.icon}</span>{g.title}</b>
+            <ol class="gsteps">
+              {g.steps.map((s) => (
+                <li>{s}</li>
+              ))}
+            </ol>
+          </div>
+        ))}
+      </div>
+      <p class="gh-cta"><a class="btn btn-ghost" href={REPO} rel="noopener">{L('Buka repo di GitHub', 'Open the repo on GitHub', '在 GitHub 打开仓库')} ↗</a></p>
+    </div>
+  </div>
+</section>
+
+<style>
+  .block { margin-top: 1.6rem; }
+  .psec { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; overflow: hidden; }
+  .psec > header {
+    padding: 0.45rem 0.95rem; font-size: 1.05rem; font-weight: 700; letter-spacing: 0.03em;
+    text-transform: uppercase; background: var(--surface-2); border-bottom: 1px solid var(--line);
+    font-family: var(--font-title);
+  }
+  .psec > header span { color: var(--gold); }
+  .psec-body { padding: 1.2rem; }
+  .psec-body.prose p { margin: 0 0 0.9rem; line-height: 1.75; color: var(--ink-soft); }
+  .psec-body.prose p:last-child { margin-bottom: 0; }
+  .more-about a { color: var(--gold); text-decoration: none; font-weight: 700; }
+  .lead { margin: 0 0 1.1rem; color: var(--ink-soft); line-height: 1.7; }
+
+  .tcards { display: grid; grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr)); gap: 1rem; }
+  .tcard { display: flex; gap: 0.85rem; background: var(--surface-2); border: 1px solid var(--line); border-radius: 10px; padding: 1rem 1.1rem; }
+  .tico { font-size: 1.5rem; line-height: 1; flex: none; }
+  .tcard b { display: block; font-family: var(--font-title); font-size: 1.02rem; color: var(--ink); margin-bottom: 0.2rem; }
+  .tcard p { margin: 0; color: var(--ink-soft); font-size: 0.9rem; line-height: 1.55; }
+
+  .lifecycle { display: flex; flex-wrap: wrap; align-items: center; gap: 0.55rem; }
+  .lc { font-family: var(--font-title); font-weight: 700; font-size: 0.95rem; color: var(--ink); background: var(--surface-2); border: 1px solid var(--line); border-radius: 999px; padding: 0.4rem 0.95rem; }
+  .lc-live { border-color: color-mix(in srgb, var(--gold) 55%, var(--line)); color: var(--gold); }
+  .lc-arrow { color: var(--muted); }
+  .lc-note { margin: 1rem 0 0; color: var(--ink-soft); line-height: 1.65; }
+
+  .guides { display: grid; grid-template-columns: repeat(auto-fit, minmax(17rem, 1fr)); gap: 1rem; }
+  .guide { background: var(--surface-2); border: 1px solid var(--line); border-radius: 10px; padding: 1.1rem 1.2rem; }
+  .ghead { display: flex; align-items: center; gap: 0.5rem; font-family: var(--font-title); font-size: 1.05rem; color: var(--ink); margin-bottom: 0.6rem; }
+  .gico { font-size: 1.25rem; }
+  .gsteps { margin: 0; padding-left: 1.3rem; display: grid; gap: 0.5rem; color: var(--ink-soft); font-size: 0.92rem; line-height: 1.55; }
+  .gsteps li::marker { color: var(--gold); font-weight: 700; }
+  .gh-cta { margin: 1.3rem 0 0; }
+</style>
