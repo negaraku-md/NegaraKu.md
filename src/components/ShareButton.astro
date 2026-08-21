@@ -1,0 +1,142 @@
+---
+import type { Locale } from '@/lib/categories';
+
+interface Props {
+  locale: Locale;
+  /** Article title, for the share text. */
+  title: string;
+  /** Locale-aware path to this entry's raw Markdown (…/slug.md). */
+  mdHref: string;
+}
+const { locale, title, mdHref } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+---
+
+<div
+  class="share"
+  data-pagefind-ignore
+  data-share-title={title}
+  data-share-md={mdHref}
+  data-copied={L('Disalin!', 'Copied!', '已复制！')}
+>
+  <button type="button" class="share-btn" data-share-toggle aria-haspopup="true" aria-expanded="false">
+    <span class="ico" aria-hidden="true">🔗</span><span>{L('Kongsi', 'Share', '分享')}</span>
+  </button>
+  <div class="share-menu" data-share-menu role="menu" hidden>
+    <button type="button" class="smi" data-copy="link" role="menuitem">
+      <span class="ico" aria-hidden="true">🔗</span><span class="lbl">{L('Salin pautan', 'Copy link', '复制链接')}</span>
+    </button>
+    <button type="button" class="smi" data-copy="md" role="menuitem">
+      <span class="ico" aria-hidden="true">🤖</span><span class="lbl">{L('Salin Markdown untuk AI', 'Copy Markdown for AI', '复制 Markdown 供 AI')}</span>
+    </button>
+    <button type="button" class="smi" data-native hidden role="menuitem">
+      <span class="ico" aria-hidden="true">📤</span><span class="lbl">{L('Kongsi…', 'Share…', '分享…')}</span>
+    </button>
+    <a class="smi" data-ext="wa" href="#" target="_blank" rel="noopener" role="menuitem">
+      <span class="ico" aria-hidden="true">💬</span><span class="lbl">WhatsApp</span>
+    </a>
+    <a class="smi" data-ext="x" href="#" target="_blank" rel="noopener" role="menuitem">
+      <span class="ico" aria-hidden="true">✖</span><span class="lbl">X</span>
+    </a>
+  </div>
+</div>
+
+<script>
+  // (client) Share control: copy link / copy raw Markdown (for AI) / native share
+  // (mobile) / WhatsApp / X. Everything runs off the page's own URL so it stays
+  // correct per locale without extra props.
+  document.querySelectorAll<HTMLElement>('.share').forEach((root) => {
+    const btn = root.querySelector<HTMLButtonElement>('[data-share-toggle]');
+    const menu = root.querySelector<HTMLElement>('[data-share-menu]');
+    if (!btn || !menu) return;
+    const title = root.dataset.shareTitle || document.title;
+    const mdHref = root.dataset.shareMd || '';
+    const copied = root.dataset.copied || 'Copied!';
+    const url = () => location.href;
+    const enc = encodeURIComponent;
+
+    const wa = root.querySelector<HTMLAnchorElement>('[data-ext="wa"]');
+    const x = root.querySelector<HTMLAnchorElement>('[data-ext="x"]');
+    if (wa) wa.href = `https://wa.me/?text=${enc(`${title} — ${url()}`)}`;
+    if (x) x.href = `https://twitter.com/intent/tweet?text=${enc(title)}&url=${enc(url())}`;
+
+    const nativeBtn = root.querySelector<HTMLButtonElement>('[data-native]');
+    if (nativeBtn && typeof navigator.share === 'function') {
+      nativeBtn.hidden = false;
+      nativeBtn.addEventListener('click', () => {
+        navigator.share({ title, url: url() }).catch(() => {});
+        open(false);
+      });
+    }
+
+    const open = (on: boolean) => {
+      menu.hidden = !on;
+      btn.setAttribute('aria-expanded', on ? 'true' : 'false');
+    };
+    btn.addEventListener('click', (e) => {
+      e.stopPropagation();
+      open(menu.hidden);
+    });
+    document.addEventListener('click', (e) => {
+      if (!root.contains(e.target as Node)) open(false);
+    });
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') open(false);
+    });
+
+    root.querySelectorAll<HTMLButtonElement>('[data-copy]').forEach((item) => {
+      const lbl = item.querySelector<HTMLElement>('.lbl');
+      const original = lbl?.textContent || '';
+      item.addEventListener('click', async () => {
+        try {
+          let text = url();
+          if (item.dataset.copy === 'md') {
+            const res = await fetch(mdHref);
+            if (res.ok) text = await res.text();
+          }
+          await navigator.clipboard.writeText(text);
+          if (lbl) {
+            lbl.textContent = copied;
+            item.classList.add('copied');
+            setTimeout(() => {
+              lbl.textContent = original;
+              item.classList.remove('copied');
+            }, 1500);
+          }
+        } catch {
+          // Clipboard blocked (e.g. insecure context) — leave the menu open so
+          // the user can still use the social links.
+        }
+      });
+    });
+  });
+</script>
+
+<style>
+  .share { position: relative; display: inline-block; }
+  .share-btn {
+    display: inline-flex; align-items: center; gap: 0.4rem;
+    background: var(--surface-2); color: var(--ink);
+    border: 1px solid color-mix(in srgb, var(--gold) 55%, var(--line)); border-radius: 999px;
+    font-family: var(--font-interface); font-weight: 600; font-size: 0.88rem;
+    padding: 0.45rem 0.95rem; cursor: pointer;
+  }
+  .share-btn:hover { border-color: var(--gold); background: color-mix(in srgb, var(--gold) 10%, var(--surface)); color: var(--gold); }
+  .share-btn .ico { font-size: 0.95em; }
+
+  .share-menu {
+    position: absolute; top: calc(100% + 6px); left: 0; z-index: 20;
+    min-width: 232px; display: flex; flex-direction: column;
+    background: var(--surface); border: 1px solid color-mix(in srgb, var(--ink) 55%, var(--line));
+    border-radius: 12px; padding: 0.4rem; box-shadow: var(--shadow-card);
+  }
+  .smi {
+    display: flex; align-items: center; gap: 0.6rem; width: 100%;
+    background: none; border: 0; text-align: left; cursor: pointer;
+    font: inherit; font-family: var(--font-interface); font-size: 0.9rem;
+    color: var(--ink-soft); text-decoration: none; padding: 0.55rem 0.7rem; border-radius: 8px;
+  }
+  .smi:hover { background: var(--surface-2); color: var(--gold); }
+  .smi .ico { font-size: 1.05em; width: 1.3em; text-align: center; flex: none; }
+  .smi.copied { color: var(--gold); }
+</style>

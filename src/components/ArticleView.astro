@@ -10,6 +10,7 @@ import { subcatLabel } from '@/lib/subcategories';
 import { FLOWER_D } from '@/lib/logo';
 import TrustBadge from './TrustBadge.astro';
 import FeedbackBar from './FeedbackBar.astro';
+import ShareButton from './ShareButton.astro';
 import { getAnalytics, type AnalyticsBucket } from '@/lib/apidata';
 
 // Visitor analytics (see docs/ANALYTICS.md): three buckets — human readers,
@@ -266,6 +267,9 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
 
     <h1>{d.title}</h1>
     <p class="lede">{d.summary}</p>
+    <div class="hero-actions" data-pagefind-ignore>
+      <ShareButton locale={locale} title={d.title} mdHref={localePath(path, locale) + '.md'} />
+    </div>
   </div>
 </header>
 
@@ -685,6 +689,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
   }
   .art-hero h1 { margin: 0 0 0.9rem; font-family: var(--font-title); font-weight: 900; letter-spacing: -0.03em; font-size: clamp(2.2rem, 4.6vw, 3.4rem); line-height: 1.05; max-width: 24ch; color: var(--ink); }
   .lede { color: var(--ink-soft); font-size: 1.1rem; line-height: 1.6; max-width: 60ch; margin: 0; }
+  .hero-actions { margin-top: 1.2rem; }
 
   .sens {
     border: 1px solid rgba(248, 113, 113, 0.4); background: rgba(248, 113, 113, 0.07);
