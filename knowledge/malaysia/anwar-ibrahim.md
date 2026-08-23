@@ -13,7 +13,7 @@ contentType: "guide"
 answer: "Anwar Ibrahim (born 10 August 1947) is Malaysia's tenth Prime Minister, in office since 24 November 2022 and leading a unity (MADANI) government. He rose in the 1990s to become Deputy Prime Minister and Finance Minister under Mahathir Mohamad, was dismissed in 1998 amid the Asian financial crisis and subsequently jailed — events that launched the Reformasi reform movement. After being released, re-imprisoned, and pardoned, he led the opposition for years before becoming Prime Minister following the 2022 general election."
 keyTakeaways:
   - "Malaysia's 10th and current Prime Minister, since 24 November 2022."
-  - "Was Deputy Prime Minister and Finance Minister (1993–1998) under Mahathir Mohamad before being dismissed in 1998."
+  - "Was Finance Minister (1991–1998) and Deputy Prime Minister (1993–1998) under Mahathir Mohamad before being dismissed in 1998."
   - "His 1998 dismissal and jailing launched the Reformasi movement, a defining moment in modern Malaysian politics."
   - "He was released in 2004, imprisoned again in 2015, and freed on a royal pardon in 2018."
   - "Leads a unity (MADANI) government formed after the 2022 general election produced a hung parliament."
@@ -79,8 +79,9 @@ one of the most consequential figures in modern Malaysian politics.
 A prominent Islamic youth leader, Anwar joined UMNO in 1982 and rose quickly
 through the cabinet, holding the education and finance portfolios and becoming
 **Deputy Prime Minister in 1993** under [Mahathir Mohamad](/malaysia/mahathir-mohamad).
-Widely seen as the heir apparent, he was **dismissed in 1998** amid disagreement
-over the handling of the [Asian financial crisis](/malaysia/1998-reformasi).
+Widely seen as the heir apparent, he was **dismissed in 1998**, amid the
+[Asian financial crisis](/malaysia/1998-reformasi) — a split widely attributed to
+disagreement over how the crisis was handled.
 
 ## Reformasi, imprisonment and pardon (1998–2018)
 

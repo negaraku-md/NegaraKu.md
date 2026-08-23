@@ -10,12 +10,12 @@ tier: "4"
 mode: "practical"
 contentType: "data"
 
-answer: "Malaysia has had ten premierships since independence in 1957, held by nine people — Mahathir Mohamad served twice (as the 4th PM, 1981–2003, and the 7th, 2018–2020). For six decades the office was held by UMNO leaders governing through the Alliance and then Barisan Nasional; since the 2018 general election it has changed hands five times across three coalitions, and is currently held by Anwar Ibrahim, whose unity (MADANI) government took office on 24 November 2022."
+answer: "Malaysia has had ten premierships since independence in 1957, held by nine people — Mahathir Mohamad served twice (as the 4th PM, 1981–2003, and the 7th, 2018–2020). For six decades the office was held by UMNO leaders governing through the Alliance and then Barisan Nasional; since the 2018 general election it has changed hands four times across three coalitions, and is currently held by Anwar Ibrahim, whose unity (MADANI) government took office on 24 November 2022."
 keyTakeaways:
   - "Ten premierships, nine individuals: Mahathir Mohamad is counted as both the 4th and the 7th Prime Minister."
   - "The first six Prime Ministers (1957–2018) were all UMNO leaders, governing through the Alliance and then Barisan Nasional."
   - "The 2018 general election (GE14) ended six decades of UMNO/Barisan Nasional rule at the federal level."
-  - "Since 2018 the office has changed five times across Pakatan Harapan, Perikatan Nasional and Barisan Nasional."
+  - "Since 2018 the office has changed four times across Pakatan Harapan, Perikatan Nasional and Barisan Nasional."
   - "Anwar Ibrahim, the 10th Prime Minister, took office on 24 November 2022, leading a unity (MADANI) government."
 appliesTo: "Anyone learning how Malaysia has been governed — students, newcomers, and readers tracing the country's political leadership over time."
 
@@ -94,7 +94,7 @@ coalition. The **[14th general election in 2018](/malaysia/2018-change-of-govern
 ended that run, producing the first change of federal government since
 independence.
 
-The years since have been the most fluid in the office's history: **five
+The years since have been the most fluid in the office's history: **four
 premierships in under eight years**, moving across Pakatan Harapan, Perikatan
 Nasional and Barisan Nasional, before settling on Anwar Ibrahim's unity
 government from November 2022.

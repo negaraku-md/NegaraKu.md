@@ -98,8 +98,9 @@ stepped down on 31 October 2003.
 In 2018, at the age of 92, Mahathir came out of retirement to lead the opposition
 Pakatan Harapan coalition, and the **[14th general election](/malaysia/2018-change-of-government)**
 produced the first change of federal government since independence. He served as
-the seventh Prime Minister from 10 May 2018 until his resignation amid the
-February 2020 political crisis that brought down the government.
+the seventh Prime Minister from 10 May 2018 until his resignation on 24 February
+2020 — staying on as caretaker until the handover on 1 March — in the political
+crisis that brought down the government.
 
 ## Legacy
 

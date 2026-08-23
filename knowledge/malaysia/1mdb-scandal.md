@@ -28,7 +28,7 @@ faq:
     a: "Multiple prosecutions followed in Malaysia and abroad. Former Prime Minister Najib Razak was convicted in the related SRC International case (2020) and in the main 1MDB trial (December 2025), and has appealed; the financier Jho Low remains a fugitive. As criminal cases and appeals continue, this is a live legal matter."
 
 verificationNeeded:
-  - "SENSITIVE / needs human + legal review before publication. This describes ongoing criminal proceedings and appeals (legal-proceedings). All statements are drawn from official sources (U.S. DOJ) and reported court verdicts and are presented neutrally as matters of public record; convictions under appeal must be described as such. Figures, charges, dates and current status must be re-verified against primary court records before publication."
+  - "SENSITIVE / needs human + legal sign-off before publication (legal-proceedings). Key facts have been checked against reputable sources: the 26 Dec 2025 main-1MDB conviction and 15-year/RM11.4b sentence (CNN, Al Jazeera, PBS, Malay Mail), the 30 Dec 2025 appeal (Malay Mail), the Feb 2024 halving of the SRC sentence (CNN), the DOJ US$4.5b/US$1.1b figures (DOJ), and Jho Low's fugitive status. All convictions are under appeal and are described as such. A qualified human reviewer should still confirm current status before publishing, as it is a live matter."
 
 lang: "en"
 masterLanguage: "en"
@@ -60,6 +60,15 @@ sources:
   - title: "Ex-PM Najib Razak gets 15-year jail term, RM11.387b fine over 1MDB (Dec 2025)"
     url: "https://www.malaymail.com/news/malaysia/2025/12/26/ex-pm-najib-razak-gets-concurrent-15-year-jail-terms-rm1138b-fine-over-1mdb-scandal/203359"
     publisher: "Malay Mail"
+  - title: "Malaysia court finds Najib Razak guilty of abuse of power in biggest 1MDB trial (26 Dec 2025)"
+    url: "https://www.cnn.com/2025/12/26/asia/najib-1mdb-verdict-intl-hnk"
+    publisher: "CNN"
+  - title: "Najib files appeal against 1MDB conviction (30 Dec 2025)"
+    url: "https://www.malaymail.com/news/malaysia/2025/12/30/najib-files-appeal-against-1mdb-conviction-15-years-jail-term-and-rm1138b-fine/203688"
+    publisher: "Malay Mail"
+  - title: "Malaysia cuts prison sentence of former PM Najib Razak (Feb 2024)"
+    url: "https://www.cnn.com/2024/02/02/asia/malaysia-najib-razak-prison-sentence-halved-intl-hnk"
+    publisher: "CNN"
 
 related: ["2018-change-of-government", "barisan-nasional", "prime-ministers-of-malaysia"]
 keywords: ["1MDB", "1Malaysia Development Berhad", "Najib Razak", "Jho Low", "Malaysia financial scandal"]
@@ -90,14 +99,18 @@ coalition at the [2018 general election](/malaysia/2018-change-of-government).
 ## The legal cases
 
 Multiple prosecutions followed in Malaysia and abroad. Former Prime Minister
-**Najib Razak** was convicted in 2020 in the related **SRC International** case,
-and in **December 2025** was convicted in the main 1MDB trial and sentenced to a
-further term and fine. He has **filed appeals** against the convictions, so the
-matter remains before the courts. Internationally, the **U.S. Department of
-Justice** reported recovering or assisting in recovering about **US$1.1 billion**
-in assets linked to the scheme, and the investment bank Goldman Sachs reached a
+**Najib Razak** was convicted in 2020 in the related **SRC International** case;
+that 12-year sentence was halved to six years by the Pardons Board in February
+2024. In the main 1MDB trial he was found **guilty on 26 December 2025** of abuse
+of power and money laundering, and sentenced to a further **15 years' jail and a
+fine of about RM11.4 billion**. He **filed an appeal on 30 December 2025**, so the
+convictions are not final and the matter remains before the courts. The financier
+**Jho Low** remains a fugitive. Internationally, the **U.S. Department of Justice**
+reported recovering or assisting in recovering about **US$1.1 billion** in assets
+linked to the scheme, and the investment bank **Goldman Sachs** reached a
 settlement over its role.
 
-*Because criminal cases and appeals are continuing, this is a live legal matter;
-the figures and status above must be re-verified against primary court records,
-and a qualified reviewer must sign off before publication.*
+*This describes ongoing legal proceedings: the December 2025 conviction is under
+appeal and is stated here as a matter of public record, drawn from official
+sources and court reporting. As a sensitive topic it still needs a qualified human
+reviewer to sign off before publication.*
