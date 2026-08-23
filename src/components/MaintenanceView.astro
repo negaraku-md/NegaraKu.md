@@ -57,6 +57,13 @@ if (MAINTENANCE_UNTIL) {
             : <a href={localePath('/maintenance', l)}>{LOCALE_NAMES[l]}</a>
         ))}
       </nav>
+
+      <!-- Home button — a way back to the site. On the standalone /maintenance
+           preview it opens the live home; during a real takeover it reloads the
+           home, so it doubles as a "check if we're back" link. -->
+      <a class="mhome" href={localePath('/', locale)}>
+        <span aria-hidden="true">←</span>{L('Laman Utama', 'Home', '首页')}
+      </a>
     </div>
   </div>
 </section>
@@ -94,6 +101,17 @@ if (MAINTENANCE_UNTIL) {
   }
   /* Active = filled gold. */
   .mlang .mlang-cur { color: var(--bg, #07070a); background: var(--gold); border-color: var(--gold); font-weight: 700; }
+
+  /* Home button — the primary action, on its own line below the language switch. */
+  .mhome {
+    display: inline-flex; align-items: center; gap: 0.45rem; margin-top: 1.4rem;
+    font-family: var(--font-title, system-ui); font-weight: 700; font-size: 0.92rem;
+    padding: 0.6rem 1.3rem; border-radius: 999px;
+    background: var(--gold); color: var(--bg, #07070a);
+    border: 1px solid var(--gold); text-decoration: none;
+    transition: background 0.15s, transform 0.15s;
+  }
+  .mhome:hover { background: color-mix(in srgb, var(--gold) 86%, #ffffff); transform: translateY(-1px); }
 
   /* Icon on the left, text on the right. */
   .mrow {
