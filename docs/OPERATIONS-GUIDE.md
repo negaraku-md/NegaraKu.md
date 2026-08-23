@@ -126,11 +126,9 @@ Full walkthrough: <https://negaraku.md/contributor-guide>
 
 ### 3.3 Share an article
 
-On any article, use the **Share** button under the title:
-- **Copy link** — the article URL.
-- **Copy Markdown for AI** — copies the raw `.md` to paste into any AI tool.
-- **WhatsApp / X** — share to social.
-- **Share…** — the native share sheet (on mobile).
+Copy the article’s URL from your browser to share it. Append `.md` to any article
+URL (or use the **Raw Markdown** link in the article’s side box) to get the raw
+Markdown for pasting into an AI tool.
 
 ### 3.4 Read, cite, and use with AI
 
