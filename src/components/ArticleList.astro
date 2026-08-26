@@ -194,10 +194,11 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
     <div class="tb-line">
       <span class="tb-label">{L('Papar', 'Display', '显示')}</span>
       <div class="tabs">
-        <button class="tgl" type="button" data-row="path">{L('Laluan', 'Path', '路径')}</button>
-        <button class="tgl" type="button" data-row="details">{L('Butiran', 'Details', '详情')}</button>
-        <button class="tgl" type="button" data-row="custody">{L('Status', 'Status', '状态')}</button>
-        <button class="tgl" type="button" data-row="visitors">{L('Pelawat', 'Visitors', '访客')}</button>
+        <span class="tgl-hint">{L('Papar lebih pada setiap kad:', 'Show more on each card:', '在每张卡片显示更多：')}</span>
+        <button class="tgl" type="button" data-row="path" title={L('Seksyen › kategori › topik', 'Section › category › topic', '版块 › 分类 › 主题')}>{L('Laluan', 'Path', '路径')}</button>
+        <button class="tgl" type="button" data-row="details" title={L('Status, bahasa, sumber, pautan, masa baca', 'Status, languages, sources, links, reading time', '状态、语言、来源、关联、阅读时间')}>{L('Butiran', 'Details', '详情')}</button>
+        <button class="tgl" type="button" data-row="custody" title={L('Rantaian jagaan (draf → disemak → diterbitkan)', 'Chain of custody (drafted → reviewed → published)', '保管链（起草 → 审阅 → 发布）')}>{L('Status', 'Status', '状态')}</button>
+        <button class="tgl" type="button" data-row="visitors" title={L('Lawatan pembaca / enjin carian / AI', 'Reader / search / AI visits', '读者／搜索引擎／AI 访问')}>{L('Pelawat', 'Visitors', '访客')}</button>
         <span class="tgl-sep" aria-hidden="true"></span>
         <button class="tgl-all" type="button" data-rows="on">{L('Semua buka', 'All on', '全部开')}</button>
         <button class="tgl-all" type="button" data-rows="off">{L('Semua tutup', 'All off', '全部关')}</button>
@@ -397,19 +398,18 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
     return `<span class="areads">👁 ${Number(n).toLocaleString()} ${I18N.vReaders}</span>`;
   }
 
-  // Compact one-line summary shown when every display row is OFF, so a collapsed
-  // card still carries the essentials: master language · contributor · published
-  // date · next review.
+  // Compact summary shown when every display row is OFF — browse-first: where the
+  // article lives (section › category › topic), how long it is, how fresh, and a
+  // sensitivity flag when relevant. Admin metadata (status, custody, master lang,
+  // visitors) lives in the opt-in rows.
   function compactHtml(r) {
-    // published triple (index 2) if reached, else any reached step with an actor.
-    let pub = r.custody && r.custody[2] && r.custody[2][2] ? r.custody[2] : null;
-    if (!pub) pub = (r.custody || []).find((c) => c[2] && c[0]) || null;
-    const bits = [`<span class="chip${r.sens ? ' sens' : ''}">${I18N.classification}: ${r.sens ? '🔒 ' : ''}${esc(r.cls)}</span>`];
-    bits.push(`<span class="chip">${I18N.master}: ${r.ml}</span>`);
-    if (pub && pub[0]) bits.push(`<span class="chip">${I18N.contributor}: ${esc(pub[0])}</span>`);
-    if (pub && pub[1]) bits.push(`<span class="chip dim">${I18N.stagePublished}: ${pub[1]}</span>`);
-    if (r.rev) bits.push(`<span class="chip ${r.revOverdue ? 'overdue' : 'dim'}"${r.revOverdue ? ` title="${I18N.overdue}"` : ''}>${r.revOverdue ? '⚠ ' : ''}${I18N.nextReview}: ${r.rev}</span>`);
-    return `<div class="meta-row compact"><div class="achips">${bits.join('')}</div></div>`;
+    const seg = (v) => `<span>${esc(v)}</span>`;
+    const path = `<span class="cpath">${seg(r.sec)}<span class="sep">›</span>${seg(r.cat)}` +
+      (r.top && r.top !== '—' ? `<span class="sep">›</span>${seg(r.top)}` : '') + `</span>`;
+    const chips = [`<span class="chip">${r.min} ${I18N.min}</span>`];
+    if (r.upd) chips.push(`<span class="chip dim">${I18N.updated}: ${r.upd}</span>`);
+    if (r.sens) chips.push(`<span class="chip sens">🔒 ${esc(r.cls)}</span>`);
+    return `<div class="meta-row compact"><div class="cbrowse">${path}<span class="cchips">${chips.join('')}</span></div></div>`;
   }
 
   function render() {
@@ -621,6 +621,8 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
     text-underline-offset: 3px; text-decoration-color: color-mix(in srgb, var(--muted) 50%, transparent);
   }
   .tgl-all:hover { color: var(--gold); text-decoration-color: var(--gold); }
+  /* Hint that the Display toggles expand each card. */
+  .tgl-hint { font-size: 0.75rem; color: var(--muted); align-self: center; margin-right: 0.1rem; }
   .controls select, .tb-line input[type='search'] {
     font: inherit; font-size: 0.85rem; padding: 0.45rem 0.7rem; border-radius: 8px;
     border: 1px solid var(--line); background: var(--surface); color: var(--ink);
@@ -681,6 +683,12 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
   .acards :global(.chip.sens) { color: #f87171; border-color: rgba(248,113,113,.45); font-weight: 700; }
   .acards :global(.chip.sens) { color: #f87171; border-color: rgba(248,113,113,.4); background: rgba(248,113,113,.1); font-weight: 700; }
   .acards :global(.empty) { text-align: center; color: var(--muted); padding: 2.5rem; border: 1px dashed var(--line); border-radius: 12px; }
+  /* Browse-first collapsed card: breadcrumb path + reading time + freshness. */
+  .acards :global(.compact .cbrowse) { display: flex; flex-wrap: wrap; align-items: center; gap: 0.4rem 0.9rem; }
+  .acards :global(.cpath) { font-size: 0.8rem; color: var(--muted); }
+  .acards :global(.cpath > span:not(.sep)) { color: var(--ink-soft); }
+  .acards :global(.cpath .sep) { margin: 0 0.45rem; color: var(--muted); opacity: 0.55; font-size: 0.9rem; }
+  .acards :global(.cbrowse .cchips) { display: inline-flex; flex-wrap: wrap; gap: 0.45rem; }
   .acards :global(.st) { font-size: 0.72rem; font-weight: 800; border-radius: 999px; padding: 0.16rem 0.6rem; border: 1px solid var(--line); }
   .acards :global(.st.ok) { color: #4ade80; border-color: rgba(74,222,128,.35); background: rgba(74,222,128,.12); }
   .acards :global(.st.warn) { color: #fbbf24; border-color: rgba(251,191,36,.35); background: rgba(251,191,36,.12); }
