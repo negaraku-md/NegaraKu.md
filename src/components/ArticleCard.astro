@@ -1,7 +1,8 @@
 ---
 import { type Article, readingTime } from '@/lib/content';
 import type { Locale } from '@/lib/categories';
-import { getCategory, getCategoryColor } from '@/lib/categories';
+import { getCategory, getCategoryColor, getPillar, getPillarDef } from '@/lib/categories';
+import { subcatLabel } from '@/lib/subcategories';
 import { localePath, t } from '@/lib/i18n';
 
 interface Props {
@@ -15,6 +16,12 @@ const { category, slug, title, summary, status, hero } = article.data;
 const cat = getCategory(category);
 const href = localePath(`/${category}/${slug}`, locale);
 const color = getCategoryColor(category);
+// Browse-first breadcrumb — section › category › topic — mirrors the collapsed
+// card in ArticleList so a teaser tells you where the article lives at a glance.
+const pillar = getPillar(category);
+const secLabel = pillar ? getPillarDef(pillar)?.name[locale] : null;
+const topic = article.data.subcategory?.[0];
+const topLabel = topic ? subcatLabel(topic, locale) : null;
 // No per-article photos exist, but every article has an auto-generated OG card
 // (scripts/build-og.mjs) — reuse it as the thumbnail. Falls back to the category
 // glyph if the PNG is missing (e.g. a brand-new article on the dev server, where
@@ -41,7 +48,21 @@ const minLabel = locale === 'zh' ? '分钟' : 'min';
   </div>
   <div class="cbody">
     <div class="top">
-      <span class="cat">{cat?.icon} {cat?.name[locale]}</span>
+      <span class="cpath">
+        {secLabel && (
+          <>
+            <span class="sec">{secLabel}</span>
+            <span class="sep" aria-hidden="true">›</span>
+          </>
+        )}
+        <span class="cat">{cat?.icon} {cat?.name[locale]}</span>
+        {topLabel && (
+          <>
+            <span class="sep" aria-hidden="true">›</span>
+            <span class="top-seg">{topLabel}</span>
+          </>
+        )}
+      </span>
       {status !== 'draft' && <span class="badge" data-status={status}>{t(`status.${status}`, locale)}</span>}
     </div>
     <h3>{title}</h3>
@@ -104,15 +125,29 @@ const minLabel = locale === 'zh' ? '分钟' : 'min';
   }
   .top {
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     justify-content: space-between;
     gap: 0.5rem;
   }
-  .cat {
+  /* section › category › topic breadcrumb — matches ArticleList's browse-first
+     card. Wraps within its share of the row; the status badge never shrinks. */
+  .cpath {
+    display: inline-flex;
+    flex-wrap: wrap;
+    align-items: center;
+    min-width: 0;
     font-size: 0.75rem;
     color: var(--muted);
-    font-weight: 600;
+    line-height: 1.4;
   }
+  .cpath .sep { margin: 0 0.35rem; opacity: 0.55; }
+  .cpath .sec { color: var(--muted); }
+  .cat {
+    font-weight: 600;
+    color: var(--ink-soft);
+  }
+  .cpath .top-seg { color: var(--muted); }
+  .top .badge { flex-shrink: 0; }
   .article-card h3 {
     margin: 0.1rem 0 0.1rem;
     font-size: 1.1rem;
