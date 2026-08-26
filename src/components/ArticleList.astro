@@ -1,7 +1,7 @@
 ---
 import type { Locale } from '@/lib/categories';
 import type { Article } from '@/lib/content';
-import { getCategory, getPillar, getPillarDef, PILLARS } from '@/lib/categories';
+import { getCategory, getPillar, PILLARS } from '@/lib/categories';
 import { allArticles, effectiveStatus, readingTime } from '@/lib/content';
 import { subcatLabel } from '@/lib/subcategories';
 import { t } from '@/lib/i18n';
@@ -106,11 +106,8 @@ const rows = articles.map((a, i) => {
     t: d.title,
     // `h` (the localized href) is derived client-side from `p` — saves ~40 KB.
     p: `/${d.category}/${d.slug}`,
-    sec: pillar ? getPillarDef(pillar)?.name[locale] ?? pillar : '—',
     secId: pillar ?? '',
-    cat: getCategory(d.category)?.name[locale] ?? d.category,
     catId: d.category,
-    top: topic ? subcatLabel(topic, locale) : '—',
     topId: topic ?? '',
     ml: (d.masterLanguage ?? d.lang ?? 'ms').toUpperCase(),
     st,
@@ -130,10 +127,25 @@ const rows = articles.map((a, i) => {
   };
 });
 
+// Label dictionaries emitted once (rows carry only ids). The section / category /
+// topic names repeat across ~1,000 rows; hoisting them into id→label maps and
+// resolving client-side trims tens of KB from the inline JSON.
+const secById: Record<string, string> = Object.fromEntries(PILLARS.map((p) => [p.id, p.name[locale]]));
+const catById: Record<string, string> = {};
+const topById: Record<string, string> = {};
+for (const a of articles) {
+  const c = a.data.category;
+  if (!(c in catById)) catById[c] = getCategory(c)?.name[locale] ?? c;
+  const tp = a.data.subcategory?.[0];
+  if (tp && !(tp in topById)) topById[tp] = subcatLabel(tp, locale);
+}
+
 const secs = PILLARS.filter((p) => rows.some((r) => r.secId === p.id)).map((p) => [p.id, p.name[locale]]);
-const cats = [...new Map(rows.map((r) => [r.catId, r.cat])).entries()].sort((a, b) => (a[1] < b[1] ? -1 : 1));
-const tops = [...new Map(rows.filter((r) => r.topId).map((r) => [r.topId, r.top])).entries()].sort((a, b) =>
+const cats = [...new Map(rows.map((r) => [r.catId, catById[r.catId] ?? r.catId])).entries()].sort((a, b) =>
   a[1] < b[1] ? -1 : 1,
+);
+const tops = [...new Map(rows.filter((r) => r.topId).map((r) => [r.topId, topById[r.topId] ?? r.topId])).entries()].sort(
+  (a, b) => (a[1] < b[1] ? -1 : 1),
 );
 const LIFECYCLE = ['draft', 'in-review', 'reviewed', 'published', 'needs-update', 'in-update', 'archived'];
 const statusCounts: Record<string, number> = {};
@@ -143,6 +155,10 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
 
 <section class="container block art-list">
   <div class="art-toolbar" data-pagefind-ignore>
+    <button class="tb-more" type="button" data-tb-toggle aria-expanded="false">
+      {L('Tapis & isih', 'Filters & sort', '筛选与排序')} <span class="tbm-caret" aria-hidden="true">▾</span>
+    </button>
+    <div class="tb-adv">
     {
       (secs.length > 1 || cats.length > 1 || tops.length > 1 || presentStatuses.length > 1) && (
         <div class="tb-line">
@@ -204,7 +220,8 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
         <button class="tgl-all" type="button" data-rows="off">{L('Semua tutup', 'All off', '全部关')}</button>
       </div>
     </div>
-    <div class="tb-line">
+    </div>
+    <div class="tb-line search-line">
       <span class="tb-label">{L('Cari', 'Search', '搜索')}</span>
       <input id="f-q" type="search" placeholder={L('Cari tajuk…', 'Search titles…', '搜索标题…')} />
     </div>
@@ -295,11 +312,18 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
   })}
 ></script>
 <script type="application/json" id="articles-config" set:html={JSON.stringify({ groupByDate, dateLocale, fixedOrder, showRank })}></script>
+<script type="application/json" id="articles-dict" set:html={JSON.stringify({ sec: secById, cat: catById, top: topById })}></script>
 
 <script>
   const rows = JSON.parse(document.getElementById('articles-data')?.textContent || '[]');
   const I18N = JSON.parse(document.getElementById('articles-i18n')?.textContent || '{}');
   const CFG = JSON.parse(document.getElementById('articles-config')?.textContent || '{}');
+  // Label dictionaries (rows carry only ids to keep the inline JSON small).
+  const DICT = JSON.parse(document.getElementById('articles-dict')?.textContent || '{}');
+  const SEC = DICT.sec || {}, CAT = DICT.cat || {}, TOP = DICT.top || {};
+  const secLbl = (r) => SEC[r.secId] || '—';
+  const catLbl = (r) => CAT[r.catId] || r.catId || '—';
+  const topLbl = (r) => (r.topId ? (TOP[r.topId] || r.topId) : '—');
   const $ = (id) => document.getElementById(id);
   const on = (id, ev, fn) => { const el = $(id); if (el) el.addEventListener(ev, fn); };
   const $$ = (cls) => Array.from(document.querySelectorAll('.' + cls));
@@ -404,8 +428,8 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
   // visitors) lives in the opt-in rows.
   function compactHtml(r) {
     const seg = (v) => `<span>${esc(v)}</span>`;
-    const path = `<span class="cpath">${seg(r.sec)}<span class="sep">›</span>${seg(r.cat)}` +
-      (r.top && r.top !== '—' ? `<span class="sep">›</span>${seg(r.top)}` : '') + `</span>`;
+    const path = `<span class="cpath">${seg(secLbl(r))}<span class="sep">›</span>${seg(catLbl(r))}` +
+      (r.topId ? `<span class="sep">›</span>${seg(topLbl(r))}` : '') + `</span>`;
     const chips = [`<span class="chip">${r.min} ${I18N.min}</span>`];
     if (r.upd) chips.push(`<span class="chip dim">${I18N.updated}: ${r.upd}</span>`);
     if (r.sens) chips.push(`<span class="chip sens">🔒 ${esc(r.cls)}</span>`);
@@ -434,7 +458,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
             ${!showRow('path') ? '' : `
             <div class="meta-row">
               <span class="hlabel">${I18N.pathLabel}</span>
-              <p class="apath"><span>${r.sec}</span><span class="sep">›</span><span>${r.cat}</span><span class="sep">›</span><span>${r.top}</span></p>
+              <p class="apath"><span>${secLbl(r)}</span><span class="sep">›</span><span>${catLbl(r)}</span><span class="sep">›</span><span>${topLbl(r)}</span></p>
             </div>`}
             ${!showRow('details') ? '' : `
             <div class="meta-row">
@@ -497,11 +521,11 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
   const PH_CAT = F_CAT ? F_CAT.options[0].textContent : '';
   const PH_TOP = F_TOP ? F_TOP.options[0].textContent : '';
 
-  function uniqueBy(pred, idKey, labelKey) {
+  function uniqueBy(pred, idKey, labelFn) {
     const seen = new Map();
     for (const r of rows) {
       if (!pred(r)) continue;
-      if (r[idKey] && !seen.has(r[idKey])) seen.set(r[idKey], r[labelKey]);
+      if (r[idKey] && !seen.has(r[idKey])) seen.set(r[idKey], labelFn(r));
     }
     return [...seen.entries()].sort((a, b) => (String(a[1]).toLowerCase() < String(b[1]).toLowerCase() ? -1 : 1));
   }
@@ -516,9 +540,9 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
   }
 
   function syncFilters() {
-    const cats = uniqueBy((r) => !state.sec || r.secId === state.sec, 'catId', 'cat');
+    const cats = uniqueBy((r) => !state.sec || r.secId === state.sec, 'catId', catLbl);
     state.cat = fillSelect(F_CAT, cats, PH_CAT, state.cat);
-    const tops = uniqueBy((r) => (!state.sec || r.secId === state.sec) && (!state.cat || r.catId === state.cat), 'topId', 'top');
+    const tops = uniqueBy((r) => (!state.sec || r.secId === state.sec) && (!state.cat || r.catId === state.cat), 'topId', topLbl);
     state.top = fillSelect(F_TOP, tops, PH_TOP, state.top);
   }
 
@@ -551,6 +575,16 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
     });
   });
   syncRowToggles();
+
+  // Mobile: collapse the advanced controls behind the "Filters & sort" toggle.
+  const tbMore = document.querySelector('[data-tb-toggle]');
+  const tbAdv = document.querySelector('.tb-adv');
+  if (tbMore && tbAdv) {
+    tbMore.addEventListener('click', () => {
+      const open = tbAdv.classList.toggle('open');
+      tbMore.setAttribute('aria-expanded', open ? 'true' : 'false');
+    });
+  }
 
   on('f-q', 'input', (e) => { state.q = e.target.value.trim().toLowerCase(); state.page = 1; render(); });
   on('f-sec', 'change', (e) => { state.sec = e.target.value; state.page = 1; syncFilters(); render(); });
@@ -587,6 +621,23 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
   .art-toolbar {
     display: flex; flex-direction: column; gap: 1.1rem;
     margin-bottom: 1.6rem; padding-bottom: 1.3rem; border-bottom: 1px solid var(--line);
+  }
+  /* Advanced controls (Filter/Sort/Display) show inline on desktop; on phones they
+     collapse behind a "Filters & sort" toggle so only Search stays visible. */
+  .tb-more { display: none; }
+  .tb-adv { display: flex; flex-direction: column; gap: 1.1rem; }
+  @media (max-width: 760px) {
+    .tb-more {
+      display: inline-flex; align-items: center; gap: 0.4rem; align-self: flex-start;
+      font: inherit; font-size: 0.82rem; font-weight: 600;
+      padding: 0.5rem 0.95rem; border-radius: 999px;
+      border: 1px solid color-mix(in srgb, var(--gold) 55%, var(--line));
+      background: var(--surface); color: var(--ink); cursor: pointer;
+    }
+    .tb-more .tbm-caret { font-size: 0.7em; opacity: 0.7; transition: transform 0.15s; }
+    .tb-more[aria-expanded='true'] .tbm-caret { transform: rotate(180deg); }
+    .tb-adv { display: none; }
+    .tb-adv.open { display: flex; }
   }
   .tb-line { display: flex; align-items: center; gap: 1rem; flex-wrap: wrap; }
   .tb-label {
