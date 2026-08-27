@@ -24,7 +24,8 @@
 //   COOKIE_NAME           (var)    session cookie name (default nk_session)
 
 const SCOPE = 'read:org';
-const SESSION_TTL = 8 * 60 * 60; // 8 hours
+const SESSION_TTL = 30 * 24 * 60 * 60; // 30 days — contributor stays signed in across
+// visits without re-auth; org membership is re-checked on the next sign-in after this.
 const STATE_TTL = 10 * 60; // 10 minutes
 const GH_API = 'https://api.github.com';
 const UA = 'NegaraKu.md-auth';
