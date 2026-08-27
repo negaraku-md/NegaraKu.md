@@ -34,10 +34,11 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 published: null
+reviewed: 2026-08-27
 reviewDue: null
 revision: null
 revisions:

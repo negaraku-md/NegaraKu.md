@@ -35,10 +35,11 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "60045df88eb348ab"
 
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 published: null
+reviewed: 2026-08-27
 reviewDue: null
 revision: null
 revisions:
