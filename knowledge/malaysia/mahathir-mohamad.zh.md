@@ -3,7 +3,7 @@ topicId: MY-HIS-0201
 title: "马哈迪·莫哈末"
 slug: "mahathir-mohamad"
 category: "malaysia"
-subcategory: []
+subcategory: ["modern"]
 summary: "马来西亚在任最久的首相——第四任（1981–2003）与第七任（2018–2020）——现代国家中一位举足轻重、亦具争议的人物。"
 
 tier: "2"
@@ -33,15 +33,21 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b270fe17fb92d6e7"
+sourceContentHash: "2b8cc04016656090"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
-published: null
-reviewDue: null
-revision: null
+reviewer: "ashton-tan"
+published: 2026-08-27
+reviewed: 2026-08-27
+reviewDue: 2027-08-27
+revision: 1
 revisions:
+  - revision: 1
+    date: 2026-08-27
+    change: "经编辑审定后审阅并发布。"
+    contributor: "NegaraKu.md Editorial"
+    reviewer: "ashton-tan"
   - revision: 0
     date: 2026-08-19
     change: "初始中立草稿——等待人工／法律审阅（敏感）。"
@@ -65,9 +71,6 @@ sources:
 related: ["wawasan-2020", "ops-lalang-1987", "1998-reformasi", "new-economic-policy", "2018-change-of-government"]
 keywords: ["马哈迪·莫哈末", "敦马哈迪", "马来西亚第四任首相", "2020宏愿", "Wawasan 2020"]
 ---
-
-> **草稿——敏感。** 本文为中立、仍在撰写中的摘要，尚未经审阅以供发布。它触及
-> 3R+1 主题，并非公开内容。
 
 马哈迪·莫哈末（1925 年 7 月 10 日出生）是马来西亚在任最久的首相，也是现代国家
 最具代表性的人物之一。他受训为医生，通过巫统步入政坛，崛起并领导国家成为其

@@ -3,7 +3,7 @@ topicId: MY-HIS-0203
 title: "Skandal 1MDB"
 slug: "1mdb-scandal"
 category: "malaysia"
-subcategory: []
+subcategory: ["modern"]
 summary: "Hal ehwal 1Malaysia Development Berhad — sebuah dana pelaburan negara yang menjadi tumpuan salah satu skandal kewangan terbesar dunia, dan kes-kes jenayah yang menyusul."
 
 tier: "2"
@@ -33,15 +33,21 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "934022f10c28b5e0"
+sourceContentHash: "e0df5551dba55014"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
-published: null
-reviewDue: null
-revision: null
+reviewer: "ashton-tan"
+published: 2026-08-27
+reviewed: 2026-08-27
+reviewDue: 2027-08-27
+revision: 1
 revisions:
+  - revision: 1
+    date: 2026-08-27
+    change: "Disemak dan diterbitkan selepas kelulusan editorial."
+    contributor: "NegaraKu.md Editorial"
+    reviewer: "ashton-tan"
   - revision: 0
     date: 2026-08-19
     change: "Draf neutral awal — menunggu semakan manusia/undang-undang (sensitif, prosiding berterusan)."
@@ -74,10 +80,6 @@ sources:
 related: ["2018-change-of-government", "barisan-nasional", "prime-ministers-of-malaysia"]
 keywords: ["1MDB", "1Malaysia Development Berhad", "Najib Razak", "Jho Low", "skandal kewangan Malaysia"]
 ---
-
-> **Draf — sensitif.** Artikel ini ialah ringkasan neutral yang masih dalam
-> penyediaan tentang prosiding undang-undang yang berterusan dan belum disemak
-> untuk penerbitan. Ia tidak bersifat awam.
 
 **1Malaysia Development Berhad (1MDB)** ialah sebuah dana pelaburan milik kerajaan
 Malaysia yang diasaskan pada 2009, ketika keperdanaan Najib Razak, untuk memacu

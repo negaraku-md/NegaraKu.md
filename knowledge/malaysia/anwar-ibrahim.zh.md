@@ -3,7 +3,7 @@ topicId: MY-HIS-0202
 title: "安华·依布拉欣"
 slug: "anwar-ibrahim"
 category: "malaysia"
-subcategory: []
+subcategory: ["modern"]
 summary: "马来西亚第十任首相——一位前副首相，其遭罢黜、入狱与烈火莫熄运动，在 2022 年历经数十年后重返执政之前发生。"
 
 tier: "2"
@@ -33,15 +33,21 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "73becdc7cd705ba9"
+sourceContentHash: "ff741a6378247554"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
-published: null
-reviewDue: null
-revision: null
+reviewer: "ashton-tan"
+published: 2026-08-27
+reviewed: 2026-08-27
+reviewDue: 2027-08-27
+revision: 1
 revisions:
+  - revision: 1
+    date: 2026-08-27
+    change: "经编辑审定后审阅并发布。"
+    contributor: "NegaraKu.md Editorial"
+    reviewer: "ashton-tan"
   - revision: 0
     date: 2026-08-19
     change: "初始中立草稿——等待人工／法律审阅（敏感）。"
@@ -65,9 +71,6 @@ sources:
 related: ["1998-reformasi", "2018-change-of-government", "prime-ministers-of-malaysia", "mahathir-mohamad"]
 keywords: ["安华·依布拉欣", "马来西亚第十任首相", "烈火莫熄", "MADANI政府", "希望联盟"]
 ---
-
-> **草稿——敏感。** 本文为中立、仍在撰写中的摘要，尚未经审阅以供发布。它触及
-> 法律程序与 3R+1 主题，并非公开内容。
 
 安华·依布拉欣（1947 年 8 月 10 日出生）是马来西亚**第十任首相**，自 2022 年
 11 月 24 日起任职。他通往此职位的历程横跨二十余年的政治冲突、入狱与反对派领导，

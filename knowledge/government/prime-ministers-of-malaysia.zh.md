@@ -3,7 +3,7 @@ topicId: MY-GOV-0100
 title: "马来西亚历任首相"
 slug: "prime-ministers-of-malaysia"
 category: "government"
-subcategory: []
+subcategory: ["institutions"]
 summary: "马来西亚自 1957 年以来的十任首相任期——谁担任、何时担任、属于哪个联盟。"
 
 tier: "4"
@@ -35,13 +35,19 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "c7c84ed13dc19c21"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
-published: null
-reviewDue: null
-revision: null
+reviewer: "ashton-tan"
+published: 2026-08-27
+reviewed: 2026-08-27
+reviewDue: 2027-08-27
+revision: 1
 revisions:
+  - revision: 1
+    date: 2026-08-27
+    change: "经编辑审定后审阅并发布。"
+    contributor: "NegaraKu.md Editorial"
+    reviewer: "ashton-tan"
   - revision: 0
     date: 2026-08-19
     change: "初稿——马来西亚十任首相任期的参考列表。"

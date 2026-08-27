@@ -3,7 +3,7 @@ topicId: MY-HIS-0202
 title: "Anwar Ibrahim"
 slug: "anwar-ibrahim"
 category: "malaysia"
-subcategory: []
+subcategory: ["modern"]
 summary: "Perdana Menteri Malaysia ke-10 — bekas timbalan perdana menteri yang pemecatan, pemenjaraan dan gerakan Reformasi-nya mendahului kepulangan berkuasa selepas berdekad-dekad pada 2022."
 
 tier: "2"
@@ -33,15 +33,21 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "73becdc7cd705ba9"
+sourceContentHash: "ff741a6378247554"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
-published: null
-reviewDue: null
-revision: null
+reviewer: "ashton-tan"
+published: 2026-08-27
+reviewed: 2026-08-27
+reviewDue: 2027-08-27
+revision: 1
 revisions:
+  - revision: 1
+    date: 2026-08-27
+    change: "Disemak dan diterbitkan selepas kelulusan editorial."
+    contributor: "NegaraKu.md Editorial"
+    reviewer: "ashton-tan"
   - revision: 0
     date: 2026-08-19
     change: "Draf neutral awal — menunggu semakan manusia/undang-undang (sensitif)."
@@ -65,10 +71,6 @@ sources:
 related: ["1998-reformasi", "2018-change-of-government", "prime-ministers-of-malaysia", "mahathir-mohamad"]
 keywords: ["Anwar Ibrahim", "perdana menteri kesepuluh Malaysia", "Reformasi", "kerajaan MADANI", "Pakatan Harapan"]
 ---
-
-> **Draf — sensitif.** Artikel ini ialah ringkasan neutral yang masih dalam
-> penyediaan dan belum disemak untuk penerbitan. Ia menyentuh prosiding
-> undang-undang dan tema 3R+1 serta tidak bersifat awam.
 
 Anwar Ibrahim (lahir 10 Ogos 1947) ialah **Perdana Menteri Malaysia yang
 kesepuluh**, memegang jawatan sejak 24 November 2022. Perjalanannya ke jawatan itu

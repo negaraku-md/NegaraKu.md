@@ -3,7 +3,7 @@ topicId: MY-GOV-0100
 title: "Prime Ministers of Malaysia"
 slug: "prime-ministers-of-malaysia"
 category: "government"
-subcategory: []
+subcategory: ["institutions"]
 summary: "The ten premierships of Malaysia since 1957 — who held the office, when, and under which coalition."
 
 tier: "4"
@@ -34,13 +34,19 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
-published: null
-reviewDue: null
-revision: null
+reviewer: "ashton-tan"
+published: 2026-08-27
+reviewed: 2026-08-27
+reviewDue: 2027-08-27
+revision: 1
 revisions:
+  - revision: 1
+    date: 2026-08-27
+    change: "Reviewed and published following editorial sign-off."
+    contributor: "NegaraKu.md Editorial"
+    reviewer: "ashton-tan"
   - revision: 0
     date: 2026-08-19
     change: "Initial draft — reference list of Malaysia's ten premierships."

@@ -3,7 +3,7 @@ topicId: MY-HIS-0203
 title: "1MDB 丑闻"
 slug: "1mdb-scandal"
 category: "malaysia"
-subcategory: []
+subcategory: ["modern"]
 summary: "一个马来西亚发展有限公司（1MDB）事件——一只处于全球最大金融丑闻之一中心的国家投资基金，以及随之而来的刑事案件。"
 
 tier: "2"
@@ -33,15 +33,21 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "934022f10c28b5e0"
+sourceContentHash: "e0df5551dba55014"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
-published: null
-reviewDue: null
-revision: null
+reviewer: "ashton-tan"
+published: 2026-08-27
+reviewed: 2026-08-27
+reviewDue: 2027-08-27
+revision: 1
 revisions:
+  - revision: 1
+    date: 2026-08-27
+    change: "经编辑审定后审阅并发布。"
+    contributor: "NegaraKu.md Editorial"
+    reviewer: "ashton-tan"
   - revision: 0
     date: 2026-08-19
     change: "初始中立草稿——等待人工／法律审阅（敏感，程序进行中）。"
@@ -74,9 +80,6 @@ sources:
 related: ["2018-change-of-government", "barisan-nasional", "prime-ministers-of-malaysia"]
 keywords: ["1MDB", "一个马来西亚发展有限公司", "纳吉·拉萨", "刘特佐", "马来西亚金融丑闻"]
 ---
-
-> **草稿——敏感。** 本文为中立、仍在撰写中的摘要，涉及进行中的法律程序，尚未
-> 经审阅以供发布。它并非公开内容。
 
 **一个马来西亚发展有限公司（1MDB）**是一只马来西亚政府拥有的投资基金，于 2009
 年在纳吉·拉萨任首相期间成立，以推动战略性经济发展。它成为全球最大金融丑闻之一

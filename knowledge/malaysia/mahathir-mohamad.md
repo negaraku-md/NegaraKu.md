@@ -3,7 +3,7 @@ topicId: MY-HIS-0201
 title: "Mahathir Mohamad"
 slug: "mahathir-mohamad"
 category: "malaysia"
-subcategory: []
+subcategory: ["modern"]
 summary: "Malaysia's longest-serving Prime Minister — the 4th (1981–2003) and 7th (2018–2020) — and a defining, and contested, figure of the modern nation."
 
 tier: "2"
@@ -34,13 +34,19 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
-published: null
-reviewDue: null
-revision: null
+reviewer: "ashton-tan"
+published: 2026-08-27
+reviewed: 2026-08-27
+reviewDue: 2027-08-27
+revision: 1
 revisions:
+  - revision: 1
+    date: 2026-08-27
+    change: "Reviewed and published following editorial sign-off."
+    contributor: "NegaraKu.md Editorial"
+    reviewer: "ashton-tan"
   - revision: 0
     date: 2026-08-19
     change: "Initial neutral draft — pending human/legal review (sensitive)."
@@ -64,9 +70,6 @@ sources:
 related: ["wawasan-2020", "ops-lalang-1987", "1998-reformasi", "new-economic-policy", "2018-change-of-government"]
 keywords: ["Mahathir Mohamad", "Tun Mahathir", "fourth prime minister Malaysia", "Vision 2020", "Wawasan 2020"]
 ---
-
-> **Draft — sensitive.** This article is a neutral, work-in-progress summary and
-> has not been reviewed for publication. It touches 3R+1 themes and is not public.
 
 Mahathir Mohamad (born 10 July 1925) is Malaysia's longest-serving Prime
 Minister and one of the defining figures of the modern nation. Trained as a

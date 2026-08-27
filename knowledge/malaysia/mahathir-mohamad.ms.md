@@ -3,7 +3,7 @@ topicId: MY-HIS-0201
 title: "Mahathir Mohamad"
 slug: "mahathir-mohamad"
 category: "malaysia"
-subcategory: []
+subcategory: ["modern"]
 summary: "Perdana Menteri Malaysia paling lama berkhidmat — yang ke-4 (1981–2003) dan ke-7 (2018–2020) — dan tokoh yang menentukan, serta diperdebatkan, dalam negara moden."
 
 tier: "2"
@@ -33,15 +33,21 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b270fe17fb92d6e7"
+sourceContentHash: "2b8cc04016656090"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
-published: null
-reviewDue: null
-revision: null
+reviewer: "ashton-tan"
+published: 2026-08-27
+reviewed: 2026-08-27
+reviewDue: 2027-08-27
+revision: 1
 revisions:
+  - revision: 1
+    date: 2026-08-27
+    change: "Disemak dan diterbitkan selepas kelulusan editorial."
+    contributor: "NegaraKu.md Editorial"
+    reviewer: "ashton-tan"
   - revision: 0
     date: 2026-08-19
     change: "Draf neutral awal — menunggu semakan manusia/undang-undang (sensitif)."
@@ -65,10 +71,6 @@ sources:
 related: ["wawasan-2020", "ops-lalang-1987", "1998-reformasi", "new-economic-policy", "2018-change-of-government"]
 keywords: ["Mahathir Mohamad", "Tun Mahathir", "perdana menteri keempat Malaysia", "Wawasan 2020", "Vision 2020"]
 ---
-
-> **Draf — sensitif.** Artikel ini ialah ringkasan neutral yang masih dalam
-> penyediaan dan belum disemak untuk penerbitan. Ia menyentuh tema 3R+1 dan tidak
-> bersifat awam.
 
 Mahathir Mohamad (lahir 10 Julai 1925) ialah Perdana Menteri Malaysia yang paling
 lama berkhidmat dan salah satu tokoh yang menentukan negara moden. Dilatih sebagai

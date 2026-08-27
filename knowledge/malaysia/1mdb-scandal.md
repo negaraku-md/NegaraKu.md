@@ -3,7 +3,7 @@ topicId: MY-HIS-0203
 title: "The 1MDB Scandal"
 slug: "1mdb-scandal"
 category: "malaysia"
-subcategory: []
+subcategory: ["modern"]
 summary: "The 1Malaysia Development Berhad affair — a state investment fund at the centre of one of the world's largest financial scandals, and the criminal cases that followed."
 
 tier: "2"
@@ -34,13 +34,19 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
-published: null
-reviewDue: null
-revision: null
+reviewer: "ashton-tan"
+published: 2026-08-27
+reviewed: 2026-08-27
+reviewDue: 2027-08-27
+revision: 1
 revisions:
+  - revision: 1
+    date: 2026-08-27
+    change: "Reviewed and published following editorial sign-off."
+    contributor: "NegaraKu.md Editorial"
+    reviewer: "ashton-tan"
   - revision: 0
     date: 2026-08-19
     change: "Initial neutral draft — pending human/legal review (sensitive, ongoing proceedings)."
@@ -73,10 +79,6 @@ sources:
 related: ["2018-change-of-government", "barisan-nasional", "prime-ministers-of-malaysia"]
 keywords: ["1MDB", "1Malaysia Development Berhad", "Najib Razak", "Jho Low", "Malaysia financial scandal"]
 ---
-
-> **Draft — sensitive.** This article is a neutral, work-in-progress summary of
-> ongoing legal proceedings and has not been reviewed for publication. It is not
-> public.
 
 **1Malaysia Development Berhad (1MDB)** was a Malaysian government-owned
 investment fund founded in 2009, during the premiership of Najib Razak, to

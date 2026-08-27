@@ -3,7 +3,7 @@ topicId: MY-GOV-0100
 title: "Perdana Menteri Malaysia"
 slug: "prime-ministers-of-malaysia"
 category: "government"
-subcategory: []
+subcategory: ["institutions"]
 summary: "Sepuluh penggal keperdanaan Malaysia sejak 1957 — siapa memegang jawatan, bila, dan di bawah gabungan yang mana."
 
 tier: "4"
@@ -35,13 +35,19 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "c7c84ed13dc19c21"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
-published: null
-reviewDue: null
-revision: null
+reviewer: "ashton-tan"
+published: 2026-08-27
+reviewed: 2026-08-27
+reviewDue: 2027-08-27
+revision: 1
 revisions:
+  - revision: 1
+    date: 2026-08-27
+    change: "Disemak dan diterbitkan selepas kelulusan editorial."
+    contributor: "NegaraKu.md Editorial"
+    reviewer: "ashton-tan"
   - revision: 0
     date: 2026-08-19
     change: "Draf awal — senarai rujukan sepuluh penggal keperdanaan Malaysia."

@@ -3,7 +3,7 @@ topicId: MY-HIS-0202
 title: "Anwar Ibrahim"
 slug: "anwar-ibrahim"
 category: "malaysia"
-subcategory: []
+subcategory: ["modern"]
 summary: "Malaysia's 10th Prime Minister — a former deputy premier whose dismissal, imprisonment and Reformasi movement preceded a decades-long return to power in 2022."
 
 tier: "2"
@@ -34,13 +34,19 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
-published: null
-reviewDue: null
-revision: null
+reviewer: "ashton-tan"
+published: 2026-08-27
+reviewed: 2026-08-27
+reviewDue: 2027-08-27
+revision: 1
 revisions:
+  - revision: 1
+    date: 2026-08-27
+    change: "Reviewed and published following editorial sign-off."
+    contributor: "NegaraKu.md Editorial"
+    reviewer: "ashton-tan"
   - revision: 0
     date: 2026-08-19
     change: "Initial neutral draft — pending human/legal review (sensitive)."
@@ -64,10 +70,6 @@ sources:
 related: ["1998-reformasi", "2018-change-of-government", "prime-ministers-of-malaysia", "mahathir-mohamad"]
 keywords: ["Anwar Ibrahim", "tenth prime minister Malaysia", "Reformasi", "MADANI government", "Pakatan Harapan"]
 ---
-
-> **Draft — sensitive.** This article is a neutral, work-in-progress summary and
-> has not been reviewed for publication. It touches legal-proceedings and 3R+1
-> themes and is not public.
 
 Anwar Ibrahim (born 10 August 1947) is Malaysia's **tenth Prime Minister**, in
 office since 24 November 2022. His path to the office spanned more than two
