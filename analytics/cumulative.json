@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "cursor": "2026-08-26 03:39:01",
-  "updatedAt": "2026-08-26T03:44:01.745Z",
+  "cursor": "2026-08-27 13:13:44",
+  "updatedAt": "2026-08-27T13:18:44.777Z",
   "pages": {
     "states/how-state-governments-are-funded": {
-      "readers": 15,
+      "readers": 17,
       "search": {
         "total": 0,
         "byBot": {}
@@ -112,7 +112,7 @@
       }
     },
     "malaysia/timeline-of-malaysia": {
-      "readers": 12,
+      "readers": 15,
       "search": {
         "total": 0,
         "byBot": {}
@@ -1024,7 +1024,7 @@
       }
     },
     "finance/takaful-vs-conventional-insurance-malaysia": {
-      "readers": 0,
+      "readers": 2,
       "search": {
         "total": 0,
         "byBot": {}
@@ -4153,9 +4153,9 @@
         "byBot": {}
       },
       "ai": {
-        "total": 17,
+        "total": 19,
         "byBot": {
-          "Meta-ExternalAgent": 17
+          "Meta-ExternalAgent": 19
         }
       }
     },
@@ -4231,9 +4231,9 @@
         "byBot": {}
       },
       "ai": {
-        "total": 19,
+        "total": 21,
         "byBot": {
-          "Meta-ExternalAgent": 19
+          "Meta-ExternalAgent": 21
         }
       }
     },
@@ -5792,9 +5792,9 @@
         "byBot": {}
       },
       "ai": {
-        "total": 12,
+        "total": 14,
         "byBot": {
-          "Meta-ExternalAgent": 12
+          "Meta-ExternalAgent": 14
         }
       }
     },
@@ -7424,7 +7424,7 @@
       }
     },
     "finance/banking-sector-malaysia": {
-      "readers": 0,
+      "readers": 2,
       "search": {
         "total": 0,
         "byBot": {}
@@ -8920,7 +8920,7 @@
       }
     },
     "government/ministry-of-home-affairs-kdn": {
-      "readers": 0,
+      "readers": 1,
       "search": {
         "total": 0,
         "byBot": {}
@@ -8965,9 +8965,9 @@
         "byBot": {}
       },
       "ai": {
-        "total": 14,
+        "total": 16,
         "byBot": {
-          "Meta-ExternalAgent": 14
+          "Meta-ExternalAgent": 16
         }
       }
     },
@@ -9896,7 +9896,7 @@
       }
     },
     "government/social-welfare-department-jkm": {
-      "readers": 0,
+      "readers": 1,
       "search": {
         "total": 0,
         "byBot": {}
@@ -10390,7 +10390,7 @@
       }
     },
     "government/matrade": {
-      "readers": 0,
+      "readers": 1,
       "search": {
         "total": 0,
         "byBot": {}
@@ -10695,9 +10695,9 @@
         "byBot": {}
       },
       "ai": {
-        "total": 14,
+        "total": 16,
         "byBot": {
-          "Meta-ExternalAgent": 14
+          "Meta-ExternalAgent": 16
         }
       }
     },
@@ -11652,7 +11652,7 @@
       }
     },
     "economy/automotive-industry-malaysia": {
-      "readers": 0,
+      "readers": 2,
       "search": {
         "total": 0,
         "byBot": {}
@@ -12061,9 +12061,9 @@
         "byBot": {}
       },
       "ai": {
-        "total": 19,
+        "total": 21,
         "byBot": {
-          "Meta-ExternalAgent": 19
+          "Meta-ExternalAgent": 21
         }
       }
     },
@@ -13309,9 +13309,9 @@
         "byBot": {}
       },
       "ai": {
-        "total": 14,
+        "total": 16,
         "byBot": {
-          "Meta-ExternalAgent": 14
+          "Meta-ExternalAgent": 16
         }
       }
     },
@@ -13322,9 +13322,9 @@
         "byBot": {}
       },
       "ai": {
-        "total": 14,
+        "total": 16,
         "byBot": {
-          "Meta-ExternalAgent": 14
+          "Meta-ExternalAgent": 16
         }
       }
     },
@@ -13691,6 +13691,72 @@
           "Meta-ExternalAgent": 16,
           "GPTBot": 7
         }
+      }
+    },
+    "malaysia/2022-general-election": {
+      "readers": 2,
+      "search": {
+        "total": 0,
+        "byBot": {}
+      },
+      "ai": {
+        "total": 0,
+        "byBot": {}
+      }
+    },
+    "malaysia/mahathir-mohamad": {
+      "readers": 2,
+      "search": {
+        "total": 0,
+        "byBot": {}
+      },
+      "ai": {
+        "total": 0,
+        "byBot": {}
+      }
+    },
+    "malaysia/1mdb-scandal": {
+      "readers": 1,
+      "search": {
+        "total": 0,
+        "byBot": {}
+      },
+      "ai": {
+        "total": 0,
+        "byBot": {}
+      }
+    },
+    "malaysia/anwar-ibrahim": {
+      "readers": 1,
+      "search": {
+        "total": 0,
+        "byBot": {}
+      },
+      "ai": {
+        "total": 0,
+        "byBot": {}
+      }
+    },
+    "malaysia/najib-razak": {
+      "readers": 2,
+      "search": {
+        "total": 0,
+        "byBot": {}
+      },
+      "ai": {
+        "total": 0,
+        "byBot": {}
+      }
+    },
+    "government/prime-ministers-of-malaysia": {
+      "readers": 1,
+      "search": {
+        "total": 0,
+        "byBot": {}
+      },
+      "ai": {
+        "total": 0,
+        "byBot": {}
       }
     }
   }
