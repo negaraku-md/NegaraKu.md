@@ -3,7 +3,7 @@ topicId: timeline-of-malaysia
 title: "Timeline of Malaysia"
 slug: "timeline-of-malaysia"
 category: "malaysia"
-subcategory: []
+subcategory: ["history"]
 summary: "Malaysia's story on a single timeline — from the sea-kingdoms and the Melaka Sultanate to Anwar Ibrahim's unity government in 2026."
 
 tier: "2"

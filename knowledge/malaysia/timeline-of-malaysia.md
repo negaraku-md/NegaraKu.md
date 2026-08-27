@@ -3,7 +3,7 @@ topicId: timeline-of-malaysia
 title: "Garis Masa Malaysia"
 slug: "timeline-of-malaysia"
 category: "malaysia"
-subcategory: []
+subcategory: ["history"]
 summary: "Kisah Malaysia dalam satu garis masa — daripada kerajaan laut dan Kesultanan Melaka hingga kerajaan perpaduan Anwar Ibrahim pada 2026."
 
 tier: "2"

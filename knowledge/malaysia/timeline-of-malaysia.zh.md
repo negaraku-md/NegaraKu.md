@@ -3,7 +3,7 @@ topicId: timeline-of-malaysia
 title: "马来西亚历史时间线"
 slug: "timeline-of-malaysia"
 category: "malaysia"
-subcategory: []
+subcategory: ["history"]
 summary: "一页看懂马来西亚的故事——从海上王国与马六甲苏丹国到2026年安华·依布拉欣的团结政府。"
 
 tier: "2"
