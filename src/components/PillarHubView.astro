@@ -49,6 +49,6 @@ const mrKeys = mostReadKeys(inPillar, STRIP);
 
 <HubGroups locale={locale} pillar={pillar} />
 
-<ArticleStrip locale={locale} articles={inPillar} moreHref="/latest" sort="recent" limit={STRIP} exclude={mrKeys} />
+<ArticleStrip locale={locale} articles={inPillar} moreHref={`/articles?sec=${pillar}&sort=latest`} sort="recent" limit={STRIP} exclude={mrKeys} />
 
-<ArticleStrip locale={locale} articles={inPillar} moreHref="/most-read" limit={STRIP} />
+<ArticleStrip locale={locale} articles={inPillar} moreHref={`/articles?sec=${pillar}&sort=most-read`} limit={STRIP} />

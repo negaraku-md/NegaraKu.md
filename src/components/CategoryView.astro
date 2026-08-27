@@ -69,8 +69,8 @@ const mrKeys = showStrips ? mostReadKeys(articles, STRIP) : [];
 {
   showStrips && (
     <>
-      <ArticleStrip locale={locale} articles={articles} moreHref="/latest" sort="recent" limit={STRIP} exclude={mrKeys} />
-      <ArticleStrip locale={locale} articles={articles} moreHref="/most-read" limit={STRIP} />
+      <ArticleStrip locale={locale} articles={articles} moreHref={`/articles?cat=${category.id}&sort=latest`} sort="recent" limit={STRIP} exclude={mrKeys} />
+      <ArticleStrip locale={locale} articles={articles} moreHref={`/articles?cat=${category.id}&sort=most-read`} limit={STRIP} />
     </>
   )
 }

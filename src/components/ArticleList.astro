@@ -612,6 +612,32 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
     go(n);
   });
 
+  // Deep-link: pre-apply filters/sort from URL query params so a hub "See all →"
+  // can land on a pre-filtered list (e.g. /latest?cat=taxation, /most-read?sec=…).
+  if (location.search) {
+    try {
+      const sp = new URLSearchParams(location.search);
+      const setSel = (id, key, val) => {
+        if (!val) return;
+        const el = $(id);
+        if (el && [...el.options].some((o) => o.value === val)) { state[key] = val; el.value = val; }
+      };
+      setSel('f-sec', 'sec', sp.get('sec'));
+      setSel('f-cat', 'cat', sp.get('cat'));
+      setSel('f-status', 'st', sp.get('status'));
+      syncFilters(); // cascade the topic options for the chosen section/category
+      setSel('f-top', 'top', sp.get('top'));
+      const SORTS = { latest: ['upd', 'desc'], 'most-read': ['reads', 'desc'], reads: ['reads', 'desc'], az: ['t', 'asc'], sourced: ['src', 'desc'], linked: ['conn', 'desc'] };
+      const s = sp.get('sort');
+      if (s && SORTS[s]) {
+        [state.sort, state.dir] = SORTS[s];
+        document.querySelectorAll('.tab').forEach((x) => x.classList.remove('on'));
+        const btn = document.querySelector(`.tab[data-sort="${state.sort}"]`);
+        if (btn) btn.classList.add('on');
+      }
+    } catch (e) { /* malformed query — fall back to the unfiltered list */ }
+  }
+
   render();
 </script>
 

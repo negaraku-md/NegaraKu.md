@@ -47,6 +47,15 @@ const heading = sort === 'recent'
   ? L('Terkini', 'Latest', '最新')
   : L('Paling banyak dibaca', 'Most read', '最多阅读');
 const headIcon = sort === 'recent' ? '🆕' : '🔥';
+
+// "See all" href: localise the path, keep the trailing slash GitHub Pages serves,
+// and preserve any query string (e.g. /latest?cat=taxation → /en/latest/?cat=…).
+let moreUrl: string | undefined;
+if (moreHref) {
+  const [p, q] = moreHref.split('?');
+  const base = localePath(p, locale).replace(/\/$/, '') + '/';
+  moreUrl = q ? `${base}?${q}` : base;
+}
 ---
 
 {
@@ -54,8 +63,8 @@ const headIcon = sort === 'recent' ? '🆕' : '🔥';
     <section class="container block">
       <div class="mr-head">
         <h2><span class="mr-ico" aria-hidden="true">{headIcon}</span>{heading}</h2>
-        {moreHref && (
-          <a class="mr-more" href={localePath(moreHref, locale)}>
+        {moreUrl && (
+          <a class="mr-more" href={moreUrl}>
             {L('Lihat semua', 'See all', '查看全部')} →
           </a>
         )}
