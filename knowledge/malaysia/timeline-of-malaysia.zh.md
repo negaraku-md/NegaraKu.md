@@ -35,7 +35,7 @@ verificationNeeded:
   - "每个关键时刻在有文章时都链接到完整、有出处的文章；那些页面附有引用。现代政治年表（首相、全国大选、1MDB事件、2020年“喜来登行动”）是事实性的公开记录，取自首相署与选举委员会，以中立方式呈现。触及3R（种族／宗教／王权）或其他敏感主题的条目——1969年5月13日事件、茅草行动、1988年司法危机——在正式发布前需经人工审核。"
 
 lang: "zh"
-sourceContentHash: "e312589b476fc3ed"
+sourceContentHash: "279f2377f283c1fe"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -170,23 +170,23 @@ keywords: ["马来西亚历史", "马来西亚时间线", "1957默迪卡", "1963
 - **1970年** — [国家原则](/zh/malaysia/rukun-negara) — 1969年5月13日之后宣告的国家原则。
 - **1971年** — [新经济政策](/zh/malaysia/new-economic-policy) — 两个明列目标，一个二十年框架。
 - **1973–74年** — [国民阵线](/zh/malaysia/barisan-nasional) — 联盟扩展为统治四十余年的联盟。
-- **1981年7月16日** — 马哈迪·莫哈末成为第四任[首相](/zh/glossary/perdana-menteri)，开始22年的任期。
+- **1981年7月16日** — [马哈迪·莫哈末](/zh/malaysia/mahathir-mohamad)成为第四任[首相](/zh/glossary/perdana-menteri)，开始22年的任期。
 - **1983年** — [国产车与重工业](/zh/industries/automotive-industry) — 普腾（Proton）与“向东学习”的工业化推动。
 - **1987年** — [茅草行动](/zh/malaysia/ops-lalang-1987) — 依《内部安全法令》进行的大规模拘留。
 - **1991年** — [2020宏愿](/zh/malaysia/wawasan-2020) — 到2020年成为完全发达国家的目标。
-- **1997–98年** — [亚洲金融危机与烈火莫熄](/zh/malaysia/1998-reformasi) — 资本管制、安华·依布拉欣被革职，以及改革运动。
+- **1997–98年** — [亚洲金融危机与烈火莫熄](/zh/malaysia/1998-reformasi) — 资本管制、[安华·依布拉欣](/zh/malaysia/anwar-ibrahim)被革职，以及改革运动。
 - **2003年10月31日** — 马哈迪在任22年后卸任；阿都拉·巴达威成为第五任首相。
 
 ## 从烈火莫熄到团结政府
 
 此后的四分之一世纪是马来西亚最动荡的时期——一党独大缓慢瓦解、1MDB金融丑闻，随后
-自2018年起，出现独立以来首次联邦政府更替，接着八年内有五位首相。目前，它稳定在安
+自2018年起，出现独立以来首次联邦政府更替，接着八年内有[五位首相](/zh/government/prime-ministers-of-malaysia)。目前，它稳定在安
 华·依布拉欣的团结政府上。
 
 **关键时刻**
 
 - **2008年** — [第12届全国大选](/zh/law/elections-act-and-election-commission) — “政治海啸”：国民阵线首次失去三分之二多数。
-- **2009年4月3日** — 纳吉·拉萨成为第六任首相；国家基金1MDB于同年成立。
+- **2009年4月3日** — 纳吉·拉萨成为第六任首相；国家基金[1MDB](/zh/malaysia/1mdb-scandal)于同年成立。
 - **2013年** — 第13届大选中国民阵线以少数普选票保住政权；[拉哈达图入侵](/zh/malaysia/sabah-sulu-claim)考验沙巴边境。
 - **2015年** — 1MDB丑闻在国际上曝光，主导了此后数年。
 - **2018年5月9日** — [第14届大选](/zh/malaysia/2018-change-of-government) — 希望联盟赢得首次联邦政府更替；马哈迪回任第七任首相。

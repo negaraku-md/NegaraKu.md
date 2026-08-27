@@ -35,7 +35,7 @@ verificationNeeded:
   - "Each key moment links to a full, sourced article where one exists; those pages carry the citations. The modern political chronology (prime ministers, general elections, the 1MDB affair, the 2020 Sheraton Move) is factual public record, drawn from the Prime Minister's Office and Election Commission, and is presented neutrally. Entries that touch 3R (race / religion / royalty) or otherwise sensitive themes — the 13 May 1969 incident, Operation Lalang, the 1988 judiciary crisis — await human review before production."
 
 lang: "en"
-sourceContentHash: "e312589b476fc3ed"
+sourceContentHash: "279f2377f283c1fe"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -184,24 +184,24 @@ the sacking of his deputy Anwar Ibrahim, and the Reformasi street movement.
 - **1970** — [The Rukun Negara](/en/malaysia/rukun-negara) — the national principles proclaimed after 13 May 1969.
 - **1971** — [The New Economic Policy](/en/malaysia/new-economic-policy) — two stated objectives, one twenty-year framework.
 - **1973–74** — [Barisan Nasional](/en/malaysia/barisan-nasional) — the Alliance broadens into the coalition that would govern for over four decades.
-- **16 July 1981** — Mahathir Mohamad becomes the fourth [Prime Minister](/en/glossary/perdana-menteri), beginning 22 years in office.
+- **16 July 1981** — [Mahathir Mohamad](/en/malaysia/mahathir-mohamad) becomes the fourth [Prime Minister](/en/glossary/perdana-menteri), beginning 22 years in office.
 - **1983** — [The national car and heavy industry](/en/industries/automotive-industry) — Proton and the "Look East" industrial push.
 - **1987** — [Operation Lalang](/en/malaysia/ops-lalang-1987) — mass detentions under the Internal Security Act.
 - **1991** — [Vision 2020 (Wawasan 2020)](/en/malaysia/wawasan-2020) — the goal of a fully developed Malaysia by 2020.
-- **1997–98** — [The Asian financial crisis and Reformasi](/en/malaysia/1998-reformasi) — capital controls, Anwar Ibrahim's sacking, and the reform movement.
+- **1997–98** — [The Asian financial crisis and Reformasi](/en/malaysia/1998-reformasi) — capital controls, [Anwar Ibrahim](/en/malaysia/anwar-ibrahim)'s sacking, and the reform movement.
 - **31 October 2003** — Mahathir steps down after 22 years; Abdullah Ahmad Badawi becomes the fifth Prime Minister.
 
 ## Reformasi to the unity government
 
 The quarter-century since has been Malaysia's most turbulent — a slow erosion of
 one-party dominance, the 1MDB financial scandal, and then, from 2018, the first
-change of federal government since independence followed by five prime ministers
+change of federal government since independence followed by [five prime ministers](/en/government/prime-ministers-of-malaysia)
 in eight years. It settled, for now, on Anwar Ibrahim's unity government.
 
 **Key moments**
 
 - **2008** — [The 12th general election](/en/law/elections-act-and-election-commission) — the "political tsunami": Barisan Nasional loses its two-thirds majority for the first time.
-- **3 April 2009** — Najib Razak becomes the sixth Prime Minister; the 1MDB state fund is founded the same year.
+- **3 April 2009** — Najib Razak becomes the sixth Prime Minister; the [1MDB](/en/malaysia/1mdb-scandal) state fund is founded the same year.
 - **2013** — GE13 returns Barisan Nasional on a minority of the popular vote; the [Lahad Datu incursion](/en/malaysia/sabah-sulu-claim) tests Sabah's borders.
 - **2015** — The 1MDB scandal breaks internationally and dominates the years that follow.
 - **9 May 2018** — [GE14](/en/malaysia/2018-change-of-government) — Pakatan Harapan wins the first federal change of government; Mahathir returns as the seventh Prime Minister.

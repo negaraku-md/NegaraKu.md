@@ -186,25 +186,24 @@ pemecatan timbalannya Anwar Ibrahim, dan gerakan jalanan Reformasi.
 - **1970** — [Rukun Negara](/malaysia/rukun-negara) — prinsip kebangsaan yang diisytiharkan selepas 13 Mei 1969.
 - **1971** — [Dasar Ekonomi Baru](/malaysia/new-economic-policy) — dua objektif yang dinyatakan, satu rangka kerja dua puluh tahun.
 - **1973–74** — [Barisan Nasional](/malaysia/barisan-nasional) — Perikatan diperluas menjadi gabungan yang memerintah lebih empat dekad.
-- **16 Julai 1981** — Mahathir Mohamad menjadi [Perdana Menteri](/glossary/perdana-menteri) keempat, memulakan 22 tahun memegang jawatan.
+- **16 Julai 1981** — [Mahathir Mohamad](/malaysia/mahathir-mohamad) menjadi [Perdana Menteri](/glossary/perdana-menteri) keempat, memulakan 22 tahun memegang jawatan.
 - **1983** — [Kereta nasional dan industri berat](/industries/automotive-industry) — Proton dan dasar perindustrian "Pandang ke Timur".
 - **1987** — [Operasi Lalang](/malaysia/ops-lalang-1987) — tahanan beramai-ramai di bawah Akta Keselamatan Dalam Negeri.
 - **1991** — [Wawasan 2020](/malaysia/wawasan-2020) — matlamat Malaysia menjadi negara maju sepenuhnya menjelang 2020.
-- **1997–98** — [Krisis kewangan Asia dan Reformasi](/malaysia/1998-reformasi) — kawalan modal, pemecatan Anwar Ibrahim, dan gerakan reformasi.
+- **1997–98** — [Krisis kewangan Asia dan Reformasi](/malaysia/1998-reformasi) — kawalan modal, pemecatan [Anwar Ibrahim](/malaysia/anwar-ibrahim), dan gerakan reformasi.
 - **31 Oktober 2003** — Mahathir berundur selepas 22 tahun; Abdullah Ahmad Badawi menjadi Perdana Menteri kelima.
 
 ## Reformasi hingga kerajaan perpaduan
 
 Suku abad sejak itu ialah tempoh paling bergelora dalam sejarah Malaysia —
 hakisan perlahan dominasi satu parti, skandal kewangan 1MDB, dan kemudian, mulai
-2018, pertukaran kerajaan persekutuan pertama sejak merdeka diikuti lima perdana
-menteri dalam lapan tahun. Ia reda, buat masa ini, pada kerajaan perpaduan Anwar
+2018, pertukaran kerajaan persekutuan pertama sejak merdeka diikuti [lima perdana menteri](/government/prime-ministers-of-malaysia) dalam lapan tahun. Ia reda, buat masa ini, pada kerajaan perpaduan Anwar
 Ibrahim.
 
 **Detik penting**
 
 - **2008** — [Pilihan raya umum ke-12](/law/elections-act-and-election-commission) — "tsunami politik": Barisan Nasional kehilangan majoriti dua pertiga buat kali pertama.
-- **3 April 2009** — Najib Razak menjadi Perdana Menteri keenam; dana negara 1MDB ditubuhkan pada tahun yang sama.
+- **3 April 2009** — Najib Razak menjadi Perdana Menteri keenam; dana negara [1MDB](/malaysia/1mdb-scandal) ditubuhkan pada tahun yang sama.
 - **2013** — PRU-13 mengekalkan Barisan Nasional atas majoriti undi popular yang minoriti; [pencerobohan Lahad Datu](/malaysia/sabah-sulu-claim) menguji sempadan Sabah.
 - **2015** — Skandal 1MDB tersebar ke peringkat antarabangsa dan menguasai tahun-tahun berikutnya.
 - **9 Mei 2018** — [PRU-14](/malaysia/2018-change-of-government) — Pakatan Harapan memenangi pertukaran kerajaan persekutuan pertama; Mahathir kembali sebagai Perdana Menteri ketujuh.
