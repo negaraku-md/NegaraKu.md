@@ -1,5 +1,5 @@
 ---
-topicId: MY-GOV-0100
+topicId: "MY-GOV-0101"
 title: "马来西亚历任首相"
 slug: "prime-ministers-of-malaysia"
 category: "government"

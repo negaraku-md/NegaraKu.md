@@ -1,5 +1,5 @@
 ---
-topicId: MY-GOV-0100
+topicId: "MY-GOV-0101"
 title: "Perdana Menteri Malaysia"
 slug: "prime-ministers-of-malaysia"
 category: "government"
