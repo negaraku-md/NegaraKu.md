@@ -45,8 +45,6 @@ reviewDue: 2027-08-03
 revision: 0
 verificationNeeded:
   - "Exact institution counts (24 commercial, 16 Islamic, 1 international Islamic, 10 investment banks) against BNM's Financial Sector Participants Directory — these move over time with mergers, exits and new licences."
-  - "The precise FSA 2013 provisions that commenced after 30 June 2013 (per the AGC page, section 129 and Schedule 9) and the exact effective dates."
-  - "The full repeal lists in the FSA 2013 and IFSA 2013 schedules (BAFIA 1989, Insurance Act 1996, Payment Systems Act 2003, Exchange Control Act 1953; Islamic Banking Act 1983, Takaful Act 1984)."
   - "The named lists of specific commercial banks, investment banks, DFIs and the single international Islamic bank (PT. Bank Muamalat Indonesia) against BNM's directory before formal use."
 revisions:
   - revision: 0
@@ -80,6 +78,12 @@ sources:
   - title: "Banking and Finance Laws and Regulations 2026 — Malaysia"
     url: "https://www.globallegalinsights.com/practice-areas/banking-and-finance-laws-and-regulations/malaysia/"
     publisher: "Global Legal Insights (Global Legal Group)"
+  - title: "Financial Services Act 2013 (Act 758) — text of reprint (as at 1 August 2021)"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1691496_BI/ACT%20758_2.8.2021.pdf"
+    publisher: "Attorney General's Chambers (Laws of Malaysia)"
+  - title: "Islamic Financial Services Act 2013 (Act 759)"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/20130322_759_BI_Combined.pdf"
+    publisher: "Attorney General's Chambers (Laws of Malaysia)"
 
 entity: "Banking sector of Malaysia"
 relations:

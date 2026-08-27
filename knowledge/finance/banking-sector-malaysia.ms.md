@@ -46,8 +46,6 @@ reviewDue: 2027-08-03
 revision: 0
 verificationNeeded:
   - "Bilangan institusi tepat (24 bank perdagangan, 16 bank Islam, 1 bank Islam antarabangsa, 10 bank pelaburan) terhadap Financial Sector Participants Directory BNM — angka ini berubah dari semasa ke semasa dengan penggabungan, penarikan diri dan lesen baharu."
-  - "Peruntukan FSA 2013 tepat yang berkuat kuasa selepas 30 Jun 2013 (menurut halaman AGC, section 129 dan Schedule 9) dan tarikh berkuat kuasa yang tepat."
-  - "Senarai pemansuhan penuh dalam jadual FSA 2013 dan IFSA 2013 (BAFIA 1989, Insurance Act 1996, Payment Systems Act 2003, Exchange Control Act 1953; Islamic Banking Act 1983, Takaful Act 1984)."
   - "Senarai nama bank perdagangan tertentu, bank pelaburan, DFI dan bank Islam antarabangsa tunggal (PT. Bank Muamalat Indonesia) terhadap direktori BNM sebelum penggunaan formal."
 revisions:
   - revision: 0
@@ -81,6 +79,12 @@ sources:
   - title: "Banking and Finance Laws and Regulations 2026 — Malaysia"
     url: "https://www.globallegalinsights.com/practice-areas/banking-and-finance-laws-and-regulations/malaysia/"
     publisher: "Global Legal Insights (Global Legal Group)"
+  - title: "Financial Services Act 2013 (Act 758) — text of reprint (as at 1 August 2021)"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1691496_BI/ACT%20758_2.8.2021.pdf"
+    publisher: "Attorney General's Chambers (Laws of Malaysia)"
+  - title: "Islamic Financial Services Act 2013 (Act 759)"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/20130322_759_BI_Combined.pdf"
+    publisher: "Attorney General's Chambers (Laws of Malaysia)"
 
 entity: "Banking sector of Malaysia"
 relations:

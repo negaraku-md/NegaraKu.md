@@ -40,7 +40,6 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0
 verificationNeeded:
-  - "Petikan berkanun dikeluarkan semula daripada teks Attorney General's Chambers bagi Laws of Malaysia Act 759 (IFSA 2013), Section 2; sahkan tiada pindaan kemudian telah mengubah perkataan takrifan takaful."
   - "Semua angka industri 2024 adalah angka Malaysian Takaful Association (MTA) sebagaimana dilaporkan oleh Bernama; sahkan terhadap siaran tahunan MTA sendiri dan/atau statistik insurans dan takaful Bank Negara Malaysia sebelum penerbitan."
   - "Pencirian riba, gharar dan maisir sebagai kebimbangan yang distrukturkan oleh takaful untuk menanganinya ialah perihalan umum prinsip komersial Islam; sahkan susunan katanya terhadap sumber ilmiah atau pengawal selia yang neutral."
   - "Sahkan status pelesenan semasa mana-mana pengendali atau penanggung insurans tertentu terus terhadap senarai entiti terkawal Bank Negara Malaysia sebelum pengguna bergantung padanya."
@@ -61,6 +60,9 @@ sources:
   - title: "Takaful Industry Distributes RM10.20 Bln In Benefits In 2024 – MTA"
     url: "https://www.bernama.com/en/news.php?id=2413230"
     publisher: "Bernama (Malaysian National News Agency)"
+  - title: "Islamic Financial Services Act 2013 (Act 759)"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/20130322_759_BI_Combined.pdf"
+    publisher: "Attorney General's Chambers (Laws of Malaysia)"
 
 relations:
   - { rel: "compares-with", to: "conventional-insurance-malaysia" }
