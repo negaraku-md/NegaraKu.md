@@ -24,7 +24,6 @@ appliesTo: "Malaysian companies looking to export or exhibit overseas, anyone tr
 verificationNeeded:
   - "The exact current count and location list of MATRADE's domestic regional offices within Malaysia (reported elsewhere as covering Penang, Terengganu, Johor, Sabah and Sarawak) was not confirmed against a MATRADE page this article could directly retrieve, so no specific list is asserted here"
   - "The 47-overseas-office figure is corroborated by two independently dated 2026 news reports citing MATRADE's own chairman and chief executive, but was not cross-checked against a MATRADE-hosted office directory page, which this article's fetch attempts could not retrieve in full"
-  - "The precise section of Act 490 setting out MATRADE's objects/functions clause was not independently confirmed against the Act's full text; the functions described here are stated in general terms rather than quoted section-by-section"
 
 lang: "en"
 masterLanguage: "en"

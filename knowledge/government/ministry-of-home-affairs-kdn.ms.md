@@ -45,7 +45,6 @@ verificationNeeded:
   - "Tarikh pelantikan tepat dan pemegang semasa jawatan Timbalan Menteri Dalam Negeri (petikan mencadangkan Shamsul Anuar Nasarah dari 17 Dis 2025; sahkan terhadap sumber gov.my atau Hansard sebelum menyatakan tarikh)."
   - "Teks rasmi verbatim Visi, Misi dan Moto — MOHA menerbitkannya hanya di dalam imej pada halaman misi-visi-dan-teras, jadi perkataan Melayu tepat mesti disalin daripada imej itu atau dokumen rasmi alternatif sebelum dipetik."
   - "Nama/pemegang semasa ketiga-tiga Timbalan Ketua Setiausaha (Wikipedia menyenaraikannya tetapi hendaklah disemak silang di laman kepimpinan moha.gov.my)."
-  - "Senarai tepat statut yang ditadbir KDN (Immigration Act 1959/63, Societies Act 1966, Printing Presses and Publications Act 1984, Film Censorship Act 2002, National Registration Act 1959, Prevention of Crime Act 1959, Prevention of Terrorism Act 2015) — sahkan nombor Akta di lom.agc.gov.my sebelum menyenaraikan."
   - "Sama ada RELA dan PNMB kini dikelaskan sebagai jabatan berbanding syarikat/agensi di bawah carta organisasi KDN terkini."
 updated: 2026-08-14
 sources:

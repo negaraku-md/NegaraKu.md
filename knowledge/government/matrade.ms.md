@@ -24,7 +24,6 @@ appliesTo: "Syarikat Malaysia yang ingin mengeksport atau mengambil bahagian dal
 verificationNeeded:
   - "Bilangan tepat semasa dan senarai lokasi pejabat wilayah domestik MATRADE di dalam Malaysia (dilaporkan di tempat lain merangkumi Pulau Pinang, Terengganu, Johor, Sabah dan Sarawak) tidak dapat disahkan berdasarkan mana-mana halaman MATRADE yang dapat diperoleh secara langsung oleh artikel ini, jadi tiada senarai khusus dinyatakan di sini"
   - "Angka 47 pejabat luar negara disokong oleh dua laporan berita 2026 yang bertarikh secara bebas dan memetik pengerusi serta ketua pegawai eksekutif MATRADE sendiri, tetapi tidak disemak silang dengan halaman direktori pejabat yang dihoskan oleh MATRADE, yang tidak dapat diperoleh sepenuhnya oleh percubaan capaian artikel ini"
-  - "Peruntukan tepat dalam Act 490 yang menetapkan fungsi/objektif MATRADE tidak disahkan secara bebas berdasarkan teks penuh Akta tersebut; fungsi yang diterangkan di sini dinyatakan secara umum dan bukan dipetik seksyen demi seksyen"
 
 lang: "ms"
 masterLanguage: "en"

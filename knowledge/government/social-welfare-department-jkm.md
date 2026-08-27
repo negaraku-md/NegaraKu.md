@@ -47,7 +47,6 @@ verificationNeeded:
   - "Current income thresholds / B40 or PGK (Poverty Line Income) figures used in JKM means-testing — do not state a specific RM figure without confirming on an official JKM/DOSM source, as these are periodically revised."
   - "Exact monthly amounts (RM) for each scheme (SARA, STR, Bantuan Am, BKK, BWE, BAP) — confirm current rates on jkm.gov.my before publishing any ringgit figure."
   - "OKU registration processing time (search suggested 5–14 working days) — not stated on the official malaysia.gov.my page reviewed; verify before asserting."
-  - "Full statutory stack beyond Act 685 (e.g. Child Act 2001 / Act 611, Care Centres Act 1993 / Act 506, Destitute Persons Act 1977 / Act 183) — confirm each on lom.agc.gov.my before citing JKM's enforcement role."
 updated: 2026-08-14
 sources:
   - title: "Applying for Social Welfare Department (JKM) Aid"

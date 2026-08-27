@@ -45,7 +45,6 @@ verificationNeeded:
   - "Deputy Minister of Home Affairs 一职的确切委任日期及现任人选（片段资料显示为 Shamsul Anuar Nasarah，自 17 Dec 2025 起；在陈述日期前，请对照 gov.my 或 Hansard 来源核实）。"
   - "逐字的官方愿景（Visi）、使命（Misi）与格言（Moto）文本——MOHA 仅将其发布在 misi-visi-dan-teras 页面的一张图片之内，因此在引用之前，须从该图片或另一份官方文件转录出确切的马来文措辞。"
   - "三位副秘书长目前的姓名／任职者（Wikipedia 有列出，但应在 moha.gov.my 领导层页面交叉核对）。"
-  - "KDN 所主管法规的确切清单（Immigration Act 1959/63、Societies Act 1966、Printing Presses and Publications Act 1984、Film Censorship Act 2002、National Registration Act 1959、Prevention of Crime Act 1959、Prevention of Terrorism Act 2015）——列出前请在 lom.agc.gov.my 上核实法令编号。"
   - "依据最新的 KDN 组织架构图，RELA 与 PNMB 目前是被归类为部门，还是公司/机构。"
 updated: 2026-08-14
 sources:

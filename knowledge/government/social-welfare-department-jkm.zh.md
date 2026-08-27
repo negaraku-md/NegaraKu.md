@@ -48,7 +48,6 @@ verificationNeeded:
   - "JKM 家计调查中使用的现行收入门槛／B40 或 PGK（贫困线收入）数字——未在 JKM/DOSM 官方来源确认前，请勿陈述具体的 RM 数字，因为这些数字会定期修订。"
   - "每项计划（SARA、STR、Bantuan Am、BKK、BWE、BAP）的确切每月金额（RM）——在发布任何令吉数字前，请在 jkm.gov.my 上确认现行费率。"
   - "OKU 注册处理时间（搜索显示为 5–14 个工作日）——所查阅的官方 malaysia.gov.my 页面并未载明；断言前须核实。"
-  - "Act 685 以外完整的法规体系（例如 Child Act 2001 / Act 611、Care Centres Act 1993 / Act 506、Destitute Persons Act 1977 / Act 183）——在引述 JKM 的执法角色前，请逐一在 lom.agc.gov.my 上核实。"
 updated: 2026-08-14
 sources:
   - title: "Applying for Social Welfare Department (JKM) Aid"

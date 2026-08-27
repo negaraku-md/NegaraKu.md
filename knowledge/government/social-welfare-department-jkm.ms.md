@@ -48,7 +48,6 @@ verificationNeeded:
   - "Ambang pendapatan semasa / angka B40 atau PGK (Pendapatan Garis Kemiskinan) yang digunakan dalam ujian kemampuan JKM — jangan nyatakan angka RM tertentu tanpa mengesahkannya pada sumber JKM/DOSM rasmi, kerana ini disemak semula secara berkala."
   - "Amaun bulanan tepat (RM) bagi setiap skim (SARA, STR, Bantuan Am, BKK, BWE, BAP) — sahkan kadar semasa di jkm.gov.my sebelum menerbitkan sebarang angka ringgit."
   - "Masa pemprosesan pendaftaran OKU (carian mencadangkan 5–14 hari bekerja) — tidak dinyatakan pada halaman rasmi malaysia.gov.my yang disemak; sahkan sebelum menegaskannya."
-  - "Susunan statutori penuh melangkaui Act 685 (cth. Child Act 2001 / Act 611, Care Centres Act 1993 / Act 506, Destitute Persons Act 1977 / Act 183) — sahkan setiap satu pada lom.agc.gov.my sebelum memetik peranan penguatkuasaan JKM."
 updated: 2026-08-14
 sources:
   - title: "Applying for Social Welfare Department (JKM) Aid"

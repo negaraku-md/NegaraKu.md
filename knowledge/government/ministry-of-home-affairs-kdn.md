@@ -44,7 +44,6 @@ verificationNeeded:
   - "Exact appointment date and current holder of the Deputy Minister of Home Affairs post (snippets suggested Shamsul Anuar Nasarah from 17 Dec 2025; confirm against a gov.my or Hansard source before stating a date)."
   - "Verbatim official Vision (Visi), Mission (Misi) and Motto (Moto) text — MOHA publishes these only inside an image on the misi-visi-dan-teras page, so exact Malay wording must be transcribed from the image or an alternate official document before quoting."
   - "Current names/holders of the three Deputy Secretaries-General (Wikipedia lists them but should be cross-checked on moha.gov.my leadership pages)."
-  - "Exact list of statutes KDN administers (Immigration Act 1959/63, Societies Act 1966, Printing Presses and Publications Act 1984, Film Censorship Act 2002, National Registration Act 1959, Prevention of Crime Act 1959, Prevention of Terrorism Act 2015) — confirm Act numbers on lom.agc.gov.my before listing."
   - "Whether RELA and PNMB are currently classified as departments vs. companies/agencies under the latest KDN org chart."
 updated: 2026-08-14
 sources:
