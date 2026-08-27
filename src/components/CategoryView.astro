@@ -32,7 +32,7 @@ const catCount = pillar ? categoriesInPillar(pillar).length : 0;
 // Hero stats: drop the "categories" tile for a category with no parent pillar,
 // rather than showing a meaningless "0 categories".
 const heroStats = [
-  { value: PILLARS.length, label: L('seksyen', 'sections', '版块') },
+  { value: PILLARS.length, label: L('tonggak', 'pillars', '支柱') },
   ...(pillar ? [{ value: catCount, label: L('kategori', 'categories', '分类') }] : []),
   { value: topicCount, label: L('subkategori', 'subcategories', '子分类') },
   { value: articles.length, label: L('topik', 'topics', '主题') },

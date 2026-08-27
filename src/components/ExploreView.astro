@@ -47,12 +47,12 @@ const ways = [
   ]}
   title={L('Terokai NegaraKu.md', 'Explore NegaraKu.md', '探索 NegaraKu.md')}
   desc={L(
-    'Mula di sini — cari, terokai mengikut seksyen, atau lompat terus ke yang popular.',
-    'Start here — search, browse by section, or jump straight to what’s popular.',
-    '从这里开始——搜索、按版块浏览，或直达热门内容。',
+    'Mula di sini — cari, terokai mengikut tonggak, atau lompat terus ke yang popular.',
+    'Start here — search, browse by pillar, or jump straight to what’s popular.',
+    '从这里开始——搜索、按支柱浏览，或直达热门内容。',
   )}
   stats={[
-    { value: stats.sections, label: L('seksyen', 'sections', '版块') },
+    { value: stats.sections, label: L('tonggak', 'pillars', '支柱') },
     { value: stats.categories, label: L('kategori', 'categories', '分类') },
     { value: stats.topics, label: L('subkategori', 'subcategories', '子分类') },
     { value: stats.articles, label: L('topik', 'topics', '主题') },
@@ -84,7 +84,7 @@ const ways = [
     <header>
       <span>
         <span class="pi" aria-hidden="true">🗺️</span>
-        {L('Seksyen', 'Sections', '版块')}
+        {L('Tonggak', 'Pillars', '支柱')}
       </span>
       <span>{PILLARS.length}</span>
     </header>

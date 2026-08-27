@@ -35,12 +35,12 @@ const groups = PILLARS.map((p) => ({ def: p, cats: categoriesInPillar(p.id) }));
   ]}
   title={t('nav.categories', locale)}
   desc={L(
-    'Layari setiap kategori mengikut seksyen — pilih satu untuk meneroka topik dan artikelnya.',
-    'Browse every category by section — pick one to explore its topics and articles.',
-    '按版块浏览每个分类——选择一个，探索其主题与文章。',
+    'Layari setiap kategori mengikut tonggak — pilih satu untuk meneroka topik dan artikelnya.',
+    'Browse every category by pillar — pick one to explore its topics and articles.',
+    '按支柱浏览每个分类——选择一个，探索其主题与文章。',
   )}
   stats={[
-    { value: stats.sections, label: L('seksyen', 'sections', '版块') },
+    { value: stats.sections, label: L('tonggak', 'pillars', '支柱') },
     { value: stats.categories, label: L('kategori', 'categories', '分类') },
     { value: stats.topics, label: L('subkategori', 'subcategories', '子分类') },
     { value: stats.articles, label: L('topik', 'topics', '主题') },

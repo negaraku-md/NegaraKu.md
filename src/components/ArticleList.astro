@@ -166,7 +166,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
           <div class="controls">
             {has('sec') && secs.length > 1 && (
               <select id="f-sec">
-                <option value="">{L('Semua seksyen', 'All sections', '所有版块')}</option>
+                <option value="">{L('Semua tonggak', 'All pillars', '所有支柱')}</option>
                 {secs.map(([id, name]) => <option value={id}>{name}</option>)}
               </select>
             )}
@@ -211,7 +211,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
       <span class="tb-label">{L('Papar', 'Display', '显示')}</span>
       <div class="tabs">
         <span class="tgl-hint">{L('Papar lebih pada setiap kad:', 'Show more on each card:', '在每张卡片显示更多：')}</span>
-        <button class="tgl" type="button" data-row="path" title={L('Seksyen › kategori › topik', 'Section › category › topic', '版块 › 分类 › 主题')}>{L('Laluan', 'Path', '路径')}</button>
+        <button class="tgl" type="button" data-row="path" title={L('Tonggak › kategori › topik', 'Pillar › category › topic', '支柱 › 分类 › 主题')}>{L('Laluan', 'Path', '路径')}</button>
         <button class="tgl" type="button" data-row="details" title={L('Status, bahasa, sumber, pautan, masa baca', 'Status, languages, sources, links, reading time', '状态、语言、来源、关联、阅读时间')}>{L('Butiran', 'Details', '详情')}</button>
         <button class="tgl" type="button" data-row="custody" title={L('Rantaian jagaan (draf → disemak → diterbitkan)', 'Chain of custody (drafted → reviewed → published)', '保管链（起草 → 审阅 → 发布）')}>{L('Status', 'Status', '状态')}</button>
         <button class="tgl" type="button" data-row="visitors" title={L('Lawatan pembaca / enjin carian / AI', 'Reader / search / AI visits', '读者／搜索引擎／AI 访问')}>{L('Pelawat', 'Visitors', '访客')}</button>

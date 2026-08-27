@@ -48,9 +48,9 @@ const paths = [
     open: true,
     title: L('Cadangkan penambahbaikan', 'Suggest an improvement', '建议改进'),
     desc: L(
-      'Cadangkan topik yang belum ada. Pilih tempatnya dalam seksyen dan kategori kami — atau cadangkan yang baharu.',
-      'Propose a topic we’re missing. Pick where it fits in our sections and categories — or propose a new one.',
-      '建议我们尚未涵盖的主题。选择它在我们版块与分类中的位置——或提议新增。',
+      'Cadangkan topik yang belum ada. Pilih tempatnya dalam tonggak dan kategori kami — atau cadangkan yang baharu.',
+      'Propose a topic we’re missing. Pick where it fits in our pillars and categories — or propose a new one.',
+      '建议我们尚未涵盖的主题。选择它在我们支柱与分类中的位置——或提议新增。',
     ),
   },
   {
@@ -134,7 +134,7 @@ const REPORT_LABELS = FEEDBACK_LABELS['article-issue'].join(',');
     '三种参与方式——全部开放。通过 fork + pull request 报告、建议，或撰写与翻译文章。',
   )}
   stats={[
-    { value: stats.sections, label: L('seksyen', 'sections', '版块') },
+    { value: stats.sections, label: L('tonggak', 'pillars', '支柱') },
     { value: stats.categories, label: L('kategori', 'categories', '分类') },
     { value: stats.topics, label: L('subkategori', 'subcategories', '子分类') },
     { value: stats.articles, label: L('topik', 'topics', '主题') },
@@ -187,15 +187,15 @@ const REPORT_LABELS = FEEDBACK_LABELS['article-issue'].join(',');
       <p class="lead">{L('Pilih di mana topik anda sesuai. Jika kategori atau topik belum ada, cadangkan yang baharu.', 'Choose where your topic fits. If the category or topic doesn’t exist yet, propose a new one.', '选择你的主题所属位置。若分类或主题尚不存在，可提议新增。')}</p>
       <div class="form-grid">
       <form class="cform sform" data-repo={REPO} data-labels={SUGGEST_LABELS}>
-        <label>{L('Seksyen', 'Section', '版块')}
+        <label>{L('Tonggak', 'Pillar', '支柱')}
           <select name="section" required>
-            <option value="" disabled selected>{L('Pilih seksyen…', 'Choose a section…', '选择版块……')}</option>
+            <option value="" disabled selected>{L('Pilih tonggak…', 'Choose a pillar…', '选择支柱……')}</option>
             {taxonomy.map((s) => <option value={s.id}>{s.name}</option>)}
           </select>
         </label>
         <label>{L('Kategori', 'Category', '分类')}
           <select name="category" required disabled>
-            <option value="" disabled selected>{L('Pilih seksyen dahulu…', 'Choose a section first…', '请先选择版块……')}</option>
+            <option value="" disabled selected>{L('Pilih tonggak dahulu…', 'Choose a pillar first…', '请先选择支柱……')}</option>
           </select>
         </label>
         <label class="newcat-wrap" hidden>{L('Nama kategori baharu', 'New category name', '新分类名称')}

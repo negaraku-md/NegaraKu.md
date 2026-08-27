@@ -73,7 +73,7 @@ const STRINGS = {
   'nav.suggest': { ms: 'Cadangkan Penambahbaikan', en: 'Suggest an Improvement', zh: '建议改进' },
   // Section headings inside the Explore dropdown (rendered uppercase via CSS).
   'nav.grpDiscover': { ms: 'Temui', en: 'Discover', zh: '发现' },
-  'nav.grpSections': { ms: 'Seksyen', en: 'Sections', zh: '版块' },
+  'nav.grpSections': { ms: 'Tonggak', en: 'Pillars', zh: '支柱' },
   'nav.grpTools': { ms: 'Alat', en: 'Tools', zh: '工具' },
   // Section headings inside the Contribute dropdown.
   'nav.grpGetStarted': { ms: 'Bermula', en: 'Get started', zh: '开始' },
