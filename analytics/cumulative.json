@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "cursor": "2026-08-27 13:13:44",
-  "updatedAt": "2026-08-27T13:18:44.777Z",
+  "cursor": "2026-08-28 14:36:57",
+  "updatedAt": "2026-08-28T14:41:57.616Z",
   "pages": {
     "states/how-state-governments-are-funded": {
       "readers": 17,
@@ -13711,8 +13711,10 @@
         "byBot": {}
       },
       "ai": {
-        "total": 0,
-        "byBot": {}
+        "total": 6,
+        "byBot": {
+          "GPTBot": 6
+        }
       }
     },
     "malaysia/1mdb-scandal": {
@@ -13722,8 +13724,10 @@
         "byBot": {}
       },
       "ai": {
-        "total": 0,
-        "byBot": {}
+        "total": 6,
+        "byBot": {
+          "GPTBot": 6
+        }
       }
     },
     "malaysia/anwar-ibrahim": {
@@ -13733,8 +13737,10 @@
         "byBot": {}
       },
       "ai": {
-        "total": 0,
-        "byBot": {}
+        "total": 6,
+        "byBot": {
+          "GPTBot": 6
+        }
       }
     },
     "malaysia/najib-razak": {
@@ -13755,8 +13761,10 @@
         "byBot": {}
       },
       "ai": {
-        "total": 0,
-        "byBot": {}
+        "total": 6,
+        "byBot": {
+          "GPTBot": 6
+        }
       }
     }
   }
