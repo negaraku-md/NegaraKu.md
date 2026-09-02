@@ -46,7 +46,6 @@ reviewDue: 2027-08-08
 revision: 0
 verificationNeeded:
   - "Sahkan angka-angka ini terhadap teks Companies Act 2016 yang berkuat kuasa semasa pada tarikh penggunaan (semak sebarang pindaan selepas cetakan semula 1.8.2022)."
-  - "Fi pemeriksaan RM10 di bawah section 144(2) adalah maksimum statutori ('atau apa-apa jumlah yang lebih rendah sebagaimana yang dikehendaki syarikat'); sahkan fi syarikat sendiri, yang mungkin lebih rendah."
   - "Penalti pemberitahuan dikaitkan dengan 'seksyen 137–139' sebagai singkatan; setiap seksyen 137, 138 dan 139 membawa peruntukan kesalahan subseksyen (5) tersendiri (denda sahaja, tanpa pemenjaraan). Sahkan bahawa perkataan ini boleh diterima untuk khalayak yang dituju."
 revisions:
   - revision: 0
@@ -62,6 +61,9 @@ sources:
   - title: "Notice of Interest of Substantial Shareholder (prescribed form, sections 137, 138 & 141)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Notice%20of%20interest%20of%20substantial%20shareholder_ss%20137,%20138,%20138%20&%20141_r2.pdf"
     publisher: "Companies Commission of Malaysia (SSM)"
+  - title: "Companies Act 2016 (Act 777) — reprint as at 1 August 2022"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1738979_BI/Act%20777-%20Final%20Draft%20(1.8.2022).pdf"
+    publisher: "Attorney General's Chambers (Laws of Malaysia)"
 
 entity: "Register of substantial shareholders"
 relations:

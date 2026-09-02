@@ -47,7 +47,6 @@ updated: 2026-08-07
 verificationNeeded:
   - "Competition (Amendment) Bill 2026 此后是否已获御准并刊宪，以及其生效日期（截至更正日期，所引用的资料仅确认已获国会两院通过；未确认御准或刊宪）。"
   - "临时指示／警告函权力以及逾期付款收费仅由ZICO Law的评述支持；一旦可取得已宪报的修订文本，请加以确认。"
-  - "就现行综合MyCC指引及法令文本核实市场份额>60%的支配地位指标以及Section 4(2)/Section 10/Section 41的条文编号。"
   - "和解减免条款在已颁布的修正案中是否位于 Section 38A（新闻评论引用为 Section 38A）。"
 sources:
   - title: "MyCC Guidelines Series: Chapter 1 Prohibition – Anti-Competitive Agreements"

@@ -43,12 +43,9 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Short-notice consent thresholds under s.316(5): private company 90% (constitution may raise up to 95%), public company 95% — appeared only in secondary summaries; confirm against the official Act 777 text."
   - "7-day deadline to lodge the members' voluntary winding-up resolution with SSM under s.439(2)(a) — confirm exact section and day count against statute/SSM form."
   - "Exact s.316 subsection breakdown for ordinary-business notice (private and public both 14 days, and the 21-day rule for special resolutions) — confirm precise subsection numbering."
-  - "Change of company name being s.28 specifically (vs neighbouring sections) — confirm section number against Act 777."
   - "Whether show-of-hands vs poll mechanics are in s.291(2)/(3) and s.292(3)/(4) exactly as summarised — confirm subsection numbers."
-  - "30-day deadline to lodge an amended constitution after a s.36 special resolution and the RM10,000 / RM500-per-day penalty — confirm against statute (secondary source only)."
 updated: 2026-08-14
 sources:
   - title: "Companies Act 2016 (Act 777), official English text"
@@ -66,6 +63,9 @@ sources:
   - title: "Companies Act 1965, Section 152 — Special resolutions"
     url: "https://www.ssm.com.my/acts/fscommand/act125s0152.htm"
     publisher: "Companies Commission of Malaysia (SSM)"
+  - title: "Companies Act 2016 (Act 777) — reprint as at 1 August 2022"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1738979_BI/Act%20777-%20Final%20Draft%20(1.8.2022).pdf"
+    publisher: "Attorney General's Chambers (Laws of Malaysia)"
 entity: "Companies Act 2016 (Malaysia)"
 relations: []
 related: []

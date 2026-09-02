@@ -44,12 +44,9 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "s.316(5)项下短期通知同意的门槛：私人公司90%（章程可提高至95%）、公众公司95%——仅出现在二手摘要中；请对照官方Act 777文本核实。"
   - "依据 s.439(2)(a) 向 SSM 提交成员自愿清盘决议的 7 天期限——请对照法规／SSM 表格核实确切的条文编号与天数。"
   - "关于一般事务通知的 s.316 确切细项分列（私人公司与公众公司均为 14 天，以及特别决议的 21 天规则）——请确认准确的细项编号。"
-  - "更改公司名称是否确切为 s.28（而非相邻条文）——请对照 Act 777 核实条文编号。"
   - "举手表决与记名投票的机制是否确如摘要所述见于 s.291(2)/(3) 与 s.292(3)/(4)——请核实各分节编号。"
-  - "在 s.36 特别决议后提交经修订章程的 30 天期限，以及 RM10,000 / 每日 RM500 的罚款——请对照法规核实（目前仅为次要来源）。"
 updated: 2026-08-14
 sources:
   - title: "Companies Act 2016 (Act 777), official English text"
@@ -67,6 +64,9 @@ sources:
   - title: "Companies Act 1965, Section 152 — Special resolutions"
     url: "https://www.ssm.com.my/acts/fscommand/act125s0152.htm"
     publisher: "Companies Commission of Malaysia (SSM)"
+  - title: "Companies Act 2016 (Act 777) — reprint as at 1 August 2022"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1738979_BI/Act%20777-%20Final%20Draft%20(1.8.2022).pdf"
+    publisher: "Attorney General's Chambers (Laws of Malaysia)"
 entity: "Companies Act 2016 (Malaysia)"
 relations: []
 related: []

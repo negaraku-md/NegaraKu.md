@@ -46,7 +46,6 @@ reviewDue: 2027-08-08
 revision: 0
 verificationNeeded:
   - "须在使用之日对照Companies Act 2016现行有效条文核实这些数字（查核1.8.2022重印本之后是否有任何修订）。"
-  - "section 144(2)下的RM10查阅费为法定上限（「或公司所要求的更低金额」）；须核实公司自定的费用，其可能更低。"
   - "通知义务的罚则以「sections 137–139」作为简略表述；sections 137、138 与 139 各自都载有其 subsection (5) 的罪行条文（仅罚款，不监禁）。请确认此措辞对目标读者而言可以接受。"
 revisions:
   - revision: 0
@@ -62,6 +61,9 @@ sources:
   - title: "Notice of Interest of Substantial Shareholder (prescribed form, sections 137, 138 & 141)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Notice%20of%20interest%20of%20substantial%20shareholder_ss%20137,%20138,%20138%20&%20141_r2.pdf"
     publisher: "Companies Commission of Malaysia (SSM)"
+  - title: "Companies Act 2016 (Act 777) — reprint as at 1 August 2022"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1738979_BI/Act%20777-%20Final%20Draft%20(1.8.2022).pdf"
+    publisher: "Attorney General's Chambers (Laws of Malaysia)"
 
 entity: "Register of substantial shareholders"
 relations:

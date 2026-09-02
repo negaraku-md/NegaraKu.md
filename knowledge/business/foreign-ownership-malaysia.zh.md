@@ -46,7 +46,6 @@ verificationNeeded:
   - "Foreign Investment Committee指南于30 June 2009废除一事被普遍报道，但未能找到确认此事的官方政府页面。请注意，MCMC自己的2025 Licensing Guidebook在其附录清单中仍要求提供符合Foreign Investment Committee要求的文件——这是一处过时的引用，而非现行要求。"
   - "MIDA Booklet 8 (2021)引用的是2010年修订的分销贸易指引，而KPDN引用的是Pindaan 2022版本。请取得2022年文本，确认业态门槛或排除清单是否有变。"
   - "各州对外国人购置房产的最低购买价门槛未对照各州土地局来源核实。RM1,000,000 这一数字是联邦下限；各州自行设定，往往更高。"
-  - "私立高等教育：Act 555 赋予部长对股权参与的酌情权，而非设定数字上限。私立大学 100% 的允许比例源自 MITI 的自由化措施，而非 Act 555 本身。"
 
 lang: "zh"
 masterLanguage: "en"

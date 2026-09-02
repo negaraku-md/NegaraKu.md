@@ -47,7 +47,6 @@ revisions:
 
 verificationNeeded:
   - "Tarikh permulaan kuat kuasa bahagian CMSA 2007 tertentu (cth. Division 2 of Part VI) jika tahap perincian itu dipulihkan — petik warta/notis permulaan kuat kuasa."
-  - "Nombor Akta bagi Securities Industry (Central Depositories) Act 1991 (dilaporkan sebagai Act 453) jika ditambah ke dalam teks."
 updated: 2026-08-08
 sources:
   - title: "About the SC"
@@ -71,6 +70,9 @@ sources:
   - title: "SC Appoints Mohammad Faiz Azmi As New Executive Chairman Effective June 16"
     url: "https://www.bernama.com/en/news.php?id=2307627"
     publisher: "Bernama"
+  - title: "Securities Industry (Central Depositories) Act 1991 (Act 453)"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20453.pdf"
+    publisher: "Attorney General's Chambers (Laws of Malaysia)"
 
 entity: "Securities Commission Malaysia"
 relations:

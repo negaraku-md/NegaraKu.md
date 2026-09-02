@@ -46,7 +46,6 @@ updated: 2026-08-07
 verificationNeeded:
   - "Whether the Competition (Amendment) Bill 2026 has since received royal assent and been gazetted, and its commencement date (as of the correction date, only passage by both Houses of Parliament is confirmed by cited sources; no royal assent or gazettement is confirmed)."
   - "The interim-directions / warning-letter powers and the late-payment charges are supported only by the ZICO Law commentary; confirm against the gazetted amendment text once available."
-  - "The >60% market-share dominance indicator and the Section 4(2)/Section 10/Section 41 numbering against the current consolidated MyCC guidelines and Act text."
   - "Whether the settlement-reduction provision sits at Section 38A in the enacted amendment (news commentary cites Section 38A)."
 sources:
   - title: "MyCC Guidelines Series: Chapter 1 Prohibition – Anti-Competitive Agreements"

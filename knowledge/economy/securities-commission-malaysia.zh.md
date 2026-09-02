@@ -47,7 +47,6 @@ revisions:
 
 verificationNeeded:
   - "若恢复到该细节程度，需列明 CMSA 2007 特定分部（例如 Part VI 的 Division 2）的生效日期 — 请引用刊宪／生效公告。"
-  - "若在正文中加入，Securities Industry (Central Depositories) Act 1991的法令编号（据报为Act 453）。"
 updated: 2026-08-08
 sources:
   - title: "About the SC"
@@ -71,6 +70,9 @@ sources:
   - title: "SC Appoints Mohammad Faiz Azmi As New Executive Chairman Effective June 16"
     url: "https://www.bernama.com/en/news.php?id=2307627"
     publisher: "Bernama"
+  - title: "Securities Industry (Central Depositories) Act 1991 (Act 453)"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20453.pdf"
+    publisher: "Attorney General's Chambers (Laws of Malaysia)"
 
 entity: "Securities Commission Malaysia"
 relations:

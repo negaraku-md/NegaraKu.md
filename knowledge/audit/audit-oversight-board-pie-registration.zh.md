@@ -53,7 +53,6 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Accountants Act 1967 [Act 94] 是否为设立 MIA 及特许会计师（CA(M)）资格的法规——即「Membership as a professional accountant」一行。Companies Act 2016 s.263(7) 就「chartered accountant」的定义援引 Accountants Act 1967，但 MIA 本身的网页无法由机器抓取以确认该设立条文。"
   - "SCMA 1993 第 Part IIIA 项下界定「public interest entity」与「schedule fund」的确切附表引用——草稿只笼统归于 Part IIIA，而未指明具体的附表编号。"
   - "须将AOB Handbook for Registration的2024年6月13日修订日期，以及Form 3／Form 4的认可细节，与SC网站上现行的AOB手册核对。"
 
@@ -83,6 +82,9 @@ sources:
   - title: "Companies Act 2016 (Act 777), section 263 — Company auditors to be approved by Minister charged with responsibility for finance"
     url: "https://www.mof.gov.my/portal/pdf/bahagian/gic/Companies_Act_2016_Act_777.pdf"
     publisher: "Laws of Malaysia (Act 777), Government of Malaysia"
+  - title: "Accountants Act 1967 (Act 94)"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%2094.pdf"
+    publisher: "Attorney General's Chambers (Laws of Malaysia)"
 
 entity: "Audit Oversight Board (AOB)"
 relations:

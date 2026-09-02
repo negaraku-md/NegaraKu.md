@@ -44,12 +44,9 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Ambang persetujuan notis pendek di bawah s.316(5): syarikat persendirian 90% (perlembagaan boleh menaikkan sehingga 95%), syarikat awam 95% — hanya muncul dalam ringkasan sekunder; sahkan terhadap teks rasmi Act 777."
   - "Tarikh akhir 7 hari untuk menyerahkan resolusi penggulungan sukarela ahli kepada SSM di bawah s.439(2)(a) — sahkan seksyen tepat dan kiraan hari terhadap statut/borang SSM."
   - "Pecahan subseksyen s.316 yang tepat bagi notis urusan biasa (persendirian dan awam kedua-duanya 14 hari, dan peraturan 21 hari bagi resolusi khas) — sahkan penomboran subseksyen yang tepat."
-  - "Penukaran nama syarikat sebagai s.28 secara khusus (berbanding seksyen berdekatan) — sahkan nombor seksyen terhadap Act 777."
   - "Sama ada mekanik undian angkat tangan berbanding undi rasmi terdapat dalam s.291(2)/(3) dan s.292(3)/(4) tepat seperti yang diringkaskan — sahkan nombor subseksyen."
-  - "Tarikh akhir 30 hari untuk memfailkan perlembagaan yang dipinda selepas resolusi khas s.36 dan penalti RM10,000 / RM500 sehari — sahkan terhadap statut (sumber sekunder sahaja)."
 updated: 2026-08-14
 sources:
   - title: "Companies Act 2016 (Act 777), official English text"
@@ -67,6 +64,9 @@ sources:
   - title: "Companies Act 1965, Section 152 — Special resolutions"
     url: "https://www.ssm.com.my/acts/fscommand/act125s0152.htm"
     publisher: "Companies Commission of Malaysia (SSM)"
+  - title: "Companies Act 2016 (Act 777) — reprint as at 1 August 2022"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1738979_BI/Act%20777-%20Final%20Draft%20(1.8.2022).pdf"
+    publisher: "Attorney General's Chambers (Laws of Malaysia)"
 entity: "Companies Act 2016 (Malaysia)"
 relations: []
 related: []

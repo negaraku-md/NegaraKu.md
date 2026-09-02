@@ -46,7 +46,6 @@ verificationNeeded:
   - "Pemansuhan garis panduan Foreign Investment Committee pada 30 Jun 2009 dilaporkan secara meluas tetapi tiada halaman kerajaan rasmi yang mengesahkannya ditemui. Ambil perhatian bahawa Licensing Guidebook 2025 MCMC sendiri masih meminta dokumentasi mengenai pematuhan keperluan Foreign Investment Committee dalam senarai semak lampirannya — rujukan lapuk, bukan keperluan yang masih berkuat kuasa."
   - "MIDA Booklet 8 (2021) merujuk kepada garis panduan perdagangan pengedaran seperti yang dipinda pada 2010, manakala KPDN merujuk kepada edisi Pindaan 2022. Dapatkan teks 2022 dan sahkan sama ada ambang format atau senarai pengecualian berubah."
   - "Ambang harga belian minimum mengikut negeri bagi pemerolehan hartanah oleh warga asing tidak disahkan terhadap sumber pejabat tanah negeri. Angka RM1,000,000 ialah paras minimum persekutuan; negeri menetapkan paras mereka sendiri, selalunya lebih tinggi."
-  - "Pengajian tinggi swasta: Act 555 memberikan budi bicara kepada Menteri ke atas penyertaan ekuiti dan bukannya menetapkan had berangka. Kelonggaran 100 peratus untuk universiti swasta terhasil daripada tranche liberalisasi MITI, bukan daripada Act 555 itu sendiri."
 
 lang: "ms"
 masterLanguage: "en"

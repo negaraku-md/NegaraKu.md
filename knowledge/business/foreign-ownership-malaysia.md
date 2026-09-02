@@ -46,7 +46,6 @@ verificationNeeded:
   - "The repeal of the Foreign Investment Committee guidelines on 30 June 2009 is universally reported but no official government page confirming it was located. Note that MCMC's own 2025 Licensing Guidebook still requests documentation on compliance with Foreign Investment Committee requirements in its annexure checklist — a stale reference, not a live requirement."
   - "MIDA Booklet 8 (2021) refers to the distributive trade guidelines as amended in 2010, while KPDN refers to a Pindaan 2022 edition. Obtain the 2022 text and confirm whether the format thresholds or the exclusion list changed."
   - "Per-state minimum purchase price thresholds for foreign property acquisition were not verified against state land office sources. The RM1,000,000 figure is the federal floor; states set their own, often higher."
-  - "Private higher education: Act 555 confers a discretion on the Minister over equity participation rather than setting a numeric cap. The 100 percent allowance for private universities derives from the MITI liberalisation tranche, not from Act 555 itself."
 
 lang: "en"
 masterLanguage: "en"

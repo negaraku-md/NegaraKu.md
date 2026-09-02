@@ -45,7 +45,6 @@ reviewDue: 2027-08-08
 revision: 0
 verificationNeeded:
   - "Confirm these figures against the current in-force text of the Companies Act 2016 at the date of use (check for any amendments after the 1.8.2022 reprint)."
-  - "The RM10 inspection fee under section 144(2) is a statutory maximum ('or such lesser sum as the company requires'); confirm the company's own fee, which may be lower."
   - "The notification penalty is attributed to 'sections 137–139' as shorthand; each of sections 137, 138 and 139 carries its own subsection (5) offence provision (fine only, no imprisonment). Confirm this phrasing is acceptable for the intended audience."
 revisions:
   - revision: 0
@@ -61,6 +60,9 @@ sources:
   - title: "Notice of Interest of Substantial Shareholder (prescribed form, sections 137, 138 & 141)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Notice%20of%20interest%20of%20substantial%20shareholder_ss%20137,%20138,%20138%20&%20141_r2.pdf"
     publisher: "Companies Commission of Malaysia (SSM)"
+  - title: "Companies Act 2016 (Act 777) — reprint as at 1 August 2022"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1738979_BI/Act%20777-%20Final%20Draft%20(1.8.2022).pdf"
+    publisher: "Attorney General's Chambers (Laws of Malaysia)"
 
 entity: "Register of substantial shareholders"
 relations:

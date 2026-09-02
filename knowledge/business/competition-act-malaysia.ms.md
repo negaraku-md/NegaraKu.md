@@ -47,7 +47,6 @@ updated: 2026-08-07
 verificationNeeded:
   - "Sama ada Competition (Amendment) Bill 2026 sejak itu telah mendapat perkenan diraja dan diwartakan, serta tarikh permulaan kuat kuasanya (setakat tarikh pembetulan, hanya kelulusan oleh kedua-dua Dewan Parlimen disahkan oleh sumber yang dipetik; tiada perkenan diraja atau pewartaan disahkan)."
   - "Kuasa arahan interim / surat amaran dan caj bayaran lewat hanya disokong oleh ulasan ZICO Law; sahkan terhadap teks pindaan yang diwartakan setelah tersedia."
-  - "Penunjuk penguasaan bahagian pasaran >60% dan penomboran Section 4(2)/Section 10/Section 41 terhadap garis panduan MyCC bersepadu semasa dan teks Akta."
   - "Sama ada peruntukan pengurangan penyelesaian terletak di Section 38A dalam pindaan yang digubal (ulasan berita menyebut Section 38A)."
 sources:
   - title: "MyCC Guidelines Series: Chapter 1 Prohibition – Anti-Competitive Agreements"

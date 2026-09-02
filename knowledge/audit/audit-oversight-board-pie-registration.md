@@ -52,7 +52,6 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "That the Accountants Act 1967 [Act 94] is the statute establishing the MIA and the Chartered Accountant (CA(M)) designation — the 'Membership as a professional accountant' row. Companies Act 2016 s.263(7) cites the Accountants Act 1967 for the definition of 'chartered accountant', but MIA's own pages were not machine-fetchable to confirm the establishing provision."
   - "The exact Schedule reference under Part IIIA of the SCMA 1993 that defines 'public interest entity' and 'schedule fund' — the draft attributes these to Part IIIA generally rather than pinning a specific Schedule number."
   - "The 13 June 2024 revision date of the AOB Handbook for Registration and the Form 3 / Form 4 recognition details against the current AOB handbooks on the SC website."
 
@@ -82,6 +81,9 @@ sources:
   - title: "Companies Act 2016 (Act 777), section 263 — Company auditors to be approved by Minister charged with responsibility for finance"
     url: "https://www.mof.gov.my/portal/pdf/bahagian/gic/Companies_Act_2016_Act_777.pdf"
     publisher: "Laws of Malaysia (Act 777), Government of Malaysia"
+  - title: "Accountants Act 1967 (Act 94)"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%2094.pdf"
+    publisher: "Attorney General's Chambers (Laws of Malaysia)"
 
 entity: "Audit Oversight Board (AOB)"
 relations:
