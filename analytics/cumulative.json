@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "cursor": "2026-09-01 08:00:51",
-  "updatedAt": "2026-09-01T08:05:51.655Z",
+  "cursor": "2026-09-02 07:20:22",
+  "updatedAt": "2026-09-02T07:25:22.569Z",
   "pages": {
     "states/how-state-governments-are-funded": {
       "readers": 17,
@@ -959,7 +959,7 @@
       }
     },
     "taxation/labuan-tax-regime": {
-      "readers": 0,
+      "readers": 2,
       "search": {
         "total": 0,
         "byBot": {}
@@ -4342,7 +4342,7 @@
       }
     },
     "company-secretary/special-resolution": {
-      "readers": 0,
+      "readers": 1,
       "search": {
         "total": 0,
         "byBot": {}
@@ -5434,7 +5434,7 @@
       }
     },
     "taxation/form-c-and-cp204": {
-      "readers": 0,
+      "readers": 2,
       "search": {
         "total": 0,
         "byBot": {}
@@ -7086,7 +7086,7 @@
       }
     },
     "company-secretary/mbrs-xbrl-filing": {
-      "readers": 0,
+      "readers": 2,
       "search": {
         "total": 0,
         "byBot": {}
@@ -8907,7 +8907,7 @@
       }
     },
     "economy/securities-commission-malaysia": {
-      "readers": 0,
+      "readers": 1,
       "search": {
         "total": 0,
         "byBot": {}
@@ -12328,7 +12328,7 @@
       }
     },
     "audit/audit-oversight-board-pie-registration": {
-      "readers": 0,
+      "readers": 1,
       "search": {
         "total": 0,
         "byBot": {}
@@ -13755,7 +13755,7 @@
       }
     },
     "government/prime-ministers-of-malaysia": {
-      "readers": 1,
+      "readers": 4,
       "search": {
         "total": 0,
         "byBot": {}
