@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "cursor": "2026-09-03 07:23:44",
-  "updatedAt": "2026-09-03T07:28:44.771Z",
+  "cursor": "2026-09-04 07:29:05",
+  "updatedAt": "2026-09-04T07:34:06.098Z",
   "pages": {
     "states/how-state-governments-are-funded": {
       "readers": 17,
@@ -13761,9 +13761,10 @@
         "byBot": {}
       },
       "ai": {
-        "total": 6,
+        "total": 13,
         "byBot": {
-          "GPTBot": 6
+          "GPTBot": 6,
+          "Meta-ExternalAgent": 7
         }
       }
     }
