@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "cursor": "2026-09-04 07:29:05",
-  "updatedAt": "2026-09-04T07:34:06.098Z",
+  "cursor": "2026-09-05 07:07:02",
+  "updatedAt": "2026-09-05T07:12:02.843Z",
   "pages": {
     "states/how-state-governments-are-funded": {
       "readers": 17,
@@ -73,7 +73,7 @@
       }
     },
     "accounting/audit-exemption-criteria": {
-      "readers": 7,
+      "readers": 11,
       "search": {
         "total": 0,
         "byBot": {}
@@ -13761,10 +13761,10 @@
         "byBot": {}
       },
       "ai": {
-        "total": 13,
+        "total": 14,
         "byBot": {
           "GPTBot": 6,
-          "Meta-ExternalAgent": 7
+          "Meta-ExternalAgent": 8
         }
       }
     }
