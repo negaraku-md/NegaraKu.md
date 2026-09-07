@@ -48,8 +48,9 @@ const SEARCH = [
   ['storebot-google', 'Googlebot'],
   ['bingbot', 'Bingbot'],
   ['msnbot', 'Bingbot'],
-  ['duckduckbot', 'DuckDuckBot'],
-  ['duckduckgo', 'DuckDuckBot'],
+  ['duckduckbot', 'DuckDuckBot'], // explicit crawler token only — a bare 'duckduckgo' needle
+  //   would also match the DuckDuckGo privacy browser's UA and miscount humans as search;
+  //   DuckAssistBot is an AI crawler and is matched in the AI list above.
   ['yandexbot', 'YandexBot'],
   ['baiduspider', 'Baiduspider'],
   ['slurp', 'Yahoo'],
