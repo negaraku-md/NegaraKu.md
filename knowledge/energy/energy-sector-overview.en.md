@@ -91,11 +91,11 @@ entity: "Sektor Tenaga Malaysia"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "energy-commission-suruhanjaya-tenaga" }
-  - { rel: "related-to", to: "tnb-tenaga-nasional" }
+  - { rel: "related-to", to: "tenaga-nasional" }
   - { rel: "related-to", to: "seda-malaysia" }
   - { rel: "related-to", to: "sarawak-energy-berhad" }
   - { rel: "related-to", to: "hydrogen-ccus-malaysia" }
-related: ["energy-commission-suruhanjaya-tenaga", "tnb-tenaga-nasional", "seda-malaysia", "sarawak-energy-berhad", "hydrogen-ccus-malaysia"]
+related: ["energy-commission-suruhanjaya-tenaga", "tenaga-nasional", "seda-malaysia", "sarawak-energy-berhad", "hydrogen-ccus-malaysia"]
 keywords: ["sektor tenaga Malaysia", "NETR", "Peta Jalan Peralihan Tenaga Negara", "PETRA", "Suruhanjaya Tenaga", "Petronas", "tarif elektrik RP4", "BUDI95", "tenaga boleh baharu Malaysia", "grid elektrik Malaysia"]
 ---
 

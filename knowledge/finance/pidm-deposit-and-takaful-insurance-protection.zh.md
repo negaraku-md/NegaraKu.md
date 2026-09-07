@@ -5,6 +5,7 @@ seoTitle: "PIDM 详解：马来西亚存款保险与回教／保险保障"
 slug: "pidm-deposit-and-takaful-insurance-protection"
 category: "finance"
 subcategory: ["insurance"]
+alsoIn: ["economy"]
 summary: "PIDM 如何在马来西亚保障你的钱：银行存款每名存户在每家成员银行获保障最高 RM250,000，回教／保险利益每项利益获保障最高 RM500,000——自动生效，且完全免费。"
 
 tier: "1"
@@ -38,7 +39,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ea1d79fb60f1d612"
+sourceContentHash: "6dadc68b3f5258f8"
 
 status: "published"
 aiAssisted: true
@@ -58,6 +59,9 @@ updated: 2026-08-14
 sources:
   - title: "Deposit Insurance System — Frequently Asked Questions"
     url: "https://www.pidm.gov.my/general/faqs/deposit-insurance-system"
+    publisher: "Perbadanan Insurans Deposit Malaysia (PIDM)"
+  - title: "About PIDM — Frequently Asked Questions"
+    url: "https://www.pidm.gov.my/general/faqs/about-pidm"
     publisher: "Perbadanan Insurans Deposit Malaysia (PIDM)"
   - title: "Coverage For DIS"
     url: "https://www.pidm.gov.my/en/how-we-protect-you/deposit-insurance-system/coverage-for-dis"
@@ -101,6 +105,15 @@ PIDM 是 Perbadanan Insurans Deposit Malaysia 的缩写——即马来西亚存�
 - **回教与保险利益保障制度（Takaful and Insurance Benefits Protection System，TIPS）**——保障你回教证书和保险保单下的各项利益。
 
 设立这两套计划，是为了在成员机构倒闭时，不让普通消费者独自承担损失。相关机构必须强制成为成员，而保障是自动生效的——你无须主动加入。
+
+## PIDM 与马来西亚国家银行有何不同？
+
+人们常以为马来西亚国家银行（Bank Negara Malaysia）为他们的储蓄提供担保。其实并非如此——这两个机构扮演不同却互补的角色。
+
+- **马来西亚国家银行** 是中央银行。它为金融机构发牌、监管和督导，并制定旨在保持机构健康的审慎规则。
+- **PIDM** 是安全网与处置机关。它为消费者提供保险，拥有早期干预权力，并在成员机构陷入倒闭时介入处置——同时赔付符合资格的存户与保单持有人。
+
+简而言之，马来西亚国家银行力图防止银行倒闭；PIDM 则确保万一真有银行倒闭时你受到保障。两者相辅相成，而消费者对两者都无须付费。
 
 ## 我银行存款的多少受保障？
 

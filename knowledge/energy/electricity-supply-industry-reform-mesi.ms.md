@@ -91,10 +91,10 @@ sources:
 
 entity: "Malaysia Electricity Supply Industry (MESI)"
 relations:
-  - { rel: "related-to", to: "tnb-tenaga-nasional" }
+  - { rel: "related-to", to: "tenaga-nasional" }
   - { rel: "related-to", to: "energy-commission-suruhanjaya-tenaga" }
   - { rel: "related-to", to: "seda-malaysia" }
-related: ["tnb-tenaga-nasional", "energy-commission-suruhanjaya-tenaga", "seda-malaysia"]
+related: ["tenaga-nasional", "energy-commission-suruhanjaya-tenaga", "seda-malaysia"]
 keywords: ["MESI", "MESI 2.0", "electricity market reform Malaysia", "third-party access", "single buyer", "CRESS", "TNB unbundling", "retail competition electricity"]
 ---
 

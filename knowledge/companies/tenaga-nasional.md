@@ -5,6 +5,7 @@ seoTitle: "Tenaga Nasional Berhad (TNB): Sejarah, Monopoli Grid & Peranan NETR"
 slug: "tenaga-nasional"
 category: "companies"
 subcategory: ["utiliti"]
+alsoIn: ["energy"]
 summary: "TNB ialah utiliti elektrik terbesar Malaysia yang membekalkan lebih 11 juta pelanggan di Semenanjung, Sabah dan Labuan. Ia memonopoli penghantaran dan pengagihan grid, tetapi berkongsi penjanaan dengan Penjana Kuasa Bebas (IPP)."
 
 tier: "4"
@@ -47,6 +48,11 @@ revisions:
 verificationNeeded:
   - "Angka portfolio tenaga boleh baharu (4.6 GW: 3.3 GW Semenanjung termasuk 2.5 GW hidro besar + 1.3 GW luar negara) — semak nilai terkini kerana kapasiti berubah dari semasa ke semasa."
   - "Kiraan '11 juta pelanggan sehingga 30 September 2025' — sahkan tarikh rujukan dan angka pada laporan TNB terbaharu."
+  - "Sumbangan Genco kira-kira 54% daripada jumlah kapasiti terpasang di Semenanjung — sahkan dengan laporan tahunan TNB terkini."
+  - "Pegangan TNB dalam Sabah Electricity (82.75%) dan pelan pemindahan penuh kepada Kerajaan Negeri Sabah menjelang 2030 — sahkan dengan laporan tahunan TNB atau pengumuman rasmi terkini kerana struktur ini berubah."
+  - "Tarikh penubuhan Bahagian Runcit (2018) — sahkan tarikh penubuhan rasmi."
+  - "Sambungan silang grid ke Thailand dan Singapura — sahkan status dan kapasiti terkini."
+  - "Nombor pendaftaran syarikat (199001009294 / 200866-W) — sahkan dengan SSM/Bursa."
 updated: 2026-07-28
 sources:
   - title: "History — Tenaga Nasional Berhad"
@@ -55,6 +61,15 @@ sources:
   - title: "Corporate Profile — Tenaga Nasional Berhad"
     url: "https://www.tnb.com.my/about-tnb/corporate-profile"
     publisher: "Tenaga Nasional Berhad"
+  - title: "Our Business — Tenaga Nasional Berhad"
+    url: "https://www.tnb.com.my/about-tnb/our-business"
+    publisher: "Tenaga Nasional Berhad"
+  - title: "Khazanah sells 2.33% TNB stake for RM1.69b; EPF now largest shareholder"
+    url: "https://theedgemalaysia.com/node/785405"
+    publisher: "The Edge Malaysia"
+  - title: "Sabah's high-stakes electricity overhaul"
+    url: "https://theedgemalaysia.com/node/747517"
+    publisher: "The Edge Malaysia"
   - title: "Grid Code for Peninsular Malaysia"
     url: "https://www.gso.org.my/GridCode/GridCode.aspx"
     publisher: "Grid System Operator (GSO)"
@@ -76,7 +91,7 @@ Setiap kali lampu di rumah anda menyala di Semenanjung, ada kemungkinan besar el
 
 Kisah TNB bermula jauh sebelum namanya wujud. Pada 1 September 1949, **Central Electricity Board (CEB)** ditubuhkan untuk menyelaras penjanaan dan pengagihan kuasa selepas perang, mengendalikan 34 stesen jana kuasa dengan jumlah kapasiti sekitar 39.88 MW.
 
-Enam belas tahun kemudian, pada 22 Jun 1965, CEB dinamakan semula sebagai **Lembaga Letrik Negara (National Electricity Board, NEB)**. Sepanjang dekad berikutnya, NEB mengambil alih syarikat kuasa serantau seperti Perak River Hydro dan menambah kapasiti pemasangannya dengan pesat.
+Enam belas tahun kemudian, pada 22 Jun 1965, CEB dinamakan semula sebagai **Lembaga Letrik Negara (National Electricity Board of the States of Malaya, NEB)**, seiring peralihan kepimpinan kepada tangan tempatan. Sepanjang dekad berikutnya, NEB mengambil alih syarikat kuasa serantau seperti Perak River Hydro dan menambah kapasiti pemasangannya dengan pesat.
 
 Titik peralihan besar datang apabila kerajaan mengumumkan keputusan muktamad untuk menswastakan bekalan elektrik pada 4 Mei 1988, seperti dicatat dalam sejarah rasmi TNB. Hasilnya, pada 1 September 1990, **Tenaga Nasional Berhad diisytiharkan sebagai waris dan pengganti NEB** di bawah Akta Syarikat Pengganti Bekalan Elektrik 1990. TNB bermula sebagai syarikat swasta milik penuh kerajaan sebelum kemudiannya disenaraikan di Bursa Malaysia, dan kekal dimiliki majoriti oleh entiti berkaitan kerajaan.
 
@@ -104,6 +119,25 @@ Peranan operasi ini ditakrifkan secara formal dalam **Kod Grid Semenanjung Malay
 
 Pemisahan peranan ini adalah usaha berterusan untuk menghilangkan tanggapan bahawa grid berpihak kepada penjanaan TNB, sambil membuka ruang kepada pasaran tenaga yang lebih terbuka.
 
+## Apa sebenarnya perniagaan TNB?
+
+Berbeza dengan IPP yang hanya menjana, TNB sendiri mengendalikan **keseluruhan rantaian nilai elektrik** — daripada stesen janakuasa hingga ke meter di dinding.
+
+| Segmen | Fungsi | Entiti / rangkaian utama |
+|---|---|---|
+| Penjanaan | Menjana elektrik dari stesen janakuasa | TNB Power Generation (Genco) — kira-kira 54% daripada jumlah kapasiti terpasang di Semenanjung |
+| Grid (Penghantaran) | Menghantar kuasa voltan tinggi merentas negara | Grid Nasional: 132kV, 275kV, 500kV |
+| Pengagihan | Menurunkan voltan untuk penghantaran tempatan | Rangkaian 33kV, 11kV, 6.6kV, 0.4kV |
+| Runcit | Pengebilan dan khidmat pelanggan | TNB Retail — Kedai Tenaga, CareLine |
+
+Melalui **TNB Power Generation Sdn. Bhd. (Genco)**, TNB kekal pengeluar kuasa terbesar negara, menyumbang kira-kira 54% daripada jumlah kapasiti terpasang di Semenanjung. Bahagian Grid menguruskan Grid Nasional pada voltan 132kV, 275kV dan 500kV, termasuk sambungan silang rentas sempadan ke Thailand dan Singapura. Di hujung rantaian, Bahagian Pengagihan mengendalikan talian voltan rendah, manakala Bahagian Runcit (ditubuhkan pada 2018) menguruskan pengebilan menerusi rangkaian Kedai Tenaga dan CareLine.
+
+## Sejauh manakah jangkauan TNB?
+
+Lebih 11 juta pelanggan TNB terbahagi kepada tiga kategori utama: **kediaman** (bilangan terbesar), **komersial** (kedua terbesar), dan **industri** — paling sedikit dari segi bilangan tetapi menyumbang jualan elektrik tertinggi.
+
+Operasi teras TNB tertumpu di Semenanjung. Di Sabah dan Wilayah Persekutuan Labuan, bekalan dikendalikan oleh **Sabah Electricity Sdn. Bhd.**, yang dimiliki 82.75% oleh TNB manakala Kerajaan Negeri Sabah memegang 17.24%; menurut The Edge Malaysia, pegangan TNB itu dijadualkan dipindahkan sepenuhnya kepada Kerajaan Negeri Sabah menjelang 2030. Sarawak pula dibekalkan oleh utiliti berasingan dan bukan sebahagian rangkaian TNB.
+
 ## Apa peranan TNB dalam NETR?
 
 Rangkaian grid TNB kini menjadi tulang belakang **Peta Peralihan Tenaga Negara ([National Energy Transition Roadmap](/energy/national-energy-transition-roadmap-netr), NETR)**. Sebabnya mudah: tenaga suria dan angin hanya berguna jika grid mampu menyerap dan mengagihkannya secara stabil, dan grid itu milik TNB.
@@ -119,6 +153,17 @@ NETR menetapkan sasaran penembusan tenaga boleh baharu yang semakin agresif, den
 NETR disusun sekitar enam tuas peralihan — kecekapan tenaga, tenaga boleh baharu, hidrogen, biotenaga, mobiliti hijau, serta penangkapan dan penyimpanan karbon — yang diterjemahkan kepada 10 projek unggulan awal. Projek-projek ini dijangka menarik pelaburan melebihi RM25 bilion dan mewujudkan kira-kira 23,000 peluang pekerjaan.
 
 Sebagai pemilik grid dan pemegang portfolio tenaga boleh baharu terbesar negara — kini kira-kira 4.6 GW merangkumi 3.3 GW di Semenanjung (termasuk 2.5 GW hidro besar) dan 1.3 GW di luar negara — TNB berada di kedudukan unik untuk memacu peralihan ini.
+
+## Siapa yang memiliki TNB?
+
+Walaupun tersenarai di Papan Utama Bursa Malaysia (nombor pendaftaran syarikat 199001009294 / 200866-W), TNB kekal sebuah syarikat berkaitan kerajaan (GLC), dengan majoriti sahamnya dipegang dana dan agensi kerajaan yang menyelaraskan syarikat dengan dasar tenaga negara.
+
+Struktur pegangan berubah pada penghujung 2025. Menurut The Edge Malaysia, pada awal Disember 2025 Khazanah Nasional mengurangkan pegangan langsungnya dengan menjual 135.65 juta saham bernilai RM1.69 bilion, menjadikan jumlah pegangannya (langsung dan tidak langsung) kira-kira 18.05%. Hasilnya, Kumpulan Wang Simpanan Pekerja (KWSP) menjadi pemegang saham terbesar dengan 1.24 bilion saham atau 21.25%, dengan Permodalan Nasional Berhad (PNB) turut menjadi pemegang saham utama.
+
+| Pemegang saham utama | Anggaran pegangan | Rujukan |
+|---|---|---|
+| KWSP (EPF) | 21.25% (pemegang terbesar) | The Edge, Dis 2025 |
+| Khazanah Nasional | ~18.05% | The Edge, Dis 2025 |
 
 ## Apa seterusnya
 

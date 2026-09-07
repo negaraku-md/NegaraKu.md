@@ -71,10 +71,10 @@ sources:
 
 entity: "PLUS Malaysia Berhad"
 relations:
-  - { rel: "administered-by", to: "khazanah-nasional" }
+  - { rel: "administered-by", to: "khazanah" }
   - { rel: "related-to", to: "uem-group" }
   - { rel: "related-to", to: "kwsp" }
-related: ["khazanah-nasional"]
+related: ["khazanah"]
 keywords: ["PLUS Malaysia", "Lebuh Raya Utara-Selatan", "konsesi tol", "UEM Group", "Khazanah", "KWSP", "lebuh raya bertol"]
 ---
 

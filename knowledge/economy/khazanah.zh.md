@@ -5,6 +5,7 @@ seoTitle: "Khazanah Nasional：马来西亚主权财富基金解析"
 slug: "khazanah"
 category: "economy"
 subcategory: ["institutions"]
+alsoIn: ["companies", "glossary"]
 summary: "Khazanah Nasional Berhad（马来西亚主权财富基金）的实体页面——涵盖其使命、所有权、投资组合，以及它与最常被混淆的另外两家政府关联投资公司（GLIC）——EPF 与 PNB——有何不同。"
 
 tier: "4"
@@ -27,7 +28,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "4bc3ca4f1cbbbf17"
+sourceContentHash: "bde519fccc17693d"
 
 status: "published"
 aiAssisted: true
@@ -70,6 +71,21 @@ sources:
   - title: "Employees Provident Fund Act 1991 (Act 452)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20452.pdf"
     publisher: "Attorney General's Chambers of Malaysia"
+  - title: "Khazanah Nasional Berhad — Member Profile"
+    url: "https://www.ifswf.org/member-profiles/khazanah-nasional"
+    publisher: "International Forum of Sovereign Wealth Funds (IFSWF)"
+  - title: "KNB 2022 — Santiago Principles Self-Assessment, Pillar 1: Legal"
+    url: "https://ifswf.org/print/pdf/node/4246"
+    publisher: "International Forum of Sovereign Wealth Funds (IFSWF) / Khazanah Nasional Berhad"
+  - title: "Khazanah Nasional Berhad company record (reg. 199301020767 / 0275505K, incorporated 1993-09-03)"
+    url: "https://businessreport.ctoscredit.com.my/oneoffreport_api/single-report/malaysia-company/0275505K/KHAZANAH-NASIONAL-BERHAD"
+    publisher: "CTOS (SSM-sourced company data)"
+  - title: "FAQs — What is the Minister of Finance (Incorporated)? (Government Investment Companies Division)"
+    url: "https://www.mof.gov.my/portal/pdf/bahagian/gic/faq-en.pdf"
+    publisher: "Ministry of Finance Malaysia (MOF)"
+  - title: "Khazanah posts RM5.1bil profit, RM103.6bil NAV in 2024"
+    url: "https://www.thestar.com.my/business/business-news/2025/02/05/khazanah-posts-rm51bil-profit-rm1036bil-nav-in-2024"
+    publisher: "The Star"
 
 entity: "Khazanah Nasional Berhad"
 relations:
@@ -90,6 +106,7 @@ keywords: ["Khazanah Nasional", "Malaysia sovereign wealth fund", "GLIC Malaysia
 | --- | --- |
 | 全称 | Khazanah Nasional Berhad |
 | 注册编号 | 199301020767 (275505-K) |
+| 注册成立 | 1993 年 9 月 3 日，依据《1965 年公司法》 |
 | 类型 | 主权财富基金，由 MOF Inc 全资拥有 |
 | 开始运作 | 1994 年，作为政府商业资产的受托方 |
 | 分类 | 六家政府关联投资公司（GLIC）之一 |
@@ -113,8 +130,11 @@ Lembaga Tabung Haji（LTH）与 [Lembaga Tabung Angkatan Tentera](/companies/lta
 
 ## Khazanah 的钱从哪里来——又不从哪里来
 
-Khazanah 于 1994 年以受托方的角色开始运作，管理政府既有的商业资产，并投资
-于战略性与高科技行业。实际上，这意味着 Khazanah 的启动资本是政府自身在各
+Khazanah Nasional Berhad（*khazanah* 是马来语「国库」之意）依据《1965 年
+公司法》于 1993 年 9 月 3 日注册成立，并于翌年以受托方的角色开始运作，管理
+政府既有的商业资产，并投资于战略性与高科技行业。除联邦土地专员持有的一股外，
+其全部股本均由 MOF Inc 拥有——该法团是依据《1957 年财政部长（法团）法令》
+[Act 375] 设立的机构。实际上，这意味着 Khazanah 的启动资本是政府自身在各
 公司的股权——而非向个人募集的资金。
 
 如今 Khazanah 的投资组合分为投资组合（Investments Portfolio，涵盖私募股权、
@@ -127,11 +147,35 @@ Axiata、Malaysia Airports 与 Astro。
 营运利润为 RM5.6 billion——当年回报率为 5.2%，七年滚动年化回报率为 6.1%。它
 在 2025 年向联邦政府返还 RM2 billion 股息，使其自 2004 年以来的累计股息贡献
 达到 RM21.1 billion。一年前，即 2024 年，净资产值为 RM103.6 billion，营运
-利润为 RM5.1 billion，NAV 时间加权回报率为 24.6%，当年派发股息 RM1
-billion。
+利润为 RM5.1 billion，NAV 时间加权回报率为 24.6%——这一数字远高于其长期平均
+水平，该基金主要将其归因于公允价值收益与投资组合重新布局，且紧接在 2023 年
+5.7% 的回报之后——当年派发股息 RM1 billion，届时向政府累计派发的股息为
+RM19.1 billion。从更长期来看，Khazanah 报告自 2004 年以来累计股东回报达
+RM93.1 billion，其 NAV 已从 2004 年的约 RM33 billion 增长至逾 RM104
+billion，年复合增长率（CAGR）约为 5.9%。
 
 股息这一行才是重点所在：Khazanah 的「客户」是马来西亚政府，而不是一群个人
 储蓄者。
+
+## Khazanah 如何架构：两只基金
+
+在 2018 年的重组与使命更新之后，Khazanah 通过两只不同的基金推进其使命。
+**商业基金（Commercial Fund）**是一只跨代际基金，追求长期风险调整后回报并
+使国家收入多元化，包括通过全球投资。**战略基金（Strategic Fund）**是一只
+发展型基金，持有战略性国家资产并进行具长期经济效益的投资——主要通过
+**Dana Impak** 落实，其主题（能源转型、数字化、互联互通、转型本地企业与
+营造活力社区）构成 Khazanah 更长期的**「Advancing Malaysia」**战略的支柱。
+
+## 除财务回报之外，Khazanah 还做什么
+
+通过 Dana Impak，Khazanah 将资本投向它认为对马来西亚未来至关重要的领域。
+所报告的 2025 年举措包括 **Jelawang Capital**——一只国家母基金
+（fund-of-funds），其首批五位基金经理支持了超过 10 家初创企业，并撬动了超过
+RM30 million 的引入资本；支持超过 40 家中型企业强化运营与生产力；以及半导体
+与先进制造合作，包括 Syntiant 的槟城扩张（产能翻倍并创造约 800 个就业
+岗位）。在社区方面，Khazanah 于 2025 年投入 RM330 million 用于能力建设与
+社区举措——使自 2006 年以来的累计总额超过 RM2.7 billion——其 K-Youth 计划
+在该年培训了 9,934 名马来西亚青年。
 
 ## Khazanah 与 EPF、PNB 的比较
 

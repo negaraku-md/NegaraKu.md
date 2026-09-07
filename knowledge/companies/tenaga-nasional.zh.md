@@ -5,6 +5,7 @@ seoTitle: "国家能源有限公司（TNB）：历史、电网垄断与 NETR 角
 slug: "tenaga-nasional"
 category: "companies"
 subcategory: ["utiliti"]
+alsoIn: ["energy"]
 summary: "TNB 是马来西亚最大的电力公用事业公司，为半岛、沙巴和纳闽超过 1100 万名用户供电。它垄断电网的输电与配电，但发电则与独立发电商（IPP）共同承担。"
 
 tier: "4"
@@ -29,7 +30,7 @@ faq:
     a: "TNB 拥有并运营国家电网，而这一电网需要升级以吸纳可再生能源，与国家能源转型路线图（NETR）的目标保持一致。"
 
 lang: "zh"
-sourceContentHash: "94ad4bd9898402ac"
+sourceContentHash: "12e743d05ab159ac"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -48,6 +49,11 @@ revisions:
 verificationNeeded:
   - "可再生能源组合数字（4.6 GW：半岛 3.3 GW，含 2.5 GW 大型水电 + 海外 1.3 GW）——请查核最新数值，因为容量会不时变动。"
   - "「截至2025年9月30日1,100万客户」的统计——须对照TNB最新报告核实参考日期与数字。"
+  - "Genco 约占马来西亚半岛总装机容量 54% 的贡献——须对照 TNB 最新年报核实。"
+  - "TNB 在 Sabah Electricity 的持股（82.75%）及在 2030 年前全面移交予沙巴州政府的计划——由于此结构会变动，请以 TNB 年度报告或最新官方公告核实。"
+  - "零售部门于 2018 年成立——须核实正式成立日期。"
+  - "通往泰国与新加坡的电网互联——须核实最新的状态与容量。"
+  - "公司注册号（199001009294 / 200866-W）——请以 SSM/Bursa 核实。"
 updated: 2026-07-28
 sources:
   - title: "History — Tenaga Nasional Berhad"
@@ -56,6 +62,15 @@ sources:
   - title: "Corporate Profile — Tenaga Nasional Berhad"
     url: "https://www.tnb.com.my/about-tnb/corporate-profile"
     publisher: "Tenaga Nasional Berhad"
+  - title: "Our Business — Tenaga Nasional Berhad"
+    url: "https://www.tnb.com.my/about-tnb/our-business"
+    publisher: "Tenaga Nasional Berhad"
+  - title: "Khazanah sells 2.33% TNB stake for RM1.69b; EPF now largest shareholder"
+    url: "https://theedgemalaysia.com/node/785405"
+    publisher: "The Edge Malaysia"
+  - title: "Sabah's high-stakes electricity overhaul"
+    url: "https://theedgemalaysia.com/node/747517"
+    publisher: "The Edge Malaysia"
   - title: "Grid Code for Peninsular Malaysia"
     url: "https://www.gso.org.my/GridCode/GridCode.aspx"
     publisher: "Grid System Operator (GSO)"
@@ -77,7 +92,7 @@ keywords: ["Tenaga Nasional Berhad", "TNB", "utiliti elektrik", "grid nasional",
 
 TNB 的故事在其名称出现之前就已开始。1949 年 9 月 1 日，**中央电力局（Central Electricity Board，CEB）**成立，负责在战后统筹电力的发电与配送，运营 34 座发电站，总装机容量约为 39.88 兆瓦（MW）。
 
-十六年后，1965 年 6 月 22 日，CEB 更名为**国家电力局（Lembaga Letrik Negara，National Electricity Board，NEB）**。在随后的十年间，NEB 接管了霹雳河水电（Perak River Hydro）等区域电力公司，并迅速扩充其装机容量。
+十六年后，1965 年 6 月 22 日，CEB 更名为**马来亚各州国家电力局（National Electricity Board of the States of Malaya，马来文称 Lembaga Letrik Negara，NEB）**，同时领导权也移交给本地人士。在随后的十年间，NEB 接管了霹雳河水电（Perak River Hydro）等区域电力公司，并迅速扩充其装机容量。
 
 重大转折出现在政府于 1988 年 5 月 4 日宣布对电力供应实施私有化的最终决定，正如 TNB 官方历史所记载。由此，1990 年 9 月 1 日，**国家能源有限公司根据《1990 年电力供应继承公司法令》被宣布为 NEB 的继承者和接管者**。TNB 起初是一家由政府全资拥有的私人公司，之后在马来西亚交易所（Bursa Malaysia）上市，并仍由政府相关实体持有多数股权。
 
@@ -105,6 +120,25 @@ TNB 的故事在其名称出现之前就已开始。1949 年 9 月 1 日，**中
 
 这种角色分离是一项持续的努力，旨在消除电网偏向 TNB 发电的观感，同时为更开放的电力市场腾出空间。
 
+## TNB 的业务究竟是什么？
+
+与只负责发电的 IPP 不同，TNB 自身经营**整个电力价值链**——从发电站一直延伸到墙上的电表。
+
+| 环节 | 职能 | 主要实体／网络 |
+|---|---|---|
+| 发电 | 从发电站发电 | TNB Power Generation（Genco）——约占马来西亚半岛总装机容量的 54% |
+| 电网（输电） | 在全国范围内输送高压电力 | 国家电网：132 千伏、275 千伏、500 千伏 |
+| 配电 | 降低电压以进行本地输送 | 33 千伏、11 千伏、6.6 千伏、0.4 千伏网络 |
+| 零售 | 计费与客户服务 | TNB Retail——能源商店（Kedai Tenaga）、CareLine |
+
+通过 **TNB Power Generation Sdn. Bhd.（Genco）**，TNB 仍是全国最大的发电商，贡献了马来西亚半岛总装机容量约 54%。电网部门管理国家电网的 132 千伏、275 千伏和 500 千伏线路，包括与泰国和新加坡的跨境连接。在价值链的末端，配电部门负责低压线路，而零售部门（于 2018 年成立）则通过能源商店和 CareLine 网络负责计费。
+
+## TNB 的覆盖范围有多广？
+
+TNB 超过 1100 万名客户分为三大主要类别：**住宅**（数量最多）、**商业**（第二大类别），以及**工业**——数量最少，但贡献最高的电力销售额。
+
+TNB 的核心业务集中在半岛。在沙巴和纳闽联邦直辖区，电力供应由**沙巴电力有限公司（Sabah Electricity Sdn. Bhd.）**负责，该公司 82.75% 的股权由 TNB 持有，沙巴州政府持有 17.24%；据《The Edge Malaysia》报道，TNB 的这部分股权计划在 2030 年之前全部转移给沙巴州政府。砂拉越则由另一家独立的公用事业公司供电，并不属于 TNB 网络的一部分。
+
 ## TNB 在 NETR 中扮演什么角色？
 
 TNB 的电网如今已成为**[国家能源转型路线图](/energy/national-energy-transition-roadmap-netr)（National Energy Transition Roadmap，NETR）**的支柱。原因很简单：太阳能和风能只有在电网能够稳定地吸纳并配送它们时才有用，而这一电网正是 TNB 所拥有。
@@ -120,6 +154,17 @@ NETR 设定了越来越进取的可再生能源渗透率目标，总体目标是
 NETR 围绕六大转型支柱构建——能源效率、可再生能源、氢能、生物能源、绿色出行，以及碳捕集与封存——并转化为 10 个初期旗舰项目。这些项目预计将吸引超过 250 亿令吉（RM25 bilion）的投资，并创造约 23,000 个就业机会。
 
 作为电网拥有者和全国最大的可再生能源组合持有者——目前约为 4.6 GW，其中包括半岛的 3.3 GW（含 2.5 GW 大型水电）和海外的 1.3 GW——TNB 处于推动这一转型的独特地位。
+
+## 谁拥有 TNB？
+
+尽管在马来西亚交易所主板挂牌上市（公司注册号 199001009294 / 200866-W），TNB 仍然是一家与政府相关的公司（GLC），多数股份由与政府相关的基金和机构持有，使公司与国家能源政策保持一致。
+
+持股结构在 2025 年底发生了变化。据《The Edge Malaysia》报道，2025 年 12 月初，国库控股（Khazanah Nasional）通过出售 1.3565 亿股（价值 16.9 亿令吉）减持其直接持股，使其总持股（直接和间接）约为 18.05%。因此，雇员公积金局（KWSP）以 12.4 亿股，即 21.25% 成为最大股东，国民投资机构（PNB）同样是主要股东之一。
+
+| 主要股东 | 估计持股 | 参考来源 |
+|---|---|---|
+| 公积金局（EPF） | 21.25%（最大股东） | The Edge，2025 年 12 月 |
+| 国库控股（Khazanah Nasional） | 约 18.05% | The Edge，2025 年 12 月 |
 
 ## 接下来会怎样
 

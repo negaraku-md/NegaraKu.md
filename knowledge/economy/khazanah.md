@@ -5,6 +5,7 @@ seoTitle: "Khazanah Nasional: Malaysia's Sovereign Wealth Fund Explained"
 slug: "khazanah"
 category: "economy"
 subcategory: ["institutions"]
+alsoIn: ["companies", "glossary"]
 summary: "Entity page for Khazanah Nasional Berhad, Malaysia's sovereign wealth fund — its mandate, ownership, portfolio and how it differs from the EPF and PNB, the two other GLICs it is most often confused with."
 
 tier: "4"
@@ -69,6 +70,21 @@ sources:
   - title: "Employees Provident Fund Act 1991 (Act 452)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20452.pdf"
     publisher: "Attorney General's Chambers of Malaysia"
+  - title: "Khazanah Nasional Berhad — Member Profile"
+    url: "https://www.ifswf.org/member-profiles/khazanah-nasional"
+    publisher: "International Forum of Sovereign Wealth Funds (IFSWF)"
+  - title: "KNB 2022 — Santiago Principles Self-Assessment, Pillar 1: Legal"
+    url: "https://ifswf.org/print/pdf/node/4246"
+    publisher: "International Forum of Sovereign Wealth Funds (IFSWF) / Khazanah Nasional Berhad"
+  - title: "Khazanah Nasional Berhad company record (reg. 199301020767 / 0275505K, incorporated 1993-09-03)"
+    url: "https://businessreport.ctoscredit.com.my/oneoffreport_api/single-report/malaysia-company/0275505K/KHAZANAH-NASIONAL-BERHAD"
+    publisher: "CTOS (SSM-sourced company data)"
+  - title: "FAQs — What is the Minister of Finance (Incorporated)? (Government Investment Companies Division)"
+    url: "https://www.mof.gov.my/portal/pdf/bahagian/gic/faq-en.pdf"
+    publisher: "Ministry of Finance Malaysia (MOF)"
+  - title: "Khazanah posts RM5.1bil profit, RM103.6bil NAV in 2024"
+    url: "https://www.thestar.com.my/business/business-news/2025/02/05/khazanah-posts-rm51bil-profit-rm1036bil-nav-in-2024"
+    publisher: "The Star"
 
 entity: "Khazanah Nasional Berhad"
 relations:
@@ -89,6 +105,7 @@ keywords: ["Khazanah Nasional", "Malaysia sovereign wealth fund", "GLIC Malaysia
 | --- | --- |
 | Full name | Khazanah Nasional Berhad |
 | Registration number | 199301020767 (275505-K) |
+| Incorporated | 3 September 1993, under the Companies Act 1965 |
 | Type | Sovereign wealth fund, wholly owned by the Minister of Finance Incorporated |
 | Operations began | 1994, as custodian of the Government's commercial assets |
 | Classification | One of six Government-Linked Investment Companies (GLICs) |
@@ -116,11 +133,15 @@ money, and who they owe it to.**
 
 ## Where Khazanah's money comes from — and where it doesn't
 
-Khazanah commenced operations in 1994 in a custodial role, managing the
-Government's existing commercial assets and investing in strategic and
-high-technology sectors. In practice, that means Khazanah's starting capital
-was the Government's own stakes in companies — not money collected from
-individuals.
+Khazanah Nasional Berhad — *khazanah* is the Malay word for "treasury" — was
+incorporated under the Companies Act 1965 on 3 September 1993 and commenced
+operations the following year in a custodial role, managing the Government's
+existing commercial assets and investing in strategic and high-technology
+sectors. Except for a single share held by the Federal Lands Commissioner, its
+entire share capital is owned by the Minister of Finance Incorporated, a body
+established under the Minister of Finance (Incorporation) Act 1957 [Act 375]. In
+practice, that means Khazanah's starting capital was the Government's own stakes
+in companies — not money collected from individuals.
 
 Today Khazanah's portfolio is organised into an Investments Portfolio (private
 equity, real assets and public markets), a Dana Impak developmental portfolio,
@@ -134,11 +155,42 @@ the year and a 6.1% seven-year rolling annualised return. It returned RM2
 billion to the Federal Government as dividend in 2025, taking its cumulative
 dividend contribution since 2004 to RM21.1 billion. A year earlier, for 2024,
 net asset value stood at RM103.6 billion on a profit from operations of
-RM5.1 billion and a NAV time-weighted rate of return of 24.6%, with a
-dividend of RM1 billion paid for that year.
+RM5.1 billion and a NAV time-weighted rate of return of 24.6% — a figure well
+above its long-run average, which the fund attributed largely to fair-value
+gains and portfolio repositioning, and which followed a 5.7% return in 2023 —
+with a dividend of RM1 billion paid for that year and cumulative dividends to
+the Government of RM19.1 billion by then. Over the longer run, Khazanah reports
+RM93.1 billion in cumulative shareholder returns since 2004, and its NAV has
+grown from roughly RM33 billion in 2004 to more than RM104 billion, a compound
+annual growth rate of about 5.9%.
 
 That dividend line is the whole point: Khazanah's "customer" is the
 Government of Malaysia, not a pool of individual savers.
+
+## How Khazanah is structured: two funds
+
+Following a 2018 restructuring and mandate refresh, Khazanah pursues its
+mandate through two distinct funds. The **Commercial Fund** is an
+intergenerational fund that seeks long-term, risk-adjusted returns and
+diversifies the nation's revenue, including through global investments. The
+**Strategic Fund** is a developmental fund that holds strategic national assets
+and makes investments with long-term economic benefits — largely channelled
+through **Dana Impak**, whose themes (energy transition, digitalisation,
+connectivity, transforming local firms and building vibrant communities) are
+the pillars of Khazanah's longer-term **"Advancing Malaysia"** strategy.
+
+## What Khazanah does beyond financial returns
+
+Through Dana Impak, Khazanah channels capital into areas it considers important
+to Malaysia's future. Reported 2025 initiatives include **Jelawang Capital**, a
+national fund-of-funds whose first five fund managers backed more than 10
+start-ups and crowded in over RM30 million of capital; support for more than 40
+mid-tier companies to strengthen operations and productivity; and semiconductor
+and advanced-manufacturing partnerships, including Syntiant's Penang expansion,
+which doubled production capacity and created around 800 jobs. On the community
+side, Khazanah deployed RM330 million in 2025 for capability- and
+community-building — taking the cumulative total past RM2.7 billion since 2006 —
+and its K-Youth programme trained 9,934 young Malaysians during the year.
 
 ## Khazanah vs EPF vs PNB
 

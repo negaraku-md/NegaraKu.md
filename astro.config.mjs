@@ -80,6 +80,18 @@ const redirects = {
   '/glossary/orang-asli': '/arts-culture/orang-asli',
   '/en/glossary/orang-asli': '/en/arts-culture/orang-asli',
   '/zh/glossary/orang-asli': '/zh/arts-culture/orang-asli',
+  '/energy/tnb-tenaga-nasional': '/companies/tenaga-nasional',
+  '/en/energy/tnb-tenaga-nasional': '/en/companies/tenaga-nasional',
+  '/zh/energy/tnb-tenaga-nasional': '/zh/companies/tenaga-nasional',
+  '/companies/khazanah-nasional': '/economy/khazanah',
+  '/en/companies/khazanah-nasional': '/en/economy/khazanah',
+  '/zh/companies/khazanah-nasional': '/zh/economy/khazanah',
+  '/glossary/khazanah-nasional': '/economy/khazanah',
+  '/en/glossary/khazanah-nasional': '/en/economy/khazanah',
+  '/zh/glossary/khazanah-nasional': '/zh/economy/khazanah',
+  '/economy/deposit-insurance-pidm': '/finance/pidm-deposit-and-takaful-insurance-protection',
+  '/en/economy/deposit-insurance-pidm': '/en/finance/pidm-deposit-and-takaful-insurance-protection',
+  '/zh/economy/deposit-insurance-pidm': '/zh/finance/pidm-deposit-and-takaful-insurance-protection',
 };
 
 export default defineConfig({

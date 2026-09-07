@@ -5,6 +5,7 @@ seoTitle: "PIDM Explained: Deposit Insurance and Takaful/Insurance Protection in
 slug: "pidm-deposit-and-takaful-insurance-protection"
 category: "finance"
 subcategory: ["insurance"]
+alsoIn: ["economy"]
 summary: "How PIDM protects your money in Malaysia: bank deposits up to RM250,000 per depositor per member bank, and takaful/insurance benefits up to RM500,000 per benefit — automatically and free of charge."
 
 tier: "1"
@@ -58,6 +59,9 @@ sources:
   - title: "Deposit Insurance System — Frequently Asked Questions"
     url: "https://www.pidm.gov.my/general/faqs/deposit-insurance-system"
     publisher: "Perbadanan Insurans Deposit Malaysia (PIDM)"
+  - title: "About PIDM — Frequently Asked Questions"
+    url: "https://www.pidm.gov.my/general/faqs/about-pidm"
+    publisher: "Perbadanan Insurans Deposit Malaysia (PIDM)"
   - title: "Coverage For DIS"
     url: "https://www.pidm.gov.my/en/how-we-protect-you/deposit-insurance-system/coverage-for-dis"
     publisher: "Perbadanan Insurans Deposit Malaysia (PIDM)"
@@ -103,6 +107,15 @@ Its stated purpose is to promote and maintain confidence in the financial system
 - The **Takaful and Insurance Benefits Protection System (TIPS)** — protects the benefits under your takaful certificates and insurance policies.
 
 Both schemes exist so that if a member institution fails, ordinary consumers are not left carrying the loss. Membership is compulsory for the relevant institutions and protection is automatic — you do not have to opt in.
+
+## How is PIDM different from Bank Negara Malaysia?
+
+People often assume Bank Negara Malaysia guarantees their savings. It does not — the two bodies play different but complementary roles.
+
+- **Bank Negara Malaysia** is the central bank. It licenses, regulates and supervises financial institutions and sets the prudential rules meant to keep them healthy.
+- **PIDM** is the safety net and resolution authority. It insures consumers, holds early-intervention powers, and steps in to resolve a failing member institution — reimbursing eligible depositors and policy owners along the way.
+
+In short, Bank Negara tries to stop banks from failing; PIDM makes sure you are protected if one ever does. The two work alongside each other, and consumers pay nothing for either.
 
 ## How much of my bank deposit is protected?
 

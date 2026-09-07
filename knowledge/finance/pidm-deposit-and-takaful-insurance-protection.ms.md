@@ -5,6 +5,7 @@ seoTitle: "PIDM: Insurans Deposit & Manfaat Takaful/Insurans"
 slug: "pidm-deposit-and-takaful-insurance-protection"
 category: "finance"
 subcategory: ["insurance"]
+alsoIn: ["economy"]
 summary: "Bagaimana PIDM melindungi wang anda di Malaysia: deposit bank sehingga RM250,000 bagi setiap pendeposit bagi setiap bank ahli, dan manfaat takaful/insurans sehingga RM500,000 bagi setiap manfaat — secara automatik dan percuma."
 
 tier: "1"
@@ -38,7 +39,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ea1d79fb60f1d612"
+sourceContentHash: "6dadc68b3f5258f8"
 
 status: "published"
 aiAssisted: true
@@ -58,6 +59,9 @@ updated: 2026-08-14
 sources:
   - title: "Deposit Insurance System — Frequently Asked Questions"
     url: "https://www.pidm.gov.my/general/faqs/deposit-insurance-system"
+    publisher: "Perbadanan Insurans Deposit Malaysia (PIDM)"
+  - title: "About PIDM — Frequently Asked Questions"
+    url: "https://www.pidm.gov.my/general/faqs/about-pidm"
     publisher: "Perbadanan Insurans Deposit Malaysia (PIDM)"
   - title: "Coverage For DIS"
     url: "https://www.pidm.gov.my/en/how-we-protect-you/deposit-insurance-system/coverage-for-dis"
@@ -104,6 +108,15 @@ Tujuan yang dinyatakannya adalah untuk menggalakkan dan mengekalkan keyakinan te
 - **Sistem Perlindungan Manfaat Takaful dan Insurans (TIPS)** — melindungi manfaat di bawah sijil takaful dan polisi insurans anda.
 
 Kedua-dua skim ini wujud supaya jika sesebuah institusi ahli gagal, pengguna biasa tidak terpaksa menanggung kerugian. Keahlian adalah wajib bagi institusi yang berkaitan dan perlindungan adalah automatik — anda tidak perlu memilih untuk menyertainya.
+
+## Bagaimana PIDM berbeza daripada Bank Negara Malaysia?
+
+Ramai orang menganggap Bank Negara Malaysia menjamin simpanan mereka. Ia tidak — kedua-dua badan ini memainkan peranan yang berbeza tetapi saling melengkapi.
+
+- **Bank Negara Malaysia** ialah bank pusat. Ia melesenkan, mengawal selia, dan menyelia institusi kewangan serta menetapkan peraturan berhemat yang bertujuan memastikan institusi tersebut kekal sihat.
+- **PIDM** ialah jaring keselamatan dan pihak berkuasa penyelesaian. Ia menginsuranskan pengguna, memegang kuasa campur tangan awal, dan turun tangan untuk menyelesaikan institusi ahli yang gagal — sambil membayar balik pendeposit dan pemilik polisi yang layak.
+
+Ringkasnya, Bank Negara cuba menghalang bank daripada gagal; PIDM memastikan anda dilindungi jika sesebuah bank benar-benar gagal. Kedua-duanya berfungsi seiring, dan pengguna tidak membayar apa-apa untuk mana-mana satu.
 
 ## Berapa banyak deposit bank saya yang dilindungi?
 

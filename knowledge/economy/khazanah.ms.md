@@ -5,6 +5,7 @@ seoTitle: "Khazanah Nasional: Penjelasan Dana Kekayaan Negara Malaysia"
 slug: "khazanah"
 category: "economy"
 subcategory: ["institutions"]
+alsoIn: ["companies", "glossary"]
 summary: "Halaman entiti bagi Khazanah Nasional Berhad, dana kekayaan negara Malaysia — mandatnya, pemilikannya, portfolionya dan bagaimana ia berbeza daripada EPF dan PNB, dua Syarikat Pelaburan Berkaitan Kerajaan (GLIC) lain yang paling kerap dikelirukan dengannya."
 
 tier: "4"
@@ -27,7 +28,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "4bc3ca4f1cbbbf17"
+sourceContentHash: "bde519fccc17693d"
 
 status: "published"
 aiAssisted: true
@@ -70,6 +71,21 @@ sources:
   - title: "Employees Provident Fund Act 1991 (Act 452)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20452.pdf"
     publisher: "Attorney General's Chambers of Malaysia"
+  - title: "Khazanah Nasional Berhad — Member Profile"
+    url: "https://www.ifswf.org/member-profiles/khazanah-nasional"
+    publisher: "International Forum of Sovereign Wealth Funds (IFSWF)"
+  - title: "KNB 2022 — Santiago Principles Self-Assessment, Pillar 1: Legal"
+    url: "https://ifswf.org/print/pdf/node/4246"
+    publisher: "International Forum of Sovereign Wealth Funds (IFSWF) / Khazanah Nasional Berhad"
+  - title: "Khazanah Nasional Berhad company record (reg. 199301020767 / 0275505K, incorporated 1993-09-03)"
+    url: "https://businessreport.ctoscredit.com.my/oneoffreport_api/single-report/malaysia-company/0275505K/KHAZANAH-NASIONAL-BERHAD"
+    publisher: "CTOS (SSM-sourced company data)"
+  - title: "FAQs — What is the Minister of Finance (Incorporated)? (Government Investment Companies Division)"
+    url: "https://www.mof.gov.my/portal/pdf/bahagian/gic/faq-en.pdf"
+    publisher: "Ministry of Finance Malaysia (MOF)"
+  - title: "Khazanah posts RM5.1bil profit, RM103.6bil NAV in 2024"
+    url: "https://www.thestar.com.my/business/business-news/2025/02/05/khazanah-posts-rm51bil-profit-rm1036bil-nav-in-2024"
+    publisher: "The Star"
 
 entity: "Khazanah Nasional Berhad"
 relations:
@@ -90,6 +106,7 @@ keywords: ["Khazanah Nasional", "Malaysia sovereign wealth fund", "GLIC Malaysia
 | --- | --- |
 | Nama penuh | Khazanah Nasional Berhad |
 | Nombor pendaftaran | 199301020767 (275505-K) |
+| Diperbadankan | 3 September 1993, di bawah Akta Syarikat 1965 |
 | Jenis | Dana kekayaan negara, dimiliki sepenuhnya oleh MOF Inc |
 | Operasi bermula | 1994, sebagai pemegang amanah aset komersial Kerajaan |
 | Klasifikasi | Salah satu daripada enam Syarikat Pelaburan Berkaitan Kerajaan (GLIC) |
@@ -119,11 +136,16 @@ mereka terhutang.**
 
 ## Dari mana wang Khazanah datang — dan dari mana ia tidak datang
 
-Khazanah memulakan operasi pada 1994 dalam peranan sebagai pemegang amanah,
-menguruskan aset komersial sedia ada Kerajaan dan melabur dalam sektor
-strategik serta berteknologi tinggi. Pada dasarnya, ini bermakna modal
-permulaan Khazanah adalah pegangan saham Kerajaan sendiri dalam
-syarikat-syarikat — bukan wang yang dikutip daripada individu.
+Khazanah Nasional Berhad — *khazanah* ialah perkataan Melayu bagi
+"perbendaharaan" — diperbadankan di bawah Akta Syarikat 1965 pada 3 September
+1993 dan memulakan operasi pada tahun berikutnya dalam peranan sebagai pemegang
+amanah, menguruskan aset komersial sedia ada Kerajaan dan melabur dalam sektor
+strategik serta berteknologi tinggi. Kecuali satu saham yang dipegang oleh
+Pesuruhjaya Tanah Persekutuan, keseluruhan modal sahamnya dimiliki oleh MOF Inc,
+sebuah badan yang ditubuhkan di bawah Akta Menteri Kewangan (Pemerbadanan) 1957
+[Act 375]. Pada dasarnya, ini bermakna modal permulaan Khazanah adalah pegangan
+saham Kerajaan sendiri dalam syarikat-syarikat — bukan wang yang dikutip
+daripada individu.
 
 Hari ini portfolio Khazanah disusun kepada Portfolio Pelaburan (ekuiti
 persendirian, aset sebenar dan pasaran awam), portfolio pembangunan Dana
@@ -138,11 +160,47 @@ aset RM156 billion, dan keuntungan daripada operasi RM5.6 billion — pulangan
 pada 2025, menjadikan sumbangan dividen terkumpulnya sejak 2004 kepada
 RM21.1 billion. Setahun sebelumnya, bagi 2024, nilai aset bersih berada pada
 RM103.6 billion atas keuntungan daripada operasi RM5.1 billion dan kadar
-pulangan tahunan berwajaran masa (time-weighted) NAV sebanyak 24.6%, dengan
-dividen RM1 billion dibayar bagi tahun tersebut.
+pulangan tahunan berwajaran masa (time-weighted) NAV sebanyak 24.6% — angka
+yang jauh melebihi purata jangka panjangnya, yang dikaitkan oleh dana itu
+sebahagian besarnya dengan keuntungan nilai saksama dan penempatan semula
+portfolio, dan yang menyusuli pulangan 5.7% pada 2023 — dengan dividen RM1
+billion dibayar bagi tahun tersebut dan dividen terkumpul kepada Kerajaan
+sebanyak RM19.1 billion menjelang ketika itu. Dalam jangka lebih panjang,
+Khazanah melaporkan RM93.1 billion pulangan kumulatif kepada pemegang saham
+sejak 2004, dan NAV-nya telah berkembang daripada kira-kira RM33 billion pada
+2004 kepada lebih RM104 billion, iaitu kadar pertumbuhan tahunan terkompaun
+(CAGR) sekitar 5.9%.
 
 Baris dividen itulah intinya: "pelanggan" Khazanah ialah Kerajaan Malaysia,
 bukan kumpulan penabung individu.
+
+## Bagaimana Khazanah distrukturkan: dua dana
+
+Berikutan penstrukturan semula dan penyegaran mandat pada 2018, Khazanah
+melaksanakan mandatnya menerusi dua dana yang berbeza. **Dana Komersial** ialah
+dana antara generasi yang mensasarkan pulangan jangka panjang terselaras risiko
+dan mempelbagaikan hasil negara, termasuk menerusi pelaburan global. **Dana
+Strategik** ialah dana pembangunan yang memegang aset negara strategik dan
+membuat pelaburan yang bermanfaat dari segi ekonomi jangka panjang — sebahagian
+besarnya disalurkan melalui **Dana Impak**, yang temanya (peralihan tenaga,
+pendigitalan, kesalinghubungan, mentransformasi firma tempatan dan membina
+komuniti bersemangat) menjadi tunggak strategi jangka panjang **"Advancing
+Malaysia"** Khazanah.
+
+## Apa yang dilakukan Khazanah selain pulangan kewangan
+
+Menerusi Dana Impak, Khazanah menyalurkan modal ke bidang yang dianggapnya
+penting bagi masa depan Malaysia. Inisiatif 2025 yang dilaporkan termasuk
+**Jelawang Capital**, sebuah dana dana (fund-of-funds) kebangsaan yang lima
+pengurus dana pertamanya menyokong lebih 10 syarikat pemula dan mencetuskan
+lebih RM30 juta modal tambahan; sokongan untuk lebih 40 syarikat bersaiz
+sederhana bagi memperkukuh operasi dan produktiviti; serta perkongsian
+semikonduktor dan pembuatan termaju, termasuk perluasan Syntiant di Pulau Pinang
+yang menggandakan kapasiti pengeluaran dan mewujudkan kira-kira 800 pekerjaan.
+Dari segi komuniti, Khazanah menggunakan RM330 juta pada 2025 untuk inisiatif
+keupayaan dan komuniti — menjadikan jumlah terkumpul melebihi RM2.7 billion
+sejak 2006 — dan program K-Youth-nya melatih 9,934 belia Malaysia sepanjang
+tahun tersebut.
 
 ## Khazanah vs EPF vs PNB
 
