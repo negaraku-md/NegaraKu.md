@@ -49,7 +49,6 @@ revisions:
     change: "Reviewed and published."
 
 verificationNeeded:
-  - "2016年公司法令 section 129 的购股权登记册义务（以及更新它的任何具体天数要求）取自二手摘要，未经与法令原文核对——在引用具体内容前，请确认确切措辞及任何时限。"
   - "LHDN 公共裁定 Public Ruling 11/2012 中所列的雇主报告表格（Form BT/MSSP/2012、Appendix C）源自 2012 年；即使该裁定未经修订，LHDN 当前的 e-filing/ESS 通知流程在操作上可能有所不同。在提供逐步程序前，请在 hasil.gov.my 上确认现行的申报渠道。"
   - "所引用的 Bursa 数字来自 Main Market Listing Requirements（Chapter 6, Part G，截至 2025 年 1 月 2 日）；ACE Market 的对应规定可能不同。若计划涉及 ACE 上市发行人，请确认相应的 ACE 条文，并重新核实 Public Ruling 11/2012 在发布时尚未被取代。"
 

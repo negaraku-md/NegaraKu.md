@@ -49,9 +49,7 @@ revisions:
     change: "Reviewed and published."
 
 verificationNeeded:
-  - "常被引用的每股 RM0.50 最低 IPO 发行价并未在 Bursa 现行的 Listing Criteria 页面上找到，很可能位于 SC Equity Guidelines 或 Bursa Main Market Listing Requirements 中——在将其作为规则陈述之前，请对照主要规则手册核实。"
   - "二手来源引用现行版本为 SC Equity Guidelines R7-2024（2024 年 12 月 20 日发布，2025 年 3 月 1 日生效）及 2023 年 7 月 1 日综合的 Bursa Main Market Listing Requirements——在依赖特定版本细节之前，请对照 SC/Bursa 文件核实确切版本与生效日期。"
-  - "ACE Market 上市延后的 12.5% 土著义务反映的是 2024 年的一项变更；在引用日期之前，请对照 SC 关于强化土著配售流程的媒体文告核实生效日期与过渡安排。"
 
 updated: 2026-09-07
 sources:

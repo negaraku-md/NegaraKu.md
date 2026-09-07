@@ -48,9 +48,7 @@ revisions:
 
 verificationNeeded:
   - "Global Services Hub 的税率（新公司 0%/5%；现有公司就增值收入 5%/10%；非公民 C-suite 月薪 RM35,000 者 15% 个人税率）取决于 MIDA GS-Hub 指南；本仓库自身的记录指出，截至 2026 年 7 月 8 日，尚未找到 National Global Services Hub 的宪报颁布税率文书（指南称该文书仍有待制定）。在确认之前，所有 GSH 税率均应视为「依 MIDA 指南，宪报待颁」，并在发布前从 MIDA GS-Hub 指南 PDF 中提取各 tier 的确切运营开支及员工门槛。"
-  - "Principal Hub 3.0 的分级门槛（运营开支、高价值就业、关键职位、网络公司、实收资本）来自专业事务所对 Income Tax (Principal Hub Incentive Scheme) Rules 2022, P.U.(A) 164/2022 的摘要，而非对宪报的原始研读；PH 3.0 下合格服务的数量在各来源之间存在争议。由于 PH 已关闭，请将这些作为历史背景呈现，若陈述任何数字则对照宪报核实。"
   - "确认 Principal Hub 已关闭的状态：MIDA 的 Global Services Hub 指南记录 Principal Hub 于 2022 年 12 月 31 日结束，但 MIDA 的 Principal Hub 主页仍在发布，且部分咨询页面仍在重复那从未生效的「至 2025 年 12 月 31 日」延长说法。请依据 MIDA GSH 指南的效力陈述为已关闭。"
-  - "对于合并收入至少 EUR 750 million 的集团，马来西亚的 Domestic Top-Up Tax（国内补足税）（自 2025 年 1 月 1 日起生效）可侵蚀任何低于 15% 的优惠税率——在就实际效益提供建议前，请确认当前的 Pillar Two 互动关系。"
 
 updated: 2026-09-07
 sources:

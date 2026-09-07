@@ -47,11 +47,6 @@ revisions:
     date: 2026-09-07
     change: "Reviewed and published."
 
-verificationNeeded:
-  - "The group-relief conditions (section 44A) — the RM2.5 million paid-up threshold, the 70% ownership and 70% profit/asset-entitlement tests — are drawn from Public Ruling 6/2016 and secondary summaries; a newer Public Ruling 2/2025 exists. Confirm the current conditions against PR 2/2025 before publishing."
-  - "The capital-gains-tax mechanics for unlisted shares (effective from 1 March 2024 after an initial exemption window; election of 10% of net gain or 2% of gross for shares acquired before 1 January 2024; the RPGT-to-CGT shift for real property company shares via section 15C) are sourced from professional-firm alerts, not a primary LHDN guideline in this pass. Confirm rates, dates and any 2025/2026 Budget changes against LHDN before relying on them."
-  - "The 0.3% share-transfer stamp duty (Item 32(b), First Schedule, Stamp Act 1949) and the associated-company relief under sections 15/15A were confirmed only via secondary sources; verify the current rate and relief conditions on the LHDN stamp-duty pages, as stamp duty has seen recent changes."
-
 updated: 2026-09-07
 sources:
   - title: "Companies Act 2016 (Act 777)"

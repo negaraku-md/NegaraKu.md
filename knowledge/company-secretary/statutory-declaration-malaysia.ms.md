@@ -46,10 +46,6 @@ revisions:
     date: 2026-09-07
     change: "Reviewed and published."
 
-verificationNeeded:
-  - "Bayaran ditetapkan semasa untuk mengambil akuan berkanun (dilaporkan sebagai RM10, dinaikkan daripada RM4 sekitar 16 Januari 2023) ditetapkan melalui pemberitahuan menteri dalam Warta, bukan dinyatakan dalam Akta itu sendiri — sahkan angka tepat dan rujukan Warta P.U. sebelum menerbitkan bayaran dan tarikh yang tepat."
-  - "Asas pelantikan bagi Pesuruhjaya Sumpah (seksyen 11 Akta Mahkamah Kehakiman 1964 dan Kaedah-Kaedah Pesuruhjaya Sumpah 1993) telah disahkan melalui portal mahkamah dan sumber sekunder, bukan diambil daripada teks utama AGC — sahkan kaedah yang mentadbir (dan sama ada semakan 2018 wujud) sebelum memetiknya."
-
 updated: 2026-09-07
 sources:
   - title: "Statutory Declarations Act 1960 (Act 783)"

@@ -48,9 +48,7 @@ revisions:
 
 verificationNeeded:
   - "Kadar Global Services Hub (syarikat baharu 0%/5%; syarikat sedia ada 5%/10% ke atas pendapatan nilai tambah; kadar individu 15% untuk C-suite bukan warganegara pada RM35,000/bulan) bergantung pada garis panduan GS-Hub MIDA; rekod repo sendiri mencatatkan tiada instrumen kadar yang diwartakan untuk National Global Services Hub telah ditemui setakat 8 Julai 2026 (garis panduan menyatakan instrumen itu masih perlu dibuat). Anggap semua kadar GSH sebagai 'mengikut garis panduan MIDA, warta belum keluar' sehingga disahkan, dan ambil ambang perbelanjaan operasi dan pekerja setiap tier yang tepat daripada PDF garis panduan GS-Hub MIDA sebelum menerbitkan."
-  - "Ambang tier Principal Hub 3.0 (perbelanjaan operasi, pekerjaan bernilai tinggi, jawatan utama, syarikat rangkaian, modal berbayar) berasal daripada ringkasan firma profesional mengenai Income Tax (Principal Hub Incentive Scheme) Rules 2022, P.U.(A) 164/2022, bukan bacaan utama warta; bilangan perkhidmatan yang layak di bawah PH 3.0 dipertikaikan merentas sumber. Oleh kerana PH telah ditutup, kemukakan ini sebagai konteks sejarah dan sahkan terhadap warta jika sebarang angka dinyatakan."
   - "Sahkan status tutup Principal Hub: garis panduan Global Services Hub MIDA mencatatkan Principal Hub sebagai berakhir 31 Disember 2022, tetapi halaman utama Principal Hub MIDA masih diterbitkan dan sesetengah halaman nasihat masih mengulangi lanjutan 'sehingga 31 Disember 2025' yang tidak pernah dikuatkuasakan. Nyatakan sebagai ditutup berdasarkan kekuatan garis panduan GSH MIDA."
-  - "Bagi kumpulan dengan hasil disatukan sekurang-kurangnya EUR 750 million, Domestic Top-Up Tax (Cukai Tambahan Domestik) Malaysia (berkuat kuasa dari 1 Januari 2025) boleh menghakis sebarang kadar konsesi di bawah 15% — sahkan interaksi Pillar Two semasa sebelum menasihati mengenai manfaat berkesan."
 
 updated: 2026-09-07
 sources:

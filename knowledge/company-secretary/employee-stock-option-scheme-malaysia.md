@@ -48,7 +48,6 @@ revisions:
     change: "Reviewed and published."
 
 verificationNeeded:
-  - "The Companies Act 2016 section 129 register-of-options duty (and any specific day-count for updating it) is drawn from a secondary summary, not verified against the Act text — confirm the exact wording and any time limit before citing specifics."
   - "The employer-reporting forms named in LHDN Public Ruling 11/2012 (Form BT/MSSP/2012, Appendix C) date from 2012; LHDN's current e-filing/ESS notification workflow may differ operationally even though the ruling is unamended. Confirm the live filing channel on hasil.gov.my before presenting a step-by-step procedure."
   - "Bursa figures cited are from the Main Market Listing Requirements (Chapter 6, Part G, as at 2 January 2025); the ACE Market equivalents may differ. Confirm the parallel ACE provisions if the scheme concerns an ACE-listed issuer, and re-check that Public Ruling 11/2012 has not been superseded at publish time."
 

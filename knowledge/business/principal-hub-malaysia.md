@@ -47,9 +47,7 @@ revisions:
 
 verificationNeeded:
   - "The Global Services Hub rates (new company 0%/5%; existing company 5%/10% on value-added income; 15% individual rate for non-citizen C-suite at RM35,000/month) rest on the MIDA GS-Hub guideline; the repo's own record notes no gazetted rate instrument for the National Global Services Hub had been located as of 8 July 2026 (the guideline says the instrument is still to be made). Treat all GSH rates as 'per MIDA guideline, gazette pending' until confirmed, and pull the exact per-tier operating-expenditure and employee thresholds from the MIDA GS-Hub guideline PDF before publishing."
-  - "The Principal Hub 3.0 tier thresholds (operating expenditure, high-value jobs, key positions, network companies, paid-up capital) come from professional-firm summaries of the Income Tax (Principal Hub Incentive Scheme) Rules 2022, P.U.(A) 164/2022, not a primary read of the gazette; the number of qualifying services under PH 3.0 is disputed across sources. Since PH is closed, present these as historical context and verify against the gazette if any figure is stated."
   - "Confirm the Principal Hub closed status: MIDA's Global Services Hub guideline records the Principal Hub as ended 31 December 2022, but MIDA's Principal Hub landing page remains published and some advisory pages still repeat the never-enacted 'to 31 December 2025' extension. State as closed on the strength of the MIDA GSH guideline."
-  - "For groups with consolidated revenue of at least EUR 750 million, Malaysia's Domestic Top-Up Tax (in force from 1 January 2025) can erode any concessionary rate below 15% — confirm the current Pillar Two interaction before advising on the effective benefit."
 
 updated: 2026-09-07
 sources:

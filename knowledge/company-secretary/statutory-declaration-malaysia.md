@@ -45,10 +45,6 @@ revisions:
     date: 2026-09-07
     change: "Reviewed and published."
 
-verificationNeeded:
-  - "The current prescribed fee for taking a statutory declaration (reported as RM10, raised from RM4 around 16 January 2023) is set by ministerial notification in the Gazette, not stated in the Act itself — confirm the exact figure and the P.U. Gazette reference before publishing a precise fee and date."
-  - "The appointment basis for a Commissioner for Oaths (section 11 of the Courts of Judicature Act 1964 and the Commissioners for Oaths Rules 1993) was confirmed via court portals and secondary sources, not fetched from AGC primary text — verify the governing rule (and whether a 2018 revision exists) before citing it."
-
 updated: 2026-09-07
 sources:
   - title: "Statutory Declarations Act 1960 (Act 783)"

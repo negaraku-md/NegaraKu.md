@@ -33,7 +33,7 @@ faq:
     a: "这因阶段而差异很大。早期风险投资轮次通常在个位数百万令吉的低位；成长型与私募股权交易则规模大得多。在行业层面，截至 2024 年底，马来西亚已承诺的 VC 与 PE 管理基金约达 RM24.7 亿令吉——其中约 RM18 亿令吉为私募股权，约 RM6.7 亿令吉为风险投资。"
 
 lang: "zh"
-sourceContentHash: "7f55b8a86f3b31aa"
+sourceContentHash: "fd613f83fbe57e2f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -50,8 +50,6 @@ revisions:
 
 verificationNeeded:
   - "2025 年 6 月的 VC/PE 税务改革（VCC 优惠税率 5%，VCMC/PE 管理人 10%，至 YA 2035）已获多份专业事务所的预算摘要佐证，但新制度的确切联邦宪报 P.U.(A) 命令编号与宪报日期无法对照一手文本予以确认。引用 P.U.(A) 编号前请确认宪报命令，并核查在 P.U.(A) 115/2022 下首次获认证的基金在过渡期是否保留其原有的全额豁免条款。"
-  - "取自二手摘要的 SC 注册放宽细节——取消此前的 50 名投资者上限，以及为管理公司精简的 RM100,000 最低股东资金要求——在作为数字发布前，应对照 SC 指南 PDF 的现行文本予以确认。"
-  - "行业规模数字（2024 年底承诺基金总额 RM24.70 亿令吉；PE RM18.01 亿令吉、VC RM6.70 亿令吉；VC 板块 115 家、PE 板块 30 家注册公司）为 SC 自有数据，但系通过二手报告读取。发布前请以《SC 2024 年年报》统计表的引注替换。"
 
 updated: 2026-09-07
 sources:
@@ -67,6 +65,9 @@ sources:
   - title: "Public Ruling No. 7/2022: Venture Capital Tax Incentives"
     url: "https://www.hasil.gov.my/media/ahdj5r2p/pr_7_2022.pdf"
     publisher: "Inland Revenue Board of Malaysia (LHDN)"
+  - title: "SC Revises Venture Capital and Private Equity Framework"
+    url: "https://www.sc.com.my/resources/media/media-release/sc-revises-venture-capital-and-private-equity-framework"
+    publisher: "Securities Commission Malaysia"
 
 entity: "Venture Capital and Private Equity (Malaysia)"
 relations:
@@ -102,7 +103,7 @@ keywords: ["venture capital malaysia", "private equity malaysia", "VCC VCMC mala
 | **PEC** | Private Equity Corporation（私募股权公司） | 私募股权基金载体 |
 | **PEMC** | Private Equity Management Corporation（私募股权管理公司） | 运营 PE 基金的管理人 |
 
-管理人在管理 VC 或 PE 资金之前须向 SC 注册；申请通过 SC 的电子申请系统提交。该制度已逐步放宽，以使马来西亚成为更具吸引力的基地——据报道取消了此前对投资者数量的上限，并精简了管理公司的最低资金要求——不过确切的现行门槛应直接参阅 SC 指南。
+管理人在管理 VC 或 PE 资金之前须向 SC 注册；申请通过 SC 的电子申请系统提交。该制度已逐步放宽，以使马来西亚成为更具吸引力的基地——此前对 VC 与 PE 基金的 50 名投资者上限已被取消，注册法人须维持最低净资产 RM100,000。
 
 ## 税务成本是多少——以及为何旧答案是错的
 

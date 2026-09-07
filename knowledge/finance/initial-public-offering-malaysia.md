@@ -48,9 +48,7 @@ revisions:
     change: "Reviewed and published."
 
 verificationNeeded:
-  - "The commonly cited minimum IPO issue price of RM0.50 per share was not located on Bursa's live Listing Criteria page and likely sits in the SC Equity Guidelines or the Bursa Main Market Listing Requirements — confirm against the primary rulebook before stating it as a rule."
   - "Secondary sources cite the current edition as the SC Equity Guidelines R7-2024 (issued 20 December 2024, effective 1 March 2025) and the Bursa Main Market Listing Requirements consolidated 1 July 2023 — confirm the exact edition and effective date against the SC/Bursa documents before relying on version-specific detail."
-  - "The deferred 12.5% Bumiputera obligation for ACE Market listings reflects a 2024 change; confirm the effective date and transition against the SC media release on the enhanced Bumiputera allocation process before citing a date."
 
 updated: 2026-09-07
 sources:

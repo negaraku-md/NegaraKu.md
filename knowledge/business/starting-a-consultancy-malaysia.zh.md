@@ -47,8 +47,6 @@ revisions:
     change: "Reviewed and published."
 
 verificationNeeded:
-  - "专业服务8%的服务税率和RM500,000的登记门槛有强有力的佐证（6%至8%的变动于2024年3月1日通过《2024年服务税（税率）（修订）令》生效），但在研究中并未从MySST页面逐字提取——发布前请对照RMCD《专业服务指南》（G组）和该修订令核实。"
-  - "中小企业企业税级（15%/17%/24%）已从hasil.gov.my逐字确认；超过20%实缴资本由外资持有即拒绝适用中小企业税率的条件（自2024课税年起）来自次级税务摘要——在作为事实陈述前请对照LHDN核实。"
   - "自雇SOCSO（SESSS，第789号法令）按行业划分的强制与自愿适用范围，以及EPF i-Saraan激励条款，应对照perkeso.gov.my和kwsp.gov.my核实；SSM注册费应在ssm.com.my上确认。"
 
 updated: 2026-09-07

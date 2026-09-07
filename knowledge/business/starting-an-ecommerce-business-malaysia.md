@@ -12,23 +12,23 @@ mode: "practical"
 contentType: "guide"
 sensitivity: "none"
 
-answer: "Selling online in Malaysia still requires registering with SSM — even a home-based or marketplace-only seller must register within 30 days, as a sole proprietor or a Sdn Bhd. There is no separate 'online business licence.' A seller must then comply with the Consumer Protection (Electronic Trade Transactions) Regulations 2024 (displaying name, registration number, contact and clear pricing) and the Personal Data Protection Act 2010, and handle tax — including the 10% low-value-goods tax on imported goods. E-invoicing currently applies only to businesses with turnover above RM1 million."
+answer: "Selling online in Malaysia still requires registering with SSM — even a home-based or marketplace-only seller must register within 30 days, as a sole proprietor or a Sdn Bhd. There is no separate 'online business licence.' A seller must then comply with the Consumer Protection (Electronic Trade Transaction) Regulations 2024 (displaying name, contact details, address, full price and terms) and the Personal Data Protection Act 2010, and handle tax — including the 10% low-value-goods tax on imported goods. E-invoicing currently applies only to businesses with turnover above RM3 million."
 keyTakeaways:
   - "Even a home-based or marketplace-only online seller must register with SSM within 30 days of starting — there is no separate online-business licence."
-  - "The Consumer Protection (Electronic Trade Transactions) Regulations 2024 replaced the old 2012 rules and require online sellers to display their name, registration number, contact details and clear pricing."
+  - "The Consumer Protection (Electronic Trade Transaction) Regulations 2024 replaced the old 2012 rules and require online sellers to display their name, contact details, address, full price and terms — but not, contrary to common belief, their business registration number."
   - "The low-value-goods (LVG) tax is 10% on imported goods valued at RM500 or less sold online; sellers exceeding RM500,000 of LVG in 12 months must register."
-  - "E-invoicing now applies only to businesses with turnover above RM1 million (the exemption was raised from RM500,000, and the final phase was cancelled) — so most small online sellers are currently exempt."
+  - "E-invoicing now applies only to businesses with turnover above RM3 million (the exemption has been raised in stages from RM500,000) — so most small online sellers are currently exempt."
 appliesTo: "Anyone starting an online store, dropshipping, or marketplace-based business in Malaysia; existing online sellers checking their registration, consumer-protection and tax obligations."
 
 faq:
   - q: "Do I need to register an online business in Malaysia?"
     a: "Yes. Any business carried on for profit — including online, home-based, and marketplace-only selling — must be registered with SSM within 30 days of starting, either as a sole proprietorship or partnership under the Registration of Businesses Act 1956, or as a Sdn Bhd under the Companies Act 2016. Trading without registration is an offence. There is no separate 'e-commerce licence'; SSM registration is the baseline requirement."
   - q: "What must an online seller display to customers in Malaysia?"
-    a: "Under the Consumer Protection (Electronic Trade Transactions) Regulations 2024, an online seller or marketplace supplier must disclose their name, business or company registration number (or NRIC where applicable), email address, telephone number and business address, along with a clear description, price and terms for each product. These rules replaced the earlier 2012 regulations in December 2024."
+    a: "Under the Consumer Protection (Electronic Trade Transaction) Regulations 2024, an online seller or marketplace supplier must disclose their name, email address, telephone number and business address, along with a clear description, the full price (including delivery, taxes and other costs), the payment method and the terms and conditions of sale. Notably, the public-disclosure list does not include the business or company registration number — that is kept in a marketplace operator's records, not displayed. These rules replaced the earlier 2012 regulations in December 2024."
   - q: "Is there tax on goods I import to sell online in Malaysia?"
     a: "Yes, the low-value-goods (LVG) sales tax. Goods valued at RM500 or less that are imported into Malaysia and sold online are taxed at 10%. Online sellers — local or foreign — whose LVG sales into Malaysia exceed RM500,000 over a 12-month period must register with Customs and charge the tax. It took effect on 1 January 2024 and mainly affects dropshippers and cross-border sellers."
   - q: "Does a small online business need to issue e-invoices in Malaysia?"
-    a: "Currently, only if its annual turnover exceeds RM1 million. The e-invoicing exemption threshold was raised from RM500,000 to RM1 million (effective 1 January 2026) and the final phase for the smallest businesses was cancelled, so most small online sellers are exempt for now. Because this schedule has already changed more than once, confirm the current position on the LHDN e-Invoice page."
+    a: "Currently, only if its annual turnover exceeds RM3 million. The e-invoicing exemption threshold has been raised in stages — from RM500,000, to RM1 million, and to RM3 million per the LHDN e-Invoice FAQ dated September 2026 — with an interim relaxation for taxpayers up to RM5 million to 31 December 2027, so most small online sellers are exempt for now. Because this schedule has already moved several times, confirm the current position on the LHDN e-Invoice page."
   - q: "Do I need a licence to accept online payments in Malaysia?"
     a: "As a seller, no. You onboard with a payment gateway, which handles a business-verification step; it is the payment gateway operator that must be approved by Bank Negara Malaysia, not you. Depending on what you sell, sector-specific rules may still apply — for example cosmetics and health products need notification to the relevant regulator regardless of selling channel."
 
@@ -48,13 +48,13 @@ revisions:
     change: "Reviewed and published."
 
 verificationNeeded:
-  - "E-invoicing thresholds and phase dates are highly volatile: the RM1 million exemption (effective 1 January 2026), the cancellation of the final phase, and the RM1m–RM5m mandate from 1 January 2026 with a relaxation period to 31 December 2026 are from December 2025 reporting and were not confirmed against a rendered LHDN e-Invoice guideline in research. Re-check hasil.gov.my before publishing any threshold or date."
-  - "The Consumer Protection (Electronic Trade Transactions) Regulations 2024 (P.U.(A) 449/2024) disclosure list and the status of the Bahasa Malaysia listing-language requirement (enforcement reported as postponed/under review) should be confirmed verbatim against the AGC text before quoting specific clauses; likewise confirm the PDPA 2024 amendment specifics (breach-notification effective date, DPO appointment threshold) against pdp.gov.my."
+  - "E-invoicing thresholds are highly volatile — the exemption has moved from RM500,000 to RM1 million and now to RM3 million (per the LHDN e-Invoice FAQ dated 4 September 2026), with an interim relaxation for taxpayers up to RM5 million to 31 December 2027. Re-check the current LHDN e-Invoice guideline/FAQ on hasil.gov.my before relying on any threshold or date."
+  - "The status of the Bahasa Malaysia listing-language requirement under the Consumer Protection (Electronic Trade Transaction) Regulations 2024 (enforcement reported as postponed/under review), and the PDPA 2024 amendment specifics (breach-notification effective date, DPO appointment threshold), should be confirmed against pdp.gov.my and the AGC before relying on specifics."
   - "SSM registration fees (RM30/RM60) and the current SST/digital-service-tax rates and thresholds should be confirmed against the official ssm.com.my and RMCD pages at publish time. Warn readers that lookalike domains such as ssm-ezbiz-style resellers are not the official SSM site (ssm.com.my / ezbiz.ssm.com.my)."
 
 updated: 2026-09-07
 sources:
-  - title: "Consumer Protection (Electronic Trade Transactions) Regulations 2024 (P.U.(A) 449/2024)"
+  - title: "Consumer Protection (Electronic Trade Transaction) Regulations 2024 (P.U.(A) 449/2024)"
     url: "https://lom.agc.gov.my/"
     publisher: "Attorney General's Chambers of Malaysia"
   - title: "Sales Tax on Imported Low-Value Goods Sold Online (press release)"
@@ -99,12 +99,14 @@ This is where many guides are out of date. The old Consumer Protection (Electron
 An online seller or marketplace supplier must **display**:
 
 - the seller's **name** (individual, company or business name);
-- the **business or company registration number** (or NRIC where applicable);
-- an **email address**;
-- a **telephone number**; and
-- a **business address**,
+- an **email address** and **telephone number**;
+- the **business address**;
+- a clear **description** of the goods or services;
+- the **full price**, including delivery, taxes and any other cost;
+- the **method of payment**; and
+- the **terms and conditions** of sale, and estimated delivery time.
 
-together with a clear description, price and terms for each product. The 2024 rules also introduced a requirement to list products in **Bahasa Malaysia** — though enforcement of the language rule has been reported as postponed or under review, so treat that element as unsettled. Penalties for non-compliance run up to RM50,000 for a first offence. See the consumer-protection guide for the wider framework.
+One thing the rules do *not* require you to display: the gazette's public-disclosure list does **not** include your business or company registration number. That number sits in the separate records a marketplace operator must keep, not in what a seller shows the customer — a point widely misstated online. The 2024 rules also introduced a requirement to list products in **Bahasa Malaysia** — though enforcement of the language rule has been reported as postponed or under review, so treat that element as unsettled. Penalties for non-compliance run up to RM50,000 for a first offence. See the consumer-protection guide for the wider framework.
 
 ## Step 3: Handle customer data lawfully (PDPA)
 
@@ -118,7 +120,7 @@ Three tax points matter for an online business:
 
 - **Low-value goods (LVG) tax.** If you import and sell low-value goods online, a **10% sales tax** applies to goods valued at **RM500 or less**. Sellers whose LVG sales into Malaysia exceed **RM500,000 in 12 months** must register with Customs and charge it. This took effect on 1 January 2024 and mainly hits **dropshippers and cross-border sellers**.
 - **Ordinary SST.** A domestic seller of local goods deals with the standard sales tax rules, subject to the usual **RM500,000** registration threshold for a taxable person; a seller of digital services registers for the 8% service tax once supplies to Malaysian consumers exceed RM500,000. See the SST guides.
-- **E-invoicing.** LHDN's e-invoice mandate now applies **only to businesses with turnover above RM1 million** — the exemption was raised from RM500,000 (effective 1 January 2026) and the final phase for the smallest businesses was cancelled. So **most small online sellers are currently exempt** — but this schedule has already changed twice, so check the LHDN e-Invoice page for your turnover band.
+- **E-invoicing.** LHDN's e-invoice mandate now exempts businesses with turnover **up to RM3 million** — the exemption has been raised in stages (from RM500,000, to RM1 million, and to **RM3 million** per the LHDN e-Invoice FAQ dated September 2026), with an interim relaxation for taxpayers up to RM5 million running to 31 December 2027. So **most small online sellers are currently exempt** — but this schedule has already moved several times, so check the LHDN e-Invoice page for your turnover band.
 
 ## Marketplace or your own store?
 
@@ -128,6 +130,6 @@ Running **your own store** gives you control and margin but puts the full weight
 
 ## What's next
 
-Sequence it simply: register with SSM first (within 30 days, on the official site); build the mandatory disclosure — name, registration number, contact details, clear pricing — into your storefront and every marketplace listing; put a proper privacy notice and consent flow in place before you take a single order; and watch the two tax thresholds that apply to you (LVG at RM500,000 if you import, e-invoicing at RM1 million of turnover).
+Sequence it simply: register with SSM first (within 30 days, on the official site); build the mandatory disclosure — name, contact details, address, full price and terms — into your storefront and every marketplace listing; put a proper privacy notice and consent flow in place before you take a single order; and watch the two tax thresholds that apply to you (LVG at RM500,000 if you import, e-invoicing at RM3 million of turnover).
 
 Because the e-commerce disclosure rules changed in December 2024 and the e-invoicing thresholds moved in December 2025, verify both against the AGC and LHDN sources before you rely on any specific figure here. The linked guides on consumer protection, the PDPA and SST carry the detail for each area.

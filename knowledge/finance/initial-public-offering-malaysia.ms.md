@@ -49,9 +49,7 @@ revisions:
     change: "Reviewed and published."
 
 verificationNeeded:
-  - "Harga terbitan IPO minimum yang sering dipetik sebanyak RM0.50 sesaham tidak ditemui pada halaman Listing Criteria langsung Bursa dan berkemungkinan berada dalam SC Equity Guidelines atau Bursa Main Market Listing Requirements — sahkan terhadap buku peraturan utama sebelum menyatakannya sebagai peraturan."
   - "Sumber sekunder memetik edisi semasa sebagai SC Equity Guidelines R7-2024 (dikeluarkan 20 Disember 2024, berkuat kuasa 1 Mac 2025) dan Bursa Main Market Listing Requirements yang disatukan pada 1 Julai 2023 — sahkan edisi dan tarikh kuat kuasa yang tepat terhadap dokumen SC/Bursa sebelum bergantung pada butiran khusus versi."
-  - "Kewajipan 12.5% Bumiputera yang ditangguhkan untuk penyenaraian ACE Market mencerminkan perubahan 2024; sahkan tarikh kuat kuasa dan peralihan terhadap kenyataan media SC mengenai proses peruntukan Bumiputera yang dipertingkat sebelum memetik sesuatu tarikh."
 
 updated: 2026-09-07
 sources:

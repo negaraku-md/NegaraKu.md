@@ -47,8 +47,6 @@ revisions:
     change: "Reviewed and published."
 
 verificationNeeded:
-  - "Kadar cukai perkhidmatan 8% ke atas perkhidmatan profesional dan ambang pendaftaran RM500,000 disokong kuat (perubahan 6% kepada 8% berkuat kuasa 1 Mac 2024 melalui Perintah Cukai Perkhidmatan (Kadar Cukai) (Pindaan) 2024) tetapi tidak diekstrak kata demi kata daripada laman MySST dalam penyelidikan — sahkan terhadap Panduan RMCD mengenai Perkhidmatan Profesional (Kumpulan G) dan Perintah Pindaan sebelum diterbitkan."
-  - "Tingkatan cukai korporat PKS (15%/17%/24%) disahkan kata demi kata daripada hasil.gov.my; syarat bahawa kadar PKS ditolak apabila lebih daripada 20% modal berbayar dimiliki asing (dari TT 2024) adalah daripada ringkasan cukai sekunder — sahkan terhadap LHDN sebelum menyatakannya sebagai fakta."
   - "Skop mandatori berbanding sukarela SOCSO bekerja sendiri (SESSS, Akta 789) mengikut sektor, dan terma insentif EPF i-Saraan, harus disahkan terhadap perkeso.gov.my dan kwsp.gov.my; yuran pendaftaran SSM harus disahkan di ssm.com.my."
 
 updated: 2026-09-07

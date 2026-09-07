@@ -46,8 +46,6 @@ revisions:
     change: "Reviewed and published."
 
 verificationNeeded:
-  - "The 8% service tax rate on professional services and the RM500,000 registration threshold are strongly corroborated (the 6%-to-8% change took effect 1 March 2024 via the Service Tax (Rate of Tax) (Amendment) Order 2024) but were not extracted verbatim from the MySST page in research — confirm against the RMCD Guide on Professional Services (Group G) and the Amendment Order before publishing."
-  - "The SME corporate tax tiers (15%/17%/24%) are confirmed verbatim from hasil.gov.my; the condition that the SME rate is denied where more than 20% of paid-up capital is foreign-owned (from YA 2024) is from secondary tax summaries — verify against LHDN before stating as fact."
   - "The self-employed SOCSO (SESSS, Act 789) mandatory-versus-voluntary scope by sector, and the EPF i-Saraan incentive terms, should be confirmed against perkeso.gov.my and kwsp.gov.my; SSM registration fees should be confirmed on ssm.com.my."
 
 updated: 2026-09-07

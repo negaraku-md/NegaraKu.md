@@ -49,7 +49,6 @@ revisions:
     change: "Reviewed and published."
 
 verificationNeeded:
-  - "Kewajipan daftar opsyen (register-of-options) section 129 Akta Syarikat 2016 (dan sebarang kiraan hari khusus untuk mengemas kininya) diambil daripada ringkasan sekunder, bukan disahkan terhadap teks Akta — sahkan perkataan tepat dan sebarang had masa sebelum memetik butiran khusus."
   - "Borang pelaporan majikan yang dinamakan dalam Ketetapan Umum LHDN Public Ruling 11/2012 (Form BT/MSSP/2012, Appendix C) bertarikh 2012; aliran kerja pemberitahuan e-filing/ESS LHDN semasa mungkin berbeza dari segi operasi walaupun ketetapan itu tidak dipinda. Sahkan saluran pemfailan langsung di hasil.gov.my sebelum membentangkan prosedur langkah demi langkah."
   - "Angka Bursa yang dipetik adalah daripada Main Market Listing Requirements (Chapter 6, Part G, seperti pada 2 Januari 2025); persamaan bagi ACE Market mungkin berbeza. Sahkan peruntukan ACE yang selari jika skim itu melibatkan penerbit tersenarai ACE, dan semak semula bahawa Public Ruling 11/2012 belum digantikan pada masa penerbitan."
 

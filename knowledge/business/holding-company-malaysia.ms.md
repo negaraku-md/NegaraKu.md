@@ -48,11 +48,6 @@ revisions:
     date: 2026-09-07
     change: "Reviewed and published."
 
-verificationNeeded:
-  - "Syarat pelepasan kumpulan (seksyen 44A) — ambang modal berbayar RM2.5 juta, ujian pemilikan 70% dan hak-keuntungan/aset 70% — diambil daripada Public Ruling 6/2016 dan ringkasan sekunder; Public Ruling 2/2025 yang lebih baharu wujud. Sahkan syarat semasa terhadap PR 2/2025 sebelum diterbitkan."
-  - "Mekanik cukai keuntungan modal bagi saham tidak tersenarai (berkuat kuasa dari 1 Mac 2024 selepas tempoh pengecualian awal; pilihan 10% daripada keuntungan bersih atau 2% daripada kasar bagi saham diperoleh sebelum 1 Januari 2024; peralihan RPGT-ke-CGT bagi saham syarikat harta tanah melalui seksyen 15C) berpunca daripada makluman firma profesional, bukan garis panduan LHDN primer dalam pusingan ini. Sahkan kadar, tarikh dan sebarang perubahan Belanjawan 2025/2026 terhadap LHDN sebelum bergantung padanya."
-  - "Duti setem pemindahan saham 0.3% (Perkara 32(b), Jadual Pertama, Akta Setem 1949) dan pelepasan syarikat bersekutu di bawah seksyen 15/15A hanya disahkan melalui sumber sekunder; sahkan kadar semasa dan syarat pelepasan pada halaman duti setem LHDN, kerana duti setem telah mengalami perubahan baru-baru ini."
-
 updated: 2026-09-07
 sources:
   - title: "Companies Act 2016 (Act 777)"

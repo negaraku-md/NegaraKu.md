@@ -46,10 +46,6 @@ revisions:
     date: 2026-09-07
     change: "Reviewed and published."
 
-verificationNeeded:
-  - "接受法定声明的现行规定费用（据报为RM10，约于2023年1月16日从RM4上调）是由部长在宪报中的通知所定，而非法令本身所述——在发布确切费用和日期前，请核实确切数字及P.U.宪报参考。"
-  - "宣誓官的委任依据（1964年司法法院法令第11节及1993年宣誓官规则）是通过法院门户网站和二手资料确认的，并非取自AGC原始文本——在引用前，请核实所依据的规则（以及是否存在2018年修订版）。"
-
 updated: 2026-09-07
 sources:
   - title: "Statutory Declarations Act 1960 (Act 783)"

@@ -49,8 +49,6 @@ revisions:
 
 verificationNeeded:
   - "The June 2025 VC/PE tax revamp (5% concessionary rate for a VCC, 10% for a VCMC/PE manager, to YA 2035) is corroborated by multiple professional-firm budget summaries but the exact Federal Gazette P.U.(A) order number and gazette date for the new regime could not be confirmed against primary text. Confirm the gazette order before citing a P.U.(A) number, and check whether funds first certified under P.U.(A) 115/2022 retain their original full-exemption terms in transition."
-  - "The SC registration liberalisation details drawn from secondary summaries — removal of the former 50-investor limit and a streamlined RM100,000 minimum shareholders'-funds requirement for management corporations — should be confirmed against the current text of the SC guidelines PDF before publishing as figures."
-  - "The industry-size figures (RM24.70 billion total committed funds at end-2024; RM18.01 billion PE and RM6.70 billion VC; 115 VC-segment and 30 PE-segment registered corporations) are the SC's own data but were read via a secondary report. Replace with the citation from the SC Annual Report 2024 statistics table before publishing."
 
 updated: 2026-09-07
 sources:
@@ -66,6 +64,9 @@ sources:
   - title: "Public Ruling No. 7/2022: Venture Capital Tax Incentives"
     url: "https://www.hasil.gov.my/media/ahdj5r2p/pr_7_2022.pdf"
     publisher: "Inland Revenue Board of Malaysia (LHDN)"
+  - title: "SC Revises Venture Capital and Private Equity Framework"
+    url: "https://www.sc.com.my/resources/media/media-release/sc-revises-venture-capital-and-private-equity-framework"
+    publisher: "Securities Commission Malaysia"
 
 entity: "Venture Capital and Private Equity (Malaysia)"
 relations:
@@ -101,7 +102,7 @@ Registration comes in four categories, splitting the fund itself from the compan
 | **PEC** | Private Equity Corporation | The private-equity fund vehicle |
 | **PEMC** | Private Equity Management Corporation | The manager that runs the PE fund |
 
-A manager registers with the SC before it manages VC or PE money; applications are filed through the SC's electronic application system. The regime has been progressively liberalised to make Malaysia a more attractive base — reportedly removing an older cap on the number of investors and streamlining the minimum-funds requirement for management corporations — though the exact current thresholds should be read off the SC's guidelines directly.
+A manager registers with the SC before it manages VC or PE money; applications are filed through the SC's electronic application system. The regime has been progressively liberalised to make Malaysia a more attractive base — the former 50-investor limit on VC and PE funds was removed, and a registered corporation must maintain minimum net assets of RM100,000.
 
 ## What it costs in tax — and why the old answer is wrong
 

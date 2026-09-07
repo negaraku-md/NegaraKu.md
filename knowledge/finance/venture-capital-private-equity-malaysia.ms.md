@@ -33,7 +33,7 @@ faq:
     a: "Ia berbeza-beza mengikut peringkat. Pusingan teroka peringkat awal biasanya dalam lingkungan beberapa juta ringgit sahaja; urus niaga pertumbuhan dan ekuiti persendirian jauh lebih besar. Pada peringkat industri, dana VC dan PE yang dikomitkan di bawah pengurusan di Malaysia berjumlah kira-kira RM24.7 bilion pada akhir 2024 — kira-kira RM18 bilion dalam ekuiti persendirian dan RM6.7 bilion dalam modal teroka."
 
 lang: "ms"
-sourceContentHash: "7f55b8a86f3b31aa"
+sourceContentHash: "fd613f83fbe57e2f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -50,8 +50,6 @@ revisions:
 
 verificationNeeded:
   - "Rombakan cukai VC/PE Jun 2025 (kadar konsesi 5% untuk VCC, 10% untuk pengurus VCMC/PE, sehingga YA 2035) disokong oleh pelbagai ringkasan belanjawan firma profesional tetapi nombor perintah Warta Persekutuan P.U.(A) dan tarikh warta yang tepat untuk rejim baharu ini tidak dapat disahkan berbanding teks primer. Sahkan perintah warta sebelum memetik nombor P.U.(A), dan semak sama ada dana yang mula-mula diperakui di bawah P.U.(A) 115/2022 mengekalkan terma pengecualian penuh asalnya dalam peralihan."
-  - "Butiran liberalisasi pendaftaran SC yang diambil daripada ringkasan sekunder — pemansuhan had 50 pelabur yang dahulu dan keperluan dana pemegang saham minimum RM100,000 yang diperkemas untuk perbadanan pengurusan — harus disahkan berbanding teks semasa PDF garis panduan SC sebelum diterbitkan sebagai angka."
-  - "Angka saiz industri (RM24.70 bilion jumlah dana yang dikomitkan pada akhir 2024; RM18.01 bilion PE dan RM6.70 bilion VC; 115 perbadanan berdaftar segmen VC dan 30 segmen PE) ialah data SC sendiri tetapi dibaca melalui laporan sekunder. Gantikan dengan petikan daripada jadual statistik Laporan Tahunan SC 2024 sebelum diterbitkan."
 
 updated: 2026-09-07
 sources:
@@ -67,6 +65,9 @@ sources:
   - title: "Public Ruling No. 7/2022: Venture Capital Tax Incentives"
     url: "https://www.hasil.gov.my/media/ahdj5r2p/pr_7_2022.pdf"
     publisher: "Inland Revenue Board of Malaysia (LHDN)"
+  - title: "SC Revises Venture Capital and Private Equity Framework"
+    url: "https://www.sc.com.my/resources/media/media-release/sc-revises-venture-capital-and-private-equity-framework"
+    publisher: "Securities Commission Malaysia"
 
 entity: "Venture Capital and Private Equity (Malaysia)"
 relations:
@@ -102,7 +103,7 @@ Pendaftaran terbahagi kepada empat kategori, memisahkan dana itu sendiri daripad
 | **PEC** | Private Equity Corporation (Perbadanan Ekuiti Persendirian) | Kenderaan dana ekuiti persendirian |
 | **PEMC** | Private Equity Management Corporation (Perbadanan Pengurusan Ekuiti Persendirian) | Pengurus yang mengendalikan dana PE |
 
-Seorang pengurus mendaftar dengan SC sebelum ia menguruskan wang VC atau PE; permohonan difailkan melalui sistem permohonan elektronik SC. Rejim ini telah diliberalisasikan secara berperingkat untuk menjadikan Malaysia pangkalan yang lebih menarik — dilaporkan memansuhkan had lama pada bilangan pelabur dan memperkemas keperluan dana minimum untuk perbadanan pengurusan — walaupun ambang semasa yang tepat harus dibaca terus daripada garis panduan SC.
+Seorang pengurus mendaftar dengan SC sebelum ia menguruskan wang VC atau PE; permohonan difailkan melalui sistem permohonan elektronik SC. Rejim ini telah diliberalisasikan secara berperingkat untuk menjadikan Malaysia pangkalan yang lebih menarik — had 50 pelabur ke atas dana VC dan PE yang dahulu telah dimansuhkan, dan sebuah perbadanan berdaftar mesti mengekalkan aset bersih minimum RM100,000.
 
 ## Apa kosnya dari segi cukai — dan mengapa jawapan lama itu salah
 
