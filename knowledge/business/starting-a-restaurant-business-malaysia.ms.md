@@ -26,14 +26,14 @@ faq:
   - q: "Adakah pekerja restoran memerlukan sijil pengendali makanan di Malaysia?"
     a: "Ya. Di bawah Akta Makanan 1983 dan Peraturan-Peraturan Kebersihan Makanan 2009, semua pengendali makanan mesti menghadiri kursus latihan pengendali makanan di sekolah yang diiktiraf oleh Kementerian Kesihatan, dan mesti diimunkan terhadap tifoid oleh pengamal perubatan berdaftar. Ini adalah keperluan undang-undang untuk mengendalikan premis makanan, disemak oleh Kementerian Kesihatan."
   - q: "Berapakah cukai perkhidmatan ke atas makanan restoran di Malaysia?"
-    a: "Cukai perkhidmatan ke atas makanan dan minuman yang disediakan dan dihidangkan oleh restoran ialah 6%. Ini adalah pengecualian kepada kadar cukai perkhidmatan am, yang naik kepada 8% bagi kebanyakan perkhidmatan pada 2024 — F&B kekal pada 6%. Sebuah restoran mesti mendaftar untuk cukai perkhidmatan sebaik sahaja jumlah perolehan F&B-nya melebihi RM1,500,000 dalam tempoh 12 bulan; di bawah itu ia tidak mengenakan cukai perkhidmatan."
+    a: "Cukai perkhidmatan ke atas makanan yang disediakan dan minuman tidak beralkohol yang dihidangkan oleh restoran ialah 6% — satu pengecualian kepada kadar am, yang naik kepada 8% bagi kebanyakan perkhidmatan pada 2024. Minuman beralkohol ialah pengecualian khusus: apabila dihidangkan atau dijual sebagai item yang berasingan dan diperincikan berasingan, ia dikenakan cukai pada 8%, bukan 6% (hanya alkohol di dalam pakej harga tunggal mengikut kadar F&B 6%). Sebuah restoran mesti mendaftar untuk cukai perkhidmatan sebaik sahaja jumlah perolehan F&B-nya melebihi RM1,500,000 dalam tempoh 12 bulan; di bawah itu ia tidak mengenakan cukai perkhidmatan."
   - q: "Bolehkah warga asing membuka restoran di Malaysia?"
     a: "Ya, tetapi bukan sebagai pemilikan tunggal atau enterpris, yang terhad kepada warganegara Malaysia dan pemastautin tetap. Pemilik asing mesti memperbadankan syarikat sendirian berhad (Sdn Bhd), dan perniagaan F&B milik asing secara amnya juga memerlukan lesen Borong, Runcit dan Perdagangan (WRT) daripada Kementerian Perdagangan Dalam Negeri, yang membawa keperluan modal berbayar minimum."
   - q: "Berapakah gaji minimum untuk staf restoran di Malaysia?"
     a: "Gaji minimum kebangsaan ialah RM1,700 sebulan, ditetapkan oleh Perintah Gaji Minimum 2024. Ia terpakai kepada majikan dengan lima atau lebih pekerja mulai 1 Februari 2025, dan kepada semua majikan yang selebihnya mulai 1 Ogos 2025 — jadi mulai Ogos 2025 ia meliputi hampir setiap restoran tanpa mengira saiz."
 
 lang: "ms"
-sourceContentHash: "ae31b5227ff37276"
+sourceContentHash: "8140436515390d62"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -51,7 +51,7 @@ revisions:
 verificationNeeded:
   - "Yuran pendaftaran perniagaan dan pihak berkuasa tempatan (yuran enterpris/Sdn Bhd SSM; yuran lesen premis dan papan tanda PBT, yang berbeza mengikut majlis dan keluasan lantai) adalah indikatif daripada panduan sekunder — sahkan terhadap jadual yuran SSM dan pihak berkuasa tempatan tertentu (DBKL/MBPJ/MBSA) sebelum menerbitkan angka."
   - "Nombor peraturan tepat untuk latihan pengendali makanan dan vaksinasi tifoid (biasanya dipetik sebagai peraturan 30 dan 31 Peraturan-Peraturan Kebersihan Makanan 2009), perubahan sijil 'sah sepanjang hayat', dan selang pembaharuan tifoid harus disahkan verbatim terhadap Peraturan-Peraturan Kebersihan Makanan 2009 yang diterbitkan AGC sebelum memetik nombor tertentu."
-  - "Sahkan layanan cukai perkhidmatan ke atas minuman beralkohol yang dihidangkan (dilaporkan pada 8% berbanding 6% untuk makanan) terhadap Panduan Cukai Perkhidmatan RMCD semasa mengenai Makanan & Minuman. Secara berasingan, tarikh akhir 30 hari SOCSO/EIS yang biasa dipetik untuk majikan baharu mendaftar tidak dapat disokong terhadap sumber utama PERKESO — satu-satunya tempoh 30 hari yang ditemui terpakai kepada penamatan status majikan, bukan pendaftaran majikan baharu — jadi sahkan pemasaan pendaftaran semasa dengan PERKESO. (Tarikh akhir pendaftaran EPF 7 hari disahkan: seksyen 41(1), Akta KWSP 1991.)"
+  - "Tarikh akhir 30 hari SOCSO/EIS yang biasa dipetik untuk majikan baharu mendaftar tidak dapat disokong terhadap sumber utama PERKESO — satu-satunya tempoh 30 hari yang ditemui terpakai kepada penamatan status majikan, bukan pendaftaran majikan baharu — jadi sahkan pemasaan pendaftaran semasa dengan PERKESO."
 
 updated: 2026-09-07
 sources:
@@ -70,6 +70,9 @@ sources:
   - title: "Employer Registration Responsibilities (EPF Act 1991, section 41)"
     url: "https://www.kwsp.gov.my/en/employer/responsibilities/registration"
     publisher: "Employees Provident Fund (KWSP)"
+  - title: "Panduan Makanan & Minuman (Guide on Food & Beverages) V7 (19 April 2024)"
+    url: "https://mysst.customs.gov.my/industryguides/"
+    publisher: "Royal Malaysian Customs Department (RMCD)"
 
 entity: "Restaurant / F&B Business (Malaysia)"
 relations:
@@ -120,7 +123,7 @@ Jika anda melayani pelanggan Muslim, **pensijilan halal** daripada **JAKIM** ada
 
 Makanan restoran adalah **perkhidmatan bercukai**. Angka utama:
 
-- **kadar cukai perkhidmatan ke atas F&B ialah 6%** — yang pentingnya, ini adalah *pengecualian* kepada kadar am yang naik kepada 8% bagi kebanyakan perkhidmatan pada 2024; makanan dan minuman kekal pada 6%; dan
+- **kadar cukai perkhidmatan ke atas makanan yang disediakan dan minuman tidak beralkohol ialah 6%** — satu *pengecualian* kepada kadar am yang naik kepada 8% bagi kebanyakan perkhidmatan pada 2024. Satu pengecualian khusus yang perlu diberi perhatian: **minuman beralkohol** yang dihidangkan atau dijual sebagai item yang berasingan dan diperincikan berasingan dikenakan cukai pada **8%**, bukan 6% (hanya alkohol yang digabungkan di dalam pakej harga tunggal mengikut kadar F&B 6%); dan
 - anda mesti **mendaftar untuk cukai perkhidmatan sebaik sahaja perolehan F&B anda melebihi RM1,500,000** dalam tempoh 12 bulan. Di bawah itu, anda tidak mendaftar mahupun mengenakannya.
 
 Daftar melalui portal **MySST** RMCD, dan lihat panduan SST untuk cara pemfailan dan penyata SST-02 berfungsi.

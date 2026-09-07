@@ -26,7 +26,7 @@ faq:
   - q: "Do restaurant workers need a food handler certificate in Malaysia?"
     a: "Yes. Under the Food Act 1983 and the Food Hygiene Regulations 2009, all food handlers must attend a food-handler training course at a school recognised by the Ministry of Health, and must be immunised against typhoid by a registered medical practitioner. These are legal requirements to operate a food premises, checked by the Ministry of Health."
   - q: "How much is service tax on restaurant food in Malaysia?"
-    a: "Service tax on food and drinks prepared and served by a restaurant is 6%. This is an exception to the general service tax rate, which rose to 8% for most services in 2024 — F&B stays at 6%. A restaurant must register for service tax once its total F&B turnover exceeds RM1,500,000 over a 12-month period; below that it does not charge service tax."
+    a: "Service tax on prepared food and non-alcoholic drinks served by a restaurant is 6% — an exception to the general rate, which rose to 8% for most services in 2024. Alcoholic beverages are the carve-out: served or sold as separate, itemised items they are taxed at 8%, not 6% (only alcohol inside a single-priced package follows the 6% F&B rate). A restaurant must register for service tax once its total F&B turnover exceeds RM1,500,000 over a 12-month period; below that it does not charge service tax."
   - q: "Can a foreigner open a restaurant in Malaysia?"
     a: "Yes, but not as a sole proprietorship or enterprise, which are limited to Malaysian citizens and permanent residents. A foreign owner must incorporate a private limited company (Sdn Bhd), and a foreign-owned F&B business generally also needs a Wholesale, Retail and Trade (WRT) licence from the Ministry of Domestic Trade, which carries a minimum paid-up capital requirement."
   - q: "What is the minimum wage for restaurant staff in Malaysia?"
@@ -50,7 +50,7 @@ revisions:
 verificationNeeded:
   - "Business-registration and local-council fees (SSM enterprise/Sdn Bhd fees; PBT premise and signboard licence fees, which vary by council and floor area) are indicative from secondary guides — confirm against SSM's fee schedule and the specific local authority (DBKL/MBPJ/MBSA) before publishing figures."
   - "The exact regulation numbers for food-handler training and typhoid vaccination (commonly cited as regulations 30 and 31 of the Food Hygiene Regulations 2009), the 'valid for life' certificate change, and the typhoid renewal interval should be confirmed verbatim against the AGC-published Food Hygiene Regulations 2009 before citing specific numbers."
-  - "Confirm the service-tax treatment of served alcoholic beverages (reported at 8% versus 6% for food) against the current RMCD Service Tax Guide on Food & Beverages. Separately, the commonly-cited 30-day SOCSO/EIS deadline for a new employer to register could not be substantiated against PERKESO primary sources — the only 30-day period found applies to cessation of employer status, not new-employer registration — so verify the current registration timing with PERKESO. (The EPF 7-day registration deadline is confirmed: section 41(1), EPF Act 1991.)"
+  - "The commonly-cited 30-day SOCSO/EIS deadline for a new employer to register could not be substantiated against PERKESO primary sources — the only 30-day period found applies to cessation of employer status, not new-employer registration — so verify the current registration timing with PERKESO."
 
 updated: 2026-09-07
 sources:
@@ -69,6 +69,9 @@ sources:
   - title: "Employer Registration Responsibilities (EPF Act 1991, section 41)"
     url: "https://www.kwsp.gov.my/en/employer/responsibilities/registration"
     publisher: "Employees Provident Fund (KWSP)"
+  - title: "Panduan Makanan & Minuman (Guide on Food & Beverages) V7 (19 April 2024)"
+    url: "https://mysst.customs.gov.my/industryguides/"
+    publisher: "Royal Malaysian Customs Department (RMCD)"
 
 entity: "Restaurant / F&B Business (Malaysia)"
 relations:
@@ -119,7 +122,7 @@ If you serve Muslim customers, **halal certification** from **JAKIM** is a major
 
 Restaurant food is a **taxable service**. The key numbers:
 
-- the **service tax rate on F&B is 6%** — importantly, this is an *exception* to the general rate that rose to 8% for most services in 2024; food and drink stayed at 6%; and
+- the **service tax rate on prepared food and non-alcoholic drinks is 6%** — an *exception* to the general rate that rose to 8% for most services in 2024. One carve-out to note: **alcoholic beverages** served or sold as separate, itemised items are taxed at **8%**, not 6% (only alcohol bundled inside a single-priced package follows the 6% F&B rate); and
 - you must **register for service tax once your F&B turnover exceeds RM1,500,000** over a 12-month period. Below that, you neither register nor charge it.
 
 Register through the RMCD **MySST** portal, and see the SST guides for how filing and the SST-02 return work.
