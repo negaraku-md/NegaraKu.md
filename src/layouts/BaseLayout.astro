@@ -1,5 +1,14 @@
 ---
 import '@/styles/global.css';
+// Self-hosted brand fonts (Fontsource, latin subset). Vite fingerprints and
+// bundles the woff2; no third-party request for the Latin fonts. Weights match
+// --font-title (Montserrat 600–900) and --font-reading (Lato 400/700).
+import '@fontsource/montserrat/latin-600.css';
+import '@fontsource/montserrat/latin-700.css';
+import '@fontsource/montserrat/latin-800.css';
+import '@fontsource/montserrat/latin-900.css';
+import '@fontsource/lato/latin-400.css';
+import '@fontsource/lato/latin-700.css';
 import Header from '@/components/Header.astro';
 import Footer from '@/components/Footer.astro';
 import MaintenanceView from '@/components/MaintenanceView.astro';
@@ -138,29 +147,35 @@ const ogImageAlt = image ? title : 'NegaraKu.md — knowledge base about Malaysi
       href={localePath('/rss.xml', locale)}
     />
 
-    {/* Fonts — preload the stylesheet at high priority so the web-font discovery
-        and woff2 fetch start immediately, then apply it non-render-blocking so the
-        page still shows at once with the system-font fallback. The preload pulls
-        the font swap (and the text LCP) earlier without blocking first paint. */}
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      rel="preload"
-      as="style"
-      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800;900&family=Lato:wght@400;700&family=Noto+Sans+SC:wght@400;500;700&display=swap"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800;900&family=Lato:wght@400;700&family=Noto+Sans+SC:wght@400;500;700&display=swap"
-      media="print"
-      onload="this.media='all'"
-    />
-    <noscript>
-      <link
-        rel="stylesheet"
-        href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800;900&family=Lato:wght@400;700&family=Noto+Sans+SC:wght@400;500;700&display=swap"
-      />
-    </noscript>
+    {/* Latin brand fonts (Montserrat + Lato) are self-hosted via Fontsource
+        (imported in the frontmatter, bundled by Vite) — no third-party font
+        request. The CJK reading fallback (Noto Sans SC) is heavy (~11 MB self-
+        hosted), so it stays on Google Fonts but loads only on zh pages, non-
+        render-blocking. ms/en pages therefore make zero third-party font
+        requests; any stray CJK glyph there uses the system CJK fallback. */}
+    {locale === 'zh' && (
+      <>
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link
+          rel="preload"
+          as="style"
+          href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&display=swap"
+        />
+        <link
+          rel="stylesheet"
+          href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&display=swap"
+          media="print"
+          onload="this.media='all'"
+        />
+        <noscript>
+          <link
+            rel="stylesheet"
+            href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&display=swap"
+          />
+        </noscript>
+      </>
+    )}
 
     {jsonLd && <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />}
   </head>
