@@ -45,6 +45,7 @@ const all = argv.includes('--all'); // target every published master
 const named = argv.includes('--named'); // restrict targets to named-entity articles (people/orgs/laws/…)
 const summary = argv.includes('--summary'); // one line per target, no per-candidate detail — for a corpus triage
 const plan = argv.includes('--plan'); // machine-readable: one TSV row per candidate (source, target, cat, term, line)
+const unique = argv.includes('--unique'); // drop targets whose entity/abbr is shared by another published master
 const ri = argv.indexOf('--recent');
 const recentN = ri >= 0 ? parseInt(argv[ri + 1], 10) || 10 : 0;
 const explicit = argv.filter((a, i) => !a.startsWith('--') && argv[i - 1] !== '--recent');
@@ -88,6 +89,44 @@ for (const rel of readdirSync(KDIR, { recursive: true })) {
 }
 const pub = arts.filter((a) => a.status === 'published');
 const bySlug = new Map(pub.map((a) => [a.slug, a]));
+
+// ---- duplicate-entity detection (for --unique) ------------------------------
+// The corpus carries the same body/Act/company written up more than once across
+// categories (e.g. PDRM ×3, Petronas ×3). Wiring an entity link is only quality
+// work once that entity has ONE canonical article, so --unique drops any target
+// whose entity name (or a title abbreviation) is shared by another published
+// master — leaving only the entities that are safe to link right now.
+const normEnt = (s) => (s || '').toLowerCase().replace(/\s*\([^)]*\)/g, '').trim();
+const entCount = new Map();
+const abbrCount = new Map();
+for (const a of pub) {
+  const k = normEnt(a.entity);
+  if (k) entCount.set(k, (entCount.get(k) || 0) + 1);
+  const seen = new Set();
+  for (const m of (a.title || '').matchAll(/\(([A-Z][A-Za-z]{1,6})\)/g)) {
+    const ab = m[1].toUpperCase();
+    if (seen.has(ab)) continue;
+    seen.add(ab);
+    abbrCount.set(ab, (abbrCount.get(ab) || 0) + 1);
+  }
+}
+// Short abbreviation-stub slugs (e.g. "jpn", "pdrm", "ma63") are the other half
+// of a dup pair whose long-form profile carries the same token — catch those too.
+const stubSlugs = new Set(pub.filter((a) => a.slug.length <= 6 && a.entity).map((a) => a.slug));
+const shareStub = (slug) => {
+  for (const s of stubSlugs) {
+    if (s === slug) continue;
+    if (slug === s || slug.startsWith(s + '-') || slug.endsWith('-' + s) || slug.includes('-' + s + '-')) return true;
+  }
+  return false;
+};
+const hasDuplicate = (a) => {
+  if (entCount.get(normEnt(a.entity)) >= 2) return true;
+  for (const m of (a.title || '').matchAll(/\(([A-Z][A-Za-z]{1,6})\)/g)) {
+    if (abbrCount.get(m[1].toUpperCase()) >= 2) return true;
+  }
+  return shareStub(a.slug);
+};
 
 // ---- helpers ----------------------------------------------------------------
 const GENERIC = new Set(['malaysia', 'the', 'and', 'of', 'in', 'law', 'tax', 'business']);
@@ -143,6 +182,7 @@ if (all || named) {
 // company, place, event). Their titles/entities are proper nouns, so a prose
 // match is almost always a real reference — the highest-precision slice.
 if (named) targets = targets.filter((t) => t.entity);
+if (unique) targets = targets.filter((t) => !hasDuplicate(t));
 if (!targets.length) {
   console.log(
     'Usage: node scripts/suggest-crosslinks.mjs <published-slug> [...]  |  --recent <N>  |  --all  |  --named  [--summary] [--outbound]',
@@ -186,7 +226,9 @@ for (const tgt of targets) {
 
   const broadFlag = inbound.length > BROAD;
   if (plan) {
-    // TSV rows for tooling: source-master | target-slug | target-category | term | body-line | snippet
+    // TSV rows for tooling. Broad targets (common nouns) are noise for wiring — skip them.
+    if (broadFlag) continue;
+    // source-master | target-slug | target-category | term | body-line | snippet
     for (const c of inbound) {
       console.log(`PLAN\t${c.src}\t${tgt.slug}\t${tgt.cat}\t${c.term}\t${c.n}\t${c.text.slice(0, 140).replace(/\t/g, ' ')}`);
     }
