@@ -53,6 +53,18 @@ const redirects = {
   '/government/ministry-of-investment-trade-industry-miti': '/government/miti',
   '/en/government/ministry-of-investment-trade-industry-miti': '/en/government/miti',
   '/zh/government/ministry-of-investment-trade-industry-miti': '/zh/government/miti',
+  '/glossary/bank-negara-malaysia': '/economy/bank-negara-malaysia',
+  '/en/glossary/bank-negara-malaysia': '/en/economy/bank-negara-malaysia',
+  '/zh/glossary/bank-negara-malaysia': '/zh/economy/bank-negara-malaysia',
+  '/government/bank-negara-malaysia': '/economy/bank-negara-malaysia',
+  '/en/government/bank-negara-malaysia': '/en/economy/bank-negara-malaysia',
+  '/zh/government/bank-negara-malaysia': '/zh/economy/bank-negara-malaysia',
+  '/energy/petronas': '/companies/petronas',
+  '/en/energy/petronas': '/en/companies/petronas',
+  '/zh/energy/petronas': '/zh/companies/petronas',
+  '/industries/petronas-industry-profile': '/companies/petronas',
+  '/en/industries/petronas-industry-profile': '/en/companies/petronas',
+  '/zh/industries/petronas-industry-profile': '/zh/companies/petronas',
 };
 
 export default defineConfig({

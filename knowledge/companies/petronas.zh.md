@@ -5,6 +5,7 @@ seoTitle: "国家石油公司（Petronas）：法律基础、结构与石油收�
 slug: "petronas"
 category: "companies"
 subcategory: ["petroleum"]
+alsoIn: ["energy", "industries"]
 summary: "马来西亚国家石油有限公司（Petroliam Nasional Berhad，简称 Petronas）是马来西亚的国家石油公司，依据《1974 年石油开发法令》获得对马来西亚陆上及近海一切石油的专属权利。本指南客观阐述其法律基础、公司结构、财政角色，以及联邦与州属之间的石油收益争议。"
 
 tier: "1"
@@ -34,7 +35,7 @@ faq:
     a: "两州都依据 1975 年协议主张 5% 的开采权益金。登嘉楼获得付款（尽管 2000 年前后曾改为'恩恤金'（wang ehsan），并于 2009 年恢复），而吉兰丹 2010 年的法庭诉讼于 2019 年被撤销。关键问题在于相关油井究竟位于州属水域（三海里界限内）还是在联邦管辖范围内。"
 
 lang: "zh"
-sourceContentHash: "ca4f6e6468387717"
+sourceContentHash: "fee9c9760c973ad8"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -46,6 +47,7 @@ reviewDue: 2027-08-03
 revision: 0
 verificationNeeded:
   - "2024 年的确切财务数字（营收约 RM320 bilion、净利约 RM55.1 bilion，以及 2023 年的对比 RM343.6 bilion / RM80.7 bilion）——请对照 2025 年 2 月 5 日公布的 PETRONAS FY2024 集团财务业绩（官方 PDF 文件）核实。"
+  - "2024 年新增数字（总资产 RM766.7 bilion；政府贡献总额 RM72.4 bilion，细分为 RM32.0b 股息 + RM26.8b 税款 + RM13.1b 现金付款 + RM0.5b 国家信托基金）——请对照 PETRONAS Integrated Report 2024 核实。累计数字（自 1974 年以来对国家累计贡献约 RM1.5 trillion；对国家信托基金累计缴款约 RM13.5 bilion）由 Petronas 自行报告，未经独立核实。"
   - "砂拉越「每年最多 RM20 bilion」的收入估算——属分析师估算，而非官方数字；请核实来源与计算依据。"
   - "源自或经由Sarawak的Petronas液化天然气货物百分比——由于没有获证实的主要来源，具体数字已被删除。"
   - "Petronas与各州之间5%特许权补充协议（1975-76）的确切日期与内容。"
@@ -66,6 +68,9 @@ sources:
     publisher: "PETRONAS"
   - title: "PETRONAS Group Financial Results (FY2024, announced 5 February 2025)"
     url: "https://www.petronas.com/investor-relations/financial-results"
+    publisher: "PETRONAS"
+  - title: "PETRONAS Integrated Report 2024"
+    url: "https://www.petronas.com/integrated-report-2024/assets/pdf/2024/PETRONAS-Integrated-Report-2024.pdf"
     publisher: "PETRONAS"
   - title: "Petronas committed to maintaining dividend payment of RM32 bln this year"
     url: "https://www.mof.gov.my/portal/en/news/press-citations/petronas-committed-to-maintaining-dividend-payment-of-rm32-bln-this-year-amir-hamzah"
@@ -153,7 +158,20 @@ keywords: ["Petronas", "Petroliam Nasional Berhad", "Akta Kemajuan Petroleum 197
 
 - **营收：** 约 3200 亿令吉（较 2023 年的 3436 亿令吉下降约 7%）
 - **净利：** 约 551 亿令吉（较 2023 年的 807 亿令吉下降，因平均销售价格走低）
+- **总资产：** 7667 亿令吉
 - **派发给政府的股息：** 2025 年承诺 320 亿令吉（财政部长 2025 年 2 月声明）；后续年份的金额据称将取决于国家石油公司的财务表现和石油市场状况
+
+不过，320 亿令吉股息只是国家石油公司输送给政府的一部分。在 2024 年，国家石油公司对马来西亚政府的贡献总额达到 **724 亿令吉**，由以下部分构成：
+
+| 贡献组成部分（2024 年） | 金额 |
+| --- | --- |
+| 股息 | 320 亿令吉 |
+| 税款 | 268 亿令吉 |
+| 现金付款 | 131 亿令吉 |
+| 国家信托基金（Kumpulan Wang Amanah Negara）贡献 | 5 亿令吉 |
+| **对政府的贡献总额** | **724 亿令吉** |
+
+国家石油公司还是 **国家信托基金（Kumpulan Wang Amanah Negara，National Trust Fund）的唯一贡献者**，该基金是国家为后代设立的储蓄池；据国家石油公司称，截至 2024 年其对该基金的累计缴款约为 135 亿令吉。国家石油公司进一步报告称，自 1974 年以来，它对国家的累计贡献——以股息、税款和现金付款形式——已达到约 **1.5 万亿令吉**（这一累计数字由国家石油公司自行报告，未经独立核实）。
 
 来自国家石油公司的股息和税款持续贡献联邦政府收入的很大一部分——这一事实解释了为何任何对这一收入来源的威胁都会在内阁层面引起担忧。
 

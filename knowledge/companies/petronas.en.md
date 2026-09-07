@@ -5,6 +5,7 @@ seoTitle: "Petronas: Legal Basis, Structure & Petroleum Revenue Disputes"
 slug: "petronas"
 category: "companies"
 subcategory: ["petroleum"]
+alsoIn: ["energy", "industries"]
 summary: "Petroliam Nasional Berhad (Petronas) is Malaysia's national oil company, granted exclusive rights over all petroleum onshore and offshore through the Petroleum Development Act 1974. This guide explains its legal basis, corporate structure, fiscal role, and the federal-state petroleum revenue disputes in a balanced way."
 
 tier: "1"
@@ -34,7 +35,7 @@ faq:
     a: "Both states claim a 5% royalty based on a 1975 agreement. Terengganu receives payments (though these were once converted to 'goodwill money' around 2000 and restored in 2009), while Kelantan's 2010 court claim was withdrawn in 2019. The core issue is whether the wells in question lie within state waters (the three-nautical-mile limit) or under federal jurisdiction."
 
 lang: "en"
-sourceContentHash: "ca4f6e6468387717"
+sourceContentHash: "fee9c9760c973ad8"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -46,6 +47,7 @@ reviewDue: 2027-08-03
 revision: 0
 verificationNeeded:
   - "The exact 2024 financial figures (revenue ~RM320 billion, net profit ~RM55.1 billion, and the 2023 comparison of RM343.6 billion / RM80.7 billion) — confirm against the PETRONAS Group Financial Results FY2024 announced on 5 February 2025 (official PDF document)."
+  - "Additional 2024 figures (total assets RM766.7 billion; total government contribution RM72.4 billion broken down as RM32.0bn dividend + RM26.8bn taxes + RM13.1bn cash payments + RM0.5bn National Trust Fund) — confirm against the PETRONAS Integrated Report 2024. The cumulative figures (~RM1.5 trillion to the nation since 1974; ~RM13.5 billion into the National Trust Fund) are self-reported by Petronas and not independently verified."
   - "Anggaran hasil 'sehingga RM20 bilion setahun' untuk Sarawak — anggaran penganalisis, bukan angka rasmi; sahkan sumber dan asas pengiraan."
   - "The percentage of Petronas LNG cargo originating from or passing through Sarawak — the specific figure was removed because there is no confirmed primary source."
   - "Tarikh dan kandungan tepat perjanjian tambahan royalti 5% (1975-76) antara Petronas dan negeri-negeri."
@@ -66,6 +68,9 @@ sources:
     publisher: "PETRONAS"
   - title: "PETRONAS Group Financial Results (FY2024, announced 5 February 2025)"
     url: "https://www.petronas.com/investor-relations/financial-results"
+    publisher: "PETRONAS"
+  - title: "PETRONAS Integrated Report 2024"
+    url: "https://www.petronas.com/integrated-report-2024/assets/pdf/2024/PETRONAS-Integrated-Report-2024.pdf"
     publisher: "PETRONAS"
   - title: "Petronas committed to maintaining dividend payment of RM32 bln this year"
     url: "https://www.mof.gov.my/portal/en/news/press-citations/petronas-committed-to-maintaining-dividend-payment-of-rm32-bln-this-year-amir-hamzah"
@@ -153,7 +158,20 @@ The financial figures for financial year 2024 give a picture of its scale (pleas
 
 - **Revenue:** around RM320 billion (down about 7% from RM343.6 billion in 2023)
 - **Net profit:** around RM55.1 billion (down from RM80.7 billion in 2023, following lower average selling prices)
+- **Total assets:** RM766.7 billion
 - **Dividend to government:** a commitment of RM32 billion for 2025 (statement by the Minister of Finance, February 2025); the amount for subsequent years was stated to depend on Petronas's financial performance and oil market conditions
+
+The RM32 billion dividend, however, is only part of what Petronas channels to the government. For 2024, Petronas's total contribution to the Government of Malaysia reached **RM72.4 billion**, made up of:
+
+| Contribution component (2024) | Amount |
+| --- | --- |
+| Dividend | RM32.0 billion |
+| Taxes | RM26.8 billion |
+| Cash payments | RM13.1 billion |
+| National Trust Fund contribution | RM0.5 billion |
+| **Total contribution to government** | **RM72.4 billion** |
+
+Petronas also remains the **sole contributor to the National Trust Fund** (Kumpulan Wang Amanah Negara), the country's savings pool for future generations; according to Petronas, its cumulative payments into the fund reached about RM13.5 billion as of 2024. Petronas further reports that its cumulative contribution to the nation since 1974 — in dividends, taxes and cash payments — has reached about **RM1.5 trillion** (this cumulative figure is self-reported by Petronas and not independently verified).
 
 Dividends and taxes from Petronas consistently contribute a large part of the Federal Government's revenue — a fact that explains why any threat to this revenue stream raises concern at cabinet level.
 

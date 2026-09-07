@@ -5,6 +5,7 @@ seoTitle: "国家银行：角色、权力与限制"
 slug: "bank-negara-malaysia"
 category: "economy"
 subcategory: ["institutions"]
+alsoIn: ["government", "glossary"]
 summary: "国家银行（Bank Negara Malaysia）机构实体页——其依据 Central Bank of Malaysia Act 2009 而定的法定宗旨与九项主要职能、其治理方式、它执行的法律，以及在其职权范围之外的金融事务。"
 
 tier: "4"
@@ -30,7 +31,7 @@ faq:
 
 verificationNeeded: []
 lang: "zh"
-sourceContentHash: "83e47670250a0ac8"
+sourceContentHash: "d7cdda88b95f694a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -53,9 +54,15 @@ sources:
   - title: "Central Bank of Malaysia Act 2009 (Act 701), incorporating amendments up to Act A1616/2020"
     url: "https://www.bnm.gov.my/documents/20124/277ebcd5-9c21-209b-3984-170ba28351d6"
     publisher: "Bank Negara Malaysia"
+  - title: "Central Bank of Malaysia Act 2009 (Act 701) — Laws of Malaysia, updated text as at 1 November 2020"
+    url: "https://www.investmalaysia.gov.my/media/sbqpwvem/central-bank-of-malaysia-act-2009.pdf"
+    publisher: "Government of Malaysia (Laws of Malaysia reprint)"
   - title: "Act 701 — Central Bank of Malaysia Act 2009 (act detail)"
     url: "https://lom.agc.gov.my/act-detail.php?act=701&lang=BI"
     publisher: "Attorney General's Chambers of Malaysia"
+  - title: "Foreign Exchange Policy"
+    url: "https://www.bnm.gov.my/fep"
+    publisher: "Bank Negara Malaysia"
   - title: "Legislation — laws administered by the Bank"
     url: "https://www.bnm.gov.my/legislation"
     publisher: "Bank Negara Malaysia"
@@ -163,6 +170,20 @@ MPC 每年须至少召开六次会议（First Schedule（第一附表）第 3 �
 个单一数字如何影响你的贷款，详见
 [隔夜政策利率](/zh/economy/opr-monetary-policy)。
 
+## BNM 有多独立？
+
+诚实的答案是：在运作上自主，但在法律上仍由国家拥有且负有问责义务。
+
+在自主这一面，货币政策委员会依第 23 条对制定货币政策负有**唯一责任**，而第
+22(2) 条则要求货币政策的制定与执行不受外部影响。货币政策只可在正式召集的委员
+会会议上制定（s.23(10)）——不得以备忘录方式定政策——这使利率的设定得以隔绝于
+短期政治压力之外。
+
+在问责这一面，BNM 由政府全资拥有，公开报告，其账目由总审计司（Auditor
+General）审计。它同时担任政府的银行与财务代理人：第 69 条规定该局为「政府的
+银行与财务代理人」，这也正是第 5(2) 条职能 (i) 所列的同一角色。这里的独立指
+的是决定*如何*追求稳定的自由——而非免于问责的自由。
+
 ## BNM 实际监管的范围
 
 BNM 的监管范围由它所执行的法令界定，而非由「金融」这个字眼界定。
@@ -181,6 +202,26 @@ BNM 的监管范围由它所执行的法令界定，而非由「金融」这个�
 监管的实体索取与金融稳定有关的资讯（s.30）、订明限制风险累积的措施（s.31）、
 提供流动性援助（s.32），以及营运一个收集金融机构客户信贷资讯的信贷局
 （s.47）。
+
+## 外汇政策（FEP）规则
+
+如果你经营进口业务、在海外投资，或持有外币账户，这便是你最可能亲身遇到的
+BNM 职能。马来西亚并不允许毫无限制的跨境资金流动；该局改为依据《2013 年金融
+服务法令》与《2013 年伊斯兰金融服务法令》，执行一套**外汇政策（FEP）**规则
+——旧称外汇管理（FEA）——以支持货币与金融稳定并保障令吉。
+
+外汇政策是一组通告，其准许的内容因你是**居民**还是**非居民**而有所不同：
+
+- **居民**可就经常账户与金融账户交易，自由地与持牌岸内银行买卖令吉兑外币，
+  并可开立与维持外币账户，惟须遵守通告中的门槛与条件——例如，当居民已有本地
+  令吉借款时，其以外币借款及在海外投资的限额。
+- **非居民**可基于即期买卖外币兑令吉用于任何用途，并在有相关基础债务的情况下
+  基于远期买卖，且可在岸内持有外币账户。可能适用于居民的外币投资年度限额，
+  并不适用于非居民。
+
+由于外汇政策通告会定期修订，黄金法则是在构建任何跨境交易之前，先阅读
+`bnm.gov.my/fep` 上的现行通告——或询问你银行的外汇部门。切勿依赖任何摘要
+（包括本文）来处理实际交易。
 
 ## BNM 不掌控什么
 
@@ -219,6 +260,29 @@ BNM 的监管范围由它所执行的法令界定，而非由「金融」这个�
   机构则依此各自设定自己的参考利率。
 - **期望 BNM 为失败的投资提供赔偿。** 它的消费者管道 BNMLINK 处理的是它所
   监管的机构——而非其职权范围之外的计划。
+
+## 为什么它对以令吉计价的业务很重要
+
+BNM 从不直接借你一分钱，然而它的决定远在任何税表出现之前便已触及你的现金流。
+如果你以令吉开发票、以令吉借款，或持有令吉存款，它的利率与汇率抉择会塑造每一
+笔以令吉计价业务的成本：
+
+- **OPR** 设定你融资的基准成本和现金的回报。
+- **外汇储备与汇率制度** 塑造进口成本和出口竞争力。
+- **审慎监管** 决定你可以安全地与哪些银行和保险公司交易，以及它们必须达到的
+  标准。
+
+这些都不能替代理解税务——SST 归关税局，电子发票与所得税归 LHDN——但它是那些
+义务被定价和支付时所处的货币背景。
+
+## 从原始出处核实
+
+对于任何关键内容，应查阅第一手资料，而非摘要：
+
+- 创立法律是**《2009 年马来西亚中央银行法令》（第 701 号法令）**，可作为
+  「马来西亚法律」重印本取得。
+- **OPR 历史与货币政策声明** 发布于 `bnm.gov.my`。
+- **外汇政策通告** 位于 `bnm.gov.my/fep`。
 
 ## 下一步
 

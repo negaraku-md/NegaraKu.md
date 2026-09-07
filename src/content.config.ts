@@ -65,6 +65,13 @@ const knowledge = defineCollection({
     slug: z.string(),
     category: z.string(),
     subcategory: z.array(z.string()).default([]),
+    // Extra categories this article should ALSO be listed under (cross-listing).
+    // For a cross-cutting entity that has one canonical article but belongs in
+    // more than one section — e.g. companies/petronas with alsoIn: [energy,
+    // industries]. It creates NO new URL and NO duplicate content: the article
+    // keeps its single canonical page and merely appears in the other category
+    // and topic listings, each link pointing home. Leave empty for normal pages.
+    alsoIn: z.array(z.string()).default([]),
     summary: z.string(),
 
     // ---- shape -------------------------------------------------------

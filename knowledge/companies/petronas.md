@@ -5,6 +5,7 @@ seoTitle: "Petronas: Asas Undang-undang, Struktur & Pertikaian Hasil Petroleum"
 slug: "petronas"
 category: "companies"
 subcategory: ["petroleum"]
+alsoIn: ["energy", "industries"]
 summary: "Petroliam Nasional Berhad (Petronas) ialah syarikat minyak nasional Malaysia yang diberi hak eksklusif ke atas semua petroleum di darat dan luar pesisir menerusi Akta Kemajuan Petroleum 1974. Panduan ini menerangkan asas undang-undang, struktur korporat, peranan fiskal, dan pertikaian hasil petroleum persekutuan-negeri secara saksama."
 
 tier: "1"
@@ -45,6 +46,7 @@ reviewDue: 2027-08-03
 revision: 0
 verificationNeeded:
   - "Angka kewangan tepat 2024 (hasil ~RM320 bilion, untung bersih ~RM55.1 bilion, dan perbandingan 2023 RM343.6 bilion / RM80.7 bilion) — sahkan terhadap Keputusan Kewangan Kumpulan PETRONAS FY2024 yang diumumkan 5 Februari 2025 (dokumen PDF rasmi)."
+  - "Angka 2024 tambahan (jumlah aset RM766.7 bilion; jumlah sumbangan kerajaan RM72.4 bilion dengan pecahan RM32.0b dividen + RM26.8b cukai + RM13.1b bayaran tunai + RM0.5b Kumpulan Wang Amanah Negara) — sahkan terhadap PETRONAS Integrated Report 2024. Angka terkumpul (~RM1.5 trilion sejak 1974; ~RM13.5 bilion ke dalam Kumpulan Wang Amanah Negara) dilaporkan sendiri oleh Petronas dan belum disahkan secara bebas."
   - "Anggaran hasil 'sehingga RM20 bilion setahun' untuk Sarawak — anggaran penganalisis, bukan angka rasmi; sahkan sumber dan asas pengiraan."
   - "Peratusan kargo LNG Petronas yang berasal daripada atau melalui Sarawak — angka spesifik telah dibuang kerana tiada sumber utama yang disahkan."
   - "Tarikh dan kandungan tepat perjanjian tambahan royalti 5% (1975-76) antara Petronas dan negeri-negeri."
@@ -65,6 +67,9 @@ sources:
     publisher: "PETRONAS"
   - title: "PETRONAS Group Financial Results (FY2024, announced 5 February 2025)"
     url: "https://www.petronas.com/investor-relations/financial-results"
+    publisher: "PETRONAS"
+  - title: "PETRONAS Integrated Report 2024"
+    url: "https://www.petronas.com/integrated-report-2024/assets/pdf/2024/PETRONAS-Integrated-Report-2024.pdf"
     publisher: "PETRONAS"
   - title: "Petronas committed to maintaining dividend payment of RM32 bln this year"
     url: "https://www.mof.gov.my/portal/en/news/press-citations/petronas-committed-to-maintaining-dividend-payment-of-rm32-bln-this-year-amir-hamzah"
@@ -152,7 +157,20 @@ Angka kewangan bagi tahun kewangan 2024 memberi gambaran skalanya (sila sahkan a
 
 - **Hasil:** sekitar RM320 bilion (turun kira-kira 7% daripada RM343.6 bilion pada 2023)
 - **Untung bersih:** sekitar RM55.1 bilion (turun daripada RM80.7 bilion pada 2023, ekoran harga jualan purata yang lebih rendah)
+- **Jumlah aset:** RM766.7 bilion
 - **Dividen kepada kerajaan:** komitmen RM32 bilion untuk tahun 2025 (kenyataan Menteri Kewangan, Februari 2025); jumlah tahun-tahun berikutnya dinyatakan bergantung pada prestasi kewangan Petronas dan keadaan pasaran minyak
+
+Namun dividen RM32 bilion itu hanyalah sebahagian daripada apa yang dialirkan Petronas kepada kerajaan. Bagi tahun 2024, jumlah keseluruhan sumbangan Petronas kepada Kerajaan Malaysia mencecah **RM72.4 bilion**, terdiri daripada:
+
+| Komponen sumbangan (2024) | Jumlah |
+| --- | --- |
+| Dividen | RM32.0 bilion |
+| Cukai | RM26.8 bilion |
+| Bayaran tunai | RM13.1 bilion |
+| Sumbangan Kumpulan Wang Amanah Negara | RM0.5 bilion |
+| **Jumlah sumbangan kepada kerajaan** | **RM72.4 bilion** |
+
+Petronas juga kekal sebagai **penyumbang tunggal Kumpulan Wang Amanah Negara** (National Trust Fund), tabung simpanan negara bagi generasi akan datang; menurut Petronas, bayaran terkumpulnya ke dalam tabung itu mencapai kira-kira RM13.5 bilion setakat 2024. Menurut Petronas sendiri, jumlah sumbangan terkumpulnya kepada negara sejak 1974 — dalam bentuk dividen, cukai dan bayaran tunai — telah mencecah kira-kira **RM1.5 trilion** (angka terkumpul ini dilaporkan sendiri oleh Petronas dan belum disahkan secara bebas).
 
 Dividen dan cukai daripada Petronas secara konsisten menyumbang sebahagian besar hasil Kerajaan Persekutuan — hakikat yang menjelaskan mengapa mana-mana ancaman kepada aliran hasil ini menimbulkan kebimbangan di peringkat kabinet.
 

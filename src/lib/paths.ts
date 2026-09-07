@@ -30,7 +30,7 @@ export async function topicPaths(locale: Locale) {
     props: { categoryId: string; topic: string; articles: typeof items };
   }[] = [];
   for (const c of launchCategories()) {
-    const catArticles = items.filter((a) => a.data.category === c.id);
+    const catArticles = items.filter((a) => a.data.category === c.id || a.data.alsoIn.includes(c.id));
     if (catArticles.length === 0) continue;
     const subs = orderedSubcats(
       c.id,

@@ -88,6 +88,15 @@ for (const file of walk('knowledge')) {
     errors.push(`${file}: illegal contentType "${ct[1]}"`);
   }
 
+  // --- alsoIn must not repeat the article's own primary category ------------
+  const catVal = (fm.match(/^category:\s*"?([\w-]+)"?/m) || [])[1];
+  const alsoInM = fm.match(/^alsoIn:\s*\[([^\]]*)\]/m);
+  if (alsoInM && catVal) {
+    const ids = [...alsoInM[1].matchAll(/["']([^"']+)["']/g)].map((x) => x[1]);
+    if (ids.includes(catVal)) errors.push(`${file}: alsoIn must not repeat the primary category "${catVal}"`);
+    if (ids.length !== new Set(ids).size) errors.push(`${file}: alsoIn has duplicate entries`);
+  }
+
   // --- unquoted dates INSIDE the sources block only.
   // revisions[].date is z.coerce.date() and accepts a bare YAML date; but
   // sources[].date is a plain string, so an unquoted value arrives as a

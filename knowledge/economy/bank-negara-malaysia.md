@@ -5,6 +5,7 @@ seoTitle: "Bank Negara Malaysia: Roles, Powers and Limits"
 slug: "bank-negara-malaysia"
 category: "economy"
 subcategory: ["institutions"]
+alsoIn: ["government", "glossary"]
 summary: "Entity page for Malaysia's central bank — its statutory objects and nine primary functions under the Central Bank of Malaysia Act 2009, how it is governed, which laws it enforces, and the financial matters that sit outside its remit."
 
 tier: "4"
@@ -52,9 +53,15 @@ sources:
   - title: "Central Bank of Malaysia Act 2009 (Act 701), incorporating amendments up to Act A1616/2020"
     url: "https://www.bnm.gov.my/documents/20124/277ebcd5-9c21-209b-3984-170ba28351d6"
     publisher: "Bank Negara Malaysia"
+  - title: "Central Bank of Malaysia Act 2009 (Act 701) — Laws of Malaysia, updated text as at 1 November 2020"
+    url: "https://www.investmalaysia.gov.my/media/sbqpwvem/central-bank-of-malaysia-act-2009.pdf"
+    publisher: "Government of Malaysia (Laws of Malaysia reprint)"
   - title: "Act 701 — Central Bank of Malaysia Act 2009 (act detail)"
     url: "https://lom.agc.gov.my/act-detail.php?act=701&lang=BI"
     publisher: "Attorney General's Chambers of Malaysia"
+  - title: "Foreign Exchange Policy"
+    url: "https://www.bnm.gov.my/fep"
+    publisher: "Bank Negara Malaysia"
   - title: "Legislation — laws administered by the Bank"
     url: "https://www.bnm.gov.my/legislation"
     publisher: "Bank Negara Malaysia"
@@ -166,6 +173,25 @@ plus rationale — after every meeting. The Overnight Policy Rate has stood at
 9 July 2026. How that single number travels to your loan is covered in
 [the Overnight Policy Rate](/en/economy/opr-monetary-policy).
 
+## How independent is Bank Negara?
+
+The honest answer is: operationally autonomous, but constitutionally
+state-owned and accountable.
+
+On the autonomy side, the Monetary Policy Committee has **sole responsibility**
+for formulating monetary policy under section 23, and section 22(2) requires
+that policy to be formulated and implemented without external influence.
+Monetary policy may be formulated only at a duly convened meeting of the
+Committee (s.23(10)) — there is no policy by memo — which insulates rate-setting
+from short-term political pressure.
+
+On the accountability side, BNM is wholly owned by the Government, reports
+publicly, and has its accounts audited by the Auditor General. It also acts as
+banker and financial agent to the Government: section 69 makes the Bank
+"banker and financial agent to the Government," the same role listed as
+function (i) of section 5(2). Independence here means the freedom to decide
+*how* to pursue stability — not freedom from accountability.
+
 ## What BNM actually regulates
 
 BNM's supervisory reach is defined by the statutes it administers, not by the
@@ -186,6 +212,36 @@ relevant to financial stability from other supervisors and from unsupervised
 entities (s.30), specify measures to limit the build-up of risk (s.31), extend
 liquidity assistance (s.32), and operate a credit bureau collecting credit
 information on financial institutions' customers (s.47).
+
+## Foreign exchange policy (FEP) rules
+
+If you run an import business, invest abroad, or hold a foreign-currency
+account, this is the BNM function you are most likely to meet in person.
+Malaysia does not allow unrestricted cross-border money movement; instead the
+Bank administers a set of **Foreign Exchange Policy (FEP)** rules — formerly
+called Foreign Exchange Administration (FEA) — under the Financial Services Act
+2013 and the Islamic Financial Services Act 2013, to support monetary and
+financial stability and safeguard the ringgit.
+
+The FEP is a set of Notices, and what they allow depends on whether you are a
+**resident** or a **non-resident**:
+
+- A **resident** may freely buy or sell ringgit against foreign currency with a
+  licensed onshore bank for current and financial account transactions, and may
+  open and maintain a Foreign Currency Account, subject to the thresholds and
+  conditions in the Notices — for example, limits on borrowing in foreign
+  currency and on investing abroad where the resident already has domestic
+  ringgit borrowing.
+- A **non-resident** may buy or sell foreign currency against ringgit on a spot
+  basis for any purpose, and on a forward basis where there is an underlying
+  obligation, and may hold a Foreign Currency Account onshore. The per-year
+  limits on foreign-currency investment that can apply to residents do not apply
+  to non-residents.
+
+Because the FEP Notices are revised periodically, the golden rule is to read the
+current Notice at `bnm.gov.my/fep` — or ask your bank's foreign-exchange desk —
+before structuring a cross-border transaction. Do not rely on a summary,
+including this one, for a live deal.
 
 ## What BNM does not control
 
@@ -233,6 +289,33 @@ formulated and implemented autonomously by the Bank, without external influence.
 - **Expecting BNM to compensate for a failed investment.** Its consumer channel,
   BNMLINK, deals with institutions it regulates — not with schemes outside its
   remit.
+
+## Why it matters for ringgit-denominated business
+
+BNM never lends to you directly, yet its decisions reach your cash flow long
+before any tax form does. If you invoice in ringgit, borrow in ringgit, or hold
+ringgit deposits, its interest-rate and exchange-rate choices shape the cost of
+every ringgit-denominated business:
+
+- The **OPR** sets the baseline cost of your financing and the return on your
+  cash.
+- The **reserves and the exchange-rate regime** shape import costs and export
+  competitiveness.
+- **Prudential regulation** determines which banks and insurers you can safely
+  transact with, and the standards they must meet.
+
+None of that replaces understanding tax — SST sits with Customs, e-invoicing and
+income tax with LHDN — but it is the monetary backdrop against which those
+obligations are priced and paid.
+
+## Check it at source
+
+For anything load-bearing, go to the primary source rather than a summary:
+
+- The founding law is the **Central Bank of Malaysia Act 2009 (Act 701)**,
+  available as a Laws of Malaysia reprint.
+- **OPR history and monetary policy statements** are published on `bnm.gov.my`.
+- The **Foreign Exchange Policy Notices** are at `bnm.gov.my/fep`.
 
 ## What's next
 

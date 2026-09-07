@@ -5,6 +5,7 @@ seoTitle: "Bank Negara Malaysia: Peranan, Kuasa dan Had"
 slug: "bank-negara-malaysia"
 category: "economy"
 subcategory: ["institutions"]
+alsoIn: ["government", "glossary"]
 summary: "Halaman entiti bagi bank pusat Malaysia — objektif berkanun dan sembilan fungsi utamanya di bawah Akta Bank Negara Malaysia 2009, cara ia ditadbir, undang-undang yang dikuatkuasakannya, serta hal ehwal kewangan yang berada di luar bidang kuasanya."
 
 tier: "4"
@@ -30,7 +31,7 @@ faq:
 
 verificationNeeded: []
 lang: "ms"
-sourceContentHash: "83e47670250a0ac8"
+sourceContentHash: "d7cdda88b95f694a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -53,9 +54,15 @@ sources:
   - title: "Central Bank of Malaysia Act 2009 (Act 701), incorporating amendments up to Act A1616/2020"
     url: "https://www.bnm.gov.my/documents/20124/277ebcd5-9c21-209b-3984-170ba28351d6"
     publisher: "Bank Negara Malaysia"
+  - title: "Central Bank of Malaysia Act 2009 (Act 701) — Laws of Malaysia, updated text as at 1 November 2020"
+    url: "https://www.investmalaysia.gov.my/media/sbqpwvem/central-bank-of-malaysia-act-2009.pdf"
+    publisher: "Government of Malaysia (Laws of Malaysia reprint)"
   - title: "Act 701 — Central Bank of Malaysia Act 2009 (act detail)"
     url: "https://lom.agc.gov.my/act-detail.php?act=701&lang=BI"
     publisher: "Attorney General's Chambers of Malaysia"
+  - title: "Foreign Exchange Policy"
+    url: "https://www.bnm.gov.my/fep"
+    publisher: "Bank Negara Malaysia"
   - title: "Legislation — laws administered by the Bank"
     url: "https://www.bnm.gov.my/legislation"
     publisher: "Bank Negara Malaysia"
@@ -171,6 +178,26 @@ tidak diubah pada mesyuarat 9 Julai 2026. Bagaimana angka tunggal itu sampai
 kepada pinjaman anda dihuraikan dalam
 [Kadar Dasar Semalaman](/economy/opr-monetary-policy).
 
+## Sejauh mana Bank Negara bebas?
+
+Jawapan jujurnya: autonomi dari segi operasi, tetapi dimiliki negara dan
+bertanggungjawab dari segi perlembagaan.
+
+Dari sudut autonomi, Jawatankuasa Dasar Monetari mempunyai **tanggungjawab
+tunggal** untuk merumus dasar monetari di bawah seksyen 23, dan seksyen 22(2)
+menghendaki dasar itu dirumus dan dilaksanakan tanpa pengaruh luar. Dasar
+monetari hanya boleh dirumus pada mesyuarat Jawatankuasa yang diadakan dengan
+sempurna (s.23(10)) — tiada dasar melalui memo — yang melindungi penetapan kadar
+daripada tekanan politik jangka pendek.
+
+Dari sudut kebertanggungjawaban, BNM dimiliki sepenuhnya oleh Kerajaan, melapor
+secara awam, dan akaunnya diaudit oleh Ketua Audit Negara. Ia juga bertindak
+sebagai jurubank dan ejen kewangan kepada Kerajaan: seksyen 69 menjadikan Bank
+"jurubank dan ejen kewangan kepada Kerajaan," peranan yang sama disenaraikan
+sebagai fungsi (i) seksyen 5(2). Kebebasan di sini bermaksud kebebasan untuk
+menentukan *bagaimana* mengejar kestabilan — bukan kebebasan daripada
+kebertanggungjawaban.
+
 ## Apa yang benar-benar dikawal selia oleh BNM
 
 Skop penyeliaan BNM ditakrifkan oleh statut-statut yang ditadbirkannya, bukan
@@ -192,6 +219,36 @@ lain dan daripada entiti yang tidak diselia (s.30), menentukan langkah-langkah
 untuk mengehadkan pembentukan risiko (s.31), memberikan bantuan mudah tunai
 (s.32), dan mengendalikan biro kredit yang mengumpul maklumat kredit pelanggan
 institusi kewangan (s.47).
+
+## Peraturan dasar pertukaran asing (FEP)
+
+Jika anda mengendalikan perniagaan import, melabur di luar negara, atau memegang
+akaun mata wang asing, inilah fungsi BNM yang paling mungkin anda temui secara
+peribadi. Malaysia tidak membenarkan pergerakan wang rentas sempadan tanpa had;
+sebaliknya Bank mentadbir satu set peraturan **Dasar Pertukaran Asing (FEP)** —
+dahulunya dipanggil Pentadbiran Pertukaran Asing (FEA) — di bawah Akta
+Perkhidmatan Kewangan 2013 dan Akta Perkhidmatan Kewangan Islam 2013, untuk
+menyokong kestabilan monetari dan kewangan serta melindungi ringgit.
+
+FEP ialah satu set Notis, dan apa yang dibenarkannya bergantung pada sama ada
+anda seorang **pemastautin** atau **bukan pemastautin**:
+
+- Seorang **pemastautin** boleh dengan bebas membeli atau menjual ringgit
+  terhadap mata wang asing dengan bank pesisir dalam berlesen bagi urus niaga
+  akaun semasa dan akaun kewangan, serta boleh membuka dan mengekalkan Akaun
+  Mata Wang Asing, tertakluk kepada ambang dan syarat dalam Notis — contohnya,
+  had peminjaman dalam mata wang asing dan pelaburan di luar negara apabila
+  pemastautin sudah mempunyai peminjaman ringgit domestik.
+- Seorang **bukan pemastautin** boleh membeli atau menjual mata wang asing
+  terhadap ringgit atas dasar spot bagi apa-apa tujuan, dan atas dasar hadapan
+  apabila terdapat obligasi asas, serta boleh memegang Akaun Mata Wang Asing di
+  pesisir dalam. Had setahun ke atas pelaburan mata wang asing yang boleh
+  terpakai kepada pemastautin tidak terpakai kepada bukan pemastautin.
+
+Oleh sebab Notis FEP disemak secara berkala, peraturan emasnya ialah membaca
+Notis semasa di `bnm.gov.my/fep` — atau bertanya meja pertukaran asing bank
+anda — sebelum menstruktur urus niaga rentas sempadan. Jangan bergantung pada
+ringkasan, termasuk yang ini, untuk urusan langsung.
 
 ## Apa yang tidak dikawal oleh BNM
 
@@ -243,6 +300,33 @@ digubal dan dilaksanakan secara autonomi oleh Bank, tanpa pengaruh luar.
 - **Mengharapkan BNM mengganti rugi bagi pelaburan yang gagal.** Salurannya
   untuk pengguna, BNMLINK, menangani institusi yang diselianya — bukan skim di
   luar bidang kuasanya.
+
+## Mengapa ia penting untuk perniagaan berasaskan ringgit
+
+BNM tidak pernah meminjamkan wang kepada anda secara langsung, namun
+keputusannya menjangkau aliran tunai anda jauh lebih awal daripada mana-mana
+borang cukai. Jika anda mengeluarkan invois dalam ringgit, meminjam dalam
+ringgit, atau memegang deposit ringgit, pilihan kadar faedah dan kadar
+pertukarannya membentuk kos setiap perniagaan yang berasaskan ringgit:
+
+- **OPR** menetapkan kos asas pembiayaan anda dan pulangan atas tunai anda.
+- **Rizab dan rejim kadar pertukaran** membentuk kos import dan daya saing
+  eksport.
+- **Kawal selia prudensial** menentukan bank dan syarikat insurans mana yang
+  selamat untuk anda berurusan, dan piawaian yang mesti mereka penuhi.
+
+Kesemua itu tidak menggantikan pemahaman tentang cukai — SST di bawah Kastam,
+e-invois dan cukai pendapatan di bawah LHDN — tetapi ia ialah latar belakang
+monetari yang mendasari harga dan pembayaran kewajipan tersebut.
+
+## Semak pada sumbernya
+
+Bagi apa-apa yang penting, rujuk sumber utama dan bukan ringkasan:
+
+- Undang-undang asasnya ialah **Akta Bank Negara Malaysia 2009 (Akta 701)**,
+  tersedia sebagai cetak semula Undang-Undang Malaysia.
+- **Sejarah OPR dan penyata dasar monetari** diterbitkan di `bnm.gov.my`.
+- **Notis Dasar Pertukaran Asing** tersedia di `bnm.gov.my/fep`.
 
 ## Apa yang seterusnya
 

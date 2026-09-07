@@ -213,7 +213,9 @@ export async function articlesInCategory(
   locale: Locale,
 ): Promise<Article[]> {
   const items = await articlesForLocale(locale);
-  return items.filter((a) => a.data.category === category);
+  // Primary-category articles, plus any cross-listed (`alsoIn`) guests — one
+  // canonical article can surface in several category lists (see content.config).
+  return items.filter((a) => a.data.category === category || a.data.alsoIn.includes(category));
 }
 
 /** Look up related articles (by canonical slug) for the "Related" rail. */
