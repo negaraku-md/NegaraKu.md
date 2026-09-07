@@ -4,7 +4,7 @@ title: "在马来西亚设立控股公司与集团架构"
 seoTitle: "马来西亚控股公司：集团架构、IHC 税务与集团亏损减免"
 slug: "holding-company-malaysia"
 category: "business"
-subcategory: ["structure"]
+subcategory: ["structuring"]
 summary: "控股公司与企业集团在马来西亚如何运作——2016年公司法令对控股公司与子公司的定义、编制综合财务报表的义务、投资控股公司的特殊税务处理、集团亏损减免、单一层次股息、2024年针对非上市股份的资本利得税，以及将股份转入集团时的印花税。"
 
 tier: "2"
@@ -37,11 +37,11 @@ sourceContentHash: "e049f310e43611c5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
-reviewed: null
-reviewDue: null
+reviewer: "ashton-tan"
+reviewed: 2026-09-07
+reviewDue: 2027-09-07
 revision: 0
 revisions:
   - revision: 0

@@ -4,7 +4,7 @@ title: "Employee Share Option Schemes (ESOS) in Malaysia"
 seoTitle: "ESOS Malaysia: Company Law, Bursa Rules and How It Is Taxed"
 slug: "employee-stock-option-scheme-malaysia"
 category: "company-secretary"
-subcategory: ["shares"]
+subcategory: ["share-capital"]
 summary: "How a Malaysian company grants employees share options — the Companies Act 2016 mechanics (directors' authority to allot and pre-emptive rights), the Bursa 15% cap and pricing rules for listed issuers, and the exact way the benefit is taxed as a perquisite on exercise under the Income Tax Act 1967."
 
 tier: "2"
@@ -36,11 +36,11 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
-reviewed: null
-reviewDue: null
+reviewer: "ashton-tan"
+reviewed: 2026-09-07
+reviewDue: 2027-09-07
 revision: 0
 revisions:
   - revision: 0

@@ -4,7 +4,7 @@ title: "Starting an E-commerce or Online Business in Malaysia"
 seoTitle: "How to Start an Online Business in Malaysia: Registration, Rules and Tax"
 slug: "starting-an-ecommerce-business-malaysia"
 category: "business"
-subcategory: ["setup"]
+subcategory: ["formation"]
 summary: "A step-by-step playbook for starting an online or e-commerce business in Malaysia — why even a home or marketplace seller must register with SSM, the mandatory disclosure rules under the 2024 electronic-trade regulations, personal-data (PDPA) duties, the low-value-goods import tax, and where the e-invoicing threshold now sits."
 
 tier: "2"
@@ -36,11 +36,11 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
-reviewed: null
-reviewDue: null
+reviewer: "ashton-tan"
+reviewed: 2026-09-07
+reviewDue: 2027-09-07
 revision: 0
 revisions:
   - revision: 0

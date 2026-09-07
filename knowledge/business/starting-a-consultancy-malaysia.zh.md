@@ -4,7 +4,7 @@ title: "在马来西亚创办咨询或专业服务公司"
 seoTitle: "如何在马来西亚创办咨询公司：实体、执照与税务"
 slug: "starting-a-consultancy-malaysia"
 category: "business"
-subcategory: ["setup"]
+subcategory: ["formation"]
 summary: "在马来西亚设立咨询或专业服务公司的实用指南——在独资企业、LLP 与 Sdn Bhd 之间做出选择，以及一个关键警示：受监管的专业需要专业执照，而不仅仅是 SSM 注册，咨询业务须缴 8% 服务税，还有所得税与社会保障的选择。"
 
 tier: "2"
@@ -35,11 +35,11 @@ sourceContentHash: "2b36d3527d9836bd"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
-reviewed: null
-reviewDue: null
+reviewer: "ashton-tan"
+reviewed: 2026-09-07
+reviewDue: 2027-09-07
 revision: 0
 revisions:
   - revision: 0

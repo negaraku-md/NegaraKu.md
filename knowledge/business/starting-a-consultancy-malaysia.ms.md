@@ -4,7 +4,7 @@ title: "Memulakan Firma Perundingan atau Perkhidmatan Profesional di Malaysia"
 seoTitle: "Cara Memulakan Firma Perundingan di Malaysia: Entiti, Lesen dan Cukai"
 slug: "starting-a-consultancy-malaysia"
 category: "business"
-subcategory: ["setup"]
+subcategory: ["formation"]
 summary: "Panduan praktikal untuk menubuhkan firma perundingan atau perkhidmatan profesional di Malaysia — memilih antara pemilikan tunggal, LLP dan Sdn Bhd, kaveat penting bahawa profesion berkawal selia memerlukan lesen profesional dan bukan sekadar pendaftaran SSM, cukai perkhidmatan 8% ke atas perundingan, serta pilihan cukai pendapatan dan keselamatan sosial."
 
 tier: "2"
@@ -35,11 +35,11 @@ sourceContentHash: "2b36d3527d9836bd"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
-reviewed: null
-reviewDue: null
+reviewer: "ashton-tan"
+reviewed: 2026-09-07
+reviewDue: 2027-09-07
 revision: 0
 revisions:
   - revision: 0

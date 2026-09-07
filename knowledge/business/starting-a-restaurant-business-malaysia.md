@@ -4,7 +4,7 @@ title: "Starting a Restaurant or F&B Business in Malaysia"
 seoTitle: "How to Start a Restaurant in Malaysia: Licences, Tax and Staff"
 slug: "starting-a-restaurant-business-malaysia"
 category: "business"
-subcategory: ["setup"]
+subcategory: ["formation"]
 summary: "A step-by-step playbook for opening a restaurant, café or food business in Malaysia — registering with SSM, the local-council premise and signboard licences, food-handler training and typhoid vaccination, halal certification, the 6% service tax on food, and registering staff for EPF, SOCSO and the minimum wage."
 
 tier: "2"
@@ -36,11 +36,11 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
-reviewed: null
-reviewDue: null
+reviewer: "ashton-tan"
+reviewed: 2026-09-07
+reviewDue: 2027-09-07
 revision: 0
 revisions:
   - revision: 0

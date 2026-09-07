@@ -4,7 +4,7 @@ title: "Skim Opsyen Saham Pekerja (ESOS) di Malaysia"
 seoTitle: "ESOS Malaysia: Undang-undang Syarikat, Peraturan Bursa dan Cara Ia Dicukai"
 slug: "employee-stock-option-scheme-malaysia"
 category: "company-secretary"
-subcategory: ["shares"]
+subcategory: ["share-capital"]
 summary: "Bagaimana sebuah syarikat Malaysia memberikan opsyen saham kepada pekerja — mekanik Akta Syarikat 2016 (kuasa pengarah untuk memperuntukkan saham dan hak keutamaan (pre-emptive)), had 15% Bursa dan peraturan penentuan harga bagi penerbit tersenarai, serta cara tepat manfaat itu dicukai sebagai perkuisit semasa dilaksanakan di bawah Akta Cukai Pendapatan 1967."
 
 tier: "2"
@@ -37,11 +37,11 @@ sourceContentHash: "7258a3b742c47cdd"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
-reviewed: null
-reviewDue: null
+reviewer: "ashton-tan"
+reviewed: 2026-09-07
+reviewDue: 2027-09-07
 revision: 0
 revisions:
   - revision: 0

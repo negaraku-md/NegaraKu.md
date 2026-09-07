@@ -4,7 +4,7 @@ title: "Setting Up a Holding Company and Group Structure in Malaysia"
 seoTitle: "Holding Company Malaysia: Group Structure, IHC Tax and Group Relief"
 slug: "holding-company-malaysia"
 category: "business"
-subcategory: ["structure"]
+subcategory: ["structuring"]
 summary: "How holding companies and corporate groups work in Malaysia — the Companies Act 2016 definitions of holding and subsidiary, the duty to prepare consolidated accounts, the special tax treatment of an investment holding company, group loss relief, single-tier dividends, the 2024 capital gains tax on unlisted shares, and the stamp duty on moving shares into a group."
 
 tier: "2"
@@ -36,11 +36,11 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
-reviewed: null
-reviewDue: null
+reviewer: "ashton-tan"
+reviewed: 2026-09-07
+reviewDue: 2027-09-07
 revision: 0
 revisions:
   - revision: 0

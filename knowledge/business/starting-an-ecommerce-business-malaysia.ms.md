@@ -4,7 +4,7 @@ title: "Memulakan Perniagaan E-dagang atau Perniagaan Dalam Talian di Malaysia"
 seoTitle: "Cara Memulakan Perniagaan Dalam Talian di Malaysia: Pendaftaran, Peraturan dan Cukai"
 slug: "starting-an-ecommerce-business-malaysia"
 category: "business"
-subcategory: ["setup"]
+subcategory: ["formation"]
 summary: "Panduan langkah demi langkah untuk memulakan perniagaan dalam talian atau e-dagang di Malaysia — mengapa penjual di rumah atau di pasaran dalam talian (marketplace) pun mesti mendaftar dengan SSM, peraturan pendedahan yang diwajibkan di bawah peraturan perdagangan elektronik 2024, tanggungjawab data peribadi (PDPA), cukai import barangan bernilai rendah, dan di mana ambang e-invois kini berada."
 
 tier: "2"
@@ -37,11 +37,11 @@ sourceContentHash: "9e3043a00523b643"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
-reviewed: null
-reviewDue: null
+reviewer: "ashton-tan"
+reviewed: 2026-09-07
+reviewDue: 2027-09-07
 revision: 0
 revisions:
   - revision: 0

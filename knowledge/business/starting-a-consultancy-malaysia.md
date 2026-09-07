@@ -4,7 +4,7 @@ title: "Starting a Consultancy or Professional Services Firm in Malaysia"
 seoTitle: "How to Start a Consulting Firm in Malaysia: Entity, Licence and Tax"
 slug: "starting-a-consultancy-malaysia"
 category: "business"
-subcategory: ["setup"]
+subcategory: ["formation"]
 summary: "A practical playbook for setting up a consultancy or professional services firm in Malaysia — choosing between a sole proprietorship, an LLP and a Sdn Bhd, the crucial caveat that regulated professions need a professional licence and not just SSM registration, the 8% service tax on consultancy, and the income-tax and social-security choices."
 
 tier: "2"
@@ -34,11 +34,11 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
-reviewed: null
-reviewDue: null
+reviewer: "ashton-tan"
+reviewed: 2026-09-07
+reviewDue: 2027-09-07
 revision: 0
 revisions:
   - revision: 0

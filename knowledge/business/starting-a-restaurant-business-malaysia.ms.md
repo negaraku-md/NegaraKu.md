@@ -4,7 +4,7 @@ title: "Memulakan Perniagaan Restoran atau F&B di Malaysia"
 seoTitle: "Cara Membuka Restoran di Malaysia: Lesen, Cukai dan Pekerja"
 slug: "starting-a-restaurant-business-malaysia"
 category: "business"
-subcategory: ["setup"]
+subcategory: ["formation"]
 summary: "Panduan langkah demi langkah untuk membuka restoran, kafe atau perniagaan makanan di Malaysia — mendaftar dengan SSM, lesen premis perniagaan dan lesen papan tanda daripada pihak berkuasa tempatan (PBT), latihan pengendali makanan dan vaksinasi tifoid, pensijilan halal, cukai perkhidmatan 6% ke atas makanan, dan mendaftarkan pekerja untuk EPF, SOCSO dan gaji minimum."
 
 tier: "2"
@@ -37,11 +37,11 @@ sourceContentHash: "e3502686b85eae9e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
-reviewed: null
-reviewDue: null
+reviewer: "ashton-tan"
+reviewed: 2026-09-07
+reviewDue: 2027-09-07
 revision: 0
 revisions:
   - revision: 0

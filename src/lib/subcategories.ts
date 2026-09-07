@@ -225,6 +225,7 @@ export const SUBCATEGORY_LABELS: Record<string, Record<Locale, string>> = {
   'palm-oil': { ms: "Minyak Sawit", en: "Palm oil", zh: "棕榈油" },
   // finance
   bonds: { ms: "Pasaran Bon", en: "Bond market", zh: "债券市场" },
+  'capital-markets': { ms: "Pasaran Modal", en: "Capital markets", zh: "资本市场" },
   credit: { ms: "Laporan Kredit", en: "Credit reporting", zh: "信用报告" },
   fintech: { ms: "Fintech", en: "Fintech", zh: "金融科技" },
   investing: { ms: "Pelaburan", en: "Investing", zh: "投资" },

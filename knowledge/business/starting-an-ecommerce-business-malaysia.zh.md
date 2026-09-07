@@ -4,7 +4,7 @@ title: "在马来西亚开办电子商务或网店生意"
 seoTitle: "如何在马来西亚开办网店生意：注册、规则与税务"
 slug: "starting-an-ecommerce-business-malaysia"
 category: "business"
-subcategory: ["setup"]
+subcategory: ["formation"]
 summary: "在马来西亚开办网店或电子商务生意的分步指南——为什么连在家经营或只在电商平台上销售的卖家也必须向SSM注册、2024年电子贸易法规下的强制披露规则、个人资料（PDPA）义务、低价值商品进口税，以及电子发票门槛目前所处的位置。"
 
 tier: "2"
@@ -37,11 +37,11 @@ sourceContentHash: "9e3043a00523b643"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
-reviewed: null
-reviewDue: null
+reviewer: "ashton-tan"
+reviewed: 2026-09-07
+reviewDue: 2027-09-07
 revision: 0
 revisions:
   - revision: 0

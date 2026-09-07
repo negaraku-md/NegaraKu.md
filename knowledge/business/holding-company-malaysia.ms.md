@@ -4,7 +4,7 @@ title: "Menubuhkan Syarikat Pemegangan dan Struktur Kumpulan di Malaysia"
 seoTitle: "Syarikat Pemegangan Malaysia: Struktur Kumpulan, Cukai IHC dan Pelepasan Kumpulan"
 slug: "holding-company-malaysia"
 category: "business"
-subcategory: ["structure"]
+subcategory: ["structuring"]
 summary: "Cara syarikat pemegangan dan kumpulan korporat berfungsi di Malaysia — definisi syarikat pemegangan dan subsidiari dalam Akta Syarikat 2016, kewajipan menyediakan penyata kewangan disatukan, layanan cukai khas bagi syarikat pegangan pelaburan, pelepasan kerugian kumpulan, dividen sistem satu peringkat, cukai keuntungan modal 2024 ke atas saham tidak tersenarai, dan duti setem apabila memindahkan saham ke dalam kumpulan."
 
 tier: "2"
@@ -37,11 +37,11 @@ sourceContentHash: "e049f310e43611c5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
-reviewed: null
-reviewDue: null
+reviewer: "ashton-tan"
+reviewed: 2026-09-07
+reviewDue: 2027-09-07
 revision: 0
 revisions:
   - revision: 0

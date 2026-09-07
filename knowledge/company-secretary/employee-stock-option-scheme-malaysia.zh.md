@@ -4,7 +4,7 @@ title: "马来西亚的员工购股权计划（ESOS）"
 seoTitle: "马来西亚ESOS：公司法、Bursa规则及其课税方式"
 slug: "employee-stock-option-scheme-malaysia"
 category: "company-secretary"
-subcategory: ["shares"]
+subcategory: ["share-capital"]
 summary: "马来西亚公司如何向员工授予购股权——2016年公司法令的机制（董事配发股份的权力及优先认购权）、上市发行人须遵守的Bursa 15%上限与定价规则，以及该福利在行使时如何依据1967年所得税法令作为额外福利（perquisite）课税的确切方式。"
 
 tier: "2"
@@ -37,11 +37,11 @@ sourceContentHash: "7258a3b742c47cdd"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
-reviewed: null
-reviewDue: null
+reviewer: "ashton-tan"
+reviewed: 2026-09-07
+reviewDue: 2027-09-07
 revision: 0
 revisions:
   - revision: 0

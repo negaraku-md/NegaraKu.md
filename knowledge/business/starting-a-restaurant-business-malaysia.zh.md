@@ -4,7 +4,7 @@ title: "在马来西亚开办餐厅或餐饮（F&B）生意"
 seoTitle: "如何在马来西亚开餐厅：执照、税务与员工"
 slug: "starting-a-restaurant-business-malaysia"
 category: "business"
-subcategory: ["setup"]
+subcategory: ["formation"]
 summary: "在马来西亚开办餐厅、咖啡馆或食品生意的分步实战指南——向 SSM 注册、向地方政府（PBT）申请商业场所执照和招牌执照、食品处理员培训与伤寒疫苗接种、清真认证、食品的 6% 服务税，以及为员工注册 EPF、SOCSO 和最低薪金。"
 
 tier: "2"
@@ -37,11 +37,11 @@ sourceContentHash: "e3502686b85eae9e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
-reviewed: null
-reviewDue: null
+reviewer: "ashton-tan"
+reviewed: 2026-09-07
+reviewDue: 2027-09-07
 revision: 0
 revisions:
   - revision: 0
