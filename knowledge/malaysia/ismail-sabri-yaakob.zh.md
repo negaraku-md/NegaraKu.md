@@ -6,7 +6,7 @@ category: "malaysia"
 subcategory: ["modern"]
 summary: "马来西亚第九任首相（2021–2022），在慕尤丁·雅辛辞职后接任，与反对派签署稳定谅解备忘录，并宣布举行结束其任期的 2022 年大选。"
 
-tier: "2"
+tier: "S"
 mode: "narrative"
 contentType: "guide"
 
@@ -36,13 +36,13 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "01485efbacf83246"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 published: null
 reviewed: 2026-08-27
-reviewDue: null
-revision: null
+reviewDue: 2027-08-27
+revision: 0
 revisions:
   - revision: 0
     date: 2026-08-27

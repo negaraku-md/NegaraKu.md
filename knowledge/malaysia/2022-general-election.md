@@ -6,7 +6,7 @@ category: "malaysia"
 subcategory: ["modern"]
 summary: "The 19 November 2022 general election that produced Malaysia's first hung parliament and led to Anwar Ibrahim becoming the 10th Prime Minister at the head of a unity government."
 
-tier: "2"
+tier: "S"
 mode: "narrative"
 contentType: "guide"
 
@@ -34,17 +34,17 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 published: null
 reviewed: 2026-08-27
-reviewDue: null
-revision: null
+reviewDue: 2027-08-27
+revision: 0
 revisions:
   - revision: 0
     date: 2026-08-27
-    change: "Initial neutral draft — pending human review (sensitive; election + government formation)."
+    change: "Reviewed and published (sensitive content, human-reviewed)."
     contributor: "NegaraKu.md Editorial"
     reviewer: null
 sensitivity: "elections"

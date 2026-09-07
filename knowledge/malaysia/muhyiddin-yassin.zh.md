@@ -6,7 +6,7 @@ category: "malaysia"
 subcategory: ["modern"]
 summary: "马来西亚第八任首相（2020–2021），在 2020 年 2 月“喜来登行动”后就任，领导国民联盟政府度过 COVID-19 疫情，随后失去多数优势。"
 
-tier: "2"
+tier: "S"
 mode: "narrative"
 contentType: "guide"
 
@@ -36,13 +36,13 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "b981e60c4f8e26f9"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 published: null
 reviewed: 2026-08-27
-reviewDue: null
-revision: null
+reviewDue: 2027-08-27
+revision: 0
 revisions:
   - revision: 0
     date: 2026-08-27

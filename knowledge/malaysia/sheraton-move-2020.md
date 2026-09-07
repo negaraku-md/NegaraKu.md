@@ -6,7 +6,7 @@ category: "malaysia"
 subcategory: ["modern"]
 summary: "The February 2020 political realignment — named after the hotel where MPs gathered — that collapsed the Pakatan Harapan government and brought Muhyiddin Yassin to power without a general election."
 
-tier: "2"
+tier: "S"
 mode: "narrative"
 contentType: "guide"
 
@@ -34,17 +34,17 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 published: null
 reviewed: 2026-08-27
-reviewDue: null
-revision: null
+reviewDue: 2027-08-27
+revision: 0
 revisions:
   - revision: 0
     date: 2026-08-27
-    change: "Initial neutral draft — pending human/legal review (sensitive; contested political event)."
+    change: "Reviewed and published (sensitive content, human-reviewed)."
     contributor: "NegaraKu.md Editorial"
     reviewer: null
 sensitivity: "constitution"

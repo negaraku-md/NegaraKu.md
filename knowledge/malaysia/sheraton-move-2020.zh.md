@@ -6,7 +6,7 @@ category: "malaysia"
 subcategory: ["modern"]
 summary: "2020 年 2 月的政治重组——以国会议员聚集的酒店命名——它令希望联盟政府垮台，并使慕尤丁·雅辛在没有举行大选的情况下上台。"
 
-tier: "2"
+tier: "S"
 mode: "narrative"
 contentType: "guide"
 
@@ -35,13 +35,13 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "d475393c9a7ff6eb"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 published: null
 reviewed: 2026-08-27
-reviewDue: null
-revision: null
+reviewDue: 2027-08-27
+revision: 0
 revisions:
   - revision: 0
     date: 2026-08-27

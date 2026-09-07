@@ -6,7 +6,7 @@ category: "malaysia"
 subcategory: ["modern"]
 summary: "2022 年 11 月 19 日举行的大选，造就了马来西亚首个悬峙国会，并促使安华·依布拉欣成为领导团结政府的第 10 任首相。"
 
-tier: "2"
+tier: "S"
 mode: "narrative"
 contentType: "guide"
 
@@ -35,13 +35,13 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "acdebe065daafc2e"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 published: null
 reviewed: 2026-08-27
-reviewDue: null
-revision: null
+reviewDue: 2027-08-27
+revision: 0
 revisions:
   - revision: 0
     date: 2026-08-27

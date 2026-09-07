@@ -6,7 +6,7 @@ category: "malaysia"
 subcategory: ["modern"]
 summary: "2013 年 5 月 5 日的大选——国民阵线保住政权，却首次仅赢得少数普选票——马来西亚选举史上的一个决定性时刻。"
 
-tier: "2"
+tier: "S"
 mode: "narrative"
 contentType: "guide"
 
@@ -35,13 +35,13 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "60045df88eb348ab"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 published: null
 reviewed: 2026-08-27
-reviewDue: null
-revision: null
+reviewDue: 2027-08-27
+revision: 0
 revisions:
   - revision: 0
     date: 2026-08-27

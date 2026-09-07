@@ -6,7 +6,7 @@ category: "malaysia"
 subcategory: ["modern"]
 summary: "Pilihan raya umum 5 Mei 2013 yang mana Barisan Nasional mengekalkan kuasa sambil, buat kali pertama, memenangi minoriti undi popular — detik penentu dalam sejarah pilihan raya Malaysia."
 
-tier: "2"
+tier: "S"
 mode: "narrative"
 contentType: "guide"
 
@@ -35,13 +35,13 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "60045df88eb348ab"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 published: null
 reviewed: 2026-08-27
-reviewDue: null
-revision: null
+reviewDue: 2027-08-27
+revision: 0
 revisions:
   - revision: 0
     date: 2026-08-27

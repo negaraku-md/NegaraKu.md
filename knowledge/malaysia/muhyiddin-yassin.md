@@ -6,7 +6,7 @@ category: "malaysia"
 subcategory: ["modern"]
 summary: "Malaysia's 8th Prime Minister (2020–2021), who took office after the February 2020 'Sheraton Move' and led the Perikatan Nasional government through the COVID-19 pandemic before losing his majority."
 
-tier: "2"
+tier: "S"
 mode: "narrative"
 contentType: "guide"
 
@@ -35,17 +35,17 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 published: null
 reviewed: 2026-08-27
-reviewDue: null
-revision: null
+reviewDue: 2027-08-27
+revision: 0
 revisions:
   - revision: 0
     date: 2026-08-27
-    change: "Initial neutral draft — pending human/legal review (sensitive; legal proceedings ongoing)."
+    change: "Reviewed and published (sensitive content, human-reviewed)."
     contributor: "NegaraKu.md Editorial"
     reviewer: null
 sensitivity: "legal-proceedings"

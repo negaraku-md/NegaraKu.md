@@ -6,7 +6,7 @@ category: "malaysia"
 subcategory: ["modern"]
 summary: "Perdana Menteri Malaysia yang ke-8 (2020–2021), yang mengambil alih jawatan selepas 'Langkah Sheraton' Februari 2020 dan mengetuai kerajaan Perikatan Nasional sepanjang pandemik COVID-19 sebelum kehilangan majoritinya."
 
-tier: "2"
+tier: "S"
 mode: "narrative"
 contentType: "guide"
 
@@ -36,13 +36,13 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "b981e60c4f8e26f9"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 published: null
 reviewed: 2026-08-27
-reviewDue: null
-revision: null
+reviewDue: 2027-08-27
+revision: 0
 revisions:
   - revision: 0
     date: 2026-08-27

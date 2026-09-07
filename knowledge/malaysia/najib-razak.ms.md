@@ -6,7 +6,7 @@ category: "malaysia"
 subcategory: ["modern"]
 summary: "Perdana Menteri Malaysia ke-6 (2009–2018), yang kerajaannya memperkenalkan GST dan menyelia penubuhan 1MDB — dana negara yang menjadi tumpuan skandal kewangan global dan yang kemudiannya menyebabkan beliau disabitkan kesalahan."
 
-tier: "2"
+tier: "S"
 mode: "narrative"
 contentType: "guide"
 
@@ -36,13 +36,13 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "b57664a883ee2959"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 published: null
 reviewed: 2026-08-27
-reviewDue: null
-revision: null
+reviewDue: 2027-08-27
+revision: 0
 revisions:
   - revision: 0
     date: 2026-08-27

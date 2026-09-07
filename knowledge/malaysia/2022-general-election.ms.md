@@ -6,7 +6,7 @@ category: "malaysia"
 subcategory: ["modern"]
 summary: "Pilihan raya umum 19 November 2022 yang menghasilkan parlimen tergantung pertama Malaysia dan membawa Anwar Ibrahim menjadi Perdana Menteri ke-10 mengetuai kerajaan perpaduan."
 
-tier: "2"
+tier: "S"
 mode: "narrative"
 contentType: "guide"
 
@@ -35,13 +35,13 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "acdebe065daafc2e"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 published: null
 reviewed: 2026-08-27
-reviewDue: null
-revision: null
+reviewDue: 2027-08-27
+revision: 0
 revisions:
   - revision: 0
     date: 2026-08-27

@@ -6,7 +6,7 @@ category: "malaysia"
 subcategory: ["modern"]
 summary: "Malaysia's 9th Prime Minister (2021–2022), who took office after Muhyiddin Yassin's resignation, signed a stability MOU with the opposition, and called the 2022 general election that ended his term."
 
-tier: "2"
+tier: "S"
 mode: "narrative"
 contentType: "guide"
 
@@ -35,17 +35,17 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 published: null
 reviewed: 2026-08-27
-reviewDue: null
-revision: null
+reviewDue: 2027-08-27
+revision: 0
 revisions:
   - revision: 0
     date: 2026-08-27
-    change: "Initial neutral draft — pending human/legal review (sensitive; a legal matter was live and its outcome unconfirmed at drafting)."
+    change: "Reviewed and published (sensitive content, human-reviewed)."
     contributor: "NegaraKu.md Editorial"
     reviewer: null
 sensitivity: "legal-proceedings"

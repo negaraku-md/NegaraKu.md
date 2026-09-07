@@ -6,7 +6,7 @@ category: "malaysia"
 subcategory: ["modern"]
 summary: "Perdana Menteri Malaysia ke-9 (2021–2022), yang mengambil alih jawatan selepas peletakan jawatan Muhyiddin Yassin, menandatangani MOU kestabilan dengan pembangkang, dan mengumumkan pilihan raya umum 2022 yang menamatkan penggalnya."
 
-tier: "2"
+tier: "S"
 mode: "narrative"
 contentType: "guide"
 
@@ -36,13 +36,13 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "01485efbacf83246"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 published: null
 reviewed: 2026-08-27
-reviewDue: null
-revision: null
+reviewDue: 2027-08-27
+revision: 0
 revisions:
   - revision: 0
     date: 2026-08-27

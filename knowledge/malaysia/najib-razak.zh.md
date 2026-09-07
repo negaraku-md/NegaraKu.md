@@ -6,7 +6,7 @@ category: "malaysia"
 subcategory: ["modern"]
 summary: "马来西亚第六任首相（2009–2018），其政府推行消费税（GST）并主导设立 1MDB——这只国家基金成为一场全球金融丑闻的核心，他日后也因此被定罪。"
 
-tier: "2"
+tier: "S"
 mode: "narrative"
 contentType: "guide"
 
@@ -36,13 +36,13 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "b57664a883ee2959"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 published: null
 reviewed: 2026-08-27
-reviewDue: null
-revision: null
+reviewDue: 2027-08-27
+revision: 0
 revisions:
   - revision: 0
     date: 2026-08-27

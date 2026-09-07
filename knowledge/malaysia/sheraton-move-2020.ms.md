@@ -6,7 +6,7 @@ category: "malaysia"
 subcategory: ["modern"]
 summary: "Penjajaran semula politik pada Februari 2020 — dinamakan sempena hotel tempat para Ahli Parlimen berhimpun — yang meruntuhkan kerajaan Pakatan Harapan dan membawa Muhyiddin Yassin ke tampuk kuasa tanpa pilihan raya umum."
 
-tier: "2"
+tier: "S"
 mode: "narrative"
 contentType: "guide"
 
@@ -35,13 +35,13 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "d475393c9a7ff6eb"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 published: null
 reviewed: 2026-08-27
-reviewDue: null
-revision: null
+reviewDue: 2027-08-27
+revision: 0
 revisions:
   - revision: 0
     date: 2026-08-27
