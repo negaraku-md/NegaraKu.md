@@ -32,7 +32,7 @@ faq:
     a: "基督教家庭透过教堂仪式以宗教方式庆祝这一天。除此之外，圣诞节也更广泛地体现在公共生活之中——商场与酒店挂上装饰、推出季节性促销，而邀请任何背景的宾客共享美食的开放门户传统也十分普遍。参与这个季节较为社会性、广泛的一面，并不局限于基督教徒。"
 
 lang: "zh"
-sourceContentHash: "8d5d938998864ca6"
+sourceContentHash: "4331ba5a016fc700"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -87,7 +87,7 @@ keywords: ["Christmas in Malaysia", "Christmas Day public holiday Malaysia", "Ch
 
 其法律依据因地区而异。在马来西亚半岛，公共假期列于**「Holidays Act 1951」**（Act 369）的First Schedule（第一附表）之中，圣诞节也在其列。沙巴与砂拉越在加入联邦时保留了各自的假期法令，因此依据各自的法令规定公共假期。联邦政府每年也会透过首相署内阁组，发布一份统一的全国假期名单。
 
-其实际结果是一致的：无论透过何种法律文书，12月25日在全国都是不上班的公共假期，就如开斋节（Hari Raya Aidilfitri）、屠妖节（Deepavali）、卫塞节（Wesak）与农历新年一样。
+其实际结果是一致的：无论透过何种法律文书，12月25日在全国都是不上班的公共假期，就如[开斋节](/arts-culture/hari-raya-aidilfitri)（Hari Raya Aidilfitri）、[屠妖节](/arts-culture/deepavali)（Deepavali）、卫塞节（Wesak）与农历新年一样。
 
 ## 唯一不是全国性的日子：平安夜
 

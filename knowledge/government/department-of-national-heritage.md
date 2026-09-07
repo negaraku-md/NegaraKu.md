@@ -74,7 +74,7 @@ related: []
 keywords: ["Jabatan Warisan Negara", "JWN", "Department of National Heritage", "National Heritage Act 2005", "Act 645", "Warisan Kebangsaan", "National Heritage Register", "Commissioner of Heritage", "heritage.gov.my", "MOTAC", "gazette national heritage Malaysia", "Daftar Warisan Kebangsaan", "Warisan Orang Hidup"]
 ---
 
-When a shophouse in George Town gets a protection order, or a *mak yong* dancer is honoured as a living treasure, one federal body sits behind the decision: the **Department of National Heritage** — *Jabatan Warisan Negara* (**JWN**). Established on **1 March 2006**, JWN identifies, conserves, gazettes and protects Malaysia's heritage, and it operates under the **Ministry of Tourism, Arts and Culture (MOTAC)**. Its stated vision is to lead in exploring and preserving heritage treasures toward forging national identity and generating the national economy.
+When a shophouse in George Town gets a protection order, or a *[mak yong](/arts-culture/mak-yong)* dancer is honoured as a living treasure, one federal body sits behind the decision: the **Department of National Heritage** — *Jabatan Warisan Negara* (**JWN**). Established on **1 March 2006**, JWN identifies, conserves, gazettes and protects Malaysia's heritage, and it operates under the **Ministry of Tourism, Arts and Culture (MOTAC)**. Its stated vision is to lead in exploring and preserving heritage treasures toward forging national identity and generating the national economy.
 
 ## What law does JWN run?
 

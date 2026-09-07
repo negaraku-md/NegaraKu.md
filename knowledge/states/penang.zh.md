@@ -35,7 +35,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "20d878bcec429028"
+sourceContentHash: "a7862eb1a54ab895"
 
 status: "published"
 aiAssisted: true
@@ -99,4 +99,4 @@ keywords: ["Penang Malaysia", "George Town UNESCO", "Bayan Lepas", "Penang elect
 
 ## 值得一看的地方
 
-乔治市列入 UNESCO 名录的核心区，混合了英国殖民建筑、华人姓氏桥与峇峇娘惹店屋，以街头艺术景观和马来西亚最受推崇的饮食文化之一闻名。升旗山有缆索列车通往城市上方较凉爽的高处，而极乐寺则是东南亚最大的佛教寺庙建筑群之一。峇都丁宜的海滩撑起岛上的度假旅游，而新关仔角则是知名的海滨餐饮与零售带。连接岛屿与大陆的槟威大桥与第二槟威大桥，本身也是值得一看的基建地标。
+乔治市列入 UNESCO 名录的核心区，混合了英国殖民建筑、华人姓氏桥与[峇峇娘惹](/arts-culture/peranakan)店屋，以街头艺术景观和马来西亚最受推崇的饮食文化之一闻名。升旗山有缆索列车通往城市上方较凉爽的高处，而极乐寺则是东南亚最大的佛教寺庙建筑群之一。峇都丁宜的海滩撑起岛上的度假旅游，而新关仔角则是知名的海滨餐饮与零售带。连接岛屿与大陆的槟威大桥与第二槟威大桥，本身也是值得一看的基建地标。

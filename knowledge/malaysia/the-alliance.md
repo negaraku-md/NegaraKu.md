@@ -112,7 +112,7 @@ In January 1956 a delegation travelled to London for a constitutional conference
 
 The conference itself sat over January and February 1956. What the Alliance delegation secured was not the constitution — that was still to be written — but agreement in principle on a date and a process.
 
-## The joint memorandum to the Reid Commission
+## The joint memorandum to the [Reid Commission](/malaysia/reid-commission)
 
 The constitution was drafted by an independent body, the Reid Commission, convened in 1956 under Lord Reid and staffed by jurists from Britain, Australia, India and Pakistan. It invited submissions and received scores of memoranda from across Malayan society.
 
@@ -130,7 +130,7 @@ The Reid Commission's 1957 report drew on the memoranda it received, including t
 
 The through-line from 1952 to 1957 is that the Alliance functioned as a format for reaching a single position out of three communally organised parties, and then presenting that position — at the ballot box, in London, and to the Reid Commission — as one voice. Whether that format is best understood as a compromise, a bargain, or something else is a matter of interpretation on which this article takes no position. What is documented is the sequence: an ad hoc 1952 pact, expanded in 1954, endorsed at the 1955 election, carried into the 1956 negotiations, and submitted as a joint memorandum before independence.
 
-The Alliance continued as the governing coalition after 1957. It was later reconstituted and broadened into the Barisan Nasional in the 1970s — a separate development beyond the scope of this article.
+The Alliance continued as the governing coalition after 1957. It was later reconstituted and broadened into the [Barisan Nasional](/malaysia/barisan-nasional) in the 1970s — a separate development beyond the scope of this article.
 
 ## What's next
 

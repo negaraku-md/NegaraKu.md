@@ -31,7 +31,7 @@ faq:
     a: "得奖者获颁国家荣誉状（Warkah Penghormatan Negara）、现金RM60,000、价值高达RM500,000（多达50,000册）的出版拨款、在政府医院头等病房的免费医疗，以及每月RM5,000的津贴。"
 
 lang: "zh"
-sourceContentHash: "0ac1a67dc8ff7611"
+sourceContentHash: "c27d87b5dbf2077e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,7 +77,7 @@ keywords: ["sastera Malaysia", "Sasterawan Negara", "Anugerah Sastera Negara", "
 
 ## 马来文学传统源于何处？
 
-马来西亚文学的根源远早于现代国家。它始于口头流传的民间文学——说书人的故事、神话与传说——其后才以爪夷文（Jawi）手稿的形式被记录下来。
+马来西亚文学的根源远早于现代国家。它始于口头流传的民间文学——说书人的故事、神话与传说——其后才以[爪夷文](/arts-culture/jawi-script)（Jawi）手稿的形式被记录下来。
 
 两种古典体裁成为这一传统的支柱。**传奇（hikayat）** 是叙事散文，讲述君王、英雄与事件；而 **诗歌（syair）** 则是每节四行的诗体，宫廷作家常以之颂扬苏丹并记载当代事件。
 

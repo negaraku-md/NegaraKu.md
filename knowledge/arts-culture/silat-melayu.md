@@ -87,7 +87,7 @@ UNESCO menerangkan silat sebagai seni tempur untuk mempertahankan diri dan berta
 
 Kesilapan paling biasa ialah menyempitkan silat kepada satu takrifan. Jabatan Kebudayaan dan Kesenian Negara (JKKN) menerangkannya sebagai seni bela diri tradisional Melayu yang menggabungkan unsur pertahanan diri, tarian, adat, muzik dan falsafah hidup. Ia bukan hanya gerakan fizikal; ia satu cara memikul identiti, disiplin dan nilai budaya.
 
-UNESCO menyusun komponen ini dengan lebih terperinci. Selain latihan fizikal dan kerohanian, silat merangkumi pakaian tradisional Melayu, alat muzik silat, serta pelbagai adat dan upacara. Ertinya, apabila seseorang belajar silat, dia bukan sekadar belajar menendang dan menangkis — dia masuk ke dalam satu sistem adat yang lengkap dengan pakaian, muzik dan tatatertib tersendiri.
+UNESCO menyusun komponen ini dengan lebih terperinci. Selain latihan fizikal dan kerohanian, silat merangkumi [pakaian tradisional Melayu](/arts-culture/traditional-malay-attire), alat muzik silat, serta pelbagai adat dan upacara. Ertinya, apabila seseorang belajar silat, dia bukan sekadar belajar menendang dan menangkis — dia masuk ke dalam satu sistem adat yang lengkap dengan pakaian, muzik dan tatatertib tersendiri.
 
 Menurut UNESCO, banyak gerakan silat mengambil inspirasi daripada alam. Jabatan Warisan Negara menambah bahawa teknik-tekniknya diilhamkan daripada anatomi manusia, gerak tumbuhan dan tingkah laku haiwan. Sebab itulah gaya-gaya silat kerap dinamakan sempena unsur alam — dan salah satu contoh paling terkenal ialah Silat Harimau, yang menurut UNESCO meniru gerak estetik harimau dalam seni menyerang dan mempertahankan diri.
 

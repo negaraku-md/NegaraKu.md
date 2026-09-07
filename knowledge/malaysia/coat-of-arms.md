@@ -97,7 +97,7 @@ Di sinilah jata bercerita paling banyak. Perisai dibahagikan kepada beberapa bah
 | Pokok Melaka | Melaka |
 | Jata Sabah | Sabah |
 | Jata Sarawak | Sarawak |
-| Bunga Raya di tengah | Bunga Kebangsaan Malaysia |
+| [Bunga Raya](/malaysia/bunga-raya-national-flower) di tengah | Bunga Kebangsaan Malaysia |
 
 Perhatikan bagaimana **empat jalur warna** itu sendiri membawa dua lapis makna. Setiap kombinasi warna diambil daripada bendera sebuah Negeri Melayu Bersekutu:
 
@@ -112,7 +112,7 @@ Di tengah-tengah perisai berdiri **Bunga Raya**, bunga kebangsaan Malaysia — s
 
 ## Cogan: 'Bersekutu Bertambah Mutu'
 
-Mengikat keseluruhan jata ialah cogan kata pada pita di bawah perisai: **BERSEKUTU BERTAMBAH MUTU**. Ia ditulis dalam dua tulisan sekali gus — "tulisan rumi di sebelah kiri dan tulisan jawi di sebelah kanan."
+Mengikat keseluruhan jata ialah cogan kata pada pita di bawah perisai: **BERSEKUTU BERTAMBAH MUTU**. Ia ditulis dalam dua tulisan sekali gus — "tulisan rumi di sebelah kiri dan [tulisan jawi](/arts-culture/jawi-script) di sebelah kanan."
 
 Cogan ini merangkumkan idea di sebalik seluruh jata itu: bahawa negeri-negeri yang bersekutu — Melayu Bersekutu, Melayu Tidak Bersekutu, Negeri-negeri Selat, dan kemudian Sabah serta Sarawak — bersama-sama membentuk sebuah kesatuan yang lebih bermutu daripada jumlah bahagiannya. Setiap keris, setiap jalur warna dan setiap pokok pada perisai ialah satu anggota persekutuan itu; cogan ini menyatakan maksud himpunan itu dalam empat patah kata.
 

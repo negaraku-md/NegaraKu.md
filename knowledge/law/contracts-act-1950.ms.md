@@ -34,7 +34,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "fbddb91dda85ccfc"
+sourceContentHash: "a078693f5e3c25a0"
 
 status: "published"
 aiAssisted: true
@@ -115,7 +115,7 @@ Majlis Perundangan Persekutuan Persekutuan Tanah Melayu sendiri tidak meluluskan
 Contracts Ordinance secara rasmi sehingga 1950, itulah sebabnya Akta ini membawa
 tahun tersebut dalam namanya walaupun peraturan asasnya jauh lebih lama.
 
-Pulau Pinang dan Melaka, sebagai bekas Negeri-Negeri Selat, beroperasi di bawah
+Pulau Pinang dan Melaka, sebagai bekas [Negeri-Negeri Selat](/malaysia/straits-settlements), beroperasi di bawah
 common law Inggeris dan bukan Ordinan tersebut untuk satu generasi lagi, manakala
 Sabah dan Sarawak menyertai Malaysia lebih lambat lagi. Keempat-empat wilayah ini
 dibawa di bawah Akta bersama-sama, pada **1 Julai 1974** — tarikh yang sama yang

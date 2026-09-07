@@ -39,7 +39,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "1a4351b7810628a6"
+sourceContentHash: "1ef443559b53c632"
 
 status: "published"
 aiAssisted: true
@@ -177,7 +177,7 @@ Setelah anda berada di Borneo, pergi ke pekan pedalaman dan pantai yang lebih ke
 
 Untuk pelawat, intipati praktikalnya:
 
-- Terbang ke **Kota Kinabalu (BKI)** untuk Sabah — Gunung Kinabalu, menyelam di Semporna, pulau-pulau.
+- Terbang ke **Kota Kinabalu (BKI)** untuk Sabah — [Gunung Kinabalu](/malaysia/mount-kinabalu), menyelam di Semporna, pulau-pulau.
 - Terbang ke **Kuching (KCH)** untuk Sarawak — taman negara, rumah panjang, Bako, Mulu.
 - Jika perjalanan anda termasuk pekan kecil di Borneo (contohnya, Mulu atau kawasan Tanah Tinggi), semak **AirBorneo** untuk laluan luar bandar. Jika anda memegang tempahan MASwings lama, AirBorneo telah mengambil tanggungjawab untuk perkhidmatan tersebut — hubungi syarikat penerbangan untuk mengesahkan.
 

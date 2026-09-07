@@ -44,7 +44,7 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
-sourceContentHash: "e7c621af9be2484a"
+sourceContentHash: "0de005f939d65ebf"
 sources:
   - title: "Agreement relating to the separation of Singapore from Malaysia as an independent and sovereign State (Independence of Singapore Agreement, 1965), UNTS Vol. 563, No. 8206"
     url: "https://treaties.un.org/doc/Publication/UNTS/Volume%20563/volume-563-I-8206-English.pdf"
@@ -86,7 +86,7 @@ Wilayah yang dimaksudkan telah berada di dalam Malaysia selama kurang daripada d
 
 Perselisihan antara Kuala Lumpur dan Singapura pada 1963–1965 berlaku mengikut tiga garis yang direkodkan.
 
-**Persaingan politik.** Parti Tindakan Rakyat (PAP) yang memerintah Singapura dan kerajaan Perikatan di Kuala Lumpur, masing-masing mencabar ruang politik pihak yang satu lagi, dan persaingan itu mengeras menjadi satu pertikaian tentang asas politik itu sendiri. Pada Mei 1965, PAP mengetuai lima parti politik lain dalam menubuhkan Konvensyen Perpaduan Malaysia (Malaysian Solidarity Convention), yang diadakan di Sri Temasek pada 9 Mei 1965, dengan perhimpunan awam pertamanya di Teater Kebangsaan Singapura pada 6 Jun 1965. Perisytiharan bersamanya mengetengahkan konsep "Malaysian Malaysia" — sebuah negara, dalam kata-kata perisytiharan itu, "not defined with the supremacy, well-being and the interests of any one particular community or race" (tidak ditakrifkan dengan keunggulan, kesejahteraan dan kepentingan mana-mana satu kaum atau bangsa tertentu). Kempen itu dianggap oleh para pemimpin di Kuala Lumpur sebagai satu cabaran langsung, dan pertukaran pandangan sekitarnya adalah latar belakang politik yang paling banyak dipetik bagi perpisahan itu.
+**Persaingan politik.** Parti Tindakan Rakyat (PAP) yang memerintah Singapura dan kerajaan [Perikatan](/malaysia/the-alliance) di Kuala Lumpur, masing-masing mencabar ruang politik pihak yang satu lagi, dan persaingan itu mengeras menjadi satu pertikaian tentang asas politik itu sendiri. Pada Mei 1965, PAP mengetuai lima parti politik lain dalam menubuhkan Konvensyen Perpaduan Malaysia (Malaysian Solidarity Convention), yang diadakan di Sri Temasek pada 9 Mei 1965, dengan perhimpunan awam pertamanya di Teater Kebangsaan Singapura pada 6 Jun 1965. Perisytiharan bersamanya mengetengahkan konsep "Malaysian Malaysia" — sebuah negara, dalam kata-kata perisytiharan itu, "not defined with the supremacy, well-being and the interests of any one particular community or race" (tidak ditakrifkan dengan keunggulan, kesejahteraan dan kepentingan mana-mana satu kaum atau bangsa tertentu). Kempen itu dianggap oleh para pemimpin di Kuala Lumpur sebagai satu cabaran langsung, dan pertukaran pandangan sekitarnya adalah latar belakang politik yang paling banyak dipetik bagi perpisahan itu.
 
 **Keganasan perkauman.** Pada 1964, Singapura mengalami dua siri berasingan rusuhan perkauman antara orang Melayu dan Cina — yang pertama tercetus pada 21 Julai 1964 semasa satu perarakan umat Islam. Penyokong setiap kerajaan mengaitkan ketegangan yang mendasarinya dengan politik pihak yang satu lagi; rusuhan itu sendiri, perintah berkurung dan korbannya adalah perkara yang direkodkan, dan ia menjadikan suhu pertikaian politik itu satu perkara keselamatan awam.
 

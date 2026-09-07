@@ -20,7 +20,7 @@ appliesTo: "Pelajar, penyelidik dan pembaca umum yang ingin memahami siapa seben
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ccf33bae844ab71e"
+sourceContentHash: "274cb6f4918d991f"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -68,7 +68,7 @@ Panel itu ialah Suruhanjaya Reid. Dokumen yang dihasilkannya pada 1957 menjadi, 
 
 ## Dari mana asalnya Suruhanjaya itu
 
-Suruhanjaya itu tidak muncul dengan sendirinya. Pada Januari dan Februari 1956, satu delegasi Perikatan yang diketuai oleh Tunku Abdul Rahman bertemu menteri-menteri British di London. Salah satu hasil persidangan itu ialah persetujuan bahawa sebuah suruhanjaya bebas harus dilantik untuk mengesyorkan sebuah perlembagaan bagi Tanah Melayu yang memerintah sendiri.
+Suruhanjaya itu tidak muncul dengan sendirinya. Pada Januari dan Februari 1956, satu delegasi [Perikatan](/malaysia/the-alliance) yang diketuai oleh Tunku Abdul Rahman bertemu menteri-menteri British di London. Salah satu hasil persidangan itu ialah persetujuan bahawa sebuah suruhanjaya bebas harus dilantik untuk mengesyorkan sebuah perlembagaan bagi Tanah Melayu yang memerintah sendiri.
 
 Suruhanjaya itu ditubuhkan secara rasmi pada 7 Mac 1956, dengan persetujuan Ratu Elizabeth II dan Majlis Raja-Raja. Ia mengambil nama tidak rasminya daripada pengerusinya, Lord Reid — seorang Lord of Appeal in Ordinary British yang sedang berkhidmat.
 

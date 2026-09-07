@@ -36,7 +36,7 @@ socialTitle: "The Arabic alphabet that has written Malay for seven centuries —
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "b789637e8d08ef93"
+sourceContentHash: "227837ea67cec8a8"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -105,7 +105,7 @@ Its important distinction is that Jawi is not simply Arabic script. It retains t
 | nya | ڽ |
 | va | ۏ |
 
-The spelling conventions of Jawi Malay are standardised and documented by Dewan Bahasa dan Pustaka (DBP) through the *Pedoman Umum Ejaan Jawi Bahasa Melayu* (General Guidelines for Jawi Malay Spelling), which sets out letter forms, writing methods, and the method for marking vowels, diphthongs and consonants. In other words, a text in Jawi script is read as the Malay language — not Arabic — even though its letters are mostly Arabic letters.
+The spelling conventions of Jawi Malay are standardised and documented by [Dewan Bahasa dan Pustaka](/arts-culture/dewan-bahasa-dan-pustaka) (DBP) through the *Pedoman Umum Ejaan Jawi Bahasa Melayu* (General Guidelines for Jawi Malay Spelling), which sets out letter forms, writing methods, and the method for marking vowels, diphthongs and consonants. In other words, a text in Jawi script is read as the Malay language — not Arabic — even though its letters are mostly Arabic letters.
 
 ## Where Jawi came from
 

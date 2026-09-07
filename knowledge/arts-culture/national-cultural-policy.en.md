@@ -30,7 +30,7 @@ faq:
     a: "According to JKKN, the DKK 1971 forms the basis of the National Culture Policy (DAKEN) 2021, which is built on seven pillars with an implementation period of 2021-2025. JKKN also states that the DKK 1971 was never formally endorsed at Cabinet level, even though it guided administration for about 50 years."
 
 lang: "en"
-sourceContentHash: "8415acb2d17b7196"
+sourceContentHash: "8ad5677b6225effa"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,7 +78,7 @@ related: ["rukun-negara", "dasar-ekonomi-baru"]
 keywords: ["dasar kebudayaan kebangsaan", "kongres kebudayaan kebangsaan 1971", "tiga prinsip", "DAKEN 2021", "kebudayaan Malaysia", "perpaduan"]
 ---
 
-In 1971, about two years after the 13 May 1969 incident, a group of scholars, arts practitioners and leaders gathered at the University of Malaya to answer a difficult question for a multiracial nation: what is meant by "national culture"? The answer that emerged — the National Cultural Policy (DKK) — remains a policy reference to this day, and remains, in equal measure, a subject of debate.
+In 1971, about two years after the [13 May 1969 incident](/malaysia/13-may-1969), a group of scholars, arts practitioners and leaders gathered at the University of Malaya to answer a difficult question for a multiracial nation: what is meant by "national culture"? The answer that emerged — the National Cultural Policy (DKK) — remains a policy reference to this day, and remains, in equal measure, a subject of debate.
 
 This article presents the historical record and the range of views surrounding the policy descriptively. It does not seek to determine who is right or wrong; instead, it arranges the facts and differing positions so that readers can judge for themselves.
 

@@ -29,7 +29,7 @@ faq:
     a: "统治者会议由《联邦宪法》第38条设立，其职能与程序详列于附表五（Jadual Kelima）。"
 
 lang: "zh"
-sourceContentHash: "03884bb92fdc8c74"
+sourceContentHash: "145a64a2a5caf8b7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -133,7 +133,7 @@ keywords: ["raja-raja melayu", "majlis raja-raja", "conference of rulers", "perk
 - **宗教事务。** 同意或不同意任何覆盖整个联邦的宗教行为、习俗或仪式。
 - **特殊地位。** 在依据第153条（涉及马来人及土著特殊地位）作出任何政策变更之前须先咨询会议。
 - **讨论国家政策。** 依据第38(2)条，可就国家政策问题及其认为适宜的任何其他事项进行讨论。
-- **委任事宜。** 就某些须经会议同意的委任提供意见，并依据第182条委任特别法庭（Mahkamah Khas）成员，以及向诸如武装部队委员会（Majlis Angkatan Tentera）和国家语文局（Dewan Bahasa dan Pustaka）理事会等机构委派代表。
+- **委任事宜。** 就某些须经会议同意的委任提供意见，并依据第182条委任特别法庭（Mahkamah Khas）成员，以及向诸如武装部队委员会（Majlis Angkatan Tentera）和[国家语文局（Dewan Bahasa dan Pustaka）](/arts-culture/dewan-bahasa-dan-pustaka)理事会等机构委派代表。
 - **赦免权。** 在特定情形下给予赦免、减刑及缓刑。
 
 根据马来西亚律师公会（Majlis Peguam Malaysia）的记载，《宪法》还依据第38(6)条赋予罢免最高元首的权力——据该记载所述，这一权力从未被行使过。

@@ -35,7 +35,7 @@ faq:
     a: "Sipadan ditutup setiap November untuk pemulihan terumbu, jadi rancang perjalanan menyelam antara Disember dan Oktober. Di tempat lain, bulan-bulan Monsun Timur Laut yang lebih lembap (kira-kira November hingga Mac) membawa lebih banyak hujan ke Borneo."
 
 lang: "ms"
-sourceContentHash: "a56c3fb68c6a9606"
+sourceContentHash: "c9653441143f9da8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -126,7 +126,7 @@ Kota Kinabalu — "KK" bagi hampir semua orang — ialah ibu negeri Sabah dan ha
 Kebanyakan pelawat menggunakan KK sebagai pangkalan selama dua atau tiga hari dan titik lonjakan untuk segala-galanya:
 
 - **Melompat dari pulau ke pulau di ambang pintu.** Pulau-pulau Taman Tunku Abdul Rahman terletak berhampiran pantai, hanya perjalanan bot yang singkat dari kawasan tepi laut bandar — separuh hari yang mudah untuk snorkeling dan pantai.
-- **Titik permulaan untuk Gunung Kinabalu.** Gunung dan ibu pejabat tamannya berjarak kira-kira dua jam pemanduan dari bandar.
+- **Titik permulaan untuk [Gunung Kinabalu](/malaysia/mount-kinabalu).** Gunung dan ibu pejabat tamannya berjarak kira-kira dua jam pemanduan dari bandar.
 - **Sambungan ke pantai timur.** Sandakan (untuk orang utan dan Sungai Kinabatangan) dan Tawau (untuk kawasan menyelam Semporna–Sipadan) merupakan penerbangan domestik singkat dari KK.
 - **Makanan dan matahari terbenam.** Pasar malam bandar, makanan laut, dan matahari terbenam yang terkenal berwarna-warni di atas Laut China Selatan adalah destinasi tersendiri.
 

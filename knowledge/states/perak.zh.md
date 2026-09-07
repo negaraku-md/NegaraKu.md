@@ -42,7 +42,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "8822a257a97328da"
+sourceContentHash: "79feefd0c909668c"
 
 status: "published"
 aiAssisted: true
@@ -175,7 +175,7 @@ keywords: ["Perak", "Perak Darul Ridzuan", "Perjanjian Pangkor", "Residen Britis
 | 甲必丹（Kapitan Cina） | Chung Ah Kwee |
 | 甲必丹 | Ching Ah Yam |
 
-会议事务以马来语进行，并以爪夷文（Jawi）记录，会议记录则翻译成英文。每项议案都经过辩论与表决，才能成为法律。
+会议事务以马来语进行，并以[爪夷文](/arts-culture/jawi-script)（Jawi）记录，会议记录则翻译成英文。每项议案都经过辩论与表决，才能成为法律。
 
 这正是霹雳州议会指出马来西亚宪政史可说是始于1874年邦咯条约的原因，该条约通过1877年成立的霹雳州务会议得以落实。这一制度的传承一直延续到今日的霹雳州议会，该议会共有59个州议员选区，编号从N.01至N.59。
 

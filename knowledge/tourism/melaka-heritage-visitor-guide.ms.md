@@ -40,7 +40,7 @@ faq:
     a: "Muzium itu, di 48 & 50 Jalan Tun Tan Cheng Lock, ditutup pada hari Selasa. Ia dibuka dari 10:00 pagi hingga 4:15 petang pada hari bekerja (kecuali Selasa) dan 10:00 pagi hingga 4:45 petang pada hujung minggu. Oleh sebab waktu dan harga boleh berubah, sahkan di laman web rasmi muzium sebelum melawat."
 
 lang: "ms"
-sourceContentHash: "15443466c3530ff4"
+sourceContentHash: "e6af87197b8f50e1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -103,7 +103,7 @@ Keseluruhan kepentingan Melaka mengalir daripada geografinya: ia terletak di tit
 | Kesultanan Melayu | k. 1400–1511 | Secara tradisi diasaskan oleh Parameswara; keluarga pemerintah kemudiannya menerima pakai Islam | Ingatan dan pembinaan semula kesultanan; legasi pelabuhan perdagangan zaman kegemilangan |
 | Portugis | 1511–1641 | Afonso de Albuquerque menawan bandar pada tahun 1511 | Kubu A Famosa (pintu gerbang Porta de Santiago); Gereja St Paul di bukit |
 | Belanda | 1641–1824 | Syarikat Hindia Timur Belanda mengambil alih pada tahun 1641 | Stadthuys (pertengahan abad ke-17); Gereja Christ (abad ke-18); Dataran Belanda |
-| British | 1824 dan seterusnya | Diserahkan di bawah Perjanjian Inggeris-Belanda 1824 | Pentadbiran Negeri-Negeri Selat; kemudiannya lanskap jalan rumah kedai |
+| British | 1824 dan seterusnya | Diserahkan di bawah Perjanjian Inggeris-Belanda 1824 | Pentadbiran [Negeri-Negeri Selat](/malaysia/straits-settlements); kemudiannya lanskap jalan rumah kedai |
 
 Benang yang paling jelas ialah urutan pemerintah. Portugis merampas bandar itu pada tahun 1511, Belanda mengambilnya selepas kepungan pada tahun 1641 dan memegangnya paling lama — kira-kira 183 tahun — dan Perjanjian Inggeris-Belanda 1824 menggabungkan Melaka, Pulau Pinang dan Singapura ke dalam Negeri-Negeri Selat British. Empat kuasa, satu pelabuhan kecil.
 
@@ -115,7 +115,7 @@ Berita baiknya bagi seorang pelawat ialah tempat-tempat tumpuan utama berkelompo
 - **Bukit St Paul dan Gereja St Paul.** Naiki anak tangga pendek di belakang Dataran Belanda ke **Gereja St Paul** yang tidak beratap, sebuah gereja zaman Portugis di puncak bukit yang kemudiannya digunakan oleh Belanda sebagai tanah perkuburan. Runtuhan, batu nisan yang lapuk dan pemandangan puncak bukit ke arah selat adalah percuma dan terbuka; peruntukkan kira-kira 20–30 minit.
 - **A Famosa (Porta de Santiago).** Turuni sisi lain bukit ke pintu gerbang tunggal yang masih tinggal daripada kubu Portugis yang dibina pada tahun 1511 — salah satu senibina ketenteraan Eropah tertua di Asia Tenggara. Kubu itu sendiri telah lama lenyap; pintu gerbang **Porta de Santiago** ialah serpihan yang masih tinggal.
 - **Jonker Street (Jalan Hang Jebat).** Menyeberang sungai ke pekan Cina lama untuk kedai antik, rumah kongsi, tokong dan, pada petang hujung minggu, pasar malam. Inilah nadi komersial dan deria bagi lawatan ini.
-- **Heeren Street (Jalan Tun Tan Cheng Lock).** Satu blok dari Jonker, "Barisan Jutawan" lama berupa rumah agam Peranakan — lebih tenang, lebih megah, dan menempatkan Muzium Warisan Baba Nyonya.
+- **Heeren Street (Jalan Tun Tan Cheng Lock).** Satu blok dari Jonker, "Barisan Jutawan" lama berupa rumah agam [Peranakan](/arts-culture/peranakan) — lebih tenang, lebih megah, dan menempatkan Muzium Warisan Baba Nyonya.
 
 ## Siapakah Baba Nyonya, dan di manakah saya boleh menemui mereka?
 

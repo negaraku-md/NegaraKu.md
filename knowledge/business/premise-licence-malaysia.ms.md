@@ -44,7 +44,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "3b8895c95cac7bd6"
+sourceContentHash: "0a22774d2a85e872"
 
 status: "published"
 aiAssisted: true
@@ -178,7 +178,7 @@ Empat peruntukan menentukan kebanyakan pertikaian:
 
 Permohonan dibuat melalui **eLesen DBKL**. Set dokumen am adalah pendek: dokumen pendaftaran
 SSM, pengenalan pemohon, visual papan tanda berwarna yang disahkan oleh
-Dewan Bahasa dan Pustaka di mana berkaitan dengan foto pemasangan, serta foto luar dan
+[Dewan Bahasa dan Pustaka](/arts-culture/dewan-bahasa-dan-pustaka) di mana berkaitan dengan foto pemasangan, serta foto luar dan
 dalam. DBKL menyatakan dengan jelas bahawa tempoh sah lesen adalah **dinamik** dan tidak
 semestinya berakhir pada 31 Disember.
 

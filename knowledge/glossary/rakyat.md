@@ -69,7 +69,7 @@ dalam Bahasa Malaysia.
 
 ## Apa maksud "rakyat"
 
-Menurut **Kamus Dewan** (Dewan Bahasa dan Pustaka), melalui portal Pusat
+Menurut **Kamus Dewan** ([Dewan Bahasa dan Pustaka](/arts-culture/dewan-bahasa-dan-pustaka)), melalui portal Pusat
 Rujukan Persuratan Melayu (PRPM), "rakyat" membawa beberapa maksud:
 
 | Maksud | Keterangan |

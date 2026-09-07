@@ -193,7 +193,7 @@ A few things to know before you go:
 - **Mind the macaques.** Monkeys around the steps can snatch food, drinks and loose items — keep bags closed.
 - **The staircase is steep.** Wear comfortable shoes; there are many steps up to the cave.
 
-Batu Caves is also the epicentre of **Thaipusam**, a major Hindu festival that draws enormous crowds of devotees. It is spectacular but extremely busy — plan around it depending on whether you want the spectacle or the quiet.
+Batu Caves is also the epicentre of [**Thaipusam**](/arts-culture/thaipusam), a major Hindu festival that draws enormous crowds of devotees. It is spectacular but extremely busy — plan around it depending on whether you want the spectacle or the quiet.
 
 ## A simple 2–3 day plan
 

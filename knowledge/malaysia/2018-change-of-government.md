@@ -59,7 +59,7 @@ related: ["spr-election-commission", "dewan-rakyat", "how-elections-work", "fede
 keywords: ["14th general election", "GE14", "PRU14", "2018 Malaysian general election", "change of government Malaysia", "Pakatan Harapan", "Barisan Nasional", "Dewan Rakyat 222 seats", "Article 43 Federal Constitution", "Mahathir seventh Prime Minister"]
 ---
 
-For 61 years, from the first federal election after independence in 1957 up to 2018, every federal government of Malaysia was formed by a single coalition — the Alliance, and from the 1970s its successor, Barisan Nasional. At the 14th general election, that continuity ended: a different coalition won a majority of the seats in the Dewan Rakyat.
+For 61 years, from the first federal election after independence in 1957 up to 2018, every federal government of Malaysia was formed by a single coalition — [the Alliance](/malaysia/the-alliance), and from the 1970s its successor, [Barisan Nasional](/malaysia/barisan-nasional). At the 14th general election, that continuity ended: a different coalition won a majority of the seats in the Dewan Rakyat.
 
 This article does not retell the campaign as a story, and it characterises no party, candidate or voter. It sets out what the record documents: the polling date, the seat figures, the constitutional mechanism by which the government changed, and the dates on which it happened.
 

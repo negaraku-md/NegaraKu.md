@@ -34,7 +34,7 @@ faq:
     a: "Yes, although it is considered increasingly endangered. Kristang cuisine is the tradition of the Portuguese-Asian Eurasian community in Melaka, with dishes such as kari debal (devil's curry) that use vinegar, mustard seed and candlenut. Several restaurants and cooking classes in Melaka are working to preserve this tradition because younger generations are inheriting it less and less."
 
 lang: "en"
-sourceContentHash: "c7f833b372d0e6cf"
+sourceContentHash: "b5facc6867b131b5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,7 +83,7 @@ related: ["batik", "borneo-indigenous-languages"]
 keywords: ["masakan Peranakan Nyonya", "masakan pantai timur Kelantan Terengganu", "masakan Sarawak Sabah", "masakan Mamak nasi kandar", "kari debal Kristang", "budaya sarapan Malaysia UNESCO"]
 ---
 
-Ask ten Malaysians what "Malaysian food" is, and you may get ten different maps. Someone from Kota Bharu will start with the blue nasi kerabu and budu; someone from Kuching will mention Sarawak laksa and kolo mee; someone from Melaka might talk about Nyonya ayam pongteh or Kristang kari debal; and yet another will point straight to the mamak stall at the end of the street. None of them is wrong. Malaysia has no single national cuisine — it has a family of kitchens that grew up in different regions and communities, then spent centuries borrowing from one another.
+Ask ten Malaysians what "Malaysian food" is, and you may get ten different maps. Someone from Kota Bharu will start with the blue nasi kerabu and budu; someone from Kuching will mention Sarawak laksa and kolo mee; someone from Melaka might talk about Nyonya ayam pongteh or [Kristang](/arts-culture/kristang-eurasian-culture) kari debal; and yet another will point straight to the mamak stall at the end of the street. None of them is wrong. Malaysia has no single national cuisine — it has a family of kitchens that grew up in different regions and communities, then spent centuries borrowing from one another.
 
 The most honest way to read this cuisine is not to rank it, but to read it as history. Each tradition is a record of who came, who married whom, what grew in the soil, and what was brought in through the ports.
 
@@ -95,7 +95,7 @@ Across the South China Sea, Sarawak and Sabah in Borneo have an entirely differe
 
 ## What makes Nyonya cuisine so special?
 
-Peranakan, or Nyonya, cuisine is often called one of the world's earliest fusion cuisines. It was born from intermarriage between Chinese traders who settled in the Straits Settlements and local women, with its main centres in Melaka and Penang. The term "Baba" refers to the men and "Nyonya" to the women — and because it was the women who ran the kitchen and set the standard, the cuisine took their name.
+[Peranakan](/arts-culture/peranakan), or Nyonya, cuisine is often called one of the world's earliest fusion cuisines. It was born from intermarriage between Chinese traders who settled in the Straits Settlements and local women, with its main centres in Melaka and Penang. The term "Baba" refers to the men and "Nyonya" to the women — and because it was the women who ran the kitchen and set the standard, the cuisine took their name.
 
 What makes it distinct is the way it combines two worlds: the technique and some symbolism of Chinese cooking, united with Malay ingredients such as coconut milk, lemongrass, tamarind, candlenut and daun kesum. Dishes such as Nyonya laksa, ayam pongteh, itik tim and colourful kuih display this blend. Because Peranakan culture is open, its cuisine also keeps traces of Portuguese, Dutch and English touches. George Town in Penang, now a UNESCO World Heritage Site, remains one of the best places to see this multicultural heritage still alive.
 
@@ -136,7 +136,7 @@ The table below summarises each tradition fairly — not to rank them, but to sh
 
 ## Is all of this officially recognised?
 
-Yes, and the recognition keeps growing. In December 2024, UNESCO inscribed "Malaysian Breakfast Culture: A Dining Experience in a Multi-Ethnic Society" on the Representative List of the Intangible Cultural Heritage of Humanity, at the committee's 19th session held in Paraguay. This was Malaysia's first food-related nomination, submitted in March 2023, and it is now one of nine Malaysian intangible cultural heritage elements listed by UNESCO, alongside songket, silat, mak yong and dondang sayang. Importantly, the recognition is not about a single dish, but about the way a multi-ethnic society gathers at the morning table — a celebration of unity in diversity.
+Yes, and the recognition keeps growing. In December 2024, UNESCO inscribed "Malaysian Breakfast Culture: A Dining Experience in a Multi-Ethnic Society" on the Representative List of the Intangible Cultural Heritage of Humanity, at the committee's 19th session held in Paraguay. This was Malaysia's first food-related nomination, submitted in March 2023, and it is now one of nine Malaysian intangible cultural heritage elements listed by UNESCO, alongside [songket](/arts-culture/songket), silat, [mak yong](/arts-culture/mak-yong) and dondang sayang. Importantly, the recognition is not about a single dish, but about the way a multi-ethnic society gathers at the morning table — a celebration of unity in diversity.
 
 At the national level, the Department of National Heritage runs a heritage-food programme (Makanan Warisan) that celebrates dishes across regions, from Melaka's heritage cuisine to Sarawak's umai, tebaloi, kek lapis and bubur pedas, as well as roti canai and teh tarik. This framework treats every kitchen tradition as part of the nation's shared heritage, and not the exclusive property of any one group.
 

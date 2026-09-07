@@ -85,7 +85,7 @@ hilang; mereka berada di lebuh raya, menuju ke tempat asal keluarga. Itulah
 
 Istilah ini bermaksud pulang ke kampung halaman, dan ia bukan milik satu kaum.
 Keluarga Melayu pulang menjelang Aidilfitri, keluarga Cina menjelang Tahun
-Baharu Cina, keluarga India menjelang Deepavali, dan keluarga Kristian
+Baharu Cina, keluarga India menjelang [Deepavali](/arts-culture/deepavali), dan keluarga Kristian
 menjelang Krismas. Coraknya sama; hanya tarikhnya berbeza.
 
 ## Kenapa ia sebesar ini

@@ -36,7 +36,7 @@ socialTitle: "How Bahasa Melayu became the national language — and moved from 
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "31da3b0bb6a8193f"
+sourceContentHash: "1578825625379e44"
 
 status: "published"
 aiAssisted: true
@@ -96,7 +96,7 @@ keywords: ["bahasa Melayu", "bahasa kebangsaan", "Perkara 152", "Akta Bahasa Keb
 
 In Kuala Berang, Terengganu, a stone inscription was found bearing Malay words — not in the letters we know today, but in Arabic script adapted for Malay sounds. According to Arkib Negara Malaysia (the National Archives of Malaysia), the inscription is dated 1303 CE.
 
-That Terengganu Inscribed Stone, according to UNESCO, is the earliest evidence of Jawi script in the Malay Islamic world of Southeast Asia, and it was inscribed on the UNESCO Memory of the World Register in 2009. It is a sign that the language which is now Malaysia's national language was already being written, read and used for matters of government more than seven centuries ago.
+That Terengganu Inscribed Stone, according to UNESCO, is the earliest evidence of [Jawi script](/arts-culture/jawi-script) in the Malay Islamic world of Southeast Asia, and it was inscribed on the UNESCO Memory of the World Register in 2009. It is a sign that the language which is now Malaysia's national language was already being written, read and used for matters of government more than seven centuries ago.
 
 This article explains two closely related matters: what the position of Bahasa Melayu is under the Constitution and the law, and how its script changed from Jawi to Rumi. Both are explained descriptively — what is provided, by whom, and when.
 
@@ -142,7 +142,7 @@ Jawi script — Arabic letters adapted for Malay sounds — was the primary scri
 
 Rumi script — the Latin alphabet — began to be used widely for Bahasa Melayu during the colonial period, when various Rumi spelling systems were devised. By the mid-20th century, standardising Rumi spelling had become a focus of the Malay language movement.
 
-**1956** — Dewan Bahasa dan Pustaka (DBP), originally named Balai Pustaka, was established on 22 June 1956 in Johor Bahru to develop Bahasa Melayu as the national and official language of the soon-to-be-independent country. Following the Third Malay Language and Literature Congress (Kongres Bahasa dan Persuratan Melayu Ketiga), held in Singapore and Johor Bahru from 16 to 21 September 1956, its name was changed to Dewan Bahasa dan Pustaka.
+**1956** — [Dewan Bahasa dan Pustaka](/arts-culture/dewan-bahasa-dan-pustaka) (DBP), originally named Balai Pustaka, was established on 22 June 1956 in Johor Bahru to develop Bahasa Melayu as the national and official language of the soon-to-be-independent country. Following the Third Malay Language and Literature Congress (Kongres Bahasa dan Persuratan Melayu Ketiga), held in Singapore and Johor Bahru from 16 to 21 September 1956, its name was changed to Dewan Bahasa dan Pustaka.
 
 **1957** — When the Federation of Malaya achieved [independence](/en/malaysia/independence-1957), the position of Bahasa Melayu as the national language was enshrined in Article 152 of the Federal Constitution, as recorded by Arkib Negara Malaysia.
 

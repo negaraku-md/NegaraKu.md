@@ -206,7 +206,7 @@ kuasa ketika itu:
 | Kapitan Cina | Chung Ah Kwee |
 | Kapitan Cina | Ching Ah Yam |
 
-Urusan majlis dijalankan dalam bahasa Melayu dan dicatat dalam tulisan Jawi,
+Urusan majlis dijalankan dalam bahasa Melayu dan dicatat dalam [tulisan Jawi](/arts-culture/jawi-script),
 manakala minitnya diterjemahkan ke bahasa Inggeris. Setiap usul dibahas dan
 diundi sebelum menjadi undang-undang.
 

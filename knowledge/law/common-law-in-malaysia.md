@@ -89,7 +89,7 @@ thereof, and any custom or usage having the force of law."
 But that definition only tells you common law *counts* as law where it *is in
 operation*. What put it into operation — and fixed exactly how much of it — is
 the Civil Law Act 1956 (Act 67). Before independence, Penang and Malacca (as
-former Straits Settlements) had already received English law through earlier
+former [Straits Settlements](/malaysia/straits-settlements)) had already received English law through earlier
 royal charters of justice, and the pre-independence Malay States and the Borneo
 territories each had their own local ordinances doing something similar. Act 67
 consolidated all of that into one statute for the newly independent Federation,

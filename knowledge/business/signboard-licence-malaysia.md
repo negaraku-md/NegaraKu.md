@@ -107,7 +107,7 @@ keywords:
   - "signboard licence fee DBKL"
 ---
 
-Most guides tell you that Kuala Lumpur is the city where Dewan Bahasa dan Pustaka has to
+Most guides tell you that Kuala Lumpur is the city where [Dewan Bahasa dan Pustaka](/arts-culture/dewan-bahasa-dan-pustaka) has to
 approve your signboard wording, as though it were a KL quirk.
 
 It is not. DBKL, MBPJ, MBSA and DBKK all require it, each in its own published words. The

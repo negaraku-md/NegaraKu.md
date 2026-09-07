@@ -44,7 +44,7 @@ verificationNeeded:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "ab61ca68f54bcbbf"
+sourceContentHash: "c089ad0a854f3911"
 
 status: "published"
 aiAssisted: true
@@ -219,7 +219,7 @@ For a state that supplies about a third of the nation's rice, that is not a
 position most people would expect. See also the overview of Malaysia's
 [manufacturing sector](/en/economy/manufacturing) as a whole.
 
-## Old Kedah and the Bujang Valley
+## Old Kedah and the [Bujang Valley](/malaysia/bujang-valley)
 
 In Merbok district, at the foot of Gunung Jerai, lies a layer of history far
 older than any factory or paddy field.
@@ -259,7 +259,7 @@ Badlishah**, the **29th** Sultan of Kedah, proclaimed on **12 September
 The same portal records that the Sultanate of Kedah began in **1136**, when
 Raja Phra Ong Mahawangsa converted to Islam and took the title Sultan
 Mudzafar Shah. The state subsequently passed through periods under
-Srivijayan, Siamese and British influence before joining the Federation of
+[Srivijayan](/malaysia/srivijaya), Siamese and British influence before joining the Federation of
 Malaya in 1948.
 
 Alor Setar itself was founded in **1735** by Sultan Muhammad Jiwa Sultan

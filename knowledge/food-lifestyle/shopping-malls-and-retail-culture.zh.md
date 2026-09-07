@@ -30,7 +30,7 @@ faq:
     a: "pasar malam是夜市——一种轮流开设的露天街头市场，在固定的工作日晚上于某个社区摆摊，售卖熟食、新鲜农产品和廉价商品。它与日间的巴刹（pasar，湿市场）和农民市场（pasar tani）并列，同属马来西亚非商场零售文化的一部分。"
 
 lang: "zh"
-sourceContentHash: "a27ecf6569685bc2"
+sourceContentHash: "a2bc8ea503179f64"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -131,7 +131,7 @@ keywords: ["shopping malls Malaysia", "retail culture Malaysia", "SST pricing", 
 
 ## 促销季在什么时候？
 
-这里的零售遵循着促销季的节奏。全国性的大型促销活动集中在**年中**和**年末**时段，而节庆购物则在**开斋节（Hari Raya Aidilfitri）、农历新年和屠妖节（Deepavali）**前掀起热潮，届时商场会延长营业时间并举办市集。在线上，成双数字的日期（如11.11和12.12）已成为各自独立的购物盛会。由于商品价格是含税报价，广告中的折扣就是从最终价格中扣减的折扣——收银台不会再另外加回任何税款。
+这里的零售遵循着促销季的节奏。全国性的大型促销活动集中在**年中**和**年末**时段，而节庆购物则在**[开斋节（Hari Raya Aidilfitri）](/arts-culture/hari-raya-aidilfitri)、农历新年和[屠妖节（Deepavali）](/arts-culture/deepavali)**前掀起热潮，届时商场会延长营业时间并举办市集。在线上，成双数字的日期（如11.11和12.12）已成为各自独立的购物盛会。由于商品价格是含税报价，广告中的折扣就是从最终价格中扣减的折扣——收银台不会再另外加回任何税款。
 
 ## 接下来
 

@@ -67,7 +67,7 @@ That panel was the Reid Commission. The document it produced in 1957 became, aft
 
 ## Where the Commission came from
 
-The Commission did not appear on its own. In January and February 1956, an Alliance delegation led by Tunku Abdul Rahman met British ministers in London. One of the outcomes of that conference was an agreement that an independent commission should be appointed to recommend a constitution for a self-governing Malaya.
+The Commission did not appear on its own. In January and February 1956, an [Alliance](/malaysia/the-alliance) delegation led by Tunku Abdul Rahman met British ministers in London. One of the outcomes of that conference was an agreement that an independent commission should be appointed to recommend a constitution for a self-governing Malaya.
 
 The Commission was formally constituted on 7 March 1956, with the approval of Queen Elizabeth II and the Conference of Rulers. It took its informal name from its chairman, Lord Reid — a serving British Lord of Appeal in Ordinary.
 

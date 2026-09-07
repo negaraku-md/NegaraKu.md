@@ -30,7 +30,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "1933adbc7603ea58"
+sourceContentHash: "4f75b1390b41bfeb"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -120,7 +120,7 @@ KPM 负责国家教育体系，具体而言负责**高等教育前教育**：学
 
 KPM 是联邦预算中最大的单一支出项目。根据**2026年财政预算案**，它获得所有联邦部门中最大的拨款——**RM66.2亿令吉**，高于2025年的RM64.2亿令吉。其中包括近RM20亿令吉，用于翻新超过520所破旧学校（尤其是在沙巴与砂拉越），以及在全国兴建38所新学校。
 
-一系列机构与团体隶属于该部门，包括国家语文局（Dewan Bahasa dan Pustaka）、马来西亚考试局（Majlis Peperiksaan Malaysia），以及14个州教育局（Jabatan Pendidikan Negeri）。
+一系列机构与团体隶属于该部门，包括[国家语文局（Dewan Bahasa dan Pustaka）](/arts-culture/dewan-bahasa-dan-pustaka)、马来西亚考试局（Majlis Peperiksaan Malaysia），以及14个州教育局（Jabatan Pendidikan Negeri）。
 
 ## 接下来
 

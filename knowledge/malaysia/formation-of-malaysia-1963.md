@@ -90,7 +90,7 @@ Formation had originally been targeted for 31 August 1963 — deliberately chose
 
 ## The exit nobody advertised in advance
 
-Singapore's time as a Malaysian state lasted less than two years. Political tension between the People's Action Party, led by Lee Kuan Yew, and the Alliance government in Kuala Lumpur — over economic policy, race-based politics, and PAP's ambitions beyond Singapore's borders — escalated to the point that Parliament voted to expel Singapore from the federation. Singapore became a fully independent republic on 9 August 1965, an outcome neither side had planned for at the 1963 merger and one Lee Kuan Yew himself later described, in a widely reported and visibly emotional press conference, as a moment of anguish rather than triumph.
+Singapore's time as a Malaysian state lasted less than two years. Political tension between the People's Action Party, led by Lee Kuan Yew, and [the Alliance](/malaysia/the-alliance) government in Kuala Lumpur — over economic policy, race-based politics, and PAP's ambitions beyond Singapore's borders — escalated to the point that Parliament voted to expel Singapore from the federation. Singapore became a fully independent republic on 9 August 1965, an outcome neither side had planned for at the 1963 merger and one Lee Kuan Yew himself later described, in a widely reported and visibly emotional press conference, as a moment of anguish rather than triumph.
 
 ## Why it still matters
 

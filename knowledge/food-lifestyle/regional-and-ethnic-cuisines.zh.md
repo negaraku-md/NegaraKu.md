@@ -34,7 +34,7 @@ faq:
     a: "还在，尽管被视为日益濒危。克里斯坦菜是马六甲葡萄牙－亚裔混血欧亚社群的传统，代表菜如魔鬼咖喱（kari debal / devil's curry），会用到醋、芥末籽和石栗（buah keras）。马六甲的一些餐馆和烹饪班正努力保存这一传统，因为年轻一代越来越少继承它。"
 
 lang: "zh"
-sourceContentHash: "c7f833b372d0e6cf"
+sourceContentHash: "b5facc6867b131b5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,7 +83,7 @@ related: ["batik", "borneo-indigenous-languages"]
 keywords: ["masakan Peranakan Nyonya", "masakan pantai timur Kelantan Terengganu", "masakan Sarawak Sabah", "masakan Mamak nasi kandar", "kari debal Kristang", "budaya sarapan Malaysia UNESCO"]
 ---
 
-随便问十个马来西亚人什么是「马来西亚美食」，你大概会得到十张不同的地图。来自哥打峇鲁（Kota Bharu）的人会从蓝色的蓝花饭（nasi kerabu）和峇拉煎鱼酱（budu）说起；来自古晋（Kuching）的人会提砂拉越叻沙（laksa Sarawak）和干捞面（kolo mee）；来自马六甲的人也许会讲娘惹的香卤鸡（ayam pongteh）或克里斯坦的魔鬼咖喱（kari debal）；还有人会直接指向街角的嘛嘛档。他们没有一个是错的。马来西亚没有单一的国家菜系——它拥有的是一族在不同地区和社群中生长、然后用几个世纪彼此借鉴的厨房。
+随便问十个马来西亚人什么是「马来西亚美食」，你大概会得到十张不同的地图。来自哥打峇鲁（Kota Bharu）的人会从蓝色的蓝花饭（nasi kerabu）和峇拉煎鱼酱（budu）说起；来自古晋（Kuching）的人会提砂拉越叻沙（laksa Sarawak）和干捞面（kolo mee）；来自马六甲的人也许会讲娘惹的香卤鸡（ayam pongteh）或[克里斯坦](/arts-culture/kristang-eurasian-culture)的魔鬼咖喱（kari debal）；还有人会直接指向街角的嘛嘛档。他们没有一个是错的。马来西亚没有单一的国家菜系——它拥有的是一族在不同地区和社群中生长、然后用几个世纪彼此借鉴的厨房。
 
 阅读这些菜系最诚实的方式，不是把它们排名，而是把它们当作历史来读。每一种传统都是一份记录：谁来到这里，谁与谁通婚，那片土地上长出什么，又有什么经由港口被带了进来。
 
@@ -95,7 +95,7 @@ keywords: ["masakan Peranakan Nyonya", "masakan pantai timur Kelantan Terengganu
 
 ## 是什么让娘惹菜如此特别？
 
-娘惹（Peranakan/Nyonya）菜常被称为世界上最早的融合菜系之一。它诞生于定居在海峡殖民地的华人商贩与当地女性的通婚，核心在马六甲和槟城。「峇峇」（Baba）指男性，「娘惹」（Nyonya）指女性——而由于掌管厨房、定下标准的是女性，这门菜系便以她们为名。
+[娘惹](/arts-culture/peranakan)（Peranakan/Nyonya）菜常被称为世界上最早的融合菜系之一。它诞生于定居在海峡殖民地的华人商贩与当地女性的通婚，核心在马六甲和槟城。「峇峇」（Baba）指男性，「娘惹」（Nyonya）指女性——而由于掌管厨房、定下标准的是女性，这门菜系便以她们为名。
 
 让它与众不同的，是它融合两个世界的方式：中式的技法与部分象征意义，与椰浆、香茅、亚参（罗望子）、石栗和叻沙叶（daun kesum）等马来食材结合在一起。娘惹叻沙、香卤鸡（ayam pongteh）、炖鸭（itik tim）和色彩缤纷的糕点（kuih）都展现了这种结合。由于娘惹文化本身具有开放性，其菜系也留有葡萄牙、荷兰和英国的痕迹。如今已成为联合国教科文组织世界遗产地的槟城乔治市，仍是见证这份多元文化遗产依然鲜活的最佳地点之一。
 
@@ -136,7 +136,7 @@ keywords: ["masakan Peranakan Nyonya", "masakan pantai timur Kelantan Terengganu
 
 ## 这些都获得官方认可了吗？
 
-是的，而且这份认可正在不断增加。2024年12月，在巴拉圭举行的委员会第19届会议上，联合国教科文组织将「马来西亚早餐文化：多元族群社会中的用餐体验」列入人类非物质文化遗产代表作名录。这是马来西亚首个与美食相关的申报，于2023年3月提交，如今它成为马来西亚九项获联合国教科文组织列名的非物质文化遗产之一，与宋吉锦（songket）、武术（silat）、玛咏舞剧（mak yong）和情歌对唱（dondang sayang）并列。重要的是，这份认可关乎的不是某一道单一的菜肴，而是多元族群的人们如何齐聚在清晨的餐桌旁——一场多元中求团结的庆祝。
+是的，而且这份认可正在不断增加。2024年12月，在巴拉圭举行的委员会第19届会议上，联合国教科文组织将「马来西亚早餐文化：多元族群社会中的用餐体验」列入人类非物质文化遗产代表作名录。这是马来西亚首个与美食相关的申报，于2023年3月提交，如今它成为马来西亚九项获联合国教科文组织列名的非物质文化遗产之一，与[宋吉锦](/arts-culture/songket)（songket）、武术（silat）、[玛咏舞剧](/arts-culture/mak-yong)（mak yong）和情歌对唱（dondang sayang）并列。重要的是，这份认可关乎的不是某一道单一的菜肴，而是多元族群的人们如何齐聚在清晨的餐桌旁——一场多元中求团结的庆祝。
 
 在国家层面，国家文物局开展了遗产美食（Makanan Warisan）计划，颂扬跨地区的菜肴，从马六甲的传统菜到砂拉越的乌迈、西米糕（tebaloi）、千层糕（kek lapis）和辣粥（bubur pedas），再到印度煎饼和拉茶。这一框架把每一种厨房传统都当作国家共同遗产的一部分，而非任何单一群体的专属。
 

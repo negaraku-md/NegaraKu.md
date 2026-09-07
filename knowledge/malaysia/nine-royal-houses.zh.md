@@ -38,7 +38,7 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
-sourceContentHash: "17824a1e9b085a4f"
+sourceContentHash: "2e19d7c57053d5f0"
 sources:
   - title: "Federal Constitution (Reprint 2020) — Article 3, Article 32, Article 38, Fifth Schedule"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
@@ -119,7 +119,7 @@ keywords: ["negeri beraja Malaysia", "sembilan Raja Melayu", "Sultan Raja Yang d
 
 ## 这项安排如何形成
 
-根据统治者御玺守护官办公室的资料，现代形式的统治者会议始于取代马来亚联邦（Malayan Union）的《1948年马来亚联合邦协定》（Perjanjian Persekutuan Tanah Melayu 1948）。会议的首次会议于1948年2月18日召开，由统治者御玺守护官担任秘书。
+根据统治者御玺守护官办公室的资料，现代形式的统治者会议始于取代[马来亚联邦](/malaysia/malayan-union)（Malayan Union）的《1948年马来亚联合邦协定》（Perjanjian Persekutuan Tanah Melayu 1948）。会议的首次会议于1948年2月18日召开，由统治者御玺守护官担任秘书。
 
 会议的成员架构随联邦的发展而扩大。1957年8月31日独立后，槟城与马六甲的州元首加入会议；1963年9月16日马来西亚成立后，沙巴与砂拉越的元首也相继加入。相关背景见[1963年马来西亚的成立](/zh/malaysia/formation-of-malaysia-1963)。在整个扩展过程中，拥有统治者的州属数目始终维持九个。
 

@@ -222,7 +222,7 @@ an adequate number of full-time Malaysian employees; and minimum fixed asset inv
 land of **RM10 million**, or **RM5 million** for the small-company and LLP limbs. Qualifying
 activities span agriculture, agriculture-related services, ICT, education and training,
 manufacturing, oil and gas, hotels, tourism, and cultural and heritage crafts including batik,
-songket, brassware and woodcarving.
+[songket](/arts-culture/songket), brassware and woodcarving.
 
 Applications were made **to the Minister through the Council from 1 August 2021 to 31 December
 2024**. Note the sequence: the rules were gazetted in **August 2025**, nearly eight months *after*

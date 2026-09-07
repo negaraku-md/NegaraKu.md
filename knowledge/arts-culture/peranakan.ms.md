@@ -18,7 +18,7 @@ keyTakeaways:
   - "Kebaya, yang menjadi tunjang pakaian Nyonya, disenaraikan dalam senarai warisan tidak ketara UNESCO pada 2024 melalui pencalonan bersama oleh Brunei, Indonesia, Malaysia, Singapura dan Thailand"
 appliesTo: "Sesiapa yang ingin mendapatkan gambaran yang tepat dan penuh hormat tentang siapa Peranakan (Baba-Nyonya), dan cara mengenali masakan, pakaian dan warisan kebendaan mereka di Melaka dan Pulau Pinang."
 lang: "ms"
-sourceContentHash: "7e3f2a7e8d2a3952"
+sourceContentHash: "5612cf657643e831"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -66,7 +66,7 @@ Masuk ke sebuah rumah kedai lama di Heeren Street, Melaka, dan cerita itu disamp
 
 Perkataan *Peranakan* berasal daripada *anak* dalam bahasa Melayu, bermaksud kanak-kanak, dan menggambarkan orang yang **lahir tempatan**. Lelaki dalam komuniti ini digelar *Baba*; wanita digelar *Nyonya* (kadangkala dieja Nonya). Baba-Nyonya ialah **Peranakan Cina**: keturunan lelaki Cina yang menetap di pelabuhan-pelabuhan perdagangan Kepulauan Melayu, berkahwin dengan wanita tempatan, dan membesarkan generasi yang menyerap bahasa, makanan dan adat di sekeliling mereka sambil mengekalkan sebahagian besar keturunan Cina mereka.
 
-Secara sejarah, komuniti ini tertumpu di pelabuhan-pelabuhan yang kemudiannya menjadi **Negeri-Negeri Selat** British — Melaka, Pulau Pinang (George Town) dan Singapura — dan atas sebab itu mereka turut dikenali sebagai **Straits Chinese** atau Cina kelahiran Selat. Bila tepatnya komuniti ini mula terbentuk masih diperdebatkan, dan naratif popular yang menetapkannya kepada satu pelayaran atau satu tahun sahaja perlu dilihat dengan berhati-hati; apa yang jelas ialah ia terbentuk daripada berabad-abad perkahwinan campur dan penempatan di Melaka, lalu berkembang menjadi satu budaya yang boleh dikenal pasti di bawah Negeri-Negeri Selat.
+Secara sejarah, komuniti ini tertumpu di pelabuhan-pelabuhan yang kemudiannya menjadi **[Negeri-Negeri Selat](/malaysia/straits-settlements)** British — Melaka, Pulau Pinang (George Town) dan Singapura — dan atas sebab itu mereka turut dikenali sebagai **Straits Chinese** atau Cina kelahiran Selat. Bila tepatnya komuniti ini mula terbentuk masih diperdebatkan, dan naratif popular yang menetapkannya kepada satu pelayaran atau satu tahun sahaja perlu dilihat dengan berhati-hati; apa yang jelas ialah ia terbentuk daripada berabad-abad perkahwinan campur dan penempatan di Melaka, lalu berkembang menjadi satu budaya yang boleh dikenal pasti di bawah Negeri-Negeri Selat.
 
 "Peranakan" ialah satu istilah payung dan bukan satu kumpulan tunggal. Selain Baba-Nyonya Cina, rantau ini turut menjadi tempat tinggal komuniti berakar tempatan lain seperti **Chitty** (Peranakan berketurunan India, terutamanya Tamil, di Melaka) dan **Jawi Peranakan** (berketurunan campuran India-Muslim dan Melayu). Artikel ini memberi tumpuan kepada Peranakan Cina, iaitu kumpulan yang paling ramai dimaksudkan oleh kebanyakan orang apabila menyebut "Baba-Nyonya".
 

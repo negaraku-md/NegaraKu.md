@@ -25,7 +25,7 @@ appliesTo: "任何想理解马来西亚法院为何援引英国判例的人、�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "3a9871305f7d7486"
+sourceContentHash: "0e25f8448644480c"
 
 status: "published"
 aiAssisted: true
@@ -89,7 +89,7 @@ of law."
 
 但这项定义只告诉你，普通法在其*实际施行*的地方才*算作*法律。真正使它施行
 起来——并准确划定其范围——的是 Civil Law Act 1956（Act 67）。在独立之前，
-槟城与马六甲（作为前 Straits Settlements）早已透过更早期的皇家司法特许状
+槟城与马六甲（作为前 [Straits Settlements](/malaysia/straits-settlements)）早已透过更早期的皇家司法特许状
 （royal charters of justice）继受了英国法律，而独立前的马来各邦与婆罗洲
 诸地也各自有本身的地方条例，做着类似的事。Act 67 将这一切整合为新独立
 联邦的单一法规，其后再扩展适用至沙巴与砂拉越。

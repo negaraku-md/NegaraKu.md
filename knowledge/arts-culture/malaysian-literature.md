@@ -76,7 +76,7 @@ Sebelum ada novel dan sebelum ada dewan bahasa, seorang penglipur lara sudah pun
 
 ## Dari mana bermulanya tradisi sastera Melayu?
 
-Akar sastera Malaysia jauh mendahului negara moden. Ia bermula dengan sastera rakyat yang disampaikan secara lisan — cerita penglipur lara, mitos dan legenda — sebelum dirakam dalam bentuk naskhah tulisan Jawi.
+Akar sastera Malaysia jauh mendahului negara moden. Ia bermula dengan sastera rakyat yang disampaikan secara lisan — cerita penglipur lara, mitos dan legenda — sebelum dirakam dalam bentuk naskhah [tulisan Jawi](/arts-culture/jawi-script).
 
 Dua bentuk klasik menjadi tunjang tradisi ini. **Hikayat** ialah prosa naratif yang mengisahkan raja, wira dan peristiwa, manakala **syair** ialah puisi berangkap empat baris yang lazim digunakan penulis istana untuk memuji sultan dan merakam peristiwa sezaman.
 

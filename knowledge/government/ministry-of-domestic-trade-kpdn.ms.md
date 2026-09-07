@@ -29,7 +29,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "85a91cff60040b90"
+sourceContentHash: "bc54d858f6180b54"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -101,7 +101,7 @@ KPDN dan agensi-agensinya mentadbir sekumpulan perundangan perdagangan dan pengg
 | Akta Timbang dan Sukat 1972 [Akta 71] | Memastikan pengukuran yang jujur dalam perdagangan |
 | Akta Francais 1998 [Akta 590] | Mendaftar dan mengawal selia francais |
 
-Dengan menggunakan Akta 122 dan Akta 723, KPDN berusaha menstabilkan harga barangan keperluan seperti beras, telur, minyak masak dan ayam. Ia menjalankan operasi penguatkuasaan termasuk **Ops Pantau** dan **Ops Menu**, serta mengenakan **Skim Harga Maksimum Musim Perayaan** yang menghadkan harga barangan terkawal terpilih semasa perayaan — seperti ketika skim Deepavali Oktober 2025. Di bawah Seksyen 10 Akta 723, menteri boleh mewajibkan mana-mana penjual barangan atau perkhidmatan untuk memaparkan harga.
+Dengan menggunakan Akta 122 dan Akta 723, KPDN berusaha menstabilkan harga barangan keperluan seperti beras, telur, minyak masak dan ayam. Ia menjalankan operasi penguatkuasaan termasuk **Ops Pantau** dan **Ops Menu**, serta mengenakan **Skim Harga Maksimum Musim Perayaan** yang menghadkan harga barangan terkawal terpilih semasa perayaan — seperti ketika skim [Deepavali](/arts-culture/deepavali) Oktober 2025. Di bawah Seksyen 10 Akta 723, menteri boleh mewajibkan mana-mana penjual barangan atau perkhidmatan untuk memaparkan harga.
 
 ## Bagaimana anda sebenarnya menggunakan KPDN apabila ditipu?
 

@@ -174,7 +174,7 @@ dan bukan menyeluruh.
 
 | Gabungan | Antara parti komponen | Catatan ringkas |
 | --- | --- | --- |
-| **Barisan Nasional (BN)** | UMNO, MCA, MIC | Salah satu gabungan persekutuan yang telah lama tertubuh |
+| **[Barisan Nasional](/malaysia/barisan-nasional) (BN)** | UMNO, MCA, MIC | Salah satu gabungan persekutuan yang telah lama tertubuh |
 | **Pakatan Harapan (PH)** | PKR, DAP, Amanah | Blok yang memperoleh kerusi terbanyak dalam PRU15 (2022) |
 | **Perikatan Nasional (PN)** | Bersatu, PAS, Gerakan | Gabungan yang bertanding dalam PRU15 (2022) |
 | **Gabungan Parti Sarawak (GPS)** | Diterajui PBB, bersama parti-parti lain | Gabungan berpangkalan di Sarawak |

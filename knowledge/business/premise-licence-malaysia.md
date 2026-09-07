@@ -177,7 +177,7 @@ Four provisions decide most disputes:
 
 Applications go through **eLesen DBKL**. The general document set is short: SSM
 registration documents, applicant identification, a colour signboard visual certified by
-Dewan Bahasa dan Pustaka where applicable with an installation photo, and exterior and
+[Dewan Bahasa dan Pustaka](/arts-culture/dewan-bahasa-dan-pustaka) where applicable with an installation photo, and exterior and
 interior photographs. DBKL is explicit that licence validity is **dynamic** and does not
 necessarily end on 31 December.
 

@@ -115,7 +115,7 @@ A property needs at least one. Which ones it gets is not decoration; it is the l
 
 Gunung Mulu, in [Sarawak](/en/states/sarawak), holds all four natural criteria — a rare sweep. Under (vii) UNESCO cites Sarawak Chamber, 600 m long by 415 m wide and 80 m high, the largest known cave chamber on earth. Under (viii) it cites the Melinau Limestone and the uplifted cave levels that record Borneo's tectonic history. Under (ix) and (x): seventeen vegetation zones, some 3,500 vascular plant species, and 109 palm species in twenty genera.
 
-Kinabalu Park got only (ix) and (x). Mount Kinabalu at 4,095 m is the highest mountain between the Himalayas and New Guinea, and it looks the part — but UNESCO did not inscribe it for its beauty. The case rests on evolutionary process: an extreme altitudinal gradient, ultramafic soils, geographic isolation over short distances, and an estimated 5,000 to 6,000 vascular plant species including around 1,000 orchids.
+Kinabalu Park got only (ix) and (x). [Mount Kinabalu](/malaysia/mount-kinabalu) at 4,095 m is the highest mountain between the Himalayas and New Guinea, and it looks the part — but UNESCO did not inscribe it for its beauty. The case rests on evolutionary process: an extreme altitudinal gradient, ultramafic soils, geographic isolation over short distances, and an estimated 5,000 to 6,000 vascular plant species including around 1,000 orchids.
 
 ## The cultural four are three different arguments
 

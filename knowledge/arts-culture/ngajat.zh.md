@@ -30,7 +30,7 @@ faq:
     a: "JKKN 记录的种类包括 Ngajat Lesong（由男子用牙齿咬住木臼表演）、Ngajat Indu（由女子表演，动作模仿编织 pua kumbu 布）、Ngajat Pua Kumbu（使用 pua kumbu 布）以及标志着 Gawai Dayak 庆典结束的 Ngajat Ngiling Tikai。"
 
 lang: "zh"
-sourceContentHash: "f7e44d5c020256db"
+sourceContentHash: "bc3c9b377ae4eddf"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -89,7 +89,7 @@ Ngajat 是砂拉越 **伊班族（Iban）** 的传统舞蹈。在国家文化艺
 
 因为那种鸟具有特殊的意义。Ngajat 的每一个动作都象征着 **犀鸟（Burung Kenyalang，即 enggang）**——这种鸟是伊班族与砂拉越州（"犀鸟之乡"，Bumi Kenyalang）的象征。
 
-男子舞刚劲有力：描绘奔赴战场的战士或正在飞翔的鸟。根据 ICHLinks 的记录，男舞者头戴犀鸟羽毛制成的头饰，手持装饰华丽的长盾与剑，身穿缠腰布（cawat，loincloth）。相反，由女子表演的 **Ngajat Indu** 则强调"伊班女子的柔美与端庄的价值"，动作模仿编织 **pua kumbu** 布的工作。
+男子舞刚劲有力：描绘奔赴战场的战士或正在飞翔的鸟。根据 ICHLinks 的记录，男舞者头戴犀鸟羽毛制成的头饰，手持装饰华丽的长盾与剑，身穿缠腰布（cawat，loincloth）。相反，由女子表演的 **Ngajat Indu** 则强调"伊班女子的柔美与端庄的价值"，动作模仿编织 **[pua kumbu](/arts-culture/pua-kumbu)** 布的工作。
 
 ## 它在什么时候表演？
 

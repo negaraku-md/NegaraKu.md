@@ -86,7 +86,7 @@ Christmas Day, 25 December, is a public holiday observed across all of Malaysia 
 
 The statutory route differs by region. In Peninsular Malaysia, public holidays are set out in the First Schedule of the **Holidays Act 1951** (Act 369), and Christmas Day appears among them. Sabah and Sarawak, which retained their own holiday laws on joining the federation, provide for public holidays under their own ordinances. Each year the Federal Government also publishes a consolidated national holiday list through the Cabinet Office of the Prime Minister's Department.
 
-The practical result is uniform: whatever the legal instrument, 25 December is a non-working public holiday nationwide, in the same way that Hari Raya Aidilfitri, Deepavali, Wesak and Chinese New Year are.
+The practical result is uniform: whatever the legal instrument, 25 December is a non-working public holiday nationwide, in the same way that [Hari Raya Aidilfitri](/arts-culture/hari-raya-aidilfitri), [Deepavali](/arts-culture/deepavali), Wesak and Chinese New Year are.
 
 ## The one date that is not nationwide: Christmas Eve
 

@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "任何想了解「merdeka」一词真正含义与来源，而不仅仅是1957年那个日期或仪式的人。"
 
 lang: "zh"
-sourceContentHash: "1e44b294fa95f470"
+sourceContentHash: "ec5875367ad76b6c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -70,7 +70,7 @@ keywords: ["merdeka", "maksud merdeka", "asal usul perkataan merdeka", "kemerdek
 
 ## 词典中的意义
 
-《国家词典》（Kamus Dewan，国家语文出版局出版）将**merdeka**
+《国家词典》（Kamus Dewan，[国家语文出版局](/arts-culture/dewan-bahasa-dan-pustaka)出版）将**merdeka**
 定义为：
 
 > 自由（摆脱殖民统治、囚禁、保护国地位等），解脱（摆脱赎身、

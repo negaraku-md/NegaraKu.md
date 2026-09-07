@@ -136,7 +136,7 @@ kesusilaan.
 ## Mengapa Rukun Negara dilahirkan?
 
 Rukun Negara tidak lahir dalam keadaan aman. Ia dilahirkan sebagai jawapan
-langsung kepada **peristiwa 13 Mei 1969** — rusuhan kaum yang menggugat
+langsung kepada **[peristiwa 13 Mei 1969](/malaysia/13-may-1969)** — rusuhan kaum yang menggugat
 perpaduan dan keharmonian negara secara serius.
 
 Selepas peristiwa itu, sistem pemerintahan berparlimen digantung dan
@@ -211,7 +211,7 @@ mempunyai peranan yang berbeza:
 | **Rukun Negara** | Falsafah dan ikrar kebangsaan (5 prinsip) | Tidak — panduan nilai, bukan undang-undang boleh dakwa |
 | **Perlembagaan Persekutuan** | Undang-undang tertinggi negara | Ya — mengikat semua undang-undang lain |
 | **Lagu Negaraku** | Lagu kebangsaan | Dilindungi di bawah undang-undang lagu kebangsaan |
-| **Jalur Gemilang** | Bendera kebangsaan | Simbol rasmi negara |
+| **[Jalur Gemilang](/malaysia/jalur-gemilang)** | Bendera kebangsaan | Simbol rasmi negara |
 
 Menariknya, prinsip ketiga Rukun Negara — **Keluhuran Perlembagaan** —
 secara langsung merujuk kepada Perlembagaan Persekutuan. Jadi Rukun Negara

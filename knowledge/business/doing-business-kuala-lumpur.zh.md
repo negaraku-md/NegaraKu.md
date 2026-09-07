@@ -43,7 +43,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9f08cd84511dcb14"
+sourceContentHash: "28302eb055d03d4e"
 
 status: "published"
 aiAssisted: true
@@ -172,7 +172,7 @@ DBKL 的法定依据也建立在三部法令而非一部之上：**《1960 年�
 
 吉隆坡常被描述为要求招牌上国语必须比其他语言更大的城市。**其实并非如此。**《1982 年广告（联邦直辖区）附例》赋予国语在颜色上的优先与更显眼的位置，并规定其他语言**不得超过**国语的尺寸。这是对其他语言的上限。尺寸相等即符合规定。
 
-30% 及类似的百分比规则属于其他市议会。威省本身的广告附例确实要求国语*更大*——因此同一幅招牌设计可以在吉隆坡合规，却在海峡对岸的槟城不合规。相关机制以及国家语文局（Dewan Bahasa dan Pustaka）的审核步骤，在招牌执照指南中另有说明。
+30% 及类似的百分比规则属于其他市议会。威省本身的广告附例确实要求国语*更大*——因此同一幅招牌设计可以在吉隆坡合规，却在海峡对岸的槟城不合规。相关机制以及[国家语文局](/arts-culture/dewan-bahasa-dan-pustaka)（Dewan Bahasa dan Pustaka）的审核步骤，在招牌执照指南中另有说明。
 
 ## 经济论据
 

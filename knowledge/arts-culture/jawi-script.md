@@ -104,7 +104,7 @@ Perbezaan pentingnya ialah Jawi bukan sekadar tulisan Arab. Ia mengekalkan huruf
 | nya | ڽ |
 | va | ۏ |
 
-Kaedah ejaan Jawi bahasa Melayu diselaras dan didokumenkan oleh Dewan Bahasa dan Pustaka (DBP) melalui *Pedoman Umum Ejaan Jawi Bahasa Melayu*, yang menetapkan bentuk huruf, cara menulis, serta kaedah menanda vokal, diftong dan konsonan. Dengan kata lain, sebuah teks dalam tulisan Jawi dibaca sebagai bahasa Melayu — bukan bahasa Arab — walaupun hurufnya sebahagian besarnya huruf Arab.
+Kaedah ejaan Jawi bahasa Melayu diselaras dan didokumenkan oleh [Dewan Bahasa dan Pustaka](/arts-culture/dewan-bahasa-dan-pustaka) (DBP) melalui *Pedoman Umum Ejaan Jawi Bahasa Melayu*, yang menetapkan bentuk huruf, cara menulis, serta kaedah menanda vokal, diftong dan konsonan. Dengan kata lain, sebuah teks dalam tulisan Jawi dibaca sebagai bahasa Melayu — bukan bahasa Arab — walaupun hurufnya sebahagian besarnya huruf Arab.
 
 ## Dari mana Jawi datang
 

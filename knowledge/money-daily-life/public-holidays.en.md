@@ -23,7 +23,7 @@ appliesTo: "Anyone planning travel, business or daily affairs across states, and
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "504b70c9da4e3c64"
+sourceContentHash: "3aa4c891e7b6b223"
 
 status: "published"
 aiAssisted: true
@@ -71,7 +71,7 @@ keywords:
   - "Hari Gawai"
 ---
 
-An employee in Kota Kinabalu can take two consecutive days off for Pesta Kaamatan at the end of May, while a colleague in Melaka does not recognise that day as a holiday at all. Another employee in Kuching stops work for Gawai on 1 June, but the calendar at the parent company's head office in Kuala Lumpur marks nothing on that date. This is not an HR mistake. It is written into the law.
+An employee in Kota Kinabalu can take two consecutive days off for [Pesta Kaamatan](/arts-culture/kaamatan) at the end of May, while a colleague in Melaka does not recognise that day as a holiday at all. Another employee in Kuching stops work for Gawai on 1 June, but the calendar at the parent company's head office in Kuala Lumpur marks nothing on that date. This is not an HR mistake. It is written into the law.
 
 ## Three laws, not one
 

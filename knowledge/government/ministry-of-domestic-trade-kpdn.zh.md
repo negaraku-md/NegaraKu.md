@@ -29,7 +29,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "85a91cff60040b90"
+sourceContentHash: "bc54d858f6180b54"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -101,7 +101,7 @@ KPDN 及其属下机构负责执行一系列贸易与消费者法令。普通马
 | 《1972 年度量衡法令》[Act 71] | 确保贸易中诚实计量 |
 | 《1998 年特许经营法令》[Act 590] | 注册及监管特许经营 |
 
-KPDN 运用 Act 122 及 Act 723，致力于稳定稻米、鸡蛋、食油和鸡肉等必需品的价格。它开展 **Ops Pantau** 和 **Ops Menu** 等执法行动，并推行节庆**最高价格计划**（*Skim Harga Maksimum Musim Perayaan*），在庆典期间为选定的受管制商品设定价格上限——如 2025 年 10 月屠妖节（Deepavali）计划期间。根据 Act 723 第 10 条，部长可要求任何商品或服务的卖家标示价格。
+KPDN 运用 Act 122 及 Act 723，致力于稳定稻米、鸡蛋、食油和鸡肉等必需品的价格。它开展 **Ops Pantau** 和 **Ops Menu** 等执法行动，并推行节庆**最高价格计划**（*Skim Harga Maksimum Musim Perayaan*），在庆典期间为选定的受管制商品设定价格上限——如 2025 年 10 月[屠妖节（Deepavali）](/arts-culture/deepavali)计划期间。根据 Act 723 第 10 条，部长可要求任何商品或服务的卖家标示价格。
 
 ## 当你被欺骗时，实际上要如何借助 KPDN？
 

@@ -94,7 +94,7 @@ keywords: ["bahasa Melayu", "bahasa kebangsaan", "Perkara 152", "Akta Bahasa Keb
 
 Di Kuala Berang, Terengganu, ditemukan sebuah prasasti batu yang padanya terpahat perkataan Melayu — bukan dalam huruf yang kita kenali hari ini, tetapi dalam aksara Arab yang disesuaikan untuk bunyi Melayu. Menurut Arkib Negara Malaysia, prasasti itu bertarikh 1303 Masihi.
 
-Batu Bersurat Terengganu itu, menurut UNESCO, ialah bukti terawal tulisan Jawi di dunia Melayu Islam di Asia Tenggara, dan dimasukkan ke dalam Daftar Memori Dunia UNESCO pada 2009. Ia satu tanda bahawa bahasa yang kini menjadi bahasa kebangsaan Malaysia sudah pun ditulis, dibaca dan digunakan untuk urusan pemerintahan lebih tujuh abad yang lalu.
+Batu Bersurat Terengganu itu, menurut UNESCO, ialah bukti terawal [tulisan Jawi](/arts-culture/jawi-script) di dunia Melayu Islam di Asia Tenggara, dan dimasukkan ke dalam Daftar Memori Dunia UNESCO pada 2009. Ia satu tanda bahawa bahasa yang kini menjadi bahasa kebangsaan Malaysia sudah pun ditulis, dibaca dan digunakan untuk urusan pemerintahan lebih tujuh abad yang lalu.
 
 Rencana ini menerangkan dua perkara yang berkait rapat: apakah kedudukan bahasa Melayu di sisi Perlembagaan dan undang-undang, dan bagaimana tulisannya berubah daripada Jawi kepada Rumi. Kedua-duanya diterangkan secara deskriptif — apa yang diperuntukkan, oleh siapa, dan bila.
 
@@ -140,7 +140,7 @@ Tulisan Jawi — huruf Arab yang disesuaikan untuk bunyi bahasa Melayu — merup
 
 Tulisan Rumi — abjad Latin — mula digunakan secara meluas untuk bahasa Melayu dalam tempoh penjajahan, apabila pelbagai sistem ejaan Rumi disusun. Menjelang pertengahan abad ke-20, penyeragaman ejaan Rumi menjadi tumpuan gerakan bahasa Melayu.
 
-**1956** — Dewan Bahasa dan Pustaka (DBP), pada asalnya bernama Balai Pustaka, ditubuhkan pada 22 Jun 1956 di Johor Bahru untuk mengembangkan bahasa Melayu sebagai bahasa kebangsaan dan bahasa rasmi negara yang bakal merdeka. Berikutan Kongres Bahasa dan Persuratan Melayu Ketiga yang berlangsung di Singapura dan Johor Bahru pada 16 hingga 21 September 1956, namanya ditukar kepada Dewan Bahasa dan Pustaka.
+**1956** — [Dewan Bahasa dan Pustaka](/arts-culture/dewan-bahasa-dan-pustaka) (DBP), pada asalnya bernama Balai Pustaka, ditubuhkan pada 22 Jun 1956 di Johor Bahru untuk mengembangkan bahasa Melayu sebagai bahasa kebangsaan dan bahasa rasmi negara yang bakal merdeka. Berikutan Kongres Bahasa dan Persuratan Melayu Ketiga yang berlangsung di Singapura dan Johor Bahru pada 16 hingga 21 September 1956, namanya ditukar kepada Dewan Bahasa dan Pustaka.
 
 **1957** — Apabila Persekutuan Tanah Melayu mencapai [kemerdekaan](/malaysia/independence-1957), kedudukan bahasa Melayu sebagai bahasa kebangsaan termaktub dalam Perkara 152 Perlembagaan Persekutuan, seperti yang dicatatkan oleh Arkib Negara Malaysia.
 

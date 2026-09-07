@@ -111,7 +111,7 @@ DBP mempunyai mandat yang luas dalam bahasa dan sastera Melayu. Antara peranan u
 
 Kamus rujukan digital rasmi DBP ialah **Kamus Dewan Perdana**, yang boleh diakses secara percuma dalam talian di kamus.dbp.gov.my. Portal ini merupakan sebahagian daripada agenda transformasi digital DBP untuk menyediakan platform rujukan bahasa Melayu yang komprehensif dan mudah dicapai oleh semua lapisan masyarakat.
 
-Dalam bidang sastera, DBP mengurus **Anugerah Sastera Negara**, iaitu pengiktirafan tertinggi bagi penulis dalam bahasa Melayu. Anugerah ini bermula pada 1981, dengan Keris Mas (Dr. Kamaludin Muhammad) sebagai penerima pertama. Penerimanya dikurniakan gelaran Sasterawan Negara dan pelbagai bentuk penghargaan, termasuk hadiah wang tunai RM60,000, elaun bulanan RM5,000, serta sokongan untuk penerbitan dan penterjemahan karya. Setakat 2026, sebanyak 16 tokoh telah menerima anugerah ini, dengan Mana Sikana (Dr. Abdul Rahman Napiah) diumumkan sebagai penerima ke-16 pada 28 April 2026.
+Dalam bidang sastera, DBP mengurus **[Anugerah Sastera Negara](/arts-culture/malaysian-literature)**, iaitu pengiktirafan tertinggi bagi penulis dalam bahasa Melayu. Anugerah ini bermula pada 1981, dengan Keris Mas (Dr. Kamaludin Muhammad) sebagai penerima pertama. Penerimanya dikurniakan gelaran Sasterawan Negara dan pelbagai bentuk penghargaan, termasuk hadiah wang tunai RM60,000, elaun bulanan RM5,000, serta sokongan untuk penerbitan dan penterjemahan karya. Setakat 2026, sebanyak 16 tokoh telah menerima anugerah ini, dengan Mana Sikana (Dr. Abdul Rahman Napiah) diumumkan sebagai penerima ke-16 pada 28 April 2026.
 
 ## What's next
 

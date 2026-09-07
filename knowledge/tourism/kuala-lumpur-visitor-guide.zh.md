@@ -38,7 +38,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "2118495982c32764"
+sourceContentHash: "ed174697edaef0ea"
 
 status: "published"
 aiAssisted: true
@@ -194,7 +194,7 @@ keywords: ["kuala lumpur", "petronas twin towers", "kl tower", "batu caves", "bu
 - **提防猕猴。** 阶梯周围的猴子可能抢夺食物、饮料与随身物品——请拉好包包。
 - **阶梯陡峭。** 请穿舒适的鞋子；通往洞窟的台阶很多。
 
-黑风洞也是 **大宝森节（Thaipusam）** 的中心，这是一个吸引大批信徒的重要印度教节日。场面壮观但极其拥挤——请根据你想要热闹场面还是清静，来安排是否避开这段时间。
+黑风洞也是 [**大宝森节（Thaipusam）**](/arts-culture/thaipusam) 的中心，这是一个吸引大批信徒的重要印度教节日。场面壮观但极其拥挤——请根据你想要热闹场面还是清静，来安排是否避开这段时间。
 
 ## 一份简单的 2–3 日计划
 

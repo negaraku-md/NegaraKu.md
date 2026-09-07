@@ -30,7 +30,7 @@ faq:
     a: "Ya. Pusat Warisan Dunia merekodkan tiga harta dalam Senarai Tentatif Malaysia: Taman Negara Semenanjung Malaysia, Rabung Kuarza Gombak Selangor, dan Leprosarium Sungai Buloh. Penyenaraian tentatif ialah pengisytiharan niat untuk mencalonkan, bukan satu penyenaraian rasmi."
 
 lang: "ms"
-sourceContentHash: "6e97d47f53379902"
+sourceContentHash: "2314ed1b6daf68a8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -116,7 +116,7 @@ Sesebuah harta memerlukan sekurang-kurangnya satu. Kriteria mana yang diperolehi
 
 Gunung Mulu, di [Sarawak](/states/sarawak), memegang keempat-empat kriteria semula jadi — satu pencapaian yang jarang berlaku. Di bawah (vii) UNESCO memetik Dewan Sarawak (Sarawak Chamber), sepanjang 600 m, selebar 415 m dan setinggi 80 m, dewan gua terbesar yang diketahui di bumi. Di bawah (viii) ia memetik Batu Kapur Melinau (Melinau Limestone) dan aras-aras gua yang terangkat yang merekodkan sejarah tektonik Borneo. Di bawah (ix) dan (x): tujuh belas zon tumbuhan, kira-kira 3,500 spesies tumbuhan vaskular, dan 109 spesies palma dalam dua puluh genus.
 
-Taman Kinabalu hanya memperoleh (ix) dan (x). Gunung Kinabalu setinggi 4,095 m ialah gunung tertinggi antara Himalaya dan New Guinea, dan ia kelihatan sedemikian — tetapi UNESCO tidak menyenaraikannya kerana keindahannya. Kesnya bergantung kepada proses evolusi: kecerunan ketinggian yang melampau, tanah ultramafik, keterpencilan geografi dalam jarak yang singkat, dan anggaran 5,000 hingga 6,000 spesies tumbuhan vaskular termasuk kira-kira 1,000 spesies orkid.
+Taman Kinabalu hanya memperoleh (ix) dan (x). [Gunung Kinabalu](/malaysia/mount-kinabalu) setinggi 4,095 m ialah gunung tertinggi antara Himalaya dan New Guinea, dan ia kelihatan sedemikian — tetapi UNESCO tidak menyenaraikannya kerana keindahannya. Kesnya bergantung kepada proses evolusi: kecerunan ketinggian yang melampau, tanah ultramafik, keterpencilan geografi dalam jarak yang singkat, dan anggaran 5,000 hingga 6,000 spesies tumbuhan vaskular termasuk kira-kira 1,000 spesies orkid.
 
 ## Keempat-empat harta budaya itu tiga hujah yang berbeza
 

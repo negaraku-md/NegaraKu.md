@@ -127,7 +127,7 @@ BNM mengeluarkan dua jenis lesen: lesen bank digital **konvensional** di bawah A
 
 **AEON Bank** membuat sejarah sebagai bank digital Islam pertama Malaysia apabila dilancarkan kepada orang ramai pada 26 Mei 2024. Ia melancarkan Akaun Simpanan-i dengan kadar keuntungan 3.88% setahun (kadar pelancaran), ciri "Savings Pots", serta kad debit-i Visa maya dan fizikal.
 
-**Ryt Bank**, konsortium YTL–Sea, dilancarkan pada 25 Ogos 2025 dan mempromosikan dirinya sebagai bank dikuasai AI. Pembantu "Ryt AI" — dibina atas model bahasa besar tempatan ILMU — membolehkan pengguna membuat pembayaran dan menyemak perbelanjaan menerusi perbualan biasa dalam Bahasa Melayu, Inggeris dan Manglish. Akaun simpanannya menawarkan sehingga 4% setahun yang dibayar harian (kadar pelancaran).
+**Ryt Bank**, konsortium YTL–Sea, dilancarkan pada 25 Ogos 2025 dan mempromosikan dirinya sebagai bank dikuasai AI. Pembantu "Ryt AI" — dibina atas model bahasa besar tempatan ILMU — membolehkan pengguna membuat pembayaran dan menyemak perbelanjaan menerusi perbualan biasa dalam Bahasa Melayu, Inggeris dan [Manglish](/arts-culture/manglish). Akaun simpanannya menawarkan sehingga 4% setahun yang dibayar harian (kadar pelancaran).
 
 **KAF Digital Bank**, bank digital Islam kedua, diterajui KAF Investment Bank bersama rakan kongsi konsortium, dan mula beroperasi pada 2025.
 

@@ -53,7 +53,7 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
-sourceContentHash: "f54c1b99fa5a02e8"
+sourceContentHash: "44eeeac1d9bc0d54"
 
 sources:
   - title: "Jadual KDNK Negeri Mengikut Sektor Ekonomi (harga malar 2015)"
@@ -106,7 +106,7 @@ The two most famous things about Terengganu sit roughly 60 kilometres apart,
 and both are hard to see.
 
 The first is a slab of stone at Kuala Berang, deep in inland Hulu Terengganu,
-carrying Jawi verses dated more than 700 years old. The second is out of
+carrying [Jawi](/arts-culture/jawi-script) verses dated more than 700 years old. The second is out of
 sight entirely — an oil and gas platform on the floor of the South China Sea
 whose output, statistically, never enters this state's GDP accounts.
 

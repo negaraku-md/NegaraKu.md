@@ -106,7 +106,7 @@ Membaca dasar sebagai garis masa mengelakkan dua kesilapan biasa — menganggap 
 
 ## 1996: Koridor Raya Multimedia dan Wawasan 2020
 
-Titik permulaan ialah **12 Februari 1996**, apabila Perdana Menteri Mahathir Mohamad melancarkan **Koridor Raya Multimedia (Multimedia Super Corridor, MSC Malaysia)**. MSC bukan sekadar taman perindustrian; ia direka sebagai teras strategi **Wawasan 2020** — rancangan jangka panjang untuk Malaysia mencapai taraf negara maju menjelang tahun 2020 dengan beralih daripada ekonomi berasaskan pembuatan kepada ekonomi berasaskan pengetahuan.
+Titik permulaan ialah **12 Februari 1996**, apabila Perdana Menteri Mahathir Mohamad melancarkan **Koridor Raya Multimedia (Multimedia Super Corridor, MSC Malaysia)**. MSC bukan sekadar taman perindustrian; ia direka sebagai teras strategi [**Wawasan 2020**](/malaysia/wawasan-2020) — rancangan jangka panjang untuk Malaysia mencapai taraf negara maju menjelang tahun 2020 dengan beralih daripada ekonomi berasaskan pembuatan kepada ekonomi berasaskan pengetahuan.
 
 Secara geografi, koridor asal terbentang dari Kuala Lumpur ke selatan melalui Cyberjaya dan Putrajaya hingga ke Lapangan Terbang Antarabangsa Kuala Lumpur. Dua bandar dibina khas untuk menyokongnya:
 

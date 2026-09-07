@@ -90,7 +90,7 @@ Both facts are true at once, and neither cancels the other out. This article sep
 
 ## One clause, one national language
 
-Article 152(1) of the Federal Constitution states that the national language is Bahasa Melayu (the Malay language). The National Language Act 1963/67 (Act 32) gives that provision statutory teeth, and Dewan Bahasa dan Pustaka (DBP) — the statutory body established to develop and standardise the language — is the institution tasked with carrying that mandate forward.
+Article 152(1) of the Federal Constitution states that the national language is Bahasa Melayu (the Malay language). The National Language Act 1963/67 (Act 32) gives that provision statutory teeth, and [Dewan Bahasa dan Pustaka](/arts-culture/dewan-bahasa-dan-pustaka) (DBP) — the statutory body established to develop and standardise the language — is the institution tasked with carrying that mandate forward.
 
 That much is table stakes; most overviews mention it in passing. What tends to get skipped is what Article 152 does *not* do.
 

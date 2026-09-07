@@ -32,7 +32,7 @@ faq:
     a: "The NEP's 20-year period ended in 1990. It was succeeded by the National Development Policy (NDP) in 1991, and subsequently by other development policies. However, several of its elements and principles were continued in later policies."
 
 lang: "en"
-sourceContentHash: "386092ea82711d48"
+sourceContentHash: "806ab04106edfd7c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,7 +78,7 @@ related: ["bumiputera", "glc"]
 keywords: ["Dasar Ekonomi Baru", "DEB", "New Economic Policy", "NEP", "serampang dua mata", "pembasmian kemiskinan", "penyusunan semula masyarakat", "ekuiti Bumiputera 30 peratus", "Rancangan Malaysia Kedua", "perpaduan negara"]
 ---
 
-After the 13 May 1969 events, the Malaysian government made an assessment that reshaped the direction of the country's economic policy for the following two decades: that economic growth alone was not enough if wealth and opportunity remained unevenly concentrated along racial lines. From that assessment came the **New Economic Policy (NEP)** — in Malay, *Dasar Ekonomi Baru* (DEB).
+After the [13 May 1969 events](/malaysia/13-may-1969), the Malaysian government made an assessment that reshaped the direction of the country's economic policy for the following two decades: that economic growth alone was not enough if wealth and opportunity remained unevenly concentrated along racial lines. From that assessment came the **New Economic Policy (NEP)** — in Malay, *Dasar Ekonomi Baru* (DEB).
 
 This article describes the NEP descriptively as a policy: what its goals were, how it was drafted, and the figures it contained. It does not evaluate whether the policy succeeded or not; views on that vary, and the closing section of the article reports the range of those views without taking sides.
 

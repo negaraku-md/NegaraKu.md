@@ -34,7 +34,7 @@ faq:
     a: "会。在基础阶段（首三至五年），BNM 的框架将每家数字银行的资产总额限制在不超过 RM30 亿。这让 BNM 得以在银行扩大规模之前观察其表现与风险。"
 
 lang: "zh"
-sourceContentHash: "469269a476e67017"
+sourceContentHash: "586acae3d2012d4e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -128,7 +128,7 @@ BNM 颁发两种牌照：依据 2013 年金融服务法令（FSA 2013）的**传
 
 **AEON Bank** 在 2024 年 5 月 26 日向公众推出时创造历史，成为马来西亚首家伊斯兰数字银行。它推出了利润率为每年 3.88%（推出利率）的伊斯兰储蓄账户（Akaun Simpanan-i）、"Savings Pots"功能，以及虚拟和实体的 Visa 伊斯兰借记卡（kad debit-i）。
 
-**Ryt Bank** 是 YTL–Sea 财团，于 2025 年 8 月 25 日推出，并将自己定位为由 AI 驱动的银行。其助手"Ryt AI"——基于本地大语言模型 ILMU 构建——让用户能够通过马来语、英语和马式英语（Manglish）的日常对话进行付款并查看消费。其储蓄账户提供高达每年 4%、按日发放（推出利率）。
+**Ryt Bank** 是 YTL–Sea 财团，于 2025 年 8 月 25 日推出，并将自己定位为由 AI 驱动的银行。其助手"Ryt AI"——基于本地大语言模型 ILMU 构建——让用户能够通过马来语、英语和[马式英语](/arts-culture/manglish)（Manglish）的日常对话进行付款并查看消费。其储蓄账户提供高达每年 4%、按日发放（推出利率）。
 
 **KAF Digital Bank** 是第二家伊斯兰数字银行，由 KAF Investment Bank 携手财团伙伴主导，于 2025 年开始运营。
 

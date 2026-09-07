@@ -42,7 +42,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "8b1640c0f40c4c0c"
+sourceContentHash: "e95a20cac513aa22"
 
 status: "published"
 aiAssisted: true
@@ -108,7 +108,7 @@ keywords:
   - "signboard licence fee DBKL"
 ---
 
-多数指南告诉您，吉隆坡是那座国家语文局必须批准招牌用字的城市，仿佛这是吉隆坡独有的
+多数指南告诉您，吉隆坡是那座[国家语文局](/arts-culture/dewan-bahasa-dan-pustaka)必须批准招牌用字的城市，仿佛这是吉隆坡独有的
 怪规。
 
 事实并非如此。DBKL、MBPJ、MBSA 和 DBKK 都有此要求，各以其公布的措辞列明。地方政府

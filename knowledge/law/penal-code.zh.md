@@ -33,7 +33,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "96c89b21eed2b946"
+sourceContentHash: "7702e4996ec5b32e"
 
 status: "published"
 aiAssisted: true
@@ -106,7 +106,7 @@ keywords: ["Penal Code", "Act 574", "Malaysia criminal law", "Indian Penal Code"
 Macaulay）领导的首届印度法律委员会起草，其呈交印度总督会议（Governor-General
 of India in Council）的引言报告，日期为1837年10月14日。
 
-该法典并非以延伸适用的方式传入 Straits Settlements，而是经由本地重新制定：即
+该法典并非以延伸适用的方式传入 [Straits Settlements](/malaysia/straits-settlements)，而是经由本地重新制定：即
 Straits Settlements Penal Code（Ordinance No. 4 of 1871），于翌年生效。
 Federated Malay States 在1936年采用了相同模式，以 F.M.S. Cap. 45 的形式制定，
 而 AGC 自己的记录至今仍将该1936年立法列为 Act 574 的首次制定。

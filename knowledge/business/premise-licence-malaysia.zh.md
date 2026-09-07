@@ -44,7 +44,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "3b8895c95cac7bd6"
+sourceContentHash: "0a22774d2a85e872"
 
 status: "published"
 aiAssisted: true
@@ -167,7 +167,7 @@ P.U.(A) 230/2016)**，于2016年8月30日宪报公布。
 - **附例第38条**——罚款最高 RM2,000、监禁最高一年，或两者兼施，外加每天 RM200。
 
 申请通过 **eLesen DBKL** 进行。一般文件组很简短：SSM 注册文件、申请人身份证明、一份在适
-用情况下经国家语文局 (Dewan Bahasa dan Pustaka) 认证的彩色广告牌视觉图连同安装照片，以
+用情况下经[国家语文局](/arts-culture/dewan-bahasa-dan-pustaka) (Dewan Bahasa dan Pustaka) 认证的彩色广告牌视觉图连同安装照片，以
 及场所外观和内部照片。吉隆坡市政局 (DBKL) 明确表示执照有效期是**动态的**，未必在12月31
 日结束。
 

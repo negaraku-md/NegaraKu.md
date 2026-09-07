@@ -100,7 +100,7 @@ KPDN and its agencies administer a body of trade and consumer legislation. The s
 | Weights and Measures Act 1972 [Act 71] | Ensures honest measurement in trade |
 | Franchise Act 1998 [Act 590] | Registers and regulates franchises |
 
-Using Act 122 and Act 723, KPDN works to stabilise the prices of essentials such as rice, eggs, cooking oil and chicken. It runs enforcement operations including **Ops Pantau** and **Ops Menu**, and imposes festive **Maximum Price Schemes** (*Skim Harga Maksimum Musim Perayaan*) that cap the prices of selected controlled items during celebrations — as during the October 2025 Deepavali scheme. Under Section 10 of Act 723, the minister can require any seller of goods or services to display prices.
+Using Act 122 and Act 723, KPDN works to stabilise the prices of essentials such as rice, eggs, cooking oil and chicken. It runs enforcement operations including **Ops Pantau** and **Ops Menu**, and imposes festive **Maximum Price Schemes** (*Skim Harga Maksimum Musim Perayaan*) that cap the prices of selected controlled items during celebrations — as during the October 2025 [Deepavali](/arts-culture/deepavali) scheme. Under Section 10 of Act 723, the minister can require any seller of goods or services to display prices.
 
 ## How do you actually use KPDN when you are cheated?
 

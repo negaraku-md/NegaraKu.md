@@ -90,7 +90,7 @@ Tentera Jepun mendarat di Kuala Pak Amat berhampiran Kota Bharu pada 8 Disember 
 | 31 Januari 1942 | Seluruh Tanah Melayu berada dalam kawalan Jepun |
 | 15 Februari 1942 | Leftenan Jeneral Arthur Percival menyerahkan Singapura |
 
-Serangan itu bukan satu pendaratan tunggal. Ia menggabungkan serbuan amfibia di pantai utara Tanah Melayu dengan pendaratan diselaraskan di Pattani dan Songkla di Thailand, diikuti kemaraan merentasi sempadan ke bahagian barat semenanjung. Belia tempatan daripada Kesatuan Melayu Muda (KMM) membantu tentera Jepun sebagai pemandu jalan dan jurubahasa dalam tempoh 1941–1942.
+Serangan itu bukan satu pendaratan tunggal. Ia menggabungkan serbuan amfibia di pantai utara Tanah Melayu dengan pendaratan diselaraskan di Pattani dan Songkla di Thailand, diikuti kemaraan merentasi sempadan ke bahagian barat semenanjung. Belia tempatan daripada [Kesatuan Melayu Muda](/malaysia/rise-of-malay-nationalism) (KMM) membantu tentera Jepun sebagai pemandu jalan dan jurubahasa dalam tempoh 1941–1942.
 
 Bagi orang awam, perang itu bukan garisan panah di atas peta. Sebuah catatan harian yang disimpan Arkib Negara Malaysia — ditulis oleh Encik Daud bin Sulaiman bin Mohd Salleh di sekitar Batu Pahat — merekodkan serangan udara berulang kali, bom yang jatuh di ladang getah dan di Bukit Belah Jalan Yong Peng, pesawat berlegar di atas Bandar Penggaram, dan pertempuran di Parit Besar yang begitu hebat sehingga penduduk Islam di situ tidak dapat menunaikan solat Jumaat.
 

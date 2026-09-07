@@ -39,7 +39,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "1a4351b7810628a6"
+sourceContentHash: "1ef443559b53c632"
 
 status: "published"
 aiAssisted: true
@@ -177,7 +177,7 @@ Grab 还提供餐饮和包裹递送，在城市中它比在街上拦德士要可
 
 给访客的实用要点：
 
-- 前往沙巴请飞往**亚庇（BKI）**——神山、仙本那外海潜水、海岛。
+- 前往沙巴请飞往**亚庇（BKI）**——[神山](/malaysia/mount-kinabalu)、仙本那外海潜水、海岛。
 - 前往砂拉越请飞往**古晋（KCH）**——国家公园、长屋、峇哥、姆鲁。
 - 如果你的行程包括婆罗洲的小城镇（例如姆鲁或某个高原地带），请查询 **AirBorneo** 的乡区航段。如果你持有旧的 MASwings 订票，AirBorneo 已承接这些服务的责任——请联系航空公司确认。
 

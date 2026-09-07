@@ -44,7 +44,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e6fbbafe634aab86"
+sourceContentHash: "a51699526b272fe8"
 
 status: "published"
 aiAssisted: true
@@ -227,7 +227,7 @@ untuk yang pada atau di bawah RM2.5 juta dengan pendapatan perniagaan kasar tida
 minimum tidak termasuk tanah sebanyak **RM10 juta**, atau **RM5 juta** untuk cabang syarikat kecil
 dan PLT. Aktiviti layak merangkumi pertanian, perkhidmatan berkaitan pertanian, ICT, pendidikan dan
 latihan, pembuatan, minyak dan gas, hotel, pelancongan, serta kraf budaya dan warisan termasuk
-batik, songket, tembaga dan ukiran kayu.
+batik, [songket](/arts-culture/songket), tembaga dan ukiran kayu.
 
 Permohonan dibuat **kepada Menteri melalui Majlis dari 1 Ogos 2021 hingga 31 Disember 2024**.
 Perhatikan urutannya: kaedah itu diwartakan pada **Ogos 2025**, hampir lapan bulan *selepas*

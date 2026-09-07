@@ -45,7 +45,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "f6b5e39b4a89675a"
+sourceContentHash: "e471e60c661a356c"
 
 status: "published"
 aiAssisted: true
@@ -103,7 +103,7 @@ keywords:
 ## 马来西亚的合约法为什么会写进一部成文法？
 
 这里的合约法是法典化的。Contracts Act 1950（Act 136）源自 Indian Contract Act 1872，
-海峡殖民地与马来联邦承袭了它，马来西亚随后再以 Contracts (Malay States) (Amendment
+[海峡殖民地](/malaysia/straits-settlements)与马来联邦承袭了它，马来西亚随后再以 Contracts (Malay States) (Amendment
 and Extension) Act 1974 把它扩展至全国。
 
 这在程序上很重要。在该法令未占据的地带——失实陈述的救济、默示条款、含糊措辞的解释

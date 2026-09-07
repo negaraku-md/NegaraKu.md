@@ -33,7 +33,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "96c89b21eed2b946"
+sourceContentHash: "7702e4996ec5b32e"
 
 status: "published"
 aiAssisted: true
@@ -109,7 +109,7 @@ yang digubal oleh Suruhanjaya Undang-Undang India yang pertama di bawah Lord
 Macaulay, yang laporan pengenalannya kepada Gabenor-Jeneral India dalam
 Majlis bertarikh 14 Oktober 1837.
 
-Kanun itu dibawa masuk ke Straits Settlements bukan melalui perluasan, tetapi
+Kanun itu dibawa masuk ke [Straits Settlements](/malaysia/straits-settlements) bukan melalui perluasan, tetapi
 melalui penggubalan semula tempatan: Straits Settlements Penal Code,
 Ordinance No. 4 of 1871, yang berkuat kuasa pada tahun berikutnya. Federated
 Malay States menerima pakai model yang sama pada 1936 sebagai F.M.S. Cap. 45,

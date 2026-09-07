@@ -35,7 +35,7 @@ verificationNeeded:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "20d878bcec429028"
+sourceContentHash: "a7862eb1a54ab895"
 
 status: "published"
 aiAssisted: true
@@ -127,7 +127,7 @@ hospitality and F&B sector serving both tourists and residents.
 ## Notable places
 
 George Town's UNESCO-listed core mixes British colonial architecture, Chinese
-clan jetties, and Peranakan shophouses, and is known for a street-art scene and one
+clan jetties, and [Peranakan](/arts-culture/peranakan) shophouses, and is known for a street-art scene and one
 of Malaysia's most celebrated food cultures. Penang Hill offers a funicular ride to
 cooler elevations above the city, while Kek Lok Si Temple is one of the largest
 Buddhist temple complexes in Southeast Asia. Batu Ferringhi's beaches anchor the

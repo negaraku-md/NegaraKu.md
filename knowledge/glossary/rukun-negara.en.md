@@ -34,7 +34,7 @@ faq:
     a: "The aspirations (five national goals such as unity and a just society) are the ends to be achieved, while the five principles are the foundations and guides for living by which those aspirations are reached. Together they form the full pledge of the Rukun Negara."
 
 lang: "en"
-sourceContentHash: "3c9f3379f62cda66"
+sourceContentHash: "7d32cd17710c95f6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -137,7 +137,7 @@ morality.
 ## Why was the Rukun Negara born?
 
 The Rukun Negara was not born in peaceful times. It was born as a direct
-response to the **13 May 1969 incident** — racial riots that seriously
+response to the **[13 May 1969 incident](/malaysia/13-may-1969)** — racial riots that seriously
 threatened the nation's unity and harmony.
 
 After that incident, the parliamentary system of government was suspended
@@ -215,7 +215,7 @@ Many confuse these national symbols. Each has a different role:
 | **Rukun Negara** | National philosophy and pledge (5 principles) | No — a values guide, not an enforceable law |
 | **Federal Constitution** | The supreme law of the land | Yes — binds all other laws |
 | **Anthem Negaraku** | The national anthem | Protected under national anthem law |
-| **Jalur Gemilang** | The national flag | An official symbol of the nation |
+| **[Jalur Gemilang](/malaysia/jalur-gemilang)** | The national flag | An official symbol of the nation |
 
 Interestingly, the third principle of the Rukun Negara — **Supremacy of
 the Constitution** — directly refers to the Federal Constitution. So the

@@ -90,7 +90,7 @@ cover a treaty as well as a mountain.
 | Capital | Kota Kinabalu |
 | Population | 3,418,785 (2020 census, DOSM) |
 | Head of state | Yang di-Pertua Negeri (Governor); state government led by a Chief Minister |
-| Highest point | Mount Kinabalu, 4,095 m — the highest mountain between the Himalayas and New Guinea |
+| Highest point | [Mount Kinabalu](/malaysia/mount-kinabalu), 4,095 m — the highest mountain between the Himalayas and New Guinea |
 | Key industries | Agriculture (palm oil), oil and gas, services, tourism |
 | Entered the federation | As North Borneo, under the [Malaysia Agreement 1963](/en/malaysia/ma63) |
 

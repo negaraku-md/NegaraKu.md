@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Highway users during festive seasons, travel and leave planners, retail and transport businesses, and anyone trying to understand Malaysia's population movement patterns."
 
 lang: "en"
-sourceContentHash: "beaafd533f8ef25b"
+sourceContentHash: "351c6944deba025a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -86,7 +86,7 @@ family's place of origin. That's **balik kampung**.
 
 The term means returning to one's hometown, and it belongs to no single
 race. Malay families return ahead of Aidilfitri, Chinese families ahead of
-Chinese New Year, Indian families ahead of Deepavali, and Christian families
+Chinese New Year, Indian families ahead of [Deepavali](/arts-culture/deepavali), and Christian families
 ahead of Christmas. The pattern is the same; only the dates differ.
 
 ## Why it's this big

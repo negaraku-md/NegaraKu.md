@@ -104,12 +104,12 @@ Tarikh ini khusus untuk 2026 sahaja. Setiap tahun KPM menerbitkan takwim baharu,
 
 ## Bagaimana cuti perayaan masuk ke dalam gambar?
 
-Cuti perayaan seperti Tahun Baru Cina, Aidilfitri dan Deepavali diselaraskan dengan takwim, dan kadangkala tarikh cuti penggal memang sengaja dijajarkan dengan musim perayaan. Contohnya pada 2026, 1 Syawal jatuh pada Sabtu **21 Mac**, dengan cuti umum Aidilfitri merangkumi sekitar **20–23 Mac** (tarikh sebenar tertakluk kepada pengumuman rasmi dan boleh berbeza mengikut negeri). Tarikh raya ini jatuh **dalam** tempoh cuti pertengahan penggal 1 — bukan sekadar bersebelahan — kerana cuti penggal Kumpulan B ialah 21–29 Mac dan Kumpulan A 20–28 Mac. Pertindihan ini memberi keluarga tempoh balik kampung yang lebih panjang.
+Cuti perayaan seperti Tahun Baru Cina, Aidilfitri dan [Deepavali](/arts-culture/deepavali) diselaraskan dengan takwim, dan kadangkala tarikh cuti penggal memang sengaja dijajarkan dengan musim perayaan. Contohnya pada 2026, 1 Syawal jatuh pada Sabtu **21 Mac**, dengan cuti umum Aidilfitri merangkumi sekitar **20–23 Mac** (tarikh sebenar tertakluk kepada pengumuman rasmi dan boleh berbeza mengikut negeri). Tarikh raya ini jatuh **dalam** tempoh cuti pertengahan penggal 1 — bukan sekadar bersebelahan — kerana cuti penggal Kumpulan B ialah 21–29 Mac dan Kumpulan A 20–28 Mac. Pertindihan ini memberi keluarga tempoh balik kampung yang lebih panjang.
 
 Tetapi ada dua sumber perbezaan antara negeri yang perlu diberi perhatian:
 
 - **Perayaan Islam bergantung rukyah anak bulan.** Tarikh Ramadan dan Hari Raya boleh berbeza sehari antara negeri, dan sesetengah negeri mengisytiharkan cuti tambahan.
-- **Sabah dan Sarawak ada cuti sendiri.** Pesta Kaamatan (Sabah dan Labuan) dan Hari Gawai Dayak (Sarawak) pada penghujung Mei atau awal Jun ialah cuti negeri yang tidak wujud di semenanjung.
+- **Sabah dan Sarawak ada cuti sendiri.** [Pesta Kaamatan](/arts-culture/kaamatan) (Sabah dan Labuan) dan Hari [Gawai Dayak](/arts-culture/gawai-dayak) (Sarawak) pada penghujung Mei atau awal Jun ialah cuti negeri yang tidak wujud di semenanjung.
 
 Ertinya walaupun rangka takwim dikongsi seluruh negara, keluarga di negeri berbeza mungkin akhirnya bercuti pada hari yang tidak sama.
 

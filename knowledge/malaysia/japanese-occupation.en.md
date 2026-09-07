@@ -34,7 +34,7 @@ revisions:
     reviewer: null
 sensitivity: "none"
 updated: 2026-07-24
-sourceContentHash: "9afc970d27f7e50d"
+sourceContentHash: "8db8504e8559d165"
 sources:
   - title: "Tahukah Anda Peristiwa Apa Yang Berlaku Pada 31 Januari?"
     url: "https://www.mkn.gov.my/web/ms/2023/01/31/tahukah-anda-peristiwa-apa-yang-berlaku-pada-31-januari/"
@@ -91,7 +91,7 @@ Japanese forces landed at Kuala Pak Amat near Kota Bharu on 8 December 1941 and 
 | 31 January 1942 | The whole of Malaya is under Japanese control |
 | 15 February 1942 | Lieutenant General Arthur Percival surrenders Singapore |
 
-The attack was not a single landing. It combined an amphibious assault on the northern coast of Malaya with coordinated landings at Pattani and Songkhla in Thailand, followed by an advance across the border into the western part of the peninsula. Local youths from the Kesatuan Melayu Muda (KMM, Young Malays Union) helped Japanese forces as guides and interpreters during 1941–1942.
+The attack was not a single landing. It combined an amphibious assault on the northern coast of Malaya with coordinated landings at Pattani and Songkhla in Thailand, followed by an advance across the border into the western part of the peninsula. Local youths from the [Kesatuan Melayu Muda](/malaysia/rise-of-malay-nationalism) (KMM, Young Malays Union) helped Japanese forces as guides and interpreters during 1941–1942.
 
 For ordinary people, the war was not an arrow on a map. A diary held by Arkib Negara Malaysia (National Archives of Malaysia) — written by Encik Daud bin Sulaiman bin Mohd Salleh in the area around Batu Pahat — records repeated air raids, bombs falling on rubber estates and at Bukit Belah on Jalan Yong Peng, aircraft circling over Bandar Penggaram, and fighting at Parit Besar so intense that Muslim residents there could not perform Friday prayers.
 

@@ -31,7 +31,7 @@ faq:
     a: "The owner may continue to own the property (section 69), but a change in ownership of National Heritage may only take place through inheritance or by sale with the prior approval of the Commissioner, and the Commissioner must be given first priority to purchase it (section 70)."
 
 lang: "en"
-sourceContentHash: "060530f081b0cb71"
+sourceContentHash: "ac4e452cf7f76ecc"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -73,7 +73,7 @@ related: ["unesco-world-heritage"]
 keywords: ["warisan kebangsaan", "Akta Warisan Kebangsaan 2005", "Akta 645", "Jabatan Warisan Negara", "Daftar Warisan Kebangsaan", "WAKOH", "tapak warisan"]
 ---
 
-A century-old shophouse in George Town, a keris blade, a court dance, and a living songket maker — all four can hold the same legal title in Malaysia: *National Heritage*. What binds them is not a UNESCO list, but a domestic register whose name is rarely mentioned: the **National Heritage Register**.
+A century-old shophouse in George Town, a keris blade, a court dance, and a living [songket](/arts-culture/songket) maker — all four can hold the same legal title in Malaysia: *National Heritage*. What binds them is not a UNESCO list, but a domestic register whose name is rarely mentioned: the **National Heritage Register**.
 
 This register was born of the **National Heritage Act 2005 (Act 645)**, which received royal assent on 30 December 2005 and was gazetted a day later. It replaced older laws such as the Antiquities Act 1976 and consolidated the country's heritage conservation under a single administrative machinery — the **Department of National Heritage (JWN)** and a **Commissioner of Heritage**.
 

@@ -29,7 +29,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "53cec54bf4113555"
+sourceContentHash: "965829d0863e2f00"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -75,7 +75,7 @@ related: []
 keywords: ["Jabatan Warisan Negara", "JWN", "Department of National Heritage", "National Heritage Act 2005", "Act 645", "Warisan Kebangsaan", "National Heritage Register", "Commissioner of Heritage", "heritage.gov.my", "MOTAC", "gazette national heritage Malaysia", "Daftar Warisan Kebangsaan", "Warisan Orang Hidup"]
 ---
 
-Apabila sebuah rumah kedai di George Town menerima perintah perlindungan, atau seorang penari *mak yong* dihormati sebagai harta hidup, satu badan persekutuan berdiri di sebalik keputusan itu: **Jabatan Warisan Negara** (**JWN**). Ditubuhkan pada **1 Mac 2006**, JWN mengenal pasti, memulihara, mewartakan dan melindungi warisan Malaysia, dan ia beroperasi di bawah **Kementerian Pelancongan, Seni dan Budaya (MOTAC)**. Visinya yang dinyatakan adalah untuk menerajui usaha meneroka dan memelihara khazanah warisan ke arah membentuk jati diri negara dan menjana ekonomi negara.
+Apabila sebuah rumah kedai di George Town menerima perintah perlindungan, atau seorang penari *[mak yong](/arts-culture/mak-yong)* dihormati sebagai harta hidup, satu badan persekutuan berdiri di sebalik keputusan itu: **Jabatan Warisan Negara** (**JWN**). Ditubuhkan pada **1 Mac 2006**, JWN mengenal pasti, memulihara, mewartakan dan melindungi warisan Malaysia, dan ia beroperasi di bawah **Kementerian Pelancongan, Seni dan Budaya (MOTAC)**. Visinya yang dinyatakan adalah untuk menerajui usaha meneroka dan memelihara khazanah warisan ke arah membentuk jati diri negara dan menjana ekonomi negara.
 
 ## Apakah undang-undang yang dijalankan JWN?
 

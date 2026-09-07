@@ -34,7 +34,7 @@ revisions:
     reviewer: null
 sensitivity: "none"
 updated: 2026-07-24
-sourceContentHash: "9afc970d27f7e50d"
+sourceContentHash: "8db8504e8559d165"
 sources:
   - title: "Tahukah Anda Peristiwa Apa Yang Berlaku Pada 31 Januari?"
     url: "https://www.mkn.gov.my/web/ms/2023/01/31/tahukah-anda-peristiwa-apa-yang-berlaku-pada-31-januari/"
@@ -91,7 +91,7 @@ keywords: ["pendudukan Jepun", "Tanah Melayu 1941-1945", "duit pisang", "Kota Bh
 | 1942年1月31日 | 整个马来亚落入日军控制 |
 | 1942年2月15日 | 陆军中将阿瑟·珀西瓦尔（Arthur Percival）投降新加坡 |
 
-这次攻击并非单一登陆行动。它结合了在马来亚北部海岸的两栖突袭，与在泰国北大年（Pattani）及宋卡（Songkhla）的协同登陆，随后越过边境向半岛西部推进。青年马来人联盟（Kesatuan Melayu Muda，KMM）的本地青年在1941年至1942年间充当日军的向导与翻译。
+这次攻击并非单一登陆行动。它结合了在马来亚北部海岸的两栖突袭，与在泰国北大年（Pattani）及宋卡（Songkhla）的协同登陆，随后越过边境向半岛西部推进。[青年马来人联盟](/malaysia/rise-of-malay-nationalism)（Kesatuan Melayu Muda，KMM）的本地青年在1941年至1942年间充当日军的向导与翻译。
 
 对平民而言，战争并不只是地图上的箭头。国家档案局（Arkib Negara Malaysia）保存的一本日记——由巴株巴辖一带的Daud bin Sulaiman bin Mohd Salleh先生所写——记录了反复的空袭、落在橡胶园与永平路Bukit Belah的炸弹、盘旋在Bandar Penggaram上空的飞机，以及Parit Besar一场激烈到当地穆斯林居民无法进行主麻聚礼的战斗。
 

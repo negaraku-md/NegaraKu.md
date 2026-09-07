@@ -214,7 +214,7 @@ the Bahasa Malaysia. That is a ceiling on the other language. Equal size complie
 The 30 per cent and similar percentage rules belong to other councils. Seberang Perai's
 own advertisement by-law does require Bahasa Malaysia to be *larger* — so the same
 signboard artwork can be compliant in KL and non-compliant across the channel in Penang.
-The mechanics and the Dewan Bahasa dan Pustaka vetting step are covered in the signboard
+The mechanics and the [Dewan Bahasa dan Pustaka](/arts-culture/dewan-bahasa-dan-pustaka) vetting step are covered in the signboard
 licence guide.
 
 ## The economic case

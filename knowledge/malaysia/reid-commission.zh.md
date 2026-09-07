@@ -20,7 +20,7 @@ appliesTo: "希望了解究竟是谁撰写了马来西亚立国宪法、依据�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ccf33bae844ab71e"
+sourceContentHash: "274cb6f4918d991f"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -68,7 +68,7 @@ keywords: ["Reid Commission", "Federation of Malaya Constitution", "Lord Reid", 
 
 ## 委员会从何而来
 
-委员会并非凭空出现。1956年1月至2月间，一个由东姑阿都拉曼率领的联盟党（Alliance Party）代表团在伦敦会晤了英国部长们。那场会议的成果之一，便是双方同意应委任一个独立委员会，为一个实行自治的马来亚建议一部宪法。
+委员会并非凭空出现。1956年1月至2月间，一个由东姑阿都拉曼率领的[联盟党](/malaysia/the-alliance)（Alliance Party）代表团在伦敦会晤了英国部长们。那场会议的成果之一，便是双方同意应委任一个独立委员会，为一个实行自治的马来亚建议一部宪法。
 
 委员会于1956年3月7日正式成立，获得伊丽莎白二世女王与统治者会议（Conference of Rulers）的批准。它的非正式名称，取自其主席里德勋爵（Lord Reid）——一位在任的英国上诉法院法官（Lord of Appeal in Ordinary）。
 

@@ -29,7 +29,7 @@ faq:
     a: "The official calendar is issued through MOE Circulars and the moe.gov.my portal each year before the session begins. Refer to official sources for the exact dates, as they change every year."
 
 lang: "en"
-sourceContentHash: "0c6ea5bb647c7fc2"
+sourceContentHash: "62daae28e6323377"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -105,12 +105,12 @@ These dates are specific to 2026 only. Every year MOE publishes a new calendar, 
 
 ## How do festive holidays fit into the picture?
 
-Festive holidays such as Chinese New Year, Aidilfitri and Deepavali are coordinated with the calendar, and sometimes the term-break dates are deliberately aligned with festive seasons. For example, in 2026, 1 Syawal falls on Saturday **21 March**, with the Aidilfitri public holiday spanning around **20–23 March** (the actual dates are subject to official announcement and may differ by state). These Raya dates fall **within** the term 1 mid-term break — not merely alongside it — because the Group B term break is 21–29 March and Group A's is 20–28 March. This overlap gives families a longer period to return to their hometowns.
+Festive holidays such as Chinese New Year, Aidilfitri and [Deepavali](/arts-culture/deepavali) are coordinated with the calendar, and sometimes the term-break dates are deliberately aligned with festive seasons. For example, in 2026, 1 Syawal falls on Saturday **21 March**, with the Aidilfitri public holiday spanning around **20–23 March** (the actual dates are subject to official announcement and may differ by state). These Raya dates fall **within** the term 1 mid-term break — not merely alongside it — because the Group B term break is 21–29 March and Group A's is 20–28 March. This overlap gives families a longer period to return to their hometowns.
 
 But there are two sources of difference between states to keep in mind:
 
 - **Islamic festivals depend on moon sighting.** The dates of Ramadan and Hari Raya can differ by a day between states, and some states declare additional holidays.
-- **Sabah and Sarawak have their own holidays.** The Kaamatan Festival (Sabah and Labuan) and Gawai Dayak Day (Sarawak) at the end of May or early June are state holidays that do not exist in the peninsula.
+- **Sabah and Sarawak have their own holidays.** The [Kaamatan Festival](/arts-culture/kaamatan) (Sabah and Labuan) and [Gawai Dayak](/arts-culture/gawai-dayak) Day (Sarawak) at the end of May or early June are state holidays that do not exist in the peninsula.
 
 This means that even though the framework of the calendar is shared nationwide, families in different states may end up on holiday on different days.
 

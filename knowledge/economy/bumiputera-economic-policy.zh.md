@@ -24,7 +24,7 @@ appliesTo: "希望了解土著经济政策目标从新经济政策延续至现�
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "4bedd6d01309795b"
+sourceContentHash: "0cfaf6ebc14f819b"
 
 status: "published"
 aiAssisted: true
@@ -121,7 +121,7 @@ keywords: ["dasar ekonomi Bumiputera", "Dasar Ekonomi Baru", "DEB", "penyusunan 
 
 **国家发展政策（NDP，Dasar Pembangunan Nasional，DPN），1991-2000年**，作为
 新经济政策的直接延续而推出。它保留了消除贫困与重组社会的目标，同时将其置于
-Wawasan 2020（2020年宏愿）这一长期愿景框架之中。
+[Wawasan 2020（2020年宏愿）](/malaysia/wawasan-2020)这一长期愿景框架之中。
 
 **国家宏愿政策（NVP，Dasar Wawasan Negara，DWN），2001-2010年**，在其后的
 长期规划框架中延续相同做法，持续着重透过人力资本发展与重组，提高土著在经济

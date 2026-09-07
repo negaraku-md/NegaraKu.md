@@ -53,7 +53,7 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
-sourceContentHash: "f54c1b99fa5a02e8"
+sourceContentHash: "44eeeac1d9bc0d54"
 
 sources:
   - title: "Jadual KDNK Negeri Mengikut Sektor Ekonomi (harga malar 2015)"
@@ -104,7 +104,7 @@ keywords: ["Terengganu", "Kuala Terengganu", "Batu Bersurat Terengganu", "Sultan
 
 登嘉楼最著名的两样东西，相距大约 60 公里，而且两者都不容易看见。
 
-第一样是一块位于乌鲁登嘉楼内陆 Kuala Berang 的石头，上面刻有超过 700 年历史的爪夷文
+第一样是一块位于乌鲁登嘉楼内陆 Kuala Berang 的石头，上面刻有超过 700 年历史的[爪夷文](/arts-culture/jawi-script)
 诗句。第二样则完全不在视线范围内——南中国海海床上的油气钻油平台，其产值在统计上从未
 进入这个州属的 GDP 账目。
 

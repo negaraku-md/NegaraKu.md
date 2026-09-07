@@ -106,7 +106,7 @@ The Code is not a Malaysian original. Its ancestor is the Indian Penal Code, dra
 by the first Indian Law Commission under Lord Macaulay, whose introductory report to
 the Governor-General of India in Council is dated 14 October 1837.
 
-That code was carried into the Straits Settlements not by extension but by local
+That code was carried into the [Straits Settlements](/malaysia/straits-settlements) not by extension but by local
 re-enactment: the **Straits Settlements Penal Code, Ordinance No. 4 of 1871**, which
 came into operation the following year. The Federated Malay States adopted the same
 model in **1936 as F.M.S. Cap. 45**, and that 1936 enactment is the statute the AGC's

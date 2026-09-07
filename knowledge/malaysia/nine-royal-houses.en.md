@@ -38,7 +38,7 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
-sourceContentHash: "17824a1e9b085a4f"
+sourceContentHash: "2e19d7c57053d5f0"
 sources:
   - title: "Federal Constitution (Reprint 2020) — Article 3, Article 32, Article 38, Fifth Schedule"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
@@ -119,7 +119,7 @@ Accordingly, when the Conference elects the Yang di-Pertuan Agong — the Suprem
 
 ## How this arrangement came about
 
-According to the Office of the Keeper of the Rulers' Seal, the Conference of Rulers in its modern form began with the Federation of Malaya Agreement 1948, which replaced the Malayan Union. The Conference's first meeting was held on 18 February 1948, with the Keeper of the Rulers' Seal acting as its secretary.
+According to the Office of the Keeper of the Rulers' Seal, the Conference of Rulers in its modern form began with the Federation of Malaya Agreement 1948, which replaced the [Malayan Union](/malaysia/malayan-union). The Conference's first meeting was held on 18 February 1948, with the Keeper of the Rulers' Seal acting as its secretary.
 
 Membership expanded alongside the development of the Federation. After independence on 31 August 1957, the Yang di-Pertua Negeri of Penang and Melaka joined the Conference; after the formation of Malaysia on 16 September 1963, the heads of Sabah and Sarawak joined it as well. That background is explained in [Formation of Malaysia 1963](/en/malaysia/formation-of-malaysia-1963). Throughout that expansion, the number of states with a reigning Ruler remained nine.
 

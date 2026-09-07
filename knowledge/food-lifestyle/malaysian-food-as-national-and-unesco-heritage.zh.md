@@ -30,7 +30,7 @@ faq:
     a: "是的。它是遗产专员于2024年2月23日宪报公布为国家遗产实物的10道菜肴之一。"
 
 lang: "zh"
-sourceContentHash: "2ea3eeb5e48a0100"
+sourceContentHash: "8940b708b107b9b5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -139,7 +139,7 @@ keywords: ["makanan warisan kebangsaan", "budaya sarapan Malaysia UNESCO", "bak 
 
 ## 是否已有其他美食进入联合国教科文组织名录？
 
-迄今为止没有。马来西亚在联合国教科文组织非物质文化遗产名录中共有九项元素：玛蓉舞（Mak Yong，2008年）、答唱歌谣（Dondang Sayang，2018年）、马来武术（Silat，2019年）、王船仪式（Ong Chun/Wangchuan，2020年）、宋吉锦（Songket，2021年）、玛蓉舞剧（Mek Mulung，2023年）、卡峇雅（Kebaya，2024年）、早餐文化（2024年）与班顿诗（Pantun，2025年）。其中八项位于**代表作名录**；而玛蓉舞剧（Mek Mulung，2023年）则被列入**急需保护名录**（Urgent Safeguarding List），而非代表作名录。在所有元素中，**只有早餐文化与美食相关**——其余的是表演艺术、纺织、服饰、仪式或口头文学。
+迄今为止没有。马来西亚在联合国教科文组织非物质文化遗产名录中共有九项元素：[玛蓉舞](/arts-culture/mak-yong)（Mak Yong，2008年）、答唱歌谣（Dondang Sayang，2018年）、马来武术（Silat，2019年）、王船仪式（Ong Chun/Wangchuan，2020年）、[宋吉锦](/arts-culture/songket)（Songket，2021年）、玛蓉舞剧（Mek Mulung，2023年）、卡峇雅（Kebaya，2024年）、早餐文化（2024年）与班顿诗（Pantun，2025年）。其中八项位于**代表作名录**；而玛蓉舞剧（Mek Mulung，2023年）则被列入**急需保护名录**（Urgent Safeguarding List），而非代表作名录。在所有元素中，**只有早餐文化与美食相关**——其余的是表演艺术、纺织、服饰、仪式或口头文学。
 
 这意味着联合国教科文组织对马来西亚美食的认可仍然极为精选：一项元素，一个年份。
 

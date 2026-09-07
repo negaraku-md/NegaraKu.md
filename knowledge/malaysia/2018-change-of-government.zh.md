@@ -19,7 +19,7 @@ keyTakeaways:
   - "敦马哈迪医生于2018年5月10日宣誓就任马来西亚第七任首相；旺阿兹莎医生（Dr Wan Azizah Wan Ismail）成为首位出任副首相的女性"
 appliesTo: "希望了解马来西亚在第14届大选中首次联邦政府更迭之有记录事实的读者——包括结果、议席数字与宪制机制——以中立、有据可查的方式陈述，不作党派解读。"
 lang: "zh"
-sourceContentHash: "05640090986fa5b4"
+sourceContentHash: "354e5f3719c345fc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -60,7 +60,7 @@ related: ["spr-election-commission", "dewan-rakyat", "how-elections-work", "fede
 keywords: ["14th general election", "GE14", "PRU14", "2018 Malaysian general election", "change of government Malaysia", "Pakatan Harapan", "Barisan Nasional", "Dewan Rakyat 222 seats", "Article 43 Federal Constitution", "Mahathir seventh Prime Minister"]
 ---
 
-61年来，从1957年独立后的首次联邦选举到2018年，马来西亚历届联邦政府都由同一个执政联盟组建——先是联盟党（Alliance Party），自1970年代起由其继承者国阵（Barisan Nasional）接续。在第14届大选中，这一连续性告终：一个不同的联盟赢得了下议院多数议席。
+61年来，从1957年独立后的首次联邦选举到2018年，马来西亚历届联邦政府都由同一个执政联盟组建——先是[联盟党](/malaysia/the-alliance)（Alliance Party），自1970年代起由其继承者[国阵](/malaysia/barisan-nasional)（Barisan Nasional）接续。在第14届大选中，这一连续性告终：一个不同的联盟赢得了下议院多数议席。
 
 本文并不将这场竞选重述为一个故事，也不对任何政党、候选人或选民作出评价。它陈述有记录可查的事实：投票日期、议席数字、政府更迭所依循的宪制机制，以及各事件发生的日期。
 

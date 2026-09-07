@@ -30,7 +30,7 @@ faq:
     a: "Pada pilihan raya umum ke-14 pada 9 Mei 2018, apabila gabungan pembangkang Pakatan Harapan memenangi 113 daripada 222 kerusi dan BN memenangi 79, kekalahan pertamanya bagi kerajaan persekutuan."
 
 lang: "ms"
-sourceContentHash: "615493e3adbf5817"
+sourceContentHash: "991005bf0f4cffdd"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -82,7 +82,7 @@ Bagi kebanyakan rakyat Malaysia yang masih hidup hari ini, "kerajaan" dan "Baris
 
 ## Dari manakah Barisan Nasional bermula?
 
-BN tidak muncul daripada kekosongan. Ia lahir daripada Perikatan, perkongsian lama yang telah memerintah sejak kemerdekaan pada 1957 dan yang menghimpunkan tiga parti berasaskan kaum: Pertubuhan Kebangsaan Melayu Bersatu (UMNO), Persatuan Cina Malaysia (MCA) dan Kongres India Malaysia (MIC).
+BN tidak muncul daripada kekosongan. Ia lahir daripada [Perikatan](/malaysia/the-alliance), perkongsian lama yang telah memerintah sejak kemerdekaan pada 1957 dan yang menghimpunkan tiga parti berasaskan kaum: Pertubuhan Kebangsaan Melayu Bersatu (UMNO), Persatuan Cina Malaysia (MCA) dan Kongres India Malaysia (MIC).
 
 Selepas rusuhan kaum pada 1969, kepimpinan berhasrat memperluaskan perkongsian itu menjadi sesuatu yang lebih besar dan lebih merangkumi bekas pesaing. Sepanjang awal 1970-an, Perikatan disusun semula dan diperluaskan menjadi Barisan Nasional, dan gabungan baharu itu menyertai pilihan raya umum pertamanya pada 1974, yang dimenanginya. Ideanya ialah sebuah "gabungan besar" yang menyerap parti yang sebelum ini berada dalam pembangkang, supaya sebahagian besar arus perdana politik memerintah bersama-sama dan bukannya bersaing.
 

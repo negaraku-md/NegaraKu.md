@@ -34,7 +34,7 @@ faq:
     a: "国家文化遗产局的文化遗产专员依据《2005年国家文化遗产法令》[第645号法令]第49(1)款，通过每年的遗产物品宣告（Deklarasi Objek Warisan）将食物列为遗产物品。"
 
 lang: "zh"
-sourceContentHash: "a56212dc8abe0829"
+sourceContentHash: "bdf1c88a62d4c6ac"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -132,7 +132,7 @@ keywords: ["nasi lemak", "roti canai", "char kuey teow", "laksa", "asam laksa", 
 **叻沙**其实是一个美食家族，而非单一食谱。两个主要分支常被混淆：
 
 - **亚参叻沙（Asam laksa）**——以罗望子（asam jawa）、姜花（bunga kantan）和越南芫荽（daun kesum）调味、酸辣的鱼汤（通常是甘望鱼／ikan kembung）。这是槟城的标志性版本。
-- **浓汤叻沙／咖喱叻沙（Laksa lemak / laksa kari）**——以醇厚的椰浆为基础，常见于半岛南部及娘惹（Peranakan）菜肴中。
+- **浓汤叻沙／咖喱叻沙（Laksa lemak / laksa kari）**——以醇厚的椰浆为基础，常见于半岛南部及[娘惹](/arts-culture/peranakan)（Peranakan）菜肴中。
 
 国际认证来临于2020年10月，**槟城亚参叻沙**在CNN发布的「世界50大美食」榜单中位居**第7**——是唯一进入前十的马来西亚美食，超越了排名第8的泰国冬阴功（tom yum goong）。该榜单由泰国玛莎曼咖喱（massaman）领衔，其次是意大利那不勒斯披萨。
 

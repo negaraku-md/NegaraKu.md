@@ -31,7 +31,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "98f97c808f0d22d7"
+sourceContentHash: "9d15ea63aee3b87b"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -73,7 +73,7 @@ Pada Januari 1956, satu delegasi Parti Perikatan — orang Melayu, Cina dan Indi
 
 ## Menulis buku peraturan sebelum majlisnya
 
-Sebuah perlembagaan bagi persekutuan berbilang etnik yang baru merdeka dengan sembilan Raja Melayu yang mewarisi takhta tidak boleh ditulis sendiri dalam satu hujung minggu. Kerajaan British menubuhkan Suruhanjaya Reid pada 1956 — satu panel peguam perlembagaan dari Britain dan negara-negara Komanwel — untuk merangkanya. Tugas mereka adalah mereka bentuk satu sistem yang dapat menyatukan kuasa persekutuan dan negeri, melindungi kedudukan Raja-Raja Melayu, serta menggariskan kewarganegaraan dan kebebasan asasi bagi penduduk yang, secara reka bentuknya, tidak seragam dari segi etnik. Laporan Suruhanjaya itu pada 1957 menjadi draf kerja bagi perlembagaan Persekutuan, dipinda melalui rundingan lanjut sebelum hari kemerdekaan, dan ia kekal — dengan pindaan — sebagai perlembagaan yang digunakan Malaysia.
+Sebuah perlembagaan bagi persekutuan berbilang etnik yang baru merdeka dengan sembilan Raja Melayu yang mewarisi takhta tidak boleh ditulis sendiri dalam satu hujung minggu. Kerajaan British menubuhkan [Suruhanjaya Reid](/malaysia/reid-commission) pada 1956 — satu panel peguam perlembagaan dari Britain dan negara-negara Komanwel — untuk merangkanya. Tugas mereka adalah mereka bentuk satu sistem yang dapat menyatukan kuasa persekutuan dan negeri, melindungi kedudukan Raja-Raja Melayu, serta menggariskan kewarganegaraan dan kebebasan asasi bagi penduduk yang, secara reka bentuknya, tidak seragam dari segi etnik. Laporan Suruhanjaya itu pada 1957 menjadi draf kerja bagi perlembagaan Persekutuan, dipinda melalui rundingan lanjut sebelum hari kemerdekaan, dan ia kekal — dengan pindaan — sebagai perlembagaan yang digunakan Malaysia.
 
 > Kemerdekaan tidak tiba sebagai satu peristiwa tengah malam yang tunggal; ia tiba sebagai perkara terakhir dalam satu jadual yang telah dirangka lapan belas bulan sebelumnya dan sebahagian besarnya dipatuhi.
 

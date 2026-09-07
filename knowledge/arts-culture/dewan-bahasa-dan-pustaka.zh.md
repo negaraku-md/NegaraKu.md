@@ -32,7 +32,7 @@ faq:
     a: "《语文出版局大词典》（Kamus Dewan Perdana）是 DBP 的官方数字参考词典，是数字转型议程的一部分，旨在提供一个全面且可免费查阅的马来语参考平台，网址为 kamus.dbp.gov.my。"
 
 lang: "zh"
-sourceContentHash: "6cd628f4b36eca42"
+sourceContentHash: "ad048e11c6564d32"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -112,7 +112,7 @@ DBP 在马来语言与文学方面拥有广泛的使命。其主要职责包括�
 
 DBP 的官方数字参考词典是**《语文出版局大词典》（Kamus Dewan Perdana）**，可在 kamus.dbp.gov.my 上免费在线查阅。该门户是 DBP 数字转型议程的一部分，旨在提供一个全面且便于社会各阶层查阅的马来语参考平台。
 
-在文学领域，DBP 主办**国家文学奖（Anugerah Sastera Negara）**，即以马来语创作的作家所能获得的最高认可。该奖项始于1981年，Keris Mas（Dr. Kamaludin Muhammad）为首位得奖者。得奖者获颁国家文学家（Sasterawan Negara）称号及多种形式的嘉奖，包括6万令吉（RM60,000）现金奖金、每月5,000令吉（RM5,000）津贴，以及作品出版与翻译方面的支持。截至2026年，共有16位人物获此殊荣，Mana Sikana（Dr. Abdul Rahman Napiah）于2026年4月28日被宣布为第16位得奖者。
+在文学领域，DBP 主办**[国家文学奖](/arts-culture/malaysian-literature)（Anugerah Sastera Negara）**，即以马来语创作的作家所能获得的最高认可。该奖项始于1981年，Keris Mas（Dr. Kamaludin Muhammad）为首位得奖者。得奖者获颁国家文学家（Sasterawan Negara）称号及多种形式的嘉奖，包括6万令吉（RM60,000）现金奖金、每月5,000令吉（RM5,000）津贴，以及作品出版与翻译方面的支持。截至2026年，共有16位人物获此殊荣，Mana Sikana（Dr. Abdul Rahman Napiah）于2026年4月28日被宣布为第16位得奖者。
 
 ## 接下来
 

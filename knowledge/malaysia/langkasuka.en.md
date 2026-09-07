@@ -20,7 +20,7 @@ appliesTo: "Readers curious about what existed on the Malay Peninsula before Mel
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "d58cdfad35ba7fed"
+sourceContentHash: "9a72c46b6d9e02d0"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -49,7 +49,7 @@ This is the strange position Langkasuka occupies in the history of the Malay Pen
 
 Chinese records mention diplomatic contact with Langkasuka as early as the 5th or 6th century CE, describing an established, functioning kingdom rather than a new one — meaning its actual founding predates the written record by an unknown stretch of time. Tribute missions to the Chinese court continued intermittently for centuries. Beyond China, later Malay and Javanese texts also carry references to a place called Langkasuka, treating it as a real, known kingdom rather than a legend.
 
-What these fragments describe, patched together, is a Hindu-Buddhist court culture — Indian religious and administrative influence layered onto a Southeast Asian trading kingdom, the same pattern seen at Funan, Champa and later Srivijaya. Langkasuka's kings, whatever their names in their own language, ruled in the idiom of Indic kingship: elephants, court ritual, Sanskrit-derived titles.
+What these fragments describe, patched together, is a Hindu-Buddhist court culture — Indian religious and administrative influence layered onto a Southeast Asian trading kingdom, the same pattern seen at Funan, Champa and later [Srivijaya](/malaysia/srivijaya). Langkasuka's kings, whatever their names in their own language, ruled in the idiom of Indic kingship: elephants, court ritual, Sanskrit-derived titles.
 
 ## Where, exactly?
 

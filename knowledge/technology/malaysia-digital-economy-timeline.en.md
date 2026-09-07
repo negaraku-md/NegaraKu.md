@@ -39,7 +39,7 @@ faq:
     a: "The National AI Office (NAIO) is an agency under the Ministry of Digital that was approved by the Cabinet on 28 August 2024 and launched on 12 December 2024. It is responsible for formulating, planning, researching, coordinating and implementing the country's AI initiatives. According to the Tech For Good Institute, its responsibilities include leading the National AI Strategy expected to cover 2026-2030, as a continuation of the AI Roadmap 2021-2025; the strategy's official name and scope await confirmation from official documents."
 
 lang: "en"
-sourceContentHash: "4454a4ff3639b835"
+sourceContentHash: "709d824572395d71"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -107,7 +107,7 @@ Reading policy as a timeline avoids two common mistakes — assuming MyDIGITAL s
 
 ## 1996: The Multimedia Super Corridor and Vision 2020
 
-The starting point is **12 February 1996**, when Prime Minister Mahathir Mohamad launched the **Multimedia Super Corridor (MSC Malaysia)**. The MSC was not merely an industrial park; it was designed as a core of the **Vision 2020** strategy — the long-term plan for Malaysia to reach developed-nation status by the year 2020 by shifting from a manufacturing-based economy to a knowledge-based economy.
+The starting point is **12 February 1996**, when Prime Minister Mahathir Mohamad launched the **Multimedia Super Corridor (MSC Malaysia)**. The MSC was not merely an industrial park; it was designed as a core of the [**Vision 2020**](/malaysia/wawasan-2020) strategy — the long-term plan for Malaysia to reach developed-nation status by the year 2020 by shifting from a manufacturing-based economy to a knowledge-based economy.
 
 Geographically, the original corridor stretched from Kuala Lumpur southward through Cyberjaya and Putrajaya to Kuala Lumpur International Airport. Two cities were built specifically to support it:
 

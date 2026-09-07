@@ -30,7 +30,7 @@ faq:
     a: "是的。马来文是 UEC 系统中的必修科目。许多 UEC 学生也以私人考生身份报考 SPM；董总报告称，2022至2024年华文独中学生的 SPM 马来文及格率超过96%（2022年为97.38%，2023年为97.11%，2024年为96.65%），采用的是与其他考生相同的 SPM 试卷。"
 
 lang: "zh"
-sourceContentHash: "4005b6df2ea85747"
+sourceContentHash: "899b0fd9ce10c90d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -108,7 +108,7 @@ UEC 的接受程度因地点与院校而异。在国际层面，UEC 高中程度
 
 ## 为何其承认问题成为持续争议？
 
-多年来，UEC 的承认问题在政策论述与选举政治中反复出现。据 Free Malaysia Today 报道，2018年国阵（Barisan Nasional）曾作出相关承诺，当时身兼国阵主席与首相的[纳吉](/malaysia/najib-razak)（Najib Razak）表示，若国阵取得强有力的委托，将承认 UEC。
+多年来，UEC 的承认问题在政策论述与选举政治中反复出现。据 Free Malaysia Today 报道，2018年[国阵（Barisan Nasional）](/malaysia/barisan-nasional)曾作出相关承诺，当时身兼国阵主席与首相的[纳吉](/malaysia/najib-razak)（Najib Razak）表示，若国阵取得强有力的委托，将承认 UEC。
 
 同年，希望联盟（Pakatan Harapan）的竞选宣言也承诺承认 UEC——让文凭持有者能够不受同等资格限制地进入公立大学——但以申请者在 SPM 层级的马来文至少取得优等为条件。执政期间，希盟成立了一个工作小组（task force）以收集意见，但该工作随着2020年政权更替而中止，工作小组于该年2月29日解散。
 

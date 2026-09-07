@@ -32,7 +32,7 @@ faq:
     a: "DEB为期20年的期限于1990年结束。它于1991年由国家发展政策（DPN）取代，其后又有其他发展政策。不过，其若干要素与原则在后续政策中得以延续。"
 
 lang: "zh"
-sourceContentHash: "386092ea82711d48"
+sourceContentHash: "806ab04106edfd7c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,7 +78,7 @@ related: ["bumiputera", "glc"]
 keywords: ["Dasar Ekonomi Baru", "DEB", "New Economic Policy", "NEP", "serampang dua mata", "pembasmian kemiskinan", "penyusunan semula masyarakat", "ekuiti Bumiputera 30 peratus", "Rancangan Malaysia Kedua", "perpaduan negara"]
 ---
 
-1969年5月13日事件之后，马来西亚政府作出了一项在此后二十年改变国家经济政策走向的判断：如果财富与机会仍旧沿着种族界线不均衡地集中，那么单靠经济增长是不够的。**新经济政策（Dasar Ekonomi Baru，DEB）**——英文为 *New Economic Policy*（NEP）——正是从这一判断中诞生的。
+[1969年5月13日事件](/malaysia/13-may-1969)之后，马来西亚政府作出了一项在此后二十年改变国家经济政策走向的判断：如果财富与机会仍旧沿着种族界线不均衡地集中，那么单靠经济增长是不够的。**新经济政策（Dasar Ekonomi Baru，DEB）**——英文为 *New Economic Policy*（NEP）——正是从这一判断中诞生的。
 
 本文以描述性的方式将DEB作为一项政策来说明：它的目标是什么，它是如何拟定的，以及它所包含的各项数字。本文不评价这项政策成功与否；关于这一点的看法各不相同，文末部分会不偏不倚地报道这些不同看法的范围。
 

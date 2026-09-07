@@ -30,7 +30,7 @@ faq:
     a: "Yes. It is among the 10 dishes gazetted as National Heritage objects by the Commissioner of Heritage on 23 February 2024."
 
 lang: "en"
-sourceContentHash: "2ea3eeb5e48a0100"
+sourceContentHash: "8940b708b107b9b5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -139,7 +139,7 @@ The element's official description characterises it as a living heritage tied to
 
 ## Are any other foods already on the UNESCO list?
 
-Not so far. Malaysia has nine elements on UNESCO's Intangible Cultural Heritage lists: Mak Yong (2008), Dondang Sayang (2018), Silat (2019), the Ong Chun/Wangchuan ceremony (2020), Songket (2021), Mek Mulung (2023), Kebaya (2024), Breakfast culture (2024) and Pantun (2025). Eight of them are on the **Representative List**; Mek Mulung (2023) is inscribed on the **List of Intangible Cultural Heritage in Need of Urgent Safeguarding**, not the Representative List. Of all of them, **only breakfast culture is food-related** — the rest are performing arts, textiles, dress, ceremonies or oral literature.
+Not so far. Malaysia has nine elements on UNESCO's Intangible Cultural Heritage lists: [Mak Yong](/arts-culture/mak-yong) (2008), Dondang Sayang (2018), Silat (2019), the Ong Chun/Wangchuan ceremony (2020), [Songket](/arts-culture/songket) (2021), Mek Mulung (2023), Kebaya (2024), Breakfast culture (2024) and Pantun (2025). Eight of them are on the **Representative List**; Mek Mulung (2023) is inscribed on the **List of Intangible Cultural Heritage in Need of Urgent Safeguarding**, not the Representative List. Of all of them, **only breakfast culture is food-related** — the rest are performing arts, textiles, dress, ceremonies or oral literature.
 
 This means UNESCO recognition for Malaysian food remains highly selective: one element, one year.
 

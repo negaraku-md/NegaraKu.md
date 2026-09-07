@@ -113,7 +113,7 @@ The Federation of Malaya's own Federal Legislative Council did not formally pass
 the Contracts Ordinance until 1950, which is why the Act carries that year in its
 name even though its underlying rules are older still.
 
-Penang and Malacca, as former Straits Settlements, ran on English common law
+Penang and Malacca, as former [Straits Settlements](/malaysia/straits-settlements), ran on English common law
 rather than the Ordinance for another generation, and Sabah and Sarawak joined
 Malaysia later still. All four territories were brought under the Act together,
 on **1 July 1974** — the same date recorded in the AGC's own commencement note.

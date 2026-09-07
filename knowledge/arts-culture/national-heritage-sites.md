@@ -72,7 +72,7 @@ related: ["unesco-world-heritage"]
 keywords: ["warisan kebangsaan", "Akta Warisan Kebangsaan 2005", "Akta 645", "Jabatan Warisan Negara", "Daftar Warisan Kebangsaan", "WAKOH", "tapak warisan"]
 ---
 
-Sebuah rumah kedai berusia seabad di George Town, sebilah keris, sebuah tarian istana, dan seorang pembuat songket yang masih hidup — keempat-empatnya boleh menyandang gelaran undang-undang yang sama di Malaysia: *Warisan Kebangsaan*. Yang mengikat mereka bukan senarai UNESCO, tetapi sebuah daftar domestik yang jarang disebut namanya: **Daftar Warisan Kebangsaan**.
+Sebuah rumah kedai berusia seabad di George Town, sebilah keris, sebuah tarian istana, dan seorang pembuat [songket](/arts-culture/songket) yang masih hidup — keempat-empatnya boleh menyandang gelaran undang-undang yang sama di Malaysia: *Warisan Kebangsaan*. Yang mengikat mereka bukan senarai UNESCO, tetapi sebuah daftar domestik yang jarang disebut namanya: **Daftar Warisan Kebangsaan**.
 
 Daftar ini lahir daripada **Akta Warisan Kebangsaan 2005 (Akta 645)**, yang mendapat perkenan diraja pada 30 Disember 2005 dan diwartakan sehari kemudian. Ia menggantikan undang-undang lama seperti Akta Benda Purba 1976 dan menyatukan pemuliharaan warisan negara di bawah satu jentera pentadbiran — **Jabatan Warisan Negara (JWN)** dan seorang **Pesuruhjaya Warisan**.
 

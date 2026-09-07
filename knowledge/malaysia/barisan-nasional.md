@@ -81,7 +81,7 @@ For most Malaysians alive today, "the government" and "Barisan Nasional" were, f
 
 ## Where did Barisan Nasional come from?
 
-BN did not appear from nothing. It grew out of the Alliance, the older partnership that had governed since independence in 1957 and that brought together three ethnically-based parties: the United Malays National Organisation (UMNO), the Malaysian Chinese Association (MCA) and the Malaysian Indian Congress (MIC).
+BN did not appear from nothing. It grew out of [the Alliance](/malaysia/the-alliance), the older partnership that had governed since independence in 1957 and that brought together three ethnically-based parties: the United Malays National Organisation (UMNO), the Malaysian Chinese Association (MCA) and the Malaysian Indian Congress (MIC).
 
 After the racial disturbances of 1969, the leadership set out to widen that partnership into something larger and more inclusive of former rivals. Over the early 1970s the Alliance was reconstituted and broadened into Barisan Nasional, and the new coalition contested its first general election in 1974, which it won. The idea was a "grand coalition" that absorbed parties which had previously sat in opposition, so that most of the political mainstream governed together rather than competing.
 

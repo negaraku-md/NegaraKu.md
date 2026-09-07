@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Students, translators, journalists and anyone seeking to understand the difference between the socio-political term 'rakyat' and the legal term 'warganegara' in the Malaysian context."
 
 lang: "en"
-sourceContentHash: "bc4f1e17411cc7bc"
+sourceContentHash: "fbeab4450bf533fd"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -69,7 +69,7 @@ are two different words carrying two different functions in Bahasa Malaysia.
 
 ## What "rakyat" means
 
-According to **Kamus Dewan** (Dewan Bahasa dan Pustaka), via the Pusat
+According to **Kamus Dewan** ([Dewan Bahasa dan Pustaka](/arts-culture/dewan-bahasa-dan-pustaka)), via the Pusat
 Rujukan Persuratan Melayu (PRPM) portal, "rakyat" carries several meanings:
 
 | Meaning | Description |

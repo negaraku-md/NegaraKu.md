@@ -130,7 +130,7 @@ The government has kept adjusting this structure. From **1 July 2025**, the Mini
 
 ## When do the sales happen?
 
-Retail here runs on a rhythm of sale seasons. Nationwide mega-sale campaigns cluster around the **mid-year** and **year-end** periods, and festive shopping surges before **Hari Raya Aidilfitri, Chinese New Year and Deepavali**, when malls extend hours and run bazaars. Online, the paired-digit dates (such as 11.11 and 12.12) have become their own shopping events. Because goods prices are quoted tax-inclusive, an advertised discount is a discount off the final price — there is no separate tax to add back at the counter.
+Retail here runs on a rhythm of sale seasons. Nationwide mega-sale campaigns cluster around the **mid-year** and **year-end** periods, and festive shopping surges before **[Hari Raya Aidilfitri](/arts-culture/hari-raya-aidilfitri), Chinese New Year and [Deepavali](/arts-culture/deepavali)**, when malls extend hours and run bazaars. Online, the paired-digit dates (such as 11.11 and 12.12) have become their own shopping events. Because goods prices are quoted tax-inclusive, an advertised discount is a discount off the final price — there is no separate tax to add back at the counter.
 
 ## What's next
 

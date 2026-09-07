@@ -24,7 +24,7 @@ appliesTo: "Students, policy analysts, journalists and anyone who wants to under
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "4bedd6d01309795b"
+sourceContentHash: "0cfaf6ebc14f819b"
 
 status: "published"
 aiAssisted: true
@@ -133,7 +133,7 @@ discontinued — it was carried into the next policy framework.
 **The National Development Policy (NDP), 1991-2000** was introduced as a
 direct continuation of the NEP. It retained the goals of poverty eradication
 and societal restructuring, while placing them within the long-term
-aspirational framework of Wawasan 2020 (Vision 2020).
+aspirational framework of [Wawasan 2020](/malaysia/wawasan-2020) (Vision 2020).
 
 **The National Vision Policy (NVP), 2001-2010** continued the same approach
 within the next Long-Term Plan Framework, with continued emphasis on

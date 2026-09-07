@@ -40,7 +40,7 @@ verificationNeeded:
   - "The historical periods each coalition governed and their years of establishment (for example, when Barisan Nasional governed at the federal level, and when Perikatan Nasional was established) are not stated as hard dates in this page because no primary source was checked for them in this round. Add sourced dates if needed."
 
 lang: "en"
-sourceContentHash: "71a255fc70d35340"
+sourceContentHash: "58782ac706653a76"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -172,7 +172,7 @@ exhaustive.
 
 | Coalition | Some component parties | Brief note |
 | --- | --- | --- |
-| **Barisan Nasional (BN)** | UMNO, MCA, MIC | One of the long-established federal coalitions |
+| **[Barisan Nasional](/malaysia/barisan-nasional) (BN)** | UMNO, MCA, MIC | One of the long-established federal coalitions |
 | **Pakatan Harapan (PH)** | PKR, DAP, Amanah | The bloc that won the most seats in GE15 (2022) |
 | **Perikatan Nasional (PN)** | Bersatu, PAS, Gerakan | A coalition that contested in GE15 (2022) |
 | **Gabungan Parti Sarawak (GPS)** | Led by PBB, together with other parties | A Sarawak-based coalition |

@@ -77,7 +77,7 @@ That two-part shape is not a footnote. It is the reason "Malaysia" and "Peninsul
 
 ## The spine down the middle of the Peninsula
 
-Look at a relief map of Peninsular Malaysia and one feature dominates: a chain of mountains running roughly north–south through the centre, the **Titiwangsa Range**. It is the backbone of the Peninsula, and it does two jobs at once.
+Look at a relief map of Peninsular Malaysia and one feature dominates: a chain of mountains running roughly north–south through the centre, the **[Titiwangsa Range](/malaysia/titiwangsa-range)**. It is the backbone of the Peninsula, and it does two jobs at once.
 
 First, it is a watershed. Rain that falls on its slopes drains east or west depending on which side of the crest it lands, feeding the rivers — the Pahang, the Perak, the Kelantan among them — that peninsular Malaysians have farmed, fished and traded along for centuries.
 
@@ -97,7 +97,7 @@ Either way, the pattern holds: coastal plain and river valley for people, mounta
 
 Cross the South China Sea to Sabah and Sarawak and the same logic shows up again, only larger. A mountainous interior — anchored in Sabah by the **Crocker Range** — separates a narrow coastal strip from the deep Bornean rainforest inland. State capitals and population centres, Kota Kinabalu and Kuching among them, sit on the coast or up navigable rivers, exactly where the peninsular pattern would predict.
 
-Sabah's version of "the tallest peak forces respect" is not subtle. **Mount Kinabalu** rises to 4,095 metres — not just the highest point in Malaysia, but the highest peak anywhere between the Himalayas and New Guinea. It sits inside Kinabalu Park, Malaysia's first UNESCO World Heritage Site, and its granite summit is visible from much of Sabah's west coast on a clear day, a permanent landmark for a coastline that otherwise offers few.
+Sabah's version of "the tallest peak forces respect" is not subtle. **[Mount Kinabalu](/malaysia/mount-kinabalu)** rises to 4,095 metres — not just the highest point in Malaysia, but the highest peak anywhere between the Himalayas and New Guinea. It sits inside Kinabalu Park, Malaysia's first UNESCO World Heritage Site, and its granite summit is visible from much of Sabah's west coast on a clear day, a permanent landmark for a coastline that otherwise offers few.
 
 | | Peninsular Malaysia | East Malaysia (Borneo) |
 | --- | --- | --- |

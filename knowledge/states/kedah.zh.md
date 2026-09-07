@@ -44,7 +44,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "ab61ca68f54bcbbf"
+sourceContentHash: "c089ad0a854f3911"
 
 status: "published"
 aiAssisted: true
@@ -205,7 +205,7 @@ billion**的获批投资——仅次于雪兰莪（RM101.1 billion）、吉隆�
 对一个供应全国约三分之一稻米的州属而言，这样的排名出乎大多数人的预料。
 另可参阅马来西亚[制造业](/zh/economy/manufacturing)的整体概况。
 
-## 古吉打与布秧谷
+## 古吉打与[布秧谷](/malaysia/bujang-valley)
 
 在Merbok县，Gunung Jerai山脚下，埋藏着一层比任何工厂或稻田都古老得多的
 历史。
@@ -237,8 +237,7 @@ Sultan Badlishah**，是第**29**任吉打苏丹，于**2017年9月12日**颁布
 正式王宫为亚罗士打的Istana Anak Bukit。
 
 同一份官方网站记录，吉打苏丹国始于**1136年**，当时Raja Phra Ong
-Mahawangsa皈依伊斯兰教，并受封为Sultan Mudzafar Shah。此后该州历经室
-利佛逝、暹罗与英国影响之下的不同时期，最终于1948年加入马来亚联合邦。
+Mahawangsa皈依伊斯兰教，并受封为Sultan Mudzafar Shah。此后该州历经[室利佛逝](/malaysia/srivijaya)、暹罗与英国影响之下的不同时期，最终于1948年加入马来亚联合邦。
 
 亚罗士打本身则由Sultan Muhammad Jiwa Sultan Zainal Adilin Mu'adzam Shah
 II于**1735年**建立，根据州属地方政府官方网站，是马来西亚历史最悠久的州

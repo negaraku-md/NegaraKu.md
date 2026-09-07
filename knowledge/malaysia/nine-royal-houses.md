@@ -118,7 +118,7 @@ Oleh itu, apabila Majlis memilih Yang di-Pertuan Agong — Ketua Utama Negara ya
 
 ## Bagaimana susunan ini terbentuk
 
-Menurut Pejabat Penyimpan Mohor Besar Raja-Raja, Majlis Raja-Raja dalam bentuk moden bermula dengan Perjanjian Persekutuan Tanah Melayu 1948, yang menggantikan Malayan Union. Mesyuarat sulung Majlis diadakan pada 18 Februari 1948, dengan Penyimpan Mohor Besar Raja-Raja bertindak sebagai setiausahanya.
+Menurut Pejabat Penyimpan Mohor Besar Raja-Raja, Majlis Raja-Raja dalam bentuk moden bermula dengan Perjanjian Persekutuan Tanah Melayu 1948, yang menggantikan [Malayan Union](/malaysia/malayan-union). Mesyuarat sulung Majlis diadakan pada 18 Februari 1948, dengan Penyimpan Mohor Besar Raja-Raja bertindak sebagai setiausahanya.
 
 Keanggotaan diperluas mengikut perkembangan Persekutuan. Selepas kemerdekaan pada 31 Ogos 1957, Yang di-Pertua Negeri bagi Pulau Pinang dan Melaka menyertai Majlis; selepas pembentukan Malaysia pada 16 September 1963, ketua Sabah dan Sarawak turut menyertainya. Latar itu diterangkan dalam [Pembentukan Malaysia 1963](/malaysia/formation-of-malaysia-1963). Sepanjang perluasan itu, bilangan negeri yang mempunyai Raja pemerintah kekal sembilan.
 

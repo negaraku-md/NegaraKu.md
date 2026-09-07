@@ -43,7 +43,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9f08cd84511dcb14"
+sourceContentHash: "28302eb055d03d4e"
 
 status: "published"
 aiAssisted: true
@@ -227,8 +227,8 @@ mematuhi.
 Peraturan 30 peratus dan peraturan peratusan seumpamanya adalah milik majlis lain.
 Undang-undang kecil iklan Seberang Perai sendiri memang menghendaki Bahasa Malaysia
 *lebih besar* — jadi reka bentuk papan tanda yang sama boleh mematuhi di KL dan tidak
-mematuhi di seberang selat di Pulau Pinang. Mekanismenya dan langkah pentauliahan Dewan
-Bahasa dan Pustaka diliputi dalam panduan lesen papan tanda.
+mematuhi di seberang selat di Pulau Pinang. Mekanismenya dan langkah pentauliahan [Dewan
+Bahasa dan Pustaka](/arts-culture/dewan-bahasa-dan-pustaka) diliputi dalam panduan lesen papan tanda.
 
 ## Hujah ekonomi
 

@@ -34,7 +34,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "fbddb91dda85ccfc"
+sourceContentHash: "a078693f5e3c25a0"
 
 status: "published"
 aiAssisted: true
@@ -104,7 +104,7 @@ keywords: ["Contracts Act 1950", "Act 136", "Malaysia contract law", "offer and 
 
 Federation of Malaya 自身的 Federal Legislative Council 直到 1950 年才正式通过 Contracts Ordinance，这也是该法令名称中带有该年份的原因，尽管其背后的规则其实还要更古老。
 
-Penang 与 Malacca 作为前 Straits Settlements，又多运行了一代人的英式普通法（common law）而非该 Ordinance；Sabah 与 Sarawak 则更晚才加入马来西亚。这四个地区是一并被纳入该法令适用范围的，时间是 **1974 年 7 月 1 日**——与 AGC 自身生效记录中所载的日期相同。
+Penang 与 Malacca 作为前 [Straits Settlements](/malaysia/straits-settlements)，又多运行了一代人的英式普通法（common law）而非该 Ordinance；Sabah 与 Sarawak 则更晚才加入马来西亚。这四个地区是一并被纳入该法令适用范围的，时间是 **1974 年 7 月 1 日**——与 AGC 自身生效记录中所载的日期相同。
 
 ## 该法令涵盖什么
 

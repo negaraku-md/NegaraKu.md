@@ -28,7 +28,7 @@ faq:
     a: "因为它已在全国广为人知、颜色与形态吸引、名称统一、随处可得，且当时尚未成为任何其他国家的国花。"
 
 lang: "zh"
-sourceContentHash: "25072fa2121a8327"
+sourceContentHash: "a06373b8a03d8ae0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -118,7 +118,7 @@ keywords: ["bunga raya", "bunga kebangsaan", "hibiscus", "Hibiscus rosa-sinensis
 
 ## 大红花今天用在哪里？
 
-作为国家象征之一，大红花与辉煌条纹旗（Jalur Gemilang，国旗）和国徽（Jata Negara）并列，构成马来西亚的官方形象，其图像也常出现在各类国家活动与庆典中。
+作为国家象征之一，大红花与[辉煌条纹旗](/malaysia/jalur-gemilang)（Jalur Gemilang，国旗）和国徽（Jata Negara）并列，构成马来西亚的官方形象，其图像也常出现在各类国家活动与庆典中。
 
 ## 接下来
 

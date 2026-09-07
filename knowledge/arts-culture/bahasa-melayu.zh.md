@@ -36,7 +36,7 @@ socialTitle: "马来语如何成为国家语言——并从爪夷文过渡到罗
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "31da3b0bb6a8193f"
+sourceContentHash: "1578825625379e44"
 
 status: "published"
 aiAssisted: true
@@ -96,7 +96,7 @@ keywords: ["bahasa Melayu", "bahasa kebangsaan", "Perkara 152", "Akta Bahasa Keb
 
 在登嘉楼的 Kuala Berang，曾发现一块石碑，上面刻着马来文词语——不是用我们今天所熟悉的字母，而是用为马来语音调整过的阿拉伯字母。据大马国家档案局（Arkib Negara Malaysia）所述，这块碑文的年代为公元1303年。
 
-据UNESCO所述，这块登嘉楼碑文石（Batu Bersurat Terengganu）是东南亚马来伊斯兰世界中爪夷文（Jawi）最早的证据，并于2009年被列入UNESCO世界记忆名录。这标志着，如今成为马来西亚国家语言的这门语言，在七百多年前就已被书写、阅读，并用于政务往来。
+据UNESCO所述，这块登嘉楼碑文石（Batu Bersurat Terengganu）是东南亚马来伊斯兰世界中[爪夷文](/arts-culture/jawi-script)（Jawi）最早的证据，并于2009年被列入UNESCO世界记忆名录。这标志着，如今成为马来西亚国家语言的这门语言，在七百多年前就已被书写、阅读，并用于政务往来。
 
 本文说明两件密切相关的事：马来语在宪法与法律上的地位为何，以及其文字如何由爪夷文演变为罗马字。两者都以描述性的方式说明——规定了什么、由谁规定、何时规定。
 
@@ -142,7 +142,7 @@ keywords: ["bahasa Melayu", "bahasa kebangsaan", "Perkara 152", "Akta Bahasa Keb
 
 罗马字——拉丁字母——在殖民地时期开始广泛用于马来语，当时出现了多种不同的罗马字拼写系统。到20世纪中叶，统一罗马字拼写已成为马来语文运动的关注重点。
 
-**1956年** — 国家语文局（Dewan Bahasa dan Pustaka，简称DBP），原名 Balai Pustaka，于1956年6月22日在新山成立，旨在将马来语发展为即将独立的国家的国家语言与官方语言。继1956年9月16日至21日在新加坡与新山举行的第三届马来语文与文学大会（Kongres Bahasa dan Persuratan Melayu Ketiga）之后，其名称改为 Dewan Bahasa dan Pustaka。
+**1956年** — [国家语文局](/arts-culture/dewan-bahasa-dan-pustaka)（Dewan Bahasa dan Pustaka，简称DBP），原名 Balai Pustaka，于1956年6月22日在新山成立，旨在将马来语发展为即将独立的国家的国家语言与官方语言。继1956年9月16日至21日在新加坡与新山举行的第三届马来语文与文学大会（Kongres Bahasa dan Persuratan Melayu Ketiga）之后，其名称改为 Dewan Bahasa dan Pustaka。
 
 **1957年** — 当马来亚联合邦取得[独立](/zh/malaysia/independence-1957)时，马来语作为国家语言的地位，依大马国家档案局所记录，明文订定于《联邦宪法》第152条。
 

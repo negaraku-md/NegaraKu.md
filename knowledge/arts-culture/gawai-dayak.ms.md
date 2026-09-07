@@ -35,7 +35,7 @@ faq:
     a: "Kedua-duanya perayaan berasingan dengan tema yang sama. Gawai Dayak ialah perayaan menuai kaum Dayak di Sarawak, disambut pada 1 dan 2 Jun. Kaamatan pula ialah perayaan menuai kaum Kadazandusun di Sabah, disambut pada 30 dan 31 Mei. Kedua-duanya bersyukur atas hasil tuaian padi, tetapi kaum, ritual dan tarikhnya berbeza."
 
 lang: "ms"
-sourceContentHash: "b3e3dd334b3d42b1"
+sourceContentHash: "52699cc827a614d0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -110,7 +110,7 @@ Walaupun cuti umum jatuh pada 1 Jun, sambutan sebenarnya bermula pada petang seb
 | Miring | Persembahan syukur, dimulakan dengan tabuhan *gendang rayah* (muzik ritual) |
 | Ngalu Petara | Perarakan gadis muda dan pahlawan bergerak turun naik *ruai* (ruang legar rumah panjang) sebanyak tujuh kali |
 | Minum tengah malam | Gong dipalu dan ketua memimpin minuman *Ai Pengayu* — tuak untuk umur panjang |
-| Ngajat dan rumah terbuka | Beberapa hari tarian, makanan, tuak dan kunjungan menyusul |
+| [Ngajat](/arts-culture/ngajat) dan rumah terbuka | Beberapa hari tarian, makanan, tuak dan kunjungan menyusul |
 
 **Miring** adalah pusat upacara ini. Ia dipengerusikan oleh **Tuai Rumah**, ketua rumah panjang, yang bersyukur atas hasil tuaian yang baik. Apabila gong dipalu pada tengah malam, masyarakat berkongsi *Ai Pengayu* dan saling mendoakan umur panjang, kesihatan serta kesejahteraan.
 

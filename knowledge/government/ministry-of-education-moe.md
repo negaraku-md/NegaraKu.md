@@ -119,7 +119,7 @@ The ministry was formed in **1955** and is headquartered at Block E8, Parcel E (
 
 KPM is the biggest line item in the federal budget. Under **Budget 2026**, it received the largest allocation of any federal ministry — **RM66.2 billion**, up from RM64.2 billion in 2025. That included nearly RM2 billion to upgrade more than 520 dilapidated schools, particularly in Sabah and Sarawak, and to build 38 new schools nationwide.
 
-A network of agencies and bodies sits under the ministry, including the Institute of Language and Literature (Dewan Bahasa dan Pustaka), the Malaysian Examinations Council (Majlis Peperiksaan Malaysia), and 14 State Education Departments (Jabatan Pendidikan Negeri).
+A network of agencies and bodies sits under the ministry, including the Institute of Language and Literature ([Dewan Bahasa dan Pustaka](/arts-culture/dewan-bahasa-dan-pustaka)), the Malaysian Examinations Council (Majlis Peperiksaan Malaysia), and 14 State Education Departments (Jabatan Pendidikan Negeri).
 
 ## What's next
 

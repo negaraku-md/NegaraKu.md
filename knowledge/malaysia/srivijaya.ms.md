@@ -19,7 +19,7 @@ appliesTo: "Pembaca yang ingin memahami apa yang menguasai Selat Melaka sebelum 
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "94d98d5fab6f032c"
+sourceContentHash: "898cebf4de21c87d"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -75,7 +75,7 @@ Apa yang menjadikan batu itu penting melangkaui sejarah Sumatera: ia adalah batu
 
 ## Lembah Bujang di Kedah: pencawang semenanjung dalam rangkaian milik orang lain
 
-Bukti fizikal yang paling jelas bagi dunia ini di bumi Malaysia terletak di Kedah, di Lembah Bujang, berhampiran Merbok. Jabatan Muzium Malaysia sendiri menggambarkan tapak ini sebagai pusat pemujaan Hindu-Buddha dan perdagangan antarabangsa — menghubungkan pedagang China, India, Arab dan Melayu — aktif dari kira-kira abad ke-3 hingga abad ke-12 Masihi, dengan berpuluh-puluh candi (runtuhan kuil) ditemui merentasi lembah itu.
+Bukti fizikal yang paling jelas bagi dunia ini di bumi Malaysia terletak di Kedah, di [Lembah Bujang](/malaysia/bujang-valley), berhampiran Merbok. Jabatan Muzium Malaysia sendiri menggambarkan tapak ini sebagai pusat pemujaan Hindu-Buddha dan perdagangan antarabangsa — menghubungkan pedagang China, India, Arab dan Melayu — aktif dari kira-kira abad ke-3 hingga abad ke-12 Masihi, dengan berpuluh-puluh candi (runtuhan kuil) ditemui merentasi lembah itu.
 
 Berhampiran, di Sungai Batu, Jabatan Warisan Negara Malaysia mendokumentasikan sesuatu yang lebih tua lagi: sebuah monumen bata bertarikh kira-kira 110 Masihi, relau peleburan besi yang mengeksport besi ke Arab dan India dari abad ke-1 hingga abad ke-8, dan struktur jeti yang menunjukkan tapak ini mengendalikan kargo laut secara langsung. Itu mendahului kebangkitan Srivijaya sendiri sejauh beberapa abad — sesuatu yang wajar dijelaskan dengan tepat, kerana ia bermakna kepentingan Lembah Bujang tidak bermula dengan Srivijaya. Apa yang secara amnya diletakkan oleh ahli sejarah dalam lingkungan pengaruh Srivijaya ialah tempoh perdagangan yang lebih kemudian: sejajar dengan rangkaian Srivijaya meluas ke utara semenanjung sejak lewat abad ke-7 dan seterusnya, pelabuhan-pelabuhan Kedah mungkin berfungsi sebagai salah satu daripada nod-nod ufti tersebut, menyara dunia Hindu-Buddha yang sama, menghadap Lautan Hindi, yang disauhkan oleh Palembang lebih jauh ke selatan. Rekod warisan Malaysia sendiri mendokumentasikan perdagangan, agama dan industri tapak ini secara terperinci; rekod-rekod itu sendiri tidak menyatakan secara eksplisit satu hubungan pentadbiran dengan Palembang, dan artikel ini tidak mendakwa ketepatan yang melangkaui itu.
 

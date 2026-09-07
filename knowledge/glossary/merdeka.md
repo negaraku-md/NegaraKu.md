@@ -69,7 +69,7 @@ lebih tua daripada Persekutuan Tanah Melayu sendiri.
 
 ## Maksudnya, menurut kamus
 
-Kamus Dewan (Dewan Bahasa dan Pustaka) mentakrifkan **merdeka** sebagai:
+Kamus Dewan ([Dewan Bahasa dan Pustaka](/arts-culture/dewan-bahasa-dan-pustaka)) mentakrifkan **merdeka** sebagai:
 
 > bebas (daripada penjajahan, kurungan, naungan, dan lain-lain), lepas
 > (daripada tebusan, tuntutan), berdiri sendiri, tidak bergantung pada

@@ -30,7 +30,7 @@ faq:
     a: "Among the types recorded by JKKN are Ngajat Lesong (performed by men while biting a wooden mortar), Ngajat Indu (performed by women with movements that mimic weaving pua kumbu), Ngajat Pua Kumbu (using the pua kumbu cloth) and Ngajat Ngiling Tikai, which marks the end of the Gawai Dayak celebration."
 
 lang: "en"
-sourceContentHash: "f7e44d5c020256db"
+sourceContentHash: "bc3c9b377ae4eddf"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -89,7 +89,7 @@ According to ICHLinks records, this dance is believed to have **existed alongsid
 
 Because that bird carries a special meaning. Every movement of Ngajat represents the **Hornbill** (Burung Kenyalang) — the bird that is the emblem of the Iban people and of the state of Sarawak, "Bumi Kenyalang" (the Land of the Hornbills).
 
-The men's dance is bold: it depicts a warrior heading to war or a bird in flight. According to ICHLinks records, male dancers wear a headdress of hornbill feathers, carry a long ornamented shield and a sword, and dress in a loincloth (cawat). By contrast, **Ngajat Indu** performed by women emphasises "the values of gentleness and modesty of Iban women", with movements that mimic the work of weaving **pua kumbu**.
+The men's dance is bold: it depicts a warrior heading to war or a bird in flight. According to ICHLinks records, male dancers wear a headdress of hornbill feathers, carry a long ornamented shield and a sword, and dress in a loincloth (cawat). By contrast, **Ngajat Indu** performed by women emphasises "the values of gentleness and modesty of Iban women", with movements that mimic the work of weaving **[pua kumbu](/arts-culture/pua-kumbu)**.
 
 ## When is it performed?
 

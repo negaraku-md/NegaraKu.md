@@ -21,7 +21,7 @@ appliesTo: "希望了解沙巴事实概况——包括其地理、经济与政�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "2571744abd4d125e"
+sourceContentHash: "d05db2b4db752c79"
 
 status: "published"
 aiAssisted: true
@@ -90,7 +90,7 @@ keywords: ["Sabah Malaysia", "Kota Kinabalu", "Mount Kinabalu", "Malaysia Agreem
 | 首府 | 亚庇 |
 | 人口 | 3,418,785（2020年人口普查，DOSM） |
 | 州元首 | 州元首（Yang di-Pertua Negeri，州长）；州政府由一位首席部长领导 |
-| 最高点 | 京那巴鲁山，海拔4,095米——喜马拉雅山与新几内亚之间最高的山峰 |
+| 最高点 | [京那巴鲁山](/malaysia/mount-kinabalu)，海拔4,095米——喜马拉雅山与新几内亚之间最高的山峰 |
 | 主要产业 | 农业（棕油）、石油与天然气、服务业、旅游业 |
 | 加入联邦 | 以北婆罗洲的身份，依据[1963年马来西亚协议](/zh/malaysia/ma63) |
 

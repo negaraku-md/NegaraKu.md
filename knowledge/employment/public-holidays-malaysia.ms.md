@@ -40,7 +40,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "1a9c00e3b0e46bcc"
+sourceContentHash: "c9161f47701aa87c"
 
 status: "published"
 aiAssisted: true
@@ -158,7 +158,7 @@ kepada perubahan.
 | Maulidur Rasul | 25 August 2026 | Tuesday |
 | Hari Kebangsaan | 31 August 2026 | Monday |
 | Hari Malaysia | 16 September 2026 | Wednesday |
-| Deepavali * | 8 November 2026 | Sunday |
+| [Deepavali](/arts-culture/deepavali) * | 8 November 2026 | Sunday |
 | Hari Krismas | 25 December 2026 | Friday |
 
 Perhatikan bahawa **Hari Wesak dan Deepavali kedua-duanya jatuh pada hari Ahad pada
@@ -181,7 +181,7 @@ menyebut sesuatu Negeri atau Raja, Negerinya sudah jelas dengan sendirinya.
 | Hari Tahun Baru | 1 January |
 | Hari Keputeraan Yang di-Pertuan Besar Negeri Sembilan | 14 January |
 | Israk dan Mikraj | 17 January |
-| Thaipusam | 1 February |
+| [Thaipusam](/arts-culture/thaipusam) | 1 February |
 | Hari Wilayah Persekutuan | 1 February |
 | Tahun Baru Cina (hari kedua) | 18 February |
 | Awal Ramadan * | 19 February |
@@ -197,8 +197,8 @@ menyebut sesuatu Negeri atau Raja, Negerinya sudah jelas dengan sendirinya.
 | Hari Hol Almarhum Sultan Ahmad Shah | 22 May |
 | Hari Arafah | 26 May |
 | Hari Raya Qurban (hari kedua) * | 28 May |
-| Pesta Kaamatan | 30 and 31 May |
-| Hari Gawai Dayak | 1 and 2 June |
+| [Pesta Kaamatan](/arts-culture/kaamatan) | 30 and 31 May |
+| Hari [Gawai Dayak](/arts-culture/gawai-dayak) | 1 and 2 June |
 | Hari Keputeraan Sultan Kedah | 21 June |
 | Ulang Tahun Pengisytiharan Tapak Warisan Dunia | 7 July |
 | Hari Keputeraan Yang di-Pertua Negeri Pulau Pinang | 11 July |

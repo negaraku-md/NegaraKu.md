@@ -129,7 +129,7 @@ kedua-dua pelancong dan penduduk.
 ## Tempat menarik
 
 Teras George Town yang tersenarai UNESCO menggabungkan seni bina kolonial British,
-jeti keluarga Cina, dan rumah kedai Peranakan, dan terkenal dengan seni jalanan serta
+jeti keluarga Cina, dan rumah kedai [Peranakan](/arts-culture/peranakan), dan terkenal dengan seni jalanan serta
 salah satu budaya makanan yang paling terkenal di Malaysia. Bukit Bendera menawarkan
 perjalanan kereta kabel funikular ke kawasan tanah tinggi yang lebih sejuk di atas
 bandar, manakala Tokong Kek Lok Si ialah salah satu kompleks tokong Buddha terbesar di

@@ -23,7 +23,7 @@ appliesTo: "学生、政策分析员、记者，以及任何想了解国家发�
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "ad2718136d4293ed"
+sourceContentHash: "e044f4eddcd76b63"
 
 status: "published"
 aiAssisted: true
@@ -92,7 +92,7 @@ keywords: ["Rancangan Malaysia", "RMK13", "Rancangan Malaysia Ketiga Belas", "Ke
 
 | 层级 | 期限 | 例子 | 功能 |
 | --- | --- | --- | --- |
-| 长期 | 10-30年 | 2020年宏愿（1991-2020）、国家宏愿政策（2001-2010） | 设定国家的宏大抱负与目标 |
+| 长期 | 10-30年 | [2020年宏愿](/malaysia/wawasan-2020)（1991-2020）、国家宏愿政策（2001-2010） | 设定国家的宏大抱负与目标 |
 | 中期 | 5年 | **大马计划**（RMK13，2026-2030） | 设定施政重点、优先事项、策略与成效目标 |
 | 短期 | 1年 | [联邦财政预算案](/zh/economy/federal-budget) | 为特定年度拨出实际令吉款项 |
 

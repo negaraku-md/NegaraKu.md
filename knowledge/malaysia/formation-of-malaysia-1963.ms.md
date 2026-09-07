@@ -31,7 +31,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "8149e5d5a41c3459"
+sourceContentHash: "6eb2de3c5c01ceae"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -92,7 +92,7 @@ Pembentukan pada asalnya disasarkan pada 31 Ogos 1963 — sengaja dipilih untuk 
 
 ## Pintu keluar yang tiada siapa mengiklankannya terlebih dahulu
 
-Tempoh Singapura sebagai sebuah negeri Malaysia berlangsung kurang daripada dua tahun. Ketegangan politik antara Parti Tindakan Rakyat, dipimpin oleh Lee Kuan Yew, dan kerajaan Perikatan di Kuala Lumpur — mengenai dasar ekonomi, politik berasaskan kaum, dan cita-cita PAP di luar sempadan Singapura — meruncing sehingga ke tahap Parlimen mengundi untuk mengeluarkan Singapura daripada persekutuan itu. Singapura menjadi sebuah republik yang merdeka sepenuhnya pada 9 Ogos 1965, satu hasil yang tidak dirancang oleh mana-mana pihak pada penggabungan 1963 dan satu hasil yang Lee Kuan Yew sendiri kemudiannya menggambarkannya, dalam satu sidang akhbar yang dilaporkan secara meluas dan jelas beremosi, sebagai satu detik penderitaan dan bukannya kemenangan.
+Tempoh Singapura sebagai sebuah negeri Malaysia berlangsung kurang daripada dua tahun. Ketegangan politik antara Parti Tindakan Rakyat, dipimpin oleh Lee Kuan Yew, dan kerajaan [Perikatan](/malaysia/the-alliance) di Kuala Lumpur — mengenai dasar ekonomi, politik berasaskan kaum, dan cita-cita PAP di luar sempadan Singapura — meruncing sehingga ke tahap Parlimen mengundi untuk mengeluarkan Singapura daripada persekutuan itu. Singapura menjadi sebuah republik yang merdeka sepenuhnya pada 9 Ogos 1965, satu hasil yang tidak dirancang oleh mana-mana pihak pada penggabungan 1963 dan satu hasil yang Lee Kuan Yew sendiri kemudiannya menggambarkannya, dalam satu sidang akhbar yang dilaporkan secara meluas dan jelas beremosi, sebagai satu detik penderitaan dan bukannya kemenangan.
 
 ## Mengapa ia masih penting
 

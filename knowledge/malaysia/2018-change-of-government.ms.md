@@ -19,7 +19,7 @@ keyTakeaways:
   - "Tun Dr Mahathir Mohamad mengangkat sumpah sebagai Perdana Menteri ketujuh Malaysia pada 10 Mei 2018; Dr Wan Azizah Wan Ismail menjadi wanita pertama yang berkhidmat sebagai Timbalan Perdana Menteri"
 appliesTo: "Pembaca yang mahukan fakta yang didokumenkan mengenai perubahan kerajaan persekutuan pertama Malaysia pada pilihan raya umum ke-14 — keputusannya, angka kerusi, dan mekanisme perlembagaan — yang dinyatakan secara neutral dan bersumberkan, tanpa tafsiran berpihak."
 lang: "ms"
-sourceContentHash: "05640090986fa5b4"
+sourceContentHash: "354e5f3719c345fc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -60,7 +60,7 @@ related: ["spr-election-commission", "dewan-rakyat", "how-elections-work", "fede
 keywords: ["14th general election", "GE14", "PRU14", "2018 Malaysian general election", "change of government Malaysia", "Pakatan Harapan", "Barisan Nasional", "Dewan Rakyat 222 seats", "Article 43 Federal Constitution", "Mahathir seventh Prime Minister"]
 ---
 
-Selama 61 tahun, sejak pilihan raya persekutuan pertama selepas kemerdekaan pada 1957 sehingga 2018, setiap kerajaan persekutuan Malaysia dibentuk oleh satu gabungan sahaja — Perikatan, dan sejak tahun 1970-an penggantinya, Barisan Nasional. Pada pilihan raya umum ke-14, kesinambungan itu berakhir: satu gabungan yang berbeza memenangi majoriti kerusi di Dewan Rakyat.
+Selama 61 tahun, sejak pilihan raya persekutuan pertama selepas kemerdekaan pada 1957 sehingga 2018, setiap kerajaan persekutuan Malaysia dibentuk oleh satu gabungan sahaja — [Perikatan](/malaysia/the-alliance), dan sejak tahun 1970-an penggantinya, [Barisan Nasional](/malaysia/barisan-nasional). Pada pilihan raya umum ke-14, kesinambungan itu berakhir: satu gabungan yang berbeza memenangi majoriti kerusi di Dewan Rakyat.
 
 Artikel ini tidak menceritakan semula kempen itu sebagai sebuah kisah, dan ia tidak mencirikan mana-mana parti, calon atau pengundi. Ia melaporkan apa yang direkodkan: tarikh pengundian, angka kerusi, mekanisme perlembagaan yang menyebabkan kerajaan itu berubah, dan tarikh-tarikh ia berlaku.
 

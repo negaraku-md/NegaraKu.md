@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "学生、翻译员、记者，以及任何希望理解「rakyat」这一社会政治用语与「warganegara」这一法律用语在马来西亚语境中有何分别的人。"
 
 lang: "zh"
-sourceContentHash: "bc4f1e17411cc7bc"
+sourceContentHash: "fbeab4450bf533fd"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -68,7 +68,7 @@ keywords: ["rakyat", "makna rakyat", "rakyat vs warganegara", "Kamus Dewan rakya
 
 ## 「rakyat」的意思
 
-根据国家语文局（Dewan Bahasa dan Pustaka）编纂的 **Kamus Dewan**，透过马来文书面语
+根据[国家语文局（Dewan Bahasa dan Pustaka）](/arts-culture/dewan-bahasa-dan-pustaka)编纂的 **Kamus Dewan**，透过马来文书面语
 参考中心（Pusat Rujukan Persuratan Melayu，PRPM）网站，「rakyat」带有以下几种意思：
 
 | 意思 | 说明 |

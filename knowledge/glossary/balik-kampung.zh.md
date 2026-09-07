@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "佳节期间的大道使用者、行程与假期规划者、零售与交通业者，以及任何想了解马来西亚人口流动模式的人。"
 
 lang: "zh"
-sourceContentHash: "beaafd533f8ef25b"
+sourceContentHash: "351c6944deba025a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -81,7 +81,7 @@ keywords: ["balik kampung", "maksud balik kampung", "trafik balik kampung", "Op 
 
 在重大节日的前几天，吉隆坡与巴生谷会变得空荡荡的——办公室关闭，店铺钉上木板，街道一片寂静。居民并没有消失；他们都在大道上，前往家族的原籍地。这就是**返乡（balik kampung）**。
 
-这个词的意思是回到家乡，而它并非任何单一族群独有的习俗。马来家庭在开斋节前返乡，华人家庭在农历新年前返乡，印度裔家庭在屠妖节前返乡，基督徒家庭则在圣诞节前返乡。模式相同；只是日期不同。
+这个词的意思是回到家乡，而它并非任何单一族群独有的习俗。马来家庭在开斋节前返乡，华人家庭在农历新年前返乡，印度裔家庭在[屠妖节](/arts-culture/deepavali)前返乡，基督徒家庭则在圣诞节前返乡。模式相同；只是日期不同。
 
 ## 为何规模如此庞大
 

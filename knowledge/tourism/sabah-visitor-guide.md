@@ -125,7 +125,7 @@ Kota Kinabalu — "KK" to almost everyone — is Sabah's capital and the hub thr
 Most visitors use KK as a base for two or three days and a springboard for everything else:
 
 - **Island-hopping on the doorstep.** The islands of Tunku Abdul Rahman Park sit just offshore, a short boat ride from the city waterfront — an easy half-day of snorkelling and beaches.
-- **The launch point for Mount Kinabalu.** The mountain and its park headquarters are roughly a two-hour drive from the city.
+- **The launch point for [Mount Kinabalu](/malaysia/mount-kinabalu).** The mountain and its park headquarters are roughly a two-hour drive from the city.
 - **Connections to the east coast.** Sandakan (for orangutans and the Kinabatangan River) and Tawau (for the Semporna–Sipadan dive region) are short domestic hops from KK.
 - **Food and sunsets.** The city's night markets, seafood, and famously colourful sunsets over the South China Sea are a destination in their own right.
 

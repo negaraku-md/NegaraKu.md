@@ -30,7 +30,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "1933adbc7603ea58"
+sourceContentHash: "4f75b1390b41bfeb"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -120,7 +120,7 @@ Kementerian ini ditubuhkan pada **1955** dan beribu pejabat di Blok E8, Parcel E
 
 KPM ialah item terbesar dalam belanjawan persekutuan. Di bawah **Belanjawan 2026**, ia menerima peruntukan terbesar berbanding mana-mana kementerian persekutuan — **RM66.2 bilion**, meningkat daripada RM64.2 bilion pada 2025. Ia termasuk hampir RM2 bilion untuk menaik taraf lebih daripada 520 buah sekolah daif, terutamanya di Sabah dan Sarawak, dan membina 38 buah sekolah baharu di seluruh negara.
 
-Satu rangkaian agensi dan badan terletak di bawah kementerian ini, termasuk Dewan Bahasa dan Pustaka, Majlis Peperiksaan Malaysia, dan 14 Jabatan Pendidikan Negeri.
+Satu rangkaian agensi dan badan terletak di bawah kementerian ini, termasuk [Dewan Bahasa dan Pustaka](/arts-culture/dewan-bahasa-dan-pustaka), Majlis Peperiksaan Malaysia, dan 14 Jabatan Pendidikan Negeri.
 
 ## Apa yang seterusnya
 

@@ -30,7 +30,7 @@ faq:
     a: "在2018年5月9日的第14届大选中，反对派希望联盟在222个议席中赢得113席，国阵赢得79席，这是它首次失去联邦政府。"
 
 lang: "zh"
-sourceContentHash: "615493e3adbf5817"
+sourceContentHash: "991005bf0f4cffdd"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -82,7 +82,7 @@ keywords: ["Barisan Nasional", "National Front", "BN", "Alliance Party", "UMNO",
 
 ## 国阵从何而来？
 
-国阵并非凭空出现。它脱胎于联盟党（Alliance）——这个更早的伙伴关系自1957年独立以来便已执政，聚合了三个以族群为基础的政党：巫统（United Malays National Organisation，UMNO）、马华公会（Malaysian Chinese Association，MCA）和国大党（Malaysian Indian Congress，MIC）。
+国阵并非凭空出现。它脱胎于[联盟党](/malaysia/the-alliance)（Alliance）——这个更早的伙伴关系自1957年独立以来便已执政，聚合了三个以族群为基础的政党：巫统（United Malays National Organisation，UMNO）、马华公会（Malaysian Chinese Association，MCA）和国大党（Malaysian Indian Congress，MIC）。
 
 在1969年的种族骚乱之后，领导层着手将这一伙伴关系扩大成一个更庞大、更能容纳昔日对手的联盟。在1970年代初，联盟党被重组并扩展为国阵，这一新联盟于1974年首次角逐大选并胜出。其构想是一个"大联盟"，吸纳先前身处反对阵营的政党，使大部分政治主流一同执政，而非相互竞争。
 

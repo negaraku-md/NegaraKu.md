@@ -134,7 +134,7 @@ ia dibawa ke dalam rangka dasar seterusnya.
 **Dasar Pembangunan Nasional (DPN), 1991-2000** diperkenalkan sebagai
 kesinambungan langsung kepada DEB. Ia mengekalkan matlamat pembasmian kemiskinan
 dan penyusunan semula masyarakat, sambil meletakkannya dalam rangka aspirasi
-jangka panjang Wawasan 2020.
+jangka panjang [Wawasan 2020](/malaysia/wawasan-2020).
 
 **Dasar Wawasan Negara (DWN), 2001-2010** meneruskan pendekatan yang sama dalam
 Rangka Rancangan Jangka Panjang berikutnya, dengan penekanan berterusan terhadap

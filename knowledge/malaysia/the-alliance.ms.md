@@ -31,7 +31,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "6fc048f8b4bc609a"
+sourceContentHash: "8468b6263efa9db8"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -113,7 +113,7 @@ Pada Januari 1956 satu delegasi belayar ke London untuk satu persidangan perlemb
 
 Persidangan itu sendiri berlangsung sepanjang Januari dan Februari 1956. Apa yang diperoleh oleh delegasi Perikatan bukanlah perlembagaan itu sendiri — itu masih belum ditulis — tetapi persetujuan pada dasarnya mengenai satu tarikh dan satu proses.
 
-## Memorandum bersama kepada Suruhanjaya Reid
+## Memorandum bersama kepada [Suruhanjaya Reid](/malaysia/reid-commission)
 
 Perlembagaan itu digubal oleh satu badan bebas, Suruhanjaya Reid, yang ditubuhkan pada 1956 di bawah Lord Reid dan dianggotai oleh ahli undang-undang dari Britain, Australia, India dan Pakistan. Ia menjemput penyerahan dan menerima berpuluh-puluh memorandum daripada pelbagai lapisan masyarakat Tanah Melayu.
 
@@ -131,7 +131,7 @@ Laporan Suruhanjaya Reid pada 1957 mengambil kira memorandum-memorandum yang dit
 
 Benang penghubung dari 1952 hingga 1957 ialah bahawa Perikatan berfungsi sebagai satu format untuk mencapai satu pendirian tunggal daripada tiga parti yang disusun mengikut garis kaum, dan kemudian mengemukakan pendirian itu — di peti undi, di London, dan kepada Suruhanjaya Reid — sebagai satu suara. Sama ada format itu paling baik difahami sebagai satu kompromi, satu tawar-menawar, atau sesuatu yang lain adalah satu perkara tafsiran yang tidak diambil sebarang pendirian oleh artikel ini. Apa yang terekod ialah urutannya: satu pakatan ad hoc 1952, diperluas pada 1954, disahkan pada pilihan raya 1955, dibawa ke rundingan 1956, dan dikemukakan sebagai satu memorandum bersama sebelum kemerdekaan.
 
-Perikatan terus menjadi gabungan pemerintah selepas 1957. Ia kemudiannya disusun semula dan diperluaskan menjadi Barisan Nasional pada tahun 1970-an — satu perkembangan berasingan yang di luar skop artikel ini.
+Perikatan terus menjadi gabungan pemerintah selepas 1957. Ia kemudiannya disusun semula dan diperluaskan menjadi [Barisan Nasional](/malaysia/barisan-nasional) pada tahun 1970-an — satu perkembangan berasingan yang di luar skop artikel ini.
 
 ## Apa yang seterusnya
 

@@ -40,7 +40,7 @@ verificationNeeded:
   - "各执政联盟的历史执政时期及成立年份（例如 Barisan Nasional 何时在联邦层级执政，以及 Perikatan Nasional 何时成立）在本页面中未以确切日期陈述，因为本轮没有为此查证主要来源。如有需要请补充有来源的日期。"
 
 lang: "zh"
-sourceContentHash: "71a255fc70d35340"
+sourceContentHash: "58782ac706653a76"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -154,7 +154,7 @@ keywords: ["parti politik Malaysia", "Akta Pertubuhan 1966", "Pendaftar Pertubuh
 
 | 联盟 | 部分成员党 | 简要说明 |
 | --- | --- | --- |
-| **国民阵线（国阵，BN）** | 巫统（UMNO）、马华（MCA）、国大党（MIC） | 成立已久的联邦联盟之一 |
+| **[国民阵线（国阵，BN）](/malaysia/barisan-nasional)** | 巫统（UMNO）、马华（MCA）、国大党（MIC） | 成立已久的联邦联盟之一 |
 | **希望联盟（希盟，PH）** | 公正党（PKR）、行动党（DAP）、诚信党（Amanah） | 在第15届全国大选（2022）中赢得最多议席的阵营 |
 | **国民联盟（国盟，PN）** | 土团党（Bersatu）、伊斯兰党（PAS）、民政党（Gerakan） | 参与第15届全国大选（2022）的联盟 |
 | **砂拉越政党联盟（GPS）** | 由土保党（PBB）领导，连同其他政党 | 以砂拉越为基地的联盟 |

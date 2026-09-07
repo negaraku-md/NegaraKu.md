@@ -43,7 +43,7 @@ verificationNeeded:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "085f4ab04fb9874b"
+sourceContentHash: "0b7fdd624b551b31"
 
 status: "published"
 aiAssisted: true
@@ -189,9 +189,9 @@ For national context on how these figures are calculated and compared, see
 Government sources consistently associate Kelantan with a cluster of
 traditional craft and performance forms: the wau bulan (moon kite), [wayang
 kulit](/en/arts-culture/wayang-kulit) (shadow puppetry), wood carving,
-silverwork, [batik](/en/arts-culture/batik) and songket weaving.
+silverwork, [batik](/en/arts-culture/batik) and [songket](/arts-culture/songket) weaving.
 
-**Mak yong** theatre holds the most formal international recognition. UNESCO
+**[Mak yong](/arts-culture/mak-yong)** theatre holds the most formal international recognition. UNESCO
 listed it on the Representative List of the Intangible Cultural Heritage of
 Humanity in 2008, following a 2005 proclamation, and describes it as a
 tradition originating in villages in Kelantan. UNESCO also notes that the

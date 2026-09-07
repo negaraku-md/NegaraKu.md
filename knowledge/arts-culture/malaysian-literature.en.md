@@ -31,7 +31,7 @@ faq:
     a: "Recipients receive a National Letter of Honour, RM60,000 in cash, a publishing allocation worth up to RM500,000 (up to 50,000 copies), free first-class-ward medical treatment at government hospitals, and a monthly allowance of RM5,000."
 
 lang: "en"
-sourceContentHash: "0ac1a67dc8ff7611"
+sourceContentHash: "c27d87b5dbf2077e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,7 +77,7 @@ Before there were novels and before there was a language council, a storyteller 
 
 ## Where did the Malay literary tradition begin?
 
-The roots of Malaysian literature far predate the modern nation. It began with folk literature transmitted orally — storytellers' tales, myths and legends — before being recorded in Jawi manuscript form.
+The roots of Malaysian literature far predate the modern nation. It began with folk literature transmitted orally — storytellers' tales, myths and legends — before being recorded in [Jawi](/arts-culture/jawi-script) manuscript form.
 
 Two classical forms became the pillars of this tradition. The **hikayat** is a narrative prose that recounts kings, heroes and events, while the **syair** is a four-line stanzaic poem commonly used by court writers to praise the sultan and record contemporary events.
 

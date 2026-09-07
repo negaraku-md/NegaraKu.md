@@ -39,7 +39,7 @@ faq:
     a: "国家人工智能办公室（National AI Office，NAIO）是数字部辖下的机构，于 2024 年 8 月 28 日获内阁批准，并于 2024 年 12 月 12 日推出。它负责制定、规划、研究、协调及落实国家人工智能举措。据 Tech For Good Institute，其职责包括主导预计涵盖 2026-2030 年的国家人工智能战略，作为 2021-2025 年 AI 路线图的延续；该战略的官方名称与范围有待正式文件确认。"
 
 lang: "zh"
-sourceContentHash: "4454a4ff3639b835"
+sourceContentHash: "709d824572395d71"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -107,7 +107,7 @@ keywords: ["ekonomi digital", "MSC Malaysia", "Koridor Raya Multimedia", "MyDIGI
 
 ## 1996 年：多媒体超级走廊与《2020 宏愿》
 
-起点是 **1996 年 2 月 12 日**，首相马哈迪·穆罕默德推出了**多媒体超级走廊（Multimedia Super Corridor，MSC Malaysia）**。MSC 不仅仅是一个工业园区；它被设计为**《2020 宏愿》**战略的核心——一项长期规划，通过从以制造业为基础的经济转向以知识为基础的经济，使马来西亚在 2020 年前跻身发达国家之列。
+起点是 **1996 年 2 月 12 日**，首相马哈迪·穆罕默德推出了**多媒体超级走廊（Multimedia Super Corridor，MSC Malaysia）**。MSC 不仅仅是一个工业园区；它被设计为[**《2020 宏愿》**](/malaysia/wawasan-2020)战略的核心——一项长期规划，通过从以制造业为基础的经济转向以知识为基础的经济，使马来西亚在 2020 年前跻身发达国家之列。
 
 从地理上看，原始走廊从吉隆坡向南延伸，经过赛城（Cyberjaya）与布城（Putrajaya），直至吉隆坡国际机场。为支撑它专门建设了两座城市：
 

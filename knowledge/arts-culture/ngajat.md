@@ -88,7 +88,7 @@ Menurut rekod ICHLinks, tarian ini dipercayai telah **wujud bersama kaum Iban se
 
 Kerana burung itu mempunyai makna khusus. Setiap gerakan Ngajat melambangkan **Burung Kenyalang** (enggang) — burung yang menjadi lambang kaum Iban dan negeri Sarawak, "Bumi Kenyalang".
 
-Tarian lelaki bersifat gagah: menggambarkan pahlawan yang menuju perang atau burung yang sedang terbang. Menurut rekod ICHLinks, penari lelaki memakai hiasan kepala daripada bulu enggang, memegang perisai panjang berhias serta pedang, dan berpakaian cawat (loincloth). Sebaliknya **Ngajat Indu** yang ditarikan wanita menekankan "nilai kelembutan dan kesopanan wanita Iban", dengan gerakan yang meniru kerja menenun **pua kumbu**.
+Tarian lelaki bersifat gagah: menggambarkan pahlawan yang menuju perang atau burung yang sedang terbang. Menurut rekod ICHLinks, penari lelaki memakai hiasan kepala daripada bulu enggang, memegang perisai panjang berhias serta pedang, dan berpakaian cawat (loincloth). Sebaliknya **Ngajat Indu** yang ditarikan wanita menekankan "nilai kelembutan dan kesopanan wanita Iban", dengan gerakan yang meniru kerja menenun **[pua kumbu](/arts-culture/pua-kumbu)**.
 
 ## Bila ia ditarikan?
 

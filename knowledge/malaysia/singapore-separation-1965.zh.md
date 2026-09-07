@@ -44,7 +44,7 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
-sourceContentHash: "e7c621af9be2484a"
+sourceContentHash: "0de005f939d65ebf"
 sources:
   - title: "Agreement relating to the separation of Singapore from Malaysia as an independent and sovereign State (Independence of Singapore Agreement, 1965), UNTS Vol. 563, No. 8206"
     url: "https://treaties.un.org/doc/Publication/UNTS/Volume%20563/volume-563-I-8206-English.pdf"
@@ -86,7 +86,7 @@ keywords: ["Singapore separation 1965", "Independence of Singapore Agreement", "
 
 1963年至1965年间吉隆坡与新加坡之间的争端，沿着三条有据可查的脉络展开。
 
-**政治竞争。** 新加坡的执政党人民行动党（People's Action Party，PAP）与吉隆坡的联盟政府，彼此争夺对方的政治地盘，这场竞争逐渐硬化为一场关于政治本身根基的争议。1965年5月，人民行动党联合其他五个政党组成马来西亚团结大会（Malaysian Solidarity Convention），于1965年5月9日在斯里淡马锡（Sri Temasek）召开，并于1965年6月6日在新加坡国家剧场举行首次公开集会。其联合宣言提出了「Malaysian Malaysia」（马来西亚人的马来西亚）的概念——用宣言本身的话说，这是一个"not defined with the supremacy, well-being and the interests of any one particular community or race"（不以任何单一族群或种族的至上地位、福祉与利益来界定）的国家。这场运动被吉隆坡的领导人视为一次直接挑战，围绕它的交锋是这场分离最常被引用的政治背景。
+**政治竞争。** 新加坡的执政党人民行动党（People's Action Party，PAP）与吉隆坡的[联盟](/malaysia/the-alliance)政府，彼此争夺对方的政治地盘，这场竞争逐渐硬化为一场关于政治本身根基的争议。1965年5月，人民行动党联合其他五个政党组成马来西亚团结大会（Malaysian Solidarity Convention），于1965年5月9日在斯里淡马锡（Sri Temasek）召开，并于1965年6月6日在新加坡国家剧场举行首次公开集会。其联合宣言提出了「Malaysian Malaysia」（马来西亚人的马来西亚）的概念——用宣言本身的话说，这是一个"not defined with the supremacy, well-being and the interests of any one particular community or race"（不以任何单一族群或种族的至上地位、福祉与利益来界定）的国家。这场运动被吉隆坡的领导人视为一次直接挑战，围绕它的交锋是这场分离最常被引用的政治背景。
 
 **族群暴力。** 1964年，新加坡经历了两次各自独立的马来族与华族族群骚乱——第一次于1964年7月21日在一场穆斯林游行期间爆发。双方政府的支持者都将背后的紧张局势归咎于对方的政治操作；骚乱本身、宵禁令及其伤亡情况都是有据可查的记录，它们使这场政治争端的温度成为一个公共安全问题。
 

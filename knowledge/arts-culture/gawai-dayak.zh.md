@@ -35,7 +35,7 @@ faq:
     a: "两者是主题相近但各自独立的节日。达雅节是砂拉越达雅族的丰收节，于6月1日及2日举行。丰收节（Kaamatan）则是沙巴卡达山—杜顺族（Kadazandusun）的丰收节，于5月30日及31日举行。两者都感谢稻米丰收，但庆祝的族群、仪式与日期各不相同。"
 
 lang: "zh"
-sourceContentHash: "b3e3dd334b3d42b1"
+sourceContentHash: "52699cc827a614d0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -110,7 +110,7 @@ keywords: ["Gawai Dayak", "Hari Gawai", "harvest festival Sarawak", "Dayak", "Ib
 | Miring | 感恩献祭，以敲击*gendang rayah*（仪式乐鼓）开场 |
 | Ngalu Petara | 年轻少女与勇士组成的队伍，沿*ruai*（长屋走廊）来回游行七次 |
 | 午夜祝酒 | 铜锣敲响，头人带领众人以*Ai Pengayu*——祈求长寿的 tuak 米酒——祝酒 |
-| Ngajat 与开放门户 | 随后数日充满舞蹈、美食、tuak 与访客往来 |
+| [Ngajat](/arts-culture/ngajat) 与开放门户 | 随后数日充满舞蹈、美食、tuak 与访客往来 |
 
 **Miring** 是整个仪式的核心。它由**Tuai Rumah**（长屋头人）主持，感谢丰收。午夜铜锣敲响时，社群共饮*Ai Pengayu*，互祝长寿、健康与繁荣。
 

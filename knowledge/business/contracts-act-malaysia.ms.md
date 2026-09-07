@@ -45,7 +45,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "f6b5e39b4a89675a"
+sourceContentHash: "e471e60c661a356c"
 
 status: "published"
 aiAssisted: true
@@ -108,7 +108,7 @@ daripada undang-undang Inggeris yang diandaikan oleh kebanyakan templat komersia
 
 Undang-undang kontrak di sini telah dikodifikasikan. Akta Kontrak 1950 (Akta 136)
 berasal daripada Akta Kontrak India 1872 (Indian Contract Act 1872), yang diwarisi oleh
-Negeri-Negeri Selat dan Negeri-Negeri Melayu Bersekutu, dan kemudian dilanjutkan ke
+[Negeri-Negeri Selat](/malaysia/straits-settlements) dan Negeri-Negeri Melayu Bersekutu, dan kemudian dilanjutkan ke
 seluruh negara oleh Malaysia melalui Contracts (Malay States) (Amendment and Extension)
 Act 1974.
 

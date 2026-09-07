@@ -42,7 +42,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "8b1640c0f40c4c0c"
+sourceContentHash: "e95a20cac513aa22"
 
 status: "published"
 aiAssisted: true
@@ -108,8 +108,8 @@ keywords:
   - "signboard licence fee DBKL"
 ---
 
-Kebanyakan panduan memberitahu anda bahawa Kuala Lumpur ialah bandar tempat Dewan Bahasa
-dan Pustaka perlu meluluskan perkataan pada papan tanda anda, seolah-olah ia satu keunikan
+Kebanyakan panduan memberitahu anda bahawa Kuala Lumpur ialah bandar tempat [Dewan Bahasa
+dan Pustaka](/arts-culture/dewan-bahasa-dan-pustaka) perlu meluluskan perkataan pada papan tanda anda, seolah-olah ia satu keunikan
 KL.
 
 Sebenarnya tidak. DBKL, MBPJ, MBSA dan DBKK semuanya menghendakinya, masing-masing dengan

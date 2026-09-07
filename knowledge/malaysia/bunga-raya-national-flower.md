@@ -117,7 +117,7 @@ Warna merah pula melambangkan keberanian dalam menempuh segala cabaran, serta ke
 
 ## Di mana bunga raya digunakan hari ini?
 
-Sebagai salah satu simbol kebangsaan, bunga raya berdiri bersama Jalur Gemilang (bendera) dan Jata Negara sebagai wajah rasmi Malaysia, dan imejnya kerap muncul dalam acara serta sambutan kebangsaan.
+Sebagai salah satu simbol kebangsaan, bunga raya berdiri bersama [Jalur Gemilang](/malaysia/jalur-gemilang) (bendera) dan Jata Negara sebagai wajah rasmi Malaysia, dan imejnya kerap muncul dalam acara serta sambutan kebangsaan.
 
 ## Apa seterusnya
 

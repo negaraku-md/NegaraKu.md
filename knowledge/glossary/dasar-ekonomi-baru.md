@@ -77,7 +77,7 @@ related: ["bumiputera", "glc"]
 keywords: ["Dasar Ekonomi Baru", "DEB", "New Economic Policy", "NEP", "serampang dua mata", "pembasmian kemiskinan", "penyusunan semula masyarakat", "ekuiti Bumiputera 30 peratus", "Rancangan Malaysia Kedua", "perpaduan negara"]
 ---
 
-Selepas peristiwa 13 Mei 1969, kerajaan Malaysia membuat satu penilaian yang mengubah arah dasar ekonomi negara selama dua dekad berikutnya: bahawa pertumbuhan ekonomi semata-mata tidak mencukupi jika kekayaan dan peluang masih tertumpu secara tidak seimbang mengikut garis kaum. Daripada penilaian itulah lahir **Dasar Ekonomi Baru (DEB)** — dalam bahasa Inggeris, *New Economic Policy* (NEP).
+Selepas [peristiwa 13 Mei 1969](/malaysia/13-may-1969), kerajaan Malaysia membuat satu penilaian yang mengubah arah dasar ekonomi negara selama dua dekad berikutnya: bahawa pertumbuhan ekonomi semata-mata tidak mencukupi jika kekayaan dan peluang masih tertumpu secara tidak seimbang mengikut garis kaum. Daripada penilaian itulah lahir **Dasar Ekonomi Baru (DEB)** — dalam bahasa Inggeris, *New Economic Policy* (NEP).
 
 Rencana ini menerangkan DEB secara deskriptif sebagai satu dasar: apa matlamatnya, bagaimana ia dirangka, dan angka-angka yang terkandung di dalamnya. Ia tidak menilai sama ada dasar itu berjaya atau tidak; pandangan tentang hal itu berbeza-beza, dan bahagian akhir rencana melaporkan julat pandangan tersebut tanpa memihak.
 

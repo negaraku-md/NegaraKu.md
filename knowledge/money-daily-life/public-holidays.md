@@ -70,7 +70,7 @@ keywords:
   - "Hari Gawai"
 ---
 
-Seorang kakitangan di Kota Kinabalu boleh bercuti dua hari berturut-turut sempena Pesta Kaamatan pada hujung Mei, sementara rakan sekerjanya di Melaka langsung tidak mengenali hari itu sebagai cuti. Seorang lagi di Kuching berhenti bekerja untuk Gawai pada 1 Jun, tetapi kalendar syarikat induknya di Kuala Lumpur tidak menandakan apa-apa pada tarikh tersebut. Ini bukan kesilapan HR. Ia tertanam dalam undang-undang.
+Seorang kakitangan di Kota Kinabalu boleh bercuti dua hari berturut-turut sempena [Pesta Kaamatan](/arts-culture/kaamatan) pada hujung Mei, sementara rakan sekerjanya di Melaka langsung tidak mengenali hari itu sebagai cuti. Seorang lagi di Kuching berhenti bekerja untuk Gawai pada 1 Jun, tetapi kalendar syarikat induknya di Kuala Lumpur tidak menandakan apa-apa pada tarikh tersebut. Ini bukan kesilapan HR. Ia tertanam dalam undang-undang.
 
 ## Tiga undang-undang, bukan satu
 

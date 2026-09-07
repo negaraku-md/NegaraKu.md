@@ -109,7 +109,7 @@ Although the public holiday falls on 1 June, the observance begins the evening b
 | Miring | The thanksgiving offering, opened with the beating of the *gendang rayah* (ritual music) |
 | Ngalu Petara | A procession of young maidens and warriors moves up and down the *ruai* (longhouse gallery) seven times |
 | Midnight toast | The gong is sounded and the chief leads a toast of *Ai Pengayu* — tuak for long life |
-| Ngajat and open house | Days of dancing, food, tuak and visiting follow |
+| [Ngajat](/arts-culture/ngajat) and open house | Days of dancing, food, tuak and visiting follow |
 
 The **miring** is the ceremonial centre. It is presided over by the **Tuai Rumah**, the longhouse chief, who gives thanks for the good harvest. When the gong sounds at midnight, the community shares the *Ai Pengayu* and wishes one another long life, health and prosperity.
 

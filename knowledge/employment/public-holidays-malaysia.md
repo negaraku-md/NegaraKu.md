@@ -150,7 +150,7 @@ an asterisk are stated in the source as subject to change.
 | Maulidur Rasul | 25 August 2026 | Tuesday |
 | Hari Kebangsaan / National Day | 31 August 2026 | Monday |
 | Hari Malaysia / Malaysia Day | 16 September 2026 | Wednesday |
-| Deepavali * | 8 November 2026 | Sunday |
+| [Deepavali](/arts-culture/deepavali) * | 8 November 2026 | Sunday |
 | Christmas Day | 25 December 2026 | Friday |
 
 Note that **Hari Wesak and Deepavali both fall on a Sunday in 2026**, and Hari Raya Puasa
@@ -171,7 +171,7 @@ State is self-evident.
 | New Year's Day | 1 January |
 | Birthday of the Yang di-Pertuan Besar of Negeri Sembilan | 14 January |
 | Israk and Mikraj | 17 January |
-| Thaipusam | 1 February |
+| [Thaipusam](/arts-culture/thaipusam) | 1 February |
 | Federal Territory Day | 1 February |
 | Chinese New Year (second day) | 18 February |
 | Awal Ramadan * | 19 February |
@@ -187,8 +187,8 @@ State is self-evident.
 | Hari Hol Almarhum Sultan Ahmad Shah | 22 May |
 | Hari Arafah | 26 May |
 | Hari Raya Qurban (second day) * | 28 May |
-| Pesta Kaamatan | 30 and 31 May |
-| Hari Gawai Dayak | 1 and 2 June |
+| [Pesta Kaamatan](/arts-culture/kaamatan) | 30 and 31 May |
+| Hari [Gawai Dayak](/arts-culture/gawai-dayak) | 1 and 2 June |
 | Birthday of the Sultan of Kedah | 21 June |
 | Anniversary of the Declaration of the World Heritage Site | 7 July |
 | Birthday of the Yang di-Pertua Negeri of Pulau Pinang | 11 July |

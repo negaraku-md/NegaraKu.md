@@ -31,7 +31,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "8149e5d5a41c3459"
+sourceContentHash: "6eb2de3c5c01ceae"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -92,7 +92,7 @@ keywords: ["马来西亚成立 1963", "科博尔德委员会 Cobbold Commission"
 
 ## The exit nobody advertised in advance
 
-新加坡作为马来西亚一州的时间不到两年。由李光耀领导的人民行动党与吉隆坡的联盟政府之间的政治紧张——围绕经济政策、以种族为基础的政治，以及人民行动党在新加坡境外的抱负——升级到国会投票将新加坡逐出联邦的地步。新加坡在1965年8月9日成为一个完全独立的共和国，这是双方在1963年合并时都未曾计划的结果，李光耀本人后来在一场广受报道、明显动情的记者会上，将其描述为一个痛苦而非胜利的时刻。
+新加坡作为马来西亚一州的时间不到两年。由李光耀领导的人民行动党与吉隆坡的[联盟](/malaysia/the-alliance)政府之间的政治紧张——围绕经济政策、以种族为基础的政治，以及人民行动党在新加坡境外的抱负——升级到国会投票将新加坡逐出联邦的地步。新加坡在1965年8月9日成为一个完全独立的共和国，这是双方在1963年合并时都未曾计划的结果，李光耀本人后来在一场广受报道、明显动情的记者会上，将其描述为一个痛苦而非胜利的时刻。
 
 ## Why it still matters
 

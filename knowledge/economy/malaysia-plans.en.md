@@ -23,7 +23,7 @@ appliesTo: "Students, policy analysts, journalists and anyone who wants to under
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "ad2718136d4293ed"
+sourceContentHash: "e044f4eddcd76b63"
 
 status: "published"
 aiAssisted: true
@@ -96,7 +96,7 @@ with its own function:
 
 | Tier | Duration | Example | Function |
 | --- | --- | --- | --- |
-| Long-term | 10-30 years | Vision 2020 (1991-2020), National Vision Policy (2001-2010) | Sets the country's big aspirations and goals |
+| Long-term | 10-30 years | [Vision 2020](/malaysia/wawasan-2020) (1991-2020), National Vision Policy (2001-2010) | Sets the country's big aspirations and goals |
 | Medium-term | 5 years | **Malaysia Plan** (RMK13, 2026-2030) | Sets the thrusts, priorities, strategies and outcome targets |
 | Short-term | 1 year | [Federal Budget](/en/economy/federal-budget) | Allocates actual ringgit for a specific year |
 

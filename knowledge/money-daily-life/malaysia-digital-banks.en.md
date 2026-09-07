@@ -34,7 +34,7 @@ faq:
     a: "Yes. During the foundational phase (the first three to five years), BNM's framework caps each digital bank's total assets at no more than RM3 billion. This allows BNM to observe performance and risk before the banks grow larger."
 
 lang: "en"
-sourceContentHash: "469269a476e67017"
+sourceContentHash: "586acae3d2012d4e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -128,7 +128,7 @@ BNM issued two types of licence: the **conventional** digital bank licence under
 
 **AEON Bank** made history as Malaysia's first Islamic digital bank when it launched to the public on 26 May 2024. It launched its Savings Account-i with a profit rate of 3.88% per annum (launch rate), a "Savings Pots" feature, and virtual and physical Visa debit cards-i.
 
-**Ryt Bank**, the YTL–Sea consortium, launched on 25 August 2025 and promotes itself as an AI-powered bank. Its "Ryt AI" assistant — built on the local large language model ILMU — allows users to make payments and check spending through ordinary conversation in Malay, English and Manglish. Its savings account offers up to 4% per annum paid daily (launch rate).
+**Ryt Bank**, the YTL–Sea consortium, launched on 25 August 2025 and promotes itself as an AI-powered bank. Its "Ryt AI" assistant — built on the local large language model ILMU — allows users to make payments and check spending through ordinary conversation in Malay, English and [Manglish](/arts-culture/manglish). Its savings account offers up to 4% per annum paid daily (launch rate).
 
 **KAF Digital Bank**, the second Islamic digital bank, is led by KAF Investment Bank together with consortium partners, and began operations in 2025.
 

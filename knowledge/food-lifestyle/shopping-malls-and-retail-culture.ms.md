@@ -30,7 +30,7 @@ faq:
     a: "Pasar malam ialah pasar waktu malam — pasar jalanan terbuka bergilir yang didirikan di sesebuah kejiranan pada malam hari bekerja yang tetap, menjual makanan masak, hasil segar dan barangan kos rendah. Ia wujud bersama pasar siang hari (pasar basah) dan pasar tani sebagai sebahagian daripada budaya runcit bukan pusat beli-belah di Malaysia."
 
 lang: "ms"
-sourceContentHash: "a27ecf6569685bc2"
+sourceContentHash: "a2bc8ea503179f64"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -131,7 +131,7 @@ Kerajaan terus melaraskan struktur ini. Mulai **1 Julai 2025**, Kementerian Kewa
 
 ## Bilakah jualan berlaku?
 
-Runcit di sini bergerak mengikut irama musim jualan. Kempen mega jualan seluruh negara tertumpu sekitar tempoh **pertengahan tahun** dan **penghujung tahun**, dan lonjakan beli-belah perayaan berlaku sebelum **Hari Raya Aidilfitri, Tahun Baharu Cina dan Deepavali**, apabila pusat beli-belah melanjutkan waktu operasi dan mengadakan bazar. Dalam talian, tarikh digit berpasangan (seperti 11.11 dan 12.12) telah menjadi acara beli-belah tersendiri. Oleh sebab harga barangan disebut termasuk cukai, diskaun yang diiklankan ialah diskaun daripada harga akhir — tiada cukai berasingan untuk ditambah semula di kaunter.
+Runcit di sini bergerak mengikut irama musim jualan. Kempen mega jualan seluruh negara tertumpu sekitar tempoh **pertengahan tahun** dan **penghujung tahun**, dan lonjakan beli-belah perayaan berlaku sebelum **[Hari Raya Aidilfitri](/arts-culture/hari-raya-aidilfitri), Tahun Baharu Cina dan [Deepavali](/arts-culture/deepavali)**, apabila pusat beli-belah melanjutkan waktu operasi dan mengadakan bazar. Dalam talian, tarikh digit berpasangan (seperti 11.11 dan 12.12) telah menjadi acara beli-belah tersendiri. Oleh sebab harga barangan disebut termasuk cukai, diskaun yang diiklankan ialah diskaun daripada harga akhir — tiada cukai berasingan untuk ditambah semula di kaunter.
 
 ## Apa yang seterusnya
 

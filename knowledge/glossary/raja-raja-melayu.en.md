@@ -29,7 +29,7 @@ faq:
     a: "The Conference of Rulers is enshrined in Article 38 of the Federal Constitution, with its functions and procedures detailed in the Fifth Schedule."
 
 lang: "en"
-sourceContentHash: "03884bb92fdc8c74"
+sourceContentHash: "145a64a2a5caf8b7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -133,7 +133,7 @@ The Conference of Rulers carries several constitutional functions held by no oth
 - **Religious affairs.** Agreeing or disagreeing to any religious act, observance or ceremony extending to the whole of the Federation.
 - **Special position.** Being consulted before any policy change under Article 153, relating to the special position of the Malays and the Bumiputera.
 - **Deliberation on national policy.** Being able to deliberate on questions of national policy and any other matter it thinks fit, under Article 38(2).
-- **Appointments.** Advising on certain appointments requiring the Conference's agreement, as well as appointing members of the Special Court under Article 182 and representatives to bodies such as the Armed Forces Council and the Board of Governors of Dewan Bahasa dan Pustaka.
+- **Appointments.** Advising on certain appointments requiring the Conference's agreement, as well as appointing members of the Special Court under Article 182 and representatives to bodies such as the Armed Forces Council and the Board of Governors of [Dewan Bahasa dan Pustaka](/arts-culture/dewan-bahasa-dan-pustaka).
 - **Power of pardon.** Granting pardons, reprieves and respites in certain cases.
 
 According to the records of the Malaysian Bar, the Constitution also provides for the power to remove the Yang di-Pertuan Agong under Article 38(6) — a power that, according to those records, has never been used.

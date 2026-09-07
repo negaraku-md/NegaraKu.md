@@ -32,7 +32,7 @@ faq:
     a: "Keluarga Kristian menyambut hari ini secara keagamaan menerusi ibadah gereja. Selain itu, Krismas turut disambut secara lebih meluas dalam kehidupan awam â€” pusat beli-belah dan hotel memasang hiasan serta menganjurkan jualan bermusim, dan tradisi rumah terbuka yang menjemput tetamu pelbagai latar belakang untuk makan bersama turut menjadi lumrah. Penyertaan dalam aspek sosial dan meriah musim ini tidak terhad kepada penganut Kristian sahaja."
 
 lang: "ms"
-sourceContentHash: "8d5d938998864ca6"
+sourceContentHash: "4331ba5a016fc700"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -87,7 +87,7 @@ Hari Krismas, 25 Disember, adalah cuti umum yang disambut di seluruh Malaysia â€
 
 Laluan perundangannya berbeza mengikut wilayah. Di Semenanjung Malaysia, cuti umum ditetapkan dalam Jadual Pertama kepada **Akta Hari Kelepasan 1951** (Akta 369), dan Hari Krismas tersenarai di kalangannya. Sabah dan Sarawak, yang mengekalkan undang-undang cuti mereka sendiri semasa menyertai persekutuan, memperuntukkan cuti umum di bawah ordinan masing-masing. Setiap tahun, Kerajaan Persekutuan turut menerbitkan senarai cuti kebangsaan yang disatukan menerusi Bahagian Kabinet, Jabatan Perdana Menteri.
 
-Hasil praktikalnya seragam: apa pun instrumen perundangannya, 25 Disember adalah cuti umum tidak bekerja di seluruh negara, sama seperti Hari Raya Aidilfitri, Deepavali, Wesak dan Tahun Baru Cina.
+Hasil praktikalnya seragam: apa pun instrumen perundangannya, 25 Disember adalah cuti umum tidak bekerja di seluruh negara, sama seperti [Hari Raya Aidilfitri](/arts-culture/hari-raya-aidilfitri), [Deepavali](/arts-culture/deepavali), Wesak dan Tahun Baru Cina.
 
 ## Satu tarikh yang bukan cuti seluruh negara: Malam Krismas
 

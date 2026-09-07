@@ -102,7 +102,7 @@ Melaka's whole significance flows from geography: it sat at the narrowest, most 
 | Malay Sultanate | c. 1400–1511 | Traditionally founded by Parameswara; the ruling house later adopted Islam | The sultanate's memory and reconstructions; the golden-age trading-port legacy |
 | Portuguese | 1511–1641 | Afonso de Albuquerque captured the city in 1511 | A Famosa fortress (the Porta de Santiago gate); St Paul's Church on the hill |
 | Dutch | 1641–1824 | Dutch East India Company took over in 1641 | Stadthuys (mid-17th c.); Christ Church (18th c.); Dutch Square |
-| British | 1824 onward | Transferred under the Anglo-Dutch Treaty of 1824 | Straits Settlements administration; later shophouse streetscapes |
+| British | 1824 onward | Transferred under the Anglo-Dutch Treaty of 1824 | [Straits Settlements](/malaysia/straits-settlements) administration; later shophouse streetscapes |
 
 The clearest thread is the sequence of rulers. The Portuguese seized the city in 1511, the Dutch took it after a siege in 1641 and held it the longest — some 183 years — and the Anglo-Dutch Treaty of 1824 folded Melaka, Penang and Singapore into the British Straits Settlements. Four powers, one small harbour.
 
@@ -114,7 +114,7 @@ The good news for a visitor is that the headline sights cluster tightly around t
 - **St Paul's Hill and St Paul's Church.** Climb the short flight of steps behind Dutch Square to the roofless **St Paul's Church**, a Portuguese-era hilltop church later used by the Dutch as a burial ground. The ruins, weathered tombstones and hilltop view over the strait are free and open-air; budget about 20–30 minutes.
 - **A Famosa (Porta de Santiago).** Descend the far side of the hill to the lone surviving gate of the Portuguese fortress built in 1511 — one of the oldest pieces of European military architecture in Southeast Asia. The fortress itself is long gone; the **Porta de Santiago** gate is the fragment that remains.
 - **Jonker Street (Jalan Hang Jebat).** Cross the river into the old Chinatown for antique shops, clan houses, temples and, on weekend evenings, the night market. This is the commercial, sensory heart of the visit.
-- **Heeren Street (Jalan Tun Tan Cheng Lock).** One block over from Jonker, the old "Millionaires' Row" of Peranakan mansions — quieter, grander, and home to the Baba Nyonya Heritage Museum.
+- **Heeren Street (Jalan Tun Tan Cheng Lock).** One block over from Jonker, the old "Millionaires' Row" of [Peranakan](/arts-culture/peranakan) mansions — quieter, grander, and home to the Baba Nyonya Heritage Museum.
 
 ## Who are the Baba Nyonya, and where do I meet them?
 

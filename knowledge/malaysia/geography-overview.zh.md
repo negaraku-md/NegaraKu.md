@@ -19,7 +19,7 @@ appliesTo: "适合任何想了解马来西亚的人口、城市与水患风险�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "cfd0fe06c716e1ee"
+sourceContentHash: "1aadf1352cd31f55"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -78,7 +78,7 @@ keywords: ["Malaysia geography", "Titiwangsa Range", "Peninsular Malaysia geogra
 
 ## 半岛中央的脊梁
 
-看一眼马来西亚半岛的地形图，就会发现一个主导性的特征：一条大致呈南北走向、贯穿中央的山脉——**蒂蒂旺沙山脉（Titiwangsa Range）**。它是半岛的脊梁，同时肩负着两项任务。
+看一眼马来西亚半岛的地形图，就会发现一个主导性的特征：一条大致呈南北走向、贯穿中央的山脉——**[蒂蒂旺沙山脉](/malaysia/titiwangsa-range)（Titiwangsa Range）**。它是半岛的脊梁，同时肩负着两项任务。
 
 首先，它是一道分水岭。落在其山坡上的雨水，依降落在山脊哪一侧，分别向东或向西流去，汇入彭亨河、霹雳河、吉兰丹河等河流——数百年来，半岛马来西亚人都沿着这些河流耕作、捕鱼与贸易。
 
@@ -98,7 +98,7 @@ keywords: ["Malaysia geography", "Titiwangsa Range", "Peninsular Malaysia geogra
 
 跨过南中国海来到沙巴与砂拉越，同样的逻辑再次出现，只是规模更大。一片多山的内陆地区——在沙巴由**克罗克山脉（Crocker Range）**为其支撑——将狭窄的沿海地带与内陆深处的婆罗洲雨林分隔开来。各州首府与人口中心，包括亚庇与古晋，都坐落在沿海地区或可通航河流的上游，恰恰印证了半岛模式所能预见的结果。
 
-沙巴版本的「最高峰令人肃然起敬」毫不含蓄。**京那巴鲁山（Mount Kinabalu）**海拔4,095米——不仅是马来西亚的最高点，也是喜马拉雅山与新几内亚之间任何地方的最高峰。它坐落于京那巴鲁公园内，那是马来西亚首个联合国教科文组织世界遗产，其花岗岩山顶在晴天时，从沙巴西海岸的大部分地区都能望见，为一条本身缺少地标的海岸线，提供了一个永久的地标。
+沙巴版本的「最高峰令人肃然起敬」毫不含蓄。**[京那巴鲁山](/malaysia/mount-kinabalu)（Mount Kinabalu）**海拔4,095米——不仅是马来西亚的最高点，也是喜马拉雅山与新几内亚之间任何地方的最高峰。它坐落于京那巴鲁公园内，那是马来西亚首个联合国教科文组织世界遗产，其花岗岩山顶在晴天时，从沙巴西海岸的大部分地区都能望见，为一条本身缺少地标的海岸线，提供了一个永久的地标。
 
 | | 马来西亚半岛 | 东马来西亚（婆罗洲） |
 | --- | --- | --- |

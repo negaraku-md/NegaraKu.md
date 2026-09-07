@@ -46,7 +46,7 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
-sourceContentHash: "64154177fed7979b"
+sourceContentHash: "ab65f68bd17c67a2"
 sources:
   - title: "Federal Constitution — Article 152 (National language)"
     url: "https://lom.agc.gov.my/federal-constitution.php"
@@ -91,7 +91,7 @@ sponsor: "none"
 
 ## 一项条文，一种国家语言
 
-《联邦宪法》第152(1)条规定，国家语言为马来语（Bahasa Melayu）。National Language Act 1963/67 (Act 32) 为该条文赋予法律效力，而国家语文局（Dewan Bahasa dan Pustaka，DBP）——为发展与规范该语言而设立的法定机构——则是负责推动这项使命的机构。
+《联邦宪法》第152(1)条规定，国家语言为马来语（Bahasa Melayu）。National Language Act 1963/67 (Act 32) 为该条文赋予法律效力，而[国家语文局](/arts-culture/dewan-bahasa-dan-pustaka)（Dewan Bahasa dan Pustaka，DBP）——为发展与规范该语言而设立的法定机构——则是负责推动这项使命的机构。
 
 这些只是基本常识；大多数概述都只是顺带一提。真正常被忽略的，是第152条*没有*规定的部分。
 

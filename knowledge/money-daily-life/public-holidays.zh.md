@@ -23,7 +23,7 @@ appliesTo: "任何在跨州规划旅行、生意或日常事务，并想弄清�
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "504b70c9da4e3c64"
+sourceContentHash: "3aa4c891e7b6b223"
 
 status: "published"
 aiAssisted: true
@@ -71,7 +71,7 @@ keywords:
   - "Hari Gawai"
 ---
 
-哥打京那巴鲁的一名员工，可以为了五月底的 Pesta Kaamatan 连续放假两天，而他在马六甲的同事，却完全不把那一天当作假日。古晋的另一名员工在 6 月 1 日为 Gawai 停工，但他母公司在吉隆坡总部的日历上，那一天却什么标记都没有。这不是人力资源部门的疏忽。它是写进法律里的。
+哥打京那巴鲁的一名员工，可以为了五月底的 [Pesta Kaamatan](/arts-culture/kaamatan) 连续放假两天，而他在马六甲的同事，却完全不把那一天当作假日。古晋的另一名员工在 6 月 1 日为 Gawai 停工，但他母公司在吉隆坡总部的日历上，那一天却什么标记都没有。这不是人力资源部门的疏忽。它是写进法律里的。
 
 ## 三部法令，不是一部
 

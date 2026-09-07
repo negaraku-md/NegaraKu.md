@@ -96,7 +96,7 @@ setiap satu dengan fungsi tersendiri:
 
 | Tingkat | Tempoh | Contoh | Fungsi |
 | --- | --- | --- | --- |
-| Jangka panjang | 10-30 tahun | Wawasan 2020 (1991-2020), Dasar Wawasan Negara (2001-2010) | Menetapkan aspirasi dan matlamat besar negara |
+| Jangka panjang | 10-30 tahun | [Wawasan 2020](/malaysia/wawasan-2020) (1991-2020), Dasar Wawasan Negara (2001-2010) | Menetapkan aspirasi dan matlamat besar negara |
 | Jangka sederhana | 5 tahun | **Rancangan Malaysia** (RMK13, 2026-2030) | Menetapkan teras, keutamaan, strategi dan sasaran keberhasilan |
 | Jangka pendek | 1 tahun | [Belanjawan Persekutuan](/economy/federal-budget) | Memperuntukkan ringgit sebenar bagi tahun tertentu |
 

@@ -176,7 +176,7 @@ Once you're in Borneo, getting to smaller interior and coastal towns is a differ
 
 For visitors, the practical takeaways:
 
-- Fly into **Kota Kinabalu (BKI)** for Sabah — Mount Kinabalu, diving off Semporna, the islands.
+- Fly into **Kota Kinabalu (BKI)** for Sabah — [Mount Kinabalu](/malaysia/mount-kinabalu), diving off Semporna, the islands.
 - Fly into **Kuching (KCH)** for Sarawak — national parks, longhouses, Bako, Mulu.
 - If your itinerary includes a small Borneo town (for example, Mulu or a Highlands strip), check **AirBorneo** for the rural leg. If you hold an old MASwings booking, AirBorneo assumed responsibility for those services — contact the airline to confirm.
 

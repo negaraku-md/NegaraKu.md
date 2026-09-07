@@ -30,7 +30,7 @@ faq:
     a: "根据JKKN，1971年国家文化政策成为以七大支柱为基础、实施期为2021至2025年的2021年国家文化政策（DAKEN）的基础。JKKN也表示，1971年国家文化政策从未在内阁层级正式获得批准，尽管它指导了大约50年的行政工作。"
 
 lang: "zh"
-sourceContentHash: "8415acb2d17b7196"
+sourceContentHash: "8ad5677b6225effa"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,7 +78,7 @@ related: ["rukun-negara", "dasar-ekonomi-baru"]
 keywords: ["dasar kebudayaan kebangsaan", "kongres kebudayaan kebangsaan 1971", "tiga prinsip", "DAKEN 2021", "kebudayaan Malaysia", "perpaduan"]
 ---
 
-1971年，即1969年五一三事件约两年之后，一群学者、艺术工作者与领袖聚集在马来亚大学，共同回答一个对多元种族国家而言颇为棘手的问题：什么才是"国家文化"？由此产生的答案——国家文化政策（Dasar Kebudayaan Kebangsaan，DKK）——至今仍是政策的参照依据，同时也仍然是争论的话题。
+1971年，即[1969年五一三事件](/malaysia/13-may-1969)约两年之后，一群学者、艺术工作者与领袖聚集在马来亚大学，共同回答一个对多元种族国家而言颇为棘手的问题：什么才是"国家文化"？由此产生的答案——国家文化政策（Dasar Kebudayaan Kebangsaan，DKK）——至今仍是政策的参照依据，同时也仍然是争论的话题。
 
 本文以描述性的方式呈现有关这项政策的历史记录与各方观点。它无意判定谁对谁错，而是把不同的事实与立场加以梳理，让读者能够自行评断。
 

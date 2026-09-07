@@ -35,7 +35,7 @@ faq:
     a: "诗巴丹每年11月为让珊瑚礁休养而关闭，因此潜水行程应安排在12月至10月之间。此外，较为多雨的东北季候风月份（大致为11月至3月）会给婆罗洲带来更多降雨。"
 
 lang: "zh"
-sourceContentHash: "a56c3fb68c6a9606"
+sourceContentHash: "c9653441143f9da8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -126,7 +126,7 @@ keywords: ["Sabah travel guide", "Kota Kinabalu", "Mount Kinabalu climb permit",
 大多数游客把KK作为两三天的基地，也作为通往其他一切地方的跳板：
 
 - **近在咫尺的跳岛游。** 东姑阿都拉曼公园（Tunku Abdul Rahman Park）的岛屿就在近海，从城市海滨乘船一小段即可到达——是轻松半天的浮潜与沙滩之旅。
-- **攀登京那巴鲁山的出发点。** 该山及其公园总部距离市区约两小时车程。
+- **攀登[京那巴鲁山](/malaysia/mount-kinabalu)的出发点。** 该山及其公园总部距离市区约两小时车程。
 - **通往东海岸的连接。** 山打根（前往红毛猩猩与京那巴当岸河〔Kinabatangan River〕）和斗湖（前往仙本那〔Semporna〕—诗巴丹潜水区）都是从KK出发的短途国内航班可达。
 - **美食与日落。** 城中的夜市、海鲜，以及南中国海上以绚丽著称的日落，本身就是值得一游的目的地。
 

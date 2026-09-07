@@ -32,7 +32,7 @@ faq:
     a: "Kamus Dewan Perdana is DBP's official digital reference dictionary, part of the digital transformation agenda to provide a comprehensive Malay-language reference platform that is freely accessible at kamus.dbp.gov.my."
 
 lang: "en"
-sourceContentHash: "6cd628f4b36eca42"
+sourceContentHash: "ad048e11c6564d32"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -112,7 +112,7 @@ DBP has a broad mandate over the Malay language and literature. Among its main r
 
 DBP's official digital reference dictionary is **Kamus Dewan Perdana**, which is freely accessible online at kamus.dbp.gov.my. This portal is part of DBP's digital transformation agenda to provide a comprehensive Malay-language reference platform that is easily accessible to all segments of society.
 
-In the field of literature, DBP administers the **National Literary Award**, the highest recognition for writers in the Malay language. This award began in 1981, with Keris Mas (Dr. Kamaludin Muhammad) as the first recipient. Recipients are conferred the title of National Laureate (Sasterawan Negara) along with various forms of recognition, including a cash prize of RM60,000, a monthly allowance of RM5,000, as well as support for the publication and translation of their works. As of 2026, 16 figures have received this award, with Mana Sikana (Dr. Abdul Rahman Napiah) announced as the 16th recipient on 28 April 2026.
+In the field of literature, DBP administers the **[National Literary Award](/arts-culture/malaysian-literature)**, the highest recognition for writers in the Malay language. This award began in 1981, with Keris Mas (Dr. Kamaludin Muhammad) as the first recipient. Recipients are conferred the title of National Laureate (Sasterawan Negara) along with various forms of recognition, including a cash prize of RM60,000, a monthly allowance of RM5,000, as well as support for the publication and translation of their works. As of 2026, 16 figures have received this award, with Mana Sikana (Dr. Abdul Rahman Napiah) announced as the 16th recipient on 28 April 2026.
 
 ## What's next
 

@@ -46,7 +46,7 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
-sourceContentHash: "64154177fed7979b"
+sourceContentHash: "ab65f68bd17c67a2"
 sources:
   - title: "Federal Constitution — Article 152 (National language)"
     url: "https://lom.agc.gov.my/federal-constitution.php"
@@ -91,7 +91,7 @@ Kedua-dua fakta ini benar serentak, dan tiada satu pun membatalkan yang lain. Ar
 
 ## Satu fasal, satu bahasa kebangsaan
 
-Perkara 152(1) Perlembagaan Persekutuan menyatakan bahawa bahasa kebangsaan ialah Bahasa Melayu. Akta Bahasa Kebangsaan 1963/67 (Akta 32) memberikan kuasa perundangan kepada peruntukan itu, dan Dewan Bahasa dan Pustaka (DBP) — badan berkanun yang ditubuhkan untuk mengembangkan dan menyeragamkan bahasa itu — ialah institusi yang dipertanggungjawabkan untuk melaksanakan mandat tersebut.
+Perkara 152(1) Perlembagaan Persekutuan menyatakan bahawa bahasa kebangsaan ialah Bahasa Melayu. Akta Bahasa Kebangsaan 1963/67 (Akta 32) memberikan kuasa perundangan kepada peruntukan itu, dan [Dewan Bahasa dan Pustaka](/arts-culture/dewan-bahasa-dan-pustaka) (DBP) — badan berkanun yang ditubuhkan untuk mengembangkan dan menyeragamkan bahasa itu — ialah institusi yang dipertanggungjawabkan untuk melaksanakan mandat tersebut.
 
 Setakat itu adalah asas semata-mata; kebanyakan gambaran umum menyebutnya secara sepintas lalu. Apa yang sering terlepas pandang ialah apa yang *tidak* diperuntukkan oleh Perkara 152.
 

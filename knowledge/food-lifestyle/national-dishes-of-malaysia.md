@@ -131,7 +131,7 @@ Jika Kuala Lumpur ialah ibu negara pentadbiran, Pulau Pinang ialah ibu negara ma
 **Laksa** pula sebenarnya sebuah keluarga hidangan, bukan satu resipi. Dua cabang utama sering dikelirukan:
 
 - **Asam laksa** — kuah ikan (biasanya ikan kembung) yang masam dan pedas dengan asam jawa, bunga kantan dan daun kesum. Ini versi ikonik Pulau Pinang.
-- **Laksa lemak / laksa kari** — berasaskan santan yang kaya, lazim di Selatan Semenanjung dan dalam masakan Peranakan.
+- **Laksa lemak / laksa kari** — berasaskan santan yang kaya, lazim di Selatan Semenanjung dan dalam masakan [Peranakan](/arts-culture/peranakan).
 
 Pengesahan antarabangsa datang pada Oktober 2020, apabila **asam laksa Pulau Pinang** menduduki **tangga ke-7** dalam senarai "World's 50 Best Foods" terbitan CNN — satu-satunya hidangan Malaysia dalam sepuluh teratas, mengatasi tom yum goong Thailand di tangga ke-8. Senarai itu diketuai massaman Thailand, diikuti pizza Neapolitan Itali.
 

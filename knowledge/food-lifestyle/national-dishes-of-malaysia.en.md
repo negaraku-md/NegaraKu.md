@@ -34,7 +34,7 @@ faq:
     a: "The Heritage Commissioner at the Department of National Heritage gazettes foods as heritage objects under subsection 49(1) of the National Heritage Act 2005 [Act 645], through an annual Declaration of Heritage Objects."
 
 lang: "en"
-sourceContentHash: "a56212dc8abe0829"
+sourceContentHash: "bdf1c88a62d4c6ac"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -132,7 +132,7 @@ If Kuala Lumpur is the administrative capital, Penang is the food capital. Two d
 **Laksa**, meanwhile, is actually a family of dishes, not a single recipe. Two main branches are often confused:
 
 - **Asam laksa** — a sour and spicy fish broth (usually mackerel) with tamarind, torch ginger flower and laksa leaf (daun kesum). This is the iconic Penang version.
-- **Laksa lemak / laksa kari** — based on rich coconut milk, common in the southern Peninsula and in Peranakan cuisine.
+- **Laksa lemak / laksa kari** — based on rich coconut milk, common in the southern Peninsula and in [Peranakan](/arts-culture/peranakan) cuisine.
 
 International validation came in October 2020, when **Penang asam laksa** ranked **7th** on CNN's "World's 50 Best Foods" list — the only Malaysian dish in the top ten, ahead of Thailand's tom yum goong at 8th. The list was topped by Thailand's massaman, followed by Italy's Neapolitan pizza.
 

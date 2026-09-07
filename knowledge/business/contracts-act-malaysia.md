@@ -104,7 +104,7 @@ with the English law most commercial templates assume.
 ## Why is Malaysian contract law in a statute at all?
 
 Contract law here is codified. The Contracts Act 1950 (Act 136) descends from the Indian
-Contract Act 1872, which the Straits Settlements and Federated Malay States inherited and
+Contract Act 1872, which the [Straits Settlements](/malaysia/straits-settlements) and Federated Malay States inherited and
 Malaysia then extended nationally by the Contracts (Malay States) (Amendment and
 Extension) Act 1974.
 

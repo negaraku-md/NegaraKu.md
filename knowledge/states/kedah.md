@@ -213,7 +213,7 @@ Bagi negeri yang menyumbang kira-kira satu pertiga beras negara, itu kedudukan
 yang jarang dijangka. Lihat juga gambaran [sektor
 pembuatan](/economy/manufacturing) Malaysia secara keseluruhan.
 
-## Kedah Tua dan Lembah Bujang
+## Kedah Tua dan [Lembah Bujang](/malaysia/bujang-valley)
 
 Di daerah Merbok, di kaki Gunung Jerai, terdapat lapisan sejarah yang jauh lebih
 awal daripada mana-mana kilang atau sawah.
@@ -249,7 +249,7 @@ Istana Anak Bukit, Alor Setar.
 
 Portal yang sama merekodkan bahawa Kesultanan Kedah bermula pada **1136**,
 apabila Raja Phra Ong Mahawangsa memeluk Islam dan bergelar Sultan Mudzafar
-Shah. Negeri ini kemudian melalui tempoh di bawah pengaruh Srivijaya, Siam dan
+Shah. Negeri ini kemudian melalui tempoh di bawah pengaruh [Srivijaya](/malaysia/srivijaya), Siam dan
 British sebelum menyertai Persekutuan Tanah Melayu pada 1948.
 
 Alor Setar sendiri diasaskan pada **1735** oleh Sultan Muhammad Jiwa Sultan

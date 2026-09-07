@@ -183,9 +183,9 @@ Untuk konteks kebangsaan tentang cara angka-angka ini dikira dan dibandingkan, l
 
 Sumber kerajaan secara konsisten mengaitkan Kelantan dengan satu kelompok bentuk
 kraf dan persembahan tradisional: wau bulan, [wayang kulit](/arts-culture/wayang-kulit),
-ukiran kayu, kraf perak, [batik](/arts-culture/batik) dan tenunan songket.
+ukiran kayu, kraf perak, [batik](/arts-culture/batik) dan tenunan [songket](/arts-culture/songket).
 
-Teater **mak yong** mempunyai pengiktirafan antarabangsa yang paling formal. UNESCO
+Teater **[mak yong](/arts-culture/mak-yong)** mempunyai pengiktirafan antarabangsa yang paling formal. UNESCO
 menyenaraikannya dalam Senarai Perwakilan Warisan Budaya Tidak Ketara Kemanusiaan
 pada 2008, selepas pengisytiharan pada 2005, dan menyifatkannya sebagai tradisi yang
 berasal dari kampung-kampung di Kelantan. UNESCO turut mencatatkan bahawa bentuk ini

@@ -43,7 +43,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "085f4ab04fb9874b"
+sourceContentHash: "0b7fdd624b551b31"
 
 status: "published"
 aiAssisted: true
@@ -174,9 +174,9 @@ billion增长4.1%。
 
 政府资料一致将吉兰丹与一组传统工艺及表演形式联系在一起：月亮风筝（wau
 bulan）、[皮影戏](/zh/arts-culture/wayang-kulit)、木雕、银器工艺、
-[峇迪](/zh/arts-culture/batik)与songket织造。
+[峇迪](/zh/arts-culture/batik)与[songket](/arts-culture/songket)织造。
 
-**玛蓉剧（mak yong）**拥有其中最正式的国际认可。联合国教科文组织（UNESCO）
+**[玛蓉剧](/arts-culture/mak-yong)（mak yong）**拥有其中最正式的国际认可。联合国教科文组织（UNESCO）
 于2008年将其列入人类非物质文化遗产代表作名录，此前已于2005年宣布，并将其
 描述为源自吉兰丹乡村的传统。UNESCO还指出，这一表演形式主要以口传方式传承，
 且面临年轻传承者数量减少的困境。

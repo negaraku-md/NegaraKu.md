@@ -105,7 +105,7 @@ Dua benda paling terkenal tentang Terengganu terletak kira-kira 60 kilometer
 antara satu sama lain, dan kedua-duanya susah dilihat.
 
 Yang pertama ialah sekeping batu di Kuala Berang, jauh di pedalaman Hulu
-Terengganu, yang membawa ayat-ayat Jawi bertarikh lebih 700 tahun. Yang kedua
+Terengganu, yang membawa ayat-ayat [Jawi](/arts-culture/jawi-script) bertarikh lebih 700 tahun. Yang kedua
 terletak di luar pandangan sama sekali — pelantar minyak dan gas di dasar Laut
 China Selatan yang hasilnya, secara perangkaan, tidak pernah masuk ke dalam
 kira-kira KDNK negeri ini.

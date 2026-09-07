@@ -25,7 +25,7 @@ appliesTo: "Sesiapa yang cuba memahami sebab mahkamah Malaysia memetik kes-kes I
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "3a9871305f7d7486"
+sourceContentHash: "0e25f8448644480c"
 
 status: "published"
 aiAssisted: true
@@ -95,7 +95,7 @@ Tetapi takrifan itu hanya memberitahu anda bahawa common law *dikira* sebagai
 undang-undang di tempat ia *sedang beroperasi*. Apa yang meletakkannya
 beroperasi — dan menetapkan dengan tepat berapa banyak daripadanya — ialah
 Civil Law Act 1956 (Act 67). Sebelum kemerdekaan, Pulau Pinang dan Melaka
-(sebagai bekas Straits Settlements) telah pun menerima undang-undang Inggeris
+(sebagai bekas [Straits Settlements](/malaysia/straits-settlements)) telah pun menerima undang-undang Inggeris
 melalui piagam keadilan diraja (royal charters of justice) yang lebih awal,
 manakala Negeri-Negeri Melayu sebelum kemerdekaan dan wilayah-wilayah Borneo
 masing-masing mempunyai enakmen tempatan sendiri yang melakukan sesuatu yang

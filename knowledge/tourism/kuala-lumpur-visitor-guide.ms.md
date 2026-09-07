@@ -38,7 +38,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "2118495982c32764"
+sourceContentHash: "ed174697edaef0ea"
 
 status: "published"
 aiAssisted: true
@@ -194,7 +194,7 @@ Beberapa perkara yang perlu diketahui sebelum anda pergi:
 - **Berhati-hati dengan kera.** Monyet di sekitar tangga boleh menyambar makanan, minuman dan barang longgar — pastikan beg ditutup.
 - **Tangga adalah curam.** Pakai kasut yang selesa; terdapat banyak anak tangga naik ke gua.
 
-Batu Caves juga merupakan pusat **Thaipusam**, sebuah perayaan Hindu utama yang menarik orang ramai penganut yang sangat besar. Ia menakjubkan tetapi amat sesak — rancang mengelilinginya bergantung pada sama ada anda mahukan keindahan atau ketenangan.
+Batu Caves juga merupakan pusat [**Thaipusam**](/arts-culture/thaipusam), sebuah perayaan Hindu utama yang menarik orang ramai penganut yang sangat besar. Ia menakjubkan tetapi amat sesak — rancang mengelilinginya bergantung pada sama ada anda mahukan keindahan atau ketenangan.
 
 ## Pelan mudah 2–3 hari
 

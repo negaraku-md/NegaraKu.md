@@ -37,7 +37,7 @@ faq:
     a: "UNESCO cites Silat Harimau as an example of a style that imitates the aesthetic movements of the tiger in the art of attack and self-defence. It is one of many styles named after an animal or an element of nature."
 
 lang: "en"
-sourceContentHash: "78e5168dc77646d8"
+sourceContentHash: "38ee41b476215220"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -88,7 +88,7 @@ UNESCO describes silat as a combat art for self-defence and survival that is roo
 
 The most common mistake is to narrow silat down to a single definition. The Department of Culture and Arts (JKKN) describes it as a traditional Malay martial art that combines the elements of self-defence, dance, custom, music and life philosophy. It is not only physical movement; it is a way of carrying identity, discipline and cultural values.
 
-UNESCO breaks these components down in greater detail. Besides physical and spiritual training, silat encompasses traditional Malay dress, silat musical instruments, and a variety of customs and ceremonies. This means that when someone learns silat, they are not merely learning to kick and parry — they enter a complete system of custom, with its own dress, music and code of conduct.
+UNESCO breaks these components down in greater detail. Besides physical and spiritual training, silat encompasses [traditional Malay dress](/arts-culture/traditional-malay-attire), silat musical instruments, and a variety of customs and ceremonies. This means that when someone learns silat, they are not merely learning to kick and parry — they enter a complete system of custom, with its own dress, music and code of conduct.
 
 According to UNESCO, many silat movements draw inspiration from nature. The Department of National Heritage adds that its techniques are inspired by human anatomy, the movement of plants and the behaviour of animals. That is why silat styles are often named after elements of nature — and one of the most famous examples is Silat Harimau, which according to UNESCO imitates the aesthetic movements of the tiger in the art of attack and self-defence.
 

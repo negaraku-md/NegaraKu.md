@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Anyone who wants to understand the true meaning and origin of the word 'merdeka', not just the date or ceremony of 1957."
 
 lang: "en"
-sourceContentHash: "1e44b294fa95f470"
+sourceContentHash: "ec5875367ad76b6c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -70,7 +70,7 @@ older than the Federation of Malaya itself.
 
 ## Its meaning, according to the dictionary
 
-Kamus Dewan (Dewan Bahasa dan Pustaka) defines **merdeka** as:
+Kamus Dewan ([Dewan Bahasa dan Pustaka](/arts-culture/dewan-bahasa-dan-pustaka)) defines **merdeka** as:
 
 > free (from colonisation, confinement, protectorate status, and so
 > on), released (from ransom, claims), standing on one's own, not

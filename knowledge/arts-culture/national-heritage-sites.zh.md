@@ -31,7 +31,7 @@ faq:
     a: "业主可继续拥有该产业（第69条），但国家遗产的所有权转让只能通过继承，或经遗产专员事先批准的买卖来进行，且必须优先让遗产专员购买（第70条）。"
 
 lang: "zh"
-sourceContentHash: "060530f081b0cb71"
+sourceContentHash: "ac4e452cf7f76ecc"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -73,7 +73,7 @@ related: ["unesco-world-heritage"]
 keywords: ["warisan kebangsaan", "Akta Warisan Kebangsaan 2005", "Akta 645", "Jabatan Warisan Negara", "Daftar Warisan Kebangsaan", "WAKOH", "tapak warisan"]
 ---
 
-乔治市一间百年老店屋、一柄马来短剑（keris）、一支宫廷舞蹈，以及一位仍然在世的宋吉（songket）制作师——这四者在马来西亚都能担当同一个法律称号：*国家遗产*（Warisan Kebangsaan）。把它们联系起来的并不是联合国教科文组织的名单，而是一份鲜少被提及其名的国内名录：**国家遗产名录**（Daftar Warisan Kebangsaan）。
+乔治市一间百年老店屋、一柄马来短剑（keris）、一支宫廷舞蹈，以及一位仍然在世的[宋吉](/arts-culture/songket)（songket）制作师——这四者在马来西亚都能担当同一个法律称号：*国家遗产*（Warisan Kebangsaan）。把它们联系起来的并不是联合国教科文组织的名单，而是一份鲜少被提及其名的国内名录：**国家遗产名录**（Daftar Warisan Kebangsaan）。
 
 这份名录源自**《2005年国家遗产法令》（645号法令）**，该法令于2005年12月30日获御准，并于翌日列宪。它取代了如《1976年古物法令》等旧法律，并将国家遗产的保护统一置于单一的行政机制之下——即**国家遗产局（Jabatan Warisan Negara，JWN）**和一位**遗产专员（Pesuruhjaya Warisan）**。
 

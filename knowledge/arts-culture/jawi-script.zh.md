@@ -36,7 +36,7 @@ socialTitle: "书写马来语七个世纪的阿拉伯字母——爪夷文的故
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "b789637e8d08ef93"
+sourceContentHash: "227837ea67cec8a8"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -105,7 +105,7 @@ keywords: ["tulisan Jawi", "aksara Arab Melayu", "Batu Bersurat Terengganu", "se
 | nya | ڽ |
 | va | ۏ |
 
-马来语爪夷文的拼写规则，由国家语文局（Dewan Bahasa dan Pustaka，DBP）透过《Pedoman Umum Ejaan Jawi Bahasa Melayu》（马来语爪夷文拼写总纲）加以统一并记录，当中订明字母形式、书写方法，以及标注元音、双元音与辅音的方法。换言之，一篇以爪夷文书写的文本，读出来是马来语——而非阿拉伯语——尽管其字母大部分是阿拉伯字母。
+马来语爪夷文的拼写规则，由[国家语文局](/arts-culture/dewan-bahasa-dan-pustaka)（Dewan Bahasa dan Pustaka，DBP）透过《Pedoman Umum Ejaan Jawi Bahasa Melayu》（马来语爪夷文拼写总纲）加以统一并记录，当中订明字母形式、书写方法，以及标注元音、双元音与辅音的方法。换言之，一篇以爪夷文书写的文本，读出来是马来语——而非阿拉伯语——尽管其字母大部分是阿拉伯字母。
 
 ## 爪夷文从何而来
 

@@ -21,7 +21,7 @@ appliesTo: "Pembaca yang mencari profil faktual Sabah — geografi, ekonomi dan 
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "2571744abd4d125e"
+sourceContentHash: "d05db2b4db752c79"
 
 status: "published"
 aiAssisted: true
@@ -92,7 +92,7 @@ sebuah gunung.
 | Ibu negeri | Kota Kinabalu |
 | Populasi | 3,418,785 (banci 2020, DOSM) |
 | Ketua negeri | Yang di-Pertua Negeri (Gabenor); kerajaan negeri diketuai oleh seorang Ketua Menteri |
-| Titik tertinggi | Gunung Kinabalu, 4,095 m — gunung tertinggi antara Himalaya dan New Guinea |
+| Titik tertinggi | [Gunung Kinabalu](/malaysia/mount-kinabalu), 4,095 m — gunung tertinggi antara Himalaya dan New Guinea |
 | Industri utama | Pertanian (kelapa sawit), minyak dan gas, perkhidmatan, pelancongan |
 | Menyertai persekutuan | Sebagai Borneo Utara, di bawah [Perjanjian Malaysia 1963](/malaysia/ma63) |
 

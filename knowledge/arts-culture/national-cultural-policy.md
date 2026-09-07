@@ -77,7 +77,7 @@ related: ["rukun-negara", "dasar-ekonomi-baru"]
 keywords: ["dasar kebudayaan kebangsaan", "kongres kebudayaan kebangsaan 1971", "tiga prinsip", "DAKEN 2021", "kebudayaan Malaysia", "perpaduan"]
 ---
 
-Pada 1971, kira-kira dua tahun selepas peristiwa 13 Mei 1969, sekumpulan sarjana, penggiat seni dan pemimpin berkumpul di Universiti Malaya untuk menjawab satu soalan yang sukar bagi sebuah negara berbilang kaum: apakah yang dimaksudkan dengan "kebudayaan kebangsaan"? Jawapan yang terhasil — Dasar Kebudayaan Kebangsaan (DKK) — masih menjadi rujukan dasar sehingga hari ini, sekali gus masih menjadi bahan perbahasan.
+Pada 1971, kira-kira dua tahun selepas [peristiwa 13 Mei 1969](/malaysia/13-may-1969), sekumpulan sarjana, penggiat seni dan pemimpin berkumpul di Universiti Malaya untuk menjawab satu soalan yang sukar bagi sebuah negara berbilang kaum: apakah yang dimaksudkan dengan "kebudayaan kebangsaan"? Jawapan yang terhasil — Dasar Kebudayaan Kebangsaan (DKK) — masih menjadi rujukan dasar sehingga hari ini, sekali gus masih menjadi bahan perbahasan.
 
 Artikel ini memaparkan rekod sejarah dan pelbagai pandangan sekitar dasar tersebut secara deskriptif. Ia tidak berhasrat menentukan pihak yang betul atau salah, sebaliknya menyusun fakta dan kedudukan yang berbeza supaya pembaca boleh menilai sendiri.
 

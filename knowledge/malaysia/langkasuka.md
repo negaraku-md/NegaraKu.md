@@ -48,7 +48,7 @@ Inilah kedudukan ganjil yang diduduki Langkasuka dalam sejarah Semenanjung Tanah
 
 Catatan China menyebut hubungan diplomatik dengan Langkasuka seawal abad ke-5 atau ke-6 Masihi, menggambarkan sebuah kerajaan yang sudah mantap dan berfungsi, bukannya baharu — bermakna penubuhan sebenarnya mendahului catatan bertulis itu untuk suatu jangka masa yang tidak diketahui. Misi ufti ke istana China berterusan secara berselang-seli selama beberapa abad. Selain China, teks Melayu dan Jawa kemudiannya turut membawa rujukan kepada sebuah tempat bernama Langkasuka, memperlakukannya sebagai sebuah kerajaan yang nyata dan diketahui, bukan sebagai legenda.
 
-Apa yang digambarkan oleh serpihan-serpihan ini, setelah dicantumkan, ialah sebuah budaya istana Hindu-Buddha — pengaruh keagamaan dan pentadbiran India yang tersalut pada sebuah kerajaan perdagangan Asia Tenggara, corak yang sama seperti yang dilihat di Funan, Champa dan kemudiannya Srivijaya. Raja-raja Langkasuka, apa jua nama mereka dalam bahasa sendiri, memerintah menurut ungkapan kedaulatan Indik: gajah, ritual istana, gelaran berasaskan Sanskrit.
+Apa yang digambarkan oleh serpihan-serpihan ini, setelah dicantumkan, ialah sebuah budaya istana Hindu-Buddha — pengaruh keagamaan dan pentadbiran India yang tersalut pada sebuah kerajaan perdagangan Asia Tenggara, corak yang sama seperti yang dilihat di Funan, Champa dan kemudiannya [Srivijaya](/malaysia/srivijaya). Raja-raja Langkasuka, apa jua nama mereka dalam bahasa sendiri, memerintah menurut ungkapan kedaulatan Indik: gajah, ritual istana, gelaran berasaskan Sanskrit.
 
 ## Di mana, sebenarnya?
 

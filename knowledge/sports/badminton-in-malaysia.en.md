@@ -37,7 +37,7 @@ faq:
     a: "Zii Jia resigned from BAM in January 2022 to become an independent player after nearly a decade with the body since the age of 13. He wanted to focus on his own training and improving his ranking, and stressed that whether a national player or an independent player, they still fly the Jalur Gemilang."
 
 lang: "en"
-sourceContentHash: "b8b53113f2c1b9fc"
+sourceContentHash: "a0c4b7207a1ac775"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -179,7 +179,7 @@ Every badminton nation dreads the same question: who comes after the legend? For
 
 Zii Jia made his name in March 2021 by winning the **All England** — defeating world number one Viktor Axelsen in the final, and becoming only the third Malaysian player to win the championship this century and the first since Lee Chong Wei's victory in 2017. For a moment, it looked as though Lee Chong Wei's true heir had arrived.
 
-Then came the decision that stunned everyone. In **January 2022**, Zii Jia resigned from BAM to become an independent player — almost a decade after joining the body at the age of 13. He said he wanted to focus on his own training and ranking, and stressed that "whether we are national players or independent players, we all fly the Jalur Gemilang." BAM initially imposed restrictions, but the two sides eventually reached a settlement that allowed Zii Jia to continue his career as an independent player under his own team.
+Then came the decision that stunned everyone. In **January 2022**, Zii Jia resigned from BAM to become an independent player — almost a decade after joining the body at the age of 13. He said he wanted to focus on his own training and ranking, and stressed that "whether we are national players or independent players, we all fly the [Jalur Gemilang](/malaysia/jalur-gemilang)." BAM initially imposed restrictions, but the two sides eventually reached a settlement that allowed Zii Jia to continue his career as an independent player under his own team.
 
 That move started a major debate in Malaysian sport: should elite players be bound to the national association, or free to manage their own careers? Zii Jia's answer on court came at **Paris 2024**, when he took an **Olympic bronze medal**, defeating India's Lakshya Sen 13-21, 21-16, 21-11 in the third-place playoff on 5 August 2024. With that he became the third Malaysian men's singles player to win an Olympic medal — after Datuk Rashid Sidek (bronze at Atlanta 1996) and Datuk Lee Chong Wei (three silvers).
 

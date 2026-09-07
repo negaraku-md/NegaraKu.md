@@ -42,7 +42,7 @@ verificationNeeded:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "8822a257a97328da"
+sourceContentHash: "79feefd0c909668c"
 
 status: "published"
 aiAssisted: true
@@ -208,7 +208,7 @@ arrangement of power at the time:
 | Kapitan Cina | Chung Ah Kwee |
 | Kapitan Cina | Ching Ah Yam |
 
-Council business was conducted in Malay and recorded in Jawi script, while
+Council business was conducted in Malay and recorded in [Jawi script](/arts-culture/jawi-script), while
 the minutes were translated into English. Every motion was debated and
 voted on before becoming law.
 
