@@ -60,7 +60,7 @@ obligations:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "6f844e4cfa0ba545"
+sourceContentHash: "018f4b09e139ab24"
 
 status: "published"
 aiAssisted: true
@@ -216,7 +216,7 @@ LLP 与 Sdn Bhd 之间。
 
 LLP 有的是**资本出资**，不是股份。没有股东名册、没有法定的股份类别结构、没有优先认购
 制度、没有库存股、没有创投投资人认得的可转换工具。你无法在一笔资本出资之上跑一套员工
-股票期权计划。第 26 条限制合伙人权益的转让，而 Second Schedule 的预设是：未经全体现有
+[股票期权计划](/company-secretary/employee-stock-option-scheme-malaysia)。第 26 条限制合伙人权益的转让，而 Second Schedule 的预设是：未经全体现有
 合伙人同意，任何人都不得被引入成为合伙人。
 
 实务后果：

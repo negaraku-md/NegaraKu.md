@@ -115,7 +115,7 @@ Barack Obama toured Masjid Negara, Kuala Lumpur's National Mosque, in 2014; Anwa
 
 The United States recognised Malaya the moment it became independent. Diplomatic relations were established on **31 August 1957**, when Washington upgraded its Consulate General in Kuala Lumpur to an embassy and the sitting Consul General became chargé d'affaires. When the Federation of Malaysia formed in 1963 by merging Malaya with Singapore, Sabah and Sarawak, US ambassadors were re-accredited to the new federation.
 
-For most of the following decades the relationship was quietly commercial and educational. It gained a formal architecture on **27 April 2014**, when Prime Minister Najib Razak and President Obama — during the first US presidential visit to Malaysia in 48 years — decided to elevate ties to a **Comprehensive Partnership** spanning political and diplomatic engagement, trade and investment, education and people-to-people ties, security and defence, and cooperation on the environment, science, technology and energy. That framework held for roughly a decade before both sides decided it needed an upgrade.
+For most of the following decades the relationship was quietly commercial and educational. It gained a formal architecture on **27 April 2014**, when Prime Minister [Najib Razak](/malaysia/najib-razak) and President Obama — during the first US presidential visit to Malaysia in 48 years — decided to elevate ties to a **Comprehensive Partnership** spanning political and diplomatic engagement, trade and investment, education and people-to-people ties, security and defence, and cooperation on the environment, science, technology and energy. That framework held for roughly a decade before both sides decided it needed an upgrade.
 
 ## What changed in 2025?
 

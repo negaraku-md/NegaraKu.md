@@ -149,7 +149,7 @@ Setiap aliran ini membawa manfaat sekaligus geseran. Bahagian seterusnya membeda
 
 Warga Indonesia — dikenali di negara asal sebagai *Pekerja Migran Indonesia* (PMI) atau dahulunya TKI — telah lama menjadi tulang belakang tenaga kerja di ladang kelapa sawit, tapak pembinaan, dan rumah tangga Malaysia. Skalanya besar: dianggarkan **2.7 juta pekerja Indonesia** berada di Malaysia, tetapi hanya kira-kira **satu pertiga** daripadanya berdaftar secara sah, menurut anggaran pihak kedutaan Indonesia. Jurang inilah — pekerja tidak berdaftar yang terdedah kepada penyeludupan dan penderaan — yang menjadi punca ketegangan berulang.
 
-Titik pusingan datang pada **1 April 2022**, apabila Malaysia dan Indonesia menandatangani Memorandum Persefahaman (MoU) mengenai penempatan dan perlindungan pekerja domestik Indonesia. Ia ditandatangani di Istana Merdeka, Jakarta, oleh Menteri Tenaga Kerja Indonesia Ida Fauziyah dan Menteri Sumber Manusia Malaysia Datuk Seri M. Saravanan, disaksikan oleh Presiden Joko Widodo dan Perdana Menteri Ismail Sabri Yaakob. MoU ini memulihkan rangka kerja perlindungan formal selepas MoU terdahulu dilaporkan tamat tempoh pada 2016.
+Titik pusingan datang pada **1 April 2022**, apabila Malaysia dan Indonesia menandatangani Memorandum Persefahaman (MoU) mengenai penempatan dan perlindungan pekerja domestik Indonesia. Ia ditandatangani di Istana Merdeka, Jakarta, oleh Menteri Tenaga Kerja Indonesia Ida Fauziyah dan Menteri Sumber Manusia Malaysia Datuk Seri M. Saravanan, disaksikan oleh Presiden Joko Widodo dan Perdana Menteri [Ismail Sabri Yaakob](/malaysia/ismail-sabri-yaakob). MoU ini memulihkan rangka kerja perlindungan formal selepas MoU terdahulu dilaporkan tamat tempoh pada 2016.
 
 ### Sistem One Channel
 

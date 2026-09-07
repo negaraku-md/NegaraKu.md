@@ -33,7 +33,7 @@ faq:
     a: "Pergi ke laman web agensi pentadbir sendiri — Cradle, MDEC, MIDA, SME Corp, MTDC, MRANTI, MATRADE, HRD Corp — dan bukan senarai pihak ketiga, yang kerap mengekalkan program yang telah ditutup sebagai masih tersedia. Kerajaan juga mengendalikan direktori teragregat di portal pembiayaan kebangsaan MyStartup. Tempoh geran berubah bersama Belanjawan tahunan, jadi sahkan status semasa sebelum anda melabur masa dalam permohonan."
 
 lang: "ms"
-sourceContentHash: "9e106ed76b687dba"
+sourceContentHash: "a2b08aa3aeaffa10"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -134,7 +134,7 @@ Cradle juga menaungi **MYStartup**, platform syarikat pemula kebangsaan — lebi
 Dua saluran kerap disalah label sebagai geran:
 
 - **Malaysia Debt Ventures (MDV)** menyediakan **pembiayaan (pinjaman dan jaminan)** untuk ICT, teknologi hijau dan bioteknologi — perlu dibayar balik, bukan geran.
-- **Penjana Kapital** dan dana **Khazanah** adalah **ekuiti** (dana-dalam-dana dan pelaburan langsung). Ini tergolong dalam modal teroka dan ekuiti persendirian — lihat panduan iringan itu.
+- **Penjana Kapital** dan dana **Khazanah** adalah **ekuiti** (dana-dalam-dana dan pelaburan langsung). Ini tergolong dalam [modal teroka dan ekuiti persendirian](/finance/venture-capital-private-equity-malaysia) — lihat panduan iringan itu.
 
 ## Bagaimana permohonan biasanya berfungsi
 

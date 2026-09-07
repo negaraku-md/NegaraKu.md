@@ -33,7 +33,7 @@ faq:
     a: "Secara umum, jumlah kos penyenaraian berkisar antara kira-kira RM3 juta hingga RM7 juta untuk ACE Market dan melebihi RM5 juta untuk Main Market, bergantung pada saiz dan kerumitan. Ini termasuk yuran pengunderaitan, penempatan dan pembrokeran (biasanya 1% hingga 3% daripada nilai saham), yuran profesional, dan yuran kawal selia yang perlu dibayar kepada Securities Commission (Main Market) atau Bursa Malaysia (ACE Market)."
 
 lang: "ms"
-sourceContentHash: "3d64b164d5737632"
+sourceContentHash: "4baad2385800a2d6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -154,4 +154,4 @@ Komponen tunggal terbesar biasanya ialah **yuran pengunderaitan, penempatan dan 
 
 Jika anda menimbang IPO, mulakan dengan jujur tentang pasaran mana yang anda benar-benar layak: ujian keuntungan Main Market (RM30 juta terkumpul, RM15 juta pada tahun terkini) ialah halangan yang tinggi, dan laluan penaja ACE Market wujud tepatnya untuk syarikat yang belum sampai ke tahap itu. Kemudian belanjawankan secara realistik — beberapa juta ringgit dan hampir setahun — dan aturkan Penasihat Utama yang diluluskan SC awal-awal, kerana merekalah yang memacu keseluruhan proses.
 
-Sebelum anda melangkah, sahkan ambang semasa dan edisi SC Equity Guidelines secara langsung dengan penasihat anda, kerana kriteria kemasukan dan peraturan peruntukan Bumiputera disemak secara berkala. Dan jika penyenaraian awam belum sesuai buat masa ini, panduan pendamping mengenai modal teroka dan ekuiti persendirian, serta pembiayaan PKS, meliputi laluan modal persendirian yang selalunya datang dahulu.
+Sebelum anda melangkah, sahkan ambang semasa dan edisi SC Equity Guidelines secara langsung dengan penasihat anda, kerana kriteria kemasukan dan peraturan peruntukan Bumiputera disemak secara berkala. Dan jika penyenaraian awam belum sesuai buat masa ini, panduan pendamping mengenai [modal teroka dan ekuiti persendirian](/finance/venture-capital-private-equity-malaysia), serta pembiayaan PKS, meliputi laluan modal persendirian yang selalunya datang dahulu.

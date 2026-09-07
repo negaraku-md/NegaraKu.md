@@ -133,7 +133,7 @@ Cradle also anchors **MYStartup**, the national startup platform — more an umb
 Two channels are widely mislabelled as grants:
 
 - **Malaysia Debt Ventures (MDV)** provides **financing (loans and guarantees)** for ICT, green tech and biotech — repayable, not a grant.
-- **Penjana Kapital** and **Khazanah's** funds are **equity** (fund-of-funds and direct investment). These belong with venture capital and private equity — see that companion guide.
+- **Penjana Kapital** and **Khazanah's** funds are **equity** (fund-of-funds and direct investment). These belong with [venture capital and private equity](/finance/venture-capital-private-equity-malaysia) — see that companion guide.
 
 ## How the application usually works
 

@@ -33,7 +33,7 @@ faq:
     a: "GEAR-uP（Government-linked Enterprises Activation and Reform Programme，政府关联企业激活与改革计划）是由财政部主导、于 2024 年启动的计划。它协调六大 GLIC，在五年内释放 1200 亿令吉的国内直接投资，以推动半导体和能源转型等优先领域。"
 
 lang: "zh"
-sourceContentHash: "b38683cbf297c937"
+sourceContentHash: "46bcda576b948208"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -137,7 +137,7 @@ keywords: ["GLC", "GLIC", "Khazanah", "KWSP", "PNB", "KWAP", "LTAT", "Tabung Haj
 
 该计划以一系列彩色封面手册闻名，为最佳实践设定标准——其中包括关于董事会效能的「绿皮书」和关于价值创造的「银皮书」——以及采用关键绩效指标（KPI）和首席执行官承诺书。进展主要通过 20 家最大 GLC 的表现来追踪，即所谓的 **G20**。
 
-历经十年后，该计划于 2015 年 7 月 28 日结束，GLC 在一场正式仪式上「毕业」，仪式由首相纳吉·拉萨（Najib Razak）——他同时担任 PCG 主席——于 2015 年 8 月 7 日主持。据国库控股报告，G20 在 2004–2015 年间的成就数字勾勒出这场转型的规模：
+历经十年后，该计划于 2015 年 7 月 28 日结束，GLC 在一场正式仪式上「毕业」，仪式由首相[纳吉·拉萨](/malaysia/najib-razak)（Najib Razak）——他同时担任 PCG 主席——于 2015 年 8 月 7 日主持。据国库控股报告，G20 在 2004–2015 年间的成就数字勾勒出这场转型的规模：
 
 - **市值** 增长近三倍，从 1340 亿令吉（2004 年 5 月 14 日）增至 3860 亿令吉（2015 年 7 月 28 日），并曾在 2015 年 4 月 7 日峰值达到 4310 亿令吉。
 - **股东总回报** 年均 **11.1%**。
@@ -149,7 +149,7 @@ keywords: ["GLC", "GLIC", "Khazanah", "KWSP", "PNB", "KWAP", "LTAT", "Tabung Haj
 
 ## 第二波：PERKUKUH（2021）
 
-毕业六年后，焦点从运营的 GLC 转向作为所有者的 GLIC。2021 年 8 月 12 日，首相慕尤丁·雅辛（Muhyiddin Yassin）启动 **PERKUKUH**——全称 *Perkukuh Pelaburan Rakyat*（强化人民投资）——这是一项聚焦于投资机构本身的改革计划。
+毕业六年后，焦点从运营的 GLC 转向作为所有者的 GLIC。2021 年 8 月 12 日，首相[慕尤丁·雅辛](/malaysia/muhyiddin-yassin)（Muhyiddin Yassin）启动 **PERKUKUH**——全称 *Perkukuh Pelaburan Rakyat*（强化人民投资）——这是一项聚焦于投资机构本身的改革计划。
 
 PERKUKUH 将八家 GLIC 归为一组，并推出 **20 项重点举措**。据 The Edge Malaysia 报道，其目标包括为每家 GLIC 确立更清晰的使命、在催化和发展领域进行更多投资、提升私营部门参与，以及精简政府角色。
 

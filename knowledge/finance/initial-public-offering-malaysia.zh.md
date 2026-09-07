@@ -33,7 +33,7 @@ faq:
     a: "一般而言，总上市成本 ACE Market 约为 RM3 million 至 RM7 million，Main Market 则在 RM5 million 以上，视规模与复杂程度而定。这包括包销、配售及经纪费用（一般为股份价值的 1% 至 3%）、专业费用，以及应付给 Securities Commission（Main Market）或 Bursa Malaysia（ACE Market）的监管费用。"
 
 lang: "zh"
-sourceContentHash: "3d64b164d5737632"
+sourceContentHash: "4baad2385800a2d6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -154,4 +154,4 @@ IPO 代价高昂，且大部分成本属于专业性质而非监管性质。Burs
 
 如果你正在权衡 IPO，请先诚实面对自己实际符合哪个市场：Main Market 的盈利测试（累计 RM30 million、最近一年 RM15 million）是一道高门槛，而 ACE Market 的保荐人路径正是为尚未达标的公司而设。然后做出现实的预算——数百万令吉以及近一年的时间——并及早安排一位获 SC 批准的主要顾问，因为他们驱动着整个流程。
 
-在你投入之前，请直接向你的顾问核实现行门槛及 SC Equity Guidelines 的版本，因为入场标准与土著配售规则会定期修订。而如果公开上市目前尚不合适，关于风险投资与私募股权，以及中小企业融资的配套指南，涵盖了往往先行的私募资本途径。
+在你投入之前，请直接向你的顾问核实现行门槛及 SC Equity Guidelines 的版本，因为入场标准与土著配售规则会定期修订。而如果公开上市目前尚不合适，关于[风险投资与私募股权](/finance/venture-capital-private-equity-malaysia)，以及中小企业融资的配套指南，涵盖了往往先行的私募资本途径。

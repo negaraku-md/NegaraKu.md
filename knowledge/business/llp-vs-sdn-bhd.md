@@ -238,7 +238,7 @@ Everywhere capital is involved.
 An LLP has **capital contributions**, not shares. There is no share register, no
 authorised class structure, no pre-emption regime, no treasury shares, no
 convertible instrument that a venture investor recognises. You cannot run an
-employee share option scheme over a capital contribution. Section 26 restricts
+[employee share option scheme](/company-secretary/employee-stock-option-scheme-malaysia) over a capital contribution. Section 26 restricts
 assignment of a partner's interest, and the Second Schedule default is that no
 person may be introduced as a partner without the consent of all existing partners.
 

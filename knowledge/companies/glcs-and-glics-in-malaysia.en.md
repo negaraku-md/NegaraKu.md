@@ -33,7 +33,7 @@ faq:
     a: "GEAR-uP (the Government-linked Enterprises Activation and Reform Programme) is a Ministry of Finance-led programme launched in 2024. It aligns the six GLICs to unlock RM120 billion of domestic direct investment over five years to drive priority sectors such as semiconductors and the energy transition."
 
 lang: "en"
-sourceContentHash: "b38683cbf297c937"
+sourceContentHash: "46bcda576b948208"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -137,7 +137,7 @@ It was guided by the **Putrajaya Committee on GLC High Performance (PCG)**, chai
 
 The programme is well known for its series of colour-coded manuals setting best-practice standards — among them the "Green Book" on Board effectiveness and the "Silver Book" on value creation — as well as the use of Key Performance Indicators (KPIs) and chief executive pledges. Progress was tracked mainly through the performance of the 20 largest GLCs, known as the **G20**.
 
-After a decade, the programme concluded on 28 July 2015, and the GLCs "graduated" at an official ceremony officiated by Prime Minister Najib Razak — who also chaired the PCG — on 7 August 2015. The G20's achievement figures over 2004–2015, as reported by Khazanah, give a sense of the scale of the transformation:
+After a decade, the programme concluded on 28 July 2015, and the GLCs "graduated" at an official ceremony officiated by Prime Minister [Najib Razak](/malaysia/najib-razak) — who also chaired the PCG — on 7 August 2015. The G20's achievement figures over 2004–2015, as reported by Khazanah, give a sense of the scale of the transformation:
 
 - **Market capitalisation** rose almost threefold, from RM134 billion (14 May 2004) to RM386 billion (28 July 2015), and once peaked at RM431 billion (7 April 2015).
 - **Total Shareholder Return** averaged **11.1%** a year.
@@ -149,7 +149,7 @@ These achievements were real, but they did not change the fundamental reality: t
 
 ## The second wave: PERKUKUH (2021)
 
-Six years after graduation, the focus shifted from the operating GLCs to the owner GLICs. On 12 August 2021, Prime Minister Muhyiddin Yassin launched **PERKUKUH** — its full name *Perkukuh Pelaburan Rakyat* — a reform programme focused on the investment institutions themselves.
+Six years after graduation, the focus shifted from the operating GLCs to the owner GLICs. On 12 August 2021, Prime Minister [Muhyiddin Yassin](/malaysia/muhyiddin-yassin) launched **PERKUKUH** — its full name *Perkukuh Pelaburan Rakyat* — a reform programme focused on the investment institutions themselves.
 
 PERKUKUH grouped eight GLICs and introduced **20 key initiatives**. According to The Edge Malaysia, its goals included achieving clearer mandates for each GLIC, more investment in catalytic and developmental areas, greater private-sector participation, and streamlining the government's role.
 

@@ -33,7 +33,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "c7c84ed13dc19c21"
+sourceContentHash: "c027ec0df342599c"
 
 status: "published"
 aiAssisted: true
@@ -87,10 +87,10 @@ sembilan orang**.
 | 3 | Hussein Onn | 15 Jan 1976 – 16 Jul 1981 | UMNO · Barisan Nasional |
 | 4 | Mahathir Mohamad *(penggal ke-1)* | 16 Jul 1981 – 31 Okt 2003 | UMNO · Barisan Nasional |
 | 5 | Abdullah Ahmad Badawi | 31 Okt 2003 – 3 Apr 2009 | UMNO · Barisan Nasional |
-| 6 | Najib Razak | 3 Apr 2009 – 9 Mei 2018 | UMNO · Barisan Nasional |
+| 6 | [Najib Razak](/malaysia/najib-razak) | 3 Apr 2009 – 9 Mei 2018 | UMNO · Barisan Nasional |
 | 7 | Mahathir Mohamad *(penggal ke-2)* | 10 Mei 2018 – 1 Mac 2020 | Pakatan Harapan |
-| 8 | Muhyiddin Yassin | 1 Mac 2020 – 16 Ogos 2021 | Perikatan Nasional |
-| 9 | Ismail Sabri Yaakob | 21 Ogos 2021 – 24 Nov 2022 | Barisan Nasional |
+| 8 | [Muhyiddin Yassin](/malaysia/muhyiddin-yassin) | 1 Mac 2020 – 16 Ogos 2021 | Perikatan Nasional |
+| 9 | [Ismail Sabri Yaakob](/malaysia/ismail-sabri-yaakob) | 21 Ogos 2021 – 24 Nov 2022 | Barisan Nasional |
 | 10 | Anwar Ibrahim | 24 Nov 2022 – kini | Pakatan Harapan · kerajaan perpaduan (MADANI) |
 
 ## Dua era

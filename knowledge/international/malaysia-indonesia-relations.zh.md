@@ -38,7 +38,7 @@ faq:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "c5ce54d9d9c0caf7"
+sourceContentHash: "a2bc830971533a07"
 
 status: "published"
 aiAssisted: true
@@ -150,7 +150,7 @@ keywords: ["hubungan Malaysia Indonesia", "serumpun", "pekerja migran Indonesia"
 
 印尼公民——在原籍国被称为*印尼移工*（PMI），旧称 TKI——长期以来一直是马来西亚棕油种植园、建筑工地与家庭的劳动力支柱。其规模庞大：据印尼使馆估计，约有 **270 万名印尼工人**在马来西亚，但其中仅约**三分之一**已合法登记。正是这一缺口——容易受到走私与虐待的未登记工人——成为反复出现的紧张之源。
 
-转折点出现在 **2022 年 4 月 1 日**，当天马来西亚与印尼签署了关于印尼家庭佣工安置与保护的谅解备忘录（MoU）。该备忘录在雅加达默迪卡宫签署，由印尼劳工部长 Ida Fauziyah 与马来西亚人力资源部长拿督斯里 M. Saravanan 签署，印尼总统佐科·维多多与马来西亚首相依斯迈沙比里见证。这份谅解备忘录在此前一份据报于 2016 年届满的谅解备忘录之后，重新恢复了正式的保护框架。
+转折点出现在 **2022 年 4 月 1 日**，当天马来西亚与印尼签署了关于印尼家庭佣工安置与保护的谅解备忘录（MoU）。该备忘录在雅加达默迪卡宫签署，由印尼劳工部长 Ida Fauziyah 与马来西亚人力资源部长拿督斯里 M. Saravanan 签署，印尼总统佐科·维多多与马来西亚首相[依斯迈沙比里](/malaysia/ismail-sabri-yaakob)见证。这份谅解备忘录在此前一份据报于 2016 年届满的谅解备忘录之后，重新恢复了正式的保护框架。
 
 ### 单一渠道系统
 

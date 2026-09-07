@@ -33,7 +33,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e0df5551dba55014"
+sourceContentHash: "ccd0acf0bc2157a5"
 
 status: "published"
 aiAssisted: true
@@ -82,7 +82,7 @@ keywords: ["1MDB", "一个马来西亚发展有限公司", "纳吉·拉萨", "�
 ---
 
 **一个马来西亚发展有限公司（1MDB）**是一只马来西亚政府拥有的投资基金，于 2009
-年在纳吉·拉萨任首相期间成立，以推动战略性经济发展。它成为全球最大金融丑闻之一
+年在[纳吉·拉萨](/malaysia/najib-razak)任首相期间成立，以推动战略性经济发展。它成为全球最大金融丑闻之一
 的中心。
 
 ## 事件经过

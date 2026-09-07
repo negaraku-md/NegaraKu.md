@@ -86,7 +86,7 @@ Untuk merapatkan jurang inilah kerajaan merangka **Dasar Agromakanan Negara 2.0 
 
 ## Apa itu Dasar Agromakanan Negara 2.0?
 
-DAN 2.0 ialah dasar induk sektor agromakanan Malaysia bagi tempoh 2021-2030. Ia dilancarkan pada **25 Oktober 2021** oleh Perdana Menteri ketika itu, Dato' Sri Ismail Sabri Yaakob, menerusi majlis maya, di bawah Kementerian Pertanian dan Industri Makanan (MAFI) — kini dikenali sebagai Kementerian Pertanian dan Keterjaminan Makanan (KPKM).
+DAN 2.0 ialah dasar induk sektor agromakanan Malaysia bagi tempoh 2021-2030. Ia dilancarkan pada **25 Oktober 2021** oleh Perdana Menteri ketika itu, Dato' Sri [Ismail Sabri Yaakob](/malaysia/ismail-sabri-yaakob), menerusi majlis maya, di bawah Kementerian Pertanian dan Industri Makanan (MAFI) — kini dikenali sebagai Kementerian Pertanian dan Keterjaminan Makanan (KPKM).
 
 Dasar ini menggariskan aspirasi menjadikan sektor agromakanan negara lebih mampan, berdaya tahan dan berteknologi tinggi. Antara tumpuan utamanya ialah pemodenan dan pertanian pintar sebagai pemangkin, pengukuhan rantaian nilai, pembangunan bakat mahir, amalan pertanian mampan, dan ekosistem perniagaan yang kondusif.
 

@@ -29,7 +29,7 @@ faq:
     a: "Under section 6, the members are the Prime Minister (Chairman), the Deputy Prime Minister, the Minister of Defence, the Minister of Home Affairs, the Minister of Communications and Multimedia, the Chief Secretary to the Government, the Chief of Defence Forces, and the Inspector-General of Police."
 
 lang: "en"
-sourceContentHash: "e7538f1bc1ff39b9"
+sourceContentHash: "c3999252b2bdc0d7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -142,7 +142,7 @@ The most recent example of the use of Article 150 is the **Proclamation of Emerg
 
 This issue involves differing views, and this article presents both sides factually.
 
-**The government's rationale:** When Act 776 was drafted, the government of the day linked it to the threat of cross-border terrorism, including an attack attributed to an Islamic State-linked group in Malaysia in June 2016 (reported in the ISEAS–Yusof Ishak Institute commentary). According to the same commentary, the Prime Minister at the time, Najib Razak, was reported to have stated that the government would not apologise for prioritising the safety of Malaysians. (The original statement was made in English; the sentence here is a paraphrased translation, not a direct quote.)
+**The government's rationale:** When Act 776 was drafted, the government of the day linked it to the threat of cross-border terrorism, including an attack attributed to an Islamic State-linked group in Malaysia in June 2016 (reported in the ISEAS–Yusof Ishak Institute commentary). According to the same commentary, the Prime Minister at the time, [Najib Razak](/malaysia/najib-razak), was reported to have stated that the government would not apologise for prioritising the safety of Malaysians. (The original statement was made in English; the sentence here is a paraphrased translation, not a direct quote.)
 
 **Critics' concerns:** Several civil society and human rights organisations — including Human Rights Watch and local groups — raised concerns that the Act gives broad powers to the Prime Minister, allows search and arrest without warrant, grants legal immunity for acts done "in good faith", and permits the waiver of inquests for deaths within a security area. They also raised questions about the balance between national security and civil liberties.
 

@@ -107,7 +107,7 @@ Menurut laporan Free Malaysia Today, UEC diterima di Sabah dan Sarawak — dua-d
 
 ## Mengapa pengiktirafannya menjadi isu berlarutan?
 
-Isu pengiktirafan UEC telah muncul berulang kali dalam wacana dasar dan politik pilihan raya selama bertahun-tahun. Menurut laporan Free Malaysia Today, pada 2018 Barisan Nasional membuat janji berkaitan apabila Najib Razak, ketika itu pengerusi BN dan Perdana Menteri, menawarkan pengiktirafan UEC sekiranya BN memperoleh mandat kukuh.
+Isu pengiktirafan UEC telah muncul berulang kali dalam wacana dasar dan politik pilihan raya selama bertahun-tahun. Menurut laporan Free Malaysia Today, pada 2018 Barisan Nasional membuat janji berkaitan apabila [Najib Razak](/malaysia/najib-razak), ketika itu pengerusi BN dan Perdana Menteri, menawarkan pengiktirafan UEC sekiranya BN memperoleh mandat kukuh.
 
 Pada tahun yang sama, manifesto Pakatan Harapan turut menjanjikan pengiktirafan UEC — membenarkan pemegang sijil mengakses universiti awam tanpa halangan kesetaraan — tertakluk kepada syarat pemohon memperoleh sekurang-kurangnya kepujian dalam Bahasa Melayu di peringkat SPM. Ketika memerintah, PH membentuk sebuah pasukan petugas (task force) untuk mengumpul pandangan, tetapi usaha itu terhenti selepas pertukaran kerajaan pada 2020, dan pasukan petugas berkenaan dibubarkan pada 29 Februari tahun tersebut.
 

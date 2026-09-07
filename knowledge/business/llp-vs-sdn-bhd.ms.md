@@ -60,7 +60,7 @@ obligations:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "6f844e4cfa0ba545"
+sourceContentHash: "018f4b09e139ab24"
 
 status: "published"
 aiAssisted: true
@@ -266,7 +266,7 @@ LLP mempunyai **sumbangan modal (capital contributions)**, bukan saham.
 Tiada daftar saham, tiada struktur kelas yang dibenarkan, tiada rejim
 pra-emption, tiada saham perbendaharaan (treasury shares), tiada instrumen
 boleh tukar yang dikenali oleh pelabur modal teroka. Anda tidak boleh
-menjalankan skim opsyen saham pekerja ke atas sumbangan modal. Seksyen 26
+menjalankan [skim opsyen saham pekerja](/company-secretary/employee-stock-option-scheme-malaysia) ke atas sumbangan modal. Seksyen 26
 menghadkan serahhak kepentingan seorang rakan kongsi, dan lalai Second
 Schedule ialah tiada seorang pun boleh diperkenalkan sebagai rakan kongsi
 tanpa persetujuan semua rakan kongsi sedia ada.

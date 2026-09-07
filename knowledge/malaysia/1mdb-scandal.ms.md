@@ -33,7 +33,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e0df5551dba55014"
+sourceContentHash: "ccd0acf0bc2157a5"
 
 status: "published"
 aiAssisted: true
@@ -82,7 +82,7 @@ keywords: ["1MDB", "1Malaysia Development Berhad", "Najib Razak", "Jho Low", "sk
 ---
 
 **1Malaysia Development Berhad (1MDB)** ialah sebuah dana pelaburan milik kerajaan
-Malaysia yang diasaskan pada 2009, ketika keperdanaan Najib Razak, untuk memacu
+Malaysia yang diasaskan pada 2009, ketika keperdanaan [Najib Razak](/malaysia/najib-razak), untuk memacu
 pembangunan ekonomi strategik. Ia menjadi tumpuan salah satu skandal kewangan
 terbesar dunia.
 

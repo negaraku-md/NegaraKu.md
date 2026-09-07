@@ -30,7 +30,7 @@ faq:
     a: "Yes. Malay is a compulsory subject in the UEC system. Many UEC students also sit for the SPM as private candidates; Dong Zong reports that the SPM Malay pass rate among Chinese Independent High School students exceeded 96% for the years 2022–2024 (97.38% in 2022, 97.11% in 2023 and 96.65% in 2024), using the same SPM paper as other candidates."
 
 lang: "en"
-sourceContentHash: "c14c2187ab840c2c"
+sourceContentHash: "4005b6df2ea85747"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -108,7 +108,7 @@ According to Free Malaysia Today reports, the UEC is accepted in Sabah and Saraw
 
 ## Why has its recognition become a long-running issue?
 
-The issue of UEC recognition has surfaced repeatedly in policy discourse and election politics over the years. According to Free Malaysia Today reports, in 2018 Barisan Nasional made a related pledge when Najib Razak, then BN chairman and Prime Minister, offered UEC recognition if BN secured a strong mandate.
+The issue of UEC recognition has surfaced repeatedly in policy discourse and election politics over the years. According to Free Malaysia Today reports, in 2018 Barisan Nasional made a related pledge when [Najib Razak](/malaysia/najib-razak), then BN chairman and Prime Minister, offered UEC recognition if BN secured a strong mandate.
 
 In the same year, the Pakatan Harapan manifesto also promised UEC recognition — allowing certificate holders to access public universities without an equivalence barrier — subject to the condition that applicants obtain at least a credit in Malay at SPM level. While in government, PH set up a task force to gather views, but that effort stalled after the change of government in 2020, and the task force was dissolved on 29 February that year.
 

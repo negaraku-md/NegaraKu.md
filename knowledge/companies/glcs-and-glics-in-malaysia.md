@@ -136,7 +136,7 @@ Ia dipandu oleh **Jawatankuasa Putrajaya untuk Prestasi Tinggi GLC (PCG)**, yang
 
 Program ini terkenal dengan siri manual bersampul warna yang menetapkan piawaian amalan terbaik — antaranya "Buku Hijau" mengenai keberkesanan Lembaga Pengarah dan "Buku Perak" mengenai penciptaan nilai — serta penggunaan Petunjuk Prestasi Utama (KPI) dan aku janji ketua pegawai eksekutif. Kemajuan dijejaki terutamanya melalui prestasi 20 GLC terbesar, dikenali sebagai **G20**.
 
-Selepas sedekad, program ini berakhir pada 28 Julai 2015, dan GLC "bergraduasi" pada majlis rasmi yang disempurnakan oleh Perdana Menteri Najib Razak — yang juga mempengerusikan PCG — pada 7 Ogos 2015. Angka pencapaian G20 sepanjang 2004–2015, seperti dilaporkan Khazanah, memberi gambaran skala transformasi:
+Selepas sedekad, program ini berakhir pada 28 Julai 2015, dan GLC "bergraduasi" pada majlis rasmi yang disempurnakan oleh Perdana Menteri [Najib Razak](/malaysia/najib-razak) — yang juga mempengerusikan PCG — pada 7 Ogos 2015. Angka pencapaian G20 sepanjang 2004–2015, seperti dilaporkan Khazanah, memberi gambaran skala transformasi:
 
 - **Permodalan pasaran** meningkat hampir tiga kali ganda daripada RM134 bilion (14 Mei 2004) kepada RM386 bilion (28 Julai 2015), dan pernah memuncak pada RM431 bilion (7 April 2015).
 - **Pulangan Pemegang Saham Keseluruhan** purata **11.1%** setahun.
@@ -148,7 +148,7 @@ Pencapaian ini nyata, tetapi ia tidak mengubah realiti asas: kerajaan masih memi
 
 ## Gelombang kedua: PERKUKUH (2021)
 
-Enam tahun selepas graduasi, tumpuan beralih daripada GLC operasi kepada GLIC pemilik. Pada 12 Ogos 2021, Perdana Menteri Muhyiddin Yassin melancarkan **PERKUKUH** — nama penuhnya *Perkukuh Pelaburan Rakyat* — sebuah program reformasi yang memberi tumpuan kepada institusi pelaburan itu sendiri.
+Enam tahun selepas graduasi, tumpuan beralih daripada GLC operasi kepada GLIC pemilik. Pada 12 Ogos 2021, Perdana Menteri [Muhyiddin Yassin](/malaysia/muhyiddin-yassin) melancarkan **PERKUKUH** — nama penuhnya *Perkukuh Pelaburan Rakyat* — sebuah program reformasi yang memberi tumpuan kepada institusi pelaburan itu sendiri.
 
 PERKUKUH mengelompokkan lapan GLIC dan memperkenalkan **20 inisiatif utama**. Menurut The Edge Malaysia, matlamatnya termasuk mencapai mandat yang lebih jelas bagi setiap GLIC, lebih banyak pelaburan dalam bidang pemangkin dan pembangunan, peningkatan penyertaan sektor swasta, serta memperkemas peranan kerajaan.
 

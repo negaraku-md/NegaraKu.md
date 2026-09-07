@@ -33,7 +33,7 @@ faq:
     a: "前往主管机构自己的网站——Cradle、MDEC、MIDA、SME Corp、MTDC、MRANTI、MATRADE、HRD Corp——而不是第三方清单文章，后者常把已关闭的计划仍列为可用。政府也在 MyStartup 全国资助门户运营一个汇总目录。拨款窗口随年度预算案变动，因此在你投入时间准备申请之前，请确认当前状态。"
 
 lang: "zh"
-sourceContentHash: "9e106ed76b687dba"
+sourceContentHash: "a2b08aa3aeaffa10"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -134,7 +134,7 @@ Cradle 也是 **MYStartup**（全国初创平台）的支柱——它更像是�
 有两个渠道被广泛误标为拨款：
 
 - **Malaysia Debt Ventures（MDV）** 为 ICT、绿色科技与生物科技提供**融资（贷款与担保）**——需偿还，并非拨款。
-- **Penjana Kapital** 与 **Khazanah** 旗下的基金是**股权**（母基金与直接投资）。这些归属于风险投资与私募股权——请参见配套指南。
+- **Penjana Kapital** 与 **Khazanah** 旗下的基金是**股权**（母基金与直接投资）。这些归属于[风险投资与私募股权](/finance/venture-capital-private-equity-malaysia)——请参见配套指南。
 
 ## 申请通常如何运作
 

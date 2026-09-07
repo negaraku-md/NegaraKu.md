@@ -31,7 +31,7 @@ faq:
     a: "The decline is largely the effect of a change in the calculation method, not simply a fall in production. The new method only counts clean paddy processed into rice and no longer includes paddy used for seed within the same year."
 
 lang: "en"
-sourceContentHash: "3757556d7cc2efff"
+sourceContentHash: "7d8abd9379de755b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,7 +87,7 @@ To close this gap, the government devised the **National Agrofood Policy 2.0 (DA
 
 ## What is the National Agrofood Policy 2.0?
 
-DAN 2.0 is the master policy for Malaysia's agrofood sector for the 2021-2030 period. It was launched on **25 October 2021** by the then Prime Minister, Dato' Sri Ismail Sabri Yaakob, through a virtual event, under the Ministry of Agriculture and Food Industries (MAFI) — now known as the Ministry of Agriculture and Food Security (KPKM).
+DAN 2.0 is the master policy for Malaysia's agrofood sector for the 2021-2030 period. It was launched on **25 October 2021** by the then Prime Minister, Dato' Sri [Ismail Sabri Yaakob](/malaysia/ismail-sabri-yaakob), through a virtual event, under the Ministry of Agriculture and Food Industries (MAFI) — now known as the Ministry of Agriculture and Food Security (KPKM).
 
 The policy outlines the aspiration to make the country's agrofood sector more sustainable, resilient and high-tech. Among its main focuses are modernisation and smart agriculture as catalysts, strengthening the value chain, developing skilled talent, sustainable agricultural practices, and a conducive business ecosystem.
 

@@ -31,7 +31,7 @@ faq:
     a: "这一下跌很大程度上是计算方法改变的结果，而非单纯因为产量下滑。新方法只计算真正加工成米的净稻谷，不再把同一年用作种子的稻谷计算在内。"
 
 lang: "zh"
-sourceContentHash: "3757556d7cc2efff"
+sourceContentHash: "7d8abd9379de755b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,7 +87,7 @@ keywords: ["keterjaminan makanan", "tahap sara diri", "SSL", "SSR", "Dasar Agrom
 
 ## 什么是《国家农粮政策 2.0》？
 
-《国家农粮政策 2.0》是马来西亚农粮领域 2021-2030 年间的总纲政策。它于 **2021 年 10 月 25 日** 由时任首相拿督斯里依斯迈沙比里（Dato' Sri Ismail Sabri Yaakob）通过线上仪式推出，隶属于农业与食品工业部（MAFI）——即如今的农业与粮食安全部（KPKM）。
+《国家农粮政策 2.0》是马来西亚农粮领域 2021-2030 年间的总纲政策。它于 **2021 年 10 月 25 日** 由时任首相拿督斯里[依斯迈沙比里](/malaysia/ismail-sabri-yaakob)（Dato' Sri Ismail Sabri Yaakob）通过线上仪式推出，隶属于农业与食品工业部（MAFI）——即如今的农业与粮食安全部（KPKM）。
 
 该政策勾勒出使国家农粮领域更加可持续、更有韧性且高度科技化的愿景。其主要重点包括以现代化与智慧农业为推动力、强化价值链、培养技术人才、可持续农业实践，以及营造有利的营商生态。
 

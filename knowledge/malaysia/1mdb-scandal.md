@@ -81,7 +81,7 @@ keywords: ["1MDB", "1Malaysia Development Berhad", "Najib Razak", "Jho Low", "Ma
 ---
 
 **1Malaysia Development Berhad (1MDB)** was a Malaysian government-owned
-investment fund founded in 2009, during the premiership of Najib Razak, to
+investment fund founded in 2009, during the premiership of [Najib Razak](/malaysia/najib-razak), to
 promote strategic economic development. It became the centre of one of the
 world's largest financial scandals.
 

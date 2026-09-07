@@ -38,7 +38,7 @@ faq:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "c5ce54d9d9c0caf7"
+sourceContentHash: "a2bc830971533a07"
 
 status: "published"
 aiAssisted: true
@@ -150,7 +150,7 @@ Each of these flows carries benefits as well as friction. The sections below dis
 
 Indonesian citizens — known in their home country as *Pekerja Migran Indonesia* (PMI) or formerly TKI — have long been the backbone of the labour force on Malaysia's oil palm plantations, construction sites, and households. The scale is large: an estimated **2.7 million Indonesian workers** are in Malaysia, but only about **one third** of them are legally registered, according to Indonesian embassy estimates. It is precisely this gap — unregistered workers exposed to trafficking and abuse — that is the source of recurring tension.
 
-The turning point came on **1 April 2022**, when Malaysia and Indonesia signed a Memorandum of Understanding (MoU) on the placement and protection of Indonesian domestic workers. It was signed at Istana Merdeka, Jakarta, by Indonesia's Manpower Minister Ida Fauziyah and Malaysia's Human Resources Minister Datuk Seri M. Saravanan, witnessed by President Joko Widodo and Prime Minister Ismail Sabri Yaakob. The MoU restored a formal protection framework after the earlier MoU reportedly lapsed in 2016.
+The turning point came on **1 April 2022**, when Malaysia and Indonesia signed a Memorandum of Understanding (MoU) on the placement and protection of Indonesian domestic workers. It was signed at Istana Merdeka, Jakarta, by Indonesia's Manpower Minister Ida Fauziyah and Malaysia's Human Resources Minister Datuk Seri M. Saravanan, witnessed by President Joko Widodo and Prime Minister [Ismail Sabri Yaakob](/malaysia/ismail-sabri-yaakob). The MoU restored a formal protection framework after the earlier MoU reportedly lapsed in 2016.
 
 ### The One Channel System
 

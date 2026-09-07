@@ -34,7 +34,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "8ad5469ae67a1355"
+sourceContentHash: "6acdeba029dc19eb"
 
 status: "published"
 aiAssisted: true
@@ -116,7 +116,7 @@ Barack Obama melawat Masjid Negara, masjid kebangsaan Kuala Lumpur, pada 2014; A
 
 Amerika Syarikat mengiktiraf Tanah Melayu pada saat ia mencapai kemerdekaan. Hubungan diplomatik dijalin pada **31 Ogos 1957**, apabila Washington menaikkan taraf Konsulat Jeneralnya di Kuala Lumpur kepada kedutaan dan Konsul Jeneral yang menjawat ketika itu menjadi charge d'affaires. Apabila Persekutuan Malaysia terbentuk pada 1963 melalui penyatuan Tanah Melayu dengan Singapura, Sabah dan Sarawak, duta besar AS ditauliahkan semula kepada persekutuan baharu itu.
 
-Untuk kebanyakan dekad yang menyusul, hubungan itu bersifat komersial dan pendidikan secara senyap. Ia memperoleh seni bina rasmi pada **27 April 2014**, apabila Perdana Menteri Najib Razak dan Presiden Obama — semasa lawatan presiden AS yang pertama ke Malaysia dalam tempoh 48 tahun — memutuskan untuk menaikkan taraf hubungan kepada **Perkongsian Menyeluruh** yang merangkumi penglibatan politik dan diplomatik, perdagangan dan pelaburan, pendidikan dan hubungan rakyat dengan rakyat, keselamatan dan pertahanan, serta kerjasama dalam bidang alam sekitar, sains, teknologi dan tenaga. Rangka kerja itu bertahan selama kira-kira sedekad sebelum kedua-dua pihak memutuskan ia memerlukan penambahbaikan.
+Untuk kebanyakan dekad yang menyusul, hubungan itu bersifat komersial dan pendidikan secara senyap. Ia memperoleh seni bina rasmi pada **27 April 2014**, apabila Perdana Menteri [Najib Razak](/malaysia/najib-razak) dan Presiden Obama — semasa lawatan presiden AS yang pertama ke Malaysia dalam tempoh 48 tahun — memutuskan untuk menaikkan taraf hubungan kepada **Perkongsian Menyeluruh** yang merangkumi penglibatan politik dan diplomatik, perdagangan dan pelaburan, pendidikan dan hubungan rakyat dengan rakyat, keselamatan dan pertahanan, serta kerjasama dalam bidang alam sekitar, sains, teknologi dan tenaga. Rangka kerja itu bertahan selama kira-kira sedekad sebelum kedua-dua pihak memutuskan ia memerlukan penambahbaikan.
 
 ## Apakah yang berubah pada 2025?
 

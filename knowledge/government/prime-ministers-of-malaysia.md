@@ -85,10 +85,10 @@ the confidence of the majority of the Dewan Rakyat and is appointed by the
 | 3 | Hussein Onn | 15 Jan 1976 – 16 Jul 1981 | UMNO · Barisan Nasional |
 | 4 | Mahathir Mohamad *(1st term)* | 16 Jul 1981 – 31 Oct 2003 | UMNO · Barisan Nasional |
 | 5 | Abdullah Ahmad Badawi | 31 Oct 2003 – 3 Apr 2009 | UMNO · Barisan Nasional |
-| 6 | Najib Razak | 3 Apr 2009 – 9 May 2018 | UMNO · Barisan Nasional |
+| 6 | [Najib Razak](/malaysia/najib-razak) | 3 Apr 2009 – 9 May 2018 | UMNO · Barisan Nasional |
 | 7 | Mahathir Mohamad *(2nd term)* | 10 May 2018 – 1 Mar 2020 | Pakatan Harapan |
-| 8 | Muhyiddin Yassin | 1 Mar 2020 – 16 Aug 2021 | Perikatan Nasional |
-| 9 | Ismail Sabri Yaakob | 21 Aug 2021 – 24 Nov 2022 | Barisan Nasional |
+| 8 | [Muhyiddin Yassin](/malaysia/muhyiddin-yassin) | 1 Mar 2020 – 16 Aug 2021 | Perikatan Nasional |
+| 9 | [Ismail Sabri Yaakob](/malaysia/ismail-sabri-yaakob) | 21 Aug 2021 – 24 Nov 2022 | Barisan Nasional |
 | 10 | Anwar Ibrahim | 24 Nov 2022 – present | Pakatan Harapan · unity (MADANI) government |
 
 ## Two eras
