@@ -5,6 +5,7 @@ seoTitle: "Cyber Security Act 2024 (Act 854): NCII, Reporting & Licensing"
 slug: "cyber-security-act-2024"
 category: "technology"
 subcategory: ["cybersecurity"]
+alsoIn: ["business"]
 summary: "Malaysia's Cyber Security Act 2024 (Act 854) came into force on 26 August 2024. It designates 11 National Critical Information Infrastructure sectors, imposes mandatory incident-reporting and audit duties, and licenses two categories of cybersecurity service providers under the National Cyber Security Agency (NACSA)."
 
 tier: "1"
@@ -160,6 +161,8 @@ The tight initial window is deliberate. The Act's premise is national coordinati
 
 - conduct a **cyber security risk assessment at least once a year**; and
 - undergo an **audit by an approved auditor at least once every two years**.
+
+These are floors, not ceilings: the Chief Executive can direct an entity to carry out more frequent risk assessments or audits when circumstances warrant — for example, after a major change to its infrastructure.
 
 **4. Keep records and cooperate.** Entities must maintain the records the Act and its regulations require, respond to directions from the Chief Executive, and participate in exercises and remediation the regulator orders.
 

@@ -65,6 +65,21 @@ const redirects = {
   '/industries/petronas-industry-profile': '/companies/petronas',
   '/en/industries/petronas-industry-profile': '/en/companies/petronas',
   '/zh/industries/petronas-industry-profile': '/zh/companies/petronas',
+  '/law/personal-data-protection-act-2010': '/law/pdpa-2010',
+  '/en/law/personal-data-protection-act-2010': '/en/law/pdpa-2010',
+  '/zh/law/personal-data-protection-act-2010': '/zh/law/pdpa-2010',
+  '/business/cyber-security-act-malaysia': '/technology/cyber-security-act-2024',
+  '/en/business/cyber-security-act-malaysia': '/en/technology/cyber-security-act-2024',
+  '/zh/business/cyber-security-act-malaysia': '/zh/technology/cyber-security-act-2024',
+  '/companies/pnb-and-asnb': '/economy/pnb',
+  '/en/companies/pnb-and-asnb': '/en/economy/pnb',
+  '/zh/companies/pnb-and-asnb': '/zh/economy/pnb',
+  '/glossary/felda': '/agriculture/felda-land-settlement-scheme',
+  '/en/glossary/felda': '/en/agriculture/felda-land-settlement-scheme',
+  '/zh/glossary/felda': '/zh/agriculture/felda-land-settlement-scheme',
+  '/glossary/orang-asli': '/arts-culture/orang-asli',
+  '/en/glossary/orang-asli': '/en/arts-culture/orang-asli',
+  '/zh/glossary/orang-asli': '/zh/arts-culture/orang-asli',
 };
 
 export default defineConfig({

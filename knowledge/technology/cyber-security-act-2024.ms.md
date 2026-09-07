@@ -5,6 +5,7 @@ seoTitle: "Akta Keselamatan Siber 2024 (Akta 854): NCII & Pelesenan"
 slug: "cyber-security-act-2024"
 category: "technology"
 subcategory: ["cybersecurity"]
+alsoIn: ["business"]
 summary: "Akta Keselamatan Siber 2024 (Akta 854) Malaysia mula berkuat kuasa pada 26 Ogos 2024. Ia menetapkan 11 sektor Infrastruktur Maklumat Kritikal Negara, mengenakan kewajipan wajib melaporkan insiden dan menjalankan audit, serta melesenkan dua kategori penyedia perkhidmatan keselamatan siber di bawah Agensi Keselamatan Siber Negara (NACSA)."
 
 tier: "1"
@@ -39,7 +40,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b26c1d94188332f9"
+sourceContentHash: "3cca544d70c1185a"
 
 status: "published"
 aiAssisted: true
@@ -161,6 +162,8 @@ Tetingkap awal yang ketat itu adalah disengajakan. Premis Akta ini ialah koordin
 
 - menjalankan **penilaian risiko keselamatan siber sekurang-kurangnya sekali setahun**; dan
 - menjalani **audit oleh juruaudit yang diluluskan sekurang-kurangnya sekali setiap dua tahun**.
+
+Ini ialah paras minimum, bukan siling: Ketua Pegawai Eksekutif boleh mengarahkan sesebuah entiti menjalankan penilaian risiko atau audit yang lebih kerap apabila keadaan memerlukan — contohnya, selepas perubahan besar kepada infrastrukturnya.
 
 **4. Simpan rekod dan bekerjasama.** Entiti mesti menyimpan rekod yang dikehendaki oleh Akta dan peraturan-peraturannya, memberi maklum balas kepada arahan Ketua Pegawai Eksekutif, dan mengambil bahagian dalam latihan serta pemulihan yang diperintahkan oleh pengawal selia.
 

@@ -4,6 +4,7 @@ title: "国民投资有限公司（Permodalan Nasional Berhad）：ASB 与 ASN �
 slug: "pnb"
 category: "economy"
 subcategory: ["institutions"]
+alsoIn: ["companies"]
 summary: "Permodalan Nasional Berhad（PNB）及其单位信托管理公司 ASNB 的实体介绍——ASB 与 ASN 恒定为每单位 RM1 的定价方式，与一般股票基金有何不同，以及开户前须符合的资格规定。"
 tier: "S"
 mode: "practical"
@@ -37,7 +38,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "499a1de2289269bf"
+sourceContentHash: "1c4aaf1e059aa22b"
 
 status: "published"
 aiAssisted: true
@@ -82,6 +83,13 @@ sources:
     url: "https://www.bsn.com.my/cms/upload/pdf/personal/wealth/asnb/variable/2026/phs_asn.pdf"
     publisher: "Amanah Saham Nasional Berhad"
     date: "2026-03-03"
+  - title: "Amanah Saham Bumiputera (ASB) Product Highlights Sheet"
+    url: "https://cms.myasnb.com.my/uploads/PHS_ASB_dd_25052026_b127277df2.pdf"
+    publisher: "Amanah Saham Nasional Berhad"
+    date: "2026-05-25"
+  - title: "Prospektus Induk ASNB — 已向大马证券监督委员会注册；投资者资格标准的权威文件"
+    url: "https://www.asnb.com.my/en/prospectus-product-highlight-sheet"
+    publisher: "Amanah Saham Nasional Berhad"
 
 entity: "Permodalan Nasional Berhad"
 relations:
@@ -100,8 +108,10 @@ keywords: ["Permodalan Nasional Berhad", "PNB", "ASNB", "Amanah Saham Bumiputera
 | --- | --- |
 | 名称 | Permodalan Nasional Berhad（PNB） |
 | 成立 | 1978年3月17日，作为马来西亚新经济政策（New Economic Policy）的一部分 |
+| 前身 | 土著投资基金会（Yayasan Pelaburan Bumiputra, YPB），成立于1978年1月9日 |
 | 宗旨 | 增进土著（Bumiputera）社群与全体马来西亚人民的经济财富 |
 | AUM | RM364亿（截至2025年底，按年增长4.5%） |
+| AUM目标 | 在LEAP-6战略计划下，到2027年达到RM400亿 |
 | 单位信托管理公司 | Amanah Saham Nasional Berhad（ASNB），全资子公司，成立于1979年5月22日 |
 | ASNB管理的基金 | 18个单位信托基金，流通单位约2,800亿个，分布于超过1,500万个账户，由约1,300万名独立账户持有人持有 |
 | 旗舰基金 | Amanah Saham Bumiputera（ASB），固定价格基金，于1990年1月2日推出 |
@@ -119,6 +129,8 @@ PNB不会为你开户，也不会收取你的RM10。那是ASNB的工作。
 PNB是投资经理：它决定每个基金的资金投向哪里——Bursa Malaysia上市股票、非上市持股、固定收益、货币市场工具——它也是全资拥有ASNB的控股公司。ASNB则是单位信托管理公司：它是每份招股书与 Product Highlights Sheet 上列明的「经理（Manager）」，负责发行单位、处理回购，并在全国经营32间分行及超过2,700个代理点（Maybank、CIMB、RHB、BSN、Pos Malaysia等），马来西亚人实际上就是在这些地方办理交易的。
 
 这种分工在实务上很重要：投诉、账户查询与交易事项都应找ASNB，而非PNB。PNB本身的角色在更上游——投资策略与资金配置——主要体现在ASNB每年代表PNB宣布的收益分配上。
+
+这一结构植根于新经济政策：PNB之前已有土著投资基金会（Yayasan Pelaburan Bumiputra, YPB）于1978年1月9日成立，旨在培育土著社群的股本持有。其基本机制至今未变——PNB收购马来西亚大型公司的股份，将其持于信托基金之内，再让马来西亚人以更容易负担的小额单位投资于这些持股。
 
 ## 两种定价模式，同一位管理者
 
@@ -141,6 +153,8 @@ ASB仅限土著申请，但符合资格的类别比单纯的「土著」更广�
 - 年满18岁的马来西亚土著个人；或
 - 年满18岁、属暹罗／泰裔、葡萄牙／欧亚裔或非土著穆斯林皈依者的马来西亚公民。
 
+关于谁可投资，最具权威的来源是ASNB招股说明书总纲（Prospektus Induk），而非产品要点表（PHS）；它将土著的核心类别界定为马来人、沙巴与砂拉越原住民，以及原住民（Orang Asli）。
+
 来自上述任一符合资格类别的监护人，也可为马来西亚未成年人（须持有效出生证明，未满18岁）开立**Akaun Remaja（青少年户口）**。Remaja户口的持有人须年满12岁才可申请赎回，即使如此，每周也设有200单位的上限；一旦该未成年人达到成年年龄，账户会自动转为 Akaun Dewasa。
 
 ASNB公布的交易条款：
@@ -154,10 +168,17 @@ ASNB公布的交易条款：
 | 回购费 | 无 |
 | 公积金局（EPF）会员投资计划 | 不适用——ASB不能使用EPF提取资金购买 |
 | 常年管理费 | 基金价值的0.35%（信托契约允许最高至1.0%） |
+| 基金类别 | 混合资产（基金类型：收益型） |
+| 资产配置 | 最高90%投资于股票，最高50%投资于其他资产类别，最低5%为现金或流动性资产 |
+| 基准 | 马来亚银行（Maybank）12个月定期存款利率 |
+
+自2026年5月25日起，ASB以两类单位发行：A类，不扣除天课；B类，为穆斯林投资者内置天课缴付便利。两者是同一只固定价格基金——同样的RM1.00单位、同样的特征——仅在天课处理上有所不同。
 
 这30万单位的上限并非最初的设计：ASB与ASB 2的限额自2023年起从RM200,000提高至RM300,000，由PNB在2023年财政预算案发布时一并宣布。再投资的分配，或从已故单位持有人处继承的单位，都可能使持有人的余额超过该上限，而不算违规。
 
 截至2025年12月31日的财政年度，ASNB宣布ASB的总收益分配为每单位5.75仙——派发总额RM10.4亿，惠及1,140万名单位持有人，是ASB自1990年成立以来支付的最高年度分配数额，使累计分配达到RM206.7亿。2023年至2025年的分配分别为5.25仙、5.75仙与5.75仙——也就是在RM1.00的单位上分别为5.25%、5.75%与5.75%——每一年都高于用作比较基准的Maybank 12个月定期存款（同期分别为2.84%、2.59%与2.29%）。
+
+该项分配依据的是账户在基金财政年度内所持有的平均最低月结余计算——因此全年持有的单位所计得的份额，多于较迟才存入的单位——而分配率并不获保证，会随基金已实现的收益及市场状况而变动。FY2025的派发是在本地股市疲弱的环境下宣布的，FBM KLCI在该时期录得约-0.3%的年初至今价格回报。
 
 ## ASN：同一位管理者，不同的结构
 
@@ -176,6 +197,12 @@ ASN于1981年4月20日推出，比ASB早了大约九年。其资格比ASB更窄�
 | 基准 | 80% FBM 100指数（FTSE Bursa Malaysia Top 100）、20% Maybank 12个月定期存款 |
 
 2025财政年度，ASN的净分配为每单位1.81仙，常年总回报为-0.14%，相较基准回报-0.47%——这提醒我们，与ASB不同，ASN的总回报可能、也确实会转为负值，因为其单位价格并非固定。
+
+## LEAP-6：PNB的前进方向
+
+在ASB年度头条数字的背后，是PNB现行的企业战略——LEAP-6战略计划；2025年是该计划实施的第二年。其列明的优先事项为：增加客户净流入、为单位持有人带来可持续的收益派发，以及强化PNB的自有资本。在投资方面，PNB正向全球资产、私募投资及房地产多元化配置，并鉴于全球资本市场的不确定性，对2026年前景持谨慎立场。
+
+该计划设定的主要目标是到2027年将管理资产提升至RM400亿，高于2025年所报的RM364亿。就ASNB全部18只基金而言，2025年的收益派发总额达RM15.3亿——其中ASB的RM10.4亿是单一最大的组成部分。
 
 ## 常见错误
 

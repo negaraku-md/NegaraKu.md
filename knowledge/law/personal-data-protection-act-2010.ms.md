@@ -30,7 +30,7 @@ lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "7f5fe90f36510019"
-status: "published"
+status: "archived"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

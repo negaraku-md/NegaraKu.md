@@ -4,6 +4,7 @@ title: "Permodalan Nasional Berhad: The Manager Behind ASB and ASN"
 slug: "pnb"
 category: "economy"
 subcategory: ["institutions"]
+alsoIn: ["companies"]
 summary: "Entity page for Permodalan Nasional Berhad (PNB) and its unit trust manager ASNB — what makes ASB and ASN's constant RM1-a-unit pricing different from an ordinary equity fund, and the eligibility rules that apply before you can open an account."
 tier: "S"
 mode: "practical"
@@ -81,6 +82,13 @@ sources:
     url: "https://www.bsn.com.my/cms/upload/pdf/personal/wealth/asnb/variable/2026/phs_asn.pdf"
     publisher: "Amanah Saham Nasional Berhad"
     date: "2026-03-03"
+  - title: "Amanah Saham Bumiputera (ASB) Product Highlights Sheet"
+    url: "https://cms.myasnb.com.my/uploads/PHS_ASB_dd_25052026_b127277df2.pdf"
+    publisher: "Amanah Saham Nasional Berhad"
+    date: "2026-05-25"
+  - title: "Prospektus Induk ASNB — registered with the Securities Commission Malaysia; authoritative document for investor eligibility criteria"
+    url: "https://www.asnb.com.my/en/prospectus-product-highlight-sheet"
+    publisher: "Amanah Saham Nasional Berhad"
 
 entity: "Permodalan Nasional Berhad"
 relations:
@@ -99,8 +107,10 @@ keywords: ["Permodalan Nasional Berhad", "PNB", "ASNB", "Amanah Saham Bumiputera
 | --- | --- |
 | Name | Permodalan Nasional Berhad (PNB) |
 | Founded | 17 March 1978, as part of Malaysia's New Economic Policy |
+| Predecessor | Yayasan Pelaburan Bumiputra (YPB), established 9 January 1978 |
 | Mandate | To enhance the economic wealth of the Bumiputera community and all Malaysians |
 | AUM | RM364 billion (as at end-2025, up 4.5% year-on-year) |
+| AUM target | RM400 billion by 2027, under the LEAP-6 Strategic Plan |
 | Unit trust manager | Amanah Saham Nasional Berhad (ASNB), a wholly-owned subsidiary, established 22 May 1979 |
 | Funds managed by ASNB | 18 unit trust funds, roughly 280 billion units in circulation across more than 15 million accounts, held by about 13 million unique account holders |
 | Flagship fund | Amanah Saham Bumiputera (ASB), a fixed-price fund launched 2 January 1990 |
@@ -131,6 +141,13 @@ This split matters for one practical reason: complaints, account queries and
 transactions go to ASNB, not PNB. PNB's own role is upstream — investment
 strategy and capital allocation — visible mainly through the annual income
 distribution ASNB declares on PNB's behalf.
+
+The structure has its roots in the New Economic Policy: PNB was preceded by
+Yayasan Pelaburan Bumiputra (YPB), established on 9 January 1978 to foster
+equity ownership among the Bumiputera community. The basic mechanism has not
+changed since — PNB acquires shares in large Malaysian companies, holds them
+inside trust funds, and lets Malaysians buy into those holdings as smaller,
+more affordable units.
 
 ## Two pricing models, one manager
 
@@ -164,6 +181,10 @@ ASB is Bumiputera-restricted, but the eligible category is broader than
 - Malaysian citizens aged 18 and above of Siamese/Thai descent, Portuguese/Eurasian
   descent, or non-Bumiputera Muslim converts.
 
+The authoritative source for who may invest is the ASNB Master Prospectus, not
+the Product Highlights Sheet, and it frames the core Bumiputera category as
+Malays, the natives of Sabah and Sarawak, and the Orang Asli.
+
 A guardian from either eligible category may also open an **Akaun Remaja** for
 a Malaysian minor (valid birth certificate, under 18). A Remaja cannot request
 a redemption until age 12, and even then is capped at 200 units a week; the
@@ -181,6 +202,14 @@ Transaction terms, as published by ASNB:
 | Repurchase charge | None |
 | EPF Members Investment Scheme | Not applicable — ASB cannot be bought using EPF withdrawal funds |
 | Annual management fee | 0.35% p.a. of the fund's value (deed allows up to 1.0%) |
+| Fund category | Mixed Asset (fund type: Income) |
+| Asset allocation | Up to 90% in equities, up to 50% in other asset classes, minimum 5% in cash or liquid assets |
+| Benchmark | Maybank 12-Month Fixed Deposit Rate |
+
+Since 25 May 2026, ASB has been offered in two unit classes: Class A, with no
+zakat deduction, and Class B, which builds in a zakat-payment facility for
+Muslim investors. Both are the same fixed-price fund — same RM1.00 unit, same
+features — and differ only in zakat treatment.
 
 The 300,000-unit ceiling is not the original design: the limit for ASB and
 ASB 2 was raised to RM300,000 from RM200,000 starting in 2023, announced by
@@ -196,6 +225,13 @@ billion. The 2023–2025 distributions were 5.25, 5.75 and 5.75 sen per unit —
 that is, 5.25%, 5.75% and 5.75% on the RM1.00 unit — each above the Maybank
 12-month fixed deposit benchmark used for comparison (2.84%, 2.59% and 2.29%
 over the same years).
+
+The distribution is calculated on the average minimum monthly balance held in
+an account through the fund's financial year — so units held for the full year
+count for more than those deposited late — and the rate is not guaranteed, moving
+with the fund's realised gains and market conditions. The FY2025 payout was
+declared against a soft local equity market, with the FBM KLCI posting a price
+return of about -0.3% year-to-date over the period.
 
 ## ASN: the same manager, a different structure
 
@@ -222,6 +258,21 @@ For FY2025, ASN's net distribution was 1.81 sen per unit, with an annual
 total return of -0.14% against a benchmark return of -0.47% — a reminder
 that, unlike ASB, ASN's total return can and does turn negative, because its
 unit price is not fixed.
+
+## LEAP-6: where PNB is heading
+
+Behind the annual ASB headline sits PNB's current corporate strategy, the
+LEAP-6 Strategic Plan; 2025 was the second year of its implementation. Its
+stated priorities are growing net client inflows, delivering sustainable income
+distributions to unitholders, and strengthening PNB's proprietary capital. On
+the investment side, PNB is diversifying into global assets, private investments
+and real estate, and has signalled a cautious stance on the 2026 outlook amid
+global capital-market uncertainty.
+
+The plan carries a headline target of RM400 billion in assets under management
+by 2027, up from the RM364 billion reported for 2025. Across all 18 ASNB funds,
+total income distribution for 2025 came to RM15.3 billion — of which ASB's
+RM10.4 billion was the single largest component.
 
 ## Common mistakes
 

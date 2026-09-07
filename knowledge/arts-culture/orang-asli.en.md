@@ -4,6 +4,7 @@ title: "Orang Asli: Peninsular Malaysia's Indigenous Peoples, Three Main Groups 
 slug: "orang-asli"
 category: "arts-culture"
 subcategory: ["heritage"]
+alsoIn: ["glossary"]
 summary: "Orang Asli are the indigenous peoples of Peninsular Malaysia. This article explains who they are in law under the Aboriginal Peoples Act 1954 (Act 134), the official classification into three main groups — Negrito, Senoi and Proto-Malay — comprising 18 subgroups, their settlement distribution by state, and the role of the Department of Orang Asli Development (JAKOA) as the responsible agency. Written descriptively and neutrally based on official sources."
 tier: "S"
 mode: "narrative"
@@ -36,7 +37,7 @@ socialTitle: "Who Orang Asli are — three groups, 18 subgroups, and the agency 
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "3b8bf31d64fad1b1"
+sourceContentHash: "22c8505f8289ae57"
 
 status: "published"
 aiAssisted: true
@@ -73,6 +74,15 @@ sources:
   - title: "Perlembagaan Persekutuan — Perkara 8 dan Jadual Kesembilan"
     url: "https://lom.agc.gov.my/federal-constitution.php"
     publisher: "Pejabat Peguam Negara (AGC)"
+  - title: "Akta Orang Asli 1954 (Akta 134) — Cetakan Semula (teks penuh, terjemahan rasmi JPN, pindaan hingga 1 Januari 2006)"
+    url: "https://www.forestry.gov.my/images/stories/pdf/Akta/Akta%20Orang%20Asli.pdf"
+    publisher: "Pesuruhjaya Penyemak Undang-Undang Malaysia / Jabatan Peguam Negara (AGC)"
+  - title: "Special Report on the Demographics of Orang Asli (based on the 2020 Census) — PDF"
+    url: "https://www.dosm.gov.my/uploads/release-content/file_20260327154453.pdf"
+    publisher: "Jabatan Perangkaan Malaysia (DOSM)"
+  - title: "Special Report on the Demographic of Orang Asli 2020 (release page)"
+    url: "https://www.dosm.gov.my/portal-main/release-content/special-report-on-the-demographic-of-orang-asli-2020"
+    publisher: "Jabatan Perangkaan Malaysia (DOSM)"
 entity: "Orang Asli"
 relations:
   - { rel: "part-of", to: "malaysia" }
@@ -91,17 +101,19 @@ Yet behind that single term lies broad diversity: different languages, different
 
 Geographically, Orang Asli refers to the indigenous peoples of **Peninsular Malaysia**. Natives of Sabah and Sarawak are not classified as Orang Asli; they are classified separately as bumiputera of their respective states. According to official JAKOA data, no Orang Asli settlement is recorded in Penang, Perlis and the Federal Territories.
 
+A distinction in terminology is worth noting. "Orang Asli" is not the same as "**Orang Asal**". The term "Orang Asal" is broader and usually also encompasses the natives (indigenous communities) of Sabah and Sarawak, whereas "Orang Asli" refers specifically to the indigenous peoples of the Peninsula — the term used in federal law, as enshrined in the Aboriginal Peoples Act 1954.
+
 A person's status as Orang Asli is not merely a cultural label — it is defined in law. **Section 3 of the Aboriginal Peoples Act 1954 (Act 134)** sets out who is counted as Orang Asli. That definition links three elements:
 
 - **descent** — a person whose father is a member of an Orang Asli ethnic group;
 - **language** — who speaks an Orang Asli language; and
 - **way of life** — who habitually follows an Orang Asli way of life, custom and belief.
 
-The same Act also covers situations such as an adopted child raised as Orang Asli. Importantly, Section 3 provides that any **question of whether a person is or is not Orang Asli is to be decided by the Minister**. In other words, this status has a clear legal standing, not merely a matter of self-identification.
+The same Act also covers certain specific circumstances — among them a child adopted in infancy by an Orang Asli and brought up as an Orang Asli [Section 3(1)(b)], and a child of a union between an Orang Asli woman and a man of another race, provided the child habitually follows the Orang Asli way of life and becomes a member of an Orang Asli community [Section 3(1)(c)]. Section 3(2) also provides that an Orang Asli who adopts another religion does not necessarily cease to be an Orang Asli merely on that account, if he still follows the Orang Asli way of life. Importantly, Section 3 provides that any **question of whether a person is or is not Orang Asli is to be decided by the Minister**. In other words, this status has a clear legal standing, not merely a matter of self-identification.
 
 ## Three Main Groups and 18 Subgroups
 
-The Department of Orang Asli Development classifies Orang Asli communities into **three main ethnic groups** — Negrito, Senoi and Proto-Malay. Each group comprises six subgroups, making **18 subgroups** in total.
+The Department of Orang Asli Development classifies Orang Asli communities into **three main ethnic groups** — Negrito, Senoi and Proto-Malay. Each group comprises six subgroups, making **18 subgroups** in total. This division into three racial groups is also expressed in the interpretation under Section 2 of the Aboriginal Peoples Act 1954.
 
 This classification is the official set of categories used by JAKOA:
 
@@ -116,6 +128,8 @@ Each group has its own settlement characteristics and history, as described by J
 - **Negrito** are often described as among the earliest inhabitants of the Peninsula, with small groups scattered mainly across the northern region.
 - **Senoi** is the most numerous group. According to JAKOA, **Semai** is the largest Orang Asli subgroup by population — the 1993 census recorded more than **42,000 people** — with settlements along the Titiwangsa Range spanning Perak and Pahang.
 - **Proto-Malay** comprises subgroups inhabiting the central and southern parts of the Peninsula. Among these subgroups, JAKOA records **Kanaq** as among the smallest by population.
+
+In terms of the relative size of the three groups, the Department of Statistics Malaysia (DOSM) *Special Report on the Demographics of Orang Asli*, based on the 2020 Census, recorded Senoi as the largest group (53.5 percent), followed by Proto-Malay (44.4 percent) and Negrito (2.1 percent).
 
 Each of these subgroups speaks a different language or dialect. This linguistic diversity is part of the broader picture of [languages spoken in Malaysia](/en/malaysia/languages-spoken).
 
@@ -137,6 +151,8 @@ Orang Asli settlement is not evenly spread across the Peninsula. JAKOA's officia
 
 Based on these state figures, the total recorded in the dashboard is approximately **209,575 people**. Two states — Pahang and Perak — account for more than half of that total. This picture complements the overall [composition of Malaysia's population](/en/malaysia/population-composition).
 
+As a complementary source, the Department of Statistics Malaysia (DOSM), in its *Special Report on the Demographics of Orang Asli* based on the 2020 Census, recorded **213,461 people**, with a projection of about **227,900 people** by 2025 at an average growth rate of roughly **1.2 percent** per year. The DOSM and JAKOA dashboard figures differ slightly because of their different sources and reference dates.
+
 ## JAKOA: The Responsible Agency
 
 The Government agency responsible for Orang Asli affairs is the **Department of Orang Asli Development (JAKOA)**, which now sits under the Ministry of Rural and Regional Development (Kementerian Kemajuan Desa dan Wilayah).
@@ -148,6 +164,12 @@ The administration of Orang Asli affairs has a long history. According to JAKOA'
 - **15 January 2011** — the department's name was changed from the Department of Orang Asli Affairs (JHEOA) to the **Department of Orang Asli Development (JAKOA)**, in line with an expanded role towards community development.
 
 JAKOA states that the basic purpose of its establishment is to protect Orang Asli and their way of life from rapid development and exploitation by outside parties, while also providing facilities and assistance in the fields of education, health and socio-economic development.
+
+## Land and Protection Under the Act
+
+Besides defining who Orang Asli are, the Aboriginal Peoples Act 1954 also provides mechanisms relating to land and settlement. Among them are provisions for gazetting **aboriginal areas** (Section 6) and **aboriginal reserves** (Section 7), together with the related administrative powers.
+
+The extent to which these provisions protect the customary land rights of Orang Asli is an aspect that has been actively discussed and has been brought before the courts in a number of cases. There are various views on it — some parties emphasise the protection that exists under the Act and court decisions, while others highlight its limits. Here we merely note that the land issue is one of the actively discussed aspects of Orang Asli affairs.
 
 ## Protection Under the Constitution
 

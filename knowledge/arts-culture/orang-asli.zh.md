@@ -4,6 +4,7 @@ title: "原住民（Orang Asli）：马来西亚半岛原住民族群、三大�
 slug: "orang-asli"
 category: "arts-culture"
 subcategory: ["heritage"]
+alsoIn: ["glossary"]
 summary: "原住民（Orang Asli）是马来西亚半岛的原住民族群。本文说明他们在1954年原住民法令（Akta 134）下的法律地位、JAKOA所采用的官方分类——分为三大族群：尼格利陀人（Negrito）、塞诺伊人（Senoi）与原马来人（Proto-Malay）——共涵盖18个支系，按州属划分的聚居分布，以及原住民发展局（JAKOA）作为负责机构的角色。本文根据官方资料以描述性与中立的方式撰写。"
 tier: "S"
 mode: "narrative"
@@ -36,7 +37,7 @@ socialTitle: "谁是原住民（Orang Asli）——三大族群、18个支系，
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "3b8bf31d64fad1b1"
+sourceContentHash: "22c8505f8289ae57"
 
 status: "published"
 aiAssisted: true
@@ -73,6 +74,15 @@ sources:
   - title: "Perlembagaan Persekutuan — Perkara 8 dan Jadual Kesembilan"
     url: "https://lom.agc.gov.my/federal-constitution.php"
     publisher: "Pejabat Peguam Negara (AGC)"
+  - title: "Akta Orang Asli 1954 (Akta 134) — Cetakan Semula (teks penuh, terjemahan rasmi JPN, pindaan hingga 1 Januari 2006)"
+    url: "https://www.forestry.gov.my/images/stories/pdf/Akta/Akta%20Orang%20Asli.pdf"
+    publisher: "Pesuruhjaya Penyemak Undang-Undang Malaysia / Jabatan Peguam Negara (AGC)"
+  - title: "Special Report on the Demographics of Orang Asli（基于2020年人口普查）— PDF"
+    url: "https://www.dosm.gov.my/uploads/release-content/file_20260327154453.pdf"
+    publisher: "Jabatan Perangkaan Malaysia (DOSM)"
+  - title: "Special Report on the Demographic of Orang Asli 2020（发布页面）"
+    url: "https://www.dosm.gov.my/portal-main/release-content/special-report-on-the-demographic-of-orang-asli-2020"
+    publisher: "Jabatan Perangkaan Malaysia (DOSM)"
 entity: "Orang Asli"
 relations:
   - { rel: "part-of", to: "malaysia" }
@@ -91,17 +101,19 @@ keywords: ["Orang Asli", "masyarakat peribumi", "Negrito", "Senoi", "Melayu-Prot
 
 从地理上看，「原住民」指的是**马来西亚半岛**的原住民族群。沙巴与砂拉越的原住民并不被归类为原住民（Orang Asli）；他们被另行归类为各自州属的土著（bumiputera）。根据JAKOA的官方数据，槟城、玻璃市与联邦直辖区并无原住民聚居点的记录。
 
+有一个用语上的区别值得留意。「原住民（Orang Asli）」并不等同于「**原住族群（Orang Asal）**」。「原住族群」一词范围更广，通常还涵盖沙巴与砂拉越的土著（anak negeri，即原住民族），而「原住民」则特指半岛的原住民族——这也是联邦法律中所使用的用语，正如《1954年原住民法令》所载明的那样。
+
 一个人是否具有原住民身份，并非单纯的文化标签——它是由法律界定的。**1954年原住民法令（Akta 134）s.3**规定了谁被视为原住民。该定义将三个要素相互连结：
 
 - **血统**——父亲为某原住民族群成员的人；
 - **语言**——使用原住民语言的人；及
 - **生活方式**——一般依循原住民生活方式、习俗与信仰的人。
 
-同一法令也涵盖诸如被收养并以原住民身份抚养长大的儿童等情况。重要的是，s.3规定，任何有关**某人是否为原住民的问题，均应由部长裁定**。换言之，这项身份具有明确的法律地位，而不仅仅是自我认同的问题。
+同一法令也涵盖若干特定情形——包括在婴儿时期被原住民收养并按原住民方式抚养长大的儿童［s.3(1)(b)］，以及原住民女性与其他族群男性结合所生的子女，条件是该子女一般依循原住民生活方式并成为原住民社群的成员［s.3(1)(c)］。s.3(2)也规定，原住民若改信其他宗教，只要他仍依循原住民生活方式，则不必然仅因此而不再是原住民。重要的是，s.3规定，任何有关**某人是否为原住民的问题，均应由部长裁定**。换言之，这项身份具有明确的法律地位，而不仅仅是自我认同的问题。
 
 ## 三大族群与18个支系
 
-原住民发展局（Jabatan Kemajuan Orang Asli，JAKOA）将原住民族群分为**三大族群**——尼格利陀人（Negrito）、塞诺伊人（Senoi）与原马来人（Proto-Malay）。每个族群各包含六个支系，合计共**18个支系**。
+原住民发展局（Jabatan Kemajuan Orang Asli，JAKOA）将原住民族群分为**三大族群**——尼格利陀人（Negrito）、塞诺伊人（Senoi）与原马来人（Proto-Malay）。每个族群各包含六个支系，合计共**18个支系**。将其划分为三大族群，也明载于《1954年原住民法令》第2条的释义之中。
 
 以下是JAKOA所采用的官方分类：
 
@@ -116,6 +128,8 @@ keywords: ["Orang Asli", "masyarakat peribumi", "Negrito", "Senoi", "Melayu-Prot
 - **尼格利陀人（Negrito）**常被形容为半岛最早的居民之一，小规模群体主要分散在北部地区。
 - **塞诺伊人（Senoi）**是人数最多的族群。根据JAKOA，**塞芒人（Semai）**是原住民中人数最多的支系——1993年的人口普查记录超过**42,000人**——聚居于蒂蒂旺沙山脉（Banjaran Titiwangsa）沿线，涵盖霹雳与彭亨。
 - **原马来人（Proto-Malay）**涵盖聚居于半岛中部与南部地区的支系。在这些支系当中，JAKOA记录**Kanaq**人数为最少之一。
+
+就三大族群的相对规模而言，马来西亚统计局（DOSM）基于2020年人口普查的《原住民人口特别报告》（*Special Report on the Demographics of Orang Asli*）记录塞诺伊人为最大族群（53.5%），其次是原马来人（44.4%）与尼格利陀人（2.1%）。
 
 这些支系各自使用不同的语言或方言。这种语言多样性，是[马来西亚的语言](/zh/malaysia/languages-spoken)这幅更广图景的一部分。
 
@@ -137,6 +151,8 @@ keywords: ["Orang Asli", "masyarakat peribumi", "Negrito", "Senoi", "Melayu-Prot
 
 根据这些州属数字，该数据看板记录的总数约为**209,575人**。彭亨与霹雳两个州属合计占了该总数的一半以上。这一图景补充了[马来西亚人口构成](/zh/malaysia/population-composition)的整体面貌。
 
+作为补充来源，马来西亚统计局（DOSM）在基于2020年人口普查的《原住民人口特别报告》中记录为**213,461人**，并预计到2025年约为**227,900人**，年均增长率约为**1.2%**。DOSM与JAKOA看板的数字略有出入，是因为两者的来源与参考日期不同。
+
 ## JAKOA：负责的机构
 
 负责处理原住民事务的政府机构是**原住民发展局（Jabatan Kemajuan Orang Asli，JAKOA）**，目前隶属于乡村及区域发展部（Kementerian Kemajuan Desa dan Wilayah）。
@@ -148,6 +164,12 @@ keywords: ["Orang Asli", "masyarakat peribumi", "Negrito", "Senoi", "Melayu-Prot
 - **2011年1月15日**——部门名称由原住民事务局（Jabatan Hal Ehwal Orang Asli，JHEOA）更名为**原住民发展局（Jabatan Kemajuan Orang Asli，JAKOA）**，以配合朝向社群发展方向扩大的职能。
 
 JAKOA表示，其成立的基本宗旨，是保护原住民及其生活方式，使其免受快速发展与外部势力剥削的影响，同时在教育、医疗与社会经济发展方面提供设施与援助。
+
+## 法令下的土地与保护
+
+除了界定谁是原住民，《1954年原住民法令》也提供与土地及居住地相关的机制。其中包括宪报公布**原住民地区**（第6条）与**原住民保留地**（第7条）的规定，以及相关的行政权力。
+
+这些规定在多大程度上保护原住民的习俗土地权，是一个被积极讨论的方面，并在若干案件中被诉诸法庭。对此存在各种不同看法——一些方面强调法令与法庭判决之下现有的保护，另一些方面则突显其局限。在此我们仅记录：土地问题是原住民事务中被积极讨论的一个方面。
 
 ## 宪法下的保护
 

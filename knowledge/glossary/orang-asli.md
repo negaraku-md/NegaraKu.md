@@ -37,7 +37,7 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "published"
+status: "archived"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03

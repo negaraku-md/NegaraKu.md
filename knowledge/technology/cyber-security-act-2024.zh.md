@@ -5,6 +5,7 @@ seoTitle: "2024年网络安全法令（Act 854）：NCII、通报与执照"
 slug: "cyber-security-act-2024"
 category: "technology"
 subcategory: ["cybersecurity"]
+alsoIn: ["business"]
 summary: "马来西亚《2024年网络安全法令》（Act 854）已于2024年8月26日生效。该法令划定11个国家关键信息基础设施领域，规定强制性事故通报与稽核义务，并由国家网络安全机构（NACSA）对两类网络安全服务供应商实施执照管制。"
 
 tier: "1"
@@ -39,7 +40,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b26c1d94188332f9"
+sourceContentHash: "3cca544d70c1185a"
 
 status: "published"
 aiAssisted: true
@@ -161,6 +162,8 @@ keywords: ["Cyber Security Act 2024", "Act 854", "NCII", "NACSA", "cybersecurity
 
 - **至少每年一次**进行网络安全风险评估；以及
 - **至少每两年一次**接受经核准稽核员的稽核。
+
+这些是下限而非上限：在情况需要时，总执行长可指示实体更频繁地进行风险评估或稽核——例如，在其基础设施发生重大变更之后。
 
 **4. 保存记录并予以配合。** 实体须维持该法令及其条例所要求的记录，回应总执行长的指示，并参与监管者所命令的演习与补救。
 

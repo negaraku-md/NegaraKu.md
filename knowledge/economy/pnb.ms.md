@@ -4,6 +4,7 @@ title: "Permodalan Nasional Berhad: Pengurus di Sebalik ASB dan ASN"
 slug: "pnb"
 category: "economy"
 subcategory: ["institutions"]
+alsoIn: ["companies"]
 summary: "Halaman entiti untuk Permodalan Nasional Berhad (PNB) dan pengurus amanah sahamnya, ASNB — apa yang membezakan harga tetap RM1 seunit ASB dan ASN daripada dana ekuiti biasa, serta peraturan kelayakan yang terpakai sebelum anda boleh membuka akaun."
 tier: "S"
 mode: "practical"
@@ -37,7 +38,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "499a1de2289269bf"
+sourceContentHash: "1c4aaf1e059aa22b"
 
 status: "published"
 aiAssisted: true
@@ -82,6 +83,13 @@ sources:
     url: "https://www.bsn.com.my/cms/upload/pdf/personal/wealth/asnb/variable/2026/phs_asn.pdf"
     publisher: "Amanah Saham Nasional Berhad"
     date: "2026-03-03"
+  - title: "Amanah Saham Bumiputera (ASB) Product Highlights Sheet"
+    url: "https://cms.myasnb.com.my/uploads/PHS_ASB_dd_25052026_b127277df2.pdf"
+    publisher: "Amanah Saham Nasional Berhad"
+    date: "2026-05-25"
+  - title: "Prospektus Induk ASNB — didaftarkan dengan Suruhanjaya Sekuriti Malaysia; dokumen berautoriti bagi kriteria kelayakan pelabur"
+    url: "https://www.asnb.com.my/en/prospectus-product-highlight-sheet"
+    publisher: "Amanah Saham Nasional Berhad"
 
 entity: "Permodalan Nasional Berhad"
 relations:
@@ -100,8 +108,10 @@ keywords: ["Permodalan Nasional Berhad", "PNB", "ASNB", "Amanah Saham Bumiputera
 | --- | --- |
 | Nama | Permodalan Nasional Berhad (PNB) |
 | Ditubuhkan | 17 Mac 1978, sebagai sebahagian daripada Dasar Ekonomi Baru Malaysia |
+| Pendahulu | Yayasan Pelaburan Bumiputra (YPB), ditubuhkan 9 Januari 1978 |
 | Mandat | Untuk meningkatkan kekayaan ekonomi masyarakat Bumiputera dan semua rakyat Malaysia |
 | AUM | RM364 bilion (setakat akhir 2025, meningkat 4.5% tahun ke tahun) |
+| Sasaran AUM | RM400 bilion menjelang 2027, di bawah Pelan Strategik LEAP-6 |
 | Pengurus amanah saham | Amanah Saham Nasional Berhad (ASNB), anak syarikat milik penuh, ditubuhkan 22 Mei 1979 |
 | Dana yang diuruskan oleh ASNB | 18 dana amanah saham, kira-kira 280 bilion unit beredar merentasi lebih 15 juta akaun, dipegang oleh kira-kira 13 juta pemegang akaun unik |
 | Dana unggulan | Amanah Saham Bumiputera (ASB), dana harga tetap yang dilancarkan pada 2 Januari 1990 |
@@ -136,6 +146,13 @@ peringkat huluan — strategi pelaburan dan peruntukan modal — yang kelihatan
 terutamanya melalui pengagihan pendapatan tahunan yang diisytiharkan oleh
 ASNB bagi pihak PNB.
 
+Struktur ini berakar umbi dalam Dasar Ekonomi Baru: PNB didahului oleh Yayasan
+Pelaburan Bumiputra (YPB), yang ditubuhkan pada 9 Januari 1978 untuk memupuk
+pemilikan ekuiti dalam kalangan masyarakat Bumiputera. Mekanisme asasnya tidak
+berubah sejak itu — PNB memperoleh saham dalam syarikat-syarikat besar Malaysia,
+memegangnya di dalam dana amanah, dan membolehkan rakyat Malaysia melabur dalam
+pegangan itu melalui unit-unit kecil yang lebih mampu milik.
+
 ## Dua model harga, satu pengurus
 
 18 dana ASNB terbahagi kepada dua kumpulan yang berfungsi secara asasnya
@@ -169,6 +186,10 @@ Akaun Dewasa (akaun dewasa):
 - Warganegara Malaysia berusia 18 tahun ke atas yang berketurunan Siam/Thai,
   keturunan Portugis/Eurasia, atau saudara baru bukan Bumiputera.
 
+Sumber berautoriti bagi siapa yang boleh melabur ialah Prospektus Induk ASNB,
+bukan Product Highlights Sheet, dan ia merangka kategori teras Bumiputera
+sebagai orang Melayu, anak negeri Sabah dan Sarawak, serta Orang Asli.
+
 Seorang penjaga daripada mana-mana kategori yang layak juga boleh membuka
 **Akaun Remaja** bagi kanak-kanak Malaysia yang bawah umur (sijil kelahiran
 yang sah, bawah 18 tahun). Seorang Remaja tidak boleh memohon penebusan
@@ -187,6 +208,14 @@ Terma transaksi, seperti yang diterbitkan oleh ASNB:
 | Caj belian balik | Tiada |
 | Skim Pelaburan Ahli KWSP | Tidak berkenaan — ASB tidak boleh dibeli menggunakan dana pengeluaran KWSP |
 | Yuran pengurusan tahunan | 0.35% setahun daripada nilai dana (surat ikatan membenarkan sehingga 1.0%) |
+| Kategori dana | Aset Campuran (jenis dana: Pendapatan) |
+| Peruntukan aset | Sehingga 90% dalam ekuiti, sehingga 50% dalam kelas aset lain, minimum 5% dalam tunai atau aset mudah tunai |
+| Penanda aras | Kadar Deposit Tetap 12 Bulan Maybank |
+
+Mulai 25 Mei 2026, ASB ditawarkan dalam dua kelas unit: Kelas A, tanpa potongan
+zakat, dan Kelas B, yang menyediakan kemudahan pembayaran zakat untuk pelabur
+Muslim. Kedua-duanya merupakan dana harga tetap yang sama — unit RM1.00 yang
+sama, ciri-ciri yang sama — dan berbeza hanya dari segi layanan zakat.
 
 Siling 300,000 unit ini bukan reka bentuk asal: had bagi ASB dan ASB 2 telah
 dinaikkan kepada RM300,000 daripada RM200,000 mulai 2023, diumumkan oleh PNB
@@ -204,6 +233,14 @@ menjadikan jumlah kumulatif pengagihan RM206.7 bilion. Pengagihan bagi
 5.75% ke atas unit RM1.00 — setiap satunya melebihi penanda aras deposit
 tetap 12 bulan Maybank yang digunakan untuk perbandingan (2.84%, 2.59% dan
 2.29% sepanjang tahun yang sama).
+
+Pengagihan itu dikira berdasarkan baki bulanan minimum purata yang dipegang
+dalam sesuatu akaun sepanjang tahun kewangan dana — jadi unit yang dipegang
+sepanjang tahun dikira lebih daripada unit yang didepositkan lewat — dan kadar
+itu tidak dijamin, berubah mengikut keuntungan terlaksana dana serta keadaan
+pasaran. Bayaran FY2025 diisytiharkan dalam keadaan pasaran ekuiti tempatan
+yang lembap, dengan FBM KLCI mencatatkan pulangan harga kira-kira -0.3% bagi
+tempoh tahun hingga tarikh berkenaan.
 
 ## ASN: pengurus yang sama, struktur yang berbeza
 
@@ -230,6 +267,21 @@ Bagi FY2025, pengagihan bersih ASN ialah 1.81 sen seunit, dengan pulangan
 keseluruhan tahunan -0.14% berbanding pulangan penanda aras -0.47% —
 peringatan bahawa, tidak seperti ASB, pulangan keseluruhan ASN boleh dan
 pernah menjadi negatif, kerana harga unitnya tidak tetap.
+
+## LEAP-6: hala tuju PNB
+
+Di sebalik tajuk utama ASB tahunan terletak strategi korporat semasa PNB, iaitu
+Pelan Strategik LEAP-6; 2025 merupakan tahun kedua pelaksanaannya. Keutamaan
+yang dinyatakan ialah menumbuhkan aliran masuk bersih pelanggan, menyampaikan
+pengagihan pendapatan yang mampan kepada pemegang unit, dan mengukuhkan modal
+proprietari PNB. Dari segi pelaburan, PNB mempelbagaikan portfolio ke dalam aset
+global, pelaburan swasta dan hartanah, serta menyatakan pendirian berhati-hati
+terhadap prospek 2026 berikutan ketidaktentuan pasaran modal global.
+
+Pelan itu membawa sasaran utama RM400 bilion aset di bawah pengurusan menjelang
+2027, meningkat daripada RM364 bilion yang dilaporkan bagi 2025. Merentasi
+kesemua 18 dana ASNB, jumlah pengagihan pendapatan bagi 2025 berjumlah RM15.3
+bilion — dan RM10.4 bilion daripada ASB merupakan komponen tunggal terbesar.
 
 ## Kesilapan biasa
 

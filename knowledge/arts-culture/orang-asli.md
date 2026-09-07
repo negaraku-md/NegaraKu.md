@@ -4,6 +4,7 @@ title: "Orang Asli: Masyarakat Peribumi Semenanjung, Tiga Kumpulan Utama dan Per
 slug: "orang-asli"
 category: "arts-culture"
 subcategory: ["heritage"]
+alsoIn: ["glossary"]
 summary: "Orang Asli ialah masyarakat peribumi Semenanjung Malaysia. Rencana ini menerangkan siapa mereka dari segi undang-undang di bawah Akta Orang Asli 1954 (Akta 134), pengelasan rasmi kepada tiga kumpulan utama — Negrito, Senoi dan Melayu-Proto — yang merangkumi 18 suku kaum, taburan penempatan mengikut negeri, serta peranan Jabatan Kemajuan Orang Asli (JAKOA) sebagai agensi yang bertanggungjawab. Ditulis secara deskriptif dan neutral berdasarkan sumber rasmi."
 tier: "S"
 mode: "narrative"
@@ -71,6 +72,15 @@ sources:
   - title: "Perlembagaan Persekutuan — Perkara 8 dan Jadual Kesembilan"
     url: "https://lom.agc.gov.my/federal-constitution.php"
     publisher: "Pejabat Peguam Negara (AGC)"
+  - title: "Akta Orang Asli 1954 (Akta 134) — Cetakan Semula (teks penuh, terjemahan rasmi JPN, pindaan hingga 1 Januari 2006)"
+    url: "https://www.forestry.gov.my/images/stories/pdf/Akta/Akta%20Orang%20Asli.pdf"
+    publisher: "Pesuruhjaya Penyemak Undang-Undang Malaysia / Jabatan Peguam Negara (AGC)"
+  - title: "Special Report on the Demographics of Orang Asli (berdasarkan Banci 2020) — PDF"
+    url: "https://www.dosm.gov.my/uploads/release-content/file_20260327154453.pdf"
+    publisher: "Jabatan Perangkaan Malaysia (DOSM)"
+  - title: "Special Report on the Demographic of Orang Asli 2020 (halaman rilis)"
+    url: "https://www.dosm.gov.my/portal-main/release-content/special-report-on-the-demographic-of-orang-asli-2020"
+    publisher: "Jabatan Perangkaan Malaysia (DOSM)"
 entity: "Orang Asli"
 relations:
   - { rel: "part-of", to: "malaysia" }
@@ -89,17 +99,19 @@ Namun di sebalik satu istilah itu terkandung kepelbagaian yang luas: bahasa yang
 
 Dari segi geografi, Orang Asli merujuk masyarakat peribumi **Semenanjung Malaysia**. Peribumi di Sabah dan Sarawak tidak dikelaskan sebagai Orang Asli; mereka dikelaskan secara berasingan sebagai bumiputera negeri masing-masing. Menurut data rasmi JAKOA, tiada penempatan Orang Asli dicatatkan di Pulau Pinang, Perlis dan Wilayah Persekutuan.
 
+Satu perbezaan istilah wajar diberi perhatian. "Orang Asli" tidak sama dengan "**Orang Asal**". Istilah "Orang Asal" bersifat lebih luas dan lazimnya turut merangkumi anak negeri (masyarakat peribumi) Sabah dan Sarawak, manakala "Orang Asli" merujuk khusus kepada masyarakat peribumi Semenanjung — istilah yang digunakan dalam undang-undang persekutuan, sebagaimana termaktub dalam Akta Orang Asli 1954.
+
 Status seseorang sebagai Orang Asli bukan sekadar istilah budaya — ia ditakrifkan dalam undang-undang. **Seksyen 3 Akta Orang Asli 1954 (Akta 134)** menetapkan siapa yang dikira sebagai Orang Asli. Takrifan itu mengaitkan tiga unsur:
 
 - **keturunan** — seseorang yang bapanya merupakan anggota sesuatu kumpulan etnik Orang Asli;
 - **bahasa** — yang menuturkan bahasa Orang Asli; dan
 - **cara hidup** — yang lazimnya mengikut cara hidup, adat dan kepercayaan Orang Asli.
 
-Akta yang sama juga meliputi keadaan seperti anak angkat yang dibesarkan sebagai Orang Asli. Yang penting, Seksyen 3 memperuntukkan bahawa apa-apa **persoalan sama ada seseorang itu Orang Asli atau tidak hendaklah diputuskan oleh Menteri**. Dengan kata lain, status ini mempunyai kedudukan undang-undang yang jelas, bukan sekadar pengenalan diri.
+Akta yang sama turut merangkumi beberapa keadaan tertentu — antaranya kanak-kanak yang diambil sebagai anak angkat semasa bayi oleh Orang Asli dan dibesarkan sebagai Orang Asli [Seksyen 3(1)(b)], dan anak daripada penyatuan antara seorang perempuan Orang Asli dengan seorang lelaki daripada kaum lain, dengan syarat anak itu lazimnya mengikut cara hidup Orang Asli dan menjadi anggota masyarakat Orang Asli [Seksyen 3(1)(c)]. Seksyen 3(2) turut memperuntukkan bahawa seseorang Orang Asli yang memeluk agama lain tidak semestinya terhenti menjadi Orang Asli semata-mata kerana itu, jika dia masih mengikut cara hidup Orang Asli. Yang penting, Seksyen 3 memperuntukkan bahawa apa-apa **persoalan sama ada seseorang itu Orang Asli atau tidak hendaklah diputuskan oleh Menteri**. Dengan kata lain, status ini mempunyai kedudukan undang-undang yang jelas, bukan sekadar pengenalan diri.
 
 ## Tiga kumpulan utama dan 18 suku kaum
 
-Jabatan Kemajuan Orang Asli mengelaskan masyarakat Orang Asli kepada **tiga kumpulan etnik utama** — Negrito, Senoi dan Melayu-Proto. Setiap kumpulan mengandungi enam suku kaum, menjadikan jumlah keseluruhan **18 suku kaum**.
+Jabatan Kemajuan Orang Asli mengelaskan masyarakat Orang Asli kepada **tiga kumpulan etnik utama** — Negrito, Senoi dan Melayu-Proto. Setiap kumpulan mengandungi enam suku kaum, menjadikan jumlah keseluruhan **18 suku kaum**. Pembahagian kepada tiga kumpulan kaum ini juga tersurat dalam tafsiran Seksyen 2 Akta Orang Asli 1954.
 
 Pengelasan ini ialah kategori rasmi yang digunakan JAKOA:
 
@@ -114,6 +126,8 @@ Setiap kumpulan mempunyai ciri penempatan dan sejarah yang tersendiri, seperti y
 - **Negrito** sering disebut sebagai antara penduduk terawal di Semenanjung, dengan kelompok kecil yang tersebar terutamanya di kawasan utara.
 - **Senoi** merupakan kumpulan yang paling ramai. Menurut JAKOA, **Semai** ialah suku kaum Orang Asli yang paling besar bilangannya — banci tahun 1993 mencatatkan lebih **42,000 orang** — dengan penempatan di sepanjang Banjaran Titiwangsa merangkumi Perak dan Pahang.
 - **Melayu-Proto** merangkumi suku kaum yang mendiami kawasan tengah dan selatan Semenanjung. Antara suku kaum ini, JAKOA mencatatkan **Kanaq** sebagai antara yang paling kecil bilangannya.
+
+Dari segi saiz relatif ketiga-tiga kumpulan, Laporan Demografi Orang Asli oleh Jabatan Perangkaan Malaysia (DOSM) berdasarkan Banci 2020 mencatatkan Senoi sebagai kumpulan terbesar (53.5 peratus), diikuti Melayu-Proto (44.4 peratus) dan Negrito (2.1 peratus).
 
 Setiap suku kaum ini menuturkan bahasa atau dialek yang berbeza. Kepelbagaian bahasa ini sebahagian daripada gambaran lebih luas tentang [bahasa-bahasa yang dituturkan di Malaysia](/malaysia/languages-spoken).
 
@@ -135,6 +149,8 @@ Penempatan Orang Asli tidak sekata di seluruh Semenanjung. Papan pemuka data ras
 
 Berdasarkan angka negeri ini, jumlah keseluruhan yang dicatatkan dalam papan pemuka itu ialah kira-kira **209,575 orang**. Dua negeri — Pahang dan Perak — menyumbang lebih separuh daripada jumlah tersebut. Gambaran ini melengkapkan [komposisi penduduk Malaysia](/malaysia/population-composition) secara keseluruhan.
 
+Sebagai sumber pelengkap, Jabatan Perangkaan Malaysia (DOSM) dalam Laporan Demografi Orang Asli berdasarkan Banci 2020 mencatatkan **213,461 orang**, dengan unjuran kira-kira **227,900 orang** menjelang 2025 pada kadar pertumbuhan purata lebih kurang **1.2 peratus** setahun. Angka DOSM dan papan pemuka JAKOA berbeza sedikit kerana sumber serta tarikh rujukan yang berlainan.
+
 ## JAKOA: agensi yang bertanggungjawab
 
 Agensi Kerajaan yang dipertanggungjawabkan terhadap hal ehwal Orang Asli ialah **Jabatan Kemajuan Orang Asli (JAKOA)**, yang kini berada di bawah Kementerian Kemajuan Desa dan Wilayah.
@@ -146,6 +162,12 @@ Pentadbiran hal ehwal Orang Asli mempunyai sejarah yang panjang. Menurut catatan
 - **15 Januari 2011** — nama jabatan ditukar daripada Jabatan Hal Ehwal Orang Asli (JHEOA) kepada **Jabatan Kemajuan Orang Asli (JAKOA)**, sejajar dengan peranan yang diperluas ke arah pembangunan masyarakat.
 
 JAKOA menyatakan tujuan asas penubuhannya adalah untuk melindungi Orang Asli dan cara hidup mereka daripada kepesatan pembangunan dan eksploitasi pihak luar, di samping menyediakan kemudahan serta bantuan dalam bidang pendidikan, kesihatan dan pembangunan sosioekonomi.
+
+## Tanah dan perlindungan di bawah Akta
+
+Selain mentakrifkan siapa Orang Asli, Akta Orang Asli 1954 turut menyediakan mekanisme berkaitan tanah dan penempatan. Antaranya ialah peruntukan bagi mewartakan **kawasan orang asli** (Seksyen 6) dan **rizab orang asli** (Seksyen 7), berserta kuasa pentadbiran yang berkaitan.
+
+Sejauh mana peruntukan-peruntukan ini melindungi hak tanah adat Orang Asli merupakan aspek yang aktif diperbincangkan dan telah dibawa ke mahkamah dalam beberapa kes. Terdapat pelbagai pandangan mengenainya — sebahagian pihak menekankan perlindungan yang sedia ada di bawah Akta dan keputusan mahkamah, manakala sebahagian yang lain menyoroti had-hadnya. Di sini kita hanya mencatatkan bahawa isu tanah merupakan salah satu aspek yang aktif diperbincangkan dalam hal ehwal Orang Asli.
 
 ## Perlindungan di bawah Perlembagaan
 
