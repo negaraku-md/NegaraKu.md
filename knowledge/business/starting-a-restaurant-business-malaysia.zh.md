@@ -33,7 +33,7 @@ faq:
     a: "全国最低薪金为每月 RM1,700，由《2024年最低薪金令》订定。它自 2025 年 2 月 1 日起适用于拥有五名或以上员工的雇主，并自 2025 年 8 月 1 日起适用于所有其余雇主——因此自 2025 年 8 月起，无论规模大小，它几乎涵盖每一家餐厅。"
 
 lang: "zh"
-sourceContentHash: "4dd19337cd15a96b"
+sourceContentHash: "ae31b5227ff37276"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -51,7 +51,7 @@ revisions:
 verificationNeeded:
   - "生意注册和地方政府费用（SSM 企业/Sdn Bhd 费用；PBT 场所和招牌执照费用，因议会和楼面面积而异）源自二手指南，仅供参考——在公布数字前，请对照 SSM 的费用表和特定地方政府（DBKL/MBPJ/MBSA）核实。"
   - "食品处理员培训和伤寒疫苗接种的确切条例编号（通常引用为《2009年食品卫生条例》第 30 和 31 条）、'终身有效'证书的变更，以及伤寒疫苗的续接间隔，应在引用具体编号前对照 AGC 公布的《2009年食品卫生条例》逐字核实。"
-  - "现行 RMCD 关于食品与饮料的服务税指南 URL 应在 mysst.customs.gov.my 上重新定位（较早的版本已于 2024 年 4 月撤回并更换）；同时应对照现行指南核实所供应酒精饮料的处理方式（据报为 8%，而食品为 6%）。EPF 7 天和 SOCSO 30 天的雇主注册期限应对照 KWSP 和 PERKESO 核实。"
+  - "请对照现行 RMCD 关于食品与饮料的服务税指南，核实所供应酒精饮料的服务税处理方式（据报为 8%，而食品为 6%）。另外，通常引用的新雇主须在 30 天内注册 SOCSO/EIS 的期限，无法对照 PERKESO 的一手来源加以证实——所找到的唯一 30 天期限适用于雇主身份的终止，而非新雇主注册——因此请向 PERKESO 核实现行的注册时限。（EPF 7 天注册期限已确认：《1991年公积金（EPF）法令》第 41(1) 条。）"
 
 updated: 2026-09-07
 sources:
@@ -67,6 +67,9 @@ sources:
   - title: "SSM Business and Company Registration (ezBIZ / MyCoID)"
     url: "https://www.ssm.com.my/"
     publisher: "Companies Commission of Malaysia (SSM)"
+  - title: "Employer Registration Responsibilities (EPF Act 1991, section 41)"
+    url: "https://www.kwsp.gov.my/en/employer/responsibilities/registration"
+    publisher: "Employees Provident Fund (KWSP)"
 
 entity: "Restaurant / F&B Business (Malaysia)"
 relations:
@@ -126,8 +129,8 @@ keywords: ["start a restaurant malaysia", "how to open a restaurant malaysia", "
 
 招聘会带来一系列雇主义务：
 
-- **EPF（KWSP）**——注册为雇主并向雇员公积金缴款；
-- **SOCSO 和 EIS（PERKESO）**——注册社会保障和就业保险；
+- **EPF（KWSP）**——在你的首名员工之后 **7天内**登记为雇主（《1991年公积金（EPF）法令》第 41(1) 条），并向雇员公积金缴款；
+- **SOCSO 和 EIS（PERKESO）**——在一个合并流程中注册社会保险和就业保险；任何拥有一名或以上员工的雇主都必须注册（招聘时应及时注册，并向 PERKESO 核实现行时限）；
 - **《1955年就业法令》**——关于工时、休息日、假期和加班的基本条款；以及
 - **每月 RM1,700 的最低薪金**（《2024年最低薪金令》），自 2025 年 8 月起，它适用于几乎所有雇主，无论规模大小。
 

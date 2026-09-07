@@ -50,7 +50,7 @@ revisions:
 verificationNeeded:
   - "Business-registration and local-council fees (SSM enterprise/Sdn Bhd fees; PBT premise and signboard licence fees, which vary by council and floor area) are indicative from secondary guides — confirm against SSM's fee schedule and the specific local authority (DBKL/MBPJ/MBSA) before publishing figures."
   - "The exact regulation numbers for food-handler training and typhoid vaccination (commonly cited as regulations 30 and 31 of the Food Hygiene Regulations 2009), the 'valid for life' certificate change, and the typhoid renewal interval should be confirmed verbatim against the AGC-published Food Hygiene Regulations 2009 before citing specific numbers."
-  - "The current RMCD Service Tax Guide on Food & Beverages URL should be re-located on mysst.customs.gov.my (an earlier version was withdrawn and replaced in April 2024); also confirm the treatment of served alcoholic beverages (reported at 8% vs food at 6%) against the live guide. The EPF 7-day and SOCSO 30-day employer-registration deadlines should be confirmed against KWSP and PERKESO."
+  - "Confirm the service-tax treatment of served alcoholic beverages (reported at 8% versus 6% for food) against the current RMCD Service Tax Guide on Food & Beverages. Separately, the commonly-cited 30-day SOCSO/EIS deadline for a new employer to register could not be substantiated against PERKESO primary sources — the only 30-day period found applies to cessation of employer status, not new-employer registration — so verify the current registration timing with PERKESO. (The EPF 7-day registration deadline is confirmed: section 41(1), EPF Act 1991.)"
 
 updated: 2026-09-07
 sources:
@@ -66,6 +66,9 @@ sources:
   - title: "SSM Business and Company Registration (ezBIZ / MyCoID)"
     url: "https://www.ssm.com.my/"
     publisher: "Companies Commission of Malaysia (SSM)"
+  - title: "Employer Registration Responsibilities (EPF Act 1991, section 41)"
+    url: "https://www.kwsp.gov.my/en/employer/responsibilities/registration"
+    publisher: "Employees Provident Fund (KWSP)"
 
 entity: "Restaurant / F&B Business (Malaysia)"
 relations:
@@ -125,8 +128,8 @@ Register through the RMCD **MySST** portal, and see the SST guides for how filin
 
 Hiring brings a cluster of employer duties:
 
-- **EPF (KWSP)** — register as an employer and contribute to the Employees Provident Fund;
-- **SOCSO and EIS (PERKESO)** — register for social security and employment insurance;
+- **EPF (KWSP)** — register as an employer **within 7 days** of your first hire (section 41(1), EPF Act 1991) and contribute to the Employees Provident Fund;
+- **SOCSO and EIS (PERKESO)** — register for social security and employment insurance in one combined process; any employer with one or more employees must register (register promptly on hiring, and confirm the current timing with PERKESO);
 - **Employment Act 1955** — the baseline terms on hours, rest days, leave and overtime; and
 - the **minimum wage of RM1,700 a month** (Minimum Wages Order 2024), which from August 2025 applies to essentially all employers regardless of size.
 

@@ -33,7 +33,7 @@ faq:
     a: "Gaji minimum kebangsaan ialah RM1,700 sebulan, ditetapkan oleh Perintah Gaji Minimum 2024. Ia terpakai kepada majikan dengan lima atau lebih pekerja mulai 1 Februari 2025, dan kepada semua majikan yang selebihnya mulai 1 Ogos 2025 — jadi mulai Ogos 2025 ia meliputi hampir setiap restoran tanpa mengira saiz."
 
 lang: "ms"
-sourceContentHash: "4dd19337cd15a96b"
+sourceContentHash: "ae31b5227ff37276"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -51,7 +51,7 @@ revisions:
 verificationNeeded:
   - "Yuran pendaftaran perniagaan dan pihak berkuasa tempatan (yuran enterpris/Sdn Bhd SSM; yuran lesen premis dan papan tanda PBT, yang berbeza mengikut majlis dan keluasan lantai) adalah indikatif daripada panduan sekunder — sahkan terhadap jadual yuran SSM dan pihak berkuasa tempatan tertentu (DBKL/MBPJ/MBSA) sebelum menerbitkan angka."
   - "Nombor peraturan tepat untuk latihan pengendali makanan dan vaksinasi tifoid (biasanya dipetik sebagai peraturan 30 dan 31 Peraturan-Peraturan Kebersihan Makanan 2009), perubahan sijil 'sah sepanjang hayat', dan selang pembaharuan tifoid harus disahkan verbatim terhadap Peraturan-Peraturan Kebersihan Makanan 2009 yang diterbitkan AGC sebelum memetik nombor tertentu."
-  - "URL Panduan Cukai Perkhidmatan RMCD semasa mengenai Makanan & Minuman harus dicari semula di mysst.customs.gov.my (versi terdahulu telah ditarik balik dan diganti pada April 2024); juga sahkan layanan minuman beralkohol yang dihidangkan (dilaporkan pada 8% berbanding makanan pada 6%) terhadap panduan langsung. Tarikh akhir pendaftaran majikan EPF 7 hari dan SOCSO 30 hari harus disahkan terhadap KWSP dan PERKESO."
+  - "Sahkan layanan cukai perkhidmatan ke atas minuman beralkohol yang dihidangkan (dilaporkan pada 8% berbanding 6% untuk makanan) terhadap Panduan Cukai Perkhidmatan RMCD semasa mengenai Makanan & Minuman. Secara berasingan, tarikh akhir 30 hari SOCSO/EIS yang biasa dipetik untuk majikan baharu mendaftar tidak dapat disokong terhadap sumber utama PERKESO — satu-satunya tempoh 30 hari yang ditemui terpakai kepada penamatan status majikan, bukan pendaftaran majikan baharu — jadi sahkan pemasaan pendaftaran semasa dengan PERKESO. (Tarikh akhir pendaftaran EPF 7 hari disahkan: seksyen 41(1), Akta KWSP 1991.)"
 
 updated: 2026-09-07
 sources:
@@ -67,6 +67,9 @@ sources:
   - title: "SSM Business and Company Registration (ezBIZ / MyCoID)"
     url: "https://www.ssm.com.my/"
     publisher: "Companies Commission of Malaysia (SSM)"
+  - title: "Employer Registration Responsibilities (EPF Act 1991, section 41)"
+    url: "https://www.kwsp.gov.my/en/employer/responsibilities/registration"
+    publisher: "Employees Provident Fund (KWSP)"
 
 entity: "Restaurant / F&B Business (Malaysia)"
 relations:
@@ -126,8 +129,8 @@ Daftar melalui portal **MySST** RMCD, dan lihat panduan SST untuk cara pemfailan
 
 Pengambilan pekerja membawa sekumpulan kewajipan majikan:
 
-- **EPF (KWSP)** — daftar sebagai majikan dan menyumbang kepada Kumpulan Wang Simpanan Pekerja;
-- **SOCSO dan EIS (PERKESO)** — daftar untuk keselamatan sosial dan insurans pekerjaan;
+- **EPF (KWSP)** — mendaftar sebagai majikan **dalam tempoh 7 hari** selepas pekerja pertama anda (seksyen 41(1), Akta KWSP 1991) dan menyumbang kepada Kumpulan Wang Simpanan Pekerja;
+- **SOCSO dan EIS (PERKESO)** — daftar untuk keselamatan sosial dan insurans pekerjaan dalam satu proses gabungan; mana-mana majikan dengan satu atau lebih pekerja mesti mendaftar (daftar dengan segera semasa mengambil pekerja, dan sahkan pemasaan semasa dengan PERKESO);
 - **Akta Kerja 1955** — terma asas mengenai waktu bekerja, hari rehat, cuti dan kerja lebih masa; dan
 - **gaji minimum RM1,700 sebulan** (Perintah Gaji Minimum 2024), yang mulai Ogos 2025 terpakai kepada hampir semua majikan tanpa mengira saiz.
 
