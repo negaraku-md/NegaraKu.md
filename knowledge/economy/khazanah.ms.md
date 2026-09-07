@@ -27,7 +27,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "69acfc12cadcdf37"
+sourceContentHash: "4bc3ca4f1cbbbf17"
 
 status: "published"
 aiAssisted: true
@@ -108,9 +108,9 @@ itulah soalan yang dijawab oleh halaman ini.
 "GLIC" ialah label yang digunakan oleh Kementerian Kewangan untuk merujuk
 kepada sekumpulan khusus entiti pelaburan berkaitan kerajaan. Menurut
 dokumentasi pembaharuan PERKUKUH miliknya sendiri, Malaysia mempunyai enam:
-Khazanah Nasional, Kumpulan Wang Persaraan (KWAP), Kumpulan Wang Simpanan
+Khazanah Nasional, [Kumpulan Wang Persaraan](/companies/kwap) (KWAP), Kumpulan Wang Simpanan
 Pekerja (EPF), Permodalan Nasional Berhad (PNB), Lembaga Tabung Haji (LTH)
-dan Lembaga Tabung Angkatan Tentera (LTAT).
+dan [Lembaga Tabung Angkatan Tentera](/companies/ltat-and-boustead) (LTAT).
 
 Dikumpulkan bersama untuk tujuan dasar tidak bermakna keenam-enam ini
 beroperasi dengan cara yang sama. Mereka berbeza dari segi dua soalan yang

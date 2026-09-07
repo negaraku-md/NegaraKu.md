@@ -36,7 +36,7 @@ faq:
     a: "MyDIGITAL is designed to complement national development policies such as the 12th Malaysia Plan (RMKe-12) and the Shared Prosperity Vision 2030 (WKB 2030), which recognise the digital economy as a Key Economic Growth Activity."
 
 lang: "en"
-sourceContentHash: "ef9dcf58a98e021b"
+sourceContentHash: "ac3f23832d2acdba"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -95,7 +95,7 @@ Its content and action plan sit within the **Malaysia Digital Economy Blueprint*
 
 The context matters. By 2019, Malaysia's information and communications technology (ICT) sector had accumulated a value of RM289 billion, representing 19.1% of GDP. The pandemic then dramatically accelerated the shift towards digital — and MyDIGITAL was designed to harness that momentum so that "no Malaysian is left behind".
 
-MyDIGITAL does not stand alone. It is designed to complement the larger national development policies, in particular the **12th Malaysia Plan (RMKe-12)** and the **Shared Prosperity Vision 2030 (WKB 2030)**. Under WKB 2030, the digital economy is identified as a Key Economic Growth Activity.
+MyDIGITAL does not stand alone. It is designed to complement the larger national development policies, in particular the **12th [Malaysia Plan](/economy/malaysia-plans) (RMKe-12)** and the **Shared Prosperity Vision 2030 (WKB 2030)**. Under WKB 2030, the digital economy is identified as a Key Economic Growth Activity.
 
 ## What is the Blueprint's vision and objectives?
 

@@ -34,7 +34,7 @@ faq:
     a: "两州都依据 1975 年协议主张 5% 的开采权益金。登嘉楼获得付款（尽管 2000 年前后曾改为'恩恤金'（wang ehsan），并于 2009 年恢复），而吉兰丹 2010 年的法庭诉讼于 2019 年被撤销。关键问题在于相关油井究竟位于州属水域（三海里界限内）还是在联邦管辖范围内。"
 
 lang: "zh"
-sourceContentHash: "c93bc7f1b353ca1a"
+sourceContentHash: "ca4f6e6468387717"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -141,7 +141,7 @@ keywords: ["Petronas", "Petroliam Nasional Berhad", "Akta Kemajuan Petroleum 197
 | PETRONAS Chemicals Group (PCG) | 综合化学品生产商——烯烃、聚合物、化肥、甲醇、特种化学品 |
 | PETRONAS Gas Berhad (PGB) | 拥有并运营天然气加工、输送和再气化网络 |
 | PETRONAS Dagangan Berhad (PDB) | 下游石油产品的零售和营销（加油站、产品） |
-| MISC Berhad | 物流与海运——LNG 运输、油轮、技术服务 |
+| [MISC Berhad](/companies/misc-berhad) | 物流与海运——LNG 运输、油轮、技术服务 |
 
 每一家都在马来西亚交易所（Bursa Malaysia）单独上市，而国家石油公司仍为控股股东。位于吉隆坡的国油双峰塔（Menara Berkembar Petronas）——集团总部——仍是该国最具标志性的地标之一。
 

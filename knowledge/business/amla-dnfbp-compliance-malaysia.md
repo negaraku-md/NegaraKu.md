@@ -108,7 +108,7 @@ An STR must reach FIED **by the next working day** after your compliance officer
 
 Two protections make reporting safer: AMLA overrides secrecy and confidentiality obligations so a report is not a breach of duty, and a person who reports in good faith is shielded from civil, criminal or disciplinary action. Deliberately splitting a transaction to dodge a reporting threshold is itself an offence under section 4A.
 
-Note one common misconception: the **Cash Threshold Report** for cash of RM25,000 and above is not a DNFBP-wide duty. It falls only on banking institutions, selected development financial institutions, Lembaga Tabung Haji and the licensed casino.
+Note one common misconception: the **Cash Threshold Report** for cash of RM25,000 and above is not a DNFBP-wide duty. It falls only on banking institutions, selected development financial institutions, [Lembaga Tabung Haji](/companies/lembaga-tabung-haji) and the licensed casino.
 
 ## What's next
 

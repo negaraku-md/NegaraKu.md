@@ -36,7 +36,7 @@ faq:
     a: "MyDIGITAL 旨在补足第十二大马计划（RMKe-12）与2030年共享繁荣愿景（WKB 2030）等国家发展政策，后者将数字经济列为一项关键经济增长活动。"
 
 lang: "zh"
-sourceContentHash: "ef9dcf58a98e021b"
+sourceContentHash: "ac3f23832d2acdba"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -95,7 +95,7 @@ MyDIGITAL 是一项国家倡议，象征政府的宏愿：将马来西亚转型�
 
 背景很重要。到2019年，马来西亚的信息通信技术（ICT）已累积达2,890亿令吉的价值，占 GDP 的19.1%。疫情随后急剧加速了向数字化的转型——而 MyDIGITAL 的设计正是为了利用这股势头，让「没有一个马来西亚人被落下」。
 
-MyDIGITAL 并非独立存在。它旨在补足更宏大的国家发展政策，尤其是**第十二大马计划（RMKe-12）**与**2030年共享繁荣愿景（WKB 2030）**。在 WKB 2030 中，数字经济被列为一项关键经济增长活动（Key Economic Growth Activity）。
+MyDIGITAL 并非独立存在。它旨在补足更宏大的国家发展政策，尤其是**第十二[大马计划](/economy/malaysia-plans)（RMKe-12）**与**2030年共享繁荣愿景（WKB 2030）**。在 WKB 2030 中，数字经济被列为一项关键经济增长活动（Key Economic Growth Activity）。
 
 ## 这份蓝图的愿景与目标是什么？
 

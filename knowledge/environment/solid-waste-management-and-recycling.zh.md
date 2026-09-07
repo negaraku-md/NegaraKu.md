@@ -33,7 +33,7 @@ faq:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "976c570a7b75ecbe"
+sourceContentHash: "1d664666863d04f5"
 
 status: "published"
 aiAssisted: true
@@ -156,7 +156,7 @@ keywords: ["Akta 672", "SWCorp", "kitar semula", "sisa pepejal", "tapak pelupusa
 
 ## 马来西亚达到其回收目标了吗？
 
-尚未。在第十二大马计划下，全国以**2025年前达到40%回收率**为目标。进展缓慢但确实存在：
+尚未。在第十二[大马计划](/economy/malaysia-plans)下，全国以**2025年前达到40%回收率**为目标。进展缓慢但确实存在：
 
 - **2023年：** 35.38%
 - **2024年：** 37.9%

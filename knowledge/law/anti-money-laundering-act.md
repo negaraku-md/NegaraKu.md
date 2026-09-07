@@ -114,7 +114,7 @@ The Act sets out a cluster of core obligations. Drawing on the statutory section
 
 Reports go to the **Financial Intelligence and Enforcement Department (FIED)** of Bank Negara Malaysia, which functions as Malaysia's financial intelligence unit. An STR is to be submitted by the next working day from when the compliance officer establishes the suspicion, through email, physical mail, or the Financial Intelligence System (FINS).
 
-Separately, specified institutions — banking institutions, development financial institutions, Lembaga Tabung Haji, and licensed casinos — must file **Cash Threshold Reports (CTRs)** for cash transactions of **RM25,000 and above** in a day, submitted electronically via FINS.
+Separately, specified institutions — banking institutions, development financial institutions, [Lembaga Tabung Haji](/companies/lembaga-tabung-haji), and licensed casinos — must file **Cash Threshold Reports (CTRs)** for cash transactions of **RM25,000 and above** in a day, submitted electronically via FINS.
 
 ## Who enforces it, and how?
 

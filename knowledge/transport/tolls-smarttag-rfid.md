@@ -104,7 +104,7 @@ Sebab peralihan ini masuk akal dari segi kejuruteraan: SmartTAG bergantung pada 
 
 ## Rintis sistem terbuka: JustGO PLUS
 
-Langkah seterusnya sudah pun bermula. Menurut kenyataan media rasmi PLUS Malaysia Berhad, PLUS merintis sistem tol terbuka menggunakan teknologi ANPR — dinamakan JustGO — pada regangan antara plaza Hutan Kampung dan Sungai Dua di Lebuhraya Utara-Selatan, meliputi sembilan plaza tol.
+Langkah seterusnya sudah pun bermula. Menurut kenyataan media rasmi [PLUS Malaysia Berhad](/companies/plus-malaysia), PLUS merintis sistem tol terbuka menggunakan teknologi ANPR — dinamakan JustGO — pada regangan antara plaza Hutan Kampung dan Sungai Dua di Lebuhraya Utara-Selatan, meliputi sembilan plaza tol.
 
 Menurut laporan The Star yang memetik PLUS, rintis ini berkembang kepada 18 plaza tol di seluruh rangkaian PLUS menjelang 15 Julai 2026, dengan enam plaza tambahan di rantau selatan (termasuk Mambau, Lukut, Kempas, Tanjung Kupang, Lima Kedai dan Perling) menyertai senarai tersebut. PLUS turut menyatakan hasrat untuk mengaktifkan sistem ini di semua plaza tol yang dikendalikannya bermula Ogos 2026.
 

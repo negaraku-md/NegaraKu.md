@@ -102,10 +102,10 @@ There are eight GLICs, usually split into two groups. Four behave like sovereign
 |------|------|------------------------|-------------------------------|
 | Employees Provident Fund (EPF) | Institutional investor | RM1.096 trillion | 24.4% |
 | Permodalan Nasional Bhd (PNB) | Institutional investor | RM332 billion | 74.4% |
-| Kumpulan Wang Persaraan (KWAP) | Sovereign/strategic fund | RM167 billion | 45.2% |
+| [Kumpulan Wang Persaraan](/companies/kwap) (KWAP) | Sovereign/strategic fund | RM167 billion | 45.2% |
 | Khazanah Nasional | Sovereign/strategic fund | RM122.5 billion (portfolio) | — |
-| Lembaga Tabung Haji (LTH) | Institutional investor | RM91 billion | 18.3% |
-| Lembaga Tabung Angkatan Tentera (LTAT) | Institutional investor | RM10.5 billion | 52% |
+| [Lembaga Tabung Haji](/companies/lembaga-tabung-haji) (LTH) | Institutional investor | RM91 billion | 18.3% |
+| [Lembaga Tabung Angkatan Tentera](/companies/ltat-and-boustead) (LTAT) | Institutional investor | RM10.5 billion | 52% |
 | Ministry of Finance Inc (MoF Inc) | Sovereign/strategic fund | — | — |
 | National Trust Fund (KWAN) | Sovereign/strategic fund | — | — |
 
@@ -128,7 +128,7 @@ Not evenly. GLIC ownership clusters in the parts of the economy that are capital
 - **Banking and finance** — Maybank (the country's largest bank, controlled through PNB), CIMB Group and RHB Bank are all GLIC-anchored. A decade-long review found GLICs held at least a 30% equity interest in 46 listed companies, with the big banks among the steadiest performers.
 - **Utilities and energy** — Tenaga Nasional runs the national grid; Gas Malaysia and Petronas-linked listed units cover gas and petrochemicals. Utilities are close to a natural state monopoly, so GLIC ownership here is deepest.
 - **Telecommunications** — Telekom Malaysia (the fixed-line and broadband incumbent) and data-centre player TIME dotCom sit alongside GLIC stakes in the mobile operators.
-- **Plantations** — Sime Darby and Boustead Plantations put the state at the centre of Malaysia's palm-oil economy.
+- **Plantations** — [Sime Darby](/companies/sime-darby-group) and Boustead Plantations put the state at the centre of Malaysia's palm-oil economy.
 
 The broad pattern is consistent: the state's grip is tightest in infrastructure and finance, looser in the consumer-facing and export-manufacturing sectors where private and foreign firms lead.
 

@@ -23,7 +23,7 @@ appliesTo: "正在权衡 IPO 的创办人与首席财务官、顾问与保荐人
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "877a6c16d2de1306"
+sourceContentHash: "8a42caae2331fbbd"
 
 status: "published"
 aiAssisted: true
@@ -147,7 +147,7 @@ volume）测试流动性。
 检讨于每年 6 月与 12 月进行。若某股票按完全市值排名升至第 25 位或以上即
 可纳入指数，若跌至第 36 位或以下则会被剔除——这是刻意设置的缓冲区，用以
 避免指数因股价小幅波动而频繁变动。在 2026 年 6 月的检讨中，IOI Properties
-Group 取代了 Sime Darby，自 6 月 22 日交易时段开始起生效。
+Group 取代了 [Sime Darby](/companies/sime-darby-group)，自 6 月 22 日交易时段开始起生效。
 
 FTSE Russell 与 Bursa Malaysia 于 2026 年 3 月就以下事项进行了咨询：将
 指数成分股由 30 只扩大至 50 只、对单一公司设 10% 的上限，并将 FBM Mid 70

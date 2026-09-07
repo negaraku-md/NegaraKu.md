@@ -38,7 +38,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "2149f1005d0a6af7"
+sourceContentHash: "67619f9b70d97b83"
 
 status: "published"
 aiAssisted: true
@@ -141,7 +141,7 @@ Jadi jawapan jujur kepada "adakah Proton masih kereta nasional?" ialah *ya dan t
 | Model pertama | Saga (1985) | Kancil (1994) |
 | Rakan teknologi asal | Mitsubishi Motors | Daihatsu |
 | Rakan asing semasa | Geely (49.9%) | Daihatsu (teknologi) |
-| Kawalan Malaysia | DRB-HICOM (majoriti) | UMW / Sime Darby, MBM, PNB |
+| Kawalan Malaysia | DRB-HICOM (majoriti) | UMW / [Sime Darby](/companies/sime-darby-group), MBM, PNB |
 | Kedudukan | Pelbagai julat, dipimpin kejuruteraan | Kereta kecil, mampu milik |
 
 ## Siapa pemilik Perodua?

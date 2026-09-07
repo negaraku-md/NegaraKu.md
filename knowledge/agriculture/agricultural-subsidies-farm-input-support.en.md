@@ -36,7 +36,7 @@ faq:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "f6d0024f51353a36"
+sourceContentHash: "0db45e7ee2f93134"
 
 status: "published"
 aiAssisted: true
@@ -122,7 +122,7 @@ At its core is the **Federal Government Paddy Fertiliser Scheme (SBPKP)**, which
 
 This assistance is allocated up to a maximum area of 25 acres (10 hectares) per paddy farmer. The fertiliser is distributed in physical form according to the paddy fertilisation schedule, not as money. Compound fertiliser is usually applied in stages according to the schedule set by the area agency, depending on the formulation supplied.
 
-Alongside it, the **Paddy Production Incentive Scheme (SIPP/IPP)** — listed by KPKM under the Paddy Industry Development Division — took effect from March 2007 under the Ninth Malaysia Plan. According to LPP's official implementation manual, the scheme consists of two components: **ploughing-labour assistance of RM100.00 per hectare per season** and **agricultural input assistance of up to RM140.00 per hectare per season** in the form of fertiliser, pesticides, crop enhancers and soil ameliorants — including liming to rehabilitate acidic soil. Separately, in its Budget 2026 communications KPKM presented a **pesticide (pest control) incentive raised from RM200 to RM300 per hectare per season** as a distinct paddy-farmer incentive line — on par with the ploughing and harvesting incentives — even though historically pesticides are a component of the SIPP input basket.
+Alongside it, the **Paddy Production Incentive Scheme (SIPP/IPP)** — listed by KPKM under the Paddy Industry Development Division — took effect from March 2007 under the [Ninth Malaysia Plan](/economy/malaysia-plans). According to LPP's official implementation manual, the scheme consists of two components: **ploughing-labour assistance of RM100.00 per hectare per season** and **agricultural input assistance of up to RM140.00 per hectare per season** in the form of fertiliser, pesticides, crop enhancers and soil ameliorants — including liming to rehabilitate acidic soil. Separately, in its Budget 2026 communications KPKM presented a **pesticide (pest control) incentive raised from RM200 to RM300 per hectare per season** as a distinct paddy-farmer incentive line — on par with the ploughing and harvesting incentives — even though historically pesticides are a component of the SIPP input basket.
 
 ## The main paddy input and incentive schemes
 

@@ -155,7 +155,7 @@ Sisa makanan yang mendominasi hampir separuh aliran bermakna banyak bahan boleh 
 
 ## Adakah Malaysia mencapai sasaran kitar semulanya?
 
-Belum. Di bawah Rancangan Malaysia Ke-12, negara mensasarkan **kadar kitar semula 40% menjelang 2025**. Kemajuannya perlahan tetapi wujud:
+Belum. Di bawah [Rancangan Malaysia](/economy/malaysia-plans) Ke-12, negara mensasarkan **kadar kitar semula 40% menjelang 2025**. Kemajuannya perlahan tetapi wujud:
 
 - **2023:** 35.38%
 - **2024:** 37.9%

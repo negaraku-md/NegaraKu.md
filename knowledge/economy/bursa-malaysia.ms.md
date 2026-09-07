@@ -23,7 +23,7 @@ appliesTo: "Pengasas dan CFO yang sedang menimbangkan IPO, penasihat dan penaja,
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "877a6c16d2de1306"
+sourceContentHash: "8a42caae2331fbbd"
 
 status: "published"
 aiAssisted: true
@@ -161,7 +161,7 @@ jika ia meningkat ke kedudukan ke-25 atau lebih tinggi mengikut nilai
 pasaran penuh, dan tersingkir jika ia jatuh ke kedudukan ke-36 atau lebih
 rendah — sejenis penampan yang disengajakan bagi menghalang indeks daripada
 berubah-ubah akibat pergerakan harga kecil. Pada semakan Jun 2026, IOI
-Properties Group menggantikan Sime Darby, berkuat kuasa pada permulaan waktu
+Properties Group menggantikan [Sime Darby](/companies/sime-darby-group), berkuat kuasa pada permulaan waktu
 perniagaan 22 Jun.
 
 FTSE Russell dan Bursa Malaysia mengadakan rundingan pada Mac 2026 mengenai

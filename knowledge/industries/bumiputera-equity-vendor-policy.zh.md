@@ -29,7 +29,7 @@ faq:
     a: "申请PETRONAS执照的公司须按相关的SWEC代码满足土著参与要求。就PETRONAS供应商发展计划而言，土著持股须至少达到51%（来源：Low & Partners；PETRONAS）。"
 
 lang: "zh"
-sourceContentHash: "657c9b8f05a51ced"
+sourceContentHash: "8653f4f58e0534c5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -81,7 +81,7 @@ keywords: ["ekuiti bumiputera", "dasar ekonomi baru", "pembangunan vendor", "PuT
 
 ## 30%股权目标从何而来？
 
-土著股权目标源自《新经济政策》（DEB）。据 ISEAS – Yusof Ishak Institute 的分析，DEB 分两个阶段推出，分别作为《第二马来西亚计划》（1971年）和《第三马来西亚计划》（1976年）中的章节。其目标之一是将土著企业股权所有权提升至30%。
+土著股权目标源自《新经济政策》（DEB）。据 ISEAS – Yusof Ishak Institute 的分析，DEB 分两个阶段推出，分别作为《第二[马来西亚计划](/economy/malaysia-plans)》（1971年）和《第三马来西亚计划》（1976年）中的章节。其目标之一是将土著企业股权所有权提升至30%。
 
 据 ISEAS，30%的目标最初细分为两个组成部分：
 

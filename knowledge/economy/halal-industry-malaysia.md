@@ -102,7 +102,7 @@ Ukuran rasmi paling komprehensif datang daripada **Banci Ekonomi 2023 (statistik
 
 Mengikut sektor, **pembuatan** ialah penyumbang terbesar dengan 3,590 pertubuhan yang menjana keluaran kasar RM347.8 bilion dan nilai ditambah RM61.4 bilion. Sektor **perkhidmatan** merangkumi 8,464 pertubuhan (keluaran kasar RM59.6 bilion), manakala **pertanian** mencatatkan 370 pertubuhan (RM9.9 bilion). Perusahaan mikro, kecil dan sederhana (PMKS) mewakili **62.4%** daripada jumlah pertubuhan halal — 7,748 pertubuhan yang menjana keluaran kasar RM86.7 bilion. Semua angka ini berdasarkan tabulasi Banci Ekonomi 2023 (statistik halal) DOSM.
 
-Untuk perspektif jangka panjang, rujukan Kementerian Kewangan mencatatkan sumbangan industri halal kepada KDNK pada kadar **7.5%** (tahun 2020), dengan sasaran 8.1% menjelang 2025 di bawah Rancangan Malaysia Ke-12.
+Untuk perspektif jangka panjang, rujukan Kementerian Kewangan mencatatkan sumbangan industri halal kepada KDNK pada kadar **7.5%** (tahun 2020), dengan sasaran 8.1% menjelang 2025 di bawah [Rancangan Malaysia Ke-12](/economy/malaysia-plans).
 
 ## Bagaimana eksport halal berkembang?
 

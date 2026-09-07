@@ -41,7 +41,7 @@ faq:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "8ade77c7a04cca98"
+sourceContentHash: "61a3deaeaf002f56"
 
 status: "published"
 aiAssisted: true
@@ -189,7 +189,7 @@ keywords: ["Kementerian Kewangan Malaysia", "Ministry of Finance Malaysia", "Per
 | 马来西亚交易所（Bursa Malaysia Berhad） | 股票交易所 |
 | 内陆税收局（LHDN） | 直接税——所得税、印花税、产业盈利税（CKHT） |
 | 雇员公积金局（KWSP） | 私人界退休储蓄 |
-| 退休基金（局）（KWAP） | 公共部门退休金 |
+| [退休基金](/companies/kwap)（局）（KWAP） | 公共部门退休金 |
 | 马来西亚存款保险公司（PIDM） | 存款与回教保险保障 |
 | 国民储蓄银行（Bank Simpanan Nasional） | 储蓄银行 |
 | 纳闽金融服务局（Labuan FSA） | 监管纳闽离岸金融中心 |

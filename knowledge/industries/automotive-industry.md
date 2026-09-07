@@ -140,7 +140,7 @@ So the honest answer to "is Proton still a national car?" is *yes and no*. It ke
 | First model | Saga (1985) | Kancil (1994) |
 | Original technology partner | Mitsubishi Motors | Daihatsu |
 | Current foreign partner | Geely (49.9%) | Daihatsu (technology) |
-| Malaysian control | DRB-HICOM (majority) | UMW / Sime Darby, MBM, PNB |
+| Malaysian control | DRB-HICOM (majority) | UMW / [Sime Darby](/companies/sime-darby-group), MBM, PNB |
 | Positioning | Full-range, engineering-led | Small, affordable cars |
 
 ## Who owns Perodua?

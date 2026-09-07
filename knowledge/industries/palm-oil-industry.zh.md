@@ -39,7 +39,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "4bb9d9d27dc92824"
+sourceContentHash: "6df254d9cadb68a3"
 
 status: "published"
 aiAssisted: true
@@ -127,7 +127,7 @@ keywords: ["palm oil", "crude palm oil", "CPO", "MPOB", "FELDA", "smallholders",
 
 两者皆有，而这个分布很重要。马来西亚的油棕土地大致分为三种种植者类型：
 
-- **种植园**——由上市集团（如森那美种植、IOI和KLK）以及州属机构经营的大型私人种植园，管理数千公顷并拥有自己的榨油厂。
+- **种植园**——由上市集团（如[森那美](/companies/sime-darby-group)种植、IOI和KLK）以及州属机构经营的大型私人种植园，管理数千公顷并拥有自己的榨油厂。
 - **有组织的小农**——政府土地开发计划下的垦殖民，尤其是联邦土地发展局（FELDA），另有FELCRA和RISDA，其地块由集体管理。
 - **独立小农**——通常耕种40公顷以下土地的农民，他们拥有并经营自己的土地，往往以家庭为单位。
 

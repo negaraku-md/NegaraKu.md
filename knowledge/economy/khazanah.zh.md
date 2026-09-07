@@ -27,7 +27,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "69acfc12cadcdf37"
+sourceContentHash: "4bc3ca4f1cbbbf17"
 
 status: "published"
 aiAssisted: true
@@ -104,9 +104,9 @@ Khazanah 不管理任何人的个人退休账户，也不向公众销售单位�
 ## GLIC 究竟是什么
 
 "GLIC" 是财政部用来指称一组特定国家关联投资实体的标签。根据财政部自身的
-PERKUKUH 改革文件，马来西亚共有六家：Khazanah Nasional、Kumpulan Wang
-Persaraan（KWAP）、公积金局（EPF）、Permodalan Nasional Berhad（PNB）、
-Lembaga Tabung Haji（LTH）与 Lembaga Tabung Angkatan Tentera（LTAT）。
+PERKUKUH 改革文件，马来西亚共有六家：Khazanah Nasional、[Kumpulan Wang
+Persaraan](/companies/kwap)（KWAP）、公积金局（EPF）、Permodalan Nasional Berhad（PNB）、
+Lembaga Tabung Haji（LTH）与 [Lembaga Tabung Angkatan Tentera](/companies/ltat-and-boustead)（LTAT）。
 
 为了政策目的而被归为一类，并不代表这六家机构的运作方式相同。它们在两个最
 关键的问题上有所不同：**谁把钱交给它们，以及它们对谁负责。**

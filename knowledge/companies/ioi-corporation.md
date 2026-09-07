@@ -132,7 +132,7 @@ IOI's record is not spotless: it was suspended from the RSPO for several months 
 
 ## Where does IOI sit among the palm oil majors?
 
-IOI is routinely grouped with the largest Malaysian planters — alongside names such as Sime Darby and Kuala Lumpur Kepong — as one of the country's flagship integrated palm oil companies. What sets it apart is the depth of its downstream integration: rather than selling only CPO, it captures margin further along the chain through refining, oleochemicals and specialty fats, which can partially buffer the volatility of raw commodity prices.
+IOI is routinely grouped with the largest Malaysian planters — alongside names such as [Sime Darby](/companies/sime-darby-group) and Kuala Lumpur Kepong — as one of the country's flagship integrated palm oil companies. What sets it apart is the depth of its downstream integration: rather than selling only CPO, it captures margin further along the chain through refining, oleochemicals and specialty fats, which can partially buffer the volatility of raw commodity prices.
 
 ## What's next
 

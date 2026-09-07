@@ -163,7 +163,7 @@ Gabungan forum ini membolehkan Malaysia mengekalkan hubungan harmoni dengan semu
 
 Prinsip yang stabil tetap memerlukan peta jalan yang dikemas kini. Peta jalan semasa ialah **Pelan Strategik Kementerian Luar Negeri 2026-2030**, yang dilancarkan oleh Perdana Menteri **Anwar Ibrahim** pada **23 Februari 2026** sempena Majlis Iftar MADANI kementerian tersebut.
 
-Pelan lima tahun ini menyambung Pelan Strategik 2021-2025 dan diselaraskan dengan Rancangan Malaysia Ke-13 (RMK13), Rangka Kerja Ekonomi MADANI serta Agenda Reformasi Perkhidmatan Awam (ARPA). Rangkanya besar: **8 teras strategik**, disokong oleh **33 strategi** dan **139 program** yang lebih terperinci, setiap satu dengan petunjuk prestasi utama (KPI) serta rangka pemantauan dan penilaian.
+Pelan lima tahun ini menyambung Pelan Strategik 2021-2025 dan diselaraskan dengan [Rancangan Malaysia](/economy/malaysia-plans) Ke-13 (RMK13), Rangka Kerja Ekonomi MADANI serta Agenda Reformasi Perkhidmatan Awam (ARPA). Rangkanya besar: **8 teras strategik**, disokong oleh **33 strategi** dan **139 program** yang lebih terperinci, setiap satu dengan petunjuk prestasi utama (KPI) serta rangka pemantauan dan penilaian.
 
 Lapan teras strategik itu ialah:
 

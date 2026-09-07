@@ -73,7 +73,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["touch-n-go", "road-tax-renewal"]
 keywords: ["tol lebuh raya Malaysia", "SmartTAG", "RFID Touch n Go", "JustGO PLUS", "ANPR tol", "MLFF tol tanpa palang", "lorong tol Malaysia"]
-sourceContentHash: "3c4fadc4ffe6b6df"
+sourceContentHash: "c1392d940afe3b99"
 ---
 
 你前方 RFID 车道上的车突然刹停，因为它车头灯上的贴纸没有被侦测到——尽管许多人以为 RFID 代表「完全不需要做任何事」。事实是，马来西亚目前在不同的高速公路上同时运行着至少四代收费技术，而把其中一种误认成另一种，正是车辆卡在闸口的常见原因。
@@ -105,7 +105,7 @@ sourceContentHash: "3c4fadc4ffe6b6df"
 
 ## 开放式系统的试行：JustGO PLUS
 
-下一步已经展开。根据 PLUS Malaysia Berhad 的官方媒体声明，PLUS 正在南北大道（North-South Expressway）上 Hutan Kampung 与 Sungai Dua 两座收费广场之间的路段，试行使用 ANPR 技术的开放式收费系统——命名为 JustGO——涵盖九座收费广场。
+下一步已经展开。根据 [PLUS Malaysia Berhad](/companies/plus-malaysia) 的官方媒体声明，PLUS 正在南北大道（North-South Expressway）上 Hutan Kampung 与 Sungai Dua 两座收费广场之间的路段，试行使用 ANPR 技术的开放式收费系统——命名为 JustGO——涵盖九座收费广场。
 
 根据《The Star》引述 PLUS 的报道，这项试行计划在 2026 年 7 月 15 日之前已扩展至 PLUS 网络中的 18 座收费广场，南部地区另有六座收费广场（包括 Mambau、Lukut、Kempas、Tanjung Kupang、Lima Kedai 与 Perling）加入名单。PLUS 也表示有意从 2026 年 8 月起，在其营运的所有收费广场启用此系统。
 

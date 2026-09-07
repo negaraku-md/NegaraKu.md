@@ -37,7 +37,7 @@ faq:
     a: "ASEAN is the cornerstone or foundation of Malaysia's foreign policy. Malaysia is one of ASEAN's founding countries and consistently prioritises ASEAN's integrity and centrality, while remaining active in other forums such as the United Nations (UN), the Organisation of Islamic Cooperation (OIC) and the Non-Aligned Movement (NAM)."
 
 lang: "en"
-sourceContentHash: "2e6c656be6061b61"
+sourceContentHash: "4cb0c08e4d974a16"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -164,7 +164,7 @@ This combination of forums allows Malaysia to maintain harmonious relations with
 
 Stable principles still need an updated roadmap. The current roadmap is the **Ministry of Foreign Affairs Strategic Plan 2026-2030**, launched by Prime Minister **Anwar Ibrahim** on **23 February 2026** during the ministry's MADANI Iftar event.
 
-This five-year plan succeeds the 2021-2025 Strategic Plan and is aligned with the Thirteenth Malaysia Plan (RMK13), the MADANI Economy Framework and the Public Service Reform Agenda (ARPA). Its framework is large: **8 strategic thrusts**, supported by **33 strategies** and **139 programmes** in finer detail, each with key performance indicators (KPIs) as well as a monitoring and evaluation framework.
+This five-year plan succeeds the 2021-2025 Strategic Plan and is aligned with the Thirteenth [Malaysia Plan](/economy/malaysia-plans) (RMK13), the MADANI Economy Framework and the Public Service Reform Agenda (ARPA). Its framework is large: **8 strategic thrusts**, supported by **33 strategies** and **139 programmes** in finer detail, each with key performance indicators (KPIs) as well as a monitoring and evaluation framework.
 
 The eight strategic thrusts are:
 

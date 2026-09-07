@@ -94,7 +94,7 @@ Kandungan dan pelan tindakannya terletak dalam **Blueprint Ekonomi Digital Malay
 
 Konteksnya penting. Menjelang 2019, teknologi maklumat dan komunikasi (ICT) Malaysia telah mengumpul nilai RM289 bilion, mewakili 19.1% daripada KDNK. Pandemik kemudiannya mempercepat peralihan ke arah digital secara mendadak — dan MyDIGITAL direka untuk memanfaatkan momentum itu supaya "tiada rakyat Malaysia yang ketinggalan".
 
-MyDIGITAL tidak berdiri sendiri. Ia direka untuk melengkapi dasar pembangunan negara yang lebih besar, khususnya **Rancangan Malaysia Ke-12 (RMKe-12)** dan **Wawasan Kemakmuran Bersama 2030 (WKB 2030)**. Dalam WKB 2030, ekonomi digital dikenal pasti sebagai satu Aktiviti Pertumbuhan Ekonomi Utama (Key Economic Growth Activity).
+MyDIGITAL tidak berdiri sendiri. Ia direka untuk melengkapi dasar pembangunan negara yang lebih besar, khususnya **[Rancangan Malaysia](/economy/malaysia-plans) Ke-12 (RMKe-12)** dan **Wawasan Kemakmuran Bersama 2030 (WKB 2030)**. Dalam WKB 2030, ekonomi digital dikenal pasti sebagai satu Aktiviti Pertumbuhan Ekonomi Utama (Key Economic Growth Activity).
 
 ## Apakah visi dan objektif Blueprint ini?
 

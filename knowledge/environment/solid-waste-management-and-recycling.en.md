@@ -33,7 +33,7 @@ faq:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "976c570a7b75ecbe"
+sourceContentHash: "1d664666863d04f5"
 
 status: "published"
 aiAssisted: true
@@ -156,7 +156,7 @@ Food waste dominating nearly half the stream means that many recyclable material
 
 ## Is Malaysia meeting its recycling target?
 
-Not yet. Under the 12th Malaysia Plan, the country targets a **40% recycling rate by 2025**. Progress is slow but real:
+Not yet. Under the 12th [Malaysia Plan](/economy/malaysia-plans), the country targets a **40% recycling rate by 2025**. Progress is slow but real:
 
 - **2023:** 35.38%
 - **2024:** 37.9%

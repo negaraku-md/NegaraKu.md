@@ -126,7 +126,7 @@ Notice that exports fell in volume while export revenue rose. That is the story 
 
 Both, and the split matters. Malaysian oil palm land divides into three broad grower types:
 
-- **Estates** — large private plantations run by listed groups such as Sime Darby Plantation, IOI and KLK, plus state agencies, managing thousands of hectares with their own mills.
+- **Estates** — large private plantations run by listed groups such as [Sime Darby](/companies/sime-darby-group) Plantation, IOI and KLK, plus state agencies, managing thousands of hectares with their own mills.
 - **Organised smallholders** — settlers on government land-development schemes, above all the Federal Land Development Authority (FELDA), plus FELCRA and RISDA, whose plots are managed collectively.
 - **Independent smallholders** — farmers, usually working under 40 hectares, who own and run their own land, often as a family.
 

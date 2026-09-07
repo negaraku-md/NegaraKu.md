@@ -80,7 +80,7 @@ Artikel ini menerangkan asal usul, mekanisme dan angka rasmi bagi dasar-dasar te
 
 ## Dari mana datangnya sasaran ekuiti 30%?
 
-Sasaran ekuiti Bumiputera berpunca daripada Dasar Ekonomi Baru (DEB). Menurut analisis ISEAS – Yusof Ishak Institute, DEB diperkenalkan dalam dua peringkat, iaitu sebagai bab dalam Rancangan Malaysia Kedua (1971) dan Rancangan Malaysia Ketiga (1976). Salah satu matlamatnya ialah meningkatkan pemilikan ekuiti korporat Bumiputera kepada 30%.
+Sasaran ekuiti Bumiputera berpunca daripada Dasar Ekonomi Baru (DEB). Menurut analisis ISEAS – Yusof Ishak Institute, DEB diperkenalkan dalam dua peringkat, iaitu sebagai bab dalam [Rancangan Malaysia](/economy/malaysia-plans) Kedua (1971) dan Rancangan Malaysia Ketiga (1976). Salah satu matlamatnya ialah meningkatkan pemilikan ekuiti korporat Bumiputera kepada 30%.
 
 Menurut ISEAS, sasaran 30% itu asalnya dipecahkan kepada dua komponen:
 

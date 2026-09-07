@@ -33,7 +33,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9ebef61dbe957cc6"
+sourceContentHash: "7368557f33452c6b"
 
 status: "published"
 aiAssisted: true
@@ -158,7 +158,7 @@ Malaysia, pengeluar minyak sawit kedua terbesar di dunia, telah menganggap masa 
 
 Sebelum penyahutanan, tekanan datang daripada buruh. Kastam dan Perlindungan Sempadan AS (CBP) menggunakan **Withhold Release Orders (WRO)** — larangan import yang dicetuskan oleh syak buruh paksa — dan dua daripadanya menimpa pengeluar utama Malaysia.
 
-CBP mula-mula mengeluarkan WRO terhadap **FGV Holdings Berhad**, subsidiari dan usaha samanya pada **30 September 2020**, atas minyak sawit yang dihasilkan dengan buruh paksa. Tiga bulan kemudian, pada **30 Disember 2020**, CBP mengeluarkan WRO terhadap **Sime Darby Plantation** — kali ini berdasarkan maklumat yang secara munasabah menunjukkan kehadiran **kesemua 11 penunjuk buruh paksa Pertubuhan Buruh Antarabangsa (ILO)** dalam proses pengeluarannya. CBP meningkatkan perintah Sime Darby kepada **Penemuan (Finding) rasmi pada 28 Januari 2022**, mendedahkan penghantaran kepada rampasan. Syarikat itu merombak amalan buruhnya, dan pada **3 Februari 2023** CBP menyimpulkan bahawa ia tidak lagi menggunakan buruh paksa dan menarik balik perintah itu — sedikit lebih dua tahun selepas larangan bermula.
+CBP mula-mula mengeluarkan WRO terhadap **FGV Holdings Berhad**, subsidiari dan usaha samanya pada **30 September 2020**, atas minyak sawit yang dihasilkan dengan buruh paksa. Tiga bulan kemudian, pada **30 Disember 2020**, CBP mengeluarkan WRO terhadap **[Sime Darby](/companies/sime-darby-group) Plantation** — kali ini berdasarkan maklumat yang secara munasabah menunjukkan kehadiran **kesemua 11 penunjuk buruh paksa Pertubuhan Buruh Antarabangsa (ILO)** dalam proses pengeluarannya. CBP meningkatkan perintah Sime Darby kepada **Penemuan (Finding) rasmi pada 28 Januari 2022**, mendedahkan penghantaran kepada rampasan. Syarikat itu merombak amalan buruhnya, dan pada **3 Februari 2023** CBP menyimpulkan bahawa ia tidak lagi menggunakan buruh paksa dan menarik balik perintah itu — sedikit lebih dua tahun selepas larangan bermula.
 
 Kes ini menunjukkan betapa pantasnya sesuatu dakwaan buruh boleh menutup akses seorang pengeluar daripada pasaran utama, dan mendorong industri yang lebih luas ke arah rekod kebajikan pekerja yang boleh diaudit — tepat pada bidang yang diperkukuhkan oleh MS 2530:2022.
 

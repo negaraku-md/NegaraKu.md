@@ -41,7 +41,7 @@ faq:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "8ade77c7a04cca98"
+sourceContentHash: "61a3deaeaf002f56"
 
 status: "published"
 aiAssisted: true
@@ -189,7 +189,7 @@ The structure of the Ministry of Finance is divided into **departments**, which 
 | Bursa Malaysia Berhad | Stock exchange |
 | Inland Revenue Board (LHDN) | Direct tax — income tax, stamp duty, RPGT |
 | Employees Provident Fund (EPF) | Private retirement savings |
-| Retirement Fund (Incorporated) (KWAP) | Public-sector pensions |
+| [Retirement Fund](/companies/kwap) (Incorporated) (KWAP) | Public-sector pensions |
 | Malaysia Deposit Insurance Corporation (PIDM) | Deposit and takaful insurance |
 | Bank Simpanan Nasional | Savings bank |
 | Labuan Financial Services Authority (Labuan FSA) | Regulation of the Labuan offshore financial centre |

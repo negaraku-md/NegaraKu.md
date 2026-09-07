@@ -29,7 +29,7 @@ faq:
     a: "Di bawah Bahagian VI, agensi penguatkuasaan boleh mengeluarkan perintah pembekuan, pegawai penyiasat boleh menyita harta alih semasa siasatan, dan Pendakwa Raya memegang kuasa penyitaan dan pelucuthakan lanjut."
 
 lang: "ms"
-sourceContentHash: "2d6e3b132521c3d4"
+sourceContentHash: "03583a7602b0f6ef"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -115,7 +115,7 @@ Akta ini menetapkan sekumpulan kewajipan teras. Berdasarkan seksyen berkanun dal
 
 Laporan dihantar kepada **Jabatan Perisikan Kewangan dan Penguatkuasaan (FIED)** Bank Negara Malaysia, yang berfungsi sebagai unit perisikan kewangan Malaysia. STR hendaklah dikemukakan menjelang hari bekerja berikutnya dari masa pegawai pematuhan menetapkan kecurigaan, melalui e-mel, mel fizikal, atau Sistem Perisikan Kewangan (FINS).
 
-Secara berasingan, institusi tertentu — institusi perbankan, institusi kewangan pembangunan, Lembaga Tabung Haji, dan kasino berlesen — mesti memfailkan **Laporan Ambang Tunai (CTR)** untuk transaksi tunai **RM25,000 ke atas** dalam satu hari, dikemukakan secara elektronik melalui FINS.
+Secara berasingan, institusi tertentu — institusi perbankan, institusi kewangan pembangunan, [Lembaga Tabung Haji](/companies/lembaga-tabung-haji), dan kasino berlesen — mesti memfailkan **Laporan Ambang Tunai (CTR)** untuk transaksi tunai **RM25,000 ke atas** dalam satu hari, dikemukakan secara elektronik melalui FINS.
 
 ## Siapa yang menguatkuasakannya, dan bagaimana?
 

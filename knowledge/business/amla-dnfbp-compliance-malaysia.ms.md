@@ -30,7 +30,7 @@ faq:
     a: "Tidak. Laporan Ambang Tunai untuk transaksi tunai bernilai RM25,000 dan ke atas hanya terpakai kepada institusi perbankan, institusi kewangan pembangunan terpilih, Lembaga Tabung Haji dan kasino berlesen. DNFBP masih mempunyai kewajipan STR."
 
 lang: "ms"
-sourceContentHash: "244748feaceb18fe"
+sourceContentHash: "ed7c9043d8d06f81"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -109,7 +109,7 @@ Sesuatu STR mesti sampai kepada FIED **selewat-lewatnya hari bekerja berikutnya*
 
 Dua perlindungan menjadikan pelaporan lebih selamat: AMLA mengatasi kewajipan kerahsiaan dan kesulitan supaya sesuatu laporan bukanlah suatu pelanggaran tugas, dan seseorang yang melapor dengan niat suci hati dilindungi daripada tindakan sivil, jenayah atau tatatertib. Sengaja memecahkan sesuatu transaksi untuk mengelak ambang pelaporan itu sendiri merupakan suatu kesalahan di bawah seksyen 4A.
 
-Perhatikan satu salah tanggapan yang lazim: **Laporan Ambang Tunai** untuk tunai bernilai RM25,000 dan ke atas bukanlah kewajipan yang meliputi seluruh DNFBP. Ia hanya dikenakan ke atas institusi perbankan, institusi kewangan pembangunan terpilih, Lembaga Tabung Haji dan kasino berlesen.
+Perhatikan satu salah tanggapan yang lazim: **Laporan Ambang Tunai** untuk tunai bernilai RM25,000 dan ke atas bukanlah kewajipan yang meliputi seluruh DNFBP. Ia hanya dikenakan ke atas institusi perbankan, institusi kewangan pembangunan terpilih, [Lembaga Tabung Haji](/companies/lembaga-tabung-haji) dan kasino berlesen.
 
 ## Apa seterusnya
 

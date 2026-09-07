@@ -73,7 +73,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["touch-n-go", "road-tax-renewal"]
 keywords: ["tol lebuh raya Malaysia", "SmartTAG", "RFID Touch n Go", "JustGO PLUS", "ANPR tol", "MLFF tol tanpa palang", "lorong tol Malaysia"]
-sourceContentHash: "3c4fadc4ffe6b6df"
+sourceContentHash: "c1392d940afe3b99"
 ---
 
 The car ahead of you in the RFID lane brakes suddenly because the sticker on its headlamp wasn't detected — even though many people assume RFID means "you don't need to do anything at all." In reality, Malaysia currently runs at least four generations of toll technology simultaneously across different highways, and confusing one for another is a common cause of cars getting stuck at the gate.
@@ -105,7 +105,7 @@ The reason for this shift makes engineering sense: SmartTAG depends on a battery
 
 ## Piloting an open system: JustGO PLUS
 
-The next step has already begun. According to an official media statement from PLUS Malaysia Berhad, PLUS is piloting an open tolling system using ANPR technology — named JustGO — on the stretch between the Hutan Kampung and Sungai Dua plazas on the North-South Expressway, covering nine toll plazas.
+The next step has already begun. According to an official media statement from [PLUS Malaysia Berhad](/companies/plus-malaysia), PLUS is piloting an open tolling system using ANPR technology — named JustGO — on the stretch between the Hutan Kampung and Sungai Dua plazas on the North-South Expressway, covering nine toll plazas.
 
 According to a report by The Star citing PLUS, the pilot expanded to 18 toll plazas across the PLUS network by 15 July 2026, with six additional plazas in the southern region (including Mambau, Lukut, Kempas, Tanjung Kupang, Lima Kedai and Perling) joining the list. PLUS also stated its intention to activate this system at all toll plazas it operates starting August 2026.
 

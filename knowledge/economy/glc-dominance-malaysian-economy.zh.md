@@ -32,7 +32,7 @@ faq:
     a: "是的。2021年推出的PERKUKUH倡议提出了20项举措，旨在（除其他目标外）赋予每家政联投资公司更清晰的使命、增加私营部门的参与（'引入'private-sector crowding in），并精简政府在商业中的角色，同时将更多投资引向具有催化和发展意义的领域。"
 
 lang: "zh"
-sourceContentHash: "58ac4688e4092ece"
+sourceContentHash: "72a029d7e3ea589d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -103,10 +103,10 @@ keywords: ["GLC", "GLIC", "Khazanah", "government-linked companies", "Bursa Mala
 |------|------|------------------------|-------------------------------|
 | 雇员公积金局（EPF） | 机构投资者 | 1.096万亿令吉 | 24.4% |
 | 国民投资机构（PNB） | 机构投资者 | 3320亿令吉 | 74.4% |
-| 退休基金局（KWAP） | 主权/战略基金 | 1670亿令吉 | 45.2% |
+| [退休基金局（KWAP）](/companies/kwap) | 主权/战略基金 | 1670亿令吉 | 45.2% |
 | 国库控股（Khazanah Nasional） | 主权/战略基金 | 1225亿令吉（投资组合） | — |
-| 朝圣基金局（LTH） | 机构投资者 | 910亿令吉 | 18.3% |
-| 武装部队基金局（LTAT） | 机构投资者 | 105亿令吉 | 52% |
+| [朝圣基金局（LTH）](/companies/lembaga-tabung-haji) | 机构投资者 | 910亿令吉 | 18.3% |
+| [武装部队基金局（LTAT）](/companies/ltat-and-boustead) | 机构投资者 | 105亿令吉 | 52% |
 | 财政部公司（MoF Inc） | 主权/战略基金 | — | — |
 | 国家信托基金（KWAN） | 主权/战略基金 | — | — |
 
@@ -129,7 +129,7 @@ keywords: ["GLC", "GLIC", "Khazanah", "government-linked companies", "Bursa Mala
 - **银行与金融**——马银行（Maybank，该国最大的银行，通过PNB控制）、联昌集团（CIMB Group）和兴业银行（RHB Bank）都以政联投资公司为支撑。一项历时十年的检讨发现，各政联投资公司在46家上市公司中持有至少30%的股权，其中大型银行位列表现最稳健者之中。
 - **公用事业与能源**——国能（Tenaga Nasional）运营国家电网；马来西亚天然气（Gas Malaysia）及与国油（Petronas）关联的上市单位涵盖天然气与石化。公用事业接近于天然的国家垄断，因此政联投资公司在此领域的所有权最为深厚。
 - **电信**——马来西亚电信（Telekom Malaysia，固网与宽带的老牌运营商）和数据中心企业TIME dotCom，与政联投资公司在移动运营商中的股权并存。
-- **种植业**——森那美（Sime Darby）和Boustead种植，使国家处于马来西亚棕榈油经济的中心。
+- **种植业**——[森那美（Sime Darby）](/companies/sime-darby-group)和Boustead种植，使国家处于马来西亚棕榈油经济的中心。
 
 大致规律是一致的：国家的掌控在基础设施和金融领域最紧，而在私营和外资企业主导的面向消费者及出口制造业领域则较为松散。
 

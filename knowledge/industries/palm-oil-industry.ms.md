@@ -39,7 +39,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "4bb9d9d27dc92824"
+sourceContentHash: "6df254d9cadb68a3"
 
 status: "published"
 aiAssisted: true
@@ -128,7 +128,7 @@ Perhatikan bahawa eksport menurun dari segi isi padu manakala hasil eksport meni
 
 Kedua-duanya, dan pembahagiannya penting. Tanah kelapa sawit Malaysia terbahagi kepada tiga jenis penanam yang luas:
 
-- **Ladang** — perladangan swasta besar yang dikendalikan oleh kumpulan tersenarai seperti Sime Darby Plantation, IOI dan KLK, serta agensi negeri, menguruskan beribu-ribu hektar dengan kilang mereka sendiri.
+- **Ladang** — perladangan swasta besar yang dikendalikan oleh kumpulan tersenarai seperti [Sime Darby](/companies/sime-darby-group) Plantation, IOI dan KLK, serta agensi negeri, menguruskan beribu-ribu hektar dengan kilang mereka sendiri.
 - **Pekebun kecil tersusun** — peneroka di skim pembangunan tanah kerajaan, terutamanya Lembaga Kemajuan Tanah Persekutuan (FELDA), serta FELCRA dan RISDA, yang plot mereka diuruskan secara kolektif.
 - **Pekebun kecil bebas** — petani, biasanya mengusahakan kurang daripada 40 hektar, yang memiliki dan mengendalikan tanah mereka sendiri, selalunya sebagai keluarga.
 

@@ -188,7 +188,7 @@ Struktur Kementerian Kewangan terbahagi kepada **jabatan** yang merupakan sebaha
 | Bursa Malaysia Berhad | Bursa saham |
 | Lembaga Hasil Dalam Negeri (LHDN) | Cukai langsung — cukai pendapatan, duti setem, CKHT |
 | Kumpulan Wang Simpanan Pekerja (KWSP) | Simpanan persaraan swasta |
-| Kumpulan Wang Persaraan (Diperbadankan) (KWAP) | Pencen sektor awam |
+| [Kumpulan Wang Persaraan](/companies/kwap) (Diperbadankan) (KWAP) | Pencen sektor awam |
 | Perbadanan Insurans Deposit Malaysia (PIDM) | Insurans deposit dan takaful |
 | Bank Simpanan Nasional | Bank simpanan |
 | Lembaga Perkhidmatan Kewangan Labuan (Labuan FSA) | Kawal selia pusat kewangan luar pesisir Labuan |

@@ -34,7 +34,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5219b8f7edb9aed3"
+sourceContentHash: "cd13a733d0e3f471"
 
 status: "published"
 aiAssisted: true
@@ -121,7 +121,7 @@ KTMB的**ETS（电动火车服务）**行驶于振林山与巴东勿刹之间电
 
 与之并行的，是一套密集的**长途巴士**网络，从吉隆坡的南部综合车站（Terminal Bersepadu Selatan，TBS）等大型综合车站出发，进一步连接半岛各地及跨越长堤的目的地。巴士填补了铁路触及不到的城镇与路线，而对其中许多路线而言，巴士仍是唯一直达的公共交通选项。
 
-走同样路程的司机，靠的是贯穿整个半岛的**PLUS**收费大道网络，经由铁路与巴士路线所服务的同一条走廊，连接南北两端边境——这正是南北大道几乎出现在半岛每一趟长途公路行程中的原因。
+走同样路程的司机，靠的是贯穿整个半岛的**[PLUS](/companies/plus-malaysia)**收费大道网络，经由铁路与巴士路线所服务的同一条走廊，连接南北两端边境——这正是南北大道几乎出现在半岛每一趟长途公路行程中的原因。
 
 | 城镇之间往来 | 典型用途 | 营运方 |
 | --- | --- | --- |

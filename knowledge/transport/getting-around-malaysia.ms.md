@@ -34,7 +34,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5219b8f7edb9aed3"
+sourceContentHash: "cd13a733d0e3f471"
 
 status: "published"
 aiAssisted: true
@@ -173,7 +173,7 @@ tidak sampai oleh keretapi, dan kekal, bagi banyak laluan itu, sebagai
 satu-satunya pilihan pengangkutan awam langsung.
 
 Pemandu yang membuat perjalanan yang sama bergantung pada rangkaian
-**PLUS** lebuh raya bertol yang berjalan sepanjang semenanjung,
+**[PLUS](/companies/plus-malaysia)** lebuh raya bertol yang berjalan sepanjang semenanjung,
 menghubungkan sempadan utara dan selatan melalui koridor yang sama yang
 dilalui oleh laluan keretapi dan bas — sebab Lebuhraya Utara-Selatan
 muncul dalam hampir setiap perjalanan jarak jauh di semenanjung.

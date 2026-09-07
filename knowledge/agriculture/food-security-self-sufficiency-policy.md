@@ -90,7 +90,7 @@ DAN 2.0 ialah dasar induk sektor agromakanan Malaysia bagi tempoh 2021-2030. Ia 
 
 Dasar ini menggariskan aspirasi menjadikan sektor agromakanan negara lebih mampan, berdaya tahan dan berteknologi tinggi. Antara tumpuan utamanya ialah pemodenan dan pertanian pintar sebagai pemangkin, pengukuhan rantaian nilai, pembangunan bakat mahir, amalan pertanian mampan, dan ekosistem perniagaan yang kondusif.
 
-Dari sudut ekonomi, DAN 2.0 dilaporkan mensasarkan pertumbuhan Keluaran Dalam Negara Kasar (KDNK) sektor agromakanan sebanyak **5% setahun menjelang 2030**, berbanding jangkaan 4.5% setahun sepanjang tempoh Rancangan Malaysia Ke-12.
+Dari sudut ekonomi, DAN 2.0 dilaporkan mensasarkan pertumbuhan Keluaran Dalam Negara Kasar (KDNK) sektor agromakanan sebanyak **5% setahun menjelang 2030**, berbanding jangkaan 4.5% setahun sepanjang tempoh [Rancangan Malaysia Ke-12](/economy/malaysia-plans).
 
 ## Berapa tinggi sasaran tahap sara diri (SSL) menjelang 2030?
 

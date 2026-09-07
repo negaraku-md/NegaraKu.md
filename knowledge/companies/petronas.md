@@ -140,7 +140,7 @@ Petronas ialah sebuah kumpulan bersepadu yang meliputi keseluruhan rantaian nila
 | PETRONAS Chemicals Group (PCG) | Pengeluar kimia bersepadu — olefin, polimer, baja, metanol, kimia khusus |
 | PETRONAS Gas Berhad (PGB) | Memiliki dan mengendali rangkaian pemprosesan, penghantaran dan penyahgasan gas |
 | PETRONAS Dagangan Berhad (PDB) | Runcit dan pemasaran produk petroleum hiliran (stesen minyak, produk) |
-| MISC Berhad | Logistik dan maritim — pengangkutan LNG, kapal tangki, perkhidmatan teknikal |
+| [MISC Berhad](/companies/misc-berhad) | Logistik dan maritim — pengangkutan LNG, kapal tangki, perkhidmatan teknikal |
 
 Setiap satunya tersenarai secara berasingan di Bursa Malaysia dengan Petronas kekal sebagai pemegang saham mengawal. Menara Berkembar Petronas di Kuala Lumpur — ibu pejabat kumpulan — kekal antara mercu tanda paling ikonik negara.
 

@@ -38,7 +38,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ad3e36f6f85be9ee"
+sourceContentHash: "b59bcb20c9aa24c2"
 
 status: "published"
 aiAssisted: true
@@ -116,7 +116,7 @@ Malaysia meratifikasi Konvensyen ILO 29 pada 1957 dan Protokol 2014 kepadanya pa
 
 Seksyen 307 Akta Tarif AS 1930 (19 U.S.C. 1307) melarang barangan yang dihasilkan sepenuhnya atau sebahagiannya oleh buruh paksa. Sehingga 2016, pengecualian "consumptive demand" membenarkan barangan sedemikian masuk apabila bekalan domestik tidak mencukupi; Trade Facilitation and Trade Enforcement Act 2015, ditandatangani pada 24 Februari 2016, memansuhkan pengecualian itu. CBP kini menahan di bawah withhold release order dan merampas di bawah Finding.
 
-Rekod Malaysia sejak itu: **WRP Asia Pacific** (2019, sarung tangan), **Top Glove** (2020, meningkat kepada Finding pada Mac 2021), **FGV Holdings** (2020, minyak sawit, diubah suai 15 Januari 2026), **Sime Darby Plantation** (2020, meningkat kepada Finding pada Januari 2022), **Supermax** (2021), **Smart Glove** (2021), **Brightway** (2021) dan **YTY Industry** (2022). **Kesemuanya sejak itu telah diubah suai atau dibatalkan** — set data yang diterbitkan oleh CBP setakat 23 Jun 2026 tidak mengandungi sebarang entri Malaysia, jadi tiada perintah AS yang aktif pada hari ini.
+Rekod Malaysia sejak itu: **WRP Asia Pacific** (2019, sarung tangan), **Top Glove** (2020, meningkat kepada Finding pada Mac 2021), **FGV Holdings** (2020, minyak sawit, diubah suai 15 Januari 2026), **[Sime Darby](/companies/sime-darby-group) Plantation** (2020, meningkat kepada Finding pada Januari 2022), **Supermax** (2021), **Smart Glove** (2021), **Brightway** (2021) dan **YTY Industry** (2022). **Kesemuanya sejak itu telah diubah suai atau dibatalkan** — set data yang diterbitkan oleh CBP setakat 23 Jun 2026 tidak mengandungi sebarang entri Malaysia, jadi tiada perintah AS yang aktif pada hari ini.
 
 Gelombang seterusnya ialah dari Eropah. **Regulation (EU) 2024/3015** berkuat kuasa pada 13 Disember 2024, tetapi Artikel 39 mengenakan larangan pasaran itu sendiri mulai **14 Disember 2027**. Peruntukan yang sudah berkuat kuasa kini bersifat institusi — garis panduan, pangkalan data, portal tunggal — bukan kewajipan ke atas pengeksport. Minyak sawit, sarung tangan, elektronik dan pakaian Malaysia semuanya muncul dalam List of Goods Produced by Child Labor or Forced Labor 2024 terbitan Jabatan Buruh AS, dan di situlah pihak berkuasa EU akan mula menyiasat.
 

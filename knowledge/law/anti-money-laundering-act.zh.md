@@ -29,7 +29,7 @@ faq:
     a: "根据第六部分，执法机构可发出冻结令，调查官可在调查过程中扣押动产，检察官则拥有进一步的扣押与充公权力。"
 
 lang: "zh"
-sourceContentHash: "2d6e3b132521c3d4"
+sourceContentHash: "03583a7602b0f6ef"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -115,7 +115,7 @@ keywords: ["AMLA", "AMLATFPUAA 2001", "Act 613", "money laundering Malaysia", "t
 
 报告提交予马来西亚国家银行的**金融情报与执法局（Financial Intelligence and Enforcement Department，FIED）**，该局担任马来西亚的金融情报单位。可疑交易报告须在合规主管确立怀疑之日起的下一个工作日内，透过电邮、实体邮寄或金融情报系统（Financial Intelligence System，FINS）提交。
 
-另外，特定机构——银行机构、发展金融机构、朝圣基金局（Lembaga Tabung Haji）及持牌赌场——必须就一日内**RM25,000及以上**的现金交易提交**现金门槛报告（Cash Threshold Reports，CTRs）**，透过FINS以电子方式提交。
+另外，特定机构——银行机构、发展金融机构、[朝圣基金局](/companies/lembaga-tabung-haji)（Lembaga Tabung Haji）及持牌赌场——必须就一日内**RM25,000及以上**的现金交易提交**现金门槛报告（Cash Threshold Reports，CTRs）**，透过FINS以电子方式提交。
 
 ## 谁负责执法，如何执法？
 

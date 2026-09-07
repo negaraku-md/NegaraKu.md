@@ -30,7 +30,7 @@ faq:
     a: "不必。针对 RM25,000 及以上现金交易的现金门槛报告，仅适用于银行机构、指定的发展金融机构、朝圣基金局（Lembaga Tabung Haji）及持牌赌场。DNFBP 仍然负有 STR 义务。"
 
 lang: "zh"
-sourceContentHash: "244748feaceb18fe"
+sourceContentHash: "ed7c9043d8d06f81"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -109,7 +109,7 @@ STR 必须在你的合规官确立可疑之后的**下一个工作日之前**送
 
 有两项保护措施让报告更为安全：AMLA 凌驾于保密与机密义务之上，因此提交报告并不构成失职；而善意提交报告者可免于民事、刑事或纪律处分。刻意拆分交易以规避报告门槛，本身即构成第 4A 条下的罪行。
 
-请注意一个常见的误解：针对 RM25,000 及以上现金的**现金门槛报告**，并不是所有 DNFBP 都需履行的义务。它仅落在银行机构、指定的发展金融机构、朝圣基金局（Lembaga Tabung Haji）及持牌赌场身上。
+请注意一个常见的误解：针对 RM25,000 及以上现金的**现金门槛报告**，并不是所有 DNFBP 都需履行的义务。它仅落在银行机构、指定的发展金融机构、[朝圣基金局（Lembaga Tabung Haji）](/companies/lembaga-tabung-haji)及持牌赌场身上。
 
 ## 下一步
 

@@ -30,7 +30,7 @@ faq:
     a: "Di Malaysia (termasuk Johor, Melaka, Negeri Sembilan, Pahang, Sabah dan Sarawak) dan di Indonesia (Kalimantan Barat dan Tengah)."
 
 lang: "ms"
-sourceContentHash: "a9f015fc78a03618"
+sourceContentHash: "1a35d39eb3932506"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -133,7 +133,7 @@ Rekod IOI tidak sempurna sepenuhnya: ia telah digantung daripada RSPO selama beb
 
 ## Di manakah kedudukan IOI dalam kalangan gergasi minyak sawit?
 
-IOI sering dikelompokkan bersama penanam terbesar Malaysia — bersama nama seperti Sime Darby dan Kuala Lumpur Kepong — sebagai salah satu syarikat minyak sawit bersepadu unggulan negara. Apa yang membezakannya ialah kedalaman integrasi hiliran: daripada hanya menjual CPO, ia meraih margin lebih jauh dalam rantaian melalui penapisan, oleokimia dan lemak istimewa, yang boleh menampan sebahagian daripada volatiliti harga komoditi mentah.
+IOI sering dikelompokkan bersama penanam terbesar Malaysia — bersama nama seperti [Sime Darby](/companies/sime-darby-group) dan Kuala Lumpur Kepong — sebagai salah satu syarikat minyak sawit bersepadu unggulan negara. Apa yang membezakannya ialah kedalaman integrasi hiliran: daripada hanya menjual CPO, ia meraih margin lebih jauh dalam rantaian melalui penapisan, oleokimia dan lemak istimewa, yang boleh menampan sebahagian daripada volatiliti harga komoditi mentah.
 
 ## Apa yang seterusnya
 

@@ -33,7 +33,7 @@ faq:
     a: "是的。DNB 依据《1998 年通讯及多媒体法令》获发牌照，并受 MCMC 监管。单一批发网络模式已经结束：政府于 2023 年决定转向双网络模式，U Mobile 获选为第二个 5G 网络（于 2026 年 1 月投入服务）。MCMC 对两个网络均进行监管。"
 
 lang: "zh"
-sourceContentHash: "1aacfd76abedf6a6"
+sourceContentHash: "5e417b42cf91ed1a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -130,7 +130,7 @@ keywords: ["MCMC", "SKMM", "Akta Komunikasi dan Multimedia 1998", "Akta 588", "A
 
 除了发牌之外，MCMC 还主导国家连接政策。**[JENDELA](/technology/5g-jendela-dnb-malaysia)（国家数字网络，Jalinan Digital Negara）** 是由 MCMC 主导的计划，旨在扩大覆盖范围、提升宽带质量，同时为国家迎接 5G 做好准备。
 
-第一阶段（2020–2022）以将 4G 覆盖率从 91.8% 提升至 96.9%、移动宽带速度从 25 Mbps 提升至 35 Mbps，以及让全国 83% 的处所享有千兆固定宽带接入为目标。JENDELA 门户网站也列出了长期的国家愿景——固定宽带千兆接入、移动宽带 100 Mbps，以及 4G 覆盖率 100%。第二阶段在 4G 平台稳固之后，聚焦于 5G 的部署，与第十二大马计划（RMK-12）保持一致。
+第一阶段（2020–2022）以将 4G 覆盖率从 91.8% 提升至 96.9%、移动宽带速度从 25 Mbps 提升至 35 Mbps，以及让全国 83% 的处所享有千兆固定宽带接入为目标。JENDELA 门户网站也列出了长期的国家愿景——固定宽带千兆接入、移动宽带 100 Mbps，以及 4G 覆盖率 100%。第二阶段在 4G 平台稳固之后，聚焦于 5G 的部署，与第十二[大马计划](/economy/malaysia-plans)（RMK-12）保持一致。
 
 在 5G 方面，政府最初指示 **国家数字有限公司（Digital Nasional Berhad，DNB）** 建设单一批发网络（*single wholesale network*），依据《1998 年通讯及多媒体法令》获发牌照批发供应 5G 覆盖。但政府于 2023 年 5 月决定转向**双 5G 网络**模式：MCMC 选定 **U Mobile** 为第二网络运营商（2024 年 11 月），并于 2026 年 1 月投入服务。DNB 不再由财政部（公司化）全资拥有——U Mobile 退出后，其股权由 CelcomDigi、Maxis、YTL Power 与 MOF Inc 持有。DNB 与 U Mobile 均作为持牌电信提供者，处于 MCMC 的监管监督之下。
 

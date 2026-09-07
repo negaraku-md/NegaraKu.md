@@ -38,7 +38,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ad3e36f6f85be9ee"
+sourceContentHash: "b59bcb20c9aa24c2"
 
 status: "published"
 aiAssisted: true
@@ -154,7 +154,7 @@ Finding 予以扣押。
 
 马来西亚自此的记录：**WRP Asia Pacific**（2019 年，手套）、**Top Glove**（2020 年，
 2021 年 3 月升级为 Finding）、**FGV Holdings**（2020 年，棕油，2026 年 1 月 15 日
-修改）、**Sime Darby Plantation**（2020 年，2022 年 1 月升级为 Finding）、
+修改）、**[Sime Darby](/companies/sime-darby-group) Plantation**（2020 年，2022 年 1 月升级为 Finding）、
 **Supermax**（2021 年）、**Smart Glove**（2021 年）、**Brightway**（2021 年）与
 **YTY Industry**（2022 年）。**此后全部已修改或撤销**——CBP 截至 2026 年 6 月 23 日
 已公布的数据集中没有马来西亚条目，因此今天并无生效中的美国命令。

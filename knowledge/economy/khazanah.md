@@ -106,9 +106,9 @@ question this page answers.
 
 "GLIC" is the label the Ministry of Finance uses for a specific group of
 state-linked investment entities. Per its own PERKUKUH reform documentation,
-Malaysia has six: Khazanah Nasional, Kumpulan Wang Persaraan (KWAP), the
+Malaysia has six: Khazanah Nasional, [Kumpulan Wang Persaraan](/companies/kwap) (KWAP), the
 Employees Provident Fund (EPF), Permodalan Nasional Berhad (PNB), Lembaga
-Tabung Haji (LTH) and Lembaga Tabung Angkatan Tentera (LTAT).
+Tabung Haji (LTH) and [Lembaga Tabung Angkatan Tentera](/companies/ltat-and-boustead) (LTAT).
 
 Being grouped together for policy purposes doesn't mean these six work the
 same way. They differ on the two questions that matter most: **who gives them

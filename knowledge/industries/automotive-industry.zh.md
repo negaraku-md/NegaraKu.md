@@ -38,7 +38,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "2149f1005d0a6af7"
+sourceContentHash: "67619f9b70d97b83"
 
 status: "published"
 aiAssisted: true
@@ -141,7 +141,7 @@ Saga一经推出便成为国家象征。在对外国汽车课以高额进口与�
 | 首款车型 | Saga（1985） | Kancil（1994） |
 | 原技术伙伴 | 三菱汽车 | 大发 |
 | 现外资伙伴 | 吉利（49.9%） | 大发（技术） |
-| 马来西亚控制方 | DRB-HICOM（多数股权） | UMW／森那美、MBM、PNB |
+| 马来西亚控制方 | DRB-HICOM（多数股权） | UMW／[森那美](/companies/sime-darby-group)、MBM、PNB |
 | 市场定位 | 全系列、工程主导 | 小型、平价汽车 |
 
 ## 第二国产车由谁持有？

@@ -29,7 +29,7 @@ faq:
     a: "Companies applying for a PETRONAS licence must meet Bumiputera participation requirements according to the relevant SWEC code. For the PETRONAS Vendor Development Programme, a minimum of 51% Bumiputera ownership is required (source: Low & Partners; PETRONAS)."
 
 lang: "en"
-sourceContentHash: "657c9b8f05a51ced"
+sourceContentHash: "8653f4f58e0534c5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -81,7 +81,7 @@ This article explains the origins, mechanisms and official figures of these poli
 
 ## Where did the 30% equity target come from?
 
-The Bumiputera equity target stems from the New Economic Policy (NEP). According to analysis by the ISEAS – Yusof Ishak Institute, the NEP was introduced in two stages, namely as chapters in the Second Malaysia Plan (1971) and the Third Malaysia Plan (1976). One of its aims was to raise Bumiputera corporate equity ownership to 30%.
+The Bumiputera equity target stems from the New Economic Policy (NEP). According to analysis by the ISEAS – Yusof Ishak Institute, the NEP was introduced in two stages, namely as chapters in the Second [Malaysia Plan](/economy/malaysia-plans) (1971) and the Third Malaysia Plan (1976). One of its aims was to raise Bumiputera corporate equity ownership to 30%.
 
 According to ISEAS, the 30% target was originally split into two components:
 

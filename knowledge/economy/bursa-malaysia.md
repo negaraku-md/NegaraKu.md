@@ -152,7 +152,7 @@ its monthly median daily trading volume.
 Reviews run each June and December. A stock enters the index if it rises to 25th
 or above by full market value, and drops out if it falls to 36th or below — a
 deliberate buffer that stops the index churning on small price moves. At the June
-2026 review, IOI Properties Group replaced Sime Darby, effective at the start of
+2026 review, IOI Properties Group replaced [Sime Darby](/companies/sime-darby-group), effective at the start of
 business on 22 June.
 
 FTSE Russell and Bursa Malaysia consulted in March 2026 on expanding the index

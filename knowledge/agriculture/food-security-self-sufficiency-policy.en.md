@@ -31,7 +31,7 @@ faq:
     a: "The decline is largely the effect of a change in the calculation method, not simply a fall in production. The new method only counts clean paddy processed into rice and no longer includes paddy used for seed within the same year."
 
 lang: "en"
-sourceContentHash: "7d8abd9379de755b"
+sourceContentHash: "fcd35063d281dbc6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,7 +91,7 @@ DAN 2.0 is the master policy for Malaysia's agrofood sector for the 2021-2030 pe
 
 The policy outlines the aspiration to make the country's agrofood sector more sustainable, resilient and high-tech. Among its main focuses are modernisation and smart agriculture as catalysts, strengthening the value chain, developing skilled talent, sustainable agricultural practices, and a conducive business ecosystem.
 
-From an economic standpoint, DAN 2.0 is reported to target Gross Domestic Product (GDP) growth of the agrofood sector of **5% per year by 2030**, compared with the projected 4.5% per year over the period of the Twelfth Malaysia Plan.
+From an economic standpoint, DAN 2.0 is reported to target Gross Domestic Product (GDP) growth of the agrofood sector of **5% per year by 2030**, compared with the projected 4.5% per year over the period of the [Twelfth Malaysia Plan](/economy/malaysia-plans).
 
 ## How high are the self-sufficiency level (SSL) targets by 2030?
 

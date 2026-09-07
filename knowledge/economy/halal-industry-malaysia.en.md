@@ -29,7 +29,7 @@ faq:
     a: "Malaysia's halal product exports reached RM61.79 billion in 2024, up 15% from RM53.72 billion in 2023 (MITI). For the January–September 2024 period, exports were valued at RM45.04 billion compared with RM39.36 billion in the same period in 2023 (MITI/MIDA)."
 
 lang: "en"
-sourceContentHash: "64974b367ac55de0"
+sourceContentHash: "3ad8176877de788c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -103,7 +103,7 @@ The most comprehensive official measure comes from the **Economic Census 2023 (h
 
 By sector, **manufacturing** is the largest contributor with 3,590 establishments generating gross output of RM347.8 billion and value added of RM61.4 billion. The **services** sector comprises 8,464 establishments (gross output RM59.6 billion), while **agriculture** recorded 370 establishments (RM9.9 billion). Micro, small and medium enterprises (MSMEs) represent **62.4%** of all halal establishments — 7,748 establishments generating gross output of RM86.7 billion. All of these figures are based on the DOSM Economic Census 2023 (halal statistics) tabulations.
 
-For a longer-term perspective, a Ministry of Finance reference records the halal industry's contribution to GDP at **7.5%** (2020), with a target of 8.1% by 2025 under the Twelfth Malaysia Plan.
+For a longer-term perspective, a Ministry of Finance reference records the halal industry's contribution to GDP at **7.5%** (2020), with a target of 8.1% by 2025 under the [Twelfth Malaysia Plan](/economy/malaysia-plans).
 
 ## How are halal exports growing?
 

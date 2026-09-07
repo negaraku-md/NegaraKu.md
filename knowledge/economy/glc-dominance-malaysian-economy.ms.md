@@ -32,7 +32,7 @@ faq:
     a: "Ya. Inisiatif PERKUKUH yang dilancarkan pada 2021 menggariskan 20 inisiatif yang bertujuan, antara lain, memberikan setiap GLIC mandat yang lebih jelas, meningkatkan penyertaan sektor swasta ('crowding in') dan menyelaraskan peranan kerajaan dalam perniagaan, sambil mengarahkan lebih banyak pelaburan ke arah bidang pemangkin dan pembangunan."
 
 lang: "ms"
-sourceContentHash: "58ac4688e4092ece"
+sourceContentHash: "72a029d7e3ea589d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -103,10 +103,10 @@ Terdapat lapan GLIC, biasanya dibahagikan kepada dua kumpulan. Empat berkelakuan
 |------|------|------------------------|-------------------------------|
 | Kumpulan Wang Simpanan Pekerja (KWSP) | Pelabur institusi | RM1.096 trilion | 24.4% |
 | Permodalan Nasional Bhd (PNB) | Pelabur institusi | RM332 bilion | 74.4% |
-| Kumpulan Wang Persaraan (KWAP) | Dana kedaulatan/strategik | RM167 bilion | 45.2% |
+| [Kumpulan Wang Persaraan](/companies/kwap) (KWAP) | Dana kedaulatan/strategik | RM167 bilion | 45.2% |
 | Khazanah Nasional | Dana kedaulatan/strategik | RM122.5 bilion (portfolio) | — |
-| Lembaga Tabung Haji (LTH) | Pelabur institusi | RM91 bilion | 18.3% |
-| Lembaga Tabung Angkatan Tentera (LTAT) | Pelabur institusi | RM10.5 bilion | 52% |
+| [Lembaga Tabung Haji](/companies/lembaga-tabung-haji) (LTH) | Pelabur institusi | RM91 bilion | 18.3% |
+| [Lembaga Tabung Angkatan Tentera](/companies/ltat-and-boustead) (LTAT) | Pelabur institusi | RM10.5 bilion | 52% |
 | Menteri Kewangan Diperbadankan (MoF Inc) | Dana kedaulatan/strategik | — | — |
 | Kumpulan Wang Amanah Negara (KWAN) | Dana kedaulatan/strategik | — | — |
 
@@ -129,7 +129,7 @@ Tidak sekata. Pemilikan GLIC berkelompok dalam bahagian ekonomi yang padat modal
 - **Perbankan dan kewangan** — Maybank (bank terbesar negara, dikawal melalui PNB), CIMB Group dan RHB Bank semuanya bertunjangkan GLIC. Semakan selama sedekad mendapati GLIC memegang sekurang-kurangnya 30% kepentingan ekuiti dalam 46 syarikat tersenarai, dengan bank-bank besar antara yang paling stabil prestasinya.
 - **Utiliti dan tenaga** — Tenaga Nasional mengendalikan grid negara; Gas Malaysia dan unit tersenarai berkaitan Petronas meliputi gas dan petrokimia. Utiliti hampir kepada monopoli negara semula jadi, jadi pemilikan GLIC di sini adalah paling mendalam.
 - **Telekomunikasi** — Telekom Malaysia (syarikat mapan talian tetap dan jalur lebar) dan pemain pusat data TIME dotCom berdampingan dengan kepentingan GLIC dalam pengendali mudah alih.
-- **Perladangan** — Sime Darby dan Boustead Plantations meletakkan negara di tengah-tengah ekonomi minyak sawit Malaysia.
+- **Perladangan** — [Sime Darby](/companies/sime-darby-group) dan Boustead Plantations meletakkan negara di tengah-tengah ekonomi minyak sawit Malaysia.
 
 Corak umumnya konsisten: cengkaman negara paling ketat dalam infrastruktur dan kewangan, lebih longgar dalam sektor menghadap pengguna dan pembuatan eksport di mana firma swasta dan asing mendahului.
 
