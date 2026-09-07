@@ -80,6 +80,12 @@ sources:
     url: "https://www.nst.com.my/news/nation/2023/04/898800/miti-now-known-ministry-investment-trade-and-industry"
     publisher: "New Straits Times"
     date: "2023-04-12"
+  - title: "MITI — History and Background"
+    url: "https://www.miti.gov.my/index.php/pages/view/10337"
+    publisher: "Ministry of Investment, Trade and Industry (MITI)"
+  - title: "Ministry of Investment, Trade and Industry (Malaysia)"
+    url: "https://en.wikipedia.org/wiki/Ministry_of_Investment,_Trade_and_Industry_(Malaysia)"
+    publisher: "Wikipedia"
 
 entity: "MITI"
 relations:
@@ -153,6 +159,19 @@ up nowhere in day-to-day references — only in the spelled-out name. If an
 older document or citation says "Ministry of International Trade and
 Industry," it is referring to the same ministry under its former name.
 
+The lineage runs deeper than the 2023 rename:
+
+| Year | Milestone |
+| --- | --- |
+| April 1956 | Established as the Ministry of Commerce and Industry |
+| February 1972 | Renamed the Ministry of Trade and Industry |
+| 27 October 1990 | Split into two — MITI (international trade and industry) and KPDN (domestic trade and consumer affairs) |
+| 5 April 2023 | Renamed the Ministry of Investment, Trade and Industry, keeping the MITI acronym |
+
+That 1990 split is why MITI and **KPDN** are separate ministries today: MITI
+handles international trade and industrial policy, while KPDN handles domestic
+trade and consumer affairs.
+
 ## Beyond MIDA and MATRADE
 
 MITI's own agencies listing names roughly a dozen further statutory bodies
@@ -164,6 +183,8 @@ likely to come up in practice:
   industrial research
 - **EXIM Bank** and **MIDF** — export-import and industrial development
   financing
+- **MARii**, **MSI**, **HDC** and **MRM** — sector bodies for automotive,
+  steel, halal and rubber
 - **NAICO** — the National Automotive Industry Council
 
 The exact current roster and each entity's legal form were not independently
@@ -178,6 +199,16 @@ regional. Malaysia is a party to the **Regional Comprehensive Economic
 Partnership (RCEP)** and the **Comprehensive and Progressive Agreement for
 Trans-Pacific Partnership (CPTPP)**, among other agreements, with MITI as the
 lead negotiating ministry.
+
+## Who runs it, and its budget
+
+As of the December 2025 Cabinet reshuffle, MITI is led by **Datuk Seri Johari
+Abdul Ghani** as Minister, with **Sim Tze Tzin** as Deputy Minister. The
+ministry is headquartered at **Menara MITI** in Kuala Lumpur.
+
+Under Budget 2026, MITI received an allocation of **RM1.898 billion** to lead
+delivery of the **New Industrial Master Plan 2030 (NIMP 2030)**, the blueprint
+guiding Malaysia's manufacturing and industrial direction.
 
 ## Where the related rules live
 

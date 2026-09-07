@@ -39,7 +39,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "cea0dd80e40bb2af"
+sourceContentHash: "384564550c625009"
 
 status: "published"
 aiAssisted: true
@@ -81,6 +81,12 @@ sources:
     url: "https://www.nst.com.my/news/nation/2023/04/898800/miti-now-known-ministry-investment-trade-and-industry"
     publisher: "New Straits Times"
     date: "2023-04-12"
+  - title: "MITI — History and Background"
+    url: "https://www.miti.gov.my/index.php/pages/view/10337"
+    publisher: "Ministry of Investment, Trade and Industry (MITI)"
+  - title: "Ministry of Investment, Trade and Industry (Malaysia)"
+    url: "https://en.wikipedia.org/wiki/Ministry_of_Investment,_Trade_and_Industry_(Malaysia)"
+    publisher: "Wikipedia"
 
 entity: "MITI"
 relations:
@@ -158,6 +164,20 @@ dalam nama penuh yang dieja. Jika sesuatu dokumen atau petikan lama menyebut
 "Ministry of International Trade and Industry," ia merujuk kepada kementerian
 yang sama di bawah nama terdahulunya.
 
+Salasilahnya lebih mendalam daripada penamaan semula 2023 itu:
+
+| Tahun | Peristiwa penting |
+| --- | --- |
+| April 1956 | Ditubuhkan sebagai Kementerian Perdagangan dan Perindustrian |
+| Februari 1972 | Dinamakan semula sebagai Kementerian Perdagangan dan Industri |
+| 27 Oktober 1990 | Dipecahkan kepada dua — MITI (perdagangan antarabangsa dan industri) dan KPDN (perdagangan dalam negeri dan hal ehwal pengguna) |
+| 5 April 2023 | Dinamakan semula sebagai Ministry of Investment, Trade and Industry, mengekalkan akronim MITI |
+
+Pemecahan pada 1990 itulah sebabnya MITI dan **KPDN** merupakan kementerian
+yang berasingan hari ini: MITI mengendalikan perdagangan antarabangsa dan
+dasar perindustrian, manakala KPDN mengendalikan perdagangan dalam negeri dan
+hal ehwal pengguna.
+
 ## Selain MIDA dan MATRADE
 
 Senarai agensi MITI sendiri menamakan kira-kira selusin lagi badan berkanun
@@ -169,6 +189,8 @@ berkemungkinan timbul dalam amalan:
   dan penyelidikan perindustrian
 - **EXIM Bank** dan **MIDF** — pembiayaan eksport-import dan pembangunan
   perindustrian
+- **MARii**, **MSI**, **HDC** dan **MRM** — badan sektor bagi automotif,
+  keluli, halal dan getah
 - **NAICO** — the National Automotive Industry Council
 
 Senarai semasa yang tepat dan bentuk undang-undang setiap entiti tidak
@@ -183,6 +205,17 @@ mahupun serantau. Malaysia ialah pihak kepada **Regional Comprehensive
 Economic Partnership (RCEP)** dan **Comprehensive and Progressive Agreement
 for Trans-Pacific Partnership (CPTPP)**, antara perjanjian lain, dengan MITI
 sebagai kementerian yang mengetuai rundingan.
+
+## Siapa yang menerajuinya, dan belanjawannya
+
+Sehingga rombakan Kabinet Disember 2025, MITI diterajui oleh **Datuk Seri
+Johari Abdul Ghani** sebagai Menteri, dengan **Sim Tze Tzin** sebagai Timbalan
+Menteri. Ibu pejabat kementerian ini ialah **Menara MITI** di Kuala Lumpur.
+
+Di bawah Belanjawan 2026, MITI menerima peruntukan sebanyak **RM1.898 bilion**
+untuk menerajui pelaksanaan **Pelan Induk Perindustrian Baharu 2030 (NIMP
+2030)**, pelan tindakan yang memandu hala tuju pembuatan dan perindustrian
+Malaysia.
 
 ## Di mana peraturan berkaitan berada
 

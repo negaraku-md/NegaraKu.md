@@ -33,7 +33,7 @@ faq:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "28f150d04d5a4a33"
+sourceContentHash: "c1ba766163b08209"
 
 status: "published"
 aiAssisted: true
@@ -73,6 +73,19 @@ sources:
   - title: "Akta 299 — Akta Pendaftaran Kelahiran dan Kematian 1957"
     url: "https://lom.agc.gov.my/act-detail.php?act=299&lang=BI"
     publisher: "Pejabat Penggubal Undang-Undang, Jabatan Peguam Negara"
+  - title: "MyKad Application for Children Aged 12"
+    url: "https://www.jpn.gov.my/en/services/identity-card/mykad-application-for-children-aged-12/"
+    publisher: "National Registration Department (JPN)"
+  - title: "Replacement Application for Lost Identity Card"
+    url: "https://www.jpn.gov.my/en/services/identity-card/replacement-application-for-lost-identity-card-mykad-mytentera-mypr-or-mykas/"
+    publisher: "National Registration Department (JPN)"
+  - title: "About MyKad – MyGovernment Portal"
+    url: "https://www.malaysia.gov.my/en/categories/personal-identification/identity-card-application/about-mykad"
+    publisher: "MyGovernment"
+  - title: "JPN denies viral claims of MyKad address enforcement campaign"
+    url: "https://www.malaymail.com/news/malaysia/2026/07/23/jpn-denies-viral-claims-of-mykad-address-enforcement-campaign/228644"
+    publisher: "Malay Mail"
+    date: "2026-07-23"
 
 entity: "JPN"
 relations:
@@ -106,6 +119,11 @@ keywords: ["JPN", "Jabatan Pendaftaran Negara", "National Registration Departmen
 正是1948年的这项法规，首次规定每位居民须在年满12岁时登记并持有身份证——这项
 义务延续至今。此后，该部门被赋予额外职能，负责登记所有重要事件：出生、死亡、
 领养、结婚、离婚与公民权。
+
+现代意义上的里程碑出现在数十年之后。2001年9月5日，JPN推出了MyKad——世界上
+第一张在内嵌芯片上同时载有照片身份识别与指纹生物识别数据的身份证。它是
+MSC Malaysia旗舰应用之一，构想为一张政府多用途卡（Government Multipurpose
+Card）。
 
 ## 核心法令
 
@@ -141,6 +159,23 @@ Akta 78在各地区生效的日期并不相同：西马为1960年8月1日，砂�
 | MyPR | 永久居民——须自2006年6月1日起换成MyPR |
 | MyKAS | 暂时居民 |
 
+MyKad上印制的12位身份证号码遵循YYMMDD-PB-###G的格式——即出生日期、出生地
+代码、一个流水号，以及一个与持有人性别相关的末位数字（单数为男性，双数为
+女性）。
+
+## 补办遗失的MyKad
+
+遗失MyKad须按遗失次数缴付逐级递增的费用：
+
+| 情形 | 费用 | 要求 |
+| --- | --- | --- |
+| 第一次遗失 | RM110 | 须提交警察报告 |
+| 第二次遗失 | RM310 | 须提交警察报告 |
+| 第三次或以后遗失 | RM1,010 | 须提交警察报告 |
+
+每次补办均须提交警察报告。若不涉及更换照片或个人资料，可通过MyKad补办系统
+在线申请。
+
 ## 最常被错过的三个期限
 
 **出生登记：60天。** 普通登记是指在出生之日起60天内办理的登记，不收取任何
@@ -148,8 +183,7 @@ Akta 78在各地区生效的日期并不相同：西马为1960年8月1日，砂�
 
 **首次申请MyKad：30天。** Peraturan 3, Peraturan-Peraturan Pendaftaran Negara
 1990 (Pindaan 2007) 规定，公民儿童年满12岁须登记身份证。申请须在年满12岁
-之日起30天内办理；逾期则须缴付手续费。此处未列出费用金额——请在办理当日
-查阅JPN官方收费表。
+之日起30天内办理。在此期限内登记免费；逾期则须缴付RM10手续费。
 
 **境外婚姻：6个月。** 依据外国法律结婚的公民，须依据Akta 164 Seksyen 31，将
 该婚姻重新登记——须在婚姻于境外登记之日起6个月内，亲临JPN柜台或马来西亚

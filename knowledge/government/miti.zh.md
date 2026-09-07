@@ -39,7 +39,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "cea0dd80e40bb2af"
+sourceContentHash: "384564550c625009"
 
 status: "published"
 aiAssisted: true
@@ -81,6 +81,12 @@ sources:
     url: "https://www.nst.com.my/news/nation/2023/04/898800/miti-now-known-ministry-investment-trade-and-industry"
     publisher: "New Straits Times"
     date: "2023-04-12"
+  - title: "MITI — History and Background"
+    url: "https://www.miti.gov.my/index.php/pages/view/10337"
+    publisher: "Ministry of Investment, Trade and Industry (MITI)"
+  - title: "Ministry of Investment, Trade and Industry (Malaysia)"
+    url: "https://en.wikipedia.org/wiki/Ministry_of_Investment,_Trade_and_Industry_(Malaysia)"
+    publisher: "Wikipedia"
 
 entity: "MITI"
 relations:
@@ -147,6 +153,18 @@ Trade and Industry**（投资、贸易及工业部）。由于 MITI 这个缩写
 引文写着「Ministry of International Trade and Industry」，指的就是同一个部门在
 其旧名称下的样子。
 
+其沿革比 2023 年的更名更为久远：
+
+| 年份 | 里程碑 |
+| --- | --- |
+| 1956 年 4 月 | 成立为商业及工业部（Ministry of Commerce and Industry） |
+| 1972 年 2 月 | 更名为贸易及工业部（Ministry of Trade and Industry） |
+| 1990 年 10 月 27 日 | 一分为二——MITI（国际贸易及工业）与 KPDN（国内贸易及消费人事务） |
+| 2023 年 4 月 5 日 | 更名为 Ministry of Investment, Trade and Industry，保留 MITI 缩写 |
+
+正是 1990 年的这次分立，使得 MITI 与 **KPDN** 至今仍是两个独立的部门：MITI
+掌管国际贸易与工业政策，而 KPDN 掌管国内贸易与消费人事务。
+
 ## MIDA 与 MATRADE 以外
 
 MITI 本身的机构名录列出了除 MIDA 与 MATRADE 之外，约十几个其辖下的法定机构与
@@ -155,6 +173,7 @@ MITI 本身的机构名录列出了除 MIDA 与 MATRADE 之外，约十几个其
 - **MPC**——马来西亚生产力机构（Malaysia Productivity Corporation）
 - **SIRIM Berhad** 与 **Standards Malaysia（JSM）**——标准、检测与工业研究
 - **EXIM Bank** 与 **MIDF**——进出口与工业发展融资
+- **MARii**、**MSI**、**HDC** 与 **MRM**——汽车、钢铁、清真与橡胶领域机构
 - **NAICO**——国家汽车工业理事会（National Automotive Industry Council）
 
 本页并未针对每个实体的授权法律文书逐一核实目前确切的名单及各实体的法律形式——
@@ -167,6 +186,16 @@ MITI 主导马来西亚的自由贸易协定谈判，涵盖双边与区域协定
 经济伙伴关系协定（Regional Comprehensive Economic Partnership，RCEP）**与
 **跨太平洋伙伴全面进步协定（Comprehensive and Progressive Agreement for
 Trans-Pacific Partnership，CPTPP）**等协定的缔约方，MITI 是主导谈判的部门。
+
+## 由谁掌管，预算多少
+
+截至 2025 年 12 月的内阁改组，MITI 由**拿督斯里佐哈里·阿都干尼**（Datuk Seri
+Johari Abdul Ghani）担任部长，**沈志强**（Sim Tze Tzin）担任副部长。该部门的
+总部为吉隆坡的 **Menara MITI**。
+
+在 2026 年财政预算案下，MITI 获得 **18.98 亿令吉（RM1.898 billion）** 拨款，
+以主导落实**《2030 年新工业大蓝图》（New Industrial Master Plan 2030，NIMP
+2030）**——这是指引马来西亚制造业与工业方向的蓝图。
 
 ## 相关规则在哪里
 

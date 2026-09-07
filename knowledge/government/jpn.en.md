@@ -33,7 +33,7 @@ faq:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "28f150d04d5a4a33"
+sourceContentHash: "c1ba766163b08209"
 
 status: "published"
 aiAssisted: true
@@ -73,6 +73,19 @@ sources:
   - title: "Akta 299 — Akta Pendaftaran Kelahiran dan Kematian 1957"
     url: "https://lom.agc.gov.my/act-detail.php?act=299&lang=BI"
     publisher: "Pejabat Penggubal Undang-Undang, Jabatan Peguam Negara"
+  - title: "MyKad Application for Children Aged 12"
+    url: "https://www.jpn.gov.my/en/services/identity-card/mykad-application-for-children-aged-12/"
+    publisher: "National Registration Department (JPN)"
+  - title: "Replacement Application for Lost Identity Card"
+    url: "https://www.jpn.gov.my/en/services/identity-card/replacement-application-for-lost-identity-card-mykad-mytentera-mypr-or-mykas/"
+    publisher: "National Registration Department (JPN)"
+  - title: "About MyKad – MyGovernment Portal"
+    url: "https://www.malaysia.gov.my/en/categories/personal-identification/identity-card-application/about-mykad"
+    publisher: "MyGovernment"
+  - title: "JPN denies viral claims of MyKad address enforcement campaign"
+    url: "https://www.malaymail.com/news/malaysia/2026/07/23/jpn-denies-viral-claims-of-mykad-address-enforcement-campaign/228644"
+    publisher: "Malay Mail"
+    date: "2026-07-23"
 
 entity: "JPN"
 relations:
@@ -110,6 +123,12 @@ and hold an identity card on reaching age 12 — an obligation that remains
 in place today. The department was later given the additional function of
 registering all vital events: births, deaths, adoptions, marriages,
 divorces and citizenship.
+
+The modern milestone came decades later. On 5 September 2001, JPN introduced
+the MyKad — the first identity card in the world to carry both photo
+identification and fingerprint biometric data on an embedded chip. It was one
+of the MSC Malaysia flagship applications, conceived as a Government
+Multipurpose Card.
 
 ## Core statutes
 
@@ -153,6 +172,25 @@ the three regions.
 | MyPR | Permanent residents — required to convert to MyPR from 1 June 2006 |
 | MyKAS | Temporary residents |
 
+The 12-digit identity number printed on the MyKad follows the format
+YYMMDD-PB-###G — the date of birth, a place-of-birth code, a serial number,
+and a final digit that relates to the holder's gender (odd for male, even for
+female).
+
+## Replacing a lost MyKad
+
+A lost MyKad carries a tiered fee that rises with each successive loss:
+
+| Situation | Fee | Requirement |
+| --- | --- | --- |
+| First loss | RM110 | Police report required |
+| Second loss | RM310 | Police report required |
+| Third or subsequent loss | RM1,010 | Police report required |
+
+A police report must be submitted for every replacement. Where no change of
+photograph or particulars is involved, the application can be made online
+through the MyKad Replacement System.
+
 ## The three deadlines most often missed
 
 **60 days for a birth.** Ordinary registration is registration made
@@ -162,9 +200,8 @@ late registration with stricter review.
 **30 days for a first MyKad.** Peraturan 3, Peraturan-Peraturan
 Pendaftaran Negara 1990 (Pindaan 2007) requires a citizen child who
 reaches age 12 to register for an identity card. The application must be
-made within 30 days of the date of turning 12; after that a processing
-fee is charged. The fee amount is not listed here — check JPN's official
-fee schedule on the date of your transaction.
+made within 30 days of the date of turning 12. Registration within that
+window is free; after the window a RM10 fee applies.
 
 **6 months for a marriage abroad.** A citizen who marries under a foreign
 law needs to re-register that marriage under Seksyen 31 Akta 164 —

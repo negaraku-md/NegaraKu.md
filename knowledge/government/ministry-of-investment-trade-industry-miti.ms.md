@@ -29,7 +29,7 @@ lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "facadf452f025faf"
-status: "published"
+status: "archived"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

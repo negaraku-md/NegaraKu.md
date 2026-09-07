@@ -72,6 +72,19 @@ sources:
   - title: "Akta 299 — Akta Pendaftaran Kelahiran dan Kematian 1957"
     url: "https://lom.agc.gov.my/act-detail.php?act=299&lang=BI"
     publisher: "Pejabat Penggubal Undang-Undang, Jabatan Peguam Negara"
+  - title: "MyKad Application for Children Aged 12"
+    url: "https://www.jpn.gov.my/en/services/identity-card/mykad-application-for-children-aged-12/"
+    publisher: "National Registration Department (JPN)"
+  - title: "Replacement Application for Lost Identity Card"
+    url: "https://www.jpn.gov.my/en/services/identity-card/replacement-application-for-lost-identity-card-mykad-mytentera-mypr-or-mykas/"
+    publisher: "National Registration Department (JPN)"
+  - title: "About MyKad – MyGovernment Portal"
+    url: "https://www.malaysia.gov.my/en/categories/personal-identification/identity-card-application/about-mykad"
+    publisher: "MyGovernment"
+  - title: "JPN denies viral claims of MyKad address enforcement campaign"
+    url: "https://www.malaymail.com/news/malaysia/2026/07/23/jpn-denies-viral-claims-of-mykad-address-enforcement-campaign/228644"
+    publisher: "Malay Mail"
+    date: "2026-07-23"
 
 entity: "JPN"
 relations:
@@ -108,6 +121,12 @@ memiliki kad pengenalan apabila mencapai umur 12 tahun — kewajipan yang kekal
 hingga hari ini. Jabatan ini kemudiannya diberi fungsi tambahan mendaftarkan
 semua peristiwa penting: kelahiran, kematian, pengangkatan, perkahwinan,
 perceraian dan kewarganegaraan.
+
+Peristiwa penting era moden datang beberapa dekad kemudian. Pada 5 September
+2001, JPN memperkenalkan MyKad — kad pengenalan pertama di dunia yang
+menggabungkan kedua-dua pengenalan foto dan data biometrik cap jari pada cip
+terbenam. Ia merupakan salah satu aplikasi perdana MSC Malaysia, digagaskan
+sebagai Kad Pelbagai Guna Kerajaan (Government Multipurpose Card).
 
 ## Statut teras
 
@@ -147,6 +166,26 @@ kematian di portal JPN disenaraikan berasingan bagi ketiga-tiga wilayah.
 | MyPR | Pemastautin tetap — wajib bertukar kepada MyPR mulai 1 Jun 2006 |
 | MyKAS | Penduduk sementara |
 
+Nombor pengenalan 12 digit yang tercetak pada MyKad mengikut format
+YYMMDD-PB-###G — tarikh lahir, kod tempat lahir, nombor siri, dan digit
+terakhir yang berkaitan dengan jantina pemegang (ganjil untuk lelaki, genap
+untuk perempuan).
+
+## Fi menggantikan MyKad yang hilang
+
+Kehilangan MyKad dikenakan fi berperingkat mengikut bilangan kali kad itu
+hilang:
+
+| Situasi | Fi | Syarat |
+| --- | --- | --- |
+| Kehilangan pertama | RM110 | Laporan polis diperlukan |
+| Kehilangan kedua | RM310 | Laporan polis diperlukan |
+| Kehilangan ketiga atau seterusnya | RM1,010 | Laporan polis diperlukan |
+
+Laporan polis mesti dikemukakan bagi setiap penggantian. Apabila tiada
+pertukaran gambar atau butiran diri terlibat, permohonan boleh dibuat dalam
+talian melalui Sistem Penggantian MyKad.
+
 ## Tiga tempoh yang paling kerap terlepas
 
 **60 hari untuk kelahiran.** Pendaftaran biasa ialah pendaftaran yang dibuat
@@ -156,9 +195,8 @@ menjadi pendaftaran lewat dengan semakan yang lebih ketat.
 **30 hari untuk MyKad pertama.** Peraturan 3, Peraturan-Peraturan Pendaftaran
 Negara 1990 (Pindaan 2007) mewajibkan kanak-kanak warganegara yang mencapai
 umur 12 tahun mendaftar kad pengenalan. Permohonan hendaklah dibuat dalam
-tempoh 30 hari dari tarikh genap umur 12 tahun; selepas itu fi pemprosesan
-dikenakan. Amaun fi tidak disenaraikan di sini — semak jadual bayaran rasmi
-JPN pada tarikh urusan anda.
+tempoh 30 hari dari tarikh genap umur 12 tahun. Pendaftaran dalam tempoh itu
+adalah percuma; selepas tempoh itu fi RM10 dikenakan.
 
 **6 bulan untuk perkahwinan luar negara.** Warganegara yang berkahwin di bawah
 undang-undang asing perlu mendaftar semula perkahwinan itu di bawah Seksyen 31

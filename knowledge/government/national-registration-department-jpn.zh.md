@@ -30,7 +30,7 @@ lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "67bfea3efd0d9496"
-status: "published"
+status: "archived"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

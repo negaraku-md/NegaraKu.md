@@ -39,9 +39,26 @@ function lastmodFor(url) {
 }
 
 // https://astro.build/config
+// Redirects for retired duplicate articles → their canonical merge target.
+// GitHub Pages is static, so Astro emits an HTML redirect page per entry with a
+// <meta http-equiv="refresh"> and a <link rel="canonical"> — the Google/Bing-
+// accepted way to consolidate a URL on a static host (preserves link equity,
+// avoids a 404). One entry per locale (ms at "/", en at "/en", zh at "/zh").
+// The retired slugs are archived in content, so the article route no longer
+// emits them and these redirects own the paths with no collision.
+const redirects = {
+  '/government/national-registration-department-jpn': '/government/jpn',
+  '/en/government/national-registration-department-jpn': '/en/government/jpn',
+  '/zh/government/national-registration-department-jpn': '/zh/government/jpn',
+  '/government/ministry-of-investment-trade-industry-miti': '/government/miti',
+  '/en/government/ministry-of-investment-trade-industry-miti': '/en/government/miti',
+  '/zh/government/ministry-of-investment-trade-industry-miti': '/zh/government/miti',
+};
+
 export default defineConfig({
   site: SITE,
   trailingSlash: 'ignore',
+  redirects,
   // Honor a harness/CI-assigned PORT (enables preview autoPort when 4321 is
   // busy); fall back to Astro's default 4321 for a plain `npm run dev`.
   server: { port: Number(process.env.PORT) || 4321, host: true },
