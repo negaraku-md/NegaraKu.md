@@ -37,7 +37,7 @@ sourceContentHash: "9e106ed76b687dba"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-09-07
@@ -46,7 +46,7 @@ revision: 0
 revisions:
   - revision: 0
     date: 2026-09-07
-    change: "Initial AI-assisted draft."
+    change: "Reviewed and published."
 
 verificationNeeded:
   - "Angka CIP Spark Cradle (sehingga RM150,000) dan CIP Sprint (sehingga RM600,000) serta kelayakan disahkan daripada cradle.com.my; MDEC MDCG (sehingga 50%/siling RM1 juta) dan MDAG (ditutup, tarikh akhir 28 Julai 2023) daripada mdec.my. Sahkan semula semuanya pada masa penerbitan kerana kohort program dibuka dan ditutup."

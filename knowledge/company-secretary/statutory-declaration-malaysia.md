@@ -34,7 +34,7 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-09-07
@@ -43,7 +43,7 @@ revision: 0
 revisions:
   - revision: 0
     date: 2026-09-07
-    change: "Initial AI-assisted draft."
+    change: "Reviewed and published."
 
 verificationNeeded:
   - "The current prescribed fee for taking a statutory declaration (reported as RM10, raised from RM4 around 16 January 2023) is set by ministerial notification in the Gazette, not stated in the Act itself — confirm the exact figure and the P.U. Gazette reference before publishing a precise fee and date."

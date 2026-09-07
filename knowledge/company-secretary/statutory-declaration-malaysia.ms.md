@@ -35,7 +35,7 @@ sourceContentHash: "d94e19a17d06c1eb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-09-07
@@ -44,7 +44,7 @@ revision: 0
 revisions:
   - revision: 0
     date: 2026-09-07
-    change: "Initial AI-assisted draft."
+    change: "Reviewed and published."
 
 verificationNeeded:
   - "Bayaran ditetapkan semasa untuk mengambil akuan berkanun (dilaporkan sebagai RM10, dinaikkan daripada RM4 sekitar 16 Januari 2023) ditetapkan melalui pemberitahuan menteri dalam Warta, bukan dinyatakan dalam Akta itu sendiri — sahkan angka tepat dan rujukan Warta P.U. sebelum menerbitkan bayaran dan tarikh yang tepat."

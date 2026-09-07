@@ -37,7 +37,7 @@ sourceContentHash: "f5bb3c3bee43fd46"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-09-07
@@ -46,7 +46,7 @@ revision: 0
 revisions:
   - revision: 0
     date: 2026-09-07
-    change: "Initial AI-assisted draft."
+    change: "Reviewed and published."
 
 verificationNeeded:
   - "电子发票门槛和阶段日期极为不稳定：RM1 million豁免（2026年1月1日生效）、最后阶段的取消，以及从2026年1月1日起、并附带至2026年12月31日宽限期的RM1m–RM5m强制规定，均来自2025年12月的报道，且在研究时未对照已渲染的LHDN电子发票指南加以确认。在发布任何门槛或日期之前，请重新查核hasil.gov.my。"

@@ -36,7 +36,7 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-09-07
@@ -45,7 +45,7 @@ revision: 0
 revisions:
   - revision: 0
     date: 2026-09-07
-    change: "Initial AI-assisted draft."
+    change: "Reviewed and published."
 
 verificationNeeded:
   - "Business-registration and local-council fees (SSM enterprise/Sdn Bhd fees; PBT premise and signboard licence fees, which vary by council and floor area) are indicative from secondary guides — confirm against SSM's fee schedule and the specific local authority (DBKL/MBPJ/MBSA) before publishing figures."

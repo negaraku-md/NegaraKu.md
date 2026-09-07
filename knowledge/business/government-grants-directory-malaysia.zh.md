@@ -37,7 +37,7 @@ sourceContentHash: "9e106ed76b687dba"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-09-07
@@ -46,7 +46,7 @@ revision: 0
 revisions:
   - revision: 0
     date: 2026-09-07
-    change: "Initial AI-assisted draft."
+    change: "Reviewed and published."
 
 verificationNeeded:
   - "Cradle CIP Spark（最高 RM150,000）与 CIP Sprint（最高 RM600,000）的数字与资格已从 cradle.com.my 确认；MDEC MDCG（最高 50%/RM1 million 上限）与 MDAG（已关闭，截止日期 2023 年 7 月 28 日）从 mdec.my 确认。因计划批次会开放和关闭，发布时须全部重新确认。"

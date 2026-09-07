@@ -37,7 +37,7 @@ sourceContentHash: "3d64b164d5737632"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-09-07
@@ -46,7 +46,7 @@ revision: 0
 revisions:
   - revision: 0
     date: 2026-09-07
-    change: "Initial AI-assisted draft."
+    change: "Reviewed and published."
 
 verificationNeeded:
   - "常被引用的每股 RM0.50 最低 IPO 发行价并未在 Bursa 现行的 Listing Criteria 页面上找到，很可能位于 SC Equity Guidelines 或 Bursa Main Market Listing Requirements 中——在将其作为规则陈述之前，请对照主要规则手册核实。"

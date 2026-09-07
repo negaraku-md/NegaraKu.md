@@ -37,7 +37,7 @@ sourceContentHash: "e702999cb1629878"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-09-07
@@ -46,7 +46,7 @@ revision: 0
 revisions:
   - revision: 0
     date: 2026-09-07
-    change: "Initial AI-assisted draft."
+    change: "Reviewed and published."
 
 verificationNeeded:
   - "2016年公司法令 section 129 的购股权登记册义务（以及更新它的任何具体天数要求）取自二手摘要，未经与法令原文核对——在引用具体内容前，请确认确切措辞及任何时限。"

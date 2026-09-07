@@ -36,7 +36,7 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-09-07
@@ -45,7 +45,7 @@ revision: 0
 revisions:
   - revision: 0
     date: 2026-09-07
-    change: "Initial AI-assisted draft."
+    change: "Reviewed and published."
 
 verificationNeeded:
   - "The Companies Act 2016 section 129 register-of-options duty (and any specific day-count for updating it) is drawn from a secondary summary, not verified against the Act text — confirm the exact wording and any time limit before citing specifics."

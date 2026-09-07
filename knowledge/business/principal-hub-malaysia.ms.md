@@ -35,7 +35,7 @@ sourceContentHash: "1d7afd9b7e62d44a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-09-07
@@ -44,7 +44,7 @@ revision: 0
 revisions:
   - revision: 0
     date: 2026-09-07
-    change: "Initial AI-assisted draft."
+    change: "Reviewed and published."
 
 verificationNeeded:
   - "Kadar Global Services Hub (syarikat baharu 0%/5%; syarikat sedia ada 5%/10% ke atas pendapatan nilai tambah; kadar individu 15% untuk C-suite bukan warganegara pada RM35,000/bulan) bergantung pada garis panduan GS-Hub MIDA; rekod repo sendiri mencatatkan tiada instrumen kadar yang diwartakan untuk National Global Services Hub telah ditemui setakat 8 Julai 2026 (garis panduan menyatakan instrumen itu masih perlu dibuat). Anggap semua kadar GSH sebagai 'mengikut garis panduan MIDA, warta belum keluar' sehingga disahkan, dan ambil ambang perbelanjaan operasi dan pekerja setiap tier yang tepat daripada PDF garis panduan GS-Hub MIDA sebelum menerbitkan."

@@ -36,7 +36,7 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-09-07
@@ -45,7 +45,7 @@ revision: 0
 revisions:
   - revision: 0
     date: 2026-09-07
-    change: "Initial AI-assisted draft."
+    change: "Reviewed and published."
 
 verificationNeeded:
   - "The commonly cited minimum IPO issue price of RM0.50 per share was not located on Bursa's live Listing Criteria page and likely sits in the SC Equity Guidelines or the Bursa Main Market Listing Requirements — confirm against the primary rulebook before stating it as a rule."

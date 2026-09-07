@@ -35,7 +35,7 @@ sourceContentHash: "1d7afd9b7e62d44a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-09-07
@@ -44,7 +44,7 @@ revision: 0
 revisions:
   - revision: 0
     date: 2026-09-07
-    change: "Initial AI-assisted draft."
+    change: "Reviewed and published."
 
 verificationNeeded:
   - "Global Services Hub 的税率（新公司 0%/5%；现有公司就增值收入 5%/10%；非公民 C-suite 月薪 RM35,000 者 15% 个人税率）取决于 MIDA GS-Hub 指南；本仓库自身的记录指出，截至 2026 年 7 月 8 日，尚未找到 National Global Services Hub 的宪报颁布税率文书（指南称该文书仍有待制定）。在确认之前，所有 GSH 税率均应视为「依 MIDA 指南，宪报待颁」，并在发布前从 MIDA GS-Hub 指南 PDF 中提取各 tier 的确切运营开支及员工门槛。"

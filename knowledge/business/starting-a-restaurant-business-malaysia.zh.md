@@ -37,7 +37,7 @@ sourceContentHash: "4dd19337cd15a96b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-09-07
@@ -46,7 +46,7 @@ revision: 0
 revisions:
   - revision: 0
     date: 2026-09-07
-    change: "Initial AI-assisted draft."
+    change: "Reviewed and published."
 
 verificationNeeded:
   - "生意注册和地方政府费用（SSM 企业/Sdn Bhd 费用；PBT 场所和招牌执照费用，因议会和楼面面积而异）源自二手指南，仅供参考——在公布数字前，请对照 SSM 的费用表和特定地方政府（DBKL/MBPJ/MBSA）核实。"

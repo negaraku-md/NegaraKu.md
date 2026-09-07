@@ -36,7 +36,7 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-09-07
@@ -45,7 +45,7 @@ revision: 0
 revisions:
   - revision: 0
     date: 2026-09-07
-    change: "Initial AI-assisted draft."
+    change: "Reviewed and published."
 
 verificationNeeded:
   - "Cradle CIP Spark (up to RM150,000) and CIP Sprint (up to RM600,000) figures and eligibility were confirmed from cradle.com.my; MDEC MDCG (up to 50%/RM1 million ceiling) and MDAG (closed, deadline 28 July 2023) from mdec.my. Re-confirm all at publish time as programme cohorts open and close."

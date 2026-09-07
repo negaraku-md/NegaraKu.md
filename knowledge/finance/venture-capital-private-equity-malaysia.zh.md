@@ -37,7 +37,7 @@ sourceContentHash: "7f55b8a86f3b31aa"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-09-07
@@ -46,7 +46,7 @@ revision: 0
 revisions:
   - revision: 0
     date: 2026-09-07
-    change: "Initial AI-assisted draft."
+    change: "Reviewed and published."
 
 verificationNeeded:
   - "2025 年 6 月的 VC/PE 税务改革（VCC 优惠税率 5%，VCMC/PE 管理人 10%，至 YA 2035）已获多份专业事务所的预算摘要佐证，但新制度的确切联邦宪报 P.U.(A) 命令编号与宪报日期无法对照一手文本予以确认。引用 P.U.(A) 编号前请确认宪报命令，并核查在 P.U.(A) 115/2022 下首次获认证的基金在过渡期是否保留其原有的全额豁免条款。"

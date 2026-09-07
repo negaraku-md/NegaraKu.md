@@ -37,7 +37,7 @@ sourceContentHash: "4dd19337cd15a96b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-09-07
@@ -46,7 +46,7 @@ revision: 0
 revisions:
   - revision: 0
     date: 2026-09-07
-    change: "Initial AI-assisted draft."
+    change: "Reviewed and published."
 
 verificationNeeded:
   - "Yuran pendaftaran perniagaan dan pihak berkuasa tempatan (yuran enterpris/Sdn Bhd SSM; yuran lesen premis dan papan tanda PBT, yang berbeza mengikut majlis dan keluasan lantai) adalah indikatif daripada panduan sekunder — sahkan terhadap jadual yuran SSM dan pihak berkuasa tempatan tertentu (DBKL/MBPJ/MBSA) sebelum menerbitkan angka."

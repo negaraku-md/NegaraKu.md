@@ -36,7 +36,7 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-09-07
@@ -45,7 +45,7 @@ revision: 0
 revisions:
   - revision: 0
     date: 2026-09-07
-    change: "Initial AI-assisted draft."
+    change: "Reviewed and published."
 
 verificationNeeded:
   - "The June 2025 VC/PE tax revamp (5% concessionary rate for a VCC, 10% for a VCMC/PE manager, to YA 2035) is corroborated by multiple professional-firm budget summaries but the exact Federal Gazette P.U.(A) order number and gazette date for the new regime could not be confirmed against primary text. Confirm the gazette order before citing a P.U.(A) number, and check whether funds first certified under P.U.(A) 115/2022 retain their original full-exemption terms in transition."

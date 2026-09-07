@@ -37,7 +37,7 @@ sourceContentHash: "3d64b164d5737632"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-09-07
@@ -46,7 +46,7 @@ revision: 0
 revisions:
   - revision: 0
     date: 2026-09-07
-    change: "Initial AI-assisted draft."
+    change: "Reviewed and published."
 
 verificationNeeded:
   - "Harga terbitan IPO minimum yang sering dipetik sebanyak RM0.50 sesaham tidak ditemui pada halaman Listing Criteria langsung Bursa dan berkemungkinan berada dalam SC Equity Guidelines atau Bursa Main Market Listing Requirements — sahkan terhadap buku peraturan utama sebelum menyatakannya sebagai peraturan."

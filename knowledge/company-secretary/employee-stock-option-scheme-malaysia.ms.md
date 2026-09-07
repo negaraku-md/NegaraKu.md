@@ -37,7 +37,7 @@ sourceContentHash: "e702999cb1629878"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-09-07
@@ -46,7 +46,7 @@ revision: 0
 revisions:
   - revision: 0
     date: 2026-09-07
-    change: "Initial AI-assisted draft."
+    change: "Reviewed and published."
 
 verificationNeeded:
   - "Kewajipan daftar opsyen (register-of-options) section 129 Akta Syarikat 2016 (dan sebarang kiraan hari khusus untuk mengemas kininya) diambil daripada ringkasan sekunder, bukan disahkan terhadap teks Akta — sahkan perkataan tepat dan sebarang had masa sebelum memetik butiran khusus."

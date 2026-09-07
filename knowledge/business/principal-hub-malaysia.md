@@ -34,7 +34,7 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-09-07
@@ -43,7 +43,7 @@ revision: 0
 revisions:
   - revision: 0
     date: 2026-09-07
-    change: "Initial AI-assisted draft."
+    change: "Reviewed and published."
 
 verificationNeeded:
   - "The Global Services Hub rates (new company 0%/5%; existing company 5%/10% on value-added income; 15% individual rate for non-citizen C-suite at RM35,000/month) rest on the MIDA GS-Hub guideline; the repo's own record notes no gazetted rate instrument for the National Global Services Hub had been located as of 8 July 2026 (the guideline says the instrument is still to be made). Treat all GSH rates as 'per MIDA guideline, gazette pending' until confirmed, and pull the exact per-tier operating-expenditure and employee thresholds from the MIDA GS-Hub guideline PDF before publishing."

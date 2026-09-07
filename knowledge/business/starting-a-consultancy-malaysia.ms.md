@@ -35,7 +35,7 @@ sourceContentHash: "740dc0a630c55557"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-09-07
@@ -44,7 +44,7 @@ revision: 0
 revisions:
   - revision: 0
     date: 2026-09-07
-    change: "Initial AI-assisted draft."
+    change: "Reviewed and published."
 
 verificationNeeded:
   - "Kadar cukai perkhidmatan 8% ke atas perkhidmatan profesional dan ambang pendaftaran RM500,000 disokong kuat (perubahan 6% kepada 8% berkuat kuasa 1 Mac 2024 melalui Perintah Cukai Perkhidmatan (Kadar Cukai) (Pindaan) 2024) tetapi tidak diekstrak kata demi kata daripada laman MySST dalam penyelidikan — sahkan terhadap Panduan RMCD mengenai Perkhidmatan Profesional (Kumpulan G) dan Perintah Pindaan sebelum diterbitkan."

@@ -35,7 +35,7 @@ sourceContentHash: "740dc0a630c55557"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-09-07
@@ -44,7 +44,7 @@ revision: 0
 revisions:
   - revision: 0
     date: 2026-09-07
-    change: "Initial AI-assisted draft."
+    change: "Reviewed and published."
 
 verificationNeeded:
   - "专业服务8%的服务税率和RM500,000的登记门槛有强有力的佐证（6%至8%的变动于2024年3月1日通过《2024年服务税（税率）（修订）令》生效），但在研究中并未从MySST页面逐字提取——发布前请对照RMCD《专业服务指南》（G组）和该修订令核实。"

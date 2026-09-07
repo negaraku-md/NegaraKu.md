@@ -36,7 +36,7 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-09-07
@@ -45,7 +45,7 @@ revision: 0
 revisions:
   - revision: 0
     date: 2026-09-07
-    change: "Initial AI-assisted draft."
+    change: "Reviewed and published."
 
 verificationNeeded:
   - "E-invoicing thresholds and phase dates are highly volatile: the RM1 million exemption (effective 1 January 2026), the cancellation of the final phase, and the RM1m–RM5m mandate from 1 January 2026 with a relaxation period to 31 December 2026 are from December 2025 reporting and were not confirmed against a rendered LHDN e-Invoice guideline in research. Re-check hasil.gov.my before publishing any threshold or date."

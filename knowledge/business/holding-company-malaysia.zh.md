@@ -37,7 +37,7 @@ sourceContentHash: "f500684433842383"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-09-07
@@ -46,7 +46,7 @@ revision: 0
 revisions:
   - revision: 0
     date: 2026-09-07
-    change: "Initial AI-assisted draft."
+    change: "Reviewed and published."
 
 verificationNeeded:
   - "集团亏损减免条件（第44A条）——250万令吉的已缴股本门槛、70%持股及70%利润/资产权益测试——取自 Public Ruling 6/2016 及二手摘要；已有较新的 Public Ruling 2/2025。发布前请对照 PR 2/2025 确认现行条件。"

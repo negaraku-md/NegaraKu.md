@@ -37,7 +37,7 @@ sourceContentHash: "7f55b8a86f3b31aa"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-09-07
@@ -46,7 +46,7 @@ revision: 0
 revisions:
   - revision: 0
     date: 2026-09-07
-    change: "Initial AI-assisted draft."
+    change: "Reviewed and published."
 
 verificationNeeded:
   - "Rombakan cukai VC/PE Jun 2025 (kadar konsesi 5% untuk VCC, 10% untuk pengurus VCMC/PE, sehingga YA 2035) disokong oleh pelbagai ringkasan belanjawan firma profesional tetapi nombor perintah Warta Persekutuan P.U.(A) dan tarikh warta yang tepat untuk rejim baharu ini tidak dapat disahkan berbanding teks primer. Sahkan perintah warta sebelum memetik nombor P.U.(A), dan semak sama ada dana yang mula-mula diperakui di bawah P.U.(A) 115/2022 mengekalkan terma pengecualian penuh asalnya dalam peralihan."

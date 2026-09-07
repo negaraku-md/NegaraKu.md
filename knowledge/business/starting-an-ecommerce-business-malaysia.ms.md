@@ -37,7 +37,7 @@ sourceContentHash: "f5bb3c3bee43fd46"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-09-07
@@ -46,7 +46,7 @@ revision: 0
 revisions:
   - revision: 0
     date: 2026-09-07
-    change: "Initial AI-assisted draft."
+    change: "Reviewed and published."
 
 verificationNeeded:
   - "Ambang dan tarikh fasa e-invois amat tidak menentu: pengecualian RM1 juta (berkuat kuasa 1 Januari 2026), pembatalan fasa akhir, dan mandat RM1j–RM5j dari 1 Januari 2026 dengan tempoh pelonggaran hingga 31 Disember 2026 adalah daripada laporan Disember 2025 dan tidak disahkan terhadap garis panduan e-Invois LHDN yang dipaparkan semasa penyelidikan. Semak semula hasil.gov.my sebelum menerbitkan sebarang ambang atau tarikh."

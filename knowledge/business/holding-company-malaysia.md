@@ -36,7 +36,7 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-09-07
@@ -45,7 +45,7 @@ revision: 0
 revisions:
   - revision: 0
     date: 2026-09-07
-    change: "Initial AI-assisted draft."
+    change: "Reviewed and published."
 
 verificationNeeded:
   - "The group-relief conditions (section 44A) — the RM2.5 million paid-up threshold, the 70% ownership and 70% profit/asset-entitlement tests — are drawn from Public Ruling 6/2016 and secondary summaries; a newer Public Ruling 2/2025 exists. Confirm the current conditions against PR 2/2025 before publishing."

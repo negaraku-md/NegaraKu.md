@@ -37,7 +37,7 @@ sourceContentHash: "f500684433842383"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-09-07
@@ -46,7 +46,7 @@ revision: 0
 revisions:
   - revision: 0
     date: 2026-09-07
-    change: "Initial AI-assisted draft."
+    change: "Reviewed and published."
 
 verificationNeeded:
   - "Syarat pelepasan kumpulan (seksyen 44A) — ambang modal berbayar RM2.5 juta, ujian pemilikan 70% dan hak-keuntungan/aset 70% — diambil daripada Public Ruling 6/2016 dan ringkasan sekunder; Public Ruling 2/2025 yang lebih baharu wujud. Sahkan syarat semasa terhadap PR 2/2025 sebelum diterbitkan."

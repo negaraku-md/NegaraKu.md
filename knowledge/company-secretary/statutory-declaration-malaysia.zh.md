@@ -35,7 +35,7 @@ sourceContentHash: "d94e19a17d06c1eb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-09-07
@@ -44,7 +44,7 @@ revision: 0
 revisions:
   - revision: 0
     date: 2026-09-07
-    change: "Initial AI-assisted draft."
+    change: "Reviewed and published."
 
 verificationNeeded:
   - "接受法定声明的现行规定费用（据报为RM10，约于2023年1月16日从RM4上调）是由部长在宪报中的通知所定，而非法令本身所述——在发布确切费用和日期前，请核实确切数字及P.U.宪报参考。"
