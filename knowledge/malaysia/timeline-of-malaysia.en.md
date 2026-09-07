@@ -35,7 +35,7 @@ verificationNeeded:
   - "Each key moment links to a full, sourced article where one exists; those pages carry the citations. The modern political chronology (prime ministers, general elections, the 1MDB affair, the 2020 Sheraton Move) is factual public record, drawn from the Prime Minister's Office and Election Commission, and is presented neutrally. Entries that touch 3R (race / religion / royalty) or otherwise sensitive themes — the 13 May 1969 incident, Operation Lalang, the 1988 judiciary crisis — await human review before production."
 
 lang: "en"
-sourceContentHash: "279f2377f283c1fe"
+sourceContentHash: "e58ff5504e70aafc"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -201,13 +201,13 @@ in eight years. It settled, for now, on Anwar Ibrahim's unity government.
 **Key moments**
 
 - **2008** — [The 12th general election](/en/law/elections-act-and-election-commission) — the "political tsunami": Barisan Nasional loses its two-thirds majority for the first time.
-- **3 April 2009** — Najib Razak becomes the sixth Prime Minister; the [1MDB](/en/malaysia/1mdb-scandal) state fund is founded the same year.
-- **2013** — GE13 returns Barisan Nasional on a minority of the popular vote; the [Lahad Datu incursion](/en/malaysia/sabah-sulu-claim) tests Sabah's borders.
+- **3 April 2009** — [Najib Razak](/en/malaysia/najib-razak) becomes the sixth Prime Minister; the [1MDB](/en/malaysia/1mdb-scandal) state fund is founded the same year.
+- **2013** — [GE13](/en/malaysia/2013-general-election) returns Barisan Nasional on a minority of the popular vote; the [Lahad Datu incursion](/en/malaysia/sabah-sulu-claim) tests Sabah's borders.
 - **2015** — The 1MDB scandal breaks internationally and dominates the years that follow.
 - **9 May 2018** — [GE14](/en/malaysia/2018-change-of-government) — Pakatan Harapan wins the first federal change of government; Mahathir returns as the seventh Prime Minister.
-- **1 March 2020** — The "Sheraton Move" collapses the government; Muhyiddin Yassin becomes the eighth Prime Minister.
-- **21 August 2021** — Ismail Sabri Yaakob becomes the ninth Prime Minister.
-- **24 November 2022** — After GE15 delivers a hung parliament, Anwar Ibrahim becomes the tenth Prime Minister and forms a unity (MADANI) government.
+- **1 March 2020** — The "[Sheraton Move](/en/malaysia/sheraton-move-2020)" collapses the government; [Muhyiddin Yassin](/en/malaysia/muhyiddin-yassin) becomes the eighth Prime Minister.
+- **21 August 2021** — [Ismail Sabri Yaakob](/en/malaysia/ismail-sabri-yaakob) becomes the ninth Prime Minister.
+- **24 November 2022** — After [GE15](/en/malaysia/2022-general-election) delivers a hung parliament, Anwar Ibrahim becomes the tenth Prime Minister and forms a unity (MADANI) government.
 - **2024** — [Subsidy rationalisation](/en/economy/subsidy-rationalisation-padu) — the shift to targeted subsidies gathers pace.
 - **2025–26** — Mahathir Mohamad turns 100, the first Malaysian leader to reach the age; Anwar's unity government continues into 2026.
 

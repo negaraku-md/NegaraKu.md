@@ -35,7 +35,7 @@ verificationNeeded:
   - "每个关键时刻在有文章时都链接到完整、有出处的文章；那些页面附有引用。现代政治年表（首相、全国大选、1MDB事件、2020年“喜来登行动”）是事实性的公开记录，取自首相署与选举委员会，以中立方式呈现。触及3R（种族／宗教／王权）或其他敏感主题的条目——1969年5月13日事件、茅草行动、1988年司法危机——在正式发布前需经人工审核。"
 
 lang: "zh"
-sourceContentHash: "279f2377f283c1fe"
+sourceContentHash: "e58ff5504e70aafc"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -186,13 +186,13 @@ keywords: ["马来西亚历史", "马来西亚时间线", "1957默迪卡", "1963
 **关键时刻**
 
 - **2008年** — [第12届全国大选](/zh/law/elections-act-and-election-commission) — “政治海啸”：国民阵线首次失去三分之二多数。
-- **2009年4月3日** — 纳吉·拉萨成为第六任首相；国家基金[1MDB](/zh/malaysia/1mdb-scandal)于同年成立。
-- **2013年** — 第13届大选中国民阵线以少数普选票保住政权；[拉哈达图入侵](/zh/malaysia/sabah-sulu-claim)考验沙巴边境。
+- **2009年4月3日** — [纳吉·拉萨](/zh/malaysia/najib-razak)成为第六任首相；国家基金[1MDB](/zh/malaysia/1mdb-scandal)于同年成立。
+- **2013年** — [第13届大选](/zh/malaysia/2013-general-election)中国民阵线以少数普选票保住政权；[拉哈达图入侵](/zh/malaysia/sabah-sulu-claim)考验沙巴边境。
 - **2015年** — 1MDB丑闻在国际上曝光，主导了此后数年。
 - **2018年5月9日** — [第14届大选](/zh/malaysia/2018-change-of-government) — 希望联盟赢得首次联邦政府更替；马哈迪回任第七任首相。
-- **2020年3月1日** — “喜来登行动”使政府垮台；慕尤丁·雅辛成为第八任首相。
-- **2021年8月21日** — 依斯迈·沙比里·雅谷成为第九任首相。
-- **2022年11月24日** — 第15届大选产生悬峙国会后，安华·依布拉欣成为第十任首相，组建团结（昌明／MADANI）政府。
+- **2020年3月1日** — “[喜来登行动](/zh/malaysia/sheraton-move-2020)”使政府垮台；[慕尤丁·雅辛](/zh/malaysia/muhyiddin-yassin)成为第八任首相。
+- **2021年8月21日** — [依斯迈·沙比里·雅谷](/zh/malaysia/ismail-sabri-yaakob)成为第九任首相。
+- **2022年11月24日** — [第15届大选](/zh/malaysia/2022-general-election)产生悬峙国会后，安华·依布拉欣成为第十任首相，组建团结（昌明／MADANI）政府。
 - **2024年** — [补贴合理化](/zh/economy/subsidy-rationalisation-padu) — 向针对性补贴的转变加速推进。
 - **2025–26年** — 马哈迪·莫哈末迎来100岁，成为首位达到该年龄的马来西亚领导人；安华的团结政府延续至2026年。
 

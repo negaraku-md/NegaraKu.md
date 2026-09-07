@@ -203,13 +203,13 @@ Ibrahim.
 **Detik penting**
 
 - **2008** — [Pilihan raya umum ke-12](/law/elections-act-and-election-commission) — "tsunami politik": Barisan Nasional kehilangan majoriti dua pertiga buat kali pertama.
-- **3 April 2009** — Najib Razak menjadi Perdana Menteri keenam; dana negara [1MDB](/malaysia/1mdb-scandal) ditubuhkan pada tahun yang sama.
-- **2013** — PRU-13 mengekalkan Barisan Nasional atas majoriti undi popular yang minoriti; [pencerobohan Lahad Datu](/malaysia/sabah-sulu-claim) menguji sempadan Sabah.
+- **3 April 2009** — [Najib Razak](/malaysia/najib-razak) menjadi Perdana Menteri keenam; dana negara [1MDB](/malaysia/1mdb-scandal) ditubuhkan pada tahun yang sama.
+- **2013** — [PRU-13](/malaysia/2013-general-election) mengekalkan Barisan Nasional atas majoriti undi popular yang minoriti; [pencerobohan Lahad Datu](/malaysia/sabah-sulu-claim) menguji sempadan Sabah.
 - **2015** — Skandal 1MDB tersebar ke peringkat antarabangsa dan menguasai tahun-tahun berikutnya.
 - **9 Mei 2018** — [PRU-14](/malaysia/2018-change-of-government) — Pakatan Harapan memenangi pertukaran kerajaan persekutuan pertama; Mahathir kembali sebagai Perdana Menteri ketujuh.
-- **1 Mac 2020** — "Langkah Sheraton" meruntuhkan kerajaan; Muhyiddin Yassin menjadi Perdana Menteri kelapan.
-- **21 Ogos 2021** — Ismail Sabri Yaakob menjadi Perdana Menteri kesembilan.
-- **24 November 2022** — Selepas PRU-15 menghasilkan parlimen tergantung, Anwar Ibrahim menjadi Perdana Menteri kesepuluh dan membentuk kerajaan perpaduan (MADANI).
+- **1 Mac 2020** — "[Langkah Sheraton](/malaysia/sheraton-move-2020)" meruntuhkan kerajaan; [Muhyiddin Yassin](/malaysia/muhyiddin-yassin) menjadi Perdana Menteri kelapan.
+- **21 Ogos 2021** — [Ismail Sabri Yaakob](/malaysia/ismail-sabri-yaakob) menjadi Perdana Menteri kesembilan.
+- **24 November 2022** — Selepas [PRU-15](/malaysia/2022-general-election) menghasilkan parlimen tergantung, Anwar Ibrahim menjadi Perdana Menteri kesepuluh dan membentuk kerajaan perpaduan (MADANI).
 - **2024** — [Penyusunan semula subsidi](/economy/subsidy-rationalisation-padu) — peralihan kepada subsidi bersasar semakin rancak.
 - **2025–26** — Mahathir Mohamad menyambut usia 100 tahun, pemimpin Malaysia pertama mencapai usia itu; kerajaan perpaduan Anwar berterusan hingga 2026.
 
