@@ -95,7 +95,7 @@ Four statutes anchor JIM's authority:
 
 | Legislation | Covers |
 |---|---|
-| Immigration Act 1959/63 | Entry, stay, passes, removal and offences |
+| [Immigration Act 1959/63](/law/immigration-act-1959-63) | Entry, stay, passes, removal and offences |
 | Immigration Regulations 1963 | Detailed rules under the Act |
 | Passport Act 1966 | Malaysian passports and travel documents |
 | Anti-Trafficking in Persons and Anti-Smuggling of Migrants Act 2007 (Amendment 2010) | Trafficking and migrant smuggling |

@@ -275,7 +275,7 @@ Peninsular Malaysia; foreign nationals must go through a registered company and 
 pass. The form repeats this for company directors named as licence managers, and its
 census block distinguishes *Warganegara Negeri Sabah* from *Bukan Warganegara Negeri
 Sabah*. This flows from Sabah's immigration autonomy under Article 161E of the Federal
-Constitution and Part VII of the Immigration Act 1959/63.
+Constitution and Part VII of the [Immigration Act 1959/63](/law/immigration-act-1959-63).
 
 **Other DBKK licences.** The trading licence is one of many. DBKK separately issues a
 composite licence, hawker licence, advertising licence under the 1983 signboard by-laws,

@@ -22,7 +22,7 @@ appliesTo: "Pengembara, perniagaan dan sesiapa sahaja yang cuba memahami mengapa
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "01bae788fa6e7ab5"
+sourceContentHash: "da887efa0f358f15"
 
 status: "published"
 aiAssisted: true
@@ -104,7 +104,7 @@ Oleh kerana Sabah dan Sarawak menyertai persekutuan sebagai wilayah-wilayah yang
 
 ## Apa sebenarnya yang dikawal oleh sempadan dalaman ini
 
-Kaunter imigresen di lapangan terbang Sabah atau Sarawak bukanlah sekadar persembahan. Ia bersandarkan **Section 66 Immigration Act 1959/63 (Act 155)**, yang — menurut garis panduan Jabatan Imigresen Malaysia sendiri — memerlukan satu Pas atau Permit bagi seseorang untuk memasuki dan berada di Negeri Malaysia Timur (Sabah atau Sarawak). Berbeza daripada kebanyakan peraturan imigresen, peraturan ini tidak ditulis untuk terpakai hanya kepada warga asing sahaja: ia turut terpakai kepada warganegara Malaysia dari Semenanjung.
+Kaunter imigresen di lapangan terbang Sabah atau Sarawak bukanlah sekadar persembahan. Ia bersandarkan **Section 66 [Immigration Act 1959/63](/law/immigration-act-1959-63) (Act 155)**, yang — menurut garis panduan Jabatan Imigresen Malaysia sendiri — memerlukan satu Pas atau Permit bagi seseorang untuk memasuki dan berada di Negeri Malaysia Timur (Sabah atau Sarawak). Berbeza daripada kebanyakan peraturan imigresen, peraturan ini tidak ditulis untuk terpakai hanya kepada warga asing sahaja: ia turut terpakai kepada warganegara Malaysia dari Semenanjung.
 
 Dari segi praktikal, perkara ini berbeza bergantung kepada sebab anda melakukan perjalanan:
 

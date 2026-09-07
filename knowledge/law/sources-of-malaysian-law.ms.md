@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Pelajar dan penyelidik undang-undang yang cuba memetakan sistem perundangan Malaysia buat kali pertama, sesiapa yang cuba mengenal pasti badan undang-undang mana yang mentadbir sesuatu soalan tertentu, dan pembaca yang sentiasa melihat 'negara common law' dan 'undang-undang Islam' dan 'adat' digunakan bersebelahan tanpa diberitahu bagaimana sebenarnya ia saling berkait."
 
 lang: "ms"
-sourceContentHash: "c7494d1451cf3c01"
+sourceContentHash: "f4b71230618caa4c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,7 +100,7 @@ Perkara 160(2), fasal tafsiran Perlembagaan, sedang melakukan kerja yang senyap 
 
 Di bawah Perlembagaan terletak perundangan: Akta Parlimen dan Enakmen Negeri, ditambah perundangan subsidiari (peraturan, kaedah, perintah) yang dibuat di bawahnya.
 
-Siapa yang boleh menggubal undang-undang mengenai apa ditetapkan oleh **Jadual Kesembilan**, yang membahagikan perkara subjek kepada Senarai Persekutuan, Senarai Negeri, dan Senarai Bersama yang tersedia kepada kedua-duanya. Undang-undang sivil dan jenayah, prosedur dan pentadbiran keadilan terletak dalam Senarai Persekutuan — wilayah Parlimen, dan sebab Kanun Keseksaan, Akta Kontrak dan Akta Syarikat semuanya ialah Akta persekutuan. Undang-undang Islam dan perkara berkaitan tanah serta adat yang dibincangkan di bawah pula terletak dalam Senarai Negeri.
+Siapa yang boleh menggubal undang-undang mengenai apa ditetapkan oleh **Jadual Kesembilan**, yang membahagikan perkara subjek kepada Senarai Persekutuan, Senarai Negeri, dan Senarai Bersama yang tersedia kepada kedua-duanya. Undang-undang sivil dan jenayah, prosedur dan pentadbiran keadilan terletak dalam Senarai Persekutuan — wilayah Parlimen, dan sebab [Kanun Keseksaan](/law/penal-code), Akta Kontrak dan Akta Syarikat semuanya ialah Akta persekutuan. Undang-undang Islam dan perkara berkaitan tanah serta adat yang dibincangkan di bawah pula terletak dalam Senarai Negeri.
 
 Oleh sebab dua badan perundangan boleh, pada prinsipnya, kedua-duanya menyentuh sesuatu perkara dalam Senarai Bersama — atau sesuatu Enakmen Negeri boleh tersasar ke dalam wilayah Senarai Persekutuan — Perlembagaan memerlukan pemutus pertikaian. Perkara 75 membekalkannya:
 

@@ -33,7 +33,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "80f97418a7008224"
+sourceContentHash: "96c89b21eed2b946"
 
 status: "published"
 aiAssisted: true
@@ -167,7 +167,7 @@ Federated Malay States 在1936年采用了相同模式，以 F.M.S. Cap. 45 的�
 但在第IV章及一系列列明的条文中，它延伸至可依任何其他现行法律受处罚的一切事项。
 本法典是一般性刑事法令，其设计本就是要置于各专门法令之下。
 
-与它关系最密切的伙伴是 Criminal Procedure Code（Act 593），它提供了本法典所
+与它关系最密切的伙伴是 [Criminal Procedure Code](/law/criminal-procedure-code)（Act 593），它提供了本法典所
 欠缺的程序：逮捕、控告、审讯、保释与判刑。CPC 的 First Schedule（第一附表）
 逐条列出 Penal Code 的罪行及其刑罚——这也是为什么 Abolition of Mandatory
 Death Penalty Act 2023 必须同时修订本法典与该附表，才能让一项改动真正落实。

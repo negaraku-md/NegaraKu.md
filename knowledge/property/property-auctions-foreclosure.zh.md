@@ -30,7 +30,7 @@ faq:
     a: "这取决于《拍卖公告》。买方通常会承接未缴的地税（quit rent）、门牌税（cukai pintu）、管理费及水电费，除非POS注明银行将从售卖所得中结清这些款项。竞标前务必阅读POS。"
 
 lang: "zh"
-sourceContentHash: "22e1e8564139d002"
+sourceContentHash: "2fa3e76f153f5816"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -81,7 +81,7 @@ keywords: ["bank lelong", "property auction Malaysia", "foreclosure", "proclamat
 
 ## 什么是银行拍卖，房产又如何走到这一步？
 
-当借款人拖欠房贷时，银行（承押人，chargee）会通过强制出售来追回款项。在马来西亚，这主要受**《国家土地法典》**（National Land Code）规范——即《1965年国家土地法典》（1965年第56号法令），现已修订并援引为**《国家土地法典（2020年修订版）》（第828号法令）**——银行须先取得**出售令**（Order for Sale），房产方可拍卖。就注册地契（Registry title）持有的土地而言，申请须提交至**高等法院**；就土地局地契（Land Office title）持有的土地而言，则提交至**土地局**。
+当借款人拖欠房贷时，银行（承押人，chargee）会通过强制出售来追回款项。在马来西亚，这主要受**《国家土地法典》**（National Land Code）规范——即[《1965年国家土地法典》](/law/national-land-code)（1965年第56号法令），现已修订并援引为**《国家土地法典（2020年修订版）》（第828号法令）**——银行须先取得**出售令**（Order for Sale），房产方可拍卖。就注册地契（Registry title）持有的土地而言，申请须提交至**高等法院**；就土地局地契（Land Office title）持有的土地而言，则提交至**土地局**。
 
 若房产尚未持有个别地契或分层地契——通常是仍处于总地契（master title）之下的发展项目——银行则改为直接出售其获转让的权益。这就是**LACA**（贷款协议连转让契据，Loan Agreement Cum Assignment）拍卖，由银行而非法庭进行，且不以同样的方式需要出售令。
 

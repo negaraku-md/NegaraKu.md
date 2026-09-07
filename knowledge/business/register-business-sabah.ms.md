@@ -69,7 +69,7 @@ obligations:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "2dfbdeafe3f19a96"
+sourceContentHash: "727ac80fd0ce4789"
 
 status: "published"
 aiAssisted: true
@@ -280,7 +280,7 @@ Malaysia; warga asing mesti melalui syarikat berdaftar dan memegang pas. Borang 
 perkara ini bagi pengarah syarikat yang dinamakan sebagai pengurus lesen, dan blok bancinya
 membezakan *Warganegara Negeri Sabah* daripada *Bukan Warganegara Negeri Sabah*. Ini
 berpunca daripada autonomi imigresen Sabah di bawah Perkara 161E Perlembagaan Persekutuan
-dan Bahagian VII Akta Imigresen 1959/63.
+dan Bahagian VII [Akta Imigresen 1959/63](/law/immigration-act-1959-63).
 
 **Lesen DBKK yang lain.** Lesen berniaga hanyalah satu daripada banyak. DBKK secara
 berasingan mengeluarkan lesen komposit, lesen penjaja, lesen pengiklanan di bawah undang-

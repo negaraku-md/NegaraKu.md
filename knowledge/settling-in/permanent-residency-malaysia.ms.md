@@ -34,7 +34,7 @@ faq:
     a: "Ya. Rayuan mesti dibuat kepada Menteri Dalam Negeri dalam tempoh 30 hari dari tarikh surat penolakan, bersama-sama surat rayuan, surat penolakan, dan dokumen sokongan."
 
 lang: "ms"
-sourceContentHash: "81d04d0c8249f2ad"
+sourceContentHash: "d074952166cefba5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -88,7 +88,7 @@ keywords: ["permanent residency Malaysia", "MyPR", "red IC Malaysia", "Entry Per
 
 MyKad merah ialah garisan penamat yang senyap bagi banyak kehidupan jangka panjang di Malaysia — isteri warga asing yang telah memperbaharui pas lawatan yang sama selama sedekad, jurutera yang tidak mahu lagi memfailkan lanjutan permit kerja, pesara yang ingin menjadi sebahagian daripada sesuatu tempat buat selama-lamanya. Kad itu, MyPR, ialah rupa sebenar status pemastautin tetap Malaysia di dalam dompet anda.
 
-Status pemastautin tetap di sini bukanlah visa yang anda perbaharui dan ia bukan kewarganegaraan. Ia ialah **Permit Masuk** yang diberikan di bawah **Seksyen 10 Akta Imigresen 1959/63** dan **Peraturan 4 Peraturan-Peraturan Imigresen 1963**, dan sebaik sahaja anda memegangnya, anda boleh tinggal dan bekerja di Malaysia tanpa had masa tanpa memerlukan pas berasingan.
+Status pemastautin tetap di sini bukanlah visa yang anda perbaharui dan ia bukan kewarganegaraan. Ia ialah **Permit Masuk** yang diberikan di bawah **Seksyen 10 [Akta Imigresen 1959/63](/law/immigration-act-1959-63)** dan **Peraturan 4 Peraturan-Peraturan Imigresen 1963**, dan sebaik sahaja anda memegangnya, anda boleh tinggal dan bekerja di Malaysia tanpa had masa tanpa memerlukan pas berasingan.
 
 ## Apakah sebenarnya status pemastautin tetap di Malaysia?
 

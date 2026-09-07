@@ -40,7 +40,7 @@ obligations:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "0af67092f0830df9"
+sourceContentHash: "0a5d002129db4742"
 
 status: "published"
 aiAssisted: true
@@ -88,7 +88,7 @@ Pendaftaran di bawah PDPA bukan bersifat umum. Ia hanya terpakai kepada pengawal
 
 | # | Golongan | Siapa yang dilindungi |
 | --- | --- | --- |
-| 1 | Komunikasi | Pemegang lesen di bawah Akta Komunikasi dan Multimedia 1998 atau Akta Perkhidmatan Pos 2012 |
+| 1 | Komunikasi | Pemegang lesen di bawah [Akta Komunikasi dan Multimedia 1998](/law/communications-and-multimedia-act-1998) atau Akta Perkhidmatan Pos 2012 |
 | 2 | Institusi perbankan dan kewangan | Bank berlesen, bank pelaburan, bank Islam dan bank Islam antarabangsa, serta institusi kewangan pembangunan (DFI) |
 | 3 | Insurans | Penanggung insurans berlesen, pengendali takaful dan takaful antarabangsa |
 | 4 | Kesihatan | Pemegang lesen penjagaan kesihatan swasta, klinik perubatan dan pergigian swasta berdaftar, badan korporat berdaftar di bawah Akta Pendaftaran Ahli Farmasi 1951 |

@@ -174,7 +174,7 @@ by the Code — but in Chapter IV and in a listed set of sections it extends to
 anything punishable under any other law in force. The Code is the **general**
 criminal statute, deliberately built to sit under specialised ones.
 
-Its closest partner is the **Criminal Procedure Code (Act 593)**, which supplies the
+Its closest partner is the **[Criminal Procedure Code](/law/criminal-procedure-code) (Act 593)**, which supplies the
 procedure the Code does not: arrest, charge, trial, bail and sentence. The First
 Schedule to the CPC tabulates Penal Code offences section by section, together with
 their punishments — which is why the Abolition of Mandatory Death Penalty Act 2023

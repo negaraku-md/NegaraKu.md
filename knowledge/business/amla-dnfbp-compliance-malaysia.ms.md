@@ -30,7 +30,7 @@ faq:
     a: "Tidak. Laporan Ambang Tunai untuk transaksi tunai bernilai RM25,000 dan ke atas hanya terpakai kepada institusi perbankan, institusi kewangan pembangunan terpilih, Lembaga Tabung Haji dan kasino berlesen. DNFBP masih mempunyai kewajipan STR."
 
 lang: "ms"
-sourceContentHash: "8570f279eb5b1efd"
+sourceContentHash: "244748feaceb18fe"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,7 +100,7 @@ Kewajipan ini ditetapkan dalam dokumen dasar BNM, **Pencegahan Pengubahan Wang H
 Tiga kewajipan menjadi tumpuan pematuhan:
 
 - **Usaha wajar pelanggan (CDD).** Kenal pasti dan sahkan siapa pelanggan itu, fahami tujuan hubungan tersebut, dan kenal pasti pemilik benefisial di sebalik klien korporat. Klien berisiko lebih tinggi memerlukan usaha wajar yang dipertingkatkan.
-- **Penyimpanan rekod.** Simpan dokumen CDD, rekod transaksi dan analisis risiko anda selama **sekurang-kurangnya enam tahun** selepas transaksi selesai atau hubungan perniagaan tamat. Rekod mesti disimpan dalam bentuk yang boleh diterima di mahkamah di bawah Akta Keterangan 1950.
+- **Penyimpanan rekod.** Simpan dokumen CDD, rekod transaksi dan analisis risiko anda selama **sekurang-kurangnya enam tahun** selepas transaksi selesai atau hubungan perniagaan tamat. Rekod mesti disimpan dalam bentuk yang boleh diterima di mahkamah di bawah [Akta Keterangan 1950](/law/evidence-act-1950).
 - **Pelaporan Transaksi Mencurigakan.** Failkan Laporan Transaksi Mencurigakan (STR) apabila sesuatu transaksi kelihatan luar biasa, tiada tujuan ekonomi yang jelas, kelihatan menyalahi undang-undang, atau menunjukkan pengubahan wang haram atau pembiayaan keganasan.
 
 ## Bagaimana dan bila anda perlu melapor?

@@ -224,7 +224,7 @@ This is the one that surprises people mid-hire, and it is entrenched constitutio
 **Article 161E(4)** of the Federal Constitution, inserted by the Malaysia Act 1963, treats state
 rights over entry into and residence in the State as if they had been embodied in the
 Constitution. Immigration is otherwise a Federal List subject, which is exactly why the carve-out
-runs through **Part VII of the Immigration Act 1959/63**, headed *Special Provisions for East
+runs through **Part VII of the [Immigration Act 1959/63](/law/immigration-act-1959-63)**, headed *Special Provisions for East
 Malaysia*.
 
 The operative sections are not what most summaries assume:

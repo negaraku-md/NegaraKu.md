@@ -101,7 +101,7 @@ Sabah sits on the northern tip of Borneo, sharing the island with Sarawak, the S
 
 Because Sabah runs its own immigration control — and this is not a quirk, it is constitutional.
 
-When Sabah and Sarawak formed Malaysia together with Malaya and Singapore in 1963, they negotiated safeguards to protect their distinct character. One of those safeguards was control over who enters the state. That autonomy is written into the Immigration Act 1959/63: **Section 66 is expressly "a restriction on the right of entry of citizens into the State of East Malaysia."** In plain terms, even a Malaysian citizen does not have an automatic right to walk into Sabah — entry is subject to a pass or permit.
+When Sabah and Sarawak formed Malaysia together with Malaya and Singapore in 1963, they negotiated safeguards to protect their distinct character. One of those safeguards was control over who enters the state. That autonomy is written into the [Immigration Act 1959/63](/law/immigration-act-1959-63): **Section 66 is expressly "a restriction on the right of entry of citizens into the State of East Malaysia."** In plain terms, even a Malaysian citizen does not have an automatic right to walk into Sabah — entry is subject to a pass or permit.
 
 The practical effect is that Sabah maintains its own checkpoint at every port of entry, including Kota Kinabalu International Airport. So when you fly in from the Peninsula, you clear immigration on arrival and are granted a visit pass, exactly as you would crossing an international border — even though you never left Malaysia.
 

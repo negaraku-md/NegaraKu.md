@@ -25,7 +25,7 @@ appliesTo: "适合学生、研究人员、新闻工作者，以及任何想要�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "a1692e46a03751a8"
+sourceContentHash: "1cdb5bbdd1308bf3"
 
 status: "published"
 aiAssisted: true
@@ -186,7 +186,7 @@ keywords:
 行使第145条第(3)款权力的总检察长。（这两个角色*是否应当*分开，是一个政策辩论问题，本文这
 篇以文本为依据的文章不作讨论。）
 
-**"检控权力来自刑事诉讼法典（Criminal Procedure Code）。"** 该法典规范刑事诉讼程序如何进
+**"检控权力来自[刑事诉讼法典](/law/criminal-procedure-code)（Criminal Procedure Code）。"** 该法典规范刑事诉讼程序如何进
 行，但提起、进行或终止诉讼程序的自由裁量权，是由宪法本身在第145条第(3)款中赋予的。
 
 **"总检察长可以在任何法院进行检控。"** 第(3)款的权力明文规定**不**延伸至沙里亚法庭、原住

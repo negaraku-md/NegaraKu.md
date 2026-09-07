@@ -69,7 +69,7 @@ obligations:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "2dfbdeafe3f19a96"
+sourceContentHash: "727ac80fd0ce4789"
 
 status: "published"
 aiAssisted: true
@@ -206,7 +206,7 @@ DBKK 的申请表厘清了实务上的问题：私人有限公司申请人须附
 
 ## 沙巴的其他层次
 
-**工作准证。** DBKK 的发照指南要求申请人须为沙巴的本地居民或永久居民，或者如果来自砂拉越或马来西亚半岛则须持有工作准证；外国国民必须通过一家注册公司并持有准证。表格对被列为执照经理的公司董事重复了这一点，其人口普查栏区分*沙巴州公民（Warganegara Negeri Sabah）*与*非沙巴州公民（Bukan Warganegara Negeri Sabah）*。这源自沙巴根据《联邦宪法》第161E条以及《1959/63年移民法令》第七部所享有的入境自主权。
+**工作准证。** DBKK 的发照指南要求申请人须为沙巴的本地居民或永久居民，或者如果来自砂拉越或马来西亚半岛则须持有工作准证；外国国民必须通过一家注册公司并持有准证。表格对被列为执照经理的公司董事重复了这一点，其人口普查栏区分*沙巴州公民（Warganegara Negeri Sabah）*与*非沙巴州公民（Bukan Warganegara Negeri Sabah）*。这源自沙巴根据《联邦宪法》第161E条以及[《1959/63年移民法令》](/law/immigration-act-1959-63)第七部所享有的入境自主权。
 
 **其他 DBKK 执照。** 贸易执照只是众多执照之一。DBKK 另行签发综合执照、小贩执照、根据1983年招牌附例签发的广告执照、美容与保健中心执照、根据《1958年公共娱乐条例》签发的公共娱乐执照，以及根据《1960年石油条例》签发的石油执照，此外还有涵盖食品场所、酒店与旅舍、厌恶性行业、理发师、洗衣店及五脚基的各项附例。
 

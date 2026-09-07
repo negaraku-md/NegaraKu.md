@@ -23,7 +23,7 @@ appliesTo: "Sesiapa sahaja — pelancong, majikan, pelajar, atau pembaca yang be
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "dcc0a9e8fa385c4d"
+sourceContentHash: "468d0412b31978aa"
 
 status: "published"
 aiAssisted: true
@@ -85,7 +85,7 @@ Satu-satunya perlindungan yang ditemui oleh pelancong biasa ialah imigresen. Dua
 
 Pertama, Perlembagaan. Perkara 9(2) memberikan setiap warganegara hak untuk bergerak bebas di seluruh Persekutuan dan bermastautin di mana-mana sahaja di dalamnya — tetapi Perkara 9(3) menjadikan hak itu tertakluk kepada undang-undang yang menyekat pergerakan "antara" sesuatu negeri yang mempunyai kedudukan istimewa di bawah Perlembagaan dengan negeri-negeri lain. Sabah dan Sarawak ialah negeri-negeri yang mempunyai kedudukan istimewa itu, jadi Parlimen dibenarkan secara nyata untuk menyekat pergerakan masuk ke dalamnya.
 
-Kedua, statut yang melaksanakan kebenaran itu. Bahagian VII **Akta Imigresen 1959/63 (Immigration Act 1959/63)** meletakkan kawalan ke atas kemasukan ke dalam, dan kediaman di, Sabah dan Sarawak di bawah pihak berkuasa imigresen negeri masing-masing. Kawalan itu terpakai bukan sahaja kepada warga asing tetapi juga kepada warganegara Malaysia dari negeri-negeri lain: seseorang dari Semenanjung, bagi tujuan imigresen di sempadan negeri, dianggap memasuki suatu bidang kuasa yang menentukan kemasukannya sendiri.
+Kedua, statut yang melaksanakan kebenaran itu. Bahagian VII **[Akta Imigresen 1959/63](/law/immigration-act-1959-63) (Immigration Act 1959/63)** meletakkan kawalan ke atas kemasukan ke dalam, dan kediaman di, Sabah dan Sarawak di bawah pihak berkuasa imigresen negeri masing-masing. Kawalan itu terpakai bukan sahaja kepada warga asing tetapi juga kepada warganegara Malaysia dari negeri-negeri lain: seseorang dari Semenanjung, bagi tujuan imigresen di sempadan negeri, dianggap memasuki suatu bidang kuasa yang menentukan kemasukannya sendiri.
 
 Pada praktiknya, inilah sebabnya Sarawak dan Sabah menjalankan saluran kemasukan mereka sendiri dan mengeluarkan pas serta kebenaran kerja mereka sendiri, berbeza daripada proses persekutuan di Semenanjung. Mekanisme itu bersifat kualitatif — budi bicara untuk membenarkan, menghadkan, atau menolak — dan bukannya satu formula tetap.
 

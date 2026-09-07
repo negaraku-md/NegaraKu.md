@@ -34,7 +34,7 @@ faq:
     a: "不适用于所有人。它不适用于公务员、学徒、试用期雇员、外籍雇员、家庭佣工、兼职雇员、临时学生雇员，以及某些定期合约雇员。"
 
 lang: "zh"
-sourceContentHash: "ff8a39d6cf6b55db"
+sourceContentHash: "f2f42b17c86c3524"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -109,7 +109,7 @@ keywords: ["umur persaraan minimum", "Akta 753", "persaraan 60 tahun", "persaraa
 当提前退休发生时，有两条各自独立的途径，两者性质不同：
 
 - **刑事途径（依据753号法令）：** 雇员可向**劳工总监（Ketua Pengarah Buruh）**投诉。因提前退休罪被定罪的雇主可被罚款高达**RM10,000**。这是刑事检控，而非雇员的民事诉讼。
-- **民事途径（不公平解雇）：** 雇员可依据**《1967年劳资关系法令》第20条**，在被解雇之日起**60天**内向劳资关系总监提出申诉，这可能导致复职令或赔偿。
+- **民事途径（不公平解雇）：** 雇员可依据**[《1967年劳资关系法令》](/law/industrial-relations-act-1967)第20条**，在被解雇之日起**60天**内向劳资关系总监提出申诉，这可能导致复职令或赔偿。
 
 ## 那么自愿退休（optional retirement）呢？
 

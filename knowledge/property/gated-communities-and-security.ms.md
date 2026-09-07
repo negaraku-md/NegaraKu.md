@@ -29,7 +29,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "07fd1de5b8efc3b5"
+sourceContentHash: "03cf0cac851c0421"
 
 status: "published"
 aiAssisted: true
@@ -95,7 +95,7 @@ Palang jalan merentangi jalan awam kelihatan seperti persis apa yang cuba dihala
 
 Garis pemisah yang dilukis oleh mahkamah ialah kelulusan, bukan rupa bentuk. Dalam kes **Au Kean Hoe v Persatuan Penduduk D'Villa Equestrian [2015] 4 MLJ 204**, seorang pemilik rumah menyaman persatuan penduduknya sendiri untuk merobohkan palang jalan dan pondok pengawal di pintu masuk estetnya. Mahkamah Persekutuan menolak tuntutan itu: oleh sebab majlis tempatan telah meluluskan struktur-struktur itu di bawah Town and Country Planning Act 1976, satu penghalang yang dikawal selia dan masih boleh dilalui bukanlah suatu "halangan" di sisi undang-undang — begitu juga keperluan untuk mengendalikan palang itu sendiri, selepas dia berhenti membayar yuran RA-nya, bukanlah suatu kacau ganggu (nuisance) yang boleh disaman. Balikkan fakta itu, dan hasilnya turut berbalik: sebuah palang yang dipasang oleh RA tanpa sesekali merujuk kepada pihak berkuasa tempatan terletak tepat pada titik di mana s.46(1)(a) terpakai.
 
-GP022 menetapkan laluan kelulusan sebenar. Sebuah pondok pengawal kekal di atas tanah rizab jalan memerlukan **Temporary Occupation Licence** daripada Pejabat Tanah daerah di bawah National Land Code 1965, ditambah permit bangunan pihak berkuasa tempatan; hanya langkah **sementara** — palang jalan manual, kon, papan tanda di pondok yang sentiasa berpengawal — mendapat sebarang kelonggaran tanpa lesen tersebut.
+GP022 menetapkan laluan kelulusan sebenar. Sebuah pondok pengawal kekal di atas tanah rizab jalan memerlukan **Temporary Occupation Licence** daripada Pejabat Tanah daerah di bawah [National Land Code 1965](/law/national-land-code), ditambah permit bangunan pihak berkuasa tempatan; hanya langkah **sementara** — palang jalan manual, kon, papan tanda di pondok yang sentiasa berpengawal — mendapat sebarang kelonggaran tanpa lesen tersebut.
 
 ## Apa yang diperlukan untuk menubuhkan Kejiranan Berpengawal
 

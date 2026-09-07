@@ -29,7 +29,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "4b3d1bbfe02cf7cf"
+sourceContentHash: "85a91cff60040b90"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -95,7 +95,7 @@ KPDN 及其属下机构负责执行一系列贸易与消费者法令。普通马
 | --- | --- |
 | 《2011 年价格管制及反暴利法令》[Act 723] | 设定价格上限、要求标示价格，并对不合理的高额利润采取行动 |
 | 《1961 年供应管制法令》[Act 122] | 管控列明必需品的销售与分销 |
-| 《1999 年消费者保护法令》[Act 599] | 保护消费者并设立索偿仲裁庭 |
+| [《1999 年消费者保护法令》](/law/consumer-protection-act)[Act 599] | 保护消费者并设立索偿仲裁庭 |
 | 《2011 年商品说明法令》[Act 730] | 禁止虚假或误导性的商品说明 |
 | 《2010 年竞争法令》[Act 712] | 禁止卡特尔行为及滥用市场支配地位 |
 | 《1972 年度量衡法令》[Act 71] | 确保贸易中诚实计量 |

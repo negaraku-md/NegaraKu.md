@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "955a3a4516d059d3"
+sourceContentHash: "2fddfa6e345670a4"
 
 status: "published"
 aiAssisted: true
@@ -81,7 +81,7 @@ Langkah kedua itu mengejutkan orang yang hanya membaca tajuk berita mengenai har
 
 Pintu pertama ialah **harga minimum**. Malaysia tiada satu paras minimum kebangsaan tunggal — setiap negeri menetapkan parasnya sendiri, dan sesetengah negeri memecahkannya mengikut daerah, mengikut zon, atau mengikut sama ada hartanah itu bertanah atau strata (kondominium, pangsapuri, residensi berservis).
 
-Pintu kedua ialah **kebenaran bertulis daripada Pihak Berkuasa Negeri**, yang diperlukan bagi setiap pemerolehan oleh warga asing tanpa mengira harga, di bawah Kanun Tanah Negara 1965 (National Land Code 1965) (Akta 56, kini disatukan sebagai Akta 828). Tanah termasuk dalam senarai negeri dalam struktur persekutuan Malaysia — lihat [bagaimana kuasa dibahagikan antara kerajaan persekutuan dan negeri](/government/federal-state-division) — sebab itulah tepatnya mengapa angka dan kerja kertasnya berbeza dari satu negeri ke negeri lain dan bukannya mengikut satu buku peraturan persekutuan.
+Pintu kedua ialah **kebenaran bertulis daripada Pihak Berkuasa Negeri**, yang diperlukan bagi setiap pemerolehan oleh warga asing tanpa mengira harga, di bawah [Kanun Tanah Negara 1965](/law/national-land-code) (National Land Code 1965) (Akta 56, kini disatukan sebagai Akta 828). Tanah termasuk dalam senarai negeri dalam struktur persekutuan Malaysia — lihat [bagaimana kuasa dibahagikan antara kerajaan persekutuan dan negeri](/government/federal-state-division) — sebab itulah tepatnya mengapa angka dan kerja kertasnya berbeza dari satu negeri ke negeri lain dan bukannya mengikut satu buku peraturan persekutuan.
 
 Melepasi paras harga minimum hanya membawa pembeli asing ke tahap membuat permohonan. Ia tidak menjamin negeri akan bersetuju.
 

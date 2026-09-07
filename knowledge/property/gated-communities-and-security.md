@@ -94,7 +94,7 @@ A boom gate across a public road looks like exactly what Section 46(1)(a) of the
 
 The line the courts draw is approval, not appearance. In **Au Kean Hoe v Persatuan Penduduk D'Villa Equestrian [2015] 4 MLJ 204**, a homeowner sued his own RA to tear down the boom gates and guardhouse at his estate's entrance. The Federal Court dismissed the claim: because the local council had approved the structures under the Town and Country Planning Act 1976, a regulated, still-passable barrier was not an "obstruction" in law — nor was having to operate the gate himself, after he stopped paying his RA dues, an actionable nuisance. Flip the facts, and the outcome flips: a gate an RA installs without ever going to the local authority sits exactly where s.46(1)(a) bites.
 
-GP022 sets the actual approval path. A permanent guardhouse on road-reserve land needs a **Temporary Occupation Licence** from the district Land Office under the National Land Code 1965, plus a local-authority building permit; only **temporary** measures — a manual boom gate, cones, signage at a continuously-guarded post — get any leeway without one.
+GP022 sets the actual approval path. A permanent guardhouse on road-reserve land needs a **Temporary Occupation Licence** from the district Land Office under the [National Land Code 1965](/law/national-land-code), plus a local-authority building permit; only **temporary** measures — a manual boom gate, cones, signage at a continuously-guarded post — get any leeway without one.
 
 ## What it takes to set up a Guarded Neighbourhood
 

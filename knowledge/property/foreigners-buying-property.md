@@ -80,7 +80,7 @@ That second step surprises people who only read the price-floor headlines. Buyin
 
 The first gate is a **minimum price**. Malaysia has no single national floor — each state sets its own, and some split it by district, by zone, or by whether the property is landed or stratified (condos, apartments, serviced residences).
 
-The second gate is **written consent from the State Authority**, required for every foreign acquisition regardless of price, under the National Land Code 1965 (Act 56, now consolidated as Act 828). Land falls under the state list in Malaysia's federal structure — see [how power is divided between federal and state government](/en/government/federal-state-division) — which is exactly why the numbers and the paperwork differ from state to state rather than following one federal rulebook.
+The second gate is **written consent from the State Authority**, required for every foreign acquisition regardless of price, under the [National Land Code 1965](/law/national-land-code) (Act 56, now consolidated as Act 828). Land falls under the state list in Malaysia's federal structure — see [how power is divided between federal and state government](/en/government/federal-state-division) — which is exactly why the numbers and the paperwork differ from state to state rather than following one federal rulebook.
 
 Clearing the price floor gets a foreign buyer to the point of applying. It does not guarantee the state says yes.
 

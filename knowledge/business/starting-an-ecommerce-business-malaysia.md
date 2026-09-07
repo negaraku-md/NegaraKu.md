@@ -94,7 +94,7 @@ Note what this step is *not*: there is **no separate "online business licence"**
 
 ## Step 2: Meet the e-commerce disclosure rules (updated in 2024)
 
-This is where many guides are out of date. The old Consumer Protection (Electronic Trade Transactions) Regulations 2012 were **replaced by the 2024 Regulations, in force 25 December 2024**, under the Consumer Protection Act 1999 and enforced by the Ministry of Domestic Trade and Cost of Living (KPDN).
+This is where many guides are out of date. The old Consumer Protection (Electronic Trade Transactions) Regulations 2012 were **replaced by the 2024 Regulations, in force 25 December 2024**, under the [Consumer Protection Act 1999](/law/consumer-protection-act) and enforced by the Ministry of Domestic Trade and Cost of Living (KPDN).
 
 An online seller or marketplace supplier must **display**:
 
@@ -112,7 +112,7 @@ One thing the rules do *not* require you to display: the gazette's public-disclo
 
 The moment you collect names, addresses and payment details, the **Personal Data Protection Act 2010** applies. In practice you must obtain consent, publish a privacy notice, keep the data secure, not over-retain it, and honour access and correction requests.
 
-Recent **2024 amendments** (phasing in through 2025) added a **mandatory data-breach notification** duty and, for qualifying businesses, the appointment of a **Data Protection Officer**. See the PDPA-compliance guide, and confirm the current breach-notification and DPO thresholds with the Personal Data Protection Department, as these are new.
+Recent **2024 amendments** (phasing in through 2025) added a **mandatory data-breach notification** duty and, for qualifying businesses, the appointment of a **Data Protection Officer**. See the PDPA-compliance guide, and confirm the current breach-notification and DPO thresholds with the [Personal Data Protection Department](/law/data-protection-department-jpdp), as these are new.
 
 ## Step 4: Get the tax right
 

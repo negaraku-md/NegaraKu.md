@@ -49,7 +49,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "c7034749f10c0f88"
+sourceContentHash: "da83e3eaf6cc3765"
 
 status: "published"
 aiAssisted: true
@@ -123,7 +123,7 @@ keywords:
 
 ## 这些条件在宪法上从何而来？
 
-联邦宪法第 153 条的标题为 *为马来人以及沙巴与砂拉越任何一州的土著保留服务、执照等方面
+[联邦宪法第 153 条](/law/article-153-special-position)的标题为 *为马来人以及沙巴与砂拉越任何一州的土著保留服务、执照等方面
 的固打*。
 
 第 153(2) 条规定，最高元首（Yang di-Pertuan Agong）须以其认为必要的方式行使职权，以确保

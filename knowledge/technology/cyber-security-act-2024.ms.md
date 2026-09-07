@@ -39,7 +39,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "be3b854ac3c7fbd5"
+sourceContentHash: "ee81ef22057b8bb3"
 
 status: "published"
 aiAssisted: true
@@ -208,7 +208,7 @@ Akta ini dipasangkan dengan **Peraturan-peraturan Keselamatan Siber (Pengkompaun
 Akta Keselamatan Siber tidak berdiri sendiri, dan organisasi kerap terhutang kewajipan di bawah beberapa rejim pada masa yang sama.
 
 - **Akta Perlindungan Data Peribadi 2010 (PDPA).** Mengawal cara data peribadi dikumpul, digunakan dan diselamatkan. Suatu pelanggaran yang melibatkan data peribadi boleh mencetuskan kewajipan PDPA *dan*, jika mangsa ialah entiti NCII, pelaporan Akta Keselamatan Siber.
-- **Akta Komunikasi dan Multimedia 1998.** Mengawal selia industri komunikasi dan multimedia serta kekal menjadi tulang belakang bagi pelesenan sektor tersebut.
+- **[Akta Komunikasi dan Multimedia 1998](/law/communications-and-multimedia-act-1998).** Mengawal selia industri komunikasi dan multimedia serta kekal menjadi tulang belakang bagi pelesenan sektor tersebut.
 - **Akta Jenayah Komputer 1997.** Menjenayahkan akses tanpa kebenaran dan perlakuan yang berkaitan — rakan sejawat berhadapan pesalah bagi kewajipan berhadapan pengendali dalam Akta Keselamatan Siber.
 - **Peraturan sektor.** Keperluan risiko teknologi Bank Negara Malaysia bagi institusi kewangan, dan peraturan setara daripada pengawal selia lain, terus terpakai di atas Akta 854.
 

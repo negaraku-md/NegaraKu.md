@@ -24,7 +24,7 @@ appliesTo: "Sesiapa sahaja di Malaysia — warganegara, pemastautin, pemegang pa
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "c673bb5c2f2b49f5"
+sourceContentHash: "5f238099826ab02d"
 
 status: "published"
 aiAssisted: true
@@ -107,7 +107,7 @@ yang anda pilih, keperluan pendaftaran di bawah ini terpakai secara sama rata.
 
 Suruhanjaya Komunikasi dan Multimedia Malaysia (MCMC) menghendaki setiap kad SIM
 prabayar didaftarkan terhadap dokumen pengenalan diri yang sah sebelum ia boleh
-diaktifkan, di bawah kuasa dalam Communications and Multimedia Act 1998. Pendaftaran
+diaktifkan, di bawah kuasa dalam [Communications and Multimedia Act 1998](/law/communications-and-multimedia-act-1998). Pendaftaran
 tidak dikenakan sebarang bayaran — sesiapa yang meminta anda membayar untuknya tidak
 mematuhi peraturan.
 

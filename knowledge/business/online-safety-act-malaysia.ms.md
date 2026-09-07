@@ -60,7 +60,7 @@ obligations:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b57e9ef909f30cc8"
+sourceContentHash: "9ae3464820a97814"
 
 status: "published"
 aiAssisted: true
@@ -131,7 +131,7 @@ Akta 866 menerima Perkenan Diraja pada 6 Mei 2025 dan diwartakan pada 22 Mei 202
 
 Seksyen 2(1) memakai Akta ini kepada mana-mana perkhidmatan aplikasi yang menggunakan perkhidmatan capaian internet dan membolehkan komunikasi antara pengguna, mana-mana perkhidmatan aplikasi kandungan yang menyediakan kandungan melalui capaian internet, dan mana-mana perkhidmatan rangkaian.
 
-Namun kewajipan substantif dalam Bahagian III (Part III) terpakai kepada **penyedia perkhidmatan aplikasi berlesen** dan **penyedia perkhidmatan aplikasi kandungan berlesen** — dan s.4 mentakrifkan kedua-duanya merujuk kepada berlesen di bawah Akta Komunikasi dan Multimedia 1998 (Communications and Multimedia Act 1998, CMA 1998). Tiada lesen CMA, tiada kewajipan Bahagian III.
+Namun kewajipan substantif dalam Bahagian III (Part III) terpakai kepada **penyedia perkhidmatan aplikasi berlesen** dan **penyedia perkhidmatan aplikasi kandungan berlesen** — dan s.4 mentakrifkan kedua-duanya merujuk kepada berlesen di bawah [Akta Komunikasi dan Multimedia 1998](/law/communications-and-multimedia-act-1998) (Communications and Multimedia Act 1998, CMA 1998). Tiada lesen CMA, tiada kewajipan Bahagian III.
 
 Dua pengecualian yang penting:
 

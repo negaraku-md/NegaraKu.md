@@ -26,7 +26,7 @@ appliesTo: "需要以中立、按文本方式了解 SOSMA 是什么、提供哪�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5efba628053a2449"
+sourceContentHash: "23e4a7f81f4e58a1"
 
 status: "published"
 aiAssisted: true
@@ -178,7 +178,7 @@ Part VI 就**受保护证人**作出规定，section 3 将其界定为：若其�
 ## Part VII——特别证据规则
 
 Part VII 订立适用于安全罪行审讯的证据规则，而 section 17 规定该 Part「即使与
-Evidence Act 1950 的任何规定不一致」仍然生效。其条文包括：
+[Evidence Act 1950](/law/evidence-act-1950) 的任何规定不一致」仍然生效。其条文包括：
 
 | Section | 事项 |
 | --- | --- |

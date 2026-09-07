@@ -106,7 +106,7 @@ Pentadbir Akta ini ialah **Ketua Pengarah Kesatuan Sekerja (KPKS)**, yang dilant
 Perlu dibezakan dua rangka undang-undang yang berkait rapat:
 
 - **Akta Kesatuan Sekerja 1959** — mengawal *pembentukan dan pendaftaran* kesatuan.
-- **Akta Perhubungan Perusahaan 1967** — mengawal *pengiktirafan, perundingan kolektif* dan penyelesaian pertikaian perusahaan antara kesatuan dan majikan.
+- **[Akta Perhubungan Perusahaan 1967](/law/industrial-relations-act-1967)** — mengawal *pengiktirafan, perundingan kolektif* dan penyelesaian pertikaian perusahaan antara kesatuan dan majikan.
 
 Sebuah kesatuan boleh didaftarkan di bawah Akta 262, tetapi hak untuk berunding bagi pihak pekerja masih ditentukan di bawah Akta 1967.
 

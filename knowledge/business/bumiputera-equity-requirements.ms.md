@@ -49,7 +49,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "c7034749f10c0f88"
+sourceContentHash: "da83e3eaf6cc3765"
 
 status: "published"
 aiAssisted: true
@@ -127,7 +127,7 @@ diulang.
 
 ## Dari manakah syarat-syarat ini datang dari sudut perlembagaan?
 
-Article 153 Perlembagaan Persekutuan bertajuk *Perizaban kuota berkenaan dengan
+[Article 153 Perlembagaan Persekutuan](/law/article-153-special-position) bertajuk *Perizaban kuota berkenaan dengan
 perkhidmatan, permit, dsb. bagi orang Melayu dan anak negeri mana-mana antara Negeri
 Sabah dan Sarawak*.
 

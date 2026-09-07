@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "0c497d0b40be3da4"
+sourceContentHash: "4b67b928b9834e6c"
 
 status: "published"
 aiAssisted: true
@@ -106,7 +106,7 @@ beban untuk menunjukkan kedudukan mereka.
 
 Kandungan yang berhenti setakat 2025 kini sudah lapuk setahun.
 
-Seksyen 46A dimasukkan ke dalam Akta Komunikasi dan Multimedia 1998 dan berkuat kuasa pada
+Seksyen 46A dimasukkan ke dalam [Akta Komunikasi dan Multimedia 1998](/law/communications-and-multimedia-act-1998) dan berkuat kuasa pada
 **11 Februari 2025**. Ia membolehkan seseorang dianggap berdaftar di bawah lesen kelas
 melalui Perisytiharan Menteri, tanpa pendaftaran rasmi dikemukakan.
 

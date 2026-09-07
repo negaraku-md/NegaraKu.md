@@ -36,7 +36,7 @@ faq:
     a: "Kedua-duanya wujud. Tempat seperti Annah Rais berhampiran Kuching ialah komuniti rumah panjang Bidayuh yang masih didiami keluarga, manakala Kampung Budaya Sarawak berhampiran Santubong ialah muzium hidup yang dibina khas. Melawat rumah panjang yang masih didiami paling baik diatur terlebih dahulu dan selalunya melalui pemandu pelancong yang boleh mentafsir lawatan itu dengan hormat."
 
 lang: "ms"
-sourceContentHash: "0c793430dbdbc20d"
+sourceContentHash: "484f5ee1df5a2a08"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,7 +100,7 @@ Sarawak ialah negeri terbesar Malaysia dari segi keluasan, menduduki barat laut 
 
 Apabila Persekutuan Malaysia dibentuk pada tahun 1963, Sarawak menyertainya di bawah syarat yang termasuk mengekalkan kawalan ke atas imigresen ke wilayahnya sendiri. Kuasa itu masih kekal hari ini, itulah sebabnya, lebih enam puluh tahun kemudian, Malaysia mengendalikan pemeriksaan imigresen antara Semenanjung dan Sarawak.
 
-Mekanismenya ialah undang-undang persekutuan. Seksyen 66 Akta Imigresen 1959/63 ialah, dalam kata-kata Jabatan Imigresen sendiri, "satu sekatan ke atas hak kemasukan warganegara ke Negeri Malaysia Timur" — iaitu, ke Sabah dan Sarawak. Dalam praktiknya, ia bermaksud Sarawak menentukan siapa yang boleh masuk dan atas syarat apa, dan ia menguatkuasakannya di Lapangan Terbang Antarabangsa Kuching, Lapangan Terbang Miri, dan lintasan darat dengan Brunei serta Kalimantan Indonesia.
+Mekanismenya ialah undang-undang persekutuan. Seksyen 66 [Akta Imigresen 1959/63](/law/immigration-act-1959-63) ialah, dalam kata-kata Jabatan Imigresen sendiri, "satu sekatan ke atas hak kemasukan warganegara ke Negeri Malaysia Timur" — iaitu, ke Sabah dan Sarawak. Dalam praktiknya, ia bermaksud Sarawak menentukan siapa yang boleh masuk dan atas syarat apa, dan ia menguatkuasakannya di Lapangan Terbang Antarabangsa Kuching, Lapangan Terbang Miri, dan lintasan darat dengan Brunei serta Kalimantan Indonesia.
 
 Di bawah kuasa ini, pihak berkuasa imigresen Sarawak boleh menolak kemasukan pengembara individu, secara berasingan daripada kemasukan persekutuan. Bagi seorang pelawat, intipatinya mudah: melepasi imigresen ke Malaysia tidak secara automatik melepaskan anda masuk ke Sarawak.
 

@@ -128,7 +128,7 @@ Who may legislate on what is fixed by the **Ninth Schedule**, which divides
 subject matter into a Federal List, a State List, and a Concurrent List
 available to both. Civil and criminal law, procedure and the administration
 of justice sit in the Federal List — Parliament's territory, and the reason
-the Penal Code, the Contracts Act and the Companies Act are all federal Acts.
+the [Penal Code](/law/penal-code), the Contracts Act and the Companies Act are all federal Acts.
 Islamic law and the land- and custom-related matters discussed below sit in
 the State List instead.
 

@@ -79,7 +79,7 @@ obligations:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "a95a4356732671c2"
+sourceContentHash: "558d661d33577f5e"
 
 status: "published"
 aiAssisted: true
@@ -197,7 +197,7 @@ Saluran permohonan khas menjadikan urutannya jelas — seorang majikan hanya men
 
 Berikutan keputusan Kabinet pada 1 Julai 2026, pengurusan Pusat Setempat berpindah kepada **Kementerian Sumber Manusia (KESUMA)**. Mulai **6 Julai 2026** semua permohonan kuota pekerja asing dikendalikan secara berpusat oleh KESUMA melalui **modul eQuota FWCMS**, menggantikan proses OSC kes demi kes yang terdahulu; Kementerian Dalam Negeri (KDN) mengekalkan kuasa muktamad untuk mengeluarkan pas dan permit atas alasan keselamatan.
 
-Kelayakan pekerja ditetapkan pada peringkat ini. Berumur **18 hingga 45** tahun pada masa permohonan, disahkan sihat oleh pusat pemeriksaan kesihatan di negara sumber, tidak berada dalam senarai larangan di bawah s.8(3) Akta Imigresen 1959/63, dan warganegara negara sumber yang diluluskan. Indonesia, Thailand, Kemboja, Bangladesh, Myanmar, Laos, Vietnam, Pakistan, Sri Lanka, Turkmenistan, Uzbekistan, Kazakhstan dan Nepal terbuka merentas sektor; Filipina membenarkan pekerja lelaki dalam semua sektor tetapi wanita hanya sebagai pembantu rumah; India dihadkan kepada sub-sektor perkhidmatan tertentu, pertanian, pembuatan dan pembinaan.
+Kelayakan pekerja ditetapkan pada peringkat ini. Berumur **18 hingga 45** tahun pada masa permohonan, disahkan sihat oleh pusat pemeriksaan kesihatan di negara sumber, tidak berada dalam senarai larangan di bawah s.8(3) [Akta Imigresen 1959/63](/law/immigration-act-1959-63), dan warganegara negara sumber yang diluluskan. Indonesia, Thailand, Kemboja, Bangladesh, Myanmar, Laos, Vietnam, Pakistan, Sri Lanka, Turkmenistan, Uzbekistan, Kazakhstan dan Nepal terbuka merentas sektor; Filipina membenarkan pekerja lelaki dalam semua sektor tetapi wanita hanya sebagai pembantu rumah; India dihadkan kepada sub-sektor perkhidmatan tertentu, pertanian, pembuatan dan pembinaan.
 
 ## 4. Visa Dengan Rujukan dan visa masuk
 

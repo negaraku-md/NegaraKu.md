@@ -87,7 +87,7 @@ A pass that lapsed by a single day is, in the eyes of Malaysian law, the same of
 
 ## What does the law actually say about overstaying?
 
-Staying in Malaysia after a pass expires is prohibited by **section 15(1)(c) of the Immigration Act 1959/63**, and doing so is an offence under **section 15(4)**. The key feature is that it is a *strict-liability* offence: the prosecution does not have to prove you meant to overstay. A forgotten renewal, a hospital stay, an application stuck in processing — none of these erase the offence, though they can affect how an officer chooses to handle it.
+Staying in Malaysia after a pass expires is prohibited by **section 15(1)(c) of the [Immigration Act 1959/63](/law/immigration-act-1959-63)**, and doing so is an offence under **section 15(4)**. The key feature is that it is a *strict-liability* offence: the prosecution does not have to prove you meant to overstay. A forgotten renewal, a hospital stay, an application stuck in processing — none of these erase the offence, though they can affect how an officer chooses to handle it.
 
 The statutory penalty is heavy on paper. The Immigration Department lists overstaying under section 15(4) as carrying a fine of up to **RM10,000**, imprisonment of up to **five years**, or both. In the overwhelming majority of ordinary cases, though, the matter is not prosecuted — it is *compounded*.
 

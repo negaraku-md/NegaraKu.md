@@ -102,7 +102,7 @@ they sit.
 
 Content that stops at 2025 is now a year out of date.
 
-Section 46A was inserted into the Communications and Multimedia Act 1998 and came into
+Section 46A was inserted into the [Communications and Multimedia Act 1998](/law/communications-and-multimedia-act-1998) and came into
 force on **11 February 2025**. It lets a person be deemed registered under a class licence
 by Ministerial Declaration, with no formal registration submitted.
 

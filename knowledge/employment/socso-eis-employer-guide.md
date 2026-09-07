@@ -227,7 +227,7 @@ schedule. They describe different employees.
 
 Cases SKBBK does not cover include accidents occurring outside Malaysia, foreign
 workers who have misused a pass or permit or breached an entry condition under
-the Immigration Act 1959/63, and conditions caused by disease such as diabetes,
+the [Immigration Act 1959/63](/law/immigration-act-1959-63), and conditions caused by disease such as diabetes,
 fever or hypertension.
 
 ## How the three interact on one payslip

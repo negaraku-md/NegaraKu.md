@@ -206,7 +206,7 @@ life and well-being.
 
 Part VII sets out evidence rules that apply to security-offence trials, and section 17
 states that the Part has effect **notwithstanding anything inconsistent with the
-Evidence Act 1950**. Among its provisions:
+[Evidence Act 1950](/law/evidence-act-1950)**. Among its provisions:
 
 | Section | Subject |
 | --- | --- |

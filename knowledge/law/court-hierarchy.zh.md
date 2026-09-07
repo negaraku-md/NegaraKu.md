@@ -38,7 +38,7 @@ faq:
     a: "在第一审阶段并非如此。雇佣索偿是在其各自成文法所设立的论坛（forums）中展开，而非在地庭或推事庭；而消费者索偿仲裁庭（Tribunal for Consumer Claims）则是根据 Consumer Protection Act 1999 第85条（section 85）设立的。这些裁决日后或可通过上诉或司法审查（judicial review）提交至高庭，但其起始点并非本层级中的法院。"
 
 lang: "zh"
-sourceContentHash: "ca7a87cddc904473"
+sourceContentHash: "0ff02d452124fe9d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -113,7 +113,7 @@ SCA = Subordinate Courts Act 1948（Act 92）。CJA = Courts of Judicature Act 1
 
 一等推事（First Class Magistrate）可审理所有争议金额或标的价值不超过十万令吉（one hundred thousand ringgit）的民事诉讼（s.90）。
 
-在刑事方面，section 85 允许一等推事审讯最高监禁刑期不超过十年的罪行、仅可判处罚款的罪行，以及 Penal Code 中 sections 392 and 457 所规定的罪行。
+在刑事方面，section 85 允许一等推事审讯最高监禁刑期不超过十年的罪行、仅可判处罚款的罪行，以及 [Penal Code](/law/penal-code) 中 sections 392 and 457 所规定的罪行。
 
 有一个容易让人踩坑的落差需要留意：审讯罪行的权力（power to *try*），不等于判刑的权力（power to *sentence*）。section 87(1) 将一等推事的判刑权限定为最高五年监禁、一万令吉（ten thousand ringgit）罚款、十二下鞭刑，或以上几项的组合——即使该罪行本身可判处十年监禁。有两项但书对此作出限定：其一，若另有成文法赋予推事更大的权力，则可判处该法定的全额刑罚；其二，若被告的过往定罪或素行足以支持这样做，并附有书面理由，同样可判处全额刑罚。
 

@@ -23,7 +23,7 @@ appliesTo: "任何人——旅客、雇主、学生，或关心马来西亚联�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "dcc0a9e8fa385c4d"
+sourceContentHash: "468d0412b31978aa"
 
 status: "published"
 aiAssisted: true
@@ -85,7 +85,7 @@ keywords: ["Sabah Sarawak safeguards", "immigration autonomy Sabah Sarawak", "Ar
 
 第一层是宪法本身。Article 9(2) 赋予每一位公民在联邦境内自由行动、在联邦任何地方居住的权利——但 Article 9(3) 使这项权利受制于限制「在」享有宪法特殊地位的州与其他州之「间」行动的法律。沙巴与砂拉越正是拥有这种特殊地位的州属，因此国会被明文允许限制人员进入这两州。
 
-第二层是行使这项许可的法规。**Immigration Act 1959/63** 的 **Part VII** 把进入沙巴与砂拉越、以及在两州居留的管控权，交给各州自己的移民机关。这项管控不仅适用于外国人，也适用于来自其他州属的马来西亚公民：就州界的入境事务而言，一名来自马来半岛的人士，会被视为进入一个自行决定准入与否的辖区。
+第二层是行使这项许可的法规。**[Immigration Act 1959/63](/law/immigration-act-1959-63)** 的 **Part VII** 把进入沙巴与砂拉越、以及在两州居留的管控权，交给各州自己的移民机关。这项管控不仅适用于外国人，也适用于来自其他州属的马来西亚公民：就州界的入境事务而言，一名来自马来半岛的人士，会被视为进入一个自行决定准入与否的辖区。
 
 实务上，这正是砂拉越与沙巴各自运作独立入境通道、核发各自的准证与工作许可、有别于半岛联邦程序的原因。这项机制是定性的——准许、限制或拒绝的裁量权——而非一套固定的公式。
 

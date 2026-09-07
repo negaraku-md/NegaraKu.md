@@ -34,7 +34,7 @@ faq:
     a: "Yes. Under the Trade Unions Act 1959 (section 25A), a secret ballot is required. After the amendments, the required threshold was lowered to more than half of the votes with at least 60 per cent of members entitled to vote actually voting, compared with the previous two-thirds majority."
 
 lang: "en"
-sourceContentHash: "2aef2d20f97f7558"
+sourceContentHash: "d0b1ce6e61182113"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,7 +80,7 @@ related: ["trade-unions-malaysia", "employment-act-1955"]
 keywords: ["rundingan kolektif", "perjanjian kolektif", "pertikaian perusahaan", "hak rundingan tunggal", "pengiktirafan kesatuan", "mogok", "sekat masuk", "piket", "Akta Perhubungan Perusahaan 1967", "Mahkamah Perusahaan"]
 ---
 
-A worker who wants their employer to sit down at the table and negotiate wages cannot simply ask — there is a legal flow that must be followed, and every step has its own deadline. That flow is contained in the Industrial Relations Act 1967 (Act 177), enforced by the Department of Industrial Relations Malaysia (JPPM), and it determines who may negotiate, what may be negotiated, and when industrial action such as a strike is permitted.
+A worker who wants their employer to sit down at the table and negotiate wages cannot simply ask — there is a legal flow that must be followed, and every step has its own deadline. That flow is contained in the [Industrial Relations Act 1967](/law/industrial-relations-act-1967) (Act 177), enforced by the Department of Industrial Relations Malaysia (JPPM), and it determines who may negotiate, what may be negotiated, and when industrial action such as a strike is permitted.
 
 ## How does a union obtain recognition?
 

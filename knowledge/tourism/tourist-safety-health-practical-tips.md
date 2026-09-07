@@ -79,7 +79,7 @@ You have landed, you are jet-lagged, and your phone shows no signal. Before you 
 
 ## What number do I call in an emergency?
 
-**999.** Malaysia runs a single integrated line called the Malaysia Emergency Response System (MERS), which combined the old 991, 994 and 999 numbers into one when it launched on 1 October 2007. A single call reaches the police (PDRM), the ambulance service under the Ministry of Health, the Fire and Rescue Department (JBPM), and the Civil Defence Force (JPAM). Calls are free. Prank or false calls are an offence: the Civil Defence Force notes that under Section 233 of the Communications and Multimedia Act 1998 a fake call can carry a fine of up to RM50,000, up to one year's imprisonment, or both — so use it only for genuine emergencies.
+**999.** Malaysia runs a single integrated line called the Malaysia Emergency Response System (MERS), which combined the old 991, 994 and 999 numbers into one when it launched on 1 October 2007. A single call reaches the police (PDRM), the ambulance service under the Ministry of Health, the Fire and Rescue Department (JBPM), and the Civil Defence Force (JPAM). Calls are free. Prank or false calls are an offence: the Civil Defence Force notes that under Section 233 of the [Communications and Multimedia Act 1998](/law/communications-and-multimedia-act-1998) a fake call can carry a fine of up to RM50,000, up to one year's imprisonment, or both — so use it only for genuine emergencies.
 
 Save 999 in your phone before you need it.
 

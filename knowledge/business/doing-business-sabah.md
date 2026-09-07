@@ -257,7 +257,7 @@ not a title search.
 
 ## Immigration is a live commercial constraint, not a formality
 
-Section 1(2) of the **Immigration Act 1959/63** applies the Act throughout Malaysia
+Section 1(2) of the **[Immigration Act 1959/63](/law/immigration-act-1959-63)** applies the Act throughout Malaysia
 *subject to Part VII*. Part VII is where Sabah's control sits.
 
 **Section 65(1)** requires the Director to comply with directions from the **State

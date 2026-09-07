@@ -104,7 +104,7 @@ registration requirement below applies identically.
 
 The Malaysian Communications and Multimedia Commission (MCMC) requires every
 prepaid SIM to be registered against a valid identity document before it can
-be activated, under powers in the Communications and Multimedia Act 1998.
+be activated, under powers in the [Communications and Multimedia Act 1998](/law/communications-and-multimedia-act-1998).
 Registration costs nothing — anyone asking you to pay for it is not following
 the rules.
 

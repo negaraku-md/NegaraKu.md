@@ -103,7 +103,7 @@ Because Sabah and Sarawak joined as distinct, separately-governed territories ra
 
 ## What the internal border actually controls
 
-The immigration counter at a Sabah or Sarawak airport is not theatre. It rests on **Section 66 of the Immigration Act 1959/63 (Act 155)**, which — per the Immigration Department of Malaysia's own guidance — requires a Pass or Permit for a person to enter and be in the State of East Malaysia (Sabah or Sarawak). Unlike most immigration rules, this one is not written to apply only to foreigners: it applies to Malaysian citizens from the Peninsula as well.
+The immigration counter at a Sabah or Sarawak airport is not theatre. It rests on **Section 66 of the [Immigration Act 1959/63](/law/immigration-act-1959-63) (Act 155)**, which — per the Immigration Department of Malaysia's own guidance — requires a Pass or Permit for a person to enter and be in the State of East Malaysia (Sabah or Sarawak). Unlike most immigration rules, this one is not written to apply only to foreigners: it applies to Malaysian citizens from the Peninsula as well.
 
 In practice, this plays out differently depending on why you're travelling:
 

@@ -31,7 +31,7 @@ faq:
     a: "Tiada keperluan vaksin kemasukan sejagat, tetapi CDC Amerika Syarikat menasihati pelancong supaya terkini dengan vaksin rutin dan mempertimbangkan hepatitis A dan tifoid; bincangkan pil rabies, ensefalitis Jepun dan malaria dengan klinik perjalanan berdasarkan pelan perjalanan anda."
 
 lang: "ms"
-sourceContentHash: "e2b57c875b3b884c"
+sourceContentHash: "e99fd08a031d5f4f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -80,7 +80,7 @@ Anda baru mendarat, anda keletihan akibat jet lag, dan telefon anda tidak menunj
 
 ## Nombor apa yang saya perlu dail dalam kecemasan?
 
-**999.** Malaysia mengendalikan satu talian bersepadu tunggal yang dipanggil Sistem Respons Kecemasan Malaysia (MERS), yang menggabungkan nombor lama 991, 994 dan 999 menjadi satu apabila ia dilancarkan pada 1 Oktober 2007. Satu panggilan menghubungi polis (PDRM), perkhidmatan ambulans di bawah Kementerian Kesihatan, Jabatan Bomba dan Penyelamat (JBPM), serta Angkatan Pertahanan Awam (JPAM). Panggilan adalah percuma. Panggilan usikan atau palsu adalah satu kesalahan: Angkatan Pertahanan Awam menyatakan bahawa di bawah Seksyen 233 Akta Komunikasi dan Multimedia 1998, panggilan palsu boleh membawa denda sehingga RM50,000, penjara sehingga satu tahun, atau kedua-duanya — jadi gunakannya hanya untuk kecemasan yang benar.
+**999.** Malaysia mengendalikan satu talian bersepadu tunggal yang dipanggil Sistem Respons Kecemasan Malaysia (MERS), yang menggabungkan nombor lama 991, 994 dan 999 menjadi satu apabila ia dilancarkan pada 1 Oktober 2007. Satu panggilan menghubungi polis (PDRM), perkhidmatan ambulans di bawah Kementerian Kesihatan, Jabatan Bomba dan Penyelamat (JBPM), serta Angkatan Pertahanan Awam (JPAM). Panggilan adalah percuma. Panggilan usikan atau palsu adalah satu kesalahan: Angkatan Pertahanan Awam menyatakan bahawa di bawah Seksyen 233 [Akta Komunikasi dan Multimedia 1998](/law/communications-and-multimedia-act-1998), panggilan palsu boleh membawa denda sehingga RM50,000, penjara sehingga satu tahun, atau kedua-duanya — jadi gunakannya hanya untuk kecemasan yang benar.
 
 Simpan 999 dalam telefon anda sebelum anda memerlukannya.
 

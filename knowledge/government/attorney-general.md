@@ -215,7 +215,7 @@ are the same office. The Public Prosecutor is the Attorney General exercising th
 145(3) power. (Whether the two roles *ought* to be separated is a matter of policy debate
 that this text-based page does not enter.)
 
-**"The prosecution power comes from the Criminal Procedure Code."** The Code regulates how
+**"The prosecution power comes from the [Criminal Procedure Code](/law/criminal-procedure-code)."** The Code regulates how
 criminal proceedings run, but the discretion to institute, conduct or discontinue them is
 conferred by the Constitution itself, in Article 145(3).
 

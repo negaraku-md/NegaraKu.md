@@ -36,7 +36,7 @@ faq:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "422f117ef0ec91a8"
+sourceContentHash: "3512cd3f05dbac9a"
 
 status: "published"
 aiAssisted: true
@@ -108,7 +108,7 @@ keywords: ["kesatuan sekerja", "trade union", "Akta Kesatuan Sekerja 1959", "Akt
 必须区分两套关系密切的法律框架：
 
 - **《1959 年职工会法令》**——管辖职工会的*组建与注册*。
-- **《1967 年劳资关系法令》**——管辖职工会与雇主之间的*承认、集体谈判*及劳资纠纷的解决。
+- **[《1967 年劳资关系法令》](/law/industrial-relations-act-1967)**——管辖职工会与雇主之间的*承认、集体谈判*及劳资纠纷的解决。
 
 一个职工会可以依据第262号法令注册，但代表工人进行谈判的权利仍依据 1967 年法令确定。
 

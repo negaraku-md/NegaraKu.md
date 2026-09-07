@@ -24,7 +24,7 @@ appliesTo: "在马来西亚的任何人——公民、居民、工作准证持�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "c673bb5c2f2b49f5"
+sourceContentHash: "5f238099826ab02d"
 
 status: "published"
 aiAssisted: true
@@ -99,7 +99,7 @@ keywords: ["mobile sim malaysia", "prepaid sim registration malaysia", "MCMC sim
 ## 登记是强制的——而且免费
 
 大马通讯及多媒体委员会（Malaysian Communications and Multimedia Commission，
-MCMC）依据 Communications and Multimedia Act 1998 赋予的权力，要求每张预付 SIM
+MCMC）依据 [Communications and Multimedia Act 1998](/law/communications-and-multimedia-act-1998) 赋予的权力，要求每张预付 SIM
 卡在激活前都必须登记到一份有效的身份证件上。登记不收取任何费用——任何要求你为此
 付费的人都不是在依规行事。
 

@@ -44,7 +44,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "d1dcb205f56fefee"
+sourceContentHash: "2779e333b6f5b277"
 
 status: "published"
 aiAssisted: true
@@ -172,7 +172,7 @@ Apa yang Persekutuan lesenkan terbahagi kepada empat keluarga yang boleh dikenal
 
 **Lesen aktiviti di bawah statut sektor.** Perbankan dan pembayaran di bawah Akta
 Perkhidmatan Kewangan 2013, pasaran modal di bawah Akta Pasaran Modal dan Perkhidmatan
-2007, perkhidmatan rangkaian dan kandungan di bawah Akta Komunikasi dan Multimedia 1998,
+2007, perkhidmatan rangkaian dan kandungan di bawah [Akta Komunikasi dan Multimedia 1998](/law/communications-and-multimedia-act-1998),
 penjagaan kesihatan swasta, agensi pekerjaan, perusahaan pelancongan, kontraktor
 pembinaan. Setiap satu mempunyai pengawal selia, statut dan daftarnya sendiri. Direktori
 lesen sektor kami memetakannya.

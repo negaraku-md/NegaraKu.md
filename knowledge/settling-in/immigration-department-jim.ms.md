@@ -29,7 +29,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9d6bf2b9c099bef0"
+sourceContentHash: "050995b2068c647c"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -96,7 +96,7 @@ Empat statut menjadi tunjang kuasa JIM:
 
 | Perundangan | Meliputi |
 |---|---|
-| Akta Imigresen 1959/63 | Kemasukan, penginapan, pas, pengusiran dan kesalahan |
+| [Akta Imigresen 1959/63](/law/immigration-act-1959-63) | Kemasukan, penginapan, pas, pengusiran dan kesalahan |
 | Peraturan-Peraturan Imigresen 1963 | Peraturan terperinci di bawah Akta |
 | Akta Pasport 1966 | Pasport Malaysia dan dokumen perjalanan |
 | Akta Antipemerdagangan Orang dan Antipenyeludupan Migran 2007 (Pindaan 2010) | Pemerdagangan dan penyeludupan migran |

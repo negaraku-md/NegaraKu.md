@@ -30,7 +30,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5b9f38ffb6bb91f8"
+sourceContentHash: "debce12c53f16ed5"
 
 status: "published"
 aiAssisted: true
@@ -106,7 +106,7 @@ keywords: ["malaysia labour law list", "employment statutes malaysia", "jtksm jp
 
 | 法令 | Act | 当局 | 门户网站 | 管辖范围 |
 | --- | --- | --- | --- | --- |
-| Occupational Safety and Health Act 1994 | 514 | 职业安全与卫生局（DOSH／JKKP）——`dosh.gov.my` | MyKKP，`mykkp.dosh.gov.my`；APIS，`apis.dosh.gov.my` | 雇主安全责任、职安卫协调员、事故通报 |
+| [Occupational Safety and Health Act 1994](/law/occupational-safety-and-health-act) | 514 | 职业安全与卫生局（DOSH／JKKP）——`dosh.gov.my` | MyKKP，`mykkp.dosh.gov.my`；APIS，`apis.dosh.gov.my` | 雇主安全责任、职安卫协调员、事故通报 |
 
 请留意 `www.dosh.gov.my` 无法解析——请用顶层域名。
 

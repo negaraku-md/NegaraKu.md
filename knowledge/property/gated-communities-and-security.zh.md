@@ -29,7 +29,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "07fd1de5b8efc3b5"
+sourceContentHash: "03cf0cac851c0421"
 
 status: "published"
 aiAssisted: true
@@ -95,7 +95,7 @@ keywords: ["gated and guarded community Malaysia", "guarded neighbourhood Malays
 
 法院划下的界线在于是否获得批准，而不在于外观。在 **Au Kean Hoe v Persatuan Penduduk D'Villa Equestrian [2015] 4 MLJ 204** 一案中，一名屋主起诉自己所属的居民协会，要求拆除其住宅区入口处的路障与岗亭。联邦法院驳回了这项申索：由于地方议会已依据 Town and Country Planning Act 1976 批准了这些构筑物，一个受管制、仍可通行的路障在法律上不构成「障碍物」——他在停止缴纳居民协会会费后，必须自行操作路障这件事，同样不构成可被起诉的妨扰（nuisance）。把事实反过来，结果也随之反转：一个居民协会从未向地方政府申请就自行设置的闸门，正好落在 s.46(1)(a) 条打击的范围之内。
 
-GP022 订下了实际的批准途径。设在道路保留地上的永久岗亭，须依据 National Land Code 1965 向县土地局申请 **Temporary Occupation Licence**，并另外取得地方政府的建筑准证；唯有**临时性**措施——人手操作的路障、锥形筒、设在持续有人驻守岗位的告示牌——才可以在没有执照的情况下获得一定的宽限。
+GP022 订下了实际的批准途径。设在道路保留地上的永久岗亭，须依据 [National Land Code 1965](/law/national-land-code) 向县土地局申请 **Temporary Occupation Licence**，并另外取得地方政府的建筑准证；唯有**临时性**措施——人手操作的路障、锥形筒、设在持续有人驻守岗位的告示牌——才可以在没有执照的情况下获得一定的宽限。
 
 ## 设立警卫社区需要什么条件
 

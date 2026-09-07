@@ -87,7 +87,7 @@ keywords: ["permanent residency Malaysia", "MyPR", "red IC Malaysia", "Entry Per
 
 A red MyKad is the quiet finish line for a lot of long-haul lives in Malaysia — the foreign wife who has renewed the same visit pass for a decade, the engineer who never wants to file another work-permit extension, the retiree who wants to belong somewhere for good. That card, the MyPR, is what Malaysian permanent residency actually looks like in your wallet.
 
-Permanent residency here is not a visa you renew and it is not citizenship. It is an **Entry Permit** granted under **Section 10 of the Immigration Act 1959/63** and **Regulation 4 of the Immigration Regulations 1963**, and once you hold it you can live and work in Malaysia indefinitely without a separate pass.
+Permanent residency here is not a visa you renew and it is not citizenship. It is an **Entry Permit** granted under **Section 10 of the [Immigration Act 1959/63](/law/immigration-act-1959-63)** and **Regulation 4 of the Immigration Regulations 1963**, and once you hold it you can live and work in Malaysia indefinitely without a separate pass.
 
 ## What exactly is permanent residency in Malaysia?
 

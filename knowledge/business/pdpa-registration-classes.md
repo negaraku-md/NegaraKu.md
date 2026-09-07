@@ -87,7 +87,7 @@ Registration under the PDPA is not general. It reaches only data controllers who
 
 | # | Class | Who it covers |
 | --- | --- | --- |
-| 1 | Communications | Licensees under the Communications and Multimedia Act 1998 or the Postal Services Act 2012 |
+| 1 | Communications | Licensees under the [Communications and Multimedia Act 1998](/law/communications-and-multimedia-act-1998) or the Postal Services Act 2012 |
 | 2 | Banking and financial institution | Licensed banks, investment banks, Islamic and international Islamic banks, DFIs |
 | 3 | Insurance | Licensed insurers, takaful and international takaful operators |
 | 4 | Health | Private healthcare licensees, registered private medical and dental clinics, bodies corporate registered under the Registration of Pharmacists Act 1951 |

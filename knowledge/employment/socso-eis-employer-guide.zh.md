@@ -64,7 +64,7 @@ obligations:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "4208570c5ecf900f"
+sourceContentHash: "4bb7e4b6c1a91f37"
 
 status: "published"
 aiAssisted: true
@@ -204,7 +204,7 @@ RM178.55。只读一名已选择退出的本地雇员适用的强制栏位，你
 自己的附表上。它们描述的是不同的雇员。
 
 SKBBK 不涵盖的情形包括：在马来西亚境外发生的意外；滥用准证或许可证、或违反
-Immigration Act 1959/63 入境条件的外劳；以及由糖尿病、发烧或高血压等疾病所引起的
+[Immigration Act 1959/63](/law/immigration-act-1959-63) 入境条件的外劳；以及由糖尿病、发烧或高血压等疾病所引起的
 状况。
 
 ## 三者在同一张薪金单上如何互动

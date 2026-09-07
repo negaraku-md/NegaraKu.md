@@ -39,7 +39,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "be3b854ac3c7fbd5"
+sourceContentHash: "ee81ef22057b8bb3"
 
 status: "published"
 aiAssisted: true
@@ -208,7 +208,7 @@ keywords: ["Cyber Security Act 2024", "Act 854", "NCII", "NACSA", "cybersecurity
 《网络安全法令》并非独立存在，机构往往同时在数个制度下负有义务。
 
 - **《2010年个人资料保护法令》（PDPA）。** 规范个人数据如何被收集、使用与保护。涉及个人数据的入侵事件可触发PDPA义务，*且*若受害者为NCII实体，还会触发《网络安全法令》的通报义务。
-- **《1998年通讯与多媒体法令》。** 规管通讯与多媒体行业，并仍是该领域执照制度的支柱。
+- **[《1998年通讯与多媒体法令》](/law/communications-and-multimedia-act-1998)。** 规管通讯与多媒体行业，并仍是该领域执照制度的支柱。
 - **《1997年电脑犯罪法令》。** 将未经授权的访问及相关行为定为刑事罪——是《网络安全法令》面向营运者义务的面向犯罪者对应物。
 - **领域监管。** 国家银行对金融机构的科技风险要求，以及其他监管机构的同等规则，仍在Act 854之上继续适用。
 

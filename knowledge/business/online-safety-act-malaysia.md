@@ -130,7 +130,7 @@ Act 866 received Royal Assent on 6 May 2025 and was gazetted on 22 May 2025, but
 
 Section 2(1) applies the Act to any applications service using internet access service that enables communications between users, any content applications service providing content over internet access, and any network service.
 
-But the substantive duties in Part III fall on a **licensed applications service provider** and a **licensed content applications service provider** — and s.4 defines both by reference to being licensed under the Communications and Multimedia Act 1998. No CMA licence, no Part III duties.
+But the substantive duties in Part III fall on a **licensed applications service provider** and a **licensed content applications service provider** — and s.4 defines both by reference to being licensed under the [Communications and Multimedia Act 1998](/law/communications-and-multimedia-act-1998). No CMA licence, no Part III duties.
 
 Two carve-outs matter:
 

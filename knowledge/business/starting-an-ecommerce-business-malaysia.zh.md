@@ -33,7 +33,7 @@ faq:
     a: "作为卖家，不需要。你与支付网关（payment gateway）签约，由它处理商业验证步骤；必须获得Bank Negara Malaysia批准的是支付网关运营商，而不是你。视你销售的产品而定，特定行业的规则可能仍然适用——例如化妆品和保健品无论通过什么销售渠道都需要向相关监管机构进行通报。"
 
 lang: "zh"
-sourceContentHash: "de12f78f2cd39edf"
+sourceContentHash: "731294cfbb60b52f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -95,7 +95,7 @@ keywords: ["start online business malaysia", "e-commerce business malaysia", "se
 
 ## 步骤2：遵守电子商务披露规则（2024年更新）
 
-这正是许多指南过时之处。旧的《消费者保护（电子贸易交易）法规2012》已被**2024年法规取代，于2024年12月25日生效**，依据《1999年消费者保护法令》，并由国内贸易及生活费部（KPDN）执法。
+这正是许多指南过时之处。旧的《消费者保护（电子贸易交易）法规2012》已被**2024年法规取代，于2024年12月25日生效**，依据[《1999年消费者保护法令》](/law/consumer-protection-act)，并由国内贸易及生活费部（KPDN）执法。
 
 网店卖家或电商平台供应商必须**显示**：
 
@@ -113,7 +113,7 @@ keywords: ["start online business malaysia", "e-commerce business malaysia", "se
 
 当你一开始收集姓名、地址和付款详情时，**《2010年个人资料保护法令》**即适用。在实务中，你必须取得同意、公布隐私声明、确保资料安全、不过度保留资料，并履行查阅和更正请求。
 
-最近的**2024年修订**（在2025年期间分阶段实施）新增了**强制性资料泄露通报**义务，以及对符合条件的企业而言，任命一名**资料保护官（Data Protection Officer）**。请参阅PDPA合规指南，并向个人资料保护局确认当前的泄露通报和DPO门槛，因为这些是新规定。
+最近的**2024年修订**（在2025年期间分阶段实施）新增了**强制性资料泄露通报**义务，以及对符合条件的企业而言，任命一名**资料保护官（Data Protection Officer）**。请参阅PDPA合规指南，并向[个人资料保护局](/law/data-protection-department-jpdp)确认当前的泄露通报和DPO门槛，因为这些是新规定。
 
 ## 步骤4：把税务处理好
 

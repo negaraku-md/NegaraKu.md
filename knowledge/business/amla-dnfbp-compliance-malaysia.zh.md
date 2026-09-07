@@ -30,7 +30,7 @@ faq:
     a: "不必。针对 RM25,000 及以上现金交易的现金门槛报告，仅适用于银行机构、指定的发展金融机构、朝圣基金局（Lembaga Tabung Haji）及持牌赌场。DNFBP 仍然负有 STR 义务。"
 
 lang: "zh"
-sourceContentHash: "8570f279eb5b1efd"
+sourceContentHash: "244748feaceb18fe"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,7 +100,7 @@ keywords: ["AMLA", "DNFBP", "reporting institution", "suspicious transaction rep
 合规的核心是三项义务：
 
 - **客户尽职调查（CDD）。** 识别并核实客户身份，了解建立业务关系的目的，并识别企业客户背后的受益所有人。较高风险的客户须进行强化尽职调查。
-- **记录保存。** 在交易完成或业务关系结束后，将 CDD 文件、交易记录及你的风险分析**至少保存六年**。记录必须以在《1950年证据法令》（Evidence Act 1950）下可被法庭采纳的形式保存。
+- **记录保存。** 在交易完成或业务关系结束后，将 CDD 文件、交易记录及你的风险分析**至少保存六年**。记录必须以在《1950年证据法令》（[Evidence Act 1950](/law/evidence-act-1950)）下可被法庭采纳的形式保存。
 - **可疑交易报告。** 每当某笔交易显得异常、没有明确的经济目的、看似非法，或指向洗钱或恐怖主义融资时，均须提交可疑交易报告（STR）。
 
 ## 如何以及何时报告？

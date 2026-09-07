@@ -63,7 +63,7 @@ obligations:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "a8860e567146ea80"
+sourceContentHash: "8a2909522637427b"
 
 status: "published"
 aiAssisted: true
@@ -115,8 +115,8 @@ Seksyen 2 mentakrifkannya sebagai apa-apa perjanjian, sama ada lisan atau bertul
 atau tersirat, antara entiti pengkontrak dan pekerja gig bagi penyediaan sesuatu
 perkhidmatan di Malaysia sebagai pertukaran untuk pendapatan — *tetapi tidak termasuk*
 **kontrak perkhidmatan** sebagaimana ditakrifkan di bawah Akta Kerja 1955, Ordinan Buruh
-Sabah (Bab 67), Ordinan Buruh Sarawak (Bab 76) atau Akta Keselamatan dan Kesihatan
-Pekerjaan 1994, dan bukan juga **kontrak pekerjaan** di bawah Akta Perhubungan Perusahaan
+Sabah (Bab 67), Ordinan Buruh Sarawak (Bab 76) atau [Akta Keselamatan dan Kesihatan
+Pekerjaan 1994](/law/occupational-safety-and-health-act), dan bukan juga **kontrak pekerjaan** di bawah Akta Perhubungan Perusahaan
 1967.
 
 Baca semula ini dari sudut pematuhan. Akta 872 tidak memutuskan persoalan pengelasan itu —

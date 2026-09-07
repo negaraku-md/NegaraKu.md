@@ -35,7 +35,7 @@ faq:
     a: "Sipadan ditutup setiap November untuk pemulihan terumbu, jadi rancang perjalanan menyelam antara Disember dan Oktober. Di tempat lain, bulan-bulan Monsun Timur Laut yang lebih lembap (kira-kira November hingga Mac) membawa lebih banyak hujan ke Borneo."
 
 lang: "ms"
-sourceContentHash: "45b81bd048e5800e"
+sourceContentHash: "a56c3fb68c6a9606"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -102,7 +102,7 @@ Sabah terletak di hujung utara Borneo, berkongsi pulau itu dengan Sarawak, Kesul
 
 Kerana Sabah mengendalikan kawalan imigresennya sendiri — dan ini bukan sekadar keanehan, ia adalah perkara perlembagaan.
 
-Apabila Sabah dan Sarawak membentuk Malaysia bersama Tanah Melayu dan Singapura pada 1963, mereka merundingkan perlindungan bagi mengekalkan ciri tersendiri mereka. Salah satu perlindungan itu ialah kawalan ke atas siapa yang masuk ke negeri itu. Autonomi tersebut termaktub dalam Akta Imigresen 1959/63: **Seksyen 66 secara jelas ialah "sekatan ke atas hak masuk warganegara ke Negeri Malaysia Timur."** Secara ringkas, seorang warganegara Malaysia pun tidak mempunyai hak automatik untuk memasuki Sabah — kemasukan tertakluk kepada pas atau permit.
+Apabila Sabah dan Sarawak membentuk Malaysia bersama Tanah Melayu dan Singapura pada 1963, mereka merundingkan perlindungan bagi mengekalkan ciri tersendiri mereka. Salah satu perlindungan itu ialah kawalan ke atas siapa yang masuk ke negeri itu. Autonomi tersebut termaktub dalam [Akta Imigresen 1959/63](/law/immigration-act-1959-63): **Seksyen 66 secara jelas ialah "sekatan ke atas hak masuk warganegara ke Negeri Malaysia Timur."** Secara ringkas, seorang warganegara Malaysia pun tidak mempunyai hak automatik untuk memasuki Sabah — kemasukan tertakluk kepada pas atau permit.
 
 Kesan praktikalnya ialah Sabah mengekalkan pusat pemeriksaannya sendiri di setiap pintu masuk, termasuk Lapangan Terbang Antarabangsa Kota Kinabalu. Jadi apabila anda terbang masuk dari Semenanjung, anda melalui imigresen semasa ketibaan dan diberikan pas lawatan, sama seperti anda melintasi sempadan antarabangsa — walaupun anda sebenarnya tidak pernah meninggalkan Malaysia.
 

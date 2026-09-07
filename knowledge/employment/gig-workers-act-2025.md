@@ -114,7 +114,7 @@ Section 2 defines it as any agreement, oral or written, express or implied, betw
 contracting entity and a gig worker for the provision of a service in Malaysia in
 exchange for earnings — *but does not include* a **contract of service** as defined under
 the Employment Act 1955, the Labour Ordinance of Sabah (Cap. 67), the Labour Ordinance of
-Sarawak (Cap. 76) or the Occupational Safety and Health Act 1994, nor a **contract of
+Sarawak (Cap. 76) or the [Occupational Safety and Health Act 1994](/law/occupational-safety-and-health-act), nor a **contract of
 employment** under the Industrial Relations Act 1967.
 
 Read that again from a compliance angle. Act 872 does not decide the classification

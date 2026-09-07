@@ -80,7 +80,7 @@ A property can go under the hammer for a fraction of its market value — but th
 
 ## What is a bank lelong, and how does a property end up there?
 
-When a borrower defaults on a housing loan, the bank (the chargee) moves to recover its money by forcing a sale. In Malaysia this is governed primarily by the **National Land Code** — the National Land Code 1965 (Act 56 of 1965), now revised and cited as the **National Land Code (Revised 2020) (Act 828)** — and the bank must first obtain an **Order for Sale** before the property can be auctioned. For land held under a Registry title the application goes to the **High Court**; for land under a Land Office title it goes to the **Land Office**.
+When a borrower defaults on a housing loan, the bank (the chargee) moves to recover its money by forcing a sale. In Malaysia this is governed primarily by the **National Land Code** — the [National Land Code 1965](/law/national-land-code) (Act 56 of 1965), now revised and cited as the **National Land Code (Revised 2020) (Act 828)** — and the bank must first obtain an **Order for Sale** before the property can be auctioned. For land held under a Registry title the application goes to the **High Court**; for land under a Land Office title it goes to the **Land Office**.
 
 Where the property has no individual or strata title yet — typically a development still under a master title — the bank instead sells its assigned rights directly. This is a **LACA** (Loan Agreement Cum Assignment) auction, conducted by the bank rather than the court, and it does not need an Order for Sale in the same way.
 

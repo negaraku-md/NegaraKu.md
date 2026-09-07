@@ -129,7 +129,7 @@ Terdapat pandangan berbeza tentang episod ini. Pihak yang mempertahankan pemulih
 
 ## Apakah yang dikatakan tentang tadbir urusnya?
 
-Isu tadbir urus TH bagi tempoh kira-kira 2014 hingga 2020 kemudiannya disiasat oleh sebuah Suruhanjaya Siasatan Diraja (RCI), yang dilantik pada 20 Januari 2022. Laporan penuh suruhanjaya itu diterbitkan oleh JAKIM pada 29 Julai 2026, selepas dikelaskan semula sebagai dokumen terbuka di bawah Akta Rahsia Rasmi 1972.
+Isu tadbir urus TH bagi tempoh kira-kira 2014 hingga 2020 kemudiannya disiasat oleh sebuah Suruhanjaya Siasatan Diraja (RCI), yang dilantik pada 20 Januari 2022. Laporan penuh suruhanjaya itu diterbitkan oleh JAKIM pada 29 Julai 2026, selepas dikelaskan semula sebagai dokumen terbuka di bawah [Akta Rahsia Rasmi 1972](/law/official-secrets-act-1972).
 
 Oleh sebab laporan itu menyentuh isu sensitif dan pelbagai pihak berkepentingan, pembaca digalakkan merujuk teks rasmi laporan dan kenyataan berkaitan secara langsung, dan bukan bergantung pada ringkasan pihak ketiga. Sebagai draf AI yang belum disemak, nota ini hanya mencatatkan fakta asas — bila suruhanjaya dilantik dan bila laporannya diterbitkan — tanpa membuat rumusan lanjut.
 

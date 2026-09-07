@@ -105,7 +105,7 @@ single most repeated broken reference in Malaysian HR writing.
 
 | Statute | Act | Authority | Portal | Governs |
 | --- | --- | --- | --- | --- |
-| Occupational Safety and Health Act 1994 | 514 | Department of Occupational Safety and Health (DOSH / JKKP) — `dosh.gov.my` | MyKKP, `mykkp.dosh.gov.my`; APIS, `apis.dosh.gov.my` | Employer safety duties, OSH coordinators, accident notification |
+| [Occupational Safety and Health Act 1994](/law/occupational-safety-and-health-act) | 514 | Department of Occupational Safety and Health (DOSH / JKKP) — `dosh.gov.my` | MyKKP, `mykkp.dosh.gov.my`; APIS, `apis.dosh.gov.my` | Employer safety duties, OSH coordinators, accident notification |
 
 Note `www.dosh.gov.my` does not resolve — use the apex domain.
 

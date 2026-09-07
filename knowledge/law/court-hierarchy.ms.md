@@ -38,7 +38,7 @@ faq:
     a: "Tidak pada peringkat pertama. Tuntutan pekerjaan bermula di forum yang diwujudkan oleh statut masing-masing dan bukan di Mahkamah Sesyen atau Mahkamah Majistret, manakala Tribunal Tuntutan Pengguna (Tribunal for Consumer Claims) diwujudkan di bawah seksyen 85 Consumer Protection Act 1999. Keputusan-keputusan tersebut mungkin kemudiannya sampai ke Mahkamah Tinggi melalui rayuan atau semakan kehakiman (judicial review), tetapi titik permulaannya bukanlah mahkamah dalam hierarki ini."
 
 lang: "ms"
-sourceContentHash: "ca7a87cddc904473"
+sourceContentHash: "0ff02d452124fe9d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -130,7 +130,7 @@ ringgit (one hundred thousand ringgit) (s.90).
 Dari segi jenayah, seksyen 85 membenarkan Majistret Kelas Pertama
 membicarakan kesalahan yang tempoh hukuman penjara maksimumnya tidak melebihi
 sepuluh tahun, kesalahan yang boleh dihukum denda sahaja, serta kesalahan di
-bawah sections 392 and 457 Kanun Keseksaan (Penal Code).
+bawah sections 392 and 457 [Kanun Keseksaan](/law/penal-code) (Penal Code).
 
 Perhatikan jurang yang sering memerangkap orang: kuasa untuk *membicarakan*
 bukanlah kuasa untuk *menjatuhkan hukuman*. Seksyen 87(1) mengehadkan hukuman

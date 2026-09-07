@@ -29,7 +29,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9d6bf2b9c099bef0"
+sourceContentHash: "050995b2068c647c"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -96,7 +96,7 @@ keywords: ["Immigration Department of Malaysia", "Jabatan Imigresen Malaysia", "
 
 | 法令 | 涵盖范围 |
 |---|---|
-| 1959/63 年移民法令 | 入境、居留、准证、遣送及罪行 |
+| [1959/63 年移民法令](/law/immigration-act-1959-63) | 入境、居留、准证、遣送及罪行 |
 | 1963 年移民条例 | 法令项下的详细规则 |
 | 1966 年护照法令 | 马来西亚护照及旅行证件 |
 | 2007 年反人口贩运及反偷运移民法令（2010 年修订） | 人口贩运与偷运移民 |

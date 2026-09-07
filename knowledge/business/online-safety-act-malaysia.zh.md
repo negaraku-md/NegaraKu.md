@@ -60,7 +60,7 @@ obligations:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b57e9ef909f30cc8"
+sourceContentHash: "9ae3464820a97814"
 
 status: "published"
 aiAssisted: true
@@ -135,7 +135,7 @@ Act 866 于 2025 年 5 月 6 日获御准，并于 2025 年 5 月 22 日宪报�
 任何透过互联网接入提供内容的内容应用服务，以及任何网络服务。
 
 但 Part III 中的实质义务，落在**持照的应用服务供应商**与**持照的内容应用服务供应商**
-身上——而 s.4 对两者的定义，都是以在 Communications and Multimedia Act 1998 之下持照
+身上——而 s.4 对两者的定义，都是以在 [Communications and Multimedia Act 1998](/law/communications-and-multimedia-act-1998) 之下持照
 为准。没有 CMA 执照，就没有 Part III 的义务。
 
 有两项划出在外的规定很重要：

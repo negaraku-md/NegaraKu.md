@@ -31,7 +31,7 @@ faq:
     a: "Tidak — ini adalah salah tanggapan lazim yang terbawa daripada Akta Syarikat 1965 yang lama. Di bawah Akta Syarikat 2016, pemerbadanan dilakukan melalui permohonan di mana setiap pengarah atau penaja memberikan satu penyata (seksyen 14) bahawa mereka bersetuju untuk bertindak dan tidak hilang kelayakan. Itu ialah penyata, bukan akuan berkanun."
 
 lang: "ms"
-sourceContentHash: "d94e19a17d06c1eb"
+sourceContentHash: "ca496f3d42e9b712"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -87,7 +87,7 @@ Dalam amalan harian, seorang **Pesuruhjaya Sumpah** yang mentauliahkan akuan itu
 
 ## Hukuman untuk akuan palsu
 
-Inilah yang memberikan kekuatan kepada akuan berkanun. **Seksyen 3** memperuntukkan bahawa akuan yang dibuat di bawah Akta ini dianggap sebagai akuan di bawah **seksyen 199 dan 200 Kanun Keseksaan** — kesalahan membuat, atau menggunakan, kenyataan palsu dalam akuan yang wajib diterima oleh mahkamah atau pegawai awam sebagai keterangan.
+Inilah yang memberikan kekuatan kepada akuan berkanun. **Seksyen 3** memperuntukkan bahawa akuan yang dibuat di bawah Akta ini dianggap sebagai akuan di bawah **seksyen 199 dan 200 [Kanun Keseksaan](/law/penal-code)** — kesalahan membuat, atau menggunakan, kenyataan palsu dalam akuan yang wajib diterima oleh mahkamah atau pegawai awam sebagai keterangan.
 
 Hukumannya adalah dengan merujuk kepada peruntukan keterangan palsu: jika akuan itu menyentuh **prosiding kehakiman**, hukuman boleh mencapai **penjara sehingga tujuh tahun dan denda**; dalam kes lain, tempoh yang lebih pendek dikenakan. Walau apa pun, akuan berkanun bukanlah formaliti untuk ditandatangani dengan cuai.
 

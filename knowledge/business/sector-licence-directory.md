@@ -108,7 +108,7 @@ question entirely.
 
 | Regulator | Governing statute | What it issues | Site |
 | --- | --- | --- | --- |
-| MCMC | Communications and Multimedia Act 1998 (Act 588); MCMC Act 1998 (Act 589) | Network facilities, network services, applications services and content applications licences, individual and class. Social media and internet messaging services became class-licensable on 1 January 2025 | mcmc.gov.my |
+| MCMC | [Communications and Multimedia Act 1998](/law/communications-and-multimedia-act-1998) (Act 588); MCMC Act 1998 (Act 589) | Network facilities, network services, applications services and content applications licences, individual and class. Social media and internet messaging services became class-licensable on 1 January 2025 | mcmc.gov.my |
 | MCMC | Postal Services Act 2012 (Act 741) | Postal and courier service licences | mcmc.gov.my |
 | Personal Data Protection Commissioner | Personal Data Protection Act 2010 (Act 709), amended by Act A1727 | Data controller registration for the 13 prescribed classes; data protection officer and breach notification duties from 1 June 2025 | pdp.gov.my |
 | MyIPO | Trade marks, patents and industrial designs legislation; Copyright Act 1987 (Act 332) | Registrations, and declaration of collective management organisations under s.27A | myipo.gov.my |
@@ -123,7 +123,7 @@ question entirely.
 | KPDN | Control of Supplies Act 1961 (Act 122) | Controlled goods licences and permits | kpdn.gov.my |
 | KPDN | Petroleum Development Act 1974 (Act 144); Petroleum and Electricity (Control of Supplies) Act 1974 (Act 128) | Petroleum supply controls | kpdn.gov.my |
 | KPDN | Trade Descriptions Act 2011 (Act 730) | Halal certification and marking orders made under s.29 | kpdn.gov.my |
-| KPDN | Consumer Protection Act 1999 (Act 599) | Electronic trade transaction duties, now under P.U.(A) 449/2024 | kpdn.gov.my |
+| KPDN | [Consumer Protection Act 1999](/law/consumer-protection-act) (Act 599) | Electronic trade transaction duties, now under P.U.(A) 449/2024 | kpdn.gov.my |
 | Royal Malaysian Customs | Customs Act 1967 (Act 235) | Import and export licences under the prohibition orders, warehouse and agent licences | customs.gov.my |
 | Royal Malaysian Customs | Service Tax Act 2018 (Act 807); Sales Tax Act 2018 | SST registration — a registration regime, not a licence | mysst.customs.gov.my |
 | Licensing Boards established by the Minister | Excise Act 1976 (Act 176); Excise (Sale of Intoxicating Liquors) Regulations 1977, P.U.(A) 156/1977 | Public house, beer house, retail shop and wholesale dealer liquor licences under s.35 | — |
@@ -140,7 +140,7 @@ question entirely.
 | Ministry of Health | Poisons Act 1952 (Act 366) | Poisons licences | pharmacy.gov.my |
 | Medical Device Authority | Medical Device Act 2012 (Act 737); Medical Device Authority Act 2012 (Act 738) | Establishment licence and device registration | mda.gov.my |
 | Ministry of Health | Prevention and Control of Infectious Diseases Act 1988 (Act 342) | Notification and control duties | moh.gov.my |
-| DOSH | Occupational Safety and Health Act 1994 (Act 514). The Factories and Machinery Act 1967 (Act 139) was repealed by the Factories and Machinery (Repeal) Act 2022 (Act 835), in force 1 June 2024 | Plant registration, certificates of competency, notifications | dosh.gov.my |
+| DOSH | [Occupational Safety and Health Act 1994](/law/occupational-safety-and-health-act) (Act 514). The Factories and Machinery Act 1967 (Act 139) was repealed by the Factories and Machinery (Repeal) Act 2022 (Act 835), in force 1 June 2024 | Plant registration, certificates of competency, notifications | dosh.gov.my |
 | Department of Environment | Environmental Quality Act 1974 (Act 127); EIA Order P.U.(A) 195/2015 | Prescribed premises licence under s.25(1), EIA approvals, scheduled waste | doe.gov.my |
 | Fire and Rescue Department | Fire Services Act 1988 (Act 341) | Fire certificate for designated premises under s.28 | bomba.gov.my |
 

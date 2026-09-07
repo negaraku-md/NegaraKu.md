@@ -46,7 +46,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b52480d0b6c3cd4b"
+sourceContentHash: "91f5a7840f804778"
 
 status: "published"
 aiAssisted: true
@@ -266,7 +266,7 @@ wajar ke atas tapak Sabah bukan sekadar carian hak milik.
 
 ## Imigresen ialah kekangan komersial yang hidup, bukan formaliti
 
-Seksyen 1(2) **Akta Imigresen 1959/63** menerapkan Akta itu di seluruh Malaysia *tertakluk
+Seksyen 1(2) **[Akta Imigresen 1959/63](/law/immigration-act-1959-63)** menerapkan Akta itu di seluruh Malaysia *tertakluk
 kepada Bahagian VII*. Bahagian VII ialah tempat kawalan Sabah berada.
 
 **Seksyen 65(1)** memerlukan Ketua Pengarah mematuhi arahan daripada **pihak berkuasa

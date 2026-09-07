@@ -30,7 +30,7 @@ faq:
     a: "At the federal level, there is no freedom of information law in force as of the drafting of this piece. Only the states of Selangor (gazetted 2011, in force 2013) and Penang (2010 Enactment) have freedom of information enactments, which are limited to information within the jurisdiction of the respective state governments. A federal bill was tabled in July 2026."
 
 lang: "en"
-sourceContentHash: "0c522a239939eddb"
+sourceContentHash: "55b6d981106fab77"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -89,7 +89,7 @@ related: ["attorney-general"]
 keywords: ["akta rahsia rasmi", "OSA 1972", "kebebasan maklumat", "ketelusan kerajaan", "dokumen terperingkat", "seksyen 16A", "rahsia rasmi"]
 ---
 
-A meeting memo, an audit report, a Cabinet paper — in Malaysia, any of these can become a crime to share if it is stamped as an official secret. The law that draws that line is the Official Secrets Act 1972, and the absence of a federal freedom of information law makes it one of the most debated topics in Malaysian governance.
+A meeting memo, an audit report, a Cabinet paper — in Malaysia, any of these can become a crime to share if it is stamped as an official secret. The law that draws that line is the [Official Secrets Act 1972](/law/official-secrets-act-1972), and the absence of a federal freedom of information law makes it one of the most debated topics in Malaysian governance.
 
 ## What does the Official Secrets Act 1972 protect?
 

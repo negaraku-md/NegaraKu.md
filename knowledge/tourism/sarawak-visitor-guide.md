@@ -99,7 +99,7 @@ Sarawak is the largest of Malaysia's states by area, occupying the northwest of 
 
 When the Federation of Malaysia was formed in 1963, Sarawak joined under terms that included retaining control over immigration into its own territory. That power remains in place today, which is why, more than sixty years later, Malaysia operates immigration checks between the Peninsula and Sarawak.
 
-The mechanism is federal law. Section 66 of the Immigration Act 1959/63 is, in the Immigration Department's own words, "a restriction on the right of entry of citizens into the State of East Malaysia" — that is, into Sabah and Sarawak. In practice it means Sarawak decides who may enter and on what terms, and it enforces that at Kuching International Airport, Miri Airport, and the land crossings with Brunei and Indonesian Kalimantan.
+The mechanism is federal law. Section 66 of the [Immigration Act 1959/63](/law/immigration-act-1959-63) is, in the Immigration Department's own words, "a restriction on the right of entry of citizens into the State of East Malaysia" — that is, into Sabah and Sarawak. In practice it means Sarawak decides who may enter and on what terms, and it enforces that at Kuching International Airport, Miri Airport, and the land crossings with Brunei and Indonesian Kalimantan.
 
 Under these powers, Sarawak's immigration authorities can decline entry to individual travellers, separately from federal admission. For a visitor, the takeaway is simple: clearing immigration into Malaysia does not automatically clear you into Sarawak.
 

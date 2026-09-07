@@ -46,7 +46,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b52480d0b6c3cd4b"
+sourceContentHash: "91f5a7840f804778"
 
 status: "published"
 aiAssisted: true
@@ -235,7 +235,7 @@ DBKK 的网页仍只引用 Cap. 144 及其自身 1966 至 1984 年的附例。RM
 
 ## 移民是一项实时的商业约束，而非例行手续
 
-**《1959/63年移民法令》**第 1(2) 条使该法令适用于全马来西亚，*但须受第七部分约束*。第七
+**[《1959/63年移民法令》](/law/immigration-act-1959-63)**第 1(2) 条使该法令适用于全马来西亚，*但须受第七部分约束*。第七
 部分正是沙巴控制权所在之处。
 
 **第 65(1) 条**要求总监遵从**州当局**的指示——包括不向某人或某类人签发准证或通行证、或

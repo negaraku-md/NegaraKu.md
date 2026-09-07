@@ -86,7 +86,7 @@ In everyday practice it is a **Commissioner for Oaths** who commissions the decl
 
 ## The penalty for a false declaration
 
-This is what gives a statutory declaration its force. **Section 3** provides that declarations made under the Act are deemed to be declarations under **sections 199 and 200 of the Penal Code** — the offences of making, or using, a false statement in a declaration that a court or public officer is bound to accept as evidence.
+This is what gives a statutory declaration its force. **Section 3** provides that declarations made under the Act are deemed to be declarations under **sections 199 and 200 of the [Penal Code](/law/penal-code)** — the offences of making, or using, a false statement in a declaration that a court or public officer is bound to accept as evidence.
 
 The punishment is by reference to the false-evidence provision: where the declaration touches a **judicial proceeding**, the penalty can reach **up to seven years' imprisonment and a fine**; in other cases, a shorter term applies. Either way, a statutory declaration is not a formality to sign carelessly.
 

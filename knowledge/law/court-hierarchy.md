@@ -124,7 +124,7 @@ the value of the subject-matter does not exceed one hundred thousand ringgit
 
 On the criminal side, section 85 lets a First Class Magistrate try offences whose
 maximum term of imprisonment does not exceed ten years, offences punishable with
-fine only, and offences under sections 392 and 457 of the Penal Code.
+fine only, and offences under sections 392 and 457 of the [Penal Code](/law/penal-code).
 
 Note the gap that catches people out: the power to *try* is not the power to
 *sentence*. Section 87(1) caps a First Class Magistrate at five years'

@@ -34,7 +34,7 @@ faq:
     a: "No. It does not apply to public servants, apprentices, probationers, foreign employees, domestic servants, part-time employees, temporary students, and certain fixed-term contract employees."
 
 lang: "en"
-sourceContentHash: "ff8a39d6cf6b55db"
+sourceContentHash: "f2f42b17c86c3524"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -109,7 +109,7 @@ Premature retirement means an employer terminates an employee on the ground of a
 There are two separate paths when premature retirement occurs, and the two are different in nature:
 
 - **Criminal path (under Act 753):** the employee may lodge a complaint with the **Director General of Labour**. An employer convicted of the offence of premature retirement may be fined up to **RM10,000**. This is a criminal prosecution, not the employee's civil claim.
-- **Civil path (unfair dismissal):** the employee may file a representation under **Section 20 of the Industrial Relations Act 1967** to the Director General of Industrial Relations within **60 days** of the date of dismissal, which may lead to an order for reinstatement or compensation.
+- **Civil path (unfair dismissal):** the employee may file a representation under **Section 20 of the [Industrial Relations Act 1967](/law/industrial-relations-act-1967)** to the Director General of Industrial Relations within **60 days** of the date of dismissal, which may lead to an order for reinstatement or compensation.
 
 ## What about optional retirement?
 

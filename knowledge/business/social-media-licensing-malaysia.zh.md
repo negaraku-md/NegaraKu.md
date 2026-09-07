@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "0c497d0b40be3da4"
+sourceContentHash: "4b67b928b9834e6c"
 
 status: "published"
 aiAssisted: true
@@ -102,7 +102,7 @@ keywords: ["social media licence Malaysia", "ASP class licence MCMC", "8 million
 
 内容只写到 2025 年的，如今已经落后一年。
 
-Section 46A 被加入 Communications and Multimedia Act 1998，并于 **2025 年 2 月 11 日**
+Section 46A 被加入 [Communications and Multimedia Act 1998](/law/communications-and-multimedia-act-1998)，并于 **2025 年 2 月 11 日**
 生效。它允许某人经部长宣告而被视为已在某张类别执照下注册，无须提交正式注册。
 
 执照文书 **ASP/C/2025/1** 日期为 2025 年 12 月 15 日，依 ss.44、126 与 127 发出，就

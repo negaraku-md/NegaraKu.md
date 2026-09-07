@@ -25,7 +25,7 @@ appliesTo: "Pelajar, penyelidik, wartawan dan sesiapa sahaja yang ingin memahami
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "a1692e46a03751a8"
+sourceContentHash: "1cdb5bbdd1308bf3"
 
 status: "published"
 aiAssisted: true
@@ -232,7 +232,7 @@ melaksanakan kuasa Perkara 145(3). (Sama ada kedua-dua peranan itu *patut*
 dipisahkan adalah suatu perkara perdebatan dasar yang tidak dimasuki oleh laman
 berasaskan teks ini.)
 
-**"Kuasa pendakwaan datang daripada Kanun Tatacara Jenayah (Criminal Procedure
+**"Kuasa pendakwaan datang daripada [Kanun Tatacara Jenayah](/law/criminal-procedure-code) (Criminal Procedure
 Code)."** Kanun itu mengawal cara prosiding jenayah dijalankan, tetapi budi bicara
 untuk memulakan, menjalankan atau menghentikannya diberikan oleh Perlembagaan itu
 sendiri, dalam Perkara 145(3).

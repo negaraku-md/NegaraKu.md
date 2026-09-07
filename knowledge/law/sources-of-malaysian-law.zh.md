@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "首次尝试梳理马来西亚法律体系的法律系学生与研究人员；试图厘清某一问题究竟由哪一套法律体系管辖的读者；以及一再看到「普通法国家」「伊斯兰法」与「adat」并列出现，却未获告知它们实际如何相互关联的读者。"
 
 lang: "zh"
-sourceContentHash: "c7494d1451cf3c01"
+sourceContentHash: "f4b71230618caa4c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,7 +100,7 @@ keywords: ["sources of Malaysian law", "Malaysian legal system", "Federal Consti
 
 宪法之下是立法：国会法令与州属法规，加上依据它们所制定的附属立法（规则、条例、命令）。
 
-谁可以就何事立法，由**Ninth Schedule（第九附表）**确定，它把事项划分为联邦清单（Federal List）、州清单（State List），以及两者均可涉及的共同清单（Concurrent List）。民事与刑事法律、程序与司法行政都属于联邦清单——即国会的领域，这也是《刑法典》（Penal Code）、《合约法令》（Contracts Act）与《公司法令》（Companies Act）皆为联邦法令的原因。伊斯兰法以及以下讨论的与土地、习俗相关的事项，则属于州清单。
+谁可以就何事立法，由**Ninth Schedule（第九附表）**确定，它把事项划分为联邦清单（Federal List）、州清单（State List），以及两者均可涉及的共同清单（Concurrent List）。民事与刑事法律、程序与司法行政都属于联邦清单——即国会的领域，这也是[《刑法典》](/law/penal-code)（Penal Code）、《合约法令》（Contracts Act）与《公司法令》（Companies Act）皆为联邦法令的原因。伊斯兰法以及以下讨论的与土地、习俗相关的事项，则属于州清单。
 
 由于两个立法机构原则上都可能触及共同清单中的同一事项——或者某项州属法规可能越界进入联邦清单的领域——宪法需要一个仲裁机制。第75条提供了这个机制：
 

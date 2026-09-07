@@ -124,7 +124,7 @@ found, that is said plainly rather than repeated.
 
 ## Where do these conditions come from constitutionally?
 
-Article 153 of the Federal Constitution is headed *Reservation of quotas in respect of
+[Article 153 of the Federal Constitution](/law/article-153-special-position) is headed *Reservation of quotas in respect of
 services, permits, etc., for Malays and natives of any of the States of Sabah and
 Sarawak*.
 

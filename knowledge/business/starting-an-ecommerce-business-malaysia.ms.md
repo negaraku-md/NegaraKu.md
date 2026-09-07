@@ -33,7 +33,7 @@ faq:
     a: "Sebagai penjual, tidak. Anda mendaftar dengan gerbang pembayaran (payment gateway), yang mengendalikan langkah pengesahan perniagaan; pengendali gerbang pembayaran itulah yang mesti diluluskan oleh Bank Negara Malaysia, bukan anda. Bergantung pada apa yang anda jual, peraturan khusus sektor mungkin masih terpakai — contohnya kosmetik dan produk kesihatan memerlukan pemberitahuan kepada pengawal selia berkaitan tanpa mengira saluran jualan."
 
 lang: "ms"
-sourceContentHash: "de12f78f2cd39edf"
+sourceContentHash: "731294cfbb60b52f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -95,7 +95,7 @@ Perhatikan apa yang *bukan* langkah ini: **tiada 'lesen perniagaan dalam talian'
 
 ## Langkah 2: Patuhi peraturan pendedahan e-dagang (dikemas kini pada 2024)
 
-Di sinilah banyak panduan sudah lapuk. Peraturan-Peraturan Perlindungan Pengguna (Transaksi Perdagangan Elektronik) 2012 yang lama telah **digantikan oleh Peraturan 2024, berkuat kuasa 25 Disember 2024**, di bawah Akta Perlindungan Pengguna 1999 dan dikuatkuasakan oleh Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup (KPDN).
+Di sinilah banyak panduan sudah lapuk. Peraturan-Peraturan Perlindungan Pengguna (Transaksi Perdagangan Elektronik) 2012 yang lama telah **digantikan oleh Peraturan 2024, berkuat kuasa 25 Disember 2024**, di bawah [Akta Perlindungan Pengguna 1999](/law/consumer-protection-act) dan dikuatkuasakan oleh Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup (KPDN).
 
 Penjual dalam talian atau pembekal di pasaran dalam talian (marketplace) mesti **memaparkan**:
 
@@ -113,7 +113,7 @@ Satu perkara yang peraturan *tidak* wajibkan anda paparkan: senarai pendedahan a
 
 Sebaik sahaja anda mengumpul nama, alamat dan butiran pembayaran, **Akta Perlindungan Data Peribadi 2010** terpakai. Dalam amalan, anda mesti memperoleh persetujuan, menerbitkan notis privasi, memastikan data selamat, tidak menyimpannya secara berlebihan, dan menghormati permintaan akses dan pembetulan.
 
-**Pindaan 2024** terbaru (dilaksanakan secara berperingkat sepanjang 2025) menambah kewajipan **pemberitahuan pelanggaran data yang wajib** dan, bagi perniagaan yang layak, pelantikan **Pegawai Perlindungan Data (Data Protection Officer)**. Lihat panduan pematuhan PDPA, dan sahkan ambang pemberitahuan pelanggaran dan DPO semasa dengan Jabatan Perlindungan Data Peribadi, kerana ini adalah baru.
+**Pindaan 2024** terbaru (dilaksanakan secara berperingkat sepanjang 2025) menambah kewajipan **pemberitahuan pelanggaran data yang wajib** dan, bagi perniagaan yang layak, pelantikan **Pegawai Perlindungan Data (Data Protection Officer)**. Lihat panduan pematuhan PDPA, dan sahkan ambang pemberitahuan pelanggaran dan DPO semasa dengan [Jabatan Perlindungan Data Peribadi](/law/data-protection-department-jpdp), kerana ini adalah baru.
 
 ## Langkah 4: Betulkan cukai
 

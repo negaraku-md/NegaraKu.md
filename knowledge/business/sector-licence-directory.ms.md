@@ -33,7 +33,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ce5066c697d0cc2f"
+sourceContentHash: "2faa2d5ab731d5e0"
 
 status: "published"
 aiAssisted: true
@@ -112,7 +112,7 @@ yang sama sekali berbeza.
 
 | Pengawal Selia | Statut yang mentadbir | Apa yang dikeluarkan | Laman web |
 | --- | --- | --- | --- |
-| MCMC | Communications and Multimedia Act 1998 (Act 588); MCMC Act 1998 (Act 589) | Lesen kemudahan rangkaian, perkhidmatan rangkaian, perkhidmatan aplikasi dan aplikasi kandungan, sama ada individu atau kelas. Perkhidmatan media sosial dan pemesejan internet menjadi boleh dilesenkan secara kelas mulai 1 Januari 2025 | mcmc.gov.my |
+| MCMC | [Communications and Multimedia Act 1998](/law/communications-and-multimedia-act-1998) (Act 588); MCMC Act 1998 (Act 589) | Lesen kemudahan rangkaian, perkhidmatan rangkaian, perkhidmatan aplikasi dan aplikasi kandungan, sama ada individu atau kelas. Perkhidmatan media sosial dan pemesejan internet menjadi boleh dilesenkan secara kelas mulai 1 Januari 2025 | mcmc.gov.my |
 | MCMC | Postal Services Act 2012 (Act 741) | Lesen perkhidmatan pos dan kurier | mcmc.gov.my |
 | Pesuruhjaya Perlindungan Data Peribadi | Personal Data Protection Act 2010 (Act 709), dipinda oleh Act A1727 | Pendaftaran pengawal data untuk 13 kelas yang ditetapkan; tanggungjawab pegawai perlindungan data dan notifikasi pelanggaran data mulai 1 Jun 2025 | pdp.gov.my |
 | MyIPO | Perundangan cap dagangan, paten dan reka bentuk perindustrian; Copyright Act 1987 (Act 332) | Pendaftaran, dan pengisytiharan organisasi pengurusan kolektif di bawah s.27A | myipo.gov.my |
@@ -127,7 +127,7 @@ yang sama sekali berbeza.
 | KPDN | Control of Supplies Act 1961 (Act 122) | Lesen dan permit barangan terkawal | kpdn.gov.my |
 | KPDN | Petroleum Development Act 1974 (Act 144); Petroleum and Electricity (Control of Supplies) Act 1974 (Act 128) | Kawalan bekalan petroleum | kpdn.gov.my |
 | KPDN | Trade Descriptions Act 2011 (Act 730) | Perakuan halal dan perintah penandaan di bawah s.29 | kpdn.gov.my |
-| KPDN | Consumer Protection Act 1999 (Act 599) | Tanggungjawab transaksi perdagangan elektronik, kini di bawah P.U.(A) 449/2024 | kpdn.gov.my |
+| KPDN | [Consumer Protection Act 1999](/law/consumer-protection-act) (Act 599) | Tanggungjawab transaksi perdagangan elektronik, kini di bawah P.U.(A) 449/2024 | kpdn.gov.my |
 | Kastam Diraja Malaysia | Customs Act 1967 (Act 235) | Lesen import dan eksport di bawah perintah larangan, lesen gudang dan ejen | customs.gov.my |
 | Kastam Diraja Malaysia | Service Tax Act 2018 (Act 807); Sales Tax Act 2018 | Pendaftaran SST — rejim pendaftaran, bukan lesen | mysst.customs.gov.my |
 | Lembaga Pelesenan yang ditubuhkan oleh Menteri | Excise Act 1976 (Act 176); Excise (Sale of Intoxicating Liquors) Regulations 1977, P.U.(A) 156/1977 | Lesen rumah awam, rumah bir, kedai runcit dan peniaga borong minuman keras di bawah s.35 | — |
@@ -144,7 +144,7 @@ yang sama sekali berbeza.
 | Kementerian Kesihatan | Poisons Act 1952 (Act 366) | Lesen racun | pharmacy.gov.my |
 | Pihak Berkuasa Peranti Perubatan | Medical Device Act 2012 (Act 737); Medical Device Authority Act 2012 (Act 738) | Lesen penubuhan dan pendaftaran peranti | mda.gov.my |
 | Kementerian Kesihatan | Prevention and Control of Infectious Diseases Act 1988 (Act 342) | Tanggungjawab notifikasi dan kawalan | moh.gov.my |
-| DOSH | Occupational Safety and Health Act 1994 (Act 514). Factories and Machinery Act 1967 (Act 139) telah dimansuhkan oleh Factories and Machinery (Repeal) Act 2022 (Act 835), berkuat kuasa 1 Jun 2024 | Pendaftaran loji, sijil kekompetenan, notifikasi | dosh.gov.my |
+| DOSH | [Occupational Safety and Health Act 1994](/law/occupational-safety-and-health-act) (Act 514). Factories and Machinery Act 1967 (Act 139) telah dimansuhkan oleh Factories and Machinery (Repeal) Act 2022 (Act 835), berkuat kuasa 1 Jun 2024 | Pendaftaran loji, sijil kekompetenan, notifikasi | dosh.gov.my |
 | Jabatan Alam Sekitar | Environmental Quality Act 1974 (Act 127); EIA Order P.U.(A) 195/2015 | Lesen premis yang ditetapkan di bawah s.25(1), kelulusan EIA, sisa terjadual | doe.gov.my |
 | Jabatan Bomba dan Penyelamat | Fire Services Act 1988 (Act 341) | Sijil bomba bagi premis yang ditetapkan di bawah s.28 | bomba.gov.my |
 

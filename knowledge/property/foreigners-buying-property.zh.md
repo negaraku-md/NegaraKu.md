@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "955a3a4516d059d3"
+sourceContentHash: "2fddfa6e345670a4"
 
 status: "published"
 aiAssisted: true
@@ -81,7 +81,7 @@ keywords: ["foreigners buying property Malaysia", "minimum purchase price foreig
 
 第一道关卡是**最低价格**。马来西亚并不存在单一的全国性门槛——每个州各自设定自己的门槛，有些州还会按县、按分区，或按产业是有地产业还是分层产业（公寓、组屋、服务式住宅）来分别设定。
 
-第二道关卡是**州政府当局的书面同意**，依据 National Land Code 1965（Act 56，现已整合为 Act 828），无论价格多高，每一宗外国人收购都必须取得这项同意。在马来西亚的联邦架构下，土地事务归入州属清单——参见[联邦与州政府之间的权力如何划分](/zh/government/federal-state-division)——这正是为什么各州的数字与手续各不相同，而不是遵循同一本联邦规则手册。
+第二道关卡是**州政府当局的书面同意**，依据 [National Land Code 1965](/law/national-land-code)（Act 56，现已整合为 Act 828），无论价格多高，每一宗外国人收购都必须取得这项同意。在马来西亚的联邦架构下，土地事务归入州属清单——参见[联邦与州政府之间的权力如何划分](/zh/government/federal-state-division)——这正是为什么各州的数字与手续各不相同，而不是遵循同一本联邦规则手册。
 
 跨过最低价格门槛，只是让外国买家走到可以提出申请的那一步。这并不保证州属会批准。
 

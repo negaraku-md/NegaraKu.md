@@ -40,7 +40,7 @@ obligations:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "0af67092f0830df9"
+sourceContentHash: "0a5d002129db4742"
 
 status: "published"
 aiAssisted: true
@@ -89,7 +89,7 @@ PDPA 之下的注册并不是普遍性的。它只触及那些落在依 Act 709 
 
 | # | 类别 | 它涵盖谁 |
 | --- | --- | --- |
-| 1 | 通讯 | Communications and Multimedia Act 1998 或 Postal Services Act 2012 之下的持照人 |
+| 1 | 通讯 | [Communications and Multimedia Act 1998](/law/communications-and-multimedia-act-1998) 或 Postal Services Act 2012 之下的持照人 |
 | 2 | 银行与金融机构 | 持照银行、投资银行、伊斯兰与国际伊斯兰银行、DFI |
 | 3 | 保险 | 持照保险公司、回教保险（takaful）与国际回教保险经营者 |
 | 4 | 医疗 | 私人医疗持照人、注册的私人医务与牙科诊所、依 Registration of Pharmacists Act 1951 注册的法人团体 |

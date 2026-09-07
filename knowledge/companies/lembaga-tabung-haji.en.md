@@ -30,7 +30,7 @@ faq:
     a: "TH has historically been associated with the Islamic finance sector, including Bank Islam Malaysia and Syarikat Takaful Malaysia Keluarga, alongside holdings across various other asset classes as an institutional investor. Details of current holdings and interest percentages should be referred to TH's official financial statements and those of the related companies, as the ownership structure (for example the restructuring of the BIMB group in 2023) can change."
 
 lang: "en"
-sourceContentHash: "44dc501c8c79551f"
+sourceContentHash: "440a6d426804d717"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -130,7 +130,7 @@ There are differing views on this episode. Those defending the recovery emphasis
 
 ## What has been said about its governance?
 
-TH's governance issues over roughly 2014 to 2020 were later investigated by a Royal Commission of Inquiry (RCI), appointed on 20 January 2022. The commission's full report was published by JAKIM on 29 July 2026, after being reclassified as an open document under the Official Secrets Act 1972.
+TH's governance issues over roughly 2014 to 2020 were later investigated by a Royal Commission of Inquiry (RCI), appointed on 20 January 2022. The commission's full report was published by JAKIM on 29 July 2026, after being reclassified as an open document under the [Official Secrets Act 1972](/law/official-secrets-act-1972).
 
 Because the report touches on sensitive issues and multiple stakeholders, readers are encouraged to refer to the official text of the report and related statements directly, rather than relying on third-party summaries. As an unreviewed AI draft, this note records only the basic facts — when the commission was appointed and when its report was published — without drawing further conclusions.
 

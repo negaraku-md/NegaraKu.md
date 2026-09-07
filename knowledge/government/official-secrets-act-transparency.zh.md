@@ -30,7 +30,7 @@ faq:
     a: "在联邦层面，截至本稿撰写时尚无生效的信息自由法。只有雪兰莪州（2011年宪报颁布，2013年生效）和槟城（2010年法令）拥有信息自由法令，且仅限于各自州政府管辖范围内的信息。一项联邦法案已于2026年7月提呈。"
 
 lang: "zh"
-sourceContentHash: "0c522a239939eddb"
+sourceContentHash: "55b6d981106fab77"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -89,7 +89,7 @@ related: ["attorney-general"]
 keywords: ["akta rahsia rasmi", "OSA 1972", "kebebasan maklumat", "ketelusan kerajaan", "dokumen terperingkat", "seksyen 16A", "rahsia rasmi"]
 ---
 
-一份会议备忘录、一份审计报告、一份内阁文件——在马来西亚，只要其中任何一份被盖上官方机密的印记，分享它就可能构成犯罪。划定这条界线的法律是《1972年官方机密法令》，而联邦信息自由法的缺位，使它成为马来西亚治理中争议最多的课题之一。
+一份会议备忘录、一份审计报告、一份内阁文件——在马来西亚，只要其中任何一份被盖上官方机密的印记，分享它就可能构成犯罪。划定这条界线的法律是[《1972年官方机密法令》](/law/official-secrets-act-1972)，而联邦信息自由法的缺位，使它成为马来西亚治理中争议最多的课题之一。
 
 ## 《1972年官方机密法令》保护什么？
 

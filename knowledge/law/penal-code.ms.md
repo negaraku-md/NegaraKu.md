@@ -33,7 +33,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "80f97418a7008224"
+sourceContentHash: "96c89b21eed2b946"
 
 status: "published"
 aiAssisted: true
@@ -186,7 +186,7 @@ bawah mana-mana undang-undang lain yang berkuat kuasa. Kanun ini adalah
 statut jenayah am, yang sengaja dibina untuk berada di bawah statut-statut
 khusus.
 
-Rakan terdekatnya ialah Criminal Procedure Code (Akta 593), yang menyediakan
+Rakan terdekatnya ialah [Criminal Procedure Code](/law/criminal-procedure-code) (Akta 593), yang menyediakan
 prosedur yang tiada dalam Kanun ini: penangkapan, pertuduhan, perbicaraan,
 jaminan dan hukuman. First Schedule (Jadual Pertama) kepada CPC menjadualkan
 kesalahan Penal Code seksyen demi seksyen, berserta hukumannya — sebabnya

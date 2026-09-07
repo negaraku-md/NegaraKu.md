@@ -26,7 +26,7 @@ appliesTo: "Pembaca yang memerlukan huraian yang neutral dan tekstual tentang ap
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5efba628053a2449"
+sourceContentHash: "23e4a7f81f4e58a1"
 
 status: "published"
 aiAssisted: true
@@ -230,7 +230,7 @@ menjejaskan nyawa dan kesejahteraannya.
 Bahagian VII menetapkan peraturan keterangan yang terpakai kepada
 perbicaraan kesalahan keselamatan, dan seksyen 17 menyatakan bahawa
 Bahagian ini berkuat kuasa **walau apa pun sebarang percanggahan dengan
-Evidence Act 1950**. Antara peruntukannya:
+[Evidence Act 1950](/law/evidence-act-1950)**. Antara peruntukannya:
 
 | Seksyen | Perkara |
 | --- | --- |

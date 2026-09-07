@@ -36,7 +36,7 @@ faq:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "422f117ef0ec91a8"
+sourceContentHash: "3512cd3f05dbac9a"
 
 status: "published"
 aiAssisted: true
@@ -108,7 +108,7 @@ The administrator of this Act is the **Director General of Trade Unions (DGTU)**
 Two closely related legal frameworks must be distinguished:
 
 - **Trade Unions Act 1959** — governs the *formation and registration* of unions.
-- **Industrial Relations Act 1967** — governs *recognition, collective bargaining* and the settlement of industrial disputes between unions and employers.
+- **[Industrial Relations Act 1967](/law/industrial-relations-act-1967)** — governs *recognition, collective bargaining* and the settlement of industrial disputes between unions and employers.
 
 A union may be registered under Act 262, but the right to bargain on behalf of workers is still determined under the 1967 Act.
 

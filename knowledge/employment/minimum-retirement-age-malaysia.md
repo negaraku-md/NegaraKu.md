@@ -108,7 +108,7 @@ Persaraan pramatang bermaksud majikan memberhentikan pekerja atas alasan umur se
 Terdapat dua laluan berasingan apabila persaraan pramatang berlaku, dan kedua-duanya berbeza sifat:
 
 - **Laluan jenayah (di bawah Akta 753):** pekerja boleh membuat aduan kepada **Ketua Pengarah Buruh**. Majikan yang disabitkan atas kesalahan persaraan pramatang boleh didenda sehingga **RM10,000**. Ini pendakwaan jenayah, bukan tuntutan sivil pekerja.
-- **Laluan sivil (pembuangan kerja tidak adil):** pekerja boleh memfailkan representasi di bawah **Seksyen 20 Akta Perhubungan Perusahaan 1967** kepada Ketua Pengarah Perhubungan Perusahaan dalam tempoh **60 hari** dari tarikh pembuangan, yang boleh membawa kepada perintah pengembalian kerja atau pampasan.
+- **Laluan sivil (pembuangan kerja tidak adil):** pekerja boleh memfailkan representasi di bawah **Seksyen 20 [Akta Perhubungan Perusahaan 1967](/law/industrial-relations-act-1967)** kepada Ketua Pengarah Perhubungan Perusahaan dalam tempoh **60 hari** dari tarikh pembuangan, yang boleh membawa kepada perintah pengembalian kerja atau pampasan.
 
 ## Bagaimana dengan persaraan pilihan (optional retirement)?
 

@@ -207,7 +207,7 @@ The Act is paired with the **Cyber Security (Compounding of Offences) Regulation
 The Cyber Security Act does not stand alone, and organisations frequently owe duties under several regimes at once.
 
 - **Personal Data Protection Act 2010 (PDPA).** Governs how personal data is collected, used and secured. A breach involving personal data can trigger PDPA duties *and*, if the victim is an NCII entity, Cyber Security Act reporting.
-- **Communications and Multimedia Act 1998.** Regulates the communications and multimedia industry and remains the backbone for that sector's licensing.
+- **[Communications and Multimedia Act 1998](/law/communications-and-multimedia-act-1998).** Regulates the communications and multimedia industry and remains the backbone for that sector's licensing.
 - **Computer Crimes Act 1997.** Criminalises unauthorised access and related conduct — the offender-facing counterpart to the Cyber Security Act's operator-facing duties.
 - **Sector regulation.** Bank Negara Malaysia's technology-risk requirements for financial institutions, and equivalent rules from other regulators, continue to apply on top of Act 854.
 

@@ -48,7 +48,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "2c38e82eb0c506e7"
+sourceContentHash: "64142f66b268b952"
 
 status: "published"
 aiAssisted: true
@@ -227,7 +227,7 @@ Ini yang mengejutkan orang di tengah-tengah pengambilan pekerja, dan ia dijamin 
 perlembagaan. **Perkara 161E(4)** Perlembagaan Persekutuan, yang dimasukkan oleh Akta Malaysia 1963,
 melayan hak negeri ke atas kemasukan ke dalam dan pemastautinan di Negeri seolah-olah ia telah
 diterapkan dalam Perlembagaan. Imigresen sebaliknya ialah perkara Senarai Persekutuan, yang justeru
-menjadi sebab pengecualian itu berjalan melalui **Bahagian VII Akta Imigresen 1959/63**, bertajuk
+menjadi sebab pengecualian itu berjalan melalui **Bahagian VII [Akta Imigresen 1959/63](/law/immigration-act-1959-63)**, bertajuk
 *Peruntukan Khas untuk Malaysia Timur*.
 
 Seksyen yang beroperasi bukan seperti yang diandaikan oleh kebanyakan ringkasan:

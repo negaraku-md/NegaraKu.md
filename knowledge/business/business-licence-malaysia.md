@@ -171,7 +171,7 @@ What the Federation does license falls into four recognisable families.
 
 **Activity licences under a sector statute.** Banking and payments under the Financial
 Services Act 2013, capital markets under the Capital Markets and Services Act 2007,
-network and content services under the Communications and Multimedia Act 1998, private
+network and content services under the [Communications and Multimedia Act 1998](/law/communications-and-multimedia-act-1998), private
 healthcare, employment agencies, tourism enterprises, construction contractors. Each has
 its own regulator, statute and register. Our sector licence directory maps them.
 

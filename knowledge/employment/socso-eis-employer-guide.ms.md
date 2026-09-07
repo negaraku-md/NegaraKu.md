@@ -64,7 +64,7 @@ obligations:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "4208570c5ecf900f"
+sourceContentHash: "4bb7e4b6c1a91f37"
 
 status: "published"
 aiAssisted: true
@@ -241,7 +241,7 @@ menggambarkan pekerja yang berbeza.
 
 Kes yang tidak dilindungi oleh SKBBK termasuk kemalangan yang berlaku di
 luar Malaysia, pekerja asing yang telah menyalahgunakan pas atau permit
-atau melanggar syarat kemasukan di bawah Akta Imigresen 1959/63, dan
+atau melanggar syarat kemasukan di bawah [Akta Imigresen 1959/63](/law/immigration-act-1959-63), dan
 keadaan yang disebabkan oleh penyakit seperti diabetes, demam atau
 hipertensi.
 

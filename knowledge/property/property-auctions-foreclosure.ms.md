@@ -30,7 +30,7 @@ faq:
     a: "Ia bergantung pada Perisytiharan Jualan. Pembeli lazimnya mewarisi cukai tanah, cukai taksiran (cukai pintu), caj penyelenggaraan dan utiliti yang tertunggak melainkan POS menyatakan bank akan menjelaskannya daripada hasil jualan. Sentiasa baca POS sebelum membida."
 
 lang: "ms"
-sourceContentHash: "22e1e8564139d002"
+sourceContentHash: "2fa3e76f153f5816"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -81,7 +81,7 @@ Sesebuah hartanah boleh dilelong pada harga sepecahan kecil daripada nilai pasar
 
 ## Apakah itu bank lelong, dan bagaimana sesebuah hartanah berakhir di situ?
 
-Apabila peminjam gagal membayar pinjaman perumahan, bank (pemegang gadaian) bertindak untuk mendapatkan semula wangnya dengan memaksa jualan. Di Malaysia, ini ditadbir terutamanya oleh **Kanun Tanah Negara** — Kanun Tanah Negara 1965 (Akta 56 Tahun 1965), kini disemak dan dirujuk sebagai **Kanun Tanah Negara (Semakan 2020) (Akta 828)** — dan bank mesti terlebih dahulu memperoleh **Perintah Jualan** sebelum hartanah boleh dilelong. Bagi tanah yang dipegang di bawah hakmilik Pejabat Pendaftar, permohonan dibuat ke **Mahkamah Tinggi**; bagi tanah di bawah hakmilik Pejabat Tanah, ia dibuat ke **Pejabat Tanah**.
+Apabila peminjam gagal membayar pinjaman perumahan, bank (pemegang gadaian) bertindak untuk mendapatkan semula wangnya dengan memaksa jualan. Di Malaysia, ini ditadbir terutamanya oleh **Kanun Tanah Negara** — [Kanun Tanah Negara 1965](/law/national-land-code) (Akta 56 Tahun 1965), kini disemak dan dirujuk sebagai **Kanun Tanah Negara (Semakan 2020) (Akta 828)** — dan bank mesti terlebih dahulu memperoleh **Perintah Jualan** sebelum hartanah boleh dilelong. Bagi tanah yang dipegang di bawah hakmilik Pejabat Pendaftar, permohonan dibuat ke **Mahkamah Tinggi**; bagi tanah di bawah hakmilik Pejabat Tanah, ia dibuat ke **Pejabat Tanah**.
 
 Di mana hartanah belum mempunyai hakmilik individu atau strata lagi — biasanya pembangunan yang masih di bawah hakmilik induk — bank sebaliknya menjual hak serahannya secara langsung. Ini ialah lelongan **LACA** (Loan Agreement Cum Assignment), dijalankan oleh bank dan bukannya mahkamah, dan ia tidak memerlukan Perintah Jualan dengan cara yang sama.
 

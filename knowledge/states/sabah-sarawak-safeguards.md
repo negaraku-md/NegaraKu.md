@@ -84,7 +84,7 @@ The one safeguard an ordinary traveller meets is immigration. Two layers of law 
 
 First, the Constitution. Article 9(2) gives every citizen the right to move freely throughout the Federation and reside anywhere in it — but Article 9(3) makes that right subject to laws restricting movement "as between" a state that has a special position under the Constitution and the other states. Sabah and Sarawak are the states with that special position, so Parliament is expressly permitted to restrict movement into them.
 
-Second, the statute that exercises the permission. Part VII of the **Immigration Act 1959/63** places control over entry into, and residence in, Sabah and Sarawak with each state's own immigration authority. That control extends not only to foreigners but to Malaysian citizens from other states: a person from the Peninsula is, for immigration purposes at the state border, treated as entering a jurisdiction that decides its own admissions.
+Second, the statute that exercises the permission. Part VII of the **[Immigration Act 1959/63](/law/immigration-act-1959-63)** places control over entry into, and residence in, Sabah and Sarawak with each state's own immigration authority. That control extends not only to foreigners but to Malaysian citizens from other states: a person from the Peninsula is, for immigration purposes at the state border, treated as entering a jurisdiction that decides its own admissions.
 
 In practice this is why Sarawak and Sabah run their own entry channels and issue their own passes and work permissions, distinct from the federal process on the Peninsula. The mechanism is qualitative — a discretion to admit, limit, or refuse — rather than a fixed formula.
 

@@ -94,7 +94,7 @@ KPDN and its agencies administer a body of trade and consumer legislation. The s
 | --- | --- |
 | Price Control and Anti-Profiteering Act 2011 [Act 723] | Sets price ceilings, requires price display, and acts against unreasonably high profits |
 | Control of Supplies Act 1961 [Act 122] | Controls the sale and distribution of scheduled essential goods |
-| Consumer Protection Act 1999 [Act 599] | Protects consumers and establishes the claims tribunal |
+| [Consumer Protection Act 1999](/law/consumer-protection-act) [Act 599] | Protects consumers and establishes the claims tribunal |
 | Trade Descriptions Act 2011 [Act 730] | Bans false or misleading trade descriptions |
 | Competition Act 2010 [Act 712] | Prohibits cartels and abuse of market dominance |
 | Weights and Measures Act 1972 [Act 71] | Ensures honest measurement in trade |

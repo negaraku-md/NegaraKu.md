@@ -99,7 +99,7 @@ The obligations are set out in BNM's policy document, **Anti-Money Laundering, C
 Three obligations sit at the centre of compliance:
 
 - **Customer due diligence (CDD).** Identify and verify who the customer is, understand the purpose of the relationship, and identify the beneficial owner behind a corporate client. Higher-risk clients require enhanced due diligence.
-- **Record keeping.** Keep CDD documents, transaction records and your risk analyses for **at least six years** after the transaction is completed or the business relationship ends. Records must be kept in a form admissible in court under the Evidence Act 1950.
+- **Record keeping.** Keep CDD documents, transaction records and your risk analyses for **at least six years** after the transaction is completed or the business relationship ends. Records must be kept in a form admissible in court under the [Evidence Act 1950](/law/evidence-act-1950).
 - **Suspicious Transaction Reporting.** File a Suspicious Transaction Report (STR) whenever a transaction appears unusual, has no clear economic purpose, appears illegal, or points to money laundering or terrorism financing.
 
 ## How and when do you report?

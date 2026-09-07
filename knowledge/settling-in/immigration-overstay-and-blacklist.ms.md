@@ -34,7 +34,7 @@ faq:
     a: "Tiada butang 'buang' dalam talian yang mudah. Selesaikan sebarang kompaun tertunggak, sahkan status anda dan sebabnya secara terus dengan Jabatan Imigresen, dan mohon atau rayu secara bertulis (melalui kedutaan anda atau ejen berlesen jika anda berada di luar Malaysia), menerangkan keadaan tersebut. Jabatan memutuskan mengikut budi bicaranya; mahkamah secara amnya keberatan untuk membatalkan keputusan imigresen."
 
 lang: "ms"
-sourceContentHash: "bf384ed341e41e3c"
+sourceContentHash: "3656d41a5449e4a0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -88,7 +88,7 @@ Sebuah pas yang luput hanya sehari, pada pandangan undang-undang Malaysia, merup
 
 ## Apakah sebenarnya yang undang-undang katakan tentang tinggal lebih masa?
 
-Tinggal di Malaysia selepas pas tamat tempoh dilarang oleh **seksyen 15(1)(c) Akta Imigresen 1959/63**, dan berbuat demikian ialah satu kesalahan di bawah **seksyen 15(4)**. Ciri utamanya ialah ia merupakan kesalahan *liabiliti ketat*: pihak pendakwaan tidak perlu membuktikan anda berniat untuk tinggal lebih masa. Pembaharuan yang terlupa, kemasukan hospital, permohonan yang tersekat dalam proses — tiada satu pun daripada ini menghapuskan kesalahan tersebut, walaupun ia boleh mempengaruhi cara seseorang pegawai memilih untuk mengendalikannya.
+Tinggal di Malaysia selepas pas tamat tempoh dilarang oleh **seksyen 15(1)(c) [Akta Imigresen 1959/63](/law/immigration-act-1959-63)**, dan berbuat demikian ialah satu kesalahan di bawah **seksyen 15(4)**. Ciri utamanya ialah ia merupakan kesalahan *liabiliti ketat*: pihak pendakwaan tidak perlu membuktikan anda berniat untuk tinggal lebih masa. Pembaharuan yang terlupa, kemasukan hospital, permohonan yang tersekat dalam proses — tiada satu pun daripada ini menghapuskan kesalahan tersebut, walaupun ia boleh mempengaruhi cara seseorang pegawai memilih untuk mengendalikannya.
 
 Penalti berkanun berat di atas kertas. Jabatan Imigresen menyenaraikan tinggal lebih masa di bawah seksyen 15(4) sebagai membawa denda sehingga **RM10,000**, pemenjaraan sehingga **lima tahun**, atau kedua-duanya. Namun, dalam majoriti besar kes biasa, perkara ini tidak didakwa — ia *dikompaun*.
 

@@ -30,7 +30,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5b9f38ffb6bb91f8"
+sourceContentHash: "debce12c53f16ed5"
 
 status: "published"
 aiAssisted: true
@@ -107,7 +107,7 @@ kedua. Ini merupakan rujukan rosak yang paling kerap diulang dalam penulisan HR 
 
 | Statut | Akta | Pihak Berkuasa | Portal | Diliputi |
 | --- | --- | --- | --- | --- |
-| Occupational Safety and Health Act 1994 | 514 | Jabatan Keselamatan dan Kesihatan Pekerjaan (DOSH / JKKP) — `dosh.gov.my` | MyKKP, `mykkp.dosh.gov.my`; APIS, `apis.dosh.gov.my` | Kewajipan keselamatan majikan, penyelaras OSH, pemberitahuan kemalangan |
+| [Occupational Safety and Health Act 1994](/law/occupational-safety-and-health-act) | 514 | Jabatan Keselamatan dan Kesihatan Pekerjaan (DOSH / JKKP) — `dosh.gov.my` | MyKKP, `mykkp.dosh.gov.my`; APIS, `apis.dosh.gov.my` | Kewajipan keselamatan majikan, penyelaras OSH, pemberitahuan kemalangan |
 
 Perhatian: `www.dosh.gov.my` tidak dapat diakses — gunakan domain apex.
 

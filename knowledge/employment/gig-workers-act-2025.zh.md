@@ -63,7 +63,7 @@ obligations:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "a8860e567146ea80"
+sourceContentHash: "8a2909522637427b"
 
 status: "published"
 aiAssisted: true
@@ -113,8 +113,8 @@ Act 872 正被当作一则社会保障新闻来报道：平台从此必须扣缴
 
 s.2 把它定义为缔约实体与零工工作者之间，为在马来西亚提供服务以换取收入而订立的任何
 协议，无论口头或书面、明示或默示——*但不包括* Employment Act 1955、Labour Ordinance
-of Sabah (Cap. 67)、Labour Ordinance of Sarawak (Cap. 76) 或 Occupational Safety and
-Health Act 1994 所定义的 **contract of service**，也不包括 Industrial Relations Act
+of Sabah (Cap. 67)、Labour Ordinance of Sarawak (Cap. 76) 或 [Occupational Safety and
+Health Act 1994](/law/occupational-safety-and-health-act) 所定义的 **contract of service**，也不包括 Industrial Relations Act
 1967 下的**雇佣合约**。
 
 请从合规的角度再读一次。Act 872 并不决定身份认定问题——它**以之为前提**。若该段聘约

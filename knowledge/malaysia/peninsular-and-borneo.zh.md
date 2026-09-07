@@ -22,7 +22,7 @@ appliesTo: "旅客、企业，以及任何想要理解为什么「马来西亚�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "01bae788fa6e7ab5"
+sourceContentHash: "da887efa0f358f15"
 
 status: "published"
 aiAssisted: true
@@ -104,7 +104,7 @@ keywords: ["Peninsular Malaysia", "East Malaysia", "Sabah Sarawak border", "Sout
 
 ## 这道内部边界究竟管控什么
 
-沙巴或砂拉越机场的移民柜台，并非做戏摆样子。它所依据的是**Immigration Act 1959/63（Act 155）的Section 66**——根据马来西亚移民局（Jabatan Imigresen Malaysia）自身发布的指南，该条文规定，任何人若要进入并停留在东马来西亚州属（沙巴或砂拉越），须持有通行证或准证（Pass or Permit）。与大多数移民规则不同，这一条并非只针对外国人而设：它同样适用于来自半岛的马来西亚公民。
+沙巴或砂拉越机场的移民柜台，并非做戏摆样子。它所依据的是**[Immigration Act 1959/63](/law/immigration-act-1959-63)（Act 155）的Section 66**——根据马来西亚移民局（Jabatan Imigresen Malaysia）自身发布的指南，该条文规定，任何人若要进入并停留在东马来西亚州属（沙巴或砂拉越），须持有通行证或准证（Pass or Permit）。与大多数移民规则不同，这一条并非只针对外国人而设：它同样适用于来自半岛的马来西亚公民。
 
 在实际操作中，情况会因你旅行的原因而有所不同：
 

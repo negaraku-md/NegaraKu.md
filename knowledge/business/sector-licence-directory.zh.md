@@ -33,7 +33,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ce5066c697d0cc2f"
+sourceContentHash: "2faa2d5ab731d5e0"
 
 status: "published"
 aiAssisted: true
@@ -107,7 +107,7 @@ BLESS 处理来自 18 个当局的 49 项联邦执照，而两者都不完备。
 
 | 监管机构 | 规范法规 | 签发什么 | 网站 |
 | --- | --- | --- | --- |
-| MCMC | Communications and Multimedia Act 1998 (Act 588); MCMC Act 1998 (Act 589) | 网络设施、网络服务、应用服务与内容应用执照，个别与类别皆有。社交媒体与网络通讯服务自 2025 年 1 月 1 日起须领类别执照 | mcmc.gov.my |
+| MCMC | [Communications and Multimedia Act 1998](/law/communications-and-multimedia-act-1998) (Act 588); MCMC Act 1998 (Act 589) | 网络设施、网络服务、应用服务与内容应用执照，个别与类别皆有。社交媒体与网络通讯服务自 2025 年 1 月 1 日起须领类别执照 | mcmc.gov.my |
 | MCMC | Postal Services Act 2012 (Act 741) | 邮政与快递服务执照 | mcmc.gov.my |
 | 个人资料保护专员 | Personal Data Protection Act 2010 (Act 709)，经 Act A1727 修订 | 13 个订明类别的资料控制者注册；自 2025 年 6 月 1 日起的资料保护主任与泄露通报义务 | pdp.gov.my |
 | MyIPO | 商标、专利与工业设计法规；Copyright Act 1987 (Act 332) | 各项注册，以及依 s.27A 宣告集体管理组织 | myipo.gov.my |
@@ -122,7 +122,7 @@ BLESS 处理来自 18 个当局的 49 项联邦执照，而两者都不完备。
 | KPDN | Control of Supplies Act 1961 (Act 122) | 管制品执照与准证 | kpdn.gov.my |
 | KPDN | Petroleum Development Act 1974 (Act 144); Petroleum and Electricity (Control of Supplies) Act 1974 (Act 128) | 石油供应管制 | kpdn.gov.my |
 | KPDN | Trade Descriptions Act 2011 (Act 730) | 依 s.29 制定的清真认证与标示令 | kpdn.gov.my |
-| KPDN | Consumer Protection Act 1999 (Act 599) | 电子贸易交易义务，现依 P.U.(A) 449/2024 | kpdn.gov.my |
+| KPDN | [Consumer Protection Act 1999](/law/consumer-protection-act) (Act 599) | 电子贸易交易义务，现依 P.U.(A) 449/2024 | kpdn.gov.my |
 | 大马关税局（RMCD） | Customs Act 1967 (Act 235) | 依各项禁止令签发的进出口执照、仓库与代理执照 | customs.gov.my |
 | 大马关税局（RMCD） | Service Tax Act 2018 (Act 807); Sales Tax Act 2018 | SST 注册——这是一套注册制度，不是执照 | mysst.customs.gov.my |
 | 由部长设立的发照局 | Excise Act 1976 (Act 176); Excise (Sale of Intoxicating Liquors) Regulations 1977, P.U.(A) 156/1977 | 依 s.35 签发的酒吧、啤酒屋、零售店与批发商酒类执照 | — |
@@ -139,7 +139,7 @@ BLESS 处理来自 18 个当局的 49 项联邦执照，而两者都不完备。
 | 卫生部 | Poisons Act 1952 (Act 366) | 毒药执照 | pharmacy.gov.my |
 | 医疗器械管理局（MDA） | Medical Device Act 2012 (Act 737); Medical Device Authority Act 2012 (Act 738) | 机构执照与器械注册 | mda.gov.my |
 | 卫生部 | Prevention and Control of Infectious Diseases Act 1988 (Act 342) | 通报与管控义务 | moh.gov.my |
-| DOSH | Occupational Safety and Health Act 1994 (Act 514)。Factories and Machinery Act 1967 (Act 139) 已被 Factories and Machinery (Repeal) Act 2022 (Act 835) 废除，2024 年 6 月 1 日生效 | 设备注册、合格证书、各项通报 | dosh.gov.my |
+| DOSH | [Occupational Safety and Health Act 1994](/law/occupational-safety-and-health-act) (Act 514)。Factories and Machinery Act 1967 (Act 139) 已被 Factories and Machinery (Repeal) Act 2022 (Act 835) 废除，2024 年 6 月 1 日生效 | 设备注册、合格证书、各项通报 | dosh.gov.my |
 | 环境局（DOE） | Environmental Quality Act 1974 (Act 127); EIA Order P.U.(A) 195/2015 | 依 s.25(1) 签发的订明处所执照、EIA 批准、表列废料 | doe.gov.my |
 | 消防与拯救局 | Fire Services Act 1988 (Act 341) | 依 s.28 就指定处所签发的防火证书 | bomba.gov.my |
 

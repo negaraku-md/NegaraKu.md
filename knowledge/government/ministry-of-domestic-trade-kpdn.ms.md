@@ -29,7 +29,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "4b3d1bbfe02cf7cf"
+sourceContentHash: "85a91cff60040b90"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -95,7 +95,7 @@ KPDN dan agensi-agensinya mentadbir sekumpulan perundangan perdagangan dan pengg
 | --- | --- |
 | Akta Kawalan Harga dan Anti-Pencatutan 2011 [Akta 723] | Menetapkan siling harga, mewajibkan paparan harga, dan bertindak terhadap keuntungan yang tidak munasabah tinggi |
 | Akta Kawalan Bekalan 1961 [Akta 122] | Mengawal penjualan dan pengedaran barangan keperluan berjadual |
-| Akta Perlindungan Pengguna 1999 [Akta 599] | Melindungi pengguna dan menubuhkan tribunal tuntutan |
+| [Akta Perlindungan Pengguna 1999](/law/consumer-protection-act) [Akta 599] | Melindungi pengguna dan menubuhkan tribunal tuntutan |
 | Akta Perihal Dagangan 2011 [Akta 730] | Mengharamkan perihal dagangan palsu atau mengelirukan |
 | Akta Persaingan 2010 [Akta 712] | Melarang kartel dan penyalahgunaan dominasi pasaran |
 | Akta Timbang dan Sukat 1972 [Akta 71] | Memastikan pengukuran yang jujur dalam perdagangan |
