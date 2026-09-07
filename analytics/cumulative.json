@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "cursor": "2026-09-06 07:19:29",
-  "updatedAt": "2026-09-06T07:24:30.181Z",
+  "cursor": "2026-09-07 07:35:11",
+  "updatedAt": "2026-09-07T07:40:12.031Z",
   "pages": {
     "states/how-state-governments-are-funded": {
-      "readers": 17,
+      "readers": 21,
       "search": {
         "total": 0,
         "byBot": {}
@@ -18,7 +18,7 @@
       }
     },
     "accounting/malaysian-accounting-standards-board-masb": {
-      "readers": 2,
+      "readers": 8,
       "search": {
         "total": 0,
         "byBot": {}
@@ -73,7 +73,7 @@
       }
     },
     "accounting/audit-exemption-criteria": {
-      "readers": 11,
+      "readers": 13,
       "search": {
         "total": 0,
         "byBot": {}
@@ -360,7 +360,7 @@
       }
     },
     "accounting/accounting-standards-index": {
-      "readers": 1,
+      "readers": 3,
       "search": {
         "total": 0,
         "byBot": {}
@@ -4303,7 +4303,7 @@
       }
     },
     "accounting/statutory-audit-requirement": {
-      "readers": 0,
+      "readers": 2,
       "search": {
         "total": 0,
         "byBot": {}
@@ -5604,7 +5604,7 @@
       }
     },
     "accounting/mpers-2025-revision": {
-      "readers": 0,
+      "readers": 2,
       "search": {
         "total": 0,
         "byBot": {}
@@ -7541,7 +7541,7 @@
       }
     },
     "accounting/mfrs-vs-mpers": {
-      "readers": 0,
+      "readers": 2,
       "search": {
         "total": 0,
         "byBot": {}
@@ -7580,7 +7580,7 @@
       }
     },
     "economy/electricity-tariff-energy-transition": {
-      "readers": 0,
+      "readers": 4,
       "search": {
         "total": 0,
         "byBot": {}
@@ -7723,7 +7723,7 @@
       }
     },
     "accounting/mfrs-18-presentation": {
-      "readers": 0,
+      "readers": 2,
       "search": {
         "total": 0,
         "byBot": {}
@@ -10260,7 +10260,7 @@
       }
     },
     "accounting/switching-mpers-to-mfrs": {
-      "readers": 0,
+      "readers": 2,
       "search": {
         "total": 0,
         "byBot": {}
@@ -10468,7 +10468,7 @@
       }
     },
     "glossary/sst": {
-      "readers": 0,
+      "readers": 1,
       "search": {
         "total": 0,
         "byBot": {}
@@ -11001,7 +11001,7 @@
       }
     },
     "company-secretary/mbrs-2": {
-      "readers": 0,
+      "readers": 2,
       "search": {
         "total": 0,
         "byBot": {}
@@ -12991,7 +12991,7 @@
       }
     },
     "government/ministry-of-domestic-trade-kpdn": {
-      "readers": 0,
+      "readers": 2,
       "search": {
         "total": 0,
         "byBot": {}
@@ -13731,7 +13731,7 @@
       }
     },
     "malaysia/anwar-ibrahim": {
-      "readers": 1,
+      "readers": 3,
       "search": {
         "total": 0,
         "byBot": {}
@@ -13755,7 +13755,7 @@
       }
     },
     "government/prime-ministers-of-malaysia": {
-      "readers": 4,
+      "readers": 10,
       "search": {
         "total": 0,
         "byBot": {}
@@ -13766,6 +13766,136 @@
           "GPTBot": 6,
           "Meta-ExternalAgent": 12
         }
+      }
+    },
+    "finance/venture-capital-private-equity-malaysia": {
+      "readers": 0,
+      "search": {
+        "total": 3,
+        "byBot": {
+          "PetalBot": 3
+        }
+      },
+      "ai": {
+        "total": 0,
+        "byBot": {}
+      }
+    },
+    "company-secretary/statutory-declaration-malaysia": {
+      "readers": 0,
+      "search": {
+        "total": 2,
+        "byBot": {
+          "PetalBot": 2
+        }
+      },
+      "ai": {
+        "total": 0,
+        "byBot": {}
+      }
+    },
+    "business/starting-a-restaurant-business-malaysia": {
+      "readers": 2,
+      "search": {
+        "total": 2,
+        "byBot": {
+          "PetalBot": 2
+        }
+      },
+      "ai": {
+        "total": 0,
+        "byBot": {}
+      }
+    },
+    "business/starting-an-ecommerce-business-malaysia": {
+      "readers": 0,
+      "search": {
+        "total": 2,
+        "byBot": {
+          "PetalBot": 2
+        }
+      },
+      "ai": {
+        "total": 0,
+        "byBot": {}
+      }
+    },
+    "business/holding-company-malaysia": {
+      "readers": 0,
+      "search": {
+        "total": 1,
+        "byBot": {
+          "PetalBot": 1
+        }
+      },
+      "ai": {
+        "total": 0,
+        "byBot": {}
+      }
+    },
+    "business/principal-hub-malaysia": {
+      "readers": 0,
+      "search": {
+        "total": 2,
+        "byBot": {
+          "PetalBot": 2
+        }
+      },
+      "ai": {
+        "total": 0,
+        "byBot": {}
+      }
+    },
+    "business/starting-a-consultancy-malaysia": {
+      "readers": 0,
+      "search": {
+        "total": 2,
+        "byBot": {
+          "PetalBot": 2
+        }
+      },
+      "ai": {
+        "total": 0,
+        "byBot": {}
+      }
+    },
+    "business/government-grants-directory-malaysia": {
+      "readers": 4,
+      "search": {
+        "total": 1,
+        "byBot": {
+          "PetalBot": 1
+        }
+      },
+      "ai": {
+        "total": 0,
+        "byBot": {}
+      }
+    },
+    "finance/initial-public-offering-malaysia": {
+      "readers": 0,
+      "search": {
+        "total": 2,
+        "byBot": {
+          "PetalBot": 2
+        }
+      },
+      "ai": {
+        "total": 0,
+        "byBot": {}
+      }
+    },
+    "company-secretary/employee-stock-option-scheme-malaysia": {
+      "readers": 0,
+      "search": {
+        "total": 2,
+        "byBot": {
+          "PetalBot": 2
+        }
+      },
+      "ai": {
+        "total": 0,
+        "byBot": {}
       }
     }
   }
