@@ -32,7 +32,7 @@ faq:
     a: "Ya. Inisiatif PERKUKUH yang dilancarkan pada 2021 menggariskan 20 inisiatif yang bertujuan, antara lain, memberikan setiap GLIC mandat yang lebih jelas, meningkatkan penyertaan sektor swasta ('crowding in') dan menyelaraskan peranan kerajaan dalam perniagaan, sambil mengarahkan lebih banyak pelaburan ke arah bidang pemangkin dan pembangunan."
 
 lang: "ms"
-sourceContentHash: "37a93763a38ff67e"
+sourceContentHash: "58ac4688e4092ece"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -139,7 +139,7 @@ Dua gelombang besar pembaharuan mengapit cerita ini.
 
 **Program Transformasi GLC (2004–2015).** Diselia oleh Jawatankuasa Putrajaya bagi Prestasi Tinggi GLC (PCG), ia meletakkan 20 GLC terbesar — "G20" — melalui satu dekad pembaharuan tadbir urus, prestasi dan lembaga pengarah. Dari 14 Mei 2004 hingga penutupan program pada 28 Julai 2015, gabungan nilai pasaran G20 berkembang **hampir tiga kali ganda, daripada RM133.8 bilion kepada RM386 bilion**, setelah memuncak pada paras tertinggi sepanjang masa iaitu **RM431.1 bilion pada 7 April 2015.** Ia memprofesionalkan lembaga pengarah dan meningkatkan pulangan, tetapi ia tidak mengecilkan kehadiran keseluruhan negara — malah boleh dikatakan sebaliknya.
 
-**PERKUKUH (2021).** Dilancarkan pada 12 Ogos 2021, inisiatif ini menggariskan **20 inisiatif** untuk dilaksanakan sehingga 2024. Matlamat yang dinyatakan menunjuk ke arah yang sama: memberikan setiap GLIC mandat yang lebih jelas, mengarahkan lebih banyak pelaburan ke arah bidang pemangkin dan pembangunan, meningkatkan penyertaan sektor swasta ("crowding in"), menyelaraskan peranan kerajaan dalam perniagaan, dan menjajarkan dana dengan dasar negara seperti MyDIGITAL. Ketegangan yang tidak diucapkan jelas kelihatan dalam matlamat itu — program yang sama mahu GLIC melabur *lebih banyak* dalam keutamaan negara sambil menduduki *lebih sedikit* ruang yang boleh diisi firma swasta.
+**PERKUKUH (2021).** Dilancarkan pada 12 Ogos 2021, inisiatif ini menggariskan **20 inisiatif** untuk dilaksanakan sehingga 2024. Matlamat yang dinyatakan menunjuk ke arah yang sama: memberikan setiap GLIC mandat yang lebih jelas, mengarahkan lebih banyak pelaburan ke arah bidang pemangkin dan pembangunan, meningkatkan penyertaan sektor swasta ("crowding in"), menyelaraskan peranan kerajaan dalam perniagaan, dan menjajarkan dana dengan dasar negara seperti [MyDIGITAL](/technology/mydigital-blueprint). Ketegangan yang tidak diucapkan jelas kelihatan dalam matlamat itu — program yang sama mahu GLIC melabur *lebih banyak* dalam keutamaan negara sambil menduduki *lebih sedikit* ruang yang boleh diisi firma swasta.
 
 ## Mengapa ia masih penting hari ini?
 

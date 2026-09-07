@@ -115,7 +115,7 @@ matters far more than the licence itself.
 
 ## What is the WRT approval?
 
-It is a permission from the **Ministry of Domestic Trade and Cost of Living (KPDN)** for
+It is a permission from the **[Ministry of Domestic Trade and Cost of Living](/government/ministry-of-domestic-trade-kpdn) (KPDN)** for
 foreign participation in distributive trade — broadly, wholesale, retail and related
 trading activity carried on in Malaysia by a company with foreign equity.
 

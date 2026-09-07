@@ -32,7 +32,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ac58eadda5191b8b"
+sourceContentHash: "05c196a1a00207fa"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -124,7 +124,7 @@ keywords: ["Malayan Emergency", "Darurat", "Briggs Plan", "new villages", "kampu
 
 - 这次重新安置是强制性的。人们并非自愿迁移，许多人因此失去了耕地与家园。
 - 这些聚居点在出入方面受到严密管控，居民须遵守宵禁与粮食管制。
-- 大多数新村最终成为永久性聚落。紧急状态结束后，新村并未随之消失，而是变成了马来西亚的普通市镇与村落；房屋及地方政府部（Ministry of Housing and Local Government）至今仍设有专门的新村组（New Villages Division），为这些聚落推行基础设施、房屋与微型信贷计划。
+- 大多数新村最终成为永久性聚落。紧急状态结束后，新村并未随之消失，而是变成了马来西亚的普通市镇与村落；[房屋及地方政府部](/government/ministry-of-housing-local-government-kpkt)（Ministry of Housing and Local Government）至今仍设有专门的新村组（New Villages Division），为这些聚落推行基础设施、房屋与微型信贷计划。
 
 ## 登记制度，以及比战争活得更久的证件
 

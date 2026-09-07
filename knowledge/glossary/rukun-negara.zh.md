@@ -34,7 +34,7 @@ faq:
     a: "宏愿（如团结与公正社会等五大国家目标）是要达成的目的，而五大原则则是实现这些宏愿的生活基础与指南。两者共同构成了完整的国家原则誓言。"
 
 lang: "zh"
-sourceContentHash: "7d32cd17710c95f6"
+sourceContentHash: "d94eca92454b00e2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -97,7 +97,7 @@ keywords: ["rukun negara", "lima prinsip rukun negara", "ikrar rukun negara", "p
 某人的法律，也不仅仅是一句口号。更准确地说，它应被理解为一种
 **共同誓言**——由多元种族与宗教的人民共同秉持的价值宣言。
 
-根据国家安全理事会（MKN），国家原则"是马来西亚的国家哲学，
+根据[国家安全理事会](/government/national-security-council-mkn)（MKN），国家原则"是马来西亚的国家哲学，
 建立在五大主要原则之上，作为社会生活中的指南"。它成为全体人民的
 信念、指南与实践，以培育和巩固团结精神。
 

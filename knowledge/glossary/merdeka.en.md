@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Anyone who wants to understand the true meaning and origin of the word 'merdeka', not just the date or ceremony of 1957."
 
 lang: "en"
-sourceContentHash: "ec5875367ad76b6c"
+sourceContentHash: "194d82a69dbc1089"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -125,8 +125,8 @@ Minister — a symbol of the end of British rule.
 
 This event was preceded by the London Agreement signed on
 8 February 1956, which set 31 August 1957 as the date of
-independence, according to records from the National Security
-Council (Majlis Keselamatan Negara, MKN).
+independence, according to records from the [National Security
+Council](/government/national-security-council-mkn) (Majlis Keselamatan Negara, MKN).
 
 ## A name that lives on
 

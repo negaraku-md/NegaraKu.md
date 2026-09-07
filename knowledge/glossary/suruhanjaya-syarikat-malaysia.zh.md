@@ -38,7 +38,7 @@ faq:
     a: "SSM 负责执行和监督这些规则，但它们源自法律条文。年度申报是《2016年公司法令》所要求的，实缴资本的概念也来自同一部法令。SSM 接收这些申报、就程序与罚则发布《执业指令》（Practice Directives），并对违规者采取执法行动。"
 
 lang: "zh"
-sourceContentHash: "d49c7baa8de083c0"
+sourceContentHash: "48b70b131a01ea95"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -141,7 +141,7 @@ SSM 是一个**法定机构**（statutory body）——由国会法令直接创�
 | 授权法律 | 《2001年马来西亚公司委员会法令》（第614号法令，Act 614） |
 | 生效日 | 2002年4月16日（生效文告 P.U.(B) 127/2002） |
 | 由合并而成 | 公司注册官（ROC）＋商业注册官（ROB） |
-| 隶属于 | 国内贸易及生活成本部 |
+| 隶属于 | [国内贸易及生活成本部](/government/ministry-of-domestic-trade-kpdn) |
 | 官方网站 | `ssm.com.my` |
 
 ## 为什么设立 SSM？

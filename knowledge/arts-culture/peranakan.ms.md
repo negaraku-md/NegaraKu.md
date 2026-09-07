@@ -18,7 +18,7 @@ keyTakeaways:
   - "Kebaya, yang menjadi tunjang pakaian Nyonya, disenaraikan dalam senarai warisan tidak ketara UNESCO pada 2024 melalui pencalonan bersama oleh Brunei, Indonesia, Malaysia, Singapura dan Thailand"
 appliesTo: "Sesiapa yang ingin mendapatkan gambaran yang tepat dan penuh hormat tentang siapa Peranakan (Baba-Nyonya), dan cara mengenali masakan, pakaian dan warisan kebendaan mereka di Melaka dan Pulau Pinang."
 lang: "ms"
-sourceContentHash: "5612cf657643e831"
+sourceContentHash: "b8424f95164f1085"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -101,7 +101,7 @@ Kekayaan dan cita rasa Peranakan tercatat dalam senibina Melaka dan George Town.
 
 Lanskap jalan ini adalah antara sebab **Melaka dan George Town, Historic Cities of the Straits of Malacca** disenaraikan bersama dalam Senarai Warisan Dunia UNESCO pada **7 Julai 2008**, di bawah kriteria kebudayaan (ii), (iii) dan (iv). Penyenaraian ini mengiktiraf bandar-bandar yang dibentuk oleh hampir 500 tahun perdagangan antara Timur dan Barat, serta satu "warisan hidup berbilang budaya" yang bersifat ketara dan tidak ketara. Baba-Nyonya adalah satu daripada rantaian warisan tersebut, di samping komuniti Melayu, India, dan berketurunan Eropah di kedua-dua bandar itu. Anda boleh membaca lebih lanjut mengenai penyenaraian yang lebih luas ini dalam [tapak Warisan Dunia UNESCO Malaysia](/arts-culture/unesco-world-heritage), dan mengenai sarung [batik](/arts-culture/batik) yang menjadi teras kebaya Nyonya.
 
-Malaysia turut melindungi warisan secara lebih luas melalui **Akta Warisan Kebangsaan 2005**, yang ditadbir oleh Jabatan Warisan Negara, yang menyelenggara satu daftar warisan kebudayaan ketara dan tidak ketara.
+Malaysia turut melindungi warisan secara lebih luas melalui **Akta Warisan Kebangsaan 2005**, yang ditadbir oleh [Jabatan Warisan Negara](/government/department-of-national-heritage), yang menyelenggara satu daftar warisan kebudayaan ketara dan tidak ketara.
 
 ## Satu budaya yang hidup, bukan artifak muzium
 

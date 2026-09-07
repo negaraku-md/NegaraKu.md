@@ -222,7 +222,7 @@ Perundingan ini juga meletakkan hubungan dua hala dalam konteks **ASEAN**: kedua
 
 Di luar politik sempadan, ekonomi menjadi perekat yang stabil. Pada 2024, jumlah perdagangan Malaysia mencapai rekod **RM2.9 trilion**. Dalam angka itu, Indonesia kekal **salah satu rakan dagang penting Malaysia di ASEAN**: eksport Malaysia ke Indonesia meningkat **6.9% (kira-kira RM3.5 bilion)** berbanding tahun sebelumnya, sebahagian besarnya didorong produk petroleum.
 
-Menurut data DOSM dan MATRADE, Malaysia mengeksport barangan bernilai **RM54.40 bilion** ke Indonesia pada 2024, mewakili **12.4%** daripada eksport Malaysia ke ASEAN dan menjadikan Indonesia **destinasi eksport ke-3 terbesar dalam ASEAN** (selepas Singapura dan Thailand). Bahan api mineral dan minyak ditapis mendahului, diikuti jentera, plastik, dan kelengkapan elektrik. Kerjasama sektor halal turut dikenal pasti sebagai pemacu pertumbuhan masa depan.
+Menurut data DOSM dan [MATRADE](/government/matrade), Malaysia mengeksport barangan bernilai **RM54.40 bilion** ke Indonesia pada 2024, mewakili **12.4%** daripada eksport Malaysia ke ASEAN dan menjadikan Indonesia **destinasi eksport ke-3 terbesar dalam ASEAN** (selepas Singapura dan Thailand). Bahan api mineral dan minyak ditapis mendahului, diikuti jentera, plastik, dan kelengkapan elektrik. Kerjasama sektor halal turut dikenal pasti sebagai pemacu pertumbuhan masa depan.
 
 ## Panduan majikan: mengambil pekerja domestik Indonesia
 

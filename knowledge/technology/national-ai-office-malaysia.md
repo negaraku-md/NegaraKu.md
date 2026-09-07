@@ -89,7 +89,7 @@ The result is a layered, soft-law posture that is easy to misread. There is no s
 
 ## Who actually runs AI policy in Malaysia?
 
-The central body is the National AI Office (NAIO). The Cabinet approved it on 28 August 2024, and Prime Minister Datuk Seri Anwar Ibrahim launched it on 12 December 2024. It sits under the Ministry of Digital and, for its first year, operated with guidance from MyDIGITAL Corporation during an incubation period.
+The central body is the National AI Office (NAIO). The Cabinet approved it on 28 August 2024, and Prime Minister Datuk Seri Anwar Ibrahim launched it on 12 December 2024. It sits under the Ministry of Digital and, for its first year, operated with guidance from [MyDIGITAL](/technology/mydigital-blueprint) Corporation during an incubation period.
 
 NAIO's job was coordination: to strategise AI development, centralise resources, standardise governance through ethical guidelines, encourage responsible AI use, and accelerate innovation through joined-up research. In practice it acts as the connective tissue between government, industry, academia and civil society, organising much of that work through specialised working groups.
 

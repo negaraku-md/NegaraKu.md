@@ -34,7 +34,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "71a3f2e066458448"
+sourceContentHash: "31afd040d92018fe"
 
 status: "published"
 aiAssisted: true
@@ -157,7 +157,7 @@ keywords: ["Malaysia durian export", "Musang King", "Black Thorn durian", "duria
 
 ## 出口目标将走向何方？
 
-马来西亚的雄心很明确。国家贸易促进机构MATRADE已设定到 **2030年对华榴梿出口达9亿3230万令吉（约2.29亿美元）** 的目标，该目标由贸易专员Niqman Rafaee M. Sahar于2026年7月在北京一家马来西亚专属榴梿旗舰店开业时宣布。马来西亚目前在中国榴梿市场约占4%至5%的份额，力争在五年内将其大致翻倍至8%至10%。
+马来西亚的雄心很明确。国家贸易促进机构[MATRADE](/government/matrade)已设定到 **2030年对华榴梿出口达9亿3230万令吉（约2.29亿美元）** 的目标，该目标由贸易专员Niqman Rafaee M. Sahar于2026年7月在北京一家马来西亚专属榴梿旗舰店开业时宣布。马来西亚目前在中国榴梿市场约占4%至5%的份额，力争在五年内将其大致翻倍至8%至10%。
 
 更宏观的图景还要更大。在2025年10月7日的国会答复中，农业及粮食安全部预测到2030年榴梿出口总值将达到 **18亿令吉、数量6.9万吨**，并表示正在探索新的目的地——其中包括台湾和秘鲁——以减少对单一市场的依赖。
 

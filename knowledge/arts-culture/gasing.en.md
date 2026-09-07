@@ -21,7 +21,7 @@ appliesTo: "Anyone who wants to understand how gasing is played, the difference 
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "4545cc8912387ef3"
+sourceContentHash: "fc40c99c7c7666a6"
 
 status: "published"
 aiAssisted: true
@@ -75,7 +75,7 @@ The Department of National Heritage (Jabatan Warisan Negara) records that gasing
 | Focus of victory | Opponent's top stops or is knocked off course | One's own top keeps spinning after the others stop |
 | Nature of play | Direct confrontation, two sides competing simultaneously | A test of endurance and stability, not impact |
 
-The National Security Council (Majlis Keselamatan Negara, MKN) portal describes the mechanics of gasing pangkah in more detail: the top is played by striking the opponent's spinning top on the upper part of its body, which has been fitted with iron. That iron is not decorative — it is the part that receives and transmits the impact.
+The [National Security Council](/government/national-security-council-mkn) (Majlis Keselamatan Negara, MKN) portal describes the mechanics of gasing pangkah in more detail: the top is played by striking the opponent's spinning top on the upper part of its body, which has been fitted with iron. That iron is not decorative — it is the part that receives and transmits the impact.
 
 According to the same source, three criteria determine which top lasts longer: speed, balance and strength. A top that is fast but unbalanced will veer off course before it can land a blow; a top that is sturdy but slow is easily evaded.
 

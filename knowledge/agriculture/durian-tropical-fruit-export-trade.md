@@ -156,7 +156,7 @@ There is a catch. Malaysian GI registration protects these names **only inside M
 
 ## Where are the export targets headed?
 
-Malaysia's ambitions are explicit. MATRADE, the national trade promotion agency, has set a target of **RM932.3 million (about US$229 million) in durian exports to China by 2030**, announced by trade commissioner Niqman Rafaee M. Sahar at the launch of a Malaysia-only durian flagship store in Beijing in July 2026. Malaysia currently holds an estimated 4–5% of China's durian market and aims to roughly double that to 8–10% within five years.
+Malaysia's ambitions are explicit. [MATRADE](/government/matrade), the national trade promotion agency, has set a target of **RM932.3 million (about US$229 million) in durian exports to China by 2030**, announced by trade commissioner Niqman Rafaee M. Sahar at the launch of a Malaysia-only durian flagship store in Beijing in July 2026. Malaysia currently holds an estimated 4–5% of China's durian market and aims to roughly double that to 8–10% within five years.
 
 The broader picture is even larger. In its 7 October 2025 parliamentary reply, the Agriculture and Food Security Ministry projected total durian export value reaching **RM1.8 billion on volume of 69,000 tonnes by 2030**, and said it is exploring new destinations — Taiwan and Peru among them — to reduce reliance on a single market.
 

@@ -32,7 +32,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "c610d29207638ce7"
+sourceContentHash: "7e827e839a62b8bc"
 
 status: "published"
 aiAssisted: true
@@ -81,7 +81,7 @@ keywords: ["Consumer Protection Act 1999", "Act 599", "Tribunal for Consumer Cla
 | --- | --- |
 | 简称 | Consumer Protection Act 1999 |
 | 法令编号 | Act 599 |
-| 执行机关 | 国内贸易及生活成本部（KPDN） |
+| 执行机关 | [国内贸易及生活成本部](/government/ministry-of-domestic-trade-kpdn)（KPDN） |
 | 执行场所 | 消费人索偿仲裁庭（1999 年 11 月 15 日设立） |
 | 仲裁庭申索限额 | RM50,000 |
 | 仲裁庭存档费 | RM5 |

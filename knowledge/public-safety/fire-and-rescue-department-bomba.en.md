@@ -31,7 +31,7 @@ faq:
     a: "JBPM is listed as a department under the Ministry of Housing and Local Government (KPKT). Ministerial portfolios in Malaysia are reorganised from time to time, so confirm the current arrangement at kpkt.gov.my or bomba.gov.my before relying on it in official documents."
 
 lang: "en"
-sourceContentHash: "5307d3e2bc542a5b"
+sourceContentHash: "abdab84b2d95cdb5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -187,7 +187,7 @@ Emergency Response Services), a single platform connecting five agencies —
 the police, Bomba, the Ministry of Health, the Malaysian Maritime Enforcement
 Agency and the civil defence force. State your location precisely and the
 type of emergency so that the call is routed to the correct agency.
-According to the Malaysia Civil Defence Force (APM), every call made through
+According to the [Malaysia Civil Defence Force](/public-safety/civil-defence-force-apm) (APM), every call made through
 the 999 emergency line is free.
 
 > **Nomenclature note:** the civil defence agency is now officially known as

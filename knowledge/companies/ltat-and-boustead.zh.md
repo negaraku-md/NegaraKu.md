@@ -29,7 +29,7 @@ faq:
     a: "这是一项针对 LTAT 及 Boustead 集团的重组计划，由 LTAT 董事会于 2024 年 8 月 9 日批准，并于 2024 年 12 月 13 日呈报内阁，目的是在三年内将战略资产持股降至 35%，同时避免被迫贱卖。"
 
 lang: "zh"
-sourceContentHash: "70fdd442be94bfeb"
+sourceContentHash: "bc79a003d2567110"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -90,7 +90,7 @@ keywords: ["LTAT", "Lembaga Tabung Angkatan Tentera", "Boustead Holdings", "Proj
 
 ## 什么是 LTAT，它保障哪些人？
 
-武装部队基金局（Lembaga Tabung Angkatan Tentera，LTAT）是依据**《1973 年武装部队基金法令》（Akta 101，第 101 号法令）**成立的法定机构。它作为马来西亚武装部队（ATM）人员的退休金基金——相当于公积金局（KWSP）但专为军人而设。
+武装部队基金局（Lembaga Tabung Angkatan Tentera，LTAT）是依据**《1973 年武装部队基金法令》（Akta 101，第 101 号法令）**成立的法定机构。它作为[马来西亚武装部队](/government/malaysian-armed-forces-mindef)（ATM）人员的退休金基金——相当于公积金局（KWSP）但专为军人而设。
 
 对于强制缴款者（其他军阶人员，Lain-Lain Pangkat），**月薪的 10%** 被扣作缴款，政府另补贴 **15%**——使每月合计 25% 的薪金被记入账户。自愿缴款者则每月可缴纳 **RM25 至 RM2,000**。
 

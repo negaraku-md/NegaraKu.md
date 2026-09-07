@@ -34,7 +34,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "71a3f2e066458448"
+sourceContentHash: "31afd040d92018fe"
 
 status: "published"
 aiAssisted: true
@@ -157,7 +157,7 @@ Ada satu perangkap. Pendaftaran GI Malaysia melindungi nama-nama ini **hanya di 
 
 ## Ke arah mana sasaran eksport menuju?
 
-Cita-cita Malaysia jelas. MATRADE, agensi promosi perdagangan negara, telah menetapkan sasaran **RM932.3 juta (kira-kira US$229 juta) dalam eksport durian ke China menjelang 2030**, diumumkan oleh pesuruhjaya perdagangan Niqman Rafaee M. Sahar pada pelancaran sebuah kedai perdana durian khas Malaysia di Beijing pada Julai 2026. Malaysia pada masa ini memegang anggaran 4–5% daripada pasaran durian China dan berhasrat untuk menggandakannya menjadi 8–10% dalam tempoh lima tahun.
+Cita-cita Malaysia jelas. [MATRADE](/government/matrade), agensi promosi perdagangan negara, telah menetapkan sasaran **RM932.3 juta (kira-kira US$229 juta) dalam eksport durian ke China menjelang 2030**, diumumkan oleh pesuruhjaya perdagangan Niqman Rafaee M. Sahar pada pelancaran sebuah kedai perdana durian khas Malaysia di Beijing pada Julai 2026. Malaysia pada masa ini memegang anggaran 4–5% daripada pasaran durian China dan berhasrat untuk menggandakannya menjadi 8–10% dalam tempoh lima tahun.
 
 Gambaran yang lebih luas lebih besar lagi. Dalam jawapan parlimen 7 Oktober 2025, Kementerian Pertanian dan Keterjaminan Makanan menjangkakan jumlah nilai eksport durian mencapai **RM1.8 bilion pada isi padu 69,000 tan menjelang 2030**, dan berkata ia sedang meneroka destinasi baharu — Taiwan dan Peru antaranya — untuk mengurangkan kebergantungan pada satu pasaran.
 

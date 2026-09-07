@@ -118,7 +118,7 @@ klinik atau hospital berkenaan untuk pengesahan di kaunter.
 
 Ini punca kekeliruan paling biasa. **mySalam** ialah skim berasingan —
 skim perlindungan takaful yang dikendalikan oleh Great Eastern Takaful
-Berhad di bawah Kementerian Kewangan Malaysia, bukan KKM/ProtectHealth.
+Berhad di bawah [Kementerian Kewangan Malaysia](/government/ministry-of-finance-treasury), bukan KKM/ProtectHealth.
 Kelayakan asasnya turut berdasarkan status penerima STR, tetapi
 bantuannya berbeza sama sekali:
 

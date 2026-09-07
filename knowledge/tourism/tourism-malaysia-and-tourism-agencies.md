@@ -122,7 +122,7 @@ Other states run comparable agencies: the **Sabah Tourism Board** markets Sabah,
 Tourism is only part of MOTAC's portfolio. The ministry oversees a family of departments and agencies spanning culture, heritage and the arts, including:
 
 - **Tourism Malaysia** — national tourism promotion
-- **Department of National Heritage** — heritage-site protection
+- **[Department of National Heritage](/government/department-of-national-heritage)** — heritage-site protection
 - **National Department for Culture and Arts (JKKN)** — arts and cultural programmes
 - **Islamic Tourism Centre (ITC)** — Islamic tourism products
 - **Malaysia Convention & Exhibition Bureau (MyCEB)** — business events and conventions

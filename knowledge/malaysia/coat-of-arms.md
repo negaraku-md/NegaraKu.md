@@ -125,7 +125,7 @@ Jabatan Penerangan menyatakan dengan jelas: "Lambang Kerajaan Persekutuan (Jata 
 Beberapa keputusan pentadbiran mengukuhkan penggunaan ini:
 
 - **Mesyuarat Jemaah Menteri 25 November 2016** memutuskan agar lambang rasmi kementerian, jabatan dan agensi Kerajaan Persekutuan digantikan dengan lambang Jata Negara bagi urusan rasmi.
-- **Pengecualian** diberikan kepada beberapa agensi yang mengekalkan lambang tersendiri, seperti Angkatan Tentera Malaysia dan Polis Diraja Malaysia.
+- **Pengecualian** diberikan kepada beberapa agensi yang mengekalkan lambang tersendiri, seperti [Angkatan Tentera Malaysia](/government/malaysian-armed-forces-mindef) dan Polis Diraja Malaysia.
 
 Jata Negara juga dilindungi oleh **Akta Lambang dan Nama (Mencegah Penggunaan Tak Wajar) 1963 [Akta 414]**, yang menghalang penggunaan lambang kebesaran negara secara tidak wajar bagi tujuan perniagaan atau lain-lain tanpa kebenaran.
 

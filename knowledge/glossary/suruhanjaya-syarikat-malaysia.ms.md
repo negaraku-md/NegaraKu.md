@@ -38,7 +38,7 @@ faq:
     a: "SSM mentadbir dan menguatkuasakan peraturan tersebut, tetapi peraturan itu berpunca daripada statut. Penyata tahunan dikehendaki di bawah Akta Syarikat 2016, dan konsep modal berbayar juga datang daripada Akta yang sama. SSM menerima pemfailan, mengeluarkan Arahan Amalan mengenai prosedur dan penalti, serta mengambil tindakan penguatkuasaan terhadap pihak yang mungkir."
 
 lang: "ms"
-sourceContentHash: "d49c7baa8de083c0"
+sourceContentHash: "48b70b131a01ea95"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -141,7 +141,7 @@ Kedua-duanya merujuk kepada organisasi yang benar-benar sama.
 | Undang-undang pemboleh | Akta Suruhanjaya Syarikat Malaysia 2001 (Akta 614) |
 | Mula beroperasi | 16 April 2002 (instrumen permulaan kuat kuasa P.U.(B) 127/2002) |
 | Dibentuk melalui gabungan | Pendaftar Syarikat (ROC) + Pendaftar Perniagaan (ROB) |
-| Melapor kepada | Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup |
+| Melapor kepada | [Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup](/government/ministry-of-domestic-trade-kpdn) |
 | Laman web rasmi | `ssm.com.my` |
 
 ## Mengapa SSM diwujudkan?

@@ -29,7 +29,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "11b7e51e8359a7c0"
+sourceContentHash: "1a13bdbeb8de806f"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -82,7 +82,7 @@ keywords: ["MyIPO", "Intellectual Property Corporation of Malaysia", "Perbadanan
 
 如果你在马来西亚发明了某样东西、打造了一个品牌、设计了一款产品，或想保护某种地方特产，几乎所有这些事都只有一个办事窗口——而你很容易被一个只想向你推销单一服务的网页引到错误的服务上。**MyIPO**，即马来西亚知识产权局（马来文：*Perbadanan Harta Intelek Malaysia*），是负责发展和管理马来西亚整套知识产权体系的法定机构。这涵盖工业产权——专利、商标、工业设计和集成电路布图设计——以及版权和相关权利。
 
-MyIPO 依据**《2002 年马来西亚知识产权局法令》（Act 617）**设立，该法令旨在设立本局并规定其职能和权力。它于**2003 年 3 月 3 日**（宪报通告 P.U. (B) 102/2003）开始运作，自此作为一个公司化的法定机构运营。它是隶属**国内贸易及生活成本部（KPDN）**的联邦机构。其既定使命是提供强健的法律基础设施和有效的行政管理体制，以促进创意及知识产权的运用。
+MyIPO 依据**《2002 年马来西亚知识产权局法令》（Act 617）**设立，该法令旨在设立本局并规定其职能和权力。它于**2003 年 3 月 3 日**（宪报通告 P.U. (B) 102/2003）开始运作，自此作为一个公司化的法定机构运营。它是隶属**[国内贸易及生活成本部](/government/ministry-of-domestic-trade-kpdn)（KPDN）**的联邦机构。其既定使命是提供强健的法律基础设施和有效的行政管理体制，以促进创意及知识产权的运用。
 
 ## MyIPO 管理哪些权利，各自的有效期是多久？
 

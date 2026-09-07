@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "学生、教师、公务员、新闻工作者，以及任何在护照、硬币、政府公函或官方建筑上见过 Jata Negara、并想了解每个元素含义的人。"
 
 lang: "zh"
-sourceContentHash: "954019be58e311a6"
+sourceContentHash: "20de32f1b32c3504"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -126,7 +126,7 @@ keywords: ["Jata Negara", "lambang kebangsaan Malaysia", "Bersekutu Bertambah Mu
 数项行政决定进一步强化了这项使用规定：
 
 - **2016年11月25日的内阁会议**决定，联邦政府各部门、单位与机构的官方徽记，应改用 Jata Negara 徽章处理公务。
-- 少数机构获得**豁免**，得以保留自身的徽记，例如马来西亚武装部队与皇家马来西亚警察。
+- 少数机构获得**豁免**，得以保留自身的徽记，例如[马来西亚武装部队](/government/malaysian-armed-forces-mindef)与皇家马来西亚警察。
 
 Jata Negara 同时受**《1963年徽章与名称（防止不当使用）法令》（第414号法令）**保护，该法令禁止未经许可，将国家的这枚荣誉徽章用于商业或其他不当用途。
 

@@ -113,7 +113,7 @@ Kampung Tradisi di negeri itu.
 
 ## Kesilapan lazim
 
-- **Menyamakan JPKK dengan Rukun Tetangga (KRT) atau Persatuan Penduduk (RA).**
+- **Menyamakan JPKK dengan [Rukun Tetangga](/public-safety/community-policing-rukun-tetangga) (KRT) atau Persatuan Penduduk (RA).**
   KRT dikendalikan Jabatan Perpaduan Negara dan lebih tertumpu di kawasan
   perumahan; RA pula badan yang didaftarkan sendiri oleh penduduk. JPKK ialah
   struktur desa di bawah KKDW.

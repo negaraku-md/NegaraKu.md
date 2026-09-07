@@ -39,7 +39,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ee81ef22057b8bb3"
+sourceContentHash: "b26c1d94188332f9"
 
 status: "published"
 aiAssisted: true
@@ -95,7 +95,7 @@ Akta Keselamatan Siber 2024 digubal sebagai **Akta 854**. Ia menerima Perkenan D
 Statut ini melakukan beberapa perkara sekali gus:
 
 - Ia menubuhkan **Jawatankuasa Keselamatan Siber Negara** sebagai badan tadbir urus bagi dasar siber negara.
-- Ia menetapkan kewajipan dan kuasa **Agensi Keselamatan Siber Negara (NACSA)** serta **Ketua Pegawai Eksekutifnya**, yang merupakan pengawal selia harian di bawah Akta ini.
+- Ia menetapkan kewajipan dan kuasa **[Agensi Keselamatan Siber Negara](/technology/nacsa-cybersecurity-malaysia) (NACSA)** serta **Ketua Pegawai Eksekutifnya**, yang merupakan pengawal selia harian di bawah Akta ini.
 - Ia mewujudkan konsep **Infrastruktur Maklumat Kritikal Negara (NCII)** dan satu mekanisme untuk menetapkan entiti yang memiliki atau mengendalikannya.
 - Ia mengenakan kod amalan, kewajipan pelaporan insiden, penilaian risiko dan audit ke atas entiti tersebut.
 - Ia memperkenalkan **rejim pelesenan** bagi penyedia perkhidmatan keselamatan siber yang tertentu.

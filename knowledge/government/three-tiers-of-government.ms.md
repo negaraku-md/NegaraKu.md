@@ -23,7 +23,7 @@ appliesTo: "Sesiapa yang cuba mengetahui peringkat kerajaan mana yang perlu dihu
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "1d2f38974439f947"
+sourceContentHash: "c6bdf9ccfb5d174a"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -106,7 +106,7 @@ Butiran terakhir itulah punca peringkat ketiga wujud, dan di situlah kuasa Senar
 
 Butiran 4 Senarai Negeri memberikan negeri-negeri kuasa untuk menggubal undang-undang mengenai kerajaan tempatan. Pada praktiknya, Parlimen yang menjalankan kuasa itu bagi pihak mereka: **Local Government Act 1976 (Act 171)** ialah statut persekutuan yang diterima pakai oleh negeri-negeri Semenanjung Malaysia untuk menyeragamkan cara majlis mereka beroperasi, di bawah mekanisme Perlembagaan yang membolehkan Parlimen menggubal undang-undang keseragaman ke atas sesuatu subjek Senarai Negeri. Sabah dan Sarawak pula menjalankan undang-undang kerajaan tempatan mereka sendiri — Local Government Ordinance 1961 di Sabah, dan satu rangka kerja ordinan berasingan di Sarawak — mencerminkan corak yang lebih luas di mana kedua-dua negeri itu mengekalkan lebih banyak kebebasan perundangan selepas 1963.
 
-Pihak berkuasa tempatan sendiri terbahagi kepada tiga jenis, digredkan oleh Jabatan Kerajaan Tempatan (JKT) di bawah Kementerian Perumahan dan Kerajaan Tempatan berdasarkan penduduk dan hasil tahunan:
+Pihak berkuasa tempatan sendiri terbahagi kepada tiga jenis, digredkan oleh Jabatan Kerajaan Tempatan (JKT) di bawah [Kementerian Perumahan dan Kerajaan Tempatan](/government/ministry-of-housing-local-government-kpkt) berdasarkan penduduk dan hasil tahunan:
 
 | Jenis | Istilah Melayu | Ambang (JKT) | Tumpuan biasa |
 | --- | --- | --- | --- |

@@ -140,7 +140,7 @@ Both refer to exactly the same organisation.
 | Enabling law | Companies Commission of Malaysia Act 2001 (Act 614) |
 | Came into operation | 16 April 2002 (commencement instrument P.U.(B) 127/2002) |
 | Formed by merging | Registrar of Companies (ROC) + Registrar of Businesses (ROB) |
-| Reports to | Ministry of Domestic Trade and Cost of Living |
+| Reports to | [Ministry of Domestic Trade and Cost of Living](/government/ministry-of-domestic-trade-kpdn) |
 | Official website | `ssm.com.my` |
 
 ## Why was SSM created?

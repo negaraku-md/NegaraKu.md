@@ -127,7 +127,7 @@ Kerajaan Persekutuan, melalui menteri seperti Azalina Othman Said, menyatakan ba
 
 ## Bagaimana pertikaian ini dimainkan di mahkamah dan meja rundingan?
 
-Selain tuntutan Kelantan yang kemudiannya ditarik balik, garis retak yang paling aktif ialah antara Petronas dan Sarawak. Sarawak menubuhkan syarikat minyak negerinya, Petroleum Sarawak Berhad (Petros), pada 7 Ogos 2017, dan menggubal Ordinan Pengagihan Gas (Distribution of Gas Ordinance) 2016. Petros menuntut hak sebagai pengagregat gas tunggal di bawah undang-undang negeri itu, manakala Petronas berpegang bahawa haknya di bawah Akta Kemajuan Petroleum 1974 mengatasi undang-undang negeri.
+Selain tuntutan Kelantan yang kemudiannya ditarik balik, garis retak yang paling aktif ialah antara Petronas dan Sarawak. Sarawak menubuhkan syarikat minyak negerinya, [Petroleum Sarawak Berhad](/energy/sarawak-petros-gas-dispute) (Petros), pada 7 Ogos 2017, dan menggubal Ordinan Pengagihan Gas (Distribution of Gas Ordinance) 2016. Petros menuntut hak sebagai pengagregat gas tunggal di bawah undang-undang negeri itu, manakala Petronas berpegang bahawa haknya di bawah Akta Kemajuan Petroleum 1974 mengatasi undang-undang negeri.
 
 Beberapa perkembangan telah dilaporkan secara terbuka: pada Mei 2020, Petronas dilaporkan bersetuju membayar RM2 bilion cukai jualan produk petroleum kepada Sarawak sebagai satu penyelesaian; dan pada Mei 2025, Perdana Menteri dan Premier Sarawak dilaporkan menandatangani deklarasi bersama yang mengiktiraf kedua-dua Akta Kemajuan Petroleum 1974 dan Ordinan Pengagihan Gas. Susunan komersial dan politik ini wujud selari dengan — dan tidak menyelesaikan sepenuhnya — persoalan perlembagaan asas tentang bidang kuasa.
 

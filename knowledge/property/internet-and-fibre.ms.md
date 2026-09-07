@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Sesiapa sahaja yang menyewa, membeli atau berpindah masuk ke sebuah rumah di Malaysia yang perlu menyambungkan jalur lebar tetap."
 
 lang: "ms"
-sourceContentHash: "3f90ffb3d97f1bcf"
+sourceContentHash: "651bab79a176221b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -76,7 +76,7 @@ pemasangan bahawa juruteknik sebenarnya tidak dapat menarik talian masuk ke unit
 ## Liputan menentukan lebih daripada sekadar kesetiaan jenama
 
 Pelaksanaan fibre di Malaysia telah didorong selama bertahun-tahun oleh
-**JENDELA** (Jalinan Digital Negara), penggerak konektiviti kebangsaan yang
+**[JENDELA](/technology/5g-jendela-dnb-malaysia)** (Jalinan Digital Negara), penggerak konektiviti kebangsaan yang
 dijalankan di bawah Suruhanjaya Komunikasi dan Multimedia Malaysia (MCMC).
 Fasa pertamanya menetapkan sasaran untuk memperluaskan capaian fibre kepada
 berjuta-juta premis di seluruh negara serta meluaskan liputan berkeupayaan

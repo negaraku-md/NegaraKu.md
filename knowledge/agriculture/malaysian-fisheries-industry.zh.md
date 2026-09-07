@@ -36,7 +36,7 @@ faq:
     a: "在《1985 年渔业法令》于 2019 年修正（A1601 号法令）之后，越界侵入的外国渔船船东或船长的最高罚款从 100 万令吉提高至 600 万令吉，每名船员则从 10 万令吉提高至 60 万令吉。"
 
 lang: "zh"
-sourceContentHash: "9da87c4c47826890"
+sourceContentHash: "f5794964e422efce"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -150,7 +150,7 @@ keywords: ["industri perikanan malaysia", "pengeluaran ikan malaysia", "akuakult
 上岸综合设施、发放信贷与奖掖，并管理诸如自然灾害援助计划
 与渔民福利等援助，在风暴或季候风摧毁收入时提供帮助。
 
-**马来西亚海事执法机构（MMEA）**是海上执法之臂。当外国
+**[马来西亚海事执法机构](/public-safety/maritime-enforcement-agency-mmea)（MMEA）**是海上执法之臂。当外国
 渔船越界侵入或本地渔民违反分区规定时，正是 MMEA 负责拦截、
 扣留并将案件带上诉讼。这三个机构相互衔接——DOF 制定规则，
 LKIM 支持遵守规则的渔民，而 MMEA 逮捕违反规则者。

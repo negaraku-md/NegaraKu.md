@@ -29,7 +29,7 @@ faq:
     a: "可以。SaveME 999 应用程序支持基于视频、文字和多媒体的紧急报警，而不仅限于语音通话，让残障人士（OKU）同样能够联系 999 接线员。"
 
 lang: "zh"
-sourceContentHash: "dddef6c730277cde"
+sourceContentHash: "a2e869579c3095a1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,7 +87,7 @@ keywords: ["999", "MERS 999", "nombor kecemasan", "SaveME 999", "talian kecemasa
 | 消防与拯救局（JBPM／Bomba） | 火灾、救援行动 |
 | 马来西亚卫生部（救护车／医院） | 医疗紧急情况 |
 | 民防部队（JPAM／APM） | 人道援助、灾难 |
-| 马来西亚海事执法机构（APMM） | 海上紧急情况 |
+| [马来西亚海事执法机构](/public-safety/maritime-enforcement-agency-mmea)（APMM） | 海上紧急情况 |
 
 ## 991 和 994 是如何合并的？
 

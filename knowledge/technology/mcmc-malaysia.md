@@ -127,7 +127,7 @@ Contoh peruntukan sebegini termasuk jalur IMT-2000 (3G), 900MHz dan 1800MHz yang
 
 ## Apakah peranan MCMC dalam JENDELA dan 5G?
 
-Di luar pelesenan, MCMC menerajui dasar sambungan negara. **JENDELA (Jalinan Digital Negara)** ialah pelan berpimpin MCMC untuk memperluas liputan dan meningkatkan kualiti jalur lebar sambil menyediakan negara untuk 5G.
+Di luar pelesenan, MCMC menerajui dasar sambungan negara. **[JENDELA](/technology/5g-jendela-dnb-malaysia) (Jalinan Digital Negara)** ialah pelan berpimpin MCMC untuk memperluas liputan dan meningkatkan kualiti jalur lebar sambil menyediakan negara untuk 5G.
 
 Fasa 1 (2020–2022) menyasarkan liputan 4G daripada 91.8% kepada 96.9%, kelajuan jalur lebar mudah alih daripada 25 Mbps kepada 35 Mbps, dan akses gigabit jalur lebar tetap kepada 83% premis di seluruh negara. Portal JENDELA turut menyenaraikan aspirasi nasional jangka panjang — akses gigabit untuk jalur lebar tetap, jalur lebar mudah alih 100 Mbps, dan liputan 4G 100%. Fasa 2 memberi tumpuan kepada pelaksanaan 5G selepas platform 4G kukuh, selaras dengan Rancangan Malaysia Ke-12 (RMK-12).
 

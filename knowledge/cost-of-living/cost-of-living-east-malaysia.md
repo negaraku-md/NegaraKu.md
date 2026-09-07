@@ -119,7 +119,7 @@ settled.
 
 ## What the government does about it
 
-Since February 2013, KPDN (the Ministry of Domestic Trade and Cost of Living)
+Since February 2013, KPDN (the [Ministry of Domestic Trade and Cost of Living](/government/ministry-of-domestic-trade-kpdn))
 has run the **Price Uniformity Program for Sabah, Sarawak and Labuan
 (PPHSSL)**, which standardises the retail price of three controlled items —
 sugar, wheat flour and cooking oil — with Peninsular Malaysia. Its stated

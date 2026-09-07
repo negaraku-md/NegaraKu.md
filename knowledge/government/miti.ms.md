@@ -39,7 +39,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "62f356a00af3159c"
+sourceContentHash: "cea0dd80e40bb2af"
 
 status: "published"
 aiAssisted: true
@@ -100,7 +100,7 @@ keywords: ["MITI Malaysia", "Ministry of Investment Trade and Industry", "MIDA",
 | Jenis | Kementerian persekutuan |
 | Dinamakan semula | 5 April 2023, daripada Ministry of International Trade and Industry — akronim sama, MITI |
 | Bidang tugas teras | Dasar pelaburan, perdagangan dan perindustrian; rundingan perjanjian perdagangan bebas |
-| Agensi utama | MIDA (pelaburan), MATRADE (eksport), ditambah kira-kira selusin lain |
+| Agensi utama | MIDA (pelaburan), [MATRADE](/government/matrade) (eksport), ditambah kira-kira selusin lain |
 | Laman web | `miti.gov.my` |
 
 ## Apa yang MITI sebenarnya lakukan

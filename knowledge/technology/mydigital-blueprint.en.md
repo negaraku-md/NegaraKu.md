@@ -36,7 +36,7 @@ faq:
     a: "MyDIGITAL is designed to complement national development policies such as the 12th Malaysia Plan (RMKe-12) and the Shared Prosperity Vision 2030 (WKB 2030), which recognise the digital economy as a Key Economic Growth Activity."
 
 lang: "en"
-sourceContentHash: "97af31bf4868cacc"
+sourceContentHash: "ef9dcf58a98e021b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -167,7 +167,7 @@ Its governance framework comprises:
 - A transparent monitoring and evaluation mechanism to create a two-way feedback loop (top-down and bottom-up).
 - Six dedicated clusters chaired by Ministers and the Chief Secretary to the Government, supported by subject-matter experts in three key areas: regulation, cybersecurity, and inclusion and sustainability.
 
-The operational delivery body for this initiative is **MyDIGITAL Corporation**, now under the Ministry of Digital.
+The operational delivery body for this initiative is **MyDIGITAL Corporation**, now under the [Ministry of Digital](/technology/ministry-of-digital-malaysia).
 
 ## How does MyDIGITAL differ from Malaysia Digital (MDEC)?
 

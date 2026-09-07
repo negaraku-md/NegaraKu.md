@@ -34,7 +34,7 @@ faq:
     a: "JAS menerbitkan talian aduan (03-8889 1972) dan talian bebas tol (1-800-88-2727) untuk aduan alam sekitar. Sahkan nombor semasa di doe.gov.my sebelum bergantung padanya."
 
 lang: "ms"
-sourceContentHash: "4c9f56d8128428a2"
+sourceContentHash: "03cee8394623a8f3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -174,8 +174,8 @@ Panduan ringkas: jika isunya ialah *pembuangan, pelepasan atau aliran buangan
 berbahaya*, ia adalah bidang JAS. Jika ia ialah *seekor harimau, konsesi
 pembalakan, atau lori sampah rumah tangga*, ia masing-masing adalah bidang
 Perhilitan, Perhutanan atau SWCorp. JAS, Jabatan Perhutanan (JPSM) dan Perhilitan
-semuanya berada di bawah NRES, manakala SWCorp beroperasi di bawah Kementerian
-Perumahan dan Kerajaan Tempatan (KPKT).
+semuanya berada di bawah NRES, manakala SWCorp beroperasi di bawah [Kementerian
+Perumahan dan Kerajaan Tempatan](/government/ministry-of-housing-local-government-kpkt) (KPKT).
 
 ## Apa seterusnya
 

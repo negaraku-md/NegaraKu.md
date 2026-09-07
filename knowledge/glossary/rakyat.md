@@ -114,7 +114,7 @@ dan program kerajaan Malaysia:
   [Dewan Rakyat](/glossary/dewan-rakyat).
 - **Rukun Negara** — ikrar kenegaraan yang diisytiharkan oleh Yang di-Pertuan
   Agong pada 31 Ogos 1970, menjadi "pegangan, panduan serta amalan oleh
-  seluruh rakyat Malaysia", menurut Majlis Keselamatan Negara (MKN).
+  seluruh rakyat Malaysia", menurut [Majlis Keselamatan Negara](/government/national-security-council-mkn) (MKN).
 - **Pelbagai bantuan dan bayaran kerajaan** yang menggunakan perkataan
   "rakyat" dalam namanya dari semasa ke semasa, sebagai cara merujuk kepada
   penerima secara umum tanpa mengehadkannya kepada taraf undang-undang

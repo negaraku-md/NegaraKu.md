@@ -30,7 +30,7 @@ faq:
     a: "该措施宣布拟于2026年前推行，不过官员已示意时间表可能会重新检讨。"
 
 lang: "zh"
-sourceContentHash: "02ce700fa01060f4"
+sourceContentHash: "1b480b649a14d8fe"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -125,7 +125,7 @@ keywords: ["Malaysia carbon tax", "carbon pricing Malaysia", "iron steel energy 
 
 - **《国家碳市场政策》（NCMP）**——由 NRES 推出，旨在征税前建立碳信用交易的框架。
 - **《气候变化法案》（RUU PIN）**——正推进至提呈国会阶段；其用意是建立监测、报告与核查（MRV）系统，并为未来的排放交易机制奠定法律基础。
-- **国家能源转型基金（NETF）**——在2026年财政预算案下获拨1亿5000万令吉，以支持《国家能源转型路线图》，碳税收入预料将流入其中。
+- **国家能源转型基金（NETF）**——在2026年财政预算案下获拨1亿5000万令吉，以支持《[国家能源转型路线图](/energy/national-energy-transition-roadmap-netr)》，碳税收入预料将流入其中。
 
 综合来看，这些举措支撑马来西亚的目标：到2030年将全经济范围的碳强度较2005年削减45%，并在2050年前实现净零排放（据 ICAP 追踪平台）。
 

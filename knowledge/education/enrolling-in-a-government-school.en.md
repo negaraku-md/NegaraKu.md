@@ -33,7 +33,7 @@ revisions:
     change: "Approved and published."
     reviewer: null
 updated: 2026-07-24
-sourceContentHash: "1bc86867ce3fe080"
+sourceContentHash: "0c89415b8941ca0c"
 sources:
   - title: "Pendaftaran (Pendaftaran Murid Tahun 1)"
     url: "https://www.moe.gov.my/pendaftaran-sr"
@@ -84,7 +84,7 @@ the MYGovernment portal.
 The registration period opens every year, usually around February to March,
 for entry into the following year's academic session. For example,
 registration for the 2027 academic calendar opens **15 February to 31 March
-2026**, as announced by the National Security Council (MKN) and the
+2026**, as announced by the [National Security Council](/government/national-security-council-mkn) (MKN) and the
 official KPM portal. The exact dates and age cohort change every session —
 always check the current announcement at idme.moe.gov.my or moe.gov.my
 before acting on an old date.

@@ -129,7 +129,7 @@ DOE memetakan setiap julat API kepada status kesihatan dan nasihat tindakan. Jad
 | 101–200 | Tidak Sihat | Memburukkan keadaan golongan berisiko tinggi (pesakit jantung dan paru-paru) | Golongan berisiko hadkan aktiviti luar; orang awam kurangkan aktiviti lasak |
 | 201–300 | Sangat Tidak Sihat | Menjejaskan toleransi senaman dan kesihatan awam | Warga emas dan golongan berisiko duduk dalam rumah; pesakit dinasihat berjumpa doktor |
 | > 300 | Berbahaya | Berbahaya kepada golongan berisiko dan kesihatan awam | Golongan berisiko dilarang beraktiviti luar; orang awam elakkan aktiviti luar |
-| > 500 | Kecemasan | Berbahaya kepada golongan berisiko dan kesihatan awam | Orang awam ikut arahan Majlis Keselamatan Negara dan pengumuman media |
+| > 500 | Kecemasan | Berbahaya kepada golongan berisiko dan kesihatan awam | Orang awam ikut arahan [Majlis Keselamatan Negara](/government/national-security-council-mkn) dan pengumuman media |
 
 Nota tentang julat: jadual rasmi DOE menyenaraikan band tertinggi secara terbuka sebagai "> 300" (Berbahaya) dan "> 500" (Kecemasan). Secara praktik, ini bermaksud band **Berbahaya meliputi 301–500** dan **Kecemasan bermula melebihi 500**.
 

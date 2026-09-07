@@ -121,7 +121,7 @@ This article focuses on the three that matter most to almost every business — 
 
 ## Who administers IP — and where does MyIPO fit?
 
-Almost every registrable IP right in Malaysia passes through one body: the **Intellectual Property Corporation of Malaysia**, known as **MyIPO** (*Perbadanan Harta Intelek Malaysia*). It is a statutory corporation under the Ministry of Domestic Trade and Cost of Living (KPDN), and it is responsible for developing and administering the national IP system.
+Almost every registrable IP right in Malaysia passes through one body: the **Intellectual Property Corporation of Malaysia**, known as **MyIPO** (*Perbadanan Harta Intelek Malaysia*). It is a statutory corporation under the [Ministry of Domestic Trade and Cost of Living](/government/ministry-of-domestic-trade-kpdn) (KPDN), and it is responsible for developing and administering the national IP system.
 
 MyIPO is where you:
 

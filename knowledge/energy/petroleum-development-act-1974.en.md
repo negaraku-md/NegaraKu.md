@@ -34,7 +34,7 @@ faq:
     a: "Section 3 places Petronas under the control and direction of the Prime Minister, whose directions bind the corporation. Section 6 requires the Prime Minister's permission before anyone other than Petronas carries out processing, refining or the manufacture of petrochemical products, and Section 7 gives the Prime Minister the power to make regulations."
 
 lang: "en"
-sourceContentHash: "c2d4f18e78fe25a8"
+sourceContentHash: "7e742ec88e8babf9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -128,7 +128,7 @@ The Federal Government, through ministers such as Azalina Othman Said, has state
 
 ## How has this dispute played out in the courts and at the negotiating table?
 
-Besides Kelantan's later-withdrawn claim, the most active fault line is between Petronas and Sarawak. Sarawak established its state oil company, Petroleum Sarawak Berhad (Petros), on 7 August 2017, and enacted the Distribution of Gas Ordinance 2016. Petros claims the right to be the sole gas aggregator under that state law, while Petronas holds that its rights under the Petroleum Development Act 1974 override state law.
+Besides Kelantan's later-withdrawn claim, the most active fault line is between Petronas and Sarawak. Sarawak established its state oil company, [Petroleum Sarawak Berhad](/energy/sarawak-petros-gas-dispute) (Petros), on 7 August 2017, and enacted the Distribution of Gas Ordinance 2016. Petros claims the right to be the sole gas aggregator under that state law, while Petronas holds that its rights under the Petroleum Development Act 1974 override state law.
 
 Several developments have been reported publicly: in May 2020, Petronas was reported to have agreed to pay RM2 billion in sales tax on petroleum products to Sarawak as a settlement; and in May 2025, the Prime Minister and the Premier of Sarawak were reported to have signed a joint declaration recognising both the Petroleum Development Act 1974 and the Distribution of Gas Ordinance. These commercial and political arrangements exist alongside — and do not fully resolve — the underlying constitutional question of jurisdiction.
 

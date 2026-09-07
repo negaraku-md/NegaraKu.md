@@ -40,7 +40,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ea3cb80f57a8dca1"
+sourceContentHash: "9b9e8ce352a97c10"
 
 status: "published"
 aiAssisted: true
@@ -122,7 +122,7 @@ Artikel ini menumpukan pada tiga yang paling penting kepada hampir setiap pernia
 
 ## Siapa yang mentadbir HI — dan di mana kedudukan MyIPO?
 
-Hampir setiap hak HI yang boleh didaftarkan di Malaysia melalui satu badan: **Perbadanan Harta Intelek Malaysia**, yang dikenali sebagai **MyIPO** (*Perbadanan Harta Intelek Malaysia*). Ia ialah sebuah perbadanan berkanun di bawah Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup (KPDN), dan ia bertanggungjawab untuk membangunkan dan mentadbir sistem HI kebangsaan.
+Hampir setiap hak HI yang boleh didaftarkan di Malaysia melalui satu badan: **Perbadanan Harta Intelek Malaysia**, yang dikenali sebagai **MyIPO** (*Perbadanan Harta Intelek Malaysia*). Ia ialah sebuah perbadanan berkanun di bawah [Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup](/government/ministry-of-domestic-trade-kpdn) (KPDN), dan ia bertanggungjawab untuk membangunkan dan mentadbir sistem HI kebangsaan.
 
 MyIPO ialah tempat anda:
 

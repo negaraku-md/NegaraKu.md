@@ -33,7 +33,7 @@ faq:
     a: "前往主管机构自己的网站——Cradle、MDEC、MIDA、SME Corp、MTDC、MRANTI、MATRADE、HRD Corp——而不是第三方清单文章，后者常把已关闭的计划仍列为可用。政府也在 MyStartup 全国资助门户运营一个汇总目录。拨款窗口随年度预算案变动，因此在你投入时间准备申请之前，请确认当前状态。"
 
 lang: "zh"
-sourceContentHash: "a2b08aa3aeaffa10"
+sourceContentHash: "7466f2a7eef60107"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -89,7 +89,7 @@ keywords: ["government grants malaysia", "SME grant malaysia", "startup grant ma
 |---|---|---|
 | **真正／配对拨款** | 无需偿还；配对拨款在你出资其余部分时承担某个百分比 | MDEC MDCG、MSME Digital Grant MADANI、MRANTI SRF |
 | **有条件／可追回拨款** | 若你未达成条件即可被收回的拨款 | Cradle CIP Spark、CIP Sprint |
-| **报销** | 你先支出，然后申领部分回来 | HRD Corp 培训拨款、MATRADE MDG |
+| **报销** | 你先支出，然后申领部分回来 | HRD Corp 培训拨款、[MATRADE](/government/matrade) MDG |
 | **定制激励** | 经协商的支持，而非直接的拨款 | MIDA DISF |
 | **贷款／债务** | 需偿还的融资 | Malaysia Debt Ventures |
 | **股权** | 政府取得股份 | MTDC Business Growth Fund、Penjana Kapital |

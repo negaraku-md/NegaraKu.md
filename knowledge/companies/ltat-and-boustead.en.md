@@ -29,7 +29,7 @@ faq:
     a: "It is a restructuring plan for LTAT and the Boustead group that was approved by the LTAT board on 9 August 2024 and reported to the Cabinet on 13 December 2024, aimed at reducing strategic-asset holdings to 35% within three years while avoiding forced sales."
 
 lang: "en"
-sourceContentHash: "70fdd442be94bfeb"
+sourceContentHash: "bc79a003d2567110"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -90,7 +90,7 @@ Every Malaysian soldier and sailor sets aside a portion of their salary in one a
 
 ## What is LTAT and whom does it protect?
 
-The Armed Forces Fund Board (Lembaga Tabung Angkatan Tentera, LTAT) is a statutory body established under the **Armed Forces Fund Act 1973 (Act 101)**. It functions as the retirement fund for members of the Malaysian Armed Forces (MAF) — the equivalent of the EPF but dedicated to service personnel.
+The Armed Forces Fund Board (Lembaga Tabung Angkatan Tentera, LTAT) is a statutory body established under the **Armed Forces Fund Act 1973 (Act 101)**. It functions as the retirement fund for members of the [Malaysian Armed Forces](/government/malaysian-armed-forces-mindef) (MAF) — the equivalent of the EPF but dedicated to service personnel.
 
 For mandatory contributors (Other Ranks personnel), **10% of the monthly salary** is deducted as a contribution, and the government tops it up by **15%** — meaning 25% of the salary is credited each month. Voluntary contributors, meanwhile, may contribute between **RM25 and RM2,000** a month.
 

@@ -89,7 +89,7 @@ Setiap askar dan pelaut Malaysia menyimpan sebahagian gajinya di satu tempat yan
 
 ## Apakah LTAT dan siapa yang dilindunginya?
 
-Lembaga Tabung Angkatan Tentera (LTAT) ialah badan berkanun yang ditubuhkan di bawah **Akta Tabung Angkatan Tentera 1973 (Akta 101)**. Ia berfungsi sebagai kumpulan wang persaraan bagi anggota Angkatan Tentera Malaysia (ATM) — setara dengan KWSP tetapi khusus untuk warga tentera.
+Lembaga Tabung Angkatan Tentera (LTAT) ialah badan berkanun yang ditubuhkan di bawah **Akta Tabung Angkatan Tentera 1973 (Akta 101)**. Ia berfungsi sebagai kumpulan wang persaraan bagi anggota [Angkatan Tentera Malaysia](/government/malaysian-armed-forces-mindef) (ATM) — setara dengan KWSP tetapi khusus untuk warga tentera.
 
 Bagi pencarum wajib (anggota Lain-Lain Pangkat), **10% gaji bulanan** dipotong sebagai caruman, dan kerajaan menokok **15%** — menjadikan 25% gaji dikreditkan setiap bulan. Pencarum sukarela pula boleh menyumbang antara **RM25 hingga RM2,000** sebulan.
 

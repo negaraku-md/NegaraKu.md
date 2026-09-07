@@ -96,7 +96,7 @@ keywords: ["ekonomi digital", "MSC Malaysia", "Koridor Raya Multimedia", "MyDIGI
 
 Pada tahun 1996, Malaysia melakar sebidang tanah pertanian di selatan Kuala Lumpur dan mengisytiharkannya sebagai koridor teknologi masa depan negara. Hampir tiga dekad kemudian, hampir satu ringgit daripada setiap empat ringgit yang dijana ekonomi negara mengalir melalui skrin, pelayan dan troli beli-belah dalam talian. Perjalanan antara dua titik itu bukan satu lonjakan tunggal — ia satu siri dasar yang bersambung, setiap satu membetulkan atau memperluas yang sebelumnya.
 
-Panduan ini menyusun tulang belakang dasar digital kebangsaan mengikut urutan masa: dari Koridor Raya Multimedia (MSC), melalui era Digital Malaysia dan e-dagang, ke blueprint MyDIGITAL, dan akhirnya kepada struktur institusi baharu — Kementerian Digital dan Pejabat AI Kebangsaan. Memahami urutan ini ialah cara terpantas membaca ke mana arah tuju negara.
+Panduan ini menyusun tulang belakang dasar digital kebangsaan mengikut urutan masa: dari Koridor Raya Multimedia (MSC), melalui era Digital Malaysia dan e-dagang, ke blueprint MyDIGITAL, dan akhirnya kepada struktur institusi baharu — [Kementerian Digital](/technology/ministry-of-digital-malaysia) dan [Pejabat AI Kebangsaan](/technology/national-ai-office-malaysia). Memahami urutan ini ialah cara terpantas membaca ke mana arah tuju negara.
 
 ## Mengapa garis masa ini penting?
 

@@ -35,7 +35,7 @@ faq:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "5cff2d250f353ed1"
+sourceContentHash: "9173bdd2a2224732"
 
 status: "published"
 aiAssisted: true
@@ -135,7 +135,7 @@ The main agenda of this campaign is reform. Lukanisman stressed that the veto po
 
 Malaysia's contribution to UN peacekeeping began almost simultaneously with its membership. In October 1960 — only three years after independence — the Federation of Malaya sent roughly 3,500 personnel to the UN Operation in the Congo (ONUC). That deployment became the origin of MALBATT (the Malaysian Battalion), a name that later became synonymous with Malaysia's presence in peacekeeping missions around the world.
 
-According to the United Nations, since 1960 Malaysia has contributed **more than 29,000 peacekeepers** from the Malaysian Armed Forces and the Royal Malaysia Police — making it one of the consistent contributors from Southeast Asia. In the statement by the Minister of Defence Malaysia at the UN Peacekeeping Ministerial 2025, it was stated that since 1960 Malaysia has taken part in **more than 38 peacekeeping operations**, with 876 Malaysian peacekeepers currently serving in five peacekeeping operations and one special political mission. As of 31 January 2025, the UN ranked Malaysia 21st out of 120 uniformed-personnel-contributing countries. To support the training and deployment of personnel, Malaysia also established the Malaysian Peacekeeping Centre in 1996.
+According to the United Nations, since 1960 Malaysia has contributed **more than 29,000 peacekeepers** from the [Malaysian Armed Forces](/government/malaysian-armed-forces-mindef) and the Royal Malaysia Police — making it one of the consistent contributors from Southeast Asia. In the statement by the Minister of Defence Malaysia at the UN Peacekeeping Ministerial 2025, it was stated that since 1960 Malaysia has taken part in **more than 38 peacekeeping operations**, with 876 Malaysian peacekeepers currently serving in five peacekeeping operations and one special political mission. As of 31 January 2025, the UN ranked Malaysia 21st out of 120 uniformed-personnel-contributing countries. To support the training and deployment of personnel, Malaysia also established the Malaysian Peacekeeping Centre in 1996.
 
 This commitment continues to this day. Malaysia joined the UN Interim Force in Lebanon (UNIFIL) in 2006. As of 1 July 2026 it contributes **516 personnel** to the UNIFIL force of 7,448 people, down from 830 personnel (in a force of 10,509 people) on 1 August 2025. Through Resolution 2790 (2025), the Security Council extended UNIFIL's mandate for the final time until 31 December 2026, with an orderly and safe withdrawal beginning from that date and expected to be completed within one year — that is, by the end of 2027.
 

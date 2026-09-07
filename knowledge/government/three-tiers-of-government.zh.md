@@ -23,7 +23,7 @@ appliesTo: "任何想弄清楚在马来西亚遇到特定问题时应该找哪�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "1d2f38974439f947"
+sourceContentHash: "c6bdf9ccfb5d174a"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -106,7 +106,7 @@ keywords: ["three tiers of government Malaysia", "federal state local government
 
 州清单 item 4 赋予各州就地方政府立法的权力。但实际上，是由国会代为行使这项权力：**Local Government Act 1976 (Act 171)** 是一部联邦法规，马来西亚半岛各州采纳它以统一各自议会的运作方式，依据的是宪法赋予国会就州清单事项立法划一性的机制。沙巴与砂拉越则施行各自的地方政府法律——沙巴的 Local Government Ordinance 1961，以及砂拉越另一套独立的条例框架——这反映了这两个州在1963年后保留更多立法自主权的更广泛格局。
 
-地方当局本身分为三种类型，由房屋及地方政府部辖下地方政府局（JKT）依人口与年收入分类：
+地方当局本身分为三种类型，由[房屋及地方政府部](/government/ministry-of-housing-local-government-kpkt)辖下地方政府局（JKT）依人口与年收入分类：
 
 | 类型 | 马来文用语 | 门槛（JKT） | 典型职能重点 |
 | --- | --- | --- | --- |

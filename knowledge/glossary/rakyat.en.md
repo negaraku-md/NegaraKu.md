@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Students, translators, journalists and anyone seeking to understand the difference between the socio-political term 'rakyat' and the legal term 'warganegara' in the Malaysian context."
 
 lang: "en"
-sourceContentHash: "fbeab4450bf533fd"
+sourceContentHash: "4db392730fe2ab93"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -113,8 +113,8 @@ Malaysian government bodies and programmes:
   [Dewan Rakyat](/en/glossary/dewan-rakyat).
 - **Rukun Negara** — the national pledge proclaimed by the Yang
   di-Pertuan Agong on 31 August 1970, to be "held, guided by and
-  practised by the whole rakyat of Malaysia", according to the National
-  Security Council (MKN).
+  practised by the whole rakyat of Malaysia", according to the [National
+  Security Council](/government/national-security-council-mkn) (MKN).
 - **Various government aid and payment schemes** that have used the
   word "rakyat" in their names from time to time, as a way of referring
   to recipients in general without limiting them to a particular legal

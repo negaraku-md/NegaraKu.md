@@ -29,7 +29,7 @@ faq:
     a: "Ya. Kedua-dua negeri mempunyai lembaga pelancongan tersendiri yang memasarkan negeri berkenaan, seiring dengan usaha kebangsaan Tourism Malaysia."
 
 lang: "ms"
-sourceContentHash: "f8806e78829db0a2"
+sourceContentHash: "353b6077a5a0f789"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -123,7 +123,7 @@ Negeri-negeri lain mengendalikan agensi yang setara: **Lembaga Pelancongan Sabah
 Pelancongan hanyalah sebahagian daripada portfolio MOTAC. Kementerian ini menyelia keluarga jabatan dan agensi yang merangkumi budaya, warisan dan seni, termasuk:
 
 - **Tourism Malaysia** — penggalakan pelancongan kebangsaan
-- **Jabatan Warisan Negara** — perlindungan tapak warisan
+- **[Jabatan Warisan Negara](/government/department-of-national-heritage)** — perlindungan tapak warisan
 - **Jabatan Kebudayaan dan Kesenian Negara (JKKN)** — program seni dan kebudayaan
 - **Pusat Pelancongan Islam (ITC)** — produk pelancongan Islam
 - **Biro Konvensyen & Pameran Malaysia (MyCEB)** — acara perniagaan dan konvensyen

@@ -42,7 +42,7 @@ faq:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "1a47d7c7f9cef605"
+sourceContentHash: "0ae54502024bdaab"
 
 verificationNeeded:
   - "e-Reporting的资格条件（马来西亚公民、18岁及以上）及可举报事项的完整清单——官方门户ereporting.rmp.gov.my无法访问以直接核实；须根据官方门户核实。"
@@ -111,7 +111,7 @@ keywords: ["laporan polis", "cara buat laporan polis", "e-reporting PDRM", "997 
 
 ## 何时该先拨打999？
 
-MERS 999（Malaysia Emergency Response Services）是政府倡议，把马来西亚的紧急号码统一为一个中央号码，即**999**。一通电话就能把你接通至五个紧急机构：马来西亚皇家警察、消防与拯救局、卫生部（救护车／医院）、民防部队，以及马来西亚海事执法机构。
+MERS 999（Malaysia Emergency Response Services）是政府倡议，把马来西亚的紧急号码统一为一个中央号码，即**999**。一通电话就能把你接通至五个紧急机构：马来西亚皇家警察、消防与拯救局、卫生部（救护车／医院）、民防部队，以及[马来西亚海事执法机构](/public-safety/maritime-enforcement-agency-mmea)。
 
 在有即时危险时使用999——正在发生的罪案、伤害、火灾或对生命的威胁。警官会询问紧急情况类型、案发地点和联络号码，然后再把电话转接至正确的机构。
 

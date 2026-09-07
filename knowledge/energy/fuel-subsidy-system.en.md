@@ -39,7 +39,7 @@ faq:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "c0d0abc8827bbcbf"
+sourceContentHash: "b4fd92803516f862"
 
 status: "published"
 aiAssisted: true
@@ -142,7 +142,7 @@ This shift — from *blanket* subsidies (everyone gets them) to *targeted* subsi
 
 According to the government's argument, blanket subsidies were too costly and most of their benefit went to those who needed it least.
 
-According to the Ministry of Finance, the RON95 subsidy alone cost **almost RM20 billion a year** in 2023 and 2024. Because that low price was given to *all* consumers, the government argued that a large share of public money also flowed to high-income earners who drive the most and are most able to pay the full price.
+According to the [Ministry of Finance](/government/ministry-of-finance-treasury), the RON95 subsidy alone cost **almost RM20 billion a year** in 2023 and 2024. Because that low price was given to *all* consumers, the government argued that a large share of public money also flowed to high-income earners who drive the most and are most able to pay the full price.
 
 For diesel, the government argued the problem was more acute. The government had spent **RM14.3 billion** on diesel subsidies, and stated that much of it leaked out — not to the people, but to cross-border smuggling and commercial abuse, because Malaysian diesel was far cheaper than in neighbouring countries.
 

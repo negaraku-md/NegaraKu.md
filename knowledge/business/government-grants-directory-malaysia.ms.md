@@ -33,7 +33,7 @@ faq:
     a: "Pergi ke laman web agensi pentadbir sendiri — Cradle, MDEC, MIDA, SME Corp, MTDC, MRANTI, MATRADE, HRD Corp — dan bukan senarai pihak ketiga, yang kerap mengekalkan program yang telah ditutup sebagai masih tersedia. Kerajaan juga mengendalikan direktori teragregat di portal pembiayaan kebangsaan MyStartup. Tempoh geran berubah bersama Belanjawan tahunan, jadi sahkan status semasa sebelum anda melabur masa dalam permohonan."
 
 lang: "ms"
-sourceContentHash: "a2b08aa3aeaffa10"
+sourceContentHash: "7466f2a7eef60107"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -89,7 +89,7 @@ Sebelum direktori, pengelasan yang menjimatkan masa anda:
 |---|---|---|
 | **Geran sebenar / padanan** | Tidak perlu dibayar balik; geran padanan membayar sebahagian % jika anda membiayai selebihnya | MDEC MDCG, MSME Digital Grant MADANI, MRANTI SRF |
 | **Geran bersyarat / tuntut balik** | Geran yang boleh dituntut semula jika anda gagal memenuhi syarat | Cradle CIP Spark, CIP Sprint |
-| **Bayaran balik** | Anda belanja dahulu, kemudian tuntut sebahagian semula | Geran latihan HRD Corp, MATRADE MDG |
+| **Bayaran balik** | Anda belanja dahulu, kemudian tuntut sebahagian semula | Geran latihan HRD Corp, [MATRADE](/government/matrade) MDG |
 | **Insentif tersuai** | Sokongan yang dirunding, bukan geran secara langsung | MIDA DISF |
 | **Pinjaman / hutang** | Pembiayaan yang perlu dibayar balik | Malaysia Debt Ventures |
 | **Ekuiti** | Kerajaan mengambil saham | MTDC Business Growth Fund, Penjana Kapital |

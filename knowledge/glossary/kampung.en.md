@@ -22,7 +22,7 @@ appliesTo: "Anyone trying to understand what 'kampung' means beyond its literal 
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "1dc194cfebb6f43b"
+sourceContentHash: "6ceb380a480b9192"
 
 status: "published"
 aiAssisted: true
@@ -117,7 +117,7 @@ Kampung Tradisi (traditional villages).
 
 ## Common mistakes
 
-- **Equating JPKK with Rukun Tetangga (KRT) or a Residents' Association
+- **Equating JPKK with [Rukun Tetangga](/public-safety/community-policing-rukun-tetangga) (KRT) or a Residents' Association
   (RA).** KRT is run by the Department of National Unity and is more focused
   on residential areas; an RA is a body residents register themselves. JPKK
   is a rural structure under KKDW.

@@ -34,7 +34,7 @@ faq:
     a: "两州都依据 1975 年协议主张 5% 的开采权益金。登嘉楼获得付款（尽管 2000 年前后曾改为'恩恤金'（wang ehsan），并于 2009 年恢复），而吉兰丹 2010 年的法庭诉讼于 2019 年被撤销。关键问题在于相关油井究竟位于州属水域（三海里界限内）还是在联邦管辖范围内。"
 
 lang: "zh"
-sourceContentHash: "c977b0aa913ac22e"
+sourceContentHash: "c93bc7f1b353ca1a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -169,7 +169,7 @@ keywords: ["Petronas", "Petroliam Nasional Berhad", "Akta Kemajuan Petroleum 197
 
 ## 砂拉越的诉求和 PETROS 议题是什么？
 
-目前最激烈的争议涉及砂拉越。该州于 2017 年成立了自己的石油天然气公司 **砂拉越石油有限公司（Petroleum Sarawak Berhad，PETROS）**，此后一直设法收回对其石油领域的掌控权。
+目前最激烈的争议涉及砂拉越。该州于 2017 年成立了自己的石油天然气公司 **[砂拉越石油有限公司](/energy/sarawak-petros-gas-dispute)（Petroleum Sarawak Berhad，PETROS）**，此后一直设法收回对其石油领域的掌控权。
 
 **砂拉越的立场。** 砂拉越主张，它对石油天然气的管辖权植根于马来西亚成立之前的法律——尤其是 **《1958 年石油矿业法令》**——并受 MA63 保护。依据 **《2016 年天然气分销法令》（DGO）**，砂拉越希望 PETROS 成为该州 **唯一的天然气整合商（gas aggregator）**，即唯一在砂拉越境内购买和分销天然气的实体。
 

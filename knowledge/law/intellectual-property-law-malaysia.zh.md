@@ -40,7 +40,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ea3cb80f57a8dca1"
+sourceContentHash: "9b9e8ce352a97c10"
 
 status: "published"
 aiAssisted: true
@@ -122,7 +122,7 @@ keywords: ["intellectual property Malaysia", "trademark registration Malaysia", 
 
 ## 谁管理知识产权——MyIPO 又处于什么位置？
 
-马来西亚几乎每一项可注册的知识产权都要经过同一个机构：**马来西亚知识产权局**，简称 **MyIPO**（*Perbadanan Harta Intelek Malaysia*）。它是隶属于国内贸易及生活成本部（KPDN）的法定机构，负责发展和管理国家知识产权体系。
+马来西亚几乎每一项可注册的知识产权都要经过同一个机构：**马来西亚知识产权局**，简称 **MyIPO**（*Perbadanan Harta Intelek Malaysia*）。它是隶属于[国内贸易及生活成本部](/government/ministry-of-domestic-trade-kpdn)（KPDN）的法定机构，负责发展和管理国家知识产权体系。
 
 MyIPO 是你办理以下事务的地方：
 

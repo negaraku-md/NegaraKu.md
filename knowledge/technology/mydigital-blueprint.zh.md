@@ -36,7 +36,7 @@ faq:
     a: "MyDIGITAL 旨在补足第十二大马计划（RMKe-12）与2030年共享繁荣愿景（WKB 2030）等国家发展政策，后者将数字经济列为一项关键经济增长活动。"
 
 lang: "zh"
-sourceContentHash: "97af31bf4868cacc"
+sourceContentHash: "ef9dcf58a98e021b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -167,7 +167,7 @@ MyDIGITAL 采用以交付为导向的治理框架。2020年11月，马来西亚�
 - 透明的监测与评估机制，以建立双向反馈回路（由上而下与由下而上）。
 - 六个由部长与国家总秘书担任主席的专门集群（cluster），并由三大关键领域的专家支持：监管、网络安全，以及包容与可持续性。
 
-该倡议的运营交付机构为 **MyDIGITAL Corporation**，目前隶属于数字部。
+该倡议的运营交付机构为 **MyDIGITAL Corporation**，目前隶属于[数字部](/technology/ministry-of-digital-malaysia)。
 
 ## MyDIGITAL 与 Malaysia Digital（MDEC）有何不同？
 

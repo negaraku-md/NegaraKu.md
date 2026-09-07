@@ -141,7 +141,7 @@ Peralihan ini — daripada subsidi *menyeluruh* (semua orang dapat) kepada subsi
 
 Menurut hujah kerajaan, subsidi menyeluruh terlalu mahal dan sebahagian besar manfaatnya tersasar kepada golongan yang tidak paling memerlukan.
 
-Menurut Kementerian Kewangan, subsidi RON95 sahaja menelan belanja **hampir RM20 bilion setahun** pada 2023 dan 2024. Kerana harga rendah itu diberikan kepada *semua* pengguna, kerajaan berhujah bahawa sebahagian besar wang rakyat turut mengalir kepada golongan berpendapatan tinggi yang paling banyak memandu dan paling mampu membayar harga penuh.
+Menurut [Kementerian Kewangan](/government/ministry-of-finance-treasury), subsidi RON95 sahaja menelan belanja **hampir RM20 bilion setahun** pada 2023 dan 2024. Kerana harga rendah itu diberikan kepada *semua* pengguna, kerajaan berhujah bahawa sebahagian besar wang rakyat turut mengalir kepada golongan berpendapatan tinggi yang paling banyak memandu dan paling mampu membayar harga penuh.
 
 Bagi diesel, kerajaan berhujah masalahnya lebih ketara. Kerajaan pernah membelanjakan **RM14.3 bilion** untuk subsidi diesel, dan menyatakan sebahagian besarnya bocor — bukan kepada rakyat, tetapi kepada penyeludupan merentas sempadan dan penyalahgunaan komersial kerana diesel Malaysia jauh lebih murah berbanding negara jiran.
 

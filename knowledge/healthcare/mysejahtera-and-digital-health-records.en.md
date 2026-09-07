@@ -29,7 +29,7 @@ faq:
     a: "The Auditor General's Report tabled in Parliament in February 2023 revealed that the personal information of 3 million vaccine recipients had been downloaded through a 'Super Admin' account of the MyVAS system between 28 and 31 October 2021."
 
 lang: "en"
-sourceContentHash: "c7fb585a7d74911f"
+sourceContentHash: "1889bed64a5f738d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -96,7 +96,7 @@ Basic health records such as screening results can also be displayed in the app,
 
 The government. MySejahtera was originally developed as a corporate social responsibility (CSR) initiative by KPISoft Malaysia — later known as Entomo Malaysia — from 27 March 2020 to 31 March 2021.
 
-The question of ownership sparked debate because its developer was a private company. The Cabinet resolved it through a memorandum approved on **26 November 2021**, transferring administration from the National Security Council to the Ministry of Health Malaysia as sole custodian and owner. In March 2022, the then Health Minister, Khairy Jamaluddin, affirmed that the government fully owns the data, trademark, application modules and source code, with the developer acting only as a "platform operator".
+The question of ownership sparked debate because its developer was a private company. The Cabinet resolved it through a memorandum approved on **26 November 2021**, transferring administration from the [National Security Council](/government/national-security-council-mkn) to the Ministry of Health Malaysia as sole custodian and owner. In March 2022, the then Health Minister, Khairy Jamaluddin, affirmed that the government fully owns the data, trademark, application modules and source code, with the developer acting only as a "platform operator".
 
 ## How did the 2022 data controversy shape public trust?
 

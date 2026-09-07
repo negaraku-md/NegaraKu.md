@@ -29,7 +29,7 @@ faq:
     a: "政府于1999年4月的一项研究发现，各机构之间存在职能重叠、管辖权重叠以及资源使用不经济的情况。设立 APMM 是为了将海事执法统一于一个机构之下。"
 
 lang: "zh"
-sourceContentHash: "2042dfbbda4fa0e9"
+sourceContentHash: "d5fb408e6cb3819a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -130,5 +130,5 @@ APMM 的愿景是“成为世界上最优秀的海事执法机构之一”，契
 ## 接下来
 
 - 如果您在海上需要紧急援助，请查阅 APMM 官方网站（mmea.gov.my）以获取最新的海事辖区联络方式。
-- 若要了解 APMM 如何与其他安全机构相辅相成，请阅读马来西亚皇家警察（PDRM）和马来西亚武装部队（ATM）的简介。
+- 若要了解 APMM 如何与其他安全机构相辅相成，请阅读马来西亚皇家警察（PDRM）和[马来西亚武装部队](/government/malaysian-armed-forces-mindef)（ATM）的简介。
 - 注：部分运作数据（船队规模、海事辖区/地区的确切数目）会随时间变化，除非能从官方来源核实，否则此处刻意不予列明。

@@ -24,7 +24,7 @@ appliesTo: "Sesiapa yang cuba memahami asas undang-undang sektor minyak dan gas 
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b1f34add97a933d2"
+sourceContentHash: "e00cfef3a5a059c4"
 
 status: "published"
 aiAssisted: true
@@ -101,7 +101,7 @@ keywords: ["Petroleum Development Act 1974", "Petronas ownership", "Malaysia oil
 
 Rakyat Malaysia tidak memiliki minyak Malaysia dengan cara yang disangka oleh kebanyakan orang. Begitu juga, secara ketatnya, negeri-negeri yang perairannya menjadi lokasi minyak itu tidak memilikinya.
 
-Sejak **1 Oktober 1974**, apabila Akta Pembangunan Petroleum 1974 berkuat kuasa, keseluruhan pemilikan petroleum di Malaysia telah menjadi milik satu syarikat. Seksyen 2(1) adalah jelas: keseluruhan pemilikan, dan hak, kuasa, kebebasan dan keistimewaan eksklusif untuk meneroka, mengeksploitasi, memperoleh dan mendapatkan petroleum — sama ada di darat atau luar pesisir — diletakkan pada sebuah perbadanan yang diperbadankan di bawah undang-undang syarikat. Seksyen 3(1) kemudian memperuntukkan bahawa Perbadanan itu hendaklah dinamakan PETRONAS.
+Sejak **1 Oktober 1974**, apabila [Akta Pembangunan Petroleum 1974](/energy/petroleum-development-act-1974) berkuat kuasa, keseluruhan pemilikan petroleum di Malaysia telah menjadi milik satu syarikat. Seksyen 2(1) adalah jelas: keseluruhan pemilikan, dan hak, kuasa, kebebasan dan keistimewaan eksklusif untuk meneroka, mengeksploitasi, memperoleh dan mendapatkan petroleum — sama ada di darat atau luar pesisir — diletakkan pada sebuah perbadanan yang diperbadankan di bawah undang-undang syarikat. Seksyen 3(1) kemudian memperuntukkan bahawa Perbadanan itu hendaklah dinamakan PETRONAS.
 
 Syarikat itu membayar dividennya kepada kerajaan persekutuan — MOF merekodkannya sebagai pendapatan pelaburan kerajaan — dan seksyen 3(2) meletakkannya di bawah kawalan dan arahan Perdana Menteri. Seksyen 3(3) menambah bahawa arahan sedemikian mengikat syarikat itu walau apa pun peruntukan Companies Act atau mana-mana undang-undang bertulis lain. Maka rantaiannya adalah: sumber → syarikat → Perdana Menteri.
 

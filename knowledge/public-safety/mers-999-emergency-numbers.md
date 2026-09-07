@@ -86,7 +86,7 @@ Satu panggilan 999 menjangkau kelima-lima agensi berikut:
 | Jabatan Bomba dan Penyelamat (JBPM/Bomba) | Kebakaran, operasi menyelamat |
 | Kementerian Kesihatan Malaysia (ambulans/hospital) | Kecemasan perubatan |
 | Angkatan Pertahanan Awam (JPAM/APM) | Bantuan kemanusiaan, bencana |
-| Agensi Penguatkuasaan Maritim Malaysia (APMM) | Kecemasan di laut |
+| [Agensi Penguatkuasaan Maritim Malaysia](/public-safety/maritime-enforcement-agency-mmea) (APMM) | Kecemasan di laut |
 
 ## Bagaimana 991 dan 994 menjadi satu?
 

@@ -39,7 +39,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ee81ef22057b8bb3"
+sourceContentHash: "b26c1d94188332f9"
 
 status: "published"
 aiAssisted: true
@@ -95,7 +95,7 @@ keywords: ["Cyber Security Act 2024", "Act 854", "NCII", "NACSA", "cybersecurity
 该法规同时做了几件事：
 
 - 它设立**国家网络安全委员会**，作为国家网络政策的治理机构。
-- 它订明**国家网络安全机构（NACSA）**及其**总执行长**的职责与权力，总执行长是该法令下的日常监管者。
+- 它订明**[国家网络安全机构](/technology/nacsa-cybersecurity-malaysia)（NACSA）**及其**总执行长**的职责与权力，总执行长是该法令下的日常监管者。
 - 它创设**国家关键信息基础设施（NCII）**的概念，以及指定拥有或营运这些设施的实体的机制。
 - 它对这些实体施加实务守则、事故通报、风险评估与稽核义务。
 - 它对特定网络安全服务供应商引入**执照制度**。

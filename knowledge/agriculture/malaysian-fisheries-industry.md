@@ -160,7 +160,7 @@ harian nelayan — menguruskan kompleks pendaratan ikan, menyalurkan kredit
 dan insentif, serta mentadbir bantuan seperti skim bantuan bencana alam dan
 kebajikan nelayan apabila ribut atau monsun memusnahkan pendapatan.
 
-**Agensi Penguatkuasaan Maritim Malaysia (MMEA)** ialah lengan penguatkuasa
+**[Agensi Penguatkuasaan Maritim Malaysia](/public-safety/maritime-enforcement-agency-mmea) (MMEA)** ialah lengan penguatkuasa
 di laut. Apabila bot asing menceroboh atau nelayan tempatan melanggar zon,
 MMEA-lah yang memintas, menahan dan membawa kes ke pendakwaan. Ketiga-tiga
 badan bertindih — DOF menetapkan peraturan, LKIM menyokong nelayan yang

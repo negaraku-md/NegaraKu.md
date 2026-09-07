@@ -155,7 +155,7 @@ Permits are not instant, and the slow ones will dictate your timeline. The lead 
 
 Treat these as planning buffers, not guarantees; complex or first-time applications run longer, and testing-heavy categories (notably electrical) are the usual bottleneck.
 
-On the **export** side, most goods leave on a K2 declaration without an export permit, but controlled exports still need one — and exporters often need trade documents rather than permits. The **Malaysia External Trade Development Corporation (MATRADE)** issues facilitation documents such as **Certificates of Origin** and the **Certificate of Free Sale** (the latter requiring the applicant to be a registered MATRADE member), which buyers and foreign customs frequently demand. Strategic items are separately controlled under the Strategic Trade Act 2010, which requires a permit from MITI's Strategic Trade Controller.
+On the **export** side, most goods leave on a K2 declaration without an export permit, but controlled exports still need one — and exporters often need trade documents rather than permits. The **Malaysia External Trade Development Corporation ([MATRADE](/government/matrade))** issues facilitation documents such as **Certificates of Origin** and the **Certificate of Free Sale** (the latter requiring the applicant to be a registered MATRADE member), which buyers and foreign customs frequently demand. Strategic items are separately controlled under the Strategic Trade Act 2010, which requires a permit from MITI's Strategic Trade Controller.
 
 ## What's next
 

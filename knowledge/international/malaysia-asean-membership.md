@@ -282,7 +282,7 @@ Ibrahim mengetuai blok itu sepanjang tahun tersebut.
 Temanya ialah **"Inclusivity and Sustainability"** (Keterangkuman dan
 Kemampanan). Pilihan tema itu bermakna: 2025 menandakan ulang tahun ke-10
 penubuhan Komuniti ASEAN, satu titik semula jadi untuk menetapkan hala tuju
-dua dekad berikutnya. Menurut Kementerian Kewangan Malaysia, Malaysia menjadi
+dua dekad berikutnya. Menurut [Kementerian Kewangan Malaysia](/government/ministry-of-finance-treasury), Malaysia menjadi
 tuan rumah lebih 300 mesyuarat dan program utama di seluruh negara sepanjang
 tahun; Bernama melaporkan jumlah akhir kira-kira 320 mesyuarat ASEAN merentas
 ketiga-tiga tonggak pada penghujung tahun.

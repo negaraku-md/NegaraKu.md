@@ -96,7 +96,7 @@ MITI oversees a family of statutory bodies and government-linked companies that 
 | Agency | Focus |
 | --- | --- |
 | **MIDA** — Malaysian Investment Development Authority | Investment promotion and evaluation |
-| **MATRADE** — Malaysia External Trade Development Corporation | Export promotion |
+| **[MATRADE](/government/matrade)** — Malaysia External Trade Development Corporation | Export promotion |
 | **MPC** — Malaysia Productivity Corporation | Productivity and competitiveness |
 | **MIDF** & **EXIM Bank** | Industrial and trade financing |
 | **SIRIM Berhad** & **Standards Malaysia (JSM)** | Standards, quality and certification |

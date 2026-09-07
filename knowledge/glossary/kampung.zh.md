@@ -22,7 +22,7 @@ appliesTo: "想了解「kampung」字面意义以外含义的人——包括研�
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "1dc194cfebb6f43b"
+sourceContentHash: "6ceb380a480b9192"
 
 status: "published"
 aiAssisted: true
@@ -108,7 +108,7 @@ Tradisi）沿用**MPKK**这一名称。
 
 ## 常见误解
 
-- **将 JPKK 与睦邻计划（Rukun Tetangga，KRT）或居民协会（Persatuan
+- **将 JPKK 与[睦邻计划](/public-safety/community-policing-rukun-tetangga)（Rukun Tetangga，KRT）或居民协会（Persatuan
   Penduduk，RA）混为一谈。** KRT 由国民团结局（Jabatan Perpaduan Negara）
   管理，且更集中于住宅区；RA 则是由居民自行注册的团体。JPKK 是隶属于
   KKDW 之下的乡村架构。

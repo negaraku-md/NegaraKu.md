@@ -100,7 +100,7 @@ Peranakan wealth and taste are written into the architecture of Melaka and Georg
 
 These streetscapes are part of why **Melaka and George Town, Historic Cities of the Straits of Malacca** were together inscribed on the UNESCO World Heritage List on **7 July 2008**, under cultural criteria (ii), (iii) and (iv). The listing recognises towns shaped by almost 500 years of trade between East and West, and a "multi-cultural living heritage" that is both tangible and intangible. The Baba-Nyonya are one strand of that heritage, alongside the Malay, Indian, and European-descended communities of the two cities. You can read more about the broader listing in [Malaysia's UNESCO World Heritage sites](/en/arts-culture/unesco-world-heritage), and about the [batik](/en/arts-culture/batik) sarong that anchors the Nyonya kebaya.
 
-Malaysia also protects heritage more broadly through the **National Heritage Act 2005**, administered by the Jabatan Warisan Negara (Department of National Heritage), which maintains a register of tangible and intangible cultural heritage.
+Malaysia also protects heritage more broadly through the **National Heritage Act 2005**, administered by the Jabatan Warisan Negara ([Department of National Heritage](/government/department-of-national-heritage)), which maintains a register of tangible and intangible cultural heritage.
 
 ## A living culture, not a museum piece
 

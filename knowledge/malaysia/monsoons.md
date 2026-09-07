@@ -104,7 +104,7 @@ Pantai barat pula dilindungi oleh Banjaran Titiwangsa yang membelah Semenanjung 
 
 Risiko ini bukan sekadar tanggapan am. Menurut Jabatan Pengairan dan Saliran (JPS), kawasan mudah banjir di seluruh Malaysia dianggarkan meliputi kira-kira 29,000 kilometer persegi — bersamaan 9% daripada keluasan negara — dan melibatkan lebih 2.7 juta penduduk, atau 18% daripada jumlah penduduk negara.
 
-Bagi musim 2024/2025, Majlis Keselamatan Negara (MKN) mengumumkan Monsun Timur Laut bermula 5 November 2024 dan dijangka berterusan hingga Mac 2025, dengan 5 hingga 7 episod hujan lebat diramal sepanjang tempoh itu. Yang kurang diketahui ramai ialah kawasan terjejas turut berubah mengikut fasa musim itu sendiri:
+Bagi musim 2024/2025, [Majlis Keselamatan Negara](/government/national-security-council-mkn) (MKN) mengumumkan Monsun Timur Laut bermula 5 November 2024 dan dijangka berterusan hingga Mac 2025, dengan 5 hingga 7 episod hujan lebat diramal sepanjang tempoh itu. Yang kurang diketahui ramai ialah kawasan terjejas turut berubah mengikut fasa musim itu sendiri:
 
 - **Fasa awal (November–Disember):** Kelantan, Terengganu, Pahang, Johor, Sarawak dan Sabah
 - **Fasa lewat (Januari–Februari):** Pahang, Johor, Sarawak dan Sabah — Kelantan dan Terengganu tidak lagi disenaraikan berisiko tertinggi pada fasa ini

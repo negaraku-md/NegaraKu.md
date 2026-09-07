@@ -29,7 +29,7 @@ faq:
     a: "它已被《NADMA 第 1 号指令》取代，该指令于 2024 年 8 月 1 日在由首相主持的国家安全理事会（MKN）会议上通过。"
 
 lang: "zh"
-sourceContentHash: "12035f0662505b47"
+sourceContentHash: "cb54d0894eec9ad2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -99,7 +99,7 @@ NADMA 隶属于首相署（JPM）。它是国家、区域及国际层面灾害�
 
 ## NADMA 是如何成立的？
 
-NADMA 的成立源于将灾害职能从国家安全理事会分离出来的决定。根据官方记载《NADMA 成立史》（来源 #3）：2015 年 7 月 29 日，内阁（Jemaah Menteri）同意将灾害管理职能从 MKN 分离出来。内阁随后于 2015 年 8 月 26 日批准成立 NADMA，该机构于 2015 年 10 月 1 日在首相署之下正式运作，当时依据《MKN 第 20 号指令》。
+NADMA 的成立源于将灾害职能从[国家安全理事会](/government/national-security-council-mkn)分离出来的决定。根据官方记载《NADMA 成立史》（来源 #3）：2015 年 7 月 29 日，内阁（Jemaah Menteri）同意将灾害管理职能从 MKN 分离出来。内阁随后于 2015 年 8 月 26 日批准成立 NADMA，该机构于 2015 年 10 月 1 日在首相署之下正式运作，当时依据《MKN 第 20 号指令》。
 
 ## 联邦、州及县如何协调？
 

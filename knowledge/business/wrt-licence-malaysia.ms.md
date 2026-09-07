@@ -41,7 +41,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "dcb90557358d351c"
+sourceContentHash: "01bb0853bba1972c"
 
 status: "published"
 aiAssisted: true
@@ -117,7 +117,7 @@ penting daripada lesen itu sendiri.
 
 ## Apa itu kelulusan WRT?
 
-Ia ialah kebenaran daripada **Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup
+Ia ialah kebenaran daripada **[Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup](/government/ministry-of-domestic-trade-kpdn)
 (KPDN)** untuk penyertaan asing dalam perdagangan pengedaran — secara luas, aktiviti borong,
 runcit dan perdagangan berkaitan yang dijalankan di Malaysia oleh syarikat yang mempunyai
 ekuiti asing.

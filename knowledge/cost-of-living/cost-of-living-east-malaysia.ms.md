@@ -22,7 +22,7 @@ appliesTo: "Sesiapa yang berpindah ke atau membajet untuk Sabah atau Sarawak, me
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "09b2511e7525963f"
+sourceContentHash: "327dd8ebe6d5d915"
 
 status: "published"
 aiAssisted: true
@@ -124,8 +124,8 @@ dasar ini masih giat diselaraskan, bukan sudah selesai.
 
 ## Apa yang dilakukan oleh kerajaan mengenainya
 
-Sejak Februari 2013, KPDN (Kementerian Perdagangan Dalam Negeri dan Kos Sara
-Hidup) telah menjalankan **Program Penyeragaman Harga Sabah, Sarawak dan
+Sejak Februari 2013, KPDN ([Kementerian Perdagangan Dalam Negeri dan Kos Sara
+Hidup](/government/ministry-of-domestic-trade-kpdn)) telah menjalankan **Program Penyeragaman Harga Sabah, Sarawak dan
 Labuan (PPHSSL)**, yang menyeragamkan harga runcit tiga barangan kawalan —
 gula, tepung gandum dan minyak masak — dengan Semenanjung Malaysia.
 Objektif yang dinyatakannya adalah untuk memastikan bekalan ketiga-tiga

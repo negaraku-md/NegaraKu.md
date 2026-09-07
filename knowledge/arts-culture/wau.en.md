@@ -37,7 +37,7 @@ verificationNeeded:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "8c8a1ce26a327a91"
+sourceContentHash: "dca70ac2ef9b33e2"
 
 status: "published"
 aiAssisted: true
@@ -123,7 +123,7 @@ JKKN's Cultural Map also notes that wau are found across Johor, Negeri Sembilan 
 
 ## Why Wau Bulan wins
 
-Wau Bulan is not just one type among many. The National Security Council's portal describes it as the most popular, with a large size and a shape resembling a crescent moon — and those two traits explain everything.
+Wau Bulan is not just one type among many. The [National Security Council](/government/national-security-council-mkn)'s portal describes it as the most popular, with a large size and a shape resembling a crescent moon — and those two traits explain everything.
 
 The crescent shape is instantly recognisable even when simplified to a single line. It functioned as an emblem before it had a chance to function as a picture. Malaysia Airlines' own publication, *Going Places*, states that the national airline's logo was inspired by the wau bulan.
 

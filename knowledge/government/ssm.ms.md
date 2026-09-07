@@ -32,7 +32,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ef592db783187fbc"
+sourceContentHash: "f9b7af93b7253c9c"
 
 status: "published"
 aiAssisted: true
@@ -86,7 +86,7 @@ keywords: ["SSM Malaysia", "Suruhanjaya Syarikat Malaysia", "Companies Commissio
 | Statut pemboleh | Akta Suruhanjaya Syarikat Malaysia 2001 (Akta 614) |
 | Perkenan / penerbitan | 6 September 2001 / 27 September 2001 |
 | Permulaan kuat kuasa | 16 April 2002, melalui P.U.(B) 127/2002 |
-| Melapor kepada | Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup |
+| Melapor kepada | [Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup](/government/ministry-of-domestic-trade-kpdn) |
 | Laman web | `ssm.com.my` |
 
 ## Apa yang ditadbirnya

@@ -80,7 +80,7 @@ yang salah sama sekali.
 Bekalan elektrik di Malaysia tidak dikendalikan oleh satu badan tunggal.
 **Tenaga Nasional Berhad (TNB)** menyelenggara Semenanjung Malaysia melalui
 portal myTNB dan rangkaian **Kedai Tenaga**. Sabah pula milik **Sabah
-Electricity Sdn Bhd (SESB)**, dan Sarawak milik **Sarawak Energy Berhad**.
+Electricity Sdn Bhd (SESB)**, dan Sarawak milik **[Sarawak Energy Berhad](/energy/sarawak-energy-berhad)**.
 Ketiga-tiganya beroperasi secara berasingan, dengan borang permohonan, kadar
 deposit dan bahkan istilah sendiri — jadi carian Google untuk "cara mohon
 elektrik" yang hanya keluarkan panduan TNB tidak banyak membantu jika rumah

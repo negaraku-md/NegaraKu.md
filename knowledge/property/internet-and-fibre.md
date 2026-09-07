@@ -74,7 +74,7 @@ can't actually pull a line into your unit.
 
 ## Coverage decides more than brand loyalty does
 
-Malaysia's fibre rollout has been driven for years by **JENDELA** (Jalinan
+Malaysia's fibre rollout has been driven for years by **[JENDELA](/technology/5g-jendela-dnb-malaysia)** (Jalinan
 Digital Negara), the national connectivity push run under the Malaysian
 Communications and Multimedia Commission (MCMC). Its first phase set a target
 of extending fibre access to millions of premises nationwide and widening

@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "任何在马来西亚租房、购房或搬迁入住、需要接通固定宽带的人士。"
 
 lang: "zh"
-sourceContentHash: "3f90ffb3d97f1bcf"
+sourceContentHash: "651bab79a176221b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -74,7 +74,7 @@ keywords: ["unifi malaysia", "maxis fibre home", "time fibre broadband", "fibre 
 
 ## 覆盖率决定的，比品牌忠诚度更多
 
-马来西亚的光纤铺设多年来一直由 **JENDELA**（Jalinan Digital Negara，国家数码
+马来西亚的光纤铺设多年来一直由 **[JENDELA](/technology/5g-jendela-dnb-malaysia)**（Jalinan Digital Negara，国家数码
 联通计划）推动，这是在大马通讯及多媒体委员会（Malaysian Communications and
 Multimedia Commission，MCMC）主管下推行的全国联通行动。其第一阶段设定的目标，
 是把光纤接入扩展到全国数以百万计的房产，并扩大具千兆能力的覆盖——这项行动建

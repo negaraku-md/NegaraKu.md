@@ -24,7 +24,7 @@ appliesTo: "任何试图理解马来西亚油气行业法律基础、联邦财�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b1f34add97a933d2"
+sourceContentHash: "e00cfef3a5a059c4"
 
 status: "published"
 aiAssisted: true
@@ -101,7 +101,7 @@ keywords: ["Petroleum Development Act 1974", "Petronas ownership", "Malaysia oil
 
 马来西亚人并不像大多数人所以为的那样，拥有马来西亚的石油。严格来说，石油所在水域的各州属同样并不拥有它。
 
-自**1974 年 10 月 1 日**《1974 年石油发展法令》（Petroleum Development Act 1974）生效以来，马来西亚境内石油的全部所有权已归属单一一家公司。第 2(1) 条明确无误：石油的全部所有权，以及在马来西亚境内陆上或离岸勘探、开采、获取及取得石油的专属权利、权力、自由与特权，赋予一家依公司法注册成立的法人机构。第 3(1) 条其后规定，该法人机构应命名为 PETRONAS。
+自**1974 年 10 月 1 日**《[1974 年石油发展法令](/energy/petroleum-development-act-1974)》（Petroleum Development Act 1974）生效以来，马来西亚境内石油的全部所有权已归属单一一家公司。第 2(1) 条明确无误：石油的全部所有权，以及在马来西亚境内陆上或离岸勘探、开采、获取及取得石油的专属权利、权力、自由与特权，赋予一家依公司法注册成立的法人机构。第 3(1) 条其后规定，该法人机构应命名为 PETRONAS。
 
 该公司将其股息支付给联邦政府——MOF 将其记为政府投资收入——而第 3(2) 条使其受首相的控制与指示所约束。第 3(3) 条补充，该等指示即使与 Companies Act 或任何其他成文法有抵触，仍对该公司具有约束力。因此这条链是：资源 → 公司 → 首相。
 

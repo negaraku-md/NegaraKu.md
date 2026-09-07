@@ -31,7 +31,7 @@ faq:
     a: "ePermit 是由 Dagang Net Technologies 在国家单一窗口下运营的网络服务，让你在线向多个准证签发机构提交申请。获批准证会以电子方式传送至海关，以便与你的报关进行核验。"
 
 lang: "zh"
-sourceContentHash: "11f77d745fd09dd0"
+sourceContentHash: "f453f5001ae25d26"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -156,7 +156,7 @@ keywords: ["import licence Malaysia", "export permit Malaysia", "Approved Permit
 
 请将这些视为规划缓冲，而非保证；复杂或首次申请耗时更长，而测试密集的类别（尤其是电气）通常是瓶颈所在。
 
-在**出口**方面，大多数货物凭 K2 报关离境，无需出口准证，但受管制的出口仍需要准证——而出口商往往需要的是贸易文件而非准证。**马来西亚对外贸易发展局（MATRADE）**签发诸如**原产地证书**（Certificate of Origin）与**自由销售证书**（Certificate of Free Sale，后者要求申请人须为已注册的 MATRADE 会员）等便利化文件，买方与外国海关经常会要求这些文件。战略物品则单独受《2010 年战略贸易法令》管制，须取得 MITI 战略贸易管制官核发的准证。
+在**出口**方面，大多数货物凭 K2 报关离境，无需出口准证，但受管制的出口仍需要准证——而出口商往往需要的是贸易文件而非准证。**马来西亚对外贸易发展局（[MATRADE](/government/matrade)）**签发诸如**原产地证书**（Certificate of Origin）与**自由销售证书**（Certificate of Free Sale，后者要求申请人须为已注册的 MATRADE 会员）等便利化文件，买方与外国海关经常会要求这些文件。战略物品则单独受《2010 年战略贸易法令》管制，须取得 MITI 战略贸易管制官核发的准证。
 
 ## 接下来做什么
 

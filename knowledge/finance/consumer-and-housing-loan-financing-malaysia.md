@@ -147,7 +147,7 @@ The RM2,400 headroom, not the property price, is what caps the loan in this illu
 
 ## Where does car financing fit? The Hire Purchase Act 1967
 
-Buy a house and you are inside the SBR-and-DSR world. Buy a car and you cross into a different legal regime altogether: the **Hire Purchase Act 1967 (Act 212)**, administered by the Ministry of Domestic Trade and Cost of Living (KPDN).
+Buy a house and you are inside the SBR-and-DSR world. Buy a car and you cross into a different legal regime altogether: the **Hire Purchase Act 1967 (Act 212)**, administered by the [Ministry of Domestic Trade and Cost of Living](/government/ministry-of-domestic-trade-kpdn) (KPDN).
 
 Under hire purchase, you do not own the vehicle until the final instalment is paid — the financier owns it and "hires" it to you. That structure gives the Act teeth that an ordinary loan does not have, with fixed protections on both sides:
 

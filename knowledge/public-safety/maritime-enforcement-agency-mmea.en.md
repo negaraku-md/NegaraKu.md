@@ -29,7 +29,7 @@ faq:
     a: "A government study in April 1999 found overlapping functions, overlapping jurisdictions and uneconomical use of resources among the agencies. The MMEA was established to unify maritime enforcement under a single agency."
 
 lang: "en"
-sourceContentHash: "2042dfbbda4fa0e9"
+sourceContentHash: "d5fb408e6cb3819a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -130,5 +130,5 @@ The MMEA's vision is "to be among the best maritime enforcement agencies in the 
 ## What's next
 
 - Refer to the official MMEA website (mmea.gov.my) for the latest maritime region contacts if you need emergency assistance at sea.
-- To understand how the MMEA complements other security agencies, read the profiles of the Royal Malaysia Police (PDRM) and the Malaysian Armed Forces (ATM).
+- To understand how the MMEA complements other security agencies, read the profiles of the Royal Malaysia Police (PDRM) and the [Malaysian Armed Forces](/government/malaysian-armed-forces-mindef) (ATM).
 - Note: some operational figures (fleet size, the exact number of maritime regions/districts) change over time and are deliberately not stated here unless they can be verified from official sources.

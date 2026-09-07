@@ -99,7 +99,7 @@ Ini meletakkan rumah terbuka dalam kedudukan yang agak unik: ia bermula sebagai 
 
 ## Kaitannya dengan dasar perpaduan negara
 
-Kementerian Perpaduan Negara (KPN), menerusi laman rasminya, menerangkan bidang tugasnya sebagai memperkukuh jati diri, integrasi sosial dan keharmonian antara penganut agama — dilaksanakan menerusi rangka seperti Pelan Tindakan Perpaduan Negara 2021-2030. KPN tidak menjadikan rumah terbuka sebagai satu program khusus dalam portalnya, tetapi ia menaungi program peringkat komuniti seperti Rukun Tetangga yang berkongsi matlamat serupa: mengeratkan hubungan antara penduduk pelbagai kaum di peringkat akar umbi.
+Kementerian Perpaduan Negara (KPN), menerusi laman rasminya, menerangkan bidang tugasnya sebagai memperkukuh jati diri, integrasi sosial dan keharmonian antara penganut agama — dilaksanakan menerusi rangka seperti Pelan Tindakan Perpaduan Negara 2021-2030. KPN tidak menjadikan rumah terbuka sebagai satu program khusus dalam portalnya, tetapi ia menaungi program peringkat komuniti seperti [Rukun Tetangga](/public-safety/community-policing-rukun-tetangga) yang berkongsi matlamat serupa: mengeratkan hubungan antara penduduk pelbagai kaum di peringkat akar umbi.
 
 Rumah terbuka, dengan itu, berfungsi sebagai amalan sosial yang selari dengan matlamat dasar perpaduan itu — walaupun ia sendiri berkembang secara organik daripada tradisi kekeluargaan dan keagamaan, bukan direka sebagai program kerajaan.
 

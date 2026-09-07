@@ -85,7 +85,7 @@ Because it is tied to the full moon of a lunar month, the date is not fixed agai
 
 ## When Wesak falls, and the 2026 dates
 
-Malaysia's public-holiday dates are confirmed each year by the Government. For 2026, the National Security Council (Majlis Keselamatan Negara) and the Department of Labour Peninsular Malaysia stated that Hari Wesak falls on **31 May 2026 (Sunday)**.
+Malaysia's public-holiday dates are confirmed each year by the Government. For 2026, the [National Security Council](/government/national-security-council-mkn) (Majlis Keselamatan Negara) and the Department of Labour Peninsular Malaysia stated that Hari Wesak falls on **31 May 2026 (Sunday)**.
 
 | Year | Wesak Day |
 | --- | --- |

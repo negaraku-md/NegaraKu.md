@@ -69,7 +69,7 @@ relations:
   - { rel: "affects", to: "johor" }
 related: ["kelantan", "terengganu", "pahang", "johor"]
 keywords: ["monsun Malaysia", "monsun timur laut", "monsun barat daya", "musim tengkujuh", "banjir pantai timur", "MetMalaysia", "banjir Semenanjung Malaysia", "fasa peralihan monsun"]
-sourceContentHash: "426f1ac89e116265"
+sourceContentHash: "d977d1d40dd0956b"
 ---
 
 Every November, before checking the news, many residents of Kota Bharu, Kuala Terengganu and Kuantan start checking the water levels of rivers near their homes. This is not a habit born of unexpected disaster — it is a predictable schedule that repeats every year, and its cause is the same seasonal wind system that also determines when the west coast of the Peninsula turns dry.
@@ -105,7 +105,7 @@ The west coast, meanwhile, is shielded by the Titiwangsa Range, which splits the
 
 This risk is not just a general impression. According to the Department of Irrigation and Drainage (JPS), flood-prone areas across Malaysia are estimated to cover approximately 29,000 square kilometres — equivalent to 9% of the country's land area — and involve more than 2.7 million people, or 18% of the country's total population.
 
-For the 2024/2025 season, the National Security Council (MKN) announced that the Northeast Monsoon began on 5 November 2024 and was expected to continue until March 2025, with 5 to 7 episodes of heavy rain forecast over that period. What is less widely known is that the affected areas also change according to the phase of the season itself:
+For the 2024/2025 season, the [National Security Council](/government/national-security-council-mkn) (MKN) announced that the Northeast Monsoon began on 5 November 2024 and was expected to continue until March 2025, with 5 to 7 episodes of heavy rain forecast over that period. What is less widely known is that the affected areas also change according to the phase of the season itself:
 
 - **Early phase (November–December):** Kelantan, Terengganu, Pahang, Johor, Sarawak and Sabah
 - **Late phase (January–February):** Pahang, Johor, Sarawak and Sabah — Kelantan and Terengganu are no longer listed as highest-risk in this phase

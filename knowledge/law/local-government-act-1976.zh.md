@@ -29,7 +29,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "0dbf40c3c9364919"
+sourceContentHash: "ef5c1db3291f9813"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -98,4 +98,4 @@ keywords: ["Local Government Act 1976", "Act 171", "Akta Kerajaan Tempatan 1976"
 
 ## 接下来
 
-若要对估价或评估账单提出异议，请依循第十五编及你所属议会估价册中的通知与异议程序。若要了解议会在州与联邦层级之下的位置，接下来可参阅房屋及地方政府部（KPKT）以及第95A条之下的全国地方政府理事会。
+若要对估价或评估账单提出异议，请依循第十五编及你所属议会估价册中的通知与异议程序。若要了解议会在州与联邦层级之下的位置，接下来可参阅[房屋及地方政府部](/government/ministry-of-housing-local-government-kpkt)（KPKT）以及第95A条之下的全国地方政府理事会。

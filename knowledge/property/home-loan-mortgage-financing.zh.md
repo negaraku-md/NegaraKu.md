@@ -35,7 +35,7 @@ faq:
     a: "根据《1949年印花税法令》（Akta Setem 1949），印花税为贷款总额的0.5%。例如，RM450,000的贷款须缴付RM2,250的印花税。缴款须在协议签署之日起30天内完成。"
 
 lang: "zh"
-sourceContentHash: "e06b839c0be1bf7e"
+sourceContentHash: "9739f168cee000e2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -157,7 +157,7 @@ keywords: ["pinjaman perumahan", "gadai janji", "margin pembiayaan", "KWSP Akaun
 
 ## 如果我没有固定的薪水单怎么办？
 
-自雇人士、零工工作者和微型创业者常因缺乏固定收入而被银行拒绝。**房屋信贷担保计划（SJKP）**——由隶属马来西亚财政部的房屋信贷担保有限公司（Syarikat Jaminan Kredit Perumahan Berhad）运营——充当担保人，让银行愿意提供融资。
+自雇人士、零工工作者和微型创业者常因缺乏固定收入而被银行拒绝。**房屋信贷担保计划（SJKP）**——由隶属[马来西亚财政部](/government/ministry-of-finance-treasury)的房屋信贷担保有限公司（Syarikat Jaminan Kredit Perumahan Berhad）运营——充当担保人，让银行愿意提供融资。
 
 SJKP的主要特点（根据MOF Portal Manfaat福利门户）：
 

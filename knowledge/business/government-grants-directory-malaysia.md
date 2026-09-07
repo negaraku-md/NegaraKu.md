@@ -88,7 +88,7 @@ Before the directory, the classification that saves you time:
 |---|---|---|
 | **True / matching grant** | Non-repayable; a matching grant pays a % if you fund the rest | MDEC MDCG, MSME Digital Grant MADANI, MRANTI SRF |
 | **Conditional / clawback grant** | A grant that can be reclaimed if you fail conditions | Cradle CIP Spark, CIP Sprint |
-| **Reimbursement** | You spend first, then claim part back | HRD Corp training grants, MATRADE MDG |
+| **Reimbursement** | You spend first, then claim part back | HRD Corp training grants, [MATRADE](/government/matrade) MDG |
 | **Customised incentive** | Negotiated support, not an outright grant | MIDA DISF |
 | **Loan / debt** | Repayable financing | Malaysia Debt Ventures |
 | **Equity** | Government takes shares | MTDC Business Growth Fund, Penjana Kapital |

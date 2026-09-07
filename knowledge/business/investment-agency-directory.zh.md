@@ -45,7 +45,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ff7cc1a46908152a"
+sourceContentHash: "dbc6e7a307297e3a"
 
 status: "published"
 aiAssisted: true
@@ -117,7 +117,7 @@ MIDA 把立场说得很直白：Companies Act 并未对在马来西亚注册成�
 | **MITI**——投资、贸易及工业部 | 部门；于 **2023 年 4 月**由国际贸易及工业部更名而来 | Industrial Coordination Act 1975 下的**制造业执照**是一份部长级法律文书 |
 | **MIDA**——大马投资发展局 | MITI 的投资推广机构 | 接收、评估与执行制造业执照及豁免申请；税务奖掖评估；出版各行业投资手册 |
 | **MDEC**——马来西亚数字经济机构 | 隶属**数码部**（成立于 2023 年 12 月 12 日） | Malaysia Digital 身份、MD 税务奖掖指南、DE Rantau；**资通讯科技**领域的外派人员审批机构 |
-| **KPDN**——国内贸易及生活费部 | 部门 | 依 Garis Panduan Penyertaan Asing dalam Sektor Perdagangan Pengedaran di Malaysia 监管**分销贸易**中的外资参与；直销与特许经营监管 |
+| **KPDN**——[国内贸易及生活费部](/government/ministry-of-domestic-trade-kpdn) | 部门 | 依 Garis Panduan Penyertaan Asing dalam Sektor Perdagangan Pengedaran di Malaysia 监管**分销贸易**中的外资参与；直销与特许经营监管 |
 | **ESD**——移民局外派人员服务组 | 隶属内政部 | 为雇用外派人员而作的公司注册、Employment Pass、Professional Visit Pass、Dependant Pass、LTSVP |
 | **MyIPO**——马来西亚知识产权局 | 隶属 MITI | 商标、专利、工业设计、版权自愿通知 |
 | **IRDA**——Iskandar Regional Development Authority | 区域走廊当局 | Iskandar Malaysia 邮区内外派人员准证的审批机构，经由 XPATNOVA |

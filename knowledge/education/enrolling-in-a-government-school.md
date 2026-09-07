@@ -82,7 +82,7 @@ disahkan sebagai perkhidmatan digital rasmi di bawah portal MYGovernment.
 Tempoh pendaftaran dibuka setiap tahun, biasanya sekitar Februari hingga Mac,
 bagi kemasukan sesi akademik tahun berikutnya. Sebagai contoh, pendaftaran
 untuk kalendar akademik 2027 dibuka **15 Februari hingga 31 Mac 2026**, seperti
-diumumkan Majlis Keselamatan Negara (MKN) dan portal rasmi KPM. Tarikh dan
+diumumkan [Majlis Keselamatan Negara](/government/national-security-council-mkn) (MKN) dan portal rasmi KPM. Tarikh dan
 kohort umur yang tepat berubah setiap sesi — sentiasa semak pengumuman semasa
 di idme.moe.gov.my atau moe.gov.my sebelum bertindak berdasarkan tarikh lama.
 

@@ -18,7 +18,7 @@ keyTakeaways:
   - "作为娘惹服饰核心的卡峇雅（kebaya），于2024年由文莱、印尼、马来西亚、新加坡与泰国联合申报，列入 UNESCO 非物质文化遗产名录"
 appliesTo: "适合任何想要客观、得体地了解土生华人（峇峇娘惹）是谁，以及如何在马六甲与槟城辨识其菜肴、服饰与物质文化遗产的人。"
 lang: "zh"
-sourceContentHash: "5612cf657643e831"
+sourceContentHash: "b8424f95164f1085"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -101,7 +101,7 @@ keywords: ["Peranakan", "Baba-Nyonya", "Straits Chinese", "Nyonya cuisine", "Nyo
 
 这些街景正是**马六甲与乔治市——马六甲海峡历史名城（Melaka and George Town, Historic Cities of the Straits of Malacca）**于**2008年7月7日**依据文化标准(ii)、(iii)与(iv)一同列入 UNESCO 世界遗产名录的原因之一。该项列名肯定的是历经近500年东西方贸易而形塑的城镇，以及一种兼具有形与无形层面的「多元文化活态遗产」。峇峇娘惹是这份遗产的一支，与两座城市中的马来、印度及欧裔社群并列。你可以在[马来西亚 UNESCO 世界遗产地](/zh/arts-culture/unesco-world-heritage)一文中读到更多有关这项更广泛列名的内容，也可以了解一下衬托娘惹卡峇雅的[峇迪](/zh/arts-culture/batik)纱笼。
 
-马来西亚也透过**《2005年国家文物法令》（National Heritage Act 2005）**更广泛地保护遗产，该法令由国家文物局（Jabatan Warisan Negara）执行，负责维护一份有形与无形文化遗产的登记册。
+马来西亚也透过**《2005年国家文物法令》（National Heritage Act 2005）**更广泛地保护遗产，该法令由[国家文物局](/government/department-of-national-heritage)（Jabatan Warisan Negara）执行，负责维护一份有形与无形文化遗产的登记册。
 
 ## 一种活着的文化，而非博物馆展品
 

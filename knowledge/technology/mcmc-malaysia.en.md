@@ -33,7 +33,7 @@ faq:
     a: "Yes. DNB is licensed under the Communications and Multimedia Act 1998 and is subject to MCMC oversight. The single-wholesale-network model has ended: the government decided in 2023 to move to a dual 5G network, and U Mobile was selected as the second network (launched January 2026). MCMC regulates both networks."
 
 lang: "en"
-sourceContentHash: "1ff3d08e3ab648e0"
+sourceContentHash: "1aacfd76abedf6a6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -128,7 +128,7 @@ Examples of such assignments include the IMT-2000 (3G), 900MHz and 1800MHz bands
 
 ## What is MCMC's role in JENDELA and 5G?
 
-Beyond licensing, MCMC leads the national connectivity agenda. **JENDELA (Jalinan Digital Negara)** is the MCMC-led plan to expand coverage and improve broadband quality while preparing the country for 5G.
+Beyond licensing, MCMC leads the national connectivity agenda. **[JENDELA](/technology/5g-jendela-dnb-malaysia) (Jalinan Digital Negara)** is the MCMC-led plan to expand coverage and improve broadband quality while preparing the country for 5G.
 
 Phase 1 (2020–2022) targeted 4G coverage rising from 91.8% to 96.9%, mobile broadband speeds from 25 Mbps to 35 Mbps, and gigabit fixed broadband access to 83% of premises nationwide. The JENDELA portal also lists long-term national aspirations — gigabit access for fixed broadband, 100 Mbps mobile broadband, and 100% 4G coverage. Phase 2 focuses on 5G rollout once the 4G platform is solid, in line with the Twelfth Malaysia Plan (RMK-12).
 

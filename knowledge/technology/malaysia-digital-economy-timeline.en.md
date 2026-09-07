@@ -39,7 +39,7 @@ faq:
     a: "The National AI Office (NAIO) is an agency under the Ministry of Digital that was approved by the Cabinet on 28 August 2024 and launched on 12 December 2024. It is responsible for formulating, planning, researching, coordinating and implementing the country's AI initiatives. According to the Tech For Good Institute, its responsibilities include leading the National AI Strategy expected to cover 2026-2030, as a continuation of the AI Roadmap 2021-2025; the strategy's official name and scope await confirmation from official documents."
 
 lang: "en"
-sourceContentHash: "709d824572395d71"
+sourceContentHash: "4d479bafdf246fa8"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -97,7 +97,7 @@ keywords: ["ekonomi digital", "MSC Malaysia", "Koridor Raya Multimedia", "MyDIGI
 
 In 1996, Malaysia sketched out a stretch of farmland south of Kuala Lumpur and declared it the country's technology corridor of the future. Nearly three decades later, almost one ringgit out of every four that the national economy generates flows through screens, servers and online shopping carts. The journey between those two points was not a single leap — it was a series of connected policies, each one correcting or extending the last.
 
-This guide arranges the backbone of national digital policy in chronological order: from the Multimedia Super Corridor (MSC), through the Digital Malaysia and e-commerce era, to the MyDIGITAL blueprint, and finally to the new institutional structures — the Ministry of Digital and the National AI Office. Understanding this sequence is the fastest way to read where the country is headed.
+This guide arranges the backbone of national digital policy in chronological order: from the Multimedia Super Corridor (MSC), through the Digital Malaysia and e-commerce era, to the MyDIGITAL blueprint, and finally to the new institutional structures — the [Ministry of Digital](/technology/ministry-of-digital-malaysia) and the [National AI Office](/technology/national-ai-office-malaysia). Understanding this sequence is the fastest way to read where the country is headed.
 
 ## Why does this timeline matter?
 

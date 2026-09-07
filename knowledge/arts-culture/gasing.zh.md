@@ -21,7 +21,7 @@ appliesTo: "适合任何想了解陀螺玩法、gasing pangkah 与 gasing uri �
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "4545cc8912387ef3"
+sourceContentHash: "fc40c99c7c7666a6"
 
 status: "published"
 aiAssisted: true
@@ -75,7 +75,7 @@ keywords: ["gasing", "gasing uri", "gasing pangkah", "permainan tradisional Mela
 | 致胜关键 | 对手的陀螺停止旋转或偏离方向 | 在其他陀螺停止后，自己的陀螺仍继续旋转 |
 | 玩法性质 | 直接对抗，双方同时较量 | 考验耐力与稳定性，而非撞击力 |
 
-国家安全理事会（Majlis Keselamatan Negara，MKN）官网对 gasing pangkah 的玩法机制描述得更详细：玩法是击打对手正在旋转的陀螺上半部、已装上铁片的部位。那片铁并非装饰——它是承受并传导撞击力的部分。
+[国家安全理事会](/government/national-security-council-mkn)（Majlis Keselamatan Negara，MKN）官网对 gasing pangkah 的玩法机制描述得更详细：玩法是击打对手正在旋转的陀螺上半部、已装上铁片的部位。那片铁并非装饰——它是承受并传导撞击力的部分。
 
 根据同一来源，决定陀螺能撑得更久的关键有三项：速度、平衡与力度。速度快但不平衡的陀螺，还没来得及造成撞击就会偏离方向；力度强但速度慢的陀螺，则容易被闪避。
 

@@ -39,7 +39,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "62f356a00af3159c"
+sourceContentHash: "cea0dd80e40bb2af"
 
 status: "published"
 aiAssisted: true
@@ -100,7 +100,7 @@ keywords: ["MITI Malaysia", "Ministry of Investment Trade and Industry", "MIDA",
 | 类型 | 联邦部门 |
 | 更名 | 2023 年 4 月 5 日，由 Ministry of International Trade and Industry 更名而来——缩写相同，仍为 MITI |
 | 核心职权 | 投资、贸易与工业政策；自由贸易协定谈判 |
-| 主要机构 | MIDA（投资）、MATRADE（出口），另有约十几个其他机构 |
+| 主要机构 | MIDA（投资）、[MATRADE](/government/matrade)（出口），另有约十几个其他机构 |
 | 网站 | `miti.gov.my` |
 
 ## MITI 实际上做什么

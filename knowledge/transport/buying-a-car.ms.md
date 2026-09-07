@@ -31,7 +31,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "35ed95d9b2036a32"
+sourceContentHash: "fbeedb8341d7b377"
 
 status: "published"
 aiAssisted: true
@@ -120,7 +120,7 @@ Kereta terpakai boleh dibeli terus daripada pemilik semasanya, atau melalui peni
 
 Tunai dan sewa beli ialah dua keadaan undang-undang yang sama sekali berbeza, dan di sinilah kebanyakan kekeliruan berpunca.
 
-Bayar secara tunai, dan pembeli didaftarkan sebagai pemilik kenderaan itu sejak hari pertama. Biayai kereta itu, dan susunan itu terletak di bawah **Akta Sewa Beli 1967 (Hire-Purchase Act 1967)**, yang dikuatkuasakan oleh Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup (KPDN): bank atau syarikat kewangan didaftarkan sebagai pemilik sah kenderaan itu sepanjang tempoh pinjaman, manakala pembeli memegangnya sebagai **penyewa beli** — dengan hak menggunakan kereta itu, kos operasi, dan kewajipan memastikannya diinsuranskan, tetapi bukan pemilikan sah itu sendiri. Pemilikan hanya berpindah kepada pembeli apabila pinjaman itu dilunaskan sepenuhnya dan pihak pembiaya mengesahkan akaun itu telah ditutup.
+Bayar secara tunai, dan pembeli didaftarkan sebagai pemilik kenderaan itu sejak hari pertama. Biayai kereta itu, dan susunan itu terletak di bawah **Akta Sewa Beli 1967 (Hire-Purchase Act 1967)**, yang dikuatkuasakan oleh [Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup](/government/ministry-of-domestic-trade-kpdn) (KPDN): bank atau syarikat kewangan didaftarkan sebagai pemilik sah kenderaan itu sepanjang tempoh pinjaman, manakala pembeli memegangnya sebagai **penyewa beli** — dengan hak menggunakan kereta itu, kos operasi, dan kewajipan memastikannya diinsuranskan, tetapi bukan pemilikan sah itu sendiri. Pemilikan hanya berpindah kepada pembeli apabila pinjaman itu dilunaskan sepenuhnya dan pihak pembiaya mengesahkan akaun itu telah ditutup.
 
 Itulah juga sebabnya kereta yang masih di bawah sewa beli tidak boleh dijual semula begitu sahaja seperti kereta yang dibeli secara tunai. Pemilik semasa (penjual) perlu mendapatkan pelepasan daripada bank terlebih dahulu — dan jika kereta terpakai itu akan dibiayai semula oleh pembeli seterusnya, ia memerlukan pemeriksaan Hire Purchase Puspakom tambahan yang diterangkan di atas sebelum pinjaman baharu itu boleh diteruskan.
 

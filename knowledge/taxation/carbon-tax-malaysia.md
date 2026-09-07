@@ -124,7 +124,7 @@ The tax is one piece of a larger architecture being built in parallel:
 
 - **National Carbon Market Policy (NCMP)** — launched by NRES to establish a framework for trading carbon credits ahead of the tax.
 - **Climate Change Bill (RUU PIN)** — advancing toward tabling in Parliament; it is intended to set up a monitoring, reporting and verification (MRV) system and the legal basis for a future emissions trading scheme.
-- **National Energy Transition Fund (NETF)** — allocated RM150 million under Budget 2026 to support the National Energy Transition Roadmap, into which carbon revenue is expected to flow.
+- **National Energy Transition Fund (NETF)** — allocated RM150 million under Budget 2026 to support the [National Energy Transition Roadmap](/energy/national-energy-transition-roadmap-netr), into which carbon revenue is expected to flow.
 
 Together these support Malaysia's targets of a 45% cut in economy-wide carbon intensity by 2030 (against 2005) and net-zero by 2050, per the ICAP tracker.
 

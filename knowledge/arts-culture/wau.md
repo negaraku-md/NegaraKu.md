@@ -121,7 +121,7 @@ Peta Budaya JKKN turut mencatatkan wau tersebar di Johor, Negeri Sembilan dan Se
 
 ## Kenapa Wau Bulan yang menang
 
-Wau Bulan bukan sekadar satu jenis antara banyak. Portal Majlis Keselamatan Negara memerihalkannya sebagai yang paling popular, dengan saiz besar dan bentuk menyerupai bulan sabit — dan dua sifat itulah yang menjelaskan segalanya.
+Wau Bulan bukan sekadar satu jenis antara banyak. Portal [Majlis Keselamatan Negara](/government/national-security-council-mkn) memerihalkannya sebagai yang paling popular, dengan saiz besar dan bentuk menyerupai bulan sabit — dan dua sifat itulah yang menjelaskan segalanya.
 
 Bentuk sabit itu mudah dikenali walaupun dipermudahkan menjadi garisan tunggal. Ia berfungsi sebagai lambang sebelum ia sempat berfungsi sebagai gambar. Penerbitan Malaysia Airlines sendiri, *Going Places*, menyatakan logo syarikat penerbangan negara itu diilhamkan oleh wau bulan.
 

@@ -169,7 +169,7 @@ A quick rule of thumb: if the issue is a *discharge, emission or hazardous
 waste stream*, it is the DOE. If it is a *tiger, a logging concession, or the
 household rubbish truck*, it is Perhilitan, Forestry or SWCorp respectively. The
 DOE, the Forestry Department (JPSM) and Perhilitan all sit under NRES, while
-SWCorp operates under the Ministry of Housing and Local Government (KPKT).
+SWCorp operates under the [Ministry of Housing and Local Government](/government/ministry-of-housing-local-government-kpkt) (KPKT).
 
 ## What's next
 

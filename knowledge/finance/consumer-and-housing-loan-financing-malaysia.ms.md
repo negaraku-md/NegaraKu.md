@@ -31,7 +31,7 @@ faq:
     a: "Di bawah Akta Sewa Beli 1967 pembiaya secara amnya hanya boleh memiliki semula selepas penyewa gagal membayar dua ansuran berturut-turut dan mengikuti proses notis 21 hari. Setelah anda membayar sekurang-kurangnya 75% daripada harga tunai, pembiaya memerlukan perintah mahkamah untuk memiliki semula."
 
 lang: "ms"
-sourceContentHash: "ef3fe737905cda0b"
+sourceContentHash: "736d6f3bf7c003b5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -148,7 +148,7 @@ Ruang lapang RM2,400 itu, bukan harga hartanah, yang menghadkan pinjaman dalam i
 
 ## Di mana pembiayaan kereta terletak? Akta Sewa Beli 1967
 
-Beli sebuah rumah dan anda berada dalam dunia SBR-dan-DSR. Beli sebuah kereta dan anda melintasi ke rejim undang-undang yang sama sekali berbeza: **Akta Sewa Beli 1967 (Akta 212)**, yang ditadbir oleh Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup (KPDN).
+Beli sebuah rumah dan anda berada dalam dunia SBR-dan-DSR. Beli sebuah kereta dan anda melintasi ke rejim undang-undang yang sama sekali berbeza: **Akta Sewa Beli 1967 (Akta 212)**, yang ditadbir oleh [Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup](/government/ministry-of-domestic-trade-kpdn) (KPDN).
 
 Di bawah sewa beli, anda tidak memiliki kenderaan itu sehingga ansuran terakhir dibayar — pembiaya memilikinya dan "menyewakannya" kepada anda. Struktur itu memberikan Akta ini kekuatan yang tidak dimiliki oleh pinjaman biasa, dengan perlindungan tetap di kedua-dua belah pihak:
 

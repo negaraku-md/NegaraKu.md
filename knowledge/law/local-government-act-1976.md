@@ -97,4 +97,4 @@ In its consolidated form the Act comprises **16 Parts, 166 sections, and 2 sched
 
 ## What's next
 
-To object to a valuation or an assessment bill, follow the notice-and-objection procedure in Part XV and your council's valuation list. To understand where councils sit beneath the state and federal tiers, look next at the Ministry of Housing and Local Government (KPKT) and the National Council for Local Government under Article 95A.
+To object to a valuation or an assessment bill, follow the notice-and-objection procedure in Part XV and your council's valuation list. To understand where councils sit beneath the state and federal tiers, look next at the [Ministry of Housing and Local Government](/government/ministry-of-housing-local-government-kpkt) (KPKT) and the National Council for Local Government under Article 95A.

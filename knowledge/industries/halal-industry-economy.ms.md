@@ -34,7 +34,7 @@ faq:
     a: "Tidak. Pensijilan halal menandakan standard kebersihan, kebolehkesanan dan kualiti, dan sektor ini memasarkan kepada pengguna Muslim dan bukan Muslim serta ke destinasi eksport majoriti bukan Islam."
 
 lang: "ms"
-sourceContentHash: "29b5ee43da52ff8c"
+sourceContentHash: "e86c482e092e1722"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -138,7 +138,7 @@ Benang merah pelan ini ialah pensijilan semata-mata tidak membina sebuah industr
 
 Perbadanan Pembangunan Halal (HDC) ialah penjaga agenda ini. Ia menetapkan taman HALMAS, mentadbir akses insentif, mempromosikan eksport dan bertindak sebagai badan penyelaras tunggal antara industri dan kerajaan.
 
-Promosi perdagangan ialah sebahagian besar tugasnya. Tetingkap kedai utamanya ialah MIHAS, Malaysia International Halal Showcase, yang memadankan pengeluar Malaysia dengan pembeli antarabangsa. Di sudut dasar, kerajaan telah meluluskan penggabungan HDC dengan MATRADE untuk menyatukan promosi eksport halal ke dalam rangkaian perdagangan sedia ada MATRADE — satu langkah yang bertujuan menukar kapasiti yang bersijil kepada jualan luar negara yang sebenar. Satu kekangan yang berulang yang ditandakan sendiri oleh kerajaan ialah pengeluaran pensijilan: memperluas saluran "pemain industri serius" yang bersijil dan bersedia untuk eksport dianggap sebagai halangan yang perlu dilonggarkan, bukan masalah yang telah selesai.
+Promosi perdagangan ialah sebahagian besar tugasnya. Tetingkap kedai utamanya ialah MIHAS, Malaysia International Halal Showcase, yang memadankan pengeluar Malaysia dengan pembeli antarabangsa. Di sudut dasar, kerajaan telah meluluskan penggabungan HDC dengan [MATRADE](/government/matrade) untuk menyatukan promosi eksport halal ke dalam rangkaian perdagangan sedia ada MATRADE — satu langkah yang bertujuan menukar kapasiti yang bersijil kepada jualan luar negara yang sebenar. Satu kekangan yang berulang yang ditandakan sendiri oleh kerajaan ialah pengeluaran pensijilan: memperluas saluran "pemain industri serius" yang bersijil dan bersedia untuk eksport dianggap sebagai halangan yang perlu dilonggarkan, bukan masalah yang telah selesai.
 
 ## Mengapa standard majoriti Islam menyasarkan pasaran bukan Islam?
 

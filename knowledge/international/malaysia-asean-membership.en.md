@@ -40,7 +40,7 @@ faq:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "91d3dbf8b061bce3"
+sourceContentHash: "02e19c5efc595753"
 
 status: "published"
 aiAssisted: true
@@ -280,8 +280,8 @@ led the bloc throughout that year.
 Its theme was **"Inclusivity and Sustainability"** (Keterangkuman dan
 Kemampanan). The choice of theme was meaningful: 2025 marked the 10th
 anniversary of the establishment of the ASEAN Community, a natural point to set
-the direction for the next two decades. According to the Ministry of Finance
-Malaysia, Malaysia hosted more than 300 major meetings and programmes across
+the direction for the next two decades. According to the [Ministry of Finance
+Malaysia](/government/ministry-of-finance-treasury), Malaysia hosted more than 300 major meetings and programmes across
 the country throughout the year; Bernama reported a final total of around 320
 ASEAN meetings across all three pillars by year's end.
 

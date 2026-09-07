@@ -105,7 +105,7 @@ That last item is where the third tier comes from, and where the State List's au
 
 Item 4 of the State List gives states the power to legislate on local government. In practice, Parliament exercises that power for them: the **Local Government Act 1976 (Act 171)** is a federal statute that Peninsular Malaysia's states adopted to standardise how their councils work, under the Constitution's mechanism for Parliament to legislate uniformity onto a State List subject. Sabah and Sarawak instead run their own local government laws — the Local Government Ordinance 1961 in Sabah, and a separate ordinance framework in Sarawak — reflecting the wider pattern of those two states keeping more legislative independence after 1963.
 
-Local authorities themselves come in three types, classified by the Ministry of Housing and Local Government's Local Government Department (JKT) on population and annual revenue:
+Local authorities themselves come in three types, classified by the [Ministry of Housing and Local Government](/government/ministry-of-housing-local-government-kpkt)'s Local Government Department (JKT) on population and annual revenue:
 
 | Type | Malay term | Threshold (JKT) | Typical focus |
 | --- | --- | --- | --- |

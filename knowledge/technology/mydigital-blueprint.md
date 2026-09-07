@@ -166,7 +166,7 @@ Rangka tadbir urusnya merangkumi:
 - Mekanisme pemantauan dan penilaian yang telus untuk mewujudkan gelung maklum balas dua hala (atas-bawah dan bawah-atas).
 - Enam kelompok (cluster) khusus yang dipengerusikan Menteri dan Ketua Setiausaha Negara, disokong pakar bidang dalam tiga bidang utama: regulasi, keselamatan siber, serta keterangkuman dan kemampanan.
 
-Badan penyampaian operasi bagi inisiatif ini ialah **MyDIGITAL Corporation**, kini di bawah Kementerian Digital.
+Badan penyampaian operasi bagi inisiatif ini ialah **MyDIGITAL Corporation**, kini di bawah [Kementerian Digital](/technology/ministry-of-digital-malaysia).
 
 ## Bagaimana MyDIGITAL berbeza daripada Malaysia Digital (MDEC)?
 

@@ -32,7 +32,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "c610d29207638ce7"
+sourceContentHash: "7e827e839a62b8bc"
 
 status: "published"
 aiAssisted: true
@@ -84,7 +84,7 @@ atau borang pemfailan Tribunal.
 | --- | --- |
 | Tajuk ringkas | Consumer Protection Act 1999 |
 | Nombor Akta | Akta 599 |
-| Ditadbir oleh | Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup (KPDN) |
+| Ditadbir oleh | [Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup](/government/ministry-of-domestic-trade-kpdn) (KPDN) |
 | Forum penguatkuasaan | Tribunal Tuntutan Pengguna (diwujudkan 15 November 1999) |
 | Had tuntutan Tribunal | RM50,000 |
 | Yuran pemfailan Tribunal | RM5 |

@@ -42,7 +42,7 @@ faq:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "1a47d7c7f9cef605"
+sourceContentHash: "0ae54502024bdaab"
 
 verificationNeeded:
   - "The e-Reporting eligibility requirements (Malaysian citizen, aged 18 and above) and the full list of items that can be reported — the official portal ereporting.rmp.gov.my could not be reached for direct verification; confirm against the official portal."
@@ -111,7 +111,7 @@ Before anything else, work out your situation. These four channels are not free 
 
 ## When do I need to dial 999 first?
 
-MERS 999 (Malaysia Emergency Response Services) is a government initiative that unifies Malaysia's emergency numbers into a single central number, **999**. One call connects you to five emergency agencies: the Royal Malaysia Police, the Fire and Rescue Department, the Ministry of Health (ambulance/hospital), the Civil Defence Force, and the Malaysian Maritime Enforcement Agency.
+MERS 999 (Malaysia Emergency Response Services) is a government initiative that unifies Malaysia's emergency numbers into a single central number, **999**. One call connects you to five emergency agencies: the Royal Malaysia Police, the Fire and Rescue Department, the Ministry of Health (ambulance/hospital), the Civil Defence Force, and the [Malaysian Maritime Enforcement Agency](/public-safety/maritime-enforcement-agency-mmea).
 
 Use 999 when there is immediate danger — a crime in progress, injury, fire, or a threat to life. The officer will ask for the type of emergency, the location of the incident and a contact number before routing the call to the correct agency.
 

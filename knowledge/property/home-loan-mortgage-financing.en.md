@@ -35,7 +35,7 @@ faq:
     a: "Stamp duty is 0.5% of the loan amount under the Stamp Act 1949. For example, a loan of RM450,000 attracts a duty of RM2,250. Payment must be made within 30 days from the date the agreement is signed."
 
 lang: "en"
-sourceContentHash: "e06b839c0be1bf7e"
+sourceContentHash: "9739f168cee000e2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -157,7 +157,7 @@ Applications are made through EPF's i-Akaun with the Sale and Purchase Agreement
 
 ## What if I don't have a fixed payslip?
 
-The self-employed, gig workers and micro-entrepreneurs are often turned away by banks due to the lack of fixed income. The **Housing Credit Guarantee Scheme (SJKP)** — operated by Syarikat Jaminan Kredit Perumahan Berhad under the Ministry of Finance Malaysia — acts as guarantor so that banks are willing to extend financing.
+The self-employed, gig workers and micro-entrepreneurs are often turned away by banks due to the lack of fixed income. The **Housing Credit Guarantee Scheme (SJKP)** — operated by Syarikat Jaminan Kredit Perumahan Berhad under the [Ministry of Finance Malaysia](/government/ministry-of-finance-treasury) — acts as guarantor so that banks are willing to extend financing.
 
 Key features of SJKP (according to the MOF Manfaat Portal):
 

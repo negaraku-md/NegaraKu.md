@@ -34,7 +34,7 @@ faq:
     a: "环境局公布了一条投诉热线（03-8889 1972）及一条免费热线（1-800-88-2727）供举报环境投诉。在依赖这些号码之前，请在 doe.gov.my 上核实当前号码。"
 
 lang: "zh"
-sourceContentHash: "4c9f56d8128428a2"
+sourceContentHash: "03cee8394623a8f3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -161,7 +161,7 @@ keywords: ["Department of Environment", "DOE", "Jabatan Alam Sekitar", "JAS", "E
 一个简单的判断法则：如果问题涉及*排放物、废气或危险废物流*，那就是
 环境局的事。如果问题是*一只老虎、一份伐木特许权，或是家庭垃圾车*，
 那分别是野生动物局、森林局或 SWCorp 的事。环境局、森林局（JPSM）与
-野生动物局都隶属于 NRES，而 SWCorp 则隶属于房屋与地方政府部（KPKT）。
+野生动物局都隶属于 NRES，而 SWCorp 则隶属于[房屋与地方政府部](/government/ministry-of-housing-local-government-kpkt)（KPKT）。
 
 ## 接下来
 

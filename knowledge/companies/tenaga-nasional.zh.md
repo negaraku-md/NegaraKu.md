@@ -29,7 +29,7 @@ faq:
     a: "TNB 拥有并运营国家电网，而这一电网需要升级以吸纳可再生能源，与国家能源转型路线图（NETR）的目标保持一致。"
 
 lang: "zh"
-sourceContentHash: "9009c031fb997ecb"
+sourceContentHash: "94ad4bd9898402ac"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -107,7 +107,7 @@ TNB 的故事在其名称出现之前就已开始。1949 年 9 月 1 日，**中
 
 ## TNB 在 NETR 中扮演什么角色？
 
-TNB 的电网如今已成为**国家能源转型路线图（National Energy Transition Roadmap，NETR）**的支柱。原因很简单：太阳能和风能只有在电网能够稳定地吸纳并配送它们时才有用，而这一电网正是 TNB 所拥有。
+TNB 的电网如今已成为**[国家能源转型路线图](/energy/national-energy-transition-roadmap-netr)（National Energy Transition Roadmap，NETR）**的支柱。原因很简单：太阳能和风能只有在电网能够稳定地吸纳并配送它们时才有用，而这一电网正是 TNB 所拥有。
 
 NETR 设定了越来越进取的可再生能源渗透率目标，总体目标是在 2050 年前实现净零排放：
 

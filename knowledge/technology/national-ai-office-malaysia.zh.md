@@ -32,7 +32,7 @@ faq:
     a: "该计划的目标是让人工智能为GDP贡献超过600亿令吉，并在2030年使马来西亚跻身全球人工智能就绪度前20名的国家之列，通过28项举措来实现。"
 
 lang: "zh"
-sourceContentHash: "776144facbf3162e"
+sourceContentHash: "74e6c6495db49c10"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -90,7 +90,7 @@ keywords: ["national ai office", "naio", "ai malaysia", "ai action plan 2026-203
 
 ## 到底是谁在掌管马来西亚的人工智能政策？
 
-核心机构是国家人工智能办公室（NAIO）。内阁于2024年8月28日批准设立，首相拿督斯里安华·依布拉欣于2024年12月12日正式启动。它隶属于数字部，在成立后的第一年里，于孵化期内接受 MyDIGITAL 机构（MyDIGITAL Corporation）的指导运作。
+核心机构是国家人工智能办公室（NAIO）。内阁于2024年8月28日批准设立，首相拿督斯里安华·依布拉欣于2024年12月12日正式启动。它隶属于数字部，在成立后的第一年里，于孵化期内接受 [MyDIGITAL](/technology/mydigital-blueprint) 机构（MyDIGITAL Corporation）的指导运作。
 
 NAIO 的职责是协调：制定人工智能发展战略、集中资源、通过伦理准则统一治理、鼓励负责任地使用人工智能，并通过协同研究加速创新。实际操作中，它充当政府、业界、学术界与民间社会之间的联结纽带，并主要通过专门的工作组来组织大量此类工作。
 

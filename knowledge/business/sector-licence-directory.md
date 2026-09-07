@@ -121,7 +121,7 @@ question entirely.
 | KPDN | Franchise Act 1998 (Act 590) | Franchisor, franchisee and broker registration | kpdn.gov.my |
 | KPDN | Direct Sales and Anti-Pyramid Scheme Act 1993 (Act 500) | Direct selling licence | kpdn.gov.my |
 | KPDN | Control of Supplies Act 1961 (Act 122) | Controlled goods licences and permits | kpdn.gov.my |
-| KPDN | Petroleum Development Act 1974 (Act 144); Petroleum and Electricity (Control of Supplies) Act 1974 (Act 128) | Petroleum supply controls | kpdn.gov.my |
+| KPDN | [Petroleum Development Act 1974](/energy/petroleum-development-act-1974) (Act 144); Petroleum and Electricity (Control of Supplies) Act 1974 (Act 128) | Petroleum supply controls | kpdn.gov.my |
 | KPDN | Trade Descriptions Act 2011 (Act 730) | Halal certification and marking orders made under s.29 | kpdn.gov.my |
 | KPDN | [Consumer Protection Act 1999](/law/consumer-protection-act) (Act 599) | Electronic trade transaction duties, now under P.U.(A) 449/2024 | kpdn.gov.my |
 | Royal Malaysian Customs | Customs Act 1967 (Act 235) | Import and export licences under the prohibition orders, warehouse and agent licences | customs.gov.my |

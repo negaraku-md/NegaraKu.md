@@ -40,7 +40,7 @@ faq:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "91d3dbf8b061bce3"
+sourceContentHash: "02e19c5efc595753"
 
 status: "published"
 aiAssisted: true
@@ -219,7 +219,7 @@ keywords: ["ASEAN", "Malaysia ASEAN", "Deklarasi Bangkok", "Piagam ASEAN", "Komu
 
 马来西亚于2025年**第五度**担任东盟轮值主席国——继1977、1997、2005及2015年之后。主席权杖在2024年10月于万象举行的第44届及第45届东盟峰会闭幕时从老挝接过，主席任期于2025年1月1日正式开始。首相安华·依布拉欣（Anwar Ibrahim）在这一年领导该集团。
 
-其主题为**「Inclusivity and Sustainability」**（包容与可持续）。这一主题的选择意味深长：2025年标志着东盟共同体成立十周年，是为接下来二十年设定方向的一个自然节点。据马来西亚财政部资料，马来西亚全年在全国各地主办了超过300场主要会议与活动；Bernama报道，到年底东盟三大支柱范围内的会议总数约为320场。
+其主题为**「Inclusivity and Sustainability」**（包容与可持续）。这一主题的选择意味深长：2025年标志着东盟共同体成立十周年，是为接下来二十年设定方向的一个自然节点。据[马来西亚财政部](/government/ministry-of-finance-treasury)资料，马来西亚全年在全国各地主办了超过300场主要会议与活动；Bernama报道，到年底东盟三大支柱范围内的会议总数约为320场。
 
 据官方来源与新闻机构报道，马来西亚2025年主席任期内的主要进展包括：
 

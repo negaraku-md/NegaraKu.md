@@ -23,7 +23,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "b9201dd8409c733b"
+sourceContentHash: "46290890ce15acbd"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -109,7 +109,7 @@ PeKa B40 的资格无需另行填写申请表格，而是根据以下两项条�
 ## PeKa B40 不是 mySalam——切勿混淆两者
 
 这是最常见的混淆来源。**mySalam** 是另一项独立计划——一项由 Great
-Eastern Takaful Berhad 代表马来西亚财政部营运的 takaful（伊斯兰保险）
+Eastern Takaful Berhad 代表[马来西亚财政部](/government/ministry-of-finance-treasury)营运的 takaful（伊斯兰保险）
 保障计划，并非由 KKM／ProtectHealth 负责。它的基本资格同样根据 STR
 领取者身份而定，但所提供的援助完全不同：
 

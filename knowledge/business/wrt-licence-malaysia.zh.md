@@ -41,7 +41,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "dcb90557358d351c"
+sourceContentHash: "01bb0853bba1972c"
 
 status: "published"
 aiAssisted: true
@@ -110,7 +110,7 @@ keywords:
 
 ## 什么是 WRT 批准？
 
-它是**国内贸易及生活成本部（KPDN）**就分销贸易中的外资参与所发出的许可——大致是指由具外资股权的公司在马来西亚从事的批发、零售及相关贸易活动。
+它是**[国内贸易及生活成本部](/government/ministry-of-domestic-trade-kpdn)（KPDN）**就分销贸易中的外资参与所发出的许可——大致是指由具外资股权的公司在马来西亚从事的批发、零售及相关贸易活动。
 
 指南将分销贸易定义为将货物与服务沿供应链向下输送至中介以供转售、或输送至最终买家的一切衔接活动。分销商包括批发商、零售商、特许经营从业者、直销商、在国内市场输送货物的供应商，以及佣金代理。制造业公司，以及获得 MIDA 区域机构地位（IPC、RDC、OHQ）的公司不在此定义之内；受其他法令管辖的产品亦然——石油、药品、医药及矫形产品、有毒物质与爆炸物、军火弹药、农业原材料，以及活体动物。
 

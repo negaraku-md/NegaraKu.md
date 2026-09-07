@@ -137,7 +137,7 @@ The through-line of the plan is that certification alone does not build an indus
 
 The Halal Development Corporation (HDC) is the custodian of the agenda. It designates the HALMAS parks, administers incentive access, promotes exports and acts as the single coordinating body between industry and government.
 
-Trade promotion is a large part of the job. The flagship shop-window is MIHAS, the Malaysia International Halal Showcase, which pairs Malaysian producers with international buyers. On the policy side, the government has approved a merger of HDC with MATRADE to fold halal export promotion into MATRADE's existing trade networks — a move meant to convert certified capacity into actual overseas sales. A recurring constraint the government itself flags is certification throughput: expanding the pipeline of certified, export-ready "serious industry players" is treated as a bottleneck to loosen, not a solved problem.
+Trade promotion is a large part of the job. The flagship shop-window is MIHAS, the Malaysia International Halal Showcase, which pairs Malaysian producers with international buyers. On the policy side, the government has approved a merger of HDC with [MATRADE](/government/matrade) to fold halal export promotion into MATRADE's existing trade networks — a move meant to convert certified capacity into actual overseas sales. A recurring constraint the government itself flags is certification throughput: expanding the pipeline of certified, export-ready "serious industry players" is treated as a bottleneck to loosen, not a solved problem.
 
 ## Why does a Muslim-majority standard target non-Muslim markets?
 

@@ -22,7 +22,7 @@ appliesTo: "Anyone moving into a new house or premises in Malaysia who needs to 
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "afe9faa9e2aba456"
+sourceContentHash: "6891503e50f70d6b"
 
 status: "published"
 aiAssisted: true
@@ -81,8 +81,8 @@ Sarawak, that's entirely the wrong phone number.
 Electricity supply in Malaysia is not run by a single body. **Tenaga
 Nasional Berhad (TNB)** serves Peninsular Malaysia through the myTNB
 portal and the **Kedai Tenaga** outlet network. Sabah, meanwhile, belongs
-to **Sabah Electricity Sdn Bhd (SESB)**, and Sarawak to **Sarawak Energy
-Berhad**. All three operate separately, with their own application forms,
+to **Sabah Electricity Sdn Bhd (SESB)**, and Sarawak to **[Sarawak Energy
+Berhad](/energy/sarawak-energy-berhad)**. All three operate separately, with their own application forms,
 deposit rates and even their own terminology — so a Google search for
 "how to apply for electricity" that only turns up TNB guides isn't much
 help if the house is in Kota Kinabalu or Kuching.

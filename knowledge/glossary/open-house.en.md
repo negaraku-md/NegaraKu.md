@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Anyone invited to an open house for the first time, organisers of community- or company-level open houses, and anyone seeking to understand this practice as a cross-ethnic social phenomenon in Malaysia."
 
 lang: "en"
-sourceContentHash: "849964b901802a27"
+sourceContentHash: "3bc3f6abab7fea70"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -100,7 +100,7 @@ This places the open house in a rather unique position: it began as an informal 
 
 ## Its link to national unity policy
 
-The Ministry of National Unity (KPN), through its official website, describes its mandate as strengthening identity, social integration and harmony among adherents of different religions — carried out through frameworks such as the National Unity Action Plan 2021-2030. KPN does not treat the open house as a specific programme on its portal, but it does oversee community-level programmes such as Rukun Tetangga that share a similar goal: strengthening ties among residents of different ethnicities at the grassroots level.
+The Ministry of National Unity (KPN), through its official website, describes its mandate as strengthening identity, social integration and harmony among adherents of different religions — carried out through frameworks such as the National Unity Action Plan 2021-2030. KPN does not treat the open house as a specific programme on its portal, but it does oversee community-level programmes such as [Rukun Tetangga](/public-safety/community-policing-rukun-tetangga) that share a similar goal: strengthening ties among residents of different ethnicities at the grassroots level.
 
 The open house, therefore, functions as a social practice aligned with the goals of that unity policy — even though it itself grew organically out of family and religious tradition, rather than being designed as a government programme.
 

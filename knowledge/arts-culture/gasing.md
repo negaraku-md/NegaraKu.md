@@ -73,7 +73,7 @@ Jabatan Warisan Negara mencatatkan gasing dimainkan dengan dua cara yang berbeza
 | Fokus kemenangan | Gasing lawan berhenti atau tersasar | Gasing sendiri kekal berpusing selepas yang lain berhenti |
 | Sifat permainan | Konfrontasi terus, dua pihak bersaing serentak | Ujian ketahanan dan kestabilan, bukan hentaman |
 
-Portal Majlis Keselamatan Negara memerihalkan mekanik gasing pangkah dengan lebih terperinci: gasing dimainkan dengan cara memangkah gasing pihak lawan yang sedang berpusing di bahagian atas badan gasing yang telah dipasangkan besi. Besi itu bukan hiasan — ia bahagian yang menerima dan menyalurkan hentakan.
+Portal [Majlis Keselamatan Negara](/government/national-security-council-mkn) memerihalkan mekanik gasing pangkah dengan lebih terperinci: gasing dimainkan dengan cara memangkah gasing pihak lawan yang sedang berpusing di bahagian atas badan gasing yang telah dipasangkan besi. Besi itu bukan hiasan — ia bahagian yang menerima dan menyalurkan hentakan.
 
 Menurut sumber yang sama, tiga kriteria menentukan gasing yang bertahan lebih lama: kelajuan, keseimbangan dan kekuatan. Gasing yang laju tetapi tidak seimbang akan tersasar sebelum sempat memberi kesan; gasing yang kukuh tetapi perlahan pula mudah dielak.
 

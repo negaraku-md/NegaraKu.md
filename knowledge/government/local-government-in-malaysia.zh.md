@@ -32,7 +32,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "547b9cb1d8531544"
+sourceContentHash: "78de95ae401b9cbb"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -92,7 +92,7 @@ keywords: ["local government Malaysia", "PBT", "pihak berkuasa tempatan", "majli
 
 《联邦宪法》将地方政府列入**州事项清单**——第九附表第二清单的第4项。该项涵盖「地方行政；市政机构；地方、市镇及乡村委员会和其他地方当局；地方政府服务、地方税率、地方政府选举」，适用于除吉隆坡、纳闽和布城这三个联邦直辖区之外的所有地方。由于该事项属于州事项清单，对议会的法律权力主要归属于各州。
 
-为了防止十三个州各行其是，《宪法》**第95A条**设立了**地方政府国家理事会（Majlis Negara bagi Kerajaan Tempatan）**。依据第95A(1)条，该理事会由一名**部长担任主席**、**每个州各派一名代表**（由统治者或州元首委任），以及**若干名由联邦政府委任的联邦政府代表，上限为十名**组成。其职责是在与联邦和州政府协商后，制定一项「促进、发展和管控全联邦地方政府」的国家政策——联邦和州政府都必须遵循它所制定的政策。在行政层面，联邦**房屋及地方政府部（KPKT）**通过其**地方政府局（Jabatan Kerajaan Tempatan，JKT）**，研究并提出地方政府立法的修订建议、协调行政与纪律政策、发布通令和指南，并处理提升地方当局地位或扩大其辖区范围的申请。
+为了防止十三个州各行其是，《宪法》**第95A条**设立了**地方政府国家理事会（Majlis Negara bagi Kerajaan Tempatan）**。依据第95A(1)条，该理事会由一名**部长担任主席**、**每个州各派一名代表**（由统治者或州元首委任），以及**若干名由联邦政府委任的联邦政府代表，上限为十名**组成。其职责是在与联邦和州政府协商后，制定一项「促进、发展和管控全联邦地方政府」的国家政策——联邦和州政府都必须遵循它所制定的政策。在行政层面，联邦**[房屋及地方政府部](/government/ministry-of-housing-local-government-kpkt)（KPKT）**通过其**地方政府局（Jabatan Kerajaan Tempatan，JKT）**，研究并提出地方政府立法的修订建议、协调行政与纪律政策、发布通令和指南，并处理提升地方当局地位或扩大其辖区范围的申请。
 
 ## 三类地方当局是什么？
 

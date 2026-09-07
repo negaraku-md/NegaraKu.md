@@ -156,7 +156,7 @@ Permohonan dibuat melalui i-Akaun KWSP dengan menyertakan Perjanjian Jual Beli (
 
 ## Bagaimana jika saya tiada slip gaji tetap?
 
-Golongan bekerja sendiri, pekerja gig dan usahawan mikro sering ditolak bank kerana ketiadaan pendapatan tetap. **Skim Jaminan Kredit Perumahan (SJKP)** — dikendalikan oleh Syarikat Jaminan Kredit Perumahan Berhad di bawah Kementerian Kewangan Malaysia — menjadi penjamin supaya bank sanggup memberi pembiayaan.
+Golongan bekerja sendiri, pekerja gig dan usahawan mikro sering ditolak bank kerana ketiadaan pendapatan tetap. **Skim Jaminan Kredit Perumahan (SJKP)** — dikendalikan oleh Syarikat Jaminan Kredit Perumahan Berhad di bawah [Kementerian Kewangan Malaysia](/government/ministry-of-finance-treasury) — menjadi penjamin supaya bank sanggup memberi pembiayaan.
 
 Ciri utama SJKP (mengikut Portal Manfaat MOF):
 

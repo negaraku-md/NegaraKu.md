@@ -106,7 +106,7 @@ Pemisahan peranan ini adalah usaha berterusan untuk menghilangkan tanggapan baha
 
 ## Apa peranan TNB dalam NETR?
 
-Rangkaian grid TNB kini menjadi tulang belakang **Peta Peralihan Tenaga Negara (National Energy Transition Roadmap, NETR)**. Sebabnya mudah: tenaga suria dan angin hanya berguna jika grid mampu menyerap dan mengagihkannya secara stabil, dan grid itu milik TNB.
+Rangkaian grid TNB kini menjadi tulang belakang **Peta Peralihan Tenaga Negara ([National Energy Transition Roadmap](/energy/national-energy-transition-roadmap-netr), NETR)**. Sebabnya mudah: tenaga suria dan angin hanya berguna jika grid mampu menyerap dan mengagihkannya secara stabil, dan grid itu milik TNB.
 
 NETR menetapkan sasaran penembusan tenaga boleh baharu yang semakin agresif, dengan matlamat keseluruhan mencapai pelepasan sifar bersih menjelang 2050:
 

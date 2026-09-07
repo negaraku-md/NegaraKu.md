@@ -123,7 +123,7 @@ Three points are worth stating plainly, because accounts often carry only one of
 
 - The resettlement was compulsory. People did not choose to move, and many lost cultivated land and homes.
 - The settlements were secured against entry and exit, with curfews and food controls applied to residents.
-- Most of them became permanent. New villages did not dissolve when the Emergency ended; they became ordinary Malaysian towns and villages, and the Ministry of Housing and Local Government still maintains a dedicated New Villages Division running infrastructure, housing and micro-credit programmes for them today.
+- Most of them became permanent. New villages did not dissolve when the Emergency ended; they became ordinary Malaysian towns and villages, and the [Ministry of Housing and Local Government](/government/ministry-of-housing-local-government-kpkt) still maintains a dedicated New Villages Division running infrastructure, housing and micro-credit programmes for them today.
 
 ## Registration, and the card that outlived the war
 

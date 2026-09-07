@@ -31,7 +31,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "35ed95d9b2036a32"
+sourceContentHash: "fbeedb8341d7b377"
 
 status: "published"
 aiAssisted: true
@@ -120,7 +120,7 @@ keywords: ["buying a car Malaysia", "hire purchase Malaysia", "JPJ ownership tra
 
 现金购车与租购购车，是两种截然不同的法律状况，大部分的混淆也正出在这里。
 
-现金付款的话，买家从第一天起就登记为车辆的拥有人。以融资方式购车的话，这项安排就落入由国内贸易与生活成本部（KPDN）执行的**Hire-Purchase Act 1967**之下：银行或财务公司在贷款存续期间登记为车辆的合法拥有人，买家则以**承租人**的身份持有车辆——享有用车的权利、承担营运成本，也有义务为车辆投保，但并不拥有车辆的合法所有权本身。只有在贷款完全清偿、融资方确认账户结清之后，所有权才会转移给买家。
+现金付款的话，买家从第一天起就登记为车辆的拥有人。以融资方式购车的话，这项安排就落入由[国内贸易与生活成本部](/government/ministry-of-domestic-trade-kpdn)（KPDN）执行的**Hire-Purchase Act 1967**之下：银行或财务公司在贷款存续期间登记为车辆的合法拥有人，买家则以**承租人**的身份持有车辆——享有用车的权利、承担营运成本，也有义务为车辆投保，但并不拥有车辆的合法所有权本身。只有在贷款完全清偿、融资方确认账户结清之后，所有权才会转移给买家。
 
 这也是为什么一辆仍在租购中的车，不能像现金购买的车那样直接转售。现任拥有人（卖家）须先取得银行发出的解除函——若这辆二手车接下来会由下一任买家再次融资，还须先完成上文所述的 Puspakom Hire Purchase 额外检验，新的贷款才能继续办理。
 

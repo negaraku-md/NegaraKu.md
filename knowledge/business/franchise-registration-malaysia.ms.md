@@ -34,7 +34,7 @@ faq:
     a: "Beroperasi tanpa pendaftaran adalah satu kesalahan. Di bawah Seksyen 39, sesuatu pertubuhan perbadanan boleh dikenakan denda RM10,000 hingga RM50,000 bagi kesalahan pertama dan RM20,000 hingga RM100,000 bagi kesalahan berikutnya; individu pula boleh dikenakan RM5,000 hingga RM25,000 atau penjara sehingga enam bulan bagi kesalahan pertama."
 
 lang: "ms"
-sourceContentHash: "69d4868633a7e1b5"
+sourceContentHash: "86582fd00a53a2cd"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -95,7 +95,7 @@ keywords: ["franchise registration malaysia", "franchise act 1998", "MyFEX 2.0",
 
 Anda tidak boleh menawarkan francais secara sah di Malaysia dengan cara yang biasa dilakukan di kebanyakan tempat di dunia — mula-mula mendaftar beberapa cawangan secara senyap, kemudian merasmikan segala-galanya kemudian. Undang-undang membalikkan susunan itu. Pendaftaran datang sebelum tawaran pertama, dan sejak 2022 ia turut terpakai kepada penerima francais.
 
-Malaysia ialah antara segelintir negara yang mempunyai statut francais khusus, iaitu **Akta Francais 1998**, yang dikuatkuasakan oleh seorang **Pendaftar Francais**. Satu gelombang pindaan — Akta Francais (Pindaan) 2020, berkuat kuasa mulai **28 April 2022** — mengetatkan peraturan dan memindahkan segala-galanya ke portal dalam talian baharu. Tanggungjawab bagi rejim francais telah beralih antara kementerian sejak itu: portal itu dilancarkan oleh Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup (KPDN) ketika itu, tetapi Pendaftar Francais dan portal MyFEX 2.0 kini berada di bawah **Kementerian Pembangunan Usahawan dan Koperasi** (KUSKOP, juga ditulis sebagai MECD), yang mengambil alih pentadbiran sepanjang 2023–2024. Berikut ialah cara sebenar pendaftaran berfungsi bagi setiap pihak.
+Malaysia ialah antara segelintir negara yang mempunyai statut francais khusus, iaitu **Akta Francais 1998**, yang dikuatkuasakan oleh seorang **Pendaftar Francais**. Satu gelombang pindaan — Akta Francais (Pindaan) 2020, berkuat kuasa mulai **28 April 2022** — mengetatkan peraturan dan memindahkan segala-galanya ke portal dalam talian baharu. Tanggungjawab bagi rejim francais telah beralih antara kementerian sejak itu: portal itu dilancarkan oleh [Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup](/government/ministry-of-domestic-trade-kpdn) (KPDN) ketika itu, tetapi Pendaftar Francais dan portal MyFEX 2.0 kini berada di bawah **Kementerian Pembangunan Usahawan dan Koperasi** (KUSKOP, juga ditulis sebagai MECD), yang mengambil alih pentadbiran sepanjang 2023–2024. Berikut ialah cara sebenar pendaftaran berfungsi bagi setiap pihak.
 
 ## Siapakah yang wajib mendaftar, dan di bawah seksyen yang mana?
 

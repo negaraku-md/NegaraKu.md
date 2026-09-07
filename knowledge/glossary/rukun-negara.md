@@ -100,7 +100,7 @@ bukan pula sekadar cogan kata. Ia lebih tepat difahami sebagai satu
 **ikrar bersama** — pernyataan nilai yang dipegang bersama oleh rakyat
 berbilang kaum dan agama.
 
-Menurut Majlis Keselamatan Negara (MKN), Rukun Negara "merupakan falsafah
+Menurut [Majlis Keselamatan Negara](/government/national-security-council-mkn) (MKN), Rukun Negara "merupakan falsafah
 kebangsaan Malaysia yang dibina atas lima prinsip utama sebagai panduan
 dalam kehidupan bermasyarakat". Ia menjadi pegangan, panduan serta amalan
 seluruh rakyat ke arah pemupukan dan pengukuhan semangat perpaduan.

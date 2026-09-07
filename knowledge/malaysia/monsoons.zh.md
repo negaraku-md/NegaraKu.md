@@ -69,7 +69,7 @@ relations:
   - { rel: "affects", to: "johor" }
 related: ["kelantan", "terengganu", "pahang", "johor"]
 keywords: ["monsun Malaysia", "monsun timur laut", "monsun barat daya", "musim tengkujuh", "banjir pantai timur", "MetMalaysia", "banjir Semenanjung Malaysia", "fasa peralihan monsun"]
-sourceContentHash: "426f1ac89e116265"
+sourceContentHash: "d977d1d40dd0956b"
 ---
 
 每年11月，在查看新闻之前，哥打巴鲁（Kota Bharu）、瓜拉登嘉楼（Kuala Terengganu）与关丹（Kuantan）的许多居民就已开始查看住家附近的河流水位。这并非源自突发灾难的习惯——而是一份可以预测、年复一年重演的时间表，其成因是同一套季节性风系，也正是它决定了半岛西海岸何时转为干燥。
@@ -105,7 +105,7 @@ sourceContentHash: "426f1ac89e116265"
 
 这种风险并非只是一般印象。根据灌溉与排水局（JPS）的数据，马来西亚全国的易涝区估计约为29,000平方公里——相当于全国面积的9%——涉及超过270万居民，即全国总人口的18%。
 
-就2024/2025年度而言，国家安全理事会（Majlis Keselamatan Negara，MKN）宣布东北季风于2024年11月5日开始，预计将持续至2025年3月，期间预测将出现5至7次豪雨事件。较少人知道的是，受影响地区也会随季节本身的阶段而改变：
+就2024/2025年度而言，[国家安全理事会](/government/national-security-council-mkn)（Majlis Keselamatan Negara，MKN）宣布东北季风于2024年11月5日开始，预计将持续至2025年3月，期间预测将出现5至7次豪雨事件。较少人知道的是，受影响地区也会随季节本身的阶段而改变：
 
 - **早期阶段（11月–12月）：** 吉兰丹、登嘉楼、彭亨、柔佛、砂拉越与沙巴
 - **后期阶段（1月–2月）：** 彭亨、柔佛、砂拉越与沙巴——吉兰丹与登嘉楼在此阶段不再被列为最高风险地区

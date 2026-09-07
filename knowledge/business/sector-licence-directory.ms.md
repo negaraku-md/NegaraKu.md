@@ -33,7 +33,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "2faa2d5ab731d5e0"
+sourceContentHash: "de6126fff54d2ff3"
 
 status: "published"
 aiAssisted: true
@@ -125,7 +125,7 @@ yang sama sekali berbeza.
 | KPDN | Franchise Act 1998 (Act 590) | Pendaftaran pemberi francais, pemegang francais dan broker | kpdn.gov.my |
 | KPDN | Direct Sales and Anti-Pyramid Scheme Act 1993 (Act 500) | Lesen jualan langsung | kpdn.gov.my |
 | KPDN | Control of Supplies Act 1961 (Act 122) | Lesen dan permit barangan terkawal | kpdn.gov.my |
-| KPDN | Petroleum Development Act 1974 (Act 144); Petroleum and Electricity (Control of Supplies) Act 1974 (Act 128) | Kawalan bekalan petroleum | kpdn.gov.my |
+| KPDN | [Petroleum Development Act 1974](/energy/petroleum-development-act-1974) (Act 144); Petroleum and Electricity (Control of Supplies) Act 1974 (Act 128) | Kawalan bekalan petroleum | kpdn.gov.my |
 | KPDN | Trade Descriptions Act 2011 (Act 730) | Perakuan halal dan perintah penandaan di bawah s.29 | kpdn.gov.my |
 | KPDN | [Consumer Protection Act 1999](/law/consumer-protection-act) (Act 599) | Tanggungjawab transaksi perdagangan elektronik, kini di bawah P.U.(A) 449/2024 | kpdn.gov.my |
 | Kastam Diraja Malaysia | Customs Act 1967 (Act 235) | Lesen import dan eksport di bawah perintah larangan, lesen gudang dan ejen | customs.gov.my |

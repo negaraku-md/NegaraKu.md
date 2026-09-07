@@ -32,7 +32,7 @@ faq:
     a: "The main cause is land and forest fires — including peatland fires and slash-and-burn land clearing for agriculture — in Sumatra and Kalimantan, which become more frequent and severe during dry seasons influenced by the El Nino phenomenon."
 
 lang: "en"
-sourceContentHash: "40f80643f49418ce"
+sourceContentHash: "f6dc09ddaaf77bcf"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -130,7 +130,7 @@ The DOE maps each API range to a health status and an advisory. The table below 
 | 101–200 | Unhealthy | Worsens the condition of high-risk groups (heart and lung patients) | High-risk groups should limit outdoor activities; the public should reduce strenuous activity |
 | 201–300 | Very Unhealthy | Affects exercise tolerance and public health | The elderly and high-risk groups should stay indoors; patients are advised to see a doctor |
 | > 300 | Hazardous | Hazardous to high-risk groups and public health | High-risk groups are barred from outdoor activities; the public should avoid outdoor activities |
-| > 500 | Emergency | Hazardous to high-risk groups and public health | The public should follow the instructions of the National Security Council and media announcements |
+| > 500 | Emergency | Hazardous to high-risk groups and public health | The public should follow the instructions of the [National Security Council](/government/national-security-council-mkn) and media announcements |
 
 A note on the ranges: the DOE's official table openly lists the top bands as "> 300" (Hazardous) and "> 500" (Emergency). In practice, this means the **Hazardous band covers 301–500** and **Emergency begins above 500**.
 

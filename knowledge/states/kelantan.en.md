@@ -43,7 +43,7 @@ verificationNeeded:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "0b7fdd624b551b31"
+sourceContentHash: "869286bde4f6fa80"
 
 status: "published"
 aiAssisted: true
@@ -127,7 +127,7 @@ heritage remains tied to household networks rather than large-scale industry.
 
 Kelantan sits in the northeast of Peninsular Malaysia, bordering Thailand to
 the north and facing the South China Sea to the northeast, with an area of
-about 15,040 square kilometres according to the National Security Council
+about 15,040 square kilometres according to the [National Security Council](/government/national-security-council-mkn)
 (Majlis Keselamatan Negara, MKN).
 
 Its name is linked to two commonly cited explanations — the word for

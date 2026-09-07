@@ -30,7 +30,7 @@ faq:
     a: "At 101–200 (Unhealthy), sensitive groups — the elderly, pregnant women, children, and people with heart or lung complications — should limit outdoor activity. Above 300 (Hazardous), the elderly and high-risk individuals are prohibited from outdoor activity, and the general public is advised to avoid it."
 
 lang: "en"
-sourceContentHash: "861261e09949f3b0"
+sourceContentHash: "fc387c28a9eb09b2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -102,7 +102,7 @@ The API is mapped to six colour-coded categories. This is the part that matters 
 | 101–200 | Unhealthy | Yellow | Sensitive groups (the elderly, pregnant women, children, people with heart/lung complications) should limit outdoor activity; the general public should reduce vigorous activity |
 | 201–300 | Very unhealthy | Orange | The elderly and high-risk individuals should stay indoors and reduce physical activity; those with health complications should see a doctor |
 | >300 | Hazardous | Red | The elderly and high-risk individuals are prohibited from outdoor activity; the general public should avoid outdoor activity |
-| >500 | Emergency | — (no separate colour defined on the official gauge) | Follow the directives of the National Security Council and mass-media announcements |
+| >500 | Emergency | — (no separate colour defined on the official gauge) | Follow the directives of the [National Security Council](/government/national-security-council-mkn) and mass-media announcements |
 
 ## Where does this data come from?
 

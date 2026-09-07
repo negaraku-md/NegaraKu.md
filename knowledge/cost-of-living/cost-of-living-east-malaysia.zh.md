@@ -22,7 +22,7 @@ appliesTo: "任何搬迁至沙巴或砂拉越、或为此编列预算的人，�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "09b2511e7525963f"
+sourceContentHash: "327dd8ebe6d5d915"
 
 status: "published"
 aiAssisted: true
@@ -110,7 +110,7 @@ Shipping Licensing Board）发牌——这项规则原意是保护本地航运�
 
 ## 政府为此做了什么
 
-自2013年2月起，KPDN（国内贸易及生活成本部）一直推行**沙巴、砂拉越及纳闽
+自2013年2月起，KPDN（[国内贸易及生活成本部](/government/ministry-of-domestic-trade-kpdn)）一直推行**沙巴、砂拉越及纳闽
 价格统一化计划（Program Penyeragaman Harga Sabah, Sarawak dan Labuan，简称
 PPHSSL）**，把糖、小麦粉与食用油这三项管制品的零售价格，与马来西亚半岛
 统一。该计划宣称的目标，是确保这三项物品在东马的供应充足，并减轻当地的

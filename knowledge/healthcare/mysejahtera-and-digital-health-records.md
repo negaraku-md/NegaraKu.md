@@ -95,7 +95,7 @@ Rekod kesihatan asas seperti keputusan saringan turut boleh dipaparkan dalam apl
 
 Kerajaan. MySejahtera pada asalnya dibangunkan sebagai inisiatif tanggungjawab sosial korporat (CSR) oleh KPISoft Malaysia — kemudian dikenali sebagai Entomo Malaysia — dari 27 Mac 2020 hingga 31 Mac 2021.
 
-Persoalan pemilikan menimbulkan perdebatan kerana pembangunnya sebuah syarikat swasta. Kabinet menyelesaikannya melalui memorandum yang diluluskan pada **26 November 2021**, memindahkan pentadbiran daripada Majlis Keselamatan Negara kepada Kementerian Kesihatan Malaysia sebagai penjaga dan pemilik tunggal. Pada Mac 2022, Menteri Kesihatan ketika itu, Khairy Jamaluddin, menegaskan kerajaan memiliki sepenuhnya data, tanda dagangan, modul aplikasi dan kod sumber, dengan pembangun hanya bertindak sebagai "operator platform".
+Persoalan pemilikan menimbulkan perdebatan kerana pembangunnya sebuah syarikat swasta. Kabinet menyelesaikannya melalui memorandum yang diluluskan pada **26 November 2021**, memindahkan pentadbiran daripada [Majlis Keselamatan Negara](/government/national-security-council-mkn) kepada Kementerian Kesihatan Malaysia sebagai penjaga dan pemilik tunggal. Pada Mac 2022, Menteri Kesihatan ketika itu, Khairy Jamaluddin, menegaskan kerajaan memiliki sepenuhnya data, tanda dagangan, modul aplikasi dan kod sumber, dengan pembangun hanya bertindak sebagai "operator platform".
 
 ## Bagaimana kontroversi data 2022 membentuk kepercayaan awam?
 

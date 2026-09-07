@@ -37,7 +37,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "8c8a1ce26a327a91"
+sourceContentHash: "dca70ac2ef9b33e2"
 
 status: "published"
 aiAssisted: true
@@ -123,7 +123,7 @@ JKKN文化地图也记载，wau也分布于柔佛、森美兰与雪兰莪。一�
 
 ## 为什么Wau Bulan胜出
 
-Wau Bulan不只是众多种类中的一种。国家安全理事会（Majlis Keselamatan Negara）门户网站将其描述为最受欢迎的种类，体型庞大、形状类似新月——而这两项特质解释了一切。
+Wau Bulan不只是众多种类中的一种。[国家安全理事会](/government/national-security-council-mkn)（Majlis Keselamatan Negara）门户网站将其描述为最受欢迎的种类，体型庞大、形状类似新月——而这两项特质解释了一切。
 
 新月形状即使被简化成一条单一的曲线，也依然一眼可辨。它先成为一个象征，然后才有机会成为一幅图像。马来西亚航空自家的刊物《Going Places》指出，这家国家航空公司的标志是受wau bulan启发而设计的。
 

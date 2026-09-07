@@ -99,7 +99,7 @@ keywords: ["MITI Malaysia", "Ministry of Investment Trade and Industry", "MIDA",
 | Type | Federal ministry |
 | Renamed | 5 April 2023, from the Ministry of International Trade and Industry — same acronym, MITI |
 | Core remit | Investment, trade and industrial policy; free trade agreement negotiation |
-| Key agencies | MIDA (investment), MATRADE (exports), plus around a dozen others |
+| Key agencies | MIDA (investment), [MATRADE](/government/matrade) (exports), plus around a dozen others |
 | Website | `miti.gov.my` |
 
 ## What MITI actually does

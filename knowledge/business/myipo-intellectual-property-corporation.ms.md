@@ -29,7 +29,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "11b7e51e8359a7c0"
+sourceContentHash: "1a13bdbeb8de806f"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -82,7 +82,7 @@ keywords: ["MyIPO", "Intellectual Property Corporation of Malaysia", "Perbadanan
 
 Jika anda telah mencipta sesuatu, membina jenama, mereka bentuk produk atau ingin melindungi keistimewaan serantau di Malaysia, hampir kesemuanya boleh diuruskan melalui satu pintu — dan mudah untuk anda dihalakan ke perkhidmatan yang salah oleh laman yang cuba menjual hanya satu daripadanya. **MyIPO**, Perbadanan Harta Intelek Malaysia (Bahasa Melayu: *Perbadanan Harta Intelek Malaysia*), ialah agensi berkanun yang bertanggungjawab membangun dan mentadbir keseluruhan sistem harta intelek Malaysia. Ini merangkumi harta perindustrian — paten, cap dagangan, reka bentuk perindustrian dan reka bentuk susun atur litar bersepadu — serta hak cipta dan hak berkaitan.
 
-MyIPO ditubuhkan di bawah **Akta Perbadanan Harta Intelek Malaysia 2002 (Akta 617)**, yang diluluskan untuk menubuhkan Perbadanan ini serta memperuntukkan fungsi dan kuasanya. Ia mula berkuat kuasa pada **3 Mac 2003** (pemberitahuan warta P.U. (B) 102/2003), iaitu titik permulaan operasinya sebagai badan berkanun yang dikorporatkan. Ia adalah agensi persekutuan di bawah **Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup (KPDN)**. Misi yang dinyatakannya ialah menyediakan infrastruktur perundangan yang kukuh dan rejim pentadbiran yang berkesan bagi meningkatkan daya kreativiti dan pengeksploitasian harta intelek.
+MyIPO ditubuhkan di bawah **Akta Perbadanan Harta Intelek Malaysia 2002 (Akta 617)**, yang diluluskan untuk menubuhkan Perbadanan ini serta memperuntukkan fungsi dan kuasanya. Ia mula berkuat kuasa pada **3 Mac 2003** (pemberitahuan warta P.U. (B) 102/2003), iaitu titik permulaan operasinya sebagai badan berkanun yang dikorporatkan. Ia adalah agensi persekutuan di bawah **[Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup](/government/ministry-of-domestic-trade-kpdn) (KPDN)**. Misi yang dinyatakannya ialah menyediakan infrastruktur perundangan yang kukuh dan rejim pentadbiran yang berkesan bagi meningkatkan daya kreativiti dan pengeksploitasian harta intelek.
 
 ## Apakah hak yang ditadbir oleh MyIPO, dan untuk berapa lama?
 

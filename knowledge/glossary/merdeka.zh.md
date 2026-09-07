@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "任何想了解「merdeka」一词真正含义与来源，而不仅仅是1957年那个日期或仪式的人。"
 
 lang: "zh"
-sourceContentHash: "ec5875367ad76b6c"
+sourceContentHash: "194d82a69dbc1089"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -116,7 +116,7 @@ hutang」（摆脱债务），一个组织也可以「merdeka」于他方的控�
 礼炮。伊丽莎白二世女王的代表格洛斯特公爵（Duke of Gloucester）
 将宪制文件移交给首相——象征英国统治的终结。
 
-据国家安全理事会（Majlis Keselamatan Negara，MKN）的记录，这项
+据[国家安全理事会](/government/national-security-council-mkn)（Majlis Keselamatan Negara，MKN）的记录，这项
 事件之前，早于1956年2月8日签署的《伦敦协定》已订明1957年8月31日
 为独立日期。
 

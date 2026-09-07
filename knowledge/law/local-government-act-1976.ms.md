@@ -29,7 +29,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "0dbf40c3c9364919"
+sourceContentHash: "ef5c1db3291f9813"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -98,4 +98,4 @@ Dalam bentuknya yang disatukan, Akta ini mengandungi **16 Bahagian, 166 seksyen 
 
 ## Apa seterusnya
 
-Untuk membantah suatu penilaian atau bil taksiran, ikuti prosedur notis-dan-bantahan dalam Bahagian XV dan senarai nilaian majlis anda. Untuk memahami kedudukan majlis di bawah lapisan negeri dan persekutuan, lihat seterusnya Kementerian Perumahan dan Kerajaan Tempatan (KPKT) dan Majlis Negara bagi Kerajaan Tempatan di bawah Perkara 95A.
+Untuk membantah suatu penilaian atau bil taksiran, ikuti prosedur notis-dan-bantahan dalam Bahagian XV dan senarai nilaian majlis anda. Untuk memahami kedudukan majlis di bawah lapisan negeri dan persekutuan, lihat seterusnya [Kementerian Perumahan dan Kerajaan Tempatan](/government/ministry-of-housing-local-government-kpkt) (KPKT) dan Majlis Negara bagi Kerajaan Tempatan di bawah Perkara 95A.

@@ -34,7 +34,7 @@ faq:
     a: "第3条将Petronas置于首相的控制与指示之下，其指示对该法人具有约束力。第6条规定，Petronas以外的任何人在进行加工、提炼或制造石化产品之前须获得首相批准，而第7条则赋予首相制定条例的权力。"
 
 lang: "zh"
-sourceContentHash: "c2d4f18e78fe25a8"
+sourceContentHash: "7e742ec88e8babf9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -128,7 +128,7 @@ keywords: ["akta kemajuan petroleum 1974", "petroleum development act 1974", "pe
 
 ## 这一争议如何在法庭与谈判桌上展开？
 
-除了吉兰丹后来撤回的诉讼外，最为活跃的裂缝存在于Petronas与砂拉越之间。砂拉越于2017年8月7日设立了其州属石油公司——砂拉越石油公司（Petroleum Sarawak Berhad，Petros），并制定了2016年天然气分销条例（Distribution of Gas Ordinance）。Petros根据该州法律主张作为单一天然气聚合商的权利，而Petronas则坚持其在1974年石油发展法令下的权利凌驾于州法律之上。
+除了吉兰丹后来撤回的诉讼外，最为活跃的裂缝存在于Petronas与砂拉越之间。砂拉越于2017年8月7日设立了其州属石油公司——[砂拉越石油公司](/energy/sarawak-petros-gas-dispute)（Petroleum Sarawak Berhad，Petros），并制定了2016年天然气分销条例（Distribution of Gas Ordinance）。Petros根据该州法律主张作为单一天然气聚合商的权利，而Petronas则坚持其在1974年石油发展法令下的权利凌驾于州法律之上。
 
 一些进展已被公开报道：2020年5月，Petronas据报同意向砂拉越支付20亿令吉的石油产品销售税作为一项和解；而在2025年5月，首相与砂拉越总理据报签署了一份联合宣言，承认1974年石油发展法令与天然气分销条例两者。这些商业与政治安排与关于管辖权的根本宪法问题并行存在——而并未将其完全解决。
 

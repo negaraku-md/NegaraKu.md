@@ -29,7 +29,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e9c11096f70f0f54"
+sourceContentHash: "739ef0391be9be93"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -120,7 +120,7 @@ Ketiga-tiganya. Ia adalah pencapaian penting pada trajektori yang sama, ditetapk
 
 **Pelan Hala Tuju Tenaga Boleh Diperbaharui Malaysia (MyRER)**, yang diterbitkan oleh Suruhanjaya Pembangunan Tenaga Lestari (SEDA), menetapkan penanda jangka pendek: **31% bahagian tenaga boleh diperbaharui dalam campuran kapasiti terpasang nasional menjelang 2025**. MyRER menganggarkan pelaburan melebihi **MYR 53 bilion** dan **46,636 penciptaan pekerjaan** dalam mencapai matlamatnya.
 
-**Pelan Hala Tuju Peralihan Tenaga Negara (NETR)** yang lebih luas kemudiannya membawa trajektori itu ke hadapan: **31% daripada kapasiti terpasang menjelang 2025, 40% menjelang 2035, dan 70% menjelang 2050**. Satu nuansa penting yang sering hilang dalam tajuk berita — angka 70% adalah tenaga boleh diperbaharui sebagai bahagian daripada **penjanaan / kapasiti terpasang** elektrik, bukan keseluruhan sistem tenaga. Dari segi kapasiti, kapasiti boleh diperbaharui terpasang Malaysia dijangka berkembang daripada kira-kira **6 GW kepada 14 GW** dalam perjalanan ke sana.
+**[Pelan Hala Tuju Peralihan Tenaga Negara](/energy/national-energy-transition-roadmap-netr) (NETR)** yang lebih luas kemudiannya membawa trajektori itu ke hadapan: **31% daripada kapasiti terpasang menjelang 2025, 40% menjelang 2035, dan 70% menjelang 2050**. Satu nuansa penting yang sering hilang dalam tajuk berita — angka 70% adalah tenaga boleh diperbaharui sebagai bahagian daripada **penjanaan / kapasiti terpasang** elektrik, bukan keseluruhan sistem tenaga. Dari segi kapasiti, kapasiti boleh diperbaharui terpasang Malaysia dijangka berkembang daripada kira-kira **6 GW kepada 14 GW** dalam perjalanan ke sana.
 
 NETR lebih luas daripada panel solar. Ia dibina di atas enam tuas peralihan tenaga — **Kecekapan Tenaga, Tenaga Boleh Diperbaharui, Hidrogen, Biotenaga, Mobiliti Hijau, dan Penangkapan, Penggunaan dan Penyimpanan Karbon** — yang distrukturkan kepada **10 projek pemangkin utama**. Projek-projek utama itu dijangka menarik pelaburan melebihi **RM25 bilion**, manakala peralihan tenaga yang lebih luas dirangka sebagai peluang **RM1.2 trilion hingga RM1.3 trilion** menjelang 2050. Di sebalik kesemuanya adalah **aspirasi pelepasan sifar bersih gas rumah hijau menjelang 2050**.
 

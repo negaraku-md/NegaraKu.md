@@ -29,7 +29,7 @@ faq:
     a: "It has been replaced by NADMA Directive No. 1, approved at a National Security Council (MKN) meeting chaired by the Prime Minister on 1 August 2024."
 
 lang: "en"
-sourceContentHash: "12035f0662505b47"
+sourceContentHash: "cb54d0894eec9ad2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -99,7 +99,7 @@ These functions and roles are detailed on the MyGovernment portal and NADMA's of
 
 ## How was NADMA established?
 
-NADMA's establishment stemmed from the decision to separate the disaster function from the National Security Council. According to the official record "History of NADMA's Establishment" (source #3): on 29 July 2015, the Cabinet (Jemaah Menteri) agreed to separate the disaster management function from the MKN. The Cabinet then approved the establishment of NADMA on 26 August 2015, and the agency officially began operating under the JPM on 1 October 2015, guided by MKN Directive No. 20 at the time.
+NADMA's establishment stemmed from the decision to separate the disaster function from the [National Security Council](/government/national-security-council-mkn). According to the official record "History of NADMA's Establishment" (source #3): on 29 July 2015, the Cabinet (Jemaah Menteri) agreed to separate the disaster management function from the MKN. The Cabinet then approved the establishment of NADMA on 26 August 2015, and the agency officially began operating under the JPM on 1 October 2015, guided by MKN Directive No. 20 at the time.
 
 ## How are the federal, state and district levels coordinated?
 

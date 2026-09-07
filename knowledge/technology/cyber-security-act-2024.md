@@ -94,7 +94,7 @@ The Cyber Security Act 2024 is enacted as **Act 854**. It received Royal Assent 
 The statute does several things at once:
 
 - It establishes a **National Cyber Security Committee** as a governance body for national cyber policy.
-- It sets out the duties and powers of the **National Cyber Security Agency (NACSA)** and its **Chief Executive**, who is the day-to-day regulator under the Act.
+- It sets out the duties and powers of the **[National Cyber Security Agency](/technology/nacsa-cybersecurity-malaysia) (NACSA)** and its **Chief Executive**, who is the day-to-day regulator under the Act.
 - It creates the concept of **National Critical Information Infrastructure (NCII)** and a mechanism to designate the entities that own or operate it.
 - It imposes a code of practice, incident-reporting, risk-assessment and audit duties on those entities.
 - It introduces a **licensing regime** for specified cybersecurity service providers.

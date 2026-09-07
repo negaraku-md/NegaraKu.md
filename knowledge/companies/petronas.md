@@ -168,7 +168,7 @@ Isu ini sensitif dari segi perlembagaan kerana ia menyentuh keseimbangan kuasa a
 
 ## Apakah tuntutan Sarawak dan isu PETROS?
 
-Pertikaian paling hangat kini melibatkan Sarawak. Negeri itu menubuhkan syarikat minyak dan gasnya sendiri, **Petroleum Sarawak Berhad (PETROS)**, pada 2017, dan sejak itu berusaha mengembalikan kawalan ke atas sektor petroleumnya.
+Pertikaian paling hangat kini melibatkan Sarawak. Negeri itu menubuhkan syarikat minyak dan gasnya sendiri, **[Petroleum Sarawak Berhad](/energy/sarawak-petros-gas-dispute) (PETROS)**, pada 2017, dan sejak itu berusaha mengembalikan kawalan ke atas sektor petroleumnya.
 
 **Pendirian Sarawak.** Sarawak berhujah bahawa bidang kuasanya ke atas minyak dan gas berakar pada undang-undang yang wujud sebelum Malaysia — terutamanya **Ordinan Perlombongan Minyak 1958** — dan dilindungi oleh MA63. Berdasarkan **Ordinan Pengagihan Gas 2016 (DGO)**, Sarawak mahu PETROS menjadi **penyatu gas (gas aggregator) tunggal** di negeri itu, iaitu satu-satunya entiti yang membeli dan mengagihkan gas dalam Sarawak.
 

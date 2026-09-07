@@ -38,7 +38,7 @@ faq:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "a2bc830971533a07"
+sourceContentHash: "42425bd622f27615"
 
 status: "published"
 aiAssisted: true
@@ -223,7 +223,7 @@ keywords: ["hubungan Malaysia Indonesia", "serumpun", "pekerja migran Indonesia"
 
 在边界政治之外，经济是一种稳定的黏合剂。2024 年，马来西亚的贸易总额达到创纪录的 **RM2.9 万亿林吉特**。在这一数字中，印尼仍是**马来西亚在东盟内的重要贸易伙伴之一**：马来西亚对印尼的出口较前一年增长 **6.9%（约 RM3.5 bilion）**，其中大部分由石油产品驱动。
 
-根据 DOSM 与 MATRADE 的数据，马来西亚 2024 年向印尼出口了价值 **RM54.40 bilion**（544 亿林吉特）的商品，占马来西亚对东盟出口的 **12.4%**，使印尼成为东盟内的**第三大出口目的地**（仅次于新加坡与泰国）。矿物燃料与精炼油居首，其次是机械、塑料与电气设备。清真领域的合作也被确认为未来增长的推动力。
+根据 DOSM 与 [MATRADE](/government/matrade) 的数据，马来西亚 2024 年向印尼出口了价值 **RM54.40 bilion**（544 亿林吉特）的商品，占马来西亚对东盟出口的 **12.4%**，使印尼成为东盟内的**第三大出口目的地**（仅次于新加坡与泰国）。矿物燃料与精炼油居首，其次是机械、塑料与电气设备。清真领域的合作也被确认为未来增长的推动力。
 
 ## 雇主指南：聘用印尼家庭佣工
 

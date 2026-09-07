@@ -29,7 +29,7 @@ faq:
     a: "是的。两州都设有自己的旅游局，在马来西亚旅游局的全国性工作之外，另行营销本州。"
 
 lang: "zh"
-sourceContentHash: "f8806e78829db0a2"
+sourceContentHash: "353b6077a5a0f789"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -123,7 +123,7 @@ STB 将其推广工作围绕一个它称为 **CANFF** 的好记公式来展开�
 旅游只是 MOTAC 职权范围的一部分。该部主管一系列涵盖文化、遗产与艺术的部门和机构，包括：
 
 - **马来西亚旅游局** —— 国家旅游推广
-- **国家遗产局（Department of National Heritage）** —— 遗产地保护
+- **[国家遗产局](/government/department-of-national-heritage)（Department of National Heritage）** —— 遗产地保护
 - **国家文化与艺术局（JKKN）** —— 艺术与文化项目
 - **伊斯兰旅游中心（ITC）** —— 伊斯兰旅游产品
 - **马来西亚会展局（MyCEB）** —— 商务会展与会议

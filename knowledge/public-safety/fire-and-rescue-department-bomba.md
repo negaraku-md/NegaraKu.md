@@ -187,7 +187,7 @@ Ketika kecemasan, dail 999. Panggilan itu dikendalikan oleh MERS 999
 lima agensi — polis, Bomba, Kementerian Kesihatan, Agensi Penguatkuasaan
 Maritim Malaysia dan pasukan pertahanan awam. Nyatakan lokasi dengan tepat
 dan jenis kecemasan supaya panggilan itu dihalakan ke agensi yang betul.
-Menurut Angkatan Pertahanan Awam Malaysia (APM), setiap panggilan melalui
+Menurut [Angkatan Pertahanan Awam Malaysia](/public-safety/civil-defence-force-apm) (APM), setiap panggilan melalui
 talian kecemasan 999 adalah percuma.
 
 > **Nota tatanama:** agensi pertahanan awam kini dikenali secara rasmi sebagai

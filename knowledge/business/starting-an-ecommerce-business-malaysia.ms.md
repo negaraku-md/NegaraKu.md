@@ -33,7 +33,7 @@ faq:
     a: "Sebagai penjual, tidak. Anda mendaftar dengan gerbang pembayaran (payment gateway), yang mengendalikan langkah pengesahan perniagaan; pengendali gerbang pembayaran itulah yang mesti diluluskan oleh Bank Negara Malaysia, bukan anda. Bergantung pada apa yang anda jual, peraturan khusus sektor mungkin masih terpakai — contohnya kosmetik dan produk kesihatan memerlukan pemberitahuan kepada pengawal selia berkaitan tanpa mengira saluran jualan."
 
 lang: "ms"
-sourceContentHash: "731294cfbb60b52f"
+sourceContentHash: "beb54faa40df4583"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -95,7 +95,7 @@ Perhatikan apa yang *bukan* langkah ini: **tiada 'lesen perniagaan dalam talian'
 
 ## Langkah 2: Patuhi peraturan pendedahan e-dagang (dikemas kini pada 2024)
 
-Di sinilah banyak panduan sudah lapuk. Peraturan-Peraturan Perlindungan Pengguna (Transaksi Perdagangan Elektronik) 2012 yang lama telah **digantikan oleh Peraturan 2024, berkuat kuasa 25 Disember 2024**, di bawah [Akta Perlindungan Pengguna 1999](/law/consumer-protection-act) dan dikuatkuasakan oleh Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup (KPDN).
+Di sinilah banyak panduan sudah lapuk. Peraturan-Peraturan Perlindungan Pengguna (Transaksi Perdagangan Elektronik) 2012 yang lama telah **digantikan oleh Peraturan 2024, berkuat kuasa 25 Disember 2024**, di bawah [Akta Perlindungan Pengguna 1999](/law/consumer-protection-act) dan dikuatkuasakan oleh [Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup](/government/ministry-of-domestic-trade-kpdn) (KPDN).
 
 Penjual dalam talian atau pembekal di pasaran dalam talian (marketplace) mesti **memaparkan**:
 

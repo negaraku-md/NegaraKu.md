@@ -100,7 +100,7 @@ keywords: ["Petroleum Development Act 1974", "Petronas ownership", "Malaysia oil
 
 Malaysians do not own Malaysia's oil in the way most people assume. Neither, strictly, do the states in whose waters it sits.
 
-Since **1 October 1974**, when the Petroleum Development Act 1974 came into force, the entire ownership of petroleum in Malaysia has belonged to one company. Section 2(1) is unambiguous: the entire ownership in, and the exclusive rights, powers, liberties and privileges of exploring, exploiting, winning and obtaining petroleum — onshore or offshore — is vested in a corporation incorporated under company law. Section 3(1) then provides that the Corporation shall be styled PETRONAS.
+Since **1 October 1974**, when the [Petroleum Development Act 1974](/energy/petroleum-development-act-1974) came into force, the entire ownership of petroleum in Malaysia has belonged to one company. Section 2(1) is unambiguous: the entire ownership in, and the exclusive rights, powers, liberties and privileges of exploring, exploiting, winning and obtaining petroleum — onshore or offshore — is vested in a corporation incorporated under company law. Section 3(1) then provides that the Corporation shall be styled PETRONAS.
 
 That company pays its dividend to the federal government — MOF books it as government investment income — and section 3(2) makes it subject to the control and direction of the Prime Minister. Section 3(3) adds that such directions bind the company notwithstanding the Companies Act or any other written law. So the chain runs: resource → company → Prime Minister.
 

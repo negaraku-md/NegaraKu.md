@@ -39,7 +39,7 @@ faq:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "c0d0abc8827bbcbf"
+sourceContentHash: "b4fd92803516f862"
 
 status: "published"
 aiAssisted: true
@@ -142,7 +142,7 @@ keywords: ["subsidi bahan api", "BUDI95", "RON95", "subsidi diesel", "PADU", "su
 
 按政府的论点，全面补贴代价过于高昂，而且大部分好处流向了并非最需要帮助的群体。
 
-据财政部所述，单是RON95补贴在2023与2024年每年就耗资**近RM200亿**。由于这个低价发放给*所有*消费者，政府认为很大一部分人民的钱也流向了驾驶最多、最有能力支付全价的高收入群体。
+据[财政部](/government/ministry-of-finance-treasury)所述，单是RON95补贴在2023与2024年每年就耗资**近RM200亿**。由于这个低价发放给*所有*消费者，政府认为很大一部分人民的钱也流向了驾驶最多、最有能力支付全价的高收入群体。
 
 至于柴油，政府认为问题更为明显。政府曾为柴油补贴支出**RM143亿**，并指出其中很大一部分被泄漏——不是流向人民，而是流向跨境走私与商业滥用，因为马来西亚柴油比邻国便宜得多。
 

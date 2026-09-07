@@ -129,5 +129,5 @@ Visi APMM ialah "menjadi antara agensi penguatkuasaan maritim terbaik di dunia",
 ## What's next
 
 - Rujuk laman rasmi APMM (mmea.gov.my) untuk hubungan wilayah maritim terkini jika anda memerlukan bantuan kecemasan di laut.
-- Untuk memahami bagaimana APMM melengkapi agensi keselamatan lain, baca profil Polis Diraja Malaysia (PDRM) dan Angkatan Tentera Malaysia (ATM).
+- Untuk memahami bagaimana APMM melengkapi agensi keselamatan lain, baca profil Polis Diraja Malaysia (PDRM) dan [Angkatan Tentera Malaysia](/government/malaysian-armed-forces-mindef) (ATM).
 - Nota: sesetengah angka operasi (saiz armada, bilangan tepat wilayah/daerah maritim) berubah dari masa ke masa dan sengaja tidak dinyatakan di sini melainkan boleh disahkan daripada sumber rasmi.

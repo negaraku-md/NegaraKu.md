@@ -32,7 +32,7 @@ faq:
     a: "与电力相关的问题是住宅火灾中最主要的起因之一——布线损坏、插座超负荷和延长线磨损。无人看管的烹饪活动和LPG（液化石油气）泄漏也是主要因素。"
 
 lang: "zh"
-sourceContentHash: "2119219e8d905ea6"
+sourceContentHash: "9ccf45c843ab8ebf"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -71,7 +71,7 @@ related: []
 keywords: ["keselamatan kebakaran", "pencegahan kebakaran", "perakuan bomba", "fire certificate", "JBPM", "Akta Perkhidmatan Bomba 1988"]
 ---
 
-火不会发出警告。几分钟之内，超负荷插座迸出的一点火花或无人看管的锅具就能夷平一间房子——单是2025年，马来西亚消防及拯救局（JBPM）就记录了16,111宗火灾案例，98人死亡，财产损失估计达20.9亿令吉。好消息是：几乎所有火灾都是可以预防的，无论是在您的客厅还是在工厂车间。
+火不会发出警告。几分钟之内，超负荷插座迸出的一点火花或无人看管的锅具就能夷平一间房子——单是2025年，[马来西亚消防及拯救局](/public-safety/fire-and-rescue-department-bomba)（JBPM）就记录了16,111宗火灾案例，98人死亡，财产损失估计达20.9亿令吉。好消息是：几乎所有火灾都是可以预防的，无论是在您的客厅还是在工厂车间。
 
 本指南将两件通常被分开讨论的事结合在一起——家居防火的做法，以及建筑物与商业机构的合规义务（尤其是消防准证）。
 

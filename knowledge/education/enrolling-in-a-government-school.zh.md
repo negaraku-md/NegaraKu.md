@@ -33,7 +33,7 @@ revisions:
     change: "Approved and published."
     reviewer: null
 updated: 2026-07-24
-sourceContentHash: "1bc86867ce3fe080"
+sourceContentHash: "0c89415b8941ca0c"
 sources:
   - title: "Pendaftaran (Pendaftaran Murid Tahun 1)"
     url: "https://www.moe.gov.my/pendaftaran-sr"
@@ -78,7 +78,7 @@ keywords: ["pendaftaran tahun 1", "idme moe gov my", "umur masuk sekolah rendah"
 确认为MYGovernment门户网站下的官方数码服务。
 
 报读时期每年开放，通常在二月至三月之间，供下一学年入学之用。例如，2027
-学年的报读期为**2026年2月15日至3月31日**，由国家安全理事会（MKN）与教育
+学年的报读期为**2026年2月15日至3月31日**，由[国家安全理事会](/government/national-security-council-mkn)（MKN）与教育
 部官方网站公布。确切日期与合格年龄群组每年都会变动——在依据旧日期采取行
 动之前，务必先查阅idme.moe.gov.my或moe.gov.my上的最新公告。
 

@@ -31,7 +31,7 @@ faq:
     a: "JBPM 被列为房屋及地方政府部（KPKT）之下的部门。马来西亚的部门职权范围会不时重组，因此在正式文件中依赖之前，请在 kpkt.gov.my 或 bomba.gov.my 核实当前的编排。"
 
 lang: "zh"
-sourceContentHash: "5307d3e2bc542a5b"
+sourceContentHash: "abdab84b2d95cdb5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -171,8 +171,8 @@ protection of persons and property from fire risks"（消防局的有效且高�
 
 紧急情况下请拨打 999。该电话由 MERS 999（马来西亚紧急应变服务）处理，这是一个
 连接五个机构的单一平台——警察、消防局、卫生部、马来西亚海事执法机构以及民防
-部队。请准确说明地点与紧急事件类型，以便将电话转接至正确的机构。据马来西亚
-民防部队（APM）表示，每一通拨打 999 紧急热线的电话都是免费的。
+部队。请准确说明地点与紧急事件类型，以便将电话转接至正确的机构。据[马来西亚
+民防部队](/public-safety/civil-defence-force-apm)（APM）表示，每一通拨打 999 紧急热线的电话都是免费的。
 
 > **名称说明：**民防机构如今在其官方网站（`civildefence.gov.my`）上正式称为
 > **马来西亚民防部队（APM）**。而 `malaysia.gov.my` 上的 MERS 999 页面仍以旧

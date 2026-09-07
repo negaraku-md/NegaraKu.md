@@ -31,7 +31,7 @@ faq:
     a: "ePermit, satu perkhidmatan web yang dikendalikan oleh Dagang Net Technologies di bawah Jendela Tunggal Kebangsaan, membolehkan anda memohon kepada pelbagai Agensi Pengeluar Permit dalam talian. Permit yang diluluskan dihantar secara elektronik kepada Kastam untuk pengesahan terhadap perisytiharan anda."
 
 lang: "ms"
-sourceContentHash: "11f77d745fd09dd0"
+sourceContentHash: "f453f5001ae25d26"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -156,7 +156,7 @@ Permit tidak segera, dan yang perlahan akan menentukan garis masa anda. Tempoh m
 
 Anggap ini sebagai penampan perancangan, bukan jaminan; permohonan yang kompleks atau kali pertama mengambil masa lebih lama, dan kategori yang banyak ujian (terutamanya elektrik) ialah halangan biasa.
 
-Di pihak **eksport**, kebanyakan barangan meninggalkan negara dengan perisytiharan K2 tanpa permit eksport, tetapi eksport terkawal masih memerlukannya — dan pengeksport sering memerlukan dokumen perdagangan berbanding permit. **Perbadanan Pembangunan Perdagangan Luar Malaysia (MATRADE)** mengeluarkan dokumen fasilitasi seperti **Sijil Asal Usul (Certificate of Origin)** dan **Sijil Jualan Bebas (Certificate of Free Sale)** (yang terakhir memerlukan pemohon menjadi ahli MATRADE yang berdaftar), yang kerap dituntut oleh pembeli dan kastam asing. Item strategik dikawal berasingan di bawah Akta Perdagangan Strategik 2010, yang memerlukan permit daripada Pengawal Perdagangan Strategik MITI.
+Di pihak **eksport**, kebanyakan barangan meninggalkan negara dengan perisytiharan K2 tanpa permit eksport, tetapi eksport terkawal masih memerlukannya — dan pengeksport sering memerlukan dokumen perdagangan berbanding permit. **Perbadanan Pembangunan Perdagangan Luar Malaysia ([MATRADE](/government/matrade))** mengeluarkan dokumen fasilitasi seperti **Sijil Asal Usul (Certificate of Origin)** dan **Sijil Jualan Bebas (Certificate of Free Sale)** (yang terakhir memerlukan pemohon menjadi ahli MATRADE yang berdaftar), yang kerap dituntut oleh pembeli dan kastam asing. Item strategik dikawal berasingan di bawah Akta Perdagangan Strategik 2010, yang memerlukan permit daripada Pengawal Perdagangan Strategik MITI.
 
 ## Apa seterusnya
 

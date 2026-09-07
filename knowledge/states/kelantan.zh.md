@@ -43,7 +43,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "0b7fdd624b551b31"
+sourceContentHash: "869286bde4f6fa80"
 
 status: "published"
 aiAssisted: true
@@ -122,7 +122,7 @@ keywords: ["Kelantan", "Kota Bharu", "Kelantan Darul Naim", "ekonomi Kelantan", 
 
 ## 地理与行政
 
-吉兰丹位于马来半岛东北部，北接泰国，东北面朝南中国海，根据国家安全理事会
+吉兰丹位于马来半岛东北部，北接泰国，东北面朝南中国海，根据[国家安全理事会](/government/national-security-council-mkn)
 （Majlis Keselamatan Negara，MKN）资料，面积约为15,040平方公里。
 
 该州名称的由来有两种常见说法——一是与「闪电」一词有关，二是与格兰木

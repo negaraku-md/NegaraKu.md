@@ -22,7 +22,7 @@ appliesTo: "Pelabur, pencari kerja, penganalisis dasar dan pelajar yang cuba mem
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "16d11df19af3f6e8"
+sourceContentHash: "21e59589f33cf91e"
 
 status: "published"
 aiAssisted: true
@@ -170,7 +170,7 @@ Dokumen perancangan kerajaan sendiri menerima kerangka ini. Rancangan Malaysia K
 
 DOSM melaporkan PNK per kapita mencapai RM57,200 pada 2025, meningkat daripada RM54,870 pada 2024. Jurang kepada RM77,200 dalam tempoh lima tahun adalah keseluruhan masalah dasar dalam satu ayat.
 
-Instrumen yang dinamakan dalam Rancangan tersebut ialah Pelan Induk Perindustrian Baharu 2030 (New Industrial Master Plan 2030, NIMP 2030), National Semiconductor Strategy dan National Energy Transition Roadmap. Perhatikan apa yang tersirat oleh sasaran pembuatan: agar pembuatan berkembang pada 5.8% sementara ekonomi berkembang pada 4.5-5.5%, bahagiannya dalam KDNK perlu mula meningkat semula. Berakhirnya dataran ini bukan ramalan — ia adalah sasaran.
+Instrumen yang dinamakan dalam Rancangan tersebut ialah Pelan Induk Perindustrian Baharu 2030 (New Industrial Master Plan 2030, NIMP 2030), National Semiconductor Strategy dan [National Energy Transition Roadmap](/energy/national-energy-transition-roadmap-netr). Perhatikan apa yang tersirat oleh sasaran pembuatan: agar pembuatan berkembang pada 5.8% sementara ekonomi berkembang pada 4.5-5.5%, bahagiannya dalam KDNK perlu mula meningkat semula. Berakhirnya dataran ini bukan ramalan — ia adalah sasaran.
 
 ## Kesilapan biasa
 

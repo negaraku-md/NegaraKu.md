@@ -94,7 +94,7 @@ Note what this step is *not*: there is **no separate "online business licence"**
 
 ## Step 2: Meet the e-commerce disclosure rules (updated in 2024)
 
-This is where many guides are out of date. The old Consumer Protection (Electronic Trade Transactions) Regulations 2012 were **replaced by the 2024 Regulations, in force 25 December 2024**, under the [Consumer Protection Act 1999](/law/consumer-protection-act) and enforced by the Ministry of Domestic Trade and Cost of Living (KPDN).
+This is where many guides are out of date. The old Consumer Protection (Electronic Trade Transactions) Regulations 2012 were **replaced by the 2024 Regulations, in force 25 December 2024**, under the [Consumer Protection Act 1999](/law/consumer-protection-act) and enforced by the [Ministry of Domestic Trade and Cost of Living](/government/ministry-of-domestic-trade-kpdn) (KPDN).
 
 An online seller or marketplace supplier must **display**:
 

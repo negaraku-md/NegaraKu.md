@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "首次获邀出席开放门户者、筹办社区或公司层级开放门户活动的人，以及任何想要了解这项习俗作为马来西亚跨族群社会现象的人。"
 
 lang: "zh"
-sourceContentHash: "849964b901802a27"
+sourceContentHash: "3bc3f6abab7fea70"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -100,7 +100,7 @@ keywords: ["rumah terbuka", "open house Malaysia", "rumah terbuka Malaysia Madan
 
 ## 与国家团结政策的关联
 
-国家团结部（Kementerian Perpaduan Negara，简称 KPN）在其官方网站上，将本身职责阐明为强化国民身份认同、社会融合与跨宗教信徒间的和谐——透过《2021-2030年国家团结行动计划》（Pelan Tindakan Perpaduan Negara 2021-2030）等框架推行。KPN 并未在其官网上将开放门户列为专属计划，但其辖下的社区层级计划，例如「敦亲睦邻计划」（Rukun Tetangga），也怀抱相似的目标：在草根阶层增进各族居民之间的联系。
+国家团结部（Kementerian Perpaduan Negara，简称 KPN）在其官方网站上，将本身职责阐明为强化国民身份认同、社会融合与跨宗教信徒间的和谐——透过《2021-2030年国家团结行动计划》（Pelan Tindakan Perpaduan Negara 2021-2030）等框架推行。KPN 并未在其官网上将开放门户列为专属计划，但其辖下的社区层级计划，例如「[敦亲睦邻计划](/public-safety/community-policing-rukun-tetangga)」（Rukun Tetangga），也怀抱相似的目标：在草根阶层增进各族居民之间的联系。
 
 由此可见，开放门户作为一种社会习俗，其作用与团结政策的目标一致——尽管它本身是从家庭与宗教传统中自然演变而来，而非专为政府计划而设计。
 

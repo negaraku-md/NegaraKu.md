@@ -32,7 +32,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "547b9cb1d8531544"
+sourceContentHash: "78de95ae401b9cbb"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -92,7 +92,7 @@ Majlis yang mengutip sampah anda, meluluskan rumah kedai di sebelah dan mengenak
 
 Perlembagaan Persekutuan meletakkan kerajaan tempatan dalam **Senarai Negeri** — butiran 4 Senarai II dalam Jadual Kesembilan. Butiran tersebut merangkumi "pentadbiran tempatan; perbadanan perbandaran; lembaga tempatan, bandar dan luar bandar serta pihak berkuasa tempatan lain; perkhidmatan kerajaan tempatan, kadar tempatan, pilihan raya kerajaan tempatan," di mana-mana sahaja kecuali Wilayah Persekutuan Kuala Lumpur, Labuan dan Putrajaya. Oleh sebab subjek ini terletak dalam Senarai Negeri, kuasa undang-undang ke atas majlis terletak terutamanya pada negeri-negeri.
 
-Untuk menghalang tiga belas negeri daripada menarik ke tiga belas arah, **Perkara 95A** Perlembagaan menubuhkan **Majlis Negara bagi Kerajaan Tempatan (Majlis Negara bagi Kerajaan Tempatan)**. Di bawah Perkara 95A(1), ia terdiri daripada seorang **Menteri sebagai pengerusi**, **seorang wakil dari setiap negeri** (dilantik oleh Raja atau Yang di-Pertua Negeri), dan **sekian bilangan wakil Kerajaan Persekutuan sebagaimana yang boleh dilantik oleh Kerajaan Persekutuan, dihadkan kepada sepuluh**. Tugasnya adalah untuk merangka, dengan berunding dengan kerajaan persekutuan dan negeri, satu dasar kebangsaan "bagi memajukan, membangunkan dan mengawal kerajaan tempatan di seluruh Persekutuan" — dan kedua-dua kerajaan persekutuan dan negeri mesti mematuhi dasar yang dirangkanya. Pada peringkat pentadbiran, **Kementerian Perumahan dan Kerajaan Tempatan (KPKT)** persekutuan, melalui **Jabatan Kerajaan Tempatan (Jabatan Kerajaan Tempatan, JKT)**, mengkaji dan mencadangkan pindaan kepada perundangan kerajaan tempatan, menyelaraskan dasar pentadbiran dan tatatertib, mengeluarkan pekeliling dan garis panduan, serta memproses permohonan untuk menaik taraf status pihak berkuasa tempatan atau memperluaskan sempadannya.
+Untuk menghalang tiga belas negeri daripada menarik ke tiga belas arah, **Perkara 95A** Perlembagaan menubuhkan **Majlis Negara bagi Kerajaan Tempatan (Majlis Negara bagi Kerajaan Tempatan)**. Di bawah Perkara 95A(1), ia terdiri daripada seorang **Menteri sebagai pengerusi**, **seorang wakil dari setiap negeri** (dilantik oleh Raja atau Yang di-Pertua Negeri), dan **sekian bilangan wakil Kerajaan Persekutuan sebagaimana yang boleh dilantik oleh Kerajaan Persekutuan, dihadkan kepada sepuluh**. Tugasnya adalah untuk merangka, dengan berunding dengan kerajaan persekutuan dan negeri, satu dasar kebangsaan "bagi memajukan, membangunkan dan mengawal kerajaan tempatan di seluruh Persekutuan" — dan kedua-dua kerajaan persekutuan dan negeri mesti mematuhi dasar yang dirangkanya. Pada peringkat pentadbiran, **[Kementerian Perumahan dan Kerajaan Tempatan](/government/ministry-of-housing-local-government-kpkt) (KPKT)** persekutuan, melalui **Jabatan Kerajaan Tempatan (Jabatan Kerajaan Tempatan, JKT)**, mengkaji dan mencadangkan pindaan kepada perundangan kerajaan tempatan, menyelaraskan dasar pentadbiran dan tatatertib, mengeluarkan pekeliling dan garis panduan, serta memproses permohonan untuk menaik taraf status pihak berkuasa tempatan atau memperluaskan sempadannya.
 
 ## Apakah tiga jenis pihak berkuasa tempatan?
 

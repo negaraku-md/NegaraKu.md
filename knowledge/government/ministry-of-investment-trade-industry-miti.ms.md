@@ -28,7 +28,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "f325297c1a8f4c21"
+sourceContentHash: "facadf452f025faf"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -97,7 +97,7 @@ MITI menyelia sekumpulan badan berkanun dan syarikat berkaitan kerajaan yang mel
 | Agensi | Tumpuan |
 | --- | --- |
 | **MIDA** — Lembaga Pembangunan Pelaburan Malaysia | Promosi dan penilaian pelaburan |
-| **MATRADE** — Perbadanan Pembangunan Perdagangan Luar Malaysia | Promosi eksport |
+| **[MATRADE](/government/matrade)** — Perbadanan Pembangunan Perdagangan Luar Malaysia | Promosi eksport |
 | **MPC** — Perbadanan Produktiviti Malaysia | Produktiviti dan daya saing |
 | **MIDF** & **EXIM Bank** | Pembiayaan perindustrian dan perdagangan |
 | **SIRIM Berhad** & **Standards Malaysia (JSM)** | Piawaian, kualiti dan pensijilan |

@@ -20,7 +20,7 @@ appliesTo: "Sesiapa sahaja di Malaysia — sama ada Buddha atau tidak — yang i
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "f561fd8e12ce27dd"
+sourceContentHash: "87814a02e5e75f73"
 
 status: "published"
 aiAssisted: true
@@ -86,7 +86,7 @@ Kerana ia terikat kepada bulan purnama sesuatu bulan candra, tarikhnya tidak tet
 
 ## Bila Wesak jatuh, dan tarikh-tarikh 2026
 
-Tarikh hari kelepasan am Malaysia disahkan setiap tahun oleh Kerajaan. Bagi 2026, Majlis Keselamatan Negara dan Jabatan Tenaga Kerja Semenanjung Malaysia menyatakan bahawa Hari Wesak jatuh pada **31 Mei 2026 (Ahad)**.
+Tarikh hari kelepasan am Malaysia disahkan setiap tahun oleh Kerajaan. Bagi 2026, [Majlis Keselamatan Negara](/government/national-security-council-mkn) dan Jabatan Tenaga Kerja Semenanjung Malaysia menyatakan bahawa Hari Wesak jatuh pada **31 Mei 2026 (Ahad)**.
 
 | Tahun | Hari Wesak |
 | --- | --- |

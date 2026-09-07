@@ -32,7 +32,7 @@ faq:
     a: "Pelan ini menyasarkan AI untuk menyumbang lebih RM60 bilion kepada KDNK dan meletakkan Malaysia antara 20 negara teratas dalam kesediaan AI global menjelang 2030, dilaksanakan melalui 28 inisiatif."
 
 lang: "ms"
-sourceContentHash: "776144facbf3162e"
+sourceContentHash: "74e6c6495db49c10"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -90,7 +90,7 @@ Hasilnya ialah satu pendirian undang-undang lembut (soft-law) berlapis yang muda
 
 ## Siapa sebenarnya yang mengendalikan dasar AI di Malaysia?
 
-Badan pusatnya ialah Pejabat AI Kebangsaan (NAIO). Kabinet meluluskannya pada 28 Ogos 2024, dan Perdana Menteri Datuk Seri Anwar Ibrahim melancarkannya pada 12 Disember 2024. Ia terletak di bawah Kementerian Digital dan, pada tahun pertamanya, beroperasi dengan bimbingan MyDIGITAL Corporation sepanjang tempoh inkubasi.
+Badan pusatnya ialah Pejabat AI Kebangsaan (NAIO). Kabinet meluluskannya pada 28 Ogos 2024, dan Perdana Menteri Datuk Seri Anwar Ibrahim melancarkannya pada 12 Disember 2024. Ia terletak di bawah Kementerian Digital dan, pada tahun pertamanya, beroperasi dengan bimbingan [MyDIGITAL](/technology/mydigital-blueprint) Corporation sepanjang tempoh inkubasi.
 
 Tugas NAIO ialah penyelarasan: menyusun strategi pembangunan AI, memusatkan sumber, menyeragamkan tadbir urus melalui garis panduan etika, menggalakkan penggunaan AI yang bertanggungjawab, dan mempercepatkan inovasi melalui penyelidikan yang bersepadu. Dalam amalan, ia bertindak sebagai tisu penghubung antara kerajaan, industri, akademia dan masyarakat sivil, dengan menganjurkan sebahagian besar kerja itu melalui kumpulan kerja khusus.
 

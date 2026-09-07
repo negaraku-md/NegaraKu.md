@@ -34,7 +34,7 @@ faq:
     a: "Pada 2024, perkhidmatan menarik RM252.7 bilion pelaburan diluluskan (66.8% daripada jumlah keseluruhan) dan pembuatan RM120.5 bilion (31.8%), daripada rekod RM378.5 bilion secara keseluruhan (MIDA)."
 
 lang: "ms"
-sourceContentHash: "00e215cf4e648893"
+sourceContentHash: "325fab8219fa3591"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -194,4 +194,4 @@ Peta keputusan pantas:
 
 Gunakan halaman ini sebagai kompas anda, kemudian ikut cabang yang penting bagi anda. Jika anda sedang menyelidik sesuatu industri tertentu, buka panduan khususnya dalam kategori ini untuk perincian kawal selia, syarikat dan rantaian bekalan yang lebih mendalam. Jika anda mengesan ekonomi secara keseluruhan, dua nombor yang berbaloi diperhatikan setiap suku tahun ialah **kadar pertumbuhan perkhidmatan** (majoriti ekonomi) dan **arah aliran eksport E&E** (faktor perubahan dalam perdagangan).
 
-Angka di sini diperoleh daripada badan statistik dan pelaburan rasmi Malaysia — DOSM, MATRADE dan MIDA — dan mencerminkan data sepanjang tahun 2024. Angka ekonomi disemak semula dari semasa ke semasa, jadi untuk bacaan suku tahunan terkini, pergi terus ke terbitan DOSM yang dipautkan dalam sumber. Sebagai draf berbantukan AI, gambaran keseluruhan ini ialah peta permulaan, bukan pengganti data primer atau nasihat profesional.
+Angka di sini diperoleh daripada badan statistik dan pelaburan rasmi Malaysia — DOSM, [MATRADE](/government/matrade) dan MIDA — dan mencerminkan data sepanjang tahun 2024. Angka ekonomi disemak semula dari semasa ke semasa, jadi untuk bacaan suku tahunan terkini, pergi terus ke terbitan DOSM yang dipautkan dalam sumber. Sebagai draf berbantukan AI, gambaran keseluruhan ini ialah peta permulaan, bukan pengganti data primer atau nasihat profesional.

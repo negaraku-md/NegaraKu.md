@@ -23,7 +23,7 @@ verificationNeeded:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "b9201dd8409c733b"
+sourceContentHash: "46290890ce15acbd"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -121,7 +121,7 @@ the counter.
 
 This is the most common source of confusion. **mySalam** is a separate
 scheme — a takaful protection scheme operated by Great Eastern Takaful
-Berhad under the Ministry of Finance Malaysia, not KKM/ProtectHealth. Its
+Berhad under the [Ministry of Finance Malaysia](/government/ministry-of-finance-treasury), not KKM/ProtectHealth. Its
 basic eligibility is also based on STR recipient status, but its aid is
 entirely different:
 

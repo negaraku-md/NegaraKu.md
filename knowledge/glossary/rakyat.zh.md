@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "学生、翻译员、记者，以及任何希望理解「rakyat」这一社会政治用语与「warganegara」这一法律用语在马来西亚语境中有何分别的人。"
 
 lang: "zh"
-sourceContentHash: "fbeab4450bf533fd"
+sourceContentHash: "4db392730fe2ab93"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -102,7 +102,7 @@ keywords: ["rakyat", "makna rakyat", "rakyat vs warganegara", "Kamus Dewan rakya
 - **Dewan Rakyat（下议院）** ——国会中议员由选举产生的议院，有别于议员由委任
   产生的 Dewan Negara（上议院）。见 [Dewan Rakyat](/zh/glossary/dewan-rakyat)。
 - **国家原则（Rukun Negara）** ——最高元首（Yang di-Pertuan Agong）于1970年8月
-  31日颁布的立国信约，据国家安全理事会（Majlis Keselamatan Negara，MKN）所述，
+  31日颁布的立国信约，据[国家安全理事会](/government/national-security-council-mkn)（Majlis Keselamatan Negara，MKN）所述，
   成为「全体马来西亚 rakyat 所秉持、遵循及奉行」的信约。
 - **各种政府援助与款项计划** 不时在名称中使用「rakyat」一词，作为泛指领取者的
   方式，而不将其局限于特定的法律地位。

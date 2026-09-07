@@ -28,7 +28,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "f325297c1a8f4c21"
+sourceContentHash: "facadf452f025faf"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -97,7 +97,7 @@ MITI 统辖一批负责一线工作的法定机构与政府关联公司。投资
 | 机构 | 职能重点 |
 | --- | --- |
 | **MIDA** — 马来西亚投资发展局 | 投资推广与评估 |
-| **MATRADE** — 马来西亚对外贸易发展局 | 出口推广 |
+| **[MATRADE](/government/matrade)** — 马来西亚对外贸易发展局 | 出口推广 |
 | **MPC** — 马来西亚生产力机构 | 生产力与竞争力 |
 | **MIDF** 与 **EXIM Bank** | 工业与贸易融资 |
 | **SIRIM Berhad** 与 **Standards Malaysia（JSM）** | 标准、品质与认证 |

@@ -36,7 +36,7 @@ faq:
     a: "Daripada sasaran 15–30 MtCO₂eq, sehingga 20 MtCO₂eq adalah tanpa syarat — Malaysia komited kepadanya tanpa mengira keadaan. Sebanyak 10 MtCO₂eq tambahan adalah bersyarat, bermaksud ia hanya akan dicapai jika pembiayaan iklim antarabangsa, pemindahan teknologi dan sokongan pembinaan keupayaan disediakan."
 
 lang: "ms"
-sourceContentHash: "ce31033c681d9c21"
+sourceContentHash: "7ad2136668e2982a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -124,7 +124,7 @@ Disampaikan kepada UNFCCC pada tarikh yang dinyatakan di atas; butiran NDC 3.0 d
 
 ## Dari manakah datangnya matlamat sifar bersih menjelang 2050?
 
-Sifar bersih — titik apabila apa jua gas rumah hijau yang masih dilepaskan Malaysia diimbangi oleh jumlah yang sama yang dikeluarkan — ialah destinasi di luar penanda 2035. Komitmen untuk mencapai **pelepasan gas rumah hijau sifar bersih seawal 2050** telah dinyatakan dalam Dasar Perubahan Iklim Negara 2.0 dan ditegaskan semula dalam pengumuman NDC 3.0. Ia disokong oleh Strategi Pembangunan Pelepasan Rendah Jangka Panjang (LTLEDS) Malaysia, dan sasaran NDC 3.0 ditentukur agar konsisten dengan laluan LTLEDS serta unjuran ekonomi dalam Rancangan Malaysia Ke-13 (RMK-13) dan Peta Jalan Peralihan Tenaga Negara (NETR).
+Sifar bersih — titik apabila apa jua gas rumah hijau yang masih dilepaskan Malaysia diimbangi oleh jumlah yang sama yang dikeluarkan — ialah destinasi di luar penanda 2035. Komitmen untuk mencapai **pelepasan gas rumah hijau sifar bersih seawal 2050** telah dinyatakan dalam Dasar Perubahan Iklim Negara 2.0 dan ditegaskan semula dalam pengumuman NDC 3.0. Ia disokong oleh Strategi Pembangunan Pelepasan Rendah Jangka Panjang (LTLEDS) Malaysia, dan sasaran NDC 3.0 ditentukur agar konsisten dengan laluan LTLEDS serta unjuran ekonomi dalam Rancangan Malaysia Ke-13 (RMK-13) dan [Peta Jalan Peralihan Tenaga Negara](/energy/national-energy-transition-roadmap-netr) (NETR).
 
 Dua perkara wajar diperjelaskan dengan tepat. Pertama, sifar bersih ialah *aspirasi yang dinyatakan dalam dasar*, belum lagi kewajipan yang ditetapkan dalam perundangan bertarikh — itulah salah satu tugas yang dijangka dilaksanakan oleh Akta Perubahan Iklim. Kedua, Malaysia menyumbang anggaran 0.8% daripada pelepasan global, satu peringatan bahawa peranan iklimnya yang paling penting mungkin kurang berkaitan dengan jumlah tannya sendiri berbanding menunjukkan peralihan yang boleh dipercayai bagi sebuah negara berpendapatan sederhana yang menghasilkan bahan api fosil.
 

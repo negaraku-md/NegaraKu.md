@@ -110,7 +110,7 @@ Sebelum apa-apa, tentukan situasi anda. Keempat-empat saluran ini bukan pilihan 
 
 ## Bila perlu dail 999 dahulu?
 
-MERS 999 (Malaysia Emergency Response Services) ialah inisiatif kerajaan yang menyatukan nombor kecemasan Malaysia ke dalam satu nombor pusat, iaitu **999**. Satu panggilan menghubungkan anda kepada lima agensi kecemasan: Polis DiRaja Malaysia, Jabatan Bomba dan Penyelamat, Kementerian Kesihatan (ambulans/hospital), Angkatan Pertahanan Awam, dan Agensi Penguatkuasaan Maritim Malaysia.
+MERS 999 (Malaysia Emergency Response Services) ialah inisiatif kerajaan yang menyatukan nombor kecemasan Malaysia ke dalam satu nombor pusat, iaitu **999**. Satu panggilan menghubungkan anda kepada lima agensi kecemasan: Polis DiRaja Malaysia, Jabatan Bomba dan Penyelamat, Kementerian Kesihatan (ambulans/hospital), Angkatan Pertahanan Awam, dan [Agensi Penguatkuasaan Maritim Malaysia](/public-safety/maritime-enforcement-agency-mmea).
 
 Gunakan 999 apabila terdapat bahaya segera — jenayah yang sedang berlaku, kecederaan, kebakaran, atau ancaman kepada nyawa. Pegawai akan bertanya jenis kecemasan, lokasi kejadian dan nombor untuk dihubungi sebelum menyalurkan panggilan kepada agensi yang betul.
 

@@ -22,7 +22,7 @@ appliesTo: "希望准确解读马来西亚工业统计数据的投资者、求�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "16d11df19af3f6e8"
+sourceContentHash: "21e59589f33cf91e"
 
 status: "published"
 aiAssisted: true
@@ -170,7 +170,7 @@ DOSM 的季度就业调查显示，2025 年第四季**制造业职位达 254 万
 
 DOSM 报告称，2025 年人均 GNI 达到 RM57,200，高于 2024 年的 RM54,870。五年内要弥合到 RM77,200 的差距，这一句话就概括了整个政策难题。
 
-该计划中提到的政策工具是 New Industrial Master Plan 2030（NIMP 2030）、National Semiconductor Strategy 与 National Energy Transition Roadmap。请留意制造业目标背后隐含的意思：要让制造业在经济增长 4.5-5.5% 的同时增长 5.8%，其 GDP 占比就必须重新开始上升。停滞期的结束不是预测——而是一个目标。
+该计划中提到的政策工具是 New Industrial Master Plan 2030（NIMP 2030）、National Semiconductor Strategy 与 [National Energy Transition Roadmap](/energy/national-energy-transition-roadmap-netr)。请留意制造业目标背后隐含的意思：要让制造业在经济增长 4.5-5.5% 的同时增长 5.8%，其 GDP 占比就必须重新开始上升。停滞期的结束不是预测——而是一个目标。
 
 ## 常见错误
 

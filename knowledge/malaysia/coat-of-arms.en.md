@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Students, teachers, civil servants, journalists and anyone who sees the Jata Negara on a passport, coin, government letter or official building and wants to know the meaning of each element."
 
 lang: "en"
-sourceContentHash: "954019be58e311a6"
+sourceContentHash: "20de32f1b32c3504"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -126,7 +126,7 @@ The Department of Information states clearly: "The emblem of the Federal Governm
 Several administrative decisions reinforce this usage:
 
 - The **Cabinet Meeting of 25 November 2016** decided that the official emblems of ministries, departments and agencies of the Federal Government be replaced with the Jata Negara emblem for official business.
-- **Exemptions** are given to a few agencies that keep their own emblems, such as the Malaysian Armed Forces and the Royal Malaysia Police.
+- **Exemptions** are given to a few agencies that keep their own emblems, such as the [Malaysian Armed Forces](/government/malaysian-armed-forces-mindef) and the Royal Malaysia Police.
 
 The Jata Negara is also protected by the **Emblems and Names (Prevention of Improper Use) Act 1963 [Act 414]**, which prevents the improper use of the national emblem of honour for business or other purposes without permission.
 

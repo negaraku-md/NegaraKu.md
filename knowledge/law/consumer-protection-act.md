@@ -82,7 +82,7 @@ Tribunal filing form.
 | --- | --- |
 | Short title | Consumer Protection Act 1999 |
 | Act number | Act 599 |
-| Administered by | Ministry of Domestic Trade and Cost of Living (KPDN) |
+| Administered by | [Ministry of Domestic Trade and Cost of Living](/government/ministry-of-domestic-trade-kpdn) (KPDN) |
 | Enforcement forum | Tribunal for Consumer Claims (established 15 November 1999) |
 | Tribunal claim limit | RM50,000 |
 | Tribunal filing fee | RM5 |

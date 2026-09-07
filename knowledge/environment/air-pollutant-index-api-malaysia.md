@@ -101,7 +101,7 @@ IPU dipetakan kepada enam kategori berwarna. Inilah bahagian yang paling penting
 | 101–200 | Tidak sihat | Kuning | Kumpulan sensitif (warga tua, wanita hamil, kanak-kanak, penghidap komplikasi jantung/paru-paru) hadkan aktiviti luar; orang ramai kurangkan aktiviti lasak |
 | 201–300 | Sangat tidak sihat | Jingga | Warga tua dan orang berisiko tinggi duduk dalam rumah dan kurangkan aktiviti fizikal; yang ada komplikasi kesihatan jumpa doktor |
 | >300 | Merbahaya | Merah | Warga tua dan orang berisiko tinggi dilarang aktiviti luar; orang ramai elak aktiviti luar |
-| >500 | Kecemasan | — (tiada warna berasingan ditakrifkan pada tolok rasmi) | Ikut arahan Majlis Keselamatan Negara dan pengumuman media massa |
+| >500 | Kecemasan | — (tiada warna berasingan ditakrifkan pada tolok rasmi) | Ikut arahan [Majlis Keselamatan Negara](/government/national-security-council-mkn) dan pengumuman media massa |
 
 ## Dari mana datangnya data ini?
 

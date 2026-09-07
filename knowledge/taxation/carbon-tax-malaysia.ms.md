@@ -30,7 +30,7 @@ faq:
     a: "Ia diumumkan untuk diperkenalkan menjelang 2026, walaupun pegawai telah memberi isyarat bahawa penetapan masanya mungkin dikaji semula."
 
 lang: "ms"
-sourceContentHash: "02ce700fa01060f4"
+sourceContentHash: "1b480b649a14d8fe"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -125,7 +125,7 @@ Cukai ini merupakan satu bahagian daripada seni bina yang lebih besar yang sedan
 
 - **Dasar Pasaran Karbon Negara (NCMP)** — dilancarkan oleh NRES untuk mewujudkan rangka kerja bagi perdagangan kredit karbon sebelum cukai dikenakan.
 - **Rang Undang-Undang Perubahan Iklim (RUU PIN)** — sedang bergerak ke arah pembentangan di Parlimen; ia bertujuan untuk menubuhkan sistem pemantauan, pelaporan dan pengesahan (MRV) serta asas perundangan bagi skim perdagangan pelepasan pada masa hadapan.
-- **Dana Peralihan Tenaga Negara (NETF)** — diperuntukkan RM150 juta di bawah Belanjawan 2026 untuk menyokong Peta Jalan Peralihan Tenaga Negara, yang mana hasil karbon dijangka mengalir masuk.
+- **Dana Peralihan Tenaga Negara (NETF)** — diperuntukkan RM150 juta di bawah Belanjawan 2026 untuk menyokong [Peta Jalan Peralihan Tenaga Negara](/energy/national-energy-transition-roadmap-netr), yang mana hasil karbon dijangka mengalir masuk.
 
 Bersama-sama, ini menyokong sasaran Malaysia untuk mengurangkan intensiti karbon seluruh ekonomi sebanyak 45% menjelang 2030 (berbanding 2005) dan sifar bersih menjelang 2050, menurut penjejak ICAP.
 

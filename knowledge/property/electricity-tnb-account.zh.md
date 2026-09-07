@@ -22,7 +22,7 @@ appliesTo: "任何搬入马来西亚新住宅或新场所、需要开通、过�
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "afe9faa9e2aba456"
+sourceContentHash: "6891503e50f70d6b"
 
 status: "published"
 aiAssisted: true
@@ -73,7 +73,7 @@ keywords: ["akaun elektrik TNB", "buka akaun TNB baru", "deposit elektrik TNB", 
 
 ## 三家公司，而非单一的全国系统
 
-马来西亚的电供并非由单一机构统筹。**国家能源有限公司（Tenaga Nasional Berhad，TNB）**透过 myTNB 门户网站与 **Kedai Tenaga**（TNB 服务门市网络）供电给马来西亚半岛。沙巴则属于**沙巴电力有限公司（Sabah Electricity Sdn Bhd，SESB）**，砂拉越属于 **Sarawak Energy Berhad**。三家公司各自独立运作，各有自己的申请表格、按金费率，甚至各有自己的用语——所以搜索「如何申请电供」若只搜出 TNB 的指南，对住在亚庇或古晋的人帮助不大。
+马来西亚的电供并非由单一机构统筹。**国家能源有限公司（Tenaga Nasional Berhad，TNB）**透过 myTNB 门户网站与 **Kedai Tenaga**（TNB 服务门市网络）供电给马来西亚半岛。沙巴则属于**沙巴电力有限公司（Sabah Electricity Sdn Bhd，SESB）**，砂拉越属于 **[Sarawak Energy Berhad](/energy/sarawak-energy-berhad)**。三家公司各自独立运作，各有自己的申请表格、按金费率，甚至各有自己的用语——所以搜索「如何申请电供」若只搜出 TNB 的指南，对住在亚庇或古晋的人帮助不大。
 
 ## 全新住宅与现有住宅过户的分别
 

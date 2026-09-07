@@ -126,7 +126,7 @@ rangkaian isi rumah dan bukan pada industri berskala besar.
 
 Kelantan terletak di timur laut Semenanjung Malaysia, bersempadan dengan Thailand
 di utara dan menghadap Laut China Selatan di timur laut, dengan keluasan kira-kira
-15,040 kilometer persegi menurut Majlis Keselamatan Negara.
+15,040 kilometer persegi menurut [Majlis Keselamatan Negara](/government/national-security-council-mkn).
 
 Namanya dikaitkan dengan dua penjelasan yang lazim disebut — perkataan bagi
 "kilat", dan hutan pokok gelam (*Melaleuca leucadendron*). Motto negeri ialah

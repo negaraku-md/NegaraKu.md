@@ -38,7 +38,7 @@ faq:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "a2bc830971533a07"
+sourceContentHash: "42425bd622f27615"
 
 status: "published"
 aiAssisted: true
@@ -223,7 +223,7 @@ The consultation also placed the bilateral relationship within the **ASEAN** con
 
 Beyond boundary politics, the economy is a stable adhesive. In 2024, Malaysia's total trade reached a record **RM2.9 trillion**. Within that figure, Indonesia remains **one of Malaysia's important trading partners in ASEAN**: Malaysia's exports to Indonesia rose **6.9% (about RM3.5 billion)** from the previous year, largely driven by petroleum products.
 
-According to DOSM and MATRADE data, Malaysia exported goods worth **RM54.40 billion** to Indonesia in 2024, representing **12.4%** of Malaysia's exports to ASEAN and making Indonesia the **3rd largest export destination within ASEAN** (after Singapore and Thailand). Mineral fuels and refined oil lead, followed by machinery, plastics, and electrical equipment. Halal-sector cooperation has also been identified as a driver of future growth.
+According to DOSM and [MATRADE](/government/matrade) data, Malaysia exported goods worth **RM54.40 billion** to Indonesia in 2024, representing **12.4%** of Malaysia's exports to ASEAN and making Indonesia the **3rd largest export destination within ASEAN** (after Singapore and Thailand). Mineral fuels and refined oil lead, followed by machinery, plastics, and electrical equipment. Halal-sector cooperation has also been identified as a driver of future growth.
 
 ## Employer guide: hiring an Indonesian domestic worker
 

@@ -34,7 +34,7 @@ faq:
     a: "Both states claim a 5% royalty based on a 1975 agreement. Terengganu receives payments (though these were once converted to 'goodwill money' around 2000 and restored in 2009), while Kelantan's 2010 court claim was withdrawn in 2019. The core issue is whether the wells in question lie within state waters (the three-nautical-mile limit) or under federal jurisdiction."
 
 lang: "en"
-sourceContentHash: "c977b0aa913ac22e"
+sourceContentHash: "c93bc7f1b353ca1a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -169,7 +169,7 @@ This issue is constitutionally sensitive because it touches on the balance of po
 
 ## What are Sarawak's claims and the PETROS issue?
 
-The hottest dispute now involves Sarawak. The state established its own oil and gas company, **Petroleum Sarawak Berhad (PETROS)**, in 2017, and has since sought to reclaim control over its petroleum sector.
+The hottest dispute now involves Sarawak. The state established its own oil and gas company, **[Petroleum Sarawak Berhad](/energy/sarawak-petros-gas-dispute) (PETROS)**, in 2017, and has since sought to reclaim control over its petroleum sector.
 
 **Sarawak's position.** Sarawak argues that its jurisdiction over oil and gas is rooted in laws that existed before Malaysia — particularly the **Oil Mining Ordinance 1958** — and is protected by MA63. Based on the **Gas Distribution Ordinance 2016 (DGO)**, Sarawak wants PETROS to be the **sole gas aggregator** in the state, that is, the only entity that buys and distributes gas within Sarawak.
 

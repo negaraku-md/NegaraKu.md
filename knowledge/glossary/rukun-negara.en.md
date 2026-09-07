@@ -34,7 +34,7 @@ faq:
     a: "The aspirations (five national goals such as unity and a just society) are the ends to be achieved, while the five principles are the foundations and guides for living by which those aspirations are reached. Together they form the full pledge of the Rukun Negara."
 
 lang: "en"
-sourceContentHash: "7d32cd17710c95f6"
+sourceContentHash: "d94eca92454b00e2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -100,7 +100,7 @@ that can prosecute anyone, and it is not merely a motto. It is more
 accurately understood as a **shared pledge** — a statement of values held
 in common by a people of many ethnicities and religions.
 
-According to the National Security Council (MKN), the Rukun Negara "is
+According to the [National Security Council](/government/national-security-council-mkn) (MKN), the Rukun Negara "is
 Malaysia's national philosophy built upon five core principles as a guide
 to living in society". It becomes the anchor, guide and practice of all
 citizens toward nurturing and strengthening the spirit of unity.

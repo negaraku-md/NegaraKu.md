@@ -222,7 +222,7 @@ DOSM reports GNI per capita reached RM57,200 in 2025, up from RM54,870 in 2024.
 The gap to RM77,200 in five years is the whole policy problem in one line.
 
 The instruments named in the Plan are the New Industrial Master Plan 2030, the
-National Semiconductor Strategy and the National Energy Transition Roadmap. Note
+National Semiconductor Strategy and the [National Energy Transition Roadmap](/energy/national-energy-transition-roadmap-netr). Note
 what the manufacturing target implies: for manufacturing to grow at 5.8% while
 the economy grows at 4.5-5.5%, its share of GDP has to start rising again. The
 plateau ending is not a forecast — it is a target.

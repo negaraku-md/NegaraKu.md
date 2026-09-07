@@ -20,7 +20,7 @@ appliesTo: "适用于马来西亚境内任何人——无论是否佛教徒—�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "f561fd8e12ce27dd"
+sourceContentHash: "87814a02e5e75f73"
 
 status: "published"
 aiAssisted: true
@@ -86,7 +86,7 @@ keywords: ["Wesak Day Malaysia", "Vesak Day Malaysia", "Hari Wesak 2026", "Wesak
 
 ## 卫塞节落在哪一天，以及2026年的日期
 
-马来西亚的公共假期日期由政府每年确认。就2026年而言，国家安全理事会（Majlis Keselamatan Negara）与大马半岛劳工局（Department of Labour Peninsular Malaysia）声明，卫塞节（Hari Wesak）落在**2026年5月31日（星期日）**。
+马来西亚的公共假期日期由政府每年确认。就2026年而言，[国家安全理事会](/government/national-security-council-mkn)（Majlis Keselamatan Negara）与大马半岛劳工局（Department of Labour Peninsular Malaysia）声明，卫塞节（Hari Wesak）落在**2026年5月31日（星期日）**。
 
 | 年份 | 卫塞节 |
 | --- | --- |

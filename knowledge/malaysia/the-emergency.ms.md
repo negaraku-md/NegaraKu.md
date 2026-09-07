@@ -32,7 +32,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ac58eadda5191b8b"
+sourceContentHash: "05c196a1a00207fa"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -124,7 +124,7 @@ Tiga perkara wajar dinyatakan dengan jelas, kerana catatan sering hanya membawa 
 
 - Penempatan semula ini adalah wajib. Orang ramai tidak memilih untuk berpindah, dan ramai kehilangan tanah pertanian serta rumah mereka.
 - Penempatan-penempatan ini dikawal ketat dari segi masuk dan keluar, dengan perintah berkurung dan kawalan makanan dikenakan ke atas penduduk.
-- Kebanyakannya menjadi kekal. Kampung baru tidak dibubarkan apabila Darurat berakhir; ia menjadi bandar dan kampung Malaysia biasa, dan Kementerian Perumahan dan Kerajaan Tempatan hingga kini masih mengekalkan Bahagian Kampung Baru khusus yang menjalankan program infrastruktur, perumahan dan mikro-kredit untuknya.
+- Kebanyakannya menjadi kekal. Kampung baru tidak dibubarkan apabila Darurat berakhir; ia menjadi bandar dan kampung Malaysia biasa, dan [Kementerian Perumahan dan Kerajaan Tempatan](/government/ministry-of-housing-local-government-kpkt) hingga kini masih mengekalkan Bahagian Kampung Baru khusus yang menjalankan program infrastruktur, perumahan dan mikro-kredit untuknya.
 
 ## Pendaftaran, dan kad yang bertahan lebih lama daripada perang itu sendiri
 

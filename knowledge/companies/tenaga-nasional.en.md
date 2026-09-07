@@ -29,7 +29,7 @@ faq:
     a: "TNB owns and operates the national grid network, which must be upgraded to absorb renewable energy, in line with the targets of the National Energy Transition Roadmap (NETR)."
 
 lang: "en"
-sourceContentHash: "9009c031fb997ecb"
+sourceContentHash: "94ad4bd9898402ac"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -107,7 +107,7 @@ This separation of roles is an ongoing effort to remove the perception that the 
 
 ## What is TNB's role in the NETR?
 
-TNB's grid network is now the backbone of the **National Energy Transition Roadmap (NETR)**. The reason is simple: solar and wind energy are only useful if the grid can absorb and distribute them stably, and that grid belongs to TNB.
+TNB's grid network is now the backbone of the **[National Energy Transition Roadmap](/energy/national-energy-transition-roadmap-netr) (NETR)**. The reason is simple: solar and wind energy are only useful if the grid can absorb and distribute them stably, and that grid belongs to TNB.
 
 The NETR sets increasingly aggressive renewable energy penetration targets, with the overall goal of reaching net-zero emissions by 2050:
 

@@ -33,7 +33,7 @@ faq:
     a: "作为卖家，不需要。你与支付网关（payment gateway）签约，由它处理商业验证步骤；必须获得Bank Negara Malaysia批准的是支付网关运营商，而不是你。视你销售的产品而定，特定行业的规则可能仍然适用——例如化妆品和保健品无论通过什么销售渠道都需要向相关监管机构进行通报。"
 
 lang: "zh"
-sourceContentHash: "731294cfbb60b52f"
+sourceContentHash: "beb54faa40df4583"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -95,7 +95,7 @@ keywords: ["start online business malaysia", "e-commerce business malaysia", "se
 
 ## 步骤2：遵守电子商务披露规则（2024年更新）
 
-这正是许多指南过时之处。旧的《消费者保护（电子贸易交易）法规2012》已被**2024年法规取代，于2024年12月25日生效**，依据[《1999年消费者保护法令》](/law/consumer-protection-act)，并由国内贸易及生活费部（KPDN）执法。
+这正是许多指南过时之处。旧的《消费者保护（电子贸易交易）法规2012》已被**2024年法规取代，于2024年12月25日生效**，依据[《1999年消费者保护法令》](/law/consumer-protection-act)，并由[国内贸易及生活费部](/government/ministry-of-domestic-trade-kpdn)（KPDN）执法。
 
 网店卖家或电商平台供应商必须**显示**：
 

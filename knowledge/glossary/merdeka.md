@@ -121,7 +121,7 @@ Perdana Menteri — simbol berakhirnya pemerintahan British.
 
 Peristiwa ini didahului oleh Perjanjian London yang ditandatangani pada
 8 Februari 1956, yang menetapkan 31 Ogos 1957 sebagai tarikh kemerdekaan,
-menurut rekod Majlis Keselamatan Negara (MKN).
+menurut rekod [Majlis Keselamatan Negara](/government/national-security-council-mkn) (MKN).
 
 ## Nama yang kekal hidup
 

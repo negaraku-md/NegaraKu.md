@@ -32,7 +32,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ef592db783187fbc"
+sourceContentHash: "f9b7af93b7253c9c"
 
 status: "published"
 aiAssisted: true
@@ -86,7 +86,7 @@ keywords: ["SSM Malaysia", "Suruhanjaya Syarikat Malaysia", "Companies Commissio
 | 授权法令 | Companies Commission of Malaysia Act 2001 (Act 614) |
 | 御准／刊宪 | 2001 年 9 月 6 日／2001 年 9 月 27 日 |
 | 生效 | 2002 年 4 月 16 日，依 P.U.(B) 127/2002 |
-| 汇报对象 | 国内贸易及生活成本部 |
+| 汇报对象 | [国内贸易及生活成本部](/government/ministry-of-domestic-trade-kpdn) |
 | 网站 | `ssm.com.my` |
 
 ## 它管理什么

@@ -84,7 +84,7 @@ keywords: ["SSM Malaysia", "Suruhanjaya Syarikat Malaysia", "Companies Commissio
 | Enabling statute | Companies Commission of Malaysia Act 2001 (Act 614) |
 | Assent / publication | 6 September 2001 / 27 September 2001 |
 | Commencement | 16 April 2002, by P.U.(B) 127/2002 |
-| Reports to | Ministry of Domestic Trade and Cost of Living |
+| Reports to | [Ministry of Domestic Trade and Cost of Living](/government/ministry-of-domestic-trade-kpdn) |
 | Website | `ssm.com.my` |
 
 ## What it administers

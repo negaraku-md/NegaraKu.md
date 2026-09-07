@@ -39,7 +39,7 @@ faq:
     a: "国家人工智能办公室（National AI Office，NAIO）是数字部辖下的机构，于 2024 年 8 月 28 日获内阁批准，并于 2024 年 12 月 12 日推出。它负责制定、规划、研究、协调及落实国家人工智能举措。据 Tech For Good Institute，其职责包括主导预计涵盖 2026-2030 年的国家人工智能战略，作为 2021-2025 年 AI 路线图的延续；该战略的官方名称与范围有待正式文件确认。"
 
 lang: "zh"
-sourceContentHash: "709d824572395d71"
+sourceContentHash: "4d479bafdf246fa8"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -97,7 +97,7 @@ keywords: ["ekonomi digital", "MSC Malaysia", "Koridor Raya Multimedia", "MyDIGI
 
 1996 年，马来西亚在吉隆坡以南划出一片农地，宣布它为国家未来的科技走廊。近三十年后，国家经济所创造的每四令吉中，几乎就有一令吉流经屏幕、服务器与网上购物车。这两个节点之间的历程并非一次单一的飞跃——而是一系列相互衔接的政策，每一项都在修正或扩展前一项。
 
-本指南按时间顺序梳理国家数字政策的主干：从多媒体超级走廊（MSC），经过数字马来西亚与电子商务时代，到 MyDIGITAL 蓝图，最后到全新的制度架构——数字部与国家人工智能办公室。理解这一顺序，是解读国家走向最快捷的方式。
+本指南按时间顺序梳理国家数字政策的主干：从多媒体超级走廊（MSC），经过数字马来西亚与电子商务时代，到 MyDIGITAL 蓝图，最后到全新的制度架构——[数字部](/technology/ministry-of-digital-malaysia)与[国家人工智能办公室](/technology/national-ai-office-malaysia)。理解这一顺序，是解读国家走向最快捷的方式。
 
 ## 为什么这条时间线重要？
 

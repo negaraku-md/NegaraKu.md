@@ -36,7 +36,7 @@ faq:
     a: "After the 2019 amendment to the Fisheries Act 1985 (Act A1601), the maximum fine for the owner or skipper of an intruding foreign vessel was raised from RM1 million to RM6 million, and for each crew member from RM100,000 to RM600,000."
 
 lang: "en"
-sourceContentHash: "9da87c4c47826890"
+sourceContentHash: "f5794964e422efce"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -158,7 +158,7 @@ managing fish landing complexes, channelling credit and incentives, and
 administering assistance such as natural-disaster relief and fishermen's
 welfare schemes when storms or the monsoon wipe out incomes.
 
-**The Malaysian Maritime Enforcement Agency (MMEA)** is the enforcement arm
+**The [Malaysian Maritime Enforcement Agency](/public-safety/maritime-enforcement-agency-mmea) (MMEA)** is the enforcement arm
 at sea. When foreign vessels intrude or local fishermen breach a zone, it is
 MMEA that intercepts, detains and brings cases to prosecution. The three
 bodies overlap — DOF sets the rules, LKIM supports the fishermen who follow

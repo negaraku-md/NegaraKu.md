@@ -33,7 +33,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "2faa2d5ab731d5e0"
+sourceContentHash: "de6126fff54d2ff3"
 
 status: "published"
 aiAssisted: true
@@ -120,7 +120,7 @@ BLESS 处理来自 18 个当局的 49 项联邦执照，而两者都不完备。
 | KPDN | Franchise Act 1998 (Act 590) | 特许经营授权人、加盟商与经纪注册 | kpdn.gov.my |
 | KPDN | Direct Sales and Anti-Pyramid Scheme Act 1993 (Act 500) | 直销执照 | kpdn.gov.my |
 | KPDN | Control of Supplies Act 1961 (Act 122) | 管制品执照与准证 | kpdn.gov.my |
-| KPDN | Petroleum Development Act 1974 (Act 144); Petroleum and Electricity (Control of Supplies) Act 1974 (Act 128) | 石油供应管制 | kpdn.gov.my |
+| KPDN | [Petroleum Development Act 1974](/energy/petroleum-development-act-1974) (Act 144); Petroleum and Electricity (Control of Supplies) Act 1974 (Act 128) | 石油供应管制 | kpdn.gov.my |
 | KPDN | Trade Descriptions Act 2011 (Act 730) | 依 s.29 制定的清真认证与标示令 | kpdn.gov.my |
 | KPDN | [Consumer Protection Act 1999](/law/consumer-protection-act) (Act 599) | 电子贸易交易义务，现依 P.U.(A) 449/2024 | kpdn.gov.my |
 | 大马关税局（RMCD） | Customs Act 1967 (Act 235) | 依各项禁止令签发的进出口执照、仓库与代理执照 | customs.gov.my |

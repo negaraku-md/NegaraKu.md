@@ -98,7 +98,7 @@ Fungsi dan peranan ini diperincikan dalam portal MyGovernment dan laman rasmi NA
 
 ## Bagaimana NADMA ditubuhkan?
 
-Penubuhan NADMA berpunca daripada keputusan memisahkan fungsi bencana daripada Majlis Keselamatan Negara. Menurut catatan rasmi "Sejarah Penubuhan NADMA" (sumber #3): pada 29 Julai 2015, Jemaah Menteri (Kabinet) bersetuju mengasingkan fungsi pengurusan bencana daripada MKN. Jemaah Menteri kemudian meluluskan penubuhan NADMA pada 26 Ogos 2015, dan agensi ini mula beroperasi secara rasmi di bawah JPM pada 1 Oktober 2015, berpandukan Arahan MKN No. 20 ketika itu.
+Penubuhan NADMA berpunca daripada keputusan memisahkan fungsi bencana daripada [Majlis Keselamatan Negara](/government/national-security-council-mkn). Menurut catatan rasmi "Sejarah Penubuhan NADMA" (sumber #3): pada 29 Julai 2015, Jemaah Menteri (Kabinet) bersetuju mengasingkan fungsi pengurusan bencana daripada MKN. Jemaah Menteri kemudian meluluskan penubuhan NADMA pada 26 Ogos 2015, dan agensi ini mula beroperasi secara rasmi di bawah JPM pada 1 Oktober 2015, berpandukan Arahan MKN No. 20 ketika itu.
 
 ## Bagaimana persekutuan, negeri dan daerah diselaraskan?
 
