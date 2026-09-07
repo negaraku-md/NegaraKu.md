@@ -41,6 +41,10 @@ const CAP = 40; // max candidates printed per target, keeps output reviewable
 // ---- args -------------------------------------------------------------------
 const argv = process.argv.slice(2);
 const outbound = argv.includes('--outbound');
+const all = argv.includes('--all'); // target every published master
+const named = argv.includes('--named'); // restrict targets to named-entity articles (people/orgs/laws/…)
+const summary = argv.includes('--summary'); // one line per target, no per-candidate detail — for a corpus triage
+const plan = argv.includes('--plan'); // machine-readable: one TSV row per candidate (source, target, cat, term, line)
 const ri = argv.indexOf('--recent');
 const recentN = ri >= 0 ? parseInt(argv[ri + 1], 10) || 10 : 0;
 const explicit = argv.filter((a, i) => !a.startsWith('--') && argv[i - 1] !== '--recent');
@@ -76,6 +80,7 @@ for (const rel of readdirSync(KDIR, { recursive: true })) {
     status: fmVal(raw, 'status') || 'draft',
     title: fmVal(raw, 'title'),
     entity: fmVal(raw, 'entity'),
+    cat: fmVal(raw, 'category'),
     mtime: st.mtimeMs,
     raw,
     body: splitBody(raw),
@@ -119,7 +124,9 @@ function findLine(body, term) {
 
 // ---- resolve targets --------------------------------------------------------
 let targets;
-if (recentN) {
+if (all || named) {
+  targets = [...pub].sort((a, b) => (a.slug < b.slug ? -1 : 1));
+} else if (recentN) {
   targets = [...pub].sort((a, b) => b.mtime - a.mtime).slice(0, recentN);
 } else {
   targets = [];
@@ -132,8 +139,14 @@ if (recentN) {
     targets.push(a);
   }
 }
+// --named: keep only articles that ARE a named entity (person, org, agency, law,
+// company, place, event). Their titles/entities are proper nouns, so a prose
+// match is almost always a real reference — the highest-precision slice.
+if (named) targets = targets.filter((t) => t.entity);
 if (!targets.length) {
-  console.log('Usage: node scripts/suggest-crosslinks.mjs <published-slug> [...]  |  --recent <N>  [--outbound]');
+  console.log(
+    'Usage: node scripts/suggest-crosslinks.mjs <published-slug> [...]  |  --recent <N>  |  --all  |  --named  [--summary] [--outbound]',
+  );
   process.exit(0);
 }
 
@@ -171,8 +184,26 @@ for (const tgt of targets) {
     }
   }
 
+  const broadFlag = inbound.length > BROAD;
+  if (plan) {
+    // TSV rows for tooling: source-master | target-slug | target-category | term | body-line | snippet
+    for (const c of inbound) {
+      console.log(`PLAN\t${c.src}\t${tgt.slug}\t${tgt.cat}\t${c.term}\t${c.n}\t${c.text.slice(0, 140).replace(/\t/g, ' ')}`);
+    }
+    total += inbound.length;
+    continue;
+  }
+  if (summary) {
+    // One dense line per target with a candidate — for a whole-corpus triage.
+    if (inbound.length) {
+      const mark = broadFlag ? 'BROAD' : tgt.entity ? 'named' : 'guide';
+      console.log(`${String(inbound.length).padStart(4)}  [${mark.padEnd(5)}]  ${tgt.cat.padEnd(18)}  ${tgt.slug}`);
+    }
+    total += inbound.length;
+    continue;
+  }
   console.log(`\n=== ${tgt.slug}  (${tgt.title || tgt.entity || ''}) ===`);
-  const broad = inbound.length > BROAD ? '  ⚠ broad term — many matches are likely the common noun, filter carefully' : '';
+  const broad = broadFlag ? '  ⚠ broad term — many matches are likely the common noun, filter carefully' : '';
   console.log(`INBOUND — published articles that mention it but don't link it: ${inbound.length}${broad}`);
   for (const c of inbound.slice(0, CAP)) {
     console.log(`  • ${c.src}:${c.n}  [match: "${c.term}"]`);
