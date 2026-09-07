@@ -4,6 +4,7 @@ title: "选举委员会（SPR）：宪法第113–114条下的授权与职能"
 slug: "spr-election-commission"
 category: "government"
 subcategory: ["agencies"]
+alsoIn: ["glossary"]
 summary: "选举委员会（Suruhanjaya Pilihan Raya，SPR）是根据联邦宪法第114条设立、并依据第113条执行职能的宪法机构。本文以描述性方式说明其授权、组成、任期保障与职能，一切均依宪法文本所载。"
 
 tier: "S"
@@ -24,7 +25,7 @@ appliesTo: "任何想要理解马来西亚执行选举的机构之宪法地位�
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "5f141e5dd9e5e528"
+sourceContentHash: "6a46ae533ead9e08"
 
 status: "published"
 aiAssisted: true
@@ -49,6 +50,12 @@ sources:
     publisher: "Jabatan Peguam Negara Malaysia"
   - title: "Sejarah Penubuhan Suruhanjaya Pilihan Raya"
     url: "https://spr.gov.my/sejarah-penubuhan-suruhan-jaya-pilihan-raya/"
+    publisher: "Suruhanjaya Pilihan Raya Malaysia (SPR)"
+  - title: "Perlembagaan Persekutuan, Bahagian VIII — Perkara 113 (Penjalanan Pilihan Raya) dengan catatan pindaan"
+    url: "https://spr.gov.my/wp-content/uploads/2024/10/perkara-113-penjalanan-pilihanraya.pdf"
+    publisher: "Suruhanjaya Pilihan Raya Malaysia (SPR)"
+  - title: "Perlembagaan Persekutuan, Bahagian VIII — Perkara 114 (Keanggotaan Suruhanjaya Pilihan Raya) dengan catatan pindaan"
+    url: "https://spr.gov.my/wp-content/uploads/2024/10/perkara-114-keanggotaan-suruhanjaya-pilihan-raya.pdf"
     publisher: "Suruhanjaya Pilihan Raya Malaysia (SPR)"
   - title: "Visi, Misi dan Fungsi SPR"
     url: "https://ppn.spr.gov.my/nsembilan/fungsi-spr/"
@@ -113,6 +120,26 @@ keywords: ["Suruhanjaya Pilihan Raya", "SPR", "Election Commission", "Perkara 11
 
 第113(3A)条及第113(3B)条另有补充规定，规范因[第46条](/zh/government/parliament)或州法律的修正，导致下议院或州立法议会的民选议员人数变动时的检讨事宜。
 
+## 选区重划的建议如何获得批准：Thirteenth Schedule
+
+由于第113条规定选举委员会所做的是**建议**选区重划，该建议如何被评估并生效，规定于Thirteenth Schedule（第十三附表）之中。选举委员会须“在可行范围内”遵循的原则载于该附表第2节：
+
+- **2(a)**——选区不应跨越州界，且所有选民应获得合理便利的投票机会；
+- **2(b)**——应顾及登记与投票在行政上的便利；
+- **2(c)**——一州之内各选区的选民人数应大致相等，惟应给予“地区的加权度量”，以顾及在乡区及乡村地带接触选民的较大困难；
+- **2(d)**——应顾及界线变动所带来的不便，以及地方联系的维系。
+
+第十三附表第II部分订立了分层的程序：
+
+1. 选举委员会在宪报及至少一份报章上刊登其拟议建议的通告（第4节）。
+2. 可在一个月内提出陈情（第4节）。
+3. 若接获州政府、地方当局或一百名或以上选民的反对，选举委员会应进行地方查询（第5节）。
+4. 选举委员会向首相提呈报告（第8节），首相连同命令草案将其在下议院提出（第9节）。
+5. 命令草案须获下议院以不少于议院议员总数半数的票数批准（第10节）。
+6. 最高元首随后作出该命令（第12节）。
+
+因此，尽管选举委员会处理检讨与查询，但某项选区重划的最终批准权在于下议院及最高元首，而非仅在于选举委员会。
+
 ## 第114条下的组成
 
 第114(1)条规定，选举委员会须由[最高元首](/zh/government/yang-di-pertuan-agong)在咨询[统治者会议](/zh/government/majlis-raja-raja)后委任，并由一名主席、一名副主席及另外五名成员组成。
@@ -127,7 +154,7 @@ keywords: ["Suruhanjaya Pilihan Raya", "SPR", "Election Commission", "Perkara 11
 
 | 条文 | 规定内容 |
 | --- | --- |
-| 第114(3)条 | 成员在年满66岁或丧失资格时卸任；可致函最高元首辞职；**不得被免职，除非基于与[联邦法院](/zh/government/kehakiman-mahkamah)法官相同的理由，并依照相同的方式** |
+| 第114(3)条 | 成员在年满66岁（由A1320号法令自2007年12月27日起由65岁提高）或丧失资格时卸任；可致函最高元首辞职；**不得被免职，除非基于与[联邦法院](/zh/government/kehakiman-mahkamah)法官相同的理由，并依照相同的方式** |
 | 第114(4)条 | 最高元首须将下列成员免职：成为未获解除的破产者、在职责以外担任任何有薪职位或受雇工作，或成为任何国会院或州立法议会的议员 |
 | 第114(4A)条 | 主席若在委任后三个月，成为任何机构或商业企业的董事会或管理层成员、职员或雇员，或参与其事务（惟就慈善或义务工作设有例外），即丧失资格 |
 | 第114(5)条 | 国会须以法律规定成员的薪酬，且**该薪酬由统一基金支付** |
@@ -157,6 +184,8 @@ keywords: ["Suruhanjaya Pilihan Raya", "SPR", "Election Commission", "Perkara 11
 | 1963年 | 成员人数增至三名，另设一名来自沙巴或砂拉越的轮值成员 |
 | 1981年 | 第114条的修正案，容许委任一名副主席 |
 | 2002年 | 组成人数增至七人：一名主席、一名副主席及五名成员，其中包括一名来自沙巴、一名来自砂拉越 |
+
+第114条的官方注记将这一组成与特定的修宪相联系：26/1963号法令（自1963年9月16日生效）将其他成员的人数由两名增至三名；A514号法令（自1981年5月15日生效）加入了副主席一职；A1130号法令（自2001年9月28日生效）将其他成员由“三名”改为“五名”，使总人数达至七人。根据SPR门户网站，本委员会的首任主席为Dato' Dr. Mustafa Albakri bin Haji Hassan。
 
 ## 常见错误
 

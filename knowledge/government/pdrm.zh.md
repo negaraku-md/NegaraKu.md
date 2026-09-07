@@ -4,6 +4,7 @@ title: "皇家马来西亚警察部队（PDRM）：指挥架构、核心职能�
 slug: "pdrm"
 category: "government"
 subcategory: ["agencies"]
+alsoIn: [glossary, public-safety]
 summary: "皇家马来西亚警察部队（PDRM）的机构实体页——其在《1967年警察法令》（第344号法令）中的法律依据、s.3(3)下的五项核心职能、从总警长以下的指挥架构、s.20下警务人员的一般职责，以及联邦宪法第140条下负责管理人员委任与纪律事宜的警察部队委员会。"
 
 tier: "S"
@@ -36,7 +37,7 @@ faq:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "f2031ab6ed451baf"
+sourceContentHash: "2fcb4ae755f95546"
 
 status: "published"
 aiAssisted: true
@@ -64,6 +65,31 @@ sources:
   - title: "Perlembagaan Persekutuan (Cetakan Semula 2020) — Perkara 140, Suruhanjaya Pasukan Polis"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
     publisher: "Pejabat Peguam Negara Malaysia (AGC)"
+  - title: "Sejarah Penubuhan Pasukan Polis (1807-1957)"
+    url: "https://apsec.upm.edu.my/artikel/sejarah_penubuhan_pasukan_polis_1807_1957-75025"
+    publisher: "Pusat Polis Bantuan dan Keselamatan Universiti (APSeC), Universiti Putra Malaysia"
+  - title: "Sisipan Sejarah: Pengurniaan Gelaran 'DiRaja' Kepada Pasukan Polis Persekutuan Tanah Melayu"
+    url: "https://www.mkn.gov.my/web/ms/2024/07/25/sisipan-sejarah-pengurniaan-gelaran-diraja-kepada-pasukan-polis-persekutuan-tanah-melayu/"
+    publisher: "Majlis Keselamatan Negara (MKN)"
+    date: "2024-07-25"
+  - title: "Pangkat — Polis Diraja Malaysia"
+    url: "https://www.rmp.gov.my/infor-korporate/polis-diraja-malaysia/pangkat"
+    publisher: "Polis Diraja Malaysia"
+  - title: "Jabatan-Jabatan — Polis Diraja Malaysia"
+    url: "https://www.rmp.gov.my/infor-korporate/jabatan---jabatan"
+    publisher: "Polis Diraja Malaysia"
+  - title: "Laman Web Rasmi Polis Diraja Malaysia"
+    url: "https://www.rmp.gov.my/"
+    publisher: "Polis Diraja Malaysia"
+  - title: "Maklumat Semasa Suruhanjaya Bebas Tatakelakuan Polis (IPCC)"
+    url: "https://www.moha.gov.my/utama/index.php/en/suruhanjaya-bebas-tatakelakuan-polis-ipcc/maklumat-semasa-ipcc"
+    publisher: "Kementerian Dalam Negeri (KDN)"
+  - title: "Latar Belakang EAIC"
+    url: "https://www.eaic.gov.my/en/about-eaic/background"
+    publisher: "Suruhanjaya Integriti Agensi Penguatkuasaan (EAIC)"
+  - title: "Bidang Kuasa Suruhanjaya (EAIC)"
+    url: "https://www.eaic.gov.my/en/about-us/act-700/function-jurisdiction/bidang-kuasa-suruhanjaya"
+    publisher: "Suruhanjaya Integriti Agensi Penguatkuasaan (EAIC)"
 
 entity: "PDRM"
 relations:
@@ -91,12 +117,34 @@ keywords: ["PDRM", "Polis Diraja Malaysia", "Royal Malaysia Police", "Akta Polis
 | 负责对象 | 部长（负责警务事务的部长） |
 | 名誉总司令 | 最高元首（Yang di-Pertuan Agong），依据s.6A |
 | 人事机构 | 警察部队委员会，联邦宪法第140条 |
+| 总部 | 吉隆坡武吉阿曼（Bukit Aman） |
+| 主管部门 | 内政部（KDN） |
 | 网站 | `rmp.gov.my` |
 
 第344号法令并非从零设立这支部队。s.3(1)规定，凡在本法令生效之前，根据
 《1963年皇家马来西亚警察法令》成为皇家马来西亚警察部队成员者，须以「相应
 的职级并以相应的身份」成为新法令下该部队的成员。因此，1967年法令是对一支
 已经存在的部队进行重组与巩固。
+
+## 起源与「皇家」（DiRaja）称号
+
+第344号法令所重组的这支部队，其渊源远比马来西亚这个国家本身更为悠久。马来亚
+的现代警察组织始于1807年3月25日在槟城生效的《司法宪章》（Charter of Justice）。
+在整个19世纪，各州部队各自发展，其后部分地通过1896年7月1日成立的马来联邦警察
+部队（Federated Malay States Police）而获得整合。
+
+「皇家」（DiRaja）称号由最高元首端姑阿都拉曼（Tuanku Abdul Rahman Ibni Almarhum
+Tuanku Muhammad）于1958年7月24日颁赐予马来亚联合邦警察部队，以表彰警察成员在
+1948至1960年紧急状态期间的贡献。当马来西亚于1963年9月16日成立时，该部队获得了
+沿用至今的名称：皇家马来西亚警察部队（Polis Diraja Malaysia）。
+
+| 日期 | 事件 |
+| --- | --- |
+| 1807年3月25日 | 槟城《司法宪章》——现代警察的根基 |
+| 1896年7月1日 | 马来联邦警察部队成立 |
+| 1948-1960年 | 紧急状态——警察抵御共产党武装叛乱的贡献 |
+| 1958年7月24日 | 最高元首颁赐「皇家」（DiRaja）称号 |
+| 1963年9月16日 | 马来西亚成立——启用「皇家马来西亚警察部队」名称 |
 
 ## 部队的五项目的
 
@@ -136,7 +184,13 @@ s.5列出为执行本法令目的而可委任的职位：
 | 执行层 | 高级警官及其他初级警官；警员 |
 
 高级警官与初级警官的具体职级，则依据s.5(2)列于该法令的第一附表（First
-Schedule）。
+Schedule）。该法令将成员分为*高级警官*（从总警长至见习督察）与*初级警官*（从
+副督察至警员）两类。PDRM官方网站列出18个警衔级别：
+
+| 类别 | 警衔（由高至低） |
+| --- | --- |
+| 高级警官 | 警察总监（总警长 KPN）· 副警察总监 · 专员 · 副专员 · 高级助理专员 · 助理专员 · 警监 · 副警监 · 助理警监 · 督察 · 见习督察 |
+| 初级警官及警员 | 副督察 · 上士 · 中士 · 下士 · 一等警长 · 警员 · 见习警员 |
 
 在州属及编制层级，s.6规定该部队成员由部长所决定区域或州属的总监或警察
 总长管辖，并由总警长指定的官员管辖任何编制、警区或分区。
@@ -145,6 +199,24 @@ Schedule）。
 定为皇家马来西亚警察部队的名誉总司令（Panglima Besar Kehormat，Honorary
 Commissioner-in-Chief）。有关最高元首角色的宪法背景，参见
 [最高元首](/zh/government/yang-di-pertuan-agong)。
+
+## 主要部门
+
+在行政层级上，部队于武吉阿曼总部的工作分配给十个主要部门，每个部门通常由一名
+专员或同等级别的总监领导。
+
+| 部门 | 核心职能 |
+| --- | --- |
+| 管理部门 | 行政、人力资源及企业事务 |
+| 刑事侦查部（JSJ） | 刑事侦查与起诉 |
+| 麻醉品刑事侦查部（JSJN） | 与毒品相关的罪行 |
+| 商业罪案侦查部（JSJK） | 白领与商业犯罪 |
+| 后勤资源与科技部 | 财务、后勤及科技支援 |
+| 内部安全与公共秩序部（JKDNKA） | 行动部门，公共秩序管控 |
+| 特别部门（政治部） | 情报与安全事务 |
+| 廉政与标准合规部（JIPS） | 内部廉政与投诉 |
+| 犯罪预防与社区安全部 | 犯罪预防与社区安全 |
+| 交通侦查与执法部 | 交通法令执法 |
 
 ## 法律准许警务人员做什么
 
@@ -169,7 +241,8 @@ s.20(3)接着规定，警务人员的职责是执行s.3(3)所述的各项目的�
 检控的决定权依据其他法律归属于公共检控官（Public Prosecutor）（作为权力
 架构的比较，可参见[SPRM](/zh/government/macc-sprm)如何负责调查，但须将
 案件转介公共检控官）。第二，s.20(4)规定，警务人员在押解囚犯时，须被视为
-监狱官员，并具有监狱官员的权力与保障。
+监狱官员，并具有监狱官员的权力与保障。为配合该押解职务，s.21规定：妨碍或违抗
+警察有关警车护送的合法指示，可被处以高达1万令吉（RM10,000）罚款及两年监禁。
 
 这些职责中有许多与其他执法机构相互交叉——例如，与移民及登记相关的部分，
 涉及[移民局](/zh/government/imigresen)的工作；而出席法庭并维持庭内秩序的
@@ -196,6 +269,20 @@ Commission）**，负责警察部队成员的委任、确认、纳入常任或�
 转授予总警长及高级警官。这种分工意味着，成员的委任与纪律事宜由一个法定
 机构负责，而非完全掌握在部队本身的行动领导层手中。有关更广泛的宪法依据，
 参见[联邦宪法](/zh/law/federal-constitution)。
+
+## 外部监督与投诉
+
+除了内部纪律管制及警察部队委员会的角色之外，成员的行为还由两个独立于部队本身
+的法定机构监督：
+
+- **警察行为独立委员会（IPCC）**——专门针对 PDRM 的机构，根据第839号法令设立。
+  该法令于2023年7月1日生效，IPCC 于2023年11月1日开始运作。它监察、调查并处理
+  针对 PDRM 成员的行为不当投诉，并向国会提交年度报告。
+- **执法机构廉政委员会（EAIC）**——根据第700号法令设立，2011年4月1日生效。EAIC
+  对21个执法机构拥有管辖权，可接受投诉、展开调查，并将纪律或刑事案件转介给相关
+  当局。
+
+在部队内部，诚信与标准合规部（JIPS）则负责处理内部廉政及成员失当行为的投诉。
 
 ## 辅助部队
 

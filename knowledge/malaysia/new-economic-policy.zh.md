@@ -4,6 +4,7 @@ title: "新经济政策：两大宣示目标，一个二十年框架"
 slug: "new-economic-policy"
 category: "malaysia"
 subcategory: ["modern"]
+alsoIn: ["glossary"]
 summary: "关于新经济政策（NEP，1971-1990年）的事实性记述——第二大马计划中所宣示的两项目标（不分种族消除贫穷，以及重组社会以终止种族与经济功能的关联），凌驾一切的国家团结宗旨，以及二十年的时间框架。本文严格按照官方计划文本所记载的内容进行报道。"
 tier: "S"
 mode: "practical"
@@ -21,7 +22,7 @@ appliesTo: "希望了解新经济政策有据可查的目标、指标与时间�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "a4d56942dfe56961"
+sourceContentHash: "6f9599be22d1ac5f"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -47,6 +48,12 @@ sources:
   - title: "Tun Razak Penggerak Pembangunan Rakyat / Negara (Jendela Sejarah)"
     url: "https://pustakailmu.arkib.gov.my/index.php/ms/pustaka-ilmu/jendela-sejarah/tun-razak-penggerak-pembangunan-rakyat-negara"
     publisher: "Arkib Negara Malaysia"
+  - title: "The New Economic Policy: Revisiting origins and misconceptions"
+    url: "https://www.ehm.my/publications/articles/the-new-economic-policy-revisiting-origins-and-misconceptions"
+    publisher: "Economic History Malaysia (EHM)"
+  - title: "Malaysia's New Economic Policy and the 30% Bumiputera Equity Target: Time for a Revisit and a Reset"
+    url: "https://www.iseas.edu.sg/articles-commentaries/iseas-perspective/malaysias-new-economic-policy-and-the-30-bumiputera-equity-target-time-for-a-revisit-and-a-reset-by-lee-hwok-aun/"
+    publisher: "ISEAS – Yusof Ishak Institute"
 entity: "New Economic Policy"
 relations:
   - { rel: "part-of", to: "malaysia" }
@@ -93,13 +100,15 @@ keywords: ["New Economic Policy", "NEP", "Dasar Ekonomi Baru", "DEB", "Second Ma
 
 第二管策略关注的是经济格局本身——谁拥有什么、谁在哪里工作——而不是绝对收入水平。
 
-该计划中最常被引用的目标涉及企业所有权。计划设定的目标，是将企业界的股权由土著（Bumiputera）持有的比例，从该时期开始时的低个位数比例，提高至**至少30%**，余额由其他马来西亚人持有，而外国利益所占比例则逐步减少。除了所有权之外，重组这一管也以就业为目标：期望各层级、各行业的职业构成，将随时间推移逐渐反映国家的种族构成，从而使任何种族都不再与特定的经济功能挂钩。
+该计划中最常被引用的目标涉及企业所有权。计划设定的目标，是将企业界的股权由土著（Bumiputera）持有的比例，从该时期开始时的低个位数比例，提高至**至少30%**。这一数字处于一个计划于1990年前实现的更完整的持有格局之中——**30%由土著持有、40%由其他马来西亚人持有、30%由外国利益持有**——其中外资份额预期在该时期内下降。政策的一份早期陈述表明了一种愿望：让土著在一代人的时间内成为国家经济生活的完全合伙人。除了所有权之外，重组这一管也以就业为目标：期望各层级、各行业的职业构成，将随时间推移逐渐反映国家的种族构成，从而使任何种族都不再与特定的经济功能挂钩。
 
 该计划所陈述的方法，与其目标同样重要。重组应透过**经济扩张**来实现——即随着经济增长，将不断扩大的整体份额重新分配——而不是将现有资产从一个群体转移到另一个群体。文件记载的意图，是这一过程不涉及剥夺任何社群的财产。
 
 ## 撰写背景
 
 官方历史记载将新经济政策的起源，定位于一个特定的时刻。马来西亚国家档案局（Arkib Negara Malaysia）记录，国家在1969年5月13日事件之后推行新经济政策（Dasar Ekonomi Baru），作为一项更广泛努力的一部分——与[《国家原则》](/zh/malaysia/rukun-negara)以及国会制度的恢复一并进行——以重建国家的信心与团结。这项政策由时任首相敦阿都拉萨（Tun Abdul Razak）推动。
+
+它是在国家行动理事会（Majlis Gerakan Negara，MAGERAN）紧急统治期间拟定的，其最终政策文件于1971年7月12日在国会提呈。关于其拟定过程的记述提到，有两种官方思路参与其中——一种与经济策划单位相关，更强调经济增长；另一种与国民团结局相关，主张国家进行更广泛的干预以缩小各社群之间的不平等。
 
 这使新经济政策与本文已提及的另外两项相邻事件处于同一时期。国会的中止运作，以及在过渡期间治理国家的国家行动理事会，正是[《国家原则》](/zh/malaysia/rukun-negara)得以草拟的同一行政背景。而第二管策略试图改变的人口结构，正是马来西亚[人口构成](/zh/malaysia/population-composition)一文的主题。
 

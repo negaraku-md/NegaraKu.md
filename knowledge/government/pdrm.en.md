@@ -4,6 +4,7 @@ title: "Royal Malaysia Police: Chain of Command, Core Functions and Legal Basis"
 slug: "pdrm"
 category: "government"
 subcategory: ["agencies"]
+alsoIn: [glossary, public-safety]
 summary: "An agency entity page for the Royal Malaysia Police (PDRM) — its legal basis in the Police Act 1967 (Act 344), the five core functions under Section 3(3), the chain of command from the Inspector-General of Police downward, the general duties of police officers under Section 20, and the Police Force Commission under Article 140 of the Federal Constitution, which handles the appointment and discipline of members."
 
 tier: "S"
@@ -36,7 +37,7 @@ faq:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "f2031ab6ed451baf"
+sourceContentHash: "2fcb4ae755f95546"
 
 status: "published"
 aiAssisted: true
@@ -64,6 +65,31 @@ sources:
   - title: "Perlembagaan Persekutuan (Cetakan Semula 2020) — Perkara 140, Suruhanjaya Pasukan Polis"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
     publisher: "Pejabat Peguam Negara Malaysia (AGC)"
+  - title: "Sejarah Penubuhan Pasukan Polis (1807-1957)"
+    url: "https://apsec.upm.edu.my/artikel/sejarah_penubuhan_pasukan_polis_1807_1957-75025"
+    publisher: "Pusat Polis Bantuan dan Keselamatan Universiti (APSeC), Universiti Putra Malaysia"
+  - title: "Sisipan Sejarah: Pengurniaan Gelaran 'DiRaja' Kepada Pasukan Polis Persekutuan Tanah Melayu"
+    url: "https://www.mkn.gov.my/web/ms/2024/07/25/sisipan-sejarah-pengurniaan-gelaran-diraja-kepada-pasukan-polis-persekutuan-tanah-melayu/"
+    publisher: "Majlis Keselamatan Negara (MKN)"
+    date: "2024-07-25"
+  - title: "Pangkat — Polis Diraja Malaysia"
+    url: "https://www.rmp.gov.my/infor-korporate/polis-diraja-malaysia/pangkat"
+    publisher: "Polis Diraja Malaysia"
+  - title: "Jabatan-Jabatan — Polis Diraja Malaysia"
+    url: "https://www.rmp.gov.my/infor-korporate/jabatan---jabatan"
+    publisher: "Polis Diraja Malaysia"
+  - title: "Laman Web Rasmi Polis Diraja Malaysia"
+    url: "https://www.rmp.gov.my/"
+    publisher: "Polis Diraja Malaysia"
+  - title: "Maklumat Semasa Suruhanjaya Bebas Tatakelakuan Polis (IPCC)"
+    url: "https://www.moha.gov.my/utama/index.php/en/suruhanjaya-bebas-tatakelakuan-polis-ipcc/maklumat-semasa-ipcc"
+    publisher: "Kementerian Dalam Negeri (KDN)"
+  - title: "Latar Belakang EAIC"
+    url: "https://www.eaic.gov.my/en/about-eaic/background"
+    publisher: "Suruhanjaya Integriti Agensi Penguatkuasaan (EAIC)"
+  - title: "Bidang Kuasa Suruhanjaya (EAIC)"
+    url: "https://www.eaic.gov.my/en/about-us/act-700/function-jurisdiction/bidang-kuasa-suruhanjaya"
+    publisher: "Suruhanjaya Integriti Agensi Penguatkuasaan (EAIC)"
 
 entity: "PDRM"
 relations:
@@ -92,6 +118,8 @@ discipline of its members?
 | Responsible to | Minister (the Minister responsible for the police) |
 | Honorary Commissioner-in-Chief | Yang di-Pertuan Agong, under Section 6A |
 | Human resource body | Police Force Commission, Article 140 of the Federal Constitution |
+| Headquarters | Bukit Aman, Kuala Lumpur |
+| Supervising ministry | Ministry of Home Affairs (KDN) |
 | Website | `rmp.gov.my` |
 
 Act 344 does not create this force from nothing. Section 3(1) states that those
@@ -100,6 +128,28 @@ Act 1963 immediately before this Act came into force become members of the
 force under the new Act "with corresponding rank and in a corresponding
 capacity". So the 1967 Act reorganised and consolidated a force that already
 existed.
+
+## Origins and the "DiRaja" title
+
+The force reorganised by Act 344 has roots far older than the nation of Malaysia
+itself. Modern police organisation in the Malay Peninsula began with the Charter of
+Justice, which came into force in Penang on 25 March 1807. Throughout the 19th
+century, state forces developed separately before being partly unified through the
+establishment of the Federated Malay States Police on 1 July 1896.
+
+The "DiRaja" (Royal) title was bestowed by the Yang di-Pertuan Agong, Tuanku Abdul
+Rahman Ibni Almarhum Tuanku Muhammad, on 24 July 1958 upon the Federation of Malaya
+Police, in recognition of police personnel's service during the 1948-1960 Emergency.
+When Malaysia was formed on 16 September 1963, the force took the name it has kept to
+this day: the Royal Malaysia Police (Polis Diraja Malaysia).
+
+| Date | Event |
+| --- | --- |
+| 25 March 1807 | Charter of Justice in Penang — foundation of modern policing |
+| 1 July 1896 | Establishment of the Federated Malay States Police |
+| 1948-1960 | Emergency — police service against the armed communist insurrection |
+| 24 July 1958 | "DiRaja" (Royal) title bestowed by the Yang di-Pertuan Agong |
+| 16 September 1963 | Formation of Malaysia — the name Royal Malaysia Police adopted |
 
 ## The force's five purposes
 
@@ -147,7 +197,15 @@ carrying out the Act:
 | Operational ranks | Senior police officers and other junior police officers; constables |
 
 The ranks of senior and junior police officers are in turn set out in the
-First Schedule to the Act, pursuant to Section 5(2).
+First Schedule to the Act, pursuant to Section 5(2). The Act divides members into
+*senior police officers* (from the Inspector-General of Police down to probationary
+Inspector) and *junior police officers* (from Sub-Inspector down to Constable). The
+official PDRM website lists 18 rank levels:
+
+| Category | Rank (highest → lowest) |
+| --- | --- |
+| Senior Police Officer | Inspector-General of Police (IGP) · Deputy Inspector-General · Commissioner · Deputy Commissioner · Senior Assistant Commissioner · Assistant Commissioner · Superintendent · Deputy Superintendent · Assistant Superintendent · Inspector · Probationary Inspector |
+| Junior Police Officer & Constable | Sub-Inspector · Sergeant Major · Sergeant · Corporal · Lance Corporal · Constable · Probationary Constable |
 
 At the state and formation level, Section 6 provides that members of the
 force are controlled by a Commissioner or a Chief Police Officer for an area
@@ -158,6 +216,25 @@ One symbolic provision completes this structure: Section 6A makes the Yang
 di-Pertuan Agong the Honorary Commissioner-in-Chief (Panglima Besar Kehormat)
 of the Royal Malaysia Police. For the constitutional background to the
 Agong's role, see [Yang di-Pertuan Agong](/en/government/yang-di-pertuan-agong).
+
+## Main departments
+
+At the administrative level, the force's work at its Bukit Aman headquarters is
+distributed across ten main departments, each usually headed by a director holding
+the rank of Commissioner or equivalent.
+
+| Department | Core function |
+| --- | --- |
+| Management Department | Administration, human resources and corporate affairs |
+| Criminal Investigation Department (JSJ) | Criminal investigation and prosecution |
+| Narcotics Criminal Investigation Department (JSJN) | Drug-related offences |
+| Commercial Crime Investigation Department (JSJK) | White-collar and commercial crime |
+| Logistics and Technology Resource Department | Financial, logistics and technology support |
+| Internal Security & Public Order Department (JKDNKA) | Operations wing, public order control |
+| Special Branch | Intelligence and security affairs |
+| Integrity and Standards Compliance Department (JIPS) | Internal integrity and complaints |
+| Crime Prevention and Community Safety Department | Crime prevention and community safety |
+| Traffic Investigation and Enforcement Department | Enforcement of traffic laws |
 
 ## What the law permits officers to do
 
@@ -188,7 +265,10 @@ the Public Prosecutor under other laws (see, for a comparison of power
 structures, how [MACC](/en/government/macc-sprm) investigates but refers
 matters to the Public Prosecutor). Second, Section 20(4) states that when
 escorting prisoners, a police officer is deemed to be a prison officer and
-bears the powers and protections of a prison officer.
+bears the powers and protections of a prison officer. In support of that escort
+duty, Section 21 provides for a penalty of up to RM10,000 and two years'
+imprisonment for obstructing or disobeying lawful police directions relating to a
+police escort.
 
 Many of these duties intersect with other enforcement agencies — for
 instance, the reference to immigration and registration relates to the work
@@ -222,6 +302,24 @@ matters of appointment and discipline of members are placed under a statutory
 body, rather than resting entirely with the force's operational leadership.
 For the broader constitutional basis, see
 [Federal Constitution](/en/law/federal-constitution).
+
+## External oversight and complaints
+
+Beyond internal disciplinary control and the role of the Police Force Commission, the
+conduct of members is overseen by two statutory bodies independent of the force
+itself:
+
+- **Independent Police Conduct Commission (IPCC)** — the body dedicated to PDRM under
+  Act 839. The Act came into force on 1 July 2023 and the IPCC began operating on
+  1 November 2023. It monitors, investigates and handles complaints of misconduct by
+  PDRM members, and tables an annual report to Parliament.
+- **Enforcement Agency Integrity Commission (EAIC)** — established under Act 700 and
+  in force from 1 April 2011. The EAIC has jurisdiction over 21 enforcement agencies,
+  and may receive complaints, conduct investigations, and refer disciplinary or
+  criminal cases to the relevant authorities.
+
+Within the force, the Integrity and Standards Compliance Department (JIPS) handles
+internal integrity and complaints of member misconduct.
 
 ## Auxiliary forces
 

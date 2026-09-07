@@ -34,7 +34,7 @@ faq:
     a: "《2019 年 FELDA 白皮书》将危机归因于治理失当以及通过 FGV 与 FIC 进行的失败投资。FELDA 集团的负债从 12 亿令吉（2007 年）增至 144 亿令吉（2017 年）。"
 
 lang: "zh"
-sourceContentHash: "3fa0f63a592b230c"
+sourceContentHash: "f936378cc1a6bbd4"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,9 +78,9 @@ sources:
 
 entity: "Lembaga Kemajuan Tanah Persekutuan (FELDA)"
 relations:
-  - { rel: "related-to", to: "dasar-ekonomi-baru" }
+  - { rel: "related-to", to: "new-economic-policy" }
   - { rel: "related-to", to: "bumiputera" }
-related: ["dasar-ekonomi-baru", "bumiputera"]
+related: ["new-economic-policy", "bumiputera"]
 keywords: ["FELDA", "Lembaga Kemajuan Tanah Persekutuan", "peneroka", "tanah rancangan", "kelapa sawit", "FGV", "pembangunan luar bandar"]
 ---
 
@@ -152,4 +152,4 @@ FELDA 的模式将土地授予与社会经济援助相结合。每名垦殖民�
 
 如今的 FELDA 正努力在其历史遗产与财务现实以及新生代的挑战之间寻求平衡。2019 年白皮书勾勒出"新 FELDA 模式"——其中包括长期土地租赁、赋能垦殖民合作社，以及采用现代化园地技术——以恢复该机构的可持续性。
 
-若要了解更广阔的背景，请阅读关于[新经济政策](/glossary/dasar-ekonomi-baru)与[土著](/glossary/bumiputera)的相关条目。若需土地开发计划区、垦殖民与财务状况的最新数字，请参阅 FELDA 官方网站与最新财务报表，因为本文中的许多数据截至 2018–2019 年。
+若要了解更广阔的背景，请阅读关于[新经济政策](/malaysia/new-economic-policy)与[土著](/glossary/bumiputera)的相关条目。若需土地开发计划区、垦殖民与财务状况的最新数字，请参阅 FELDA 官方网站与最新财务报表，因为本文中的许多数据截至 2018–2019 年。

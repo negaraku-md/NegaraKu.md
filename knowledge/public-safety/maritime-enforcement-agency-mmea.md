@@ -69,9 +69,9 @@ sources:
 
 entity: "Agensi Penguatkuasaan Maritim Malaysia (APMM)"
 relations:
-  - { rel: "related-to", to: "royal-malaysia-police-pdrm" }
+  - { rel: "related-to", to: "pdrm" }
   - { rel: "related-to", to: "malaysian-armed-forces-atm" }
-related: ["royal-malaysia-police-pdrm"]
+related: ["pdrm"]
 keywords: ["APMM", "MMEA", "pengawal pantai Malaysia", "penguatkuasaan maritim", "carian dan menyelamat", "Zon Maritim Malaysia", "Akta APMM 2004"]
 ---
 

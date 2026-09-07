@@ -75,9 +75,9 @@ sources:
 
 entity: "Commercial Crime Investigation Department (CCID) / Jabatan Siasatan Jenayah Komersil"
 relations:
-  - { rel: "part-of", to: "polis-diraja-malaysia" }
+  - { rel: "part-of", to: "pdrm" }
   - { rel: "related-to", to: "national-scam-response-centre-nsrc" }
-related: ["polis-diraja-malaysia"]
+related: ["pdrm"]
 keywords: ["CCID", "Jabatan Siasatan Jenayah Komersil", "JSJK", "PDRM", "jenayah komersil", "penipuan dalam talian", "Semak Mule", "NSRC", "997"]
 ---
 

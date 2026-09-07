@@ -4,6 +4,7 @@ title: "Dasar Ekonomi Baru: Dua Objektif yang Dinyatakan, Satu Rangka Kerja Dua 
 slug: "new-economic-policy"
 category: "malaysia"
 subcategory: ["modern"]
+alsoIn: ["glossary"]
 summary: "Catatan fakta mengenai Dasar Ekonomi Baru (DEB) 1971-1990 — dua objektif yang dinyatakan dalam Rancangan Malaysia Kedua (membasmi kemiskinan tanpa mengira kaum, dan menyusun semula masyarakat untuk menamatkan pengenalan kaum dengan fungsi ekonomi), matlamat utama perpaduan negara, serta rangka masa dua puluh tahun. Dilaporkan secara ketat sebagaimana didokumenkan dalam teks rancangan rasmi."
 tier: "S"
 mode: "practical"
@@ -21,7 +22,7 @@ appliesTo: "Pembaca yang mahukan objektif, sasaran dan rangka masa Dasar Ekonomi
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "a4d56942dfe56961"
+sourceContentHash: "6f9599be22d1ac5f"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -47,6 +48,12 @@ sources:
   - title: "Tun Razak Penggerak Pembangunan Rakyat / Negara (Jendela Sejarah)"
     url: "https://pustakailmu.arkib.gov.my/index.php/ms/pustaka-ilmu/jendela-sejarah/tun-razak-penggerak-pembangunan-rakyat-negara"
     publisher: "Arkib Negara Malaysia"
+  - title: "The New Economic Policy: Revisiting origins and misconceptions"
+    url: "https://www.ehm.my/publications/articles/the-new-economic-policy-revisiting-origins-and-misconceptions"
+    publisher: "Economic History Malaysia (EHM)"
+  - title: "Malaysia's New Economic Policy and the 30% Bumiputera Equity Target: Time for a Revisit and a Reset"
+    url: "https://www.iseas.edu.sg/articles-commentaries/iseas-perspective/malaysias-new-economic-policy-and-the-30-bumiputera-equity-target-time-for-a-revisit-and-a-reset-by-lee-hwok-aun/"
+    publisher: "ISEAS – Yusof Ishak Institute"
 entity: "New Economic Policy"
 relations:
   - { rel: "part-of", to: "malaysia" }
@@ -93,13 +100,15 @@ Dua perkara wajar diperjelaskan. Angka asas 49.3 peratus dan sasaran 16.7 peratu
 
 Cabang kedua berkaitan dengan corak ekonomi — siapa memiliki apa, dan siapa bekerja di mana — dan bukannya berkaitan dengan pendapatan mutlak.
 
-Sasarannya yang paling kerap dipetik berkaitan dengan pemilikan korporat. Rancangan itu menetapkan matlamat untuk meningkatkan pemilikan modal saham Bumiputera dalam sektor korporat kepada **sekurang-kurangnya 30 peratus**, daripada satu bahagian yang rendah pada peringkat digit tunggal pada permulaan tempoh itu, dengan bakinya dipegang oleh rakyat Malaysia lain dan satu bahagian yang semakin berkurangan oleh kepentingan asing. Selain pemilikan, cabang penyusunan semula ini turut menyasarkan guna tenaga kerja: bahawa pekerjaan pada setiap peringkat dan merentasi sektor akan, dari semasa ke semasa, mencerminkan komposisi etnik negara, supaya tiada kumpulan etnik dikenal pasti dengan sesuatu fungsi ekonomi tertentu.
+Sasarannya yang paling kerap dipetik berkaitan dengan pemilikan korporat. Rancangan itu menetapkan matlamat untuk meningkatkan pemilikan modal saham Bumiputera dalam sektor korporat kepada **sekurang-kurangnya 30 peratus**, daripada satu bahagian yang rendah pada peringkat digit tunggal pada permulaan tempoh itu. Angka itu terletak dalam satu corak pemilikan yang lebih lengkap yang disasarkan menjelang 1990 — **30 peratus dipegang Bumiputera, 40 peratus oleh rakyat Malaysia lain, dan 30 peratus oleh kepentingan asing** — dengan bahagian asing dijangka berkurangan sepanjang tempoh itu. Satu kenyataan awal dasar ini menyatakan hasrat agar Bumiputera menjadi rakan kongsi penuh dalam kehidupan ekonomi negara dalam tempoh satu generasi. Selain pemilikan, cabang penyusunan semula ini turut menyasarkan guna tenaga kerja: bahawa pekerjaan pada setiap peringkat dan merentasi sektor akan, dari semasa ke semasa, mencerminkan komposisi etnik negara, supaya tiada kumpulan etnik dikenal pasti dengan sesuatu fungsi ekonomi tertentu.
 
 Kaedah yang dinyatakan oleh Rancangan itu adalah sama pentingnya dengan sasarannya. Penyusunan semula ini hendaklah dicapai melalui **pengembangan ekonomi** — satu bahagian keseluruhan yang semakin membesar untuk diagihkan semula seiring pertumbuhan ekonomi — dan bukannya dengan memindahkan aset sedia ada daripada satu kumpulan kepada kumpulan yang lain. Hasrat yang didokumenkan ialah proses ini tidak akan melibatkan perampasan harta daripada mana-mana komuniti.
 
 ## Konteks penggubalannya
 
 Sejarah rasmi meletakkan asal usul DEB pada satu detik yang khusus. Arkib Negara Malaysia mencatatkan bahawa negara memperkenalkan Dasar Ekonomi Baru berikutan peristiwa 13 Mei 1969, sebagai sebahagian daripada usaha yang lebih luas — bersama-sama [Rukun Negara](/malaysia/rukun-negara) dan pemulihan kerajaan berparlimen — untuk membina semula keyakinan dan perpaduan negara. Dasar ini digerakkan oleh Tun Abdul Razak, Perdana Menteri pada waktu itu.
+
+Ia digubal dalam tempoh pentadbiran darurat oleh Majlis Gerakan Negara (MAGERAN), dan dokumen dasar akhirnya dibentangkan di Parlimen pada 12 Julai 1971. Catatan tentang proses penggubalannya menyebut bahawa dua aliran pemikiran rasmi menyumbang kepadanya — satu, yang dikaitkan dengan Unit Perancang Ekonomi, lebih menekankan pertumbuhan ekonomi, dan satu lagi, yang dikaitkan dengan Jabatan Perpaduan Negara, mendesak campur tangan negara yang lebih meluas untuk mengurangkan ketidaksamaan antara komuniti.
 
 Ini meletakkan DEB dalam tempoh yang sama dengan dua peristiwa berkaitan yang telah dibincangkan di sini. Penggantungan Parlimen dan Majlis Gerakan Negara yang mentadbir negara dalam tempoh peralihan itu merupakan latar belakang pentadbiran yang sama yang mendasari penggubalan [Rukun Negara](/malaysia/rukun-negara). Dan corak demografi yang cuba diubah oleh cabang kedua itu merupakan subjek [komposisi penduduk Malaysia](/malaysia/population-composition).
 

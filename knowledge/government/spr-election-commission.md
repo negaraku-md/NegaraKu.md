@@ -4,6 +4,7 @@ title: "Suruhanjaya Pilihan Raya (SPR): Mandat dan Fungsinya di Bawah Perkara 11
 slug: "spr-election-commission"
 category: "government"
 subcategory: ["agencies"]
+alsoIn: ["glossary"]
 summary: "Suruhanjaya Pilihan Raya (SPR) ialah badan perlembagaan yang ditubuhkan di bawah Perkara 114 Perlembagaan Persekutuan dan menjalankan fungsinya di bawah Perkara 113. Artikel ini menerangkan mandat, keanggotaan, jaminan tempoh jawatan dan fungsinya secara deskriptif sebagaimana terkandung dalam teks perlembagaan."
 
 tier: "S"
@@ -48,6 +49,12 @@ sources:
     publisher: "Jabatan Peguam Negara Malaysia"
   - title: "Sejarah Penubuhan Suruhanjaya Pilihan Raya"
     url: "https://spr.gov.my/sejarah-penubuhan-suruhan-jaya-pilihan-raya/"
+    publisher: "Suruhanjaya Pilihan Raya Malaysia (SPR)"
+  - title: "Perlembagaan Persekutuan, Bahagian VIII — Perkara 113 (Penjalanan Pilihan Raya) dengan catatan pindaan"
+    url: "https://spr.gov.my/wp-content/uploads/2024/10/perkara-113-penjalanan-pilihanraya.pdf"
+    publisher: "Suruhanjaya Pilihan Raya Malaysia (SPR)"
+  - title: "Perlembagaan Persekutuan, Bahagian VIII — Perkara 114 (Keanggotaan Suruhanjaya Pilihan Raya) dengan catatan pindaan"
+    url: "https://spr.gov.my/wp-content/uploads/2024/10/perkara-114-keanggotaan-suruhanjaya-pilihan-raya.pdf"
     publisher: "Suruhanjaya Pilihan Raya Malaysia (SPR)"
   - title: "Visi, Misi dan Fungsi SPR"
     url: "https://ppn.spr.gov.my/nsembilan/fungsi-spr/"
@@ -112,6 +119,26 @@ Perkara 113(6) menetapkan kajian berasingan bagi Negeri-Negeri Tanah Melayu dan 
 
 Peruntukan tambahan dalam Perkara 113(3A) dan 113(3B) mengatur kajian apabila bilangan ahli dipilih Dewan Rakyat atau Dewan Undangan Negeri diubah akibat pindaan kepada [Perkara 46](/government/parliament) atau undang-undang Negeri.
 
+## Bagaimana syor persempadanan diluluskan: Jadual Ketiga Belas
+
+Oleh sebab Perkara 113 menetapkan SPR **mengesyorkan** persempadanan, cara syor itu dinilai dan dikuatkuasakan diperuntukkan dalam Jadual Ketiga Belas. Prinsip yang perlu dipatuhi SPR "seboleh-bolehnya" dinyatakan dalam seksyen 2 Jadual itu:
+
+- **2(a)** — bahagian pilihan raya tidak patut merentasi sempadan Negeri, dan semua pemilih patut diberi peluang yang semunasabahnya mudah untuk mengundi;
+- **2(b)** — perhatian patut diberi kepada kemudahan pentadbiran bagi pendaftaran dan pengundian;
+- **2(c)** — bilangan pemilih dalam setiap bahagian pilihan raya dalam sesuatu Negeri patut lebih kurang sama banyak, kecuali bahawa "ukuran pewajaran bagi kawasan" patut diberikan dengan mengambil kira kesulitan yang lebih besar untuk sampai kepada pemilih di daerah desa dan luar bandar;
+- **2(d)** — perhatian patut diberi kepada kesulitan akibat perubahan sempadan dan kepada pemeliharaan hubungan tempatan.
+
+Bahagian II Jadual Ketiga Belas menetapkan proses yang berlapis:
+
+1. SPR menyiarkan notis syor cadangannya dalam Warta dan sekurang-kurangnya satu akhbar (seksyen 4).
+2. Representasi boleh dibuat dalam tempoh satu bulan (seksyen 4).
+3. Jika bantahan diterima daripada Kerajaan Negeri, pihak berkuasa tempatan, atau seratus orang pemilih atau lebih, SPR hendaklah mengadakan siasatan tempatan (seksyen 5).
+4. SPR mengemukakan laporan kepada Perdana Menteri (seksyen 8), yang membentangkannya di Dewan Rakyat bersama draf Perintah (seksyen 9).
+5. Draf Perintah perlu diluluskan Dewan Rakyat dengan undi tidak kurang daripada separuh jumlah bilangan ahli Dewan (seksyen 10).
+6. Yang di-Pertuan Agong kemudian membuat Perintah itu (seksyen 12).
+
+Justeru, walaupun SPR mengendalikan kajian dan siasatan, kelulusan akhir sesuatu persempadanan terletak pada Dewan Rakyat dan Yang di-Pertuan Agong, bukan pada SPR semata-mata.
+
 ## Keanggotaan di bawah Perkara 114
 
 Perkara 114(1) memperuntukkan bahawa SPR hendaklah dilantik oleh [Yang di-Pertuan Agong](/government/yang-di-pertuan-agong) selepas berunding dengan [Majlis Raja-Raja](/government/majlis-raja-raja), dan hendaklah terdiri daripada seorang pengerusi, seorang timbalan pengerusi dan lima anggota lain.
@@ -126,7 +153,7 @@ Perlembagaan mengikat kedudukan anggota SPR dengan beberapa perlindungan yang se
 
 | Peruntukan | Apa yang ditetapkan |
 | --- | --- |
-| Perkara 114(3) | Anggota berhenti memegang jawatan apabila mencapai umur 66 tahun atau apabila hilang kelayakan; boleh meletak jawatan melalui surat kepada Yang di-Pertuan Agong; **tidak boleh dipecat kecuali atas alasan dan cara yang sama seperti hakim [Mahkamah Persekutuan](/government/kehakiman-mahkamah)** |
+| Perkara 114(3) | Anggota berhenti memegang jawatan apabila mencapai umur 66 tahun (dinaikkan daripada 65 tahun oleh Akta A1320, berkuat kuasa 27 Disember 2007) atau apabila hilang kelayakan; boleh meletak jawatan melalui surat kepada Yang di-Pertuan Agong; **tidak boleh dipecat kecuali atas alasan dan cara yang sama seperti hakim [Mahkamah Persekutuan](/government/kehakiman-mahkamah)** |
 | Perkara 114(4) | Yang di-Pertuan Agong hendaklah memecat anggota yang menjadi bankrap yang belum dilepaskan, memegang jawatan atau pekerjaan bergaji di luar tugasnya, atau menjadi ahli mana-mana Majlis Parlimen atau Dewan Undangan Negeri |
 | Perkara 114(4A) | Pengerusi hilang kelayakan jika selepas tiga bulan pelantikan ia menjadi ahli lembaga pengarah atau pengurusan, pegawai atau pekerja, atau terlibat dalam urusan mana-mana pertubuhan atau usaha niaga (tertakluk kepada pengecualian bagi kerja kebajikan atau sukarela) |
 | Perkara 114(5) | Parlimen hendaklah dengan undang-undang memperuntukkan saraan anggota, dan **saraan itu dipertanggungkan pada Kumpulan Wang Disatukan** |
@@ -156,6 +183,8 @@ Sejarah keanggotaan SPR mencerminkan pindaan berturut-turut kepada Perkara 114. 
 | 1963 | Bilangan anggota ditambah kepada tiga, dengan anggota tambahan dari Sabah atau Sarawak secara bergilir |
 | 1981 | Pindaan Perkara 114 membolehkan pelantikan seorang Timbalan Pengerusi |
 | 2002 | Keanggotaan ditambah kepada tujuh orang: Pengerusi, Timbalan Pengerusi dan lima anggota, termasuk seorang dari Sabah dan seorang dari Sarawak |
+
+Nota rasmi pada Perkara 114 mengaitkan susunan ini dengan pindaan Perlembagaan tertentu: Akta 26/1963 (berkuat kuasa 16 September 1963) menaikkan bilangan anggota lain daripada dua kepada tiga; Akta A514 (berkuat kuasa 15 Mei 1981) memperkenalkan jawatan timbalan pengerusi; dan Akta A1130 (berkuat kuasa 28 September 2001) menggantikan "tiga" dengan "lima" bagi anggota lain, membawa jumlah keseluruhan kepada tujuh. Menurut portal SPR, pengerusi pertama Suruhanjaya ialah Dato' Dr. Mustafa Albakri bin Haji Hassan.
 
 ## Salah faham yang biasa
 

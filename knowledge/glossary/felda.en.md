@@ -34,7 +34,7 @@ faq:
     a: "The 2019 FELDA White Paper attributes the crisis to governance failures and failed investments through FGV and FIC. The FELDA Group's liabilities rose from RM1.2 billion (2007) to RM14.4 billion (2017)."
 
 lang: "en"
-sourceContentHash: "3fa0f63a592b230c"
+sourceContentHash: "f936378cc1a6bbd4"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,9 +78,9 @@ sources:
 
 entity: "Lembaga Kemajuan Tanah Persekutuan (FELDA)"
 relations:
-  - { rel: "related-to", to: "dasar-ekonomi-baru" }
+  - { rel: "related-to", to: "new-economic-policy" }
   - { rel: "related-to", to: "bumiputera" }
-related: ["dasar-ekonomi-baru", "bumiputera"]
+related: ["new-economic-policy", "bumiputera"]
 keywords: ["FELDA", "Lembaga Kemajuan Tanah Persekutuan", "peneroka", "tanah rancangan", "kelapa sawit", "FGV", "pembangunan luar bandar"]
 ---
 
@@ -152,4 +152,4 @@ This situation strained FELDA's cash flow to the point of delaying Cost of Livin
 
 FELDA today struggles to balance its historical legacy with financial realities and the challenges of a new generation. The 2019 White Paper outlined a "New FELDA Model" — including long-term land leasing, empowering settler cooperatives and adopting modern plantation technology — to restore the agency's sustainability.
 
-For broader context, read the related entries on the [New Economic Policy](/glossary/dasar-ekonomi-baru) and [bumiputera](/glossary/bumiputera). For the latest figures on land schemes, settlers and financial position, refer to FELDA's official website and its most recent financial statements, as many of the figures in this article date up to 2018–2019.
+For broader context, read the related entries on the [New Economic Policy](/malaysia/new-economic-policy) and [bumiputera](/glossary/bumiputera). For the latest figures on land schemes, settlers and financial position, refer to FELDA's official website and its most recent financial statements, as many of the figures in this article date up to 2018–2019.

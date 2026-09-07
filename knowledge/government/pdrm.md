@@ -4,6 +4,7 @@ title: "Polis Diraja Malaysia: Struktur Perintah, Fungsi Teras dan Asas Perundan
 slug: "pdrm"
 category: "government"
 subcategory: ["agencies"]
+alsoIn: [glossary, public-safety]
 summary: "Halaman entiti agensi bagi Polis Diraja Malaysia (PDRM) — asas perundangannya dalam Akta Polis 1967 (Akta 344), lima fungsi teras di bawah seksyen 3(3), rantaian perintah dari Ketua Polis Negara ke bawah, tugas am pegawai polis di bawah seksyen 20, serta Suruhanjaya Pasukan Polis di bawah Perkara 140 Perlembagaan Persekutuan yang menguruskan pelantikan dan tatatertib anggota."
 
 tier: "S"
@@ -63,6 +64,31 @@ sources:
   - title: "Perlembagaan Persekutuan (Cetakan Semula 2020) — Perkara 140, Suruhanjaya Pasukan Polis"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
     publisher: "Pejabat Peguam Negara Malaysia (AGC)"
+  - title: "Sejarah Penubuhan Pasukan Polis (1807-1957)"
+    url: "https://apsec.upm.edu.my/artikel/sejarah_penubuhan_pasukan_polis_1807_1957-75025"
+    publisher: "Pusat Polis Bantuan dan Keselamatan Universiti (APSeC), Universiti Putra Malaysia"
+  - title: "Sisipan Sejarah: Pengurniaan Gelaran 'DiRaja' Kepada Pasukan Polis Persekutuan Tanah Melayu"
+    url: "https://www.mkn.gov.my/web/ms/2024/07/25/sisipan-sejarah-pengurniaan-gelaran-diraja-kepada-pasukan-polis-persekutuan-tanah-melayu/"
+    publisher: "Majlis Keselamatan Negara (MKN)"
+    date: "2024-07-25"
+  - title: "Pangkat — Polis Diraja Malaysia"
+    url: "https://www.rmp.gov.my/infor-korporate/polis-diraja-malaysia/pangkat"
+    publisher: "Polis Diraja Malaysia"
+  - title: "Jabatan-Jabatan — Polis Diraja Malaysia"
+    url: "https://www.rmp.gov.my/infor-korporate/jabatan---jabatan"
+    publisher: "Polis Diraja Malaysia"
+  - title: "Laman Web Rasmi Polis Diraja Malaysia"
+    url: "https://www.rmp.gov.my/"
+    publisher: "Polis Diraja Malaysia"
+  - title: "Maklumat Semasa Suruhanjaya Bebas Tatakelakuan Polis (IPCC)"
+    url: "https://www.moha.gov.my/utama/index.php/en/suruhanjaya-bebas-tatakelakuan-polis-ipcc/maklumat-semasa-ipcc"
+    publisher: "Kementerian Dalam Negeri (KDN)"
+  - title: "Latar Belakang EAIC"
+    url: "https://www.eaic.gov.my/en/about-eaic/background"
+    publisher: "Suruhanjaya Integriti Agensi Penguatkuasaan (EAIC)"
+  - title: "Bidang Kuasa Suruhanjaya (EAIC)"
+    url: "https://www.eaic.gov.my/en/about-us/act-700/function-jurisdiction/bidang-kuasa-suruhanjaya"
+    publisher: "Suruhanjaya Integriti Agensi Penguatkuasaan (EAIC)"
 
 entity: "PDRM"
 relations:
@@ -91,6 +117,8 @@ serta tatatertib anggotanya?
 | Bertanggungjawab kepada | Menteri (Menteri yang bertanggungjawab bagi polis) |
 | Panglima Besar Kehormat | Yang di-Pertuan Agong, di bawah seksyen 6A |
 | Badan sumber manusia | Suruhanjaya Pasukan Polis, Perkara 140 Perlembagaan Persekutuan |
+| Ibu pejabat | Bukit Aman, Kuala Lumpur |
+| Kementerian penyelia | Kementerian Dalam Negeri (KDN) |
 | Laman web | `rmp.gov.my` |
 
 Akta 344 tidak mewujudkan pasukan ini dari kosong. Seksyen 3(1) menyatakan bahawa
@@ -98,6 +126,29 @@ mereka yang menjadi anggota Polis Diraja Malaysia di bawah Akta Polis Diraja Mal
 1963 sebaik sebelum Akta ini berkuat kuasa menjadi anggota pasukan di bawah Akta baharu
 "dengan pangkat yang sepadan dan dalam sifat yang sepadan". Jadi Akta 1967 menyusun
 semula dan mengukuhkan sebuah pasukan yang sudah sedia ada.
+
+## Asal usul dan gelaran DiRaja
+
+Pasukan yang disusun semula oleh Akta 344 mempunyai akar yang jauh lebih tua daripada
+negara Malaysia. Organisasi polis moden di Tanah Melayu bermula dengan Piagam Keadilan
+(*Charter of Justice*) yang berkuat kuasa di Pulau Pinang pada 25 Mac 1807. Sepanjang
+abad ke-19, pasukan-pasukan negeri berkembang secara berasingan sebelum sebahagiannya
+disatukan melalui penubuhan Pasukan Polis Negeri-Negeri Melayu Bersekutu (*Federated
+Malay States Police*) pada 1 Julai 1896.
+
+Gelaran "DiRaja" dikurniakan oleh Yang di-Pertuan Agong, Tuanku Abdul Rahman Ibni
+Almarhum Tuanku Muhammad, pada 24 Julai 1958 kepada Pasukan Polis Persekutuan Tanah
+Melayu, sebagai pengiktirafan atas khidmat anggota polis semasa Darurat 1948-1960.
+Apabila Malaysia terbentuk pada 16 September 1963, pasukan itu menerima namanya yang
+kekal sehingga kini: Polis Diraja Malaysia.
+
+| Tarikh | Peristiwa |
+| --- | --- |
+| 25 Mac 1807 | Piagam Keadilan di Pulau Pinang — asas polis moden |
+| 1 Julai 1896 | Penubuhan Pasukan Polis Negeri-Negeri Melayu Bersekutu |
+| 1948-1960 | Darurat — khidmat polis menentang pemberontakan bersenjata komunis |
+| 24 Julai 1958 | Gelaran "DiRaja" dikurniakan oleh Yang di-Pertuan Agong |
+| 16 September 1963 | Pembentukan Malaysia — nama Polis Diraja Malaysia digunakan |
 
 ## Lima maksud pasukan
 
@@ -142,7 +193,14 @@ Seksyen 5 menyenaraikan jawatan yang boleh dilantik bagi maksud melaksanakan Akt
 | Barisan pelaksana | Pegawai kanan polis dan pegawai rendah polis yang lain; konstabel |
 
 Pangkat pegawai kanan dan pegawai rendah pula ditetapkan dalam Jadual Pertama Akta,
-menurut seksyen 5(2).
+menurut seksyen 5(2). Akta membahagikan anggota kepada *pegawai kanan polis* (dari
+Ketua Polis Negara hingga Inspektor Percubaan) dan *pegawai rendah polis* (dari
+Sub-Inspektor hingga Konstabel). Laman rasmi PDRM menyenaraikan 18 peringkat pangkat:
+
+| Kategori | Pangkat (tertinggi → terendah) |
+| --- | --- |
+| Pegawai Kanan Polis | Inspektor Jeneral Polis (KPN) · Timbalan Inspektor Jeneral · Komisioner · Timbalan Komisioner · Senior Asisten Komisioner · Asisten Komisioner · Superintenden · Timbalan Superintenden · Asisten Superintenden · Inspektor · Inspektor Percubaan |
+| Pegawai Rendah Polis & Konstabel | Sub-Inspektor · Sarjan Mejar · Sarjan · Koperal · Lans Koperal · Konstabel · Konstabel Percubaan |
 
 Di peringkat negeri dan formasi, seksyen 6 memperuntukkan bahawa anggota pasukan dikawal
 oleh seorang Pesuruhjaya atau Ketua Pegawai Polis bagi kawasan atau negeri yang ditentukan
@@ -153,6 +211,25 @@ Satu peruntukan simbolik melengkapkan struktur ini: seksyen 6A menjadikan Yang d
 Agong sebagai Panglima Besar Kehormat (Honorary Commissioner-in-Chief) Polis Diraja
 Malaysia. Untuk latar perlembagaan peranan Agong, lihat
 [Yang di-Pertuan Agong](/government/yang-di-pertuan-agong).
+
+## Jabatan-jabatan utama
+
+Di peringkat pentadbiran, kerja pasukan di ibu pejabat Bukit Aman diagihkan kepada
+sepuluh jabatan utama, setiap satunya lazimnya diketuai seorang pengarah berpangkat
+Komisioner atau setara.
+
+| Jabatan | Fungsi teras |
+| --- | --- |
+| Jabatan Pengurusan | Pentadbiran, sumber manusia dan hal ehwal korporat |
+| Jabatan Siasatan Jenayah (JSJ) | Siasatan jenayah dan pendakwaan |
+| Jabatan Siasatan Jenayah Narkotik (JSJN) | Kesalahan berkaitan dadah |
+| Jabatan Siasatan Jenayah Komersil (JSJK) | Jenayah kolar putih dan komersil |
+| Jabatan Sumber Logistik dan Teknologi | Sokongan kewangan, logistik dan teknologi |
+| Jabatan Keselamatan Dalam Negeri & Ketenteraman Awam (JKDNKA) | Sayap operasi, kawalan ketenteraman awam |
+| Cawangan Khas | Risikan dan hal ehwal keselamatan |
+| Jabatan Integriti dan Pematuhan Standard (JIPS) | Integriti dalaman dan aduan |
+| Jabatan Pencegahan Jenayah dan Keselamatan Komuniti | Pencegahan jenayah dan keselamatan komuniti |
+| Jabatan Siasatan dan Penguatkuasaan Trafik | Penguatkuasaan undang-undang lalu lintas |
 
 ## Apa yang undang-undang benarkan pegawai lakukan
 
@@ -182,7 +259,10 @@ disenaraikan — walaupun keputusan pendakwaan dalam banyak hal terletak pada Pe
 di bawah undang-undang lain (lihat, sebagai perbandingan struktur kuasa, bagaimana
 [SPRM](/government/macc-sprm) menyiasat tetapi merujuk kepada Pendakwa Raya). Kedua,
 seksyen 20(4) menyatakan bahawa apabila mengiring banduan, pegawai polis disifatkan
-sebagai pegawai penjara dan memikul kuasa serta perlindungan pegawai penjara.
+sebagai pegawai penjara dan memikul kuasa serta perlindungan pegawai penjara. Bagi
+menyokong tugas iring itu, seksyen 21 memperuntukkan penalti sehingga RM10,000 dan
+penjara dua tahun bagi menghalang atau mengingkari arahan polis yang sah berkaitan
+iringan polis.
 
 Banyak tugas ini bersilang dengan agensi penguatkuasaan lain — misalnya rujukan kepada
 imigresen dan pendaftaran berhubung dengan kerja [Jabatan Imigresen](/government/imigresen),
@@ -212,6 +292,23 @@ Ketua Polis Negara dan pegawai kanan melalui warta P.U.(B) 441 bertarikh 14 Dise
 Pemisahan ini bermakna hal pelantikan dan tatatertib anggota diletakkan di bawah sebuah
 badan berlembaga, dan bukan sepenuhnya di tangan pimpinan operasi pasukan. Untuk asas
 perlembagaan yang lebih luas, lihat [Perlembagaan Persekutuan](/law/federal-constitution).
+
+## Pengawasan luaran dan aduan
+
+Di luar kawalan tatatertib dalaman dan peranan Suruhanjaya Pasukan Polis, kelakuan
+anggota diawasi oleh dua badan berkanun yang bebas daripada pasukan itu sendiri:
+
+- **Suruhanjaya Bebas Tatakelakuan Polis (IPCC)** — badan khusus bagi PDRM di bawah
+  Akta 839. Akta itu berkuat kuasa pada 1 Julai 2023 dan IPCC mula beroperasi pada
+  1 November 2023. Ia memantau, menyiasat dan mengendalikan aduan salah laku anggota
+  PDRM, serta membentangkan laporan tahunan kepada Parlimen.
+- **Suruhanjaya Integriti Agensi Penguatkuasaan (EAIC)** — ditubuhkan di bawah Akta 700
+  dan berkuat kuasa pada 1 April 2011. EAIC mempunyai bidang kuasa ke atas 21 agensi
+  penguatkuasaan, dan boleh menerima aduan, menjalankan siasatan serta merujuk kes
+  tatatertib atau jenayah kepada pihak berkuasa berkenaan.
+
+Di dalam pasukan pula, Jabatan Integriti dan Pematuhan Standard (JIPS) mengendalikan
+integriti dalaman dan aduan salah laku anggota.
 
 ## Pasukan sokongan
 

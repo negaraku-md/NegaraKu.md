@@ -4,6 +4,7 @@ title: "The Election Commission (SPR): Its Mandate and Functions Under Articles 
 slug: "spr-election-commission"
 category: "government"
 subcategory: ["agencies"]
+alsoIn: ["glossary"]
 summary: "The Election Commission (SPR) is a constitutional body established under Article 114 of the Federal Constitution and carries out its functions under Article 113. This article describes its mandate, membership, tenure protections and functions descriptively as set out in the constitutional text."
 
 tier: "S"
@@ -24,7 +25,7 @@ appliesTo: "Anyone who wants to understand the constitutional standing of the bo
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "5f141e5dd9e5e528"
+sourceContentHash: "6a46ae533ead9e08"
 
 status: "published"
 aiAssisted: true
@@ -49,6 +50,12 @@ sources:
     publisher: "Jabatan Peguam Negara Malaysia"
   - title: "Sejarah Penubuhan Suruhanjaya Pilihan Raya"
     url: "https://spr.gov.my/sejarah-penubuhan-suruhan-jaya-pilihan-raya/"
+    publisher: "Suruhanjaya Pilihan Raya Malaysia (SPR)"
+  - title: "Perlembagaan Persekutuan, Bahagian VIII — Perkara 113 (Penjalanan Pilihan Raya) dengan catatan pindaan"
+    url: "https://spr.gov.my/wp-content/uploads/2024/10/perkara-113-penjalanan-pilihanraya.pdf"
+    publisher: "Suruhanjaya Pilihan Raya Malaysia (SPR)"
+  - title: "Perlembagaan Persekutuan, Bahagian VIII — Perkara 114 (Keanggotaan Suruhanjaya Pilihan Raya) dengan catatan pindaan"
+    url: "https://spr.gov.my/wp-content/uploads/2024/10/perkara-114-keanggotaan-suruhanjaya-pilihan-raya.pdf"
     publisher: "Suruhanjaya Pilihan Raya Malaysia (SPR)"
   - title: "Visi, Misi dan Fungsi SPR"
     url: "https://ppn.spr.gov.my/nsembilan/fungsi-spr/"
@@ -113,6 +120,26 @@ Article 113(6) sets separate reviews for the States of Malaya and for each of th
 
 Additional provisions in Articles 113(3A) and 113(3B) govern reviews where the number of elected members of the Dewan Rakyat or a State Legislative Assembly is changed as a result of an amendment to [Article 46](/en/government/parliament) or State law.
 
+## How a delimitation recommendation is approved: the Thirteenth Schedule
+
+Because Article 113 provides that the Election Commission **recommends** delimitation, how that recommendation is assessed and given effect is set out in the Thirteenth Schedule. The principles the Commission must observe "as far as possible" are stated in section 2 of the Schedule:
+
+- **2(a)** — an electoral constituency ought not to cross a State boundary, and all electors should be given a reasonably convenient opportunity to vote;
+- **2(b)** — regard should be had to the administrative facilities for registration and voting;
+- **2(c)** — the number of electors in each constituency within a State should be approximately equal, except that "a measure of weightage for area" should be given, taking into account the greater difficulty of reaching electors in rural and country districts;
+- **2(d)** — regard should be had to the inconveniences arising from changes of boundaries and to the maintenance of local ties.
+
+Part II of the Thirteenth Schedule sets out a layered process:
+
+1. The Election Commission publishes notice of its proposed recommendations in the Gazette and in at least one newspaper (section 4).
+2. Representations may be made within one month (section 4).
+3. If objections are received from a State Government, a local authority, or one hundred or more electors, the Election Commission shall hold a local inquiry (section 5).
+4. The Election Commission submits a report to the Prime Minister (section 8), who lays it before the Dewan Rakyat together with a draft Order (section 9).
+5. The draft Order must be approved by the Dewan Rakyat with the votes of not less than half of the total number of members of the House (section 10).
+6. The Yang di-Pertuan Agong then makes the Order (section 12).
+
+Thus, although the Election Commission conducts the review and the inquiry, final approval of a delimitation rests with the Dewan Rakyat and the Yang di-Pertuan Agong, not with the Commission alone.
+
 ## Membership under Article 114
 
 Article 114(1) provides that the Election Commission shall be appointed by the [Yang di-Pertuan Agong](/en/government/yang-di-pertuan-agong) after consulting the [Conference of Rulers](/en/government/majlis-raja-raja), and shall consist of a chairman, a deputy chairman and five other members.
@@ -127,7 +154,7 @@ The Constitution binds the position of Election Commission members with several 
 
 | Provision | What it sets out |
 | --- | --- |
-| Article 114(3) | A member ceases to hold office on reaching the age of 66 or on becoming disqualified; may resign by letter to the Yang di-Pertuan Agong; **may not be removed except on the like grounds and in the like manner as a judge of the [Federal Court](/en/government/kehakiman-mahkamah)** |
+| Article 114(3) | A member ceases to hold office on reaching the age of 66 (raised from 65 by Act A1320, in force 27 December 2007) or on becoming disqualified; may resign by letter to the Yang di-Pertuan Agong; **may not be removed except on the like grounds and in the like manner as a judge of the [Federal Court](/en/government/kehakiman-mahkamah)** |
 | Article 114(4) | The Yang di-Pertuan Agong shall remove a member who becomes an undischarged bankrupt, holds any office or paid employment outside his duties, or becomes a member of any House of Parliament or a State Legislative Assembly |
 | Article 114(4A) | The chairman becomes disqualified if, after three months of appointment, he becomes a member of the board of directors or management, an officer or employee, or is involved in the affairs of any organisation or business undertaking (subject to exceptions for welfare or voluntary work) |
 | Article 114(5) | Parliament shall by law provide for the remuneration of members, and **that remuneration is charged to the Consolidated Fund** |
@@ -157,6 +184,8 @@ The history of the Election Commission's membership reflects successive amendmen
 | 1963 | The number of members was increased to three, with an additional member from Sabah or Sarawak on a rotating basis |
 | 1981 | An amendment to Article 114 allowed for the appointment of a Deputy Chairman |
 | 2002 | Membership was increased to seven persons: a Chairman, a Deputy Chairman and five members, including one from Sabah and one from Sarawak |
+
+The official notes to Article 114 tie this structure to particular constitutional amendments: Act 26/1963 (in force 16 September 1963) raised the number of other members from two to three; Act A514 (in force 15 May 1981) introduced the office of deputy chairman; and Act A1130 (in force 28 September 2001) replaced "three" with "five" for the other members, bringing the total to seven. According to the SPR portal, the Commission's first chairman was Dato' Dr. Mustafa Albakri bin Haji Hassan.
 
 ## Common mistakes
 

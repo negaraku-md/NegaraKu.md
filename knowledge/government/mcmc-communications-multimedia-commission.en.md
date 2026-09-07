@@ -5,6 +5,7 @@ seoTitle: "MCMC (SKMM): licensing, broadcasting and internet content"
 slug: "mcmc-communications-multimedia-commission"
 category: "government"
 subcategory: ["agencies"]
+alsoIn: ["technology"]
 summary: "Agency entity page for the Malaysian Communications and Multimedia Commission — its statutory basis, the four categories of licensable activity, the difference between individual and class licences, and what it can and cannot do about internet content."
 
 tier: "2"
@@ -33,7 +34,7 @@ faq:
     a: "Section 126(2) provides that any person who owns or provides a network facility, network service or applications service without a valid licence commits an offence and may, on conviction, be liable to a fine not exceeding RM500,000 or imprisonment not exceeding five years or both, together with a further fine of RM1,000 for every day the offence is continued after conviction."
 
 lang: "en"
-sourceContentHash: "2e09b928d17c5095"
+sourceContentHash: "f7de1e94c09f1ce3"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -68,6 +69,24 @@ sources:
     url: "https://contentforum.my/wp-content/uploads/2022/11/CMA-1998.pdf"
     publisher: "Communications and Multimedia Content Forum of Malaysia"
     date: "1998-09-23"
+  - title: "Communications and Multimedia (Licensing) Regulations 2000 [P.U.(A) 129/2000]"
+    url: "https://www.mcmc.gov.my/en/legal/acts/communications-and-multimedia-act-1998-reprint-200/communications-and-multimedia-(licensing)-regulati"
+    publisher: "Suruhanjaya Komunikasi dan Multimedia Malaysia (MCMC)"
+  - title: "Spectrum Assignment"
+    url: "https://www.mcmc.gov.my/en/spectrum/assignment-of-spectrum/spectrum-assignment"
+    publisher: "Suruhanjaya Komunikasi dan Multimedia Malaysia (MCMC)"
+  - title: "Spectrum Management"
+    url: "https://www.mcmc.gov.my/en/spectrum/spectrum-management"
+    publisher: "Suruhanjaya Komunikasi dan Multimedia Malaysia (MCMC)"
+  - title: "JENDELA (Jalinan Digital Negara)"
+    url: "https://myjendela.my/"
+    publisher: "Suruhanjaya Komunikasi dan Multimedia Malaysia (MCMC)"
+  - title: "About Digital Nasional Berhad"
+    url: "https://www.digital-nasional.com.my/"
+    publisher: "Digital Nasional Berhad"
+  - title: "U Mobile to lead Malaysia's second 5G network; single-wholesale (DNB) model ended"
+    url: "https://theedgemalaysia.com/node/755009"
+    publisher: "The Edge Malaysia"
 
 entity: "MCMC"
 relations:
@@ -121,9 +140,10 @@ reliability.
 ## What does it regulate?
 
 MCMC's scope spans mobile and fixed telecommunications, broadband, satellite
-communications, broadcasting, postal and courier services, and digital
-signatures. All of these are consolidated into four categories of activity that
-require a licence under Act 588:
+communications, broadcasting, postal and courier services, digital signatures
+and strategic trade. It also holds investigative powers through appointed
+investigating officers to ensure compliance. Its core activities are
+consolidated into four categories that require a licence under Act 588:
 
 | Category | Meaning | Common examples |
 | --- | --- | --- |
@@ -157,7 +177,10 @@ conditions declared by the Minister — and the Commission that registers it.
 
 This two-tier system enables proportionate regulation: large network operators
 go through the full scrutiny of an individual licence, while lighter activities
-are covered by a class licence that requires only registration.
+are covered by a class licence that requires only registration. This licensing
+framework is operationalised through the Communications and Multimedia
+(Licensing) Regulations 2000 [P.U.(A) 129/2000], made under Section 16 of Act
+588 and in force from 1 April 2000.
 
 ## Who needs a licence?
 
@@ -175,6 +198,35 @@ conviction.
 For content, Section 205 sets a separate prohibition: no person may provide a
 content applications service except under a valid individual licence or class
 licence under that Part.
+
+## Radio spectrum: a finite resource MCMC manages
+
+Beyond licensing activities, MCMC regulates the use of the radio-frequency
+spectrum — a finite resource, since only one party can use a given frequency
+band in a given area without interference. Under Act 588 and the Communications
+and Multimedia (Spectrum) Regulations 2000, MCMC manages spectrum to ensure it
+is used efficiently and to minimise interference.
+
+Its key mechanism is *spectrum assignment*, which grants a person the right to
+use one or more frequency bands for any purpose consistent with the assignment
+conditions set by MCMC. Such an assignment is valid for up to a maximum of 20
+years, is transferable by the holder subject to conditions, and its use must be
+consistent with the Spectrum Plan published by MCMC. Examples include the
+IMT-2000 (3G), 900MHz and 1800MHz bands used by mobile operators.
+
+## MCMC's role in national connectivity: JENDELA and 5G
+
+Beyond regulation, MCMC also leads the national connectivity agenda. JENDELA
+(Jalinan Digital Negara) is the MCMC-led plan to expand coverage and improve
+broadband quality while preparing the country for 5G. Phase 1 (2020–2022)
+targeted 4G coverage rising from 91.8% to 96.9% and mobile broadband speeds
+from 25 Mbps to 35 Mbps, while Phase 2 focuses on 5G rollout.
+
+For 5G, the government initially directed Digital Nasional Berhad (DNB) to build
+a single wholesale network licensed under Act 588. In May 2023, the government
+decided to move to a dual 5G network: MCMC selected U Mobile as the second
+network operator (November 2024), which launched services in January 2026. Both
+networks operate under MCMC's regulatory oversight.
 
 ## Internet content: what can and can't MCMC do?
 

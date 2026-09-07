@@ -5,6 +5,7 @@ seoTitle: "MCMC（SKMM）：牌照、广播与互联网内容监管"
 slug: "mcmc-communications-multimedia-commission"
 category: "government"
 subcategory: ["agencies"]
+alsoIn: ["technology"]
 summary: "马来西亚通讯及多媒体委员会的机构实体页面——涵盖其法定基础、四类须领牌的活动、个人牌照与类别牌照的区别，以及它对互联网内容能做与不能做的事。"
 
 tier: "2"
@@ -33,7 +34,7 @@ faq:
     a: "第 126(2) 条规定，任何人在没有有效牌照下拥有或提供网络设施、网络服务或应用服务，即属犯罪，一经定罪，可被处以不超过 50 万令吉罚款，或不超过五年监禁，或两者兼施，并就该罪行在定罪后每持续一日加处 1,000 令吉罚款。"
 
 lang: "zh"
-sourceContentHash: "2e09b928d17c5095"
+sourceContentHash: "f7de1e94c09f1ce3"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -68,6 +69,24 @@ sources:
     url: "https://contentforum.my/wp-content/uploads/2022/11/CMA-1998.pdf"
     publisher: "Communications and Multimedia Content Forum of Malaysia"
     date: "1998-09-23"
+  - title: "Communications and Multimedia (Licensing) Regulations 2000 [P.U.(A) 129/2000]"
+    url: "https://www.mcmc.gov.my/en/legal/acts/communications-and-multimedia-act-1998-reprint-200/communications-and-multimedia-(licensing)-regulati"
+    publisher: "Suruhanjaya Komunikasi dan Multimedia Malaysia (MCMC)"
+  - title: "Spectrum Assignment"
+    url: "https://www.mcmc.gov.my/en/spectrum/assignment-of-spectrum/spectrum-assignment"
+    publisher: "Suruhanjaya Komunikasi dan Multimedia Malaysia (MCMC)"
+  - title: "Spectrum Management"
+    url: "https://www.mcmc.gov.my/en/spectrum/spectrum-management"
+    publisher: "Suruhanjaya Komunikasi dan Multimedia Malaysia (MCMC)"
+  - title: "JENDELA (Jalinan Digital Negara)"
+    url: "https://myjendela.my/"
+    publisher: "Suruhanjaya Komunikasi dan Multimedia Malaysia (MCMC)"
+  - title: "About Digital Nasional Berhad"
+    url: "https://www.digital-nasional.com.my/"
+    publisher: "Digital Nasional Berhad"
+  - title: "U Mobile to lead Malaysia's second 5G network; single-wholesale (DNB) model ended"
+    url: "https://theedgemalaysia.com/node/755009"
+    publisher: "The Edge Malaysia"
 
 entity: "MCMC"
 relations:
@@ -103,7 +122,7 @@ MCMC 源自 1998 年一并通过的两部法令。第一部是**第 589 号法�
 
 ## 它监管什么？
 
-MCMC 的监管范围横跨移动与固定电信、宽带、卫星通讯、广播、邮政与快递服务，以及数码签名。这一切被整合为第 588 号法令下四类须领牌的活动：
+MCMC 的监管范围横跨移动与固定电信、宽带、卫星通讯、广播、邮政与快递服务、数码签名以及战略性贸易。它也透过委任的调查官拥有调查权力，以确保各方遵守规定。其核心活动被整合为第 588 号法令下四类须领牌的活动：
 
 | 类别 | 含义 | 常见例子 |
 | --- | --- | --- |
@@ -127,7 +146,7 @@ MCMC 的监管范围横跨移动与固定电信、宽带、卫星通讯、广播
 | 主要义务 | 遵守标准及特别牌照条件 | 必须在运作前向委员会登记（第 131 条） |
 | 适用于 | 拥有基础设施的大型运营商 | 低风险、覆盖面广的活动 |
 
-这套两级制度让监管得以按比例进行：大型网络运营商须经过个人牌照的完整审查，而较轻量的活动则由只需登记的类别牌照涵盖。
+这套两级制度让监管得以按比例进行：大型网络运营商须经过个人牌照的完整审查，而较轻量的活动则由只需登记的类别牌照涵盖。这套发牌框架透过《2000 年通讯及多媒体（发牌）条例》[P.U.(A) 129/2000] 加以执行，该条例依据第 588 号法令第 16 条制定，并于 2000 年 4 月 1 日生效。
 
 ## 谁需要领牌？
 
@@ -136,6 +155,18 @@ MCMC 的监管范围横跨移动与固定电信、宽带、卫星通讯、广播
 法令中的这项警示并非象征性质。第 126(2) 条规定，任何人违反此项规定，一经定罪，可被处以不超过 **50 万令吉**罚款，或不超过**五年**监禁，或两者兼施，并就该罪行在定罪后每持续一日加处 **1,000 令吉**罚款。
 
 在内容方面，第 205 条另订有独立的禁令：任何人不得提供内容应用服务，除非持有该部分下有效的个人牌照或类别牌照。
+
+## 无线电频谱：由 MCMC 管理的有限资源
+
+除了为活动发牌，MCMC 还监管无线电频谱的使用——这是一种有限资源，因为在特定地区只有一方能够无干扰地使用某一频段。依据第 588 号法令及《2000 年通讯及多媒体（频谱）条例》，MCMC 管理频谱以确保其得到高效使用并将干扰降至最低。
+
+其主要机制是*频谱分配*（spectrum assignment），它赋予某一方使用一个或多个频段的权利，用于任何符合 MCMC 所定分配条件的目的。此类分配的有效期最长可达 20 年，可由持有人在符合条件下转让，且其使用必须符合 MCMC 所发布的频谱计划。例子包括移动运营商所使用的 IMT-2000（3G）、900MHz 及 1800MHz 频段。
+
+## MCMC 在国家连接中的角色：JENDELA 与 5G
+
+在监管之外，MCMC 还主导国家连接政策。JENDELA（国家数字网络，Jalinan Digital Negara）是由 MCMC 主导的计划，旨在扩大覆盖范围、提升宽带质量，同时为国家迎接 5G 做好准备。第一阶段（2020–2022）以将 4G 覆盖率从 91.8% 提升至 96.9%、移动宽带速度从 25 Mbps 提升至 35 Mbps 为目标，而第二阶段则聚焦于 5G 的部署。
+
+在 5G 方面，政府最初指示国家数字有限公司（Digital Nasional Berhad，DNB）建设依据第 588 号法令获发牌照的单一批发网络。政府于 2023 年 5 月决定转向双 5G 网络模式：MCMC 选定 U Mobile 为第二网络运营商（2024 年 11 月），并于 2026 年 1 月投入服务。两个网络均处于 MCMC 的监管监督之下。
 
 ## 互联网内容：MCMC 能做与不能做的是什么？
 

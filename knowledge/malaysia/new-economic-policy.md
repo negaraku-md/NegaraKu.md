@@ -4,6 +4,7 @@ title: "The New Economic Policy: Two Stated Objectives, One Twenty-Year Framewor
 slug: "new-economic-policy"
 category: "malaysia"
 subcategory: ["modern"]
+alsoIn: ["glossary"]
 summary: "A factual account of the New Economic Policy (NEP) 1971-1990 — the two objectives stated in the Second Malaysia Plan (eradicating poverty regardless of race, and restructuring society to end the identification of race with economic function), the overriding aim of national unity, and the twenty-year timeframe. Reported strictly as documented in official plan texts."
 tier: "S"
 mode: "practical"
@@ -46,6 +47,12 @@ sources:
   - title: "Tun Razak Penggerak Pembangunan Rakyat / Negara (Jendela Sejarah)"
     url: "https://pustakailmu.arkib.gov.my/index.php/ms/pustaka-ilmu/jendela-sejarah/tun-razak-penggerak-pembangunan-rakyat-negara"
     publisher: "Arkib Negara Malaysia"
+  - title: "The New Economic Policy: Revisiting origins and misconceptions"
+    url: "https://www.ehm.my/publications/articles/the-new-economic-policy-revisiting-origins-and-misconceptions"
+    publisher: "Economic History Malaysia (EHM)"
+  - title: "Malaysia's New Economic Policy and the 30% Bumiputera Equity Target: Time for a Revisit and a Reset"
+    url: "https://www.iseas.edu.sg/articles-commentaries/iseas-perspective/malaysias-new-economic-policy-and-the-30-bumiputera-equity-target-time-for-a-revisit-and-a-reset-by-lee-hwok-aun/"
+    publisher: "ISEAS – Yusof Ishak Institute"
 entity: "New Economic Policy"
 relations:
   - { rel: "part-of", to: "malaysia" }
@@ -92,13 +99,15 @@ Two points are worth keeping straight. The 49.3 per cent baseline and the 16.7 p
 
 The second prong was about the pattern of the economy — who owned what, and who worked where — rather than about absolute income.
 
-Its most-cited target concerned corporate ownership. The Plan set the aim of raising Bumiputera ownership of share capital in the corporate sector to **at least 30 per cent**, from a low single-digit share at the start of the period, with the balance held by other Malaysians and a reducing proportion by foreign interests. Alongside ownership, the restructuring prong aimed at employment: that occupations at every level and across sectors would, over time, reflect the country's ethnic composition, so that no ethnic group would be identified with a particular economic function.
+Its most-cited target concerned corporate ownership. The Plan set the aim of raising Bumiputera ownership of share capital in the corporate sector to **at least 30 per cent**, from a low single-digit share at the start of the period. That figure sat within a fuller ownership pattern targeted for 1990 — **30 per cent held by Bumiputera, 40 per cent by other Malaysians, and 30 per cent by foreign interests** — with the foreign share intended to fall over the period. An early statement of the policy expressed the aspiration for Bumiputera to become full partners in the economic life of the nation within a generation. Alongside ownership, the restructuring prong aimed at employment: that occupations at every level and across sectors would, over time, reflect the country's ethnic composition, so that no ethnic group would be identified with a particular economic function.
 
 The Plan's stated method matters as much as its targets. Restructuring was to be achieved through the **expansion of the economy** — a growing overall share to be redistributed as the economy grew — rather than by transferring existing assets from one group to another. The documented intention was that the process would not involve the dispossession of any community.
 
 ## The context in which it was written
 
 Official history places the NEP's origin in a specific moment. Arkib Negara Malaysia records that the country introduced the Dasar Ekonomi Baru following the events of 13 May 1969, as part of a wider effort — alongside the [Rukun Negara](/en/malaysia/rukun-negara) and the restoration of parliamentary government — to rebuild national confidence and unity. The policy was driven by Tun Abdul Razak, then Prime Minister.
+
+It was drafted during the period of emergency administration by the National Operations Council (Majlis Gerakan Negara, MAGERAN), and its final policy document was tabled in Parliament on 12 July 1971. Accounts of the drafting note that two strands of official thinking fed into it — one, associated with the Economic Planning Unit, placing greater emphasis on economic growth, and another, associated with the Department of National Unity, pressing for wider state intervention to reduce inequality between communities.
 
 That places the NEP in the same period as two neighbouring events already covered here. The parliamentary suspension and the National Operations Council that governed in the interim are the same administrative backdrop against which [the Rukun Negara](/en/malaysia/rukun-negara) was drafted. And the demographic pattern the second prong set out to change is the subject of Malaysia's [population composition](/en/malaysia/population-composition).
 

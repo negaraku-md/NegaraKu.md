@@ -5,6 +5,7 @@ seoTitle: "MCMC (SKMM): pelesenan, penyiaran dan kandungan internet"
 slug: "mcmc-communications-multimedia-commission"
 category: "government"
 subcategory: ["agencies"]
+alsoIn: ["technology"]
 summary: "Halaman entiti agensi untuk Suruhanjaya Komunikasi dan Multimedia Malaysia — asas berkanunnya, empat kategori aktiviti yang dilesenkan, perbezaan antara lesen individu dan lesen kelas, serta apa yang boleh dan tidak boleh dilakukannya terhadap kandungan internet."
 
 tier: "2"
@@ -67,6 +68,24 @@ sources:
     url: "https://contentforum.my/wp-content/uploads/2022/11/CMA-1998.pdf"
     publisher: "Communications and Multimedia Content Forum of Malaysia"
     date: "1998-09-23"
+  - title: "Communications and Multimedia (Licensing) Regulations 2000 [P.U.(A) 129/2000]"
+    url: "https://www.mcmc.gov.my/en/legal/acts/communications-and-multimedia-act-1998-reprint-200/communications-and-multimedia-(licensing)-regulati"
+    publisher: "Suruhanjaya Komunikasi dan Multimedia Malaysia (MCMC)"
+  - title: "Spectrum Assignment"
+    url: "https://www.mcmc.gov.my/en/spectrum/assignment-of-spectrum/spectrum-assignment"
+    publisher: "Suruhanjaya Komunikasi dan Multimedia Malaysia (MCMC)"
+  - title: "Spectrum Management"
+    url: "https://www.mcmc.gov.my/en/spectrum/spectrum-management"
+    publisher: "Suruhanjaya Komunikasi dan Multimedia Malaysia (MCMC)"
+  - title: "JENDELA (Jalinan Digital Negara)"
+    url: "https://myjendela.my/"
+    publisher: "Suruhanjaya Komunikasi dan Multimedia Malaysia (MCMC)"
+  - title: "About Digital Nasional Berhad"
+    url: "https://www.digital-nasional.com.my/"
+    publisher: "Digital Nasional Berhad"
+  - title: "U Mobile to lead Malaysia's second 5G network; single-wholesale (DNB) model ended"
+    url: "https://theedgemalaysia.com/node/755009"
+    publisher: "The Edge Malaysia"
 
 entity: "MCMC"
 relations:
@@ -120,9 +139,11 @@ keselamatan maklumat serta kebolehpercayaan rangkaian.
 ## Apa yang dikawal selianya?
 
 Skop MCMC merentangi telekomunikasi mudah alih dan tetap, jalur lebar,
-komunikasi satelit, penyiaran, perkhidmatan pos dan kurier, serta tandatangan
-digital. Semua ini disatukan dalam empat kategori aktiviti yang perlu
-dilesenkan di bawah Akta 588:
+komunikasi satelit, penyiaran, perkhidmatan pos dan kurier, tandatangan
+digital, serta perdagangan strategik. MCMC turut mempunyai kuasa penyiasatan
+melalui pegawai penyiasat yang dilantik bagi memastikan pematuhan. Semua
+aktiviti terasnya disatukan dalam empat kategori yang perlu dilesenkan di bawah
+Akta 588:
 
 | Kategori | Maksud | Contoh biasa |
 | --- | --- | --- |
@@ -157,7 +178,10 @@ diisytiharkan oleh Menteri — dan Suruhanjaya mendaftarkannya.
 
 Sistem dua peringkat ini membolehkan pengawalseliaan yang berkadar: pengendali
 rangkaian besar melalui penelitian penuh lesen individu, manakala aktiviti yang
-lebih ringan diliputi lesen kelas yang hanya memerlukan pendaftaran.
+lebih ringan diliputi lesen kelas yang hanya memerlukan pendaftaran. Rangka
+pelesenan ini dikuatkuasakan menerusi Peraturan-Peraturan Komunikasi dan
+Multimedia (Pelesenan) 2000 [P.U.(A) 129/2000], yang dibuat di bawah Seksyen 16
+Akta 588 dan berkuat kuasa pada 1 April 2000.
 
 ## Siapa yang perlu berlesen?
 
@@ -175,6 +199,39 @@ itu diteruskan selepas sabitan.
 Bagi kandungan pula, Seksyen 205 menetapkan larangan berasingan: tiada sesiapa
 boleh menyediakan perkhidmatan aplikasi kandungan kecuali di bawah lesen
 individu atau lesen kelas yang sah di bawah Bahagian itu.
+
+## Spektrum radio: sumber terhad yang diuruskan MCMC
+
+Selain melesenkan aktiviti, MCMC mengawal selia penggunaan spektrum frekuensi
+radio — sumber terhad kerana hanya satu pihak boleh menggunakan sesuatu jalur
+frekuensi di sesuatu kawasan tanpa gangguan. Di bawah Akta 588 dan
+Peraturan-Peraturan Komunikasi dan Multimedia (Spektrum) 2000, MCMC menguruskan
+spektrum untuk memastikan ia digunakan dengan cekap dan bagi meminimumkan
+gangguan.
+
+Mekanisme utamanya ialah *peruntukan spektrum* (spectrum assignment), yang
+memberi seseorang hak untuk menggunakan satu atau lebih jalur frekuensi bagi
+apa-apa tujuan yang selaras dengan syarat peruntukan yang ditetapkan MCMC.
+Peruntukan sedemikian sah untuk tempoh sehingga maksimum 20 tahun, boleh
+dipindah milik oleh pemegang tertakluk kepada syarat, dan penggunaannya mesti
+selaras dengan Pelan Spektrum yang diterbitkan MCMC. Contohnya termasuk jalur
+IMT-2000 (3G), 900MHz dan 1800MHz yang digunakan oleh operator mudah alih.
+
+## Peranan MCMC dalam sambungan negara: JENDELA dan 5G
+
+Di luar pengawalseliaan, MCMC turut menerajui dasar sambungan negara. JENDELA
+(Jalinan Digital Negara) ialah pelan berpimpin MCMC untuk memperluas liputan
+dan meningkatkan kualiti jalur lebar sambil menyediakan negara untuk 5G. Fasa 1
+(2020–2022) menyasarkan liputan 4G daripada 91.8% kepada 96.9% dan kelajuan
+jalur lebar mudah alih daripada 25 Mbps kepada 35 Mbps, manakala Fasa 2 memberi
+tumpuan kepada pelaksanaan 5G.
+
+Bagi 5G, kerajaan pada mulanya mengarahkan Digital Nasional Berhad (DNB)
+membina rangkaian borong tunggal yang dilesenkan di bawah Akta 588. Pada Mei
+2023, kerajaan memutuskan untuk beralih kepada model dua rangkaian 5G: MCMC
+memilih U Mobile sebagai pengendali rangkaian kedua (November 2024), yang
+melancarkan perkhidmatan pada Januari 2026. Kedua-dua rangkaian beroperasi di
+bawah pengawasan pengawalseliaan MCMC.
 
 ## Kandungan Internet: apa yang MCMC boleh dan tidak boleh buat?
 

@@ -77,9 +77,9 @@ sources:
 
 entity: "Lembaga Kemajuan Tanah Persekutuan (FELDA)"
 relations:
-  - { rel: "related-to", to: "dasar-ekonomi-baru" }
+  - { rel: "related-to", to: "new-economic-policy" }
   - { rel: "related-to", to: "bumiputera" }
-related: ["dasar-ekonomi-baru", "bumiputera"]
+related: ["new-economic-policy", "bumiputera"]
 keywords: ["FELDA", "Lembaga Kemajuan Tanah Persekutuan", "peneroka", "tanah rancangan", "kelapa sawit", "FGV", "pembangunan luar bandar"]
 ---
 
@@ -151,4 +151,4 @@ Keadaan ini menjejaskan aliran tunai FELDA sehingga melewatkan bayaran Sara Hidu
 
 FELDA hari ini bergelut untuk mengimbangi warisan sejarahnya dengan realiti kewangan dan cabaran generasi baharu. Kertas Putih 2019 menggariskan "Model FELDA Baharu" — antaranya sewaan tanah jangka panjang, pemerkasaan koperasi peneroka dan penggunaan teknologi ladang moden — untuk memulihkan kelestarian agensi.
 
-Bagi memahami konteks yang lebih luas, baca entri berkaitan mengenai [Dasar Ekonomi Baru](/glossary/dasar-ekonomi-baru) dan [bumiputera](/glossary/bumiputera). Untuk angka terkini tanah rancangan, peneroka dan kedudukan kewangan, rujuk laman rasmi FELDA dan penyata kewangan terbaharu, kerana banyak figura dalam artikel ini bertarikh sehingga 2018–2019.
+Bagi memahami konteks yang lebih luas, baca entri berkaitan mengenai [Dasar Ekonomi Baru](/malaysia/new-economic-policy) dan [bumiputera](/glossary/bumiputera). Untuk angka terkini tanah rancangan, peneroka dan kedudukan kewangan, rujuk laman rasmi FELDA dan penyata kewangan terbaharu, kerana banyak figura dalam artikel ini bertarikh sehingga 2018–2019.
