@@ -28,7 +28,8 @@
     "translate:check": "node scripts/translation-sync.mjs",
     "health": "python scripts/health/scan.py",
     "post:fb": "node scripts/post-to-facebook.mjs",
-    "validate": "node scripts/validate-frontmatter.mjs"
+    "validate": "node scripts/validate-frontmatter.mjs",
+    "suggest:crosslinks": "node scripts/suggest-crosslinks.mjs"
   },
   "dependencies": {
     "@astrojs/mdx": "^4.2.0",
