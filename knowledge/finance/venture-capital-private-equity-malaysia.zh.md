@@ -12,7 +12,7 @@ mode: "practical"
 contentType: "guide"
 sensitivity: "none"
 
-answer: "马来西亚的风险投资（VC）与私募股权（PE）基金管理由马来西亚证券监督委员会（证监会，SC）通过一套较轻的注册制度监管——并非完整的资本市场服务牌照——分为四个类别：VCC、VCMC、PEC 与 PEMC。基金管理人在管理 VC 或 PE 资金之前须向 SC 注册。自 2025 年 6 月的改革以来，税务处理为优惠税率（合格 VC 公司 5%，管理公司 10%），有效期至 2035 课税年度，取代此前的全额豁免。最大的政府出资方为 MAVCAP 与 Penjana Kapital，两者自 2024 年 7 月起均为 Khazanah 的子公司。"
+answer: "马来西亚的风险投资（VC）与私募股权（PE）基金管理由马来西亚证券监督委员会（证监会，SC）通过一套较轻的注册制度监管——并非完整的资本市场服务牌照——分为四个类别：VCC、VCMC、PEC 与 PEMC。自 2025 年 6 月的改革以来，税务处理为优惠税率（合格 VC 公司 5%，管理公司 10%），有效期至 2035 课税年度，取代此前的全额豁免。最大的政府出资方为 MAVCAP 与 Penjana Kapital，两者自 2024 年 7 月起均为 Khazanah 的子公司。"
 keyTakeaways:
   - "VC/PE 基金管理是向 SC 注册，而非由其发牌——分为四个类别 VCC、VCMC、PEC 与 PEMC。"
   - "该注册制度依据 2007年资本市场与服务法令第 377 条（与第 76 条一并解读）。"
@@ -33,7 +33,7 @@ faq:
     a: "这因阶段而差异很大。早期风险投资轮次通常在个位数百万令吉的低位；成长型与私募股权交易则规模大得多。在行业层面，截至 2024 年底，马来西亚已承诺的 VC 与 PE 管理基金约达 RM24.7 亿令吉——其中约 RM18 亿令吉为私募股权，约 RM6.7 亿令吉为风险投资。"
 
 lang: "zh"
-sourceContentHash: "19784d3938932096"
+sourceContentHash: "7f55b8a86f3b31aa"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

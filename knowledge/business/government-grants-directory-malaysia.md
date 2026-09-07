@@ -12,7 +12,7 @@ mode: "practical"
 contentType: "guide"
 sensitivity: "none"
 
-answer: "Malaysian businesses can tap a range of government funding, but the label 'grant' hides very different things. True or matching grants (you keep the money if you deliver) include Cradle's CIP Spark (up to RM150,000) and CIP Sprint (up to RM600,000), MDEC's Malaysia Digital Catalyst Grant (up to 50% of project cost, capped at RM1 million), MRANTI's Strategic Research Fund, and the MSME Digital Grant MADANI. Others are loans (Malaysia Debt Ventures), equity (MTDC's Business Growth Fund, Penjana Kapital), or reimbursements of your own contribution (HRD Corp training grants, MATRADE's Market Development Grant). Amounts and open/closed status change at least annually, usually with the October Budget, so verify each against the administering agency before applying."
+answer: "Malaysian businesses can tap a range of government funding, but the label 'grant' hides very different things. True or matching grants include Cradle's CIP Spark (up to RM150,000) and CIP Sprint (up to RM600,000) and MDEC's Malaysia Digital Catalyst Grant (up to 50% of cost, capped at RM1 million). Others are actually loans (Malaysia Debt Ventures), equity (MTDC's Business Growth Fund), or reimbursements of your own spending (HRD Corp, MATRADE). Amounts and open or closed status change at least annually, so verify each against the administering agency before applying."
 keyTakeaways:
   - "Cradle CIP Spark funds early-stage tech startups up to RM150,000; CIP Sprint funds commercialisation up to RM600,000 — both conditional grants with clawback on termination."
   - "MDEC's Malaysia Digital Catalyst Grant co-funds up to 50% of a digital project, capped at RM1 million; the older Malaysia Digital Acceleration Grant (MDAG) is closed to new applications."
@@ -134,6 +134,12 @@ Two channels are widely mislabelled as grants:
 
 - **Malaysia Debt Ventures (MDV)** provides **financing (loans and guarantees)** for ICT, green tech and biotech — repayable, not a grant.
 - **Penjana Kapital** and **Khazanah's** funds are **equity** (fund-of-funds and direct investment). These belong with venture capital and private equity — see that companion guide.
+
+## How the application usually works
+
+Grant programmes share a rough shape, and knowing it saves wasted effort. Most agencies run their own online portal — Cradle's grant management system, MDEC's application system, and the MTDC and MRANTI portals — and the government's MyStartup national-fundings directory aggregates many of them in one place. Expect to submit a business or project proposal, proof of eligibility (SSM registration, an ownership breakdown, and financials), and, for technology grants, evidence of your solution or prototype.
+
+Three practical realities catch first-time applicants. Grants are **competitive and capped** by the year's allocation, so a valid application is not an approved one. **Matching and reimbursement grants require you to spend first** and claim back, so you need the cash flow up front. And reimbursement or milestone grants usually require **approval before you incur the cost**, not after — spend early and you may forfeit the claim. Build the application into your plan as a process with lead time, not a cheque that arrives on demand.
 
 ## What's next
 

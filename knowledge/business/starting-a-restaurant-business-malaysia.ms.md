@@ -33,7 +33,7 @@ faq:
     a: "Gaji minimum kebangsaan ialah RM1,700 sebulan, ditetapkan oleh Perintah Gaji Minimum 2024. Ia terpakai kepada majikan dengan lima atau lebih pekerja mulai 1 Februari 2025, dan kepada semua majikan yang selebihnya mulai 1 Ogos 2025 — jadi mulai Ogos 2025 ia meliputi hampir setiap restoran tanpa mengira saiz."
 
 lang: "ms"
-sourceContentHash: "e3502686b85eae9e"
+sourceContentHash: "4dd19337cd15a96b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -141,6 +141,12 @@ Bukan setiap restoran memerlukan ini, tetapi rancang untuknya jika ia terpakai:
 - **kelulusan keselamatan kebakaran BOMBA** untuk premis;
 - **lesen muzik/persembahan awam** jika anda memainkan muzik rakaman; dan
 - **lesen WRT** daripada Kementerian Perdagangan Dalam Negeri jika perniagaan itu milik asing.
+
+## Penjujukan dan pemasaan
+
+Susunan operasi menentukan sepantas mana anda boleh membuka. Daftar dengan **SSM dahulu**, kerana setiap permohonan lain memerlukan dokumen tersebut. Failkan **lesen premis dan papan tanda majlis awal-awal** — ia biasanya mengambil masa paling lama dan boleh melibatkan pemeriksaan tapak, jadi kelewatan di sini melewatkan pembukaan anda lebih daripada apa-apa yang lain. Dapatkan staf dapur melalui **latihan pengendali makanan dan vaksinasi tifoid secara selari**, supaya mereka disahkan sebelum pemeriksaan kesihatan dan bukannya berkejar selepasnya.
+
+Biarkan pensijilan halal dan, jika berkaitan, lesen arak pada trek masing-masing: halal melibatkan audit premis dan kelulusan jawatankuasa, dan lesen arak melalui majlis, polis dan Kastam, masing-masing pada garis masanya sendiri. Pendaftaran cukai perkhidmatan adalah satu-satunya perkara yang boleh anda tangguhkan — anda hanya mendaftar apabila anda menghampiri perolehan RM1,500,000. Peruntukkan bajet untuk yuran majlis dan profesional lebih awal, dan sahkan jumlah yuran semasa dengan pihak berkuasa tempatan tertentu anda, kerana ia berbeza mengikut majlis dan mengikut keluasan lantai. Panduan praktikal yang berguna: anggap lesen premis majlis sebagai perkara laluan kritikal dan mulakannya sebaik sahaja penyewaan anda ditandatangani, kerana tarikh pembukaan besar anda, jadual staf pertama anda dan juga kontrak pembekal anda semuanya bergantung padanya. Perniagaan yang membuka mengikut jadual ialah yang mendahulukan kerja kertas yang kebanyakan orang tinggalkan hingga akhir.
 
 ## Apa seterusnya
 

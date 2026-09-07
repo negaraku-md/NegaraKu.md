@@ -12,7 +12,7 @@ mode: "practical"
 contentType: "guide"
 sensitivity: "none"
 
-answer: "A statutory declaration (akuan berkanun) is a written statement of fact that the maker solemnly declares to be true, governed by the Statutory Declarations Act 1960 (now Act 783). It can be taken by a Sessions Court Judge, a Magistrate, a Commissioner for Oaths, or a Notary Public. Making a false statutory declaration is a criminal offence — the Act deems such declarations to fall under sections 199 and 200 of the Penal Code, punishable as giving false evidence. In company matters it is used for things like the declaration of solvency in a members' voluntary winding up (section 443, Companies Act 2016); note that incorporating a company now requires a statement, not a statutory declaration."
+answer: "A statutory declaration (akuan berkanun) is a written statement of fact that the maker solemnly declares to be true, governed by the Statutory Declarations Act 1960 (now Act 783). It can be taken by a Sessions Court Judge, Magistrate, Commissioner for Oaths, or Notary Public. Making a false statutory declaration is a criminal offence under sections 199 and 200 of the Penal Code. In company matters it is used for things like the declaration of solvency in a members' voluntary winding up (section 443) — note that incorporating a company now requires a statement, not a statutory declaration."
 keyTakeaways:
   - "A statutory declaration is governed by the Statutory Declarations Act 1960, now Act 783 (the old citation Act 13 is superseded)."
   - "It can be commissioned by a Sessions Court Judge, a Magistrate, a Commissioner for Oaths, or a Notary Public — a Justice of the Peace is not listed in the Act."

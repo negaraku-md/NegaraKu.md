@@ -12,7 +12,7 @@ mode: "practical"
 contentType: "guide"
 sensitivity: "none"
 
-answer: "A Principal Hub was a locally incorporated company using Malaysia as a base to manage, control and support its regional or global operations, rewarded with a tiered concessionary tax rate. The Principal Hub incentive closed to new applications at the end of 2022; a proposed extension to 2025 was never gazetted. Its live successor is the Global Services Hub (GSH), introduced in Budget 2024 and administered by MIDA, with applications accepted from 14 October 2023 to 31 December 2027. Under the GSH, a new company can qualify for a 0% or 5% concessionary rate for a period of years, plus a 15% individual tax rate for a limited number of non-citizen C-suite staff — subject to meeting outcome-based conditions on operating expenditure, high-value jobs and local economic contribution."
+answer: "A Principal Hub was a locally incorporated company using Malaysia as a base to manage its regional or global operations, rewarded with a tiered concessionary tax rate. That incentive closed to new applications at the end of 2022. Its live successor is the Global Services Hub (GSH), administered by MIDA, with applications open from 14 October 2023 to 31 December 2027. Under the GSH a new company can qualify for a 0% or 5% rate, subject to outcome-based conditions on operating expenditure, high-value jobs and local economic contribution."
 keyTakeaways:
   - "The Principal Hub incentive is closed to new applications — its window ended 31 December 2022 and the proposed extension to 2025 was never gazetted."
   - "The live route today is the Global Services Hub (GSH), administered by MIDA, with applications open from 14 October 2023 to 31 December 2027."
@@ -110,6 +110,12 @@ The GSH is deliberately **outcome-based** — you do not simply tick a capital t
 5. **Report and comply annually.** Performance against the committed conditions is reviewed, and the incentive can be **clawed back** if the targets are missed — this is an ongoing obligation, not a one-time approval.
 
 The through-line is *substance*: the incentive rewards a genuine operating hub with real jobs and spending in Malaysia, not a nameplate.
+
+## What the Principal Hub required, for context
+
+Although the Principal Hub is closed, its structure explains where the Global Services Hub came from — and it is still referenced in older approvals. The last version, Principal Hub 3.0, ran on a **two-tier concessionary rate**: a 0% tier and a 5% tier, each earned by meeting thresholds on annual operating expenditure, the number of high-value jobs (paid above a set monthly salary), a minimum of senior "key" positions, a number of network companies served, and a minimum paid-up capital. The higher the commitment, the lower the rate.
+
+The Global Services Hub keeps that commitment-for-rate logic but reframes the conditions around **outcomes** — local spending, high-value employment, C-suite hiring, training of Malaysians and ESG — rather than a fixed checklist. If you are reading an older Principal Hub approval, treat its specific thresholds as historical: confirm your current obligations against the Global Services Hub guideline and your own approval letter, since the numbers and conditions have moved. In practice, a company weighing the GSH should model three things together: the concessionary rate it can realistically qualify for, the operating expenditure and headcount it must commit to earn that rate, and — for a large multinational group — how much of the benefit the global minimum tax will claw back. The incentive is real, but it rewards genuine substance in Malaysia, not a light-touch presence.
 
 ## What's next
 

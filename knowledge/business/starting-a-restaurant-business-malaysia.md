@@ -141,6 +141,12 @@ Not every restaurant needs these, but plan for them if they apply:
 - a **music/public-performance licence** if you play recorded music; and
 - a **WRT licence** from the Ministry of Domestic Trade if the business is foreign-owned.
 
+## Sequencing and timing
+
+Order of operations decides how fast you open. Register with **SSM first**, because every other application needs those documents. Lodge the **council premise and signboard licences early** — they usually take the longest and can involve a site inspection, so a delay here delays your opening more than anything else. Get kitchen staff through **food-handler training and typhoid vaccination in parallel**, so they are certified before the health inspection rather than scrambling after it.
+
+Leave halal certification and, if relevant, the liquor licence on their own tracks: halal involves a premises audit and committee approval, and a liquor licence routes through the council, the police and Customs, each on its own timeline. Service-tax registration is the one thing you can defer — you only register as you approach RM1,500,000 of turnover. Budget for the council and professional fees up front, and confirm current fee amounts with your specific local authority, since they vary by council and by floor area. A useful rule of thumb: treat the council premise licence as the critical-path item and start it the moment your tenancy is signed, because your grand-opening date, your first staff roster and even your supplier contracts all hang off it. The businesses that open on schedule are the ones that front-loaded the paperwork most people leave until last.
+
 ## What's next
 
 Sequence the work: register with SSM first, because every other application asks for those documents; then lodge the council premise and signboard licences early, as they take the longest; get staff food-handler-certified and vaccinated before you open; and only worry about service-tax registration once you are approaching the RM1,500,000 threshold. Confirm the current fees with your specific council and the live service-tax guide with RMCD, since council fees vary and tax guidance is periodically reissued. The linked guides for each licence carry the detailed checklists.

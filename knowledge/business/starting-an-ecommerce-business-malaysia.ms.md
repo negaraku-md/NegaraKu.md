@@ -12,7 +12,7 @@ mode: "practical"
 contentType: "guide"
 sensitivity: "none"
 
-answer: "Menjual dalam talian di Malaysia masih memerlukan pendaftaran perniagaan dengan SSM — walaupun penjual berasaskan rumah atau penjual di pasaran dalam talian (marketplace) sahaja mesti mendaftar dalam tempoh 30 hari selepas memulakan perniagaan, sama ada sebagai pemilik tunggal atau Sdn Bhd. Tiada 'lesen perniagaan dalam talian' yang berasingan. Setelah didaftarkan, penjual dalam talian mesti mematuhi Peraturan-Peraturan Perlindungan Pengguna (Transaksi Perdagangan Elektronik) 2024, yang mewajibkan paparan nama penjual, nombor pendaftaran, butiran hubungan serta maklumat produk dan harga yang jelas; mematuhi Akta Perlindungan Data Peribadi 2010 apabila mengendalikan data pelanggan; dan mematuhi peraturan cukai termasuk cukai barangan bernilai rendah 10% ke atas barangan import yang dijual dalam talian. E-invois kini hanya terpakai kepada perniagaan dengan perolehan melebihi RM1 juta."
+answer: "Menjual dalam talian di Malaysia masih memerlukan pendaftaran dengan SSM — walaupun penjual berasaskan rumah atau di pasaran dalam talian (marketplace) sahaja mesti mendaftar dalam tempoh 30 hari, sama ada sebagai pemilik tunggal atau Sdn Bhd. Tiada 'lesen perniagaan dalam talian' yang berasingan. Penjual kemudiannya mesti mematuhi Peraturan-Peraturan Perlindungan Pengguna (Transaksi Perdagangan Elektronik) 2024 (memaparkan nama, nombor pendaftaran, butiran hubungan dan penetapan harga yang jelas) dan Akta Perlindungan Data Peribadi 2010, serta mengendalikan cukai — termasuk cukai barangan bernilai rendah 10% ke atas barangan import. E-invois kini hanya terpakai kepada perniagaan dengan perolehan melebihi RM1 juta."
 keyTakeaways:
   - "Walaupun penjual dalam talian berasaskan rumah atau di pasaran dalam talian (marketplace) sahaja mesti mendaftar dengan SSM dalam tempoh 30 hari selepas memulakan perniagaan — tiada lesen perniagaan dalam talian yang berasingan."
   - "Peraturan-Peraturan Perlindungan Pengguna (Transaksi Perdagangan Elektronik) 2024 menggantikan peraturan lama 2012 dan mewajibkan penjual dalam talian memaparkan nama, nombor pendaftaran, butiran hubungan dan penetapan harga yang jelas."
@@ -33,7 +33,7 @@ faq:
     a: "Sebagai penjual, tidak. Anda mendaftar dengan gerbang pembayaran (payment gateway), yang mengendalikan langkah pengesahan perniagaan; pengendali gerbang pembayaran itulah yang mesti diluluskan oleh Bank Negara Malaysia, bukan anda. Bergantung pada apa yang anda jual, peraturan khusus sektor mungkin masih terpakai — contohnya kosmetik dan produk kesihatan memerlukan pemberitahuan kepada pengawal selia berkaitan tanpa mengira saluran jualan."
 
 lang: "ms"
-sourceContentHash: "9e3043a00523b643"
+sourceContentHash: "f5bb3c3bee43fd46"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -120,6 +120,12 @@ Tiga perkara cukai penting untuk perniagaan dalam talian:
 - **Cukai barangan bernilai rendah (LVG).** Jika anda mengimport dan menjual barangan bernilai rendah dalam talian, **cukai jualan 10%** terpakai kepada barangan bernilai **RM500 atau kurang**. Penjual yang jualan LVG ke Malaysia melebihi **RM500,000 dalam 12 bulan** mesti mendaftar dengan Kastam dan mengenakannya. Ia berkuat kuasa pada 1 Januari 2024 dan terutamanya menjejaskan **dropshipper dan penjual rentas sempadan**.
 - **SST biasa.** Penjual domestik barangan tempatan berurusan dengan peraturan cukai jualan standard, tertakluk kepada ambang pendaftaran **RM500,000** yang biasa bagi orang bercukai; penjual perkhidmatan digital mendaftar untuk cukai perkhidmatan 8% sebaik sahaja bekalan kepada pengguna Malaysia melebihi RM500,000. Lihat panduan SST.
 - **E-invois.** Mandat e-invois LHDN kini terpakai **hanya kepada perniagaan dengan perolehan melebihi RM1 juta** — pengecualian dinaikkan daripada RM500,000 (berkuat kuasa 1 Januari 2026) dan fasa akhir untuk perniagaan terkecil telah dibatalkan. Jadi **kebanyakan penjual dalam talian kecil kini dikecualikan** — tetapi jadual ini telah berubah dua kali, jadi semak laman e-Invois LHDN untuk jalur perolehan anda.
+
+## Pasaran dalam talian (marketplace) atau kedai anda sendiri?
+
+Di mana anda menjual mengubah apa yang perlu anda lakukan. Menjual **hanya melalui pasaran dalam talian (marketplace)** (Shopee, Lazada, TikTok Shop dan seumpamanya) masih memerlukan pendaftaran SSM, dan anda tetap bertanggungjawab ke atas pendedahan penyenaraian anda sendiri serta ketepatan produk — pematuhan platform tidak melindungi anda. Apa yang platform berikan kepada anda ialah landasan pembayaran dan logistiknya, jadi anda mengelak daripada mengatur gerbang pembayaran anda sendiri.
+
+Menjalankan **kedai anda sendiri** memberi anda kawalan dan margin tetapi meletakkan beban penuh pematuhan ke atas anda: butiran pendedahan perdagangan elektronik pada setiap halaman, notis privasi dan aliran persetujuan bagi data yang kini anda kumpulkan secara langsung, pendaftaran gerbang pembayaran anda sendiri, serta pemulangan dan penghantaran anda sendiri. Ramai penjual menjalankan kedua-duanya — kehadiran di pasaran dalam talian (marketplace) untuk jangkauan, kedai milik sendiri untuk margin dan hubungan pelanggan. Mana-mana yang anda pilih, kewajipan asas pendaftaran, perlindungan pengguna dan cukai adalah sama; hanya siapa yang mengendalikan urusan teknikal yang berubah. Satu lagi perkara praktikal: pastikan butiran SSM, alamat perniagaan dan maklumat hubungan anda konsisten merentas setiap saluran tempat anda menjual. Peraturan pendedahan terpakai bagi setiap penyenaraian, dan ketidakpadanan antara profil pasaran dalam talian (marketplace) anda dan laman anda sendiri adalah tepat jenis ketidakkonsistenan yang akan diperhatikan dahulu oleh semakan penguatkuasaan, atau pelanggan yang mengesyaki.
 
 ## Apa seterusnya
 

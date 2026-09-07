@@ -12,7 +12,7 @@ mode: "practical"
 contentType: "guide"
 sensitivity: "none"
 
-answer: "Setting up a consultancy in Malaysia starts with choosing an entity: a sole proprietorship (cheap, but unlimited personal liability, taxed at personal rates), a limited liability partnership or LLP (limited liability, taxed as a body corporate, light compliance), or a Sdn Bhd (limited liability, corporate tax rates, most credible to corporate clients). The critical caveat: a regulated profession — accountant, auditor, engineer, lawyer, architect, licensed financial planner — needs its professional body's registration or licence, not just SSM registration. Consultancy services carry 8% service tax once turnover exceeds RM500,000, and the entity choice determines whether you are taxed at personal rates or the SME corporate rates of 15%, 17% and 24%."
+answer: "Setting up a consultancy in Malaysia starts with choosing an entity: a sole proprietorship (cheap, but unlimited personal liability), an LLP (limited liability, light compliance), or a Sdn Bhd (limited liability, corporate tax, most credible). The critical caveat: a regulated profession — accountant, engineer, lawyer, architect, financial planner — needs its professional body's licence, not just SSM registration. Consultancy carries 8% service tax once turnover exceeds RM500,000, and your entity choice decides whether you are taxed at personal rates or the SME corporate rates of 15%, 17% and 24%."
 keyTakeaways:
   - "Choose between a sole proprietorship (unlimited liability, personal tax), an LLP (limited liability, light compliance) or a Sdn Bhd (limited liability, corporate tax, most credible) — an LLP is often the best middle option for a small firm."
   - "Registering a business with SSM does not license you to practise a regulated profession: accountants (MIA), engineers (BEM), auditors, lawyers, architects and financial planners each need their own regulator's registration."
@@ -125,6 +125,12 @@ Consultancy sits in the professionals grouping (Group G) alongside legal, accoun
 
 - **if you employ staff**, register them for EPF and SOCSO/EIS as an employer;
 - **if you are a solo consultant**, you fall under the self-employed schemes — SOCSO's Self-Employment Social Security Scheme for injury protection, and the voluntary EPF **i-Saraan** channel (with a government contribution incentive) to keep building retirement savings. See the freelancer-and-gig-tax guide.
+
+## Getting paid: contracts, invoicing and tax
+
+Once you are trading, the mechanics of getting paid matter as much as the entity. Put every engagement in a written contract or engagement letter that fixes the **scope**, the **fee basis** (retainer, fixed project fee, or time-based), the **payment milestones**, and what happens if the scope grows — scope creep is the most common way a services firm quietly loses money.
+
+On tax, remember the two obligations run independently. You register for **service tax at RM500,000** of taxable turnover and then charge **8%** on your invoices; your **income tax** runs on your entity's rate regardless of that. If you are below the service-tax threshold, do not charge a tax you are not registered for — state that on your invoices instead. And keep clean records from day one: a services firm's costs are largely deductible, but only if documented, and both LHDN and (once registered) Customs can ask to see them.
 
 ## What's next
 

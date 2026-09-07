@@ -12,7 +12,7 @@ mode: "practical"
 contentType: "guide"
 sensitivity: "none"
 
-answer: "Akuan berkanun (statutory declaration) ialah kenyataan fakta bertulis yang diakui benar secara khidmat oleh pembuatnya, ditadbir oleh Akta Akuan Berkanun 1960 (kini Akta 783). Ia boleh diambil oleh Hakim Mahkamah Sesyen, Majistret, Pesuruhjaya Sumpah, atau Notari Awam. Membuat akuan berkanun palsu adalah kesalahan jenayah — Akta ini menganggap akuan sedemikian termasuk di bawah seksyen 199 dan 200 Kanun Keseksaan, boleh dihukum sebagai memberi keterangan palsu. Dalam urusan syarikat ia digunakan untuk perkara seperti akuan kemampuan bayar (solvensi) dalam penggulungan sukarela oleh ahli (seksyen 443, Akta Syarikat 2016); ambil perhatian bahawa pemerbadanan syarikat kini memerlukan satu penyata, bukan akuan berkanun."
+answer: "Akuan berkanun (statutory declaration) ialah kenyataan fakta bertulis yang diakui benar secara khidmat oleh pembuatnya, ditadbir oleh Akta Akuan Berkanun 1960 (kini Akta 783). Ia boleh diambil oleh Hakim Mahkamah Sesyen, Majistret, Pesuruhjaya Sumpah, atau Notari Awam. Membuat akuan berkanun palsu adalah kesalahan jenayah di bawah seksyen 199 dan 200 Kanun Keseksaan. Dalam urusan syarikat ia digunakan untuk perkara seperti akuan kemampuan bayar (solvensi) dalam penggulungan sukarela oleh ahli (seksyen 443) — ambil perhatian bahawa memperbadankan syarikat kini memerlukan satu penyata, bukan akuan berkanun."
 keyTakeaways:
   - "Akuan berkanun ditadbir oleh Akta Akuan Berkanun 1960, kini Akta 783 (petikan lama Akta 13 telah digantikan)."
   - "Ia boleh ditauliahkan oleh Hakim Mahkamah Sesyen, Majistret, Pesuruhjaya Sumpah, atau Notari Awam — seorang Jaksa Pendamai tidak disenaraikan dalam Akta ini."
@@ -31,7 +31,7 @@ faq:
     a: "Tidak — ini adalah salah tanggapan lazim yang terbawa daripada Akta Syarikat 1965 yang lama. Di bawah Akta Syarikat 2016, pemerbadanan dilakukan melalui permohonan di mana setiap pengarah atau penaja memberikan satu penyata (seksyen 14) bahawa mereka bersetuju untuk bertindak dan tidak hilang kelayakan. Itu ialah penyata, bukan akuan berkanun."
 
 lang: "ms"
-sourceContentHash: "f24ebc24936169b8"
+sourceContentHash: "d94e19a17d06c1eb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

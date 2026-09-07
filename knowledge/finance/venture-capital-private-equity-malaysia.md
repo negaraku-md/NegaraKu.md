@@ -12,7 +12,7 @@ mode: "practical"
 contentType: "guide"
 sensitivity: "none"
 
-answer: "Venture capital (VC) and private equity (PE) fund management in Malaysia is regulated by the Securities Commission (SC) through a lighter registration regime — not a full Capital Markets Services Licence — under four categories: VCC, VCMC, PEC and PEMC. A fund manager registers with the SC before managing VC or PE money. Since a June 2025 revamp, the tax treatment is a concessionary rate (5% for a qualifying VC company, 10% for the management company) running to the year of assessment 2035, replacing the earlier full exemption. The largest government funders are MAVCAP and Penjana Kapital, both Khazanah subsidiaries since July 2024."
+answer: "Venture capital (VC) and private equity (PE) fund management in Malaysia is regulated by the Securities Commission through a lighter registration regime — not a full Capital Markets Services Licence — under four categories: VCC, VCMC, PEC and PEMC. Since a June 2025 revamp, the tax treatment is a concessionary rate (5% for a qualifying VC company, 10% for the management company) to the year of assessment 2035, replacing the earlier full exemption. The largest government funders are MAVCAP and Penjana Kapital, both Khazanah subsidiaries since July 2024."
 keyTakeaways:
   - "VC/PE fund management is registered with, not licensed by, the SC — under the four categories VCC, VCMC, PEC and PEMC."
   - "The registration regime sits under section 377 (read with section 76) of the Capital Markets and Services Act 2007."

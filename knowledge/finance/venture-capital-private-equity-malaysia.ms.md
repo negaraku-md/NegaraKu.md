@@ -12,7 +12,7 @@ mode: "practical"
 contentType: "guide"
 sensitivity: "none"
 
-answer: "Pengurusan dana modal teroka (VC) dan ekuiti persendirian (PE) di Malaysia dikawal selia oleh Suruhanjaya Sekuriti Malaysia (SC) melalui rejim pendaftaran yang lebih ringan — bukan Lesen Perkhidmatan Pasaran Modal penuh — di bawah empat kategori: VCC, VCMC, PEC dan PEMC. Seorang pengurus dana mendaftar dengan SC sebelum menguruskan wang VC atau PE. Sejak rombakan pada Jun 2025, layanan cukai adalah kadar konsesi (5% untuk syarikat VC yang layak, 10% untuk syarikat pengurusan) berkuat kuasa sehingga tahun taksiran 2035, menggantikan pengecualian penuh yang terdahulu. Pembiaya kerajaan terbesar ialah MAVCAP dan Penjana Kapital, kedua-duanya subsidiari Khazanah sejak Julai 2024."
+answer: "Pengurusan dana modal teroka (VC) dan ekuiti persendirian (PE) di Malaysia dikawal selia oleh Suruhanjaya Sekuriti Malaysia (SC) melalui rejim pendaftaran yang lebih ringan — bukan Lesen Perkhidmatan Pasaran Modal penuh — di bawah empat kategori: VCC, VCMC, PEC dan PEMC. Sejak rombakan pada Jun 2025, layanan cukai adalah kadar konsesi (5% untuk syarikat VC yang layak, 10% untuk syarikat pengurusan) berkuat kuasa sehingga tahun taksiran 2035, menggantikan pengecualian penuh yang terdahulu. Pembiaya kerajaan terbesar ialah MAVCAP dan Penjana Kapital, kedua-duanya subsidiari Khazanah sejak Julai 2024."
 keyTakeaways:
   - "Pengurusan dana VC/PE didaftarkan dengan, bukan dilesenkan oleh, SC — di bawah empat kategori VCC, VCMC, PEC dan PEMC."
   - "Rejim pendaftaran ini terletak di bawah seksyen 377 (dibaca bersama seksyen 76) Akta Pasaran Modal dan Perkhidmatan 2007."
@@ -33,7 +33,7 @@ faq:
     a: "Ia berbeza-beza mengikut peringkat. Pusingan teroka peringkat awal biasanya dalam lingkungan beberapa juta ringgit sahaja; urus niaga pertumbuhan dan ekuiti persendirian jauh lebih besar. Pada peringkat industri, dana VC dan PE yang dikomitkan di bawah pengurusan di Malaysia berjumlah kira-kira RM24.7 bilion pada akhir 2024 — kira-kira RM18 bilion dalam ekuiti persendirian dan RM6.7 bilion dalam modal teroka."
 
 lang: "ms"
-sourceContentHash: "19784d3938932096"
+sourceContentHash: "7f55b8a86f3b31aa"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

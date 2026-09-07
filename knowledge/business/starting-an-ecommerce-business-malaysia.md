@@ -12,7 +12,7 @@ mode: "practical"
 contentType: "guide"
 sensitivity: "none"
 
-answer: "Selling online in Malaysia still requires registering the business with SSM — even a home-based or marketplace-only seller must register within 30 days of starting, as a sole proprietor or a Sdn Bhd. There is no separate 'online business licence.' Once registered, an online seller must comply with the Consumer Protection (Electronic Trade Transactions) Regulations 2024, which require displaying the seller's name, registration number, contact details and clear product and price information; with the Personal Data Protection Act 2010 when handling customer data; and with tax rules including the 10% low-value-goods tax on imported goods sold online. E-invoicing currently applies only to businesses with turnover above RM1 million."
+answer: "Selling online in Malaysia still requires registering with SSM — even a home-based or marketplace-only seller must register within 30 days, as a sole proprietor or a Sdn Bhd. There is no separate 'online business licence.' A seller must then comply with the Consumer Protection (Electronic Trade Transactions) Regulations 2024 (displaying name, registration number, contact and clear pricing) and the Personal Data Protection Act 2010, and handle tax — including the 10% low-value-goods tax on imported goods. E-invoicing currently applies only to businesses with turnover above RM1 million."
 keyTakeaways:
   - "Even a home-based or marketplace-only online seller must register with SSM within 30 days of starting — there is no separate online-business licence."
   - "The Consumer Protection (Electronic Trade Transactions) Regulations 2024 replaced the old 2012 rules and require online sellers to display their name, registration number, contact details and clear pricing."
@@ -119,6 +119,12 @@ Three tax points matter for an online business:
 - **Low-value goods (LVG) tax.** If you import and sell low-value goods online, a **10% sales tax** applies to goods valued at **RM500 or less**. Sellers whose LVG sales into Malaysia exceed **RM500,000 in 12 months** must register with Customs and charge it. This took effect on 1 January 2024 and mainly hits **dropshippers and cross-border sellers**.
 - **Ordinary SST.** A domestic seller of local goods deals with the standard sales tax rules, subject to the usual **RM500,000** registration threshold for a taxable person; a seller of digital services registers for the 8% service tax once supplies to Malaysian consumers exceed RM500,000. See the SST guides.
 - **E-invoicing.** LHDN's e-invoice mandate now applies **only to businesses with turnover above RM1 million** — the exemption was raised from RM500,000 (effective 1 January 2026) and the final phase for the smallest businesses was cancelled. So **most small online sellers are currently exempt** — but this schedule has already changed twice, so check the LHDN e-Invoice page for your turnover band.
+
+## Marketplace or your own store?
+
+Where you sell changes what you have to do. Selling **only through a marketplace** (Shopee, Lazada, TikTok Shop and the like) still requires SSM registration, and you remain responsible for your own listings' disclosure and product accuracy — the platform's compliance does not cover you. What it does hand you is the platform's payment and logistics rails, so you avoid arranging your own payment gateway.
+
+Running **your own store** gives you control and margin but puts the full weight of compliance on you: the electronic-trade disclosure details on every page, a privacy notice and consent flow for the data you now collect directly, your own payment-gateway onboarding, and your own returns and delivery. Many sellers run both — a marketplace presence for reach, an owned store for margin and the customer relationship. Whichever you choose, the underlying registration, consumer-protection and tax obligations are the same; only who handles the plumbing changes. One more practical point: keep your SSM details, business address and contact information consistent across every channel you sell on. The disclosure rules apply per listing, and a mismatch between your marketplace profile and your own site is exactly the kind of inconsistency an enforcement check, or a suspicious customer, will notice first.
 
 ## What's next
 
