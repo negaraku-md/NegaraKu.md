@@ -34,7 +34,7 @@ faq:
     a: "Pas lawatan sosial jangka pendek pada umumnya tidak boleh dilanjutkan; untuk tinggal lebih lama anda mesti keluar dan masuk semula. Ia juga tidak boleh ditukar kepada pas kerja atau pelajar — itu mesti diuruskan melalui saluran visa yang betul sebelum anda mula bekerja atau belajar."
 
 lang: "ms"
-sourceContentHash: "965a46662f4bd8d9"
+sourceContentHash: "cc706715a5a043c3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -146,7 +146,7 @@ Had-had utamanya, menurut Jabatan Imigresen:
 
 - Pemegang eNTRI berhak kepada maksimum 15 hari bagi setiap lawatan.
 - Setiap permohonan hanya boleh digunakan sekali, dan tiada lanjutan dibenarkan.
-- Kemasukan terhad kepada pintu pemeriksaan yang ditetapkan — lapangan terbang seperti KLIA, Pulau Pinang, Langkawi, Melaka, Senai, Kuching, Miri, Kota Kinabalu dan Labuan, dan pintu pemeriksaan darat termasuk Sultan Iskandar, Bukit Kayu Hitam dan Padang Besar.
+- Kemasukan terhad kepada pintu pemeriksaan yang ditetapkan — lapangan terbang seperti KLIA, Pulau Pinang, [Langkawi](/tourism/langkawi-visitor-guide), Melaka, Senai, Kuching, Miri, Kota Kinabalu dan Labuan, dan pintu pemeriksaan darat termasuk Sultan Iskandar, Bukit Kayu Hitam dan Padang Besar.
 - Semasa ketibaan, pengembara mesti mengemukakan cetakan eNTRI bersama pas masuk pesawat, bukti dana yang mencukupi, tiket pulang yang disahkan dan bukti penginapan.
 
 Oleh sebab warganegara India buat masa ini juga menikmati pengecualian visa yang lebih luas, eNTRI paling baik difahami sebagai salah satu daripada beberapa laluan — pengembara harus mengesahkan yang mana berkuat kuasa untuk tarikh perjalanan mereka sebelum memohon.

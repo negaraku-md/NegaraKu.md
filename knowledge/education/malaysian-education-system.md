@@ -99,7 +99,7 @@ The first thing the map needs is a boundary line, because Malaysian education is
 
 The **Ministry of Education** (Kementerian Pendidikan Malaysia, KPM) is responsible for preschool, primary and secondary schooling, and also runs its own pre-university matriculation programme through its Matriculation Division. The **Ministry of Higher Education** (Kementerian Pendidikan Tinggi, KPT) is a separate ministry responsible for public and private universities, polytechnics and community colleges.
 
-A third body sits above both once a qualification is awarded: the **Malaysian Qualifications Agency (MQA)**, which accredits post-secondary and higher-education programmes and maintains the **Malaysian Qualifications Framework (MQF)** — the common scale that lets a certificate, diploma or degree from a public or private institution be compared on paper.
+A third body sits above both once a qualification is awarded: the **[Malaysian Qualifications Agency](/education/malaysian-qualifications-agency-and-accreditation) (MQA)**, which accredits post-secondary and higher-education programmes and maintains the **Malaysian Qualifications Framework (MQF)** — the common scale that lets a certificate, diploma or degree from a public or private institution be compared on paper.
 
 ## The ladder, stage by stage
 

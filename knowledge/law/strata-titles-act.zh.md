@@ -29,7 +29,7 @@ faq:
     a: "向分层管理仲裁庭提出，它处理不超过RM250,000的索赔，比法庭更快捷、更便宜。地方政府的建筑监督专员（COB）则负责执行法令的合规事宜。"
 
 lang: "zh"
-sourceContentHash: "addea7deba730266"
+sourceContentHash: "788e401fa0ccd9ab"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -84,7 +84,7 @@ keywords: ["akta hakmilik strata", "akta pengurusan strata 2013", "JMB", "perbad
 | 1985年分层地契法令（第318号法令） | 所有权 | 允许将建筑物分割为独立单元，每个单元拥有各自的分层地契 |
 | 2013年分层管理法令（第757号法令） | 管理 | 设立管理机构、维护费、偿债基金及仲裁庭 |
 
-第318号法令适用于马来西亚半岛、布城联邦直辖区及纳闽；沙巴和砂拉越各有其自己的分层法律。第757号法令则规范上述相同地区分层建筑物的管理。
+第318号法令适用于马来西亚半岛、[布城联邦直辖区](/states/putrajaya)及纳闽；沙巴和砂拉越各有其自己的分层法律。第757号法令则规范上述相同地区分层建筑物的管理。
 
 ## 谁在管理你的分层建筑物？
 

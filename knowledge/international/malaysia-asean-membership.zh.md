@@ -40,7 +40,7 @@ faq:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "02e19c5efc595753"
+sourceContentHash: "a6367ba8ba6baac1"
 
 status: "published"
 aiAssisted: true
@@ -201,7 +201,7 @@ keywords: ["ASEAN", "Malaysia ASEAN", "Deklarasi Bangkok", "Piagam ASEAN", "Komu
 | 东盟经济共同体（AEC） | 单一市场与生产基地——货物、服务、投资、资本与技能的自由流动 | 进入一个超过6亿人口的区域市场 |
 | 东盟社会-文化共同体（ASCC） | 教育、卫生、环境、文化、灾害应对 | 民间往来合作与社会保障 |
 
-经济支柱（AEC）对马来西亚企业的影响或许最为显著。其理念是以单一市场和共同生产基地取代各成员国分立的经济，让企业能够构建跨区域的产业网络并融入全球供应链。据新加坡政府的经济教育门户网站（SG101），AEC开启了通往本区域约6亿消费者的准入。AEC也成为更广泛的贸易协定（如RCEP，区域全面经济伙伴关系协定）的基础，该协定将东盟与中国、日本、韩国、澳大利亚与新西兰等伙伴整合在一起。
+经济支柱（AEC）对马来西亚企业的影响或许最为显著。其理念是以单一市场和共同生产基地取代各成员国分立的经济，让企业能够构建跨区域的产业网络并融入全球供应链。据新加坡政府的经济教育门户网站（SG101），AEC开启了通往本区域约6亿消费者的准入。AEC也成为更广泛的贸易协定（如RCEP，[区域全面经济伙伴关系协定](/international/malaysia-rcep)）的基础，该协定将东盟与中国、日本、韩国、澳大利亚与新西兰等伙伴整合在一起。
 
 ## 东盟的主要机构：谁作决定？
 

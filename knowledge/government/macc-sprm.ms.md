@@ -34,7 +34,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "900283de9a700645"
+sourceContentHash: "6d18558cf5584f81"
 
 status: "published"
 aiAssisted: true
@@ -94,7 +94,7 @@ undang-undang untuk mengawasi mereka?
 
 | | |
 | --- | --- |
-| Nama penuh | Suruhanjaya Pencegahan Rasuah Malaysia / Malaysian Anti-Corruption Commission |
+| Nama penuh | [Suruhanjaya Pencegahan Rasuah Malaysia](/glossary/suruhanjaya-pencegahan-rasuah-malaysia) / Malaysian Anti-Corruption Commission |
 | Statut pemberi kuasa | Malaysian Anti-Corruption Commission Act 2009 (Act 694), seksyen 4 |
 | Perkenan Diraja / Warta | 6 Januari 2009 / 8 Januari 2009 |
 | Permulaan kuat kuasa | 1 Januari 2009 |

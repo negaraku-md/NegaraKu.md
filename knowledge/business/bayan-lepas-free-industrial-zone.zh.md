@@ -47,7 +47,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "3111f02a842dda23"
+sourceContentHash: "6475dc27ed25022d"
 
 status: "published"
 aiAssisted: true
@@ -145,7 +145,7 @@ keywords:
 | 移出规则 | 仅限**供出口**，或经管理机构批准移往FCZ（第8(1)条） | 由第5条规管 |
 
 其余一切均为**主要关税区**（PCA）——第2条将其定义为
-马来西亚除自由区、纳闽、浮罗交怡、刁曼和邦咯以外的任何部分。
+马来西亚除自由区、纳闽、[浮罗交怡](/tourism/langkawi-visitor-guide)、刁曼和邦咯以外的任何部分。
 
 依据**第4条**，货物可运入自由区、在其中生产或制造而*无须
 缴付任何关税或消费税*。应将其理解为一种**不征收**而非

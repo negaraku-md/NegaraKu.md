@@ -44,7 +44,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "c089ad0a854f3911"
+sourceContentHash: "0d6884ea1dade121"
 
 status: "published"
 aiAssisted: true
@@ -124,7 +124,7 @@ keywords: ["Kedah", "Kedah Darul Aman", "Alor Setar", "Sultan Kedah", "jelapang 
 | 首府 | 亚罗士打 |
 | 州元首 | 吉打苏丹 |
 | 面积 | 9,447平方公里 |
-| 行政县 | 12个，包括浮罗交怡 |
+| 行政县 | 12个，包括[浮罗交怡](/tourism/langkawi-visitor-guide) |
 | 人口 | 223万人（DOSM 2025年估计） |
 | 2024年GDP | RM54.0 billion，增长4.2% |
 | 2024年获批投资 | RM45.8 billion——全国各州第四高 |

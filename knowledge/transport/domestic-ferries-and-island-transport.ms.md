@@ -29,7 +29,7 @@ faq:
     a: "Selalunya tidak. Banyak resort dan pengendali bot pantai timur secara sukarela menggantung perkhidmatan dari sekitar Oktober hingga Februari kerana laut yang bergelora akibat monsun timur laut."
 
 lang: "ms"
-sourceContentHash: "a8987efa99eec0d9"
+sourceContentHash: "baf74efaaf475bb1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -109,7 +109,7 @@ Anda boleh membayar dengan Touch 'n Go, di kaunter, atau dengan tiket dalam tali
 
 ## Bagaimana feri ke Langkawi berfungsi?
 
-Langkawi tiada jambatan, jadi feri dan penerbangan adalah satu-satunya cara masuk. Feri penumpang biasa sampai ke **Jeti Kuah** di Langkawi dari dua pelabuhan tanah besar:
+[Langkawi](/tourism/langkawi-visitor-guide) tiada jambatan, jadi feri dan penerbangan adalah satu-satunya cara masuk. Feri penumpang biasa sampai ke **Jeti Kuah** di Langkawi dari dua pelabuhan tanah besar:
 
 - **Kuala Kedah** — perjalanan kira-kira 1 jam 45 minit, tambang dewasa sekitar RM23 sehala.
 - **Kuala Perlis** — perjalanan kira-kira 1 jam 15 minit, tambang dewasa sekitar RM18 sehala, pilihan yang lebih pendek dan biasanya lebih murah.

@@ -35,7 +35,7 @@ faq:
     a: "Kedua-duanya perayaan berasingan dengan tema yang sama. Gawai Dayak ialah perayaan menuai kaum Dayak di Sarawak, disambut pada 1 dan 2 Jun. Kaamatan pula ialah perayaan menuai kaum Kadazandusun di Sabah, disambut pada 30 dan 31 Mei. Kedua-duanya bersyukur atas hasil tuaian padi, tetapi kaum, ritual dan tarikhnya berbeza."
 
 lang: "ms"
-sourceContentHash: "52699cc827a614d0"
+sourceContentHash: "5a38a61ecb8e6e5a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -156,7 +156,7 @@ Gawai Dayak **diwartakan sebagai cuti umum pada 25 September 1964**, dan disambu
 
 - Baca [Kaamatan](/arts-culture/kaamatan) untuk perayaan menuai Sabah, legenda roh padinya dan pertandingan ratu cantik Unduk Ngadau — perayaan paling hampir dengan Gawai di seberang Laut China Selatan.
 - Lihat [Sarawak](/states/sarawak) bagi negeri yang menjadikan Gawai Dayak sebagai cuti umum, serta kaum yang merayakannya.
-- Rujuk rekod Sarawak Tourism Board dan Tourism Malaysia untuk penjelasan rasmi mengenai susunan acara dan adat perayaan ini.
+- Rujuk rekod Sarawak Tourism Board dan [Tourism Malaysia](/tourism/tourism-malaysia-and-tourism-agencies) untuk penjelasan rasmi mengenai susunan acara dan adat perayaan ini.
 
 ---
 

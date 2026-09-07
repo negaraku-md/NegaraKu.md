@@ -36,7 +36,7 @@ faq:
     a: "程序手册规定主管权威机构应直接与公司或申请人打交道，而不通过第三方或中介（如顾问）。顾问可协助准备文件，但正式申请与沟通仍须由申请人与 JAKIM/MAIN/JAIN 之间直接进行。"
 
 lang: "zh"
-sourceContentHash: "3d0b2acc96b6bf84"
+sourceContentHash: "7bb5b6fb5326f994"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -84,7 +84,7 @@ keywords: ["pensijilan halal Malaysia", "SPHM", "JAKIM halal", "MYeHALAL", "MS 1
 
 ## 在马来西亚，谁才真正签发清真证书？
 
-在马来西亚，认定某产品或服务为清真的权力仅属于**主管权威机构**——即联邦层级的**马来西亚伊斯兰发展局（JAKIM）**，会同州级的**州伊斯兰宗教理事会（MAIN）**与**州伊斯兰宗教局（JAIN）**。
+在马来西亚，认定某产品或服务为清真的权力仅属于**主管权威机构**——即联邦层级的**马来西亚伊斯兰发展局（JAKIM）**，会同州级的**[州伊斯兰宗教理事会](/states/state-islamic-religious-councils)（MAIN）**与**州伊斯兰宗教局（JAIN）**。
 
 这对业者意味着一件重要的事：以*self-declaration*（自我声明）方式，或由任何私人公司签发的清真证书或标志**不获承认**。只有来自 JAKIM/MAIN/JAIN 的 SPHM 才具有法律效力。
 

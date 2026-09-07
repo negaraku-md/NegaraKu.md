@@ -148,7 +148,7 @@ from STPM, which has no such quota.
 Foundation, or Asasi, programmes break the pattern entirely: there is no
 external examination body at all. The offering university designs the
 curriculum, teaches it, and grades it — under the quality framework set by
-the Malaysian Qualifications Agency (MQA), but without a separate national
+the [Malaysian Qualifications Agency](/education/malaysian-qualifications-agency-and-accreditation) (MQA), but without a separate national
 exam council standing between the student and the institution.
 
 That has a direct practical consequence: a foundation programme is built to

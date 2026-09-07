@@ -29,7 +29,7 @@ faq:
     a: "SUKMA is the state stage where youth athletes showcase their talent. Athletes with potential can be promoted to MSN's talent-development and reserve programmes and onward to ISN's Podium Programme, which prepares elite athletes for international games."
 
 lang: "en"
-sourceContentHash: "66f60db59c92db32"
+sourceContentHash: "82263beab0c4a71a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -90,7 +90,7 @@ Unlike other national championships, SUKMA focuses on athletes at the youth leve
 
 The first SUKMA was held in Kuala Lumpur in April 1986. Since then, it has been organised **biennially** — every two years — alternating with the SEA Games, with states taking turns as host.
 
-Its organisation is managed by the **National Sports Council of Malaysia (MSN)** together with the state sports councils, the Malaysian Schools Sports Council (MSSM), the Malaysian Universities Sports Council (MASUM) and the Royal Malaysia Police Sports Council. The latest edition, **SUKMA XXII Selangor 2026**, is scheduled to run from 15 to 24 August 2026. The dedicated games for athletes with disabilities, **Para SUKMA**, is scheduled separately from 5 to 14 September 2026.
+Its organisation is managed by the **[National Sports Council of Malaysia](/sports/national-sports-council-msn) (MSN)** together with the state sports councils, the Malaysian Schools Sports Council (MSSM), the Malaysian Universities Sports Council (MASUM) and the Royal Malaysia Police Sports Council. The latest edition, **SUKMA XXII Selangor 2026**, is scheduled to run from 15 to 24 August 2026. The dedicated games for athletes with disabilities, **Para SUKMA**, is scheduled separately from 5 to 14 September 2026.
 
 ## How does SUKMA feed the elite talent pipeline?
 
@@ -98,7 +98,7 @@ SUKMA sits on the first rung of Malaysia's sports development system. Athletes w
 
 1. **SUKMA** — the state stage for youth athletes to prove themselves.
 2. **MSN's talent-development and reserve programmes** — among them the Talent Programme (Program Bakat) and the Reserve Programme (Program Pelapis), tiered programmes that absorb and hone new talent under MSN.
-3. **The Podium Programme** — the national elite-athlete programme.
+3. **The [Podium Programme](/sports/national-sports-policy-podium-programme)** — the national elite-athlete programme.
 
 The **Podium Programme** was launched on 2 February 2016 under the Ministry of Youth and Sports and is run by the **National Sports Institute (ISN)**. It is designed specifically to prepare elite athletes to achieve world-class performances at major international games such as the Olympic Games, the Asian Games and the Commonwealth Games. Selection of athletes into the Podium Programme is made by ISN based on the selection criteria it sets.
 

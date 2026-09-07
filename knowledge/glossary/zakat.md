@@ -90,7 +90,7 @@ Setiap tahun, jutaan Muslim di Malaysia menyerahkan 2.5% daripada harta mereka b
 
 Zakat ialah rukun Islam keempat: kewajipan menyerahkan kadar tertentu daripada harta seseorang untuk diagihkan kepada golongan yang berhak. Perkataan "zakat" membawa makna penyucian dan pertumbuhan — harta yang dizakatkan disucikan, dan pembayar diingatkan bahawa kekayaan datang dengan tanggungjawab sosial.
 
-Zakat bukan derma sukarela. Ia wajib apabila dua syarat dipenuhi: harta mencapai paras minimum (**nisab**) dan telah dimiliki selama tempoh tertentu (**haul**, lazimnya satu tahun qamari). Kadar asas bagi zakat harta ialah **2.5%** apabila cukup nisab dan haul — sebagai contoh, Majlis Agama Islam Negeri Pulau Pinang (MAINPP) menetapkan kadar 2.5% bagi zakat wang simpanan.
+Zakat bukan derma sukarela. Ia wajib apabila dua syarat dipenuhi: harta mencapai paras minimum (**nisab**) dan telah dimiliki selama tempoh tertentu (**haul**, lazimnya satu tahun qamari). Kadar asas bagi zakat harta ialah **2.5%** apabila cukup nisab dan haul — sebagai contoh, [Majlis Agama Islam Negeri](/states/state-islamic-religious-councils) Pulau Pinang (MAINPP) menetapkan kadar 2.5% bagi zakat wang simpanan.
 
 Terdapat dua kategori besar:
 

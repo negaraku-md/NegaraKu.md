@@ -40,7 +40,7 @@ faq:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "02e19c5efc595753"
+sourceContentHash: "a6367ba8ba6baac1"
 
 status: "published"
 aiAssisted: true
@@ -242,8 +242,8 @@ a single market and shared production base, enabling companies to build
 cross-regional industrial networks and join global supply chains. According to
 the Singapore government's economic education portal (SG101), the AEC opens up
 access to around 600 million consumers in the region. The AEC also serves as
-the foundation for broader trade agreements such as the RCEP (Regional
-Comprehensive Economic Partnership), which integrates ASEAN with partners such
+the foundation for broader trade agreements such as the RCEP ([Regional
+Comprehensive Economic Partnership](/international/malaysia-rcep)), which integrates ASEAN with partners such
 as China, Japan, South Korea, Australia and New Zealand.
 
 ## ASEAN's key bodies: who makes the decisions?

@@ -29,7 +29,7 @@ faq:
     a: "全国体育日是庆典的高潮日。自2019年起，青年及体育部将庆典延伸至整个10月，成为全国体育月（BSN）。"
 
 lang: "zh"
-sourceContentHash: "237f8a401b073b81"
+sourceContentHash: "51f2375791aa9f72"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,7 +77,7 @@ keywords: ["hari sukan negara", "HSN", "bulan sukan negara", "kementerian belia 
 
 全国体育日（HSN）是青年及体育部（KBS）于2015年推出的年度庆典。它在每年10月第二个星期六举行，并于县、州及全国层级同步进行。
 
-与马来西亚运动会（SUKMA）等着重于高绩效运动员的赛事不同，全国体育日是为普通民众而设。它的重点是*全民参与*（mass participation）——让各年龄层、各背景的民众都踊跃参加。
+与[马来西亚运动会](/sports/sukma-games)（SUKMA）等着重于高绩效运动员的赛事不同，全国体育日是为普通民众而设。它的重点是*全民参与*（mass participation）——让各年龄层、各背景的民众都踊跃参加。
 
 ## 它为何存在？
 

@@ -41,7 +41,7 @@ faq:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "61a3deaeaf002f56"
+sourceContentHash: "40747e3f92b37352"
 
 status: "published"
 aiAssisted: true
@@ -194,7 +194,7 @@ keywords: ["Kementerian Kewangan Malaysia", "Ministry of Finance Malaysia", "Per
 | 国民储蓄银行（Bank Simpanan Nasional） | 储蓄银行 |
 | 纳闽金融服务局（Labuan FSA） | 监管纳闽离岸金融中心 |
 | 公共部门房屋融资局（LPPSA） | 公务员房屋贷款 |
-| 浮罗交怡发展局（LADA） | 浮罗交怡区域发展（第423号法令之下的法定机构） |
+| 浮罗交怡发展局（LADA） | [浮罗交怡](/tourism/langkawi-visitor-guide)区域发展（第423号法令之下的法定机构） |
 
 注：浮罗交怡发展局（LADA）依据《1990年浮罗交怡发展局法令》（第423号法令，Akta 423）成立为法定机构。MOF官方门户网站在行政上将其列入「部门」组别，与国库、关税局、会计总长署及JPPH并列；但在法律上它是一个法定机构。
 

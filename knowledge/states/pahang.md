@@ -167,7 +167,7 @@ peratus penduduknya berumur 65 tahun ke atas.
 ## Sebelas daerah, dua pusat
 
 Pahang terbahagi kepada 11 daerah pentadbiran: **Pekan, Kuantan, Rompin, Maran,
-Bera, Jerantut, Temerloh, Raub, Bentong, Lipis** dan **Cameron Highlands**.
+Bera, Jerantut, Temerloh, Raub, Bentong, Lipis** dan **[Cameron Highlands](/tourism/cameron-highlands-visitor-guide)**.
 
 Negeri ini beroperasi dengan dua pusat yang berlainan fungsi. **Kuantan** ialah
 ibu negeri pentadbiran dan lokasi Wisma Sri Pahang, iaitu Pejabat Setiausaha

@@ -31,7 +31,7 @@ faq:
     a: "Producers can market directly to consumers through FAMA channels such as Permanent Farmers' Markets, Agrobazaar, My Farm Outlet and Fresh Fruit Stalls, or take part in programmes such as Contract Farming and RANTAI. Participation details are confirmed at fama.gov.my."
 
 lang: "en"
-sourceContentHash: "6453b76dfd88609b"
+sourceContentHash: "f18be1d4180f5dbb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,7 +77,7 @@ related: []
 keywords: ["FAMA", "Lembaga Pemasaran Pertanian Persekutuan", "Federal Agricultural Marketing Authority", "Akta 141", "pasar tani", "My Farm Outlet", "Agrobazaar", "pemasaran pertanian", "fama.gov.my"]
 ---
 
-A vegetable farmer in the Cameron Highlands may grow the finest produce, yet the
+A vegetable farmer in the [Cameron Highlands](/tourism/cameron-highlands-visitor-guide) may grow the finest produce, yet the
 price received at the farm often differs sharply from the price on a city stall.
 That gap — between farm and plate — is the business of a statutory body whose
 name is rarely mentioned but whose work is often felt.

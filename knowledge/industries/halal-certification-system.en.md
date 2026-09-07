@@ -36,7 +36,7 @@ faq:
     a: "The Procedure Manual stipulates that the competent authority shall deal directly with the company or applicant without going through a third party or intermediary such as a consultant. Consultants may help prepare documents, but the application and official communications remain between the applicant and JAKIM/MAIN/JAIN."
 
 lang: "en"
-sourceContentHash: "3d0b2acc96b6bf84"
+sourceContentHash: "7bb5b6fb5326f994"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -84,7 +84,7 @@ This article explains how that system really works: who issues the certificates,
 
 ## Who really issues halal certificates in Malaysia?
 
-In Malaysia, the power to certify a product or service as halal rests solely with the **competent authorities** — namely the **Department of Islamic Development Malaysia (JAKIM)** at the federal level, together with the **State Islamic Religious Councils (MAIN)** and the **State Islamic Religious Departments (JAIN)** at the state level.
+In Malaysia, the power to certify a product or service as halal rests solely with the **competent authorities** — namely the **Department of Islamic Development Malaysia (JAKIM)** at the federal level, together with the **[State Islamic Religious Councils](/states/state-islamic-religious-councils) (MAIN)** and the **State Islamic Religious Departments (JAIN)** at the state level.
 
 This means one important thing for businesses: halal certificates or logos issued via *self-declaration* or by any private company are **not recognised**. Only an SPHM from JAKIM/MAIN/JAIN is valid in the eyes of the law.
 

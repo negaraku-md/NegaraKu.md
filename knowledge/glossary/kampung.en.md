@@ -22,7 +22,7 @@ appliesTo: "Anyone trying to understand what 'kampung' means beyond its literal 
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "6ceb380a480b9192"
+sourceContentHash: "179d1d79aa799fca"
 
 status: "published"
 aiAssisted: true
@@ -73,7 +73,7 @@ unit**, with a head, a committee, a term of service and official allowances.
 | **Social unit** | A local community bound together by neighbourliness, kenduri (communal feasts), gotong-royong (mutual help) and a surau or balai raya (prayer hall or community hall) |
 | **Administrative unit** | A recognised area under a mukim and District Office, with a Ketua Kampung and an official committee |
 
-This is why someone can say "I'm going balik kampung" (the social, sentimental
+This is why someone can say "I'm going [balik kampung](/glossary/balik-kampung)" (the social, sentimental
 meaning) while a government letter refers to that very same kampung as a
 specific administrative area.
 

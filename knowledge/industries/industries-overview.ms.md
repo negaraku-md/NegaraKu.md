@@ -34,7 +34,7 @@ faq:
     a: "Pada 2024, perkhidmatan menarik RM252.7 bilion pelaburan diluluskan (66.8% daripada jumlah keseluruhan) dan pembuatan RM120.5 bilion (31.8%), daripada rekod RM378.5 bilion secara keseluruhan (MIDA)."
 
 lang: "ms"
-sourceContentHash: "325fab8219fa3591"
+sourceContentHash: "fd46cc26349bd735"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -115,7 +115,7 @@ Enjin utama di dalam perkhidmatan ialah:
 - **Kewangan & insurans** — Kuala Lumpur ialah hab serantau, dan Malaysia ialah pusat global bagi kewangan Islam.
 - **Pengangkutan & penyimpanan** — pelabuhan seperti Pelabuhan Klang dan Tanjung Pelepas, ditambah lapisan logistik yang berkembang pesat menyokong e-dagang.
 - **Maklumat & komunikasi** — segmen yang paling pantas bergerak, ditarik naik oleh awan, pusat data dan perkhidmatan digital.
-- **Pelancongan dan hospitaliti** — penjana pertukaran asing dan majikan yang utama, tertumpu di Kuala Lumpur, Pulau Pinang, Langkawi dan Sabah.
+- **Pelancongan dan hospitaliti** — penjana pertukaran asing dan majikan yang utama, tertumpu di Kuala Lumpur, Pulau Pinang, [Langkawi](/tourism/langkawi-visitor-guide) dan Sabah.
 
 Perkhidmatan menerajui pertumbuhan negara pada 2024 dengan 5.3%, dengan perdagangan borong & runcit, pengangkutan & penyimpanan, serta maklumat & komunikasi disebut oleh DOSM sebagai penyumbang utama. Yang paling penting, perkhidmatan juga merupakan tempat wang mengalir: ia menarik **RM252.7 bilion pelaburan diluluskan pada 2024 — 66.8% daripada jumlah nasional** — didorong sebahagian besarnya oleh ledakan pusat data (MIDA).
 

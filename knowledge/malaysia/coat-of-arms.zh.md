@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "学生、教师、公务员、新闻工作者，以及任何在护照、硬币、政府公函或官方建筑上见过 Jata Negara、并想了解每个元素含义的人。"
 
 lang: "zh"
-sourceContentHash: "20de32f1b32c3504"
+sourceContentHash: "d089f6e067d44f67"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -70,7 +70,7 @@ keywords: ["Jata Negara", "lambang kebangsaan Malaysia", "Bersekutu Bertambah Mu
 
 根据马来西亚新闻部（Jabatan Penerangan Malaysia）的说法，Jata Negara「是马来西亚政府的官方徽章，获马来统治者恩准，并于1952年5月27日宪报颁布」。
 
-随着联邦成员的变化，这个设计已经多次更新。现行生效的版本，是通过日期为1990年9月20日的**《政府宪报 P.U. (B) 563：马来西亚国家徽章规章》**确立的。
+随着联邦成员的变化，这个设计已经多次更新。现行生效的版本，是通过日期为1990年9月20日的**《[政府宪报](/glossary/warta-kerajaan) P.U. (B) 563：马来西亚国家徽章规章》**确立的。
 
 本文纯属描述性质。它依据政府资料记录，陈述每个元素的官方含义，不对任何州属或机构作出比较，并对徽章上的王室相关元素完全保持尊重。
 

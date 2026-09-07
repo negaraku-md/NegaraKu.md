@@ -40,7 +40,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "4f354a706a5751f1"
+sourceContentHash: "89bfb5455655a271"
 
 status: "published"
 aiAssisted: true
@@ -92,7 +92,7 @@ keywords: ["SPA Malaysia", "Suruhanjaya Perkhidmatan Awam", "JPA Malaysia", "Jab
 确认、晋升或纪律处分。另一个则早在委任发生之前，就已经决定了这个职位的
 薪酬、所需的培训，以及这个职位是否应该存在。
 
-这两个机构就是公共服务委员会（SPA）与公共服务局（JPA）。它们很容易被混
+这两个机构就是公共服务委员会（SPA）与[公共服务局](/education/jpa-and-public-scholarships)（JPA）。它们很容易被混
 淆——名称中都有"公共服务"字样，都位处联邦政府中枢附近，处理的也是同一
 批公务员。但它们并不是同一回事。
 

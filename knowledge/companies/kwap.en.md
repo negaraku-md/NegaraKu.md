@@ -29,7 +29,7 @@ faq:
     a: "RM185.6 billion as at 31 December 2024, up from RM169.8 billion (2023) and RM158.1 billion (2022)."
 
 lang: "en"
-sourceContentHash: "094a6af8fca033e1"
+sourceContentHash: "4489ae23d6537356"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -89,7 +89,7 @@ KWAP's three core functions:
 
 ## Who is covered by KWAP?
 
-KWAP covers **Federal civil servants** who are on the government pension scheme — not private-sector employees. Since **2015**, KWAP has taken over the role of the Post-Service Pension Division of the Public Service Department (JPA), and now acts as the **Federal Government's agent** paying pensions, gratuities and other benefits directly to retirees.
+KWAP covers **Federal civil servants** who are on the government pension scheme — not private-sector employees. Since **2015**, KWAP has taken over the role of the Post-Service Pension Division of the [Public Service Department](/education/jpa-and-public-scholarships) (JPA), and now acts as the **Federal Government's agent** paying pensions, gratuities and other benefits directly to retirees.
 
 By 31 December 2024, KWAP was paying pensions to **more than 810,000 recipients**, up about 2.4% (nearly 19,000 people) compared with 2023. This differs from the EPF/KWSP, which is a savings fund for private-sector and non-pensionable public-sector employees.
 

@@ -38,7 +38,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ed174697edaef0ea"
+sourceContentHash: "2716ca2d76a67d28"
 
 status: "published"
 aiAssisted: true
@@ -208,7 +208,7 @@ keywords: ["kuala lumpur", "petronas twin towers", "kl tower", "batu caves", "bu
 
 吉隆坡是全国的交通心脏，这正是众多行程从这里开始并向外辐射的原因。
 
-- **搭飞机：** KLIA 是主要的区域枢纽，拥有飞往槟城、浮罗交怡、亚庇（沙巴）、古晋（砂拉越）及更远地方的频密廉价与全服务航班。
+- **搭飞机：** KLIA 是主要的区域枢纽，拥有飞往槟城、[浮罗交怡](/tourism/langkawi-visitor-guide)、亚庇（沙巴）、古晋（砂拉越）及更远地方的频密廉价与全服务航班。
 - **搭火车：** KL Sentral 是全国 KTM 网络的换乘站，包括现代化的 **ETS** 城际列车——向北经怡保、槟城（北海）直达泰国边境，向南通往柔佛。
 - **搭长途巴士：** 从吉隆坡各巴士总站发出的班车服务覆盖广泛，几乎通往西马半岛的每一座城镇——往往是最便宜的出行方式。
 

@@ -29,7 +29,7 @@ faq:
     a: "根据法律摘要，贿赂罪可判处最高20年监禁，以及不少于贿赂价值五倍或RM10,000（以较高者为准）的罚款。此细节仍需对照该法令全文重新核实。"
 
 lang: "zh"
-sourceContentHash: "a94c909aa325984c"
+sourceContentHash: "602c70742033a7cb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -112,7 +112,7 @@ keywords: ["pengaturan perlawanan", "match-fixing", "pertaruhan sukan", "Akta Ru
 
 马来西亚框架的一个重要特征就在于此：这个国家**没有一项名为"操纵比赛"的单独专门罪名**。相反，操纵比赛结果的行为通常会援引一般刑事法律加以检控。
 
-主要的法律工具是**《2009年马来西亚反贪污委员会法令》**（反贪会法令，Akta 694），于2009年1月1日开始生效。该法令设立了索取、收受或给予"suapan"（贿赂，*gratification*）的罪行——涵盖金钱与非金钱形式——作为一种诱因或酬劳。基本罪行载于**第16条**（Seksyen 16）与**第17条**（Seksyen 17）。
+主要的法律工具是**《2009年[马来西亚反贪污委员会](/glossary/suruhanjaya-pencegahan-rasuah-malaysia)法令》**（反贪会法令，Akta 694），于2009年1月1日开始生效。该法令设立了索取、收受或给予"suapan"（贿赂，*gratification*）的罪行——涵盖金钱与非金钱形式——作为一种诱因或酬劳。基本罪行载于**第16条**（Seksyen 16）与**第17条**（Seksyen 17）。
 
 根据法律摘要，个人贿赂罪的刑罚可达**最高20年监禁**，以及**不少于贿赂价值五倍或RM10,000（以较高者为准）的罚款**。当某位球员或官员为影响比赛结果而收受犯罪分子的付款时，正是在这一框架下被当作收受贿赂来处理。
 

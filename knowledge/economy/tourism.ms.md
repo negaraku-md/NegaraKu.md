@@ -23,7 +23,7 @@ appliesTo: "Penganalisis, wartawan, pelajar, pelabur dan pengendali yang perlu m
 seoTitle: "Statistik Pelancongan Malaysia: Ketibaan lawan Perolehan"
 
 lang: "ms"
-sourceContentHash: "272e6d798eec0f81"
+sourceContentHash: "396de79b31be6ee8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -104,7 +104,7 @@ membawa angka utama. Kuncinya ialah mengetahui untuk mencarinya.
 
 | Ukuran | Angka rasmi terkini | Tempoh | Sumber |
 | --- | --- | --- | --- |
-| Ketibaan **pelawat** asing | 37,961,485 (+31.1%) | 2024 | Tourism Malaysia |
+| Ketibaan **pelawat** asing | 37,961,485 (+31.1%) | 2024 | [Tourism Malaysia](/tourism/tourism-malaysia-and-tourism-agencies) |
 | **Perbelanjaan** pelawat asing | RM106,783.11 juta (+43.7%) | 2024 | Tourism Malaysia |
 | Nilai Ditambah Kasar industri pelancongan | RM291.9 bilion — 15.1% KDNK | 2024 | DOSM TSA |
 | KDNK **langsung** pelancongan | RM120.3 bilion — 6.2% KDNK | 2024 | DOSM TSA |

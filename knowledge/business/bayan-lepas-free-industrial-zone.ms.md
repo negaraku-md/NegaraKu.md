@@ -47,7 +47,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "3111f02a842dda23"
+sourceContentHash: "6475dc27ed25022d"
 
 status: "published"
 aiAssisted: true
@@ -144,7 +144,7 @@ takrif-takrifnya:
 | Peraturan keluar | Hanya **untuk eksport**, atau ke FCZ dengan kelulusan Pihak Berkuasa (s.8(1)) | Ditadbir oleh s.5 |
 
 Segala-galanya yang lain ialah **kawasan kastam utama** (PCA) — s.2 mentakrifkannya sebagai mana-mana bahagian
-Malaysia tidak termasuk zon bebas, Labuan, Langkawi, Tioman dan Pangkor.
+Malaysia tidak termasuk zon bebas, Labuan, [Langkawi](/tourism/langkawi-visitor-guide), Tioman dan Pangkor.
 
 Di bawah **s.4**, barang boleh dibawa masuk, dihasilkan atau dikilangkan di dalam zon bebas *tanpa
 bayaran apa-apa duti kastam atau duti eksais*. Fahamkan ini sebagai suatu **bukan pengenaan** dan bukan suatu

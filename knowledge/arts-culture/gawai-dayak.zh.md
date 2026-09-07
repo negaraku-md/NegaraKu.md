@@ -35,7 +35,7 @@ faq:
     a: "两者是主题相近但各自独立的节日。达雅节是砂拉越达雅族的丰收节，于6月1日及2日举行。丰收节（Kaamatan）则是沙巴卡达山—杜顺族（Kadazandusun）的丰收节，于5月30日及31日举行。两者都感谢稻米丰收，但庆祝的族群、仪式与日期各不相同。"
 
 lang: "zh"
-sourceContentHash: "52699cc827a614d0"
+sourceContentHash: "5a38a61ecb8e6e5a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -156,7 +156,7 @@ keywords: ["Gawai Dayak", "Hari Gawai", "harvest festival Sarawak", "Dayak", "Ib
 
 - 阅读[丰收节（Kaamatan）](/zh/arts-culture/kaamatan)，了解沙巴的丰收节、其稻米精灵传说与 Unduk Ngadau 选美——南中国海对岸与达雅节最相近的节日。
 - 参阅[砂拉越](/zh/states/sarawak)，了解这个将达雅节列为公共假期的州属，以及庆祝此节日的族群。
-- 参考 Sarawak Tourism Board 与 Tourism Malaysia 的记录，以获取此节庆仪式次序与习俗的官方说明。
+- 参考 Sarawak Tourism Board 与 [Tourism Malaysia](/tourism/tourism-malaysia-and-tourism-agencies) 的记录，以获取此节庆仪式次序与习俗的官方说明。
 
 ---
 

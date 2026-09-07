@@ -84,7 +84,7 @@ Sebuah gelanggang berbumbung panjang di pinggir Nilai kini menjadi tempat penung
 
 ## Mengapa Malaysia membina Velodrom Nasional di Nilai?
 
-Velodrom Nasional Malaysia terletak di Persiaran Perbandaran, 71800 Nilai, Negeri Sembilan, dan diuruskan oleh Majlis Sukan Negara Malaysia. Ia dibina sebagai velodrom dalaman pertama di Asia Tenggara, memberi jurulatih dan atlet sebuah kemudahan bertutup yang membolehkan latihan berterusan tanpa bergantung pada cuaca.
+Velodrom Nasional Malaysia terletak di Persiaran Perbandaran, 71800 Nilai, Negeri Sembilan, dan diuruskan oleh [Majlis Sukan Negara Malaysia](/sports/national-sports-council-msn). Ia dibina sebagai velodrom dalaman pertama di Asia Tenggara, memberi jurulatih dan atlet sebuah kemudahan bertutup yang membolehkan latihan berterusan tanpa bergantung pada cuaca.
 
 Gelanggang ini menjadi hab utama lumba basikal trek negara, menggantikan velodrom lama yang lebih terdedah dan usang. Dengan kemudahan bertaraf antarabangsa, ia menjadi pusat latihan dan pertandingan bagi pasukan kebangsaan.
 

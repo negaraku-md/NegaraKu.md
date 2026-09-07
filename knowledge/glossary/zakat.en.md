@@ -32,7 +32,7 @@ faq:
     a: "To a religious authority established under written law — that is, your state zakat board or centre — and keep the receipt. Payments to individuals or private funds do not qualify for the rebate."
 
 lang: "en"
-sourceContentHash: "308c4e87390d1b84"
+sourceContentHash: "0477b9f160c18e84"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,7 +91,7 @@ Every year, millions of Muslims in Malaysia surrender 2.5% of their wealth not t
 
 Zakat is the fourth pillar of Islam: the obligation to surrender a fixed proportion of one's wealth for distribution to those who are entitled to it. The word "zakat" carries the meaning of purification and growth — the wealth on which zakat is paid is purified, and the payer is reminded that wealth comes with a social responsibility.
 
-Zakat is not a voluntary donation. It becomes obligatory when two conditions are met: the wealth reaches a minimum threshold (**nisab**) and has been held for a set period (**haul**, usually one lunar year). The base rate for zakat on wealth is **2.5%** once the nisab and haul are met — for example, the Penang State Islamic Religious Council (MAINPP) sets a rate of 2.5% for zakat on savings.
+Zakat is not a voluntary donation. It becomes obligatory when two conditions are met: the wealth reaches a minimum threshold (**nisab**) and has been held for a set period (**haul**, usually one lunar year). The base rate for zakat on wealth is **2.5%** once the nisab and haul are met — for example, the Penang [State Islamic Religious Council](/states/state-islamic-religious-councils) (MAINPP) sets a rate of 2.5% for zakat on savings.
 
 There are two broad categories:
 

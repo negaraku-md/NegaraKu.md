@@ -36,7 +36,7 @@ faq:
     a: "Yes. Halal certification focuses on the compliance of the product, ingredients and processes with the requirements of MS 1500 and MPPHM, not on the religion of the owner. Companies owned by non-Muslims can and many do apply for and obtain the Malaysia Halal Confirmation Certificate."
 
 lang: "en"
-sourceContentHash: "cadff73833cd74a7"
+sourceContentHash: "f2b9c9a9d90925a7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -93,7 +93,7 @@ The Malaysia Halal Confirmation Certificate (SPHM) is official confirmation that
 What distinguishes the JAKIM certificate from a self-made "halal" claim is three things:
 
 - **It rests on a written standard.** Audits are conducted according to the national MS 1500 standard and the Malaysia Halal Certification Procedure Manual (MPPHM), not arbitrary judgement.
-- **It is issued by an authority appointed by law.** Only JAKIM, the State Islamic Religious Councils (MAIN) and the State Islamic Religious Departments (JAIN) have the authority to issue it.
+- **It is issued by an authority appointed by law.** Only JAKIM, the [State Islamic Religious Councils](/states/state-islamic-religious-councils) (MAIN) and the State Islamic Religious Departments (JAIN) have the authority to issue it.
 - **It can be checked publicly.** Every certificate carries a unique number and an expiry date that anyone can verify through the official database.
 
 For consumers, an official certificate means halal status is grounded in an audit and a written standard, not merely a claim on a label.

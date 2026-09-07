@@ -25,7 +25,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "983ceb6ac71f6d39"
+sourceContentHash: "dec278a4f731f767"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -151,7 +151,7 @@ IPTS院校完全独立于UPU之外。每所院校都自行设有招生办公室�
 这个细节，比IPTA/IPTS这个标签本身更为关键，却也是大多数比较文章最常略过
 的一点。
 
-**大马学术资格鉴定机构（Malaysian Qualifications Agency，MQA）**是根据
+**[大马学术资格鉴定机构](/education/malaysian-qualifications-agency-and-accreditation)（Malaysian Qualifications Agency，MQA）**是根据
 **Malaysian Qualifications Agency Act 2007（Act 679）**设立的法定机构。其
 职责是执行**大马学术资格鉴定框架（Malaysian Qualifications Framework，
 MQF）**——作为学历等级与标准的国家参照基准——并对个别学术**课程**进行认

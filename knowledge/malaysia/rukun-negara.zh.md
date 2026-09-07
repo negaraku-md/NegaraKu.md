@@ -22,7 +22,7 @@ appliesTo: "学生、教师、公务员，以及任何需要根据档案记录�
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "df41bd237a0646a3"
+sourceContentHash: "b7cede975bcf8a6f"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -115,7 +115,7 @@ keywords: ["Rukun Negara", "lima prinsip Rukun Negara", "ikrar Rukun Negara", "M
 | 1970年5月17日 | 国家原则委员会第二次会议——逐段审阅草案 |
 | 1970年6月16日至18日 | 草案经辩论后，在附带修正的情况下获接纳 |
 | 1970年8月11日至13日 | 马来文与英文框架文本经数项修正后获批准 |
-| 1970年8月31日 | 御诏颁布；并于同日刊登于政府宪报 |
+| 1970年8月31日 | 御诏颁布；并于同日刊登于[政府宪报](/glossary/warta-kerajaan) |
 
 国家原则委员会由敦陈修信（Tun Tan Siew Sin）出任主席。委员包括 Dato Harun bin Idris、Tan Sri Mohamed Ghazali bin Shafie、Profesor Dr. Syed Hussein Alatas、Dato Athi Nahappan、Puan Aishah binti Haji Abdul Ghani、Haji Hassan Adli bin Haji Arshad、Leonard Linggi Anak Jugah、Abdullah bin Dato Abdul Rahman、Kamarul Ariffin、Teh Thean Choo 与 Lee Siew Yee。
 

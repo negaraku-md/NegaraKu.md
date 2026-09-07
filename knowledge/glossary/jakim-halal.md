@@ -95,7 +95,7 @@ Bagi pengguna Muslim, tanda itu berfungsi sebagai penanda pengesahan rasmi. Bagi
 Di Malaysia, pensijilan halal bukan urusan pasaran bebas. Hanya dua peringkat badan berkuasa yang diiktiraf mengeluarkan **Sijil Pengesahan Halal Malaysia (SPHM)**:
 
 - **JAKIM (Jabatan Kemajuan Islam Malaysia)** — di peringkat persekutuan.
-- **Majlis Agama Islam Negeri (MAIN) / Jabatan Agama Islam Negeri (JAIN)** — di peringkat negeri masing-masing.
+- **[Majlis Agama Islam Negeri](/states/state-islamic-religious-councils) (MAIN) / Jabatan Agama Islam Negeri (JAIN)** — di peringkat negeri masing-masing.
 
 Tiada persatuan swasta, syarikat perunding, atau badan bukan kerajaan yang boleh mengeluarkan sijil halal rasmi dalam negara. Ini membezakan Malaysia daripada banyak negara lain di mana pelbagai badan swasta bersaing mengeluarkan sijil.
 

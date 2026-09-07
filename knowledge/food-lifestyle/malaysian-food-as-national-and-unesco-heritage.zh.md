@@ -30,7 +30,7 @@ faq:
     a: "是的。它是遗产专员于2024年2月23日宪报公布为国家遗产实物的10道菜肴之一。"
 
 lang: "zh"
-sourceContentHash: "8940b708b107b9b5"
+sourceContentHash: "99f9a99ac9dc7cef"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,7 +91,7 @@ keywords: ["makanan warisan kebangsaan", "budaya sarapan Malaysia UNESCO", "bak 
 
 ## "国家遗产"与"联合国教科文组织遗产"有何区别？
 
-前者是国内的决定。国家遗产局（JWN），隶属旅游、艺术与文化部，通过遗产专员依据《2005年国家遗产法令》（第645号法令）将某道菜肴宣布为**国家遗产**实物。该宣布会在政府宪报（Warta Kerajaan）上公布。
+前者是国内的决定。国家遗产局（JWN），隶属旅游、艺术与文化部，通过遗产专员依据《2005年国家遗产法令》（第645号法令）将某道菜肴宣布为**国家遗产**实物。该宣布会在[政府宪报](/glossary/warta-kerajaan)（Warta Kerajaan）上公布。
 
 后者是国际认可。联合国教科文组织通过其政府间委员会的投票，将文化实践列入《非物质文化遗产保护公约》下的名录——这是一套与国内登记完全独立的流程。该公约拥有不止一份名录；马来西亚的多数元素位于**代表作名录**，而其中一项（玛蓉舞剧 Mek Mulung，2023年）位于**急需保护名录**。
 

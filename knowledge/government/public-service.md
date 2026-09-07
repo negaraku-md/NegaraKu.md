@@ -102,7 +102,7 @@ and both deal with the same civil servants. They are not the same thing.
 
 | | SPA | JPA |
 | --- | --- | --- |
-| Full name | Suruhanjaya Perkhidmatan Awam (Public Services Commission) | Jabatan Perkhidmatan Awam (Public Service Department) |
+| Full name | Suruhanjaya Perkhidmatan Awam (Public Services Commission) | [Jabatan Perkhidmatan Awam](/education/jpa-and-public-scholarships) (Public Service Department) |
 | What it is | Constitutional commission | Administrative department |
 | Legal basis | Article 144(1), Federal Constitution | Not a constitutional body — an executive department |
 | Established | 31 August 1957 | Traces to 1934; took the name JPA on 15 August 1968 |

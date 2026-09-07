@@ -190,7 +190,7 @@ Ini bermakna dua lapisan wujud serentak:
 
 - **Peringkat persekutuan** — JAKIM sebagai penyelaras, urus setia MKI, dan
   pihak berkuasa halal persekutuan.
-- **Peringkat negeri** — majlis agama Islam negeri (MAIN) dan jabatan agama
+- **Peringkat negeri** — [majlis agama Islam negeri](/states/state-islamic-religious-councils) (MAIN) dan jabatan agama
   Islam negeri (JAIN) yang mentadbir undang-undang Islam dalam wilayah masing-
   masing.
 

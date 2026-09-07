@@ -29,7 +29,7 @@ faq:
     a: "阿兹祖哈斯尼·阿旺（Azizulhasni Awang），两枚奥运奖牌得主（2016年铜牌、2020年银牌）及2017年凯林赛世界冠军。"
 
 lang: "zh"
-sourceContentHash: "0a92699bc2978b93"
+sourceContentHash: "490abb68b2e39c44"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,7 +85,7 @@ keywords: ["velodrom nasional", "Nilai", "lumba basikal trek", "keirin", "Azizul
 
 ## 马来西亚为何在汝来兴建国家自行车馆？
 
-马来西亚国家自行车馆位于森美兰州汝来（71800 Nilai）的Persiaran Perbandaran，由马来西亚国家体育理事会（Majlis Sukan Negara）管理。它作为东南亚首座室内自行车馆而建，为教练和运动员提供了一座封闭式设施，使训练得以持续进行，不必依赖天气。
+马来西亚国家自行车馆位于森美兰州汝来（71800 Nilai）的Persiaran Perbandaran，由[马来西亚国家体育理事会](/sports/national-sports-council-msn)（Majlis Sukan Negara）管理。它作为东南亚首座室内自行车馆而建，为教练和运动员提供了一座封闭式设施，使训练得以持续进行，不必依赖天气。
 
 这座场馆成为国家场地自行车的主要枢纽，取代了更为暴露、且已陈旧的旧自行车馆。凭借国际水准的设施，它成为国家队的训练与比赛中心。
 

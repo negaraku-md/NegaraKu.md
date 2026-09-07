@@ -193,7 +193,7 @@ Struktur Kementerian Kewangan terbahagi kepada **jabatan** yang merupakan sebaha
 | Bank Simpanan Nasional | Bank simpanan |
 | Lembaga Perkhidmatan Kewangan Labuan (Labuan FSA) | Kawal selia pusat kewangan luar pesisir Labuan |
 | Lembaga Pembiayaan Perumahan Sektor Awam (LPPSA) | Pinjaman perumahan penjawat awam |
-| Lembaga Pembangunan Langkawi (LADA) | Pembangunan wilayah Langkawi (badan berkanun di bawah Akta 423) |
+| Lembaga Pembangunan Langkawi (LADA) | Pembangunan wilayah [Langkawi](/tourism/langkawi-visitor-guide) (badan berkanun di bawah Akta 423) |
 
 Nota: Lembaga Pembangunan Langkawi (LADA) ditubuhkan sebagai badan berkanun di bawah Akta Lembaga Pembangunan Langkawi 1990 (Akta 423). Portal rasmi MOF menyenaraikannya secara pentadbiran dalam kumpulan "Jabatan" bersama Perbendaharaan, Kastam, Jabatan Akauntan Negara dan JPPH; dari segi undang-undang ia sebuah badan berkanun.
 

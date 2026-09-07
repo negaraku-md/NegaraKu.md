@@ -32,7 +32,7 @@ faq:
     a: "The Federal Territories Department (JWP) under the Prime Minister's Department coordinates policy and development across the three territories at the federal level, whereas DBKL, Putrajaya Corporation and Labuan Corporation are the local authorities that carry out day-to-day matters such as licensing, town planning and municipal services in their respective territories."
 
 lang: "en"
-sourceContentHash: "d7f746970790659a"
+sourceContentHash: "5739f9cd1afe168b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -99,7 +99,7 @@ That is why a Kuala Lumpur resident votes for a Member of Parliament but never v
 
 A Federal Territory is an area placed under the direct administration of the Federal Government and not under any state government. Malaysia has three: Kuala Lumpur, Putrajaya and Labuan.
 
-All three were originally part of a state. Article 1(4) of the Federal Constitution makes clear that the territory of the State of Selangor **excludes** the Federal Territory of Kuala Lumpur (established through the *Constitution (Amendment) (No. 2) Act 1973* [Act A206]) and the Federal Territory of Putrajaya (*Constitution (Amendment) Act 2001* [Act A1095]); while the territory of the State of Sabah **excludes** the Federal Territory of Labuan (*Constitution (Amendment) (No. 2) Act 1984* [Act A585]). The same Article affirms that "all such Federal Territories shall be territories of the Federation."
+All three were originally part of a state. Article 1(4) of the Federal Constitution makes clear that the territory of the State of Selangor **excludes** the Federal Territory of Kuala Lumpur (established through the *Constitution (Amendment) (No. 2) Act 1973* [Act A206]) and the [Federal Territory of Putrajaya](/states/putrajaya) (*Constitution (Amendment) Act 2001* [Act A1095]); while the territory of the State of Sabah **excludes** the Federal Territory of Labuan (*Constitution (Amendment) (No. 2) Act 1984* [Act A585]). The same Article affirms that "all such Federal Territories shall be territories of the Federation."
 
 According to the Federal Territories Department, each territory was formed for a specific role: **Kuala Lumpur** as the national capital, **Putrajaya** as the Federal Administrative Centre, and **Labuan** as the International Business and Financial Centre. Kuala Lumpur was declared a Federal Territory in 1974, Labuan in 1984, and Putrajaya in 2001.
 

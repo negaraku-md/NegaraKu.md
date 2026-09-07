@@ -92,7 +92,7 @@ This is where nationality does the work. Under the **Tourism Tax (Exemption) Ord
 
 Everyone else — foreign tourists, expatriates, business travellers on any passport — pays the RM10. In practice the split at the counter is simple: show a Malaysian IC or MyPR card and the line disappears; show a foreign passport and it stays.
 
-The exemption is by person, not by property. A five-star resort in Langkawi and a budget inn in Ipoh apply the identical rule, because the flat rate and the exemption both attach to the guest, not the grade of hotel.
+The exemption is by person, not by property. A five-star resort in [Langkawi](/tourism/langkawi-visitor-guide) and a budget inn in Ipoh apply the identical rule, because the flat rate and the exemption both attach to the guest, not the grade of hotel.
 
 ## Which operators actually have to collect it?
 

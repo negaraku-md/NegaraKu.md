@@ -143,7 +143,7 @@ definitions:
 | Exit rule | Only **for export**, or to an FCZ with the Authority's approval (s.8(1)) | Governed by s.5 |
 
 Everything else is the **principal customs area** (PCA) — s.2 defines it as any part of
-Malaysia excluding a free zone, Labuan, Langkawi, Tioman and Pangkor.
+Malaysia excluding a free zone, Labuan, [Langkawi](/tourism/langkawi-visitor-guide), Tioman and Pangkor.
 
 Under **s.4**, goods may be brought into, produced or manufactured in a free zone *without
 payment of any customs duty or excise duty*. Read that as a **non-imposition** rather than an

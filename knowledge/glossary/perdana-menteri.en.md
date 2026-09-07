@@ -34,7 +34,7 @@ faq:
     a: "As it stands, the Constitution does not limit the term. In 2026, a Constitutional amendment bill was proposed to limit the Prime Minister's tenure to an aggregate of ten years; the final status of that amendment should be checked against official sources."
 
 lang: "en"
-sourceContentHash: "7c586fa1349511b6"
+sourceContentHash: "a4359d9c03eadb4d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -216,7 +216,7 @@ Under the text of the Constitution in force, there is **no term limit** for the 
 
 However, this is being reconsidered. In 2026, a **Federal Constitution (Amendment) Bill** was proposed to limit the Prime Minister's tenure to an **aggregate of ten years** — whether served continuously or not. The proposal introduces new subclauses to Article 43 (among them subclauses (2A) and (4A)–(4D)) providing that a Prime Minister appointed under Article 43(2)(a) shall not hold office for a period amounting in aggregate to ten years. According to the official verbatim text, the government framed it as strengthening the institution — the speech stated: "In the genealogy of democracy, the maturity of a nation has never been measured by how long a person holds the reins of power." The blueprint was distributed to Members of Parliament on 23 February 2026 and the second reading was on 2 March 2026.
 
-Because a constitutional amendment requires a two-thirds majority of the Dewan Rakyat and the Dewan Negara, the final status of this proposal should be checked against official sources (the Government Gazette / AGC) before being treated as law in force.
+Because a constitutional amendment requires a two-thirds majority of the Dewan Rakyat and the Dewan Negara, the final status of this proposal should be checked against official sources (the [Government Gazette](/glossary/warta-kerajaan) / AGC) before being treated as law in force.
 
 ## Common misconceptions about the office of Prime Minister
 

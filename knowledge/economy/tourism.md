@@ -102,7 +102,7 @@ to look for it.
 
 | Measure | Latest official figure | Period | Source |
 | --- | --- | --- | --- |
-| Foreign **visitor** arrivals | 37,961,485 (+31.1%) | 2024 | Tourism Malaysia |
+| Foreign **visitor** arrivals | 37,961,485 (+31.1%) | 2024 | [Tourism Malaysia](/tourism/tourism-malaysia-and-tourism-agencies) |
 | Foreign visitor **expenditure** | RM106,783.11 million (+43.7%) | 2024 | Tourism Malaysia |
 | GVA of tourism industries | RM291.9 billion — 15.1% of GDP | 2024 | DOSM TSA |
 | Tourism **direct** GDP | RM120.3 billion — 6.2% of GDP | 2024 | DOSM TSA |

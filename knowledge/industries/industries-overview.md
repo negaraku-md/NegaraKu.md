@@ -114,7 +114,7 @@ The main engines inside services are:
 - **Finance & insurance** — Kuala Lumpur is a regional hub, and Malaysia is a global centre for Islamic finance.
 - **Transportation & storage** — ports like Port Klang and Tanjung Pelepas, plus a fast-growing logistics layer feeding e-commerce.
 - **Information & communication** — the fastest-moving segment, pulled upward by cloud, data centres and digital services.
-- **Tourism and hospitality** — a major foreign-exchange earner and employer, concentrated in Kuala Lumpur, Penang, Langkawi and Sabah.
+- **Tourism and hospitality** — a major foreign-exchange earner and employer, concentrated in Kuala Lumpur, Penang, [Langkawi](/tourism/langkawi-visitor-guide) and Sabah.
 
 Services led national growth in 2024 at 5.3%, with wholesale & retail trade, transportation & storage, and information & communication cited by DOSM as the key contributors. Crucially, services is also where the money is going: it captured **RM252.7 billion of approved investment in 2024 — 66.8% of the national total** — driven heavily by the data-centre boom (MIDA).
 

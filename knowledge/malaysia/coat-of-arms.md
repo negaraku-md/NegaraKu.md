@@ -69,7 +69,7 @@ Sebenarnya Jata Negara ialah sebuah peta — bukan peta geografi, tetapi peta su
 
 Menurut Jabatan Penerangan Malaysia, Jata Negara "merupakan lambang rasmi kerajaan Malaysia yang telah diperkenankan oleh Raja-Raja Melayu dan diwartakan pada 27 Mei 1952."
 
-Reka bentuk itu telah dikemas kini beberapa kali apabila anggota Persekutuan berubah. Versi yang berkuat kuasa sehingga kini ditetapkan melalui **Warta Kerajaan P.U. (B) 563: Statut-Statut Lambang Negara Malaysia** bertarikh 20 September 1990.
+Reka bentuk itu telah dikemas kini beberapa kali apabila anggota Persekutuan berubah. Versi yang berkuat kuasa sehingga kini ditetapkan melalui **[Warta Kerajaan](/glossary/warta-kerajaan) P.U. (B) 563: Statut-Statut Lambang Negara Malaysia** bertarikh 20 September 1990.
 
 Artikel ini bersifat deskriptif. Ia menyatakan maksud rasmi setiap elemen seperti yang dirakamkan sumber kerajaan, tanpa membandingkan mana-mana negeri atau institusi, dan dengan hormat sepenuhnya kepada elemen diraja pada jata.
 

@@ -22,7 +22,7 @@ appliesTo: "Students, teachers, civil servants and anyone who needs to refer to 
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "df41bd237a0646a3"
+sourceContentHash: "b7cede975bcf8a6f"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -115,7 +115,7 @@ Rukun Negara is a product of that council. It is not an Act of Parliament and no
 | 17 May 1970 | Second meeting of the Rukun Negara Committee — draft reviewed paragraph by paragraph |
 | 16–18 Jun 1970 | Draft debated and accepted subject to amendments |
 | 11–13 Aug 1970 | Malay- and English-language drafts approved with several amendments |
-| 31 Aug 1970 | Royal Proclamation; gazetted in the Government Gazette on the same date |
+| 31 Aug 1970 | Royal Proclamation; gazetted in the [Government Gazette](/glossary/warta-kerajaan) on the same date |
 
 The Rukun Negara Committee was chaired by Tun Tan Siew Sin. Its members included Dato Harun bin Idris, Tan Sri Mohamed Ghazali bin Shafie, Professor Dr. Syed Hussein Alatas, Dato Athi Nahappan, Puan Aishah binti Haji Abdul Ghani, Haji Hassan Adli bin Haji Arshad, Leonard Linggi Anak Jugah, Abdullah bin Dato Abdul Rahman, Kamarul Ariffin, Teh Thean Choo and Lee Siew Yee.
 

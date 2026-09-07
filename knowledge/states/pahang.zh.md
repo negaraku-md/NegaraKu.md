@@ -43,7 +43,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "2490aabbff80d3a8"
+sourceContentHash: "da77a92f707cbcd4"
 
 status: "published"
 aiAssisted: true
@@ -162,7 +162,7 @@ keywords: ["Pahang", "Pahang Darul Makmur", "Kuantan", "Pekan bandar diraja", "S
 
 彭亨划分为11个行政县：**北根（Pekan）、关丹（Kuantan）、劳勿（Rompin）、
 文冬（Maran）、比劳（Bera）、珍德本（Jerantut）、淡马鲁（Temerloh）、劳勿
-（Raub）、文冬（Bentong）、立卑（Lipis）**与**金马仑高原（Cameron
+（Raub）、文冬（Bentong）、立卑（Lipis）**与**[金马仑高原](/tourism/cameron-highlands-visitor-guide)（Cameron
 Highlands）**。
 
 该州以两个功能不同的中心运作。**关丹**是行政州府，也是彭亨州务大臣署

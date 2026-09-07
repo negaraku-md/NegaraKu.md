@@ -34,7 +34,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "900283de9a700645"
+sourceContentHash: "6d18558cf5584f81"
 
 status: "published"
 aiAssisted: true
@@ -92,7 +92,7 @@ keywords: ["MACC", "SPRM", "Suruhanjaya Pencegahan Rasuah Malaysia", "MACC Act 2
 
 | | |
 | --- | --- |
-| 全称 | Suruhanjaya Pencegahan Rasuah Malaysia / Malaysian Anti-Corruption Commission |
+| 全称 | [Suruhanjaya Pencegahan Rasuah Malaysia](/glossary/suruhanjaya-pencegahan-rasuah-malaysia) / Malaysian Anti-Corruption Commission |
 | 设立法源 | Malaysian Anti-Corruption Commission Act 2009 (Act 694)，第4条 |
 | 御准 / 宪报刊登日期 | 2009年1月6日 / 2009年1月8日 |
 | 生效日期 | 2009年1月1日 |

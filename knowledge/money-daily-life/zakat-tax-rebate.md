@@ -102,7 +102,7 @@ Dalam kedua-dua kes, zakat tetap ditunaikan sepenuhnya sebagai kewajipan agama; 
 
 ## Kepada siapa zakat perlu dibayar supaya layak?
 
-Syarat kunci Seksyen 6A(3) ialah resit daripada pihak berkuasa agama yang ditubuhkan di bawah undang-undang bertulis. Dalam konteks Malaysia, ini merujuk kepada badan zakat rasmi setiap negeri, seperti Majlis Agama Islam Negeri atau Lembaga/Pusat Zakat negeri masing-masing.
+Syarat kunci Seksyen 6A(3) ialah resit daripada pihak berkuasa agama yang ditubuhkan di bawah undang-undang bertulis. Dalam konteks Malaysia, ini merujuk kepada badan zakat rasmi setiap negeri, seperti [Majlis Agama Islam Negeri](/states/state-islamic-religious-councils) atau Lembaga/Pusat Zakat negeri masing-masing.
 
 Teks Seksyen 6A(3) menyebut "zakat, fitrah atau apa-apa bayaran agama Islam lain yang wajib". Bayaran seperti zakat pendapatan, zakat perniagaan (bagi individu) dan zakat fitrah lazimnya tergolong dalam kategori ini — selagi ia bayaran wajib dan disokong resit sah. Sama ada sesuatu bentuk zakat lain dianggap "wajib" untuk tujuan rebat bergantung pada tafsiran pihak berkuasa agama dan amalan LHDN.
 

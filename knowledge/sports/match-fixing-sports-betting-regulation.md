@@ -111,7 +111,7 @@ Keputusan itu bermakna operasi perjudian maya boleh melanggar Akta 1953 walaupun
 
 Di sinilah wujud satu ciri penting rangka kerja Malaysia: negara ini **tidak mempunyai satu kesalahan berasingan yang khusus dinamakan "pengaturan perlawanan"**. Sebaliknya, perbuatan mengatur keputusan perlawanan lazimnya didakwa menggunakan undang-undang jenayah umum.
 
-Instrumen utama ialah **Akta Suruhanjaya Pencegahan Rasuah Malaysia 2009** (Akta SPRM, Akta 694), yang mula berkuat kuasa pada 1 Januari 2009. Akta ini mewujudkan kesalahan meminta, menerima atau memberi "suapan" (*gratification*) — meliputi bentuk wang dan bukan wang — sebagai dorongan atau upah. Kesalahan asas terkandung dalam **Seksyen 16** dan **Seksyen 17**.
+Instrumen utama ialah **Akta [Suruhanjaya Pencegahan Rasuah Malaysia](/glossary/suruhanjaya-pencegahan-rasuah-malaysia) 2009** (Akta SPRM, Akta 694), yang mula berkuat kuasa pada 1 Januari 2009. Akta ini mewujudkan kesalahan meminta, menerima atau memberi "suapan" (*gratification*) — meliputi bentuk wang dan bukan wang — sebagai dorongan atau upah. Kesalahan asas terkandung dalam **Seksyen 16** dan **Seksyen 17**.
 
 Mengikut ringkasan undang-undang, hukuman bagi kesalahan suapan individu boleh mencapai **penjara sehingga 20 tahun** dan **denda tidak kurang lima kali nilai suapan atau RM10,000, yang mana lebih tinggi**. Apabila seseorang pemain atau pegawai menerima bayaran daripada penjenayah untuk mempengaruhi keputusan perlawanan, ia dilayan sebagai penerimaan suapan di bawah rangka kerja inilah.
 

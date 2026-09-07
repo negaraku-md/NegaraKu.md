@@ -29,7 +29,7 @@ faq:
     a: "HSN is the highlight day of the celebration. Since 2019, KBS has expanded the celebration throughout the month of October as National Sports Month (BSN)."
 
 lang: "en"
-sourceContentHash: "237f8a401b073b81"
+sourceContentHash: "51f2375791aa9f72"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,7 +77,7 @@ Every Saturday of the second week of October, sports fields, parks and halls acr
 
 National Sports Day (HSN) is an annual celebration introduced by the Ministry of Youth and Sports (KBS) in 2015. It is celebrated on the Saturday of the second week of October and carried out simultaneously at the district, state and national levels.
 
-Unlike championships such as the Malaysia Games (SUKMA), which focus on high-performance athletes, HSN is designed for ordinary people. Its emphasis is *mass participation* — broad involvement by the public across all ages and backgrounds.
+Unlike championships such as the [Malaysia Games](/sports/sukma-games) (SUKMA), which focus on high-performance athletes, HSN is designed for ordinary people. Its emphasis is *mass participation* — broad involvement by the public across all ages and backgrounds.
 
 ## Why does it exist?
 

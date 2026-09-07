@@ -88,7 +88,7 @@ Tiga fungsi teras KWAP:
 
 ## Siapa yang dilindungi oleh KWAP?
 
-KWAP menampung **penjawat awam Persekutuan** yang berada dalam skim pencen kerajaan — bukan pekerja sektor swasta. Sejak **2015**, KWAP mengambil alih peranan Bahagian Pasca Perkhidmatan Pencen, Jabatan Perkhidmatan Awam (JPA), dan kini bertindak sebagai **ejen Kerajaan Persekutuan** membayar pencen, ganjaran serta faedah lain terus kepada pesara.
+KWAP menampung **penjawat awam Persekutuan** yang berada dalam skim pencen kerajaan — bukan pekerja sektor swasta. Sejak **2015**, KWAP mengambil alih peranan Bahagian Pasca Perkhidmatan Pencen, [Jabatan Perkhidmatan Awam](/education/jpa-and-public-scholarships) (JPA), dan kini bertindak sebagai **ejen Kerajaan Persekutuan** membayar pencen, ganjaran serta faedah lain terus kepada pesara.
 
 Menjelang 31 Disember 2024, KWAP membayar pencen kepada **lebih 810,000 penerima**, naik kira-kira 2.4% (hampir 19,000 orang) berbanding 2023. Ini berbeza daripada KWSP/EPF, yang merupakan dana simpanan bagi pekerja sektor swasta dan awam bukan berpencen.
 

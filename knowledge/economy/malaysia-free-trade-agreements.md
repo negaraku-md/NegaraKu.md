@@ -124,7 +124,7 @@ The regional FTAs are all anchored in ASEAN. The foundation is the **ASEAN Free 
 | ASEAN–Australia–New Zealand (AANZFTA) | 1 January 2010 |
 | ASEAN–India (AIFTA) | 1 January 2010 |
 | ASEAN–Hong Kong, China (AHKFTA) | 13 October 2019 |
-| Regional Comprehensive Economic Partnership (RCEP) | 18 March 2022 |
+| [Regional Comprehensive Economic Partnership](/international/malaysia-rcep) (RCEP) | 18 March 2022 |
 | Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP) | 29 November 2022 |
 
 The two most recent entries are the most consequential.

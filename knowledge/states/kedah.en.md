@@ -44,7 +44,7 @@ verificationNeeded:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "c089ad0a854f3911"
+sourceContentHash: "0d6884ea1dade121"
 
 status: "published"
 aiAssisted: true
@@ -127,7 +127,7 @@ understand Kedah.
 | Capital | Alor Setar |
 | Head of state | Sultan of Kedah |
 | Area | 9,447 km² |
-| Administrative districts | 12, including Langkawi |
+| Administrative districts | 12, including [Langkawi](/tourism/langkawi-visitor-guide) |
 | Population | 2.23 million (DOSM 2025 estimate) |
 | GDP 2024 | RM54.0 billion, growing 4.2 percent |
 | Approved investment 2024 | RM45.8 billion — fourth highest among states |

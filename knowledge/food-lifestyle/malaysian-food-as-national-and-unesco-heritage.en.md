@@ -30,7 +30,7 @@ faq:
     a: "Yes. It is among the 10 dishes gazetted as National Heritage objects by the Commissioner of Heritage on 23 February 2024."
 
 lang: "en"
-sourceContentHash: "8940b708b107b9b5"
+sourceContentHash: "99f9a99ac9dc7cef"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,7 +91,7 @@ Many people conflate domestic "heritage food" with "UNESCO heritage". This page 
 
 ## What is the difference between "National Heritage" and "UNESCO Heritage"?
 
-The first is a domestic decision. The Department of National Heritage (JWN), under the Ministry of Tourism, Arts and Culture, declares a dish a **National Heritage** object through the Commissioner of Heritage, in accordance with the National Heritage Act 2005 (Act 645). That declaration is gazetted in the Government Gazette.
+The first is a domestic decision. The Department of National Heritage (JWN), under the Ministry of Tourism, Arts and Culture, declares a dish a **National Heritage** object through the Commissioner of Heritage, in accordance with the National Heritage Act 2005 (Act 645). That declaration is gazetted in the [Government Gazette](/glossary/warta-kerajaan).
 
 The second is international recognition. UNESCO inscribes a cultural practice on a list under the Convention for the Safeguarding of the Intangible Cultural Heritage through a vote of its Intergovernmental Committee — a process entirely separate from the domestic register. The Convention has more than one list; most Malaysian elements sit on the **Representative List**, while one (Mek Mulung, 2023) is on the **List of Intangible Cultural Heritage in Need of Urgent Safeguarding**.
 

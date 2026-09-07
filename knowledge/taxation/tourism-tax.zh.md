@@ -32,7 +32,7 @@ faq:
     a: "只有出租五间或以上客房的经营者才必须注册并收取旅游税。拥有四间或以下客房的经营者无须注册。"
 
 lang: "zh"
-sourceContentHash: "5c6d698f6a238b92"
+sourceContentHash: "f102342b25c63a8e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -39,7 +39,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "1ef443559b53c632"
+sourceContentHash: "df3f033b8e40fec3"
 
 status: "published"
 aiAssisted: true
@@ -165,7 +165,7 @@ Pilihan kereta api ialah **Perkhidmatan Kereta Api Elektrik (ETS)** milik KTMB �
 
 Tempah melalui **sistem tiket KITS di online.ktmb.com.my** atau aplikasi KTMB. Beli lebih awal: perlepasan bersifat indah, popular dan cuti akan penuh. Koridor KL–Ipoh dan KL–Pulau Pinang (Butterworth) adalah pilihan terbaik untuk pelancong — selesa, tepat pada masanya, dan dari pusat bandar ke pusat bandar.
 
-Di tempat kereta api tidak sampai dengan mudah — **pantai timur**, atau apabila anda mahu menjimatkan satu hari — **penerbangan domestik** atau bas antara bandar mengisi jurang tersebut. Bas adalah meluas dan tidak mahal tetapi lebih perlahan; penerbangan masuk akal untuk lompatan lebih jauh seperti KL ke Langkawi atau Kota Bharu.
+Di tempat kereta api tidak sampai dengan mudah — **pantai timur**, atau apabila anda mahu menjimatkan satu hari — **penerbangan domestik** atau bas antara bandar mengisi jurang tersebut. Bas adalah meluas dan tidak mahal tetapi lebih perlahan; penerbangan masuk akal untuk lompatan lebih jauh seperti KL ke [Langkawi](/tourism/langkawi-visitor-guide) atau Kota Bharu.
 
 ## Bagaimana saya pergi ke Sabah dan Sarawak?
 
@@ -193,7 +193,7 @@ Di luar KL, kereta api adalah terhad, jadi bandar seperti Kota Kinabalu, Kuching
 
 ## Patutkah saya menyewa kereta dan memandu sendiri?
 
-Pandu sendiri membuka bahagian Malaysia yang tidak dicapai oleh pengangkutan awam — ladang teh Tanah Tinggi Cameron, pantai pantai timur luar bandar, jalan taman negara Borneo. Ia sangat boleh dilakukan untuk pelancong.
+Pandu sendiri membuka bahagian Malaysia yang tidak dicapai oleh pengangkutan awam — ladang teh [Tanah Tinggi Cameron](/tourism/cameron-highlands-visitor-guide), pantai pantai timur luar bandar, jalan taman negara Borneo. Ia sangat boleh dilakukan untuk pelancong.
 
 **Pelesenan:** Anda boleh memandu dengan **lesen memandu asing yang sah ditulis dalam bahasa Inggeris**, atau dengan **Permit Memandu Antarabangsa (IDP)**. Jika lesen negara asal anda bukan dalam bahasa Inggeris, bawa terjemahan bahasa Inggeris yang disahkan (atau IDP). Pelawat dari negara **ASEAN** secara amnya boleh memandu dengan lesen kebangsaan mereka untuk tinggal singkat. Sentiasa bawa **pasport, lesen, IDP (jika berkenaan) dan kertas insurans sewaan** dalam kereta.
 

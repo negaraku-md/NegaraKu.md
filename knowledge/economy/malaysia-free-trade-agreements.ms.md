@@ -32,7 +32,7 @@ faq:
     a: "Ya. Malaysia dan EU menyambung semula rundingan FTA pada Januari 2025, dan Malaysia memuktamadkan perjanjian perkongsian ekonomi dengan negara EFTA (Iceland, Liechtenstein, Norway, Switzerland) pada 11 April 2025."
 
 lang: "ms"
-sourceContentHash: "05f9edfe4ca9d22e"
+sourceContentHash: "7239744fcdcf2f73"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -125,7 +125,7 @@ FTA serantau semuanya berteraskan ASEAN. Asasnya ialah **Kawasan Perdagangan Beb
 | ASEAN–Australia–New Zealand (AANZFTA) | 1 Januari 2010 |
 | ASEAN–India (AIFTA) | 1 Januari 2010 |
 | ASEAN–Hong Kong, China (AHKFTA) | 13 Oktober 2019 |
-| Perkongsian Ekonomi Komprehensif Serantau (RCEP) | 18 Mac 2022 |
+| [Perkongsian Ekonomi Komprehensif Serantau](/international/malaysia-rcep) (RCEP) | 18 Mac 2022 |
 | Perjanjian Komprehensif dan Progresif bagi Perkongsian Trans-Pasifik (CPTPP) | 29 November 2022 |
 
 Dua kemasukan terbaharu adalah yang paling penting.

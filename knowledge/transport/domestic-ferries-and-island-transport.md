@@ -108,7 +108,7 @@ You can pay by Touch 'n Go, at the counter, or with an online ticket. Many trave
 
 ## How do ferries to Langkawi work?
 
-Langkawi has no bridge, so ferries and flights are the only ways in. Regular passenger ferries reach **Kuah Jetty** on Langkawi from two mainland ports:
+[Langkawi](/tourism/langkawi-visitor-guide) has no bridge, so ferries and flights are the only ways in. Regular passenger ferries reach **Kuah Jetty** on Langkawi from two mainland ports:
 
 - **Kuala Kedah** — journey of about 1 hour 45 minutes, adult fare around RM23 one way.
 - **Kuala Perlis** — journey of about 1 hour 15 minutes, adult fare around RM18 one way, the shorter and usually cheaper option.

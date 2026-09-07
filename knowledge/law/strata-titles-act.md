@@ -83,7 +83,7 @@ Ringkasnya: satu tentang **pemilikan**, satu lagi tentang **pengurusan**.
 | Akta Hakmilik Strata 1985 (Akta 318) | Hakmilik | Membolehkan bangunan dipecah bahagi kepada petak individu, setiap satu dengan hakmilik strata sendiri |
 | Akta Pengurusan Strata 2013 (Akta 757) | Pengurusan | Mewujudkan badan pengurusan, caj penyelenggaraan, kumpulan wang penjelas dan tribunal |
 
-Akta 318 terpakai di Semenanjung Malaysia, Wilayah Persekutuan Putrajaya dan Labuan; Sabah dan Sarawak mempunyai undang-undang strata masing-masing. Akta 757 pula mengawal pengurusan bangunan strata di kawasan yang sama.
+Akta 318 terpakai di Semenanjung Malaysia, [Wilayah Persekutuan Putrajaya](/states/putrajaya) dan Labuan; Sabah dan Sarawak mempunyai undang-undang strata masing-masing. Akta 757 pula mengawal pengurusan bangunan strata di kawasan yang sama.
 
 ## Siapa yang menguruskan bangunan strata anda?
 

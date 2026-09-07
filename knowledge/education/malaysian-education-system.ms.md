@@ -36,7 +36,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "fe78244956ba0466"
+sourceContentHash: "936fe1b2918f6934"
 
 status: "published"
 aiAssisted: true
@@ -100,7 +100,7 @@ Perkara pertama yang diperlukan oleh peta ini ialah garis sempadan, kerana pendi
 
 **Kementerian Pendidikan** (Kementerian Pendidikan Malaysia, KPM) bertanggungjawab ke atas persekolahan prasekolah, rendah dan menengah, dan turut mengendalikan program matrikulasi pra-universitinya sendiri melalui Bahagian Matrikulasinya. **Kementerian Pendidikan Tinggi** (KPT) ialah kementerian berasingan yang bertanggungjawab ke atas universiti awam dan swasta, politeknik dan kolej komuniti.
 
-Badan ketiga berdiri di atas kedua-duanya sebaik sesuatu kelayakan dianugerahkan: **Agensi Kelayakan Malaysia (MQA)**, yang mengiktiraf program pasca-menengah dan pengajian tinggi serta menyelenggara **Rangka Kerja Kelayakan Malaysia (MQF)** — skala sepunya yang membolehkan sijil, diploma atau ijazah daripada institusi awam atau swasta dibandingkan di atas kertas.
+Badan ketiga berdiri di atas kedua-duanya sebaik sesuatu kelayakan dianugerahkan: **[Agensi Kelayakan Malaysia](/education/malaysian-qualifications-agency-and-accreditation) (MQA)**, yang mengiktiraf program pasca-menengah dan pengajian tinggi serta menyelenggara **Rangka Kerja Kelayakan Malaysia (MQF)** — skala sepunya yang membolehkan sijil, diploma atau ijazah daripada institusi awam atau swasta dibandingkan di atas kertas.
 
 ## Tangga pendidikan, peringkat demi peringkat
 

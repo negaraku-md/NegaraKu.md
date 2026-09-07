@@ -43,7 +43,7 @@ verificationNeeded:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "2490aabbff80d3a8"
+sourceContentHash: "da77a92f707cbcd4"
 
 status: "published"
 aiAssisted: true
@@ -173,7 +173,7 @@ Office of the State Secretary. **Pekan**, meanwhile, is the royal town.
 
 Its geography is also layered. On the east coast lies a coastal strip about
 208 kilometres long facing the South China Sea. Inland stretches the Pahang
-River basin. To the west lie highlands — Cameron Highlands, Genting Highlands
+River basin. To the west lie highlands — [Cameron Highlands](/tourism/cameron-highlands-visitor-guide), Genting Highlands
 and Fraser's Hill — making Pahang the only state that hosts all three of the
 Peninsula's major hill-resort centres.
 

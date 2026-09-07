@@ -34,7 +34,7 @@ faq:
     a: "Yes. Overseas manufacturers can apply for JAKIM certification, or use a certificate from a foreign halal certification body recognised by JAKIM. The list of recognised bodies is reviewed and updated by JAKIM."
 
 lang: "en"
-sourceContentHash: "70aff51f6fc49882"
+sourceContentHash: "86854384949bcaf4"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -96,7 +96,7 @@ For Muslim consumers, the mark serves as an official verification marker. For bu
 In Malaysia, halal certification is not a free-market affair. Only two levels of authority are recognised to issue the **Malaysia Halal Certificate (Sijil Pengesahan Halal Malaysia, SPHM)**:
 
 - **JAKIM (the Department of Islamic Development Malaysia)** — at the federal level.
-- **The State Islamic Religious Council (MAIN) / State Islamic Religious Department (JAIN)** — at their respective state levels.
+- **The [State Islamic Religious Council](/states/state-islamic-religious-councils) (MAIN) / State Islamic Religious Department (JAIN)** — at their respective state levels.
 
 No private association, consulting company, or non-governmental body may issue an official halal certificate in the country. This sets Malaysia apart from many other countries where various private bodies compete to issue certificates.
 

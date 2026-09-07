@@ -92,7 +92,7 @@ Sijil Pengesahan Halal Malaysia (SPHM) ialah pengesahan rasmi bahawa sesuatu pro
 Yang membezakan sijil JAKIM daripada dakwaan "halal" sendiri ialah tiga perkara:
 
 - **Ia disandarkan pada piawaian bertulis.** Audit dibuat mengikut piawaian kebangsaan MS 1500 dan Manual Prosedur Pensijilan Halal Malaysia (MPPHM), bukan pertimbangan sewenang-wenangnya.
-- **Ia dikeluarkan oleh pihak berkuasa yang dilantik undang-undang.** Hanya JAKIM, Majlis Agama Islam Negeri (MAIN) dan Jabatan Agama Islam Negeri (JAIN) yang berkuasa mengeluarkannya.
+- **Ia dikeluarkan oleh pihak berkuasa yang dilantik undang-undang.** Hanya JAKIM, [Majlis Agama Islam Negeri](/states/state-islamic-religious-councils) (MAIN) dan Jabatan Agama Islam Negeri (JAIN) yang berkuasa mengeluarkannya.
 - **Ia boleh disemak secara umum.** Setiap sijil membawa nombor unik dan tarikh luput yang boleh dikesahkan sesiapa sahaja melalui pangkalan data rasmi.
 
 Bagi pengguna, sijil rasmi bermakna status halal disandarkan pada audit dan piawaian bertulis, bukan sekadar dakwaan pada label.

@@ -34,7 +34,7 @@ faq:
     a: "可以。海外制造商可申请 JAKIM 认证，或使用获 JAKIM 认可的外国清真认证机构所发出的证书。获认可机构名单由 JAKIM 审查及更新。"
 
 lang: "zh"
-sourceContentHash: "70aff51f6fc49882"
+sourceContentHash: "86854384949bcaf4"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -96,7 +96,7 @@ keywords: ["halal", "JAKIM", "sijil halal", "pensijilan halal", "MYeHALAL", "log
 在马来西亚，清真认证不是自由市场的事务。只有两个层级的机构获认可发出**《马来西亚清真认证书》（SPHM）**：
 
 - **JAKIM（马来西亚伊斯兰发展局）**——联邦层级。
-- **州伊斯兰宗教理事会（MAIN）／州伊斯兰宗教局（JAIN）**——各自的州层级。
+- **[州伊斯兰宗教理事会](/states/state-islamic-religious-councils)（MAIN）／州伊斯兰宗教局（JAIN）**——各自的州层级。
 
 国内没有任何私人团体、顾问公司或非政府机构可以发出官方清真证书。这一点使马来西亚有别于许多其他国家——在那些国家，多个私人机构互相竞争发证。
 

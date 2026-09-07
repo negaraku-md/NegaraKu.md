@@ -36,7 +36,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "fe78244956ba0466"
+sourceContentHash: "936fe1b2918f6934"
 
 status: "published"
 aiAssisted: true
@@ -100,7 +100,7 @@ keywords: ["Malaysian education system", "Ministry of Education Malaysia", "KPM"
 
 **教育部**（Kementerian Pendidikan Malaysia，KPM）负责学前教育、小学与中学教育，并透过其Matriculation Division自行主办大学先修的Matrikulasi（预科）课程。**高等教育部**（Kementerian Pendidikan Tinggi，KPT）则是另一个独立部门，负责公立与私立大学、理工学院与社区学院。
 
-一旦某项资格获得颁授，还有第三个机构凌驾在两者之上：**大马学术资格鉴定机构（Malaysian Qualifications Agency，MQA）**，它认证中学后与高等教育课程，并维护**大马学术资格鉴定框架（Malaysian Qualifications Framework，MQF）**——这是让公立或私立院校颁发的证书、文凭或学位得以在纸面上互相比较的共同标尺。
+一旦某项资格获得颁授，还有第三个机构凌驾在两者之上：**[大马学术资格鉴定机构](/education/malaysian-qualifications-agency-and-accreditation)（Malaysian Qualifications Agency，MQA）**，它认证中学后与高等教育课程，并维护**大马学术资格鉴定框架（Malaysian Qualifications Framework，MQF）**——这是让公立或私立院校颁发的证书、文凭或学位得以在纸面上互相比较的共同标尺。
 
 ## 阶梯，逐级而上
 

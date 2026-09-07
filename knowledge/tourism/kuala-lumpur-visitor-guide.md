@@ -207,7 +207,7 @@ If you want a ready-made shape for a short visit, this itinerary balances the bi
 
 Kuala Lumpur is the country's transport heart, which is why so many itineraries start here and fan out.
 
-- **By air:** KLIA is a major regional hub with frequent budget and full-service flights to Penang, Langkawi, Kota Kinabalu (Sabah), Kuching (Sarawak) and beyond.
+- **By air:** KLIA is a major regional hub with frequent budget and full-service flights to Penang, [Langkawi](/tourism/langkawi-visitor-guide), Kota Kinabalu (Sabah), Kuching (Sarawak) and beyond.
 - **By train:** KL Sentral is the interchange for the national KTM network, including the modern **ETS** intercity trains running north toward Ipoh, Penang (Butterworth) and up to the Thai border, and south toward Johor.
 - **By long-distance bus:** Extensive coach services depart from KL's bus terminals to almost every town in Peninsular Malaysia — often the cheapest way to travel.
 

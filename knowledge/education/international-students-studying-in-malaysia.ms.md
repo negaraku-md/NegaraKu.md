@@ -34,7 +34,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "3279e4d7643ce1b8"
+sourceContentHash: "b1b055e68d2a5111"
 
 status: "published"
 aiAssisted: true
@@ -90,7 +90,7 @@ Surat tawaran daripada institusi yang salah jenis tidak bernilai untuk tujuan vi
 
 Mudah untuk menganggap bahawa jika laman web sebuah universiti Malaysia menyenaraikan program yang "diiktiraf MQA", kemasukan dan imigresen akan mengikutinya secara automatik. Hakikatnya tidak, kerana kedua-dua semakan ini menjawab soalan yang berbeza.
 
-Agensi Kelayakan Malaysia (MQA) mengakreditasi **program** — ia mengesahkan bahawa kelayakan itu memenuhi Kerangka Kelayakan Malaysia (MQF), rangka kerja kualiti kebangsaan, dan bahawa ijazah, diploma atau sijil yang diperoleh daripadanya akan diiktiraf. MQA menyatakan dengan jelas bahawa kerja akreditasi ini adalah mengenai kualiti dan piawaian, bukan mengenai meluluskan sesebuah institusi tertentu untuk menerima warganegara asing.
+[Agensi Kelayakan Malaysia](/education/malaysian-qualifications-agency-and-accreditation) (MQA) mengakreditasi **program** — ia mengesahkan bahawa kelayakan itu memenuhi Kerangka Kelayakan Malaysia (MQF), rangka kerja kualiti kebangsaan, dan bahawa ijazah, diploma atau sijil yang diperoleh daripadanya akan diiktiraf. MQA menyatakan dengan jelas bahawa kerja akreditasi ini adalah mengenai kualiti dan piawaian, bukan mengenai meluluskan sesebuah institusi tertentu untuk menerima warganegara asing.
 
 Sama ada **institusi** itu sendiri boleh mendaftarkan pelajar antarabangsa adalah perkara berasingan, yang ditadbir melalui rangka kerja Pas Pelajar. Panduan Jabatan Imigresen sendiri mengelaskan pemohon pendidikan tinggi kepada tiga kategori:
 

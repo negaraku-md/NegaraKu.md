@@ -163,7 +163,7 @@ in whether the institution answers to a regulator at all.
 This is the detail that matters more than the IPTA/IPTS label itself, and the
 one most comparison articles skip past.
 
-The **Malaysian Qualifications Agency (MQA)** is the statutory body
+The **[Malaysian Qualifications Agency](/education/malaysian-qualifications-agency-and-accreditation) (MQA)** is the statutory body
 established under the **Malaysian Qualifications Agency Act 2007 (Act 679)**.
 Its job is to implement the **Malaysian Qualifications Framework (MQF)** —
 the national reference point for qualification levels and standards — and to

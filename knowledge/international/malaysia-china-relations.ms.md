@@ -32,7 +32,7 @@ faq:
     a: "Ia adalah rangka kerja yang diguna pakai oleh kedua-dua kerajaan untuk menggambarkan fasa hubungan seterusnya, dibina di atas perkongsian strategik menyeluruh yang dijalinkan pada 2013. Konsep ini dibangkitkan sejak 2023 dan dirasmikan dalam kenyataan bersama semasa lawatan negara Presiden Xi Jinping pada 17 April 2025. Ia menggariskan kerjasama merangkumi perdagangan, teknologi, infrastruktur dan hubungan rakyat dengan rakyat."
 
 lang: "ms"
-sourceContentHash: "df03a3093fff7fa1"
+sourceContentHash: "72782c6871b15658"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -112,7 +112,7 @@ Apa yang menarik ialah cara Malaysia menangani hal ini. Berbanding diplomasi lan
 Melalui pendekatan berlapis yang menjalankan tiga landasan serentak:
 
 - **Penegasan hak.** Malaysia mengekalkan kehadiran tentera laut dan pengawal pantai di ZEE-nya, mengekalkan anggota di ciri-ciri yang didudukinya di Kepulauan Spratly, dan telah meneruskan pembinaan infrastruktur pertahanan di Malaysia Timur — sambil secara konsisten menolak garis sembilan-titik.
-- **Pengurusan dua hala.** Pada 16 Oktober 2024, China dan Malaysia mengadakan Dialog Dua Hala yang pertama mengenai Pengurusan Isu Maritim di Laut China Selatan di Langkawi, dipengerusikan bersama oleh Timbalan Menteri Luar China Chen Xiaodong dan Ketua Pengarah Majlis Keselamatan Negara Malaysia, Datuk Raja Nushirwan Zainal Abidin. Kedua-dua pihak melaporkan "kefahaman sepunya" mengenai kerjasama maritim praktikal dan bersetuju untuk terus berbincang.
+- **Pengurusan dua hala.** Pada 16 Oktober 2024, China dan Malaysia mengadakan Dialog Dua Hala yang pertama mengenai Pengurusan Isu Maritim di Laut China Selatan di [Langkawi](/tourism/langkawi-visitor-guide), dipengerusikan bersama oleh Timbalan Menteri Luar China Chen Xiaodong dan Ketua Pengarah Majlis Keselamatan Negara Malaysia, Datuk Raja Nushirwan Zainal Abidin. Kedua-dua pihak melaporkan "kefahaman sepunya" mengenai kerjasama maritim praktikal dan bersetuju untuk terus berbincang.
 - **Diplomasi diterajui ASEAN.** Malaysia menyokong rundingan berpanjangan antara ASEAN dan China mengenai Kod Tatakelakuan bagi Laut China Selatan. Kenyataan bersama April 2025 merakamkan harapan kedua-dua kerajaan untuk menyimpulkan "sebuah Kod Tatakelakuan yang berkesan dan substantif" pada 2026, dan menyanggupkan mereka untuk menyelesaikan pertikaian melalui perundingan "selaras dengan prinsip undang-undang antarabangsa yang diiktiraf secara sejagat, termasuk Konvensyen Pertubuhan Bangsa-Bangsa Bersatu mengenai Undang-Undang Laut 1982."
 
 Inilah sebabnya hubungan ini membawa penanda keselamatan dan bukannya semata-mata komersial: rakan yang sama yang menjadi tunjang perdagangan Malaysia turut duduk di seberang meja mengenai persoalan kedaulatan yang dianggap oleh Malaysia sebagai tidak boleh dirunding.

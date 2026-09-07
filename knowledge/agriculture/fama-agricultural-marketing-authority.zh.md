@@ -31,7 +31,7 @@ faq:
     a: "生产者可透过 FAMA 的渠道直接销售给消费者，例如固定农民市集（Pasar Tani Kekal）、Agrobazaar、My Farm Outlet 及鲜果摊（Gerai Buah-buahan Segar），或参与合约农耕（Ladang Kontrak）及 RANTAI 等计划。参与详情请在 fama.gov.my 查证。"
 
 lang: "zh"
-sourceContentHash: "6453b76dfd88609b"
+sourceContentHash: "f18be1d4180f5dbb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,7 +77,7 @@ related: []
 keywords: ["FAMA", "Lembaga Pemasaran Pertanian Persekutuan", "Federal Agricultural Marketing Authority", "Akta 141", "pasar tani", "My Farm Outlet", "Agrobazaar", "pemasaran pertanian", "fama.gov.my"]
 ---
 
-金马仑高原（Cameron Highlands）的一位菜农也许能种出最好的作物，但他在农场
+[金马仑高原](/tourism/cameron-highlands-visitor-guide)（Cameron Highlands）的一位菜农也许能种出最好的作物，但他在农场
 所得的价格，往往与城里摊位的价格相差甚远。正是这道鸿沟——从农场到餐盘之间——
 成为一个法定机构的职责所在；这个机构鲜少被人提起名字，其成果却常被人们触及。
 

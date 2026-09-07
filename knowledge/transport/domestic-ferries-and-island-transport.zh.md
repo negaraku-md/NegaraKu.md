@@ -29,7 +29,7 @@ faq:
     a: "通常不能。许多东海岸度假村和船运营运商大约从10月到2月自愿暂停服务，因为东北季候风带来汹涌的海面。"
 
 lang: "zh"
-sourceContentHash: "a8987efa99eec0d9"
+sourceContentHash: "baf74efaaf475bb1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -109,7 +109,7 @@ keywords: ["Penang ferry", "Langkawi ferry", "Tioman ferry", "island transport M
 
 ## 前往浮罗交怡的渡轮如何运作？
 
-浮罗交怡没有桥梁，因此渡轮和航班是仅有的进出方式。定期客运渡轮从两个大陆港口抵达浮罗交怡的**瓜镇码头（Kuah Jetty）**：
+[浮罗交怡](/tourism/langkawi-visitor-guide)没有桥梁，因此渡轮和航班是仅有的进出方式。定期客运渡轮从两个大陆港口抵达浮罗交怡的**瓜镇码头（Kuah Jetty）**：
 
 - **瓜拉吉打（Kuala Kedah）**——航程约1小时45分钟，成人单程票价约23令吉。
 - **瓜拉玻璃市（Kuala Perlis）**——航程约1小时15分钟，成人单程票价约18令吉，是较短且通常较便宜的选择。

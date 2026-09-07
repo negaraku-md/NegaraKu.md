@@ -155,7 +155,7 @@ Gawai Dayak was **gazetted as a public holiday on 25 September 1964**, and it wa
 
 - Read [Kaamatan](/en/arts-culture/kaamatan) for Sabah's harvest festival, its rice-spirit legend and the Unduk Ngadau pageant — the closest counterpart to Gawai across the South China Sea.
 - See [Sarawak](/en/states/sarawak) for the state where Gawai Dayak is a public holiday, and the communities who keep it.
-- Refer to the Sarawak Tourism Board and Tourism Malaysia records for the official account of the festival's sequence and customs.
+- Refer to the Sarawak Tourism Board and [Tourism Malaysia](/tourism/tourism-malaysia-and-tourism-agencies) records for the official account of the festival's sequence and customs.
 
 ---
 

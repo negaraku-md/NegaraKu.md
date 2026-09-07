@@ -164,7 +164,7 @@ The rail option is KTMB's **Electric Train Service (ETS)** — Malaysia's fastes
 
 Book through the official **KITS ticketing system at online.ktmb.com.my** or the KTMB app. Buy ahead: scenic, popular and holiday departures fill up. The KL–Ipoh and KL–Penang (Butterworth) corridors are the sweet spot for tourists — comfortable, punctual, and city-centre to city-centre.
 
-Where the train doesn't reach conveniently — the **east coast**, or when you want to save a day — a **domestic flight** or an intercity coach fills the gap. Coaches are extensive and inexpensive but slower; flights make sense for longer hops like KL to Langkawi or Kota Bharu.
+Where the train doesn't reach conveniently — the **east coast**, or when you want to save a day — a **domestic flight** or an intercity coach fills the gap. Coaches are extensive and inexpensive but slower; flights make sense for longer hops like KL to [Langkawi](/tourism/langkawi-visitor-guide) or Kota Bharu.
 
 ## How do I get to Sabah and Sarawak?
 
@@ -192,7 +192,7 @@ Outside KL, rail is limited, so cities like Kota Kinabalu, Kuching, Malacca and 
 
 ## Should I rent a car and drive myself?
 
-Self-driving unlocks the parts of Malaysia public transport misses — the Cameron Highlands' tea estates, rural east-coast beaches, Borneo's national-park roads. It's very doable for tourists.
+Self-driving unlocks the parts of Malaysia public transport misses — the [Cameron Highlands](/tourism/cameron-highlands-visitor-guide)' tea estates, rural east-coast beaches, Borneo's national-park roads. It's very doable for tourists.
 
 **Licensing:** You may drive on a **valid foreign driving licence written in English**, or on an **International Driving Permit (IDP)**. If your home licence isn't in English, carry a certified English translation (or an IDP). Visitors from **ASEAN** countries can generally drive on their national licence for short stays. Always carry your **passport, licence, IDP (if applicable) and the rental's insurance papers** in the car.
 

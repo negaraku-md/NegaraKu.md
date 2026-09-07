@@ -20,7 +20,7 @@ appliesTo: "Sesuai untuk pembaca yang mahukan penjelasan yang jelas dan disahkan
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "bcde806a5d89c349"
+sourceContentHash: "c92a68e675abc2cc"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -67,7 +67,7 @@ Garisan itu ialah Banjaran Titiwangsa, dan ia adalah satu-satunya ciri geografi 
 
 Banjaran Titiwangsa, dikenali secara tempatan sebagai Banjaran Titiwangsa atau ringkasnya Banjaran Utama, ialah rangkaian gunung berterusan yang membentang di sepanjang tulang belakang semenanjung ini. Portal biodiversiti rasmi Malaysia sendiri, MyBIS, menggambarkannya sebagai "banjaran gunung yang terbesar, paling menonjol dan paling berterusan di Semenanjung Malaysia," membentang lebih kurang 500 kilometer dari sempadan Malaysia-Thailand di utara hingga ke Negeri Sembilan, tempat rupa bumi itu beransur rendah dan bercantum dengan dataran pantai berhampiran Melaka.
 
-Ia bukan satu rabung tunggal dengan satu nama dari hujung ke hujung. Di sepanjang panjangnya, ia terbahagi kepada gugusan dan puncak yang masing-masing mempunyai nama — Belum di hujung utara Perak, dataran tinggi Cameron Highlands, Bukit Fraser lebih jauh ke selatan, Gunung Nuang berhampiran sempadan Selangor-Pahang — tetapi ahli geografi dan perancang kerajaan menganggapnya sebagai satu sistem yang berterusan, kerana dari segi hidrologi dan ekologi ia berfungsi sebagai satu kesatuan.
+Ia bukan satu rabung tunggal dengan satu nama dari hujung ke hujung. Di sepanjang panjangnya, ia terbahagi kepada gugusan dan puncak yang masing-masing mempunyai nama — Belum di hujung utara Perak, dataran tinggi [Cameron Highlands](/tourism/cameron-highlands-visitor-guide), Bukit Fraser lebih jauh ke selatan, Gunung Nuang berhampiran sempadan Selangor-Pahang — tetapi ahli geografi dan perancang kerajaan menganggapnya sebagai satu sistem yang berterusan, kerana dari segi hidrologi dan ekologi ia berfungsi sebagai satu kesatuan.
 
 ## Kawasan tadahan air yang mengawal seluruh semenanjung
 

@@ -36,7 +36,7 @@ faq:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "fbaef3c7f9998465"
+sourceContentHash: "f6f58358eee27f91"
 
 status: "published"
 aiAssisted: true
@@ -194,7 +194,7 @@ This means two layers exist at the same time:
 
 - **Federal level** — JAKIM as coordinator, MKI secretariat, and federal
   halal authority.
-- **State level** — the State Islamic Religious Councils (MAIN) and the
+- **State level** — the [State Islamic Religious Councils](/states/state-islamic-religious-councils) (MAIN) and the
   state Islamic religious departments (JAIN) that administer Islamic law
   within their respective territories.
 

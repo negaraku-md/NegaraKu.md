@@ -29,7 +29,7 @@ faq:
     a: "主要管辖权在于州伊斯兰宗教局／宗教理事会，因为伊斯兰宗教事务在宪法下属于州权事项。伊斯兰发展局（JAKIM）在联邦层面进行协调，而建筑安全要求则涉及地方政府（Pihak Berkuasa Tempatan）与消防局。"
 
 lang: "zh"
-sourceContentHash: "fa2310979fd03222"
+sourceContentHash: "e8c71a5517740e23"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,7 +87,7 @@ keywords: ["SABK", "sekolah agama", "tahfiz", "KAFA", "JAKIM", "pendidikan Islam
 - **可兰经与个人基本义务课程（KAFA）**——面向小学儿童的宗教基础课程，处于伊斯兰发展局（JAKIM）与州宗教当局的协调之下。
 - **达菲兹（Tahfiz）机构**——专注于可兰经背诵；可以是联邦、州立或私立形式。
 
-影响整体图景的一个重要特征是权力的划分。在联邦宪法之下，伊斯兰宗教事务大体上属于州权事项。这意味着许多宗教机构受州伊斯兰宗教局或宗教理事会管辖，而非单纯的联邦机构——这也是各州注册做法多样化的一个主要原因。
+影响整体图景的一个重要特征是权力的划分。在联邦宪法之下，伊斯兰宗教事务大体上属于州权事项。这意味着许多宗教机构受州伊斯兰宗教局或[宗教理事会](/states/state-islamic-religious-councils)管辖，而非单纯的联邦机构——这也是各州注册做法多样化的一个主要原因。
 
 ## SABK 与其他宗教学校有何不同？
 

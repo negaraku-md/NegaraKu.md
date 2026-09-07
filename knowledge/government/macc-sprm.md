@@ -92,7 +92,7 @@ statutorily entitled to look over their shoulder?
 
 | | |
 | --- | --- |
-| Full name | Suruhanjaya Pencegahan Rasuah Malaysia / Malaysian Anti-Corruption Commission |
+| Full name | [Suruhanjaya Pencegahan Rasuah Malaysia](/glossary/suruhanjaya-pencegahan-rasuah-malaysia) / Malaysian Anti-Corruption Commission |
 | Enabling statute | Malaysian Anti-Corruption Commission Act 2009 (Act 694), section 4 |
 | Royal Assent / Gazette | 6 January 2009 / 8 January 2009 |
 | Commencement | 1 January 2009 |

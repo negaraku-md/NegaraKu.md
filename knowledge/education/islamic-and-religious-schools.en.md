@@ -29,7 +29,7 @@ faq:
     a: "Primary jurisdiction lies with the state Islamic religious departments/councils, because Islamic religious affairs are a state matter under the Constitution. JAKIM coordinates at the federal level, while building safety requirements involve the Local Authorities and the Fire Department."
 
 lang: "en"
-sourceContentHash: "fa2310979fd03222"
+sourceContentHash: "e8c71a5517740e23"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,7 +87,7 @@ Broadly, formal Islamic religious education in Malaysia can be viewed in several
 - **Al-Quran and Fardu Ain (KAFA) classes** — basic religious classes for primary-school children, under the coordination of JAKIM and state religious authorities.
 - **Tahfiz institutions** — focused on Quranic memorisation; may be federal, state, or private.
 
-An important feature shaping the whole picture is the division of powers. Under the Federal Constitution, Islamic religious affairs are largely a state matter. This means that many religious institutions are subject to state Islamic religious departments or councils, not solely federal bodies — a key reason for the diversity of registration practices between states.
+An important feature shaping the whole picture is the division of powers. Under the Federal Constitution, Islamic religious affairs are largely a state matter. This means that many religious institutions are subject to state Islamic religious departments or [councils](/states/state-islamic-religious-councils), not solely federal bodies — a key reason for the diversity of registration practices between states.
 
 ## How does a SABK differ from other religious schools?
 

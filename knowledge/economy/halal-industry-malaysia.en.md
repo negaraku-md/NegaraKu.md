@@ -29,7 +29,7 @@ faq:
     a: "Malaysia's halal product exports reached RM61.79 billion in 2024, up 15% from RM53.72 billion in 2023 (MITI). For the January–September 2024 period, exports were valued at RM45.04 billion compared with RM39.36 billion in the same period in 2023 (MITI/MIDA)."
 
 lang: "en"
-sourceContentHash: "3ad8176877de788c"
+sourceContentHash: "1b16a223e725d8d1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -84,7 +84,7 @@ This article compiles the official figures and structure of Malaysia's halal ind
 
 ## What makes Malaysia's halal certificate commercially valuable?
 
-In Malaysia, halal certification is issued by the **Department of Islamic Development Malaysia (JAKIM)** at the federal level, with the State Islamic Religious Councils (MAIN) for some states. JAKIM refers to the **Malaysian Standard MS 1500** — the standard for the production, preparation, handling and storage of halal food — as the technical basis for certification. MS 1500 was developed under the national standards system, with JAKIM chairing the relevant technical committee.
+In Malaysia, halal certification is issued by the **Department of Islamic Development Malaysia (JAKIM)** at the federal level, with the [State Islamic Religious Councils](/states/state-islamic-religious-councils) (MAIN) for some states. JAKIM refers to the **Malaysian Standard MS 1500** — the standard for the production, preparation, handling and storage of halal food — as the technical basis for certification. MS 1500 was developed under the national standards system, with JAKIM chairing the relevant technical committee.
 
 The commercial value of this certificate comes from two sources. First, international recognition: according to a Ministry of Finance reference, Malaysia's halal certification is accepted by **84 halal certification bodies in 46 countries**, reducing the need for exporters to obtain multiple certificates for different markets. Second, legal backing: the description "halal" in trade is regulated under the **Trade Descriptions Act 2011** and the Trade Descriptions (Certification and Marking of Halal) Order 2011. The Ministry of Domestic Trade and Cost of Living (KPDN) enforces these provisions in cooperation with JAKIM, making the misuse of the halal label a prosecutable offence.
 

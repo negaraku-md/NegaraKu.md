@@ -98,7 +98,7 @@ Memahami siapa mengawal apa bukan sekadar latihan carta organisasi. Ia menentuka
 Tadbir urus sukan Malaysia berdiri di atas empat tiang yang berasingan dari segi undang-undang, walaupun tiga daripadanya bertemu di bawah bumbung yang sama.
 
 - **Kementerian Belia dan Sukan (KBS)** — pembuat dasar dan pemegang kuasa Menteri. Ia tidak melatih atlet; ia menetapkan hala tuju dan menandatangani kelulusan.
-- **Majlis Sukan Negara (MSN)** — badan berkanun yang membiayai atlet elit, menyelaras semua badan sukan, dan menguruskan kompleks serta program latihan kebangsaan.
+- **[Majlis Sukan Negara](/sports/national-sports-council-msn) (MSN)** — badan berkanun yang membiayai atlet elit, menyelaras semua badan sukan, dan menguruskan kompleks serta program latihan kebangsaan.
 - **Institut Sukan Negara (ISN)** — badan berkanun yang membekalkan sains sukan, perubatan sukan dan penyelidikan prestasi.
 - **Pejabat Pesuruhjaya Sukan (PJS)** — pengawal selia yang mendaftar, mengenakan syarat, dan boleh membatalkan pendaftaran mana-mana badan sukan.
 
@@ -115,7 +115,7 @@ Peranan KBS bersifat dasar, bukan operasi. Dalam bahasa Akta Pembangunan Sukan 1
 - Menetapkan garis panduan pembangunan sukan, termasuk program jangka panjang untuk atlet, jurulatih dan pegawai (seksyen 3).
 - Melantik Pesuruhjaya Sukan dan pegawai lain (seksyen 10).
 - Meluluskan bidaan untuk menganjurkan acara antarabangsa (seksyen 33).
-- Meluluskan penggunaan nama "Sukan Malaysia" (seksyen 35).
+- Meluluskan penggunaan nama "[Sukan Malaysia](/sports/sukma-games)" (seksyen 35).
 - Menjadi **pihak berkuasa muktamad** dalam semua hal ehwal sukan (seksyen 41(2)).
 
 Kuasa dasar itu disalurkan melalui Dasar Sukan Negara. Secara amnya, dasar sukan negara membezakan antara sukan penyertaan massa (untuk kesihatan dan perpaduan) dan sukan prestasi tinggi (kecemerlangan atlet di peringkat antarabangsa) — pembahagian yang turut membentuk mandat agensi berbeza di bawah KBS. (Rangka dan istilah rasmi Dasar Sukan Negara semasa perlu disahkan terus dengan KBS.)
@@ -231,7 +231,7 @@ Ringkasan struktur:
 Akta 576 pada mulanya berkuat kuasa dari 1 Januari 1998 kecuali Sabah, Sarawak dan Wilayah Persekutuan Labuan, seperti tercatat dalam notis permulaan kuat kuasa (P.U. (B) 9/1998). Perincian pemakaian terkini di negeri-negeri ini patut disemak terus dengan Pejabat Pesuruhjaya Sukan.
 
 **Apakah maksud "sukan" di bawah Akta 576?**
-Seksyen 2 mentakrifkan "sport" sebagai mana-mana aktiviti yang tersenarai dalam Jadual Pertama Akta. Senarai itu meliputi berpuluh disiplin — daripada olahraga, akuatik dan badminton kepada silat olahraga, sepak takraw, permainan tradisional dan wushu.
+Seksyen 2 mentakrifkan "sport" sebagai mana-mana aktiviti yang tersenarai dalam Jadual Pertama Akta. Senarai itu meliputi berpuluh disiplin — daripada olahraga, akuatik dan badminton kepada silat olahraga, [sepak takraw](/sports/sepak-takraw), permainan tradisional dan wushu.
 
 **Bolehkah keputusan Pesuruhjaya Sukan dirayu?**
 Ya. Seksyen 21 membenarkan badan sukan yang terkilan dengan penolakan, syarat, atau pembatalan pendaftaran untuk merayu kepada Menteri dalam tempoh 30 hari dari tarikh notis keputusan; keputusan Menteri adalah muktamad. Menteri boleh merujuk perkara itu kepada Panel Penasihat Sukan.

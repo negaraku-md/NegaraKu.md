@@ -76,7 +76,7 @@ Setiap Sabtu minggu kedua bulan Oktober, padang, taman dan dewan sukan di seluru
 
 Hari Sukan Negara (HSN) ialah sambutan tahunan yang diperkenalkan oleh Kementerian Belia dan Sukan (KBS) pada tahun 2015. Ia disambut pada Sabtu minggu kedua bulan Oktober dan dilaksanakan secara serentak di peringkat daerah, negeri dan kebangsaan.
 
-Berbeza dengan kejohanan seperti Sukan Malaysia (SUKMA) yang menumpukan atlet berprestasi tinggi, HSN direka untuk orang biasa. Tumpuannya ialah *mass participation* — penyertaan beramai-ramai rakyat daripada semua peringkat umur dan latar belakang.
+Berbeza dengan kejohanan seperti [Sukan Malaysia](/sports/sukma-games) (SUKMA) yang menumpukan atlet berprestasi tinggi, HSN direka untuk orang biasa. Tumpuannya ialah *mass participation* — penyertaan beramai-ramai rakyat daripada semua peringkat umur dan latar belakang.
 
 ## Mengapa ia wujud?
 

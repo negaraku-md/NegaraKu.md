@@ -38,7 +38,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ed174697edaef0ea"
+sourceContentHash: "2716ca2d76a67d28"
 
 status: "published"
 aiAssisted: true
@@ -208,7 +208,7 @@ Jika anda mahukan bentuk sedia untuk lawatan singkat, jadual perjalanan ini meng
 
 Kuala Lumpur ialah jantung pengangkutan negara, sebab itulah begitu banyak jadual perjalanan bermula di sini dan berkembang keluar.
 
-- **Dengan udara:** KLIA ialah hab serantau utama dengan penerbangan bajet dan perkhidmatan penuh yang kerap ke Pulau Pinang, Langkawi, Kota Kinabalu (Sabah), Kuching (Sarawak) dan seterusnya.
+- **Dengan udara:** KLIA ialah hab serantau utama dengan penerbangan bajet dan perkhidmatan penuh yang kerap ke Pulau Pinang, [Langkawi](/tourism/langkawi-visitor-guide), Kota Kinabalu (Sabah), Kuching (Sarawak) dan seterusnya.
 - **Dengan kereta api:** KL Sentral ialah pertukaran untuk rangkaian KTM nasional, termasuk kereta api antara bandar **ETS** moden yang berjalan ke utara menuju Ipoh, Pulau Pinang (Butterworth) dan naik ke sempadan Thai, dan ke selatan menuju Johor.
 - **Dengan bas jarak jauh:** Perkhidmatan koc yang meluas berlepas dari terminal bas KL ke hampir setiap pekan di Semenanjung Malaysia — selalunya cara paling murah untuk mengembara.
 

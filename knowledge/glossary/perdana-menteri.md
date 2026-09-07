@@ -215,7 +215,7 @@ Setakat teks Perlembagaan yang berkuat kuasa, **tiada had tempoh** untuk jawatan
 
 Namun ini sedang dipertimbangkan semula. Pada 2026, satu **Rang Undang-Undang Perlembagaan Persekutuan (Pindaan)** dicadangkan untuk mengehadkan tempoh Perdana Menteri kepada **agregat sepuluh tahun** — sama ada berkhidmat secara berterusan atau tidak. Cadangan itu memperkenalkan subfasal baharu kepada Perkara 43 (antaranya subfasal (2A) dan (4A)–(4D)) yang menetapkan Perdana Menteri yang dilantik di bawah Perkara 43(2)(a) tidak boleh memegang jawatan bagi tempoh yang beragregat sepuluh tahun. Menurut teks verbatim rasmi, kerajaan membingkaikannya sebagai memperkukuh institusi — dalam ucapan itu dinyatakan: "Dalam salasilah demokrasi, kematangan sesebuah negara tidak pernah diukur pada lamanya seseorang memegang tampuk kuasa." Cetak biru diedarkan kepada Ahli Parlimen pada 23 Februari 2026 dan bacaan kedua pada 2 Mac 2026.
 
-Kerana pindaan perlembagaan memerlukan majoriti dua pertiga Dewan Rakyat dan Dewan Negara, status akhir cadangan ini harus disemak pada sumber rasmi (Warta Kerajaan / AGC) sebelum dianggap sebagai undang-undang yang berkuat kuasa.
+Kerana pindaan perlembagaan memerlukan majoriti dua pertiga Dewan Rakyat dan Dewan Negara, status akhir cadangan ini harus disemak pada sumber rasmi ([Warta Kerajaan](/glossary/warta-kerajaan) / AGC) sebelum dianggap sebagai undang-undang yang berkuat kuasa.
 
 ## Kesilapan biasa tentang jawatan Perdana Menteri
 

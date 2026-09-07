@@ -145,7 +145,7 @@ Its defining limits, per the Immigration Department:
 
 - An eNTRI holder is entitled to a maximum of 15 days for each visit.
 - Each application can only be used once, and no extension is allowed.
-- Entry is restricted to designated checkpoints — airports such as KLIA, Penang, Langkawi, Melaka, Senai, Kuching, Miri, Kota Kinabalu and Labuan, and land checkpoints including Sultan Iskandar, Bukit Kayu Hitam and Padang Besar.
+- Entry is restricted to designated checkpoints — airports such as KLIA, Penang, [Langkawi](/tourism/langkawi-visitor-guide), Melaka, Senai, Kuching, Miri, Kota Kinabalu and Labuan, and land checkpoints including Sultan Iskandar, Bukit Kayu Hitam and Padang Besar.
 - On arrival, travellers must present the eNTRI printout together with a boarding pass, proof of sufficient funds, a confirmed return ticket and proof of accommodation.
 
 Because Indian nationals currently also benefit from the broader visa waiver, eNTRI is best understood as one of several routes — travellers should confirm which is in force for their travel dates before applying.

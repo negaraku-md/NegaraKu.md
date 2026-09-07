@@ -25,7 +25,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "983ceb6ac71f6d39"
+sourceContentHash: "dec278a4f731f767"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -174,7 +174,7 @@ bertanggungjawab kepada sesuatu pengawal selia langsung.
 Inilah butiran yang lebih penting daripada label IPTA/IPTS itu sendiri, dan
 yang paling kerap dilangkau oleh kebanyakan artikel perbandingan.
 
-**Agensi Kelayakan Malaysia (MQA)** ialah badan berkanun yang ditubuhkan di
+**[Agensi Kelayakan Malaysia](/education/malaysian-qualifications-agency-and-accreditation) (MQA)** ialah badan berkanun yang ditubuhkan di
 bawah **Malaysian Qualifications Agency Act 2007 (Act 679)**. Tugasnya ialah
 melaksanakan **Kerangka Kelayakan Malaysia (MQF)** — rujukan kebangsaan bagi
 tahap dan standard kelayakan — dan mengakreditasi **program** akademik secara

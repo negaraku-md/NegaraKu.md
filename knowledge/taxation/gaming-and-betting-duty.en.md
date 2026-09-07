@@ -29,7 +29,7 @@ faq:
     a: "On a RM2 Sports Toto bet, 8% (16 sen) is deducted as gaming tax and a further 8% (14.72 sen) as pool betting duty; about 55% (RM1.10) is allocated as prize money."
 
 lang: "en"
-sourceContentHash: "7f4a7d2c70aa9d10"
+sourceContentHash: "156aadc5edee33a0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -115,4 +115,4 @@ The high tax rate makes the gambling sector one of the steady contributors of no
 
 ## What's next
 
-The rates in this article are those in force since the 2019 amendment and have not been raised again in subsequent budgets, but gambling duties are frequently discussed as candidates for revenue increases in every budget round. For the latest official rates, refer to the Ministry of Finance's annual Budget announcements and the government Gazette that sets the pool betting and sweepstake duties. If you want to understand the other taxes that gambling operators also bear, see our notes on the sales and service tax (SST) and corporate income tax.
+The rates in this article are those in force since the 2019 amendment and have not been raised again in subsequent budgets, but gambling duties are frequently discussed as candidates for revenue increases in every budget round. For the latest official rates, refer to the Ministry of Finance's annual Budget announcements and the [government Gazette](/glossary/warta-kerajaan) that sets the pool betting and sweepstake duties. If you want to understand the other taxes that gambling operators also bear, see our notes on the sales and service tax (SST) and corporate income tax.

@@ -29,7 +29,7 @@ faq:
     a: "To the Strata Management Tribunal, which handles claims up to RM250,000 more quickly and cheaply than the courts. The Commissioner of Buildings (COB) at the local authority enforces compliance with the Act."
 
 lang: "en"
-sourceContentHash: "addea7deba730266"
+sourceContentHash: "788e401fa0ccd9ab"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -84,7 +84,7 @@ In short: one is about **ownership**, the other about **management**.
 | Strata Titles Act 1985 (Act 318) | Title | Allows a building to be subdivided into individual parcels, each with its own strata title |
 | Strata Management Act 2013 (Act 757) | Management | Establishes the management body, maintenance charges, sinking fund and tribunal |
 
-Act 318 applies in Peninsular Malaysia, the Federal Territory of Putrajaya and Labuan; Sabah and Sarawak have their own strata laws. Act 757, in turn, governs the management of strata buildings in the same areas.
+Act 318 applies in Peninsular Malaysia, the [Federal Territory of Putrajaya](/states/putrajaya) and Labuan; Sabah and Sarawak have their own strata laws. Act 757, in turn, governs the management of strata buildings in the same areas.
 
 ## Who manages your strata building?
 

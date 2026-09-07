@@ -23,7 +23,7 @@ appliesTo: "需要正确解读马来西亚旅游统计数据、而非只是引�
 seoTitle: "马来西亚旅游统计数据：入境人次与收入的对比"
 
 lang: "zh"
-sourceContentHash: "272e6d798eec0f81"
+sourceContentHash: "396de79b31be6ee8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -98,7 +98,7 @@ keywords: ["Malaysia tourist arrivals", "Malaysia tourism receipts", "Visit Mala
 
 | 指标 | 最新官方数字 | 期间 | 来源 |
 | --- | --- | --- | --- |
-| 外国**访客**入境人次 | 37,961,485（+31.1%） | 2024年 | Tourism Malaysia |
+| 外国**访客**入境人次 | 37,961,485（+31.1%） | 2024年 | [Tourism Malaysia](/tourism/tourism-malaysia-and-tourism-agencies) |
 | 外国访客**支出** | RM106,783.11 million（+43.7%） | 2024年 | Tourism Malaysia |
 | 旅游产业增加值总额 | RM291.9 billion——占GDP的15.1% | 2024年 | DOSM TSA |
 | 旅游业**直接**GDP | RM120.3 billion——占GDP的6.2% | 2024年 | DOSM TSA |

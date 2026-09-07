@@ -32,7 +32,7 @@ faq:
     a: "是的。马来西亚与欧盟于 2025 年 1 月重启自由贸易协定谈判，并于 2025 年 4 月 11 日与 EFTA 成员国（冰岛、列支敦士登、挪威、瑞士）完成一项经济伙伴关系协定。"
 
 lang: "zh"
-sourceContentHash: "05f9edfe4ca9d22e"
+sourceContentHash: "7239744fcdcf2f73"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -125,7 +125,7 @@ keywords: ["Malaysia FTA", "CPTPP Malaysia", "RCEP Malaysia", "free trade agreem
 | 东盟–澳大利亚–新西兰（AANZFTA） | 2010 年 1 月 1 日 |
 | 东盟–印度（AIFTA） | 2010 年 1 月 1 日 |
 | 东盟–中国香港（AHKFTA） | 2019 年 10 月 13 日 |
-| 区域全面经济伙伴关系协定（RCEP） | 2022 年 3 月 18 日 |
+| [区域全面经济伙伴关系协定](/international/malaysia-rcep)（RCEP） | 2022 年 3 月 18 日 |
 | 全面与进步跨太平洋伙伴关系协定（CPTPP） | 2022 年 11 月 29 日 |
 
 其中最近的两项协定意义最为重大。

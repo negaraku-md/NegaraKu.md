@@ -36,7 +36,7 @@ faq:
     a: "可以。清真认证着重于产品、原料及流程是否符合 MS 1500 与 MPPHM 的要求，而非拥有者的宗教信仰。非穆斯林拥有的公司可以申请，许多也确实申请并取得了马来西亚清真认证证书。"
 
 lang: "zh"
-sourceContentHash: "cadff73833cd74a7"
+sourceContentHash: "f2b9c9a9d90925a7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -93,7 +93,7 @@ keywords: ["sijil halal", "JAKIM", "MS 1500", "MYeHALAL", "logo Halal Malaysia",
 JAKIM 证书与自行宣称"清真"的区别在于三点：
 
 - **它以书面标准为依据。** 审核依据国家标准 MS 1500 及《马来西亚清真认证程序手册》（MPPHM）进行，而非任意判断。
-- **它由法律委任的主管机构颁发。** 只有 JAKIM、州伊斯兰宗教理事会（MAIN）及州伊斯兰宗教局（JAIN）有权颁发。
+- **它由法律委任的主管机构颁发。** 只有 JAKIM、[州伊斯兰宗教理事会](/states/state-islamic-religious-councils)（MAIN）及州伊斯兰宗教局（JAIN）有权颁发。
 - **它可供公众查证。** 每张证书都带有唯一编号和到期日期，任何人都能通过官方数据库核实。
 
 对消费者而言，官方证书意味着清真状态建立在审核与书面标准之上，而不仅仅是标签上的一句宣称。

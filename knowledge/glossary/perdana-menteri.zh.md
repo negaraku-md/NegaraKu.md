@@ -34,7 +34,7 @@ faq:
     a: "目前宪法并未限制任期。2026年，一项修宪法案被提出，拟将首相任期限制为累计十年；该修正案的最终状态须以官方来源为准查证。"
 
 lang: "zh"
-sourceContentHash: "7c586fa1349511b6"
+sourceContentHash: "a4359d9c03eadb4d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -216,7 +216,7 @@ keywords: ["perdana menteri", "prime minister malaysia", "perkara 43", "pelantik
 
 然而，这正在被重新审议。2026年，一项**《联邦宪法（修正）法案》**被提出，拟将首相任期限制为**累计十年**——无论是连续任职与否。该提案为第43条引入了新的子条款（其中包括子条款(2A)以及(4A)至(4D)），规定根据第43(2)(a)条委任的首相不得任职累计达十年之久。根据官方逐字文本，政府将其定调为强化机构——该演讲中表示："Dalam salasilah demokrasi, kematangan sesebuah negara tidak pernah diukur pada lamanya seseorang memegang tampuk kuasa."（在民主的谱系中，一个国家的成熟从不以某人执政的长短来衡量。）蓝图于2026年2月23日分发给国会议员，二读则于2026年3月2日进行。
 
-由于修宪需要下议院和上议院三分之二的多数，这项提案的最终状态应以官方来源（政府宪报 / AGC）查证后，方可视为已生效的法律。
+由于修宪需要下议院和上议院三分之二的多数，这项提案的最终状态应以官方来源（[政府宪报](/glossary/warta-kerajaan) / AGC）查证后，方可视为已生效的法律。
 
 ## 关于首相职位的常见误区
 

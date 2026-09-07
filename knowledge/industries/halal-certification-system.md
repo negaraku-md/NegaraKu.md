@@ -83,7 +83,7 @@ Artikel ini menerangkan cara sistem itu benar-benar berfungsi: siapa yang mengel
 
 ## Siapa yang benar-benar mengeluarkan sijil halal di Malaysia?
 
-Di Malaysia, kuasa mengesahkan sesuatu produk atau perkhidmatan sebagai halal terletak pada **pihak berkuasa berwibawa** sahaja — iaitu **Jabatan Kemajuan Islam Malaysia (JAKIM)** di peringkat persekutuan, bersama **Majlis Agama Islam Negeri (MAIN)** dan **Jabatan Agama Islam Negeri (JAIN)** di peringkat negeri.
+Di Malaysia, kuasa mengesahkan sesuatu produk atau perkhidmatan sebagai halal terletak pada **pihak berkuasa berwibawa** sahaja — iaitu **Jabatan Kemajuan Islam Malaysia (JAKIM)** di peringkat persekutuan, bersama **[Majlis Agama Islam Negeri](/states/state-islamic-religious-councils) (MAIN)** dan **Jabatan Agama Islam Negeri (JAIN)** di peringkat negeri.
 
 Ini bermakna satu perkara penting untuk pengusaha: sijil atau logo halal yang dikeluarkan secara *self-declaration* (pengisytiharan sendiri) atau oleh mana-mana syarikat swasta **tidak diiktiraf**. Hanya SPHM daripada JAKIM/MAIN/JAIN yang sah di sisi undang-undang.
 

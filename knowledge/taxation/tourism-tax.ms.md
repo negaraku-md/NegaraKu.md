@@ -32,7 +32,7 @@ faq:
     a: "Hanya pengendali yang menyewakan lima bilik atau lebih perlu mendaftar dan memungut TTx. Pengendali dengan empat bilik atau kurang tidak bertanggungjawab untuk mendaftar."
 
 lang: "ms"
-sourceContentHash: "5c6d698f6a238b92"
+sourceContentHash: "f102342b25c63a8e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -93,7 +93,7 @@ Di sinilah kewarganegaraan memainkan peranan. Di bawah **Perintah Cukai Pelancon
 
 Semua orang lain — pelancong asing, ekspatriat, pelancong perniagaan dengan apa-apa pasport — membayar RM10. Dalam amalan, pembahagian di kaunter adalah mudah: tunjukkan kad pengenalan Malaysia atau kad MyPR dan baris itu hilang; tunjukkan pasport asing dan ia kekal.
 
-Pengecualian adalah mengikut individu, bukan mengikut premis. Sebuah resort lima bintang di Langkawi dan sebuah inn bajet di Ipoh mengenakan peraturan yang sama, kerana kadar tetap dan pengecualian kedua-duanya terpakai kepada tetamu, bukan gred hotel.
+Pengecualian adalah mengikut individu, bukan mengikut premis. Sebuah resort lima bintang di [Langkawi](/tourism/langkawi-visitor-guide) dan sebuah inn bajet di Ipoh mengenakan peraturan yang sama, kerana kadar tetap dan pengecualian kedua-duanya terpakai kepada tetamu, bukan gred hotel.
 
 ## Pengendali manakah yang sebenarnya perlu memungutnya?
 

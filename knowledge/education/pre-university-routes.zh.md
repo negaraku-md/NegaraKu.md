@@ -24,7 +24,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "29da71e30315cb58"
+sourceContentHash: "d0b49a1aee8b9177"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -135,7 +135,7 @@ Matrikulasi 招生的固定特征，并不时在有关公平与门槛的公共�
 
 Foundation（又称 Asasi）课程彻底打破了这个模式：完全没有外部考试机构
 介入。开办课程的大学自行设计课纲、自行授课、自行评分——虽仍须遵循
-大马学术资格鉴定机构（Malaysian Qualifications Agency，MQA）所订立的
+[大马学术资格鉴定机构](/education/malaysian-qualifications-agency-and-accreditation)（Malaysian Qualifications Agency，MQA）所订立的
 品质框架，但学生与院校之间并不存在一个独立的全国考试理事会作为中介。
 
 这带来一个直接的实际后果：Foundation 课程本就是为了输送学生进入

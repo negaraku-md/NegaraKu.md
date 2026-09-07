@@ -29,7 +29,7 @@ faq:
     a: "以一注2令吉的Sports Toto投注为例，8%（16仙）作为博彩税扣除，另外8%（14.72仙）作为彩池投注税；约55%（1.10令吉）拨作奖金。"
 
 lang: "zh"
-sourceContentHash: "7f4a7d2c70aa9d10"
+sourceContentHash: "156aadc5edee33a0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -115,4 +115,4 @@ keywords: ["duti kasino", "cukai perjudian", "duti mesin permainan", "duti perta
 
 ## 接下来会怎样
 
-本文中的税率是自2019年修订以来生效的税率，此后的历次预算案未再上调，但赌博税在每一轮预算案中常被讨论为增加收入的潜在对象。欲了解最新的官方税率，请参阅财政部每年的预算案公告以及订明彩池投注税与彩票税（sweepstake）的政府宪报（Gazette）。若你想了解赌博经营商同时承担的其他税项，请参阅我们关于销售与服务税（SST）以及企业所得税的说明。
+本文中的税率是自2019年修订以来生效的税率，此后的历次预算案未再上调，但赌博税在每一轮预算案中常被讨论为增加收入的潜在对象。欲了解最新的官方税率，请参阅财政部每年的预算案公告以及订明彩池投注税与彩票税（sweepstake）的[政府宪报](/glossary/warta-kerajaan)（Gazette）。若你想了解赌博经营商同时承担的其他税项，请参阅我们关于销售与服务税（SST）以及企业所得税的说明。

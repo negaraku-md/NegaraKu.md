@@ -41,7 +41,7 @@ faq:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "61a3deaeaf002f56"
+sourceContentHash: "40747e3f92b37352"
 
 status: "published"
 aiAssisted: true
@@ -194,7 +194,7 @@ The structure of the Ministry of Finance is divided into **departments**, which 
 | Bank Simpanan Nasional | Savings bank |
 | Labuan Financial Services Authority (Labuan FSA) | Regulation of the Labuan offshore financial centre |
 | Public Sector Home Financing Board (LPPSA) | Housing loans for civil servants |
-| Langkawi Development Authority (LADA) | Development of the Langkawi region (statutory body under Act 423) |
+| Langkawi Development Authority (LADA) | Development of the [Langkawi](/tourism/langkawi-visitor-guide) region (statutory body under Act 423) |
 
 Note: The Langkawi Development Authority (LADA) was established as a statutory body under the Langkawi Development Authority Act 1990 (Act 423). The official MOF portal lists it administratively in the "Departments" group alongside the Treasury, Customs, the Accountant General's Department and JPPH; legally it is a statutory body.
 

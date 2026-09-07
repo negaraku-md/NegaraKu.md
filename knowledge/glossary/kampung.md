@@ -72,7 +72,7 @@ yang mempunyai ketua, jawatankuasa, penggal perkhidmatan dan elaun rasmi.
 | **Unit sosial** | Komuniti tempatan yang terikat melalui kejiranan, kenduri, gotong-royong dan surau atau balai raya |
 | **Unit pentadbiran** | Kawasan diiktiraf di bawah mukim dan Pejabat Daerah, dengan Ketua Kampung dan jawatankuasa rasmi |
 
-Inilah sebabnya seseorang boleh berkata "saya balik kampung" (makna sosial dan
+Inilah sebabnya seseorang boleh berkata "saya [balik kampung](/glossary/balik-kampung)" (makna sosial dan
 sentimental) sementara sepucuk surat kerajaan merujuk kampung yang sama sebagai
 kawasan pentadbiran yang khusus.
 

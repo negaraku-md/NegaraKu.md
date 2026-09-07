@@ -38,7 +38,7 @@ faq:
     a: "The National Sports Institute (ISN). It is placed on a statutory footing by the National Sports Institute Act 2011 [Act 729] and functions to provide sports science and sports medicine services, advice and consultation, conduct research, and advise the Minister on the scientific aspects of athlete performance."
 
 lang: "en"
-sourceContentHash: "f6096a63d890b5b8"
+sourceContentHash: "6410f4b09d840cf0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -99,7 +99,7 @@ Understanding who controls what is not merely an org-chart exercise. It determin
 Malaysian sport governance rests on four pillars that are legally separate, even though three of them meet under the same roof.
 
 - **Ministry of Youth and Sports (KBS)** — the policymaker and holder of the Minister's powers. It does not train athletes; it sets the direction and signs off approvals.
-- **National Sports Council (MSN)** — the statutory body that funds elite athletes, coordinates all sports bodies, and manages national training complexes and programmes.
+- **[National Sports Council](/sports/national-sports-council-msn) (MSN)** — the statutory body that funds elite athletes, coordinates all sports bodies, and manages national training complexes and programmes.
 - **National Sports Institute (ISN)** — the statutory body that supplies sports science, sports medicine and performance research.
 - **Office of the Sports Commissioner (PJS)** — the regulator that registers, imposes conditions, and can cancel the registration of any sports body.
 
@@ -116,7 +116,7 @@ KBS's role is one of policy, not operations. In the language of the Sports Devel
 - To set guidelines for sports development, including long-term programmes for athletes, coaches and officials (section 3).
 - To appoint the Sports Commissioner and other officers (section 10).
 - To approve bids to host international events (section 33).
-- To approve the use of the name "Sukan Malaysia" (section 35).
+- To approve the use of the name "[Sukan Malaysia](/sports/sukma-games)" (section 35).
 - To be the **final authority** in all matters relating to sport (section 41(2)).
 
 That policy power is channelled through the National Sports Policy. Broadly speaking, the national sports policy distinguishes between mass-participation sport (for health and unity) and high-performance sport (athlete excellence at the international level) — a division that also shapes the mandates of the different agencies under KBS. (The current framework and official terminology of the National Sports Policy should be confirmed directly with KBS.)
@@ -232,7 +232,7 @@ Structural summary:
 Act 576 initially came into force from 1 January 1998 except in Sabah, Sarawak and the Federal Territory of Labuan, as recorded in the commencement notice (P.U. (B) 9/1998). The current details of its application in these states should be checked directly with the Office of the Sports Commissioner.
 
 **What does "sport" mean under Act 576?**
-Section 2 defines "sport" as any activity listed in the First Schedule of the Act. That list covers dozens of disciplines — from athletics, aquatics and badminton to silat olahraga, sepak takraw, traditional games and wushu.
+Section 2 defines "sport" as any activity listed in the First Schedule of the Act. That list covers dozens of disciplines — from athletics, aquatics and badminton to silat olahraga, [sepak takraw](/sports/sepak-takraw), traditional games and wushu.
 
 **Can a decision of the Sports Commissioner be appealed?**
 Yes. Section 21 allows a sports body aggrieved by a refusal, condition, or cancellation of registration to appeal to the Minister within 30 days of the date of the notice of the decision; the Minister's decision is final. The Minister may refer the matter to the Sports Advisory Panel.

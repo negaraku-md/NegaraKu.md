@@ -31,7 +31,7 @@ faq:
     a: "For companies, business zakat is treated as a deduction under Section 44(11A) and is capped at one-fortieth (2.5%) of aggregate income, not a ringgit-for-ringgit rebate as for individuals."
 
 lang: "en"
-sourceContentHash: "31071c5aa97ad73c"
+sourceContentHash: "850b3fce0e9aa149"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -103,7 +103,7 @@ In both cases, the zakat is still discharged in full as a religious obligation; 
 
 ## To whom must zakat be paid in order to qualify?
 
-The key requirement of Section 6A(3) is a receipt from a religious authority established under written law. In the Malaysian context, this refers to each state's official zakat body, such as the State Islamic Religious Council or the respective state Zakat Board/Centre.
+The key requirement of Section 6A(3) is a receipt from a religious authority established under written law. In the Malaysian context, this refers to each state's official zakat body, such as the [State Islamic Religious Council](/states/state-islamic-religious-councils) or the respective state Zakat Board/Centre.
 
 The text of Section 6A(3) refers to "zakat, fitrah or any other obligatory Islamic religious payment". Payments such as income zakat, business zakat (for individuals) and zakat fitrah usually fall within this category — so long as they are obligatory payments supported by a valid receipt. Whether some other form of zakat is regarded as "obligatory" for rebate purposes depends on the interpretation of the religious authority and LHDN practice.
 

@@ -31,7 +31,7 @@ faq:
     a: "对公司而言，营业天课被视为第44(11A)条下的一项扣除，且以聚合收入的四十分之一（2.5%）为上限，而非如个人般享有一令吉抵一令吉的回扣。"
 
 lang: "zh"
-sourceContentHash: "31071c5aa97ad73c"
+sourceContentHash: "850b3fce0e9aa149"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -103,7 +103,7 @@ keywords: ["zakat rebat cukai", "Seksyen 6A", "Akta Cukai Pendapatan 1967", "reb
 
 ## 天课须缴付给谁才符合资格？
 
-第6A(3)条的关键条件是：来自依成文法设立的宗教机关的收据。在马来西亚的语境中，这指的是每个州的官方天课机构，例如各州的伊斯兰宗教理事会（Majlis Agama Islam Negeri）或州属天课局／天课中心（Lembaga/Pusat Zakat）。
+第6A(3)条的关键条件是：来自依成文法设立的宗教机关的收据。在马来西亚的语境中，这指的是每个州的官方天课机构，例如各州的[伊斯兰宗教理事会](/states/state-islamic-religious-councils)（Majlis Agama Islam Negeri）或州属天课局／天课中心（Lembaga/Pusat Zakat）。
 
 第6A(3)条的文本提到"天课、开斋捐或其他义务性伊斯兰宗教缴款"。诸如收入天课、（个人的）营业天课以及开斋捐等缴付通常归入此类——只要它是义务性缴款并有有效收据佐证。至于某种其他形式的天课是否被视为回扣意义上的"义务性"，则取决于宗教机关的诠释与LHDN的做法。
 

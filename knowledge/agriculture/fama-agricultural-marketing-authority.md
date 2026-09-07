@@ -76,7 +76,7 @@ related: []
 keywords: ["FAMA", "Lembaga Pemasaran Pertanian Persekutuan", "Federal Agricultural Marketing Authority", "Akta 141", "pasar tani", "My Farm Outlet", "Agrobazaar", "pemasaran pertanian", "fama.gov.my"]
 ---
 
-Seorang petani sayur di Cameron Highlands boleh menanam hasil yang terbaik, tetapi
+Seorang petani sayur di [Cameron Highlands](/tourism/cameron-highlands-visitor-guide) boleh menanam hasil yang terbaik, tetapi
 harga yang diterimanya di ladang sering jauh berbeza dengan harga di gerai kota.
 Jurang itulah — antara ladang dan pinggan — yang menjadi urusan sebuah badan
 berkanun yang jarang disebut namanya tetapi kerap disentuh hasilnya.

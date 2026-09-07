@@ -244,7 +244,7 @@ membina rangkaian industri merentas rantau dan menyertai rantaian bekalan
 global. Menurut portal pendidikan ekonomi kerajaan Singapura (SG101), AEC
 membuka akses kepada kira-kira 600 juta pengguna di rantau ini. AEC turut
 menjadi asas kepada perjanjian perdagangan yang lebih luas seperti RCEP
-(Regional Comprehensive Economic Partnership), yang mengintegrasikan ASEAN
+([Regional Comprehensive Economic Partnership](/international/malaysia-rcep)), yang mengintegrasikan ASEAN
 dengan rakan kongsi seperti China, Jepun, Korea Selatan, Australia dan
 New Zealand.
 

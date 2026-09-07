@@ -29,7 +29,7 @@ faq:
     a: "According to legal summaries, a bribery offence is punishable by imprisonment of up to 20 years and a fine of not less than five times the value of the gratification or RM10,000, whichever is higher. These details should be re-checked against the full text of the Act."
 
 lang: "en"
-sourceContentHash: "a94c909aa325984c"
+sourceContentHash: "602c70742033a7cb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -112,7 +112,7 @@ The ruling means that virtual gambling operations can breach the 1953 Act even w
 
 Here lies an important feature of Malaysia's framework: the country **has no separate offence specifically named "match-fixing"**. Instead, the act of fixing a match's outcome is typically prosecuted using general criminal law.
 
-The main instrument is the **Malaysian Anti-Corruption Commission Act 2009** (MACC Act, Act 694), which came into force on 1 January 2009. This Act creates the offence of soliciting, receiving or giving "gratification" — covering both monetary and non-monetary forms — as an inducement or reward. The basic offences are contained in **Section 16** and **Section 17**.
+The main instrument is the **[Malaysian Anti-Corruption Commission](/glossary/suruhanjaya-pencegahan-rasuah-malaysia) Act 2009** (MACC Act, Act 694), which came into force on 1 January 2009. This Act creates the offence of soliciting, receiving or giving "gratification" — covering both monetary and non-monetary forms — as an inducement or reward. The basic offences are contained in **Section 16** and **Section 17**.
 
 According to legal summaries, the penalty for an individual bribery offence can reach **imprisonment of up to 20 years** and a **fine of not less than five times the value of the gratification or RM10,000, whichever is higher**. When a player or official accepts payment from criminals to influence the outcome of a match, it is treated as receiving gratification under this very framework.
 

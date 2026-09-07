@@ -22,7 +22,7 @@ appliesTo: "想了解「kampung」字面意义以外含义的人——包括研�
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "6ceb380a480b9192"
+sourceContentHash: "179d1d79aa799fca"
 
 status: "published"
 aiAssisted: true
@@ -72,7 +72,7 @@ kampung 同时也是**一个正式的行政单位**，设有村长、委员会�
 | **社会单位** | 透过邻里关系、宴会（kenduri）、互助合作（gotong-royong）以及祈祷所或社区礼堂（surau 或 balai raya）联系在一起的地方社群 |
 | **行政单位** | 隶属于 mukim（乡区）与县署（Pejabat Daerah）之下、获得认可的区域，设有 Ketua Kampung 与正式委员会 |
 
-这就是为什么有人可以说「我要 balik kampung（回乡）」（社会与情感层面的含义），
+这就是为什么有人可以说「我要 [balik kampung](/glossary/balik-kampung)（回乡）」（社会与情感层面的含义），
 而一封政府信函却将同一个 kampung 称为一个特定的行政区域。
 
 ## 村长与其委员会

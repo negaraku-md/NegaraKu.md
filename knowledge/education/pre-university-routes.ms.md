@@ -24,7 +24,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "29da71e30315cb58"
+sourceContentHash: "d0b49a1aee8b9177"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -150,8 +150,8 @@ Kementerian yang dinyatakan, berbeza daripada STPM, yang tiada kuota sedemikian.
 
 Program Asasi memecahkan corak ini sepenuhnya: tiada langsung badan peperiksaan
 luaran. Universiti yang menawarkannya mereka bentuk kurikulum, mengajarnya, dan
-menilainya — di bawah rangka kerja kualiti yang ditetapkan oleh Agensi Kelayakan
-Malaysia (MQA), tetapi tanpa majlis peperiksaan kebangsaan berasingan yang
+menilainya — di bawah rangka kerja kualiti yang ditetapkan oleh [Agensi Kelayakan
+Malaysia](/education/malaysian-qualifications-agency-and-accreditation) (MQA), tetapi tanpa majlis peperiksaan kebangsaan berasingan yang
 berdiri di antara pelajar dan institusi itu.
 
 Ini membawa akibat praktikal yang langsung: sesuatu program Asasi dibina untuk

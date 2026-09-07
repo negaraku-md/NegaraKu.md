@@ -20,7 +20,7 @@ appliesTo: "适合想要一份浅白且经过查证的说明，了解蒂蒂旺�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "bcde806a5d89c349"
+sourceContentHash: "c92a68e675abc2cc"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -67,7 +67,7 @@ keywords: ["Titiwangsa Range", "Banjaran Titiwangsa", "Main Range Malaysia", "Pe
 
 蒂蒂旺沙山脉，当地称为Banjaran Titiwangsa，或简称主山脉（Main Range），是一条纵贯半岛脊梁的连续山脉。马来西亚官方的生物多样性门户网站MyBIS，将其描述为「马来西亚半岛上最大、最突出且最连续的山脉」，从北端的马来西亚-泰国边境向南延伸约500公里，直至森美兰，山势在此处逐渐降低，并融入马六甲附近的沿海平原。
 
-它并非从头到尾只有一个名字的单一山脊。沿着它的走向，分布着多个各有名称的山系与山峰——霹雳最北端的Belum、金马仑高原、更南端的福隆港、靠近雪兰莪-彭亨边界的Gunung Nuang——但地理学家与政府规划人员，都将其视为一个连续的整体系统，因为无论在水文还是生态上，它的表现都如同一个整体。
+它并非从头到尾只有一个名字的单一山脊。沿着它的走向，分布着多个各有名称的山系与山峰——霹雳最北端的Belum、[金马仑高原](/tourism/cameron-highlands-visitor-guide)、更南端的福隆港、靠近雪兰莪-彭亨边界的Gunung Nuang——但地理学家与政府规划人员，都将其视为一个连续的整体系统，因为无论在水文还是生态上，它的表现都如同一个整体。
 
 ## 贯穿全半岛的分水岭
 

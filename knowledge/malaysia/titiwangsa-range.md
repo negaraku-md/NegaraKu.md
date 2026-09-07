@@ -66,7 +66,7 @@ That line is the Titiwangsa Range, and it is the single most consequential piece
 
 The Titiwangsa Range, known locally as Banjaran Titiwangsa or simply the Main Range, is a continuous chain of mountains running down the spine of the peninsula. Malaysia's own biodiversity portal, MyBIS, describes it as "the largest, most prominent and continuous mountain range in Peninsular Malaysia," stretching roughly 500 kilometres from the Malaysia-Thailand border in the north down to Negeri Sembilan, where the terrain loses height and merges into the coastal plain near Melaka.
 
-It isn't a single ridge with one name from end to end. Along its length it splits into named massifs and peaks — Belum in the far north of Perak, the Cameron Highlands plateau, Fraser's Hill further south, Gunung Nuang near the Selangor-Pahang border — but geographers and government planners treat it as one continuous system, because hydrologically and ecologically it behaves as one.
+It isn't a single ridge with one name from end to end. Along its length it splits into named massifs and peaks — Belum in the far north of Perak, the [Cameron Highlands](/tourism/cameron-highlands-visitor-guide) plateau, Fraser's Hill further south, Gunung Nuang near the Selangor-Pahang border — but geographers and government planners treat it as one continuous system, because hydrologically and ecologically it behaves as one.
 
 ## The watershed that runs the whole peninsula
 

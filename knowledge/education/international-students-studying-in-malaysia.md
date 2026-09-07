@@ -89,7 +89,7 @@ An offer letter from the wrong kind of institution is worthless for a visa, even
 
 It's easy to assume that if a Malaysian university's website lists an "MQA-recognised" programme, admission and immigration will simply follow. They don't, because the two checks answer different questions.
 
-The Malaysian Qualifications Agency (MQA) accredits the **programme** — it confirms the qualification meets the national quality framework set out in the Malaysian Qualifications Framework (MQF), and that a degree, diploma or certificate earned from it will be recognised. MQA is explicit that this accreditation work is about quality and standards, not about clearing a specific institution to take foreign nationals.
+The [Malaysian Qualifications Agency](/education/malaysian-qualifications-agency-and-accreditation) (MQA) accredits the **programme** — it confirms the qualification meets the national quality framework set out in the Malaysian Qualifications Framework (MQF), and that a degree, diploma or certificate earned from it will be recognised. MQA is explicit that this accreditation work is about quality and standards, not about clearing a specific institution to take foreign nationals.
 
 Whether the **institution** itself may enrol international students is a separate matter, governed through the Student Pass framework. The Immigration Department's own guidance sorts higher-education applicants into three categories:
 

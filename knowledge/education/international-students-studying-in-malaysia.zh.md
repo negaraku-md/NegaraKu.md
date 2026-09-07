@@ -34,7 +34,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "3279e4d7643ce1b8"
+sourceContentHash: "b1b055e68d2a5111"
 
 status: "published"
 aiAssisted: true
@@ -90,7 +90,7 @@ keywords:
 
 很容易会以为，只要一所马来西亚大学的网站上列明某课程「获 MQA 认可」，录取与移民手续便会自动跟着办妥。事实并非如此，因为这两项审核回答的是完全不同的问题。
 
-大马学术资格鉴定机构（MQA）认证的是**课程**——它确认该学历符合大马学术资格鉴定框架（MQF）所订立的国家质量框架，并确保由此取得的学位、文凭或证书会获得承认。MQA 明确表示，这项认证工作关乎质量与标准，而不是批准某特定院校招收外国公民。
+[大马学术资格鉴定机构](/education/malaysian-qualifications-agency-and-accreditation)（MQA）认证的是**课程**——它确认该学历符合大马学术资格鉴定框架（MQF）所订立的国家质量框架，并确保由此取得的学位、文凭或证书会获得承认。MQA 明确表示，这项认证工作关乎质量与标准，而不是批准某特定院校招收外国公民。
 
 至于**院校**本身是否可以招收国际学生，则是另一回事，由学生准证框架另行规范。移民局本身的指南，将高等教育申请者分为三类：
 

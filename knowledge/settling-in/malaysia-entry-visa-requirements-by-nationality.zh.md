@@ -34,7 +34,7 @@ faq:
     a: "短期社交访问准证通常不可延期；若要停留更久，你必须离境后再入境。它也不能转换为工作或学生准证——这些必须在你就业或求学之前通过正确的签证渠道办理。"
 
 lang: "zh"
-sourceContentHash: "965a46662f4bd8d9"
+sourceContentHash: "cc706715a5a043c3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -146,7 +146,7 @@ eNTRI（电子旅行登记与信息，Electronic Travel Registration & Informati
 
 - eNTRI 持有人每次访问最多可停留 15 天。
 - 每份申请只能使用一次，且不允许延期。
-- 入境仅限指定口岸——机场如吉隆坡国际机场（KLIA）、槟城、兰卡威、马六甲、士乃、古晋、美里、亚庇和纳闽，以及陆路口岸包括苏丹依斯干达（Sultan Iskandar）、武吉加逸希淡（Bukit Kayu Hitam）和巴东勿刹（Padang Besar）。
+- 入境仅限指定口岸——机场如吉隆坡国际机场（KLIA）、槟城、[兰卡威](/tourism/langkawi-visitor-guide)、马六甲、士乃、古晋、美里、亚庇和纳闽，以及陆路口岸包括苏丹依斯干达（Sultan Iskandar）、武吉加逸希淡（Bukit Kayu Hitam）和巴东勿刹（Padang Besar）。
 - 抵达时，旅客须出示 eNTRI 打印件，连同登机牌、充足资金证明、确认的回程机票以及住宿证明。
 
 由于印度公民目前也可享受范围更广的免签豁免，eNTRI 最好被理解为若干路径之一——旅客在申请前应确认哪一种对其出行日期有效。

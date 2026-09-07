@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Students, teachers, civil servants, journalists and anyone who sees the Jata Negara on a passport, coin, government letter or official building and wants to know the meaning of each element."
 
 lang: "en"
-sourceContentHash: "20de32f1b32c3504"
+sourceContentHash: "d089f6e067d44f67"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -70,7 +70,7 @@ In fact the Jata Negara is a map — not a geographical map, but a map of the ar
 
 According to the Department of Information Malaysia, the Jata Negara "is the official emblem of the government of Malaysia that has been approved by the Malay Rulers and gazetted on 27 May 1952."
 
-The design has been updated several times as the membership of the Federation changed. The version in force today is set out through the **Government Gazette P.U. (B) 563: Statutes of the National Emblem of Malaysia** dated 20 September 1990.
+The design has been updated several times as the membership of the Federation changed. The version in force today is set out through the **[Government Gazette](/glossary/warta-kerajaan) P.U. (B) 563: Statutes of the National Emblem of Malaysia** dated 20 September 1990.
 
 This article is descriptive. It states the official meaning of each element as recorded by government sources, without comparing any state or institution, and with full respect for the royal elements on the emblem.
 

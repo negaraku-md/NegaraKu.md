@@ -40,7 +40,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "4f354a706a5751f1"
+sourceContentHash: "89bfb5455655a271"
 
 status: "published"
 aiAssisted: true
@@ -95,8 +95,8 @@ Satu lagi telah menentukan, jauh sebelum perlantikan itu berlaku, berapa gaji
 jawatan itu, latihan apa yang diperlukannya, dan sama ada jawatan itu patut
 wujud langsung.
 
-Kedua-dua badan itu ialah Suruhanjaya Perkhidmatan Awam (SPA) dan Jabatan
-Perkhidmatan Awam (JPA). Kedua-duanya mudah dikelirukan — kedua-duanya
+Kedua-dua badan itu ialah Suruhanjaya Perkhidmatan Awam (SPA) dan [Jabatan
+Perkhidmatan Awam](/education/jpa-and-public-scholarships) (JPA). Kedua-duanya mudah dikelirukan — kedua-duanya
 mempunyai perkataan "perkhidmatan awam" dalam namanya, kedua-duanya terletak
 berhampiran teras kerajaan persekutuan, dan kedua-duanya berurusan dengan
 penjawat awam yang sama. Kedua-duanya bukan perkara yang sama.

@@ -90,7 +90,7 @@ Ramai yang mencampuradukkan "makanan warisan" dalam negara dengan "warisan UNESC
 
 ## Apa beza "Warisan Kebangsaan" dan "Warisan UNESCO"?
 
-Yang pertama ialah keputusan dalam negara. Jabatan Warisan Negara (JWN), di bawah Kementerian Pelancongan, Seni dan Budaya, mengisytiharkan sesuatu hidangan sebagai objek **Warisan Kebangsaan** melalui Pesuruhjaya Warisan, mengikut Akta Warisan Kebangsaan 2005 (Akta 645). Pengisytiharan itu diwartakan dalam Warta Kerajaan.
+Yang pertama ialah keputusan dalam negara. Jabatan Warisan Negara (JWN), di bawah Kementerian Pelancongan, Seni dan Budaya, mengisytiharkan sesuatu hidangan sebagai objek **Warisan Kebangsaan** melalui Pesuruhjaya Warisan, mengikut Akta Warisan Kebangsaan 2005 (Akta 645). Pengisytiharan itu diwartakan dalam [Warta Kerajaan](/glossary/warta-kerajaan).
 
 Yang kedua ialah pengiktirafan antarabangsa. UNESCO memasukkan amalan budaya ke dalam senarai di bawah Konvensyen Warisan Budaya Tidak Ketara melalui undian Jawatankuasa Antara Kerajaannya — proses yang berasingan sepenuhnya daripada daftar dalam negara. Konvensyen itu mempunyai lebih daripada satu senarai; kebanyakan elemen Malaysia berada dalam **Senarai Wakil**, manakala satu (Mek Mulung, 2023) berada dalam **Senarai Warisan yang Memerlukan Perlindungan Segera**.
 

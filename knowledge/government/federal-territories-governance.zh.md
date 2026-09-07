@@ -32,7 +32,7 @@ faq:
     a: "首相署辖下的联邦直辖区局（JWP）在联邦层面协调这三个直辖区的政策与发展，而吉隆坡市政局、布城机构和纳闽机构则是地方政府，负责各自直辖区内的日常事务，如发照、城市规划和市政服务。"
 
 lang: "zh"
-sourceContentHash: "d7f746970790659a"
+sourceContentHash: "5739f9cd1afe168b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -99,7 +99,7 @@ keywords: ["Wilayah Persekutuan", "Kuala Lumpur Putrajaya Labuan", "tiada Dewan 
 
 联邦直辖区是被置于联邦政府直接管辖之下、而不属于任何州政府的地区。马来西亚有三个：吉隆坡、布城和纳闽。
 
-这三者原本都属于某一州属。《联邦宪法》第1(4)条阐明，雪兰莪州的领土**不包括**吉隆坡联邦直辖区（通过*Constitution (Amendment) (No. 2) Act 1973* [A206法令]设立）和布城联邦直辖区（*Constitution (Amendment) Act 2001* [A1095法令]）；而沙巴州的领土**不包括**纳闽联邦直辖区（*Constitution (Amendment) (No. 2) Act 1984* [A585法令]）。同一条文明确指出"all such Federal Territories shall be territories of the Federation"——所有这些直辖区都是联邦的领土。
+这三者原本都属于某一州属。《联邦宪法》第1(4)条阐明，雪兰莪州的领土**不包括**吉隆坡联邦直辖区（通过*Constitution (Amendment) (No. 2) Act 1973* [A206法令]设立）和[布城联邦直辖区](/states/putrajaya)（*Constitution (Amendment) Act 2001* [A1095法令]）；而沙巴州的领土**不包括**纳闽联邦直辖区（*Constitution (Amendment) (No. 2) Act 1984* [A585法令]）。同一条文明确指出"all such Federal Territories shall be territories of the Federation"——所有这些直辖区都是联邦的领土。
 
 据联邦直辖区局所述，每个直辖区都是为特定角色而设立的：**吉隆坡**作为国家首都，**布城**作为联邦行政中心，**纳闽**作为国际商业与金融中心。吉隆坡于1974年被宣布为联邦直辖区，纳闽于1984年，布城于2001年。
 

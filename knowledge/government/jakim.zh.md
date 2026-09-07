@@ -36,7 +36,7 @@ faq:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "fbaef3c7f9998465"
+sourceContentHash: "f6f58358eee27f91"
 
 status: "published"
 aiAssisted: true
@@ -173,7 +173,7 @@ JAKIM负责。
 这意味着两个层面同时并存：
 
 - **联邦层面**——JAKIM作为协调者、MKI秘书处及联邦清真权力机构。
-- **州属层面**——州伊斯兰宗教理事会（MAIN）与州伊斯兰宗教局（JAIN），
+- **州属层面**——[州伊斯兰宗教理事会](/states/state-islamic-religious-councils)（MAIN）与州伊斯兰宗教局（JAIN），
   负责管理各自辖区内的伊斯兰教法。
 
 ## 常见误解

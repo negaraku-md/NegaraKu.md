@@ -86,7 +86,7 @@ Secara amnya, pendidikan agama Islam formal di Malaysia boleh dilihat dalam bebe
 - **Kelas Al-Quran dan Fardu Ain (KAFA)** — kelas asas agama untuk kanak-kanak sekolah rendah, di bawah selarasan JAKIM dan pihak berkuasa agama negeri.
 - **Institusi tahfiz** — memberi tumpuan kepada hafazan al-Quran; boleh berbentuk kerajaan, negeri, atau swasta.
 
-Ciri penting yang mempengaruhi keseluruhan gambaran ialah pembahagian kuasa. Di bawah Perlembagaan Persekutuan, hal ehwal agama Islam sebahagian besarnya adalah perkara negeri. Ini bermakna banyak institusi agama tertakluk kepada jabatan atau majlis agama Islam negeri, bukan semata-mata badan persekutuan — satu sebab utama kepelbagaian amalan pendaftaran antara negeri.
+Ciri penting yang mempengaruhi keseluruhan gambaran ialah pembahagian kuasa. Di bawah Perlembagaan Persekutuan, hal ehwal agama Islam sebahagian besarnya adalah perkara negeri. Ini bermakna banyak institusi agama tertakluk kepada jabatan atau [majlis agama Islam negeri](/states/state-islamic-religious-councils), bukan semata-mata badan persekutuan — satu sebab utama kepelbagaian amalan pendaftaran antara negeri.
 
 ## Bagaimana SABK berbeza daripada sekolah agama lain?
 

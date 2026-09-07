@@ -114,7 +114,7 @@ Rukun Negara ialah keluaran majlis itu. Ia bukan akta Parlimen dan bukan sebahag
 | 17 Mei 1970 | Mesyuarat kedua Jawatankuasa Rukun Negara — draf dikaji semula perenggan demi perenggan |
 | 16–18 Jun 1970 | Draf diperbahaskan dan diterima tertakluk kepada pindaan |
 | 11–13 Ogos 1970 | Rangka dalam Bahasa Malaysia dan Bahasa Inggeris diluluskan dengan beberapa pindaan |
-| 31 Ogos 1970 | Pengisytiharan Diraja; diterbitkan dalam Warta Kerajaan bertarikh sama |
+| 31 Ogos 1970 | Pengisytiharan Diraja; diterbitkan dalam [Warta Kerajaan](/glossary/warta-kerajaan) bertarikh sama |
 
 Jawatankuasa Rukun Negara dipengerusikan oleh Tun Tan Siew Sin. Antara ahlinya ialah Dato Harun bin Idris, Tan Sri Mohamed Ghazali bin Shafie, Profesor Dr. Syed Hussein Alatas, Dato Athi Nahappan, Puan Aishah binti Haji Abdul Ghani, Haji Hassan Adli bin Haji Arshad, Leonard Linggi Anak Jugah, Abdullah bin Dato Abdul Rahman, Kamarul Ariffin, Teh Thean Choo dan Lee Siew Yee.
 

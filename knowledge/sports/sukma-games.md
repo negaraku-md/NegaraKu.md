@@ -89,7 +89,7 @@ Berbeza dengan kejohanan kebangsaan yang lain, SUKMA tertumpu kepada atlet perin
 
 SUKMA pertama diadakan di Kuala Lumpur pada April 1986. Sejak itu, ia dianjurkan secara **dwitahunan** — setiap dua tahun — dan berselang-seli dengan Sukan SEA, dengan negeri-negeri menjadi tuan rumah secara bergilir.
 
-Penganjurannya dikendalikan oleh **Majlis Sukan Negara Malaysia (MSN)** bersama majlis-majlis sukan negeri, Majlis Sukan Sekolah-Sekolah Malaysia (MSSM), Majlis Sukan Universiti Malaysia (MASUM) dan Majlis Sukan Polis DiRaja Malaysia. Edisi terkini, **SUKMA XXII Selangor 2026**, dijadualkan berlangsung dari 15 hingga 24 Ogos 2026. Temasya khusus untuk atlet kurang upaya, **Para SUKMA**, pula dijadualkan berasingan pada 5 hingga 14 September 2026.
+Penganjurannya dikendalikan oleh **[Majlis Sukan Negara Malaysia](/sports/national-sports-council-msn) (MSN)** bersama majlis-majlis sukan negeri, Majlis Sukan Sekolah-Sekolah Malaysia (MSSM), Majlis Sukan Universiti Malaysia (MASUM) dan Majlis Sukan Polis DiRaja Malaysia. Edisi terkini, **SUKMA XXII Selangor 2026**, dijadualkan berlangsung dari 15 hingga 24 Ogos 2026. Temasya khusus untuk atlet kurang upaya, **Para SUKMA**, pula dijadualkan berasingan pada 5 hingga 14 September 2026.
 
 ## Bagaimana SUKMA menyuap saluran bakat elit?
 
@@ -97,7 +97,7 @@ SUKMA berdiri di anak tangga pertama sistem pembangunan sukan Malaysia. Atlet ya
 
 1. **SUKMA** — pentas negeri untuk atlet remaja membuktikan diri.
 2. **Program pembangunan bakat dan pelapis MSN** — antaranya Program Bakat dan Program Pelapis, iaitu program berperingkat yang menampung dan mengasah bakat baharu di bawah MSN.
-3. **Program Podium** — program atlet elit negara.
+3. **[Program Podium](/sports/national-sports-policy-podium-programme)** — program atlet elit negara.
 
 **Program Podium** dilancarkan pada 2 Februari 2016 di bawah Kementerian Belia dan Sukan dan dikendalikan oleh **Institut Sukan Negara (ISN)**. Ia direka khusus untuk menyediakan atlet elit mencapai prestasi bertaraf dunia di temasya utama antarabangsa seperti Sukan Olimpik, Sukan Asia dan Sukan Komanwel. Pemilihan atlet ke Program Podium dibuat oleh ISN berdasarkan kriteria pemilihan yang ditetapkannya.
 

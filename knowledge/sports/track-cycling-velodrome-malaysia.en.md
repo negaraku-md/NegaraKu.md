@@ -29,7 +29,7 @@ faq:
     a: "Azizulhasni Awang, a two-time Olympic medallist (bronze 2016, silver 2020) and 2017 keirin world champion."
 
 lang: "en"
-sourceContentHash: "0a92699bc2978b93"
+sourceContentHash: "490abb68b2e39c44"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,7 +85,7 @@ A long, roofed arena on the outskirts of Nilai is now where Malaysia's fastest r
 
 ## Why did Malaysia build the National Velodrome in Nilai?
 
-Malaysia's National Velodrome sits at Persiaran Perbandaran, 71800 Nilai, Negeri Sembilan, and is managed by the National Sports Council of Malaysia. It was built as Southeast Asia's first indoor velodrome, giving coaches and athletes an enclosed facility that allows continuous training regardless of the weather.
+Malaysia's National Velodrome sits at Persiaran Perbandaran, 71800 Nilai, Negeri Sembilan, and is managed by the [National Sports Council of Malaysia](/sports/national-sports-council-msn). It was built as Southeast Asia's first indoor velodrome, giving coaches and athletes an enclosed facility that allows continuous training regardless of the weather.
 
 The arena has become the country's main track cycling hub, replacing the older, more exposed and worn-out velodrome. With its international-standard facilities, it serves as the training and competition centre for the national team.
 

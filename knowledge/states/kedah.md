@@ -126,7 +126,7 @@ memahami Kedah.
 | Ibu negeri | Alor Setar |
 | Ketua negeri | Sultan Kedah |
 | Keluasan | 9,447 km persegi |
-| Daerah pentadbiran | 12, termasuk Langkawi |
+| Daerah pentadbiran | 12, termasuk [Langkawi](/tourism/langkawi-visitor-guide) |
 | Penduduk | 2.23 juta orang (anggaran DOSM 2025) |
 | KDNK 2024 | RM54.0 bilion, tumbuh 4.2 peratus |
 | Pelaburan diluluskan 2024 | RM45.8 bilion — keempat tertinggi antara negeri |
