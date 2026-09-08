@@ -5,8 +5,10 @@
 //   node scripts/post-to-facebook.mjs knowledge/history/kemerdekaan-1957.md ...
 // or pass them newline-separated via the CHANGED_FILES env var.
 //
-// Only the Bahasa Malaysia source file of each article is posted (translations
-// are skipped so a new article posts once, not three times).
+// Each article is posted ONCE, in Bahasa Malaysia. For an ms-master article the
+// Malay text is the master `slug.md`; for an en-master article it is `slug.ms.md`.
+// So en-master articles (e.g. ma63, new-economic-policy) post in Malay too, not
+// in their English master.
 //
 // Required env (store as GitHub secrets):
 //   FB_PAGE_ID              — the Page's numeric id
@@ -34,13 +36,26 @@ function fileList() {
     .filter(Boolean);
 }
 
-function isCanonicalArticle(file) {
-  return (
-    file.startsWith('knowledge/') &&
-    file.endsWith('.md') &&
-    !/\.(en|zh)\.md$/.test(file) &&
-    !file.startsWith('knowledge/about/')
-  );
+// Reduce the added files to unique article "bases" (path minus any lang suffix
+// and .md), skipping non-knowledge and about/ pages.
+function articleBases(files) {
+  const bases = new Set();
+  for (const f of files) {
+    if (!f.startsWith('knowledge/') || !f.endsWith('.md')) continue;
+    if (f.startsWith('knowledge/about/')) continue;
+    bases.add(f.replace(/\.(ms|en|zh)\.md$/, '').replace(/\.md$/, ''));
+  }
+  return [...bases];
+}
+
+// The Bahasa Malaysia file for an article base: en-master keeps Malay in
+// `<base>.ms.md`; ms-master keeps it in the master `<base>.md`.
+function malayFile(base) {
+  const ms = `${base}.ms.md`;
+  if (existsSync(ms)) return ms;
+  const md = `${base}.md`;
+  if (existsSync(md)) return md;
+  return null;
 }
 
 async function post(file) {
@@ -69,7 +84,7 @@ async function post(file) {
 }
 
 async function main() {
-  const files = fileList().filter(isCanonicalArticle).filter((f) => existsSync(f));
+  const files = [...new Set(articleBases(fileList()).map(malayFile).filter(Boolean))];
   if (!files.length) {
     console.log('[fb] no new canonical articles to post.');
     return;

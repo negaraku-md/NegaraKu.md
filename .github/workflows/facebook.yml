@@ -10,6 +10,10 @@ on:
       files:
         description: 'Space-separated knowledge/*.md paths to post (manual run)'
         required: false
+      dry_run:
+        description: 'Dry run — log what would be posted, do NOT call the Facebook API'
+        type: boolean
+        default: false
 
 permissions:
   contents: read
@@ -50,4 +54,6 @@ jobs:
           FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
           FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
           SITE_URL: https://negaraku.md
+          # Manual "Run workflow" with the dry-run box ticked → log only, no API call.
+          FB_DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '' }}
         run: node scripts/post-to-facebook.mjs ${{ steps.added.outputs.files }}
