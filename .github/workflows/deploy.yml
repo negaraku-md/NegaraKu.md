@@ -33,16 +33,16 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v5
         with:
           node-version: 20
           cache: npm
 
       - name: Cache node_modules
         id: node-modules
-        uses: actions/cache@v4
+        uses: actions/cache@v5
         with:
           path: node_modules
           key: node-modules-${{ runner.os }}-node20-${{ hashFiles('package-lock.json') }}
@@ -56,7 +56,7 @@ jobs:
       # happens ONCE, then restores instantly on every later run. Bump the key
       # suffix to force a refetch.
       - name: Cache OG system-font packages (.deb)
-        uses: actions/cache@v4
+        uses: actions/cache@v5
         with:
           path: ~/og-fonts-deb
           key: og-fonts-deb-noto-cjk-liberation-v1
@@ -99,7 +99,7 @@ jobs:
       # is bumped automatically when the renderer or logo changes, forcing a full
       # rebuild; otherwise the most recent cache is restored and topped up.
       - name: Cache Open Graph images
-        uses: actions/cache@v4
+        uses: actions/cache@v5
         with:
           path: public/og
           key: og-${{ hashFiles('scripts/build-og.mjs', 'scripts/logo-flower.mjs') }}-${{ github.sha }}
@@ -123,7 +123,7 @@ jobs:
           MAINTENANCE_UNTIL: ${{ github.event.inputs.maintenance_until }}
         run: npm run build
 
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v5
         with:
           path: dist
 
@@ -135,4 +135,4 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
