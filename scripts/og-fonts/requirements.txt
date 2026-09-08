@@ -1,0 +1,5 @@
+# Pinned deps for scripts/og-fonts/regen.py (woff2 -> ttf conversion for OG cards).
+# Only needed to REGENERATE assets/og-fonts/*.ttf; the site build never runs this
+# (the TTFs are vendored/committed). Install: python -m pip install -r requirements.txt
+fonttools==4.64.0
+brotli==1.2.0
