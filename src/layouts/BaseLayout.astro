@@ -9,6 +9,11 @@ import '@fontsource/montserrat/latin-800.css';
 import '@fontsource/montserrat/latin-900.css';
 import '@fontsource/lato/latin-400.css';
 import '@fontsource/lato/latin-700.css';
+// Preload URLs for the two above-the-fold critical faces — the hero title
+// (Montserrat 900) and body/lede (Lato 400). Vite resolves ?url to the hashed,
+// fingerprinted asset path so the <link rel="preload"> matches the real fetch.
+import montserratHeroUrl from '@fontsource/montserrat/files/montserrat-latin-900-normal.woff2?url';
+import latoBodyUrl from '@fontsource/lato/files/lato-latin-400-normal.woff2?url';
 import Header from '@/components/Header.astro';
 import Footer from '@/components/Footer.astro';
 import MaintenanceView from '@/components/MaintenanceView.astro';
@@ -146,6 +151,14 @@ const ogImageAlt = image ? title : 'NegaraKu.md — knowledge base about Malaysi
       title="NegaraKu.md"
       href={localePath('/rss.xml', locale)}
     />
+
+    {/* Preload the two above-the-fold critical fonts (hero title Montserrat 900,
+        body/lede Lato 400) so they arrive by first paint and the hero renders
+        once in the brand font — shrinks the font-swap repaint window that was
+        stretching Speed Index on throttled mobile. crossorigin is required so
+        the preload matches the CORS-mode font fetch (else it double-downloads). */}
+    <link rel="preload" as="font" type="font/woff2" href={montserratHeroUrl} crossorigin="anonymous" />
+    <link rel="preload" as="font" type="font/woff2" href={latoBodyUrl} crossorigin="anonymous" />
 
     {/* Latin brand fonts (Montserrat + Lato) are self-hosted via Fontsource
         (imported in the frontmatter, bundled by Vite) — no third-party font
