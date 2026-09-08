@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "cursor": "2026-09-08 07:27:07",
-  "updatedAt": "2026-09-08T07:32:07.859Z",
+  "cursor": "2026-09-08 08:21:19",
+  "updatedAt": "2026-09-08T08:26:20.253Z",
   "pages": {
     "states/how-state-governments-are-funded": {
       "readers": 27,
@@ -82,10 +82,10 @@
     "accounting/audit-exemption-criteria": {
       "readers": 27,
       "search": {
-        "total": 14,
+        "total": 16,
         "byBot": {
           "PetalBot": 2,
-          "Googlebot": 12
+          "Googlebot": 14
         }
       },
       "ai": {
@@ -368,18 +368,19 @@
         "byBot": {}
       },
       "ai": {
-        "total": 12,
+        "total": 14,
         "byBot": {
-          "Meta-ExternalAgent": 12
+          "Meta-ExternalAgent": 12,
+          "OAI-SearchBot": 2
         }
       }
     },
     "property/renovation-permits-and-ccc": {
-      "readers": 2,
+      "readers": 5,
       "search": {
-        "total": 2,
+        "total": 4,
         "byBot": {
-          "Googlebot": 2
+          "Googlebot": 4
         }
       },
       "ai": {
@@ -692,9 +693,9 @@
     "taxation/royal-malaysian-customs-rmcd": {
       "readers": 4,
       "search": {
-        "total": 3,
+        "total": 4,
         "byBot": {
-          "Googlebot": 3
+          "Googlebot": 4
         }
       },
       "ai": {
@@ -1150,9 +1151,10 @@
         }
       },
       "ai": {
-        "total": 16,
+        "total": 18,
         "byBot": {
-          "Meta-ExternalAgent": 16
+          "Meta-ExternalAgent": 16,
+          "OAI-SearchBot": 2
         }
       }
     },
@@ -1244,10 +1246,12 @@
       }
     },
     "tourism/getting-around-malaysia-for-tourists": {
-      "readers": 2,
+      "readers": 4,
       "search": {
-        "total": 0,
-        "byBot": {}
+        "total": 2,
+        "byBot": {
+          "Googlebot": 2
+        }
       },
       "ai": {
         "total": 14,
@@ -1891,9 +1895,10 @@
         }
       },
       "ai": {
-        "total": 16,
+        "total": 18,
         "byBot": {
-          "Meta-ExternalAgent": 16
+          "Meta-ExternalAgent": 16,
+          "OAI-SearchBot": 2
         }
       }
     },
@@ -2174,9 +2179,9 @@
     "taxation/withholding-tax-special-classes": {
       "readers": 7,
       "search": {
-        "total": 4,
+        "total": 5,
         "byBot": {
-          "Googlebot": 4
+          "Googlebot": 5
         }
       },
       "ai": {
@@ -2292,9 +2297,9 @@
     "companies/malaysias-telcos-and-5g": {
       "readers": 9,
       "search": {
-        "total": 6,
+        "total": 8,
         "byBot": {
-          "Googlebot": 6
+          "Googlebot": 8
         }
       },
       "ai": {
@@ -2726,9 +2731,9 @@
     "education/unified-examination-certificate-uec": {
       "readers": 3,
       "search": {
-        "total": 3,
+        "total": 4,
         "byBot": {
-          "Googlebot": 3
+          "Googlebot": 4
         }
       },
       "ai": {
@@ -3032,18 +3037,19 @@
         "byBot": {}
       },
       "ai": {
-        "total": 14,
+        "total": 16,
         "byBot": {
-          "Meta-ExternalAgent": 14
+          "Meta-ExternalAgent": 14,
+          "OAI-SearchBot": 2
         }
       }
     },
     "law/intellectual-property-law-malaysia": {
       "readers": 6,
       "search": {
-        "total": 3,
+        "total": 4,
         "byBot": {
-          "Googlebot": 3
+          "Googlebot": 4
         }
       },
       "ai": {
@@ -3317,9 +3323,9 @@
     "employment/trade-unions-malaysia": {
       "readers": 3,
       "search": {
-        "total": 2,
+        "total": 4,
         "byBot": {
-          "Googlebot": 2
+          "Googlebot": 4
         }
       },
       "ai": {
@@ -3666,9 +3672,9 @@
     "accounting/consolidated-financial-statements": {
       "readers": 5,
       "search": {
-        "total": 3,
+        "total": 4,
         "byBot": {
-          "Googlebot": 3
+          "Googlebot": 4
         }
       },
       "ai": {
@@ -3871,9 +3877,9 @@
     "taxation/business-structure-tax-comparison": {
       "readers": 5,
       "search": {
-        "total": 4,
+        "total": 5,
         "byBot": {
-          "Googlebot": 4
+          "Googlebot": 5
         }
       },
       "ai": {
@@ -3992,9 +3998,11 @@
         }
       },
       "ai": {
-        "total": 14,
+        "total": 24,
         "byBot": {
-          "Meta-ExternalAgent": 14
+          "Meta-ExternalAgent": 14,
+          "OAI-SearchBot": 8,
+          "ChatGPT-User": 2
         }
       }
     },
@@ -4097,9 +4105,10 @@
         }
       },
       "ai": {
-        "total": 12,
+        "total": 14,
         "byBot": {
-          "Meta-ExternalAgent": 12
+          "Meta-ExternalAgent": 12,
+          "OAI-SearchBot": 2
         }
       }
     },
@@ -4127,9 +4136,11 @@
         }
       },
       "ai": {
-        "total": 12,
+        "total": 21,
         "byBot": {
-          "Meta-ExternalAgent": 12
+          "Meta-ExternalAgent": 12,
+          "ChatGPT-User": 1,
+          "OAI-SearchBot": 8
         }
       }
     },
@@ -4166,9 +4177,9 @@
     "arts-culture/malaysian-film-industry": {
       "readers": 4,
       "search": {
-        "total": 2,
+        "total": 3,
         "byBot": {
-          "Googlebot": 2
+          "Googlebot": 3
         }
       },
       "ai": {
@@ -4424,9 +4435,10 @@
         }
       },
       "ai": {
-        "total": 15,
+        "total": 17,
         "byBot": {
-          "Meta-ExternalAgent": 15
+          "Meta-ExternalAgent": 15,
+          "OAI-SearchBot": 2
         }
       }
     },
@@ -4718,7 +4730,7 @@
       }
     },
     "taxation/double-deduction-list": {
-      "readers": 7,
+      "readers": 9,
       "search": {
         "total": 7,
         "byBot": {
@@ -4766,9 +4778,10 @@
     "law/consumer-protection-act": {
       "readers": 6,
       "search": {
-        "total": 7,
+        "total": 9,
         "byBot": {
-          "Googlebot": 7
+          "Googlebot": 7,
+          "PetalBot": 2
         }
       },
       "ai": {
@@ -5196,9 +5209,9 @@
     "law/islamic-family-law-malaysia": {
       "readers": 7,
       "search": {
-        "total": 7,
+        "total": 8,
         "byBot": {
-          "Googlebot": 7
+          "Googlebot": 8
         }
       },
       "ai": {
@@ -5211,9 +5224,9 @@
     "glossary/suruhanjaya-syarikat-malaysia": {
       "readers": 13,
       "search": {
-        "total": 4,
+        "total": 5,
         "byBot": {
-          "Googlebot": 4
+          "Googlebot": 5
         }
       },
       "ai": {
@@ -5252,7 +5265,7 @@
       }
     },
     "taxation/company-tax-residence": {
-      "readers": 14,
+      "readers": 17,
       "search": {
         "total": 4,
         "byBot": {
@@ -6306,7 +6319,7 @@
       }
     },
     "malaysia/population-composition": {
-      "readers": 7,
+      "readers": 9,
       "search": {
         "total": 3,
         "byBot": {
@@ -6467,9 +6480,9 @@
     "settling-in/de-rantau-nomad-pass": {
       "readers": 7,
       "search": {
-        "total": 3,
+        "total": 4,
         "byBot": {
-          "Googlebot": 3
+          "Googlebot": 4
         }
       },
       "ai": {
@@ -6605,9 +6618,10 @@
         }
       },
       "ai": {
-        "total": 14,
+        "total": 16,
         "byBot": {
-          "Meta-ExternalAgent": 14
+          "Meta-ExternalAgent": 14,
+          "OAI-SearchBot": 2
         }
       }
     },
@@ -6694,9 +6708,10 @@
         }
       },
       "ai": {
-        "total": 13,
+        "total": 15,
         "byBot": {
-          "Meta-ExternalAgent": 13
+          "Meta-ExternalAgent": 13,
+          "OAI-SearchBot": 2
         }
       }
     },
@@ -7022,9 +7037,9 @@
     "malaysia/federated-unfederated-states": {
       "readers": 3,
       "search": {
-        "total": 3,
+        "total": 4,
         "byBot": {
-          "Googlebot": 3
+          "Googlebot": 4
         }
       },
       "ai": {
@@ -7154,7 +7169,7 @@
       }
     },
     "arts-culture/malaysian-literature": {
-      "readers": 5,
+      "readers": 7,
       "search": {
         "total": 2,
         "byBot": {
@@ -7413,8 +7428,10 @@
     "business/representative-regional-office-malaysia": {
       "readers": 2,
       "search": {
-        "total": 0,
-        "byBot": {}
+        "total": 2,
+        "byBot": {
+          "PetalBot": 2
+        }
       },
       "ai": {
         "total": 23,
@@ -7494,8 +7511,10 @@
     "audit/dormant-company-audit-exemption": {
       "readers": 7,
       "search": {
-        "total": 0,
-        "byBot": {}
+        "total": 1,
+        "byBot": {
+          "Googlebot": 1
+        }
       },
       "ai": {
         "total": 12,
@@ -7818,9 +7837,10 @@
         }
       },
       "ai": {
-        "total": 15,
+        "total": 17,
         "byBot": {
-          "Meta-ExternalAgent": 15
+          "Meta-ExternalAgent": 15,
+          "OAI-SearchBot": 2
         }
       }
     },
@@ -8903,9 +8923,9 @@
     "business/msic-codes-malaysia": {
       "readers": 7,
       "search": {
-        "total": 2,
+        "total": 4,
         "byBot": {
-          "Googlebot": 2
+          "Googlebot": 4
         }
       },
       "ai": {
@@ -9193,9 +9213,9 @@
     "money-daily-life/unclaimed-moneys-egumis": {
       "readers": 5,
       "search": {
-        "total": 3,
+        "total": 4,
         "byBot": {
-          "Googlebot": 3
+          "Googlebot": 4
         }
       },
       "ai": {
@@ -9222,9 +9242,9 @@
     "company-secretary/conversion-of-company-type": {
       "readers": 10,
       "search": {
-        "total": 8,
+        "total": 9,
         "byBot": {
-          "Googlebot": 8
+          "Googlebot": 9
         }
       },
       "ai": {
@@ -9293,11 +9313,11 @@
       }
     },
     "energy/petroleum-development-act-1974": {
-      "readers": 3,
+      "readers": 5,
       "search": {
-        "total": 2,
+        "total": 4,
         "byBot": {
-          "Googlebot": 2
+          "Googlebot": 4
         }
       },
       "ai": {
@@ -9341,9 +9361,9 @@
     "audit/foreign-branch-audited-accounts-filing": {
       "readers": 3,
       "search": {
-        "total": 3,
+        "total": 4,
         "byBot": {
-          "Googlebot": 3
+          "Googlebot": 4
         }
       },
       "ai": {
@@ -9863,18 +9883,19 @@
         "byBot": {}
       },
       "ai": {
-        "total": 17,
+        "total": 19,
         "byBot": {
-          "Meta-ExternalAgent": 17
+          "Meta-ExternalAgent": 17,
+          "OAI-SearchBot": 2
         }
       }
     },
     "business/bumiputera-equity-requirements": {
       "readers": 5,
       "search": {
-        "total": 2,
+        "total": 4,
         "byBot": {
-          "Googlebot": 2
+          "Googlebot": 4
         }
       },
       "ai": {
@@ -10037,9 +10058,9 @@
     "cost-of-living/minimum-wage-and-median-income": {
       "readers": 10,
       "search": {
-        "total": 3,
+        "total": 4,
         "byBot": {
-          "Googlebot": 3
+          "Googlebot": 4
         }
       },
       "ai": {
@@ -10370,10 +10391,10 @@
         }
       },
       "ai": {
-        "total": 24,
+        "total": 26,
         "byBot": {
           "Meta-ExternalAgent": 14,
-          "ChatGPT-User": 2,
+          "ChatGPT-User": 4,
           "OAI-SearchBot": 8
         }
       }
@@ -10793,9 +10814,11 @@
         }
       },
       "ai": {
-        "total": 13,
+        "total": 21,
         "byBot": {
-          "Meta-ExternalAgent": 13
+          "Meta-ExternalAgent": 13,
+          "ChatGPT-User": 1,
+          "OAI-SearchBot": 7
         }
       }
     },
@@ -10943,8 +10966,10 @@
     "healthcare/medical-insurance": {
       "readers": 1,
       "search": {
-        "total": 0,
-        "byBot": {}
+        "total": 2,
+        "byBot": {
+          "PetalBot": 2
+        }
       },
       "ai": {
         "total": 16,
@@ -11359,9 +11384,11 @@
         }
       },
       "ai": {
-        "total": 15,
+        "total": 24,
         "byBot": {
-          "Meta-ExternalAgent": 15
+          "Meta-ExternalAgent": 15,
+          "OAI-SearchBot": 8,
+          "ChatGPT-User": 1
         }
       }
     },
@@ -11575,9 +11602,10 @@
     "government/matrade": {
       "readers": 11,
       "search": {
-        "total": 5,
+        "total": 7,
         "byBot": {
-          "Googlebot": 5
+          "Googlebot": 5,
+          "PetalBot": 2
         }
       },
       "ai": {
@@ -12107,7 +12135,7 @@
       }
     },
     "economy/income-inequality-poverty-line": {
-      "readers": 3,
+      "readers": 5,
       "search": {
         "total": 0,
         "byBot": {}
@@ -12804,9 +12832,9 @@
     "company-secretary/who-is-a-beneficial-owner": {
       "readers": 3,
       "search": {
-        "total": 2,
+        "total": 3,
         "byBot": {
-          "Googlebot": 2
+          "Googlebot": 3
         }
       },
       "ai": {
@@ -12877,9 +12905,9 @@
     "law/attorney-generals-chambers": {
       "readers": 7,
       "search": {
-        "total": 2,
+        "total": 3,
         "byBot": {
-          "Googlebot": 2
+          "Googlebot": 3
         }
       },
       "ai": {
@@ -12903,7 +12931,7 @@
       }
     },
     "government/pdrm": {
-      "readers": 41,
+      "readers": 65,
       "search": {
         "total": 4,
         "byBot": {
@@ -13069,9 +13097,9 @@
     "cost-of-living/b40-m40-t20-income-classification": {
       "readers": 4,
       "search": {
-        "total": 2,
+        "total": 3,
         "byBot": {
-          "Googlebot": 2
+          "Googlebot": 3
         }
       },
       "ai": {
@@ -13314,9 +13342,9 @@
     "property/electricity-tnb-account": {
       "readers": 4,
       "search": {
-        "total": 5,
+        "total": 6,
         "byBot": {
-          "Googlebot": 5
+          "Googlebot": 6
         }
       },
       "ai": {
@@ -13725,9 +13753,9 @@
     "audit/audit-oversight-board-pie-registration": {
       "readers": 4,
       "search": {
-        "total": 3,
+        "total": 4,
         "byBot": {
-          "Googlebot": 3
+          "Googlebot": 4
         }
       },
       "ai": {
@@ -13938,9 +13966,9 @@
     "arts-culture/dewan-bahasa-dan-pustaka": {
       "readers": 6,
       "search": {
-        "total": 5,
+        "total": 6,
         "byBot": {
-          "Googlebot": 5
+          "Googlebot": 6
         }
       },
       "ai": {
@@ -14330,9 +14358,9 @@
     "taxation/joint-or-separate-assessment": {
       "readers": 6,
       "search": {
-        "total": 4,
+        "total": 5,
         "byBot": {
-          "Googlebot": 4
+          "Googlebot": 5
         }
       },
       "ai": {
@@ -14685,7 +14713,7 @@
       }
     },
     "public-safety/commercial-crime-investigation-department-ccid": {
-      "readers": 8,
+      "readers": 10,
       "search": {
         "total": 3,
         "byBot": {
@@ -14818,7 +14846,7 @@
       }
     },
     "economy/manufacturing": {
-      "readers": 7,
+      "readers": 9,
       "search": {
         "total": 2,
         "byBot": {
@@ -15091,9 +15119,9 @@
     "audit/group-audit-component-auditors-malaysia": {
       "readers": 3,
       "search": {
-        "total": 3,
+        "total": 4,
         "byBot": {
-          "Googlebot": 3
+          "Googlebot": 4
         }
       },
       "ai": {
@@ -15327,9 +15355,9 @@
     "finance/venture-capital-private-equity-malaysia": {
       "readers": 2,
       "search": {
-        "total": 16,
+        "total": 18,
         "byBot": {
-          "PetalBot": 14,
+          "PetalBot": 16,
           "Googlebot": 2
         }
       },
@@ -15417,9 +15445,9 @@
     "business/starting-a-consultancy-malaysia": {
       "readers": 2,
       "search": {
-        "total": 18,
+        "total": 20,
         "byBot": {
-          "PetalBot": 14,
+          "PetalBot": 16,
           "Googlebot": 4
         }
       },
@@ -15448,9 +15476,9 @@
     "finance/initial-public-offering-malaysia": {
       "readers": 0,
       "search": {
-        "total": 12,
+        "total": 13,
         "byBot": {
-          "PetalBot": 12
+          "PetalBot": 13
         }
       },
       "ai": {
@@ -15463,9 +15491,9 @@
     "company-secretary/employee-stock-option-scheme-malaysia": {
       "readers": 8,
       "search": {
-        "total": 27,
+        "total": 29,
         "byBot": {
-          "PetalBot": 15,
+          "PetalBot": 17,
           "Googlebot": 12
         }
       },
