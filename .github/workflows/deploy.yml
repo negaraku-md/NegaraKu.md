@@ -51,21 +51,48 @@ jobs:
         if: steps.node-modules.outputs.cache-hit != 'true'
         run: npm ci
 
+      # Cache the CJK/Liberation .deb packages so the heavy fonts-noto-cjk
+      # download (the thing that was timing this step out on slow apt mirrors)
+      # happens ONCE, then restores instantly on every later run. Bump the key
+      # suffix to force a refetch.
+      - name: Cache OG system-font packages (.deb)
+        uses: actions/cache@v4
+        with:
+          path: ~/og-fonts-deb
+          key: og-fonts-deb-noto-cjk-liberation-v1
+
       - name: Install fonts for Open Graph images
-        # BEST-EFFORT — OG social-card fonts must never block the site deploy.
-        # A stalled mirror once hung this step 16+ min; a broken one then failed
-        # the whole build. Now: bounded (5 min), retried, and non-fatal. sharp
-        # renders the cards without these fonts (CJK just falls back to whatever
-        # is present) — it does not crash — so a bad apt only degrades the cards.
+        # BEST-EFFORT — OG social-card fonts must never block the site deploy
+        # (continue-on-error + a hard 5-min bound; sharp renders the cards even
+        # if a font is missing, it just degrades them). Two sources:
+        #   • Brand fonts (Montserrat/Lato) are VENDORED in assets/og-fonts and
+        #     registered straight into fontconfig — deterministic, zero network,
+        #     and the OG cards now use real brand type instead of a fallback.
+        #   • CJK + Liberation (system, for zh cards) install from the cached
+        #     .deb if present (offline), else download once and populate the
+        #     cache. A stalled mirror on the first run only degrades cards.
         continue-on-error: true
         timeout-minutes: 5
         run: |
-          for i in 1 2 3; do
-            sudo apt-get update && \
-            sudo apt-get install -y --no-install-recommends fonts-noto-cjk fonts-liberation && \
-            break
-            echo "apt attempt $i failed; retrying in 5s"; sleep 5
-          done
+          # Brand fonts — offline, always available
+          mkdir -p ~/.fonts
+          cp assets/og-fonts/*.ttf ~/.fonts/
+          # System CJK + Liberation — from cache if we have it, else fetch once
+          mkdir -p ~/og-fonts-deb
+          if ls ~/og-fonts-deb/*.deb >/dev/null 2>&1; then
+            sudo dpkg -i ~/og-fonts-deb/*.deb || sudo apt-get -f install -y --no-install-recommends || true
+          else
+            for i in 1 2 3; do
+              sudo apt-get update && \
+              sudo apt-get install -y --no-install-recommends --download-only fonts-noto-cjk fonts-liberation && break
+              echo "apt attempt $i failed; retrying in 5s"; sleep 5
+            done
+            cp /var/cache/apt/archives/*.deb ~/og-fonts-deb/ 2>/dev/null || true
+            sudo dpkg -i ~/og-fonts-deb/*.deb 2>/dev/null || sudo apt-get install -y --no-install-recommends fonts-noto-cjk fonts-liberation || true
+          fi
+          fc-cache -f >/dev/null 2>&1 || true
+          echo "== OG fonts visible to fontconfig =="
+          fc-list | grep -iE "montserrat|lato|noto sans cjk|liberation" | sort | head -30 || true
 
       # Restore the per-article Open Graph PNGs so build-og only regenerates the
       # cards whose content actually changed (see scripts/build-og.mjs). The key
