@@ -4,6 +4,7 @@ import { fileURLToPath } from 'node:url';
 import { defineConfig } from 'astro/config';
 import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
+import { FontaineTransform } from 'fontaine';
 
 // Canonical production URL (kept in sync with src/lib/site.ts).
 const SITE = 'https://negaraku.md';
@@ -120,6 +121,17 @@ export default defineConfig({
   // busy); fall back to Astro's default 4321 for a plain `npm run dev`.
   server: { port: Number(process.env.PORT) || 4321, host: true },
   vite: {
+    plugins: [
+      // Generate metric-adjusted fallback @font-faces for the self-hosted brand
+      // fonts (size-adjust / ascent/descent/line-gap-override tuned from each
+      // family's real metrics) and splice them into the font-family stacks. The
+      // fallback then occupies the same space as Montserrat/Lato, so the hero
+      // text does not reflow when the web font swaps in — kills the font-swap
+      // CLS seen on throttled mobile. Metrics come from fontaine's built-in DB.
+      FontaineTransform.vite({
+        fallbacks: ['Arial', 'Segoe UI', 'Roboto', 'Helvetica Neue', 'sans-serif'],
+      }),
+    ],
     server: {
       // Let the dev server be reached through a Cloudflare quick tunnel — the
       // host is a random *.trycloudflare.com, which Vite otherwise blocks (403).
