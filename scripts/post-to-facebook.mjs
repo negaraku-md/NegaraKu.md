@@ -5,10 +5,10 @@
 //   node scripts/post-to-facebook.mjs knowledge/history/kemerdekaan-1957.md ...
 // or pass them newline-separated via the CHANGED_FILES env var.
 //
-// Each article is posted ONCE, in Bahasa Malaysia. For an ms-master article the
-// Malay text is the master `slug.md`; for an en-master article it is `slug.ms.md`.
-// So en-master articles (e.g. ma63, new-economic-policy) post in Malay too, not
-// in their English master.
+// Each article is posted THREE times — once per language: Bahasa Malaysia (at
+// "/"), English ("/en") and Chinese ("/zh") — each using that language's own
+// title/summary and its locale-prefixed URL. A language's file is
+// `<base>.<lang>.md`, or the master `<base>.md` when the master IS that language.
 //
 // Required env (store as GitHub secrets):
 //   FB_PAGE_ID              — the Page's numeric id
@@ -51,14 +51,32 @@ function articleBases(files) {
   return [...bases];
 }
 
-// The Bahasa Malaysia file for an article base: en-master keeps Malay in
-// `<base>.ms.md`; ms-master keeps it in the master `<base>.md`.
-function malayFile(base) {
-  const ms = `${base}.ms.md`;
-  if (existsSync(ms)) return ms;
-  const md = `${base}.md`;
-  if (existsSync(md)) return md;
-  return null;
+const LANGS = ['ms', 'en', 'zh']; // ms at "/", en at "/en", zh at "/zh"
+
+// The file holding a given language for an article base: `<base>.<lang>.md`, or
+// the master `<base>.md` when the master itself is that language.
+function langFile(base, lang) {
+  const f = `${base}.${lang}.md`;
+  return existsSync(f) ? f : `${base}.md`;
+}
+
+// Expand the changed files into one target per (article, language): the file to
+// read + the URL locale prefix. Deduped, so each article yields exactly its
+// three language posts regardless of how many of its files changed.
+function targets(files) {
+  const out = [];
+  const seen = new Set();
+  for (const base of articleBases(files)) {
+    for (const lang of LANGS) {
+      const file = langFile(base, lang);
+      const key = `${base}|${lang}`;
+      if (existsSync(file) && !seen.has(key)) {
+        seen.add(key);
+        out.push({ file, prefix: lang === 'ms' ? '' : `/${lang}` });
+      }
+    }
+  }
+  return out;
 }
 
 // Posting to /{page-id}/feed needs a PAGE access token. Whatever is in
@@ -76,25 +94,25 @@ async function resolvePageToken() {
   return json.access_token;
 }
 
-// Build the {link, message} for an article, or null if it lacks slug/category.
-function buildPost(file, data) {
+// Build the {link, message} for a target, or null if the file lacks slug/category.
+function buildPost(file, data, prefix) {
   if (!data.slug || !data.category) {
     console.warn(`[fb] skip ${file}: missing slug/category`);
     return null;
   }
   return {
-    link: `${SITE_URL}/${data.category}/${data.slug}`,
+    link: `${SITE_URL}${prefix}/${data.category}/${data.slug}`,
     message: `${data.title}\n\n${data.summary}\n\n#Malaysia #NegaraKu #${data.category}`,
   };
 }
 
-async function preview(file) {
-  const p = buildPost(file, matter(await readFile(file, 'utf8')).data);
+async function preview(t) {
+  const p = buildPost(t.file, matter(await readFile(t.file, 'utf8')).data, t.prefix);
   if (p) console.log(`[fb] ${DRY_RUN ? 'DRY_RUN' : 'no credentials'} — would post:\n  ${p.link}\n  ${p.message}\n`);
 }
 
-async function post(file, pageToken) {
-  const p = buildPost(file, matter(await readFile(file, 'utf8')).data);
+async function post(t, pageToken) {
+  const p = buildPost(t.file, matter(await readFile(t.file, 'utf8')).data, t.prefix);
   if (!p) return false;
   const body = new URLSearchParams({ message: p.message, link: p.link, access_token: pageToken });
   const res = await fetch(`${GRAPH}/${PAGE_ID}/feed`, { method: 'POST', body });
@@ -108,26 +126,26 @@ async function post(file, pageToken) {
 }
 
 async function main() {
-  const files = [...new Set(articleBases(fileList()).map(malayFile).filter(Boolean))];
-  if (!files.length) {
+  const ts = targets(fileList());
+  if (!ts.length) {
     console.log('[fb] no new canonical articles to post.');
     return;
   }
 
   // Dry run / missing creds: log what would be posted, never call the API, exit 0.
   if (DRY_RUN || !PAGE_ID || !TOKEN) {
-    for (const f of files) await preview(f);
+    for (const t of ts) await preview(t);
     return;
   }
 
   const pageToken = await resolvePageToken(); // throws → main().catch → exit 1
 
   let posted = 0;
-  for (const f of files) if (await post(f, pageToken)) posted++;
-  console.log(`[fb] done — ${posted}/${files.length} posted.`);
-  // Fail the job (red ❌) if any article did not post — no more false green.
-  if (posted !== files.length) {
-    console.error(`[fb] FAILED — only ${posted}/${files.length} article(s) posted.`);
+  for (const t of ts) if (await post(t, pageToken)) posted++;
+  console.log(`[fb] done — ${posted}/${ts.length} posted.`);
+  // Fail the job (red ❌) if any post failed — no more false green.
+  if (posted !== ts.length) {
+    console.error(`[fb] FAILED — only ${posted}/${ts.length} post(s) succeeded.`);
     process.exit(1);
   }
 }
