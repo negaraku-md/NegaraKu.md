@@ -29,6 +29,9 @@ const PAGE_ID = process.env.FB_PAGE_ID;
 const TOKEN = process.env.FB_PAGE_ACCESS_TOKEN;
 const DRY_RUN = process.env.FB_DRY_RUN === '1';
 const GRAPH = 'https://graph.facebook.com/v21.0';
+// Emoji prefixed to the title line so it stands out (FB post text can't be bold).
+// Set to '' to drop it, or change the emoji here.
+const TITLE_EMOJI = '📌 ';
 
 function fileList() {
   const args = process.argv.slice(2);
@@ -102,7 +105,9 @@ function buildPost(file, data, prefix) {
   }
   return {
     link: `${SITE_URL}${prefix}/${data.category}/${data.slug}`,
-    message: `${data.title}\n\n${data.summary}\n\n#Malaysia #NegaraKu #${data.category}`,
+    // 📌 prefixes the title so it stands out above the summary (FB post text is
+    // plain — no bold). Swap TITLE_EMOJI to change or drop it.
+    message: `${TITLE_EMOJI}${data.title}\n\n${data.summary}\n\n#Malaysia #NegaraKu #${data.category}`,
   };
 }
 
