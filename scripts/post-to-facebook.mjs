@@ -12,7 +12,10 @@
 //
 // Required env (store as GitHub secrets):
 //   FB_PAGE_ID              — the Page's numeric id
-//   FB_PAGE_ACCESS_TOKEN    — a long-lived Page access token
+//   FB_PAGE_ACCESS_TOKEN    — a token that can act on the Page: a Page access
+//                             token, OR a System-User / long-lived User token
+//                             with a role on the Page. The script mints a Page
+//                             token from it before posting (see resolvePageToken).
 // Optional:
 //   SITE_URL                — defaults to https://negaraku.md
 //   FB_DRY_RUN=1            — log what would be posted, don't call the API
@@ -58,28 +61,49 @@ function malayFile(base) {
   return null;
 }
 
-async function post(file) {
-  const { data } = matter(await readFile(file, 'utf8'));
+// Posting to /{page-id}/feed needs a PAGE access token. Whatever is in
+// FB_PAGE_ACCESS_TOKEN — a Page token, or a System-User/User token with a role
+// on the Page — can mint the Page token via this call (a Page token returns
+// itself), so it works either way. Posting with a raw system-user token instead
+// hit "(#200) … requires … as an admin": that token isn't a Page token.
+async function resolvePageToken() {
+  const url = `${GRAPH}/${PAGE_ID}?fields=access_token&access_token=${encodeURIComponent(TOKEN)}`;
+  const res = await fetch(url);
+  const json = await res.json().catch(() => ({}));
+  if (!res.ok || !json.access_token) {
+    throw new Error(`could not mint a Page access token from FB_PAGE_ACCESS_TOKEN: ${JSON.stringify(json)}`);
+  }
+  return json.access_token;
+}
+
+// Build the {link, message} for an article, or null if it lacks slug/category.
+function buildPost(file, data) {
   if (!data.slug || !data.category) {
     console.warn(`[fb] skip ${file}: missing slug/category`);
-    return false;
+    return null;
   }
-  const link = `${SITE_URL}/${data.category}/${data.slug}`;
-  const message = `${data.title}\n\n${data.summary}\n\n#Malaysia #NegaraKu #${data.category}`;
+  return {
+    link: `${SITE_URL}/${data.category}/${data.slug}`,
+    message: `${data.title}\n\n${data.summary}\n\n#Malaysia #NegaraKu #${data.category}`,
+  };
+}
 
-  if (DRY_RUN || !PAGE_ID || !TOKEN) {
-    console.log(`[fb] ${DRY_RUN ? 'DRY_RUN' : 'no credentials'} — would post:\n  ${link}\n  ${message}\n`);
-    return false;
-  }
+async function preview(file) {
+  const p = buildPost(file, matter(await readFile(file, 'utf8')).data);
+  if (p) console.log(`[fb] ${DRY_RUN ? 'DRY_RUN' : 'no credentials'} — would post:\n  ${p.link}\n  ${p.message}\n`);
+}
 
-  const body = new URLSearchParams({ message, link, access_token: TOKEN });
+async function post(file, pageToken) {
+  const p = buildPost(file, matter(await readFile(file, 'utf8')).data);
+  if (!p) return false;
+  const body = new URLSearchParams({ message: p.message, link: p.link, access_token: pageToken });
   const res = await fetch(`${GRAPH}/${PAGE_ID}/feed`, { method: 'POST', body });
-  const json = await res.json();
+  const json = await res.json().catch(() => ({}));
   if (!res.ok) {
-    console.error(`[fb] FAILED ${link}:`, JSON.stringify(json));
+    console.error(`[fb] FAILED ${p.link}:`, JSON.stringify(json));
     return false;
   }
-  console.log(`[fb] posted ${link} → ${json.id}`);
+  console.log(`[fb] posted ${p.link} → ${json.id}`);
   return true;
 }
 
@@ -89,9 +113,23 @@ async function main() {
     console.log('[fb] no new canonical articles to post.');
     return;
   }
+
+  // Dry run / missing creds: log what would be posted, never call the API, exit 0.
+  if (DRY_RUN || !PAGE_ID || !TOKEN) {
+    for (const f of files) await preview(f);
+    return;
+  }
+
+  const pageToken = await resolvePageToken(); // throws → main().catch → exit 1
+
   let posted = 0;
-  for (const f of files) if (await post(f)) posted++;
+  for (const f of files) if (await post(f, pageToken)) posted++;
   console.log(`[fb] done — ${posted}/${files.length} posted.`);
+  // Fail the job (red ❌) if any article did not post — no more false green.
+  if (posted !== files.length) {
+    console.error(`[fb] FAILED — only ${posted}/${files.length} article(s) posted.`);
+    process.exit(1);
+  }
 }
 
 main().catch((err) => {
