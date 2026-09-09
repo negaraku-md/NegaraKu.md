@@ -69,6 +69,15 @@ relations:
   - { rel: "related-to", to: "sole-prop-vs-sdn-bhd" }
 related: ["companies-act-2016"]
 keywords: ["holding company malaysia", "investment holding company malaysia", "IHC tax malaysia", "group structure malaysia", "consolidated financial statements malaysia", "group relief section 44A", "section 60F income tax"]
+social:
+  hashtags:
+    - MalaysiaBusiness
+    - HoldingCompany
+    - GroupStructure
+    - CorporateStructure
+    - DoingBusinessInMalaysia
+    - MalaysiaTax
+    - MalaysiaCompanyLaw
 ---
 
 Once a business owns more than one company — a trading arm and a property arm, two brands, an operating company and the family's investments — the question stops being "how do I run my company?" and becomes "how do I structure the group?" A holding company sits on top, owning the others, and it can bring cleaner ownership, asset protection and a smoother exit. It also brings consolidated accounts, its own tax regime, and charges you might not expect when you move the pieces around.

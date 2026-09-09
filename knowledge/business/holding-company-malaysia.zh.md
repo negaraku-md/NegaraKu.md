@@ -70,6 +70,15 @@ relations:
   - { rel: "related-to", to: "sole-prop-vs-sdn-bhd" }
 related: ["companies-act-2016"]
 keywords: ["holding company malaysia", "investment holding company malaysia", "IHC tax malaysia", "group structure malaysia", "consolidated financial statements malaysia", "group relief section 44A", "section 60F income tax"]
+social:
+  hashtags:
+    - MalaysiaBusiness
+    - HoldingCompany
+    - GroupStructure
+    - CorporateStructure
+    - DoingBusinessInMalaysia
+    - MalaysiaTax
+    - MalaysiaCompanyLaw
 ---
 
 一旦一家企业拥有多于一家公司——一个贸易分支和一个房地产分支、两个品牌、一家营运公司和家族的投资——问题就不再是「我要如何经营我的公司？」，而变成「我要如何构建这个集团？」。控股公司位于顶端，持有其他公司，它能带来更清晰的所有权、资产保护和更顺畅的退出。它同时也带来综合账目、专属的税务制度，以及当你调动各个部分时可能意想不到的收费。

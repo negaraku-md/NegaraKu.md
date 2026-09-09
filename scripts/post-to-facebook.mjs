@@ -97,6 +97,48 @@ async function resolvePageToken() {
   return json.access_token;
 }
 
+// Turn any string into a hyphen-safe PascalCase hashtag: "arts-culture" →
+// "#ArtsCulture", "holding company" → "#HoldingCompany". (Facebook ends a tag at
+// the first hyphen/space, so #arts-culture would post as just #arts.)
+function hashtag(s) {
+  const t = String(s)
+    .replace(/^#/, '')
+    .replace(/[^a-zA-Z0-9]+/g, ' ')
+    .trim()
+    .split(' ')
+    .filter(Boolean)
+    .map((w) => w.charAt(0).toUpperCase() + w.slice(1))
+    .join('');
+  return t ? `#${t}` : '';
+}
+
+// A keyword phrase → hashtag, dropping a redundant trailing "malaysia" and
+// skipping phrases that would make an ugly tag (>3 words or >24 chars).
+function keywordTag(kw) {
+  const words = String(kw).trim().split(/\s+/).filter(Boolean);
+  if (words.length && words[words.length - 1].toLowerCase() === 'malaysia') words.pop();
+  if (!words.length || words.length > 3) return '';
+  const t = hashtag(words.join(' '));
+  return t.length <= 25 ? t : ''; // "#" + 24 chars
+}
+
+// The hashtag line for an article. Curated `social.hashtags` (+ #NegaraKu) win;
+// otherwise fall back to brand + category + subcategory + a few keyword tags.
+function hashtags(data) {
+  const curated = (data.social?.hashtags ?? []).map(hashtag).filter(Boolean);
+  if (curated.length) return [...new Set([...curated, '#NegaraKu'])].join(' ');
+
+  const tags = ['#Malaysia', '#NegaraKu', hashtag(data.category)];
+  for (const sc of data.subcategory ?? []) tags.push(hashtag(sc));
+  let kw = 0;
+  for (const k of data.keywords ?? []) {
+    if (kw >= 4) break;
+    const t = keywordTag(k);
+    if (t && !tags.includes(t)) { tags.push(t); kw++; }
+  }
+  return [...new Set(tags.filter(Boolean))].join(' ');
+}
+
 // Build the {link, message} for a target, or null if the file lacks slug/category.
 function buildPost(file, data, prefix) {
   if (!data.slug || !data.category) {
@@ -107,7 +149,7 @@ function buildPost(file, data, prefix) {
     link: `${SITE_URL}${prefix}/${data.category}/${data.slug}`,
     // 📌 prefixes the title so it stands out above the summary (FB post text is
     // plain — no bold). Swap TITLE_EMOJI to change or drop it.
-    message: `${TITLE_EMOJI}${data.title}\n\n${data.summary}\n\n#Malaysia #NegaraKu #${data.category}`,
+    message: `${TITLE_EMOJI}${data.title}\n\n${data.summary}\n\n${hashtags(data)}`,
   };
 }
 

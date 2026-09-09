@@ -270,6 +270,12 @@ const knowledge = defineCollection({
     /** Primary entity this page is about, e.g. "Sdn Bhd", "SSM". */
     entity: z.string().optional(),
     keywords: z.array(z.string()).default([]),
+    /** Social-media metadata. `hashtags` are curated, English, WITHOUT the "#"
+     *  (e.g. ["HoldingCompany","MalaysiaTax"]); the Facebook auto-poster
+     *  (scripts/post-to-facebook.mjs) publishes them + #NegaraKu. When absent it
+     *  falls back to category/subcategory + keyword-derived tags. Language-neutral
+     *  — keep the same list on all three language files. Not in the translation hash. */
+    social: z.object({ hashtags: z.array(z.string()).default([]) }).optional(),
 
     // ---- misc ---------------------------------------------------------
     hero: z.string().optional(),

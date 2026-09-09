@@ -70,6 +70,15 @@ relations:
   - { rel: "related-to", to: "sole-prop-vs-sdn-bhd" }
 related: ["companies-act-2016"]
 keywords: ["holding company malaysia", "investment holding company malaysia", "IHC tax malaysia", "group structure malaysia", "consolidated financial statements malaysia", "group relief section 44A", "section 60F income tax"]
+social:
+  hashtags:
+    - MalaysiaBusiness
+    - HoldingCompany
+    - GroupStructure
+    - CorporateStructure
+    - DoingBusinessInMalaysia
+    - MalaysiaTax
+    - MalaysiaCompanyLaw
 ---
 
 Sebaik sahaja sebuah perniagaan memiliki lebih daripada satu syarikat — satu lengan perdagangan dan satu lengan hartanah, dua jenama, sebuah syarikat operasi dan pelaburan keluarga — persoalannya tidak lagi "bagaimana saya menjalankan syarikat saya?" tetapi menjadi "bagaimana saya menyusun kumpulan?". Sebuah syarikat pemegangan duduk di atas, memiliki yang lain, dan ia boleh membawa pemilikan yang lebih kemas, perlindungan aset dan pelupusan yang lebih lancar. Ia juga membawa akaun disatukan, rejim cukainya sendiri, dan caj yang mungkin tidak anda jangkakan apabila anda memindahkan setiap bahagian.
