@@ -173,6 +173,19 @@ function hashtags(data) {
   return [...new Set(tags.filter(Boolean))].join(' ');
 }
 
+// Append campaign tags so a click stays attributable even when the referrer is
+// stripped — Facebook's in-app browser and link shim often drop it. The edge
+// referrer classifier (worker/src/referrer.js) reads utm_source/utm_medium; the
+// site's canonical tags keep ?utm_* from causing any duplicate-content/SEO issue.
+// The one convention for every channel we post to: utm_source = the platform,
+// utm_medium = its kind (social / messaging / …).
+function withUtm(url, source, medium) {
+  const u = new URL(url);
+  u.searchParams.set('utm_source', source);
+  u.searchParams.set('utm_medium', medium);
+  return u.toString();
+}
+
 // Build the {link, message} for a target, or null if the file lacks slug/category.
 function buildPost(file, data, prefix) {
   if (!data.slug || !data.category) {
@@ -180,7 +193,7 @@ function buildPost(file, data, prefix) {
     return null;
   }
   return {
-    link: `${SITE_URL}${prefix}/${data.category}/${data.slug}`,
+    link: withUtm(`${SITE_URL}${prefix}/${data.category}/${data.slug}`, 'facebook', 'social'),
     // 📌 prefixes the title so it stands out above the summary (FB post text is
     // plain — no bold). Swap TITLE_EMOJI to change or drop it.
     message: `${TITLE_EMOJI}${data.title}\n\n${data.summary}\n\n${hashtags(data)}`,
