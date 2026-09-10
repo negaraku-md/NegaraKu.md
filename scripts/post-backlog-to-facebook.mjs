@@ -227,19 +227,31 @@ async function handle(t, manifest) {
   return ok ? 'full' : 'comment-pending';
 }
 
-// Preflight: log the Page token's scopes so a missing pages_manage_engagement is
-// obvious in the run log instead of a guess. Non-fatal.
+// Preflight: log the token's scopes AND each Page's tasks. Creating a comment
+// needs BOTH pages_manage_engagement (scope) AND the MODERATE task on the Page —
+// posting only needs CREATE_CONTENT, which is why posts work but comments #200.
+// Logs both so the exact gap is visible in the run, never a guess. Non-fatal.
 async function reportScopes() {
   try {
     const pageToken = await pageTokenFor(PAGES.ms, TOKEN);
-    const res = await fetch(`${GRAPH}/debug_token?input_token=${encodeURIComponent(pageToken)}&access_token=${encodeURIComponent(TOKEN)}`);
-    const scopes = (await res.json().catch(() => ({})))?.data?.scopes;
+    const dbg = await (await fetch(`${GRAPH}/debug_token?input_token=${encodeURIComponent(pageToken)}&access_token=${encodeURIComponent(TOKEN)}`)).json().catch(() => ({}));
+    const scopes = dbg?.data?.scopes;
     if (Array.isArray(scopes)) {
       console.log(`[fb-backlog] page-token scopes: ${scopes.join(', ') || '(none)'}`);
-      console.log(`[fb-backlog] pages_manage_engagement on token: ${scopes.includes('pages_manage_engagement') ? 'YES ✅' : 'NO ❌ (comments will stay pending)'}`);
+      console.log(`[fb-backlog] scope pages_manage_engagement: ${scopes.includes('pages_manage_engagement') ? 'YES ✅' : 'NO ❌'}`);
+    }
+    // Page-level tasks — MODERATE is what comment-creation requires.
+    const acc = await (await fetch(`${GRAPH}/me/accounts?fields=id,name,tasks&access_token=${encodeURIComponent(TOKEN)}`)).json().catch(() => ({}));
+    if (Array.isArray(acc?.data) && acc.data.length) {
+      for (const pg of acc.data) {
+        const tasks = pg.tasks || [];
+        console.log(`[fb-backlog] page ${pg.id} (${pg.name}) tasks: ${tasks.join(', ') || '(none)'} — MODERATE: ${tasks.includes('MODERATE') ? 'YES ✅' : 'NO ❌'}`);
+      }
+    } else {
+      console.log('[fb-backlog] /me/accounts returned no pages:', JSON.stringify(acc).slice(0, 300));
     }
   } catch (err) {
-    console.warn('[fb-backlog] scope preflight skipped:', err.message);
+    console.warn('[fb-backlog] preflight skipped:', err.message);
   }
 }
 
