@@ -87,6 +87,30 @@ export function pillarOf(category) {
   return pillarMap()[category] || 'understand';
 }
 
+// Localized category display names from categories.ts (id → {ms,en,zh}) so
+// hashtags can be written in the post's own language. Parsed once. Same
+// same-object lookahead as pillarMap; the name object is a single line
+// `name: { ms: '…', en: '…', zh: '…' }`.
+let _catNames = null;
+function catNameMap() {
+  if (_catNames) return _catNames;
+  _catNames = {};
+  try {
+    const src = readFileSync(
+      path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../../src/lib/categories.ts'),
+      'utf8',
+    );
+    const re = /id:\s*'([^']+)'(?:(?!id:\s*')[\s\S])*?name:\s*\{\s*ms:\s*'([^']*)',\s*en:\s*'([^']*)',\s*zh:\s*'([^']*)'/g;
+    let m;
+    while ((m = re.exec(src))) _catNames[m[1]] = { ms: m[2], en: m[3], zh: m[4] };
+  } catch { /* graceful — no localized names, category tag is skipped */ }
+  return _catNames;
+}
+export function categoryName(cat, lang = 'en') {
+  const n = catNameMap()[cat];
+  return n ? (n[lang] || n.en || '') : '';
+}
+
 // --- hashtags --------------------------------------------------------------
 
 // Any string → a hyphen-safe PascalCase hashtag: "arts-culture" → "#ArtsCulture".
@@ -114,21 +138,35 @@ export function keywordTag(kw) {
   return t.length <= 25 ? t : '';
 }
 
-// The hashtag line for an article. Curated `social.hashtags` (+ #NegaraKu) win;
-// otherwise brand + category + subcategory + a few keyword tags.
-export function hashtags(data) {
-  const curated = (data.social?.hashtags ?? []).map(hashtag).filter(Boolean);
-  if (curated.length) return [...new Set([...curated, '#NegaraKu'])].join(' ');
+const COUNTRY_TAG = { en: '#Malaysia', ms: '#Malaysia', zh: '#马来西亚' };
+const hasCJK = (s) => /[㐀-鿿豈-﫿぀-ヿ]/.test(String(s));
 
-  const tags = ['#Malaysia', '#NegaraKu', hashtag(data.category)];
-  for (const sc of data.subcategory ?? []) tags.push(hashtag(sc));
+// The hashtag line for an article, IN THE POST'S LANGUAGE. Leads with a
+// localized country tag + the #NegaraKu brand + the localized category name
+// (from categories.ts), then adds curated social.hashtags and a few keyword
+// tags — but keeps only ones appropriate for the language: a numeric reference
+// (e.g. "#Act777") is language-neutral and always kept; otherwise the tag must
+// be in the post's script (CJK for zh, Latin for ms/en), so English generic
+// tags don't leak onto a Malay or Chinese post. Capped so the line stays tidy.
+export function hashtags(data, lang = 'en') {
+  const okForLang = (t) => /\d/.test(t) || (lang === 'zh' ? hasCJK(t) : !hasCJK(t));
+  const out = [COUNTRY_TAG[lang] || '#Malaysia', '#NegaraKu'];
+  const catName = categoryName(data.category, lang);
+  if (catName) { const t = hashtag(catName); if (t && !out.includes(t)) out.push(t); }
+  for (const raw of data.social?.hashtags ?? []) {
+    const t = hashtag(raw);
+    if (t && okForLang(t) && !out.includes(t)) out.push(t);
+  }
   let kw = 0;
   for (const k of data.keywords ?? []) {
-    if (kw >= 4) break;
+    if (kw >= 3 || out.length >= 8) break;
     const t = keywordTag(k);
-    if (t && !tags.includes(t)) { tags.push(t); kw++; }
+    // Same rule as curated: keep numeric references in any language, otherwise
+    // only tags in the post's script — so an English keyword tag never lands on
+    // a Malay or Chinese post, but "#Act777" does.
+    if (t && okForLang(t) && !out.includes(t)) { out.push(t); kw++; }
   }
-  return [...new Set(tags.filter(Boolean))].join(' ');
+  return [...new Set(out.filter(Boolean))].join(' ');
 }
 
 // The canonical article URL for a language: SITE_URL + locale prefix + path +

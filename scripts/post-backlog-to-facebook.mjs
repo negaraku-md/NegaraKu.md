@@ -123,7 +123,7 @@ function buildPost(file, data, lang, prefix) {
   // it's attributed even when FB strips the referrer. Then the summary (value),
   // a comment-prompt question, and hashtags. The post stays a native photo (the
   // photo is the attachment), so it keeps a photo's reach.
-  const caption = [`${data.title}`, `${CTA[lang]} ${link}`, '', data.summary, '', prompt, '', hashtags(data)].join('\n');
+  const caption = [`${data.title}`, `${CTA[lang]} ${link}`, '', data.summary, '', prompt, '', hashtags(data, lang)].join('\n');
   return { image, caption, link };
 }
 

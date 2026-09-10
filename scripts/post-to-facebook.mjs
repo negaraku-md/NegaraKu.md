@@ -97,7 +97,7 @@ function targets(files) {
 }
 
 // Build the {link, message} for a target, or null if the file lacks slug/category.
-function buildPost(file, data, prefix) {
+function buildPost(file, data, lang, prefix) {
   if (!data.slug || !data.category) {
     console.warn(`[fb] skip ${file}: missing slug/category`);
     return null;
@@ -105,18 +105,19 @@ function buildPost(file, data, prefix) {
   return {
     link: withUtm(articleUrl(SITE_URL, prefix, data.category, data.slug), 'facebook', 'social'),
     // 📌 prefixes the title so it stands out above the summary (FB post text is
-    // plain — no bold). Swap TITLE_EMOJI to change or drop it.
-    message: `${TITLE_EMOJI}${data.title}\n\n${data.summary}\n\n${hashtags(data)}`,
+    // plain — no bold). Swap TITLE_EMOJI to change or drop it. Hashtags follow
+    // the post's language.
+    message: `${TITLE_EMOJI}${data.title}\n\n${data.summary}\n\n${hashtags(data, lang)}`,
   };
 }
 
 async function preview(t) {
-  const p = buildPost(t.file, matter(await readFile(t.file, 'utf8')).data, t.prefix);
+  const p = buildPost(t.file, matter(await readFile(t.file, 'utf8')).data, t.lang, t.prefix);
   if (p) console.log(`[fb] ${DRY_RUN ? 'DRY_RUN' : 'no credentials'} — would post [${t.lang}] → page ${PAGES[t.lang]}:\n  ${p.link}\n  ${p.message}\n`);
 }
 
 async function post(t) {
-  const p = buildPost(t.file, matter(await readFile(t.file, 'utf8')).data, t.prefix);
+  const p = buildPost(t.file, matter(await readFile(t.file, 'utf8')).data, t.lang, t.prefix);
   if (!p) return false;
   const pageId = PAGES[t.lang];
   let pageToken;
