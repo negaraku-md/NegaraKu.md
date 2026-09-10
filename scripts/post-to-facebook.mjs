@@ -30,7 +30,7 @@ import matter from 'gray-matter';
 import {
   PAGES, LANGS, GRAPH, localePrefix,
   articleBases, langFile, isPublishedBase,
-  hashtags, withUtm, pageTokenFor,
+  hashtags, withUtm, articleUrl, pageTokenFor,
 } from './lib/facebook.mjs';
 
 const SITE_URL = process.env.SITE_URL ?? 'https://negaraku.md';
@@ -103,7 +103,7 @@ function buildPost(file, data, prefix) {
     return null;
   }
   return {
-    link: withUtm(`${SITE_URL}${prefix}/${data.category}/${data.slug}`, 'facebook', 'social'),
+    link: withUtm(articleUrl(SITE_URL, prefix, data.category, data.slug), 'facebook', 'social'),
     // 📌 prefixes the title so it stands out above the summary (FB post text is
     // plain — no bold). Swap TITLE_EMOJI to change or drop it.
     message: `${TITLE_EMOJI}${data.title}\n\n${data.summary}\n\n${hashtags(data)}`,

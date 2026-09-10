@@ -131,6 +131,14 @@ export function hashtags(data) {
   return [...new Set(tags.filter(Boolean))].join(' ');
 }
 
+// The canonical article URL for a language: SITE_URL + locale prefix + path +
+// a TRAILING SLASH. That trailing slash is the site's canonical form — the
+// no-slash URL 301-redirects to it, and emitting the canonical form directly
+// keeps link scrapers (Facebook's included) from having to follow a redirect.
+export function articleUrl(siteUrl, prefix, category, slug) {
+  return `${siteUrl}${prefix}/${category}/${slug}/`;
+}
+
 // Append campaign tags so a click stays attributable even when the referrer is
 // stripped (Facebook's in-app browser/link shim often drops it). The edge
 // classifier (worker/src/referrer.js) reads utm_source/utm_medium.

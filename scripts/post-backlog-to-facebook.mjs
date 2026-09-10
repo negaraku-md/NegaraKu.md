@@ -26,7 +26,7 @@ import matter from 'gray-matter';
 import {
   PAGES, LANGS, GRAPH, localePrefix,
   articleBases, langFile, isPublishedBase,
-  hashtags, withUtm, pillarOf, pageTokenFor,
+  hashtags, withUtm, articleUrl, pillarOf, pageTokenFor,
 } from './lib/facebook.mjs';
 
 const SITE_URL = process.env.SITE_URL ?? 'https://negaraku.md';
@@ -98,7 +98,8 @@ function buildPost(file, data, lang, prefix) {
   const rel = `/${data.category}/${data.slug}`;
   // OG cards are generated per language at /og/<lang>/<category>/<slug>.png.
   const image = `${SITE_URL}/og/${lang}${rel}.png`;
-  const link = withUtm(`${SITE_URL}${prefix}${rel}`, 'facebook', 'social');
+  // Canonical (trailing-slash) URL so Facebook's scraper never follows a 301.
+  const link = withUtm(articleUrl(SITE_URL, prefix, data.category, data.slug), 'facebook', 'social');
   const prompt = (PROMPT[pillarOf(data.category)] ?? PROMPT.understand)[lang];
   // Value-first: the title as the hook, the article's own summary (the useful
   // bit), a comment-prompt question, then the "link in comments" nudge and
@@ -111,11 +112,25 @@ async function readPost(t) {
   return buildPost(t.file, matter(await readFile(t.file, 'utf8')).data, t.lang, t.prefix);
 }
 
+// Confirm the article page is actually live (HTTP 200, following redirects)
+// before posting — cheap insurance against posting a link Facebook would scrape
+// as a 404 (e.g. a page not yet deployed). Any network error counts as not-live.
+async function isLive(url) {
+  try {
+    const res = await fetch(url, { redirect: 'follow' });
+    return res.ok;
+  } catch {
+    return false;
+  }
+}
+
 async function preview(t) {
   const p = await readPost(t);
   if (!p) return;
+  const live = await isLive(p.link);
   console.log(
-    `[fb-backlog] ${DRY_RUN ? 'DRY_RUN' : 'no credentials'} — would post [${t.lang}] → page ${PAGES[t.lang]}\n` +
+    `[fb-backlog] ${DRY_RUN ? 'DRY_RUN' : 'no credentials'} — would post [${t.lang}] → page ${PAGES[t.lang]}` +
+    `${live ? '' : '  ⚠️ URL NOT LIVE — would be SKIPPED'}\n` +
     `  photo:   ${p.image}\n` +
     `  comment: ${p.link}\n` +
     `  caption:\n${p.caption.split('\n').map((l) => '    | ' + l).join('\n')}\n`,
@@ -125,6 +140,12 @@ async function preview(t) {
 async function post(t) {
   const p = await readPost(t);
   if (!p) return false;
+  // Never post a link Facebook would see as a 404 — skip (fail) a target whose
+  // page isn't live 200 yet, so it's retried on the next run rather than posted broken.
+  if (!(await isLive(p.link))) {
+    console.error(`[fb-backlog] SKIP [${t.lang}] page not live (not HTTP 200): ${p.link}`);
+    return false;
+  }
   const pageId = PAGES[t.lang];
   let pageToken;
   try {
