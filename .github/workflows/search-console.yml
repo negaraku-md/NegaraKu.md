@@ -1,0 +1,44 @@
+name: Archive Search Console
+
+# Pulls Google Search Console performance (per-month clicks/impressions merged
+# forward past GSC's 16-month retention, plus last-90-day totals / per-category
+# split / top queries) into analytics/gsc.json. Weekly + on demand. Commits the
+# snapshot; does NOT trigger a deploy (deploy.yml ignores analytics/**).
+
+on:
+  schedule:
+    - cron: '0 5 * * 1' # Mondays 05:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: search-console
+  cancel-in-progress: false
+
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+      - name: Pull Search Console
+        env:
+          GSC_SA_KEY: ${{ secrets.GSC_SA_KEY }}
+        run: node scripts/pull-search-console.mjs
+      - name: Commit the snapshot if it changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet -- analytics/gsc.json; then
+            git add analytics/gsc.json
+            git commit -m "chore(analytics): archive Search Console [skip deploy]"
+            git push
+          else
+            echo "GSC snapshot unchanged — nothing to commit"
+          fi
