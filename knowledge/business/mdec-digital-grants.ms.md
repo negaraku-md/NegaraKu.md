@@ -37,11 +37,11 @@ sourceContentHash: "ea511039e4e4cbe4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
-reviewed: null
-reviewDue: null
+reviewer: "ashton-tan"
+reviewed: 2026-09-10
+reviewDue: 2027-09-10
 revision: null
 revisions: []
 

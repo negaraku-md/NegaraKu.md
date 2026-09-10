@@ -36,12 +36,12 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "draft"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
-reviewed: null
+reviewer: "ashton-tan"
+reviewed: 2026-09-10
 published: null
-reviewDue: null
+reviewDue: 2027-09-10
 revision: null
 revisions: []
 

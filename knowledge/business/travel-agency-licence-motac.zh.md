@@ -37,12 +37,12 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "267a25e0a7a19ed2"
 
-status: "draft"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
-reviewed: null
+reviewer: "ashton-tan"
+reviewed: 2026-09-10
 published: null
-reviewDue: null
+reviewDue: 2027-09-10
 revision: null
 revisions: []
 

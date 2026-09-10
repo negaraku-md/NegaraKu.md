@@ -39,11 +39,11 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "b7ee74767d9d900f"
 
-status: "draft"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
-reviewed: null
-reviewDue: null
+reviewer: "ashton-tan"
+reviewed: 2026-09-10
+reviewDue: 2027-09-10
 revision: null
 revisions: []
 
