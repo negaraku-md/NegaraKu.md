@@ -1,0 +1,44 @@
+name: Archive Facebook insights
+
+# Pulls follower + per-post insights (impressions / reach / clicks) for the
+# ms/en/zh Pages into analytics/facebook.json, so the numbers persist in the
+# repo. Weekly + on demand. Commits the snapshot; does NOT trigger a deploy
+# (deploy.yml ignores analytics/**) — the site picks it up on the next build.
+
+on:
+  schedule:
+    - cron: '0 4 * * 1' # Mondays 04:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: facebook-insights
+  cancel-in-progress: false
+
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+      - name: Pull Facebook insights
+        env:
+          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+        run: node scripts/pull-facebook-insights.mjs
+      - name: Commit the snapshot if it changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet -- analytics/facebook.json; then
+            git add analytics/facebook.json
+            git commit -m "chore(analytics): archive Facebook insights [skip deploy]"
+            git push
+          else
+            echo "insights unchanged — nothing to commit"
+          fi
