@@ -38,7 +38,7 @@ const SITE_URL = process.env.SITE_URL ?? 'https://negaraku.md';
 const PAGES = {
   ms: process.env.FB_PAGE_ID_MS || process.env.FB_PAGE_ID || '1227711683752433',
   en: process.env.FB_PAGE_ID_EN || '1334373156431426',
-  zh: process.env.FB_PAGE_ID_ZH || '', // set when the Chinese Page (negaraku.md.zh) exists
+  zh: process.env.FB_PAGE_ID_ZH || '1382294921622880', // negaraku.md.zh (profile.php id 61594411584737)
 };
 const TOKEN = process.env.FB_PAGE_ACCESS_TOKEN;
 const DRY_RUN = process.env.FB_DRY_RUN === '1';
