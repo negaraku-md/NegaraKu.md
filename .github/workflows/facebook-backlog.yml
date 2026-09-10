@@ -54,7 +54,9 @@ jobs:
         run: node scripts/post-backlog-to-facebook.mjs ${{ github.event.inputs.files }}
 
       - name: Commit the posted-manifest if it changed
-        if: ${{ github.event.inputs.dry_run != 'true' }}
+        # always() so a post id is committed even if the poster exits non-zero —
+        # the manifest is the record of what's live and must never be lost.
+        if: ${{ always() && github.event.inputs.dry_run != 'true' }}
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

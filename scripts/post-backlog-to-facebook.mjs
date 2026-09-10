@@ -29,7 +29,8 @@ import {
   hashtags, withUtm, articleUrl, pillarOf, pageTokenFor,
 } from './lib/facebook.mjs';
 import {
-  loadManifest, saveManifest, isPosted, markPosted, nextBatch, perRunArticles,
+  loadManifest, saveManifest, isDone, hasPost, entryFor, markPost, markComment,
+  nextBatch, perRunArticles,
 } from './lib/fb-queue.mjs';
 
 const SITE_URL = process.env.SITE_URL ?? 'https://negaraku.md';
@@ -75,7 +76,8 @@ function fileList() {
 
 // Expand a list of article bases into one target per (base, language): the file
 // to read, the locale prefix, and the base (for manifest keying). Skips a
-// (base, lang) already in the manifest so nothing is ever double-posted.
+// (base, lang) that is FULLY done (post + comment); a target whose post exists
+// but whose comment failed is kept so post() retries just the comment.
 function targetsForBases(bases, manifest) {
   const out = [];
   const seen = new Set();
@@ -83,7 +85,7 @@ function targetsForBases(bases, manifest) {
     if (!isPublishedBase(base)) continue;
     for (const lang of LANGS) {
       if (!PAGES[lang]) continue;
-      if (isPosted(manifest, base, lang)) continue; // already posted — never again
+      if (isDone(manifest, base, lang)) continue; // post + comment both up — nothing to do
       const file = langFile(base, lang);
       const k = `${base}|${lang}`;
       if (existsSync(file) && !seen.has(k)) {
@@ -156,86 +158,119 @@ async function preview(t) {
   );
 }
 
-async function post(t) {
+// Mint the Page token for a language (cached in the lib). Null on failure.
+async function tokenFor(lang) {
+  try {
+    return await pageTokenFor(PAGES[lang], TOKEN);
+  } catch (err) {
+    console.error(`[fb-backlog] FAILED [${lang}] mint token:`, err.message);
+    return null;
+  }
+}
+
+// Post the article link as a comment on an existing story. True on success.
+async function postComment(storyId, link, pageToken) {
+  const res = await fetch(`${GRAPH}/${storyId}/comments`, {
+    method: 'POST',
+    body: new URLSearchParams({ message: link, access_token: pageToken }),
+  });
+  if (res.ok) return true;
+  const j = await res.json().catch(() => ({}));
+  console.error(`[fb-backlog] COMMENT FAILED ${storyId}:`, JSON.stringify(j));
+  return false;
+}
+
+// Handle one target, persisting to the manifest after EACH successful API call
+// so a failure never loses a post id or recreates a post. Returns:
+//   'skip' | 'error' | 'full' | 'comment-ok' | 'comment-pending'.
+async function handle(t, manifest) {
   const p = await readPost(t);
-  if (!p) return false;
-  // Never post a link Facebook would see as a 404 — skip (fail) a target whose
-  // page isn't live 200 yet, so it's retried on the next run rather than posted broken.
+  if (!p) return 'skip';
+  const pageToken = await tokenFor(t.lang);
+  if (!pageToken) return 'error';
+
+  // RETRY path — the photo already exists; comment on the SAVED id, never recreate it.
+  const existing = entryFor(manifest, t.base, t.lang);
+  if (existing?.post_id) {
+    const ok = await postComment(existing.post_id, p.link, pageToken);
+    markComment(manifest, t.base, t.lang, ok ? 'posted' : 'failed');
+    saveManifest(manifest);
+    console.log(`[fb-backlog] retry-comment [${t.lang}] ${existing.post_id} → ${ok ? 'posted' : 'still pending'}`);
+    return ok ? 'comment-ok' : 'comment-pending';
+  }
+
+  // NEW path — create the native photo post.
   if (!(await isLive(p.link))) {
     console.error(`[fb-backlog] SKIP [${t.lang}] page not live (not HTTP 200): ${p.link}`);
-    return false;
+    return 'error';
   }
-  const pageId = PAGES[t.lang];
-  let pageToken;
-  try {
-    pageToken = await pageTokenFor(pageId, TOKEN);
-  } catch (err) {
-    console.error(`[fb-backlog] FAILED [${t.lang}] mint token for page ${pageId}:`, err.message);
-    return false;
-  }
-  // 1) Native photo post — FB fetches the OG card from its public URL.
-  const photoBody = new URLSearchParams({ url: p.image, caption: p.caption, published: 'true', access_token: pageToken });
-  const photoRes = await fetch(`${GRAPH}/${pageId}/photos`, { method: 'POST', body: photoBody });
+  const photoRes = await fetch(`${GRAPH}/${PAGES[t.lang]}/photos`, {
+    method: 'POST',
+    body: new URLSearchParams({ url: p.image, caption: p.caption, published: 'true', access_token: pageToken }),
+  });
   const photoJson = await photoRes.json().catch(() => ({}));
   if (!photoRes.ok) {
     console.error(`[fb-backlog] FAILED [${t.lang}] photo ${p.image}:`, JSON.stringify(photoJson));
-    return false;
+    return 'error';
   }
-  // /photos returns the photo id and the feed story's post_id.
   const storyId = photoJson.post_id || photoJson.id;
-  // 2) Post the link as the FIRST COMMENT (max reach — no link in the post body).
-  //    Needs pages_manage_engagement on the token. Failure is loud and counted so
-  //    the run goes red (the post would otherwise have no link at all); the photo
-  //    is already live, so we still record it (return storyId) to avoid a
-  //    duplicate photo on retry.
-  const cmtRes = await fetch(`${GRAPH}/${storyId}/comments`, {
-    method: 'POST',
-    body: new URLSearchParams({ message: p.link, access_token: pageToken }),
-  });
-  if (!cmtRes.ok) {
-    const cmtJson = await cmtRes.json().catch(() => ({}));
-    console.error(`[fb-backlog] COMMENT FAILED [${t.lang}] ${storyId} — needs pages_manage_engagement on the token:`, JSON.stringify(cmtJson));
-    commentFailures++;
-  }
+  // Persist the post id IMMEDIATELY — before the comment — so it can never be lost.
+  markPost(manifest, t.base, t.lang, storyId);
+  manifest.meta.startedAt ??= new Date().toISOString();
+  saveManifest(manifest);
   console.log(`[fb-backlog] posted [${t.lang}] ${p.image} → ${storyId}`);
-  return storyId;
+
+  const ok = await postComment(storyId, p.link, pageToken);
+  markComment(manifest, t.base, t.lang, ok ? 'posted' : 'failed');
+  saveManifest(manifest);
+  if (!ok) console.error(`[fb-backlog] [${t.lang}] ${storyId} — first comment pending (needs pages_manage_engagement); a later run retries ONLY the comment.`);
+  return ok ? 'full' : 'comment-pending';
 }
-// Counts first-comment failures across the run so main() can fail the job (a
-// post with no comment has no link at all).
-let commentFailures = 0;
+
+// Preflight: log the Page token's scopes so a missing pages_manage_engagement is
+// obvious in the run log instead of a guess. Non-fatal.
+async function reportScopes() {
+  try {
+    const pageToken = await pageTokenFor(PAGES.ms, TOKEN);
+    const res = await fetch(`${GRAPH}/debug_token?input_token=${encodeURIComponent(pageToken)}&access_token=${encodeURIComponent(TOKEN)}`);
+    const scopes = (await res.json().catch(() => ({})))?.data?.scopes;
+    if (Array.isArray(scopes)) {
+      console.log(`[fb-backlog] page-token scopes: ${scopes.join(', ') || '(none)'}`);
+      console.log(`[fb-backlog] pages_manage_engagement on token: ${scopes.includes('pages_manage_engagement') ? 'YES ✅' : 'NO ❌ (comments will stay pending)'}`);
+    }
+  } catch (err) {
+    console.warn('[fb-backlog] scope preflight skipped:', err.message);
+  }
+}
 
 async function main() {
   const files = fileList();
-  // Safety: a no-files run does nothing unless queue mode is explicitly on, so
-  // the poster can't accidentally drain the backlog.
+  // Safety: a no-files run does nothing unless queue mode is explicitly on.
   if (!files.length && !QUEUE) {
     console.log('[fb-backlog] no files and not queue mode (set FB_BACKLOG_QUEUE=1) — nothing to do.');
     return;
   }
   const manifest = loadManifest();
   const ts = resolveTargets(files, manifest);
-  if (!ts.length) { console.log('[fb-backlog] nothing to post (all caught up / already posted).'); return; }
+  if (!ts.length) { console.log('[fb-backlog] nothing to do (all caught up).'); return; }
 
   // Dry run / no token: log what would be posted, never call the API, exit 0.
   if (DRY_RUN || !TOKEN) { for (const t of ts) await preview(t); return; }
 
-  let posted = 0;
-  for (const t of ts) {
-    const story = await post(t);
-    if (story) {
-      posted++;
-      manifest.meta.startedAt ??= new Date().toISOString();
-      markPosted(manifest, t.base, t.lang, story);
-    }
+  await reportScopes();
+
+  const tally = { full: 0, 'comment-ok': 0, 'comment-pending': 0, error: 0, skip: 0 };
+  for (const t of ts) tally[await handle(t, manifest)] += 1;
+  console.log(`[fb-backlog] done — post+comment ${tally.full}, comment-retried ${tally['comment-ok']}, comment-pending ${tally['comment-pending']}, error ${tally.error}; ${Object.keys(manifest.posted).length} in manifest.`);
+
+  // A pending comment is SOFT: the post is saved and a later run retries only the
+  // comment, so the run stays GREEN and the manifest commits (a post id is never
+  // lost). A photo/token error is HARD.
+  if (tally['comment-pending'] > 0) {
+    console.error(`[fb-backlog] NOTE — ${tally['comment-pending']} first-comment(s) pending (needs pages_manage_engagement). Posts saved; auto-retried next run.`);
   }
-  saveManifest(manifest); // record successes even on a partial run
-  console.log(`[fb-backlog] done — ${posted}/${ts.length} posted; ${Object.keys(manifest.posted).length} total in manifest.`);
-  if (posted !== ts.length) {
-    console.error(`[fb-backlog] FAILED — only ${posted}/${ts.length} post(s) succeeded.`);
-    process.exit(1);
-  }
-  if (commentFailures > 0) {
-    console.error(`[fb-backlog] FAILED — ${commentFailures} first-comment(s) did not post (link missing). Add pages_manage_engagement to the token.`);
+  if (tally.error > 0) {
+    console.error(`[fb-backlog] FAILED — ${tally.error} post/token error(s).`);
     process.exit(1);
   }
 }

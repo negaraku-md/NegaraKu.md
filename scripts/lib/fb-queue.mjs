@@ -117,10 +117,36 @@ export function saveManifest(m) {
   writeFileSync(MANIFEST, JSON.stringify(m, null, 2) + '\n', 'utf8');
 }
 
+// Manifest entry per (base, lang): { post_id, at, comment_status }.
+//   post_id       — the Facebook story id once the PHOTO is posted (persisted
+//                   immediately, before the comment is attempted).
+//   comment_status— 'pending' | 'posted' | 'failed' for the first comment.
+// This decouples the post from its comment: a comment failure never causes the
+// post to be recreated — a later run retries ONLY the comment on the saved id.
 const key = (base, lang) => `${base}#${lang}`;
-export const isPosted = (m, base, lang) => Boolean(m.posted[key(base, lang)]);
-export function markPosted(m, base, lang, story) {
-  m.posted[key(base, lang)] = { at: new Date().toISOString(), story: story ?? null };
+export const entryFor = (m, base, lang) => m.posted[key(base, lang)];
+// Fully done only when the post AND its first comment are up.
+export const isDone = (m, base, lang) => {
+  const e = m.posted[key(base, lang)];
+  return Boolean(e && e.post_id && e.comment_status === 'posted');
+};
+// The photo post already exists (so retry must comment on it, never recreate it).
+export const hasPost = (m, base, lang) => Boolean(m.posted[key(base, lang)]?.post_id);
+// Record a successful photo post — call the instant the post returns, before the
+// comment, so the id is never lost.
+export function markPost(m, base, lang, postId) {
+  const k = key(base, lang);
+  m.posted[k] = {
+    ...(m.posted[k] || {}),
+    post_id: postId,
+    at: new Date().toISOString(),
+    comment_status: m.posted[k]?.comment_status ?? 'pending',
+  };
+}
+// Record the first-comment outcome ('posted' | 'failed').
+export function markComment(m, base, lang, status) {
+  const k = key(base, lang);
+  (m.posted[k] ||= {}).comment_status = status;
 }
 
 // --- warm-up ramp ----------------------------------------------------------
@@ -138,15 +164,15 @@ export function perRunArticles(manifest, now = Date.now()) {
   return 5;
 }
 
-// The next batch of article bases to post: ranked order, dropping any base whose
-// every language is already posted, capped at `count`. A base with a partially
-// failed set (some langs missing) is included so the missing langs are retried;
-// the poster skips the langs already in the manifest.
+// The next batch of article bases to act on: ranked order, dropping any base
+// that is fully done in every language (post + comment), capped at `count`. A
+// base with a failed/pending comment is still included so the poster retries the
+// comment on the existing post — it never recreates a post that has an id.
 export function nextBatch(manifest, count) {
   const ranked = rankBases(listPublishedBases());
   const batch = [];
   for (const b of ranked) {
-    if (LANGS.every((lang) => isPosted(manifest, b.base, lang))) continue;
+    if (LANGS.every((lang) => isDone(manifest, b.base, lang))) continue;
     batch.push(b);
     if (batch.length >= count) break;
   }
