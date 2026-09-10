@@ -268,11 +268,6 @@ const avgSources = sourced ? (sources / sourced).toFixed(1) : '0';
           </li>
         ))}
       </ol>
-      <p class="hint">
-        {d.needsReview.total === 0
-          ? L('Setiap topik dalam saluran telah diterbitkan.', 'Every topic in the pipeline is published.', '管道中的每个主题均已发布。')
-          : L(`${d.needsReview.total} topik belum diterbitkan.`, `${d.needsReview.total} topic${d.needsReview.total === 1 ? '' : 's'} not yet published.`, `${d.needsReview.total} 个主题尚未发布。`)}
-      </p>
     </div>
   </div>
 
