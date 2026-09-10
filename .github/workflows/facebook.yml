@@ -1,10 +1,15 @@
 name: Post new articles to Facebook
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - 'knowledge/**/*.md'
+  # AUTO-POST ON PUBLISH IS PAUSED. While the backlog drip scheduler
+  # (facebook-backlog.yml) is posting the existing corpus, this per-publish
+  # trigger is off — otherwise a newly published article would post twice
+  # (once here, once when the drip reaches it). Re-enable by uncommenting the
+  # push block below once the backlog is fully posted. Manual dispatch still works.
+  # push:
+  #   branches: [main]
+  #   paths:
+  #     - 'knowledge/**/*.md'
   workflow_dispatch:
     inputs:
       files:
