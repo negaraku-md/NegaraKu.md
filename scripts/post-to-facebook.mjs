@@ -24,23 +24,16 @@
 //   FB_DRY_RUN=1            — log what would be posted, don't call the API
 
 import { readFile } from 'node:fs/promises';
-import { existsSync, readFileSync } from 'node:fs';
+import { existsSync } from 'node:fs';
 import { execFileSync } from 'node:child_process';
 import matter from 'gray-matter';
+import {
+  PAGES, LANGS, GRAPH, localePrefix,
+  articleBases, langFile, isPublishedBase,
+  hashtags, withUtm, pageTokenFor,
+} from './lib/facebook.mjs';
 
 const SITE_URL = process.env.SITE_URL ?? 'https://negaraku.md';
-// One Facebook Page PER language. Page IDs are PUBLIC (they appear in each Page's
-// URL), so they live here rather than in secrets; override with FB_PAGE_ID_<LANG>
-// if ever needed. The one secret is FB_PAGE_ACCESS_TOKEN. A language with a blank
-// id (e.g. zh before its Page exists) is skipped, not posted.
-// These are the Graph/business-asset ids (the id the Page is assigned to the
-// system user by, and the id /{id}/feed posts to) — NOT the page-backed profile
-// ids in the profile.php?id=… URLs (ms 61591716781692 / en 61593942555079).
-const PAGES = {
-  ms: process.env.FB_PAGE_ID_MS || process.env.FB_PAGE_ID || '1227711683752433',
-  en: process.env.FB_PAGE_ID_EN || '1334373156431426',
-  zh: process.env.FB_PAGE_ID_ZH || '1382294921622880', // negaraku.md.zh (profile.php id 61594411584737)
-};
 const TOKEN = process.env.FB_PAGE_ACCESS_TOKEN;
 const DRY_RUN = process.env.FB_DRY_RUN === '1';
 // The commit the push started from. When set (the push trigger passes it), we
@@ -49,7 +42,6 @@ const DRY_RUN = process.env.FB_DRY_RUN === '1';
 // Unset (manual workflow_dispatch with an explicit file list) → no baseline, so
 // any currently-published file the caller named is posted.
 const BEFORE_SHA = process.env.FB_BEFORE_SHA || '';
-const GRAPH = 'https://graph.facebook.com/v21.0';
 // Emoji prefixed to the title line so it stands out (FB post text can't be bold).
 // Set to '' to drop it, or change the emoji here.
 const TITLE_EMOJI = '📌 ';
@@ -61,39 +53,6 @@ function fileList() {
     .split(/\r?\n/)
     .map((s) => s.trim())
     .filter(Boolean);
-}
-
-// Reduce the added files to unique article "bases" (path minus any lang suffix
-// and .md), skipping non-knowledge and about/ pages.
-function articleBases(files) {
-  const bases = new Set();
-  for (const f of files) {
-    if (!f.startsWith('knowledge/') || !f.endsWith('.md')) continue;
-    if (f.startsWith('knowledge/about/')) continue;
-    bases.add(f.replace(/\.(ms|en|zh)\.md$/, '').replace(/\.md$/, ''));
-  }
-  return [...bases];
-}
-
-const LANGS = ['ms', 'en', 'zh']; // ms at "/", en at "/en", zh at "/zh"
-
-// The file holding a given language for an article base: `<base>.<lang>.md`, or
-// the master `<base>.md` when the master itself is that language.
-function langFile(base, lang) {
-  const f = `${base}.${lang}.md`;
-  return existsSync(f) ? f : `${base}.md`;
-}
-
-// Only announce PUBLISHED articles. A draft / in-review / needs-update master must
-// not be posted — its page isn't built into the public site, so the link would 404.
-// The master (<base>.md) carries the canonical status; a `hidden` article is off too.
-function isPublishedBase(base) {
-  try {
-    const data = matter(readFileSync(`${base}.md`, 'utf8')).data;
-    return data.status === 'published' && !data.hidden;
-  } catch {
-    return false;
-  }
 }
 
 // Whether an article's master was ALREADY published at commit `sha`. Reads the
@@ -130,86 +89,11 @@ function targets(files) {
       const key = `${base}|${lang}`;
       if (existsSync(file) && !seen.has(key)) {
         seen.add(key);
-        out.push({ file, lang, prefix: lang === 'ms' ? '' : `/${lang}` });
+        out.push({ file, lang, prefix: localePrefix(lang) });
       }
     }
   }
   return out;
-}
-
-// Posting to /{page-id}/feed needs that Page's OWN access token. FB_PAGE_ACCESS_TOKEN
-// (a System-User token with a role on the Page) mints it via this call; results are
-// cached so each Page's token is fetched once per run. Posting with the raw
-// system-user token instead hit "(#200) … requires … as an admin".
-const pageTokenCache = new Map();
-async function pageTokenFor(pageId) {
-  if (pageTokenCache.has(pageId)) return pageTokenCache.get(pageId);
-  const url = `${GRAPH}/${pageId}?fields=access_token&access_token=${encodeURIComponent(TOKEN)}`;
-  const res = await fetch(url);
-  const json = await res.json().catch(() => ({}));
-  if (!res.ok || !json.access_token) {
-    throw new Error(`could not mint a Page token for page ${pageId} from FB_PAGE_ACCESS_TOKEN (is the Page assigned to the system user?): ${JSON.stringify(json)}`);
-  }
-  pageTokenCache.set(pageId, json.access_token);
-  return json.access_token;
-}
-
-// Turn any string into a hyphen-safe PascalCase hashtag: "arts-culture" →
-// "#ArtsCulture", "holding company" → "#HoldingCompany". (Facebook ends a tag at
-// the first hyphen/space, so #arts-culture would post as just #arts.) Unicode-aware
-// so localized tags survive: Chinese "控股公司" → "#控股公司", Malay "cukai" → "#Cukai"
-// (CJK has no word breaks, so it stays one token; \p{L}\p{N} keeps every script,
-// collapsing only punctuation/space, which is what FB would otherwise cut the tag at).
-function hashtag(s) {
-  const t = String(s)
-    .replace(/^#/, '')
-    .replace(/[^\p{L}\p{N}]+/gu, ' ')
-    .trim()
-    .split(' ')
-    .filter(Boolean)
-    .map((w) => w.charAt(0).toUpperCase() + w.slice(1))
-    .join('');
-  return t ? `#${t}` : '';
-}
-
-// A keyword phrase → hashtag, dropping a redundant trailing "malaysia" and
-// skipping phrases that would make an ugly tag (>3 words or >24 chars).
-function keywordTag(kw) {
-  const words = String(kw).trim().split(/\s+/).filter(Boolean);
-  if (words.length && words[words.length - 1].toLowerCase() === 'malaysia') words.pop();
-  if (!words.length || words.length > 3) return '';
-  const t = hashtag(words.join(' '));
-  return t.length <= 25 ? t : ''; // "#" + 24 chars
-}
-
-// The hashtag line for an article. Curated `social.hashtags` (+ #NegaraKu) win;
-// otherwise fall back to brand + category + subcategory + a few keyword tags.
-function hashtags(data) {
-  const curated = (data.social?.hashtags ?? []).map(hashtag).filter(Boolean);
-  if (curated.length) return [...new Set([...curated, '#NegaraKu'])].join(' ');
-
-  const tags = ['#Malaysia', '#NegaraKu', hashtag(data.category)];
-  for (const sc of data.subcategory ?? []) tags.push(hashtag(sc));
-  let kw = 0;
-  for (const k of data.keywords ?? []) {
-    if (kw >= 4) break;
-    const t = keywordTag(k);
-    if (t && !tags.includes(t)) { tags.push(t); kw++; }
-  }
-  return [...new Set(tags.filter(Boolean))].join(' ');
-}
-
-// Append campaign tags so a click stays attributable even when the referrer is
-// stripped — Facebook's in-app browser and link shim often drop it. The edge
-// referrer classifier (worker/src/referrer.js) reads utm_source/utm_medium; the
-// site's canonical tags keep ?utm_* from causing any duplicate-content/SEO issue.
-// The one convention for every channel we post to: utm_source = the platform,
-// utm_medium = its kind (social / messaging / …).
-function withUtm(url, source, medium) {
-  const u = new URL(url);
-  u.searchParams.set('utm_source', source);
-  u.searchParams.set('utm_medium', medium);
-  return u.toString();
 }
 
 // Build the {link, message} for a target, or null if the file lacks slug/category.
@@ -237,7 +121,7 @@ async function post(t) {
   const pageId = PAGES[t.lang];
   let pageToken;
   try {
-    pageToken = await pageTokenFor(pageId);
+    pageToken = await pageTokenFor(pageId, TOKEN);
   } catch (err) {
     // One Page's token failing (e.g. not yet assigned to the system user) must
     // not abort the others — fail this target, let the rest post, job goes red.
