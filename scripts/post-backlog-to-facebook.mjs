@@ -117,12 +117,13 @@ function buildPost(file, data, lang, prefix) {
   // Canonical (trailing-slash) URL so Facebook's scraper never follows a 301.
   const link = withUtm(articleUrl(SITE_URL, prefix, data.category, data.slug), 'facebook', 'social');
   const prompt = (PROMPT[pillarOf(data.category)] ?? PROMPT.understand)[lang];
-  // Value-first: title hook, the article's own summary, a comment-prompt
-  // question, then a TAPPABLE article link (UTM-tagged, so it's attributed even
-  // when FB strips the referrer), then hashtags. The link is in the caption body
-  // so readers reach the article in one tap, and the post stays a native photo
-  // (the photo is the attachment), so it keeps a photo's reach.
-  const caption = [data.title, '', data.summary, '', prompt, '', CTA[lang], link, '', hashtags(data)].join('\n');
+  // The TAPPABLE link goes on line 2, right under the title, so it stays ABOVE
+  // Facebook's "See more" fold — a reader sees it without expanding the caption
+  // (the earlier below-the-fold placement was effectively hidden). UTM-tagged so
+  // it's attributed even when FB strips the referrer. Then the summary (value),
+  // a comment-prompt question, and hashtags. The post stays a native photo (the
+  // photo is the attachment), so it keeps a photo's reach.
+  const caption = [`${data.title}`, `${CTA[lang]} ${link}`, '', data.summary, '', prompt, '', hashtags(data)].join('\n');
   return { image, caption, link };
 }
 
