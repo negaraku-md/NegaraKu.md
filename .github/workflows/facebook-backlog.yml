@@ -1,0 +1,38 @@
+name: Post backlog to Facebook
+
+# Drains the existing published corpus to the Facebook Pages as native OG-card
+# photo posts with the link in the first comment (scripts/post-backlog-to-facebook.mjs).
+# Manual dispatch for now; a scheduled warm-up ramp (1→3→5/day) is added next.
+on:
+  workflow_dispatch:
+    inputs:
+      files:
+        description: 'Space-separated knowledge/*.md paths to post'
+        required: true
+      dry_run:
+        description: 'Dry run — log what would be posted, do NOT call the Facebook API'
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+
+      - name: Post backlog to Facebook
+        env:
+          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+          SITE_URL: https://negaraku.md
+          FB_DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '' }}
+        run: node scripts/post-backlog-to-facebook.mjs ${{ github.event.inputs.files }}
