@@ -14,6 +14,7 @@
 // the ORIGIN, not back through this Worker, so there is no loop.
 
 import { classify, pathKey, isPageView } from './classify.js';
+import { classifyReferrer } from './referrer.js';
 
 export default {
   /**
@@ -29,13 +30,18 @@ export default {
         const { bucket, bot } = classify(request.headers.get('user-agent') || '');
         if (bucket !== 'skip' && env.AE) {
           const key = pathKey(url.pathname);
-          // blob1=key, blob2=bucket, blob3=bot, blob4=locale ; index by key so
-          // the SQL API can GROUP BY it cheaply. doubles[0]=1 is one hit.
+          // blob1=key, blob2=bucket, blob3=bot, blob4=locale, blob5=channel,
+          // blob6=source ; index by key so the SQL API can GROUP BY it cheaply.
+          // doubles[0]=1 is one hit. channel/source are the human referral
+          // source (search/ai/social/…) — only for readers; '' for bots.
           const locale = url.pathname.startsWith('/en/') ? 'en'
             : url.pathname.startsWith('/zh/') ? 'zh' : 'ms';
+          const { channel, source } = bucket === 'readers'
+            ? classifyReferrer(request.headers.get('referer'), url)
+            : { channel: '', source: '' };
           ctx.waitUntil(Promise.resolve().then(() =>
             env.AE.writeDataPoint({
-              blobs: [key, bucket, bot, locale],
+              blobs: [key, bucket, bot, locale, channel, source],
               doubles: [1],
               indexes: [key.slice(0, 96)],
             })
