@@ -70,7 +70,7 @@ can be found by the kind of person who wants to do it.
 | **`scope:category`** | A subject area: its name, blurb, icon, which topics sit in it, and its landing page | `src/lib/categories.ts` + `src/pages/[category]` |
 | **`scope:section`** | The three pillars — Understand / Living / Doing Business: framing, tagline, which categories belong, and the "start here" path | `PILLARS` in `src/lib/categories.ts` |
 | **`scope:taxonomy`** | How knowledge connects: graph edges, `relations`, `related`, entities, and the rules for choosing them | `relations`/`related` fields, `scripts/build-graph.mjs` |
-| **`scope:terminology`** | The MS and ZH termbases, term rulings, consistency across 900+ files | `docs/plan/GLOSSARY-*.md` |
+| **`scope:terminology`** | The MS and ZH termbases, term rulings, consistency across 900+ files | `docs/plans/GLOSSARY-*.md` |
 
 **Coverage work is a first-class contribution.** "This category has no article on X"
 is as valuable as writing X — it is how the corpus finds its own gaps.

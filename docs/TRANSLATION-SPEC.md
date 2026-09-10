@@ -6,7 +6,7 @@
 > to any direction: translate *from* the article's declared master *into* the other
 > two locales, set `lang` to the target and `masterLanguage` to the article's master.
 
-Read this before translating anything. Then read `docs/plan/GLOSSARY-ZH.md` and add to it.
+Read this before translating anything. Then read `docs/plans/GLOSSARY-ZH.md` and add to it.
 
 ## THE ONE RULE THAT MATTERS
 

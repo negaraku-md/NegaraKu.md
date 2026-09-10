@@ -1,0 +1,364 @@
+<title>NegaraKu.md Facebook Plan</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800&family=Lato:wght@400;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
+<style>
+  :root {
+    --ground: #f6f3ec;
+    --surface: #fffefb;
+    --surface-2: #efece2;
+    --ink: #1b1710;
+    --ink-soft: #423b2e;
+    --muted: #7a7161;
+    --line: #e4ddcd;
+    --gold: #b9860b;
+    --gold-fill: #FFC000;
+    --have: #1a7f37;
+    --build: #2f6fdc;
+    --none: #c0492f;
+    --shadow: 0 1px 2px rgba(27,23,16,.06), 0 8px 24px rgba(27,23,16,.05);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --ground: #0b0b0e; --surface: #131319; --surface-2: #1c1c24;
+      --ink: #f3efe6; --ink-soft: #cfc9bb; --muted: #8d8a94; --line: #262630;
+      --gold: #FFC000; --gold-fill: #FFC000; --have: #46c76a; --build: #6ba6ff; --none: #e2795f;
+      --shadow: 0 1px 2px rgba(0,0,0,.4), 0 12px 30px rgba(0,0,0,.35);
+    }
+  }
+  :root[data-theme="dark"] {
+    --ground: #0b0b0e; --surface: #131319; --surface-2: #1c1c24;
+    --ink: #f3efe6; --ink-soft: #cfc9bb; --muted: #8d8a94; --line: #262630;
+    --gold: #FFC000; --gold-fill: #FFC000; --have: #46c76a; --build: #6ba6ff; --none: #e2795f;
+    --shadow: 0 1px 2px rgba(0,0,0,.4), 0 12px 30px rgba(0,0,0,.35);
+  }
+
+  * { box-sizing: border-box; }
+  body { background: var(--ground); color: var(--ink); font-family: "Lato", system-ui, -apple-system, sans-serif; line-height: 1.6; margin: 0; }
+  .wrap { max-width: 1060px; margin: 0 auto; padding: clamp(1.5rem, 4vw, 3.5rem) clamp(1.1rem, 4vw, 2.2rem) 4rem; }
+
+  h1, h2, h3 { font-family: "Montserrat", system-ui, sans-serif; text-wrap: balance; margin: 0; }
+  .eyebrow { font-family: "IBM Plex Mono", monospace; font-size: .72rem; font-weight: 500; letter-spacing: .18em; text-transform: uppercase; color: var(--gold); }
+  .wordmark { color: var(--ink); } .wordmark b { color: var(--gold); font-weight: 800; }
+  a { color: var(--gold); }
+
+  header.hd { border-bottom: 2px solid var(--line); padding-bottom: 1.6rem; margin-bottom: 1.4rem; }
+  header.hd h1 { font-size: clamp(1.9rem, 4.5vw, 2.9rem); font-weight: 800; letter-spacing: -.02em; margin: .5rem 0 .5rem; }
+  header.hd p.lede { font-size: 1.06rem; color: var(--ink-soft); max-width: 62ch; margin: 0; }
+
+  /* Stat row */
+  .stats { list-style: none; padding: 0; margin: 1.5rem 0 0; display: grid; grid-template-columns: repeat(4, 1fr); gap: .8rem; }
+  .stats li { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: .8rem .9rem; box-shadow: var(--shadow); }
+  .stats .num { font-family: "Montserrat", sans-serif; font-weight: 800; font-size: 1.5rem; letter-spacing: -.02em; font-variant-numeric: tabular-nums; }
+  .stats .lbl { font-size: .78rem; color: var(--muted); line-height: 1.35; margin-top: .1rem; }
+
+  section { margin-top: 2.6rem; }
+  section > h2 { font-size: 1.28rem; font-weight: 800; letter-spacing: -.01em; display: flex; align-items: baseline; gap: .6rem; flex-wrap: wrap; }
+  section > h2 .n { font-family: "IBM Plex Mono", monospace; font-size: .9rem; font-weight: 600; color: var(--gold); }
+  section > p.intro { color: var(--ink-soft); margin: .5rem 0 1.2rem; max-width: 68ch; }
+
+  .card { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; box-shadow: var(--shadow); }
+  .grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+  .grid3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; }
+  .pad { padding: 1rem 1.1rem; }
+  h3.ch { font-size: 1rem; font-weight: 700; margin-bottom: .3rem; }
+  h3.ch .tag { font-family: "IBM Plex Mono", monospace; font-size: .66rem; font-weight: 500; color: var(--muted); letter-spacing: .06em; }
+  p.sm { font-size: .9rem; color: var(--ink-soft); margin: .3rem 0 0; }
+  ul.tick { margin: .4rem 0 0; padding-left: 0; list-style: none; }
+  ul.tick li { font-size: .9rem; color: var(--ink-soft); padding-left: 1.3rem; position: relative; margin: .35rem 0; }
+  ul.tick li::before { content: "→"; position: absolute; left: 0; color: var(--gold); font-weight: 700; }
+
+  /* Post anatomy */
+  .anat { display: grid; grid-template-columns: 1.05fr 1fr; gap: 0; overflow: hidden; }
+  @media (max-width: 720px) { .anat { grid-template-columns: 1fr; } .grid2, .grid3, .stats, .layers { grid-template-columns: 1fr 1fr !important; } }
+  @media (max-width: 460px) { .stats, .grid3 { grid-template-columns: 1fr !important; } }
+  .fbpost { padding: 1.1rem; border-right: 1px solid var(--line); }
+  .fbhead { display: flex; align-items: center; gap: .55rem; margin-bottom: .6rem; }
+  .fbav { width: 2.1rem; height: 2.1rem; border-radius: 50%; background: #0b0b0e; display: grid; place-items: center; color: var(--gold-fill); font-weight: 800; font-family: "Montserrat"; font-size: .8rem; flex: none; border: 1px solid var(--line); }
+  .fbname { font-family: "Montserrat"; font-weight: 700; font-size: .84rem; }
+  .fbmeta { font-size: .68rem; color: var(--muted); }
+  .fbcap { font-size: .82rem; color: var(--ink); line-height: 1.5; }
+  .fbcap .ttl { font-weight: 700; }
+  .fbcap .prompt { color: var(--ink-soft); }
+  .fbcap .tags { color: var(--gold); }
+  .fbcard { margin-top: .7rem; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; }
+  .fbcard .img { aspect-ratio: 1200/630; background: linear-gradient(135deg, #0b0b0e, #1c1c24); display: grid; place-items: center; }
+  .fbcard .img span { font-family: "Montserrat"; font-weight: 800; font-size: .78rem; color: var(--gold-fill); letter-spacing: .02em; }
+  .fbcomment { margin-top: .7rem; font-size: .74rem; color: var(--muted); border-top: 1px dashed var(--line); padding-top: .55rem; }
+  .fbcomment code { font-family: "IBM Plex Mono", monospace; font-size: .68rem; color: var(--ink-soft); word-break: break-all; }
+  .callouts { padding: 1.1rem; display: flex; flex-direction: column; gap: .8rem; }
+  .callout .k { font-family: "IBM Plex Mono", monospace; font-size: .66rem; letter-spacing: .08em; text-transform: uppercase; color: var(--gold); }
+  .callout .v { font-size: .86rem; color: var(--ink-soft); margin-top: .1rem; }
+
+  /* Ramp */
+  .ramp { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; }
+  .ramp .stage { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 1rem; box-shadow: var(--shadow); position: relative; overflow: hidden; }
+  .ramp .stage::before { content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 4px; background: var(--gold-fill); }
+  .ramp .when { font-family: "IBM Plex Mono", monospace; font-size: .68rem; color: var(--muted); letter-spacing: .05em; text-transform: uppercase; }
+  .ramp .rate { font-family: "Montserrat"; font-weight: 800; font-size: 1.6rem; margin: .2rem 0; letter-spacing: -.02em; }
+  .ramp .rate small { font-size: .8rem; font-weight: 600; color: var(--muted); }
+  .ramp .note { font-size: .82rem; color: var(--ink-soft); }
+
+  table.grid { border-collapse: collapse; width: 100%; min-width: 640px; }
+  .tscroll { overflow-x: auto; border: 1px solid var(--line); border-radius: 12px; box-shadow: var(--shadow); background: var(--surface); }
+  table.grid th, table.grid td { text-align: left; padding: .7rem .85rem; border-bottom: 1px solid var(--line); vertical-align: top; font-size: .86rem; }
+  table.grid tr:last-child td { border-bottom: 0; }
+  table.grid thead th { font-family: "Montserrat"; font-size: .74rem; font-weight: 700; background: var(--surface-2); letter-spacing: .02em; }
+  table.grid td.k { font-weight: 700; color: var(--ink); white-space: nowrap; }
+  table.grid td .mono { font-family: "IBM Plex Mono", monospace; font-size: .72rem; color: var(--muted); }
+
+  .chip { display: inline-flex; align-items: center; gap: .32rem; font-family: "IBM Plex Mono", monospace; font-size: .62rem; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; padding: .1rem .34rem; border-radius: 5px; border: 1px solid; white-space: nowrap; }
+  .chip::before { content: ""; width: .4rem; height: .4rem; border-radius: 50%; background: currentColor; }
+  .chip.have { color: var(--have); border-color: color-mix(in srgb, var(--have) 40%, transparent); background: color-mix(in srgb, var(--have) 12%, transparent); }
+  .chip.build { color: var(--build); border-color: color-mix(in srgb, var(--build) 40%, transparent); background: color-mix(in srgb, var(--build) 12%, transparent); }
+  .chip.none { color: var(--none); border-color: color-mix(in srgb, var(--none) 40%, transparent); background: color-mix(in srgb, var(--none) 12%, transparent); }
+
+  .arch { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: .5rem; }
+  .arch li { display: grid; grid-template-columns: 15rem 1fr auto; gap: .8rem; align-items: baseline; background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: .6rem .8rem; box-shadow: var(--shadow); }
+  @media (max-width: 720px) { .arch li { grid-template-columns: 1fr auto; } .arch li .d { grid-column: 1 / -1; } }
+  .arch .f { font-family: "IBM Plex Mono", monospace; font-size: .74rem; color: var(--ink); font-weight: 600; }
+  .arch .d { font-size: .84rem; color: var(--ink-soft); }
+
+  .runbook { display: flex; flex-direction: column; gap: .7rem; }
+  .rb { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: .8rem .9rem; box-shadow: var(--shadow); }
+  .rb .t { font-family: "Montserrat"; font-weight: 700; font-size: .9rem; margin-bottom: .15rem; }
+  .rb .t .how { font-family: "IBM Plex Mono", monospace; font-size: .68rem; font-weight: 500; color: var(--muted); letter-spacing: .03em; }
+  .rb p { font-size: .84rem; color: var(--ink-soft); margin: .1rem 0 0; }
+  code.inline { font-family: "IBM Plex Mono", monospace; font-size: .78rem; background: var(--surface-2); padding: .05rem .3rem; border-radius: 4px; color: var(--ink); }
+
+  .decisions { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+  .decisions .card { padding: 1rem 1.1rem; }
+  .decisions .q { font-family: "Montserrat"; font-weight: 700; font-size: .95rem; }
+  .decisions .a { font-size: .86rem; color: var(--ink-soft); margin-top: .3rem; }
+
+  footer { margin-top: 3rem; padding-top: 1.2rem; border-top: 1px solid var(--line); font-size: .78rem; color: var(--muted); display: flex; justify-content: space-between; flex-wrap: wrap; gap: .5rem; }
+  footer .mono { font-family: "IBM Plex Mono", monospace; }
+</style>
+
+<div class="wrap">
+  <header class="hd">
+    <div class="eyebrow">NegaraKu.md · Social growth</div>
+    <h1>Facebook Posting Plan</h1>
+    <p class="lede">How the <span class="wordmark">NegaraKu<b>.md</b></span> knowledge base grows three young Facebook Pages — draining a ~1,050-article backlog and every new article — in the one format that actually earns reach, on a warm-up ramp, measured against first-party data.</p>
+    <ul class="stats">
+      <li><div class="num">3</div><div class="lbl">Pages — one per language (ms · en · zh)</div></li>
+      <li><div class="num">1,052</div><div class="lbl">published articles → ~3,156 potential posts</div></li>
+      <li><div class="num">1→3→5</div><div class="lbl">articles/day warm-up ramp</div></li>
+      <li><div class="num">~9 mo</div><div class="lbl">to drain the backlog at full rate</div></li>
+    </ul>
+  </header>
+
+  <section>
+    <h2><span class="n">01</span> The lever is format, not volume</h2>
+    <p class="intro">Facebook suppresses posts that send people off-platform. A stream of “title + link” posts gets almost no reach no matter how many we publish — so the one decision that governs everything else is <strong>how</strong> a post is shaped, not how often.</p>
+    <div class="grid3">
+      <div class="card pad"><h3 class="ch">Native photo</h3><p class="sm">Every post is the article’s own OG card, uploaded as a real photo. Facebook favours native images over off-site link previews, and the card already carries the title, breadcrumb and summary.</p></div>
+      <div class="card pad"><h3 class="ch">Value-first caption</h3><p class="sm">Title as the hook, the article’s summary as the payoff, then a pillar-specific question that invites a reply — comments are Facebook’s strongest reach signal.</p></div>
+      <div class="card pad"><h3 class="ch">Link in comment #1</h3><p class="sm">The article link lives in the first comment, not the body — so the post carries no reach-suppressing external link, while clicks stay routed and UTM-attributed.</p></div>
+    </div>
+  </section>
+
+  <section>
+    <h2><span class="n">02</span> Anatomy of one post</h2>
+    <p class="intro">Each published article yields exactly one post per language, on its own Page, in its own language. Here is the English post for a real article.</p>
+    <div class="card anat">
+      <div class="fbpost">
+        <div class="fbhead">
+          <div class="fbav">N<b style="color:#fff">.</b></div>
+          <div><div class="fbname">NegaraKu.md · English</div><div class="fbmeta">Published by NegaraKu.md Poster · now</div></div>
+        </div>
+        <div class="fbcap">
+          <span class="ttl">Cradle's CIP Grants for Early-Stage Malaysian Tech Startups</span><br><br>
+          What Cradle Fund is and how its Cradle Investment Programme (CIP) grants work — the early-stage CIP Spark, the CIP Sprint for commercialisation, who qualifies, and how to apply.<br><br>
+          <span class="prompt">Starting or growing a business in Malaysia?<br>🔗 Full guide in the first comment 👇</span><br><br>
+          <span class="tags">#Malaysia #NegaraKu #Business #Startup #Grant</span>
+        </div>
+        <div class="fbcard"><div class="img"><span>OG CARD — article title · breadcrumb · summary</span></div></div>
+        <div class="fbcomment">First comment · <code>negaraku.md/en/business/cradle-cip-grant/?utm_source=facebook&amp;utm_medium=social</code></div>
+      </div>
+      <div class="callouts">
+        <div class="callout"><div class="k">Photo</div><div class="v">The per-language OG card at <code style="font-family:'IBM Plex Mono',monospace;font-size:.78rem">/og/&lt;lang&gt;/&lt;cat&gt;/&lt;slug&gt;.png</code> — uploaded via the Graph API, so it renders even when link scraping is throttled.</div></div>
+        <div class="callout"><div class="k">Prompt</div><div class="v">One of three questions, chosen by the article’s pillar (Doing Business / Living / Understand) and written in the post’s language.</div></div>
+        <div class="callout"><div class="k">Link</div><div class="v">Canonical trailing-slash URL (no 301 hop for the scraper) with <code style="font-family:'IBM Plex Mono',monospace;font-size:.78rem">utm_source=facebook</code> — so the on-site channel classifier books the visit as Social.</div></div>
+        <div class="callout"><div class="k">Safety</div><div class="v">A 200-precheck confirms the page is live before posting, so a link is never posted that Facebook would scrape as a 404.</div></div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2><span class="n">03</span> Which article posts next — the queue</h2>
+    <p class="intro">The backlog does not drain in file order. A ranked queue front-loads proven demand and keeps the feed varied; a committed manifest guarantees nothing is ever posted twice.</p>
+    <div class="grid2">
+      <div class="card pad">
+        <h3 class="ch">Priority ranking</h3>
+        <ul class="tick">
+          <li><strong>Search demand first</strong> — articles in categories already earning Google impressions (from the archived Search Console data) rank highest: proven pull.</li>
+          <li><strong>Pillar rotation</strong> — the feed round-robins Doing Business → Living → Understand so no single pillar floods a Page.</li>
+          <li><strong>Recency tiebreak</strong> — newer articles win within a category.</li>
+          <li><strong>Seasonal injection</strong> <span class="chip build">later</span> — tax deadlines, holidays and budget season jump the queue on the day.</li>
+        </ul>
+      </div>
+      <div class="card pad">
+        <h3 class="ch">No double-posts, ever</h3>
+        <p class="sm">Every successful post is recorded in <code class="inline">analytics/posted.json</code>, keyed by article + language. The queue skips anything already there, and a partially-failed article retries only its missing languages on the next run. The manifest is committed to the repo, so state survives across runs and machines.</p>
+        <p class="sm" style="margin-top:.6rem">The already-live test article (<code class="inline">cradle-cip-grant</code>) is seeded as posted, so the rollout never re-posts it.</p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2><span class="n">04</span> Cadence — a warm-up ramp</h2>
+    <p class="intro">Young Pages that suddenly post in bulk trip Facebook’s spam and integrity checks and throttle <em>all</em> their distribution. The rate ramps up as the Pages age. One article a day means three posts — one to each language Page.</p>
+    <div class="ramp">
+      <div class="stage"><div class="when">Weeks 1–2</div><div class="rate">1<small> article/day</small></div><div class="note">Warm the Pages. 3 posts/day total. Watch that reach and reactions hold before speeding up.</div></div>
+      <div class="stage"><div class="when">Weeks 3–4</div><div class="rate">3<small> articles/day</small></div><div class="note">9 posts/day. The steady middle gear once the Pages have a track record.</div></div>
+      <div class="stage"><div class="when">Week 5 onward</div><div class="rate">5<small> articles/day</small></div><div class="note">15 posts/day — 5 per Page. Drains the remaining backlog in roughly seven months.</div></div>
+    </div>
+  </section>
+
+  <section>
+    <h2><span class="n">05</span> Three Pages, three audiences</h2>
+    <p class="intro">The Pages are not mirrors. Same engine, but the emphasis and timing suit each audience — refined as the insights come in.</p>
+    <div class="grid3">
+      <div class="card pad"><h3 class="ch">Bahasa Melayu <span class="tag">/</span></h3><p class="sm">The largest local audience. Everyday-life and government-benefit topics resonate hardest; the anchor Page for reach.</p></div>
+      <div class="card pad"><h3 class="ch">English <span class="tag">/en</span></h3><p class="sm">Expats, diaspora and international readers. Immigration, business setup and “how things work” topics over-index here.</p></div>
+      <div class="card pad"><h3 class="ch">中文 <span class="tag">/zh</span></h3><p class="sm">Malaysian-Chinese and regional readers. Business, tax and education topics travel well; a distinct posting rhythm.</p></div>
+    </div>
+  </section>
+
+  <section>
+    <h2><span class="n">06</span> Turning reach into followers</h2>
+    <p class="intro">Posting is only half of it. Growth comes from the loop around each post and from seeding the Pages beyond their own timeline.</p>
+    <div class="grid2">
+      <div class="card pad">
+        <h3 class="ch">On-post engagement</h3>
+        <ul class="tick">
+          <li>Every post ends with a question — designed to pull comments.</li>
+          <li>Reply to every comment quickly; it doubles a thread’s reach and signals an active Page.</li>
+          <li>“How-to / what you’re entitled to” framing gets shared into family and group chats — the real growth channel here.</li>
+          <li>Cross-promote the three Pages to one another.</li>
+        </ul>
+      </div>
+      <div class="card pad">
+        <h3 class="ch">Off-page seeding <span class="tag" style="font-family:'IBM Plex Mono',monospace;font-size:.66rem;color:var(--muted)">a Page of 2 doesn’t grow by posting alone</span></h3>
+        <ul class="tick">
+          <li>Share posts into relevant Malaysian Facebook Groups (expat, business, tax, student) — where the reach actually is for a cold Page.</li>
+          <li>Link the website footer / About to the three Pages, converting existing readers.</li>
+          <li>Optional 1company-funded boosts on the 5–10 best evergreen posts — the fastest way to break the cold-start, cheap in this market.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2><span class="n">07</span> How we know it’s working</h2>
+    <p class="intro">Every number this program produces is already captured by the site’s own analytics — no third-party dashboard.</p>
+    <div class="grid3">
+      <div class="card pad"><h3 class="ch">Page insights</h3><p class="sm">Followers, reactions, comments and shares per Page are archived weekly to <code class="inline">analytics/facebook.json</code> and shown on the site dashboard’s Facebook panel.</p></div>
+      <div class="card pad"><h3 class="ch">Click attribution</h3><p class="sm">The UTM tags make every Facebook click land in the dashboard’s “Traffic by channel → Social”, with the source broken out — real visits, not vanity metrics.</p></div>
+      <div class="card pad"><h3 class="ch">Weekly read</h3><p class="sm">Review the panel weekly; double down on the topics and times that land, drop what doesn’t. The queue’s ranking can be retuned from what wins.</p></div>
+    </div>
+  </section>
+
+  <section>
+    <h2><span class="n">08</span> What’s built</h2>
+    <p class="intro">The machinery already in the repo. The one thing not yet switched on is the daily schedule — held until the rollout is approved.</p>
+    <ul class="arch">
+      <li><span class="f">post-backlog-to-facebook.mjs</span><span class="d">The backlog poster — native photo + caption + comment, queue mode.</span><span class="chip have">live</span></li>
+      <li><span class="f">lib/fb-queue.mjs</span><span class="d">Ranking, pillar rotation, warm-up ramp, and the posted-manifest.</span><span class="chip have">live</span></li>
+      <li><span class="f">lib/facebook.mjs</span><span class="d">Shared Page map, token minting, hashtags, canonical URL, UTM.</span><span class="chip have">live</span></li>
+      <li><span class="f">analytics/posted.json</span><span class="d">The committed manifest of what has already been posted.</span><span class="chip have">live</span></li>
+      <li><span class="f">facebook-backlog.yml</span><span class="d">Manual dispatch works now; the daily <code class="inline">schedule</code> is commented out.</span><span class="chip build">cron off</span></li>
+      <li><span class="f">pull-facebook-insights.mjs</span><span class="d">Weekly Page-insights archive feeding the dashboard.</span><span class="chip have">live</span></li>
+      <li><span class="f">post-to-facebook.mjs</span><span class="d">The per-publish announcer — paused during the backlog rollout.</span><span class="chip none">paused</span></li>
+    </ul>
+  </section>
+
+  <section>
+    <h2><span class="n">09</span> Operating it</h2>
+    <div class="grid2">
+      <div class="runbook">
+        <div class="rb"><div class="t">Preview the next batch <span class="how">dispatch · dry_run ✓</span></div><p>Run “Post backlog to Facebook” with a blank <em>files</em> box and Dry run ticked — logs exactly what would post, calls nothing.</p></div>
+        <div class="rb"><div class="t">Post one batch by hand <span class="how">dispatch · dry_run ✗</span></div><p>Same, unticked — posts the next ranked batch and advances the manifest. Good for a controlled start.</p></div>
+        <div class="rb"><div class="t">Start the daily drip <span class="how">uncomment schedule</span></div><p>Uncomment the <code class="inline">schedule:</code> block in <code class="inline">facebook-backlog.yml</code> and push. It runs itself from there.</p></div>
+      </div>
+      <div class="runbook">
+        <div class="rb"><div class="t">Pause everything <span class="how">re-comment schedule</span></div><p>Re-comment the schedule and push. In-flight nothing; the manifest holds the place, so it resumes exactly where it stopped.</p></div>
+        <div class="rb"><div class="t">Post a specific article <span class="how">dispatch · files</span></div><p>Put its <code class="inline">knowledge/…/slug.md</code> path in the <em>files</em> box — bypasses the queue for that article.</p></div>
+        <div class="rb"><div class="t">Remove a post / refresh a preview <span class="how">delete workflow · FB debugger</span></div><p>Delete by story id via the “Delete Facebook posts” workflow; refresh a stale link card with Facebook’s Sharing Debugger “Scrape Again”.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2><span class="n">10</span> Risks &amp; how they’re handled</h2>
+    <div class="tscroll">
+      <table class="grid">
+        <thead><tr><th>Risk</th><th>Mitigation</th><th>Status</th></tr></thead>
+        <tbody>
+          <tr><td class="k">Off-site link posts get suppressed</td><td>Native photo posts; link in the first comment, never the body.</td><td><span class="chip have">handled</span></td></tr>
+          <tr><td class="k">Bulk posting trips Facebook integrity checks</td><td>Warm-up ramp (1→3→5/day) and a per-run cap; the Pages age into higher volume.</td><td><span class="chip have">handled</span></td></tr>
+          <tr><td class="k">Posting a link before the page is live (404)</td><td>200-precheck fetches each URL and skips any that isn’t live; canonical trailing-slash URLs avoid the redirect hop.</td><td><span class="chip have">handled</span></td></tr>
+          <tr><td class="k">Facebook crawler blocked at the edge (418)</td><td>Cloudflare Bot Fight Mode is off; live articles scrape cleanly (verified 206 + correct card).</td><td><span class="chip have">handled</span></td></tr>
+          <tr><td class="k">Double-posting an article</td><td>Committed manifest keyed by article + language; the queue skips anything already posted.</td><td><span class="chip have">handled</span></td></tr>
+          <tr><td class="k">Untranslated titles on some ms/zh files</td><td>A content issue, not a posting one — a corpus scan to find and fix English titles in translation files.</td><td><span class="chip build">follow-up</span></td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section>
+    <h2><span class="n">11</span> Roadmap</h2>
+    <div class="grid3">
+      <div class="card pad">
+        <h3 class="ch">Shipped <span class="chip have" style="margin-left:.3rem">done</span></h3>
+        <ul class="tick">
+          <li>Native-photo format + value caption</li>
+          <li>Ranked queue + posted-manifest</li>
+          <li>Warm-up ramp</li>
+          <li>Canonical URL + 200-precheck</li>
+          <li>Insights archive + dashboard panel</li>
+          <li>cradle live test + cleanup</li>
+        </ul>
+      </div>
+      <div class="card pad">
+        <h3 class="ch">Next <span class="chip build" style="margin-left:.3rem">on deck</span></h3>
+        <ul class="tick">
+          <li>Approve &amp; enable the daily cron</li>
+          <li>Scan &amp; fix untranslated titles</li>
+          <li>Per-Page peak-time scheduling</li>
+          <li>Reply-to-comments habit</li>
+        </ul>
+      </div>
+      <div class="card pad">
+        <h3 class="ch">Later <span class="chip none" style="margin-left:.3rem">backlog</span></h3>
+        <ul class="tick">
+          <li>Seasonal / timely injection</li>
+          <li>Per-article read-count ranking</li>
+          <li>Group sharing + website→FB links</li>
+          <li>Boosts on top evergreen posts</li>
+          <li>Other channels (same engine)</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2><span class="n">12</span> Decisions for you</h2>
+    <div class="decisions">
+      <div class="card">
+        <div class="q">Start method</div>
+        <div class="a">Enable the daily cron for a hands-off 1→3→5/day drip, or fire manual batches from the dispatch button when you want control over each one?</div>
+      </div>
+      <div class="card">
+        <div class="q">Untranslated-title scan</div>
+        <div class="a">Spin off a task now to find and fix translation files carrying English titles (like <code class="inline">digital-free-trade-zone.ms.md</code>), or leave it until later?</div>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <span>NegaraKu.md · Facebook posting plan</span>
+    <span class="mono">v1.0 · 2026-09-11</span>
+  </footer>
+</div>

@@ -1,7 +1,7 @@
 # Glossary additions — batch 07 (business: corridors, IP, structures, visas, courts)
 
 Terms coined or first settled while translating batch 07. Coordinator to merge into
-`docs/plan/GLOSSARY-ZH.md`.
+`docs/plans/GLOSSARY-ZH.md`.
 
 ## Institutions and bodies
 

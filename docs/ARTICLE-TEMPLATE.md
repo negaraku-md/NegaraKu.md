@@ -27,7 +27,7 @@ are about to write:
 4. **If you cannot verify a figure, do not write it.** Put the claim in
    `verificationNeeded` and describe the rule qualitatively instead.
    *A missing number is a gap. A wrong number is a lie that costs the reader money.*
-5. **Read `docs/plan/VERIFIED-SOURCES.md` first, and check it again before you give up
+5. **Read `docs/plans/VERIFIED-SOURCES.md` first, and check it again before you give up
    on a figure.** It lists documents already confirmed against primary sources, the
    URLs that extract cleanly, the sites that block WebFetch (and how to get past them),
    and a list of widely-repeated figures that are **known to be unverifiable** — do not

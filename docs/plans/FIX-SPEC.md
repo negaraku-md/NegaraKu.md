@@ -1,6 +1,6 @@
 # Fixing master defects — rules
 
-The defects are in `docs/plan/MASTER-DEFECTS.md`, grouped by batch/category. Your job is
+The defects are in `docs/plans/MASTER-DEFECTS.md`, grouped by batch/category. Your job is
 to fix the ones in your assigned category, in the **English master**, and then update the
 matching `.zh.md` so the pair stays in sync.
 
@@ -12,7 +12,7 @@ that number and nothing else.
 
 **2. A contradiction is resolved by evidence, not by preference.** When two parts of an
 article disagree on a fact (a date, a count, a citation):
-   - If `docs/plan/VERIFIED-SOURCES.md` settles it, use that.
+   - If `docs/plans/VERIFIED-SOURCES.md` settles it, use that.
    - Otherwise verify against the **primary source** — `curl -k` or WebFetch the gazette,
      the Act, the agency page. The AGC gazette API and the extraction notes in
      VERIFIED-SOURCES tell you how.

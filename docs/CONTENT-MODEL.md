@@ -25,7 +25,7 @@ trust model stops at the edge of `knowledge/`.
 | 3 | **Taxonomy copy** | category names/blurbs, pillar taglines (`categories.ts`), topic labels (`subcategories.ts`) | yes | ❌ none |
 | 4 | **Page copy** | Home hero, About, Contribute, Explore — inline `L(ms,en,zh)` | yes | ❌ none |
 | 5 | **UI strings** | `src/lib/i18n.ts` | yes | ❌ none |
-| 6 | **Termbase** | `docs/plan/GLOSSARY-MS.md`, `GLOSSARY-ZH.md` | no (governs output) | ❌ none |
+| 6 | **Termbase** | `docs/plans/GLOSSARY-MS.md`, `GLOSSARY-ZH.md` | no (governs output) | ❌ none |
 | 7 | **Sponsored** | hardcoded in `ArticleView.astro` | yes | ❌ not modelled |
 | 8 | **Editorial policy** | `docs/**` | no | ~ git only |
 
