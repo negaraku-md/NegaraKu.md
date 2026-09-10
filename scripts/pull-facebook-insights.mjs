@@ -1,10 +1,11 @@
 // pull-facebook-insights.mjs — archive how far our Facebook posts travel.
 //
-// For each language Page (ms/en/zh) it reads follower count + per-post insights
-// (impressions, reach, link clicks) via the Graph API and writes a committed
-// snapshot, analytics/facebook.json. This is the Facebook arm of the analytics
-// archive: post insights age out of Meta's UI, so we fold the current lifetime
-// numbers into the repo where they persist (see docs/ANALYTICS.md).
+// For each language Page (ms/en/zh) it reads follower count + per-post
+// engagement (reactions, comments, shares) via the Graph API and writes a
+// committed snapshot, analytics/facebook.json — the Facebook arm of the
+// analytics archive, folding current numbers into the repo where they persist
+// (see docs/ANALYTICS.md). Engagement uses stable Graph FIELDS, not the
+// post_insights metrics: Meta deprecated most of those ("not a valid metric").
 //
 // Auth reuses the poster's system-user token — the "NegaraKu Poster" user has
 // Content + Insights on all three Pages, so each Page's own token is minted from
@@ -30,9 +31,6 @@ const PAGES = {
   en: process.env.FB_PAGE_ID_EN || '1334373156431426',
   zh: process.env.FB_PAGE_ID_ZH || '1382294921622880',
 };
-// Stable, non-deprecated per-post metrics.
-const POST_METRICS = ['post_impressions', 'post_impressions_unique', 'post_clicks'];
-
 const pageTokenCache = new Map();
 async function pageTokenFor(pageId) {
   if (pageTokenCache.has(pageId)) return pageTokenCache.get(pageId);
@@ -53,33 +51,32 @@ async function get(url) {
   return json;
 }
 
-// Pull one Page's follower count + summed post insights.
+// Pull one Page's follower count + summed post engagement. Uses stable Graph
+// FIELDS (reactions/comments/shares summaries) rather than the post_insights
+// metrics, most of which Meta deprecated ("not a valid insights metric").
 async function pullPage(lang, pageId) {
   const token = await pageTokenFor(pageId);
   const meta = await get(`${GRAPH}/${pageId}?fields=name,followers_count,fan_count&access_token=${encodeURIComponent(token)}`);
   const postsUrl =
-    `${GRAPH}/${pageId}/posts?limit=50&fields=id,created_time,` +
-    `insights.metric(${POST_METRICS.join(',')})&access_token=${encodeURIComponent(token)}`;
+    `${GRAPH}/${pageId}/posts?limit=50&fields=id,created_time,shares,` +
+    `reactions.summary(true),comments.summary(true)&access_token=${encodeURIComponent(token)}`;
   const posts = await get(postsUrl);
 
-  let impressions = 0, reach = 0, clicks = 0, n = 0;
+  let reactions = 0, comments = 0, shares = 0, n = 0;
   for (const post of posts.data ?? []) {
     n++;
-    for (const m of post.insights?.data ?? []) {
-      const v = Math.round(Number(m.values?.[0]?.value) || 0);
-      if (m.name === 'post_impressions') impressions += v;
-      else if (m.name === 'post_impressions_unique') reach += v;
-      else if (m.name === 'post_clicks') clicks += v;
-    }
+    reactions += Math.round(Number(post.reactions?.summary?.total_count) || 0);
+    comments += Math.round(Number(post.comments?.summary?.total_count) || 0);
+    shares += Math.round(Number(post.shares?.count) || 0);
   }
   return {
     pageId,
     name: meta.name ?? null,
     followers: Math.round(Number(meta.followers_count ?? meta.fan_count) || 0),
     posts: n,
-    impressions,       // Σ post_impressions
-    reach,             // Σ post_impressions_unique (per-post; not de-duplicated across posts)
-    clicks,            // Σ post_clicks
+    reactions,
+    comments,
+    shares,
   };
 }
 
@@ -100,7 +97,7 @@ async function main() {
     try {
       pages[lang] = await pullPage(lang, pageId);
       const p = pages[lang];
-      console.log(`[fb-insights] ${lang}: ${p.followers} followers · ${p.posts} posts · ${p.impressions} impressions · ${p.reach} reach · ${p.clicks} clicks`);
+      console.log(`[fb-insights] ${lang}: ${p.followers} followers · ${p.posts} posts · ${p.reactions} reactions · ${p.comments} comments · ${p.shares} shares`);
     } catch (err) {
       console.error(`[fb-insights] ${lang} (${pageId}) failed, keeping previous:`, err.message);
     }
@@ -109,7 +106,7 @@ async function main() {
   const snapshot = {
     updatedAt: new Date().toISOString(),
     pages,
-    totals: { followers: sum('followers'), posts: sum('posts'), impressions: sum('impressions'), reach: sum('reach'), clicks: sum('clicks') },
+    totals: { followers: sum('followers'), posts: sum('posts'), reactions: sum('reactions'), comments: sum('comments'), shares: sum('shares') },
   };
   await mkdir(path.dirname(OUT), { recursive: true });
   await writeFile(OUT, JSON.stringify(snapshot, null, 2) + '\n', 'utf8');

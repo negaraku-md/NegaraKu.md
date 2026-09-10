@@ -35,10 +35,10 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if ! git diff --quiet -- analytics/facebook.json; then
-            git add analytics/facebook.json
+          git add analytics/facebook.json 2>/dev/null || true
+          if git diff --cached --quiet -- analytics/facebook.json; then
+            echo "insights unchanged — nothing to commit"
+          else
             git commit -m "chore(analytics): archive Facebook insights [skip deploy]"
             git push
-          else
-            echo "insights unchanged — nothing to commit"
           fi

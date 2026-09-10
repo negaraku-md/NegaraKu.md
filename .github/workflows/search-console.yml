@@ -35,10 +35,10 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if ! git diff --quiet -- analytics/gsc.json; then
-            git add analytics/gsc.json
+          git add analytics/gsc.json 2>/dev/null || true
+          if git diff --cached --quiet -- analytics/gsc.json; then
+            echo "GSC snapshot unchanged — nothing to commit"
+          else
             git commit -m "chore(analytics): archive Search Console [skip deploy]"
             git push
-          else
-            echo "GSC snapshot unchanged — nothing to commit"
           fi

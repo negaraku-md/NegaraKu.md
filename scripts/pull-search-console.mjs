@@ -81,9 +81,18 @@ async function loadPrev() {
 async function main() {
   const raw = process.env.GSC_SA_KEY;
   if (!raw) { console.log('[gsc] no GSC_SA_KEY — nothing to pull.'); return; }
-  let sa;
-  try { sa = JSON.parse(raw); } catch { console.warn('[gsc] GSC_SA_KEY is not valid JSON — skipping.'); return; }
-  if (!sa.client_email || !sa.private_key) { console.warn('[gsc] GSC_SA_KEY missing client_email/private_key — skipping.'); return; }
+  // Accept the service-account JSON either verbatim or base64-encoded (a common
+  // way people store multi-line keys in a secret).
+  const parseKey = (s) => {
+    const candidates = [s];
+    try { candidates.push(Buffer.from(s, 'base64').toString('utf8')); } catch { /* not base64 */ }
+    for (const c of candidates) {
+      try { const o = JSON.parse(c); if (o && o.client_email && o.private_key) return o; } catch { /* try next */ }
+    }
+    return null;
+  };
+  const sa = parseKey(raw.trim());
+  if (!sa) { console.warn('[gsc] GSC_SA_KEY is not a valid service-account JSON (raw or base64) — skipping.'); return; }
 
   const today = Date.now();
   const end = ymd(today - 3 * 864e5);          // GSC lags ~2-3 days

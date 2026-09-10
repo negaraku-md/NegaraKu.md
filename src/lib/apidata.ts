@@ -120,8 +120,8 @@ export function getAnalytics(): Analytics {
 // Facebook reach archive (analytics/facebook.json, served into public/api at build).
 export type Facebook = {
   updatedAt?: string;
-  pages?: Record<string, { pageId?: string; name?: string | null; followers?: number; posts?: number; impressions?: number; reach?: number; clicks?: number }>;
-  totals?: { followers?: number; posts?: number; impressions?: number; reach?: number; clicks?: number };
+  pages?: Record<string, { pageId?: string; name?: string | null; followers?: number; posts?: number; reactions?: number; comments?: number; shares?: number }>;
+  totals?: { followers?: number; posts?: number; reactions?: number; comments?: number; shares?: number };
 };
 export function getFacebook(): Facebook {
   return read<Facebook>('facebook.json', {});

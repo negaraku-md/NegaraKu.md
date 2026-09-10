@@ -179,18 +179,18 @@ const gscQueries = (gsc.latest?.topQueries ?? []).slice(0, 8);
 const gscQueryMax = Math.max(1, ...gscQueries.map((q) => q.impressions));
 const gscMonths = Object.keys(gsc.byMonth ?? {}).length;
 
-// Facebook reach (archive: analytics/facebook.json) — per-language Page numbers.
+// Facebook engagement (archive: analytics/facebook.json) — per-language Page numbers.
 // Empty until the archive workflow has run and posts exist.
 const fb = getFacebook();
 const FB_LANG: Record<string, string> = { ms: 'Bahasa Malaysia', en: 'English', zh: '中文' };
 const fbRows = (['ms', 'en', 'zh'] as const)
   .map((l) => {
     const p = fb.pages?.[l] ?? {};
-    return { lang: l, label: p.name || `NegaraKu.md · ${FB_LANG[l]}`, pageId: p.pageId, followers: p.followers, posts: p.posts, impressions: p.impressions, reach: p.reach, clicks: p.clicks };
+    return { lang: l, label: p.name || `NegaraKu.md · ${FB_LANG[l]}`, pageId: p.pageId, followers: p.followers, posts: p.posts, reactions: p.reactions, comments: p.comments, shares: p.shares };
   })
   .filter((r) => r.pageId);
 const fbTotals = fb.totals;
-const fbHas = !!(fbTotals && (fbTotals.impressions || fbTotals.reach || fbTotals.clicks || fbTotals.followers));
+const fbHas = !!(fbTotals && (fbTotals.followers || fbTotals.posts || fbTotals.reactions || fbTotals.comments || fbTotals.shares));
 ---
 
 <PageHero
@@ -510,7 +510,7 @@ const fbHas = !!(fbTotals && (fbTotals.impressions || fbTotals.reach || fbTotals
 
 <section class="container block">
   <div class="psec">
-    <header><span>{L('Jangkauan Facebook', 'Facebook reach', 'Facebook 触达')}</span></header>
+    <header><span>{L('Penglibatan Facebook', 'Facebook engagement', 'Facebook 互动')}</span></header>
     <div class="psec-body">
       {!fbHas ? (
         <p class="hint">{L(
@@ -526,9 +526,9 @@ const fbHas = !!(fbTotals && (fbTotals.impressions || fbTotals.reach || fbTotals
                 <th class="chan" style="width:auto">{L('Halaman', 'Page', '页面')}</th>
                 <th>{L('Pengikut', 'Followers', '粉丝')}</th>
                 <th>{L('Siaran', 'Posts', '帖子')}</th>
-                <th>{L('Tera', 'Impressions', '展示')}</th>
-                <th>{L('Jangkauan', 'Reach', '触达')}</th>
-                <th>{L('Klik', 'Clicks', '点击')}</th>
+                <th>{L('Reaksi', 'Reactions', '互动')}</th>
+                <th>{L('Komen', 'Comments', '评论')}</th>
+                <th>{L('Kongsi', 'Shares', '分享')}</th>
               </tr>
             </thead>
             <tbody>
@@ -537,9 +537,9 @@ const fbHas = !!(fbTotals && (fbTotals.impressions || fbTotals.reach || fbTotals
                   <th class="chan" style="width:auto">{r.label}</th>
                   <td>{(r.followers ?? 0).toLocaleString()}</td>
                   <td>{(r.posts ?? 0).toLocaleString()}</td>
-                  <td>{(r.impressions ?? 0).toLocaleString()}</td>
-                  <td>{(r.reach ?? 0).toLocaleString()}</td>
-                  <td>{(r.clicks ?? 0).toLocaleString()}</td>
+                  <td>{(r.reactions ?? 0).toLocaleString()}</td>
+                  <td>{(r.comments ?? 0).toLocaleString()}</td>
+                  <td>{(r.shares ?? 0).toLocaleString()}</td>
                 </tr>
               ))}
             </tbody>
