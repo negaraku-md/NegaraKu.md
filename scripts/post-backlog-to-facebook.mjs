@@ -1,15 +1,15 @@
 // post-backlog-to-facebook.mjs — post the EXISTING published corpus to the
 // Facebook Pages as NATIVE IMAGE posts (each article's OG card) with a
-// value-first caption and the link in the FIRST COMMENT.
+// value-first caption that carries a TAPPABLE article link.
 //
 // Why this is separate from post-to-facebook.mjs:
 //  • post-to-facebook.mjs announces a NEW article as a link post (its push
 //    trigger is currently paused during this backlog rollout).
-//  • This poster drains the ~1,000-article backlog in the format that actually
-//    earns reach on Facebook: a native photo (FB favours photos over off-site
-//    link previews) + a comment-prompt caption, with the link in the first
-//    comment — so the post body carries no reach-suppressing external link.
-//  • Attribution is preserved: the in-comment link is UTM-tagged.
+//  • This poster drains the ~1,000-article backlog as a native photo (FB
+//    favours photos over off-site link previews, so reach holds) whose caption
+//    still carries a tappable, UTM-tagged link — one tap to the article. The
+//    same link is dropped in the first comment as a backup surface.
+//  • Attribution is preserved: the link is UTM-tagged (utm_source=facebook).
 //
 // Invoked with article files/bases (the daily queue passes the day's batch), or
 // via the CHANGED_FILES env var. Each PUBLISHED article yields one post per
@@ -58,11 +58,11 @@ const PROMPT = {
     zh: '在马来西亚创业或拓展业务吗？',
   },
 };
-// Tells readers where the link is and nudges the reach-friendly in-comment link.
+// Precedes the tappable article link in the caption body.
 const CTA = {
-  ms: '🔗 Panduan penuh dalam komen pertama 👇',
-  en: '🔗 Full guide in the first comment 👇',
-  zh: '🔗 完整指南见首条评论 👇',
+  ms: '🔗 Baca panduan penuh:',
+  en: '🔗 Read the full guide:',
+  zh: '🔗 阅读完整指南：',
 };
 
 function fileList() {
@@ -118,10 +118,13 @@ function buildPost(file, data, lang, prefix) {
   // Canonical (trailing-slash) URL so Facebook's scraper never follows a 301.
   const link = withUtm(articleUrl(SITE_URL, prefix, data.category, data.slug), 'facebook', 'social');
   const prompt = (PROMPT[pillarOf(data.category)] ?? PROMPT.understand)[lang];
-  // Value-first: the title as the hook, the article's own summary (the useful
-  // bit), a comment-prompt question, then the "link in comments" nudge and
-  // hashtags. The external link is NOT in the caption — it goes in comment #1.
-  const caption = [data.title, '', data.summary, '', prompt, CTA[lang], '', hashtags(data)].join('\n');
+  // Value-first: title hook, the article's own summary, a comment-prompt
+  // question, then a TAPPABLE article link (UTM-tagged, so it's attributed even
+  // when FB strips the referrer), then hashtags. The link is in the caption body
+  // so readers reach the article in one tap — the post stays a native photo
+  // (the photo is the attachment), so it keeps a photo's reach. The same link
+  // is also dropped in the first comment as a backup surface.
+  const caption = [data.title, '', data.summary, '', prompt, '', CTA[lang], link, '', hashtags(data)].join('\n');
   return { image, caption, link };
 }
 
