@@ -1,0 +1,33 @@
+name: Delete Facebook posts
+
+# Manual-only. Deletes Page posts by story id via the Graph API — the only way to
+# remove posts published by the system user (they show in no Facebook management UI).
+on:
+  workflow_dispatch:
+    inputs:
+      story_ids:
+        description: 'Space-separated full story ids "{page-id}_{post-id}" to delete'
+        required: true
+      dry_run:
+        description: 'Dry run — log what would be deleted, do NOT call the Facebook API'
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+jobs:
+  delete:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+      - name: Delete posts
+        env:
+          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+          FB_DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '' }}
+        run: node scripts/delete-facebook-posts.mjs ${{ github.event.inputs.story_ids }}
