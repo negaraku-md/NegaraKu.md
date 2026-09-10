@@ -18,7 +18,9 @@ import { fileURLToPath } from 'node:url';
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const OUT = path.join(ROOT, 'analytics', 'bing.json');
 const KEY = process.env.BING_API_KEY;
-const SITE = process.env.BING_SITE || 'https://negaraku.md';
+// Must match the verified Bing property EXACTLY (Bing WMT shows it as
+// "www.negaraku.md/"). Override with BING_SITE if the property URL differs.
+const SITE = process.env.BING_SITE || 'https://www.negaraku.md/';
 const BASE = 'https://ssl.bing.com/webmaster/api.svc/json';
 
 const num = (v) => Math.round(Number(v) || 0);
