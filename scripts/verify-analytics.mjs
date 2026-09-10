@@ -90,6 +90,39 @@ for (const name of ['readers', 'search', 'ai']) {
 const grand = buckets.readers.total + buckets.search.total + buckets.ai.total;
 console.log('  ' + '-'.repeat(50));
 console.log(`  total     ${String(grand).padStart(5)}`);
+
+// ---- traffic channel of human readers (blob5=channel, blob6=source) --------
+const sqlCh =
+  `SELECT blob5 AS channel, blob6 AS source, SUM(_sample_interval) AS n ` +
+  `FROM ${DATASET} ${where} AND blob2 = 'readers' AND blob5 != '' GROUP BY channel, source ORDER BY n DESC`;
+const resCh = await fetch(
+  `https://api.cloudflare.com/client/v4/accounts/${ACCOUNT}/analytics_engine/sql`,
+  { method: 'POST', headers: { Authorization: `Bearer ${TOKEN}` }, body: sqlCh },
+);
+if (resCh.ok) {
+  const chRows = (await resCh.json()).data || [];
+  const chan = {}; // channel → { total, sources: {name:n} }
+  for (const r of chRows) {
+    const n = Math.round(Number(r.n) || 0);
+    const c = (chan[r.channel] ||= { total: 0, sources: {} });
+    c.total += n;
+    if (r.source) c.sources[r.source] = (c.sources[r.source] || 0) + n;
+  }
+  console.log('\n  channel     count   top sources');
+  console.log('  ' + '-'.repeat(50));
+  const order = ['search', 'ai', 'social', 'messaging', 'other', 'direct'];
+  const names = [...new Set([...order.filter((c) => chan[c]), ...Object.keys(chan)])];
+  if (!names.length) {
+    console.log('  (no referral-classified reader hits in this window yet)');
+  } else {
+    for (const name of names) {
+      const c = chan[name];
+      const top = Object.entries(c.sources).sort((a, b) => b[1] - a[1]).map(([s, n]) => `${s}(${n})`).join(', ') || '—';
+      console.log(`  ${name.padEnd(10)}  ${String(c.total).padStart(5)}   ${top}`);
+    }
+  }
+}
+
 if (grand === 0) {
   console.log(
     `\n  No hits in this window. Generate one per bucket, then re-run:\n` +
