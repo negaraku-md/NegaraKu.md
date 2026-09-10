@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "startedAt": null,
+    "note": "Backlog poster manifest. cradle-cip-grant seeded as posted (its 3 photo posts went out in the live test on 2026-09-10 via facebook-backlog), so the queue never re-posts it. startedAt is set on the first real cron post and drives the warm-up ramp."
+  },
+  "posted": {
+    "knowledge/business/cradle-cip-grant#ms": { "at": "2026-09-10T15:23:53Z", "story": null },
+    "knowledge/business/cradle-cip-grant#en": { "at": "2026-09-10T15:23:53Z", "story": null },
+    "knowledge/business/cradle-cip-grant#zh": { "at": "2026-09-10T15:23:53Z", "story": null }
+  }
+}

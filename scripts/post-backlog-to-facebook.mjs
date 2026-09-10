@@ -28,10 +28,16 @@ import {
   articleBases, langFile, isPublishedBase,
   hashtags, withUtm, articleUrl, pillarOf, pageTokenFor,
 } from './lib/facebook.mjs';
+import {
+  loadManifest, saveManifest, isPosted, markPosted, nextBatch, perRunArticles,
+} from './lib/fb-queue.mjs';
 
 const SITE_URL = process.env.SITE_URL ?? 'https://negaraku.md';
 const TOKEN = process.env.FB_PAGE_ACCESS_TOKEN;
 const DRY_RUN = process.env.FB_DRY_RUN === '1';
+// Queue mode: with no explicit files, drain the ranked backlog (the daily cron
+// path). With files/CHANGED_FILES, post exactly those (manual/one-off).
+const QUEUE = process.env.FB_BACKLOG_QUEUE === '1';
 
 // A comment-prompt question per pillar × language — invites a reply, and
 // comments are Facebook's strongest reach signal. Unknown pillar → 'understand'.
@@ -66,25 +72,36 @@ function fileList() {
     .split(/\r?\n/).map((s) => s.trim()).filter(Boolean);
 }
 
-// One target per (published article, language): the file to read + locale prefix.
-// Deduped, so each article yields exactly its language posts. Only published
-// masters qualify — a draft's page isn't built, so its link/OG card would 404.
-function targets(files) {
+// Expand a list of article bases into one target per (base, language): the file
+// to read, the locale prefix, and the base (for manifest keying). Skips a
+// (base, lang) already in the manifest so nothing is ever double-posted.
+function targetsForBases(bases, manifest) {
   const out = [];
   const seen = new Set();
-  for (const base of articleBases(files)) {
+  for (const base of bases) {
     if (!isPublishedBase(base)) continue;
     for (const lang of LANGS) {
       if (!PAGES[lang]) continue;
+      if (isPosted(manifest, base, lang)) continue; // already posted — never again
       const file = langFile(base, lang);
-      const key = `${base}|${lang}`;
-      if (existsSync(file) && !seen.has(key)) {
-        seen.add(key);
-        out.push({ file, lang, prefix: localePrefix(lang) });
+      const k = `${base}|${lang}`;
+      if (existsSync(file) && !seen.has(k)) {
+        seen.add(k);
+        out.push({ base, file, lang, prefix: localePrefix(lang) });
       }
     }
   }
   return out;
+}
+
+// The targets for this run: the ranked queue batch (cron path), or exactly the
+// files named on the CLI / CHANGED_FILES (manual path).
+function resolveTargets(files, manifest) {
+  if (files.length) return targetsForBases(articleBases(files), manifest);
+  const count = perRunArticles(manifest);
+  const batch = nextBatch(manifest, count).map((b) => b.base);
+  console.log(`[fb-backlog] queue: posting ${batch.length} article(s) this run (ramp = ${count}/run).`);
+  return targetsForBases(batch, manifest);
 }
 
 // Build the native-photo post for a target: the OG-card image URL, the
@@ -175,19 +192,35 @@ async function post(t) {
     console.warn(`[fb-backlog] posted photo but COMMENT failed [${t.lang}] ${storyId}:`, JSON.stringify(cmtJson));
   }
   console.log(`[fb-backlog] posted [${t.lang}] ${p.image} → ${storyId}`);
-  return true;
+  return storyId;
 }
 
 async function main() {
-  const ts = targets(fileList());
-  if (!ts.length) { console.log('[fb-backlog] no published articles to post.'); return; }
+  const files = fileList();
+  // Safety: a no-files run does nothing unless queue mode is explicitly on, so
+  // the poster can't accidentally drain the backlog.
+  if (!files.length && !QUEUE) {
+    console.log('[fb-backlog] no files and not queue mode (set FB_BACKLOG_QUEUE=1) — nothing to do.');
+    return;
+  }
+  const manifest = loadManifest();
+  const ts = resolveTargets(files, manifest);
+  if (!ts.length) { console.log('[fb-backlog] nothing to post (all caught up / already posted).'); return; }
 
   // Dry run / no token: log what would be posted, never call the API, exit 0.
   if (DRY_RUN || !TOKEN) { for (const t of ts) await preview(t); return; }
 
   let posted = 0;
-  for (const t of ts) if (await post(t)) posted++;
-  console.log(`[fb-backlog] done — ${posted}/${ts.length} posted.`);
+  for (const t of ts) {
+    const story = await post(t);
+    if (story) {
+      posted++;
+      manifest.meta.startedAt ??= new Date().toISOString();
+      markPosted(manifest, t.base, t.lang, story);
+    }
+  }
+  saveManifest(manifest); // record successes even on a partial run
+  console.log(`[fb-backlog] done — ${posted}/${ts.length} posted; ${Object.keys(manifest.posted).length} total in manifest.`);
   if (posted !== ts.length) {
     console.error(`[fb-backlog] FAILED — only ${posted}/${ts.length} post(s) succeeded.`);
     process.exit(1);
