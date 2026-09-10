@@ -25,6 +25,7 @@
 
 import { readFile } from 'node:fs/promises';
 import { existsSync, readFileSync } from 'node:fs';
+import { execFileSync } from 'node:child_process';
 import matter from 'gray-matter';
 
 const SITE_URL = process.env.SITE_URL ?? 'https://negaraku.md';
@@ -42,6 +43,12 @@ const PAGES = {
 };
 const TOKEN = process.env.FB_PAGE_ACCESS_TOKEN;
 const DRY_RUN = process.env.FB_DRY_RUN === '1';
+// The commit the push started from. When set (the push trigger passes it), we
+// announce only the TRANSITION to published — an article that was already
+// published at this commit is skipped, so editing a live article never re-posts.
+// Unset (manual workflow_dispatch with an explicit file list) → no baseline, so
+// any currently-published file the caller named is posted.
+const BEFORE_SHA = process.env.FB_BEFORE_SHA || '';
 const GRAPH = 'https://graph.facebook.com/v21.0';
 // Emoji prefixed to the title line so it stands out (FB post text can't be bold).
 // Set to '' to drop it, or change the emoji here.
@@ -89,6 +96,24 @@ function isPublishedBase(base) {
   }
 }
 
+// Whether an article's master was ALREADY published at commit `sha`. Reads the
+// master via `git show` (git always uses forward-slash paths, so `base` works
+// as-is on any OS). A file absent at that commit — or any git error — counts as
+// "not previously published" (so a brand-new published file still posts).
+function wasPublishedAt(base, sha) {
+  if (!sha) return false;
+  try {
+    const txt = execFileSync('git', ['show', `${sha}:${base}.md`], {
+      encoding: 'utf8',
+      stdio: ['ignore', 'pipe', 'ignore'],
+    });
+    const data = matter(txt).data;
+    return data.status === 'published' && !data.hidden;
+  } catch {
+    return false;
+  }
+}
+
 // Expand the changed files into one target per (article, language): the file to
 // read + the URL locale prefix. Deduped, so each article yields exactly its
 // three language posts regardless of how many of its files changed. Skips any
@@ -98,6 +123,7 @@ function targets(files) {
   const seen = new Set();
   for (const base of articleBases(files)) {
     if (!isPublishedBase(base)) continue; // draft/unpublished/hidden — do not post
+    if (wasPublishedAt(base, BEFORE_SHA)) continue; // already live before this push — an edit, not a debut
     for (const lang of LANGS) {
       if (!PAGES[lang]) continue; // no Page for this language yet — skip it
       const file = langFile(base, lang);
