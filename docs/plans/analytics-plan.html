@@ -1,0 +1,346 @@
+<title>NegaraKu.md Analytics Plan</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800&family=Lato:wght@400;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
+<style>
+  :root {
+    /* Light — warm, gold-biased neutrals (the 1company gold is the throughline) */
+    --ground: #f6f3ec;
+    --surface: #fffefb;
+    --surface-2: #efece2;
+    --ink: #1b1710;
+    --ink-soft: #423b2e;
+    --muted: #7a7161;
+    --line: #e4ddcd;
+    --gold: #b9860b;      /* accent that stays legible as text on light */
+    --gold-fill: #FFC000; /* brand gold for bars/dots */
+    --have: #1a7f37;
+    --build: #2f6fdc;
+    --none: #c0492f;
+    --shadow: 0 1px 2px rgba(27,23,16,.06), 0 8px 24px rgba(27,23,16,.05);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --ground: #0b0b0e;
+      --surface: #131319;
+      --surface-2: #1c1c24;
+      --ink: #f3efe6;
+      --ink-soft: #cfc9bb;
+      --muted: #8d8a94;
+      --line: #262630;
+      --gold: #FFC000;
+      --gold-fill: #FFC000;
+      --have: #46c76a;
+      --build: #6ba6ff;
+      --none: #e2795f;
+      --shadow: 0 1px 2px rgba(0,0,0,.4), 0 12px 30px rgba(0,0,0,.35);
+    }
+  }
+  :root[data-theme="dark"] {
+    --ground: #0b0b0e;
+    --surface: #131319;
+    --surface-2: #1c1c24;
+    --ink: #f3efe6;
+    --ink-soft: #cfc9bb;
+    --muted: #8d8a94;
+    --line: #262630;
+    --gold: #FFC000;
+    --gold-fill: #FFC000;
+    --have: #46c76a;
+    --build: #6ba6ff;
+    --none: #e2795f;
+    --shadow: 0 1px 2px rgba(0,0,0,.4), 0 12px 30px rgba(0,0,0,.35);
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    background: var(--ground);
+    color: var(--ink);
+    font-family: "Lato", system-ui, -apple-system, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+  }
+  .wrap { max-width: 1040px; margin: 0 auto; padding: clamp(1.5rem, 4vw, 3.5rem) clamp(1.1rem, 4vw, 2.2rem) 4rem; }
+
+  h1, h2, h3 { font-family: "Montserrat", system-ui, sans-serif; text-wrap: balance; margin: 0; }
+  .eyebrow {
+    font-family: "IBM Plex Mono", monospace; font-size: .72rem; font-weight: 500;
+    letter-spacing: .18em; text-transform: uppercase; color: var(--gold);
+  }
+  .wordmark { color: var(--ink); } .wordmark b { color: var(--gold); font-weight: 800; }
+
+  /* Header */
+  header.hd { border-bottom: 2px solid var(--line); padding-bottom: 1.6rem; margin-bottom: 2.2rem; }
+  header.hd h1 { font-size: clamp(1.9rem, 4.5vw, 2.9rem); font-weight: 800; letter-spacing: -.02em; margin: .5rem 0 .5rem; }
+  header.hd p.lede { font-size: 1.06rem; color: var(--ink-soft); max-width: 60ch; margin: 0; }
+
+  /* Layer legend */
+  .layers { list-style: none; padding: 0; margin: 1.6rem 0 0; display: grid; grid-template-columns: repeat(4, 1fr); gap: .8rem; }
+  .layers li { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: .7rem .8rem; box-shadow: var(--shadow); }
+  .layers .n { font-family: "IBM Plex Mono", monospace; font-size: .7rem; color: var(--gold); font-weight: 600; }
+  .layers .t { font-family: "Montserrat", sans-serif; font-weight: 700; font-size: .92rem; display: block; margin: .1rem 0; }
+  .layers .d { font-size: .8rem; color: var(--muted); line-height: 1.4; }
+
+  section { margin-top: 2.6rem; }
+  section > h2 { font-size: 1.28rem; font-weight: 800; letter-spacing: -.01em; display: flex; align-items: baseline; gap: .6rem; }
+  section > h2 .hint { font-family: "IBM Plex Mono", monospace; font-size: .72rem; font-weight: 400; color: var(--muted); letter-spacing: .04em; }
+  section > p.intro { color: var(--ink-soft); margin: .5rem 0 1.2rem; max-width: 66ch; }
+
+  /* Coverage matrix */
+  .matrix-scroll { overflow-x: auto; border: 1px solid var(--line); border-radius: 12px; box-shadow: var(--shadow); background: var(--surface); }
+  table { border-collapse: collapse; width: 100%; min-width: 760px; }
+  th, td { text-align: left; padding: .7rem .8rem; border-bottom: 1px solid var(--line); border-right: 1px solid var(--line); vertical-align: top; }
+  th:last-child, td:last-child { border-right: 0; }
+  tr:last-child td { border-bottom: 0; }
+  thead th {
+    font-family: "Montserrat", sans-serif; font-size: .78rem; font-weight: 700; color: var(--ink);
+    background: var(--surface-2); position: sticky; top: 0; letter-spacing: .01em;
+  }
+  thead th .sub { display: block; font-family: "IBM Plex Mono", monospace; font-weight: 400; font-size: .66rem; color: var(--muted); letter-spacing: .02em; text-transform: none; margin-top: .15rem; }
+  th.chan { font-family: "Montserrat", sans-serif; font-weight: 700; font-size: .86rem; color: var(--ink); width: 15rem; background: var(--surface); }
+  th.chan .ex { display: block; font-family: "Lato", sans-serif; font-weight: 400; font-size: .74rem; color: var(--muted); margin-top: .1rem; }
+  td .tool { font-size: .82rem; color: var(--ink-soft); display: block; }
+  td .proof { display: block; font-family: "IBM Plex Mono", monospace; font-size: .68rem; color: var(--muted); margin-top: .12rem; }
+
+  .chip { display: inline-flex; align-items: center; gap: .32rem; font-family: "IBM Plex Mono", monospace;
+    font-size: .64rem; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; padding: .12rem .34rem;
+    border-radius: 5px; margin-bottom: .28rem; border: 1px solid; }
+  .chip::before { content: ""; width: .42rem; height: .42rem; border-radius: 50%; background: currentColor; }
+  .chip.have { color: var(--have); border-color: color-mix(in srgb, var(--have) 40%, transparent); background: color-mix(in srgb, var(--have) 12%, transparent); }
+  .chip.build { color: var(--build); border-color: color-mix(in srgb, var(--build) 40%, transparent); background: color-mix(in srgb, var(--build) 12%, transparent); }
+  .chip.none { color: var(--none); border-color: color-mix(in srgb, var(--none) 40%, transparent); background: color-mix(in srgb, var(--none) 12%, transparent); }
+  .na { color: var(--muted); font-family: "IBM Plex Mono", monospace; font-size: .8rem; }
+
+  .legend { display: flex; flex-wrap: wrap; gap: 1rem 1.4rem; margin: 1rem 0 0; padding: 0; list-style: none; font-size: .8rem; color: var(--muted); }
+  .legend .chip { margin: 0 .35rem 0 0; }
+  .legend li { display: flex; align-items: center; }
+
+  /* Roadmap */
+  .road { list-style: none; padding: 0; margin: 0; display: grid; gap: .8rem; counter-reset: step; }
+  .road li { display: grid; grid-template-columns: 2.4rem 1fr; gap: .3rem 1rem; background: var(--surface); border: 1px solid var(--line);
+    border-left: 3px solid var(--gold-fill); border-radius: 10px; padding: 1rem 1.1rem; box-shadow: var(--shadow); }
+  .road .num { counter-increment: step; font-family: "IBM Plex Mono", monospace; font-weight: 600; font-size: 1.05rem; color: var(--gold); }
+  .road .num::before { content: counter(step); }
+  .road .body h3 { font-size: 1rem; font-weight: 700; }
+  .road .body p { margin: .3rem 0 0; font-size: .88rem; color: var(--ink-soft); }
+  .road .meta { grid-column: 2; display: flex; flex-wrap: wrap; gap: .4rem; margin-top: .55rem; }
+  .tag { font-family: "IBM Plex Mono", monospace; font-size: .64rem; font-weight: 500; letter-spacing: .05em; text-transform: uppercase;
+    padding: .16rem .4rem; border-radius: 5px; background: var(--surface-2); color: var(--muted); border: 1px solid var(--line); }
+  .tag.covers { color: var(--gold); border-color: color-mix(in srgb, var(--gold) 35%, transparent); }
+
+  /* Two-up blocks */
+  .cols { display: grid; grid-template-columns: 1fr 1fr; gap: 1.2rem; }
+  .panel { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 1.2rem 1.3rem; box-shadow: var(--shadow); }
+  .panel h3 { font-size: .95rem; font-weight: 800; display: flex; align-items: center; gap: .5rem; margin-bottom: .7rem; }
+  .panel h3 .dot { width: .55rem; height: .55rem; border-radius: 50%; }
+  .list { list-style: none; padding: 0; margin: 0; display: grid; gap: .55rem; }
+  .list li { font-size: .86rem; color: var(--ink-soft); padding-left: 1.1rem; position: relative; }
+  .list li::before { content: ""; position: absolute; left: 0; top: .55em; width: .4rem; height: .4rem; border-radius: 50%; background: var(--gold-fill); }
+  .list.gaps li::before { background: var(--none); border-radius: 1px; }
+  .list b { color: var(--ink); font-weight: 700; }
+  .mit { list-style: none; padding: 0; margin: 0; display: grid; gap: .75rem; }
+  .mit li { font-size: .84rem; color: var(--ink-soft); line-height: 1.5; }
+  .mit li .chip { margin: 0 .45rem 0 0; vertical-align: 1px; }
+  .mit b { color: var(--ink); font-weight: 700; }
+
+  .principles { display: grid; grid-template-columns: repeat(4, 1fr); gap: .9rem; }
+  .principles .p { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: .9rem 1rem; box-shadow: var(--shadow); }
+  .principles .p .k { font-family: "Montserrat", sans-serif; font-weight: 700; font-size: .9rem; }
+  .principles .p .v { font-size: .78rem; color: var(--muted); margin-top: .2rem; line-height: 1.45; }
+
+  .note { margin-top: 2.4rem; padding: 1rem 1.2rem; border: 1px dashed var(--line); border-radius: 10px; background: var(--surface-2);
+    font-size: .84rem; color: var(--ink-soft); }
+  .note b { color: var(--ink); }
+  footer { margin-top: 2.6rem; padding-top: 1.2rem; border-top: 1px solid var(--line); font-family: "IBM Plex Mono", monospace;
+    font-size: .72rem; color: var(--muted); display: flex; justify-content: space-between; flex-wrap: wrap; gap: .5rem; }
+
+  @media (max-width: 720px) {
+    .layers, .principles { grid-template-columns: 1fr 1fr; }
+    .cols { grid-template-columns: 1fr; }
+  }
+</style>
+
+<div class="wrap">
+  <header class="hd">
+    <span class="eyebrow">First-party measurement plan · v1.1</span>
+    <h1>How we'll measure reach for <span class="wordmark">NegaraKu<b>.md</b></span></h1>
+    <p class="lede">Every discovery channel — Google, AI assistants, Facebook, and anywhere an article gets shared — measured in the same four layers, funnelled into one self-owned dashboard grouped by pillar → category → article.</p>
+    <ul class="layers">
+      <li><span class="n">L1</span><span class="t">Crawl</span><span class="d">A bot fetches the page. The precondition for ever being shown.</span></li>
+      <li><span class="n">L2</span><span class="t">Impression / reach</span><span class="d">Shown to a human — no click yet. Lives platform-side only.</span></li>
+      <li><span class="n">L3</span><span class="t">Click / referral</span><span class="d">A human lands on the site. Read from the referrer / UTM, our side.</span></li>
+      <li><span class="n">L4</span><span class="t">On-site behaviour</span><span class="d">What they do after arriving — views, time on page, scroll.</span></li>
+    </ul>
+  </header>
+
+  <section>
+    <h2>Coverage matrix <span class="hint">channel × layer · what tool, and its status</span></h2>
+    <p class="intro">The point of the plan in one grid: where we already have data, where we'd build it, and the honest blanks where no tool exists yet.</p>
+    <div class="matrix-scroll">
+      <table>
+        <thead>
+          <tr>
+            <th class="chan">Channel</th>
+            <th>Crawl<span class="sub">bot reads page</span></th>
+            <th>Impression / reach<span class="sub">shown, no click</span></th>
+            <th>Click / referral<span class="sub">lands on site</span></th>
+            <th>On-site<span class="sub">behaviour</span></th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th class="chan">Google Search<span class="ex">organic + AI Overviews</span></th>
+            <td><span class="chip have">Live</span><span class="tool">Googlebot classified at edge</span></td>
+            <td><span class="chip have">Live</span><span class="tool">Search Console</span><span class="proof">domain property, active</span></td>
+            <td><span class="chip have">Live</span><span class="chip build">Build</span><span class="tool">GSC clicks · + referrer bucket</span></td>
+            <td><span class="chip build">Build</span><span class="tool">engagement beacon</span></td>
+          </tr>
+          <tr>
+            <th class="chan">Bing / Copilot<span class="ex">+ ChatGPT-search index</span></th>
+            <td><span class="chip have">Live</span><span class="tool">Bingbot classified</span></td>
+            <td><span class="chip build">Build</span><span class="tool">Bing Webmaster Tools</span></td>
+            <td><span class="chip build">Build</span><span class="tool">referrer bing.com</span></td>
+            <td><span class="chip build">Build</span><span class="tool">engagement beacon</span></td>
+          </tr>
+          <tr>
+            <th class="chan">AI assistants<span class="ex">ChatGPT · Claude · Perplexity · Gemini</span></th>
+            <td><span class="chip have">Live</span><span class="tool">AI-crawler panel</span><span class="proof">18,071 fetches · 8 bots</span></td>
+            <td><span class="chip none">No tool</span><span class="tool">citation in answers — probe optional</span></td>
+            <td><span class="chip build">Build</span><span class="tool">referrer chatgpt / perplexity / claude</span></td>
+            <td><span class="chip build">Build</span><span class="tool">engagement beacon</span></td>
+          </tr>
+          <tr>
+            <th class="chan">Facebook<span class="ex">3 Pages — ms · en · zh</span></th>
+            <td><span class="na">—</span></td>
+            <td><span class="chip build">Build</span><span class="tool">Meta Insights (Graph API)</span><span class="proof">token already has Insights</span></td>
+            <td><span class="chip build">Build</span><span class="tool">Insights link-clicks · + referrer</span></td>
+            <td><span class="chip build">Build</span><span class="tool">engagement beacon</span></td>
+          </tr>
+          <tr>
+            <th class="chan">Other social<span class="ex">X · LinkedIn · Reddit · Threads · YouTube</span></th>
+            <td><span class="na">—</span></td>
+            <td><span class="na">per-platform / none</span></td>
+            <td><span class="chip build">Build</span><span class="tool">referrer bucket (named)</span></td>
+            <td><span class="chip build">Build</span><span class="tool">engagement beacon</span></td>
+          </tr>
+          <tr>
+            <th class="chan">Messaging<span class="ex">WhatsApp · Telegram · LINE</span></th>
+            <td><span class="na">—</span></td>
+            <td><span class="na">—</span></td>
+            <td><span class="chip build">Build</span><span class="tool">UTM (referrer often stripped)</span></td>
+            <td><span class="chip build">Build</span><span class="tool">engagement beacon</span></td>
+          </tr>
+          <tr>
+            <th class="chan">Any other referrer<span class="ex">blogs · forums · newsletters · wherever shared</span></th>
+            <td><span class="na">—</span></td>
+            <td><span class="na">—</span></td>
+            <td><span class="chip build">Build</span><span class="tool">domain kept verbatim → auto-appears</span></td>
+            <td><span class="chip build">Build</span><span class="tool">engagement beacon</span></td>
+          </tr>
+          <tr>
+            <th class="chan">Direct<span class="ex">typed, bookmarked, app with no referrer</span></th>
+            <td><span class="na">—</span></td>
+            <td><span class="na">—</span></td>
+            <td><span class="chip build">Build</span><span class="tool">"direct" bucket (no referrer)</span></td>
+            <td><span class="chip build">Build</span><span class="tool">engagement beacon</span></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <ul class="legend">
+      <li><span class="chip have">Live</span> already collecting</li>
+      <li><span class="chip build">Build</span> proposed below</li>
+      <li><span class="chip none">No tool</span> no way to measure yet</li>
+      <li><span class="na">—</span>&nbsp; not applicable to this channel</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Build roadmap <span class="hint">ordered by leverage</span></h2>
+    <p class="intro">One change — the referrer classifier — fills the entire Click column for every channel at once, so it goes first. Everything else layers on top.</p>
+    <ol class="road">
+      <li>
+        <span class="num"></span>
+        <div class="body"><h3>Unified referrer / channel classifier</h3>
+          <p>Extend the edge Worker to read each human visit's referrer and tag its channel — search · AI · Facebook · other social · messaging · direct — with any unknown source kept as its bare domain, so a share to a brand-new place shows up on its own. Store the channel alongside the existing bucket/bot in Analytics Engine; add a "Traffic by channel" dashboard panel like the AI one.</p></div>
+        <div class="meta"><span class="tag covers">covers: whole Click column</span><span class="tag">Cloudflare Worker</span><span class="tag">separate wrangler deploy</span></div>
+      </li>
+      <li>
+        <span class="num"></span>
+        <div class="body"><h3>UTM tagging on shared links</h3>
+          <p>The Facebook poster (and a convention for future shares) appends <code>utm_source</code>/<code>utm_medium</code>, so a click stays attributable even when the app strips the referrer. Canonical tags already protect SEO.</p></div>
+        <div class="meta"><span class="tag covers">rescues: messaging + in-app clicks</span><span class="tag">Pages</span></div>
+      </li>
+      <li>
+        <span class="num"></span>
+        <div class="body"><h3>Analytics archive — own every source's history</h3>
+          <p>One scheduled job that commits a permanent snapshot of every source: the Cloudflare edge tail (already running), plus a Search Console pull (impressions / clicks / queries, tagged by pillar &amp; category) and a Facebook Insights pull (reach / impressions / link-clicks per Page, per language). This is the single move that defeats <em>all</em> the retention limits at once — the 90-day, the 16-month, Facebook's window — so nothing measurable ever expires.</p></div>
+        <div class="meta"><span class="tag covers">fills: Google + Facebook Impression</span><span class="tag covers">kills: every retention limit</span><span class="tag">CI + committed snapshot</span></div>
+      </li>
+      <li>
+        <span class="num"></span>
+        <div class="body"><h3>Bing Webmaster Tools</h3>
+          <p>Set up the property — it doubles as partial AI-search coverage, since Copilot and ChatGPT-search draw on Bing's index.</p></div>
+        <div class="meta"><span class="tag covers">fills: Bing / Copilot Impression</span><span class="tag">external setup</span></div>
+      </li>
+      <li>
+        <span class="num"></span>
+        <div class="body"><h3>On-site engagement beacon</h3>
+          <p>A tiny cookieless beacon on page-unload sends time-on-page and max scroll depth to the Worker, grouped by article. The whole L4 column, self-owned.</p></div>
+        <div class="meta"><span class="tag covers">fills: whole On-site column</span><span class="tag">Worker + client</span></div>
+      </li>
+      <li>
+        <span class="num"></span>
+        <div class="body"><h3>AI citation probe <span style="font-weight:400;color:var(--muted);font-size:.8rem">— experimental</span></h3>
+          <p>The only shot at the "AI impression" blank: a scheduled job asks fixed target questions against the Perplexity API (which returns its sources) and logs whether NegaraKu.md was cited. Best-effort, not a true impression count.</p></div>
+        <div class="meta"><span class="tag covers">chips at: AI Impression gap</span><span class="tag">CI · optional</span></div>
+      </li>
+    </ol>
+  </section>
+
+  <section>
+    <h2>Already standing &amp; every limit handled</h2>
+    <div class="cols">
+      <div class="panel">
+        <h3><span class="dot" style="background:var(--have)"></span>Already live</h3>
+        <ul class="list">
+          <li><b>Edge classifier</b> — every hit sorted into readers / search / AI + the specific bot, per article, all-time.</li>
+          <li><b>AI-crawler panel</b> — 18,071 fetches from 8 crawlers, by bot and by pillar (Meta-ExternalAgent is ~87%).</li>
+          <li><b>All-time page views</b> — self-owned snapshot that survives Cloudflare's 90-day window.</li>
+          <li><b>Search Console</b> — Google impressions, clicks, queries, position (domain property, active).</li>
+          <li><b>Cloudflare</b> — native AI-crawler monitoring &amp; one-click block, if any bot turns abusive.</li>
+        </ul>
+      </div>
+      <div class="panel">
+        <h3><span class="dot" style="background:var(--build)"></span>Every limit &amp; what we do</h3>
+        <ul class="mit">
+          <li><span class="chip have">Solved</span><b>Retention</b> — the 90-day, 16-month and Facebook windows all fall to the one archive job; owned history never expires.</li>
+          <li><span class="chip build">Mitigated</span><b>Referrer-less clicks</b> — UTM on links we share keeps them attributable; the rest still fall to "direct."</li>
+          <li><span class="chip build">Mitigated</span><b>Bot spoofing</b> — trust Cloudflare's verified-bot signal over a raw User-Agent.</li>
+          <li><span class="chip none">Inherent</span><b>AI citations</b> — no source exists; a probe approximates it, and crawl + referral bracket it from both ends.</li>
+          <li><span class="chip none">Inherent</span><b>Google AI Overviews</b> — GSC won't split them; track the Google total plus an AIO-presence probe.</li>
+          <li><span class="chip none">Inherent</span><b>Cross-device journey</b> — a deliberate cookieless trade-off, accepted.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Principles the whole thing holds to</h2>
+    <div class="principles">
+      <div class="p"><div class="k">Privacy-first</div><div class="v">Cookieless, no consent banner, no personal data — same stance as the site.</div></div>
+      <div class="p"><div class="k">Self-owned</div><div class="v">Data folded into committed snapshots, so it outlives every platform's retention limit.</div></div>
+      <div class="p"><div class="k">Performance</div><div class="v">No heavy third-party scripts on the page; work happens at the edge and in CI.</div></div>
+      <div class="p"><div class="k">One taxonomy</div><div class="v">Every metric rolls up by pillar → category → article, so channels compare like-for-like.</div></div>
+    </div>
+  </section>
+
+  <div class="note">
+    <b>Deploy note.</b> Steps that touch the Cloudflare Worker go live via a separate <code>wrangler</code> deploy — not the GitHub Pages push — so they're a deliberate, confirmed step. Everything is committed locally and held until you say <b>push</b>; the standing no-auto-push rule is unchanged.
+  </div>
+
+  <footer>
+    <span>NegaraKu.md · analytics measurement plan</span>
+    <span>draft for review — nothing built yet</span>
+  </footer>
+</div>
