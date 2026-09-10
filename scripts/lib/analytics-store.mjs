@@ -27,16 +27,23 @@ export function chDateTime(d) {
 }
 
 function emptyPage() {
-  return { readers: 0, search: { total: 0, byBot: {} }, ai: { total: 0, byBot: {} } };
+  return { readers: 0, search: { total: 0, byBot: {} }, ai: { total: 0, byBot: {} }, ref: { byChannel: {}, bySource: {} } };
 }
 
-/** Add one AE row {path,bucket,bot,n} into an all-time `pages` map (mutates). */
+/** Add one AE row {path,bucket,bot,channel,source,n} into `pages` (mutates). */
 export function addRow(pages, r) {
   const key = r.path;
   const n = Math.round(Number(r.n) || 0);
   if (!key || key === 'home' || n <= 0) return;
   const e = (pages[key] ||= emptyPage());
-  if (r.bucket === 'readers') e.readers += n;
+  if (r.bucket === 'readers') {
+    e.readers += n;
+    // Referral channel of this human hit (blank for direct-of-old rows). `ref`
+    // may be absent on pages loaded from a pre-channel snapshot — backfill it.
+    const ref = (e.ref ||= { byChannel: {}, bySource: {} });
+    if (r.channel) ref.byChannel[r.channel] = (ref.byChannel[r.channel] || 0) + n;
+    if (r.source) ref.bySource[r.source] = (ref.bySource[r.source] || 0) + n;
+  }
   else if (r.bucket === 'search') { e.search.total += n; e.search.byBot[r.bot] = (e.search.byBot[r.bot] || 0) + n; }
   else if (r.bucket === 'ai') { e.ai.total += n; e.ai.byBot[r.bot] = (e.ai.byBot[r.bot] || 0) + n; }
 }
@@ -49,6 +56,7 @@ export function clonePages(pages) {
       readers: e.readers || 0,
       search: { total: e.search?.total || 0, byBot: { ...(e.search?.byBot || {}) } },
       ai: { total: e.ai?.total || 0, byBot: { ...(e.ai?.byBot || {}) } },
+      ref: { byChannel: { ...(e.ref?.byChannel || {}) }, bySource: { ...(e.ref?.bySource || {}) } },
     };
   }
   return out;
@@ -62,6 +70,7 @@ export function cleanPages(pages) {
     if (e.readers > 0) row.readers = e.readers;
     if (e.search.total > 0) row.search = e.search;
     if (e.ai.total > 0) row.ai = e.ai;
+    if (e.ref && (Object.keys(e.ref.byChannel).length || Object.keys(e.ref.bySource).length)) row.ref = e.ref;
     if (Object.keys(row).length) clean[key] = row;
   }
   return Object.fromEntries(Object.entries(clean).sort(([a], [b]) => a.localeCompare(b)));
@@ -120,8 +129,8 @@ export async function queryTail({ account, token, dataset, afterCursor, upto }) 
     `WHERE timestamp > toDateTime('${afterCursor}')` +
     (upto ? ` AND timestamp <= toDateTime('${upto}')` : '');
   const sql =
-    `SELECT blob1 AS path, blob2 AS bucket, blob3 AS bot, SUM(_sample_interval) AS n ` +
-    `FROM ${dataset} ${bounds} GROUP BY path, bucket, bot`;
+    `SELECT blob1 AS path, blob2 AS bucket, blob3 AS bot, blob5 AS channel, blob6 AS source, SUM(_sample_interval) AS n ` +
+    `FROM ${dataset} ${bounds} GROUP BY path, bucket, bot, channel, source`;
   const res = await fetch(
     `https://api.cloudflare.com/client/v4/accounts/${account}/analytics_engine/sql`,
     { method: 'POST', headers: { Authorization: `Bearer ${token}` }, body: sql },

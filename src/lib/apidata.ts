@@ -110,7 +110,8 @@ export function getGraph(): KnowledgeGraph {
 // search crawlers and AI crawlers. A bucket is a bare count, or an object with a
 // per-bot breakdown. Read on every article page, so cache it (see `read`).
 export type AnalyticsBucket = number | { total: number; byBot?: Record<string, number> };
-export type Analytics = Record<string, { readers?: AnalyticsBucket; search?: AnalyticsBucket; ai?: AnalyticsBucket }>;
+export type AnalyticsRef = { byChannel?: Record<string, number>; bySource?: Record<string, number> };
+export type Analytics = Record<string, { readers?: AnalyticsBucket; search?: AnalyticsBucket; ai?: AnalyticsBucket; ref?: AnalyticsRef }>;
 
 export function getAnalytics(): Analytics {
   return read<Analytics>('analytics.json', {});

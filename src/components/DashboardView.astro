@@ -129,6 +129,35 @@ const aiPillarMax = Math.max(1, ...aiPillars.map((p) => p.n));
 const aiTop = aiTopRaw.sort((a, b) => b.total - a.total).slice(0, 8)
   .map((x) => ({ ...x, title: titleByKey.get(x.key) ?? x.key }));
 const aiTopMax = Math.max(1, ...aiTop.map((x) => x.total));
+
+// Traffic by channel — where human readers arrive from (search / AI / social /
+// messaging / other / direct), classified from the referrer + UTM at the edge
+// and folded per page. Same all-time snapshot machinery as the buckets above.
+const CHANNEL_META: Record<string, { label: string; icon: string }> = {
+  search: { label: L('Carian', 'Search', '搜索'), icon: '🔍' },
+  ai: { label: L('Pembantu AI', 'AI assistants', 'AI 助手'), icon: '✨' },
+  social: { label: L('Media sosial', 'Social', '社交媒体'), icon: '💬' },
+  messaging: { label: L('Pemesejan', 'Messaging', '即时通讯'), icon: '📨' },
+  other: { label: L('Laman lain', 'Other sites', '其他网站'), icon: '🌐' },
+  direct: { label: L('Terus', 'Direct', '直接访问'), icon: '⤵' },
+};
+const CH_ORDER = ['search', 'ai', 'social', 'messaging', 'other', 'direct'];
+const refByChannel = new Map<string, number>();
+const refBySource = new Map<string, number>();
+let refTotal = 0;
+for (const row of Object.values(analytics)) {
+  const ref = row.ref;
+  if (!ref) continue;
+  for (const [ch, n] of Object.entries(ref.byChannel ?? {})) { refByChannel.set(ch, (refByChannel.get(ch) ?? 0) + n); refTotal += n; }
+  for (const [src, n] of Object.entries(ref.bySource ?? {})) refBySource.set(src, (refBySource.get(src) ?? 0) + n);
+}
+const refChannels = [...refByChannel.keys()]
+  .sort((a, b) => CH_ORDER.indexOf(a) - CH_ORDER.indexOf(b))
+  .map((id) => ({ id, label: CHANNEL_META[id]?.label ?? id, icon: CHANNEL_META[id]?.icon ?? '•', n: refByChannel.get(id) ?? 0 }));
+const refChMax = Math.max(1, ...refChannels.map((c) => c.n));
+const refSources = [...refBySource.entries()].filter(([s]) => s !== 'direct')
+  .sort((a, b) => b[1] - a[1]).slice(0, 10).map(([source, n]) => ({ source, n }));
+const refSourceMax = Math.max(1, ...refSources.map((s) => s.n));
 ---
 
 <PageHero
@@ -333,6 +362,59 @@ const aiTopMax = Math.max(1, ...aiTop.map((x) => x.total));
                 <span class="cov-num">{a.total.toLocaleString()}</span>
               </a>
             ))}
+          </div>
+        </>
+      )}
+    </div>
+  </div>
+</section>
+
+<section class="container block">
+  <div class="psec">
+    <header><span>{L('Trafik mengikut saluran', 'Traffic by channel', '各渠道流量')}</span></header>
+    <div class="psec-body">
+      {refTotal === 0 ? (
+        <p class="hint">{L(
+          'Belum ada data rujukan — perekodan bermula setelah pengelas saluran digunakan di edge.',
+          'No referral data yet — recording begins once the channel classifier is live at the edge.',
+          '暂无来源数据——渠道分类器在边缘上线后开始记录。',
+        )}</p>
+      ) : (
+        <>
+          <p class="hint">{L(
+            `${refTotal.toLocaleString()} lawatan pembaca dikelaskan mengikut asal rujukan — sepanjang masa.`,
+            `${refTotal.toLocaleString()} reader visits classified by where they arrived from — all-time.`,
+            `${refTotal.toLocaleString()} 次读者访问按来源渠道分类——累计。`,
+          )}</p>
+          <div class="ai-grid">
+            <div>
+              <p class="ai-h">{L('Mengikut saluran', 'By channel', '按渠道')}</p>
+              <div class="cov-cats">
+                {refChannels.map((c) => (
+                  <div class="cov-row ai-row">
+                    <span class="cov-name">{c.icon} {c.label}</span>
+                    <span class="track"><span class="fill" style={`width:${Math.max(3, Math.round((c.n / refChMax) * 100))}%`} /></span>
+                    <span class="cov-num">{c.n.toLocaleString()}</span>
+                  </div>
+                ))}
+              </div>
+            </div>
+            <div>
+              <p class="ai-h">{L('Sumber teratas', 'Top sources', '主要来源')}</p>
+              {refSources.length === 0 ? (
+                <p class="hint" style="margin:0">{L('Kebanyakannya trafik terus.', 'Mostly direct traffic.', '大多为直接访问。')}</p>
+              ) : (
+                <div class="cov-cats">
+                  {refSources.map((s) => (
+                    <div class="cov-row ai-row">
+                      <span class="cov-name" title={s.source}>{s.source}</span>
+                      <span class="track"><span class="fill" style={`width:${Math.max(3, Math.round((s.n / refSourceMax) * 100))}%`} /></span>
+                      <span class="cov-num">{s.n.toLocaleString()}</span>
+                    </div>
+                  ))}
+                </div>
+              )}
+            </div>
           </div>
         </>
       )}
