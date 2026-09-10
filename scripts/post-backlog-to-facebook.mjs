@@ -1,13 +1,14 @@
 // post-backlog-to-facebook.mjs — post the EXISTING published corpus to the
-// Facebook Pages as NATIVE IMAGE posts (each article's OG card) with a
-// value-first caption that carries a TAPPABLE article link.
+// Facebook Pages as NATIVE IMAGE posts (each article's OG card), with the link
+// in the FIRST COMMENT for maximum reach.
 //
 // Why this is separate from post-to-facebook.mjs:
 //  • post-to-facebook.mjs announces a NEW article as a link post (its push
 //    trigger is currently paused during this backlog rollout).
 //  • This poster drains the ~1,000-article backlog as a native photo (FB
-//    favours photos over off-site link previews, so reach holds) whose caption
-//    carries a tappable, UTM-tagged link — one tap to the article.
+//    favours photos over off-site link previews) whose post body carries NO
+//    external link at all — the UTM-tagged link is posted as the first comment,
+//    which needs pages_manage_engagement on the token.
 //  • Attribution is preserved: the link is UTM-tagged (utm_source=facebook).
 //
 // Invoked with article files/bases (the daily queue passes the day's batch), or
@@ -57,11 +58,12 @@ const PROMPT = {
     zh: '在马来西亚创业或拓展业务吗？',
   },
 };
-// Precedes the tappable article link in the caption body.
+// Points readers to the link, which lives in the first comment (kept out of the
+// post body for maximum reach).
 const CTA = {
-  ms: '🔗 Baca panduan penuh:',
-  en: '🔗 Read the full guide:',
-  zh: '🔗 阅读完整指南：',
+  ms: '🔗 Panduan penuh dalam komen pertama 👇',
+  en: '🔗 Full guide in the first comment 👇',
+  zh: '🔗 完整指南见首条评论 👇',
 };
 
 function fileList() {
@@ -117,13 +119,11 @@ function buildPost(file, data, lang, prefix) {
   // Canonical (trailing-slash) URL so Facebook's scraper never follows a 301.
   const link = withUtm(articleUrl(SITE_URL, prefix, data.category, data.slug), 'facebook', 'social');
   const prompt = (PROMPT[pillarOf(data.category)] ?? PROMPT.understand)[lang];
-  // The TAPPABLE link goes on line 2, right under the title, so it stays ABOVE
-  // Facebook's "See more" fold — a reader sees it without expanding the caption
-  // (the earlier below-the-fold placement was effectively hidden). UTM-tagged so
-  // it's attributed even when FB strips the referrer. Then the summary (value),
-  // a comment-prompt question, and hashtags. The post stays a native photo (the
-  // photo is the attachment), so it keeps a photo's reach.
-  const caption = [`${data.title}`, `${CTA[lang]} ${link}`, '', data.summary, '', prompt, '', hashtags(data, lang)].join('\n');
+  // MAX-REACH format: no link in the post body — just title, summary (value), a
+  // comment-prompt question, a "link is in the first comment 👇" nudge, and
+  // localized hashtags. The UTM-tagged link is posted as the first comment (see
+  // post()), so the post carries no reach-suppressing external link at all.
+  const caption = [data.title, '', data.summary, '', prompt, CTA[lang], '', hashtags(data, lang)].join('\n');
   return { image, caption, link };
 }
 
@@ -151,7 +151,7 @@ async function preview(t) {
     `[fb-backlog] ${DRY_RUN ? 'DRY_RUN' : 'no credentials'} — would post [${t.lang}] → page ${PAGES[t.lang]}` +
     `${live ? '' : '  ⚠️ URL NOT LIVE — would be SKIPPED'}\n` +
     `  photo:   ${p.image}\n` +
-    `  link:    ${p.link}\n` +
+    `  comment: ${p.link}\n` +
     `  caption:\n${p.caption.split('\n').map((l) => '    | ' + l).join('\n')}\n`,
   );
 }
@@ -173,9 +173,7 @@ async function post(t) {
     console.error(`[fb-backlog] FAILED [${t.lang}] mint token for page ${pageId}:`, err.message);
     return false;
   }
-  // Native photo post — FB fetches the OG card from its public URL. The caption
-  // carries the tappable article link, so no separate comment is needed (and
-  // commenting would require pages_manage_engagement, which the token lacks).
+  // 1) Native photo post — FB fetches the OG card from its public URL.
   const photoBody = new URLSearchParams({ url: p.image, caption: p.caption, published: 'true', access_token: pageToken });
   const photoRes = await fetch(`${GRAPH}/${pageId}/photos`, { method: 'POST', body: photoBody });
   const photoJson = await photoRes.json().catch(() => ({}));
@@ -185,9 +183,26 @@ async function post(t) {
   }
   // /photos returns the photo id and the feed story's post_id.
   const storyId = photoJson.post_id || photoJson.id;
+  // 2) Post the link as the FIRST COMMENT (max reach — no link in the post body).
+  //    Needs pages_manage_engagement on the token. Failure is loud and counted so
+  //    the run goes red (the post would otherwise have no link at all); the photo
+  //    is already live, so we still record it (return storyId) to avoid a
+  //    duplicate photo on retry.
+  const cmtRes = await fetch(`${GRAPH}/${storyId}/comments`, {
+    method: 'POST',
+    body: new URLSearchParams({ message: p.link, access_token: pageToken }),
+  });
+  if (!cmtRes.ok) {
+    const cmtJson = await cmtRes.json().catch(() => ({}));
+    console.error(`[fb-backlog] COMMENT FAILED [${t.lang}] ${storyId} — needs pages_manage_engagement on the token:`, JSON.stringify(cmtJson));
+    commentFailures++;
+  }
   console.log(`[fb-backlog] posted [${t.lang}] ${p.image} → ${storyId}`);
   return storyId;
 }
+// Counts first-comment failures across the run so main() can fail the job (a
+// post with no comment has no link at all).
+let commentFailures = 0;
 
 async function main() {
   const files = fileList();
@@ -217,6 +232,10 @@ async function main() {
   console.log(`[fb-backlog] done — ${posted}/${ts.length} posted; ${Object.keys(manifest.posted).length} total in manifest.`);
   if (posted !== ts.length) {
     console.error(`[fb-backlog] FAILED — only ${posted}/${ts.length} post(s) succeeded.`);
+    process.exit(1);
+  }
+  if (commentFailures > 0) {
+    console.error(`[fb-backlog] FAILED — ${commentFailures} first-comment(s) did not post (link missing). Add pages_manage_engagement to the token.`);
     process.exit(1);
   }
 }
