@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0046
-title: "Do You Need a Data Protection Officer in Malaysia?"
+title: "Adakah Anda Perlukan Pegawai Perlindungan Data di Malaysia?"
 seoTitle: "Data Protection Officer Malaysia: The DPO Threshold"
 slug: "data-protection-officer-malaysia"
 category: "business"

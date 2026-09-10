@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0042
-title: "Copyright in Malaysia"
+title: "Hak Cipta di Malaysia"
 seoTitle: "Copyright Malaysia: Automatic, But Prove It"
 slug: "copyright-malaysia"
 category: "business"

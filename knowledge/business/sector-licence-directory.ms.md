@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0059
-title: "Who Regulates What: Malaysian Sector Licence Directory"
+title: "Siapa Mengawal Selia Apa: Direktori Lesen Sektor Malaysia"
 seoTitle: "Direktori Lesen Sektor Malaysia mengikut Pengawal Selia"
 slug: "sector-licence-directory"
 category: "business"

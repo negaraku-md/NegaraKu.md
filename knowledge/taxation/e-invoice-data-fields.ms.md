@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0014
-title: "e-Invoice Data Fields Reference"
+title: "Rujukan Medan Data e-Invois"
 seoTitle: "Medan Data e-Invois Malaysia: Rujukan 55 Medan"
 slug: "e-invoice-data-fields"
 category: "taxation"

@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0113
-title: "Surviving an LHDN Tax Audit"
+title: "Menghadapi Audit Cukai LHDN"
 seoTitle: "Audit Cukai LHDN Malaysia: Proses, Punca dan Penalti"
 slug: "tax-audit"
 category: "taxation"

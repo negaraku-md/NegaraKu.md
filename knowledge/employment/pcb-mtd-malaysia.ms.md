@@ -1,6 +1,6 @@
 ---
 topicId: MY-EMP-0015
-title: "PCB and Monthly Tax Deduction: The Employer's Withholding Duty"
+title: "PCB dan Potongan Cukai Bulanan: Kewajipan Penahanan Majikan"
 seoTitle: "PCB / MTD Malaysia: Employer Guide to Monthly Tax"
 slug: "pcb-mtd-malaysia"
 category: "employment"

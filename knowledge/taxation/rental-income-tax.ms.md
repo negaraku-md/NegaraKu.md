@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0029
-title: "Tax on Rental Income: the Pre-Letting Expense Line"
+title: "Cukai ke atas Pendapatan Sewa: Isu Perbelanjaan Sebelum Penyewaan"
 seoTitle: "Cukai Pendapatan Sewa Malaysia: Apa Yang Boleh Ditolak"
 slug: "rental-income-tax"
 category: "taxation"

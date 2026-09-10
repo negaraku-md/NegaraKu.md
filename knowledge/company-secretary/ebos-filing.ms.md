@@ -1,6 +1,6 @@
 ---
 topicId: MY-CS-0010
-title: "Filing Beneficial Ownership Information Through e-BOS"
+title: "Memfailkan Maklumat Pemilikan Benefisial Melalui e-BOS"
 slug: "ebos-filing"
 category: "company-secretary"
 subcategory: ["beneficial-ownership"]

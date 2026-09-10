@@ -1,6 +1,6 @@
 ---
 topicId: MY-LAW-0002
-title: "Income Tax Act 1967 (Act 53)"
+title: "Akta Cukai Pendapatan 1967 (Akta 53)"
 slug: "income-tax-act-1967"
 category: "law"
 subcategory: ["tax"]

@@ -1,6 +1,6 @@
 ---
 topicId: MY-CS-0006
-title: "Keeping the Register of Beneficial Owners (s.60B)"
+title: "Menyimpan Daftar Pemilik Benefisial (s.60B)"
 slug: "bo-register"
 category: "company-secretary"
 subcategory: ["beneficial-ownership"]

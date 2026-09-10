@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0002
-title: "What Is a Sdn Bhd? A Plain-Language Guide"
+title: "Apa Itu Sdn Bhd? Panduan Bahasa Mudah"
 seoTitle: "What Is a Sdn Bhd in Malaysia?"
 slug: "what-is-sdn-bhd"
 category: "business"

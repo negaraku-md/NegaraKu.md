@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0031
-title: "Minimum Paid-Up Capital for a Foreign-Owned Malaysian Company"
+title: "Modal Berbayar Minimum untuk Syarikat Malaysia Milik Asing"
 seoTitle: "Modal Berbayar Minimum Syarikat Milikan Asing Malaysia"
 socialTitle: "Akta Syarikat langsung tidak menetapkan modal berbayar minimum. Setiap angka yang pernah diberitahu kepada anda datang daripada sumber lain."
 slug: "paid-up-capital-foreign-company"

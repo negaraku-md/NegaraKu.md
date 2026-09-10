@@ -1,6 +1,6 @@
 ---
 topicId: MY-CS-0042
-title: "Reducing Share Capital: The Court Route and the Solvency Statement Route"
+title: "Mengurangkan Modal Saham: Laluan Mahkamah dan Laluan Penyata Kesolvenan"
 seoTitle: "Capital Reduction Malaysia: s.116 vs s.117"
 slug: "capital-reduction"
 category: "company-secretary"

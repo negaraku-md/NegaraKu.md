@@ -1,6 +1,6 @@
 ---
 topicId: MY-CS-0045
-title: "The Audit Committee: What Malaysian Public Companies Actually Have to Do"
+title: "Jawatankuasa Audit: Apa yang Sebenarnya Perlu Dilakukan oleh Syarikat Awam Malaysia"
 seoTitle: "Keperluan Jawatankuasa Audit Malaysia"
 slug: "audit-committee-public-companies"
 category: "company-secretary"

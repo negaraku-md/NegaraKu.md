@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0063
-title: "Members' Voluntary Winding Up of a Solvent Company"
+title: "Penggulungan Sukarela oleh Ahli bagi Syarikat Solven"
 seoTitle: "Members Voluntary Winding Up Malaysia"
 slug: "members-voluntary-winding-up"
 category: "business"

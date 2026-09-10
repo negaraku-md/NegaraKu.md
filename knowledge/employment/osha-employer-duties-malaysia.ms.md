@@ -1,6 +1,6 @@
 ---
 topicId: MY-EMP-0044
-title: "OSHA 1994 employer duties after the 2022 amendment"
+title: "Kewajipan majikan di bawah OSHA 1994 selepas pindaan 2022"
 seoTitle: "Kewajipan majikan OSHA Malaysia — penyelaras OSH pada 5"
 slug: "osha-employer-duties-malaysia"
 category: "employment"

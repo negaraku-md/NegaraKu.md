@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0032
-title: "Employment Pass for Founders and Directors — the Sequencing Trap"
+title: "Employment Pass untuk Pengasas dan Pengarah — Perangkap Urutan"
 seoTitle: "Employment Pass for Founders Malaysia"
 socialTitle: "You cannot Employment Pass yourself into a company that does not yet meet the paid-up capital it needs to sponsor you."
 slug: "employment-pass-founder-malaysia"

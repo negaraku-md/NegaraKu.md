@@ -1,6 +1,6 @@
 ---
 topicId: MY-HIS-0004
-title: "1963: Building Malaysia Out of Four Different Territories"
+title: "1963: Membina Malaysia daripada Empat Wilayah Berbeza"
 slug: "formation-of-malaysia-1963"
 category: "malaysia"
 subcategory: ["nation-formation"]

@@ -1,6 +1,6 @@
 ---
 topicId: MY-EMP-0010
-title: "Malaysian labour law map: statute, regulator, portal, scope"
+title: "Peta undang-undang buruh Malaysia: statut, pengawal selia, portal, skop"
 seoTitle: "Malaysia labour law — statutes and regulators map"
 slug: "labour-law-map-malaysia"
 category: "employment"

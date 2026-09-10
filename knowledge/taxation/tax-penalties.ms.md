@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0117
-title: "Malaysian Tax Penalties and Offences Reference"
+title: "Rujukan Penalti dan Kesalahan Cukai Malaysia"
 seoTitle: "Tax Penalties Malaysia: Offence, Statute, Rate and Concession"
 slug: "tax-penalties"
 category: "taxation"

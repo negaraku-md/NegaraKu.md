@@ -1,6 +1,6 @@
 ---
 topicId: MY-ACC-0024
-title: "What Counts as an Accounting Record Under Section 245"
+title: "Apa yang Dikira sebagai Rekod Perakaunan di Bawah Seksyen 245"
 seoTitle: "Accounting Records: Section 245 Companies Act 2016"
 slug: "accounting-records-section-245"
 category: "accounting"

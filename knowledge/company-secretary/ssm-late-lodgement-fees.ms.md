@@ -1,6 +1,6 @@
 ---
 topicId: MY-CS-0024
-title: "SSM Late Lodgement Fees and Compounds"
+title: "Yuran Pengemukaan Lewat dan Kompaun SSM"
 seoTitle: "Yuran Pengemukaan Lewat SSM: Jadual Penalti Penuh"
 slug: "ssm-late-lodgement-fees"
 category: "company-secretary"

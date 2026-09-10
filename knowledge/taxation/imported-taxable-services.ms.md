@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0033
-title: "Imported Taxable Services and the SST-02A Declaration"
+title: "Perkhidmatan Bercukai yang Diimport dan Pengisytiharan SST-02A"
 slug: "imported-taxable-services"
 category: "taxation"
 subcategory: ["sst"]

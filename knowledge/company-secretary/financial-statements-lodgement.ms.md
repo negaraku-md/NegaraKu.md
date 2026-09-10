@@ -1,6 +1,6 @@
 ---
 topicId: MY-CS-0013
-title: "Circulating and Lodging Financial Statements: The Two Deadlines"
+title: "Mengedar dan Memfailkan Penyata Kewangan: Dua Tarikh Akhir"
 seoTitle: "Financial Statements Deadline Malaysia: s.258 & s.259"
 slug: "financial-statements-lodgement"
 category: "company-secretary"

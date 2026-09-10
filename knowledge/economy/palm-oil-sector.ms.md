@@ -1,6 +1,6 @@
 ---
 topicId: MY-ECO-0002
-title: "Malaysia's Palm Oil Sector"
+title: "Sektor Kelapa Sawit Malaysia"
 slug: "palm-oil-sector"
 category: "economy"
 subcategory: ["sectors"]

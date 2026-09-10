@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0035
-title: "Which Malaysian Agency Approves What — and in What Order"
+title: "Agensi Malaysia Mana Meluluskan Apa — dan Mengikut Susunan yang Mana"
 seoTitle: "Direktori Agensi Pelaburan Malaysia"
 socialTitle: "SSM memperbadankan syarikat anda. Ia tidak meluluskan apa-apa lagi. Sembilan badan lain menentukan sama ada anda benar-benar boleh berniaga."
 slug: "investment-agency-directory"

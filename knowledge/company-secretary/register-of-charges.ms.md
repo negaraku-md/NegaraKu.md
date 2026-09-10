@@ -1,6 +1,6 @@
 ---
 topicId: MY-CS-0017
-title: "Register of Charges: Miss 30 Days and the Security Is Void"
+title: "Daftar Gadaian: Terlepas 30 Hari dan Sekuriti Terbatal"
 seoTitle: "Daftar Gadaian Malaysia: Kewajipan s.352 dan s.362"
 slug: "register-of-charges"
 category: "company-secretary"

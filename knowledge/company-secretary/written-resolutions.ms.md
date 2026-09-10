@@ -1,6 +1,6 @@
 ---
 topicId: MY-CS-0035
-title: "Written Resolutions of a Sdn Bhd: How They Work and What They Cannot Do"
+title: "Resolusi Bertulis Sdn Bhd: Cara Ia Berfungsi dan Apa yang Tidak Boleh Dilakukannya"
 seoTitle: "Resolusi Bertulis Malaysia: Peraturan Di Bawah s.297"
 slug: "written-resolutions"
 category: "company-secretary"

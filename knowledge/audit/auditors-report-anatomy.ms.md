@@ -1,6 +1,6 @@
 ---
 topicId: MY-AUD-0015
-title: "Reading a Malaysian Auditor's Report, Section by Section"
+title: "Membaca Laporan Juruaudit Malaysia, Bahagian demi Bahagian"
 seoTitle: "Malaysian Auditor's Report: Field-by-Field Guide"
 slug: "auditors-report-anatomy"
 category: "audit"

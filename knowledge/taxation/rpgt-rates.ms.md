@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0017
-title: "RPGT Rates and How to Compute the Gain"
+title: "Kadar RPGT dan Cara Mengira Keuntungan"
 slug: "rpgt-rates"
 category: "taxation"
 subcategory: ["capital-taxes"]

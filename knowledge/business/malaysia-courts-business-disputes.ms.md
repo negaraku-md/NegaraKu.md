@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0073
-title: "Which Malaysian Court Hears Your Business Dispute"
+title: "Mahkamah Malaysia Mana Membicarakan Pertikaian Perniagaan Anda"
 seoTitle: "Malaysian Court Jurisdiction for Business Disputes"
 slug: "malaysia-courts-business-disputes"
 category: "business"

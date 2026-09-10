@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0010
-title: "MyInvois Implementation Phases, Thresholds and Relaxation Dates"
+title: "Fasa Pelaksanaan MyInvois, Ambang dan Tarikh Pelonggaran"
 seoTitle: "MyInvois Phases and Dates: LHDN e-Invoice Timeline"
 slug: "myinvois-phases"
 category: "taxation"

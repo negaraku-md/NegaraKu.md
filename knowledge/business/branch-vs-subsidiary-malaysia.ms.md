@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0018
-title: "Branch, Subsidiary or Representative Office in Malaysia?"
+title: "Cawangan, Anak Syarikat atau Pejabat Perwakilan di Malaysia?"
 seoTitle: "Branch vs Subsidiary Malaysia: A Decision Framework"
 slug: "branch-vs-subsidiary-malaysia"
 category: "business"

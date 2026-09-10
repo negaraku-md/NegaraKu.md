@@ -1,6 +1,6 @@
 ---
 topicId: MY-CS-0001
-title: "How to Appoint a Company Secretary in Malaysia"
+title: "Cara Melantik Setiausaha Syarikat di Malaysia"
 seoTitle: "Appoint a Company Secretary in Malaysia"
 slug: "appoint-company-secretary"
 category: "company-secretary"

@@ -1,6 +1,6 @@
 ---
 topicId: MY-LAW-0003
-title: "Employment Act 1955 (Act 265)"
+title: "Akta Kerja 1955 (Akta 265)"
 slug: "employment-act-1955"
 category: "law"
 subcategory: ["employment"]

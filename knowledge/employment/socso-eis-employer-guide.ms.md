@@ -1,6 +1,6 @@
 ---
 topicId: MY-EMP-0018
-title: "SOCSO and EIS for Employers: Categories, the RM6,000 Ceiling and LINDUNG 24 Jam"
+title: "SOCSO dan EIS untuk Majikan: Kategori, Siling RM6,000 dan LINDUNG 24 Jam"
 seoTitle: "SOCSO and EIS Employer Guide Malaysia"
 slug: "socso-eis-employer-guide"
 category: "employment"

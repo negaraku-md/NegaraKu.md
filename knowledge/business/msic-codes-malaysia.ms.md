@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0011
-title: "MSIC Codes: How to Pick Yours, and What It Decides Later"
+title: "Kod MSIC: Cara Memilihnya, dan Apa yang Ditentukannya Kemudian"
 seoTitle: "MSIC Code Malaysia: How to Choose Yours"
 slug: "msic-codes-malaysia"
 category: "business"

@@ -1,6 +1,6 @@
 ---
 topicId: MY-CS-0025
-title: "Unaudited Financial Statements: What You Actually Lodge When Exempt"
+title: "Penyata Kewangan Tidak Diaudit: Apa yang Sebenarnya Difailkan Apabila Dikecualikan"
 seoTitle: "Penyata Kewangan Tidak Diaudit Malaysia: Pemfailan"
 slug: "unaudited-financial-statements"
 category: "company-secretary"

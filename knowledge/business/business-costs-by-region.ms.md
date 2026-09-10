@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0102
-title: "What It Costs to Operate in Each Malaysian Region — the Figures That Are Actually Published"
+title: "Berapa Kos Beroperasi di Setiap Wilayah Malaysia — Angka yang Benar-Benar Diterbitkan"
 seoTitle: "Business Costs by Region Malaysia"
 socialTitle: "Electricity, water and council fees differ by state. The employer's statutory burden does not — it is identical in all sixteen."
 slug: "business-costs-by-region"

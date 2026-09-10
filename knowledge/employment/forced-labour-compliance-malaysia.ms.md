@@ -1,6 +1,6 @@
 ---
 topicId: MY-EMP-0038
-title: "Forced Labour Compliance and Export Exposure"
+title: "Pematuhan Buruh Paksa dan Pendedahan Eksport"
 seoTitle: "Pematuhan Buruh Paksa Malaysia: s.90B dan WRO"
 slug: "forced-labour-compliance-malaysia"
 category: "employment"

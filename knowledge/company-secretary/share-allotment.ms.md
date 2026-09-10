@@ -1,6 +1,6 @@
 ---
 topicId: MY-CS-0041
-title: "Allotting New Shares and the Return of Allotment"
+title: "Memperuntukkan Saham Baharu dan Penyata Peruntukan"
 seoTitle: "Share Allotment Malaysia: s.75, s.78 and Deadlines"
 slug: "share-allotment"
 category: "company-secretary"

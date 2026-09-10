@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0007
-title: "Losses, Group Relief and Unabsorbed Capital Allowances"
+title: "Kerugian, Pelepasan Kumpulan dan Elaun Modal Belum Diserap"
 seoTitle: "Kerugian Perniagaan Dibawa Ke Hadapan dan Pelepasan Kumpulan Malaysia"
 slug: "losses-and-group-relief"
 category: "taxation"

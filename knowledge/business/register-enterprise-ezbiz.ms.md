@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0013
-title: "How to Register a Sole Proprietorship or Partnership on EzBiz"
+title: "Cara Mendaftarkan Pemilikan Tunggal atau Perkongsian di EzBiz"
 seoTitle: "Register a Business on EzBiz: Full Guide"
 slug: "register-enterprise-ezbiz"
 category: "business"

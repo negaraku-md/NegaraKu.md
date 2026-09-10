@@ -1,6 +1,6 @@
 ---
 topicId: MY-CS-0030
-title: "Appointing and Resigning a Director of a Malaysian Company"
+title: "Melantik dan Meletakkan Jawatan Pengarah Syarikat Malaysia"
 seoTitle: "Appoint or Resign a Director Malaysia: CA 2016 Rules"
 slug: "appoint-resign-director"
 category: "company-secretary"

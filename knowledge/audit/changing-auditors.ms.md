@@ -1,6 +1,6 @@
 ---
 topicId: MY-AUD-0007
-title: "Changing Auditors: Removal, Resignation and Special Notice"
+title: "Menukar Juruaudit: Pemecatan, Peletakan Jawatan dan Notis Khas"
 seoTitle: "Changing Auditors Malaysia: Removal and Resignation"
 slug: "changing-auditors"
 category: "audit"

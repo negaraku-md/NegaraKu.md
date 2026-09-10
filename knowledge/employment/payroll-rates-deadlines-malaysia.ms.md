@@ -1,6 +1,6 @@
 ---
 topicId: MY-EMP-0014
-title: "Statutory Contribution Rates and Payroll Deadlines"
+title: "Kadar Caruman Berkanun dan Tarikh Akhir Penggajian"
 seoTitle: "Rujukan Kadar dan Tarikh Akhir Payroll Malaysia"
 slug: "payroll-rates-deadlines-malaysia"
 category: "employment"

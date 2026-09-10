@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0038
-title: "Motor Vehicles and the Capital Allowance Restriction"
+title: "Kenderaan Bermotor dan Sekatan Elaun Modal"
 seoTitle: "Elaun Modal Kenderaan Motor Malaysia — RM50k atau RM100k"
 slug: "motor-vehicle-capital-allowance"
 category: "taxation"

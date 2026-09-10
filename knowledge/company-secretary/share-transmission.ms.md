@@ -1,6 +1,6 @@
 ---
 topicId: MY-CS-0044
-title: "Transmission of Shares on Death or Bankruptcy Is Not a Transfer"
+title: "Peralihan Saham akibat Kematian atau Kebankrapan Bukan Suatu Pemindahan"
 seoTitle: "Share Transmission Malaysia: Death and Bankruptcy"
 slug: "share-transmission"
 category: "company-secretary"

@@ -1,6 +1,6 @@
 ---
 topicId: MY-EMP-0029
-title: "New-hire statutory registration checklist"
+title: "Senarai semak pendaftaran berkanun pekerja baharu"
 seoTitle: "Senarai semak pekerja baharu Malaysia — CP22, EPF, SOCSO, HRD Corp"
 slug: "new-hire-statutory-checklist"
 category: "employment"

@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0061
-title: "Shareholders Agreements in Malaysia — What the Document Can and Cannot Override"
+title: "Perjanjian Pemegang Saham di Malaysia — Apa yang Boleh dan Tidak Boleh Diatasi Dokumen Itu"
 seoTitle: "Perjanjian Pemegang Saham Malaysia: Perlembagaan dan s.346"
 socialTitle: "Perjanjian pemegang saham anda tidak boleh mengecualikan s.346. Tiada apa boleh."
 slug: "shareholders-agreement-malaysia"

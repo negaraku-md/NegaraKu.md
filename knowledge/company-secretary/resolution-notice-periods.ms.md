@@ -1,6 +1,6 @@
 ---
 topicId: MY-CS-0036
-title: "Notice Periods for Company Resolutions and Meetings in Malaysia"
+title: "Tempoh Notis bagi Resolusi dan Mesyuarat Syarikat di Malaysia"
 seoTitle: "Resolution Notice Periods Malaysia: One Table"
 slug: "resolution-notice-periods"
 category: "company-secretary"

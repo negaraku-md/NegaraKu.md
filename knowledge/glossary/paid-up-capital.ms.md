@@ -1,6 +1,6 @@
 ---
 topicId: MY-GLO-0001
-title: "Paid-up Capital"
+title: "Modal Berbayar"
 slug: "paid-up-capital"
 category: "glossary"
 subcategory: ["corporate"]

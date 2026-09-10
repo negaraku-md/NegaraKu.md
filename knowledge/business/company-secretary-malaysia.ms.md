@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0006
-title: "Do I Need a Company Secretary in Malaysia, and What Do They Actually Do?"
+title: "Adakah Saya Perlukan Setiausaha Syarikat di Malaysia, dan Apa Sebenarnya Tugas Mereka?"
 seoTitle: "Setiausaha Syarikat Malaysia: Apa Sebenarnya Dikehendaki oleh Undang-Undang"
 socialTitle: "Hampir semua panduan mengenai setiausaha syarikat di Malaysia ditulis oleh setiausaha syarikat."
 slug: "company-secretary-malaysia"

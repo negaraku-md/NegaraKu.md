@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0053
-title: "Industrial Building Allowance: What Actually Qualifies"
+title: "Elaun Bangunan Industri: Apa yang Sebenarnya Layak"
 seoTitle: "Industrial Building Allowance Malaysia: IBA Rules"
 slug: "industrial-building-allowance"
 category: "taxation"

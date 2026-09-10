@@ -1,6 +1,6 @@
 ---
 topicId: MY-CS-0038
-title: "AGM Requirements in Malaysia: Who Still Has to Hold One"
+title: "Keperluan AGM di Malaysia: Siapa yang Masih Perlu Mengadakannya"
 seoTitle: "AGM Requirements Malaysia: Who Must Hold One"
 slug: "agm-requirements"
 category: "company-secretary"

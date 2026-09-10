@@ -1,6 +1,6 @@
 ---
 topicId: MY-ACC-0001
-title: "MFRS or MPERS: Which Framework Does Your Company Use?"
+title: "MFRS atau MPERS: Rangka Kerja Mana yang Digunakan Syarikat Anda?"
 seoTitle: "MFRS vs MPERS Malaysia: Mana Yang Terpakai"
 slug: "mfrs-vs-mpers"
 category: "accounting"

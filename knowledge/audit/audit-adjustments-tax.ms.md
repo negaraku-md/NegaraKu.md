@@ -1,6 +1,6 @@
 ---
 topicId: MY-AUD-0012
-title: "Audit Adjustments and Your Tax Computation"
+title: "Pelarasan Audit dan Pengiraan Cukai Anda"
 seoTitle: "Pelarasan Audit dan Form C Malaysia: Kaitan Cukai"
 slug: "audit-adjustments-tax"
 category: "audit"

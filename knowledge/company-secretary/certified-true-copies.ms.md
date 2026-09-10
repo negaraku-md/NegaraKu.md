@@ -1,6 +1,6 @@
 ---
 topicId: MY-CS-0007
-title: "Certified True Copies vs Original Sighted: What Actually Differs"
+title: "Salinan Diakui Sah lwn Asal Disaksikan: Apa yang Sebenarnya Berbeza"
 seoTitle: "Salinan Diakui Sah lwn Asal Disaksikan Malaysia"
 slug: "certified-true-copies"
 category: "company-secretary"

@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0005
-title: "Consolidated e-Invoices and the Industries That Cannot Use Them"
+title: "e-Invois Disatukan dan Industri yang Tidak Boleh Menggunakannya"
 seoTitle: "Consolidated e-Invoice Malaysia: Rules and Exclusions"
 slug: "consolidated-e-invoice"
 category: "taxation"

@@ -1,6 +1,6 @@
 ---
 topicId: MY-EMP-0017
-title: "Sabah and Sarawak: the Labour Ordinances, not the Employment Act"
+title: "Sabah dan Sarawak: Ordinan Buruh, bukan Akta Kerja"
 seoTitle: "Sabah and Sarawak Labour Ordinance — 2025 amendments"
 slug: "sabah-sarawak-labour-ordinance"
 category: "employment"

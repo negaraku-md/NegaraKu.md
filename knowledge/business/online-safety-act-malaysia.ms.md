@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0053
-title: "The Online Safety Act 2025: Who It Binds and What It Demands"
+title: "Akta Keselamatan Dalam Talian 2025: Siapa yang Terikat dan Apa yang Dituntut"
 seoTitle: "Akta Keselamatan Dalam Talian 2025 Malaysia: Kewajipan dan Tarikh Akhir"
 slug: "online-safety-act-malaysia"
 category: "business"

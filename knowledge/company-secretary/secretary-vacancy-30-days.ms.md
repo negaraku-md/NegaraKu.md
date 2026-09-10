@@ -1,6 +1,6 @@
 ---
 topicId: MY-CS-0023
-title: "The 30-Day Company Secretary Vacancy Rule"
+title: "Peraturan Kekosongan Setiausaha Syarikat 30 Hari"
 slug: "secretary-vacancy-30-days"
 category: "company-secretary"
 subcategory: ["appointment"]

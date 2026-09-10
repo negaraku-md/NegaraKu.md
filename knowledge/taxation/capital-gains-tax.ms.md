@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0016
-title: "Capital Gains Tax on Unlisted Shares in Malaysia"
+title: "Cukai Keuntungan Modal ke atas Saham Tidak Tersenarai di Malaysia"
 slug: "capital-gains-tax"
 category: "taxation"
 subcategory: ["capital-taxes"]

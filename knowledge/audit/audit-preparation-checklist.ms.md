@@ -1,6 +1,6 @@
 ---
 topicId: MY-AUD-0010
-title: "The Audit Request List, and How to Be Ready for It"
+title: "Senarai Permintaan Audit, dan Cara Bersedia untuknya"
 seoTitle: "Audit Preparation Checklist Malaysia (PBC by Cycle)"
 slug: "audit-preparation-checklist"
 category: "audit"

@@ -1,6 +1,6 @@
 ---
 topicId: MY-CS-0028
-title: "Disclosure of Interest in Contracts: s.221 and s.222 in Practice"
+title: "Pengisytiharan Kepentingan dalam Kontrak: s.221 dan s.222 dalam Amalan"
 seoTitle: "Pengisytiharan Kepentingan Malaysia: s.221 Akta Syarikat 2016 Dijelaskan"
 slug: "disclosure-of-interest"
 category: "company-secretary"

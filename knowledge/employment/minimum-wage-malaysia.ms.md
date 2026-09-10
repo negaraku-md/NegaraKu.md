@@ -1,6 +1,6 @@
 ---
 topicId: MY-EMP-0011
-title: "Minimum Wage and the Rules on Paying Wages"
+title: "Gaji Minimum dan Peraturan Pembayaran Gaji"
 seoTitle: "Minimum Wage Malaysia: RM1,700 and Payment Rules"
 slug: "minimum-wage-malaysia"
 category: "employment"

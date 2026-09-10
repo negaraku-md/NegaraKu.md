@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0036
-title: "Malaysia Digital Status — What Replaced MSC Malaysia, and Who Qualifies"
+title: "Taraf Malaysia Digital — Apa yang Menggantikan MSC Malaysia, dan Siapa yang Layak"
 seoTitle: "Malaysia Digital Status MDEC Explained"
 socialTitle: "MSC Malaysia was rebranded, not replaced. And Malaysia Digital status by itself gives you no tax exemption at all."
 slug: "mdec-digital-status"

@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0037
-title: "Double and Further Deduction Directory — Gazetted Income Tax Rules"
+title: "Direktori Potongan Berganda dan Potongan Lanjut — Peraturan Cukai Pendapatan yang Digazetkan"
 seoTitle: "Double Deduction Malaysia — Gazette Order Directory"
 slug: "double-deduction-list"
 category: "taxation"

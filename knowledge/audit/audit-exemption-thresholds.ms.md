@@ -1,6 +1,6 @@
 ---
 topicId: MY-AUD-0002
-title: "Audit Exemption Thresholds in Malaysia: the 2025–2027 Phase-In"
+title: "Ambang Pengecualian Audit di Malaysia: Pelaksanaan Berperingkat 2025–2027"
 seoTitle: "Audit Exemption Thresholds Malaysia (2025–2027)"
 slug: "audit-exemption-thresholds"
 category: "audit"

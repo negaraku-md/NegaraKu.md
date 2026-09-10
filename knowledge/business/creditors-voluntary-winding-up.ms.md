@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0064
-title: "Creditors' Voluntary Winding Up and Director Liability"
+title: "Penggulungan Sukarela oleh Pemiutang dan Liabiliti Pengarah"
 seoTitle: "Penggulungan Sukarela Pemiutang Malaysia"
 slug: "creditors-voluntary-winding-up"
 category: "business"

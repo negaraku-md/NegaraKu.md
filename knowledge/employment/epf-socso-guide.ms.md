@@ -1,6 +1,6 @@
 ---
 topicId: MY-EMP-0001
-title: "EPF, SOCSO and EIS: Where to Start as an Employer"
+title: "EPF, SOCSO dan EIS: Titik Permulaan bagi Majikan"
 seoTitle: "EPF SOCSO EIS Malaysia: Employer Starting Point"
 slug: "epf-socso-guide"
 category: "employment"

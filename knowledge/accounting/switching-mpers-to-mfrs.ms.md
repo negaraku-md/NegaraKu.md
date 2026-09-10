@@ -1,6 +1,6 @@
 ---
 topicId: MY-ACC-0022
-title: "Switching from MPERS to MFRS (and Back Again)"
+title: "Beralih daripada MPERS kepada MFRS (dan Kembali Semula)"
 seoTitle: "Switching from MPERS to MFRS in Malaysia"
 slug: "switching-mpers-to-mfrs"
 category: "accounting"

@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0036
-title: "Service Tax Groups A to M — Rate and Threshold Reference"
+title: "Kumpulan Cukai Perkhidmatan A hingga M — Rujukan Kadar dan Ambang"
 seoTitle: "SST Rate Table Malaysia — Groups A to M"
 slug: "sst-rate-table"
 category: "taxation"

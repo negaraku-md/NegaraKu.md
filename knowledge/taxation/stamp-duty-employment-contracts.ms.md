@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0046
-title: "Stamp Duty on Employment Contracts in Malaysia"
+title: "Duti Setem ke atas Kontrak Penggajian di Malaysia"
 slug: "stamp-duty-employment-contracts"
 category: "taxation"
 subcategory: ["stamp-duty"]

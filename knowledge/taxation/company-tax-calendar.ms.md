@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0023
-title: "Company Tax Compliance Calendar Malaysia"
+title: "Kalendar Pematuhan Cukai Syarikat Malaysia"
 slug: "company-tax-calendar"
 category: "taxation"
 subcategory: ["corporate-tax"]

@@ -1,6 +1,6 @@
 ---
 topicId: MY-EMP-0035
-title: "Probation and confirmation in Malaysia"
+title: "Tempoh percubaan dan pengesahan jawatan di Malaysia"
 seoTitle: "Probation Malaysia — can you terminate a probationer?"
 slug: "probation-malaysia"
 category: "employment"

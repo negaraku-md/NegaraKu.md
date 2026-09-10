@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0066
-title: "Data Breach Notification in Malaysia: The 72-Hour Rule"
+title: "Pemberitahuan Pelanggaran Data di Malaysia: Peraturan 72 Jam"
 seoTitle: "Pemberitahuan Pelanggaran Data Malaysia: 72 Jam Dijelaskan"
 slug: "data-breach-notification-malaysia"
 category: "business"

@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0003
-title: "e-Invoicing in Malaysia: Where to Start with MyInvois"
+title: "e-Invois di Malaysia: Di Mana Hendak Bermula dengan MyInvois"
 seoTitle: "e-Invois Malaysia: Titik Mula MyInvois"
 slug: "e-invoicing"
 category: "taxation"

@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0034
-title: "Visas for Business Owners — Employment Pass, MM2H, PVIP and Dependant Pass Compared"
+title: "Visa untuk Pemilik Perniagaan — Perbandingan Employment Pass, MM2H, PVIP dan Dependant Pass"
 seoTitle: "Malaysia Business Visa Comparison"
 socialTitle: "MM2H does not let you work — unless you hold Platinum, where MOTAC says career opportunities are permissible in terms."
 slug: "malaysia-business-visa-comparison"

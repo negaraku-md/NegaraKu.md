@@ -1,6 +1,6 @@
 ---
 topicId: MY-EMP-0032
-title: "Paternity leave in Malaysia"
+title: "Cuti paterniti di Malaysia"
 seoTitle: "Paternity leave Malaysia — 7 days and the 5-confinement cap"
 slug: "paternity-leave-malaysia"
 category: "employment"

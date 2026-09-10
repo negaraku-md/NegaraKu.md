@@ -1,6 +1,6 @@
 ---
 topicId: MY-EMP-0002
-title: "Domestic inquiry: running one that survives the Industrial Court"
+title: "Siasatan dalaman: cara mengendalikannya supaya bertahan di Mahkamah Perusahaan"
 seoTitle: "Domestic Inquiry Malaysia — Procedure and Defects"
 slug: "domestic-inquiry-malaysia"
 category: "employment"

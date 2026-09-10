@@ -1,6 +1,6 @@
 ---
 topicId: MY-EMP-0009
-title: "HRD Corp Levy: Who Must Register, and How to Claim It Back"
+title: "Levi HRD Corp: Siapa Wajib Berdaftar, dan Cara Menuntutnya Semula"
 seoTitle: "HRD Corp Levy Malaysia: Scope, Rate, Claims"
 slug: "hrd-corp-levy-malaysia"
 category: "employment"

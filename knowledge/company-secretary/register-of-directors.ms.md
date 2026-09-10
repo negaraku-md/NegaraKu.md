@@ -1,6 +1,6 @@
 ---
 topicId: MY-CS-0018
-title: "Register of Directors, Managers and Secretaries: s.57 vs s.58"
+title: "Daftar Pengarah, Pengurus dan Setiausaha: s.57 lwn s.58"
 seoTitle: "Daftar Pengarah Syarikat Malaysia: Kewajipan s.57 dan s.58"
 slug: "register-of-directors"
 category: "company-secretary"

@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0049
-title: "Who Owns the IP Your Staff and Contractors Create?"
+title: "Siapa Memiliki Harta Intelek yang Dicipta Kakitangan dan Kontraktor Anda?"
 seoTitle: "Pemilikan Harta Intelek Malaysia: Pekerja dan Kontraktor"
 slug: "ip-ownership-malaysia"
 category: "business"

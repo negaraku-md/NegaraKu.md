@@ -1,6 +1,6 @@
 ---
 topicId: MY-EMP-0043
-title: "Foreign Worker Levy Rates and the Multi-Tier Levy"
+title: "Kadar Levi Pekerja Asing dan Levi Berbilang Tingkat"
 seoTitle: "Foreign Worker Levy Malaysia: Rates by Sector"
 slug: "foreign-worker-levy-malaysia"
 category: "employment"

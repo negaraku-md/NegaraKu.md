@@ -1,6 +1,6 @@
 ---
 topicId: MY-EMP-0045
-title: "Are non-compete clauses enforceable in Malaysia?"
+title: "Adakah klausa larangan bersaing boleh dikuatkuasakan di Malaysia?"
 seoTitle: "Non-compete clause Malaysia — void under s.28 Contracts Act"
 slug: "non-compete-clause-malaysia"
 category: "employment"

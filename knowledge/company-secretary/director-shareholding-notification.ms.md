@@ -1,6 +1,6 @@
 ---
 topicId: MY-CS-0029
-title: "Notifying the Company of Your Shareholdings: the s.219 Duty on Every Director"
+title: "Memberitahu Syarikat tentang Pegangan Saham Anda: Kewajipan s.219 ke atas Setiap Pengarah"
 seoTitle: "Section 219 Malaysia: Director Shareholding Notification"
 slug: "director-shareholding-notification"
 category: "company-secretary"

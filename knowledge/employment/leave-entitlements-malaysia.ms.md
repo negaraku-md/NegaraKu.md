@@ -1,6 +1,6 @@
 ---
 topicId: MY-EMP-0030
-title: "Leave entitlements under the Employment Act 1955"
+title: "Kelayakan cuti di bawah Akta Kerja 1955"
 seoTitle: "Kelayakan cuti Malaysia — cuti tahunan, sakit, hospitalisasi"
 slug: "leave-entitlements-malaysia"
 category: "employment"

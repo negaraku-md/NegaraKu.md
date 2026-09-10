@@ -1,6 +1,6 @@
 ---
 topicId: MY-EMP-0005
-title: "EPF for Employers: Why the Third Schedule Is a Table, Not a Percentage"
+title: "EPF untuk Majikan: Mengapa Jadual Ketiga Ialah Jadual, Bukan Peratusan"
 seoTitle: "Panduan EPF Majikan Malaysia: Kadar Third Schedule"
 slug: "epf-employer-guide"
 category: "employment"

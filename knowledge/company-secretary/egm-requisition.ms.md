@@ -1,6 +1,6 @@
 ---
 topicId: MY-CS-0039
-title: "How Members Can Force a Company to Hold a Meeting"
+title: "Cara Ahli Boleh Memaksa Syarikat Mengadakan Mesyuarat"
 seoTitle: "EGM Requisition Malaysia: Section 311 Explained"
 slug: "egm-requisition"
 category: "company-secretary"

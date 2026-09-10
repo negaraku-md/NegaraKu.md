@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0014
-title: "How to Register an LLP in Malaysia Through MyLLP"
+title: "Cara Mendaftarkan LLP di Malaysia Melalui MyLLP"
 seoTitle: "Register an LLP Malaysia: MyLLP Step by Step"
 slug: "register-llp-malaysia"
 category: "business"

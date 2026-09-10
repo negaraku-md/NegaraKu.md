@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0055
-title: "Malaysia Personal Income Tax Rates — YA2023 to YA2026"
+title: "Kadar Cukai Pendapatan Individu Malaysia — YA2023 hingga YA2026"
 seoTitle: "Kadar Cukai Pendapatan Individu Malaysia Mengikut YA"
 slug: "personal-tax-rates"
 category: "taxation"

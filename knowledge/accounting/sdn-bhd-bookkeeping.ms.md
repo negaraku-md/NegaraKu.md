@@ -1,6 +1,6 @@
 ---
 topicId: MY-ACC-0006
-title: "Sdn Bhd Bookkeeping: A Chart of Accounts That Survives Filing Season"
+title: "Simpan Kira Sdn Bhd: Carta Akaun yang Bertahan Musim Pemfailan"
 seoTitle: "Pembukuan Sdn Bhd & Carta Akaun Malaysia"
 slug: "sdn-bhd-bookkeeping"
 category: "accounting"

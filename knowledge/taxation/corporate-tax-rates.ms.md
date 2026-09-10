@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0001
-title: "Malaysia Corporate Tax Rates"
+title: "Kadar Cukai Syarikat Malaysia"
 seoTitle: "Malaysia Corporate Tax Rates & SME Test (2026)"
 slug: "corporate-tax-rates"
 category: "taxation"

@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0122
-title: "R&D Tax Incentives in Malaysia — There Is No Approved Research Allowance"
+title: "Insentif Cukai R&D di Malaysia — Tiada Approved Research Allowance"
 seoTitle: "R&D Tax Incentive Malaysia — s.34A, s.34B and MIDA Status"
 slug: "approved-research-allowance"
 category: "taxation"

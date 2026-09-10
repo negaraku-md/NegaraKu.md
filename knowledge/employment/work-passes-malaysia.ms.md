@@ -1,6 +1,6 @@
 ---
 topicId: MY-EMP-0042
-title: "Malaysian Work Passes Compared"
+title: "Pas Kerja Malaysia Dibandingkan"
 seoTitle: "Malaysia Work Passes: EP, PVP, RP-T, DE Rantau"
 slug: "work-passes-malaysia"
 category: "employment"

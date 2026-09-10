@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0060
-title: "Selling Your Business — Share Sale or Asset Sale"
+title: "Menjual Perniagaan Anda — Jualan Saham atau Jualan Aset"
 seoTitle: "Sell a Business in Malaysia — Share vs Asset Sale"
 slug: "sell-business-malaysia"
 category: "business"

@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0025
-title: "SSM Fees: Companies, Businesses and LLPs"
+title: "Yuran SSM: Syarikat, Perniagaan dan LLP"
 seoTitle: "SSM Fees Malaysia: Full Official Fee Tables"
 slug: "ssm-fees-malaysia"
 category: "business"

@@ -1,6 +1,6 @@
 ---
 topicId: MY-AUD-0006
-title: "Appointing an Auditor for a Malaysian Company"
+title: "Melantik Juruaudit untuk Syarikat Malaysia"
 seoTitle: "Appointing an Auditor Malaysia: s.263, s.264, s.267"
 slug: "appointing-an-auditor"
 category: "audit"

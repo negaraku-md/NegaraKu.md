@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0083
-title: "Digital Free Trade Zone — What It Is, and What Can Still Be Confirmed"
+title: "Zon Perdagangan Bebas Digital — Apa Itu, dan Apa yang Masih Boleh Disahkan"
 seoTitle: "Digital Free Trade Zone Malaysia DFTZ Explained"
 socialTitle: "The DFTZ has no gazetted instrument and no longer appears on MDEC's site. Most guides still quote the 2017 launch as though it were the present."
 slug: "digital-free-trade-zone"

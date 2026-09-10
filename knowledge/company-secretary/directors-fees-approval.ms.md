@@ -1,6 +1,6 @@
 ---
 topicId: MY-CS-0033
-title: "Directors' Fees and Compensation: Who Approves What"
+title: "Fi dan Pampasan Pengarah: Siapa Meluluskan Apa"
 seoTitle: "Directors Fees Approval Malaysia: s.230 and s.227"
 slug: "directors-fees-approval"
 category: "company-secretary"

@@ -1,6 +1,6 @@
 ---
 topicId: MY-EMP-0019
-title: "Termination and lay-off benefits in Malaysia"
+title: "Faedah penamatan dan pemberhentian kerja di Malaysia"
 seoTitle: "Faedah Penamatan Malaysia — Formula TBLB 1980"
 slug: "termination-benefits-malaysia"
 category: "employment"

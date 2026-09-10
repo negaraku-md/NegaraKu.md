@@ -1,6 +1,6 @@
 ---
 topicId: MY-GOV-0001
-title: "SSM — Companies Commission of Malaysia"
+title: "SSM — Suruhanjaya Syarikat Malaysia"
 slug: "ssm"
 category: "government"
 subcategory: ["agencies"]

@@ -1,6 +1,6 @@
 ---
 topicId: MY-ACC-0008
-title: "Financial Reporting Deadlines for a Malaysian Company"
+title: "Tarikh Akhir Pelaporan Kewangan bagi Syarikat Malaysia"
 seoTitle: "Financial Reporting Deadlines Malaysia: SSM and LHDN"
 slug: "financial-reporting-deadlines"
 category: "accounting"

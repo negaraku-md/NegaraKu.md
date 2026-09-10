@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0058
-title: "Repatriating Profits and Dividends from Malaysia"
+title: "Memulangkan Keuntungan dan Dividen dari Malaysia"
 seoTitle: "Memulangkan Untung Malaysia: Dividen dan Cukai"
 slug: "repatriate-profits-malaysia"
 category: "business"

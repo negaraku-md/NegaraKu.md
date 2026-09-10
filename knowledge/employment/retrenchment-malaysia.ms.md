@@ -1,6 +1,6 @@
 ---
 topicId: MY-EMP-0016
-title: "Retrenchment and redundancy: the correct procedure"
+title: "Pemberhentian pekerja dan lebihan pekerja: prosedur yang betul"
 seoTitle: "Retrenchment Malaysia — Form PK and Correct Procedure"
 slug: "retrenchment-malaysia"
 category: "employment"

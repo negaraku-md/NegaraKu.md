@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0008
-title: "MyInvois Integration: Portal, API or Middleware"
+title: "Integrasi MyInvois: Portal, API atau Middleware"
 seoTitle: "Integrasi MyInvois: Portal lwn API lwn Middleware"
 slug: "myinvois-integration"
 category: "taxation"

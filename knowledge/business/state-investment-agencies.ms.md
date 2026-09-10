@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0101
-title: "Malaysia's State and Corridor Investment Agencies — What Each One Can Actually Approve"
+title: "Agensi Pelaburan Negeri dan Koridor Malaysia — Apa yang Setiap Satu Boleh Luluskan"
 seoTitle: "Agensi Pelaburan Negeri Malaysia"
 socialTitle: "Setiap pihak berkuasa koridor di Malaysia mengesyorkan insentif. Tiada satu pun yang memberikannya."
 slug: "state-investment-agencies"

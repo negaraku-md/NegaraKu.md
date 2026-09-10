@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0048
-title: "Forest City Special Financial Zone — Not the Same Thing as the JS-SEZ"
+title: "Zon Kewangan Khas Forest City — Bukan Perkara yang Sama dengan JS-SEZ"
 seoTitle: "Zon Kewangan Khas Forest City Dijelaskan"
 socialTitle: "Forest City ialah zon kewangan yang dikawal selia oleh Suruhanjaya Sekuriti. JS-SEZ pula ialah pakej pembuatan dan perkhidmatan yang ditadbir oleh MIDA. Kedua-duanya adalah skim yang berbeza."
 slug: "forest-city-sfz"

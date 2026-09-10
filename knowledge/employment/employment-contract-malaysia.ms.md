@@ -1,6 +1,6 @@
 ---
 topicId: MY-EMP-0024
-title: "The Malaysian employment contract, clause by clause"
+title: "Kontrak pekerjaan Malaysia, klausa demi klausa"
 seoTitle: "Employment contract Malaysia — what is unenforceable"
 slug: "employment-contract-malaysia"
 category: "employment"

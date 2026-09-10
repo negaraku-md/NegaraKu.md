@@ -1,6 +1,6 @@
 ---
 topicId: MY-GOV-0043
-title: "MITI — Ministry of Investment, Trade and Industry"
+title: "MITI — Kementerian Pelaburan, Perdagangan dan Industri"
 slug: "miti"
 category: "government"
 subcategory: ["agencies"]

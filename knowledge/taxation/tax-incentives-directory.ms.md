@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0114
-title: "Malaysian Tax Incentives Directory — Agency, Mechanism, Instrument, Status"
+title: "Direktori Insentif Cukai Malaysia — Agensi, Mekanisme, Instrumen, Status"
 seoTitle: "Malaysia Tax Incentives Directory — Agency and Status"
 slug: "tax-incentives-directory"
 category: "taxation"

@@ -1,6 +1,6 @@
 ---
 topicId: MY-ACC-0005
-title: "NSRF: Who Has to Report Sustainability Information, and From When"
+title: "NSRF: Siapa yang Wajib Melaporkan Maklumat Kemampanan, dan Mulai Bila"
 seoTitle: "NSRF Malaysia: Reporting Groups and Timeline"
 slug: "nsrf-sustainability-reporting"
 category: "accounting"

@@ -1,6 +1,6 @@
 ---
 topicId: MY-EMP-0012
-title: "Offboarding statutory checklist"
+title: "Senarai semak berkanun pelepasan pekerja"
 seoTitle: "Senarai Semak Offboarding Malaysia — Tanggungjawab Berkanun"
 slug: "offboarding-statutory-checklist"
 category: "employment"

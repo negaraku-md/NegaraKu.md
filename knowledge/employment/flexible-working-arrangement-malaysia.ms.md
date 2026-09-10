@@ -1,6 +1,6 @@
 ---
 topicId: MY-EMP-0033
-title: "Flexible working arrangement requests under s.60P and s.60Q"
+title: "Permohonan aturan kerja fleksibel di bawah s.60P dan s.60Q"
 seoTitle: "Aturan kerja fleksibel Malaysia — tugas 60 hari"
 slug: "flexible-working-arrangement-malaysia"
 category: "employment"

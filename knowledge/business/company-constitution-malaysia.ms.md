@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0009
-title: "Company Constitution or the Companies Act Default? What You Inherit by Skipping It"
+title: "Perlembagaan Syarikat atau Lalai Akta Syarikat? Apa yang Anda Warisi jika Melangkaunya"
 seoTitle: "Company Constitution Malaysia: Do You Need One?"
 socialTitle: "Skipping the constitution is a decision. Here is what you decided."
 slug: "company-constitution-malaysia"

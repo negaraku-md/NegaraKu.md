@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0054
-title: "Patents and Utility Innovations in Malaysia"
+title: "Paten dan Inovasi Berfaedah di Malaysia"
 seoTitle: "Patent Malaysia: Utility Innovation vs Patent"
 slug: "patent-malaysia"
 category: "business"

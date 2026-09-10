@@ -1,6 +1,6 @@
 ---
 topicId: MY-CS-0026
-title: "Who Counts as a Beneficial Owner in Malaysia?"
+title: "Siapa yang Dikira sebagai Pemilik Benefisial di Malaysia?"
 slug: "who-is-a-beneficial-owner"
 category: "company-secretary"
 subcategory: ["beneficial-ownership"]

@@ -1,6 +1,6 @@
 ---
 topicId: MY-ACC-0021
-title: "MFRS 18: The New Profit or Loss Structure for 2027"
+title: "MFRS 18: Struktur Untung atau Rugi Baharu untuk 2027"
 seoTitle: "MFRS 18 Malaysia: New P&L Structure for 2027"
 slug: "mfrs-18-presentation"
 category: "accounting"

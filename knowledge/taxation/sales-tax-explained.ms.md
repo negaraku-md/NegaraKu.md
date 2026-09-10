@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0032
-title: "Sales Tax in Malaysia — Rates, Mechanics and Exemptions"
+title: "Cukai Jualan di Malaysia — Kadar, Mekanisme dan Pengecualian"
 slug: "sales-tax-explained"
 category: "taxation"
 subcategory: ["sst"]

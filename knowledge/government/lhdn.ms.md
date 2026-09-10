@@ -1,6 +1,6 @@
 ---
 topicId: MY-GOV-0002
-title: "LHDN — Inland Revenue Board of Malaysia"
+title: "LHDN — Lembaga Hasil Dalam Negeri Malaysia"
 slug: "lhdn"
 category: "government"
 subcategory: ["agencies"]

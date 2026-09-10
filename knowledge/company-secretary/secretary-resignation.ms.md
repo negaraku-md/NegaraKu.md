@@ -1,6 +1,6 @@
 ---
 topicId: MY-CS-0022
-title: "Resigning as a Company Secretary in Malaysia"
+title: "Meletakkan Jawatan sebagai Setiausaha Syarikat di Malaysia"
 slug: "secretary-resignation"
 category: "company-secretary"
 subcategory: ["appointment"]

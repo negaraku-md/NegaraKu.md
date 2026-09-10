@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0104
-title: "Ports, Airports, Rail and Broadband by Malaysian Region — the Official Numbers"
+title: "Pelabuhan, Lapangan Terbang, Rel dan Jalur Lebar mengikut Wilayah Malaysia — Angka Rasmi"
 seoTitle: "Malaysia Infrastructure by Region"
 socialTitle: "Two Malaysian ports handled 88 per cent of the country's containers in 2025. Everywhere else, logistics is a different business."
 slug: "infrastructure-connectivity-by-region"

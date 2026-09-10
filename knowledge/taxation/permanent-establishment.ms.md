@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0028
-title: "Permanent Establishment in Malaysia — Treaty Test and Domestic Test"
+title: "Permanent Establishment di Malaysia — Ujian Perjanjian dan Ujian Domestik"
 seoTitle: "Permanent Establishment Malaysia — Bila Firma Asing Dikenakan Cukai"
 slug: "permanent-establishment"
 category: "taxation"

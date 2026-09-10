@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0080
-title: "Equity Crowdfunding and P2P Financing for Malaysian Businesses"
+title: "Pembiayaan Awam Ekuiti dan P2P untuk Perniagaan Malaysia"
 seoTitle: "ECF and P2P Financing Malaysia: SME Guide"
 slug: "equity-crowdfunding-p2p-malaysia"
 category: "business"

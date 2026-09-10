@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0063
-title: "Certificate of Residence Malaysia — Applying Through e-Residence"
+title: "Sijil Taraf Mastautin Malaysia — Memohon Melalui e-Residence"
 seoTitle: "Certificate of Residence Malaysia — e-Residence Application"
 slug: "certificate-of-residence"
 category: "taxation"

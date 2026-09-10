@@ -1,6 +1,6 @@
 ---
 topicId: MY-HIS-0003
-title: "Merdeka: How 31 August 1957 Actually Happened"
+title: "Merdeka: Bagaimana 31 Ogos 1957 Sebenarnya Berlaku"
 slug: "independence-1957"
 category: "malaysia"
 subcategory: ["independence"]

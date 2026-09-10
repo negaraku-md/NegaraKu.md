@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0056
-title: "Tax Residence for Individuals: the Four Tests in s.7(1)"
+title: "Taraf Mastautin Cukai bagi Individu: Empat Ujian dalam s.7(1)"
 seoTitle: "Tax Residence Malaysia: the Four s.7(1) Tests"
 slug: "individual-tax-residence"
 category: "taxation"

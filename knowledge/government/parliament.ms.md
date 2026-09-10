@@ -1,6 +1,6 @@
 ---
 topicId: MY-GOV-0003
-title: "Parliament of Malaysia"
+title: "Parlimen Malaysia"
 slug: "parliament"
 category: "government"
 subcategory: ["institutions"]

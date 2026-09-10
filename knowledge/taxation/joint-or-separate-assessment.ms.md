@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0062
-title: "Joint or Separate Assessment: Where the Break-Even Sits"
+title: "Taksiran Bersama atau Berasingan: Di Mana Letaknya Titik Pulang Modal"
 seoTitle: "Joint or Separate Assessment Malaysia"
 slug: "joint-or-separate-assessment"
 category: "taxation"

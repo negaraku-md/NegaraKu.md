@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0074
-title: "Social Media Licensing in Malaysia: Who Actually Needs the ASP(C) Licence"
+title: "Pelesenan Media Sosial di Malaysia: Siapa yang Sebenarnya Perlukan Lesen ASP(C)"
 seoTitle: "Lesen Media Sosial Malaysia: Rangka Kerja ASP(C)"
 slug: "social-media-licensing-malaysia"
 category: "business"

@@ -1,6 +1,6 @@
 ---
 topicId: MY-CS-0043
-title: "Dividends and the Solvency Test: When a Sdn Bhd Can Actually Pay"
+title: "Dividen dan Ujian Kesolvenan: Bila Sdn Bhd Sebenarnya Boleh Membayar"
 seoTitle: "Dividends Malaysia: Profits and Solvency Test"
 slug: "dividends-and-solvency"
 category: "company-secretary"

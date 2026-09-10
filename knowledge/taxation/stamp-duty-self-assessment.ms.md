@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0018
-title: "Stamp Duty Self-Assessment (STSDS) in Malaysia"
+title: "Taksir Sendiri Duti Setem (STSDS) di Malaysia"
 slug: "stamp-duty-self-assessment"
 category: "taxation"
 subcategory: ["stamp-duty"]

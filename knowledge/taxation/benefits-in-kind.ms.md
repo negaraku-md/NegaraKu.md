@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0040
-title: "Benefits-in-Kind and Perquisites — Both Sides of the Transaction"
+title: "Manfaat Berupa Barangan dan Perkuisit — Kedua-dua Belah Transaksi"
 seoTitle: "Benefits in Kind Malaysia — Employer and Employee Tax"
 slug: "benefits-in-kind"
 category: "taxation"

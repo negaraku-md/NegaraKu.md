@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0010
-title: "Share Capital, Paid-Up Capital and Allotting Shares in Malaysia"
+title: "Modal Saham, Modal Berbayar dan Pengeluaran Saham di Malaysia"
 seoTitle: "Share Capital Malaysia: No Par Value and Paid-Up"
 socialTitle: "RM1 paid-up is perfectly legal. It is also the most expensive RM1 you will ever save."
 slug: "share-capital-malaysia"

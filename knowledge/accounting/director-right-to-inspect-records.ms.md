@@ -1,6 +1,6 @@
 ---
 topicId: MY-ACC-0026
-title: "A Director's Right to Inspect the Accounting Records"
+title: "Hak Pengarah untuk Memeriksa Rekod Perakaunan"
 slug: "director-right-to-inspect-records"
 category: "accounting"
 subcategory: ["records"]

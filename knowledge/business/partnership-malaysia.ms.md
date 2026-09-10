@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0021
-title: "Partnership in Malaysia: The Structure Most People Should Avoid"
+title: "Perkongsian di Malaysia: Struktur yang Patut Dielakkan Kebanyakan Orang"
 seoTitle: "Perkongsian Malaysia: Liabiliti Di Bawah Akta Perkongsian"
 slug: "partnership-malaysia"
 category: "business"

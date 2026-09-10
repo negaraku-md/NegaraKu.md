@@ -1,6 +1,6 @@
 ---
 topicId: MY-CS-0003
-title: "Statutory Registers Every Sdn Bhd Must Keep: A Checklist"
+title: "Daftar Berkanun yang Wajib Disimpan oleh Setiap Sdn Bhd: Satu Senarai Semak"
 slug: "statutory-registers"
 category: "company-secretary"
 subcategory: ["statutory-registers"]

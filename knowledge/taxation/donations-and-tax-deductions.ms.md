@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0039
-title: "Donations, Gifts and Section 44(6) Approved Institutions"
+title: "Derma, Hadiah dan Institusi Diluluskan di bawah Seksyen 44(6)"
 seoTitle: "Derma Boleh Potong Cukai Malaysia — Penjelasan s.44(6)"
 slug: "donations-and-tax-deductions"
 category: "taxation"

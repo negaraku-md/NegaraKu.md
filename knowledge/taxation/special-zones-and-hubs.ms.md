@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0115
-title: "Special Zones and Hub Incentives Compared on Tax"
+title: "Zon Khas dan Insentif Hab Dibandingkan dari Segi Cukai"
 seoTitle: "JS-SEZ, Forest City SFZ and Global Services Hub — Tax Compared"
 slug: "special-zones-and-hubs"
 category: "taxation"

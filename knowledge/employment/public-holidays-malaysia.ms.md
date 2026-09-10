@@ -1,6 +1,6 @@
 ---
 topicId: MY-EMP-0046
-title: "Public holidays in Malaysia and the Employment Act rule"
+title: "Hari kelepasan am di Malaysia dan peraturan Akta Kerja"
 seoTitle: "Public holidays Malaysia — federal, state and the EA rule"
 slug: "public-holidays-malaysia"
 category: "employment"

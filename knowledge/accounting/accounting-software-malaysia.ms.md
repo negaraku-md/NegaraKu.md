@@ -1,6 +1,6 @@
 ---
 topicId: MY-ACC-0011
-title: "Accounting Software in Malaysia: The Two Capabilities That Now Decide It"
+title: "Perisian Perakaunan di Malaysia: Dua Keupayaan yang Kini Menentukannya"
 seoTitle: "Accounting Software Malaysia: e-Invoice and MBRS Fit"
 slug: "accounting-software-malaysia"
 category: "accounting"

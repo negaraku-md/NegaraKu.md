@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0024
-title: "What It Costs to Miss a Withholding Tax Deduction"
+title: "Kos Jika Terlepas Membuat Potongan Cukai Pegangan"
 seoTitle: "Failure to Withhold Tax Malaysia — Penalty and Cost"
 slug: "withholding-tax-non-compliance"
 category: "taxation"

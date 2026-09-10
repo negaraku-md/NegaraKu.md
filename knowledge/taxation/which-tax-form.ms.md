@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0058
-title: "Which LHDN Form Do You File? BE, B, BT, M, P and E"
+title: "Borang LHDN Mana yang Anda Failkan? BE, B, BT, M, P dan E"
 seoTitle: "Which LHDN Tax Form: BE, B, BT, M, P or E"
 slug: "which-tax-form"
 category: "taxation"

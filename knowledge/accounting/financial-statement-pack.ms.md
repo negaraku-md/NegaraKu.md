@@ -1,6 +1,6 @@
 ---
 topicId: MY-ACC-0004
-title: "What a Malaysian Statutory Financial Statement Pack Contains"
+title: "Apa yang Terkandung dalam Pek Penyata Kewangan Berkanun Malaysia"
 seoTitle: "Pek Penyata Kewangan Malaysia: 5 Dokumen"
 slug: "financial-statement-pack"
 category: "accounting"

@@ -1,6 +1,6 @@
 ---
 topicId: MY-AUD-0008
-title: "Audit Fees in Malaysia: There Is No Official Fee Schedule"
+title: "Yuran Audit di Malaysia: Tiada Jadual Yuran Rasmi"
 seoTitle: "Yuran Audit Malaysia: RPG 7 Ditarik Balik, Tiada Skala Yuran"
 slug: "audit-fees-malaysia"
 category: "audit"

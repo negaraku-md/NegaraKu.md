@@ -1,6 +1,6 @@
 ---
 topicId: MY-AUD-0004
-title: "Dormant Companies and Audit Exemption in Malaysia"
+title: "Syarikat Dorman dan Pengecualian Audit di Malaysia"
 seoTitle: "Dormant Company Audit Exemption Malaysia"
 slug: "dormant-company-audit-exemption"
 category: "audit"

@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0008
-title: "Registered Office, Business Address and Virtual Office in Malaysia"
+title: "Pejabat Berdaftar, Alamat Perniagaan dan Pejabat Maya di Malaysia"
 seoTitle: "Registered Office Malaysia: Rules and Limits"
 slug: "registered-office-malaysia"
 category: "business"

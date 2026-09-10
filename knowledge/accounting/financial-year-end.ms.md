@@ -1,6 +1,6 @@
 ---
 topicId: MY-ACC-0007
-title: "Choosing and Changing Your Financial Year End in Malaysia"
+title: "Memilih dan Menukar Penghujung Tahun Kewangan Anda di Malaysia"
 seoTitle: "Financial Year End Malaysia: Choosing & Changing"
 slug: "financial-year-end"
 category: "accounting"

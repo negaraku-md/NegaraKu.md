@@ -1,6 +1,6 @@
 ---
 topicId: MY-EMP-0037
-title: "Worker Accommodation and the Certificate for Accommodation"
+title: "Penginapan Pekerja dan Perakuan Penginapan"
 seoTitle: "Akta 446 Penginapan Pekerja Malaysia"
 slug: "worker-accommodation-act-446"
 category: "employment"

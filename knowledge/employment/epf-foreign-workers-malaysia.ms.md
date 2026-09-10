@@ -1,6 +1,6 @@
 ---
 topicId: MY-EMP-0006
-title: "EPF for Foreign Workers: The 2 Per Cent Mandate Under Part F"
+title: "EPF untuk Pekerja Asing: Mandat 2 Peratus di bawah Part F"
 seoTitle: "EPF Pekerja Asing Malaysia: Mandat 2%"
 slug: "epf-foreign-workers-malaysia"
 category: "employment"

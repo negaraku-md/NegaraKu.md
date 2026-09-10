@@ -1,6 +1,6 @@
 ---
 topicId: MY-CS-0016
-title: "Minute Books and Records: Every Retention Clock in One Place"
+title: "Buku Minit dan Rekod: Setiap Tempoh Penyimpanan di Satu Tempat"
 seoTitle: "Buku Minit dan Rekod Malaysia: Peraturan Penyimpanan"
 slug: "minute-books-and-records"
 category: "company-secretary"

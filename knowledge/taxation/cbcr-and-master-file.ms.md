@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0049
-title: "Country-by-Country Reporting and the Master File in Malaysia"
+title: "Pelaporan Negara demi Negara dan Master File di Malaysia"
 seoTitle: "CbCR Malaysia — Threshold, Notification and Filing"
 slug: "cbcr-and-master-file"
 category: "taxation"

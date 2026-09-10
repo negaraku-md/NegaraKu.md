@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0007
-title: "Who Can Be a Director of a Malaysian Company — and What You Sign Up For"
+title: "Siapa Boleh Menjadi Pengarah Syarikat Malaysia — dan Apa yang Anda Tanggung"
 seoTitle: "Company Director Requirements Malaysia"
 socialTitle: "A directorship is not a title. It is a personal exposure with a five-year custodial ceiling."
 slug: "company-director-requirements"

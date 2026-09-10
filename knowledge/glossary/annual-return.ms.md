@@ -1,6 +1,6 @@
 ---
 topicId: MY-GLO-0002
-title: "Annual Return"
+title: "Penyata Tahunan"
 slug: "annual-return"
 category: "glossary"
 subcategory: ["corporate"]

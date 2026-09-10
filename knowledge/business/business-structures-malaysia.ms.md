@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0020
-title: "Malaysian Business Structures Compared"
+title: "Perbandingan Struktur Perniagaan Malaysia"
 seoTitle: "Business Structures in Malaysia: One Comparison Table"
 slug: "business-structures-malaysia"
 category: "business"

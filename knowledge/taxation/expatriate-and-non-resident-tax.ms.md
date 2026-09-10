@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0059
-title: "Expatriate and Non-Resident Tax: the Flat 30% and the Escapes"
+title: "Cukai Ekspatriat dan Bukan Pemastautin: Kadar Rata 30% dan Jalan Keluarnya"
 seoTitle: "Expatriate Tax Malaysia: Non-Resident Rates"
 slug: "expatriate-and-non-resident-tax"
 category: "taxation"

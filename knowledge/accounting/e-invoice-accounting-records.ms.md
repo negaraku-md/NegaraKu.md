@@ -1,6 +1,6 @@
 ---
 topicId: MY-ACC-0027
-title: "e-Invoice, MyInvois and Your Statutory Records"
+title: "e-Invois, MyInvois dan Rekod Berkanun Anda"
 seoTitle: "e-Invois dan Rekod Berkanun: s.245 lwn ITA 1967"
 slug: "e-invoice-accounting-records"
 category: "accounting"

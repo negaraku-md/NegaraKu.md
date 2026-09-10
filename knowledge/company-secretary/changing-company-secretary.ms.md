@@ -1,6 +1,6 @@
 ---
 topicId: MY-CS-0008
-title: "Changing Your Company Secretary: The Handover Checklist"
+title: "Menukar Setiausaha Syarikat Anda: Senarai Semak Serah Tugas"
 slug: "changing-company-secretary"
 category: "company-secretary"
 subcategory: ["appointment"]

@@ -1,6 +1,6 @@
 ---
 topicId: MY-EMP-0023
-title: "Workplace sexual harassment: the employer's two live duties"
+title: "Gangguan seksual di tempat kerja: dua kewajipan aktif majikan"
 seoTitle: "Gangguan seksual di tempat kerja Malaysia — kewajipan majikan"
 slug: "workplace-sexual-harassment-malaysia"
 category: "employment"

@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0006
-title: "e-Invoice vs SST Tax Invoice: Two Regimes, Two Documents"
+title: "e-Invois vs Invois Cukai SST: Dua Rejim, Dua Dokumen"
 seoTitle: "e-Invoice vs Tax Invoice Malaysia: LHDN vs RMCD"
 slug: "e-invoice-vs-tax-invoice"
 category: "taxation"

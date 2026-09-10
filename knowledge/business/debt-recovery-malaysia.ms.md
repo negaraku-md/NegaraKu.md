@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0068
-title: "Debt Recovery in Malaysia — The Escalation Ladder, Not the Lawsuit"
+title: "Pemulihan Hutang di Malaysia — Tangga Peningkatan, Bukan Saman"
 seoTitle: "Pemulihan Hutang Malaysia: Dari Tuntutan ke Petisyen Penggulungan"
 socialTitle: "Ambang RM10,000 bagi petisyen penggulungan yang sering disebut orang telah dimansuhkan pada 2021."
 slug: "debt-recovery-malaysia"

@@ -1,6 +1,6 @@
 ---
 topicId: MY-CS-0037
-title: "Board Meetings and Minutes: The Third Schedule Is Your Default Rulebook"
+title: "Mesyuarat Lembaga Pengarah dan Minit: Jadual Ketiga ialah Buku Peraturan Lalai Anda"
 seoTitle: "Mesyuarat Lembaga Pengarah Malaysia: Prosedur Jadual Ketiga"
 slug: "board-meetings-and-minutes"
 category: "company-secretary"

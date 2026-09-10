@@ -1,6 +1,6 @@
 ---
 topicId: MY-ACC-0025
-title: "Keeping Accounting Records Outside Malaysia"
+title: "Menyimpan Rekod Perakaunan di Luar Malaysia"
 slug: "records-outside-malaysia"
 category: "accounting"
 subcategory: ["records"]

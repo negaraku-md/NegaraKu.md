@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0003
-title: "Sole Proprietorship vs Sdn Bhd: Which Should You Register?"
+title: "Pemilikan Tunggal lawan Sdn Bhd: Yang Mana Patut Anda Daftarkan?"
 seoTitle: "Sole Proprietorship vs Sdn Bhd Malaysia"
 slug: "sole-prop-vs-sdn-bhd"
 category: "business"

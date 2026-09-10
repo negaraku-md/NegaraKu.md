@@ -1,6 +1,6 @@
 ---
 topicId: MY-AUD-0013
-title: "The Four Audit Opinions, and Which One You Get"
+title: "Empat Pendapat Audit, dan Yang Mana Anda Terima"
 seoTitle: "Jenis Pendapat Audit Malaysia: Ujian Dua Paksi"
 slug: "audit-opinion-types"
 category: "audit"

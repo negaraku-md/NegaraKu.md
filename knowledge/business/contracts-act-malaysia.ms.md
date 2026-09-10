@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0065
-title: "The Contracts Act 1950 Is Not English Law — Five Places Malaysia Diverges"
+title: "Akta Kontrak 1950 Bukan Undang-Undang Inggeris — Lima Tempat Malaysia Menyimpang"
 seoTitle: "Contracts Act 1950 Malaysia: What Makes a Contract Binding"
 socialTitle: "Your non-compete clause is void. Section 28 says so in one sentence."
 slug: "contracts-act-malaysia"

@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0045
-title: "Malaysia Stamp Duty Rates — First Schedule Reference"
+title: "Kadar Duti Setem Malaysia — Rujukan Jadual Pertama"
 slug: "stamp-duty-rates"
 category: "taxation"
 subcategory: ["stamp-duty"]

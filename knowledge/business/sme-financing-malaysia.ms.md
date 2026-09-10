@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0070
-title: "Government Financing and Guarantee Schemes for Malaysian SMEs"
+title: "Skim Pembiayaan dan Jaminan Kerajaan untuk PKS Malaysia"
 seoTitle: "SME Financing Malaysia: Schemes and Eligibility"
 slug: "sme-financing-malaysia"
 category: "business"

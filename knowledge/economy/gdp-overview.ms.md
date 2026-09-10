@@ -1,6 +1,6 @@
 ---
 topicId: MY-ECO-0001
-title: "Malaysia GDP Overview"
+title: "Gambaran Keseluruhan KDNK Malaysia"
 slug: "gdp-overview"
 category: "economy"
 subcategory: ["indicators"]

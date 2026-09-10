@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0009
-title: "Self-Billed e-Invoices: When the Buyer Has to Issue"
+title: "e-Invois Bil Sendiri: Bila Pembeli Perlu Mengeluarkannya"
 seoTitle: "Self-Billed e-Invoice Malaysia: Rules and Scenarios"
 slug: "self-billed-e-invoice"
 category: "taxation"

@@ -1,6 +1,6 @@
 ---
 topicId: MY-ACC-0010
-title: "In-House or Outsourced Bookkeeping: The Real Cost Comparison"
+title: "Simpan Kira Dalaman atau Outsource: Perbandingan Kos Sebenar"
 seoTitle: "Perbandingan Kos Pembukuan Dalaman vs Outsource Malaysia"
 slug: "bookkeeping-in-house-vs-outsourced"
 category: "accounting"

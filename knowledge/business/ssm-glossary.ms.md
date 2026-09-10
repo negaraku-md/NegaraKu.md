@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0012
-title: "SSM and Malaysian Business Jargon, Decoded"
+title: "SSM dan Jargon Perniagaan Malaysia, Dihuraikan"
 seoTitle: "Glosari SSM: ROB, ROC, MyCoID, EzBiz, BLESS"
 slug: "ssm-glossary"
 category: "business"

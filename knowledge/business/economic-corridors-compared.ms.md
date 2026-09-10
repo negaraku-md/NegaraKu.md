@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0076
-title: "Malaysia's Economic Corridors Compared"
+title: "Perbandingan Koridor Ekonomi Malaysia"
 seoTitle: "Malaysia Economic Corridors Compared"
 socialTitle: "Three corridor authorities are creatures of federal Acts. Two are creatures of state law. None of the five can grant you a tax incentive."
 slug: "economic-corridors-compared"

@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0067
-title: "Director Service Contracts — Office, Employment, and the s.231 Disclosure Rule"
+title: "Kontrak Perkhidmatan Pengarah — Jawatan, Pekerjaan, dan Peraturan Pendedahan s.231"
 seoTitle: "Director Service Contracts Malaysia: s.231 Explained"
 socialTitle: "Section 231 is a public-company rule. Most guides apply it to Sdn Bhds."
 slug: "director-service-contracts"

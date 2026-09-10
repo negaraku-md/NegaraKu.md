@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0015
-title: "Company Name Search, Reservation and Rejection at SSM"
+title: "Carian, Tempahan dan Penolakan Nama Syarikat di SSM"
 seoTitle: "SSM Company Name Search and Rejection Rules"
 slug: "company-name-search-ssm"
 category: "business"

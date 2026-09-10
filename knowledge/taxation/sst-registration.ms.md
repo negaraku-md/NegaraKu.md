@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0031
-title: "SST Registration Thresholds by Service Group"
+title: "Ambang Pendaftaran SST Mengikut Kumpulan Perkhidmatan"
 slug: "sst-registration"
 category: "taxation"
 subcategory: ["sst"]

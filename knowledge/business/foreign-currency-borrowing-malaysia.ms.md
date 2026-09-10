@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0047
-title: "Borrowing in Foreign Currency: What a Malaysian Company May Do"
+title: "Meminjam dalam Mata Wang Asing: Apa yang Boleh Dilakukan oleh Syarikat Malaysia"
 seoTitle: "Foreign Currency Borrowing Malaysia: BNM Limits"
 slug: "foreign-currency-borrowing-malaysia"
 category: "business"

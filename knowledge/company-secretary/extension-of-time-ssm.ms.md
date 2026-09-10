@@ -1,6 +1,6 @@
 ---
 topicId: MY-CS-0012
-title: "Applying for an Extension of Time from SSM"
+title: "Memohon Lanjutan Masa daripada SSM"
 seoTitle: "SSM Extension of Time (EOT): Rules & Deadlines"
 slug: "extension-of-time-ssm"
 category: "company-secretary"

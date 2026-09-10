@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0054
-title: "Entertainment Expenses: 50 Per Cent or 100 Per Cent?"
+title: "Perbelanjaan Hiburan: 50 Peratus atau 100 Peratus?"
 seoTitle: "Perbelanjaan Hiburan Malaysia: Peraturan 50% atau 100%"
 slug: "entertainment-expenses"
 category: "taxation"

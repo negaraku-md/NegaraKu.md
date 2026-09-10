@@ -1,6 +1,6 @@
 ---
 topicId: MY-AUD-0009
-title: "Anatomy of a Statutory Audit in Malaysia"
+title: "Anatomi Audit Berkanun di Malaysia"
 seoTitle: "Statutory Audit Process Malaysia: Stage by Stage"
 slug: "statutory-audit-process"
 category: "audit"

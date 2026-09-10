@@ -1,6 +1,6 @@
 ---
 topicId: MY-EMP-0022
-title: "Working hours, rest days and overtime pay"
+title: "Waktu bekerja, hari rehat dan bayaran kerja lebih masa"
 seoTitle: "Overtime pay Malaysia — rates, caps and payment deadline"
 slug: "working-hours-overtime-malaysia"
 category: "employment"

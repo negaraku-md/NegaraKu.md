@@ -1,6 +1,6 @@
 ---
 topicId: MY-ACC-0009
-title: "Your First Financial Year: The 18-Month Rule for a New Sdn Bhd"
+title: "Tahun Kewangan Pertama Anda: Peraturan 18 Bulan untuk Sdn Bhd Baharu"
 seoTitle: "First Financial Year Malaysia: The 18-Month Rule"
 slug: "first-financial-year"
 category: "accounting"

@@ -1,6 +1,6 @@
 ---
 topicId: MY-EMP-0004
-title: "Who the Employment Act covers, and what RM4,000 actually switches off"
+title: "Siapa yang dilindungi Akta Kerja, dan apa yang sebenarnya dihentikan oleh paras RM4,000"
 seoTitle: "Employment Act coverage Malaysia — the RM4,000 rule"
 slug: "employment-act-coverage"
 category: "employment"

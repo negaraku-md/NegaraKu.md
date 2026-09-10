@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0043
-title: "Industrial Design Registration in Malaysia"
+title: "Pendaftaran Reka Bentuk Perindustrian di Malaysia"
 seoTitle: "Industrial Design Registration Malaysia (MyIPO)"
 slug: "industrial-design-malaysia"
 category: "business"

@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0021
-title: "Global Minimum Tax in Malaysia: DTT and MTT"
+title: "Cukai Minimum Global di Malaysia: DTT dan MTT"
 seoTitle: "Global Minimum Tax Malaysia: DTT, MTT and Pillar Two"
 slug: "global-minimum-tax-pillar-two"
 category: "taxation"

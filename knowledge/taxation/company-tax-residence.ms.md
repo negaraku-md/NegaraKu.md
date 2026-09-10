@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0012
-title: "When Is a Company Tax Resident in Malaysia?"
+title: "Bilakah Sesebuah Syarikat Menjadi Pemastautin Cukai di Malaysia?"
 seoTitle: "Company Tax Residence Malaysia: Management and Control"
 slug: "company-tax-residence"
 category: "taxation"

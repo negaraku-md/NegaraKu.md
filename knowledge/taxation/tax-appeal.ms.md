@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0064
-title: "Appealing an LHDN Tax Assessment"
+title: "Merayu Taksiran Cukai LHDN"
 seoTitle: "Rayuan Cukai Malaysia: Form Q, SCIT dan Jam 30 Hari"
 slug: "tax-appeal"
 category: "taxation"

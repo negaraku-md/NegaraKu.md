@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0037
-title: "The Resident Director Requirement and the Nominee Director Trap"
+title: "Syarat Pengarah Pemastautin dan Perangkap Pengarah Penama"
 seoTitle: "Pengarah Pemastautin Malaysia — Risiko Pengarah Penama"
 socialTitle: "Pengarah penama bukan sekadar formaliti. Seksyen 289(6) menyatakan indemniti anda dan polisi insurans D&O anda turut terhenti di situ."
 slug: "resident-director-malaysia"

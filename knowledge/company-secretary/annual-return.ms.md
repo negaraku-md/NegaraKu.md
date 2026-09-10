@@ -1,6 +1,6 @@
 ---
 topicId: MY-CS-0002
-title: "Annual Return: What It Is and When to File It"
+title: "Penyata Tahunan: Apa Itu dan Bila Perlu Difailkan"
 seoTitle: "Penyata Tahunan SSM Malaysia: Tarikh Akhir dan Peraturan"
 slug: "annual-return"
 category: "company-secretary"

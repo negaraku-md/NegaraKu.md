@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0011
-title: "Form C and CP204: Estimating and Paying Company Tax"
+title: "Borang C dan CP204: Menganggar dan Membayar Cukai Syarikat"
 seoTitle: "Form C dan CP204 Malaysia: Anggaran dan Penalti"
 slug: "form-c-and-cp204"
 category: "taxation"

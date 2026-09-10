@@ -1,6 +1,6 @@
 ---
 topicId: MY-LIV-0068
-title: "Why Walking and Cycling in Malaysian Cities Is Still an Uphill Climb"
+title: "Mengapa Berjalan Kaki dan Berbasikal di Bandar Malaysia Masih Suatu Perjuangan Mendaki"
 slug: "cycling-and-walkability"
 category: "transport"
 subcategory: ["public-transport"]

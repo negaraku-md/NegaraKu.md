@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0019
-title: "Withholding Tax on Cloud, SaaS, Ad Spend and Marketplace Fees"
+title: "Cukai Pegangan ke atas Cloud, SaaS, Perbelanjaan Iklan dan Yuran Marketplace"
 seoTitle: "Withholding Tax on SaaS and Digital Services Malaysia"
 slug: "withholding-tax-digital-services"
 category: "taxation"

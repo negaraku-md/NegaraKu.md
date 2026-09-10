@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0121
-title: "Angel Investor Tax Incentive — the Gazetted Deadline Passed on 31 December 2023"
+title: "Insentif Cukai Pelabur Mangkin — Tarikh Akhir yang Digazetkan Sudah Berlalu pada 31 Disember 2023"
 seoTitle: "Angel Investor Tax Incentive Malaysia — Status and Conditions"
 slug: "angel-investor-tax-incentive"
 category: "taxation"

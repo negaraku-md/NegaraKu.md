@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0016
-title: "Registering a Foreign Company Branch in Malaysia"
+title: "Mendaftarkan Cawangan Syarikat Asing di Malaysia"
 seoTitle: "Foreign Company Branch Malaysia: s.561-562 Guide"
 slug: "register-foreign-branch-malaysia"
 category: "business"

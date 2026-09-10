@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0042
-title: "RPGT Exemptions and the CKHT Forms"
+title: "Pengecualian RPGT dan Borang CKHT"
 slug: "rpgt-exemptions"
 category: "taxation"
 subcategory: ["capital-taxes"]

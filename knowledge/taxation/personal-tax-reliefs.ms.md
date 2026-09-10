@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0004
-title: "Malaysia Personal Tax Reliefs Checklist"
+title: "Senarai Semak Pelepasan Cukai Individu Malaysia"
 slug: "personal-tax-reliefs"
 category: "taxation"
 subcategory: ["personal-tax"]

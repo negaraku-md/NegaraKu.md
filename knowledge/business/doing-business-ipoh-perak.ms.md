@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0108
-title: "Doing Business in Ipoh and Perak: The Cost Case"
+title: "Berniaga di Ipoh dan Perak: Hujah Kos"
 seoTitle: "Berniaga di Ipoh: Pelesenan dan Kos MBI"
 slug: "doing-business-ipoh-perak"
 category: "business"

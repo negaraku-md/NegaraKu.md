@@ -1,6 +1,6 @@
 ---
 topicId: MY-CS-0005
-title: "When the Beneficial Owner Will Not Respond"
+title: "Apabila Pemilik Benefisial Enggan Memberi Respons"
 slug: "bo-non-cooperation"
 category: "company-secretary"
 subcategory: ["beneficial-ownership"]

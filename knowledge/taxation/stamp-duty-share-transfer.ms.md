@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0047
-title: "Stamp Duty on Share Transfers and the Form of Transfer of Securities"
+title: "Duti Setem ke atas Pindah Milik Saham dan Borang Pindah Milik Sekuriti"
 seoTitle: "Duti Setem Ke Atas Pindah Milik Saham di Malaysia"
 slug: "stamp-duty-share-transfer"
 category: "taxation"

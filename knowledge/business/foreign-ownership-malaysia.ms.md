@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0029
-title: "Can a Foreigner Own 100% of a Malaysian Company? Sector by Sector"
+title: "Bolehkah Warga Asing Memiliki 100% Syarikat Malaysia? Sektor demi Sektor"
 seoTitle: "Foreign Ownership Limits Malaysia by Sector"
 socialTitle: "There is no Malaysian law capping foreign ownership. The caps live inside sector licences — and that changes where you have to look."
 slug: "foreign-ownership-malaysia"

@@ -1,6 +1,6 @@
 ---
 topicId: MY-CS-0020
-title: "Registered Office: Rules, Change and the Public Access Duty"
+title: "Pejabat Berdaftar: Peraturan, Perubahan dan Kewajipan Akses Awam"
 seoTitle: "Registered Office Malaysia: Rules, Change, Public Access"
 slug: "registered-office"
 category: "company-secretary"

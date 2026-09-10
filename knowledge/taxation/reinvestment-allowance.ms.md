@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0041
-title: "Reinvestment Allowance — Qualifying Projects and Why Claims Fail"
+title: "Elaun Pelaburan Semula — Projek yang Layak dan Mengapa Tuntutan Gagal"
 seoTitle: "Reinvestment Allowance Malaysia — Schedule 7A Explained"
 slug: "reinvestment-allowance"
 category: "taxation"

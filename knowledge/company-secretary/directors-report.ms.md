@@ -1,6 +1,6 @@
 ---
 topicId: MY-CS-0034
-title: "The Directors' Report and Statutory Declaration: s.251 to s.253"
+title: "Laporan Pengarah dan Akuan Berkanun: s.251 hingga s.253"
 seoTitle: "Directors Report Malaysia: s.252, s.253 and Fifth Schedule"
 slug: "directors-report"
 category: "company-secretary"

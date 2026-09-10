@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0072
-title: "Registering a Trademark with MyIPO"
+title: "Mendaftarkan Cap Dagangan dengan MyIPO"
 seoTitle: "Pendaftaran Cap Dagangan Malaysia: Proses dan Kos"
 slug: "trademark-registration-malaysia"
 category: "business"

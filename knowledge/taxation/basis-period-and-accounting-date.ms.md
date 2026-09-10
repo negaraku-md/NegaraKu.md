@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0013
-title: "Basis Periods and Changing Your Accounting Date"
+title: "Tempoh Asas dan Menukar Tarikh Perakaunan Anda"
 seoTitle: "Basis Period Malaysia: First Year and Accounting Date"
 slug: "basis-period-and-accounting-date"
 category: "taxation"

@@ -1,6 +1,6 @@
 ---
 topicId: MY-AUD-0005
-title: "Life After Audit Exemption: What Your Company Still Owes"
+title: "Kehidupan Selepas Pengecualian Audit: Kewajipan yang Masih Ditanggung Syarikat Anda"
 seoTitle: "Selepas Pengecualian Audit Malaysia: Kewajipan Yang Kekal"
 slug: "after-audit-exemption"
 category: "audit"

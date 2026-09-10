@@ -1,6 +1,6 @@
 ---
 topicId: MY-EMP-0027
-title: "Employee, gig worker or independent contractor?"
+title: "Pekerja, pekerja gig atau kontraktor bebas?"
 seoTitle: "Pekerja vs kontraktor Malaysia — ujian tiga hala"
 slug: "employee-vs-contractor-malaysia"
 category: "employment"

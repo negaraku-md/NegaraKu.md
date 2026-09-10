@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0060
-title: "Tax for Freelancers, Gig Workers and Creators in Malaysia"
+title: "Cukai untuk Pekerja Bebas, Pekerja Gig dan Pencipta Kandungan di Malaysia"
 seoTitle: "Freelancer and Gig Worker Tax Malaysia"
 slug: "freelancer-and-gig-tax"
 category: "taxation"

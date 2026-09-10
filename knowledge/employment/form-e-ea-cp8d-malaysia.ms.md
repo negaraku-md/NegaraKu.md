@@ -1,6 +1,6 @@
 ---
 topicId: MY-EMP-0007
-title: "Form E, Form EA and CP8D: The Employer Filing Trio"
+title: "Borang E, Borang EA dan CP8D: Trio Pemfailan Majikan"
 seoTitle: "Form E, EA and CP8D Malaysia: Deadlines"
 slug: "form-e-ea-cp8d-malaysia"
 category: "employment"

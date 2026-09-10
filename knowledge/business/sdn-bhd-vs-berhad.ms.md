@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0024
-title: "Sdn Bhd vs Berhad: The 50-Shareholder Ceiling"
+title: "Sdn Bhd lawan Berhad: Had 50 Pemegang Saham"
 seoTitle: "Sdn Bhd vs Berhad Malaysia: What Forces Conversion"
 slug: "sdn-bhd-vs-berhad"
 category: "business"

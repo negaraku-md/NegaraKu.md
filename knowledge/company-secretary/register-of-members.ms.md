@@ -1,6 +1,6 @@
 ---
 topicId: MY-CS-0019
-title: "Register of Members: Two Duties, Two Separate Clocks"
+title: "Daftar Ahli: Dua Kewajipan, Dua Jam Berasingan"
 slug: "register-of-members"
 category: "company-secretary"
 subcategory: ["statutory-registers"]

@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0045
-title: "Corporate Rescue in Malaysia — Before You Close the Company"
+title: "Penyelamatan Korporat di Malaysia — Sebelum Anda Menutup Syarikat"
 seoTitle: "Penyelamatan Korporat Malaysia — JM, Skim, CVA"
 slug: "corporate-rescue-malaysia"
 category: "business"

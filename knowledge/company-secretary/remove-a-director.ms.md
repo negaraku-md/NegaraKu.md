@@ -1,6 +1,6 @@
 ---
 topicId: MY-CS-0031
-title: "Removing a Director: Why a Written Resolution Will Not Work"
+title: "Menyingkirkan Pengarah: Mengapa Resolusi Bertulis Tidak Berkesan"
 seoTitle: "Singkirkan Pengarah Malaysia: s.206 dan Perangkap s.297"
 slug: "remove-a-director"
 category: "company-secretary"

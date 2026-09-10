@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0071
-title: "Trademark Classes and MyIPO Fees"
+title: "Kelas Cap Dagangan dan Yuran MyIPO"
 seoTitle: "Trademark Classes and Fees Malaysia (MyIPO)"
 slug: "trademark-classes-fees-malaysia"
 category: "business"

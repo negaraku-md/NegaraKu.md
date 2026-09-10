@@ -1,6 +1,6 @@
 ---
 topicId: MY-BIZ-0069
-title: "Arbitration or Court? Choosing a Dispute Clause Under Malaysian Law"
+title: "Timbang Tara atau Mahkamah? Memilih Klausa Pertikaian di Bawah Undang-Undang Malaysia"
 seoTitle: "Timbang Tara lwn Litigasi Malaysia: AIAC dan Akta 646"
 socialTitle: "Malaysia menghapuskan rayuan atas persoalan undang-undang pada 2018. Kebanyakan klausa masih menganggap ia wujud."
 slug: "arbitration-vs-litigation-malaysia"

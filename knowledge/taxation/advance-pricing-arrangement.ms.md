@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0120
-title: "Advance Pricing Arrangement in Malaysia — Who Qualifies, What It Costs and How Long the Clocks Are"
+title: "Advance Pricing Arrangement di Malaysia — Siapa Layak, Berapa Kosnya dan Berapa Lama Tempohnya"
 seoTitle: "Advance Pricing Arrangement Malaysia — Rules, Fees, Rollback"
 slug: "advance-pricing-arrangement"
 category: "taxation"
