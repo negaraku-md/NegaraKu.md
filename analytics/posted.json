@@ -3,42 +3,5 @@
     "startedAt": null,
     "note": "Backlog poster manifest — records each (article#lang) already posted so the queue never re-posts it. startedAt is set on the first real cron post and drives the warm-up ramp."
   },
-  "posted": {
-    "knowledge/business/cradle-cip-grant#ms": {
-      "at": "2026-09-10T17:49:47.196Z",
-      "story": "1227711683752433_122126987853390559"
-    },
-    "knowledge/business/cradle-cip-grant#en": {
-      "at": "2026-09-10T17:49:51.134Z",
-      "story": "1334373156431426_122106181791464751"
-    },
-    "knowledge/business/cradle-cip-grant#zh": {
-      "at": "2026-09-10T17:49:54.456Z",
-      "story": "1382294921622880_122095051371480386"
-    },
-    "knowledge/money-daily-life/akpk-debt-management#ms": {
-      "at": "2026-09-10T17:49:58.785Z",
-      "story": "1227711683752433_122126987967390559"
-    },
-    "knowledge/money-daily-life/akpk-debt-management#en": {
-      "at": "2026-09-10T17:50:01.970Z",
-      "story": "1334373156431426_122106182007464751"
-    },
-    "knowledge/money-daily-life/akpk-debt-management#zh": {
-      "at": "2026-09-10T17:50:06.430Z",
-      "story": "1382294921622880_122095051605480386"
-    },
-    "knowledge/law/companies-act-2016#ms": {
-      "at": "2026-09-10T17:50:09.687Z",
-      "story": "1227711683752433_122126988249390559"
-    },
-    "knowledge/law/companies-act-2016#en": {
-      "at": "2026-09-10T17:50:13.168Z",
-      "story": "1334373156431426_122106182217464751"
-    },
-    "knowledge/law/companies-act-2016#zh": {
-      "at": "2026-09-10T17:50:16.580Z",
-      "story": "1382294921622880_122095051953480386"
-    }
-  }
+  "posted": {}
 }
