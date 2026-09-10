@@ -7,8 +7,7 @@
 //    trigger is currently paused during this backlog rollout).
 //  • This poster drains the ~1,000-article backlog as a native photo (FB
 //    favours photos over off-site link previews, so reach holds) whose caption
-//    still carries a tappable, UTM-tagged link — one tap to the article. The
-//    same link is dropped in the first comment as a backup surface.
+//    carries a tappable, UTM-tagged link — one tap to the article.
 //  • Attribution is preserved: the link is UTM-tagged (utm_source=facebook).
 //
 // Invoked with article files/bases (the daily queue passes the day's batch), or
@@ -121,9 +120,8 @@ function buildPost(file, data, lang, prefix) {
   // Value-first: title hook, the article's own summary, a comment-prompt
   // question, then a TAPPABLE article link (UTM-tagged, so it's attributed even
   // when FB strips the referrer), then hashtags. The link is in the caption body
-  // so readers reach the article in one tap — the post stays a native photo
-  // (the photo is the attachment), so it keeps a photo's reach. The same link
-  // is also dropped in the first comment as a backup surface.
+  // so readers reach the article in one tap, and the post stays a native photo
+  // (the photo is the attachment), so it keeps a photo's reach.
   const caption = [data.title, '', data.summary, '', prompt, '', CTA[lang], link, '', hashtags(data)].join('\n');
   return { image, caption, link };
 }
@@ -152,7 +150,7 @@ async function preview(t) {
     `[fb-backlog] ${DRY_RUN ? 'DRY_RUN' : 'no credentials'} — would post [${t.lang}] → page ${PAGES[t.lang]}` +
     `${live ? '' : '  ⚠️ URL NOT LIVE — would be SKIPPED'}\n` +
     `  photo:   ${p.image}\n` +
-    `  comment: ${p.link}\n` +
+    `  link:    ${p.link}\n` +
     `  caption:\n${p.caption.split('\n').map((l) => '    | ' + l).join('\n')}\n`,
   );
 }
@@ -174,7 +172,9 @@ async function post(t) {
     console.error(`[fb-backlog] FAILED [${t.lang}] mint token for page ${pageId}:`, err.message);
     return false;
   }
-  // 1) Native photo post — FB fetches the OG card from its public URL.
+  // Native photo post — FB fetches the OG card from its public URL. The caption
+  // carries the tappable article link, so no separate comment is needed (and
+  // commenting would require pages_manage_engagement, which the token lacks).
   const photoBody = new URLSearchParams({ url: p.image, caption: p.caption, published: 'true', access_token: pageToken });
   const photoRes = await fetch(`${GRAPH}/${pageId}/photos`, { method: 'POST', body: photoBody });
   const photoJson = await photoRes.json().catch(() => ({}));
@@ -182,18 +182,8 @@ async function post(t) {
     console.error(`[fb-backlog] FAILED [${t.lang}] photo ${p.image}:`, JSON.stringify(photoJson));
     return false;
   }
-  // A /photos post returns both the photo id and the feed story's post_id; the
-  // comment must go on the story.
+  // /photos returns the photo id and the feed story's post_id.
   const storyId = photoJson.post_id || photoJson.id;
-  // 2) Link in the first comment — keeps the external link out of the post body
-  //    (reach) while still routing UTM-tagged clicks. A comment failure is not
-  //    fatal: the post is already live, so log it and count the post as done.
-  const cmtBody = new URLSearchParams({ message: p.link, access_token: pageToken });
-  const cmtRes = await fetch(`${GRAPH}/${storyId}/comments`, { method: 'POST', body: cmtBody });
-  if (!cmtRes.ok) {
-    const cmtJson = await cmtRes.json().catch(() => ({}));
-    console.warn(`[fb-backlog] posted photo but COMMENT failed [${t.lang}] ${storyId}:`, JSON.stringify(cmtJson));
-  }
   console.log(`[fb-backlog] posted [${t.lang}] ${p.image} → ${storyId}`);
   return storyId;
 }

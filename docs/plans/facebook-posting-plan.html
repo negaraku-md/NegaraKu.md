@@ -154,7 +154,7 @@
     <div class="grid3">
       <div class="card pad"><h3 class="ch">Native photo</h3><p class="sm">Every post is the article’s own OG card, uploaded as a real photo. Facebook favours native images over off-site link previews, and the card already carries the title, breadcrumb and summary.</p></div>
       <div class="card pad"><h3 class="ch">Value-first caption</h3><p class="sm">Title as the hook, the article’s summary as the payoff, then a pillar-specific question that invites a reply — comments are Facebook’s strongest reach signal.</p></div>
-      <div class="card pad"><h3 class="ch">Tappable link in caption</h3><p class="sm">The article link is a tappable line in the caption — one tap to the site — and also dropped in the first comment as backup. The photo stays the attachment, so reach holds; the link is UTM-attributed.</p></div>
+      <div class="card pad"><h3 class="ch">Tappable link in caption</h3><p class="sm">The article link is a tappable line in the caption — one tap to the site. The photo stays the attachment (not an off-site link preview), so reach holds; the link is UTM-attributed.</p></div>
     </div>
   </section>
 
@@ -174,12 +174,11 @@
           <span class="tags">#Malaysia #NegaraKu #Business #Startup #Grant</span>
         </div>
         <div class="fbcard"><div class="img"><span>OG CARD — article title · breadcrumb · summary</span></div></div>
-        <div class="fbcomment">Backup link in first comment · <code>negaraku.md/en/business/cradle-cip-grant/?utm_source=facebook&amp;utm_medium=social</code></div>
       </div>
       <div class="callouts">
         <div class="callout"><div class="k">Photo</div><div class="v">The per-language OG card at <code style="font-family:'IBM Plex Mono',monospace;font-size:.78rem">/og/&lt;lang&gt;/&lt;cat&gt;/&lt;slug&gt;.png</code> — uploaded via the Graph API, so it renders even when link scraping is throttled.</div></div>
         <div class="callout"><div class="k">Prompt</div><div class="v">One of three questions, chosen by the article’s pillar (Doing Business / Living / Understand) and written in the post’s language.</div></div>
-        <div class="callout"><div class="k">Link</div><div class="v">A tappable, canonical trailing-slash URL (no 301 hop) in the caption — one tap to the article — with <code style="font-family:'IBM Plex Mono',monospace;font-size:.78rem">utm_source=facebook</code> so the on-site channel classifier books it as Social. Repeated in the first comment as backup.</div></div>
+        <div class="callout"><div class="k">Link</div><div class="v">A tappable, canonical trailing-slash URL (no 301 hop) in the caption — one tap to the article — with <code style="font-family:'IBM Plex Mono',monospace;font-size:.78rem">utm_source=facebook</code> so the on-site channel classifier books it as Social.</div></div>
         <div class="callout"><div class="k">Safety</div><div class="v">A 200-precheck confirms the page is live before posting, so a link is never posted that Facebook would scrape as a 404.</div></div>
       </div>
     </div>
