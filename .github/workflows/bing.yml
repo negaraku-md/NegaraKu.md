@@ -1,0 +1,44 @@
+name: Archive Bing Webmaster
+
+# Pulls Bing Webmaster Tools performance (totals + top queries, months merged
+# forward) into analytics/bing.json. Bing's index also backs Copilot and
+# ChatGPT-search, so this doubles as partial AI-search coverage. Weekly + on
+# demand. Commits the snapshot; deploy.yml ignores analytics/**.
+
+on:
+  schedule:
+    - cron: '0 6 * * 1' # Mondays 06:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: bing-webmaster
+  cancel-in-progress: false
+
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+      - name: Pull Bing Webmaster
+        env:
+          BING_API_KEY: ${{ secrets.BING_API_KEY }}
+        run: node scripts/pull-bing.mjs
+      - name: Commit the snapshot if it changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add analytics/bing.json 2>/dev/null || true
+          if git diff --cached --quiet -- analytics/bing.json; then
+            echo "Bing snapshot unchanged — nothing to commit"
+          else
+            git commit -m "chore(analytics): archive Bing Webmaster [skip deploy]"
+            git push
+          fi

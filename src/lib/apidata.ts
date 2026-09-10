@@ -145,6 +145,21 @@ export function getSearchConsole(): SearchConsole {
   return read<SearchConsole>('gsc.json', {});
 }
 
+// Bing Webmaster archive (analytics/bing.json) — Bing's index also backs Copilot
+// and ChatGPT-search. Same byMonth/latest shape as GSC, minus the category split.
+export type Bing = {
+  updatedAt?: string;
+  site?: string;
+  byMonth?: Record<string, { clicks: number; impressions: number }>;
+  latest?: {
+    totals?: { clicks: number; impressions: number };
+    topQueries?: { query: string; clicks: number; impressions: number; position: number }[];
+  };
+};
+export function getBing(): Bing {
+  return read<Bing>('bing.json', {});
+}
+
 // Article keys ("category/slug") ranked by reader analytics with a recency
 // fallback, top N. Lets a pair of strips (Most read + Latest) share one ranking
 // so the Latest strip can exclude what Most read already showed — matches the

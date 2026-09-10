@@ -3,7 +3,7 @@ import type { Locale } from '@/lib/categories';
 import { getCategory, getPillar, getPillarDef, PILLARS } from '@/lib/categories';
 import { subcatLabel } from '@/lib/subcategories';
 import { corpusTopics, isPublishable } from '@/lib/content';
-import { getDashboard, getAnalytics, getFacebook, getSearchConsole } from '@/lib/apidata';
+import { getDashboard, getAnalytics, getFacebook, getSearchConsole, getBing } from '@/lib/apidata';
 import { t, localePath } from '@/lib/i18n';
 import PageHero from './PageHero.astro';
 
@@ -221,6 +221,14 @@ const engPillarMax = Math.max(1, ...engPillars.map((p) => p.avg));
 const engTop = engPagesRaw.sort((a, b) => b.avgSeconds - a.avgSeconds).slice(0, 8)
   .map((x) => ({ ...x, title: titleByKey.get(x.key) ?? x.key }));
 const engTopMax = Math.max(1, ...engTop.map((x) => x.avgSeconds));
+
+// Bing Webmaster (archive: analytics/bing.json) — also backs Copilot & ChatGPT-search.
+const bing = getBing();
+const bingT = bing.latest?.totals;
+const bingHas = !!(bingT && (bingT.impressions || bingT.clicks));
+const bingQueries = (bing.latest?.topQueries ?? []).slice(0, 8);
+const bingQueryMax = Math.max(1, ...bingQueries.map((q) => q.impressions));
+const bingMonths = Object.keys(bing.byMonth ?? {}).length;
 ---
 
 <PageHero
@@ -623,6 +631,41 @@ const engTopMax = Math.max(1, ...engTop.map((x) => x.avgSeconds));
               </div>
             </div>
           </div>
+        </>
+      )}
+    </div>
+  </div>
+</section>
+
+<section class="container block">
+  <div class="psec">
+    <header><span>{L('Bing & Copilot', 'Bing & Copilot', 'Bing 与 Copilot')}</span></header>
+    <div class="psec-body">
+      {!bingHas ? (
+        <p class="hint">{L(
+          'Belum ada data Bing — muncul selepas laman ditambah ke Bing Webmaster Tools (import dari Google) dan kerja arkib dijalankan.',
+          'No Bing data yet — appears after the site is added to Bing Webmaster Tools (import from Google) and the archive runs.',
+          '暂无 Bing 数据——将网站加入 Bing 网站管理员工具（从 Google 导入）并运行归档后显示。',
+        )}</p>
+      ) : (
+        <>
+          <p class="hint">{L(
+            `Bing (juga indeks Copilot / ChatGPT-search): ${bingT.impressions.toLocaleString()} tera · ${bingT.clicks.toLocaleString()} klik. ${bingMonths} bulan diarkibkan.`,
+            `Bing (also the Copilot / ChatGPT-search index): ${bingT.impressions.toLocaleString()} impressions · ${bingT.clicks.toLocaleString()} clicks. ${bingMonths} months archived.`,
+            `Bing（也是 Copilot / ChatGPT-search 的索引）：${bingT.impressions.toLocaleString()} 次展示 · ${bingT.clicks.toLocaleString()} 次点击。已归档 ${bingMonths} 个月。`,
+          )}</p>
+          <p class="ai-h">{L('Carian teratas', 'Top queries', '热门搜索')}</p>
+          {bingQueries.length === 0 ? <p class="hint" style="margin:0">—</p> : (
+            <div class="cov-cats ai-top">
+              {bingQueries.map((q) => (
+                <div class="cov-row ai-row">
+                  <span class="cov-name" title={q.query}>{q.query}</span>
+                  <span class="track"><span class="fill" style={`width:${Math.max(3, Math.round((q.impressions / bingQueryMax) * 100))}%`} /></span>
+                  <span class="cov-num">{q.impressions.toLocaleString()}</span>
+                </div>
+              ))}
+            </div>
+          )}
         </>
       )}
     </div>
