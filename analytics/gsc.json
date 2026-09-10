@@ -1,0 +1,294 @@
+{
+  "updatedAt": "2026-09-10T13:10:03.942Z",
+  "property": "sc-domain:negaraku.md",
+  "byMonth": {
+    "2026-09": {
+      "clicks": 0,
+      "impressions": 261
+    }
+  },
+  "latest": {
+    "window": {
+      "start": "2026-06-12",
+      "end": "2026-09-07"
+    },
+    "totals": {
+      "clicks": 0,
+      "impressions": 261,
+      "ctr": 0,
+      "position": 9.8
+    },
+    "byCategory": {
+      "agriculture": {
+        "clicks": 0,
+        "impressions": 12
+      },
+      "business": {
+        "clicks": 0,
+        "impressions": 45
+      },
+      "company-secretary": {
+        "clicks": 0,
+        "impressions": 23
+      },
+      "doing-business": {
+        "clicks": 0,
+        "impressions": 5
+      },
+      "employment": {
+        "clicks": 0,
+        "impressions": 6
+      },
+      "accounting": {
+        "clicks": 0,
+        "impressions": 5
+      },
+      "arts-culture": {
+        "clicks": 0,
+        "impressions": 3
+      },
+      "audit": {
+        "clicks": 0,
+        "impressions": 1
+      },
+      "companies": {
+        "clicks": 0,
+        "impressions": 1
+      },
+      "cost-of-living": {
+        "clicks": 0,
+        "impressions": 2
+      },
+      "economy": {
+        "clicks": 0,
+        "impressions": 5
+      },
+      "education": {
+        "clicks": 0,
+        "impressions": 4
+      },
+      "energy": {
+        "clicks": 0,
+        "impressions": 5
+      },
+      "finance": {
+        "clicks": 0,
+        "impressions": 4
+      },
+      "food-lifestyle": {
+        "clicks": 0,
+        "impressions": 3
+      },
+      "glossary": {
+        "clicks": 0,
+        "impressions": 4
+      },
+      "government": {
+        "clicks": 0,
+        "impressions": 12
+      },
+      "healthcare": {
+        "clicks": 0,
+        "impressions": 1
+      },
+      "international": {
+        "clicks": 0,
+        "impressions": 1
+      },
+      "law": {
+        "clicks": 0,
+        "impressions": 23
+      },
+      "malaysia": {
+        "clicks": 0,
+        "impressions": 17
+      },
+      "money-daily-life": {
+        "clicks": 0,
+        "impressions": 13
+      },
+      "property": {
+        "clicks": 0,
+        "impressions": 8
+      },
+      "public-safety": {
+        "clicks": 0,
+        "impressions": 13
+      },
+      "settling-in": {
+        "clicks": 0,
+        "impressions": 8
+      },
+      "states": {
+        "clicks": 0,
+        "impressions": 6
+      },
+      "taxation": {
+        "clicks": 0,
+        "impressions": 21
+      },
+      "technology": {
+        "clicks": 0,
+        "impressions": 3
+      },
+      "tourism": {
+        "clicks": 0,
+        "impressions": 5
+      },
+      "environment": {
+        "clicks": 0,
+        "impressions": 2
+      },
+      "transport": {
+        "clicks": 0,
+        "impressions": 2
+      }
+    },
+    "topQueries": [
+      {
+        "query": "\"mdec\" -\"mdec:ln\" -\"ufc\" -\"emulation\" -\"fish\" -\"fishing\" -site:reddit.com -site:twitter.com -site:x.com -site:wykop.pl -site:tripadvisor.com -site:youtube.com -site:yelp.com -site:booking.com -site:facebook.com -site:instagram.com -site:tiktok.com",
+        "clicks": 0,
+        "impressions": 1,
+        "position": 4
+      },
+      {
+        "query": "%sime darby plantation renamed sd guthrie berhad 2023 2024",
+        "clicks": 0,
+        "impressions": 1,
+        "position": 1
+      },
+      {
+        "query": "109b",
+        "clicks": 0,
+        "impressions": 1,
+        "position": 8
+      },
+      {
+        "query": "akta in english",
+        "clicks": 0,
+        "impressions": 1,
+        "position": 7
+      },
+      {
+        "query": "audit exemption malaysia",
+        "clicks": 0,
+        "impressions": 1,
+        "position": 89
+      },
+      {
+        "query": "bunga raya reason",
+        "clicks": 0,
+        "impressions": 1,
+        "position": 4
+      },
+      {
+        "query": "dewan undangan negeri in english",
+        "clicks": 0,
+        "impressions": 1,
+        "position": 9
+      },
+      {
+        "query": "gasing",
+        "clicks": 0,
+        "impressions": 1,
+        "position": 60
+      },
+      {
+        "query": "investment holding company",
+        "clicks": 0,
+        "impressions": 1,
+        "position": 66
+      },
+      {
+        "query": "malaysia official languages",
+        "clicks": 0,
+        "impressions": 1,
+        "position": 50
+      },
+      {
+        "query": "malaysia timeline",
+        "clicks": 0,
+        "impressions": 1,
+        "position": 54
+      },
+      {
+        "query": "pdrm是什么",
+        "clicks": 0,
+        "impressions": 1,
+        "position": 11
+      },
+      {
+        "query": "project funding malaysia",
+        "clicks": 0,
+        "impressions": 1,
+        "position": 64
+      },
+      {
+        "query": "real property gains tax malaysia",
+        "clicks": 0,
+        "impressions": 1,
+        "position": 100
+      },
+      {
+        "query": "royal malaysia police emergency number 999",
+        "clicks": 0,
+        "impressions": 1,
+        "position": 1
+      },
+      {
+        "query": "sdn bhd registration malaysia",
+        "clicks": 0,
+        "impressions": 1,
+        "position": 99
+      },
+      {
+        "query": "skim jaminan pembiayaan perniagaan",
+        "clicks": 0,
+        "impressions": 4,
+        "position": 5.5
+      },
+      {
+        "query": "statutory declaration",
+        "clicks": 0,
+        "impressions": 1,
+        "position": 79
+      },
+      {
+        "query": "statutory declaration act malaysia",
+        "clicks": 0,
+        "impressions": 2,
+        "position": 19
+      },
+      {
+        "query": "statutory declaration form malaysia",
+        "clicks": 0,
+        "impressions": 1,
+        "position": 47
+      },
+      {
+        "query": "subsidiary in malaysia",
+        "clicks": 0,
+        "impressions": 1,
+        "position": 45
+      },
+      {
+        "query": "suruhanjaya syarikat malaysia",
+        "clicks": 0,
+        "impressions": 1,
+        "position": 30
+      },
+      {
+        "query": "what language do they speak in malaysia",
+        "clicks": 0,
+        "impressions": 1,
+        "position": 49
+      },
+      {
+        "query": "马来西亚报案纸",
+        "clicks": 0,
+        "impressions": 1,
+        "position": 10
+      }
+    ]
+  }
+}
