@@ -130,11 +130,14 @@ async function pageTokenFor(pageId) {
 
 // Turn any string into a hyphen-safe PascalCase hashtag: "arts-culture" →
 // "#ArtsCulture", "holding company" → "#HoldingCompany". (Facebook ends a tag at
-// the first hyphen/space, so #arts-culture would post as just #arts.)
+// the first hyphen/space, so #arts-culture would post as just #arts.) Unicode-aware
+// so localized tags survive: Chinese "控股公司" → "#控股公司", Malay "cukai" → "#Cukai"
+// (CJK has no word breaks, so it stays one token; \p{L}\p{N} keeps every script,
+// collapsing only punctuation/space, which is what FB would otherwise cut the tag at).
 function hashtag(s) {
   const t = String(s)
     .replace(/^#/, '')
-    .replace(/[^a-zA-Z0-9]+/g, ' ')
+    .replace(/[^\p{L}\p{N}]+/gu, ' ')
     .trim()
     .split(' ')
     .filter(Boolean)
