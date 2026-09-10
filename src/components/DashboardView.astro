@@ -3,7 +3,7 @@ import type { Locale } from '@/lib/categories';
 import { getCategory, getPillar, getPillarDef, PILLARS } from '@/lib/categories';
 import { subcatLabel } from '@/lib/subcategories';
 import { corpusTopics, isPublishable } from '@/lib/content';
-import { getDashboard } from '@/lib/apidata';
+import { getDashboard, getAnalytics } from '@/lib/apidata';
 import { t, localePath } from '@/lib/i18n';
 import PageHero from './PageHero.astro';
 
@@ -94,6 +94,41 @@ const sensRows = sensOrder
   .map((k) => ({ key: k, ...SENS_META[k], count: sensMix.get(k) ?? 0, pct: Math.round(((sensMix.get(k) ?? 0) / totalTopics) * 100) }));
 const sensitiveCount = totalTopics - (sensMix.get('none') ?? 0);
 const avgSources = sourced ? (sources / sourced).toFixed(1) : '0';
+
+// AI-crawler activity. The edge Worker tags every hit's bucket (readers/search/
+// ai) + the crawler's canonical name; this rolls the per-page `ai` buckets up
+// across the whole corpus — by crawler, by pillar, and the most-crawled
+// articles — for the "AI crawlers" panel. All-time (snapshot + live tail).
+const analytics = getAnalytics();
+const titleByKey = new Map<string, string>();
+for (const r of d.registry) titleByKey.set(`${r.category}/${r.slug}`, r.title[locale] ?? r.title.ms);
+const aiTotalFor = (b: typeof analytics[string]['ai']) =>
+  b == null ? 0 : typeof b === 'number' ? b : (b.total ?? 0);
+let aiTotal = 0;
+let aiPages = 0;
+const aiByBot = new Map<string, number>();
+const aiByPillar = new Map<string, number>();
+const aiTopRaw: { key: string; total: number }[] = [];
+for (const [key, row] of Object.entries(analytics)) {
+  const total = aiTotalFor(row.ai);
+  if (total <= 0) continue;
+  aiTotal += total;
+  aiPages++;
+  aiTopRaw.push({ key, total });
+  const byBot = row.ai && typeof row.ai !== 'number' ? (row.ai.byBot ?? {}) : {};
+  for (const [bot, n] of Object.entries(byBot)) aiByBot.set(bot, (aiByBot.get(bot) ?? 0) + n);
+  const pillar = getPillar(key.split('/')[0]) ?? 'understand';
+  aiByPillar.set(pillar, (aiByPillar.get(pillar) ?? 0) + total);
+}
+const aiBots = [...aiByBot.entries()].sort((a, b) => b[1] - a[1]).map(([bot, n]) => ({ bot, n }));
+const aiBotMax = Math.max(1, ...aiBots.map((b) => b.n));
+const aiPillars = PILLARS.map((pd) => ({ id: pd.id, name: pd.name[locale], icon: pd.icon, n: aiByPillar.get(pd.id) ?? 0 }))
+  .filter((p) => p.n > 0)
+  .sort((a, b) => b.n - a.n);
+const aiPillarMax = Math.max(1, ...aiPillars.map((p) => p.n));
+const aiTop = aiTopRaw.sort((a, b) => b.total - a.total).slice(0, 8)
+  .map((x) => ({ ...x, title: titleByKey.get(x.key) ?? x.key }));
+const aiTopMax = Math.max(1, ...aiTop.map((x) => x.total));
 ---
 
 <PageHero
@@ -248,6 +283,63 @@ const avgSources = sourced ? (sources / sourced).toFixed(1) : '0';
   </div>
 </section>
 
+<section class="container block">
+  <div class="psec">
+    <header><span>{L('Perayap AI', 'AI crawlers', 'AI 爬虫')}</span></header>
+    <div class="psec-body">
+      {aiTotal === 0 ? (
+        <p class="hint">{L('Belum ada lawatan perayap AI direkodkan lagi.', 'No AI-crawler visits recorded yet.', '尚未记录到 AI 爬虫访问。')}</p>
+      ) : (
+        <>
+          <p class="hint">
+            {L(
+              `Perayap AI/LLM telah mengambil laman ini ${aiTotal.toLocaleString()} kali merentas ${aiPages.toLocaleString()} artikel, daripada ${aiBots.length} perayap berbeza — sepanjang masa.`,
+              `AI/LLM crawlers have fetched this site ${aiTotal.toLocaleString()} times across ${aiPages.toLocaleString()} articles, from ${aiBots.length} distinct crawlers — all-time.`,
+              `AI/LLM 爬虫已抓取本站 ${aiTotal.toLocaleString()} 次，覆盖 ${aiPages.toLocaleString()} 篇文章，来自 ${aiBots.length} 个不同的爬虫——累计。`,
+            )}
+          </p>
+          <div class="ai-grid">
+            <div>
+              <p class="ai-h">{L('Mengikut perayap', 'By crawler', '按爬虫')}</p>
+              <div class="cov-cats">
+                {aiBots.map((b) => (
+                  <div class="cov-row ai-row">
+                    <span class="cov-name" title={b.bot}>{b.bot}</span>
+                    <span class="track"><span class="fill" style={`width:${Math.max(3, Math.round((b.n / aiBotMax) * 100))}%`} /></span>
+                    <span class="cov-num">{b.n.toLocaleString()}</span>
+                  </div>
+                ))}
+              </div>
+            </div>
+            <div>
+              <p class="ai-h">{L('Mengikut tunjang', 'By pillar', '按支柱')}</p>
+              <div class="cov-cats">
+                {aiPillars.map((p) => (
+                  <div class="cov-row ai-row">
+                    <span class="cov-name">{p.icon} {p.name}</span>
+                    <span class="track"><span class="fill" style={`width:${Math.max(3, Math.round((p.n / aiPillarMax) * 100))}%`} /></span>
+                    <span class="cov-num">{p.n.toLocaleString()}</span>
+                  </div>
+                ))}
+              </div>
+            </div>
+          </div>
+          <p class="ai-h ai-h-top">{L('Artikel paling banyak dirayapi', 'Most-crawled articles', '被抓取最多的文章')}</p>
+          <div class="cov-cats ai-top">
+            {aiTop.map((a) => (
+              <a class="cov-row" href={localePath(`/${a.key}`, locale)}>
+                <span class="cov-name" title={a.title}>{a.title}</span>
+                <span class="track"><span class="fill" style={`width:${Math.max(3, Math.round((a.total / aiTopMax) * 100))}%`} /></span>
+                <span class="cov-num">{a.total.toLocaleString()}</span>
+              </a>
+            ))}
+          </div>
+        </>
+      )}
+    </div>
+  </div>
+</section>
+
 <section class="container block two-col">
   <div class="psec">
     <header><span>{L('Kitaran hayat', 'Lifecycle', '生命周期')}</span></header>
@@ -360,6 +452,13 @@ const avgSources = sourced ? (sources / sourced).toFixed(1) : '0';
   .cov-name { font-size: 0.82rem; color: var(--ink-soft); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
   .cov-row:hover .cov-name { color: var(--gold); }
   .cov-num { font-size: 0.8rem; color: var(--muted); text-align: right; font-variant-numeric: tabular-nums; }
+  /* AI crawlers panel — reuses .cov-row/.track, wider name + number columns */
+  .ai-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1.4rem; }
+  .ai-h { margin: 0 0 0.55rem; font-size: 0.78rem; font-weight: 800; color: var(--muted); text-transform: uppercase; letter-spacing: 0.04em; }
+  .ai-h-top { margin-top: 1.15rem; }
+  .ai-grid .ai-row { grid-template-columns: 9.5rem 1fr 3.4rem; }
+  .ai-top .cov-row { grid-template-columns: minmax(0, 1fr) 5rem 3.4rem; }
+  @media (max-width: 800px) { .ai-grid { grid-template-columns: 1fr; } }
 
   /* Lifecycle ladder */
   .ladder { list-style: none; padding: 0; margin: 0; display: grid; gap: 0.15rem; }
