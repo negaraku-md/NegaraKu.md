@@ -260,7 +260,7 @@ const avgSources = sourced ? (sources / sourced).toFixed(1) : '0';
         )}
       </p>
       <ol class="ladder">
-        {(['draft', 'in-review', 'reviewed', 'published'] as const).map((st) => (
+        {(['draft', 'in-review', 'reviewed', 'published', 'archived'] as const).map((st) => (
           <li class={d.statusDist[st] ? 'has' : ''} data-status={st}>
             <span class="ld-dot" />
             <span class="ld-name">{t(`status.${st}`, locale)}</span>
@@ -270,8 +270,8 @@ const avgSources = sourced ? (sources / sourced).toFixed(1) : '0';
       </ol>
       <p class="hint">
         {d.needsReview.total === 0
-          ? L('Tiada draf tertunggak — semua topik telah disemak dan diterbitkan.', 'No outstanding drafts — every topic is reviewed and published.', '没有待处理的草稿——所有主题均已审阅并发布。')
-          : L(`${d.needsReview.total} draf menunggu semakan.`, `${d.needsReview.total} drafts awaiting review.`, `${d.needsReview.total} 篇草稿待审阅。`)}
+          ? L('Setiap topik dalam saluran telah diterbitkan.', 'Every topic in the pipeline is published.', '管道中的每个主题均已发布。')
+          : L(`${d.needsReview.total} topik belum diterbitkan.`, `${d.needsReview.total} topic${d.needsReview.total === 1 ? '' : 's'} not yet published.`, `${d.needsReview.total} 个主题尚未发布。`)}
       </p>
     </div>
   </div>
@@ -376,6 +376,9 @@ const avgSources = sourced ? (sources / sourced).toFixed(1) : '0';
   .ld-dot { width: 0.6rem; height: 0.6rem; border-radius: 50%; background: var(--surface-2); border: 1px solid var(--muted); flex: none; }
   .ladder li.has .ld-dot { background: var(--gold); border-color: var(--gold); }
   .ladder li[data-status='published'].has .ld-dot { background: #4ade80; border-color: #4ade80; }
+  /* Archived is terminal/retired, not active work — a muted dot, never gold. */
+  .ladder li[data-status='archived'].has .ld-dot { background: var(--muted); border-color: var(--muted); }
+  .ladder li[data-status='archived'] { opacity: 0.7; }
   .ld-name { flex: 1; font-size: 0.9rem; }
   .ld-num { font-variant-numeric: tabular-nums; font-weight: 800; color: var(--ink); }
 

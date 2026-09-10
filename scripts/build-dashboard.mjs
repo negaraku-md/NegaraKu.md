@@ -103,10 +103,12 @@ async function main() {
   }
   const publishedTotal = SITE_LANGS.reduce((n, l) => n + publishedByLang[l], 0);
 
-  // Editorial backlog — master topics that exist but are NOT yet live (the 36
-  // in-review gap drafts, plus any unreviewed sensitive drafts). Reported as a
-  // distinct "in review" figure so it is visible but never confused with the
-  // live corpus size. One row per topic, ungated, minus the live ones.
+  // Editorial backlog — master topics that exist but are NOT yet live: the
+  // pre-publish pipeline (draft / in-review / reviewed), plus any unreviewed
+  // sensitive drafts. ARCHIVED is excluded — it is a terminal, retired state,
+  // not pending work, so counting it here (or against the publish rate) was
+  // wrong. Reported as a distinct figure so it is visible but never confused
+  // with the live corpus size. One row per topic, ungated, minus live + archived.
   const allMasterByKey = new Map();
   for (const a of allArticles) {
     const isMaster = a.lang === (a.masterLanguage ?? a.lang);
@@ -115,7 +117,9 @@ async function main() {
       allMasterByKey.set(a.key, a);
     }
   }
-  const pendingMasters = [...allMasterByKey.values()].filter((a) => !isPublishable(a));
+  const pendingMasters = [...allMasterByKey.values()].filter(
+    (a) => !isPublishable(a) && a.status !== 'archived',
+  );
   const pendingTopics = pendingMasters.length;
 
   // Lifecycle ladder distribution = the whole editorial PIPELINE (every status),
@@ -180,9 +184,9 @@ async function main() {
       // the work in flight is actually live?" — 1015 live of 1051 in the pipeline.
       score: pct(masterArticles, masterArticles + pendingTopics),
       detail: {
-        ms: `${masterArticles} langsung · ${pendingTopics} dalam semakan`,
-        en: `${masterArticles} live · ${pendingTopics} in review`,
-        zh: `${masterArticles} 已上线 · ${pendingTopics} 审核中`,
+        ms: `${masterArticles} langsung · ${pendingTopics} belum diterbitkan`,
+        en: `${masterArticles} live · ${pendingTopics} not yet published`,
+        zh: `${masterArticles} 已上线 · ${pendingTopics} 尚未发布`,
       },
     },
     dna: {
