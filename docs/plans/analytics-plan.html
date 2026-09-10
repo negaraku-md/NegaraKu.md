@@ -156,6 +156,8 @@
 
   .road li.done { border-left-color: var(--have); }
   .tag.done { color: var(--have); border-color: color-mix(in srgb, var(--have) 45%, transparent); background: color-mix(in srgb, var(--have) 12%, transparent); }
+  .road li.parked { border-left-color: var(--muted); opacity: .72; }
+  .tag.parked { color: var(--muted); border-color: color-mix(in srgb, var(--muted) 45%, transparent); background: color-mix(in srgb, var(--muted) 12%, transparent); }
   @media (max-width: 720px) {
     .layers, .principles { grid-template-columns: 1fr 1fr; }
     .cols { grid-template-columns: 1fr; }
@@ -164,7 +166,7 @@
 
 <div class="wrap">
   <header class="hd">
-    <span class="eyebrow">First-party measurement plan · v1.2 · #1–#3 shipped</span>
+    <span class="eyebrow">First-party measurement plan · v1.3 · #1–#5 shipped · #6 parked</span>
     <h1>How we'll measure reach for <span class="wordmark">NegaraKu<b>.md</b></span></h1>
     <p class="lede">Every discovery channel — Google, AI assistants, Facebook, and anywhere an article gets shared — measured in the same four layers, funnelled into one self-owned dashboard grouped by pillar → category → article.</p>
     <ul class="layers">
@@ -195,56 +197,56 @@
             <td><span class="chip have">Live</span><span class="tool">Googlebot classified at edge</span></td>
             <td><span class="chip have">Live</span><span class="tool">Search Console</span><span class="proof">domain property, active</span></td>
             <td><span class="chip have">Live</span><span class="tool">GSC clicks · referrer bucket</span></td>
-            <td><span class="chip build">Build</span><span class="tool">engagement beacon</span></td>
+            <td><span class="chip have">Live</span><span class="tool">engagement beacon</span></td>
           </tr>
           <tr>
             <th class="chan">Bing / Copilot<span class="ex">+ ChatGPT-search index</span></th>
             <td><span class="chip have">Live</span><span class="tool">Bingbot classified</span></td>
-            <td><span class="chip build">Build</span><span class="tool">Bing Webmaster Tools</span></td>
+            <td><span class="chip have">Live</span><span class="tool">Bing Webmaster archive</span></td>
             <td><span class="chip have">Live</span><span class="tool">referrer bing.com</span></td>
-            <td><span class="chip build">Build</span><span class="tool">engagement beacon</span></td>
+            <td><span class="chip have">Live</span><span class="tool">engagement beacon</span></td>
           </tr>
           <tr>
             <th class="chan">AI assistants<span class="ex">ChatGPT · Claude · Perplexity · Gemini</span></th>
             <td><span class="chip have">Live</span><span class="tool">AI-crawler panel</span><span class="proof">18,071 fetches · 8 bots</span></td>
-            <td><span class="chip none">No tool</span><span class="tool">citation in answers — probe optional</span></td>
+            <td><span class="chip none">UI only</span><span class="tool">Bing AI-Performance (Copilot) — no API yet; probe parked</span></td>
             <td><span class="chip have">Live</span><span class="tool">referrer chatgpt / perplexity / claude</span></td>
-            <td><span class="chip build">Build</span><span class="tool">engagement beacon</span></td>
+            <td><span class="chip have">Live</span><span class="tool">engagement beacon</span></td>
           </tr>
           <tr>
             <th class="chan">Facebook<span class="ex">3 Pages — ms · en · zh</span></th>
             <td><span class="na">—</span></td>
             <td><span class="chip have">Live</span><span class="tool">Meta Insights — reactions / comments / shares</span><span class="proof">weekly archive</span></td>
             <td><span class="chip have">Live</span><span class="tool">Insights + referrer facebook</span></td>
-            <td><span class="chip build">Build</span><span class="tool">engagement beacon</span></td>
+            <td><span class="chip have">Live</span><span class="tool">engagement beacon</span></td>
           </tr>
           <tr>
             <th class="chan">Other social<span class="ex">X · LinkedIn · Reddit · Threads · YouTube</span></th>
             <td><span class="na">—</span></td>
             <td><span class="na">per-platform / none</span></td>
             <td><span class="chip have">Live</span><span class="tool">referrer bucket (named)</span></td>
-            <td><span class="chip build">Build</span><span class="tool">engagement beacon</span></td>
+            <td><span class="chip have">Live</span><span class="tool">engagement beacon</span></td>
           </tr>
           <tr>
             <th class="chan">Messaging<span class="ex">WhatsApp · Telegram · LINE</span></th>
             <td><span class="na">—</span></td>
             <td><span class="na">—</span></td>
             <td><span class="chip have">Live</span><span class="tool">UTM (referrer often stripped)</span></td>
-            <td><span class="chip build">Build</span><span class="tool">engagement beacon</span></td>
+            <td><span class="chip have">Live</span><span class="tool">engagement beacon</span></td>
           </tr>
           <tr>
             <th class="chan">Any other referrer<span class="ex">blogs · forums · newsletters · wherever shared</span></th>
             <td><span class="na">—</span></td>
             <td><span class="na">—</span></td>
             <td><span class="chip have">Live</span><span class="tool">domain kept verbatim → auto-appears</span></td>
-            <td><span class="chip build">Build</span><span class="tool">engagement beacon</span></td>
+            <td><span class="chip have">Live</span><span class="tool">engagement beacon</span></td>
           </tr>
           <tr>
             <th class="chan">Direct<span class="ex">typed, bookmarked, app with no referrer</span></th>
             <td><span class="na">—</span></td>
             <td><span class="na">—</span></td>
             <td><span class="chip have">Live</span><span class="tool">"direct" bucket (no referrer)</span></td>
-            <td><span class="chip build">Build</span><span class="tool">engagement beacon</span></td>
+            <td><span class="chip have">Live</span><span class="tool">engagement beacon</span></td>
           </tr>
         </tbody>
       </table>
@@ -259,7 +261,7 @@
 
   <section>
     <h2>Build roadmap <span class="hint">ordered by leverage</span></h2>
-    <p class="intro">Steps 1–3 are <b>shipped and live</b>; 4–6 remain. The referrer classifier (step 1) filled the entire Click column for every channel at once — verified live (a real ChatGPT referral already classified as AI).</p>
+    <p class="intro">Steps 1–5 are <b>shipped and live</b>; #6 is parked (below). The classifier (step 1) filled the whole Click column at once — verified live, a real ChatGPT referral already classified as AI.</p>
     <ol class="road">
       <li class="done">
         <span class="num"></span>
@@ -279,23 +281,23 @@
           <p>One scheduled job that commits a permanent snapshot of every source: the Cloudflare edge tail (already running), plus a Search Console pull (impressions / clicks / queries, tagged by pillar &amp; category) and a Facebook Insights pull (reach / impressions / link-clicks per Page, per language). This is the single move that defeats <em>all</em> the retention limits at once — the 90-day, the 16-month, Facebook's window — so nothing measurable ever expires.</p></div>
         <div class="meta"><span class="tag done">✓ shipped · live</span><span class="tag covers">Google + Facebook, permanent</span><span class="tag covers">kills: every retention limit</span></div>
       </li>
-      <li>
+      <li class="done">
         <span class="num"></span>
         <div class="body"><h3>Bing Webmaster Tools</h3>
-          <p>Set up the property — it doubles as partial AI-search coverage, since Copilot and ChatGPT-search draw on Bing's index.</p></div>
-        <div class="meta"><span class="tag covers">fills: Bing / Copilot Impression</span><span class="tag">external setup</span></div>
+          <p>Site imported from GSC + a weekly pull into analytics/bing.json (also partial AI-search coverage — Copilot and ChatGPT-search draw on Bing's index). Numbers fill in as the young Bing property accrues impressions.</p></div>
+        <div class="meta"><span class="tag done">✓ shipped · live</span><span class="tag covers">Bing / Copilot Impression</span></div>
       </li>
-      <li>
+      <li class="done">
         <span class="num"></span>
         <div class="body"><h3>On-site engagement beacon</h3>
           <p>A tiny cookieless beacon on page-unload sends time-on-page and max scroll depth to the Worker, grouped by article. The whole L4 column, self-owned.</p></div>
-        <div class="meta"><span class="tag covers">fills: whole On-site column</span><span class="tag">Worker + client</span></div>
+        <div class="meta"><span class="tag done">✓ shipped · live</span><span class="tag covers">whole On-site column</span></div>
       </li>
-      <li>
+      <li class="parked">
         <span class="num"></span>
-        <div class="body"><h3>AI citation probe <span style="font-weight:400;color:var(--muted);font-size:.8rem">— experimental</span></h3>
-          <p>The only shot at the "AI impression" blank: a scheduled job asks fixed target questions against the Perplexity API (which returns its sources) and logs whether NegaraKu.md was cited. Best-effort, not a true impression count.</p></div>
-        <div class="meta"><span class="tag covers">chips at: AI Impression gap</span><span class="tag">CI · optional</span></div>
+        <div class="body"><h3>AI citation probe <span style="font-weight:400;color:var(--muted);font-size:.8rem">— parked</span></h3>
+          <p>Bing's <b>AI Performance</b> report already shows Copilot / AI-answer citations for free — but it has <b>no API yet</b> (Microsoft says one's coming in 2026). So this is parked: pull it free once that API ships, rather than pay for a Perplexity-only probe now. Meanwhile the citation view is there in the Bing UI.</p></div>
+        <div class="meta"><span class="tag parked">parked — await Bing AI-Performance API</span></div>
       </li>
     </ol>
   </section>
@@ -311,7 +313,9 @@
           <li><b>AI-crawler panel</b> — 18,071 fetches from 8 crawlers, by bot and by pillar (Meta-ExternalAgent ~87%).</li>
           <li><b>Google Search panel</b> — from Search Console: impressions, position, by pillar, top queries.</li>
           <li><b>Facebook engagement archive</b> — followers + reactions/comments/shares per Page, weekly.</li>
-          <li><b>All self-owned</b> — views, GSC and Facebook folded into committed snapshots, permanent.</li>
+          <li><b>On-site engagement</b> — cookieless beacon → dwell + scroll per article, avg by pillar.</li>
+          <li><b>Bing & Copilot archive</b> — Bing Webmaster totals + top queries, weekly.</li>
+          <li><b>All self-owned</b> — views, channels, GSC, Facebook, Bing folded into committed snapshots.</li>
         </ul>
       </div>
       <div class="panel">
@@ -320,7 +324,7 @@
           <li><span class="chip have">Solved</span><b>Retention</b> — the 90-day, 16-month and Facebook windows all fall to the one archive job; owned history never expires.</li>
           <li><span class="chip build">Mitigated</span><b>Referrer-less clicks</b> — UTM on links we share keeps them attributable; the rest still fall to "direct."</li>
           <li><span class="chip build">Mitigated</span><b>Bot spoofing</b> — trust Cloudflare's verified-bot signal over a raw User-Agent.</li>
-          <li><span class="chip none">Inherent</span><b>AI citations</b> — no source exists; a probe approximates it, and crawl + referral bracket it from both ends.</li>
+          <li><span class="chip build">Partly</span><b>AI citations</b> — Bing AI-Performance shows Copilot citations free (UI only, API coming 2026); crawl + referral bracket the rest.</li>
           <li><span class="chip none">Inherent</span><b>Google AI Overviews</b> — GSC won't split them; track the Google total plus an AIO-presence probe.</li>
           <li><span class="chip none">Inherent</span><b>Cross-device journey</b> — a deliberate cookieless trade-off, accepted.</li>
         </ul>
@@ -344,6 +348,6 @@
 
   <footer>
     <span>NegaraKu.md · analytics measurement plan</span>
-    <span>#1–#3 shipped &amp; live · #4 Bing · #5 engagement beacon · #6 AI-citation probe remaining</span>
+    <span>#1–#5 shipped &amp; live · #6 parked — await Bing AI-Performance API</span>
   </footer>
 </div>
