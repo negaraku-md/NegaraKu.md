@@ -6,6 +6,11 @@ slug: "lhdn-e-ansuran-tax-instalments"
 category: "taxation"
 subcategory: ["tax-administration"]
 summary: "How to pay a Malaysian income tax balance or arrears in instalments — the e-Ansuran online application on MyTax (2 to 6 instalments, automatic approval), how it differs from the CP500 instalment notice for individuals with non-employment income and the CP204 monthly estimate instalments for companies, the penalties for missing an instalment, and the ByrHASiL/FPX channels for paying each one."
+tier: "2"
+mode: "practical"
+contentType: "guide"
+sensitivity: "none"
+
 
 answer: "e-Ansuran is LHDN's online application, on the MyTax portal, to settle a balance of tax or tax arrears in instalments — 2 to 6 payments, for amounts above RM300, with automatic approval and no supporting documents. It is separate from the CP500 notice (bi-monthly instalments LHDN sets for individuals with business or other non-employment income) and from CP204 (a company's own monthly tax-estimate instalments under section 107C). e-Ansuran spreads out an amount you already owe; CP500 and CP204 are pre-payments of tax for the current year. Missing an instalment attracts a 10% late-payment penalty, and instalments are paid through ByrHASiL over FPX."
 keyTakeaways:

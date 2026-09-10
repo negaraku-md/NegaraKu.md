@@ -6,6 +6,11 @@ slug: "start-construction-business-cidb"
 category: "business"
 subcategory: ["licensing"]
 summary: "The operator's set-up path for a Malaysian construction business: incorporate a Sdn Bhd with SSM, then complete the mandatory CIDB contractor registration under the Lembaga Pembangunan Industri Pembinaan Malaysia Act 1994 (Act 520). Covers the G1–G7 grade system with tender limits and minimum paid-up capital, the four registration categories (CE, B, ME, F) and specialisation codes, the Green Card for site personnel, and the fine for carrying out construction work without registration."
+tier: "2"
+mode: "practical"
+contentType: "guide"
+sensitivity: "none"
+
 
 answer: "First incorporate a company — usually a Sdn Bhd via SSM's MyCoID portal under the Companies Act 2016. Then register as a contractor with CIDB: section 25(1) of Act 520 makes it an offence to carry out or hold yourself out for any construction work without a valid CIDB certificate. CIDB grades you G1 to G7 by tender capacity and minimum paid-up capital (RM5,000 for G1 up to RM750,000 for G7), under categories CE, B, ME or F. Working unregistered risks a fine of RM10,000 to RM100,000."
 keyTakeaways:

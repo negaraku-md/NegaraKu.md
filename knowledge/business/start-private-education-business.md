@@ -6,6 +6,11 @@ slug: "start-private-education-business"
 category: "business"
 subcategory: ["licensing"]
 summary: "An operator's guide to legally starting a private education business in Malaysia — registering the entity with SSM, then registering the private educational institution under section 79 of the Education Act 1996 with the State Education Department (tuition and enrichment centres) or the Ministry's Private Education Division (private schools), securing establishment approval before enrolling students, meeting premises, fire-safety, council-licence, teacher and curriculum requirements — and why private colleges and universities fall under Act 555 and MOHE instead."
+tier: "2"
+mode: "practical"
+contentType: "guide"
+sensitivity: "none"
+
 
 answer: "You need two layers of approval. First register a business entity with SSM (a Sdn Bhd, or a sole proprietorship/partnership). Then, before you enrol a single student, register the institution itself: under section 79 of the Education Act 1996 every private educational institution must be registered, and you must obtain establishment approval (kelulusan penubuhan) first. A tuition or enrichment centre registers with the State Education Department (Jabatan Pendidikan Negeri); a private school registers through the Ministry's Private Education Division. Both need premises cleared by the local council, the Fire and Rescue Department and the Health Office, plus approved administrators, teachers and curriculum. Operating unregistered risks a fine up to RM30,000 or two years' jail. Private colleges and universities are different — they fall under the Private Higher Educational Institutions Act 1996 (Act 555) and MOHE."
 keyTakeaways:
