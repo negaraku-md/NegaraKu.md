@@ -1,22 +1,25 @@
-// post-to-facebook.mjs — publish newly added articles to the NegaraKu.md
-// Facebook Page (facebook.com/negaraku.md) via the Graph API.
+// post-to-facebook.mjs — announce newly added articles on the NegaraKu.md
+// Facebook Pages via the Graph API.
 //
 // Invoked by the GitHub Action with the list of added knowledge files:
 //   node scripts/post-to-facebook.mjs knowledge/history/kemerdekaan-1957.md ...
 // or pass them newline-separated via the CHANGED_FILES env var.
 //
-// Each article is posted THREE times — once per language: Bahasa Malaysia (at
-// "/"), English ("/en") and Chinese ("/zh") — each using that language's own
-// title/summary and its locale-prefixed URL. A language's file is
+// Each article is posted once PER LANGUAGE, each to its OWN Page and in its own
+// language: Bahasa Malaysia → facebook.com/negaraku.md ("/"), English →
+// negaraku.md.en ("/en"), Chinese → negaraku.md.zh ("/zh"). See the PAGES map
+// below; a language whose Page id is blank is skipped. A language's file is
 // `<base>.<lang>.md`, or the master `<base>.md` when the master IS that language.
 //
-// Required env (store as GitHub secrets):
-//   FB_PAGE_ID              — the Page's numeric id
-//   FB_PAGE_ACCESS_TOKEN    — a token that can act on the Page: a Page access
-//                             token, OR a System-User / long-lived User token
-//                             with a role on the Page. The script mints a Page
-//                             token from it before posting (see resolvePageToken).
+// Required env:
+//   FB_PAGE_ACCESS_TOKEN    — a System-User token (GitHub secret) with a role on
+//                             every Page; the script mints each Page's OWN token
+//                             from it at runtime (see pageTokenFor). Each Page
+//                             must be assigned to that system user.
 // Optional:
+//   FB_PAGE_ID_MS/EN/ZH     — override a Page id (defaults are in PAGES; Page ids
+//                             are public, so they need not be secrets).
+//                             FB_PAGE_ID is the legacy alias for the ms Page.
 //   SITE_URL                — defaults to https://negaraku.md
 //   FB_DRY_RUN=1            — log what would be posted, don't call the API
 
@@ -25,7 +28,18 @@ import { existsSync } from 'node:fs';
 import matter from 'gray-matter';
 
 const SITE_URL = process.env.SITE_URL ?? 'https://negaraku.md';
-const PAGE_ID = process.env.FB_PAGE_ID;
+// One Facebook Page PER language. Page IDs are PUBLIC (they appear in each Page's
+// URL), so they live here rather than in secrets; override with FB_PAGE_ID_<LANG>
+// if ever needed. The one secret is FB_PAGE_ACCESS_TOKEN. A language with a blank
+// id (e.g. zh before its Page exists) is skipped, not posted.
+// These are the Graph/business-asset ids (the id the Page is assigned to the
+// system user by, and the id /{id}/feed posts to) — NOT the page-backed profile
+// ids in the profile.php?id=… URLs (ms 61591716781692 / en 61593942555079).
+const PAGES = {
+  ms: process.env.FB_PAGE_ID_MS || process.env.FB_PAGE_ID || '1227711683752433',
+  en: process.env.FB_PAGE_ID_EN || '1334373156431426',
+  zh: process.env.FB_PAGE_ID_ZH || '', // set when the Chinese Page (negaraku.md.zh) exists
+};
 const TOKEN = process.env.FB_PAGE_ACCESS_TOKEN;
 const DRY_RUN = process.env.FB_DRY_RUN === '1';
 const GRAPH = 'https://graph.facebook.com/v21.0';
@@ -71,29 +85,32 @@ function targets(files) {
   const seen = new Set();
   for (const base of articleBases(files)) {
     for (const lang of LANGS) {
+      if (!PAGES[lang]) continue; // no Page for this language yet — skip it
       const file = langFile(base, lang);
       const key = `${base}|${lang}`;
       if (existsSync(file) && !seen.has(key)) {
         seen.add(key);
-        out.push({ file, prefix: lang === 'ms' ? '' : `/${lang}` });
+        out.push({ file, lang, prefix: lang === 'ms' ? '' : `/${lang}` });
       }
     }
   }
   return out;
 }
 
-// Posting to /{page-id}/feed needs a PAGE access token. Whatever is in
-// FB_PAGE_ACCESS_TOKEN — a Page token, or a System-User/User token with a role
-// on the Page — can mint the Page token via this call (a Page token returns
-// itself), so it works either way. Posting with a raw system-user token instead
-// hit "(#200) … requires … as an admin": that token isn't a Page token.
-async function resolvePageToken() {
-  const url = `${GRAPH}/${PAGE_ID}?fields=access_token&access_token=${encodeURIComponent(TOKEN)}`;
+// Posting to /{page-id}/feed needs that Page's OWN access token. FB_PAGE_ACCESS_TOKEN
+// (a System-User token with a role on the Page) mints it via this call; results are
+// cached so each Page's token is fetched once per run. Posting with the raw
+// system-user token instead hit "(#200) … requires … as an admin".
+const pageTokenCache = new Map();
+async function pageTokenFor(pageId) {
+  if (pageTokenCache.has(pageId)) return pageTokenCache.get(pageId);
+  const url = `${GRAPH}/${pageId}?fields=access_token&access_token=${encodeURIComponent(TOKEN)}`;
   const res = await fetch(url);
   const json = await res.json().catch(() => ({}));
   if (!res.ok || !json.access_token) {
-    throw new Error(`could not mint a Page access token from FB_PAGE_ACCESS_TOKEN: ${JSON.stringify(json)}`);
+    throw new Error(`could not mint a Page token for page ${pageId} from FB_PAGE_ACCESS_TOKEN (is the Page assigned to the system user?): ${JSON.stringify(json)}`);
   }
+  pageTokenCache.set(pageId, json.access_token);
   return json.access_token;
 }
 
@@ -155,20 +172,30 @@ function buildPost(file, data, prefix) {
 
 async function preview(t) {
   const p = buildPost(t.file, matter(await readFile(t.file, 'utf8')).data, t.prefix);
-  if (p) console.log(`[fb] ${DRY_RUN ? 'DRY_RUN' : 'no credentials'} — would post:\n  ${p.link}\n  ${p.message}\n`);
+  if (p) console.log(`[fb] ${DRY_RUN ? 'DRY_RUN' : 'no credentials'} — would post [${t.lang}] → page ${PAGES[t.lang]}:\n  ${p.link}\n  ${p.message}\n`);
 }
 
-async function post(t, pageToken) {
+async function post(t) {
   const p = buildPost(t.file, matter(await readFile(t.file, 'utf8')).data, t.prefix);
   if (!p) return false;
-  const body = new URLSearchParams({ message: p.message, link: p.link, access_token: pageToken });
-  const res = await fetch(`${GRAPH}/${PAGE_ID}/feed`, { method: 'POST', body });
-  const json = await res.json().catch(() => ({}));
-  if (!res.ok) {
-    console.error(`[fb] FAILED ${p.link}:`, JSON.stringify(json));
+  const pageId = PAGES[t.lang];
+  let pageToken;
+  try {
+    pageToken = await pageTokenFor(pageId);
+  } catch (err) {
+    // One Page's token failing (e.g. not yet assigned to the system user) must
+    // not abort the others — fail this target, let the rest post, job goes red.
+    console.error(`[fb] FAILED [${t.lang}] mint token for page ${pageId}:`, err.message);
     return false;
   }
-  console.log(`[fb] posted ${p.link} → ${json.id}`);
+  const body = new URLSearchParams({ message: p.message, link: p.link, access_token: pageToken });
+  const res = await fetch(`${GRAPH}/${pageId}/feed`, { method: 'POST', body });
+  const json = await res.json().catch(() => ({}));
+  if (!res.ok) {
+    console.error(`[fb] FAILED [${t.lang}] ${p.link}:`, JSON.stringify(json));
+    return false;
+  }
+  console.log(`[fb] posted [${t.lang}] ${p.link} → ${json.id}`);
   return true;
 }
 
@@ -179,16 +206,14 @@ async function main() {
     return;
   }
 
-  // Dry run / missing creds: log what would be posted, never call the API, exit 0.
-  if (DRY_RUN || !PAGE_ID || !TOKEN) {
+  // Dry run / no token: log what would be posted, never call the API, exit 0.
+  if (DRY_RUN || !TOKEN) {
     for (const t of ts) await preview(t);
     return;
   }
 
-  const pageToken = await resolvePageToken(); // throws → main().catch → exit 1
-
   let posted = 0;
-  for (const t of ts) if (await post(t, pageToken)) posted++;
+  for (const t of ts) if (await post(t)) posted++;
   console.log(`[fb] done — ${posted}/${ts.length} posted.`);
   // Fail the job (red ❌) if any post failed — no more false green.
   if (posted !== ts.length) {
