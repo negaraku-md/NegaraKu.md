@@ -24,7 +24,7 @@
 //   FB_DRY_RUN=1            — log what would be posted, don't call the API
 
 import { readFile } from 'node:fs/promises';
-import { existsSync } from 'node:fs';
+import { existsSync, readFileSync } from 'node:fs';
 import matter from 'gray-matter';
 
 const SITE_URL = process.env.SITE_URL ?? 'https://negaraku.md';
@@ -77,13 +77,27 @@ function langFile(base, lang) {
   return existsSync(f) ? f : `${base}.md`;
 }
 
+// Only announce PUBLISHED articles. A draft / in-review / needs-update master must
+// not be posted — its page isn't built into the public site, so the link would 404.
+// The master (<base>.md) carries the canonical status; a `hidden` article is off too.
+function isPublishedBase(base) {
+  try {
+    const data = matter(readFileSync(`${base}.md`, 'utf8')).data;
+    return data.status === 'published' && !data.hidden;
+  } catch {
+    return false;
+  }
+}
+
 // Expand the changed files into one target per (article, language): the file to
 // read + the URL locale prefix. Deduped, so each article yields exactly its
-// three language posts regardless of how many of its files changed.
+// three language posts regardless of how many of its files changed. Skips any
+// article whose master isn't published (drafts are never announced).
 function targets(files) {
   const out = [];
   const seen = new Set();
   for (const base of articleBases(files)) {
+    if (!isPublishedBase(base)) continue; // draft/unpublished/hidden — do not post
     for (const lang of LANGS) {
       if (!PAGES[lang]) continue; // no Page for this language yet — skip it
       const file = langFile(base, lang);
