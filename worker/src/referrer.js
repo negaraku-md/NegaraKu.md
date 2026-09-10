@@ -54,10 +54,15 @@ const BY_LABEL = [
   ['messenger', 'messaging', 'messenger'], ['discord', 'messaging', 'discord'], ['slack', 'messaging', 'slack'],
 ];
 
-// Channel a known source name belongs to (used for the UTM path). null if unknown.
+// Channel a known source belongs to (used for the UTM path). Splits on '.' so a
+// domain-shaped utm_source matches by brand label too — e.g. ChatGPT appends
+// utm_source=chatgpt.com to outbound links; "chatgpt" → ai. null if unknown.
 function labelChannel(name) {
-  const hit = BY_LABEL.find(([label]) => label === name);
-  return hit ? hit[1] : null;
+  for (const label of String(name).split('.')) {
+    const hit = BY_LABEL.find(([l]) => l === label);
+    if (hit) return hit[1];
+  }
+  return null;
 }
 
 // A readable "site" for an unrecognised referrer: hostname minus a leading
