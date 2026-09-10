@@ -304,6 +304,33 @@ const ogImageAlt = image ? title : `${t('site.title', locale)} — ${t('site.tag
       })();
     </script>
 
+    <script>
+      // Cookieless engagement beacon: on page-leave, report this page's dwell
+      // (seconds) + max scroll depth (%) to the edge Worker at /_a/e. No cookies,
+      // no identifiers, no storage — just path + two numbers, sent once. In dev
+      // (no Worker) it harmlessly 404s. The Worker aggregates it into the
+      // dashboard's Engagement panel.
+      (function () {
+        var start = Date.now(), maxScroll = 0, sent = false;
+        function pct() {
+          var d = document.documentElement, h = d.scrollHeight - d.clientHeight;
+          return h > 0 ? Math.min(100, Math.round((d.scrollTop / h) * 100)) : 0;
+        }
+        window.addEventListener('scroll', function () { var p = pct(); if (p > maxScroll) maxScroll = p; }, { passive: true });
+        function send() {
+          if (sent) return;
+          var t = Math.round((Date.now() - start) / 1000);
+          if (t <= 0) return;
+          sent = true;
+          try {
+            navigator.sendBeacon('/_a/e', JSON.stringify({ p: location.pathname, t: t, s: maxScroll }));
+          } catch (e) { /* best-effort */ }
+        }
+        document.addEventListener('visibilitychange', function () { if (document.visibilityState === 'hidden') send(); });
+        window.addEventListener('pagehide', send);
+      })();
+    </script>
+
     <style>
       .to-top {
         position: fixed;

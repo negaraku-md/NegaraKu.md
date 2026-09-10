@@ -191,6 +191,36 @@ const fbRows = (['ms', 'en', 'zh'] as const)
   .filter((r) => r.pageId);
 const fbTotals = fb.totals;
 const fbHas = !!(fbTotals && (fbTotals.followers || fbTotals.posts || fbTotals.reactions || fbTotals.comments || fbTotals.shares));
+
+// On-site engagement (beacon → analytics.json.engage per article): avg dwell +
+// scroll, sample-weighted overall and by pillar; most-engaging articles by dwell.
+const fmtDur = (sec: number) => (sec >= 60 ? `${Math.floor(sec / 60)}m ${sec % 60}s` : `${sec}s`);
+let engSecsW = 0, engScrollW = 0, engSamples = 0;
+const engByPillar = new Map<string, { secsW: number; n: number }>();
+const engPagesRaw: { key: string; avgSeconds: number; avgScroll: number; samples: number }[] = [];
+for (const [key, row] of Object.entries(analytics)) {
+  const e = row.engage;
+  if (!e || !e.samples) continue;
+  engSamples += e.samples;
+  engSecsW += e.avgSeconds * e.samples;
+  engScrollW += e.avgScroll * e.samples;
+  engPagesRaw.push({ key, ...e });
+  const pid = getPillar(key.split('/')[0]) ?? 'understand';
+  const pp = engByPillar.get(pid) ?? { secsW: 0, n: 0 };
+  pp.secsW += e.avgSeconds * e.samples; pp.n += e.samples;
+  engByPillar.set(pid, pp);
+}
+const engHas = engSamples > 0;
+const engAvgSecs = engHas ? Math.round(engSecsW / engSamples) : 0;
+const engAvgScroll = engHas ? Math.round(engScrollW / engSamples) : 0;
+const engPillars = PILLARS.map((pd) => {
+  const p = engByPillar.get(pd.id);
+  return { id: pd.id, name: pd.name[locale], icon: pd.icon, avg: p && p.n ? Math.round(p.secsW / p.n) : 0 };
+}).filter((p) => p.avg > 0).sort((a, b) => b.avg - a.avg);
+const engPillarMax = Math.max(1, ...engPillars.map((p) => p.avg));
+const engTop = engPagesRaw.sort((a, b) => b.avgSeconds - a.avgSeconds).slice(0, 8)
+  .map((x) => ({ ...x, title: titleByKey.get(x.key) ?? x.key }));
+const engTopMax = Math.max(1, ...engTop.map((x) => x.avgSeconds));
 ---
 
 <PageHero
@@ -545,6 +575,55 @@ const fbHas = !!(fbTotals && (fbTotals.followers || fbTotals.posts || fbTotals.r
             </tbody>
           </table>
         </div>
+      )}
+    </div>
+  </div>
+</section>
+
+<section class="container block">
+  <div class="psec">
+    <header><span>{L('Penglibatan di laman', 'On-site engagement', '站内参与')}</span></header>
+    <div class="psec-body">
+      {!engHas ? (
+        <p class="hint">{L(
+          'Belum ada data penglibatan — mula direkod setelah beacon disiarkan (deploy Worker) dan pelawat tiba.',
+          'No engagement data yet — recording begins after the beacon ships (Worker deploy) and visitors arrive.',
+          '暂无参与数据——beacon 上线（部署 Worker）且有访客后开始记录。',
+        )}</p>
+      ) : (
+        <>
+          <p class="hint">{L(
+            `Purata masa di halaman ${fmtDur(engAvgSecs)} · purata skrol ${engAvgScroll}% · daripada ${engSamples.toLocaleString()} lawatan diukur.`,
+            `Average time on page ${fmtDur(engAvgSecs)} · average scroll ${engAvgScroll}% · from ${engSamples.toLocaleString()} measured visits.`,
+            `平均停留 ${fmtDur(engAvgSecs)} · 平均滚动 ${engAvgScroll}% · 来自 ${engSamples.toLocaleString()} 次测量访问。`,
+          )}</p>
+          <div class="ai-grid">
+            <div>
+              <p class="ai-h">{L('Masa mengikut tunjang', 'Avg time by pillar', '各支柱平均时长')}</p>
+              <div class="cov-cats">
+                {engPillars.map((p) => (
+                  <div class="cov-row ai-row">
+                    <span class="cov-name">{p.icon} {p.name}</span>
+                    <span class="track"><span class="fill" style={`width:${Math.max(3, Math.round((p.avg / engPillarMax) * 100))}%`} /></span>
+                    <span class="cov-num">{fmtDur(p.avg)}</span>
+                  </div>
+                ))}
+              </div>
+            </div>
+            <div>
+              <p class="ai-h">{L('Paling melibatkan', 'Most engaging', '最吸引')}</p>
+              <div class="cov-cats">
+                {engTop.map((a) => (
+                  <a class="cov-row" href={localePath(`/${a.key}`, locale)}>
+                    <span class="cov-name" title={a.title}>{a.title}</span>
+                    <span class="track"><span class="fill" style={`width:${Math.max(3, Math.round((a.avgSeconds / engTopMax) * 100))}%`} /></span>
+                    <span class="cov-num">{fmtDur(a.avgSeconds)}</span>
+                  </a>
+                ))}
+              </div>
+            </div>
+          </div>
+        </>
       )}
     </div>
   </div>

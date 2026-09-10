@@ -21,7 +21,7 @@ import { existsSync } from 'node:fs';
 import path from 'node:path';
 import {
   loadCumulative, queryTail, addRow, clonePages, cleanPages,
-  loadArticleKeys, filterToArticles, OUT_FILE, CUMULATIVE_FILE,
+  loadArticleKeys, filterToArticles, OUT_FILE, CUMULATIVE_FILE, queryEngagement,
 } from './lib/analytics-store.mjs';
 
 const ACCOUNT = process.env.CF_ACCOUNT_ID;
@@ -47,6 +47,29 @@ async function main() {
 
   const keys = await loadArticleKeys();
   const clean = cleanPages(filterToArticles(pages, keys));
+
+  // Merge on-site engagement (dwell + scroll) from the beacon rows — live 90-day
+  // window, attached per article. Best-effort; needs CF creds like the tail.
+  if (ACCOUNT && TOKEN) {
+    try {
+      const eng = await queryEngagement({ account: ACCOUNT, token: TOKEN, dataset: DATASET, days: 90 });
+      let merged = 0;
+      for (const r of eng) {
+        const n = Math.round(Number(r.n) || 0);
+        if (!r.path || r.path === 'home' || n <= 0) continue;
+        if (keys && !keys.has(r.path)) continue; // articles only
+        (clean[r.path] ||= {}).engage = {
+          avgSeconds: Math.round((Number(r.secs) || 0) / n),
+          avgScroll: Math.round((Number(r.scroll) || 0) / n),
+          samples: n,
+        };
+        merged++;
+      }
+      if (merged) console.log(`[analytics] merged engagement for ${merged} article(s).`);
+    } catch (err) {
+      console.warn(`[analytics] engagement query failed: ${err.message}`);
+    }
+  }
 
   await mkdir(path.dirname(OUT_FILE), { recursive: true });
   await writeFile(OUT_FILE, JSON.stringify(clean, null, 2) + '\n', 'utf8');

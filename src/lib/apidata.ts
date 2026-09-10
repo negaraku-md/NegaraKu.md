@@ -111,7 +111,8 @@ export function getGraph(): KnowledgeGraph {
 // per-bot breakdown. Read on every article page, so cache it (see `read`).
 export type AnalyticsBucket = number | { total: number; byBot?: Record<string, number> };
 export type AnalyticsRef = { byChannel?: Record<string, number>; bySource?: Record<string, number> };
-export type Analytics = Record<string, { readers?: AnalyticsBucket; search?: AnalyticsBucket; ai?: AnalyticsBucket; ref?: AnalyticsRef }>;
+export type AnalyticsEngage = { avgSeconds: number; avgScroll: number; samples: number };
+export type Analytics = Record<string, { readers?: AnalyticsBucket; search?: AnalyticsBucket; ai?: AnalyticsBucket; ref?: AnalyticsRef; engage?: AnalyticsEngage }>;
 
 export function getAnalytics(): Analytics {
   return read<Analytics>('analytics.json', {});

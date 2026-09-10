@@ -25,6 +25,27 @@ export default {
   async fetch(request, env, ctx) {
     try {
       const url = new URL(request.url);
+
+      // Engagement beacon: the page sends navigator.sendBeacon('/_a/e', {p,t,s})
+      // on page-leave. Record dwell (t, seconds) + max scroll (s, %) as an
+      // 'engage' row, then short-circuit — this path has no origin to hit.
+      if (request.method === 'POST' && url.pathname === '/_a/e') {
+        try {
+          const b = await request.json();
+          const p = String(b.p || '');
+          const key = pathKey(p);
+          const t = Math.max(0, Math.min(3600, Math.round(Number(b.t) || 0))); // cap 1h
+          const s = Math.max(0, Math.min(100, Math.round(Number(b.s) || 0)));  // 0–100%
+          if (env.AE && key && key !== 'home' && t > 0) {
+            const locale = p.startsWith('/en/') ? 'en' : p.startsWith('/zh/') ? 'zh' : 'ms';
+            // blob2='engage' marks the row so the pageview aggregator ignores it;
+            // doubles carry dwell seconds + scroll %, weighted per sample at query time.
+            env.AE.writeDataPoint({ blobs: [key, 'engage', '', locale], doubles: [t, s], indexes: [key.slice(0, 96)] });
+          }
+        } catch { /* malformed beacon — ignore */ }
+        return new Response(null, { status: 204 });
+      }
+
       // Only count real page navigations: GET, HTML-ish path, not an asset.
       if (request.method === 'GET' && isPageView(url.pathname)) {
         const { bucket, bot } = classify(request.headers.get('user-agent') || '');

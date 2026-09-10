@@ -138,3 +138,22 @@ export async function queryTail({ account, token, dataset, afterCursor, upto }) 
   if (!res.ok) throw new Error(`AE SQL API ${res.status}: ${(await res.text()).slice(0, 300)}`);
   return (await res.json()).data || [];
 }
+
+/**
+ * Per-page engagement (blob2='engage' rows the beacon writes) over the trailing
+ * `days`. Returns [{path, secs, scroll, n}] where secs/scroll are sample-weighted
+ * sums (divide by n for the average). Live-window only — not folded into the
+ * cumulative snapshot (dwell/scroll are recent-behaviour signals, not lifetime totals).
+ */
+export async function queryEngagement({ account, token, dataset, days = 90 }) {
+  const sql =
+    `SELECT blob1 AS path, SUM(double1 * _sample_interval) AS secs, ` +
+    `SUM(double2 * _sample_interval) AS scroll, SUM(_sample_interval) AS n ` +
+    `FROM ${dataset} WHERE blob2 = 'engage' AND timestamp > NOW() - INTERVAL '${days}' DAY GROUP BY path`;
+  const res = await fetch(
+    `https://api.cloudflare.com/client/v4/accounts/${account}/analytics_engine/sql`,
+    { method: 'POST', headers: { Authorization: `Bearer ${token}` }, body: sql },
+  );
+  if (!res.ok) throw new Error(`AE SQL API ${res.status}: ${(await res.text()).slice(0, 300)}`);
+  return (await res.json()).data || [];
+}
