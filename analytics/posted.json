@@ -1,6 +1,6 @@
 {
   "meta": {
-    "startedAt": "2026-09-10T17:49:47.196Z",
+    "startedAt": null,
     "note": "Backlog poster manifest — records each (article#lang) already posted so the queue never re-posts it. startedAt is set on the first real cron post and drives the warm-up ramp."
   },
   "posted": {
