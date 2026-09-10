@@ -117,6 +117,33 @@ export function getAnalytics(): Analytics {
   return read<Analytics>('analytics.json', {});
 }
 
+// Facebook reach archive (analytics/facebook.json, served into public/api at build).
+export type Facebook = {
+  updatedAt?: string;
+  pages?: Record<string, { pageId?: string; name?: string | null; followers?: number; posts?: number; impressions?: number; reach?: number; clicks?: number }>;
+  totals?: { followers?: number; posts?: number; impressions?: number; reach?: number; clicks?: number };
+};
+export function getFacebook(): Facebook {
+  return read<Facebook>('facebook.json', {});
+}
+
+// Search Console archive (analytics/gsc.json). byMonth is merged forward past
+// GSC's 16-month retention; latest is the trailing-90-day snapshot.
+export type SearchConsole = {
+  updatedAt?: string;
+  property?: string;
+  byMonth?: Record<string, { clicks: number; impressions: number }>;
+  latest?: {
+    window?: { start: string; end: string };
+    totals?: { clicks: number; impressions: number; ctr: number; position: number };
+    byCategory?: Record<string, { clicks: number; impressions: number }>;
+    topQueries?: { query: string; clicks: number; impressions: number; position: number }[];
+  };
+};
+export function getSearchConsole(): SearchConsole {
+  return read<SearchConsole>('gsc.json', {});
+}
+
 // Article keys ("category/slug") ranked by reader analytics with a recency
 // fallback, top N. Lets a pair of strips (Most read + Latest) share one ranking
 // so the Latest strip can exclude what Most read already showed — matches the

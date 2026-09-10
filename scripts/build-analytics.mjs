@@ -16,11 +16,12 @@
 //
 // Env: CF_ACCOUNT_ID, CF_API_TOKEN, CF_AE_DATASET (default negaraku_analytics).
 
-import { mkdir, writeFile } from 'node:fs/promises';
+import { mkdir, writeFile, copyFile } from 'node:fs/promises';
+import { existsSync } from 'node:fs';
 import path from 'node:path';
 import {
   loadCumulative, queryTail, addRow, clonePages, cleanPages,
-  loadArticleKeys, filterToArticles, OUT_FILE,
+  loadArticleKeys, filterToArticles, OUT_FILE, CUMULATIVE_FILE,
 } from './lib/analytics-store.mjs';
 
 const ACCOUNT = process.env.CF_ACCOUNT_ID;
@@ -50,6 +51,19 @@ async function main() {
   await mkdir(path.dirname(OUT_FILE), { recursive: true });
   await writeFile(OUT_FILE, JSON.stringify(clean, null, 2) + '\n', 'utf8');
   console.log(`[analytics] wrote ${OUT_FILE} — ${Object.keys(clean).length} article(s) (all-time).`);
+
+  // Serve the committed archive snapshots (Facebook / Search Console), written by
+  // their own scheduled workflows into analytics/. Copy each into public/api/ so
+  // the dashboard can read them; absent until the first archive run commits.
+  const archiveDir = path.dirname(CUMULATIVE_FILE);
+  const apiDir = path.dirname(OUT_FILE);
+  for (const f of ['facebook.json', 'gsc.json']) {
+    const src = path.join(archiveDir, f);
+    if (existsSync(src)) {
+      await copyFile(src, path.join(apiDir, f));
+      console.log(`[analytics] served ${f} → public/api`);
+    }
+  }
 }
 
 main().catch((e) => { console.warn('[analytics] unexpected error, skipping:', e.message); });

@@ -3,7 +3,7 @@ import type { Locale } from '@/lib/categories';
 import { getCategory, getPillar, getPillarDef, PILLARS } from '@/lib/categories';
 import { subcatLabel } from '@/lib/subcategories';
 import { corpusTopics, isPublishable } from '@/lib/content';
-import { getDashboard, getAnalytics } from '@/lib/apidata';
+import { getDashboard, getAnalytics, getFacebook, getSearchConsole } from '@/lib/apidata';
 import { t, localePath } from '@/lib/i18n';
 import PageHero from './PageHero.astro';
 
@@ -158,6 +158,39 @@ const refChMax = Math.max(1, ...refChannels.map((c) => c.n));
 const refSources = [...refBySource.entries()].filter(([s]) => s !== 'direct')
   .sort((a, b) => b[1] - a[1]).slice(0, 10).map(([source, n]) => ({ source, n }));
 const refSourceMax = Math.max(1, ...refSources.map((s) => s.n));
+
+// Google Search performance (archive: analytics/gsc.json) — trailing-90-day
+// totals, impressions grouped to pillars from the per-category split, and top
+// queries. Empty until the Search Console archive workflow has run.
+const gsc = getSearchConsole();
+const gscTotals = gsc.latest?.totals;
+const gscHas = !!(gscTotals && (gscTotals.impressions || gscTotals.clicks));
+const gscByPillar = new Map<string, { clicks: number; impressions: number }>();
+for (const [cat, v] of Object.entries(gsc.latest?.byCategory ?? {})) {
+  const pid = getPillar(cat) ?? 'understand';
+  const e = gscByPillar.get(pid) ?? { clicks: 0, impressions: 0 };
+  e.clicks += v.clicks; e.impressions += v.impressions;
+  gscByPillar.set(pid, e);
+}
+const gscPillars = PILLARS.map((pd) => ({ id: pd.id, name: pd.name[locale], icon: pd.icon, ...(gscByPillar.get(pd.id) ?? { clicks: 0, impressions: 0 }) }))
+  .filter((p) => p.impressions > 0).sort((a, b) => b.impressions - a.impressions);
+const gscPillarMax = Math.max(1, ...gscPillars.map((p) => p.impressions));
+const gscQueries = (gsc.latest?.topQueries ?? []).slice(0, 8);
+const gscQueryMax = Math.max(1, ...gscQueries.map((q) => q.impressions));
+const gscMonths = Object.keys(gsc.byMonth ?? {}).length;
+
+// Facebook reach (archive: analytics/facebook.json) — per-language Page numbers.
+// Empty until the archive workflow has run and posts exist.
+const fb = getFacebook();
+const FB_LANG: Record<string, string> = { ms: 'Bahasa Malaysia', en: 'English', zh: '中文' };
+const fbRows = (['ms', 'en', 'zh'] as const)
+  .map((l) => {
+    const p = fb.pages?.[l] ?? {};
+    return { lang: l, label: p.name || `NegaraKu.md · ${FB_LANG[l]}`, pageId: p.pageId, followers: p.followers, posts: p.posts, impressions: p.impressions, reach: p.reach, clicks: p.clicks };
+  })
+  .filter((r) => r.pageId);
+const fbTotals = fb.totals;
+const fbHas = !!(fbTotals && (fbTotals.impressions || fbTotals.reach || fbTotals.clicks || fbTotals.followers));
 ---
 
 <PageHero
@@ -422,6 +455,101 @@ const refSourceMax = Math.max(1, ...refSources.map((s) => s.n));
   </div>
 </section>
 
+<section class="container block">
+  <div class="psec">
+    <header><span>{L('Prestasi carian Google', 'Google Search performance', 'Google 搜索表现')}</span></header>
+    <div class="psec-body">
+      {!gscHas ? (
+        <p class="hint">{L(
+          'Belum ada data Search Console — muncul selepas kerja arkib dijalankan.',
+          'No Search Console data yet — appears after the archive workflow runs.',
+          '暂无 Search Console 数据——归档工作流运行后显示。',
+        )}</p>
+      ) : (
+        <>
+          <p class="hint">{L(
+            `90 hari lepas: ${gscTotals.impressions.toLocaleString()} tera · ${gscTotals.clicks.toLocaleString()} klik · CTR ${gscTotals.ctr}% · kedudukan purata ${gscTotals.position}. ${gscMonths} bulan diarkibkan.`,
+            `Last 90 days: ${gscTotals.impressions.toLocaleString()} impressions · ${gscTotals.clicks.toLocaleString()} clicks · ${gscTotals.ctr}% CTR · avg position ${gscTotals.position}. ${gscMonths} months archived.`,
+            `近 90 天：${gscTotals.impressions.toLocaleString()} 次展示 · ${gscTotals.clicks.toLocaleString()} 次点击 · 点击率 ${gscTotals.ctr}% · 平均排名 ${gscTotals.position}。已归档 ${gscMonths} 个月。`,
+          )}</p>
+          <div class="ai-grid">
+            <div>
+              <p class="ai-h">{L('Tera mengikut tunjang', 'Impressions by pillar', '各支柱展示')}</p>
+              {gscPillars.length === 0 ? <p class="hint" style="margin:0">—</p> : (
+                <div class="cov-cats">
+                  {gscPillars.map((p) => (
+                    <div class="cov-row ai-row">
+                      <span class="cov-name">{p.icon} {p.name}</span>
+                      <span class="track"><span class="fill" style={`width:${Math.max(3, Math.round((p.impressions / gscPillarMax) * 100))}%`} /></span>
+                      <span class="cov-num">{p.impressions.toLocaleString()}</span>
+                    </div>
+                  ))}
+                </div>
+              )}
+            </div>
+            <div>
+              <p class="ai-h">{L('Carian teratas', 'Top queries', '热门搜索')}</p>
+              {gscQueries.length === 0 ? <p class="hint" style="margin:0">—</p> : (
+                <div class="cov-cats">
+                  {gscQueries.map((q) => (
+                    <div class="cov-row ai-row">
+                      <span class="cov-name" title={q.query}>{q.query}</span>
+                      <span class="track"><span class="fill" style={`width:${Math.max(3, Math.round((q.impressions / gscQueryMax) * 100))}%`} /></span>
+                      <span class="cov-num">{q.impressions.toLocaleString()}</span>
+                    </div>
+                  ))}
+                </div>
+              )}
+            </div>
+          </div>
+        </>
+      )}
+    </div>
+  </div>
+</section>
+
+<section class="container block">
+  <div class="psec">
+    <header><span>{L('Jangkauan Facebook', 'Facebook reach', 'Facebook 触达')}</span></header>
+    <div class="psec-body">
+      {!fbHas ? (
+        <p class="hint">{L(
+          'Belum ada data Facebook — muncul selepas kerja arkib dijalankan dan artikel diterbitkan.',
+          'No Facebook data yet — appears after the archive workflow runs and articles are published.',
+          '暂无 Facebook 数据——归档工作流运行且文章发布后显示。',
+        )}</p>
+      ) : (
+        <div class="matrix-scroll" style="margin-top:.3rem">
+          <table class="fbtable">
+            <thead>
+              <tr>
+                <th class="chan" style="width:auto">{L('Halaman', 'Page', '页面')}</th>
+                <th>{L('Pengikut', 'Followers', '粉丝')}</th>
+                <th>{L('Siaran', 'Posts', '帖子')}</th>
+                <th>{L('Tera', 'Impressions', '展示')}</th>
+                <th>{L('Jangkauan', 'Reach', '触达')}</th>
+                <th>{L('Klik', 'Clicks', '点击')}</th>
+              </tr>
+            </thead>
+            <tbody>
+              {fbRows.map((r) => (
+                <tr>
+                  <th class="chan" style="width:auto">{r.label}</th>
+                  <td>{(r.followers ?? 0).toLocaleString()}</td>
+                  <td>{(r.posts ?? 0).toLocaleString()}</td>
+                  <td>{(r.impressions ?? 0).toLocaleString()}</td>
+                  <td>{(r.reach ?? 0).toLocaleString()}</td>
+                  <td>{(r.clicks ?? 0).toLocaleString()}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      )}
+    </div>
+  </div>
+</section>
+
 <section class="container block two-col">
   <div class="psec">
     <header><span>{L('Kitaran hayat', 'Lifecycle', '生命周期')}</span></header>
@@ -541,6 +669,7 @@ const refSourceMax = Math.max(1, ...refSources.map((s) => s.n));
   .ai-grid .ai-row { grid-template-columns: 9.5rem 1fr 3.4rem; }
   .ai-top .cov-row { grid-template-columns: minmax(0, 1fr) 5rem 3.4rem; }
   @media (max-width: 800px) { .ai-grid { grid-template-columns: 1fr; } }
+  .fbtable td, .fbtable th:not(.chan) { text-align: right; font-variant-numeric: tabular-nums; }
 
   /* Lifecycle ladder */
   .ladder { list-style: none; padding: 0; margin: 0; display: grid; gap: 0.15rem; }
