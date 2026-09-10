@@ -87,7 +87,7 @@ const htmlLang = locale === 'zh' ? 'zh-Hans' : locale === 'ms' ? 'ms-MY' : 'en';
 // localized so a /zh or /en page's link preview reads in its own language.
 const defaultOg = locale === 'ms' ? '/og/default.png' : `/og/${locale}/default.png`;
 const ogImage = new URL(image ?? defaultOg, site).toString();
-const ogImageAlt = image ? title : 'NegaraKu.md — knowledge base about Malaysia';
+const ogImageAlt = image ? title : `${t('site.title', locale)} — ${t('site.tagline', locale)}`;
 ---
 
 <!doctype html>

@@ -27,7 +27,7 @@ export async function GET(_context: APIContext) {
   const xml = `<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>NegaraKu.md</title>
-  <subtitle>An open-source, AI-friendly knowledge base about Malaysia</subtitle>
+  <subtitle>Pangkalan pengetahuan sumber terbuka dan mesra-AI tentang Malaysia</subtitle>
   <link href="${SITE}/feed.xml" rel="self"/>
   <link href="${SITE}/"/>
   <id>${SITE}/</id>

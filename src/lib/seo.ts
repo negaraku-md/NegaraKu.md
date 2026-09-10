@@ -19,7 +19,12 @@ function pageUrl(path: string, locale: Locale): string {
  * associate the brand with its logo and social profiles; publisher/sponsor
  * elsewhere reference it by @id.
  */
-export function organizationJsonLd(): Record<string, unknown> {
+export function organizationJsonLd(locale: Locale = 'en'): Record<string, unknown> {
+  const description = {
+    ms: 'Pangkalan pengetahuan sumber terbuka dan mesra-AI tentang Malaysia — Bahasa Melayu, English dan 中文.',
+    en: 'An open-source, AI-friendly knowledge base about Malaysia — Bahasa Melayu, English and 中文.',
+    zh: '关于马来西亚的开源、AI 友好知识库——Bahasa Melayu、English 与中文。',
+  }[locale];
   return {
     '@context': 'https://schema.org',
     '@type': 'Organization',
@@ -33,7 +38,7 @@ export function organizationJsonLd(): Record<string, unknown> {
       width: 1024,
       height: 1024,
     },
-    description: 'An open-source, AI-friendly knowledge base about Malaysia — Bahasa Melayu, English and 中文.',
+    description,
     sameAs: ['https://www.facebook.com/negaraku.md', 'https://github.com/negaraku-md'],
     sponsor: {
       '@type': 'Organization',
@@ -232,7 +237,12 @@ export function faqJsonLd(article: Article): Record<string, unknown> | null {
 }
 
 /** Site-level WebSite JSON-LD with a search action + sponsor. */
-export function websiteJsonLd(): Record<string, unknown> {
+export function websiteJsonLd(locale: Locale = 'en'): Record<string, unknown> {
+  const description = {
+    ms: 'Pangkalan pengetahuan sumber terbuka dan mesra-AI tentang Malaysia.',
+    en: 'An open-source, AI-friendly knowledge base about Malaysia.',
+    zh: '关于马来西亚的开源、AI 友好知识库。',
+  }[locale];
   return {
     '@context': 'https://schema.org',
     '@type': 'WebSite',
@@ -240,7 +250,7 @@ export function websiteJsonLd(): Record<string, unknown> {
     alternateName: 'negaraku.md',
     url: SITE,
     inLanguage: ['ms-MY', 'en', 'zh-Hans'],
-    description: 'An open-source, AI-friendly knowledge base about Malaysia.',
+    description,
     publisher: { '@id': ORG_ID },
     sponsor: {
       '@type': 'Organization',

@@ -21,11 +21,18 @@ const STRINGS = {
     en: 'An open-source knowledge base about Malaysia',
     zh: '关于马来西亚的开源知识库',
   },
-  // Short brand tagline shown under the wordmark in the header lockup.
+  // Short brand tagline shown under the wordmark in the header lockup — the "what".
   'brand.tagline': {
     ms: 'Malaysia mesra-AI',
     en: 'AI-friendly Malaysia',
     zh: 'AI 友好的马来西亚',
+  },
+  // Mission — the "why we exist". Distinct from brand.tagline (the "what"); a
+  // rallying line, not a descriptor. Reused across About, hero, and metadata.
+  'site.mission': {
+    ms: 'Biar dunia mengenali Malaysia',
+    en: 'Let the world know about Malaysia',
+    zh: '让世界认识马来西亚',
   },
   'nav.categories': { ms: 'Kategori', en: 'Categories', zh: '分类' },
   'nav.search': { ms: 'Cari', en: 'Search', zh: '搜索' },

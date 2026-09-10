@@ -57,12 +57,18 @@ export async function buildLlmsIndex(locale: Locale): Promise<string> {
 }
 
 // Build the concatenated full-text corpus for a given language.
+const CORPUS_HEADER: Record<Locale, string> = {
+  ms: 'Pangkalan pengetahuan sumber terbuka tentang Malaysia. Lesen: CC BY-SA 4.0.',
+  en: 'An open-source knowledge base about Malaysia. License: CC BY-SA 4.0.',
+  zh: '关于马来西亚的开源知识库。许可证：CC BY-SA 4.0。',
+};
+
 export async function buildLlmsFull(locale: Locale): Promise<string> {
   const items = await articlesForLocale(locale);
   const parts: string[] = [
     '# negaraku.md — full corpus',
     '',
-    'An open-source knowledge base about Malaysia. License: CC BY-SA 4.0.',
+    CORPUS_HEADER[locale],
     '',
   ];
   for (const a of items) {
