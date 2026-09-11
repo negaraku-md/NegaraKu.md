@@ -29,5 +29,26 @@ short form after: e.g. `நிறுவனங்கள் ஆணையம் (SS
 | --- | --- | --- |
 | Malaysia | மலேசியா | |
 | NegaraKu.md | NegaraKu.md | wordmark — never translated |
+| EPF / KWSP | ஊழியர் சேமநல நிதி (KWSP) | keep acronym KWSP after first use |
+| SOCSO / PERKESO | சமூக பாதுகாப்பு நிறுவனம் (PERKESO) | keep acronym PERKESO after first use |
+| Self-employed | சுயதொழில் புரிவோர் / சுயதொழில் | |
+| Gig worker | கிக் தொழிலாளர் | transliterate "gig" |
+| Freelancer | ஃப்ரீலான்சர் | transliterate |
+| Retirement savings | ஓய்வூதிய சேமிப்பு | |
+| Social insurance / social security | சமூக காப்பீடு / சமூக பாதுகாப்பு | |
+| Matching incentive | ஈடுசெய்யும் ஊக்கத்தொகை | i-Saraan government top-up |
+| Contribution (caruman) | பங்களிப்பு | |
+| Insured monthly income | காப்பீடு செய்யப்பட்ட மாதாந்திர வருமானம் | |
+| Temporary/permanent disablement | தற்காலிக / நிரந்தர இயலாமை | |
+| Dependants' benefit | சார்ந்திருப்போர் நலன் | |
+| Constant-attendance allowance | தொடர் கவனிப்பு கொடுப்பனவு | |
+| Funeral management benefit | சவ மேலாண்மை நலன் | |
+| Rehabilitation | மறுவாழ்வு | |
+| Platform provider | தள வழங்குநர் | e-hailing/delivery platform |
+| Gig Workers Tribunal | கிக் தொழிலாளர் தீர்ப்பாயம் (Tribunal Pekerja Gig) | |
+| Gig Advisory Council (MPGiG) | கிக் ஆலோசனை மன்றம் (MPGiG) | keep acronym MPGiG |
+| Malaysia Gig Economy Commission (SEGiM) | மலேசிய கிக் பொருளாதார ஆணையம் (SEGiM) | keep acronym SEGiM |
+| Gazetted (diwartakan) | வர்த்தமானியில் வெளியிடப்பட்டது | |
+| Royal assent | அரச ஒப்புதல் | |
 
 <!-- Pilot-coined terms are appended below as the 5-article pilot is reviewed. -->
