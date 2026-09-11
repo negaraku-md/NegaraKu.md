@@ -33,7 +33,7 @@ import {
 } from './lib/facebook.mjs';
 import {
   loadManifest, saveManifest, isDone, hasPost, entryFor, markPost, markComment,
-  nextBatch, perRunArticles, postedTodayMYT,
+  nextBatch, perRunArticles, postedTodayCountMYT,
 } from './lib/fb-queue.mjs';
 
 const SITE_URL = process.env.SITE_URL ?? 'https://negaraku.md';
@@ -42,11 +42,16 @@ const DRY_RUN = process.env.FB_DRY_RUN === '1';
 // Queue mode: with no explicit files, drain the ranked backlog (the daily cron
 // path). With files/CHANGED_FILES, post exactly those (manual/one-off).
 const QUEUE = process.env.FB_BACKLOG_QUEUE === '1';
-// Set only on GitHub `schedule` (cron) runs. The cron fires several times a day
-// so a skipped scheduled tick is caught by a later one; this flag makes those
-// scheduled runs idempotent (at most one batch per MYT day — see postedTodayMYT).
-// Manual dispatches never set it, so a manual run always posts.
+// Set only on GitHub `schedule` (cron) runs. The cron fires DAILY_TICKS times a
+// day; each scheduled tick tops up toward the daily target (perRunArticles), so a
+// skipped 13:00 tick is self-healed by a later one AND the day's articles are
+// spread across the ticks instead of dumped in one feed-flooding burst. Manual
+// dispatches never set it, so a manual run always posts the full day's batch.
 const SCHEDULED = process.env.FB_SCHEDULED === '1';
+// The number of scheduled cron ticks per day (keep in sync with the `schedule:`
+// cron in .github/workflows/facebook-backlog.yml). Used to size each tick's share
+// of the daily target.
+const DAILY_TICKS = 3;
 // Where the article link goes: 'caption' (a visible, tappable link on line 2 —
 // works with just pages_manage_posts, best for clicks) or 'comment' (link in the
 // first comment for maximum reach — needs pages_manage_engagement at Advanced
@@ -119,13 +124,12 @@ function targetsForBases(bases, manifest) {
   return out;
 }
 
-// The targets for this run: the ranked queue batch (cron path), or exactly the
-// files named on the CLI / CHANGED_FILES (manual path).
-function resolveTargets(files, manifest) {
+// The targets for this run: exactly the files named on the CLI / CHANGED_FILES
+// (manual path), or the next `count` ranked queue articles (cron path).
+function resolveTargets(files, manifest, count) {
   if (files.length) return targetsForBases(articleBases(files), manifest);
-  const count = perRunArticles(manifest);
   const batch = nextBatch(manifest, count).map((b) => b.base);
-  console.log(`[fb-backlog] queue: posting ${batch.length} article(s) this run (ramp = ${count}/run).`);
+  console.log(`[fb-backlog] queue: posting ${batch.length} article(s) this run.`);
   return targetsForBases(batch, manifest);
 }
 
@@ -302,14 +306,24 @@ async function main() {
     return;
   }
   const manifest = loadManifest();
-  // Self-healing schedule: a scheduled tick that fires after today's batch is
-  // already out does nothing (the cron runs 3×/day only so a missed 13:00 tick is
-  // covered by 16:00/19:00). Manual dispatch (no FB_SCHEDULED) bypasses this.
-  if (SCHEDULED && postedTodayMYT(manifest)) {
-    console.log('[fb-backlog] a batch already posted today (MYT) — scheduled run skipped (self-healing cron guard).');
-    return;
+  // How many articles to post this run (queue mode only; the files path ignores it).
+  let count = perRunArticles(manifest);
+  if (SCHEDULED && !files.length) {
+    // Spread the daily target across the day's cron ticks: each tick tops up
+    // toward the target, so a skipped tick is self-healed by a later one and the
+    // articles drip through the day rather than flooding the feed in one burst.
+    const target = count;
+    const already = postedTodayCountMYT(manifest);
+    const remaining = target - already;
+    if (remaining <= 0) {
+      console.log(`[fb-backlog] daily target met (${already}/${target} today, MYT) — scheduled tick skipped.`);
+      return;
+    }
+    const share = Math.max(1, Math.ceil(target / DAILY_TICKS));
+    count = Math.min(remaining, share);
+    console.log(`[fb-backlog] scheduled tick: ${already}/${target} posted today; posting up to ${count} more (share ${share}).`);
   }
-  const ts = resolveTargets(files, manifest);
+  const ts = resolveTargets(files, manifest, count);
   if (!ts.length) { console.log('[fb-backlog] nothing to do (all caught up).'); return; }
 
   // Dry run / no token: log what would be posted, never call the API, exit 0.

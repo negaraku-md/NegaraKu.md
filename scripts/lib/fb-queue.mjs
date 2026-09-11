@@ -152,9 +152,12 @@ export function markComment(m, base, lang, status) {
 
 // --- warm-up ramp ----------------------------------------------------------
 
-// Articles to post per run, ramping as the rollout ages: 1/day for the first
-// two weeks (warm the young Pages), then 3, then 5. Each article posts once to
-// each language Page. Override with FB_BACKLOG_PER_DAY.
+// Articles to post per DAY, ramping as the rollout ages so the young Pages warm
+// up before volume climbs: 1/day weeks 1-2, 3/day weeks 3-4, 5/day weeks 5-6,
+// then 10/day for the long tail. Each article posts once to each language Page.
+// The daily total is split across the day's cron ticks (see the poster), so 10/day
+// drips through the day rather than flooding the feed at once. Override with
+// FB_BACKLOG_PER_DAY.
 export function perRunArticles(manifest, now = Date.now()) {
   const override = Number(process.env.FB_BACKLOG_PER_DAY);
   if (Number.isFinite(override) && override > 0) return override;
@@ -162,23 +165,29 @@ export function perRunArticles(manifest, now = Date.now()) {
   const days = Math.max(0, Math.floor((now - started) / 86400000));
   if (days < 14) return 1;
   if (days < 28) return 3;
-  return 5;
+  if (days < 42) return 5;
+  return 10;
 }
 
-// True if the backlog already posted a batch "today" in Malaysia time (UTC+8).
-// This makes the daily cron idempotent: the schedule fires several times a day so
-// a skipped GitHub-scheduled tick is caught by a later one, but the poster guards
-// on this so no more than ONE batch posts per MYT day. (A run posts a whole batch
-// back-to-back, so the newest `at` marks the day the last batch went out.)
-export function postedTodayMYT(manifest, now = Date.now()) {
+// How many DISTINCT articles the backlog already posted "today" in Malaysia time
+// (UTC+8). Each article posts to 3 language Pages in one run (3 manifest entries
+// sharing a base), so we count distinct bases, not entries. This is what lets the
+// cron fire several times a day yet post only up to the daily target: each
+// scheduled tick tops up toward the target, so a GitHub-skipped 13:00 tick is
+// self-healed by 16:00/19:00 AND the day's allotment is spread across the ticks
+// (not dumped in one feed-flooding burst).
+export function postedTodayCountMYT(manifest, now = Date.now()) {
   const MYT_OFFSET = 8 * 3600000; // UTC+8, no DST in Malaysia
   const mytDay = (ms) => new Date(ms + MYT_OFFSET).toISOString().slice(0, 10); // YYYY-MM-DD in MYT
   const today = mytDay(now);
-  for (const e of Object.values(manifest.posted || {})) {
-    if (e?.at && mytDay(Date.parse(e.at)) === today) return true;
+  const bases = new Set();
+  for (const [k, e] of Object.entries(manifest.posted || {})) {
+    if (e?.at && mytDay(Date.parse(e.at)) === today) bases.add(k.split('#')[0]);
   }
-  return false;
+  return bases.size;
 }
+// True if any article already posted today (MYT) — the boolean form.
+export const postedTodayMYT = (manifest, now = Date.now()) => postedTodayCountMYT(manifest, now) > 0;
 
 // The next batch of article bases to act on: ranked order, dropping any base
 // that is fully done in every language (post + comment), capped at `count`. A

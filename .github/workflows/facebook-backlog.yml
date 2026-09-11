@@ -12,11 +12,11 @@ name: Post backlog to Facebook
 # Committing analytics/posted.json does NOT trigger a deploy (deploy.yml ignores
 # analytics/**).
 on:
-  schedule:
-    # Fires 3× a day (13:00 / 16:00 / 19:00 MYT). The poster guards on
-    # postedTodayMYT so only ONE batch posts per day — the extra ticks exist so a
-    # GitHub-skipped 13:00 run is self-healed by a later one. Manual dispatch is
-    # never guarded (it doesn't set FB_SCHEDULED).
+    # Fires 3× a day (13:00 / 16:00 / 19:00 MYT). Each tick tops up toward the
+    # day's ramp target (postedTodayCountMYT), so the daily articles DRIP across
+    # the ticks instead of flooding in one burst, AND a GitHub-skipped 13:00 tick
+    # is self-healed by 16:00/19:00. Manual dispatch is never guarded (it doesn't
+    # set FB_SCHEDULED) and posts the full day's batch at once.
     - cron: '0 5,8,11 * * *' # 13:00, 16:00, 19:00 MYT (UTC+8)
   workflow_dispatch:
     inputs:
