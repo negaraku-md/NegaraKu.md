@@ -80,6 +80,9 @@ const CTA_COMMENT = {
   en: '🔗 Full guide in the first comment 👇',
   zh: '🔗 完整指南见首条评论 👇',
 };
+// Prefixed to the title so it stands out above the caption (FB text can't be
+// bold). Matches the per-publish poster's 📌. Set to '' to drop it.
+const TITLE_EMOJI = '📌 ';
 
 function fileList() {
   const args = process.argv.slice(2);
@@ -139,9 +142,10 @@ function buildPost(file, data, lang, prefix) {
   // caption mode: the tappable link sits on line 2, above Facebook's "See more"
   // fold, so it shows without expanding. comment mode: no link in the body (it
   // goes in the first comment for max reach) — just a nudge to the comment.
+  const title = `${TITLE_EMOJI}${data.title}`;
   const caption = LINK_MODE === 'caption'
-    ? [data.title, `${CTA_CAPTION[lang]} ${link}`, '', data.summary, '', prompt, '', tags].join('\n')
-    : [data.title, '', data.summary, '', prompt, CTA_COMMENT[lang], '', tags].join('\n');
+    ? [title, `${CTA_CAPTION[lang]} ${link}`, '', data.summary, '', prompt, '', tags].join('\n')
+    : [title, '', data.summary, '', prompt, CTA_COMMENT[lang], '', tags].join('\n');
   return { image, caption, link };
 }
 
