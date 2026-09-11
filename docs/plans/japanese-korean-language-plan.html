@@ -1,0 +1,286 @@
+<title>Japanese & Korean for NegaraKu.md</title>
+<meta name="description" content="Phased plan to add Japanese (ja) and Korean (ko) to NegaraKu.md — reusing the Tamil infrastructure, with the CJK-specific deltas: fonts, search segmentation, Facebook Pages, and two corpus translations.">
+<style>
+  :root {
+    --ground: #f6f4ef;
+    --surface: #fffffe;
+    --surface-2: #efece4;
+    --ink: #17150f;
+    --ink-soft: #4b4739;
+    --ink-faint: #6f6a58;
+    --hair: #ddd8cb;
+    --hair-strong: #cbc4b1;
+    --gold: #d99400;
+    --gold-bright: #ffc000;
+    --gold-wash: #fbf3dc;
+    --ja: #b0453f;          /* vermilion — Japanese track */
+    --ja-wash: #f6e4e2;
+    --ko: #2f5aa8;          /* indigo — Korean track */
+    --ko-wash: #e3e9f5;
+    --infra: #4c6b58;       /* pine — shared infrastructure */
+    --infra-wash: #e6ede8;
+    --ok: #3f7d4e;
+    --warn: #b26a12;
+    --crit: #b23b2e;
+    --shadow: 0 1px 2px rgba(23,21,15,.05), 0 6px 18px rgba(23,21,15,.06);
+    --font-display: 'Montserrat', system-ui, sans-serif;
+    --font-body: 'Lato', system-ui, sans-serif;
+    --font-ja: 'Noto Sans JP', 'Hiragino Kaku Gothic Pro', sans-serif;
+    --font-ko: 'Noto Sans KR', 'Malgun Gothic', sans-serif;
+    --font-mono: ui-monospace, 'SF Mono', 'Cascadia Code', Menlo, monospace;
+  }
+  :root:not([data-theme="light"]) {
+    @media (prefers-color-scheme: dark) {
+      --ground: #14130f; --surface: #1d1b16; --surface-2: #262319;
+      --ink: #f3efe4; --ink-soft: #cdc7b5; --ink-faint: #97917d;
+      --hair: #322e23; --hair-strong: #423d2e;
+      --gold: #ffc000; --gold-bright: #ffcf33; --gold-wash: #2c2410;
+      --ja: #e08a84; --ja-wash: #2e1917;
+      --ko: #8fabde; --ko-wash: #161f2e;
+      --infra: #8fbaa0; --infra-wash: #16211b;
+      --ok: #79b98a; --warn: #d99a4a; --crit: #e4796b;
+      --shadow: 0 1px 2px rgba(0,0,0,.3), 0 8px 22px rgba(0,0,0,.35);
+    }
+  }
+  :root[data-theme="dark"] {
+    --ground: #14130f; --surface: #1d1b16; --surface-2: #262319;
+    --ink: #f3efe4; --ink-soft: #cdc7b5; --ink-faint: #97917d;
+    --hair: #322e23; --hair-strong: #423d2e;
+    --gold: #ffc000; --gold-bright: #ffcf33; --gold-wash: #2c2410;
+    --ja: #e08a84; --ja-wash: #2e1917;
+    --ko: #8fabde; --ko-wash: #161f2e;
+    --infra: #8fbaa0; --infra-wash: #16211b;
+    --ok: #79b98a; --warn: #d99a4a; --crit: #e4796b;
+    --shadow: 0 1px 2px rgba(0,0,0,.3), 0 8px 22px rgba(0,0,0,.35);
+  }
+
+  * { box-sizing: border-box; }
+  body { background: var(--ground); color: var(--ink); font-family: var(--font-body); line-height: 1.6; margin: 0; -webkit-font-smoothing: antialiased; }
+  .wrap { max-width: 60rem; margin: 0 auto; padding: 0 1.5rem 5rem; }
+
+  header { padding: 3.5rem 0 2rem; border-bottom: 1px solid var(--hair); }
+  .eyebrow { font-family: var(--font-display); font-size: .72rem; font-weight: 700; letter-spacing: .16em; text-transform: uppercase; color: var(--gold); margin: 0 0 1rem; display: flex; align-items: center; gap: .6rem; }
+  .eyebrow::before { content: ""; width: 1.6rem; height: 2px; background: var(--gold); display: inline-block; }
+  h1 { font-family: var(--font-display); font-weight: 800; font-size: clamp(2rem, 5vw, 3rem); line-height: 1.04; letter-spacing: -.02em; margin: 0; text-wrap: balance; }
+  h1 .ja { font-family: var(--font-ja); font-weight: 700; color: var(--ja); }
+  h1 .ko { font-family: var(--font-ko); font-weight: 700; color: var(--ko); }
+  .lede { font-size: 1.12rem; color: var(--ink-soft); max-width: 43rem; margin: 1.1rem 0 0; text-wrap: pretty; }
+  .meta-row { display: flex; flex-wrap: wrap; gap: .6rem; margin-top: 1.6rem; }
+  .chip { font-size: .82rem; padding: .4rem .75rem; border-radius: 999px; background: var(--surface); border: 1px solid var(--hair-strong); display: inline-flex; align-items: baseline; gap: .45rem; }
+  .chip b { font-family: var(--font-display); font-weight: 700; }
+  .chip.ja { background: var(--ja-wash); border-color: transparent; color: var(--ja); }
+  .chip.ko { background: var(--ko-wash); border-color: transparent; color: var(--ko); }
+
+  section { margin-top: 2.75rem; }
+  .section-head { font-family: var(--font-display); font-weight: 700; font-size: .78rem; letter-spacing: .12em; text-transform: uppercase; color: var(--ink-faint); margin: 0 0 1.1rem; }
+
+  .callout { border: 1px solid var(--hair-strong); border-left: 4px solid var(--infra); background: var(--surface); border-radius: 10px; padding: 1.1rem 1.3rem; margin: 1.25rem 0; }
+  .callout.warnbox { border-left-color: var(--warn); }
+  .callout.tip { border-left-color: var(--ok); }
+  .callout h4 { font-family: var(--font-display); font-size: .95rem; margin: 0 0 .35rem; }
+  .callout p { margin: 0; font-size: .92rem; color: var(--ink-soft); }
+  .callout p + p { margin-top: .5rem; }
+
+  /* two-language delta grid */
+  .langs { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin: 1.25rem 0; }
+  @media (max-width: 40rem) { .langs { grid-template-columns: 1fr; } }
+  .lcard { background: var(--surface); border: 1px solid var(--hair); border-radius: 12px; box-shadow: var(--shadow); padding: 1.3rem 1.4rem; border-top: 4px solid var(--gold); }
+  .lcard.ja { border-top-color: var(--ja); }
+  .lcard.ko { border-top-color: var(--ko); }
+  .lcard .script { font-size: 2.1rem; font-weight: 700; line-height: 1; }
+  .lcard.ja .script { font-family: var(--font-ja); color: var(--ja); }
+  .lcard.ko .script { font-family: var(--font-ko); color: var(--ko); }
+  .lcard h3 { font-family: var(--font-display); font-size: 1.05rem; margin: .5rem 0 .1rem; letter-spacing: -.01em; }
+  .lcard .code { font-family: var(--font-mono); font-size: .8rem; color: var(--ink-faint); }
+  .lcard dl { margin: .9rem 0 0; display: grid; grid-template-columns: auto 1fr; gap: .45rem .8rem; font-size: .87rem; }
+  .lcard dt { font-family: var(--font-display); font-weight: 700; font-size: .68rem; letter-spacing: .05em; text-transform: uppercase; color: var(--ink-faint); padding-top: .12rem; }
+  .lcard dd { margin: 0; color: var(--ink-soft); }
+
+  /* phases */
+  .phase { background: var(--surface); border: 1px solid var(--hair); border-radius: 12px; box-shadow: var(--shadow); padding: 1.3rem 1.5rem 1.4rem; margin-bottom: 1rem; }
+  .phase-top { display: flex; align-items: baseline; gap: .9rem; flex-wrap: wrap; }
+  .num { font-family: var(--font-display); font-weight: 800; font-size: .95rem; color: var(--surface); background: var(--ink); width: 2rem; height: 2rem; border-radius: 7px; flex: none; display: inline-flex; align-items: center; justify-content: center; font-variant-numeric: tabular-nums; }
+  .phase.reuse .num { background: var(--infra); }
+  .phase.newwork .num { background: var(--gold); }
+  .phase h2 { font-family: var(--font-display); font-weight: 700; font-size: 1.18rem; letter-spacing: -.015em; margin: 0; flex: 1 1 14rem; }
+  .badge { font-size: .68rem; font-weight: 700; letter-spacing: .05em; text-transform: uppercase; padding: .28rem .6rem; border-radius: 6px; font-family: var(--font-display); white-space: nowrap; }
+  .badge.reuse { background: var(--infra-wash); color: var(--infra); }
+  .badge.newwork { background: var(--gold-wash); color: var(--gold); }
+  .est { font-size: .82rem; color: var(--ink-faint); margin-left: auto; font-variant-numeric: tabular-nums; }
+  .phase > p { margin: .8rem 0 0; color: var(--ink-soft); font-size: .95rem; }
+  .work { list-style: none; padding: 0; margin: .9rem 0 0; display: flex; flex-direction: column; gap: .5rem; }
+  .work li { display: flex; gap: .6rem; font-size: .91rem; align-items: baseline; }
+  .work li::before { content: ""; width: .5rem; height: .5rem; border-radius: 2px; background: var(--gold); flex: none; transform: translateY(.35rem); }
+  .phase.reuse .work li::before { background: var(--infra); }
+  code { font-family: var(--font-mono); font-size: .82em; background: var(--surface-2); padding: .12em .4em; border-radius: 4px; color: var(--ink); word-break: break-word; }
+
+  .table-scroll { overflow-x: auto; border: 1px solid var(--hair); border-radius: 10px; }
+  table { border-collapse: collapse; width: 100%; font-size: .9rem; min-width: 34rem; background: var(--surface); }
+  th, td { text-align: left; padding: .7rem .95rem; border-bottom: 1px solid var(--hair); }
+  th { font-family: var(--font-display); font-weight: 700; font-size: .74rem; letter-spacing: .06em; text-transform: uppercase; color: var(--ink-faint); background: var(--surface-2); }
+  tbody tr:last-child td { border-bottom: none; }
+  td.n { font-variant-numeric: tabular-nums; white-space: nowrap; color: var(--ink-soft); }
+
+  .roadmap { display: flex; align-items: stretch; gap: .5rem; flex-wrap: wrap; margin-top: 1rem; }
+  .stage { flex: 1 1 9rem; background: var(--surface); border: 1px solid var(--hair); border-radius: 10px; padding: 1rem 1.1rem; }
+  .stage.done { opacity: .78; }
+  .stage.ja { border-color: var(--ja); box-shadow: 0 0 0 1px var(--ja); }
+  .stage .lang { font-size: 1.5rem; font-weight: 700; line-height: 1; }
+  .stage.s-ta .lang { font-family: 'Noto Sans Tamil', sans-serif; color: var(--gold); }
+  .stage.s-ja .lang { font-family: var(--font-ja); color: var(--ja); }
+  .stage.s-ko .lang { font-family: var(--font-ko); color: var(--ko); }
+  .stage .k { font-family: var(--font-display); font-weight: 700; font-size: .95rem; margin-top: .35rem; }
+  .stage .when { font-size: .78rem; color: var(--ink-faint); margin-top: .15rem; }
+  .stage .tag { font-size: .66rem; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; font-family: var(--font-display); margin-top: .3rem; display: inline-block; }
+  .stage.done .tag { color: var(--ok); }
+  .stage.ja .tag { color: var(--ja); }
+
+  footer { margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid var(--hair); font-size: .82rem; color: var(--ink-faint); }
+  .wordmark { font-family: var(--font-display); font-weight: 700; color: var(--ink); }
+  .wordmark .md { color: var(--gold); }
+  a { color: var(--gold); }
+</style>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800&family=Lato:wght@400;700&family=Noto+Sans+JP:wght@500;700&family=Noto+Sans+KR:wght@500;700&family=Noto+Sans+Tamil:wght@700&display=swap">
+
+<div class="wrap">
+  <header>
+    <p class="eyebrow">NegaraKu.md · Language expansion</p>
+    <h1>Adding <span class="ja">日本語</span> Japanese<br>and <span class="ko">한국어</span> Korean</h1>
+    <p class="lede">The fifth and sixth languages — reaching Malaysia's largest inbound investors and affluent visitors. Both reuse the infrastructure built for Tamil, so this is mostly a <em>content</em> effort with a short CJK-specific engineering delta. Sequenced Japanese first, then Korean.</p>
+    <div class="meta-row">
+      <span class="chip ja"><b>日本語</b> ja · at <code>/ja</code></span>
+      <span class="chip ko"><b>한국어</b> ko · at <code>/ko</code></span>
+      <span class="chip"><b>~2–3 days</b> infra delta / language</span>
+      <span class="chip"><b>1,073</b> masters × 2</span>
+    </div>
+  </header>
+
+  <section>
+    <div class="callout tip">
+      <h4>Track A is already built — this plan is the reuse</h4>
+      <p>The Tamil work (<a href="#">the fourth-language plan</a>) established the whole locale machinery: the <code>Locale</code> / <code>ContentLocale</code> split, the <code>loc()</code> Malay-fallback accessor, the 33-file route template, and the pipeline hooks (<code>translate.mjs</code>, <code>facebook.mjs</code>, sitemap/hreflang). Adding a language is now a <strong>known, repeatable procedure</strong>: clone the route directory, add the locale to a handful of lists, wire one script font, stand up one Facebook Page, then translate. Japanese and Korean each cost a fraction of Tamil's first-time engineering.</p>
+    </div>
+  </section>
+
+  <section>
+    <p class="section-head">The CJK-specific deltas (what differs from Tamil)</p>
+    <div class="langs">
+      <div class="lcard ja">
+        <div class="script">あ日ア</div>
+        <h3>Japanese</h3>
+        <div class="code">ja · /ja · hreflang ja · html lang="ja"</div>
+        <dl>
+          <dt>Font</dt><dd><strong>Noto Sans JP</strong> — three scripts (hiragana, katakana, kanji) in one face; ~vendor via Fontsource, plus the OG rasterizer.</dd>
+          <dt>Search</dt><dd>Pagefind ships a Japanese tokenizer, but CJK word-splitting is imperfect — indexes fine, relevance is decent, not en-grade.</dd>
+          <dt>Line-break</dt><dd>No inter-word spaces; set <code>word-break: normal</code> / <code>line-break: strict</code>, and check the OG-card wrap heuristic (currently CJK-aware for zh — reuses cleanly).</dd>
+          <dt>Audience</dt><dd>Japan is a top-5 source of FDI &amp; tourists — business + travel pillars lead demand.</dd>
+        </dl>
+      </div>
+      <div class="lcard ko">
+        <div class="script">한국어</div>
+        <h3>Korean</h3>
+        <div class="code">ko · /ko · hreflang ko · html lang="ko"</div>
+        <dl>
+          <dt>Font</dt><dd><strong>Noto Sans KR</strong> — Hangul syllabic blocks; vendor via Fontsource + OG rasterizer.</dd>
+          <dt>Search</dt><dd>Pagefind treats Korean by character/space segmentation (Hangul uses spaces) — closer to en behaviour than Japanese.</dd>
+          <dt>Line-break</dt><dd>Space-delimited like Latin, so wrapping is simpler than Japanese; the existing CJK width heuristic still applies to the OG cards.</dd>
+          <dt>Audience</dt><dd>Growing K-investment &amp; MM2H / tourism interest — business + living pillars.</dd>
+        </dl>
+      </div>
+    </div>
+    <div class="callout warnbox">
+      <h4>The one genuinely new engineering bit</h4>
+      <p>Tamil needed a brand-new script font and a fresh Facebook Page. Japanese and Korean need the same two things (their own Noto CJK faces + one FB Page &amp; token each) — but <em>unlike Tamil</em>, the site already loads a CJK face for Chinese, so the font wiring pattern and the OG rasterizer's CJK width/wrap handling are proven. Net: the font step is lower-risk than it was for Tamil, and there is no right-to-left work anywhere in this roadmap.</p>
+    </div>
+  </section>
+
+  <section>
+    <p class="section-head">Per-language delivery (repeat for ja, then ko)</p>
+
+    <article class="phase reuse">
+      <div class="phase-top"><span class="num">1</span><h2>Locale wiring</h2><span class="badge reuse">Reuse</span><span class="est">~0.5 day</span></div>
+      <p>Add the locale to the lists Tamil already parameterised — no new architecture.</p>
+      <ul class="work">
+        <li>Extend <code>Locale</code> in <code>categories.ts</code> (<code>… | 'ja'</code>); the <code>loc()</code> fallback already handles it.</li>
+        <li>Add to <code>content.config.ts</code> <code>lang</code> enum, <code>astro.config</code> i18n + sitemap locales, <code>lastmodFor()</code>, <code>BaseLayout</code> <code>htmlLang</code>/hreflang, <code>LOCALE_NAMES</code> (日本語 / 한국어), <code>localeFromPath()</code>.</li>
+        <li>Pipelines: <code>translate.mjs</code> <code>LOCALES</code>/<code>LANG_NAME</code>, <code>translation-sync</code> regex, <code>build-dashboard</code> <code>SITE_LANGS</code>.</li>
+      </ul>
+    </article>
+
+    <article class="phase reuse">
+      <div class="phase-top"><span class="num">2</span><h2>Routes</h2><span class="badge reuse">Reuse</span><span class="est">~0.5 day</span></div>
+      <p>Clone the proven route template — the <code>loc()</code> and <code>t()</code> fallbacks mean chrome renders in Malay until translated.</p>
+      <ul class="work">
+        <li>Duplicate <code>src/pages/en/**</code> → <code>src/pages/ja/**</code> (33 files), swap <code>'en'</code>→<code>'ja'</code> in each <code>getStaticPaths</code> caller, use <code>loc()</code> in the <code>[category]</code> title/description props.</li>
+      </ul>
+    </article>
+
+    <article class="phase newwork">
+      <div class="phase-top"><span class="num">3</span><h2>CJK font</h2><span class="badge newwork">New per language</span><span class="est">~0.5 day</span></div>
+      <p>The one script-specific step — but de-risked by the existing Chinese CJK wiring.</p>
+      <ul class="work">
+        <li>Self-host <code>@fontsource/noto-sans-jp</code> (or <code>-kr</code>); add to <code>tokens.css</code> stacks + <code>fontaine</code> fallback; add a <code>locale === 'ja'</code> web-font block in <code>BaseLayout</code>.</li>
+        <li>Make the face available to the OG rasterizer (<code>build-og.mjs</code>) and add it to the <code>TITLE_FONT</code>/<code>BODY_FONT</code> stacks; the CJK wrap heuristic already exists.</li>
+      </ul>
+    </article>
+
+    <article class="phase newwork">
+      <div class="phase-top"><span class="num">4</span><h2>Facebook Page</h2><span class="badge newwork">New per language</span><span class="est">~0.5 day</span></div>
+      <p>One new Page per language so the FB backlog drip includes it.</p>
+      <ul class="work">
+        <li>Create the Japanese (then Korean) Page, assign to the system user, set <code>FB_PAGE_ID_JA</code> in <code>facebook.mjs</code> <code>PAGES</code> + <code>LANGS</code>; widen the hashtag script-check and <code>catNameMap</code> regex for the new locale.</li>
+      </ul>
+    </article>
+
+    <article class="phase reuse">
+      <div class="phase-top"><span class="num">5</span><h2>Taxonomy &amp; UI strings</h2><span class="badge reuse">Content-in-code</span><span class="est">~2–3 days</span></div>
+      <p>Add the locale's values to the same surfaces Tamil filled — the structure is settled, only the translations are new.</p>
+      <ul class="work">
+        <li>~110 <code>i18n</code> UI keys, ~44 inline <code>L()</code> call sites, ~140 subcategories, ~30 category names/blurbs/intros, OG/SEO/llms mirrors.</li>
+      </ul>
+    </article>
+
+    <article class="phase newwork">
+      <div class="phase-top"><span class="num">6</span><h2>Corpus translation</h2><span class="badge newwork">The long pole</span><span class="est">weeks</span></div>
+      <p>Pilot ~10 articles, verify on-site + OG + FB, then translate all ~1,073 masters via <code>translate.mjs</code>, human-reviewed, published through the <code>publish-reviewed</code> flow.</p>
+      <ul class="work">
+        <li>Soft launch: hold the locale out of <code>LOCALES</code> (switcher) until the corpus crosses a parity threshold — same gate as Tamil.</li>
+      </ul>
+    </article>
+  </section>
+
+  <section>
+    <p class="section-head">Effort per language</p>
+    <div class="table-scroll">
+      <table>
+        <thead><tr><th>Step</th><th>Type</th><th>Per language</th></tr></thead>
+        <tbody>
+          <tr><td>1 · Locale wiring</td><td>Reuse</td><td class="n">~0.5 day</td></tr>
+          <tr><td>2 · Routes</td><td>Reuse</td><td class="n">~0.5 day</td></tr>
+          <tr><td>3 · CJK font</td><td>New</td><td class="n">~0.5 day</td></tr>
+          <tr><td>4 · Facebook Page</td><td>New</td><td class="n">~0.5 day</td></tr>
+          <tr><td>5 · Taxonomy &amp; UI</td><td>Content-in-code</td><td class="n">~2–3 days</td></tr>
+          <tr><td><strong>Infra + strings subtotal</strong></td><td></td><td class="n"><strong>~4–5 days</strong></td></tr>
+          <tr><td>6 · Corpus translation</td><td>Content</td><td class="n">weeks (review-bound)</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p style="font-size:.9rem; color:var(--ink-faint); margin-top:1rem;">Roughly half the first-time Tamil engineering, because Track A is done. The corpus translation dominates the calendar for both, and can run in parallel with the ongoing Tamil and backlog drips.</p>
+  </section>
+
+  <section>
+    <p class="section-head">Roadmap position</p>
+    <div class="roadmap">
+      <div class="stage done s-ta"><div class="lang">தமிழ்</div><div class="k">Tamil · ta</div><div class="when">Phase 0/1 foundation landed</div><div class="tag">◑ In progress</div></div>
+      <div class="stage ja s-ja"><div class="lang">日本語</div><div class="k">Japanese · ja</div><div class="when">Next after Tamil</div><div class="tag">◆ This plan</div></div>
+      <div class="stage s-ko"><div class="lang">한국어</div><div class="k">Korean · ko</div><div class="when">After Japanese</div><div class="tag">This plan</div></div>
+    </div>
+    <p style="font-size:.9rem; color:var(--ink-faint); margin-top:1rem;">Doing Japanese first exercises the CJK font + rasterizer path once more; Korean then follows the identical steps with Hangul, benefiting from the Japanese pass. Both take NegaraKu.md's six languages to cover Malaysia's home communities and its four largest non-Chinese inbound markets.</p>
+  </section>
+
+  <footer>
+    <p><span class="wordmark">NegaraKu<span class="md">.md</span></span> — Japanese &amp; Korean expansion plan · builds on the Tamil locale foundation (commit landed 2026-09-11) · corpus at 1,073 published masters.</p>
+  </footer>
+</div>
