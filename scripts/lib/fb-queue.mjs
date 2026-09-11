@@ -153,11 +153,11 @@ export function markComment(m, base, lang, status) {
 // --- warm-up ramp ----------------------------------------------------------
 
 // Articles to post per DAY, ramping as the rollout ages so the young Pages warm
-// up before volume climbs: 1/day weeks 1-2, 3/day weeks 3-4, 5/day weeks 5-6,
-// then 10/day for the long tail. Each article posts once to each language Page.
-// The daily total is split across the day's cron ticks (see the poster), so 10/day
-// drips through the day rather than flooding the feed at once. Override with
-// FB_BACKLOG_PER_DAY.
+// up before volume climbs: 1/day weeks 1-2, 3/day weeks 3-4, then 5/day. Each
+// article posts once to each language Page, and the daily total is split across
+// the day's cron ticks (see the poster) so it drips rather than flooding the feed.
+// Deliberately conservative to protect per-post reach while the Pages are young —
+// raise the tail rate here (e.g. 10) or set FB_BACKLOG_PER_DAY once they warm up.
 export function perRunArticles(manifest, now = Date.now()) {
   const override = Number(process.env.FB_BACKLOG_PER_DAY);
   if (Number.isFinite(override) && override > 0) return override;
@@ -165,8 +165,7 @@ export function perRunArticles(manifest, now = Date.now()) {
   const days = Math.max(0, Math.floor((now - started) / 86400000));
   if (days < 14) return 1;
   if (days < 28) return 3;
-  if (days < 42) return 5;
-  return 10;
+  return 5;
 }
 
 // How many DISTINCT articles the backlog already posted "today" in Malaysia time
