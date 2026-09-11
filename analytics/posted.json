@@ -1,6 +1,6 @@
 {
   "meta": {
-    "startedAt": "2026-09-11T06:00:56.761Z",
+    "startedAt": null,
     "note": "Backlog poster manifest — records each (article#lang) with its post_id and comment_status ('posted'/'failed'/'na') so the queue never re-posts and can retry only pending comments. startedAt drives the warm-up ramp."
   },
   "posted": {
