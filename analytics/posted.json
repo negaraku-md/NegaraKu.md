@@ -1,23 +1,7 @@
 {
   "meta": {
-    "startedAt": "2026-09-10T18:42:17.761Z",
-    "note": "Backlog poster manifest — records each (article#lang) already posted so the queue never re-posts it. startedAt is set on the first real cron post and drives the warm-up ramp."
+    "startedAt": null,
+    "note": "Backlog poster manifest — records each (article#lang) with its post_id and comment_status ('posted'/'failed'/'na') so the queue never re-posts and can retry only pending comments. startedAt drives the warm-up ramp."
   },
-  "posted": {
-    "knowledge/business/cradle-cip-grant#ms": {
-      "post_id": "1227711683752433_122127001707390559",
-      "at": "2026-09-10T18:42:17.761Z",
-      "comment_status": "failed"
-    },
-    "knowledge/business/cradle-cip-grant#en": {
-      "post_id": "1334373156431426_122106215595464751",
-      "at": "2026-09-10T18:42:25.320Z",
-      "comment_status": "failed"
-    },
-    "knowledge/business/cradle-cip-grant#zh": {
-      "post_id": "1382294921622880_122095068627480386",
-      "at": "2026-09-10T18:42:32.105Z",
-      "comment_status": "failed"
-    }
-  }
+  "posted": {}
 }
