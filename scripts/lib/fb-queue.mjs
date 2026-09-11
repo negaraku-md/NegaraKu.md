@@ -125,10 +125,11 @@ export function saveManifest(m) {
 // post to be recreated — a later run retries ONLY the comment on the saved id.
 const key = (base, lang) => `${base}#${lang}`;
 export const entryFor = (m, base, lang) => m.posted[key(base, lang)];
-// Fully done only when the post AND its first comment are up.
+// Fully done: the post is up AND the link is placed — comment_status 'posted'
+// (comment mode) or 'na' (caption mode, link is in the caption so no comment).
 export const isDone = (m, base, lang) => {
   const e = m.posted[key(base, lang)];
-  return Boolean(e && e.post_id && e.comment_status === 'posted');
+  return Boolean(e && e.post_id && (e.comment_status === 'posted' || e.comment_status === 'na'));
 };
 // The photo post already exists (so retry must comment on it, never recreate it).
 export const hasPost = (m, base, lang) => Boolean(m.posted[key(base, lang)]?.post_id);

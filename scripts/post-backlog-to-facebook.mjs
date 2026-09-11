@@ -1,14 +1,16 @@
 // post-backlog-to-facebook.mjs — post the EXISTING published corpus to the
-// Facebook Pages as NATIVE IMAGE posts (each article's OG card), with the link
-// in the FIRST COMMENT for maximum reach.
+// Facebook Pages as NATIVE IMAGE posts (each article's OG card), placing the
+// article link per LINK_MODE.
 //
 // Why this is separate from post-to-facebook.mjs:
 //  • post-to-facebook.mjs announces a NEW article as a link post (its push
 //    trigger is currently paused during this backlog rollout).
-//  • This poster drains the ~1,000-article backlog as a native photo (FB
-//    favours photos over off-site link previews) whose post body carries NO
-//    external link at all — the UTM-tagged link is posted as the first comment,
-//    which needs pages_manage_engagement on the token.
+//  • This poster drains the ~1,000-article backlog as a native photo (FB favours
+//    photos over off-site link previews). The link goes either in the CAPTION
+//    (default — visible, tappable, needs only pages_manage_posts) or in the
+//    FIRST COMMENT (max reach — needs pages_manage_engagement at Advanced Access).
+//  • Post ids are persisted the instant the photo posts, so a comment failure
+//    never recreates a post; switching modes later is just FB_LINK_MODE.
 //  • Attribution is preserved: the link is UTM-tagged (utm_source=facebook).
 //
 // Invoked with article files/bases (the daily queue passes the day's batch), or
@@ -18,6 +20,7 @@
 // Env:
 //   FB_PAGE_ACCESS_TOKEN  — system-user token (mints each Page's own token).
 //   SITE_URL              — default https://negaraku.md
+//   FB_LINK_MODE          — 'caption' (default) or 'comment'.
 //   FB_DRY_RUN=1          — log what would be posted, don't call the API.
 
 import { readFile } from 'node:fs/promises';
@@ -39,6 +42,12 @@ const DRY_RUN = process.env.FB_DRY_RUN === '1';
 // Queue mode: with no explicit files, drain the ranked backlog (the daily cron
 // path). With files/CHANGED_FILES, post exactly those (manual/one-off).
 const QUEUE = process.env.FB_BACKLOG_QUEUE === '1';
+// Where the article link goes: 'caption' (a visible, tappable link on line 2 —
+// works with just pages_manage_posts, best for clicks) or 'comment' (link in the
+// first comment for maximum reach — needs pages_manage_engagement at Advanced
+// Access, i.e. App Review). Default caption; flip with FB_LINK_MODE=comment once
+// commenting is approved.
+const LINK_MODE = process.env.FB_LINK_MODE === 'comment' ? 'comment' : 'caption';
 
 // A comment-prompt question per pillar × language — invites a reply, and
 // comments are Facebook's strongest reach signal. Unknown pillar → 'understand'.
@@ -59,9 +68,14 @@ const PROMPT = {
     zh: '在马来西亚创业或拓展业务吗？',
   },
 };
-// Points readers to the link, which lives in the first comment (kept out of the
-// post body for maximum reach).
-const CTA = {
+// Caption mode: precedes the tappable link on line 2. Comment mode: points to
+// the first comment. Chosen by LINK_MODE.
+const CTA_CAPTION = {
+  ms: '🔗 Baca panduan penuh:',
+  en: '🔗 Read the full guide:',
+  zh: '🔗 阅读完整指南：',
+};
+const CTA_COMMENT = {
   ms: '🔗 Panduan penuh dalam komen pertama 👇',
   en: '🔗 Full guide in the first comment 👇',
   zh: '🔗 完整指南见首条评论 👇',
@@ -121,11 +135,13 @@ function buildPost(file, data, lang, prefix) {
   // Canonical (trailing-slash) URL so Facebook's scraper never follows a 301.
   const link = withUtm(articleUrl(SITE_URL, prefix, data.category, data.slug), 'facebook', 'social');
   const prompt = (PROMPT[pillarOf(data.category)] ?? PROMPT.understand)[lang];
-  // MAX-REACH format: no link in the post body — just title, summary (value), a
-  // comment-prompt question, a "link is in the first comment 👇" nudge, and
-  // localized hashtags. The UTM-tagged link is posted as the first comment (see
-  // post()), so the post carries no reach-suppressing external link at all.
-  const caption = [data.title, '', data.summary, '', prompt, CTA[lang], '', hashtags(data, lang)].join('\n');
+  const tags = hashtags(data, lang);
+  // caption mode: the tappable link sits on line 2, above Facebook's "See more"
+  // fold, so it shows without expanding. comment mode: no link in the body (it
+  // goes in the first comment for max reach) — just a nudge to the comment.
+  const caption = LINK_MODE === 'caption'
+    ? [data.title, `${CTA_CAPTION[lang]} ${link}`, '', data.summary, '', prompt, '', tags].join('\n')
+    : [data.title, '', data.summary, '', prompt, CTA_COMMENT[lang], '', tags].join('\n');
   return { image, caption, link };
 }
 
@@ -153,7 +169,7 @@ async function preview(t) {
     `[fb-backlog] ${DRY_RUN ? 'DRY_RUN' : 'no credentials'} — would post [${t.lang}] → page ${PAGES[t.lang]}` +
     `${live ? '' : '  ⚠️ URL NOT LIVE — would be SKIPPED'}\n` +
     `  photo:   ${p.image}\n` +
-    `  comment: ${p.link}\n` +
+    `  link:    ${p.link}\n` +
     `  caption:\n${p.caption.split('\n').map((l) => '    | ' + l).join('\n')}\n`,
   );
 }
@@ -188,10 +204,17 @@ async function handle(t, manifest) {
   if (!p) return 'skip';
   const pageToken = await tokenFor(t.lang);
   if (!pageToken) return 'error';
-
-  // RETRY path — the photo already exists; comment on the SAVED id, never recreate it.
   const existing = entryFor(manifest, t.base, t.lang);
+
+  // A post already exists for this (base, lang).
   if (existing?.post_id) {
+    // caption mode: the link is in the caption, so the post is already complete.
+    if (LINK_MODE === 'caption') {
+      markComment(manifest, t.base, t.lang, 'na');
+      saveManifest(manifest);
+      return 'full';
+    }
+    // comment mode: retry ONLY the first comment on the saved id — never recreate.
     const ok = await postComment(existing.post_id, p.link, pageToken);
     markComment(manifest, t.base, t.lang, ok ? 'posted' : 'failed');
     saveManifest(manifest);
@@ -214,12 +237,19 @@ async function handle(t, manifest) {
     return 'error';
   }
   const storyId = photoJson.post_id || photoJson.id;
-  // Persist the post id IMMEDIATELY — before the comment — so it can never be lost.
+  // Persist the post id IMMEDIATELY — before any comment — so it can never be lost.
   markPost(manifest, t.base, t.lang, storyId);
   manifest.meta.startedAt ??= new Date().toISOString();
   saveManifest(manifest);
   console.log(`[fb-backlog] posted [${t.lang}] ${p.image} → ${storyId}`);
 
+  // caption mode: link is in the caption — done, no comment needed.
+  if (LINK_MODE === 'caption') {
+    markComment(manifest, t.base, t.lang, 'na');
+    saveManifest(manifest);
+    return 'full';
+  }
+  // comment mode: post the link as the first comment.
   const ok = await postComment(storyId, p.link, pageToken);
   markComment(manifest, t.base, t.lang, ok ? 'posted' : 'failed');
   saveManifest(manifest);
@@ -269,7 +299,7 @@ async function main() {
   // Dry run / no token: log what would be posted, never call the API, exit 0.
   if (DRY_RUN || !TOKEN) { for (const t of ts) await preview(t); return; }
 
-  await reportScopes();
+  if (LINK_MODE === 'comment') await reportScopes(); // scope/task diagnostic matters only for comments
 
   const tally = { full: 0, 'comment-ok': 0, 'comment-pending': 0, error: 0, skip: 0 };
   for (const t of ts) tally[await handle(t, manifest)] += 1;
