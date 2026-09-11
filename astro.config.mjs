@@ -34,7 +34,7 @@ function lastmodFor(url) {
   let p = url.replace(SITE, '').replace(/^\/+|\/+$/g, ''); // e.g. "en/malaysia/slug"
   if (!p) return undefined; // homepage
   const seg = p.split('/');
-  const lang = seg[0] === 'en' || seg[0] === 'zh' ? seg.shift() : 'ms';
+  const lang = seg[0] === 'en' || seg[0] === 'zh' || seg[0] === 'ta' ? seg.shift() : 'ms';
   if (seg.length < 2) return undefined; // category/list page, not an article
   return lastmodByPath.get(`${lang}/${seg.join('/')}`);
 }
@@ -141,18 +141,23 @@ export default defineConfig({
   },
   i18n: {
     defaultLocale: 'ms',
-    locales: ['ms', 'en', 'zh'],
+    locales: ['ms', 'en', 'zh', 'ta'],
     routing: {
-      prefixDefaultLocale: false, // ms lives at "/", en at "/en", zh at "/zh"
+      prefixDefaultLocale: false, // ms lives at "/", en at "/en", zh at "/zh", ta at "/ta"
     },
   },
   integrations: [
     mdx(),
     sitemap({
+      // Tamil (`ta`) is intentionally omitted while soft-launched: its pages are
+      // `noindex` (Malay-content fallback) so they must not be advertised here as
+      // hreflang alternates or listed as URLs. Add `ta: 'ta'` + drop the filter
+      // when Tamil opens to the public (also added to LOCALES in i18n.ts).
       i18n: {
         defaultLocale: 'ms',
         locales: { ms: 'ms-MY', en: 'en', zh: 'zh-Hans' },
       },
+      filter: (page) => !/\/ta(\/|$)/.test(new URL(page).pathname),
       serialize(item) {
         const lastmod = lastmodFor(item.url);
         if (lastmod) item.lastmod = lastmod;

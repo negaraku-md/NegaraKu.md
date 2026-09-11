@@ -1,0 +1,11 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PillarHubView from '@/components/PillarHubView.astro';
+import { getPillarDef, loc } from '@/lib/categories';
+const locale = 'ta';
+const def = getPillarDef('living')!;
+---
+
+<BaseLayout locale={locale} title={loc(def.name, locale)} description={loc(def.tagline, locale)} path="/living">
+  <PillarHubView locale={locale} pillar="living" />
+</BaseLayout>

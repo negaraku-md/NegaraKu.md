@@ -83,6 +83,11 @@ const fullTitle = title.includes('NegaraKu.md')
 // that 301-redirects to it.
 const canonical = new URL(withTrailingSlash(localePath(path, locale)), site).toString();
 const htmlLang = locale === 'zh' ? 'zh-Hans' : locale === 'ms' ? 'ms-MY' : locale === 'ta' ? 'ta' : 'en';
+// A locale whose routes exist but which is NOT yet publicly launched (not in
+// LOCALES — the switcher/hreflang set) is soft-launched: its pages render (as a
+// Malay-content fallback) for preview, but are `noindex` so search engines don't
+// index them as duplicates of the `/` (ms) pages until real translations land.
+const softLaunched = !LOCALES.includes(locale);
 // Per-page OG image (e.g. the article's own card), else the branded default —
 // localized so a /zh or /en page's link preview reads in its own language.
 const defaultOg = locale === 'ms' ? '/og/default.png' : `/og/${locale}/default.png`;
@@ -102,7 +107,7 @@ const ogImageAlt = image ? title : `${t('site.title', locale)} — ${t('site.tag
     {keywords && <meta name="keywords" content={keywords} />}
     <meta
       name="robots"
-      content={MAINTENANCE || bare ? 'noindex, nofollow' : 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
+      content={MAINTENANCE || bare || softLaunched ? 'noindex, nofollow' : 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
     />
     <link rel="canonical" href={canonical} />
 
