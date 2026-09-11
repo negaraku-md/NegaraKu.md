@@ -47,8 +47,8 @@ async function collectPngs(dir) {
 const esc = (s) =>
   String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 const titleCase = (id) => id.split('-').map((w) => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
-const TITLE_FONT = "Montserrat, 'Noto Sans', 'Noto Sans CJK SC', 'Microsoft YaHei', Arial, sans-serif";
-const BODY_FONT = "Lato, 'Noto Sans', 'Noto Sans CJK SC', 'Microsoft YaHei', Arial, sans-serif";
+const TITLE_FONT = "Montserrat, 'Noto Sans Tamil', 'Noto Sans', 'Noto Sans CJK SC', 'Microsoft YaHei', Arial, sans-serif";
+const BODY_FONT = "Lato, 'Noto Sans Tamil', 'Noto Sans', 'Noto Sans CJK SC', 'Microsoft YaHei', Arial, sans-serif";
 
 // --- taxonomy (mirrors src/lib/categories.ts) — pillar + localized category
 // names, so the breadcrumb reads exactly like the article page. --------------

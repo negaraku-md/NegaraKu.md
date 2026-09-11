@@ -41,9 +41,9 @@
      fallback occupies the same space as the web font — no reflow (CLS) when
      Montserrat/Lato swap in. They must sit right after the web font in the
      stack; fontaine only defines them, it does not splice custom properties. */
-  --font-title: 'Montserrat', 'Montserrat fallback', 'Arial', sans-serif; /* headings + wordmark */
+  --font-title: 'Montserrat', 'Montserrat fallback', 'Noto Sans Tamil', 'Arial', sans-serif; /* headings + wordmark */
   --font-reading: 'Lato', 'Lato fallback', 'Calibri', -apple-system, BlinkMacSystemFont, 'Segoe UI',
-    Roboto, 'Helvetica Neue', Arial, 'Noto Sans SC', 'Microsoft YaHei', sans-serif;
+    Roboto, 'Helvetica Neue', Arial, 'Noto Sans Tamil', 'Noto Sans SC', 'Microsoft YaHei', sans-serif;
   --font-interface: var(--font-reading); /* nav / buttons / meta */
   /* Legacy aliases */
   --font-serif: var(--font-title);

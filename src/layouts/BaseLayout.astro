@@ -194,6 +194,32 @@ const ogImageAlt = image ? title : `${t('site.title', locale)} — ${t('site.tag
         </noscript>
       </>
     )}
+    {/* Tamil script (U+0B80–U+0BFF) — none of the Latin brand fonts cover it, so
+        /ta pages load Noto Sans Tamil (small, unlike the CJK face). Loaded only on
+        ta pages so ms/en/zh keep their zero-third-party-font budget. */}
+    {locale === 'ta' && (
+      <>
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link
+          rel="preload"
+          as="style"
+          href="https://fonts.googleapis.com/css2?family=Noto+Sans+Tamil:wght@400;500;700&display=swap"
+        />
+        <link
+          rel="stylesheet"
+          href="https://fonts.googleapis.com/css2?family=Noto+Sans+Tamil:wght@400;500;700&display=swap"
+          media="print"
+          onload="this.media='all'"
+        />
+        <noscript>
+          <link
+            rel="stylesheet"
+            href="https://fonts.googleapis.com/css2?family=Noto+Sans+Tamil:wght@400;500;700&display=swap"
+          />
+        </noscript>
+      </>
+    )}
 
     {jsonLd && <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />}
   </head>

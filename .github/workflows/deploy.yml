@@ -60,7 +60,7 @@ jobs:
         uses: actions/cache@v5
         with:
           path: ~/og-fonts-deb
-          key: og-fonts-deb-noto-cjk-liberation-v1
+          key: og-fonts-deb-noto-cjk-liberation-tamil-v2
 
       - name: Install fonts for Open Graph images
         # BEST-EFFORT — OG social-card fonts must never block the site deploy
@@ -85,15 +85,15 @@ jobs:
           else
             for i in 1 2 3; do
               sudo apt-get update && \
-              sudo apt-get install -y --no-install-recommends --download-only fonts-noto-cjk fonts-liberation && break
+              sudo apt-get install -y --no-install-recommends --download-only fonts-noto-cjk fonts-liberation fonts-noto-core && break
               echo "apt attempt $i failed; retrying in 5s"; sleep 5
             done
             cp /var/cache/apt/archives/*.deb ~/og-fonts-deb/ 2>/dev/null || true
-            sudo dpkg -i ~/og-fonts-deb/*.deb 2>/dev/null || sudo apt-get install -y --no-install-recommends fonts-noto-cjk fonts-liberation || true
+            sudo dpkg -i ~/og-fonts-deb/*.deb 2>/dev/null || sudo apt-get install -y --no-install-recommends fonts-noto-cjk fonts-liberation fonts-noto-core || true
           fi
           fc-cache -f >/dev/null 2>&1 || true
           echo "== OG fonts visible to fontconfig =="
-          fc-list | grep -iE "montserrat|lato|noto sans cjk|liberation" | sort | head -30 || true
+          fc-list | grep -iE "montserrat|lato|noto sans cjk|noto sans tamil|liberation" | sort | head -30 || true
 
       # Restore the per-article Open Graph PNGs so build-og only regenerates the
       # cards whose content actually changed (see scripts/build-og.mjs). The key
