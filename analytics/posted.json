@@ -1,7 +1,23 @@
 {
   "meta": {
-    "startedAt": null,
+    "startedAt": "2026-09-11T06:00:56.761Z",
     "note": "Backlog poster manifest — records each (article#lang) with its post_id and comment_status ('posted'/'failed'/'na') so the queue never re-posts and can retry only pending comments. startedAt drives the warm-up ramp."
   },
-  "posted": {}
+  "posted": {
+    "knowledge/business/cradle-cip-grant#ms": {
+      "post_id": "1227711683752433_122127135465390559",
+      "at": "2026-09-11T06:00:56.761Z",
+      "comment_status": "na"
+    },
+    "knowledge/business/cradle-cip-grant#en": {
+      "post_id": "1334373156431426_122106621399464751",
+      "at": "2026-09-11T06:01:02.271Z",
+      "comment_status": "na"
+    },
+    "knowledge/business/cradle-cip-grant#zh": {
+      "post_id": "1382294921622880_122095292895480386",
+      "at": "2026-09-11T06:01:06.802Z",
+      "comment_status": "na"
+    }
+  }
 }
