@@ -17,7 +17,7 @@ interface Props {
   articles: Article[];
 }
 const { locale, category, articles } = Astro.props;
-const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const L = (ms: string, en: string, zh: string, ta?: string) => (locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 const href = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, locale);
 const topicHref = (s: string) => localePath(`/${category.id}/topic/${s}`, locale);
 

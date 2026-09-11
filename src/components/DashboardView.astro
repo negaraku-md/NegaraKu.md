@@ -12,7 +12,7 @@ interface Props {
 }
 const { locale } = Astro.props;
 const d = getDashboard();
-const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const L = (ms: string, en: string, zh: string, ta?: string) => (locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 // Per-language coverage rows for the trilingual bars (master ms first).
 const LANG_NAMES: Record<string, string> = { ms: 'Bahasa Malaysia', en: 'English', zh: '中文' };

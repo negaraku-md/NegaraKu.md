@@ -24,7 +24,7 @@ interface Props {
   exclude?: string[];
 }
 const { locale, articles, limit = 4, moreHref, sort = 'reads', exclude = [] } = Astro.props;
-const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const L = (ms: string, en: string, zh: string, ta?: string) => (locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 const analytics = getAnalytics();
 const readsOf = (a: Article): number => {

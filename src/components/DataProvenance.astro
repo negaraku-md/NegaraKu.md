@@ -12,7 +12,7 @@ interface Props {
   dataset: string;
 }
 const { locale, dataset } = Astro.props;
-const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const L = (ms: string, en: string, zh: string, ta?: string) => (locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 const p = getProvenance(dataset);
 
 const badge = {

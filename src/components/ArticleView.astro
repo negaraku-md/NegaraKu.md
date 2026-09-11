@@ -33,7 +33,7 @@ interface Props {
 }
 const { locale, article } = Astro.props;
 const d = article.data;
-const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const L = (ms: string, en: string, zh: string, ta?: string) => (locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 const cat = getCategory(d.category);
 const path = `/${d.category}/${d.slug}`;

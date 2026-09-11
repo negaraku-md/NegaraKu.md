@@ -22,7 +22,7 @@ interface Props {
   topSeparator?: boolean;
 }
 const { locale, pillar, activeCategory, categoryId, activeTopic, topSeparator } = Astro.props;
-const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const L = (ms: string, en: string, zh: string, ta?: string) => (locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 const cats = categoriesInPillar(pillar);
 const items = await articlesForLocale(locale);
