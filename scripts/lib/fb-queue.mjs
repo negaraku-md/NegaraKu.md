@@ -165,6 +165,21 @@ export function perRunArticles(manifest, now = Date.now()) {
   return 5;
 }
 
+// True if the backlog already posted a batch "today" in Malaysia time (UTC+8).
+// This makes the daily cron idempotent: the schedule fires several times a day so
+// a skipped GitHub-scheduled tick is caught by a later one, but the poster guards
+// on this so no more than ONE batch posts per MYT day. (A run posts a whole batch
+// back-to-back, so the newest `at` marks the day the last batch went out.)
+export function postedTodayMYT(manifest, now = Date.now()) {
+  const MYT_OFFSET = 8 * 3600000; // UTC+8, no DST in Malaysia
+  const mytDay = (ms) => new Date(ms + MYT_OFFSET).toISOString().slice(0, 10); // YYYY-MM-DD in MYT
+  const today = mytDay(now);
+  for (const e of Object.values(manifest.posted || {})) {
+    if (e?.at && mytDay(Date.parse(e.at)) === today) return true;
+  }
+  return false;
+}
+
 // The next batch of article bases to act on: ranked order, dropping any base
 // that is fully done in every language (post + comment), capped at `count`. A
 // base with a failed/pending comment is still included so the poster retries the

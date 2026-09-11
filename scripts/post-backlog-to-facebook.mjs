@@ -33,7 +33,7 @@ import {
 } from './lib/facebook.mjs';
 import {
   loadManifest, saveManifest, isDone, hasPost, entryFor, markPost, markComment,
-  nextBatch, perRunArticles,
+  nextBatch, perRunArticles, postedTodayMYT,
 } from './lib/fb-queue.mjs';
 
 const SITE_URL = process.env.SITE_URL ?? 'https://negaraku.md';
@@ -42,6 +42,11 @@ const DRY_RUN = process.env.FB_DRY_RUN === '1';
 // Queue mode: with no explicit files, drain the ranked backlog (the daily cron
 // path). With files/CHANGED_FILES, post exactly those (manual/one-off).
 const QUEUE = process.env.FB_BACKLOG_QUEUE === '1';
+// Set only on GitHub `schedule` (cron) runs. The cron fires several times a day
+// so a skipped scheduled tick is caught by a later one; this flag makes those
+// scheduled runs idempotent (at most one batch per MYT day — see postedTodayMYT).
+// Manual dispatches never set it, so a manual run always posts.
+const SCHEDULED = process.env.FB_SCHEDULED === '1';
 // Where the article link goes: 'caption' (a visible, tappable link on line 2 —
 // works with just pages_manage_posts, best for clicks) or 'comment' (link in the
 // first comment for maximum reach — needs pages_manage_engagement at Advanced
@@ -297,6 +302,13 @@ async function main() {
     return;
   }
   const manifest = loadManifest();
+  // Self-healing schedule: a scheduled tick that fires after today's batch is
+  // already out does nothing (the cron runs 3×/day only so a missed 13:00 tick is
+  // covered by 16:00/19:00). Manual dispatch (no FB_SCHEDULED) bypasses this.
+  if (SCHEDULED && postedTodayMYT(manifest)) {
+    console.log('[fb-backlog] a batch already posted today (MYT) — scheduled run skipped (self-healing cron guard).');
+    return;
+  }
   const ts = resolveTargets(files, manifest);
   if (!ts.length) { console.log('[fb-backlog] nothing to do (all caught up).'); return; }
 

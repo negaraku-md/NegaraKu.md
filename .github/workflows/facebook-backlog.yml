@@ -13,7 +13,11 @@ name: Post backlog to Facebook
 # analytics/**).
 on:
   schedule:
-    - cron: '0 5 * * *' # daily 13:00 MYT (UTC+8) — the backlog drip
+    # Fires 3× a day (13:00 / 16:00 / 19:00 MYT). The poster guards on
+    # postedTodayMYT so only ONE batch posts per day — the extra ticks exist so a
+    # GitHub-skipped 13:00 run is self-healed by a later one. Manual dispatch is
+    # never guarded (it doesn't set FB_SCHEDULED).
+    - cron: '0 5,8,11 * * *' # 13:00, 16:00, 19:00 MYT (UTC+8)
   workflow_dispatch:
     inputs:
       files:
@@ -50,6 +54,9 @@ jobs:
           SITE_URL: https://negaraku.md
           # Empty "files" input → queue mode (post the next ranked batch).
           FB_BACKLOG_QUEUE: '1'
+          # Set only on cron runs → the once-per-MYT-day guard applies to the
+          # scheduled ticks, but a manual dispatch always posts.
+          FB_SCHEDULED: ${{ github.event_name == 'schedule' && '1' || '' }}
           FB_DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '' }}
         run: node scripts/post-backlog-to-facebook.mjs ${{ github.event.inputs.files }}
 
