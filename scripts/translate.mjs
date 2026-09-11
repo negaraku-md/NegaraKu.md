@@ -31,7 +31,7 @@ import matter from 'gray-matter';
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const KNOWLEDGE = path.join(ROOT, 'knowledge');
 const DOCS = path.join(ROOT, 'docs');
-const LOCALES = ['ms', 'en', 'zh'];
+const LOCALES = ['ms', 'en', 'zh', 'ta'];
 
 const arg = (name) =>
   process.argv.includes(name) ? process.argv[process.argv.indexOf(name) + 1] : null;
@@ -49,7 +49,7 @@ const PROSE_KEYS = [
   'seoTitle', 'socialTitle', 'appliesTo', 'verificationNeeded', 'obligations',
 ];
 
-const LANG_NAME = { ms: 'Bahasa Malaysia', en: 'English', zh: 'Simplified Chinese (Malaysian usage)' };
+const LANG_NAME = { ms: 'Bahasa Malaysia', en: 'English', zh: 'Simplified Chinese (Malaysian usage)', ta: 'Tamil (Malaysian usage)' };
 
 async function walk(dir) {
   const out = [];
@@ -72,8 +72,9 @@ let SPEC = '';
 const GLOSSARY = {};
 async function loadContext() {
   SPEC = await readIfExists(path.join(DOCS, 'TRANSLATION-SPEC.md'));
-  GLOSSARY.zh = await readIfExists(path.join(DOCS, 'plan', 'GLOSSARY-ZH.md'));
-  GLOSSARY.ms = await readIfExists(path.join(DOCS, 'plan', 'GLOSSARY-MS.md'));
+  GLOSSARY.zh = await readIfExists(path.join(DOCS, 'plans', 'GLOSSARY-ZH.md'));
+  GLOSSARY.ms = await readIfExists(path.join(DOCS, 'plans', 'GLOSSARY-MS.md'));
+  GLOSSARY.ta = await readIfExists(path.join(DOCS, 'plans', 'GLOSSARY-TA.md'));
 }
 
 function systemPrompt(target) {

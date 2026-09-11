@@ -23,6 +23,14 @@ export const PAGES = {
   ms: process.env.FB_PAGE_ID_MS || process.env.FB_PAGE_ID || '1227711683752433',
   en: process.env.FB_PAGE_ID_EN || '1334373156431426',
   zh: process.env.FB_PAGE_ID_ZH || '1382294921622880',
+  // Roadmap Pages (Tamil/Japanese/Korean) — created 2026-09-11. Recorded here so
+  // the ids aren't lost, but ta/ja/ko are NOT yet in LANGS (above), so the poster
+  // never touches them until (1) that language has PUBLISHED content and (2) the
+  // Page is assigned to the "NegaraKu Poster" system user so FB_PAGE_ACCESS_TOKEN
+  // can mint its page token. Activate a language by adding it to LANGS.
+  ta: process.env.FB_PAGE_ID_TA || '1317515884777917',
+  ja: process.env.FB_PAGE_ID_JA || '1234264816444540',
+  ko: process.env.FB_PAGE_ID_KO || '1308994995630346',
 };
 
 // The URL locale prefix for a language: ms lives at "/", en at "/en", zh at "/zh".

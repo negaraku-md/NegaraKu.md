@@ -80,7 +80,7 @@ for (const cat of await readdir(KNOWLEDGE, { withFileTypes: true })) {
 const topics = new Map();
 for (const file of files) {
   const base = path.basename(file, '.md');
-  const m = base.match(/^(.*)\.(en|zh|ms)$/);
+  const m = base.match(/^(.*)\.(en|zh|ms|ta)$/);
   const key = `${path.basename(path.dirname(file))}/${m ? m[1] : base}`;
   if (!topics.has(key)) topics.set(key, { master: null, translations: [] });
   if (m) topics.get(key).translations.push({ file, lang: m[2] });
