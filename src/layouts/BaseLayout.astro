@@ -82,7 +82,7 @@ const fullTitle = title.includes('NegaraKu.md')
 // canonical/og:url/hreflang all point at the resolved URL rather than the one
 // that 301-redirects to it.
 const canonical = new URL(withTrailingSlash(localePath(path, locale)), site).toString();
-const htmlLang = locale === 'zh' ? 'zh-Hans' : locale === 'ms' ? 'ms-MY' : 'en';
+const htmlLang = locale === 'zh' ? 'zh-Hans' : locale === 'ms' ? 'ms-MY' : locale === 'ta' ? 'ta' : 'en';
 // Per-page OG image (e.g. the article's own card), else the branded default —
 // localized so a /zh or /en page's link preview reads in its own language.
 const defaultOg = locale === 'ms' ? '/og/default.png' : `/og/${locale}/default.png`;

@@ -1,6 +1,6 @@
 ---
 import type { Locale, Pillar } from '@/lib/categories';
-import { categoriesInPillar, PILLARS, getPillar, getCategoryColor, getPillarColor } from '@/lib/categories';
+import { categoriesInPillar, PILLARS, getPillar, getCategoryColor, getPillarColor, loc } from '@/lib/categories';
 import { articlesForLocale } from '@/lib/content';
 import { orderedSubcats, subcatLabel } from '@/lib/subcategories';
 import { localePath } from '@/lib/i18n';
@@ -98,8 +98,8 @@ const topicCount = (t: string) => catArticles.filter((a) => a.data.subcategory.i
                 <span class="ci" aria-hidden="true">{c.icon}</span>
                 {catCounts[c.id] ? <span class="cc">{catCounts[c.id]}</span> : null}
               </span>
-              <b>{c.name[locale]}</b>
-              <span class="cd">{c.blurb[locale]}</span>
+              <b>{loc(c.name, locale)}</b>
+              <span class="cd">{loc(c.blurb, locale)}</span>
             </a>
           ))
         }
@@ -132,8 +132,8 @@ const topicCount = (t: string) => catArticles.filter((a) => a.data.subcategory.i
                 <span class="ci" aria-hidden="true">{s.icon}</span>
                 {sectionCounts[s.id] ? <span class="cc">{sectionCounts[s.id]}</span> : null}
               </span>
-              <b>{s.name[locale]}</b>
-              <span class="cd">{s.tagline[locale]}</span>
+              <b>{loc(s.name, locale)}</b>
+              <span class="cd">{loc(s.tagline, locale)}</span>
             </a>
           ))
         }

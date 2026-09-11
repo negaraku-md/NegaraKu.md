@@ -1,6 +1,6 @@
 ---
 import type { Locale } from '@/lib/categories';
-import { PILLARS, getPillarColor } from '@/lib/categories';
+import { PILLARS, getPillarColor, loc } from '@/lib/categories';
 import { localePath } from '@/lib/i18n';
 import PageHero from './PageHero.astro';
 import BecomeContributor from './BecomeContributor.astro';
@@ -133,8 +133,8 @@ const guides = [
         {PILLARS.map((p) => (
           <a class="pillar" href={localePath(`/${p.id}`, locale)} style={`--c:${getPillarColor(p.id)}`}>
             <span class="picon" aria-hidden="true">{p.icon}</span>
-            <b>{p.name[locale]}</b>
-            <span class="pdesc">{p.tagline[locale]}</span>
+            <b>{loc(p.name, locale)}</b>
+            <span class="pdesc">{loc(p.tagline, locale)}</span>
           </a>
         ))}
       </div>

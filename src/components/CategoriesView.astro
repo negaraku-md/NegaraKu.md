@@ -1,6 +1,6 @@
 ---
 import type { Locale } from '@/lib/categories';
-import { PILLARS, categoriesInPillar, getCategoryColor } from '@/lib/categories';
+import { PILLARS, categoriesInPillar, getCategoryColor, loc } from '@/lib/categories';
 import { articlesForLocale, siteStats } from '@/lib/content';
 import { t, localePath } from '@/lib/i18n';
 import PageHero from './PageHero.astro';
@@ -69,7 +69,7 @@ const groups = PILLARS.map((p) => ({ def: p, cats: categoriesInPillar(p.id) }));
         <header>
           <span>
             <span class="pi" aria-hidden="true">{g.def.icon}</span>
-            {g.def.name[locale]}
+            {loc(g.def.name, locale)}
           </span>
           <span data-box-count>{g.cats.length}</span>
         </header>
@@ -79,7 +79,7 @@ const groups = PILLARS.map((p) => ({ def: p, cats: categoriesInPillar(p.id) }));
               <a
                 class="cat-card"
                 data-cat
-                data-name={`${c.name[locale]} ${c.blurb[locale]}`.toLowerCase()}
+                data-name={`${loc(c.name, locale)} ${loc(c.blurb, locale)}`.toLowerCase()}
                 href={localePath(`/${c.id}`, locale)}
                 style={`--cat:${getCategoryColor(c.id)}`}
               >
@@ -88,8 +88,8 @@ const groups = PILLARS.map((p) => ({ def: p, cats: categoriesInPillar(p.id) }));
                   <span class="ci" aria-hidden="true">{c.icon}</span>
                   {counts[c.id] ? <span class="cc">{counts[c.id]}</span> : null}
                 </span>
-                <b>{c.name[locale]}</b>
-                <span class="cd">{c.blurb[locale]}</span>
+                <b>{loc(c.name, locale)}</b>
+                <span class="cd">{loc(c.blurb, locale)}</span>
               </a>
             ))}
           </div>

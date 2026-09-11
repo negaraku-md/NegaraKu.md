@@ -1,6 +1,6 @@
 ---
 import type { Locale } from '@/lib/categories';
-import { PILLARS, getPillarColor } from '@/lib/categories';
+import { PILLARS, getPillarColor, loc } from '@/lib/categories';
 import { t, localePath } from '@/lib/i18n';
 import { articlesForLocale } from '@/lib/content';
 import { mostReadKeys } from '@/lib/apidata';
@@ -85,8 +85,8 @@ const stats = [
     {PILLARS.map((p) => (
       <a class="card pillar" href={localePath(`/${p.id}`, locale)} style={`--c:${getPillarColor(p.id)}`}>
         <span class="picon" aria-hidden="true">{p.icon}</span>
-        <b>{p.name[locale]}</b>
-        <span class="pdesc">{p.tagline[locale]}</span>
+        <b>{loc(p.name, locale)}</b>
+        <span class="pdesc">{loc(p.tagline, locale)}</span>
         <span class="pgo">{L('Terokai', 'Explore', '探索')} →</span>
       </a>
     ))}

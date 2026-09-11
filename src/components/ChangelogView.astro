@@ -1,6 +1,6 @@
 ---
 import type { Locale } from '@/lib/categories';
-import { getCategory } from '@/lib/categories';
+import { getCategory, loc } from '@/lib/categories';
 import { getChangelog } from '@/lib/apidata';
 import { localePath } from '@/lib/i18n';
 import { REPO } from '@/lib/site';
@@ -27,7 +27,7 @@ const rows = c.days.flatMap((day) =>
   day.items.map((it: any) => ({
     icon: it.icon ?? '•',
     title: it.titleI18n ? it.titleI18n[locale] : it.subject,
-    cat: it.category ? getCategory(it.category)?.name[locale] ?? it.category : '',
+    cat: it.category ? (() => { const _c = getCategory(it.category); return _c ? loc(_c.name, locale) : it.category; })() : '',
     type: it.type ?? 'chore',
     typeLabel: typeLabel[it.type] ?? it.type ?? '',
     author: it.author ?? '',

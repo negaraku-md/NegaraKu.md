@@ -1,5 +1,9 @@
 import type { Locale } from './categories';
 
+// The languages advertised in the UI (language switcher + hreflang alternates).
+// Tamil (`ta`) is a valid Locale and its routes/chrome are being built, but it is
+// deliberately held OUT of this list until its corpus reaches a launch threshold —
+// a soft launch, so the switcher never points at a page that isn't ready.
 export const LOCALES: Locale[] = ['ms', 'en', 'zh'];
 export const DEFAULT_LOCALE: Locale = 'ms';
 
@@ -7,6 +11,7 @@ export const LOCALE_NAMES: Record<Locale, string> = {
   ms: 'Bahasa Malaysia',
   en: 'English',
   zh: '中文',
+  ta: 'தமிழ்',
 };
 
 /** UI string table. Keep keys stable; fall back to `ms` if a value is missing. */
@@ -182,7 +187,9 @@ export type StringKey = keyof typeof STRINGS;
 
 export function t(key: StringKey, locale: Locale): string {
   const entry = STRINGS[key];
-  return entry[locale] ?? entry[DEFAULT_LOCALE];
+  // A UI locale with no authored string (e.g. `ta` before translation) falls
+  // back to Malay — the cast lets us index with a Locale the table may not carry.
+  return (entry as Record<string, string>)[locale] ?? entry[DEFAULT_LOCALE];
 }
 
 /** Build a locale-aware href. ms → "/path", en → "/en/path", zh → "/zh/path". */
@@ -210,6 +217,6 @@ export function withTrailingSlash(pathname: string): string {
 /** Extract the active locale from an Astro URL pathname. */
 export function localeFromPath(pathname: string): Locale {
   const seg = pathname.split('/').filter(Boolean)[0];
-  if (seg === 'en' || seg === 'zh') return seg;
+  if (seg === 'en' || seg === 'zh' || seg === 'ta') return seg;
   return DEFAULT_LOCALE;
 }

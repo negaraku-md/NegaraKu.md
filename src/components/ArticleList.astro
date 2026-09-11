@@ -1,7 +1,7 @@
 ---
 import type { Locale } from '@/lib/categories';
 import type { Article } from '@/lib/content';
-import { getCategory, getPillar, PILLARS } from '@/lib/categories';
+import { getCategory, getPillar, PILLARS, loc } from '@/lib/categories';
 import { allArticles, effectiveStatus, readingTime } from '@/lib/content';
 import { subcatLabel } from '@/lib/subcategories';
 import { t } from '@/lib/i18n';
@@ -130,17 +130,17 @@ const rows = articles.map((a, i) => {
 // Label dictionaries emitted once (rows carry only ids). The section / category /
 // topic names repeat across ~1,000 rows; hoisting them into id→label maps and
 // resolving client-side trims tens of KB from the inline JSON.
-const secById: Record<string, string> = Object.fromEntries(PILLARS.map((p) => [p.id, p.name[locale]]));
+const secById: Record<string, string> = Object.fromEntries(PILLARS.map((p) => [p.id, loc(p.name, locale)]));
 const catById: Record<string, string> = {};
 const topById: Record<string, string> = {};
 for (const a of articles) {
   const c = a.data.category;
-  if (!(c in catById)) catById[c] = getCategory(c)?.name[locale] ?? c;
+  if (!(c in catById)) { const gc = getCategory(c); catById[c] = gc ? loc(gc.name, locale) : c; }
   const tp = a.data.subcategory?.[0];
   if (tp && !(tp in topById)) topById[tp] = subcatLabel(tp, locale);
 }
 
-const secs = PILLARS.filter((p) => rows.some((r) => r.secId === p.id)).map((p) => [p.id, p.name[locale]]);
+const secs = PILLARS.filter((p) => rows.some((r) => r.secId === p.id)).map((p) => [p.id, loc(p.name, locale)]);
 const cats = [...new Map(rows.map((r) => [r.catId, catById[r.catId] ?? r.catId])).entries()].sort((a, b) =>
   a[1] < b[1] ? -1 : 1,
 );

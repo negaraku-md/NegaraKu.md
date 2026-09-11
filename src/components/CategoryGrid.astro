@@ -1,6 +1,6 @@
 ---
 import type { Locale, Pillar } from '@/lib/categories';
-import { CATEGORIES, categoriesInPillar } from '@/lib/categories';
+import { CATEGORIES, categoriesInPillar, loc } from '@/lib/categories';
 import { localePath } from '@/lib/i18n';
 
 interface Props {
@@ -22,10 +22,10 @@ const cats = pillar
         <span class="icon" aria-hidden="true">{c.icon}</span>
         <span class="body">
           <span class="name">
-            {c.name[locale]}
+            {loc(c.name, locale)}
             {counts[c.id] ? <span class="count">{counts[c.id]}</span> : null}
           </span>
-          <span class="blurb">{c.blurb[locale]}</span>
+          <span class="blurb">{loc(c.blurb, locale)}</span>
         </span>
       </a>
     ))

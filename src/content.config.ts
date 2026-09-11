@@ -161,8 +161,9 @@ const knowledge = defineCollection({
       .default([]),
 
     // ---- language & translation sync ---------------------------------
-    lang: z.enum(['ms', 'en', 'zh']).default('ms'),
-    /** The source-of-truth language for this topic. */
+    lang: z.enum(['ms', 'en', 'zh', 'ta']).default('ms'),
+    /** The source-of-truth language for this topic. Tamil is always a
+     *  translation, never a master, so it is intentionally not listed here. */
     masterLanguage: z.enum(['ms', 'en', 'zh']).default('ms'),
     /** Hash of the master content this translation was derived from. */
     sourceContentHash: z.string().nullable().default(null),

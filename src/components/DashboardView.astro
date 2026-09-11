@@ -1,6 +1,6 @@
 ---
 import type { Locale } from '@/lib/categories';
-import { getCategory, getPillar, getPillarDef, PILLARS } from '@/lib/categories';
+import { getCategory, getPillar, getPillarDef, PILLARS, loc } from '@/lib/categories';
 import { subcatLabel } from '@/lib/subcategories';
 import { corpusTopics, isPublishable } from '@/lib/content';
 import { getDashboard, getAnalytics, getFacebook, getSearchConsole, getBing } from '@/lib/apidata';
@@ -71,9 +71,9 @@ const sections = PILLARS.map((pd) => {
   const sec = iaTree.get(pd.id);
   if (!sec) return null;
   const cats = [...sec.cats.entries()]
-    .map(([cid, c]) => ({ id: cid, name: getCategory(cid)?.name[locale] ?? cid, total: c.total }))
+    .map(([cid, c]) => ({ id: cid, name: (() => { const _c = getCategory(cid); return _c ? loc(_c.name, locale) : cid; })(), total: c.total }))
     .sort((x, y) => y.total - x.total);
-  return { id: pd.id, name: pd.name[locale], icon: pd.icon, total: sec.total, cats };
+  return { id: pd.id, name: loc(pd.name, locale), icon: pd.icon, total: sec.total, cats };
 }).filter((s): s is NonNullable<typeof s> => s !== null);
 
 // Classification mix — the site's handling of Malaysia's sensitive domains.
@@ -122,7 +122,7 @@ for (const [key, row] of Object.entries(analytics)) {
 }
 const aiBots = [...aiByBot.entries()].sort((a, b) => b[1] - a[1]).map(([bot, n]) => ({ bot, n }));
 const aiBotMax = Math.max(1, ...aiBots.map((b) => b.n));
-const aiPillars = PILLARS.map((pd) => ({ id: pd.id, name: pd.name[locale], icon: pd.icon, n: aiByPillar.get(pd.id) ?? 0 }))
+const aiPillars = PILLARS.map((pd) => ({ id: pd.id, name: loc(pd.name, locale), icon: pd.icon, n: aiByPillar.get(pd.id) ?? 0 }))
   .filter((p) => p.n > 0)
   .sort((a, b) => b.n - a.n);
 const aiPillarMax = Math.max(1, ...aiPillars.map((p) => p.n));
@@ -172,7 +172,7 @@ for (const [cat, v] of Object.entries(gsc.latest?.byCategory ?? {})) {
   e.clicks += v.clicks; e.impressions += v.impressions;
   gscByPillar.set(pid, e);
 }
-const gscPillars = PILLARS.map((pd) => ({ id: pd.id, name: pd.name[locale], icon: pd.icon, ...(gscByPillar.get(pd.id) ?? { clicks: 0, impressions: 0 }) }))
+const gscPillars = PILLARS.map((pd) => ({ id: pd.id, name: loc(pd.name, locale), icon: pd.icon, ...(gscByPillar.get(pd.id) ?? { clicks: 0, impressions: 0 }) }))
   .filter((p) => p.impressions > 0).sort((a, b) => b.impressions - a.impressions);
 const gscPillarMax = Math.max(1, ...gscPillars.map((p) => p.impressions));
 const gscQueries = (gsc.latest?.topQueries ?? []).slice(0, 8);
@@ -215,7 +215,7 @@ const engAvgSecs = engHas ? Math.round(engSecsW / engSamples) : 0;
 const engAvgScroll = engHas ? Math.round(engScrollW / engSamples) : 0;
 const engPillars = PILLARS.map((pd) => {
   const p = engByPillar.get(pd.id);
-  return { id: pd.id, name: pd.name[locale], icon: pd.icon, avg: p && p.n ? Math.round(p.secsW / p.n) : 0 };
+  return { id: pd.id, name: loc(pd.name, locale), icon: pd.icon, avg: p && p.n ? Math.round(p.secsW / p.n) : 0 };
 }).filter((p) => p.avg > 0).sort((a, b) => b.avg - a.avg);
 const engPillarMax = Math.max(1, ...engPillars.map((p) => p.avg));
 const engTop = engPagesRaw.sort((a, b) => b.avgSeconds - a.avgSeconds).slice(0, 8)
@@ -705,7 +705,7 @@ const bingMonths = Object.keys(bing.byMonth ?? {}).length;
           {d.recentlyUpdated.map((a) => (
             <li>
               <a href={localePath(`/${a.category}/${a.slug}`, locale)}>{a.title[locale]}</a>
-              <span class="cmeta">{getCategory(a.category)?.name[locale] ?? a.category} · {a.updated}</span>
+              <span class="cmeta">{(() => { const _c = getCategory(a.category); return _c ? loc(_c.name, locale) : a.category; })()} · {a.updated}</span>
             </li>
           ))}
         </ul>

@@ -1,6 +1,6 @@
 ---
 import type { Locale } from '@/lib/categories';
-import { getPillar, PILLARS, getPillarColor } from '@/lib/categories';
+import { getPillar, PILLARS, getPillarColor, loc } from '@/lib/categories';
 import { articlesForLocale, siteStats } from '@/lib/content';
 import { mostReadKeys } from '@/lib/apidata';
 import { localePath, t } from '@/lib/i18n';
@@ -24,7 +24,7 @@ const pillarStats = PILLARS.map((p) => {
   const arts = nonAbout.filter((a) => getPillar(a.data.category) === p.id).length;
   // Sections describe themselves with `tagline` (pillars have no `blurb`); the
   // hub's SECTIONS group uses the same field, so the cards match everywhere.
-  return { id: p.id, name: p.name[locale], icon: p.icon, blurb: p.tagline[locale], arts };
+  return { id: p.id, name: loc(p.name, locale), icon: p.icon, blurb: loc(p.tagline, locale), arts };
 });
 
 // "More ways to explore" — the non-section entry points, mirroring the Explore

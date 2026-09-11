@@ -1,4 +1,4 @@
-import type { Locale } from './categories';
+import type { ContentLocale } from './categories';
 
 // Dataset provenance — the trust apparatus for content that is NOT an article.
 //
@@ -20,7 +20,7 @@ export type Verification = 'sourced' | 'unverified' | 'schematic';
 
 export interface Provenance {
   /** Human name of the dataset, shown to the reader. */
-  label: Record<Locale, string>;
+  label: Record<ContentLocale, string>;
   verification: Verification;
   /** The date the data represents (not the date the file was edited). */
   asOf?: string;
@@ -28,7 +28,7 @@ export interface Provenance {
   reviewer?: string | null;
   reviewDue?: string | null;
   /** The honest caveat, shown verbatim to the reader. */
-  note?: Record<Locale, string>;
+  note?: Record<ContentLocale, string>;
 }
 
 export const DATASETS: Record<string, Provenance> = {
@@ -45,7 +45,7 @@ export const DATASETS: Record<string, Provenance> = {
       en: 'Market-capitalisation and revenue figures are approximate seed values for illustration only — not yet verified against Bursa Malaysia. Do not rely on them for any decision.',
       zh: '市值与营收数字仅为示意性初始数据，尚未对照马交所核实。请勿作为任何决策依据。',
     },
-  },
+  },
 };
 
 export function getProvenance(id: string): Provenance | undefined {

@@ -1,6 +1,6 @@
 ---
 import type { Locale, Category } from '@/lib/categories';
-import { getPillar, getPillarDef, categoriesInPillar, PILLARS } from '@/lib/categories';
+import { getPillar, getPillarDef, categoriesInPillar, PILLARS, loc } from '@/lib/categories';
 import type { Article } from '@/lib/content';
 import { mostReadKeys } from '@/lib/apidata';
 import { localePath } from '@/lib/i18n';
@@ -54,11 +54,11 @@ const mrKeys = showStrips ? mostReadKeys(articles, STRIP) : [];
   locale={locale}
   crumb={[
     { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
-    ...(pillarDef ? [{ label: pillarDef.name[locale], href: localePath(`/${pillar}`, locale) }] : []),
-    { label: category.name[locale] },
+    ...(pillarDef ? [{ label: loc(pillarDef.name, locale), href: localePath(`/${pillar}`, locale) }] : []),
+    { label: loc(category.name, locale) },
   ]}
-  title={category.name[locale]}
-  desc={category.blurb[locale]}
+  title={loc(category.name, locale)}
+  desc={loc(category.blurb, locale)}
   stats={heroStats}
 />
 

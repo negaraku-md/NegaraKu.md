@@ -1,6 +1,6 @@
 ---
 import type { Locale, Pillar } from '@/lib/categories';
-import { getPillarDef, categoriesInPillar, getPillar, PILLARS } from '@/lib/categories';
+import { getPillarDef, categoriesInPillar, getPillar, PILLARS, loc } from '@/lib/categories';
 import { articlesForLocale } from '@/lib/content';
 import { mostReadKeys } from '@/lib/apidata';
 import { localePath } from '@/lib/i18n';
@@ -36,9 +36,9 @@ const mrKeys = mostReadKeys(inPillar, STRIP);
 
 <PageHero
   locale={locale}
-  crumb={[{ label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) }, { label: def.name[locale] }]}
-  title={def.name[locale]}
-  desc={def.tagline[locale]}
+  crumb={[{ label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) }, { label: loc(def.name, locale) }]}
+  title={loc(def.name, locale)}
+  desc={loc(def.tagline, locale)}
   stats={[
     { value: PILLARS.length, label: L('tonggak', 'pillars', '支柱') },
     { value: cats.length, label: L('kategori', 'categories', '分类') },

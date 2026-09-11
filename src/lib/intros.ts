@@ -1,8 +1,8 @@
-import type { Locale } from './categories';
+import type { ContentLocale, Locale } from './categories';
 
 // Curatorial opening essays per category (shown at the top of a category page).
 // Categories without an entry fall back to their short blurb.
-export const CATEGORY_INTRO: Record<string, Record<Locale, string>> = {
+export const CATEGORY_INTRO: Record<string, Record<ContentLocale, string>> = {
   history: {
     ms: 'Sejarah Malaysia ialah kisah sebuah persimpangan dunia. Dari kerajaan Hindu-Buddha purba di Lembah Bujang, ke kegemilangan Kesultanan Melaka, zaman penjajahan Portugis, Belanda dan British, pendudukan Jepun, perjuangan kemerdekaan, hinggalah pembentukan Malaysia — setiap zaman meninggalkan lapisannya pada negara hari ini. Terokai sejarah negara mengikut era.',
     en: "Malaysia's history is the story of a global crossroads. From the ancient Hindu-Buddhist kingdoms of the Bujang Valley, through the golden age of the Malacca Sultanate, the Portuguese, Dutch and British colonial eras, the Japanese occupation, the struggle for independence, and the formation of Malaysia — each age left its layer on the nation of today. Explore the country's history by era.",
@@ -106,5 +106,5 @@ export const CATEGORY_INTRO: Record<string, Record<Locale, string>> = {
 };
 
 export function getCategoryIntro(id: string, locale: Locale): string | undefined {
-  return CATEGORY_INTRO[id]?.[locale];
+  return CATEGORY_INTRO[id]?.[locale as ContentLocale] ?? CATEGORY_INTRO[id]?.ms;
 }

@@ -1,11 +1,11 @@
 import { articlesForLocale } from '@/lib/content';
-import { CATEGORIES } from '@/lib/categories';
+import { CATEGORIES, loc, type ContentLocale } from '@/lib/categories';
 import { articleToMarkdown } from '@/lib/raw';
 import { SITE } from '@/lib/site';
 import { localePath, type Locale } from '@/lib/i18n';
 
 // One-line intro per language, kept parallel across locales.
-const INTRO: Record<Locale, string[]> = {
+const INTRO: Record<ContentLocale, string[]> = {
   ms: [
     '> Pangkalan pengetahuan sumber terbuka dan mesra-AI tentang Malaysia. Kandungan',
     '> Markdown yang dikurasi dan bersumber, boleh disunting komuniti melalui GitHub,',
@@ -36,12 +36,12 @@ export async function buildLlmsIndex(locale: Locale): Promise<string> {
   }
 
   const out: string[] = ['# negaraku.md', ''];
-  out.push(...INTRO[locale], '');
+  out.push(...(INTRO[locale as ContentLocale] ?? INTRO.ms), '');
 
   for (const cat of CATEGORIES) {
     const arts = byCat.get(cat.id);
     if (!arts?.length) continue;
-    out.push(`## ${cat.name[locale]}`, '');
+    out.push(`## ${loc(cat.name, locale)}`, '');
     for (const a of arts) {
       const url = `${SITE}${localePath(`/${a.data.category}/${a.data.slug}.md`, locale)}`;
       out.push(`- [${a.data.title}](${url}): ${a.data.summary}`);
@@ -57,7 +57,7 @@ export async function buildLlmsIndex(locale: Locale): Promise<string> {
 }
 
 // Build the concatenated full-text corpus for a given language.
-const CORPUS_HEADER: Record<Locale, string> = {
+const CORPUS_HEADER: Record<ContentLocale, string> = {
   ms: 'Pangkalan pengetahuan sumber terbuka tentang Malaysia. Lesen: CC BY-SA 4.0.',
   en: 'An open-source knowledge base about Malaysia. License: CC BY-SA 4.0.',
   zh: '关于马来西亚的开源知识库。许可证：CC BY-SA 4.0。',
@@ -68,7 +68,7 @@ export async function buildLlmsFull(locale: Locale): Promise<string> {
   const parts: string[] = [
     '# negaraku.md — full corpus',
     '',
-    CORPUS_HEADER[locale],
+    loc(CORPUS_HEADER, locale),
     '',
   ];
   for (const a of items) {

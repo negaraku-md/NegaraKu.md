@@ -1,10 +1,10 @@
-import type { Locale } from './categories';
+import type { ContentLocale, Locale } from './categories';
 
 // Sub-topic clusters. Labels are written the way a READER would say them,
 // not in internal taxonomy language. Target 5–15 articles per cluster.
 // SUBCATEGORY_ORDER controls display order within a category page.
 
-export const SUBCATEGORY_LABELS: Record<string, Record<Locale, string>> = {
+export const SUBCATEGORY_LABELS: Record<string, Record<ContentLocale, string>> = {
   // ---- business ----
   formation: { ms: 'Asas Penubuhan', en: 'Formation fundamentals', zh: '公司设立基础' },
   'choosing-a-structure': { ms: 'Memilih Struktur', en: 'Choosing a structure', zh: '选择商业结构' },
@@ -585,7 +585,7 @@ function titleCase(slug: string): string {
 }
 
 export function subcatLabel(slug: string, locale: Locale): string {
-  return SUBCATEGORY_LABELS[slug]?.[locale] ?? titleCase(slug);
+  return SUBCATEGORY_LABELS[slug]?.[locale as ContentLocale] ?? titleCase(slug);
 }
 
 /** Ordered subcategory slugs present in a set of articles. */

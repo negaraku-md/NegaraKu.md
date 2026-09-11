@@ -1,6 +1,6 @@
 ---
 import type { Locale } from '@/lib/categories';
-import { PILLARS, categoriesInPillar } from '@/lib/categories';
+import { PILLARS, categoriesInPillar, loc } from '@/lib/categories';
 import { siteStats, articlesForLocale } from '@/lib/content';
 import { localePath } from '@/lib/i18n';
 import { REPO } from '@/lib/site';
@@ -18,10 +18,10 @@ const articles = await articlesForLocale(locale);
 // Live taxonomy for the Suggest cascade: Section → Category → existing Topics.
 const taxonomy = PILLARS.map((p) => ({
   id: p.id,
-  name: p.name[locale],
+  name: loc(p.name, locale),
   categories: categoriesInPillar(p.id, true).map((c) => ({
     id: c.id,
-    name: c.name[locale],
+    name: loc(c.name, locale),
     topics: articles
       .filter((a) => a.data.category === c.id)
       .map((a) => a.data.title)

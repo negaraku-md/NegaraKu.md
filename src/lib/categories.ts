@@ -13,7 +13,24 @@
 // implemented as cross-cutting views over the whole corpus (see CONTENT_TYPES).
 // ---------------------------------------------------------------------------
 
-export type Locale = 'ms' | 'en' | 'zh';
+// A language the CONTENT is authored in. Article bodies and the taxonomy labels
+// below exist in these three; everything typed `Record<ContentLocale, …>` is
+// data that lives in the repo in exactly these languages.
+export type ContentLocale = 'ms' | 'en' | 'zh';
+// A language the SITE can be VIEWED in (routing + UI chrome). A viewing locale
+// with no authored content for a given field falls back to `ms` via `loc()` — so
+// a new UI language (e.g. `ta`) can ship its routes and chrome before the corpus
+// and taxonomy are translated, without rendering `undefined`.
+export type Locale = ContentLocale | 'ta';
+
+/**
+ * Read a localized field for a viewing locale, falling back to Malay when that
+ * locale has no authored value (e.g. Tamil before the taxonomy is translated).
+ * Use this for every `Record<ContentLocale, …>` lookup keyed by a `Locale`.
+ */
+export function loc(rec: Record<ContentLocale, string>, locale: Locale): string {
+  return (rec as Record<string, string>)[locale] ?? rec.ms;
+}
 
 /** How a category's page is laid out. */
 export type Archetype = 'service' | 'narrative' | 'place' | 'reference' | 'lookup' | 'data';
@@ -21,9 +38,9 @@ export type Archetype = 'service' | 'narrative' | 'place' | 'reference' | 'looku
 export interface ArchetypeDef {
   id: Archetype;
   icon: string;
-  name: Record<Locale, string>;
+  name: Record<ContentLocale, string>;
   /** One-line description of the view pattern. */
-  pattern: Record<Locale, string>;
+  pattern: Record<ContentLocale, string>;
 }
 
 export const ARCHETYPES: ArchetypeDef[] = [
@@ -115,8 +132,8 @@ export type Pillar = 'understand' | 'living' | 'doing-business';
 export interface PillarDef {
   id: Pillar;
   icon: string;
-  name: Record<Locale, string>;
-  tagline: Record<Locale, string>;
+  name: Record<ContentLocale, string>;
+  tagline: Record<ContentLocale, string>;
 }
 
 export const PILLARS: PillarDef[] = [
@@ -156,9 +173,9 @@ export interface Category {
   id: string;
   icon: string;
   /** Localized display names. */
-  name: Record<Locale, string>;
+  name: Record<ContentLocale, string>;
   /** Short localized descriptions. */
-  blurb: Record<Locale, string>;
+  blurb: Record<ContentLocale, string>;
   /** Decides the page layout. */
   archetype: Archetype;
   pillar: Pillar;

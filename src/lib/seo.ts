@@ -1,5 +1,5 @@
 import type { Article } from './content';
-import type { Locale } from './categories';
+import type { ContentLocale, Locale } from './categories';
 import { getCategory } from './categories';
 import { subcatLabel, SUBCATEGORY_LABELS } from './subcategories';
 import { SITE } from './site';
@@ -24,7 +24,7 @@ export function organizationJsonLd(locale: Locale = 'en'): Record<string, unknow
     ms: 'Pangkalan pengetahuan sumber terbuka dan mesra-AI tentang Malaysia — Bahasa Melayu, English dan 中文.',
     en: 'An open-source, AI-friendly knowledge base about Malaysia — Bahasa Melayu, English and 中文.',
     zh: '关于马来西亚的开源、AI 友好知识库——Bahasa Melayu、English 与中文。',
-  }[locale];
+  }[locale as ContentLocale] ?? '';
   return {
     '@context': 'https://schema.org',
     '@type': 'Organization',
@@ -49,7 +49,7 @@ export function organizationJsonLd(locale: Locale = 'en'): Record<string, unknow
 }
 
 /** The country term, per language, always included as a base keyword. */
-const COUNTRY: Record<Locale, string[]> = {
+const COUNTRY: Record<ContentLocale, string[]> = {
   ms: ['Malaysia'],
   en: ['Malaysia'],
   zh: ['马来西亚', 'Malaysia'],
@@ -65,10 +65,10 @@ export function keywordsFor(article: Article, locale: Locale): string[] {
   const cat = getCategory(d.category);
   const raw = [
     d.title,
-    cat?.name[locale] ?? d.category,
+    cat?.name[locale as ContentLocale] ?? d.category,
     // Only subcategories with a real localized label — never leak raw slugs.
     ...d.subcategory.filter((s) => SUBCATEGORY_LABELS[s]).map((s) => subcatLabel(s, locale)),
-    ...COUNTRY[locale],
+    ...(COUNTRY[locale as ContentLocale] ?? COUNTRY.ms),
   ];
   const seen = new Set<string>();
   const out: string[] = [];
@@ -88,7 +88,7 @@ export function breadcrumbJsonLd(article: Article, locale: Locale): Record<strin
   const cat = getCategory(d.category);
   const items = [
     { name: 'NegaraKu.md', url: pageUrl('/', locale) },
-    { name: cat?.name[locale] ?? d.category, url: pageUrl(`/${d.category}`, locale) },
+    { name: cat?.name[locale as ContentLocale] ?? d.category, url: pageUrl(`/${d.category}`, locale) },
     { name: d.title, url: pageUrl(`/${d.category}/${d.slug}`, locale) },
   ];
   return {
@@ -242,7 +242,7 @@ export function websiteJsonLd(locale: Locale = 'en'): Record<string, unknown> {
     ms: 'Pangkalan pengetahuan sumber terbuka dan mesra-AI tentang Malaysia.',
     en: 'An open-source, AI-friendly knowledge base about Malaysia.',
     zh: '关于马来西亚的开源、AI 友好知识库。',
-  }[locale];
+  }[locale as ContentLocale] ?? '';
   return {
     '@context': 'https://schema.org',
     '@type': 'WebSite',

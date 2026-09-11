@@ -1,7 +1,7 @@
 ---
 import { render } from 'astro:content';
 import type { Locale } from '@/lib/categories';
-import { getCategory, getPillar, getPillarDef } from '@/lib/categories';
+import { getCategory, getPillar, getPillarDef, loc } from '@/lib/categories';
 import { type Article, relatedArticles, readingTime, articlesForLocale } from '@/lib/content';
 import { localePath } from '@/lib/i18n';
 import { REPO } from '@/lib/site';
@@ -207,7 +207,7 @@ let groupHref = topicHref;
   // Fall back to the parent category so every article still points onward.
   if (siblings.length < 2) {
     siblings = all.filter((a) => a.data.category === d.category);
-    groupLabel = cat?.name[locale] ?? d.category;
+    groupLabel = cat ? loc(cat.name, locale) : d.category;
     groupHref = localePath(`/${d.category}`, locale);
   }
 }
@@ -226,10 +226,10 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
       <a href={localePath('/', locale)}>{L('Laman Utama', 'Home', '首页')}</a> /
       {pillarDef && (
         <>
-          <a href={localePath(`/${pillar}`, locale)}>{pillarDef.name[locale]}</a> {' / '}
+          <a href={localePath(`/${pillar}`, locale)}>{loc(pillarDef.name, locale)}</a> {' / '}
         </>
       )}
-      <a href={localePath(`/${d.category}`, locale)}>{cat?.name[locale] ?? d.category}</a>
+      <a href={localePath(`/${d.category}`, locale)}>{cat ? loc(cat.name, locale) : d.category}</a>
       {d.subcategory[0] && (
         <>
           {' / '}

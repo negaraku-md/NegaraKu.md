@@ -1,4 +1,4 @@
-import type { Locale, Pillar } from './categories';
+import type { ContentLocale, Pillar } from './categories';
 
 // Sponsorship as DATA, not markup.
 //
@@ -16,9 +16,9 @@ export interface Sponsor {
   /** Display name. Keep `1company` lowercase — brand rule. */
   name: string;
   url: string;
-  heading: Record<Locale, string>;
-  blurb: Record<Locale, string>;
-  cta: Record<Locale, string>;
+  heading: Record<ContentLocale, string>;
+  blurb: Record<ContentLocale, string>;
+  cta: Record<ContentLocale, string>;
 }
 
 export const SPONSORS: Record<string, Sponsor> = {

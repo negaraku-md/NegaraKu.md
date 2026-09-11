@@ -1,7 +1,7 @@
 ---
 import { type Article, readingTime } from '@/lib/content';
 import type { Locale } from '@/lib/categories';
-import { getCategory, getCategoryColor, getPillar, getPillarDef } from '@/lib/categories';
+import { getCategory, getCategoryColor, getPillar, getPillarDef, loc } from '@/lib/categories';
 import { subcatLabel } from '@/lib/subcategories';
 import { localePath, t } from '@/lib/i18n';
 
@@ -19,7 +19,8 @@ const color = getCategoryColor(category);
 // Browse-first breadcrumb — section › category › topic — mirrors the collapsed
 // card in ArticleList so a teaser tells you where the article lives at a glance.
 const pillar = getPillar(category);
-const secLabel = pillar ? getPillarDef(pillar)?.name[locale] : null;
+const secDef = pillar ? getPillarDef(pillar) : null;
+const secLabel = secDef ? loc(secDef.name, locale) : null;
 const topic = article.data.subcategory?.[0];
 const topLabel = topic ? subcatLabel(topic, locale) : null;
 // No per-article photos exist, but every article has an auto-generated OG card
@@ -55,7 +56,7 @@ const minLabel = locale === 'zh' ? '分钟' : 'min';
             <span class="sep" aria-hidden="true">›</span>
           </>
         )}
-        <span class="cat">{cat?.icon} {cat?.name[locale]}</span>
+        <span class="cat">{cat?.icon} {cat ? loc(cat.name, locale) : ''}</span>
         {topLabel && (
           <>
             <span class="sep" aria-hidden="true">›</span>

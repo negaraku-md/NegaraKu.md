@@ -1,6 +1,6 @@
 ---
 import type { Locale } from '@/lib/categories';
-import { getCategory } from '@/lib/categories';
+import { getCategory, loc } from '@/lib/categories';
 import { corpusTopics, effectiveStatus, type Article } from '@/lib/content';
 import { REPO } from '@/lib/site';
 import { localePath } from '@/lib/i18n';
@@ -27,7 +27,7 @@ const st = (a: Article) => effectiveStatus(a, now);
 const editUrl = (a: Article) => `${REPO}/edit/main/knowledge/${a.data.category}/${a.data.slug}.md`;
 const ageDays = (d: unknown) => (d ? Math.max(0, Math.round((now.getTime() - new Date(d as string).getTime()) / 86_400_000)) : null);
 const worker = (a: Article) => a.data.assignee || a.data.revisions?.at(-1)?.contributor || a.data.author || '—';
-const catName = (a: Article) => getCategory(a.data.category)?.name[locale] ?? a.data.category;
+const catName = (a: Article) => { const c = getCategory(a.data.category); return c ? loc(c.name, locale) : a.data.category; };
 
 const needsUpdate = topics.filter((a) => st(a) === 'needs-update');
 const reqRedraft = topics.filter((a) => a.data.status === 'request-redraft');

@@ -1,5 +1,6 @@
 ---
 import type { Locale } from '@/lib/categories';
+import { loc } from '@/lib/categories';
 import { getProvenance } from '@/lib/provenance';
 
 // Shows a dataset's provenance to the person reading the numbers. Mirrors the
@@ -28,9 +29,9 @@ const badge = {
         <span class="prov-badge">
           {badge.icon} {badge.text}
         </span>
-        <span class="prov-label">{p.label[locale]}</span>
+        <span class="prov-label">{loc(p.label, locale)}</span>
       </div>
-      {p.note && <p class="prov-note">{p.note[locale]}</p>}
+      {p.note && <p class="prov-note">{loc(p.note, locale)}</p>}
       <p class="prov-meta">
         {p.source ? (
           <>
