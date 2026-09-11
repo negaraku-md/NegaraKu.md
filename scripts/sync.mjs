@@ -58,19 +58,26 @@ async function main() {
       warnings.push(`⚠ ${rel}: category "${data.category}" != folder "${folder}"`);
     }
 
-    // Count Latin words plus CJK characters so Chinese (no spaces) is measured at
-    // all. Charging 1 per character then overstates Chinese by ~1.65x against its
-    // English master, which pushed faithful translations out of their declared
-    // tier band. Chinese says the same thing in fewer units: a CJK character is
-    // worth roughly 0.6 of an English word, so scale it.
+    // Count "words" fairly across the site's languages — the tier bands are
+    // calibrated in English words, so each language must be measured on the same
+    // scale as its English master, not by naive whitespace splitting.
+    //   • SPACE-DELIMITED scripts — Latin, Tamil (U+0B80–0BFF), Korean Hangul
+    //     (U+AC00–D7AF) — count one per whitespace token, like English.
+    //   • UNSPACED scripts — Chinese ideographs (U+3400–9FFF) and Japanese kana
+    //     (U+3040–30FF) — have no spaces, so count CHARACTERS, scaled to ~0.6 of
+    //     an English word (charging 1/char overstates them ~1.65x and pushed
+    //     faithful translations out of their declared tier band).
+    // A pure-Tamil/Hangul word contains no [A-Za-z0-9], so before this it scored
+    // ~0 and every Tamil article tripped tier-mismatch / answer-length. ms/en/zh
+    // counts are unchanged (they carry no Tamil/Hangul/kana codepoints).
     const CJK_PER_WORD = 0.6;
     const countWords = (text) => {
-      const cjk = (text.match(/[㐀-鿿]/g) ?? []).length;
-      const latin = text
+      const cjk = (text.match(/[぀-ヿ㐀-鿿]/g) ?? []).length;
+      const spaced = text
         .trim()
         .split(/\s+/)
-        .filter((w) => /[A-Za-z0-9]/.test(w)).length;
-      return Math.round(cjk * CJK_PER_WORD + latin);
+        .filter((w) => /[A-Za-z0-9஀-௿가-힯]/.test(w)).length;
+      return Math.round(cjk * CJK_PER_WORD + spaced);
     };
     const words = countWords(content);
     articles.push({
