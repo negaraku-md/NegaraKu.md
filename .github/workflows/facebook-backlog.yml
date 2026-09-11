@@ -6,14 +6,14 @@ name: Post backlog to Facebook
 # backlog in priority order (GSC demand + pillar rotation) without double-posting,
 # on a warm-up ramp (1/day for two weeks, then 3, then 5).
 #
-# The daily SCHEDULE IS INTENTIONALLY DISABLED until the rollout is approved —
-# uncomment the `schedule:` block below to start the automatic drip. Until then,
-# use manual dispatch (empty "files" = post the next ranked batch; tick dry_run
-# first to preview). Committing analytics/posted.json does NOT trigger a deploy
-# (deploy.yml ignores analytics/**).
+# The daily SCHEDULE IS LIVE — the automatic drip runs at 13:00 MYT each day
+# (empty "files" = the next ranked batch). To pause the rollout, comment out the
+# `schedule:` block below. Manual dispatch still works (tick dry_run to preview).
+# Committing analytics/posted.json does NOT trigger a deploy (deploy.yml ignores
+# analytics/**).
 on:
-  # schedule:
-  #   - cron: '0 5 * * *' # daily 13:00 MYT (UTC+8) — enable to start the drip
+  schedule:
+    - cron: '0 5 * * *' # daily 13:00 MYT (UTC+8) — the backlog drip
   workflow_dispatch:
     inputs:
       files:
