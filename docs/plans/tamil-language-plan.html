@@ -1,0 +1,393 @@
+<title>Adding Tamil to NegaraKu.md</title>
+<meta name="description" content="Phased implementation plan to add Tamil (ta) as NegaraKu.md's fourth language — infrastructure, fonts, i18n, taxonomy, pipelines, and corpus translation.">
+<style>
+  :root {
+    --ground: #f6f4ef;
+    --surface: #fffffe;
+    --surface-2: #efece4;
+    --ink: #17150f;
+    --ink-soft: #4b4739;
+    --ink-faint: #6f6a58;
+    --hair: #ddd8cb;
+    --hair-strong: #cbc4b1;
+    --gold: #d99400;        /* accessible gold on light; brand #FFC000 lifts in dark */
+    --gold-bright: #ffc000;
+    --gold-wash: #fbf3dc;
+    --infra: #2f6f8f;       /* teal — infrastructure track */
+    --infra-wash: #e2eef3;
+    --content: #8a4a2b;     /* clay — translation-content track */
+    --content-wash: #f4e7de;
+    --ok: #3f7d4e;
+    --warn: #b26a12;
+    --crit: #b23b2e;
+    --shadow: 0 1px 2px rgba(23,21,15,.05), 0 6px 18px rgba(23,21,15,.06);
+    --font-display: 'Montserrat', system-ui, sans-serif;
+    --font-body: 'Lato', system-ui, sans-serif;
+    --font-tamil: 'Noto Sans Tamil', 'Latha', sans-serif;
+    --font-mono: ui-monospace, 'SF Mono', 'Cascadia Code', Menlo, monospace;
+  }
+  :root:not([data-theme="light"]) {
+    @media (prefers-color-scheme: dark) {
+      --ground: #14130f;
+      --surface: #1d1b16;
+      --surface-2: #262319;
+      --ink: #f3efe4;
+      --ink-soft: #cdc7b5;
+      --ink-faint: #97917d;
+      --hair: #322e23;
+      --hair-strong: #423d2e;
+      --gold: #ffc000;
+      --gold-bright: #ffcf33;
+      --gold-wash: #2c2410;
+      --infra: #7fc2de;
+      --infra-wash: #16262d;
+      --content: #d99268;
+      --content-wash: #2c1d14;
+      --ok: #79b98a;
+      --warn: #d99a4a;
+      --crit: #e4796b;
+      --shadow: 0 1px 2px rgba(0,0,0,.3), 0 8px 22px rgba(0,0,0,.35);
+    }
+  }
+  :root[data-theme="dark"] {
+    --ground: #14130f;
+    --surface: #1d1b16;
+    --surface-2: #262319;
+    --ink: #f3efe4;
+    --ink-soft: #cdc7b5;
+    --ink-faint: #97917d;
+    --hair: #322e23;
+    --hair-strong: #423d2e;
+    --gold: #ffc000;
+    --gold-bright: #ffcf33;
+    --gold-wash: #2c2410;
+    --infra: #7fc2de;
+    --infra-wash: #16262d;
+    --content: #d99268;
+    --content-wash: #2c1d14;
+    --ok: #79b98a;
+    --warn: #d99a4a;
+    --crit: #e4796b;
+    --shadow: 0 1px 2px rgba(0,0,0,.3), 0 8px 22px rgba(0,0,0,.35);
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    background: var(--ground);
+    color: var(--ink);
+    font-family: var(--font-body);
+    line-height: 1.6;
+    margin: 0;
+    -webkit-font-smoothing: antialiased;
+  }
+  .wrap { max-width: 60rem; margin: 0 auto; padding: 0 1.5rem 5rem; }
+
+  /* ---- header ---- */
+  header { padding: 3.5rem 0 2rem; border-bottom: 1px solid var(--hair); }
+  .eyebrow {
+    font-family: var(--font-display);
+    font-size: .72rem; font-weight: 700;
+    letter-spacing: .16em; text-transform: uppercase;
+    color: var(--gold); margin: 0 0 1rem;
+    display: flex; align-items: center; gap: .6rem;
+  }
+  .eyebrow::before { content: ""; width: 1.6rem; height: 2px; background: var(--gold); display: inline-block; }
+  h1 {
+    font-family: var(--font-display);
+    font-weight: 800; font-size: clamp(2rem, 5vw, 3rem);
+    line-height: 1.04; letter-spacing: -.02em;
+    margin: 0; text-wrap: balance;
+  }
+  h1 .ta { font-family: var(--font-tamil); font-weight: 700; color: var(--gold); }
+  .lede {
+    font-size: 1.12rem; color: var(--ink-soft);
+    max-width: 42rem; margin: 1.1rem 0 0; text-wrap: pretty;
+  }
+  .meta-row { display: flex; flex-wrap: wrap; gap: .6rem; margin-top: 1.6rem; }
+  .chip {
+    font-size: .82rem; padding: .4rem .75rem; border-radius: 999px;
+    background: var(--surface); border: 1px solid var(--hair-strong);
+    display: inline-flex; align-items: baseline; gap: .45rem;
+  }
+  .chip b { font-family: var(--font-display); font-weight: 700; }
+  .chip.infra { background: var(--infra-wash); border-color: transparent; color: var(--infra); }
+  .chip.content { background: var(--content-wash); border-color: transparent; color: var(--content); }
+
+  /* ---- track legend ---- */
+  .tracks { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin: 2.25rem 0; }
+  @media (max-width: 34rem) { .tracks { grid-template-columns: 1fr; } }
+  .track { padding: 1rem 1.15rem; border-radius: 10px; background: var(--surface); border: 1px solid var(--hair); border-left-width: 4px; }
+  .track.infra { border-left-color: var(--infra); }
+  .track.content { border-left-color: var(--content); }
+  .track h3 { font-family: var(--font-display); font-size: .95rem; margin: 0 0 .3rem; letter-spacing: -.01em; }
+  .track p { margin: 0; font-size: .9rem; color: var(--ink-faint); }
+
+  section { margin-top: 2.75rem; }
+  .section-head { font-family: var(--font-display); font-weight: 700; font-size: .78rem; letter-spacing: .12em; text-transform: uppercase; color: var(--ink-faint); margin: 0 0 1.1rem; }
+
+  /* ---- phases ---- */
+  .phase { position: relative; background: var(--surface); border: 1px solid var(--hair); border-radius: 12px; box-shadow: var(--shadow); padding: 1.4rem 1.5rem 1.5rem; margin-bottom: 1rem; }
+  .phase-top { display: flex; align-items: baseline; gap: .9rem; flex-wrap: wrap; }
+  .num {
+    font-family: var(--font-display); font-weight: 800; font-size: .95rem;
+    color: var(--surface); background: var(--ink);
+    width: 2rem; height: 2rem; border-radius: 7px; flex: none;
+    display: inline-flex; align-items: center; justify-content: center;
+    font-variant-numeric: tabular-nums;
+  }
+  .phase.t-infra .num { background: var(--infra); }
+  .phase.t-content .num { background: var(--content); }
+  .phase h2 { font-family: var(--font-display); font-weight: 700; font-size: 1.22rem; letter-spacing: -.015em; margin: 0; flex: 1 1 14rem; }
+  .badge { font-size: .7rem; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; padding: .28rem .6rem; border-radius: 6px; font-family: var(--font-display); white-space: nowrap; }
+  .badge.infra { background: var(--infra-wash); color: var(--infra); }
+  .badge.content { background: var(--content-wash); color: var(--content); }
+  .est { font-size: .82rem; color: var(--ink-faint); font-variant-numeric: tabular-nums; margin-left: auto; }
+  .phase > p { margin: .8rem 0 0; color: var(--ink-soft); font-size: .96rem; }
+
+  .work { list-style: none; padding: 0; margin: 1rem 0 0; display: flex; flex-direction: column; gap: .5rem; }
+  .work li { display: flex; gap: .6rem; font-size: .92rem; align-items: baseline; }
+  .work li::before { content: ""; width: .5rem; height: .5rem; border-radius: 2px; background: var(--gold); flex: none; transform: translateY(.35rem); }
+  code { font-family: var(--font-mono); font-size: .82em; background: var(--surface-2); padding: .12em .4em; border-radius: 4px; color: var(--ink); word-break: break-word; }
+
+  .gate { margin-top: 1.1rem; padding: .7rem .9rem; border-radius: 8px; background: var(--gold-wash); font-size: .86rem; display: flex; gap: .55rem; align-items: baseline; }
+  .gate b { font-family: var(--font-display); font-weight: 700; color: var(--gold); font-size: .72rem; letter-spacing: .08em; text-transform: uppercase; flex: none; }
+
+  /* ---- callout ---- */
+  .callout { border: 1px solid var(--hair-strong); border-left: 4px solid var(--crit); background: var(--surface); border-radius: 10px; padding: 1.1rem 1.3rem; margin: 1.25rem 0; }
+  .callout.tip { border-left-color: var(--ok); }
+  .callout h4 { font-family: var(--font-display); font-size: .95rem; margin: 0 0 .35rem; }
+  .callout p { margin: 0; font-size: .92rem; color: var(--ink-soft); }
+  .callout p + p { margin-top: .5rem; }
+
+  /* ---- effort table ---- */
+  .table-scroll { overflow-x: auto; border: 1px solid var(--hair); border-radius: 10px; }
+  table { border-collapse: collapse; width: 100%; font-size: .9rem; min-width: 32rem; background: var(--surface); }
+  th, td { text-align: left; padding: .7rem .95rem; border-bottom: 1px solid var(--hair); }
+  th { font-family: var(--font-display); font-weight: 700; font-size: .74rem; letter-spacing: .06em; text-transform: uppercase; color: var(--ink-faint); background: var(--surface-2); }
+  tbody tr:last-child td { border-bottom: none; }
+  td.n { font-variant-numeric: tabular-nums; white-space: nowrap; color: var(--ink-soft); }
+  .dot { display: inline-block; width: .55rem; height: .55rem; border-radius: 50%; margin-right: .5rem; vertical-align: baseline; }
+  .dot.infra { background: var(--infra); } .dot.content { background: var(--content); }
+
+  /* ---- roadmap ---- */
+  .roadmap { display: flex; align-items: stretch; gap: .5rem; flex-wrap: wrap; margin-top: 1rem; }
+  .stage { flex: 1 1 10rem; background: var(--surface); border: 1px solid var(--hair); border-radius: 10px; padding: 1rem 1.1rem; }
+  .stage.now { border-color: var(--gold); box-shadow: 0 0 0 1px var(--gold); }
+  .stage .lang { font-family: var(--font-tamil); font-size: 1.5rem; font-weight: 700; }
+  .stage.n2 .lang, .stage.n3 .lang { font-family: var(--font-display); }
+  .stage .k { font-family: var(--font-display); font-weight: 700; font-size: .95rem; margin-top: .2rem; }
+  .stage .when { font-size: .78rem; color: var(--ink-faint); margin-top: .15rem; }
+  .stage .now-tag { font-size: .68rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: var(--gold); font-family: var(--font-display); }
+
+  footer { margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid var(--hair); font-size: .82rem; color: var(--ink-faint); }
+  .wordmark { font-family: var(--font-display); font-weight: 700; color: var(--ink); }
+  .wordmark .md { color: var(--gold); }
+  a { color: var(--gold); }
+</style>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800&family=Lato:ital,wght@0,400;0,700;1,400&family=Noto+Sans+Tamil:wght@500;700&display=swap">
+
+<div class="wrap">
+  <header>
+    <p class="eyebrow">NegaraKu.md · Language expansion</p>
+    <h1>Adding <span class="ta">தமிழ்</span> Tamil<br>as the fourth language</h1>
+    <p class="lede">A phased plan to ship Tamil (<code>ta</code>, served at <code>/ta</code>) alongside Malay, English and Chinese — completing Malaysia's three founding language communities. Every touchpoint below is grounded in the current codebase map, and the same shape becomes the template for Japanese and Korean.</p>
+    <div class="meta-row">
+      <span class="chip infra"><b>~1.5–2 wks</b> infrastructure</span>
+      <span class="chip content"><b>weeks</b> content — the long pole</span>
+      <span class="chip"><b>1,073</b> masters to translate</span>
+      <span class="chip"><b>~110</b> UI keys · <b>~140</b> subcategories</span>
+    </div>
+  </header>
+
+  <div class="tracks">
+    <div class="track infra">
+      <h3>Track A — Infrastructure</h3>
+      <p>Bounded, one-time engineering: the <code>Locale</code> type, routes, fonts, i18n plumbing, pipelines, and a Facebook Page. Ship it once; it carries every future language.</p>
+    </div>
+    <div class="track content">
+      <h3>Track B — Translation content</h3>
+      <p>The bulk work: ~1,073 article masters plus the large typed taxonomy and UI-copy surfaces. Gated by human review throughput — runs for weeks, in parallel with the FB backlog drip.</p>
+    </div>
+  </div>
+
+  <section>
+    <p class="section-head">The completeness lever</p>
+    <div class="callout tip">
+      <h4>One edit surfaces the entire type-level worklist</h4>
+      <p>The master type lives at <code>src/lib/categories.ts:16</code> — <code>type Locale = 'ms'|'en'|'zh'</code>. Adding <code>| 'ta'</code> and running <code>astro check</code> makes TypeScript flag <em>every</em> <code>Record&lt;Locale, …&gt;</code> literal missing a <code>ta</code> key. That compiler error list <em>is</em> the exhaustive checklist for the i18n, SEO, and taxonomy surfaces — so nothing localizable is silently left in English.</p>
+      <p>The quiet risk is the opposite: the inline <code>L(ms, en, zh)</code> helper in ~44 components falls through to <strong>Malay</strong> for any non-en/zh locale. Tamil would render readable-but-wrong (Malay text) with <em>no</em> compile error — so those call sites need a deliberate sweep, not a type check.</p>
+    </div>
+  </section>
+
+  <section>
+    <p class="section-head">Phased delivery</p>
+
+    <article class="phase t-infra">
+      <div class="phase-top">
+        <span class="num">0</span>
+        <h2>Decisions &amp; assets</h2>
+        <span class="badge infra">Infra · prep</span>
+        <span class="est">~0.5 day</span>
+      </div>
+      <p>Settle the choices the rest of the build hard-codes, and stage the external assets that have lead time.</p>
+      <ul class="work">
+        <li>Confirm locale <code>ta</code> at <code>/ta</code>, hreflang tag (<code>ta</code> vs <code>ta-MY</code>), sitemap locale.</li>
+        <li>Pick the Tamil typeface — <strong>Noto Sans Tamil</strong> (body) + optionally Noto Serif Tamil (headings); vendor via Fontsource like the Latin faces.</li>
+        <li>Create the <strong>Tamil Facebook Page</strong> and assign it to the existing system user, yielding <code>FB_PAGE_ID_TA</code> (a blank id is safely skipped, so this can trail).</li>
+        <li>Author <code>docs/plans/GLOSSARY-TA.md</code> so the translation pipeline keeps terms of art consistent.</li>
+        <li>Decide feed parity: <code>/ta/rss.xml</code> only (matches en/zh) — no Atom <code>feed.xml</code>.</li>
+      </ul>
+    </article>
+
+    <article class="phase t-infra">
+      <div class="phase-top">
+        <span class="num">1</span>
+        <h2>Type &amp; route scaffolding</h2>
+        <span class="badge infra">Infra</span>
+        <span class="est">~1–2 days</span>
+      </div>
+      <p>Make <code>ta</code> a first-class locale and stand up its routes. The site renders Tamil URLs immediately — chrome falls back to Malay until Phase 3.</p>
+      <ul class="work">
+        <li><code>categories.ts:16</code> add <code>| 'ta'</code> → run <code>astro check</code> to enumerate the rest.</li>
+        <li>Runtime lists: <code>LOCALES</code>, <code>LOCALE_NAMES</code> (<code>ta: 'தமிழ்'</code>), <code>localeFromPath()</code> in <code>i18n.ts</code>.</li>
+        <li>Schema: <code>content.config.ts</code> <code>lang</code> + <code>masterLanguage</code> zod enums.</li>
+        <li><code>astro.config.mjs</code> — i18n <code>locales</code> + <code>defaultLocale</code>, <code>lastmodFor()</code>, sitemap <code>i18n.locales</code>.</li>
+        <li>Duplicate <code>src/pages/en/**</code> → <code>src/pages/ta/**</code> (33 route files), swapping <code>'en'</code>→<code>'ta'</code> in each <code>getStaticPaths</code> caller.</li>
+        <li><code>BaseLayout.astro</code> — add a <code>ta</code> arm to <code>htmlLang</code> and the hreflang map (factor out the repeated expression).</li>
+      </ul>
+      <div class="gate"><b>Gate</b><span><code>astro build</code> green; <code>/ta/*</code> pages emit <code>&lt;html lang="ta"&gt;</code> and resolve.</span></div>
+    </article>
+
+    <article class="phase t-infra">
+      <div class="phase-top">
+        <span class="num">2</span>
+        <h2>Fonts — the readability blocker</h2>
+        <span class="badge infra">Infra · critical</span>
+        <span class="est">~0.5 day</span>
+      </div>
+      <p>Nothing Tamil is legible until this lands. Neither Montserrat, Lato, nor the CJK fallback covers the Tamil block (U+0B80–U+0BFF), so untreated Tamil renders as tofu — on the page <em>and</em> on OG cards.</p>
+      <ul class="work">
+        <li>Self-host <code>@fontsource/noto-sans-tamil</code>; import faces in <code>BaseLayout.astro</code>; add to <code>--font-reading</code>/<code>--font-title</code> in <code>tokens.css</code>; register the family with the <code>fontaine</code> fallback-metrics plugin.</li>
+        <li><strong>OG rasterizer (separate problem):</strong> <code>build-og.mjs</code> renders SVG via sharp/librsvg using <em>system-resolved</em> fonts — make a Tamil face available at build time and add it to <code>TITLE_FONT</code>/<code>BODY_FONT</code> stacks.</li>
+      </ul>
+      <div class="gate"><b>Gate</b><span>A Tamil sample title renders correctly on-page and on a generated OG card — zero tofu.</span></div>
+    </article>
+
+    <article class="phase t-infra">
+      <div class="phase-top">
+        <span class="num">3</span>
+        <h2>UI strings</h2>
+        <span class="badge infra">Infra · largest code surface</span>
+        <span class="est">~2–3 days</span>
+      </div>
+      <p>Translate the site chrome. Two surfaces: the central string table (type-enforced) and the scattered inline helper (silent Malay fallback — no compiler safety net).</p>
+      <ul class="work">
+        <li><code>i18n.ts</code> <code>STRINGS</code> — add a <code>ta:</code> value to ~110 keys.</li>
+        <li>Widen <code>L(ms, en, zh)</code> → <code>L(ms, en, zh, ta)</code> across ~44 components and update every call site (hundreds of inline page-copy strings). Mechanical — a candidate for a batched multi-agent sweep.</li>
+      </ul>
+      <div class="gate"><b>Gate</b><span><code>astro check</code> clean; <code>/ta</code> navigation, buttons, and labels read in Tamil.</span></div>
+    </article>
+
+    <article class="phase t-content">
+      <div class="phase-top">
+        <span class="num">4</span>
+        <h2>Taxonomy &amp; structured data</h2>
+        <span class="badge content">Content-in-code</span>
+        <span class="est">~2–4 days</span>
+      </div>
+      <p>The localized data baked into <code>Record&lt;Locale&gt;</code> literals — surfaced by the Phase 1 compiler pass. Translation work that lives in source, not article files.</p>
+      <ul class="work">
+        <li><code>subcategories.ts</code> — ~140 subcategory labels (the single biggest taxonomy surface).</li>
+        <li><code>categories.ts</code> — ~30 category names + blurbs; <code>intros.ts</code> — ~30 curatorial essays.</li>
+        <li>Structured data: <code>seo.ts</code> descriptions + <code>inLanguage</code>, <code>llms.ts</code> intros, <code>sponsors.ts</code>, <code>provenance.ts</code>.</li>
+        <li>Mirrors: OG taxonomy (<code>PILLAR</code>/<code>CAT</code>/<code>SENS</code>), dashboard vitals labels, inline strings in <code>404.astro</code> / <code>MaintenanceView</code>.</li>
+      </ul>
+      <div class="gate"><b>Gate</b><span>All <code>Record&lt;Locale&gt;</code> sites satisfied; breadcrumbs, chips, and dashboard render Tamil.</span></div>
+    </article>
+
+    <article class="phase t-infra">
+      <div class="phase-top">
+        <span class="num">5</span>
+        <h2>Pipelines &amp; ops</h2>
+        <span class="badge infra">Infra</span>
+        <span class="est">~1 day</span>
+      </div>
+      <p>Teach the generation and distribution scripts about <code>ta</code> so translation, analytics, and Facebook all include it.</p>
+      <ul class="work">
+        <li><code>translate.mjs</code> — <code>LOCALES</code> + <code>LANG_NAME</code> + <code>GLOSSARY-TA</code>; <code>translation-sync.mjs:83</code> filename regex; <code>validate-frontmatter</code> / <code>flag-needs-update</code> regexes; <code>build-dashboard</code> <code>SITE_LANGS</code>.</li>
+        <li><strong>Facebook:</strong> <code>facebook.mjs</code> <code>LANGS</code> + <code>PAGES</code> (<code>FB_PAGE_ID_TA</code>), the hashtag script check (so Tamil tags don't leak onto ms/en posts), and the <code>catNameMap</code> regex (currently ms/en/zh only).</li>
+        <li>Redirect parity: add <code>/ta/…</code> variants across the ~19 retired-slug groups in <code>astro.config.mjs</code>.</li>
+      </ul>
+      <div class="gate"><b>Gate</b><span>Dry-run translate one article; FB dry-run renders a Tamil sample post correctly.</span></div>
+    </article>
+
+    <article class="phase t-content">
+      <div class="phase-top">
+        <span class="num">6</span>
+        <h2>Corpus translation — pilot, then scale</h2>
+        <span class="badge content">Content · the long pole</span>
+        <span class="est">weeks</span>
+      </div>
+      <p>The bulk of the effort, deliberately de-risked. Prove the whole chain on a handful of articles before committing 1,000+.</p>
+      <ul class="work">
+        <li><strong>Pilot (~10 ranked articles):</strong> generate <code>.ta.md</code>, human-review quality, <code>translate:stamp</code>, build, publish, verify on-site + OG + FB.</li>
+        <li><strong>Full corpus:</strong> ~1,073 masters through <code>translate.mjs</code>, batched (as the Malay-title sweep was), reviewed by ashton-tan, published via the <code>publish-reviewed</code> flow.</li>
+        <li>FB backlog: Tamil joins the daily drip automatically once <code>FB_PAGE_ID_TA</code> is live and <code>LANGS</code> includes <code>ta</code>.</li>
+      </ul>
+      <div class="gate"><b>Gate</b><span>Pilot signs off before the full run; translation freshness stays <code>in-sync</code> via the derived stamp.</span></div>
+    </article>
+  </section>
+
+  <section>
+    <p class="section-head">Effort at a glance</p>
+    <div class="table-scroll">
+      <table>
+        <thead>
+          <tr><th>Phase</th><th>Track</th><th>Estimate</th><th>Blocking?</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>0 · Decisions &amp; assets</td><td><span class="dot infra"></span>Infra</td><td class="n">~0.5 day</td><td>Gates fonts &amp; FB</td></tr>
+          <tr><td>1 · Type &amp; routes</td><td><span class="dot infra"></span>Infra</td><td class="n">~1–2 days</td><td>Foundational</td></tr>
+          <tr><td>2 · Fonts</td><td><span class="dot infra"></span>Infra</td><td class="n">~0.5 day</td><td>Legibility blocker</td></tr>
+          <tr><td>3 · UI strings</td><td><span class="dot infra"></span>Infra</td><td class="n">~2–3 days</td><td>Largest code surface</td></tr>
+          <tr><td>4 · Taxonomy</td><td><span class="dot content"></span>Content</td><td class="n">~2–4 days</td><td>Translation-heavy</td></tr>
+          <tr><td>5 · Pipelines &amp; ops</td><td><span class="dot infra"></span>Infra</td><td class="n">~1 day</td><td>Enables FB + translate</td></tr>
+          <tr><td>6 · Corpus translation</td><td><span class="dot content"></span>Content</td><td class="n">weeks</td><td>Review-throughput bound</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="callout">
+      <h4>Launch-gating decision to make</h4>
+      <p><code>LOCALES</code> drives both the route iteration <em>and</em> the public language switcher. Add <code>ta</code> and Tamil is advertised immediately — while the corpus is still filling in, <code>/ta</code> shows a growing subset. Choose between a <strong>soft launch</strong> (build the routes but hold Tamil out of the switcher until content crosses a parity threshold) and an <strong>open launch</strong> (advertise from day one, articles appearing as they're translated). Recommend soft launch through the pilot.</p>
+    </div>
+  </section>
+
+  <section>
+    <p class="section-head">Where this sits in the roadmap</p>
+    <div class="roadmap">
+      <div class="stage now n1">
+        <div class="lang">தமிழ்</div>
+        <div class="k">Tamil · ta</div>
+        <div class="when">This plan · next up</div>
+        <div class="now-tag">◆ Now</div>
+      </div>
+      <div class="stage n2">
+        <div class="lang">日本語</div>
+        <div class="k">Japanese · ja</div>
+        <div class="when">After Tamil · investors &amp; tourists</div>
+      </div>
+      <div class="stage n3">
+        <div class="lang">한국어</div>
+        <div class="k">Korean · ko</div>
+        <div class="when">After Japanese</div>
+      </div>
+    </div>
+    <p style="font-size:.9rem; color:var(--ink-faint); margin-top:1rem;">Japanese and Korean reuse this exact structure — each needs its own script font (their own CJK faces), a Facebook Page, and a full corpus translation. Track A is built once here and amortized across all three.</p>
+  </section>
+
+  <footer>
+    <p><span class="wordmark">NegaraKu<span class="md">.md</span></span> — Tamil language expansion plan · grounded in the 2026-09-11 codebase map · corpus at 1,073 published masters.</p>
+  </footer>
+</div>
