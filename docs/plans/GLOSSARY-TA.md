@@ -50,5 +50,16 @@ short form after: e.g. `நிறுவனங்கள் ஆணையம் (SS
 | Malaysia Gig Economy Commission (SEGiM) | மலேசிய கிக் பொருளாதார ஆணையம் (SEGiM) | keep acronym SEGiM |
 | Gazetted (diwartakan) | வர்த்தமானியில் வெளியிடப்பட்டது | |
 | Royal assent | அரச ஒப்புதல் | |
+| Ministry of Digital | டிஜிட்டல் அமைச்சு (Ministry of Digital) | keep English on first use |
+| Malaysia Digital (MD) status | Malaysia Digital (MD) அந்தஸ்து | scheme name kept English; அந்தஸ்து = status |
+| Promoted sectors | ஊக்குவிக்கப்பட்ட துறைகள் | MD promoted sectors |
+| Technology enablers | தொழில்நுட்ப வசதிப்படுத்திகள் | MD technology enablers |
+| Matched grant | ஈடுசெய்யப்படும் மானியம் | co-funds a share of cost |
+| Reimbursement-based | திருப்பிச்செலுத்தல் அடிப்படையிலான | claim back after spending |
+| Commercialisation | வணிகமயமாக்கல் | |
+| Intellectual property (IP) | அறிவுசார் சொத்து (IP) | keep acronym IP |
+| Pitching session | பிட்ச்சிங் அமர்வு | transliterate "pitching" |
+| Independent external auditor | சுயாதீன வெளி தணிக்கையாளர் | |
+| End-user partner | இறுதி-பயனர் பங்குதாரர் | |
 
 <!-- Pilot-coined terms are appended below as the 5-article pilot is reviewed. -->
