@@ -40,7 +40,7 @@ sourceContentHash: "67619f9b70d97b83"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

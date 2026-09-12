@@ -40,7 +40,7 @@ sourceContentHash: "edde30241ce67971"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

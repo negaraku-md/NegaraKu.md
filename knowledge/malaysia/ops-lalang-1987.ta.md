@@ -35,9 +35,9 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "b64842ee4e12b6c1"
 
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

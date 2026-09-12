@@ -21,7 +21,7 @@ lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "9898433b2f4e9aa1"
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -32,9 +32,9 @@ lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "cf412842ff34bf8f"
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-07-22
 revision: 0
 revisions:

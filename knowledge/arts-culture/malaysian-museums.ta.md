@@ -22,7 +22,7 @@ lang: "ta"
 sourceContentHash: "8802106dd859b55e"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

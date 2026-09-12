@@ -50,7 +50,7 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "3119f651e106c8fe"
 
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

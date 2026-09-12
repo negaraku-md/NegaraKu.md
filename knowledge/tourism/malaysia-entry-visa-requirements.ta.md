@@ -44,7 +44,7 @@ sourceContentHash: "cdbee74bde6667f6"
 verificationNeeded:
   - "நுழைவுக்கு ஒரு காலி கடவுச்சீட்டு பக்கம் முறையாகத் தேவையா என்பது (மேற்கோள் காட்டப்பட்ட MIDA ஆதாரத்தில் கூறப்படவில்லை)."
 
-status: "in-review"
+status: "reviewed"
 publishedBy: "ashton-tan"
 aiAssisted: true
 reviewer: null

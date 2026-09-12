@@ -42,7 +42,7 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "0a352a7bd7d5e1fc"
 
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

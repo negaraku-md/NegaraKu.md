@@ -53,7 +53,7 @@ sourceContentHash: "0112f2d641d155c5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

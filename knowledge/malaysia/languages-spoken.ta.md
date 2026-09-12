@@ -33,9 +33,9 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

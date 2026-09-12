@@ -44,7 +44,7 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "e95a20cac513aa22"
 
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

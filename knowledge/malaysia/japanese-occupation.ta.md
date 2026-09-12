@@ -21,7 +21,7 @@ appliesTo: "மலாயா மற்றும் போர்னியோவி
 lang: "ta"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

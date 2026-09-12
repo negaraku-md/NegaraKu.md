@@ -60,7 +60,7 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "00f4afd78d3da72e"
 
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

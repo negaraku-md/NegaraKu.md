@@ -50,7 +50,7 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "64142f66b268b952"
 
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

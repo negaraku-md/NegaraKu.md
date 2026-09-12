@@ -26,7 +26,7 @@ masterLanguage: "ms"
 translationStatus: "in-sync"
 sourceContentHash: "02c6a3d01833544f"
 
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

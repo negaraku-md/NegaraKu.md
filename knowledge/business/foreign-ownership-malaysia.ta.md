@@ -52,9 +52,9 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "9eb59bf5dfe47262"
 
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
 revision: 0

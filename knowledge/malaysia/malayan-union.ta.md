@@ -23,9 +23,9 @@ lang: "ta"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 sourceContentHash: "f8c770a08f5a6831"
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

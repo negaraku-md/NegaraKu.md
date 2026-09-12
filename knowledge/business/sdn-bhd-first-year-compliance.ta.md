@@ -139,7 +139,7 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "11858a7deaca48ff"
 
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"
