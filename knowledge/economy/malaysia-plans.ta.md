@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "மாணவர்கள், கொள்கை ஆய்வாளர்கள், ஊடகவியலாளர்கள், மற்றும் ஒரு நிதியாண்டைத் தாண்டி தேசிய வளர்ச்சி எவ்வாறு திட்டமிடப்படுகிறது என்பதைப் புரிந்துகொள்ள விரும்பும் அனைவரும்."
 
 lang: "ta"
+sourceContentHash: "e044f4eddcd76b63"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

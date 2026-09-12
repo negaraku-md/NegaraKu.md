@@ -29,8 +29,9 @@ faq:
     a: "28 September 2007 அன்று அமலுக்கு வந்த Capital Markets and Services Act 2007 (Act 671), மூலதனச் சந்தை செயல்பாடுகள், சந்தைகள் மற்றும் உரிமம் பெற்ற இடைத்தரகர்களை நிர்வகிக்கிறது."
 
 lang: "ta"
+sourceContentHash: "d90c41e40d0daaa1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

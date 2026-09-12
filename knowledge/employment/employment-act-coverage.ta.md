@@ -23,8 +23,9 @@ appliesTo: "ஒரு ஊழியருக்குக் கூடுதல்
 
 verificationNeeded: []
 lang: "ta"
+sourceContentHash: "e20a9bba2377fd31"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

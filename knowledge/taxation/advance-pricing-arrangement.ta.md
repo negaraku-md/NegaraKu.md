@@ -64,8 +64,9 @@ obligations:
     consequence: "Cancellation of the arrangement under rule 18(1)(c)"
 
 lang: "ta"
+sourceContentHash: "bb70ed44534a20cd"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

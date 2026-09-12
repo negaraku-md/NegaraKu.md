@@ -29,8 +29,9 @@ faq:
     a: "இல்லை. Belanjawanku ஒரு ‘நியாயமான’ அல்லது வசதியான வாழ்க்கைத் தரத்துக்குத் தேவையான செலவை அளவிடுகிறது; இது வாழ்வதற்கான அடிப்படைத் தேவைகளை மட்டுமே பிரதிபலிக்கும் வறுமைக் கோட்டை விட அதிகம்."
 
 lang: "ta"
+sourceContentHash: "178a5bff85bb62f4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

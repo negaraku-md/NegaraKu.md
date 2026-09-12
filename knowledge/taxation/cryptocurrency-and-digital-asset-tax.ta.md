@@ -30,8 +30,9 @@ faq:
     a: "சாதாரண வணிக வருமானமாக. பரிவர்த்தனை நேரத்தில் உள்ள நாணயங்களின் சந்தை மதிப்பைப் பயன்படுத்தி, பொருட்கள் அல்லது சேவைகளின் மதிப்பை ரிங்கிட்டில் பதிவு செய்கிறீர்கள்; அது உங்கள் வரி விதிக்கத்தக்க விற்பனையின் ஒரு பகுதியாகும்."
 
 lang: "ta"
+sourceContentHash: "fd506f4661f4b91a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

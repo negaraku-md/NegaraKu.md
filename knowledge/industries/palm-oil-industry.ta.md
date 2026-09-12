@@ -37,8 +37,9 @@ faq:
     a: "தோட்டம் மற்றும் பண்டங்கள் அமைச்சின் (Ministry of Plantation and Commodities) கீழ் உள்ள சட்டப்பூர்வ அமைப்பான மலேசிய பாமாயில் வாரியம் (MPOB), பயிரிடுதல் முதல் ஏற்றுமதி வரை ஒவ்வொரு நிலையையும் உரிமம் வழங்கி மேற்பார்வையிடுகிறது, மேலும் தொழில்துறையின் ஆராய்ச்சி மற்றும் மேம்பாட்டை நடத்துகிறது."
 
 lang: "ta"
+sourceContentHash: "6df254d9cadb68a3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

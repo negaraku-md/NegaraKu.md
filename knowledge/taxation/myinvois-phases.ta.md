@@ -67,8 +67,9 @@ obligations:
     consequence: "Transactions unsupported by a validated document for tax purposes"
 
 lang: "ta"
+sourceContentHash: "fe5d22ede93ea4c0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

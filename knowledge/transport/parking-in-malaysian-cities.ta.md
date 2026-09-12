@@ -29,8 +29,9 @@ faq:
     a: "இல்லை. வாகன நிறுத்தக் கம்பவுண்டுகள் வாகன நிறுத்தம் தொடர்பான சாலைப் போக்குவரத்து ஆணைகளின் கீழ் உள்ளூர் அதிகார சபைகளால் (PBT) வழங்கப்படுகின்றன; ஆனால் ஓட்டுநர் குற்றங்களுக்கான போக்குவரத்து சம்மன்கள் PDRM அல்லது JPJ-ஆல் வழங்கப்படுகின்றன."
 
 lang: "ta"
+sourceContentHash: "cec9d7c50b142e19"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

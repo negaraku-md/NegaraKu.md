@@ -35,8 +35,9 @@ faq:
     a: "இல்லை. Baju kurung என்பது உடல் வடிவத்தை மூடும் தளர்வான நீளமான மேலங்கி, kain உடன் அணியப்படுகிறது. Kebaya என்பதோ உடல் வடிவத்தை மேலும் ஒட்டி அமையும், முன்பக்கம் பிளவுள்ள மேலங்கி, kerongsang (brooch) அல்லது பொத்தான்களால் இணைக்கப்பட்டு, sarung உடன் ஜோடியாக அணியப்படுகிறது. Kebaya பொதுவாக baju kurung-ஐ விட உடலுக்கு ஒட்டி அமையும்."
 
 lang: "ta"
+sourceContentHash: "f68d5254e084ffde"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

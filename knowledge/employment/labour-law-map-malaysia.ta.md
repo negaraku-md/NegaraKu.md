@@ -28,8 +28,9 @@ verificationNeeded:
   - "அந்த PDF-கள் வழங்கப்பட்டவுடன் Act எண்கள் 612, 732, 789, 800, 840 மற்றும் 872-ஐ lom.agc.gov.my-க்கு எதிராக உறுதிப்படுத்தவும் — அவை தற்போது LOM களஞ்சியத்திற்குப் பதிலாக நிறுவன தளங்களிலிருந்து உறுதிப்படுத்தப்பட்டுள்ளன"
 
 lang: "ta"
+sourceContentHash: "debce12c53f16ed5"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

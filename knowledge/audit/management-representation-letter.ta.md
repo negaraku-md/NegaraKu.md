@@ -29,8 +29,9 @@ faq:
     a: "பத்திகள் 10 மற்றும் 11 கோரும் பிரதிநிதித்துவங்களை நிர்வாகம் வழங்காவிட்டால், ISA 705-இன் படி நிதிநிலை அறிக்கைகள் மீதான தமது கருத்தை தணிக்கையாளர் மறுக்க வேண்டும் (பத்தி 20)."
 
 lang: "ta"
+sourceContentHash: "b4dce9895318e6f0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

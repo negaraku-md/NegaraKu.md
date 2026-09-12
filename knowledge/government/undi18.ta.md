@@ -32,8 +32,9 @@ faq:
     a: "அனைவரும் அல்ல. JPN-இல் முழுமையற்ற அல்லது பொதுவான முகவரி உள்ளவர்கள், தேர்தல் தொகுதியை நிர்ணயிக்க முடியாததால் தானாகப் பதிவு செய்யப்படுவதில்லை என SPR கூறுகிறது; அதேபோல் சட்டப்படி வாக்காளராகத் தகுதியிழந்தவர்களும். SPR, JPN, மலேசிய சிறைத்துறை (Jabatan Penjara Malaysia), சுகாதார அமைச்சு மற்றும் வெளியுறவு அமைச்சு ஆகியவற்றுடன் குறுக்குச் சரிபார்ப்பு செய்கிறது."
 
 lang: "ta"
+sourceContentHash: "091a7bd83f753abd"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

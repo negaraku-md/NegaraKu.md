@@ -42,8 +42,9 @@ verificationNeeded:
   - "கட்டுப்பாடு மற்றும் ஒருங்கிணைப்புச் சோதனைகள் குறித்த முன்னணி மலேசிய மேல்முறையீட்டு அதிகாரத்தை அறிக்கையிடப்பட்ட தீர்ப்புகளுடன் உறுதிப்படுத்தவும்"
 
 lang: "ta"
+sourceContentHash: "8132a0298fe4934d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "‘kampung’ என்பதன் நேரடிப் பொருளுக்கு அப்பால் அதன் அர்த்தத்தைப் புரிந்துகொள்ள விரும்பும் எவருக்கும் — கிராம நிர்வாகத்துடன் தொடர்புகொள்ளும் ஆய்வாளர்கள், எழுத்தாளர்கள், அதிகாரிகள் மற்றும் புதிதாக வருபவர்கள் உட்பட."
 
 lang: "ta"
+sourceContentHash: "179d1d79aa799fca"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

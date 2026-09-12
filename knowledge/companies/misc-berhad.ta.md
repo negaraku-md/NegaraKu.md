@@ -29,8 +29,9 @@ faq:
     a: "MISC குழுமம் FY2024-ல் RM13,237.5 million வருவாயைப் புகாரளித்தது; இது FY2023-ன் RM14,271.7 million-ஐ விட 7.2% சரிவாகும்; வரிக்குப் பிந்தைய லாபம் RM1,233.2 million."
 
 lang: "ta"
+sourceContentHash: "29aaf63ab9013b28"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

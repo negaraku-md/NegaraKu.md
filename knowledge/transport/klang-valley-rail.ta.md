@@ -34,8 +34,9 @@ verificationNeeded:
   - "வெளியிடுவதற்கு முன் MRT Kajang Line-இன் தற்போதைய நீளம்/நிலைய எண்ணிக்கையை MRT Corp அல்லது Rapid Rail-உடன் நேரடியாக உறுதிப்படுத்தவும் — போக்குவரத்து அமைச்சு மற்றும் Rapid Rail-இன் சொந்த வழித்தட பக்கம் சற்று வேறுபட்ட புள்ளிவிவரங்களைக் (51கி.மீ/31 நிலையங்கள் எதிராக 46கி.மீ/29 நிலையங்கள்) கொடுக்கின்றன; இந்தக் கட்டுரை அவற்றை ஒப்புமை செய்யும்வரை அவற்றை அப்படியே மீண்டும் குறிப்பிடுவதைத் தவிர்த்துள்ளது."
 
 lang: "ta"
+sourceContentHash: "8f5aa15915a64a18"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

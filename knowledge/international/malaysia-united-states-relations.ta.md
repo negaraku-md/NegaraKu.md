@@ -32,8 +32,9 @@ faq:
     a: "2025-இல் மொத்த இருவழி பொருட்கள் வர்த்தகத்தை USTR தோராயமாக US$88.5 billion என மதிப்பிட்டது (அமெரிக்க ஏற்றுமதி US$28.9 billion, இறக்குமதி US$59.7 billion). US Census தரவு 2024 இருவழி பொருட்கள் வர்த்தகத்தை US$80 billion அளவில் வைத்தது, மேலும் மலேசியாவின் வெளியுறவு அமைச்சு 2024-க்கான மொத்த வர்த்தகத்தை RM324.91 billion (US$71.39 billion) என மேற்கோள் காட்டியது."
 
 lang: "ta"
+sourceContentHash: "6acdeba029dc19eb"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

@@ -33,8 +33,9 @@ faq:
     a: "மலேசிய ஹாக்கி கூட்டமைப்பு (Malaysian Hockey Confederation, MHC) என்பது ஆண்கள் மற்றும் பெண்கள் புல் ஹாக்கி மற்றும் உட்புற ஹாக்கிக்கான தேசிய நிர்வாக அமைப்பாகும். இது Asian Hockey Federation (AHF) மற்றும் FIH உடன் இணைந்துள்ளது, மேலும் Kuala Lumpur-இன் Bukit Jalil-இல் உள்ள National Hockey Stadium-இலிருந்து செயல்படுகிறது."
 
 lang: "ta"
+sourceContentHash: "e3b29244d5e5d634"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

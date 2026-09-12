@@ -33,8 +33,9 @@ faq:
     a: "மலேசியப் புள்ளியியல் திணைக்களம் (DOSM) ICT செயற்கைக்கோள் கணக்கை (Malaysia Digital Economy வெளியீடு) ஆண்டுதோறும் வெளியிடுகிறது, இது GDP-க்கு ICT மற்றும் மின்வணிகத்தின் பங்களிப்பை நிர்ணயிக்கிறது. வீட்டு மற்றும் தனிநபர் ஊடுருவல் எண்களுக்காக DOSM ICT பயன்பாடு மற்றும் அணுகல் அறிக்கையையும் நடத்துகிறது. அகலப்பட்டை ஊடுருவல் விகிதங்கள் மலேசிய தகவல்தொடர்பு மற்றும் பல்லூடக ஆணையத்தால் (Malaysian Communications and Multimedia Commission, MCMC) தனியாக வெளியிடப்படுகின்றன."
 
 lang: "ta"
+sourceContentHash: "9a3a89f709e2b7ae"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

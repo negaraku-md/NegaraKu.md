@@ -28,8 +28,9 @@ verificationNeeded:
   - "வரி பொருந்தும் என்று கருதுவதற்கு முன், P.U.(A) 84/2021-இல் உள்ள First Schedule தொழில் வகுப்புகளுக்கு எதிராக HRD Corp பதிவுப் பொறுப்பை உறுதிப்படுத்துங்கள்"
 
 lang: "ta"
+sourceContentHash: "09bddb62f9842f1a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

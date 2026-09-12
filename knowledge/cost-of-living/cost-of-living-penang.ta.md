@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "பினாங்கின் வாழ்க்கைச் செலவை கிள்ளான் பள்ளத்தாக்குடன் ஒப்பிடுபவர்கள், அல்லது இடம்பெயர்வதற்கு, வாடகைக்கு எடுப்பதற்கு அல்லது தொழில் தொடங்குவதற்கு முன் பினாங்கு தீவுக்கும் Seberang Perai க்கும் இடையே முடிவெடுப்பவர்கள் அனைவருக்கும்."
 
 lang: "ta"
+sourceContentHash: "060d0c1609863cd7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

@@ -35,8 +35,9 @@ verificationNeeded:
   - "Majlis Pelayang Malaysia-வுடன் அடிக்கடி தொடர்புபடுத்தப்படும் ‘தேசிய wau’ பட்டியல் (wau bulan, wau kucing, wau jala budi) — எந்த அதிகாரப்பூர்வ வெளியீடும் காணப்படவில்லை."
 
 lang: "ta"
+sourceContentHash: "dca70ac2ef9b33e2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "in-review"
 aiAssisted: true
 reviewer: null

@@ -26,8 +26,9 @@ faq:
   - q: "வெளிநாட்டுத் தொழிலாளர்கள் EPF க்குப் பங்களிக்க வேண்டுமா?"
     a: "ஆம். 1 October 2025 முதல் அமலுக்கு வரும் வகையில், மலேசியக் குடிமக்கள் அல்லாத ஊழியர்களுக்கு EPF பங்களிப்புகள் கட்டாயமாயின; முதலாளியும் ஊழியரும் தலா மாதாந்திர ஊதியத்தில் 2% செலுத்துகின்றனர். 75 வயதுக்கு மேற்பட்ட குடிமக்கள் அல்லாதவர்கள் பதிவு செய்யவோ பங்களிக்கவோ தேவையில்லை."
 lang: "ta"
+sourceContentHash: "ef3ed3901e1145d3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "in-review"
 aiAssisted: true
 reviewer: null

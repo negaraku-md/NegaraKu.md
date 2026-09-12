@@ -31,8 +31,9 @@ faq:
   - q: "மலேசியாவின் வெளியுறவுக் கொள்கைக்கு ASEAN ஏன் இவ்வளவு மையமானது?"
     a: "மலேசியா ASEAN-இன் நிறுவன உறுப்பினர் (8 ஆகஸ்ட் 1967). ASEAN மூலம் கூட்டாகச் செயல்படுவது, நடுத்தர அளவிலான, வர்த்தகத்தைச் சார்ந்த ஒரு நாட்டுக்கு, தனித்து இருப்பதைவிட வல்லரசுகளுடனான உறவுகளை நிர்வகிப்பதில் வலுவான குரலைத் தருகிறது — இதனால்தான் ASEAN மையத்தன்மை இக்கொள்கையின் மூலக்கல்லாகக் கருதப்படுகிறது."
 lang: "ta"
+sourceContentHash: "0119cb2bc48cc9ad"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "in-review"
 aiAssisted: true
 reviewer: null

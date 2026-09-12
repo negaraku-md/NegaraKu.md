@@ -30,8 +30,9 @@ faq:
     a: "JPJ-இன் படி, வழங்கப்பட்ட தேதியிலிருந்து 60 நாட்களுக்குள் தீர்க்கப்படாத AwAS அறிவிப்பு நீதிமன்ற நடவடிக்கைக்கு வழிவகுக்கலாம்; குற்றம் நிரூபிக்கப்பட்டால் RM300 முதல் RM2,000 வரை அபராதம் விதிக்கப்படும்."
 
 lang: "ta"
+sourceContentHash: "b08ee8ca24ef947b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

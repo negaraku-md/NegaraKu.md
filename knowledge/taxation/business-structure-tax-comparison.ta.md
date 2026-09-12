@@ -41,8 +41,9 @@ verificationNeeded:
   - "ஒரு சேவை ஒப்பந்தத்திற்கு (contract of service) வெளியே ஒரு நிர்வாகமல்லாத இயக்குநருக்குச் செலுத்தப்படும் இயக்குநர் கட்டணங்கள் EPF நோக்கங்களுக்கு ஊதியமா என்பதை உறுதிப்படுத்தவும்; ஊதியம் பெறும் இயக்குநர்கள் பங்களிக்கிறார்கள் என EPF உறுதிப்படுத்துகிறது ஆனால் கட்டணங்களை நேரடியாகக் கூறவில்லை"
 
 lang: "ta"
+sourceContentHash: "b476e81782042301"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

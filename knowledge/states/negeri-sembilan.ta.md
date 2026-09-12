@@ -38,8 +38,9 @@ verificationNeeded:
   - "மாநில அதிகாரப்பூர்வ போர்ட்டலில் உள்ள இனக் கலவை சதவீதங்களின் (மலாய் 61.5%, சீனர் 22.9%, இந்தியர் 15.1%, பிற 0.5%) தேதியையும் அடிப்படையையும் உறுதிப்படுத்தவும் — அந்த எண்ணிக்கை தேதியிடப்படவில்லை, மேலும் குடிமகன் அல்லாதவர்களைத் தனியாகப் பிரிக்கும் Banci 2020-இன் பிரிவு அமைப்புடன் பொருந்தவில்லை."
 
 lang: "ta"
+sourceContentHash: "41ba175b1dc7814a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

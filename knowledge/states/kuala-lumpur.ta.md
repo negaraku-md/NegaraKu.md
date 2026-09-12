@@ -33,8 +33,9 @@ verificationNeeded:
   - "வெளியீட்டிற்கு முன், கோலாலம்பூர் மற்றும் Greater Kuala Lumpur மக்கள்தொகை புள்ளிவிவரங்களையும், தனிநபர் GDP தரவரிசையையும் சமீபத்திய DOSM வெளியீடுகளுக்கு எதிராக உறுதிப்படுத்தவும்."
 
 lang: "ta"
+sourceContentHash: "92f9b90511421d9f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

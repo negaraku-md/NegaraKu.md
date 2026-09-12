@@ -30,8 +30,9 @@ faq:
     a: "அரசு ஆம்புலன்ஸ்கள் 999 தொலைபேசி எண் வழியாக இலவசமாக அனுப்பப்படுகின்றன; இவை KKM-உடன் இணைந்து St John Ambulance மற்றும் Bulan Sabit Merah Malaysia போன்ற தன்னார்வ அமைப்புகளால் நிர்வகிக்கப்படுகின்றன. தனியார் ஆம்புலன்ஸ்கள் மறுபுறம் தனியார் நிறுவனங்கள் அல்லது மருத்துவமனைகளால் அவற்றின் சொந்த hotline மூலம் இயக்கப்படுகின்றன; அழைப்பின் தன்மையைப் பொறுத்து சேவைக் கட்டணம் வசூலிக்கின்றன."
 
 lang: "ta"
+sourceContentHash: "492fe31c078f6681"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

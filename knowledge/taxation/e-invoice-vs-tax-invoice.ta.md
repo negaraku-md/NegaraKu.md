@@ -26,8 +26,9 @@ verificationNeeded:
   - "e-Invoice-இன் காட்சி வடிவத்தை SST விலைப்பட்டியல் விவரங்களுடன் இணக்கப்படுத்தும் ஒரு பிரத்யேக வழிகாட்டியை RMCD வெளியிட்டுள்ளதா என்பது — mysst.customs.gov.my-இல் அத்தகைய ஒன்று கண்டறியப்படவில்லை"
 
 lang: "ta"
+sourceContentHash: "cf809540c51ed69e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

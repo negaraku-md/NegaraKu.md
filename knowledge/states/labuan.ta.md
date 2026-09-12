@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "லபுவான் அமைப்பு ஒன்றை மதிப்பிடும் நிறுவனர்கள், வரி ஆலோசகர்கள் மற்றும் நிதிக் குழுக்கள், மேலும் மலேசியாவின் மற்றப் பகுதிகளிலிருந்து லபுவான் ஏன் வேறுபட்டு நடத்தப்படுகிறது என்பதைப் புரிந்துகொள்ள விரும்பும் வாசகர்களுக்கு."
 
 lang: "ta"
+sourceContentHash: "398103a0292eae47"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

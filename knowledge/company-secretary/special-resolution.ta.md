@@ -29,8 +29,9 @@ faq:
   - q: "எந்த முடிவுகளுக்கு ஒரு சிறப்புத் தீர்மானம் தேவை?"
     a: "சாசனத்தைத் திருத்துதல், ஏற்றல் அல்லது ரத்துசெய்தல் (section 36), கம்பெனியின் பெயரை மாற்றுதல் (section 28), நீதிமன்ற வழி (section 116) அல்லது கடன்தீர்வுத் திறன் அறிக்கை வழி (section 117) மூலம் பங்கு மூலதனத்தைக் குறைத்தல், மற்றும் உறுப்பினர்களின் தன்னார்வக் கலைப்பைத் தொடங்குதல் (section 439) ஆகிய அனைத்திற்கும் ஒரு சிறப்புத் தீர்மானம் தேவை."
 lang: "ta"
+sourceContentHash: "b65d4a86d107f772"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "in-review"
 aiAssisted: true
 reviewer: null

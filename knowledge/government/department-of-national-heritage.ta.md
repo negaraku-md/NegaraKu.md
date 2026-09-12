@@ -27,8 +27,9 @@ faq:
   - q: "ஒரு வாழும் நபரை தேசிய பாரம்பரியம் என அறிவிக்க முடியுமா?"
     a: "ஆம். section 67, ஒரு வாழும் நபரை தேசிய பாரம்பரியம் என அறிவிக்க அமைச்சருக்கு அனுமதி அளிக்கிறது; மேலும் National Heritage (Declaration of Living Person as a National Heritage) Order 2012 என்பது “Warisan Orang Hidup” (வாழும் நபர் பாரம்பரியம்) பிரிவுக்கான முறையான சட்டக் கருவியை வழங்குகிறது."
 lang: "ta"
+sourceContentHash: "965829d0863e2f00"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "in-review"
 aiAssisted: true
 reviewer: null

@@ -27,8 +27,9 @@ faq:
     a: "Companies Act 2016-இன் s.593-இன் கீழ், பதிவாளருக்கு (Registrar, SSM) அளிக்கப்படும் பொய்யான அறிக்கை அல்லது அறிக்கையிடல், 10 ஆண்டுகள் வரை சிறைத்தண்டனை, RM3 million வரை அபராதம், அல்லது இரண்டும் விதித்துத் தண்டிக்கப்படலாம்."
 
 lang: "ta"
+sourceContentHash: "e1c1cbfc3de7c89d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

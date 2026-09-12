@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "கோலாலம்பூர் அல்லது Klang Valley க்கு இடம்பெயர்வதற்குப் பட்ஜெட் தயாரிப்பவர்கள், நகரங்களுக்கு இடையே வேலை வாய்ப்புகளை ஒப்பிடுபவர்கள், அல்லது தலைநகர் மலேசியாவின் வாழ்க்கைச் செலவு தரவரிசைகளில் தொடர்ந்து ஏன் முதலிடத்தில் இருக்கிறது என்பதைப் புரிந்துகொள்ள முயல்பவர்கள் — இவர்கள் அனைவருக்கும் இது பொருந்தும்."
 
 lang: "ta"
+sourceContentHash: "5a6f8510ce30c077"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

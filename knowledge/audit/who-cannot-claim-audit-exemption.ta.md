@@ -16,8 +16,9 @@ answer: "Practice Directive 10/2024-இன் கீழ் நான்கு �
 verificationNeeded: []
 
 lang: "ta"
+sourceContentHash: "776ac8951ed8d754"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

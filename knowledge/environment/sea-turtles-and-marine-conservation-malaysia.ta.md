@@ -31,8 +31,9 @@ faq:
     a: "தீபகற்ப கடல் பூங்காக்கள் Akta Perikanan 1985-இன் கீழ் வர்த்தமானியில் வெளியிடப்படுகின்றன. இது தீவிலிருந்து இரண்டு கடல்மைல் பாதுகாப்பு மண்டலத்தை உருவாக்குகிறது, அங்கு முட்டையிடும் ஆமைகளைத் தொந்தரவு செய்தல், குஞ்சுகளைச் சேகரித்தல் போன்ற செயல்பாடுகள் தடைசெய்யப்பட்டுள்ளன."
 
 lang: "ta"
+sourceContentHash: "3ba84882f4818881"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

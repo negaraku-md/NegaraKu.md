@@ -30,8 +30,9 @@ faq:
     a: "இது 2026-க்குள் அறிமுகப்படுத்த அறிவிக்கப்பட்டது, இருப்பினும் காலக்கெடு மறுபரிசீலனை செய்யப்படலாம் என்று அதிகாரிகள் சமிக்ஞை செய்துள்ளனர்."
 
 lang: "ta"
+sourceContentHash: "1b480b649a14d8fe"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

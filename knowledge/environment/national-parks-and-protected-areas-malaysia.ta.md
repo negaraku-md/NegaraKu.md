@@ -34,8 +34,9 @@ faq:
     a: "National Parks Act 1980-இன் Section 10 தேசியப் பூங்காவுக்குள் சுரங்கம் மற்றும் கனிமத் தேடலைத் தடைசெய்கிறது; மாநில அதிகார சபை, அமைச்சருடன் கலந்தாலோசித்த பிறகு, மிகவும் வளமான கனிமப் படிவு உள்ளதைக் கண்டறிந்தால் தவிர."
 
 lang: "ta"
+sourceContentHash: "1f3622365daf3410"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

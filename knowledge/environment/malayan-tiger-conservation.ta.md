@@ -33,8 +33,9 @@ faq:
     a: "முக்கியக் காரணங்கள்: புலியின் உடல் உறுப்புகளுக்கான வேட்டையாடல் மற்றும் சட்டவிரோத வனவிலங்கு வர்த்தகம், வனச் சீரழிவு மற்றும் வாழிடம் இழப்பு, சாலை விபத்து மரணங்கள் மற்றும் மனித–புலி மோதல், மற்றும் இரை குறைவு."
 
 lang: "ta"
+sourceContentHash: "4cb728294e2f0482"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

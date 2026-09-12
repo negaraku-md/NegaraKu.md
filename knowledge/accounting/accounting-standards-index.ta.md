@@ -26,8 +26,9 @@ verificationNeeded:
   - "MFRS 139 இன்னும் MASB-ஆல் பட்டியலிடப்பட்டுள்ளது; அதன் நோக்கத்திற்குள் இன்னும் உள்ள எந்த அமைப்பிற்கும் அதன் தற்போதைய பயன்பாட்டு நிலையை உறுதிப்படுத்தவும்"
 
 lang: "ta"
+sourceContentHash: "e028c2fa0dbb47c1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

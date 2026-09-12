@@ -29,8 +29,9 @@ faq:
     a: "வெளியீட்டு நேரம் வரை, அமலில் உள்ள என்ஜின் கொள்ளளவு கட்டுப்பாடு எதுவும் இல்லை; என்ஜின் கொள்ளளவை வைத்து நெடுஞ்சாலை அணுகலைக் கட்டுப்படுத்தும் முன்மொழிவுகள் இன்னும் சட்டமாகவில்லை."
 
 lang: "ta"
+sourceContentHash: "1c36a26778aafc7e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

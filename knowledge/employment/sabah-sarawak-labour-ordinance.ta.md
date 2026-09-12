@@ -41,8 +41,9 @@ verificationNeeded:
   - "சபா மாற்றீட்டு First Schedule விலக்குப் பட்டியலை, வர்த்தமானியில் வெளியிடப்பட்ட Act A1753 உரைக்கு எதிராக பிரிவு பிரிவாக உறுதிப்படுத்தவும்"
 
 lang: "ta"
+sourceContentHash: "41215d4a374adf7b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

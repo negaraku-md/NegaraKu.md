@@ -29,8 +29,9 @@ faq:
     a: "இணக்க விலை நிர்ணய கருவிகள் அறிமுகப்படுத்தப்படுவதற்கு முன்பு, உயர்-நேர்மையான கார்பன் சந்தை, தேசிய கார்பன் பதிவேடு மற்றும் கண்காணிப்பு அமைப்புகளை உருவாக்க NRES ஆல் 21 April 2026 இல் தொடங்கப்பட்ட ஒரு கட்டமைப்பு."
 
 lang: "ta"
+sourceContentHash: "da637e665e1a9fd4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

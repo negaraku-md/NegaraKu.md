@@ -26,8 +26,9 @@ verificationNeeded:
   - "தொழில்முறை சேவைகளுக்கான குழு-உள் நிவாரணமும், தொடர்பில்லாத தரப்பினருக்கு வழங்கப்படும் சேவைகள் மீதான ஏதேனும் சதவீத வரம்பும் சரிபார்க்கப்படவில்லை — பொதுவாக மேற்கோள் காட்டப்படும் எண்ணிக்கையை நம்பாதீர்கள்"
 
 lang: "ta"
+sourceContentHash: "fdaf544799e718b4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

@@ -34,8 +34,9 @@ faq:
     a: "வானொலி, திரைப்படம், தொலைக்காட்சியின் போட்டியால் அது 20-ஆம் நூற்றாண்டின் நடுப்பகுதியில் வீழ்ச்சியடைந்தது. 1930-களின் இறுதியில் பல பங்சாவான் அரங்குகள் திரையரங்குகளாக மாற்றப்பட்டன; போருக்குப் பிறகு அந்தத் தொழில் தன் நிதி மூலத்தை இழந்தது."
 
 lang: "ta"
+sourceContentHash: "9acb0bf06bc5782c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

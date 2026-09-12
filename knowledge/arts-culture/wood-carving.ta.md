@@ -33,8 +33,9 @@ faq:
     a: "பாரம்பரிய awan larat வடிவமைப்புக் கொள்கை மனிதர்கள் அல்லது விலங்குகளை முதன்மை வடிவக் கூறாகச் சித்தரிப்பதை உண்மையிலேயே தவிர்க்கிறது. இருப்பினும் மலாய் மரச்செதுக்கலுக்குத் தனித்துவமான விலங்கு (fauna) மையக்கரு வகையும் உள்ளது — கோழி, காண்டாமிருகம் மற்றும் வாத்து வடிவங்கள் போன்றவை — இவை மீண்டும் வரும் awan larat வடிவத்திலிருந்து தனியாகப் பயன்படுத்தப்படுகின்றன."
 
 lang: "ta"
+sourceContentHash: "9f06d94e839f077d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "in-review"
 aiAssisted: true
 reviewer: null

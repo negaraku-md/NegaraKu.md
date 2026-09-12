@@ -29,8 +29,9 @@ faq:
     a: "பெரும்பாலும் முடியாது. வடகிழக்குப் பருவமழையால் ஏற்படும் கொந்தளிப்பான கடலின் காரணமாக, பல கிழக்குக் கடற்கரை விடுதிகளும் படகு இயக்குநர்களும் சுமார் அக்டோபர் முதல் பிப்ரவரி வரை தானாக முன்வந்து சேவைகளை நிறுத்திவைக்கின்றனர்."
 
 lang: "ta"
+sourceContentHash: "baf74efaaf475bb1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

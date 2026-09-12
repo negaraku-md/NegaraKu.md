@@ -27,8 +27,9 @@ faq:
   - q: "MSN எங்கே அமைந்துள்ளது?"
     a: "தேசிய விளையாட்டு வளாகத்தில் (Kompleks Sukan Negara), Bukit Jalil, 57000 Sri Petaling, Kuala Lumpur. இது வேறு பல மாநிலங்களிலும் பயிற்சி வளாகங்களை இயக்குகிறது."
 lang: "ta"
+sourceContentHash: "d519f370c717d10a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "in-review"
 aiAssisted: true
 reviewer: null

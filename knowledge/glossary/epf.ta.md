@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "மலேசியாவின் ஓய்வூதிய சேமிப்பு கட்டமைப்பைப் புரிந்துகொள்ள விரும்பும் முதலாளிகள், HR குழுக்கள் மற்றும் ஊழியர்கள்."
 
 lang: "ta"
+sourceContentHash: "c90387d901bf5d08"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

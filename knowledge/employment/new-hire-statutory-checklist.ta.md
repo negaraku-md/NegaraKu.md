@@ -77,8 +77,9 @@ verificationNeeded:
   - "s.61 பதிவேட்டிற்கு நிர்ணயிக்கப்பட்ட தற்போதைய விவரங்களை, அமலில் உள்ள Employment Regulations-க்கு எதிராக உறுதிப்படுத்தவும்"
 
 lang: "ta"
+sourceContentHash: "84b81bd01d8b6ae2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

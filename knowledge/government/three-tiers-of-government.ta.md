@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "மலேசியாவில் ஒரு குறிப்பிட்ட பிரச்சினைக்கு எந்த நிலை அரசாங்கத்தை அணுக வேண்டும் என்பதைக் கண்டறிய முயலும் எவரும், அல்லது ஒரு நாடாளுமன்ற உறுப்பினருக்கும் ஒரு மாநில சட்டமன்ற உறுப்பினருக்கும் வாக்களிக்க முடியும் ஆனால் ஒரு உள்ளூர் கவுன்சிலருக்கு ஏன் முடியாது என்பதைப் புரிந்துகொள்ள விரும்பும் எவரும்."
 
 lang: "ta"
+sourceContentHash: "c6bdf9ccfb5d174a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "in-review"
 aiAssisted: true
 reviewer: null

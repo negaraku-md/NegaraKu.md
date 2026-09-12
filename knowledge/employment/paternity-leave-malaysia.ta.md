@@ -28,8 +28,9 @@ verificationNeeded:
   - "பன்னிரண்டு மாத பணி நிபந்தனை பணியில் ஏற்படும் இடைவெளியை அனுமதிக்கிறதா, மற்றும் s.60FA க்கு தொடர்ச்சியான பணி எவ்வாறு கணக்கிடப்படுகிறது என்பதை உறுதிப்படுத்தவும்"
 
 lang: "ta"
+sourceContentHash: "97900bf02693ecc5"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

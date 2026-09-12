@@ -46,8 +46,9 @@ obligations:
     consequence: "The unpaid amount is increased by 10 per cent and the expense is disallowed under s.39(1)(f), (i) or (j)"
 
 lang: "ta"
+sourceContentHash: "091d81b974b404be"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

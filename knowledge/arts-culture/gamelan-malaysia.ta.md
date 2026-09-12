@@ -33,8 +33,9 @@ faq:
     a: "மூல கமெலான் தொகுப்பு 1973-ல் பகாங்கிற்கு (Pahang) திருப்பியனுப்பப்பட்டு, பேக்கானில் (Pekan) உள்ள பகாங் அருங்காட்சியகத்தில் (Muzium Pahang) காட்சிக்கு வைக்கப்பட்டுள்ளது."
 
 lang: "ta"
+sourceContentHash: "c60f9bc5987b416f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

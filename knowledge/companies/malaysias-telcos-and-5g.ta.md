@@ -32,8 +32,9 @@ faq:
     a: "U Mobile இரண்டாவது 5G வலையமைப்பைக் கட்ட நியமிக்கப்பட்டது, எனவே அது DNB இல் தனது பங்குதாரிப்பை விற்று, தனது சொந்த செயல்படுத்தலில் கவனம் செலுத்த DNB இன் வலையமைப்பிலிருந்து வெளியேறியது."
 
 lang: "ta"
+sourceContentHash: "c1f7f6a84e1fec97"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

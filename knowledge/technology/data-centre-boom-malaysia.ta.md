@@ -36,9 +36,10 @@ faq:
     a: "2030-க்குள் மலேசியாவை உலகத்தரம் வாய்ந்த கிளவுட் மையமாக மாற்ற, டிஜிட்டல் அமைச்சு (Ministry of Digital) 2025-இல் தொடங்கிய ஒரு கொள்கை; இது தரவு இறையாண்மையை — மலேசியாவில் உருவாகும் தரவு மலேசியச் சட்டத்தால் நிர்வகிக்கப்படும் என்ற கொள்கையை — அடித்தளமாகக் கொண்டு, ஒரு இறையாண்மை AI கிளவுட் திட்டத்துடன் இணைந்துள்ளது."
 
 lang: "ta"
+sourceContentHash: "16256b5ee4d19f22"
 status: "in-review"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 verificationNeeded:
   - "Neutrality: the sovereignty / non-AI-freeze framing is lightly interpretive; re-review tone if this article is ever reclassified above tier 1 or as sensitive."

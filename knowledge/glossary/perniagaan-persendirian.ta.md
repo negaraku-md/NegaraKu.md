@@ -33,8 +33,9 @@ faq:
     a: "வணிகம் ஒரு தனி சட்ட அமைப்பு அல்ல என்பதால், அதன் லாபம் உங்கள் தனிப்பட்ட வருமானமாகும். நீங்கள் அதை Form B-இல் அறிவித்து, MyTax e-Filing வாயில் வழியாகத் தாக்கல் செய்து, தனிநபர் (படிநிலை) விகிதங்களில் வரி செலுத்துகிறீர்கள். சட்டப்பூர்வ கடைசி தேதி ஜூன் 30; வணிக வருமானம் உள்ள தனிநபர்களுக்கான Form B, Year of Assessment 2024 முதல் மின்னணு முறையில் தாக்கல் செய்யப்பட வேண்டும் என்பதால், நடைமுறைக் கடைசி தேதி e-Filing சலுகைத் தேதியான ஜூலை 15 ஆகும்."
 
 lang: "ta"
+sourceContentHash: "1a9f38c341cebf45"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

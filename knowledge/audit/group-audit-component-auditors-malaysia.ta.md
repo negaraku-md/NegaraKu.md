@@ -30,8 +30,9 @@ faq:
     a: "கூறு தகவல் அல்லது தணிக்கையாளர்களுக்கான அணுகல் தடைசெய்யப்பட்டு, அந்தக் கூறு முக்கியமானதாக இருந்தால், போதுமான தகுந்த ஆதாரத்தைப் பெற குழு தணிக்கையாளரால் முடியாமல் போகலாம்; இது குழு நிதிநிலை அறிக்கைகள் மீது ஒரு தகுதிநிலைப்படுத்தப்பட்ட கருத்து (qualified opinion) அல்லது கருத்து மறுப்பிற்கு (disclaimer of opinion) வழிவகுக்கக்கூடும்."
 
 lang: "ta"
+sourceContentHash: "871221203173410a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

@@ -36,8 +36,9 @@ faq:
     a: "MyDIGITAL, 12ஆவது மலேசியத் திட்டம் (RMKe-12) மற்றும் பகிர்ந்த செழிப்பு நோக்கு 2030 (WKB 2030) போன்ற தேசிய வளர்ச்சிக் கொள்கைகளை நிறைவுசெய்யும் வகையில் வடிவமைக்கப்பட்டுள்ளது; இவை டிஜிட்டல் பொருளாதாரத்தை ஒரு முக்கிய பொருளாதார வளர்ச்சி நடவடிக்கையாக (Key Economic Growth Activity) அங்கீகரிக்கின்றன."
 
 lang: "ta"
+sourceContentHash: "ac3f23832d2acdba"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

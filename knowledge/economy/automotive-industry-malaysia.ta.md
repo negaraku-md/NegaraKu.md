@@ -33,8 +33,9 @@ faq:
     a: "இது கார் துறைக்கான அரசாங்கத்தின் கட்டமைப்பு, மிக அண்மையில் NAP 2020 என புதுப்பிக்கப்பட்டது. இது அடுத்த-தலைமுறை வாகனங்கள் (next-generation vehicles, NxGV), Mobility-as-a-Service மற்றும் Industry 4.0 திறன்களை இலக்காகக் கொண்டுள்ளது, மேலும் ஒரு நடு-கால மறுஆய்வுக்கு உட்பட்டுள்ளது; முதலீடு, வர்த்தகம் மற்றும் தொழில்துறை அமைச்சு (Ministry of Investment, Trade and Industry, MITI) இந்த மறுஆய்வைத் தொடங்கியது (2025-இல் Council of Automotive Eminent Persons ஒன்றை அமைத்தது) ஆனால் அதன் முடிவு 2025-இன் இறுதி இலக்கின்படி வெளியிடப்படவில்லை, 2026-இலும் நிலுவையிலேயே இருந்தது."
 
 lang: "ta"
+sourceContentHash: "ce89b8f0036180e9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

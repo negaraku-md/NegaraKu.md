@@ -30,8 +30,9 @@ faq:
     a: "ஆம். மலேசிய கணக்காளர்கள் நிறுவனம் (Malaysian Institute of Accountants, MIA) IAASB இன் அறிவிப்புகளை மலேசிய அங்கீகரிக்கப்பட்ட தணிக்கைத் தரநிலைகளாக எந்த மாற்றமும் இன்றி ஏற்றுக்கொள்கிறது, எனவே ISA 320, 450 மற்றும் 530 மலேசிய சட்டரீதியான தணிக்கைகளுக்குப் பொருந்தும்."
 
 lang: "ta"
+sourceContentHash: "caf6b9d895d2d9ba"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

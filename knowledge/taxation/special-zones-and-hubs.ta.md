@@ -44,8 +44,9 @@ verificationNeeded:
   - "JS-SEZ Smart Logistics Complex ITA-வுக்கு MIDA நம்பியிருக்கும் சட்ட அடிப்படையை உறுதிப்படுத்தவும் — வழிகாட்டுதல் P.U.(A) 113/2006-ஐ மேற்கோள் காட்டுகிறது, இது 2011-க்கு முந்தைய, நம்பகமான AGC உள்ளடக்கத்திற்கு வெளியே உள்ள ஒரு கருவி, மேலும் அதன் செயல்படும் உரை மீட்டெடுக்கப்படவில்லை"
 
 lang: "ta"
+sourceContentHash: "2c106e0d7c225687"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

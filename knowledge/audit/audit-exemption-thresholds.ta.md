@@ -35,8 +35,9 @@ verificationNeeded:
   - "Phase 3 வரம்புகளைத் திருத்தும் ஏதேனும் திருத்தத்தை PD 10/2024 க்கு SSM வெளியிட்டுள்ளதா என்பதை உறுதிப்படுத்தவும் — பதிவாளர் (Registrar) மறுபரிசீலனை செய்யாத வரை அவை மாறாதவை என directive குறிக்கிறது"
 
 lang: "ta"
+sourceContentHash: "f05022cc3a744d57"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

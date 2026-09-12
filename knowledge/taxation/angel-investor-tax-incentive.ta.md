@@ -39,8 +39,9 @@ verificationNeeded:
   - "அமைச்சரால் அங்கீகரிக்கப்பட்ட செயல்பாடுகளின் தற்போதைய பட்டியல் — Public Ruling 12/2020, 2020 நிலவரப்படி ஒன்பது உயர்-வளர்ச்சி மற்றும் உயர்-தொழில்நுட்பத் துறைகளைத் தருகிறது, அவற்றை அப்போதைய நிலைப்பாடு என விவரிக்கிறது"
 
 lang: "ta"
+sourceContentHash: "490843a597d5164f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

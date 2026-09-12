@@ -23,8 +23,9 @@ appliesTo: "தலைப்புச் செய்தி வருகை எ�
 seoTitle: "மலேசிய சுற்றுலா புள்ளிவிவரங்கள்: வருகைகள் vs வருவாய்"
 
 lang: "ta"
+sourceContentHash: "396de79b31be6ee8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

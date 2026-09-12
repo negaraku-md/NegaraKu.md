@@ -29,8 +29,9 @@ faq:
     a: "ஆட்சியாளர்கள் மாநாடு கூட்டாட்சி அரசியலமைப்பின் 38ஆவது பிரிவில் நிலைநாட்டப்பட்டுள்ளது; அதன் செயற்பாடுகளும் நடைமுறைகளும் ஐந்தாவது அட்டவணையில் (Jadual Kelima) விவரிக்கப்பட்டுள்ளன."
 
 lang: "ta"
+sourceContentHash: "145a64a2a5caf8b7"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

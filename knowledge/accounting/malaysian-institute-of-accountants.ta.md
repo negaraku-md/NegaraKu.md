@@ -33,8 +33,9 @@ faq:
     a: "MIA நிதி அமைச்சின் (Ministry of Finance) அதிகார எல்லைக்குள் இயங்குகிறது. பொது நலன் சார்ந்த நிறுவனங்களின் (public interest entities) தணிக்கைக்குப் பொறுத்தவரை, சூரியன் பத்திர ஆணையத்தின் (Securities Commission) கீழ் தணிக்கை மேற்பார்வை வாரியம் (Audit Oversight Board, AOB) மூலம் கூடுதல் மேற்பார்வை மேற்கொள்ளப்படுகிறது."
 
 lang: "ta"
+sourceContentHash: "fb67f2b0a6c79587"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

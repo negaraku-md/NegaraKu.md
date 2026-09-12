@@ -30,8 +30,9 @@ faq:
     a: "தேசிய ஆற்றல் மாற்ற வரைபடத்தின் (NETR) இலக்குகளுக்கு இணங்க, புதுப்பிக்கத்தக்க ஆற்றலை உள்வாங்க மேம்படுத்தப்பட வேண்டிய தேசியக் கட்ட வலையமைப்பை TNB சொந்தமாக்கிச் செயல்படுத்துகிறது."
 
 lang: "ta"
+sourceContentHash: "12e743d05ab159ac"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

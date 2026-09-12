@@ -41,8 +41,9 @@ verificationNeeded:
   - "மாநில சுற்றுலா போர்ட்டல் 35,960 சதுர கி.மீ. பரப்பளவைக் குறிப்பிடுகிறது; மாநில அரசு போர்ட்டல் 35,965 சதுர கி.மீ. எனக் குறிப்பிடுகிறது; ஒற்றை அதிகாரப்பூர்வ எண்ணை Pejabat Setiausaha Kerajaan Pahang-உடன் உறுதிப்படுத்தவும்."
 
 lang: "ta"
+sourceContentHash: "da77a92f707cbcd4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

@@ -29,8 +29,9 @@ faq:
     a: "ஆம். Sunway Healthcare Holdings 2026 மார்ச் 18 அன்று Bursa Malaysia இன் Main Market இல் SUNMED என பட்டியலிடப்பட்டது. சிங்கப்பூரின் GIC முன்னதாக, 2021 ஜூன் இல், அந்தச் சுகாதார வணிகத்தில் 16% பங்குக்காக RM750 மில்லியன் முதலீடு செய்ய ஒப்புக்கொண்டிருந்தது."
 
 lang: "ta"
+sourceContentHash: "b41845c9552f7efc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

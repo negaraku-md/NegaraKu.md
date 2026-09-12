@@ -27,8 +27,9 @@ faq:
   - q: "உள்துறை அமைச்சர் யார்?"
     a: "2026 நிலவரப்படி உள்துறை அமைச்சர் Datuk Seri Panglima Saifuddin Nasution bin Ismail, 3 டிசம்பர் 2022 முதல் பதவியில் உள்ளார். அமைச்சரவைப் பொறுப்புகள் மறுசீரமைப்புகளுடன் மாறுகின்றன, எனவே தற்போதைய பதவியில் இருப்பவரை moha.gov.my-இல் உறுதிப்படுத்தவும்."
 lang: "ta"
+sourceContentHash: "84024caa253d8b49"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "in-review"
 aiAssisted: true
 reviewer: null

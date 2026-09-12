@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "மிதக்கும்-வீதக் கடன்களைக் கொண்ட கடன் வாங்குபவர்கள், சேமிப்பாளர்கள், மற்றும் மலேசிய வட்டி வீத செய்திகளைப் புரிந்துகொள்ள முயற்சிக்கும் எவரும்."
 
 lang: "ta"
+sourceContentHash: "54922b7bc9867b3f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

@@ -59,8 +59,9 @@ obligations:
     consequence: "The award stands and becomes enforceable"
 
 lang: "ta"
+sourceContentHash: "673d411271b17256"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

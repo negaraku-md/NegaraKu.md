@@ -40,8 +40,9 @@ verificationNeeded:
   - "Subsection 77A(4) குறித்த LHDN-இன் அறிவிப்பின் தற்போதைய உரை மற்றும் நிலையை LHDN-உடன் நேரடியாக உறுதிப்படுத்தவும் — எழுதப்பட்ட நேரத்தில் அறிவிப்புப் பக்கத்தை அணுக முடியவில்லை, அது SSM-இன் தணிக்கை விலக்கு FAQ வழியாக இங்கே மேற்கோள் காட்டப்பட்டுள்ளது"
   - "SSM MBRS பக்கத்தில் தற்போதைய MBRS 2.0 கட்டாயக் கட்டத்தின் தேதிகள் மற்றும் நுழைவுப் புள்ளிகளை உறுதிப்படுத்தவும்"
 lang: "ta"
+sourceContentHash: "10c01141306ea188"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

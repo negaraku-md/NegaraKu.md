@@ -32,8 +32,9 @@ faq:
     a: "முழுமையாக இல்லை. கூட்டரசு நீதிமன்றம் (Federal Court) Madeli bin Salleh (2007) வழக்கில் NCR-க்கான பொதுச் சட்ட அங்கீகாரத்தை உறுதிப்படுத்தியது; ஆனால் TR Sandah (2016) வழக்கில், பிளவுபட்ட நீதிமன்றம் அமல்படுத்தத்தக்க உரிமைகளை பயிரிடப்பட்ட நிலத்திற்கு மட்டுப்படுத்தி, சுற்றியுள்ள சமூகக் காட்டின் மீதான உரிமைகோரல்களை நிராகரித்தது. NCR-இன் எல்லை இன்னும் விவாதத்திற்குரியதாகவே உள்ளது."
 
 lang: "ta"
+sourceContentHash: "f1772b5d15bbbf86"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

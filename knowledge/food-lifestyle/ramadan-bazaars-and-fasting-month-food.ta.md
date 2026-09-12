@@ -31,8 +31,9 @@ faq:
     a: "சுகாதார அமைச்சு (Kementerian Kesihatan, KKM) பஜார் கடைகளில் கண்காணிப்பு மற்றும் ஆய்வுகளை மேற்கொள்கிறது, மேலும் Food Hygiene Regulations 2009 (Peraturan-Peraturan Kebersihan Makanan 2009) கீழ் கூட்டுத்தண்டம் விதிக்கலாம். உள்ளூர் அதிகார அமைப்புகள், KKM மற்றும் KPDN ஆகியவை உணவுத் தரம், சுத்தம் மற்றும் விலைக் கட்டுப்பாட்டுக்காக ரமலான் முழுவதும் தினசரி ஆய்வுகளையும் மேற்கொள்கின்றன."
 
 lang: "ta"
+sourceContentHash: "571a086b9bbbfa81"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

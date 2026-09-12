@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "மலேசியாவின் பொருளாதார வெளிப்பாட்டை மதிப்பிடும் எவரும் — முதலீட்டாளர்கள், வேலைதேடுவோர், கொள்கை வகுப்பாளர்கள் மற்றும் வர்த்தக மாணவர்கள்."
 
 lang: "ta"
+sourceContentHash: "f587a0bc65cbc1af"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

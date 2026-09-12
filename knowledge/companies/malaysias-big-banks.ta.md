@@ -31,8 +31,9 @@ faq:
     a: "CIMB தன்னை மலேசியா, Indonesia, Singapore மற்றும் Thailand உள்ளிட்ட சந்தைகள் முழுவதும் இயங்கும் ASEAN-மையக் குழுமமாக விவரிக்கிறது. RHB ஏழு பிராந்திய சந்தைகளில் இயங்குகிறது. Maybank மூன்று தாய்ச் சந்தைகளை — மலேசியா, Singapore மற்றும் Indonesia — உள்ளடக்குகிறது, மேலும் ASEAN முழுவதும் மற்றும் முக்கிய உலகளாவிய நிதி மையங்களில் செயல்பாடுகளையும் கொண்டுள்ளது."
 
 lang: "ta"
+sourceContentHash: "81a33a10e5b5e6c3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

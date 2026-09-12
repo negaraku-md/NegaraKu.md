@@ -24,8 +24,9 @@ keyTakeaways:
 appliesTo: "ஒரு LLP-க்கும் Sdn Bhd-க்கும் இடையே தேர்வு செய்யும், அல்லது ஒரு ஒப்பந்தத்தில் PLT பெயரைப் படிக்கும் நிறுவனர்கள், தொழில்முறை பயிற்சியாளர்கள் மற்றும் ஆலோசகர்கள்."
 
 lang: "ta"
+sourceContentHash: "9e60329bba13d6ae"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

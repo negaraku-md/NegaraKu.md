@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Yang di-Pertuan Agong-இன் அரசியலமைப்பு நிலையையும், Majlis Raja-Raja-வின் தேர்வு வழிமுறையையும் விளக்கமாகப் புரிந்துகொள்ள விரும்பும் மாணவர்கள், ஆய்வாளர்கள், பத்திரிகையாளர்கள் மற்றும் அனைவருக்கும்."
 
 lang: "ta"
+sourceContentHash: "b3f6c2ddc1104e50"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

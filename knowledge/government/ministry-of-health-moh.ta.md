@@ -27,8 +27,9 @@ faq:
   - q: "KKM தனியார் மருத்துவமனைகளை நடத்துகிறதா?"
     a: "இல்லை. KKM பொது மருத்துவமனைகள் மற்றும் கிளினிக்குகளை இயக்குகிறது, மேலும் Private Healthcare Facilities and Services Act 1998 (Act 586) இன் கீழ் தனியார் சுகாதாரத்தைத் தனித்தனியாக ஒழுங்குபடுத்துகிறது; இது குறைந்தபட்ச தரம் மற்றும் பாதுகாப்பு தரநிலைகளை நிர்ணயித்து, செயல்முறைகளுக்கு மருத்துவர்கள் வசூலிக்கக்கூடிய கட்டணங்களுக்கு உச்சவரம்பு விதிக்கிறது."
 lang: "ta"
+sourceContentHash: "3996608aeba4590f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "in-review"
 aiAssisted: true
 reviewer: null

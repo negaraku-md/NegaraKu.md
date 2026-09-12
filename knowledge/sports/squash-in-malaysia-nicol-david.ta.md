@@ -31,8 +31,9 @@ faq:
     a: "2025 அக்டோபரில் வாழ்நாள் உச்ச தரவரிசையான உலக நம்பர் 6ஐ எட்டிய Sivasangari Subramaniam, மற்றும் சொந்த மண்ணில் 2024 ACE Malaysia Squash Cup வென்ற Ng Eain Yow."
 
 lang: "ta"
+sourceContentHash: "47a1ae4a8ea8c4dc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

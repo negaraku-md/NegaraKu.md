@@ -40,8 +40,9 @@ verificationNeeded:
   - "RPG 7 திரும்பப்பெறுதலுக்குக் கூறப்பட்ட காரணத்தை, அதாவது Competition Act 2010 ஐ, ஒரு MIA சுற்றறிக்கை அல்லது Council தீர்மானத்திற்கு எதிராக உறுதிப்படுத்தவும் — அதிகாரப்பூர்வ ஆவணத்திலிருந்து திரும்பப்பெறும் தேதியை மட்டுமே உறுதிப்படுத்த முடிந்தது"
 
 lang: "ta"
+sourceContentHash: "ecdf13a6ded6622d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

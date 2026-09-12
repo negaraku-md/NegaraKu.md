@@ -30,8 +30,9 @@ faq:
     a: "விமான நிறுவன அப்புறப்படுத்தலுக்குப் பிறகு, Capital A என்பது ஐந்து வணிகங்களை மையமாகக் கொண்டு கட்டமைக்கப்பட்ட விமானச் சேவைகள் மற்றும் டிஜிட்டல் குழுவாகும்: Asia Digital Engineering, Teleport, AirAsia MOVE, AirAsia Next மற்றும் Santan."
 
 lang: "ta"
+sourceContentHash: "649108ce940fc47e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

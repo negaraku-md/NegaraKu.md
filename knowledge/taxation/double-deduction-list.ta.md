@@ -28,8 +28,9 @@ verificationNeeded:
   - "இந்தப் பக்கம் எழுதப்பட்ட பிறகு வர்த்தமானியில் வெளியிடப்பட்ட ஒரு கருவி மூலம் P.U.(A) 164/2019 YA2025-ஐ மீறி மேலும் நீட்டிக்கப்பட்டதா என்பது."
 
 lang: "ta"
+sourceContentHash: "94db45958fc37cd4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

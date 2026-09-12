@@ -33,8 +33,9 @@ faq:
     a: "இல்லை. e-WHT நீங்கள் எப்படிச் சமர்ப்பித்துச் செலுத்துகிறீர்கள் என்பதை மட்டுமே மாற்றுகிறது — விகிதங்கள் மாறவில்லை, இன்னும் charging section-உடன் இணைத்துப் படிக்கப்படும் Schedule 1-இன் Part V-இலிருந்து வருகின்றன (எடுத்துக்காட்டாக section 109-இன் கீழ் 10 சதவீதம் royalty மற்றும் 15 சதவீதம் வட்டி, section 109B-இன் கீழ் சிறப்பு வகைகளுக்கு 10 சதவீதம்). முழு அட்டவணைக்கு, கொடுப்பனவு வகை வாரியான நிறுத்திவைப்பு வரி விகிதங்கள் பற்றிய தனி வழிகாட்டியைப் பார்க்கவும்."
 
 lang: "ta"
+sourceContentHash: "d5f0f2295ae24e78"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

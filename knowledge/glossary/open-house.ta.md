@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "முதல் முறையாக ஒரு திறந்த வீட்டிற்கு அழைக்கப்படும் எவரும், சமூக அல்லது நிறுவன அளவிலான திறந்த வீடுகளை ஏற்பாடு செய்பவர்கள், மற்றும் இந்த நடைமுறையை மலேசியாவில் இனங்களைக் கடந்த சமூக நிகழ்வாகப் புரிந்துகொள்ள விரும்பும் எவரும்."
 
 lang: "ta"
+sourceContentHash: "3bc3f6abab7fea70"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

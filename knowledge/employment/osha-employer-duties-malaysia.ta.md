@@ -75,8 +75,9 @@ obligations:
     consequence: "Prosecution under the Act"
 
 lang: "ta"
+sourceContentHash: "3632c2c27953365f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

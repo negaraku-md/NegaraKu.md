@@ -41,8 +41,9 @@ verificationNeeded:
   - "Schedule 7A-இன் கீழ் மறுமுதலீட்டு கழிவு (Reinvestment Allowance) உடனும், நீட்டிக்கப்படும் அல்லது மாற்றப்படும் தற்போதுள்ள PIA ஒப்புதல்களுடனும் NIF எவ்வாறு தொடர்பு கொள்கிறது என்பதை உறுதிப்படுத்தவும்"
 
 lang: "ta"
+sourceContentHash: "aa93955df38668cf"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

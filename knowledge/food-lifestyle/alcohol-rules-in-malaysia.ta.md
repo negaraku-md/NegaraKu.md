@@ -31,8 +31,9 @@ faq:
     a: "Langkawi மற்றும் Labuan போன்ற தீவுகள் வரிவிலக்கு மண்டலங்கள், அங்கு மதுபானம் கலால் வரி இல்லாமல் விற்கப்படுகிறது. பயணிகள் பொதுவாக மொத்தம் ஒரு லிட்டருக்கு மிகாத ஒயின், ஸ்பிரிட்ஸ் அல்லது மால்ட் மது (malt liquor) கொண்டுவரலாம், இது பயணத்திற்கு முன் சுங்கத்துடன் உறுதிப்படுத்தப்பட வேண்டிய குறைந்தபட்ச வெளியிருப்பு விதிகளுக்கு உட்பட்டது."
 
 lang: "ta"
+sourceContentHash: "56f47508696d66ca"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

@@ -41,8 +41,9 @@ verificationNeeded:
   - "இறக்குமதி செய்யப்பட்ட பொருட்களுக்கு Service Tax Act s.26A-க்குச் சமமான எதுவும் Sales Tax Act இல் உள்ளதா என்பதை உறுதிப்படுத்தவும் — 2018 மறுபதிப்பில் எதுவும் இல்லை"
 
 lang: "ta"
+sourceContentHash: "13790ae63f7d4cb0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

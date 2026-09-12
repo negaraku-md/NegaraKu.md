@@ -32,8 +32,9 @@ faq:
     a: "Intrudu என்பது Melaka-வின் போர்த்துகீச சமூகத்தினர் Rabu Abu (Ash Wednesday — Prapaskah/தவக்காலத்தின் தொடக்கம்)-க்கு முந்தைய ஞாயிற்றுக்கிழமை கொண்டாடும், ஆண்டுதோறும் நிகழும் நீர் விழா. குடியிருப்பாளர்களும் பார்வையாளர்களும் Portuguese Settlement முழுவதிலும் ஒருவர் மீது ஒருவர் நீர் தெளித்து மகிழ்கின்றனர்; இந்தக் கொண்டாட்டம் branyo நடனத்துடன் இணைந்து நடைபெறுகிறது."
 
 lang: "ta"
+sourceContentHash: "6be0336bb559138c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

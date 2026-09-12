@@ -34,8 +34,9 @@ faq:
     a: "MITI-ன் Guidelines for Sustainable Development of Data Centre (30 டிசம்பர் 2024), இயக்குநர்கள் ISO/IEC 30134 தரநிலைகளுக்கு எதிராக வடிவமைப்பு PUE, WUE மற்றும் CUE-ஐ அறிவிக்க வேண்டும் என்றும், வழிகாட்டுதல் அதன் இட-தேர்வு நிபந்தனையை வார்த்தையாக்கியுள்ளபடி, நீர் அழுத்தச் சுட்டெண் (water stress index, WSI) 0.8-ஐ விடக் குறைவாக உள்ள தீபகற்ப மலேசிய இடங்களைக் கருத்தில் கொள்ள வேண்டும் என்றும் கோருகிறது."
 
 lang: "ta"
+sourceContentHash: "58d8713ab3d5317e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

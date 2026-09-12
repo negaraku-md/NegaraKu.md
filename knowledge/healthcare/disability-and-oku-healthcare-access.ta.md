@@ -31,8 +31,9 @@ faq:
     a: "JKM-இன் கீழ் உதவி/செயற்கை உறுப்பு கருவி உதவி (BAT) கைமுறை அல்லது மின்சார சக்கர நாற்காலிகள், செயற்கைக் கால்கள் மற்றும் கைகள், செவித்துணைக் கருவிகள், வெள்ளைக் கைத்தடிகள் மற்றும் பிரெயில் இயந்திரங்களை, கருவியின் நிர்ணயிக்கப்பட்ட உண்மையான விலைக்கு ஏற்ப உள்ளடக்குகிறது."
 
 lang: "ta"
+sourceContentHash: "eb1c377cbf19305d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

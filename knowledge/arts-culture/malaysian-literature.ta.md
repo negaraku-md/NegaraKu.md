@@ -31,8 +31,9 @@ faq:
     a: "பெறுநர்கள் Warkah Penghormatan Negara (தேசிய கௌரவப் பத்திரம்), ரொக்கப் பணம் RM60,000, RM500,000 வரை மதிப்புள்ள வெளியீட்டு ஒதுக்கீடு (50,000 பிரதிகள் வரை), அரசாங்க மருத்துவமனையில் முதல்-தர வார்டில் இலவச மருத்துவ சிகிச்சை, அத்துடன் மாதம் RM5,000 கொடுப்பனவைப் பெறுகின்றனர்."
 
 lang: "ta"
+sourceContentHash: "c27d87b5dbf2077e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

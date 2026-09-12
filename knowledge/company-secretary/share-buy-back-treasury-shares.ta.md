@@ -29,8 +29,9 @@ faq:
     a: "மீள்கொள்முதல் முழுவதுமாக கம்பெனியின் தக்கவைக்கப்பட்ட லாபத்திலிருந்து, குழு (group) அடிப்படையில் அல்லாமல் கம்பெனி அடிப்படையில் நிதியளிக்கப்பட வேண்டும் — Bursa Listing Requirements-இன் Chapter 12-இன் Rule 12.10. மீள்கொள்முதல் சமமான அளவு தக்கவைக்கப்பட்ட லாபத்தால் ஆதரிக்கப்பட்டால், கடன்களை நிதி மூலமாகப் பயன்படுத்தலாம் (Rule 12.11)."
 
 lang: "ta"
+sourceContentHash: "6bd8a430b49db96b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "மலேசியாவின் மறைமுக வரி முறையைப் புரிந்துகொள்ள விரும்பும் வணிக உரிமையாளர்கள், நிதிக் குழுக்கள் மற்றும் நுகர்வோர்."
 
 lang: "ta"
+sourceContentHash: "7438db08db3298e2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

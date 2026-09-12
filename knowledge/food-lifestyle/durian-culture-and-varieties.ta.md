@@ -34,8 +34,9 @@ faq:
     a: "Bernama அறிக்கை செய்த ஒரு நாடாளுமன்ற பதிலின்படி, 2018 முதல் 2025 வரை மலேசியா RM6.37 பில்லியன் மதிப்புள்ள — சுமார் 115,359 மெட்ரிக் டன் — துரியனை சீனாவுக்கு ஏற்றுமதி செய்தது. 2030-க்கான ஏற்றுமதி மதிப்பு இலக்கு 69,000 மெட்ரிக் டன்னுடன் RM1.8 பில்லியனை எட்டும் என மதிப்பிடப்படுகிறது."
 
 lang: "ta"
+sourceContentHash: "c21f23e862b9d969"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

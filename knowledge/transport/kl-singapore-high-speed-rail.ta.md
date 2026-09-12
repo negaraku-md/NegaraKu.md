@@ -29,8 +29,9 @@ faq:
     a: "இல்லை. RTS Link என்பது Johor Bahru மற்றும் Woodlands இடையே இயங்கும் ஒரு குறுகிய எல்லை தாண்டிய தொடர் ரயில்; இது 2026-இல் திறக்க இலக்கு வைக்கப்பட்டுள்ளது. HSR என்பது கோலாலம்பூர் மற்றும் சிங்கப்பூர் இடையே திட்டமிடப்பட்ட ஒரு தனி ~350 கி.மீ அதிவேக வழித்தடம்."
 
 lang: "ta"
+sourceContentHash: "b505d87f2fe5cea1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

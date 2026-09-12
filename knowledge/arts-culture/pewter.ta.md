@@ -16,8 +16,9 @@ keyTakeaways:
   - "1979இல் சிலாங்கூர் சுல்தானிடமிருந்து அரச உரிமச்சான்று (royal warrant) பெற்றதைத் தொடர்ந்து, 1992இல்தான் நிறுவனம் தனது தற்போதைய பெயரை ஏற்றது."
 appliesTo: "மலேசிய கைவினை மரபுகள், தகர சுரங்க வரலாறு அல்லது Royal Selangor குறித்து ஆர்வமுள்ள எவருக்கும்"
 lang: "ta"
+sourceContentHash: "ab235dfd3f4f5c67"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "in-review"
 aiAssisted: true
 reviewer: null

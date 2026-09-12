@@ -27,8 +27,9 @@ verificationNeeded:
   - "மேற்கோள் காட்டப்பட்ட 66(5) பிரிவின் உரை வழக்குரைஞர் தலைமையகத்தின் மலாய் மொழிபெயர்ப்பு ஆகும்; இதை அதிகாரப்பூர்வ ஆங்கில உரையுடன் ஒப்பிட்டுச் சரிபார்க்கவும்."
 
 lang: "ta"
+sourceContentHash: "f029a1ff1ebfdbf1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

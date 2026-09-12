@@ -36,8 +36,9 @@ verificationNeeded:
   - "6 நிலையான-விலை / 12 மாறும்-விலை பிரிவு PNB-இன் 2025 டிசம்பர் 19 செய்திக் குறிப்பிலிருந்து பெறப்பட்டது (மொத்தம் 18 நிதிகள், அவற்றில் 12 மாறும்-விலை) — அடுத்த மதிப்பாய்வில் ASNB-இன் நிதிப் பட்டியலுக்கு எதிராக மீண்டும் உறுதிசெய்யவும்"
 
 lang: "ta"
+sourceContentHash: "1c4aaf1e059aa22b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

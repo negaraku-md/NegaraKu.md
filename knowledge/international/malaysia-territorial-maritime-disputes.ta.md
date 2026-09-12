@@ -31,8 +31,9 @@ faq:
     a: "ஐந்து அம்சங்கள்: Swallow Reef (Terumbu Layang-Layang), Ardasier Reef (Terumbu Ubi), Erica Reef (Terumbu Siput), Investigator Shoal (Terumbu Peninjau) மற்றும் Mariveles Reef (Terumbu Montanani), இவை அனைத்தும் தீவுக்கூட்டத்தின் தெற்குப் பகுதியில் Sabah-க்கு அருகில் உள்ளன."
 
 lang: "ta"
+sourceContentHash: "c7460cc1783b36b6"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

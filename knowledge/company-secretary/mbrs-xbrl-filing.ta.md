@@ -25,8 +25,9 @@ faq:
   - q: "2025-இன் தாமத சமர்ப்பிப்புக் கட்டணத் தள்ளுபடி எனது காலக்கெடுவைப் பின்தள்ளியதா?"
     a: "இல்லை. அந்தத் தள்ளுபடி 2025 ஜூன் 1 முதல் செப்டம்பர் 30 வரை நடைமுறையில் இருந்து, தாமதமான சமர்ப்பிப்புக் கட்டணங்களை மட்டுமே நீக்கியது. அது Companies Act 2016-இன் கீழ் எந்தவொரு சட்டப்பூர்வ சமர்ப்பிப்புக் காலக்கெடுவையும் நீட்டிக்கவில்லை."
 lang: "ta"
+sourceContentHash: "6cce56bdb89cd914"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "in-review"
 aiAssisted: true
 reviewer: null

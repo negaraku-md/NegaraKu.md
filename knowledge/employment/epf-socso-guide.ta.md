@@ -24,8 +24,9 @@ appliesTo: "சரியான சட்டப்பூர்வ பங்கள
 verificationNeeded: []
 
 lang: "ta"
+sourceContentHash: "93eabace2772ea86"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

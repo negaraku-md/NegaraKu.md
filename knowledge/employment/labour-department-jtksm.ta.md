@@ -25,8 +25,9 @@ faq:
   - q: "JTKSM முழு மலேசியாவையும் உள்ளடக்குகிறதா?"
     a: "இல்லை. JTKSM தீபகற்ப மலேசியாவை உள்ளடக்குகிறது. Sabah மற்றும் Sarawak-க்கு அவற்றின் சொந்த தனித்த தொழிலாளர் திணைக்களங்கள் உள்ளன."
 lang: "ta"
+sourceContentHash: "1575ce3d33c667d0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "in-review"
 aiAssisted: true
 reviewer: null

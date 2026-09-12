@@ -42,8 +42,9 @@ verificationNeeded:
   - "s.263(5) அனுமதிக்கிறதே தவிர கட்டாயப்படுத்தவில்லை என்பதால், நிதி அமைச்சர் s.263 அங்கீகார செயல்பாட்டை முறையாக ஒப்படைத்துள்ளாரா, மற்றும் எந்த அமைப்பிற்கு என்பதை உறுதிப்படுத்தவும்"
 
 lang: "ta"
+sourceContentHash: "171d2f5e74d8eb19"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

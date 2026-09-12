@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "மலேசிய சம்பளத்தை அடிப்படையாகக் கொண்டு பட்ஜெட் தயாரிப்பவர், ஊதியத்தை ஒப்பிடுபவர், அல்லது ஒரு குறிப்பிட்ட வருமான எண்ணை தேசியச் சூழலில் வைக்க முயற்சிப்பவர் அனைவருக்கும்."
 
 lang: "ta"
+sourceContentHash: "b4e7cfa473ebf879"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

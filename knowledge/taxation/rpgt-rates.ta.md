@@ -45,8 +45,9 @@ obligations:
     consequence: "Penalty of up to three times the tax under s.29(3), and a 10% increase on the acquirer under s.21B(2)"
 
 lang: "ta"
+sourceContentHash: "00945edeadfe77b7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

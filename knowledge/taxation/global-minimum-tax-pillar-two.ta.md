@@ -59,8 +59,9 @@ obligations:
     consequence: "Loss of transitional penalty relief where reasonable measures were not taken"
 
 lang: "ta"
+sourceContentHash: "f4ebb2767afaf5b6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

@@ -23,8 +23,9 @@ keyTakeaways:
 appliesTo: "ஒரு மலேசிய மாநில அரசு எவ்வாறு ஒழுங்கமைக்கப்பட்டுள்ளது என்பதை விவரண அடிப்படையில் புரிந்துகொள்ள விரும்பும் வாசகர்கள் — மாணவர்கள், அரசு ஊழியர்கள், பத்திரிகையாளர்கள், மற்றும் சில மாநிலங்களில் ஏன் ஒரு Menteri Besar மற்றும் ஒரு Istana Negeri இருக்கிறது, அதேவேளை மற்றவற்றில் ஒரு Chief Minister மற்றும் ஒரு ஆளுநர் இருக்கிறார் என்பதைக் கண்டறிய முயலும் எவரும்."
 
 lang: "ta"
+sourceContentHash: "0eb897c5d29d626d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

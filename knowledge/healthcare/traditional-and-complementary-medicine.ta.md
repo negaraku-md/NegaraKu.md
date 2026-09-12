@@ -26,8 +26,9 @@ faq:
     a: "முதல் குற்றத்திற்கு, RM30,000-ஐ மிகாத அபராதம் அல்லது 2 ஆண்டுகளை மிகாத சிறைத்தண்டனை, அல்லது இரண்டும். அடுத்தடுத்த குற்றங்களுக்கு RM50,000 வரை அல்லது 3 ஆண்டுகள் வரை சிறைத்தண்டனை."
 
 lang: "ta"
+sourceContentHash: "86f8ad16efa02a93"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

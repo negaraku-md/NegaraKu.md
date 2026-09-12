@@ -27,8 +27,9 @@ faq:
   - q: "நிதி அமைச்சை யார் தலைமை தாங்குகிறார்?"
     a: "ஆகஸ்ட் 2026 நிலவரப்படி, நிதி அமைச்சர் Dato' Seri Anwar bin Ibrahim ஆவார், நிதி அமைச்சர் II Datuk Seri Amir Hamzah bin Azizan மற்றும் கருவூலப் பொதுச் செயலாளர் Datuk Johan Mahmood bin Merican ஆவர். அமைச்சரவை மறுசீரமைப்புகளுடன் பதவி வகிப்போர் மாறுவதால், தற்போதைய பெயர்களை mof.gov.my-இல் சரிபார்க்கவும்."
 lang: "ta"
+sourceContentHash: "d725c73359a7391e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "in-review"
 aiAssisted: true
 reviewer: null

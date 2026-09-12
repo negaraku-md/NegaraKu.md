@@ -54,8 +54,9 @@ obligations:
     consequence: "Fine up to RM500,000 or imprisonment up to three years under s.245(9)"
 
 lang: "ta"
+sourceContentHash: "8fe84c98a7ee99b1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

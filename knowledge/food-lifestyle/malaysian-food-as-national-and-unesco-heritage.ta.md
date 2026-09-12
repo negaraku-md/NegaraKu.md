@@ -30,8 +30,9 @@ faq:
     a: "ஆம். 23 பிப்ரவரி 2024-இல் பாரம்பரிய ஆணையரால் தேசிய பாரம்பரிய பொருள்களாக வர்த்தமானியில் வெளியிடப்பட்ட 10 உணவுகளில் இதுவும் ஒன்று."
 
 lang: "ta"
+sourceContentHash: "99f9a99ac9dc7cef"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

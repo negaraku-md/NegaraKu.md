@@ -27,8 +27,9 @@ faq:
     a: "ஒரு மின்சார சைக்கிள் Standard Malaysia MS2514-ஐ பின்பற்றும் pedal-assist வகையாக இருந்து, த்ரோட்டில் (throttle) இல்லாமல், நிரந்தரமாகப் பொருத்தப்பட்ட மிதிவண்டிகளைக் (pedal) கொண்டிருந்தால் மட்டுமே விலக்கு அளிக்கப்படுகிறது. அனுமதிக்கப்படாத த்ரோட்டில் பொருத்தப்பட்ட மின்சார சைக்கிள் PMD அல்லது மொபெட் (moped) என வகைப்படுத்தப்பட்டு தடைசெய்யப்பட்டுள்ளது."
 
 lang: "ta"
+sourceContentHash: "c96ca2ea918ba45a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

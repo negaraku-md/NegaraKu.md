@@ -34,8 +34,9 @@ faq:
     a: "Kuala Lumpur-இல் 1998 Games-ஐ நடத்தியது; அங்கு அது 10 தங்கப் பதக்கங்கள் என்ற தனது சிறந்த அறுவடையைப் பதிவு செய்து, ஒட்டுமொத்தமாக நான்காவது இடத்தில் நின்றது. அது ஆசியாவில் நடத்தப்பட்ட முதல் Commonwealth Games-ம் ஆகும்."
 
 lang: "ta"
+sourceContentHash: "d25df756ce38577d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

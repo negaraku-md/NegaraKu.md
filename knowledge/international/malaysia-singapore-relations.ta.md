@@ -36,8 +36,9 @@ faq:
     a: "2008 மே 23 அன்று, பன்னாட்டு நீதிமன்றம் Pulau Batu Puteh (Pedra Branca) சிங்கப்பூருக்கும், Middle Rocks மலேசியாவுக்கும், South Ledge அதன் கடல் எல்லைக்குள் அமைந்துள்ள நாட்டுக்கும் சொந்தம் என்று தீர்ப்பளித்தது."
 
 lang: "ta"
+sourceContentHash: "47c25fa8a007fc27"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

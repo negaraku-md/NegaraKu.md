@@ -32,8 +32,9 @@ faq:
     a: "எழுதப்பட்ட சட்டத்தின் கீழ் நிறுவப்பட்ட சமய அதிகார அமைப்புக்கு — அதாவது உங்கள் மாநிலத்தின் ஜகாத் வாரியம் அல்லது மையத்திற்கு — செலுத்தி, ரசீதைப் பாதுகாத்து வைக்கவும். தனிநபர் அல்லது தனியார் நிதிக்குச் செலுத்தும் தொகை ரிபேட்டுக்குத் தகுதி பெறாது."
 
 lang: "ta"
+sourceContentHash: "0477b9f160c18e84"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

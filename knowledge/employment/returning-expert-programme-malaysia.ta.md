@@ -29,8 +29,9 @@ faq:
     a: "நீங்கள் இன்னும் வெளிநாட்டில் இருக்கும்போதே TalentCorp-இன் MyHeart தளத்தின் மூலம் ஆன்லைனில் விண்ணப்பிக்கவும், சிறந்தது உங்கள் எதிர்பார்க்கப்படும் திரும்பும் தேதிக்கு ஒன்று முதல் இரண்டு மாதங்களுக்கு முன். ஒரு முழுமையான விண்ணப்பம் 45 வேலை நாட்கள் வரையில் செயலாக்கப்படுகிறது."
 
 lang: "ta"
+sourceContentHash: "f730c6823dee3d1e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

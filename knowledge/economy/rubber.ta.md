@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "மலேசியாவின் ரப்பர் துறை குறித்து — தோட்டப் பயிர், வர்த்தக ஓட்டங்கள் மற்றும் இப்போது அதை ஆதிக்கம் செய்யும் கையுறை உற்பத்தித் தொழில் — ஒரு அறிமுக நிலை, ஆதாரப்பூர்வமான படத்தைத் தேவைப்படும் எவரும்."
 
 lang: "ta"
+sourceContentHash: "0020c8d13fc47636"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

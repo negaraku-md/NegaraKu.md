@@ -40,8 +40,9 @@ verificationNeeded:
   - "வாடிக்கையாளரை எதிர்நோக்கும் எந்த ஆவணத்திலும் MASB தனியார் நிறுவன வரையறையை அப்படியே மேற்கோள் காட்டுவதற்கு முன், MASB செயல்படுத்தல் பக்கத்துடன் ஒப்பிட்டு அதன் துல்லியமான தற்போதைய சொற்பொருளை உறுதிப்படுத்தவும்"
 
 lang: "ta"
+sourceContentHash: "fdc2c021a877fc8a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

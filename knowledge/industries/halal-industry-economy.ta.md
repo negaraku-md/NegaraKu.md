@@ -34,8 +34,9 @@ faq:
     a: "இல்லை. ஹலால் சான்றளிப்பு சுகாதாரம், தடமறியும் தன்மை மற்றும் தரநிலைகளைக் குறிக்கிறது; இத்துறை முஸ்லிம் மற்றும் முஸ்லிம் அல்லாத நுகர்வோர் இருவரையும், முஸ்லிம் பெரும்பான்மையற்ற ஏற்றுமதி இலக்குகளையும் நோக்கி சந்தைப்படுத்துகிறது."
 
 lang: "ta"
+sourceContentHash: "e86c482e092e1722"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

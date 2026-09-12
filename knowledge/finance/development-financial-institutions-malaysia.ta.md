@@ -30,8 +30,9 @@ faq:
     a: "Development Financial Institutions Act 2002 இன் கீழ் விதிக்கப்பட்ட ஆறு DFIகளை வங்கி நெகாரா மலேசியா ஒழுங்குபடுத்தி மேற்பார்வையிடுகிறது; அவை நிதி ரீதியில் உறுதியாக இருப்பதையும், தமது ஆணை பெற்ற பாத்திரங்களை விவேகத்துடன் நிறைவேற்றுவதையும் உறுதி செய்கிறது."
 
 lang: "ta"
+sourceContentHash: "2cd551f54c730d34"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

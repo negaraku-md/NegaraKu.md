@@ -26,8 +26,9 @@ verificationNeeded:
   - "மலாயாவின் இந்திய முஸ்லிம் சமூகத்தில் teh tarik-இன் தோற்றம் — பரவலாகக் குறிப்பிடப்பட்டாலும், குறிப்பிட்ட தேதியோ இடமோ எந்த அதிகாரப்பூர்வ அரசாங்க ஆதாரத்திலும் உறுதிப்படுத்தப்படவில்லை."
 
 lang: "ta"
+sourceContentHash: "445b06c48abc194e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

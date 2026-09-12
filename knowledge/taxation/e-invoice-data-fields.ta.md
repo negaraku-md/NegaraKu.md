@@ -28,8 +28,9 @@ verificationNeeded:
   - "ஒவ்வொரு endpoint-க்குமான API வீத வரம்புகள் — SDK அதன் FAQ பக்கத்தில் எண்வழி வரம்புகளைக் கூறாமல் Integration Practices ஐக் குறிப்பிடுகிறது"
 
 lang: "ta"
+sourceContentHash: "7457966f1e6638bb"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

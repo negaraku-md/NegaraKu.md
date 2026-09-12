@@ -29,8 +29,9 @@ faq:
     a: "செருனாய் சுழற்சி மூச்சு நுட்பத்துடன் (circular breathing) வாசிக்கப்படுகிறது, இது அதன் ஒலியை இடைவெளியின்றித் தொடர அனுமதிக்கிறது, இதனால் இது நோபாத்தில் மெட்டின் முதன்மைச் சுமப்பானாக ஆகிறது."
 
 lang: "ta"
+sourceContentHash: "ede0d9c6ebbbceef"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

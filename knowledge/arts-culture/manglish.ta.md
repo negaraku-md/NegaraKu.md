@@ -31,8 +31,9 @@ faq:
     a: "ஆம். Oxford English Dictionary தொடர்ச்சியான புதுப்பிப்புகளில் பல மலேசிய ஆங்கிலச் சொற்களைச் சேர்த்துள்ளது — 2016-இல் lepak, shiok, teh tarik; அதே ஆண்டின் பிற்பகுதியில் mamak, kopitiam, atas உள்ளிட்ட பல மங்லிஷ் மற்றும் மலேசிய உணவுச் சொற்கள்; மற்றும் அடுத்தடுத்த புதுப்பிப்பில் boleh, agak-agak, wayang போன்ற சொற்கள் — புதிய ஆங்கிலத்தை உருவாக்குவதற்குப் பதிலாக நிலைபெற்ற மலேசிய பயன்பாட்டை அங்கீகரிக்கிறது."
 
 lang: "ta"
+sourceContentHash: "8f82ee70d6e9258e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "in-review"
 aiAssisted: true
 reviewer: null

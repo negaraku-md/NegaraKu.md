@@ -42,8 +42,9 @@ verificationNeeded:
   - "இந்த பகுப்பாய்வை SST ஆவணங்களுக்கு விரிவுபடுத்துவதற்கு முன்பு Sales Tax Act 2018 மற்றும் Service Tax Act 2018 பதிவு பராமரிப்புக் காலங்களைத் தனித்தனியாக உறுதிப்படுத்தவும்"
 
 lang: "ta"
+sourceContentHash: "8f59afbef6de896e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

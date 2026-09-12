@@ -23,8 +23,9 @@ verificationNeeded:
   - "பதிவேடு தொடர்பான அறிவிப்புகளுக்கான தற்போதைய SSM தாமதத் தாக்கல் கட்டண அளவை, தாமதத் தாக்கல் அபராதங்கள் குறித்த நடைமுறையிலுள்ள SSM நடைமுறை உத்தரவுக்கு எதிராக உறுதிப்படுத்தவும்"
 
 lang: "ta"
+sourceContentHash: "ff4434b4487bfa3d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

@@ -36,8 +36,9 @@ faq:
     a: "15–30 MtCO₂eq இலக்கில், 20 MtCO₂eq வரை நிபந்தனையற்றது — மலேசியா எப்படியிருந்தாலும் அதற்கு உறுதியளிக்கிறது. மேலும் 10 MtCO₂eq நிபந்தனையானது; அதாவது சர்வதேச காலநிலை நிதி, தொழில்நுட்ப பரிமாற்றம் மற்றும் திறன் மேம்பாட்டு ஆதரவு வழங்கப்பட்டால் மட்டுமே அது வழங்கப்படும்."
 
 lang: "ta"
+sourceContentHash: "7ad2136668e2982a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

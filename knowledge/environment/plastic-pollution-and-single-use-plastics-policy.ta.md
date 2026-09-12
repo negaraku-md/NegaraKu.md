@@ -29,8 +29,9 @@ faq:
     a: "அவற்றுள் 2025க்குள் பிளாஸ்டிக் பேக்கேஜிங்கிற்கு 25% மறுசுழற்சி விகிதம், 2030க்குள் 76% சராசரி மறுசுழற்சிக்கான சேகரிப்பு விகிதம் (CFR), மற்றும் 2030க்குள் 15% சராசரி மறுசுழற்சி உள்ளடக்கம் ஆகியவை அடங்கும். 100% மறுசுழற்சி விகிதம் 2050க்குள் இலக்காக நிர்ணயிக்கப்பட்டுள்ளது."
 
 lang: "ta"
+sourceContentHash: "a24e4c1da4f3ae42"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

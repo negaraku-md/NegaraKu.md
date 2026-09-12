@@ -31,8 +31,9 @@ faq:
     a: "அவை மலேசிய வணிக அறிக்கையிடல் அமைப்பு (Malaysian Business Reporting System, MBRS) வழியாக நிறுவனங்கள் ஆணையம் (Companies Commission of Malaysia, SSM)-இடம் பதிவுசெய்யப்படுகின்றன; இது நிதிநிலை அறிக்கைகளை XBRL வடிவத்தில் கோருகிறது. MBRS என்பது MFRS மற்றும் MPERS ஆகிய இரு கட்டமைப்புகளையும் ஆதரிக்கிறது, மேலும் ஒருங்கிணைந்த மற்றும் தனித்த அறிக்கையிடல் பத்திகளை வழங்குகிறது."
 
 lang: "ta"
+sourceContentHash: "582764d653c4df0a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

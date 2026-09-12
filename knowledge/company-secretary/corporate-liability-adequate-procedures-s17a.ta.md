@@ -35,8 +35,9 @@ faq:
     a: "நிலையான சரிபார்ப்புப் பட்டியல் எதுவும் இல்லை, ஆனால் GIACC Guidelines on Adequate Procedures, நடைமுறைகள் போதுமானதா என்று ஒரு நீதிமன்றம் தீர்மானிக்கும்போது எடைபோடக்கூடிய, T.R.U.S.T. என்ற சுருக்கப்பெயரால் அறியப்படும் ஐந்து கொள்கைகளை வகுத்துள்ளது."
 
 lang: "ta"
+sourceContentHash: "6d976fa3bddc473d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

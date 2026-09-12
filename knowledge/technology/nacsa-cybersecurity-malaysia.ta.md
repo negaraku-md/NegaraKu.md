@@ -31,8 +31,9 @@ faq:
     a: "Cyber Security Act 2024 [Act 854]-இன் கீழ், சைபர் பாதுகாப்பு சேவைகளை வழங்குவதற்கான விண்ணப்பம் NACSA-இன் Chief Executive-க்கு செய்யப்படுகிறது. ஒழுங்குபடுத்தப்பட்ட வகைகள் நிர்வகிக்கப்படும் பாதுகாப்பு செயல்பாட்டு மையம் (SOC) கண்காணிப்பு சேவை மற்றும் ஊடுருவல் சோதனை சேவை ஆகும்."
 
 lang: "ta"
+sourceContentHash: "a5256768a1d06815"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

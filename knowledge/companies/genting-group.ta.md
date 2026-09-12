@@ -29,8 +29,9 @@ faq:
     a: "Genting ஓய்வுநேரம் மற்றும் விருந்தோம்பல், எண்ணெய்ப்பனை தோட்டங்கள், மின் உற்பத்தி, எண்ணெய் மற்றும் எரிவாயு, சொத்து மேம்பாடு, மற்றும் வாழ்க்கை அறிவியல் ஆகியவற்றை உள்ளடக்கியுள்ளது. Genting Plantations மலேசியா மற்றும் இந்தோனேசியா முழுவதிலும் சுமார் 243,000 ஹெக்டேர் நிலவங்கியை (landbank) நடத்துகிறது."
 
 lang: "ta"
+sourceContentHash: "1b5f1753141cba5e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

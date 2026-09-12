@@ -31,8 +31,9 @@ faq:
     a: "JPJ இன் மின்சார வாகன LKM வழிகாட்டுதல்களின்படி, 50 kW மற்றும் அதற்குக் கீழ் திறனுள்ள EV-களுக்கு ஆண்டுக்கு RM20. அதிக திறனுக்கு விகிதங்கள் படிப்படியாக அதிகரிக்கின்றன."
 
 lang: "ta"
+sourceContentHash: "926c690f458094f6"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

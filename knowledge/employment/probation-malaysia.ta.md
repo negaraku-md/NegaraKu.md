@@ -26,8 +26,9 @@ verificationNeeded:
   - "சோதனைக் காலப் பணியாளர் பணிநீக்கம் மற்றும் நடத்தை மூலம் தானாக பணி உறுதிப்படுத்தல் தொடர்பான முன்னணி மேல்முறையீட்டு அதிகாரத்தை, அறிக்கையிடப்பட்ட தீர்ப்புகளுக்கு எதிராக உறுதிப்படுத்தவும்"
 
 lang: "ta"
+sourceContentHash: "04bbb0ef0090fa14"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

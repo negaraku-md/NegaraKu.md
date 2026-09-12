@@ -32,8 +32,9 @@ faq:
     a: "Iskandar Malaysia என்பது 2000-களில் தொடங்கப்பட்ட ஒரு மலேசிய வளர்ச்சி வழித்தடம்; இது JS-SEZ பரப்பிற்குள் அமைந்துள்ளது. JS-SEZ மிகவும் விரிவானது மற்றும் இருதரப்பு தன்மை கொண்டது: இது சிங்கப்பூரைக் கூட்டு-கையொப்பமிடுநராகச் சேர்க்கிறது, மண்டலத்தை Pengerang வரை நீட்டிக்கிறது, மேலும் அதன் மேல் பகிர்ந்த ஊக்கத்தொகை மற்றும் எளிதாக்கல் கட்டமைப்பை அடுக்குகிறது."
 
 lang: "ta"
+sourceContentHash: "91765fa012dff218"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

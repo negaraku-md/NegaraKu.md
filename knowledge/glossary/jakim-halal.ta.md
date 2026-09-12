@@ -34,8 +34,9 @@ faq:
     a: "ஆம். வெளிநாட்டு உற்பத்தியாளர்கள் JAKIM சான்றளிப்புக்கு விண்ணப்பிக்கலாம், அல்லது JAKIM-ஆல் அங்கீகரிக்கப்பட்ட வெளிநாட்டு ஹலால் சான்றளிப்பு அமைப்பின் சான்றிதழைப் பயன்படுத்தலாம். அங்கீகரிக்கப்பட்ட அமைப்புகளின் பட்டியல் JAKIM-ஆல் மறுஆய்வு செய்யப்பட்டுப் புதுப்பிக்கப்படுகிறது."
 
 lang: "ta"
+sourceContentHash: "86854384949bcaf4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

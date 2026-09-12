@@ -33,8 +33,9 @@ faq:
     a: "உரிமம் அல்லது அங்கீகாரம் இன்றி ஒரு திரைப்படத்தை வைத்திருத்தல், விநியோகித்தல் அல்லது திரையிடுதல் Akta Penapisan Filem 2002 இன் கீழ் ஒரு குற்றமாகும், RM5,000 முதல் RM30,000 வரையிலான அபராதம் மற்றும்/அல்லது அதிகபட்சம் 3 ஆண்டுகள் வரை சிறைத்தண்டனையுடன்."
 
 lang: "ta"
+sourceContentHash: "f25f07b35f2179e4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

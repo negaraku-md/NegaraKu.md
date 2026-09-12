@@ -41,8 +41,9 @@ verificationNeeded:
   - "முன்பு MFRS-க்கு மாறிய ஒரு நிறுவனத்தால் MPERS-ஐ மீண்டும் ஏற்பது குறித்து MASB ஏதேனும் குறிப்பிட்ட வழிகாட்டுதலை வெளியிட்டுள்ளதா என்பதை உறுதிப்படுத்தவும்"
 
 lang: "ta"
+sourceContentHash: "621bf2dc64ee78c4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

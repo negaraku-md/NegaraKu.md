@@ -38,8 +38,9 @@ faq:
     a: "இல்லை. Cyber Security Act முக்கிய உள்கட்டமைப்பின் பாதுகாப்பையும் மீட்புத்திறனையும் ஆளுகிறது. தனிநபர் தரவு தனியுரிமை Personal Data Protection Act 2010 மூலம் தனியாக ஆளப்படுகிறது. ஒரு நிறுவனம் இரண்டிற்கும் உட்பட்டதாக இருக்கலாம்."
 
 lang: "ta"
+sourceContentHash: "3cca544d70c1185a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

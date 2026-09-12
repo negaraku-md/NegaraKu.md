@@ -40,8 +40,9 @@ verificationNeeded:
   - "ஒரு நிலையான காலத்தின் காலாவதிக்குப் பொருந்தும் வகையில் Employment (Termination and Lay-Off Benefits) Regulations 1980-இன் தற்போதைய உரையையும் தகுதி நிபந்தனைகளையும் உறுதிப்படுத்தவும்"
 
 lang: "ta"
+sourceContentHash: "529468bbc9f83e00"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

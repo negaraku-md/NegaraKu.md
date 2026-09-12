@@ -29,8 +29,9 @@ faq:
     a: "மலேசியாவில் உள்ள எந்த சர்வதேச விமான நிலையத்திலும் வந்திறங்கி, 12 மணி நேரத்தை மிகாத டிரான்சிட் காலத்திற்குள் வெளிநாட்டு இலக்கிற்குத் தொடர்ந்து செல்லும் விமானப் பயணிகள் விலக்கு பெறுகிறார்கள்."
 
 lang: "ta"
+sourceContentHash: "5f586e52647f995b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

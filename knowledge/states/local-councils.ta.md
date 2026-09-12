@@ -34,8 +34,9 @@ faq:
     a: "தேர்ந்தெடுக்கப்பட்ட உள்ளூர் மன்றங்கள் Local Government Elections Act 1960 மற்றும் அதற்கு முந்தைய கட்டளைச் சட்டங்களின் கீழ் இயங்கின. இந்தோனேசியாவுடனான மோதலின் (Konfrontasi) போது 1965 மார்ச் 1 அன்று அவசரகால ஒழுங்குமுறைகளால் தேர்தல்கள் இடைநிறுத்தப்பட்டன. Local Government (Temporary Provisions) Act 1973 [Act 124] அவர்களின் பதவிக்காலத்தை முடிவுக்குக் கொண்டுவந்து, நியமிக்கப்பட்ட மேலாண்மை வாரியங்களால் அவர்களை மாற்றும் வரை பதவியில் இருந்த மன்ற உறுப்பினர்கள் தொடர்ந்தனர்; பின்னர் Local Government Act 1976 [Act 171] நிரந்தர நியமன அமைப்பை நிறுவியது."
 
 lang: "ta"
+sourceContentHash: "d540aa978984383a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

@@ -34,8 +34,9 @@ faq:
     a: "அங்கீகாரம் காலாவதியாகி, ஒரு ஆண்டுக்குள் மறுசெயல்படுத்தப்படாவிட்டால், விண்ணப்பதாரர் ஒரு புதிய விண்ணப்பத்தைச் சமர்ப்பித்து மீண்டும் நேர்காணலில் அமர வேண்டும்."
 
 lang: "ta"
+sourceContentHash: "e81ff5426724af5a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

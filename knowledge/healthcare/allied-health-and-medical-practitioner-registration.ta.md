@@ -29,8 +29,9 @@ faq:
     a: "செவிலியர்கள் Akta Jururawat 1950-இன் கீழ் மலேசிய செவிலியர் வாரியம் (Lembaga Jururawat Malaysia) மூலம் பதிவு செய்யப்படுகின்றனர்; மருந்தாளர்கள் Akta Pendaftaran Ahli Farmasi 1951 (Akta 371)-இன் கீழ் மலேசிய மருந்தக வாரியம் (Lembaga Farmasi Malaysia) மூலம்; மற்றும் பிசியோதெரபி போன்ற இணை சுகாதாரத் தொழில்கள் Akta Profesion Kesihatan Bersekutu 2016 (Akta 774)-இன் கீழ் MAHPC மூலம் ஒழுங்குபடுத்தப்படுகின்றன."
 
 lang: "ta"
+sourceContentHash: "3615da4185af8269"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

@@ -31,8 +31,9 @@ faq:
     a: "பெரும்பாலும் நிலநிரப்பு தளங்களுக்கே. மலேசியா 135 நிலநிரப்பு தளங்களை இயக்குகிறது — 114 திறந்தவெளி கழிவு கொட்டும் தளங்கள் மற்றும் 22 சுகாதார நிலநிரப்பு தளங்கள் — மேலும் நிலநிரப்பு முறையே நாட்டின் முதன்மையான அகற்றல் முறையாக நீடிக்கிறது."
 
 lang: "ta"
+sourceContentHash: "1d664666863d04f5"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

@@ -32,8 +32,9 @@ verificationNeeded:
   - "RTS Link-இன் 2026 இறுதி இலக்கு தேதி, இதை எழுதும் தருணத்தில் இயக்குநர்கள் தாங்களே கூறிய இலக்கு மட்டுமே; எல்லை தாண்டிய உள்கட்டமைப்புத் திறப்புகள் பொதுவாகத் தள்ளிப்போவதால், வெளியீட்டு நேரத்திற்கு நெருக்கமாக இதை மீண்டும் உறுதிப்படுத்த வேண்டும்."
 
 lang: "ta"
+sourceContentHash: "cd13a733d0e3f471"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

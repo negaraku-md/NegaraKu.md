@@ -78,8 +78,9 @@ obligations:
     consequence: "The s.75(2)(d) exception is unavailable, so the allotment requires prior member approval or is void under s.75(4)"
 
 lang: "ta"
+sourceContentHash: "8cbd2aa6c4bb698a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

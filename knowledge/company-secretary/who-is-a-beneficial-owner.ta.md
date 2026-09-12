@@ -38,8 +38,9 @@ verificationNeeded:
   - "Trust Companies Act 1949-இன் கீழ் பதிவுசெய்யப்பட்ட ஒரு அறக்கட்டளை நிறுவனம், முழு பயனாளி உரிமை கட்டமைப்பிற்கு உட்பட்ட ஒரு பொது நிறுவனமாக அவசியம் இருக்குமா என்பது — சில விளக்கவுரைகளில் வலியுறுத்தப்பட்டுள்ளது ஆனால் அந்த Act-இன் எந்த ஏற்பாட்டுடனும் இணைக்கப்படவில்லை"
 
 lang: "ta"
+sourceContentHash: "d098cf8ee96defb7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

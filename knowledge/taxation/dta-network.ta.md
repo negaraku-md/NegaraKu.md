@@ -28,8 +28,9 @@ verificationNeeded:
   - "இவ்விகிதங்கள் LHDN வெளியிட்ட பொது ஒப்பந்த உச்சவரம்புகளே தவிர, பிரிவு வாரியான விகிதங்கள் அல்ல. பல ஒப்பந்தங்கள் அரசாங்கம், மத்திய வங்கி அல்லது அங்கீகரிக்கப்பட்ட நிறுவனத்திற்கான கொடுப்பனவுகளுக்கு வட்டியைப் பூஜ்ஜியமாகக் குறைக்கின்றன; அட்டவணை விகிதத்தைப் பயன்படுத்தும் முன் தொடர்புடைய பிரிவைச் சரிபார்க்கவும்"
 
 lang: "ta"
+sourceContentHash: "2eae865a4f192515"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

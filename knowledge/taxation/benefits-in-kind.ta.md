@@ -41,8 +41,9 @@ verificationNeeded:
   - "Income Tax (Deduction for Benefit and Gift From Employer to Employee) Rules 2009, P.U.(A) 153/2009 இன் முழு உரை முதன்மை மூலத்திலிருந்து பெறப்படவில்லை; அதன் நோக்கம் Public Ruling 11/2019 இன் paragraph 12.1 இல் மேற்கோள் காட்டப்பட்டபடி விவரிக்கப்பட்டுள்ளது."
 
 lang: "ta"
+sourceContentHash: "d4a3fc76b902795b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

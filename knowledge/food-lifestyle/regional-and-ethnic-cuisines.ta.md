@@ -34,8 +34,9 @@ faq:
     a: "ஆம், ஆனால் இது மேலும் மேலும் அச்சுறுத்தலுக்கு உள்ளாகிறது எனக் கருதப்படுகிறது. Kristang உணவு வகை என்பது Melaka-வில் உள்ள போர்த்துகீஸ்-ஆசிய வம்சாவளியைச் சேர்ந்த யூரேசிய சமூகத்தின் மரபு; வினிகர் (cuka), கடுகு விதை மற்றும் buah keras (candlenut) பயன்படுத்தும் kari debal (devil’s curry) போன்ற உணவுகளைக் கொண்டது. இளைய தலைமுறையினர் இதை மேலும் குறைவாகவே பெற்றுக்கொள்வதால், Melaka-வில் உள்ள சில உணவகங்களும் சமையல் வகுப்புகளும் இந்த மரபைத் தக்கவைக்க முயல்கின்றன."
 
 lang: "ta"
+sourceContentHash: "b5facc6867b131b5"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

@@ -57,8 +57,9 @@ obligations:
     consequence: "Loss of maternity allowance for the period before notification"
 
 lang: "ta"
+sourceContentHash: "db2dc9cc0467b713"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

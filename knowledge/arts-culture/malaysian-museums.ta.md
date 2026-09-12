@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "அருங்காட்சியக பயணத் திட்டம் வகுக்கும் பார்வையாளர்கள், மலேசியாவின் முக்கிய சேகரிப்புகளுக்குப் பின்னால் உள்ள நிறுவன வரலாற்றை அறிய விரும்பும் மாணவர்கள் மற்றும் ஆய்வாளர்கள், மேலும் Muzium Negara-தான் நாட்டின் மிகப் பழமையான அருங்காட்சியகம் என்று கருதிய எவரும்."
 
 lang: "ta"
+sourceContentHash: "8802106dd859b55e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "in-review"
 aiAssisted: true
 reviewer: null

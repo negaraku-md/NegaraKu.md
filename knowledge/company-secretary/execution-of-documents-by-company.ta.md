@@ -34,8 +34,9 @@ faq:
     a: "Section 67(1)-இன் கீழ், ஒரு ஆவணம் கம்பெனியால் முறையாக நிறைவேற்றப்பட்டு, மேலும் ஒரு deed-ஆக ஒப்படைக்கப்பட்டால் (delivered), அது ஒரு deed-ஆகச் செல்லுபடியாக நிறைவேற்றப்படுகிறது. மாறான நோக்கம் நிரூபிக்கப்படாத வரை, deed செல்லுபடியாக நிறைவேற்றப்பட்டவுடனேயே ஒப்படைப்பு நிகழ்ந்துவிட்டதாக Section 67(2) கருதுகிறது."
 
 lang: "ta"
+sourceContentHash: "11a3057b821bdc34"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

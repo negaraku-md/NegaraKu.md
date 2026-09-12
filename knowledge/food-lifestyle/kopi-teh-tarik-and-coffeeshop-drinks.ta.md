@@ -29,8 +29,9 @@ faq:
     a: "தேநீரை இரண்டு பாத்திரங்களுக்கு இடையே உயரத்திலிருந்து மீண்டும் மீண்டும் ஊற்றும் செயல்முறை — ‘tarik’ — பானத்தைக் குளிர்விக்கிறது, தேநீரைப் பாலுடன் கலக்கிறது, மேலே ஒரு நுரை அடுக்கை உண்டாக்குகிறது. இது தனக்கே உரிய ஒரு நிகழ்த்துகலையாக மாறிவிட்டது, அந்த அளவுக்கு teh tarik போட்டிகளும் நடைபெறுகின்றன."
 
 lang: "ta"
+sourceContentHash: "9bbd745541ea86db"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

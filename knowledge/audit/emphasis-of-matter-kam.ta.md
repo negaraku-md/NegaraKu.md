@@ -37,8 +37,9 @@ verificationNeeded:
   - "Bursa Malaysia Main Market, ACE Market மற்றும் LEAP Market ஆகியவற்றில் மலேசிய நோக்கங்களுக்காக பட்டியலிடப்பட்ட நிறுவனம் (listed entity) எவ்வாறு வரையறுக்கப்படுகிறது என்பதையும், LEAP Market வெளியீட்டாளர்கள் ISA 701 தேவைக்குள் அடங்குகிறார்களா என்பதையும் உறுதிப்படுத்தவும்"
 
 lang: "ta"
+sourceContentHash: "573f87ce15adf16f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

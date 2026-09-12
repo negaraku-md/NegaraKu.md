@@ -37,8 +37,9 @@ faq:
     a: "பெட்ரோலிய வருவாய் தொடர்பாக கூட்டாட்சி அரசு டெரெங்கானு மற்றும் கிளந்தானுக்கு (Kelantan) செலுத்தும் ஒரு கொடுப்பனவு. Wang Ihsan என்பது சட்டத்தில் பொறிக்கப்பட்ட கூட்டாட்சி அரசின் மானியம் அல்ல — அதாவது சட்டத்தால் வழங்கப்பட்ட ஒரு உரிமை அல்ல என நிதி அமைச்சின் (Kementerian Kewangan) அறிக்கை உறுதிப்படுத்துகிறது."
 
 lang: "ta"
+sourceContentHash: "44eeeac1d9bc0d54"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

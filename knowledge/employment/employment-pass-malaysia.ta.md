@@ -61,8 +61,9 @@ obligations:
     consequence: "The appeal facility closes and the appeal cannot be submitted"
 
 lang: "ta"
+sourceContentHash: "10fdb6251948c8f0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

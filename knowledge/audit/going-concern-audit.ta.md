@@ -36,8 +36,9 @@ verificationNeeded:
   - "ஏதேனும் மலேசிய வங்கி உடன்படிக்கை (covenant) நடைமுறை அல்லது Bursa Malaysia பட்டியலிடல் தேவை, ஒரு Material Uncertainty Related to Going Concern பிரிவுக்கு ஒரு குறிப்பிட்ட விளைவை இணைக்கிறதா என்பதை உறுதிப்படுத்தவும் — இங்கு விவரிக்கப்பட்ட வணிக விளைவுகள் ஒரு நடைமுறையாளரின் அவதானிப்பே தவிர வெளியிடப்பட்ட விதி அல்ல"
 
 lang: "ta"
+sourceContentHash: "272fa8b449a7b590"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

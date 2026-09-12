@@ -18,8 +18,9 @@ verificationNeeded:
   - "செயலற்ற நிறுவனக் கணக்கில் வங்கிக் கட்டணங்கள் மற்றும் வரவு வைக்கப்படும் வட்டியை SSM எப்படிக் கருதுகிறது என்பதை உறுதிப்படுத்தவும் — நிறுவனம் சட்டப்படி செலுத்தக் கடமைப்பட்டுள்ள கடமைகளை மட்டுமே அந்த வழிகாட்டுதல் விலக்குகிறது"
 
 lang: "ta"
+sourceContentHash: "71652677302d5a7e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

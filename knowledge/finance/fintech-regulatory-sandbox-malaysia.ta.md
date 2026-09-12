@@ -30,8 +30,9 @@ faq:
     a: "பங்குகள் ஆணையம் மலேசியா (Securities Commission Malaysia). மூலதனச் சந்தை புதுமைகள் — மாற்று நிதியளிப்பு, டோக்கனைஸ் செய்யப்பட்ட பங்குகள், இரண்டாம் நிலைச் சந்தை தளங்கள் — BNM இன் சாண்ட்பாக்ஸுக்கு அல்ல, SC சாண்ட்பாக்ஸுக்குச் செல்கின்றன."
 
 lang: "ta"
+sourceContentHash: "923d24c78b24d1fc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

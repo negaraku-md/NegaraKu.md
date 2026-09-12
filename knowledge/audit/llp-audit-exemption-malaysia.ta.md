@@ -29,8 +29,9 @@ faq:
     a: "பரிவர்த்தனைகள் தொடர்புடைய நிதியாண்டு முடிவடைந்ததிலிருந்து ஏழு ஆண்டுகளுக்குக் குறையாமல் (Section 69(2))."
 
 lang: "ta"
+sourceContentHash: "6c21f7bda1b829f6"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

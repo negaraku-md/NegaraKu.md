@@ -27,8 +27,9 @@ faq:
   - q: "KPKT முன்பு என்ன அழைக்கப்பட்டது, எப்போது பெயர் மாறியது?"
     a: "இது உள்ளாட்சி வளர்ச்சி அமைச்சாக (Ministry of Local Government Development) இருந்தது; 2023 டிசம்பர் 13 அன்று அமைச்சரவை அதை வீட்டுவசதி மற்றும் உள்ளாட்சி அமைச்சு என மறுபெயரிட முடிவு செய்தது, இது 2023 டிசம்பர் 26 அன்று அறிவிக்கப்பட்டது."
 lang: "ta"
+sourceContentHash: "44a0632c979d6de6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "in-review"
 aiAssisted: true
 reviewer: null

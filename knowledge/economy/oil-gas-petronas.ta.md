@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "மலேசியாவின் எண்ணெய் மற்றும் எரிவாயுத் துறையின் சட்ட அடிப்படை, பெட்ரோலியத்தின் மீதான மத்திய நிதிச் சார்பு, அல்லது மத்திய-மாநில வள விவாதத்தைப் புரிந்துகொள்ள முயலும் யாரும் — மாணவர்கள், ஆய்வாளர்கள், முதலீட்டாளர்கள் மற்றும் பத்திரிகையாளர்கள்."
 
 lang: "ta"
+sourceContentHash: "e00cfef3a5a059c4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

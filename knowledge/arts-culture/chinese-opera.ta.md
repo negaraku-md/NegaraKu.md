@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "மலேசியாவில் உள்ள பாரம்பரிய சீன நாடக வகைகளையும், கோயில் விழாக்களிலும் பண்டிகைகளிலும் “கடவுளுக்கு நன்றி செலுத்தும் நாடகம்” (酬神戏) ஆற்றும் பங்கையும் புரிந்துகொள்ள விரும்பும் எவரும்."
 
 lang: "ta"
+sourceContentHash: "13b9c7f4fc9cc94d"
 masterLanguage: "zh"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "in-review"
 aiAssisted: true
 reviewer: null

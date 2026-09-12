@@ -41,8 +41,9 @@ verificationNeeded:
   - "அங்கீகரிக்கப்பட்ட ஊக்கத் திட்டத்தின் கீழ் முக்கியப் பதவியில் உள்ள ஒரு வதிவிட குடிமகன் அல்லாதவருக்கான விகிதத்தை Schedule 1 Part XVIII 20%-க்கு மேல் இல்லாமல் வரம்பிடுகிறது — பொருந்தும் விகிதம் திட்டத்திற்குத் திட்டம் நிர்ணயிக்கப்படுகிறது, மேலும் அது சரிபார்க்கப்படவில்லை"
 
 lang: "ta"
+sourceContentHash: "361de000de2978ca"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

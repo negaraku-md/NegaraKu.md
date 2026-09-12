@@ -37,8 +37,9 @@ verificationNeeded:
   - "மலாக்கா பகுதிக்கே உரிய மைய மண்டலம் மற்றும் இடையக மண்டலப் பரப்பளவை (முழுத் தொடர் சொத்துக்கு மாறாக) 1223bis பரிந்துரை ஆவணத்துடன் உறுதிப்படுத்தவும்."
 
 lang: "ta"
+sourceContentHash: "68b18aa6f45a809f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

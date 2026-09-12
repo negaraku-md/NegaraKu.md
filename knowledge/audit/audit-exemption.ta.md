@@ -34,8 +34,9 @@ verificationNeeded:
   - "PD 10/2024 க்குப் பிறகு Phase 2 அல்லது Phase 3 வரம்புகளை மாற்றும் ஏதேனும் திருத்தம் அல்லது கூடுதல் practice directive ஐ SSM வெளியிட்டுள்ளதா என்பதை உறுதிப்படுத்தவும்"
 
 lang: "ta"
+sourceContentHash: "0adbb423bee3af8f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

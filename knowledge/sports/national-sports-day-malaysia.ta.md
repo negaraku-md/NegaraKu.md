@@ -29,8 +29,9 @@ faq:
     a: "HSN என்பது கொண்டாட்டத்தின் உச்சக்கட்ட நாள். 2019 முதல், KBS இக்கொண்டாட்டத்தை அக்டோபர் மாதம் முழுவதும் தேசிய விளையாட்டு மாதமாக (Bulan Sukan Negara, BSN) விரிவுபடுத்தியுள்ளது."
 
 lang: "ta"
+sourceContentHash: "51f2375791aa9f72"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

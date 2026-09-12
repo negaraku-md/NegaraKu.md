@@ -34,8 +34,9 @@ obligations:
     consequence: "Fine up to RM50,000 or three years imprisonment under s.26A(2), plus late-payment penalty of 10%, 25% then 40% under s.26A(3)"
 
 lang: "ta"
+sourceContentHash: "08a2fb22e81e604e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

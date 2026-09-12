@@ -29,8 +29,9 @@ faq:
     a: "Simpanan Konvensional-க்கு EPF Act 1991-ன் கீழ் ஆண்டுக்கு குறைந்தபட்சம் 2.50% உத்தரவாதம் அளிக்கப்படுகிறது. மறுபுறம், Simpanan Shariah முழுவதுமாக போர்ட்ஃபோலியோவின் உண்மையான செயல்திறனைச் சார்ந்துள்ளது, குறைந்தபட்ச உத்தரவாதம் எதுவும் இல்லை."
 
 lang: "ta"
+sourceContentHash: "e680578dd6d6768e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

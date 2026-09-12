@@ -32,8 +32,9 @@ faq:
     a: "ஆம். மலேசியாவும் ஐரோப்பிய ஒன்றியமும் 2025 ஜனவரியில் FTA பேச்சுவார்த்தைகளை மீண்டும் தொடங்கின, மேலும் மலேசியா EFTA நாடுகளுடன் (ஐஸ்லாந்து, லீக்டன்ஸ்டைன், நோர்வே, சுவிட்சர்லாந்து) 2025 ஏப்ரல் 11 அன்று ஒரு பொருளாதாரக் கூட்டாண்மை ஒப்பந்தத்தை முடித்தது."
 
 lang: "ta"
+sourceContentHash: "7239744fcdcf2f73"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

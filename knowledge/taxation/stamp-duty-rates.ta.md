@@ -29,8 +29,9 @@ verificationNeeded:
   - "item 12 (assignment) Act 862 ஆல் மாற்றப்பட்டது மற்றும் அதன் திருத்தப்பட்ட ஆயுள் காப்பீட்டு வரம்புகள் இங்கு மீள்-உருவாக்கப்படவில்லை"
 
 lang: "ta"
+sourceContentHash: "bade86680d1436e5"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

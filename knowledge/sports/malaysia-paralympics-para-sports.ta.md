@@ -32,8 +32,9 @@ faq:
     a: "மிக முக்கியமானவர்களில் Cheah Liek Hou (பூப்பந்து SU5, Tokyo 2020 மற்றும் Paris 2024 தங்கம்), Bonnie Bunyau Gustin (பவர்லிஃப்டிங், Tokyo 2020 மற்றும் Paris 2024 தங்கம்) மற்றும் Abdul Latif Romly (நீளம் தாண்டுதல் T20, Rio 2016 மற்றும் Tokyo 2020 தங்கம்) ஆகியோர் அடங்குவர்."
 
 lang: "ta"
+sourceContentHash: "1cf985c7e961d813"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

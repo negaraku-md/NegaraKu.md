@@ -27,8 +27,9 @@ faq:
   - q: "MDEC ஆனது MSC Malaysia உடன் ஒன்றா?"
     a: "இல்லை. MDEC என்பது ஆணையம்; MSC Malaysia என்பது அதன் முந்தைய திட்டம். MSC Malaysia ஆனது Malaysia Digital என மறுபிராண்டு செய்யப்பட்டுள்ளது, மேலும் MD அந்தஸ்து முந்தைய MSC Malaysia அந்தஸ்துக்குப் பின்வந்த வாரிசு ஆகும்."
 lang: "ta"
+sourceContentHash: "4aca195eadff6ca3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "in-review"
 aiAssisted: true
 reviewer: null

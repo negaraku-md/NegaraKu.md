@@ -32,8 +32,9 @@ faq:
     a: "முக்கிய காரணம் சுமத்ரா மற்றும் கலிமந்தானில் ஏற்படும் நிலம் மற்றும் காட்டுத் தீ — விவசாயத்திற்காக கரிமண் தீ மற்றும் வெட்டி-எரிக்கும் நிலம் அகற்றுதல் உட்பட — ஆகும்; இவை எல் நினோ (El Nino) நிகழ்வால் பாதிக்கப்படும் வறண்ட காலங்களில் அடிக்கடியும் மோசமாகவும் ஏற்படுகின்றன."
 
 lang: "ta"
+sourceContentHash: "f6dc09ddaaf77bcf"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

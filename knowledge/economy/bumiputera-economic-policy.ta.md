@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "மாணவர்கள், கொள்கை ஆய்வாளர்கள், பத்திரிகையாளர்கள் மற்றும் DEB முதல் தற்போதைய திட்டம் வரை Bumiputera பொருளாதாரக் கொள்கை இலக்குகளின் தொடர்ச்சியைப் புரிந்துகொள்ள விரும்பும் அனைவரும்."
 
 lang: "ta"
+sourceContentHash: "0cfaf6ebc14f819b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

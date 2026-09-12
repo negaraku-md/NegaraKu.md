@@ -34,8 +34,9 @@ verificationNeeded:
   - "பெறுநரின் கட்டண வழியாக Form CKHT 502 இன் தற்போதைய நிலை LHDN இன் கட்டண நடைமுறை பக்கத்திற்கு எதிராக உறுதிப்படுத்தப்படவில்லை, மேலும் அது e-CKHT உறுதிப்படுத்தல் சீட்டால் மாற்றப்பட்டிருக்கலாம்"
 
 lang: "ta"
+sourceContentHash: "6666571281397324"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

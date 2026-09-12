@@ -24,8 +24,9 @@ verificationNeeded:
   - "ஒரு குறிப்பிட்ட ஓட்டுநர் தேவை (எடுத்துக்காட்டாக, குறைந்தபட்ச வயது) பொருந்துமா என்பதை JPJ அல்லது தனிப்பட்ட இ-ஹெய்லிங் இயக்குநரிடம் உறுதிசெய்ய வேண்டும்; ஏனெனில் ஆய்வு செய்யப்பட்ட அதிகாரப்பூர்வப் பக்கங்களில் அது உறுதிசெய்யக்கூடிய வடிவில் குறிப்பிடப்படவில்லை"
 
 lang: "ta"
+sourceContentHash: "10f57c7f87a7c675"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

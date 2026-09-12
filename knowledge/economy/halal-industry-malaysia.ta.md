@@ -29,8 +29,9 @@ faq:
     a: "மலேசியாவின் ஹலால் தயாரிப்பு ஏற்றுமதி 2024-இல் RM61.79 பில்லியனை எட்டியது, 2023-இல் RM53.72 பில்லியனுடன் ஒப்பிடும்போது 15% அதிகரிப்பு (MITI). 2024 ஜனவரி–செப்டம்பர் காலகட்டத்தில், ஏற்றுமதி RM45.04 பில்லியன் மதிப்புடையதாக இருந்தது, 2023-இல் அதே காலகட்டத்தில் RM39.36 பில்லியனுடன் ஒப்பிடும்போது (MITI/MIDA)."
 
 lang: "ta"
+sourceContentHash: "1b16a223e725d8d1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

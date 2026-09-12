@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "1957-இன் தேதி அல்லது விழாவை மட்டுமல்லாமல், ‘merdeka’ எனும் சொல்லின் உண்மையான அர்த்தத்தையும் தோற்றத்தையும் புரிந்துகொள்ள விரும்பும் எவருக்கும்."
 
 lang: "ta"
+sourceContentHash: "194d82a69dbc1089"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

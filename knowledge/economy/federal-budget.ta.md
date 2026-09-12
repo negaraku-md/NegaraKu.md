@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "மாணவர்கள், கொள்கை ஆய்வாளர்கள், பத்திரிகையாளர்கள், அரசு அதிகாரிகள், மற்றும் கூட்டாட்சி பட்ஜெட் எவ்வாறு தயாரிக்கப்படுகிறது, விவாதிக்கப்படுகிறது, நிறைவேற்றப்படுகிறது என்பதைப் புரிந்துகொள்ள வேண்டிய அனைவரும்."
 
 lang: "ta"
+sourceContentHash: "8b64cd44c511fc05"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

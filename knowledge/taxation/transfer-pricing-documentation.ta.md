@@ -51,8 +51,9 @@ obligations:
     consequence: "Graduated penalty from RM20,000 to RM100,000 depending on lateness, and possible prosecution"
 
 lang: "ta"
+sourceContentHash: "5153fb940652449c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

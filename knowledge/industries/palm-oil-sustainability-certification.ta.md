@@ -31,8 +31,9 @@ faq:
     a: "இரண்டு தாமதங்களுக்குப் பிறகு, இது 30 December 2026 முதல் பெரிய மற்றும் நடுத்தர அளவிலான செயல்பாட்டாளர்களுக்கும், 30 June 2027 முதல் நுண் மற்றும் சிறு நிறுவனங்களுக்கும் பொருந்தும். காடழிப்பின் இறுதித் தேதி 31 December 2020 ஆகும்."
 
 lang: "ta"
+sourceContentHash: "7368557f33452c6b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

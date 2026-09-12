@@ -34,8 +34,9 @@ faq:
     a: "EUDR 29 June 2023 அன்று நடைமுறைக்கு வந்தது. ஒத்திவைப்புகளுக்குப் பிறகு, கடமைகள் பெரிய இயக்குபவர்கள் மற்றும் வர்த்தகர்களுக்கு 30 December 2026 முதலும், நுண் மற்றும் சிறு நிறுவனங்களுக்கு 30 June 2027 முதலும் பொருந்தும்."
 
 lang: "ta"
+sourceContentHash: "f8c253517f15928f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

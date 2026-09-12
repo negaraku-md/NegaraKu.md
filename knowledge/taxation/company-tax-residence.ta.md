@@ -41,8 +41,9 @@ verificationNeeded:
   - "LHDN e-Residence சேவையில் தற்போதைய Certificate of Residence விண்ணப்பத் தேவைகள் மற்றும் செயலாக்க நேரங்களை உறுதிப்படுத்தவும்; வதிவிடச் சோதனையே ஆதாரப்படுத்தப்பட்டுள்ளது, ஆனால் விண்ணப்ப நடைமுறைகள் Public Ruling No. 9/2019-ல் உள்ளடக்கப்படவில்லை"
 
 lang: "ta"
+sourceContentHash: "2a0ef17e2859fe87"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

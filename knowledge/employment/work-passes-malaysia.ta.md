@@ -38,8 +38,9 @@ verificationNeeded:
   - "DE Rantau Sarawak வகை கூட்டாட்சி DE Rantau Nomad Pass-இலிருந்து வேறுபட்ட வருமான குறைந்தபட்சங்கள் அல்லது கால அளவைக் கொண்டுள்ளதா என்பதை உறுதிப்படுத்தவும்"
 
 lang: "ta"
+sourceContentHash: "1cf0d4000ca23029"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

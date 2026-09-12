@@ -27,8 +27,9 @@ verificationNeeded:
   - "குறிப்பிட்ட Companies Act 2016 குற்றங்களுக்கான கூட்டுத்தொகை (compound) விகிதங்கள் s.588-இன் கீழ் SSM-இன் கூட்டுத்தொகை அட்டவணையால் நிர்ணயிக்கப்படுகின்றன, மேலும் அவை Practice Directive 1/2017-இல் வெளியிடப்படவில்லை — எந்த கூட்டுத்தொகைத் தொகையையும் ஒரு அதிகாரப்பூர்வ ஆதாரத்திற்கு எதிராக உறுதிப்படுத்த முடியாததால், இந்தப் பக்கத்தில் எந்த கூட்டுத்தொகைத் தொகையும் கூறப்படவில்லை"
 
 lang: "ta"
+sourceContentHash: "352f3b9226a227c6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

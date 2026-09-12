@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "மலேசியத் தொழில் சந்தைத் தரவை விளக்கும் யார் வேண்டுமானாலும் — வேலை தேடுவோர், முதலாளிகள், கொள்கை வகுப்பாளர்கள் மற்றும் பகுப்பாய்வாளர்கள்."
 
 lang: "ta"
+sourceContentHash: "f1bb9140bdec9bd9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

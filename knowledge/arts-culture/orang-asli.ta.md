@@ -35,8 +35,9 @@ seoTitle: "Orang Asli: மூன்று முதன்மைக் குழ�
 socialTitle: "Orang Asli யார் — மூன்று குழுக்கள், 18 துணையினங்கள், மற்றும் அவர்களைக் கவனிக்கும் நிறுவனம்"
 
 lang: "ta"
+sourceContentHash: "22c8505f8289ae57"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "in-review"
 aiAssisted: true
 reviewer: null

@@ -41,8 +41,9 @@ verificationNeeded:
   - "NSRF-ன் IX பிரிவில் பட்டியலிடப்பட்ட சட்டத் திருத்தங்கள் இயற்றப்பட்டுள்ளனவா என்பதை, NSRF-ஐ ஒரு பட்டியலிடப்படாத கம்பெனிக்கான சட்டப்பூர்வ கடமையாகக் கருதும் முன் உறுதிப்படுத்தவும்"
 
 lang: "ta"
+sourceContentHash: "580bb89b56c953ba"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

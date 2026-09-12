@@ -28,8 +28,9 @@ faq:
     a: "இல்லை. Sepang 2017 வரை Formula 1 கிராண்ட் பிரிக்ஸுக்கு புரவலராக இருந்தது; தற்போது இந்த லிட்டார் MotoGP மற்றும் பிற மோட்டார்ஸ்போர்ட் நிகழ்வுகளில் கவனம் செலுத்துகிறது."
 
 lang: "ta"
+sourceContentHash: "e8c2bc7d28bb0f71"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

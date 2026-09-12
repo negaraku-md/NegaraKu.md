@@ -30,8 +30,9 @@ faq:
     a: "இல்லை. MEEPA 2025 ஜூன் 23 அன்று கையெழுத்திடப்பட்டது ஆனால் இன்னும் அமலுக்கு வரவில்லை என்று MITI கூறுகிறது, எனவே இரு தரப்பினரும் அங்கீகரிப்பை முடிக்கும் வரை ஏற்றுமதியாளர்களும் இறக்குமதியாளர்களும் அதன் சலுகைகளைப் பயன்படுத்த முடியாது."
 
 lang: "ta"
+sourceContentHash: "2907ad666c9762d0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

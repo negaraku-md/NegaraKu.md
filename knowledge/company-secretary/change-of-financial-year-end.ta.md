@@ -30,8 +30,9 @@ faq:
     a: "ஆம். விநியோகத்திற்கான 6 மாத காலம் (தனியார் நிறுவனங்கள், s.258) மற்றும் SSM இடம் சமர்ப்பிப்பதற்கான 30 நாள் காலம் (s.259) புதிய நிதியாண்டு முடிவிலிருந்து மீண்டும் கணக்கிடப்படுகின்றன."
 
 lang: "ta"
+sourceContentHash: "518df847514632f2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

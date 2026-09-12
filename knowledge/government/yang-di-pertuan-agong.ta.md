@@ -37,8 +37,9 @@ verificationNeeded:
   - "தற்போது நடைமுறையில் உள்ள தேர்தல் பட்டியலை அரசர்களின் பேரிலச்சினைக் காப்பாளரின் அதிகாரப்பூர்வ அறிவிப்புக்கு எதிராக உறுதிப்படுத்தவும்."
 
 lang: "ta"
+sourceContentHash: "acdf97d3f8926008"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

@@ -29,8 +29,9 @@ faq:
     a: "SUKMA என்பது இளம் வீரர்கள் தங்கள் திறமையை வெளிப்படுத்தும் மாநில அரங்கம். திறன் கொண்ட வீரர்கள் MSN-இன் திறமை-மேம்பாடு மற்றும் இருப்பு (பெலாபிஸ்) திட்டங்களுக்கும், தொடர்ந்து சர்வதேச விழாக்களுக்கு தலைசிறந்த வீரர்களைத் தயார்செய்யும் ISN-இன் Program Podium-க்கும் உயர்த்தப்படலாம்."
 
 lang: "ta"
+sourceContentHash: "82263beab0c4a71a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

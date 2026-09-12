@@ -34,8 +34,9 @@ faq:
     a: "இரண்டும், ஆனால் அதன் ஈர்ப்பு மையம் சேவைகள். MRO மற்றும் கூறு உற்பத்தி ஆதிக்கம் செலுத்துகின்றன; மலேசியா கட்டமைப்புகள், கலவைப்பொருட்கள் மற்றும் என்ஜின் பாகங்களைக் கட்டி விமானங்களைப் பராமரிக்கிறது, ஆனால் விமான-நிலை வடிவமைப்பு மற்றும் மேம்பாட்டுத் திறன் பலவீனமானது."
 
 lang: "ta"
+sourceContentHash: "5b97e205090548e0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

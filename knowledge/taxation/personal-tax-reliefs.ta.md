@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "தங்களது ஆண்டு Form BE/B தாக்கலைத் தயாரித்து, எந்த விலக்குகளைக் கோரலாம் எனச் சரிபார்க்கும் தனிநபர் வரி செலுத்துவோர்."
 
 lang: "ta"
+sourceContentHash: "3aaef5bbc4ffdb87"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "மலேசியாவின் நிர்வாகப் பிரிவுகளையும், Kuala Lumpur ஏன் ஒரு மாநிலம் அல்ல என்பதையும் புரிந்துகொள்ள முயலும் எவரும்."
 
 lang: "ta"
+sourceContentHash: "451b4e1d1dcd4be4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

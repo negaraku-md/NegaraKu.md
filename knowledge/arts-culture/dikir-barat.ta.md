@@ -18,8 +18,9 @@ keyTakeaways:
   - "இக்கலை வடிவம், தென் தாய்லாந்தைச் சேர்ந்த திக்கிர் மரபுடன் தொடர்புடையது; அது கிளந்தானில் பந்தூன் மற்றும் கிளந்தான் பேச்சுவழக்கு சேர்க்கப்பட்டு தழுவப்பட்டது"
 appliesTo: "திக்கிர் பாராட்டின் நிகழ்த்து வடிவத்தையும், துக்காங் காருட் மற்றும் தோக் ஜுவாராவின் பாத்திரங்களையும், ஒரு குழுவின் அமைப்பையும் புரிந்துகொள்ள விரும்பும் எவரும்."
 lang: "ta"
+sourceContentHash: "8d1b65f59cb7dafe"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "in-review"
 aiAssisted: true
 reviewer: null

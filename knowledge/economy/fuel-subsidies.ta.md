@@ -33,8 +33,9 @@ faq:
     a: "அது சந்தை விலைகளுக்கு ஏற்ப மாறுபடுகிறது. RON95 மற்றும் டீசல் மானியச் சுமை 2026 ஜனவரியில் சுமார் RM0.7 பில்லியனாக இருந்தது, 2026 ஏப்ரலில் RM7.5 பில்லியனாக உச்சத்தை எட்டியது, பின்னர் 2026 ஜூனில் மாதம் ஒன்றுக்கு சுமார் RM3.5 பில்லியன் என மதிப்பிடப்பட்டது."
 
 lang: "ta"
+sourceContentHash: "4d77f16bdf432b0a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

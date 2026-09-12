@@ -32,8 +32,9 @@ faq:
     a: "இல்லை. Section 554(1)(a)-இன் படி, நிறுவனத்தின் ஒவ்வொரு இயக்குநர், அதிகாரி அல்லது உறுப்பினரின் பொறுப்பு தொடர்கிறது, மேலும் நிறுவனம் கலைக்கப்படாதது போலவே அது நடைமுறைப்படுத்தப்படலாம். பெயர் நீக்கத்திற்குப் பிறகு ஏழு ஆண்டுகள் நிறுவனப் பதிவுகளை வைத்திருக்கவும் இயக்குநர் கடமைப்பட்டவர்."
 
 lang: "ta"
+sourceContentHash: "bd012809619da49e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

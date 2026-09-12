@@ -41,8 +41,9 @@ verificationNeeded:
   - "Schedule 7A இன் paragraph 3 இன் இணைவிதியில் உள்ள 100% விலக்கைத் திறக்கும் நிர்ணயிக்கப்பட்ட உற்பத்தித்திறன் நிலை அமைச்சரால் அமைக்கப்படுகிறது மற்றும் RA claim form இல் கணக்கிடப்படுகிறது; தற்போதைய நிர்ணயிக்கப்பட்ட வரம்பு ஒரு முதன்மை மூலத்திலிருந்து உறுதிப்படுத்தப்படவில்லை."
 
 lang: "ta"
+sourceContentHash: "8240b93cc8d8dcd0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

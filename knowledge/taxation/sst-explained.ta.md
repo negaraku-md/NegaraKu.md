@@ -24,8 +24,9 @@ appliesTo: "SST முறையின் எந்தப் பகுதி த�
 verificationNeeded: []
 
 lang: "ta"
+sourceContentHash: "0ee2d291cdce3d2e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

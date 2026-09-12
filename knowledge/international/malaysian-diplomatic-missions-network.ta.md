@@ -32,8 +32,9 @@ faq:
     a: "வதிவிட வெளிநாட்டுத் தூதரகங்களும் உயர் ஸ்தானிகராலயங்களும் பெரும்பாலும் Kuala Lumpur மற்றும் Putrajaya-வில் உள்ளன; சில நாடுகள் Penang, Johor Bahru, Kota Kinabalu மற்றும் Kuching போன்ற நகரங்களிலும் தலைமைத் துணைத் தூதரகங்களை நடத்துகின்றன."
 
 lang: "ta"
+sourceContentHash: "7bb552ee1b28a75c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

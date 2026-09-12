@@ -34,8 +34,9 @@ faq:
     a: "ஏனெனில் இந்தக் குழு சார்புடையது. மற்றவர்களின் வருமானம் உங்களை விட வேகமாக உயர்ந்தால், B40 வரம்பும் உயர்கிறது; எனவே உங்கள் சொந்த வருமானம் அதிகரித்திருந்தாலும் நீங்கள் அதே குழுவிற்குள் இருக்கலாம்."
 
 lang: "ta"
+sourceContentHash: "83d77f4a9e3c0e88"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

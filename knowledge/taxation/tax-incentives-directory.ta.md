@@ -29,8 +29,9 @@ verificationNeeded:
   - "BioNexus முதலீட்டுக் கழிவு மற்றும் Malaysia Digital அந்தஸ்து சலுகைகளின் தற்போதைய நிலையை உறுதிப்படுத்தவும், இவை இரண்டும் MIDA அல்லாத ஒரு நிறுவனத்தால் சரிபார்க்கப்படுகின்றன மற்றும் ஒரே வர்த்தமானி கருவிக்கு முழுமையாகக் கண்டறியக்கூடியவை அல்ல"
 
 lang: "ta"
+sourceContentHash: "d22536bf1bfa9c08"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

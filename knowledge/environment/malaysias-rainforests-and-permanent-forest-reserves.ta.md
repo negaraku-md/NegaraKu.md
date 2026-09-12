@@ -32,8 +32,9 @@ faq:
     a: "ஒரு PFR-ஐ வர்த்தமானியிலிருந்து நீக்குவதற்கு முன் ஒரு பொது விசாரணையைக் கட்டாயமாக்குவதுடன், அபராதத்தை RM20,000 முதல் RM5 million வரை உயர்த்துகிறது, மேலும் சிறைத்தண்டனையை 7 முதல் 20 ஆண்டுகள் வரை உயர்த்துகிறது. இது 1 பெப்ரவரி 2025 அன்று கூட்டாட்சிப் பிரதேசங்களில் (Federal Territories) நடைமுறைக்கு வந்தது."
 
 lang: "ta"
+sourceContentHash: "068dc65beefd2227"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

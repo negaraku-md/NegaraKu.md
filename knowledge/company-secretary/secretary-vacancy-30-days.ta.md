@@ -50,8 +50,9 @@ obligations:
     consequence: "Offence by the company and every person who contravenes the section"
 
 lang: "ta"
+sourceContentHash: "163b4a51c3a94a50"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

@@ -30,8 +30,9 @@ faq:
     a: "மலேசியாவில் (Johor, Malacca, Negeri Sembilan, Pahang, Sabah மற்றும் Sarawak உட்பட) மற்றும் Indonesia-வில் (West மற்றும் Central Kalimantan)."
 
 lang: "ta"
+sourceContentHash: "1a35d39eb3932506"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

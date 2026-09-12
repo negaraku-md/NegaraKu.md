@@ -36,8 +36,9 @@ faq:
     a: "ITU உலகளாவிய இணையப் பாதுகாப்பு குறியீடு 2020-இல் (GCIv4) மலேசியா 98.06 புள்ளிகள் பெற்று உலகில் கூட்டு ஐந்தாவது இடத்தைப் பெற்றது. ஐந்து-அடுக்கு மாதிரியைப் பயன்படுத்தும் 2024 பதிப்பில், மலேசியா உயர் ‘முன்மாதிரி-காட்டும்’ (role-modelling) அடுக்கில் இடம்பெற்றுள்ளது."
 
 lang: "ta"
+sourceContentHash: "7722bdc160f9e488"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

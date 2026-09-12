@@ -30,9 +30,9 @@ faq:
     a: "ஆம். உலக பாரம்பரிய மையம் மலேசியாவின் தற்காலிகப் பட்டியலில் (Tentative List) மூன்று தளங்களைப் பதிவு செய்துள்ளது: தீபகற்ப மலேசியாவின் தேசியப் பூங்கா (Taman Negara), Gombak Selangor Quartz Ridge, மற்றும் Sungai Buloh Leprosarium. ஒரு தற்காலிகப் பட்டியலிடல் என்பது பரிந்துரைக்கும் நோக்கத்தின் அறிவிப்பே தவிர, பட்டியலில் சேர்த்தல் அல்ல."
 
 lang: ta
-sourceContentHash: null
+sourceContentHash: "2314ed1b6daf68a8"
 masterLanguage: en
-translationStatus: pending
+translationStatus: "in-sync"
 status: in-review
 aiAssisted: true
 reviewer: null

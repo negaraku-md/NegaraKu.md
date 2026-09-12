@@ -33,8 +33,9 @@ faq:
     a: "Magavau என்பது அறுவடைக்குப் பிறகு நெல் ஆவியான Bambaazon-ஐப் போற்றி “வீட்டிற்கு அழைக்கும்” நன்றி செலுத்தும் சடங்கு ஆகும். இது பாரம்பரியமாக சடங்குப் பாடல்களை ஓதும் பூசாரிப் பெண்ணான bobohizan (bobolian எனவும் எழுதப்படும்) ஒருவரால் நடத்தப்படுகிறது. இது Kaamatan-இன் பழமையான சடங்கு கூறுகளில் ஒன்றாகும்."
 
 lang: "ta"
+sourceContentHash: "77931677eb9c36e1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "in-review"
 aiAssisted: true
 reviewer: null

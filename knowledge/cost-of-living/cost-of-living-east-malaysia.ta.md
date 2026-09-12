@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "சபா அல்லது சரவாக்குக்கு இடம்பெயர்பவர்கள் அல்லது அதற்காக பட்ஜெட் தயாரிப்பவர்கள், கிழக்கு மலேசிய விலைகளை தீபகற்ப மலேசியாவுடன் ஒப்பிடுபவர்கள், அல்லது தென் சீனக் கடலின் இரு பக்கங்களிலும் ஒரே பொருள் ஏன் வெவ்வேறு விலைக் குறியை சுமக்கிறது என்பதை ஆராய்பவர்கள் — இவர்கள் அனைவருக்கும் இது பொருந்தும்."
 
 lang: "ta"
+sourceContentHash: "327dd8ebe6d5d915"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

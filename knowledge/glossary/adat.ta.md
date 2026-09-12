@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "பாரம்பரிய மலாய் சட்ட முறைமைகளைப் புரிந்துகொள்ள விரும்பும் எவரும் — வரலாறு, சட்டம் மற்றும் மலேசிய ஆய்வுகள் மாணவர்கள், பத்திரிகையாளர்கள், அரசு ஊழியர்கள், மேலும் Adat Perpatih மற்றும் Adat Temenggung இடையிலான வேறுபாட்டில் குழப்பமடைந்த பொது வாசகர்கள்."
 
 lang: "ta"
+sourceContentHash: "d4460bfefd0c039f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

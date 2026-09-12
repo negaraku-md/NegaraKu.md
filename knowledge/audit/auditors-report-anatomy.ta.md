@@ -40,8 +40,9 @@ verificationNeeded:
   - "பங்குதாரர் கையொப்பத்திற்கு அருகில் அச்சிடப்பட்ட நிதி அமைச்சர் தணிக்கையாளர் ஒப்புதல் எண்ணின் வடிவமைப்பையும் காலாவதி மரபையும் உறுதிப்படுத்தவும் — விளக்க இடம்பிடிப்பான் (placeholder) ஒரு அமைப்பைக் காட்டுகிறது ஆனால் MIA அதை விளக்கவில்லை"
 
 lang: "ta"
+sourceContentHash: "46458a8295799022"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

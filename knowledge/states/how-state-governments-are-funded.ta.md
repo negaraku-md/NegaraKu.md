@@ -30,8 +30,9 @@ faq:
     a: "இரு மாநிலங்களும் Perkara 112C இன் கீழ் சிறப்பு மானியங்களையும், Jadual Kesepuluh இன் Bahagian V இன் கீழ் கூடுதல் வருவாய் ஆதாரங்களையும் பெறுகின்றன — பெட்ரோலியப் பொருட்களின் மீதான வரி, மரக்கட்டை மற்றும் காட்டு விளைபொருட்கள் ஏற்றுமதி வரி, கனிம ராயல்டி, மற்றும் மாநில விற்பனை வரிகள் உட்பட."
 
 lang: "ta"
+sourceContentHash: "f7789909fc78f01b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

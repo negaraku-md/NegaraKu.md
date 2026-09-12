@@ -22,8 +22,9 @@ verificationNeeded:
   - "தனா மலாயுவில் (Tanah Melayu) முதல் மாமாக் கடை நிறுவப்பட்ட குறிப்பிட்ட தேதி மற்றும் இடம் — கண்டறியப்பட்ட ஆதாரங்கள் பிரிட்டிஷ் காலனித்துவ காலத்தைப் பொதுவாகக் குறிப்பிடுகின்றன, உறுதிப்படுத்தப்பட்ட தேதி அல்லது அதிகாரப்பூர்வ பதிவு எதுவும் இல்லாமல்."
 
 lang: "ta"
+sourceContentHash: "3046b79972e90a21"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

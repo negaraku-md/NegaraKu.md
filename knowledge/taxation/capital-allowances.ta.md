@@ -48,8 +48,9 @@ obligations:
     consequence: "Residual expenditure is still reduced by an annual allowance that could have been claimed under paragraph 68(c), so an unclaimed year is relief lost, not deferred"
 
 lang: "ta"
+sourceContentHash: "f3aa2542969476e2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

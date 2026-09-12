@@ -26,8 +26,9 @@ verificationNeeded:
   - "செல்லுபடியாகும் s.44(6) நன்கொடை ரசீதுக்குத் தேவையான விவரங்கள் — LHDN இன் ரசீது-பயன்பாடு விளக்கப் பக்கத்தைப் பெற முடியவில்லை."
 
 lang: "ta"
+sourceContentHash: "5f0966be244cdbe2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

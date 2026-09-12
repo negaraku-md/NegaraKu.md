@@ -27,8 +27,9 @@ faq:
   - q: "MASB-க்கும் நிதி அறிக்கையிடல் அறக்கட்டளைக்கும் (Financial Reporting Foundation) இடையிலான வேறுபாடு என்ன?"
     a: "MASB தரங்களை எழுதி வெளியிடுகிறது. நிதி அறிக்கையிடல் அறக்கட்டளை (Financial Reporting Foundation, FRF) MASB-ஐ மேற்பார்வையிடுகிறது, அதன் செயல்திறனை மதிப்பாய்வு செய்கிறது, மேலும் வரவுசெலவுத் திட்டத்தை அங்கீகரிப்பது உட்பட அதன் நிதியளிப்புக்குப் பொறுப்பாகும் — ஆனால் தர நிர்ணயத்தில் அதற்கு நேரடிப் பொறுப்பு எதுவும் இல்லை; அது MASB-இடம் மட்டுமே உள்ளது."
 lang: "ta"
+sourceContentHash: "69128de74b5a73f9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "in-review"
 aiAssisted: true
 reviewer: null

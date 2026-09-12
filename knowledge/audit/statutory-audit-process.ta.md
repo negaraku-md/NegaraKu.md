@@ -42,8 +42,9 @@ verificationNeeded:
   - "IAASB 2025 டிசம்பர் 15 அல்லது அதற்குப் பிறகு தொடங்கும் காலங்களுக்கு நடைமுறைப்படுத்திய ISA for Less Complex Entities-ஐ MIA ஏற்றுக்கொண்டுள்ளதா என்பதை உறுதிப்படுத்தவும் — மலேசியாவின் ஏற்பு முடிவை உறுதிப்படுத்த முடியவில்லை"
 
 lang: "ta"
+sourceContentHash: "35fbbbda43a0bf04"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

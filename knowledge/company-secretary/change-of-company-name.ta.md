@@ -30,8 +30,9 @@ faq:
     a: "Section 28-ஐ மீறுவது ஒரு குற்றமாகும், RM50,000-க்கு மிகாத அபராதம் விதிக்கப்படலாம் (Section 28(8)). 30 நாட்களுக்குப் பிறகு தாமதமாகத் தாக்கல் செய்வதற்கும் தாமத தாக்கல் கட்டணம் விதிக்கப்படும்."
 
 lang: "ta"
+sourceContentHash: "fe0af342a9f2c24f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

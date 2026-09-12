@@ -30,8 +30,9 @@ faq:
     a: "செலுத்தப்பட்ட கடனைப் புதுப்பிக்க கடன் வழங்குநரிடமிருந்து தீர்வுக் கடிதத்தைப் (settlement letter) பெற்று நிறுவனத்திற்குக் கொண்டு செல்லுங்கள். சட்டப்படி, நீங்கள் விடுவிக்கப்பட்ட (discharged) தேதியிலிருந்து இரண்டு ஆண்டுகளுக்குப் பிறகு உங்கள் திவால் நிலையை ஒரு நிறுவனம் வெளிப்படுத்தக் கூடாது."
 
 lang: "ta"
+sourceContentHash: "0d23a5db0b086fe6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

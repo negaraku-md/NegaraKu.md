@@ -36,8 +36,9 @@ faq:
     a: "மூன்று-அடுக்கு அமைப்பு: பிரதமர் தலைமையிலான தேசிய மன்றம், MITI அமைச்சர் தலைமையிலான வழிநடத்தல் குழு, மேலும் MITI-இன் செயலாளர்-நாயகம் (KSU) தலைமையிலான நடைமுறை மேலாண்மைப் பிரிவு."
 
 lang: "ta"
+sourceContentHash: "edde30241ce67971"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

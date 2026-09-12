@@ -32,8 +32,9 @@ faq:
     a: "40 வயது மற்றும் அதற்கு மேற்பட்ட Sumbangan Tunai Rahmah (STR) பயனாளிகள் பதிவுசெய்யப்பட்ட அரசாங்க அல்லது தனியார் கிளினிக்குகளில் PeKa B40 திட்டத்தின் கீழ் இலவசப் பரிசோதனைக்குத் தகுதியுடையவர்கள். பொது சுகாதார கிளினிக்குகளும் (Klinik Kesihatan) அடிப்படைப் பரிசோதனைகளை வழங்குகின்றன."
 
 lang: "ta"
+sourceContentHash: "bbc5ab5d7d67181c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

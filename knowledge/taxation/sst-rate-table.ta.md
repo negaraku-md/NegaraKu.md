@@ -26,8 +26,9 @@ verificationNeeded:
   - "P.U.(A) 125/2026-இன் முழு உரை பெறப்படவில்லை; அதன் தலைப்பும் 1 January 2026 நடைமுறையும் AGC சட்ட வலைத்தளத்திலிருந்தும், Service Tax Policy No. 2/2025 (Amendment No. 3)-இல் உள்ள தொடர்புடைய 2% விலக்கிலிருந்தும் உறுதிப்படுத்தப்பட்டன"
 
 lang: "ta"
+sourceContentHash: "a8607ba4409fa9bf"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

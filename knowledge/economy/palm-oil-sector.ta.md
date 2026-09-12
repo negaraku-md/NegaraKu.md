@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "மலேசியாவின் பாமாயில் தொழிற்துறை மற்றும் அதன் பொருளாதாரப் பங்கு குறித்து அறிமுக நிலை புரிதலைத் தேடும் எவரும்."
 
 lang: "ta"
+sourceContentHash: "15826b7bb2b208ce"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

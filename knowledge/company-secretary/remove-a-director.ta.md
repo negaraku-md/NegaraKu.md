@@ -47,8 +47,9 @@ obligations:
     consequence: "Fine up to RM50,000 and a further fine up to RM500 per day for a continuing offence under s.58(4)"
 
 lang: "ta"
+sourceContentHash: "8a80c4606fe7ff91"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

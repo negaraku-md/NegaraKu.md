@@ -31,8 +31,9 @@ faq:
     a: "10 Jun 2024 அன்று டீசல் பகுத்தறிவாக்கம் தொடங்கியதிலிருந்து ஆண்டுக்கு சுமார் RM5 பில்லியன் சேமிப்பை நிதி அமைச்சு (Kementerian Kewangan) மதிப்பிடுகிறது."
 
 lang: "ta"
+sourceContentHash: "fb230f3e8cc5eada"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

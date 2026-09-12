@@ -42,8 +42,9 @@ verificationNeeded:
   - "29ஆவது Sultan Kedah-இன் முடிசூட்டு விழாத் தேதியை Istana Anak Bukit-இன் அதிகாரப்பூர்வ பதிவுக்கு எதிராக உறுதிப்படுத்தவும்; மாநில அரசின் அதிகாரப்பூர்வப் பக்கம் அறிவிப்புத் தேதியை மட்டுமே குறிப்பிடுகிறது."
 
 lang: "ta"
+sourceContentHash: "0d6884ea1dade121"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

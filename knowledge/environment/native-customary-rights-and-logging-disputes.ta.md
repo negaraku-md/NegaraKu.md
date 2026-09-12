@@ -29,8 +29,9 @@ faq:
     a: "மாநிலத்தால் வழங்கப்படும் மரம் வெட்டு உரிமங்களும் தோட்டக் குத்தகைகளும், சமூகங்கள் வழக்காற்று நிலம் எனக் கோரும் பகுதிகளை உள்ளடக்கக்கூடும். ஒரு பகுதி NCR நிலமா என்பதில் தரப்புகள் உடன்படாத இடத்தில், அந்தப் பிணக்கு பெரும்பாலும் நீதிமன்றத்தில் தீர்மானிக்கப்படுகிறது."
 
 lang: "ta"
+sourceContentHash: "73a645ecf7076b5d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

@@ -34,8 +34,9 @@ seoTitle: "Bumiputera: இச்சொல்லின் பொருளும�
 socialTitle: "Bumiputera — அரசியலமைப்பில் இல்லாத, ஆனால் Perkara 153, 160 மற்றும் 161A இல் வேரூன்றிய சொல்"
 
 lang: "ta"
+sourceContentHash: "924aa904a876b274"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "in-review"
 aiAssisted: true
 reviewer: null

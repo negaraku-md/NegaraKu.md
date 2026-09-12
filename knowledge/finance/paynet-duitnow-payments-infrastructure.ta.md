@@ -29,8 +29,9 @@ faq:
     a: "ஆம். DuitNow QR ஒன்றோடொன்று இயங்கக்கூடியது; எனவே ஒரு வணிகரின் ஒற்றை QR குறியீட்டை Touch 'n Go eWallet, GrabPay மற்றும் Boost போன்ற வெவ்வேறு வங்கிகளும் இ-வாலட்டுகளும் — அவை பங்கேற்கும் வரை — ஸ்கேன் செய்யலாம்."
 
 lang: "ta"
+sourceContentHash: "d327e61449ac93b7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

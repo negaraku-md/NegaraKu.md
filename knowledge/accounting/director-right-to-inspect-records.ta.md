@@ -26,8 +26,9 @@ verificationNeeded:
   - "துணை நிறுவனங்கள் தொடர்பான புள்ளியை உறுதிசெய்யும் மேல்முறையீட்டு நீதிமன்றத் தீர்ப்பு 27 செப்டம்பர் 2023 என்று அறிவிக்கப்படுகிறது; எழுத்துப்பூர்வ காரணங்கள் அதிகாரப்பூர்வ நீதித்துறை மூலத்தில் கண்டறியப்படவில்லை"
 
 lang: "ta"
+sourceContentHash: "0aa2b1460e10e990"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

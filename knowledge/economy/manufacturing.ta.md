@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "மலேசியாவின் தொழில்துறை புள்ளிவிவரங்களைத் துல்லியமாக வாசிக்க முயலும் முதலீட்டாளர்கள், வேலைதேடுவோர், கொள்கை பகுப்பாய்வாளர்கள் மற்றும் மாணவர்கள்."
 
 lang: "ta"
+sourceContentHash: "21e59589f33cf91e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

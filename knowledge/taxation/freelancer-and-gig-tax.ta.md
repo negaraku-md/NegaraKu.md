@@ -40,8 +40,9 @@ verificationNeeded:
   - "தள இயக்குநர்கள் தனிப்பட்ட கிக் தொழிலாளர்களுக்கான கொடுப்பனவுகளுக்கு self-billed e-Invoice வழங்க வேண்டுமா, மற்றும் எந்தக் கட்டத்தில் என்பதை, தற்போதைய e-Invoice Specific Guideline உடன் உறுதிப்படுத்த வேண்டும்"
 
 lang: "ta"
+sourceContentHash: "4902766a1bf0ff6f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

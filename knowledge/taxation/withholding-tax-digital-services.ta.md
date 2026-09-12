@@ -56,8 +56,9 @@ obligations:
     consequence: "Penalty under s.26A(3) and a fine to RM50,000 or three years under s.26A(2)"
 
 lang: "ta"
+sourceContentHash: "d0f4a6d7cbea76f7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

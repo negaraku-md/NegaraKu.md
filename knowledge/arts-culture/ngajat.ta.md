@@ -30,8 +30,9 @@ faq:
     a: "JKKN பதிவு செய்த வகைகளில் Ngajat Lesong (ஆண்கள் மரத்தாலான உரலை (lesung kayu) பல்லால் கவ்விக்கொண்டு ஆடுவது), Ngajat Indu (பெண்கள் pua kumbu நெசவு அசைவுகளுடன் ஆடுவது), Ngajat Pua Kumbu (pua kumbu துணியைப் பயன்படுத்துவது) மற்றும் Gawai Dayak கொண்டாட்டத்தின் முடிவைக் குறிக்கும் Ngajat Ngiling Tikai ஆகியவை அடங்கும்."
 
 lang: "ta"
+sourceContentHash: "bc3c9b377ae4eddf"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

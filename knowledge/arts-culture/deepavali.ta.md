@@ -30,8 +30,9 @@ faq:
     a: "இந்த விளக்குகள் — பெரும்பாலும் தீபங்கள் (diyas) என்று அழைக்கப்படும் சிறிய களிமண் அல்லது உலோக விளக்குகள் — ‘விளக்குகளின் திருவிழாவின்’ காட்சி மையம். வரிசை வரிசையாக அவை வாசல்களிலும் ஜன்னல்களிலும் ஏற்றப்படுகின்றன; இது திருவிழாவின் பெயரான ‘ஒரு வரிசை விளக்குகள்’ என்பதன் பொருளை எதிரொலிக்கிறது."
 
 lang: "ta"
+sourceContentHash: "6b34554bb6701b65"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "in-review"
 aiAssisted: true
 reviewer: null

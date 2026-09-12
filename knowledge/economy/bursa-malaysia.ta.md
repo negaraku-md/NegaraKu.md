@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "IPO-வை நிறுத்தி நிதானிக்கும் நிறுவனர்களும் CFO-க்களும், ஆலோசகர்களும் sponsor-களும், மேலும் ஒரு பலகைப் பட்டியலீடு உண்மையில் எதைச் சுட்டுகிறது என்பதைப் புரிந்துகொள்ள முயலும் முதலீட்டாளர்கள்."
 
 lang: "ta"
+sourceContentHash: "8a42caae2331fbbd"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

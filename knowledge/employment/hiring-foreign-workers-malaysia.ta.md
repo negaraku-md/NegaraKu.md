@@ -77,8 +77,9 @@ obligations:
     consequence: "Offence under the Employment Act 1955"
 
 lang: "ta"
+sourceContentHash: "558d661d33577f5e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

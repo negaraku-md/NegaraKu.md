@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "சந்தைப்படுத்தலைவிட செயல்பாட்டு முறைகளைப் புரிந்துகொள்ள வேண்டிய எவரும் — மாணவர்கள், பத்திரிகையாளர்கள், நிதி மேலாளர்கள், நிதியுதவி விருப்பங்களை ஒப்பிடும் நிறுவனர்கள், மற்றும் மலேசியாவின் நிதி அமைப்பை வரைபடமாக்கும் ஆராய்ச்சியாளர்கள்."
 
 lang: "ta"
+sourceContentHash: "baeef20a51fe9ad2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

@@ -32,8 +32,9 @@ faq:
     a: "ஆம். ஒரு தனியார் நிறுவனம் Companies Act 2016-இன் கீழ் ஒரு பொது நிறுவனமாக மாறலாம் — பொதுவாக ஓர் உறுப்பினர் சிறப்புத் தீர்மானத்தை (special resolution) நிறைவேற்றி, தனது பெயரை “Berhad” என்பதில் முடியுமாறு மாற்றி, தேவையான ஆவணங்களை நிறுவனங்கள் ஆணையம் (Companies Commission of Malaysia, SSM)-இடம் பதிவு செய்வதன் மூலம்."
 
 lang: "ta"
+sourceContentHash: "8327877494bab4c8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

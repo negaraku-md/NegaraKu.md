@@ -37,8 +37,9 @@ faq:
     a: "சில நேரங்களில். Section 45, அமைச்சர் ஈடுசெய்யத்தக்கதாக நிர்ணயித்த ஒரு குற்றத்தை, பொது வழக்குரைஞரின் (Public Prosecutor) எழுத்துப்பூர்வ ஒப்புதலுடன், அதிகபட்ச அபராதத்தில் 50% மிகாத தொகைக்கு ஈடுசெய்ய பணிப்பாளர் நாயகத்தை (Director General) அனுமதிக்கிறது. ஒவ்வொரு குற்றமும் ஈடுசெய்யத்தக்கதல்ல, மேலும் மிகக் கடுமையான கட்டாய-சிறை குற்றங்கள் பொதுவாக வழக்குத் தொடரப்படுகின்றன."
 
 lang: "ta"
+sourceContentHash: "c5c03f44b4db2f68"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

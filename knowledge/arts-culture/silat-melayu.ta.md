@@ -37,8 +37,9 @@ faq:
     a: "தாக்குதல் மற்றும் சுய தற்காப்புக் கலையில் புலியின் அழகியல் அசைவுகளைப் பின்பற்றும் ஒரு பாணிக்கு உதாரணமாக UNESCO Silat Harimau-வைக் குறிப்பிடுகிறது. விலங்கு அல்லது இயற்கையின் கூறு ஒன்றின் பெயரால் அழைக்கப்படும் பல பாணிகளில் இதுவும் ஒன்று."
 
 lang: "ta"
+sourceContentHash: "38ee41b476215220"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

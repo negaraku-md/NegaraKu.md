@@ -28,8 +28,9 @@ faq:
     a: "இல்லை. மீட்டெடுப்பிற்கு ஒரு உயர் நீதிமன்ற (High Court) உத்தரவு தேவை. பதிவாளர் (Registrar, SSM) பிரதிவாதியாகக் குறிப்பிடப்படுகிறார், மேலும் விசாரணைக்கு முன் விண்ணப்பத்தை ஆய்வு செய்கிறார்."
 
 lang: "ta"
+sourceContentHash: "abcd7eea51de63b1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

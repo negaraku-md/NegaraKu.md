@@ -30,8 +30,9 @@ faq:
     a: "2023-இல் செயல்பாட்டைத் தொடங்கிய முதல் வங்கி GXBank ஆகும். பொதுமக்களுக்குத் திறக்கப்பட்ட முதல் இஸ்லாமிய டிஜிட்டல் வங்கி AEON Bank, 26 May 2024 அன்று."
 
 lang: "ta"
+sourceContentHash: "e7e1910cb72bc76a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

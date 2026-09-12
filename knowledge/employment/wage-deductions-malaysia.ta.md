@@ -29,8 +29,9 @@ faq:
     a: "Seksyen 24(8)-இன் கீழ், அனைத்துக் கழிவுகளின் மொத்தமும் அந்த மாதத்தில் ஈட்டிய ஊதியத்தில் 50%-ஐ மிகக் கூடாது. Seksyen 24(9) Seksyen 13(1) இழப்பீடு, வேலை முடிவடையும்போது இறுதிக் கட்டணம், மற்றும் வீட்டுக் கடன் ஆகியவற்றை விலக்கு அளிக்கிறது (Ketua Pengarah-இன் அனுமதியுடன் கூடுதலாக 25% வரை)."
 
 lang: "ta"
+sourceContentHash: "3388bf641e0109a3"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

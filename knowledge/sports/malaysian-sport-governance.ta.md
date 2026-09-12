@@ -38,8 +38,9 @@ faq:
     a: "தேசிய விளையாட்டு நிறுவனம் (ISN). இது National Sports Institute Act 2011 [Act 729]-ஆல் சட்டப்பூர்வ அடிப்படையில் நிறுவப்பட்டு, விளையாட்டு அறிவியல் மற்றும் விளையாட்டு மருத்துவம் தொடர்பான சேவை, ஆலோசனை மற்றும் கலந்தாய்வை வழங்குதல், ஆராய்ச்சி நடத்துதல், மற்றும் விளையாட்டு வீரர் செயல்திறனின் அறிவியல் அம்சங்கள் குறித்து அமைச்சருக்கு ஆலோசனை வழங்குதல் ஆகிய பணிகளைச் செய்கிறது."
 
 lang: "ta"
+sourceContentHash: "6410f4b09d840cf0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

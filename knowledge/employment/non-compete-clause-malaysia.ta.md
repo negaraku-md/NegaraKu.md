@@ -27,8 +27,9 @@ verificationNeeded:
   - "பணிநீக்கத்திற்குப் பிந்தைய வாடிக்கையாளர்-பணிக்கமர்த்தல் தடுப்பு விதியை s.28 இன் எல்லைக்கு வெளியே உள்ளதாக மலேசிய நீதிமன்றம் ஏதேனும் நிலைநிறுத்தியுள்ளதா என்பதை உறுதிப்படுத்தவும்"
 
 lang: "ta"
+sourceContentHash: "d5d94ae67835a159"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

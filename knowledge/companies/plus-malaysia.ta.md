@@ -28,8 +28,9 @@ faq:
     a: "2020 முடிவின் கீழ், டோல் விகிதங்கள் 2020 பிப்ரவரி 1 முதல் 18% குறைக்கப்பட்டன, மேலும் 2058 வரையிலான நீட்டிக்கப்பட்ட சலுகைக் காலம் முழுவதும் எந்த டோல் உயர்வும் திட்டமிடப்படவில்லை."
 
 lang: "ta"
+sourceContentHash: "6a089759a8d1ba8f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

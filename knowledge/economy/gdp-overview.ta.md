@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "மலேசியப் பொருளாதாரத்தின் அளவையும் வடிவத்தையும் பொதுவான, திசைகாட்டும் நிலையில் புரிந்துகொள்ள விரும்பும் எவரும்."
 
 lang: "ta"
+sourceContentHash: "a15aa3483282907f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

@@ -37,8 +37,9 @@ verificationNeeded:
   - "Schedule 1 Part XXII-இன் கீழான 2% பங்குலாப அடுக்கு, குடியிருப்பாளர்களுக்கு மட்டுமல்லாமல் குடியிருப்பற்ற தனிநபர்களுக்கும் பொருந்துமா என்பதை உறுதிப்படுத்தவும்; விகிதப் பட்டியல் இதைக் கூறவில்லை"
 
 lang: "ta"
+sourceContentHash: "8166bbfff56fa0fe"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

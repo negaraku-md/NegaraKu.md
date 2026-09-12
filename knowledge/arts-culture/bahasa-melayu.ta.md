@@ -34,8 +34,9 @@ seoTitle: "மலாய் மொழி: சரத்து 152-இன் கீ
 socialTitle: "மலாய் மொழி எப்படித் தேசிய மொழியானது — ஜாவியிலிருந்து ரூமிக்கு மாறியதும்"
 
 lang: "ta"
+sourceContentHash: "1578825625379e44"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "in-review"
 aiAssisted: true
 reviewer: null

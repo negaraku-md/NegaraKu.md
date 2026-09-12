@@ -29,8 +29,9 @@ faq:
     a: "PETRONAS உரிமத்திற்கு விண்ணப்பிக்கும் நிறுவனங்கள் தொடர்புடைய SWEC குறியீட்டின்படி பூமிபுத்ரா பங்கேற்பு தேவைகளைப் பூர்த்தி செய்ய வேண்டும். PETRONAS விற்பனையாளர் மேம்பாட்டுத் திட்டத்திற்கு, குறைந்தபட்சம் 51% பூமிபுத்ரா உரிமை தேவை (ஆதாரம்: Low & Partners; PETRONAS)."
 
 lang: "ta"
+sourceContentHash: "8653f4f58e0534c5"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

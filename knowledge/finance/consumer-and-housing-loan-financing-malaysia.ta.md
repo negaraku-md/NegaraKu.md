@@ -31,8 +31,9 @@ faq:
     a: "Hire Purchase Act 1967-இன் கீழ், வாடகைதாரர் தொடர்ச்சியாக இரண்டு தவணைகளைத் தவறவிட்ட பிறகும், 21-நாள் அறிவிப்பு நடைமுறையைப் பின்பற்றிய பிறகும் மட்டுமே பொதுவாக நிதியளிப்பாளர் மீட்டெடுக்க முடியும். ரொக்க விலையில் குறைந்தபட்சம் 75% செலுத்திய பிறகு, மீட்டெடுக்க நிதியளிப்பாளருக்கு நீதிமன்ற உத்தரவு தேவை."
 
 lang: "ta"
+sourceContentHash: "736d6f3bf7c003b5"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

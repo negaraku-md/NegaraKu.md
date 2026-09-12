@@ -33,8 +33,9 @@ faq:
     a: "பொதுவாக, மொத்த பட்டியலிடல் செலவுகள் அளவு மற்றும் சிக்கலைப் பொறுத்து ACE Market-க்கு தோராயமாக RM3 million முதல் RM7 million வரையிலும், Main Market-க்கு RM5 million-க்கு மேலும் இருக்கும். இதில் அண்டர்ரைட்டிங், பிளேஸ்மென்ட் மற்றும் தரகுக் கட்டணங்கள் (பொதுவாக பங்குகளின் மதிப்பில் 1% முதல் 3% வரை), தொழில்முறைக் கட்டணங்கள், மேலும் பங்குப் பத்திர ஆணையத்திற்கு (Main Market) அல்லது Bursa Malaysia-விற்கு (ACE Market) செலுத்தப்படும் ஒழுங்குமுறைக் கட்டணங்கள் அடங்கும்."
 
 lang: "ta"
+sourceContentHash: "4baad2385800a2d6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

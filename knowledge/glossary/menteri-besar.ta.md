@@ -28,8 +28,9 @@ verificationNeeded:
   - "ஒவ்வொரு அரச மாநிலத்தின் மாநிலத் தலைவரின் (Head of State) பட்டப்பெயர் (Sultan, Yang di-Pertuan Besar, Raja) MyGovernment போர்ட்டல் மற்றும் Perkara 160(2) இல் உள்ள ‘Raja’ இன் வரையறையிலிருந்து எடுக்கப்பட்டது. அதிகாரப்பூர்வப் பயன்பாட்டிற்கு அந்தந்த மாநில அரசியலமைப்புக்கு எதிராக உறுதிப்படுத்தவும்."
 
 lang: "ta"
+sourceContentHash: "56751778ff042f02"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

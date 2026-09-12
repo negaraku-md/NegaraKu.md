@@ -33,8 +33,9 @@ faq:
     a: "இல்லை. tuak, montoku மற்றும் tumpung போன்ற அரிசி மதுக்கள் சராவாக்கின் Dayak சமூகத்தினரின், சபாவின் Kadazandusun சமூகத்தினரின் பாரம்பரிய பானங்கள்; The Star-இன் படி, காவாய் மற்றும் காமாட்டான் விருந்துகளுக்கு இவை மையமானவை. ஹரி ராயாவைப் போல, halal உணவையும் பானத்தையும் கடைப்பிடிக்கும் சமூகங்களின் பண்டிகை மேசைகளின் பகுதி அல்ல இவை. ஒரு திறந்த வீடு என்ன பரிமாறுகிறது என்பது விருந்தோம்பியின் உணவுக் கட்டுப்பாடுகள் மற்றும் மரபுகளைப் பொறுத்தது."
 
 lang: "ta"
+sourceContentHash: "58bbad87611b5d86"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

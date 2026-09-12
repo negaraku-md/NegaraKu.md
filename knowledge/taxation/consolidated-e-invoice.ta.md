@@ -42,8 +42,9 @@ verificationNeeded:
   - "பணப் பரிசு விதியிலிருந்து கேசினோ மற்றும் விளையாட்டு-இயந்திரப் பணப் பரிசுகளுக்கான விலக்கு ஒரு முடிவுத் தேதியைக் கொண்டுள்ளதா — அடுத்த அறிவிப்பு வரை என்று LHDN கூறுகிறது"
 
 lang: "ta"
+sourceContentHash: "1b4f5e59594a8f17"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

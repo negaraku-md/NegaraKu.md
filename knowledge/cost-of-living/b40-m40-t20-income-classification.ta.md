@@ -29,8 +29,9 @@ faq:
     a: "ரிங்கிட் எல்லைகள் ஒவ்வொரு கணக்கெடுப்புச் சுற்றிலும் (சுமார் இரண்டு ஆண்டுகளுக்கு ஒரு முறை) புதுப்பிக்கப்படுகின்றன, வருமான வளர்ச்சியுடன் உயர்கின்றன. இணையத்தில் பரவும் பல 'RMx,xxx வரை' எண்கள் உண்மையில் பழைய சுற்றுகளிலிருந்து வந்தவை."
 
 lang: "ta"
+sourceContentHash: "26ffee570df18e65"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

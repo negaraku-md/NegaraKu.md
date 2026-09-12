@@ -31,8 +31,9 @@ faq:
     a: "NETR 2050க்குள் 70% புதுப்பிக்கத்தக்க ஆற்றல் திறனையும் நிகர-பூஜ்ய பசுமை இல்ல வாயு உமிழ்வையும் இலக்காகக் கொண்டுள்ளது; RM25 பில்லியனுக்கும் அதிகமான முதலீட்டை ஈர்க்கும் என எதிர்பார்க்கப்படும் 10 முதன்மைத் திட்டங்களால் (flagship) இது ஆதரிக்கப்படுகிறது."
 
 lang: "ta"
+sourceContentHash: "19a2c50c83298410"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

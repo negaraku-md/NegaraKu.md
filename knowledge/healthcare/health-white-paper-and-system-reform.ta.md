@@ -32,8 +32,9 @@ faq:
     a: "இல்லை என்று அரசாங்கம் உறுதிப்படுத்துகிறது. Rakan KKM போன்ற முயற்சிகள் தனியார்மயமாக்கல் அல்ல, மாறாக பொதுத் துறையில் நிபுணர்களைத் தக்கவைப்பதற்கான ஒரு மாதிரியாக முன்வைக்கப்படுகின்றன; இருப்பினும் அதன் நீண்டகால விளைவுகள் குறித்து சில பார்வையாளர்கள் எச்சரிக்கையாகவே உள்ளனர்."
 
 lang: "ta"
+sourceContentHash: "f5aff2ea91b18549"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

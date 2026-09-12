@@ -32,8 +32,9 @@ faq:
     a: "Rapid Bus, குறைந்த பயணிகள் கொண்ட 19 வழித்தடங்களை — 16 MRT ஃபீடர் வழித்தடங்கள் மற்றும் 3 நிலையான வழித்தடங்கள், வலையமைப்பின் சுமார் 7% — முன்பதிவு செய்யக்கூடிய Rapid KL On-Demand வேன் சேவையாக மாற்றத் தொடங்கியது."
 
 lang: "ta"
+sourceContentHash: "ef9c4ac09cb054b2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

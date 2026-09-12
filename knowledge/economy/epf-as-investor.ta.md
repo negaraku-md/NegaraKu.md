@@ -25,8 +25,9 @@ verificationNeeded:
   - "RM188 billion / 9% உள்நாட்டுப் பங்கு சந்தை-மூலதன எண் The Edge Malaysia-இன்படி 2024 ஆண்டு இறுதி நிலவரப்படியானது; EPF-இன் சொந்த வெளிப்படுத்தல் கிடைத்தால் அதற்கு எதிராக மீண்டும் சரிபார்க்கவும்"
 
 lang: "ta"
+sourceContentHash: "a2dbf62e9ce69abb"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

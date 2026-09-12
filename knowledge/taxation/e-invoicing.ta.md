@@ -24,8 +24,9 @@ appliesTo: "e-Invoice கட்டாயத்திற்கு தயாரா
 verificationNeeded: []
 
 lang: "ta"
+sourceContentHash: "46533f76e2996181"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

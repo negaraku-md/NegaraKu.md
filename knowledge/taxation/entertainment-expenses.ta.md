@@ -33,8 +33,9 @@ faq:
 
 verificationNeeded: []
 lang: "ta"
+sourceContentHash: "9f630c729df1ac01"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

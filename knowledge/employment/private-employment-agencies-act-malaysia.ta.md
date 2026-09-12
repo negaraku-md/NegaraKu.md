@@ -29,8 +29,9 @@ faq:
     a: "RM200,000 வரை அபராதம் அல்லது மூன்று ஆண்டுகள் வரை சிறைத்தண்டனை, அல்லது இரண்டும்."
 
 lang: "ta"
+sourceContentHash: "f80441a5c89e8b43"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

@@ -31,8 +31,9 @@ faq:
     a: "உணவு வளாகங்கள் Peraturan-Peraturan Kebersihan Makanan 2009 இன் கீழ் ஒழுங்குபடுத்தப்படுகின்றன. நுகர்வோர் சூடான, புதிய உணவை வழங்கும் A அல்லது B தரம் பெற்ற தட்டிகளைத் தேர்ந்தெடுக்கவும், பொதுவாகக் காட்டப்படும் தர விவரச் சீட்டைச் சரிபார்க்கவும் ஊக்குவிக்கப்படுகிறார்கள்."
 
 lang: "ta"
+sourceContentHash: "1f2264f16a54722d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

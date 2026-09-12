@@ -47,8 +47,9 @@ obligations:
     consequence: "Offence under s.120(1); the two-year waiver in s.107C(4A) does not apply to LLPs"
 
 lang: "ta"
+sourceContentHash: "0632dd55307e891f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

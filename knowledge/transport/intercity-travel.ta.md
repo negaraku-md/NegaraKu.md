@@ -34,8 +34,9 @@ verificationNeeded:
   - "AirBorneo-இன் தற்போதைய ஊரக விமான சேவை (Rural Air Service) வழித்தட எண்ணிக்கை மற்றும் விமான நிலையப் பட்டியலை AirBorneo அல்லது CAAM-உடன் நேரடியாக உறுதிப்படுத்தவும், ஏனெனில் எழுதப்பட்ட நேரத்தில் MAVCOM-இன் பொது RAS பக்கம் வழித்தட-மட்ட விவரங்களைக் கொண்டிருக்கவில்லை, மேலும் இந்தத் திட்டம் சமீபத்தில் இயக்குநரை மாற்றியுள்ளது."
 
 lang: "ta"
+sourceContentHash: "a8248270057070e4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

@@ -23,8 +23,9 @@ keyTakeaways:
 appliesTo: "மலேசியாவில் தேர்தல்களை நடத்தும் அமைப்பின் அரசியலமைப்பு நிலையைப் புரிந்துகொள்ள விரும்பும் எவரும் — மாணவர்கள், ஆய்வாளர்கள், பத்திரிகையாளர்கள் மற்றும் பொது வாசகர்கள் — அத்துடன் SPR-இன் ஆணை, உறுப்பினர் அமைப்பு மற்றும் பதவிக் காலப் பாதுகாப்புகளை வரையறுக்கும் அரசியலமைப்பு விதிகள்."
 
 lang: "ta"
+sourceContentHash: "6a46ae533ead9e08"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

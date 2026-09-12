@@ -34,8 +34,9 @@ seoTitle: "ஜாவி எழுத்து: வரலாறு, அமைப�
 socialTitle: "ஏழு நூற்றாண்டுகளாக மலாய் மொழியை எழுதிய அரபு எழுத்துகள் — ஜாவி எழுத்தின் கதை"
 
 lang: "ta"
+sourceContentHash: "227837ea67cec8a8"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "in-review"
 aiAssisted: true
 reviewer: null

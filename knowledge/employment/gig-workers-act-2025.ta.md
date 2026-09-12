@@ -61,8 +61,9 @@ obligations:
     consequence: "Fine up to RM50,000, imprisonment up to two years, or both, plus up to RM500 a day for a continuing offence"
 
 lang: "ta"
+sourceContentHash: "8a2909522637427b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

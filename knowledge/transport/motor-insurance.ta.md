@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "மலேசியாவில் வாகனங்களை — கார்கள், மோட்டார்சைக்கிள்கள் மற்றும் வணிக வாகனங்கள் — சொந்தமாக வைத்திருப்பவர்கள் மற்றும் ஓட்டுநர்கள், காப்பீட்டு வகைகளையும் அவற்றின் சட்டத் தேவைகளையும் புரிந்துகொள்ள விரும்புவோர்."
 
 lang: "ta"
+sourceContentHash: "d879ba5dcb3bf1ff"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

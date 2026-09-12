@@ -26,8 +26,9 @@ verificationNeeded:
   - "மின்சார வாகனங்களை (வாடகைக்கு பதிலாக) வாங்குவதற்கே உரிய துரிதப்படுத்தப்பட்ட அல்லது மேம்படுத்தப்பட்ட மூலதன கழிவு ஏதேனும் வர்த்தமானியில் வெளியிடப்பட்டுள்ளதா — AGC துணை-சட்டங்கள் தரவுத்தளத்தில் அத்தகைய எந்த ஆவணமும் காணப்படவில்லை."
 
 lang: "ta"
+sourceContentHash: "9f0ef46f2f698cad"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

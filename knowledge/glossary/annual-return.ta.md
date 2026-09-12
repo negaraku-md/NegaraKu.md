@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "நிறுவன இயக்குநர்கள், நிறுவனச் செயலாளர்கள் மற்றும் நிறுவன இணக்கத்திற்குப் பொறுப்பான எவரும்."
 
 lang: "ta"
+sourceContentHash: "4458f7c26c528c99"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

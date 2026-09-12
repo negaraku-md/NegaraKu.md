@@ -33,8 +33,9 @@ faq:
     a: "mukim என்பது மாவட்டத்திற்குக் கீழுள்ள ஒரு உட்பிரிவு; முக்கியமாக நில நிர்வாக நோக்கங்களுக்காக அமைந்தது. penghulu என்பவர் மாவட்ட நில நிர்வாகத்தின் கீழ் mukim அளவில் அதிகாரத்தைச் செலுத்தும் அதிகாரி."
 
 lang: "ta"
+sourceContentHash: "a75e04e291488dd9"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

@@ -62,8 +62,9 @@ obligations:
     statute: "Employees Social Security Act 1969 (Act 4)"
 
 lang: "ta"
+sourceContentHash: "4bb7e4b6c1a91f37"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

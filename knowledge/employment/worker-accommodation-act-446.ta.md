@@ -62,8 +62,9 @@ obligations:
     consequence: "General penalty under s.33 — fine up to RM50,000 plus up to RM1,000 for each day the offence continues"
 
 lang: "ta"
+sourceContentHash: "8cdaa2fd9d045eb3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

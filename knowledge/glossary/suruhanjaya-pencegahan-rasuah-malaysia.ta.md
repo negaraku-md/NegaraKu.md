@@ -31,8 +31,9 @@ faq:
     a: "ஒரு நிறுவனம் ஊழலைத் தடுக்கப் போதுமான நடைமுறைகளை அமல்படுத்தியிருந்ததை நிரூபித்தால் தன்னைப் பாதுகாத்துக் கொள்ளலாம். அதற்கான வழிகாட்டுதல் பிரதமர் துறை (Jabatan Perdana Menteri) ஆல் வெளியிடப்பட்ட, 4 Disember 2018 தேதியிட்ட Garis Panduan Prosedur Mencukupi (Guidelines on Adequate Procedures) இல் உள்ள T.R.U.S.T. ஐந்து கோட்பாடுகள் ஆகும்."
 
 lang: "ta"
+sourceContentHash: "bba5e6b3f79a29ee"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

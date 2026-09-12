@@ -30,8 +30,9 @@ faq:
     a: "பெரும்பாலும் கிராமப்புற பொழுதுபோக்காக அல்லாமல், பண்பாட்டு விழாக்கள், அருங்காட்சியக மற்றும் மரபுரிமை நிகழ்ச்சிகள், மற்றும் சுற்றுலா நிகழ்ச்சிகளில். திட்டமிடப்பட்ட நிகழ்ச்சிகளைக் கண்டறிய தேசிய பண்பாடு மற்றும் கலைத் துறை (National Department for Culture and Arts, JKKN) மற்றும் மாநில பண்பாட்டு அமைப்புகள் நடைமுறை தொடக்கப் புள்ளியாகும்."
 
 lang: "ta"
+sourceContentHash: "d4cb6805f330e418"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "in-review"
 aiAssisted: true
 reviewer: null

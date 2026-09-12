@@ -42,8 +42,9 @@ verificationNeeded:
   - "முதல் MFRS 18 ஆண்டில் காலாண்டு அறிக்கையிடலுக்கு Bursa Malaysia மாற்றக்கால வழிகாட்டுதலை வெளியிடுமா என்பதை உறுதிப்படுத்தவும்."
 
 lang: "ta"
+sourceContentHash: "542671cd3c464e38"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

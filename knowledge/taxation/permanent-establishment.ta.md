@@ -39,8 +39,9 @@ verificationNeeded:
   - "Articles 12 மற்றும் 13 மீதான மலேசியாவின் முழு MLI ஒதுக்கீடுகள் (reservations) மற்றும் அறிவிப்புகள் (notifications) பட்டியல் ஒரு மலேசிய அரசாங்க மூலத்திலிருந்து பெறப்படவில்லை. Malaysia-Japan தொகுக்கப்பட்ட உரை, அந்த உடன்படிக்கை இணைக்கு இரண்டு articles-ம் பொருந்தும் என்பதை உறுதிப்படுத்துகிறது; ஒவ்வொரு உடன்படிக்கையின் சொந்த தொகுக்கப்பட்ட உரையைப் படிக்காமல் மற்றொரு உடன்படிக்கைக்குப் பொதுமைப்படுத்த வேண்டாம்"
 
 lang: "ta"
+sourceContentHash: "7dd6ea1d4a097c43"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

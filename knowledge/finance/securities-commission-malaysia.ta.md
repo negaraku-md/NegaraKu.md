@@ -32,8 +32,9 @@ faq:
     a: "ஆம். SC ஆனது equity crowdfunding கட்டமைப்பையும் (10 பிப்ரவரி 2015 முதல் அமல்) peer-to-peer நிதியளிப்புக் கட்டமைப்பையும் (ஏப்ரல் 2016) அறிமுகப்படுத்தியது; இரண்டும் அதன் விதிகளின் கீழ் அங்கீகரிக்கப்பட்ட சந்தைகளாகச் (recognised markets) செயல்படுகின்றன."
 
 lang: "ta"
+sourceContentHash: "e26f048f1170e63c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

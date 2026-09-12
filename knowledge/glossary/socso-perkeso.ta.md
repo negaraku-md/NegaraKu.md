@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "மலேசியாவில் சட்டப்பூர்வ ஊதியக் கழிவுகளைப் புரிந்துகொள்ள விரும்பும் முதலாளிகள், HR மற்றும் ஊதிய (payroll) குழுக்கள், மற்றும் தனியார் துறை ஊழியர்கள்."
 
 lang: "ta"
+sourceContentHash: "9085a7b0c1f610fb"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

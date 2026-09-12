@@ -34,8 +34,9 @@ faq:
     a: "2024-ல், சேவைகள் RM252.7 பில்லியன் அங்கீகரிக்கப்பட்ட முதலீட்டை (மொத்தத்தில் 66.8%) ஈர்த்தன, மேலும் உற்பத்தி RM120.5 பில்லியன் (31.8%), ஒட்டுமொத்தமாக சாதனையளவிலான RM378.5 பில்லியனில் இருந்து (MIDA)."
 
 lang: "ta"
+sourceContentHash: "fd46cc26349bd735"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

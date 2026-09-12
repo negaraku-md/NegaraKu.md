@@ -30,8 +30,9 @@ faq:
     a: "JKKN-இன் கூற்றுப்படி, DKK 1971 ஏழு அச்சுகளை அடிப்படையாகக் கொண்ட, 2021-2025 அமலாக்க காலத்தைக் கொண்ட தேசியப் பண்பாட்டுக் கொள்கை (DAKEN) 2021-க்கு அடிப்படையாக அமைகிறது. DKK 1971 அமைச்சரவை மட்டத்தில் ஒருபோதும் அதிகாரப்பூர்வமாக அங்கீகரிக்கப்படவில்லை என்றாலும், ஏறத்தாழ 50 ஆண்டுகளாக நிர்வாகத்தை அது வழிநடத்தியது என்றும் JKKN தெரிவிக்கிறது."
 
 lang: "ta"
+sourceContentHash: "8ad5677b6225effa"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

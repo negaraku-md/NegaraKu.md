@@ -40,8 +40,9 @@ verificationNeeded:
   - "புதிய DOSM வெளியீடு வெளியிடப்படும்போது மக்கள்தொகை மற்றும் KDNK எண்ணிக்கைகளைப் புதுப்பிக்கவும்."
 
 lang: "ta"
+sourceContentHash: "79feefd0c909668c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

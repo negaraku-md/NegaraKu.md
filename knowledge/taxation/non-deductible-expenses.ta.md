@@ -42,8 +42,9 @@ verificationNeeded:
   - "P.U.(A) 425-2021-இல் உள்ள s.39(1)(r) விலக்கு YA2025-க்கு அப்பால் நீட்டிக்கப்பட்டுள்ளதா என்பது — Labuan FSA circular 269/2021 நடைமுறைக் காலத்தை YA2019 முதல் YA2025 வரை எனக் கூறுகிறது, மேலும் எந்த நீட்டிப்பு ஆணையும் கண்டறியப்படவில்லை"
   - "Goods and Services Tax Act 2014-ஐக் குறிப்பிடும் paragraphs 39(1)(o) மற்றும் 39(1)(p), அந்தச் சட்டம் ரத்து செய்யப்பட்ட பிறகு நடைமுறையில் உள்ளதா என்பது"
 lang: "ta"
+sourceContentHash: "5306816ff4b971c7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

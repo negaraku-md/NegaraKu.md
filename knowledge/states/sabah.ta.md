@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "சபாவின் உண்மை சார்ந்த ஒரு சுயவிவரத்தை — அதன் புவியியல், பொருளாதாரம் மற்றும் அரசாங்கம் — மற்றும் Malaysia Agreement 1963-இன் கீழ் அதன் அரசியலமைப்பு நிலைப்பாடு குறித்த ஒரு நடுநிலையான விவரிப்பைத் தேடும் வாசகர்கள்."
 
 lang: "ta"
+sourceContentHash: "d05db2b4db752c79"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

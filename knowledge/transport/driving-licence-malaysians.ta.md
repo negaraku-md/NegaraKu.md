@@ -26,8 +26,9 @@ verificationNeeded:
   - "CDL விண்ணப்பத்தை இப்போது MyJPJ செயலி வழியாக முழுமையாக ஆன்லைனில் செய்ய முடியுமா — சரிபார்க்கப்பட்ட JPJ சேவைப் பக்கம் விண்ணப்பங்கள் மாநில JPJ கவுண்டரில் மட்டுமே செய்யப்படுகின்றன எனக் கூறுகிறது, ஆனால் இது சரிபார்க்கப்பட்ட தேதிக்குப் பிறகு மாறியிருக்கலாம்"
 
 lang: "ta"
+sourceContentHash: "994f31cbd16cea0e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

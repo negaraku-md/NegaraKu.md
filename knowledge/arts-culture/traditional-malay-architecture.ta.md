@@ -27,8 +27,9 @@ faq:
     a: "மலாய் வீடு பொதுவாக ஒரே குடும்பத்தைத் தங்கவைக்கிறது, அதேநேரம் நீள்வீடு (rumah panjang) பல குடும்பங்களை ஒரே நீளமான கட்டமைப்பினுள் தங்கவைக்கிறது — ஒவ்வொரு குடும்பமும் தனக்கென்று ஓர் அறையைக் (bilek) கொண்டு, ருவாய் (ruai) எனப்படும் பொதுக் கூடத்துடன் பகிர்ந்துகொள்கிறது."
 
 lang: "ta"
+sourceContentHash: "6e6d63e898f4ad35"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

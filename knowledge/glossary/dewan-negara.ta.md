@@ -26,8 +26,9 @@ verificationNeeded:
   - "கூட்டாட்சி அரசியலமைப்பின் மலாய் மொழி உரை Jabatan Peguam Negara-வின் மொழிபெயர்ப்பாகும். Article 160B-இன் கீழ் சரியானதாக (authoritative) நிர்ணயிக்கப்படும் வரை, ஆங்கில உரையே சரியான உரையாகும்."
 
 lang: "ta"
+sourceContentHash: "bf114efc3f1d5751"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

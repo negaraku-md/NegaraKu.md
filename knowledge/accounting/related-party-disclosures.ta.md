@@ -32,8 +32,9 @@ faq:
     a: "உறவின் தன்மை, பரிவர்த்தனைகளின் தொகை, நிலுவைத் தொகை மற்றும் அதன் விதிமுறைகள், பெறப்பட்ட அல்லது வழங்கப்பட்ட ஏதேனும் பிணையம் அல்லது உத்தரவாதம், மேலும் அந்த நிலுவை தொடர்பான சந்தேகத்திற்குரிய கடன்களுக்கான ஒதுக்கீடு."
 
 lang: "ta"
+sourceContentHash: "ae54f875cbc22c20"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

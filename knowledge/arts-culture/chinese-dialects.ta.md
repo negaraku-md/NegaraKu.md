@@ -32,8 +32,9 @@ seoTitle: "மலேசிய சீன கிளைமொழிகள்: ப�
 socialTitle: "ஒரே சீனர்கள், ஏன் வெவ்வேறு மொழிகள்? மலேசியாவின் கிளைமொழி வரைபடம்"
 
 lang: "ta"
+sourceContentHash: "c773c2be8c4e6544"
 masterLanguage: "zh"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "in-review"
 aiAssisted: true
 reviewer: null

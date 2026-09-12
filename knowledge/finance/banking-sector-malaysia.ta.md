@@ -34,8 +34,9 @@ faq:
     a: "இல்லை. பரிந்துரைக்கப்பட்ட மேம்பாட்டு நிதி நிறுவனங்கள் Development Financial Institutions Act 2002-இன் கீழ் ஒழுங்குபடுத்தப்பட்டு, Bank Negara Malaysia-வால் மேற்பார்வையிடப்படுகின்றன; இது FSA மற்றும் IFSA-இலிருந்து தனி ஒழுங்குமுறை."
 
 lang: "ta"
+sourceContentHash: "a9fc5401e6cabfb3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

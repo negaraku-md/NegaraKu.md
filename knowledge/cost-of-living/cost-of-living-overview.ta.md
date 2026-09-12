@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "மலேசியாவுக்கான வரவுசெலவைத் திட்டமிடுபவர், சம்பள வாய்ப்புகளை உண்மையான வாழ்க்கைச் செலவுடன் ஒப்பிடுபவர், அல்லது வாழ்க்கைச் செலவு தொடர்பான ஒரு கூற்றுக்குப் பின்னால் உள்ள முதன்மை DOSM தரவைத் தேடுபவர் அனைவருக்கும்."
 
 lang: "ta"
+sourceContentHash: "0b3015ed818343fb"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

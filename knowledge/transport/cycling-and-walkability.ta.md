@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "குடியிருப்பாளர்கள், திட்டமிடுநர்கள், மற்றும் மலேசிய நகரங்களின் நடைவசதி மற்றும் மிதிவண்டி உள்கட்டமைப்பை மற்ற நாடுகளுடன் ஒப்பிடும் எவரும்."
 
 lang: "ta"
+sourceContentHash: "3d0d276aec4c1fe4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

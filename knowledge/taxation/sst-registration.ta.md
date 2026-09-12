@@ -51,8 +51,9 @@ obligations:
     consequence: "Backdated registration and liability for tax that should have been charged"
 
 lang: "ta"
+sourceContentHash: "7320d2549d294308"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

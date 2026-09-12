@@ -35,8 +35,9 @@ verificationNeeded:
   - "mkn.gov.my அணுகக்கூடியதாக இருக்கும்போது Perlis Inland Port ஒதுக்கீடுகளையும் (RM318.0 juta உள்கட்டமைப்பு, RM1.2 bilion தனியார் முதலீடு) ஆறு நிர்வாகப் பகுதிகளையும் MKN உடன் மீண்டும் உறுதிப்படுத்தவும்; சமீபத்திய மறு-உறுதிப்படுத்தல் நிகழ்வின்போது தளம் செயலிழந்திருந்தது, எனவே இந்த எண்ணிக்கைகள் அசல் 2026-07-24 சரிபார்ப்பை அடிப்படையாகக் கொண்டவை."
 
 lang: "ta"
+sourceContentHash: "f8950ccf72fcaab1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

@@ -29,8 +29,9 @@ faq:
     a: "தனிநபர்களுக்கு, முதல் குற்றத்துக்கு RM100,000 வரை அபராதம் மற்றும்/அல்லது 3 ஆண்டுகள் வரை சிறைத்தண்டனை, அடுத்தடுத்த குற்றத்துக்கு RM250,000 வரை மற்றும்/அல்லது 5 ஆண்டுகள் வரை. கார்ப்பரேட் அமைப்புகளுக்கு, RM500,000 வரை அபராதம், அடுத்தடுத்த குற்றத்துக்கு RM1 மில்லியன் வரை."
 
 lang: "ta"
+sourceContentHash: "8699ed0e058e98c7"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

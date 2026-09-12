@@ -34,8 +34,9 @@ faq:
     a: "DOE சுற்றுச்சூழல் புகார்களுக்காக ஒரு புகார் தொலைபேசி இலக்கத்தையும் (03-8889 1972) ஒரு கட்டணமில்லா தொலைபேசி இணைப்பையும் (1-800-88-2727) வெளியிடுகிறது. இவற்றை நம்பிச் செயல்படுவதற்கு முன் தற்போதைய எண்களை doe.gov.my-இல் சரிபார்க்கவும்."
 
 lang: "ta"
+sourceContentHash: "03cee8394623a8f3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

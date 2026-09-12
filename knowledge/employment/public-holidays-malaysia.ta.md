@@ -38,8 +38,9 @@ verificationNeeded:
   - "Cabinet Division அட்டவணையில் மாற்றத்திற்கு உட்பட்டதாகக் குறிக்கப்பட்ட தேதிகளை உறுதிப்படுத்தவும் — Hari Raya Puasa, Hari Raya Qurban, Deepavali, Awal Ramadan மற்றும் Hari Raya Qurban இரண்டாம் நாள் அனைத்தும் குறிக்கப்பட்டுள்ளன"
 
 lang: "ta"
+sourceContentHash: "c9161f47701aa87c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

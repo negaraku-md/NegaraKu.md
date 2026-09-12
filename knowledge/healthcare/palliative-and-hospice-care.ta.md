@@ -29,8 +29,9 @@ faq:
     a: "நோய்த்தணிப்பு பராமரிப்பு, குழந்தைகள் உட்பட, வயதைப் பொருட்படுத்தாமல் உயிரைக் குறுக்கும் நோயுள்ள நோயாளிகளுக்கு வசதி மற்றும் அறிகுறிக் கட்டுப்பாட்டில் கவனம் செலுத்துகிறது. மாறாக, மூத்த குடிமக்கள் பராமரிப்பு என்பது இறுதிக்கட்ட நோய் இல்லாத வயதானவர்களுக்கான பொதுவான பராமரிப்பு."
 
 lang: "ta"
+sourceContentHash: "ff994cbda9925abc"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

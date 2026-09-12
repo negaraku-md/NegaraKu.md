@@ -18,8 +18,9 @@ keyTakeaways:
 appliesTo: "மலேசியாவில் உள்ள எவரும் — பௌத்தராயினும் இல்லாவிட்டாலும் — வெசாக் தினம் என்றால் என்ன, அது எப்போது விழுகிறது, மற்றும் அது எவ்வாறு அனுசரிக்கப்படுகிறது என்பது குறித்த தெளிவான, துல்லியமான குறிப்பை விரும்புவோர்; பொது விடுமுறைத் தேதியைச் சரிபார்க்கும் முதலாளிகள் மற்றும் ஊழியர்கள் உட்பட."
 
 lang: "ta"
+sourceContentHash: "87814a02e5e75f73"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

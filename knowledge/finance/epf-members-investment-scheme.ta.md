@@ -29,8 +29,9 @@ faq:
     a: "குறைந்தபட்சம் ஒரு பரிவர்த்தனைக்கு RM1,000. உங்கள் தகுதியான தொகை ஒவ்வொரு முறையும் மூன்று மாதங்களுக்கு செல்லுபடியாகும்; எனவே நடைமுறையில், அந்தக் காலம் முடிந்தவுடன் நீங்கள் ஒரு புதிய மாற்றத்தைச் செய்யலாம்."
 
 lang: "ta"
+sourceContentHash: "d3f550dd37241cac"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

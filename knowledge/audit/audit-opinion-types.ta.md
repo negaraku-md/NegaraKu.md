@@ -41,8 +41,9 @@ verificationNeeded:
   - "2021 ஜூன் திருத்தப்பட்ட AAPG 1 மற்றும் AAPG 2 இன்னும் MIA-இன் தற்போதைய மாதிரி அறிக்கைகளாக உள்ளனவா, ஒரு பிற்கால திருத்தத்தால் அவை மாற்றப்படவில்லையா என்பதை உறுதிப்படுத்தவும்"
 
 lang: "ta"
+sourceContentHash: "b166913dca839ae9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

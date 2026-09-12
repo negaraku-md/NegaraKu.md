@@ -33,8 +33,9 @@ verificationNeeded:
   - "வெளியீட்டிற்கு முன், சமீபத்திய DOSM மாநில மக்கள்தொகை வெளியீட்டிற்கு எதிராக பினாங்கின் தற்போதைய மக்கள்தொகையை உறுதிப்படுத்தவும்."
 
 lang: "ta"
+sourceContentHash: "a7862eb1a54ab895"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

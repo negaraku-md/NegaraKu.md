@@ -23,8 +23,9 @@ keyTakeaways:
 appliesTo: "மலேசியச் சட்டத்தில் ‘Syariah’ என்ற சொல்லின் பொருளையும், ஷரியா நீதிமன்றங்களின் அதிகார வரம்பு ஒரு மாநிலத்திலிருந்து மற்றொரு மாநிலத்திற்கு ஏன் வேறுபடுகிறது என்பதையும் புரிந்துகொள்ள விரும்பும் எவரும்."
 
 lang: "ta"
+sourceContentHash: "2bb646d77c8ab722"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

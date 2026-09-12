@@ -61,8 +61,9 @@ obligations:
     consequence: "Forfeiture of the unutilised balance above an RM10,000 threshold"
 
 lang: "ta"
+sourceContentHash: "3f1eefbdad5a65a1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

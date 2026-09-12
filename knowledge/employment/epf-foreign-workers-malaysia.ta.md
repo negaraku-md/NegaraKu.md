@@ -50,8 +50,9 @@ obligations:
     consequence: "Late-payment charges and enforcement action"
 
 lang: "ta"
+sourceContentHash: "dfd63c27558be655"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

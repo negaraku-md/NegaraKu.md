@@ -28,8 +28,9 @@ faq:
   - q: "HRD லெவி எவ்வாறு கணக்கிடப்படுகிறது, எப்போது செலுத்த வேண்டும்?"
     a: "இது (மொத்த ஊதியம் அல்லது அடிப்படை சம்பளம் + நிலையான கொடுப்பனவுகள்) × 1% (அல்லது விருப்பத்தேர்வுப் பதிவாளர்களுக்கு 0.5%), அபராதங்களைத் தவிர்க்க ஒவ்வொரு மாதமும் 15ஆம் தேதிக்குள் செலுத்தப்பட வேண்டியது."
 lang: "ta"
+sourceContentHash: "ff5d89d25eee1ca7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "in-review"
 aiAssisted: true
 reviewer: null

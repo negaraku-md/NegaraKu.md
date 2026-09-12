@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "மலேசியக் குடிமக்கள், தங்கள் குழந்தைகளின் பதிவைக் கையாளும் பெற்றோர், மற்றும் மலேசியாவில் அடையாளத்தை உறுதிப்படுத்த வேண்டிய எவரும்."
 
 lang: "ta"
+sourceContentHash: "7c8af58484cf7ac0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

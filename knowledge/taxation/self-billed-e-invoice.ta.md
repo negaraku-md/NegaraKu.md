@@ -41,8 +41,9 @@ verificationNeeded:
   - "கசினோக்கள் மற்றும் சூதாட்ட இயந்திரங்களுக்கான சூதாட்ட விலக்கு நீக்கப்பட்டதா என்பது — LHDN இது அடுத்த அறிவிப்பு வரை பொருந்தும் என்கிறது, முடிவுத் தேதி எதுவும் வெளியிடப்படவில்லை"
 
 lang: "ta"
+sourceContentHash: "881bae66be5fb011"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

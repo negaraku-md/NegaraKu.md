@@ -34,8 +34,9 @@ faq:
     a: "தனி கூட்டு பேர உரிமைகள் Industrial Relations Act 1967-இன் கீழ் தீர்மானிக்கப்படுகின்றன. தொழிலாளர்களால் ஒருமித்த கருத்தை எட்ட முடியாவிட்டால், தொழில் உறவுகளின் இயக்குநர் ஜெனரலிடம் (Director General of Industrial Relations) விண்ணப்பம் செய்யலாம்; அவர் பேர முகவரைத் தேர்ந்தெடுக்க ஒரு இரகசிய வாக்கெடுப்பை நடத்தலாம்."
 
 lang: "ta"
+sourceContentHash: "3512cd3f05dbac9a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

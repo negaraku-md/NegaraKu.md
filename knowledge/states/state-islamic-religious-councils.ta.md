@@ -29,8 +29,9 @@ faq:
     a: "இஸ்லாமிய விவகாரங்களில் அரசருக்கு (Raja) உதவி, ஆலோசனை வழங்குவது, மேலும் மாநில இயற்றச்சட்டத்தின்படி (enakmen) ஜகாத் (zakat), வக்பு (wakaf), மசூதிகள் மற்றும் தொடர்புடைய விஷயங்களை நிர்வகிப்பது. MAIN மாநிலத்தின் வக்பு சொத்தின் ஒரே அறங்காவலராகவும் இருக்கிறது."
 
 lang: "ta"
+sourceContentHash: "d6d15ba266fb5f4b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

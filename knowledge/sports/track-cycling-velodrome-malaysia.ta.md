@@ -29,8 +29,9 @@ faq:
     a: "Azizulhasni Awang, இரண்டு ஒலிம்பிக் பதக்கங்களை வென்றவர் (2016 வெண்கலம், 2020 வெள்ளி) மற்றும் 2017 கீரின் உலக சாம்பியன்."
 
 lang: "ta"
+sourceContentHash: "490abb68b2e39c44"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

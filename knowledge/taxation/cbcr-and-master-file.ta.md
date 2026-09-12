@@ -51,8 +51,9 @@ obligations:
     consequence: "Fine of RM20,000 to RM100,000 or imprisonment up to six months, or both, under s.112A"
 
 lang: "ta"
+sourceContentHash: "003701199a9aca88"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

@@ -56,8 +56,9 @@ verificationNeeded:
   - "SSM, s.245 குற்றங்களுக்கு எந்தக் கூட்டு (compound) அட்டவணையையும் வெளியிடவில்லை — கூறப்பட்ட அபராதம் s.245(9)-இன் கீழ் தண்டனை பெறும்போதான உச்சவரம்பு, ஓர் நிர்வாகக் கூட்டுத் தொகை அல்ல"
 
 lang: "ta"
+sourceContentHash: "45066b2b4838e7ba"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

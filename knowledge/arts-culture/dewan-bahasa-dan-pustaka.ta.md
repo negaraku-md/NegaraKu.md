@@ -32,8 +32,9 @@ faq:
     a: "Kamus Dewan Perdana என்பது DBP இன் அதிகாரப்பூர்வ டிஜிட்டல் குறிப்பு அகராதியாகும்; இது விரிவான மலாய் மொழிக் குறிப்பு தளத்தை வழங்குவதற்கான டிஜிட்டல் மாற்ற நிகழ்ச்சி நிரலின் ஒரு பகுதியாகும், மேலும் kamus.dbp.gov.my இல் இலவசமாக அணுகக்கூடியது."
 
 lang: "ta"
+sourceContentHash: "ad048e11c6564d32"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

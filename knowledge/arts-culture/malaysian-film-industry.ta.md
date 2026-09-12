@@ -34,8 +34,9 @@ faq:
     a: "இது பெரும்பாலும் ‘Malaysian New Wave’ என்று குறிப்பிடப்படுகிறது; இது 2000களின் தொடக்கத்தில் தோன்றிய சுயாதீனத் திரைப்பட இயக்குநர்களின் அலை. 2004-இல் Tan Chui Mui, Amir Muhammad, James Lee மற்றும் Liew Seng Tat ஆகியோரால் நிறுவப்பட்ட Da Huang Pictures அதன் மையங்களில் ஒன்றாக மாறியது; Tan-இன் படமான Love Conquers All, 2006 Busan சர்வதேச திரைப்பட விழாவில் New Currents மற்றும் FIPRESCI விருதுகளையும், Rotterdam-இல் Tiger விருதையும் வென்றது."
 
 lang: "ta"
+sourceContentHash: "defc3df96dc13355"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

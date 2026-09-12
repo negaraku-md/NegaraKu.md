@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "நோயறியப்பட்ட இயலாமை அல்லது கற்றல் சிரமம் உள்ள, மலேசியாவில் உள்ள ஒரு குழந்தையின் பெற்றோர் மற்றும் பராமரிப்பாளர்கள், எந்தப் பள்ளி இடம் மற்றும் எந்தப் பதிவு நடவடிக்கைகள் பொருந்தும் என்பதைக் கண்டறிய முயற்சிக்கிறார்கள்."
 
 lang: "ta"
+sourceContentHash: "e0164ad51b29c01a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

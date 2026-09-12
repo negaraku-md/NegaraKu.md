@@ -30,8 +30,9 @@ faq:
     a: "YTL Power, Johor-இன் Kulai-இல் ஒரு பெரிய தரவு மையப் பூங்காவைக் கட்டமைத்து வருகிறது, மேலும் 2025 அக்டோபர் இறுதியில் இயக்கத்தில் இருப்பதாக அறிவிக்கப்பட்ட முதல் Nvidia-இயங்கும் AI வசதியை நிறைவு செய்துள்ளது."
 
 lang: "ta"
+sourceContentHash: "430ec56c95aad0ac"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

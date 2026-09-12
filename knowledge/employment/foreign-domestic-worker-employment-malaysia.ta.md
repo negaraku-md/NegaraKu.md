@@ -34,8 +34,9 @@ faq:
     a: "இத்தொகை மூல நாட்டுக்கு ஏற்ப மாறுபடுகிறது — குடிவரவுத் துறையின்படி RM250 (இந்தோனேசியா, தாய்லாந்து, கம்போடியா), RM750 (பிலிப்பீன்ஸ், இலங்கை, இந்தியா) மற்றும் RM1,500 (வியட்நாம், லாவோஸ்). நிபந்தனைகளுக்கு உட்பட்டு உதவியாளர் திரும்பும்போது இப்பிணையத்தைத் திரும்பப் பெறலாம்."
 
 lang: "ta"
+sourceContentHash: "80b7fb78bc8f91cd"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

@@ -26,8 +26,9 @@ verificationNeeded:
   - "Klinik Kesihatan, Klinik Komuniti மற்றும் Klinik Desa ஆகியவற்றுக்கு இடையிலான, பணியாளர்கள் மற்றும் துல்லியமான சிகிச்சை நோக்கம் சார்ந்த விரிவான வேறுபாடுகள் எழுதப்பட்ட நேரத்தில் KKM இன் அதிகாரப்பூர்வ ஆதாரங்களில் முழுமையாக உறுதிப்படுத்த முடியவில்லை; இந்த மூன்றும் தனித்தனியான நிலையங்கள் என்பதை மட்டுமே இந்தக் கட்டுரை குறிப்பிடுகிறது."
 
 lang: "ta"
+sourceContentHash: "a763d53f069e94c3"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

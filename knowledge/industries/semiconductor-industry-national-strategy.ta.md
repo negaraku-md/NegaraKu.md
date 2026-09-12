@@ -36,8 +36,9 @@ faq:
     a: "NSS 60,000 உயர்-திறன் மலேசிய பொறியாளர்களைப் பயிற்றுவித்து திறன் மேம்படுத்துவதை இலக்காகக் கொண்டுள்ளது — சுமார் 30,000 பேர் கல்வி அமைச்சு (Ministry of Education) வழியாக வளர்க்கப்படுகிறார்கள், மற்றும் சுமார் 30,000 தொழில்நுட்ப மற்றும் தொழிற்கல்வி (TVET) திறமைகள் மற்ற அமைச்சுகளிலிருந்து வருகின்றன."
 
 lang: "ta"
+sourceContentHash: "1463f5cc1d397718"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

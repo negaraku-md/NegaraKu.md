@@ -36,8 +36,9 @@ faq:
     a: "இல்லை. Section 2, கூட்டரசு அரசியலமைப்பின் Ninth Schedule-இன் List II-இன் கீழும் Fisheries Act 1985-இன் கீழும் வரும் வனவிலங்குகளை வெளிப்படையாக விலக்குகிறது, எனவே கடல்வாழ் மற்றும் பெரும்பாலான மீன்வளத் துறை இனங்கள் வேறிடத்தில் நிர்வகிக்கப்படுகின்றன."
 
 lang: "ta"
+sourceContentHash: "657883a3e9a64208"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

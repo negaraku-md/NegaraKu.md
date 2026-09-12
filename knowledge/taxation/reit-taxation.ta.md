@@ -31,8 +31,9 @@ faq:
     a: "பொதுவாக இல்லை. நிதி section 61A-ன் கீழ் விலக்கு பெற்றிருக்கும்போது, வருமானம் வரி விதிக்கப்படவில்லை; எனவே ஒரு அலகுதாரர் ஈடுசெய்யக்கூடிய section 110 வரிக் கழிவை விநியோகம் கொண்டிருப்பதில்லை. நிதிக்கே வரி விதிக்கப்பட்ட இடத்தில் மட்டுமே (உதாரணமாக, அது 90%-க்கும் குறைவாக விநியோகித்தபோது) ஒரு கழிவு எழுகிறது."
 
 lang: "ta"
+sourceContentHash: "74ef95198966c611"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

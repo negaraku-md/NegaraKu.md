@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "தங்கள் சொந்த காரை Causeway அல்லது Second Link வழியாக சிங்கப்பூருக்குள், அல்லது வடக்கு நில எல்லை வழியாக தாய்லாந்துக்குள் ஓட்டச் செல்லத் திட்டமிடும் மலேசிய வாகன ஓட்டிகள்."
 
 lang: "ta"
+sourceContentHash: "4dfab6647457152e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

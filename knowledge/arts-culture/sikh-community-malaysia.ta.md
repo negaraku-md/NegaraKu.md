@@ -34,8 +34,9 @@ faq:
     a: "பஞ்சாபி இன்னும் உயிர்ப்புடன் உள்ளது, ஆனால் மொழி மாற்றத்திற்கு (language shift) உட்பட்டுள்ளது: Kota Kinabalu-இல் உள்ள சீக்கிய சமூகம் குறித்த கல்வியியல் ஆய்வு, பெரும்பான்மையான குடும்பங்கள் இப்போது வீட்டில் ஆங்கிலத்தைப் பயன்படுத்துகின்றன என்பதைக் கண்டறிந்தது. மொழியைப் பாதுகாக்க, குருத்வாராக்கள் பஞ்சாபி வகுப்புகளை நடத்துகின்றன — எடுத்துக்காட்டாக Gurdwara Sahib Seremban-இல் உள்ள பஞ்சாபிக் கல்வி மையம் (Punjabi Education Centre) — இவை குழந்தைகளுக்கு Gurmukhi எழுத்தைக் கற்பிக்கின்றன."
 
 lang: "ta"
+sourceContentHash: "9ed6f6181f75f4d2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

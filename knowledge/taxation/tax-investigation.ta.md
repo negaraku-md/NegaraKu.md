@@ -32,8 +32,9 @@ faq:
     a: "மோசடி, வேண்டுமென்றே செய்யும் ஏய்ப்பு அல்லது அலட்சியம் தொடர்பான வழக்குகளுக்கு எந்தக் காலவரம்பும் இல்லை. Section 113 போன்ற சில குற்றங்களுக்கான குற்றவியல் நடவடிக்கைகளுக்கு, 12-ஆண்டு காலம் பொருந்தும்."
 
 lang: "ta"
+sourceContentHash: "fa0bdbadd54080b2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

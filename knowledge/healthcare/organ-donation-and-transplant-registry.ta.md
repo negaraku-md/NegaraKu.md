@@ -31,8 +31,9 @@ faq:
     a: "தேசிய ஃபத்வா மன்றம் (Majlis Fatwa Kebangsaan) 23-24 ஜூன் 1970 மாநாட்டில் உறுப்பு தானத்தை ஹரூஸ் (harus — அனுமதிக்கப்பட்டது) என்று தீர்ப்பளித்தது, உயிர் காக்க அவசர நிலை (darurat), வாங்கல்-விற்றல் இல்லாமை, மற்றும் தானதாரர் அல்லது அவரது வாரிசுகளிடமிருந்து அனுமதி பெறுதல் போன்ற நிபந்தனைகளுடன். இந்த ஃபத்வா பின்னர் பிற உறுப்புகள் மற்றும் திசுக்களுக்கும் விரிவுபடுத்தப்பட்டது."
 
 lang: "ta"
+sourceContentHash: "55867275b6260a32"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

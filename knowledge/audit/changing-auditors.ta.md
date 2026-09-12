@@ -41,8 +41,9 @@ verificationNeeded:
   - "s.278 நீக்க அறிவிப்பு மற்றும் s.282 ராஜினாமா அறிவிப்புக்கு SSM ஒரு குறிப்பிட்ட படிவத்தை நிர்ணயிக்கிறதா என்பதையும், பொருந்தும் தாக்கல் கட்டணத்தையும், தற்போதைய ROC Table of Fees-க்கு எதிராக உறுதிப்படுத்தவும்"
 
 lang: "ta"
+sourceContentHash: "c932d3246ad62000"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

@@ -36,8 +36,9 @@ faq:
     a: "Practice Directive 10/2024, ஒரு பொது நிறுவனத்தின் துணை நிறுவனமாக இருக்கும் தனியார் கம்பெனிக்கும், பட்டியலிடப்பட்ட கம்பெனிகள் உட்பட பொது நிறுவனங்களுக்கும், வெளிநாட்டு கம்பெனிகளுக்கும், மற்றும் CA 2016-ன் s.260-ன் கீழ் நிலைச் சான்றிதழைத் தாக்கல் செய்யத் தேர்ந்தெடுத்த விதிவிலக்கு தனியார் கம்பெனிகளுக்கும் (exempt private company) குறிப்பாகப் பொருந்தாது."
 
 lang: "ta"
+sourceContentHash: "1f9465f320d07544"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

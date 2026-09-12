@@ -31,8 +31,9 @@ faq:
     a: "OIC என்பது 57 உறுப்பினர்களைக் கொண்ட, முழு இஸ்லாமிய உலகிற்கான ஒரு அரசியல் மற்றும் ஒற்றுமை அமைப்பாகும்; D-8 என்பது, மாறாக, வர்த்தகம் மற்றும் வளர்ச்சியில் அதிக கவனம் செலுத்தும், எட்டு (இப்போது ஒன்பது) இஸ்லாமியப் பெரும்பான்மை வளரும் நாடுகளின் சிறிய பொருளாதார ஒத்துழைப்புக் குழுவாகும்."
 
 lang: "ta"
+sourceContentHash: "0bd4e9cbc79316f0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

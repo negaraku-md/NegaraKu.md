@@ -30,8 +30,9 @@ faq:
   - q: "உள்ளாட்சி ஏன் கூட்டாட்சி விவகாரம் அல்லாமல் மாநில விவகாரமாக உள்ளது?"
     a: "ஏனெனில் கூட்டாட்சி அரசியலமைப்பு உள்ளாட்சியை மாநிலப் பட்டியலில் (State List) வைக்கிறது (List II-இன் உருப்படி 4, Ninth Schedule). கொள்கையை ஒருமித்ததாக வைத்திருக்க, Article 95A ஒரு உள்ளாட்சிக்கான தேசிய மன்றத்தை அமைக்கிறது; இது கூட்டாட்சி மற்றும் மாநில அரசாங்கங்கள் இரண்டும் பின்பற்ற வேண்டிய தேசியக் கொள்கையை உருவாக்குகிறது."
 lang: "ta"
+sourceContentHash: "78de95ae401b9cbb"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "in-review"
 aiAssisted: true
 reviewer: null

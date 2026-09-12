@@ -30,8 +30,9 @@ faq:
     a: "LKM மூன்று ஆண்டுகளுக்கு மேல் புதுப்பிக்கப்படாமல் இருந்தால், புதுப்பித்தல் விண்ணப்பம் JPJ அலுவலகத்தில் செயலாக்கப்படுவதற்கு முன், B2 அறிக்கையைப் பெற வாகனத்தை Puspakom-இல் பரிசோதனைக்குக் கொண்டு வர வேண்டும் என JPJ கோருகிறது (அல்லது தனிநபர் சொந்தமான மோட்டார் சைக்கிள்களுக்கு குறிப்பாக PG10 பரிசோதனை)."
 
 lang: "ta"
+sourceContentHash: "20fe200c2e49f4f8"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

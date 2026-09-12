@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "மலேசிய வர்த்தக தலைப்புச்செய்திகளைப் படிக்கும் எவரும் — ஏற்றுமதியாளர்கள், இறக்குமதியாளர்கள், முதலீட்டாளர்கள் மற்றும் பகுப்பாய்வாளர்கள்."
 
 lang: "ta"
+sourceContentHash: "09facf393be3e0fa"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

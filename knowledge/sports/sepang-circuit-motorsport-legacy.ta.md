@@ -37,8 +37,9 @@ faq:
     a: "ஜெர்மன் பொறியாளர் Hermann Tilke இதை வடிவமைத்தார் — அவரது முதல் நோக்கத்திற்காக கட்டப்பட்ட Formula 1 சுற்றுப்பாதை. Grand Prix அமைப்பு 5.543 கிமீ நீளம், 15 திருப்பங்கள், தட அகலம் 16 முதல் 20 மீட்டர் வரை உள்ளது."
 
 lang: "ta"
+sourceContentHash: "a2a0e6bd77b78348"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

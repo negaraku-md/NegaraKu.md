@@ -29,8 +29,9 @@ faq:
     a: "இது LTAT மற்றும் Boustead குழுமத்திற்கான ஒரு மறுசீரமைப்புத் திட்டம் ஆகும்; LTAT வாரியத்தால் 2024 ஆகஸ்ட் 9 அன்று அங்கீகரிக்கப்பட்டு, 2024 டிசம்பர் 13 அன்று அமைச்சரவைக்கு அறிவிக்கப்பட்டது. கட்டாய விற்பனையைத் தவிர்த்துக்கொண்டே மூன்று ஆண்டுகளுக்குள் மூலோபாய சொத்து பங்குகளை 35% ஆகக் குறைப்பதை இது நோக்கமாகக் கொண்டுள்ளது."
 
 lang: "ta"
+sourceContentHash: "bc79a003d2567110"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

@@ -74,8 +74,9 @@ obligations:
     consequence: "Offence under reg 11(2)"
 
 lang: "ta"
+sourceContentHash: "2ae8b97b33a16a4f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

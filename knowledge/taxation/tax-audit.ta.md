@@ -57,8 +57,9 @@ obligations:
     consequence: "A 10% increase on the unpaid tax under s.103(5)"
 
 lang: "ta"
+sourceContentHash: "ec56f6d5e38c8e41"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

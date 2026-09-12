@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "மலேசியாவில் சட்ட ஆவணங்கள், செய்திகள் அல்லது நீதிமன்ற நடவடிக்கைகளைப் படிக்கும் எவரும், ‘mahkamah’ என்ற சொல்லின் பொருளையும் ஒவ்வொரு நிலையின் ஒப்பீட்டு நிலையையும் புரிந்து கொள்ள வேண்டியவர்கள்."
 
 lang: "ta"
+sourceContentHash: "1a30b6920b746dad"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

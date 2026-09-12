@@ -36,8 +36,9 @@ faq:
     a: "அரசர் (Ruler) இல்லாத நான்கு மாநிலங்கள் — Penang, Malacca, Sabah மற்றும் Sarawak — Eighth Schedule-இன் கீழ் ‘அரசருக்கு’ வழங்கப்பட்ட செயல்பாடுகளை, தத்தமது Yang di-Pertua Negeri மூலம் நிறைவேற்றுகின்றன; இவர் Article 160(2)-இல் வரையறுக்கப்பட்ட மாநிலத் தலைவர் (Head of State) ஆவார்."
 
 lang: "ta"
+sourceContentHash: "8431620b21e8ef56"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

@@ -34,8 +34,9 @@ faq:
     a: "Act (மூன்றாம்-தரப்பு) காப்பீடு சட்டப்பூர்வ குறைந்தபட்சமாகும், இது மூன்றாம்-தரப்பு காயம் அல்லது இறப்புக்கு மட்டுமே செலுத்துகிறது. மூன்றாம்-தரப்பு, தீ மற்றும் திருட்டு (third-party, fire and theft) உங்கள் சொந்தக் கார் எரிக்கப்பட்டால் அல்லது திருடப்பட்டால் காப்பீட்டைச் சேர்க்கிறது. விரிவான (comprehensive) காப்பீடு மிகப் பரந்ததாகும், உங்கள் சொந்த வாகனத்திற்கு ஏற்படும் தற்செயலான சேதத்திற்கும் செலுத்துகிறது."
 
 lang: "ta"
+sourceContentHash: "f3e95ab7db734acf"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

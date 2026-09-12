@@ -34,8 +34,9 @@ faq:
     a: "Section 34A(4)-இன் கீழ் பணிப்பாளர் நாயகம் காரணங்களை அளிக்க வேண்டும், ஆனால் நிராகரிப்பு என்பது அறிக்கையைத் திருத்தி ஒப்புதலுக்காக மீண்டும் சமர்ப்பிப்பதைத் தடை செய்யாது."
 
 lang: "ta"
+sourceContentHash: "7002da8fcfa27b67"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

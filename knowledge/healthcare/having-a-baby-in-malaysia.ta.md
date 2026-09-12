@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "மலேசியாவில் கர்ப்பமாக இருக்கும், கர்ப்பத்தைத் திட்டமிடும், அல்லது கர்ப்பகாலம் முழுவதும் ஒரு துணை அல்லது குடும்ப உறுப்பினருக்கு ஆதரவளிக்கும், மேலும் பொது கர்ப்பகால அமைப்பு, தனியார் பராமரிப்பு மற்றும் பிறப்புப் பதிவு எவ்வாறு ஒன்றாக இணைகின்றன என்பதைப் புரிந்துகொள்ள விரும்பும் எவரும்."
 
 lang: "ta"
+sourceContentHash: "8182db0933e495e5"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

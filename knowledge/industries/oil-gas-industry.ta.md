@@ -38,8 +38,9 @@ faq:
     a: "2024-இல், PETRONAS RM32.0 பில்லியன் ஈவுத்தொகை உள்ளிட்ட RM72.4 பில்லியனை ஈவுத்தொகைகள், வரிகள், பண கொடுப்பனவுகள் மற்றும் பிற உறுதிமொழிகளாகப் பங்களித்தது. இது துறையில் உள்ள மற்ற ஒப்பந்ததாரர்களும் சேவை நிறுவனங்களும் செலுத்தும் வரிகளுக்கு மேலதிகமானது."
 
 lang: "ta"
+sourceContentHash: "7404112e163ed546"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

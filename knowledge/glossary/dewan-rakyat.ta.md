@@ -27,8 +27,9 @@ verificationNeeded:
   - "Article 46(2)-இல் உள்ள மாநிலவாரி இருக்கைகளின் எண்ணிக்கை, எல்லை மறுவரையறையைத் தொடர்ந்து ஒரு அரசியலமைப்புத் திருத்தத்தின் மூலம் மாறலாம்; சமீபத்திய மறுபதிப்புக்கு எதிராகச் சரிபார்க்கவும்."
 
 lang: "ta"
+sourceContentHash: "9b43f0c692cc687d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

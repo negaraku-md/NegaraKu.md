@@ -32,8 +32,9 @@ faq:
     a: "இத்திட்டம் AI GDP-க்கு RM60 பில்லியனுக்கும் மேல் பங்களிக்கவும், 2030-க்குள் உலகளாவிய AI தயார்நிலையில் மலேசியாவை முதல் 20 நாடுகளுக்குள் நிறுத்தவும் இலக்கு கொண்டுள்ளது, இது 28 முன்முயற்சிகள் மூலம் வழங்கப்படுகிறது."
 
 lang: "ta"
+sourceContentHash: "74e6c6495db49c10"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

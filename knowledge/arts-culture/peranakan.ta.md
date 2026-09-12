@@ -18,8 +18,9 @@ keyTakeaways:
   - "Nyonya உடையின் மையமான kebaya, புரூணை, இந்தோனேசியா, மலேசியா, சிங்கப்பூர் மற்றும் தாய்லாந்து ஆகியவற்றின் கூட்டு நியமனத்தின் மூலம் 2024-இல் UNESCO-வின் அருவ பாரம்பரியப் பட்டியலில் பதிவு செய்யப்பட்டது"
 appliesTo: "Peranakan (Baba-Nyonya) யார் என்பது குறித்தும், மலாக்கா மற்றும் பினாங்கில் அவர்களின் உணவு, உடை மற்றும் பொருள்சார் பாரம்பரியத்தை எவ்வாறு அடையாளம் காண்பது என்பது குறித்தும் ஒரு உண்மைப்பூர்வமான, மரியாதைக்குரிய பொதுப்பார்வையை விரும்பும் எவருக்கும்."
 lang: "ta"
+sourceContentHash: "b8424f95164f1085"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "in-review"
 aiAssisted: true
 reviewer: null

@@ -31,8 +31,9 @@ faq:
     a: "Section 29(3), OKU-வின் திறன்களை நியாயமான முறையில் மதிப்பிடுவதன் மூலமும், பொருத்தமான பணியிடத்தை வழங்குவதன் மூலமும், சரியான வேலை மேலாண்மையின் மூலமும் நிலையான பணியமர்த்தலை ஊக்குவிக்க முதலாளியைக் கடமைப்படுத்துகிறது. OKU ஊழியர்களுக்காக வளாகத்தை மாற்றியமைக்கும் செலவும் Income Tax Act 1967-இன் paragraph 34(6)(e)-இன் கீழ் வரிக் கழிவுக்குத் தகுதியுடையது."
 
 lang: "ta"
+sourceContentHash: "66843e99ec6b43d1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

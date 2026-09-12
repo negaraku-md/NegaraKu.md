@@ -32,8 +32,9 @@ faq:
     a: "RENTAS (Real-Time Electronic Transfer of Funds and Securities) என்பது Bank Negara Malaysia-இன் நிகழ்நேர மொத்தத் தீர்வு அமைப்பு (real-time gross settlement system). அரசாங்கப் பத்திரங்கள் இதன் மூலம் வழங்கல்-எதிர்-கட்டணம் அடிப்படையில் தீர்க்கப்படுகின்றன, எனவே பணமும் பத்திரங்களும் ஒரே நேரத்தில் கைமாறுகின்றன."
 
 lang: "ta"
+sourceContentHash: "9da4da3090cd0bd6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

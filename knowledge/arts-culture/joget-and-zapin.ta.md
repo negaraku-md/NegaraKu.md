@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Joget மற்றும் Zapin என்ற இரண்டு தனித்தனி மலாய் நாட்டுப்புற நடனங்களுக்கு இடையேயான தோற்றம், இசை மற்றும் அசைவு வேறுபாடுகளைப் புரிந்துகொள்ள விரும்பும் எவருக்கும்."
 
 lang: "ta"
+sourceContentHash: "f85648fc29f5d316"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "in-review"
 aiAssisted: true
 reviewer: null

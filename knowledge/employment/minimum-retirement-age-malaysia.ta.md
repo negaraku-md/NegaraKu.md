@@ -34,8 +34,9 @@ faq:
     a: "இல்லை. இது அரசு ஊழியர்கள், பயிற்சியாளர்கள் (apprentice), சோதனைக் காலப் பணியாளர்கள் (probationer), வெளிநாட்டு ஊழியர்கள், வீட்டுப் பணியாளர்கள், பகுதிநேர ஊழியர்கள், தற்காலிக மாணவர்கள், மற்றும் சில நிலையான காலக்கெடு ஒப்பந்த ஊழியர்களுக்குப் பொருந்தாது."
 
 lang: "ta"
+sourceContentHash: "f2f42b17c86c3524"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

@@ -25,8 +25,9 @@ verificationNeeded:
   - "இந்தக் கட்டுரையில் உள்ள விளக்கமூட்டும் சரிசம நிலை எண்கள், வெளியிடப்பட்ட பட்டை அட்டவணையின் மீதான கணிதம், LHDN வெளியிட்ட ஒரு ஆரம்பநிலை (threshold) அல்ல; ஒவ்வொரு தம்பதியும் உண்மையில் கோரும் நிவாரணங்களுக்கு ஏற்ப அவை மாறுகின்றன"
 
 lang: "ta"
+sourceContentHash: "9439aef0bb0b111f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

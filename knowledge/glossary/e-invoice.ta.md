@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "e-Invoice இணக்கத்திற்குத் தயாராகும் அல்லது அதை நிர்வகிக்கும் வணிக உரிமையாளர்கள், கணக்காளர்கள் மற்றும் நிதிக் குழுக்கள்."
 
 lang: "ta"
+sourceContentHash: "12ea69b29867be13"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

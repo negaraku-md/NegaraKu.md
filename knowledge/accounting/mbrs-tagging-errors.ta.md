@@ -39,8 +39,9 @@ verificationNeeded:
   - "பொதுவாக விவரிக்கப்பட்ட எந்த விதியையும் நம்புவதற்கு முன், குறிப்பிட்ட நுழைவுப் புள்ளியின் சரிபார்ப்பு நடத்தையை அந்த நுழைவுப் புள்ளிக்கான mTool 2.2 பயனர் கையேட்டுடன் ஒப்பிட்டு உறுதிப்படுத்தவும்"
 
 lang: "ta"
+sourceContentHash: "4cbf1a047bbd3c22"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

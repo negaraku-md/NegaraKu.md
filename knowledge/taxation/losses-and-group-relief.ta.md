@@ -41,8 +41,9 @@ verificationNeeded:
   - "பொது YA2006 தளர்வுக்கு அப்பால், தனிப்பட்ட வழக்குகளில் s.44(5D) இன் கீழ் ஏதேனும் அமைச்சர் விலக்கு வழங்கப்பட்டுள்ளதா என்பதை உறுதிப்படுத்தவும்; பொது நிலைப்பாடு மட்டுமே வெளியிடப்பட்டுள்ளது"
 
 lang: "ta"
+sourceContentHash: "5db600f69d4d89ad"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

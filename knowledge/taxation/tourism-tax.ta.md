@@ -32,8 +32,9 @@ faq:
     a: "ஐந்து அல்லது அதற்கு மேற்பட்ட அறைகளை வாடகைக்கு விடும் நடத்துநர்கள் மட்டுமே பதிவு செய்து TTx வசூலிக்க வேண்டும். நான்கு அல்லது அதற்குக் குறைவான அறைகளைக் கொண்ட ஒரு நடத்துநர் பதிவு செய்யப் பொறுப்பல்ல."
 
 lang: "ta"
+sourceContentHash: "f102342b25c63a8e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

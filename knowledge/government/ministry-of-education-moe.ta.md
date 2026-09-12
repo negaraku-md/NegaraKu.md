@@ -28,8 +28,9 @@ faq:
   - q: "கல்வி அமைச்சின் வரவுசெலவுத் திட்டம் எவ்வளவு பெரியது?"
     a: "Budget 2026-இன் கீழ், KPM RM66.2 billion பெற்றது — எந்தவொரு கூட்டாட்சி அமைச்சையும்விட மிகப்பெரிய ஒதுக்கீடு — இது 2025-இல் இருந்த RM64.2 billion-ஐ விட அதிகம். இந்த ஒதுக்கீட்டில் 520-க்கும் மேற்பட்ட பாழடைந்த பள்ளிகளைப் புதுப்பிக்கவும் 38 புதிய பள்ளிகளைக் கட்டவும் கிட்டத்தட்ட RM2 billion அடங்கும்."
 lang: "ta"
+sourceContentHash: "4f75b1390b41bfeb"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "in-review"
 aiAssisted: true
 reviewer: null

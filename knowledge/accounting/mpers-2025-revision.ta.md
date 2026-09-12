@@ -38,8 +38,9 @@ faq:
     a: "2027 என்ற தேதி சுட்டிக்காட்டுவதைவிடக் குறைவு. பின்னோக்கிப் பயன்பாடு (retrospective application) என்பது ஒப்பீட்டுக் காலம் புதிய அடிப்படையில் தயாரிக்கப்பட வேண்டும் என்பதைக் குறிக்கிறது, எனவே December ஆண்டு முடிவைக் கொண்ட ஒரு நிறுவனம் 1 January 2026 முதல் MPERS (2025) தரவைப் பிடித்து வருகிறது. வருமான ஒப்பந்தங்களை மறு-பகுப்பாய்வு செய்ய வேண்டியிருந்தால், வேலை மாற்ற ஆண்டில் அல்ல, அதற்கு முன்பே தொடங்குகிறது."
 
 lang: "ta"
+sourceContentHash: "016de66c249cb162"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

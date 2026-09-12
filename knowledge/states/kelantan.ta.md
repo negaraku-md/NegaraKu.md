@@ -41,8 +41,9 @@ verificationNeeded:
   - "Dewan Undangan Negeri (மாநில சட்டமன்றம்) மற்றும் Parlimen (பாராளுமன்றம்) இட எண்ணிக்கை வேண்டுமென்றே குறிப்பிடப்படவில்லை; ஏனெனில் இந்த வரைவு தயாரிக்கப்பட்ட நேரத்தில் அதை அதிகாரப்பூர்வ SPR ஆதாரங்களுக்கு எதிராக உறுதிப்படுத்த முடியவில்லை."
 
 lang: "ta"
+sourceContentHash: "869286bde4f6fa80"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

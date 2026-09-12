@@ -36,8 +36,9 @@ verificationNeeded:
   - "ஒரு தொழிலாளர் முதலாளியின் பாதுகாப்புக் காவலுக்குச் சம்மதிக்கும் இடத்தில், Passports Act 1966-ன் s.12(1)(f)-ல் உள்ள without lawful authority என்ற சொற்கள் எவ்வாறு விளக்கப்படுகின்றன என்பதை உறுதிப்படுத்தவும் — இந்தப் புள்ளியில் எந்த வழக்குச் சட்டமும் அல்லது AGC வழிகாட்டுதலும் கண்டறிய முடியவில்லை"
 
 lang: ta
+sourceContentHash: "b59bcb20c9aa24c2"
 masterLanguage: en
-translationStatus: pending
+translationStatus: "in-sync"
 
 status: in-review
 aiAssisted: true

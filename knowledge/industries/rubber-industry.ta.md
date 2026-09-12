@@ -34,8 +34,9 @@ faq:
     a: "சீனாவே வெகுதொலைவில் மிகப்பெரிய இலக்கு, டிசம்பர் 2024-இல் இயற்கை-ரப்பர் ஏற்றுமதியில் சுமார் 49%-ஐ எடுத்துக்கொண்டது, அதைத் தொடர்ந்து ஜெர்மனி (12.9%), ஐக்கிய அரபு எமிரேட்ஸ் (7.3%), அமெரிக்கா மற்றும் போர்ச்சுகல்."
 
 lang: "ta"
+sourceContentHash: "8dca8d58fbcc1a41"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

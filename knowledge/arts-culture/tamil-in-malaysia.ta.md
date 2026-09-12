@@ -32,8 +32,9 @@ seoTitle: "மலேசியாவில் தமிழ்: பேசுநர
 socialTitle: "மலேசியாவில் தமிழ் எவ்வாறு பேசப்படுகிறது, கற்பிக்கப்படுகிறது, பாதுகாக்கப்படுகிறது"
 
 lang: "ta"
+sourceContentHash: "c45b4b0470d4ef3d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "in-review"
 aiAssisted: true
 reviewer: null

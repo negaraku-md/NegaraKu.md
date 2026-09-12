@@ -56,8 +56,9 @@ obligations:
     statute: "EPF Act 1991, Third Schedule Part F"
 
 lang: "ta"
+sourceContentHash: "45b24be5c0ffefb6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

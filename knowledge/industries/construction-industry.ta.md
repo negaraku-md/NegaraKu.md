@@ -34,8 +34,9 @@ faq:
     a: "NCP 2030 என்பது கட்டுமானத் தொழில் மாற்றத் திட்டம் (Construction Industry Transformation Programme, CITP) 2016–2020 நிறைவடைந்ததைத் தொடர்ந்து ICW 2021-இல் அறிமுகப்படுத்தப்பட்ட ஒரு கொள்கையாகும். இது 2030-க்குள் கட்டுமானத் துறையை டிஜிட்டல் யுகத்தை நோக்கி மாற்றுவதற்கான ஆறு மூலோபாய அச்சுகளை வகுக்கிறது, இதில் தொழில் சுழற்சியில் 50%-ஐ டிஜிட்டல்மயமாக்கும் இலக்கும் அடங்கும்."
 
 lang: "ta"
+sourceContentHash: "77fa6bf333c3fa74"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

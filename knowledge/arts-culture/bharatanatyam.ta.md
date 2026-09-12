@@ -32,8 +32,9 @@ seoTitle: "மலேசியாவில் பரதநாட்டியம�
 socialTitle: "தென்னிந்தியப் பாரம்பரிய நடனம் மலேசியாவில் எப்படி வேரூன்றியது"
 
 lang: "ta"
+sourceContentHash: "f61cd4f8304d521c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "in-review"
 aiAssisted: true
 reviewer: null

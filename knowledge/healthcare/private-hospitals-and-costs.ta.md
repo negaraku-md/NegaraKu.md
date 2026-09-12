@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "ஒரு தனியார் வசதியில் நிபுணர் ஆலோசனை அல்லது மருத்துவமனை சேர்க்கையை எதிர்கொள்ளும் மலேசியாவில் உள்ள எவரும் — நோயாளிகள், பராமரிப்பாளர்கள், மற்றும் முதலாளி வழங்கும் மருத்துவ அட்டைகள் அல்லது காப்பீட்டை நம்பியிருக்கும் ஊழியர்கள்."
 
 lang: "ta"
+sourceContentHash: "ae428a676e96d0c6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

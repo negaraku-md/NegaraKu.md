@@ -29,8 +29,9 @@ faq:
     a: "2024 டிசம்பர் 31 அன்று RM185.6 பில்லியன், RM169.8 பில்லியன் (2023) மற்றும் RM158.1 பில்லியன் (2022)-ஐ விட அதிகரித்துள்ளது."
 
 lang: "ta"
+sourceContentHash: "4489ae23d6537356"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

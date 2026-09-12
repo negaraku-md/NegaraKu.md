@@ -41,8 +41,9 @@ faq:
     a: "சரியான தேதி சர்ச்சைக்குரியது. சில பதிவுகள் தேசிய ஆளும் அமைப்பின் நிறுவலை 1926-இல் வைக்கின்றன, மற்றவை 1933-ஐக் குறிப்பிடுகின்றன — Singapore-ஐ தளமாகக் கொண்ட Football Association of Malaya, Malaya Cup-ஐ நடத்தும் பொறுப்பை ஏற்ற ஆண்டு. தெளிவாகவும் சரிபார்க்கக்கூடியதாகவும் இருப்பது இன்று அதன் பங்கு: தேசிய ஆளும் அமைப்பாக, AFC-இன் உறுப்பினராக, மற்றும் 1984-இல் AFF-இன் நிறுவனராக."
 
 lang: "ta"
+sourceContentHash: "ee9fdc30adb8894c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

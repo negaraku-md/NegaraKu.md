@@ -34,8 +34,9 @@ faq:
     a: "ஆம், சில கற்பிக்கப்படுகின்றன, கல்வி அமைச்சின் Pupil's Own Language (POL) திட்டத்தின் கீழ், பொதுவாக ஒரு தேர்வுப் பாடமாக. Kadazandusun 1997-ல் தொடங்கிய பயிற்சிச் சோதனையிலிருந்து சபா அரசாங்கப் பள்ளிகளில் கற்பிக்கப்படுகிறது, மேலும் Iban சரவாக் பள்ளிகளில் கற்பிக்கப்படுகிறது. கிடைப்பது தேவையையும், கொள்கையால் நிர்ணயிக்கப்பட்ட குறைந்தபட்ச வகுப்பு அளவை நிறைவேற்றுவதையும் சார்ந்துள்ளது."
 
 lang: "ta"
+sourceContentHash: "641d60c83d47ef35"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "in-review"
 aiAssisted: true
 reviewer: null

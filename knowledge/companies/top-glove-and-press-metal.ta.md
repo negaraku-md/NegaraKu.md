@@ -32,8 +32,9 @@ faq:
     a: "ஆம். இரண்டும் Bursa Malaysia-இன் Main Market-இல் வர்த்தகம் செய்யப்படுகின்றன. Top Glove கூடுதலாக Singapore Exchange-இன் Mainboard-இல் பட்டியலிடப்பட்டுள்ளது."
 
 lang: "ta"
+sourceContentHash: "a45b971c54bb5789"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

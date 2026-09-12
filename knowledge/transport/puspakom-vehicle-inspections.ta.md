@@ -34,8 +34,9 @@ faq:
     a: "செல்லுபடியாகும் சோதனை அறிக்கை இல்லாமல் JPJ வணிக வாகனத்தின் சாலை வரியைப் புதுப்பிக்காது; சோதனை இல்லாமல் இயங்கும் வாகனத்திற்கு JPJ அபராதம் (kompaun) அல்லது சம்மன் (saman) விதிக்கலாம்."
 
 lang: "ta"
+sourceContentHash: "6dfb76a4e260e0c1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

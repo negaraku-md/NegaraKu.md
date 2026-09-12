@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "gasing விளையாட்டு எப்படி விளையாடப்படுகிறது, gasing pangkah மற்றும் gasing uri இடையேயான வேறுபாடு, மேலும் கிழக்குக் கடற்கரை மரபுரிமையுடன் அதன் தொடர்பு ஆகியவற்றைப் புரிந்துகொள்ள விரும்பும் எவரும்."
 
 lang: "ta"
+sourceContentHash: "fc40c99c7c7666a6"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "in-review"
 aiAssisted: true
 reviewer: null

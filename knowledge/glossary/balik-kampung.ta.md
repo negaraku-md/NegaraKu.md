@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "பண்டிகைக் காலங்களில் நெடுஞ்சாலையைப் பயன்படுத்துவோர், பயணம் மற்றும் விடுமுறைத் திட்டமிடுவோர், சில்லறை விற்பனை மற்றும் போக்குவரத்து வணிகங்கள், மேலும் மலேசியாவின் மக்கள் நகர்வுப் பாணிகளைப் புரிந்துகொள்ள முயலும் எவருக்கும்."
 
 lang: "ta"
+sourceContentHash: "351c6944deba025a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

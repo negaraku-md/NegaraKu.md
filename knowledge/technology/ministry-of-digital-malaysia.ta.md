@@ -29,8 +29,9 @@ faq:
     a: "இரண்டு திணைக்களங்கள் (தேசிய டிஜிட்டல் திணைக்களம் மற்றும் தனிநபர் தரவு பாதுகாப்பு திணைக்களம்) மற்றும் நான்கு நிறுவனங்கள்: MDEC, CyberSecurity Malaysia, Digital Nasional Berhad மற்றும் MYNIC Berhad."
 
 lang: "ta"
+sourceContentHash: "8890a54407574604"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

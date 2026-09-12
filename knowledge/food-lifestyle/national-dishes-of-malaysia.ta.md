@@ -34,8 +34,9 @@ faq:
     a: "தேசிய பாரம்பரியத் திணைக்களத்தில் உள்ள பாரம்பரிய ஆணையர் (Heritage Commissioner), ஆண்டுதோறும் வெளியிடப்படும் பாரம்பரியப் பொருள்கள் அறிவிப்பு (Declaration of Heritage Objects) மூலம், Akta Warisan Kebangsaan 2005 [Akta 645] இன் subseksyen 49(1) இன் கீழ் உணவுகளை பாரம்பரியப் பொருள்களாக வர்த்தமானியில் வெளியிடுகிறார்."
 
 lang: "ta"
+sourceContentHash: "bdf1c88a62d4c6ac"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

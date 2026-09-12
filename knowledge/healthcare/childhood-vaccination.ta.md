@@ -25,8 +25,9 @@ verificationNeeded:
   - "கூடுதல்/விருப்பத் தடுப்பூசிகளின் விவரங்கள் (எடுத்துக்காட்டாக, கட்டணத்திற்கு வழங்கப்படும் கட்டாயமற்ற தடுப்பூசிகள்) எழுதப்பட்ட நேரத்தில் KKM-இன் அதிகாரப்பூர்வ மூலங்களில் உறுதிப்படுத்த முடியவில்லை, எனவே இக்கட்டுரையில் அவை குறிப்பாகக் கூறப்படவில்லை."
 
 lang: "ta"
+sourceContentHash: "e3c51524a621f167"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

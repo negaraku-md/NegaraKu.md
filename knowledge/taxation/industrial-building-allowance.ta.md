@@ -40,8 +40,9 @@ faq:
 verificationNeeded:
   - "paragraph 16 இன் கீழ் ஆண்டுக் கொடுப்பனவுக்கு முந்நூறில் மூன்று பங்கு அல்லாத ஒரு பின்னத்தை தற்போது ஏதேனும் வர்த்தமானி ஆணை நிர்ணயிக்கிறதா என்பது"
 lang: "ta"
+sourceContentHash: "4788a314694d11fc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

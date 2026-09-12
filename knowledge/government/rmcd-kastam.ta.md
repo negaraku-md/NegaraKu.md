@@ -36,8 +36,9 @@ verificationNeeded:
   - "MySST மற்றும் ezHS-ஐத் தாண்டிய போர்ட்டல் பட்டியல் (MyTTx, MyDLV, வரி முத்திரை அமைப்பு, MNTR) மேற்கோள் காட்டப்பட்ட RMCD பக்கத்திற்கு எதிராக உறுதிப்படுத்தப்படவில்லை; Customs Duties Order-இன் தற்போதைய பதிப்பும், ezHS-இல் உள்ள முன்னுரிமை FTA அட்டவணைகளின் எண்ணிக்கையும் இதேபோல் உறுதிப்படுத்தப்படாதவை, மேலும் அவை பண்பு ரீதியாக விவரிக்கப்பட்டுள்ளன"
 
 lang: "ta"
+sourceContentHash: "e8cda8bbe6ecdbc9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

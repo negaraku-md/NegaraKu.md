@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "ஒரு வழக்கமான மலேசிய வீட்டு பட்ஜெட் எவ்வாறு அமைக்கப்பட்டுள்ளது என்பதைப் புரிந்துகொள்ள முயலும் எவரும், அல்லது தேசிய வடிவத்துடன் தங்கள் சொந்த செலவை ஒப்பிட விரும்பும் எவரும்."
 
 lang: "ta"
+sourceContentHash: "4c5994da7bcbecd8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

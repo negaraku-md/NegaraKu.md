@@ -38,8 +38,9 @@ faq:
     a: "ASEAN செயலகம் Indonesia-வின் Jakarta-வில் அமைந்துள்ளது. இது ASEAN பொதுச்செயலாளரால் தலைமை தாங்கப்படுகிறது, தற்போது Cambodia-ஐச் சேர்ந்த Dr. Kao Kim Hourn."
 
 lang: "ta"
+sourceContentHash: "a6367ba8ba6baac1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

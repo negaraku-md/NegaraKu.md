@@ -34,8 +34,9 @@ faq:
     a: "மலேசிய புள்ளியியல் திணைக்களம் (DOSM) மாதாந்திர மற்றும் ஆண்டு உற்பத்தி புள்ளிவிவரங்கள் மற்றும் GDP தரவை வெளியிடுகிறது. மலேசிய முதலீட்டு மேம்பாட்டு ஆணையம் (MIDA) உற்பத்தி முதலீட்டை ஊக்குவித்து அங்கீகரிக்கிறது, அதே வேளையில் முதலீடு, வர்த்தகம் மற்றும் தொழில் அமைச்சு (Ministry of Investment, Trade and Industry, MITI) NIMP 2030-க்கு உரிமையாளராக உள்ளது."
 
 lang: "ta"
+sourceContentHash: "688fcd61cdea1a88"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

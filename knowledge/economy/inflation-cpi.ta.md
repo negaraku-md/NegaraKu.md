@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "மலேசியப் பணவீக்க அறிக்கையிடலைத் துல்லியமாகப் படிக்க முயலும் எவரும் — குடும்பங்கள், ஊதியத்தை நிர்ணயிக்கும் முதலாளிகள், மற்றும் பகுப்பாய்வாளர்கள்."
 
 lang: "ta"
+sourceContentHash: "32de1367e3faaa19"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

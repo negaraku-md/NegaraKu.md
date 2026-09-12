@@ -30,8 +30,9 @@ faq:
     a: "வீரர்களின் தகுதி மற்றும் குடியுரிமை (naturalisation) ஆவணங்களைப் போலியாக்கியது தொடர்பாக FIFA, FIFA ஒழுங்குநடவடிக்கை விதிமுறை (FIFA Disciplinary Code)-இன் Article 22-ஐக் குறிப்பிட்டது."
 
 lang: "ta"
+sourceContentHash: "1434e805293f8f32"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

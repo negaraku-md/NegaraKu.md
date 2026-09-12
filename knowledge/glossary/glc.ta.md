@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "முதலீட்டாளர்கள், வேலை தேடுவோர், பணிக்கான டெண்டரில் பங்கேற்கும் வழங்குநர்கள், மேலும் மலேசிய வணிகச் செய்திகளைப் படிக்கும் எவரும்."
 
 lang: "ta"
+sourceContentHash: "9155b753e9fc9969"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

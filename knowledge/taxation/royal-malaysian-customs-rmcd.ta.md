@@ -28,8 +28,9 @@ faq:
   - q: "தற்போது எந்த சேவை வரி விகிதம் பொருந்தும்?"
     a: "2024 மார்ச் 1 முதல் 8%, முன்பு இருந்த 6%-இலிருந்து உயர்ந்தது, ஆனால் உணவு மற்றும் பானம், வாகன நிறுத்தம், தளவாடம் மற்றும் தொலைத்தொடர்பு சேவைகள் தவிர, அவை 6%-இல் தொடர்கின்றன."
 lang: "ta"
+sourceContentHash: "e4e06f1218191c40"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "in-review"
 aiAssisted: true
 reviewer: null

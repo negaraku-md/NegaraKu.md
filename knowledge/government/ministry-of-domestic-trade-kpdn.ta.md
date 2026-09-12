@@ -27,8 +27,9 @@ faq:
   - q: "விலைகளைக் கட்டுப்படுத்த KPDN எந்தச் சட்டங்களைப் பயன்படுத்துகிறது?"
     a: "இது முக்கியமாக Control of Supplies Act 1961 மற்றும் Price Control and Anti-Profiteering Act 2011 ஆகியவற்றை நம்பியுள்ளது; இவை விலை உச்சவரம்புகளை நிர்ணயிக்கவும், விலைக் காட்சிப்படுத்தலைக் கோரவும், நியாயமற்ற உயர்லாபங்களுக்கு எதிராகச் செயல்படவும் அனுமதிக்கின்றன."
 lang: "ta"
+sourceContentHash: "bc54d858f6180b54"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "in-review"
 aiAssisted: true
 reviewer: null

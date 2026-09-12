@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "மலேசிய சட்டங்களைப் படிக்கும் அல்லது மேற்கோள் காட்டும் எவரும் — வழக்கறிஞர்கள், மாணவர்கள், வணிக உரிமையாளர்கள் மற்றும் ஆராய்ச்சியாளர்கள்."
 
 lang: "ta"
+sourceContentHash: "fcd52a1ed198449a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

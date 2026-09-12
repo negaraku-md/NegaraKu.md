@@ -57,8 +57,9 @@ obligations:
     consequence: "The deciding order stands, subject only to an extension granted by the High Court under para 34(7)"
 
 lang: "ta"
+sourceContentHash: "d2e991c87917fcac"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

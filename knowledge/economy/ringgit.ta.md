@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "மாற்று விகிதத்தால் பாதிக்கப்படும் எவரும் — இறக்குமதியாளர்கள், ஏற்றுமதியாளர்கள், பயணிகள், வெளிநாட்டில் படிக்கும் மாணவர்கள் மற்றும் முதலீட்டாளர்கள்."
 
 lang: "ta"
+sourceContentHash: "5c03f2bbac4e0dca"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

@@ -28,8 +28,9 @@ faq:
     a: "வரிவிதிக்கத்தக்க வருமானத்தின் ஒரு பகுதிக்கு அளிக்கப்படும் விலக்கு, தகுதியுள்ள விளிம்பு நிலை வயல்களுக்கான உண்மையான பெட்ரோலியம் வருமான வரி விகிதத்தை 38%-இலிருந்து சுமார் 25% ஆகக் குறைக்கிறது."
 
 lang: "ta"
+sourceContentHash: "e3d164ca38c307ff"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

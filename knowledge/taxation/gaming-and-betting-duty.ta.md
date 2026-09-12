@@ -29,8 +29,9 @@ faq:
     a: "RM2 மதிப்புள்ள Sports Toto பந்தயத்தில், 8% (16 sen) விளையாட்டு வரியாகவும் மேலும் 8% (14.72 sen) பந்தயக் குளம் வரியாகவும் கழிக்கப்படுகிறது; சுமார் 55% (RM1.10) பரிசுத் தொகையாக ஒதுக்கப்படுகிறது."
 
 lang: "ta"
+sourceContentHash: "156aadc5edee33a0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

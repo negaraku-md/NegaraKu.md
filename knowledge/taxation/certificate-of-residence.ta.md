@@ -37,8 +37,9 @@ verificationNeeded:
   - "விண்ணப்பத் தேதிக்குப் பிறகுதான் குடியிருப்புச் சோதனை பூர்த்தியாகும் ஒரு ஆண்டுக்கு குடியிருப்புச் சான்றிதழ் வழங்க முடியுமா என்பது LHDN பக்கத்தில் விவரிக்கப்படவில்லை"
 
 lang: "ta"
+sourceContentHash: "11fa9fda7774dfda"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

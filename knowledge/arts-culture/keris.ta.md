@@ -39,8 +39,9 @@ faq:
     a: "ஆம், ஆனால் திறமையான எம்பு (empu) களின் எண்ணிக்கை கடுமையாகக் குறைந்து வருகிறது, இது அறிவைக் கடத்துவதை கடினமாக்குகிறது. இந்த வீழ்ச்சியை கீரிஸின் நிலைத்தன்மைக்கான முக்கிய சவாலாக UNESCO பட்டியலிட்டுள்ளது."
 
 lang: "ta"
+sourceContentHash: "f542d42d76523ab4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

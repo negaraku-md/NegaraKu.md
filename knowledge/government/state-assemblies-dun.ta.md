@@ -24,8 +24,9 @@ keyTakeaways:
 appliesTo: "ஒரு மாநில சட்டமன்றம் (Dewan Undangan Negeri) அரசியலமைப்பின்படி எப்படி உருவாக்கப்படுகிறது, அது எவ்வளவு காலம் நீடிக்கிறது, மேலும் ஒரு மாநில மசோதா சட்டமாக மாற அதன் வழியாக எப்படிச் செல்கிறது என்பதை விவரிப்பு அடிப்படையில் புரிந்துகொள்ள வேண்டிய எவரும்."
 
 lang: "ta"
+sourceContentHash: "2a25e82c7f7bc759"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "இடம்பெயர்வதற்கு முன்பு, மலேசியாவின் வாழ்க்கைச் செலவை மேற்கத்திய சம்பளம் மற்றும் செலவு அடிப்படை நிலையுடன் எடைபோடும் வெளிநாட்டவர்கள், தொலைநிலைப் பணியாளர்கள் மற்றும் புதிதாக வருபவர்கள்."
 
 lang: "ta"
+sourceContentHash: "4843205b62ed2e41"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

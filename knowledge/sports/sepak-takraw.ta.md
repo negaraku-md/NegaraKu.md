@@ -34,8 +34,9 @@ faq:
     a: "மலேசியாவின் கடைசி King's Cup அணி regu பட்ட வெற்றி 1988-இல் நிகழ்ந்தது. 2024 வாக்கில், Nakhon Ratchasima-வில் தாய்லாந்திற்கு 0-2 என்ற கணக்கில் மலேசியா தோற்றபோது அந்தக் காத்திருப்பு சுமார் 36 ஆண்டுகளை எட்டியிருந்தது."
 
 lang: "ta"
+sourceContentHash: "a468b0e147901427"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "நிறுவன நிறுவனர்கள், கணக்காளர்கள் மற்றும் ஒரு நிறுவனத்தின் அமைப்புச் சட்டத்தையோ (constitution) நிதி அறிக்கைகளையோ படிக்கும் எவரும்."
 
 lang: "ta"
+sourceContentHash: "2025c24e85b0e3a8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

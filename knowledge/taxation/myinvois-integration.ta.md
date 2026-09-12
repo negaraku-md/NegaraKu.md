@@ -43,8 +43,9 @@ verificationNeeded:
   - "MyInvois Portal தொகுப்பு பதிவேற்ற விரிதாளில் ஏற்கப்படும் அதிகபட்ச வரிசைகளின் எண்ணிக்கை — LHDN ஒரு குறிப்பிட்ட எண்ணிக்கையை விவரிக்கிறது, ஆனால் அதைக் கூறவில்லை"
 
 lang: "ta"
+sourceContentHash: "12fac171732261f3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

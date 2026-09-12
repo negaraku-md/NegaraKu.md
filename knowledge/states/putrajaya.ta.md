@@ -38,8 +38,9 @@ verificationNeeded:
   - "பிரெசின்ட்களின் எண்ணிக்கை (20) மற்றும் 4,931 ஹெக்டேர் பரப்பளவு எண்ணிக்கையை Perbadanan Putrajaya இன் சமீபத்திய அதிகாரப்பூர்வ வெளியீட்டுடன் ஒப்பிட்டு உறுதிப்படுத்தவும் — 2017 ஆண்டு வருடாந்திர அறிக்கை ஒரு காலத்தில் வேறுபட்ட பரப்பளவு எண்ணிக்கையைப் பதிவு செய்திருந்தது."
 
 lang: "ta"
+sourceContentHash: "7ed3eafee80e71c1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

@@ -81,8 +81,9 @@ obligations:
     consequence: "Representations filed out of time cannot be entertained"
 
 lang: "ta"
+sourceContentHash: "d80998453b1bb373"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

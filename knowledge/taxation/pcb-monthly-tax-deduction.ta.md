@@ -39,8 +39,9 @@ verificationNeeded:
   - "குடியுரிமையற்ற (non-resident) ஊழியருக்குப் பயன்படுத்தப்படும் PCB கழிவு விகிதம், அடிப்படைக் கட்டணத்தின் விஷயமாக மட்டுமல்லாமல், MTD Rules-இன் விஷயமாகவும் Schedule 1 Part I para 1A சீரான விகிதம் (flat rate) என்பதை உறுதிப்படுத்தவும்"
 
 lang: "ta"
+sourceContentHash: "8996f0535326898f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

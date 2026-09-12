@@ -49,8 +49,9 @@ obligations:
     consequence: "The pass is not issued or extended"
 
 lang: "ta"
+sourceContentHash: "0112f2d641d155c5"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

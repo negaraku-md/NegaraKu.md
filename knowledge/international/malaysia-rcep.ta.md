@@ -33,8 +33,9 @@ faq:
     a: "இல்லை. RCEP-உம் CPTPP-உம் வெவ்வேறு உறுப்பினர்களையும் விதிகளையும் கொண்ட தனித்தனி ஒப்பந்தங்கள். மலேசியா RCEP-இன் கட்சிக்காரர்; இரண்டும் பல உறுப்பினர்களில் ஒன்றிணைந்தாலும் தனித்தனியாகப் பேச்சுவார்த்தை நடத்தப்படுகின்றன."
 
 lang: "ta"
+sourceContentHash: "f7e0957c6988f3a8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

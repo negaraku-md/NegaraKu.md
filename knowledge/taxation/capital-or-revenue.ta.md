@@ -41,8 +41,9 @@ verificationNeeded:
   - "வர்த்தக அடையாளங்கள் தொடர்பான எந்த மலேசிய வழக்கு அதிகாரமும் எந்த அதிகாரப்பூர்வ LHDN ஆவணத்திலும் மேற்கோள் காட்டப்பட்டதாகக் கண்டறியப்படவில்லை, எனவே இந்தப் பக்கத்தில் எந்த வழக்குச் சட்டமும் கூறப்படவில்லை"
 
 lang: "ta"
+sourceContentHash: "916f828ed466fba0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

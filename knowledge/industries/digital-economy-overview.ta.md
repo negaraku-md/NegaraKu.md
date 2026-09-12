@@ -37,8 +37,9 @@ faq:
     a: "DE Rantau என்பது மலேசியாவை ASEAN-இல் டிஜிட்டல்-நாடோடி மையமாக மாற்றுவதற்கான Malaysia Digital ஊக்கிச் செயல்திட்டம் ஆகும். இது 12 மாதங்கள் வரை செல்லுபடியாகும், புதுப்பிக்கத்தக்க Malaysia Digital Nomad Pass ஐ வழங்குகிறது."
 
 lang: "ta"
+sourceContentHash: "bfede7bb53cd6174"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

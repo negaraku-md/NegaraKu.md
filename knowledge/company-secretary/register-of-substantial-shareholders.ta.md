@@ -34,8 +34,9 @@ faq:
     a: "ஒரு குற்றம், தண்டனை விதிக்கப்படும்போது RM1 மில்லியனுக்கு மிகாத அபராதம், மேலும் தண்டனைக்குப் பிறகு அந்தக் குற்றம் தொடரும் ஒவ்வொரு நாளுக்கும் RM1,000 வரை மேலதிக அபராதம் (section 137, sections 138 மற்றும் 139இல் இணையான குற்றங்களுடன்)."
 
 lang: "ta"
+sourceContentHash: "608e7ade88de1522"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

@@ -34,8 +34,9 @@ faq:
     a: "தனியார் பல்கலைக்கழகங்களும் பொதுவாக ஆங்கில மொழித் திறனுக்கான சான்றைக் கோருகின்றன. உள்ளூர் மாணவர்கள் பொதுவாக MUET முடிவுகளைச் சமர்ப்பிக்கிறார்கள், அதேசமயம் திட்டம் மற்றும் நிறுவனத்தைப் பொறுத்து IELTS அல்லது TOEFL போன்ற சமமான தகுதிகள் ஏற்கப்படலாம்."
 
 lang: "ta"
+sourceContentHash: "06e545a5dcaf1477"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

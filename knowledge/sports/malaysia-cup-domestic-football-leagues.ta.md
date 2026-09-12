@@ -31,8 +31,9 @@ faq:
     a: "MFL நாட்காட்டியை AFC வடிவமைப்புடன் இணைய மாற்றியது. புதிய சீசன் மே 2024-இல் தொடங்கி ஏப்ரல் 2025-இல் முடிந்தது, AFC ஆசியக் கோப்பை, 2026 உலகக் கோப்பை தகுதிச் சுற்று, மற்றும் ரமலான் மாதத்தைக் கருத்தில் கொண்டு."
 
 lang: "ta"
+sourceContentHash: "fdb11bb0fa6c116e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

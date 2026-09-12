@@ -37,8 +37,9 @@ faq:
     a: "Zii Jia 13 வயதிலிருந்து ஏறக்குறைய ஒரு தசாப்தம் அந்த அமைப்புடன் இருந்த பிறகு, சுயேச்சை வீரராக மாற 2022 ஜனவரியில் BAMஇல் இருந்து பதவி விலகினார். அவர் தனது பயிற்சி மற்றும் தரவரிசையை மேம்படுத்துவதில் கவனம் செலுத்த விரும்பினார், மேலும் தேசிய வீரராக இருந்தாலும் சுயேச்சை வீரராக இருந்தாலும் அவர்கள் Jalur Gemilangஐயே பறக்கவிடுகிறார்கள் என வலியுறுத்தினார்."
 
 lang: "ta"
+sourceContentHash: "a0c4b7207a1ac775"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

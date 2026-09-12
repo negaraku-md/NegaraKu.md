@@ -32,8 +32,9 @@ faq:
     a: "கட்டுமானத்திற்கு அதன் முதன்மை வெளிநாட்டுச் சந்தைகள் ஆஸ்திரேலியா மற்றும் தைவான்; சொத்துக்கு வியட்நாம் (Vietnam), UK, Singapore மற்றும் ஆஸ்திரேலியா ஆகும்."
 
 lang: "ta"
+sourceContentHash: "09f7639abce305e2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

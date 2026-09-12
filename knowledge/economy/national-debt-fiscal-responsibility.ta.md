@@ -31,8 +31,9 @@ faq:
     a: "நேரடியாக இல்லை. நிதி உத்தரவாதங்கள் என்பவை தற்செயல் பொறுப்புகள்; அவை நிறைவேற்றப்பட்டால் மட்டுமே கடனாக மாறுகின்றன. Akta 850 நிதி உத்தரவாதங்களை GDP-யில் 25% ஆக வரம்பிடுகிறது, மேலும் இந்த வெளிப்பாட்டை அம்பலப்படுத்த வருடாந்திர நிதி ஆபத்து அறிக்கையை கட்டாயமாக்குகிறது."
 
 lang: "ta"
+sourceContentHash: "1dc4f0df2320f2a8"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

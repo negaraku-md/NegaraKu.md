@@ -30,8 +30,9 @@ faq:
     a: "ஒரு முழு நாட்காட்டி ஆண்டு, 1 January முதல் 31 December வரை. Philippines 1 January 2026 அன்று மலேசியாவிடமிருந்து பொறுப்பேற்கிறது."
 
 lang: "ta"
+sourceContentHash: "be6127ce5cca4347"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

@@ -37,8 +37,9 @@ faq:
     a: "ஒரு உறுப்பு வங்கி வீழ்ச்சியடைந்தால், PIDM தகுதியான வைப்பாளர்களுக்கு RM250,000 வரம்பு வரை திருப்பிச் செலுத்துகிறது. ஒரு காப்பீட்டாளர் உறுப்பினர் வீழ்ச்சியடைந்தால், PIDM உங்கள் பாதுகாப்பின் தொடர்ச்சியை ஏற்பாடு செய்கிறது அல்லது பொருந்தும் வரம்பு வரை பாதுகாக்கப்பட்ட நலன்களைச் செலுத்துகிறது."
 
 lang: "ta"
+sourceContentHash: "6dadc68b3f5258f8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

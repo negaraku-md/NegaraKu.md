@@ -33,8 +33,9 @@ faq:
     a: "இல்லை. ஒரு e-Ansuran விண்ணப்பத்தை ரத்து செய்வது ஒரு LHDN (HASiL) அலுவலகத்தில் நேரில் மட்டுமே செய்ய முடியும் என்று LHDN கூறுகிறது — அதைப் போர்ட்டல் வழியாகச் செய்ய முடியாது. விண்ணப்பமே ஆன்லைனில் உள்ளது, அனுமதி தானியங்கியானது, ஆனால் அதை மாற்றுவது அல்லது ரத்து செய்வது ஒரு கிளை விவகாரம்."
 
 lang: "ta"
+sourceContentHash: "f73e04ba5e0d7818"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

@@ -25,8 +25,9 @@ faq:
   - q: "FSA 2013-க்கும் IFSA 2013-க்கும் இடையிலான வேறுபாடு என்ன?"
     a: "FSA (Act 758) வழக்கமான நிதி நிறுவனங்கள் மற்றும் சந்தைகளை ஒழுங்குபடுத்துகிறது, அதே நேரத்தில் Islamic Financial Services Act 2013 (IFSA) என்பது அதன் ஷரியா-இணக்கமான இணையாகும். இரண்டும் 30 June 2013 அன்று நடைமுறைக்கு வந்தன; வழக்கமான சட்டங்கள் (Banking and Financial Institutions Act 1989 மற்றும் Insurance Act 1996 போன்றவை) FSA-இன் கீழ் ரத்துசெய்யப்பட்டன, அதே நேரத்தில் Islamic Banking Act 1983 மற்றும் Takaful Act 1984 IFSA-இன் கீழ் ரத்துசெய்யப்பட்டன."
 lang: "ta"
+sourceContentHash: "fd80ff13fe1dede7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "in-review"
 aiAssisted: true
 reviewer: null

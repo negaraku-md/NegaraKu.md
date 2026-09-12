@@ -26,8 +26,9 @@ verificationNeeded:
   - "Johor Bahru-க்கே உரிய அதிகாரப்பூர்வ வாடகைக் குறியீடு எதுவும் கண்டறியப்படவில்லை; Singapore-தொடர்பான தேவையால் ஏற்படும் வாடகை அழுத்தம் பற்றிய கூற்றுகள் தரம்சார்ந்தவை, வெளியிடப்பட்ட எண்ணிக்கையால் ஆதரிக்கப்படவில்லை."
 
 lang: "ta"
+sourceContentHash: "8dc6ca7c0ae8183c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

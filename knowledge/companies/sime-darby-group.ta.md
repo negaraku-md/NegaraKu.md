@@ -29,8 +29,9 @@ faq:
     a: "மலேசிய அரச முதலீட்டு நிதியான Permodalan Nasional Berhad (PNB) Sime Darby நிறுவனங்கள் அனைத்திலும் ஒரு முக்கிய பங்குதாரராக உள்ளது, மேலும் Sime Darby Berhad கையகப்படுத்திய UMW பங்கை விற்றவரும் PNB-தான். சரியான பங்கு வைத்திருப்பு சதவீதங்கள் காலப்போக்கில் மாறுகின்றன, அவற்றை ஒவ்வொரு நிறுவனத்தின் சமீபத்திய Bursa Malaysia பதிவுகளுக்கு எதிராகச் சரிபார்க்க வேண்டும்."
 
 lang: "ta"
+sourceContentHash: "b6cfb2928f3fa4fa"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

@@ -25,8 +25,9 @@ faq:
   - q: "e-LKM என்றால் என்ன?"
     a: "e-LKM என்பது JPJ 2023 முதல் அறிமுகப்படுத்திய டிஜிட்டல் மோட்டார்-வாகன உரிமம் (டிஜிட்டல் சாலை வரி) ஆகும்; இது உடல்ரீதியான ஸ்டிக்கரை மாற்றுகிறது. இது MyJPJ செயலி அல்லது MySIKAP போர்ட்டல் வழியாக அணுகப்படுகிறது."
 lang: "ta"
+sourceContentHash: "5feaacc87ec61a6a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "in-review"
 aiAssisted: true
 reviewer: null

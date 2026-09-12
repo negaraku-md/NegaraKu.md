@@ -41,8 +41,9 @@ verificationNeeded:
   - "MASB வெளியிட்ட தரநிலைக்கு எதிராக, தற்போதைய MFRS 124 வெளிப்படுத்தல் தேவைகளையும், தொடர்புடைய நிதியாண்டுக்கு அமலுக்கு வந்த எந்த திருத்தங்களையும் உறுதிப்படுத்தவும்"
 
 lang: "ta"
+sourceContentHash: "cc898ee41c4b1308"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true

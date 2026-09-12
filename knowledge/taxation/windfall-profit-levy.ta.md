@@ -31,8 +31,9 @@ faq:
     a: "இல்லை. சிறுதோட்டக்காரர்கள் விலக்கு அளிக்கப்பட்டுள்ளனர், மேலும் 2023 Order ஆனது 40.46 ஹெக்டேர் (100 ஏக்கர்) குறையாத எண்ணெய்ப் பனை நிலப்பரப்புகளுக்கு மட்டுமே பொருந்தும்; குழு குடியேற்றப் பகுதிகளில் (group settlement areas) உள்ள நிலப்பரப்புகளும் விலக்கப்பட்டுள்ளன."
 
 lang: "ta"
+sourceContentHash: "90a5c1941df77b25"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "in-review"
 aiAssisted: true
