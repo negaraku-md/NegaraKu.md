@@ -43,3 +43,4 @@ __pycache__/
 # internal design/spec drafts — local-only, never commit/push
 docs/LIFECYCLE-AND-CONTRIBUTION-SPEC.md
 docs/READER-CONTRIBUTOR-VIEW-SPEC.md
+docs/TA-PIPELINE-RUNBOOK.md
