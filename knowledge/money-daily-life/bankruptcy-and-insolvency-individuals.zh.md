@@ -30,9 +30,9 @@ faq:
     a: "破产是依据《1967年无力偿债法令》进行的法院程序。AKPK的DMP则是马来西亚国家银行属下机构推行的计划，由个人自愿参加（并非法院命令）以重组债务；根据国家银行，AKPK的服务免费提供。DMP不向已被宣告破产的个人开放。"
 
 lang: "zh"
-sourceContentHash: "b35a463c35b4580d"
+sourceContentHash: "983be781bc1d2223"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

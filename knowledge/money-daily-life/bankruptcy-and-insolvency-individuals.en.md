@@ -30,9 +30,9 @@ faq:
     a: "Bankruptcy is a court proceeding under the Insolvency Act 1967. AKPK's DMP, on the other hand, is a programme under an agency of Bank Negara Malaysia that is joined optionally (not by court order) to restructure debts; according to BNM, AKPK's services are provided free of charge. The DMP is not open to individuals who have already been declared bankrupt."
 
 lang: "en"
-sourceContentHash: "b35a463c35b4580d"
+sourceContentHash: "983be781bc1d2223"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
