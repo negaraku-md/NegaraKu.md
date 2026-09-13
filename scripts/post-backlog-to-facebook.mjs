@@ -66,16 +66,19 @@ const PROMPT = {
     ms: 'Ingin memahami Malaysia dengan lebih mendalam?',
     en: 'Want to understand Malaysia better?',
     zh: '想更深入了解马来西亚吗？',
+    ta: 'மலேசியாவை இன்னும் ஆழமாகப் புரிந்துகொள்ள விரும்புகிறீர்களா?',
   },
   'living': {
     ms: 'Tinggal, bekerja atau belajar di Malaysia?',
     en: 'Living, working or studying in Malaysia?',
     zh: '在马来西亚生活、工作或求学吗？',
+    ta: 'மலேசியாவில் வாழ்கிறீர்களா, வேலை செய்கிறீர்களா அல்லது படிக்கிறீர்களா?',
   },
   'doing-business': {
     ms: 'Memulakan atau mengembangkan perniagaan di Malaysia?',
     en: 'Starting or growing a business in Malaysia?',
     zh: '在马来西亚创业或拓展业务吗？',
+    ta: 'மலேசியாவில் வணிகத்தைத் தொடங்குகிறீர்களா அல்லது வளர்க்கிறீர்களா?',
   },
 };
 // Caption mode: precedes the tappable link on line 2. Comment mode: points to
@@ -84,11 +87,13 @@ const CTA_CAPTION = {
   ms: '🔗 Baca panduan penuh:',
   en: '🔗 Read the full guide:',
   zh: '🔗 阅读完整指南：',
+  ta: '🔗 முழு வழிகாட்டியைப் படியுங்கள்:',
 };
 const CTA_COMMENT = {
   ms: '🔗 Panduan penuh dalam komen pertama 👇',
   en: '🔗 Full guide in the first comment 👇',
   zh: '🔗 完整指南见首条评论 👇',
+  ta: '🔗 முழு வழிகாட்டி முதல் கருத்தில் 👇',
 };
 // Prefixed to the title so it stands out above the caption (FB text can't be
 // bold). Matches the per-publish poster's 📌. Set to '' to drop it.

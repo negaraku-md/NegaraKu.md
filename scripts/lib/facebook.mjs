@@ -11,7 +11,7 @@ import { fileURLToPath } from 'node:url';
 import matter from 'gray-matter';
 
 export const GRAPH = 'https://graph.facebook.com/v21.0';
-export const LANGS = ['ms', 'en', 'zh']; // ms at "/", en at "/en", zh at "/zh"
+export const LANGS = ['ms', 'en', 'zh', 'ta']; // ms at "/", en at "/en", zh at "/zh", ta at "/ta"
 
 // One Facebook Page PER language. Page IDs are PUBLIC (they appear in each Page's
 // URL), so they live here rather than in secrets; override with FB_PAGE_ID_<LANG>
@@ -23,12 +23,13 @@ export const PAGES = {
   ms: process.env.FB_PAGE_ID_MS || process.env.FB_PAGE_ID || '1227711683752433',
   en: process.env.FB_PAGE_ID_EN || '1334373156431426',
   zh: process.env.FB_PAGE_ID_ZH || '1382294921622880',
-  // Roadmap Pages (Tamil/Japanese/Korean) — created 2026-09-11. Recorded here so
-  // the ids aren't lost, but ta/ja/ko are NOT yet in LANGS (above), so the poster
-  // never touches them until (1) that language has PUBLISHED content and (2) the
-  // Page is assigned to the "NegaraKu Poster" system user so FB_PAGE_ACCESS_TOKEN
-  // can mint its page token. Activate a language by adding it to LANGS.
+  // ta ACTIVATED 2026-09-13 — Tamil is a full public language (1073 published
+  // articles at /ta) and its Page is assigned to the "NegaraKu Poster" system user,
+  // so it's in LANGS above and posts like ms/en/zh.
   ta: process.env.FB_PAGE_ID_TA || '1317515884777917',
+  // ja/ko Pages exist + are assigned to the system user, but are NOT in LANGS: those
+  // languages have no PUBLISHED content / no /ja /ko routes yet, so there is nothing
+  // to post. Activate each by adding it to LANGS once its corpus ships.
   ja: process.env.FB_PAGE_ID_JA || '1234264816444540',
   ko: process.env.FB_PAGE_ID_KO || '1308994995630346',
 };
@@ -46,7 +47,7 @@ export function articleBases(files) {
     const p = f.replace(/\\/g, '/');
     if (!p.startsWith('knowledge/') || !p.endsWith('.md')) continue;
     if (p.startsWith('knowledge/about/')) continue;
-    bases.add(p.replace(/\.(ms|en|zh)\.md$/, '').replace(/\.md$/, ''));
+    bases.add(p.replace(/\.(ms|en|zh|ta)\.md$/, '').replace(/\.md$/, ''));
   }
   return [...bases];
 }
@@ -108,9 +109,9 @@ function catNameMap() {
       path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../../src/lib/categories.ts'),
       'utf8',
     );
-    const re = /id:\s*'([^']+)'(?:(?!id:\s*')[\s\S])*?name:\s*\{\s*ms:\s*'([^']*)',\s*en:\s*'([^']*)',\s*zh:\s*'([^']*)'/g;
+    const re = /id:\s*'([^']+)'(?:(?!id:\s*')[\s\S])*?name:\s*\{\s*ms:\s*'([^']*)',\s*en:\s*'([^']*)',\s*zh:\s*'([^']*)'(?:\s*,\s*ta:\s*'([^']*)')?/g;
     let m;
-    while ((m = re.exec(src))) _catNames[m[1]] = { ms: m[2], en: m[3], zh: m[4] };
+    while ((m = re.exec(src))) _catNames[m[1]] = { ms: m[2], en: m[3], zh: m[4], ta: m[5] || '' };
   } catch { /* graceful — no localized names, category tag is skipped */ }
   return _catNames;
 }
@@ -127,7 +128,9 @@ export function categoryName(cat, lang = 'en') {
 export function hashtag(s) {
   const t = String(s)
     .replace(/^#/, '')
-    .replace(/[^\p{L}\p{N}]+/gu, ' ')
+    // Keep letters, numbers AND combining marks (\p{M}) — Tamil/Indic vowel signs
+    // are marks; dropping them corrupts the word (வணிகம் → வணகம). Latin/CJK have none.
+    .replace(/[^\p{L}\p{N}\p{M}]+/gu, ' ')
     .trim()
     .split(' ')
     .filter(Boolean)
@@ -146,7 +149,9 @@ export function keywordTag(kw) {
   return t.length <= 25 ? t : '';
 }
 
-const COUNTRY_TAG = { en: '#Malaysia', ms: '#Malaysia', zh: '#马来西亚' };
+const COUNTRY_TAG = { en: '#Malaysia', ms: '#Malaysia', zh: '#马来西亚', ta: '#மலேசியா' };
+// Tamil block U+0B80–U+0BFF — used so ta posts keep only Tamil-script (or numeric) tags.
+const hasTamil = (s) => /[஀-௿]/.test(String(s));
 const hasCJK = (s) => /[㐀-鿿豈-﫿぀-ヿ]/.test(String(s));
 
 // The hashtag line for an article, IN THE POST'S LANGUAGE. Leads with a
@@ -157,7 +162,11 @@ const hasCJK = (s) => /[㐀-鿿豈-﫿぀-ヿ]/.test(String(s));
 // be in the post's script (CJK for zh, Latin for ms/en), so English generic
 // tags don't leak onto a Malay or Chinese post. Capped so the line stays tidy.
 export function hashtags(data, lang = 'en') {
-  const okForLang = (t) => /\d/.test(t) || (lang === 'zh' ? hasCJK(t) : !hasCJK(t));
+  const okForLang = (t) =>
+    /\d/.test(t) || // a numeric reference (e.g. "#Act777") is language-neutral
+    (lang === 'zh' ? hasCJK(t)
+      : lang === 'ta' ? hasTamil(t) // ta posts: Tamil-script tags only
+        : !hasCJK(t) && !hasTamil(t)); // ms/en: Latin only (no CJK/Tamil leak)
   const out = [COUNTRY_TAG[lang] || '#Malaysia', '#NegaraKu'];
   const catName = categoryName(data.category, lang);
   if (catName) { const t = hashtag(catName); if (t && !out.includes(t)) out.push(t); }
