@@ -3,7 +3,7 @@ import BaseLayout from '@/layouts/BaseLayout.astro';
 const locale = 'ms';
 ---
 
-<BaseLayout locale={locale} title="404" description="Halaman tidak dijumpai · Page not found · 页面未找到" path="/404">
+<BaseLayout locale={locale} title="404" description="Halaman tidak dijumpai · Page not found · 页面未找到 · பக்கம் கிடைக்கவில்லை" path="/404">
   <section class="container notfound">
     <p class="big">404</p>
     <h1 id="nf-title">Halaman tidak dijumpai</h1>
@@ -19,7 +19,7 @@ const locale = 'ms';
   // the home link and <html lang> client-side.
   (() => {
     const seg = location.pathname.split('/').filter(Boolean)[0];
-    const loc = seg === 'en' || seg === 'zh' ? seg : 'ms';
+    const loc = seg === 'en' || seg === 'zh' || seg === 'ta' ? seg : 'ms';
     if (loc === 'ms') return; // already correct
     const T = {
       en: {
@@ -35,6 +35,13 @@ const locale = 'ms';
         home: '返回首页',
         href: '/zh',
         lang: 'zh-Hans',
+      },
+      ta: {
+        title: 'பக்கம் கிடைக்கவில்லை',
+        desc: 'மன்னிக்கவும், நீங்கள் தேடும் உள்ளடக்கம் இங்கே இல்லை.',
+        home: 'முகப்புக்குத் திரும்பு',
+        href: '/ta',
+        lang: 'ta',
       },
     }[loc];
     document.documentElement.lang = T.lang;

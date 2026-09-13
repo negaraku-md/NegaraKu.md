@@ -25,6 +25,9 @@ type Row = {
   what: string;
   trigger: string;
   withinDays?: number;
+  dueDay?: number;
+  direction?: 'before' | 'after';
+  event?: string;
   due: string;
   authority: string;
   statute?: string;
@@ -97,7 +100,7 @@ for (const r of rows) {
 const unique = [...byDuty.values()];
 
 // Order by urgency: soonest deadline first, ongoing duties last.
-const order = { incorporation: 0, anniversary: 1, change: 2, 'financial-year-end': 3, ongoing: 4 };
+const order = { incorporation: 0, monthly: 1, event: 2, anniversary: 3, change: 4, 'financial-year-end': 5, ongoing: 6 };
 unique.sort((a, b) => {
   const t = (order[a.trigger as keyof typeof order] ?? 9) - (order[b.trigger as keyof typeof order] ?? 9);
   return t !== 0 ? t : (a.withinDays ?? 999) - (b.withinDays ?? 999);
@@ -105,11 +108,24 @@ unique.sort((a, b) => {
 
 const triggerLabel: Record<string, string> = {
   incorporation: L('Selepas penubuhan', 'After incorporation', '公司成立后', 'நிறுவனப் பதிவுக்குப் பிறகு'),
+  monthly: L('Setiap bulan', 'Every month', '每月', 'ஒவ்வொரு மாதமும்'),
+  event: L('Selepas sesuatu peristiwa', 'After an event', '事件发生后', 'ஒரு நிகழ்வுக்குப் பிறகு'),
   anniversary: L('Setiap ulang tahun', 'Every anniversary', '每年周年', 'ஒவ்வொரு ஆண்டு நிறைவிலும்'),
   change: L('Apabila berlaku perubahan', 'When something changes', '发生变动时', 'ஏதேனும் மாறும்போது'),
   'financial-year-end': L('Akhir tahun kewangan', 'Financial year end', '财政年结', 'நிதியாண்டு இறுதி'),
   ongoing: L('Berterusan', 'Ongoing', '持续义务', 'தொடர்ச்சியான'),
 };
+
+// Localized strings the client script needs for threshold applicability results
+// (the script is plain JS, so it can't call L() — it reads this serialized dict).
+const ccMsg = {
+  applies: L('Berkenaan dengan anda', 'Applies to you', '对你适用', 'உங்களுக்குப் பொருந்தும்'),
+  below: L('Bawah ambang — tidak berkenaan', 'Below threshold — does not apply', '未达门槛 — 不适用', 'வரம்புக்குக் கீழ் — பொருந்தாது'),
+  exempt: L('Dikecualikan — anda layak', 'Exempt — you qualify', '可豁免 — 你符合资格', 'விலக்கு — நீங்கள் தகுதி'),
+  notExempt: L('Tidak dikecualikan — diperlukan', 'Not exempt — required', '不豁免 — 需履行', 'விலக்கு இல்லை — தேவை'),
+  needSize: L('Isi saiz syarikat di atas', 'Enter your company size above', '请在上方填写公司规模', 'மேலே நிறுவன அளவை உள்ளிடுங்கள்'),
+};
+
 const groups = [...new Set(unique.map((r) => r.trigger))];
 ---
 
@@ -118,17 +134,44 @@ const groups = [...new Set(unique.map((r) => r.trigger))];
   <h1>{L('Kalendar Pematuhan', 'Compliance Calendar', '合规日历', 'இணக்க நாட்காட்டி')}</h1>
   <p class="lede">
     {L(
-      'Kewajipan berkanun bermula pada hari syarikat anda ditubuhkan — dan tiada siapa akan mengingatkan anda. Masukkan tarikh penubuhan untuk melihat tarikh akhir sebenar anda.',
-      'Statutory duties start the day your company is incorporated — and nobody sends a reminder. Enter your incorporation date to see your actual deadlines.',
-      '法定义务从公司成立当天开始——而且没有人会提醒你。输入成立日期，查看你的实际截止日期。',
-      'சட்டப்பூர்வக் கடமைகள் உங்கள் நிறுவனம் பதிவு செய்யப்படும் நாளிலேயே தொடங்குகின்றன — யாரும் நினைவூட்டல் அனுப்ப மாட்டார்கள். உங்கள் உண்மையான இறுதி தேதிகளைக் காண, உங்கள் நிறுவனப் பதிவு தேதியை உள்ளிடுங்கள்.',
+      'Kewajipan berkanun bermula pada hari syarikat anda ditubuhkan — dan tiada siapa akan mengingatkan anda. Isi tarikh penubuhan, akhir tahun kewangan atau tarikh peristiwa untuk melihat tarikh akhir sebenar anda. Kewajipan bulanan (cth. KWSP) sentiasa menunjukkan tarikh seterusnya.',
+      'Statutory duties start the day your company is incorporated — and nobody sends a reminder. Fill in your incorporation date, financial year end or an event date to see your actual deadlines. Monthly duties (e.g. EPF) always show the next date.',
+      '法定义务从公司成立当天开始——而且没有人会提醒你。填写成立日期、财政年结日或事件日期，即可查看你的实际截止日期。每月义务（如公积金）始终显示下一个日期。',
+      'சட்டப்பூர்வக் கடமைகள் உங்கள் நிறுவனம் பதிவு செய்யப்படும் நாளிலேயே தொடங்குகின்றன — யாரும் நினைவூட்டல் அனுப்ப மாட்டார்கள். உங்கள் உண்மையான இறுதி தேதிகளைக் காண, நிறுவனப் பதிவு தேதி, நிதியாண்டு இறுதி அல்லது நிகழ்வு தேதியை உள்ளிடுங்கள். மாதாந்திரக் கடமைகள் (எ.கா. KWSP) எப்போதும் அடுத்த தேதியைக் காட்டும்.',
     )}
   </p>
 
   <div class="datebar">
-    <label for="inc">{L('Tarikh penubuhan', 'Incorporation date', '公司成立日期', 'நிறுவனப் பதிவு தேதி')}</label>
-    <input type="date" id="inc" />
+    <div class="field">
+      <label for="inc">{L('Tarikh penubuhan', 'Incorporation date', '公司成立日期', 'நிறுவனப் பதிவு தேதி')}</label>
+      <input type="date" id="inc" />
+    </div>
+    <div class="field">
+      <label for="fye">{L('Akhir tahun kewangan', 'Financial year end', '财政年结日', 'நிதியாண்டு இறுதி')}</label>
+      <input type="date" id="fye" />
+    </div>
+    <div class="field">
+      <label for="evt">{L('Tarikh peristiwa', 'Event date', '事件日期', 'நிகழ்வு தேதி')}</label>
+      <input type="date" id="evt" />
+      <small class="hint">{L('cth. tarikh bayaran / AGM', 'e.g. payment / AGM date', '如付款 / 股东大会日期', 'எ.கா. கட்டணம் / AGM தேதி')}</small>
+    </div>
     <button id="clear" type="button">{L('Kosongkan', 'Clear', '清除', 'அழி')}</button>
+  </div>
+
+  <div class="datebar sizebar">
+    <div class="field">
+      <label for="turnover">{L('Pusing ganti / hasil tahunan (RM)', 'Annual turnover / revenue (RM)', '年营业额 / 收入 (RM)', 'ஆண்டு விற்றுமுதல் / வருவாய் (RM)')}</label>
+      <input type="number" id="turnover" min="0" step="1000" inputmode="numeric" />
+    </div>
+    <div class="field">
+      <label for="assets">{L('Jumlah aset (RM)', 'Total assets (RM)', '总资产 (RM)', 'மொத்த சொத்துகள் (RM)')}</label>
+      <input type="number" id="assets" min="0" step="1000" inputmode="numeric" />
+    </div>
+    <div class="field">
+      <label for="employees">{L('Bilangan pekerja', 'Employees', '员工人数', 'பணியாளர்கள்')}</label>
+      <input type="number" id="employees" min="0" step="1" inputmode="numeric" />
+    </div>
+    <small class="hint">{L('Untuk ambang cukai/audit (SST, e-Invois, pengecualian audit)', 'For tax/audit thresholds (SST, e-Invoice, audit exemption)', '用于税务/审计门槛（SST、电子发票、审计豁免）', 'வரி/தணிக்கை வரம்புகளுக்கு (SST, மின்-விலைப்பட்டியல், தணிக்கை விலக்கு)')}</small>
   </div>
 
   {
@@ -144,7 +187,7 @@ const groups = [...new Set(unique.map((r) => r.trigger))];
               <tr>
                 <th>{L('Kewajipan', 'Obligation', '义务', 'கடமை')}</th>
                 <th>{L('Tarikh akhir', 'Deadline', '截止', 'இறுதி தேதி')}</th>
-                <th class="due-col">{L('Tarikh anda', 'Your date', '你的日期', 'உங்கள் தேதி')}</th>
+                <th class="due-col">{L('Untuk anda', 'For you', '对你而言', 'உங்களுக்கு')}</th>
                 <th>{L('Kepada', 'Owed to', '主管机构', 'யாருக்கு')}</th>
               </tr>
             </thead>
@@ -152,7 +195,14 @@ const groups = [...new Set(unique.map((r) => r.trigger))];
               {unique
                 .filter((r) => r.trigger === g)
                 .map((r) => (
-                  <tr data-within={r.withinDays ?? ''} data-trigger={r.trigger}>
+                  <tr
+                    data-within={r.withinDays ?? ''}
+                    data-trigger={r.trigger}
+                    data-dueday={r.dueDay ?? ''}
+                    data-direction={r.direction ?? ''}
+                    data-criteria={r.criteria ? JSON.stringify(r.criteria) : ''}
+                    data-exemption={r.exemption ? '1' : ''}
+                  >
                     <td>
                       <a href={r.href}>{r.what}</a>
                       {r.statute && <span class="stat">{r.statute}</span>}
@@ -180,65 +230,152 @@ const groups = [...new Set(unique.map((r) => r.trigger))];
   </p>
 </section>
 
+<script type="application/json" id="cc-i18n" set:html={JSON.stringify(ccMsg)}></script>
+
 <script>
-  const input = document.getElementById('inc') as HTMLInputElement | null;
+  // Three independent inputs feed the calculator, each computing a different
+  // BASIS (see the schema in content.config.ts): incorporation date drives
+  // incorporation/anniversary duties; financial year end drives FYE duties;
+  // an event date drives event (before/after) duties. Monthly duties (day-of-
+  // month, e.g. EPF on the 15th) need no input — they always show the next date.
+  const incEl = document.getElementById('inc') as HTMLInputElement | null;
+  const fyeEl = document.getElementById('fye') as HTMLInputElement | null;
+  const evtEl = document.getElementById('evt') as HTMLInputElement | null;
+  // Company-size inputs drive threshold duties (SST, e-invoice, audit exemption).
+  const turnoverEl = document.getElementById('turnover') as HTMLInputElement | null;
+  const assetsEl = document.getElementById('assets') as HTMLInputElement | null;
+  const employeesEl = document.getElementById('employees') as HTMLInputElement | null;
   const clear = document.getElementById('clear');
-  const KEY = 'negaraku:incorporation-date';
+  const KEYS = {
+    inc: 'negaraku:incorporation-date', fye: 'negaraku:fye-date', evt: 'negaraku:event-date',
+    turnover: 'negaraku:cc-turnover', assets: 'negaraku:cc-assets', employees: 'negaraku:cc-employees',
+  };
+  const MSG = (() => { try { return JSON.parse(document.getElementById('cc-i18n')?.textContent || '{}'); } catch { return {}; } })();
 
   const fmt = (d: Date) =>
-    d.toLocaleDateString(document.documentElement.lang || 'en', {
-      day: 'numeric',
-      month: 'short',
-      year: 'numeric',
-    });
+    d.toLocaleDateString(document.documentElement.lang || 'en', { day: 'numeric', month: 'short', year: 'numeric' });
 
-  function paint(value: string) {
-    const base = value ? new Date(value) : null;
+  // Parse a yyyy-mm-dd <input type=date> value in LOCAL time (new Date(str) is
+  // UTC, which can shift the day across the date line). Returns null if empty/bad.
+  function parseLocal(v: string | undefined): Date | null {
+    if (!v) return null;
+    const [y, m, d] = v.split('-').map(Number);
+    if (!y || !m || !d) return null;
+    const dt = new Date(y, m - 1, d);
+    return Number.isNaN(dt.getTime()) ? null : dt;
+  }
+  const daysInMonth = (y: number, m: number) => new Date(y, m + 1, 0).getDate();
+  const addDays = (d: Date, n: number) => { const x = new Date(d); x.setDate(x.getDate() + n); return x; };
+  function today0() { const t = new Date(); t.setHours(0, 0, 0, 0); return t; }
+
+  // Next occurrence of a recurring month/day pair, on or after `from` (clamped for
+  // short months, e.g. day 31 → 28/29/30). Used by monthly + FYE bases.
+  function nextByMonthDay(month: number, day: number, from: Date): Date {
+    for (let y = from.getFullYear(); y <= from.getFullYear() + 2; y++) {
+      const cand = new Date(y, month, Math.min(day, daysInMonth(y, month)));
+      if (cand >= from) return cand;
+    }
+    return new Date(from.getFullYear() + 1, month, day);
+  }
+
+  // Compute the next relevant due Date for one row, or null if it needs an input
+  // the visitor hasn't given (or isn't date-computable). Recurring bases roll
+  // forward to the next occurrence that hasn't already passed.
+  function dueFor(tr: HTMLTableRowElement): Date | null {
+    const trigger = tr.dataset.trigger || '';
+    const within = tr.dataset.within ? Number(tr.dataset.within) : null;
+    const dueDay = tr.dataset.dueday ? Number(tr.dataset.dueday) : null;
+    const dir = tr.dataset.direction || 'after';
+    const now = today0();
+    const inc = parseLocal(incEl?.value), fye = parseLocal(fyeEl?.value), evt = parseLocal(evtEl?.value);
+
+    if (trigger === 'monthly' && dueDay) return nextByMonthDay(now.getMonth(), dueDay, now);
+
+    if (trigger === 'incorporation' && inc && within !== null) return addDays(inc, within);
+
+    if (trigger === 'anniversary' && inc && within !== null) {
+      const ann = nextByMonthDay(inc.getMonth(), inc.getDate(), now);
+      return addDays(ann, within);
+    }
+
+    if (trigger === 'financial-year-end' && fye && within !== null) {
+      // Roll to whichever FYE occurrence gives the next deadline still ahead.
+      for (let y = now.getFullYear() - 1; y <= now.getFullYear() + 2; y++) {
+        const occ = new Date(y, fye.getMonth(), Math.min(fye.getDate(), daysInMonth(y, fye.getMonth())));
+        const due = addDays(occ, within);
+        if (due >= now) return due;
+      }
+      return null;
+    }
+
+    if (trigger === 'event' && evt && within !== null) return addDays(evt, dir === 'before' ? -within : within);
+
+    return null; // change / ongoing / missing input
+  }
+
+  const numOrNull = (el: HTMLInputElement | null) => {
+    const v = el && el.value !== '' ? Number(el.value) : NaN;
+    return Number.isFinite(v) ? v : null;
+  };
+  // Evaluate a threshold row against the size inputs. Returns the localized result
+  // text + a status colour, or null-status when the needed figures aren't filled.
+  function thresholdResult(tr: HTMLTableRowElement): { text: string; soon: string | null } {
+    let criteria: { metric: string; op: string; value: number }[] = [];
+    try { criteria = JSON.parse(tr.dataset.criteria || '[]'); } catch { criteria = []; }
+    const isExemption = tr.dataset.exemption === '1';
+    const size: Record<string, number | null> = {
+      turnover: numOrNull(turnoverEl), revenue: numOrNull(turnoverEl), // one field feeds both
+      assets: numOrNull(assetsEl), employees: numOrNull(employeesEl),
+    };
+    // Need every metric the row tests; if any is blank, prompt for size.
+    if (!criteria.length || criteria.some((c) => size[c.metric] == null)) return { text: MSG.needSize || '—', soon: null };
+    const pass = (c: { metric: string; op: string; value: number }) => {
+      const x = size[c.metric] as number;
+      return c.op === 'gte' ? x >= c.value : c.op === 'gt' ? x > c.value : c.op === 'lte' ? x <= c.value : x < c.value;
+    };
+    const allMet = criteria.every(pass);
+    if (isExemption) return allMet ? { text: MSG.exempt, soon: 'ok' } : { text: MSG.notExempt, soon: 'soon' };
+    return allMet ? { text: MSG.applies, soon: 'soon' } : { text: MSG.below, soon: 'ok' };
+  }
+
+  function paint() {
     document.querySelectorAll<HTMLTableRowElement>('tr[data-trigger]').forEach((tr) => {
       const cell = tr.querySelector<HTMLElement>('.computed');
       if (!cell) return;
-      const within = tr.dataset.within ? Number(tr.dataset.within) : null;
-      // Only duties whose clock genuinely starts at incorporation (or its yearly
-      // anniversary) can be dated from the incorporation date. Event-triggered
-      // duties — "within 30 days of a change", "six months after financial
-      // year-end", ongoing obligations — depend on an event we don't know here,
-      // so computing a confident date off incorporation would be wrong. Show "—".
-      const trigger = tr.dataset.trigger;
-      const incorporationBased = trigger === 'incorporation' || trigger === 'anniversary';
-      if (!base || within === null || Number.isNaN(base.getTime()) || !incorporationBased) {
-        cell.textContent = '—';
-        cell.removeAttribute('data-soon');
+      if (tr.dataset.trigger === 'threshold') {
+        const r = thresholdResult(tr);
+        cell.textContent = r.text;
+        if (r.soon) cell.dataset.soon = r.soon; else cell.removeAttribute('data-soon');
         return;
       }
-      const due = new Date(base);
-      // Anniversary duties recur — show the next one that hasn't passed.
-      if (tr.dataset.trigger === 'anniversary') {
-        const now = new Date();
-        due.setFullYear(base.getFullYear());
-        while (due < now) due.setFullYear(due.getFullYear() + 1);
-      }
-      due.setDate(due.getDate() + within);
+      const due = dueFor(tr);
+      if (!due) { cell.textContent = '—'; cell.removeAttribute('data-soon'); return; }
       cell.textContent = fmt(due);
       const days = Math.ceil((due.getTime() - Date.now()) / 86400000);
       cell.dataset.soon = days < 0 ? 'past' : days <= 30 ? 'soon' : 'ok';
     });
   }
 
-  input?.addEventListener('change', () => {
-    try { localStorage.setItem(KEY, input.value); } catch {}
-    paint(input.value);
-  });
+  function wire(el: HTMLInputElement | null, key: string) {
+    if (!el) return;
+    el.addEventListener('change', () => { try { localStorage.setItem(key, el.value); } catch {} paint(); });
+    try { const saved = localStorage.getItem(key); if (saved) el.value = saved; } catch {}
+  }
+  const ALL = [
+    [incEl, KEYS.inc], [fyeEl, KEYS.fye], [evtEl, KEYS.evt],
+    [turnoverEl, KEYS.turnover], [assetsEl, KEYS.assets], [employeesEl, KEYS.employees],
+  ] as const;
+  for (const [el, key] of ALL) wire(el, key);
+
   clear?.addEventListener('click', () => {
-    if (!input) return;
-    input.value = '';
-    try { localStorage.removeItem(KEY); } catch {}
-    paint('');
+    for (const [el, key] of ALL) {
+      if (el) el.value = '';
+      try { localStorage.removeItem(key); } catch {}
+    }
+    paint();
   });
 
-  try {
-    const saved = localStorage.getItem(KEY);
-    if (saved && input) { input.value = saved; paint(saved); }
-  } catch {}
+  paint(); // initial render — monthly rows compute immediately, others show — until filled
 </script>
 
 <style>
@@ -263,6 +400,12 @@ const groups = [...new Set(unique.map((r) => r.trigger))];
     color: var(--ink-soft); font: inherit; font-size: 0.82rem; padding: 0.3rem 0.75rem; cursor: pointer;
   }
   .datebar button:hover { border-color: var(--gold); color: var(--ink); }
+  .datebar .field { display: flex; flex-direction: column; gap: 0.3rem; }
+  .datebar .field input { width: 100%; }
+  .datebar .hint { font-size: 0.72rem; color: var(--muted); }
+  .sizebar { align-items: flex-end; }
+  .sizebar > .hint { flex: 1 1 100%; margin-top: -0.2rem; }
+  .sizebar input[type='number'] { max-width: 12rem; }
 
   .group { margin-bottom: 2rem; }
   .group h2 { font-size: 1.15rem; margin: 0 0 0.7rem; }

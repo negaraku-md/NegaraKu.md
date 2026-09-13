@@ -142,12 +142,44 @@ const knowledge = defineCollection({
         z.object({
           /** What must be done, in plain language. */
           what: z.string(),
-          /** What starts the clock: incorporation, financial year end, etc. */
+          /** What starts the clock — the deadline BASIS. Each computes differently
+           *  (see ComplianceCalendarView):
+           *  - incorporation      : withinDays after the incorporation date
+           *  - anniversary        : withinDays after each incorporation anniversary
+           *  - financial-year-end : withinDays after the financial year end (needs FYE)
+           *  - monthly            : by `dueDay` of every month (recurring; no input)
+           *  - event              : withinDays before/after a one-off `event` date
+           *  - change / ongoing   : not date-computable (shown as guidance) */
           trigger: z
-            .enum(['incorporation', 'financial-year-end', 'anniversary', 'change', 'ongoing'])
+            .enum([
+              'incorporation', 'financial-year-end', 'anniversary',
+              'monthly', 'event', 'threshold', 'change', 'ongoing',
+            ])
             .default('incorporation'),
-          /** Days from the trigger. Omit for ongoing duties. */
+          /** Days from the trigger. Omit for ongoing/monthly/threshold duties. */
           withinDays: z.number().optional(),
+          /** For trigger:'threshold' — the size test(s) that decide whether this duty
+           *  applies (e.g. SST: turnover ≥ 500000) or whether an EXEMPTION is earned
+           *  (e.g. audit exemption: revenue ≤ 100000 AND assets ≤ 300000 AND employees ≤ 5).
+           *  ALL criteria must hold. Metrics are read from the visitor's size inputs. */
+          criteria: z
+            .array(
+              z.object({
+                metric: z.enum(['turnover', 'revenue', 'assets', 'employees']),
+                op: z.enum(['gte', 'gt', 'lte', 'lt']),
+                value: z.number(),
+              }),
+            )
+            .optional(),
+          /** For trigger:'threshold' — true means meeting the criteria EARNS AN EXEMPTION
+           *  (duty does NOT apply); false/absent means meeting them TRIGGERS the duty. */
+          exemption: z.boolean().optional(),
+          /** For trigger:'monthly' — the day of the month it is due (1–31). e.g. EPF = 15. */
+          dueDay: z.number().min(1).max(31).optional(),
+          /** For trigger:'event' — whether withinDays counts BEFORE or AFTER the event. */
+          direction: z.enum(['before', 'after']).optional(),
+          /** For trigger:'event' — the named event the clock hangs on, e.g. "payment", "AGM". */
+          event: z.string().optional(),
           /** Human-readable deadline, e.g. "within 30 days of incorporation". */
           due: z.string(),
           /** Who it is owed to — SSM, LHDN, RMCD, EPF… */
