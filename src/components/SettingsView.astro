@@ -16,30 +16,32 @@ const L = (ms: string, en: string, zh: string, ta?: string) => (locale === 'ta' 
 <PageHero
   locale={locale}
   crumb={[
-    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
-    { label: L('Tetapan', 'Settings', '设置') },
+    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு'), href: localePath('/', locale) },
+    { label: L('Tetapan', 'Settings', '设置', 'அமைப்புகள்') },
   ]}
-  title={L('Tetapan', 'Settings', '设置')}
+  title={L('Tetapan', 'Settings', '设置', 'அமைப்புகள்')}
   desc={L(
     'Sesuaikan cara anda membaca NegaraKu.md. Tetapan disimpan dalam pelayar anda sahaja.',
     'Tune how you read NegaraKu.md. Preferences are saved in your browser only.',
     '自定义你阅读 NegaraKu.md 的方式。设置仅保存在你的浏览器中。',
+    'நீங்கள் NegaraKu.md-ஐ எப்படிப் படிக்கிறீர்கள் என்பதைச் சரிசெய்யுங்கள். விருப்பங்கள் உங்கள் உலாவியில் மட்டுமே சேமிக்கப்படுகின்றன.',
   )}
 />
 
 <div class="settings" id="settings">
   <!-- Default language -->
   <section class="set-card">
-    <h2>{L('Bahasa lalai', 'Default language', '默认语言')}</h2>
+    <h2>{L('Bahasa lalai', 'Default language', '默认语言', 'இயல்பு மொழி')}</h2>
     <p class="note">
       {L(
         'Bahasa pilihan anda apabila melawat laman utama. Anda sentiasa boleh menukar bahasa dengan suis MS / EN / ZH.',
         'Your preferred language when landing on the home page. You can always switch with the MS / EN / ZH toggle.',
         '你访问首页时的首选语言。你随时可以用 MS / EN / ZH 切换。',
+        'முகப்புப் பக்கத்திற்கு வரும்போது உங்கள் விருப்ப மொழி. MS / EN / ZH நிலைமாற்றியால் நீங்கள் எப்போதும் மொழியை மாற்றலாம்.',
       )}
     </p>
     <div class="opts" data-group="lang">
-      <label class="opt"><input type="radio" name="deflang" value="auto" /><span>{L('Automatik', 'Auto', '自动')}</span></label>
+      <label class="opt"><input type="radio" name="deflang" value="auto" /><span>{L('Automatik', 'Auto', '自动', 'தானியங்கி')}</span></label>
       <label class="opt"><input type="radio" name="deflang" value="ms" /><span>Bahasa Melayu (MS)</span></label>
       <label class="opt"><input type="radio" name="deflang" value="en" /><span>English (EN)</span></label>
       <label class="opt"><input type="radio" name="deflang" value="zh" /><span>中文 (ZH)</span></label>
@@ -48,45 +50,46 @@ const L = (ms: string, en: string, zh: string, ta?: string) => (locale === 'ta' 
 
   <!-- 3. Reading -->
   <section class="set-card">
-    <h2>{L('Bacaan', 'Reading', '阅读')}</h2>
+    <h2>{L('Bacaan', 'Reading', '阅读', 'வாசிப்பு')}</h2>
     <div class="row">
-      <span class="row-label">{L('Tema', 'Theme', '主题')}</span>
+      <span class="row-label">{L('Tema', 'Theme', '主题', 'தீம்')}</span>
       <div class="seg" data-group="theme">
-        <button type="button" data-value="black-gold"><span class="sw sw-gold" aria-hidden="true"></span>{L('Emas', 'Gold', '金色')}</button>
-        <button type="button" data-value="black-red"><span class="sw sw-red" aria-hidden="true"></span>{L('Merah', 'Red', '红色')}</button>
+        <button type="button" data-value="black-gold"><span class="sw sw-gold" aria-hidden="true"></span>{L('Emas', 'Gold', '金色', 'தங்கம்')}</button>
+        <button type="button" data-value="black-red"><span class="sw sw-red" aria-hidden="true"></span>{L('Merah', 'Red', '红色', 'சிவப்பு')}</button>
       </div>
     </div>
     <div class="row">
-      <span class="row-label">{L('Saiz teks', 'Text size', '字号')}</span>
+      <span class="row-label">{L('Saiz teks', 'Text size', '字号', 'எழுத்து அளவு')}</span>
       <div class="seg" data-group="size">
-        <button type="button" data-value="standard">{L('Biasa', 'Standard', '标准')}</button>
-        <button type="button" data-value="large">{L('Besar', 'Large', '大')}</button>
-        <button type="button" data-value="xlarge">{L('Sangat besar', 'X-Large', '特大')}</button>
+        <button type="button" data-value="standard">{L('Biasa', 'Standard', '标准', 'சாதாரண')}</button>
+        <button type="button" data-value="large">{L('Besar', 'Large', '大', 'பெரிய')}</button>
+        <button type="button" data-value="xlarge">{L('Sangat besar', 'X-Large', '特大', 'மிகப் பெரிய')}</button>
       </div>
     </div>
   </section>
 
   <!-- 4. Card display -->
   <section class="set-card">
-    <h2>{L('Paparan kad', 'Card display', '卡片显示')}</h2>
+    <h2>{L('Paparan kad', 'Card display', '卡片显示', 'அட்டை காட்சி')}</h2>
     <p class="note">
       {L(
         'Baris maklumat untuk dipaparkan pada kad artikel dalam senarai.',
         'Which information rows show on article cards in listings.',
         '文章卡片在列表中显示哪些信息行。',
+        'பட்டியல்களில் கட்டுரை அட்டைகளில் எந்தத் தகவல் வரிசைகள் காண்பிக்கப்படுகின்றன.',
       )}
     </p>
     <div class="opts" data-group="rows">
-      <label class="opt"><input type="checkbox" value="path" /><span>{L('Laluan', 'Path', '路径')}</span></label>
-      <label class="opt"><input type="checkbox" value="details" /><span>{L('Butiran', 'Details', '详情')}</span></label>
-      <label class="opt"><input type="checkbox" value="custody" /><span>{L('Status', 'Status', '状态')}</span></label>
-      <label class="opt"><input type="checkbox" value="visitors" /><span>{L('Pelawat', 'Visitors', '访客')}</span></label>
+      <label class="opt"><input type="checkbox" value="path" /><span>{L('Laluan', 'Path', '路径', 'பாதை')}</span></label>
+      <label class="opt"><input type="checkbox" value="details" /><span>{L('Butiran', 'Details', '详情', 'விவரங்கள்')}</span></label>
+      <label class="opt"><input type="checkbox" value="custody" /><span>{L('Status', 'Status', '状态', 'நிலை')}</span></label>
+      <label class="opt"><input type="checkbox" value="visitors" /><span>{L('Pelawat', 'Visitors', '访客', 'பார்வையாளர்கள்')}</span></label>
     </div>
   </section>
 
   <div class="actions">
-    <button type="button" id="set-reset" class="reset">{L('Set semula semua', 'Reset all', '全部重置')}</button>
-    <span id="set-saved" class="saved" hidden>{L('Disimpan', 'Saved', '已保存')}</span>
+    <button type="button" id="set-reset" class="reset">{L('Set semula semua', 'Reset all', '全部重置', 'அனைத்தையும் மீட்டமை')}</button>
+    <span id="set-saved" class="saved" hidden>{L('Disimpan', 'Saved', '已保存', 'சேமிக்கப்பட்டது')}</span>
   </div>
 </div>
 

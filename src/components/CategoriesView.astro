@@ -30,7 +30,7 @@ const groups = PILLARS.map((p) => ({ def: p, cats: categoriesInPillar(p.id) }));
 <PageHero
   locale={locale}
   crumb={[
-    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
+    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு'), href: localePath('/', locale) },
     { label: t('nav.categories', locale) },
   ]}
   title={t('nav.categories', locale)}
@@ -38,12 +38,13 @@ const groups = PILLARS.map((p) => ({ def: p, cats: categoriesInPillar(p.id) }));
     'Layari setiap kategori mengikut tonggak — pilih satu untuk meneroka topik dan artikelnya.',
     'Browse every category by pillar — pick one to explore its topics and articles.',
     '按支柱浏览每个分类——选择一个，探索其主题与文章。',
+    'ஒவ்வொரு வகையையும் தூண்வாரியாக உலாவுங்கள் — அதன் தலைப்புகளையும் கட்டுரைகளையும் ஆராய ஒன்றைத் தேர்ந்தெடுங்கள்.',
   )}
   stats={[
-    { value: stats.sections, label: L('tonggak', 'pillars', '支柱') },
-    { value: stats.categories, label: L('kategori', 'categories', '分类') },
-    { value: stats.topics, label: L('subkategori', 'subcategories', '子分类') },
-    { value: stats.articles, label: L('topik', 'topics', '主题') },
+    { value: stats.sections, label: L('tonggak', 'pillars', '支柱', 'தூண்கள்') },
+    { value: stats.categories, label: L('kategori', 'categories', '分类', 'வகைகள்') },
+    { value: stats.topics, label: L('subkategori', 'subcategories', '子分类', 'துணை வகைகள்') },
+    { value: stats.articles, label: L('topik', 'topics', '主题', 'தலைப்புகள்') },
   ]}
 />
 
@@ -54,13 +55,13 @@ const groups = PILLARS.map((p) => ({ def: p, cats: categoriesInPillar(p.id) }));
       id="cat-filter"
       type="text"
       autocomplete="off"
-      placeholder={L('Tapis kategori…', 'Filter categories…', '筛选分类…')}
-      aria-label={L('Tapis kategori', 'Filter categories', '筛选分类')}
+      placeholder={L('Tapis kategori…', 'Filter categories…', '筛选分类…', 'வகைகளை வடிகட்டு…')}
+      aria-label={L('Tapis kategori', 'Filter categories', '筛选分类', 'வகைகளை வடிகட்டு')}
     />
   </div>
 
   <p id="cat-empty" class="empty" hidden>
-    {L('Tiada kategori sepadan.', 'No categories match your search.', '没有符合的分类。')}
+    {L('Tiada kategori sepadan.', 'No categories match your search.', '没有符合的分类。', 'உங்கள் தேடலுக்குப் பொருந்தும் வகைகள் இல்லை.')}
   </p>
 
   {

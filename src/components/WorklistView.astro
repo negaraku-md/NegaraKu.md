@@ -39,30 +39,31 @@ const drafts = topics.filter((a) => a.data.status === 'draft');
 // Assignee tally for the In-progress board (so no one double-claims).
 const byAssignee: Record<string, number> = {};
 for (const a of inProgress) {
-  const k = a.data.assignee || L('belum dituntut', 'unclaimed', '未认领');
+  const k = a.data.assignee || L('belum dituntut', 'unclaimed', '未认领', 'உரிமை கொள்ளப்படவில்லை');
   byAssignee[k] = (byAssignee[k] || 0) + 1;
 }
 const assigneeSummary = Object.entries(byAssignee).map(([k, n]) => `${k}: ${n}`).join('  ·  ');
 
 const stats = [
-  { value: needsUpdate.length, label: L('perlu kemas kini', 'needs update', '需更新') },
-  { value: reqRedraft.length + reqArchive.length, label: L('permintaan', 'requests', '请求') },
-  { value: inProgress.length, label: L('dalam proses', 'in progress', '进行中') },
-  { value: awaiting.length, label: L('menunggu kelulusan', 'awaiting', '待批准') },
+  { value: needsUpdate.length, label: L('perlu kemas kini', 'needs update', '需更新', 'புதுப்பிக்க வேண்டியவை') },
+  { value: reqRedraft.length + reqArchive.length, label: L('permintaan', 'requests', '请求', 'கோரிக்கைகள்') },
+  { value: inProgress.length, label: L('dalam proses', 'in progress', '进行中', 'நடைபெறுகிறது') },
+  { value: awaiting.length, label: L('menunggu kelulusan', 'awaiting', '待批准', 'ஒப்புதலுக்குக் காத்திருக்கிறது') },
 ];
 ---
 
 <PageHero
   locale={locale}
   crumb={[
-    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
-    { label: L('Senarai Kerja', 'Worklist', '工作清单') },
+    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு'), href: localePath('/', locale) },
+    { label: L('Senarai Kerja', 'Worklist', '工作清单', 'வேலைப்பட்டியல்') },
   ]}
-  title={L('Senarai Kerja Editorial', 'Editorial Worklist', '编辑工作清单')}
+  title={L('Senarai Kerja Editorial', 'Editorial Worklist', '编辑工作清单', 'ஆசிரியர் வேலைப்பட்டியல்')}
   desc={L(
     'Barisan kerja penyumbang — apa yang perlu dikemas kini, ditulis semula, diarkibkan atau diluluskan.',
     "The contributor queue — what needs updating, redrafting, archiving or approving.",
     '贡献者工作队列——需要更新、重写、归档或批准的内容。',
+    'பங்களிப்பாளர் வேலை வரிசை — புதுப்பிக்க, மறுவரைவு செய்ய, காப்பகப்படுத்த அல்லது ஒப்புதலளிக்க வேண்டியவை.',
   )}
   stats={CONTRIB_ONLY ? stats : []}
 />
@@ -72,16 +73,17 @@ const stats = [
     <section class="container block">
       <div class="notice">
         <p>
-          <b>{L('Alat penyumbang', 'Contributor tool', '贡献者工具')}.</b>{' '}
+          <b>{L('Alat penyumbang', 'Contributor tool', '贡献者工具', 'பங்களிப்பாளர் கருவி')}.</b>{' '}
           {L(
             'Senarai kerja hanya dipaparkan dalam persekitaran pembangunan / pratonton, kerana ia menyenaraikan tajuk draf yang belum diterbitkan.',
             'The worklist only renders in the dev / preview environment, because it lists unpublished draft titles.',
             '工作清单仅在开发／预览环境中显示，因为它会列出未发布的草稿标题。',
+            'வேலைப்பட்டியல் மேம்பாடு / முன்னோட்டச் சூழலில் மட்டுமே காட்டப்படுகிறது, ஏனெனில் இது வெளியிடப்படாத வரைவுத் தலைப்புகளைப் பட்டியலிடுகிறது.',
           )}
         </p>
         <p class="muted">
-          {L('Jalankan', 'Run', '运行')} <code>npm run dev</code>{' '}
-          {L('untuk membukanya.', 'to open it.', '以打开它。')}
+          {L('Jalankan', 'Run', '运行', 'இயக்குங்கள்')} <code>npm run dev</code>{' '}
+          {L('untuk membukanya.', 'to open it.', '以打开它。', 'அதைத் திறக்க.')}
         </p>
       </div>
     </section>
@@ -92,9 +94,9 @@ const stats = [
   CONTRIB_ONLY && (
     <section class="container block wl">
       {[
-        { key: 'nu', label: L('Perlu Kemas Kini', 'Needs update', '需更新'), hint: L('auto: semakan tertunggak · atau dilaporkan pembaca', 'auto: review overdue · or reader-flagged', '自动：审阅逾期 · 或读者标记'), items: needsUpdate, action: L('Tuntut & sunting', 'Claim & edit', '认领并编辑') },
-        { key: 'rr', label: L('Permintaan Tulis Semula', 'Redraft requested', '重写请求'), hint: L('diminta manusia', 'human-requested', '人工请求'), items: reqRedraft, action: L('Tuntut', 'Claim', '认领') },
-        { key: 'ra', label: L('Permintaan Arkib', 'Archive requested', '归档请求'), hint: L('untuk pengesahan pentadbir', 'maintainer to confirm', '维护者确认'), items: reqArchive, action: L('Tuntut', 'Claim', '认领') },
+        { key: 'nu', label: L('Perlu Kemas Kini', 'Needs update', '需更新', 'புதுப்பிக்க வேண்டும்'), hint: L('auto: semakan tertunggak · atau dilaporkan pembaca', 'auto: review overdue · or reader-flagged', '自动：审阅逾期 · 或读者标记', 'தானியங்கி: மதிப்பாய்வு தாமதம் · அல்லது வாசகரால் குறிக்கப்பட்டது'), items: needsUpdate, action: L('Tuntut & sunting', 'Claim & edit', '认领并编辑', 'உரிமை கொண்டு திருத்து') },
+        { key: 'rr', label: L('Permintaan Tulis Semula', 'Redraft requested', '重写请求', 'மறுவரைவுக் கோரிக்கை'), hint: L('diminta manusia', 'human-requested', '人工请求', 'மனிதரால் கோரப்பட்டது'), items: reqRedraft, action: L('Tuntut', 'Claim', '认领', 'உரிமை கொள்') },
+        { key: 'ra', label: L('Permintaan Arkib', 'Archive requested', '归档请求', 'காப்பகக் கோரிக்கை'), hint: L('untuk pengesahan pentadbir', 'maintainer to confirm', '维护者确认', 'பராமரிப்பாளர் உறுதிப்படுத்த வேண்டும்'), items: reqArchive, action: L('Tuntut', 'Claim', '认领', 'உரிமை கொள்') },
       ].map((sec) => (
         <div class="wl-sec">
           <header>
@@ -102,7 +104,7 @@ const stats = [
             <span class="wl-hint">{sec.hint}</span>
           </header>
           {sec.items.length === 0 ? (
-            <p class="wl-empty">{L('Tiada.', 'Nothing here.', '暂无。')}</p>
+            <p class="wl-empty">{L('Tiada.', 'Nothing here.', '暂无。', 'எதுவும் இல்லை.')}</p>
           ) : (
             <ul>
               {sec.items.map((a) => (
@@ -112,7 +114,7 @@ const stats = [
                     {catName(a)}
                     {a.data.requestReason && <> · “{a.data.requestReason}”</>}
                     {a.data.requestedBy && <> · {a.data.requestedBy}</>}
-                    {sec.key === 'nu' && a.data.reviewDue && <> · {L('semakan', 'review due', '应审阅')} {new Date(a.data.reviewDue).toISOString().slice(0, 10)}</>}
+                    {sec.key === 'nu' && a.data.reviewDue && <> · {L('semakan', 'review due', '应审阅', 'மதிப்பாய்வு நிலுவை')} {new Date(a.data.reviewDue).toISOString().slice(0, 10)}</>}
                   </span>
                   <a class="wl-act" href={editUrl(a)} target="_blank" rel="noopener">{sec.action} ↗</a>
                 </li>
@@ -124,11 +126,11 @@ const stats = [
 
       <div class="wl-sec">
         <header>
-          <span>{L('Dalam Proses', 'In progress', '进行中')} <b>{inProgress.length}</b></span>
+          <span>{L('Dalam Proses', 'In progress', '进行中', 'நடைபெறுகிறது')} <b>{inProgress.length}</b></span>
           {assigneeSummary && <span class="wl-hint">{assigneeSummary}</span>}
         </header>
         {inProgress.length === 0 ? (
-          <p class="wl-empty">{L('Tiada.', 'Nothing here.', '暂无。')}</p>
+          <p class="wl-empty">{L('Tiada.', 'Nothing here.', '暂无。', 'எதுவும் இல்லை.')}</p>
         ) : (
           <ul>
             {inProgress.map((a) => (
@@ -136,9 +138,9 @@ const stats = [
                 <span class="wl-title">{a.data.title}</span>
                 <span class="wl-meta">
                   <span class="wl-status">{a.data.status}</span> · {worker(a)}
-                  {ageDays(a.data.claimedAt) != null && <> · {ageDays(a.data.claimedAt)}{L('h', 'd', '天')}</>}
+                  {ageDays(a.data.claimedAt) != null && <> · {ageDays(a.data.claimedAt)}{L('h', 'd', '天', 'நா')}</>}
                 </span>
-                <a class="wl-act" href={editUrl(a)} target="_blank" rel="noopener">{L('Sunting', 'Edit', '编辑')} ↗</a>
+                <a class="wl-act" href={editUrl(a)} target="_blank" rel="noopener">{L('Sunting', 'Edit', '编辑', 'திருத்து')} ↗</a>
               </li>
             ))}
           </ul>
@@ -147,18 +149,18 @@ const stats = [
 
       <div class="wl-sec">
         <header>
-          <span>{L('Menunggu Kelulusan', 'Awaiting approval', '待批准')} <b>{awaiting.length}</b></span>
-          <span class="wl-hint">{L('kelulusan mesti ≠ pelaksana', 'approver must ≠ the person who did the work', '批准者须≠执行者')}</span>
+          <span>{L('Menunggu Kelulusan', 'Awaiting approval', '待批准', 'ஒப்புதலுக்குக் காத்திருக்கிறது')} <b>{awaiting.length}</b></span>
+          <span class="wl-hint">{L('kelulusan mesti ≠ pelaksana', 'approver must ≠ the person who did the work', '批准者须≠执行者', 'அங்கீகரிப்பவர் ≠ வேலையைச் செய்தவர் ஆக இருக்க வேண்டும்')}</span>
         </header>
         {awaiting.length === 0 ? (
-          <p class="wl-empty">{L('Tiada.', 'Nothing here.', '暂无。')}</p>
+          <p class="wl-empty">{L('Tiada.', 'Nothing here.', '暂无。', 'எதுவும் இல்லை.')}</p>
         ) : (
           <ul>
             {awaiting.map((a) => (
               <li>
                 <span class="wl-title">{a.data.title}</span>
-                <span class="wl-meta">{catName(a)} · {L('dibuat oleh', 'did', '完成者')}: {worker(a)} · {L('perlu pelulus ≠', 'needs approver ≠', '需批准者≠')} {worker(a)}</span>
-                <a class="wl-act" href={editUrl(a)} target="_blank" rel="noopener">{L('Luluskan', 'Approve', '批准')} ↗</a>
+                <span class="wl-meta">{catName(a)} · {L('dibuat oleh', 'did', '完成者', 'செய்தவர்')}: {worker(a)} · {L('perlu pelulus ≠', 'needs approver ≠', '需批准者≠', 'அங்கீகரிப்பவர் தேவை ≠')} {worker(a)}</span>
+                <a class="wl-act" href={editUrl(a)} target="_blank" rel="noopener">{L('Luluskan', 'Approve', '批准', 'ஒப்புதலளி')} ↗</a>
               </li>
             ))}
           </ul>
@@ -167,11 +169,11 @@ const stats = [
 
       <div class="wl-sec">
         <header>
-          <span>{L('Draf', 'Drafts', '草稿')} <b>{drafts.length}</b></span>
-          <span class="wl-hint">{L('artikel baharu sedang ditulis', 'new articles being written', '正在撰写的新文章')}</span>
+          <span>{L('Draf', 'Drafts', '草稿', 'வரைவுகள்')} <b>{drafts.length}</b></span>
+          <span class="wl-hint">{L('artikel baharu sedang ditulis', 'new articles being written', '正在撰写的新文章', 'எழுதப்பட்டு வரும் புதிய கட்டுரைகள்')}</span>
         </header>
         {drafts.length === 0 ? (
-          <p class="wl-empty">{L('Tiada.', 'Nothing here.', '暂无。')}</p>
+          <p class="wl-empty">{L('Tiada.', 'Nothing here.', '暂无。', 'எதுவும் இல்லை.')}</p>
         ) : (
           <ul>
             {drafts.map((a) => (
@@ -180,9 +182,9 @@ const stats = [
                 <span class="wl-meta">
                   {catName(a)}
                   {a.data.sensitivity !== 'none' && <> · <span class="wl-sens">🔒 {a.data.sensitivity}</span></>}
-                  {ageDays(a.data.created) != null && <> · {ageDays(a.data.created)}{L('h', 'd', '天')}</>}
+                  {ageDays(a.data.created) != null && <> · {ageDays(a.data.created)}{L('h', 'd', '天', 'நா')}</>}
                 </span>
-                <a class="wl-act" href={editUrl(a)} target="_blank" rel="noopener">{L('Sunting', 'Edit', '编辑')} ↗</a>
+                <a class="wl-act" href={editUrl(a)} target="_blank" rel="noopener">{L('Sunting', 'Edit', '编辑', 'திருத்து')} ↗</a>
               </li>
             ))}
           </ul>

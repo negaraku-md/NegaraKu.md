@@ -104,30 +104,31 @@ unique.sort((a, b) => {
 });
 
 const triggerLabel: Record<string, string> = {
-  incorporation: L('Selepas penubuhan', 'After incorporation', '公司成立后'),
-  anniversary: L('Setiap ulang tahun', 'Every anniversary', '每年周年'),
-  change: L('Apabila berlaku perubahan', 'When something changes', '发生变动时'),
-  'financial-year-end': L('Akhir tahun kewangan', 'Financial year end', '财政年结'),
-  ongoing: L('Berterusan', 'Ongoing', '持续义务'),
+  incorporation: L('Selepas penubuhan', 'After incorporation', '公司成立后', 'நிறுவனப் பதிவுக்குப் பிறகு'),
+  anniversary: L('Setiap ulang tahun', 'Every anniversary', '每年周年', 'ஒவ்வொரு ஆண்டு நிறைவிலும்'),
+  change: L('Apabila berlaku perubahan', 'When something changes', '发生变动时', 'ஏதேனும் மாறும்போது'),
+  'financial-year-end': L('Akhir tahun kewangan', 'Financial year end', '财政年结', 'நிதியாண்டு இறுதி'),
+  ongoing: L('Berterusan', 'Ongoing', '持续义务', 'தொடர்ச்சியான'),
 };
 const groups = [...new Set(unique.map((r) => r.trigger))];
 ---
 
 <section class="container block">
-  <p class="eyebrow">{L('Alat', 'Tool', '工具')}</p>
-  <h1>{L('Kalendar Pematuhan', 'Compliance Calendar', '合规日历')}</h1>
+  <p class="eyebrow">{L('Alat', 'Tool', '工具', 'கருவி')}</p>
+  <h1>{L('Kalendar Pematuhan', 'Compliance Calendar', '合规日历', 'இணக்க நாட்காட்டி')}</h1>
   <p class="lede">
     {L(
       'Kewajipan berkanun bermula pada hari syarikat anda ditubuhkan — dan tiada siapa akan mengingatkan anda. Masukkan tarikh penubuhan untuk melihat tarikh akhir sebenar anda.',
       'Statutory duties start the day your company is incorporated — and nobody sends a reminder. Enter your incorporation date to see your actual deadlines.',
       '法定义务从公司成立当天开始——而且没有人会提醒你。输入成立日期，查看你的实际截止日期。',
+      'சட்டப்பூர்வக் கடமைகள் உங்கள் நிறுவனம் பதிவு செய்யப்படும் நாளிலேயே தொடங்குகின்றன — யாரும் நினைவூட்டல் அனுப்ப மாட்டார்கள். உங்கள் உண்மையான இறுதி தேதிகளைக் காண, உங்கள் நிறுவனப் பதிவு தேதியை உள்ளிடுங்கள்.',
     )}
   </p>
 
   <div class="datebar">
-    <label for="inc">{L('Tarikh penubuhan', 'Incorporation date', '公司成立日期')}</label>
+    <label for="inc">{L('Tarikh penubuhan', 'Incorporation date', '公司成立日期', 'நிறுவனப் பதிவு தேதி')}</label>
     <input type="date" id="inc" />
-    <button id="clear" type="button">{L('Kosongkan', 'Clear', '清除')}</button>
+    <button id="clear" type="button">{L('Kosongkan', 'Clear', '清除', 'அழி')}</button>
   </div>
 
   {
@@ -141,10 +142,10 @@ const groups = [...new Set(unique.map((r) => r.trigger))];
             </colgroup>
             <thead>
               <tr>
-                <th>{L('Kewajipan', 'Obligation', '义务')}</th>
-                <th>{L('Tarikh akhir', 'Deadline', '截止')}</th>
-                <th class="due-col">{L('Tarikh anda', 'Your date', '你的日期')}</th>
-                <th>{L('Kepada', 'Owed to', '主管机构')}</th>
+                <th>{L('Kewajipan', 'Obligation', '义务', 'கடமை')}</th>
+                <th>{L('Tarikh akhir', 'Deadline', '截止', 'இறுதி தேதி')}</th>
+                <th class="due-col">{L('Tarikh anda', 'Your date', '你的日期', 'உங்கள் தேதி')}</th>
+                <th>{L('Kepada', 'Owed to', '主管机构', 'யாருக்கு')}</th>
               </tr>
             </thead>
             <tbody>
@@ -174,6 +175,7 @@ const groups = [...new Set(unique.map((r) => r.trigger))];
       'Setiap kewajipan di sini diambil terus daripada artikel yang menerangkannya — klik untuk butiran penuh. Ini panduan umum, bukan nasihat profesional.',
       'Every obligation here is pulled directly from the article that explains it — click through for the full detail. This is general guidance, not professional advice.',
       '此处每项义务均直接取自解释它的文章——点击查看完整说明。本内容为一般指引，非专业意见。',
+      'இங்குள்ள ஒவ்வொரு கடமையும் அதை விளக்கும் கட்டுரையிலிருந்து நேரடியாக எடுக்கப்பட்டது — முழு விவரங்களுக்குக் கிளிக் செய்யுங்கள். இது ஒரு பொது வழிகாட்டி, தொழில்முறை ஆலோசனை அல்ல.',
     )}
   </p>
 </section>

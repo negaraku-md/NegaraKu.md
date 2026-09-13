@@ -106,21 +106,21 @@ const bBreak = (x?: AnalyticsBucket) =>
     ? Object.entries(x.byBot).map(([k, n]) => `${k}: ${n.toLocaleString()}`).join(' · ')
     : '';
 const visitorRows = [
-  { label: L('Pembaca', 'Readers', '读者'), x: views?.readers as AnalyticsBucket | undefined },
-  { label: L('Enjin carian', 'Search', '搜索引擎'), x: views?.search },
+  { label: L('Pembaca', 'Readers', '读者', 'வாசகர்கள்'), x: views?.readers as AnalyticsBucket | undefined },
+  { label: L('Enjin carian', 'Search', '搜索引擎', 'தேடல் இயந்திரம்'), x: views?.search },
   { label: 'AI', x: views?.ai },
 ];
 const SENS_LABEL: Record<string, string> = {
-  race: L('Kaum', 'Race', '种族'),
-  religion: L('Agama', 'Religion', '宗教'),
-  royalty: L('Institusi diraja', 'Royalty', '王室'),
-  constitution: L('Perlembagaan', 'Constitution', '宪法'),
-  elections: L('Pilihan raya', 'Elections', '选举'),
-  security: L('Keselamatan', 'Security', '安全'),
-  health: L('Kesihatan', 'Health', '健康'),
-  'legal-proceedings': L('Perundangan', 'Legal', '法律程序'),
+  race: L('Kaum', 'Race', '种族', 'இனம்'),
+  religion: L('Agama', 'Religion', '宗教', 'மதம்'),
+  royalty: L('Institusi diraja', 'Royalty', '王室', 'அரச நிறுவனம்'),
+  constitution: L('Perlembagaan', 'Constitution', '宪法', 'அரசியலமைப்பு'),
+  elections: L('Pilihan raya', 'Elections', '选举', 'தேர்தல்கள்'),
+  security: L('Keselamatan', 'Security', '安全', 'பாதுகாப்பு'),
+  health: L('Kesihatan', 'Health', '健康', 'சுகாதாரம்'),
+  'legal-proceedings': L('Perundangan', 'Legal', '法律程序', 'சட்டம்'),
 };
-const sensLabel = sensitive ? (SENS_LABEL[d.sensitivity] ?? L('Sensitif', 'Sensitive', '敏感')) : null;
+const sensLabel = sensitive ? (SENS_LABEL[d.sensitivity] ?? L('Sensitif', 'Sensitive', '敏感', 'உணர்திறன் மிக்க')) : null;
 
 const fmt = (dt: Date | null | undefined) =>
   dt
@@ -140,12 +140,12 @@ const isPublished = d.status === 'published';
 // human actually wrote it do we credit the `author` name. The schema's generic
 // "NegaraKu.md Editorial" default must not masquerade as a human author here.
 const draftBy = d.aiAssisted
-  ? L('Dibantu AI', 'AI-assisted', 'AI 辅助')
-  : (d.author ?? L('Manusia', 'Human', '人工'));
+  ? L('Dibantu AI', 'AI-assisted', 'AI 辅助', 'AI உதவியுடன்')
+  : (d.author ?? L('Manusia', 'Human', '人工', 'மனிதர்'));
 const lifecycle = [
   {
     key: 'drafted',
-    label: L('Dirangka', 'Drafted', '起草'),
+    label: L('Dirangka', 'Drafted', '起草', 'வரையப்பட்டது'),
     // revisions are stored newest-first, so the FIRST draft is the last entry.
     date: d.created ?? d.revisions?.at(-1)?.date ?? d.updated,
     by: draftBy,
@@ -153,17 +153,17 @@ const lifecycle = [
   },
   {
     key: 'reviewed',
-    label: L('Disemak', 'Reviewed', '审阅'),
+    label: L('Disemak', 'Reviewed', '审阅', 'மதிப்பாய்வு செய்யப்பட்டது'),
     date: isReviewed ? d.reviewed : null,
     // No human reviewer on this AI-generated corpus: disclose "AI-verified"
     // (verified against primary sources), not a human name. A human review
     // later sets `reviewer` to their handle and this shows that instead.
-    by: isReviewed ? (d.reviewer ?? (d.aiAssisted ? L('Disahkan AI', 'AI-verified', 'AI 核实') : null)) : null,
+    by: isReviewed ? (d.reviewer ?? (d.aiAssisted ? L('Disahkan AI', 'AI-verified', 'AI 核实', 'AI சரிபார்த்தது') : null)) : null,
     done: isReviewed,
   },
   {
     key: 'published',
-    label: L('Diterbitkan', 'Published', '发布'),
+    label: L('Diterbitkan', 'Published', '发布', 'வெளியிடப்பட்டது'),
     date: isPublished ? (d.published ?? d.reviewed) : null,
     by: isPublished ? (d.publishedBy ?? d.reviewer) : null,
     done: isPublished,
@@ -223,7 +223,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
       <path fill="currentColor" fill-rule="evenodd" d={FLOWER_D} />
     </svg>
     <p class="crumb" data-pagefind-ignore>
-      <a href={localePath('/', locale)}>{L('Laman Utama', 'Home', '首页')}</a> /
+      <a href={localePath('/', locale)}>{L('Laman Utama', 'Home', '首页', 'முகப்பு')}</a> /
       {pillarDef && (
         <>
           <a href={localePath(`/${pillar}`, locale)}>{loc(pillarDef.name, locale)}</a> {' / '}
@@ -244,8 +244,8 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
       <span class="pill mode">
         {
           d.mode === 'narrative'
-            ? L('📜 Naratif', '📜 Narrative', '📜 叙事')
-            : L('🧭 Praktikal', '🧭 Practical', '🧭 实用')
+            ? L('📜 Naratif', '📜 Narrative', '📜 叙事', '📜 கதையாடல்')
+            : L('🧭 Praktikal', '🧭 Practical', '🧭 实用', '🧭 நடைமுறை')
         }
       </span>
       <TrustBadge
@@ -255,12 +255,12 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
         translationStatus={d.translationStatus}
         statusDate={isPublished ? fmt(d.published ?? d.reviewed) : undefined}
       />
-      <span class="pill">{mins} {L('min baca', 'min read', '分钟阅读')}</span>
+      <span class="pill">{mins} {L('min baca', 'min read', '分钟阅读', 'நிமிட வாசிப்பு')}</span>
       {d.reviewDue && (
         <span class={`pill pill-date${new Date(d.reviewDue) < new Date() ? ' overdue' : ''}`}>
           {new Date(d.reviewDue) < new Date()
-            ? `⚠ ${L('Semakan tertunggak', 'Review overdue', '审阅逾期')}`
-            : L('Semakan seterusnya', 'Next review', '下次审阅')} {fmt(d.reviewDue)}
+            ? `⚠ ${L('Semakan tertunggak', 'Review overdue', '审阅逾期', 'மதிப்பாய்வு தாமதமானது')}`
+            : L('Semakan seterusnya', 'Next review', '下次审阅', 'அடுத்த மதிப்பாய்வு')} {fmt(d.reviewDue)}
         </span>
       )}
     </div>
@@ -275,18 +275,20 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
   {
     sensitive && (
       <div class={sensitiveLive ? 'sens sens-live' : 'sens'}>
-        <b>🔒 {L('Kandungan sensitif', 'Sensitive content', '敏感内容')}{SENS_LABEL[d.sensitivity] ? ` — ${SENS_LABEL[d.sensitivity]}` : ''}</b>
+        <b>🔒 {L('Kandungan sensitif', 'Sensitive content', '敏感内容', 'உணர்திறன் மிக்க உள்ளடக்கம்')}{SENS_LABEL[d.sensitivity] ? ` — ${SENS_LABEL[d.sensitivity]}` : ''}</b>
         <p>
           {sensitiveLive
             ? L(
                 'Topik ini tergolong dalam kategori sensitif dan dibentangkan secara deskriptif dan neutral sahaja.',
                 'This topic falls under a sensitive category and is presented descriptively and neutrally.',
                 '本主题属于敏感类别，内容仅作中立、描述性呈现。',
+                'இந்தத் தலைப்பு உணர்திறன் மிக்க வகையைச் சேர்ந்தது; இது விவரணமாகவும் நடுநிலையாகவும் மட்டுமே வழங்கப்படுகிறது.',
               )
             : L(
                 'Topik ini tergolong dalam kategori sensitif dan memerlukan semakan manusia sebelum diterbitkan sepenuhnya. Ia dibentangkan secara deskriptif dan neutral sahaja.',
                 'This topic falls under a sensitive category and requires human review before full publication. It is presented descriptively and neutrally only.',
                 '本主题属于敏感类别，需经人工审阅后方可正式发布。内容仅作中立、描述性呈现。',
+                'இந்தத் தலைப்பு உணர்திறன் மிக்க வகையைச் சேர்ந்தது; முழுமையாக வெளியிடப்படுவதற்கு முன் மனிதப் பரிசீலனை தேவை. இது விவரணமாகவும் நடுநிலையாகவும் மட்டுமே வழங்கப்படுகிறது.',
               )}
         </p>
       </div>
@@ -299,10 +301,10 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
         d.answer && (
           <section class="layer l1">
             <header>
-              <span class="sec-h"><span class="ico" set:html={ICON.answer} />{L('Jawapan pantas', '30-second answer', '30秒速答')}</span>
+              <span class="sec-h"><span class="ico" set:html={ICON.answer} />{L('Jawapan pantas', '30-second answer', '30秒速答', '30 வினாடி பதில்')}</span>
               {d.reviewed && (
                 <span>
-                  {L('Disemak', 'Reviewed', '审阅于')} {fmt(d.reviewed)}
+                  {L('Disemak', 'Reviewed', '审阅于', 'மதிப்பாய்வு செய்யப்பட்டது')} {fmt(d.reviewed)}
                 </span>
               )}
             </header>
@@ -317,7 +319,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
               )}
               {d.appliesTo && (
                 <p class="applies">
-                  <b>{L('Untuk siapa:', 'Who this applies to:', '适用对象：')}</b> {d.appliesTo}
+                  <b>{L('Untuk siapa:', 'Who this applies to:', '适用对象：', 'யாருக்குப் பொருந்தும்:')}</b> {d.appliesTo}
                 </p>
               )}
             </div>
@@ -328,7 +330,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
       {
         toc.length > 0 && (
           <details class="toc-mobile">
-            <summary>{L('Dalam halaman ini', 'On this page', '本页内容')}</summary>
+            <summary>{L('Dalam halaman ini', 'On this page', '本页内容', 'இந்தப் பக்கத்தில்')}</summary>
             <nav>
               {toc.map((h) => (
                 <a href={`#${h.slug}`}>{h.text}</a>
@@ -340,8 +342,8 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
 
       <section class="layer">
         <header>
-          <span class="sec-h"><span class="ico" set:html={ICON.explanation} />{L('Penjelasan penuh', 'Full explanation', '完整说明')}</span>
-          <span>≈{mins} {L('min', 'min', '分钟')}</span>
+          <span class="sec-h"><span class="ico" set:html={ICON.explanation} />{L('Penjelasan penuh', 'Full explanation', '完整说明', 'முழு விளக்கம்')}</span>
+          <span>≈{mins} {L('min', 'min', '分钟', 'நிமிடம்')}</span>
         </header>
         <div class="lb prose"><Content /></div>
       </section>
@@ -350,7 +352,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
         d.faq.length > 0 && (
           <section class="layer">
             <header>
-              <span class="sec-h"><span class="ico" set:html={ICON.faq} />{L('Soalan lazim', 'Frequently asked', '常见问题')}</span>
+              <span class="sec-h"><span class="ico" set:html={ICON.faq} />{L('Soalan lazim', 'Frequently asked', '常见问题', 'அடிக்கடி கேட்கப்படுபவை')}</span>
               <span>{d.faq.length}</span>
             </header>
             <div class="lb faqs">
@@ -368,21 +370,22 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
 
       <section class="layer">
         <header>
-          <span class="sec-h"><span class="ico" set:html={ICON.sources} />{L('Sumber & sejarah', 'Sources & history', '来源与历史')}</span>
-          <span>{d.sources.length} {L('sumber', 'sources', '来源')}</span>
+          <span class="sec-h"><span class="ico" set:html={ICON.sources} />{L('Sumber & sejarah', 'Sources & history', '来源与历史', 'ஆதாரங்கள் & வரலாறு')}</span>
+          <span>{d.sources.length} {L('sumber', 'sources', '来源', 'ஆதாரங்கள்')}</span>
         </header>
         <div class="lb">
           {
             d.verificationNeeded.length > 0 && (
               <div class="verify">
                 <b>
-                  ⚑ {L('Menunggu pengesahan pakar', 'Awaiting expert verification', '待专家核实')}
+                  ⚑ {L('Menunggu pengesahan pakar', 'Awaiting expert verification', '待专家核实', 'நிபுணர் சரிபார்ப்புக்காகக் காத்திருக்கிறது')}
                 </b>
                 <p>
                   {L(
                     'Perkara berikut sengaja tidak dinyatakan atau diterangkan secara umum sahaja sehingga disahkan oleh pakar bidang:',
                     'The following are deliberately unstated or described only qualitatively until confirmed by a subject-matter expert:',
                     '以下内容在专家确认前，刻意未予明示或仅作定性描述：',
+                    'பின்வருபவை, துறை நிபுணரால் உறுதிப்படுத்தப்படும் வரை, வேண்டுமென்றே குறிப்பிடப்படாமல் அல்லது பொதுவாக மட்டுமே விவரிக்கப்பட்டுள்ளன:',
                   )}
                 </p>
                 <ul>
@@ -393,7 +396,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
               </div>
             )
           }
-          <h3>{L('Sumber', 'Sources', '来源')}</h3>
+          <h3>{L('Sumber', 'Sources', '来源', 'ஆதாரங்கள்')}</h3>
           {
             d.sources.length > 0 ? (
               <ol class="src">
@@ -411,22 +414,22 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
                 ))}
               </ol>
             ) : (
-              <p class="muted">{L('Tiada sumber lagi.', 'No sources yet.', '暂无来源。')}</p>
+              <p class="muted">{L('Tiada sumber lagi.', 'No sources yet.', '暂无来源。', 'இன்னும் ஆதாரங்கள் இல்லை.')}</p>
             )
           }
 
           {
             d.revisions.length > 0 && (
               <div>
-                <h3>{L('Sejarah perubahan', 'Change history', '修订历史')}</h3>
+                <h3>{L('Sejarah perubahan', 'Change history', '修订历史', 'மாற்ற வரலாறு')}</h3>
                 <div class="tblwrap">
                   <table>
                     <thead>
                       <tr>
-                        <th>{L('Semakan', 'Revision', '修订')}</th>
-                        <th>{L('Tarikh', 'Date', '日期')}</th>
-                        <th>{L('Perubahan', 'Change', '变更')}</th>
-                        <th>{L('Oleh', 'By', '修订者')}</th>
+                        <th>{L('Semakan', 'Revision', '修订', 'திருத்தம்')}</th>
+                        <th>{L('Tarikh', 'Date', '日期', 'தேதி')}</th>
+                        <th>{L('Perubahan', 'Change', '变更', 'மாற்றம்')}</th>
+                        <th>{L('Oleh', 'By', '修订者', 'செய்தவர்')}</th>
                       </tr>
                     </thead>
                     <tbody>
@@ -451,15 +454,15 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
         (prev || next) && (
           <section class="layer">
             <header>
-              <span>{L('Lagi dalam', 'More in', '更多内容：')} {groupLabel}</span>
+              <span>{L('Lagi dalam', 'More in', '更多内容：', 'இதில் மேலும்')} {groupLabel}</span>
               <a class="more-topic" href={groupHref}>
-                {L('Lihat semua', 'View all', '查看全部')} {siblings.length} →
+                {L('Lihat semua', 'View all', '查看全部', 'அனைத்தையும் காண்க')} {siblings.length} →
               </a>
             </header>
             <div class="lb pager">
               {prev ? (
                 <a class="pg" href={aHref(prev)}>
-                  <span class="dir">← {L('Sebelum', 'Previous', '上一篇')}</span>
+                  <span class="dir">← {L('Sebelum', 'Previous', '上一篇', 'முந்தையது')}</span>
                   <b>{prev.data.title}</b>
                 </a>
               ) : (
@@ -467,7 +470,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
               )}
               {next ? (
                 <a class="pg next" href={aHref(next)}>
-                  <span class="dir">{L('Seterusnya', 'Next', '下一篇')} →</span>
+                  <span class="dir">{L('Seterusnya', 'Next', '下一篇', 'அடுத்தது')} →</span>
                   <b>{next.data.title}</b>
                 </a>
               ) : (
@@ -481,7 +484,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
       {
         related.length > 0 && (
           <section class="rel" data-pagefind-ignore>
-            <header><span class="sec-h"><span class="ico" set:html={ICON.related} />{L('Pengetahuan berkaitan', 'Related knowledge', '相关知识')}</span></header>
+            <header><span class="sec-h"><span class="ico" set:html={ICON.related} />{L('Pengetahuan berkaitan', 'Related knowledge', '相关知识', 'தொடர்புடைய அறிவு')}</span></header>
             <div class="rel-body">
               <div class="rgrid">
                 {related.map((r) => (
@@ -499,14 +502,14 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
       <FeedbackBar locale={locale} title={d.title} />
 
       {(prev || next) && (
-        <nav class="artnav" aria-label={L('Navigasi artikel', 'Article navigation', '文章导航')} data-pagefind-ignore>
+        <nav class="artnav" aria-label={L('Navigasi artikel', 'Article navigation', '文章导航', 'கட்டுரை வழிசெலுத்தல்')} data-pagefind-ignore>
           {prev && (
-            <a class="artnav-btn" href={aHref(prev)} title={prev.data.title} aria-label={`${L('Sebelum', 'Previous', '上一篇')}: ${prev.data.title}`}>
+            <a class="artnav-btn" href={aHref(prev)} title={prev.data.title} aria-label={`${L('Sebelum', 'Previous', '上一篇', 'முந்தையது')}: ${prev.data.title}`}>
               <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M19 12H5" /><path d="m12 19-7-7 7-7" /></svg>
             </a>
           )}
           {next && (
-            <a class="artnav-btn" href={aHref(next)} title={next.data.title} aria-label={`${L('Seterusnya', 'Next', '下一篇')}: ${next.data.title}`}>
+            <a class="artnav-btn" href={aHref(next)} title={next.data.title} aria-label={`${L('Seterusnya', 'Next', '下一篇', 'அடுத்தது')}: ${next.data.title}`}>
               <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14" /><path d="m12 5 7 7-7 7" /></svg>
             </a>
           )}
@@ -519,7 +522,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
       {
         toc.length > 0 && (
           <nav class="toc">
-            <b><span class="ico" set:html={ICON.toc} />{L('Dalam halaman ini', 'On this page', '本页内容')}</b>
+            <b><span class="ico" set:html={ICON.toc} />{L('Dalam halaman ini', 'On this page', '本页内容', 'இந்தப் பக்கத்தில்')}</b>
             {toc.map((h) => (
               <a href={`#${h.slug}`}>{h.text}</a>
             ))}
@@ -528,24 +531,24 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
       }
 
       <div class="trust">
-        <b><span class="ico" set:html={ICON.trust} />{L('Kepercayaan & asal usul', 'Trust & provenance', '可信度与来源')}</b>
+        <b><span class="ico" set:html={ICON.trust} />{L('Kepercayaan & asal usul', 'Trust & provenance', '可信度与来源', 'நம்பகத்தன்மை & மூலம்')}</b>
         <div class="r r-status">
-          <span>{L('Status', 'Status', '状态')}</span>
+          <span>{L('Status', 'Status', '状态', 'நிலை')}</span>
           <TrustBadge locale={locale} status={d.status} compact />
         </div>
         <div class="r r-sens">
-          <span>{L('Klasifikasi', 'Classification', '分类')}</span>
+          <span>{L('Klasifikasi', 'Classification', '分类', 'வகைப்பாடு')}</span>
           {
             sensitive ? (
               <span class="sens-tag">🔒 {sensLabel}</span>
             ) : (
-              <span class="muted">{L('Umum', 'General', '一般')}</span>
+              <span class="muted">{L('Umum', 'General', '一般', 'பொது')}</span>
             )
           }
         </div>
 
         <div class="r r-custody-head">
-          <span>{L('Rantaian kawalan', 'Chain of custody', '保管链')}</span>
+          <span>{L('Rantaian kawalan', 'Chain of custody', '保管链', 'பொறுப்புச் சங்கிலி')}</span>
         </div>
         <ol class="chain">
           {
@@ -560,7 +563,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
                       <span class="ch-by">{s.by ?? '—'}</span>
                     </>
                   ) : (
-                    <span class="ch-date">{L('Belum lagi', 'Not yet', '尚未')}</span>
+                    <span class="ch-date">{L('Belum lagi', 'Not yet', '尚未', 'இன்னும் இல்லை')}</span>
                   )}
                 </span>
               </li>
@@ -571,9 +574,9 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
         {
           d.reviewDue && (
             <div class="r r-next">
-              <span>{L('Semakan seterusnya', 'Next review', '下次审阅')}</span>
+              <span>{L('Semakan seterusnya', 'Next review', '下次审阅', 'அடுத்த மதிப்பாய்வு')}</span>
               {new Date(d.reviewDue).getTime() < Date.now() ? (
-                <span class="rev-overdue" title={L('Semakan tertunggak', 'Review overdue', '审阅逾期')}>
+                <span class="rev-overdue" title={L('Semakan tertunggak', 'Review overdue', '审阅逾期', 'மதிப்பாய்வு தாமதமானது')}>
                   ⚠ {fmt(d.reviewDue)}
                 </span>
               ) : (
@@ -582,13 +585,13 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
             </div>
           )
         }
-        <div class="r"><span>{L('Semakan', 'Revision', '修订')}</span><span>{d.revision ?? '—'}</span></div>
-        <div class="r"><span>{L('Bahasa induk', 'Master language', '主语言')}</span><span>{d.masterLanguage.toUpperCase()}</span></div>
-        <div class="r"><span>{L('Sumber', 'Sources', '来源')}</span><span>{d.sources.length}</span></div>
+        <div class="r"><span>{L('Semakan', 'Revision', '修订', 'திருத்தம்')}</span><span>{d.revision ?? '—'}</span></div>
+        <div class="r"><span>{L('Bahasa induk', 'Master language', '主语言', 'மூல மொழி')}</span><span>{d.masterLanguage.toUpperCase()}</span></div>
+        <div class="r"><span>{L('Sumber', 'Sources', '来源', 'ஆதாரங்கள்')}</span><span>{d.sources.length}</span></div>
 
         <div class="r r-custody-head">
-          <span>{L('Pelawat', 'Visitors', '访客')}</span>
-          {!views && <span class="muted vnote">{L('belum dijejak', 'not tracked yet', '尚未追踪')}</span>}
+          <span>{L('Pelawat', 'Visitors', '访客', 'பார்வையாளர்கள்')}</span>
+          {!views && <span class="muted vnote">{L('belum dijejak', 'not tracked yet', '尚未追踪', 'இன்னும் கண்காணிக்கப்படவில்லை')}</span>}
         </div>
         {
           views &&
@@ -604,23 +607,23 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
       </div>
 
       <div class="side-box">
-        <b><span class="ico" set:html={ICON.edit} />{L('Sunting & sumber', 'Edit & source', '编辑与源码')}</b>
+        <b><span class="ico" set:html={ICON.edit} />{L('Sunting & sumber', 'Edit & source', '编辑与源码', 'திருத்து & மூலம்')}</b>
         <a class="edit" href={`${REPO}/blob/main/${sourceFile}`} rel="noopener">
-          {L('Sunting di GitHub', 'Edit on GitHub', '在 GitHub 编辑')} ↗
+          {L('Sunting di GitHub', 'Edit on GitHub', '在 GitHub 编辑', 'GitHub-இல் திருத்து')} ↗
         </a>
         <a class="edit" href={suggestUrl} rel="noopener">
-          {L('Cadangkan penambahbaikan', 'Suggest an improvement', '建议改进')} ↗
+          {L('Cadangkan penambahbaikan', 'Suggest an improvement', '建议改进', 'மேம்பாட்டைப் பரிந்துரைக்கவும்')} ↗
         </a>
         <a class="edit" href={reportUrl} rel="noopener">
-          {L('Laporkan isu', 'Report an issue', '报告问题')} ↗
+          {L('Laporkan isu', 'Report an issue', '报告问题', 'சிக்கலைப் புகாரளிக்கவும்')} ↗
         </a>
         {showTranslationReport && (
           <a class="edit" href={translationUrl} rel="noopener">
-            {L('Laporkan masalah terjemahan', 'Report a translation problem', '报告翻译问题')} ↗
+            {L('Laporkan masalah terjemahan', 'Report a translation problem', '报告翻译问题', 'மொழிபெயர்ப்புச் சிக்கலைப் புகாரளிக்கவும்')} ↗
           </a>
         )}
         <a class="edit" href={localePath(path, locale) + '.md'}>
-          {L('Markdown mentah', 'Raw Markdown', '原始 Markdown')} ↗
+          {L('Markdown mentah', 'Raw Markdown', '原始 Markdown', 'மூல Markdown')} ↗
         </a>
       </div>
     </aside>

@@ -10,7 +10,7 @@ const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const API = path.join(ROOT, 'public', 'api');
 const IN = path.join(API, 'articles.json');
 const OUT = path.join(API, 'dashboard.json');
-const SITE_LANGS = ['ms', 'en', 'zh']; // every locale the site serves
+const SITE_LANGS = ['ms', 'en', 'zh', 'ta']; // every locale the site serves
 const HEART_TARGET = 60; // articles considered a "healthy" corpus size
 
 async function main() {
@@ -170,15 +170,15 @@ async function main() {
 
   const vitals = {
     heart: {
-      label: { ms: 'Jantung', en: 'Heartbeat', zh: '心跳' },
+      label: { ms: 'Jantung', en: 'Heartbeat', zh: '心跳', ta: 'இதயத்துடிப்பு' },
       score: Math.min(100, Math.round((masterArticles / HEART_TARGET) * 100)),
-      detail: { ms: `${masterArticles} artikel induk`, en: `${masterArticles} master articles`, zh: `${masterArticles} 篇主文章` },
+      detail: { ms: `${masterArticles} artikel induk`, en: `${masterArticles} master articles`, zh: `${masterArticles} 篇主文章`, ta: `${masterArticles} தலைமைக் கட்டுரைகள்` },
     },
     // Was "Immunity — N reviewed". Nothing in the corpus has a genuine human
     // review (statuses were set in bulk), so that number asserted something it
     // could not back up. Report what actually cleared the publish gate instead.
     published: {
-      label: { ms: 'Diterbitkan', en: 'Published', zh: '已发布' },
+      label: { ms: 'Diterbitkan', en: 'Published', zh: '已发布', ta: 'வெளியிடப்பட்டது' },
       // Live topics over the whole pipeline (live + in-review). This is the one
       // vital that intentionally references the backlog: it answers "how much of
       // the work in flight is actually live?" — 1015 live of 1051 in the pipeline.
@@ -187,22 +187,23 @@ async function main() {
         ms: `${masterArticles} langsung · ${pendingTopics} belum diterbitkan`,
         en: `${masterArticles} live · ${pendingTopics} not yet published`,
         zh: `${masterArticles} 已上线 · ${pendingTopics} 尚未发布`,
+        ta: `${masterArticles} நேரலை · ${pendingTopics} இன்னும் வெளியிடப்படவில்லை`,
       },
     },
     dna: {
-      label: { ms: 'DNA', en: 'DNA / Languages', zh: 'DNA·语言' },
+      label: { ms: 'DNA', en: 'DNA / Languages', zh: 'DNA·语言', ta: 'DNA · மொழிகள்' },
       score: pct(filled, slots),
-      detail: { ms: `${filled}/${slots} terjemahan`, en: `${filled}/${slots} translations`, zh: `${filled}/${slots} 翻译` },
+      detail: { ms: `${filled}/${slots} terjemahan`, en: `${filled}/${slots} translations`, zh: `${filled}/${slots} 翻译`, ta: `${filled}/${slots} மொழிபெயர்ப்புகள்` },
     },
     citations: {
-      label: { ms: 'Rujukan', en: 'Citations', zh: '引用' },
+      label: { ms: 'Rujukan', en: 'Citations', zh: '引用', ta: 'மேற்கோள்கள்' },
       score: pct(citedOk, citedNeed || 1),
-      detail: { ms: `${citedOk}/${citedNeed} dipetik`, en: `${citedOk}/${citedNeed} cited`, zh: `${citedOk}/${citedNeed} 已引用` },
+      detail: { ms: `${citedOk}/${citedNeed} dipetik`, en: `${citedOk}/${citedNeed} cited`, zh: `${citedOk}/${citedNeed} 已引用`, ta: `${citedOk}/${citedNeed} மேற்கோள் காட்டப்பட்டது` },
     },
     diversity: {
-      label: { ms: 'Kepelbagaian', en: 'Diversity', zh: '多样性' },
+      label: { ms: 'Kepelbagaian', en: 'Diversity', zh: '多样性', ta: 'பன்முகத்தன்மை' },
       score: pct(categoriesCovered, 15),
-      detail: { ms: `${categoriesCovered} kategori`, en: `${categoriesCovered} categories`, zh: `${categoriesCovered} 个类别` },
+      detail: { ms: `${categoriesCovered} kategori`, en: `${categoriesCovered} categories`, zh: `${categoriesCovered} 个类别`, ta: `${categoriesCovered} வகைகள்` },
     },
   };
 
@@ -232,14 +233,15 @@ async function main() {
     };
   }
 
-  // Topic-level language completeness: of all public topics, how many carry all
-  // three languages vs. only some. This is the honest answer to "is every topic
-  // trilingual?" — after single-language masters land, most are NOT yet.
-  const trilingual = { topics, full: 0, two: 0, one: 0 };
+  // Topic-level language completeness: of all public topics, how many carry ALL
+  // site languages vs. only some. "full" = present in every locale the site serves
+  // (SITE_LANGS — now ms/en/zh/ta), so adding a language raises the bar honestly.
+  const NLANGS = SITE_LANGS.length;
+  const trilingual = { topics, langCount: NLANGS, full: 0, two: 0, one: 0 };
   for (const key of censusByKey.keys()) {
     const c = langsByKeyAll.get(key)?.size ?? 0;
-    if (c >= 3) trilingual.full++;
-    else if (c === 2) trilingual.two++;
+    if (c >= NLANGS) trilingual.full++;
+    else if (c >= 2) trilingual.two++;
     else trilingual.one++;
   }
   trilingual.fullPct = pct(trilingual.full, topics);
@@ -361,7 +363,7 @@ async function main() {
         return {
           slug: a.slug,
           category: a.category,
-          title: { ms: a.title, en: ttl.en ?? a.title, zh: ttl.zh ?? a.title },
+          title: { ms: a.title, en: ttl.en ?? a.title, zh: ttl.zh ?? a.title, ta: ttl.ta ?? a.title },
           updated: a.updated,
         };
       }),
@@ -392,7 +394,7 @@ async function main() {
         const ttl = titlesByKey.get(a.key) ?? {};
         return {
           slug: a.slug,
-          title: { ms: a.title, en: ttl.en ?? a.title, zh: ttl.zh ?? a.title },
+          title: { ms: a.title, en: ttl.en ?? a.title, zh: ttl.zh ?? a.title, ta: ttl.ta ?? a.title },
           category: a.category,
           status: a.status,
           words: a.words,

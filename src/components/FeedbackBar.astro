@@ -39,7 +39,7 @@ const BRAND: Record<string, string> = {
 const copyApps = [
   { key: 'tiktok', label: 'TikTok' },
   { key: 'instagram', label: 'Instagram' },
-  { key: 'redbook', label: L('RedBook', 'RedBook', '小红书') },
+  { key: 'redbook', label: L('RedBook', 'RedBook', '小红书', 'RedBook') },
 ];
 // Each href ends where the runtime page URL is appended (see the client script).
 const shares = [
@@ -56,12 +56,12 @@ const shares = [
 
 <div class="fb" data-pagefind-ignore>
   <section class="fb-sec">
-    <header><span>{L('Kongsi', 'Share', '分享')}</span></header>
+    <header><span>{L('Kongsi', 'Share', '分享', 'பகிர்')}</span></header>
     <div class="fb-body">
       <div class="share-row">
         <button type="button" class="share-native" data-native hidden>
           <span class="sv" set:html={SVG.native} />
-          {L('Kongsi', 'Share', '分享')}
+          {L('Kongsi', 'Share', '分享', 'பகிர்')}
         </button>
         {shares.map((s) => (
           <a
@@ -84,13 +84,13 @@ const shares = [
             data-copyapp
             data-app={s.label}
             style={`--brand:${BRAND[s.key]}`}
-            aria-label={L(`Salin pautan untuk ${s.label}`, `Copy link for ${s.label}`, `复制链接以分享到${s.label}`)}
+            aria-label={L(`Salin pautan untuk ${s.label}`, `Copy link for ${s.label}`, `复制链接以分享到${s.label}`, `${s.label}-க்கான இணைப்பை நகலெடு`)}
             title={s.label}
           >
             <span class="sv" set:html={SVG[s.key]} />
           </button>
         ))}
-        <button type="button" class="share-ico copy" data-copy aria-label={L('Salin pautan', 'Copy link', '复制链接')} title={L('Salin pautan', 'Copy link', '复制链接')}>
+        <button type="button" class="share-ico copy" data-copy aria-label={L('Salin pautan', 'Copy link', '复制链接', 'இணைப்பை நகலெடு')} title={L('Salin pautan', 'Copy link', '复制链接', 'இணைப்பை நகலெடு')}>
           <span class="sv sv-copy" set:html={SVG.copy} />
           <span class="sv sv-check" set:html={SVG.check} />
         </button>

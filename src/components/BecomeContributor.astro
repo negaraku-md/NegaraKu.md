@@ -13,16 +13,17 @@ const L = (ms: string, en: string, zh: string, ta?: string) => (locale === 'ta' 
 <section class="become container block" data-pre-contributor data-pagefind-ignore>
   <div class="become-card">
     <div class="become-text">
-      <b class="become-title">{L('Bantu bina NegaraKu.md', 'Help build NegaraKu.md', '一起建设 NegaraKu.md')}</b>
+      <b class="become-title">{L('Bantu bina NegaraKu.md', 'Help build NegaraKu.md', '一起建设 NegaraKu.md', 'NegaraKu.md-ஐ கட்டியெழுப்ப உதவுங்கள்')}</b>
       <p>{L(
         'Sesiapa boleh menambah baik — betulkan kesilapan, isi kekurangan, atau cadang topik baharu. Semuanya terbuka di GitHub, dan setiap perubahan disemak.',
         'Anyone can improve it — fix an error, fill a gap, or suggest a new topic. It’s all open on GitHub, and every change is reviewed.',
         '人人都能改进它——更正错误、补足缺漏，或建议新主题。一切都在 GitHub 上公开，每处改动都会经过审阅。',
+        'யார் வேண்டுமானாலும் இதை மேம்படுத்தலாம் — பிழையைத் திருத்தலாம், குறையை நிரப்பலாம், அல்லது புதிய தலைப்பைப் பரிந்துரைக்கலாம். அனைத்தும் GitHub-இல் திறந்தநிலையில் உள்ளது; ஒவ்வொரு மாற்றமும் மதிப்பாய்வு செய்யப்படுகிறது.',
       )}</p>
     </div>
     <div class="become-actions">
-      <a class="btn btn-primary" href={REPO} rel="noopener">★ {L('Bintangkan di GitHub', 'Star on GitHub', '在 GitHub 点星')}</a>
-      <a class="btn btn-ghost" href={localePath('/contribute', locale)}>{L('Cara menyumbang', 'How to contribute', '如何贡献')} →</a>
+      <a class="btn btn-primary" href={REPO} rel="noopener">★ {L('Bintangkan di GitHub', 'Star on GitHub', '在 GitHub 点星', 'GitHub-இல் நட்சத்திரமிடுங்கள்')}</a>
+      <a class="btn btn-ghost" href={localePath('/contribute', locale)}>{L('Cara menyumbang', 'How to contribute', '如何贡献', 'எப்படி பங்களிப்பது')} →</a>
     </div>
   </div>
 </section>

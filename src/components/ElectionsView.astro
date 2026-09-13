@@ -13,24 +13,24 @@ const target = '2027-11-19';
 const politics = await articlesInCategory('politics', locale);
 
 const facts = [
-  { n: '222', t: L('kerusi Dewan Rakyat', 'Dewan Rakyat seats', '国会下议院席位') },
-  { n: 'FPTP', t: L('sistem undi majoriti mudah', 'first-past-the-post', '简单多数制') },
-  { n: '18', t: L('umur mengundi', 'voting age', '投票年龄') },
-  { n: '5', t: L('tahun penggal maksimum', 'year max term', '年最长任期') },
+  { n: '222', t: L('kerusi Dewan Rakyat', 'Dewan Rakyat seats', '国会下议院席位', 'Dewan Rakyat இருக்கைகள்') },
+  { n: 'FPTP', t: L('sistem undi majoriti mudah', 'first-past-the-post', '简单多数制', 'எளிய பெரும்பான்மை முறை') },
+  { n: '18', t: L('umur mengundi', 'voting age', '投票年龄', 'வாக்களிக்கும் வயது') },
+  { n: '5', t: L('tahun penggal maksimum', 'year max term', '年最长任期', 'ஆண்டு அதிகபட்சப் பதவிக்காலம்') },
 ];
 ---
 
 <section class="container head">
-  <p class="kicker">🗳️ {L('Pusat Pilihan Raya', 'Elections Hub', '选举中心')}</p>
-  <h1>{L('Pilihan Raya Umum Malaysia', 'Malaysian General Election', '马来西亚大选')}</h1>
-  <p class="lead">{L('Panduan tak-berpihak tentang sistem pilihan raya Malaysia. Kiraan detik adalah anggaran.', 'A non-partisan guide to Malaysia\'s electoral system. The countdown is indicative.', '关于马来西亚选举制度的中立指南。倒计时为估计值。')}</p>
+  <p class="kicker">🗳️ {L('Pusat Pilihan Raya', 'Elections Hub', '选举中心', 'தேர்தல் மையம்')}</p>
+  <h1>{L('Pilihan Raya Umum Malaysia', 'Malaysian General Election', '马来西亚大选', 'மலேசியப் பொதுத் தேர்தல்')}</h1>
+  <p class="lead">{L('Panduan tak-berpihak tentang sistem pilihan raya Malaysia. Kiraan detik adalah anggaran.', 'A non-partisan guide to Malaysia\'s electoral system. The countdown is indicative.', '关于马来西亚选举制度的中立指南。倒计时为估计值。', 'மலேசியாவின் தேர்தல் அமைப்பு குறித்த ஒரு நடுநிலையான வழிகாட்டி. கவுண்ட்டவுன் ஒரு தோராயமான மதிப்பீடே.')}</p>
   <div class="countdown" data-target={target}>
-    <div><b id="cd-days">–</b><span>{L('hari', 'days', '天')}</span></div>
-    <div><b id="cd-hrs">–</b><span>{L('jam', 'hours', '小时')}</span></div>
-    <div><b id="cd-min">–</b><span>{L('minit', 'minutes', '分钟')}</span></div>
+    <div><b id="cd-days">–</b><span>{L('hari', 'days', '天', 'நாட்கள்')}</span></div>
+    <div><b id="cd-hrs">–</b><span>{L('jam', 'hours', '小时', 'மணி')}</span></div>
+    <div><b id="cd-min">–</b><span>{L('minit', 'minutes', '分钟', 'நிமிடம்')}</span></div>
   </div>
-  <p class="cd-expired" hidden>{L('Sasaran anggaran telah berlalu — PRU16 mungkin akan diadakan. Semak SPR untuk tarikh yang diwartakan.', 'The indicative date has passed — GE16 may be due. Check the SPR for the gazetted date.', '估计日期已过——GE16 可能即将举行。请查看 SPR 的正式日期。')}</p>
-  <p class="muted cd-target">{L('Sasaran anggaran', 'Indicative target', '估计目标')}: {target}</p>
+  <p class="cd-expired" hidden>{L('Sasaran anggaran telah berlalu — PRU16 mungkin akan diadakan. Semak SPR untuk tarikh yang diwartakan.', 'The indicative date has passed — GE16 may be due. Check the SPR for the gazetted date.', '估计日期已过——GE16 可能即将举行。请查看 SPR 的正式日期。', 'தோராயமான தேதி கடந்துவிட்டது — GE16 நடைபெறலாம். வர்த்தமானியில் வெளியிடப்பட்ட தேதிக்கு SPR-ஐ பார்க்கவும்.')}</p>
+  <p class="muted cd-target">{L('Sasaran anggaran', 'Indicative target', '估计目标', 'தோராயமான இலக்கு')}: {target}</p>
 </section>
 
 <section class="container block">
@@ -41,16 +41,16 @@ const facts = [
 
 <section class="container block two">
   <div class="prose">
-    <h2>{L('Bagaimana ia berfungsi', 'How it works', '如何运作')}</h2>
-    <p>{L('Malaysia mengamalkan sistem "first-past-the-post": calon dengan undi terbanyak dalam setiap kawasan menang kerusi. Parti/gabungan dengan majoriti kerusi Dewan Rakyat membentuk kerajaan, dan pemimpinnya menjadi Perdana Menteri.', 'Malaysia uses first-past-the-post: the candidate with the most votes in each constituency wins the seat. The party/coalition with a majority of Dewan Rakyat seats forms the government, and its leader becomes Prime Minister.', '马来西亚采用简单多数制：各选区得票最多者胜出。取得国会下议院多数席位的政党/联盟组建政府，其领袖出任首相。')}</p>
-    <p>{L('Suruhanjaya Pilihan Raya (SPR) mengendalikan pilihan raya.', 'The Election Commission (SPR) administers elections.', '选举委员会（SPR）负责组织选举。')}</p>
+    <h2>{L('Bagaimana ia berfungsi', 'How it works', '如何运作', 'இது எப்படி இயங்குகிறது')}</h2>
+    <p>{L('Malaysia mengamalkan sistem "first-past-the-post": calon dengan undi terbanyak dalam setiap kawasan menang kerusi. Parti/gabungan dengan majoriti kerusi Dewan Rakyat membentuk kerajaan, dan pemimpinnya menjadi Perdana Menteri.', 'Malaysia uses first-past-the-post: the candidate with the most votes in each constituency wins the seat. The party/coalition with a majority of Dewan Rakyat seats forms the government, and its leader becomes Prime Minister.', '马来西亚采用简单多数制：各选区得票最多者胜出。取得国会下议院多数席位的政党/联盟组建政府，其领袖出任首相。', 'மலேசியா "first-past-the-post" முறையைப் பயன்படுத்துகிறது: ஒவ்வொரு தொகுதியிலும் அதிக வாக்குகளைப் பெறும் வேட்பாளர் அந்த இருக்கையை வெல்கிறார். Dewan Rakyat இருக்கைகளில் பெரும்பான்மை பெறும் கட்சி/கூட்டணி அரசாங்கத்தை அமைக்கிறது, அதன் தலைவர் பிரதமராகிறார்.')}</p>
+    <p>{L('Suruhanjaya Pilihan Raya (SPR) mengendalikan pilihan raya.', 'The Election Commission (SPR) administers elections.', '选举委员会（SPR）负责组织选举。', 'தேர்தல் ஆணையம் (SPR) தேர்தல்களை நிர்வகிக்கிறது.')}</p>
   </div>
   <div>
-    <h2>{L('Bacaan asas', 'Foundational reading', '基础阅读')}</h2>
+    <h2>{L('Bacaan asas', 'Foundational reading', '基础阅读', 'அடிப்படை வாசிப்பு')}</h2>
     <ul class="reads">
       {politics.map((a) => <li><a href={localePath(`/${a.data.category}/${a.data.slug}`, locale)}>{a.data.title}</a></li>)}
     </ul>
-    <h2 style="margin-top:1.5rem">{L('Alat sivik', 'Civic tools', '公民工具')}</h2>
+    <h2 style="margin-top:1.5rem">{L('Alat sivik', 'Civic tools', '公民工具', 'குடிமைக் கருவிகள்')}</h2>
     <ul class="reads">
       <li><a href="https://www.spr.gov.my" target="_blank" rel="noopener">SPR — Suruhanjaya Pilihan Raya ↗</a></li>
       <li><a href="https://undi.info" target="_blank" rel="noopener">Undi.info ↗</a></li>
