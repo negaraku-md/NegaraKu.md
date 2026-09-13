@@ -4,7 +4,7 @@ import type { Locale } from './categories';
 // Tamil (`ta`) is a valid Locale and its routes/chrome are being built, but it is
 // deliberately held OUT of this list until its corpus reaches a launch threshold —
 // a soft launch, so the switcher never points at a page that isn't ready.
-export const LOCALES: Locale[] = ['ms', 'en', 'zh'];
+export const LOCALES: Locale[] = ['ms', 'en', 'zh', 'ta'];
 export const DEFAULT_LOCALE: Locale = 'ms';
 
 export const LOCALE_NAMES: Record<Locale, string> = {

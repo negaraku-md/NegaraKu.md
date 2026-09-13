@@ -149,15 +149,12 @@ export default defineConfig({
   integrations: [
     mdx(),
     sitemap({
-      // Tamil (`ta`) is intentionally omitted while soft-launched: its pages are
-      // `noindex` (Malay-content fallback) so they must not be advertised here as
-      // hreflang alternates or listed as URLs. Add `ta: 'ta'` + drop the filter
-      // when Tamil opens to the public (also added to LOCALES in i18n.ts).
+      // Tamil (`ta`) is public (open-launch 2026-09-13): its pages are indexed,
+      // listed as URLs, and advertised as hreflang alternates (also in LOCALES in i18n.ts).
       i18n: {
         defaultLocale: 'ms',
-        locales: { ms: 'ms-MY', en: 'en', zh: 'zh-Hans' },
+        locales: { ms: 'ms-MY', en: 'en', zh: 'zh-Hans', ta: 'ta' },
       },
-      filter: (page) => !/\/ta(\/|$)/.test(new URL(page).pathname),
       serialize(item) {
         const lastmod = lastmodFor(item.url);
         if (lastmod) item.lastmod = lastmod;
