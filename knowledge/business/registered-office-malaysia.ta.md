@@ -52,7 +52,7 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "7e06d764f7790869"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

@@ -32,7 +32,7 @@ sourceContentHash: "94db45958fc37cd4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

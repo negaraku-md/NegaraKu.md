@@ -71,7 +71,7 @@ sourceContentHash: "fe5d22ede93ea4c0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

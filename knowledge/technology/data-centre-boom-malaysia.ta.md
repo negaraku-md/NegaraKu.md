@@ -37,7 +37,7 @@ faq:
 
 lang: "ta"
 sourceContentHash: "16256b5ee4d19f22"
-status: "reviewed"
+status: "published"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

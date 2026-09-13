@@ -23,7 +23,7 @@ lang: "ta"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 sourceContentHash: "b7cede975bcf8a6f"
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"

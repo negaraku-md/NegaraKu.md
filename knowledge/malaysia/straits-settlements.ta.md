@@ -32,7 +32,7 @@ lang: "ta"
 masterLanguage: "en"
 sourceContentHash: "9cb8a0574c93b0cb"
 translationStatus: "in-sync"
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

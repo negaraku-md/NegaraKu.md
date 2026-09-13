@@ -82,7 +82,7 @@ sourceContentHash: "2eb4fd7f219b7fed"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

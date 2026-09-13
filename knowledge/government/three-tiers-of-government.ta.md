@@ -24,7 +24,7 @@ lang: "ta"
 sourceContentHash: "c6bdf9ccfb5d174a"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

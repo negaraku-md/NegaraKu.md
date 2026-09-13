@@ -82,7 +82,7 @@ sourceContentHash: "8cbd2aa6c4bb698a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

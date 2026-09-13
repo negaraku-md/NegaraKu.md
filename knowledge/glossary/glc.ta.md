@@ -23,7 +23,7 @@ sourceContentHash: "9155b753e9fc9969"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

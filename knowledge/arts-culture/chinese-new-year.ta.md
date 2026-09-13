@@ -34,7 +34,7 @@ lang: "ta"
 sourceContentHash: "d2c30470773fa9b0"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

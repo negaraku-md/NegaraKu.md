@@ -49,7 +49,7 @@ sourceContentHash: "00945edeadfe77b7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

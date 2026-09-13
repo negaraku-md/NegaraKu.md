@@ -33,7 +33,7 @@ sourceContentHash: "94509152b2b8fc7d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
