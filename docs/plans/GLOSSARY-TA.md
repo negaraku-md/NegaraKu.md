@@ -61,5 +61,24 @@ short form after: e.g. `நிறுவனங்கள் ஆணையம் (SS
 | Pitching session | பிட்ச்சிங் அமர்வு | transliterate "pitching" |
 | Independent external auditor | சுயாதீன வெளி தணிக்கையாளர் | |
 | End-user partner | இறுதி-பயனர் பங்குதாரர் | |
+| Halal | ஹலால் (halal) | transliterate; keep in text |
+| Fatwa | ஃபத்வா (fatwa) | religious ruling; transliterate |
+| Muzakarah (committee) | முஸாகரா (Muzakarah) | keep Malay; e.g. 8வது முஸாகரா |
+| National Fatwa Council / Jawatankuasa Muzakarah Fatwa Kebangsaan | தேசிய ஃபத்வா முஸாகரா குழு (Jawatankuasa Muzakarah Fatwa Kebangsaan) | keep full Malay body name on first use |
+| JAKIM | மலேசிய இஸ்லாமிய முன்னேற்றத் துறை (Jabatan Kemajuan Islam Malaysia, JAKIM) | keep acronym JAKIM after |
+| Mufti / mufti department | முஃப்தி / முஃப்தி துறை | |
+| Pejabat Mufti Wilayah Persekutuan | கூட்டாட்சிப் பிரதேச முஃப்தி அலுவலகம் (Pejabat Mufti Wilayah Persekutuan) | Federal Territory Mufti's Office |
+| Harus (permissibility) | அனுமதி / அனுமதிக்கப்பட்டது (harus) | term of art; keep Malay gloss |
+| Darurat (necessity) | தவிர்க்கமுடியாத தேவை (darurat) | term of art; keep Malay gloss |
+| Istihalah (transformation) | உருமாற்றம் (istihalah) | term of art; keep Malay gloss |
+| Maqasid syariah | maqasid syariah | kept Latin; gloss "ஷரியாவின் நோக்கங்கள்" on first use |
+| Syariah | ஷரியா (Syariah) | canonical term of art; keep |
+| Fiqh | ஃபிக்ஹ் (fiqh) | Islamic jurisprudence; transliterate |
+| Ulama (scholars) | அறிஞர்கள் (ulama) | |
+| Tayyiban (wholesome) | தூய்மையான (tayyiban) | keep Arabic term |
+| Haram | ஹராம் (haram) | forbidden; transliterate |
+| Ramadan | ரமலான் (Ramadan) | |
+| Majlis Raja-Raja / Conference of Rulers | அரசர்கள் மாநாடு (Majlis Raja-Raja) | keep canonical Malay on first use |
+| Hifz al-nafs (preservation of life) | உயிர் பாதுகாப்பு (hifz al-nafs) | |
 
 <!-- Pilot-coined terms are appended below as the 5-article pilot is reviewed. -->
