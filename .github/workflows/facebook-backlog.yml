@@ -12,6 +12,7 @@ name: Post backlog to Facebook
 # Committing analytics/posted.json does NOT trigger a deploy (deploy.yml ignores
 # analytics/**).
 on:
+  schedule:
     # Fires 3× a day (13:00 / 16:00 / 19:00 MYT). Each tick tops up toward the
     # day's ramp target (postedTodayCountMYT), so the daily articles DRIP across
     # the ticks instead of flooding in one burst, AND a GitHub-skipped 13:00 tick
