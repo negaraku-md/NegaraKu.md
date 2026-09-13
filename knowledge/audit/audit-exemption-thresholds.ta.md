@@ -34,6 +34,25 @@ faq:
 verificationNeeded:
   - "Phase 3 வரம்புகளைத் திருத்தும் ஏதேனும் திருத்தத்தை PD 10/2024 க்கு SSM வெளியிட்டுள்ளதா என்பதை உறுதிப்படுத்தவும் — பதிவாளர் (Registrar) மறுபரிசீலனை செய்யாத வரை அவை மாறாதவை என directive குறிக்கிறது"
 
+obligations:
+  - what: "அளவு வரம்புகளுக்குள் இருக்கும் ஒரு தனியார் நிறுவனத்திற்கு தணிக்கை விலக்கை எடுத்துக்கொள்ளுங்கள்"
+    trigger: "threshold"
+    criteria:
+      - metric: "revenue"
+        op: "lte"
+        value: 2000000
+      - metric: "assets"
+        op: "lte"
+        value: 2000000
+      - metric: "employees"
+        op: "lte"
+        value: 20
+    minCriteria: 2
+    exemption: true
+    due: "நடப்பு மற்றும் முந்தைய இரண்டு நிதியாண்டுகளுக்கு மூன்று சோதனைகளில் குறைந்தது இரண்டைப் பூர்த்திசெய்யவும். காட்டப்பட்டுள்ள எண்ணிக்கைகள் 2026 கட்டம் (வருவாய் மற்றும் சொத்துக்கள் RM2 million, 20 ஊழியர்கள்); 2025 இல் RM1 million மற்றும் 10, 2027 முதல் RM3 million மற்றும் 30 ஆக உயர்கிறது"
+    authority: "SSM"
+    statute: "Companies Act 2016, s.267(2); SSM Practice Directive 10/2024"
+
 lang: "ta"
 sourceContentHash: "f05022cc3a744d57"
 masterLanguage: "en"

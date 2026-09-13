@@ -49,6 +49,15 @@ obligations:
     authority: "RMCD"
     statute: "Sales Tax Act 2018, s.13"
     consequence: "Backdated registration and liability for tax that should have been charged"
+  - what: "Register for service tax once taxable turnover crosses your service group threshold"
+    trigger: "threshold"
+    criteria:
+      - metric: "turnover"
+        op: "gte"
+        value: 500000
+    due: "Most service groups register at RM500,000 rolling 12-month taxable turnover; thresholds run by group from nil to RM1,500,000"
+    authority: "RMCD"
+    statute: "Service Tax Act 2018, First Schedule"
 
 lang: "en"
 masterLanguage: "en"

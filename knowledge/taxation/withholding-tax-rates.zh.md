@@ -38,7 +38,9 @@ verificationNeeded:
 
 obligations:
   - what: "缴交从付给非居民的款项中扣下的预扣税"
-    trigger: "change"
+    trigger: "event"
+    direction: "after"
+    event: "payment"
     withinDays: 30
     due: "within one month after paying or crediting the non-resident payee"
     authority: "LHDN"

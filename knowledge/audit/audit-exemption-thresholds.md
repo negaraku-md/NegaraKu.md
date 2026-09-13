@@ -34,6 +34,25 @@ faq:
 verificationNeeded:
   - "Confirm whether SSM has issued any amendment to PD 10/2024 revising the Phase 3 thresholds — the directive marks them as unchanged unless reviewed by the Registrar"
 
+obligations:
+  - what: "Take the audit exemption for a private company that stays within the size limits"
+    trigger: "threshold"
+    criteria:
+      - metric: "revenue"
+        op: "lte"
+        value: 2000000
+      - metric: "assets"
+        op: "lte"
+        value: 2000000
+      - metric: "employees"
+        op: "lte"
+        value: 20
+    minCriteria: 2
+    exemption: true
+    due: "Meet at least two of three tests for the current and the two preceding financial years. Figures shown are the 2026 phase (revenue and assets RM2 million, 20 employees); it is RM1 million and 10 in 2025, rising to RM3 million and 30 from 2027"
+    authority: "SSM"
+    statute: "Companies Act 2016, s.267(2); SSM Practice Directive 10/2024"
+
 lang: "en"
 masterLanguage: "en"
 translationStatus: "master"

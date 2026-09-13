@@ -29,29 +29,34 @@ verificationNeeded:
 
 obligations:
   - what: "ஊதிய மாதத்திற்கான EPF பங்களிப்புகளைச் செலுத்துங்கள்"
-    trigger: "ongoing"
+    trigger: "monthly"
+    dueDay: 15
     due: "On or before the 15th of the following month"
     authority: "KWSP"
     statute: "EPF Act 1991, s.43(1) and Third Schedule"
   - what: "ஊதிய மாதத்திற்கான SOCSO பங்களிப்புகளைச் செலுத்துங்கள்"
-    trigger: "ongoing"
+    trigger: "monthly"
+    dueDay: 15
     due: "No later than the 15th day of the succeeding month"
     authority: "PERKESO"
     statute: "Employees Social Security Act 1969"
     consequence: "Interest on late payment at 6% per annum for each day outstanding"
   - what: "ஊதிய மாதத்திற்கான EIS பங்களிப்புகளைச் செலுத்துங்கள்"
-    trigger: "ongoing"
+    trigger: "monthly"
+    dueDay: 15
     due: "No later than the 15th day of the succeeding month"
     authority: "PERKESO"
     statute: "Employment Insurance System Act 2017"
     consequence: "Interest on late payment at 6% per annum for each day outstanding"
   - what: "மாதாந்திர வரிக் கழிவை (PCB/MTD) e-PCB, e-Data PCB அல்லது e-CP39 வழியாகச் செலுத்துங்கள்"
-    trigger: "ongoing"
+    trigger: "monthly"
+    dueDay: 15
     due: "On or before the 15th day of the subsequent month"
     authority: "LHDN"
     statute: "Income Tax (Deduction from Remuneration) Rules 1994"
   - what: "HRD Corp வரியை (levy) செலுத்துங்கள்"
-    trigger: "ongoing"
+    trigger: "monthly"
+    dueDay: 15
     due: "By the 15th of the following month"
     authority: "HRD Corp"
     statute: "PSMB Act 2001"

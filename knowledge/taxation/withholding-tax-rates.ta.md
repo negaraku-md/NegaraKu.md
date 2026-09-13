@@ -38,7 +38,9 @@ verificationNeeded:
 
 obligations:
   - what: "வதிவாளர் அல்லாதவருக்கான கொடுப்பனவிலிருந்து கழிக்கப்பட்ட நிறுத்திவைப்பு வரியை அனுப்புங்கள்"
-    trigger: "change"
+    trigger: "event"
+    direction: "after"
+    event: "payment"
     withinDays: 30
     due: "within one month after paying or crediting the non-resident payee"
     authority: "LHDN"

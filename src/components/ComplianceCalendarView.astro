@@ -28,6 +28,9 @@ type Row = {
   dueDay?: number;
   direction?: 'before' | 'after';
   event?: string;
+  criteria?: { metric: string; op: string; value: number }[];
+  minCriteria?: number;
+  exemption?: boolean;
   due: string;
   authority: string;
   statute?: string;
@@ -201,6 +204,7 @@ const groups = [...new Set(unique.map((r) => r.trigger))];
                     data-dueday={r.dueDay ?? ''}
                     data-direction={r.direction ?? ''}
                     data-criteria={r.criteria ? JSON.stringify(r.criteria) : ''}
+                    data-mincriteria={r.minCriteria ?? ''}
                     data-exemption={r.exemption ? '1' : ''}
                   >
                     <td>
@@ -333,7 +337,10 @@ const groups = [...new Set(unique.map((r) => r.trigger))];
       const x = size[c.metric] as number;
       return c.op === 'gte' ? x >= c.value : c.op === 'gt' ? x > c.value : c.op === 'lte' ? x <= c.value : x < c.value;
     };
-    const allMet = criteria.every(pass);
+    // Default is ALL criteria (AND); minCriteria encodes "at least N of M" rules
+    // like audit exemption's two-of-three test.
+    const need = tr.dataset.mincriteria ? Number(tr.dataset.mincriteria) : criteria.length;
+    const allMet = criteria.filter(pass).length >= need;
     if (isExemption) return allMet ? { text: MSG.exempt, soon: 'ok' } : { text: MSG.notExempt, soon: 'soon' };
     return allMet ? { text: MSG.applies, soon: 'soon' } : { text: MSG.below, soon: 'ok' };
   }

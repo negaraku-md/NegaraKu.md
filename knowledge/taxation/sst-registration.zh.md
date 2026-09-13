@@ -49,6 +49,15 @@ obligations:
     authority: "RMCD"
     statute: "Sales Tax Act 2018, s.13"
     consequence: "Backdated registration and liability for tax that should have been charged"
+  - what: "一旦应税营业额超过你所属服务组别的门槛，即注册服务税"
+    trigger: "threshold"
+    criteria:
+      - metric: "turnover"
+        op: "gte"
+        value: 500000
+    due: "多数服务组别在滚动十二个月应税营业额达 RM500,000 时注册；门槛按组别由零至 RM1,500,000 不等"
+    authority: "RMCD"
+    statute: "Service Tax Act 2018, First Schedule"
 
 lang: "zh"
 masterLanguage: "en"

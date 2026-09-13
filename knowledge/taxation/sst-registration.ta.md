@@ -49,6 +49,15 @@ obligations:
     authority: "RMCD"
     statute: "Sales Tax Act 2018, s.13"
     consequence: "Backdated registration and liability for tax that should have been charged"
+  - what: "வரிக்குட்பட்ட வருவாய் உங்கள் சேவைக் குழு வரம்பைத் தாண்டியவுடன் சேவை வரிக்குப் பதிவுசெய்யவும்"
+    trigger: "threshold"
+    criteria:
+      - metric: "turnover"
+        op: "gte"
+        value: 500000
+    due: "பெரும்பாலான சேவைக் குழுக்கள் உருளும் பன்னிரண்டு மாத வரிக்குட்பட்ட வருவாய் RM500,000-இல் பதிவுசெய்கின்றன; வரம்புகள் குழு வாரியாக எதுவும் இல்லை (nil) முதல் RM1,500,000 வரை மாறுபடுகின்றன"
+    authority: "RMCD"
+    statute: "Service Tax Act 2018, First Schedule"
 
 lang: "ta"
 sourceContentHash: "7320d2549d294308"

@@ -65,6 +65,16 @@ obligations:
     authority: "LHDN"
     statute: "Income Tax Act 1967, s.82C(7)"
     consequence: "Transactions unsupported by a validated document for tax purposes"
+  - what: "Patuhi mandat e-Invois melainkan perniagaan dikecualikan berdasarkan saiz"
+    trigger: "threshold"
+    criteria:
+      - metric: "turnover"
+        op: "lt"
+        value: 1000000
+    exemption: true
+    due: "Pengecualian penuh jika perolehan atau hasil tahunan di bawah RM1,000,000; jika tidak, ia mandatori kerana semua fasa kini berkuat kuasa"
+    authority: "LHDN"
+    statute: "Income Tax Act 1967, s.82C"
 
 lang: "ms"
 masterLanguage: "en"

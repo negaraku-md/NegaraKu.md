@@ -29,29 +29,34 @@ verificationNeeded:
 
 obligations:
   - what: "缴交该薪金月份的 EPF 缴纳金"
-    trigger: "ongoing"
+    trigger: "monthly"
+    dueDay: 15
     due: "On or before the 15th of the following month"
     authority: "KWSP"
     statute: "EPF Act 1991, s.43(1) and Third Schedule"
   - what: "缴交该薪金月份的 SOCSO 缴纳金"
-    trigger: "ongoing"
+    trigger: "monthly"
+    dueDay: 15
     due: "No later than the 15th day of the succeeding month"
     authority: "PERKESO"
     statute: "Employees Social Security Act 1969"
     consequence: "Interest on late payment at 6% per annum for each day outstanding"
   - what: "缴交该薪金月份的 EIS 缴纳金"
-    trigger: "ongoing"
+    trigger: "monthly"
+    dueDay: 15
     due: "No later than the 15th day of the succeeding month"
     authority: "PERKESO"
     statute: "Employment Insurance System Act 2017"
     consequence: "Interest on late payment at 6% per annum for each day outstanding"
   - what: "透过 e-PCB、e-Data PCB 或 e-CP39 缴交每月税务扣缴（PCB／MTD）"
-    trigger: "ongoing"
+    trigger: "monthly"
+    dueDay: 15
     due: "On or before the 15th day of the subsequent month"
     authority: "LHDN"
     statute: "Income Tax (Deduction from Remuneration) Rules 1994"
   - what: "缴付 HRD Corp 征费"
-    trigger: "ongoing"
+    trigger: "monthly"
+    dueDay: 15
     due: "By the 15th of the following month"
     authority: "HRD Corp"
     statute: "PSMB Act 2001"

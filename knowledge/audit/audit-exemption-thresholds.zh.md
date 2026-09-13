@@ -34,6 +34,25 @@ faq:
 verificationNeeded:
   - "查证 SSM 是否已发出任何修订 PD 10/2024、更改第三阶段门槛的指引——该指引注明除非注册官另行检讨，否则维持不变"
 
+obligations:
+  - what: "为维持在规模上限内的私人公司采用审计豁免"
+    trigger: "threshold"
+    criteria:
+      - metric: "revenue"
+        op: "lte"
+        value: 2000000
+      - metric: "assets"
+        op: "lte"
+        value: 2000000
+      - metric: "employees"
+        op: "lte"
+        value: 20
+    minCriteria: 2
+    exemption: true
+    due: "在本财政年及之前两个财政年内符合三项测试中的至少两项。所示数字为 2026 年阶段（营业额与资产 RM2 million、20 名雇员）；2025 年为 RM1 million 与 10 名，2027 年起提高至 RM3 million 与 30 名"
+    authority: "SSM"
+    statute: "Companies Act 2016, s.267(2); SSM Practice Directive 10/2024"
+
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"

@@ -49,6 +49,15 @@ obligations:
     authority: "RMCD"
     statute: "Sales Tax Act 2018, s.13"
     consequence: "Backdated registration and liability for tax that should have been charged"
+  - what: "Daftar cukai perkhidmatan sebaik sahaja perolehan kena cukai melepasi ambang kumpulan perkhidmatan anda"
+    trigger: "threshold"
+    criteria:
+      - metric: "turnover"
+        op: "gte"
+        value: 500000
+    due: "Kebanyakan kumpulan perkhidmatan mendaftar pada RM500,000 perolehan kena cukai dua belas bulan bergolek; ambang berbeza mengikut kumpulan dari sifar hingga RM1,500,000"
+    authority: "RMCD"
+    statute: "Service Tax Act 2018, First Schedule"
 
 lang: "ms"
 masterLanguage: "en"

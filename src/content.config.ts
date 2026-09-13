@@ -171,6 +171,10 @@ const knowledge = defineCollection({
               }),
             )
             .optional(),
+          /** For trigger:'threshold' — how many of the `criteria` must hold. Default is
+           *  ALL of them (AND). Set to encode "meet at least N of M" rules, e.g. audit
+           *  exemption's two-of-three test (revenue / assets / employees). */
+          minCriteria: z.number().optional(),
           /** For trigger:'threshold' — true means meeting the criteria EARNS AN EXEMPTION
            *  (duty does NOT apply); false/absent means meeting them TRIGGERS the duty. */
           exemption: z.boolean().optional(),

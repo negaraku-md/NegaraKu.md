@@ -38,7 +38,9 @@ verificationNeeded:
 
 obligations:
   - what: "Remit withholding tax deducted from a payment to a non-resident"
-    trigger: "change"
+    trigger: "event"
+    direction: "after"
+    event: "payment"
     withinDays: 30
     due: "within one month after paying or crediting the non-resident payee"
     authority: "LHDN"

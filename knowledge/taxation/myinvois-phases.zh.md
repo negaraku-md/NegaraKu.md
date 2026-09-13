@@ -65,6 +65,16 @@ obligations:
     authority: "LHDN"
     statute: "Income Tax Act 1967, s.82C(7)"
     consequence: "Transactions unsupported by a validated document for tax purposes"
+  - what: "遵守电子发票强制规定，除非企业因规模而获豁免"
+    trigger: "threshold"
+    criteria:
+      - metric: "turnover"
+        op: "lt"
+        value: 1000000
+    exemption: true
+    due: "若年营业额或收入低于 RM1,000,000 则完全豁免；否则为强制，因为所有阶段现已生效"
+    authority: "LHDN"
+    statute: "Income Tax Act 1967, s.82C"
 
 lang: "zh"
 masterLanguage: "en"

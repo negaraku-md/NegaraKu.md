@@ -65,6 +65,16 @@ obligations:
     authority: "LHDN"
     statute: "Income Tax Act 1967, s.82C(7)"
     consequence: "Transactions unsupported by a validated document for tax purposes"
+  - what: "வணிகம் அளவின் அடிப்படையில் விலக்கு பெறாவிட்டால் e-Invoice கட்டாயத்தைப் பின்பற்றவும்"
+    trigger: "threshold"
+    criteria:
+      - metric: "turnover"
+        op: "lt"
+        value: 1000000
+    exemption: true
+    due: "ஆண்டு வருவாய் அல்லது வருமானம் RM1,000,000-க்குக் கீழ் இருந்தால் முழு விலக்கு; இல்லையெனில் அனைத்து கட்டங்களும் இப்போது நடைமுறையில் இருப்பதால் கட்டாயமாகும்"
+    authority: "LHDN"
+    statute: "Income Tax Act 1967, s.82C"
 
 lang: "ta"
 sourceContentHash: "fe5d22ede93ea4c0"

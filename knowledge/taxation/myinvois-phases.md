@@ -65,6 +65,16 @@ obligations:
     authority: "LHDN"
     statute: "Income Tax Act 1967, s.82C(7)"
     consequence: "Transactions unsupported by a validated document for tax purposes"
+  - what: "Comply with the e-Invoice mandate unless the business is exempt by size"
+    trigger: "threshold"
+    criteria:
+      - metric: "turnover"
+        op: "lt"
+        value: 1000000
+    exemption: true
+    due: "Full exemption if annual turnover or revenue is below RM1,000,000; otherwise mandatory, as all phases are now in force"
+    authority: "LHDN"
+    statute: "Income Tax Act 1967, s.82C"
 
 lang: "en"
 masterLanguage: "en"

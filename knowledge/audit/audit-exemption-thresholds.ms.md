@@ -34,6 +34,25 @@ faq:
 verificationNeeded:
   - "Sahkan sama ada SSM telah mengeluarkan sebarang pindaan kepada PD 10/2024 yang menyemak semula ambang Fasa 3 — arahan itu menandakannya sebagai tidak berubah melainkan disemak semula oleh Pendaftar"
 
+obligations:
+  - what: "Ambil pengecualian audit untuk syarikat sendirian yang kekal dalam had saiz"
+    trigger: "threshold"
+    criteria:
+      - metric: "revenue"
+        op: "lte"
+        value: 2000000
+      - metric: "assets"
+        op: "lte"
+        value: 2000000
+      - metric: "employees"
+        op: "lte"
+        value: 20
+    minCriteria: 2
+    exemption: true
+    due: "Penuhi sekurang-kurangnya dua daripada tiga ujian bagi tahun kewangan semasa dan dua tahun kewangan sebelumnya. Angka yang ditunjukkan ialah fasa 2026 (hasil dan aset RM2 juta, 20 pekerja); ia RM1 juta dan 10 pada 2025, meningkat kepada RM3 juta dan 30 mulai 2027"
+    authority: "SSM"
+    statute: "Companies Act 2016, s.267(2); SSM Practice Directive 10/2024"
+
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
