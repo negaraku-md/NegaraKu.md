@@ -1,0 +1,60 @@
+name: Publish Hugging Face dataset
+
+# Mirrors the knowledge corpus to the Hugging Face dataset repo so it enters
+# AI training + RAG pipelines. Refreshes automatically whenever content changes,
+# plus a weekly self-healing run. Requires the HF_TOKEN secret (a Hugging Face
+# write token); without it the publish step is skipped, not failed.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'knowledge/**'
+      - 'scripts/export-hf-dataset.mjs'
+      - '.github/workflows/huggingface-dataset.yml'
+  workflow_dispatch:
+  schedule:
+    - cron: '23 2 * * 1' # weekly, Mondays 02:23 UTC (:23 so GitHub doesn't drop it)
+
+concurrency:
+  group: hf-dataset
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+
+      - name: Export dataset (dataset/data/*.jsonl + README card)
+        run: node scripts/export-hf-dataset.mjs
+        env:
+          HF_REPO: ${{ vars.HF_REPO || 'negaraku-md/negaraku-md' }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - run: pip install --upgrade "huggingface_hub[cli]"
+
+      - name: Upload to Hugging Face
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          HF_REPO: ${{ vars.HF_REPO || 'negaraku-md/negaraku-md' }}
+        run: |
+          if [ -z "$HF_TOKEN" ]; then
+            echo "::warning::HF_TOKEN secret not set — skipping publish. Add it in repo Settings › Secrets to enable."
+            exit 0
+          fi
+          # Overwrites the four data files + README (stable names), so removed
+          # articles drop out on the full rewrite; no --delete needed.
+          huggingface-cli upload "$HF_REPO" ./dataset . \
+            --repo-type dataset \
+            --commit-message "Refresh from negaraku.md ($(date -u +%Y-%m-%d))"
