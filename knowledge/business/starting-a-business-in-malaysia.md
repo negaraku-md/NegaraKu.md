@@ -97,6 +97,7 @@ sources:
     url: "https://duittools.com/blog/sst-malaysia-guide-sme-registration-threshold-rates"
     publisher: "DuitTools"
 entity: "Companies Commission of Malaysia (Suruhanjaya Syarikat Malaysia, SSM)"
+wikidata: "Q1121232"
 relations: []
 related: []
 keywords:

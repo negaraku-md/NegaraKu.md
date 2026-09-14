@@ -53,6 +53,7 @@ sources:
     publisher: "Yahoo News Malaysia"
 
 entity: "Wesak Day (Vesak) in Malaysia"
+wikidata: "Q215700"
 relations:
   - { rel: "related-to", to: "religion-statistics" }
   - { rel: "related-to", to: "article-3-religion" }

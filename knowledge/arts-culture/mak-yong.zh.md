@@ -74,6 +74,7 @@ sources:
     publisher: "Malay Mail"
     date: "2019-09-25"
 entity: "Mak Yong"
+wikidata: "Q1901441"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "compares-with", to: "wayang-kulit" }

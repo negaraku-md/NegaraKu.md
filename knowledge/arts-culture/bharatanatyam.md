@@ -70,6 +70,7 @@ sources:
     url: "https://en.wikipedia.org/wiki/Mavin_Khoo"
     publisher: "Wikipedia"
 entity: "Bharatanatyam"
+wikidata: "Q334156"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "tamil-in-malaysia" }

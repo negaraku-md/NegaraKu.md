@@ -72,6 +72,7 @@ sources:
     url: "https://en.wikipedia.org/wiki/Kaamatan"
     publisher: "Wikipedia"
 entity: "Pesta Kaamatan"
+wikidata: "Q6343385"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "located-in", to: "sabah" }

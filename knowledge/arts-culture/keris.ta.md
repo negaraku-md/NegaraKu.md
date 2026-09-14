@@ -93,6 +93,7 @@ sources:
     publisher: "Universiti Putra Malaysia"
 
 entity: "Keris"
+wikidata: "Q331220"
 relations:
   - { rel: "related-to", to: "batik" }
   - { rel: "related-to", to: "songket" }

@@ -79,6 +79,7 @@ sources:
     publisher: "New Straits Times"
     date: "2025-02-10"
 entity: "Thaipusam"
+wikidata: "Q1520811"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "located-in", to: "selangor" }

@@ -52,6 +52,7 @@ sources:
     url: "https://www.heritage.gov.my/en/utama-bahagian-daftar-warisan.html"
     publisher: "Jabatan Warisan Negara (Department of National Heritage)"
 entity: "Peranakan"
+wikidata: "Q797536"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "unesco-world-heritage" }

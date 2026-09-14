@@ -70,6 +70,7 @@ sources:
     publisher: "Malay Mail"
 
 entity: "Lembaga Pemasaran Pertanian Persekutuan (FAMA)"
+wikidata: "Q5440003"
 relations:
   - { rel: "administered-by", to: "kementerian-pertanian-keterjaminan-makanan" }
 related: []

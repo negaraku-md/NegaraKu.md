@@ -72,6 +72,7 @@ sources:
     url: "https://en.wikipedia.org/wiki/Gawai_Dayak"
     publisher: "Wikipedia"
 entity: "Gawai Dayak"
+wikidata: "Q4262216"
 relations:
   - { rel: "located-in", to: "sarawak" }
   - { rel: "compares-with", to: "kaamatan" }

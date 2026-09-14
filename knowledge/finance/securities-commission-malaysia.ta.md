@@ -81,6 +81,7 @@ sources:
     publisher: "Perbadanan Insurans Deposit Malaysia (PIDM)"
 
 entity: "Securities Commission Malaysia"
+wikidata: "Q7444145"
 relations:
   - { rel: "governs", to: "bursa-malaysia" }
   - { rel: "compares-with", to: "bank-negara-malaysia" }

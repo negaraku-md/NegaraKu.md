@@ -98,6 +98,7 @@ sources:
     publisher: "Attorney General's Chambers of Malaysia (AGC)"
 
 entity: "Malaysian Institute of Accountants"
+wikidata: "Q6741971"
 relations:
   - { rel: "governs", to: "chartered-accountant-malaysia" }
   - { rel: "related-to", to: "audit-oversight-board" }

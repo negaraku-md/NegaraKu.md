@@ -69,6 +69,7 @@ sources:
     publisher: "Ministry of Finance Malaysia"
 
 entity: "Petroliam Nasional Berhad (PETRONAS)"
+wikidata: "Q221692"
 relations:
   - { rel: "related-to", to: "petroleum-development-act-1974" }
   - { rel: "related-to", to: "national-trust-fund" }

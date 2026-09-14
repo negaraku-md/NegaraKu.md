@@ -71,6 +71,7 @@ sources:
     publisher: "World Trade Organization"
 
 entity: "Padiberas Nasional Berhad (BERNAS)"
+wikidata: "Q20461105"
 relations:
   - { rel: "governs", to: "control-of-padi-and-rice-act" }
   - { rel: "related-to", to: "food-security-malaysia" }

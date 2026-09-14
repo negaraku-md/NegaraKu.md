@@ -56,6 +56,7 @@ sources:
     url: "http://senikelantan.blogspot.com/2009/04/dikir-barat-history.html"
     publisher: "Seni Kelantan"
 entity: "Dikir Barat"
+wikidata: "Q5276535"
 relations:
   - { rel: "located-in", to: "kelantan" }
   - { rel: "compares-with", to: "mak-yong" }

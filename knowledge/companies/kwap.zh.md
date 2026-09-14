@@ -67,6 +67,7 @@ sources:
     publisher: "Kementerian Kewangan Malaysia"
 
 entity: "Kumpulan Wang Persaraan (Diperbadankan)"
+wikidata: "Q60460782"
 relations:
   - { rel: "compares-with", to: "epf-as-investor" }
 related: ["epf-as-investor"]

@@ -64,6 +64,7 @@ sources:
     publisher: "Petroliam Nasional Berhad (Petronas)"
 
 entity: "Petroliam Nasional Berhad (Petronas)"
+wikidata: "Q221692"
 relations:
   - { rel: "related-to", to: "petroleum-development-act-1974" }
   - { rel: "part-of", to: "oil-and-gas-industry-malaysia" }

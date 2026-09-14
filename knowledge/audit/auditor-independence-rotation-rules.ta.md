@@ -75,6 +75,7 @@ sources:
     publisher: "Malaysian Institute of Accountants"
 
 entity: "Malaysian Institute of Accountants"
+wikidata: "Q6741971"
 relations:
   - { rel: "related-to", to: "appointing-an-auditor" }
   - { rel: "related-to", to: "changing-auditors" }

@@ -67,6 +67,7 @@ sources:
     publisher: "MahWengKwai & Associates"
 
 entity: "Suruhanjaya Syarikat Malaysia (SSM)"
+wikidata: "Q1121232"
 relations:
   - { rel: "administered-by", to: "ssm" }
   - { rel: "governs", to: "companies-act-2016" }

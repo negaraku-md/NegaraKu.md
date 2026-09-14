@@ -66,6 +66,7 @@ sources:
     date: "2012-04-27"
 
 entity: "Chetti Melaka"
+wikidata: "Q5102525"
 relations:
   - { rel: "related-to", to: "peranakan" }
   - { rel: "related-to", to: "tamil-in-malaysia" }

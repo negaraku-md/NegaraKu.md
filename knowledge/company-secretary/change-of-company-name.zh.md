@@ -63,6 +63,7 @@ sources:
     publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
 
 entity: "Suruhanjaya Syarikat Malaysia (SSM)"
+wikidata: "Q1121232"
 relations:
   - { rel: "governs", to: "companies-act-2016" }
   - { rel: "administered-by", to: "ssm" }

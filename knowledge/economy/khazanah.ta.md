@@ -88,6 +88,7 @@ sources:
     publisher: "The Star"
 
 entity: "Khazanah Nasional Berhad"
+wikidata: "Q4382207"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "compares-with", to: "epf" }

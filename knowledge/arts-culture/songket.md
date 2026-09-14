@@ -67,6 +67,7 @@ sources:
     url: "https://kraftangan.gov.my/info/penerbitan/seni-kraf-tenunan-motif-teknik"
     publisher: "Perbadanan Kemajuan Kraftangan Malaysia"
 entity: "Songket"
+wikidata: "Q589421"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "batik" }

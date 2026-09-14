@@ -70,6 +70,7 @@ sources:
     publisher: "Singapore Bangsawan Festival"
 
 entity: "Bangsawan"
+wikidata: "Q7311227"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "compares-with", to: "mak-yong" }

@@ -70,6 +70,7 @@ sources:
     publisher: "Kementerian Kewangan Malaysia"
 
 entity: "PERKESO"
+wikidata: "Q61674270"
 relations:
   - { rel: "compares-with", to: "epf" }
   - { rel: "related-to", to: "employment-act-1955" }

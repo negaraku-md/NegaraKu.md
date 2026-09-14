@@ -58,6 +58,7 @@ sources:
     publisher: "Companies Commission of Malaysia (SSM)"
 
 entity: "Companies Commission of Malaysia (SSM)"
+wikidata: "Q1121232"
 relations:
   - { rel: "governs", to: "foreign-company-registration-malaysia" }
   - { rel: "related-to", to: "approved-company-auditor-malaysia" }

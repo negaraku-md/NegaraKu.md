@@ -69,6 +69,7 @@ sources:
     publisher: "The Star"
 
 entity: "Khazanah Nasional Berhad"
+wikidata: "Q4382207"
 relations:
   - { rel: "administered-by", to: "kementerian-kewangan" }
   - { rel: "related-to", to: "bursa-malaysia" }

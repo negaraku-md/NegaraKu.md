@@ -69,6 +69,7 @@ sources:
     publisher: "ICHLinks — disumbangkan oleh The Malaysia Arts Cultural Practitioners Association (MACPA)"
 
 entity: "Ngajat"
+wikidata: "Q24937166"
 relations:
   - { rel: "part-of", to: "gawai-dayak" }
   - { rel: "located-in", to: "sarawak" }

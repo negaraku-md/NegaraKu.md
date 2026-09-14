@@ -91,6 +91,7 @@ sources:
     publisher: "Amanah Saham Nasional Berhad"
 
 entity: "Permodalan Nasional Berhad"
+wikidata: "Q4206786"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "bursa-malaysia" }

@@ -77,6 +77,7 @@ sources:
     publisher: "FGV Holdings Berhad"
 
 entity: "Lembaga Kemajuan Tanah Persekutuan (FELDA)"
+wikidata: "Q112020"
 relations:
   - { rel: "related-to", to: "new-economic-policy" }
   - { rel: "related-to", to: "bumiputera" }

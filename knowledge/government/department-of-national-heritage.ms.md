@@ -70,6 +70,7 @@ sources:
     url: "https://mylaw.my/legislation/perintah-warisan-kebangsaan-perisytiharan-orang-hidup-sebagai-warisan-kebangsaan-2012"
     publisher: "MyLaw.my"
 entity: "Department of National Heritage (Jabatan Warisan Negara)"
+wikidata: "Q7354460"
 relations: []
 related: []
 keywords: ["Jabatan Warisan Negara", "JWN", "Department of National Heritage", "National Heritage Act 2005", "Act 645", "Warisan Kebangsaan", "National Heritage Register", "Commissioner of Heritage", "heritage.gov.my", "MOTAC", "gazette national heritage Malaysia", "Daftar Warisan Kebangsaan", "Warisan Orang Hidup"]

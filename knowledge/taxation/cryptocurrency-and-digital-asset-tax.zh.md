@@ -73,6 +73,7 @@ sources:
     publisher: "CCS & Co (Chartered Accountants)"
 
 entity: "Inland Revenue Board of Malaysia (LHDN)"
+wikidata: "Q7377230"
 relations:
   - { rel: "related-to", to: "capital-or-revenue" }
   - { rel: "related-to", to: "capital-gains-tax" }

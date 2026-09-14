@@ -58,6 +58,7 @@ sources:
     url: "https://en.wikipedia.org/wiki/Diwali"
     publisher: "Wikipedia"
 entity: "Deepavali (Malaysia)"
+wikidata: "Q10244"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "religion-statistics" }

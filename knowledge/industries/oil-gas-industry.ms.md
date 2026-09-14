@@ -88,6 +88,7 @@ sources:
     publisher: "Offshore Technology"
 
 entity: "PETRONAS"
+wikidata: "Q221692"
 relations:
   - { rel: "governs", to: "petroleum-development-act-1974" }
   - { rel: "related-to", to: "petronas" }

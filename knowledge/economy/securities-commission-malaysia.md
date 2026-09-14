@@ -74,6 +74,7 @@ sources:
     publisher: "Attorney General's Chambers (Laws of Malaysia)"
 
 entity: "Securities Commission Malaysia"
+wikidata: "Q7444145"
 relations:
   - { rel: "governs", to: "bursa-malaysia" }
   - { rel: "related-to", to: "bank-negara-malaysia" }

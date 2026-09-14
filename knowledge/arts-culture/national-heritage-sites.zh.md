@@ -66,6 +66,7 @@ sources:
     publisher: "The Rakyat Post"
 
 entity: "Jabatan Warisan Negara"
+wikidata: "Q7354460"
 relations:
   - { rel: "administered-by", to: "jabatan-warisan-negara" }
   - { rel: "compares-with", to: "unesco-world-heritage-malaysia" }

@@ -70,6 +70,7 @@ sources:
     publisher: "The Vibes"
 
 entity: "Malaysian Agricultural Research and Development Institute (MARDI)"
+wikidata: "Q6741932"
 relations:
   - { rel: "administered-by", to: "ministry-of-agriculture-and-food-security" }
   - { rel: "related-to", to: "malaysia-rice-industry" }

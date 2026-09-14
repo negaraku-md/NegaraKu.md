@@ -72,6 +72,7 @@ sources:
     publisher: "Jabatan Kemajuan Islam Malaysia (JAKIM)"
 
 entity: "Lembaga Tabung Haji"
+wikidata: "Q12695820"
 relations:
   - { rel: "administered-by", to: "kementerian-kewangan" }
   - { rel: "governs", to: "akta-tabung-haji-1995" }

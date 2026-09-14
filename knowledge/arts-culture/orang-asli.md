@@ -82,6 +82,7 @@ sources:
     url: "https://www.dosm.gov.my/portal-main/release-content/special-report-on-the-demographic-of-orang-asli-2020"
     publisher: "Jabatan Perangkaan Malaysia (DOSM)"
 entity: "Orang Asli"
+wikidata: "Q254387"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "administered-by", to: "jakoa" }

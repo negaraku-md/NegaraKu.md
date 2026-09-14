@@ -74,6 +74,7 @@ sources:
     publisher: "Deseret News / Associated Press"
 
 entity: "FGV Holdings Berhad"
+wikidata: "Q5441635"
 relations:
   - { rel: "related-to", to: "palm-oil-industry" }
   - { rel: "related-to", to: "bursa-malaysia" }

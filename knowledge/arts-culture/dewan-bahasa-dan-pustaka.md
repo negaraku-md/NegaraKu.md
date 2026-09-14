@@ -69,6 +69,7 @@ sources:
     publisher: "Radio Televisyen Malaysia (RTM)"
 
 entity: "Dewan Bahasa dan Pustaka"
+wikidata: "Q1207082"
 relations:
   - { rel: "related-to", to: "bahasa-melayu" }
   - { rel: "related-to", to: "jawi-script" }

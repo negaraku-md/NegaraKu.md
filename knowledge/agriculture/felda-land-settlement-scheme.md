@@ -82,6 +82,7 @@ sources:
     publisher: "FGV Holdings Berhad"
 
 entity: "Lembaga Kemajuan Tanah Persekutuan (FELDA)"
+wikidata: "Q112020"
 relations:
   - { rel: "related-to", to: "fgv-holdings" }
   - { rel: "governs", to: "group-settlement-areas-act-1960" }

@@ -76,6 +76,7 @@ sources:
     publisher: "KWSP (Employees Provident Fund)"
 
 entity: "EPF (Employees Provident Fund / KWSP)"
+wikidata: "Q5374309"
 relations:
   - { rel: "administered-by", to: "employees-provident-fund-act-1991" }
   - { rel: "compares-with", to: "khazanah" }

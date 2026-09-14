@@ -68,6 +68,7 @@ sources:
     publisher: "Attorney General's Chambers of Malaysia (AGC), Laws of Malaysia (lom.agc.gov.my)"
 
 entity: "Suruhanjaya Syarikat Malaysia (SSM)"
+wikidata: "Q1121232"
 relations:
   - { rel: "administered-by", to: "suruhanjaya-syarikat-malaysia" }
   - { rel: "governs", to: "companies-act-2016" }

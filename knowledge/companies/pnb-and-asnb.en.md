@@ -72,6 +72,7 @@ sources:
     publisher: "Permodalan Nasional Berhad"
 
 entity: "Permodalan Nasional Berhad"
+wikidata: "Q4206786"
 relations:
   - { rel: "related-to", to: "bursa-malaysia" }
   - { rel: "related-to", to: "securities-commission-malaysia" }

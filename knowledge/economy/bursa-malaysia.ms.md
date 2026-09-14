@@ -74,6 +74,7 @@ sources:
     date: "2025"
 
 entity: "Bursa Malaysia Securities Berhad"
+wikidata: "Q43335"
 relations:
   - { rel: "administered-by", to: "securities-commission-malaysia" }
   - { rel: "compares-with", to: "equity-crowdfunding-p2p-malaysia" }

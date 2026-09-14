@@ -93,6 +93,7 @@ sources:
     publisher: "Perbadanan Insurans Deposit Malaysia (PIDM)"
 
 entity: "Bank Negara Malaysia"
+wikidata: "Q806646"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "governs", to: "opr-monetary-policy" }

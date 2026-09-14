@@ -68,6 +68,7 @@ sources:
     publisher: "TAC Professional (Thang & Co.)"
 
 entity: "Suruhanjaya Syarikat Malaysia"
+wikidata: "Q1121232"
 relations:
   - { rel: "governs", to: "companies-act-2016" }
   - { rel: "related-to", to: "striking-off-a-company" }

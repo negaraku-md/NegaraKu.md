@@ -100,6 +100,7 @@ sources:
     publisher: "XBRL International"
 
 entity: "Suruhanjaya Syarikat Malaysia"
+wikidata: "Q1121232"
 relations:
   - { rel: "governs", to: "companies-act-2016" }
   - { rel: "governs", to: "sdn-bhd" }

@@ -85,6 +85,7 @@ sources:
     url: "https://lom.agc.gov.my/act-detail.php?act=550&lang=BM"
     publisher: "Pejabat Peguam Negara (AGC)"
 entity: "Bahasa Melayu"
+wikidata: "Q9237"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "federal-constitution" }

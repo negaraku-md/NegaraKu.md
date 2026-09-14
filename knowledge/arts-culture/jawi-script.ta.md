@@ -76,6 +76,7 @@ sources:
     url: "https://bpk.moe.gov.my/kurikulum/kssr/kssr-tahun-3-1"
     publisher: "Bahagian Pembangunan Kurikulum, Kementerian Pendidikan Malaysia"
 entity: "Tulisan Jawi"
+wikidata: "Q83942"
 relations:
   - { rel: "related-to", to: "bahasa-melayu" }
   - { rel: "part-of", to: "malaysia" }

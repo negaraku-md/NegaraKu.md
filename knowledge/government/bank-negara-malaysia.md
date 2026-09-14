@@ -97,6 +97,7 @@ sources:
     publisher: "Bank Negara Malaysia"
 
 entity: "Bank Negara Malaysia"
+wikidata: "Q806646"
 relations:
   - { rel: "governs", to: "financial-services-act" }
   - { rel: "related-to", to: "dosm" }

@@ -66,6 +66,7 @@ sources:
     date: "2025-08-01"
 
 entity: "Hari Raya Aidilfitri"
+wikidata: "Q464458"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "balik-kampung" }

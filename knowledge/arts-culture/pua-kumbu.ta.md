@@ -70,6 +70,7 @@ sources:
     date: "2024-09-14"
 
 entity: "Pua Kumbu"
+wikidata: "Q4260021"
 relations:
   - { rel: "related-to", to: "batik" }
   - { rel: "related-to", to: "gawai-dayak" }

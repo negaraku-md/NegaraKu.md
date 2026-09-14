@@ -91,6 +91,7 @@ sources:
     publisher: "Bank Negara Malaysia"
 
 entity: "Bank Negara Malaysia"
+wikidata: "Q806646"
 relations:
   - { rel: "governs", to: "overnight-policy-rate" }
   - { rel: "related-to", to: "ringgit" }

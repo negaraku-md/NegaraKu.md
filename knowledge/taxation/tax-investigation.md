@@ -72,6 +72,7 @@ sources:
     publisher: "Baker McKenzie"
 
 entity: "Lembaga Hasil Dalam Negeri Malaysia"
+wikidata: "Q7377230"
 relations:
   - { rel: "related-to", to: "tax-audit" }
   - { rel: "governs", to: "income-tax" }

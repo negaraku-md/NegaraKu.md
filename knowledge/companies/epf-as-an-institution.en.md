@@ -77,6 +77,7 @@ sources:
     publisher: "data.gov.my / Employees Provident Fund"
 
 entity: "Kumpulan Wang Simpanan Pekerja (KWSP)"
+wikidata: "Q5374309"
 relations:
   - { rel: "related-to", to: "epf-as-investor" }
   - { rel: "compares-with", to: "khazanah" }

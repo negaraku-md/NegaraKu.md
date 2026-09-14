@@ -68,6 +68,7 @@ sources:
     url: "https://lom.agc.gov.my/federal-constitution.php"
     publisher: "Attorney General's Chambers of Malaysia (AGC)"
 entity: "Manglish"
+wikidata: "Q2039185"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "bahasa-melayu" }

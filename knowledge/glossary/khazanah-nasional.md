@@ -79,6 +79,7 @@ sources:
     publisher: "Ministry of Finance Malaysia (MOF)"
 
 entity: "Khazanah Nasional Berhad"
+wikidata: "Q4382207"
 relations:
   - { rel: "administered-by", to: "kementerian-kewangan" }
   - { rel: "related-to", to: "glc" }

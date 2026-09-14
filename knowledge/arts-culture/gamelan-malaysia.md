@@ -67,6 +67,7 @@ sources:
     publisher: "Discovery Terengganu"
 
 entity: "Gamelan Melayu"
+wikidata: "Q194492"
 relations:
   - { rel: "located-in", to: "pahang" }
   - { rel: "located-in", to: "terengganu" }

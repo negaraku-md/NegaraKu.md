@@ -61,6 +61,7 @@ sources:
     publisher: "Thomas Philip Advocates and Solicitors"
 
 entity: "Suruhanjaya Syarikat Malaysia (SSM)"
+wikidata: "Q1121232"
 relations:
   - { rel: "governs", to: "companies-act-2016" }
   - { rel: "related-to", to: "auditor-independence" }
