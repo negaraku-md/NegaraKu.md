@@ -1,4 +1,4 @@
-import type { ContentLocale, Pillar } from './categories';
+import type { ContentLocale, Locale, Pillar } from './categories';
 
 // Sponsorship as DATA, not markup.
 //
@@ -16,9 +16,9 @@ export interface Sponsor {
   /** Display name. Keep `1company` lowercase — brand rule. */
   name: string;
   url: string;
-  heading: Record<ContentLocale, string>;
-  blurb: Record<ContentLocale, string>;
-  cta: Record<ContentLocale, string>;
+  heading: Record<Locale, string>;
+  blurb: Record<Locale, string>;
+  cta: Record<Locale, string>;
 }
 
 export const SPONSORS: Record<string, Sponsor> = {
@@ -30,13 +30,15 @@ export const SPONSORS: Record<string, Sponsor> = {
       ms: 'Perlukan bantuan profesional?',
       en: 'Need professional help?',
       zh: '需要专业协助？',
+      ta: 'தொழில்முறை உதவி தேவையா?',
     },
     blurb: {
       ms: ' menyediakan perkhidmatan penubuhan syarikat, setiausaha syarikat, perakaunan, audit dan cukai di Malaysia.',
       en: ' provides incorporation, company secretarial, accounting, audit and tax services in Malaysia.',
       zh: ' 提供马来西亚公司注册、公司秘书、会计、审计与税务服务。',
+      ta: ' மலேசியாவில் நிறுவனப் பதிவு, நிறுவனச் செயலாளர், கணக்கியல், தணிக்கை மற்றும் வரி சேவைகளை வழங்குகிறது.',
     },
-    cta: { ms: 'Ketahui lebih lanjut', en: 'Learn more', zh: '了解更多' },
+    cta: { ms: 'Ketahui lebih lanjut', en: 'Learn more', zh: '了解更多', ta: 'மேலும் அறிக' },
   },
 };
 

@@ -21,10 +21,11 @@ function pageUrl(path: string, locale: Locale): string {
  */
 export function organizationJsonLd(locale: Locale = 'en'): Record<string, unknown> {
   const description = {
-    ms: 'Pangkalan pengetahuan sumber terbuka dan mesra-AI tentang Malaysia — Bahasa Melayu, English dan 中文.',
-    en: 'An open-source, AI-friendly knowledge base about Malaysia — Bahasa Melayu, English and 中文.',
-    zh: '关于马来西亚的开源、AI 友好知识库——Bahasa Melayu、English 与中文。',
-  }[locale as ContentLocale] ?? '';
+    ms: 'Pangkalan pengetahuan sumber terbuka dan mesra-AI tentang Malaysia — Bahasa Melayu, English, 中文 dan தமிழ்.',
+    en: 'An open-source, AI-friendly knowledge base about Malaysia — Bahasa Melayu, English, 中文 and தமிழ்.',
+    zh: '关于马来西亚的开源、AI 友好知识库——Bahasa Melayu、English、中文与தமிழ்。',
+    ta: 'மலேசியா பற்றிய திறந்த-மூல, AI-நட்பு அறிவுத் தளம் — Bahasa Melayu, English, 中文 மற்றும் தமிழ்.',
+  }[locale] ?? '';
   return {
     '@context': 'https://schema.org',
     '@type': 'Organization',
@@ -242,7 +243,8 @@ export function websiteJsonLd(locale: Locale = 'en'): Record<string, unknown> {
     ms: 'Pangkalan pengetahuan sumber terbuka dan mesra-AI tentang Malaysia.',
     en: 'An open-source, AI-friendly knowledge base about Malaysia.',
     zh: '关于马来西亚的开源、AI 友好知识库。',
-  }[locale as ContentLocale] ?? '';
+    ta: 'மலேசியா பற்றிய திறந்த-மூல, AI-நட்பு அறிவுத் தளம்.',
+  }[locale] ?? '';
   return {
     '@context': 'https://schema.org',
     '@type': 'WebSite',

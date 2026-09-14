@@ -182,7 +182,7 @@ const gscMonths = Object.keys(gsc.byMonth ?? {}).length;
 // Facebook engagement (archive: analytics/facebook.json) — per-language Page numbers.
 // Empty until the archive workflow has run and posts exist.
 const fb = getFacebook();
-const FB_LANG: Record<string, string> = { ms: 'Bahasa Malaysia', en: 'English', zh: '中文' };
+const FB_LANG: Record<string, string> = { ms: 'Bahasa Malaysia', en: 'English', zh: '中文', ta: 'தமிழ்' };
 const fbRows = (['ms', 'en', 'zh'] as const)
   .map((l) => {
     const p = fb.pages?.[l] ?? {};
