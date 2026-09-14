@@ -206,11 +206,20 @@ export function perRunArticles(manifest, now = Date.now()) {
 // for anything in LANGS). A disabled language is skipped without touching others.
 export const isLangEnabled = (lang) => LANG_POLICY?.[lang]?.enabled !== false;
 
-// A language's DAILY article target: its explicit LANG_POLICY.perDay (so mature
-// languages can post more and a young Page less), else the global warm-up ramp.
+// A language's DAILY article target, ramped by HOW NEW its Page is: young Pages
+// post fewer to protect per-post reach, climbing to the steady-state `perDay` cap.
+//   Page age (from LANG_POLICY.since):  < 2 wks → 1/day,  wks 3-4 → 3/day,  then 5,
+//   all capped by the language's own `perDay`. FB_BACKLOG_PER_DAY overrides for tests.
 export function perLangPerDay(lang, manifest, now = Date.now()) {
-  const p = LANG_POLICY?.[lang]?.perDay;
-  return Number.isFinite(p) ? p : perRunArticles(manifest, now);
+  const override = Number(process.env.FB_BACKLOG_PER_DAY);
+  if (Number.isFinite(override) && override > 0) return override;
+  const pol = LANG_POLICY?.[lang] ?? {};
+  const cap = Number.isFinite(pol.perDay) ? pol.perDay : 5;
+  const startMs = pol.since ? Date.parse(pol.since)
+    : manifest.meta?.startedAt ? Date.parse(manifest.meta.startedAt) : now;
+  const days = Math.max(0, Math.floor((now - startMs) / 86400000));
+  const ramp = days < 14 ? 1 : days < 28 ? 3 : 5; // warm-up by Page age
+  return Math.min(cap, ramp);
 }
 
 // How many DISTINCT articles the backlog already posted "today" in Malaysia time

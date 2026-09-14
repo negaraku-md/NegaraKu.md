@@ -21,17 +21,20 @@ export const WINDOWS = ['morning', 'lunch', 'evening'];
 //  • drains its OWN priority-ranked queue (ordered by that language's OWN search
 //    demand — see fb-queue.mjs), because the most-wanted article differs by
 //    audience: an English and a Tamil reader do not click the same things;
-//  • has its own `perDay` target (overrides the global warm-up ramp) and on/off;
+//  • RAMPS its daily volume by how NEW its Page is (`since` = Page launch date):
+//    1/day for the first 2 weeks, 3/day weeks 3-4, then up to `perDay`. A young
+//    Page posts fewer to protect per-post reach; `perDay` is the steady-state cap;
 //  • posts only in its preferred `windows` (its audience's peak times), EXCEPT the
-//    evening tick is a catch-up: any language behind its perDay posts there too,
-//    so a GitHub-skipped tick never makes a language miss the day.
-// Tune per language; add a row (and to LANGS) when a new language launches. Retune
-// `windows` to observed FB engagement once insights accumulate.
+//    evening tick is a catch-up: any language behind target posts there too, so a
+//    GitHub-skipped tick never makes a language miss the day.
+// Because every Page here is only days old, all currently ramp to ~1/day and climb
+// over the coming weeks. Tune per language; add a row (and to LANGS) when a new
+// language launches. Retune `windows` to observed FB engagement once insights land.
 export const LANG_POLICY = {
-  ms: { enabled: true, perDay: 3, windows: ['morning', 'lunch', 'evening'] },
-  en: { enabled: true, perDay: 3, windows: ['morning', 'lunch', 'evening'] },
-  zh: { enabled: true, perDay: 2, windows: ['lunch', 'evening'] },
-  ta: { enabled: true, perDay: 1, windows: ['evening'] }, // young Page + Tamil audience peaks evening
+  ms: { enabled: true, perDay: 3, since: '2026-09-09', windows: ['morning', 'lunch', 'evening'] },
+  en: { enabled: true, perDay: 3, since: '2026-09-09', windows: ['morning', 'lunch', 'evening'] },
+  zh: { enabled: true, perDay: 2, since: '2026-09-10', windows: ['lunch', 'evening'] },
+  ta: { enabled: true, perDay: 1, since: '2026-09-11', windows: ['evening'] }, // newest Page + Tamil peaks evening
   // ja/ko: not in LANGS yet (no corpus); add here + to LANGS when they launch.
 };
 
