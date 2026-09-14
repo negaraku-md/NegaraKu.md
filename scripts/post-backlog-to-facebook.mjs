@@ -27,7 +27,7 @@ import { readFile } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
 import matter from 'gray-matter';
 import {
-  PAGES, LANGS, GRAPH, localePrefix,
+  PAGES, LANGS, LANG_POLICY, WINDOWS, GRAPH, localePrefix,
   articleBases, langFile, isPublishedBase,
   hashtags, withUtm, articleUrl, pillarOf, pageTokenFor,
 } from './lib/facebook.mjs';
@@ -129,6 +129,15 @@ function targetsForBases(bases, manifest) {
   return out;
 }
 
+// Which Malaysia engagement window we are in now (MYT = UTC+8), matched to the
+// cron ticks (08:17 / 13:17 / 20:17 MYT). Languages post in their preferred windows.
+function currentWindow(now = Date.now()) {
+  const mytHour = new Date(now + 8 * 3600000).getUTCHours();
+  if (mytHour < 11) return 'morning';
+  if (mytHour < 17) return 'lunch';
+  return 'evening';
+}
+
 // The targets for this run. Two paths:
 //   • files named (CLI / CHANGED_FILES): post exactly those, to every language.
 //   • queue mode (cron): each language drains its OWN demand-ranked queue up to
@@ -145,15 +154,29 @@ function resolveTargets(files, manifest, { scheduled }) {
     const dayTarget = perLangPerDay(lang, manifest);
     let budget = dayTarget;
     if (scheduled) {
-      // Drip the language's daily target across the cron ticks; a skipped tick is
-      // self-healed by a later one, and each language is tracked independently.
+      // Post in the language's preferred WINDOWS (its audience's peak times), and
+      // drip its daily target across the windows it still has left today. The
+      // evening tick is a catch-up: a language behind its target posts there even
+      // if evening is not its window, so a GitHub-skipped tick never loses a day.
+      const win = currentWindow();
+      const isEvening = win === 'evening';
+      const langWindows = LANG_POLICY?.[lang]?.windows || WINDOWS;
       const already = postedTodayCountMYTForLang(manifest, lang);
       const remaining = dayTarget - already;
       if (remaining <= 0) {
         console.log(`[fb-backlog] [${lang}] daily target met (${already}/${dayTarget} today, MYT) — skip.`);
         continue;
       }
-      budget = Math.min(remaining, Math.max(1, Math.ceil(dayTarget / DAILY_TICKS)));
+      if (!langWindows.includes(win) && !isEvening) {
+        console.log(`[fb-backlog] [${lang}] not its window (${win}; wants ${langWindows.join('/')}) — waits.`);
+        continue;
+      }
+      // Spread `remaining` across the language's windows still to come (incl. now);
+      // the evening catch-up posts all that is left.
+      const idx = WINDOWS.indexOf(win);
+      const windowsLeft = langWindows.filter((w) => WINDOWS.indexOf(w) >= idx).length;
+      const denom = isEvening ? 1 : Math.max(1, windowsLeft);
+      budget = Math.min(remaining, Math.max(1, Math.ceil(remaining / denom)));
     }
     const picks = nextForLang(manifest, lang, budget, bases);
     for (const b of picks) {

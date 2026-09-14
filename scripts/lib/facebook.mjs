@@ -13,18 +13,25 @@ import matter from 'gray-matter';
 export const GRAPH = 'https://graph.facebook.com/v21.0';
 export const LANGS = ['ms', 'en', 'zh', 'ta']; // ms at "/", en at "/en", zh at "/zh", ta at "/ta"
 
-// Per-language posting policy. Each language drains its OWN priority-ranked queue
-// (ordered by that language's OWN search demand — see fb-queue.mjs), because the
-// most-wanted article differs by audience: an English reader and a Tamil reader
-// do not click the same things. `perDay` is that language's daily article target
-// (it overrides the global warm-up ramp in perRunArticles); `enabled:false` skips
-// a language entirely. Tune per language; add a row when a new language launches.
-// Kept conservative while the Pages are young — raise as they build an audience.
+// Posting WINDOWS = Malaysia's daily engagement peaks. The cron fires one tick per
+// window (see .github/workflows/facebook-backlog.yml: 08:17 / 13:17 / 20:17 MYT).
+export const WINDOWS = ['morning', 'lunch', 'evening'];
+
+// Per-language posting policy. Each language:
+//  • drains its OWN priority-ranked queue (ordered by that language's OWN search
+//    demand — see fb-queue.mjs), because the most-wanted article differs by
+//    audience: an English and a Tamil reader do not click the same things;
+//  • has its own `perDay` target (overrides the global warm-up ramp) and on/off;
+//  • posts only in its preferred `windows` (its audience's peak times), EXCEPT the
+//    evening tick is a catch-up: any language behind its perDay posts there too,
+//    so a GitHub-skipped tick never makes a language miss the day.
+// Tune per language; add a row (and to LANGS) when a new language launches. Retune
+// `windows` to observed FB engagement once insights accumulate.
 export const LANG_POLICY = {
-  ms: { enabled: true, perDay: 3 },
-  en: { enabled: true, perDay: 3 },
-  zh: { enabled: true, perDay: 2 },
-  ta: { enabled: true, perDay: 1 }, // brand-new Page — gentle ramp
+  ms: { enabled: true, perDay: 3, windows: ['morning', 'lunch', 'evening'] },
+  en: { enabled: true, perDay: 3, windows: ['morning', 'lunch', 'evening'] },
+  zh: { enabled: true, perDay: 2, windows: ['lunch', 'evening'] },
+  ta: { enabled: true, perDay: 1, windows: ['evening'] }, // young Page + Tamil audience peaks evening
   // ja/ko: not in LANGS yet (no corpus); add here + to LANGS when they launch.
 };
 

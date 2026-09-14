@@ -12,17 +12,18 @@ name: Post backlog to Facebook
 # Committing analytics/posted.json does NOT trigger a deploy (deploy.yml ignores
 # analytics/**).
 on:
-    # Fires 3× a day (~13:17 / 16:17 / 19:17 MYT). Each tick tops up toward the
-    # day's ramp target (postedTodayCountMYT), so the daily articles DRIP across
-    # the ticks instead of flooding in one burst, AND a GitHub-skipped tick is
-    # self-healed by a later one. Manual dispatch is never guarded (it doesn't
-    # set FB_SCHEDULED) and posts the full day's batch at once.
+    # Fires 3× a day at Malaysia's engagement PEAKS — morning / lunch / evening
+    # (~08:17 / 13:17 / 20:17 MYT). Each language posts in its preferred window(s)
+    # (LANG_POLICY.windows in scripts/lib/facebook.mjs) and DRIPS its daily target
+    # across them; the evening tick is a catch-up so a GitHub-skipped tick never
+    # makes a language miss the day. Manual dispatch (no FB_SCHEDULED) ignores
+    # windows and posts each language's full daily target at once.
     #
     # Minute is :17, NOT :00 — GitHub delays or DROPS scheduled runs queued at the
     # top of the hour (its most congested slot), which is why the :00 schedule
     # never fired. An off-peak minute is GitHub's own recommendation for cron.
   schedule:
-    - cron: '17 5,8,11 * * *' # ~13:17, 16:17, 19:17 MYT (UTC+8)
+    - cron: '17 0,5,12 * * *' # 08:17, 13:17, 20:17 MYT (UTC+8) — morning/lunch/evening
   workflow_dispatch:
     inputs:
       files:
